@@ -1,0 +1,221 @@
+/**
+ * Settings Module
+ * Handles theme, language, and font size settings
+ */
+
+class Settings {
+  constructor() {
+    this.defaults = {
+      theme: 'system',
+      language: 'en',
+      fontSize: 100,
+      showTransliteration: true,
+      showTranslation: true,
+      reciter: 'mishary'
+    };
+
+    this.settings = this.loadSettings();
+    this.init();
+  }
+
+  init() {
+    this.applyTheme();
+    this.applyLanguage();
+    this.applyFontSize();
+    this.setupEventListeners();
+  }
+
+  /**
+   * Load settings from localStorage
+   * @returns {object}
+   */
+  loadSettings() {
+    try {
+      const saved = localStorage.getItem('quranAppSettings');
+      return saved ? { ...this.defaults, ...JSON.parse(saved) } : { ...this.defaults };
+    } catch (e) {
+      return { ...this.defaults };
+    }
+  }
+
+  /**
+   * Save settings to localStorage
+   */
+  saveSettings() {
+    try {
+      localStorage.setItem('quranAppSettings', JSON.stringify(this.settings));
+    } catch (e) {
+      console.warn('Could not save settings to localStorage');
+    }
+  }
+
+  /**
+   * Get a setting value
+   * @param {string} key
+   * @returns {*}
+   */
+  get(key) {
+    return this.settings[key];
+  }
+
+  /**
+   * Set a setting value
+   * @param {string} key
+   * @param {*} value
+   */
+  set(key, value) {
+    this.settings[key] = value;
+    this.saveSettings();
+
+    // Apply changes immediately
+    switch (key) {
+      case 'theme':
+        this.applyTheme();
+        break;
+      case 'language':
+        this.applyLanguage();
+        break;
+      case 'fontSize':
+        this.applyFontSize();
+        break;
+    }
+
+    // Dispatch event for other modules
+    window.dispatchEvent(new CustomEvent('settingChanged', {
+      detail: { key, value }
+    }));
+  }
+
+  /**
+   * Apply theme setting
+   */
+  applyTheme() {
+    const theme = this.settings.theme;
+    const html = document.documentElement;
+
+    if (theme === 'dark') {
+      html.classList.add('dark');
+    } else if (theme === 'light') {
+      html.classList.remove('dark');
+    } else {
+      // System preference
+      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        html.classList.add('dark');
+      } else {
+        html.classList.remove('dark');
+      }
+    }
+
+    // Update select element if exists
+    const themeSelect = document.getElementById('theme-select');
+    if (themeSelect) {
+      themeSelect.value = theme;
+    }
+  }
+
+  /**
+   * Apply language setting
+   */
+  applyLanguage() {
+    const lang = this.settings.language;
+
+    // Apply translations using the translations module
+    if (typeof applyTranslations === 'function') {
+      applyTranslations(lang);
+    }
+
+    // Update Surah dropdown if exists
+    if (typeof populateSurahDropdown === 'function') {
+      populateSurahDropdown(lang);
+    }
+
+    // Update select element if exists
+    const langSelect = document.getElementById('language-select');
+    if (langSelect) {
+      langSelect.value = lang;
+    }
+  }
+
+  /**
+   * Apply font size setting
+   */
+  applyFontSize() {
+    const scale = this.settings.fontSize / 100;
+    document.documentElement.style.setProperty('--font-scale', scale);
+
+    // Update display if exists
+    const display = document.getElementById('font-size-display');
+    if (display) {
+      display.textContent = `${this.settings.fontSize}%`;
+    }
+  }
+
+  /**
+   * Setup event listeners for settings controls
+   */
+  setupEventListeners() {
+    // Theme toggle button
+    const themeToggle = document.getElementById('theme-toggle');
+    if (themeToggle) {
+      themeToggle.addEventListener('click', () => {
+        const currentTheme = this.settings.theme;
+        const newTheme = document.documentElement.classList.contains('dark') ? 'light' : 'dark';
+        this.set('theme', newTheme);
+      });
+    }
+
+    // Theme select
+    const themeSelect = document.getElementById('theme-select');
+    if (themeSelect) {
+      themeSelect.value = this.settings.theme;
+      themeSelect.addEventListener('change', (e) => {
+        this.set('theme', e.target.value);
+      });
+    }
+
+    // Language select
+    const langSelect = document.getElementById('language-select');
+    if (langSelect) {
+      langSelect.value = this.settings.language;
+      langSelect.addEventListener('change', (e) => {
+        this.set('language', e.target.value);
+      });
+    }
+
+    // Font size controls
+    const fontIncrease = document.getElementById('font-increase');
+    const fontDecrease = document.getElementById('font-decrease');
+
+    if (fontIncrease) {
+      fontIncrease.addEventListener('click', () => {
+        const newSize = Math.min(150, this.settings.fontSize + 10);
+        this.set('fontSize', newSize);
+      });
+    }
+
+    if (fontDecrease) {
+      fontDecrease.addEventListener('click', () => {
+        const newSize = Math.max(70, this.settings.fontSize - 10);
+        this.set('fontSize', newSize);
+      });
+    }
+
+    // Listen for system theme changes
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+      if (this.settings.theme === 'system') {
+        this.applyTheme();
+      }
+    });
+  }
+}
+
+// Initialize settings when DOM is ready
+let appSettings;
+document.addEventListener('DOMContentLoaded', () => {
+  appSettings = new Settings();
+});
+
+// Export for module usage
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = { Settings };
+}
