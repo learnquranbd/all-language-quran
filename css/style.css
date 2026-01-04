@@ -13,6 +13,39 @@ body {
   font-size: calc(var(--font-size-base) * var(--font-scale));
 }
 
+/* Surah Dropdown Styling */
+.surah-dropdown {
+  background-color: #374151;
+  color: #f3f4f6;
+}
+
+.surah-dropdown option {
+  background-color: #374151;
+  color: #f3f4f6;
+  padding: 8px 12px;
+}
+
+.surah-dropdown option:hover,
+.surah-dropdown option:focus,
+.surah-dropdown option:checked {
+  background-color: #4b5563;
+}
+
+.dark .surah-dropdown {
+  background-color: #111827;
+}
+
+.dark .surah-dropdown option {
+  background-color: #111827;
+  color: #f3f4f6;
+}
+
+.dark .surah-dropdown option:hover,
+.dark .surah-dropdown option:focus,
+.dark .surah-dropdown option:checked {
+  background-color: #1f2937;
+}
+
 /* Arabic Text Styling */
 .arabic-text {
   font-family: 'Amiri', 'Traditional Arabic', serif;
