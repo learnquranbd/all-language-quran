@@ -77,13 +77,20 @@ class WordRepeat {
 
       const rep = e.target.closest('[data-onlyrep]');
       if (rep) { this.onlyRepeated = !this.onlyRepeated; this.openTerm = null; this.openVerse = null; this.renderResults(); return; }
-      // Clicking a word (or its "N verses" toggle) expands its verse list in place.
-      const term = e.target.closest('[data-term], [data-occ]');
-      if (term) {
-        const k = term.getAttribute('data-term') || term.getAttribute('data-occ');
-        this.openTerm = this.openTerm === k ? null : k;
-        this.openVerse = null;
+      // Clicking a word shows its first verse inline right away; the "N verses"
+      // toggle just expands/collapses the list. Both stay in this module.
+      const wordBtn = e.target.closest('[data-term]');
+      const occBtn = e.target.closest('[data-occ]');
+      if (wordBtn || occBtn) {
+        const k = (wordBtn && wordBtn.getAttribute('data-term')) || (occBtn && occBtn.getAttribute('data-occ'));
+        if (this.openTerm === k) { this.openTerm = null; this.openVerse = null; }
+        else {
+          this.openTerm = k;
+          if (wordBtn) { this.openVerse = wordBtn.getAttribute('data-first-ref'); this.openVerseWord = k; }
+          else { this.openVerse = null; }
+        }
         this.renderResults();
+        if (this.openVerse) this.loadInlineVerse();
         return;
       }
       // Clicking a verse chip toggles that ayah inline (no modal).
@@ -108,7 +115,7 @@ class WordRepeat {
     const surah = getSurahByNumber(this.surah);
     const ayahCount = surah ? surah.ayahCount : 7;
     this.container.innerHTML = `
-      <div class="max-w-4xl mx-auto">
+      <div class="w-full">
         <div class="text-center mb-5">
           <h2 class="text-2xl font-bold mb-1">🔁 ${this.tt('wr_title')}</h2>
           <p class="text-gray-500 dark:text-gray-400 text-sm">${this.tt('wr_subtitle')}</p>
@@ -265,7 +272,7 @@ class WordRepeat {
         <span>${this.tt('wr_repeated')}: <b class="text-gray-800 dark:text-gray-100">${repeatedCount}</b></span>
       </div>
       <p class="text-center text-xs text-gray-400 mb-3">${this.tt('wr_tap_hint')}</p>
-      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 2xl:grid-cols-8 gap-2">
         ${list.map(x => this.termChip(x)).join('')}
       </div>`;
     if (this.type === 'exact') this.ensureMeta();

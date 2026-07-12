@@ -281,7 +281,7 @@ class NamesOfAllah {
     const body = this.mode === 'quiz' ? this.renderQuiz() : this.renderBrowse();
 
     this.root.innerHTML = `
-      <div dir="${dir}" class="max-w-5xl mx-auto space-y-6">
+      <div dir="${dir}" class="w-full space-y-6">
         <div class="text-center">
           <h2 class="text-2xl font-bold">${t('names_title', lang)}</h2>
           <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">${t('names_subtitle', lang)}</p>

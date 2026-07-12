@@ -52,7 +52,7 @@ class LearnHub {
         <h2 class="text-2xl font-bold mb-1">${t('learn_hub_title', lang)}</h2>
         <p class="text-gray-500 dark:text-gray-400">${t('learn_hub_subtitle', lang)}</p>
       </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-5 w-full">
         ${cards.map(c => `
           <button data-module="${c.module}"
                   class="learn-card group text-left rounded-2xl shadow-lg overflow-hidden bg-white dark:bg-gray-800
@@ -95,7 +95,7 @@ class LearnHub {
       { name: 'QuranReflect.com', url: 'https://quranreflect.com', emoji: '💭', desc: 'res_reflections' }
     ];
     return `
-      <div class="max-w-5xl mx-auto mt-10">
+      <div class="w-full mt-10">
         <h3 class="text-sm uppercase font-semibold text-gray-400 dark:text-gray-500 mb-3 text-center">🌐 ${t('resources_title', lang)}</h3>
         <div class="flex flex-wrap justify-center gap-2">
           ${RESOURCES.map(r => `

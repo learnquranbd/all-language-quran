@@ -40,7 +40,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
   <!-- Custom Styles -->
-  <link rel="stylesheet" href="css/style.css?v=45">
+  <link rel="stylesheet" href="css/style.css?v=46">
 </head>
 <body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300 overflow-x-hidden">
 
@@ -118,10 +118,11 @@
       </div>
     </header>
 
-    <div class="flex flex-1 overflow-hidden min-h-0">
+    <div class="flex flex-1 lg:items-start">
 
-      <!-- Sidebar -->
-      <aside id="sidebar" class="w-64 bg-white dark:bg-gray-800 shadow-lg transform -translate-x-full lg:translate-x-0 fixed lg:static inset-y-0 left-0 z-50 lg:z-40 transition-transform duration-300 overflow-y-auto min-h-0 lg:h-full">
+      <!-- Sidebar: mobile = slide-in drawer; desktop = sticky column that stays put
+           while the page scrolls, with its own scroll for long menus. -->
+      <aside id="sidebar" class="w-64 shrink-0 bg-white dark:bg-gray-800 shadow-lg transform -translate-x-full lg:translate-x-0 fixed lg:sticky inset-y-0 lg:inset-y-auto lg:top-16 left-0 z-50 lg:z-40 transition-transform duration-300 overflow-y-auto lg:h-[calc(100vh-4rem)] lg:self-start">
         <div class="p-4">
           <!-- Drill-down module nav (js/app-nav.js): a primary list (Subject, Learn,
                Memorize, Quiz, Audio, Mushaf); clicking a primary with children swaps
@@ -152,7 +153,7 @@
       <div id="sidebar-overlay" class="fixed inset-0 bg-black/50 z-40 lg:hidden hidden"></div>
 
       <!-- Main Content -->
-      <main class="flex-1 overflow-y-auto min-h-0">
+      <main class="flex-1 min-w-0">
         <div class="w-full px-4 py-6">
 
           <!-- Tabs Navigation -->
@@ -340,7 +341,7 @@
     </div>
 
     <!-- Footer -->
-    <footer class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 py-4 sticky bottom-0 z-40">
+    <footer class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 py-4 relative z-30">
       <div class="w-full px-4">
         <div class="flex flex-wrap items-center justify-center gap-x-4 gap-y-1 text-center text-sm text-gray-500 dark:text-gray-400">
           <span>&copy; 2024 Learn Quran BD</span>
@@ -353,6 +354,28 @@
     </footer>
   </div>
 
+  <!-- Go to top -->
+  <button id="go-top" title="Go to top" aria-label="Go to top"
+          class="fixed bottom-6 right-6 z-40 hidden w-11 h-11 rounded-full bg-primary text-white shadow-lg hover:bg-primary/90 items-center justify-center">
+    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7"/>
+    </svg>
+  </button>
+  <script>
+    (function () {
+      var btn = document.getElementById('go-top');
+      if (!btn) return;
+      function toggle() {
+        var down = (window.scrollY || document.documentElement.scrollTop) > 400;
+        btn.classList.toggle('hidden', !down);
+        btn.classList.toggle('flex', down);
+      }
+      window.addEventListener('scroll', toggle, { passive: true });
+      btn.addEventListener('click', function () { window.scrollTo({ top: 0, behavior: 'smooth' }); });
+      toggle();
+    })();
+  </script>
+
   <!-- Loading Overlay -->
   <div id="loading-overlay" class="fixed inset-0 bg-black/50 flex items-center justify-center z-50 hidden">
     <div class="bg-white dark:bg-gray-800 rounded-lg p-8 flex flex-col items-center">
@@ -362,49 +385,49 @@
   </div>
 
   <!-- Scripts -->
-  <script src="js/surah-data.js?v=45"></script>
-  <script src="js/translations.js?v=45"></script>
-  <script src="js/quran-data.js?v=45"></script>
-  <script src="js/ayah-modal.js?v=45"></script>
-  <script src="js/tabs.js?v=45"></script>
-  <script src="js/settings.js?v=45"></script>
-  <script src="js/wordbyword.js?v=45"></script>
-  <script src="js/grammar.js?v=45"></script>
-  <script src="js/memorize.js?v=45"></script>
-  <script src="js/quiz-center.js?v=45"></script>
-  <script src="js/word-highlight.js?v=45"></script>
-  <script src="js/audio.js?v=45"></script>
-  <script src="js/tafseer.js?v=45"></script>
-  <script src="js/tajweed.js?v=45"></script>
-  <script src="js/qaida-data.js?v=45"></script>
-  <script src="js/learn-kids.js?v=45"></script>
-  <script src="js/vocab-data.js?v=45"></script>
-  <script src="js/learn-vocab.js?v=45"></script>
-  <script src="js/names-data.js?v=45"></script>
-  <script src="js/learn-names.js?v=45"></script>
-  <script src="js/learn.js?v=45"></script>
-  <script src="js/handwriting.js?v=45"></script>
-  <script src="js/type-memorize.js?v=45"></script>
-  <script src="js/word-arrange.js?v=45"></script>
-  <script src="js/menu-data.js?v=45"></script>
-  <script src="js/legacy-surah-data.js?v=45"></script>
-  <script src="js/sidebar-menu.js?v=45"></script>
-  <script src="js/app-nav.js?v=45"></script>
-  <script src="js/topics-browser.js?v=45"></script>
-  <script src="js/word-repeat.js?v=45"></script>
-  <script src="js/sarf.js?v=45"></script>
-  <script src="js/topics-data.js?v=45"></script>
-  <script src="js/navigation.js?v=45"></script>
-  <script src="js/legacy-ayah.js?v=45"></script>
-  <script src="js/settings-drawer.js?v=45"></script>
-  <script src="js/firebase-config.js?v=45"></script>
-  <script src="js/account.js?v=45"></script>
-  <script src="js/ponder.js?v=45"></script>
-  <script src="js/mushaf.js?v=45"></script>
-  <script src="js/pwa.js?v=45"></script>
-  <script src="js/search.js?v=45"></script>
-  <script src="js/subscribe.js?v=45"></script>
-  <script src="js/bookmarks.js?v=45"></script>
-  <script src="js/app.js?v=45"></script>
+  <script src="js/surah-data.js?v=46"></script>
+  <script src="js/translations.js?v=46"></script>
+  <script src="js/quran-data.js?v=46"></script>
+  <script src="js/ayah-modal.js?v=46"></script>
+  <script src="js/tabs.js?v=46"></script>
+  <script src="js/settings.js?v=46"></script>
+  <script src="js/wordbyword.js?v=46"></script>
+  <script src="js/grammar.js?v=46"></script>
+  <script src="js/memorize.js?v=46"></script>
+  <script src="js/quiz-center.js?v=46"></script>
+  <script src="js/word-highlight.js?v=46"></script>
+  <script src="js/audio.js?v=46"></script>
+  <script src="js/tafseer.js?v=46"></script>
+  <script src="js/tajweed.js?v=46"></script>
+  <script src="js/qaida-data.js?v=46"></script>
+  <script src="js/learn-kids.js?v=46"></script>
+  <script src="js/vocab-data.js?v=46"></script>
+  <script src="js/learn-vocab.js?v=46"></script>
+  <script src="js/names-data.js?v=46"></script>
+  <script src="js/learn-names.js?v=46"></script>
+  <script src="js/learn.js?v=46"></script>
+  <script src="js/handwriting.js?v=46"></script>
+  <script src="js/type-memorize.js?v=46"></script>
+  <script src="js/word-arrange.js?v=46"></script>
+  <script src="js/menu-data.js?v=46"></script>
+  <script src="js/legacy-surah-data.js?v=46"></script>
+  <script src="js/sidebar-menu.js?v=46"></script>
+  <script src="js/app-nav.js?v=46"></script>
+  <script src="js/topics-browser.js?v=46"></script>
+  <script src="js/word-repeat.js?v=46"></script>
+  <script src="js/sarf.js?v=46"></script>
+  <script src="js/topics-data.js?v=46"></script>
+  <script src="js/navigation.js?v=46"></script>
+  <script src="js/legacy-ayah.js?v=46"></script>
+  <script src="js/settings-drawer.js?v=46"></script>
+  <script src="js/firebase-config.js?v=46"></script>
+  <script src="js/account.js?v=46"></script>
+  <script src="js/ponder.js?v=46"></script>
+  <script src="js/mushaf.js?v=46"></script>
+  <script src="js/pwa.js?v=46"></script>
+  <script src="js/search.js?v=46"></script>
+  <script src="js/subscribe.js?v=46"></script>
+  <script src="js/bookmarks.js?v=46"></script>
+  <script src="js/app.js?v=46"></script>
 </body>
 </html>

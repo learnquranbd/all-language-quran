@@ -61,7 +61,7 @@ class Sarf {
     const PERSON = { '1': this.tt('sarf_1st'), '2': this.tt('sarf_2nd'), '3': this.tt('sarf_3rd') };
     const NUM = { S: this.tt('sarf_singular'), D: this.tt('sarf_dual'), P: this.tt('sarf_plural') };
     this.container.innerHTML = `
-      <div class="max-w-4xl mx-auto">
+      <div class="w-full">
         <div class="text-center mb-4">
           <h2 class="text-2xl font-bold mb-1">🧬 ${this.tt('sarf_title')}</h2>
           <p class="text-gray-500 dark:text-gray-400 text-sm">${this.tt('sarf_subtitle')}</p>

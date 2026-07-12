@@ -26,16 +26,38 @@ class TopicsBrowser {
     this.OPEN_ALL_CAP = 30;    // max verses loaded at once via "Open all"
     this.overlay = null;
     this.modalQuery = '';
+    this.names = null;         // { englishTopic: localizedName } for the current language
+    this._namesLang = null;
 
     window.addEventListener('tabChanged', (e) => {
       if (e.detail.tabId === 'topics') this.ensureLoaded();
     });
     window.addEventListener('settingChanged', (e) => {
-      if (e.detail.key === 'language') { this.language = e.detail.value; if (this.loaded) this.render(); }
+      if (e.detail.key === 'language') {
+        this.language = e.detail.value;
+        this.ensureNames();
+        if (this.loaded) this.render();
+      }
     });
   }
 
   tt(key) { return t(key, this.language); }
+
+  /** Localized display name for a topic (falls back to the English key). */
+  dn(topic) { return (this.names && this.names[topic]) || topic; }
+
+  /** Load the topic-name translations for the current language (once). */
+  async ensureNames() {
+    if (this.language === 'en') { this.names = null; this._namesLang = 'en'; return; }
+    if (this._namesLang === this.language) return;
+    this._namesLang = this.language;
+    try {
+      const res = await fetch(`data/topic-names/${this.language}.json`);
+      if (!res.ok) throw new Error('no names');
+      this.names = await res.json();
+      if (this.loaded && this.container.querySelector('#topics-results')) this.render();
+    } catch (e) { this.names = null; }   // fall back to English display
+  }
 
   async ensureLoaded() {
     if (this.loaded) { this.render(); return; }
@@ -61,6 +83,7 @@ class TopicsBrowser {
     if (!this.byLetter[this.activeLetter]) this.activeLetter = this.letters[0];
     this.loaded = true;
     this.bindOnce();
+    this.ensureNames();
     this.render();
   }
 
@@ -79,7 +102,7 @@ class TopicsBrowser {
 
   render() {
     this.container.innerHTML = `
-      <div class="max-w-5xl mx-auto">
+      <div class="w-full">
         <div class="text-center mb-6">
           <h2 class="text-2xl font-bold mb-1">🗂️ ${this.tt('topics_title')}</h2>
           <p class="text-gray-500 dark:text-gray-400">${this.tt('topics_subtitle')}</p>
@@ -119,7 +142,7 @@ class TopicsBrowser {
 
   chip(item) {
     return `<button data-topic="${this.esc(item.topic)}" class="flex items-center gap-2 px-3 py-2 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-primary hover:shadow text-sm transition-all" dir="auto">
-      <span class="font-medium truncate max-w-[180px]">${this.esc(item.topic)}</span>
+      <span class="font-medium truncate max-w-[180px]">${this.esc(this.dn(item.topic))}</span>
       <span class="shrink-0 text-xs px-1.5 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-blue-500/15 dark:text-blue-300">${item.verses.length}</span>
     </button>`;
   }
@@ -202,7 +225,8 @@ class TopicsBrowser {
     let items;
     if (this.modalQuery) {
       const q = this.modalQuery.toLowerCase();
-      items = this.list.filter(i => i.topic.toLowerCase().includes(q)).slice(0, 200);
+      // Match the English key AND the localized name so search works in any language.
+      items = this.list.filter(i => i.topic.toLowerCase().includes(q) || this.dn(i.topic).toLowerCase().includes(q)).slice(0, 200);
     } else {
       items = this.byLetter[this.activeLetter] || [];
     }
@@ -212,7 +236,7 @@ class TopicsBrowser {
       <div class="grid grid-cols-1 sm:grid-cols-2 gap-1.5">
         ${items.map(i => `
           <button data-mtopic="${this.esc(i.topic)}" class="flex items-center justify-between gap-2 px-3 py-2 rounded-lg text-left hover:bg-gray-100 dark:hover:bg-gray-700 border border-transparent hover:border-gray-200 dark:hover:border-gray-600" dir="auto">
-            <span class="text-sm truncate">${this.esc(i.topic)}</span>
+            <span class="text-sm truncate">${this.esc(this.dn(i.topic))}</span>
             <span class="shrink-0 text-xs px-1.5 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-blue-500/15 dark:text-blue-300">${i.verses.length}</span>
           </button>`).join('')}
       </div>`;
@@ -222,7 +246,7 @@ class TopicsBrowser {
     const item = this.list.find(i => i.topic === name);
     if (!item) return this.showModalList();
     this.modalBack.classList.remove('hidden');
-    this.modalTitle.textContent = name;
+    this.modalTitle.textContent = this.dn(name);
     const verses = item.verses;
     this.modalBody.innerHTML = `
       <div class="flex items-center justify-between mb-3">
