@@ -27,6 +27,9 @@ class WordRepeat {
     this.loaded = false;
     this.ayahModal = null;
     this._ayahAudio = null;
+    this.wordIndex = null;       // normalized word -> [s:a:w] globally (Quran-wide exact counts)
+    this._meaning = {};          // "surah:lang" -> { normalizedToken: meaning }
+    this._metaToken = 0;
 
     window.addEventListener('tabChanged', (e) => { if (e.detail.tabId === 'wordrepeat') this.ensureLoaded(); });
     window.addEventListener('settingChanged', (e) => {
@@ -40,11 +43,12 @@ class WordRepeat {
     if (this.loaded) { this.render(); return; }
     this.container.innerHTML = `<div class="text-center py-16 text-gray-400">${this.tt('loading')}</div>`;
     try {
-      const [tk, rt] = await Promise.all([
+      const [tk, rt, wi] = await Promise.all([
         fetch('data/quran-tokens.json').then(r => r.json()),
-        fetch('data/roots.json').then(r => r.json())
+        fetch('data/roots.json').then(r => r.json()),
+        fetch('data/word-index.json').then(r => r.json()).catch(() => null)
       ]);
-      this.tokens = tk; this.roots = rt;
+      this.tokens = tk; this.roots = rt; this.wordIndex = wi;
     } catch (e) {
       this.container.innerHTML = `<div class="text-center py-16 text-red-500">${this.tt('topics_load_error')}</div>`;
       return;
@@ -64,8 +68,16 @@ class WordRepeat {
       if (sc) { this.scope = sc.getAttribute('data-scope'); this.openTerm = null; this.render(); return; }
       const rep = e.target.closest('[data-onlyrep]');
       if (rep) { this.onlyRepeated = !this.onlyRepeated; this.openTerm = null; this.renderResults(); return; }
+      const occ = e.target.closest('[data-occ]');
+      if (occ) { const k = occ.getAttribute('data-occ'); this.openTerm = this.openTerm === k ? null : k; this.renderResults(); return; }
+      // Clicking a word opens its verse (word highlighted) — one tap, like the old app.
       const term = e.target.closest('[data-term]');
-      if (term) { const k = term.getAttribute('data-term'); this.openTerm = this.openTerm === k ? null : k; this.renderResults(); return; }
+      if (term) {
+        const ref = term.getAttribute('data-first-ref'), w = term.getAttribute('data-term');
+        if (ref && typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: w });
+        else if (ref) this.openAyah(ref, w);
+        return;
+      }
       const verse = e.target.closest('[data-verse]');
       if (verse) {
         const ref = verse.getAttribute('data-verse'), w = verse.getAttribute('data-term-word');
@@ -145,11 +157,48 @@ class WordRepeat {
       }
     }
     return [...map.entries()]
-      .map(([term, e]) => ({ term, count: e.count, refs: [...e.refs].sort(this.refCmp) }))
+      .map(([term, e]) => {
+        const refs = [...e.refs].sort(this.refCmp);
+        return { term, count: e.count, refs, firstRef: refs[0], quran: this.quranCount(term) };
+      })
       .sort((a, b) => b.count - a.count || a.term.localeCompare(b.term));
   }
 
+  /** Quran-wide occurrence count for a term (exact word or root). */
+  quranCount(term) {
+    if (this.type === 'root') return (this.roots[term] || []).length;
+    return this.wordIndex ? (this.wordIndex[term] || []).length : null;
+  }
+
   refCmp(a, b) { const [s1, a1] = a.split(':').map(Number), [s2, a2] = b.split(':').map(Number); return s1 - s2 || a1 - a2; }
+
+  metaKey() { return `${this.surah}:${this.language}`; }
+
+  /** Fetch the surah's word-by-word meanings (in the UI language) and re-render. */
+  async ensureMeta() {
+    if (this.type !== 'exact') return;            // meanings are per exact word
+    const key = this.metaKey();
+    if (this._meaning[key]) return;               // cached
+    const token = ++this._metaToken;
+    try {
+      const info = getSurahByNumber(this.surah);
+      if (!info) return;
+      const verses = await QuranData.fetchRange(this.surah, 1, info.ayahCount, this.language);
+      if (token !== this._metaToken) return;
+      const map = {};
+      for (const v of verses) for (const w of (v.words || [])) {
+        const n = QuranData.normalizeWord ? QuranData.normalizeWord(w.arabic) : w.arabic;
+        if (n && !map[n] && w.meaning) map[n] = w.meaning;
+      }
+      this._meaning[key] = map;
+      if (this.container.querySelector('#wr-results')) this.renderResults();
+    } catch (e) { /* meanings are best-effort */ }
+  }
+
+  meaningOf(term) {
+    const m = this._meaning[this.metaKey()];
+    return m ? (m[term] || '') : '';
+  }
 
   renderResults() {
     const box = this.container.querySelector('#wr-results');
@@ -168,21 +217,28 @@ class WordRepeat {
         <span>${this.tt('wr_repeated')}: <b class="text-gray-800 dark:text-gray-100">${repeatedCount}</b></span>
       </div>
       <p class="text-center text-xs text-gray-400 mb-3">${this.tt('wr_tap_hint')}</p>
-      <div class="flex flex-wrap gap-2 justify-center">
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
         ${list.map(x => this.termChip(x)).join('')}
       </div>`;
+    if (this.type === 'exact') this.ensureMeta();
   }
 
   termChip(x) {
     const open = this.openTerm === x.term;
+    const meaning = this.type === 'exact' ? this.meaningOf(x.term) : '';
     return `
-      <div class="${open ? 'w-full' : ''}">
-        <button data-term="${this.esc(x.term)}" class="inline-flex items-center gap-2 px-3 py-2 rounded-xl bg-white dark:bg-gray-800 border ${open ? 'border-primary' : 'border-gray-200 dark:border-gray-700'} hover:border-primary transition-colors">
+      <div class="${open ? 'col-span-2 sm:col-span-3 lg:col-span-4' : ''} rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
+        <button data-term="${this.esc(x.term)}" data-first-ref="${x.firstRef}" class="w-full flex flex-col items-center gap-1 px-2 py-3 hover:bg-gray-50 dark:hover:bg-gray-700/40 rounded-xl transition-colors">
           <span class="ayah-arabic text-2xl" dir="rtl">${this.esc(x.term)}</span>
-          <span class="text-xs px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-blue-500/15 dark:text-blue-300">×${x.count}</span>
+          ${meaning ? `<span class="text-[11px] text-gray-600 dark:text-gray-300 text-center leading-tight" dir="auto">${this.esc(meaning)}</span>` : ''}
+          <span class="flex flex-wrap items-center justify-center gap-1 mt-0.5">
+            <span class="text-[10px] px-1.5 py-0.5 rounded-full bg-secondary/10 text-secondary dark:text-emerald-300" title="${this.tt('wr_in_surah')}">${this.tt('wr_surah_short')} ×${x.count}</span>
+            ${x.quran != null ? `<span class="text-[10px] px-1.5 py-0.5 rounded-full bg-primary/10 text-primary dark:text-blue-300" title="${this.tt('wr_in_quran')}">${this.tt('wr_quran_short')} ×${x.quran}</span>` : ''}
+          </span>
         </button>
+        ${x.count > 1 ? `<div class="px-2 pb-1 text-center"><button data-occ="${this.esc(x.term)}" class="text-[10px] text-gray-400 hover:text-primary">${open ? '▾' : '▸'} ${x.count} ${this.tt('topics_verses_label')}</button></div>` : ''}
         ${open ? `
-          <div class="mt-2 mb-3 p-3 rounded-xl bg-gray-50 dark:bg-gray-900/40 flex flex-wrap gap-1.5">
+          <div class="mx-2 mb-2 p-2 rounded-lg bg-gray-50 dark:bg-gray-900/40 flex flex-wrap gap-1.5 justify-center">
             ${x.refs.map(r => `<button data-verse="${r}" data-term-word="${this.esc(x.term)}" class="text-xs font-mono px-2 py-1 rounded-md bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 hover:bg-primary hover:text-white">${r}</button>`).join('')}
           </div>` : ''}
       </div>`;

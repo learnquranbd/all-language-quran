@@ -5,6 +5,10 @@
 
 const TRANSLATIONS = {
   en: {
+    wr_surah_short: 'Surah',
+    wr_quran_short: 'Quran',
+    wr_in_surah: 'In this surah',
+    wr_in_quran: 'In the whole Quran',
     no_range_selected: 'Please select a Surah or enter an ayah range',
     load_failed: 'Failed to load ayahs. Please try again.',
     flip_card: 'Flip card',
@@ -497,6 +501,10 @@ const TRANSLATIONS = {
   },
 
   bn: {
+    wr_surah_short: 'সূরা',
+    wr_quran_short: 'কুরআন',
+    wr_in_surah: 'এই সূরায়',
+    wr_in_quran: 'সম্পূর্ণ কুরআনে',
     no_range_selected: 'অনুগ্রহ করে একটি সূরা নির্বাচন করুন বা আয়াতের পরিসর লিখুন',
     load_failed: 'আয়াত লোড করা যায়নি। আবার চেষ্টা করুন।',
     flip_card: 'কার্ড উল্টান',
@@ -988,6 +996,10 @@ const TRANSLATIONS = {
   },
 
   ar: {
+    wr_surah_short: 'سورة',
+    wr_quran_short: 'القرآن',
+    wr_in_surah: 'في هذه السورة',
+    wr_in_quran: 'في القرآن كله',
     no_range_selected: 'يرجى اختيار سورة أو إدخال نطاق آيات',
     load_failed: 'تعذّر تحميل الآيات. يُرجى المحاولة مرة أخرى.',
     flip_card: 'اقلب البطاقة',
@@ -1479,6 +1491,10 @@ const TRANSLATIONS = {
   },
 
   ur: {
+    wr_surah_short: 'سورہ',
+    wr_quran_short: 'قرآن',
+    wr_in_surah: 'اس سورہ میں',
+    wr_in_quran: 'پورے قرآن میں',
     no_range_selected: 'براہِ کرم کوئی سورہ منتخب کریں یا آیات کی حد درج کریں',
     load_failed: 'آیات لوڈ نہیں ہو سکیں۔ دوبارہ کوشش کریں۔',
     flip_card: 'کارڈ پلٹیں',
@@ -1970,6 +1986,10 @@ const TRANSLATIONS = {
   },
 
   id: {
+    wr_surah_short: 'Surah',
+    wr_quran_short: 'Al-Quran',
+    wr_in_surah: 'Dalam surah ini',
+    wr_in_quran: 'Dalam seluruh Al-Quran',
     no_range_selected: 'Silakan pilih surah atau masukkan rentang ayat',
     load_failed: 'Gagal memuat ayat. Silakan coba lagi.',
     flip_card: 'Balik kartu',
@@ -2461,6 +2481,10 @@ const TRANSLATIONS = {
   },
 
   tr: {
+    wr_surah_short: 'Sure',
+    wr_quran_short: 'Kuran',
+    wr_in_surah: 'Bu surede',
+    wr_in_quran: 'Tüm Kuran’da',
     no_range_selected: 'Lütfen bir sure seçin veya ayet aralığı girin',
     load_failed: 'Ayetler yüklenemedi. Lütfen tekrar deneyin.',
     flip_card: 'Kartı çevir',
@@ -2952,6 +2976,10 @@ const TRANSLATIONS = {
   },
 
   fr: {
+    wr_surah_short: 'Sourate',
+    wr_quran_short: 'Coran',
+    wr_in_surah: 'Dans cette sourate',
+    wr_in_quran: 'Dans tout le Coran',
     no_range_selected: 'Veuillez choisir une sourate ou saisir une plage de versets',
     load_failed: 'Échec du chargement des versets. Veuillez réessayer.',
     flip_card: 'Retourner la carte',
@@ -3442,6 +3470,10 @@ const TRANSLATIONS = {
 
   },
   es: {
+    wr_surah_short: 'Sura',
+    wr_quran_short: 'Corán',
+    wr_in_surah: 'En esta sura',
+    wr_in_quran: 'En todo el Corán',
     no_range_selected: 'Seleccione una sura o introduzca un rango de aleyas',
     load_failed: 'No se pudieron cargar las aleyas. Inténtelo de nuevo.',
     flip_card: 'Girar tarjeta',
@@ -3913,6 +3945,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Historias de los profetas"
   },
   ru: {
+    wr_surah_short: 'Сура',
+    wr_quran_short: 'Коран',
+    wr_in_surah: 'В этой суре',
+    wr_in_quran: 'Во всём Коране',
     no_range_selected: 'Выберите суру или укажите диапазон аятов',
     load_failed: 'Не удалось загрузить аяты. Попробуйте ещё раз.',
     flip_card: 'Перевернуть карточку',
@@ -4384,6 +4420,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Истории пророков"
   },
   fa: {
+    wr_surah_short: 'سوره',
+    wr_quran_short: 'قرآن',
+    wr_in_surah: 'در این سوره',
+    wr_in_quran: 'در کل قرآن',
     no_range_selected: 'لطفاً یک سوره انتخاب کنید یا محدودهٔ آیات را وارد کنید',
     load_failed: 'بارگذاری آیات ناموفق بود. لطفاً دوباره تلاش کنید.',
     flip_card: 'برگرداندن کارت',
@@ -4855,6 +4895,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "داستان‌های پیامبران"
   },
   hi: {
+    wr_surah_short: 'सूरह',
+    wr_quran_short: 'कुरान',
+    wr_in_surah: 'इस सूरह में',
+    wr_in_quran: 'पूरे कुरान में',
     no_range_selected: 'कृपया एक सूरह चुनें या आयत सीमा दर्ज करें',
     load_failed: 'आयतें लोड नहीं हो सकीं। कृपया पुनः प्रयास करें।',
     flip_card: 'कार्ड पलटें',
@@ -5326,6 +5370,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "पैगंबरों की कहानियाँ"
   },
   de: {
+    wr_surah_short: 'Sure',
+    wr_quran_short: 'Koran',
+    wr_in_surah: 'In dieser Sure',
+    wr_in_quran: 'Im ganzen Koran',
     no_range_selected: 'Bitte wähle eine Sure oder gib einen Versbereich ein',
     load_failed: 'Verse konnten nicht geladen werden. Bitte erneut versuchen.',
     flip_card: 'Karte umdrehen',
@@ -5797,6 +5845,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Geschichten der Propheten"
   },
   ms: {
+    wr_surah_short: 'Surah',
+    wr_quran_short: 'Al-Quran',
+    wr_in_surah: 'Dalam surah ini',
+    wr_in_quran: 'Dalam seluruh Al-Quran',
     no_range_selected: 'Sila pilih surah atau masukkan julat ayat',
     load_failed: 'Gagal memuatkan ayat. Sila cuba lagi.',
     flip_card: 'Balikkan kad',
@@ -6268,6 +6320,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Kisah Para Nabi"
   },
   zh: {
+    wr_surah_short: '苏拉',
+    wr_quran_short: '古兰经',
+    wr_in_surah: '在本苏拉中',
+    wr_in_quran: '在整部古兰经中',
     no_range_selected: '请选择一个苏拉或输入经文范围',
     load_failed: '加载经文失败，请重试。',
     flip_card: '翻转卡片',
@@ -6739,6 +6795,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "先知们的故事"
   },
   ja: {
+    wr_surah_short: 'スーラ',
+    wr_quran_short: 'コーラン',
+    wr_in_surah: 'このスーラ内',
+    wr_in_quran: 'コーラン全体で',
     no_range_selected: 'スーラを選択するか、節の範囲を入力してください',
     load_failed: '節の読み込みに失敗しました。もう一度お試しください。',
     flip_card: 'カードをめくる',
