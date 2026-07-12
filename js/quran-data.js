@@ -146,6 +146,44 @@ const QuranData = {
     return this._morphCache[surah];
   },
 
+  /** Diacritized per-verse words: { "s:a": ["ٱلْحَمْدُ", ...] } (~1.5MB, loaded once).
+   * Keeps tashkeel so letter+haraka (fatha/kasra/damma) sequences can be matched. */
+  _quranWordsPromise: null,
+  async getQuranWords() {
+    if (!this._quranWordsPromise) {
+      this._quranWordsPromise = fetch('data/quran-words.json')
+        .then(r => { if (!r.ok) throw new Error('quran-words not found'); return r.json(); })
+        .catch(err => { this._quranWordsPromise = null; throw err; });
+    }
+    return this._quranWordsPromise;
+  },
+
+  /**
+   * Find every distinct Quran word CONTAINING the diacritized sequence `seq`
+   * (e.g. "تَ" = ta+fatha). Returns { total, verses, forms:[{word, count, first}] }
+   * sorted by frequency desc. Used by the kids "words with this sound" finder.
+   */
+  async findWordsContaining(seq) {
+    const data = await this.getQuranWords();
+    const forms = new Map(); // word -> { count, first: "s:a" }
+    let total = 0;
+    const verses = new Set();
+    for (const vk in data) {
+      for (const w of data[vk]) {
+        if (w.includes(seq)) {
+          total++; verses.add(vk);
+          const rec = forms.get(w);
+          if (rec) rec.count++;
+          else forms.set(w, { count: 1, first: vk });
+        }
+      }
+    }
+    const list = [...forms.entries()]
+      .map(([word, r]) => ({ word, count: r.count, first: r.first }))
+      .sort((a, b) => b.count - a.count);
+    return { total, verses: verses.size, forms: list };
+  },
+
   /** Exact-word index: { normalizedWord: ["surah:ayah:word", ...] } (~1MB, loaded once) */
   _wordIndexPromise: null,
   async getWordIndex() {

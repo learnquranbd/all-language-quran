@@ -57,6 +57,15 @@ class KidsQaida {
       window.speechSynthesis.addEventListener?.('voiceschanged', () => {}, { once: true });
     }
 
+    // Bundled Arabic audio clips (real recordings) so sound works even on
+    // devices with no Arabic speech-synthesis voice. { arabicText: "NNN.mp3" }
+    this._clipAudio = new Audio();
+    this._clips = null;
+    fetch('audio/qaida/manifest.json')
+      .then(r => r.ok ? r.json() : null)
+      .then(m => { this._clips = m || {}; })
+      .catch(() => { this._clips = {}; });
+
     this.injectStyles();
   }
 
@@ -86,21 +95,36 @@ class KidsQaida {
   /* ---------------------------------------------------------------- TTS */
 
   /**
-   * Speak Arabic text with the browser's speech synthesis.
-   * Falls back gracefully (visual-only + note) when TTS is unavailable.
+   * Play Arabic audio for `text`. Prefers a bundled real-voice clip (works on
+   * any device); falls back to the browser's speech synthesis; and only shows
+   * the "no audio" note when neither is possible.
    */
   speakArabic(text, rate = 0.9) {
+    // 1) Bundled clip (real recording) — the reliable path
+    if (this._clips && this._clips[text]) {
+      try {
+        if (window.speechSynthesis) window.speechSynthesis.cancel();
+        this._clipAudio.pause();
+        this._clipAudio.src = 'audio/qaida/' + this._clips[text];
+        this._clipAudio.playbackRate = Math.min(Math.max(rate + 0.15, 0.5), 1.5);
+        this._clipAudio.play().catch(() => this.speakViaSynth(text, rate));
+        return;
+      } catch (err) { /* fall through to synth */ }
+    }
+    // 2) Speech synthesis fallback
+    this.speakViaSynth(text, rate);
+  }
+
+  speakViaSynth(text, rate = 0.9) {
     if (!window.speechSynthesis || typeof SpeechSynthesisUtterance === 'undefined') {
       this.showTtsNote();
       return;
     }
     const synth = window.speechSynthesis;
     const voices = synth.getVoices();
-    if (!voices.length) {
-      // No voices at all on this device — keep working visually
-      this.showTtsNote();
-    }
     const arVoice = voices.find(v => v.lang && v.lang.toLowerCase().startsWith('ar'));
+    // Clip missing AND no Arabic voice → let the learner know (once)
+    if (!arVoice && (!this._clips || !this._clips[text])) this.showTtsNote();
     const utter = new SpeechSynthesisUtterance(text);
     if (arVoice) utter.voice = arVoice;
     utter.lang = arVoice ? arVoice.lang : 'ar-SA';
@@ -265,19 +289,102 @@ class KidsQaida {
           const example = h.makeExample(selected.char);
           const grad = KIDS_GRADIENTS[i % KIDS_GRADIENTS.length];
           return `
-            <button data-kids-sound-idx="${i}"
-                    class="rounded-2xl bg-gradient-to-br ${grad} shadow hover:shadow-lg hover:scale-105
-                           transition-all p-4 sm:p-5 flex flex-col items-center gap-1">
-              <span class="ayah-arabic !text-5xl sm:!text-6xl !leading-tight" dir="rtl">${example}</span>
-              <span class="ayah-arabic !text-lg !leading-normal text-gray-600 dark:text-gray-300" dir="rtl">${h.name}</span>
-              <span class="text-sm font-bold text-gray-600 dark:text-gray-300">
-                ${h.translit}${h.soundSuffix ? ` · «${h.soundSuffix}»` : ''}
-              </span>
-            </button>
+            <div class="rounded-2xl bg-gradient-to-br ${grad} shadow hover:shadow-lg transition-all p-4 sm:p-5 flex flex-col items-center gap-1">
+              <button data-kids-sound-idx="${i}" class="flex flex-col items-center gap-1 hover:scale-105 transition-transform">
+                <span class="ayah-arabic !text-5xl sm:!text-6xl !leading-tight" dir="rtl">${example}</span>
+                <span class="ayah-arabic !text-lg !leading-normal text-gray-600 dark:text-gray-300" dir="rtl">${h.name}</span>
+                <span class="text-sm font-bold text-gray-600 dark:text-gray-300">
+                  ${h.translit}${h.soundSuffix ? ` · «${h.soundSuffix}»` : ''}
+                </span>
+              </button>
+              <button data-kids-find-idx="${i}"
+                      class="mt-2 px-2.5 py-1 text-xs rounded-full bg-white/70 dark:bg-gray-900/40 text-gray-700 dark:text-gray-200 hover:bg-white dark:hover:bg-gray-900/70">
+                📖 ${t('find_in_quran', lang)}
+              </button>
+            </div>
           `;
         }).join('')}
       </div>
     `;
+  }
+
+  /* ------------------------------------------------ Words-in-Quran finder */
+
+  ensureFinderModal() {
+    if (this.finder) return;
+    this.finder = document.createElement('div');
+    this.finder.id = 'kids-finder-modal';
+    this.finder.className = 'fixed inset-0 bg-black/50 z-50 items-center justify-center p-4 hidden';
+    this.finder.innerHTML = `
+      <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl border border-gray-200 dark:border-gray-700 w-full max-w-2xl max-h-[85vh] flex flex-col">
+        <div class="flex items-center gap-2 px-5 py-3 border-b border-gray-200 dark:border-gray-700">
+          <h3 id="kids-finder-title" class="flex-1 font-bold text-gray-800 dark:text-gray-100"></h3>
+          <button id="kids-finder-close" class="p-2 rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
+        </div>
+        <div id="kids-finder-body" class="flex-1 overflow-y-auto p-4"></div>
+      </div>`;
+    document.body.appendChild(this.finder);
+    this.finder.addEventListener('click', (e) => {
+      if (e.target === this.finder || e.target.closest('#kids-finder-close')) {
+        this.finder.classList.add('hidden'); this.finder.classList.remove('flex');
+      }
+      const wordBtn = e.target.closest('[data-finder-verse]');
+      if (wordBtn) {
+        // Open the word (its first occurrence) in the reading view
+        this.finder.classList.add('hidden'); this.finder.classList.remove('flex');
+        window.location.hash = wordBtn.getAttribute('data-finder-verse');
+        if (typeof tabSystem !== 'undefined' && tabSystem) tabSystem.switchTab('reading');
+      }
+    });
+  }
+
+  async openWordFinder(idx) {
+    const h = QAIDA_HARAKAT[idx];
+    if (!h) return;
+    const lang = this.language;
+    const seq = h.makeExample(this.soundLetter);
+    this.ensureFinderModal();
+    this.finder.classList.remove('hidden'); this.finder.classList.add('flex');
+    this.finder.querySelector('#kids-finder-title').innerHTML =
+      `📖 <span class="ayah-arabic !text-2xl mx-1" dir="rtl">${seq}</span> — ${t('words_with_sound', lang)}`;
+    const body = this.finder.querySelector('#kids-finder-body');
+    body.innerHTML = `<p class="text-center text-gray-400 py-8">${t('loading', lang)}</p>`;
+
+    try {
+      const res = await QuranData.findWordsContaining(seq);
+      if (!res.forms.length) {
+        body.innerHTML = `<p class="text-center text-gray-500 dark:text-gray-400 py-8">${t('no_words_found', lang)}</p>`;
+        return;
+      }
+      const shown = res.forms.slice(0, 120);
+      body.innerHTML = `
+        <p class="text-center text-sm text-gray-500 dark:text-gray-400 mb-3">
+          ${t('words_found_count', lang).replace('{count}', res.forms.length).replace('{verses}', res.verses)}
+          <br><span class="text-xs">${t('tap_to_read_verse', lang)}</span>
+        </p>
+        <div class="flex flex-wrap gap-2 justify-center" dir="rtl">
+          ${shown.map(f => `
+            <button data-finder-verse="${f.first}"
+                    class="group px-3 py-2 rounded-xl bg-gray-50 dark:bg-gray-700/60 hover:bg-blue-50 dark:hover:bg-gray-700 border border-gray-200 dark:border-gray-600">
+              <span class="ayah-arabic !text-2xl">${this.highlightSeq(f.word, seq)}</span>
+              <span class="block text-[10px] text-gray-400" dir="ltr">×${f.count}</span>
+            </button>`).join('')}
+        </div>
+        ${res.forms.length > shown.length ? `<p class="text-center text-xs text-gray-400 mt-3">+${res.forms.length - shown.length}</p>` : ''}
+      `;
+    } catch (err) {
+      body.innerHTML = `<p class="text-center text-gray-500 dark:text-gray-400 py-8">${t('error', lang)}</p>`;
+    }
+  }
+
+  /** Wrap the first occurrence of the letter+haraka sequence in an amber highlight */
+  highlightSeq(word, seq) {
+    const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+    const i = word.indexOf(seq);
+    if (i < 0) return esc(word);
+    return esc(word.slice(0, i)) +
+      '<span class="bg-amber-200 dark:bg-amber-600/60 rounded">' + esc(word.slice(i, i + seq.length)) + '</span>' +
+      esc(word.slice(i + seq.length));
   }
 
   /* -------------------------------------------------------------- Words */
@@ -565,6 +672,12 @@ class KidsQaida {
     if (pickerBtn) {
       this.soundLetter = pickerBtn.getAttribute('data-kids-sound-letter');
       this.updateBody();
+      return;
+    }
+
+    const findBtn = e.target.closest('[data-kids-find-idx]');
+    if (findBtn) {
+      this.openWordFinder(parseInt(findBtn.getAttribute('data-kids-find-idx'), 10));
       return;
     }
 

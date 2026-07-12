@@ -5,6 +5,11 @@
 
 const TRANSLATIONS = {
   en: {
+    find_in_quran: "Find in Quran",
+    words_with_sound: "Words in the Quran with this sound",
+    words_found_count: "{count} words in {verses} verses",
+    tap_to_read_verse: "Tap a word to read it in the Quran",
+    no_words_found: "No words found",
     // Header
     select_surah: "Select Surah",
     load: "Load",
@@ -305,6 +310,11 @@ const TRANSLATIONS = {
   },
 
   bn: {
+    find_in_quran: "কুরআনে খুঁজুন",
+    words_with_sound: "এই ধ্বনিযুক্ত কুরআনের শব্দ",
+    words_found_count: "{verses} আয়াতে {count}টি শব্দ",
+    tap_to_read_verse: "কুরআনে পড়তে একটি শব্দে ট্যাপ করুন",
+    no_words_found: "কোনো শব্দ পাওয়া যায়নি",
     // Header
     select_surah: "সূরা নির্বাচন করুন",
     load: "লোড",
@@ -605,6 +615,11 @@ const TRANSLATIONS = {
   },
 
   ar: {
+    find_in_quran: "ابحث في القرآن",
+    words_with_sound: "كلمات القرآن بهذا الصوت",
+    words_found_count: "{count} كلمة في {verses} آية",
+    tap_to_read_verse: "اضغط على كلمة لقراءتها في القرآن",
+    no_words_found: "لا توجد كلمات",
     // Header
     select_surah: "اختر السورة",
     load: "تحميل",
@@ -905,6 +920,11 @@ const TRANSLATIONS = {
   },
 
   ur: {
+    find_in_quran: "قرآن میں تلاش کریں",
+    words_with_sound: "اس آواز والے قرآنی الفاظ",
+    words_found_count: "{verses} آیات میں {count} الفاظ",
+    tap_to_read_verse: "قرآن میں پڑھنے کے لیے لفظ پر ٹیپ کریں",
+    no_words_found: "کوئی لفظ نہیں ملا",
     // Header
     select_surah: "سورہ منتخب کریں",
     load: "لوڈ کریں",
@@ -1205,6 +1225,11 @@ const TRANSLATIONS = {
   },
 
   id: {
+    find_in_quran: "Cari di Al-Quran",
+    words_with_sound: "Kata dalam Al-Quran dengan bunyi ini",
+    words_found_count: "{count} kata dalam {verses} ayat",
+    tap_to_read_verse: "Ketuk kata untuk membacanya di Al-Quran",
+    no_words_found: "Tidak ada kata ditemukan",
     // Header
     select_surah: "Pilih Surah",
     load: "Muat",
@@ -1505,6 +1530,11 @@ const TRANSLATIONS = {
   },
 
   tr: {
+    find_in_quran: "Kur’an’da bul",
+    words_with_sound: "Bu sese sahip Kur’an kelimeleri",
+    words_found_count: "{verses} ayette {count} kelime",
+    tap_to_read_verse: "Kur’an’da okumak için bir kelimeye dokun",
+    no_words_found: "Kelime bulunamadı",
     // Header
     select_surah: "Sure Seçin",
     load: "Yükle",
@@ -1805,6 +1835,11 @@ const TRANSLATIONS = {
   },
 
   fr: {
+    find_in_quran: "Chercher dans le Coran",
+    words_with_sound: "Mots du Coran avec ce son",
+    words_found_count: "{count} mots dans {verses} versets",
+    tap_to_read_verse: "Touchez un mot pour le lire dans le Coran",
+    no_words_found: "Aucun mot trouvé",
     // Header
     select_surah: "Choisir une sourate",
     load: "Charger",
@@ -2104,6 +2139,11 @@ const TRANSLATIONS = {
 
   },
   es: {
+    find_in_quran: "Buscar en el Corán",
+    words_with_sound: "Palabras del Corán con este sonido",
+    words_found_count: "{count} palabras en {verses} aleyas",
+    tap_to_read_verse: "Toca una palabra para leerla en el Corán",
+    no_words_found: "No se encontraron palabras",
     "search": "Buscar",
     "search_title": "Búsqueda de repeticiones",
     "search_hint": "Descubre cuántas veces se repite una palabra o frase árabe exacta en todo el Corán.",
@@ -2383,6 +2423,11 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Historias de los profetas"
   },
   ru: {
+    find_in_quran: "Найти в Коране",
+    words_with_sound: "Слова Корана с этим звуком",
+    words_found_count: "{count} слов в {verses} аятах",
+    tap_to_read_verse: "Нажмите на слово, чтобы прочитать его в Коране",
+    no_words_found: "Слова не найдены",
     "search": "Поиск",
     "search_title": "Поиск повторений",
     "search_hint": "Узнайте, сколько раз определённое арабское слово или фраза повторяется во всём Коране.",
@@ -2662,6 +2707,11 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Истории пророков"
   },
   fa: {
+    find_in_quran: "جستجو در قرآن",
+    words_with_sound: "کلمات قرآن با این صدا",
+    words_found_count: "{count} کلمه در {verses} آیه",
+    tap_to_read_verse: "برای خواندن در قرآن روی کلمه بزنید",
+    no_words_found: "کلمه‌ای یافت نشد",
     "search": "جستجو",
     "search_title": "جستجوی تکرار",
     "search_hint": "ببینید یک واژه یا عبارت عربی مشخص چند بار در سراسر قرآن تکرار شده است.",
@@ -2941,6 +2991,11 @@ const TRANSLATIONS = {
     "stories_of_prophets": "داستان‌های پیامبران"
   },
   hi: {
+    find_in_quran: "क़ुरआन में खोजें",
+    words_with_sound: "इस ध्वनि वाले क़ुरआन के शब्द",
+    words_found_count: "{verses} आयतों में {count} शब्द",
+    tap_to_read_verse: "क़ुरआन में पढ़ने के लिए शब्द पर टैप करें",
+    no_words_found: "कोई शब्द नहीं मिला",
     "search": "खोजें",
     "search_title": "पुनरावृत्ति खोज",
     "search_hint": "जानें कि कोई विशिष्ट अरबी शब्द या वाक्यांश पूरे क़ुरआन में कितनी बार दोहराया गया है।",
@@ -3220,6 +3275,11 @@ const TRANSLATIONS = {
     "stories_of_prophets": "पैगंबरों की कहानियाँ"
   },
   de: {
+    find_in_quran: "Im Koran suchen",
+    words_with_sound: "Koran-Wörter mit diesem Laut",
+    words_found_count: "{count} Wörter in {verses} Versen",
+    tap_to_read_verse: "Tippe ein Wort an, um es im Koran zu lesen",
+    no_words_found: "Keine Wörter gefunden",
     "search": "Suchen",
     "search_title": "Wiederholungssuche",
     "search_hint": "Finden Sie heraus, wie oft sich ein bestimmtes arabisches Wort oder eine Wortfolge im gesamten Koran wiederholt.",
@@ -3499,6 +3559,11 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Geschichten der Propheten"
   },
   ms: {
+    find_in_quran: "Cari dalam al-Quran",
+    words_with_sound: "Perkataan al-Quran dengan bunyi ini",
+    words_found_count: "{count} perkataan dalam {verses} ayat",
+    tap_to_read_verse: "Ketik perkataan untuk membacanya dalam al-Quran",
+    no_words_found: "Tiada perkataan dijumpai",
     "search": "Cari",
     "search_title": "Carian Pengulangan",
     "search_hint": "Cari berapa kali sesuatu perkataan atau frasa Arab tertentu berulang dalam seluruh al-Quran.",
@@ -3778,6 +3843,11 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Kisah Para Nabi"
   },
   zh: {
+    find_in_quran: "在古兰经中查找",
+    words_with_sound: "含此音的古兰经词语",
+    words_found_count: "{verses}节中{count}个词",
+    tap_to_read_verse: "点击词语在古兰经中阅读",
+    no_words_found: "未找到词语",
     "search": "搜索",
     "search_title": "重复搜索",
     "search_hint": "查找某个确切的阿拉伯语单词或短语在整部《古兰经》中重复出现的次数。",
@@ -4057,6 +4127,11 @@ const TRANSLATIONS = {
     "stories_of_prophets": "先知们的故事"
   },
   ja: {
+    find_in_quran: "クルアーンで探す",
+    words_with_sound: "この音を含むクルアーンの語",
+    words_found_count: "{verses}節に{count}語",
+    tap_to_read_verse: "語をタップしてクルアーンで読む",
+    no_words_found: "語が見つかりません",
     "search": "検索",
     "search_title": "繰り返し検索",
     "search_hint": "特定のアラビア語の単語やフレーズがクルアーン全体で何回繰り返されているかを調べます。",
