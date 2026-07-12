@@ -517,16 +517,46 @@ class SidebarMenu {
     this.showModal(t('waqf_signs', lang));
     this.closeSidebar();
 
-    this.modalBody.innerHTML = `
-      <div class="bg-white rounded-lg p-2 text-center">
-        <img id="waqf-chart" src="${this.esc(QuranData.legacyImgBase + '/images/stop_sign.png')}"
-             class="max-w-full mx-auto" alt="${this.esc(t('waqf_signs', lang))}">
-      </div>`;
+    // Standard mushaf pause marks (waqf). category drives the colour band.
+    const SIGNS = [
+      { sym: 'مـ', ar: 'وَقْف لَازِم', tr: 'Waqf Lazim', key: 'waqf_lazim', cat: 'stop' },
+      { sym: 'لا', ar: 'لَا وَقْف', tr: 'Laa', key: 'waqf_laa', cat: 'no' },
+      { sym: 'ج', ar: 'وَقْف جَائِز', tr: 'Jaiz', key: 'waqf_jaiz', cat: 'ok' },
+      { sym: 'قلى', ar: 'الوَقْفُ أَوْلَى', tr: 'Al-Waqf Awla', key: 'waqf_awla', cat: 'stoppref' },
+      { sym: 'صلى', ar: 'الوَصْلُ أَوْلَى', tr: 'Al-Wasl Awla', key: 'wasl_awla', cat: 'contpref' },
+      { sym: 'ۘ', ar: 'سَكْتَة', tr: 'Saktah', key: 'waqf_saktah', cat: 'brief' },
+      { sym: '∴ … ∴', ar: 'مُعَانَقَة', tr: "Mu'anaqah", key: 'waqf_muanaqah', cat: 'embrace' },
+      { sym: 'ق', ar: 'قِيلَ عَلَيْهِ الوَقْف', tr: 'Qeela alayhi al-waqf', key: 'waqf_qeela', cat: 'ok' },
+      { sym: 'ك', ar: 'كَذَلِك', tr: 'Kadhalik', key: 'waqf_kadhalik', cat: 'same' }
+    ];
+    const BAND = {
+      stop: 'from-red-500 to-rose-500', no: 'from-emerald-500 to-green-500',
+      ok: 'from-amber-400 to-yellow-500', stoppref: 'from-orange-500 to-red-400',
+      contpref: 'from-teal-400 to-cyan-500', brief: 'from-sky-400 to-blue-500',
+      embrace: 'from-violet-500 to-purple-500', same: 'from-gray-400 to-gray-500'
+    };
 
-    const img = this.modalBody.querySelector('#waqf-chart');
-    img.addEventListener('error', () => {
-      this.modalBody.innerHTML = this.fallbackHtml();
-    });
+    this.modalBody.innerHTML = `
+      <p class="text-center text-sm text-gray-500 dark:text-gray-400 mb-4">${this.esc(t('waqf_intro', lang))}</p>
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+        ${SIGNS.map(s => `
+          <div class="rounded-xl overflow-hidden border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+            <div class="flex items-center gap-3 p-3">
+              <div class="shrink-0 w-14 h-14 rounded-lg bg-gradient-to-br ${BAND[s.cat]} flex items-center justify-center">
+                <span class="ayah-arabic !text-3xl text-white">${s.sym}</span>
+              </div>
+              <div class="min-w-0">
+                <div class="flex items-baseline gap-2">
+                  <span class="ayah-arabic !text-lg" dir="rtl">${s.ar}</span>
+                  <span class="text-xs text-gray-400">${s.tr}</span>
+                </div>
+                <p class="text-sm text-gray-600 dark:text-gray-300 leading-snug" dir="auto">${this.esc(t(s.key + '_desc', lang))}</p>
+              </div>
+            </div>
+          </div>`).join('')}
+      </div>
+      <p class="text-center text-xs text-gray-400 mt-4">${this.esc(t('waqf_note', lang))}</p>
+    `;
   }
 }
 

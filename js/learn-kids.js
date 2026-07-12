@@ -440,12 +440,73 @@ class KidsQaida {
       }
       const wordBtn = e.target.closest('[data-finder-verse]');
       if (wordBtn) {
-        // Open the word (its first occurrence) in the reading view
-        this.finder.classList.add('hidden'); this.finder.classList.remove('flex');
-        window.location.hash = wordBtn.getAttribute('data-finder-verse');
-        if (typeof tabSystem !== 'undefined' && tabSystem) tabSystem.switchTab('reading');
+        // Show the ayah in a modal layered over the finder — stay in place
+        this.openAyahModal(wordBtn.getAttribute('data-finder-verse'));
       }
     });
+  }
+
+  /* ---------- Ayah preview modal (no tab switch) ---------- */
+
+  ensureAyahModal() {
+    if (this.ayahModal) return;
+    this.ayahModal = document.createElement('div');
+    this.ayahModal.id = 'kids-ayah-modal';
+    // z-[60] sits above the finder (z-50) so it layers on top
+    this.ayahModal.className = 'fixed inset-0 bg-black/60 z-[60] items-center justify-center p-4 hidden';
+    this.ayahModal.innerHTML = `
+      <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl border border-gray-200 dark:border-gray-700 w-full max-w-xl max-h-[85vh] flex flex-col">
+        <div class="flex items-center gap-2 px-5 py-3 border-b border-gray-200 dark:border-gray-700">
+          <h3 id="kids-ayah-title" class="flex-1 font-bold text-gray-800 dark:text-gray-100"></h3>
+          <button id="kids-ayah-close" class="p-2 rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
+        </div>
+        <div id="kids-ayah-body" class="flex-1 overflow-y-auto p-5"></div>
+      </div>`;
+    document.body.appendChild(this.ayahModal);
+    this.ayahModal.addEventListener('click', (e) => {
+      if (e.target === this.ayahModal || e.target.closest('#kids-ayah-close')) {
+        this.ayahModal.classList.add('hidden'); this.ayahModal.classList.remove('flex');
+      }
+      const play = e.target.closest('[data-ayah-audio]');
+      if (play) {
+        if (!this._ayahAudio) this._ayahAudio = new Audio();
+        this._ayahAudio.src = play.getAttribute('data-ayah-audio');
+        this._ayahAudio.play().catch(() => {});
+      }
+    });
+  }
+
+  async openAyahModal(verseKey) {
+    const lang = this.language;
+    this.ensureAyahModal();
+    this.ayahModal.classList.remove('hidden'); this.ayahModal.classList.add('flex');
+    this.ayahModal.querySelector('#kids-ayah-title').textContent = verseKey;
+    const body = this.ayahModal.querySelector('#kids-ayah-body');
+    body.innerHTML = `<p class="text-center text-gray-400 py-8">${t('loading', lang)}</p>`;
+    try {
+      const [s, a] = verseKey.split(':').map(Number);
+      const verses = await QuranData.fetchRange(s, a, a, lang);
+      const v = verses[0];
+      if (!v) throw new Error('not found');
+      this.ayahModal.querySelector('#kids-ayah-title').textContent = `${v.surahName} ${v.key}`;
+      const wbw = (v.words || []).map(w => `
+        <span class="inline-block text-center px-1 my-1">
+          <span class="ayah-arabic !text-2xl block">${w.arabic}</span>
+          <span class="text-[11px] text-gray-500 dark:text-gray-400 block" dir="auto">${w.meaning || ''}</span>
+        </span>`).join('');
+      body.innerHTML = `
+        <div class="ayah-arabic !text-3xl !leading-loose text-center mb-3" dir="rtl">${v.arabic}</div>
+        <div class="flex flex-wrap justify-center gap-x-3 mb-3" dir="rtl">${wbw}</div>
+        <p class="text-center text-gray-600 dark:text-gray-300" dir="auto">${v.translation || ''}</p>
+        ${v.words && v.words[0] && v.words[0].audio ? `
+          <div class="text-center mt-4">
+            <button data-ayah-audio="${v.words.map(w => w.audio).filter(Boolean)[0]}"
+                    class="px-4 py-2 rounded-lg bg-primary text-white text-sm hover:bg-primary/80">🔊 ${t('play', lang)}</button>
+          </div>` : ''}
+      `;
+    } catch (err) {
+      body.innerHTML = `<p class="text-center text-gray-500 dark:text-gray-400 py-8">${t('error', lang)}</p>`;
+    }
   }
 
   async openWordFinder(idx) {
@@ -1142,11 +1203,10 @@ class KidsQaida {
       return;
     }
 
-    // An example word → open its verse in the reader
+    // An example word → show its verse in a modal (stay in the kids view)
     const exBtn = e.target.closest('[data-kids-example-verse]');
     if (exBtn) {
-      window.location.hash = exBtn.getAttribute('data-kids-example-verse');
-      if (typeof tabSystem !== 'undefined' && tabSystem) tabSystem.switchTab('reading');
+      this.openAyahModal(exBtn.getAttribute('data-kids-example-verse'));
       return;
     }
 

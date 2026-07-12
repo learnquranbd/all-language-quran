@@ -48,6 +48,9 @@ class MemorizeChecker {
       const restart = e.target.closest('[data-restart-ayah]');
       if (restart) return this.restartFromAyah(restart.getAttribute('data-restart-ayah'));
 
+      const orig = e.target.closest('[data-play-original]');
+      if (orig) return this.playOriginal(orig.getAttribute('data-play-original'), orig);
+
       const rec = e.target.closest('[data-play-recording]');
       if (rec) return this.playRecording(rec.getAttribute('data-play-recording'));
 
@@ -213,6 +216,10 @@ class MemorizeChecker {
                   class="px-1.5 py-0.5 text-xs rounded border border-gray-300 dark:border-gray-600 text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">
             ⟲ ${t('restart_from_here', lang)}
           </button>
+          <button data-play-original="${ayah.key}" title="${t('original_recitation', lang)}"
+                  class="px-1.5 py-0.5 text-xs rounded border border-blue-300 dark:border-blue-700 text-blue-600 dark:text-blue-400 hover:bg-blue-50 dark:hover:bg-blue-900/30">
+            🔊 ${t('original_recitation', lang)}
+          </button>
           <button data-play-recording="${ayah.key}" title="${t('your_recording', lang)}"
                   class="mem-rec-btn hidden px-1.5 py-0.5 text-xs rounded border border-emerald-300 dark:border-emerald-700 text-emerald-600 dark:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-900/30">
             ▶ ${t('your_recording', lang)}
@@ -374,6 +381,43 @@ class MemorizeChecker {
   showRecordingButton(ayahKey) {
     const btn = this.container.querySelector(`[data-play-recording="${ayahKey}"]`);
     if (btn && this.recordings[ayahKey]) btn.classList.remove('hidden');
+  }
+
+  /** Cumulative ayah offsets → the global 1..6236 ayah number for a verse */
+  globalAyahNumber(surah, ayah) {
+    if (!this._surahOffsets) {
+      this._surahOffsets = {};
+      let off = 0;
+      SURAH_DATA.forEach(s => { this._surahOffsets[s.number] = off; off += s.ayahCount; });
+    }
+    return this._surahOffsets[surah] + ayah;
+  }
+
+  /** Play the reference reciter audio for one ayah (Alafasy, islamic.network) */
+  playOriginal(ayahKey, btn) {
+    if (!this._origAudio) {
+      this._origAudio = new Audio();
+      this._origAudio.addEventListener('ended', () => this.markOrigPlaying(null));
+      this._origAudio.addEventListener('pause', () => this.markOrigPlaying(null));
+    }
+    // Toggle off if the same ayah is playing
+    if (this._origKey === ayahKey && !this._origAudio.paused) {
+      this._origAudio.pause();
+      return;
+    }
+    const [s, a] = ayahKey.split(':').map(Number);
+    const n = this.globalAyahNumber(s, a);
+    this._origKey = ayahKey;
+    this._origAudio.src = `https://cdn.islamic.network/quran/audio/128/ar.alafasy/${n}.mp3`;
+    this._origAudio.play().then(() => this.markOrigPlaying(btn)).catch(() => {});
+  }
+
+  markOrigPlaying(activeBtn) {
+    this.container.querySelectorAll('[data-play-original]').forEach(b => {
+      const on = b === activeBtn;
+      b.classList.toggle('bg-blue-100', on);
+      b.classList.toggle('dark:bg-blue-900/40', on);
+    });
   }
 
   playRecording(ayahKey) {
