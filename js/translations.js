@@ -5,6 +5,28 @@
 
 const TRANSLATIONS = {
   en: {
+    sarf_subtitle: 'Real Quranic word-forms for the most frequent roots — conjugation & declension.',
+    sarf_occurrences: 'occurrences',
+    sarf_verbs: 'Verb conjugation',
+    sarf_nouns: 'Noun declension',
+    sarf_perfect: 'Perfect (past)',
+    sarf_imperfect: 'Imperfect (present)',
+    sarf_imperative: 'Imperative',
+    sarf_1st: '1st',
+    sarf_2nd: '2nd',
+    sarf_3rd: '3rd',
+    sarf_masc: 'masc.',
+    sarf_fem: 'fem.',
+    sarf_singular: 'Singular',
+    sarf_dual: 'Dual',
+    sarf_plural: 'Plural',
+    sarf_nom: 'Nominative',
+    sarf_acc: 'Accusative',
+    sarf_gen: 'Genitive',
+    sarf_type_proper: 'proper',
+    sarf_type_active_participle: 'act. participle',
+    sarf_type_verbal_noun: 'verbal noun',
+    sarf_title: 'Sarf (Morphology)',
     wr_subtitle: 'How often each word repeats — by exact wording or shared root.',
     wr_whole_surah: 'Whole surah',
     wr_single_ayah: 'Single ayah',
@@ -441,6 +463,7 @@ const TRANSLATIONS = {
   },
 
   bn: {
+    sarf_title: 'সরফ (শব্দরূপ)',
     wr_title: 'শব্দ পুনরাবৃত্তি',
     mem_mode_arrange: 'সাজান',
     topics_title: 'বিষয়সমূহ',
@@ -846,6 +869,7 @@ const TRANSLATIONS = {
   },
 
   ar: {
+    sarf_title: 'الصرف',
     wr_title: 'تكرار الكلمات',
     mem_mode_arrange: 'ترتيب',
     topics_title: 'المواضيع',
@@ -1251,6 +1275,7 @@ const TRANSLATIONS = {
   },
 
   ur: {
+    sarf_title: 'صرف',
     wr_title: 'الفاظ کی تکرار',
     mem_mode_arrange: 'ترتیب',
     topics_title: 'موضوعات',
@@ -1656,6 +1681,7 @@ const TRANSLATIONS = {
   },
 
   id: {
+    sarf_title: 'Sharaf (Morfologi)',
     wr_title: 'Pengulangan Kata',
     mem_mode_arrange: 'Susun',
     topics_title: 'Topik',
@@ -2061,6 +2087,7 @@ const TRANSLATIONS = {
   },
 
   tr: {
+    sarf_title: 'Sarf (Morfoloji)',
     wr_title: 'Kelime Tekrarı',
     mem_mode_arrange: 'Sırala',
     topics_title: 'Konular',
@@ -2466,6 +2493,7 @@ const TRANSLATIONS = {
   },
 
   fr: {
+    sarf_title: 'Sarf (Morphologie)',
     wr_title: 'Répétition des mots',
     mem_mode_arrange: 'Ordonner',
     topics_title: 'Thèmes',
@@ -2870,6 +2898,7 @@ const TRANSLATIONS = {
 
   },
   es: {
+    sarf_title: 'Sarf (Morfología)',
     wr_title: 'Repetición de palabras',
     mem_mode_arrange: 'Ordenar',
     topics_title: 'Temas',
@@ -3255,6 +3284,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Historias de los profetas"
   },
   ru: {
+    sarf_title: 'Сарф (морфология)',
     wr_title: 'Повтор слов',
     mem_mode_arrange: 'Порядок',
     topics_title: 'Темы',
@@ -3640,6 +3670,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Истории пророков"
   },
   fa: {
+    sarf_title: 'صرف',
     wr_title: 'تکرار واژگان',
     mem_mode_arrange: 'چیدمان',
     topics_title: 'موضوعات',
@@ -4025,6 +4056,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "داستان‌های پیامبران"
   },
   hi: {
+    sarf_title: 'सर्फ़ (आकृति विज्ञान)',
     wr_title: 'शब्द पुनरावृत्ति',
     mem_mode_arrange: 'क्रम',
     topics_title: 'विषय',
@@ -4410,6 +4442,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "पैगंबरों की कहानियाँ"
   },
   de: {
+    sarf_title: 'Sarf (Morphologie)',
     wr_title: 'Wortwiederholung',
     mem_mode_arrange: 'Ordnen',
     topics_title: 'Themen',
@@ -4795,6 +4828,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Geschichten der Propheten"
   },
   ms: {
+    sarf_title: 'Saraf (Morfologi)',
     wr_title: 'Pengulangan Kata',
     mem_mode_arrange: 'Susun',
     topics_title: 'Topik',
@@ -5180,6 +5214,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Kisah Para Nabi"
   },
   zh: {
+    sarf_title: '词法（Sarf）',
     wr_title: '词语重复',
     mem_mode_arrange: '排列',
     topics_title: '主题',
@@ -5565,6 +5600,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "先知们的故事"
   },
   ja: {
+    sarf_title: 'サルフ（形態論）',
     wr_title: '単語の繰り返し',
     mem_mode_arrange: '並べ替え',
     topics_title: 'トピック',

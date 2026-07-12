@@ -15,6 +15,7 @@ const APP_NAV_PRIMARY = [
   { id: 'subject', emoji: '📖', label: 'nav_subject', drill: 'legacy' },
   { id: 'topics', emoji: '🗂️', label: 'topics_title', tab: 'topics' },
   { id: 'wordrepeat', emoji: '🔁', label: 'wr_title', tab: 'wordrepeat' },
+  { id: 'sarf', emoji: '🧬', label: 'sarf_title', tab: 'sarf' },
   { id: 'learn', emoji: '🎓', label: 'learn', children: [
       { module: 'kids',        emoji: '🧒', label: 'learn_kids_title' },
       { module: 'vocab',       emoji: '📚', label: 'learn_vocab_title' },
