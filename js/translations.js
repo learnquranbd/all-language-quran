@@ -5,6 +5,7 @@
 
 const TRANSLATIONS = {
   en: {
+    quick_links: 'Explore',
     sarf_subtitle: 'Real Quranic word-forms for the most frequent roots — conjugation & declension.',
     sarf_occurrences: 'occurrences',
     sarf_verbs: 'Verb conjugation',
@@ -463,6 +464,7 @@ const TRANSLATIONS = {
   },
 
   bn: {
+    quick_links: 'অন্বেষণ করুন',
     sarf_title: 'সরফ (শব্দরূপ)',
     wr_title: 'শব্দ পুনরাবৃত্তি',
     mem_mode_arrange: 'সাজান',
@@ -869,6 +871,7 @@ const TRANSLATIONS = {
   },
 
   ar: {
+    quick_links: 'استكشف',
     sarf_title: 'الصرف',
     wr_title: 'تكرار الكلمات',
     mem_mode_arrange: 'ترتيب',
@@ -1275,6 +1278,7 @@ const TRANSLATIONS = {
   },
 
   ur: {
+    quick_links: 'دریافت کریں',
     sarf_title: 'صرف',
     wr_title: 'الفاظ کی تکرار',
     mem_mode_arrange: 'ترتیب',
@@ -1681,6 +1685,7 @@ const TRANSLATIONS = {
   },
 
   id: {
+    quick_links: 'Jelajahi',
     sarf_title: 'Sharaf (Morfologi)',
     wr_title: 'Pengulangan Kata',
     mem_mode_arrange: 'Susun',
@@ -2087,6 +2092,7 @@ const TRANSLATIONS = {
   },
 
   tr: {
+    quick_links: 'Keşfet',
     sarf_title: 'Sarf (Morfoloji)',
     wr_title: 'Kelime Tekrarı',
     mem_mode_arrange: 'Sırala',
@@ -2493,6 +2499,7 @@ const TRANSLATIONS = {
   },
 
   fr: {
+    quick_links: 'Explorer',
     sarf_title: 'Sarf (Morphologie)',
     wr_title: 'Répétition des mots',
     mem_mode_arrange: 'Ordonner',
@@ -2898,6 +2905,7 @@ const TRANSLATIONS = {
 
   },
   es: {
+    quick_links: 'Explorar',
     sarf_title: 'Sarf (Morfología)',
     wr_title: 'Repetición de palabras',
     mem_mode_arrange: 'Ordenar',
@@ -3284,6 +3292,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Historias de los profetas"
   },
   ru: {
+    quick_links: 'Обзор',
     sarf_title: 'Сарф (морфология)',
     wr_title: 'Повтор слов',
     mem_mode_arrange: 'Порядок',
@@ -3670,6 +3679,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Истории пророков"
   },
   fa: {
+    quick_links: 'کاوش',
     sarf_title: 'صرف',
     wr_title: 'تکرار واژگان',
     mem_mode_arrange: 'چیدمان',
@@ -4056,6 +4066,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "داستان‌های پیامبران"
   },
   hi: {
+    quick_links: 'अन्वेषण',
     sarf_title: 'सर्फ़ (आकृति विज्ञान)',
     wr_title: 'शब्द पुनरावृत्ति',
     mem_mode_arrange: 'क्रम',
@@ -4442,6 +4453,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "पैगंबरों की कहानियाँ"
   },
   de: {
+    quick_links: 'Entdecken',
     sarf_title: 'Sarf (Morphologie)',
     wr_title: 'Wortwiederholung',
     mem_mode_arrange: 'Ordnen',
@@ -4828,6 +4840,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Geschichten der Propheten"
   },
   ms: {
+    quick_links: 'Terokai',
     sarf_title: 'Saraf (Morfologi)',
     wr_title: 'Pengulangan Kata',
     mem_mode_arrange: 'Susun',
@@ -5214,6 +5227,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Kisah Para Nabi"
   },
   zh: {
+    quick_links: '探索',
     sarf_title: '词法（Sarf）',
     wr_title: '词语重复',
     mem_mode_arrange: '排列',
@@ -5600,6 +5614,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "先知们的故事"
   },
   ja: {
+    quick_links: '見る',
     sarf_title: 'サルフ（形態論）',
     wr_title: '単語の繰り返し',
     mem_mode_arrange: '並べ替え',

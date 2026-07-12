@@ -42,12 +42,46 @@ class PonderCard {
       if (e.target.closest('#ponder-another')) {
         this.offset++;
         this.render();
+        return;
+      }
+      const ql = e.target.closest('[data-ql]');
+      if (ql) {
+        const tab = ql.getAttribute('data-ql');
+        const mod = ql.getAttribute('data-ql-module');
+        if (typeof tabSystem !== 'undefined' && tabSystem) tabSystem.switchTab(tab);
+        if (mod) window.dispatchEvent(new CustomEvent('learnModuleSelected', { detail: { module: mod } }));
       }
     });
   }
 
   isShowing() {
     return !!document.getElementById('ponder-card');
+  }
+
+  /** Quick-launch cards for the most-used modules (legacy dashboard shortcuts). */
+  quickLinksHtml(lang) {
+    const QUICK = [
+      { tab: 'topics',     emoji: '🗂️', label: 'topics_title',      grad: 'from-sky-400 to-blue-600' },
+      { tab: 'quiz',       emoji: '❓', label: 'quiz_center_title',  grad: 'from-purple-400 to-fuchsia-600' },
+      { tab: 'wordrepeat', emoji: '🔁', label: 'wr_title',          grad: 'from-amber-400 to-orange-500' },
+      { tab: 'sarf',       emoji: '🧬', label: 'sarf_title',        grad: 'from-teal-400 to-emerald-600' },
+      { tab: 'memorize',   emoji: '🎙️', label: 'memorize',          grad: 'from-rose-400 to-pink-600' },
+      { tab: 'learn', module: 'kids', emoji: '🧒', label: 'learn_kids_title', grad: 'from-yellow-400 to-amber-500' },
+      { tab: 'mushaf',     emoji: '📗', label: 'mushaf',            grad: 'from-indigo-400 to-violet-600' },
+      { tab: 'audio',      emoji: '🎧', label: 'audio',             grad: 'from-cyan-400 to-sky-600' }
+    ];
+    return `
+      <div class="max-w-3xl mx-auto mt-6">
+        <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-3 text-center">${t('quick_links', lang)}</h3>
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+          ${QUICK.map(q => `
+            <button data-ql="${q.tab}"${q.module ? ` data-ql-module="${q.module}"` : ''}
+                    class="group rounded-2xl overflow-hidden shadow hover:shadow-lg hover:-translate-y-0.5 transition-all bg-white dark:bg-gray-800 text-center">
+              <div class="h-16 bg-gradient-to-br ${q.grad} flex items-center justify-center text-3xl">${q.emoji}</div>
+              <div class="py-2 px-1 text-xs font-semibold text-gray-700 dark:text-gray-200">${t(q.label, lang)}</div>
+            </button>`).join('')}
+        </div>
+      </div>`;
   }
 
   dayIndex() {
@@ -78,6 +112,7 @@ class PonderCard {
           <p class="text-gray-400 py-6">${t('loading', lang)}</p>
         </div>
       </div>
+      ${this.quickLinksHtml(lang)}
     `;
 
     try {
