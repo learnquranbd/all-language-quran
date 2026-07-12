@@ -22,7 +22,8 @@ const APP_NAV_PRIMARY = [
     ] },
   { id: 'memorize', emoji: '🎙️', label: 'memorize', modes: [
       { mode: 'speech', emoji: '🎙️', label: 'mem_mode_speech' },
-      { mode: 'typing', emoji: '⌨️', label: 'mem_mode_typing' }
+      { mode: 'typing', emoji: '⌨️', label: 'mem_mode_typing' },
+      { mode: 'arrange', emoji: '🔀', label: 'mem_mode_arrange' }
     ] },
   { id: 'quiz',   emoji: '❓', label: 'quiz_center_title', tab: 'quiz' },
   { id: 'audio',  emoji: '🎧', label: 'audio',  tab: 'audio' },
@@ -177,10 +178,12 @@ class AppNav {
 
   setMemMode(mode) {
     this.memMode = mode;
-    const speech = document.getElementById('memorize-container');
-    const typing = document.getElementById('type-memorize-root');
-    if (speech) speech.classList.toggle('hidden', mode !== 'speech');
-    if (typing) typing.classList.toggle('hidden', mode !== 'typing');
+    const panels = {
+      speech: document.getElementById('memorize-container'),
+      typing: document.getElementById('type-memorize-root'),
+      arrange: document.getElementById('word-arrange-root')
+    };
+    Object.entries(panels).forEach(([m, el]) => { if (el) el.classList.toggle('hidden', m !== mode); });
     // Reflect the active mode on the in-panel buttons
     document.querySelectorAll('#memorize-modes [data-mmode]').forEach(btn => {
       const on = btn.getAttribute('data-mmode') === mode;
@@ -193,11 +196,9 @@ class AppNav {
       btn.classList.toggle('text-gray-700', !on);
       btn.classList.toggle('dark:text-gray-200', !on);
     });
-    if (mode === 'typing') {
-      // type-memorize.js renders on this event; fire once (it re-renders idempotently).
-      window.dispatchEvent(new CustomEvent('learnModuleSelected', { detail: { module: 'typememorize' } }));
-      this.typingInit = true;
-    }
+    // The typing / arrange modules render on this event (idempotent re-render).
+    if (mode === 'typing') window.dispatchEvent(new CustomEvent('learnModuleSelected', { detail: { module: 'typememorize' } }));
+    if (mode === 'arrange') window.dispatchEvent(new CustomEvent('learnModuleSelected', { detail: { module: 'wordarrange' } }));
   }
 
   switchTab(tabId) {

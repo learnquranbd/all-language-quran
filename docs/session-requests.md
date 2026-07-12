@@ -57,7 +57,7 @@ Every request from this session, in order, with status.
 ## Quiz suite → Quiz Center
 38. ✅ **Quiz Center** (live — all 9 types verified & deployed):
     - Ayah-sequence (next/prev) · Guess-the-Surah (multi-correct for repeated ayahs) · Word-meaning · Meaning→Word · Grammar/POS (noun/verb/particle/pronoun) · Complete-the-Ayah · Which-Juz · Tajweed-rule · Same-root.
-39. ⏳ **[Most-wanted] Word-arrangement memory test** — meanings shown, Arabic hidden, reveal to self-check.
+39. ✅ **[Most-wanted] Word-arrangement memory test** — meanings shown, Arabic hidden, reveal to self-check.
 
 ## Memorize / practice
 40. ✅ Memorize: **🔊 Original recitation** button beside "Your recitation" to compare. *(built)*

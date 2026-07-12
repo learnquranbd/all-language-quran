@@ -5,6 +5,19 @@
 
 const TRANSLATIONS = {
   en: {
+    wa_title: 'Word-Arrangement Memory Test',
+    wa_subtitle: 'Recall the wording from the meanings — Arabic is hidden until you check.',
+    wa_mode_reveal: 'Reveal',
+    wa_mode_arrange: 'Arrange',
+    wa_reveal_all: 'Reveal all',
+    wa_hide_all: 'Hide all',
+    wa_tap_reveal: 'Tap to reveal',
+    wa_tap_hint: 'Tap the Arabic words below in the right order to match the meanings.',
+    wa_reset: 'Reset',
+    wa_correct: 'Correct!',
+    wa_wrong: 'Not quite — try again.',
+    wa_no_words: 'No word data for this verse.',
+    mem_mode_arrange: 'Arrange',
     topics_browse_all: 'Browse all topics',
     topics_show_more: 'Show more',
     topics_subtitle: 'Browse the Quran by subject — pick a topic to see every verse it mentions.',
@@ -417,6 +430,7 @@ const TRANSLATIONS = {
   },
 
   bn: {
+    mem_mode_arrange: 'সাজান',
     topics_title: 'বিষয়সমূহ',
     nav_modules: 'মডিউল',
     nav_subject: 'বিষয়ভিত্তিক কুরআন',
@@ -820,6 +834,7 @@ const TRANSLATIONS = {
   },
 
   ar: {
+    mem_mode_arrange: 'ترتيب',
     topics_title: 'المواضيع',
     nav_modules: 'الوحدات',
     nav_subject: 'القرآن حسب الموضوع',
@@ -1223,6 +1238,7 @@ const TRANSLATIONS = {
   },
 
   ur: {
+    mem_mode_arrange: 'ترتیب',
     topics_title: 'موضوعات',
     nav_modules: 'ماڈیولز',
     nav_subject: 'موضوع کے مطابق قرآن',
@@ -1626,6 +1642,7 @@ const TRANSLATIONS = {
   },
 
   id: {
+    mem_mode_arrange: 'Susun',
     topics_title: 'Topik',
     nav_modules: 'Modul',
     nav_subject: 'Al-Quran per Topik',
@@ -2029,6 +2046,7 @@ const TRANSLATIONS = {
   },
 
   tr: {
+    mem_mode_arrange: 'Sırala',
     topics_title: 'Konular',
     nav_modules: 'Modüller',
     nav_subject: 'Konuya Göre Kuran',
@@ -2432,6 +2450,7 @@ const TRANSLATIONS = {
   },
 
   fr: {
+    mem_mode_arrange: 'Ordonner',
     topics_title: 'Thèmes',
     nav_modules: 'Modules',
     nav_subject: 'Coran par thème',
@@ -2834,6 +2853,7 @@ const TRANSLATIONS = {
 
   },
   es: {
+    mem_mode_arrange: 'Ordenar',
     topics_title: 'Temas',
     nav_modules: 'Módulos',
     nav_subject: 'Corán por tema',
@@ -3217,6 +3237,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Historias de los profetas"
   },
   ru: {
+    mem_mode_arrange: 'Порядок',
     topics_title: 'Темы',
     nav_modules: 'Модули',
     nav_subject: 'Коран по темам',
@@ -3600,6 +3621,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Истории пророков"
   },
   fa: {
+    mem_mode_arrange: 'چیدمان',
     topics_title: 'موضوعات',
     nav_modules: 'ماژول\u200cها',
     nav_subject: 'قرآن بر اساس موضوع',
@@ -3983,6 +4005,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "داستان‌های پیامبران"
   },
   hi: {
+    mem_mode_arrange: 'क्रम',
     topics_title: 'विषय',
     nav_modules: 'मॉड्यूल',
     nav_subject: 'विषय अनुसार कुरान',
@@ -4366,6 +4389,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "पैगंबरों की कहानियाँ"
   },
   de: {
+    mem_mode_arrange: 'Ordnen',
     topics_title: 'Themen',
     nav_modules: 'Module',
     nav_subject: 'Koran nach Thema',
@@ -4749,6 +4773,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Geschichten der Propheten"
   },
   ms: {
+    mem_mode_arrange: 'Susun',
     topics_title: 'Topik',
     nav_modules: 'Modul',
     nav_subject: 'Al-Quran mengikut Topik',
@@ -5132,6 +5157,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Kisah Para Nabi"
   },
   zh: {
+    mem_mode_arrange: '排列',
     topics_title: '主题',
     nav_modules: '模块',
     nav_subject: '按主题查看古兰经',
@@ -5515,6 +5541,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "先知们的故事"
   },
   ja: {
+    mem_mode_arrange: '並べ替え',
     topics_title: 'トピック',
     nav_modules: 'モジュール',
     nav_subject: 'トピック別コーラン',

@@ -40,7 +40,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
   <!-- Custom Styles -->
-  <link rel="stylesheet" href="css/style.css?v=16">
+  <link rel="stylesheet" href="css/style.css?v=17">
 </head>
 <body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300">
 
@@ -244,9 +244,13 @@
                 <button data-mmode="typing" class="mmode-btn px-4 py-2 rounded-lg text-sm font-medium bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-gray-600">
                   ⌨️ <span data-lang-key="mem_mode_typing">Typing</span>
                 </button>
+                <button data-mmode="arrange" class="mmode-btn px-4 py-2 rounded-lg text-sm font-medium bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-gray-600">
+                  🔀 <span data-lang-key="mem_mode_arrange">Arrange</span>
+                </button>
               </div>
               <div id="memorize-container" class="space-y-6"></div>
               <div id="type-memorize-root" class="hidden"></div>
+              <div id="word-arrange-root" class="hidden"></div>
             </div>
 
             <!-- Quiz Tab -->
@@ -326,45 +330,46 @@
   </div>
 
   <!-- Scripts -->
-  <script src="js/surah-data.js?v=16"></script>
-  <script src="js/translations.js?v=16"></script>
-  <script src="js/quran-data.js?v=16"></script>
-  <script src="js/tabs.js?v=16"></script>
-  <script src="js/settings.js?v=16"></script>
-  <script src="js/wordbyword.js?v=16"></script>
-  <script src="js/grammar.js?v=16"></script>
-  <script src="js/memorize.js?v=16"></script>
-  <script src="js/quiz-center.js?v=16"></script>
-  <script src="js/word-highlight.js?v=16"></script>
-  <script src="js/audio.js?v=16"></script>
-  <script src="js/tafseer.js?v=16"></script>
-  <script src="js/tajweed.js?v=16"></script>
-  <script src="js/qaida-data.js?v=16"></script>
-  <script src="js/learn-kids.js?v=16"></script>
-  <script src="js/vocab-data.js?v=16"></script>
-  <script src="js/learn-vocab.js?v=16"></script>
-  <script src="js/names-data.js?v=16"></script>
-  <script src="js/learn-names.js?v=16"></script>
-  <script src="js/learn.js?v=16"></script>
-  <script src="js/handwriting.js?v=16"></script>
-  <script src="js/type-memorize.js?v=16"></script>
-  <script src="js/menu-data.js?v=16"></script>
-  <script src="js/legacy-surah-data.js?v=16"></script>
-  <script src="js/sidebar-menu.js?v=16"></script>
-  <script src="js/app-nav.js?v=16"></script>
-  <script src="js/topics-browser.js?v=16"></script>
-  <script src="js/topics-data.js?v=16"></script>
-  <script src="js/navigation.js?v=16"></script>
-  <script src="js/legacy-ayah.js?v=16"></script>
-  <script src="js/settings-drawer.js?v=16"></script>
-  <script src="js/firebase-config.js?v=16"></script>
-  <script src="js/account.js?v=16"></script>
-  <script src="js/ponder.js?v=16"></script>
-  <script src="js/mushaf.js?v=16"></script>
-  <script src="js/pwa.js?v=16"></script>
-  <script src="js/search.js?v=16"></script>
-  <script src="js/subscribe.js?v=16"></script>
-  <script src="js/bookmarks.js?v=16"></script>
-  <script src="js/app.js?v=16"></script>
+  <script src="js/surah-data.js?v=17"></script>
+  <script src="js/translations.js?v=17"></script>
+  <script src="js/quran-data.js?v=17"></script>
+  <script src="js/tabs.js?v=17"></script>
+  <script src="js/settings.js?v=17"></script>
+  <script src="js/wordbyword.js?v=17"></script>
+  <script src="js/grammar.js?v=17"></script>
+  <script src="js/memorize.js?v=17"></script>
+  <script src="js/quiz-center.js?v=17"></script>
+  <script src="js/word-highlight.js?v=17"></script>
+  <script src="js/audio.js?v=17"></script>
+  <script src="js/tafseer.js?v=17"></script>
+  <script src="js/tajweed.js?v=17"></script>
+  <script src="js/qaida-data.js?v=17"></script>
+  <script src="js/learn-kids.js?v=17"></script>
+  <script src="js/vocab-data.js?v=17"></script>
+  <script src="js/learn-vocab.js?v=17"></script>
+  <script src="js/names-data.js?v=17"></script>
+  <script src="js/learn-names.js?v=17"></script>
+  <script src="js/learn.js?v=17"></script>
+  <script src="js/handwriting.js?v=17"></script>
+  <script src="js/type-memorize.js?v=17"></script>
+  <script src="js/word-arrange.js?v=17"></script>
+  <script src="js/menu-data.js?v=17"></script>
+  <script src="js/legacy-surah-data.js?v=17"></script>
+  <script src="js/sidebar-menu.js?v=17"></script>
+  <script src="js/app-nav.js?v=17"></script>
+  <script src="js/topics-browser.js?v=17"></script>
+  <script src="js/topics-data.js?v=17"></script>
+  <script src="js/navigation.js?v=17"></script>
+  <script src="js/legacy-ayah.js?v=17"></script>
+  <script src="js/settings-drawer.js?v=17"></script>
+  <script src="js/firebase-config.js?v=17"></script>
+  <script src="js/account.js?v=17"></script>
+  <script src="js/ponder.js?v=17"></script>
+  <script src="js/mushaf.js?v=17"></script>
+  <script src="js/pwa.js?v=17"></script>
+  <script src="js/search.js?v=17"></script>
+  <script src="js/subscribe.js?v=17"></script>
+  <script src="js/bookmarks.js?v=17"></script>
+  <script src="js/app.js?v=17"></script>
 </body>
 </html>
