@@ -1,16 +1,10 @@
 /**
  * Legacy Ayah Enrichment Module
- * Enriches the reading view with the old Bangla app's per-ayah resources
- * (served same-origin from QuranData.legacyBase):
- *   - "Irab" header button  → modal with corpus.quran.com morphology tables
- *                             (resources/irab/{s}_{a}.html)
- *   - "Bangla Tafsir" header button (bn UI only) → inline accordion built from
- *                             resources/quran/{s}/{a}_tafseer.html (7 sources)
- *   - Word-detail modal      → per-word colorful Bangla morphology image
- *                             (resources/wbwgrammer/{s}/{s}_{a}_{w}.png)
- *   - Surah actions bar      → mushaf read mode (Kitab font), per-surah
- *                             grammar PDF, words-per-surah tables
- * Does nothing when QuranData.legacyAvailable() is false.
+ * Adds an "I'rab (Syntax)" button to each ayah header, opening a modal with
+ * corpus.quran.com morphology tables. The tables are bundled in-project at
+ * data/irab/{s}_{a}.html (covers surahs 1-8 and 59-114); the large
+ * dependency-graph images they reference load cross-origin as <img> from
+ * QuranData.legacyImgBase (no CORS needed for image display).
  */
 
 class LegacyAyah {
@@ -53,20 +47,7 @@ class LegacyAyah {
  // retry: wordByWord may not have existed at construction
 
     const lang = this.language;
-    const seenSurahs = new Set();
-
     this.container.querySelectorAll('.ayah-card').forEach(card => {
-      const surah = parseInt(card.getAttribute('data-surah'));
-
-      // One actions bar before the FIRST card of each distinct surah
-      if (!seenSurahs.has(surah)) {
-        seenSurahs.add(surah);
-        const prev = card.previousElementSibling;
-        if (!prev || prev.getAttribute('data-legacy-bar') !== String(surah)) {
-          card.insertAdjacentElement('beforebegin', this.buildSurahBar(surah, lang));
-        }
-      }
-
       if (card.dataset.legacyEnhanced) return;
       card.dataset.legacyEnhanced = '1';
       this.addHeaderButtons(card, lang);
@@ -84,20 +65,12 @@ class LegacyAyah {
 
     const buttons = [];
 
+    // I'rab (syntax) covers surahs 1-8 and 59-114 in the bundled dataset
     const irabBtn = document.createElement('button');
     irabBtn.className = 'legacy-irab-btn ' + this.pillClass();
     irabBtn.title = t('irab_label', lang);
     irabBtn.textContent = '🏛 ' + t('irab_label', lang);
     buttons.push(irabBtn);
-
-    // Bangla tafsir is Bangla-only content: offer it only on the bn UI
-    if (lang === 'bn') {
-      const tafsirBtn = document.createElement('button');
-      tafsirBtn.className = 'legacy-btafsir-btn ' + this.pillClass();
-      tafsirBtn.title = t('bangla_tafseer', lang);
-      tafsirBtn.textContent = '📚 ' + t('bangla_tafseer', lang);
-      buttons.push(tafsirBtn);
-    }
 
     // Keep the pills grouped with the existing toggles (before the ml-auto meta span)
     const meta = header.querySelector('.ml-auto');
@@ -117,43 +90,16 @@ class LegacyAyah {
       return;
     }
 
-    const btafsirBtn = e.target.closest('.legacy-btafsir-btn');
-    if (btafsirBtn) {
-      const card = btafsirBtn.closest('.ayah-card');
-      if (card) this.toggleBanglaTafsir(card);
-      return;
-    }
-
-    // Bangla-tafsir accordion headers (our own class — .tafsir-acc is app.js's)
-    const acc = e.target.closest('.legacy-acc');
-    if (acc) {
-      const body = acc.parentElement.querySelector('.legacy-acc-body');
-      const icon = acc.querySelector('.acc-icon');
-      if (body) {
-        const open = body.classList.contains('hidden');
-        body.classList.toggle('hidden', !open);
-        if (icon) icon.textContent = open ? '−' : '+';
-      }
-      return;
-    }
-
-    const actionBtn = e.target.closest('[data-legacy-action]');
-    if (actionBtn) {
-      const surah = parseInt(actionBtn.getAttribute('data-surah'));
-      const action = actionBtn.getAttribute('data-legacy-action');
-      if (action === 'read') this.openReadMode(surah);
-      else if (action === 'words') this.openSurahWords(surah);
-    }
   }
 
   /* ------------------------------------------------------------------ *
    * Fetching + sanitizing legacy HTML fragments
    * ------------------------------------------------------------------ */
 
-  /** Fetch a legacy fragment (path relative to legacyBase), cached; null on failure */
+  /** Fetch a bundled fragment (same-origin path), cached; null on failure */
   fetchLegacy(path) {
     if (!this._fetchCache.has(path)) {
-      this._fetchCache.set(path, fetch(QuranData.legacyBase + path)
+      this._fetchCache.set(path, fetch(path)
         .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.text(); })
         .catch(() => null));
     }
@@ -187,12 +133,17 @@ class LegacyAyah {
     return div;
   }
 
-  /** Rewrite img src: "/resources/..." → legacyBase-rooted; "images/..." → baseDir-relative */
+  /**
+   * Rewrite img src to the external image host. The i'rab dependency-graph
+   * images (src="/resources/irab/images/N.png") are too large to bundle, so
+   * they load cross-origin as plain <img> from the original site (no CORS
+   * needed for image display).
+   */
   rewriteImages(root, baseDir) {
     root.querySelectorAll('img').forEach(img => {
       const src = img.getAttribute('src') || '';
       if (!src || /^(https?:|data:|\/\/)/i.test(src)) return;
-      img.setAttribute('src', src.startsWith('/') ? QuranData.legacyBase + src : baseDir + '/' + src);
+      img.setAttribute('src', QuranData.legacyImgBase + '/' + src.replace(/^\//, ''));
       img.setAttribute('loading', 'lazy');
     });
   }
@@ -299,7 +250,7 @@ class LegacyAyah {
     this.updateIrabNav();
     this.modalBody.innerHTML = this.loadingHtml();
 
-    const html = await this.fetchLegacy(`/resources/irab/${surah}_${ayah}.html`);
+    const html = await this.fetchLegacy(`data/irab/${surah}_${ayah}.html`);
 
     // Stale guard: user may have navigated or closed while fetching
     if (this.modalMode !== 'irab' || this.modalSurah !== surah || this.modalAyah !== ayah) return;
@@ -309,7 +260,7 @@ class LegacyAyah {
       return;
     }
 
-    const content = this.sanitize(html, QuranData.legacyBase + '/resources/irab');
+    const content = this.sanitize(html, true);
     content.className = 'legacy-html legacy-irab';
     this.modalBody.innerHTML = '';
     this.modalBody.appendChild(content);
@@ -337,175 +288,16 @@ class LegacyAyah {
   }
 
   /* ------------------------------------------------------------------ *
-   * 2. Inline Bangla tafsir accordion (7 legacy sources)
-   * ------------------------------------------------------------------ */
-
-  async toggleBanglaTafsir(card) {
-    let section = card.querySelector('.legacy-btafsir');
-    if (section) {
-      section.classList.toggle('hidden');
-      return;
-    }
-
-    section = document.createElement('div');
-    section.className = 'legacy-btafsir mt-3 space-y-2';
-    const anchor = card.querySelector('.inline-tafsir');
-    if (anchor) anchor.insertAdjacentElement('afterend', section);
-    else (card.querySelector('.ayah-content') || card).appendChild(section);
-
-    section.innerHTML = this.loadingHtml();
-
-    const surah = parseInt(card.getAttribute('data-surah'));
-    const ayah = parseInt(card.getAttribute('data-ayah'));
-    const html = await this.fetchLegacy(`/resources/quran/${surah}/${ayah}_tafseer.html`);
-    if (!html) {
-      section.innerHTML = this.unavailableHtml();
-      return;
-    }
-
-    // Convert the old Bootstrap panel-group accordion into our accordion pattern
-    const parsed = this.sanitize(html, QuranData.legacyBase + `/resources/quran/${surah}`);
-    const panels = [...parsed.querySelectorAll('.panel')];
-
-    section.innerHTML = panels.map(panel => {
-      const title = (panel.querySelector('.panel-title')?.textContent || '').trim();
-      const body = panel.querySelector('.panel-body')?.innerHTML || '';
-      return `
-        <div class="rounded-lg border border-gray-200 dark:border-gray-700 overflow-hidden">
-          <button class="legacy-acc w-full flex items-center justify-between px-4 py-2 text-sm font-medium
-                         bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-gray-600">
-            <span dir="auto">${title}</span><span class="acc-icon">+</span>
-          </button>
-          <div class="legacy-acc-body hidden px-4 py-3 text-sm leading-relaxed text-gray-700 dark:text-gray-200" dir="auto">${body}</div>
-        </div>
-      `;
-    }).join('') || this.unavailableHtml();
-  }
-
-  /* ------------------------------------------------------------------ *
-   * 5. Surah actions bar (read mode / grammar PDF / surah words)
-   * ------------------------------------------------------------------ */
-
-  buildSurahBar(surah, lang) {
-    const info = (typeof getSurahByNumber === 'function') ? getSurahByNumber(surah) : null;
-    const name = (typeof getSurahName === 'function')
-      ? getSurahName(surah, lang)
-      : (info && info.names ? info.names.en : 'Surah ' + surah);
-    const arabic = info && info.arabicName ? ' (' + info.arabicName + ')' : '';
-    const pill = this.pillClass();
-
-    const bar = document.createElement('div');
-    bar.className = 'legacy-surah-bar bg-white dark:bg-gray-800 rounded-lg shadow px-4 py-2 flex flex-wrap items-center gap-2';
-    bar.setAttribute('data-legacy-bar', String(surah));
-    bar.innerHTML = `
-      <span class="text-sm font-semibold text-gray-700 dark:text-gray-200" dir="auto">📖 ${surah}. ${name}${arabic}</span>
-      <span class="flex-1"></span>
-      <button data-legacy-action="read" data-surah="${surah}" class="${pill}">📗 ${t('read_mode', lang)}</button>
-      <button data-legacy-action="words" data-surah="${surah}" class="${pill}">🔡 ${t('surah_words', lang)}</button>
-    `;
-    return bar;
-  }
-
-  /** Mushaf read mode: legacy tajweed-colored page in the Kitab font */
-  async openReadMode(surah) {
-    const lang = this.language;
-    this.modalMode = 'read';
-    this.modalSurah = surah;
-
-    const name = (typeof getSurahName === 'function') ? getSurahName(surah, lang) : String(surah);
-    this.openModal(`${t('read_mode', lang)} — ${name}`, {});
-    this.modalBody.innerHTML = this.loadingHtml();
-
-    const html = await this.fetchLegacy(`/partials/quran/surah_tajweed/${surah}.html`);
-    if (this.modalMode !== 'read' || this.modalSurah !== surah) return;
-    if (!html) {
-      this.modalBody.innerHTML = this.unavailableHtml();
-      return;
-    }
-
-    const content = this.sanitize(html, QuranData.legacyBase + '/partials/quran/surah_tajweed');
-    content.className = 'qtext-page';
-    content.setAttribute('dir', 'rtl');
-    this.modalBody.innerHTML = '';
-    this.modalBody.appendChild(content);
-  }
-
-  /** Words-per-surah repetition tables (exact word + lemma tabs) */
-  async openSurahWords(surah) {
-    const lang = this.language;
-    this.modalMode = 'words';
-    this.modalSurah = surah;
-
-    const name = (typeof getSurahName === 'function') ? getSurahName(surah, lang) : String(surah);
-    this.openModal(`${t('surah_words', lang)} — ${name}`, {});
-    this.modalBody.innerHTML = this.loadingHtml();
-
-    const html = await this.fetchLegacy(`/partials/arabic_languages/wordspersurah/${surah}.html`);
-    if (this.modalMode !== 'words' || this.modalSurah !== surah) return;
-    if (!html) {
-      this.modalBody.innerHTML = this.unavailableHtml();
-      return;
-    }
-
-    const content = this.sanitize(html, QuranData.legacyBase + '/partials/arabic_languages/wordspersurah');
-    content.className = 'legacy-html';
-    this.convertTabs(content);
-    this.modalBody.innerHTML = '';
-    this.modalBody.appendChild(content);
-  }
-
-  /** Turn a Bootstrap nav-tabs + tab-content fragment into our own tab buttons */
-  convertTabs(root) {
-    const panes = [...root.querySelectorAll('.tab-pane')];
-    if (!panes.length) return;
-    panes.forEach((pane, i) => {
-      pane.classList.remove('fade', 'show', 'active');
-      pane.classList.toggle('hidden', i !== 0);
-    });
-
-    const nav = root.querySelector('.nav-tabs');
-    if (!nav) return;
-    const bar = document.createElement('div');
-    bar.className = 'flex flex-wrap gap-2 mb-3';
-    [...nav.querySelectorAll('a')].forEach((a, i) => {
-      const btn = document.createElement('button');
-      btn.type = 'button';
-      btn.setAttribute('data-legacy-tab', (a.getAttribute('href') || '').replace(/^#/, ''));
-      btn.className = this.tabBtnClass(i === 0);
-      btn.textContent = a.textContent.trim();
-      bar.appendChild(btn);
-    });
-    nav.replaceWith(bar);
-  }
-
-  /** Tab buttons live inside the forced-light .legacy-html plate */
-  tabBtnClass(active) {
-    return 'px-3 py-1.5 text-sm rounded-full border transition-colors ' + (active
-      ? 'bg-primary text-white border-primary'
-      : 'border-gray-300 text-gray-600 hover:bg-gray-100');
-  }
-
-  /* ------------------------------------------------------------------ *
    * Scoped CSS (injected once): Kitab font, light plates for legacy
    * fragments in dark mode, corpus table + tajweed read-mode colors
    * ------------------------------------------------------------------ */
 
   injectStyles() {
     if (document.getElementById('legacy-ayah-styles')) return;
-    const base = QuranData.legacyBase;
 
     const style = document.createElement('style');
     style.id = 'legacy-ayah-styles';
     style.textContent = `
-@font-face {
-  font-family: 'Kitab';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url('${base}/webfonts/kitab.woff2') format('woff2'),
-       url('${base}/webfonts/kitab.woff') format('woff');
-}
-
 /* Legacy HTML plates stay light so the old tables/images stay readable in dark mode */
 .legacy-html { background: #fff; color: #111827; border-radius: .5rem; padding: .5rem; overflow-x: auto; }
 .legacy-html img { max-width: 100%; height: auto; }
@@ -534,36 +326,6 @@ class LegacyAyah {
 .legacy-html .segNavy { color: rgb(19,1,184); }
 .legacy-html .segOrange { color: rgb(227,112,16); }
 .legacy-html .segSilver { color: rgb(180,180,180); }
-
-/* Mushaf read-mode page: always the printed light page, even in dark mode */
-.qtext-page {
-  font-family: 'Kitab', serif;
-  font-size: 2.6rem;
-  line-height: 1.9;
-  direction: rtl;
-  text-align: justify;
-  background: #f6fbf1;
-  color: #093333;
-  border: 1px solid #5bada5;
-  border-radius: .375rem;
-  padding: 1rem 1.25rem;
-}
-.qtext-page .surah-name {
-  text-align: center;
-  font-size: 1.2em;
-  white-space: pre-wrap;
-  border-bottom: 3px solid #dde8d5;
-  margin-bottom: .75rem;
-  padding-bottom: .5rem;
-}
-.qtext-page .line { text-align: justify; text-align-last: center; }
-.qtext-page i { font-style: normal; }
-.qtext-page .madd-lazim { color: #d70092; }
-.qtext-page .madd-wajib { color: #e72929; }
-.qtext-page .madd-aarid { color: orange; }
-.qtext-page .ikhfaa { color: green; }
-.qtext-page .idgham { color: hsla(0, 0%, 66.3%, .9); }
-.qtext-page .qalqalah { color: #46b1dd; }
 `;
     document.head.appendChild(style);
   }

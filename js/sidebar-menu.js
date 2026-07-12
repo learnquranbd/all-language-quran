@@ -331,7 +331,7 @@ class SidebarMenu {
     this.modalBody.innerHTML = this.loadingHtml();
     this.closeSidebar();
 
-    const url = QuranData.legacyBase + '/partials/' + partial + '.html';
+    const url = QuranData.legacyImgBase + '/partials/' + partial + '.html';
     let html = null;
     try {
       const r = await fetch(url);
@@ -344,7 +344,7 @@ class SidebarMenu {
     }
 
     const dir = partial.includes('/') ? partial.slice(0, partial.lastIndexOf('/')) : '';
-    const baseDir = QuranData.legacyBase + '/partials' + (dir ? '/' + dir : '');
+    const baseDir = QuranData.legacyImgBase + '/partials' + (dir ? '/' + dir : '');
 
     this.modalBody.innerHTML = '';
     const wrap = document.createElement('div');
@@ -376,7 +376,7 @@ class SidebarMenu {
     const fix = (el, attrName) => {
       const v = el.getAttribute(attrName) || '';
       if (!v || /^(https?:|data:|mailto:|tel:|#|\/\/)/i.test(v)) return;
-      el.setAttribute(attrName, v.startsWith('/') ? QuranData.legacyBase + v : baseDir + '/' + v);
+      el.setAttribute(attrName, v.startsWith('/') ? QuranData.legacyImgBase + v : baseDir + '/' + v);
     };
     tpl.content.querySelectorAll('img[src]').forEach(img => {
       fix(img, 'src');
@@ -519,7 +519,7 @@ class SidebarMenu {
 
     this.modalBody.innerHTML = `
       <div class="bg-white rounded-lg p-2 text-center">
-        <img id="waqf-chart" src="${this.esc(QuranData.legacyBase + '/images/stop_sign.png')}"
+        <img id="waqf-chart" src="${this.esc(QuranData.legacyImgBase + '/images/stop_sign.png')}"
              class="max-w-full mx-auto" alt="${this.esc(t('waqf_signs', lang))}">
       </div>`;
 

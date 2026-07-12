@@ -8,18 +8,13 @@ const QuranData = {
   apiBase: 'https://api.quran.com/api/v4',
   wordAudioBase: 'https://audio.qurancdn.com/',
 
-  // Legacy Bangla app resources (understand-quran). Served same-origin when the
-  // repo sits next to this app; falls back to the live site (iframe-only) otherwise.
-  legacyBase: '../understand-quran/firebase/public',
-  legacyWebBase: 'https://learn-quran-bd.web.app',
-  _legacyAvailable: null,
-  async legacyAvailable() {
-    if (this._legacyAvailable === null) {
-      this._legacyAvailable = await fetch(`${this.legacyBase}/resources/json/surah/1.json`, { method: 'HEAD' })
-        .then(r => r.ok).catch(() => false);
-    }
-    return this._legacyAvailable;
-  },
+  // The app is self-contained. Essential legacy data (tajweed rule ranges,
+  // i'rab morphology tables) is bundled in-project under data/; large media
+  // (mushaf page scans, i'rab dependency-graph images) load cross-origin from
+  // the original site as plain <img>, which needs no CORS.
+  legacyImgBase: 'https://learn-quran-bd.web.app',   // external images only
+  // Bundled data is always present → legacy features are always available.
+  async legacyAvailable() { return true; },
 
   // Default verse-translation resource per UI language (quran.com resource IDs)
   TRANSLATION_IDS: {

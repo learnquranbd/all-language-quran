@@ -34,13 +34,12 @@ const TAJWEED_RULES = {
 const TajweedData = {
   _cache: {},
 
-  /** Load text + rule annotations for one surah (cached promise) */
+  /** Load text + rule annotations for one surah (cached promise; bundled in-project) */
   load(surah) {
     if (!this._cache[surah]) {
-      const base = QuranData.legacyBase + '/resources/json';
       this._cache[surah] = Promise.all([
-        fetch(`${base}/surah/${surah}.json`).then(r => { if (!r.ok) throw new Error('no text'); return r.json(); }),
-        fetch(`${base}/tajweed/${surah}.json`).then(r => { if (!r.ok) throw new Error('no rules'); return r.json(); })
+        fetch(`data/quran-json/${surah}.json`).then(r => { if (!r.ok) throw new Error('no text'); return r.json(); }),
+        fetch(`data/tajweed-json/${surah}.json`).then(r => { if (!r.ok) throw new Error('no rules'); return r.json(); })
       ]).then(([text, rules]) => ({ text: text.verse || {}, rules: rules.verse || {} }))
         .catch(err => { delete this._cache[surah]; throw err; });
     }

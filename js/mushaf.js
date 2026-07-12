@@ -1,7 +1,7 @@
 /**
  * Mushaf Page View Module
  * Page-by-page reading of the 604-page mushaf using the legacy tajweed
- * page scans served from QuranData.legacyBase.
+ * page scans loaded cross-origin from QuranData.legacyImgBase.
  *
  * Image mapping (verified empirically against the scans): the directory
  * resources/images/tajweed_quran/ holds exactly 604 files named 0.jpg..603.jpg,
@@ -60,7 +60,9 @@ class MushafView {
 
   /** Page N of the mushaf is file (N-1).jpg — see mapping note in the header. */
   imageUrl(page) {
-    return `${QuranData.legacyBase}/resources/images/tajweed_quran/${page - 1}.jpg`;
+    // 604 mushaf page scans (0.jpg..603.jpg → page N = file N-1) are large, so
+    // they load cross-origin as plain <img> from the original site.
+    return `${QuranData.legacyImgBase}/resources/images/tajweed_quran/${page - 1}.jpg`;
   }
 
   isActiveTab() {
