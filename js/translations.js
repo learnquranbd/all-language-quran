@@ -5,6 +5,14 @@
 
 const TRANSLATIONS = {
   en: {
+    topics_subtitle: 'Browse the Quran by subject — pick a topic to see every verse it mentions.',
+    topics_search_placeholder: 'Search topics…',
+    topics_no_results: 'No topics found.',
+    topics_count_label: 'topics',
+    topics_verses_label: 'verses',
+    topics_open_all: 'Open all',
+    topics_load_error: 'Could not load topics. Please try again.',
+    topics_title: 'Topics',
     nav_modules: 'Modules',
     nav_subject: 'Quran by Subject',
     mem_mode_speech: 'Speech',
@@ -407,6 +415,7 @@ const TRANSLATIONS = {
   },
 
   bn: {
+    topics_title: 'বিষয়সমূহ',
     nav_modules: 'মডিউল',
     nav_subject: 'বিষয়ভিত্তিক কুরআন',
     mem_mode_speech: 'উচ্চারণ',
@@ -809,6 +818,7 @@ const TRANSLATIONS = {
   },
 
   ar: {
+    topics_title: 'المواضيع',
     nav_modules: 'الوحدات',
     nav_subject: 'القرآن حسب الموضوع',
     mem_mode_speech: 'نطق',
@@ -1211,6 +1221,7 @@ const TRANSLATIONS = {
   },
 
   ur: {
+    topics_title: 'موضوعات',
     nav_modules: 'ماڈیولز',
     nav_subject: 'موضوع کے مطابق قرآن',
     mem_mode_speech: 'تلفظ',
@@ -1613,6 +1624,7 @@ const TRANSLATIONS = {
   },
 
   id: {
+    topics_title: 'Topik',
     nav_modules: 'Modul',
     nav_subject: 'Al-Quran per Topik',
     mem_mode_speech: 'Ucapan',
@@ -2015,6 +2027,7 @@ const TRANSLATIONS = {
   },
 
   tr: {
+    topics_title: 'Konular',
     nav_modules: 'Modüller',
     nav_subject: 'Konuya Göre Kuran',
     mem_mode_speech: 'Konuşma',
@@ -2417,6 +2430,7 @@ const TRANSLATIONS = {
   },
 
   fr: {
+    topics_title: 'Thèmes',
     nav_modules: 'Modules',
     nav_subject: 'Coran par thème',
     mem_mode_speech: 'Parole',
@@ -2818,6 +2832,7 @@ const TRANSLATIONS = {
 
   },
   es: {
+    topics_title: 'Temas',
     nav_modules: 'Módulos',
     nav_subject: 'Corán por tema',
     mem_mode_speech: 'Habla',
@@ -3200,6 +3215,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Historias de los profetas"
   },
   ru: {
+    topics_title: 'Темы',
     nav_modules: 'Модули',
     nav_subject: 'Коран по темам',
     mem_mode_speech: 'Речь',
@@ -3582,6 +3598,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Истории пророков"
   },
   fa: {
+    topics_title: 'موضوعات',
     nav_modules: 'ماژول\u200cها',
     nav_subject: 'قرآن بر اساس موضوع',
     mem_mode_speech: 'گفتار',
@@ -3964,6 +3981,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "داستان‌های پیامبران"
   },
   hi: {
+    topics_title: 'विषय',
     nav_modules: 'मॉड्यूल',
     nav_subject: 'विषय अनुसार कुरान',
     mem_mode_speech: 'वाणी',
@@ -4346,6 +4364,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "पैगंबरों की कहानियाँ"
   },
   de: {
+    topics_title: 'Themen',
     nav_modules: 'Module',
     nav_subject: 'Koran nach Thema',
     mem_mode_speech: 'Sprache',
@@ -4728,6 +4747,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Geschichten der Propheten"
   },
   ms: {
+    topics_title: 'Topik',
     nav_modules: 'Modul',
     nav_subject: 'Al-Quran mengikut Topik',
     mem_mode_speech: 'Pertuturan',
@@ -5110,6 +5130,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Kisah Para Nabi"
   },
   zh: {
+    topics_title: '主题',
     nav_modules: '模块',
     nav_subject: '按主题查看古兰经',
     mem_mode_speech: '语音',
@@ -5492,6 +5513,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "先知们的故事"
   },
   ja: {
+    topics_title: 'トピック',
     nav_modules: 'モジュール',
     nav_subject: 'トピック別コーラン',
     mem_mode_speech: '音声',

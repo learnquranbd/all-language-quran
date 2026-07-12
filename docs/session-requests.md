@@ -78,3 +78,6 @@ Every request from this session, in order, with status.
 
 ---
 _Sequence to finish: (1) deploy Quiz Center + memorize button + waqf + kids-modal increment → (2) nav redesign + wire typing/handwriting → (3) sarf + word-repetition + word-arrangement waves._
+
+## Topical index
+51. ✅ Integrate **quranwbw.com/topics** — bundled 1,857-topic A–Z index (19,111 verse refs) as a Topics module in the sidebar; tap a topic → its verses → load in Reading.
