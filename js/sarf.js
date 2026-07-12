@@ -47,7 +47,9 @@ class Sarf {
   bindOnce() {
     this.container.addEventListener('click', (e) => {
       const verse = e.target.closest('[data-verse]');
-      if (verse) { this.goto(verse.getAttribute('data-verse')); return; }
+      if (verse && typeof ayahModal !== 'undefined' && ayahModal) {
+        ayahModal.open(verse.getAttribute('data-verse'), { word: verse.getAttribute('data-word') });
+      }
     });
     this.container.addEventListener('change', (e) => {
       if (e.target.id === 'sarf-root') { this.root = e.target.value; this.render(); }
@@ -153,8 +155,9 @@ class Sarf {
     const byForm = {};
     for (const m of matches) { if (!byForm[m.form]) byForm[m.form] = m; }
     return Object.values(byForm).map(m => `
-      <button data-verse="${m.ref}" title="${m.count}× · ${m.ref}" class="inline-block px-1 rounded hover:bg-primary hover:text-white">
+      <button data-verse="${m.ref}" data-word="${this.esc(m.form)}" title="${m.count}× · ${m.ref}${m.meaning ? ' · ' + this.esc(m.meaning) : ''}" class="inline-block px-1 rounded hover:bg-primary hover:text-white">
         <span class="ayah-arabic text-xl" dir="rtl">${this.esc(m.form)}</span>
+        ${m.meaning ? `<span class="block text-[10px] text-gray-500 dark:text-gray-400 leading-tight max-w-[90px] truncate mx-auto" dir="auto">${this.esc(m.meaning)}</span>` : ''}
         <span class="block text-[10px] text-gray-400 leading-none">×${m.count}</span>
       </button>`).join(' ');
   }

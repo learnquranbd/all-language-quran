@@ -151,7 +151,16 @@ class TopicsBrowser {
       const mt = e.target.closest('[data-mtopic]');
       if (mt) { this.showModalTopic(mt.getAttribute('data-mtopic')); return; }
       const verse = e.target.closest('[data-verse]');
-      if (verse) { this.gotoVerses(verse.getAttribute('data-verse')); this.closeModal(); return; }
+      if (verse) {
+        const ref = verse.getAttribute('data-verse');
+        // Single verse → preview in-module modal; multi (Open all) → load into Reading (explicit).
+        if (ref.indexOf(',') === -1 && typeof ayahModal !== 'undefined' && ayahModal) {
+          ayahModal.open(ref);
+        } else {
+          this.gotoVerses(ref); this.closeModal();
+        }
+        return;
+      }
     });
     this.modalBody.addEventListener('input', (e) => {
       if (e.target.id === 'topics-modal-search') { this.modalQuery = e.target.value.trim(); this.renderModalList(); }

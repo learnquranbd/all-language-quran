@@ -173,15 +173,15 @@ class NamesOfAllah {
       const verse = e.target.closest('[data-verse]');
       if (verse) {
         const ref = verse.getAttribute('data-verse');
-        if (typeof tabSystem !== 'undefined' && tabSystem) tabSystem.switchTab('reading');
-        window.location.hash = ref;
-        this.nameModal.classList.add('hidden'); this.nameModal.classList.remove('flex');
+        const nm = this._openName;
+        if (typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: nm ? nm.ar : null });
       }
     });
   }
 
   async openName(name) {
     const lang = this.language;
+    this._openName = name;
     this.ensureNameModal();
     this.nameModal.classList.remove('hidden'); this.nameModal.classList.add('flex');
     this.speakArabic(name.ar);
