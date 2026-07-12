@@ -5,6 +5,8 @@
 
 const TRANSLATIONS = {
   en: {
+    no_range_selected: 'Please select a Surah or enter an ayah range',
+    load_failed: 'Failed to load ayahs. Please try again.',
     flip_card: 'Flip card',
     typemem_matched: 'Matched',
     audio_repeat_each: 'Repeat each',
@@ -495,6 +497,8 @@ const TRANSLATIONS = {
   },
 
   bn: {
+    no_range_selected: 'অনুগ্রহ করে একটি সূরা নির্বাচন করুন বা আয়াতের পরিসর লিখুন',
+    load_failed: 'আয়াত লোড করা যায়নি। আবার চেষ্টা করুন।',
     flip_card: 'কার্ড উল্টান',
     typemem_matched: 'মিলেছে',
     audio_repeat_each: 'প্রতিটি পুনরাবৃত্তি',
@@ -984,6 +988,8 @@ const TRANSLATIONS = {
   },
 
   ar: {
+    no_range_selected: 'يرجى اختيار سورة أو إدخال نطاق آيات',
+    load_failed: 'تعذّر تحميل الآيات. يُرجى المحاولة مرة أخرى.',
     flip_card: 'اقلب البطاقة',
     typemem_matched: 'مطابق',
     audio_repeat_each: 'تكرار كل آية',
@@ -1473,6 +1479,8 @@ const TRANSLATIONS = {
   },
 
   ur: {
+    no_range_selected: 'براہِ کرم کوئی سورہ منتخب کریں یا آیات کی حد درج کریں',
+    load_failed: 'آیات لوڈ نہیں ہو سکیں۔ دوبارہ کوشش کریں۔',
     flip_card: 'کارڈ پلٹیں',
     typemem_matched: 'مماثل',
     audio_repeat_each: 'ہر ایک دہرائیں',
@@ -1962,6 +1970,8 @@ const TRANSLATIONS = {
   },
 
   id: {
+    no_range_selected: 'Silakan pilih surah atau masukkan rentang ayat',
+    load_failed: 'Gagal memuat ayat. Silakan coba lagi.',
     flip_card: 'Balik kartu',
     typemem_matched: 'Cocok',
     audio_repeat_each: 'Ulangi tiap',
@@ -2451,6 +2461,8 @@ const TRANSLATIONS = {
   },
 
   tr: {
+    no_range_selected: 'Lütfen bir sure seçin veya ayet aralığı girin',
+    load_failed: 'Ayetler yüklenemedi. Lütfen tekrar deneyin.',
     flip_card: 'Kartı çevir',
     typemem_matched: 'Eşleşti',
     audio_repeat_each: 'Her birini tekrarla',
@@ -2940,6 +2952,8 @@ const TRANSLATIONS = {
   },
 
   fr: {
+    no_range_selected: 'Veuillez choisir une sourate ou saisir une plage de versets',
+    load_failed: 'Échec du chargement des versets. Veuillez réessayer.',
     flip_card: 'Retourner la carte',
     typemem_matched: 'Trouvé',
     audio_repeat_each: 'Répéter chaque',
@@ -3428,6 +3442,8 @@ const TRANSLATIONS = {
 
   },
   es: {
+    no_range_selected: 'Seleccione una sura o introduzca un rango de aleyas',
+    load_failed: 'No se pudieron cargar las aleyas. Inténtelo de nuevo.',
     flip_card: 'Girar tarjeta',
     typemem_matched: 'Coincide',
     audio_repeat_each: 'Repetir cada uno',
@@ -3897,6 +3913,8 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Historias de los profetas"
   },
   ru: {
+    no_range_selected: 'Выберите суру или укажите диапазон аятов',
+    load_failed: 'Не удалось загрузить аяты. Попробуйте ещё раз.',
     flip_card: 'Перевернуть карточку',
     typemem_matched: 'Совпало',
     audio_repeat_each: 'Повтор каждого',
@@ -4366,6 +4384,8 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Истории пророков"
   },
   fa: {
+    no_range_selected: 'لطفاً یک سوره انتخاب کنید یا محدودهٔ آیات را وارد کنید',
+    load_failed: 'بارگذاری آیات ناموفق بود. لطفاً دوباره تلاش کنید.',
     flip_card: 'برگرداندن کارت',
     typemem_matched: 'مطابقت‌یافته',
     audio_repeat_each: 'تکرار هرکدام',
@@ -4835,6 +4855,8 @@ const TRANSLATIONS = {
     "stories_of_prophets": "داستان‌های پیامبران"
   },
   hi: {
+    no_range_selected: 'कृपया एक सूरह चुनें या आयत सीमा दर्ज करें',
+    load_failed: 'आयतें लोड नहीं हो सकीं। कृपया पुनः प्रयास करें।',
     flip_card: 'कार्ड पलटें',
     typemem_matched: 'मिलान हुआ',
     audio_repeat_each: 'हर एक दोहराएँ',
@@ -5304,6 +5326,8 @@ const TRANSLATIONS = {
     "stories_of_prophets": "पैगंबरों की कहानियाँ"
   },
   de: {
+    no_range_selected: 'Bitte wähle eine Sure oder gib einen Versbereich ein',
+    load_failed: 'Verse konnten nicht geladen werden. Bitte erneut versuchen.',
     flip_card: 'Karte umdrehen',
     typemem_matched: 'Übereinstimmung',
     audio_repeat_each: 'Jede wiederholen',
@@ -5773,6 +5797,8 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Geschichten der Propheten"
   },
   ms: {
+    no_range_selected: 'Sila pilih surah atau masukkan julat ayat',
+    load_failed: 'Gagal memuatkan ayat. Sila cuba lagi.',
     flip_card: 'Balikkan kad',
     typemem_matched: 'Sepadan',
     audio_repeat_each: 'Ulang setiap',
@@ -6242,6 +6268,8 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Kisah Para Nabi"
   },
   zh: {
+    no_range_selected: '请选择一个苏拉或输入经文范围',
+    load_failed: '加载经文失败，请重试。',
     flip_card: '翻转卡片',
     typemem_matched: '已匹配',
     audio_repeat_each: '每句重复',
@@ -6711,6 +6739,8 @@ const TRANSLATIONS = {
     "stories_of_prophets": "先知们的故事"
   },
   ja: {
+    no_range_selected: 'スーラを選択するか、節の範囲を入力してください',
+    load_failed: '節の読み込みに失敗しました。もう一度お試しください。',
     flip_card: 'カードをめくる',
     typemem_matched: '一致',
     audio_repeat_each: '各節の繰り返し回数',

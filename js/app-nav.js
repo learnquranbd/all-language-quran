@@ -43,7 +43,6 @@ class AppNav {
     this.view = 'primary';        // 'primary' | 'learn' | 'memorize'
     this.activeTab = 'reading';
     this.memMode = 'speech';
-    this.typingInit = false;
 
     this.render();
 

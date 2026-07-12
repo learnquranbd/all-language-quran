@@ -213,7 +213,7 @@ class QuranApp {
   async loadAyahs() {
     const rangeStr = this.ayahRangeInput.value.trim();
     if (!rangeStr) {
-      alert('Please select a Surah or enter an ayah range');
+      alert(t('no_range_selected', this.language));
       return;
     }
 
@@ -244,7 +244,7 @@ class QuranApp {
 
     } catch (error) {
       console.error('Error loading ayahs:', error);
-      this.showError('Failed to load ayahs. Please try again.');
+      this.showError(t('load_failed', this.language));
     } finally {
       this.showLoading(false);
     }

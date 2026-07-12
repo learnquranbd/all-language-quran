@@ -72,7 +72,7 @@ class PonderCard {
     const email = 'shahinbdboy@gmail.com';
     return `
       <div id="dev-notice" class="max-w-3xl mx-auto mt-4 rounded-2xl border border-amber-300 dark:border-amber-500/40 bg-amber-50 dark:bg-amber-500/10 px-5 py-4 relative">
-        <button data-dismiss-dev class="absolute top-2 right-2 p-1.5 rounded-lg text-amber-700/70 dark:text-amber-300/70 hover:bg-amber-100 dark:hover:bg-amber-500/20" aria-label="Dismiss">✕</button>
+        <button data-dismiss-dev class="absolute top-2 right-2 p-1.5 rounded-lg text-amber-700/70 dark:text-amber-300/70 hover:bg-amber-100 dark:hover:bg-amber-500/20" aria-label="${t('close', lang)}">✕</button>
         <div class="flex items-start gap-3 pr-6">
           <span class="text-2xl">🚧</span>
           <div>
