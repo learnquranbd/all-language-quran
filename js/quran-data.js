@@ -24,7 +24,15 @@ const QuranData = {
     id: 33,   // Indonesian Islamic Affairs Ministry
     ur: 234,  // Fatah Muhammad Jalandhari
     tr: 77,   // Diyanet
-    ar: null  // Arabic UI: no translation needed
+    ar: null, // Arabic UI: no translation needed
+    es: 83,   // Sheikh Isa Garcia (Spanish)
+    ru: 45,   // Elmir Kuliev (Russian)
+    fa: 29,   // Hussein Taji Kal Dari (Persian)
+    hi: 122,  // Maulana Azizul Haque al-Umari (Hindi)
+    de: 27,   // Frank Bubenheim and Nadeem (German)
+    ms: 39,   // Abdullah Muhammad Basmeih (Malay)
+    zh: 56,   // Ma Jian (Chinese, Simplified)
+    ja: 35    // Ryoichi Mita (Japanese)
   },
 
   // Languages with real word-by-word translations on quran.com.

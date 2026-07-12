@@ -30,7 +30,12 @@ const TAFSIR_SOURCES = {
     { id: 160, name: 'Tafsir Ibn Kathir' },
     { id: 157, name: 'Fi Zilal al-Quran' },
     { id: 159, name: 'Bayan ul Quran' }
+  ],
+  ru: [
+    { id: 170, name: "Al-Sa'di" }
   ]
+  // es/fa/hi/de/ms/zh have no native tafsir on quran.com → fall back to the
+  // English list plus the Arabic classics (see sourcesFor / populateSources).
 };
 
 // Content language of every tafsir resource (drives RTL rendering of the body)

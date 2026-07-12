@@ -75,7 +75,8 @@ class SettingsDrawer {
 
   async translationsFor(lang) {
     if (!this._translationLists[lang]) {
-      const names = { en: 'english', bn: 'bengali', fr: 'french', id: 'indonesian', ur: 'urdu', tr: 'turkish', ar: 'arabic' };
+      const names = { en: 'english', bn: 'bengali', fr: 'french', id: 'indonesian', ur: 'urdu', tr: 'turkish', ar: 'arabic',
+        es: 'spanish', ru: 'russian', fa: 'persian', hi: 'hindi', de: 'german', ms: 'malay', zh: 'chinese', ja: 'japanese' };
       this._translationLists[lang] = fetch(`${QuranData.apiBase}/resources/translations?language=${lang}`)
         .then(r => r.json())
         .then(d => (d.translations || [])
