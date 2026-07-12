@@ -265,6 +265,13 @@ class QuizCenter {
       case 'answer':
         this.answer(el);
         break;
+      case 'show-ayah': {
+        const a = el.getAttribute('data-ayah');
+        if (this.scope && this.scope.surah && typeof ayahModal !== 'undefined' && ayahModal) {
+          ayahModal.open(`${this.scope.surah}:${a}`);
+        }
+        break;
+      }
       case 'goto':
         this.gotoVerse(el.getAttribute('data-goto'));
         break;
@@ -360,6 +367,7 @@ class QuizCenter {
     this.missed = [];   // questions answered incorrectly, for the end-of-round review
     // Blur-strip: for ayah_sequence over a surah, reconstruct the surah as you answer.
     this.revealedAyahs = (this.currentType.id === 'ayah_sequence' && this.scope.kind === 'surah') ? new Set() : null;
+    this.wrongAyahs = new Set();
     this.view = 'running';
     this.render();
   }
@@ -374,13 +382,14 @@ class QuizCenter {
 
     if (correct) { this.score++; this.streak++; } else { this.streak = 0; }
 
-    // Reveal this ayah on the surah blur-strip (answered, so show it).
+    // Reveal this ayah on the surah blur-strip — green if you got it right, red if not.
     if (this.revealedAyahs && q.answerAyah != null) {
       this.revealedAyahs.add(q.answerAyah);
+      if (!correct) this.wrongAyahs.add(q.answerAyah);
       const chip = this.root.querySelector(`[data-ayah-chip="${q.answerAyah}"]`);
       if (chip) {
         chip.classList.remove('bg-gray-200', 'dark:bg-gray-700', 'text-gray-400', 'blur-[1.5px]');
-        chip.classList.add('bg-green-500', 'text-white', 'quiz-pop');
+        chip.classList.add(correct ? 'bg-green-500' : 'bg-red-500', 'text-white', 'quiz-pop', 'cursor-pointer');
       }
     }
 
@@ -561,8 +570,13 @@ class QuizCenter {
     let chips = '';
     for (let a = 1; a <= N; a++) {
       const on = this.revealedAyahs.has(a);
-      chips += `<span data-ayah-chip="${a}" class="inline-flex items-center justify-center w-7 h-7 rounded-md text-xs font-medium transition-all ${
-        on ? 'bg-green-500 text-white' : 'bg-gray-200 dark:bg-gray-700 text-gray-400 blur-[1.5px]'}">${a}</span>`;
+      const wrong = this.wrongAyahs.has(a);
+      const cls = on ? (wrong ? 'bg-red-500 text-white cursor-pointer' : 'bg-green-500 text-white cursor-pointer')
+                     : 'bg-gray-200 dark:bg-gray-700 text-gray-400 blur-[1.5px]';
+      // Revealed chips are clickable → open that ayah inline.
+      chips += on
+        ? `<button data-action="show-ayah" data-ayah="${a}" data-ayah-chip="${a}" title="${this.scope.surah}:${a}" class="inline-flex items-center justify-center w-7 h-7 rounded-md text-xs font-medium transition-all ${cls}">${a}</button>`
+        : `<span data-ayah-chip="${a}" class="inline-flex items-center justify-center w-7 h-7 rounded-md text-xs font-medium transition-all ${cls}">${a}</span>`;
     }
     return `
       <div class="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-3 mb-4">
