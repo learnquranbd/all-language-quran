@@ -54,8 +54,14 @@ class AudioPlayer {
     this.playToken = 0;           // guards against stale async fetches
     this.usingFallback = false;
 
+    // Memorization controls
+    this.repeatEach = 1;      // replay each ayah N times before advancing
+    this.loopRange = false;   // loop back to the first ayah at the end of the range
+    this.speed = 1;           // playback rate
+    this._repeatLeft = 0;
+
     this.audio = new Audio();
-    this.audio.addEventListener('ended', () => { this.playNext(); this.updateUI(); });
+    this.audio.addEventListener('ended', () => this.onEnded());
     this.audio.addEventListener('play', () => this.updateUI());
     this.audio.addEventListener('pause', () => {
       this.clearHighlight();
@@ -180,6 +186,28 @@ class AudioPlayer {
     document.getElementById('reciter-select')?.addEventListener('change', () => {
       if (this.currentIndex >= 0 && !this.audio.paused) this.playIndex(this.currentIndex);
     });
+    document.getElementById('audio-repeat')?.addEventListener('change', (e) => {
+      this.repeatEach = parseInt(e.target.value, 10) || 1;
+      this._repeatLeft = Math.max(this._repeatLeft, 1);   // apply from the next ayah
+    });
+    document.getElementById('audio-loop')?.addEventListener('change', (e) => { this.loopRange = e.target.checked; });
+    document.getElementById('audio-speed')?.addEventListener('change', (e) => {
+      this.speed = parseFloat(e.target.value) || 1;
+      this.audio.playbackRate = this.speed;               // apply live
+    });
+  }
+
+  onEnded() {
+    // Repeat the same ayah N times before moving on (hifz drilling)
+    if (this._repeatLeft > 1) {
+      this._repeatLeft--;
+      this.audio.currentTime = 0;
+      this.audio.play().catch(() => {});
+      this.updateUI();
+      return;
+    }
+    this.playNext();
+    this.updateUI();
   }
 
   async playIndex(index) {
@@ -208,7 +236,9 @@ class AudioPlayer {
     if (token !== this.playToken) return;
 
     this.currentSegments = segments;
+    this._repeatLeft = this.repeatEach;   // fresh ayah → reset its repeat counter
     this.audio.src = src;
+    this.audio.playbackRate = this.speed;
     this.audio.play().catch(err => console.error('Audio playback failed:', err));
     this.updateUI();
   }
@@ -216,6 +246,8 @@ class AudioPlayer {
   playNext() {
     if (this.currentIndex < this.ayahs.length - 1) {
       this.playIndex(this.currentIndex + 1);
+    } else if (this.loopRange && this.ayahs.length) {
+      this.playIndex(0);                  // loop back to the start of the range
     } else {
       this.stop();
     }

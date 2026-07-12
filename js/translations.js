@@ -5,6 +5,9 @@
 
 const TRANSLATIONS = {
   en: {
+    audio_repeat_each: 'Repeat each',
+    audio_loop_range: 'Loop range',
+    audio_speed: 'Speed',
     score: 'Score',
     read_full_ayah: 'Read full ayah',
     kids_words_freq_note: 'Ordered by how often each word appears in the Quran',
