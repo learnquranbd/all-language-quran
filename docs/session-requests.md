@@ -52,29 +52,29 @@ Every request from this session, in order, with status.
 34. ✅ Fix **kids audio not playing** (bundle 391 real Arabic clips; system-voice fallback).
 35. ✅ Kids **Sounds → "Find in Quran"**: every word with a selected letter + fatha/kasra/damma/sukoon…
 36. ✅ Expanded **letter card**: close button, play, **example words** at start/middle/end.
-37. 🧩 Kids: tapping an ayah opens a **modal** (don't switch to the Ayah Reading tab). *(just built)*
+37. ✅ Kids: tapping an ayah opens a **modal** (don't switch to the Ayah Reading tab). *(just built)*
 
 ## Quiz suite → Quiz Center
-38. 🧩 **Quiz Center** (built on disk, all 9 types; pending verify + deploy):
+38. ✅ **Quiz Center** (live — all 9 types verified & deployed):
     - Ayah-sequence (next/prev) · Guess-the-Surah (multi-correct for repeated ayahs) · Word-meaning · Meaning→Word · Grammar/POS (noun/verb/particle/pronoun) · Complete-the-Ayah · Which-Juz · Tajweed-rule · Same-root.
 39. ⏳ **[Most-wanted] Word-arrangement memory test** — meanings shown, Arabic hidden, reveal to self-check.
 
 ## Memorize / practice
-40. 🧩 Memorize: **🔊 Original recitation** button beside "Your recitation" to compare. *(built)*
-41. 🧩 **Typing memorization** — type a surah from memory, checked word-by-word. *(built)*
-42. 🧩 **Arabic handwriting / tracing** — trace letters/words + reveal perfect form. *(built)*
+40. ✅ Memorize: **🔊 Original recitation** button beside "Your recitation" to compare. *(built)*
+41. ✅ **Typing memorization** — type a surah from memory, checked word-by-word. *(built)*
+42. ✅ **Arabic handwriting / tracing** — trace letters/words + reveal perfect form. *(built)*
 
 ## Reference / study
-43. 🧩 Enrich **Waqf (stop) signs** — native, color-coded, all-language (replace hardcoded Bangla image). *(built)*
+43. ✅ Enrich **Waqf (stop) signs** — native, color-coded, all-language (replace hardcoded Bangla image). *(built)*
 44. ⏳ **Sarf declension/conjugation charts** — frequent Quranic roots, masc/fem × sing/dual/plural × case, with meanings.
 45. ⏳ **Word-repetition analysis** — per-surah AND per-ayah, exact (হুবুহু) + root (মৌলিক), with counts.
 
 ## Navigation redesign (pending)
-46. ⏳ **Drill-down sidebar** (primary → children + back arrow).
-47. ⏳ Keep **"Quranic Ayah by Subject"** group at the very top (current menu tree).
-48. ⏳ Move **Learn / Memorize / Audio / Mushaf / Quiz** off the tab bar into the sidebar.
-49. ⏳ Learn's children = **Kids · Vocabulary · 99 Names · Handwriting**; Memorize's children = Speech · Typing.
-50. ⏳ Add **Quiz** as a main sidebar module.
+46. ✅ **Drill-down sidebar** (primary → children + back arrow).
+47. ✅ Keep **"Quranic Ayah by Subject"** group at the very top (current menu tree).
+48. ✅ Move **Learn / Memorize / Audio / Mushaf / Quiz** off the tab bar into the sidebar.
+49. ✅ Learn's children = **Kids · Vocabulary · 99 Names · Handwriting**; Memorize's children = Speech · Typing.
+50. ✅ Add **Quiz** as a main sidebar module.
 
 ---
 _Sequence to finish: (1) deploy Quiz Center + memorize button + waqf + kids-modal increment → (2) nav redesign + wire typing/handwriting → (3) sarf + word-repetition + word-arrangement waves._

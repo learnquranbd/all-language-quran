@@ -5,6 +5,10 @@
 
 const TRANSLATIONS = {
   en: {
+    nav_modules: 'Modules',
+    nav_subject: 'Quran by Subject',
+    mem_mode_speech: 'Speech',
+    mem_mode_typing: 'Typing',
     original_recitation: "Original recitation",
     waqf_intro: "Pause marks (waqf) tell the reciter where to stop, pause, or continue.",
     waqf_note: "These marks guide recitation; when unsure, follow a qualified teacher.",
@@ -403,6 +407,10 @@ const TRANSLATIONS = {
   },
 
   bn: {
+    nav_modules: 'মডিউল',
+    nav_subject: 'বিষয়ভিত্তিক কুরআন',
+    mem_mode_speech: 'উচ্চারণ',
+    mem_mode_typing: 'টাইপিং',
     original_recitation: "মূল তিলাওয়াত",
     waqf_intro: "ওয়াকফ চিহ্ন তিলাওয়াতকারীকে জানায় কোথায় থামতে, বিরতি নিতে বা চালিয়ে যেতে হবে।",
     waqf_note: "এই চিহ্নগুলো তিলাওয়াতে পথ দেখায়; সন্দেহ হলে অভিজ্ঞ উস্তাদের অনুসরণ করুন।",
@@ -801,6 +809,10 @@ const TRANSLATIONS = {
   },
 
   ar: {
+    nav_modules: 'الوحدات',
+    nav_subject: 'القرآن حسب الموضوع',
+    mem_mode_speech: 'نطق',
+    mem_mode_typing: 'كتابة',
     original_recitation: "التلاوة الأصلية",
     waqf_intro: "علامات الوقف ترشد القارئ إلى مواضع الوقف أو السكت أو الوصل.",
     waqf_note: "هذه العلامات تُرشد التلاوة؛ وعند الشك اتبع معلمًا متقنًا.",
@@ -1199,6 +1211,10 @@ const TRANSLATIONS = {
   },
 
   ur: {
+    nav_modules: 'ماڈیولز',
+    nav_subject: 'موضوع کے مطابق قرآن',
+    mem_mode_speech: 'تلفظ',
+    mem_mode_typing: 'ٹائپنگ',
     original_recitation: "اصل تلاوت",
     waqf_intro: "علاماتِ وقف قاری کو بتاتی ہیں کہ کہاں رکنا، ٹھہرنا یا جاری رکھنا ہے۔",
     waqf_note: "یہ علامات تلاوت میں رہنمائی کرتی ہیں؛ شک ہو تو کسی ماہر استاد کی پیروی کریں۔",
@@ -1597,6 +1613,10 @@ const TRANSLATIONS = {
   },
 
   id: {
+    nav_modules: 'Modul',
+    nav_subject: 'Al-Quran per Topik',
+    mem_mode_speech: 'Ucapan',
+    mem_mode_typing: 'Mengetik',
     original_recitation: "Bacaan asli",
     waqf_intro: "Tanda waqaf menunjukkan kepada pembaca di mana harus berhenti, jeda, atau melanjutkan.",
     waqf_note: "Tanda-tanda ini memandu bacaan; bila ragu, ikutilah guru yang berkompeten.",
@@ -1995,6 +2015,10 @@ const TRANSLATIONS = {
   },
 
   tr: {
+    nav_modules: 'Modüller',
+    nav_subject: 'Konuya Göre Kuran',
+    mem_mode_speech: 'Konuşma',
+    mem_mode_typing: 'Yazma',
     original_recitation: "Orijinal tilavet",
     waqf_intro: "Durak işaretleri (vakıf) okuyucuya nerede duracağını, bekleyeceğini veya devam edeceğini gösterir.",
     waqf_note: "Bu işaretler okuyuşa rehberlik eder; emin değilseniz ehil bir hocaya uyun.",
@@ -2393,6 +2417,10 @@ const TRANSLATIONS = {
   },
 
   fr: {
+    nav_modules: 'Modules',
+    nav_subject: 'Coran par thème',
+    mem_mode_speech: 'Parole',
+    mem_mode_typing: 'Saisie',
     original_recitation: "Récitation originale",
     waqf_intro: "Les signes de pause (waqf) indiquent au lecteur où s'arrêter, faire une pause ou continuer.",
     waqf_note: "Ces signes guident la récitation ; en cas de doute, suivez un professeur qualifié.",
@@ -2790,6 +2818,10 @@ const TRANSLATIONS = {
 
   },
   es: {
+    nav_modules: 'Módulos',
+    nav_subject: 'Corán por tema',
+    mem_mode_speech: 'Habla',
+    mem_mode_typing: 'Escritura',
     original_recitation: "Recitación original",
     waqf_intro: "Los signos de pausa (waqf) indican al lector dónde detenerse, pausar o continuar.",
     waqf_note: "Estos signos guían la recitación; en caso de duda, siga a un maestro cualificado.",
@@ -3168,6 +3200,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Historias de los profetas"
   },
   ru: {
+    nav_modules: 'Модули',
+    nav_subject: 'Коран по темам',
+    mem_mode_speech: 'Речь',
+    mem_mode_typing: 'Ввод',
     original_recitation: "Оригинальное чтение",
     waqf_intro: "Знаки паузы (вакф) указывают чтецу, где остановиться, сделать паузу или продолжить.",
     waqf_note: "Эти знаки направляют чтение; при сомнении обратитесь к квалифицированному учителю.",
@@ -3546,6 +3582,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Истории пророков"
   },
   fa: {
+    nav_modules: 'ماژول\u200cها',
+    nav_subject: 'قرآن بر اساس موضوع',
+    mem_mode_speech: 'گفتار',
+    mem_mode_typing: 'تایپ',
     original_recitation: "تلاوت اصلی",
     waqf_intro: "علائم وقف به قاری نشان می‌دهند کجا بایستد، مکث کند یا ادامه دهد.",
     waqf_note: "این علائم راهنمای تلاوت‌اند؛ در صورت تردید از استاد مجرب پیروی کنید.",
@@ -3924,6 +3964,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "داستان‌های پیامبران"
   },
   hi: {
+    nav_modules: 'मॉड्यूल',
+    nav_subject: 'विषय अनुसार कुरान',
+    mem_mode_speech: 'वाणी',
+    mem_mode_typing: 'टाइपिंग',
     original_recitation: "मूल तिलावत",
     waqf_intro: "वक़्फ़ (ठहराव) के चिह्न बताते हैं कि पाठक कहाँ रुके, ठहरे या जारी रखे।",
     waqf_note: "ये चिह्न तिलावत का मार्गदर्शन करते हैं; संदेह हो तो योग्य शिक्षक का अनुसरण करें।",
@@ -4302,6 +4346,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "पैगंबरों की कहानियाँ"
   },
   de: {
+    nav_modules: 'Module',
+    nav_subject: 'Koran nach Thema',
+    mem_mode_speech: 'Sprache',
+    mem_mode_typing: 'Tippen',
     original_recitation: "Originalrezitation",
     waqf_intro: "Pausenzeichen (Waqf) zeigen dem Leser, wo er anhalten, pausieren oder fortfahren soll.",
     waqf_note: "Diese Zeichen leiten die Rezitation; im Zweifel folgen Sie einem qualifizierten Lehrer.",
@@ -4680,6 +4728,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Geschichten der Propheten"
   },
   ms: {
+    nav_modules: 'Modul',
+    nav_subject: 'Al-Quran mengikut Topik',
+    mem_mode_speech: 'Pertuturan',
+    mem_mode_typing: 'Menaip',
     original_recitation: "Bacaan asal",
     waqf_intro: "Tanda waqaf memberitahu pembaca di mana hendak berhenti, berhenti seketika atau meneruskan.",
     waqf_note: "Tanda ini memandu bacaan; jika ragu, ikut guru yang berkelayakan.",
@@ -5058,6 +5110,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Kisah Para Nabi"
   },
   zh: {
+    nav_modules: '模块',
+    nav_subject: '按主题查看古兰经',
+    mem_mode_speech: '语音',
+    mem_mode_typing: '打字',
     original_recitation: "原版诵读",
     waqf_intro: "停顿符号（waqf）告诉诵读者在何处停顿、稍停或继续。",
     waqf_note: "这些符号指导诵读；如有疑问，请遵从合格的老师。",
@@ -5436,6 +5492,10 @@ const TRANSLATIONS = {
     "stories_of_prophets": "先知们的故事"
   },
   ja: {
+    nav_modules: 'モジュール',
+    nav_subject: 'トピック別コーラン',
+    mem_mode_speech: '音声',
+    mem_mode_typing: 'タイピング',
     original_recitation: "元の朗誦",
     waqf_intro: "停止記号（ワクフ）は、どこで止まる・休む・続けるかを朗誦者に示します。",
     waqf_note: "これらの記号は朗誦の指針です。迷ったら有資格の師に従ってください。",

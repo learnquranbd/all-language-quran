@@ -14,7 +14,8 @@ class LearnHub {
     this.roots = {
       kids: document.getElementById('learn-kids-root'),
       vocab: document.getElementById('learn-vocab-root'),
-      names: document.getElementById('learn-names-root')
+      names: document.getElementById('learn-names-root'),
+      handwriting: document.getElementById('handwriting-root')
     };
     this.backBar = document.getElementById('learn-back');
     this.language = appSettings ? appSettings.get('language') : 'en';
@@ -42,6 +43,7 @@ class LearnHub {
       { module: 'kids', emoji: '🧒', grad: 'from-amber-400 to-orange-500', title: 'learn_kids_title', desc: 'learn_kids_desc' },
       { module: 'vocab', emoji: '📚', grad: 'from-sky-400 to-blue-600', title: 'learn_vocab_title', desc: 'learn_vocab_desc' },
       { module: 'names', emoji: '✨', grad: 'from-violet-400 to-purple-600', title: 'learn_names_title', desc: 'learn_names_desc' },
+      { module: 'handwriting', emoji: '✍️', grad: 'from-rose-400 to-pink-600', title: 'hw_title', desc: 'hw_subtitle' },
       { module: 'memorize', emoji: '🎙️', grad: 'from-emerald-400 to-green-600', title: 'learn_memorize_title', desc: 'learn_memorize_desc' }
     ];
 

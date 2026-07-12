@@ -40,7 +40,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
   <!-- Custom Styles -->
-  <link rel="stylesheet" href="css/style.css?v=13">
+  <link rel="stylesheet" href="css/style.css?v=14">
 </head>
 <body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300">
 
@@ -123,10 +123,21 @@
       <!-- Sidebar -->
       <aside id="sidebar" class="w-64 bg-white dark:bg-gray-800 shadow-lg transform -translate-x-full lg:translate-x-0 fixed lg:static inset-y-0 left-0 z-40 transition-transform duration-300 overflow-y-auto">
         <div class="p-4">
-          <!-- Full old-app menu tree, rendered by js/sidebar-menu.js (LEGACY_MENU).
+          <!-- Drill-down module nav (js/app-nav.js): a primary list (Subject, Learn,
+               Memorize, Quiz, Audio, Mushaf); clicking a primary with children swaps
+               the sidebar to that child list with a back arrow. -->
+          <nav id="app-nav" class="mb-3 space-y-1"></nav>
+
+          <!-- Full old-app subject menu tree, rendered by js/sidebar-menu.js (LEGACY_MENU).
+               Wrapped so app-nav can show it only when "Quranic Ayah by Subject" is opened.
                The module adds body.legacy-sidebar so the old AdminLTE-style theme
                in css/style.css (.nav-group / .nav-group-parent hooks) applies. -->
-          <nav id="legacy-menu" class="space-y-1"></nav>
+          <div id="legacy-menu-wrap" class="hidden">
+            <button id="legacy-menu-back" class="w-full flex items-center gap-2 px-3 py-2 mb-2 rounded-lg text-sm font-semibold text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+              <span class="text-lg leading-none">←</span><span data-lang-key="back">Back</span>
+            </button>
+            <nav id="legacy-menu" class="space-y-1"></nav>
+          </div>
 
           <hr class="my-4 border-gray-200 dark:border-gray-700">
 
@@ -162,21 +173,8 @@
               <button class="tab-btn px-4 py-3 text-sm font-medium border-b-2 border-transparent text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200" data-tab="grammar">
                 <span data-lang-key="grammar">Grammar</span>
               </button>
-              <button class="tab-btn px-4 py-3 text-sm font-medium border-b-2 border-transparent text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200" data-tab="learn">
-                <span data-lang-key="learn">Learn</span>
-              </button>
-              <button class="tab-btn px-4 py-3 text-sm font-medium border-b-2 border-transparent text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200" data-tab="memorize">
-                <span data-lang-key="memorize">Memorize</span>
-              </button>
-              <button class="tab-btn px-4 py-3 text-sm font-medium border-b-2 border-transparent text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200" data-tab="quiz">
-                <span data-lang-key="quiz_center_title">Quiz Center</span>
-              </button>
-              <button class="tab-btn px-4 py-3 text-sm font-medium border-b-2 border-transparent text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200" data-tab="audio">
-                <span data-lang-key="audio">Audio</span>
-              </button>
-              <button class="tab-btn px-4 py-3 text-sm font-medium border-b-2 border-transparent text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200" data-tab="mushaf">
-                <span data-lang-key="mushaf">Mushaf</span>
-              </button>
+              <!-- Learn / Memorize / Quiz / Audio / Mushaf now live in the left sidebar
+                   drill-down nav (js/app-nav.js); their panels below are switched from there. -->
             </nav>
           </div>
 
@@ -234,11 +232,21 @@
               <div id="learn-kids-root" class="hidden"></div>
               <div id="learn-vocab-root" class="hidden"></div>
               <div id="learn-names-root" class="hidden"></div>
+              <div id="handwriting-root" class="hidden"></div>
             </div>
 
-            <!-- Memorize Tab -->
+            <!-- Memorize Tab (Speech checker | Typing recall) -->
             <div id="tab-memorize" class="tab-panel hidden">
+              <div id="memorize-modes" class="flex flex-wrap gap-2 mb-5">
+                <button data-mmode="speech" class="mmode-btn active px-4 py-2 rounded-lg text-sm font-medium bg-primary text-white shadow">
+                  🎙️ <span data-lang-key="mem_mode_speech">Speech</span>
+                </button>
+                <button data-mmode="typing" class="mmode-btn px-4 py-2 rounded-lg text-sm font-medium bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-gray-600">
+                  ⌨️ <span data-lang-key="mem_mode_typing">Typing</span>
+                </button>
+              </div>
               <div id="memorize-container" class="space-y-6"></div>
+              <div id="type-memorize-root" class="hidden"></div>
             </div>
 
             <!-- Quiz Tab -->
@@ -313,41 +321,44 @@
   </div>
 
   <!-- Scripts -->
-  <script src="js/surah-data.js?v=13"></script>
-  <script src="js/translations.js?v=13"></script>
-  <script src="js/quran-data.js?v=13"></script>
-  <script src="js/tabs.js?v=13"></script>
-  <script src="js/settings.js?v=13"></script>
-  <script src="js/wordbyword.js?v=13"></script>
-  <script src="js/grammar.js?v=13"></script>
-  <script src="js/memorize.js?v=13"></script>
-  <script src="js/quiz-center.js?v=13"></script>
-  <script src="js/word-highlight.js?v=13"></script>
-  <script src="js/audio.js?v=13"></script>
-  <script src="js/tafseer.js?v=13"></script>
-  <script src="js/tajweed.js?v=13"></script>
-  <script src="js/qaida-data.js?v=13"></script>
-  <script src="js/learn-kids.js?v=13"></script>
-  <script src="js/vocab-data.js?v=13"></script>
-  <script src="js/learn-vocab.js?v=13"></script>
-  <script src="js/names-data.js?v=13"></script>
-  <script src="js/learn-names.js?v=13"></script>
-  <script src="js/learn.js?v=13"></script>
-  <script src="js/menu-data.js?v=13"></script>
-  <script src="js/legacy-surah-data.js?v=13"></script>
-  <script src="js/sidebar-menu.js?v=13"></script>
-  <script src="js/topics-data.js?v=13"></script>
-  <script src="js/navigation.js?v=13"></script>
-  <script src="js/legacy-ayah.js?v=13"></script>
-  <script src="js/settings-drawer.js?v=13"></script>
-  <script src="js/firebase-config.js?v=13"></script>
-  <script src="js/account.js?v=13"></script>
-  <script src="js/ponder.js?v=13"></script>
-  <script src="js/mushaf.js?v=13"></script>
-  <script src="js/pwa.js?v=13"></script>
-  <script src="js/search.js?v=13"></script>
-  <script src="js/subscribe.js?v=13"></script>
-  <script src="js/bookmarks.js?v=13"></script>
-  <script src="js/app.js?v=13"></script>
+  <script src="js/surah-data.js?v=14"></script>
+  <script src="js/translations.js?v=14"></script>
+  <script src="js/quran-data.js?v=14"></script>
+  <script src="js/tabs.js?v=14"></script>
+  <script src="js/settings.js?v=14"></script>
+  <script src="js/wordbyword.js?v=14"></script>
+  <script src="js/grammar.js?v=14"></script>
+  <script src="js/memorize.js?v=14"></script>
+  <script src="js/quiz-center.js?v=14"></script>
+  <script src="js/word-highlight.js?v=14"></script>
+  <script src="js/audio.js?v=14"></script>
+  <script src="js/tafseer.js?v=14"></script>
+  <script src="js/tajweed.js?v=14"></script>
+  <script src="js/qaida-data.js?v=14"></script>
+  <script src="js/learn-kids.js?v=14"></script>
+  <script src="js/vocab-data.js?v=14"></script>
+  <script src="js/learn-vocab.js?v=14"></script>
+  <script src="js/names-data.js?v=14"></script>
+  <script src="js/learn-names.js?v=14"></script>
+  <script src="js/learn.js?v=14"></script>
+  <script src="js/handwriting.js?v=14"></script>
+  <script src="js/type-memorize.js?v=14"></script>
+  <script src="js/menu-data.js?v=14"></script>
+  <script src="js/legacy-surah-data.js?v=14"></script>
+  <script src="js/sidebar-menu.js?v=14"></script>
+  <script src="js/app-nav.js?v=14"></script>
+  <script src="js/topics-data.js?v=14"></script>
+  <script src="js/navigation.js?v=14"></script>
+  <script src="js/legacy-ayah.js?v=14"></script>
+  <script src="js/settings-drawer.js?v=14"></script>
+  <script src="js/firebase-config.js?v=14"></script>
+  <script src="js/account.js?v=14"></script>
+  <script src="js/ponder.js?v=14"></script>
+  <script src="js/mushaf.js?v=14"></script>
+  <script src="js/pwa.js?v=14"></script>
+  <script src="js/search.js?v=14"></script>
+  <script src="js/subscribe.js?v=14"></script>
+  <script src="js/bookmarks.js?v=14"></script>
+  <script src="js/app.js?v=14"></script>
 </body>
 </html>
