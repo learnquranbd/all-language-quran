@@ -31,6 +31,7 @@ class TabSystem {
    * @param {string} tabId
    */
   switchTab(tabId) {
+    const fromTab = this.activeTab;
     // Update active button
     const tabButtons = this.tabNav.querySelectorAll('.tab-btn');
     tabButtons.forEach(btn => {
@@ -54,6 +55,11 @@ class TabSystem {
 
     this.activeTab = tabId;
 
+    // Back-navigation: when a module sends us to Reading to view a verse,
+    // offer a one-tap return to that module.
+    if (tabId === 'reading' && fromTab && fromTab !== 'reading') this.returnTab = fromTab;
+    this.updateBackPill();
+
     // Call tab-specific handler if registered
     if (this.tabHandlers[tabId]) {
       this.tabHandlers[tabId]();
@@ -61,6 +67,28 @@ class TabSystem {
 
     // Dispatch custom event
     window.dispatchEvent(new CustomEvent('tabChanged', { detail: { tabId } }));
+  }
+
+  updateBackPill() {
+    const show = this.activeTab === 'reading' && this.returnTab && this.returnTab !== 'reading';
+    if (!this.backPill) {
+      this.backPill = document.createElement('button');
+      this.backPill.id = 'tab-back-pill';
+      this.backPill.className = 'fixed bottom-20 left-4 z-40 hidden items-center gap-2 px-4 py-2.5 rounded-full bg-primary text-white shadow-lg hover:bg-primary/90 text-sm font-medium';
+      this.backPill.addEventListener('click', () => { if (this.returnTab) this.switchTab(this.returnTab); });
+      document.body.appendChild(this.backPill);
+    }
+    if (show) {
+      const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+      const labels = { reading: 'ayah_reading', search: 'search', tafseer: 'tafseers', wordbyword: 'word_by_word', grammar: 'grammar', learn: 'learn', memorize: 'memorize', quiz: 'quiz_center_title', audio: 'audio', mushaf: 'mushaf', topics: 'topics_title', wordrepeat: 'wr_title', sarf: 'sarf_title' };
+      const name = (typeof t === 'function') ? t(labels[this.returnTab] || 'back', lang) : this.returnTab;
+      this.backPill.innerHTML = `<span class="text-base leading-none">←</span><span>${name}</span>`;
+      this.backPill.classList.remove('hidden');
+      this.backPill.classList.add('flex');
+    } else {
+      this.backPill.classList.add('hidden');
+      this.backPill.classList.remove('flex');
+    }
   }
 
   /**

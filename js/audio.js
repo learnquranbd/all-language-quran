@@ -55,7 +55,7 @@ class AudioPlayer {
     this.usingFallback = false;
 
     this.audio = new Audio();
-    this.audio.addEventListener('ended', () => this.playNext());
+    this.audio.addEventListener('ended', () => { this.playNext(); this.updateUI(); });
     this.audio.addEventListener('play', () => this.updateUI());
     this.audio.addEventListener('pause', () => {
       this.clearHighlight();
@@ -79,10 +79,16 @@ class AudioPlayer {
       this.renderList();
     });
 
-    // Reading-tab per-ayah play buttons
+    // Reading-tab per-ayah play buttons — click again to pause/resume
     window.addEventListener('playAyah', (e) => {
       const idx = this.ayahs.findIndex(a => a.key === e.detail.ref);
-      if (idx >= 0) this.playIndex(idx);
+      if (idx < 0) return;
+      if (idx === this.currentIndex && this.audio.src) {
+        if (this.audio.paused) this.audio.play().catch(() => {});
+        else this.audio.pause();
+        return;
+      }
+      this.playIndex(idx);
     });
 
     this.setupControls();
@@ -301,6 +307,18 @@ class AudioPlayer {
         ? `<svg class="w-8 h-8" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8 7a1 1 0 00-1 1v4a1 1 0 002 0V8a1 1 0 00-1-1zm4 0a1 1 0 00-1 1v4a1 1 0 002 0V8a1 1 0 00-1-1z" clip-rule="evenodd"/></svg>`
         : `<svg class="w-8 h-8" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd"/></svg>`;
     }
+
+    // Reading-tab per-ayah play buttons: swap play/pause icon on the active ayah
+    const PLAY_D = 'M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z';
+    const PAUSE_D = 'M10 18a8 8 0 100-16 8 8 0 000 16zM8 7a1 1 0 00-1 1v4a1 1 0 002 0V8a1 1 0 00-1-1zm4 0a1 1 0 00-1 1v4a1 1 0 002 0V8a1 1 0 00-1-1z';
+    const curKey = this.ayahs[this.currentIndex]?.key;
+    document.querySelectorAll('.play-ayah').forEach(btn => {
+      const playing = curKey && btn.getAttribute('data-ref') === curKey && !this.audio.paused;
+      const path = btn.querySelector('svg path');
+      if (path) path.setAttribute('d', playing ? PAUSE_D : PLAY_D);
+      btn.classList.toggle('text-primary', !!playing);
+      btn.classList.toggle('dark:text-blue-400', !!playing);
+    });
   }
 }
 
