@@ -20,7 +20,10 @@ class QuizCenter {
     this.view = 'home';          // home | config | loading | running | end
     this.currentType = null;     // active quiz-type object
     this.scope = null;           // { kind, surah?, juz? }
-    this.subMode = 'next';       // ayah_sequence direction
+    this.subMode = 'next';       // ayah_sequence: next | previous | first | last | random
+    this.difficulty = 'mid';     // easy(5) | mid(10) | hifz(20) — sets question count
+    this.DIFF = { easy: 5, mid: 10, hifz: 20 };
+    this.revealedAyahs = null;   // ayah_sequence blur-strip: Set of revealed ayah numbers
 
     // Runner state
     this.questions = [];
@@ -252,6 +255,10 @@ class QuizCenter {
         this.subMode = el.getAttribute('data-sub');
         this.render();
         break;
+      case 'set-diff':
+        this.difficulty = el.getAttribute('data-diff');
+        this.render();
+        break;
       case 'start':
         this.start();
         break;
@@ -303,6 +310,11 @@ class QuizCenter {
     return sc;
   }
 
+  roundSize() { return this.DIFF[this.difficulty] || 10; }
+
+  // Best scores are tracked per difficulty (question counts differ).
+  bestKey() { return `${this.scopeLabel()}:${this.difficulty}`; }
+
   scopeLabel() {
     const sc = this.scope;
     if (!sc) return 'whole';
@@ -325,8 +337,8 @@ class QuizCenter {
       questions = [];
     }
 
-    // Shuffle each question's options, cap the round to 10 questions
-    questions = questions.slice(0, 10).map(q => ({
+    // Shuffle each question's options, cap the round to the chosen difficulty
+    questions = questions.slice(0, this.roundSize()).map(q => ({
       ...q,
       options: this.shuffle(q.options)
     }));
@@ -345,6 +357,8 @@ class QuizCenter {
     this.streak = 0;
     this.answered = false;
     this.newBest = false;
+    // Blur-strip: for ayah_sequence over a surah, reconstruct the surah as you answer.
+    this.revealedAyahs = (this.currentType.id === 'ayah_sequence' && this.scope.kind === 'surah') ? new Set() : null;
     this.view = 'running';
     this.render();
   }
@@ -358,6 +372,16 @@ class QuizCenter {
     const correct = !!(chosen && chosen.correct);
 
     if (correct) { this.score++; this.streak++; } else { this.streak = 0; }
+
+    // Reveal this ayah on the surah blur-strip (answered, so show it).
+    if (this.revealedAyahs && q.answerAyah != null) {
+      this.revealedAyahs.add(q.answerAyah);
+      const chip = this.root.querySelector(`[data-ayah-chip="${q.answerAyah}"]`);
+      if (chip) {
+        chip.classList.remove('bg-gray-200', 'dark:bg-gray-700', 'text-gray-400', 'blur-[1.5px]');
+        chip.classList.add('bg-green-500', 'text-white', 'quiz-pop');
+      }
+    }
 
     // Reveal: every correct option greens, a wrong pick reds + shakes
     this.root.querySelectorAll('[data-action="answer"]').forEach(b => {
@@ -387,7 +411,7 @@ class QuizCenter {
       this.index++;
       this.answered = false;
       if (this.index >= this.questions.length) {
-        const scope = this.scopeLabel();
+        const scope = this.bestKey();
         const best = this.getBest(this.currentType.id, scope);
         if (best === null || this.score > best) {
           this.saveBest(this.currentType.id, scope, this.score);
@@ -477,15 +501,26 @@ class QuizCenter {
     let subUI = '';
     if (type.id === 'ayah_sequence') {
       const b = (sub, label) => `<button data-action="set-sub" data-sub="${sub}"
-          class="px-4 py-2 rounded-lg text-sm font-medium transition-colors ${this.subMode === sub
+          class="px-3 py-2 rounded-lg text-sm font-medium transition-colors ${this.subMode === sub
             ? 'bg-primary text-white dark:bg-blue-600'
             : 'bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'}">${label}</button>`;
-      subUI = `<div class="flex justify-center gap-2 mb-4">
+      subUI = `<div class="flex flex-wrap justify-center gap-2 mb-4">
                  ${b('next', t('next', lang))}${b('previous', t('previous', lang))}
+                 ${b('first', t('quiz_sub_first', lang))}${b('last', t('quiz_sub_last', lang))}
+                 ${b('random', t('quiz_sub_random', lang))}
                </div>`;
     }
 
-    const best = this.getBest(type.id, this.scopeLabel());
+    // Difficulty (question count) — all quiz types
+    const diffBtn = (d, label) => `<button data-action="set-diff" data-diff="${d}"
+        class="px-3 py-2 rounded-lg text-sm font-medium transition-colors ${this.difficulty === d
+          ? 'bg-secondary text-white'
+          : 'bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'}">${label}<span class="block text-[10px] opacity-70">${this.DIFF[d]}${t('quiz_q_short', lang)}</span></button>`;
+    const diffUI = `<div class="flex flex-wrap justify-center gap-2 mb-4">
+        ${diffBtn('easy', t('quiz_diff_easy', lang))}${diffBtn('mid', t('quiz_diff_mid', lang))}${diffBtn('hifz', t('quiz_diff_hifz', lang))}
+      </div>`;
+
+    const best = this.getBest(type.id, this.bestKey());
 
     return `
       <div class="mb-4">
@@ -497,13 +532,14 @@ class QuizCenter {
         <p class="text-sm text-gray-500 dark:text-gray-400 mt-1 mb-5">${this.esc(this.typeDesc(type))}</p>
         ${scopeUI}
         ${subUI}
+        ${diffUI}
         <div class="max-w-sm mx-auto text-left mb-5">${pickerUI}</div>
         ${this.buildError ? `<p class="text-sm text-red-600 dark:text-red-400 mb-4">${t('quiz_no_data', lang)}</p>` : ''}
         <button data-action="start"
                 class="px-8 py-3 bg-primary hover:bg-primary/80 text-white rounded-xl font-semibold transition-colors">
           ${t('quiz_start', lang)}
         </button>
-        ${best !== null ? `<p class="text-sm text-gray-500 dark:text-gray-400 mt-4">${t('best_score', lang)}: ${best}/10</p>` : ''}
+        ${best !== null ? `<p class="text-sm text-gray-500 dark:text-gray-400 mt-4">${t('best_score', lang)}: ${best}/${this.roundSize()}</p>` : ''}
       </div>
     `;
   }
@@ -513,6 +549,24 @@ class QuizCenter {
       <div class="flex flex-col items-center justify-center py-24">
         <div class="animate-spin rounded-full h-12 w-12 border-4 border-primary border-t-transparent"></div>
         <p class="mt-4 text-gray-500 dark:text-gray-400">${this.tt('loading')}</p>
+      </div>`;
+  }
+
+  // Blur-strip: shows the surah's ayahs, blurred, revealing each as you answer it.
+  sequenceStripHtml() {
+    if (!this.revealedAyahs) return '';
+    const info = (typeof getSurahByNumber === 'function') ? getSurahByNumber(this.scope.surah) : null;
+    const N = info ? info.ayahCount : Math.max(1, ...this.questions.map(q => q.answerAyah || 1));
+    let chips = '';
+    for (let a = 1; a <= N; a++) {
+      const on = this.revealedAyahs.has(a);
+      chips += `<span data-ayah-chip="${a}" class="inline-flex items-center justify-center w-7 h-7 rounded-md text-xs font-medium transition-all ${
+        on ? 'bg-green-500 text-white' : 'bg-gray-200 dark:bg-gray-700 text-gray-400 blur-[1.5px]'}">${a}</span>`;
+    }
+    return `
+      <div class="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-3 mb-4">
+        <div class="text-xs text-gray-400 mb-2 text-center">${this.tt('quiz_surah_progress')} — <b class="text-gray-600 dark:text-gray-300">${this.revealedAyahs.size}/${N}</b></div>
+        <div class="flex flex-wrap gap-1 justify-center">${chips}</div>
       </div>`;
   }
 
@@ -549,6 +603,7 @@ class QuizCenter {
         ${q.gotoVerse ? `<button data-action="goto" data-goto="${q.gotoVerse}"
             class="mt-4 text-xs text-primary dark:text-blue-400 hover:underline">↗ ${t('quiz_view_verse', lang)}</button>` : ''}
       </div>
+      ${this.sequenceStripHtml()}
       <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">${options}</div>
       <div id="quiz-feedback" class="mt-4 text-center min-h-[1.5rem] text-sm"></div>
     `;
@@ -559,7 +614,7 @@ class QuizCenter {
     const total = this.questions.length;
     const pct = Math.round((this.score / total) * 100);
     const stars = pct >= 90 ? 3 : pct >= 60 ? 2 : 1;
-    const best = this.getBest(this.currentType.id, this.scopeLabel());
+    const best = this.getBest(this.currentType.id, this.bestKey());
     const starStr = '★'.repeat(stars) + '☆'.repeat(3 - stars);
 
     return `
@@ -590,30 +645,53 @@ class QuizCenter {
 
   // ---------- generators ----------
 
-  // 1. Ayah sequence: which ayah is next / previous within one surah
+  // 1. Ayah sequence: next / previous / first / last / random within one surah
   async buildAyahSequence(scope) {
     const verses = await this.surahVerses(scope.surah);
     if (verses.length < 3) return [];
-    const next = this.subMode !== 'previous';
-    const prompt = next ? this.tt('quiz_which_next') : this.tt('quiz_which_prev');
+    const surahNum = scope.surah;
+    const N = verses.length;
+    const info = (typeof getSurahByNumber === 'function') ? getSurahByNumber(surahNum) : null;
+    const surahName = info ? (info.name || info.englishName || `Surah ${surahNum}`) : `Surah ${surahNum}`;
 
-    // Valid shown positions: not last (for next) / not first (for previous)
-    const positions = verses.map((_, i) => i).filter(i => next ? i < verses.length - 1 : i > 0);
-    const questions = [];
-    for (const i of this.shuffle(positions).slice(0, 10)) {
+    const makeDir = (i, dir) => {
       const shown = verses[i];
-      const answer = verses[next ? i + 1 : i - 1];
+      const answer = verses[dir === 'next' ? i + 1 : i - 1];
       const distractors = this.sample(verses.filter(v => v.ayah !== shown.ayah && v.ayah !== answer.ayah), 3);
-      const options = [{ html: this.ar(answer.text, '!text-2xl'), correct: true }]
-        .concat(distractors.map(v => ({ html: this.ar(v.text, '!text-2xl'), correct: false })));
-      questions.push({
-        prompt,
-        promptHtml: this.ar(shown.text, '!text-3xl') + `<div class="text-xs text-gray-400 mt-2">${scope.surah}:${shown.ayah}</div>`,
-        options,
-        gotoVerse: `${scope.surah}:${shown.ayah}`
-      });
+      return {
+        prompt: dir === 'next' ? this.tt('quiz_which_next') : this.tt('quiz_which_prev'),
+        promptHtml: this.ar(shown.text, '!text-3xl') + `<div class="text-xs text-gray-400 mt-2">${surahNum}:${shown.ayah}</div>`,
+        options: [{ html: this.ar(answer.text, '!text-2xl'), correct: true }]
+          .concat(distractors.map(v => ({ html: this.ar(v.text, '!text-2xl'), correct: false }))),
+        gotoVerse: `${surahNum}:${shown.ayah}`, answerAyah: answer.ayah, surahNum
+      };
+    };
+    const makeEnd = (which) => {
+      const answer = which === 'first' ? verses[0] : verses[N - 1];
+      const distractors = this.sample(verses.filter(v => v.ayah !== answer.ayah), 3);
+      return {
+        prompt: which === 'first' ? this.tt('quiz_which_first') : this.tt('quiz_which_last'),
+        promptHtml: `<div class="text-2xl font-bold">${this.esc(surahName)}</div><div class="text-xs text-gray-400 mt-1">${surahNum}</div>`,
+        options: [{ html: this.ar(answer.text, '!text-2xl'), correct: true }]
+          .concat(distractors.map(v => ({ html: this.ar(v.text, '!text-2xl'), correct: false }))),
+        gotoVerse: `${surahNum}:${answer.ayah}`, answerAyah: answer.ayah, surahNum
+      };
+    };
+
+    const size = this.roundSize();
+    if (this.subMode === 'first' || this.subMode === 'last') {
+      return Array.from({ length: size }, () => makeEnd(this.subMode));
     }
-    return questions;
+    if (this.subMode === 'random') {
+      const nextPos = verses.map((_, i) => i).filter(i => i < N - 1).map(i => ['next', i]);
+      const prevPos = verses.map((_, i) => i).filter(i => i > 0).map(i => ['previous', i]);
+      let pool = this.shuffle(nextPos.concat(prevPos)).map(([d, i]) => makeDir(i, d));
+      pool = this.shuffle([makeEnd('first'), makeEnd('last')].concat(pool));
+      return pool.slice(0, size);
+    }
+    const next = this.subMode !== 'previous';
+    const positions = verses.map((_, i) => i).filter(i => next ? i < N - 1 : i > 0);
+    return this.shuffle(positions).slice(0, size).map(i => makeDir(i, next ? 'next' : 'previous'));
   }
 
   // 2. Guess the surah of a verse (multiple correct when text repeats across surahs)

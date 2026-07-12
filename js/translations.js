@@ -5,6 +5,16 @@
 
 const TRANSLATIONS = {
   en: {
+    quiz_sub_first: 'First',
+    quiz_sub_last: 'Last',
+    quiz_sub_random: 'Random',
+    quiz_which_first: 'Which is the first ayah of this surah?',
+    quiz_which_last: 'Which is the last ayah of this surah?',
+    quiz_diff_easy: 'Easy',
+    quiz_diff_mid: 'Mid',
+    quiz_diff_hifz: 'Hifz',
+    quiz_q_short: 'Q',
+    quiz_surah_progress: 'Surah progress',
     quick_links: 'Explore',
     sarf_subtitle: 'Real Quranic word-forms for the most frequent roots — conjugation & declension.',
     sarf_occurrences: 'occurrences',
