@@ -115,11 +115,14 @@ class WordByWord {
   }
 
   hideDetail() {
+    if (this.wordAudio) this.wordAudio.pause();
     this.panel.classList.add('hidden');
   }
 
   async showDetail(ayah, word) {
     const lang = this.language;
+    this._detailToken = (this._detailToken || 0) + 1;
+    const token = this._detailToken;   // guard: drop stale async renders from rapid clicks
     this._occ = {};   // section id -> {locations, shown}
     this.panel.classList.remove('hidden');
     this.panel.querySelector('#wdp-title').innerHTML =
@@ -164,6 +167,7 @@ class WordByWord {
       } catch (err) { /* skip */ }
     }
 
+    if (token !== this._detailToken) return;   // a newer word was clicked meanwhile
     const corpusLoc = `(${ayah.surah}:${ayah.ayah}:${word.position})`;
 
     body.innerHTML = `

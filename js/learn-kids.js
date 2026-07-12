@@ -63,6 +63,11 @@ class KidsQaida {
       }
     });
 
+    // Stop all audio + timers when the user leaves the Learn tab
+    window.addEventListener('tabChanged', (e) => {
+      if (e.detail && e.detail.tabId !== 'learn') this.stopAll();
+    });
+
     window.addEventListener('settingChanged', (e) => {
       if (e.detail && e.detail.key === 'language') {
         this.language = e.detail.value;
@@ -1206,6 +1211,15 @@ class KidsQaida {
       clearTimeout(this._advanceTimer);
       this._advanceTimer = null;
     }
+  }
+
+  /** Stop every audio source + timer this module owns (called on tab leave). */
+  stopAll() {
+    this.clearAdvanceTimer();
+    this.stopSurahPlay();
+    if (this._wordTapTimer) { clearTimeout(this._wordTapTimer); this._wordTapTimer = null; }
+    [this._clipAudio, this._wordTapAudio, this._ayahAudio].forEach(a => { try { if (a) a.pause(); } catch (e) {} });
+    try { if (window.speechSynthesis) window.speechSynthesis.cancel(); } catch (e) {}
   }
 
   /* -------------------------------------------------------------- Events */

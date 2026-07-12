@@ -114,7 +114,8 @@ const TajweedGuide = {
     if (!this.el) {
       this.el = document.createElement('div');
       this.el.id = 'tajweed-guide';
-      this.el.className = 'fixed right-0 top-28 z-30 flex items-start';
+      // max-lg:!hidden keeps it off small screens (it would overlay the reading column)
+      this.el.className = 'fixed right-0 top-28 z-30 flex items-start max-lg:!hidden';
       document.body.appendChild(this.el);
 
       this.el.addEventListener('click', (e) => {
@@ -123,8 +124,11 @@ const TajweedGuide = {
           this.render(this._lang);
         }
       });
+    }
 
-      // Only meaningful on the reading tab
+    // Only meaningful on the reading tab — bind the tab listener exactly once
+    if (!this._tabBound) {
+      this._tabBound = true;
       window.addEventListener('tabChanged', (e) => {
         if (this.el) this.el.classList.toggle('hidden', e.detail.tabId !== 'reading');
       });

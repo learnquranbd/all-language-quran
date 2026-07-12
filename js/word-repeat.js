@@ -67,7 +67,12 @@ class WordRepeat {
       const term = e.target.closest('[data-term]');
       if (term) { const k = term.getAttribute('data-term'); this.openTerm = this.openTerm === k ? null : k; this.renderResults(); return; }
       const verse = e.target.closest('[data-verse]');
-      if (verse) { this.openAyah(verse.getAttribute('data-verse'), verse.getAttribute('data-term-word')); return; }
+      if (verse) {
+        const ref = verse.getAttribute('data-verse'), w = verse.getAttribute('data-term-word');
+        if (typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: w });
+        else this.openAyah(ref, w);
+        return;
+      }
     });
     this.container.addEventListener('change', (e) => {
       if (e.target.id === 'wr-surah') { this.surah = parseInt(e.target.value); this.ayah = 1; this.openTerm = null; this.render(); }
