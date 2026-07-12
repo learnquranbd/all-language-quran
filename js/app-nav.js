@@ -119,11 +119,14 @@ class AppNav {
       <div class="flex items-center gap-2 px-3 mb-2 text-sm font-bold text-gray-800 dark:text-gray-100">
         <span>${primary.emoji}</span><span>${this.tt(primary.label)}</span>
       </div>
-      ${items.map(it => `
-        <button data-child="${it.key}" data-kind="${it.kind}" class="${this.itemClass(false)}">
+      ${items.map(it => {
+        const active = (it.kind === 'mode' && this.activeTab === 'memorize' && this.memMode === it.key);
+        return `
+        <button data-child="${it.key}" data-kind="${it.kind}" class="${this.itemClass(active)}">
           <span class="text-lg leading-none">${it.emoji}</span>
           <span class="flex-1">${this.tt(it.label)}</span>
-        </button>`).join('')}
+        </button>`;
+      }).join('')}
     `;
     this.root.querySelector('[data-nav-back]').addEventListener('click', () => this.showPrimary());
     this.root.querySelectorAll('[data-child]').forEach(btn => {

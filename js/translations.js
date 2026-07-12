@@ -5,6 +5,7 @@
 
 const TRANSLATIONS = {
   en: {
+    flip_card: 'Flip card',
     typemem_matched: 'Matched',
     audio_repeat_each: 'Repeat each',
     audio_loop_range: 'Loop range',
@@ -494,6 +495,7 @@ const TRANSLATIONS = {
   },
 
   bn: {
+    flip_card: 'কার্ড উল্টান',
     typemem_matched: 'মিলেছে',
     audio_repeat_each: 'প্রতিটি পুনরাবৃত্তি',
     audio_loop_range: 'লুপ পরিসর',
@@ -982,6 +984,7 @@ const TRANSLATIONS = {
   },
 
   ar: {
+    flip_card: 'اقلب البطاقة',
     typemem_matched: 'مطابق',
     audio_repeat_each: 'تكرار كل آية',
     audio_loop_range: 'تكرار النطاق',
@@ -1470,6 +1473,7 @@ const TRANSLATIONS = {
   },
 
   ur: {
+    flip_card: 'کارڈ پلٹیں',
     typemem_matched: 'مماثل',
     audio_repeat_each: 'ہر ایک دہرائیں',
     audio_loop_range: 'لوپ کی حد',
@@ -1958,6 +1962,7 @@ const TRANSLATIONS = {
   },
 
   id: {
+    flip_card: 'Balik kartu',
     typemem_matched: 'Cocok',
     audio_repeat_each: 'Ulangi tiap',
     audio_loop_range: 'Rentang ulang',
@@ -2446,6 +2451,7 @@ const TRANSLATIONS = {
   },
 
   tr: {
+    flip_card: 'Kartı çevir',
     typemem_matched: 'Eşleşti',
     audio_repeat_each: 'Her birini tekrarla',
     audio_loop_range: 'Aralığı döngüle',
@@ -2934,6 +2940,7 @@ const TRANSLATIONS = {
   },
 
   fr: {
+    flip_card: 'Retourner la carte',
     typemem_matched: 'Trouvé',
     audio_repeat_each: 'Répéter chaque',
     audio_loop_range: 'Boucler la plage',
@@ -3421,6 +3428,7 @@ const TRANSLATIONS = {
 
   },
   es: {
+    flip_card: 'Girar tarjeta',
     typemem_matched: 'Coincide',
     audio_repeat_each: 'Repetir cada uno',
     audio_loop_range: 'Repetir rango',
@@ -3889,6 +3897,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Historias de los profetas"
   },
   ru: {
+    flip_card: 'Перевернуть карточку',
     typemem_matched: 'Совпало',
     audio_repeat_each: 'Повтор каждого',
     audio_loop_range: 'Зациклить диапазон',
@@ -4357,6 +4366,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Истории пророков"
   },
   fa: {
+    flip_card: 'برگرداندن کارت',
     typemem_matched: 'مطابقت‌یافته',
     audio_repeat_each: 'تکرار هرکدام',
     audio_loop_range: 'تکرار بازه',
@@ -4825,6 +4835,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "داستان‌های پیامبران"
   },
   hi: {
+    flip_card: 'कार्ड पलटें',
     typemem_matched: 'मिलान हुआ',
     audio_repeat_each: 'हर एक दोहराएँ',
     audio_loop_range: 'लूप रेंज',
@@ -5293,6 +5304,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "पैगंबरों की कहानियाँ"
   },
   de: {
+    flip_card: 'Karte umdrehen',
     typemem_matched: 'Übereinstimmung',
     audio_repeat_each: 'Jede wiederholen',
     audio_loop_range: 'Bereich wiederholen',
@@ -5761,6 +5773,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Geschichten der Propheten"
   },
   ms: {
+    flip_card: 'Balikkan kad',
     typemem_matched: 'Sepadan',
     audio_repeat_each: 'Ulang setiap',
     audio_loop_range: 'Julat ulangan',
@@ -6229,6 +6242,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Kisah Para Nabi"
   },
   zh: {
+    flip_card: '翻转卡片',
     typemem_matched: '已匹配',
     audio_repeat_each: '每句重复',
     audio_loop_range: '循环范围',
@@ -6697,6 +6711,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "先知们的故事"
   },
   ja: {
+    flip_card: 'カードをめくる',
     typemem_matched: '一致',
     audio_repeat_each: '各節の繰り返し回数',
     audio_loop_range: '範囲をループ',

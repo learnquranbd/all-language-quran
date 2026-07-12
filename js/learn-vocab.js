@@ -47,6 +47,11 @@ class VocabTrainer {
     });
 
     this.root.addEventListener('click', (e) => this.onClick(e));
+    // Keyboard: flip the focused card with Enter/Space
+    this.root.addEventListener('keydown', (e) => {
+      const flip = e.target.closest('[data-action="flip"]');
+      if (flip && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); this.onClick({ target: flip }); }
+    });
   }
 
   // ---------- persistence ----------
@@ -242,9 +247,9 @@ class VocabTrainer {
         ${this.cardIndex + 1} / ${this.deck.length}
         ${known ? `<span class="mx-2 px-2 py-0.5 text-xs rounded-full bg-green-100 dark:bg-green-900/40 text-green-700 dark:text-green-300">${t('vocab_known_badge', lang)}</span>` : ''}
       </div>
-      <div data-action="flip"
+      <div data-action="flip" role="button" tabindex="0" aria-label="${t('flip_card', lang)}"
            class="cursor-pointer select-none bg-white dark:bg-gray-800 rounded-2xl shadow-lg border border-gray-200 dark:border-gray-700
-                  min-h-[280px] flex flex-col items-center justify-center text-center p-8 transition-transform hover:shadow-xl">
+                  min-h-[280px] flex flex-col items-center justify-center text-center p-8 transition-transform hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-primary">
         ${this.flipped ? back : front}
       </div>
       <div class="grid grid-cols-2 gap-4">
@@ -340,10 +345,12 @@ class VocabTrainer {
         b.classList.remove('border-gray-200', 'dark:border-gray-700', 'bg-white', 'dark:bg-gray-800');
         b.classList.add('border-green-500', 'bg-green-100', 'dark:bg-green-900/40',
           'text-green-800', 'dark:text-green-300');
+        b.insertAdjacentHTML('afterbegin', '<span aria-hidden="true" class="mr-1">✓</span>');
       } else if (b === btn) {
         b.classList.remove('border-gray-200', 'dark:border-gray-700', 'bg-white', 'dark:bg-gray-800');
         b.classList.add('border-red-500', 'bg-red-100', 'dark:bg-red-900/40',
           'text-red-800', 'dark:text-red-300');
+        b.insertAdjacentHTML('afterbegin', '<span aria-hidden="true" class="mr-1">✗</span>');
       }
     });
 
