@@ -595,19 +595,37 @@ class KidsQaida {
 
   renderWords(lang) {
     return `
-      <p class="text-center text-gray-500 dark:text-gray-400 mb-4">🐢 ${t('tap_word_hint', lang)}</p>
+      <p class="text-center text-gray-500 dark:text-gray-400 mb-1">🐢 ${t('tap_word_hint', lang)}</p>
+      <p class="text-center text-xs text-gray-400 mb-4">${t('kids_words_freq_note', lang)}</p>
       <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4">
-        ${QAIDA_WORDS.map((w, i) => `
+        ${this.freqWords().map((w, i) => `
           <button data-kids-word-idx="${i}"
-                  class="rounded-2xl bg-gradient-to-br ${KIDS_GRADIENTS[i % KIDS_GRADIENTS.length]}
-                         shadow hover:shadow-lg hover:scale-105 transition-all p-5 sm:p-6
-                         flex flex-col items-center gap-2">
-            <span class="ayah-arabic !text-5xl !leading-tight" dir="rtl">${w.arabic}</span>
-            <span class="text-base font-bold text-gray-600 dark:text-gray-300">${w.translit}</span>
+                  class="relative rounded-2xl bg-gradient-to-br ${KIDS_GRADIENTS[i % KIDS_GRADIENTS.length]}
+                         shadow hover:shadow-lg hover:scale-105 transition-all p-4 sm:p-5
+                         flex flex-col items-center gap-1 text-center">
+            <span class="absolute top-1.5 left-2 text-[10px] font-bold text-gray-500/70 dark:text-gray-300/60">#${i + 1}</span>
+            <span class="ayah-arabic !text-4xl sm:!text-5xl !leading-tight" dir="rtl">${w.arabic}</span>
+            <span class="text-sm font-bold text-gray-700 dark:text-gray-200">${w.translit}</span>
+            <span class="text-xs text-gray-600 dark:text-gray-300" dir="auto">${this.wordMeaning(w)}</span>
+            <span class="text-[10px] text-gray-500/80 dark:text-gray-400/80">≈ ${w.count.toLocaleString()}× ${t('kids_in_quran', lang)}</span>
           </button>
         `).join('')}
       </div>
     `;
+  }
+
+  /** Vocabulary ordered by Quranic frequency (most common first). */
+  freqWords() {
+    if (!this._freqWords) {
+      const src = (typeof VOCAB_WORDS !== 'undefined') ? VOCAB_WORDS : [];
+      this._freqWords = src.slice().sort((a, b) => (b.count || 0) - (a.count || 0));
+    }
+    return this._freqWords;
+  }
+
+  wordMeaning(w) {
+    const m = w.meanings || {};
+    return m[this.language] || m.en || '';
   }
 
   /* ------------------------------------------------------------ Numbers */
@@ -1279,7 +1297,7 @@ class KidsQaida {
 
     const wordBtn = e.target.closest('[data-kids-word-idx]');
     if (wordBtn) {
-      const word = QAIDA_WORDS[parseInt(wordBtn.getAttribute('data-kids-word-idx'), 10)];
+      const word = this.freqWords()[parseInt(wordBtn.getAttribute('data-kids-word-idx'), 10)];
       if (word) this.speakArabic(word.arabic, 0.65);
       return;
     }

@@ -5,6 +5,8 @@
 
 const TRANSLATIONS = {
   en: {
+    kids_words_freq_note: 'Ordered by how often each word appears in the Quran',
+    kids_in_quran: 'in the Quran',
     names_reflect_lead: 'Reflect on Allah as',
     names_reflect_body: 'How can knowing this name deepen your faith and shape how you live today?',
     names_search_quran: 'Find in Quran',
