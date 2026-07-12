@@ -5,6 +5,7 @@
 
 const TRANSLATIONS = {
   en: {
+    wr_tap_hint: 'Tap a word to see every verse it appears in — opens here, in this module.',
     tap_word_to_hear: 'Tap any word to hear it',
     play_full_ayah: 'Play full ayah',
     quiz_sub_first: 'First',

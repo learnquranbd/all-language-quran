@@ -22,9 +22,11 @@ class WordRepeat {
     this.scope = 'surah'; // 'surah' | 'ayah'
     this.ayah = 1;
     this.type = 'exact';  // 'exact' | 'root'
-    this.onlyRepeated = true;
+    this.onlyRepeated = false;   // show ALL words by default (repeated + singles)
     this.openTerm = null;
     this.loaded = false;
+    this.ayahModal = null;
+    this._ayahAudio = null;
 
     window.addEventListener('tabChanged', (e) => { if (e.detail.tabId === 'wordrepeat') this.ensureLoaded(); });
     window.addEventListener('settingChanged', (e) => {
@@ -63,7 +65,7 @@ class WordRepeat {
       const term = e.target.closest('[data-term]');
       if (term) { const k = term.getAttribute('data-term'); this.openTerm = this.openTerm === k ? null : k; this.renderResults(); return; }
       const verse = e.target.closest('[data-verse]');
-      if (verse) { this.goto(verse.getAttribute('data-verse')); return; }
+      if (verse) { this.openAyah(verse.getAttribute('data-verse'), verse.getAttribute('data-term-word')); return; }
     });
     this.container.addEventListener('change', (e) => {
       if (e.target.id === 'wr-surah') { this.surah = parseInt(e.target.value); this.ayah = 1; this.openTerm = null; this.render(); }
@@ -145,18 +147,20 @@ class WordRepeat {
   renderResults() {
     const box = this.container.querySelector('#wr-results');
     if (!box) return;
-    let list = this.compute();
-    const total = list.reduce((n, x) => n + x.count, 0);
-    const repeatedCount = list.filter(x => x.count >= 2).length;
-    if (this.onlyRepeated) list = list.filter(x => x.count >= 2);
+    const full = this.compute();
+    const total = full.reduce((n, x) => n + x.count, 0);
+    const uniqueCount = full.length;
+    const repeatedCount = full.filter(x => x.count >= 2).length;
+    const list = this.onlyRepeated ? full.filter(x => x.count >= 2) : full;
     if (!list.length) { box.innerHTML = `<p class="text-center py-10 text-gray-400">${this.tt('wr_none')}</p>`; return; }
 
     box.innerHTML = `
       <div class="flex flex-wrap gap-4 justify-center text-sm text-gray-500 dark:text-gray-400 mb-3">
         <span>${this.tt('wr_total_words')}: <b class="text-gray-800 dark:text-gray-100">${total}</b></span>
-        <span>${this.tt('wr_unique')}: <b class="text-gray-800 dark:text-gray-100">${this.compute().length}</b></span>
+        <span>${this.tt('wr_unique')}: <b class="text-gray-800 dark:text-gray-100">${uniqueCount}</b></span>
         <span>${this.tt('wr_repeated')}: <b class="text-gray-800 dark:text-gray-100">${repeatedCount}</b></span>
       </div>
+      <p class="text-center text-xs text-gray-400 mb-3">${this.tt('wr_tap_hint')}</p>
       <div class="flex flex-wrap gap-2 justify-center">
         ${list.map(x => this.termChip(x)).join('')}
       </div>`;
@@ -172,15 +176,72 @@ class WordRepeat {
         </button>
         ${open ? `
           <div class="mt-2 mb-3 p-3 rounded-xl bg-gray-50 dark:bg-gray-900/40 flex flex-wrap gap-1.5">
-            ${x.refs.map(r => `<button data-verse="${r}" class="text-xs font-mono px-2 py-1 rounded-md bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 hover:bg-primary hover:text-white">${r}</button>`).join('')}
+            ${x.refs.map(r => `<button data-verse="${r}" data-term-word="${this.esc(x.term)}" class="text-xs font-mono px-2 py-1 rounded-md bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 hover:bg-primary hover:text-white">${r}</button>`).join('')}
           </div>` : ''}
       </div>`;
   }
 
-  goto(ref) {
-    if (typeof tabSystem !== 'undefined' && tabSystem) tabSystem.switchTab('reading');
-    if (window.location.hash.slice(1) === encodeURIComponent(ref)) window.dispatchEvent(new HashChangeEvent('hashchange'));
-    else window.location.hash = ref;
+  // In-module ayah preview — stays inside Word Repetition (no tab switch).
+  ensureAyahModal() {
+    if (this.ayahModal) return;
+    this.ayahModal = document.createElement('div');
+    this.ayahModal.id = 'wr-ayah-modal';
+    this.ayahModal.className = 'fixed inset-0 bg-black/60 z-[70] items-center justify-center p-4 hidden';
+    this.ayahModal.innerHTML = `
+      <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl border border-gray-200 dark:border-gray-700 w-full max-w-xl max-h-[85vh] flex flex-col">
+        <div class="flex items-center gap-2 px-5 py-3 border-b border-gray-200 dark:border-gray-700">
+          <h3 id="wr-ayah-title" class="flex-1 font-bold text-gray-800 dark:text-gray-100"></h3>
+          <button id="wr-ayah-close" class="p-2 rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
+        </div>
+        <div id="wr-ayah-body" class="flex-1 overflow-y-auto p-5"></div>
+      </div>`;
+    document.body.appendChild(this.ayahModal);
+    this.ayahModal.addEventListener('click', (e) => {
+      if (e.target === this.ayahModal || e.target.closest('#wr-ayah-close')) {
+        this.ayahModal.classList.add('hidden'); this.ayahModal.classList.remove('flex'); return;
+      }
+      const wp = e.target.closest('[data-word-audio]');
+      if (wp) { if (!this._ayahAudio) this._ayahAudio = new Audio(); this._ayahAudio.src = wp.getAttribute('data-word-audio'); this._ayahAudio.play().catch(() => {}); return; }
+      const fp = e.target.closest('[data-ayah-audio]');
+      if (fp) { if (!this._ayahAudio) this._ayahAudio = new Audio(); this._ayahAudio.src = fp.getAttribute('data-ayah-audio'); this._ayahAudio.play().catch(() => {}); }
+    });
+  }
+
+  async openAyah(ref, term) {
+    const lang = this.language;
+    this.ensureAyahModal();
+    this.ayahModal.classList.remove('hidden'); this.ayahModal.classList.add('flex');
+    this.ayahModal.querySelector('#wr-ayah-title').textContent = ref;
+    const body = this.ayahModal.querySelector('#wr-ayah-body');
+    body.innerHTML = `<p class="text-center text-gray-400 py-8">${this.tt('loading')}</p>`;
+    try {
+      const [s, a] = ref.split(':').map(Number);
+      const v = (await QuranData.fetchRange(s, a, a, lang))[0];
+      if (!v) throw new Error('nf');
+      this.ayahModal.querySelector('#wr-ayah-title').textContent = `${v.surahName} ${v.key}`;
+      const norm = x => (QuranData.normalizeWord ? QuranData.normalizeWord(x || '') : String(x || ''));
+      // For root matches term is an Arabic root; for exact it's a normalized token.
+      const wbw = (v.words || []).map(w => {
+        const hit = term && (norm(w.arabic) === norm(term) || (w.arabic || '').indexOf(term) >= 0);
+        const canPlay = !!w.audio;
+        return `<button ${canPlay ? `data-word-audio="${this.esc(w.audio)}"` : ''}
+                  class="inline-flex flex-col items-center px-2 py-1 my-1 rounded-lg ${canPlay ? 'hover:bg-blue-50 dark:hover:bg-gray-700 cursor-pointer' : ''} ${hit ? 'ring-2 ring-amber-400 bg-amber-50 dark:bg-amber-500/10' : ''}">
+                  <span class="ayah-arabic !text-2xl block">${w.arabic}</span>
+                  <span class="text-[11px] text-gray-500 dark:text-gray-400 block" dir="auto">${w.meaning || ''}</span>
+                </button>`;
+      }).join('');
+      const pad = n => String(n).padStart(3, '0');
+      body.innerHTML = `
+        <div class="ayah-arabic !text-3xl !leading-loose text-center mb-3" dir="rtl">${v.arabic}</div>
+        <div class="flex flex-wrap justify-center gap-x-1 mb-3" dir="rtl">${wbw}</div>
+        <p class="text-center text-gray-600 dark:text-gray-300 mb-4" dir="auto">${v.translation || ''}</p>
+        <div class="flex justify-center">
+          <button data-ayah-audio="https://everyayah.com/data/Alafasy_128kbps/${pad(s)}${pad(a)}.mp3"
+                  class="px-4 py-2 rounded-lg bg-primary text-white text-sm hover:bg-primary/80">🔊 ${this.tt('play_full_ayah')}</button>
+        </div>`;
+    } catch (e) {
+      body.innerHTML = `<p class="text-center text-gray-500 dark:text-gray-400 py-8">${this.tt('topics_load_error')}</p>`;
+    }
   }
 
   esc(s) { return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])); }
