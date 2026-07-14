@@ -5,6 +5,7 @@
 
 const TRANSLATIONS = {
   en: {
+    bookmark_note: 'Add a note',
     quiz_review_missed: 'Review your missed questions',
     quiz_your_answer: 'Your answer',
     quiz_correct_answer: 'Correct answer',
@@ -999,6 +1000,7 @@ const TRANSLATIONS = {
   },
 
   ar: {
+    bookmark_note: 'أضف ملاحظة',
     quiz_review_missed: 'راجع الأسئلة التي أخطأت فيها',
     quiz_your_answer: 'إجابتك',
     quiz_correct_answer: 'الإجابة الصحيحة',
@@ -1497,6 +1499,7 @@ const TRANSLATIONS = {
   },
 
   ur: {
+    bookmark_note: 'نوٹ شامل کریں',
     quiz_review_missed: 'غلط سوالات کا جائزہ لیں',
     quiz_your_answer: 'آپ کا جواب',
     quiz_correct_answer: 'درست جواب',
@@ -1995,6 +1998,7 @@ const TRANSLATIONS = {
   },
 
   id: {
+    bookmark_note: 'Tambah catatan',
     quiz_review_missed: 'Tinjau soal yang salah',
     quiz_your_answer: 'Jawaban Anda',
     quiz_correct_answer: 'Jawaban benar',
@@ -2493,6 +2497,7 @@ const TRANSLATIONS = {
   },
 
   tr: {
+    bookmark_note: 'Not ekle',
     quiz_review_missed: 'Yanlış sorularını gözden geçir',
     quiz_your_answer: 'Cevabın',
     quiz_correct_answer: 'Doğru cevap',
@@ -2991,6 +2996,7 @@ const TRANSLATIONS = {
   },
 
   fr: {
+    bookmark_note: 'Ajouter une note',
     quiz_review_missed: 'Revoir vos erreurs',
     quiz_your_answer: 'Votre réponse',
     quiz_correct_answer: 'Bonne réponse',
@@ -3488,6 +3494,7 @@ const TRANSLATIONS = {
 
   },
   es: {
+    bookmark_note: 'Añadir nota',
     quiz_review_missed: 'Repasa tus errores',
     quiz_your_answer: 'Tu respuesta',
     quiz_correct_answer: 'Respuesta correcta',
@@ -3966,6 +3973,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Historias de los profetas"
   },
   ru: {
+    bookmark_note: 'Добавить заметку',
     quiz_review_missed: 'Разбор ошибок',
     quiz_your_answer: 'Ваш ответ',
     quiz_correct_answer: 'Правильный ответ',
@@ -4444,6 +4452,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Истории пророков"
   },
   fa: {
+    bookmark_note: 'افزودن یادداشت',
     quiz_review_missed: 'مرور سوالات اشتباه',
     quiz_your_answer: 'پاسخ شما',
     quiz_correct_answer: 'پاسخ درست',
@@ -4922,6 +4931,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "داستان‌های پیامبران"
   },
   hi: {
+    bookmark_note: 'नोट जोड़ें',
     quiz_review_missed: 'गलत प्रश्न दोहराएँ',
     quiz_your_answer: 'आपका उत्तर',
     quiz_correct_answer: 'सही उत्तर',
@@ -5400,6 +5410,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "पैगंबरों की कहानियाँ"
   },
   de: {
+    bookmark_note: 'Notiz hinzufügen',
     quiz_review_missed: 'Fehler durchgehen',
     quiz_your_answer: 'Deine Antwort',
     quiz_correct_answer: 'Richtige Antwort',
@@ -5878,6 +5889,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Geschichten der Propheten"
   },
   ms: {
+    bookmark_note: 'Tambah nota',
     quiz_review_missed: 'Semak soalan yang salah',
     quiz_your_answer: 'Jawapan anda',
     quiz_correct_answer: 'Jawapan betul',
@@ -6356,6 +6368,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Kisah Para Nabi"
   },
   zh: {
+    bookmark_note: '添加笔记',
     quiz_review_missed: '回顾错题',
     quiz_your_answer: '你的答案',
     quiz_correct_answer: '正确答案',
@@ -6834,6 +6847,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "先知们的故事"
   },
   ja: {
+    bookmark_note: 'メモを追加',
     quiz_review_missed: '間違えた問題を復習',
     quiz_your_answer: 'あなたの答え',
     quiz_correct_answer: '正解',

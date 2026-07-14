@@ -155,7 +155,54 @@ class Bookmarks {
     if (cont) {
       e.preventDefault();
       window.location.hash = cont.getAttribute('data-hash');
+      return;
     }
+
+    // Per-bookmark note: toggle editor / save
+    const noteBtn = e.target.closest('.bm-note');
+    if (noteBtn) {
+      e.preventDefault();
+      const key = noteBtn.getAttribute('data-key');
+      this.editingNote = this.editingNote === key ? null : key;
+      this.renderStrip();
+      const input = document.getElementById('bm-note-input');
+      if (input) { input.focus(); input.setSelectionRange(input.value.length, input.value.length); }
+      return;
+    }
+    const saveBtn = e.target.closest('.bm-note-save');
+    if (saveBtn) {
+      e.preventDefault();
+      this.saveNote(saveBtn.getAttribute('data-key'));
+      return;
+    }
+
+    // Copy all bookmarks (+ notes) as plain text
+    const exp = e.target.closest('#bm-export');
+    if (exp) {
+      e.preventDefault();
+      const notes = this.read('bookmarkNotes', {});
+      const text = this.getBookmarks().map(k => {
+        const name = this.localSurahName(parseInt(k.split(':')[0], 10));
+        return `${name} ${k}${notes[k] ? ' — ' + notes[k] : ''}`;
+      }).join('\n');
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(() => {
+          exp.textContent = '✓';
+          setTimeout(() => { exp.textContent = '📋'; }, 1200);
+        }).catch(() => {});
+      }
+    }
+  }
+
+  saveNote(key) {
+    const input = document.getElementById('bm-note-input');
+    if (!input) return;
+    const notes = this.read('bookmarkNotes', {});
+    const val = input.value.trim();
+    if (val) notes[key] = val; else delete notes[key];
+    this.write('bookmarkNotes', notes);
+    this.editingNote = null;
+    this.renderStrip();
   }
 
   /* --------------------------------------------------------- empty-view strip */
@@ -187,25 +234,40 @@ class Bookmarks {
     }
 
     if (bookmarks.length) {
+      const notes = this.read('bookmarkNotes', {});
       const rows = bookmarks.map(key => {
         const num = parseInt(key.split(':')[0], 10);
         const name = this.localSurahName(num);
+        const note = notes[key] || '';
+        const editing = this.editingNote === key;
         return `
-          <div class="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700/60 transition-colors">
-            <button class="bm-open flex-1 flex items-baseline gap-2 text-start min-w-0" data-key="${this.escapeHtml(key)}">
-              <span class="text-yellow-500">★</span>
-              <span class="truncate text-gray-700 dark:text-gray-200" dir="auto">${this.escapeHtml(name)}</span>
-              <span class="text-xs text-gray-400 dark:text-gray-500 shrink-0">${this.escapeHtml(key)}</span>
-            </button>
-            <button class="bm-remove p-1 rounded text-gray-400 hover:text-red-500 hover:bg-gray-200 dark:hover:bg-gray-600"
-                    data-key="${this.escapeHtml(key)}" title="${t('remove_bookmark', lang)}">✕</button>
+          <div class="px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700/60 transition-colors">
+            <div class="flex items-center gap-2">
+              <button class="bm-open flex-1 flex items-baseline gap-2 text-start min-w-0" data-key="${this.escapeHtml(key)}">
+                <span class="text-yellow-500">★</span>
+                <span class="truncate text-gray-700 dark:text-gray-200" dir="auto">${this.escapeHtml(name)}</span>
+                <span class="text-xs text-gray-400 dark:text-gray-500 shrink-0">${this.escapeHtml(key)}</span>
+              </button>
+              <button class="bm-note p-1 rounded ${note ? 'text-amber-500' : 'text-gray-400'} hover:text-amber-500 hover:bg-gray-200 dark:hover:bg-gray-600"
+                      data-key="${this.escapeHtml(key)}" title="${t('bookmark_note', lang)}">📝</button>
+              <button class="bm-remove p-1 rounded text-gray-400 hover:text-red-500 hover:bg-gray-200 dark:hover:bg-gray-600"
+                      data-key="${this.escapeHtml(key)}" title="${t('remove_bookmark', lang)}">✕</button>
+            </div>
+            ${!editing && note ? `<p class="ml-7 mt-0.5 text-xs italic text-gray-500 dark:text-gray-400" dir="auto">${this.escapeHtml(note)}</p>` : ''}
+            ${editing ? `
+              <div class="ml-7 mt-1 flex items-center gap-1">
+                <input id="bm-note-input" type="text" value="${this.escapeHtml(note)}" maxlength="200" dir="auto"
+                       class="flex-1 px-2 py-1 text-xs rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-primary">
+                <button class="bm-note-save px-2 py-1 text-xs rounded-md bg-primary text-white hover:bg-primary/80" data-key="${this.escapeHtml(key)}">✓</button>
+              </div>` : ''}
           </div>`;
       }).join('');
 
       inner += `
         <div class="mt-3">
-          <h3 class="text-xs uppercase font-semibold text-gray-400 dark:text-gray-500 mb-2 px-1">
+          <h3 class="text-xs uppercase font-semibold text-gray-400 dark:text-gray-500 mb-2 px-1 flex items-center">
             ★ ${t('your_bookmarks', lang)}
+            <button id="bm-export" class="ml-auto p-1 rounded text-gray-400 hover:text-primary hover:bg-gray-100 dark:hover:bg-gray-700 normal-case" title="${t('copy', lang)}">📋</button>
           </h3>
           <div class="space-y-1">${rows}</div>
         </div>`;
@@ -241,6 +303,13 @@ class Bookmarks {
     } else {
       this.container.insertBefore(strip, this.container.firstChild);
     }
+
+    // Enter saves the note being edited
+    const noteInput = strip.querySelector('#bm-note-input');
+    if (noteInput) noteInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') { e.preventDefault(); this.saveNote(this.editingNote); }
+      if (e.key === 'Escape') { this.editingNote = null; this.renderStrip(); }
+    });
   }
 }
 
