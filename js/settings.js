@@ -19,6 +19,16 @@ class Settings {
   }
 
   init() {
+    // One-time migration: clear WBW-language overrides saved before v41 — they
+    // froze word-by-word meanings to English regardless of the UI language.
+    // (Users can still pick an explicit override in the settings drawer.)
+    try {
+      if (!localStorage.getItem('wbwLangMigrated')) {
+        if (this.settings.wbwLang != null) this.set('wbwLang', null);
+        localStorage.setItem('wbwLangMigrated', '1');
+      }
+    } catch (e) { /* ignore */ }
+
     this.applyTheme();
     this.applyLanguage();
     this.applyFontSize();

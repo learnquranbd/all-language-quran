@@ -30,9 +30,10 @@ class WordRepeat {
     this.wordIndex = null;       // normalized word -> [s:a:w] globally (Quran-wide exact counts)
     this._meaning = {};          // "surah:lang" -> { normalizedToken: meaning }
     this._metaToken = 0;
-    this.openVerse = null;       // "s:a" shown inline under the open word
-    this.openVerseWord = null;   // the word to highlight in the inline verse
-    this._inlineToken = 0;
+    this.openVerses = new Set(); // refs shown inline — several can be open at once
+    this.qOpen = new Set();      // terms whose Quran-wide occurrence list is expanded
+    this._verseCache = {};       // "ref:lang" -> fetched verse (avoids refetch on re-render)
+    this.openVerseWord = null;   // the word to highlight in inline verses
 
     window.addEventListener('tabChanged', (e) => { if (e.detail.tabId === 'wordrepeat') this.ensureLoaded(); });
     window.addEventListener('settingChanged', (e) => {
@@ -82,30 +83,40 @@ class WordRepeat {
 
       const rep = e.target.closest('[data-onlyrep]');
       if (rep) { this.onlyRepeated = !this.onlyRepeated; this.openTerm = null; this.openVerse = null; this.renderResults(); return; }
+      // "Quran ×N" badge → expand this word's Quran-wide occurrences in place
+      const qocc = e.target.closest('[data-qocc]');
+      if (qocc) {
+        const k = qocc.getAttribute('data-qocc');
+        if (this.qOpen.has(k)) this.qOpen.delete(k);
+        else { this.qOpen.add(k); this.openTerm = k; this.openVerseWord = k; }
+        this.renderResults(); this.fillInlineSlots();
+        return;
+      }
       // Clicking a word shows its first verse inline right away; the "N verses"
       // toggle just expands/collapses the list. Both stay in this module.
       const wordBtn = e.target.closest('[data-term]');
       const occBtn = e.target.closest('[data-occ]');
       if (wordBtn || occBtn) {
         const k = (wordBtn && wordBtn.getAttribute('data-term')) || (occBtn && occBtn.getAttribute('data-occ'));
-        if (this.openTerm === k) { this.openTerm = null; this.openVerse = null; }
+        if (this.openTerm === k) { this.openTerm = null; this.openVerses.clear(); this.qOpen.clear(); }
         else {
           this.openTerm = k;
-          if (wordBtn) { this.openVerse = wordBtn.getAttribute('data-first-ref'); this.openVerseWord = k; }
-          else { this.openVerse = null; }
+          this.openVerses.clear(); this.qOpen.clear();
+          this.openVerseWord = k;
+          const first = wordBtn && wordBtn.getAttribute('data-first-ref');
+          if (first) this.openVerses.add(first);
         }
-        this.renderResults();
-        if (this.openVerse) this.loadInlineVerse();
+        this.renderResults(); this.fillInlineSlots();
         return;
       }
-      // Clicking a verse chip toggles that ayah inline (no modal).
+      // Verse chips TOGGLE that ayah inline — several can stay open together.
       const verse = e.target.closest('[data-verse]');
       if (verse) {
         const ref = verse.getAttribute('data-verse');
-        this.openVerse = this.openVerse === ref ? null : ref;
-        this.openVerseWord = verse.getAttribute('data-term-word');
-        this.renderResults();
-        if (this.openVerse) this.loadInlineVerse();
+        if (this.openVerses.has(ref)) this.openVerses.delete(ref);
+        else this.openVerses.add(ref);
+        this.openVerseWord = verse.getAttribute('data-term-word') || this.openVerseWord;
+        this.renderResults(); this.fillInlineSlots();
         return;
       }
     });
@@ -225,39 +236,48 @@ class WordRepeat {
 
   inlineVerseLoading() { return `<p class="text-center text-gray-400 py-3 text-sm">${this.tt('loading')}</p>`; }
 
-  /** Render the tapped verse inline (word-by-word, tapped word highlighted). */
-  async loadInlineVerse() {
-    const ref = this.openVerse;
+  inlineVerseHtml(v, word, s, a) {
+    const norm = x => QuranData.normalizeWord ? QuranData.normalizeWord(x || '') : String(x || '');
+    const target = word ? norm(word) : null;
+    const wbw = (v.words || []).map(w => {
+      const hit = target && (norm(w.arabic) === target || (word && (w.arabic || '').indexOf(word) >= 0));
+      const canPlay = !!w.audio;
+      return `<button ${canPlay ? `data-word-audio="${this.esc(w.audio)}"` : ''} class="inline-flex flex-col items-center px-1.5 py-1 rounded-lg ${canPlay ? 'hover:bg-blue-50 dark:hover:bg-gray-700 cursor-pointer' : ''} ${hit ? 'ring-2 ring-amber-400 bg-amber-50 dark:bg-amber-500/10' : ''}"><span class="ayah-arabic text-2xl block">${w.arabic}</span><span class="text-[11px] text-gray-500 dark:text-gray-400 block" dir="auto">${w.meaning || ''}</span></button>`;
+    }).join('');
+    const pad = n => String(n).padStart(3, '0');
+    return `
+      <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-3">
+        <div class="text-xs text-gray-400 mb-1 text-center">${this.esc(v.surahName || '')} ${v.key}</div>
+        <div class="ayah-arabic !text-2xl !leading-loose text-center mb-2" dir="rtl">${v.arabic}</div>
+        <div class="flex flex-wrap justify-center gap-x-1 mb-2" dir="rtl">${wbw}</div>
+        <p class="text-center text-sm text-gray-600 dark:text-gray-300 mb-2" dir="auto">${v.translation || ''}</p>
+        <div class="flex justify-center">
+          <button data-ayah-audio="https://everyayah.com/data/Alafasy_128kbps/${pad(s)}${pad(a)}.mp3" class="text-xs px-3 py-1.5 rounded-lg bg-primary text-white hover:bg-primary/80">🔊 ${this.tt('play_full_ayah')}</button>
+        </div>
+      </div>`;
+  }
+
+  /** Fill every open inline slot — cached verses render instantly, the rest fetch. */
+  fillInlineSlots() {
     const word = this.openVerseWord;
-    const token = ++this._inlineToken;
-    try {
+    this.container.querySelectorAll('[data-inline-slot]').forEach(slot => {
+      const ref = slot.getAttribute('data-inline-slot');
       const [s, a] = ref.split(':').map(Number);
-      const v = (await QuranData.fetchRange(s, a, a, this.language))[0];
-      if (token !== this._inlineToken) return;
-      const slot = this.container.querySelector('#wr-inline');
-      if (!slot || !v) return;
-      const norm = x => QuranData.normalizeWord ? QuranData.normalizeWord(x || '') : String(x || '');
-      const target = word ? norm(word) : null;
-      const wbw = (v.words || []).map(w => {
-        const hit = target && (norm(w.arabic) === target || (w.arabic || '').indexOf(word) >= 0);
-        const canPlay = !!w.audio;
-        return `<button ${canPlay ? `data-word-audio="${this.esc(w.audio)}"` : ''} class="inline-flex flex-col items-center px-1.5 py-1 rounded-lg ${canPlay ? 'hover:bg-blue-50 dark:hover:bg-gray-700 cursor-pointer' : ''} ${hit ? 'ring-2 ring-amber-400 bg-amber-50 dark:bg-amber-500/10' : ''}"><span class="ayah-arabic text-2xl block">${w.arabic}</span><span class="text-[11px] text-gray-500 dark:text-gray-400 block" dir="auto">${w.meaning || ''}</span></button>`;
-      }).join('');
-      const pad = n => String(n).padStart(3, '0');
-      slot.innerHTML = `
-        <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-3">
-          <div class="text-xs text-gray-400 mb-1 text-center">${this.esc(v.surahName || '')} ${v.key}</div>
-          <div class="ayah-arabic !text-2xl !leading-loose text-center mb-2" dir="rtl">${v.arabic}</div>
-          <div class="flex flex-wrap justify-center gap-x-1 mb-2" dir="rtl">${wbw}</div>
-          <p class="text-center text-sm text-gray-600 dark:text-gray-300 mb-2" dir="auto">${v.translation || ''}</p>
-          <div class="flex justify-center">
-            <button data-ayah-audio="https://everyayah.com/data/Alafasy_128kbps/${pad(s)}${pad(a)}.mp3" class="text-xs px-3 py-1.5 rounded-lg bg-primary text-white hover:bg-primary/80">🔊 ${this.tt('play_full_ayah')}</button>
-          </div>
-        </div>`;
-    } catch (e) {
-      const slot = this.container.querySelector('#wr-inline');
-      if (slot) slot.innerHTML = `<p class="text-center text-gray-400 py-3 text-sm">${this.tt('topics_load_error')}</p>`;
-    }
+      const cacheKey = `${ref}:${this.language}`;
+      const cached = this._verseCache[cacheKey];
+      if (cached) { slot.innerHTML = this.inlineVerseHtml(cached, word, s, a); return; }
+      QuranData.fetchRange(s, a, a, this.language).then(verses => {
+        const v = verses && verses[0];
+        if (!v) throw new Error('nf');
+        this._verseCache[cacheKey] = v;
+        // Re-query: the container may have re-rendered while fetching
+        const cur = this.container.querySelector(`[data-inline-slot="${ref}"]`);
+        if (cur) cur.innerHTML = this.inlineVerseHtml(v, word, s, a);
+      }).catch(() => {
+        const cur = this.container.querySelector(`[data-inline-slot="${ref}"]`);
+        if (cur) cur.innerHTML = `<p class="text-center text-gray-400 py-3 text-sm">${this.tt('topics_load_error')}</p>`;
+      });
+    });
   }
 
   renderResults() {
@@ -283,30 +303,56 @@ class WordRepeat {
     if (this.type === 'exact') this.ensureMeta();
   }
 
+  /** All Quran-wide "s:a" refs for a term (exact via word-index, root via roots). */
+  quranRefs(term) {
+    const occs = this.type === 'root' ? (this.roots[term] || []) : ((this.wordIndex && this.wordIndex[term]) || []);
+    return [...new Set(occs.map(o => o.split(':').slice(0, 2).join(':')))].sort(this.refCmp);
+  }
+
+  verseChip(r, term) {
+    const on = this.openVerses.has(r);
+    return `<button data-verse="${r}" data-term-word="${this.esc(term)}" class="text-xs font-mono px-2 py-1 rounded-md ${on ? 'bg-primary text-white' : 'bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 hover:bg-primary hover:text-white'}">${r}</button>`;
+  }
+
   termChip(x) {
     const open = this.openTerm === x.term;
     const meaning = this.type === 'exact' ? this.meaningOf(x.term) : '';
+    const qOpen = this.qOpen.has(x.term);
+    let body = '';
+    if (open) {
+      const qRefs = qOpen ? this.quranRefs(x.term) : [];
+      const qShown = qRefs.slice(0, 60);
+      // Inline slots for every open verse in this card (surah refs + expanded Quran refs)
+      const visible = [...new Set([...x.refs, ...qShown])].filter(r => this.openVerses.has(r));
+      body = `
+        <div class="mx-2 mb-2 p-2 rounded-lg bg-gray-50 dark:bg-gray-900/40">
+          <div class="flex flex-wrap gap-1.5 justify-center">
+            ${x.refs.map(r => this.verseChip(r, x.term)).join('')}
+          </div>
+          ${qOpen ? `
+            <div class="mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
+              <div class="text-[10px] text-gray-400 mb-1 text-center">${this.tt('wr_in_quran')} (${qRefs.length})</div>
+              <div class="flex flex-wrap gap-1.5 justify-center">
+                ${qShown.map(r => this.verseChip(r, x.term)).join('')}
+                ${qRefs.length > qShown.length ? `<span class="text-xs text-gray-400 self-center">+${qRefs.length - qShown.length}</span>` : ''}
+              </div>
+            </div>` : ''}
+          ${visible.map(r => `<div class="wr-inline mt-3" data-inline-slot="${r}">${this.inlineVerseLoading()}</div>`).join('')}
+        </div>`;
+    }
     return `
-      <div class="${open ? 'col-span-2 sm:col-span-3 lg:col-span-4' : ''} rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
+      <div class="${open ? 'col-span-2 sm:col-span-3 lg:col-span-4 xl:col-span-6 2xl:col-span-8' : ''} rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
         <button data-term="${this.esc(x.term)}" data-first-ref="${x.firstRef}" class="w-full flex flex-col items-center gap-1 px-2 py-3 hover:bg-gray-50 dark:hover:bg-gray-700/40 rounded-xl transition-colors">
           <span class="ayah-arabic text-2xl" dir="rtl">${this.esc(x.term)}</span>
           ${meaning ? `<span class="text-[11px] text-gray-600 dark:text-gray-300 text-center leading-tight" dir="auto">${this.esc(meaning)}</span>` : ''}
-          <span class="flex flex-wrap items-center justify-center gap-1 mt-0.5">
-            <span class="text-[10px] px-1.5 py-0.5 rounded-full bg-secondary/10 text-secondary dark:text-emerald-300" title="${this.tt('wr_in_surah')}">${this.tt('wr_surah_short')} ×${x.count}</span>
-            ${x.quran != null ? `<span class="text-[10px] px-1.5 py-0.5 rounded-full bg-primary/10 text-primary dark:text-blue-300" title="${this.tt('wr_in_quran')}">${this.tt('wr_quran_short')} ×${x.quran}</span>` : ''}
-          </span>
         </button>
-        ${x.refs.length ? `<div class="px-2 pb-1 flex items-center justify-center gap-2">
-          <button data-occ="${this.esc(x.term)}" class="text-[10px] text-gray-400 hover:text-primary">${open ? '▾' : '▸'} ${x.refs.length} ${this.tt('topics_verses_label')}</button>
-          ${this.type === 'root' && this.sarfRoots && this.sarfRoots.has(x.term) ? `<button data-sarf-link="${this.esc(x.term)}" title="${this.tt('sarf_title')}" class="text-[10px] px-1.5 py-0.5 rounded-full bg-fuchsia-500/10 text-fuchsia-600 dark:text-fuchsia-300 hover:bg-fuchsia-500 hover:text-white">🧬 ${this.tt('sarf_title')}</button>` : ''}
-        </div>` : ''}
-        ${open ? `
-          <div class="mx-2 mb-2 p-2 rounded-lg bg-gray-50 dark:bg-gray-900/40">
-            <div class="flex flex-wrap gap-1.5 justify-center">
-              ${x.refs.map(r => `<button data-verse="${r}" data-term-word="${this.esc(x.term)}" class="text-xs font-mono px-2 py-1 rounded-md ${this.openVerse === r ? 'bg-primary text-white' : 'bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 hover:bg-primary hover:text-white'}">${r}</button>`).join('')}
-            </div>
-            ${this.openVerse && x.refs.includes(this.openVerse) ? `<div id="wr-inline" class="mt-3">${this.inlineVerseLoading()}</div>` : ''}
-          </div>` : ''}
+        <div class="px-2 pb-1 flex flex-wrap items-center justify-center gap-1">
+          <span class="text-[10px] px-1.5 py-0.5 rounded-full bg-secondary/10 text-secondary dark:text-emerald-300" title="${this.tt('wr_in_surah')}">${this.tt('wr_surah_short')} ×${x.count}</span>
+          ${x.quran != null ? `<button data-qocc="${this.esc(x.term)}" title="${this.tt('wr_in_quran')}" class="text-[10px] px-1.5 py-0.5 rounded-full ${qOpen ? 'bg-primary text-white' : 'bg-primary/10 text-primary dark:text-blue-300 hover:bg-primary hover:text-white'}">${qOpen ? '▾' : '▸'} ${this.tt('wr_quran_short')} ×${x.quran}</button>` : ''}
+          ${x.refs.length ? `<button data-occ="${this.esc(x.term)}" class="text-[10px] px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-300 hover:text-primary">${open ? '▾' : '▸'} ${x.refs.length} ${this.tt('topics_verses_label')}</button>` : ''}
+          ${this.type === 'root' && this.sarfRoots && this.sarfRoots.has(x.term) ? `<button data-sarf-link="${this.esc(x.term)}" title="${this.tt('sarf_title')}" class="text-[10px] px-1.5 py-0.5 rounded-full bg-fuchsia-500/10 text-fuchsia-600 dark:text-fuchsia-300 hover:bg-fuchsia-500 hover:text-white">🧬</button>` : ''}
+        </div>
+        ${body}
       </div>`;
   }
 
