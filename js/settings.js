@@ -151,7 +151,12 @@ class Settings {
    */
   applyFontSize() {
     const scale = this.settings.fontSize / 100;
-    document.documentElement.style.setProperty('--font-scale', scale);
+    // Scale the ROOT font size: every Tailwind class is rem-based, so this
+    // resizes the ENTIRE app (all modules), not just the few elements that used
+    // the old --font-scale variable. That variable is pinned to 1 so the
+    // remaining calc() rules in style.css don't double-scale.
+    document.documentElement.style.fontSize = (scale * 100) + '%';
+    document.documentElement.style.setProperty('--font-scale', 1);
 
     // Update display if exists
     const display = document.getElementById('font-size-display');
@@ -198,7 +203,7 @@ class Settings {
 
     if (fontIncrease) {
       fontIncrease.addEventListener('click', () => {
-        const newSize = Math.min(150, this.settings.fontSize + 10);
+        const newSize = Math.min(200, this.settings.fontSize + 10);
         this.set('fontSize', newSize);
       });
     }
