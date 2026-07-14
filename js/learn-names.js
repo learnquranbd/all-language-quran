@@ -436,7 +436,7 @@ class NamesOfAllah {
     );
 
     return `
-      <div class="max-w-2xl mx-auto space-y-6">
+      <div class="w-full space-y-6">
         <div class="flex items-center justify-between text-sm text-gray-500 dark:text-gray-400">
           <span>${t('vocab_question_of', lang)
             .replace('{current}', this.quiz.round + 1)
@@ -503,7 +503,7 @@ class NamesOfAllah {
     const lang = this.language;
     const best = this.getBestScore();
     return `
-      <div class="max-w-2xl mx-auto bg-white dark:bg-gray-800 rounded-2xl shadow-lg border border-gray-200 dark:border-gray-700 p-10 text-center space-y-4">
+      <div class="w-full bg-white dark:bg-gray-800 rounded-2xl shadow-lg border border-gray-200 dark:border-gray-700 p-10 text-center space-y-4">
         <div class="text-5xl">${this.quiz.score >= 7 ? '🏆' : '📿'}</div>
         <h3 class="text-xl font-bold">${t('vocab_quiz_complete', lang)}</h3>
         <p class="text-3xl font-bold text-primary dark:text-blue-400">

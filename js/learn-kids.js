@@ -897,7 +897,7 @@ class KidsQaida {
       { mode: 'letterhunt', emoji: '🔍', grad: 'from-amber-100 to-orange-200 dark:from-amber-900/40 dark:to-orange-900/40', title: t('quiz_letter_hunt', lang),  desc: t('quiz_letter_hunt_desc', lang) }
     ];
     return `
-      <div class="max-w-3xl mx-auto grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <div class="w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         ${games.map(g => {
           const best = this.getBestScore(g.mode);
           return `
@@ -973,7 +973,7 @@ class KidsQaida {
     };
 
     return `
-      <div class="max-w-2xl mx-auto space-y-5">
+      <div class="w-full space-y-5">
         <div class="flex items-center justify-between text-base font-bold text-gray-600 dark:text-gray-300">
           <span>🎯 ${t('quiz_round', lang)} ${q.round} / ${q.total}</span>
           <span>⭐ ${t('quiz_score', lang)}: ${q.score}</span>
@@ -1008,7 +1008,7 @@ class KidsQaida {
     const best = this.getBestScore(q.mode);
 
     return `
-      <div class="max-w-xl mx-auto rounded-2xl bg-gradient-to-br from-amber-100 to-orange-200
+      <div class="w-full rounded-2xl bg-gradient-to-br from-amber-100 to-orange-200
                   dark:from-amber-900/40 dark:to-orange-900/40 shadow p-8 text-center space-y-4">
         <div class="text-2xl font-extrabold text-gray-800 dark:text-gray-100">🎉 ${t('quiz_done', lang)}</div>
         <div class="text-5xl tracking-widest">

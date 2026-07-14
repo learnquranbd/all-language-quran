@@ -71,7 +71,7 @@ class PonderCard {
     if (dismissed) return '';
     const email = 'shahinbdboy@gmail.com';
     return `
-      <div id="dev-notice" class="max-w-3xl mx-auto mt-4 rounded-2xl border border-amber-300 dark:border-amber-500/40 bg-amber-50 dark:bg-amber-500/10 px-5 py-4 relative">
+      <div id="dev-notice" class="w-full mt-4 rounded-2xl border border-amber-300 dark:border-amber-500/40 bg-amber-50 dark:bg-amber-500/10 px-5 py-4 relative">
         <button data-dismiss-dev class="absolute top-2 right-2 p-1.5 rounded-lg text-amber-700/70 dark:text-amber-300/70 hover:bg-amber-100 dark:hover:bg-amber-500/20" aria-label="${t('close', lang)}">✕</button>
         <div class="flex items-start gap-3 pr-6">
           <span class="text-2xl">🚧</span>
@@ -98,7 +98,7 @@ class PonderCard {
       { tab: 'audio',      emoji: '🎧', label: 'audio',             grad: 'from-cyan-400 to-sky-600' }
     ];
     return `
-      <div class="max-w-3xl mx-auto mt-6">
+      <div class="w-full mt-6">
         <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-3 text-center">${t('quick_links', lang)}</h3>
         <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
           ${QUICK.map(q => `
@@ -128,7 +128,7 @@ class PonderCard {
 
     this.container.innerHTML = `
       ${this.devBannerHtml(lang)}
-      <div id="ponder-card" class="max-w-3xl mx-auto mt-6 rounded-2xl overflow-hidden shadow-lg
+      <div id="ponder-card" class="w-full mt-6 rounded-2xl overflow-hidden shadow-lg
                                    bg-gradient-to-br from-indigo-50 via-white to-emerald-50
                                    dark:from-gray-800 dark:via-gray-800 dark:to-gray-800
                                    border border-indigo-100 dark:border-gray-700">
@@ -160,7 +160,7 @@ class PonderCard {
         <div class="ayah-arabic !text-3xl !leading-loose mb-3" dir="rtl">${arabic}</div>
         <p class="text-gray-700 dark:text-gray-300 leading-relaxed mb-2" dir="auto">${translation}</p>
         <p class="text-sm text-gray-400 mb-5">— ${name} ${ref}</p>
-        <div class="text-start max-w-xl mx-auto space-y-2 mb-6">
+        <div class="text-start max-w-3xl mx-auto space-y-2 mb-6">
           <p class="flex gap-2 text-sm text-gray-600 dark:text-gray-300"><span>💭</span><span>${p1}</span></p>
           <p class="flex gap-2 text-sm text-gray-600 dark:text-gray-300"><span>💭</span><span>${p2}</span></p>
         </div>

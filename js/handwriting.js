@@ -49,7 +49,7 @@ class Handwriting {
     this.reveal = false;
 
     this.root.innerHTML = `
-      <div class="max-w-2xl mx-auto">
+      <div class="w-full">
         <div class="text-center mb-4">
           <div class="text-4xl mb-1">✍️</div>
           <h2 class="text-xl font-bold">${t('hw_title', lang)}</h2>

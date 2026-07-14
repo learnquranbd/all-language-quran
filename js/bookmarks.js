@@ -275,7 +275,7 @@ class Bookmarks {
 
     return `
       <div id="bookmarks-strip"
-           class="max-w-3xl mx-auto mt-6 mb-2 rounded-2xl bg-white dark:bg-gray-800 shadow px-4 py-4
+           class="w-full mt-6 mb-2 rounded-2xl bg-white dark:bg-gray-800 shadow px-4 py-4
                   border border-gray-100 dark:border-gray-700">
         ${inner}
       </div>`;
