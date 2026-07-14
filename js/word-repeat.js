@@ -114,10 +114,14 @@ class WordRepeat {
       const verse = e.target.closest('[data-verse]');
       if (verse) {
         const ref = verse.getAttribute('data-verse');
-        if (this.openVerses.has(ref)) this.openVerses.delete(ref);
-        else this.openVerses.add(ref);
+        const opening = !this.openVerses.has(ref);
+        if (opening) this.openVerses.add(ref); else this.openVerses.delete(ref);
         this.openVerseWord = verse.getAttribute('data-term-word') || this.openVerseWord;
         this.renderResults(); this.fillInlineSlots();
+        if (opening) {
+          const slot = this.container.querySelector(`[data-inline-slot="${ref}"]`);
+          if (slot) slot.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+        }
         return;
       }
     });
@@ -327,14 +331,15 @@ class WordRepeat {
       : `<button data-verse="${r}" data-term-word="${this.esc(term)}" class="text-xs font-mono px-2 py-1 rounded-md bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 hover:bg-primary hover:text-white">${r}</button>`;
   }
 
-  /** One timeline row: node on the spine + ref chip; its verse expands attached below. */
-  timelineItem(r, term) {
+  /** One row in the vertical ayah rail: node dot + full-width ref chip. */
+  railItem(r, term) {
     const c = this.openVerses.has(r) ? this.pairColor(r) : null;
     return `
-      <div class="relative ps-5 pb-2.5">
-        <span class="absolute -start-[7px] top-1 w-3 h-3 rounded-full ${c ? '' : 'bg-gray-300 dark:bg-gray-600'}" ${c ? `style="background:${c};box-shadow:0 0 0 3px ${c}33"` : ''}></span>
-        ${this.verseChip(r, term)}
-        ${c ? `<div class="wr-inline mt-2" data-inline-slot="${r}" data-color="${c}">${this.inlineVerseLoading()}</div>` : ''}
+      <div class="relative ps-4">
+        <span class="absolute -start-[5px] top-2 w-2.5 h-2.5 rounded-full ${c ? '' : 'bg-gray-300 dark:bg-gray-600'}" ${c ? `style="background:${c};box-shadow:0 0 0 3px ${c}33"` : ''}></span>
+        <button data-verse="${r}" data-term-word="${this.esc(term)}"
+                class="w-full text-center text-xs font-mono px-2 py-1.5 rounded-md ${c ? 'text-white font-bold shadow' : 'bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 hover:bg-primary hover:text-white'}"
+                ${c ? `style="background:${c}"` : ''}>${r}</button>
       </div>`;
   }
 
@@ -345,19 +350,27 @@ class WordRepeat {
     let body = '';
     if (open) {
       const qRefs = qOpen ? this.quranRefs(x.term).filter(r => !x.refs.includes(r)) : [];
-      const qShown = qRefs.slice(0, 60);
-      // Timeline: surah occurrences first, then (if expanded) the Quran-wide ones.
+      const qShown = qRefs.slice(0, 200);
+      // Which open verses belong to this card, in the order they were opened
+      const shownRefs = new Set([...x.refs, ...qShown]);
+      const openHere = [...this.openVerses].filter(r => shownRefs.has(r));
+      // Master–detail: vertical ayah rail (own scroll) | verse blocks (own scroll),
+      // linked by number + accent colour.
       body = `
-        <div class="mx-3 mb-3 p-3 rounded-lg bg-gray-50 dark:bg-gray-900/40 max-h-[75vh] overflow-y-auto">
-          <div class="relative ms-2 border-s-2 border-gray-200 dark:border-gray-700 pt-1">
-            ${x.refs.map(r => this.timelineItem(r, x.term)).join('')}
-            ${qOpen ? `
-              <div class="relative ps-5 pb-2.5">
-                <span class="absolute -start-[5px] top-1.5 text-[9px] text-gray-400">●</span>
-                <span class="text-[10px] uppercase tracking-wide text-gray-400">${this.tt('wr_in_quran')} (${qRefs.length})</span>
-              </div>
-              ${qShown.map(r => this.timelineItem(r, x.term)).join('')}
-              ${qRefs.length > qShown.length ? `<div class="ps-5 text-xs text-gray-400">+${qRefs.length - qShown.length}</div>` : ''}` : ''}
+        <div class="mx-3 mb-3 rounded-lg bg-gray-50 dark:bg-gray-900/40 p-3">
+          <div class="flex gap-3 items-start">
+            <div class="w-20 sm:w-24 shrink-0 max-h-[70vh] overflow-y-auto pe-1 space-y-1.5 relative border-s-2 border-gray-200 dark:border-gray-700">
+              ${x.refs.map(r => this.railItem(r, x.term)).join('')}
+              ${qOpen ? `
+                <div class="ps-4 pt-1 text-[9px] uppercase tracking-wide text-gray-400">${this.tt('wr_in_quran')} (${qRefs.length})</div>
+                ${qShown.map(r => this.railItem(r, x.term)).join('')}
+                ${qRefs.length > qShown.length ? `<div class="ps-4 text-xs text-gray-400">+${qRefs.length - qShown.length}</div>` : ''}` : ''}
+            </div>
+            <div class="flex-1 min-w-0 max-h-[70vh] overflow-y-auto space-y-3">
+              ${openHere.length
+                ? openHere.map(r => `<div class="wr-inline" data-inline-slot="${r}" data-color="${this.pairColor(r)}">${this.inlineVerseLoading()}</div>`).join('')
+                : `<p class="text-center text-sm text-gray-400 py-8">${this.tt('wr_tap_hint')}</p>`}
+            </div>
           </div>
         </div>`;
     }
