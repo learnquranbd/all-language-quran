@@ -17,12 +17,12 @@ const APP_NAV_PRIMARY = [
   { id: 'wordrepeat', emoji: '🔁', label: 'wr_title', tab: 'wordrepeat' },
   { id: 'sarf', emoji: '🧬', label: 'sarf_title', tab: 'sarf' },
   { id: 'amal', emoji: '📿', label: 'amal_title', tab: 'amal' },
-  { id: 'tajweedlearn', emoji: '🎨', label: 'tj_learn_title', tab: 'tajweedlearn' },
   { id: 'learn', emoji: '🎓', label: 'learn', children: [
       { module: 'kids',        emoji: '🧒', label: 'learn_kids_title' },
       { module: 'vocab',       emoji: '📚', label: 'learn_vocab_title' },
       { module: 'names',       emoji: '✨', label: 'learn_names_title' },
-      { module: 'handwriting', emoji: '✍️', label: 'hw_title' }
+      { module: 'handwriting', emoji: '✍️', label: 'hw_title' },
+      { tab: 'tajweedlearn', emoji: '🎨', label: 'tj_learn_title' }
     ] },
   { id: 'memorize', emoji: '🎙️', label: 'memorize', modes: [
       { mode: 'speech', emoji: '🎙️', label: 'mem_mode_speech' },
@@ -113,7 +113,7 @@ class AppNav {
     if (this.legacyWrap) this.legacyWrap.classList.add('hidden');
     this.root.classList.remove('hidden');
     const items = primary.children
-      ? primary.children.map(c => ({ key: c.module, kind: 'module', emoji: c.emoji, label: c.label }))
+      ? primary.children.map(c => ({ key: c.module || c.tab, kind: c.tab ? 'tab' : 'module', emoji: c.emoji, label: c.label }))
       : primary.modes.map(m => ({ key: m.mode, kind: 'mode', emoji: m.emoji, label: m.label }));
     this.root.innerHTML = `
       <button data-nav-back class="w-full flex items-center gap-2 px-3 py-2 mb-2 rounded-lg text-sm font-semibold text-gray-200 hover:bg-white/10 hover:text-white">
@@ -135,7 +135,9 @@ class AppNav {
     this.root.querySelectorAll('[data-child]').forEach(btn => {
       btn.addEventListener('click', () => {
         const key = btn.getAttribute('data-child');
-        if (btn.getAttribute('data-kind') === 'mode') this.openMemMode(key);
+        const kind = btn.getAttribute('data-kind');
+        if (kind === 'mode') this.openMemMode(key);
+        else if (kind === 'tab') { this.switchTab(key); this.closeSidebarMobile(); }
         else this.openLearnModule(key);
       });
     });
