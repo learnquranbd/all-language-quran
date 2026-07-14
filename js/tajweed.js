@@ -82,15 +82,17 @@ const TajweedData = {
   legendHtml(lang) {
     return `
       <div class="flex flex-wrap gap-x-4 gap-y-1.5 justify-end">
-        ${Object.entries(TAJWEED_RULES).map(([key, rule]) => `
-          <span class="relative group inline-flex items-center gap-1.5 text-xs text-gray-600 dark:text-gray-300 cursor-help">
-            <span class="inline-block w-3 h-3 rounded-full" style="background:${rule.color}"></span>${rule.label}
+        ${Object.entries(TAJWEED_RULES).map(([key, rule]) => {
+          const name = (typeof TAJWEED_LESSONS !== 'undefined' && TAJWEED_LESSONS[key] && TAJWEED_LESSONS[key].names && TAJWEED_LESSONS[key].names[lang]) || rule.label;
+          return `
+          <span class="relative group inline-flex items-center gap-1.5 text-xs text-gray-600 dark:text-gray-300 cursor-help" dir="auto">
+            <span class="inline-block w-3 h-3 rounded-full" style="background:${rule.color}"></span>${name}
             <span class="hidden group-hover:block absolute bottom-full right-0 mb-1.5 w-60 p-2.5 rounded-lg
                          bg-gray-900 text-white text-xs leading-relaxed shadow-xl z-30 pointer-events-none" dir="auto">
-              <span class="font-semibold" style="color:${rule.color === '#AAAAAA' ? '#ddd' : rule.color}">${rule.label}</span><br>
+              <span class="font-semibold" style="color:${rule.color === '#AAAAAA' ? '#ddd' : rule.color}">${name}</span><br>
               ${t('tjd_' + key, lang)}
             </span>
-          </span>`).join('')}
+          </span>`; }).join('')}
       </div>
     `;
   }
@@ -115,7 +117,7 @@ const TajweedGuide = {
       this.el = document.createElement('div');
       this.el.id = 'tajweed-guide';
       // max-lg:!hidden keeps it off small screens (it would overlay the reading column)
-      this.el.className = 'fixed right-0 top-28 z-30 flex items-start max-lg:!hidden';
+      this.el.className = 'fixed left-0 lg:left-64 top-28 z-30 flex items-start max-lg:!hidden';
       document.body.appendChild(this.el);
 
       this.el.addEventListener('click', (e) => {
@@ -149,28 +151,30 @@ const TajweedGuide = {
     if (this.collapsed) {
       this.el.innerHTML = `
         <button id="tjg-collapse" title="${t('tajweed_label', lang)}"
-                class="px-2 py-3 rounded-l-xl bg-white dark:bg-gray-800 shadow-xl border border-r-0 border-gray-200 dark:border-gray-700
-                       text-lg hover:pr-3 transition-all">🎨</button>`;
+                class="px-2 py-3 rounded-r-xl bg-white dark:bg-gray-800 shadow-xl border border-l-0 border-gray-200 dark:border-gray-700
+                       text-lg hover:pl-3 transition-all">🎨</button>`;
       return;
     }
 
     this.el.innerHTML = `
-      <div class="w-56 max-w-[70vw] rounded-l-xl bg-white dark:bg-gray-800 shadow-2xl border border-r-0 border-gray-200 dark:border-gray-700 overflow-hidden">
+      <div class="w-56 max-w-[70vw] rounded-r-xl bg-white dark:bg-gray-800 shadow-2xl border border-l-0 border-gray-200 dark:border-gray-700 overflow-hidden">
         <div class="flex items-center gap-2 px-3 py-2 border-b border-gray-200 dark:border-gray-700">
           <span class="text-sm font-semibold flex-1">🎨 ${t('tajweed_label', lang)}</span>
-          <button id="tjg-collapse" class="p-1 rounded hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-500" title="${t('hide_all', lang)}">→</button>
+          <button id="tjg-collapse" class="p-1 rounded hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-500" title="${t('hide_all', lang)}">←</button>
         </div>
         <div class="max-h-[62vh] overflow-y-auto px-2 py-2 space-y-0.5">
-          ${Object.entries(TAJWEED_RULES).map(([key, rule]) => `
+          ${Object.entries(TAJWEED_RULES).map(([key, rule]) => {
+            const name = (typeof TAJWEED_LESSONS !== 'undefined' && TAJWEED_LESSONS[key] && TAJWEED_LESSONS[key].names && TAJWEED_LESSONS[key].names[lang]) || rule.label;
+            return `
             <div class="relative group flex items-center gap-2 px-2 py-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/60 cursor-help">
               <span class="inline-block w-3 h-3 rounded-full shrink-0" style="background:${rule.color}"></span>
-              <span class="text-xs text-gray-700 dark:text-gray-200 leading-tight">${rule.label}</span>
-              <span class="hidden group-hover:block absolute right-full top-1/2 -translate-y-1/2 mr-2 w-64 p-2.5 rounded-lg
+              <span class="text-xs text-gray-700 dark:text-gray-200 leading-tight" dir="auto">${name}</span>
+              <span class="hidden group-hover:block absolute left-full top-1/2 -translate-y-1/2 ml-2 w-64 p-2.5 rounded-lg
                            bg-gray-900 text-white text-xs leading-relaxed shadow-xl z-40 pointer-events-none" dir="auto">
-                <span class="font-semibold" style="color:${rule.color === '#AAAAAA' ? '#ddd' : rule.color}">${rule.label}</span><br>
+                <span class="font-semibold" style="color:${rule.color === '#AAAAAA' ? '#ddd' : rule.color}">${name}</span><br>
                 ${t('tjd_' + key, lang)}
               </span>
-            </div>`).join('')}
+            </div>`; }).join('')}
         </div>
       </div>
     `;
