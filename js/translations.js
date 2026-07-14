@@ -5,6 +5,9 @@
 
 const TRANSLATIONS = {
   en: {
+    vocab_words_label: 'words',
+    vocab_hide_meanings: 'Hide meanings',
+    vocab_show_meanings: 'Show meanings',
     kids_num_note: 'Every number here appears in the Quran — tap the verse chip to see it in place.',
     kids_num_basic: 'Numbers 1–10',
     kids_num_teens: '11–19',
@@ -537,6 +540,9 @@ const TRANSLATIONS = {
   },
 
   bn: {
+    vocab_words_label: 'শব্দ',
+    vocab_hide_meanings: 'অর্থ লুকান',
+    vocab_show_meanings: 'অর্থ দেখান',
     kids_num_note: 'এখানে প্রতিটি সংখ্যা কুরআনে এসেছে — আয়াত চিপে চাপ দিয়ে জায়গামতো দেখো।',
     kids_num_basic: 'সংখ্যা ১–১০',
     kids_num_teens: '১১–১৯',

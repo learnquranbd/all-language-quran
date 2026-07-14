@@ -85,6 +85,10 @@ class VocabTrainer {
 
   // ---------- helpers ----------
 
+  escapeHtml(str) {
+    return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
   meaningOf(word) {
     return word.meanings[this.language] || word.meanings.en;
   }
@@ -148,6 +152,28 @@ class VocabTrainer {
     const vo = e.target.closest('[data-vocab-occ]');
     if (vo) { e.stopPropagation(); this.loadOccurrences(); return; }
 
+    // Grid view actions
+    const vknow = e.target.closest('[data-vknow]');
+    if (vknow) {
+      const w = vknow.getAttribute('data-vknow');
+      const known = this.getKnown();
+      this.saveKnown(known.includes(w) ? known.filter(x => x !== w) : known.concat(w));
+      this.render();
+      return;
+    }
+    const vcard = e.target.closest('[data-vcard]');
+    if (vcard) {
+      // Meanings hidden → tap reveals this card; always speak the word
+      if (!this.showMeanings()) {
+        this.revealed = this.revealed || new Set();
+        const key = vcard.getAttribute('data-vcard');
+        this.revealed.has(key) ? this.revealed.delete(key) : this.revealed.add(key);
+        this.render();
+      }
+      this.speak(vcard.getAttribute('data-text') || '');
+      return;
+    }
+
     const el = e.target.closest('[data-action]');
     if (!el || !this.root.contains(el)) return;
 
@@ -174,6 +200,15 @@ class VocabTrainer {
         break;
       case 'play-again':
         this.startQuiz();
+        this.render();
+        break;
+      case 'vmeanings':
+        try { localStorage.setItem('vocabShowMeanings', this.showMeanings() ? '0' : '1'); } catch (err) {}
+        this.revealed = new Set();
+        this.render();
+        break;
+      case 'vmore':
+        this.page = (this.page || 0) + 1;
         this.render();
         break;
       case 'reset':
@@ -247,7 +282,116 @@ class VocabTrainer {
     this.flipped = false;
   }
 
+  /* ---------- expanded corpus deck (beyond the curated 50) ---------- */
+
+  /** Top frequent Quran words from the bundled index, excluding the curated 50. */
+  async ensureExtra() {
+    if (this.extra || this._extraLoading) return;
+    this._extraLoading = true;
+    try {
+      const [idx, words] = await Promise.all([QuranData.getWordIndex(), QuranData.getQuranWords()]);
+      const curated = new Set(VOCAB_WORDS.map(w => QuranData.normalizeWord(w.arabic)));
+      this.extra = Object.entries(idx)
+        .map(([norm, occs]) => ({ norm, count: occs.length, first: occs[0] }))
+        .filter(e => !curated.has(e.norm) && e.count >= 40)
+        .sort((a, b) => b.count - a.count)
+        .slice(0, 250)
+        .map(e => {
+          const [s, a, w] = e.first.split(':').map(Number);
+          const display = (words[`${s}:${a}`] || [])[w - 1] || e.norm;
+          return { arabic: display, norm: e.norm, count: e.count, ref: `${s}:${a}`, pos: w, dyn: true };
+        });
+      if (this.mode === 'flashcards') this.render();
+    } catch (e) { this.extra = []; }
+  }
+
+  deckAll() {
+    const known = new Set(this.getKnown());
+    const list = VOCAB_WORDS.map(w => ({ ...w, key: w.arabic }))
+      .concat(this.extra || []);
+    return list.map(w => ({ ...w, key: w.key || w.arabic, known: known.has(w.arabic) }));
+  }
+
+  showMeanings() {
+    try { return localStorage.getItem('vocabShowMeanings') !== '0'; } catch (e) { return true; }
+  }
+
+  /** Lazily fetch meanings (UI language) for dynamic words on the visible page. */
+  prefetchDyn(items) {
+    const lang = this.language;
+    items.filter(w => w.dyn && this._dynMeaning(`${w.norm}:${lang}`) == null).slice(0, 30).forEach(w => {
+      const key = `${w.norm}:${lang}`;
+      this._dyn = this._dyn || {};
+      if (this._dyn[key] !== undefined) return;
+      this._dyn[key] = '';   // in flight
+      const [s, a] = w.ref.split(':').map(Number);
+      QuranData.fetchRange(s, a, a, lang).then(vs => {
+        const v = vs && vs[0];
+        const m = v && (v.words || []).find(x => x.position === w.pos);
+        this._dyn[key] = (m && m.meaning) || '—';
+        const el = this.root.querySelector(`[data-vmean="${CSS.escape(key)}"]`);
+        if (el) el.textContent = this._dyn[key];
+      }).catch(() => { this._dyn[key] = '—'; });
+    });
+  }
+  _dynMeaning(key) { return (this._dyn || {})[key]; }
+
+  cardMeaning(w) {
+    if (!w.dyn) return this.meaningOf(w);
+    const m = this._dynMeaning(`${w.norm}:${this.language}`);
+    return m || '…';
+  }
+
   renderFlashcards() {
+    const lang = this.language;
+    this.ensureExtra();
+    const all = this.deckAll();
+    const pageSize = 24;
+    const shownCount = Math.min(((this.page || 0) + 1) * pageSize, all.length);
+    const items = all.slice(0, shownCount);
+    const show = this.showMeanings();
+    const knownCount = all.filter(w => w.known).length;
+    setTimeout(() => this.prefetchDyn(items), 0);
+
+    return `
+      <div class="flex flex-wrap items-center justify-center gap-3 text-sm text-gray-500 dark:text-gray-400">
+        <span><b class="text-gray-800 dark:text-gray-100">${all.length}</b> ${t('vocab_words_label', lang)}</span>
+        <span>✓ <b class="text-green-600">${knownCount}</b></span>
+        <button data-action="vmeanings" class="px-3 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 text-xs">
+          ${show ? '🙈 ' + t('vocab_hide_meanings', lang) : '👁 ' + t('vocab_show_meanings', lang)}
+        </button>
+      </div>
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-2">
+        ${items.map((w, i) => {
+          const key = w.dyn ? `${w.norm}:${lang}` : '';
+          const revealed = show || (this.revealed && this.revealed.has(w.key));
+          return `
+          <div class="rounded-xl bg-white dark:bg-gray-800 border ${w.known ? 'border-green-300 dark:border-green-700' : 'border-gray-200 dark:border-gray-700'} p-2.5 flex flex-col items-center gap-1">
+            <button data-vcard="${this.escapeHtml(w.key)}" data-text="${this.escapeHtml(w.arabic)}" class="flex flex-col items-center gap-0.5 w-full">
+              <span class="ayah-arabic !text-3xl !leading-normal" dir="rtl">${w.arabic}</span>
+              ${w.translit ? `<span class="text-xs italic text-gray-400">${w.translit}</span>` : ''}
+              <span class="text-sm text-gray-700 dark:text-gray-200 text-center leading-tight min-h-[1.25rem]" dir="auto" ${w.dyn ? `data-vmean="${this.escapeHtml(key)}"` : ''}>
+                ${revealed ? this.escapeHtml(this.cardMeaning(w)) : '•••'}
+              </span>
+            </button>
+            <div class="flex items-center gap-1.5">
+              <span class="text-xs text-gray-400">×${w.count}</span>
+              <button data-vknow="${this.escapeHtml(w.arabic)}" title="${t('vocab_know_it', lang)}"
+                      class="text-xs px-1.5 py-0.5 rounded-full ${w.known ? 'bg-green-500 text-white' : 'bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-green-500 hover:text-white'}">✓</button>
+            </div>
+          </div>`;
+        }).join('')}
+      </div>
+      ${shownCount < all.length ? `
+        <div class="text-center">
+          <button data-action="vmore" class="px-5 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm text-primary dark:text-blue-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+            ${t('topics_show_more', lang)} (${all.length - shownCount}) →
+          </button>
+        </div>` : ''}
+    `;
+  }
+
+  renderFlashcardsSingle() {
     const lang = this.language;
     if (!this.deck.length) this.buildDeck();
     const word = this.deck[this.cardIndex];
