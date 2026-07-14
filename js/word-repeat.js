@@ -274,7 +274,7 @@ class WordRepeat {
     const wbw = (v.words || []).map(w => {
       const hit = target && (norm(w.arabic) === target || (word && (w.arabic || '').indexOf(word) >= 0));
       const canPlay = !!w.audio;
-      return `<button ${canPlay ? `data-word-audio="${this.esc(w.audio)}"` : ''} class="inline-flex flex-col items-center px-1.5 py-1 rounded-lg ${canPlay ? 'hover:bg-blue-50 dark:hover:bg-gray-700 cursor-pointer' : ''} ${hit ? 'ring-2 ring-amber-400 bg-amber-50 dark:bg-amber-500/10' : ''}"><span class="ayah-arabic text-2xl block">${w.arabic}</span><span class="text-[11px] text-gray-500 dark:text-gray-400 block" dir="auto">${w.meaning || ''}</span></button>`;
+      return `<button ${canPlay ? `data-word-audio="${this.esc(w.audio)}"` : ''} class="inline-flex flex-col items-center px-1.5 py-1 rounded-lg ${canPlay ? 'hover:bg-blue-50 dark:hover:bg-gray-700 cursor-pointer' : ''} ${hit ? 'ring-2 ring-amber-400 bg-amber-50 dark:bg-amber-500/10' : ''}"><span class="ayah-arabic text-2xl block">${w.arabic}</span><span class="text-xs text-gray-500 dark:text-gray-400 block" dir="auto">${w.meaning || ''}</span></button>`;
     }).join('');
     const pad = n => String(n).padStart(3, '0');
     const c = color || '#3b82f6';
@@ -282,7 +282,7 @@ class WordRepeat {
     return `
       <div class="rounded-xl bg-white dark:bg-gray-800 border-2 p-2.5" style="border-color:${c}">
         <div class="flex items-center gap-2 mb-1">
-          <span class="text-[11px] font-mono font-bold text-white px-2 py-0.5 rounded-md" style="background:${c}">${v.key}</span>
+          <span class="text-xs font-mono font-bold text-white px-2 py-0.5 rounded-md" style="background:${c}">${v.key}</span>
           <span class="text-xs text-gray-400">${this.esc(v.surahName || '')}</span>
           <button data-ayah-audio="https://everyayah.com/data/Alafasy_128kbps/${pad(s)}${pad(a)}.mp3" class="ms-auto text-xs px-2.5 py-1 rounded-lg bg-primary text-white hover:bg-primary/80">🔊 ${this.tt('play_full_ayah')}</button>
         </div>
@@ -409,7 +409,7 @@ class WordRepeat {
             <div data-scrollkeep="rail:${this.esc(x.term)}" class="w-20 sm:w-24 shrink-0 max-h-[70vh] overflow-y-auto pe-1 space-y-1.5 relative border-s-2 border-gray-200 dark:border-gray-700">
               ${x.refs.map(r => this.railItem(r, x.term)).join('')}
               ${qOpen ? `
-                <div class="ps-4 pt-1 text-[9px] uppercase tracking-wide text-gray-400">${this.tt('wr_in_quran')} (${qRefs.length})</div>
+                <div class="ps-4 pt-1 text-[0.65rem] uppercase tracking-wide text-gray-400">${this.tt('wr_in_quran')} (${qRefs.length})</div>
                 ${qShown.map(r => this.railItem(r, x.term)).join('')}
                 ${qRefs.length > qShown.length ? `<div class="ps-4 text-xs text-gray-400">+${qRefs.length - qShown.length}</div>` : ''}` : ''}
             </div>
@@ -423,15 +423,15 @@ class WordRepeat {
     }
     return `
       <div class="${open ? 'col-span-2 sm:col-span-3 lg:col-span-4 xl:col-span-6 2xl:col-span-8' : ''} rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
-        <button data-term="${this.esc(x.term)}" data-first-ref="${x.firstRef}" class="w-full flex flex-col items-center gap-1 px-2 py-3 hover:bg-gray-50 dark:hover:bg-gray-700/40 rounded-xl transition-colors">
+        <button data-term="${this.esc(x.term)}" data-first-ref="${x.firstRef}" class="w-full flex flex-col items-center gap-0.5 px-2 py-2 hover:bg-gray-50 dark:hover:bg-gray-700/40 rounded-xl transition-colors">
           <span class="ayah-arabic text-2xl" dir="rtl">${this.esc(x.term)}</span>
-          ${meaning ? `<span class="text-[11px] text-gray-600 dark:text-gray-300 text-center leading-tight" dir="auto">${this.esc(meaning)}</span>` : ''}
+          ${meaning ? `<span class="text-sm text-gray-600 dark:text-gray-300 text-center leading-tight" dir="auto">${this.esc(meaning)}</span>` : ''}
         </button>
         <div class="px-2 pb-1 flex flex-wrap items-center justify-center gap-1">
-          <span class="text-[10px] px-1.5 py-0.5 rounded-full bg-secondary/10 text-secondary dark:text-emerald-300" title="${this.tt('wr_in_surah')}">${this.tt('wr_surah_short')} ×${x.count}</span>
-          ${x.quran != null ? `<button data-qocc="${this.esc(x.term)}" title="${this.tt('wr_in_quran')}" class="text-[10px] px-1.5 py-0.5 rounded-full ${qOpen ? 'bg-primary text-white' : 'bg-primary/10 text-primary dark:text-blue-300 hover:bg-primary hover:text-white'}">${qOpen ? '▾' : '▸'} ${this.tt('wr_quran_short')} ×${x.quran}</button>` : ''}
-          ${x.refs.length ? `<button data-occ="${this.esc(x.term)}" class="text-[10px] px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-300 hover:text-primary">${open ? '▾' : '▸'} ${x.refs.length} ${this.tt('topics_verses_label')}</button>` : ''}
-          ${this.type === 'root' && this.sarfRoots && this.sarfRoots.has(x.term) ? `<button data-sarf-link="${this.esc(x.term)}" title="${this.tt('sarf_title')}" class="text-[10px] px-1.5 py-0.5 rounded-full bg-fuchsia-500/10 text-fuchsia-600 dark:text-fuchsia-300 hover:bg-fuchsia-500 hover:text-white">🧬</button>` : ''}
+          <span class="text-xs px-1.5 py-0.5 rounded-full bg-secondary/10 text-secondary dark:text-emerald-300" title="${this.tt('wr_in_surah')}">${this.tt('wr_surah_short')} ×${x.count}</span>
+          ${x.quran != null ? `<button data-qocc="${this.esc(x.term)}" title="${this.tt('wr_in_quran')}" class="text-xs px-1.5 py-0.5 rounded-full ${qOpen ? 'bg-primary text-white' : 'bg-primary/10 text-primary dark:text-blue-300 hover:bg-primary hover:text-white'}">${qOpen ? '▾' : '▸'} ${this.tt('wr_quran_short')} ×${x.quran}</button>` : ''}
+          ${x.refs.length ? `<button data-occ="${this.esc(x.term)}" class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-300 hover:text-primary">${open ? '▾' : '▸'} ${x.refs.length} ${this.tt('topics_verses_label')}</button>` : ''}
+          ${this.type === 'root' && this.sarfRoots && this.sarfRoots.has(x.term) ? `<button data-sarf-link="${this.esc(x.term)}" title="${this.tt('sarf_title')}" class="text-xs px-1.5 py-0.5 rounded-full bg-fuchsia-500/10 text-fuchsia-600 dark:text-fuchsia-300 hover:bg-fuchsia-500 hover:text-white">🧬</button>` : ''}
         </div>
         ${body}
       </div>`;
@@ -485,7 +485,7 @@ class WordRepeat {
         return `<button ${canPlay ? `data-word-audio="${this.esc(w.audio)}"` : ''}
                   class="inline-flex flex-col items-center px-2 py-1 my-1 rounded-lg ${canPlay ? 'hover:bg-blue-50 dark:hover:bg-gray-700 cursor-pointer' : ''} ${hit ? 'ring-2 ring-amber-400 bg-amber-50 dark:bg-amber-500/10' : ''}">
                   <span class="ayah-arabic !text-2xl block">${w.arabic}</span>
-                  <span class="text-[11px] text-gray-500 dark:text-gray-400 block" dir="auto">${w.meaning || ''}</span>
+                  <span class="text-xs text-gray-500 dark:text-gray-400 block" dir="auto">${w.meaning || ''}</span>
                 </button>`;
       }).join('');
       const pad = n => String(n).padStart(3, '0');
