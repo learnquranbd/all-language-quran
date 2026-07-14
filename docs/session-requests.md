@@ -81,3 +81,14 @@ _Sequence to finish: (1) deploy Quiz Center + memorize button + waqf + kids-moda
 
 ## Topical index
 51. ✅ Integrate **quranwbw.com/topics** — bundled 1,857-topic A–Z index (19,111 verse refs) as a Topics module in the sidebar; tap a topic → its verses → load in Reading.
+
+## Session 2026-07-13/14 — polish, i18n & new modules (all ✅ live)
+52. ✅ Word-Repetition: complete rebuild — meanings + surah/Quran counts, master-detail rail with color-linked inline verses (multi-open), timeline, scroll-keep, play/pause toggle, compact scalable cards.
+53. ✅ Full localization: all UI strings ×15 languages; 1,857 topic names ×14; tajweed rule names bn/ar; Bangla gap audit (zero missing keys).
+54. ✅ Quiz: first/last/random modes, Easy/Mid/Hifz difficulty, red/green clickable progress strip, keyboard 1-4, end-of-round missed review.
+55. ✅ Layout: sticky sidebar + Go-to-Top, full-width modules, mobile header/drawer fixes, global font control to 200% + separate Arabic font control (70–250%).
+56. ✅ New module: Daily Amal (📿) — time/day-based sunnah recitations, hadith-graded, sources linked to sunnah.com.
+57. ✅ New module: Learn Tajweed (🎨) — 18 rules (localized), live colored examples from the corpus, auto-color reading, curated resources; guide moved left + localized.
+58. ✅ Kids: Numbers → 29 Quranic numbers with real phrases/verses; Surahs → full Juz 'Amma (38); Words by frequency; Handwriting all-harf picker.
+59. ✅ Vocabulary: 266 corpus words, meaning hide/show toggle, compact grid, live meanings, resources row.
+60. ✅ Audit passes: 73-finding audit (7 fix batches) + second audit of new modules (in progress).
