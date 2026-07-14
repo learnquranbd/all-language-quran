@@ -13,7 +13,7 @@
  * rather than breaking the page.
  */
 
-const CACHE = 'lq-v69';
+const CACHE = 'lq-v70';
 
 /**
  * App shell — mirrors the <link>/<script> tags in the CURRENT index.html

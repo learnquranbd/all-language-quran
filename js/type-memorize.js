@@ -13,6 +13,8 @@ class TypeMemorize {
 
     this.language = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
     this.surah = 1;
+    this.fromAyah = 1;
+    this.toAyah = null; // null → full surah (set on render / surah change)
     this.hideTarget = true;
     this._words = null; // data/quran-words.json
 
@@ -52,16 +54,24 @@ class TypeMemorize {
     return this._words;
   }
 
-  /** Flat expected word list for the current surah: [{arabic, norm, key}] */
+  /** Flat expected word list for the selected ayah range: [{arabic, norm, key}] */
   async expectedWords() {
     const data = await this.loadWords();
-    const info = getSurahByNumber(this.surah);
+    const [from, to] = this.range();
     const out = [];
-    for (let a = 1; a <= info.ayahCount; a++) {
+    for (let a = from; a <= to; a++) {
       const ws = data[`${this.surah}:${a}`] || [];
       ws.forEach(w => out.push({ arabic: w, norm: this.norm(w), key: `${this.surah}:${a}` }));
     }
     return out;
+  }
+
+  /** Clamped [from, to] ayah range for the current surah (1 ≤ from ≤ to ≤ ayahCount). */
+  range() {
+    const count = getSurahByNumber(this.surah).ayahCount;
+    const from = Math.min(Math.max(this.fromAyah || 1, 1), count);
+    const to = Math.min(Math.max(this.toAyah || count, from), count);
+    return [from, to];
   }
 
   /* ---------- render ---------- */
@@ -83,6 +93,12 @@ class TypeMemorize {
             <select id="tm-surah" class="flex-1 min-w-[180px] px-3 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700">
               ${options}
             </select>
+            <div class="flex items-center gap-1.5 text-sm text-gray-600 dark:text-gray-300">
+              <span>${t('ayah', lang)}</span>
+              <select id="tm-from" class="px-2 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700"></select>
+              <span>–</span>
+              <select id="tm-to" class="px-2 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700"></select>
+            </div>
             <label class="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-300 cursor-pointer">
               <input type="checkbox" id="tm-hide" ${this.hideTarget ? 'checked' : ''} class="w-4 h-4"> ${t('hide_words', lang)}
             </label>
@@ -107,7 +123,21 @@ class TypeMemorize {
       </div>
     `;
     this.root.querySelector('#tm-surah').value = String(this.surah);
+    this.fillRangeSelects();
     this.loadTarget();
+  }
+
+  /** (Re)populate the from/to ayah selects for the current surah and clamp values. */
+  fillRangeSelects() {
+    const count = getSurahByNumber(this.surah).ayahCount;
+    const [from, to] = this.range();
+    this.fromAyah = from; this.toAyah = to;
+    const opts = Array.from({ length: count }, (_, i) => `<option value="${i + 1}">${i + 1}</option>`).join('');
+    const fromSel = this.root.querySelector('#tm-from');
+    const toSel = this.root.querySelector('#tm-to');
+    if (!fromSel || !toSel) return;
+    fromSel.innerHTML = opts; toSel.innerHTML = opts;
+    fromSel.value = String(from); toSel.value = String(to);
   }
 
   arabicKeyboard(lang) {
@@ -140,6 +170,7 @@ class TypeMemorize {
       const words = await this.expectedWords();
       this._expected = words;   // cached for live progress
       el.innerHTML = words.map(w => `<span class="mx-0.5">${w.arabic}</span>`).join(' ');
+      this.liveCheck();         // counter total follows the selected range
     } catch (e) { el.textContent = ''; }
   }
 
@@ -281,14 +312,30 @@ class TypeMemorize {
   }
 }
 
-// react to surah change (change event, not click)
+// react to surah / ayah-range change (change event, not click)
 document.addEventListener('change', (e) => {
-  if (e.target && e.target.id === 'tm-surah' && typeof typeMemorize !== 'undefined' && typeMemorize) {
+  if (!e.target || typeof typeMemorize === 'undefined' || !typeMemorize) return;
+  const id = e.target.id;
+  if (id !== 'tm-surah' && id !== 'tm-from' && id !== 'tm-to') return;
+  if (id === 'tm-surah') {
     typeMemorize.surah = parseInt(e.target.value, 10);
-    typeMemorize.loadTarget();
-    const res = typeMemorize.root.querySelector('#tm-result');
-    if (res) res.classList.add('hidden');
+    typeMemorize.fromAyah = 1;
+    typeMemorize.toAyah = null; // full surah
+    typeMemorize.fillRangeSelects();
+  } else {
+    const v = parseInt(e.target.value, 10);
+    if (id === 'tm-from') {
+      typeMemorize.fromAyah = v;
+      if (typeMemorize.toAyah < v) typeMemorize.toAyah = v;       // keep from ≤ to
+    } else {
+      typeMemorize.toAyah = v;
+      if (typeMemorize.fromAyah > v) typeMemorize.fromAyah = v;   // keep from ≤ to
+    }
+    typeMemorize.fillRangeSelects();
   }
+  typeMemorize.loadTarget();
+  const res = typeMemorize.root.querySelector('#tm-result');
+  if (res) res.classList.add('hidden');
 });
 
 let typeMemorize;

@@ -243,6 +243,55 @@ class MushafView {
       const num = parseInt(this.surahSelect.value, 10);
       if (num && this.surahPages && this.surahPages[num]) this.goTo(this.surahPages[num]);
     });
+
+    // Touch swipe page-turning on the page plate (renderShell recreates the
+    // DOM, so binding here on the fresh element is safe across re-renders)
+    this.bindSwipe(this.plateEl);
+  }
+
+  /* ------------------------------------------------------------------ *
+   * Touch swipe page-turning (mobile)
+   * ------------------------------------------------------------------ */
+
+  /**
+   * Physical RTL book: the NEXT page sits to the LEFT (same side as the
+   * ‹ next arrow), so dragging the paper toward the RIGHT reveals it.
+   * Swipe RIGHT -> next page, swipe LEFT -> previous page — the swipe moves
+   * toward the on-screen arrow for the page it turns to.
+   * All listeners are passive: vertical scrolling and pinch-zoom keep working.
+   */
+  bindSwipe(el) {
+    if (!el) return;
+    const rem = parseFloat(getComputedStyle(document.documentElement).fontSize) || 16;
+    const threshold = 3 * rem; // minimum horizontal travel (~48px at default font size)
+    let startX = 0, startY = 0, tracking = false;
+
+    el.addEventListener('touchstart', (e) => {
+      if (e.touches.length !== 1) { tracking = false; return; } // ignore multi-touch (pinch)
+      tracking = true;
+      startX = e.touches[0].clientX;
+      startY = e.touches[0].clientY;
+    }, { passive: true });
+
+    el.addEventListener('touchmove', (e) => {
+      if (e.touches.length > 1) tracking = false; // a second finger joined: it's a pinch, not a swipe
+    }, { passive: true });
+
+    el.addEventListener('touchcancel', () => { tracking = false; }, { passive: true });
+
+    el.addEventListener('touchend', (e) => {
+      if (!tracking) return;
+      tracking = false;
+      if (this.zoom() > 1) return; // zoomed plate pans horizontally — don't hijack it
+      const t0 = e.changedTouches && e.changedTouches[0];
+      if (!t0) return;
+      const dx = t0.clientX - startX;
+      const dy = t0.clientY - startY;
+      // Require clear horizontal dominance so vertical page scrolling still works
+      if (Math.abs(dx) < threshold || Math.abs(dx) < Math.abs(dy) * 1.5) return;
+      if (dx > 0) this.goTo(this.page + this.step()); // swipe right -> next (the page on the LEFT)
+      else this.goTo(this.page - this.step());        // swipe left  -> previous (the page on the RIGHT)
+    }, { passive: true });
   }
 
   /* ------------------------------------------------------------------ *

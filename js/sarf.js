@@ -100,7 +100,10 @@ class Sarf {
   hasRoot(root) { return !!(this.loaded && this.data && this.data.roots[root]); }
   openRoot(root) {
     this._pendingRoot = root;
-    if (typeof tabSystem !== 'undefined' && tabSystem) tabSystem.switchTab('sarf');
+    if (typeof tabSystem !== 'undefined' && tabSystem) {
+      if (tabSystem.switchTabWithReturn) tabSystem.switchTabWithReturn('sarf');
+      else tabSystem.switchTab('sarf');
+    }
   }
 
   bindOnce() {

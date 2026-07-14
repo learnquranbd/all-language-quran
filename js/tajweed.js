@@ -31,6 +31,27 @@ const TAJWEED_RULES = {
   idghaam_mutaqaribayn:  { color: '#8B4513', label: 'Idgham Mutaqaribayn' }
 };
 
+/**
+ * Tap-to-toggle rule explanations (touch devices have no hover):
+ * every legend chip / guide row carries `.tj-item`, its explanation `.tj-tip`.
+ * A single delegated click toggles `tj-open` on the tapped item, closes any
+ * other open one, and a tap elsewhere closes all. Hover behavior is untouched.
+ */
+if (typeof document !== 'undefined') (function () {
+  const style = document.createElement('style');
+  style.textContent = '.tj-item.tj-open .tj-tip{display:block}';
+  document.head.appendChild(style);
+  document.addEventListener('click', (e) => {
+    // Panel chrome (collapse arrow, mobile pill / close) must not toggle tips
+    if (e.target.closest('#tjg-collapse, #tjg-m-open, #tjg-m-close')) return;
+    const item = e.target.closest('.tj-item');
+    document.querySelectorAll('.tj-item.tj-open').forEach(el => {
+      if (el !== item) el.classList.remove('tj-open');
+    });
+    if (item) item.classList.toggle('tj-open');
+  });
+})();
+
 const TajweedData = {
   _cache: {},
 
@@ -85,9 +106,9 @@ const TajweedData = {
         ${Object.entries(TAJWEED_RULES).map(([key, rule]) => {
           const name = (typeof TAJWEED_LESSONS !== 'undefined' && TAJWEED_LESSONS[key] && TAJWEED_LESSONS[key].names && TAJWEED_LESSONS[key].names[lang]) || rule.label;
           return `
-          <span class="relative group inline-flex items-center gap-1.5 text-xs text-gray-600 dark:text-gray-300 cursor-help" dir="auto">
+          <span class="tj-item relative group inline-flex items-center gap-1.5 text-xs text-gray-600 dark:text-gray-300 cursor-help" dir="auto">
             <span class="inline-block w-3 h-3 rounded-full" style="background:${rule.color}"></span>${name}
-            <span class="hidden group-hover:block absolute bottom-full right-0 mb-1.5 w-60 p-2.5 rounded-lg
+            <span class="tj-tip hidden group-hover:block absolute bottom-full right-0 mb-1.5 w-60 p-2.5 rounded-lg
                          bg-gray-900 text-white text-xs leading-relaxed shadow-xl z-30 pointer-events-none" dir="auto">
               <span class="font-semibold" style="color:${rule.color === '#AAAAAA' ? '#ddd' : rule.color}">${name}</span><br>
               ${t('tjd_' + key, lang)}
@@ -103,7 +124,8 @@ const TajweedData = {
  * Collapsible (state remembered); rule rows show hover explanations.
  */
 const TajweedGuide = {
-  el: null,
+  el: null,   // desktop fixed side panel (lg+)
+  mel: null,  // mobile pill + bottom-sheet (below lg)
 
   get collapsed() {
     try { return localStorage.getItem('tajweedGuideCollapsed') === '1'; } catch (e) { return false; }
@@ -129,11 +151,28 @@ const TajweedGuide = {
       });
     }
 
+    if (!this.mel) {
+      // Below lg the fixed panel is hidden, so give small screens a floating
+      // 🎨 pill (bottom-LEFT — the Go-to-Top button owns bottom-right) that
+      // opens the same rule list as a bottom sheet.
+      this.mel = document.createElement('div');
+      this.mel.id = 'tajweed-guide-m';
+      this.mel.className = 'lg:hidden';
+      document.body.appendChild(this.mel);
+
+      this.mel.addEventListener('click', (e) => {
+        if (e.target.closest('#tjg-m-open')) this.toggleSheet(true);
+        else if (e.target.closest('#tjg-m-close') || e.target.closest('#tjg-m-overlay')) this.toggleSheet(false);
+      });
+    }
+
     // Only meaningful on the reading tab — bind the tab listener exactly once
     if (!this._tabBound) {
       this._tabBound = true;
       window.addEventListener('tabChanged', (e) => {
-        if (this.el) this.el.classList.toggle('hidden', e.detail.tabId !== 'reading');
+        const off = e.detail.tabId !== 'reading';
+        if (this.el) this.el.classList.toggle('hidden', off);
+        if (this.mel) { this.mel.classList.toggle('hidden', off); if (off) this.toggleSheet(false); }
       });
       // Language changes can flip document dir (ar/ur/fa → rtl): re-render to re-dock
       window.addEventListener('settingChanged', (e) => {
@@ -143,15 +182,82 @@ const TajweedGuide = {
     this._lang = lang;
     const activeTab = (typeof tabSystem !== 'undefined' && tabSystem) ? tabSystem.getActiveTab() : 'reading';
     this.el.classList.toggle('hidden', activeTab !== 'reading');
+    this.mel.classList.toggle('hidden', activeTab !== 'reading');
     this.render(lang);
   },
 
   unmount() {
     if (this.el) { this.el.remove(); this.el = null; }
+    if (this.mel) { this.mel.remove(); this.mel = null; }
+    if (this._mUnbind) { this._mUnbind(); this._mUnbind = null; }
+  },
+
+  /**
+   * One rule row per tajweed rule (shared by desktop panel and mobile sheet).
+   * `tipSide` set (e.g. 'left-full ml-2') → hover/tap tooltip floating beside
+   * the row; null → tap-only explanation expanding inline below the row
+   * (absolute tips would be clipped by the sheet's overflow scroll).
+   */
+  _rowsHtml(lang, tipSide) {
+    return Object.entries(TAJWEED_RULES).map(([key, rule]) => {
+      const name = (typeof TAJWEED_LESSONS !== 'undefined' && TAJWEED_LESSONS[key] && TAJWEED_LESSONS[key].names && TAJWEED_LESSONS[key].names[lang]) || rule.label;
+      const nameColor = rule.color === '#AAAAAA' ? '#ddd' : rule.color;
+      const tip = tipSide
+        ? `<span class="tj-tip hidden group-hover:block absolute ${tipSide} top-1/2 -translate-y-1/2 w-64 p-2.5 rounded-lg
+                        bg-gray-900 text-white text-xs leading-relaxed shadow-xl z-40 pointer-events-none" dir="auto">
+             <span class="font-semibold" style="color:${nameColor}">${name}</span><br>
+             ${t('tjd_' + key, lang)}
+           </span>`
+        : `<span class="tj-tip hidden basis-full ps-5 pb-1 text-xs text-gray-500 dark:text-gray-400 leading-relaxed" dir="auto">
+             ${t('tjd_' + key, lang)}
+           </span>`;
+      return `
+        <div class="tj-item relative group flex ${tipSide ? 'items-center' : 'flex-wrap items-center cursor-pointer'} gap-2 px-2 py-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/60${tipSide ? ' cursor-help' : ''}">
+          <span class="inline-block w-3 h-3 rounded-full shrink-0" style="background:${rule.color}"></span>
+          <span class="text-xs text-gray-700 dark:text-gray-200 leading-tight" dir="auto">${name}</span>
+          ${tip}
+        </div>`;
+    }).join('');
+  },
+
+  /** Open/close the small-screen bottom sheet */
+  toggleSheet(open) {
+    if (!this.mel) return;
+    const ov = this.mel.querySelector('#tjg-m-overlay');
+    const sheet = this.mel.querySelector('#tjg-m-sheet');
+    if (!ov || !sheet) return;
+    ov.classList.toggle('hidden', !open);
+    sheet.classList.toggle('hidden', !open);
+    sheet.classList.toggle('flex', open);
+    if (!open) sheet.querySelectorAll('.tj-item.tj-open').forEach(el => el.classList.remove('tj-open'));
+  },
+
+  renderMobile(lang) {
+    if (!this.mel) return;
+    if (this._mUnbind) { this._mUnbind(); this._mUnbind = null; }
+    this.mel.innerHTML = `
+      <button id="tjg-m-open" title="${t('tajweed_label', lang)}" aria-label="${t('tajweed_label', lang)}"
+              class="fixed bottom-6 left-6 z-40 w-11 h-11 rounded-full bg-white dark:bg-gray-800 shadow-lg
+                     border border-gray-200 dark:border-gray-700 text-lg flex items-center justify-center">🎨</button>
+      <div id="tjg-m-overlay" class="hidden fixed inset-0 z-40 bg-black/40"></div>
+      <div id="tjg-m-sheet" class="hidden fixed inset-x-0 bottom-0 z-50 flex-col max-h-[60vh] rounded-t-2xl
+                                   bg-white dark:bg-gray-800 shadow-2xl border-t border-gray-200 dark:border-gray-700">
+        <div class="flex items-center gap-2 px-4 py-3 border-b border-gray-200 dark:border-gray-700 shrink-0">
+          <span class="text-sm font-semibold flex-1">🎨 ${t('tajweed_label', lang)}</span>
+          <button id="tjg-m-close" class="p-1.5 rounded hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-500"
+                  title="${t('hide_all', lang)}" aria-label="${t('hide_all', lang)}">✕</button>
+        </div>
+        <div class="overflow-y-auto px-2 py-2 space-y-0.5">
+          ${this._rowsHtml(lang, null)}
+        </div>
+      </div>
+    `;
+    if (window.escClose) this._mUnbind = window.escClose(this.mel.querySelector('#tjg-m-overlay'), () => this.toggleSheet(false));
   },
 
   render(lang) {
     if (!this.el) return;
+    this.renderMobile(lang);
 
     // Dock beside the sidebar: left edge in LTR, right edge in RTL (ar/ur/fa
     // flip document dir, so the desktop sidebar sits on the RIGHT).
@@ -178,18 +284,7 @@ const TajweedGuide = {
           <button id="tjg-collapse" class="p-1 rounded hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-500" title="${t('hide_all', lang)}">${glyph}</button>
         </div>
         <div class="max-h-[62vh] overflow-y-auto px-2 py-2 space-y-0.5">
-          ${Object.entries(TAJWEED_RULES).map(([key, rule]) => {
-            const name = (typeof TAJWEED_LESSONS !== 'undefined' && TAJWEED_LESSONS[key] && TAJWEED_LESSONS[key].names && TAJWEED_LESSONS[key].names[lang]) || rule.label;
-            return `
-            <div class="relative group flex items-center gap-2 px-2 py-1 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/60 cursor-help">
-              <span class="inline-block w-3 h-3 rounded-full shrink-0" style="background:${rule.color}"></span>
-              <span class="text-xs text-gray-700 dark:text-gray-200 leading-tight" dir="auto">${name}</span>
-              <span class="hidden group-hover:block absolute ${tipSide} top-1/2 -translate-y-1/2 w-64 p-2.5 rounded-lg
-                           bg-gray-900 text-white text-xs leading-relaxed shadow-xl z-40 pointer-events-none" dir="auto">
-                <span class="font-semibold" style="color:${rule.color === '#AAAAAA' ? '#ddd' : rule.color}">${name}</span><br>
-                ${t('tjd_' + key, lang)}
-              </span>
-            </div>`; }).join('')}
+          ${this._rowsHtml(lang, tipSide)}
         </div>
       </div>
     `;

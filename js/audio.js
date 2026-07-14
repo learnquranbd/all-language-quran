@@ -60,15 +60,30 @@ class AudioPlayer {
     this.speed = 1;           // playback rate
     this._repeatLeft = 0;
 
+    // Seek bar / position persistence state
+    this._seeking = false;        // user is dragging the scrubber → don't fight timeupdate
+    this._lastProgressAt = 0;     // throttle progress repaints to ~4Hz
+    this._resumeTime = null;      // pending resume position, applied on loadedmetadata
+    this.posKey = 'audioLastPos'; // localStorage key: {src, time}
+
     this.audio = new Audio();
     this.audio.addEventListener('ended', () => this.onEnded());
     this.audio.addEventListener('play', () => this.updateUI());
     this.audio.addEventListener('pause', () => {
+      this.savePosition();
       this.clearHighlight();
       this.updateUI();
     });
     this.audio.addEventListener('timeupdate', () => this.onTimeUpdate());
+    this.audio.addEventListener('loadedmetadata', () => this.onLoadedMetadata());
+    this.audio.addEventListener('seeked', () => this.updateProgress(true));
     this.audio.addEventListener('error', () => this.onAudioError());
+
+    // Persist the position when the user leaves the tab / closes the page
+    document.addEventListener('visibilitychange', () => {
+      if (document.hidden) this.savePosition();
+    });
+    window.addEventListener('pagehide', () => this.savePosition());
 
     // Cumulative ayah offsets for global ayah numbers (1..6236)
     this.surahOffsets = {};
@@ -198,6 +213,8 @@ class AudioPlayer {
   }
 
   onEnded() {
+    // Track finished → the saved position is no longer useful
+    this.clearSavedPosition();
     // Repeat the same ayah N times before moving on (hifz drilling)
     if (this._repeatLeft > 1) {
       this._repeatLeft--;
@@ -238,6 +255,11 @@ class AudioPlayer {
     this.currentSegments = segments;
     this._repeatLeft = this.repeatEach;   // fresh ayah → reset its repeat counter
     this.audio.src = src;
+    // Same track as last time? Resume near where the user left off.
+    const saved = this.readSavedPosition();
+    this._resumeTime = (saved && saved.src === src && Number.isFinite(saved.time))
+      ? Math.max(0, saved.time - 2)       // small rewind for context
+      : null;
     this.audio.playbackRate = this.speed;
     this.audio.play().catch(err => console.error('Audio playback failed:', err));
     this.updateUI();
@@ -274,8 +296,95 @@ class AudioPlayer {
     this.audio.play().catch(() => {});
   }
 
+  /** Apply a pending resume position once the duration is known. */
+  onLoadedMetadata() {
+    const dur = this.audio.duration;
+    if (this._resumeTime != null) {
+      if (Number.isFinite(dur) && this._resumeTime > 0 && this._resumeTime < dur - 1) {
+        this.audio.currentTime = this._resumeTime;
+      }
+      this._resumeTime = null;
+    }
+    this.updateProgress(true);
+  }
+
+  // --- Position persistence (hifz: pick up a long ayah where you left it) ---
+
+  savePosition() {
+    const src = this.audio.currentSrc || this.audio.src;
+    const time = this.audio.currentTime;
+    if (!src || !Number.isFinite(time) || this.audio.ended) return;
+    try { localStorage.setItem(this.posKey, JSON.stringify({ src, time })); } catch (e) { /* storage full/blocked */ }
+  }
+
+  readSavedPosition() {
+    try { return JSON.parse(localStorage.getItem(this.posKey) || 'null'); } catch (e) { return null; }
+  }
+
+  clearSavedPosition() {
+    try { localStorage.removeItem(this.posKey); } catch (e) { /* ignore */ }
+  }
+
+  // --- Seek / progress bar ---
+
+  fmtTime(sec) {
+    if (!Number.isFinite(sec) || sec < 0) return '0:00';
+    const m = Math.floor(sec / 60);
+    const s = Math.floor(sec % 60);
+    return `${m}:${String(s).padStart(2, '0')}`;
+  }
+
+  seekLabel() {
+    const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+    const s = (typeof t === 'function') ? t('audio_seek', lang) : null;
+    return (s && s !== 'audio_seek') ? s : 'Seek';
+  }
+
+  /** Repaint time labels + scrubber (throttled to ~4Hz unless forced). */
+  updateProgress(force = false) {
+    const bar = document.getElementById('audio-seek');
+    if (!bar) return;
+    const now = performance.now();
+    if (!force && now - this._lastProgressAt < 250) return;
+    this._lastProgressAt = now;
+
+    const dur = this.audio.duration;
+    const cur = this.audio.currentTime || 0;
+    const durEl = document.getElementById('audio-time-dur');
+    if (durEl) durEl.textContent = this.fmtTime(dur);
+    if (this._seeking) return;              // user is dragging — don't fight them
+    if (Number.isFinite(dur) && dur > 0) {  // metadata loaded
+      bar.max = dur;
+      bar.value = cur;
+    } else {
+      bar.value = 0;
+    }
+    const curEl = document.getElementById('audio-time-cur');
+    if (curEl) curEl.textContent = this.fmtTime(cur);
+  }
+
+  /** Wire up the (re-rendered) scrubber inside the now-playing card. */
+  bindSeekBar() {
+    const bar = document.getElementById('audio-seek');
+    if (!bar) return;
+    bar.addEventListener('input', () => {
+      this._seeking = true;
+      const curEl = document.getElementById('audio-time-cur');
+      if (curEl) curEl.textContent = this.fmtTime(parseFloat(bar.value) || 0);
+    });
+    bar.addEventListener('change', () => {
+      const dur = this.audio.duration;
+      if (Number.isFinite(dur) && dur > 0) {  // guard: metadata not loaded yet
+        this.audio.currentTime = Math.min(parseFloat(bar.value) || 0, dur);
+      }
+      this._seeking = false;
+      this.updateProgress(true);
+    });
+  }
+
   /** Drive the word highlight from the audio clock. */
   onTimeUpdate() {
+    this.updateProgress();
     if (!this.currentSegments || this.audio.paused) return;
     const ms = this.audio.currentTime * 1000;
     const seg = this.currentSegments.find(s => ms >= s.start && ms < s.end);
@@ -326,7 +435,16 @@ class AudioPlayer {
     el.innerHTML = `
       <div class="text-xs text-gray-400 mb-2 text-center">${ayah.surahName || ''} ${ayah.key}</div>
       <div class="ayah-arabic !text-3xl !leading-loose text-center mb-3" dir="rtl">${ayah.arabic || ''}</div>
-      <div class="flex flex-wrap justify-center gap-x-1 gap-y-1" dir="rtl">${words}</div>`;
+      <div class="flex flex-wrap justify-center gap-x-1 gap-y-1" dir="rtl">${words}</div>
+      <div class="mt-3 flex items-center gap-2" dir="ltr">
+        <span id="audio-time-cur" class="text-[0.75rem] tabular-nums text-gray-500 dark:text-gray-400 w-9 text-right shrink-0">0:00</span>
+        <input id="audio-seek" type="range" min="0" max="100" step="0.1" value="0"
+               class="flex-1 h-1.5 min-w-0 accent-primary cursor-pointer"
+               aria-label="${this.seekLabel()}">
+        <span id="audio-time-dur" class="text-[0.75rem] tabular-nums text-gray-500 dark:text-gray-400 w-9 shrink-0">0:00</span>
+      </div>`;
+    this.bindSeekBar();
+    this.updateProgress(true);
   }
 
   renderList() {

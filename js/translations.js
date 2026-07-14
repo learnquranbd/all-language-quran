@@ -5,6 +5,7 @@
 
 const TRANSLATIONS = {
   en: {
+    audio_seek: 'Seek',
     amal_listen: 'Listen',
     amal_preview: 'Preview',
     quiz_practice_missed: 'Practice missed',
@@ -563,6 +564,7 @@ const TRANSLATIONS = {
   },
 
   bn: {
+    audio_seek: 'সময় নির্ধারণ করুন',
     amal_listen: 'শুনুন',
     amal_preview: 'আয়াত দেখুন',
     quiz_practice_missed: 'ভুলগুলো অনুশীলন করুন',
@@ -1120,6 +1122,7 @@ const TRANSLATIONS = {
   },
 
   ar: {
+    audio_seek: 'الانتقال في المقطع',
     amal_listen: 'استمع',
     amal_preview: 'معاينة',
     quiz_practice_missed: 'تدرّب على الأخطاء',
@@ -1643,6 +1646,7 @@ const TRANSLATIONS = {
   },
 
   ur: {
+    audio_seek: 'آگے پیچھے کریں',
     amal_listen: 'سنیں',
     amal_preview: 'پیش منظر',
     quiz_practice_missed: 'غلطیوں کی مشق کریں',
@@ -2166,6 +2170,7 @@ const TRANSLATIONS = {
   },
 
   id: {
+    audio_seek: 'Geser posisi',
     amal_listen: 'Dengarkan',
     amal_preview: 'Pratinjau',
     quiz_practice_missed: 'Latih yang salah',
@@ -2689,6 +2694,7 @@ const TRANSLATIONS = {
   },
 
   tr: {
+    audio_seek: 'İleri/geri sar',
     amal_listen: 'Dinle',
     amal_preview: 'Önizleme',
     quiz_practice_missed: 'Yanlışları çalış',
@@ -3212,6 +3218,7 @@ const TRANSLATIONS = {
   },
 
   fr: {
+    audio_seek: 'Rechercher dans la piste',
     amal_listen: 'Écouter',
     amal_preview: 'Aperçu',
     quiz_practice_missed: 'Revoir les erreurs',
@@ -3734,6 +3741,7 @@ const TRANSLATIONS = {
 
   },
   es: {
+    audio_seek: 'Buscar posición',
     amal_listen: 'Escuchar',
     amal_preview: 'Vista previa',
     quiz_practice_missed: 'Practicar fallos',
@@ -4237,6 +4245,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Historias de los profetas"
   },
   ru: {
+    audio_seek: 'Перемотка',
     amal_listen: 'Слушать',
     amal_preview: 'Предпросмотр',
     quiz_practice_missed: 'Повторить ошибки',
@@ -4740,6 +4749,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Истории пророков"
   },
   fa: {
+    audio_seek: 'جابه‌جایی در صوت',
     amal_listen: 'گوش دهید',
     amal_preview: 'پیش‌نمایش',
     quiz_practice_missed: 'تمرین اشتباه‌ها',
@@ -5243,6 +5253,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "داستان‌های پیامبران"
   },
   hi: {
+    audio_seek: 'स्थिति बदलें',
     amal_listen: 'सुनें',
     amal_preview: 'पूर्वावलोकन',
     quiz_practice_missed: 'गलतियों का अभ्यास करें',
@@ -5746,6 +5757,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "पैगंबरों की कहानियाँ"
   },
   de: {
+    audio_seek: 'Spulen',
     amal_listen: 'Anhören',
     amal_preview: 'Vorschau',
     quiz_practice_missed: 'Fehler üben',
@@ -6249,6 +6261,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Geschichten der Propheten"
   },
   ms: {
+    audio_seek: 'Ubah kedudukan',
     amal_listen: 'Dengar',
     amal_preview: 'Pratonton',
     quiz_practice_missed: 'Latih yang salah',
@@ -6752,6 +6765,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "Kisah Para Nabi"
   },
   zh: {
+    audio_seek: '拖动进度',
     amal_listen: '收听',
     amal_preview: '预览',
     quiz_practice_missed: '练习错题',
@@ -7255,6 +7269,7 @@ const TRANSLATIONS = {
     "stories_of_prophets": "先知们的故事"
   },
   ja: {
+    audio_seek: 'シーク',
     amal_listen: '聴く',
     amal_preview: 'プレビュー',
     quiz_practice_missed: '間違いを練習',

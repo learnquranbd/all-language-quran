@@ -58,6 +58,9 @@ class TabSystem {
     // Back-navigation: when a module sends us to Reading to view a verse,
     // offer a one-tap return to that module.
     if (tabId === 'reading' && fromTab && fromTab !== 'reading') this.returnTab = fromTab;
+    // Cross-module jumps (switchTabWithReturn) get the same pill; any further
+    // navigation away from the jump target dismisses it.
+    if (this.jumpReturn && this.jumpReturn.to !== tabId) this.jumpReturn = null;
     this.updateBackPill();
 
     // Call tab-specific handler if registered
@@ -69,19 +72,31 @@ class TabSystem {
     window.dispatchEvent(new CustomEvent('tabChanged', { detail: { tabId } }));
   }
 
+  /** Cross-module jump (e.g. Word-Repetition → Sarf) with a one-tap return pill. */
+  switchTabWithReturn(tabId) {
+    if (tabId !== this.activeTab) this.jumpReturn = { to: tabId, from: this.activeTab };
+    this.switchTab(tabId);
+  }
+
   updateBackPill() {
-    const show = this.activeTab === 'reading' && this.returnTab && this.returnTab !== 'reading';
+    const jump = this.jumpReturn && this.activeTab === this.jumpReturn.to ? this.jumpReturn.from : null;
+    const backTo = jump || (this.activeTab === 'reading' && this.returnTab !== 'reading' ? this.returnTab : null);
     if (!this.backPill) {
       this.backPill = document.createElement('button');
       this.backPill.id = 'tab-back-pill';
       this.backPill.className = 'fixed bottom-20 left-4 z-40 hidden items-center gap-2 px-4 py-2.5 rounded-full bg-primary text-white shadow-lg hover:bg-primary/90 text-sm font-medium';
-      this.backPill.addEventListener('click', () => { if (this.returnTab) this.switchTab(this.returnTab); });
+      this.backPill.addEventListener('click', () => {
+        const target = this._backTo;
+        this.jumpReturn = null;
+        if (target) this.switchTab(target);
+      });
       document.body.appendChild(this.backPill);
     }
-    if (show) {
+    this._backTo = backTo;
+    if (backTo) {
       const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
       const labels = { reading: 'ayah_reading', search: 'search', tafseer: 'tafseers', wordbyword: 'word_by_word', grammar: 'grammar', learn: 'learn', memorize: 'memorize', quiz: 'quiz_center_title', audio: 'audio', mushaf: 'mushaf', topics: 'topics_title', wordrepeat: 'wr_title', sarf: 'sarf_title' };
-      const name = (typeof t === 'function') ? t(labels[this.returnTab] || 'back', lang) : this.returnTab;
+      const name = (typeof t === 'function') ? t(labels[backTo] || 'back', lang) : backTo;
       this.backPill.innerHTML = `<span class="text-base leading-none">←</span><span>${name}</span>`;
       this.backPill.classList.remove('hidden');
       this.backPill.classList.add('flex');
