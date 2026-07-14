@@ -30,7 +30,7 @@ class Sarf {
   tt(key) { return t(key, this.language); }
 
   async ensureLoaded() {
-    if (this.loaded) { this.render(); return; }
+    if (this.loaded) { this.applyPendingRoot(); this.render(); return; }
     this.container.innerHTML = `<div class="text-center py-16 text-gray-400">${this.tt('loading')}</div>`;
     try {
       this.data = await fetch('data/sarf.json').then(r => r.json());
@@ -41,7 +41,20 @@ class Sarf {
     this.root = this.data.order[0];
     this.loaded = true;
     this.bindOnce();
+    this.applyPendingRoot();
     this.render();
+  }
+
+  applyPendingRoot() {
+    if (this._pendingRoot && this.data && this.data.roots[this._pendingRoot]) this.root = this._pendingRoot;
+    this._pendingRoot = null;
+  }
+
+  /** Other modules (e.g. Word-Repetition) jump here with a specific root. */
+  hasRoot(root) { return !!(this.loaded && this.data && this.data.roots[root]); }
+  openRoot(root) {
+    this._pendingRoot = root;
+    if (typeof tabSystem !== 'undefined' && tabSystem) tabSystem.switchTab('sarf');
   }
 
   bindOnce() {

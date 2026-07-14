@@ -114,9 +114,40 @@ class VocabTrainer {
     } catch (err) { /* TTS failed — degrade silently */ }
   }
 
+  /** Show up to 8 real Quranic verses containing the current flashcard word. */
+  async loadOccurrences() {
+    const slot = this.root.querySelector('#vocab-occ');
+    const word = this.deck[this.cardIndex];
+    if (!slot || !word) return;
+    slot.innerHTML = `<span class="text-xs text-gray-400">${t('loading', this.language)}</span>`;
+    try {
+      const idx = await QuranData.getWordIndex();
+      const norm = QuranData.normalizeWord(word.arabic);
+      const refs = [...new Set((idx[norm] || []).map(o => o.split(':').slice(0, 2).join(':')))];
+      if (!refs.length) { slot.innerHTML = `<span class="text-xs text-gray-400">${t('names_no_occurrences', this.language)}</span>`; return; }
+      slot.innerHTML = refs.slice(0, 8).map(r =>
+        `<button data-vocab-verse="${r}" class="text-xs font-mono px-2 py-1 rounded-md bg-gray-100 dark:bg-gray-700 hover:bg-primary hover:text-white">${r}</button>`
+      ).join('') + (refs.length > 8 ? `<span class="text-xs text-gray-400 self-center">+${refs.length - 8}</span>` : '');
+    } catch (e) {
+      slot.innerHTML = '';
+    }
+  }
+
   // ---------- events ----------
 
   onClick(e) {
+    // Occurrence chips / loader (card back) — handled before the action dispatch
+    const vv = e.target.closest('[data-vocab-verse]');
+    if (vv) {
+      e.stopPropagation();
+      const ref = vv.getAttribute('data-vocab-verse');
+      const word = this.deck[this.cardIndex];
+      if (typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: word ? word.arabic : null });
+      return;
+    }
+    const vo = e.target.closest('[data-vocab-occ]');
+    if (vo) { e.stopPropagation(); this.loadOccurrences(); return; }
+
     const el = e.target.closest('[data-action]');
     if (!el || !this.root.contains(el)) return;
 
@@ -240,6 +271,8 @@ class VocabTrainer {
       <p class="text-sm text-gray-500 dark:text-gray-400 mt-6">
         ${t('vocab_occurrences', lang).replace('{count}', word.count)}
       </p>
+      <button data-vocab-occ class="mt-3 px-3 py-1.5 text-xs rounded-lg border border-gray-300 dark:border-gray-600 text-primary dark:text-blue-300 hover:bg-gray-100 dark:hover:bg-gray-700">📿 ${t('names_search_quran', lang)}</button>
+      <div id="vocab-occ" class="mt-2 flex flex-wrap gap-1.5 justify-center"></div>
     `;
 
     return `

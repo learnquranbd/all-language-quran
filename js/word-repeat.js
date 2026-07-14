@@ -46,12 +46,13 @@ class WordRepeat {
     if (this.loaded) { this.render(); return; }
     this.container.innerHTML = `<div class="text-center py-16 text-gray-400">${this.tt('loading')}</div>`;
     try {
-      const [tk, rt, wi] = await Promise.all([
+      const [tk, rt, wi, sf] = await Promise.all([
         fetch('data/quran-tokens.json').then(r => r.json()),
         fetch('data/roots.json').then(r => r.json()),
-        fetch('data/word-index.json').then(r => r.json()).catch(() => null)
+        fetch('data/word-index.json').then(r => r.json()).catch(() => null),
+        fetch('data/sarf.json').then(r => r.json()).then(d => new Set(d.order)).catch(() => null)
       ]);
-      this.tokens = tk; this.roots = rt; this.wordIndex = wi;
+      this.tokens = tk; this.roots = rt; this.wordIndex = wi; this.sarfRoots = sf;
     } catch (e) {
       this.container.innerHTML = `<div class="text-center py-16 text-red-500">${this.tt('topics_load_error')}</div>`;
       return;
@@ -74,6 +75,10 @@ class WordRepeat {
       if (wp) { if (!this._ayahAudio) this._ayahAudio = new Audio(); this._ayahAudio.src = wp.getAttribute('data-word-audio'); this._ayahAudio.play().catch(() => {}); return; }
       const fp = e.target.closest('[data-ayah-audio]');
       if (fp) { if (!this._ayahAudio) this._ayahAudio = new Audio(); this._ayahAudio.src = fp.getAttribute('data-ayah-audio'); this._ayahAudio.play().catch(() => {}); return; }
+
+      // Root → full Sarf conjugation chart (explicit navigation)
+      const sl = e.target.closest('[data-sarf-link]');
+      if (sl) { if (typeof sarf !== 'undefined' && sarf) sarf.openRoot(sl.getAttribute('data-sarf-link')); return; }
 
       const rep = e.target.closest('[data-onlyrep]');
       if (rep) { this.onlyRepeated = !this.onlyRepeated; this.openTerm = null; this.openVerse = null; this.renderResults(); return; }
@@ -291,7 +296,10 @@ class WordRepeat {
             ${x.quran != null ? `<span class="text-[10px] px-1.5 py-0.5 rounded-full bg-primary/10 text-primary dark:text-blue-300" title="${this.tt('wr_in_quran')}">${this.tt('wr_quran_short')} ×${x.quran}</span>` : ''}
           </span>
         </button>
-        ${x.refs.length ? `<div class="px-2 pb-1 text-center"><button data-occ="${this.esc(x.term)}" class="text-[10px] text-gray-400 hover:text-primary">${open ? '▾' : '▸'} ${x.refs.length} ${this.tt('topics_verses_label')}</button></div>` : ''}
+        ${x.refs.length ? `<div class="px-2 pb-1 flex items-center justify-center gap-2">
+          <button data-occ="${this.esc(x.term)}" class="text-[10px] text-gray-400 hover:text-primary">${open ? '▾' : '▸'} ${x.refs.length} ${this.tt('topics_verses_label')}</button>
+          ${this.type === 'root' && this.sarfRoots && this.sarfRoots.has(x.term) ? `<button data-sarf-link="${this.esc(x.term)}" title="${this.tt('sarf_title')}" class="text-[10px] px-1.5 py-0.5 rounded-full bg-fuchsia-500/10 text-fuchsia-600 dark:text-fuchsia-300 hover:bg-fuchsia-500 hover:text-white">🧬 ${this.tt('sarf_title')}</button>` : ''}
+        </div>` : ''}
         ${open ? `
           <div class="mx-2 mb-2 p-2 rounded-lg bg-gray-50 dark:bg-gray-900/40">
             <div class="flex flex-wrap gap-1.5 justify-center">
