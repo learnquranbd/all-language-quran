@@ -82,7 +82,8 @@ class WordRepeat {
       if (sl) { if (typeof sarf !== 'undefined' && sarf) sarf.openRoot(sl.getAttribute('data-sarf-link')); return; }
 
       const rep = e.target.closest('[data-onlyrep]');
-      if (rep) { this.onlyRepeated = !this.onlyRepeated; this.openTerm = null; this.openVerse = null; this.renderResults(); return; }
+      // Full render — the toggle pill itself lives outside #wr-results
+      if (rep) { this.onlyRepeated = !this.onlyRepeated; this.openTerm = null; this.openVerses.clear(); this.qOpen.clear(); this.render(); return; }
       // "Quran ×N" badge → expand this word's Quran-wide occurrences in place
       const qocc = e.target.closest('[data-qocc]');
       if (qocc) {
