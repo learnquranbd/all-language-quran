@@ -142,7 +142,7 @@ class QuizCenter {
   }
 
   ar(text, cls = '!text-3xl') {
-    return `<span class="ayah-arabic ${cls}" dir="rtl">${this.esc(text)}</span>`;
+    return `<span class="ayah-arabic !leading-loose ${cls}" dir="rtl">${this.esc(text)}</span>`;
   }
 
   // Load one surah's plain-text verses from bundled quran-json (verse_0 skipped)
@@ -628,7 +628,7 @@ class QuizCenter {
     const lang = this.language;
     const cards = this.types.map(type => `
       <button data-action="pick-type" data-type="${type.id}"
-              class="text-left rounded-2xl p-5 text-white shadow-lg bg-gradient-to-br ${type.color}
+              class="text-start rounded-2xl p-5 text-white shadow-lg bg-gradient-to-br ${type.color}
                      hover:scale-[1.02] transition-transform focus:outline-none focus:ring-2 focus:ring-white/60">
         <div class="text-4xl mb-2">${type.emoji}</div>
         <div class="text-lg font-bold leading-tight">${this.esc(this.typeName(type))}</div>
@@ -671,14 +671,14 @@ class QuizCenter {
       pickerUI = `
         <label class="block text-sm text-gray-500 dark:text-gray-400 mb-1">${t('select_surah', lang)}</label>
         <select data-action="set-surah"
-                class="w-full px-4 py-2 rounded-lg bg-white dark:bg-gray-700 border border-gray-300 dark:border-gray-600">
+                class="w-full px-4 py-2 rounded-lg bg-white dark:bg-gray-700 text-gray-800 dark:text-gray-100 border border-gray-300 dark:border-gray-600 focus:outline-none focus:ring-2 focus:ring-primary dark:focus:ring-blue-500">
           ${SURAH_DATA.map(s => `<option value="${s.number}" ${s.number === scope.surah ? 'selected' : ''}>${this.esc(formatSurahOption(s, lang))}</option>`).join('')}
         </select>`;
     } else if (scope.kind === 'juz') {
       pickerUI = `
         <label class="block text-sm text-gray-500 dark:text-gray-400 mb-1">${t('juz', lang)}</label>
         <select data-action="set-juz"
-                class="w-full px-4 py-2 rounded-lg bg-white dark:bg-gray-700 border border-gray-300 dark:border-gray-600">
+                class="w-full px-4 py-2 rounded-lg bg-white dark:bg-gray-700 text-gray-800 dark:text-gray-100 border border-gray-300 dark:border-gray-600 focus:outline-none focus:ring-2 focus:ring-primary dark:focus:ring-blue-500">
           ${JUZ_DATA.map(j => `<option value="${j.number}" ${j.number === scope.juz ? 'selected' : ''}>${t('juz', lang)} ${j.number}</option>`).join('')}
         </select>`;
     }
@@ -733,7 +733,7 @@ class QuizCenter {
         ${scopeUI}
         ${subUI}
         ${diffUI}
-        <div class="max-w-sm mx-auto text-left mb-5">${pickerUI}</div>
+        <div class="max-w-sm mx-auto text-start mb-5">${pickerUI}</div>
         ${this.buildError ? `<p class="text-sm text-red-600 dark:text-red-400 mb-4">${t('quiz_no_data', lang)}</p>` : ''}
         <button data-action="start"
                 class="px-8 py-3 bg-primary hover:bg-primary/80 text-white rounded-xl font-semibold transition-colors">
@@ -765,8 +765,8 @@ class QuizCenter {
                      : 'bg-gray-200 dark:bg-gray-700 text-gray-400 blur-[1.5px]';
       // Revealed chips are clickable → open that ayah inline.
       chips += on
-        ? `<button data-action="show-ayah" data-ayah="${a}" data-ayah-chip="${a}" title="${this.scope.surah}:${a}" class="inline-flex items-center justify-center w-7 h-7 rounded-md text-xs font-medium transition-all ${cls}">${a}</button>`
-        : `<span data-ayah-chip="${a}" class="inline-flex items-center justify-center w-7 h-7 rounded-md text-xs font-medium transition-all ${cls}">${a}</span>`;
+        ? `<button data-action="show-ayah" data-ayah="${a}" data-ayah-chip="${a}" title="${this.scope.surah}:${a}" aria-label="${this.scope.surah}:${a}" class="inline-flex items-center justify-center w-8 h-8 rounded-md text-xs font-medium transition-all ${cls}">${a}</button>`
+        : `<span data-ayah-chip="${a}" class="inline-flex items-center justify-center w-8 h-8 rounded-md text-xs font-medium transition-all ${cls}">${a}</span>`;
     }
     return `
       <div class="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-3 mb-4">
@@ -783,8 +783,9 @@ class QuizCenter {
     const options = q.options.map((o, i) => `
       <button data-action="answer" data-i="${i}" dir="auto"
               class="relative w-full px-4 py-4 rounded-xl text-lg font-medium border-2 border-gray-200 dark:border-gray-700
-                     bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-100
-                     hover:border-primary dark:hover:border-blue-400 transition-colors text-center">
+                     bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-100 break-words
+                     hover:border-primary dark:hover:border-blue-400 transition-colors text-center
+                     focus:outline-none focus-visible:ring-2 focus-visible:ring-primary dark:focus-visible:ring-blue-400 focus-visible:ring-offset-2 dark:focus-visible:ring-offset-gray-900">
         <span class="hidden sm:flex absolute top-1.5 left-2 w-5 h-5 rounded-md bg-gray-100 dark:bg-gray-700 text-[10px] text-gray-400 items-center justify-center" aria-hidden="true">${i + 1}</span>
         ${o.html}
       </button>`).join('');

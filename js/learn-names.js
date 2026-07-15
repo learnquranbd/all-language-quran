@@ -202,7 +202,8 @@ class NamesOfAllah {
       <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl border border-gray-200 dark:border-gray-700 w-full max-w-lg max-h-[85vh] flex flex-col">
         <div class="flex items-center gap-2 px-5 py-3 border-b border-gray-200 dark:border-gray-700">
           <h3 id="names-detail-title" class="flex-1 font-bold text-gray-800 dark:text-gray-100"></h3>
-          <button id="names-detail-close" class="p-2 rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
+          <button id="names-detail-close" title="${t('close', this.language)}" aria-label="${t('close', this.language)}"
+                  class="p-2 min-w-[2.5rem] min-h-[2.5rem] rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
         </div>
         <div id="names-detail-body" class="flex-1 overflow-y-auto p-5"></div>
       </div>`;
@@ -571,7 +572,7 @@ class NamesOfAllah {
         <span class="absolute top-2 start-2 w-7 h-7 flex items-center justify-center text-xs font-bold rounded-full
                      bg-primary/10 text-primary dark:bg-blue-900/40 dark:text-blue-300">${name.n}</span>
         ${check}
-        <span class="ayah-arabic !text-3xl !leading-normal" dir="rtl">${name.ar}</span>
+        <span class="ayah-arabic !text-3xl !leading-[2.2] max-w-full break-words" dir="rtl">${name.ar}</span>
         <span class="text-sm font-semibold text-gray-700 dark:text-gray-200" dir="ltr">${name.translit}</span>
         <span class="text-xs text-gray-500 dark:text-gray-400" dir="auto">${this.meaningOf(name)}</span>
       </button>
@@ -626,7 +627,7 @@ class NamesOfAllah {
                          px-4 py-3 text-start hover:shadow transition-all">
             <span class="w-7 h-7 shrink-0 flex items-center justify-center text-xs font-bold rounded-full
                          bg-primary/10 text-primary dark:bg-blue-900/40 dark:text-blue-300">${name.n}</span>
-            <span class="ayah-arabic !text-2xl !leading-normal shrink-0" dir="rtl">${name.ar}</span>
+            <span class="ayah-arabic !text-2xl !leading-[2.2] min-w-0 break-words" dir="rtl">${name.ar}</span>
             <span class="flex-1 min-w-0">
               ${revealed
                 ? `<span class="block text-sm font-semibold text-gray-700 dark:text-gray-200" dir="ltr">${name.translit}</span>
@@ -767,12 +768,12 @@ class NamesOfAllah {
     const questionCard = rev
       ? `<div class="text-2xl font-bold text-gray-800 dark:text-gray-100" dir="auto">${this.meaningOf(q)}</div>
          <p class="text-sm text-gray-500 dark:text-gray-400 mt-4">${t('names_choose_name', lang)}</p>`
-      : `<div class="ayah-arabic !text-6xl !leading-normal" dir="rtl">${q.ar}</div>
+      : `<div class="ayah-arabic !text-6xl !leading-[2.2] break-words" dir="rtl">${q.ar}</div>
          <div class="text-base text-gray-400 dark:text-gray-500 italic mt-3" dir="ltr">${q.translit}</div>
          <p class="text-sm text-gray-500 dark:text-gray-400 mt-4">${t('vocab_choose_meaning', lang)}</p>`;
 
     const choiceLabel = (c) => rev
-      ? `<span class="ayah-arabic !text-2xl !leading-normal block" dir="rtl">${c.name.ar}</span>
+      ? `<span class="ayah-arabic !text-2xl !leading-[2.2] block break-words" dir="rtl">${c.name.ar}</span>
          <span class="block text-xs text-gray-400 dark:text-gray-500 mt-1" dir="ltr">${c.name.translit}</span>`
       : this.meaningOf(c.name);
 

@@ -443,11 +443,11 @@ class Bookmarks {
       <h3 class="text-xs uppercase font-semibold text-gray-400 dark:text-gray-500 mb-2 px-1 flex items-center gap-1">
         <span>★ ${t('your_bookmarks', lang)}</span>
         <span class="normal-case px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-300 text-[10px] font-medium">${bookmarks.length}</span>
-        <button id="bm-sort" class="ml-auto p-1 rounded normal-case font-medium text-gray-400 hover:text-primary hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-0.5"
-                title="${t('sort_by', lang)}">↕ <span class="hidden sm:inline">${t(this.sortMode === 'surah' ? 'sort_surah' : 'sort_recent', lang)}</span></button>
-        <button id="bm-export-json" class="p-1 rounded text-gray-400 hover:text-primary hover:bg-gray-100 dark:hover:bg-gray-700 normal-case font-mono" title="${t('export_json', lang)}">{ }</button>
-        <button id="bm-import" class="p-1 rounded normal-case ${this.importing ? 'text-primary' : 'text-gray-400'} hover:text-primary hover:bg-gray-100 dark:hover:bg-gray-700" title="${t('import_bookmarks', lang)}">📥</button>
-        <button id="bm-export" class="p-1 rounded text-gray-400 hover:text-primary hover:bg-gray-100 dark:hover:bg-gray-700 normal-case" title="${t('copy', lang)}">📋</button>
+        <button id="bm-sort" class="ml-auto p-1.5 rounded normal-case font-medium text-gray-400 hover:text-primary dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-0.5"
+                title="${t('sort_by', lang)}" aria-label="${t('sort_by', lang)}">↕ <span class="hidden sm:inline">${t(this.sortMode === 'surah' ? 'sort_surah' : 'sort_recent', lang)}</span></button>
+        <button id="bm-export-json" class="p-1.5 rounded text-gray-400 hover:text-primary dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700 normal-case font-mono" title="${t('export_json', lang)}" aria-label="${t('export_json', lang)}">{ }</button>
+        <button id="bm-import" class="p-1.5 rounded normal-case ${this.importing ? 'text-primary dark:text-blue-400' : 'text-gray-400'} hover:text-primary dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700" title="${t('import_bookmarks', lang)}" aria-label="${t('import_bookmarks', lang)}">📥</button>
+        <button id="bm-export" class="p-1.5 rounded text-gray-400 hover:text-primary dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700 normal-case" title="${t('copy', lang)}" aria-label="${t('copy', lang)}">📋</button>
       </h3>`;
 
     // Search box
@@ -520,19 +520,19 @@ class Bookmarks {
             <span class="text-xs text-gray-400 dark:text-gray-500 shrink-0">${this.escapeHtml(key)}</span>
             ${coll ? `<span class="text-[10px] px-1.5 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-blue-900/40 dark:text-blue-300 shrink-0 truncate max-w-[8rem]" dir="auto">${this.escapeHtml(coll)}</span>` : ''}
           </button>
-          <button class="bm-collection p-1 rounded ${coll ? 'text-primary' : 'text-gray-400'} hover:text-primary hover:bg-gray-200 dark:hover:bg-gray-600"
-                  data-key="${this.escapeHtml(key)}" title="${t('move_to_collection', lang)}">📁</button>
-          <button class="bm-note p-1 rounded ${note ? 'text-amber-500' : 'text-gray-400'} hover:text-amber-500 hover:bg-gray-200 dark:hover:bg-gray-600"
-                  data-key="${this.escapeHtml(key)}" title="${t('bookmark_note', lang)}">📝</button>
-          <button class="bm-remove p-1 rounded text-gray-400 hover:text-red-500 hover:bg-gray-200 dark:hover:bg-gray-600"
-                  data-key="${this.escapeHtml(key)}" title="${t('remove_bookmark', lang)}">✕</button>
+          <button class="bm-collection p-2 rounded-lg ${coll ? 'text-primary dark:text-blue-400' : 'text-gray-400'} hover:text-primary dark:hover:text-blue-400 hover:bg-gray-200 dark:hover:bg-gray-600"
+                  data-key="${this.escapeHtml(key)}" title="${t('move_to_collection', lang)}" aria-label="${t('move_to_collection', lang)}">📁</button>
+          <button class="bm-note p-2 rounded-lg ${note ? 'text-amber-500' : 'text-gray-400'} hover:text-amber-500 hover:bg-gray-200 dark:hover:bg-gray-600"
+                  data-key="${this.escapeHtml(key)}" title="${t('bookmark_note', lang)}" aria-label="${t('bookmark_note', lang)}">📝</button>
+          <button class="bm-remove p-2 rounded-lg text-gray-400 hover:text-red-500 dark:hover:text-red-400 hover:bg-gray-200 dark:hover:bg-gray-600"
+                  data-key="${this.escapeHtml(key)}" title="${t('remove_bookmark', lang)}" aria-label="${t('remove_bookmark', lang)}">✕</button>
         </div>
         ${!editingNote && note ? `<p class="ml-7 mt-0.5 text-xs italic text-gray-500 dark:text-gray-400" dir="auto">${this.escapeHtml(note)}</p>` : ''}
         ${editingNote ? `
           <div class="ml-7 mt-1 flex items-center gap-1">
             <input id="bm-note-input" type="text" value="${this.escapeHtml(note)}" maxlength="200" dir="auto"
                    class="flex-1 px-2 py-1 text-xs rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-primary">
-            <button class="bm-note-save px-2 py-1 text-xs rounded-md bg-primary text-white hover:bg-primary/80" data-key="${this.escapeHtml(key)}">✓</button>
+            <button class="bm-note-save px-2.5 py-1.5 text-xs rounded-md bg-primary text-white hover:bg-primary/80" data-key="${this.escapeHtml(key)}" title="${t('ponder_save', lang)}" aria-label="${t('ponder_save', lang)}">✓</button>
           </div>` : ''}
         ${editingColl ? `
           <div class="ml-7 mt-1">
@@ -540,7 +540,7 @@ class Bookmarks {
               <input id="bm-collection-input" type="text" value="${this.escapeHtml(coll)}" maxlength="40" dir="auto"
                      placeholder="${t('new_collection', lang)}"
                      class="flex-1 px-2 py-1 text-xs rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-primary">
-              <button class="bm-collection-save px-2 py-1 text-xs rounded-md bg-primary text-white hover:bg-primary/80" data-key="${this.escapeHtml(key)}">✓</button>
+              <button class="bm-collection-save px-2.5 py-1.5 text-xs rounded-md bg-primary text-white hover:bg-primary/80" data-key="${this.escapeHtml(key)}" title="${t('ponder_save', lang)}" aria-label="${t('ponder_save', lang)}">✓</button>
             </div>
             ${collPicks ? `<div class="flex flex-wrap gap-1 mt-1">${collPicks}</div>` : ''}
           </div>` : ''}

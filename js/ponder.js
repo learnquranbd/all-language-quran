@@ -234,7 +234,7 @@ class PonderCard {
       <div id="dev-notice" class="w-full mt-4 rounded-2xl border border-amber-300 dark:border-amber-500/40 bg-amber-50 dark:bg-amber-500/10 px-5 py-4 relative">
         <button data-dismiss-dev class="absolute top-2 right-2 p-1.5 rounded-lg text-amber-700/70 dark:text-amber-300/70 hover:bg-amber-100 dark:hover:bg-amber-500/20" aria-label="${t('close', lang)}">✕</button>
         <div class="flex items-start gap-3 pr-6">
-          <span class="text-2xl">🚧</span>
+          <span class="text-2xl" aria-hidden="true">🚧</span>
           <div>
             <p class="font-bold text-amber-800 dark:text-amber-200">${t('dev_notice_title', lang)}</p>
             <p class="text-sm text-amber-700 dark:text-amber-300/90 mt-0.5">${t('dev_notice_body', lang)}
@@ -465,7 +465,7 @@ class PonderCard {
                 <button data-ponder-delcancel class="px-2 py-1 rounded text-xs text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">${t('ponder_cancel', lang)}</button>
               ` : `
                 <button data-ponder-edit="${it.ts}" class="px-2 py-1 rounded text-xs text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">✏️ ${t('ponder_edit', lang)}</button>
-                <button data-ponder-copy="${it.ts}" class="px-2 py-1 rounded text-xs text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">📋</button>
+                <button data-ponder-copy="${it.ts}" class="px-2 py-1 rounded text-xs text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700" title="${t('copy', lang)}" aria-label="${t('copy', lang)}">📋</button>
                 <button data-ponder-del="${it.ts}" class="px-2 py-1 rounded text-xs text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">🗑️ ${t('ponder_delete', lang)}</button>
               `}
             </div>

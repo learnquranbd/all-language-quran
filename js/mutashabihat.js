@@ -93,7 +93,7 @@ class Mutashabihat {
           <p class="text-gray-500 dark:text-gray-400 text-sm">${this.tt('mutashabihat_subtitle')}</p>
         </div>
         <div class="flex flex-wrap items-center justify-center gap-2 mb-4">
-          <select id="mt-surah" class="px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm">
+          <select id="mt-surah" aria-label="${this.tt('select_surah')}" class="px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm">
             ${SURAH_DATA.map(s => {
               const n = Object.keys(this.index || {}).filter(k => k.startsWith(s.number + ':')).length;
               return `<option value="${s.number}" ${s.number === this.surah ? 'selected' : ''}>${this.esc(formatSurahOption(s, lang))}${n ? ` · ${n}` : ''}</option>`;
@@ -117,7 +117,7 @@ class Mutashabihat {
       const [s, a] = ref.split(':');
       const nm = (typeof getSurahName === 'function') ? getSurahName(parseInt(s), this.language) : s;
       return `<button data-mt-ref="${ref}" title="${this.tt('mutashabihat_shared')}: ${len} ${this.tt('mt_words')}"
-                class="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg border border-gray-200 dark:border-gray-700 text-xs hover:border-primary hover:bg-primary/5">
+                class="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-lg border border-gray-200 dark:border-gray-700 text-xs hover:border-primary hover:bg-primary/5 dark:hover:bg-primary/10 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
                 <span class="ayah-arabic !text-sm !mb-0 !pb-0 !border-b-0 !leading-none">${this.esc(this.shortName(s))}</span>
                 <span class="text-gray-500 dark:text-gray-400">${ref}</span>
                 <span class="text-[0.65rem] text-amber-600 dark:text-amber-400">${len} ${this.tt('mt_words')}</span>
@@ -128,9 +128,9 @@ class Mutashabihat {
         <div class="flex items-center gap-2 mb-2 text-sm text-gray-500 dark:text-gray-400">
           <span class="ayah-number">${ayah}</span>
           <span>${this.tt('ayah')} ${ayah}</span>
-          <button data-mt-open="${key}" class="ms-auto text-xs text-primary dark:text-blue-400 hover:underline">${this.tt('preview')} ↗</button>
+          <button data-mt-open="${key}" class="ms-auto px-2 py-1.5 -me-2 rounded-lg text-xs text-primary dark:text-blue-400 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">${this.tt('preview')} ↗</button>
         </div>
-        <div class="ayah-arabic !text-2xl !leading-loose mb-3" dir="rtl">${this.verseHtml(key, topStart, topLen)}</div>
+        <div class="ayah-arabic !text-2xl !leading-[2.4] mb-3" dir="rtl">${this.verseHtml(key, topStart, topLen)}</div>
         <div class="text-xs text-gray-400 dark:text-gray-500 mb-1.5">${this.tt('mutashabihat_similar')} (${sims.length})</div>
         <div class="flex flex-wrap gap-2">${chips}</div>
       </div>`;

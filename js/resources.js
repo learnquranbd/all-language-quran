@@ -126,7 +126,7 @@ class ResourcesView {
                   <span class="flex items-center gap-2 font-semibold text-gray-800 dark:text-gray-100">
                     <span class="text-lg" aria-hidden="true">${it.emoji}</span>
                     <span class="flex-1 min-w-0 truncate">${this.esc(it.name)}</span>
-                    <span class="text-gray-300 group-hover:text-primary transition-colors" aria-hidden="true">↗</span>
+                    <span class="text-gray-300 dark:text-gray-600 group-hover:text-primary dark:group-hover:text-blue-400 transition-colors" aria-hidden="true">↗</span>
                   </span>
                   <span class="text-xs text-gray-500 dark:text-gray-400 leading-relaxed" dir="auto">${this.esc(this.desc(it))}</span>
                   <span class="text-[0.65rem] text-gray-400 dark:text-gray-500 truncate" dir="ltr">${this.esc(it.url.replace(/^https?:\/\//, ''))}</span>

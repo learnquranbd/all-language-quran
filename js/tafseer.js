@@ -124,8 +124,11 @@ class TafseerView {
     const style = document.createElement('style');
     style.id = 'tafseer-styles';
     style.textContent = `
-      .tafseer-body { line-height: 1.8; font-size: calc(1rem * var(--tafsir-scale, 1)); }
+      .tafseer-body { line-height: 1.8; font-size: calc(1rem * var(--tafsir-scale, 1)); overflow-wrap: break-word; }
       .tafseer-body p { margin: 0 0 0.75rem; }
+      /* API HTML can contain wide tables/images: keep them inside the card */
+      .tafseer-body table { display: block; max-width: 100%; overflow-x: auto; }
+      .tafseer-body img { max-width: 100%; height: auto; }
       .tafseer-body h1, .tafseer-body h2, .tafseer-body h3, .tafseer-body h4 {
         font-weight: 600; margin: 1rem 0 0.5rem;
       }
@@ -140,6 +143,21 @@ class TafseerView {
       /* Compare mode: two source columns side by side on wide screens */
       .tafseer-compare-grid { display: grid; gap: 1rem; }
       @media (min-width: 768px) { .tafseer-compare-grid { grid-template-columns: 1fr 1fr; } }
+      /* Visible keyboard focus on the pane's controls */
+      #tafseer-content button:focus-visible, #tafseer-content select:focus-visible {
+        outline: 2px solid #1e40af; outline-offset: 2px;
+      }
+      .dark #tafseer-content button:focus-visible, .dark #tafseer-content select:focus-visible {
+        outline-color: #60a5fa;
+      }
+      /* Comfortable touch targets for the small pill controls on phones */
+      @media (max-width: 640px) {
+        #tafsir-toolbar button, #tafseer-content [data-tafsir-copy],
+        #tafseer-content [data-tafsir-jump], #tafseer-content [data-tafsir-rel],
+        #tafseer-content [data-tafsir-retry] {
+          min-height: 2.5rem; min-width: 2.5rem;
+        }
+      }
     `;
     document.head.appendChild(style);
   }
@@ -498,7 +516,7 @@ class TafseerView {
       <div class="border border-gray-100 dark:border-gray-700 rounded-lg mb-3 overflow-hidden"
            data-tafseer-card="${ayah.key}">
         <button type="button"
-                class="tafseer-toggle w-full flex items-center justify-between gap-3 px-4 py-3 text-left
+                class="tafseer-toggle w-full flex items-center justify-between gap-3 px-4 py-3 text-start
                        hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors"
                 data-key="${ayah.key}" aria-expanded="false">
           ${this.ayahHeaderHtml(ayah, false)}
@@ -508,7 +526,7 @@ class TafseerView {
           </svg>
         </button>
         <div class="tafseer-panel hidden px-4 pb-4">
-          <div class="text-right"><button data-tafsir-copy="${ayah.key}" title="${t('copy', this.language)}" aria-label="${t('copy', this.language)}"
+          <div class="text-end"><button data-tafsir-copy="${ayah.key}" title="${t('copy', this.language)}" aria-label="${t('copy', this.language)}"
                 class="px-2 py-1 text-xs rounded-md border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700">📋</button></div>
           ${this.ayahArabicHtml(ayah)}
           ${this.bodiesHtml(tafsirId)}

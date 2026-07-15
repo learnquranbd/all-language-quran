@@ -200,7 +200,7 @@ class LearnHub {
       </div>
       ${this.dashboardHtml(prog)}
       ${this.continueHtml(prog)}
-      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-5 w-full">
+      <div class="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-5 w-full">
         ${LEARN_CARDS.map(c => this.cardHtml(c, prog[c.module])).join('')}
       </div>
       ${this.resourcesHtml(lang)}
@@ -243,7 +243,7 @@ class LearnHub {
                      hover:shadow-2xl hover:-translate-y-1 transition-all duration-200">
         <div class="relative h-28 bg-gradient-to-br ${c.grad} flex items-center justify-center text-6xl">
           ${c.emoji}
-          <span class="absolute top-2 right-2 text-[10px] font-semibold px-2 py-0.5 rounded-full bg-white/25 text-white backdrop-blur-sm">${this.tt(c.level)}</span>
+          <span class="absolute top-2 end-2 text-[10px] font-semibold px-2 py-0.5 rounded-full bg-white/25 text-white backdrop-blur-sm">${this.tt(c.level)}</span>
         </div>
         <div class="p-4">
           <h3 class="font-bold mb-1">${t(c.title, lang)}</h3>

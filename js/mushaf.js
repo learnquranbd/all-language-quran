@@ -770,8 +770,8 @@ class MushafView {
                      bg-white dark:bg-gray-700 border border-gray-300 dark:border-gray-600">
           <button class="mushaf-bm-go text-gray-700 dark:text-gray-200 hover:text-primary" data-page="${p}"
                   title="${t('page', lang)} ${p}">${t('page', lang)} ${p}${name ? ' · ' + name : ''}</button>
-          <button class="mushaf-bm-del w-4 h-4 flex items-center justify-center rounded-full
-                         text-gray-400 hover:text-red-500" data-page="${p}"
+          <button class="mushaf-bm-del w-6 h-6 -my-1 flex items-center justify-center rounded-full
+                         text-gray-400 hover:text-red-500 dark:hover:text-red-400 hover:bg-gray-100 dark:hover:bg-gray-600" data-page="${p}"
                   title="${t('mushaf_bookmark_remove', lang)}" aria-label="${t('mushaf_bookmark_remove', lang)}">×</button>
         </span>`;
     }).join('');

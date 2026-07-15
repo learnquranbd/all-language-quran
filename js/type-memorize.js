@@ -143,7 +143,7 @@ class TypeMemorize {
             <label class="flex items-center gap-1.5 cursor-pointer">
               <input type="checkbox" id="tm-strict" ${this.strictTashkeel ? 'checked' : ''} class="w-4 h-4"> ${t('typemem_strict', lang)}
             </label>
-            <button id="tm-reveal" class="px-2.5 py-1 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700">💡 ${t('typemem_reveal', lang)}</button>
+            <button id="tm-reveal" class="px-2.5 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700">💡 ${t('typemem_reveal', lang)}</button>
             <span class="ml-auto font-mono">⏱ <span id="tm-timer">0:00</span></span>
           </div>
 
@@ -166,7 +166,7 @@ class TypeMemorize {
             <button id="tm-clear" class="px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700">${t('clear', lang)}</button>
           </div>
 
-          <div id="tm-result" class="hidden"></div>
+          <div id="tm-result" class="hidden" aria-live="polite"></div>
           <div id="tm-session" class="hidden"></div>
         </div>
       </div>
@@ -201,11 +201,11 @@ class TypeMemorize {
         <summary class="px-3 py-2 text-sm cursor-pointer select-none text-gray-600 dark:text-gray-300">⌨️ ${t('arabic_keyboard', lang)}</summary>
         <div class="p-2 space-y-1" dir="rtl">
           ${rows.map(r => `<div class="flex flex-wrap justify-center gap-1">
-            ${r.split(' ').map(c => `<button data-tm-key="${c}" class="w-8 h-9 rounded bg-gray-100 dark:bg-gray-700 ayah-arabic !text-xl hover:bg-blue-100 dark:hover:bg-gray-600">${c}</button>`).join('')}
+            ${r.split(' ').map(c => `<button data-tm-key="${c}" class="w-9 h-10 rounded bg-gray-100 dark:bg-gray-700 ayah-arabic !text-xl hover:bg-blue-100 dark:hover:bg-gray-600">${c}</button>`).join('')}
           </div>`).join('')}
           <div class="flex justify-center gap-1">
-            <button data-tm-key=" " class="px-8 h-9 rounded bg-gray-100 dark:bg-gray-700 text-xs hover:bg-blue-100 dark:hover:bg-gray-600">${t('typemem_space', lang)}</button>
-            <button data-tm-key="BS" class="px-4 h-9 rounded bg-gray-100 dark:bg-gray-700 hover:bg-blue-100 dark:hover:bg-gray-600">⌫</button>
+            <button data-tm-key=" " class="px-8 h-10 rounded bg-gray-100 dark:bg-gray-700 text-xs hover:bg-blue-100 dark:hover:bg-gray-600">${t('typemem_space', lang)}</button>
+            <button data-tm-key="BS" aria-label="${t('clear', lang)}" title="${t('clear', lang)}" class="px-4 h-10 rounded bg-gray-100 dark:bg-gray-700 hover:bg-blue-100 dark:hover:bg-gray-600">⌫</button>
           </div>
         </div>
       </details>
@@ -373,7 +373,7 @@ class TypeMemorize {
     res.innerHTML = `
       <div class="p-3 rounded-lg bg-gray-50 dark:bg-gray-900/40">
         <div class="text-center font-bold mb-2">🏁 ${t('typemem_session', lang)}</div>
-        <div class="flex justify-center gap-4 text-sm mb-3">
+        <div class="flex flex-wrap justify-center gap-x-4 gap-y-1 text-sm mb-3">
           <span>${t('typemem_ayat_done', lang)}: <b>${s.count}</b></span>
           <span>${t('typemem_avg_accuracy', lang)}: <b>${avg}%</b></span>
           <span>${t('typemem_total_time', lang)}: <b>${this.fmtTime(s.sumMs)}</b></span>

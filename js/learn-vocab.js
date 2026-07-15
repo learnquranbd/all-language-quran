@@ -462,7 +462,7 @@ class VocabTrainer {
       ? 'bg-primary text-white dark:bg-blue-600'
       : 'bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-300 border border-gray-200 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-700';
     const badgeHtml = badge
-      ? `<span class="ml-1 px-1.5 py-0.5 rounded-full text-[10px] font-bold align-middle ${active ? 'bg-white/25' : 'bg-amber-500 text-white'}">${badge}</span>`
+      ? `<span class="ms-1 px-1.5 py-0.5 rounded-full text-[10px] font-bold align-middle ${active ? 'bg-white/25' : 'bg-amber-500 text-white'}">${badge}</span>`
       : '';
     return `
       <button data-action="mode" data-mode="${mode}"
@@ -573,7 +573,7 @@ class VocabTrainer {
         </div>
         <div class="flex flex-wrap items-center justify-between gap-3 mt-2">
           <div>
-            <div class="ayah-arabic !text-5xl !leading-normal" dir="rtl">${w.arabic}</div>
+            <div class="ayah-arabic !text-5xl !leading-normal !text-white break-words" dir="rtl">${w.arabic}</div>
             <div class="text-sm italic opacity-80" dir="ltr">${w.translit}</div>
             <div class="text-lg font-semibold mt-1" dir="auto">${this.escapeHtml(this.meaningOf(w))}</div>
           </div>
@@ -950,12 +950,12 @@ class VocabTrainer {
         b.classList.remove('border-gray-200', 'dark:border-gray-700', 'bg-white', 'dark:bg-gray-800');
         b.classList.add('border-green-500', 'bg-green-100', 'dark:bg-green-900/40',
           'text-green-800', 'dark:text-green-300');
-        b.insertAdjacentHTML('afterbegin', '<span aria-hidden="true" class="mr-1">✓</span>');
+        b.insertAdjacentHTML('afterbegin', '<span aria-hidden="true" class="me-1">✓</span>');
       } else if (b === btn) {
         b.classList.remove('border-gray-200', 'dark:border-gray-700', 'bg-white', 'dark:bg-gray-800');
         b.classList.add('border-red-500', 'bg-red-100', 'dark:bg-red-900/40',
           'text-red-800', 'dark:text-red-300');
-        b.insertAdjacentHTML('afterbegin', '<span aria-hidden="true" class="mr-1">✗</span>');
+        b.insertAdjacentHTML('afterbegin', '<span aria-hidden="true" class="me-1">✗</span>');
       }
     });
 
@@ -1073,7 +1073,7 @@ class VocabTrainer {
         <div class="ayah-arabic !text-6xl !leading-normal" dir="rtl">${w.arabic}</div>
         <div class="flex items-center justify-center gap-2 text-base text-gray-400 dark:text-gray-500 italic" dir="ltr">
           <span>${w.translit}</span>
-          ${this.hasTTS() ? `<button data-action="rev-speak" data-text="${this.escapeHtml(w.arabic)}" class="not-italic text-sm px-2 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 hover:bg-primary hover:text-white">🔊</button>` : ''}
+          ${this.hasTTS() ? `<button data-action="rev-speak" data-text="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_play_word')}" aria-label="${this.tt('vocab_play_word')}" class="not-italic text-sm px-2 py-1 rounded-full bg-gray-100 dark:bg-gray-700 hover:bg-primary hover:text-white">🔊</button>` : ''}
         </div>
         ${this.reviewRevealed ? `
           <div class="text-2xl font-semibold text-gray-800 dark:text-gray-100 pt-2" dir="auto">${this.escapeHtml(this.meaningOf(w))}</div>

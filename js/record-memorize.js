@@ -80,7 +80,7 @@ class RecordMemorize {
           </select>
         </div>
 
-        <div id="rc-recorder" class="text-center mb-4"></div>
+        <div id="rc-recorder" class="text-center mb-4" role="status" aria-live="polite"></div>
         <div id="rc-board" class="bg-white dark:bg-gray-800 rounded-2xl shadow p-4 min-h-[140px]"></div>
         <p class="text-xs text-gray-400 dark:text-gray-500 text-center mt-3">🔒 ${this.tt('rec_privacy')}</p>
       </div>`;
@@ -255,14 +255,14 @@ class RecordMemorize {
                       : st === 'ok' ? 'bg-green-50 dark:bg-green-900/20 border-green-200 dark:border-green-800'
                       : 'border-gray-100 dark:border-gray-700';
           const mbtn = (val, on, txt, cls) =>
-            `<button data-rc="mark" data-key="${a.key}" data-val="${val}" title="${txt}"
-                     class="w-9 h-9 rounded-lg text-base flex items-center justify-center border ${on ? cls + ' text-white' : 'border-gray-300 dark:border-gray-600 text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700'}">${val === 'ok' ? '✓' : '✗'}</button>`;
+            `<button data-rc="mark" data-key="${a.key}" data-val="${val}" title="${txt}" aria-label="${txt}"
+                     class="w-10 h-10 rounded-lg text-base flex items-center justify-center border ${on ? cls + ' text-white' : 'border-gray-300 dark:border-gray-600 text-gray-400 dark:text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700'}">${val === 'ok' ? '✓' : '✗'}</button>`;
           return `
             <div class="flex items-start gap-3 p-3 rounded-xl border ${rowbg}">
               <span class="ayah-number shrink-0 mt-1">${a.ayah}</span>
-              <button data-rc="ref" data-key="${a.key}" data-num="${a.ayah}" title="${this.tt('rec_ref')}"
-                      class="shrink-0 mt-0.5 w-8 h-8 rounded-lg border border-gray-300 dark:border-gray-600 text-primary dark:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700">🔊</button>
-              <div class="ayah-arabic !text-2xl !leading-loose !mb-0 !pb-0 !border-b-0 flex-1 min-w-0" dir="rtl">${this.esc(a.arabic || '')}</div>
+              <button data-rc="ref" data-key="${a.key}" data-num="${a.ayah}" title="${this.tt('rec_ref')}" aria-label="${this.tt('rec_ref')}"
+                      class="shrink-0 w-10 h-10 flex items-center justify-center rounded-lg border border-gray-300 dark:border-gray-600 text-primary dark:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700">🔊</button>
+              <div class="ayah-arabic !text-2xl !leading-loose !mb-0 !pb-0 !border-b-0 flex-1 min-w-0 break-words" dir="rtl">${this.esc(a.arabic || '')}</div>
               <div class="flex gap-1.5 shrink-0">
                 ${mbtn('ok', st === 'ok', this.tt('rec_correct'), 'bg-green-500 border-green-500')}
                 ${mbtn('wrong', st === 'wrong', this.tt('rec_wrong'), 'bg-red-500 border-red-500')}

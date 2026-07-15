@@ -47,7 +47,7 @@ class WordByWord {
         <div class="ayah-play-card bg-white dark:bg-gray-800 rounded-lg shadow p-4 mb-4 transition-shadow" data-play-key="${ayah.key}">
           <div class="flex items-center gap-2 mb-3 text-sm text-gray-500 dark:text-gray-400">
             <span class="ayah-number">${ayah.ayah}</span>
-            <button class="ayah-play-btn p-1.5 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 text-primary dark:text-blue-400 leading-none"
+            <button class="ayah-play-btn p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 text-primary dark:text-blue-400 leading-none"
                     data-play-ref="${ayah.key}" title="${t('play', lang)}" aria-label="${t('play', lang)}">▶</button>
             <span class="ml-auto">${ayah.surahName} ${ayah.key}</span>
           </div>
@@ -88,12 +88,12 @@ class WordByWord {
 
   renderWordTile(ayah, w) {
     return `
-      <button class="wbw-word group text-center px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700
+      <button class="wbw-word group text-center max-w-full px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700
                      hover:border-primary hover:bg-blue-50 dark:hover:bg-gray-700 transition-colors cursor-pointer"
               data-key="${ayah.key}" data-pos="${w.position}">
-        <div class="ayah-arabic !text-2xl !leading-relaxed">${w.arabic}</div>
-        <div class="text-xs text-gray-400 dark:text-gray-500 italic" dir="ltr">${w.translit}</div>
-        <div class="text-sm text-gray-700 dark:text-gray-300" dir="auto">${w.meaning}</div>
+        <div class="ayah-arabic !text-2xl !leading-relaxed !mb-0 !pb-0 !border-b-0">${w.arabic}</div>
+        <div class="text-xs text-gray-400 dark:text-gray-500 italic break-words" dir="ltr">${w.translit}</div>
+        <div class="text-sm text-gray-700 dark:text-gray-300 break-words" dir="auto">${w.meaning}</div>
       </button>
     `;
   }
@@ -142,7 +142,7 @@ class WordByWord {
       <div class="max-w-6xl w-[95vw] mx-auto m-4 bg-white dark:bg-gray-800 rounded-xl shadow-2xl border border-gray-200 dark:border-gray-700 max-h-[85vh] overflow-y-auto">
         <div class="flex items-center justify-between px-5 py-3 border-b border-gray-200 dark:border-gray-700 sticky top-0 bg-white dark:bg-gray-800">
           <div id="wdp-title" class="font-semibold"></div>
-          <button id="wdp-close" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg">✕</button>
+          <button id="wdp-close" aria-label="${t('close', this.language)}" title="${t('close', this.language)}" class="p-2.5 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg leading-none">✕</button>
         </div>
         <div id="wdp-body" class="p-5"></div>
       </div>
@@ -193,8 +193,10 @@ class WordByWord {
     const token = this._detailToken;   // guard: drop stale async renders from rapid clicks
     this._occ = {};   // section id -> {locations, shown}
     this.panel.classList.remove('hidden');
+    const closeBtn = this.panel.querySelector('#wdp-close');
+    if (closeBtn) { closeBtn.setAttribute('aria-label', t('close', lang)); closeBtn.setAttribute('title', t('close', lang)); }
     this.panel.querySelector('#wdp-title').innerHTML =
-      `<span class="ayah-arabic !text-xl">${word.arabic}</span>
+      `<span class="ayah-arabic !text-xl !mb-0 !pb-0 !border-b-0">${word.arabic}</span>
        <span class="text-sm text-gray-500 dark:text-gray-400 mx-2">${ayah.key} · ${t('word', lang)} ${word.position}</span>`;
 
     const body = this.panel.querySelector('#wdp-body');
@@ -219,7 +221,7 @@ class WordByWord {
       const normalized = QuranData.normalizeWord(word.arabic);
       const locations = index[normalized] || [];
       exactHtml = this.occurrenceSection('exact',
-        `${t('exact_word_repeat', lang)} <span class="ayah-arabic !text-xl mx-1">${word.arabic}</span>`,
+        `${t('exact_word_repeat', lang)} <span class="ayah-arabic !text-xl !mb-0 !pb-0 !border-b-0 mx-1">${word.arabic}</span>`,
         locations, lang);
     } catch (err) { /* index unavailable — skip */ }
 
@@ -230,7 +232,7 @@ class WordByWord {
         const roots = await QuranData.getRoots();
         const locations = roots[root] || [];
         rootHtml = this.occurrenceSection('root',
-          `${t('root_word_repeat', lang)} <span class="ayah-arabic !text-xl mx-1">${root.split('').join(' ')}</span>`,
+          `${t('root_word_repeat', lang)} <span class="ayah-arabic !text-xl !mb-0 !pb-0 !border-b-0 mx-1">${root.split('').join(' ')}</span>`,
           locations, lang);
       } catch (err) { /* skip */ }
     }
@@ -305,7 +307,7 @@ class WordByWord {
       const [s, a, w] = loc.split(':');
       return `
         <button data-preview="${loc}" data-section="${id}"
-                class="px-2 py-1 text-sm rounded bg-gray-100 dark:bg-gray-700 hover:bg-blue-100 dark:hover:bg-gray-600 text-gray-700 dark:text-gray-300">
+                class="px-2 py-1.5 text-sm rounded bg-gray-100 dark:bg-gray-700 hover:bg-blue-100 dark:hover:bg-gray-600 text-gray-700 dark:text-gray-300">
           ${s}:${a}
         </button>`;
     }).join(''));
@@ -314,7 +316,7 @@ class WordByWord {
     if (remaining > 0) {
       chipsEl.insertAdjacentHTML('beforeend', `
         <button data-more-section="${id}"
-                class="px-2 py-1 text-sm rounded border border-dashed border-gray-300 dark:border-gray-600 text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">
+                class="px-2 py-1.5 text-sm rounded border border-dashed border-gray-300 dark:border-gray-600 text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">
           +${remaining} ${t('show_more', this.language)}
         </button>`);
     }
@@ -378,14 +380,14 @@ function renderSegments(segments, lang) {
   // ...then one description line per segment
   return `
     <div class="p-3 rounded bg-gray-50 dark:bg-gray-700/50">
-      <div class="ayah-arabic !text-3xl !leading-loose mb-2" dir="rtl">${coloredWord}</div>
+      <div class="ayah-arabic !text-3xl !leading-loose !mb-2 !pb-0 !border-b-0" dir="rtl">${coloredWord}</div>
       <div class="space-y-1.5">
         ${segments.map(seg => `
           <div class="flex flex-wrap items-baseline gap-2 text-sm">
-            <span class="ayah-arabic !text-lg min-w-[2.5rem] text-center ${segmentColor(seg)}">${seg.t}</span>
+            <span class="ayah-arabic !text-lg !mb-0 !pb-0 !border-b-0 min-w-[2.5rem] text-center ${segmentColor(seg)}">${seg.t}</span>
             <span class="text-gray-700 dark:text-gray-200">${corpusDescribe(seg)}</span>
-            ${seg.r ? `<span class="text-xs text-gray-500 dark:text-gray-400">${t('root', lang)}: <span class="ayah-arabic !text-base">${seg.r.split('').join(' ')}</span></span>` : ''}
-            ${seg.l ? `<span class="text-xs text-gray-500 dark:text-gray-400">${t('lemma', lang)}: <span class="ayah-arabic !text-base">${seg.l}</span></span>` : ''}
+            ${seg.r ? `<span class="text-xs text-gray-500 dark:text-gray-400">${t('root', lang)}: <span class="ayah-arabic !text-base !mb-0 !pb-0 !border-b-0">${seg.r.split('').join(' ')}</span></span>` : ''}
+            ${seg.l ? `<span class="text-xs text-gray-500 dark:text-gray-400">${t('lemma', lang)}: <span class="ayah-arabic !text-base !mb-0 !pb-0 !border-b-0">${seg.l}</span></span>` : ''}
           </div>`).join('')}
       </div>
     </div>

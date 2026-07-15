@@ -406,14 +406,14 @@ class AmalDaily {
           ${done ? 'border-green-400 dark:border-green-500/50 bg-green-50 dark:bg-green-900/20'
                  : 'border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 active:scale-[0.99] hover:border-primary/40'}">
         <div class="flex items-start justify-between gap-2">
-          <span class="ayah-arabic !text-xl !leading-loose text-gray-800 dark:text-gray-100" dir="rtl">${this.esc(a.ar)}</span>
+          <span class="ayah-arabic !text-xl !leading-loose text-gray-800 dark:text-gray-100 min-w-0 break-words" dir="rtl">${this.esc(a.ar)}</span>
           <span class="shrink-0 text-sm font-mono ${done ? 'text-green-600 dark:text-green-300' : 'text-primary'}">${done ? '✓' : tally + ' / ' + a.count}</span>
         </div>
         <div class="text-xs italic text-gray-500 dark:text-gray-400" dir="ltr">${this.esc(a.tr)}</div>
         <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(desc)}</p>
         <div class="flex items-center justify-between gap-2">
           <span class="text-xs text-gray-400">📖 ${this.srcHtml(a.src)}</span>
-          ${tally > 0 ? `<button data-adhkar-reset="${a.id}" class="shrink-0 text-xs text-gray-400 hover:text-primary px-2 py-0.5">↺ ${this.tt('amal_reset')}</button>` : ''}
+          ${tally > 0 ? `<button data-adhkar-reset="${a.id}" class="shrink-0 text-xs text-gray-400 hover:text-primary dark:hover:text-blue-400 px-2.5 py-1.5 -my-1 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700">↺ ${this.tt('amal_reset')}</button>` : ''}
         </div>
       </div>`;
   }
@@ -457,7 +457,7 @@ class AmalDaily {
         <button data-salah-tap aria-label="${this.esc(cur.tr)}"
           class="w-44 h-44 rounded-full flex flex-col items-center justify-center text-center text-white shadow-lg transition active:scale-95
             ${complete ? 'bg-green-500' : 'bg-primary hover:bg-primary/90'}">
-          <span class="ayah-arabic !text-3xl" dir="rtl">${this.esc(cur.ar)}</span>
+          <span class="ayah-arabic !text-3xl !text-white" dir="rtl">${this.esc(cur.ar)}</span>
           <span class="text-xs opacity-90 mt-1" dir="auto">${this.esc(cur[this.language] || cur.en)}</span>
           <span class="text-2xl font-bold mt-1">${complete ? '✓' : n + ' / ' + cur.target}</span>
         </button>
@@ -465,7 +465,7 @@ class AmalDaily {
           <div class="h-full ${complete ? 'bg-green-500' : 'bg-primary'} transition-all" style="width:${Math.round(soFar / total * 100)}%"></div>
         </div>
         <div class="text-sm ${complete ? 'text-green-600 dark:text-green-300 font-semibold' : 'text-gray-500'}">${complete ? this.tt('amal_salah_done') : soFar + ' / ' + total}</div>
-        <button data-salah-reset class="text-xs text-gray-400 hover:text-primary">↺ ${this.tt('amal_reset')}</button>
+        <button data-salah-reset class="text-xs text-gray-400 hover:text-primary dark:hover:text-blue-400 px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700">↺ ${this.tt('amal_reset')}</button>
       </div>
       <p class="text-xs text-gray-400 mt-3 text-center leading-relaxed" dir="auto">${this.tt('amal_salah_kursi_note')} <span class="text-gray-400">· 📖 ${this.srcHtml('Muslim 596')}</span></p>`;
   }

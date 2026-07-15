@@ -194,7 +194,7 @@ class MemorizeChecker {
 
         <div class="flex flex-wrap items-center gap-3 mb-3">
           <button id="mem-start" ${supported ? '' : 'disabled'}
-                  class="px-6 py-3 rounded-lg font-medium text-white ${supported ? 'bg-secondary hover:bg-secondary/80' : 'bg-gray-400 cursor-not-allowed'}">
+                  class="px-6 py-3 rounded-lg font-medium text-white ${supported ? 'bg-secondary hover:bg-secondary/80' : 'bg-gray-400 dark:bg-gray-600 cursor-not-allowed'}">
             🎙️ <span>${t('start_reciting', lang)}</span>
           </button>
           <button id="mem-reset" class="px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700">
@@ -236,7 +236,7 @@ class MemorizeChecker {
           <div class="text-xs text-gray-400 dark:text-gray-500 mb-1">💡 ${t('mem_type_hint', lang)}</div>
           <div class="flex gap-2" dir="rtl">
             <input id="mem-type-input" type="text" dir="rtl"
-                   class="flex-1 rounded-lg border border-gray-300 dark:border-gray-600 bg-transparent px-3 py-2 ayah-arabic !text-xl"
+                   class="flex-1 min-w-0 rounded-lg border border-gray-300 dark:border-gray-600 bg-transparent px-3 py-2 ayah-arabic !text-xl"
                    placeholder="${t('mem_type_placeholder', lang)}">
             <button id="mem-type-check" class="px-4 py-2 rounded-lg bg-secondary text-white hover:bg-secondary/80 whitespace-nowrap">
               ${t('mem_check', lang)}
@@ -244,7 +244,7 @@ class MemorizeChecker {
           </div>
         </div>
 
-        <div id="mem-status" class="mb-1 text-sm text-gray-500 dark:text-gray-400 min-h-[1.5rem]"></div>
+        <div id="mem-status" role="status" aria-live="polite" class="mb-1 text-sm text-gray-500 dark:text-gray-400 min-h-[1.5rem]"></div>
         <div class="mb-4 text-xs text-gray-400 dark:text-gray-500">💡 ${t('tap_word_hint', lang)}</div>
 
         <div id="mem-verses" class="space-y-6"></div>
@@ -283,18 +283,18 @@ class MemorizeChecker {
     const lang = this.language;
     versesEl.innerHTML = this.ayahs.map(ayah => `
       <div class="mem-verse" data-verse="${ayah.key}">
-        <div class="flex items-center gap-2 mb-2">
+        <div class="flex flex-wrap items-center gap-2 mb-2">
           <span class="text-xs text-gray-400">${ayah.surahName} ${ayah.key}</span>
           <button data-restart-ayah="${ayah.key}" title="${t('restart_from_here', lang)}"
-                  class="px-1.5 py-0.5 text-xs rounded border border-gray-300 dark:border-gray-600 text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">
+                  class="px-2 py-1.5 text-xs rounded border border-gray-300 dark:border-gray-600 text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">
             ⟲ ${t('restart_from_here', lang)}
           </button>
           <button data-play-original="${ayah.key}" title="${t('original_recitation', lang)}"
-                  class="px-1.5 py-0.5 text-xs rounded border border-blue-300 dark:border-blue-700 text-blue-600 dark:text-blue-400 hover:bg-blue-50 dark:hover:bg-blue-900/30">
+                  class="px-2 py-1.5 text-xs rounded border border-blue-300 dark:border-blue-700 text-blue-600 dark:text-blue-400 hover:bg-blue-50 dark:hover:bg-blue-900/30">
             🔊 ${t('original_recitation', lang)}
           </button>
           <button data-play-recording="${ayah.key}" title="${t('your_recording', lang)}"
-                  class="mem-rec-btn hidden px-1.5 py-0.5 text-xs rounded border border-emerald-300 dark:border-emerald-700 text-emerald-600 dark:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-900/30">
+                  class="mem-rec-btn hidden px-2 py-1.5 text-xs rounded border border-emerald-300 dark:border-emerald-700 text-emerald-600 dark:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-900/30">
             ▶ ${t('your_recording', lang)}
           </button>
         </div>
@@ -850,7 +850,7 @@ class MemorizeChecker {
     const done = new Set(this.progress.done || []);
     const dots = this.ayahs.map((ayah, i) => {
       const on = done.has(ayah.key);
-      return `<button data-jump-ayah="${ayah.key}" title="${ayah.key}"
+      return `<button data-jump-ayah="${ayah.key}" title="${ayah.key}" aria-label="${ayah.key}"
                 class="w-3.5 h-3.5 rounded-full ${on ? 'bg-green-500' : 'bg-gray-300 dark:bg-gray-600'} hover:ring-2 hover:ring-secondary/50"></button>`;
     }).join('');
     const firstUndone = this.ayahs.find(a => !done.has(a.key));
@@ -1053,7 +1053,8 @@ class MemorizeChecker {
       <div class="bg-white dark:bg-gray-800 rounded-xl shadow-2xl border border-gray-200 dark:border-gray-700 w-full max-w-sm">
         <div class="flex items-center justify-between px-5 py-3 border-b border-gray-200 dark:border-gray-700">
           <h3 id="mem-tip-title" class="font-semibold text-sm text-gray-500 dark:text-gray-400"></h3>
-          <button id="mem-tip-close" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg text-gray-500">✕</button>
+          <button id="mem-tip-close" aria-label="${t('close', this.language)}" title="${t('close', this.language)}"
+                  class="w-10 h-10 flex items-center justify-center hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg text-gray-500 dark:text-gray-400">✕</button>
         </div>
         <div id="mem-tip-body" class="p-5"></div>
       </div>

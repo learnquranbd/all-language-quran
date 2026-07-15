@@ -60,8 +60,9 @@ class SearchView {
     const lang = this.language;
     const rtl = isRTL(lang);
     const modeBtn = (id, label) => `
-      <button data-mode="${id}"
-              class="search-mode-btn px-4 py-1.5 text-sm rounded-full border transition-colors ${this.mode === id
+      <button data-mode="${id}" aria-pressed="${this.mode === id}"
+              class="search-mode-btn px-4 py-1.5 text-sm rounded-full border transition-colors
+                     focus:outline-none focus-visible:ring-2 focus-visible:ring-primary/60 dark:focus-visible:ring-blue-400 ${this.mode === id
                 ? 'bg-primary text-white border-primary dark:bg-blue-600 dark:border-blue-600'
                 : 'border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'}">
         ${label}
@@ -77,6 +78,7 @@ class SearchView {
           <div class="relative">
             <input type="text" id="search-input" dir="rtl"
                    value="${this._attr(this.query)}"
+                   aria-label="${this._attr(t('search_title', lang))}"
                    placeholder="${this._attr(t('search_placeholder', lang))}"
                    class="ayah-arabic w-full !text-3xl !mb-0 !pb-0 !border-b-0 px-4 py-3 rounded-xl
                           border-2 border-gray-300 dark:border-gray-600
@@ -203,9 +205,10 @@ class SearchView {
       if (!list || !list.length) { el.innerHTML = ''; return; }
       const chips = list.map(({ word, count }) => `
         <button type="button" data-chip="${this._attr(word)}"
-                class="search-chip inline-flex items-center gap-1.5 px-3 py-1 rounded-full
+                class="search-chip inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full
                        bg-gray-100 dark:bg-gray-700 border border-gray-200 dark:border-gray-600
                        hover:bg-primary/10 hover:border-primary/40 dark:hover:bg-blue-900/40 dark:hover:border-blue-600
+                       focus:outline-none focus-visible:ring-2 focus-visible:ring-primary/60 dark:focus-visible:ring-blue-400
                        transition-colors">
           <span class="ayah-arabic !text-lg !mb-0 !pb-0 !border-b-0 text-gray-800 dark:text-gray-100" dir="rtl">${this._esc(word)}</span>
           <span class="text-xs text-gray-400 dark:text-gray-500">${count.toLocaleString()}</span>
@@ -367,14 +370,15 @@ class SearchView {
       <div class="text-center pt-2">
         <button id="search-show-more"
                 class="px-5 py-2 text-sm rounded-full border border-gray-300 dark:border-gray-600
-                       text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
+                       text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700
+                       focus:outline-none focus-visible:ring-2 focus-visible:ring-primary/60 dark:focus-visible:ring-blue-400 transition-colors">
           ${t('search_show_more', lang)} (${moreCount.toLocaleString()})
         </button>
       </div>` : '';
 
     resultsEl.innerHTML = `
       <div class="mb-4 p-4 rounded-lg bg-primary/10 dark:bg-blue-900/30 border border-primary/20 dark:border-blue-800">
-        <p class="text-base font-semibold text-primary dark:text-blue-200" dir="auto">${headline}</p>
+        <p class="text-base font-semibold text-primary dark:text-blue-200 break-words" dir="auto">${headline}</p>
       </div>
       <div class="space-y-3">${cards}</div>
       ${moreBtn}

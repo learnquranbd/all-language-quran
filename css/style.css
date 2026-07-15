@@ -153,13 +153,23 @@ body {
   direction: rtl;
   text-align: right;
   color: #1f2937;
+}
+
+.dark .ayah-arabic {
+  color: #f3f4f6;
+}
+
+/* Only the flowing Arabic line inside a Reading card gets the separator
+   (margin/padding/dashed underline). Every other .ayah-arabic use — word tiles,
+   morphology tables, rails, headings — stays clean by default, so modules no
+   longer need to patch it away per-element. */
+.ayah-content > .ayah-arabic {
   margin-bottom: 1rem;
   padding-bottom: 1rem;
   border-bottom: 1px dashed #e5e7eb;
 }
 
-.dark .ayah-arabic {
-  color: #f3f4f6;
+.dark .ayah-content > .ayah-arabic {
   border-bottom-color: #4b5563;
 }
 

@@ -325,7 +325,7 @@ class Sarf {
         <div class="flex flex-col md:flex-row gap-4 items-start">
           <div class="w-full md:w-56 shrink-0 md:sticky md:top-20">
             <div class="relative mb-2">
-              <span class="absolute inset-y-0 start-2 flex items-center text-gray-400 pointer-events-none">🔍</span>
+              <span class="absolute inset-y-0 start-2 flex items-center text-gray-400 pointer-events-none" aria-hidden="true">🔍</span>
               <input id="sarf-search" type="search" autocomplete="off" placeholder="${this.esc(this.ui('sarf_search_placeholder'))}"
                      aria-label="${this.esc(this.ui('sarf_search_placeholder'))}"
                      class="w-full ps-8 pe-2 py-1.5 text-sm rounded-lg border border-gray-200 dark:border-gray-700
@@ -381,9 +381,9 @@ class Sarf {
       html += `
         <div class="mb-5 overflow-x-auto">
           <div class="text-sm font-semibold text-secondary mb-1">${tLabel}</div>
-          <table class="w-full text-center border-collapse">
-            <thead><tr class="text-xs text-gray-400">
-              <th class="p-1"></th>${cols.map(c => `<th class="p-1 font-medium">${NUM[c]}</th>`).join('')}
+          <table class="w-full min-w-[26rem] text-center border-collapse">
+            <thead><tr class="text-xs text-gray-400 dark:text-gray-500">
+              <th class="p-1"></th>${cols.map(c => `<th scope="col" class="p-1 font-medium">${NUM[c]}</th>`).join('')}
             </tr></thead>
             <tbody>
               ${rows.map(([p, g]) => {
@@ -393,7 +393,7 @@ class Sarf {
                   return `<td class="p-1 border border-gray-100 dark:border-gray-700">${this.cellHtml(matches)}</td>`;
                 }).join('');
                 if (!cols.some(c => set.some(v => v.person === p && (p === '1' || v.gender === g) && v.number === c))) return '';
-                return `<tr><td class="p-1 text-xs text-gray-500 text-right whitespace-nowrap">${label}</td>${cells}</tr>`;
+                return `<tr><td class="p-1 pe-2 text-xs text-gray-500 dark:text-gray-400 text-end whitespace-nowrap">${label}</td>${cells}</tr>`;
               }).join('')}
             </tbody>
           </table>
@@ -416,9 +416,9 @@ class Sarf {
     const numOrder = { S: 0, D: 1, P: 2 };
     seen.sort((a, b) => ((numOrder[a.number] ?? 3) - (numOrder[b.number] ?? 3)) || a.gender.localeCompare(b.gender));
     let html = `<h3 class="text-lg font-bold mb-2 mt-4">📐 ${this.tt('sarf_nouns')}</h3>
-      <div class="overflow-x-auto"><table class="w-full text-center border-collapse">
-        <thead><tr class="text-xs text-gray-400">
-          <th class="p-1"></th>${cases.map(c => `<th class="p-1 font-medium">${c[1]}</th>`).join('')}
+      <div class="overflow-x-auto"><table class="w-full min-w-[26rem] text-center border-collapse">
+        <thead><tr class="text-xs text-gray-400 dark:text-gray-500">
+          <th class="p-1"></th>${cases.map(c => `<th scope="col" class="p-1 font-medium">${c[1]}</th>`).join('')}
         </tr></thead><tbody>`;
     for (const row of seen) {
       const parts = [];
@@ -430,7 +430,7 @@ class Sarf {
         const matches = nouns.filter(n => n.gender === row.gender && n.number === row.number && n.ntype === row.ntype && n.case === cKey);
         return `<td class="p-1 border border-gray-100 dark:border-gray-700">${this.cellHtml(matches)}</td>`;
       }).join('');
-      html += `<tr><td class="p-1 text-xs text-gray-500 text-right whitespace-nowrap">${label}</td>${cells}</tr>`;
+      html += `<tr><td class="p-1 pe-2 text-xs text-gray-500 dark:text-gray-400 text-end whitespace-nowrap">${label}</td>${cells}</tr>`;
     }
     html += `</tbody></table></div>`;
     return html;
@@ -446,11 +446,11 @@ class Sarf {
       const voice = m.voice ? this.tt(m.voice === 'passive' ? 'sarf_passive' : 'sarf_active') : '';
       const meaning = this.localMeaning(m);
       return `
-      <button data-verse="${m.ref}" data-word="${this.esc(m.form)}" title="${m.count}× · ${m.ref}${voice ? ' · ' + voice : ''}${meaning ? ' · ' + this.esc(meaning) : ''}" class="inline-block px-1 rounded hover:bg-primary hover:text-white">
+      <button data-verse="${m.ref}" data-word="${this.esc(m.form)}" title="${m.count}× · ${m.ref}${voice ? ' · ' + voice : ''}${meaning ? ' · ' + this.esc(meaning) : ''}" class="group inline-block px-1 py-0.5 rounded hover:bg-primary hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
         <span class="ayah-arabic !text-2xl !leading-snug !mb-0 !pb-0 !border-b-0 block" dir="rtl">${this.esc(m.form)}</span>
-        ${m.voice === 'passive' ? `<span class="block text-xs font-medium text-amber-600 dark:text-amber-400 leading-tight">${this.tt('sarf_passive')}</span>` : ''}
-        ${meaning ? `<span class="block text-xs text-gray-500 dark:text-gray-400 leading-tight max-w-[8rem] truncate mx-auto" dir="auto">${this.esc(meaning)}</span>` : ''}
-        <span class="block text-xs text-gray-400 leading-none">×${m.count}</span>
+        ${m.voice === 'passive' ? `<span class="block text-xs font-medium text-amber-600 dark:text-amber-400 group-hover:text-amber-200 leading-tight">${this.tt('sarf_passive')}</span>` : ''}
+        ${meaning ? `<span class="block text-xs text-gray-500 dark:text-gray-400 group-hover:text-white/80 leading-tight max-w-[8rem] truncate mx-auto" dir="auto">${this.esc(meaning)}</span>` : ''}
+        <span class="block text-xs text-gray-400 group-hover:text-white/70 leading-none">×${m.count}</span>
       </button>`;
     }).join(' ');
   }
@@ -465,8 +465,9 @@ class Sarf {
     const canPractice = distinct >= 2;
     const navBtn = (dir, label, glyph, disabled) => `
       <button data-sarf-nav="${dir}" ${disabled ? 'disabled' : ''} aria-label="${this.esc(label)}" title="${this.esc(label)}"
-              class="w-9 h-9 flex items-center justify-center rounded-lg border border-gray-200 dark:border-gray-700
-                     ${disabled ? 'opacity-30 cursor-not-allowed' : 'hover:border-primary hover:text-primary'}">${glyph}</button>`;
+              class="w-10 h-10 flex items-center justify-center rounded-lg border border-gray-200 dark:border-gray-700
+                     focus:outline-none focus-visible:ring-2 focus-visible:ring-primary
+                     ${disabled ? 'opacity-30 cursor-not-allowed' : 'hover:border-primary hover:text-primary dark:hover:text-blue-300'}">${glyph}</button>`;
     const chip = (txt) => `<span class="text-xs px-2 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300">${txt}</span>`;
     return `
       <div class="mb-5">
@@ -486,8 +487,8 @@ class Sarf {
           ${r.nouns.length ? chip(`📐 ${this.tt('sarf_nouns')} ×${nounOcc}`) : ''}
         </div>
         ${canPractice ? `<div class="text-center">
-          <button data-sarf-practice-toggle
-                  class="px-3 py-1.5 rounded-lg text-sm font-medium transition-colors
+          <button data-sarf-practice-toggle aria-pressed="${this.practiceOn}"
+                  class="px-3 py-2 rounded-lg text-sm font-medium transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-primary
                          ${this.practiceOn ? 'bg-primary text-white' : 'bg-primary/10 text-primary dark:text-blue-300 hover:bg-primary hover:text-white'}">
             🎯 ${this.esc(this.ui('sarf_practice'))}
           </button>
@@ -536,8 +537,8 @@ class Sarf {
     const q = this.quiz;
     if (!q) {
       return `<div class="max-w-md mx-auto text-center py-8">
-        <p class="text-gray-400 mb-4">${this.esc(this.ui('sarf_practice_none'))}</p>
-        <button data-sarf-practice-exit class="text-xs text-gray-400 hover:text-primary">${this.esc(this.ui('sarf_practice_exit'))}</button>
+        <p class="text-gray-400 dark:text-gray-500 mb-4">${this.esc(this.ui('sarf_practice_none'))}</p>
+        <button data-sarf-practice-exit class="inline-block px-3 py-2 rounded-lg text-xs text-gray-400 hover:text-primary dark:hover:text-blue-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">${this.esc(this.ui('sarf_practice_exit'))}</button>
       </div>`;
     }
     const answered = q.picked != null;
@@ -549,7 +550,7 @@ class Sarf {
         else cls = 'border-gray-200 dark:border-gray-700 opacity-50';
       }
       return `<button ${answered ? 'disabled' : ''} data-sarf-practice-opt="${this.esc(f)}"
-                class="border-2 rounded-lg py-3 ${cls}"><span class="ayah-arabic !text-3xl !leading-snug !mb-0 !pb-0 !border-b-0" dir="rtl">${this.esc(f)}</span></button>`;
+                class="border-2 rounded-lg py-3 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary ${cls}"><span class="ayah-arabic !text-3xl !leading-snug !mb-0 !pb-0 !border-b-0" dir="rtl">${this.esc(f)}</span></button>`;
     }).join('');
     return `
       <div class="max-w-md mx-auto">
@@ -573,7 +574,7 @@ class Sarf {
             </div>` : ''}
         </div>
         <div class="text-center mt-3">
-          <button data-sarf-practice-exit class="text-xs text-gray-400 hover:text-primary">${this.esc(this.ui('sarf_practice_exit'))}</button>
+          <button data-sarf-practice-exit class="inline-block px-3 py-2 rounded-lg text-xs text-gray-400 hover:text-primary dark:hover:text-blue-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">${this.esc(this.ui('sarf_practice_exit'))}</button>
         </div>
       </div>`;
   }

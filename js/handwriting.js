@@ -150,7 +150,7 @@ class Handwriting {
         <!-- Every target on one page — tap any harf/word to practise it -->
         <div class="flex flex-wrap justify-center gap-1.5 mb-4" dir="rtl">
           ${this.targets().map((tg, i) => `
-            <button data-hw-pick="${i}" class="min-w-[2.5rem] px-2 py-1.5 rounded-lg ayah-arabic !text-xl !leading-none transition-colors ${i === this.index
+            <button data-hw-pick="${i}" class="min-w-[2.75rem] px-2 py-2 rounded-lg ayah-arabic !text-xl !leading-none transition-colors ${i === this.index
               ? 'bg-primary text-white shadow'
               : 'bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-200 hover:bg-blue-50 dark:hover:bg-gray-700'} ${this.isDone(i) ? 'ring-2 ring-emerald-400/70' : ''}">${tg.text}</button>`).join('')}
         </div>
@@ -171,14 +171,16 @@ class Handwriting {
 
         <div class="bg-white dark:bg-gray-800 rounded-2xl shadow p-4">
           <div class="flex items-center justify-between mb-2">
-            <button data-hw-nav="-1" class="w-9 h-9 rounded-full hover:bg-gray-100 dark:hover:bg-gray-700 text-xl disabled:opacity-30">‹</button>
+            <button data-hw-nav="-1" title="${t('previous', lang)}" aria-label="${t('previous', lang)}"
+                    class="w-11 h-11 rounded-full hover:bg-gray-100 dark:hover:bg-gray-700 text-xl disabled:opacity-30">‹</button>
             <div class="text-center">
               <div class="text-sm font-medium text-gray-700 dark:text-gray-200">${this.current().label}${this.section === 'forms' ? ' · ' + t('hw_form_' + this.form, lang) : ''}</div>
               <div class="text-xs text-gray-400">${this.index + 1} / ${this.targets().length}</div>
             </div>
             <div class="flex items-center gap-1">
-              <button data-hw-play class="w-9 h-9 rounded-full bg-primary text-white hover:bg-primary/80" title="${t('play', lang)}">▶</button>
-              <button data-hw-nav="1" class="w-9 h-9 rounded-full hover:bg-gray-100 dark:hover:bg-gray-700 text-xl disabled:opacity-30">›</button>
+              <button data-hw-play class="w-11 h-11 rounded-full bg-primary text-white hover:bg-primary/80" title="${t('play', lang)}" aria-label="${t('play', lang)}">▶</button>
+              <button data-hw-nav="1" title="${t('next', lang)}" aria-label="${t('next', lang)}"
+                      class="w-11 h-11 rounded-full hover:bg-gray-100 dark:hover:bg-gray-700 text-xl disabled:opacity-30">›</button>
             </div>
           </div>
 

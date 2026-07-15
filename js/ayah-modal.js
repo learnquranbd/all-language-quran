@@ -60,7 +60,7 @@ class AyahModal {
       <div role="dialog" aria-modal="true" tabindex="-1" class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl border border-gray-200 dark:border-gray-700 w-full max-w-3xl max-h-[88vh] flex flex-col focus:outline-none">
         <div class="flex items-center gap-2 px-5 py-3 border-b border-gray-200 dark:border-gray-700">
           <h3 id="sam-title" class="flex-1 font-bold text-gray-800 dark:text-gray-100 truncate"></h3>
-          <button id="sam-close" aria-label="${this.esc(this.tt('close') || 'Close')}" class="p-2 rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
+          <button id="sam-close" aria-label="${this.esc(this.tt('close') || 'Close')}" title="${this.esc(this.tt('close') || 'Close')}" class="p-2.5 rounded-lg leading-none text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
         </div>
         <div id="sam-body" class="flex-1 overflow-y-auto p-5"></div>
       </div>`;
@@ -240,7 +240,7 @@ class AyahModal {
       const canPlay = !!w.audio;
       return `<button data-word-idx="${i}" ${canPlay ? `data-word-audio="${this.esc(w.audio)}"` : ''}
                 class="inline-flex flex-col items-center px-2 py-1 my-1 rounded-lg cursor-pointer hover:bg-blue-50 dark:hover:bg-gray-700 ${hit ? 'ring-2 ring-amber-400 bg-amber-50 dark:bg-amber-500/10' : ''}">
-                <span class="ayah-arabic !text-2xl block">${w.arabic}</span>
+                <span class="ayah-arabic !text-2xl !mb-0 !pb-0 !border-b-0 block">${w.arabic}</span>
                 ${w.translit ? `<span class="text-[0.6875rem] text-gray-400 dark:text-gray-500 block" dir="ltr">${this.esc(w.translit)}</span>` : ''}
                 <span class="text-[0.6875rem] text-gray-500 dark:text-gray-400 block" dir="auto">${w.meaning || ''}</span>
               </button>`;
@@ -252,9 +252,9 @@ class AyahModal {
       : `<button disabled aria-label="${this.esc(label)}" class="px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 text-sm text-gray-300 dark:text-gray-600 cursor-not-allowed">${sym}</button>`;
 
     const wordBtn = (delta, label, sym, disabled) => disabled
-      ? `<button disabled aria-label="${this.esc(label)}" class="px-2.5 py-1 rounded-md border border-gray-200 dark:border-gray-700 text-sm text-gray-300 dark:text-gray-600 cursor-not-allowed">${sym}</button>`
+      ? `<button disabled aria-label="${this.esc(label)}" class="px-3 py-2 rounded-md border border-gray-200 dark:border-gray-700 text-sm text-gray-300 dark:text-gray-600 cursor-not-allowed">${sym}</button>`
       : `<button data-word-nav="${delta}" aria-label="${this.esc(label)}" title="${this.esc(label)}"
-                class="px-2.5 py-1 rounded-md border border-gray-300 dark:border-gray-600 text-sm text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700">${sym}</button>`;
+                class="px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600 text-sm text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700">${sym}</button>`;
 
     const counter = `${curIdx >= 0 ? curIdx + 1 : '—'} / ${words.length}`;
 
@@ -345,15 +345,15 @@ class AyahModal {
       <div class="rounded-lg bg-gray-50 dark:bg-gray-700/40 border border-gray-100 dark:border-gray-700 p-3">
         <div class="flex flex-wrap items-center gap-x-3 gap-y-1">
           <span class="text-[0.65rem] font-semibold uppercase tracking-wide text-gray-400">${this.tt('sam_word_grammar')}</span>
-          <span class="ayah-arabic !text-xl">${arabic}</span>
+          <span class="ayah-arabic !text-xl !mb-0 !pb-0 !border-b-0">${arabic}</span>
           ${desc ? `<span class="text-sm text-gray-600 dark:text-gray-300">${this.esc(desc)}</span>` : ''}
         </div>
         <div class="flex flex-wrap items-center gap-2 mt-2">
           ${root ? `<button data-open-sarf-root="${this.esc(root)}" title="${this.esc(this.tt('gr_open_sarf'))}"
-                      class="text-xs px-2 py-1 rounded bg-fuchsia-100 text-fuchsia-800 dark:bg-fuchsia-900/40 dark:text-fuchsia-200 hover:bg-fuchsia-200 dark:hover:bg-fuchsia-900/60">${this.tt('root')}: <span class="ayah-arabic !text-base">${this.esc(root.split('').join(' '))}</span> 🧬</button>` : ''}
-          ${lemma ? `<span class="text-xs text-gray-500 dark:text-gray-400">${this.tt('lemma')}: <span class="ayah-arabic !text-base">${this.esc(lemma)}</span></span>` : ''}
+                      class="text-xs px-2 py-1.5 rounded bg-fuchsia-100 text-fuchsia-800 dark:bg-fuchsia-900/40 dark:text-fuchsia-200 hover:bg-fuchsia-200 dark:hover:bg-fuchsia-900/60">${this.tt('root')}: <span class="ayah-arabic !text-base !mb-0 !pb-0 !border-b-0">${this.esc(root.split('').join(' '))}</span> 🧬</button>` : ''}
+          ${lemma ? `<span class="text-xs text-gray-500 dark:text-gray-400">${this.tt('lemma')}: <span class="ayah-arabic !text-base !mb-0 !pb-0 !border-b-0">${this.esc(lemma)}</span></span>` : ''}
           <button data-open-grammar
-                  class="text-xs px-2 py-1 rounded border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 ml-auto">${this.tt('open_grammar')} ↗</button>
+                  class="text-xs px-2 py-1.5 rounded border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 ml-auto">${this.tt('open_grammar')} ↗</button>
         </div>
       </div>`;
   }

@@ -371,11 +371,11 @@ class Khatmah {
       const isCur = d === cur;
       const isView = d === view;
       return `<button data-kh-day="${d}"
-        class="w-9 h-9 rounded-lg text-xs font-semibold flex items-center justify-center transition-colors
+        class="w-10 h-10 rounded-lg text-xs font-semibold flex items-center justify-center transition-colors
                ${done ? 'bg-green-500 text-white' : 'bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'}
                ${isCur ? 'ring-2 ring-primary dark:ring-blue-400' : ''}
                ${isView && !isCur ? 'ring-2 ring-gray-400/60' : ''}"
-        title="${this.tt('khatmah_day').replace('{n}', d)}">${done ? '✓' : d}</button>`;
+        title="${this.tt('khatmah_day').replace('{n}', d)}" aria-label="${this.tt('khatmah_day').replace('{n}', d)}">${done ? '✓' : d}</button>`;
     }).join('');
 
     return `
@@ -419,7 +419,7 @@ class Khatmah {
         <div class="flex flex-wrap gap-1.5 mb-6">${chips}</div>
 
         <div class="text-center">
-          <button data-kh-restart class="text-xs px-3 py-1.5 rounded-lg ${this.confirmRestart ? 'bg-red-500 text-white' : 'text-gray-400 hover:text-red-500'}">
+          <button data-kh-restart class="text-xs px-4 py-2 rounded-lg ${this.confirmRestart ? 'bg-red-500 text-white' : 'text-gray-400 dark:text-gray-500 hover:text-red-500 dark:hover:text-red-400'}">
             ${this.confirmRestart ? this.tt('khatmah_restart_confirm') : this.tt('khatmah_restart')}
           </button>
         </div>

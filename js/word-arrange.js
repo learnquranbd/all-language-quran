@@ -60,11 +60,11 @@ class WordArrange {
             ${SURAH_DATA.map(s => `<option value="${s.number}" ${s.number === this.surah ? 'selected' : ''}>${this.esc(formatSurahOption(s, lang))}</option>`).join('')}
           </select>
           <div class="inline-flex items-stretch rounded-lg overflow-hidden border border-gray-200 dark:border-gray-700">
-            <button data-ayah-nav="prev" ${this.ayah <= 1 ? 'disabled' : ''} class="px-2 py-2 text-sm bg-white dark:bg-gray-800 disabled:opacity-40 hover:bg-gray-100 dark:hover:bg-gray-700" title="${this.tt('previous')}">‹</button>
+            <button data-ayah-nav="prev" ${this.ayah <= 1 ? 'disabled' : ''} class="min-w-[2.5rem] px-2 py-2 text-sm bg-white dark:bg-gray-800 disabled:opacity-40 hover:bg-gray-100 dark:hover:bg-gray-700" title="${this.tt('previous')}" aria-label="${this.tt('previous')}">‹</button>
             <select id="wa-ayah" class="px-3 py-2 text-sm bg-white dark:bg-gray-800 border-x border-gray-200 dark:border-gray-700">
               ${Array.from({ length: ayahCount }, (_, i) => i + 1).map(a => `<option value="${a}" ${a === this.ayah ? 'selected' : ''}>${this.tt('ayah')} ${a}</option>`).join('')}
             </select>
-            <button data-ayah-nav="next" ${this.ayah >= ayahCount ? 'disabled' : ''} class="px-2 py-2 text-sm bg-white dark:bg-gray-800 disabled:opacity-40 hover:bg-gray-100 dark:hover:bg-gray-700" title="${this.tt('next')}">›</button>
+            <button data-ayah-nav="next" ${this.ayah >= ayahCount ? 'disabled' : ''} class="min-w-[2.5rem] px-2 py-2 text-sm bg-white dark:bg-gray-800 disabled:opacity-40 hover:bg-gray-100 dark:hover:bg-gray-700" title="${this.tt('next')}" aria-label="${this.tt('next')}">›</button>
           </div>
           <div class="inline-flex rounded-lg overflow-hidden border border-gray-200 dark:border-gray-700">
             <button data-mode="arrange" class="wa-mode px-3 py-2 text-sm ${this.mode === 'arrange' ? 'bg-primary text-white' : 'bg-white dark:bg-gray-800'}">${this.tt('wa_mode_arrange')}</button>
@@ -184,7 +184,7 @@ class WordArrange {
           return `
             <div class="flex flex-col items-center max-w-[110px]">
               <button data-reveal="${i}" class="ayah-arabic !text-2xl !leading-loose !mb-0 !pb-0 !border-b-0 px-1 transition ${shown ? '' : 'blur-sm hover:blur-none'}" title="${this.tt('wa_tap_reveal')}">${this.esc(w.arabic)}</button>
-              <span class="text-[0.625rem] text-gray-500 dark:text-gray-400 mt-1 text-center leading-tight" dir="auto">${this.esc(w.meaning)}</span>
+              <span class="text-[0.625rem] text-gray-500 dark:text-gray-400 mt-1 text-center leading-tight break-words" dir="auto">${this.esc(w.meaning)}</span>
             </div>`;
         }).join('')}
       </div>`;
@@ -197,7 +197,7 @@ class WordArrange {
     const info = (typeof getSurahByNumber === 'function') ? getSurahByNumber(this.surah) : null;
     const hasNext = info && this.ayah < info.ayahCount;
     board.innerHTML = `
-      <p class="text-center text-sm text-gray-500 mb-4">${this.tt('wa_tap_hint')}</p>
+      <p class="text-center text-sm text-gray-500 dark:text-gray-400 mb-4">${this.tt('wa_tap_hint')}</p>
       <div class="flex flex-wrap gap-2 justify-center mb-5" dir="rtl">
         ${this.words.map((w, i) => {
           const placedIdx = this.placed[i];
@@ -210,7 +210,7 @@ class WordArrange {
                        : 'border-dashed border-gray-300 dark:border-gray-600'}">
                 <span class="ayah-arabic !text-2xl !leading-normal !mb-0 !pb-0 !border-b-0">${filled ? this.esc(this.wordAt(placedIdx)?.arabic || '') : ''}</span>
               </button>
-              <span class="text-[0.625rem] text-gray-500 dark:text-gray-400 mt-1 max-w-[72px] text-center leading-tight" dir="auto">${this.esc(w.meaning)}</span>
+              <span class="text-[0.625rem] text-gray-500 dark:text-gray-400 mt-1 max-w-[72px] text-center leading-tight break-words" dir="auto">${this.esc(w.meaning)}</span>
             </div>`;
         }).join('')}
       </div>
@@ -218,12 +218,12 @@ class WordArrange {
         <div class="flex flex-wrap gap-2 justify-center min-h-[44px]" dir="rtl">
           ${this.pool.map(origIdx => {
             const used = this.placed.includes(origIdx);
-            return `<button data-place="${origIdx}" ${used ? 'disabled' : ''} class="px-3 py-1.5 rounded-lg border ${used ? 'opacity-30 border-gray-200 dark:border-gray-700' : 'border-primary/40 bg-primary/5 hover:bg-primary hover:text-white'}"><span class="ayah-arabic !text-2xl !leading-normal !mb-0 !pb-0 !border-b-0 !text-inherit">${this.esc(this.wordAt(origIdx).arabic)}</span></button>`;
+            return `<button data-place="${origIdx}" ${used ? 'disabled' : ''} class="px-3 py-1.5 rounded-lg border ${used ? 'opacity-30 border-gray-200 dark:border-gray-700' : 'border-primary/40 bg-primary/5 dark:bg-primary/20 hover:bg-primary hover:text-white'}"><span class="ayah-arabic !text-2xl !leading-normal !mb-0 !pb-0 !border-b-0 !text-inherit">${this.esc(this.wordAt(origIdx).arabic)}</span></button>`;
           }).join('')}
         </div>
         <div class="flex flex-wrap items-center justify-center gap-2 mt-4">
           <button data-reset class="text-xs px-3 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700">${this.tt('wa_reset')}</button>
-          ${done ? `<span class="text-sm font-semibold ${allCorrect ? 'text-green-600' : 'text-red-500'}">${allCorrect ? '✓ ' + this.tt('wa_correct') : '✗ ' + this.tt('wa_wrong')}</span>` : ''}
+          ${done ? `<span class="text-sm font-semibold ${allCorrect ? 'text-green-600 dark:text-green-400' : 'text-red-500 dark:text-red-400'}">${allCorrect ? '✓ ' + this.tt('wa_correct') : '✗ ' + this.tt('wa_wrong')}</span>` : ''}
           ${allCorrect && hasNext ? `<button data-ayah-nav="next" class="text-xs px-4 py-1.5 rounded-lg bg-primary text-white hover:bg-primary/80">${this.tt('wa_next_ayah')} →</button>` : ''}
         </div>
       </div>`;

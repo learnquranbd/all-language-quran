@@ -209,7 +209,7 @@ class TopicsBrowser {
         <div class="text-xs font-semibold uppercase tracking-wide text-gray-400 mb-2">${this.tt('topics_az_index')}</div>
         <div id="topics-letters" class="flex flex-wrap gap-1 justify-center mb-5">
           ${this.letters.map(l => `
-            <button data-letter="${l}" class="w-8 h-8 rounded-lg text-sm font-semibold transition-colors ${
+            <button data-letter="${l}" class="w-9 h-9 rounded-lg text-sm font-semibold transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-primary dark:focus-visible:ring-blue-400 ${
               l === this.activeLetter
                 ? 'bg-primary text-white'
                 : 'bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'}">${l}</button>`).join('')}
@@ -226,7 +226,7 @@ class TopicsBrowser {
         <div class="text-xs font-semibold uppercase tracking-wide text-gray-400 mb-2">${this.tt('topics_collections')}</div>
         <div class="grid grid-cols-2 sm:grid-cols-3 gap-2">
           ${this.collections.map(c => `
-            <button data-collection="${this.esc(c.id)}" class="flex items-center gap-2.5 px-3 py-2.5 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-primary hover:shadow text-left transition-all" dir="auto">
+            <button data-collection="${this.esc(c.id)}" class="flex items-center gap-2.5 px-3 py-2.5 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-primary hover:shadow text-start transition-all" dir="auto">
               <span class="text-xl shrink-0">${c.emoji || '•'}</span>
               <span class="min-w-0">
                 <span class="block text-sm font-medium truncate">${this.esc(this.cn(c))}</span>
@@ -277,7 +277,7 @@ class TopicsBrowser {
   chip(item) {
     const fav = this.isFav(item.topic);
     return `<button data-topic="${this.esc(item.topic)}" class="flex items-center gap-2 px-3 py-2 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-primary hover:shadow text-sm transition-all" dir="auto">
-      <span data-fav="${this.esc(item.topic)}" role="button" aria-label="${this.esc(this.tt(fav ? 'topics_unfav' : 'topics_fav'))}" class="shrink-0 -ml-0.5 text-base leading-none ${fav ? 'text-amber-400' : 'text-gray-300 dark:text-gray-600 hover:text-amber-400'}">${fav ? '★' : '☆'}</span>
+      <span data-fav="${this.esc(item.topic)}" role="button" aria-label="${this.esc(this.tt(fav ? 'topics_unfav' : 'topics_fav'))}" title="${this.esc(this.tt(fav ? 'topics_unfav' : 'topics_fav'))}" class="shrink-0 p-1 -m-1 text-base leading-none cursor-pointer ${fav ? 'text-amber-400' : 'text-gray-300 dark:text-gray-600 hover:text-amber-400'}">${fav ? '★' : '☆'}</span>
       <span class="font-medium truncate max-w-[180px]">${this.esc(this.dn(item.topic))}</span>
       <span class="shrink-0 text-xs px-1.5 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-blue-500/15 dark:text-blue-300">${item.verses.length}</span>
     </button>`;
@@ -293,9 +293,9 @@ class TopicsBrowser {
     this.overlay.innerHTML = `
       <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl w-full max-w-2xl max-h-[85vh] flex flex-col overflow-hidden">
         <div class="flex items-center gap-2 px-4 py-3 border-b border-gray-200 dark:border-gray-700">
-          <button id="topics-modal-back" class="hidden p-2 rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">←</button>
-          <h3 id="topics-modal-title" class="flex-1 font-semibold text-gray-800 dark:text-gray-100 truncate" dir="auto"></h3>
-          <button id="topics-modal-close" class="p-2 rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
+          <button id="topics-modal-back" aria-label="${this.esc(this.tt('back'))}" title="${this.esc(this.tt('back'))}" class="hidden min-w-[2.5rem] min-h-[2.5rem] p-2 rounded-lg text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary dark:focus-visible:ring-blue-400">←</button>
+          <h3 id="topics-modal-title" class="flex-1 min-w-0 font-semibold text-gray-800 dark:text-gray-100 truncate" dir="auto"></h3>
+          <button id="topics-modal-close" aria-label="${this.esc(this.tt('close'))}" title="${this.esc(this.tt('close'))}" class="min-w-[2.5rem] min-h-[2.5rem] p-2 rounded-lg text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary dark:focus-visible:ring-blue-400">✕</button>
         </div>
         <div id="topics-modal-body" class="flex-1 overflow-y-auto p-4"></div>
       </div>`;
@@ -356,7 +356,7 @@ class TopicsBrowser {
     this.modalBody.innerHTML = `
       <input id="topics-modal-search" type="text" value="${this.esc(this.modalQuery)}"
              placeholder="${this.esc(this.tt('topics_search_placeholder'))}" autofocus
-             class="w-full mb-3 px-4 py-2.5 rounded-xl border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-900 focus:outline-none focus:ring-2 focus:ring-primary">
+             class="w-full mb-3 px-4 py-2.5 rounded-xl border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 placeholder-gray-400 dark:placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-primary">
       ${collRow}
       <div id="topics-modal-list"></div>`;
     this.renderModalList();
@@ -386,8 +386,8 @@ class TopicsBrowser {
       <div class="text-xs text-gray-400 mb-2">${countLine}</div>
       <div class="grid grid-cols-1 sm:grid-cols-2 gap-1.5">
         ${items.map(i => `
-          <button data-mtopic="${this.esc(i.topic)}" class="flex items-center justify-between gap-2 px-3 py-2 rounded-lg text-left hover:bg-gray-100 dark:hover:bg-gray-700 border border-transparent hover:border-gray-200 dark:hover:border-gray-600" dir="auto">
-            <span class="text-sm truncate">${this.esc(this.dn(i.topic))}</span>
+          <button data-mtopic="${this.esc(i.topic)}" class="flex items-center justify-between gap-2 px-3 py-2 rounded-lg text-start hover:bg-gray-100 dark:hover:bg-gray-700 border border-transparent hover:border-gray-200 dark:hover:border-gray-600" dir="auto">
+            <span class="text-sm truncate min-w-0">${this.esc(this.dn(i.topic))}</span>
             <span class="shrink-0 text-xs px-1.5 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-blue-500/15 dark:text-blue-300">${i.verses.length}</span>
           </button>`).join('')}
       </div>`;
@@ -400,7 +400,7 @@ class TopicsBrowser {
     this.modalBack.classList.remove('hidden');
     this.modalTitle.textContent = this.dn(name);
     const fav = this.isFav(name);
-    const favBtn = `<button data-mfav="${this.esc(name)}" class="shrink-0 text-lg leading-none px-1 ${fav ? 'text-amber-400' : 'text-gray-300 dark:text-gray-600 hover:text-amber-400'}" aria-label="${this.esc(this.tt(fav ? 'topics_unfav' : 'topics_fav'))}">${fav ? '★' : '☆'}</button>`;
+    const favBtn = `<button data-mfav="${this.esc(name)}" class="shrink-0 text-lg leading-none px-2 py-1 -my-1 ${fav ? 'text-amber-400' : 'text-gray-300 dark:text-gray-600 hover:text-amber-400'}" aria-label="${this.esc(this.tt(fav ? 'topics_unfav' : 'topics_fav'))}" title="${this.esc(this.tt(fav ? 'topics_unfav' : 'topics_fav'))}">${fav ? '★' : '☆'}</button>`;
     this.modalBody.innerHTML = this.verseSectionHtml(item.verses, favBtn);
   }
 
@@ -440,17 +440,17 @@ class TopicsBrowser {
         chunks.push(`<button data-verse="${slice.join(',')}" data-openall="1" class="text-xs font-mono px-2.5 py-1.5 rounded-lg bg-secondary text-white hover:bg-secondary/90">${i + 1}–${i + slice.length}</button>`);
       }
       openBar = `<div class="flex flex-wrap items-center gap-1.5">
-          <span class="text-xs text-gray-500">${this.tt('topics_open_batch').replace('{n}', cap)}</span>
+          <span class="text-xs text-gray-500 dark:text-gray-400">${this.tt('topics_open_batch').replace('{n}', cap)}</span>
           ${chunks.join('')}
         </div>`;
     }
     return `
       <div class="flex items-center justify-between gap-2 flex-wrap mb-3">
-        <span class="flex items-center gap-1 text-sm text-gray-500">${headerExtra || ''}<span>${verses.length} ${this.tt('topics_verses_label')}</span></span>
+        <span class="flex items-center gap-1 text-sm text-gray-500 dark:text-gray-400">${headerExtra || ''}<span>${verses.length} ${this.tt('topics_verses_label')}</span></span>
         ${openBar}
       </div>
       <div class="flex flex-wrap gap-1.5">
-        ${verses.map(v => `<button data-verse="${this.esc(v)}" class="text-sm font-mono px-2.5 py-1.5 rounded-md bg-gray-100 dark:bg-gray-700 hover:bg-primary hover:text-white dark:hover:bg-primary transition-colors">${this.esc(v)}</button>`).join('')}
+        ${verses.map(v => `<button data-verse="${this.esc(v)}" class="text-sm font-mono px-2.5 py-1.5 rounded-md bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-primary hover:text-white dark:hover:bg-primary transition-colors">${this.esc(v)}</button>`).join('')}
       </div>`;
   }
 

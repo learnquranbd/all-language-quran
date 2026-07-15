@@ -542,7 +542,8 @@ class KidsQaida {
       <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl border border-gray-200 dark:border-gray-700 w-full max-w-2xl max-h-[85vh] flex flex-col">
         <div class="flex items-center gap-2 px-5 py-3 border-b border-gray-200 dark:border-gray-700">
           <h3 id="kids-finder-title" class="flex-1 font-bold text-gray-800 dark:text-gray-100"></h3>
-          <button id="kids-finder-close" class="p-2 rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
+          <button id="kids-finder-close" title="${t('close', this.language)}" aria-label="${t('close', this.language)}"
+                  class="p-2 min-w-[2.5rem] min-h-[2.5rem] rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
         </div>
         <div id="kids-finder-body" class="flex-1 overflow-y-auto p-4"></div>
       </div>`;
@@ -572,7 +573,8 @@ class KidsQaida {
       <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl border border-gray-200 dark:border-gray-700 w-full max-w-3xl max-h-[88vh] flex flex-col">
         <div class="flex items-center gap-2 px-5 py-3 border-b border-gray-200 dark:border-gray-700">
           <h3 id="kids-ayah-title" class="flex-1 font-bold text-gray-800 dark:text-gray-100"></h3>
-          <button id="kids-ayah-close" class="p-2 rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
+          <button id="kids-ayah-close" title="${t('close', this.language)}" aria-label="${t('close', this.language)}"
+                  class="p-2 min-w-[2.5rem] min-h-[2.5rem] rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
         </div>
         <div id="kids-ayah-body" class="flex-1 overflow-y-auto p-5"></div>
       </div>`;
@@ -660,7 +662,7 @@ class KidsQaida {
       const fullAyahUrl = `https://everyayah.com/data/Alafasy_128kbps/${pad(s)}${pad(a)}.mp3`;
 
       body.innerHTML = `
-        <div class="ayah-arabic !text-3xl !leading-loose text-center mb-3" dir="rtl">${v.arabic}</div>
+        <div class="ayah-arabic !text-3xl !leading-[2.4] text-center mb-3" dir="rtl">${v.arabic}</div>
         <p class="text-xs text-center text-gray-400 mb-2">${t('tap_word_to_hear', lang)}</p>
         <div class="flex flex-wrap justify-center gap-x-1 mb-3" dir="rtl">${wbw}</div>
         <p class="text-center text-gray-600 dark:text-gray-300 mb-4" dir="auto">${v.translation || ''}</p>
@@ -867,12 +869,12 @@ class KidsQaida {
                   shadow hover:shadow-lg transition-all p-3 sm:p-4 flex flex-col items-center gap-1">
         <button data-kids-num-word="${this.esc(num.word)}" class="flex flex-col items-center gap-0.5 hover:scale-105 transition-transform max-w-full" title="${t('play', this.language)}">
           <span class="ayah-arabic !text-3xl sm:!text-5xl !leading-none max-w-full" dir="rtl">${num.digit}</span>
-          <span class="ayah-arabic !text-2xl !leading-normal text-gray-700 dark:text-gray-200" dir="rtl">${num.word}</span>
+          <span class="ayah-arabic !text-2xl !leading-[2.2] max-w-full break-words text-gray-700 dark:text-gray-200" dir="rtl">${num.word}</span>
           <span class="text-sm font-bold text-gray-600 dark:text-gray-300">${num.value.toLocaleString()} · ${num.translit}</span>
         </button>
         <button data-kids-num-verse="${num.ref}" data-kids-num-hl="${this.esc(num.hl || num.word.split(' ')[0])}"
                 class="mt-1 w-full rounded-lg bg-white/60 dark:bg-gray-900/40 hover:bg-white dark:hover:bg-gray-900 px-2 py-1.5 text-center">
-          <span class="ayah-arabic !text-lg !leading-normal block" dir="rtl">${num.phrase}</span>
+          <span class="ayah-arabic !text-lg !leading-[2.2] block break-words" dir="rtl">${num.phrase}</span>
           <span class="text-xs text-gray-500 dark:text-gray-400 font-mono">📖 ${num.ref}</span>
         </button>
       </div>`;

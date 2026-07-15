@@ -209,7 +209,7 @@ class GrammarView {
 
     const rootChips = roots.map(r =>
       `<button data-sarf-root="${this.esc(r)}" title="${t('sarf_title', lang)}"
-         class="ayah-arabic !text-base px-2 py-0.5 rounded bg-gray-100 dark:bg-gray-700 hover:bg-fuchsia-500 hover:text-white transition-colors">${this.esc(r.split('').join(' '))}</button>`
+         class="ayah-arabic !text-base !mb-0 !pb-0 !border-b-0 px-2 py-1 rounded bg-gray-100 dark:bg-gray-700 hover:bg-fuchsia-500 hover:text-white transition-colors">${this.esc(r.split('').join(' '))}</button>`
     ).join('');
 
     return `
@@ -244,27 +244,27 @@ class GrammarView {
       <div class="border border-gray-100 dark:border-gray-700 rounded-lg p-3 transition-opacity" data-word-pos="${pos}">
         <div class="flex flex-wrap items-baseline gap-3 mb-2">
           <span class="text-xs text-gray-400">${wordIndex + 1}</span>
-          <span class="ayah-arabic !text-2xl">${arabic}</span>
+          <span class="ayah-arabic !text-2xl !mb-0 !pb-0 !border-b-0">${arabic}</span>
           <span class="text-sm text-gray-600 dark:text-gray-300" dir="auto">${meaning}</span>
           ${root ? `
             <button data-sarf-root="${this.esc(root)}" title="${t('gr_open_sarf', lang)}"
               class="ml-auto text-sm text-gray-500 dark:text-gray-400 hover:text-fuchsia-600 dark:hover:text-fuchsia-300 transition-colors">
-              ${t('root', lang)}: <span class="ayah-arabic !text-lg">${this.esc(root.split('').join(' '))}</span> 🧬
+              ${t('root', lang)}: <span class="ayah-arabic !text-lg !mb-0 !pb-0 !border-b-0">${this.esc(root.split('').join(' '))}</span> 🧬
             </button>` : ''}
         </div>
         ${renderSegments(segments, lang)}
         <div class="flex flex-wrap items-center gap-2 mt-2">
           <button data-word-toggle="${wid}"
-            class="text-xs px-2 py-1 rounded bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:text-primary transition-colors">
+            class="text-xs px-2 py-1.5 rounded bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-blue-300 transition-colors">
             <span data-toggle-arrow>▸</span> ${t('gr_features', lang)}
           </button>
           <button data-copy-morph="${copyPayload}"
-            class="text-xs px-2 py-1 rounded bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:text-primary transition-colors">
+            class="text-xs px-2 py-1.5 rounded bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-blue-300 transition-colors">
             📋 ${t('copy', lang)}
           </button>
           <a href="https://corpus.quran.com/wordmorphology.jsp?location=${encodeURIComponent(corpusLoc)}"
             target="_blank" rel="noopener"
-            class="text-xs px-2 py-1 rounded bg-gray-100 dark:bg-gray-700 text-primary dark:text-blue-300 hover:underline">
+            class="text-xs px-2 py-1.5 rounded bg-gray-100 dark:bg-gray-700 text-primary dark:text-blue-300 hover:underline">
             corpus.quran.com ↗
           </a>
         </div>
@@ -285,9 +285,9 @@ class GrammarView {
       }).join('');
       return `
         <div class="flex flex-wrap items-center gap-1.5 text-sm">
-          <span class="ayah-arabic !text-base min-w-[2rem] ${color}">${seg.t}</span>
+          <span class="ayah-arabic !text-base !mb-0 !pb-0 !border-b-0 min-w-[2rem] ${color}">${seg.t}</span>
           ${feats || '<span class="text-xs text-gray-400">—</span>'}
-          ${seg.l ? `<span class="text-xs text-gray-500 dark:text-gray-400 ml-1">${t('lemma', lang)}: <span class="ayah-arabic !text-base">${seg.l}</span></span>` : ''}
+          ${seg.l ? `<span class="text-xs text-gray-500 dark:text-gray-400 ml-1">${t('lemma', lang)}: <span class="ayah-arabic !text-base !mb-0 !pb-0 !border-b-0">${seg.l}</span></span>` : ''}
         </div>`;
     }).join('');
   }
@@ -362,7 +362,7 @@ class GrammarView {
   /** Dim word rows that don't match the active POS filter; sync button styles. */
   applyFilter() {
     const active = 'bg-primary text-white';
-    const idle = 'bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:text-primary';
+    const idle = 'bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-blue-300';
     this.container.querySelectorAll('[data-gfilter]').forEach(btn => {
       const on = btn.getAttribute('data-gfilter') === this.filter;
       btn.className = `gr-filter-btn text-xs px-3 py-1.5 rounded-full transition-colors ${on ? active : idle}`;

@@ -433,9 +433,9 @@ class TajweedLearn {
             <button data-ayah-ref="${surah}:${r.a}" title="${this.tt('tj_open_verse')}"
                     class="text-xs font-mono text-gray-400 hover:text-primary underline decoration-dotted underline-offset-2">${surah}:${r.a} ⓘ</button>
             <span class="text-xs px-1.5 rounded-full" style="background:${color}22;color:${color}">×${r.n}</span>
-            <button data-ayah-audio="https://everyayah.com/data/Alafasy_128kbps/${pad(surah)}${pad(r.a)}.mp3" class="ms-auto text-xs px-2 py-0.5 rounded-md bg-primary text-white hover:bg-primary/80">🔊</button>
+            <button data-ayah-audio="https://everyayah.com/data/Alafasy_128kbps/${pad(surah)}${pad(r.a)}.mp3" title="${this.tt('play')}" aria-label="${this.tt('play')}" class="ms-auto text-xs px-2.5 py-1 rounded-md bg-primary text-white hover:bg-primary/80">🔊</button>
           </div>
-          <div class="ayah-arabic !text-2xl !leading-loose" dir="rtl">${r.html}</div>
+          <div class="ayah-arabic !text-2xl !leading-[2.4]" dir="rtl">${r.html}</div>
         </div>`).join('')
         + (remaining > 0 ? `
         <button data-tj-more class="w-full text-center text-sm py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
@@ -661,7 +661,7 @@ class TajweedLearn {
         </div>
         <p class="text-sm font-medium text-gray-700 dark:text-gray-200 mb-3" dir="auto">${this.tt('quiz_which_rule')}</p>
         <div class="rounded-lg bg-gray-50 dark:bg-gray-900/40 p-4 mb-2">
-          <div class="ayah-arabic !text-2xl !leading-loose" dir="rtl">${q.promptHtml}</div>
+          <div class="ayah-arabic !text-2xl !leading-[2.4]" dir="rtl">${q.promptHtml}</div>
         </div>
         <div class="mb-4">
           <button data-ayah-ref="${q.ref}" title="${this.tt('tj_open_verse')}"
@@ -675,7 +675,7 @@ class TajweedLearn {
               else if (i === d.picked) cls = 'border-red-500 bg-red-50 dark:bg-red-500/15 text-red-600 dark:text-red-300';
               else cls = 'border-gray-200 dark:border-gray-700 opacity-60';
             }
-            return `<button data-tj-opt="${i}" ${answered ? 'disabled' : ''} dir="auto" class="px-3 py-2.5 rounded-lg border text-sm text-start ${cls}">${this.esc(o.name)}</button>`;
+            return `<button data-tj-opt="${i}" ${answered ? 'disabled' : ''} dir="auto" class="px-3 py-3 min-h-[2.75rem] rounded-lg border text-sm text-start ${cls}">${this.esc(o.name)}</button>`;
           }).join('')}
         </div>
         ${answered ? `
