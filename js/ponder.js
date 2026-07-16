@@ -35,15 +35,44 @@ const PONDER_PROMPT_KEYS = [
   'ponder_q13', 'ponder_q14', 'ponder_q15', 'ponder_q16'
 ];
 
+// Themed reflection sets — each draws a relevant subset of the pool above.
+// Labels carry their own inline en/bn text (no translation keys needed).
+// Every ref below is guaranteed to exist in PONDER_REFS.
+const PONDER_THEMES = {
+  mercy:      { emoji: '💚', en: 'Mercy & Forgiveness', bn: 'দয়া ও ক্ষমা',
+                refs: ['2:186', '2:286', '3:8', '3:133-134', '4:110', '7:23', '12:86-87', '24:22', '39:53', '40:60'] },
+  patience:   { emoji: '🌱', en: 'Patience & Trials', bn: 'ধৈর্য ও পরীক্ষা',
+                refs: ['2:45-46', '2:155-157', '2:216', '3:139', '13:24', '21:87', '29:2-3', '46:15', '94:5-6', '103:1-3'] },
+  gratitude:  { emoji: '🙏', en: 'Gratitude', bn: 'কৃতজ্ঞতা',
+                refs: ['2:152', '2:201', '14:7', '14:34', '16:18', '31:14', '55:13', '55:60', '93:3-5'] },
+  trust:      { emoji: '🕊️', en: 'Trust in God', bn: 'আল্লাহর উপর ভরসা',
+                refs: ['3:159', '8:2-4', '9:40', '9:51', '42:36-38', '65:2-3'] },
+  hereafter:  { emoji: '🌌', en: 'The Hereafter', bn: 'আখিরাত',
+                refs: ['3:185', '21:35', '23:115-116', '57:22-23', '59:18-19', '64:11', '87:14-17', '89:27-30', '99:7-8'] },
+  character:  { emoji: '🤝', en: 'Character & Conduct', bn: 'চরিত্র ও আচরণ',
+                refs: ['4:36', '16:90', '17:23-24', '23:1-3', '25:63', '25:74', '31:17-19', '49:12-13', '73:8'] },
+  remembrance:{ emoji: '📿', en: 'Remembrance', bn: 'যিকির',
+                refs: ['2:152', '13:28', '20:114', '24:35', '33:41-42', '50:16', '87:14-17'] }
+};
+
+// In-module en/bn fallbacks for NEW UI strings (render before translations.js
+// is updated). t() returns the key unchanged when it is not yet merged.
+const PONDER_I18N = {
+  ponder_themes: { en: 'Reflect by theme', bn: 'থিম অনুযায়ী ভাবুন' },
+  ponder_all:    { en: 'All', bn: 'সব' },
+  ponder_prev:   { en: 'Previous ayah', bn: 'পূর্ববর্তী আয়াত' },
+  ponder_next:   { en: 'Next ayah', bn: 'পরবর্তী আয়াত' }
+};
+
 class PonderCard {
   constructor() {
     this.container = document.getElementById('ayah-container');
     if (!this.container) return;
 
     this.language = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
-    this.offset = 0;          // "another ayah" clicks shift off today's pick
-    this.forcedRef = null;    // set by "Surprise me" (true random, ignores day)
-    this.randSeed = 0;        // seed for prompt rotation when a random verse is shown
+    this.theme = null;        // active themed set id (null = full pool)
+    this.poolPos = null;      // explicit position in current pool (null = today's pick)
+    this.promptSeed = 0;      // extra seed for prompt rotation on a random pick
     this.curRef = null;       // ref currently shown in the card (for journaling)
     this.curName = '';        // surah display name of the current verse
     this.journalOpen = false; // reflection editor visibility
@@ -64,15 +93,31 @@ class PonderCard {
   }
 
   onClick(e) {
-    if (e.target.closest('#ponder-another')) {
-      this.forcedRef = null;
-      this.offset++;
+    if (e.target.closest('#ponder-another') || e.target.closest('[data-ponder-next]')) {
+      this.poolPos = this.currentIndex() + 1;
+      this.promptSeed = 0;
+      this.render();
+      return;
+    }
+    if (e.target.closest('[data-ponder-prev]')) {
+      this.poolPos = this.currentIndex() - 1;
+      this.promptSeed = 0;
       this.render();
       return;
     }
     if (e.target.closest('[data-ponder-random]')) {
-      this.forcedRef = PONDER_REFS[Math.floor(Math.random() * PONDER_REFS.length)];
-      this.randSeed = Math.floor(Math.random() * 100000);
+      const pool = this.pool();
+      this.poolPos = Math.floor(Math.random() * pool.length);
+      this.promptSeed = Math.floor(Math.random() * 100000);
+      this.render();
+      return;
+    }
+    const themeBtn = e.target.closest('[data-ponder-theme]');
+    if (themeBtn) {
+      const th = themeBtn.getAttribute('data-ponder-theme');
+      this.theme = (th && PONDER_THEMES[th]) ? th : null;
+      this.poolPos = null;      // fall back to the day's pick within the new set
+      this.promptSeed = 0;
       this.render();
       return;
     }
@@ -305,11 +350,48 @@ class PonderCard {
       </div>`;
   }
 
-  dayIndex() {
+  // ---- i18n fallback for new UI strings ------------------------------------
+  L(key) {
+    const s = t(key, this.language);
+    if (s !== key) return s;
+    const fb = PONDER_I18N[key];
+    return fb ? (fb[this.language] || fb.en) : key;
+  }
+  themeLabel(id) {
+    const o = PONDER_THEMES[id];
+    return o ? (o[this.language] || o.en) : '';
+  }
+
+  // ---- pool + position -----------------------------------------------------
+  dayNumber() {
     const now = new Date();
     const start = new Date(now.getFullYear(), 0, 0);
-    const day = Math.floor((now - start) / 86400000);
-    return (day + this.offset) % PONDER_REFS.length;
+    return Math.floor((now - start) / 86400000);
+  }
+  /** The active pool: a themed subset, or the full reflection pool. */
+  pool() {
+    return (this.theme && PONDER_THEMES[this.theme]) ? PONDER_THEMES[this.theme].refs : PONDER_REFS;
+  }
+  /** Normalised index into the current pool (day-derived, or explicit). */
+  currentIndex() {
+    const n = this.pool().length;
+    const base = (this.poolPos == null) ? this.dayNumber() : this.poolPos;
+    return ((base % n) + n) % n;
+  }
+
+  /** Theme picker chips + a heading. */
+  themeBarHtml() {
+    const chip = (id, label, active) => `
+      <button data-ponder-theme="${this.esc(id)}"
+              class="px-3 py-1 rounded-full text-xs font-medium border transition-colors ${active
+                ? 'bg-primary text-white border-primary'
+                : 'border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'}">${label}</button>`;
+    const chips = [chip('', '🌐 ' + this.esc(this.L('ponder_all')), !this.theme)]
+      .concat(Object.keys(PONDER_THEMES).map(id =>
+        chip(id, PONDER_THEMES[id].emoji + ' ' + this.esc(this.themeLabel(id)), this.theme === id)));
+    return `
+      <p class="text-[11px] uppercase tracking-wide font-semibold text-gray-400 mb-2 text-center">${this.esc(this.L('ponder_themes'))}</p>
+      <div class="flex flex-wrap justify-center gap-2">${chips.join('')}</div>`;
   }
 
   /**
@@ -330,7 +412,10 @@ class PonderCard {
 
   async render() {
     const lang = this.language;
-    const ref = this.forcedRef || PONDER_REFS[this.dayIndex()];
+    const pool = this.pool();
+    const total = pool.length;
+    const idx = this.currentIndex();
+    const ref = pool[idx];
     const m = ref.match(/(\d+):(\d+)(?:-(\d+))?/);
     const surah = parseInt(m[1]);
     const start = parseInt(m[2]);
@@ -346,6 +431,7 @@ class PonderCard {
           <div class="text-3xl mb-1">🌅</div>
           <h2 class="text-lg font-bold text-gray-800 dark:text-gray-100">${t('ponder_title', lang)}</h2>
         </div>
+        <div class="px-6 pb-2">${this.themeBarHtml()}</div>
         <div id="ponder-body" class="px-6 pb-6 text-center">
           <p class="text-gray-400 py-6">${t('loading', lang)}</p>
         </div>
@@ -372,14 +458,21 @@ class PonderCard {
       this.curTranslation = translation;
 
       // Three rotating generic reflection prompts (varies with day / random pick).
-      const seed = this.forcedRef ? this.randSeed : this.dayIndex();
+      const seed = (this.promptSeed || 0) + idx;
       const [p1, p2, p3] = this.promptsFor(seed);
       this.curPrompts = [p1, p2, p3];
 
       document.getElementById('ponder-body').innerHTML = `
         <div class="ayah-arabic !text-3xl !leading-loose mb-3" dir="rtl">${arabic}</div>
         <p class="text-gray-700 dark:text-gray-300 leading-relaxed mb-2" dir="auto">${translation}</p>
-        <p class="text-sm text-gray-400 mb-5">— ${name} ${ref}</p>
+        <p class="text-sm text-gray-400 mb-3">— ${name} ${ref}</p>
+        <div class="flex items-center justify-center gap-3 mb-5">
+          <button data-ponder-prev aria-label="${this.esc(this.L('ponder_prev'))}" title="${this.esc(this.L('ponder_prev'))}"
+                  class="w-9 h-9 flex items-center justify-center rounded-full border border-gray-300 dark:border-gray-600 text-lg leading-none text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">‹</button>
+          <span class="text-xs font-medium text-gray-500 dark:text-gray-400 tabular-nums">${idx + 1} / ${total}${this.theme ? ' · ' + this.esc(this.themeLabel(this.theme)) : ''}</span>
+          <button data-ponder-next aria-label="${this.esc(this.L('ponder_next'))}" title="${this.esc(this.L('ponder_next'))}"
+                  class="w-9 h-9 flex items-center justify-center rounded-full border border-gray-300 dark:border-gray-600 text-lg leading-none text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">›</button>
+        </div>
         <div class="text-start max-w-3xl mx-auto space-y-2 mb-6">
           <p class="flex gap-2 text-sm text-gray-600 dark:text-gray-300"><span>💭</span><span>${p1}</span></p>
           <p class="flex gap-2 text-sm text-gray-600 dark:text-gray-300"><span>💭</span><span>${p2}</span></p>

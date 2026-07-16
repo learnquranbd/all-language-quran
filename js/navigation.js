@@ -94,6 +94,22 @@ class AppNavigation {
   }
 
   /**
+   * Localize a string, falling back to a local map for keys that may not yet
+   * exist in translations.js (mirrors the tt() pattern used by other modules).
+   */
+  tn(key, lang) {
+    const l = lang || this.language;
+    const val = (typeof t !== 'undefined') ? t(key, l) : key;
+    if (val && val !== key) return val;
+    const FALLBACK = {
+      filter_all: { en: 'All', bn: 'সব' }
+    };
+    const entry = FALLBACK[key];
+    if (!entry) return key;
+    return entry[l] || entry.en || key;
+  }
+
+  /**
    * Close the mobile sidebar (mirrors QuranApp.closeSidebar)
    */
   closeSidebar() {
@@ -357,6 +373,8 @@ class AppNavigation {
 
     const lang = this.language;
     try { this.qnTab = localStorage.getItem('quickNavTab') || 'surah'; } catch (e) { this.qnTab = 'surah'; }
+    try { this.revFilter = localStorage.getItem('quickNavRevFilter') || 'all'; } catch (e) { this.revFilter = 'all'; }
+    if (!['all', 'Meccan', 'Medinan'].includes(this.revFilter)) this.revFilter = 'all';
 
     this.surahSection = document.createElement('div');
     this.surahSection.id = 'surah-quick-nav';
@@ -400,6 +418,11 @@ class AppNavigation {
                       placeholder-gray-400 dark:placeholder-gray-500
                       focus:outline-none focus:ring-2 focus:ring-primary dark:focus:ring-blue-500"
                placeholder="${t('search_surah', lang)}">
+        <div id="qn-rev-filter" class="flex gap-1 mb-2 text-xs">
+          <button data-rev="all" class="qn-rev flex-1 px-2 py-1 rounded-md transition-colors">${this.tn('filter_all', lang)}</button>
+          <button data-rev="Meccan" class="qn-rev flex-1 px-2 py-1 rounded-md transition-colors">${t('meccan', lang)}</button>
+          <button data-rev="Medinan" class="qn-rev flex-1 px-2 py-1 rounded-md transition-colors">${t('medinan', lang)}</button>
+        </div>
         <div id="surah-quick-list" class="max-h-64 overflow-y-auto space-y-1 text-sm"></div>
       </div>
       <div id="qn-juz-pane" class="max-h-64 overflow-y-auto"></div>
@@ -436,6 +459,20 @@ class AppNavigation {
     this.searchInput.addEventListener('input', () => {
       this.renderSurahList(this.searchInput.value);
     });
+
+    // Revelation-place filter chips (All / Meccan / Medinan), persisted
+    const revBar = this.surahSection.querySelector('#qn-rev-filter');
+    if (revBar) {
+      revBar.addEventListener('click', (e) => {
+        const btn = e.target.closest('[data-rev]');
+        if (!btn) return;
+        this.revFilter = btn.getAttribute('data-rev');
+        try { localStorage.setItem('quickNavRevFilter', this.revFilter); } catch (err) { /* ignore */ }
+        this.applyRevFilterStyles();
+        this.renderSurahList(this.searchInput ? this.searchInput.value : '');
+      });
+    }
+    this.applyRevFilterStyles();
 
     // Delegated click
     this.surahList.addEventListener('click', (e) => {
@@ -512,6 +549,17 @@ class AppNavigation {
     this.surahSection.querySelector('#qn-surah-pane').classList.toggle('hidden', this.qnTab !== 'surah');
     this.surahSection.querySelector('#qn-juz-pane').classList.toggle('hidden', this.qnTab !== 'juz');
     this.surahSection.querySelector('#qn-page-pane').classList.toggle('hidden', this.qnTab !== 'page');
+  }
+
+  /** Highlight the active revelation-place filter chip. */
+  applyRevFilterStyles() {
+    if (!this.surahSection) return;
+    const active = 'bg-primary text-white dark:bg-blue-600 font-medium';
+    const idle = 'bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600';
+    this.surahSection.querySelectorAll('.qn-rev').forEach(btn => {
+      const on = btn.getAttribute('data-rev') === (this.revFilter || 'all');
+      btn.className = 'qn-rev flex-1 px-2 py-1 rounded-md transition-colors ' + (on ? active : idle);
+    });
   }
 
   /* ------------------------------------------------------------------ *
@@ -646,11 +694,17 @@ class AppNavigation {
     const lang = this.language;
     const q = (query || '').trim().toLowerCase();
 
+    const rev = this.revFilter || 'all';
     const matches = SURAH_DATA.filter(surah => {
+      if (rev !== 'all' && surah.revelationType !== rev) return false;
       if (!q) return true;
       const localizedName = (getSurahName(surah.number, lang) || '').toLowerCase();
+      // Always allow matching the English transliteration too, so e.g. "kahf"
+      // finds Al-Kahf even when the UI is in another language.
+      const enName = (surah.names && surah.names.en ? surah.names.en : '').toLowerCase();
       return String(surah.number).includes(q) ||
              localizedName.includes(q) ||
+             enName.includes(q) ||
              surah.arabicName.includes(q);
     });
 
@@ -689,6 +743,12 @@ class AppNavigation {
       btn.textContent = t(btn.getAttribute('data-qn-tab'), lang);
     });
     if (this.searchInput) this.searchInput.setAttribute('placeholder', t('search_surah', lang));
+    // Re-localize revelation-place filter chips
+    this.surahSection.querySelectorAll('.qn-rev').forEach(btn => {
+      const rev = btn.getAttribute('data-rev');
+      btn.textContent = rev === 'all' ? this.tn('filter_all', lang)
+        : t(rev === 'Meccan' ? 'meccan' : 'medinan', lang);
+    });
     const goBtn = this.surahSection.querySelector('#qn-page-go');
     if (goBtn) goBtn.textContent = t('go', lang);
 

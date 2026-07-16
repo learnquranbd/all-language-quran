@@ -1137,7 +1137,13 @@ const TRANSLATIONS = {
     ach_mem_10: "10 Ayahs Memorized",
     ach_tajweed_5: "Tajweed Explorer",
     ach_kids_7: "7-Day Kids Streak",
-    ach_streak_10: "10-in-a-Row Streak"
+    ach_streak_10: "10-in-a-Row Streak",
+
+    filter_all: "All",
+    ponder_themes: "Reflect by theme",
+    ponder_all: "All",
+    ponder_prev: "Previous ayah",
+    ponder_next: "Next ayah"
 
   },
 
@@ -2274,7 +2280,13 @@ const TRANSLATIONS = {
     ach_mem_10: "১০ আয়াত মুখস্থ",
     ach_tajweed_5: "তাজবিদ অভিযাত্রী",
     ach_kids_7: "৭ দিনের শিশু ধারা",
-    ach_streak_10: "টানা ১০ ধারা"
+    ach_streak_10: "টানা ১০ ধারা",
+
+    filter_all: "সব",
+    ponder_themes: "থিম অনুযায়ী ভাবুন",
+    ponder_all: "সব",
+    ponder_prev: "পূর্ববর্তী আয়াত",
+    ponder_next: "পরবর্তী আয়াত"
 
   },
 
