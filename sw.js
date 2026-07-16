@@ -31,6 +31,7 @@ const PRECACHE_URLS = [
   // Scripts (order mirrors index.html)
   'js/surah-data.js?v=97',
   'js/translations.js?v=97',
+  'js/content-i18n.js?v=97',
   'js/quran-data.js?v=97',
   'js/ayah-modal.js?v=97',
   'js/tabs.js?v=97',

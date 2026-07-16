@@ -1442,9 +1442,17 @@ class QuranicArabicView {
     const entry = QA_UI[key];
     return entry ? (entry[this.language] || entry.en) : key;
   }
-  L(obj) { if (!obj) return ''; return this.language === 'bn' ? (obj.bn || obj.en || '') : (obj.en || obj.bn || ''); }
+  // Content-language resolver: bn from inline data, other languages via the
+  // CI18N knowledgebase (content-i18n.js), falling back to English.
+  lc(o) {
+    if (!o) return '';
+    if (this.language === 'bn' && o.bn) return o.bn;
+    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en); if (tr) return tr; }
+    return o.en || o.bn || '';
+  }
+  L(obj) { return this.lc(obj); } // legacy alias
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
-  optText(o) { return typeof o === 'string' ? o : this.L(o); }
+  optText(o) { return typeof o === 'string' ? o : this.lc(o); }
 
   loadProgress() {
     try {
@@ -1639,7 +1647,7 @@ class QuranicArabicView {
         <button type="button" data-qa-unit="${this.esc(unit.id)}"
           class="flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold border ${full ? 'bg-emerald-100 dark:bg-emerald-900/40 border-emerald-300 dark:border-emerald-700 text-emerald-700 dark:text-emerald-300' : 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-600 dark:text-gray-300'} hover:border-primary transition-colors">
           <span aria-hidden="true">${this.esc(unit.icon)}</span>
-          <span dir="auto">${this.esc(this.L(unit))}</span>
+          <span dir="auto">${this.esc(this.lc(unit))}</span>
           <span class="opacity-70">${uDone}/${uTotal}</span>
         </button>`;
     }).join('');
@@ -1657,7 +1665,7 @@ class QuranicArabicView {
             class="group w-full text-left flex items-center gap-3 p-3 rounded-xl bg-white dark:bg-gray-800 border ${learned ? 'border-emerald-300 dark:border-emerald-700' : 'border-gray-200 dark:border-gray-700'} hover:border-primary hover:shadow-md transition-all">
             <span class="flex items-center justify-center w-9 h-9 shrink-0 rounded-lg text-lg ${learned ? 'bg-emerald-100 dark:bg-emerald-900/40' : 'bg-gray-100 dark:bg-gray-700'}" aria-hidden="true">${learned ? '✓' : this.esc(l.icon)}</span>
             <span class="flex-1 min-w-0">
-              <span class="block font-semibold text-gray-800 dark:text-gray-100 truncate" dir="auto">${this.esc(this.L(l.title))}</span>
+              <span class="block font-semibold text-gray-800 dark:text-gray-100 truncate" dir="auto">${this.esc(this.lc(l.title))}</span>
               <span class="block text-xs ${learned ? 'text-emerald-600 dark:text-emerald-400' : 'text-gray-400 dark:text-gray-500'}">${learned ? this.esc(this.tt('qa_learned')) : (this.esc(this.tt('qa_lesson')) + ' ' + (idx + 1))}</span>
             </span>
             <span class="text-gray-300 dark:text-gray-600 group-hover:text-primary transition-colors" aria-hidden="true">›</span>
@@ -1667,7 +1675,7 @@ class QuranicArabicView {
         <section id="qa-unit-${this.esc(unit.id)}" class="mb-7 scroll-mt-4">
           <div class="flex items-center justify-between gap-2 mb-3">
             <h3 class="flex items-center gap-2 text-base font-bold text-gray-700 dark:text-gray-200">
-              <span aria-hidden="true">${this.esc(unit.icon)}</span><span dir="auto">${this.esc(this.L(unit))}</span>
+              <span aria-hidden="true">${this.esc(unit.icon)}</span><span dir="auto">${this.esc(this.lc(unit))}</span>
               <span class="text-xs font-normal text-gray-400 dark:text-gray-500">${uDone}/${uTotal}</span>
             </h3>
           </div>
@@ -1743,7 +1751,7 @@ class QuranicArabicView {
             ${(typeof QA_NEXT_STEPS !== 'undefined' && Array.isArray(QA_NEXT_STEPS) ? QA_NEXT_STEPS : []).map(s => `
             <li class="flex items-start gap-2 text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">
               <span class="text-emerald-500 mt-0.5" aria-hidden="true">✔</span>
-              <span>${this.esc(this.language === 'bn' ? (s.bn || s.en) : s.en)}</span>
+              <span>${this.esc(this.lc(s))}</span>
             </li>`).join('')}
           </ul>
         </div>
@@ -1754,7 +1762,7 @@ class QuranicArabicView {
     return (words || []).map(w => `
       <span class="inline-flex flex-col items-center px-1.5 py-1 rounded-lg ${w.hl ? 'bg-emerald-100 dark:bg-emerald-900/40' : ''}">
         <span class="text-xl leading-snug ${w.hl ? 'text-emerald-700 dark:text-emerald-300 font-bold' : 'text-gray-800 dark:text-gray-100'}" dir="rtl">${this.esc(w.ar)}</span>
-        <span class="text-[0.68rem] ${w.hl ? 'text-emerald-600 dark:text-emerald-400 font-semibold' : 'text-gray-400 dark:text-gray-500'}" dir="auto">${this.esc(this.language === 'bn' ? (w.bn || w.en) : w.en)}</span>
+        <span class="text-[0.68rem] ${w.hl ? 'text-emerald-600 dark:text-emerald-400 font-semibold' : 'text-gray-400 dark:text-gray-500'}" dir="auto">${this.esc(this.lc(w))}</span>
       </span>`).join('');
   }
 
@@ -1770,8 +1778,8 @@ class QuranicArabicView {
         </div>
         <div class="p-4">
           <div class="flex flex-wrap items-start justify-center gap-1.5 mb-3" dir="rtl">${this.renderWordRow(ex.words)}</div>
-          <p class="text-sm text-gray-600 dark:text-gray-300 text-center italic mb-3" dir="auto">“${this.esc(this.L(ex.trans))}”</p>
-          ${ex.note ? `<p class="text-xs text-gray-500 dark:text-gray-400 bg-gray-50 dark:bg-gray-800/60 rounded-lg p-2.5 mb-3" dir="auto">💡 ${this.esc(this.L(ex.note))}</p>` : ''}
+          <p class="text-sm text-gray-600 dark:text-gray-300 text-center italic mb-3" dir="auto">“${this.esc(this.lc(ex.trans))}”</p>
+          ${ex.note ? `<p class="text-xs text-gray-500 dark:text-gray-400 bg-gray-50 dark:bg-gray-800/60 rounded-lg p-2.5 mb-3" dir="auto">💡 ${this.esc(this.lc(ex.note))}</p>` : ''}
           <div class="text-center">
             <button type="button" data-qa-ref="${this.esc(ex.ref)}" ${hlWord ? `data-qa-word="${this.esc(hlWord.ar)}"` : ''}
               class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold bg-primary/10 text-primary hover:bg-primary/20 transition-colors">
@@ -1808,7 +1816,7 @@ class QuranicArabicView {
       feedback = `
         <div class="mt-3 p-3 rounded-xl ${ok ? 'bg-emerald-50 dark:bg-emerald-900/30 text-emerald-800 dark:text-emerald-300' : 'bg-amber-50 dark:bg-amber-900/30 text-amber-800 dark:text-amber-300'}">
           <p class="font-semibold text-sm mb-1">${ok ? '🎉 ' + this.esc(this.tt('qa_correct')) : '🤔 ' + this.esc(this.tt('qa_incorrect'))}</p>
-          <p class="text-xs leading-relaxed" dir="auto">${this.esc(this.L(p.explain))}</p>
+          <p class="text-xs leading-relaxed" dir="auto">${this.esc(this.lc(p.explain))}</p>
           ${!ok ? `<button type="button" data-qa-retry class="mt-2 text-xs font-semibold underline">${this.esc(this.tt('qa_retry'))}</button>` : ''}
         </div>`;
     }
@@ -1818,7 +1826,7 @@ class QuranicArabicView {
         <h4 class="flex items-center gap-2 text-sm font-bold text-gray-700 dark:text-gray-200 mb-3">
           <span aria-hidden="true">🧠</span><span>${this.esc(this.tt('qa_practice'))}</span>
         </h4>
-        <p class="text-sm text-gray-700 dark:text-gray-200 mb-3" dir="auto">${this.esc(this.L(p.q))}</p>
+        <p class="text-sm text-gray-700 dark:text-gray-200 mb-3" dir="auto">${this.esc(this.lc(p.q))}</p>
         <div class="space-y-2">${opts}</div>
         ${feedback}
       </div>`;
@@ -1843,9 +1851,9 @@ class QuranicArabicView {
         </div>
 
         <div class="mb-4">
-          ${unit ? `<span class="inline-flex items-center gap-1 text-xs font-semibold px-2.5 py-1 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 mb-2">${this.esc(unit.icon)} ${this.esc(this.L(unit))}</span>` : ''}
+          ${unit ? `<span class="inline-flex items-center gap-1 text-xs font-semibold px-2.5 py-1 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 mb-2">${this.esc(unit.icon)} ${this.esc(this.lc(unit))}</span>` : ''}
           <h2 class="text-2xl font-extrabold text-gray-800 dark:text-gray-100 flex items-center gap-2" dir="auto">
-            <span aria-hidden="true">${this.esc(lesson.icon)}</span><span>${this.esc(this.L(lesson.title))}</span>
+            <span aria-hidden="true">${this.esc(lesson.icon)}</span><span>${this.esc(this.lc(lesson.title))}</span>
             ${learned ? `<span class="text-xs font-semibold text-emerald-600 dark:text-emerald-400 align-middle">${this.esc(this.tt('qa_learned'))}</span>` : ''}
           </h2>
         </div>
@@ -1854,7 +1862,7 @@ class QuranicArabicView {
           <h4 class="flex items-center gap-2 text-sm font-bold text-gray-700 dark:text-gray-200 mb-2">
             <span aria-hidden="true">📚</span><span>${this.esc(this.tt('qa_concept'))}</span>
           </h4>
-          <p class="text-sm leading-relaxed text-gray-600 dark:text-gray-300" dir="auto">${this.L(lesson.concept)}</p>
+          <p class="text-sm leading-relaxed text-gray-600 dark:text-gray-300" dir="auto">${this.lc(lesson.concept)}</p>
         </div>
 
         ${Array.isArray(lesson.vocab) && lesson.vocab.length ? `
@@ -1867,8 +1875,8 @@ class QuranicArabicView {
           <button type="button" data-qa-ref="${this.esc(w.ref)}" data-qa-word="${this.esc(w.ar)}"
             class="group flex flex-col items-center gap-1 p-3 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-primary hover:shadow-md transition-all">
             <span class="text-2xl leading-snug text-gray-800 dark:text-gray-100 group-hover:text-primary transition-colors" dir="rtl" lang="ar">${this.esc(w.ar)}</span>
-            <span class="text-xs text-gray-600 dark:text-gray-300 text-center leading-tight" dir="auto">${this.esc(this.language === 'bn' ? (w.bn || w.en) : w.en)}</span>
-            <span class="text-[0.6rem] px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-400" dir="auto">${this.esc(w.pos ? (this.language === 'bn' ? (w.pos.bn || w.pos.en) : w.pos.en) : '')}</span>
+            <span class="text-xs text-gray-600 dark:text-gray-300 text-center leading-tight" dir="auto">${this.esc(this.lc(w))}</span>
+            <span class="text-[0.6rem] px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-400" dir="auto">${this.esc(this.lc(w.pos))}</span>
             <span class="text-[0.6rem] text-primary/70">📖 ${this.esc(w.ref)}</span>
           </button>`).join('')}
         </div>` : ''}
@@ -1935,7 +1943,7 @@ class QuranicArabicView {
             <span class="text-lg font-bold text-gray-800 dark:text-gray-100" dir="rtl" lang="ar">${this.esc(item.ar)}</span>
             <span class="text-xs font-semibold text-primary">${this.esc(item.translit)}</span>
           </div>
-          <p class="text-sm text-gray-600 dark:text-gray-300 mt-1 leading-relaxed" dir="auto">${this.esc(this.language === 'bn' ? (item.bn || item.en) : item.en)}</p>
+          <p class="text-sm text-gray-600 dark:text-gray-300 mt-1 leading-relaxed" dir="auto">${this.esc(this.lc(item))}</p>
           ${ex}
         </div>`;
     }).join('');
@@ -1967,7 +1975,7 @@ class QuranicArabicView {
     if (scope === 'missed') return this.tt('qa_review_scope');
     if (scope === 'irab') return this.tt('qa_irab_quiz');
     const u = QA_UNITS.find(x => x.id === scope);
-    return u ? this.L(u) : this.tt('qa_quiz');
+    return u ? this.lc(u) : this.tt('qa_quiz');
   }
 
   renderQuiz() {
@@ -2024,7 +2032,7 @@ class QuranicArabicView {
       feedback = `
         <div class="mt-3 p-3 rounded-xl ${ok ? 'bg-emerald-50 dark:bg-emerald-900/30 text-emerald-800 dark:text-emerald-300' : 'bg-amber-50 dark:bg-amber-900/30 text-amber-800 dark:text-amber-300'}">
           <p class="font-semibold text-sm mb-1">${ok ? '🎉 ' + this.esc(this.tt('qa_correct')) : '🤔 ' + this.esc(this.tt('qa_incorrect'))}</p>
-          <p class="text-xs leading-relaxed" dir="auto">${this.esc(this.L(cur.explain))}</p>
+          <p class="text-xs leading-relaxed" dir="auto">${this.esc(this.lc(cur.explain))}</p>
         </div>
         <button type="button" data-qa-qnext class="mt-3 w-full px-4 py-2.5 rounded-xl text-sm font-bold bg-primary text-white hover:opacity-90 transition-opacity">
           ${isLast ? this.esc(this.tt('qa_finish')) : this.esc(this.tt('qa_continue')) + ' ›'}
@@ -2048,7 +2056,7 @@ class QuranicArabicView {
           </div>
         </div>
         <div class="p-4 rounded-2xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
-          <p class="text-sm text-gray-700 dark:text-gray-200 mb-3 font-medium" dir="auto">${this.esc(this.L(cur.q))}</p>
+          <p class="text-sm text-gray-700 dark:text-gray-200 mb-3 font-medium" dir="auto">${this.esc(this.lc(cur.q))}</p>
           ${Array.isArray(cur.words) && cur.words.length ? `
           <div class="p-3 mb-3 rounded-xl bg-gray-50 dark:bg-gray-800/60 text-center">
             <p class="text-2xl leading-loose text-gray-800 dark:text-gray-100" dir="rtl" lang="ar">

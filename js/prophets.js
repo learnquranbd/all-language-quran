@@ -723,14 +723,19 @@ class ProphetsView {
     return key;
   }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
+  // Localized content picker: bn → CI18N knowledgebase → en fallback.
+  lc(o) {
+    if (!o) return '';
+    if (this.language === 'bn' && o.bn) return o.bn;
+    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en); if (tr) return tr; }
+    return o.en || o.bn || '';
+  }
   pick(item, field) {
-    const bn = item[field + 'Bn'];
-    const en = item[field + 'En'];
-    return this.language === 'bn' ? (bn || en) : en;
+    return this.lc({ en: item[field + 'En'], bn: item[field + 'Bn'] });
   }
   loc(item, base) {
-    // for items using {en, bn} object fields
-    return this.language === 'bn' ? (item[base + 'Bn'] || item[base + 'En']) : item[base + 'En'];
+    // for items using suffixed En/Bn fields
+    return this.lc({ en: item[base + 'En'], bn: item[base + 'Bn'] });
   }
 
   loadRead() {
@@ -757,12 +762,12 @@ class ProphetsView {
     try {
       if (typeof getSurahByNumber === 'function') {
         const s = getSurahByNumber(n);
-        if (s && s.names) return (this.language === 'bn' ? (s.names.bn || s.names.en) : s.names.en) || ('Surah ' + n);
+        if (s && s.names) return this.lc(s.names) || ('Surah ' + n);
         if (s && s.arabicName) return s.arabicName;
       }
       if (typeof SURAH_DATA !== 'undefined' && Array.isArray(SURAH_DATA)) {
         const s = SURAH_DATA.find(x => x.number === n);
-        if (s && s.names) return (this.language === 'bn' ? (s.names.bn || s.names.en) : s.names.en) || ('Surah ' + n);
+        if (s && s.names) return this.lc(s.names) || ('Surah ' + n);
       }
     } catch (_) { /* ignore */ }
     return 'Surah ' + n;
@@ -934,7 +939,7 @@ class ProphetsView {
                 <div class="flex-1 min-w-0">
                   <div class="flex items-center gap-2 flex-wrap">
                     <span class="font-bold text-gray-800 dark:text-gray-100">${this.esc(p.translit)}</span>
-                    <span class="text-xs text-gray-400 dark:text-gray-500">${this.esc(this.language === 'bn' ? p.bn : p.en)}</span>
+                    <span class="text-xs text-gray-400 dark:text-gray-500">${this.esc(this.lc(p))}</span>
                     ${isRead ? '<span class="text-green-500 text-xs">✓</span>' : ''}
                   </div>
                   <div class="flex flex-wrap gap-1 mt-1.5">${this.badges(p, true)}</div>
@@ -962,7 +967,7 @@ class ProphetsView {
             <span class="inline-flex items-center justify-center w-7 h-7 rounded-full ${isRead ? 'bg-green-500 text-white' : 'bg-primary/10 text-primary'} text-xs font-bold mb-2" aria-hidden="true">${p.order}</span>
             <div class="text-2xl font-arabic text-primary mb-1" dir="rtl" lang="ar">${this.esc(p.ar)}</div>
             <div class="font-bold text-gray-800 dark:text-gray-100">${this.esc(p.translit)} ${isRead ? '<span class="text-green-500 text-xs align-middle">✓</span>' : ''}</div>
-            <div class="text-xs text-gray-400 dark:text-gray-500 mb-2">${this.esc(this.language === 'bn' ? p.bn : p.en)}</div>
+            <div class="text-xs text-gray-400 dark:text-gray-500 mb-2">${this.esc(this.lc(p))}</div>
             <div class="flex flex-wrap gap-1">${this.badges(p, true)}</div>
           </button>`;
         }).join('')}
@@ -979,9 +984,9 @@ class ProphetsView {
             <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4">
               <div class="flex items-center gap-2 mb-1.5">
                 <span class="text-lg" aria-hidden="true">${th.emoji}</span>
-                <span class="font-bold text-gray-800 dark:text-gray-100 text-sm">${this.esc(this.language === 'bn' ? th.titleBn : th.titleEn)}</span>
+                <span class="font-bold text-gray-800 dark:text-gray-100 text-sm">${this.esc(this.lc({en: th.titleEn, bn: th.titleBn}))}</span>
               </div>
-              <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed mb-2" dir="auto">${this.esc(this.language === 'bn' ? th.bodyBn : th.bodyEn)}</p>
+              <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed mb-2" dir="auto">${this.esc(this.lc({en: th.bodyEn, bn: th.bodyBn}))}</p>
               <div class="flex flex-wrap gap-1.5">
                 ${(th.refs || []).map(r => `<button type="button" data-prophets-ayah="${this.esc(this.openRef(r))}"
                   class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.7rem] font-medium hover:bg-primary hover:text-white transition-colors" dir="auto">📖 ${this.esc(this.refLabel(r))}</button>`).join('')}
@@ -1012,7 +1017,7 @@ class ProphetsView {
                 <button type="button" data-prophets-ayah="${this.esc(this.openRef(d.ref))}"
                   class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.7rem] font-medium hover:bg-primary hover:text-white transition-colors" dir="auto">📖 ${this.esc(this.refLabel(d.ref))}</button>
               </div>
-              <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed italic" dir="auto">${this.esc(this.language === 'bn' ? (d.glossBn || d.glossEn) : d.glossEn)}</p>
+              <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed italic" dir="auto">${this.esc(this.lc({en: d.glossEn, bn: d.glossBn}))}</p>
             </div>`).join('')}
         </div>
       </div>`;
@@ -1066,7 +1071,7 @@ class ProphetsView {
         <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 space-y-2">
           ${PROPHETS_MENTIONS.map(m => {
             const pct = Math.max(4, Math.round((m.n / max) * 100));
-            const note = this.language === 'bn' ? (m.noteBn || m.noteEn) : m.noteEn;
+            const note = this.lc({en: m.noteEn, bn: m.noteBn});
             return `
             <div>
               <div class="flex items-center justify-between gap-2 text-xs">
@@ -1104,7 +1109,7 @@ class ProphetsView {
       let promptText, promptType;
       if (useEvent) {
         const ev = events[Math.floor(Math.random() * events.length)];
-        promptText = this.language === 'bn' ? (ev.bn || ev.en) : ev.en;
+        promptText = this.lc(ev);
         promptType = 'event';
       } else {
         promptText = this.loc(p, 'nation');
@@ -1123,7 +1128,7 @@ class ProphetsView {
         if (!answer) return;
         const distractors = this.shuffle(PROPHETS_DATA.filter(x => x.id !== d.pid)).slice(0, 3);
         const options = this.shuffle(distractors.concat(answer)).map(o => ({ id: o.id, label: this.pname(o.id) }));
-        const promptText = this.language === 'bn' ? (d.glossBn || d.glossEn) : d.glossEn;
+        const promptText = this.lc({en: d.glossEn, bn: d.glossBn});
         questions.push({ answerId: d.pid, promptText, promptType: 'dua', options });
       });
     } catch (_) { /* ignore */ }
@@ -1133,7 +1138,7 @@ class ProphetsView {
       const lin = this.shuffle(PROPHETS_LINEAGE_QUIZ).slice(0, 2);
       lin.forEach(lq => {
         const options = this.shuffle(lq.optionIds.slice()).map(id => ({ id, label: this.pname(id) }));
-        const promptText = this.language === 'bn' ? (lq.promptBn || lq.promptEn) : lq.promptEn;
+        const promptText = this.lc({en: lq.promptEn, bn: lq.promptBn});
         questions.push({ answerId: lq.answerId, promptText, promptType: 'lineage', options });
       });
     } catch (_) { /* ignore */ }
@@ -1252,7 +1257,7 @@ class ProphetsView {
       <div class="mb-4">
         <h3 class="text-sm font-bold text-gray-700 dark:text-gray-200 mb-2 flex items-center gap-1.5">◆ ${this.esc(this.tt('prophets_label_events'))}</h3>
         <ul class="space-y-1.5">
-          ${events.map(ev => `<li class="flex gap-2 text-sm text-gray-600 dark:text-gray-300" dir="auto"><span class="text-primary mt-0.5 shrink-0" aria-hidden="true">▸</span><span class="flex-1">${this.esc(this.language === 'bn' ? (ev.bn || ev.en) : ev.en)}</span></li>`).join('')}
+          ${events.map(ev => `<li class="flex gap-2 text-sm text-gray-600 dark:text-gray-300" dir="auto"><span class="text-primary mt-0.5 shrink-0" aria-hidden="true">▸</span><span class="flex-1">${this.esc(this.lc(ev))}</span></li>`).join('')}
         </ul>
       </div>` : '';
 
@@ -1306,7 +1311,7 @@ class ProphetsView {
               <span class="text-xs text-gray-400 dark:text-gray-500">#${p.order} ${this.esc(this.tt('prophets_of'))} ${PROPHETS_DATA.length}</span>
             </div>
             <div class="text-4xl font-arabic text-primary mb-1" dir="rtl" lang="ar">${this.esc(p.ar)}</div>
-            <h2 class="text-xl font-bold text-gray-800 dark:text-gray-100">${this.esc(p.translit)} <span class="text-gray-400 dark:text-gray-500 font-normal text-base">— ${this.esc(this.language === 'bn' ? p.bn : p.en)}</span></h2>
+            <h2 class="text-xl font-bold text-gray-800 dark:text-gray-100">${this.esc(p.translit)} <span class="text-gray-400 dark:text-gray-500 font-normal text-base">— ${this.esc(this.lc(p))}</span></h2>
             <div class="flex flex-wrap gap-1.5 mt-2">${this.badges(p, false)}</div>
           </div>
 

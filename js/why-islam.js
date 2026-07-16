@@ -1032,6 +1032,16 @@ class WhyIslamView {
     return this.language === 'bn' ? (obj.bn || obj.en || '') : (obj.en || '');
   }
 
+  /* Content-language resolver: bn from inline data, other non-English
+   * languages via the CI18N knowledgebase (keyed by English text),
+   * falling back to English. Used for all CONTENT display sites. */
+  lc(o) {
+    if (!o) return '';
+    if (this.language === 'bn' && o.bn) return o.bn;
+    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en); if (tr) return tr; }
+    return o.en || o.bn || '';
+  }
+
   esc(s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, c => (
       { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]
@@ -1104,10 +1114,10 @@ class WhyIslamView {
                  hover:border-primary hover:shadow-md focus:outline-none focus:ring-2 focus:ring-primary/40 transition-all">
           <span class="flex items-center gap-3">
             <span class="text-2xl" aria-hidden="true">${topic.emoji}</span>
-            <span class="flex-1 min-w-0 font-bold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.L(topic.title))}</span>
+            <span class="flex-1 min-w-0 font-bold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.lc(topic.title))}</span>
             <span class="text-gray-300 dark:text-gray-600 group-hover:text-primary transition-colors" aria-hidden="true">→</span>
           </span>
-          <span class="text-sm text-gray-500 dark:text-gray-400 leading-relaxed" dir="auto">${this.esc(this.L(topic.summary))}</span>
+          <span class="text-sm text-gray-500 dark:text-gray-400 leading-relaxed" dir="auto">${this.esc(this.lc(topic.summary))}</span>
           <span class="mt-1 flex items-center justify-between">
             <span class="text-xs text-primary dark:text-blue-400 font-medium">${this.esc(this.tt('whyislam_read_more'))}</span>
             ${badge}
@@ -1178,15 +1188,15 @@ class WhyIslamView {
     let body = '';
 
     if (topic.kind === 'qa') {
-      const qlabel = topic.qaLabel ? (this.esc(this.L(topic.qaLabel)) + '&nbsp;') : 'Q';
+      const qlabel = topic.qaLabel ? (this.esc(this.lc(topic.qaLabel)) + '&nbsp;') : 'Q';
       body = `<div class="flex flex-col gap-3">${(topic.qa || []).map((x, i) => `
         <details class="group rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-hidden">
           <summary class="cursor-pointer list-none flex items-center gap-3 p-4 font-semibold text-gray-800 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-gray-700/50">
             <span class="text-primary dark:text-blue-400 whitespace-nowrap" aria-hidden="true">${qlabel}${i + 1}</span>
-            <span class="flex-1 min-w-0" dir="auto">${this.esc(this.L(x.q))}</span>
+            <span class="flex-1 min-w-0" dir="auto">${this.esc(this.lc(x.q))}</span>
             <span class="text-gray-400 group-open:rotate-180 transition-transform" aria-hidden="true">▾</span>
           </summary>
-          <div class="px-4 pb-4 pt-1 text-sm text-gray-600 dark:text-gray-300 leading-relaxed border-t border-gray-100 dark:border-gray-700" dir="auto">${this.esc(this.L(x.a))}</div>
+          <div class="px-4 pb-4 pt-1 text-sm text-gray-600 dark:text-gray-300 leading-relaxed border-t border-gray-100 dark:border-gray-700" dir="auto">${this.esc(this.lc(x.a))}</div>
         </details>`).join('')}</div>`;
     } else if (topic.kind === 'embrace') {
       const sh = topic.shahada || {};
@@ -1195,22 +1205,22 @@ class WhyIslamView {
           <p class="text-xs uppercase tracking-wide text-primary dark:text-blue-400 font-semibold mb-2">${this.esc(this.tt('whyislam_shahada_label'))}</p>
           ${sh.arabic ? `<p class="text-2xl leading-loose text-gray-800 dark:text-gray-100 mb-2" dir="rtl" lang="ar">${this.esc(sh.arabic)}</p>` : ''}
           ${sh.translit ? `<p class="text-sm italic text-gray-500 dark:text-gray-400 mb-1" dir="ltr">${this.esc(sh.translit)}</p>` : ''}
-          <p class="text-sm text-gray-700 dark:text-gray-200" dir="auto">“${this.esc(this.L(sh))}”</p>
+          <p class="text-sm text-gray-700 dark:text-gray-200" dir="auto">“${this.esc(this.lc(sh))}”</p>
         </div>
         <p class="mb-6 text-sm text-gray-600 dark:text-gray-300 leading-relaxed bg-gray-50 dark:bg-gray-800/60 border border-gray-100 dark:border-gray-700 rounded-xl p-4" dir="auto">🕊️ ${this.esc(this.tt('whyislam_embrace_welcome'))}</p>`;
       const pts = `<div class="flex flex-col gap-5">${(topic.points || []).map(p => `
         <section>
-          <h4 class="font-bold text-gray-800 dark:text-gray-100 mb-1.5" dir="auto">${this.esc(this.L(p.heading))}</h4>
-          <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.L(p.body))}</p>
+          <h4 class="font-bold text-gray-800 dark:text-gray-100 mb-1.5" dir="auto">${this.esc(this.lc(p.heading))}</h4>
+          <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.lc(p.body))}</p>
         </section>`).join('')}</div>`;
       body = shahadaBlock + pts;
     } else if (topic.kind === 'glossary') {
       body = `<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">${(topic.terms || []).map(x => `
         <div class="flex flex-col gap-1 p-4 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
           <span class="font-bold text-gray-800 dark:text-gray-100">
-            ${this.esc(x.term)}${x.bnTerm && this.language === 'bn' ? ` <span class="font-normal text-gray-500 dark:text-gray-400">(${this.esc(x.bnTerm)})</span>` : ''}
+            ${this.esc(this.lc({ en: x.term }))}${x.bnTerm && this.language === 'bn' ? ` <span class="font-normal text-gray-500 dark:text-gray-400">(${this.esc(x.bnTerm)})</span>` : ''}
           </span>
-          <span class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.L(x))}</span>
+          <span class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.lc(x))}</span>
         </div>`).join('')}</div>`;
     } else if (topic.kind === 'resources') {
       body = `<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">${(topic.resources || []).map(r => `
@@ -1221,14 +1231,14 @@ class WhyIslamView {
             <span class="flex-1 min-w-0 truncate">${this.esc(r.name)}</span>
             <span class="text-gray-300 dark:text-gray-600 group-hover:text-primary transition-colors" aria-hidden="true">↗</span>
           </span>
-          <span class="text-xs text-gray-500 dark:text-gray-400 leading-relaxed" dir="auto">${this.esc(this.L(r))}</span>
+          <span class="text-xs text-gray-500 dark:text-gray-400 leading-relaxed" dir="auto">${this.esc(this.lc(r))}</span>
           <span class="text-[0.65rem] text-gray-400 dark:text-gray-500 truncate" dir="ltr">${this.esc(String(r.url).replace(/^https?:\/\//, ''))}</span>
         </a>`).join('')}</div>`;
     } else {
       body = `<div class="flex flex-col gap-5">${(topic.points || []).map(p => `
         <section>
-          <h4 class="font-bold text-gray-800 dark:text-gray-100 mb-1.5" dir="auto">${this.esc(this.L(p.heading))}</h4>
-          <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.L(p.body))}</p>
+          <h4 class="font-bold text-gray-800 dark:text-gray-100 mb-1.5" dir="auto">${this.esc(this.lc(p.heading))}</h4>
+          <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.lc(p.body))}</p>
         </section>`).join('')}</div>`;
     }
 
@@ -1256,8 +1266,8 @@ class WhyIslamView {
         <div class="flex items-start gap-3 mb-4">
           <span class="text-3xl" aria-hidden="true">${topic.emoji}</span>
           <div class="flex-1 min-w-0">
-            <h3 class="text-xl font-bold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.L(topic.title))}</h3>
-            <p class="text-sm text-gray-500 dark:text-gray-400" dir="auto">${this.esc(this.L(topic.summary))}</p>
+            <h3 class="text-xl font-bold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.lc(topic.title))}</h3>
+            <p class="text-sm text-gray-500 dark:text-gray-400" dir="auto">${this.esc(this.lc(topic.summary))}</p>
           </div>
         </div>
 

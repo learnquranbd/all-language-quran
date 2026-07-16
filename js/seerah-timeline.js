@@ -841,10 +841,14 @@ class SeerahView {
     return key;
   }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
+  lc(o) {
+    if (!o) return '';
+    if (this.language === 'bn' && o.bn) return o.bn;
+    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en); if (tr) return tr; }
+    return o.en || o.bn || '';
+  }
   pick(item, field) {
-    const bn = item[field + 'Bn'];
-    const en = item[field + 'En'];
-    return this.language === 'bn' ? (bn || en) : en;
+    return this.lc({ en: item[field + 'En'], bn: item[field + 'Bn'] });
   }
 
   loadRead() {
@@ -980,13 +984,12 @@ class SeerahView {
    * route itself is green, points labelled. Nothing is to scale.
    */
   hijraMapHtml() {
-    const bn = this.language === 'bn';
     const L = {
-      mecca: bn ? 'মক্কা' : 'Mecca',
-      thawr: bn ? 'সাওর গুহা' : 'Cave of Thawr',
-      quba: bn ? 'কুবা' : 'Quba',
-      medina: bn ? 'মদিনা' : 'Medina',
-      sea: bn ? 'লোহিত সাগর' : 'Red Sea',
+      mecca: this.lc({ en: 'Mecca', bn: 'মক্কা' }),
+      thawr: this.lc({ en: 'Cave of Thawr', bn: 'সাওর গুহা' }),
+      quba: this.lc({ en: 'Quba', bn: 'কুবা' }),
+      medina: this.lc({ en: 'Medina', bn: 'মদিনা' }),
+      sea: this.lc({ en: 'Red Sea', bn: 'লোহিত সাগর' }),
       dist: '~450 km',
     };
     const G = '#16a34a';
@@ -1059,7 +1062,6 @@ class SeerahView {
   }
 
   quizHtml() {
-    const lang = this.language;
     const submitted = this.quizSubmitted;
     const total = SEERAH_QUIZ.length;
     let score = 0;
@@ -1067,7 +1069,7 @@ class SeerahView {
 
     const questions = SEERAH_QUIZ.map((q, qi) => {
       const sel = this.quizAnswers[qi];
-      const opts = (lang === 'bn' ? (q.optsBn || q.optsEn) : q.optsEn) || [];
+      const opts = (q.optsEn || q.optsBn || []).map((_, oi2) => this.lc({ en: (q.optsEn || [])[oi2], bn: (q.optsBn || [])[oi2] }));
       if (submitted && sel === q.correct) score++;
       const optHtml = opts.map((o, oi) => {
         const chosen = sel === oi;
@@ -1085,7 +1087,7 @@ class SeerahView {
       }).join('');
       return `
         <div class="p-3 rounded-xl bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700">
-          <p class="font-semibold text-sm text-gray-800 dark:text-gray-100 mb-2" dir="auto">${qi + 1}. ${this.esc(lang === 'bn' ? (q.qBn || q.qEn) : q.qEn)}</p>
+          <p class="font-semibold text-sm text-gray-800 dark:text-gray-100 mb-2" dir="auto">${qi + 1}. ${this.esc(this.lc({ en: q.qEn, bn: q.qBn }))}</p>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">${optHtml}</div>
         </div>`;
     }).join('');
@@ -1128,7 +1130,7 @@ class SeerahView {
 
   topicCardHtml(tp) {
     const isOpen = this.expanded.has(tp.id);
-    const points = (this.language === 'bn' ? (tp.pointsBn || tp.pointsEn) : tp.pointsEn) || [];
+    const points = (tp.pointsEn || tp.pointsBn || []).map((_, pi) => this.lc({ en: (tp.pointsEn || [])[pi], bn: (tp.pointsBn || [])[pi] }));
     const verses = Array.isArray(tp.verses) ? tp.verses : [];
     const pointsHtml = points.length
       ? `<ul class="mt-2 space-y-1 list-none">
@@ -1246,9 +1248,7 @@ class SeerahView {
 
   // ── battlefield block ────────────────────────────────────────────────
   bpick(b, field) {
-    const bn = b[field + 'Bn'];
-    const en = b[field + 'En'];
-    return this.language === 'bn' ? (bn || en) : en;
+    return this.lc({ en: b[field + 'En'], bn: b[field + 'Bn'] });
   }
 
   battleHtml(ev, b) {
@@ -1275,7 +1275,7 @@ class SeerahView {
       <div><span class="text-green-600 dark:text-green-400 font-medium">${this.esc(this.tt('seerah_bt_muslims'))}:</span> ${this.esc(this.bpick(b, 'cmdM'))}</div>
       <div class="mt-0.5"><span class="text-red-600 dark:text-red-400 font-medium">${this.esc(this.tt('seerah_bt_opponent'))}:</span> ${this.esc(this.bpick(b, 'cmdO'))}</div>`;
 
-    const moments = (this.language === 'bn' ? (b.momBn || b.momEn) : b.momEn) || [];
+    const moments = (b.momEn || b.momBn || []).map((_, mi) => this.lc({ en: (b.momEn || [])[mi], bn: (b.momBn || [])[mi] }));
     const momentsHtml = moments.length
       ? `<ul class="mt-1 space-y-1 list-none">
            ${moments.map(m => `<li class="flex gap-2 text-sm text-gray-700 dark:text-gray-200" dir="auto"><span class="text-primary mt-0.5" aria-hidden="true">▸</span><span class="flex-1">${this.esc(m)}</span></li>`).join('')}
@@ -1323,9 +1323,9 @@ class SeerahView {
   battleDiagram(d) {
     if (!d) return '';
     const G = '#16a34a', R = '#dc2626';
-    const L = this.esc(this.language === 'bn' ? (d.leftBn || d.leftEn) : d.leftEn);
-    const Rt = this.esc(this.language === 'bn' ? (d.rightBn || d.rightEn) : d.rightEn);
-    const feat = this.esc(this.language === 'bn' ? (d.featureBn || d.featureEn) : d.featureEn);
+    const L = this.esc(this.lc({ en: d.leftEn, bn: d.leftBn }));
+    const Rt = this.esc(this.lc({ en: d.rightEn, bn: d.rightBn }));
+    const feat = this.esc(this.lc({ en: d.featureEn, bn: d.featureBn }));
 
     const arrow = (x1, y1, x2, y2, c, dash) => {
       const ang = Math.atan2(y2 - y1, x2 - x1), h = 7;
