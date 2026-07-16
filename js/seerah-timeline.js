@@ -485,6 +485,8 @@ const SEERAH_BATTLES = {
 const SEERAH_TIMELINE_ICON = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><line x1="6" y1="3" x2="6" y2="21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><circle cx="6" cy="7" r="2" fill="currentColor"/><circle cx="6" cy="16" r="2" fill="currentColor"/><line x1="10" y1="7" x2="19" y2="7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><line x1="10" y1="16" x2="17" y2="16" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>';
 const SEERAH_TOPICS_ICON = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><rect x="6" y="6" width="12" height="12" fill="none" stroke="currentColor" stroke-width="1.4"/><rect x="6" y="6" width="12" height="12" fill="none" stroke="currentColor" stroke-width="1.4" transform="rotate(45 12 12)"/></svg>';
 const SEERAH_QUIZ_ICON = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="3" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M8 12.5 L11 15.5 L16.5 9" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+// Abstract location-pin accent for the places gazetteer (geometric only).
+const SEERAH_PIN_ICON = '<svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path d="M12 2 a7 7 0 0 1 7 7 c0 5 -7 13 -7 13 s-7 -8 -7 -13 a7 7 0 0 1 7 -7 Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="12" cy="9" r="2.4" fill="currentColor"/></svg>';
 
 /**
  * MAJOR TOPICS — browsable thematic cards (bilingual, tap-to-expand). Content is
@@ -654,6 +656,36 @@ const SEERAH_TOPICS = [
     pointsBn: ['শেষ দিনগুলোতে তিনি আবু বকর (রাঃ)-কে সালাতে ইমামতির আদেশ দেন', 'তিনি ১১ হিজরিতে (৬৩২ খ্রি.) মদিনায় ইন্তেকাল করেন', 'তাঁর চিরস্থায়ী উত্তরাধিকার আল্লাহর কিতাব ও তাঁর সুন্নাহ (৫:৩)'],
     verses: ['3:144', '39:30', '5:3'],
   },
+  {
+    id: 'tp_revelation', emoji: '🕯️',
+    titleEn: 'Revelation & the Seerah',
+    titleBn: 'ওহি ও সিরাত',
+    summaryEn: 'The Quran was revealed gradually over about 23 years, accompanying the events of the Prophet’s ﷺ life. The early Meccan surahs (such as 96, 74 and 73) built creed, worship and patience under persecution; the Medinan surahs added law, community and treaty matters. Many passages are linked to specific events — Badr (Surah 8), Uhud (Surah 3), the Trench (Surah 33), the Conquest (Surah 110), and the completion of the religion at the Farewell Hajj (5:3).',
+    summaryBn: 'কুরআন প্রায় ২৩ বছর ধরে ধাপে ধাপে অবতীর্ণ হয়, নবী ﷺ-এর জীবনের ঘটনাগুলোর সাথে সাথে। প্রাথমিক মক্কি সূরাগুলো (যেমন ৯৬, ৭৪ ও ৭৩) আকিদা, ইবাদত ও নির্যাতনের মধ্যে ধৈর্য গড়ে তোলে; মাদানি সূরাগুলো যোগ করে বিধান, সমাজ ও চুক্তির বিষয়। বহু আয়াত নির্দিষ্ট ঘটনার সাথে যুক্ত — বদর (সূরা ৮), উহুদ (সূরা ৩), খন্দক (সূরা ৩৩), মক্কা বিজয় (সূরা ১১০), এবং বিদায় হজে দ্বীনের পূর্ণতা (৫:৩)।',
+    pointsEn: ['Among the earliest revelations: 96 (al-‘Alaq), 74 (al-Muddaththir), 73 (al-Muzzammil)', 'Meccan surahs focus on creed and the Hereafter; Medinan surahs on law and community', 'Event-linked passages: Badr → Surah 8; Uhud → Surah 3; Trench → Surah 33; Conquest → Surah 110', 'Revelation came gradually to strengthen the believers’ hearts (25:32)'],
+    pointsBn: ['সর্বপ্রথম অবতীর্ণ সূরাগুলোর মধ্যে: ৯৬ (আলাক), ৭৪ (মুদ্দাসসির), ৭৩ (মুযযাম্মিল)', 'মক্কি সূরায় আকিদা ও আখিরাত; মাদানি সূরায় বিধান ও সমাজ', 'ঘটনা-সংযুক্ত আয়াত: বদর → সূরা ৮; উহুদ → সূরা ৩; খন্দক → সূরা ৩৩; বিজয় → সূরা ১১০', 'মুমিনদের অন্তর দৃঢ় করতে ওহি ধাপে ধাপে আসে (২৫:৩২)'],
+    verses: ['96:1', '74:1', '73:1', '25:32', '8:9', '33:9', '110:1', '5:3'],
+  },
+];
+
+/**
+ * Places of the Seerah — a mini-gazetteer (1-line each, bilingual). Shown in the
+ * Topics view with an abstract location-pin accent (no figurative imagery).
+ */
+const SEERAH_PLACES = [
+  { nameEn: 'Mecca', nameBn: 'মক্কা', descEn: 'Birthplace of the Prophet ﷺ and home of the Ka‘bah; the message began here.', descBn: 'নবী ﷺ-এর জন্মস্থান ও কাবার শহর; বার্তার সূচনা এখানেই।' },
+  { nameEn: 'Cave of Hira', nameBn: 'হেরা গুহা', descEn: 'Where the first revelation, “Read” (96:1), came in c. 610 CE.', descBn: 'যেখানে আনু. ৬১০ খ্রি. প্রথম ওহি "পড়ো" (৯৬:১) আসে।' },
+  { nameEn: 'Cave of Thawr', nameBn: 'সাওর গুহা', descEn: 'The hiding place of the Prophet ﷺ and Abu Bakr (RA) during the Hijra.', descBn: 'হিজরতের সময় নবী ﷺ ও আবু বকর (রাঃ)-এর আত্মগোপনের স্থান।' },
+  { nameEn: 'Ta’if', nameBn: 'তায়েফ', descEn: 'The hill town that rejected him ﷺ; he prayed for its people’s guidance.', descBn: 'যে পাহাড়ি শহর তাঁকে ﷺ প্রত্যাখ্যান করে; তিনি তাদের হেদায়েতের দোয়া করেন।' },
+  { nameEn: 'Quba', nameBn: 'কুবা', descEn: 'Just outside Medina, where the first mosque of Islam was established at the Hijra.', descBn: 'মদিনার উপকণ্ঠে, হিজরতের সময় যেখানে ইসলামের প্রথম মসজিদ প্রতিষ্ঠিত হয়।' },
+  { nameEn: 'Medina', nameBn: 'মদিনা', descEn: 'The Prophet’s ﷺ city after the Hijra — home of his mosque and his resting place.', descBn: 'হিজরতের পর নবী ﷺ-এর শহর — তাঁর মসজিদ ও সমাধিস্থল।' },
+  { nameEn: 'Badr', nameBn: 'বদর', descEn: 'Site of the first decisive victory in 2 AH (624 CE).', descBn: '২ হিজরিতে (৬২৪ খ্রি.) প্রথম চূড়ান্ত বিজয়ের স্থান।' },
+  { nameEn: 'Uhud', nameBn: 'উহুদ', descEn: 'The mountain north of Medina where the costly battle of 3 AH took place.', descBn: 'মদিনার উত্তরের পাহাড়, যেখানে ৩ হিজরির কঠিন যুদ্ধ হয়।' },
+  { nameEn: 'Khandaq', nameBn: 'খন্দক', descEn: 'The trench dug on Medina’s northern side against the confederate siege (5 AH).', descBn: 'জোট-অবরোধের বিরুদ্ধে মদিনার উত্তর দিকে খনন করা পরিখা (৫ হি.)।' },
+  { nameEn: 'Hudaybiyyah', nameBn: 'হুদায়বিয়া', descEn: 'Where the ten-year truce with the Quraysh was signed in 6 AH.', descBn: 'যেখানে ৬ হিজরিতে কুরাইশদের সাথে দশ বছরের সন্ধি হয়।' },
+  { nameEn: 'Khaybar', nameBn: 'খায়বার', descEn: 'The fortified oasis north of Medina secured in 7 AH.', descBn: 'মদিনার উত্তরের সুরক্ষিত মরূদ্যান, ৭ হিজরিতে নিয়ন্ত্রণে আসে।' },
+  { nameEn: 'Hunayn', nameBn: 'হুনাইন', descEn: 'The valley between Mecca and Ta’if where the ambush of 8 AH was overcome.', descBn: 'মক্কা-তায়েফের মাঝের উপত্যকা, যেখানে ৮ হিজরির অতর্কিত হামলা পরাভূত হয়।' },
+  { nameEn: 'Tabuk', nameBn: 'তাবুক', descEn: 'The far northern destination of the “Army of Hardship” expedition in 9 AH.', descBn: '৯ হিজরিতে "কষ্টের বাহিনী" অভিযানের সুদূর উত্তরের গন্তব্য।' },
 ];
 
 /**
@@ -708,6 +740,14 @@ const SEERAH_QUIZ = [
     optsEn: ['8 AH', '5 AH', '6 AH', '11 AH'], optsBn: ['৮ হিজরি', '৫ হিজরি', '৬ হিজরি', '১১ হিজরি'], correct: 0 },
   { qEn: 'In which city did the Prophet ﷺ pass away?', qBn: 'নবী ﷺ কোন শহরে ইন্তেকাল করেন?',
     optsEn: ['Medina', 'Mecca', "Ta'if", 'Jerusalem'], optsBn: ['মদিনা', 'মক্কা', 'তায়েফ', 'জেরুজালেম'], correct: 0 },
+  { qEn: 'In which cave did the Prophet ﷺ and Abu Bakr (RA) hide during the Hijra?', qBn: 'হিজরতের সময় নবী ﷺ ও আবু বকর (রাঃ) কোন গুহায় আত্মগোপন করেন?',
+    optsEn: ['Cave of Hira', 'Cave of Thawr', 'Mount Uhud', 'Mina'], optsBn: ['হেরা গুহা', 'সাওর গুহা', 'উহুদ পাহাড়', 'মিনা'], correct: 1 },
+  { qEn: 'Which surah is among the very first revelations?', qBn: 'কোন সূরাটি সর্বপ্রথম অবতীর্ণ ওহিগুলোর অন্তর্ভুক্ত?',
+    optsEn: ['Surah al-Baqarah (2)', 'Surah an-Nasr (110)', "Surah al-'Alaq (96)", "Surah al-Ma'idah (5)"], optsBn: ['সূরা বাকারা (২)', 'সূরা নাসর (১১০)', 'সূরা আলাক (৯৬)', 'সূরা মায়িদা (৫)'], correct: 2 },
+  { qEn: 'Where was the first mosque of Islam established at the Hijra?', qBn: 'হিজরতের সময় ইসলামের প্রথম মসজিদ কোথায় প্রতিষ্ঠিত হয়?',
+    optsEn: ['Mecca', "Ta'if", 'Khaybar', 'Quba'], optsBn: ['মক্কা', 'তায়েফ', 'খায়বার', 'কুবা'], correct: 3 },
+  { qEn: 'Roughly how far is the journey from Mecca to Medina?', qBn: 'মক্কা থেকে মদিনার পথ আনুমানিক কত দূর?',
+    optsEn: ['~45 km', '~450 km', '~4,500 km', '~1,000 km'], optsBn: ['~৪৫ কিমি', '~৪৫০ কিমি', '~৪,৫০০ কিমি', '~১,০০০ কিমি'], correct: 1 },
 ];
 
 /**
@@ -758,6 +798,9 @@ const SEERAH_UI = {
   seerah_quiz_score: { en: 'Your score', bn: 'আপনার স্কোর' },
   seerah_quiz_best: { en: 'Best', bn: 'সেরা' },
   seerah_quiz_hint: { en: 'Answer all questions to check your score.', bn: 'স্কোর দেখতে সব প্রশ্নের উত্তর দিন।' },
+  seerah_places_title: { en: 'Places of the Seerah', bn: 'সিরাতের স্থানসমূহ' },
+  seerah_route_title: { en: 'The Hijra Route', bn: 'হিজরতের পথ' },
+  seerah_route_caption: { en: 'Abstract route: Mecca → Cave of Thawr (south first, to evade pursuit) → along the coastal route → Quba → Medina. About 450 km in roughly two weeks. Not to scale.', bn: 'বিমূর্ত পথ: মক্কা → সাওর গুহা (ধাওয়া এড়াতে প্রথমে দক্ষিণে) → উপকূলীয় পথ ধরে → কুবা → মদিনা। প্রায় ৪৫০ কিমি, আনুমানিক দুই সপ্তাহে। মাপানুযায়ী নয়।' },
 };
 
 class SeerahView {
@@ -905,7 +948,8 @@ class SeerahView {
       <div class="space-y-3 mb-6">
         ${SEERAH_TOPICS.map(tp => this.topicCardHtml(tp)).join('')}
       </div>
-      ${this.companionsHtml()}`;
+      ${this.companionsHtml()}
+      ${this.placesHtml()}`;
 
     const subtitleLine = this.view === 'topics'
       ? this.tt('seerah_topics_title')
@@ -928,6 +972,71 @@ class SeerahView {
 
     if (this.view === 'timeline') this.renderList();
     this.bind();
+  }
+
+  /**
+   * Abstract, stylized Hijra route map (geometric only — points, a dashed route
+   * curve, a coastline line; no figures). Theme-aware via currentColor; the
+   * route itself is green, points labelled. Nothing is to scale.
+   */
+  hijraMapHtml() {
+    const bn = this.language === 'bn';
+    const L = {
+      mecca: bn ? 'মক্কা' : 'Mecca',
+      thawr: bn ? 'সাওর গুহা' : 'Cave of Thawr',
+      quba: bn ? 'কুবা' : 'Quba',
+      medina: bn ? 'মদিনা' : 'Medina',
+      sea: bn ? 'লোহিত সাগর' : 'Red Sea',
+      dist: '~450 km',
+    };
+    const G = '#16a34a';
+    const svg = `
+      <svg viewBox="0 0 320 200" width="100%" style="max-width:340px;height:auto;display:block;margin:0 auto" role="img" aria-label="Abstract Hijra route map">
+        <rect x="0" y="0" width="320" height="200" rx="8" fill="currentColor" opacity="0.04"/>
+        <path d="M28 200 C 20 150, 30 90, 18 40 L 0 30 L 0 200 Z" fill="currentColor" opacity="0.08"/>
+        <path d="M28 200 C 20 150, 30 90, 18 40" fill="none" stroke="currentColor" stroke-width="1.2" opacity="0.5"/>
+        <text x="14" y="120" font-size="8" fill="currentColor" opacity="0.6" transform="rotate(-80 14 120)">${this.esc(L.sea)}</text>
+        <circle cx="238" cy="168" r="6" fill="none" stroke="currentColor" stroke-width="1.6"/>
+        <rect x="234.5" y="164.5" width="7" height="7" fill="currentColor"/>
+        <text x="252" y="172" font-size="10" font-weight="600" fill="currentColor">${this.esc(L.mecca)}</text>
+        <path d="M252 186 a6 6 0 1 0 6 -8" fill="none" stroke="currentColor" stroke-width="1.6"/>
+        <text x="264" y="194" font-size="9" fill="currentColor" opacity="0.85">${this.esc(L.thawr)}</text>
+        <circle cx="216" cy="46" r="3.5" fill="${G}"/>
+        <text x="224" y="42" font-size="9" fill="currentColor" opacity="0.85">${this.esc(L.quba)}</text>
+        <circle cx="232" cy="24" r="6" fill="none" stroke="${G}" stroke-width="1.8"/>
+        <circle cx="232" cy="24" r="2.2" fill="${G}"/>
+        <text x="244" y="28" font-size="10" font-weight="600" fill="currentColor">${this.esc(L.medina)}</text>
+        <path d="M238 174 C 244 184, 252 186, 256 182" fill="none" stroke="${G}" stroke-width="2" stroke-dasharray="5 4" stroke-linecap="round"/>
+        <path d="M256 182 C 200 178, 120 150, 84 112 C 60 84, 120 60, 216 46 L 230 30"
+              fill="none" stroke="${G}" stroke-width="2" stroke-dasharray="5 4" stroke-linecap="round"/>
+        <polygon points="232,27 226,36 236,35" fill="${G}"/>
+        <text x="104" y="100" font-size="9" font-weight="600" fill="${G}">${this.esc(L.dist)}</text>
+      </svg>`;
+    return `
+      <figure class="mt-3 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-2 text-gray-500 dark:text-gray-400">
+        <figcaption class="mb-1 text-xs font-semibold text-gray-600 dark:text-gray-300 text-center" dir="auto">🧭 ${this.esc(this.tt('seerah_route_title'))}</figcaption>
+        <div class="w-full overflow-x-auto">${svg}</div>
+        <figcaption class="mt-1 text-[0.68rem] text-center text-gray-400 dark:text-gray-500" dir="auto">${this.esc(this.tt('seerah_route_caption'))}</figcaption>
+      </figure>`;
+  }
+
+  placesHtml() {
+    return `
+      <section class="mb-8">
+        <h3 class="flex items-center gap-2 text-base font-bold text-gray-700 dark:text-gray-200 mb-3">
+          <span class="text-primary" aria-hidden="true">${SEERAH_PIN_ICON}</span><span>${this.esc(this.tt('seerah_places_title'))}</span>
+        </h3>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+          ${SEERAH_PLACES.map(p => `
+            <div class="flex gap-2.5 items-start p-3 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
+              <span class="shrink-0 mt-0.5 text-primary" aria-hidden="true">${SEERAH_PIN_ICON}</span>
+              <span class="flex-1 min-w-0">
+                <span class="block font-semibold text-sm text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.pick(p, 'name'))}</span>
+                <span class="block text-xs text-gray-500 dark:text-gray-400 leading-relaxed mt-0.5" dir="auto">${this.esc(this.pick(p, 'desc'))}</span>
+              </span>
+            </div>`).join('')}
+        </div>
+      </section>`;
   }
 
   companionsHtml() {
@@ -1120,6 +1229,7 @@ class SeerahView {
             </p>
           </div>
           ${ayahBtn}
+          ${ev.id === 'hijra' ? this.hijraMapHtml() : ''}
           ${battle ? this.battleHtml(ev, battle) : ''}
           <div class="mt-3">
             <button type="button" data-seerah-read="${this.esc(ev.id)}"

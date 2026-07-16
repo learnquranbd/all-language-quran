@@ -10,6 +10,10 @@
  *
  * The whole feature (tab button included) hides itself when
  * QuranData.legacyAvailable() is false.
+ *
+ * Editions: a user-switchable EDITIONS table (localStorage 'mushafEdition',
+ * default 'tajweed') maps page N to a scan URL. All editions use the standard
+ * 604-page Madani layout, so paging/jump/bookmark logic is edition-agnostic.
  */
 
 class MushafView {
@@ -21,6 +25,30 @@ class MushafView {
     this.language = (typeof appSettings !== 'undefined' && appSettings)
       ? appSettings.get('language')
       : 'en';
+
+    // ---------- Mushaf editions (all standard 604-page Madani layout, so
+    // page numbers and every jump/bookmark feature stay identical) ----------
+    // Pick the KFGQPC scan width once per session from the device pixel
+    // ratio so preloaded neighbour URLs always match the displayed ones.
+    const madaniWidth = ((window.devicePixelRatio || 1) > 1.5) ? 1260 : 1024;
+    this.EDITIONS = {
+      tajweed: {
+        label: { en: 'Tajweed (colour-coded)', bn: 'তাজউইদ (রঙিন)' },
+        // Page N of the mushaf is file (N-1).jpg — see mapping note in the header.
+        url: (page) => `${QuranData.legacyImgBase}/resources/images/tajweed_quran/${page - 1}.jpg`
+      },
+      madani: {
+        label: { en: 'Madani Mushaf (KFGQPC)', bn: 'মাদানি মুসহাফ (কিং ফাহাদ)' },
+        url: (page) => `https://files.quran.app/hafs/madani/width_${madaniWidth}/page${String(page).padStart(3, '0')}.png`
+      }
+    };
+
+    // Local fallback for NEW i18n keys not yet merged into translations.js;
+    // t() falls back to the raw key when missing, fb() substitutes these.
+    this.FB = {
+      en: { mushaf_edition: 'Mushaf edition' },
+      bn: { mushaf_edition: 'মুসহাফ সংস্করণ' }
+    };
 
     // Remember last page across sessions
     let saved = 1;
@@ -66,11 +94,36 @@ class MushafView {
     return Math.min(Math.max(page || 1, 1), this.TOTAL_PAGES);
   }
 
-  /** Page N of the mushaf is file (N-1).jpg — see mapping note in the header. */
+  /** Translate a (possibly new) key with a local en/bn fallback. */
+  fb(key) {
+    let s = t(key, this.language);
+    if (s === key) s = (this.FB[this.language] && this.FB[this.language][key]) || this.FB.en[key] || key;
+    return s;
+  }
+
+  /** Active mushaf edition id, persisted in localStorage ('tajweed' default). */
+  edition() {
+    let v = null;
+    try { v = localStorage.getItem('mushafEdition'); } catch (e) { /* ignore */ }
+    return (v && this.EDITIONS[v]) ? v : 'tajweed';
+  }
+
+  setEdition(id) {
+    if (!this.EDITIONS[id]) id = 'tajweed';
+    try { localStorage.setItem('mushafEdition', id); } catch (e) { /* ignore */ }
+    if (this.rendered) this.showPage(this.page); // re-render from the new source
+  }
+
+  /** Page image URL from the active edition (both are 604-page Madani layout). */
   imageUrl(page) {
-    // 604 mushaf page scans (0.jpg..603.jpg → page N = file N-1) are large, so
-    // they load cross-origin as plain <img> from the original site.
-    return `${QuranData.legacyImgBase}/resources/images/tajweed_quran/${page - 1}.jpg`;
+    // Scans are large, so they load cross-origin as plain <img>; the service
+    // worker caches cross-origin images network-first automatically.
+    try {
+      const ed = this.EDITIONS[this.edition()] || this.EDITIONS.tajweed;
+      return ed.url(page);
+    } catch (e) {
+      return `${QuranData.legacyImgBase}/resources/images/tajweed_quran/${page - 1}.jpg`;
+    }
   }
 
   isActiveTab() {
@@ -190,8 +243,19 @@ class MushafView {
                     class="px-3 py-2 text-sm rounded-lg border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-30">🔍+</button>
           </div>
 
-          <!-- View comfort: fit mode + night/sepia reading filter (persisted) -->
+          <!-- View comfort: edition switcher + fit mode + night/sepia reading filter (persisted) -->
           <div class="flex items-center gap-1">
+            <span aria-hidden="true" class="text-sm">📖</span>
+            <select id="mushaf-edition-select"
+                    title="${this.fb('mushaf_edition')}" aria-label="${this.fb('mushaf_edition')}"
+                    class="px-2 py-2 text-sm rounded-lg border border-gray-300 dark:border-gray-600
+                           bg-white dark:bg-gray-700 text-gray-800 dark:text-gray-100
+                           focus:outline-none focus:ring-2 focus:ring-primary dark:focus:ring-blue-500">
+              ${Object.keys(this.EDITIONS).map(id => {
+                const l = this.EDITIONS[id].label;
+                return `<option value="${id}" ${id === this.edition() ? 'selected' : ''}>${l[lang] || l.en}</option>`;
+              }).join('')}
+            </select>
             <button id="mushaf-fit" title="${t('mushaf_fit', lang)}" aria-label="${t('mushaf_fit', lang)}"
                     class="px-3 py-2 text-sm rounded-lg border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700"></button>
             <button id="mushaf-filter" title="${t('mushaf_filter', lang)}" aria-label="${t('mushaf_filter', lang)}"
@@ -282,6 +346,10 @@ class MushafView {
     this.container.querySelector('#mushaf-zoom-out')?.addEventListener('click', () => this.setZoom(this.zoom() - 0.25));
 
     // View comfort controls
+    this.editionSelect = this.container.querySelector('#mushaf-edition-select');
+    if (this.editionSelect) {
+      this.editionSelect.addEventListener('change', () => this.setEdition(this.editionSelect.value));
+    }
     this.fitBtn.addEventListener('click', () => this.setFit(this.fit() === 'height' ? 'width' : 'height'));
     this.filterBtn.addEventListener('click', () => this.cycleFilter());
     if (this.fullscreenBtn) this.fullscreenBtn.addEventListener('click', () => this.toggleFullscreen());

@@ -58,6 +58,14 @@ const WHY_ISLAM_I18N = {
     en: 'Guidance on inviting others with wisdom, gentleness and respect — and without any compulsion.',
     bn: 'প্রজ্ঞা, কোমলতা ও শ্রদ্ধার সাথে—এবং কোনো জবরদস্তি ছাড়াই—অন্যকে আমন্ত্রণ জানানোর নির্দেশনা।',
   },
+  whyislam_glossary_note: {
+    en: 'Short introductory definitions. Each term carries much more depth in the scholarly tradition.',
+    bn: 'সংক্ষিপ্ত পরিচিতিমূলক সংজ্ঞা। প্রতিটি পরিভাষা শাস্ত্রীয় ঐতিহ্যে আরও অনেক গভীরতা বহন করে।',
+  },
+  whyislam_stories_note: {
+    en: 'A general note, shared respectfully — journeys of faith are personal, and no pressure is intended.',
+    bn: 'একটি সাধারণ নোট, শ্রদ্ধার সাথে উপস্থাপিত—ঈমানের যাত্রা ব্যক্তিগত, এবং কোনো চাপ উদ্দিষ্ট নয়।',
+  },
 };
 
 const WHY_ISLAM_DATA = [
@@ -488,6 +496,46 @@ const WHY_ISLAM_DATA = [
     ],
   },
   {
+    id: 'history',
+    emoji: '🏺',
+    kind: 'article',
+    title: { en: 'Historical Evidence', bn: 'ঐতিহাসিক প্রমাণ' },
+    summary: {
+      en: 'Early Quran manuscripts, the mass-transmitted recitation, and early attestations of the Prophet ﷺ — presented carefully.',
+      bn: 'প্রাচীন কুরআন পাণ্ডুলিপি, গণ-পরম্পরায় প্রেরিত তিলাওয়াত, এবং নবী ﷺ-এর প্রাথমিক ঐতিহাসিক সাক্ষ্য—সতর্কভাবে উপস্থাপিত।',
+    },
+    points: [
+      {
+        heading: { en: 'The Birmingham manuscript', bn: 'বার্মিংহাম পাণ্ডুলিপি' },
+        body: {
+          en: 'In 2015 the University of Birmingham announced that the parchment of a Quran folio in its Mingana Collection had been radiocarbon-dated, with high probability, to approximately 568–645 CE — a range overlapping the lifetime of the Prophet (peace be upon him) and the first generation. Its text corresponds closely to the Quran read today. Radiocarbon dating tests the animal skin rather than the ink, so scholars discuss the exact writing date carefully — but it stands among the earliest surviving Quranic material, significant precisely because so early a text matches the familiar one.',
+          bn: '২০১৫ সালে বার্মিংহাম বিশ্ববিদ্যালয় ঘোষণা করে যে তাদের মিংগানা সংগ্রহের একটি কুরআন পাতার চামড়া রেডিওকার্বন পদ্ধতিতে, উচ্চ সম্ভাবনায়, আনুমানিক ৫৬৮–৬৪৫ খ্রিষ্টাব্দে তারিখায়িত হয়েছে—যে পরিসর নবী (তাঁর প্রতি শান্তি)-এর জীবনকাল ও প্রথম প্রজন্মের সাথে মিলে যায়। এর টেক্সট আজ পঠিত কুরআনের সাথে ঘনিষ্ঠভাবে মেলে। রেডিওকার্বন তারিখায়ন কালি নয়, চামড়া পরীক্ষা করে, তাই লেখার সঠিক তারিখ নিয়ে গবেষকরা সতর্কভাবে আলোচনা করেন—তবে এটি টিকে থাকা প্রাচীনতম কুরআনি উপাদানের অন্যতম, আর তাৎপর্যপূর্ণ ঠিক এ কারণেই যে এত প্রাচীন টেক্সটও পরিচিত টেক্সটের সাথে মিলে যায়।',
+        },
+      },
+      {
+        heading: { en: 'Sana‘a, Topkapi and other early codices', bn: 'সানআ, তোপকাপি ও অন্যান্য প্রাচীন কোডেক্স' },
+        body: {
+          en: 'Other very early witnesses include the Sana‘a manuscripts discovered in Yemen in 1972 — among the oldest known Quranic manuscripts and an important subject of academic study — and large early codices such as the Topkapi manuscript in Istanbul. Studied soberly, this record shows an early text corresponding closely to the Quran recited today, with the kinds of minor scribal features specialists routinely examine in any manuscript tradition. Muslims present this correspondence, without overclaiming, as consistent with the account of an early and careful standardisation.',
+          bn: 'অন্যান্য অতি প্রাচীন সাক্ষীর মধ্যে আছে ১৯৭২ সালে ইয়েমেনে আবিষ্কৃত সানআ পাণ্ডুলিপি—জ্ঞাত প্রাচীনতম কুরআনি পাণ্ডুলিপির অন্যতম ও একাডেমিক গবেষণার গুরুত্বপূর্ণ বিষয়—এবং ইস্তাম্বুলের তোপকাপি পাণ্ডুলিপির মতো বৃহৎ প্রাচীন কোডেক্স। সংযতভাবে অধ্যয়ন করলে, এই নথি এমন এক প্রাচীন টেক্সট দেখায় যা আজ পঠিত কুরআনের সাথে ঘনিষ্ঠভাবে মেলে, সাথে সেই ধরনের ক্ষুদ্র লিপিগত বৈশিষ্ট্য যা বিশেষজ্ঞরা যেকোনো পাণ্ডুলিপি-ঐতিহ্যে নিয়মিত পরীক্ষা করেন। মুসলিমরা এই মিলকে, অতিরঞ্জন ছাড়াই, প্রাথমিক ও যত্নশীল প্রমিতকরণের বিবরণের সাথে সঙ্গতিপূর্ণ হিসেবে উপস্থাপন করে।',
+        },
+      },
+      {
+        heading: { en: 'Mass transmission (tawatur)', bn: 'গণ-পরম্পরা (তাওয়াতুর)' },
+        body: {
+          en: 'Alongside manuscripts stands a different kind of evidence: continuous mass transmission. In every generation from the first, the full Quran has been memorised and publicly recited by very large numbers of people across dispersed regions, each learning from many teachers. Scholars call this tawatur — transmission so broad and independent that coordinated error or alteration becomes implausible. It is the same everyday logic by which we trust widely and independently transmitted facts, applied to a recited text that communities have openly checked against one another for fourteen centuries.',
+          bn: 'পাণ্ডুলিপির পাশাপাশি আছে ভিন্ন ধরনের প্রমাণ: অবিচ্ছিন্ন গণ-পরম্পরা। প্রথম প্রজন্ম থেকে প্রতিটি প্রজন্মে, ছড়িয়ে থাকা বিভিন্ন অঞ্চলে বিপুলসংখ্যক মানুষ সম্পূর্ণ কুরআন মুখস্থ করেছে ও প্রকাশ্যে তিলাওয়াত করেছে, প্রত্যেকে বহু শিক্ষকের কাছে শিখে। আলিমগণ একে বলেন তাওয়াতুর—এত ব্যাপক ও স্বাধীন পরম্পরা যে সমন্বিত ভুল বা পরিবর্তন অসম্ভাব্য হয়ে পড়ে। এটি সেই একই দৈনন্দিন যুক্তি, যা দিয়ে আমরা ব্যাপক ও স্বাধীনভাবে প্রেরিত তথ্যে আস্থা রাখি—চৌদ্দ শতাব্দী ধরে সম্প্রদায়গুলোর পরস্পরের সাথে প্রকাশ্যে মিলিয়ে দেখা এক পঠিত টেক্সটে প্রযুক্ত।',
+        },
+      },
+      {
+        heading: { en: 'Early non-Muslim attestations of the Prophet ﷺ', bn: 'নবী ﷺ সম্পর্কে প্রাথমিক অমুসলিম সাক্ষ্য' },
+        body: {
+          en: 'The Prophet Muhammad (peace be upon him) is among the most firmly attested figures of late antiquity. Beyond the rich Muslim sources, seventh-century non-Muslim writings — Greek, Syriac and Armenian texts, some composed within years or decades of his lifetime — mention the Arabian prophet and the rapid rise of his community. Academic historians, whatever their view of his message, affirm his historical existence and his preaching of monotheism in Arabia. Islam’s case rests on the character and content of his message, but it begins from an unusually solid historical footing.',
+          bn: 'নবী মুহাম্মাদ (তাঁর প্রতি শান্তি) প্রাচীন যুগের শেষ পর্বের সবচেয়ে দৃঢ়ভাবে প্রমাণিত ব্যক্তিত্বদের অন্যতম। সমৃদ্ধ মুসলিম উৎসের বাইরেও, সপ্তম শতকের অমুসলিম রচনা—গ্রিক, সিরিয়াক ও আর্মেনীয় টেক্সট, যার কিছু তাঁর জীবনকালের কয়েক বছর বা দশকের মধ্যে রচিত—আরবের নবী ও তাঁর সম্প্রদায়ের দ্রুত উত্থানের কথা উল্লেখ করে। একাডেমিক ঐতিহাসিকগণ, তাঁর বার্তা সম্পর্কে যা-ই মনে করুন, তাঁর ঐতিহাসিক অস্তিত্ব ও আরবে একত্ববাদ প্রচার নিশ্চিত করেন। ইসলামের যুক্তি দাঁড়িয়ে আছে তাঁর বার্তার চরিত্র ও বিষয়বস্তুর উপর, তবে তার সূচনা এক অস্বাভাবিক দৃঢ় ঐতিহাসিক ভিত্তি থেকে।',
+        },
+      },
+    ],
+  },
+  {
     id: 'questions',
     emoji: '💬',
     kind: 'qa',
@@ -586,6 +634,34 @@ const WHY_ISLAM_DATA = [
         a: {
           en: 'Muslims point to a combination of features they invite others to examine together: its remarkable preservation in memory and text, its open and unmet literary challenge, its inner consistency across twenty-three years, its rational and moral coherence, and the character of the unlettered man who conveyed it. No single point is treated as a knock-down proof; rather, taken together they are offered as reasonable grounds to read the Quran seriously and judge for oneself.',
           bn: 'মুসলিমরা এমন কিছু বৈশিষ্ট্যের সমষ্টির দিকে ইঙ্গিত করে, যা তারা অন্যদের একসাথে পরীক্ষা করতে আমন্ত্রণ জানায়: স্মৃতি ও লিখিত রূপে এর অসাধারণ সংরক্ষণ, এর উন্মুক্ত ও অপূরিত সাহিত্যিক চ্যালেঞ্জ, তেইশ বছর জুড়ে এর অভ্যন্তরীণ সামঞ্জস্য, এর যৌক্তিক ও নৈতিক সংগতি, এবং যে নিরক্ষর ব্যক্তি এটি পৌঁছে দিয়েছেন তাঁর চরিত্র। কোনো একটি বিষয়কেই চূড়ান্ত প্রমাণ ধরা হয় না; বরং একত্রে এগুলো কুরআনকে গুরুত্বসহ পড়ে নিজে বিচার করার যুক্তিসংগত ভিত্তি হিসেবে উপস্থাপিত হয়।',
+        },
+      },
+      {
+        q: { en: 'Why does God allow disbelief to exist?', bn: 'আল্লাহ অবিশ্বাসের অস্তিত্ব কেন অনুমোদন করেন?' },
+        a: {
+          en: 'Because, in the Islamic view, God willed a world of genuine choice rather than compelled conformity. Faith has value precisely because it can be freely given: "And say: The truth is from your Lord, so whoever wills — let him believe; and whoever wills — let him disbelieve" (Quran 18:29). The Quran even reminds the Prophet that he cannot force hearts: "Would you then compel the people until they become believers?" (Quran 10:99). God could have created beings without choice, but a freely chosen love of truth is more meaningful than an automatic one. Disbelief existing is thus part of the same freedom that makes belief significant — and judgement on hearts belongs to God alone, not to us.',
+          bn: 'কারণ, ইসলামের দৃষ্টিতে, আল্লাহ চেয়েছেন প্রকৃত পছন্দের এক জগৎ, বাধ্যতামূলক আনুগত্যের নয়। ঈমান মূল্যবান ঠিক এ কারণেই যে তা স্বাধীনভাবে দেওয়া যায়: "বলো: সত্য তোমাদের রবের পক্ষ থেকে; সুতরাং যার ইচ্ছা সে ঈমান আনুক, আর যার ইচ্ছা সে অবিশ্বাস করুক" (কুরআন ১৮:২৯)। কুরআন এমনকি নবীকেও স্মরণ করিয়ে দেয় যে তিনি হৃদয়কে বাধ্য করতে পারেন না: "তবে কি তুমি মানুষকে বাধ্য করবে, যতক্ষণ না তারা মুমিন হয়?" (কুরআন ১০:৯৯)। আল্লাহ পছন্দহীন সৃষ্টি বানাতে পারতেন, কিন্তু স্বাধীনভাবে বেছে নেওয়া সত্যপ্রীতি স্বয়ংক্রিয় প্রীতির চেয়ে বেশি অর্থবহ। অবিশ্বাসের অস্তিত্ব তাই সেই একই স্বাধীনতার অংশ যা বিশ্বাসকে তাৎপর্যপূর্ণ করে—আর হৃদয়ের বিচার একমাত্র আল্লাহর, আমাদের নয়।',
+        },
+      },
+      {
+        q: { en: 'Do the good deeds of non-Muslims count?', bn: 'অমুসলিমদের ভালো কাজ কি গণ্য হয়?' },
+        a: {
+          en: 'Islam affirms without hesitation that God is perfectly just and that no good is ever ignored by Him: "whoever does an atom’s weight of good will see it" (Quran 99:7). Scholars explain that sincere kindness, honesty and charity are genuinely good whoever performs them, that God rewards good in ways of His choosing in this world and judges every person with complete fairness — taking into account what truly reached them and their sincerity. The fullest reward of the hereafter is tied, in Islamic teaching, to faith in God; yet Muslims are taught to honour goodness wherever they see it, to leave final judgement of individuals entirely to God, and to trust that "your Lord does not wrong anyone" (Quran 18:49).',
+          bn: 'ইসলাম দ্বিধাহীনভাবে নিশ্চিত করে যে আল্লাহ পরিপূর্ণ ন্যায়বান এবং কোনো কল্যাণ তাঁর কাছে কখনো উপেক্ষিত হয় না: "কেউ অণু পরিমাণ ভালো করলে তা দেখবে" (কুরআন ৯৯:৭)। আলিমগণ ব্যাখ্যা করেন যে আন্তরিক দয়া, সততা ও দান যে-ই করুক তা প্রকৃতই ভালো; আল্লাহ এই জগতে তাঁর নিজের পছন্দের উপায়ে কল্যাণের প্রতিদান দেন এবং প্রত্যেক মানুষকে সম্পূর্ণ ন্যায্যতায় বিচার করেন—কার কাছে প্রকৃতপক্ষে কী পৌঁছেছে ও তার আন্তরিকতা বিবেচনায় নিয়ে। ইসলামি শিক্ষায় আখিরাতের পূর্ণতম প্রতিদান আল্লাহতে ঈমানের সাথে যুক্ত; তবু মুসলিমদের শেখানো হয় কল্যাণ যেখানেই দেখুক তাকে সম্মান করতে, ব্যক্তির চূড়ান্ত বিচার সম্পূর্ণ আল্লাহর হাতে ছেড়ে দিতে, এবং ভরসা রাখতে যে "তোমার রব কারও প্রতি অবিচার করেন না" (কুরআন ১৮:৪৯)।',
+        },
+      },
+      {
+        q: { en: 'Why Arabic — can I only connect with God in Arabic?', bn: 'আরবি কেন—আমি কি কেবল আরবিতেই আল্লাহর সাথে সংযোগ করতে পারি?' },
+        a: {
+          en: 'No — God understands every language and every heart, and personal supplication (dua) may be made in any language, at any time. The Quran states that every messenger was sent in his own people’s tongue (Quran 14:4); Arabic is the language the final revelation happened to come in, so it is preserved and recited in its original words rather than only in translation — which is also why one text unites worshippers of every nationality in prayer. Muslims are encouraged to learn the meaning through translations and study in their own language, and new Muslims learn the short Arabic portions of the ritual prayer gradually. The connection of the heart is never restricted to Arabic.',
+          bn: 'না—আল্লাহ প্রতিটি ভাষা ও প্রতিটি হৃদয় বোঝেন, এবং ব্যক্তিগত প্রার্থনা (দুআ) যেকোনো ভাষায়, যেকোনো সময় করা যায়। কুরআন বলে যে প্রত্যেক রাসুলকে তাঁর নিজ জাতির ভাষায় পাঠানো হয়েছে (কুরআন ১৪:৪); আরবি সেই ভাষা যাতে চূড়ান্ত ওহি এসেছে, তাই তা কেবল অনুবাদে নয়, মূল শব্দে সংরক্ষিত ও তিলাওয়াত করা হয়—এ কারণেই একটি অভিন্ন টেক্সট সব জাতির উপাসকদের নামাজে ঐক্যবদ্ধ করে। মুসলিমদের উৎসাহ দেওয়া হয় নিজ ভাষায় অনুবাদ ও অধ্যয়নের মাধ্যমে অর্থ শিখতে, আর নতুন মুসলিমরা নামাজের সংক্ষিপ্ত আরবি অংশগুলো ধীরে ধীরে শেখেন। হৃদয়ের সংযোগ কখনোই আরবিতে সীমাবদ্ধ নয়।',
+        },
+      },
+      {
+        q: { en: 'Is Islam fatalistic about effort and ambition?', bn: 'প্রচেষ্টা ও উচ্চাকাঙ্ক্ষা নিয়ে ইসলাম কি নিয়তিবাদী?' },
+        a: {
+          en: 'No. Belief in divine decree (qadar) is often mistaken for fatalism, but mainstream Islam explicitly rejects using destiny as an excuse for passivity. The Quran ties outcomes to striving — "man will only have that for which he strives" (Quran 53:39) — and a famous prophetic teaching counsels a man to tie his camel first and then trust in God. Work, learning, planning, excellence and honest ambition are praised in Islamic teaching; trust in God (tawakkul) comes after one’s best effort, not instead of it. What qadar adds is peace of mind: having genuinely tried, a believer is freed from crushing anxiety over results that were never in their hands.',
+          bn: 'না। তাকদিরে (কদর) বিশ্বাসকে প্রায়ই নিয়তিবাদ ভাবা হয়, কিন্তু মূলধারার ইসলাম ভাগ্যকে নিষ্ক্রিয়তার অজুহাত বানানো স্পষ্টভাবে প্রত্যাখ্যান করে। কুরআন ফলাফলকে প্রচেষ্টার সাথে যুক্ত করে—"মানুষ কেবল তা-ই পায় যার জন্য সে চেষ্টা করে" (কুরআন ৫৩:৩৯)—এবং এক প্রসিদ্ধ নবীসুলভ শিক্ষা একজনকে পরামর্শ দেয় আগে উট বেঁধে তারপর আল্লাহর উপর ভরসা রাখতে। কাজ, শেখা, পরিকল্পনা, উৎকর্ষ ও সৎ উচ্চাকাঙ্ক্ষা ইসলামি শিক্ষায় প্রশংসিত; আল্লাহর উপর ভরসা (তাওয়াক্কুল) আসে সর্বোচ্চ প্রচেষ্টার পরে, তার বদলে নয়। কদর যা যোগ করে তা হলো মনের শান্তি: প্রকৃত চেষ্টার পর, বিশ্বাসী সেই ফলাফলের দুর্বিষহ দুশ্চিন্তা থেকে মুক্ত হয় যা কখনোই তার হাতে ছিল না।',
         },
       },
     ],
@@ -733,6 +809,98 @@ const WHY_ISLAM_DATA = [
           bn: 'চরিত্রই বার্তা বহন করে। কুরআন নবীকে স্মরণ করিয়ে দেয় যে তাঁর কোমলতা মানুষকে কাছে টেনেছিল: "আল্লাহর রহমতেই তুমি তাদের প্রতি কোমল হয়েছিলে। যদি তুমি রূঢ় ও কঠোরহৃদয় হতে, তবে তারা তোমার আশপাশ থেকে সরে যেত" (কুরআন ৩:১৫৯)। আন্তরিক সংলাপ যতটা বলে ততটা শোনে, দ্বিমতে ধৈর্য ধরে, সদাচরণ বজায় রাখে, এবং ভিন্ন বিশ্বাসের জন্য কাউকে কখনো উপহাস বা হেয় করে না।',
         },
       },
+    ],
+  },
+  {
+    id: 'stories',
+    emoji: '🌟',
+    kind: 'article',
+    noteKey: 'whyislam_stories_note',
+    title: { en: 'Stories of Those Who Embraced Islam', bn: 'যাঁরা ইসলাম গ্রহণ করেছেন তাঁদের কথা' },
+    summary: {
+      en: 'A general, respectful note on the many people through history who came to Islam after study and reflection.',
+      bn: 'ইতিহাসজুড়ে অধ্যয়ন ও চিন্তার পর যাঁরা ইসলামে এসেছেন, তাঁদের নিয়ে একটি সাধারণ, শ্রদ্ধাপূর্ণ নোট।',
+    },
+    points: [
+      {
+        heading: { en: 'A long and varied history', bn: 'দীর্ঘ ও বৈচিত্র্যময় ইতিহাস' },
+        body: {
+          en: 'From the first generation in Makkah to the present day, people of every background — scholars and tradespeople, rulers and travellers, scientists, writers and thinkers — have embraced Islam. Many did so not by upbringing or circumstance but after a period of questioning, reading and honest comparison. Whole societies historically came to Islam gradually, often through the character and dealings of Muslims they encountered as much as through argument.',
+          bn: 'মক্কার প্রথম প্রজন্ম থেকে আজ পর্যন্ত, সব পটভূমির মানুষ—আলিম ও ব্যবসায়ী, শাসক ও পরিব্রাজক, বিজ্ঞানী, লেখক ও চিন্তাবিদ—ইসলাম গ্রহণ করেছেন। অনেকে তা করেছেন জন্মসূত্রে বা পরিস্থিতিতে নয়, বরং প্রশ্ন, পাঠ ও সৎ তুলনার এক পর্বের পর। ঐতিহাসিকভাবে সমগ্র সমাজও ধীরে ধীরে ইসলামে এসেছে, প্রায়ই যুক্তির মতোই তাদের দেখা মুসলিমদের চরিত্র ও লেনদেনের মাধ্যমে।',
+        },
+      },
+      {
+        heading: { en: 'What draws people, in their own words', bn: 'কী মানুষকে টানে—তাদের নিজেদের ভাষায়' },
+        body: {
+          en: 'Those who describe their journeys commonly mention a few recurring things: the clarity and simplicity of tawhid — one God, addressed directly; the Quran’s effect on them as readers; the coherence of Islam’s answers about purpose, morality and the hereafter; and the discipline and warmth of Muslim worship and community. These are general patterns rather than claims about any particular individual, and the accounts are best read first-hand.',
+          bn: 'যাঁরা নিজেদের যাত্রার বর্ণনা দেন, তাঁরা সাধারণত কিছু পুনরাবৃত্ত বিষয় উল্লেখ করেন: তাওহিদের স্বচ্ছতা ও সরলতা—এক আল্লাহ, যাঁকে সরাসরি ডাকা যায়; পাঠক হিসেবে তাঁদের উপর কুরআনের প্রভাব; উদ্দেশ্য, নৈতিকতা ও পরকাল নিয়ে ইসলামের উত্তরের সংগতি; এবং মুসলিম ইবাদত ও সম্প্রদায়ের শৃঙ্খলা ও উষ্ণতা। এগুলো সাধারণ প্রবণতা, কোনো নির্দিষ্ট ব্যক্তি সম্পর্কে দাবি নয়, আর এসব বিবরণ সরাসরি পড়াই উত্তম।',
+        },
+      },
+      {
+        heading: { en: 'Where to read such accounts', bn: 'এমন বিবরণ কোথায় পড়বেন' },
+        body: {
+          en: 'First-person accounts of embracing Islam — from converts of many nationalities and professions — are published by several of the reputable platforms listed in the Further Study section, such as the da‘wah institutes and new-Muslim support organisations. Reading them directly, in the person’s own words, is more valuable and more reliable than any summary here. Every journey is personal; these stories are shared to inform, never to pressure.',
+          bn: 'ইসলাম গ্রহণের প্রথম-পুরুষ বিবরণ—বহু জাতি ও পেশার নওমুসলিমদের—"আরও অধ্যয়ন" অংশে তালিকাভুক্ত একাধিক নির্ভরযোগ্য প্ল্যাটফর্মে প্রকাশিত হয়, যেমন দাওয়াহ প্রতিষ্ঠান ও নওমুসলিম-সহায়তা সংস্থাগুলো। সেগুলো সরাসরি, ব্যক্তির নিজের ভাষায় পড়াই এখানকার যেকোনো সারাংশের চেয়ে বেশি মূল্যবান ও নির্ভরযোগ্য। প্রতিটি যাত্রা ব্যক্তিগত; এই কাহিনিগুলো জানানোর জন্য ভাগ করা হয়, চাপ দেওয়ার জন্য কখনোই নয়।',
+        },
+      },
+    ],
+  },
+  {
+    id: 'glossary',
+    emoji: '📔',
+    kind: 'glossary',
+    noteKey: 'whyislam_glossary_note',
+    title: { en: 'Glossary of Key Terms', bn: 'মূল পরিভাষার শব্দকোষ' },
+    summary: {
+      en: 'One-line introductions to fifteen key terms of Islamic belief and practice.',
+      bn: 'ইসলামি বিশ্বাস ও আমলের পনেরোটি মূল পরিভাষার এক-লাইনের পরিচিতি।',
+    },
+    terms: [
+      { term: 'Tawhid', bnTerm: 'তাওহিদ',
+        en: 'The oneness of God — that God alone is Lord, alone is worshipped, and is unique in His names and attributes.',
+        bn: 'আল্লাহর একত্ব—একমাত্র তিনিই রব, একমাত্র তিনিই ইবাদিত, এবং তাঁর নাম ও গুণাবলিতে তিনি অনন্য।' },
+      { term: 'Shirk', bnTerm: 'শিরক',
+        en: 'Associating partners with God in worship or His unique attributes — the opposite of tawhid.',
+        bn: 'ইবাদতে বা আল্লাহর অনন্য গুণাবলিতে তাঁর সাথে অংশীদার স্থাপন—তাওহিদের বিপরীত।' },
+      { term: 'Iman', bnTerm: 'ঈমান',
+        en: 'Faith — conviction of the heart, professed by the tongue and expressed in action.',
+        bn: 'বিশ্বাস—হৃদয়ের প্রত্যয়, মুখের স্বীকৃতি ও কর্মে প্রকাশ।' },
+      { term: 'Islam', bnTerm: 'ইসলাম',
+        en: 'Willing submission to the one God — the name of the religion, from the same root as salam (peace).',
+        bn: 'এক আল্লাহর প্রতি স্বেচ্ছা আত্মসমর্পণ—দ্বীনের নাম, সালাম (শান্তি)-এর সাথে একই মূল থেকে।' },
+      { term: 'Ihsan', bnTerm: 'ইহসান',
+        en: 'Excellence in faith — worshipping God as though you see Him, knowing that He sees you.',
+        bn: 'ঈমানের উৎকর্ষ—এমনভাবে আল্লাহর ইবাদত করা যেন তুমি তাঁকে দেখছ, জেনে যে তিনি তোমাকে দেখছেন।' },
+      { term: 'Fitrah', bnTerm: 'ফিতরাহ',
+        en: 'The innate natural disposition upon which every person is created, inclined to recognise the Creator.',
+        bn: 'সহজাত স্বাভাবিক প্রকৃতি, যার উপর প্রত্যেক মানুষ সৃষ্ট—স্রষ্টাকে চেনার দিকে প্রবণ।' },
+      { term: 'Wahy', bnTerm: 'ওহি',
+        en: 'Divine revelation — God’s communication of guidance to His prophets.',
+        bn: 'ঐশী প্রত্যাদেশ—নবীদের কাছে আল্লাহর হিদায়াত প্রেরণ।' },
+      { term: 'Nubuwwah', bnTerm: 'নবুয়ত',
+        en: 'Prophethood — the office of being chosen by God to receive and convey His guidance.',
+        bn: 'নবুয়ত—আল্লাহর হিদায়াত গ্রহণ ও পৌঁছে দিতে তাঁর মনোনীত হওয়ার মর্যাদা।' },
+      { term: 'Risalah', bnTerm: 'রিসালাত',
+        en: 'Messengership — the mission of conveying God’s revealed message to a people.',
+        bn: 'রিসালাত—কোনো জাতির কাছে আল্লাহর অবতীর্ণ বার্তা পৌঁছে দেওয়ার মিশন।' },
+      { term: 'Qadar', bnTerm: 'কদর',
+        en: 'Divine decree — God’s complete knowledge and ordainment of all things, alongside real human choice.',
+        bn: 'তাকদির—সব কিছুর উপর আল্লাহর পূর্ণ জ্ঞান ও নির্ধারণ, মানুষের প্রকৃত পছন্দের পাশাপাশি।' },
+      { term: 'Akhirah', bnTerm: 'আখিরাত',
+        en: 'The hereafter — the everlasting life after death, with just accounting, reward and recompense.',
+        bn: 'পরকাল—মৃত্যুর পরের চিরস্থায়ী জীবন, ন্যায্য হিসাব ও প্রতিদানসহ।' },
+      { term: 'Shahada', bnTerm: 'শাহাদাহ',
+        en: 'The testimony of faith: there is no god but God, and Muhammad is the Messenger of God.',
+        bn: 'ঈমানের সাক্ষ্য: আল্লাহ ছাড়া কোনো উপাস্য নেই, এবং মুহাম্মাদ আল্লাহর রাসুল।' },
+      { term: 'Sunnah', bnTerm: 'সুন্নাহ',
+        en: 'The teachings, practice and example of the Prophet ﷺ, the lived model of the Quran’s guidance.',
+        bn: 'নবী ﷺ-এর শিক্ষা, আমল ও আদর্শ—কুরআনের হিদায়াতের জীবন্ত নমুনা।' },
+      { term: 'Ummah', bnTerm: 'উম্মাহ',
+        en: 'The worldwide community of Muslims, bound by faith across nations and languages.',
+        bn: 'বিশ্বব্যাপী মুসলিম সম্প্রদায়, জাতি ও ভাষার সীমা পেরিয়ে ঈমানে আবদ্ধ।' },
+      { term: 'Da‘wah', bnTerm: 'দাওয়াহ',
+        en: 'Inviting to God’s way — sharing and explaining Islam with wisdom, good speech and no compulsion.',
+        bn: 'আল্লাহর পথে আহ্বান—প্রজ্ঞা, উত্তম কথা ও জবরদস্তিহীনতায় ইসলাম ভাগ করা ও ব্যাখ্যা করা।' },
     ],
   },
   {
@@ -896,7 +1064,8 @@ class WhyIslamView {
     (topic.points || []).forEach(p => { parts.push(this.L(p.heading), this.L(p.body)); });
     (topic.qa || []).forEach(x => { parts.push(this.L(x.q), this.L(x.a)); });
     (topic.resources || []).forEach(r => { parts.push(r.name, this.L(r)); });
-    return parts.join('   ').toLowerCase().indexOf(q) !== -1;
+    (topic.terms || []).forEach(x => { parts.push(x.term, x.bnTerm || '', this.L(x)); });
+    return parts.join('   ').toLowerCase().indexOf(q) !== -1;
   }
 
   /* ---------- render dispatch ---------- */
@@ -1035,6 +1204,14 @@ class WhyIslamView {
           <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.L(p.body))}</p>
         </section>`).join('')}</div>`;
       body = shahadaBlock + pts;
+    } else if (topic.kind === 'glossary') {
+      body = `<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">${(topic.terms || []).map(x => `
+        <div class="flex flex-col gap-1 p-4 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
+          <span class="font-bold text-gray-800 dark:text-gray-100">
+            ${this.esc(x.term)}${x.bnTerm && this.language === 'bn' ? ` <span class="font-normal text-gray-500 dark:text-gray-400">(${this.esc(x.bnTerm)})</span>` : ''}
+          </span>
+          <span class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.L(x))}</span>
+        </div>`).join('')}</div>`;
     } else if (topic.kind === 'resources') {
       body = `<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">${(topic.resources || []).map(r => `
         <a href="${this.esc(r.url)}" target="_blank" rel="noopener noreferrer"

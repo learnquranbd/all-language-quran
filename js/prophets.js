@@ -532,6 +532,90 @@ const COMMON_THREADS = [
 ];
 
 /**
+ * Famous Quranic supplications (duas) of the prophets. Every ref was verified
+ * against SURAH_DATA (surah exists AND each ayah in the range <= ayahCount).
+ * Glosses are brief translations, not full renderings; no risky Arabic typing.
+ */
+const PROPHETS_DUAS = [
+  { pid: 'adam', ref: '7:23',
+    glossEn: '"Our Lord, we have wronged ourselves; if You do not forgive us and have mercy on us, we will surely be among the losers."',
+    glossBn: '"হে আমাদের প্রভু, আমরা নিজেদের ওপর জুলুম করেছি; আপনি ক্ষমা ও রহম না করলে আমরা অবশ্যই ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হব।"' },
+  { pid: 'nuh', ref: '71:28',
+    glossEn: '"My Lord, forgive me and my parents and whoever enters my house a believer, and the believing men and women."',
+    glossBn: '"হে আমার প্রভু, আমাকে, আমার পিতামাতাকে, মুমিন হয়ে আমার ঘরে প্রবেশকারীকে এবং মুমিন নর-নারীদের ক্ষমা করুন।"' },
+  { pid: 'nuh', ref: '54:10',
+    glossEn: '"I am overpowered, so help (me)."',
+    glossBn: '"আমি পরাভূত, অতএব আপনি সাহায্য করুন।"' },
+  { pid: 'ibrahim', ref: '2:127-129',
+    glossEn: '"Our Lord, accept (this) from us… make us in submission to You… and raise among them a messenger."',
+    glossBn: '"হে আমাদের প্রভু, আমাদের থেকে কবুল করুন… আমাদের আপনার অনুগত করুন… এবং তাদের মধ্যে এক রাসূল পাঠান।"' },
+  { pid: 'ibrahim', ref: '14:40-41',
+    glossEn: '"My Lord, make me an establisher of prayer, and from my descendants… forgive me, my parents, and the believers on the Day of Reckoning."',
+    glossBn: '"হে আমার প্রভু, আমাকে ও আমার বংশধরদের সালাত প্রতিষ্ঠাকারী করুন… হিসাবের দিনে আমাকে, আমার পিতামাতাকে ও মুমিনদের ক্ষমা করুন।"' },
+  { pid: 'ibrahim', ref: '26:83-85',
+    glossEn: '"My Lord, grant me wisdom and join me with the righteous, and grant me an honourable mention among later generations."',
+    glossBn: '"হে আমার প্রভু, আমাকে প্রজ্ঞা দিন, সৎকর্মশীলদের সাথে মিলিত করুন, এবং পরবর্তীদের মধ্যে আমার সুনাম রাখুন।"' },
+  { pid: 'yusuf', ref: '12:101',
+    glossEn: '"…Cause me to die a Muslim and join me with the righteous."',
+    glossBn: '"…আমাকে মুসলিম অবস্থায় মৃত্যু দিন এবং সৎকর্মশীলদের সাথে মিলিত করুন।"' },
+  { pid: 'ayyub', ref: '21:83',
+    glossEn: '"Indeed, adversity has touched me, and You are the Most Merciful of the merciful."',
+    glossBn: '"নিশ্চয়ই আমাকে দুঃখ-কষ্ট স্পর্শ করেছে, আর আপনি দয়ালুদের মধ্যে সর্বশ্রেষ্ঠ দয়ালু।"' },
+  { pid: 'musa', ref: '20:25-28',
+    glossEn: '"My Lord, expand for me my chest, ease my task, and untie the knot from my tongue so they may understand my speech."',
+    glossBn: '"হে আমার প্রভু, আমার বক্ষ প্রশস্ত করুন, আমার কাজ সহজ করুন, আর আমার জিহ্বার জড়তা দূর করুন যাতে তারা আমার কথা বোঝে।"' },
+  { pid: 'musa', ref: '28:16',
+    glossEn: '"My Lord, indeed I have wronged myself, so forgive me."',
+    glossBn: '"হে আমার প্রভু, নিশ্চয়ই আমি নিজের ওপর জুলুম করেছি, অতএব আমাকে ক্ষমা করুন।"' },
+  { pid: 'sulayman', ref: '27:19',
+    glossEn: '"My Lord, enable me to be grateful for Your favour… and admit me by Your mercy among Your righteous servants."',
+    glossBn: '"হে আমার প্রভু, আপনার নিয়ামতের শোকর আদায়ের সামর্থ্য দিন… এবং আপনার রহমতে আমাকে আপনার সৎ বান্দাদের অন্তর্ভুক্ত করুন।"' },
+  { pid: 'yunus', ref: '21:87',
+    glossEn: '"There is no god but You; glory be to You; indeed I have been of the wrongdoers." (the dua of Dhun-Nun)',
+    glossBn: '"আপনি ছাড়া কোনো ইলাহ নেই; আপনি পবিত্র; নিশ্চয়ই আমি সীমালঙ্ঘনকারীদের অন্তর্ভুক্ত।" (যুন-নূনের দোয়া)' },
+  { pid: 'zakariya', ref: '19:4-6',
+    glossEn: '"My Lord… I have never been unblessed in my prayer to You — so grant me from Yourself an heir."',
+    glossBn: '"হে আমার প্রভু… আপনার কাছে দোয়া করে আমি কখনো বঞ্চিত হইনি — তাই আপনার পক্ষ থেকে আমাকে এক উত্তরাধিকারী দিন।"' },
+  { pid: 'zakariya', ref: '21:89',
+    glossEn: '"My Lord, do not leave me alone (childless), and You are the best of inheritors."',
+    glossBn: '"হে আমার প্রভু, আমাকে একা (নিঃসন্তান) রাখবেন না, আর আপনিই সর্বোত্তম উত্তরাধিকারী।"' },
+  { pid: 'muhammad', ref: '20:114',
+    glossEn: '"My Lord, increase me in knowledge." (Rabbi zidni ilma)',
+    glossBn: '"হে আমার প্রভু, আমার জ্ঞান বৃদ্ধি করুন।" (রব্বি যিদনি ইলমা)' },
+];
+
+/**
+ * Approximate counts of how often key prophets are mentioned BY NAME in the
+ * Quran — commonly-cited figures only, marked approximate in the UI.
+ */
+const PROPHETS_MENTIONS = [
+  { pid: 'musa', n: 136 }, { pid: 'ibrahim', n: 69 }, { pid: 'nuh', n: 43 },
+  { pid: 'lut', n: 27 }, { pid: 'yusuf', n: 27 }, { pid: 'adam', n: 25 },
+  { pid: 'isa', n: 25 }, { pid: 'harun', n: 20 }, { pid: 'sulayman', n: 17 },
+  { pid: 'yaqub', n: 16 }, { pid: 'dawud', n: 16 }, { pid: 'ismail', n: 12 },
+  { pid: 'shuayb', n: 11 }, { pid: 'salih', n: 9 }, { pid: 'hud', n: 7 },
+  { pid: 'zakariya', n: 7 }, { pid: 'yahya', n: 5 }, { pid: 'yunus', n: 4 },
+  { pid: 'muhammad', n: 4,
+    noteEn: 'by the name "Muhammad"; also once as "Ahmad" (61:6)',
+    noteBn: '"মুহাম্মাদ" নামে; এছাড়া একবার "আহমাদ" নামে (৬১:৬)' },
+];
+
+/**
+ * Fixed lineage questions for the quiz (traditional, well-known relations).
+ * Options are explicit so distractors stay sensible.
+ */
+const PROPHETS_LINEAGE_QUIZ = [
+  { answerId: 'yaqub', optionIds: ['yaqub', 'ishaq', 'ibrahim', 'yusuf'],
+    promptEn: 'Who was the father of Yusuf (AS)?', promptBn: 'ইউসুফ (আঃ)-এর পিতা কে ছিলেন?' },
+  { answerId: 'sulayman', optionIds: ['sulayman', 'dawud', 'harun', 'zakariya'],
+    promptEn: 'Which prophet was the son of Dawud (AS)?', promptBn: 'কোন নবী দাউদ (আঃ)-এর পুত্র ছিলেন?' },
+  { answerId: 'ismail', optionIds: ['ismail', 'ishaq', 'yaqub', 'lut'],
+    promptEn: 'Muhammad ﷺ descends from which son of Ibrahim (AS)?', promptBn: 'মুহাম্মাদ ﷺ ইবরাহীম (আঃ)-এর কোন পুত্রের বংশধর?' },
+  { answerId: 'zakariya', optionIds: ['zakariya', 'yahya', 'isa', 'ilyas'],
+    promptEn: 'Who was the father of Yahya (AS)?', promptBn: 'ইয়াহইয়া (আঃ)-এর পিতা কে ছিলেন?' },
+];
+
+/**
  * UI chrome fallback dictionary. tt() prefers global t() (so translations.js can
  * override once wired) and falls back here so the module renders under ANY UI
  * language (English fallback for others; Bengali authored inline).
@@ -587,6 +671,20 @@ const PROPHETS_UI = {
   prophets_quiz_wrong: { en: 'The answer was', bn: 'সঠিক উত্তর ছিল' },
   prophets_quiz_q_nation: { en: 'Which prophet was sent to this people?', bn: 'কোন নবী এই সম্প্রদায়ের কাছে প্রেরিত হন?' },
   prophets_quiz_q_event: { en: 'Which prophet is this about?', bn: 'এটি কোন নবী সম্পর্কে?' },
+  prophets_quiz_q_dua: { en: 'Which prophet made this supplication?', bn: 'কোন নবী এই দোয়া করেছিলেন?' },
+  prophets_quiz_q_lineage: { en: 'Lineage question', bn: 'বংশধারা প্রশ্ন' },
+  prophets_duas_title: { en: 'Duas of the Prophets', bn: 'নবীদের দোয়া' },
+  prophets_duas_intro: { en: 'Famous supplications of the prophets recorded in the Quran — tap a reference to open the verse.', bn: 'কুরআনে লিপিবদ্ধ নবীদের বিখ্যাত দোয়া — আয়াত খুলতে রেফারেন্সে ট্যাপ করুন।' },
+  prophets_lineage_title: { en: 'Lineage & connections', bn: 'বংশধারা ও সংযোগ' },
+  prophets_lineage_intro: { en: 'The traditional broad lines of descent between the prophets.', bn: 'নবীদের মধ্যে ঐতিহ্যগত মূল বংশধারা।' },
+  prophets_lineage_arabs: { en: 'the Arabs', bn: 'আরবগণ' },
+  prophets_lineage_bani: { en: 'Prophets of Bani Israil', bn: 'বনী ইসরাঈলের নবীগণ' },
+  prophets_lineage_israel: { en: 'Israel', bn: 'ইসরাঈল' },
+  prophets_lineage_note: { en: 'A simplified overview of the well-known traditional lines — many generations and other prophets lie between these names.', bn: 'সুপরিচিত ঐতিহ্যগত ধারার একটি সরলীকৃত চিত্র — এই নামগুলোর মাঝে বহু প্রজন্ম ও অন্যান্য নবী রয়েছেন।' },
+  prophets_mentions_title: { en: 'The prophets in the Quran by mention', bn: 'কুরআনে নবীদের নাম উল্লেখের সংখ্যা' },
+  prophets_mentions_intro: { en: 'How often key prophets are mentioned by name in the Quran.', bn: 'কুরআনে প্রধান নবীদের নাম কতবার উল্লেখিত হয়েছে।' },
+  prophets_mentions_note: { en: 'Counts are approximate — commonly cited figures for mentions by name; scholarly tallies vary slightly.', bn: 'সংখ্যাগুলো আনুমানিক — নামে উল্লেখের প্রচলিত হিসাব; আলেমদের গণনায় সামান্য তারতম্য আছে।' },
+  prophets_mentions_times: { en: 'times', bn: 'বার' },
 };
 
 class ProphetsView {
@@ -772,6 +870,9 @@ class ProphetsView {
         <div data-prophets-list></div>
 
         ${this.threadsHtml()}
+        ${this.duasHtml()}
+        ${this.lineageHtml()}
+        ${this.mentionsHtml()}
 
         <div class="mt-6 rounded-2xl bg-gradient-to-br from-primary/10 to-transparent border border-primary/20 p-5 text-center">
           <div class="text-2xl mb-1" aria-hidden="true">✦</div>
@@ -890,6 +991,99 @@ class ProphetsView {
       </div>`;
   }
 
+  // Display name (transliteration) for a prophet id; safe fallback.
+  pname(pid) {
+    // Localized prophet name: Bengali form for the bn UI, transliteration elsewhere.
+    const p = PROPHETS_DATA.find(x => x.id === pid);
+    if (!p) return String(pid || '');
+    return (this.language === 'bn' && p.bn) ? p.bn : p.translit;
+  }
+
+  duasHtml() {
+    return `
+      <div class="mt-8">
+        <h3 class="text-lg font-bold text-gray-800 dark:text-gray-100 flex items-center gap-2">🤲 ${this.esc(this.tt('prophets_duas_title'))}</h3>
+        <p class="text-xs text-gray-400 dark:text-gray-500 mb-3" dir="auto">${this.esc(this.tt('prophets_duas_intro'))}</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          ${PROPHETS_DUAS.map(d => `
+            <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 flex flex-col gap-2">
+              <div class="flex items-center justify-between gap-2">
+                <span class="font-bold text-gray-800 dark:text-gray-100 text-sm">${this.esc(this.pname(d.pid))}</span>
+                <button type="button" data-prophets-ayah="${this.esc(this.openRef(d.ref))}"
+                  class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.7rem] font-medium hover:bg-primary hover:text-white transition-colors" dir="auto">📖 ${this.esc(this.refLabel(d.ref))}</button>
+              </div>
+              <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed italic" dir="auto">${this.esc(this.language === 'bn' ? (d.glossBn || d.glossEn) : d.glossEn)}</p>
+            </div>`).join('')}
+        </div>
+      </div>`;
+  }
+
+  // Abstract, text-only lineage tree (names + connective lines; no figures).
+  lineageHtml() {
+    const node = (label, extra) => `
+      <div class="flex items-center gap-2">
+        <span class="px-2.5 py-1 rounded-lg bg-primary/10 text-primary text-xs font-semibold whitespace-nowrap">${this.esc(label)}</span>
+        ${extra ? `<span class="text-[0.7rem] text-gray-400 dark:text-gray-500" dir="auto">${this.esc(extra)}</span>` : ''}
+      </div>`;
+    const branch = (inner) => `
+      <div class="ms-3 ps-4 border-s-2 border-dashed border-gray-300 dark:border-gray-600 space-y-2 pt-2">${inner}</div>`;
+    const baniList = ['yusuf', 'musa', 'harun', 'dawud', 'sulayman', 'zakariya', 'yahya', 'isa']
+      .map(id => this.pname(id)).join(' · ');
+    return `
+      <div class="mt-8">
+        <h3 class="text-lg font-bold text-gray-800 dark:text-gray-100 flex items-center gap-2">🌿 ${this.esc(this.tt('prophets_lineage_title'))}</h3>
+        <p class="text-xs text-gray-400 dark:text-gray-500 mb-3" dir="auto">${this.esc(this.tt('prophets_lineage_intro'))}</p>
+        <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 overflow-x-auto">
+          <div class="space-y-2 min-w-[16rem]">
+            ${node(this.pname('adam') + ' (AS)')}
+            ${branch(`
+              ${node(this.pname('nuh') + ' (AS)')}
+              ${branch(`
+                ${node(this.pname('ibrahim') + ' (AS)')}
+                ${branch(`
+                  ${node(this.pname('ismail') + ' (AS)', '→ ' + this.tt('prophets_lineage_arabs') + ' → ' + this.pname('muhammad') + ' ﷺ')}
+                  ${node(this.pname('ishaq') + ' (AS)', '→ ' + this.pname('yaqub') + ' (' + this.tt('prophets_lineage_israel') + ') (AS)')}
+                  ${branch(`
+                    <div>
+                      <div class="text-[0.7rem] font-semibold uppercase tracking-wide text-gray-400 dark:text-gray-500 mb-1">${this.esc(this.tt('prophets_lineage_bani'))}</div>
+                      <div class="text-xs text-gray-600 dark:text-gray-300" dir="auto">${this.esc(baniList)} (AS)</div>
+                    </div>`)}
+                `)}
+              `)}
+            `)}
+          </div>
+        </div>
+        <p class="text-[0.7rem] text-gray-400 dark:text-gray-500 leading-relaxed mt-2" dir="auto">ℹ️ ${this.esc(this.tt('prophets_lineage_note'))}</p>
+      </div>`;
+  }
+
+  mentionsHtml() {
+    const max = PROPHETS_MENTIONS.reduce((m, x) => Math.max(m, x.n || 0), 1);
+    return `
+      <div class="mt-8">
+        <h3 class="text-lg font-bold text-gray-800 dark:text-gray-100 flex items-center gap-2">📊 ${this.esc(this.tt('prophets_mentions_title'))}</h3>
+        <p class="text-xs text-gray-400 dark:text-gray-500 mb-3" dir="auto">${this.esc(this.tt('prophets_mentions_intro'))}</p>
+        <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 space-y-2">
+          ${PROPHETS_MENTIONS.map(m => {
+            const pct = Math.max(4, Math.round((m.n / max) * 100));
+            const note = this.language === 'bn' ? (m.noteBn || m.noteEn) : m.noteEn;
+            return `
+            <div>
+              <div class="flex items-center justify-between gap-2 text-xs">
+                <span class="font-medium text-gray-700 dark:text-gray-200">${this.esc(this.pname(m.pid))}</span>
+                <span class="text-gray-400 dark:text-gray-500 whitespace-nowrap">~${m.n} ${this.esc(this.tt('prophets_mentions_times'))}</span>
+              </div>
+              <div class="h-1.5 mt-0.5 rounded-full bg-gray-100 dark:bg-gray-700 overflow-hidden">
+                <div class="h-full bg-primary/70" style="width:${pct}%"></div>
+              </div>
+              ${note ? `<p class="text-[0.65rem] text-gray-400 dark:text-gray-500 mt-0.5" dir="auto">${this.esc(note)}</p>` : ''}
+            </div>`;
+          }).join('')}
+        </div>
+        <p class="text-[0.7rem] text-gray-400 dark:text-gray-500 leading-relaxed mt-2" dir="auto">ℹ️ ${this.esc(this.tt('prophets_mentions_note'))}</p>
+      </div>`;
+  }
+
   // ── quiz ─────────────────────────────────────────────────────────────
   shuffle(arr) {
     const a = arr.slice();
@@ -901,8 +1095,8 @@ class ProphetsView {
   }
 
   buildQuiz() {
-    const N = 6;
-    const chosen = this.shuffle(PROPHETS_DATA).slice(0, N);
+    const baseN = 4;
+    const chosen = this.shuffle(PROPHETS_DATA).slice(0, baseN);
     const questions = chosen.map(p => {
       // Prefer an "event" prompt when the prophet has events, else "nation".
       const events = Array.isArray(p.events) ? p.events : [];
@@ -917,10 +1111,34 @@ class ProphetsView {
         promptType = 'nation';
       }
       const distractors = this.shuffle(PROPHETS_DATA.filter(x => x.id !== p.id)).slice(0, 3);
-      const options = this.shuffle(distractors.concat(p)).map(o => ({ id: o.id, label: o.translit }));
+      const options = this.shuffle(distractors.concat(p)).map(o => ({ id: o.id, label: this.pname(o.id) }));
       return { answerId: p.id, promptText, promptType, options };
     });
-    return { questions, idx: 0, score: 0, answeredId: null, done: false };
+
+    // 2 dua questions: "Which prophet made this supplication?"
+    try {
+      const duas = this.shuffle(PROPHETS_DUAS).slice(0, 2);
+      duas.forEach(d => {
+        const answer = PROPHETS_DATA.find(x => x.id === d.pid);
+        if (!answer) return;
+        const distractors = this.shuffle(PROPHETS_DATA.filter(x => x.id !== d.pid)).slice(0, 3);
+        const options = this.shuffle(distractors.concat(answer)).map(o => ({ id: o.id, label: this.pname(o.id) }));
+        const promptText = this.language === 'bn' ? (d.glossBn || d.glossEn) : d.glossEn;
+        questions.push({ answerId: d.pid, promptText, promptType: 'dua', options });
+      });
+    } catch (_) { /* ignore */ }
+
+    // 2 lineage questions with curated options.
+    try {
+      const lin = this.shuffle(PROPHETS_LINEAGE_QUIZ).slice(0, 2);
+      lin.forEach(lq => {
+        const options = this.shuffle(lq.optionIds.slice()).map(id => ({ id, label: this.pname(id) }));
+        const promptText = this.language === 'bn' ? (lq.promptBn || lq.promptEn) : lq.promptEn;
+        questions.push({ answerId: lq.answerId, promptText, promptType: 'lineage', options });
+      });
+    } catch (_) { /* ignore */ }
+
+    return { questions: this.shuffle(questions), idx: 0, score: 0, answeredId: null, done: false };
   }
 
   renderQuiz() {
@@ -948,7 +1166,10 @@ class ProphetsView {
 
     const cur = q.questions[q.idx];
     const answered = q.answeredId != null;
-    const promptLabel = cur.promptType === 'event' ? this.tt('prophets_quiz_q_event') : this.tt('prophets_quiz_q_nation');
+    const promptLabel = cur.promptType === 'event' ? this.tt('prophets_quiz_q_event')
+      : cur.promptType === 'dua' ? this.tt('prophets_quiz_q_dua')
+      : cur.promptType === 'lineage' ? this.tt('prophets_quiz_q_lineage')
+      : this.tt('prophets_quiz_q_nation');
     const pct = Math.round((q.idx / total) * 100);
 
     const optsHtml = cur.options.map(o => {
@@ -964,7 +1185,7 @@ class ProphetsView {
         <span>${this.esc(o.label)}</span> ${mark}</button>`;
     }).join('');
 
-    const correctName = (PROPHETS_DATA.find(x => x.id === cur.answerId) || {}).translit || '';
+    const correctName = this.pname(cur.answerId);
     const feedback = answered
       ? (q.answeredId === cur.answerId
           ? `<p class="text-sm font-semibold text-green-600 dark:text-green-400 text-center mt-3">✓ ${this.esc(this.tt('prophets_quiz_correct'))}</p>`
