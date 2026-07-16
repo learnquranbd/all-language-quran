@@ -158,6 +158,8 @@ const RESOURCES_DATA = [
       en: 'Wordle-style daily Quranic Arabic word game, free', bn: 'ওয়ার্ডল-স্টাইল কুরআনি আরবি শব্দ খেলা, ফ্রি' },
     { name: 'Quranic Grammar', url: 'https://www.quranic-grammar.com', emoji: '📝',
       en: 'Free Quranic Arabic grammar lessons, no signup', bn: 'বিনামূল্যে কুরআনি আরবি ব্যাকরণ পাঠ, সাইনআপ ছাড়াই' },
+    { name: 'LinguaQuran', url: 'https://linguaquran.com', emoji: '🔤',
+      en: 'Learn 500 frequent words covering 80% of Quran', bn: 'কুরআনের ৮০% জুড়ে থাকা ৫০০ শব্দ শিখুন' },
   ] },
   { id: 'tajweed', emoji: '🎨', titleKey: 'resources_cat_tajweed', items: [
     { name: 'Tilawa.ai', url: 'https://tilawa.ai/en/quran/', emoji: '🎨',
@@ -202,6 +204,8 @@ const RESOURCES_DATA = [
       en: 'Beautiful, ad-free free Quran reading app', bn: 'সুন্দর, বিজ্ঞাপনহীন বিনামূল্যের কুরআন অ্যাপ' },
     { name: 'The Hifz Project', url: 'https://thehifzproject.com', emoji: '🧠',
       en: 'Free spaced-repetition memorization, all 114 surahs', bn: 'স্পেসড-রিপিটিশনে ফ্রি কুরআন হিফজ, সব ১১৪ সূরা' },
+    { name: 'Quran Companion Tools', url: 'https://qurantools.io/?lang=en', emoji: '🧰',
+      en: 'Free hifz tracker, mushaf reader & recitation grading', bn: 'বিনামূল্যের হিফজ ট্র্যাকার, মুসহাফ রিডার ও গ্রেডিং' },
   ] },
   { id: 'hadith', emoji: '📜', titleKey: 'resources_cat_hadith', items: [
     { name: 'Sunnah.com', url: 'https://sunnah.com', emoji: '📜',
@@ -262,6 +266,10 @@ const RESOURCES_DATA = [
       en: 'Open Arabic text corpus with reuse analysis', bn: 'উন্মুক্ত আরবি টেক্সট কর্পাস ও পুনঃব্যবহার বিশ্লেষণ' },
     { name: 'al-Maktaba al-Shamela', url: 'https://shamela.ws', emoji: '📚',
       en: 'Vast free library of classical Arabic Islamic texts', bn: 'শাস্ত্রীয় আরবি তাফসির ও ইসলামি গ্রন্থাগার' },
+    { name: 'Qatar Digital Library', url: 'https://www.qdl.qa/en', emoji: '📜',
+      en: 'Free archive of Arabic scientific manuscripts', bn: 'আরবি বৈজ্ঞানিক পাণ্ডুলিপির বিনামূল্যের সংরক্ষণাগার' },
+    { name: 'Arabic Collections Online', url: 'https://aco.dlib.nyu.edu', emoji: '📚',
+      en: "NYU's free open library of public-domain Arabic books", bn: 'এনওয়াইইউ-এর পাবলিক-ডোমেইন আরবি বই লাইব্রেরি' },
     { name: 'Hijri Timeline', url: 'https://www.hijritimeline.com', emoji: '📅',
       en: 'Interactive Islamic history events timeline', bn: 'ইসলামি ইতিহাসের ইন্টারেক্টিভ সময়রেখা' },
     { name: 'OER Project: The Islamic World', url: 'https://www.oerproject.com/topics/the-islamic-world', emoji: '🌍',
