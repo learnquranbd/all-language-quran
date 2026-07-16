@@ -30,6 +30,7 @@ const QA_UNITS = [
   { id: 'forms',       icon: '🧬', en: 'Word Forms',    bn: 'শব্দরূপ' },
   { id: 'sentences',   icon: '🔗', en: 'Sentences',     bn: 'বাক্য' },
   { id: 'particles',   icon: '📎', en: 'Particles & Structures', bn: 'অব্যয় ও গঠন' },
+  { id: 'advanced',    icon: '📐', en: 'Advanced Grammar', bn: 'উচ্চতর ব্যাকরণ' },
 ];
 
 /* ------------------------------------------------------------------ *
@@ -891,6 +892,234 @@ const QA_LESSONS = [
       explain: { en: 'مَنْ here means "whoever" and starts a conditional sentence with jazm verbs.', bn: 'এখানে مَنْ মানে "যে/যেই" এবং জযম-ক্রিয়াসহ শর্ত-বাক্য শুরু করে।' },
     },
   },
+  {
+    id: 'passive-voice', unit: 'advanced', icon: '🔁',
+    title: { en: 'The passive voice (al-fiʿl al-majhūl)', bn: 'কর্মবাচ্য (আল-ফি‘ল আল-মাজহূল)' },
+    concept: {
+      en: 'When the doer is unknown or unmentioned, a verb goes into the <b>passive</b> (majhūl): "was done / is done". The vowels change — the past فَعَلَ ("he did") becomes فُعِلَ ("it was done"): خَلَقَ ("He created") → خُلِقَ ("it was created"). The object it happened to becomes the grammatical subject.',
+      bn: 'কর্তা অজানা বা অনুক্ত হলে ক্রিয়া <b>কর্মবাচ্যে</b> (মাজহূল) যায়: "করা হয়েছিল / করা হয়"। স্বর বদলায় — অতীত فَعَلَ ("সে করলো") হয় فُعِلَ ("তা করা হলো"): خَلَقَ ("তিনি সৃষ্টি করলেন") → خُلِقَ ("তা সৃষ্টি করা হলো")।',
+    },
+    examples: [
+      { ref: '86:5', trans: { en: 'So let man observe from what he was created.', bn: 'সুতরাং মানুষ যেন দেখে সে কী থেকে সৃষ্ট হয়েছে।' },
+        note: { en: 'خُلِقَ ("was created", pattern فُعِلَ) is a past passive verb — no doer is named.', bn: 'خُلِقَ ("সৃষ্ট হয়েছে", ছাঁচ فُعِلَ) অতীত কর্মবাচ্য ক্রিয়া — কর্তা উল্লেখ নেই।' },
+        words: [
+          { ar: 'فَلْيَنظُرِ', en: 'So let observe', bn: 'সুতরাং দেখুক' },
+          { ar: 'ٱلْإِنسَٰنُ', en: 'man', bn: 'মানুষ' },
+          { ar: 'مِمَّ', en: 'from what', bn: 'কী থেকে' },
+          { ar: 'خُلِقَ', en: 'he was created', bn: 'সৃষ্ট হয়েছে', hl: true },
+        ] },
+      { ref: '112:3', trans: { en: '…nor is He born.', bn: '…এবং তাঁকে জন্ম দেওয়া হয়নি।' },
+        note: { en: 'يُولَدْ ("is born") is a present passive verb — the action is done TO Him.', bn: 'يُولَدْ ("জন্মগ্রহণ করা হয়") বর্তমান কর্মবাচ্য ক্রিয়া — কাজটি তাঁর উপর করা হয়।' },
+        words: [
+          { ar: 'وَلَمْ', en: 'and not', bn: 'এবং না' },
+          { ar: 'يُولَدْ', en: 'is He born', bn: 'তাঁকে জন্ম দেওয়া হয়', hl: true },
+        ] },
+    ],
+    practice: {
+      q: { en: 'خُلِقَ ("was created", from خَلَقَ) is an example of the…', bn: 'خُلِقَ ("সৃষ্ট হলো", خَلَقَ থেকে) কীসের উদাহরণ…' },
+      options: [{ en: 'command', bn: 'আদেশ' }, { en: 'passive voice (majhūl)', bn: 'কর্মবাচ্য (মাজহূল)' }, { en: 'dual', bn: 'দ্বিবচন' }], answer: 1,
+      explain: { en: 'Changing فَعَلَ to فُعِلَ makes the verb passive — "was done", doer unnamed.', bn: 'فَعَلَ-কে فُعِلَ করলে ক্রিয়া কর্মবাচ্য হয় — "করা হলো", কর্তা অনুক্ত।' },
+    },
+  },
+  {
+    id: 'haal', unit: 'advanced', icon: '🎬',
+    title: { en: 'The circumstantial ḥāl', bn: 'অবস্থাবাচক হাল (ḥāl)' },
+    concept: {
+      en: 'The <b>ḥāl</b> describes the STATE of the doer or object while the action happens — answering "how?" It is a noun in the naṣb (‑a) case: يَمْشُونَ … هَوْنًا = "they walk … humbly". English often uses "‑ly" or "while ‑ing".',
+      bn: '<b>হাল</b> কাজের সময় কর্তা বা কর্মের <b>অবস্থা</b> বর্ণনা করে — "কীভাবে?" প্রশ্নের উত্তর দেয়। এটি নসব (‑a) অবস্থার বিশেষ্য: يَمْشُونَ … هَوْنًا = "তারা … নম্রভাবে চলে"।',
+    },
+    examples: [
+      { ref: '25:63', trans: { en: '…who walk upon the earth humbly…', bn: '…যারা যমীনে নম্রভাবে চলে…' },
+        note: { en: 'هَوْنًا ("humbly", naṣb) is the ḥāl — the manner of walking.', bn: 'هَوْنًا ("নম্রভাবে", নসব) হলো হাল — চলার ধরন।' },
+        words: [
+          { ar: 'يَمْشُونَ', en: 'who walk', bn: 'যারা চলে' },
+          { ar: 'عَلَى', en: 'upon', bn: 'উপর' },
+          { ar: 'ٱلْأَرْضِ', en: 'the earth', bn: 'যমীন' },
+          { ar: 'هَوْنًا', en: 'humbly', bn: 'নম্রভাবে', hl: true },
+        ] },
+      { ref: '15:46', trans: { en: 'Enter it in peace, secure.', bn: 'শান্তিতে, নিরাপদে এতে প্রবেশ করো।' },
+        note: { en: 'ءَامِنِينَ ("secure", naṣb) is a ḥāl — the state of those entering.', bn: 'ءَامِنِينَ ("নিরাপদ", নসব) একটি হাল — প্রবেশকারীদের অবস্থা।' },
+        words: [
+          { ar: 'ٱدْخُلُوهَا', en: 'Enter it', bn: 'এতে প্রবেশ করো' },
+          { ar: 'بِسَلَٰمٍ', en: 'in peace', bn: 'শান্তিতে' },
+          { ar: 'ءَامِنِينَ', en: 'secure', bn: 'নিরাপদে', hl: true },
+        ] },
+    ],
+    practice: {
+      q: { en: 'هَوْنًا in "they walk … humbly" describes HOW the action is done. It is a…', bn: '"তারা … নম্রভাবে চলে"-তে هَوْنًا কাজ কীভাবে হয় তা বোঝায়। এটি একটি…' },
+      options: [{ en: 'ḥāl (state)', bn: 'হাল (অবস্থা)' }, { en: 'object', bn: 'কর্ম' }, { en: 'subject', bn: 'কর্তা' }], answer: 0,
+      explain: { en: 'A ḥāl (in naṣb) describes the state/manner during the action.', bn: 'হাল (নসবে) কাজের সময়কার অবস্থা/ধরন বর্ণনা করে।' },
+    },
+  },
+  {
+    id: 'tamyiz', unit: 'advanced', icon: '🔎',
+    title: { en: 'Specification (at-tamyīz)', bn: 'নির্দিষ্টকরণ (আত-তাময়ীয)' },
+    concept: {
+      en: 'The <b>tamyīz</b> is a noun in the naṣb (‑a) case that removes vagueness — it says "in respect of what". وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا = "the head blazed with grey hair"; شَيْبًا specifies HOW the head "blazed" — in greyness.',
+      bn: '<b>তাময়ীয</b> নসব (‑a) অবস্থার বিশেষ্য যা অস্পষ্টতা দূর করে — "কীসে/কোন দিক থেকে" তা জানায়। وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا = "মাথা শুভ্রতায় জ্বলে উঠল"; شَيْبًا নির্দিষ্ট করে মাথা কীসে "জ্বলল" — শুভ্রতায়।',
+    },
+    examples: [
+      { ref: '19:4', trans: { en: '…and the head has flared up with grey hair…', bn: '…আর মাথা শুভ্রতায় ভরে গেছে…' },
+        note: { en: 'شَيْبًا ("in grey hair", naṣb) is the tamyīz — it specifies the vague verb.', bn: 'شَيْبًا ("শুভ্রতায়", নসব) হলো তাময়ীয — এটি অস্পষ্ট ক্রিয়াকে নির্দিষ্ট করে।' },
+        words: [
+          { ar: 'وَٱشْتَعَلَ', en: 'and has flared up', bn: 'আর জ্বলে উঠেছে' },
+          { ar: 'ٱلرَّأْسُ', en: 'the head', bn: 'মাথা' },
+          { ar: 'شَيْبًا', en: 'with grey hair', bn: 'শুভ্রতায়', hl: true },
+        ] },
+    ],
+    practice: {
+      q: { en: 'شَيْبًا ("in grey hair") clarifies in what respect the head "flared up". Such a manṣūb noun is a…', bn: 'شَيْبًا ("শুভ্রতায়") স্পষ্ট করে মাথা কোন দিকে "জ্বলল"। এমন মানসূব বিশেষ্য হলো…' },
+      options: [{ en: 'ḥāl', bn: 'হাল' }, { en: 'tamyīz (specification)', bn: 'তাময়ীয' }, { en: 'maṣdar', bn: 'মাসদার' }], answer: 1,
+      explain: { en: 'The tamyīz (naṣb) removes ambiguity: "flared up — in what? — in greyness".', bn: 'তাময়ীয (নসব) অস্পষ্টতা দূর করে: "জ্বলল — কীসে? — শুভ্রতায়"।' },
+    },
+  },
+  {
+    id: 'istithna', unit: 'advanced', icon: '➖',
+    title: { en: 'Exception with إِلَّا (al-istithnāʾ)', bn: 'إِلَّا দিয়ে ব্যতিক্রম (আল-ইস্তিসনা)' },
+    concept: {
+      en: '<b>إِلَّا</b> ("except / but") carves an exception out of a general statement: "all… except X". After a negation it means "none… except", giving powerful affirmation: لَآ إِلَٰهَ إِلَّا هُوَ = "there is no god EXCEPT Him".',
+      bn: '<b>إِلَّا</b> ("ছাড়া / কিন্তু") সাধারণ বক্তব্য থেকে ব্যতিক্রম বের করে: "সব… ছাড়া X"। নেতিবাচকের পরে এর অর্থ "কেউ নয়… ছাড়া", যা জোরালো নিশ্চয়তা দেয়: لَآ إِلَٰهَ إِلَّا هُوَ = "তিনি ছাড়া কোনো ইলাহ নেই"।',
+    },
+    examples: [
+      { ref: '2:255', trans: { en: 'Allah — there is no god except Him…', bn: 'আল্লাহ — তিনি ছাড়া কোনো ইলাহ নেই…' },
+        note: { en: 'إِلَّا excepts هُوَ from the negation لَآ إِلَٰهَ — "none except He".', bn: 'إِلَّا نেতিবাচক لَآ إِلَٰهَ থেকে هُوَ-কে ব্যতিক্রম করে — "তিনি ছাড়া কেউ নয়"।' },
+        words: [
+          { ar: 'لَآ', en: 'no', bn: 'নেই' },
+          { ar: 'إِلَٰهَ', en: 'god', bn: 'ইলাহ' },
+          { ar: 'إِلَّا', en: 'except', bn: 'ছাড়া', hl: true },
+          { ar: 'هُوَ', en: 'Him', bn: 'তিনি' },
+        ] },
+      { ref: '103:3', trans: { en: 'Except those who believe and do righteous deeds…', bn: 'তারা ছাড়া যারা ঈমান আনে ও সৎকর্ম করে…' },
+        note: { en: 'إِلَّا excepts the believers from the loss of "all mankind".', bn: 'إِلَّا "সব মানুষ"-এর ক্ষতি থেকে ঈমানদারদের ব্যতিক্রম করে।' },
+        words: [
+          { ar: 'إِلَّا', en: 'Except', bn: 'ছাড়া', hl: true },
+          { ar: 'ٱلَّذِينَ', en: 'those who', bn: 'যারা' },
+          { ar: 'ءَامَنُوا۟', en: 'believe', bn: 'ঈমান আনে' },
+          { ar: 'وَعَمِلُوا۟', en: 'and do', bn: 'ও করে' },
+          { ar: 'ٱلصَّٰلِحَٰتِ', en: 'righteous deeds', bn: 'সৎকর্ম' },
+        ] },
+    ],
+    practice: {
+      q: { en: 'In لَآ إِلَٰهَ إِلَّا هُوَ, the word إِلَّا means…', bn: 'لَآ إِلَٰهَ إِلَّا هُوَ-তে إِلَّا শব্দের অর্থ…' },
+      options: [{ en: 'and', bn: 'এবং' }, { en: 'except / but', bn: 'ছাড়া / কিন্তু' }, { en: 'in', bn: 'মধ্যে' }], answer: 1,
+      explain: { en: 'إِلَّا is the particle of exception: "no god EXCEPT Him".', bn: 'إِلَّا ব্যতিক্রমের অব্যয়: "তিনি ছাড়া কোনো ইলাহ নেই"।' },
+    },
+  },
+  {
+    id: 'nun-tawkid', unit: 'advanced', icon: '‼️',
+    title: { en: 'The emphatic nūn (nūn at-tawkīd)', bn: 'তাগিদের নূন (নূন আত-তাওকীদ)' },
+    concept: {
+      en: 'A present-tense verb can take an <b>emphatic nūn</b> ending to stress that it WILL certainly happen. It comes as a heavy ‑نَّ or a light ‑نْ, usually with a preceding لَـ: لَيُنۢبَذَنَّ = "he will SURELY be thrown". It adds force, like "certainly / surely".',
+      bn: 'বর্তমান ক্রিয়ায় <b>তাগিদের নূন</b> প্রত্যয় যুক্ত হয়ে বোঝায় যে তা নিশ্চিতভাবে ঘটবেই। এটি ভারী ‑نَّ বা হালকা ‑نْ রূপে আসে, সাধারণত আগে لَـ সহ: لَيُنۢبَذَنَّ = "তাকে অবশ্যই নিক্ষেপ করা হবে"।',
+    },
+    examples: [
+      { ref: '104:4', trans: { en: 'Nay! He will surely be thrown into the Crusher.', bn: 'কখনো নয়! তাকে অবশ্যই নিক্ষেপ করা হবে হুতামায়।' },
+        note: { en: 'لَيُنۢبَذَنَّ carries the heavy emphatic nūn ‑نَّ (with لَـ): "he will SURELY be thrown".', bn: 'لَيُنۢبَذَنَّ-তে ভারী তাগিদ-নূন ‑نَّ (لَـ সহ): "অবশ্যই নিক্ষেপ করা হবে"।' },
+        words: [
+          { ar: 'كَلَّا', en: 'Nay!', bn: 'কখনো নয়!' },
+          { ar: 'لَيُنۢبَذَنَّ', en: 'he will surely be thrown', bn: 'অবশ্যই নিক্ষেপ করা হবে', hl: true },
+          { ar: 'فِى', en: 'into', bn: 'মধ্যে' },
+          { ar: 'ٱلْحُطَمَةِ', en: 'the Crusher', bn: 'হুতামা' },
+        ] },
+      { ref: '96:15', trans: { en: '…We will surely drag him by the forelock.', bn: '…আমরা অবশ্যই টেনে নেব সামনের চুল ধরে।' },
+        note: { en: 'لَنَسْفَعًۢا shows the light emphatic nūn ‑نْ (written as tanwīn): "We will SURELY drag".', bn: 'لَنَسْفَعًۢا-তে হালকা তাগিদ-নূন ‑نْ (তানভীন রূপে): "অবশ্যই টেনে নেব"।' },
+        words: [
+          { ar: 'لَنَسْفَعًۢا', en: 'We will surely drag', bn: 'অবশ্যই টেনে নেব', hl: true },
+          { ar: 'بِٱلنَّاصِيَةِ', en: 'by the forelock', bn: 'সামনের চুল ধরে' },
+        ] },
+    ],
+    practice: {
+      q: { en: 'The ‑نَّ ending on لَيُنۢبَذَنَّ ("he will surely be thrown") adds a sense of…', bn: 'لَيُنۢبَذَنَّ-এর ‑نَّ প্রত্যয় কোন অর্থ যোগ করে…' },
+      options: [{ en: 'the past', bn: 'অতীত' }, { en: 'strong emphasis ("surely")', bn: 'জোরালো তাগিদ ("অবশ্যই")' }, { en: 'a question', bn: 'প্রশ্ন' }], answer: 1,
+      explain: { en: 'The nūn at-tawkīd emphasises certainty: "will SURELY happen".', bn: 'নূন আত-তাওকীদ নিশ্চয়তা জোরদার করে: "অবশ্যই ঘটবে"।' },
+    },
+  },
+  {
+    id: 'five-nouns', unit: 'advanced', icon: '🖐️',
+    title: { en: 'The five nouns (al-asmāʾ al-khamsa)', bn: 'পাঁচ বিশেষ্য (আল-আসমা আল-খামসা)' },
+    concept: {
+      en: 'Five special nouns — أَب ("father"), أَخ ("brother"), ذُو ("owner of"), فو ("mouth"), حَم ("father-in-law") — show their case with a LONG letter instead of a short vowel: و for rafʿ, ا for naṣb, ي for jarr. So ذُو = "owner" (rafʿ) but أَبِي = "father of" (jarr).',
+      bn: 'পাঁচটি বিশেষ বিশেষ্য — أَب ("পিতা"), أَخ ("ভাই"), ذُو ("মালিক"), فو ("মুখ"), حَم ("শ্বশুর") — স্বল্প স্বরের বদলে দীর্ঘ অক্ষরে এ‘রাব দেখায়: রফ‘-তে و, নসব-তে ا, জর-তে ي। তাই ذُو = "মালিক" (রফ‘) কিন্তু أَبِي = "পিতা" (জর)।',
+    },
+    examples: [
+      { ref: '85:15', trans: { en: 'Owner of the Throne, the Glorious.', bn: 'আরশের অধিপতি, মহিমান্বিত।' },
+        note: { en: 'ذُو ("owner of") ends in و because it is in the rafʿ (nominative) case.', bn: 'ذُو ("মালিক") و-তে শেষ কারণ এটি রফ‘ অবস্থায়।' },
+        words: [
+          { ar: 'ذُو', en: 'Owner of', bn: 'অধিপতি', hl: true },
+          { ar: 'ٱلْعَرْشِ', en: 'the Throne', bn: 'আরশের' },
+          { ar: 'ٱلْمَجِيدُ', en: 'the Glorious', bn: 'মহিমান্বিত' },
+        ] },
+      { ref: '111:1', trans: { en: 'May the hands of Abu Lahab perish…', bn: 'আবু লাহাবের হাত ধ্বংস হোক…' },
+        note: { en: 'أَبِى ("father of") ends in ي because it is in the jarr (genitive) case.', bn: 'أَبِى ("পিতা") ي-তে শেষ কারণ এটি জর অবস্থায়।' },
+        words: [
+          { ar: 'تَبَّتْ', en: 'Perish', bn: 'ধ্বংস হোক' },
+          { ar: 'يَدَآ', en: 'the two hands of', bn: 'দুই হাত' },
+          { ar: 'أَبِى', en: 'the father of', bn: 'পিতার', hl: true },
+          { ar: 'لَهَبٍ', en: 'Lahab', bn: 'লাহাবের' },
+        ] },
+    ],
+    practice: {
+      q: { en: 'The five nouns (أَب, أَخ, ذُو…) show their case using a…', bn: 'পাঁচ বিশেষ্য (أَب, أَخ, ذُو…) এ‘রাব দেখায় কী দিয়ে…' },
+      options: [{ en: 'long letter (و / ا / ي)', bn: 'দীর্ঘ অক্ষর (و / ا / ي)' }, { en: 'short vowel', bn: 'স্বল্প স্বর' }, { en: 'the article ٱلْ', bn: 'ٱلْ দিয়ে' }], answer: 0,
+      explain: { en: 'The five nouns take و (rafʿ), ا (naṣb) or ي (jarr) as their case sign.', bn: 'পাঁচ বিশেষ্য এ‘রাব-চিহ্ন হিসেবে و (রফ‘), ا (নসব) বা ي (জর) নেয়।' },
+    },
+  },
+  {
+    id: 'inna-kana-applied', unit: 'advanced', icon: '🧠',
+    title: { en: 'Sisters of إِنَّ & كَانَ in action (لَعَلَّ، لَيْسَ)', bn: 'إِنَّ ও كَانَ-এর বোনেরা প্রয়োগে (لَعَلَّ، لَيْسَ)' },
+    concept: {
+      en: 'The sisters of إِنَّ and كَانَ appear constantly in the Quran. <b>لَعَلَّ</b> ("so that perhaps / that you may") is a sister of إِنَّ — it makes the subject naṣb and expresses hope. <b>لَيْسَ</b> ("is not") is a sister of كَانَ — it negates a nominal sentence and makes the predicate naṣb.',
+      bn: 'إِنَّ ও كَانَ-এর বোনেরা কুরআনে অহরহ আসে। <b>لَعَلَّ</b> ("যাতে সম্ভবত / যেন তোমরা") إِنَّ-এর বোন — উদ্দেশ্যকে নসব করে ও আশা প্রকাশ করে। <b>لَيْسَ</b> ("নয়") كَانَ-এর বোন — নাম-বাক্য নাকচ করে ও বিধেয়কে নসব করে।',
+    },
+    examples: [
+      { ref: '2:21', trans: { en: '…worship your Lord… so that you may become mindful.', bn: '…তোমাদের রবের ইবাদত করো… যেন তোমরা মুত্তাকী হও।' },
+        note: { en: 'لَعَلَّكُمْ = لَعَلَّ ("so that perhaps") + كُمْ ("you") — a sister of إِنَّ expressing hope.', bn: 'لَعَلَّكُمْ = لَعَلَّ ("যাতে সম্ভবত") + كُمْ ("তোমরা") — إِنَّ-এর বোন, আশা প্রকাশক।' },
+        words: [
+          { ar: 'ٱعْبُدُوا۟', en: 'worship', bn: 'ইবাদত করো' },
+          { ar: 'رَبَّكُمُ', en: 'your Lord', bn: 'তোমাদের রব' },
+          { ar: 'لَعَلَّكُمْ', en: 'so that you may', bn: 'যেন তোমরা', hl: true },
+          { ar: 'تَتَّقُونَ', en: 'become mindful', bn: 'মুত্তাকী হও' },
+        ] },
+      { ref: '95:8', trans: { en: 'Is Allah not the most just of judges?', bn: 'আল্লাহ কি বিচারকদের মধ্যে সর্বাধিক ন্যায়পরায়ণ নন?' },
+        note: { en: 'أَلَيْسَ = the hamza of question + لَيْسَ ("is not"), a sister of كَانَ.', bn: 'أَلَيْسَ = প্রশ্নের হামযা + لَيْسَ ("নয়"), كَانَ-এর বোন।' },
+        words: [
+          { ar: 'أَلَيْسَ', en: 'Is not', bn: 'নন কি' },
+          { ar: 'ٱللَّهُ', en: 'Allah', bn: 'আল্লাহ' },
+          { ar: 'بِأَحْكَمِ', en: 'the most just of', bn: 'সর্বাধিক ন্যায়পরায়ণ' },
+          { ar: 'ٱلْحَٰكِمِينَ', en: 'the judges', bn: 'বিচারকদের' },
+        ] },
+    ],
+    practice: {
+      q: { en: 'لَعَلَّ (as in لَعَلَّكُمْ تَتَّقُونَ) is a sister of إِنَّ that expresses…', bn: 'لَعَلَّ (যেমন لَعَلَّكُمْ تَتَّقُونَ) إِنَّ-এর বোন, যা প্রকাশ করে…' },
+      options: [{ en: 'hope / purpose ("so that")', bn: 'আশা / উদ্দেশ্য ("যেন")' }, { en: 'the past', bn: 'অতীত' }, { en: 'an oath', bn: 'শপথ' }], answer: 0,
+      explain: { en: 'لَعَلَّ conveys hope or purpose: "so that you may…", and makes the subject naṣb.', bn: 'لَعَلَّ আশা বা উদ্দেশ্য বোঝায়: "যেন তোমরা…", এবং উদ্দেশ্যকে নসব করে।' },
+    },
+  },
+  {
+    id: 'lam-purpose', unit: 'advanced', icon: '🎯',
+    title: { en: 'The lām of purpose + subjunctive', bn: 'উদ্দেশ্যের লাম + নসব-রূপ' },
+    concept: {
+      en: 'A present verb can be put into the <b>subjunctive</b> (naṣb, ending ‑a) by particles of purpose. The most common is the <b>lām of reason</b> لِـ ("in order to / so that"): لِيَعْبُدُونِ = "so that they worship Me". أَنْ ("to") and حَتَّىٰ ("until") work the same way.',
+      bn: 'বর্তমান ক্রিয়াকে উদ্দেশ্যবাচক অব্যয় দিয়ে <b>নসব-রূপে</b> (‑a শেষ) নেওয়া যায়। সবচেয়ে প্রচলিত <b>কারণের লাম</b> لِـ ("যাতে / যেন"): لِيَعْبُدُونِ = "যাতে তারা আমার ইবাদত করে"। أَنْ ("যে") ও حَتَّىٰ ("যতক্ষণ না") একইভাবে কাজ করে।',
+    },
+    examples: [
+      { ref: '51:56', trans: { en: 'I did not create jinn and mankind except to worship Me.', bn: 'আমি জিন ও মানুষকে কেবল আমার ইবাদতের জন্যই সৃষ্টি করেছি।' },
+        note: { en: 'لِـ ("so that") on لِيَعْبُدُونِ puts the verb into the subjunctive (naṣb) — purpose.', bn: 'لِيَعْبُدُونِ-এর لِـ ("যাতে") ক্রিয়াকে নসব-রূপে নেয় — উদ্দেশ্য।' },
+        words: [
+          { ar: 'وَمَا', en: 'And not', bn: 'আর না' },
+          { ar: 'خَلَقْتُ', en: 'I created', bn: 'আমি সৃষ্টি করেছি' },
+          { ar: 'ٱلْجِنَّ', en: 'the jinn', bn: 'জিন' },
+          { ar: 'وَٱلْإِنسَ', en: 'and mankind', bn: 'ও মানুষ' },
+          { ar: 'إِلَّا', en: 'except', bn: 'কেবল' },
+          { ar: 'لِيَعْبُدُونِ', en: 'to worship Me', bn: 'আমার ইবাদতের জন্য', hl: true },
+        ] },
+    ],
+    practice: {
+      q: { en: 'The لِـ on لِيَعْبُدُونِ ("so that they worship Me") shows…', bn: 'لِيَعْبُدُونِ-এর لِـ ("যাতে তারা ইবাদত করে") কী বোঝায়…' },
+      options: [{ en: 'possession', bn: 'সম্বন্ধ' }, { en: 'purpose ("in order to")', bn: 'উদ্দেশ্য ("যাতে")' }, { en: 'negation', bn: 'নেতিবাচকতা' }], answer: 1,
+      explain: { en: 'The lām of purpose gives "in order to…" and makes the verb subjunctive (naṣb).', bn: 'উদ্দেশ্যের লাম "যাতে…" অর্থ দেয় এবং ক্রিয়াকে নসব-রূপ করে।' },
+    },
+  },
 ];
 
 /* ------------------------------------------------------------------ *
@@ -925,6 +1154,16 @@ const QA_GLOSSARY = [
   { ar: 'تَاء مَرْبُوطَة', translit: 'tāʾ marbūṭa', en: 'The ة ending — the usual mark of a feminine noun.', bn: 'ة শেষ — স্ত্রীলিঙ্গ বিশেষ্যের সাধারণ চিহ্ন।', ex: { ar: 'رَحْمَةً', ref: '21:107' } },
   { ar: 'إِنَّ', translit: 'inna', en: 'Emphasis particle ("indeed"); makes the subject naṣb.', bn: 'তাগিদ-অব্যয় ("নিশ্চয়"); উদ্দেশ্যকে নসব করে।', ex: { ar: 'إِنَّ', ref: '103:2' } },
   { ar: 'جَمْع التَّكْسِير', translit: 'jamʿ at-taksīr', en: 'Broken plural — formed by reshaping the word.', bn: 'ভাঙা বহুবচন — শব্দ পুনর্গঠনে গঠিত।', ex: { ar: 'قُلُوبِهِمْ', ref: '2:7' } },
+  { ar: 'حَال', translit: 'ḥāl', en: 'Circumstantial noun (naṣb) — describes the state during an action.', bn: 'হাল — কাজের সময়কার অবস্থা বর্ণনাকারী বিশেষ্য (নসব)।', ex: { ar: 'هَوْنًا', ref: '25:63' } },
+  { ar: 'تَمْيِيز', translit: 'tamyīz', en: 'Specification (naṣb) — clarifies "in respect of what".', bn: 'তাময়ীয — "কোন দিক থেকে" তা স্পষ্টকারী বিশেষ্য (নসব)।', ex: { ar: 'شَيْبًا', ref: '19:4' } },
+  { ar: 'فِعْل مَجْهُول', translit: 'fiʿl majhūl', en: 'Passive verb — "was/is done", the doer unnamed.', bn: 'কর্মবাচ্য ক্রিয়া — "করা হলো/হয়", কর্তা অনুক্ত।', ex: { ar: 'خُلِقَ', ref: '86:5' } },
+  { ar: 'اِسْتِثْنَاء', translit: 'istithnāʾ', en: 'Exception with إِلَّا ("except").', bn: 'إِلَّا ("ছাড়া") দিয়ে ব্যতিক্রম।', ex: { ar: 'إِلَّا', ref: '103:3' } },
+  { ar: 'نُون التَّوْكِيد', translit: 'nūn at-tawkīd', en: 'Emphatic nūn ending — "will surely…".', bn: 'তাগিদের নূন প্রত্যয় — "অবশ্যই…"।', ex: { ar: 'لَيُنۢبَذَنَّ', ref: '104:4' } },
+  { ar: 'الأَسْمَاء الخَمْسَة', translit: 'al-asmāʾ al-khamsa', en: 'The five nouns (أَب, أَخ, ذُو…) — case shown by و/ا/ي.', bn: 'পাঁচ বিশেষ্য (أَب, أَخ, ذُو…) — এ‘রাব و/ا/ي দিয়ে।', ex: { ar: 'ذُو', ref: '85:15' } },
+  { ar: 'لَام التَّعْلِيل', translit: 'lām at-taʿlīl', en: 'Lām of purpose ("so that") + subjunctive verb.', bn: 'উদ্দেশ্যের লাম ("যাতে") + নসব-রূপ ক্রিয়া।', ex: { ar: 'لِيَعْبُدُونِ', ref: '51:56' } },
+  { ar: 'لَعَلَّ', translit: 'laʿalla', en: 'Sister of إِنَّ expressing hope/purpose ("so that perhaps").', bn: 'إِنَّ-এর বোন, আশা/উদ্দেশ্য প্রকাশক ("যাতে সম্ভবত")।', ex: { ar: 'لَعَلَّكُمْ', ref: '2:21' } },
+  { ar: 'لَيْسَ', translit: 'laysa', en: 'Sister of كَانَ meaning "is not"; makes the predicate naṣb.', bn: 'كَانَ-এর বোন, অর্থ "নয়"; বিধেয়কে নসব করে।', ex: { ar: 'أَلَيْسَ', ref: '95:8' } },
+  { ar: 'تَنْوِين', translit: 'tanwīn', en: 'Nunation — the doubled ‑un/‑an/‑in ending of an indefinite noun.', bn: 'তানভীন — অনির্দিষ্ট বিশেষ্যের দ্বিগুণ ‑un/‑an/‑in শেষ।', ex: { ar: 'أَحَدٌ', ref: '112:1' } },
 ];
 
 /* ------------------------------------------------------------------ *
@@ -973,6 +1212,9 @@ const QA_UI = {
   qa_continue:     { en: 'Continue', bn: 'পরবর্তী' },
   qa_close:        { en: 'Close', bn: 'বন্ধ' },
   qa_lessons_word: { en: 'lessons', bn: 'পাঠ' },
+  qa_review_missed: { en: 'Review missed questions', bn: 'ভুল প্রশ্ন রিভিউ' },
+  qa_review_scope:  { en: 'Missed questions', bn: 'ভুল প্রশ্ন' },
+  qa_all_clear:     { en: 'No missed questions — well done!', bn: 'কোনো ভুল প্রশ্ন নেই — দারুণ!' },
 };
 
 /* ------------------------------------------------------------------ *
@@ -1048,8 +1290,9 @@ class QuranicArabicView {
       const p = (o && typeof o === 'object') ? o : {};
       if (!p.learned || typeof p.learned !== 'object') p.learned = {};
       if (!p.quiz || typeof p.quiz !== 'object') p.quiz = {};
+      if (!p.missed || typeof p.missed !== 'object') p.missed = {};
       return p;
-    } catch (e) { return { learned: {}, quiz: {} }; }
+    } catch (e) { return { learned: {}, quiz: {}, missed: {} }; }
   }
   saveProgress() {
     try { localStorage.setItem('lq_qarabic_progress', JSON.stringify(this.progress)); } catch (e) { /* ignore */ }
@@ -1059,6 +1302,10 @@ class QuranicArabicView {
   learnedCount() { try { return Object.keys(this.progress.learned || {}).filter(k => this.progress.learned[k]).length; } catch (e) { return 0; } }
   unitLearnedCount(unitId) { try { return this.unitLessons(unitId).filter(l => this.isLearned(l.id)).length; } catch (e) { return 0; } }
   bestQuiz(scopeId) { try { const v = this.progress.quiz && this.progress.quiz[scopeId]; return (typeof v === 'number' && isFinite(v)) ? v : null; } catch (e) { return null; } }
+  addMissed(id) { try { if (!id) return; if (!this.progress.missed) this.progress.missed = {}; if (!this.progress.missed[id]) { this.progress.missed[id] = true; this.saveProgress(); } } catch (e) { /* ignore */ } }
+  removeMissed(id) { try { if (this.progress.missed && this.progress.missed[id]) { delete this.progress.missed[id]; this.saveProgress(); } } catch (e) { /* ignore */ } }
+  missedIds() { try { return Object.keys(this.progress.missed || {}).filter(k => this.progress.missed[k]); } catch (e) { return []; } }
+  missedCount() { return this.missedIds().length; }
   saveQuizScore(scopeId, pct) {
     try {
       if (!this.progress.quiz) this.progress.quiz = {};
@@ -1131,7 +1378,8 @@ class QuranicArabicView {
     if (!lesson || !lesson.practice) return;
     const correct = i === lesson.practice.answer;
     this.answer = { selected: i, correct: correct };
-    if (correct) this.markLearned(lesson.id);
+    if (correct) { this.markLearned(lesson.id); this.removeMissed(lesson.id); }
+    else this.addMissed(lesson.id);
     this.render();
   }
 
@@ -1146,9 +1394,12 @@ class QuranicArabicView {
     try {
       let pool;
       if (scope === 'final') pool = this.lessons();
+      else if (scope === 'missed') { const ids = this.missedIds(); pool = this.lessons().filter(l => ids.indexOf(l.id) >= 0); }
       else pool = this.unitLessons(scope);
-      const qs = this.shuffle((pool || []).filter(l => l && l.practice).map(l => l.practice));
-      const cap = scope === 'final' ? 8 : 5;
+      // Tag each question with its lesson id so quiz results can update the missed list.
+      const qs = this.shuffle((pool || []).filter(l => l && l.practice).map(l => Object.assign({ _lid: l.id }, l.practice)));
+      if (!qs.length) { this.toSyllabus(); return; }
+      const cap = (scope === 'final' || scope === 'missed') ? 10 : 5;
       this.quiz = { scope: scope, qs: qs.slice(0, Math.min(cap, qs.length)), idx: 0, score: 0, picked: null, done: false, saved: false };
       this.view = 'quiz';
       this.render();
@@ -1162,7 +1413,8 @@ class QuranicArabicView {
     const cur = q.qs[q.idx];
     if (!cur) return;
     q.picked = i;
-    if (i === cur.answer) q.score++;
+    if (i === cur.answer) { q.score++; if (cur._lid) this.removeMissed(cur._lid); }
+    else if (cur._lid) this.addMissed(cur._lid);
     this.render();
   }
 
@@ -1262,6 +1514,7 @@ class QuranicArabicView {
     }).join('');
 
     const finalBest = this.bestQuiz('final');
+    const missed = this.missedCount();
 
     return `
       <div class="w-full max-w-4xl mx-auto">
@@ -1293,7 +1546,13 @@ class QuranicArabicView {
 
         ${units}
 
-        <div class="mt-2 mb-8 text-center">
+        <div class="mt-2 mb-8 flex flex-wrap items-center justify-center gap-3">
+          ${missed > 0 ? `
+          <button type="button" data-qa-quiz="missed"
+            class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-bold bg-rose-100 dark:bg-rose-900/40 text-rose-700 dark:text-rose-300 hover:bg-rose-200 dark:hover:bg-rose-900/60 transition-colors">
+            🔁 ${this.esc(this.tt('qa_review_missed'))}
+            <span class="text-xs font-semibold opacity-90">${missed}</span>
+          </button>` : ''}
           <button type="button" data-qa-quiz="final"
             class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-bold bg-primary text-white hover:opacity-90 transition-opacity">
             🎓 ${this.esc(this.tt('qa_final_quiz'))}
@@ -1500,6 +1759,7 @@ class QuranicArabicView {
   /* ---------- quiz view ---------- */
   quizScopeName(scope) {
     if (scope === 'final') return this.tt('qa_final_quiz');
+    if (scope === 'missed') return this.tt('qa_review_scope');
     const u = QA_UNITS.find(x => x.id === scope);
     return u ? this.L(u) : this.tt('qa_quiz');
   }

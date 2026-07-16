@@ -484,6 +484,7 @@ const SEERAH_BATTLES = {
 // interlaced 8-point star (classic Islamic geometry) for the Topics view.
 const SEERAH_TIMELINE_ICON = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><line x1="6" y1="3" x2="6" y2="21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><circle cx="6" cy="7" r="2" fill="currentColor"/><circle cx="6" cy="16" r="2" fill="currentColor"/><line x1="10" y1="7" x2="19" y2="7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><line x1="10" y1="16" x2="17" y2="16" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>';
 const SEERAH_TOPICS_ICON = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><rect x="6" y="6" width="12" height="12" fill="none" stroke="currentColor" stroke-width="1.4"/><rect x="6" y="6" width="12" height="12" fill="none" stroke="currentColor" stroke-width="1.4" transform="rotate(45 12 12)"/></svg>';
+const SEERAH_QUIZ_ICON = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="3" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M8 12.5 L11 15.5 L16.5 9" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 
 /**
  * MAJOR TOPICS — browsable thematic cards (bilingual, tap-to-expand). Content is
@@ -573,6 +574,140 @@ const SEERAH_TOPICS = [
     pointsBn: ['মানুষের জীবন, সম্পদ ও সম্মান পবিত্র', 'জাহেলি যুগের সুদ (রিবা) রহিত করা হয়', 'তিনি নারীর প্রতি সদয় ও ন্যায়পরায়ণ হওয়ার আহ্বান জানান', 'সকল মানুষ সমান; সবচেয়ে সম্মানিত সেই যে সবচেয়ে বেশি পরহেজগার', 'তিনি আঁকড়ে ধরার জন্য দুটি জিনিস রেখে যান: আল্লাহর কিতাব (ও তাঁর সুন্নাহ)'],
     verses: ['5:3', '49:13'],
   },
+  {
+    id: 'tp_letters', emoji: '✉️',
+    titleEn: 'Covenants & Letters to Kings',
+    titleBn: 'চুক্তি ও রাজাদের কাছে পত্র',
+    summaryEn: 'After the Treaty of Hudaybiyyah, the Prophet ﷺ sent letters inviting the rulers of his time — such as Heraclius of Byzantium and the Negus of Abyssinia — to Islam, and made covenants of protection with various communities. His message was addressed to all peoples, not one tribe or land.',
+    summaryBn: 'হুদায়বিয়ার সন্ধির পর নবী ﷺ তৎকালীন শাসকদের — যেমন বাইজেন্টাইনের হিরাক্লিয়াস ও আবিসিনিয়ার নাজ্জাশি — কাছে ইসলামের দাওয়াতের পত্র পাঠান এবং বিভিন্ন জনগোষ্ঠীর সাথে নিরাপত্তার চুক্তি করেন। তাঁর বার্তা ছিল সকল জাতির জন্য, কোনো একক গোত্র বা ভূমির জন্য নয়।',
+    pointsEn: ['Letters invited kings and rulers to worship the One God', 'The message was universal — “Come to a common word” (3:64)', 'He honoured the covenants and safe-conducts he granted'],
+    pointsBn: ['পত্রগুলো রাজা-শাসকদের এক আল্লাহর ইবাদতের দিকে আহ্বান জানায়', 'বার্তাটি ছিল বিশ্বজনীন — "একটি অভিন্ন কথায় এসো" (৩:৬৪)', 'তিনি প্রদত্ত চুক্তি ও নিরাপত্তার অঙ্গীকার রক্ষা করতেন'],
+    verses: ['3:64', '21:107', '34:28'],
+  },
+  {
+    id: 'tp_treaties', emoji: '📜',
+    titleEn: 'Non-Muslims, Treaties & the Charter of Medina',
+    titleBn: 'অমুসলিম, চুক্তি ও মদিনা সনদ',
+    summaryEn: 'On reaching Medina the Prophet ﷺ drew up the Charter of Medina, a written agreement ordering relations among the city’s groups, including its Jewish tribes, guaranteeing mutual defence and freedom of religion. Islam teaches justice and kindness toward peaceful non-Muslims and forbids compelling anyone into faith.',
+    summaryBn: 'মদিনায় পৌঁছে নবী ﷺ মদিনা সনদ প্রণয়ন করেন, যা ইহুদি গোত্রসহ নগরীর জনগোষ্ঠীগুলোর সম্পর্ক নিয়ন্ত্রণকারী এক লিখিত চুক্তি, যেখানে পারস্পরিক প্রতিরক্ষা ও ধর্মীয় স্বাধীনতার নিশ্চয়তা ছিল। ইসলাম শান্তিপ্রিয় অমুসলিমদের প্রতি ন্যায় ও সদাচরণ শেখায় এবং কাউকে জোর করে ধর্মে আনতে নিষেধ করে।',
+    pointsEn: ['The Charter of Medina bound the city’s groups in mutual defence', 'It recognised religious freedom for the communities of Medina', '“There is no compulsion in religion” (2:256); justice is due even to opponents (5:8)'],
+    pointsBn: ['মদিনা সনদ নগরীর জনগোষ্ঠীগুলোকে পারস্পরিক প্রতিরক্ষায় বেঁধেছিল', 'এটি মদিনার জনগোষ্ঠীগুলোর ধর্মীয় স্বাধীনতা স্বীকার করেছিল', '"দ্বীনে কোনো জবরদস্তি নেই" (২:২৫৬); বিরোধীদের প্রতিও ন্যায় করা কর্তব্য (৫:৮)'],
+    verses: ['2:256', '60:8', '5:8'],
+  },
+  {
+    id: 'tp_women', emoji: '🌸',
+    titleEn: 'Women & Family Rights',
+    titleBn: 'নারী ও পারিবারিক অধিকার',
+    summaryEn: 'The Prophet ﷺ raised the status of women in a society that had often neglected them, affirming their rights to inheritance, property, consent in marriage, and dignified treatment. He urged husbands to be kind, and taught that marriage is a bond of love and mercy.',
+    summaryBn: 'যে সমাজে নারীরা প্রায়ই অবহেলিত ছিল, সেখানে নবী ﷺ নারীর মর্যাদা উঁচু করেন — উত্তরাধিকার, সম্পত্তি, বিবাহে সম্মতি এবং সম্মানজনক আচরণের অধিকার নিশ্চিত করেন। তিনি স্বামীদের সদয় হতে আহ্বান জানান এবং শেখান যে বিবাহ হলো ভালোবাসা ও দয়ার বন্ধন।',
+    pointsEn: ['Women were granted rights to inheritance and property', '“Live with them in kindness” (4:19)', 'Marriage brings “affection and mercy” between spouses (30:21)'],
+    pointsBn: ['নারীদের উত্তরাধিকার ও সম্পত্তির অধিকার দেওয়া হয়', '"তাদের সাথে সদ্ভাবে বসবাস করো" (৪:১৯)', 'বিবাহ স্বামী-স্ত্রীর মাঝে "ভালোবাসা ও দয়া" আনে (৩০:২১)'],
+    verses: ['4:19', '30:21', '2:228'],
+  },
+  {
+    id: 'tp_economy', emoji: '⚖️',
+    titleEn: 'Economic & Charity Teachings',
+    titleBn: 'অর্থনৈতিক ও দান-শিক্ষা',
+    summaryEn: 'Islam established zakat — an obligatory charity that purifies wealth and supports the poor — and prohibited riba (interest/usury) as an injustice. The Prophet ﷺ encouraged honest trade, fulfilling contracts, and generosity toward the needy.',
+    summaryBn: 'ইসলাম প্রতিষ্ঠা করে যাকাত — এক বাধ্যতামূলক দান যা সম্পদ পবিত্র করে ও দরিদ্রদের সহায়তা করে — এবং সুদ (রিবা)-কে অন্যায় হিসেবে নিষিদ্ধ করে। নবী ﷺ সৎ ব্যবসা, চুক্তি পূরণ এবং অভাবীদের প্রতি দানশীলতার উৎসাহ দিতেন।',
+    pointsEn: ['Zakat is an obligatory charity for the poor and other categories (9:60)', 'Riba (interest) is forbidden as an injustice (2:275)', 'Honest trade and fulfilling agreements are commanded'],
+    pointsBn: ['যাকাত দরিদ্র ও অন্যান্য খাতের জন্য বাধ্যতামূলক দান (৯:৬০)', 'সুদ (রিবা) অন্যায় হিসেবে নিষিদ্ধ (২:২৭৫)', 'সৎ ব্যবসা ও চুক্তি পূরণের নির্দেশ দেওয়া হয়েছে'],
+    verses: ['2:275', '9:60', '2:277'],
+  },
+  {
+    id: 'tp_calendar', emoji: '🌙',
+    titleEn: 'The Hijri Calendar & Key Dates',
+    titleBn: 'হিজরি বর্ষপঞ্জি ও গুরুত্বপূর্ণ তারিখ',
+    summaryEn: 'The Islamic (Hijri) calendar is a lunar calendar of twelve months, and its year 1 was set to the Hijra — the migration to Medina in 622 CE. The dating from the Hijra was formally adopted later, during the caliphate of Umar (RA).',
+    summaryBn: 'ইসলামি (হিজরি) বর্ষপঞ্জি বারো মাসের এক চান্দ্র বর্ষপঞ্জি, এবং এর ১ম বছর নির্ধারণ করা হয় হিজরত — অর্থাৎ ৬২২ খ্রিস্টাব্দে মদিনায় হিজরত — থেকে। হিজরত থেকে গণনা আনুষ্ঠানিকভাবে পরে, উমর (রাঃ)-এর খিলাফতকালে গৃহীত হয়।',
+    pointsEn: ['The year of the Hijra (622 CE) is year 1 AH', 'The lunar year has twelve months (9:36)', 'Key dates: Badr 2 AH, Hudaybiyyah 6 AH, Conquest of Mecca 8 AH, Farewell Hajj 10 AH'],
+    pointsBn: ['হিজরতের বছর (৬২২ খ্রি.) হলো ১ম হিজরি বছর', 'চান্দ্র বছরে বারো মাস (৯:৩৬)', 'গুরুত্বপূর্ণ তারিখ: বদর ২ হি., হুদায়বিয়া ৬ হি., মক্কা বিজয় ৮ হি., বিদায় হজ ১০ হি.'],
+    verses: ['9:36', '2:189'],
+  },
+  {
+    id: 'tp_dua', emoji: '🤲',
+    titleEn: 'His Du‘a & Dhikr Life',
+    titleBn: 'তাঁর দোয়া ও যিকিরের জীবন',
+    summaryEn: 'The Prophet ﷺ was constant in supplication (du‘a) and remembrance of Allah (dhikr) throughout his day — on waking, eating, travelling, and in times of ease and hardship alike. He taught that hearts find rest in the remembrance of Allah.',
+    summaryBn: 'নবী ﷺ সারা দিন — ঘুম থেকে ওঠা, খাওয়া, সফর, স্বাচ্ছন্দ্য ও কষ্ট সব সময়েই — দোয়া ও আল্লাহর স্মরণে (যিকির) নিরত থাকতেন। তিনি শিখিয়েছেন যে আল্লাহর স্মরণে অন্তর প্রশান্তি পায়।',
+    pointsEn: ['He supplicated in every state and taught du‘as for daily life', '“In the remembrance of Allah hearts find rest” (13:28)', 'Allah is near and answers the one who calls upon Him (2:186)'],
+    pointsBn: ['তিনি সব অবস্থায় দোয়া করতেন ও দৈনন্দিন জীবনের দোয়া শেখাতেন', '"আল্লাহর স্মরণেই অন্তর প্রশান্তি পায়" (১৩:২৮)', 'আল্লাহ নিকটে আছেন এবং আহ্বানকারীর ডাকে সাড়া দেন (২:১৮৬)'],
+    verses: ['2:186', '13:28', '33:41'],
+  },
+  {
+    id: 'tp_preservation', emoji: '📖',
+    titleEn: 'Preservation of Revelation',
+    titleBn: 'ওহি সংরক্ষণ',
+    summaryEn: 'During the Prophet’s ﷺ life the Quran was both memorised by many companions and written down by scribes on available materials as it was revealed. Its full arrangement into one written volume was completed shortly after his passing (under Abu Bakr, then standardised under Uthman, RA), and Allah promises its preservation.',
+    summaryBn: 'নবী ﷺ-এর জীবদ্দশায় কুরআন একাধিক সাহাবির মুখস্থ ছিল এবং অবতীর্ণ হওয়ার সাথে সাথে লেখক-সাহাবিগণ তা সহজলভ্য উপকরণে লিখে রাখতেন। এক গ্রন্থে এর পূর্ণ সংকলন তাঁর ইন্তেকালের অল্প পরেই সম্পন্ন হয় (আবু বকর, অতঃপর উসমান (রাঃ)-এর সময়ে মানসম্মত করা হয়), এবং আল্লাহ এর সংরক্ষণের প্রতিশ্রুতি দিয়েছেন।',
+    pointsEn: ['The Quran was memorised and written down during the Prophet’s ﷺ life', 'Scribes of revelation recorded it as it came', 'Allah guarantees its preservation: “We will surely guard it” (15:9)'],
+    pointsBn: ['কুরআন নবী ﷺ-এর জীবদ্দশায় মুখস্থ ও লিখিত ছিল', 'ওহি-লেখক সাহাবিগণ অবতীর্ণ হওয়ামাত্র তা লিপিবদ্ধ করতেন', 'আল্লাহ এর সংরক্ষণের নিশ্চয়তা দিয়েছেন: "আমিই তা রক্ষা করব" (১৫:৯)'],
+    verses: ['15:9', '75:17', '85:22'],
+  },
+  {
+    id: 'tp_legacy', emoji: '📿',
+    titleEn: 'His Final Illness & Legacy',
+    titleBn: 'তাঁর শেষ অসুস্থতা ও উত্তরাধিকার',
+    summaryEn: 'In his final illness the Prophet ﷺ grew weak and asked Abu Bakr (RA) to lead the prayers. He passed away in Medina in 11 AH (632 CE) in the room of Aishah (RA). He left the Quran and his Sunnah as lasting guidance, and a community that carried his message across the world.',
+    summaryBn: 'শেষ অসুস্থতায় নবী ﷺ দুর্বল হয়ে পড়েন এবং আবু বকর (রাঃ)-কে সালাতের ইমামতির আদেশ দেন। তিনি ১১ হিজরিতে (৬৩২ খ্রি.) মদিনায় আয়েশা (রাঃ)-এর কক্ষে ইন্তেকাল করেন। তিনি রেখে যান কুরআন ও তাঁর সুন্নাহ চিরস্থায়ী পথনির্দেশ হিসেবে, এবং এমন এক সমাজ যা তাঁর বার্তা বিশ্বজুড়ে ছড়িয়ে দিয়েছে।',
+    pointsEn: ['In his last days he asked Abu Bakr (RA) to lead the prayer', 'He passed away in Medina in 11 AH (632 CE)', 'His lasting legacy is the Book of Allah and his Sunnah (5:3)'],
+    pointsBn: ['শেষ দিনগুলোতে তিনি আবু বকর (রাঃ)-কে সালাতে ইমামতির আদেশ দেন', 'তিনি ১১ হিজরিতে (৬৩২ খ্রি.) মদিনায় ইন্তেকাল করেন', 'তাঁর চিরস্থায়ী উত্তরাধিকার আল্লাহর কিতাব ও তাঁর সুন্নাহ (৫:৩)'],
+    verses: ['3:144', '39:30', '5:3'],
+  },
+];
+
+/**
+ * Key companions (Sahaba, RA) — a brief, respectful directory. Initials are
+ * rendered in a coloured badge (no figurative image).
+ */
+const SEERAH_COMPANIONS = [
+  { init: 'AB', color: 'bg-amber-500', nameEn: 'Abu Bakr as-Siddiq (RA)', nameBn: 'আবু বকর সিদ্দিক (রাঃ)',
+    descEn: 'Closest friend of the Prophet ﷺ, companion of the Hijra, and the first caliph.', descBn: 'নবী ﷺ-এর ঘনিষ্ঠতম বন্ধু, হিজরতের সঙ্গী ও প্রথম খলিফা।' },
+  { init: 'U', color: 'bg-rose-500', nameEn: 'Umar ibn al-Khattab (RA)', nameBn: 'উমর ইবনুল খাত্তাব (রাঃ)',
+    descEn: 'The second caliph, renowned for his justice; Islam expanded greatly in his time.', descBn: 'দ্বিতীয় খলিফা, ন্যায়বিচারের জন্য প্রসিদ্ধ; তাঁর সময়ে ইসলাম বহুদূর বিস্তৃত হয়।' },
+  { init: 'U', color: 'bg-emerald-500', nameEn: 'Uthman ibn Affan (RA)', nameBn: 'উসমান ইবনে আফফান (রাঃ)',
+    descEn: 'The third caliph, known for generosity; the Quran was standardised in his caliphate.', descBn: 'তৃতীয় খলিফা, দানশীলতার জন্য খ্যাত; তাঁর খিলাফতে কুরআন মানসম্মত করা হয়।' },
+  { init: 'A', color: 'bg-indigo-500', nameEn: 'Ali ibn Abi Talib (RA)', nameBn: 'আলী ইবনে আবি তালিব (রাঃ)',
+    descEn: 'Cousin and son-in-law of the Prophet ﷺ, the fourth caliph, noted for knowledge and courage.', descBn: 'নবী ﷺ-এর চাচাতো ভাই ও জামাতা, চতুর্থ খলিফা, জ্ঞান ও সাহসের জন্য খ্যাত।' },
+  { init: 'K', color: 'bg-pink-500', nameEn: 'Khadijah bint Khuwaylid (RA)', nameBn: 'খাদিজা বিনতে খুওয়াইলিদ (রাঃ)',
+    descEn: 'His first wife and the first person to believe in his message.', descBn: 'তাঁর প্রথম স্ত্রী এবং তাঁর বার্তায় বিশ্বাসকারী প্রথম ব্যক্তি।' },
+  { init: 'A', color: 'bg-fuchsia-500', nameEn: 'Aishah bint Abi Bakr (RA)', nameBn: 'আয়েশা বিনতে আবি বকর (রাঃ)',
+    descEn: 'A wife of the Prophet ﷺ and a leading scholar who transmitted much of the Sunnah.', descBn: 'নবী ﷺ-এর স্ত্রী এবং একজন প্রধান আলিমা যিনি সুন্নাহর অনেক কিছু বর্ণনা করেছেন।' },
+  { init: 'F', color: 'bg-teal-500', nameEn: 'Fatimah az-Zahra (RA)', nameBn: 'ফাতিমা আয-যাহরা (রাঃ)',
+    descEn: 'His beloved daughter and the wife of Ali (RA); among the most honoured women in Islam.', descBn: 'তাঁর প্রিয় কন্যা ও আলী (রাঃ)-এর স্ত্রী; ইসলামে সর্বাধিক সম্মানিত নারীদের একজন।' },
+  { init: 'H', color: 'bg-red-600', nameEn: 'Hamzah ibn Abd al-Muttalib (RA)', nameBn: 'হামজা ইবনে আবদুল মুত্তালিব (রাঃ)',
+    descEn: 'The Prophet’s ﷺ uncle, a brave defender of Islam, martyred at Uhud.', descBn: 'নবী ﷺ-এর চাচা, ইসলামের সাহসী রক্ষক, উহুদে শহীদ হন।' },
+  { init: 'B', color: 'bg-slate-600', nameEn: 'Bilal ibn Rabah (RA)', nameBn: 'বিলাল ইবনে রাবাহ (রাঃ)',
+    descEn: 'A freed slave who endured torture for his faith and became the first muezzin of Islam.', descBn: 'একজন মুক্ত দাস যিনি ঈমানের জন্য নির্যাতন সহ্য করেন এবং ইসলামের প্রথম মুয়াজ্জিন হন।' },
+  { init: 'K', color: 'bg-sky-600', nameEn: 'Khalid ibn al-Walid (RA)', nameBn: 'খালিদ ইবনুল ওয়ালিদ (রাঃ)',
+    descEn: 'A gifted military commander honoured as “the Sword of Allah.”', descBn: 'একজন প্রতিভাবান সেনাপতি, "আল্লাহর তরবারি" উপাধিতে ভূষিত।' },
+  { init: 'S', color: 'bg-lime-600', nameEn: 'Salman al-Farsi (RA)', nameBn: 'সালমান আল-ফারসি (রাঃ)',
+    descEn: 'A Persian companion whose advice led to the digging of the trench at Khandaq.', descBn: 'একজন পারস্য সাহাবি, যাঁর পরামর্শে খন্দকে পরিখা খনন করা হয়।' },
+  { init: 'A', color: 'bg-cyan-600', nameEn: 'Abu Hurayrah (RA)', nameBn: 'আবু হুরায়রা (রাঃ)',
+    descEn: 'A devoted companion who narrated a great number of the Prophet’s ﷺ hadith.', descBn: 'একজন নিবেদিত সাহাবি যিনি নবী ﷺ-এর অসংখ্য হাদিস বর্ণনা করেছেন।' },
+];
+
+/**
+ * Quick self-test quiz drawn from the timeline/topics. Answers are unambiguous
+ * mainstream facts. Best score is saved to localStorage (lq_seerah_quiz_best).
+ */
+const SEERAH_QUIZ = [
+  { qEn: 'In which year (CE) was the Prophet ﷺ born, the Year of the Elephant?', qBn: 'হস্তীবর্ষে নবী ﷺ কোন সালে (খ্রি.) জন্মগ্রহণ করেন?',
+    optsEn: ['c. 570 CE', 'c. 610 CE', '622 CE', '632 CE'], optsBn: ['আনু. ৫৭০ খ্রি.', 'আনু. ৬১০ খ্রি.', '৬২২ খ্রি.', '৬৩২ খ্রি.'], correct: 0 },
+  { qEn: 'At what age did he ﷺ receive the first revelation?', qBn: 'কত বছর বয়সে তিনি ﷺ প্রথম ওহি লাভ করেন?',
+    optsEn: ['40', '25', '30', '50'], optsBn: ['৪০', '২৫', '৩০', '৫০'], correct: 0 },
+  { qEn: 'Where did the first revelation come to him ﷺ?', qBn: 'তাঁর ﷺ কাছে প্রথম ওহি কোথায় আসে?',
+    optsEn: ['Cave of Hira', 'Cave of Thawr', 'Mount Uhud', "The Prophet's Mosque"], optsBn: ['হেরা গুহা', 'সাওর গুহা', 'উহুদ পাহাড়', 'মসজিদে নববী'], correct: 0 },
+  { qEn: 'The Hijra to Medina marks which year of the Islamic calendar?', qBn: 'মদিনায় হিজরত ইসলামি বর্ষপঞ্জির কোন বছরকে চিহ্নিত করে?',
+    optsEn: ['1 AH', '2 AH', '10 AH', '11 AH'], optsBn: ['১ হিজরি', '২ হিজরি', '১০ হিজরি', '১১ হিজরি'], correct: 0 },
+  { qEn: 'Which battle took place in 2 AH?', qBn: '২ হিজরিতে কোন যুদ্ধ সংঘটিত হয়?',
+    optsEn: ['Badr', 'Uhud', 'The Trench', 'Tabuk'], optsBn: ['বদর', 'উহুদ', 'খন্দক', 'তাবুক'], correct: 0 },
+  { qEn: 'Approximately how many Muslims fought at Badr?', qBn: 'বদরে আনুমানিক কতজন মুসলিম যুদ্ধ করেন?',
+    optsEn: ['~313', '~1,000', '~3,000', '~10,000'], optsBn: ['~৩১৩', '~১,০০০', '~৩,০০০', '~১০,০০০'], correct: 0 },
+  { qEn: 'In which year was the Conquest of Mecca?', qBn: 'মক্কা বিজয় কোন বছরে হয়?',
+    optsEn: ['8 AH', '5 AH', '6 AH', '11 AH'], optsBn: ['৮ হিজরি', '৫ হিজরি', '৬ হিজরি', '১১ হিজরি'], correct: 0 },
+  { qEn: 'In which city did the Prophet ﷺ pass away?', qBn: 'নবী ﷺ কোন শহরে ইন্তেকাল করেন?',
+    optsEn: ['Medina', 'Mecca', "Ta'if", 'Jerusalem'], optsBn: ['মদিনা', 'মক্কা', 'তায়েফ', 'জেরুজালেম'], correct: 0 },
 ];
 
 /**
@@ -611,9 +746,18 @@ const SEERAH_UI = {
   seerah_bt_verses: { en: 'Related verses', bn: 'সম্পর্কিত আয়াত' },
   seerah_view_timeline: { en: 'Timeline', bn: 'টাইমলাইন' },
   seerah_view_topics: { en: 'Topics', bn: 'বিষয়সমূহ' },
+  seerah_view_quiz: { en: 'Quiz', bn: 'কুইজ' },
   seerah_topics_title: { en: 'Major Topics', bn: 'প্রধান বিষয়সমূহ' },
   seerah_topics_intro: { en: "Explore key themes from the life and teachings of the Prophet ﷺ. Tap any topic to expand.", bn: 'নবী ﷺ-এর জীবন ও শিক্ষার গুরুত্বপূর্ণ বিষয়গুলো ঘুরে দেখুন। বিস্তারিত দেখতে যেকোনো বিষয়ে ট্যাপ করুন।' },
   seerah_key_points: { en: 'Key points', bn: 'মূল বিষয়' },
+  seerah_companions_title: { en: 'Key Companions', bn: 'উল্লেখযোগ্য সাহাবিগণ' },
+  seerah_quiz_title: { en: 'Test Your Knowledge', bn: 'আপনার জ্ঞান যাচাই করুন' },
+  seerah_quiz_intro: { en: 'Answer the questions, then check your score.', bn: 'প্রশ্নগুলোর উত্তর দিন, অতঃপর আপনার স্কোর দেখুন।' },
+  seerah_quiz_submit: { en: 'Check answers', bn: 'উত্তর যাচাই করুন' },
+  seerah_quiz_retake: { en: 'Try again', bn: 'আবার চেষ্টা করুন' },
+  seerah_quiz_score: { en: 'Your score', bn: 'আপনার স্কোর' },
+  seerah_quiz_best: { en: 'Best', bn: 'সেরা' },
+  seerah_quiz_hint: { en: 'Answer all questions to check your score.', bn: 'স্কোর দেখতে সব প্রশ্নের উত্তর দিন।' },
 };
 
 class SeerahView {
@@ -628,6 +772,10 @@ class SeerahView {
     this.query = '';
     this.expanded = new Set();
     this.read = this.loadRead();
+    this.quizAnswers = {};
+    this.quizSubmitted = false;
+    this.quizScore = 0;
+    this.quizBest = this.loadQuizBest();
 
     window.addEventListener('tabChanged', (e) => {
       try { if (e && e.detail && e.detail.tabId === 'seerah') this.render(); } catch (_) { /* ignore */ }
@@ -666,6 +814,13 @@ class SeerahView {
   }
   saveRead() {
     try { localStorage.setItem('lq_seerah_read', JSON.stringify([...this.read])); } catch (_) { /* ignore */ }
+  }
+
+  loadQuizBest() {
+    try { const n = parseInt(localStorage.getItem('lq_seerah_quiz_best'), 10); return isNaN(n) ? 0 : n; } catch (_) { return 0; }
+  }
+  saveQuizBest() {
+    try { localStorage.setItem('lq_seerah_quiz_best', String(this.quizBest)); } catch (_) { /* ignore */ }
   }
 
   matches(ev) {
@@ -710,6 +865,7 @@ class SeerahView {
         <div class="inline-flex gap-1 p-1 rounded-xl bg-gray-100 dark:bg-gray-800">
           ${vbtn('timeline', SEERAH_TIMELINE_ICON, this.tt('seerah_view_timeline'))}
           ${vbtn('topics', SEERAH_TOPICS_ICON, this.tt('seerah_view_topics'))}
+          ${vbtn('quiz', SEERAH_QUIZ_ICON, this.tt('seerah_view_quiz'))}
         </div>
       </div>`;
 
@@ -746,23 +902,119 @@ class SeerahView {
       <div class="text-center mb-4">
         <p class="text-xs text-gray-400 dark:text-gray-500" dir="auto">${this.esc(this.tt('seerah_topics_intro'))}</p>
       </div>
-      <div class="space-y-3 mb-8">
+      <div class="space-y-3 mb-6">
         ${SEERAH_TOPICS.map(tp => this.topicCardHtml(tp)).join('')}
-      </div>`;
+      </div>
+      ${this.companionsHtml()}`;
+
+    const subtitleLine = this.view === 'topics'
+      ? this.tt('seerah_topics_title')
+      : (this.view === 'quiz' ? this.tt('seerah_quiz_title') : this.tt('seerah_intro'));
+
+    let body = timelineBody;
+    if (this.view === 'topics') body = topicsBody;
+    else if (this.view === 'quiz') body = this.quizHtml();
 
     this.container.innerHTML = `
       <div class="w-full max-w-3xl mx-auto">
         <div class="text-center mb-3">
           <h2 class="text-xl sm:text-2xl font-bold text-gray-800 dark:text-gray-100">🌙 ${this.esc(this.tt('seerah_title'))}</h2>
           <p class="text-gray-500 dark:text-gray-400 text-sm mt-1">${this.esc(this.tt('seerah_subtitle'))}</p>
-          <p class="text-xs text-gray-400 dark:text-gray-500 mt-2" dir="auto">${this.esc(this.view === 'topics' ? this.tt('seerah_topics_title') : this.tt('seerah_intro'))}</p>
+          <p class="text-xs text-gray-400 dark:text-gray-500 mt-2" dir="auto">${this.esc(subtitleLine)}</p>
         </div>
         ${toggle}
-        ${this.view === 'topics' ? topicsBody : timelineBody}
+        ${body}
       </div>`;
 
-    if (this.view !== 'topics') this.renderList();
+    if (this.view === 'timeline') this.renderList();
     this.bind();
+  }
+
+  companionsHtml() {
+    return `
+      <section class="mb-8">
+        <h3 class="flex items-center gap-2 text-base font-bold text-gray-700 dark:text-gray-200 mb-3">
+          <span class="text-primary" aria-hidden="true">🤝</span><span>${this.esc(this.tt('seerah_companions_title'))}</span>
+        </h3>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+          ${SEERAH_COMPANIONS.map(c => `
+            <div class="flex gap-3 items-start p-3 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
+              <span class="shrink-0 w-9 h-9 rounded-full ${c.color} text-white text-xs font-bold flex items-center justify-center" aria-hidden="true">${this.esc(c.init)}</span>
+              <span class="flex-1 min-w-0">
+                <span class="block font-semibold text-sm text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.pick(c, 'name'))}</span>
+                <span class="block text-xs text-gray-500 dark:text-gray-400 leading-relaxed mt-0.5" dir="auto">${this.esc(this.pick(c, 'desc'))}</span>
+              </span>
+            </div>`).join('')}
+        </div>
+      </section>`;
+  }
+
+  quizHtml() {
+    const lang = this.language;
+    const submitted = this.quizSubmitted;
+    const total = SEERAH_QUIZ.length;
+    let score = 0;
+    const answeredAll = SEERAH_QUIZ.every((_, qi) => this.quizAnswers[qi] != null);
+
+    const questions = SEERAH_QUIZ.map((q, qi) => {
+      const sel = this.quizAnswers[qi];
+      const opts = (lang === 'bn' ? (q.optsBn || q.optsEn) : q.optsEn) || [];
+      if (submitted && sel === q.correct) score++;
+      const optHtml = opts.map((o, oi) => {
+        const chosen = sel === oi;
+        let cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-200 hover:border-primary';
+        let mark = '';
+        if (submitted) {
+          if (oi === q.correct) { cls = 'bg-green-50 dark:bg-green-900/20 border-green-400 dark:border-green-700 text-green-700 dark:text-green-300'; mark = ' ✓'; }
+          else if (chosen) { cls = 'bg-red-50 dark:bg-red-900/20 border-red-400 dark:border-red-700 text-red-700 dark:text-red-300'; mark = ' ✗'; }
+          else { cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-400 dark:text-gray-500'; }
+        } else if (chosen) {
+          cls = 'bg-primary/10 border-primary text-primary';
+        }
+        return `<button type="button" ${submitted ? 'disabled' : ''} data-seerah-quiz-opt="${qi}:${oi}"
+          class="w-full text-left px-3 py-2 rounded-lg border text-sm transition-colors ${cls}" dir="auto">${this.esc(o)}${mark}</button>`;
+      }).join('');
+      return `
+        <div class="p-3 rounded-xl bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700">
+          <p class="font-semibold text-sm text-gray-800 dark:text-gray-100 mb-2" dir="auto">${qi + 1}. ${this.esc(lang === 'bn' ? (q.qBn || q.qEn) : q.qEn)}</p>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">${optHtml}</div>
+        </div>`;
+    }).join('');
+
+    const footer = submitted
+      ? `<div class="text-center mt-4 mb-8">
+           <div class="inline-flex flex-col items-center gap-1 px-6 py-4 rounded-xl bg-primary/10">
+             <span class="text-sm text-gray-500 dark:text-gray-400">${this.esc(this.tt('seerah_quiz_score'))}</span>
+             <span class="text-3xl font-bold text-primary">${score} / ${total}</span>
+             <span class="text-xs text-gray-500 dark:text-gray-400">${this.esc(this.tt('seerah_quiz_best'))}: ${Math.max(this.quizBest, score)} / ${total}</span>
+           </div>
+           <div class="mt-3">
+             <button type="button" data-seerah-quiz-reset
+               class="px-4 py-2 rounded-lg bg-primary text-white text-sm font-medium hover:opacity-90">${this.esc(this.tt('seerah_quiz_retake'))}</button>
+           </div>
+         </div>`
+      : `<div class="text-center mt-4 mb-8">
+           <button type="button" data-seerah-quiz-submit ${answeredAll ? '' : 'disabled'}
+             class="px-5 py-2 rounded-lg text-sm font-medium transition-colors ${answeredAll ? 'bg-primary text-white hover:opacity-90' : 'bg-gray-200 dark:bg-gray-700 text-gray-400 dark:text-gray-500 cursor-not-allowed'}">${this.esc(this.tt('seerah_quiz_submit'))}</button>
+           ${answeredAll ? '' : `<p class="text-xs text-gray-400 dark:text-gray-500 mt-2">${this.esc(this.tt('seerah_quiz_hint'))}</p>`}
+         </div>`;
+
+    return `
+      <div class="text-center mb-4">
+        <p class="text-xs text-gray-400 dark:text-gray-500" dir="auto">${this.esc(this.tt('seerah_quiz_intro'))}
+          <span class="ml-1">· ${this.esc(this.tt('seerah_quiz_best'))}: ${this.quizBest} / ${total}</span></p>
+      </div>
+      <div class="space-y-3">${questions}</div>
+      ${footer}`;
+  }
+
+  submitQuiz() {
+    let score = 0;
+    SEERAH_QUIZ.forEach((q, qi) => { if (this.quizAnswers[qi] === q.correct) score++; });
+    this.quizScore = score;
+    if (score > this.quizBest) { this.quizBest = score; this.saveQuizBest(); }
+    this.quizSubmitted = true;
+    this.render();
   }
 
   topicCardHtml(tp) {
@@ -1085,6 +1337,18 @@ class SeerahView {
 
         const reset = e.target.closest('[data-seerah-reset]');
         if (reset) { this.resetProgress(); return; }
+
+        const qopt = e.target.closest('[data-seerah-quiz-opt]');
+        if (qopt && !this.quizSubmitted) {
+          const parts = String(qopt.getAttribute('data-seerah-quiz-opt')).split(':');
+          const qi = parseInt(parts[0], 10), oi = parseInt(parts[1], 10);
+          if (!isNaN(qi) && !isNaN(oi)) { this.quizAnswers[qi] = oi; this.render(); }
+          return;
+        }
+        const qsub = e.target.closest('[data-seerah-quiz-submit]');
+        if (qsub) { this.submitQuiz(); return; }
+        const qreset = e.target.closest('[data-seerah-quiz-reset]');
+        if (qreset) { this.quizAnswers = {}; this.quizSubmitted = false; this.quizScore = 0; this.render(); return; }
       } catch (_) { /* ignore */ }
     });
 

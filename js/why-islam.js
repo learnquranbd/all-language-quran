@@ -46,6 +46,18 @@ const WHY_ISLAM_I18N = {
     en: 'This is an informational explanation, offered gently and without any pressure. In Islam, becoming a Muslim is a free and personal choice (Quran 2:256 — "There shall be no compulsion in religion"). Take your time to learn and reflect.',
     bn: 'এটি একটি তথ্যমূলক ব্যাখ্যা, কোমলভাবে ও কোনো চাপ ছাড়াই উপস্থাপিত। ইসলামে মুসলিম হওয়া একটি স্বাধীন ও ব্যক্তিগত সিদ্ধান্ত (কুরআন ২:২৫৬—"দ্বীনের ব্যাপারে কোনো জবরদস্তি নেই")। শেখা ও চিন্তার জন্য সময় নিন।',
   },
+  whyislam_objections_note: {
+    en: 'Each objection is stated fairly first, then answered. The aim is to engage the arguments honestly — never to disparage anyone who holds them.',
+    bn: 'প্রতিটি আপত্তি প্রথমে ন্যায্যভাবে উপস্থাপন করা হয়েছে, তারপর উত্তর দেওয়া হয়েছে। উদ্দেশ্য যুক্তির সাথে সৎ সংলাপ—যাঁরা এই আপত্তি রাখেন তাঁদের কাউকে ছোট করা নয়।',
+  },
+  whyislam_comparative_note: {
+    en: 'This compares ideas and concepts of God — describing what Islam affirms and why. It is offered with respect for other faith communities and is not a criticism of any people.',
+    bn: 'এটি ধারণা ও ঈশ্বর-কল্পনার তুলনা করে—ইসলাম কী নিশ্চিত করে ও কেন, তা বর্ণনা করে। এটি অন্যান্য ধর্মসম্প্রদায়ের প্রতি শ্রদ্ধা রেখে উপস্থাপিত, কোনো মানুষের সমালোচনা নয়।',
+  },
+  whyislam_dialogue_note: {
+    en: 'Guidance on inviting others with wisdom, gentleness and respect — and without any compulsion.',
+    bn: 'প্রজ্ঞা, কোমলতা ও শ্রদ্ধার সাথে—এবং কোনো জবরদস্তি ছাড়াই—অন্যকে আমন্ত্রণ জানানোর নির্দেশনা।',
+  },
 };
 
 const WHY_ISLAM_DATA = [
@@ -579,6 +591,151 @@ const WHY_ISLAM_DATA = [
     ],
   },
   {
+    id: 'objections',
+    emoji: '🧩',
+    kind: 'qa',
+    noteKey: 'whyislam_objections_note',
+    qaLabel: { en: 'Objection', bn: 'আপত্তি' },
+    title: { en: 'Common Objections & Responses', bn: 'সাধারণ আপত্তি ও জবাব' },
+    summary: {
+      en: 'Sincere objections stated fairly, then answered with the classical, reasoned Islamic response.',
+      bn: 'আন্তরিক আপত্তি ন্যায্যভাবে উপস্থাপন, তারপর ধ্রুপদী ও যুক্তিসংগত ইসলামি জবাব।',
+    },
+    qa: [
+      {
+        q: { en: 'Isn’t the Quran just a product of its time and culture?', bn: 'কুরআন কি নিছক তার যুগ ও সংস্কৃতির ফসল নয়?' },
+        a: {
+          en: 'The objection: the Quran arose in seventh-century Arabia, speaks Arabic, and addresses that society’s concerns, so perhaps it merely reflects its human setting. Response: any message must reach a people in their own language and context — "We did not send any messenger except in the language of his people, to make things clear to them" (Quran 14:4). Speaking within a context is what communication requires; it does not by itself show human authorship. What is notable is that the Quran also challenges its own society (for example condemning female infanticide and tribal pride) and states universal principles and claims — its preservation and open literary challenge — whose force is not tied to that culture. The cultural clothing of a message does not settle the truth of its content; the real question is whether its origin is best explained by its milieu alone, and Muslims argue it is not.',
+          bn: 'আপত্তি: কুরআন সপ্তম শতকের আরবে উদ্ভূত, আরবিতে কথা বলে এবং সেই সমাজের বিষয়াদি নিয়ে আলোচনা করে, তাই হয়তো তা কেবল তার মানবিক পরিবেশেরই প্রতিফলন। জবাব: যেকোনো বার্তা মানুষের কাছে তাদের নিজ ভাষা ও প্রেক্ষাপটে পৌঁছাতে হয়—"আমি প্রত্যেক রাসুলকে তার সম্প্রদায়ের ভাষাতেই পাঠিয়েছি, যাতে সে তাদের কাছে স্পষ্ট করে দেয়" (কুরআন ১৪:৪)। প্রেক্ষাপটে কথা বলা যোগাযোগের শর্ত; এটি একাই মানবিক রচনা প্রমাণ করে না। লক্ষণীয় যে কুরআন তার নিজ সমাজকেও চ্যালেঞ্জ করে (যেমন কন্যাশিশু হত্যা ও গোত্রীয় অহংকারের নিন্দা) এবং সর্বজনীন নীতি ও দাবি—এর সংরক্ষণ ও উন্মুক্ত সাহিত্যিক চ্যালেঞ্জ—উপস্থাপন করে, যেগুলোর জোর সেই সংস্কৃতির সাথে বাঁধা নয়। বার্তার সাংস্কৃতিক আবরণ তার বিষয়বস্তুর সত্যতা নির্ধারণ করে না; আসল প্রশ্ন হলো এর উৎস কেবল তার পরিবেশ দিয়েই সবচেয়ে ভালোভাবে ব্যাখ্যা করা যায় কি না, আর মুসলিমরা যুক্তি দেয় যে যায় না।',
+        },
+      },
+      {
+        q: { en: 'How do we know the Quran wasn’t changed over time?', bn: 'আমরা কীভাবে জানি কুরআন সময়ের সাথে বদলে যায়নি?' },
+        a: {
+          en: 'The objection: old texts often get altered, so how can today’s Quran match the original? Response: the Quran was transmitted in two mutually reinforcing ways — mass memorisation by very large numbers in every generation, and a written text standardised early in the community. These two streams constantly check one another: a copyist’s slip is caught by the memorisers, and a memory lapse by the manuscripts. Early surviving manuscripts correspond closely to the text recited today, and the recited Quran is remarkably uniform across the world, which anyone can verify. For Muslims this fulfils the promise, "Indeed, it is We who sent down the Reminder, and indeed, We will be its guardian" (Quran 15:9). The claim is offered as something open to examination rather than mere assertion.',
+          bn: 'আপত্তি: পুরনো টেক্সট প্রায়ই পরিবর্তিত হয়, তাহলে আজকের কুরআন মূলের সাথে মিলে কীভাবে নিশ্চিত হব? জবাব: কুরআন দুইটি পরস্পর-দৃঢ়কারী উপায়ে হস্তান্তরিত হয়েছে—প্রতি প্রজন্মে বিপুলসংখ্যক মানুষের মুখস্থকরণ, এবং সম্প্রদায়ে প্রথম দিকেই প্রমিতকৃত লিখিত টেক্সট। এই দুই ধারা সদা একে অপরকে যাচাই করে: লেখকের ভুল ধরা পড়ে মুখস্থকারীদের কাছে, আর স্মৃতির ত্রুটি ধরা পড়ে পাণ্ডুলিপিতে। টিকে থাকা প্রাচীন পাণ্ডুলিপি আজ পঠিত টেক্সটের সাথে ঘনিষ্ঠভাবে মেলে, এবং পঠিত কুরআন বিশ্বজুড়ে বিস্ময়করভাবে অভিন্ন—যা যে কেউ যাচাই করতে পারে। মুসলিমদের কাছে এটি সেই প্রতিশ্রুতির পূরণ, "নিশ্চয়ই আমিই এই উপদেশ অবতীর্ণ করেছি এবং আমিই এর সংরক্ষক" (কুরআন ১৫:৯)। এই দাবি নিছক কথা নয়, বরং যাচাইযোগ্য কিছু হিসেবে উপস্থাপিত।',
+        },
+      },
+      {
+        q: { en: 'Why should revelation be needed at all — isn’t reason enough?', bn: 'ওহির প্রয়োজন কেন—যুক্তিই কি যথেষ্ট নয়?' },
+        a: {
+          en: 'The objection: if God gave us reason, why send prophets and scripture? Response: Islam values reason highly and builds much of its case on it — but it holds that reason has limits. Reason can point toward a Creator and broad moral principles, yet thoughtful people reasonably disagree about the specifics of life’s purpose, how to relate to God, and matters of the unseen such as the afterlife. Revelation is understood not as a replacement for reason but as its complement: reliable guidance on what reason alone cannot settle, and confirmation of what it can. Just as sound judgement still benefits from trustworthy expert knowledge, revelation offers an anchor against human bias and uncertainty. Reason and revelation are presented as partners, not rivals.',
+          bn: 'আপত্তি: আল্লাহ যদি আমাদের যুক্তি দিয়েছেন, তবে নবী ও কিতাব পাঠানোর দরকার কী? জবাব: ইসলাম যুক্তিকে অত্যন্ত মূল্য দেয় এবং তার অনেক যুক্তি এর উপরই গড়ে—তবে এটি মনে করে যুক্তির সীমা আছে। যুক্তি এক স্রষ্টা ও ব্যাপক নৈতিক নীতির দিকে ইঙ্গিত করতে পারে, তবু চিন্তাশীল মানুষও জীবনের উদ্দেশ্য, আল্লাহর সাথে সম্পর্ক এবং পরকালের মতো অদৃশ্য বিষয়ের বিশদ নিয়ে যুক্তিসংগতভাবেই দ্বিমত করে। ওহিকে বোঝা হয় যুক্তির বিকল্প নয়, বরং পরিপূরক হিসেবে: যা যুক্তি একা নিষ্পত্তি করতে পারে না তার নির্ভরযোগ্য দিকনির্দেশ, আর যা পারে তার নিশ্চিতকরণ। যেমন সুবিবেচনাও নির্ভরযোগ্য বিশেষজ্ঞ জ্ঞানে উপকৃত হয়, তেমনি ওহি মানবিক পক্ষপাত ও অনিশ্চয়তার বিরুদ্ধে এক অবলম্বন দেয়। যুক্তি ও ওহিকে উপস্থাপন করা হয় সহযোগী হিসেবে, প্রতিদ্বন্দ্বী হিসেবে নয়।',
+        },
+      },
+      {
+        q: { en: 'Isn’t morality possible without religion?', bn: 'ধর্ম ছাড়া কি নৈতিকতা সম্ভব নয়?' },
+        a: {
+          en: 'The objection: many non-religious people are clearly good, so ethics does not require God. Response: Islam fully agrees that people can behave morally without professing a religion — indeed it teaches that the moral sense (fitrah) is God-given and shared by all humans. The classical argument was never "unbelievers cannot be good." It concerns something deeper: the ultimate grounding of moral obligation — what makes justice truly binding and cruelty truly wrong, beyond personal taste or social convention. Islam holds that objective moral facts are best explained and secured if they rest on a wise, just Creator who is their source. So the real question is not who is capable of acting morally, but what best accounts for morality’s authority.',
+          bn: 'আপত্তি: বহু ধর্মহীন মানুষ স্পষ্টতই ভালো, তাই নৈতিকতার জন্য আল্লাহর প্রয়োজন নেই। জবাব: ইসলাম পুরোপুরি একমত যে মানুষ কোনো ধর্ম প্রকাশ না করেও নৈতিক আচরণ করতে পারে—বরং এটি শেখায় যে নৈতিক বোধ (ফিতরাহ) আল্লাহ-প্রদত্ত এবং সব মানুষের মাঝে অভিন্ন। ধ্রুপদী যুক্তি কখনোই "অবিশ্বাসীরা ভালো হতে পারে না" ছিল না। এটি আরও গভীর কিছু নিয়ে: নৈতিক দায়বদ্ধতার চূড়ান্ত ভিত্তি—ব্যক্তিগত রুচি বা সামাজিক প্রথার ঊর্ধ্বে ন্যায়কে প্রকৃতপক্ষে বাধ্যতামূলক ও নিষ্ঠুরতাকে প্রকৃতপক্ষে মন্দ কী করে তোলে। ইসলামের অভিমত, বস্তুনিষ্ঠ নৈতিক সত্য সবচেয়ে ভালোভাবে ব্যাখ্যা ও সুরক্ষিত হয় যদি তা এক প্রজ্ঞাময়, ন্যায়বান স্রষ্টায় প্রোথিত থাকে, যিনি এদের উৎস। তাই আসল প্রশ্ন কে নৈতিক আচরণে সক্ষম নয়, বরং নৈতিকতার কর্তৃত্ব কী দিয়ে সবচেয়ে ভালোভাবে ব্যাখ্যা হয়।',
+        },
+      },
+      {
+        q: { en: 'What about the contradictions people claim to find?', bn: 'মানুষ যেসব অসঙ্গতির দাবি করে, সেগুলোর কী?' },
+        a: {
+          en: 'The objection: critics point to verses that appear to conflict. Response: Muslim scholarship has engaged apparent tensions for centuries with careful tools — the surrounding context, the precise Arabic, the circumstances of revelation, and the way general and specific statements relate. Many claimed contradictions dissolve once a verse is read in its full context rather than in isolation. The Quran itself welcomes this scrutiny: "Then do they not reflect upon the Quran? If it had been from other than Allah, they would have found within it much contradiction" (Quran 4:82). This is offered as an invitation to study carefully — ideally with qualified scholars — not as a claim that every reader will instantly resolve every verse unaided.',
+          bn: 'আপত্তি: সমালোচকরা এমন আয়াতের দিকে ইঙ্গিত করে যেগুলো সাংঘর্ষিক মনে হয়। জবাব: মুসলিম পণ্ডিতগণ শতাব্দীজুড়ে আপাত টানাপোড়েনকে যত্নশীল উপায়ে বিশ্লেষণ করেছেন—পারিপার্শ্বিক প্রেক্ষাপট, নির্ভুল আরবি, অবতরণের প্রেক্ষাপট, এবং সাধারণ ও নির্দিষ্ট বক্তব্যের পারস্পরিক সম্পর্ক। বিচ্ছিন্নভাবে না পড়ে পূর্ণ প্রেক্ষাপটে পড়লে দাবিকৃত অনেক অসঙ্গতি মিলিয়ে যায়। কুরআন নিজেই এই যাচাইকে স্বাগত জানায়: "তবে কি তারা কুরআন নিয়ে চিন্তা করে না? যদি তা আল্লাহ ছাড়া অন্য কারও কাছ থেকে হতো, তবে তারা এতে অনেক অসঙ্গতি পেত" (কুরআন ৪:৮২)। এটি যত্নসহ অধ্যয়নের—বিশেষত যোগ্য আলিমদের সাথে—আমন্ত্রণ হিসেবে উপস্থাপিত, প্রতিটি পাঠক সহায়তা ছাড়াই তাৎক্ষণিকভাবে প্রতিটি আয়াত সমাধান করবে এমন দাবি হিসেবে নয়।',
+        },
+      },
+      {
+        q: { en: 'Why is Islam’s view of God more coherent than the alternatives?', bn: 'বিকল্পগুলোর চেয়ে ইসলামের ঈশ্বর-ধারণা কেন বেশি সুসংগত?' },
+        a: {
+          en: 'The objection: every religion claims its concept of God is best. Response: Islam offers this as its reasoned case, not as a slight against others. Its concept of God is pure, undivided oneness (tawhid): one eternal Being, unlike creation, not composed of parts, not incarnate, worshipped directly without any intermediary — "There is nothing like unto Him" (Quran 42:11), summarised in Surah al-Ikhlas (Quran 112). Islam argues this is maximally simple and free of internal tension, keeping the Absolute unlimited and non-composite, and it holds transcendence and mercy together. It also reasons that a single ultimate source best explains the unified order of the universe (Quran 21:22). Muslims present this coherence for others to weigh, while honouring the sincerity of those who see God differently.',
+          bn: 'আপত্তি: প্রতিটি ধর্মই দাবি করে তার ঈশ্বর-ধারণা শ্রেষ্ঠ। জবাব: ইসলাম এটি তার যুক্তিসংগত অবস্থান হিসেবে উপস্থাপন করে, অন্যদের প্রতি অবজ্ঞা হিসেবে নয়। এর ঈশ্বর-ধারণা বিশুদ্ধ, অবিভক্ত একত্ব (তাওহিদ): এক অনাদি সত্তা, সৃষ্টির অসদৃশ, অংশে গঠিত নন, দেহধারী নন, কোনো মধ্যস্থতাকারী ছাড়াই সরাসরি ইবাদিত—"তাঁর সদৃশ কিছুই নেই" (কুরআন ৪২:১১), যার সারকথা সুরা আল-ইখলাসে (কুরআন ১১২)। ইসলাম যুক্তি দেয় যে এটি সর্বাধিক সরল ও অভ্যন্তরীণ টানাপোড়েনমুক্ত, পরম সত্তাকে অসীম ও অ-যৌগিক রাখে, এবং অতিক্রান্ততা ও দয়াকে একসাথে ধরে। এটি আরও যুক্তি দেয় যে এক চূড়ান্ত উৎসই বিশ্বজগতের অভিন্ন শৃঙ্খলা সবচেয়ে ভালোভাবে ব্যাখ্যা করে (কুরআন ২১:২২)। মুসলিমরা এই সংগতি অন্যদের বিবেচনার জন্য উপস্থাপন করে, একই সাথে যাঁরা ঈশ্বরকে ভিন্নভাবে দেখেন তাঁদের আন্তরিকতাকে সম্মান করে।',
+        },
+      },
+    ],
+  },
+  {
+    id: 'comparative',
+    emoji: '🪟',
+    kind: 'article',
+    noteKey: 'whyislam_comparative_note',
+    title: { en: 'Comparative Theology (respectful)', bn: 'তুলনামূলক ধর্মতত্ত্ব (শ্রদ্ধাপূর্ণ)' },
+    summary: {
+      en: 'What Islam affirms about God, prophets and scripture — and its reasoning — set beside broad alternatives, respectfully.',
+      bn: 'ঈশ্বর, নবী ও কিতাব সম্পর্কে ইসলাম কী নিশ্চিত করে—এবং কেন—তা ব্যাপক বিকল্পের পাশে শ্রদ্ধার সাথে উপস্থাপন।',
+    },
+    points: [
+      {
+        heading: { en: 'The nature of God', bn: 'ঈশ্বরের স্বরূপ' },
+        body: {
+          en: 'Islam affirms strict oneness: God is one, without partner, parts or incarnation, and is worshipped directly with no intermediary. Its reasoning is that this preserves God’s uniqueness and transcendence most fully — "There is nothing like unto Him" (Quran 42:11). Many traditions share belief in a single God, which Islam recognises as valuable common ground; its distinctive emphasis is that oneness remains completely undivided and that devotion is offered to God alone.',
+          bn: 'ইসলাম কঠোর একত্ব নিশ্চিত করে: আল্লাহ এক, অংশীদার-অংশ-দেহধারণহীন, এবং কোনো মধ্যস্থতাকারী ছাড়াই সরাসরি ইবাদিত। এর যুক্তি হলো এটি আল্লাহর অনন্যতা ও অতিক্রান্ততাকে সবচেয়ে পূর্ণভাবে সংরক্ষণ করে—"তাঁর সদৃশ কিছুই নেই" (কুরআন ৪২:১১)। বহু ঐতিহ্য এক ঈশ্বরে বিশ্বাস ভাগ করে নেয়, যাকে ইসলাম মূল্যবান অভিন্ন ভিত্তি হিসেবে স্বীকার করে; এর স্বতন্ত্র জোর হলো একত্ব সম্পূর্ণ অবিভক্ত থাকে এবং ইবাদত কেবল আল্লাহকেই নিবেদিত হয়।',
+        },
+      },
+      {
+        heading: { en: 'The line of prophets', bn: 'নবীদের ধারা' },
+        body: {
+          en: 'Islam affirms a single, continuous chain of prophets carrying one essential message, and it honours figures also revered in Jewish and Christian tradition — Abraham, Moses and Jesus (peace be upon them). Its reasoning is that this unifies human religious history under one purpose and presents Islam as a continuation and completion rather than a break. On this basis the Quran invites shared principles: "Come to a word that is equitable between us and you" (Quran 3:64).',
+          bn: 'ইসলাম নবীদের এক অভিন্ন, অবিচ্ছিন্ন ধারা নিশ্চিত করে যা এক মূল বার্তা বহন করে, এবং ইহুদি ও খ্রিস্টান ঐতিহ্যেও শ্রদ্ধেয় ব্যক্তিত্ব—ইব্রাহিম, মূসা ও ঈসা (তাঁদের প্রতি শান্তি)—কে সম্মান করে। এর যুক্তি হলো এটি মানব ধর্ম-ইতিহাসকে এক উদ্দেশ্যে ঐক্যবদ্ধ করে এবং ইসলামকে বিচ্ছেদ নয়, বরং ধারাবাহিকতা ও পূর্ণতা হিসেবে উপস্থাপন করে। এই ভিত্তিতে কুরআন অভিন্ন নীতির আমন্ত্রণ জানায়: "এসো এমন এক কথায় যা আমাদের ও তোমাদের মধ্যে অভিন্ন" (কুরআন ৩:৬৪)।',
+        },
+      },
+      {
+        heading: { en: 'Scripture and revelation', bn: 'কিতাব ও ওহি' },
+        body: {
+          en: 'Islam affirms that God sent guidance repeatedly through history and that the Quran is the final, preserved reference which confirms the truth of what came before it — "confirming that which preceded it and as a criterion over it" (Quran 5:48). Its reasoning is that this accounts for both continuity with earlier faith and the value of a safeguarded final standard that later generations can rely upon directly.',
+          bn: 'ইসলাম নিশ্চিত করে যে আল্লাহ ইতিহাসজুড়ে বারবার হিদায়াত পাঠিয়েছেন এবং কুরআন হলো চূড়ান্ত, সংরক্ষিত মানদণ্ড যা তার পূর্ববর্তী সত্যকে নিশ্চিত করে—"পূর্ববর্তী কিতাবের সত্যায়নকারী ও তার উপর তত্ত্বাবধায়ক" (কুরআন ৫:৪৮)। এর যুক্তি হলো এটি পূর্ববর্তী বিশ্বাসের সাথে ধারাবাহিকতা এবং এমন এক সুরক্ষিত চূড়ান্ত মানদণ্ডের মূল্য—উভয়েরই ব্যাখ্যা দেয়, যার উপর পরবর্তী প্রজন্ম সরাসরি নির্ভর করতে পারে।',
+        },
+      },
+      {
+        heading: { en: 'Relationship with God and accountability', bn: 'আল্লাহর সাথে সম্পর্ক ও জবাবদিহিতা' },
+        body: {
+          en: 'Islam affirms direct accountability to a merciful God: each person is answerable for their own deeds, no one bears inherited guilt, and forgiveness is sought directly through sincere repentance without any required intermediary. Its reasoning is that this keeps both personal responsibility and God’s accessibility fully intact. This is described here as Islam’s own reasoned position, stated factually and without disparaging how others understand these matters.',
+          bn: 'ইসলাম এক দয়াময় আল্লাহর কাছে সরাসরি জবাবদিহিতা নিশ্চিত করে: প্রত্যেকে নিজ কর্মের জন্য দায়ী, কেউ উত্তরাধিকারসূত্রে পাপের বোঝা বহন করে না, এবং কোনো আবশ্যক মধ্যস্থতাকারী ছাড়াই আন্তরিক তওবার মাধ্যমে সরাসরি ক্ষমা চাওয়া হয়। এর যুক্তি হলো এটি ব্যক্তিগত দায়িত্ব ও আল্লাহর সহজলভ্যতা—উভয়কেই পূর্ণ অক্ষুণ্ন রাখে। এটি এখানে ইসলামের নিজস্ব যুক্তিসংগত অবস্থান হিসেবে বর্ণিত, তথ্যনিষ্ঠভাবে এবং অন্যরা এসব বিষয় কীভাবে বোঝে তা ছোট না করে।',
+        },
+      },
+      {
+        heading: { en: 'A note on respect', bn: 'শ্রদ্ধা সম্পর্কে একটি নোট' },
+        body: {
+          en: 'These are Islam’s reasoned affirmations, offered for honest comparison of ideas about God — not verdicts about the worth of any people. Islam commands its followers to treat those of other faiths with justice and courtesy (Quran 5:8, 60:8) and to leave belief a free choice (Quran 2:256). Comparing concepts respectfully, and befriending and honouring people across differences, are meant to go together.',
+          bn: 'এগুলো ইসলামের যুক্তিসংগত নিশ্চয়ন, ঈশ্বর সম্পর্কে ধারণার সৎ তুলনার জন্য উপস্থাপিত—কোনো মানুষের মূল্য সম্পর্কে রায় নয়। ইসলাম তার অনুসারীদের নির্দেশ দেয় অন্য ধর্মাবলম্বীদের প্রতি ন্যায় ও সৌজন্য প্রদর্শন করতে (কুরআন ৫:৮, ৬০:৮) এবং বিশ্বাসকে স্বাধীন পছন্দ হিসেবে ছেড়ে দিতে (কুরআন ২:২৫৬)। ধারণার শ্রদ্ধাপূর্ণ তুলনা এবং ভিন্নতার মাঝেও মানুষকে সম্মান ও বন্ধুত্ব করা—এই দুই একসাথে চলার কথা।',
+        },
+      },
+    ],
+  },
+  {
+    id: 'dialogue',
+    emoji: '🕊️',
+    kind: 'article',
+    noteKey: 'whyislam_dialogue_note',
+    title: { en: 'Principles of Respectful Dialogue (Adab of Da‘wah)', bn: 'শ্রদ্ধাপূর্ণ সংলাপের নীতি (দাওয়াহর আদব)' },
+    summary: {
+      en: 'How Islam teaches its followers to share and discuss faith — with wisdom, gentleness and no compulsion.',
+      bn: 'ইসলাম কীভাবে তার অনুসারীদের বিশ্বাস ভাগ করা ও আলোচনা করতে শেখায়—প্রজ্ঞা, কোমলতা ও জবরদস্তিহীনতায়।',
+    },
+    points: [
+      {
+        heading: { en: 'Invite with wisdom and good speech', bn: 'প্রজ্ঞা ও উত্তম কথায় আমন্ত্রণ' },
+        body: {
+          en: 'The Quran sets the tone for sharing faith: "Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best" (Quran 16:125). Dialogue should be gracious, thoughtful and suited to the listener — persuasion through beauty of character and clarity, never through insult or pressure.',
+          bn: 'কুরআন বিশ্বাস ভাগ করে নেওয়ার ভঙ্গি নির্ধারণ করে দেয়: "তোমার রবের পথে আহ্বান করো প্রজ্ঞা ও সদুপদেশের মাধ্যমে, এবং তাদের সাথে বিতর্ক করো উত্তম পন্থায়" (কুরআন ১৬:১২৫)। সংলাপ হবে সৌজন্যপূর্ণ, বিবেচনাশীল ও শ্রোতার উপযোগী—চরিত্রের সৌন্দর্য ও স্পষ্টতার মাধ্যমে অনুপ্রেরণা, কখনো অপমান বা চাপের মাধ্যমে নয়।',
+        },
+      },
+      {
+        heading: { en: 'Seek common ground, avoid hostility', bn: 'অভিন্ন ভিত্তি খোঁজো, বৈরিতা এড়াও' },
+        body: {
+          en: 'When speaking with the People of the Book, the Quran counsels courtesy and shared values: "And do not argue with the People of the Scripture except in a way that is best… and say, We believe in that which was revealed to us and revealed to you; our God and your God is one" (Quran 29:46). Dialogue begins from what is held in common, not from antagonism.',
+          bn: 'আহলে কিতাবের সাথে কথা বলার সময় কুরআন সৌজন্য ও অভিন্ন মূল্যবোধের পরামর্শ দেয়: "আহলে কিতাবের সাথে উত্তম পন্থা ছাড়া বিতর্ক করো না… আর বলো, আমরা ঈমান এনেছি আমাদের প্রতি ও তোমাদের প্রতি যা অবতীর্ণ হয়েছে তাতে; আমাদের ইলাহ ও তোমাদের ইলাহ এক" (কুরআন ২৯:৪৬)। সংলাপ শুরু হয় অভিন্নতা থেকে, বৈরিতা থেকে নয়।',
+        },
+      },
+      {
+        heading: { en: 'No compulsion — convey, do not coerce', bn: 'জবরদস্তি নয়—পৌঁছে দাও, চাপিয়ে দিয়ো না' },
+        body: {
+          en: 'A core principle is that faith cannot be forced: "There shall be no compulsion in religion" (Quran 2:256). The purpose of da‘wah is only to convey a message clearly and sincerely; the response belongs entirely to the other person and, ultimately, to God. Pressuring, manipulating or shaming anyone contradicts this principle.',
+          bn: 'একটি মূল নীতি হলো ঈমান চাপিয়ে দেওয়া যায় না: "দ্বীনের ব্যাপারে কোনো জবরদস্তি নেই" (কুরআন ২:২৫৬)। দাওয়াহর উদ্দেশ্য কেবল বার্তা স্পষ্ট ও আন্তরিকভাবে পৌঁছে দেওয়া; সাড়া দেওয়ার বিষয়টি সম্পূর্ণ অপর ব্যক্তির এবং চূড়ান্তভাবে আল্লাহর। কাউকে চাপ দেওয়া, প্রভাবিত করা বা লজ্জা দেওয়া এই নীতির পরিপন্থী।',
+        },
+      },
+      {
+        heading: { en: 'Gentleness, patience and humility', bn: 'কোমলতা, ধৈর্য ও বিনয়' },
+        body: {
+          en: 'Character carries the message. The Quran reminds the Prophet that his gentleness drew people in: "And by the mercy of Allah you were lenient with them. Had you been rude and harsh-hearted, they would have dispersed from around you" (Quran 3:159). Sincere dialogue listens as much as it speaks, stays patient under disagreement, keeps good manners, and never mocks or belittles anyone for believing differently.',
+          bn: 'চরিত্রই বার্তা বহন করে। কুরআন নবীকে স্মরণ করিয়ে দেয় যে তাঁর কোমলতা মানুষকে কাছে টেনেছিল: "আল্লাহর রহমতেই তুমি তাদের প্রতি কোমল হয়েছিলে। যদি তুমি রূঢ় ও কঠোরহৃদয় হতে, তবে তারা তোমার আশপাশ থেকে সরে যেত" (কুরআন ৩:১৫৯)। আন্তরিক সংলাপ যতটা বলে ততটা শোনে, দ্বিমতে ধৈর্য ধরে, সদাচরণ বজায় রাখে, এবং ভিন্ন বিশ্বাসের জন্য কাউকে কখনো উপহাস বা হেয় করে না।',
+        },
+      },
+    ],
+  },
+  {
     id: 'embrace',
     emoji: '🌷',
     kind: 'embrace',
@@ -658,6 +815,12 @@ const WHY_ISLAM_DATA = [
         en: 'Large free audio library of lectures by mainstream scholars', bn: 'মূলধারার আলিমদের বক্তৃতার বিশাল বিনামূল্যে অডিও লাইব্রেরি' },
       { name: 'New Muslim Academy', url: 'https://www.newmuslimacademy.org', emoji: '🤝',
         en: 'Free classes and mentorship for those new to Islam', bn: 'ইসলামে নতুনদের জন্য বিনামূল্যে ক্লাস ও মেন্টরশিপ' },
+      { name: 'IslamReligion.com', url: 'https://www.islamreligion.com', emoji: '🌍',
+        en: 'Introductory articles and answers for those exploring Islam, in many languages', bn: 'ইসলাম অন্বেষণকারীদের জন্য বহু ভাষায় পরিচিতিমূলক প্রবন্ধ ও উত্তর' },
+      { name: 'AboutIslam', url: 'https://aboutislam.net', emoji: '📰',
+        en: 'Articles and Q&A on faith, ethics and everyday questions', bn: 'বিশ্বাস, নৈতিকতা ও দৈনন্দিন প্রশ্ন নিয়ে প্রবন্ধ ও প্রশ্নোত্তর' },
+      { name: 'GainPeace', url: 'https://www.gainpeace.com', emoji: '☮️',
+        en: 'Da‘wah outreach explaining Islam’s core beliefs clearly and calmly', bn: 'ইসলামের মূল বিশ্বাস স্পষ্ট ও শান্তভাবে ব্যাখ্যাকারী দাওয়াহ উদ্যোগ' },
     ],
   },
 ];
@@ -846,10 +1009,11 @@ class WhyIslamView {
     let body = '';
 
     if (topic.kind === 'qa') {
+      const qlabel = topic.qaLabel ? (this.esc(this.L(topic.qaLabel)) + '&nbsp;') : 'Q';
       body = `<div class="flex flex-col gap-3">${(topic.qa || []).map((x, i) => `
         <details class="group rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-hidden">
           <summary class="cursor-pointer list-none flex items-center gap-3 p-4 font-semibold text-gray-800 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-gray-700/50">
-            <span class="text-primary dark:text-blue-400" aria-hidden="true">Q${i + 1}</span>
+            <span class="text-primary dark:text-blue-400 whitespace-nowrap" aria-hidden="true">${qlabel}${i + 1}</span>
             <span class="flex-1 min-w-0" dir="auto">${this.esc(this.L(x.q))}</span>
             <span class="text-gray-400 group-open:rotate-180 transition-transform" aria-hidden="true">▾</span>
           </summary>
@@ -901,6 +1065,10 @@ class WhyIslamView {
         <span>${this.esc(isRead ? this.tt('whyislam_marked_read') : this.tt('whyislam_mark_read'))}</span>
       </button>`;
 
+    const noteBanner = topic.noteKey
+      ? `<p class="mb-5 text-xs text-gray-500 dark:text-gray-400 leading-relaxed bg-gray-50 dark:bg-gray-800/60 border border-gray-100 dark:border-gray-700 rounded-xl p-3" dir="auto">🤝 ${this.esc(this.tt(topic.noteKey))}</p>`
+      : '';
+
     this.container.innerHTML = `
       <div class="w-full max-w-3xl mx-auto">
         <button type="button" id="wi-back"
@@ -917,6 +1085,8 @@ class WhyIslamView {
         </div>
 
         <div class="mb-5">${readBtn}</div>
+
+        ${noteBanner}
 
         ${body}
 

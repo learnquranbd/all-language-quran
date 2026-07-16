@@ -48,6 +48,7 @@ const PROPHETS_DATA = [
     events: [
       { en: 'The Quran praises him as truthful (siddiq) and a prophet.', bn: 'কুরআন তাঁকে সত্যবাদী (সিদ্দীক) ও নবী বলে প্রশংসা করে।' },
       { en: 'He is counted among the patient and the righteous.', bn: 'তাঁকে ধৈর্যশীল ও সৎকর্মশীলদের অন্তর্ভুক্ত গণ্য করা হয়।' },
+      { en: 'Allah says He raised him to a high and honoured station.', bn: 'আল্লাহ বলেন তিনি তাঁকে উচ্চ ও সম্মানিত স্থানে উন্নীত করেছেন।' },
     ],
     refs: ['19:56-57', '21:85-86'],
     lessonEn: 'Truthfulness and patient perseverance raise a person to lasting honour with Allah.',
@@ -64,7 +65,13 @@ const PROPHETS_DATA = [
       { en: 'He preached day and night, openly and secretly, for centuries.', bn: 'তিনি দিনরাত, প্রকাশ্যে ও গোপনে, শত শত বছর দাওয়াত দেন।' },
       { en: 'By Allah’s command he built the Ark while his people mocked him.', bn: 'আল্লাহর আদেশে তিনি নৌকা বানান, আর তাঁর সম্প্রদায় উপহাস করে।' },
       { en: 'The Flood came; even his own son who refused to believe was drowned.', bn: 'প্লাবন আসে; ঈমান আনতে অস্বীকারকারী তাঁর নিজ পুত্রও ডুবে যায়।' },
+      { en: 'The Ark rested on Mount Judi as the waters receded.', bn: 'পানি নেমে গেলে নৌকা জুদি পাহাড়ে স্থির হয়।' },
     ],
+    signEn: 'The great sign was the Ark and the Flood: at Allah’s word the sky poured down and springs gushed from the earth, and only those aboard were saved.',
+    signBn: 'বড় নিদর্শন ছিল নৌকা ও মহাপ্লাবন: আল্লাহর আদেশে আকাশ বর্ষিত হয় ও ভূমি থেকে ঝর্ণা উৎসারিত হয়, আর কেবল নৌকায় আরোহীরাই রক্ষা পায়।',
+    signRefs: ['11:40-44', '54:11-14'],
+    spotlightEn: 'Nuh (AS) is the first of the Ulul-Azm messengers, and the Quran devotes an entire surah to him. He called his people privately and publicly, night and day, for nearly a thousand years all but fifty (29:14), yet they mocked him and stopped their ears. When it was clear none more would believe, Allah revealed the building of the Ark and taught him to load it with pairs and the believers. As the deniers drowned — including a son who thought a mountain would shelter him — the Ark carried the faithful to safety, and through them humanity continued.',
+    spotlightBn: 'নূহ (আঃ) উলুল-আযম রাসূলদের প্রথম, আর কুরআন তাঁকে একটি পূর্ণ সূরা উৎসর্গ করেছে। তিনি প্রায় "হাজার বছরের পঞ্চাশ কম" (২৯:১৪) ধরে দিনরাত, গোপনে ও প্রকাশ্যে সম্প্রদায়কে ডাকেন, তবু তারা উপহাস করে ও কান বন্ধ করে রাখে। আর কেউ ঈমান আনবে না নিশ্চিত হলে আল্লাহ নৌকা নির্মাণের ওহি দেন ও তাঁকে জোড়া জোড়া প্রাণী ও মুমিনদের তুলতে শেখান। অস্বীকারকারীরা ডুবে যায় — যাদের মধ্যে এক পুত্রও ছিল যে ভেবেছিল পাহাড় তাকে বাঁচাবে — আর নৌকা মুমিনদের নিরাপত্তায় বহন করে, এবং তাঁদের মাধ্যমেই মানবজাতি টিকে থাকে।',
     refs: ['71:1-28', '11:25-48', '23:23-30'],
     lessonEn: 'Keep calling to the truth with patience — success is measured by faithfulness, not numbers.',
     lessonBn: 'ধৈর্যের সাথে সত্যের দিকে ডাকতে থাকুন — সাফল্য মাপা হয় বিশ্বস্ততায়, সংখ্যায় নয়।',
@@ -80,7 +87,11 @@ const PROPHETS_DATA = [
       { en: 'He warned ’Ad against pride in their strength and buildings.', bn: 'তিনি আদকে তাদের শক্তি ও স্থাপনার অহংকার থেকে সতর্ক করেন।' },
       { en: 'They mocked him and clung to their idols.', bn: 'তারা তাঁকে উপহাস করে ও মূর্তি আঁকড়ে থাকে।' },
       { en: 'A destroying wind was sent against them for their arrogance.', bn: 'তাদের অহংকারের কারণে এক ধ্বংসকারী ঝড় পাঠানো হয়।' },
+      { en: 'Hud and the believers were saved by Allah’s mercy.', bn: 'হুদ ও মুমিনরা আল্লাহর রহমতে রক্ষা পান।' },
     ],
+    signEn: 'The sign for ’Ad was a barren, roaring wind Allah loosed against them for seven nights and eight days, leaving them fallen like hollow palm-trunks.',
+    signBn: 'আদের জন্য নিদর্শন ছিল এক বন্ধ্যা গর্জনশীল ঝড়, যা আল্লাহ সাত রাত ও আট দিন তাদের বিরুদ্ধে ছেড়ে দেন, ফলে তারা ফাঁপা খেজুরকাণ্ডের মতো পড়ে থাকে।',
+    signRefs: ['69:6-8', '41:15-16'],
     refs: ['7:65-72', '11:50-60', '26:123-140'],
     lessonEn: 'Strength and wealth are gifts to be used with gratitude, never idols to be proud of.',
     lessonBn: 'শক্তি ও সম্পদ কৃতজ্ঞতার সাথে ব্যবহারের নিয়ামত, কখনোই গর্ব করার মূর্তি নয়।',
@@ -96,7 +107,11 @@ const PROPHETS_DATA = [
       { en: 'The she-camel was given as a clear sign and a test.', bn: 'উষ্ট্রীটি স্পষ্ট নিদর্শন ও পরীক্ষা হিসেবে দেওয়া হয়।' },
       { en: 'The wrongdoers killed her, defying Allah’s command.', bn: 'অপরাধীরা আল্লাহর আদেশ অমান্য করে সেটিকে হত্যা করে।' },
       { en: 'A thunderous blast destroyed the people of Thamud.', bn: 'এক বজ্রধ্বনি সামুদ জাতিকে ধ্বংস করে।' },
+      { en: 'Salih and the believers were spared the punishment.', bn: 'সালিহ ও মুমিনরা শাস্তি থেকে রক্ষা পান।' },
     ],
+    signEn: 'The clear sign was the she-camel (naqat Allah) brought forth by Allah as a test, with an appointed share of water; when they hamstrung her, ruin followed within three days.',
+    signBn: 'স্পষ্ট নিদর্শন ছিল আল্লাহর উষ্ট্রী (নাক়াতুল্লাহ), যা পরীক্ষা হিসেবে আনা হয় ও পানির নির্দিষ্ট ভাগ ছিল; তারা সেটিকে হত্যা করলে তিন দিনের মধ্যে ধ্বংস নেমে আসে।',
+    signRefs: ['7:73', '11:64-65', '26:155-158'],
     refs: ['7:73-79', '11:61-68', '26:141-158'],
     lessonEn: 'Defying a clear sign from Allah brings ruin; obedience and gratitude bring life.',
     lessonBn: 'আল্লাহর স্পষ্ট নিদর্শন অমান্য করা ধ্বংস আনে; আনুগত্য ও কৃতজ্ঞতা জীবন আনে।',
@@ -113,7 +128,13 @@ const PROPHETS_DATA = [
       { en: 'Cast into the fire, he was saved as Allah made it cool and peaceful.', bn: 'আগুনে নিক্ষিপ্ত হলে আল্লাহ তা শীতল ও শান্তিময় করায় তিনি রক্ষা পান।' },
       { en: 'He was tested with the command to sacrifice his son, and submitted.', bn: 'পুত্র কুরবানির আদেশে তাঁকে পরীক্ষা করা হয় এবং তিনি আত্মসমর্পণ করেন।' },
       { en: 'With Isma’il he raised the foundations of the Ka’bah and prayed for its people.', bn: 'ইসমাঈলকে সাথে নিয়ে তিনি কাবার ভিত্তি গড়েন ও এর অধিবাসীদের জন্য দোয়া করেন।' },
+      { en: 'He asked Allah to show him how He gives life to the dead, and four birds returned to him.', bn: 'তিনি আল্লাহর কাছে মৃতকে জীবিত করার দৃশ্য দেখতে চান, আর চারটি পাখি তাঁর কাছে ফিরে আসে।' },
     ],
+    signEn: 'When Ibrahim was cast into the blazing fire, Allah commanded, "O fire, be coolness and peace upon Ibrahim," and it did not harm him — a sign that Allah protects His servants.',
+    signBn: 'ইবরাহীমকে জ্বলন্ত আগুনে নিক্ষেপ করা হলে আল্লাহ আদেশ দেন, "হে আগুন, তুমি ইবরাহীমের জন্য শীতল ও শান্তিময় হও," আর তা তাঁর ক্ষতি করেনি — এটি এক নিদর্শন যে আল্লাহ তাঁর বান্দাদের রক্ষা করেন।',
+    signRefs: ['21:68-69', '2:260'],
+    spotlightEn: 'Ibrahim (AS), the "friend of Allah" (khalil), searched for his Lord and reasoned past the star, the moon, and the sun to the One who created them (6:76-79). He confronted his idol-carving people and their king, was thrown into a fire that Allah made cool, and migrated for the sake of his Lord. His greatest trial came in a dream to sacrifice his son; both father and son submitted, and Allah ransomed the boy with a great sacrifice — commemorated in the Hajj. With Isma’il he raised the Ka’bah and prayed for a messenger to be sent among their descendants — a prayer answered in Muhammad ﷺ.',
+    spotlightBn: 'ইবরাহীম (আঃ), "আল্লাহর বন্ধু" (খলীল), তাঁর প্রভুকে খুঁজেন এবং তারকা, চাঁদ ও সূর্য পেরিয়ে তাদের স্রষ্টা একজনের কাছে যুক্তিতে পৌঁছান (৬:৭৬-৭৯)। তিনি মূর্তি-নির্মাতা সম্প্রদায় ও তাদের রাজার মুখোমুখি হন, আগুনে নিক্ষিপ্ত হন যা আল্লাহ শীতল করেন, এবং প্রভুর জন্য হিজরত করেন। তাঁর সবচেয়ে বড় পরীক্ষা আসে স্বপ্নে পুত্র কুরবানির আদেশে; পিতা-পুত্র উভয়ে আত্মসমর্পণ করেন, আর আল্লাহ এক মহান কুরবানিতে বালকটিকে মুক্ত করেন — যা হজে স্মরণ করা হয়। ইসমাঈলকে নিয়ে তিনি কাবা গড়েন ও তাঁদের বংশধরদের মধ্যে এক রাসূল প্রেরণের দোয়া করেন — যে দোয়া মুহাম্মাদ ﷺ-এর মাধ্যমে কবুল হয়।',
     refs: ['6:74-83', '21:51-70', '37:99-113', '2:124-129'],
     lessonEn: 'True faith reasons toward the One God and submits completely, even when it costs the most.',
     lessonBn: 'প্রকৃত ঈমান এক আল্লাহর দিকে যুক্তি দেয় ও সবচেয়ে বড় মূল্যেও সম্পূর্ণ আত্মসমর্পণ করে।',
@@ -145,7 +166,11 @@ const PROPHETS_DATA = [
       { en: 'As a boy he willingly submitted to the command of sacrifice.', bn: 'বালক বয়সে তিনি স্বেচ্ছায় কুরবানির আদেশে আত্মসমর্পণ করেন।' },
       { en: 'Allah ransomed him with a great sacrifice.', bn: 'আল্লাহ এক মহান কুরবানির বিনিময়ে তাঁকে মুক্ত করেন।' },
       { en: 'He and Ibrahim built the Ka’bah together.', bn: 'তিনি ও ইবরাহীম একসাথে কাবা নির্মাণ করেন।' },
+      { en: 'He enjoined prayer and zakat on his family and was pleasing to his Lord.', bn: 'তিনি পরিবারকে সালাত ও যাকাতের নির্দেশ দিতেন এবং প্রভুর কাছে সন্তোষভাজন ছিলেন।' },
     ],
+    signEn: 'The great sacrifice that ransomed Isma’il, and the well of Zamzam that sprang in the barren valley for him and his mother, are lasting signs remembered in the rites of Hajj.',
+    signBn: 'যে মহান কুরবানি ইসমাঈলকে মুক্ত করে, এবং শুষ্ক উপত্যকায় তাঁর ও তাঁর মায়ের জন্য উৎসারিত যমযম কূপ, হজের আচারে স্মরণীয় স্থায়ী নিদর্শন।',
+    signRefs: ['37:107', '2:127-129'],
     refs: ['37:99-113', '2:125-127', '19:54-55'],
     lessonEn: 'Trusting obedience to Allah, even in hardship, is honoured and rewarded.',
     lessonBn: 'কষ্টের মধ্যেও আল্লাহর প্রতি আস্থাশীল আনুগত্য সম্মানিত ও পুরস্কৃত হয়।',
@@ -160,6 +185,7 @@ const PROPHETS_DATA = [
     events: [
       { en: 'His birth was foretold to Ibrahim and Sarah in their old age.', bn: 'বৃদ্ধ বয়সে ইবরাহীম ও সারাকে তাঁর জন্মের সুসংবাদ দেওয়া হয়।' },
       { en: 'Allah blessed his offspring with prophethood.', bn: 'আল্লাহ তাঁর বংশধরদের নবুয়ত দিয়ে বরকতময় করেন।' },
+      { en: 'The Quran counts him among the men of strength and vision.', bn: 'কুরআন তাঁকে শক্তি ও অন্তর্দৃষ্টিসম্পন্ন ব্যক্তিদের মধ্যে গণ্য করে।' },
     ],
     refs: ['11:71-73', '37:112-113', '19:49-50'],
     lessonEn: 'Allah’s promises are fulfilled in His time; nothing is beyond His power.',
@@ -193,7 +219,13 @@ const PROPHETS_DATA = [
       { en: 'He resisted temptation and was jailed, yet kept calling to Allah.', bn: 'তিনি প্রলোভন প্রতিহত করেন ও কারারুদ্ধ হন, তবু আল্লাহর দিকে ডাকতে থাকেন।' },
       { en: 'He interpreted the king’s dream and was made a trusted minister.', bn: 'তিনি রাজার স্বপ্নের ব্যাখ্যা করেন ও বিশ্বস্ত মন্ত্রী হন।' },
       { en: 'He forgave his brothers and reunited with his father Ya’qub.', bn: 'তিনি ভাইদের ক্ষমা করেন ও পিতা ইয়াকুবের সাথে পুনর্মিলিত হন।' },
+      { en: 'As a boy he saw eleven stars, the sun, and the moon prostrate to him — a true dream fulfilled years later.', bn: 'বালক বয়সে তিনি এগারোটি তারা, সূর্য ও চাঁদকে তাঁকে সিজদা করতে দেখেন — এক সত্য স্বপ্ন যা বছর পরে পূর্ণ হয়।' },
     ],
+    signEn: 'Allah taught Yusuf the true interpretation of dreams; from the prisoners’ dreams to the king’s seven cows and ears of grain, his God-given knowledge saved a whole region from famine.',
+    signBn: 'আল্লাহ ইউসুফকে স্বপ্নের সঠিক ব্যাখ্যা শেখান; কারাবন্দিদের স্বপ্ন থেকে রাজার সাত গাভি ও শীষের স্বপ্ন পর্যন্ত, তাঁর আল্লাহ-প্রদত্ত জ্ঞান গোটা অঞ্চলকে দুর্ভিক্ষ থেকে রক্ষা করে।',
+    signRefs: ['12:36-37', '12:43-49'],
+    spotlightEn: 'Sura Yusuf is called by the Quran "the best of stories," and it is the most complete single narrative in the Book. Betrayed by jealous brothers, sold into slavery, tempted and then wrongly imprisoned, Yusuf (AS) never abandoned truthfulness or God-consciousness. Allah raised him from the prison to authority over Egypt’s stores, and when famine drove his brothers to him, he did not take revenge but said, "No blame upon you today; may Allah forgive you." The story shows how Allah’s plan works quietly through hardship toward a merciful end.',
+    spotlightBn: 'সূরা ইউসুফকে কুরআন "সর্বোত্তম কাহিনি" বলে, আর এটি কুরআনের সবচেয়ে পূর্ণাঙ্গ একক আখ্যান। হিংসুক ভাইদের বিশ্বাসঘাতকতা, দাসত্বে বিক্রি, প্রলোভন ও পরে অন্যায় কারাবাস — কোনো কিছুতেই ইউসুফ (আঃ) সত্যবাদিতা ও আল্লাহভীরুতা ছাড়েননি। আল্লাহ তাঁকে কারাগার থেকে মিশরের ভাণ্ডারের কর্তৃত্বে উন্নীত করেন, আর দুর্ভিক্ষ যখন ভাইদের তাঁর কাছে টেনে আনে, তিনি প্রতিশোধ নেননি বরং বলেন, "আজ তোমাদের কোনো দোষারোপ নেই; আল্লাহ তোমাদের ক্ষমা করুন।" কাহিনিটি দেখায় কীভাবে আল্লাহর পরিকল্পনা কষ্টের মধ্য দিয়ে নীরবে এক রহমতময় পরিণতির দিকে কাজ করে।',
     refs: ['12:3-6', '12:23-24', '12:54-57', '12:90-92'],
     lessonEn: 'Patience, chastity, and forgiveness turn injustice into a source of good by Allah’s plan.',
     lessonBn: 'ধৈর্য, সতীত্ব ও ক্ষমা আল্লাহর পরিকল্পনায় অবিচারকে কল্যাণের উৎসে পরিণত করে।',
@@ -209,7 +241,11 @@ const PROPHETS_DATA = [
       { en: 'He lost wealth, children, and health as a test.', bn: 'পরীক্ষা হিসেবে তিনি সম্পদ, সন্তান ও স্বাস্থ্য হারান।' },
       { en: 'He remained patient and prayed, "harm has touched me."', bn: 'তিনি ধৈর্যশীল থাকেন ও দোয়া করেন, "আমাকে কষ্ট স্পর্শ করেছে।"' },
       { en: 'Allah healed him and restored double what he had lost.', bn: 'আল্লাহ তাঁকে আরোগ্য দেন ও হারানোর দ্বিগুণ ফিরিয়ে দেন।' },
+      { en: 'Allah praised him as an excellent servant, ever turning back to Him.', bn: 'আল্লাহ তাঁকে উত্তম বান্দা বলে প্রশংসা করেন, যিনি সর্বদা তাঁর দিকে প্রত্যাবর্তনকারী।' },
     ],
+    signEn: 'When Ayyub called on his Lord, Allah told him, "Strike with your foot" — and a cool spring gushed out to wash and drink from, healing him completely.',
+    signBn: 'আইয়ুব যখন তাঁর প্রভুকে ডাকেন, আল্লাহ তাঁকে বলেন, "তোমার পা দিয়ে আঘাত করো" — আর এক শীতল ঝর্ণা উৎসারিত হয় গোসল ও পানের জন্য, যা তাঁকে সম্পূর্ণ আরোগ্য দেয়।',
+    signRefs: ['38:41-42'],
     refs: ['21:83-84', '38:41-44'],
     lessonEn: 'Patience in suffering, without complaint against Allah, is met with healing and reward.',
     lessonBn: 'আল্লাহর বিরুদ্ধে অভিযোগ ছাড়া কষ্টে ধৈর্য আরোগ্য ও পুরস্কার এনে দেয়।',
@@ -242,7 +278,14 @@ const PROPHETS_DATA = [
       { en: 'With clear signs he confronted Pharaoh; the magicians believed.', bn: 'স্পষ্ট নিদর্শনসহ তিনি ফেরাউনের মুখোমুখি হন; জাদুকররা ঈমান আনে।' },
       { en: 'The sea parted; Israel was saved and Pharaoh drowned.', bn: 'সমুদ্র বিভক্ত হয়; বনী ইসরাঈল রক্ষা পায় ও ফেরাউন ডুবে যায়।' },
       { en: 'Allah spoke to him and gave him the Tawrah on the mountain.', bn: 'আল্লাহ তাঁর সাথে কথা বলেন ও পাহাড়ে তাঁকে তাওরাত দেন।' },
+      { en: 'He struck the sea with his staff and it parted into dry paths.', bn: 'তিনি লাঠি দিয়ে সমুদ্রে আঘাত করেন ও তা শুকনো পথে বিভক্ত হয়।' },
+      { en: 'He journeyed with Khidr and learned that Allah’s wisdom lies beyond appearances.', bn: 'তিনি খিদিরের সাথে সফর করেন ও শেখেন যে আল্লাহর প্রজ্ঞা বাহ্যিক রূপের বাইরে।' },
     ],
+    signEn: 'Musa was given clear signs (ayat): his staff that turned into a moving serpent and swallowed the magicians’ ropes, and his hand that came out radiantly white without harm — and the parting of the sea to save his people.',
+    signBn: 'মূসাকে স্পষ্ট নিদর্শন (আয়াত) দেওয়া হয়: তাঁর লাঠি যা চলমান সাপে পরিণত হয় ও জাদুকরদের রশি গিলে ফেলে, এবং তাঁর হাত যা কোনো ক্ষতি ছাড়াই উজ্জ্বল সাদা হয়ে বের হয় — আর সম্প্রদায়কে বাঁচাতে সমুদ্র বিভক্ত হওয়া।',
+    signRefs: ['20:17-22', '7:107-108', '26:63'],
+    spotlightEn: 'Musa (AS) is mentioned more than any other prophet in the Quran, and his story runs across many surahs. Born when Pharaoh was killing the sons of Israel, he was placed in a basket on the Nile and raised, by Allah’s plan, in Pharaoh’s own palace. At Mount Tur he received prophethood and was told, "Indeed, I am Allah" — then sent with his brother Harun to the tyrant with clear signs. He defeated the magicians (who believed on the spot), led Israel out as the sea parted, received the Tawrah, and patiently bore his people’s hardness of heart.',
+    spotlightBn: 'মূসা (আঃ) কুরআনে অন্য যেকোনো নবীর চেয়ে বেশি উল্লিখিত, আর তাঁর কাহিনি বহু সূরায় ছড়িয়ে আছে। ফেরাউন যখন বনী ইসরাঈলের পুত্রদের হত্যা করছিল তখন তিনি জন্মান, আল্লাহর পরিকল্পনায় নীল নদে ঝুড়িতে রাখা হয় ও ফেরাউনের নিজ প্রাসাদে লালিত হন। তূর পর্বতে তিনি নবুয়ত পান ও শোনেন, "নিশ্চয়ই আমিই আল্লাহ" — এরপর ভাই হারুনসহ স্পষ্ট নিদর্শনসহ স্বৈরাচারীর কাছে প্রেরিত হন। তিনি জাদুকরদের পরাস্ত করেন (যারা তৎক্ষণাৎ ঈমান আনে), সমুদ্র বিভক্ত হলে বনী ইসরাঈলকে বের করেন, তাওরাত লাভ করেন এবং সম্প্রদায়ের হৃদয়ের কঠোরতা ধৈর্যে সহ্য করেন।',
     refs: ['28:3-13', '20:9-24', '7:103-126', '2:49-53'],
     lessonEn: 'Trust in Allah gives courage to stand against tyranny; deliverance comes from Him alone.',
     lessonBn: 'আল্লাহর ওপর আস্থা স্বৈরাচারের বিরুদ্ধে দাঁড়ানোর সাহস দেয়; মুক্তি কেবল তাঁর কাছ থেকে।',
@@ -273,6 +316,7 @@ const PROPHETS_DATA = [
     events: [
       { en: 'Counted among the patient and steadfast in the Quran.', bn: 'কুরআনে ধৈর্যশীল ও অবিচলদের মধ্যে গণ্য।' },
       { en: 'Named among "the good" (al-akhyar).', bn: '"উত্তমদের" (আল-আখইয়ার) মধ্যে নামোল্লেখ।' },
+      { en: 'He entered into Allah’s mercy for his righteousness.', bn: 'তাঁর সৎকর্মের কারণে তিনি আল্লাহর রহমতে প্রবেশ করেন।' },
     ],
     refs: ['21:85-86', '38:48'],
     lessonEn: 'Steadfast patience earns lasting honour, even when a life’s details are unknown to us.',
@@ -289,7 +333,11 @@ const PROPHETS_DATA = [
       { en: 'As a youth he defeated the tyrant Jalut (Goliath).', bn: 'তরুণ বয়সে তিনি স্বৈরাচারী জালুতকে (গোলিয়াথ) পরাস্ত করেন।' },
       { en: 'He was given the Zabur and iron was made soft for him.', bn: 'তাঁকে যাবুর দেওয়া হয় ও লোহা তাঁর জন্য নরম করা হয়।' },
       { en: 'Mountains and birds glorified Allah along with him.', bn: 'পাহাড় ও পাখিরা তাঁর সাথে আল্লাহর তাসবিহ পড়ত।' },
+      { en: 'He was taught to fashion coats of mail from the softened iron.', bn: 'নরম করা লোহা থেকে বর্ম তৈরি করা তাঁকে শেখানো হয়।' },
     ],
+    signEn: 'Allah gave Dawud a beautiful voice: the mountains and birds echoed his glorification of Allah morning and evening, and iron was made soft in his hands to shape armour.',
+    signBn: 'আল্লাহ দাউদকে সুন্দর কণ্ঠ দেন: সকাল-সন্ধ্যায় পাহাড় ও পাখিরা তাঁর আল্লাহর তাসবিহে প্রতিধ্বনি করত, এবং বর্ম গড়তে তাঁর হাতে লোহা নরম করা হতো।',
+    signRefs: ['34:10-11', '21:79'],
     refs: ['2:251', '38:17-26', '21:78-80', '34:10-11'],
     lessonEn: 'Power and skill are trusts from Allah, to be used for justice and constant gratitude.',
     lessonBn: 'ক্ষমতা ও দক্ষতা আল্লাহর আমানত, ন্যায় ও অবিরাম কৃতজ্ঞতায় ব্যবহারের জন্য।',
@@ -305,7 +353,11 @@ const PROPHETS_DATA = [
       { en: 'He understood the speech of birds and ants.', bn: 'তিনি পাখি ও পিঁপড়ার ভাষা বুঝতেন।' },
       { en: 'The wind and the jinn were made subject to him.', bn: 'বাতাস ও জিনদের তাঁর অধীন করা হয়।' },
       { en: 'He guided the Queen of Sheba to submit to Allah.', bn: 'তিনি সাবার রানিকে আল্লাহর কাছে আত্মসমর্পণে পথ দেখান।' },
+      { en: 'Her throne was brought to him in the blink of an eye by one given knowledge.', bn: 'জ্ঞানপ্রাপ্ত একজনের মাধ্যমে চোখের পলকে তাঁর কাছে রানির সিংহাসন আনা হয়।' },
     ],
+    signEn: 'Sulayman was granted authority over the wind, which ran at his command, and over the jinn who built and dived for him; a molten spring of copper flowed for him, and he understood the speech of birds and ants.',
+    signBn: 'সুলাইমানকে বাতাসের ওপর কর্তৃত্ব দেওয়া হয়, যা তাঁর আদেশে চলত, এবং জিনদের ওপর যারা তাঁর জন্য নির্মাণ ও ডুব দিত; তাঁর জন্য গলিত তামার ঝর্ণা প্রবাহিত হতো, আর তিনি পাখি ও পিঁপড়ার ভাষা বুঝতেন।',
+    signRefs: ['34:12-13', '21:81-82', '27:16-19'],
     refs: ['27:15-44', '38:30-40', '21:81-82', '34:12-14'],
     lessonEn: 'The greatest kingdom is still a trust; true greatness is gratitude and humility before Allah.',
     lessonBn: 'সবচেয়ে বড় রাজত্বও একটি আমানত; প্রকৃত মহত্ত্ব হলো আল্লাহর সামনে কৃতজ্ঞতা ও বিনয়।',
@@ -336,6 +388,7 @@ const PROPHETS_DATA = [
     events: [
       { en: 'Named among prophets favoured above the worlds.', bn: 'সৃষ্টিকুলের ওপর মর্যাদাপ্রাপ্ত নবীদের মধ্যে নামোল্লেখ।' },
       { en: 'Counted among "the good" (al-akhyar).', bn: '"উত্তমদের" (আল-আখইয়ার) মধ্যে গণ্য।' },
+      { en: 'He continued the guidance of the Children of Israel after Ilyas.', bn: 'ইলিয়াসের পর তিনি বনী ইসরাঈলের পথনির্দেশ অব্যাহত রাখেন।' },
     ],
     refs: ['6:86', '38:48'],
     lessonEn: 'Every prophet, named at length or in brief, calls to the same worship of the One God.',
@@ -352,7 +405,13 @@ const PROPHETS_DATA = [
       { en: 'He left his people before Allah’s permission.', bn: 'তিনি আল্লাহর অনুমতির আগেই সম্প্রদায় ত্যাগ করেন।' },
       { en: 'He was swallowed by a great fish and prayed in the darkness.', bn: 'এক বিশাল মাছ তাঁকে গিলে ফেলে ও তিনি অন্ধকারে দোয়া করেন।' },
       { en: 'Allah delivered him; his people believed and were spared.', bn: 'আল্লাহ তাঁকে উদ্ধার করেন; তাঁর সম্প্রদায় ঈমান আনে ও রক্ষা পায়।' },
+      { en: 'A gourd plant was made to grow to shelter him after he was cast ashore.', bn: 'তীরে নিক্ষিপ্ত হওয়ার পর তাঁকে ছায়া দিতে এক লাউ-গাছ উৎপন্ন করা হয়।' },
     ],
+    signEn: 'The sign of Yunus was his rescue from the belly of the great fish: had he not glorified Allah with "There is no god but You," he would have stayed there until the Day of Resurrection.',
+    signBn: 'ইউনুসের নিদর্শন ছিল বিশাল মাছের পেট থেকে তাঁর উদ্ধার: তিনি যদি "তুমি ছাড়া কোনো ইলাহ নেই" বলে আল্লাহর তাসবিহ না পড়তেন, তবে কিয়ামত পর্যন্ত সেখানেই থাকতেন।',
+    signRefs: ['37:143-144', '21:87'],
+    spotlightEn: 'Yunus (AS), also called Dhun-Nun ("the man of the fish"), was sent to the people of Nineveh. When they rejected him, he departed in anger before Allah gave him leave. Cast from a ship and swallowed by a great fish, in the layered darkness of night, sea, and belly he cried out, "There is no god but You; glory be to You; I have been of the wrongdoers." Allah answered, delivered him, and — uniquely — his entire people believed and their punishment was lifted.',
+    spotlightBn: 'ইউনুস (আঃ), যাঁকে যুন-নূন ("মাছের অধিকারী")-ও বলা হয়, নিনেভার অধিবাসীদের কাছে প্রেরিত হন। তারা তাঁকে প্রত্যাখ্যান করলে আল্লাহর অনুমতির আগেই তিনি ক্ষোভে চলে যান। জাহাজ থেকে নিক্ষিপ্ত হয়ে এক বিশাল মাছ তাঁকে গিলে ফেলে, আর রাত, সমুদ্র ও পেটের স্তরে স্তরে অন্ধকারে তিনি ডাকেন, "তুমি ছাড়া কোনো ইলাহ নেই; তুমি পবিত্র; নিশ্চয়ই আমি সীমালঙ্ঘনকারীদের একজন।" আল্লাহ সাড়া দেন, তাঁকে উদ্ধার করেন, এবং — অনন্যভাবে — তাঁর গোটা সম্প্রদায় ঈমান আনে ও তাদের শাস্তি তুলে নেওয়া হয়।',
     refs: ['21:87-88', '37:139-148', '10:98', '68:48-50'],
     lessonEn: 'No darkness is beyond Allah’s rescue when we turn back to Him and admit our fault.',
     lessonBn: 'যখন আমরা আল্লাহর দিকে ফিরি ও ভুল স্বীকার করি, কোনো অন্ধকারই তাঁর উদ্ধারের বাইরে নয়।',
@@ -401,7 +460,13 @@ const PROPHETS_DATA = [
       { en: 'He was given the Injil and, by Allah’s leave, worked signs.', bn: 'তাঁকে ইঞ্জিল দেওয়া হয় ও আল্লাহর অনুমতিতে তিনি নিদর্শন দেখান।' },
       { en: 'He called Israel to worship the One God, his and their Lord.', bn: 'তিনি বনী ইসরাঈলকে তাঁর ও তাদের প্রভু এক আল্লাহর ইবাদতের দিকে ডাকেন।' },
       { en: 'He was not killed; Allah raised him up, and he will return.', bn: 'তাঁকে হত্যা করা হয়নি; আল্লাহ তাঁকে তুলে নেন, এবং তিনি ফিরে আসবেন।' },
+      { en: 'He foretold a messenger to come after him named Ahmad.', bn: 'তিনি তাঁর পরে আহমাদ নামে এক রাসূলের আগমনের সুসংবাদ দেন।' },
     ],
+    signEn: 'By Allah’s leave Isa worked clear signs: he spoke as a newborn in the cradle, formed a bird from clay and it flew, healed the blind and the leper, and revived the dead — always "by the permission of Allah."',
+    signBn: 'আল্লাহর অনুমতিতে ঈসা স্পষ্ট নিদর্শন দেখান: তিনি দোলনায় নবজাতক অবস্থায় কথা বলেন, মাটি থেকে পাখি বানান ও তা উড়ে যায়, অন্ধ ও কুষ্ঠরোগীকে সুস্থ করেন এবং মৃতকে জীবিত করেন — সর্বদা "আল্লাহর অনুমতিতে"।',
+    signRefs: ['3:49', '5:110', '19:29-30'],
+    spotlightEn: 'Isa (AS), the Messiah, was created by Allah’s word "Be" — born of the virgin Maryam without a father, a sign for all people. He spoke from the cradle to defend his mother’s honour, was given the Injil, and called the Children of Israel to worship Allah alone, his Lord and theirs. His disciples (al-Hawariyyun) supported him. When his enemies plotted to kill him, Allah foiled them: he was neither killed nor crucified, but raised to Allah. The Quran honours him as a servant and messenger, never as a god or son of God, and teaches that he will return before the Last Day.',
+    spotlightBn: 'ঈসা (আঃ), মসীহ, আল্লাহর "হও" বাণীতে সৃষ্ট — পিতা ছাড়াই কুমারী মারইয়ামের গর্ভে জন্ম, সকল মানুষের জন্য এক নিদর্শন। তিনি মায়ের সম্মান রক্ষায় দোলনায় কথা বলেন, তাঁকে ইঞ্জিল দেওয়া হয়, এবং তিনি বনী ইসরাঈলকে তাঁর ও তাদের প্রভু এক আল্লাহর ইবাদতের দিকে ডাকেন। তাঁর শিষ্যরা (হাওয়ারিয়্যূন) তাঁকে সমর্থন করে। শত্রুরা যখন তাঁকে হত্যার ষড়যন্ত্র করে, আল্লাহ তা ব্যর্থ করেন: তাঁকে হত্যাও করা হয়নি, শূলবিদ্ধও করা হয়নি, বরং আল্লাহ তাঁকে তুলে নেন। কুরআন তাঁকে বান্দা ও রাসূল হিসেবে সম্মান দেয়, কখনো ইলাহ বা আল্লাহর পুত্র নয়, এবং শেখায় যে তিনি শেষ দিবসের আগে ফিরে আসবেন।',
     refs: ['3:45-51', '19:16-34', '5:110-116', '4:157-158'],
     lessonEn: 'The Messiah was a noble servant and messenger of Allah, calling to the worship of the One God.',
     lessonBn: 'মসীহ ছিলেন আল্লাহর এক মহান বান্দা ও রাসূল, যিনি এক আল্লাহর ইবাদতের দিকে ডাকতেন।',
@@ -418,11 +483,51 @@ const PROPHETS_DATA = [
       { en: 'He called to tawhid in Mecca amid persecution, then made the Hijra to Medina.', bn: 'তিনি নির্যাতনের মধ্যে মক্কায় তাওহিদের দাওয়াত দেন, পরে মদিনায় হিজরত করেন।' },
       { en: 'He established the Muslim community and completed the message.', bn: 'তিনি মুসলিম সমাজ প্রতিষ্ঠা করেন ও বার্তা পূর্ণ করেন।' },
       { en: 'He is the Seal of the Prophets — a mercy to all the worlds.', bn: 'তিনি শেষ নবী — সমগ্র জগতের জন্য রহমত।' },
+      { en: 'On the Night Journey (Isra & Mi’raj) he was taken from Mecca to Jerusalem and raised through the heavens.', bn: 'ইসরা ও মিরাজের রাতে তাঁকে মক্কা থেকে জেরুজালেমে নেওয়া হয় ও আকাশের ঊর্ধ্বে উঠানো হয়।' },
     ],
+    signEn: 'His greatest and lasting miracle is the Quran itself — a revelation no one could match. Among his signs were the splitting of the moon and the Night Journey (Isra & Mi’raj).',
+    signBn: 'তাঁর সবচেয়ে বড় ও স্থায়ী মুজিযা হলো স্বয়ং কুরআন — এমন এক ওহি যার সমতুল্য কেউ আনতে পারেনি। তাঁর নিদর্শনগুলোর মধ্যে ছিল চাঁদ দ্বিখণ্ডিত হওয়া ও রাত্রিভ্রমণ (ইসরা ও মিরাজ)।',
+    signRefs: ['54:1-2', '17:1'],
     refs: ['96:1-5', '33:40', '48:1-3', '53:1-11'],
     lessonEn: 'Follow the final messenger ﷺ — his life is the living example of the Quran and mercy to all.',
     lessonBn: 'সর্বশেষ রাসূল ﷺ-কে অনুসরণ করুন — তাঁর জীবনই কুরআনের জীবন্ত আদর্শ ও সবার জন্য রহমত।',
     seerahLink: true,
+  },
+];
+
+/**
+ * Cross-cutting themes shared by all the prophets — the single message of tawhid,
+ * patience under trial, the covenant taken from the prophets, and belief in all
+ * of them as an article of faith. All refs verified against SURAH_DATA.
+ */
+const COMMON_THREADS = [
+  {
+    emoji: '☝️',
+    titleEn: 'One message: Tawhid', titleBn: 'একই বার্তা: তাওহিদ',
+    bodyEn: 'Every prophet, from Adam to Muhammad ﷺ, brought the same core call: worship Allah alone and shun false gods. "We sent to every nation a messenger, [saying], Worship Allah and avoid false idols."',
+    bodyBn: 'আদম থেকে মুহাম্মাদ ﷺ পর্যন্ত প্রত্যেক নবী একই মূল আহ্বান নিয়ে আসেন: কেবল আল্লাহর ইবাদত করো ও মিথ্যা উপাস্য বর্জন করো। "আমি প্রতিটি জাতির কাছে একজন রাসূল পাঠিয়েছি [এই বলে], আল্লাহর ইবাদত করো ও তাগুত থেকে দূরে থাকো।"',
+    refs: ['16:36', '21:25'],
+  },
+  {
+    emoji: '⏳',
+    titleEn: 'Patience under trial', titleBn: 'পরীক্ষায় ধৈর্য',
+    bodyEn: 'The prophets were tested — with rejection, loss, and hardship — and answered with steadfast patience (sabr). "So be patient, as the messengers of firm resolve were patient."',
+    bodyBn: 'নবীগণ পরীক্ষিত হয়েছেন — প্রত্যাখ্যান, ক্ষতি ও কষ্টে — এবং অবিচল ধৈর্যে (সবর) সাড়া দিয়েছেন। "সুতরাং ধৈর্য ধরো, যেমন দৃঢ়প্রতিজ্ঞ রাসূলগণ ধৈর্য ধরেছিলেন।"',
+    refs: ['46:35', '21:83-85'],
+  },
+  {
+    emoji: '🤝',
+    titleEn: 'The covenant of the prophets', titleBn: 'নবীদের অঙ্গীকার',
+    bodyEn: 'Allah took a solemn covenant from the prophets — including Nuh, Ibrahim, Musa, and Isa — to convey His message faithfully and to confirm one another.',
+    bodyBn: 'আল্লাহ নবীদের কাছ থেকে — নূহ, ইবরাহীম, মূসা ও ঈসাসহ — দৃঢ় অঙ্গীকার নেন যে তাঁরা বিশ্বস্তভাবে তাঁর বার্তা পৌঁছাবেন ও একে অপরকে সত্যায়ন করবেন।',
+    refs: ['33:7', '3:81'],
+  },
+  {
+    emoji: '📿',
+    titleEn: 'Believing in all the prophets', titleBn: 'সকল নবীতে বিশ্বাস',
+    bodyEn: 'A Muslim believes in every one of Allah’s prophets without distinction. "We make no distinction between any of His messengers." Rejecting even one is rejecting the chain of guidance.',
+    bodyBn: 'একজন মুসলিম আল্লাহর প্রত্যেক নবীতে কোনো পার্থক্য ছাড়া বিশ্বাস করে। "আমরা তাঁর রাসূলদের কারও মধ্যে পার্থক্য করি না।" একজনকেও অস্বীকার করা হলো পথনির্দেশের ধারাকেই অস্বীকার করা।',
+    refs: ['2:285', '2:136'],
   },
 ];
 
@@ -463,6 +568,25 @@ const PROPHETS_UI = {
   prophets_date_note: { en: 'Note: exact dates for the early prophets are not established in Islamic sources — only the traditional relative order is shown. Later eras marked "approx." reflect commonly-cited estimates.', bn: 'নোট: প্রাথমিক নবীদের সঠিক তারিখ ইসলামি সূত্রে প্রতিষ্ঠিত নয় — কেবল ঐতিহ্যগত আপেক্ষিক ক্রম দেখানো হয়েছে। পরবর্তী "আনুমানিক" যুগগুলো প্রচলিত অনুমান নির্দেশ করে।' },
   prophets_many_note: { en: 'Islam teaches that Allah sent many prophets to every nation; a well-known narration mentions a very large number, but only these 25 are named in the Quran.', bn: 'ইসলাম শেখায় আল্লাহ প্রতিটি জাতির কাছে বহু নবী পাঠিয়েছেন; একটি সুপরিচিত বর্ণনায় বিশাল সংখ্যার উল্লেখ আছে, তবে কুরআনে কেবল এই ২৫ জনের নাম আছে।' },
   prophets_of: { en: 'of', bn: 'এর মধ্যে' },
+  prophets_label_spotlight: { en: 'Story spotlight', bn: 'কাহিনি স্পটলাইট' },
+  prophets_label_sign: { en: 'Miracles & signs', bn: 'মুজিযা ও নিদর্শন' },
+  prophets_threads_title: { en: 'Common Threads', bn: 'অভিন্ন সূত্র' },
+  prophets_threads_intro: { en: 'What every prophet shared, from Adam to Muhammad ﷺ.', bn: 'আদম থেকে মুহাম্মাদ ﷺ পর্যন্ত প্রত্যেক নবীর মধ্যে যা অভিন্ন ছিল।' },
+  prophets_quiz_title: { en: 'Match the Prophet', bn: 'নবী মেলাও' },
+  prophets_quiz_intro: { en: 'A light quiz: match each prophet to their people or a key event.', bn: 'হালকা কুইজ: প্রতিটি নবীকে তাঁর সম্প্রদায় বা গুরুত্বপূর্ণ ঘটনার সাথে মেলান।' },
+  prophets_quiz_start: { en: 'Start quiz', bn: 'কুইজ শুরু করুন' },
+  prophets_quiz_restart: { en: 'Play again', bn: 'আবার খেলুন' },
+  prophets_quiz_close: { en: 'Close', bn: 'বন্ধ করুন' },
+  prophets_quiz_question: { en: 'Question', bn: 'প্রশ্ন' },
+  prophets_quiz_score: { en: 'Score', bn: 'স্কোর' },
+  prophets_quiz_best: { en: 'Best', bn: 'সেরা' },
+  prophets_quiz_next: { en: 'Next', bn: 'পরবর্তী' },
+  prophets_quiz_finish: { en: 'See result', bn: 'ফলাফল দেখুন' },
+  prophets_quiz_result: { en: 'Your result', bn: 'আপনার ফলাফল' },
+  prophets_quiz_correct: { en: 'Correct!', bn: 'সঠিক!' },
+  prophets_quiz_wrong: { en: 'The answer was', bn: 'সঠিক উত্তর ছিল' },
+  prophets_quiz_q_nation: { en: 'Which prophet was sent to this people?', bn: 'কোন নবী এই সম্প্রদায়ের কাছে প্রেরিত হন?' },
+  prophets_quiz_q_event: { en: 'Which prophet is this about?', bn: 'এটি কোন নবী সম্পর্কে?' },
 };
 
 class ProphetsView {
@@ -477,6 +601,8 @@ class ProphetsView {
     this.query = '';
     this.selected = null;     // prophet id when in detail view
     this.read = this.loadRead();
+    this.quizState = null;    // active quiz session, or null
+    this.quizBest = this.loadQuizBest();
 
     window.addEventListener('tabChanged', (e) => {
       try { if (e && e.detail && e.detail.tabId === 'prophets') this.render(); } catch (_) { /* ignore */ }
@@ -519,6 +645,13 @@ class ProphetsView {
   }
   saveRead() {
     try { localStorage.setItem('lq_prophets_read', JSON.stringify([...this.read])); } catch (_) { /* ignore */ }
+  }
+
+  loadQuizBest() {
+    try { const n = parseInt(localStorage.getItem('lq_prophets_quiz_best'), 10); return Number.isFinite(n) ? n : 0; } catch (_) { return 0; }
+  }
+  saveQuizBest(n) {
+    try { localStorage.setItem('lq_prophets_quiz_best', String(n)); } catch (_) { /* ignore */ }
   }
 
   // Look up a surah name (verified list lives in SURAH_DATA) for a ref label.
@@ -578,6 +711,7 @@ class ProphetsView {
   render() {
     if (!this.container) return;
     this.rendered = true;
+    if (this.quizState) { this.renderQuiz(); this.bind(); return; }
     if (this.selected) { this.renderDetail(); this.bind(); return; }
 
     const total = PROPHETS_DATA.length;
@@ -636,6 +770,19 @@ class ProphetsView {
         <div class="flex flex-wrap gap-2 mb-5">${filters}</div>
 
         <div data-prophets-list></div>
+
+        ${this.threadsHtml()}
+
+        <div class="mt-6 rounded-2xl bg-gradient-to-br from-primary/10 to-transparent border border-primary/20 p-5 text-center">
+          <div class="text-2xl mb-1" aria-hidden="true">✦</div>
+          <h3 class="font-bold text-gray-800 dark:text-gray-100">${this.esc(this.tt('prophets_quiz_title'))}</h3>
+          <p class="text-xs text-gray-500 dark:text-gray-400 mt-1 mb-3" dir="auto">${this.esc(this.tt('prophets_quiz_intro'))}</p>
+          <button type="button" data-prophets-quiz-start
+            class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-primary text-white font-semibold hover:opacity-90 transition-opacity">
+            ▶ ${this.esc(this.tt('prophets_quiz_start'))}
+          </button>
+          ${this.quizBest ? `<p class="text-[0.7rem] text-gray-400 dark:text-gray-500 mt-2">🏆 ${this.esc(this.tt('prophets_quiz_best'))}: ${this.quizBest}</p>` : ''}
+        </div>
 
         <div class="mt-6 space-y-2">
           <p class="text-[0.7rem] text-gray-400 dark:text-gray-500 leading-relaxed p-3 rounded-lg bg-gray-50 dark:bg-gray-800/60" dir="auto">🗓️ ${this.esc(this.tt('prophets_date_note'))}</p>
@@ -721,6 +868,159 @@ class ProphetsView {
       </div>`;
   }
 
+  threadsHtml() {
+    return `
+      <div class="mt-8">
+        <h3 class="text-lg font-bold text-gray-800 dark:text-gray-100 flex items-center gap-2">🧵 ${this.esc(this.tt('prophets_threads_title'))}</h3>
+        <p class="text-xs text-gray-400 dark:text-gray-500 mb-3" dir="auto">${this.esc(this.tt('prophets_threads_intro'))}</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          ${COMMON_THREADS.map(th => `
+            <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4">
+              <div class="flex items-center gap-2 mb-1.5">
+                <span class="text-lg" aria-hidden="true">${th.emoji}</span>
+                <span class="font-bold text-gray-800 dark:text-gray-100 text-sm">${this.esc(this.language === 'bn' ? th.titleBn : th.titleEn)}</span>
+              </div>
+              <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed mb-2" dir="auto">${this.esc(this.language === 'bn' ? th.bodyBn : th.bodyEn)}</p>
+              <div class="flex flex-wrap gap-1.5">
+                ${(th.refs || []).map(r => `<button type="button" data-prophets-ayah="${this.esc(this.openRef(r))}"
+                  class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.7rem] font-medium hover:bg-primary hover:text-white transition-colors" dir="auto">📖 ${this.esc(this.refLabel(r))}</button>`).join('')}
+              </div>
+            </div>`).join('')}
+        </div>
+      </div>`;
+  }
+
+  // ── quiz ─────────────────────────────────────────────────────────────
+  shuffle(arr) {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      const t2 = a[i]; a[i] = a[j]; a[j] = t2;
+    }
+    return a;
+  }
+
+  buildQuiz() {
+    const N = 6;
+    const chosen = this.shuffle(PROPHETS_DATA).slice(0, N);
+    const questions = chosen.map(p => {
+      // Prefer an "event" prompt when the prophet has events, else "nation".
+      const events = Array.isArray(p.events) ? p.events : [];
+      const useEvent = events.length && Math.random() < 0.5;
+      let promptText, promptType;
+      if (useEvent) {
+        const ev = events[Math.floor(Math.random() * events.length)];
+        promptText = this.language === 'bn' ? (ev.bn || ev.en) : ev.en;
+        promptType = 'event';
+      } else {
+        promptText = this.loc(p, 'nation');
+        promptType = 'nation';
+      }
+      const distractors = this.shuffle(PROPHETS_DATA.filter(x => x.id !== p.id)).slice(0, 3);
+      const options = this.shuffle(distractors.concat(p)).map(o => ({ id: o.id, label: o.translit }));
+      return { answerId: p.id, promptText, promptType, options };
+    });
+    return { questions, idx: 0, score: 0, answeredId: null, done: false };
+  }
+
+  renderQuiz() {
+    const q = this.quizState;
+    if (!q) { this.render(); return; }
+    const total = q.questions.length;
+
+    if (q.done) {
+      const passed = q.score === total;
+      this.container.innerHTML = `
+        <div class="w-full max-w-md mx-auto py-8 text-center">
+          <div class="text-4xl mb-2" aria-hidden="true">${passed ? '🌟' : '✦'}</div>
+          <h2 class="text-xl font-bold text-gray-800 dark:text-gray-100 mb-1">${this.esc(this.tt('prophets_quiz_result'))}</h2>
+          <p class="text-3xl font-extrabold text-primary my-3">${q.score} / ${total}</p>
+          <p class="text-sm text-gray-500 dark:text-gray-400 mb-5">🏆 ${this.esc(this.tt('prophets_quiz_best'))}: ${this.quizBest}</p>
+          <div class="flex items-center justify-center gap-2">
+            <button type="button" data-prophets-quiz-restart
+              class="px-5 py-2.5 rounded-xl bg-primary text-white font-semibold hover:opacity-90 transition-opacity">↻ ${this.esc(this.tt('prophets_quiz_restart'))}</button>
+            <button type="button" data-prophets-quiz-close
+              class="px-5 py-2.5 rounded-xl bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300 font-semibold hover:text-primary transition-colors">${this.esc(this.tt('prophets_quiz_close'))}</button>
+          </div>
+        </div>`;
+      return;
+    }
+
+    const cur = q.questions[q.idx];
+    const answered = q.answeredId != null;
+    const promptLabel = cur.promptType === 'event' ? this.tt('prophets_quiz_q_event') : this.tt('prophets_quiz_q_nation');
+    const pct = Math.round((q.idx / total) * 100);
+
+    const optsHtml = cur.options.map(o => {
+      let cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 hover:border-primary';
+      let mark = '';
+      if (answered) {
+        if (o.id === cur.answerId) { cls = 'bg-green-50 dark:bg-green-900/30 border-green-400 dark:border-green-700'; mark = '<span class="text-green-500">✓</span>'; }
+        else if (o.id === q.answeredId) { cls = 'bg-red-50 dark:bg-red-900/30 border-red-400 dark:border-red-700'; mark = '<span class="text-red-500">✗</span>'; }
+        else { cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 opacity-60'; }
+      }
+      return `<button type="button" ${answered ? 'disabled' : ''} data-prophets-quiz-answer="${this.esc(o.id)}"
+        class="w-full flex items-center justify-between gap-2 text-left px-4 py-3 rounded-xl border font-medium text-gray-700 dark:text-gray-200 transition-colors ${cls}">
+        <span>${this.esc(o.label)}</span> ${mark}</button>`;
+    }).join('');
+
+    const correctName = (PROPHETS_DATA.find(x => x.id === cur.answerId) || {}).translit || '';
+    const feedback = answered
+      ? (q.answeredId === cur.answerId
+          ? `<p class="text-sm font-semibold text-green-600 dark:text-green-400 text-center mt-3">✓ ${this.esc(this.tt('prophets_quiz_correct'))}</p>`
+          : `<p class="text-sm font-semibold text-red-500 text-center mt-3">${this.esc(this.tt('prophets_quiz_wrong'))}: ${this.esc(correctName)}</p>`)
+      : '';
+    const isLast = q.idx === total - 1;
+
+    this.container.innerHTML = `
+      <div class="w-full max-w-md mx-auto py-4">
+        <div class="flex items-center justify-between mb-2 text-xs text-gray-500 dark:text-gray-400">
+          <span>${this.esc(this.tt('prophets_quiz_question'))} ${q.idx + 1} / ${total}</span>
+          <span>${this.esc(this.tt('prophets_quiz_score'))}: <strong class="text-primary">${q.score}</strong> · 🏆 ${this.quizBest}</span>
+        </div>
+        <div class="h-1.5 rounded-full bg-gray-100 dark:bg-gray-700 overflow-hidden mb-4">
+          <div class="h-full bg-primary transition-all" style="width:${pct}%"></div>
+        </div>
+        <div class="rounded-2xl bg-gray-50 dark:bg-gray-800/60 border border-gray-200 dark:border-gray-700 p-4 mb-4">
+          <p class="text-xs text-gray-400 dark:text-gray-500 mb-1">${this.esc(promptLabel)}</p>
+          <p class="text-base font-semibold text-gray-800 dark:text-gray-100 leading-relaxed" dir="auto">${this.esc(cur.promptText)}</p>
+        </div>
+        <div class="space-y-2">${optsHtml}</div>
+        ${feedback}
+        <div class="mt-4 flex items-center justify-between">
+          <button type="button" data-prophets-quiz-close
+            class="text-xs text-gray-400 hover:text-red-500 transition-colors">✕ ${this.esc(this.tt('prophets_quiz_close'))}</button>
+          ${answered ? `<button type="button" data-prophets-quiz-next
+            class="px-5 py-2.5 rounded-xl bg-primary text-white font-semibold hover:opacity-90 transition-opacity">${this.esc(isLast ? this.tt('prophets_quiz_finish') : this.tt('prophets_quiz_next'))} →</button>` : ''}
+        </div>
+      </div>`;
+  }
+
+  quizStart() { this.quizState = this.buildQuiz(); this.render(); this.scrollTop(); }
+  quizClose() { this.quizState = null; this.render(); this.scrollTop(); }
+
+  quizAnswer(id) {
+    const q = this.quizState;
+    if (!q || q.answeredId != null) return;
+    const cur = q.questions[q.idx];
+    q.answeredId = id;
+    if (id === cur.answerId) q.score++;
+    this.renderQuiz();
+  }
+
+  quizNext() {
+    const q = this.quizState;
+    if (!q) return;
+    if (q.idx < q.questions.length - 1) {
+      q.idx++; q.answeredId = null;
+      this.renderQuiz();
+    } else {
+      q.done = true;
+      if (q.score > this.quizBest) { this.quizBest = q.score; this.saveQuizBest(q.score); }
+      this.renderQuiz();
+    }
+  }
+
   renderDetail() {
     const p = PROPHETS_DATA.find(x => x.id === this.selected);
     if (!p) { this.selected = null; this.render(); return; }
@@ -733,6 +1033,23 @@ class ProphetsView {
         <ul class="space-y-1.5">
           ${events.map(ev => `<li class="flex gap-2 text-sm text-gray-600 dark:text-gray-300" dir="auto"><span class="text-primary mt-0.5 shrink-0" aria-hidden="true">▸</span><span class="flex-1">${this.esc(this.language === 'bn' ? (ev.bn || ev.en) : ev.en)}</span></li>`).join('')}
         </ul>
+      </div>` : '';
+
+    const spotlight = this.loc(p, 'spotlight');
+    const spotlightHtml = spotlight ? `
+      <div class="mb-4 p-3.5 rounded-xl bg-primary/5 border border-primary/20">
+        <h3 class="text-sm font-bold text-primary mb-1.5 flex items-center gap-1.5">✧ ${this.esc(this.tt('prophets_label_spotlight'))}</h3>
+        <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(spotlight)}</p>
+      </div>` : '';
+
+    const sign = this.loc(p, 'sign');
+    const signRefs = Array.isArray(p.signRefs) ? p.signRefs : [];
+    const signHtml = sign ? `
+      <div class="mb-4 p-3.5 rounded-xl bg-teal-50 dark:bg-teal-900/20 border border-teal-100 dark:border-teal-900/40">
+        <h3 class="text-sm font-bold text-teal-700 dark:text-teal-300 mb-1.5 flex items-center gap-1.5">✦ ${this.esc(this.tt('prophets_label_sign'))}</h3>
+        <p class="text-sm text-teal-800 dark:text-teal-200 leading-relaxed mb-2" dir="auto">${this.esc(sign)}</p>
+        ${signRefs.length ? `<div class="flex flex-wrap gap-1.5">${signRefs.map(r => `<button type="button" data-prophets-ayah="${this.esc(this.openRef(r))}"
+            class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-teal-500/10 text-teal-700 dark:text-teal-300 text-[0.7rem] font-medium hover:bg-teal-500 hover:text-white transition-colors" dir="auto">📖 ${this.esc(this.refLabel(r))}</button>`).join('')}</div>` : ''}
       </div>` : '';
 
     const refs = Array.isArray(p.refs) ? p.refs : [];
@@ -789,7 +1106,9 @@ class ProphetsView {
               <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.loc(p, 'summary'))}</p>
             </div>
 
+            ${spotlightHtml}
             ${eventsHtml}
+            ${signHtml}
             ${refsHtml}
 
             <div class="mb-4 p-3 rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-900/40">
@@ -839,6 +1158,18 @@ class ProphetsView {
 
         const reset = e.target.closest('[data-prophets-reset]');
         if (reset) { this.resetProgress(); return; }
+
+        const quizStart = e.target.closest('[data-prophets-quiz-start], [data-prophets-quiz-restart]');
+        if (quizStart) { this.quizStart(); return; }
+
+        const quizClose = e.target.closest('[data-prophets-quiz-close]');
+        if (quizClose) { this.quizClose(); return; }
+
+        const quizAnswer = e.target.closest('[data-prophets-quiz-answer]');
+        if (quizAnswer) { this.quizAnswer(quizAnswer.getAttribute('data-prophets-quiz-answer')); return; }
+
+        const quizNext = e.target.closest('[data-prophets-quiz-next]');
+        if (quizNext) { this.quizNext(); return; }
       } catch (_) { /* ignore */ }
     });
 
