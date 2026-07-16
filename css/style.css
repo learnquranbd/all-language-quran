@@ -641,3 +641,201 @@ body.legacy-sidebar aside#sidebar .nav-group-parent:hover {
 .only-arabic .inline-grammar,
 .only-arabic .tajweed-view { display: none !important; }
 .only-arabic .ayah-content > .ayah-arabic { display: block !important; }
+
+/* ============================================================================
+   Professional polish pass (v92)
+   Additive, restrained refinements. Reuses the existing blue primary hue
+   (#1e40af → #3b82f6) and the `.dark` / `[dir="rtl"]` conventions. No layout,
+   spacing-scale, or --primary-hue changes; nothing here alters
+   .ayah-arabic / .only-arabic behavior. Everything degrades gracefully and
+   works in both themes and RTL. All motion is gated behind
+   prefers-reduced-motion.
+   ---------------------------------------------------------------------------
+   Local brand tokens (scoped to this section; do not affect existing rules):
+   ========================================================================= */
+:root {
+  --lq-primary: #1e40af;
+  --lq-primary-2: #3b82f6;
+  --lq-focus-ring: rgba(59, 130, 246, 0.55);
+}
+
+/* ---- 1. On-brand text selection ------------------------------------------ */
+::selection {
+  background: rgba(59, 130, 246, 0.28);
+  color: inherit;
+}
+.dark ::selection {
+  background: rgba(96, 165, 250, 0.35);
+  color: inherit;
+}
+
+/* ---- 2. Refined keyboard focus-visible ring ------------------------------
+   Only shows for keyboard users (:focus-visible), never on mouse clicks.    */
+a:focus-visible,
+button:focus-visible,
+[role="button"]:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+summary:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--lq-focus-ring);
+  outline-offset: 2px;
+  border-radius: 0.375rem;
+}
+.dark a:focus-visible,
+.dark button:focus-visible,
+.dark [role="button"]:focus-visible,
+.dark input:focus-visible,
+.dark select:focus-visible,
+.dark textarea:focus-visible,
+.dark summary:focus-visible,
+.dark [tabindex]:focus-visible {
+  outline-color: rgba(96, 165, 250, 0.65);
+}
+
+/* ---- 3. Firefox scrollbar theming ----------------------------------------
+   WebKit scrollbars are already styled above; add the standard properties.   */
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #c1c1c1 transparent;
+}
+.dark html,
+html.dark,
+.dark body {
+  scrollbar-color: #4b5563 transparent;
+}
+
+/* ---- 4. Consistent, subtle transitions on interactive elements -----------
+   Fast (150ms) and restrained. Wrapped in a motion-safe guard so
+   reduced-motion users get no transitions.                                   */
+@media (prefers-reduced-motion: no-preference) {
+  button,
+  .tab-btn,
+  .sidebar-link,
+  a,
+  .wbw-card,
+  input,
+  select,
+  textarea,
+  summary {
+    transition:
+      background-color 0.15s ease,
+      border-color 0.15s ease,
+      color 0.15s ease,
+      box-shadow 0.15s ease,
+      transform 0.15s ease;
+  }
+}
+
+/* Neutralize the two tab-panel/card animations for reduced-motion users. */
+@media (prefers-reduced-motion: reduce) {
+  .tab-panel,
+  .lq-fade-in {
+    animation: none !important;
+  }
+  * {
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ---- 5. Refined card hover elevation --------------------------------------
+   Slightly warmer, layered shadow and a hairline border for depth. Matches
+   the existing .ayah-card transition target (box-shadow), adds nothing that
+   shifts layout.                                                             */
+.ayah-card {
+  border: 1px solid rgba(15, 23, 42, 0.06);
+}
+.dark .ayah-card {
+  border: 1px solid rgba(148, 163, 184, 0.12);
+}
+@media (prefers-reduced-motion: no-preference) {
+  .ayah-card {
+    transition: box-shadow 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+  }
+}
+.ayah-card:hover {
+  box-shadow:
+    0 4px 6px -2px rgba(0, 0, 0, 0.08),
+    0 10px 20px -6px rgba(0, 0, 0, 0.14);
+  border-color: rgba(59, 130, 246, 0.22);
+}
+.dark .ayah-card:hover {
+  box-shadow:
+    0 4px 6px -2px rgba(0, 0, 0, 0.4),
+    0 10px 24px -6px rgba(0, 0, 0, 0.55);
+  border-color: rgba(96, 165, 250, 0.28);
+}
+
+/* ---- 6. Word-by-word card: gentle interactive lift ------------------------ */
+.wbw-card:hover {
+  border-color: rgba(59, 130, 246, 0.35);
+  box-shadow: 0 2px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.dark .wbw-card:hover {
+  border-color: rgba(96, 165, 250, 0.4);
+  box-shadow: 0 2px 6px -1px rgba(0, 0, 0, 0.45);
+}
+
+/* ---- 7. Primary buttons: tasteful gradient + elevation --------------------
+   Opt-in via .lq-btn-primary so it never overrides existing button styling
+   unexpectedly. Consistent rounded corners and a soft brand shadow.          */
+.lq-btn-primary {
+  background: linear-gradient(135deg, var(--lq-primary), var(--lq-primary-2));
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 2px rgba(30, 64, 175, 0.25);
+}
+.lq-btn-primary:hover {
+  box-shadow: 0 4px 12px rgba(30, 64, 175, 0.32);
+  filter: brightness(1.04);
+}
+.lq-btn-primary:active {
+  filter: brightness(0.97);
+  box-shadow: 0 1px 2px rgba(30, 64, 175, 0.25);
+}
+
+/* ---- 8. Improved disabled state ------------------------------------------
+   Consistent, unmistakable, no pointer interaction.                          */
+button:disabled,
+input:disabled,
+select:disabled,
+textarea:disabled,
+[aria-disabled="true"],
+.disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  box-shadow: none;
+  filter: grayscale(0.15);
+}
+
+/* ---- 9. Clean wrapping for long Arabic / Bengali / translation text -------
+   Prevents horizontal overflow on narrow screens without touching the
+   protected .ayah-arabic flow rules' sizing/alignment.                       */
+.ayah-translation,
+.ayah-transliteration,
+.translation-text,
+.bengali-text,
+.wbw-translation {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+.bengali-text,
+.translation-text {
+  hyphens: auto;
+}
+
+/* ---- 10. Gentle fade-in utility (JS-opt-in) ------------------------------
+   Define but do not require. Respects reduced-motion via the guard above.    */
+@media (prefers-reduced-motion: no-preference) {
+  .lq-fade-in {
+    animation: lqFadeIn 0.25s ease-out both;
+  }
+}
+@keyframes lqFadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ==================== end Professional polish pass (v92) ==================== */

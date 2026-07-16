@@ -837,6 +837,8 @@ const TRANSLATIONS = {
     resources_cat_dua: "Duas & Supplications",
     resources_cat_seerah: "Seerah & Prophet's Life",
     resources_cat_hadith: "Hadith",
+    resources_cat_courses: "Courses & Lectures",
+    resources_cat_academic: "Academic & Manuscripts",
     resources_cat_bangla: "Bengali Resources",
     word_tap_repeat: "Double-tap a word for its repetition",
     about_surah: "About this surah",
@@ -1143,7 +1145,10 @@ const TRANSLATIONS = {
     ponder_themes: "Reflect by theme",
     ponder_all: "All",
     ponder_prev: "Previous ayah",
-    ponder_next: "Next ayah"
+    ponder_next: "Next ayah",
+    qa_title: "Learn Quranic Arabic",
+    seerah_title: "Seerah — Life of the Prophet ﷺ",
+    whyislam_title: "Why Islam?"
 
   },
 
@@ -1980,6 +1985,8 @@ const TRANSLATIONS = {
     resources_cat_dua: "দুআ ও মুনাজাত",
     resources_cat_seerah: "সীরাত ও নবীজীবন",
     resources_cat_hadith: "হাদিস",
+    resources_cat_courses: "কোর্স ও লেকচার",
+    resources_cat_academic: "একাডেমিক ও পাণ্ডুলিপি",
     resources_cat_bangla: "বাংলা রিসোর্স",
     word_tap_repeat: "শব্দে দুইবার ট্যাপ করলে পুনরাবৃত্তি",
     about_surah: "এই সূরা সম্পর্কে",
@@ -2286,7 +2293,10 @@ const TRANSLATIONS = {
     ponder_themes: "থিম অনুযায়ী ভাবুন",
     ponder_all: "সব",
     ponder_prev: "পূর্ববর্তী আয়াত",
-    ponder_next: "পরবর্তী আয়াত"
+    ponder_next: "পরবর্তী আয়াত",
+    qa_title: "কুরআনি আরবি শিখুন",
+    seerah_title: "সিরাত — নবী ﷺ-এর জীবনী",
+    whyislam_title: "কেন ইসলাম?"
 
   },
 

@@ -25,7 +25,10 @@ const TAB_META = {
   khatmah:      { emoji: '📅', key: 'khatmah_title' },
   tajweedlearn: { emoji: '🎨', key: 'tj_learn_title' },
   resources:    { emoji: '🔗', key: 'resources_title' },
-  mutashabihat: { emoji: '🪞', key: 'mutashabihat_title' }
+  mutashabihat: { emoji: '🪞', key: 'mutashabihat_title' },
+  quranicarabic: { emoji: '🔤', key: 'qa_title' },
+  seerah:       { emoji: '🌙', key: 'seerah_title' },
+  whyislam:     { emoji: '💡', key: 'whyislam_title' }
 };
 
 class TabSystem {

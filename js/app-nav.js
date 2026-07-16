@@ -23,7 +23,8 @@ const APP_NAV_PRIMARY = [
       { module: 'vocab',       emoji: '📚', label: 'learn_vocab_title' },
       { module: 'names',       emoji: '✨', label: 'learn_names_title' },
       { module: 'handwriting', emoji: '✍️', label: 'hw_title' },
-      { tab: 'tajweedlearn', emoji: '🎨', label: 'tj_learn_title' }
+      { tab: 'tajweedlearn', emoji: '🎨', label: 'tj_learn_title' },
+      { tab: 'quranicarabic', emoji: '🔤', label: 'qa_title' }
     ] },
   { id: 'memorize', emoji: '🎙️', label: 'memorize', modes: [
       { mode: 'speech', emoji: '🎙️', label: 'mem_mode_speech' },
@@ -34,6 +35,8 @@ const APP_NAV_PRIMARY = [
   { id: 'quiz',   emoji: '❓', label: 'quiz_center_title', tab: 'quiz' },
   { id: 'audio',  emoji: '🎧', label: 'audio',  tab: 'audio' },
   { id: 'mushaf', emoji: '📗', label: 'mushaf', tab: 'mushaf' },
+  { id: 'seerah', emoji: '🌙', label: 'seerah_title', tab: 'seerah' },
+  { id: 'whyislam', emoji: '💡', label: 'whyislam_title', tab: 'whyislam' },
   { id: 'resources', emoji: '🔗', label: 'resources_title', tab: 'resources' },
   { id: 'mutashabihat', emoji: '🪞', label: 'mutashabihat_title', tab: 'mutashabihat' }
 ];
