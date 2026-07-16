@@ -9,7 +9,10 @@
  * - Structured learning path (beginner → intermediate → advanced) driven by the
  *   same learned-tracker, with per-level progress bars.
  * - Makharij view: the classical 17 articulation points in 5 zones (pure HTML/CSS).
- * - Inline rule-identification drill: real color-annotated verse spans, 4 options.
+ * - Inline rule-identification drill: real color-annotated verse spans, 4 options
+ *   (with a persisted personal best score).
+ * - Reference view: a printable colour key for every rule, plus the classical
+ *   Noon-Sakinah/Tanween (4 rulings) and Meem-Sakinah (3 rulings) decision tables.
  * - "Common mistakes" card per rule family (textbook-level guidance).
  * - Curated reputable external resources.
  *
@@ -136,6 +139,47 @@ const MAKHARIJ_ZONES = [
     ] },
 ];
 
+/**
+ * The four rulings of Noon Sakinah (نْ) & Tanween (ـً ـٍ ـٌ), in the classical
+ * teaching order. Izhar Halqi has no colour in the highlighting engine (it is
+ * the default "clear" pronunciation), so it carries its own neutral swatch.
+ * en/bn text is embedded inline, matching the MAKHARIJ_ZONES style.
+ */
+const NOON_SAKINAH_RULES = [
+  { color: '#64748B', trigger: 'ء هـ ع ح غ خ',
+    names: { en: 'Izhar Halqi — clear', bn: 'ইযহার হালকি — স্পষ্ট' },
+    en: 'Before the six throat letters, pronounce the noon/tanween clearly with no extra ghunnah or merging.',
+    bn: 'ছয়টি গলার হরফের আগে নূন/তানউইন স্পষ্ট উচ্চারণ — অতিরিক্ত গুন্নাহ বা মিলন নয়।' },
+  { color: '#169777', trigger: 'ي ر م ل و ن',
+    names: { en: 'Idghaam — merging', bn: 'ইদগাম — মিলন' },
+    en: 'Merge into the letters of يرملون: with ghunnah in ي ن م و (ينمو), without ghunnah in ل ر.',
+    bn: 'يرملون-এর হরফে মিশে যায়: ي ن م و (ينمو)-তে গুন্নাহসহ, ل ر-এ গুন্নাহ ছাড়া।' },
+  { color: '#26BFFD', trigger: 'ب',
+    names: { en: 'Iqlab — conversion', bn: 'ইকলাব — রূপান্তর' },
+    en: 'Before ب the noon/tanween turns into a hidden meem sound, held with ghunnah.',
+    bn: 'ب-এর আগে নূন/তানউইন গুন্নাহসহ গোপন মীমের ধ্বনিতে বদলে যায়।' },
+  { color: '#9400A8', trigger: 'ت ث ج د ذ ز س ش ص ض ط ظ ف ق ك',
+    names: { en: 'Ikhfa — hiding', bn: 'ইখফা — গোপন' },
+    en: 'Before the remaining 15 letters, hide the noon lightly between izhar and idghaam, with ghunnah (~2 counts).',
+    bn: 'বাকি ১৫টি হরফের আগে নূন হালকাভাবে গোপন — ইযহার ও ইদগামের মাঝামাঝি, গুন্নাহসহ (~২ হরকত)।' },
+];
+
+/** The three rulings of Meem Sakinah (مْ). Izhar Shafawi uses a neutral swatch. */
+const MEEM_SAKINAH_RULES = [
+  { color: '#D500B7', trigger: 'ب',
+    names: { en: 'Ikhfa Shafawi — labial hiding', bn: 'ইখফা শাফাবি — ঠোঁটে গোপন' },
+    en: 'Before ب the meem sakinah is lightly hidden on the lips, held with ghunnah.',
+    bn: 'ب-এর আগে মীম সাকিন ঠোঁটে হালকাভাবে গোপন — গুন্নাহসহ।' },
+  { color: '#58B800', trigger: 'م',
+    names: { en: 'Idghaam Shafawi — labial merging', bn: 'ইদগাম শাফাবি — ঠোঁটে মিলন' },
+    en: 'Before another م the two meems merge into one doubled meem, held with ghunnah.',
+    bn: 'পরবর্তী م-এ দুই মীম মিশে একটি মুশাদ্দাদ মীম হয় — গুন্নাহসহ।' },
+  { color: '#64748B', trigger: '—',
+    names: { en: 'Izhar Shafawi — clear', bn: 'ইযহার শাফাবি — স্পষ্ট' },
+    en: 'Before all remaining letters pronounce the meem clearly — take special care with و and ف so it is not hidden.',
+    bn: 'বাকি সব হরফের আগে মীম স্পষ্ট উচ্চারণ — বিশেষত و ও ف-এর আগে যেন গোপন না হয়, সতর্ক থাকুন।' },
+];
+
 /** Common mistakes per rule family — standard textbook cautions only. */
 const TAJWEED_MISTAKES = {
   noon: {
@@ -224,6 +268,7 @@ class TajweedLearn {
     this._drillReq = 0;        // startDrill() request token
     this.bound = false;
     this.learned = this.loadLearned();
+    this.drillBest = this.loadDrillBest();  // { score, total } personal best
 
     window.addEventListener('tabChanged', (e) => {
       if (e.detail.tabId === 'tajweedlearn') this.render();
@@ -241,6 +286,22 @@ class TajweedLearn {
   }
   saveLearned() {
     try { localStorage.setItem('tajweedLearned', JSON.stringify([...this.learned])); } catch (e) { /* ignore */ }
+  }
+  loadDrillBest() {
+    try {
+      const b = JSON.parse(localStorage.getItem('tajweedDrillBest') || 'null');
+      return (b && typeof b.score === 'number' && typeof b.total === 'number' && b.total > 0) ? b : null;
+    } catch (e) { return null; }
+  }
+  /** Keep the run with the best score/total ratio (ties broken by more questions). */
+  saveDrillBest(score, total) {
+    if (!total) return;
+    const prev = this.drillBest;
+    const better = !prev || (score / total > prev.score / prev.total) ||
+      (score / total === prev.score / prev.total && total > prev.total);
+    if (!better) return;
+    this.drillBest = { score, total };
+    try { localStorage.setItem('tajweedDrillBest', JSON.stringify(this.drillBest)); } catch (e) { /* ignore */ }
   }
   lesson(k) { const l = TAJWEED_LESSONS[k] || {}; return l[this.language] || l.en || ''; }
   /** Rule display name in the UI language (technical Arabic terms transliterated). */
@@ -287,8 +348,11 @@ class TajweedLearn {
         return;
       }
       if (e.target.closest('[data-tj-drill-next]') && this.drill && this.drill.questions) {
-        this.drill.idx++; this.drill.picked = null; this.render(); return;
+        this.drill.idx++; this.drill.picked = null;
+        if (this.drill.idx >= this.drill.questions.length) this.saveDrillBest(this.drill.score, this.drill.questions.length);
+        this.render(); return;
       }
+      if (e.target.closest('[data-tj-print]')) { try { window.print(); } catch (err) { /* ignore */ } return; }
       const rule = e.target.closest('[data-tj-rule]');
       if (rule) {
         const k = rule.getAttribute('data-tj-rule');
@@ -455,6 +519,7 @@ class TajweedLearn {
     const pct = Math.round((learnedCount / keys.length) * 100);
     const pills = [
       ['rules', '📜', 'tj_nav_rules', 'Rules'],
+      ['reference', '🗂️', 'tj_nav_reference', 'Reference'],
       ['makharij', '👄', 'tj_nav_makharij', 'Makharij'],
       ['drill', '🎯', 'tj_nav_drill', 'Practice drill'],
     ].map(([v, em, key, fb]) => `
@@ -475,7 +540,10 @@ class TajweedLearn {
           </div>
         </div>
         <div class="flex flex-wrap justify-center gap-2 mb-6">${pills}</div>
-        ${this.view === 'makharij' ? this.makharijHtml() : this.view === 'drill' ? this.drillHtml() : this.rulesHtml(keys)}
+        ${this.view === 'makharij' ? this.makharijHtml()
+          : this.view === 'drill' ? this.drillHtml()
+          : this.view === 'reference' ? this.referenceHtml(keys)
+          : this.rulesHtml(keys)}
       </div>`;
     if (this.view === 'rules' && this.rule) this.loadExamples();
   }
@@ -617,6 +685,53 @@ class TajweedLearn {
       </div>`;
   }
 
+  /** Printable quick reference: colour key + noon/meem decision tables. */
+  referenceHtml(keys) {
+    const lang = this.language;
+    const legend = keys.map(k => {
+      const def = (typeof TAJWEED_RULES !== 'undefined' && TAJWEED_RULES[k]) || { color: '#888' };
+      const les = TAJWEED_LESSONS[k] || {};
+      return `
+        <div class="flex items-center gap-2 rounded-lg bg-gray-50 dark:bg-gray-900/40 px-2.5 py-2">
+          <span class="w-3.5 h-3.5 rounded-full shrink-0" style="background:${def.color}"></span>
+          <span class="flex-1 min-w-0 text-xs font-medium text-gray-700 dark:text-gray-200 truncate" dir="auto">${this.esc(this.ruleName(k))}</span>
+          <span class="ayah-arabic !text-base !leading-none text-gray-400 shrink-0 max-w-[8rem] truncate" dir="rtl">${this.esc(les.letters || '')}</span>
+        </div>`;
+    }).join('');
+    const decisionCard = (title, rows) => `
+      <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 mb-4">
+        <h3 class="font-semibold text-sm text-gray-800 dark:text-gray-100 mb-3" dir="auto">${title}</h3>
+        <div class="space-y-2">
+          ${rows.map(r => `
+            <div class="flex items-start gap-3 rounded-lg bg-gray-50 dark:bg-gray-900/40 p-2.5">
+              <span class="w-3 h-3 rounded-full shrink-0 mt-1.5" style="background:${r.color}"></span>
+              <div class="flex-1 min-w-0">
+                <div class="flex items-center gap-2 flex-wrap">
+                  <span class="text-sm font-semibold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(r.names[lang] || r.names.en)}</span>
+                  <span class="text-[11px] text-gray-400">${this.tt('tj_ref_trigger', 'when followed by')}</span>
+                  <span class="ayah-arabic !text-lg !leading-normal px-1.5 rounded" style="color:${r.color}" dir="rtl">${this.esc(r.trigger)}</span>
+                </div>
+                <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed mt-0.5" dir="auto">${this.esc(r[lang] || r.en)}</p>
+              </div>
+            </div>`).join('')}
+        </div>
+      </div>`;
+    return `
+      <div class="flex items-start justify-between gap-3 mb-4">
+        <div>
+          <h3 class="font-semibold text-gray-800 dark:text-gray-100">${this.tt('tj_ref_title', 'Quick reference & colour key')}</h3>
+          <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">${this.tt('tj_ref_subtitle', 'The colour used for each rule, plus the classical decision tables for noon and meem sakinah.')}</p>
+        </div>
+        <button data-tj-print class="shrink-0 px-3 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm hover:bg-gray-100 dark:hover:bg-gray-700">🖨️ ${this.tt('tj_ref_print', 'Print')}</button>
+      </div>
+      <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 mb-4">
+        <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-3">🎨 ${this.tt('tj_ref_legend', 'Colour key')}</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">${legend}</div>
+      </div>
+      ${decisionCard('🅝 ' + this.tt('tj_ref_noon_title', 'Noon Sakinah & Tanween'), NOON_SAKINAH_RULES)}
+      ${decisionCard('🅜 ' + this.tt('tj_ref_meem_title', 'Meem Sakinah'), MEEM_SAKINAH_RULES)}`;
+  }
+
   /** Inline "which rule?" drill built from real annotated verses. */
   drillHtml() {
     const d = this.drill;
@@ -624,9 +739,12 @@ class TajweedLearn {
       <h3 class="font-semibold text-gray-800 dark:text-gray-100">🎯 ${this.tt('tj_drill_title', 'Rule identification drill')}</h3>
       <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">${this.tt('tj_drill_intro', 'Read the highlighted letters in a real verse and pick the tajweed rule that applies.')}</p>`;
     const startBtn = `<button data-tj-drill-start class="px-5 py-2.5 rounded-lg bg-primary text-white text-sm font-medium hover:bg-primary/80">▶ ${this.tt('tj_drill_start', 'Start drill')}</button>`;
+    const bestBadge = this.drillBest ? `
+      <p class="text-xs text-amber-600 dark:text-amber-400 mt-2">🏅 ${this.tt('tj_drill_best', 'Best')}: ${this.drillBest.score} / ${this.drillBest.total}</p>` : '';
     if (!d) return `
       <div class="max-w-xl mx-auto rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-6 text-center">
         ${head}
+        ${bestBadge}
         <div class="flex flex-wrap justify-center gap-2 mt-4">
           ${startBtn}
           <button data-tj-quiz class="px-5 py-2.5 rounded-lg border border-gray-300 dark:border-gray-600 text-sm hover:bg-gray-100 dark:hover:bg-gray-700">❓ ${this.tt('tj_practice_quiz')}</button>
@@ -643,7 +761,8 @@ class TajweedLearn {
       return `
         <div class="max-w-xl mx-auto rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-6 text-center">
           <div class="text-4xl mb-2">${scorePct === 1 ? '🏆' : scorePct >= 0.5 ? '🎉' : '💪'}</div>
-          <p class="font-semibold text-gray-800 dark:text-gray-100 mb-4">${this.esc(this.tt('quiz_your_score').replace('{score}', d.score).replace('{total}', d.questions.length))}</p>
+          <p class="font-semibold text-gray-800 dark:text-gray-100 mb-1">${this.esc(this.tt('quiz_your_score').replace('{score}', d.score).replace('{total}', d.questions.length))}</p>
+          ${bestBadge ? `<p class="text-xs text-amber-600 dark:text-amber-400 mb-4">🏅 ${this.tt('tj_drill_best', 'Best')}: ${this.drillBest.score} / ${this.drillBest.total}</p>` : '<div class="mb-4"></div>'}
           <div class="flex flex-wrap justify-center gap-2">
             <button data-tj-drill-start class="px-5 py-2.5 rounded-lg bg-primary text-white text-sm font-medium hover:bg-primary/80">🔄 ${this.tt('retry')}</button>
             <button data-tj-quiz class="px-5 py-2.5 rounded-lg border border-gray-300 dark:border-gray-600 text-sm hover:bg-gray-100 dark:hover:bg-gray-700">❓ ${this.tt('tj_practice_quiz')}</button>

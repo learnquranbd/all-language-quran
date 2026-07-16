@@ -27,6 +27,7 @@ class TypeMemorize {
     this.timerId = null;
     this.lastResult = null;        // {pct, ms} of the last Check (for Next-ayah)
     this.session = { count: 0, sumPct: 0, sumMs: 0, items: [] }; // range-chain summary
+    this.reviewLsKey = 'tmReview'; // spaced-review schedule: range-key → {surah,from,to,due,pct}
 
     window.addEventListener('learnModuleSelected', (e) => {
       if (e.detail && e.detail.module === 'typememorize') this.render();
@@ -134,6 +135,8 @@ class TypeMemorize {
             </label>
           </div>
 
+          <div id="tm-review"></div>
+
           <div id="tm-target" class="${this.hideTarget ? 'hidden' : ''} ayah-arabic !text-2xl !leading-loose p-3 rounded-lg bg-gray-50 dark:bg-gray-900/40 max-h-56 overflow-y-auto" dir="rtl"></div>
 
           <div class="flex flex-wrap items-center gap-3 text-sm text-gray-600 dark:text-gray-300">
@@ -224,6 +227,7 @@ class TypeMemorize {
       this.renderStats();       // best score/time for this exact range
       this.liveCheck();         // counter + skeleton follow the selected range
       this.renderSessionBar();  // keep the running session banner in sync
+      this.renderReviewPanel(); // ranges due for spaced review
     } catch (e) { el.textContent = ''; }
   }
 
@@ -291,6 +295,64 @@ class TypeMemorize {
     el.textContent = `${t('typemem_best', lang)}: ${s.bestPct}%`
       + (s.bestTimeMs ? ` · ⏱ ${this.fmtTime(s.bestTimeMs)}` : '')
       + (s.attempts ? ` · ${s.attempts}×` : '');
+  }
+
+  /* ---------- spaced-review scheduling ---------- */
+
+  todayNum() { return Math.floor(Date.now() / 86400000); }
+
+  loadReview() {
+    try { return JSON.parse(localStorage.getItem(this.reviewLsKey)) || {}; }
+    catch (e) { return {}; }
+  }
+
+  saveReview(map) {
+    try { localStorage.setItem(this.reviewLsKey, JSON.stringify(map)); } catch (e) { /* full/blocked */ }
+  }
+
+  /** Schedule the just-checked range for future review; interval grows with accuracy. */
+  scheduleReview(pct) {
+    const [from, to] = this.range();
+    const k = `${this.surah}:${from}-${to}`;
+    const interval = pct >= 90 ? 5 : pct >= 75 ? 3 : pct >= 60 ? 1 : 0; // days until due
+    const map = this.loadReview();
+    const prev = map[k] || { reps: 0 };
+    map[k] = { surah: this.surah, from, to, due: this.todayNum() + interval,
+               pct, reps: (prev.reps || 0) + 1, ts: Date.now() };
+    this.saveReview(map);
+  }
+
+  /** Ranges whose due day is today or earlier, soonest first. */
+  dueReviews() {
+    const today = this.todayNum();
+    const map = this.loadReview();
+    return Object.keys(map)
+      .map(k => Object.assign({ k }, map[k]))
+      .filter(v => v && typeof v.due === 'number' && v.due <= today)
+      .sort((a, b) => (a.due - b.due) || (a.pct - b.pct));
+  }
+
+  renderReviewPanel() {
+    const el = this.root && this.root.querySelector('#tm-review');
+    if (!el) return;
+    const lang = this.language;
+    const due = this.dueReviews();
+    if (!due.length) { el.classList.add('hidden'); el.innerHTML = ''; return; }
+    el.classList.remove('hidden');
+    const chips = due.slice(0, 12).map(v => {
+      const label = `${v.surah}:${v.from}${v.to !== v.from ? '-' + v.to : ''}`;
+      return `<button data-tm-review="${v.surah}:${v.from}:${v.to}"
+                class="px-2.5 py-1 rounded-full text-xs border border-amber-300 dark:border-amber-700 text-amber-700 dark:text-amber-300 hover:bg-amber-100 dark:hover:bg-amber-900/40">
+                ${this.esc(label)} · ${v.pct || 0}%</button>`;
+    }).join(' ');
+    el.innerHTML = `
+      <div class="p-3 rounded-lg bg-amber-50 dark:bg-amber-900/20">
+        <div class="flex items-center justify-between mb-2">
+          <span class="text-xs uppercase text-amber-700 dark:text-amber-300">🔔 ${t('typemem_review', lang)} (${due.length})</span>
+          <button id="tm-review-clear" class="text-xs underline text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200">${t('clear', lang)}</button>
+        </div>
+        <div class="flex flex-wrap gap-1.5">${chips}</div>
+      </div>`;
   }
 
   /* ---------- per-word hint / reveal strip ---------- */
@@ -464,6 +526,8 @@ class TypeMemorize {
     this.lastResult = { pct, ms };
     const improved = this.saveStats(pct, ms);
     this.renderStats();
+    this.scheduleReview(pct);
+    this.renderReviewPanel();
 
     const res = this.root.querySelector('#tm-result');
     res.classList.remove('hidden');
@@ -570,6 +634,29 @@ class TypeMemorize {
     if (e.target.closest('#tm-reset-stats')) {
       try { localStorage.removeItem(this.statsKey()); } catch (e2) { /* ignore */ }
       this.renderStats();
+      return;
+    }
+    const rev = e.target.closest('[data-tm-review]');
+    if (rev) {
+      const parts = (rev.getAttribute('data-tm-review') || '').split(':').map(n => parseInt(n, 10));
+      if (parts.length === 3 && parts.every(n => n > 0)) {
+        this.surah = parts[0];
+        this.fromAyah = parts[1];
+        this.toAyah = parts[2];
+        const sSel = this.root.querySelector('#tm-surah');
+        if (sSel) sSel.value = String(this.surah);
+        this.fillRangeSelects();
+        const input = this.root.querySelector('#tm-input');
+        if (input) input.value = '';
+        const res2 = this.root.querySelector('#tm-result');
+        if (res2) res2.classList.add('hidden');
+        this.loadTarget();
+      }
+      return;
+    }
+    if (e.target.closest('#tm-review-clear')) {
+      try { localStorage.removeItem(this.reviewLsKey); } catch (e2) { /* ignore */ }
+      this.renderReviewPanel();
       return;
     }
     if (e.target.closest('#tm-next')) return this.nextAyah();

@@ -40,6 +40,16 @@ class WordRepeat {
     this.minCount = 1;           // hide terms repeated fewer than this many times
     this.filterText = '';        // live text filter over term + meaning + ref
 
+    // Audio-repetition trainer (enrichment): replay an ayah N times at an
+    // adjustable playback speed for memorization. Settings persist; a session
+    // counter tallies completed reps. Word-audio taps use the same speed.
+    this.play = this.loadPlay(); // { reps, speed }
+    this._repTotal = 0;          // reps requested for the current run
+    this._repLeft = 0;           // reps remaining in the current run
+    this._repeating = false;     // guards the pause-listener during a rep restart
+    this._audioMode = null;      // 'ayah' | 'word' — reps/counter apply to 'ayah' only
+    this.sessionReps = 0;        // ayah reps completed since load
+
     // Local i18n fallback for enrichment keys (translations.js is read-only here).
     // tt() prefers the global dictionary and only falls back to this map.
     this.i18n = {
@@ -48,14 +58,16 @@ class WordRepeat {
         wr_sort_alpha: 'Alphabetical', wr_min_count: 'Min ×', wr_filter_ph: 'Filter words…',
         wr_copy_list: 'Copy list', wr_top_words: 'Top repeated words', wr_overview: 'Overview',
         wr_most_repeated: 'Most repeated', wr_avg_rep: 'Avg / word', wr_find_in_search: 'Find in Search',
-        wr_showing: 'Showing', wr_of: 'of', wr_no_match: 'No terms match your filter.'
+        wr_showing: 'Showing', wr_of: 'of', wr_no_match: 'No terms match your filter.',
+        wr_speed: 'Speed', wr_reps: 'Repeat', wr_session: 'Session reps'
       },
       bn: {
         wr_sort: 'সাজান', wr_sort_count: 'সর্বাধিক পুনরাবৃত্ত', wr_sort_first: 'প্রথম উপস্থিতি',
         wr_sort_alpha: 'বর্ণানুক্রমিক', wr_min_count: 'সর্বনিম্ন ×', wr_filter_ph: 'শব্দ ফিল্টার করুন…',
         wr_copy_list: 'তালিকা কপি', wr_top_words: 'শীর্ষ পুনরাবৃত্ত শব্দ', wr_overview: 'সারসংক্ষেপ',
         wr_most_repeated: 'সর্বাধিক পুনরাবৃত্ত', wr_avg_rep: 'গড়/শব্দ', wr_find_in_search: 'সার্চে খুঁজুন',
-        wr_showing: 'দেখানো হচ্ছে', wr_of: 'এর মধ্যে', wr_no_match: 'আপনার ফিল্টারে কোনো শব্দ মেলেনি।'
+        wr_showing: 'দেখানো হচ্ছে', wr_of: 'এর মধ্যে', wr_no_match: 'আপনার ফিল্টারে কোনো শব্দ মেলেনি।',
+        wr_speed: 'গতি', wr_reps: 'পুনরাবৃত্তি', wr_session: 'সেশন পুনরাবৃত্তি'
       }
     };
 
@@ -116,9 +128,21 @@ class WordRepeat {
       if (sc) { this.scope = sc.getAttribute('data-scope'); this.openTerm = null; this.render(); return; }
       // Inline-verse audio (per word / full ayah)
       const wp = e.target.closest('[data-word-audio]');
-      if (wp) { const au = this.getAudio(); au.src = wp.getAttribute('data-word-audio'); au.play().catch(() => {}); return; }
+      if (wp) {
+        const au = this.getAudio(); this._audioMode = 'word';
+        au.src = wp.getAttribute('data-word-audio');
+        try { au.playbackRate = this.play.speed; } catch (er) {}
+        au.play().catch(() => {}); return;
+      }
       const fp = e.target.closest('[data-ayah-audio]');
       if (fp) { this.toggleAyahAudio(fp); return; }
+      // Playback trainer controls (cycle speed / repeat count; reset session tally)
+      const spd = e.target.closest('[data-wr-speed]');
+      if (spd) { this.cycleSpeed(); return; }
+      const rp = e.target.closest('[data-wr-reps]');
+      if (rp) { this.cycleReps(); return; }
+      const sess = e.target.closest('[data-wr-session]');
+      if (sess) { this.sessionReps = 0; this.refreshPlayButtons(); return; }
 
       // Root → full Sarf conjugation chart (explicit navigation)
       const sl = e.target.closest('[data-sarf-link]');
@@ -543,29 +567,103 @@ class WordRepeat {
   getAudio() {
     if (!this._ayahAudio) {
       this._ayahAudio = new Audio();
-      this._ayahAudio.addEventListener('pause', () => this.resetPlayIcon());
+      this._ayahAudio.addEventListener('pause', () => { if (!this._repeating) this.resetPlayIcon(); });
+      this._ayahAudio.addEventListener('ended', () => this.onAyahEnded());
     }
     return this._ayahAudio;
+  }
+
+  /** Load/save the persisted playback settings (repeat count + speed). */
+  loadPlay() {
+    const def = { reps: 1, speed: 1 };
+    try {
+      const o = JSON.parse(localStorage.getItem('wr_play') || 'null');
+      if (!o) return def;
+      const reps = [1, 3, 5, 7, 10].includes(o.reps) ? o.reps : 1;
+      const speed = [0.75, 1, 1.25, 1.5, 2].includes(o.speed) ? o.speed : 1;
+      return { reps, speed };
+    } catch (e) { return def; }
+  }
+  savePlay() { try { localStorage.setItem('wr_play', JSON.stringify(this.play)); } catch (e) {} }
+
+  cycleSpeed() {
+    const opts = [0.75, 1, 1.25, 1.5, 2];
+    this.play.speed = opts[(opts.indexOf(this.play.speed) + 1) % opts.length];
+    this.savePlay();
+    if (this._ayahAudio) { try { this._ayahAudio.playbackRate = this.play.speed; } catch (e) {} }
+    this.refreshPlayButtons();
+  }
+  cycleReps() {
+    const opts = [1, 3, 5, 7, 10];
+    this.play.reps = opts[(opts.indexOf(this.play.reps) + 1) % opts.length];
+    this.savePlay();
+    // Re-scope a run already in progress so the badge stays truthful
+    if (this._playingBtn && this._repTotal) {
+      this._repTotal = this.play.reps;
+      if (this._repLeft > this._repTotal) this._repLeft = this._repTotal;
+      if (this._playingBtn) this._playingBtn.innerHTML = this.ayahBtnLabel(true);
+    }
+    this.refreshPlayButtons();
+  }
+  refreshPlayButtons() {
+    this.container.querySelectorAll('[data-wr-speed]').forEach(b => { b.textContent = `⏩ ${this.play.speed}×`; });
+    this.container.querySelectorAll('[data-wr-reps]').forEach(b => { b.textContent = `🔁 ×${this.play.reps}`; });
+    this.container.querySelectorAll('[data-wr-session]').forEach(b => { b.textContent = `🎯 ${this.sessionReps}`; });
+  }
+
+  /** Label for a full-ayah button, showing rep progress (2/5) while playing. */
+  ayahBtnLabel(playing) {
+    const icon = playing ? '⏸' : '🔊';
+    const prog = (playing && this._repTotal > 1)
+      ? ` <span class="font-mono">${this._repTotal - this._repLeft + 1}/${this._repTotal}</span>` : '';
+    return `${icon} ${this.tt('play_full_ayah')}${prog}`;
   }
 
   /** Play/pause toggle for the full-ayah buttons: the icon flips 🔊 ↔ ⏸. */
   toggleAyahAudio(btn) {
     const au = this.getAudio();
     const src = btn.getAttribute('data-ayah-audio');
-    if (this._playingBtn === btn && !au.paused) { au.pause(); return; }
+    if (this._playingBtn === btn && !au.paused) { this._repLeft = 0; au.pause(); return; }
     this.resetPlayIcon();
+    this._audioMode = 'ayah';
+    this._repTotal = this.play.reps;
+    this._repLeft = this.play.reps;
     au.src = src;
+    try { au.playbackRate = this.play.speed; } catch (e) {}
     au.play().then(() => {
       this._playingBtn = btn;
-      btn.innerHTML = btn.innerHTML.replace('🔊', '⏸');
+      btn.innerHTML = this.ayahBtnLabel(true);
     }).catch(() => {});
   }
 
+  /** Natural end of an ayah: replay while reps remain, else stop + tally. */
+  onAyahEnded() {
+    if (this._audioMode !== 'ayah') return;
+    const au = this._ayahAudio;
+    this.bumpSession();
+    if (this._repLeft > 1 && this._playingBtn && au) {
+      this._repLeft--;
+      this._repeating = true;
+      try { au.currentTime = 0; } catch (e) {}
+      au.play().then(() => {
+        this._repeating = false;
+        if (this._playingBtn) this._playingBtn.innerHTML = this.ayahBtnLabel(true);
+      }).catch(() => { this._repeating = false; this.resetPlayIcon(); });
+    } else {
+      this._repLeft = 0;
+      this.resetPlayIcon();
+    }
+  }
+
+  bumpSession() { this.sessionReps++; this.refreshPlayButtons(); }
+
   resetPlayIcon() {
     if (this._playingBtn) {
-      this._playingBtn.innerHTML = this._playingBtn.innerHTML.replace('⏸', '🔊');
+      this._playingBtn.innerHTML = this.ayahBtnLabel(false);
       this._playingBtn = null;
     }
+    this._repLeft = 0;
+    this.refreshPlayButtons();
   }
 
   inlineVerseLoading() { return `<p class="text-center text-gray-400 py-3 text-sm">${this.tt('loading')}</p>`; }
@@ -591,7 +689,12 @@ class WordRepeat {
         <div class="flex items-center gap-2 mb-1">
           <span class="text-xs font-mono font-bold text-white px-2 py-0.5 rounded-md" style="background:${c}">${v.key}</span>
           <span class="text-xs text-gray-400">${this.esc(v.surahName || '')}</span>
-          <button data-ayah-audio="https://everyayah.com/data/Alafasy_128kbps/${pad(s)}${pad(a)}.mp3" class="ms-auto text-xs px-2.5 py-1 rounded-lg bg-primary text-white hover:bg-primary/80">🔊 ${this.tt('play_full_ayah')}</button>
+          <div class="ms-auto flex items-center gap-1">
+            <button data-wr-speed title="${this.esc(this.tt('wr_speed'))}" aria-label="${this.esc(this.tt('wr_speed'))}" class="text-xs px-2 py-1 rounded-lg border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">⏩ ${this.play.speed}×</button>
+            <button data-wr-reps title="${this.esc(this.tt('wr_reps'))}" aria-label="${this.esc(this.tt('wr_reps'))}" class="text-xs px-2 py-1 rounded-lg border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🔁 ×${this.play.reps}</button>
+            <button data-wr-session title="${this.esc(this.tt('wr_session'))}" aria-label="${this.esc(this.tt('wr_session'))}" class="text-xs px-2 py-1 rounded-lg border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🎯 ${this.sessionReps}</button>
+            <button data-ayah-audio="https://everyayah.com/data/Alafasy_128kbps/${pad(s)}${pad(a)}.mp3" class="text-xs px-2.5 py-1 rounded-lg bg-primary text-white hover:bg-primary/80">${this.ayahBtnLabel(false)}</button>
+          </div>
         </div>
         <div class="flex flex-wrap justify-center gap-x-1 mb-1" dir="rtl">${wbw}</div>
         <p class="text-center text-sm text-gray-600 dark:text-gray-300" dir="auto">${v.translation || ''}</p>

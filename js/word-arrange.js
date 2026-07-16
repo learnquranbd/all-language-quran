@@ -28,6 +28,24 @@ class WordArrange {
     this.placed = [];          // arrange-mode: pool indices placed into slots (in order)
     this.rendered = false;
 
+    // Enrichment state: move counter, timer, streak, per-ayah best score, audio.
+    this.moves = 0;            // place + unplace + hint actions this attempt
+    this.hintsUsed = 0;
+    this.startTime = null;     // set on first activity; drives the live timer
+    this._timerInt = null;
+    this._newBest = false;     // last solve beat the stored best for this ayah
+    this.streak = this.loadStreak();
+    this._audio = null;
+
+    // Local i18n fallback (translations.js is read-only). tt() prefers the
+    // global dictionary and falls back to this map for the enrichment keys.
+    this.i18n = {
+      en: { wa_moves: 'Moves', wa_time: 'Time', wa_streak: 'Streak', wa_best: 'Best',
+            wa_hint: 'Hint', wa_new_best: 'New best!', wa_hear_word: 'Hear word' },
+      bn: { wa_moves: 'চাল', wa_time: 'সময়', wa_streak: 'ধারা', wa_best: 'সেরা',
+            wa_hint: 'ইঙ্গিত', wa_new_best: 'নতুন সেরা!', wa_hear_word: 'শব্দ শুনুন' }
+    };
+
     window.addEventListener('learnModuleSelected', (e) => {
       if (e.detail && e.detail.module === 'wordarrange') this.render();
     });
@@ -42,7 +60,78 @@ class WordArrange {
     });
   }
 
-  tt(key) { return t(key, this.language); }
+  tt(key) {
+    const g = t(key, this.language);
+    if (g !== key) return g;                 // present in the global dictionary
+    const loc = (this.i18n[this.language] || {})[key] || this.i18n.en[key];
+    return loc || key;                       // enrichment key → local fallback
+  }
+
+  // ---- Enrichment helpers: persistence, timer, audio ---------------------
+  loadStreak() { try { return parseInt(localStorage.getItem('wa_streak'), 10) || 0; } catch (e) { return 0; } }
+  saveStreak() { try { localStorage.setItem('wa_streak', String(this.streak)); } catch (e) {} }
+  loadBest() { try { return JSON.parse(localStorage.getItem('wa_best') || '{}') || {}; } catch (e) { return {}; } }
+  saveBest(o) { try { localStorage.setItem('wa_best', JSON.stringify(o)); } catch (e) {} }
+  bestFor(surah, ayah) { return this.loadBest()[`${surah}:${ayah}`] || null; }
+
+  getAudio() { if (!this._audio) this._audio = new Audio(); return this._audio; }
+  playAudio(src) { if (!src) return; try { const a = this.getAudio(); a.src = src; a.play().catch(() => {}); } catch (e) {} }
+
+  startTimer() {
+    if (!this.startTime) this.startTime = Date.now();
+    if (this._timerInt) return;
+    this._timerInt = setInterval(() => {
+      const el = this.root && this.root.querySelector('#wa-timer');
+      if (el) el.textContent = this.fmtTime(this.elapsed());
+    }, 500);
+  }
+  stopTimer() { if (this._timerInt) { clearInterval(this._timerInt); this._timerInt = null; } }
+  elapsed() { return this.startTime ? Math.floor((Date.now() - this.startTime) / 1000) : 0; }
+  fmtTime(s) { const m = Math.floor(s / 60), ss = s % 60; return `${m}:${String(ss).padStart(2, '0')}`; }
+
+  /** Briefly flash the pool word that belongs in the next empty slot. */
+  showHint() {
+    if (!this.root || !this.words) return;
+    const slot = this.placed.length;
+    if (slot >= this.words.length) return;
+    const target = this.words[slot] && this.words[slot].arabic;
+    if (!target) return;
+    this.hintsUsed++;
+    this.moves++;                 // hints count against the move score
+    this.startTimer();
+    const btn = [...this.root.querySelectorAll('[data-place]')].find(b => {
+      const w = !b.disabled && this.wordAt(parseInt(b.getAttribute('data-place'), 10));
+      return w && w.arabic === target;
+    });
+    if (btn) {
+      btn.classList.add('ring-4', 'ring-amber-400', 'relative', 'z-10');
+      setTimeout(() => btn.classList.remove('ring-4', 'ring-amber-400', 'z-10'), 1200);
+    }
+    const mv = this.root.querySelector('#wa-moves');
+    if (mv) mv.textContent = String(this.moves);
+  }
+
+  /** When all slots are filled, freeze the timer and update streak + best. */
+  evaluateIfDone() {
+    if (!this.words || this.placed.length !== this.words.length) return;
+    if (this._scored) { this.stopTimer(); return; }   // score a completed grid once
+    const correct = this.placed.every((p, i) => this.wordAt(p) && this.wordAt(p).arabic === this.words[i].arabic);
+    this.stopTimer();
+    this._scored = true;
+    this._newBest = false;
+    if (correct) { this.streak++; this.saveStreak(); this.recordBest(); }
+    else { this.streak = 0; this.saveStreak(); }
+  }
+
+  recordBest() {
+    const key = `${this.surah}:${this.ayah}`;
+    const best = this.loadBest();
+    const cur = best[key];
+    const score = { moves: this.moves, time: this.elapsed(), hints: this.hintsUsed };
+    if (!cur || score.moves < cur.moves || (score.moves === cur.moves && score.time < cur.time)) {
+      best[key] = score; this.saveBest(best); this._newBest = true;
+    }
+  }
 
   render() {
     this.rendered = true;
@@ -96,6 +185,13 @@ class WordArrange {
     }
     this.revealed = new Set();
     this.decoys = [];
+    // Fresh attempt: reset the move counter, timer and best-flag.
+    this.moves = 0;
+    this.hintsUsed = 0;
+    this.startTime = null;
+    this._newBest = false;
+    this._scored = false;
+    this.stopTimer();
     if (this.mode === 'arrange' && this.difficulty === 'hard') {
       try { await this.loadDecoys(); } catch (e) { /* hard mode degrades to normal pool */ }
     }
@@ -184,7 +280,10 @@ class WordArrange {
           return `
             <div class="flex flex-col items-center max-w-[110px]">
               <button data-reveal="${i}" class="ayah-arabic !text-2xl !leading-loose !mb-0 !pb-0 !border-b-0 px-1 transition ${shown ? '' : 'blur-sm hover:blur-none'}" title="${this.tt('wa_tap_reveal')}">${this.esc(w.arabic)}</button>
-              <span class="text-[0.625rem] text-gray-500 dark:text-gray-400 mt-1 text-center leading-tight break-words" dir="auto">${this.esc(w.meaning)}</span>
+              <span class="flex items-center gap-1 mt-1">
+                <span class="text-[0.625rem] text-gray-500 dark:text-gray-400 text-center leading-tight break-words" dir="auto">${this.esc(w.meaning)}</span>
+                ${w.audio ? `<button data-wa-audio="${this.esc(w.audio)}" title="${this.esc(this.tt('wa_hear_word'))}" aria-label="${this.esc(this.tt('wa_hear_word'))}" class="text-xs text-gray-400 hover:text-primary focus:outline-none">🔊</button>` : ''}
+              </span>
             </div>`;
         }).join('')}
       </div>`;
@@ -196,7 +295,14 @@ class WordArrange {
     const allCorrect = done && this.placed.every((p, i) => this.wordAt(p) && this.wordAt(p).arabic === this.words[i].arabic);
     const info = (typeof getSurahByNumber === 'function') ? getSurahByNumber(this.surah) : null;
     const hasNext = info && this.ayah < info.ayahCount;
+    const best = this.bestFor(this.surah, this.ayah);
     board.innerHTML = `
+      <div class="flex flex-wrap items-center justify-center gap-x-4 gap-y-1 mb-3 text-xs text-gray-500 dark:text-gray-400">
+        <span>${this.tt('wa_moves')}: <b id="wa-moves" class="text-gray-700 dark:text-gray-200">${this.moves}</b></span>
+        <span>${this.tt('wa_time')}: <b id="wa-timer" class="text-gray-700 dark:text-gray-200 font-mono">${this.fmtTime(this.elapsed())}</b></span>
+        <span>${this.tt('wa_streak')}: <b class="text-gray-700 dark:text-gray-200">🔥 ${this.streak}</b></span>
+        ${best ? `<span>${this.tt('wa_best')}: <b class="text-gray-700 dark:text-gray-200">${best.moves} · ${this.fmtTime(best.time)}</b></span>` : ''}
+      </div>
       <p class="text-center text-sm text-gray-500 dark:text-gray-400 mb-4">${this.tt('wa_tap_hint')}</p>
       <div class="flex flex-wrap gap-2 justify-center mb-5" dir="rtl">
         ${this.words.map((w, i) => {
@@ -210,7 +316,10 @@ class WordArrange {
                        : 'border-dashed border-gray-300 dark:border-gray-600'}">
                 <span class="ayah-arabic !text-2xl !leading-normal !mb-0 !pb-0 !border-b-0">${filled ? this.esc(this.wordAt(placedIdx)?.arabic || '') : ''}</span>
               </button>
-              <span class="text-[0.625rem] text-gray-500 dark:text-gray-400 mt-1 max-w-[72px] text-center leading-tight break-words" dir="auto">${this.esc(w.meaning)}</span>
+              <span class="flex items-center gap-1 mt-1 max-w-[72px]">
+                <span class="text-[0.625rem] text-gray-500 dark:text-gray-400 text-center leading-tight break-words" dir="auto">${this.esc(w.meaning)}</span>
+                ${filled && this.wordAt(placedIdx) && this.wordAt(placedIdx).audio ? `<button data-wa-audio="${this.esc(this.wordAt(placedIdx).audio)}" title="${this.esc(this.tt('wa_hear_word'))}" aria-label="${this.esc(this.tt('wa_hear_word'))}" class="text-xs text-gray-400 hover:text-primary focus:outline-none">🔊</button>` : ''}
+              </span>
             </div>`;
         }).join('')}
       </div>
@@ -222,8 +331,10 @@ class WordArrange {
           }).join('')}
         </div>
         <div class="flex flex-wrap items-center justify-center gap-2 mt-4">
+          <button data-hint ${done ? 'disabled' : ''} class="text-xs px-3 py-1.5 rounded-lg border border-amber-300 dark:border-amber-500/50 text-amber-600 dark:text-amber-300 hover:bg-amber-50 dark:hover:bg-amber-900/20 disabled:opacity-40" title="${this.tt('wa_hint')}">💡 ${this.tt('wa_hint')}</button>
           <button data-reset class="text-xs px-3 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700">${this.tt('wa_reset')}</button>
           ${done ? `<span class="text-sm font-semibold ${allCorrect ? 'text-green-600 dark:text-green-400' : 'text-red-500 dark:text-red-400'}">${allCorrect ? '✓ ' + this.tt('wa_correct') : '✗ ' + this.tt('wa_wrong')}</span>` : ''}
+          ${allCorrect && this._newBest ? `<span class="text-xs font-semibold text-amber-600 dark:text-amber-300">🏆 ${this.tt('wa_new_best')}</span>` : ''}
           ${allCorrect && hasNext ? `<button data-ayah-nav="next" class="text-xs px-4 py-1.5 rounded-lg bg-primary text-white hover:bg-primary/80">${this.tt('wa_next_ayah')} →</button>` : ''}
         </div>
       </div>`;
@@ -247,6 +358,12 @@ class WordArrange {
       return;
     }
 
+    // Tap-to-hear a word's recitation (reveal words + filled arrange slots)
+    const aud = e.target.closest('[data-wa-audio]');
+    if (aud) { this.playAudio(aud.getAttribute('data-wa-audio')); return; }
+    const hint = e.target.closest('[data-hint]');
+    if (hint && !hint.disabled) { this.showHint(); return; }
+
     const revealAll = e.target.closest('[data-reveal-all]');
     if (revealAll) {
       if (this.revealed.size === this.words.length) this.revealed = new Set();
@@ -254,14 +371,24 @@ class WordArrange {
       this.renderBoard(); return;
     }
     const reveal = e.target.closest('[data-reveal]');
-    if (reveal) { this.revealed.add(parseInt(reveal.getAttribute('data-reveal'))); this.renderBoard(); return; }
+    if (reveal) {
+      const i = parseInt(reveal.getAttribute('data-reveal'), 10);
+      this.revealed.add(i);
+      const w = this.words && this.words[i];
+      if (w && w.audio) this.playAudio(w.audio);   // hear it as you reveal it
+      this.renderBoard(); return;
+    }
 
     const place = e.target.closest('[data-place]');
-    if (place && !place.disabled) { this.placed.push(parseInt(place.getAttribute('data-place'))); this.renderBoard(); return; }
+    if (place && !place.disabled) {
+      this.placed.push(parseInt(place.getAttribute('data-place'), 10));
+      this.moves++; this.startTimer(); this.evaluateIfDone();
+      this.renderBoard(); return;
+    }
     const unplace = e.target.closest('[data-unplace]');
-    if (unplace) { const slot = parseInt(unplace.getAttribute('data-unplace')); this.placed.splice(slot, 1); this.renderBoard(); return; }
+    if (unplace) { const slot = parseInt(unplace.getAttribute('data-unplace'), 10); this.placed.splice(slot, 1); this.moves++; this._scored = false; this.renderBoard(); return; }
     const reset = e.target.closest('[data-reset]');
-    if (reset) { this.placed = []; this.renderBoard(); return; }
+    if (reset) { this.placed = []; this.moves = 0; this.startTime = null; this._scored = false; this.stopTimer(); this.renderBoard(); return; }
   }
 
   esc(s) { return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])); }

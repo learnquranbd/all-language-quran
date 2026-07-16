@@ -17,6 +17,12 @@ class MemorizeChecker {
     this.listening = false;
     this.typing = false;      // keyboard-only fallback active
     this.hideWords = true;
+    // Progressive difficulty: how much of the (not-yet-revealed) text to blur.
+    // 1=25%, 2=50%, 3=75%, 4=100% — deterministic per word index.
+    this.hideLevel = 4;
+    // Limited "peek" hints per session (👁️ temporarily un-blurs everything)
+    this.peekMax = 3;
+    this.peeksUsed = 0;
     this.recognition = null;
     this.startTime = null;
     this.startWordIndex = 0;  // "restart from ayah" support
@@ -51,6 +57,7 @@ class MemorizeChecker {
       this.drill = null;
       this.activeEnd = null;
       this.startWordIndex = 0;
+      this.peeksUsed = 0;
       this.progress = this.loadProgress();
       this.render();
       this.loadStoredRecordings();
@@ -201,11 +208,20 @@ class MemorizeChecker {
             ${t('reset', lang)}
           </button>
           <button id="mem-peek" class="px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700" title="${t('mem_peek', lang)}">
-            👁️ ${t('mem_peek', lang)}
+            👁️ <span id="mem-peek-label">${t('mem_peek', lang)} (${Math.max(0, this.peekMax - this.peeksUsed)})</span>
           </button>
           <label class="flex items-center gap-2 ml-auto text-sm text-gray-600 dark:text-gray-300 cursor-pointer">
             <input type="checkbox" id="mem-hide" ${this.hideWords ? 'checked' : ''} class="w-4 h-4">
             ${t('hide_words', lang)}
+          </label>
+          <label class="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-300">
+            ${t('mem_hide_level', lang)}:
+            <select id="mem-hide-level" class="rounded border border-gray-300 dark:border-gray-600 bg-transparent px-2 py-1">
+              <option value="1" ${this.hideLevel === 1 ? 'selected' : ''}>25%</option>
+              <option value="2" ${this.hideLevel === 2 ? 'selected' : ''}>50%</option>
+              <option value="3" ${this.hideLevel === 3 ? 'selected' : ''}>75%</option>
+              <option value="4" ${this.hideLevel === 4 ? 'selected' : ''}>100%</option>
+            </select>
           </label>
         </div>
 
@@ -262,6 +278,11 @@ class MemorizeChecker {
     this.container.querySelector('#mem-peek').addEventListener('click', () => this.peek());
     this.container.querySelector('#mem-hide').addEventListener('change', (e) => {
       this.hideWords = e.target.checked;
+      this.applyHideMode();
+    });
+    const hideLevelSel = this.container.querySelector('#mem-hide-level');
+    if (hideLevelSel) hideLevelSel.addEventListener('change', (e) => {
+      this.hideLevel = parseInt(e.target.value) || 4;
       this.applyHideMode();
     });
     this.container.querySelector('#mem-leniency').addEventListener('change', (e) => {
@@ -341,10 +362,25 @@ class MemorizeChecker {
     this.markCompletedAyahs();
   }
 
+  /** Fraction of not-yet-revealed words to blur, from the difficulty level. */
+  hideFraction() {
+    return [0.25, 0.5, 0.75, 1][(this.hideLevel || 4) - 1] ?? 1;
+  }
+
+  /** Deterministic per-index decision so the same words stay hidden while typing. */
+  shouldBlur(idx) {
+    if (!this.hideWords) return false;
+    const frac = this.hideFraction();
+    if (frac >= 1) return true;
+    if (frac <= 0) return false;
+    const h = ((idx * 1103515245 + 12345) >>> 0) % 1000;
+    return h < frac * 1000;
+  }
+
   applyHideMode() {
-    this.words.forEach(w => {
+    this.words.forEach((w, idx) => {
       const revealed = w.el.dataset.state === 'correct' || w.el.dataset.state === 'missed';
-      w.el.style.filter = (this.hideWords && !revealed) ? 'blur(8px)' : '';
+      w.el.style.filter = (!revealed && this.shouldBlur(idx)) ? 'blur(8px)' : '';
     });
   }
 
@@ -546,6 +582,7 @@ class MemorizeChecker {
     this.activeEnd = null;
     this.finalTranscript = '';
     this.startWordIndex = 0;
+    this.peeksUsed = 0;
     this.diag = [];
     this.setStatus('');
     const summary = this.container.querySelector('#mem-summary');
@@ -665,7 +702,7 @@ class MemorizeChecker {
         if (idx === currentIndex && (this.listening || this.typing)) {
           el.classList.add('bg-amber-100', 'dark:bg-amber-900/40');
         }
-        if (this.hideWords) el.style.filter = 'blur(8px)';
+        el.style.filter = this.shouldBlur(idx) ? 'blur(8px)' : '';
       }
     });
   }
@@ -1018,9 +1055,22 @@ class MemorizeChecker {
   /* ---------- Peek & keyboard-only fallback ---------- */
 
   peek() {
+    if (this.peeksUsed >= this.peekMax) {
+      this.setStatus(`👁️ ${t('mem_peek_none', this.language)}`);
+      return;
+    }
+    this.peeksUsed++;
+    this.updatePeekLabel();
     this.words.forEach(w => { w.el.style.filter = ''; });
     clearTimeout(this._peekTimer);
     this._peekTimer = setTimeout(() => this.applyHideMode(), 2500);
+  }
+
+  updatePeekLabel() {
+    const el = this.container.querySelector('#mem-peek-label');
+    if (el) el.textContent = `${t('mem_peek', this.language)} (${Math.max(0, this.peekMax - this.peeksUsed)})`;
+    const btn = this.container.querySelector('#mem-peek');
+    if (btn) btn.classList.toggle('opacity-50', this.peeksUsed >= this.peekMax);
   }
 
   toggleTyping() {

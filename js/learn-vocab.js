@@ -33,7 +33,12 @@ const VOCAB_I18N_FALLBACK = {
   vocab_listen_prompt:  { en: 'Listen, then choose the meaning', bn: 'শুনে সঠিক অর্থটি বেছে নিন' },
   vocab_play_word:      { en: 'Play word audio', bn: 'শব্দটি শুনুন' },
   vocab_mastery:        { en: 'Mastery by theme', bn: 'বিষয়ভিত্তিক অগ্রগতি' },
-  vocab_core_words:     { en: 'Core 50 words', bn: 'মূল ৫০ শব্দ' }
+  vocab_core_words:     { en: 'Core 50 words', bn: 'মূল ৫০ শব্দ' },
+  vocab_favorites:      { en: 'Favorites', bn: 'প্রিয়' },
+  vocab_favorite:       { en: 'Favorite', bn: 'প্রিয়' },
+  vocab_search:         { en: 'Search words…', bn: 'শব্দ খুঁজুন…' },
+  vocab_no_matches:     { en: 'No matching words', bn: 'কোনো মিল পাওয়া শব্দ নেই' },
+  vocab_clear_search:   { en: 'Clear', bn: 'মুছুন' }
 };
 
 class VocabTrainer {
@@ -47,7 +52,8 @@ class VocabTrainer {
 
     this.rendered = false;
     this.mode = 'flashcards';
-    this.category = 'all';       // flashcards filter: 'all' or a VOCAB_THEMES id
+    this.category = 'all';       // flashcards filter: 'all', 'fav', or a VOCAB_THEMES id
+    this.search = '';            // flashcards free-text filter (arabic/translit/meaning)
 
     // Quiz state
     this.quiz = null;
@@ -80,6 +86,17 @@ class VocabTrainer {
     });
 
     this.root.addEventListener('click', (e) => this.onClick(e));
+    this.root.addEventListener('input', (e) => this.onInput(e));
+  }
+
+  /** Live search box in flashcards — filter without losing input focus. */
+  onInput(e) {
+    const box = e.target.closest('[data-vsearch]');
+    if (!box) return;
+    this.search = box.value || '';
+    this.page = 0;
+    this._focusSearch = true;
+    this.render();
   }
 
   // ---------- persistence ----------
@@ -131,6 +148,29 @@ class VocabTrainer {
     try {
       localStorage.setItem('vocabReview', JSON.stringify(obj));
     } catch (err) { /* storage unavailable — session-only review */ }
+  }
+
+  /** Favorite/starred words, stored as an array of Arabic forms. */
+  getFav() {
+    try {
+      const raw = localStorage.getItem('lq_vocab_fav');
+      const arr = raw ? JSON.parse(raw) : [];
+      return Array.isArray(arr) ? arr : [];
+    } catch (err) {
+      return [];
+    }
+  }
+
+  saveFav(arr) {
+    try {
+      localStorage.setItem('lq_vocab_fav', JSON.stringify(arr));
+    } catch (err) { /* storage unavailable — session-only favorites */ }
+  }
+
+  toggleFav(arabic) {
+    if (!arabic) return;
+    const fav = this.getFav();
+    this.saveFav(fav.includes(arabic) ? fav.filter(x => x !== arabic) : fav.concat(arabic));
   }
 
   // ---------- helpers ----------
@@ -203,6 +243,26 @@ class VocabTrainer {
       [a[i], a[j]] = [a[j], a[i]];
     }
     return a;
+  }
+
+  /** True if a deck word matches the lowercased search query (arabic/translit/meaning). */
+  matchesSearch(w, q) {
+    if (!q) return true;
+    if ((w.arabic || '').toLowerCase().includes(q)) return true;
+    if ((w.translit || '').toLowerCase().includes(q)) return true;
+    const m = w.dyn ? this._dynMeaning(`${w.norm}:${this.language}`) : this.meaningOf(w);
+    return !!(m && String(m).toLowerCase().includes(q));
+  }
+
+  /** Re-focus the search box after a filter-triggered re-render (caret at end). */
+  restoreSearchFocus() {
+    if (!this.root) return;
+    requestAnimationFrame(() => {
+      const box = this.root.querySelector('[data-vsearch]');
+      if (!box) return;
+      box.focus();
+      try { const n = box.value.length; box.setSelectionRange(n, n); } catch (e) { /* type=search may reject */ }
+    });
   }
 
   hasTTS() {
@@ -318,6 +378,13 @@ class VocabTrainer {
     }
 
     // Grid view actions
+    const vfav = e.target.closest('[data-vfav]');
+    if (vfav) {
+      e.stopPropagation();
+      this.toggleFav(vfav.getAttribute('data-vfav'));
+      this.render();
+      return;
+    }
     const vknow = e.target.closest('[data-vknow]');
     if (vknow) {
       const w = vknow.getAttribute('data-vknow');
@@ -367,6 +434,7 @@ class VocabTrainer {
         if (cat !== this.category) {
           this.category = cat;
           this.page = 0;
+          this.search = '';
           this.revealed = new Set();
           this.render();
         }
@@ -506,14 +574,23 @@ class VocabTrainer {
   deckAll() {
     const known = new Set(this.getKnown());
     let list;
-    if (this.category && this.category !== 'all' && typeof VOCAB_THEMES !== 'undefined') {
+    if (this.category === 'fav') {
+      const fav = new Set(this.getFav());
+      const seen = new Set();
+      list = this.studyPool().concat(this.extra || []).filter(w => {
+        if (!fav.has(w.arabic) || seen.has(w.arabic)) return false;
+        seen.add(w.arabic);
+        return true;
+      }).map(w => ({ ...w, key: w.arabic }));
+    } else if (this.category && this.category !== 'all' && typeof VOCAB_THEMES !== 'undefined') {
       const th = VOCAB_THEMES.find(x => x.id === this.category);
       list = th ? th.words.map(w => ({ ...w, key: w.arabic })) : [];
     } else {
       list = VOCAB_WORDS.map(w => ({ ...w, key: w.arabic }))
         .concat(this.extra || []);
     }
-    return list.map(w => ({ ...w, key: w.key || w.arabic, known: known.has(w.arabic) }));
+    const favSet = new Set(this.getFav());
+    return list.map(w => ({ ...w, key: w.key || w.arabic, known: known.has(w.arabic), fav: favSet.has(w.arabic) }));
   }
 
   /** Everything trackable for progress: curated + themes + corpus extras. */
@@ -565,6 +642,7 @@ class VocabTrainer {
     const occ = this.audioOcc(w);
     const ref = w.ref || (occ ? occ.split(':').slice(0, 2).join(':') : null);
     const known = this.getKnown().includes(w.arabic);
+    const fav = this.getFav().includes(w.arabic);
     return `
       <div class="rounded-2xl bg-gradient-to-br from-primary to-secondary text-white p-5 shadow-lg">
         <div class="flex items-center justify-between text-xs font-semibold uppercase tracking-wide opacity-90">
@@ -582,6 +660,8 @@ class VocabTrainer {
                     class="w-11 h-11 rounded-full bg-white/20 hover:bg-white/35 text-xl transition-colors">🔊</button>
             ${ref ? `<button data-vocab-verse="${ref}" data-word="${this.escapeHtml(w.arabic)}" title="${t('names_search_quran', lang)}"
                     class="w-11 h-11 rounded-full bg-white/20 hover:bg-white/35 text-xl transition-colors">📖</button>` : ''}
+            <button data-vfav="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_favorite')}" aria-label="${this.tt('vocab_favorite')}"
+                    class="w-11 h-11 rounded-full ${fav ? 'bg-rose-500' : 'bg-white/20 hover:bg-white/35'} text-xl transition-colors">${fav ? '❤️' : '🤍'}</button>
             <button data-vknow="${this.escapeHtml(w.arabic)}" title="${t('vocab_know_it', lang)}"
                     class="w-11 h-11 rounded-full ${known ? 'bg-green-500' : 'bg-white/20 hover:bg-white/35'} text-xl transition-colors">✓</button>
           </div>
@@ -594,16 +674,23 @@ class VocabTrainer {
     const lang = this.language;
     this.ensureExtra();
     this.ensureWordIdx();
-    const all = this.deckAll();
+    // Empty favorites view can strand the user on an invisible chip → fall back.
+    if (this.category === 'fav' && !this.getFav().length) this.category = 'all';
+    const deck = this.deckAll();
+    const q = (this.search || '').trim().toLowerCase();
+    const all = q ? deck.filter(w => this.matchesSearch(w, q)) : deck;
     const pageSize = 24;
     const shownCount = Math.min(((this.page || 0) + 1) * pageSize, all.length);
     const items = all.slice(0, shownCount);
     const show = this.showMeanings();
     const knownCount = all.filter(w => w.known).length;
+    const favCount = this.getFav().length;
     setTimeout(() => this.prefetchDyn(items), 0);
+    if (this._focusSearch) { this._focusSearch = false; this.restoreSearchFocus(); }
 
     const themes = (typeof VOCAB_THEMES !== 'undefined') ? VOCAB_THEMES : [];
     const cats = [{ id: 'all', icon: '⭐', name: this.tt('vocab_all') }]
+      .concat(favCount ? [{ id: 'fav', icon: '❤️', name: this.tt('vocab_favorites') }] : [])
       .concat(themes.map(th => ({ id: th.id, icon: th.icon, name: th.names[lang] || th.names.en })));
 
     return `
@@ -620,13 +707,24 @@ class VocabTrainer {
                   </button>`;
         }).join('')}
       </div>
+      <div class="max-w-sm mx-auto relative">
+        <input data-vsearch type="search" value="${this.escapeHtml(this.search || '')}"
+               placeholder="🔍 ${this.tt('vocab_search')}" dir="auto"
+               class="w-full ps-3 pe-8 py-2 rounded-full text-sm bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-800 dark:text-gray-100 focus:outline-none focus:border-primary dark:focus:border-blue-400" />
+      </div>
       <div class="flex flex-wrap items-center justify-center gap-3 text-sm text-gray-500 dark:text-gray-400">
         <span><b class="text-gray-800 dark:text-gray-100">${all.length}</b> ${t('vocab_words_label', lang)}</span>
         <span>✓ <b class="text-green-600">${knownCount}</b></span>
+        ${favCount ? `<span>❤️ <b class="text-rose-500">${favCount}</b></span>` : ''}
         <button data-action="vmeanings" class="px-3 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 text-xs">
           ${show ? '🙈 ' + t('vocab_hide_meanings', lang) : '👁 ' + t('vocab_show_meanings', lang)}
         </button>
       </div>
+      ${all.length === 0 ? `
+        <div class="text-center text-gray-500 dark:text-gray-400 py-8">
+          <div class="text-4xl mb-2">🔍</div>
+          <p class="text-sm">${this.tt('vocab_no_matches')}</p>
+        </div>` : ''}
       <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-2">
         ${items.map((w, i) => {
           const key = w.dyn ? `${w.norm}:${lang}` : '';
@@ -641,10 +739,12 @@ class VocabTrainer {
                 ${revealed ? this.escapeHtml(this.cardMeaning(w)) : '•••'}
               </span>
             </button>
-            <div class="flex items-center gap-1.5">
+            <div class="flex items-center justify-center flex-wrap gap-1.5">
               <span class="text-xs text-gray-400">×${w.count}</span>
               ${ref ? `<button data-vocab-verse="${ref}" data-word="${this.escapeHtml(w.arabic)}" title="${t('names_search_quran', lang)}"
                       class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-primary hover:text-white">📖</button>` : ''}
+              <button data-vfav="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_favorite')}" aria-label="${this.tt('vocab_favorite')}"
+                      class="text-xs px-1.5 py-0.5 rounded-full ${w.fav ? 'bg-rose-500 text-white' : 'bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-rose-500 hover:text-white'}">${w.fav ? '❤️' : '🤍'}</button>
               <button data-vknow="${this.escapeHtml(w.arabic)}" title="${t('vocab_know_it', lang)}"
                       class="text-xs px-1.5 py-0.5 rounded-full ${w.known ? 'bg-green-500 text-white' : 'bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-green-500 hover:text-white'}">✓</button>
             </div>
@@ -1208,7 +1308,9 @@ class VocabTrainer {
       localStorage.removeItem('vocabQuizBestRoots');
       localStorage.removeItem('vocabQuizBestListen');
       localStorage.removeItem('vocabReview');
+      localStorage.removeItem('lq_vocab_fav');
     } catch (err) { /* ignore */ }
+    if (this.category === 'fav') this.category = 'all';
     this.reviewQueue = null;
     this.reviewedCount = 0;
     this.render();

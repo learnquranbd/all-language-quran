@@ -10,6 +10,39 @@
  * Presentation/navigation only — all linguistic data comes from the corpus.
  */
 
+/**
+ * Localized strings for enrichments added to this module. These keys are NOT
+ * yet in js/translations.js (which this module must not edit); they are reported
+ * for later inclusion there. gui() prefers this map, then falls back to t() so
+ * strings resolve the moment they land in translations.js.
+ */
+const GRAMMAR_STRINGS = {
+  en: {
+    gr_practice: 'Practice',
+    gr_practice_prompt: 'Which part of speech is this word?',
+    gr_practice_correct: 'Correct!',
+    gr_practice_wrong: 'Not quite',
+    gr_practice_next: 'Next',
+    gr_practice_score: 'Score',
+    gr_practice_accuracy: 'Accuracy',
+    gr_practice_exit: 'Exit practice',
+    gr_practice_reset: 'Reset score',
+    gr_practice_none: 'Load an ayah to start practicing.',
+  },
+  bn: {
+    gr_practice: 'অনুশীলন',
+    gr_practice_prompt: 'এই শব্দটি কোন পদ?',
+    gr_practice_correct: 'সঠিক!',
+    gr_practice_wrong: 'ঠিক হয়নি',
+    gr_practice_next: 'পরবর্তী',
+    gr_practice_score: 'স্কোর',
+    gr_practice_accuracy: 'নির্ভুলতা',
+    gr_practice_exit: 'অনুশীলন বন্ধ',
+    gr_practice_reset: 'স্কোর রিসেট',
+    gr_practice_none: 'অনুশীলন শুরু করতে একটি আয়াত লোড করুন।',
+  },
+};
+
 class GrammarView {
   constructor() {
     this.container = document.getElementById('grammar-container');
@@ -17,6 +50,10 @@ class GrammarView {
     this.language = 'en';
     this.rendered = false;
     this.filter = 'all';   // all | noun | verb | particle
+    this.practiceOn = false;      // POS quiz mode toggle
+    this.quiz = null;             // current practice question
+    this.wordsPool = [];          // {arabic, pos, meaning} from loaded ayahs
+    this.score = this.loadScore();// persisted cumulative quiz score
 
     if (this.container) {
       // One delegated handler survives every innerHTML re-render.
@@ -78,6 +115,36 @@ class GrammarView {
     return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   }
 
+  /** Like t(), but prefers the local GRAMMAR_STRINGS map for enrichment-only keys. */
+  gui(key) {
+    const map = GRAMMAR_STRINGS[this.language] || GRAMMAR_STRINGS.en;
+    return (map && map[key]) || (GRAMMAR_STRINGS.en && GRAMMAR_STRINGS.en[key]) || t(key, this.language);
+  }
+
+  // -------------------------------------------------------- quiz persistence
+  loadScore() {
+    try {
+      const raw = localStorage.getItem('lq_grammar_quiz');
+      const o = raw ? JSON.parse(raw) : null;
+      if (o && typeof o.right === 'number' && typeof o.total === 'number') {
+        return { right: o.right, total: o.total };
+      }
+    } catch (e) { /* ignore */ }
+    return { right: 0, total: 0 };
+  }
+
+  saveScore() {
+    try { localStorage.setItem('lq_grammar_quiz', JSON.stringify(this.score)); } catch (e) { /* ignore */ }
+  }
+
+  /** One POS question drawn from the loaded ayahs' words. */
+  buildQuiz() {
+    const pool = this.wordsPool;
+    if (!pool.length) return null;
+    const w = pool[Math.floor(Math.random() * pool.length)];
+    return { arabic: w.arabic, meaning: w.meaning, answer: w.pos, picked: null };
+  }
+
   // ----------------------------------------------------------------- render
 
   async render() {
@@ -106,6 +173,7 @@ class GrammarView {
         }
       }));
 
+      this.wordsPool = [];
       const cards = this.ayahs.map(ayah => {
         const surahMorph = morphBySurah[ayah.surah];
         if (!surahMorph) {
@@ -116,6 +184,10 @@ class GrammarView {
             </div>`;
         }
         const words = surahMorph[String(ayah.ayah)] || [];
+        words.forEach((segments, i) => {
+          const arabic = segments.map(s => s.t).join('');
+          if (arabic) this.wordsPool.push({ arabic, pos: this.wordPrimaryPOS(segments), meaning: ayah.words?.[i]?.meaning || '' });
+        });
         return `
           <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-4">
             ${this.ayahHeaderHtml(ayah)}
@@ -127,8 +199,12 @@ class GrammarView {
         `;
       }).join('');
 
-      this.container.innerHTML = this.toolbarHtml(lang) + cards;
-      this.applyFilter();
+      if (this.practiceOn) {
+        this.container.innerHTML = this.toolbarHtml(lang) + this.practiceHtml(lang);
+      } else {
+        this.container.innerHTML = this.toolbarHtml(lang) + cards;
+        this.applyFilter();
+      }
     } catch (err) {
       console.error('Grammar render failed:', err);
       this.container.innerHTML = `
@@ -188,7 +264,13 @@ class GrammarView {
           ${filterBtn('noun', t('gr_nouns', lang))}
           ${filterBtn('verb', t('gr_verbs', lang))}
           ${filterBtn('particle', t('gr_particles', lang))}
-          ${wrJump ? `<span class="ml-auto">${wrJump}</span>` : ''}
+          <span class="ml-auto flex items-center gap-2">
+            <button data-gr-practice aria-pressed="${this.practiceOn}"
+              class="text-xs px-3 py-1.5 rounded-full transition-colors ${this.practiceOn ? 'bg-primary text-white' : 'bg-primary/10 text-primary dark:text-blue-300 hover:bg-primary hover:text-white'}">
+              🎯 ${this.esc(this.gui('gr_practice'))}
+            </button>
+            ${wrJump}
+          </span>
         </div>
       </div>`;
   }
@@ -292,9 +374,94 @@ class GrammarView {
     }).join('');
   }
 
+  // ------------------------------------------------ POS identification quiz
+  /** Repaint just the toolbar + quiz panel (no morphology re-fetch, no skeleton flash). */
+  rerenderPractice() {
+    if (!this.container) return;
+    this.container.innerHTML = this.toolbarHtml(this.language) + this.practiceHtml(this.language);
+  }
+
+  practiceHtml(lang) {
+    if (!this.quiz) this.quiz = this.buildQuiz();
+    const q = this.quiz;
+    if (!q) {
+      return `
+        <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6 max-w-md mx-auto text-center">
+          <p class="text-gray-500 dark:text-gray-400 mb-4">${this.esc(this.gui('gr_practice_none'))}</p>
+          <button data-gr-practice-exit class="text-xs px-3 py-2 rounded-lg text-gray-400 hover:text-primary dark:hover:text-blue-300">${this.esc(this.gui('gr_practice_exit'))}</button>
+        </div>`;
+    }
+    const answered = q.picked != null;
+    const opts = [
+      ['noun', t('gr_nouns', lang), 'sky'],
+      ['verb', t('gr_verbs', lang), 'red'],
+      ['particle', t('gr_particles', lang), 'emerald'],
+    ].map(([key, label]) => {
+      let cls = 'border-gray-200 dark:border-gray-700 hover:border-primary';
+      if (answered) {
+        if (key === q.answer) cls = 'border-green-500 bg-green-500/10';
+        else if (key === q.picked) cls = 'border-red-500 bg-red-500/10';
+        else cls = 'border-gray-200 dark:border-gray-700 opacity-50';
+      }
+      return `<button ${answered ? 'disabled' : ''} data-gr-practice-opt="${key}"
+                class="border-2 rounded-lg py-3 px-2 text-sm font-medium focus:outline-none focus-visible:ring-2 focus-visible:ring-primary ${cls}">${this.esc(label)}</button>`;
+    }).join('');
+    const acc = this.score.total ? Math.round(this.score.right / this.score.total * 100) : 0;
+    return `
+      <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-4 max-w-md mx-auto">
+        <div class="flex items-center justify-between mb-3">
+          <span class="text-sm font-semibold">🎯 ${this.esc(this.gui('gr_practice'))}</span>
+          <span class="text-xs text-gray-500 dark:text-gray-400">${this.esc(this.gui('gr_practice_score'))}: <span class="font-semibold">${this.score.right}/${this.score.total}</span>${this.score.total ? ` · ${this.esc(this.gui('gr_practice_accuracy'))} ${acc}%` : ''}</span>
+        </div>
+        <div class="rounded-xl border border-gray-200 dark:border-gray-700 p-4">
+          <p class="text-sm text-gray-500 dark:text-gray-400 text-center mb-3">${this.esc(this.gui('gr_practice_prompt'))}</p>
+          <div class="text-center mb-1"><span class="ayah-arabic !text-4xl !mb-0 !pb-0 !border-b-0" dir="rtl">${q.arabic}</span></div>
+          ${q.meaning ? `<div class="text-center text-sm text-gray-500 dark:text-gray-400 mb-4" dir="auto">${this.esc(q.meaning)}</div>` : '<div class="mb-4"></div>'}
+          <div class="grid grid-cols-3 gap-2">${opts}</div>
+          ${answered ? `
+            <div class="mt-4 text-center text-sm font-semibold ${q.picked === q.answer ? 'text-green-600 dark:text-green-400' : 'text-red-500'}">
+              ${this.esc(q.picked === q.answer ? this.gui('gr_practice_correct') : this.gui('gr_practice_wrong'))}
+            </div>
+            <div class="text-center mt-3">
+              <button data-gr-practice-next class="px-4 py-1.5 rounded-lg bg-primary text-white text-sm font-medium hover:opacity-90">${this.esc(this.gui('gr_practice_next'))} →</button>
+            </div>` : ''}
+        </div>
+        <div class="flex items-center justify-center gap-4 mt-3">
+          <button data-gr-practice-exit class="text-xs px-3 py-2 rounded-lg text-gray-400 hover:text-primary dark:hover:text-blue-300">${this.esc(this.gui('gr_practice_exit'))}</button>
+          ${this.score.total ? `<button data-gr-practice-reset class="text-xs px-3 py-2 rounded-lg text-gray-400 hover:text-red-500">${this.esc(this.gui('gr_practice_reset'))}</button>` : ''}
+        </div>
+      </div>`;
+  }
+
   // ----------------------------------------------------------- interactions
 
   onClick(e) {
+    const practiceToggle = e.target.closest('[data-gr-practice]');
+    if (practiceToggle) {
+      this.practiceOn = !this.practiceOn;
+      this.quiz = this.practiceOn ? this.buildQuiz() : null;
+      if (this.practiceOn) this.rerenderPractice(); else this.render();
+      return;
+    }
+    if (e.target.closest('[data-gr-practice-exit]')) {
+      this.practiceOn = false; this.quiz = null; this.render(); return;
+    }
+    if (e.target.closest('[data-gr-practice-next]')) {
+      this.quiz = this.buildQuiz(); this.rerenderPractice(); return;
+    }
+    if (e.target.closest('[data-gr-practice-reset]')) {
+      this.score = { right: 0, total: 0 }; this.saveScore(); this.rerenderPractice(); return;
+    }
+    const opt = e.target.closest('[data-gr-practice-opt]');
+    if (opt && this.quiz && this.quiz.picked == null) {
+      this.quiz.picked = opt.getAttribute('data-gr-practice-opt');
+      this.score.total++;
+      if (this.quiz.picked === this.quiz.answer) this.score.right++;
+      this.saveScore();
+      this.rerenderPractice();
+      return;
+    }
+
     const filterBtn = e.target.closest('[data-gfilter]');
     if (filterBtn) { this.filter = filterBtn.getAttribute('data-gfilter'); this.applyFilter(); return; }
 

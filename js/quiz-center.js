@@ -122,6 +122,18 @@ class QuizCenter {
     try { localStorage.setItem(this.bestKey(type, scope), String(score)); } catch (e) { /* ignore */ }
   }
 
+  // Best streak is persisted separately (own namespace) so it never clobbers best-score keys
+  streakKey(type, scope) { return `quizStreak:${type}:${scope}`; }
+
+  getBestStreak(type, scope) {
+    const v = parseInt(localStorage.getItem(this.streakKey(type, scope)), 10);
+    return isNaN(v) ? 0 : v;
+  }
+
+  saveBestStreak(type, scope, streak) {
+    try { localStorage.setItem(this.streakKey(type, scope), String(streak)); } catch (e) { /* ignore */ }
+  }
+
   // ---------- helpers ----------
 
   shuffle(arr) {
@@ -283,7 +295,11 @@ class QuizCenter {
       { id: 'word_frequency', emoji: '📊', scopes: ['whole'], color: 'from-yellow-500 to-amber-600',
         build: (sc) => this.buildWordFrequency(sc) },
       { id: 'surah_juz_start', emoji: '🧭', scopes: ['whole'], color: 'from-red-500 to-rose-600',
-        build: (sc) => this.buildSurahJuzStart(sc) }
+        build: (sc) => this.buildSurahJuzStart(sc) },
+      { id: 'surah_order', emoji: '⏭️', scopes: ['whole'], color: 'from-violet-500 to-purple-700',
+        build: (sc) => this.buildSurahOrder(sc) },
+      { id: 'surah_match', emoji: '🏷️', scopes: ['whole'], color: 'from-pink-500 to-rose-600',
+        build: (sc) => this.buildSurahMatch(sc) }
     ];
   }
 
@@ -439,8 +455,10 @@ class QuizCenter {
     this.index = 0;
     this.score = 0;
     this.streak = 0;
-    this.answered = false;
+    this.maxStreak = 0;
     this.newBest = false;
+    this.newBestStreak = false;
+    this.answered = false;
     this.retryRound = false;
     this.missed = [];   // questions answered incorrectly, for the end-of-round review
     // Blur-strip: for ayah_sequence over a surah, reconstruct the surah as you answer.
@@ -462,8 +480,10 @@ class QuizCenter {
     this.index = 0;
     this.score = 0;
     this.streak = 0;
+    this.maxStreak = 0;
     this.answered = false;
     this.newBest = false;
+    this.newBestStreak = false;
     this.retryRound = true;
     this.missed = [];
     this.revealedAyahs = (this.currentType.id === 'ayah_sequence' && this.scope.kind === 'surah') ? new Set() : null;
@@ -482,7 +502,10 @@ class QuizCenter {
     const correct = !!(chosen && chosen.correct);
     q._ok = correct;   // per-type exam breakdown
 
-    if (correct) { this.score++; this.streak++; }
+    if (correct) {
+      this.score++; this.streak++;
+      if (this.streak > this.maxStreak) this.maxStreak = this.streak;
+    }
     else {
       this.streak = 0;
       // Remember what was missed for the end-of-round review
@@ -542,6 +565,11 @@ class QuizCenter {
           if (best === null || this.score > best) {
             this.saveBest(this.currentType.id, scope, this.score);
             this.newBest = true;
+          }
+          const bestStreak = this.getBestStreak(this.currentType.id, scope);
+          if (this.maxStreak > bestStreak) {
+            this.saveBestStreak(this.currentType.id, scope, this.maxStreak);
+            this.newBestStreak = true;
           }
         }
         this.view = 'end';
@@ -721,6 +749,7 @@ class QuizCenter {
     }
 
     const best = this.getBest(type.id, this.bestScopeKey());
+    const bestStreak = this.getBestStreak(type.id, this.bestScopeKey());
 
     return `
       <div class="mb-4">
@@ -740,6 +769,7 @@ class QuizCenter {
           ${t('quiz_start', lang)}
         </button>
         ${best !== null ? `<p class="text-sm text-gray-500 dark:text-gray-400 mt-4">${t('best_score', lang)}: ${best}/${this.roundSize()}</p>` : ''}
+        ${bestStreak > 0 ? `<p class="text-sm text-gray-500 dark:text-gray-400 mt-1">🔥 ${t('quiz_best_streak', lang)}: ${bestStreak}</p>` : ''}
       </div>
     `;
   }
@@ -824,6 +854,7 @@ class QuizCenter {
     const pct = Math.round((this.score / total) * 100);
     const stars = pct >= 90 ? 3 : pct >= 60 ? 2 : 1;
     const best = this.getBest(this.currentType.id, this.bestScopeKey());
+    const bestStreak = this.getBestStreak(this.currentType.id, this.bestScopeKey());
     const starStr = '★'.repeat(stars) + '☆'.repeat(3 - stars);
 
     return `
@@ -839,6 +870,9 @@ class QuizCenter {
         ${this.newBest
           ? `<p class="text-green-600 dark:text-green-400 font-medium">🌟 ${t('quiz_new_best', lang)}</p>`
           : (best !== null && !this.retryRound ? `<p class="text-sm text-gray-500 dark:text-gray-400">${t('best_score', lang)}: ${best}/${total}</p>` : '')}
+        ${this.newBestStreak
+          ? `<p class="text-orange-600 dark:text-orange-400 font-medium">🔥 ${t('quiz_best_streak', lang)}: ${this.maxStreak}!</p>`
+          : (!this.retryRound && bestStreak > 0 ? `<p class="text-sm text-gray-500 dark:text-gray-400">🔥 ${t('quiz_best_streak', lang)}: ${bestStreak}</p>` : '')}
         <div class="flex flex-wrap justify-center gap-3 pt-2">
           <button data-action="play-again"
                   class="px-6 py-3 bg-primary hover:bg-primary/80 text-white rounded-xl font-medium transition-colors">
@@ -1469,6 +1503,69 @@ class QuizCenter {
     });
   }
 
+  // 16. Surah order: which surah comes immediately before / after a given one (SURAH_DATA sequence)
+  async buildSurahOrder(scope) {
+    const questions = [];
+    const seen = new Set();
+    let attempts = 0;
+    while (questions.length < this.roundSize() && attempts < this.roundSize() * 10) {
+      attempts++;
+      const after = this.rand(2) === 0;        // ask for the next or the previous surah
+      const num = after ? 1 + this.rand(113)   // 1..113 (has a surah after)
+                        : 2 + this.rand(113);  // 2..114 (has a surah before)
+      const answerNum = after ? num + 1 : num - 1;
+      const key = `${num}:${after ? 'a' : 'b'}`;
+      if (seen.has(key)) continue;
+      seen.add(key);
+      const pivot = getSurahByNumber(num);
+      if (!pivot) continue;
+
+      // Distractors: surahs near the answer (close numbers = harder), excluding pivot & answer
+      const near = [];
+      for (let d = 1; d <= 6 && near.length < 12; d++) {
+        if (answerNum - d >= 1 && answerNum - d !== num) near.push(answerNum - d);
+        if (answerNum + d <= 114 && answerNum + d !== num) near.push(answerNum + d);
+      }
+      const distractors = this.sample([...new Set(near)].filter(n => n !== answerNum), 3);
+      if (distractors.length < 3) continue;
+
+      const opts = [{ n: answerNum, correct: true }]
+        .concat(distractors.map(n => ({ n, correct: false })));
+      questions.push({
+        prompt: after ? this.tt('quiz_which_after') : this.tt('quiz_which_before'),
+        promptHtml: this.ar(pivot.arabicName, '!text-4xl')
+          + `<div class="text-lg font-semibold mt-2">${this.esc(getSurahName(num, this.language))}</div>`
+          + `<div class="text-xs text-gray-400 mt-1">${this.tt('surah')} ${num}</div>`,
+        options: opts.map(o => ({
+          html: `<span class="font-semibold">${this.esc(getSurahName(o.n, this.language))}</span> <span class="text-xs text-gray-400">(${o.n})</span>`,
+          correct: o.correct
+        })),
+        explanation: this.esc(`${getSurahName(answerNum, this.language)} — ${this.tt('surah')} ${answerNum}`),
+        gotoVerse: `${answerNum}:1`
+      });
+    }
+    return questions;
+  }
+
+  // 17. Surah match: recognise a surah from its Arabic name (SURAH_DATA arabicName + names)
+  async buildSurahMatch(scope) {
+    const picks = this.sample(SURAH_DATA.filter(s => s.arabicName), this.roundSize());
+    return picks.map(s => {
+      const distractors = this.sample(SURAH_DATA.filter(o => o.number !== s.number), 3);
+      const options = [{ s, correct: true }]
+        .concat(distractors.map(o => ({ s: o, correct: false })));
+      return {
+        prompt: this.tt('kids_which_surah'),
+        promptHtml: this.ar(s.arabicName, '!text-5xl'),
+        options: options.map(o => ({
+          html: `<span class="font-semibold">${this.esc(getSurahName(o.s.number, this.language))}</span> <span class="text-xs text-gray-400">(${o.s.number})</span>`,
+          correct: o.correct
+        })),
+        gotoVerse: `${s.number}:1`
+      };
+    });
+  }
+
   // 15. Exam: a longer MIXED round composed from the existing generators above.
   // No question logic of its own — it only picks scope-compatible generators,
   // builds their pools, tags each question with its source type (qType) and
@@ -1494,7 +1591,7 @@ class QuizCenter {
       }
     } else {
       // Whole Quran: cheap SURAH_DATA/JUZ_DATA facts always, plus 2 heavier data-file types
-      ['guess_surah', 'revelation_type', 'ayah_count', 'surah_juz_start']
+      ['guess_surah', 'revelation_type', 'ayah_count', 'surah_juz_start', 'surah_order', 'surah_match']
         .forEach(id => plans.push({ id, scope: { kind: 'whole' } }));
       this.sample(['same_root', 'root_family', 'word_frequency', 'which_juz'], 2)
         .forEach(id => plans.push({ id, scope: { kind: 'whole' } }));

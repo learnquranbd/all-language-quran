@@ -72,6 +72,11 @@ const SARF_STRINGS = {
     sarf_practice_score: 'Score',
     sarf_practice_exit: 'Exit practice',
     sarf_practice_none: 'Not enough distinct forms in this root to practice.',
+    sarf_accuracy: 'Accuracy',
+    sarf_fav_add: 'Add to favorites',
+    sarf_fav_remove: 'Remove from favorites',
+    sarf_favonly: 'Favorites only',
+    sarf_no_favs: 'No favorite roots yet — tap ☆ to add.',
   },
   bn: {
     sarf_search_placeholder: 'রুট ছাঁকুন…',
@@ -87,6 +92,11 @@ const SARF_STRINGS = {
     sarf_practice_score: 'স্কোর',
     sarf_practice_exit: 'অনুশীলন বন্ধ',
     sarf_practice_none: 'অনুশীলনের জন্য এই রুটে যথেষ্ট ভিন্ন রূপ নেই।',
+    sarf_accuracy: 'নির্ভুলতা',
+    sarf_fav_add: 'পছন্দে যোগ করুন',
+    sarf_fav_remove: 'পছন্দ থেকে সরান',
+    sarf_favonly: 'শুধু পছন্দ',
+    sarf_no_favs: 'এখনো কোনো পছন্দের রুট নেই — যোগ করতে ☆ চাপুন।',
   },
 };
 
@@ -101,7 +111,9 @@ class Sarf {
     this.loaded = false;
     this.practiceOn = false;   // quiz mode toggle
     this.quiz = null;          // current practice question
-    this.score = { right: 0, total: 0 };
+    this.score = this.loadScore();      // persisted cumulative practice score
+    this.favorites = this.loadFavorites(); // Set of starred roots
+    this.favOnly = false;      // rail filter: show only favorited roots
 
     window.addEventListener('tabChanged', (e) => { if (e.detail.tabId === 'sarf') this.ensureLoaded(); });
     window.addEventListener('settingChanged', (e) => {
@@ -115,6 +127,53 @@ class Sarf {
   ui(key) {
     const map = SARF_STRINGS[this.language] || SARF_STRINGS.en;
     return (map && map[key]) || (SARF_STRINGS.en && SARF_STRINGS.en[key]) || t(key, this.language);
+  }
+
+  // ---- Persistence (localStorage, defensive) -----------------------------
+  loadScore() {
+    try {
+      const raw = localStorage.getItem('lq_sarf_practice');
+      const o = raw ? JSON.parse(raw) : null;
+      if (o && typeof o.right === 'number' && typeof o.total === 'number') {
+        return { right: o.right, total: o.total };
+      }
+    } catch (e) { /* ignore */ }
+    return { right: 0, total: 0 };
+  }
+
+  saveScore() {
+    try { localStorage.setItem('lq_sarf_practice', JSON.stringify(this.score)); } catch (e) { /* ignore */ }
+  }
+
+  loadFavorites() {
+    try {
+      const raw = localStorage.getItem('lq_sarf_favorites');
+      const arr = raw ? JSON.parse(raw) : [];
+      return new Set(Array.isArray(arr) ? arr : []);
+    } catch (e) { return new Set(); }
+  }
+
+  saveFavorites() {
+    try { localStorage.setItem('lq_sarf_favorites', JSON.stringify([...this.favorites])); } catch (e) { /* ignore */ }
+  }
+
+  /** Toggle a root's favorite state; update the tapped star in place (no full re-render). */
+  toggleFav(root, el) {
+    if (!root) return;
+    if (this.favorites.has(root)) this.favorites.delete(root); else this.favorites.add(root);
+    this.saveFavorites();
+    if (el) {
+      const on = this.favorites.has(root);
+      el.textContent = on ? '★' : '☆';
+      el.setAttribute('aria-label', this.ui(on ? 'sarf_fav_remove' : 'sarf_fav_add'));
+      el.setAttribute('title', this.ui(on ? 'sarf_fav_remove' : 'sarf_fav_add'));
+      el.className = this.favStarClass(on);
+    }
+    if (this.favOnly) this.filterRail();
+  }
+
+  favStarClass(on) {
+    return `sarf-fav ms-auto shrink-0 text-base leading-none cursor-pointer select-none transition-colors ${on ? 'text-amber-400' : 'text-gray-300 dark:text-gray-600 hover:text-amber-400'}`;
   }
 
   /** Localized gloss for a root, falling back to the English gloss in sarf.json. */
@@ -221,6 +280,14 @@ class Sarf {
 
   bindOnce() {
     this.container.addEventListener('click', (e) => {
+      // Star toggle sits INSIDE a rail button — handle it first so it never
+      // switches the active root.
+      const favEl = e.target.closest('[data-sarf-fav]');
+      if (favEl) { this.toggleFav(favEl.getAttribute('data-sarf-fav'), favEl); return; }
+
+      const favOnlyBtn = e.target.closest('[data-sarf-favonly]');
+      if (favOnlyBtn) { this.favOnly = !this.favOnly; this.render(); return; }
+
       const rootBtn = e.target.closest('[data-sarf-root]');
       if (rootBtn) { this.setRoot(rootBtn.getAttribute('data-sarf-root')); return; }
 
@@ -253,6 +320,7 @@ class Sarf {
         this.quiz.picked = picked;
         this.score.total++;
         if (picked === this.quiz.answer) this.score.right++;
+        this.saveScore();
         this.render();
         return;
       }
@@ -267,22 +335,35 @@ class Sarf {
     this.container.addEventListener('input', (e) => {
       if (e.target.id === 'sarf-search') this.filterRail(e.target.value);
     });
+
+    // Keyboard activation for the star (a focusable span, not a button).
+    this.container.addEventListener('keydown', (e) => {
+      if (e.key !== 'Enter' && e.key !== ' ') return;
+      const favEl = e.target.closest && e.target.closest('[data-sarf-fav]');
+      if (favEl) { e.preventDefault(); this.toggleFav(favEl.getAttribute('data-sarf-fav'), favEl); }
+    });
   }
 
-  /** Show/hide rail buttons whose searchable text contains the query. */
+  /** Show/hide rail buttons by search query AND (when active) the favorites filter. */
   filterRail(q) {
-    const query = (q || '').trim().toLowerCase();
+    const input = this.container.querySelector('#sarf-search');
+    const query = (q != null ? q : (input ? input.value : '')).trim().toLowerCase();
     const rail = this.container.querySelector('#sarf-rail');
     if (!rail) return;
     let shown = 0;
     rail.querySelectorAll('.sarf-rail-btn').forEach(btn => {
       const hay = btn.getAttribute('data-search') || '';
-      const match = !query || hay.indexOf(query) !== -1;
+      const root = btn.getAttribute('data-sarf-root');
+      const match = (!query || hay.indexOf(query) !== -1) && (!this.favOnly || this.favorites.has(root));
       btn.classList.toggle('hidden', !match);
       if (match) shown++;
     });
     const empty = this.container.querySelector('#sarf-norail');
-    if (empty) empty.classList.toggle('hidden', shown !== 0);
+    if (empty) {
+      empty.textContent = this.favOnly && !this.favorites.size
+        ? this.ui('sarf_no_favs') : this.ui('sarf_no_roots');
+      empty.classList.toggle('hidden', shown !== 0);
+    }
   }
 
   /** Left vertical root rail (horizontal chip strip on mobile). */
@@ -291,7 +372,9 @@ class Sarf {
       const rr = this.data.roots[root];
       const gl = this.gloss(root);
       const active = root === this.root;
+      const fav = this.favorites.has(root);
       const search = `${root} ${gl} ${rr.gloss || ''}`.toLowerCase();
+      const favLabel = this.esc(this.ui(fav ? 'sarf_fav_remove' : 'sarf_fav_add'));
       return `
         <button data-sarf-root="${root}" data-search="${this.esc(search)}"
                 class="sarf-rail-btn shrink-0 md:shrink md:w-full text-start px-3 py-2 rounded-lg border-s-2 transition-colors
@@ -304,6 +387,8 @@ class Sarf {
               ${gl ? `<span class="block text-sm truncate max-w-[9rem]" dir="auto">${this.esc(gl)}</span>` : ''}
               <span class="block text-xs ${active ? 'text-primary/70 dark:text-blue-300/70' : 'text-gray-400'}">×${rr.count}</span>
             </span>
+            <span data-sarf-fav="${root}" role="button" tabindex="0" aria-label="${favLabel}" title="${favLabel}"
+                  class="${this.favStarClass(fav)}">${fav ? '★' : '☆'}</span>
           </span>
         </button>`;
     }).join('');
@@ -331,6 +416,14 @@ class Sarf {
                      class="w-full ps-8 pe-2 py-1.5 text-sm rounded-lg border border-gray-200 dark:border-gray-700
                             bg-white dark:bg-gray-800 focus:outline-none focus:border-primary" />
             </div>
+            <button data-sarf-favonly aria-pressed="${this.favOnly}"
+                    class="w-full mb-2 px-3 py-1.5 text-xs font-medium rounded-lg border transition-colors flex items-center justify-center gap-1.5
+                           focus:outline-none focus-visible:ring-2 focus-visible:ring-primary
+                           ${this.favOnly
+                             ? 'bg-amber-400/15 border-amber-400 text-amber-600 dark:text-amber-300'
+                             : 'border-gray-200 dark:border-gray-700 text-gray-500 dark:text-gray-400 hover:border-amber-400 hover:text-amber-500'}">
+              <span aria-hidden="true">${this.favOnly ? '★' : '☆'}</span> ${this.esc(this.ui('sarf_favonly'))}${this.favorites.size ? ` (${this.favorites.size})` : ''}
+            </button>
             <nav id="sarf-rail" aria-label="${this.tt('sarf_title')}"
                  class="w-full flex md:flex-col gap-1 overflow-x-auto md:overflow-x-hidden md:overflow-y-auto
                         md:max-h-[70vh] pb-2 md:pb-0 md:pe-1
@@ -363,6 +456,9 @@ class Sarf {
         }
       }
     }
+
+    // Re-apply the favorites filter (survives re-render) and highlight matches.
+    if (this.favOnly) this.filterRail();
 
     // Localize the per-form meanings for non-English UI languages (async, cached)
     this.ensureMeanings();
@@ -556,7 +652,7 @@ class Sarf {
       <div class="max-w-md mx-auto">
         <div class="flex items-center justify-between mb-3">
           <span class="text-sm font-semibold">🎯 ${this.esc(this.ui('sarf_practice'))}</span>
-          <span class="text-xs text-gray-500 dark:text-gray-400">${this.esc(this.ui('sarf_practice_score'))}: <span class="font-semibold">${this.score.right}/${this.score.total}</span></span>
+          <span class="text-xs text-gray-500 dark:text-gray-400">${this.esc(this.ui('sarf_practice_score'))}: <span class="font-semibold">${this.score.right}/${this.score.total}</span>${this.score.total ? ` · ${this.esc(this.ui('sarf_accuracy'))} ${Math.round(this.score.right / this.score.total * 100)}%` : ''}</span>
         </div>
         <div class="rounded-xl border border-gray-200 dark:border-gray-700 p-4">
           <p class="text-sm text-gray-500 dark:text-gray-400 text-center mb-1">${this.esc(this.ui('sarf_practice_prompt'))}</p>
