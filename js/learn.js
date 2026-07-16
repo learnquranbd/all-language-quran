@@ -46,10 +46,16 @@ const LEARN_I18N_FALLBACK = {
   learn_chip_due:          { en: '{n} due',                           bn: '{n}টি বাকি' },
   learn_chip_practiced:    { en: '{n} practiced',                     bn: '{n}টি অনুশীলিত' },
   learn_chip_ayahs:        { en: '{n} ayahs',                         bn: '{n}টি আয়াত' },
-  learn_chip_progress:     { en: '{done}/{total}',                    bn: '{done}/{total}' }
+  learn_chip_progress:     { en: '{done}/{total}',                    bn: '{done}/{total}' },
+  learn_search_placeholder:{ en: 'Search modules…',                   bn: 'মডিউল খুঁজুন…' },
+  learn_search_empty:      { en: 'No modules match your search',      bn: 'আপনার খোঁজার সাথে কোনো মডিউল মেলেনি' },
+  learn_surprise:          { en: 'Surprise me',                       bn: 'চমক দিন' },
+  learn_pin:               { en: 'Pin to top',                        bn: 'উপরে পিন করুন' },
+  learn_unpin:             { en: 'Unpin',                             bn: 'পিন সরান' }
 };
 
 const LEARN_LAST_MODULE_KEY = 'learnLastModule';
+const LEARN_PINS_KEY = 'lq_learn_pins';
 
 class LearnHub {
   constructor() {
@@ -64,6 +70,10 @@ class LearnHub {
     };
     this.backBar = document.getElementById('learn-back');
     this.language = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+
+    // Own namespaced key — user's pinned/favorited modules (READ+WRITE, ours).
+    const pins = this.lsJSON(LEARN_PINS_KEY, []);
+    this.pins = Array.isArray(pins) ? pins.filter(m => LEARN_CARDS.some(c => c.module === m)) : [];
 
     this.render();
 
@@ -114,6 +124,32 @@ class LearnHub {
 
   rememberModule(module) {
     try { localStorage.setItem(LEARN_LAST_MODULE_KEY, module); } catch (e) { /* ignore */ }
+  }
+
+  // ---------- pins (our own key) & module ordering ----------
+
+  isPinned(module) { return this.pins.indexOf(module) !== -1; }
+
+  togglePin(module) {
+    const i = this.pins.indexOf(module);
+    if (i === -1) this.pins.push(module); else this.pins.splice(i, 1);
+    try { localStorage.setItem(LEARN_PINS_KEY, JSON.stringify(this.pins)); } catch (e) { /* ignore */ }
+    this.render();
+  }
+
+  /** Pinned modules first (keeping LEARN_CARDS order within each group). */
+  orderedCards() {
+    const pinned = LEARN_CARDS.filter(c => this.isPinned(c.module));
+    const rest = LEARN_CARDS.filter(c => !this.isPinned(c.module));
+    return pinned.concat(rest);
+  }
+
+  /** Open a random module, preferring ones not yet started ("suggested next"). */
+  surpriseModule(prog) {
+    const notStarted = LEARN_CARDS.filter(c => !(prog[c.module] && prog[c.module].started));
+    const pool = notStarted.length ? notStarted : LEARN_CARDS;
+    const pick = pool[Math.floor(Math.random() * pool.length)];
+    if (pick) this.openModule(pick.module);
   }
 
   /**
@@ -200,19 +236,63 @@ class LearnHub {
       </div>
       ${this.dashboardHtml(prog)}
       ${this.continueHtml(prog)}
+      ${this.controlsHtml()}
       <div class="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-5 w-full">
-        ${LEARN_CARDS.map(c => this.cardHtml(c, prog[c.module])).join('')}
+        ${this.orderedCards().map(c => this.cardHtml(c, prog[c.module])).join('')}
       </div>
+      <p id="learn-search-empty" class="hidden w-full text-center text-sm text-gray-400 mt-4">${this.tt('learn_search_empty')}</p>
       ${this.resourcesHtml(lang)}
     `;
 
     this.hub.querySelectorAll('.learn-card').forEach(card => {
       card.addEventListener('click', () => this.openModule(card.getAttribute('data-module')));
     });
+    this.hub.querySelectorAll('.learn-pin').forEach(el => {
+      el.addEventListener('click', (e) => {
+        e.stopPropagation();
+        this.togglePin(el.getAttribute('data-module'));
+      });
+    });
     const cont = this.hub.querySelector('#learn-continue-btn');
     if (cont) cont.addEventListener('click', () => this.openModule(cont.getAttribute('data-module')));
 
+    const surprise = this.hub.querySelector('#learn-surprise');
+    if (surprise) surprise.addEventListener('click', () => this.surpriseModule(prog));
+
+    const search = this.hub.querySelector('#learn-search');
+    if (search) search.addEventListener('input', () => this.applyFilter(search.value));
+
     this.backBar.querySelector('button').innerHTML = `← ${t('back', lang)}`;
+  }
+
+  /** Search box + "surprise me" nudge above the module grid. */
+  controlsHtml() {
+    return `
+      <div class="w-full max-w-3xl mx-auto mb-4 flex gap-2">
+        <input id="learn-search" type="search" autocomplete="off"
+               placeholder="${this.tt('learn_search_placeholder')}"
+               class="flex-1 min-w-0 px-4 py-2 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700
+                      text-sm text-gray-800 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-emerald-400" />
+        <button id="learn-surprise" type="button"
+                class="shrink-0 px-4 py-2 rounded-xl text-sm font-semibold text-white bg-gradient-to-r from-fuchsia-500 to-pink-600
+                       shadow hover:shadow-md hover:-translate-y-0.5 transition-all whitespace-nowrap">
+          🎲 ${this.tt('learn_surprise')}
+        </button>
+      </div>`;
+  }
+
+  /** Filter visible cards by title/description without re-rendering (keeps input focus). */
+  applyFilter(value) {
+    const q = (value || '').trim().toLowerCase();
+    let visible = 0;
+    this.hub.querySelectorAll('.learn-card').forEach(card => {
+      const hay = card.getAttribute('data-search') || '';
+      const hide = q !== '' && hay.indexOf(q) === -1;
+      card.classList.toggle('hidden', hide);
+      if (!hide) visible++;
+    });
+    const empty = this.hub.querySelector('#learn-search-empty');
+    if (empty) empty.classList.toggle('hidden', visible > 0);
   }
 
   /** Single hub card, with difficulty tag and either a progress bar or chips. */
@@ -237,12 +317,17 @@ class LearnHub {
     } else {
       footer = `<div class="mt-3 text-[11px] text-gray-400">${this.tt('learn_not_started')}</div>`;
     }
+    const pinned = this.isPinned(c.module);
+    const search = `${t(c.title, lang)} ${t(c.desc, lang)} ${this.tt(c.level)}`.toLowerCase();
     return `
-      <button data-module="${c.module}"
+      <button data-module="${c.module}" data-search="${search.replace(/"/g, '&quot;')}"
               class="learn-card group text-left rounded-2xl shadow-lg overflow-hidden bg-white dark:bg-gray-800
                      hover:shadow-2xl hover:-translate-y-1 transition-all duration-200">
         <div class="relative h-28 bg-gradient-to-br ${c.grad} flex items-center justify-center text-6xl">
           ${c.emoji}
+          <span class="learn-pin absolute top-2 start-2 text-base leading-none cursor-pointer transition-opacity ${pinned ? 'opacity-100' : 'opacity-40 hover:opacity-90'}"
+                data-module="${c.module}" role="button" title="${this.tt(pinned ? 'learn_unpin' : 'learn_pin')}"
+                aria-label="${this.tt(pinned ? 'learn_unpin' : 'learn_pin')}">📌</span>
           <span class="absolute top-2 end-2 text-[10px] font-semibold px-2 py-0.5 rounded-full bg-white/25 text-white backdrop-blur-sm">${this.tt(c.level)}</span>
         </div>
         <div class="p-4">

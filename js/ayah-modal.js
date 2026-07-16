@@ -32,6 +32,32 @@ class AyahModal {
     this._st = null;          // current render state { ref, s, a, v, lang, surahName, ayahCount, curIdx }
     this._open = false;
     this._lastFocus = null;
+
+    // Additive playback / display preferences (persisted, all defensive).
+    this._speeds = [0.75, 1, 1.25, 1.5, 2];
+    this._speed = this._clampSpeed(this._readNum('samAudioSpeed', 1));
+    this._repeat = this._lsGet('samAudioRepeat', '0') === '1';
+    this._fontScale = this._clampFont(this._readNum('samArabicScale', 1));
+  }
+
+  // ---- tiny defensive localStorage helpers ---------------------------------
+
+  _lsGet(key, fb) {
+    try { const r = localStorage.getItem(key); return r == null ? fb : r; } catch (e) { return fb; }
+  }
+  _lsSet(key, val) {
+    try { localStorage.setItem(key, String(val)); } catch (e) { /* private mode / quota */ }
+  }
+  _readNum(key, fb) {
+    const n = parseFloat(this._lsGet(key, ''));
+    return isFinite(n) ? n : fb;
+  }
+  _clampFont(x) { return Math.max(0.7, Math.min(2, isFinite(x) ? x : 1)); }
+  _clampSpeed(x) {
+    // Snap to the nearest allowed rate so a stray stored value can't misbehave.
+    let best = 1, d = Infinity;
+    for (const s of this._speeds) { const dd = Math.abs(s - x); if (dd < d) { d = dd; best = s; } }
+    return best;
   }
 
   tt(key) {
@@ -44,9 +70,18 @@ class AyahModal {
   getAudio() {
     if (!this.audio) {
       this.audio = new Audio();
-      this.audio.addEventListener('play', () => this.syncAudioBtn());
+      this.audio.addEventListener('play', () => { this._applyRate(); this.syncAudioBtn(); });
       this.audio.addEventListener('pause', () => this.syncAudioBtn());
-      this.audio.addEventListener('ended', () => { this._audioMode = null; this.syncAudioBtn(); });
+      this.audio.addEventListener('ended', () => {
+        // Repeat only the full-ayah audio, and only when the toggle is on;
+        // otherwise fall back to the original "clear mode" behaviour.
+        if (this._repeat && this._audioMode === 'ayah' && this.audio && this.audio.src) {
+          try { this.audio.currentTime = 0; } catch (e) { /* ignore */ }
+          this.audio.play().catch(() => {});
+          return;
+        }
+        this._audioMode = null; this.syncAudioBtn();
+      });
     }
     return this.audio;
   }
@@ -85,6 +120,16 @@ class AyahModal {
       if (fp) { this.toggleAyah(fp.getAttribute('data-ayah-audio')); return; }
       const cp = e.target.closest('[data-copy-verse]');
       if (cp) { this.copyVerse(); return; }
+      const shv = e.target.closest('[data-share-verse]');
+      if (shv) { this.shareVerse(); return; }
+      const bm = e.target.closest('[data-bookmark-toggle]');
+      if (bm) { this.toggleBookmark(); return; }
+      const fs = e.target.closest('[data-font-step]');
+      if (fs) { this.stepFont(parseFloat(fs.getAttribute('data-font-step'))); return; }
+      const sp = e.target.closest('[data-speed-cycle]');
+      if (sp) { this.cycleSpeed(); return; }
+      const rp = e.target.closest('[data-repeat-toggle]');
+      if (rp) { this.toggleRepeat(); return; }
       const gr = e.target.closest('[data-open-grammar]');
       if (gr) {
         this.close();
@@ -121,11 +166,16 @@ class AyahModal {
 
   // ---- audio ---------------------------------------------------------------
 
+  _applyRate() {
+    if (!this.audio) return;
+    try { this.audio.playbackRate = this._speed; } catch (e) { /* ignore */ }
+  }
+
   play(src) {
     if (!src) return;
     const au = this.getAudio();
     this._audioMode = 'word';
-    au.src = src; au.play().catch(() => {});
+    au.src = src; this._applyRate(); au.play().catch(() => {});
     this.syncAudioBtn();
   }
 
@@ -138,7 +188,7 @@ class AyahModal {
       return;
     }
     this._audioMode = 'ayah';
-    au.src = src; au.play().catch(() => {});
+    au.src = src; this._applyRate(); au.play().catch(() => {});
   }
 
   syncAudioBtn() {
@@ -258,8 +308,10 @@ class AyahModal {
 
     const counter = `${curIdx >= 0 ? curIdx + 1 : '—'} / ${words.length}`;
 
+    const bmOn = this._isBookmarked(v.key);
+
     this.bodyEl.innerHTML = `
-      <div class="ayah-arabic !text-3xl !leading-loose text-center mb-3" dir="rtl">${v.arabic}</div>
+      <div id="sam-arabic" class="ayah-arabic !text-3xl !leading-loose text-center mb-3" dir="rtl">${v.arabic}</div>
       <p class="text-xs text-center text-gray-400 mb-2">${this.tt('tap_word_to_hear')}</p>
       <div class="flex flex-wrap justify-center gap-x-1 mb-2" dir="rtl">${wbw}</div>
       ${words.length ? `
@@ -270,12 +322,17 @@ class AyahModal {
         </div>` : ''}
       <div id="sam-grammar" class="mb-3"></div>
       <p class="text-center text-gray-600 dark:text-gray-300 mb-4" dir="auto">${v.translation || ''}</p>
+      ${this.renderTools()}
       <div class="flex flex-wrap items-center justify-center gap-2">
         ${navBtn(a > 1 ? `${s}:${a - 1}` : null, this.tt('previous_ayah'), '&lsaquo;')}
         <button data-ayah-audio="${ayahSrc}"
                 class="px-4 py-2 rounded-lg bg-primary text-white text-sm hover:bg-primary/80">🔊 ${this.tt('play_full_ayah')}</button>
         <button data-copy-verse aria-label="${this.esc(this.tt('copy_verse'))}"
                 class="px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700">📋 ${this.tt('copy_verse')}</button>
+        <button data-share-verse aria-label="${this.esc(this.tt('share'))}"
+                class="px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700">🔗 ${this.tt('share')}</button>
+        <button data-bookmark-toggle aria-pressed="${bmOn}" aria-label="${this.esc(this.tt(bmOn ? 'remove_bookmark' : 'bookmark'))}" title="${this.esc(this.tt(bmOn ? 'remove_bookmark' : 'bookmark'))}"
+                class="px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm ${bmOn ? 'text-yellow-500' : 'text-gray-700 dark:text-gray-200'} hover:bg-gray-100 dark:hover:bg-gray-700">${bmOn ? '★' : '☆'} ${this.tt(bmOn ? 'remove_bookmark' : 'bookmark')}</button>
         <button data-read-full="${v.key}"
                 class="px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700">📖 ${this.tt('read_full_ayah')}</button>
         ${navBtn(a < ayahCount ? `${s}:${a + 1}` : null, this.tt('next_ayah'), '&rsaquo;')}
@@ -283,6 +340,134 @@ class AyahModal {
 
     this.updateGrammar();
     this.syncAudioBtn();
+    this.applyFontScale();
+  }
+
+  /** Compact controls: Arabic font size, audio speed, repeat toggle. */
+  renderTools() {
+    const stepBtn = (delta, sym, label, disabled) => disabled
+      ? `<button disabled aria-label="${this.esc(label)}" class="px-2.5 py-1.5 rounded-md border border-gray-200 dark:border-gray-700 text-sm text-gray-300 dark:text-gray-600 cursor-not-allowed">${sym}</button>`
+      : `<button data-font-step="${delta}" aria-label="${this.esc(label)}" title="${this.esc(label)}"
+                class="px-2.5 py-1.5 rounded-md border border-gray-300 dark:border-gray-600 text-sm text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700">${sym}</button>`;
+    const rep = this._repeat;
+    return `
+      <div class="flex flex-wrap items-center justify-center gap-x-3 gap-y-2 mb-4 text-sm">
+        <div class="inline-flex items-center gap-1">
+          <span class="text-xs text-gray-400 dark:text-gray-500">${this.tt('arabic_font_size')}</span>
+          ${stepBtn(-1, 'A−', this.tt('sam_font_smaller'), this._fontScale <= 0.7)}
+          ${stepBtn(1, 'A+', this.tt('sam_font_bigger'), this._fontScale >= 2)}
+        </div>
+        <button data-speed-cycle title="${this.esc(this.tt('audio_speed'))}" aria-label="${this.esc(this.tt('audio_speed'))}"
+                class="px-3 py-1.5 rounded-md border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700">⏩ ${this.tt('audio_speed')}: ${this._speed}×</button>
+        <button data-repeat-toggle aria-pressed="${rep}" title="${this.esc(this.tt('sam_repeat'))}" aria-label="${this.esc(this.tt('sam_repeat'))}"
+                class="px-3 py-1.5 rounded-md border text-sm ${rep ? 'bg-primary text-white border-primary' : 'border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700'}">🔁 ${this.tt('sam_repeat')}</button>
+      </div>`;
+  }
+
+  applyFontScale() {
+    const el = this.overlay && this.overlay.querySelector('#sam-arabic');
+    if (!el) return;
+    try { el.style.setProperty('font-size', (1.875 * this._fontScale).toFixed(3) + 'rem', 'important'); } catch (e) { /* ignore */ }
+  }
+
+  stepFont(delta) {
+    if (!isFinite(delta)) return;
+    this._fontScale = this._clampFont(this._fontScale + (delta > 0 ? 0.15 : -0.15));
+    this._lsSet('samArabicScale', this._fontScale);
+    // Re-render so the A−/A+ disabled bounds update, keeping scroll position.
+    this.rerender();
+  }
+
+  cycleSpeed() {
+    const i = this._speeds.indexOf(this._speed);
+    this._speed = this._speeds[(i + 1) % this._speeds.length];
+    this._lsSet('samAudioSpeed', this._speed);
+    this._applyRate();
+    const btn = this.overlay && this.overlay.querySelector('[data-speed-cycle]');
+    if (btn) btn.innerHTML = `⏩ ${this.tt('audio_speed')}: ${this._speed}×`;
+  }
+
+  toggleRepeat() {
+    this._repeat = !this._repeat;
+    this._lsSet('samAudioRepeat', this._repeat ? '1' : '0');
+    const btn = this.overlay && this.overlay.querySelector('[data-repeat-toggle]');
+    if (!btn) return;
+    btn.setAttribute('aria-pressed', String(this._repeat));
+    btn.className = `px-3 py-1.5 rounded-md border text-sm ${this._repeat ? 'bg-primary text-white border-primary' : 'border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700'}`;
+  }
+
+  // ---- bookmark (shares the bookmarks module's localStorage 'bookmarks') ----
+
+  _getBookmarks() {
+    try {
+      const a = JSON.parse(this._lsGet('bookmarks', '[]'));
+      return Array.isArray(a) ? a.filter(k => typeof k === 'string') : [];
+    } catch (e) { return []; }
+  }
+  _isBookmarked(key) { return key ? this._getBookmarks().indexOf(key) !== -1 : false; }
+
+  /** Drop a removed bookmark's note/collection — mirrors bookmarks.js forget(). */
+  _forgetBookmark(key) {
+    try {
+      const notes = JSON.parse(this._lsGet('bookmarkNotes', '{}')) || {};
+      if (key in notes) { delete notes[key]; this._lsSet('bookmarkNotes', JSON.stringify(notes)); }
+    } catch (e) { /* ignore */ }
+    try {
+      const colls = JSON.parse(this._lsGet('bookmarkCollections', '{}')) || {};
+      if (key in colls) { delete colls[key]; this._lsSet('bookmarkCollections', JSON.stringify(colls)); }
+    } catch (e) { /* ignore */ }
+  }
+
+  toggleBookmark() {
+    const st = this._st;
+    if (!st || !st.v || !st.v.key) return;
+    const key = st.v.key;
+    const list = this._getBookmarks();
+    const i = list.indexOf(key);
+    let on;
+    if (i === -1) { list.push(key); on = true; }
+    else { list.splice(i, 1); on = false; this._forgetBookmark(key); }
+    this._lsSet('bookmarks', JSON.stringify(list));
+    const btn = this.overlay && this.overlay.querySelector('[data-bookmark-toggle]');
+    if (btn) {
+      btn.setAttribute('aria-pressed', String(on));
+      btn.setAttribute('aria-label', this.tt(on ? 'remove_bookmark' : 'bookmark'));
+      btn.setAttribute('title', this.tt(on ? 'remove_bookmark' : 'bookmark'));
+      btn.className = `px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm ${on ? 'text-yellow-500' : 'text-gray-700 dark:text-gray-200'} hover:bg-gray-100 dark:hover:bg-gray-700`;
+      btn.innerHTML = `${on ? '★' : '☆'} ${this.tt(on ? 'remove_bookmark' : 'bookmark')}`;
+    }
+  }
+
+  // ---- share ---------------------------------------------------------------
+
+  shareVerse() {
+    const st = this._st;
+    if (!st) return;
+    const v = st.v;
+    const trans = (QuranData.stripFootnotes && v.translation) ? QuranData.stripFootnotes(v.translation) : (v.translation || '');
+    const text = `${v.arabic}\n${trans}\n— ${st.surahName} ${v.key}`.trim();
+    if (navigator.share) {
+      navigator.share({ title: `${st.surahName} ${v.key}`, text }).catch(() => {});
+      return;
+    }
+    // No Web Share API → fall back to copying, with inline feedback.
+    const done = () => this.flashShare();
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(done).catch(() => this.fallbackCopy(text, done));
+    } else {
+      this.fallbackCopy(text, done);
+    }
+  }
+
+  flashShare() {
+    const btn = this.overlay && this.overlay.querySelector('[data-share-verse]');
+    if (!btn) return;
+    btn.innerHTML = `✅ ${this.tt('copied')}`;
+    clearTimeout(this._shareT);
+    this._shareT = setTimeout(() => {
+      const b = this.overlay && this.overlay.querySelector('[data-share-verse]');
+      if (b) b.innerHTML = `🔗 ${this.tt('share')}`;
+    }, 1400);
   }
 
   /** Load the surah morphology once, then refresh the grammar snippet. */
