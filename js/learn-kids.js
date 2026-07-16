@@ -23,6 +23,11 @@ const KIDS_BEST_KEYS = {
   oddone: 'kidsOddOneBest'
 };
 
+// Gentle daily-streak persistence (namespaced; independent of quiz best-scores)
+const KIDS_STREAK_COUNT_KEY = 'kidsStreakCount';
+const KIDS_STREAK_DATE_KEY = 'kidsStreakDate';
+const KIDS_STREAK_BEST_KEY = 'kidsStreakBest';
+
 // Amber highlight applied to a Quran word chip while its audio plays
 const KIDS_WORD_HL = ['bg-amber-300', 'dark:bg-amber-500/70', 'ring-2', 'ring-amber-400'];
 
@@ -277,6 +282,7 @@ class KidsQaida {
   render() {
     this.rendered = true;
     this.stopSurahPlay();
+    this.updateStreak();
     const lang = this.language;
 
     this.root.innerHTML = `
@@ -368,9 +374,55 @@ class KidsQaida {
 
   renderLetters(lang) {
     return `
+      ${this.renderLetterOfDay(lang)}
       <p class="text-center text-gray-500 dark:text-gray-400 mb-4">👆 ${t('tap_letter_hint', lang)}</p>
       <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-7 gap-3 sm:gap-4">
         ${QAIDA_LETTERS.map((l, i) => this.renderLetterCard(l, i, lang)).join('')}
+      </div>
+    `;
+  }
+
+  /** Deterministic "letter of the day" — same letter for everyone on a given day. */
+  letterOfDay() {
+    const letters = (typeof QAIDA_LETTERS !== 'undefined') ? QAIDA_LETTERS : [];
+    if (!letters.length) return null;
+    const now = new Date();
+    const dayNum = Math.floor(
+      (Date.UTC(now.getFullYear(), now.getMonth(), now.getDate())) / 86400000
+    );
+    return letters[Math.abs(dayNum) % letters.length];
+  }
+
+  /** Cheerful daily-letter banner; reuses the letter play + expand handlers. */
+  renderLetterOfDay(lang) {
+    const l = this.letterOfDay();
+    if (!l) return '';
+    return `
+      <div class="rounded-2xl bg-gradient-to-br from-fuchsia-100 via-pink-100 to-amber-100
+                  dark:from-fuchsia-900/40 dark:via-pink-900/30 dark:to-amber-900/40
+                  ring-2 ring-pink-200 dark:ring-pink-800/60 shadow p-4 sm:p-5 mb-5
+                  flex items-center gap-4">
+        <button data-kids-letter="${l.char}" title="${t('kids_lotd_learn', lang)}"
+                class="shrink-0 w-20 h-20 sm:w-24 sm:h-24 rounded-2xl bg-white/70 dark:bg-gray-900/40
+                       shadow-inner hover:scale-105 transition-transform flex items-center justify-center">
+          <span class="ayah-arabic !text-5xl sm:!text-6xl !leading-none" dir="rtl">${l.char}</span>
+        </button>
+        <div class="flex-1 min-w-0">
+          <div class="text-xs uppercase tracking-wide font-bold text-pink-600 dark:text-pink-300">
+            🌟 ${t('kids_letter_of_day', lang)}
+          </div>
+          <div class="flex items-center gap-2 mt-0.5">
+            <span class="ayah-arabic !text-2xl" dir="rtl">${l.name}</span>
+            <button data-kids-letter-play="${l.char}" title="${t('play', lang)}"
+                    class="w-8 h-8 shrink-0 rounded-full bg-primary text-white flex items-center justify-center hover:bg-primary/80">▶</button>
+          </div>
+          <div class="text-sm font-bold text-gray-600 dark:text-gray-300">${l.translit}</div>
+          <button data-kids-letter="${l.char}"
+                  class="mt-2 px-4 py-1.5 rounded-full bg-gradient-to-br from-indigo-500 to-purple-500
+                         text-white text-sm font-bold shadow hover:scale-105 transition-transform">
+            👀 ${t('kids_lotd_learn', lang)}
+          </button>
+        </div>
       </div>
     `;
   }
@@ -1419,6 +1471,7 @@ class KidsQaida {
     const maxStars = games.length * 3;
     return `
       <div class="max-w-2xl mx-auto space-y-4">
+        ${this.renderStreakCard(lang)}
         <div class="rounded-2xl bg-gradient-to-br from-amber-100 to-orange-200
                     dark:from-amber-900/40 dark:to-orange-900/40 shadow p-6 text-center space-y-1">
           <div class="text-5xl">${total > 0 ? '🌟' : '⭐'}</div>
@@ -1428,6 +1481,31 @@ class KidsQaida {
           <p class="text-sm text-gray-600 dark:text-gray-300">${t('kids_stars_hint', lang)}</p>
         </div>
         <div class="space-y-3">${rows}</div>
+      </div>
+    `;
+  }
+
+  /** Encouraging daily-streak card for the "My Stars" screen. */
+  renderStreakCard(lang) {
+    const s = this._streak || this.updateStreak();
+    const count = s.count || 1;
+    const best = Math.max(s.best || 1, count);
+    // One flame per day, capped so long streaks stay tidy
+    const flames = '🔥'.repeat(Math.min(count, 7)) || '🔥';
+    return `
+      <div class="rounded-2xl bg-gradient-to-br from-rose-100 via-orange-100 to-amber-100
+                  dark:from-rose-900/40 dark:via-orange-900/30 dark:to-amber-900/40
+                  ring-2 ring-orange-200 dark:ring-orange-800/60 shadow p-5 text-center space-y-1">
+        <div class="text-xs uppercase tracking-wide font-bold text-orange-600 dark:text-orange-300">
+          🔥 ${t('kids_streak_title', lang)}
+        </div>
+        <div class="text-3xl">${flames}</div>
+        <div class="text-2xl font-extrabold text-gray-800 dark:text-gray-100">
+          ${t('kids_streak_days', lang).replace('{days}', count)}
+        </div>
+        <p class="text-sm text-gray-600 dark:text-gray-300">
+          🏆 ${t('kids_streak_best', lang)}: <span class="font-bold">${best}</span>
+        </p>
       </div>
     `;
   }
@@ -1454,6 +1532,49 @@ class KidsQaida {
         localStorage.setItem(this.bestKeyFor(mode), String(score));
       }
     } catch (err) { /* private mode — ignore */ }
+  }
+
+  /* -------------------------------------------------- Gentle daily streak */
+
+  /** Local YYYY-MM-DD for a Date (defaults to today). */
+  dayStamp(d = new Date()) {
+    const p = (n) => String(n).padStart(2, '0');
+    return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}`;
+  }
+
+  /**
+   * Bump the visit streak once per calendar day. Consecutive days increment;
+   * a gap resets to 1. Stores current + best; caches the result on this._streak.
+   * Fully defensive — never throws (private-mode localStorage etc.).
+   */
+  updateStreak() {
+    let count = 1, best = 1;
+    try {
+      const today = this.dayStamp();
+      const last = localStorage.getItem(KIDS_STREAK_DATE_KEY);
+      const prev = parseInt(localStorage.getItem(KIDS_STREAK_COUNT_KEY), 10);
+      const prevCount = isNaN(prev) ? 0 : prev;
+      const storedBest = parseInt(localStorage.getItem(KIDS_STREAK_BEST_KEY), 10);
+      best = isNaN(storedBest) ? 0 : storedBest;
+
+      if (last === today) {
+        count = prevCount || 1;
+      } else {
+        const yesterday = this.dayStamp(new Date(Date.now() - 86400000));
+        count = (last === yesterday) ? prevCount + 1 : 1;
+        localStorage.setItem(KIDS_STREAK_COUNT_KEY, String(count));
+        localStorage.setItem(KIDS_STREAK_DATE_KEY, today);
+      }
+      if (count > best) {
+        best = count;
+        localStorage.setItem(KIDS_STREAK_BEST_KEY, String(best));
+      }
+    } catch (err) {
+      count = this._streak ? this._streak.count : 1;
+      best = this._streak ? this._streak.best : count;
+    }
+    this._streak = { count, best: Math.max(best, count) };
+    return this._streak;
   }
 
   startQuiz(mode) {

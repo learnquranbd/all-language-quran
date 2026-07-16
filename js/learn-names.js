@@ -13,6 +13,7 @@ const NAMES_QUIZ_ROUNDS = 10;
 const NAMES_QUIZ_BEST_KEY = 'namesQuizBest';          // name → meaning
 const NAMES_QUIZ_BEST_REV_KEY = 'namesQuizBestRev';   // meaning → name
 const NAMES_LEARNED_KEY = 'namesLearned';             // JSON array of learned n's
+const NAMES_FAVORITES_KEY = 'lq_names_favorites';     // JSON array of favorited n's
 const NAMES_GROUP_SIZE = 11;                          // 9 groups of 11
 
 class NamesOfAllah {
@@ -30,6 +31,10 @@ class NamesOfAllah {
     this.quizTimer = null;
     this.memGroup = null;            // selected memorize group (0-8); null = auto-pick
     this.memRevealed = new Set();    // name numbers with meaning revealed this session
+    this.favOnly = false;            // browse: show only favorited names
+    this.fcOrder = null;             // flashcard order (array of n's); null = natural
+    this.fcIndex = 0;                // flashcard current position
+    this.fcFlipped = false;          // flashcard: meaning revealed
     this.ttsNoteDismissed = false;
     this.listenersBound = false;
 
@@ -119,10 +124,43 @@ class NamesOfAllah {
     return set;
   }
 
+  /** Set of favorited (bookmarked) name numbers */
+  getFavorites() {
+    try {
+      const arr = JSON.parse(localStorage.getItem(NAMES_FAVORITES_KEY) || '[]');
+      return new Set(Array.isArray(arr) ? arr.filter(n => Number.isInteger(n)) : []);
+    } catch (err) {
+      return new Set();
+    }
+  }
+
+  saveFavorites(set) {
+    try {
+      localStorage.setItem(NAMES_FAVORITES_KEY, JSON.stringify([...set].sort((a, b) => a - b)));
+    } catch (err) { /* private mode — ignore */ }
+  }
+
+  toggleFavorite(n) {
+    const set = this.getFavorites();
+    if (set.has(n)) set.delete(n); else set.add(n);
+    this.saveFavorites(set);
+    return set;
+  }
+
   // ---------- helpers ----------
 
   meaningOf(name) {
     return name.meanings[this.language] || name.meanings.en;
+  }
+
+  /** Deterministic "name of the day" — same name for everyone on a given date */
+  nameOfDay() {
+    if (!Array.isArray(NAMES_99) || !NAMES_99.length) return null;
+    const now = new Date();
+    const start = new Date(now.getFullYear(), 0, 0);
+    const dayOfYear = Math.floor((now - start) / 86400000);
+    const idx = ((dayOfYear % NAMES_99.length) + NAMES_99.length) % NAMES_99.length;
+    return NAMES_99[idx];
   }
 
   prophetNameOf(p) {
@@ -436,7 +474,48 @@ class NamesOfAllah {
           this.render();
         }
         break;
+      case 'fav': {
+        const n = parseInt(el.getAttribute('data-n'), 10);
+        this.toggleFavorite(n);
+        // Re-render only the grid so the search box keeps focus while browsing
+        if (this.mode === 'browse') this.updateGrid(); else this.render();
+        break;
+      }
+      case 'fav-only':
+        this.favOnly = !this.favOnly;
+        this.render();
+        break;
+      case 'fc-flip':
+        this.fcFlipped = !this.fcFlipped;
+        this.render();
+        break;
+      case 'fc-next':
+        this.fcAdvance(1);
+        break;
+      case 'fc-prev':
+        this.fcAdvance(-1);
+        break;
+      case 'fc-shuffle':
+        this.fcOrder = this.shuffle(NAMES_99.map(x => x.n));
+        this.fcIndex = 0;
+        this.fcFlipped = false;
+        this.render();
+        break;
+      case 'fc-speak': {
+        const n = parseInt(el.getAttribute('data-n'), 10);
+        const name = NAMES_99.find(x => x.n === n);
+        if (name) this.openName(name);
+        break;
+      }
     }
+  }
+
+  fcAdvance(step) {
+    const len = this.fcNames().length;
+    if (!len) return;
+    this.fcIndex = ((this.fcIndex + step) % len + len) % len;
+    this.fcFlipped = false;
+    this.render();
   }
 
   setMode(mode) {
@@ -457,6 +536,7 @@ class NamesOfAllah {
     switch (this.mode) {
       case 'quiz': body = this.renderQuiz(); break;
       case 'memorize': body = this.renderMemorize(); break;
+      case 'flashcards': body = this.renderFlashcards(); break;
       case 'prophets': body = this.renderProphets(); break;
       default: body = this.renderBrowse();
     }
@@ -471,6 +551,7 @@ class NamesOfAllah {
         <div class="flex justify-center gap-2 flex-wrap">
           ${this.renderModeTab('browse', t('names_browse', lang))}
           ${this.renderModeTab('memorize', t('names_memorize', lang))}
+          ${this.renderModeTab('flashcards', t('names_flashcards', lang))}
           ${this.renderModeTab('prophets', t('names_prophets', lang))}
           ${this.renderModeTab('quiz', t('quiz', lang))}
         </div>
@@ -509,15 +590,20 @@ class NamesOfAllah {
   // ---------- browse ----------
 
   filteredNames() {
+    let list = NAMES_99;
+    if (this.favOnly) {
+      const favs = this.getFavorites();
+      list = list.filter(name => favs.has(name.n));
+    }
     const q = this.query.trim().toLowerCase();
-    if (!q) return NAMES_99;
+    if (!q) return list;
     // Diacritic-insensitive Arabic match: strip tashkeel/tatweel + unify alefs
     // so plain "الرحمن" finds the fully-voweled name.ar.
     const normAr = (typeof QuranData !== 'undefined' && QuranData.normalizeWord)
       ? (s) => QuranData.normalizeWord(s)
       : (s) => s;
     const qAr = normAr(this.query.trim());
-    return NAMES_99.filter(name =>
+    return list.filter(name =>
       String(name.n) === q
       || name.translit.toLowerCase().includes(q)
       || this.meaningOf(name).toLowerCase().includes(q)
@@ -529,7 +615,8 @@ class NamesOfAllah {
   renderBrowse() {
     const lang = this.language;
     return `
-      <div class="max-w-md mx-auto">
+      ${this.renderNameOfDay(lang)}
+      <div class="max-w-md mx-auto space-y-3">
         <input id="names-search" type="text" dir="auto"
                value="${this.escapeHtml(this.query)}"
                placeholder="${t('names_search_placeholder', lang)}"
@@ -537,6 +624,15 @@ class NamesOfAllah {
                       bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-100
                       placeholder-gray-400 dark:placeholder-gray-500
                       focus:outline-none focus:ring-2 focus:ring-primary dark:focus:ring-blue-500">
+        <div class="flex justify-center">
+          <button data-action="fav-only"
+                  class="px-3 py-1.5 rounded-lg text-xs font-medium border transition-colors
+                         ${this.favOnly
+                           ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 border-amber-300 dark:border-amber-700'
+                           : 'bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-300 border-gray-200 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-700'}">
+            ${this.favOnly ? '★' : '☆'} ${t('names_favorites_only', lang)}
+          </button>
+        </div>
       </div>
       <p class="text-center text-xs text-gray-400 dark:text-gray-500">🔊 ${t('names_tap_hint', lang)}</p>
       <div id="names-grid">
@@ -545,25 +641,56 @@ class NamesOfAllah {
     `;
   }
 
-  renderGrid() {
-    const lang = this.language;
-    const names = this.filteredNames();
-    if (!names.length) {
-      return `<p class="text-center text-sm text-gray-500 dark:text-gray-400 py-10">${t('no_results', lang)}</p>`;
-    }
-    const learned = this.getLearned();
+  renderNameOfDay(lang) {
+    if (this.favOnly || this.query.trim()) return ''; // hide while filtering/searching
+    const name = this.nameOfDay();
+    if (!name) return '';
     return `
-      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4">
-        ${names.map(name => this.renderCard(name, learned)).join('')}
+      <div class="max-w-md mx-auto">
+        <button data-action="speak" data-n="${name.n}"
+                class="w-full flex items-center gap-4 rounded-2xl px-5 py-4 text-start
+                       bg-gradient-to-br from-indigo-50 to-purple-50 dark:from-indigo-900/30 dark:to-purple-900/20
+                       border border-indigo-100 dark:border-indigo-500/30 hover:shadow-lg transition-all">
+          <span class="ayah-arabic !text-4xl shrink-0" dir="rtl">${name.ar}</span>
+          <span class="flex-1 min-w-0">
+            <span class="block text-[11px] font-semibold uppercase tracking-wide text-indigo-500 dark:text-indigo-300">✨ ${t('names_name_of_day', lang)}</span>
+            <span class="block font-bold text-gray-800 dark:text-gray-100 truncate" dir="ltr">${name.n}. ${this.escapeHtml(name.translit)}</span>
+            <span class="block text-xs text-gray-500 dark:text-gray-400 truncate" dir="auto">${this.escapeHtml(this.meaningOf(name))}</span>
+          </span>
+        </button>
       </div>
     `;
   }
 
-  renderCard(name, learned) {
+  renderGrid() {
+    const lang = this.language;
+    const names = this.filteredNames();
+    if (!names.length) {
+      const msg = this.favOnly && !this.query.trim() ? t('names_no_favorites', lang) : t('no_results', lang);
+      return `<p class="text-center text-sm text-gray-500 dark:text-gray-400 py-10">${msg}</p>`;
+    }
+    const learned = this.getLearned();
+    const favs = this.getFavorites();
+    return `
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4">
+        ${names.map(name => this.renderCard(name, learned, favs)).join('')}
+      </div>
+    `;
+  }
+
+  renderCard(name, learned, favs) {
+    const lang = this.language;
+    const isFav = favs && favs.has(name.n);
     const check = learned && learned.has(name.n)
-      ? `<span class="absolute top-2 end-2 w-5 h-5 flex items-center justify-center text-[10px] font-bold rounded-full
-                bg-green-100 text-green-700 dark:bg-green-900/50 dark:text-green-300" title="${t('names_learned', this.language)}">✓</span>`
+      ? `<span class="absolute top-2 end-9 w-5 h-5 flex items-center justify-center text-[10px] font-bold rounded-full
+                bg-green-100 text-green-700 dark:bg-green-900/50 dark:text-green-300" title="${t('names_learned', lang)}">✓</span>`
       : '';
+    const star = `
+      <span data-action="fav" data-n="${name.n}" role="button"
+            title="${isFav ? t('names_unfavorite', lang) : t('names_favorite', lang)}"
+            aria-label="${isFav ? t('names_unfavorite', lang) : t('names_favorite', lang)}"
+            class="absolute top-1.5 end-1.5 w-7 h-7 flex items-center justify-center text-lg rounded-full
+                   ${isFav ? 'text-amber-500' : 'text-gray-300 dark:text-gray-600 hover:text-amber-400'}">${isFav ? '★' : '☆'}</span>`;
     return `
       <button data-action="speak" data-n="${name.n}"
               class="relative bg-white dark:bg-gray-800 rounded-2xl shadow border border-gray-200 dark:border-gray-700
@@ -572,6 +699,7 @@ class NamesOfAllah {
         <span class="absolute top-2 start-2 w-7 h-7 flex items-center justify-center text-xs font-bold rounded-full
                      bg-primary/10 text-primary dark:bg-blue-900/40 dark:text-blue-300">${name.n}</span>
         ${check}
+        ${star}
         <span class="ayah-arabic !text-3xl !leading-[2.2] max-w-full break-words" dir="rtl">${name.ar}</span>
         <span class="text-sm font-semibold text-gray-700 dark:text-gray-200" dir="ltr">${name.translit}</span>
         <span class="text-xs text-gray-500 dark:text-gray-400" dir="auto">${this.meaningOf(name)}</span>
@@ -697,6 +825,78 @@ class NamesOfAllah {
   updateGrid() {
     const grid = this.root.querySelector('#names-grid');
     if (grid) grid.innerHTML = this.renderGrid();
+  }
+
+  // ---------- flashcards (flip self-test) ----------
+
+  fcNames() {
+    if (Array.isArray(this.fcOrder) && this.fcOrder.length) {
+      const byN = new Map(NAMES_99.map(x => [x.n, x]));
+      const list = this.fcOrder.map(n => byN.get(n)).filter(Boolean);
+      if (list.length) return list;
+    }
+    return NAMES_99;
+  }
+
+  renderFlashcards() {
+    const lang = this.language;
+    if (!Array.isArray(NAMES_99) || !NAMES_99.length) return '';
+    const names = this.fcNames();
+    if (this.fcIndex < 0 || this.fcIndex >= names.length) this.fcIndex = 0;
+    const name = names[this.fcIndex];
+    const learned = this.getLearned();
+    const isLearned = learned.has(name.n);
+    const flipped = this.fcFlipped;
+
+    return `
+      <div class="max-w-md mx-auto space-y-4">
+        <div class="flex items-center justify-between text-sm text-gray-500 dark:text-gray-400">
+          <span>${this.fcIndex + 1} / ${names.length}</span>
+          <button data-action="fc-shuffle"
+                  class="px-3 py-1.5 rounded-lg text-xs font-medium border border-gray-200 dark:border-gray-700
+                         bg-white dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
+            🔀 ${t('names_shuffle', lang)}
+          </button>
+        </div>
+
+        <button data-action="fc-flip"
+                class="w-full min-h-[16rem] flex flex-col items-center justify-center gap-3 text-center
+                       bg-white dark:bg-gray-800 rounded-3xl shadow-lg border-2
+                       ${isLearned ? 'border-green-300 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'}
+                       hover:border-primary dark:hover:border-blue-400 transition-colors p-8">
+          <span class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-blue-900/40 dark:text-blue-300">${name.n}</span>
+          <span class="ayah-arabic !text-6xl !leading-[2.2] break-words max-w-full" dir="rtl">${name.ar}</span>
+          ${flipped
+            ? `<span class="block text-xl font-semibold text-gray-800 dark:text-gray-100" dir="ltr">${this.escapeHtml(name.translit)}</span>
+               <span class="block text-base text-gray-500 dark:text-gray-400" dir="auto">${this.escapeHtml(this.meaningOf(name))}</span>`
+            : `<span class="block text-xs text-gray-400 dark:text-gray-500 italic mt-2">👁 ${t('names_flip_hint', lang)}</span>`}
+        </button>
+
+        <div class="flex items-center justify-center gap-2">
+          <button data-action="fc-prev"
+                  class="flex-1 px-4 py-2.5 rounded-xl text-sm font-medium border border-gray-200 dark:border-gray-700
+                         bg-white dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
+            ‹ ${t('previous', lang)}
+          </button>
+          <button data-action="fc-speak" data-n="${name.n}" title="${t('play', lang)}" aria-label="${t('play', lang)}"
+                  class="px-4 py-2.5 rounded-xl text-sm font-medium bg-primary text-white hover:bg-primary/80 transition-colors">
+            🔊
+          </button>
+          <button data-action="mem-learned" data-n="${name.n}" title="${t('names_mark_learned', lang)}" aria-label="${t('names_mark_learned', lang)}"
+                  class="px-4 py-2.5 rounded-xl text-sm font-medium border transition-colors
+                         ${isLearned
+                           ? 'bg-green-100 dark:bg-green-900/40 border-green-300 dark:border-green-800 text-green-700 dark:text-green-300'
+                           : 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-400 dark:text-gray-500 hover:text-green-500'}">
+            ✓
+          </button>
+          <button data-action="fc-next"
+                  class="flex-1 px-4 py-2.5 rounded-xl text-sm font-medium border border-gray-200 dark:border-gray-700
+                         bg-white dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
+            ${t('next', lang)} ›
+          </button>
+        </div>
+      </div>
+    `;
   }
 
   // ---------- quiz ----------

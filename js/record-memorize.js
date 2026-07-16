@@ -28,6 +28,7 @@ class RecordMemorize {
     this.recStart = 0;
     this.recTimer = null;
     this.rendered = false;
+    this.playbackRate = 1;        // playback speed for the user's own recitation
 
     this.playback = new Audio();  // the user's own recitation
     this.refAudio = new Audio();  // reference (Alafasy) per-ayah
@@ -102,6 +103,8 @@ class RecordMemorize {
     if (action === 'stop') return this.stopRecording();
     if (action === 'rerecord') { this.resetRecording(); this.renderRecorder(); return; }
     if (action === 'play') return this.togglePlayback();
+    if (action === 'speed') return this.setSpeed(parseFloat(t2.getAttribute('data-val')));
+    if (action === 'download') return this.downloadRecording();
     if (action === 'ref') return this.playReference(t2.getAttribute('data-key'), parseInt(t2.getAttribute('data-num')));
     if (action === 'mark') return this.mark(t2.getAttribute('data-key'), t2.getAttribute('data-val'));
   }
@@ -117,7 +120,31 @@ class RecordMemorize {
       board.innerHTML = `<div class="text-center py-10 text-red-500">${this.tt('topics_load_error')}</div>`;
       return;
     }
+    // Restore any ✓/✗ marks saved for this exact range earlier in the session
+    this.marks = this.loadMarksForRange();
     this.renderBoard();
+  }
+
+  // ---------- self-check persistence (per range, for the session) -----------
+
+  rangeKey() { return `${this.surah}:${this.from}:${this.to}`; }
+
+  loadAllMarks() {
+    try { return JSON.parse(sessionStorage.getItem('rc_marks')) || {}; } catch (e) { return {}; }
+  }
+
+  loadMarksForRange() {
+    const all = this.loadAllMarks();
+    return all[this.rangeKey()] || {};
+  }
+
+  saveMarksForRange() {
+    try {
+      const all = this.loadAllMarks();
+      if (Object.keys(this.marks).length) all[this.rangeKey()] = this.marks;
+      else delete all[this.rangeKey()];
+      sessionStorage.setItem('rc_marks', JSON.stringify(all));
+    } catch (e) { /* private mode / quota — ignore */ }
   }
 
   // ---------- recording ----------------------------------------------------
@@ -133,12 +160,18 @@ class RecordMemorize {
       return;
     }
     if (this.rec) {
+      const speeds = [0.75, 1, 1.25, 1.5];
       el.innerHTML = `
         <div class="flex flex-wrap items-center justify-center gap-2">
           <button data-rc="play" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-primary text-white text-sm font-medium hover:bg-primary/90">
             <span class="rc-play-icon">▶</span> <span class="rc-play-label">${this.tt('rec_play')}</span>
           </button>
           <button data-rc="rerecord" class="px-4 py-2.5 rounded-full border border-gray-300 dark:border-gray-600 text-sm hover:bg-gray-100 dark:hover:bg-gray-700">↺ ${this.tt('rec_rerecord')}</button>
+          <button data-rc="download" class="px-4 py-2.5 rounded-full border border-gray-300 dark:border-gray-600 text-sm hover:bg-gray-100 dark:hover:bg-gray-700">⬇ ${this.tt('rec_download')}</button>
+        </div>
+        <div class="flex flex-wrap items-center justify-center gap-1.5 mt-2">
+          <span class="text-xs text-gray-500 dark:text-gray-400">${this.tt('rec_speed')}</span>
+          ${speeds.map(r => `<button data-rc="speed" data-val="${r}" class="px-2 py-1 rounded-full text-xs border ${this.playbackRate === r ? 'bg-primary text-white border-primary' : 'border-gray-300 dark:border-gray-600 text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700'}">${r}×</button>`).join('')}
         </div>`;
       return;
     }
@@ -172,6 +205,7 @@ class RecordMemorize {
       if (this.rec && this.rec.url) URL.revokeObjectURL(this.rec.url);
       this.rec = { blob, url: URL.createObjectURL(blob) };
       this.playback.src = this.rec.url;
+      try { this.playback.playbackRate = this.playbackRate; } catch (e) { /* ignore */ }
       this.recording = false;
       clearInterval(this.recTimer);
       this.renderRecorder();
@@ -203,13 +237,40 @@ class RecordMemorize {
     this.playback.pause();
     if (this.rec && this.rec.url) URL.revokeObjectURL(this.rec.url);
     this.rec = null;
-    this.marks = {};
+    // ✓/✗ self-check marks persist per range (see saveMarksForRange) and are
+    // restored on load, so re-recording keeps your judgements.
   }
 
   togglePlayback() {
     if (!this.rec) return;
+    try { this.playback.playbackRate = this.playbackRate; } catch (e) { /* ignore */ }
     if (this.playback.paused) { this.refAudio.pause(); this.playback.play().catch(() => {}); }
     else this.playback.pause();
+  }
+
+  setSpeed(rate) {
+    if (!rate || isNaN(rate)) return;
+    this.playbackRate = rate;
+    try { this.playback.playbackRate = rate; } catch (e) { /* ignore */ }
+    this.renderRecorder();
+  }
+
+  /**
+   * Save the in-memory recitation to the user's OWN device as an audio file.
+   * The blob never leaves this browser — nothing is uploaded.
+   */
+  downloadRecording() {
+    if (!this.rec || !this.rec.url) return;
+    try {
+      const type = (this.rec.blob && this.rec.blob.type) || '';
+      const ext = type.includes('ogg') ? 'ogg' : type.includes('mp4') ? 'mp4' : 'webm';
+      const a = document.createElement('a');
+      a.href = this.rec.url;
+      a.download = `recitation-${this.surah}-${this.from}-${this.to}.${ext}`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+    } catch (e) { /* download unavailable — ignore */ }
   }
 
   syncPlayBtn() {
@@ -234,6 +295,7 @@ class RecordMemorize {
   mark(key, val) {
     if (this.marks[key] === val) delete this.marks[key];   // tap again to clear
     else this.marks[key] = val;
+    this.saveMarksForRange();
     this.renderBoard();
   }
 
@@ -243,10 +305,18 @@ class RecordMemorize {
     if (!this.ayahs.length) { board.innerHTML = `<div class="text-center py-10 text-gray-400">${this.tt('wa_no_words')}</div>`; return; }
     const ok = this.ayahs.filter(a => this.marks[a.key] === 'ok').length;
     const wrong = this.ayahs.filter(a => this.marks[a.key] === 'wrong').length;
+    const total = this.ayahs.length;
+    const okPct = total ? Math.round((ok / total) * 100) : 0;
+    const wrongPct = total ? Math.round((wrong / total) * 100) : 0;
 
     board.innerHTML = `
-      <div class="flex items-center justify-between mb-3 text-sm">
+      <div class="flex items-center justify-between mb-2 text-sm">
         <span class="font-medium text-gray-600 dark:text-gray-300">${this.tt('rec_summary').replace('{ok}', ok).replace('{wrong}', wrong)}</span>
+        <span class="tabular-nums text-gray-500 dark:text-gray-400">${ok}/${total}</span>
+      </div>
+      <div class="flex w-full h-2 rounded-full bg-gray-200 dark:bg-gray-700 mb-3 overflow-hidden">
+        <div class="h-full bg-green-500" style="width:${okPct}%"></div>
+        <div class="h-full bg-red-400" style="width:${wrongPct}%"></div>
       </div>
       <div class="space-y-2">
         ${this.ayahs.map(a => {

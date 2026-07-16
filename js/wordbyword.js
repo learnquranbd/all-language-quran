@@ -10,6 +10,7 @@ class WordByWord {
     this.ayahs = [];
     this.language = 'en';
     this.wordAudio = new Audio();
+    this.prefs = this.loadPrefs();   // remembered display preferences
 
     if (this.container) {
       window.addEventListener('ayahsLoaded', (e) => {
@@ -22,6 +23,16 @@ class WordByWord {
       window.addEventListener('audioStateChanged', (e) => this.syncAudio(e.detail));
       this.createDetailPanel();
     }
+  }
+
+  /** Remembered display preferences (localStorage, defensive). */
+  loadPrefs() {
+    const def = { translit: true };
+    try { return Object.assign(def, JSON.parse(localStorage.getItem('wbw_prefs')) || {}); }
+    catch (e) { return def; }
+  }
+  savePrefs() {
+    try { localStorage.setItem('wbw_prefs', JSON.stringify(this.prefs)); } catch (e) { /* ignore */ }
   }
 
   render() {
@@ -38,9 +49,13 @@ class WordByWord {
       ? QuranData.surahInfoBannerHtml(this.ayahs[0].surah, lang) : '';
     this.container.innerHTML = `
       ${surahBanner}
-      <div class="flex items-center gap-2 mb-4">
+      <div class="flex items-center flex-wrap gap-2 mb-4">
         <button data-play-all class="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-primary text-white text-sm font-medium hover:bg-primary/90">
           <span class="pa-icon text-base leading-none">▶</span><span class="pa-label">${t('play_all', lang)}</span>
+        </button>
+        <button data-translit-toggle aria-pressed="${this.prefs.translit}"
+                class="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg border text-sm ${this.prefs.translit ? 'bg-blue-50 dark:bg-gray-700 text-primary dark:text-blue-400 border-primary' : 'text-gray-500 dark:text-gray-400 border-gray-200 dark:border-gray-700'}">
+          <span class="tt-icon">${this.prefs.translit ? '👁' : '🚫'}</span> ${t('transliteration', lang)}
         </button>
       </div>
       ${this.ayahs.map(ayah => `
@@ -86,19 +101,47 @@ class WordByWord {
     }
   }
 
+  /** Reflect the transliteration toggle's pressed state on its button. */
+  updateTranslitToggle() {
+    const b = this.container && this.container.querySelector('[data-translit-toggle]');
+    if (!b) return;
+    const on = !!this.prefs.translit;
+    b.setAttribute('aria-pressed', on);
+    b.classList.toggle('bg-blue-50', on);
+    b.classList.toggle('dark:bg-gray-700', on);
+    b.classList.toggle('text-primary', on);
+    b.classList.toggle('dark:text-blue-400', on);
+    b.classList.toggle('border-primary', on);
+    b.classList.toggle('text-gray-500', !on);
+    b.classList.toggle('dark:text-gray-400', !on);
+    b.classList.toggle('border-gray-200', !on);
+    b.classList.toggle('dark:border-gray-700', !on);
+    const ic = b.querySelector('.tt-icon'); if (ic) ic.textContent = on ? '👁' : '🚫';
+  }
+
   renderWordTile(ayah, w) {
     return `
       <button class="wbw-word group text-center max-w-full px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700
                      hover:border-primary hover:bg-blue-50 dark:hover:bg-gray-700 transition-colors cursor-pointer"
               data-key="${ayah.key}" data-pos="${w.position}">
         <div class="ayah-arabic !text-2xl !leading-relaxed !mb-0 !pb-0 !border-b-0">${w.arabic}</div>
-        <div class="text-xs text-gray-400 dark:text-gray-500 italic break-words" dir="ltr">${w.translit}</div>
+        <div class="wbw-translit text-xs text-gray-400 dark:text-gray-500 italic break-words ${this.prefs.translit ? '' : 'hidden'}" dir="ltr">${w.translit}</div>
         <div class="text-sm text-gray-700 dark:text-gray-300 break-words" dir="auto">${w.meaning}</div>
       </button>
     `;
   }
 
   onClick(e) {
+    // Display preference: transliteration on/off (remembered in localStorage)
+    const tg = e.target.closest('[data-translit-toggle]');
+    if (tg) {
+      this.prefs.translit = !this.prefs.translit;
+      this.savePrefs();
+      this.container.querySelectorAll('.wbw-translit').forEach(el => el.classList.toggle('hidden', !this.prefs.translit));
+      this.updateTranslitToggle();
+      return;
+    }
+
     // Audio controls: global play-all + per-ayah play/pause (shared player)
     const all = e.target.closest('[data-play-all]');
     if (all) { if (typeof audioPlayer !== 'undefined' && audioPlayer) audioPlayer.togglePlayAll(); return; }
@@ -158,6 +201,14 @@ class WordByWord {
         this.wordAudio.play().catch(() => {});
         return;
       }
+
+      // Copy this word's info to the clipboard
+      if (e.target.closest('[data-word-copy]')) { this.copyWordInfo(); return; }
+
+      // Mini "quiz me on this word's meaning"
+      if (e.target.closest('[data-quiz-start]')) { this.startWordQuiz(); return; }
+      const opt = e.target.closest('[data-quiz-opt]');
+      if (opt) { this.answerWordQuiz(opt); return; }
 
       // Occurrence chip → inline verse preview (stay in the modal)
       const chip = e.target.closest('[data-preview]');
@@ -250,10 +301,15 @@ class WordByWord {
           <div class="text-xs text-gray-400 uppercase">${t('transliteration', lang)}</div>
           <div class="italic">${word.translit}</div>
         </div>
-        ${word.audio ? `
-          <button data-word-audio="${word.audio}" class="ml-auto px-3 py-2 bg-primary text-white rounded-lg text-sm hover:bg-primary/80">
-            🔊 ${t('play', lang)}
-          </button>` : ''}
+        <div class="ml-auto flex items-center gap-2">
+          <button data-word-copy class="px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg text-sm hover:bg-gray-100 dark:hover:bg-gray-700">
+            📋 ${t('copy', lang)}
+          </button>
+          ${word.audio ? `
+            <button data-word-audio="${word.audio}" class="px-3 py-2 bg-primary text-white rounded-lg text-sm hover:bg-primary/80">
+              🔊 ${t('play', lang)}
+            </button>` : ''}
+        </div>
       </div>
       <h4 class="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase mb-2">
         ${t('grammar', lang)}
@@ -265,11 +321,114 @@ class WordByWord {
       ${morphHtml}
       ${exactHtml}
       ${rootHtml}
+      <div class="mt-5">
+        <button data-quiz-start class="px-3 py-2 rounded-lg border border-primary text-primary dark:text-blue-400 text-sm hover:bg-blue-50 dark:hover:bg-gray-700">
+          🧠 ${t('wbw_quiz_me', lang)}
+        </button>
+      </div>
+      <div id="wdp-quiz"></div>
     `;
+
+    // Remember the currently-detailed word for copy / quiz actions
+    this._cur = { ayah, word, root };
 
     // Fill the first page of occurrence chips
     if (this._occ.exact) this.appendChips('exact');
     if (this._occ.root) this.appendChips('root');
+  }
+
+  /** Copy the current word's Arabic + transliteration + meaning (+root) to clipboard. */
+  copyWordInfo() {
+    const c = this._cur; if (!c) return;
+    const lang = this.language;
+    const parts = [c.word.arabic, c.word.translit, c.word.meaning];
+    if (c.root) parts.push(`${t('root', lang)}: ${c.root}`);
+    const text = parts.filter(Boolean).join('\n');
+    const done = () => {
+      const b = this.panel.querySelector('[data-word-copy]');
+      if (!b) return;
+      const prev = b.innerHTML;
+      b.innerHTML = `✓ ${t('copied', lang)}`;
+      setTimeout(() => { b.innerHTML = prev; }, 1500);
+    };
+    try {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(done).catch(() => this.fallbackCopy(text, done));
+      } else {
+        this.fallbackCopy(text, done);
+      }
+    } catch (e) { this.fallbackCopy(text, done); }
+  }
+
+  fallbackCopy(text, done) {
+    try {
+      const ta = document.createElement('textarea');
+      ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+      document.body.appendChild(ta); ta.focus(); ta.select();
+      document.execCommand('copy');
+      document.body.removeChild(ta);
+      if (done) done();
+    } catch (e) { /* clipboard unavailable — ignore */ }
+  }
+
+  /** Render a 4-option "what does this word mean?" mini-check (distractors from same ayah). */
+  startWordQuiz() {
+    const c = this._cur; if (!c) return;
+    const lang = this.language;
+    const box = this.panel.querySelector('#wdp-quiz'); if (!box) return;
+    const correct = (c.word.meaning || '').trim();
+    if (!correct) return;
+    const pool = [];
+    (c.ayah.words || []).forEach(w => {
+      const m = (w.meaning || '').trim();
+      if (m && m !== correct && !pool.includes(m)) pool.push(m);
+    });
+    this.shuffle(pool);
+    const opts = pool.slice(0, 3);
+    opts.push(correct);
+    this.shuffle(opts);
+    box.innerHTML = `
+      <div class="mt-4 p-3 rounded-lg bg-gray-50 dark:bg-gray-700/50">
+        <div class="text-sm font-medium mb-2">
+          ${t('wbw_quiz_prompt', lang)}
+          <span class="ayah-arabic !text-xl !mb-0 !pb-0 !border-b-0 mx-1">${c.word.arabic}</span>
+        </div>
+        <div class="flex flex-col gap-2">
+          ${opts.map(o => `
+            <button data-quiz-opt="${encodeURIComponent(o)}"
+                    class="text-left px-3 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm hover:bg-blue-50 dark:hover:bg-gray-700" dir="auto">${o}</button>
+          `).join('')}
+        </div>
+        <div class="wdp-quiz-result mt-2 text-sm font-medium"></div>
+      </div>`;
+  }
+
+  answerWordQuiz(btn) {
+    const c = this._cur; if (!c) return;
+    const box = this.panel.querySelector('#wdp-quiz'); if (!box) return;
+    const chosen = decodeURIComponent(btn.getAttribute('data-quiz-opt'));
+    const correct = (c.word.meaning || '').trim();
+    box.querySelectorAll('[data-quiz-opt]').forEach(b => {
+      const v = decodeURIComponent(b.getAttribute('data-quiz-opt'));
+      b.disabled = true;
+      if (v === correct) b.classList.add('bg-green-100', 'dark:bg-green-900/40', 'border-green-400');
+      else if (v === chosen) b.classList.add('bg-red-100', 'dark:bg-red-900/40', 'border-red-400');
+    });
+    const res = box.querySelector('.wdp-quiz-result');
+    if (res) {
+      const okay = chosen === correct;
+      res.textContent = okay ? t('quiz_correct', this.language) : t('quiz_wrong', this.language);
+      res.classList.add(okay ? 'text-green-600' : 'text-red-600');
+    }
+  }
+
+  /** Fisher–Yates in-place shuffle. */
+  shuffle(arr) {
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
   }
 
   /**
