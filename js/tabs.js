@@ -29,7 +29,8 @@ const TAB_META = {
   quranicarabic: { emoji: '🔤', key: 'qa_title' },
   seerah:       { emoji: '🌙', key: 'seerah_title' },
   whyislam:     { emoji: '💡', key: 'whyislam_title' },
-  prophets:     { emoji: '📜', key: 'prophets_title' }
+  prophets:     { emoji: '📜', key: 'prophets_title' },
+  nuzul:        { emoji: '🌅', key: 'nuzul_title' }
 };
 
 class TabSystem {

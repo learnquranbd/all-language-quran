@@ -1,0 +1,1211 @@
+{
+  "units": [
+    {
+      "id": "read-109",
+      "icon": "📖",
+      "en": "Reading Surah al-Kafirun (109)",
+      "bn": "সূরা আল-কাফিরূন (১০৯) পড়া",
+      "order": 25
+    },
+    {
+      "id": "read-108",
+      "icon": "📖",
+      "en": "Reading Surah al-Kawthar (108)",
+      "bn": "সূরা আল-কাওসার (১০৮) পড়া",
+      "order": 26
+    },
+    {
+      "id": "read-107",
+      "icon": "📖",
+      "en": "Reading Surah al-Ma'un (107)",
+      "bn": "সূরা আল-মাউন (১০৭) পড়া",
+      "order": 27
+    },
+    {
+      "id": "read-106",
+      "icon": "📖",
+      "en": "Reading Surah Quraysh (106)",
+      "bn": "সূরা কুরাইশ (১০৬) পড়া",
+      "order": 28
+    }
+  ],
+  "lessons": [
+    {
+      "id": "read-109-l1",
+      "unit": "read-109",
+      "icon": "📖",
+      "title": {
+        "en": "Al-Kafirun: The Declaration (1-3)",
+        "bn": "আল-কাফিরূন: ঘোষণা (১-৩)"
+      },
+      "concept": {
+        "en": "The Prophet is commanded to address the disbelievers and declare a clear separation of worship.",
+        "bn": "নবীকে কাফিরদের সম্বোধন করে ইবাদতের স্পষ্ট পার্থক্য ঘোষণা করার আদেশ দেওয়া হয়েছে।"
+      },
+      "examples": [
+        {
+          "ref": "109:1",
+          "trans": {
+            "en": "Say, O disbelievers,",
+            "bn": "বলুন, হে কাফিরগণ,"
+          },
+          "note": {
+            "en": "The command 'Say' (Qul) opens a direct address to those who reject faith.",
+            "bn": "'বলুন' (কুল) আদেশটি বিশ্বাস অস্বীকারকারীদের প্রতি সরাসরি সম্বোধন শুরু করে।"
+          },
+          "words": [
+            {
+              "ar": "قُلْ",
+              "en": "Say",
+              "bn": "বলুন",
+              "role": {
+                "en": "command verb",
+                "bn": "আদেশসূচক ক্রিয়া"
+              },
+              "hl": true
+            },
+            {
+              "ar": "يَٰٓأَيُّهَا",
+              "en": "O",
+              "bn": "হে",
+              "role": {
+                "en": "vocative particle",
+                "bn": "সম্বোধন অব্যয়"
+              }
+            },
+            {
+              "ar": "ٱلْكَٰفِرُونَ",
+              "en": "the disbelievers",
+              "bn": "কাফিরগণ",
+              "role": {
+                "en": "noun (addressed)",
+                "bn": "বিশেষ্য (সম্বোধিত)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "109:2",
+          "trans": {
+            "en": "I do not worship what you worship,",
+            "bn": "আমি ইবাদত করি না যার ইবাদত তোমরা কর,"
+          },
+          "note": {
+            "en": "A negated present-tense verb establishes present rejection of their idols.",
+            "bn": "নেতিবাচক বর্তমান ক্রিয়া তাদের মূর্তির বর্তমান প্রত্যাখ্যান প্রতিষ্ঠা করে।"
+          },
+          "words": [
+            {
+              "ar": "لَآ",
+              "en": "not",
+              "bn": "না",
+              "role": {
+                "en": "negation particle",
+                "bn": "নেতিবাচক অব্যয়"
+              }
+            },
+            {
+              "ar": "أَعْبُدُ",
+              "en": "I worship",
+              "bn": "আমি ইবাদত করি",
+              "role": {
+                "en": "present verb (1st person)",
+                "bn": "বর্তমান ক্রিয়া (উত্তম পুরুষ)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "مَا",
+              "en": "what",
+              "bn": "যা",
+              "role": {
+                "en": "relative pronoun",
+                "bn": "সম্বন্ধবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "تَعْبُدُونَ",
+              "en": "you worship",
+              "bn": "তোমরা ইবাদত কর",
+              "role": {
+                "en": "present verb (2nd person pl.)",
+                "bn": "বর্তমান ক্রিয়া (মধ্যম পুরুষ বহুবচন)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "109:3",
+          "trans": {
+            "en": "Nor are you worshippers of what I worship.",
+            "bn": "আর তোমরাও ইবাদতকারী নও যার ইবাদত আমি করি।"
+          },
+          "note": {
+            "en": "An active participle 'abidun (worshippers) states their permanent role, not a mere action.",
+            "bn": "কর্তৃবাচক বিশেষণ আবিদুন (ইবাদতকারী) তাদের স্থায়ী ভূমিকা বর্ণনা করে, নিছক ক্রিয়া নয়।"
+          },
+          "words": [
+            {
+              "ar": "وَلَآ",
+              "en": "and not",
+              "bn": "আর না",
+              "role": {
+                "en": "conjunction + negation",
+                "bn": "সংযোজক + নেতিবাচক"
+              }
+            },
+            {
+              "ar": "أَنتُمْ",
+              "en": "you",
+              "bn": "তোমরা",
+              "role": {
+                "en": "subject pronoun",
+                "bn": "কর্তৃবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "عَٰبِدُونَ",
+              "en": "worshippers",
+              "bn": "ইবাদতকারী",
+              "role": {
+                "en": "active participle (predicate)",
+                "bn": "কর্তৃবাচক বিশেষণ (বিধেয়)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "مَآ",
+              "en": "what",
+              "bn": "যা",
+              "role": {
+                "en": "relative pronoun",
+                "bn": "সম্বন্ধবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "أَعْبُدُ",
+              "en": "I worship",
+              "bn": "আমি ইবাদত করি",
+              "role": {
+                "en": "present verb (1st person)",
+                "bn": "বর্তমান ক্রিয়া (উত্তম পুরুষ)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "What does the command 'Qul' (قُلْ) mean?",
+          "bn": "'কুল' (قُلْ) আদেশটির অর্থ কী?"
+        },
+        "options": [
+          "Say",
+          "Read",
+          "Stand",
+          "Listen"
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "Qul is an imperative verb meaning 'Say', commanding the Prophet to speak.",
+          "bn": "কুল একটি আদেশসূচক ক্রিয়া যার অর্থ 'বলুন', নবীকে বলার আদেশ।"
+        }
+      }
+    },
+    {
+      "id": "read-109-l2",
+      "unit": "read-109",
+      "icon": "📖",
+      "title": {
+        "en": "Al-Kafirun: The Separation (4-6)",
+        "bn": "আল-কাফিরূন: পৃথকীকরণ (৪-৬)"
+      },
+      "concept": {
+        "en": "The surah closes by restating the separation and affirming freedom of religion: to each their own way.",
+        "bn": "সূরাটি পৃথকীকরণ পুনর্ব্যক্ত করে এবং ধর্মের স্বাধীনতা নিশ্চিত করে শেষ হয়: প্রত্যেকের নিজ পথ।"
+      },
+      "examples": [
+        {
+          "ref": "109:4",
+          "trans": {
+            "en": "Nor will I be a worshipper of what you worship,",
+            "bn": "আর আমিও ইবাদতকারী নই যার ইবাদত তোমরা করেছ,"
+          },
+          "note": {
+            "en": "The past-tense verb 'abadtum (you have worshipped) points to their past and habitual worship.",
+            "bn": "অতীত ক্রিয়া আবাদতুম (তোমরা ইবাদত করেছ) তাদের অতীত ও অভ্যাসগত ইবাদতকে নির্দেশ করে।"
+          },
+          "words": [
+            {
+              "ar": "وَلَآ",
+              "en": "and not",
+              "bn": "আর না",
+              "role": {
+                "en": "conjunction + negation",
+                "bn": "সংযোজক + নেতিবাচক"
+              }
+            },
+            {
+              "ar": "أَنَا۠",
+              "en": "I",
+              "bn": "আমি",
+              "role": {
+                "en": "subject pronoun",
+                "bn": "কর্তৃবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "عَابِدٌ",
+              "en": "a worshipper",
+              "bn": "ইবাদতকারী",
+              "role": {
+                "en": "active participle (predicate)",
+                "bn": "কর্তৃবাচক বিশেষণ (বিধেয়)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "مَّا",
+              "en": "what",
+              "bn": "যা",
+              "role": {
+                "en": "relative pronoun",
+                "bn": "সম্বন্ধবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "عَبَدتُّمْ",
+              "en": "you have worshipped",
+              "bn": "তোমরা ইবাদত করেছ",
+              "role": {
+                "en": "past verb (2nd person pl.)",
+                "bn": "অতীত ক্রিয়া (মধ্যম পুরুষ বহুবচন)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "109:5",
+          "trans": {
+            "en": "Nor are you worshippers of what I worship.",
+            "bn": "আর তোমরাও ইবাদতকারী নও যার ইবাদত আমি করি।"
+          },
+          "note": {
+            "en": "The verse repeats 109:3 for emphasis, sealing the total separation of worship.",
+            "bn": "আয়াতটি জোর দেওয়ার জন্য ১০৯:৩ পুনরাবৃত্তি করে, ইবাদতের সম্পূর্ণ পৃথকীকরণ নিশ্চিত করে।"
+          },
+          "words": [
+            {
+              "ar": "وَلَآ",
+              "en": "and not",
+              "bn": "আর না",
+              "role": {
+                "en": "conjunction + negation",
+                "bn": "সংযোজক + নেতিবাচক"
+              }
+            },
+            {
+              "ar": "أَنتُمْ",
+              "en": "you",
+              "bn": "তোমরা",
+              "role": {
+                "en": "subject pronoun",
+                "bn": "কর্তৃবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "عَٰبِدُونَ",
+              "en": "worshippers",
+              "bn": "ইবাদতকারী",
+              "role": {
+                "en": "active participle (predicate)",
+                "bn": "কর্তৃবাচক বিশেষণ (বিধেয়)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "مَآ",
+              "en": "what",
+              "bn": "যা",
+              "role": {
+                "en": "relative pronoun",
+                "bn": "সম্বন্ধবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "أَعْبُدُ",
+              "en": "I worship",
+              "bn": "আমি ইবাদত করি",
+              "role": {
+                "en": "present verb (1st person)",
+                "bn": "বর্তমান ক্রিয়া (উত্তম পুরুষ)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "109:6",
+          "trans": {
+            "en": "For you is your religion, and for me is my religion.",
+            "bn": "তোমাদের জন্য তোমাদের দ্বীন, আর আমার জন্য আমার দ্বীন।"
+          },
+          "note": {
+            "en": "Two parallel prepositional phrases (lakum / wa liya) deliver the final principle of religious separation.",
+            "bn": "দুটি সমান্তরাল পূর্বসর্গীয় বাক্যাংশ (লাকুম / ওয়া লিয়া) ধর্মীয় পৃথকীকরণের চূড়ান্ত নীতি উপস্থাপন করে।"
+          },
+          "words": [
+            {
+              "ar": "لَكُمْ",
+              "en": "for you",
+              "bn": "তোমাদের জন্য",
+              "role": {
+                "en": "preposition + pronoun",
+                "bn": "পূর্বসর্গ + সর্বনাম"
+              },
+              "hl": true
+            },
+            {
+              "ar": "دِينُكُمْ",
+              "en": "your religion",
+              "bn": "তোমাদের দ্বীন",
+              "role": {
+                "en": "noun + possessive",
+                "bn": "বিশেষ্য + অধিকারবাচক"
+              }
+            },
+            {
+              "ar": "وَلِىَ",
+              "en": "and for me",
+              "bn": "আর আমার জন্য",
+              "role": {
+                "en": "conjunction + preposition + pronoun",
+                "bn": "সংযোজক + পূর্বসর্গ + সর্বনাম"
+              },
+              "hl": true
+            },
+            {
+              "ar": "دِينِ",
+              "en": "my religion",
+              "bn": "আমার দ্বীন",
+              "role": {
+                "en": "noun + possessive",
+                "bn": "বিশেষ্য + অধিকারবাচক"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "What is the meaning of 'lakum dinukum wa liya din'?",
+          "bn": "'লাকুম দ্বীনুকুম ওয়া লিয়া দ্বীন' এর অর্থ কী?"
+        },
+        "options": [
+          "To you your religion, to me mine",
+          "We share one religion",
+          "Follow my religion",
+          "There is no religion"
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "The verse affirms each side keeps its own way: your religion for you, mine for me.",
+          "bn": "আয়াতটি নিশ্চিত করে প্রত্যেক পক্ষ নিজ পথ রাখে: তোমাদের দ্বীন তোমাদের, আমার দ্বীন আমার।"
+        }
+      }
+    },
+    {
+      "id": "read-108-l1",
+      "unit": "read-108",
+      "icon": "📖",
+      "title": {
+        "en": "Al-Kawthar: Abundance & Gratitude",
+        "bn": "আল-কাওসার: প্রাচুর্য ও কৃতজ্ঞতা"
+      },
+      "concept": {
+        "en": "Allah grants the Prophet abundant good (al-Kawthar), commands prayer and sacrifice, and declares his enemy the one cut off.",
+        "bn": "আল্লাহ নবীকে প্রচুর কল্যাণ (আল-কাওসার) দান করেন, নামাজ ও কুরবানির আদেশ দেন এবং তাঁর শত্রুকে নির্বংশ ঘোষণা করেন।"
+      },
+      "examples": [
+        {
+          "ref": "108:1",
+          "trans": {
+            "en": "Indeed, We have granted you al-Kawthar.",
+            "bn": "নিশ্চয়ই আমি তোমাকে কাওসার দান করেছি।"
+          },
+          "note": {
+            "en": "The emphatic particle inna and the royal 'We' stress the greatness of this gift.",
+            "bn": "জোরদায়ক অব্যয় ইন্না এবং রাজকীয় 'আমরা' এই দানের মহত্ত্বে জোর দেয়।"
+          },
+          "words": [
+            {
+              "ar": "إِنَّآ",
+              "en": "Indeed We",
+              "bn": "নিশ্চয়ই আমি",
+              "role": {
+                "en": "emphatic particle + pronoun",
+                "bn": "জোরদায়ক অব্যয় + সর্বনাম"
+              },
+              "hl": true
+            },
+            {
+              "ar": "أَعْطَيْنَٰكَ",
+              "en": "We have granted you",
+              "bn": "আমি তোমাকে দান করেছি",
+              "role": {
+                "en": "past verb + object pronoun",
+                "bn": "অতীত ক্রিয়া + কর্মবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "ٱلْكَوْثَرَ",
+              "en": "al-Kawthar (abundance)",
+              "bn": "আল-কাওসার (প্রাচুর্য)",
+              "role": {
+                "en": "proper noun (object)",
+                "bn": "বিশেষ্য (কর্ম)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "108:2",
+          "trans": {
+            "en": "So pray to your Lord and sacrifice.",
+            "bn": "অতএব তোমার রবের জন্য নামাজ পড় এবং কুরবানি কর।"
+          },
+          "note": {
+            "en": "The particle fa (so) links the gift to two commands: prayer and sacrifice as gratitude.",
+            "bn": "অব্যয় ফা (অতএব) দানকে দুটি আদেশের সাথে যুক্ত করে: কৃতজ্ঞতা হিসেবে নামাজ ও কুরবানি।"
+          },
+          "words": [
+            {
+              "ar": "فَصَلِّ",
+              "en": "So pray",
+              "bn": "অতএব নামাজ পড়",
+              "role": {
+                "en": "conjunction + command verb",
+                "bn": "সংযোজক + আদেশসূচক ক্রিয়া"
+              },
+              "hl": true
+            },
+            {
+              "ar": "لِرَبِّكَ",
+              "en": "to your Lord",
+              "bn": "তোমার রবের জন্য",
+              "role": {
+                "en": "preposition + noun + pronoun",
+                "bn": "পূর্বসর্গ + বিশেষ্য + সর্বনাম"
+              }
+            },
+            {
+              "ar": "وَٱنْحَرْ",
+              "en": "and sacrifice",
+              "bn": "এবং কুরবানি কর",
+              "role": {
+                "en": "conjunction + command verb",
+                "bn": "সংযোজক + আদেশসূচক ক্রিয়া"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "108:3",
+          "trans": {
+            "en": "Indeed, your enemy is the one cut off.",
+            "bn": "নিশ্চয়ই তোমার শত্রুই নির্বংশ।"
+          },
+          "note": {
+            "en": "The separating pronoun huwa emphasises that the enemy, not the Prophet, is the one truly cut off (al-abtar).",
+            "bn": "পৃথককারী সর্বনাম হুয়া জোর দেয় যে শত্রুই, নবী নন, প্রকৃতপক্ষে নির্বংশ (আল-আবতার)।"
+          },
+          "words": [
+            {
+              "ar": "إِنَّ",
+              "en": "Indeed",
+              "bn": "নিশ্চয়ই",
+              "role": {
+                "en": "emphatic particle",
+                "bn": "জোরদায়ক অব্যয়"
+              }
+            },
+            {
+              "ar": "شَانِئَكَ",
+              "en": "your enemy",
+              "bn": "তোমার শত্রু",
+              "role": {
+                "en": "noun (subject) + pronoun",
+                "bn": "বিশেষ্য (কর্তা) + সর্বনাম"
+              },
+              "hl": true
+            },
+            {
+              "ar": "هُوَ",
+              "en": "he",
+              "bn": "সে-ই",
+              "role": {
+                "en": "separating pronoun",
+                "bn": "পৃথককারী সর্বনাম"
+              }
+            },
+            {
+              "ar": "ٱلْأَبْتَرُ",
+              "en": "the one cut off",
+              "bn": "নির্বংশ",
+              "role": {
+                "en": "noun (predicate)",
+                "bn": "বিশেষ্য (বিধেয়)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "What two acts does Allah command in Surah al-Kawthar?",
+          "bn": "সূরা আল-কাওসারে আল্লাহ কোন দুটি কাজের আদেশ দেন?"
+        },
+        "options": [
+          "Prayer and sacrifice",
+          "Fasting and charity",
+          "Reading and teaching",
+          "Travel and trade"
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "Fasalli (pray) and wanhar (sacrifice) are the two commands given in gratitude for al-Kawthar.",
+          "bn": "ফাসাল্লি (নামাজ পড়) এবং ওয়ানহার (কুরবানি কর) হলো কাওসারের কৃতজ্ঞতায় প্রদত্ত দুটি আদেশ।"
+        }
+      }
+    },
+    {
+      "id": "read-107-l1",
+      "unit": "read-107",
+      "icon": "📖",
+      "title": {
+        "en": "Al-Ma'un: The Denier of Faith (1-3)",
+        "bn": "আল-মাউন: দ্বীন অস্বীকারকারী (১-৩)"
+      },
+      "concept": {
+        "en": "The surah exposes the one who denies the Judgement: he repels the orphan and does not urge feeding the poor.",
+        "bn": "সূরাটি বিচার অস্বীকারকারীকে উন্মোচন করে: সে এতিমকে ধাক্কা দেয় এবং দরিদ্রকে খাওয়ানোর তাগিদ দেয় না।"
+      },
+      "examples": [
+        {
+          "ref": "107:1",
+          "trans": {
+            "en": "Have you seen the one who denies the Recompense?",
+            "bn": "তুমি কি দেখেছ তাকে, যে দ্বীন (প্রতিদান) অস্বীকার করে?"
+          },
+          "note": {
+            "en": "A rhetorical question (a-ra'ayta) invites reflection on the denier of the Day of Judgement.",
+            "bn": "একটি অলঙ্কারিক প্রশ্ন (আ-রাআইতা) বিচার দিবস অস্বীকারকারীর উপর চিন্তার আহ্বান জানায়।"
+          },
+          "words": [
+            {
+              "ar": "أَرَءَيْتَ",
+              "en": "Have you seen",
+              "bn": "তুমি কি দেখেছ",
+              "role": {
+                "en": "interrogative + past verb",
+                "bn": "প্রশ্নবোধক + অতীত ক্রিয়া"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلَّذِى",
+              "en": "the one who",
+              "bn": "যে",
+              "role": {
+                "en": "relative pronoun",
+                "bn": "সম্বন্ধবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "يُكَذِّبُ",
+              "en": "denies",
+              "bn": "অস্বীকার করে",
+              "role": {
+                "en": "present verb",
+                "bn": "বর্তমান ক্রিয়া"
+              }
+            },
+            {
+              "ar": "بِٱلدِّينِ",
+              "en": "the Recompense",
+              "bn": "প্রতিদানকে",
+              "role": {
+                "en": "preposition + noun",
+                "bn": "পূর্বসর্গ + বিশেষ্য"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "107:2",
+          "trans": {
+            "en": "For that is the one who drives away the orphan,",
+            "bn": "সে-ই তো, যে এতিমকে রূঢ়ভাবে তাড়িয়ে দেয়,"
+          },
+          "note": {
+            "en": "The demonstrative fadhalika points to the denier, described by his harsh treatment of the orphan.",
+            "bn": "নির্দেশক ফাযালিকা অস্বীকারকারীর দিকে ইঙ্গিত করে, এতিমের প্রতি তার কঠোর আচরণে বর্ণিত।"
+          },
+          "words": [
+            {
+              "ar": "فَذَٰلِكَ",
+              "en": "For that",
+              "bn": "সে-ই তো",
+              "role": {
+                "en": "conjunction + demonstrative",
+                "bn": "সংযোজক + নির্দেশক সর্বনাম"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلَّذِى",
+              "en": "is the one who",
+              "bn": "যে",
+              "role": {
+                "en": "relative pronoun",
+                "bn": "সম্বন্ধবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "يَدُعُّ",
+              "en": "drives away",
+              "bn": "তাড়িয়ে দেয়",
+              "role": {
+                "en": "present verb",
+                "bn": "বর্তমান ক্রিয়া"
+              }
+            },
+            {
+              "ar": "ٱلْيَتِيمَ",
+              "en": "the orphan",
+              "bn": "এতিমকে",
+              "role": {
+                "en": "noun (object)",
+                "bn": "বিশেষ্য (কর্ম)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "107:3",
+          "trans": {
+            "en": "And does not urge the feeding of the poor.",
+            "bn": "আর দরিদ্রকে খাওয়ানোর জন্য উৎসাহিত করে না।"
+          },
+          "note": {
+            "en": "The genitive chain ta'ami al-miskin (feeding of the poor) names the neglected duty.",
+            "bn": "সম্বন্ধ পদগুচ্ছ তাআমিল-মিসকীন (দরিদ্রকে খাওয়ানো) অবহেলিত কর্তব্যের নাম দেয়।"
+          },
+          "words": [
+            {
+              "ar": "وَلَا",
+              "en": "And not",
+              "bn": "আর না",
+              "role": {
+                "en": "conjunction + negation",
+                "bn": "সংযোজক + নেতিবাচক"
+              }
+            },
+            {
+              "ar": "يَحُضُّ",
+              "en": "does urge",
+              "bn": "উৎসাহিত করে",
+              "role": {
+                "en": "present verb",
+                "bn": "বর্তমান ক্রিয়া"
+              },
+              "hl": true
+            },
+            {
+              "ar": "عَلَىٰ",
+              "en": "toward",
+              "bn": "প্রতি",
+              "role": {
+                "en": "preposition",
+                "bn": "পূর্বসর্গ"
+              }
+            },
+            {
+              "ar": "طَعَامِ",
+              "en": "feeding of",
+              "bn": "খাওয়ানো",
+              "role": {
+                "en": "noun (construct)",
+                "bn": "বিশেষ্য (সম্বন্ধ)"
+              }
+            },
+            {
+              "ar": "ٱلْمِسْكِينِ",
+              "en": "the poor",
+              "bn": "দরিদ্রের",
+              "role": {
+                "en": "noun (genitive)",
+                "bn": "বিশেষ্য (সম্বন্ধ)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "Whom does the denier of faith drive away in 107:2?",
+          "bn": "১০৭:২ আয়াতে দ্বীন অস্বীকারকারী কাকে তাড়িয়ে দেয়?"
+        },
+        "options": [
+          "The orphan",
+          "The traveller",
+          "The king",
+          "The teacher"
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "Yadu'u al-yatim means he drives away the orphan, a sign of denying the Judgement.",
+          "bn": "ইয়াদুউল-ইয়াতীম অর্থ সে এতিমকে তাড়িয়ে দেয়, যা বিচার অস্বীকারের চিহ্ন।"
+        }
+      }
+    },
+    {
+      "id": "read-107-l2",
+      "unit": "read-107",
+      "icon": "📖",
+      "title": {
+        "en": "Al-Ma'un: Empty Worship (4-7)",
+        "bn": "আল-মাউন: শূন্য ইবাদত (৪-৭)"
+      },
+      "concept": {
+        "en": "Woe to those who pray heedlessly, only to be seen, while withholding small kindnesses from others.",
+        "bn": "দুর্ভোগ তাদের জন্য যারা উদাসীনভাবে নামাজ পড়ে, শুধু লোক দেখানোর জন্য, আর ছোট উপকারও অন্যদের থেকে বিরত রাখে।"
+      },
+      "examples": [
+        {
+          "ref": "107:4",
+          "trans": {
+            "en": "So woe to those who pray,",
+            "bn": "অতএব দুর্ভোগ সেই নামাজিদের জন্য,"
+          },
+          "note": {
+            "en": "The word wayl (woe) is a threat of destruction directed at a specific kind of worshipper.",
+            "bn": "ওয়াইল (দুর্ভোগ) শব্দটি একটি নির্দিষ্ট ধরনের নামাজির প্রতি ধ্বংসের হুমকি।"
+          },
+          "words": [
+            {
+              "ar": "فَوَيْلٌ",
+              "en": "So woe",
+              "bn": "অতএব দুর্ভোগ",
+              "role": {
+                "en": "conjunction + noun",
+                "bn": "সংযোজক + বিশেষ্য"
+              },
+              "hl": true
+            },
+            {
+              "ar": "لِّلْمُصَلِّينَ",
+              "en": "to those who pray",
+              "bn": "নামাজিদের জন্য",
+              "role": {
+                "en": "preposition + active participle",
+                "bn": "পূর্বসর্গ + কর্তৃবাচক বিশেষণ"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "107:5",
+          "trans": {
+            "en": "Those who are heedless of their prayer,",
+            "bn": "যারা তাদের নামাজ সম্পর্কে উদাসীন,"
+          },
+          "note": {
+            "en": "The active participle sahun (heedless) describes those careless about the reality of prayer.",
+            "bn": "কর্তৃবাচক বিশেষণ সাহূন (উদাসীন) তাদের বর্ণনা করে যারা নামাজের প্রকৃত সম্পর্কে অসতর্ক।"
+          },
+          "words": [
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "Those who",
+              "bn": "যারা",
+              "role": {
+                "en": "relative pronoun (plural)",
+                "bn": "সম্বন্ধবাচক সর্বনাম (বহুবচন)"
+              }
+            },
+            {
+              "ar": "هُمْ",
+              "en": "they",
+              "bn": "তারা",
+              "role": {
+                "en": "subject pronoun",
+                "bn": "কর্তৃবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "عَن",
+              "en": "of",
+              "bn": "সম্পর্কে",
+              "role": {
+                "en": "preposition",
+                "bn": "পূর্বসর্গ"
+              }
+            },
+            {
+              "ar": "صَلَاتِهِمْ",
+              "en": "their prayer",
+              "bn": "তাদের নামাজ",
+              "role": {
+                "en": "noun + pronoun",
+                "bn": "বিশেষ্য + সর্বনাম"
+              }
+            },
+            {
+              "ar": "سَاهُونَ",
+              "en": "are heedless",
+              "bn": "উদাসীন",
+              "role": {
+                "en": "active participle (predicate)",
+                "bn": "কর্তৃবাচক বিশেষণ (বিধেয়)"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "107:6",
+          "trans": {
+            "en": "Those who make a show,",
+            "bn": "যারা লোক-দেখানো করে,"
+          },
+          "note": {
+            "en": "The verb yura'un (they show off) exposes worship done for people rather than for Allah.",
+            "bn": "ইয়ুরাউন (তারা লোক দেখায়) ক্রিয়াটি আল্লাহর জন্য নয় বরং লোকের জন্য করা ইবাদত উন্মোচন করে।"
+          },
+          "words": [
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "Those who",
+              "bn": "যারা",
+              "role": {
+                "en": "relative pronoun (plural)",
+                "bn": "সম্বন্ধবাচক সর্বনাম (বহুবচন)"
+              }
+            },
+            {
+              "ar": "هُمْ",
+              "en": "they",
+              "bn": "তারা",
+              "role": {
+                "en": "subject pronoun",
+                "bn": "কর্তৃবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "يُرَآءُونَ",
+              "en": "make a show",
+              "bn": "লোক-দেখানো করে",
+              "role": {
+                "en": "present verb",
+                "bn": "বর্তমান ক্রিয়া"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "107:7",
+          "trans": {
+            "en": "And withhold small kindnesses.",
+            "bn": "আর ছোটখাটো সাহায্যও বারণ করে।"
+          },
+          "note": {
+            "en": "Al-Ma'un (small kindnesses) refers to everyday help; withholding it marks a hollow religion.",
+            "bn": "আল-মাউন (ছোট উপকার) দৈনন্দিন সাহায্য বোঝায়; তা বারণ করা শূন্য ধর্মের চিহ্ন।"
+          },
+          "words": [
+            {
+              "ar": "وَيَمْنَعُونَ",
+              "en": "And they withhold",
+              "bn": "আর তারা বারণ করে",
+              "role": {
+                "en": "conjunction + present verb",
+                "bn": "সংযোজক + বর্তমান ক্রিয়া"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلْمَاعُونَ",
+              "en": "small kindnesses",
+              "bn": "ছোটখাটো সাহায্য",
+              "role": {
+                "en": "noun (object)",
+                "bn": "বিশেষ্য (কর্ম)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "What flaw does 107:5 identify in the worshippers?",
+          "bn": "১০৭:৫ আয়াত নামাজিদের কোন ত্রুটি চিহ্নিত করে?"
+        },
+        "options": [
+          "Heedless of their prayer",
+          "Praying too much",
+          "Praying too loudly",
+          "Praying at night"
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "They are 'an salatihim sahun — heedless and careless about the reality of their prayer.",
+          "bn": "তারা 'আন সালাতিহিম সাহূন — নামাজের প্রকৃত সম্পর্কে উদাসীন ও অসতর্ক।"
+        }
+      }
+    },
+    {
+      "id": "read-106-l1",
+      "unit": "read-106",
+      "icon": "📖",
+      "title": {
+        "en": "Quraysh: The Blessing of Security",
+        "bn": "কুরাইশ: নিরাপত্তার নিয়ামত"
+      },
+      "concept": {
+        "en": "For the security and provision Allah gave Quraysh through their trade journeys, they are called to worship the Lord of the Sacred House.",
+        "bn": "কুরাইশদের বাণিজ্য যাত্রার মাধ্যমে আল্লাহ যে নিরাপত্তা ও রিযিক দিয়েছেন, সেজন্য তাদের পবিত্র ঘরের রবের ইবাদতের আহ্বান জানানো হয়।"
+      },
+      "examples": [
+        {
+          "ref": "106:1",
+          "trans": {
+            "en": "For the accustomed security of Quraysh,",
+            "bn": "কুরাইশের অভ্যস্ততার জন্য,"
+          },
+          "note": {
+            "en": "Li-ilaf begins with a preposition of purpose, linking Quraysh's familiarity and safety to the command that follows.",
+            "bn": "লি-ঈলাফ উদ্দেশ্যের পূর্বসর্গ দিয়ে শুরু হয়, কুরাইশের অভ্যস্ততা ও নিরাপত্তাকে পরবর্তী আদেশের সাথে যুক্ত করে।"
+          },
+          "words": [
+            {
+              "ar": "لِإِيلَٰفِ",
+              "en": "For the familiarity of",
+              "bn": "অভ্যস্ততার জন্য",
+              "role": {
+                "en": "preposition + noun",
+                "bn": "পূর্বসর্গ + বিশেষ্য"
+              },
+              "hl": true
+            },
+            {
+              "ar": "قُرَيْشٍ",
+              "en": "Quraysh",
+              "bn": "কুরাইশের",
+              "role": {
+                "en": "proper noun (genitive)",
+                "bn": "বিশেষ্য (সম্বন্ধ)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "106:2",
+          "trans": {
+            "en": "Their familiarity with the journey of winter and summer,",
+            "bn": "শীত ও গ্রীষ্মের সফরে তাদের অভ্যস্ততা,"
+          },
+          "note": {
+            "en": "The construct rihlata (journey of) with winter and summer recalls the two annual trade caravans.",
+            "bn": "রিহলাতা (সফর) শব্দটি শীত ও গ্রীষ্মের সাথে বছরের দুটি বাণিজ্য কাফেলার কথা স্মরণ করায়।"
+          },
+          "words": [
+            {
+              "ar": "إِۦلَٰفِهِمْ",
+              "en": "Their familiarity with",
+              "bn": "তাদের অভ্যস্ততা",
+              "role": {
+                "en": "noun + pronoun",
+                "bn": "বিশেষ্য + সর্বনাম"
+              },
+              "hl": true
+            },
+            {
+              "ar": "رِحْلَةَ",
+              "en": "the journey of",
+              "bn": "সফর",
+              "role": {
+                "en": "noun (construct)",
+                "bn": "বিশেষ্য (সম্বন্ধ)"
+              }
+            },
+            {
+              "ar": "ٱلشِّتَآءِ",
+              "en": "winter",
+              "bn": "শীতের",
+              "role": {
+                "en": "noun (genitive)",
+                "bn": "বিশেষ্য (সম্বন্ধ)"
+              }
+            },
+            {
+              "ar": "وَٱلصَّيْفِ",
+              "en": "and summer",
+              "bn": "ও গ্রীষ্মের",
+              "role": {
+                "en": "conjunction + noun",
+                "bn": "সংযোজক + বিশেষ্য"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "106:3",
+          "trans": {
+            "en": "Let them worship the Lord of this House,",
+            "bn": "অতএব তারা যেন এই ঘরের রবের ইবাদত করে,"
+          },
+          "note": {
+            "en": "The command verb falya'budu (let them worship) is the response to the blessings mentioned before.",
+            "bn": "আদেশসূচক ক্রিয়া ফালইয়া'বুদূ (তারা যেন ইবাদত করে) পূর্বে উল্লেখিত নিয়ামতের প্রতিদান।"
+          },
+          "words": [
+            {
+              "ar": "فَلْيَعْبُدُوا۟",
+              "en": "Let them worship",
+              "bn": "তারা যেন ইবাদত করে",
+              "role": {
+                "en": "conjunction + command verb",
+                "bn": "সংযোজক + আদেশসূচক ক্রিয়া"
+              },
+              "hl": true
+            },
+            {
+              "ar": "رَبَّ",
+              "en": "the Lord of",
+              "bn": "রবের",
+              "role": {
+                "en": "noun (object, construct)",
+                "bn": "বিশেষ্য (কর্ম, সম্বন্ধ)"
+              }
+            },
+            {
+              "ar": "هَٰذَا",
+              "en": "this",
+              "bn": "এই",
+              "role": {
+                "en": "demonstrative",
+                "bn": "নির্দেশক সর্বনাম"
+              }
+            },
+            {
+              "ar": "ٱلْبَيْتِ",
+              "en": "House",
+              "bn": "ঘরের",
+              "role": {
+                "en": "noun (genitive)",
+                "bn": "বিশেষ্য (সম্বন্ধ)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "106:4",
+          "trans": {
+            "en": "Who has fed them against hunger and made them safe from fear.",
+            "bn": "যিনি তাদের ক্ষুধায় খাদ্য দিয়েছেন এবং ভয় থেকে নিরাপদ করেছেন।"
+          },
+          "note": {
+            "en": "Two parallel past verbs, at'amahum (fed them) and amanahum (secured them), name the twin blessings of food and safety.",
+            "bn": "দুটি সমান্তরাল অতীত ক্রিয়া, আত'আমাহুম (তাদের খাদ্য দিয়েছেন) ও আমানাহুম (তাদের নিরাপদ করেছেন), খাদ্য ও নিরাপত্তার জোড়া নিয়ামতের নাম দেয়।"
+          },
+          "words": [
+            {
+              "ar": "ٱلَّذِىٓ",
+              "en": "Who",
+              "bn": "যিনি",
+              "role": {
+                "en": "relative pronoun",
+                "bn": "সম্বন্ধবাচক সর্বনাম"
+              }
+            },
+            {
+              "ar": "أَطْعَمَهُم",
+              "en": "has fed them",
+              "bn": "তাদের খাদ্য দিয়েছেন",
+              "role": {
+                "en": "past verb + pronoun",
+                "bn": "অতীত ক্রিয়া + সর্বনাম"
+              },
+              "hl": true
+            },
+            {
+              "ar": "مِّن",
+              "en": "against",
+              "bn": "থেকে",
+              "role": {
+                "en": "preposition",
+                "bn": "পূর্বসর্গ"
+              }
+            },
+            {
+              "ar": "جُوعٍ",
+              "en": "hunger",
+              "bn": "ক্ষুধা",
+              "role": {
+                "en": "noun (genitive)",
+                "bn": "বিশেষ্য (সম্বন্ধ)"
+              }
+            },
+            {
+              "ar": "وَءَامَنَهُم",
+              "en": "and made them safe",
+              "bn": "এবং তাদের নিরাপদ করেছেন",
+              "role": {
+                "en": "conjunction + past verb + pronoun",
+                "bn": "সংযোজক + অতীত ক্রিয়া + সর্বনাম"
+              },
+              "hl": true
+            },
+            {
+              "ar": "مِّنْ",
+              "en": "from",
+              "bn": "থেকে",
+              "role": {
+                "en": "preposition",
+                "bn": "পূর্বসর্গ"
+              }
+            },
+            {
+              "ar": "خَوْفٍۭ",
+              "en": "fear",
+              "bn": "ভয়",
+              "role": {
+                "en": "noun (genitive)",
+                "bn": "বিশেষ্য (সম্বন্ধ)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "What two blessings does 106:4 mention Allah gave Quraysh?",
+          "bn": "১০৬:৪ আয়াতে আল্লাহ কুরাইশদের কোন দুটি নিয়ামত দিয়েছেন?"
+        },
+        "options": [
+          "Food against hunger and safety from fear",
+          "Gold and silver",
+          "Rain and rivers",
+          "Victory and land"
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "At'amahum min ju' (fed against hunger) and amanahum min khawf (secured from fear) are the two blessings.",
+          "bn": "আত'আমাহুম মিন জু' (ক্ষুধায় খাদ্য) ও আমানাহুম মিন খাওফ (ভয় থেকে নিরাপত্তা) হলো দুটি নিয়ামত।"
+        }
+      }
+    }
+  ]
+}

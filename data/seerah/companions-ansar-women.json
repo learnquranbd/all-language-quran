@@ -1,0 +1,156 @@
+{
+  "companions": [
+    {
+      "init": "SM",
+      "color": "bg-green-600",
+      "nameEn": "Sa'd ibn Mu'adh (RA)",
+      "nameBn": "সা'দ ইবনে মু'আয (রাঃ)",
+      "descEn": "Chief of the Aws tribe of Madinah who embraced Islam shortly after Mus'ab ibn Umayr arrived, leading much of his tribe to faith. He was wounded at the Battle of the Trench and later delivered the judgement against Banu Qurayzah. It is narrated that the throne of the Most Merciful shook at his death.",
+      "descBn": "মদিনার আওস গোত্রের প্রধান, যিনি মুস'আব ইবনে উমায়ের আসার কিছুকাল পরেই ইসলাম গ্রহণ করেন এবং তাঁর গোত্রের অধিকাংশকে ঈমানের দিকে নিয়ে আসেন। খন্দকের যুদ্ধে তিনি আহত হন এবং পরে বনু কুরায়যার ব্যাপারে রায় দেন। বর্ণিত আছে যে, তাঁর মৃত্যুতে রহমানের আরশ কেঁপে উঠেছিল।"
+    },
+    {
+      "init": "SU",
+      "color": "bg-cyan-600",
+      "nameEn": "Sa'd ibn Ubadah (RA)",
+      "nameBn": "সা'দ ইবনে উবাদা (রাঃ)",
+      "descEn": "Chief of the Khazraj tribe of Madinah, renowned for his exceptional generosity and hospitality toward the Prophet ﷺ and his companions. He was among the leaders (naqib) chosen at the Pledge of Aqabah and carried the banner of the Ansar.",
+      "descBn": "মদিনার খাযরাজ গোত্রের প্রধান, যিনি নবী ﷺ ও তাঁর সাহাবীদের প্রতি অসাধারণ দানশীলতা ও আতিথেয়তার জন্য প্রসিদ্ধ। তিনি আকাবার শপথে নির্বাচিত নেতাদের (নকীব) একজন ছিলেন এবং আনসারদের পতাকা বহন করতেন।"
+    },
+    {
+      "init": "UK",
+      "color": "bg-pink-500",
+      "nameEn": "Ubayy ibn Ka'b (RA)",
+      "nameBn": "উবাই ইবনে কা'ব (রাঃ)",
+      "descEn": "One of the foremost reciters of the Qur'an among the companions and a leading scribe of revelation. The Prophet ﷺ once told him that Allah had commanded him to recite the Qur'an to him, and he was called Sayyid al-Qurra (master of the reciters).",
+      "descBn": "সাহাবীদের মধ্যে কুরআনের অন্যতম শ্রেষ্ঠ কারী এবং ওহী লেখকদের একজন প্রধান। নবী ﷺ একবার তাঁকে বলেছিলেন যে, আল্লাহ তাঁকে উবাইর কাছে কুরআন তিলাওয়াত করার নির্দেশ দিয়েছেন; তাঁকে সায়্যিদুল কুররা (কারীদের সর্দার) বলা হতো।"
+    },
+    {
+      "init": "ZT",
+      "color": "bg-fuchsia-600",
+      "nameEn": "Zayd ibn Thabit (RA)",
+      "nameBn": "যায়েদ ইবনে সাবিত (রাঃ)",
+      "descEn": "A young Ansari scholar who served as a chief scribe of the revelation for the Prophet ﷺ. He was later entrusted by Abu Bakr (RA) and Uthman (RA) with the momentous task of compiling the Qur'an into a single authoritative text.",
+      "descBn": "একজন তরুণ আনসারি আলেম, যিনি নবী ﷺ-এর ওহী লেখকদের প্রধান হিসেবে দায়িত্ব পালন করেন। পরে আবু বকর (রাঃ) ও উসমান (রাঃ) তাঁকে কুরআনকে একটি নির্ভরযোগ্য গ্রন্থে সংকলনের মহান দায়িত্ব অর্পণ করেন।"
+    },
+    {
+      "init": "AA",
+      "color": "bg-lime-600",
+      "nameEn": "Abu Ayyub al-Ansari (RA)",
+      "nameBn": "আবু আইয়ুব আল-আনসারি (রাঃ)",
+      "descEn": "The Ansari host who welcomed the Prophet ﷺ into his home when he first arrived in Madinah after the Hijrah. A devoted warrior throughout his life, he died during the siege of Constantinople in old age and was buried near its walls.",
+      "descBn": "সেই আনসারি সাহাবী যিনি হিজরতের পর মদিনায় পৌঁছালে নবী ﷺ-কে নিজ ঘরে বরণ করে নিয়েছিলেন। সারাজীবন নিষ্ঠাবান যোদ্ধা এই সাহাবী বৃদ্ধ বয়সে কনস্টান্টিনোপল অবরোধের সময় ইন্তেকাল করেন এবং শহরের প্রাচীরের কাছে সমাহিত হন।"
+    },
+    {
+      "init": "MJ",
+      "color": "bg-red-500",
+      "nameEn": "Mu'adh ibn Jabal (RA)",
+      "nameBn": "মু'আয ইবনে জাবাল (রাঃ)",
+      "descEn": "A young Ansari companion praised by the Prophet ﷺ as the most knowledgeable of his community regarding the lawful and the forbidden. He was sent as a teacher and judge to Yemen and was known for his deep understanding of jurisprudence.",
+      "descBn": "একজন তরুণ আনসারি সাহাবী, যাঁকে নবী ﷺ হালাল-হারাম সম্পর্কে তাঁর উম্মতের মধ্যে সবচেয়ে জ্ঞানী বলে প্রশংসা করেছেন। তাঁকে শিক্ষক ও বিচারক হিসেবে ইয়েমেনে পাঠানো হয়েছিল এবং তিনি ফিকহের গভীর জ্ঞানের জন্য পরিচিত ছিলেন।"
+    },
+    {
+      "init": "AM",
+      "color": "bg-blue-600",
+      "nameEn": "Anas ibn Malik (RA)",
+      "nameBn": "আনাস ইবনে মালিক (রাঃ)",
+      "descEn": "As a boy he was placed in the service of the Prophet ﷺ by his mother Umm Sulaym (RA) and served him faithfully for about ten years. He became one of the most prolific narrators of hadith and lived to a great age.",
+      "descBn": "বালক বয়সে তাঁর মা উম্মে সুলাইম (রাঃ) তাঁকে নবী ﷺ-এর সেবায় নিয়োজিত করেন এবং তিনি প্রায় দশ বছর বিশ্বস্তভাবে তাঁর খেদমত করেন। তিনি হাদিসের অন্যতম প্রধান বর্ণনাকারী হন এবং দীর্ঘ আয়ু লাভ করেন।"
+    },
+    {
+      "init": "AT",
+      "color": "bg-violet-600",
+      "nameEn": "Abu Talhah al-Ansari (RA)",
+      "nameBn": "আবু তালহা আল-আনসারি (রাঃ)",
+      "descEn": "A courageous Ansari warrior who shielded the Prophet ﷺ with his own body at the Battle of Uhud. When the verse about spending from what one loves was revealed, he gave his most beloved garden, Bayruha, in charity.",
+      "descBn": "একজন সাহসী আনসারি যোদ্ধা, যিনি উহুদের যুদ্ধে নিজ দেহ দিয়ে নবী ﷺ-কে রক্ষা করেছিলেন। প্রিয় বস্তু থেকে দান করার আয়াত নাযিল হলে তিনি তাঁর সবচেয়ে প্রিয় বাগান বায়রুহা দান করে দেন।"
+    },
+    {
+      "init": "AR",
+      "color": "bg-green-600",
+      "nameEn": "Abdullah ibn Rawahah (RA)",
+      "nameBn": "আব্দুল্লাহ ইবনে রাওয়াহা (রাঃ)",
+      "descEn": "An Ansari poet who defended Islam with his verse and was among the leaders at the second Pledge of Aqabah. He was appointed a commander at the Battle of Mu'tah and was martyred there after Zayd (RA) and Ja'far (RA).",
+      "descBn": "একজন আনসারি কবি, যিনি তাঁর কবিতা দিয়ে ইসলামের প্রতিরক্ষা করতেন এবং দ্বিতীয় আকাবার শপথে নেতাদের একজন ছিলেন। মুতার যুদ্ধে তাঁকে সেনাপতি নিযুক্ত করা হয় এবং যায়েদ (রাঃ) ও জাফর (রাঃ)-এর পর তিনি সেখানে শহীদ হন।"
+    },
+    {
+      "init": "BM",
+      "color": "bg-cyan-600",
+      "nameEn": "al-Bara ibn Malik (RA)",
+      "nameBn": "আল-বারা ইবনে মালিক (রাঃ)",
+      "descEn": "The brother of Anas ibn Malik (RA) and a warrior of legendary courage whose supplications were known to be answered. During the wars of apostasy he was thrown over the enemy wall at the Battle of Yamamah to open the gate for the Muslims.",
+      "descBn": "আনাস ইবনে মালিক (রাঃ)-এর ভাই এবং কিংবদন্তিতুল্য সাহসী যোদ্ধা, যাঁর দোয়া কবুল হওয়ার জন্য পরিচিত ছিলেন। রিদ্দার যুদ্ধকালে ইয়ামামার যুদ্ধে মুসলিমদের জন্য দুর্গের দরজা খুলে দিতে তাঁকে শত্রুর প্রাচীরের ওপারে নিক্ষেপ করা হয়েছিল।"
+    },
+    {
+      "init": "SK",
+      "color": "bg-pink-500",
+      "nameEn": "Sumayyah bint Khayyat (RA)",
+      "nameBn": "সুমাইয়া বিনতে খাইয়াত (রাঃ)",
+      "descEn": "The mother of Ammar ibn Yasir (RA) and among the earliest to accept Islam in Makkah. She endured severe torture for her faith and was martyred by Abu Jahl, becoming the first martyr in the history of Islam.",
+      "descBn": "আম্মার ইবনে ইয়াসির (রাঃ)-এর মা এবং মক্কায় সর্বপ্রথম ইসলাম গ্রহণকারীদের একজন। ঈমানের কারণে তিনি কঠোর নির্যাতন সহ্য করেন এবং আবু জাহলের হাতে শহীদ হন—তিনিই ইসলামের ইতিহাসে প্রথম শহীদ।"
+    },
+    {
+      "init": "UA",
+      "color": "bg-fuchsia-600",
+      "nameEn": "Nusaybah bint Ka'b, Umm Ammarah (RA)",
+      "nameBn": "নুসাইবা বিনতে কা'ব, উম্মে আম্মারা (রাঃ)",
+      "descEn": "An Ansari woman who took the Pledge of Aqabah and defended the Prophet ﷺ with sword and shield at the Battle of Uhud, receiving many wounds. The Prophet ﷺ praised her steadfastness, saying he saw no one that day whose stand was better than hers.",
+      "descBn": "একজন আনসারি নারী, যিনি আকাবার শপথ গ্রহণ করেন এবং উহুদের যুদ্ধে তরবারি ও ঢাল দিয়ে নবী ﷺ-কে রক্ষা করেন ও বহু আঘাত পান। নবী ﷺ তাঁর অবিচলতার প্রশংসা করে বলেন যে, সেদিন তিনি তাঁর চেয়ে উত্তম অবস্থানে আর কাউকে দেখেননি।"
+    },
+    {
+      "init": "AB",
+      "color": "bg-lime-600",
+      "nameEn": "Asma bint Abi Bakr (RA)",
+      "nameBn": "আসমা বিনতে আবু বকর (রাঃ)",
+      "descEn": "The daughter of Abu Bakr (RA) who carried provisions to the Prophet ﷺ and her father in the cave of Thawr during the Hijrah, earning the title Dhat an-Nitaqayn (she of the two waistbands). She was the mother of Abdullah ibn al-Zubayr (RA) and lived to a very old age.",
+      "descBn": "আবু বকর (রাঃ)-এর কন্যা, যিনি হিজরতের সময় সাওর গুহায় নবী ﷺ ও তাঁর পিতার কাছে খাদ্য পৌঁছে দিতেন, যার ফলে তিনি 'যাতুন নিতাকাইন' (দুই কোমরবন্ধের অধিকারিণী) উপাধি লাভ করেন। তিনি আব্দুল্লাহ ইবনে যুবায়ের (রাঃ)-এর মা এবং অতি বৃদ্ধ বয়স পর্যন্ত জীবিত ছিলেন।"
+    },
+    {
+      "init": "US",
+      "color": "bg-red-500",
+      "nameEn": "Umm Sulaym bint Milhan (RA)",
+      "nameBn": "উম্মে সুলাইম বিনতে মিলহান (রাঃ)",
+      "descEn": "An Ansari woman of great faith and wisdom, mother of Anas ibn Malik (RA), who accepted Islam early and asked her suitor Abu Talhah (RA) for his acceptance of Islam as her dowry. She accompanied the Muslims in battle, tending the wounded and carrying water.",
+      "descBn": "মহান ঈমান ও প্রজ্ঞার অধিকারিণী একজন আনসারি নারী, আনাস ইবনে মালিক (রাঃ)-এর মা, যিনি প্রথম দিকে ইসলাম গ্রহণ করেন এবং প্রস্তাবকারী আবু তালহা (রাঃ)-এর কাছে মহর হিসেবে তাঁর ইসলাম গ্রহণকেই চেয়েছিলেন। তিনি যুদ্ধে মুসলিমদের সঙ্গী হয়ে আহতদের সেবা ও পানি সরবরাহ করতেন।"
+    },
+    {
+      "init": "AY",
+      "color": "bg-blue-600",
+      "nameEn": "Umm Ayman, Barakah (RA)",
+      "nameBn": "উম্মে আইমান, বারাকা (রাঃ)",
+      "descEn": "The freed servant who nursed and cared for the Prophet ﷺ from his infancy and remained devoted to him throughout her life. He referred to her with affection as being like a mother to him after his own mother, and she migrated to both Abyssinia and Madinah.",
+      "descBn": "সেই মুক্ত দাসী, যিনি শৈশব থেকে নবী ﷺ-এর দেখাশোনা ও লালনপালন করেন এবং সারাজীবন তাঁর প্রতি নিবেদিত থাকেন। নবী ﷺ তাঁকে স্নেহভরে নিজের মায়ের পর মায়ের মতো বলে উল্লেখ করতেন; তিনি আবিসিনিয়া ও মদিনা উভয় স্থানে হিজরত করেন।"
+    },
+    {
+      "init": "KH",
+      "color": "bg-violet-600",
+      "nameEn": "al-Khansa bint Amr (RA)",
+      "nameBn": "আল-খানসা বিনতে আমর (রাঃ)",
+      "descEn": "One of the most celebrated poets of the Arabs, who embraced Islam and was known for her patience. At the Battle of al-Qadisiyyah she encouraged her four sons to fight bravely, and when all were martyred she praised Allah for honouring her with their martyrdom.",
+      "descBn": "আরবদের অন্যতম প্রসিদ্ধ কবি, যিনি ইসলাম গ্রহণ করেন এবং ধৈর্যের জন্য পরিচিত ছিলেন। কাদিসিয়ার যুদ্ধে তিনি তাঁর চার পুত্রকে সাহসিকতার সঙ্গে যুদ্ধ করতে উৎসাহিত করেন এবং সকলে শহীদ হলে তিনি তাঁদের শাহাদাতের সম্মানের জন্য আল্লাহর প্রশংসা করেন।"
+    },
+    {
+      "init": "RA",
+      "color": "bg-green-600",
+      "nameEn": "Rufaydah al-Aslamiyyah (RA)",
+      "nameBn": "রুফাইদা আল-আসলামিয়া (রাঃ)",
+      "descEn": "An Ansari woman regarded as the first nurse in Islam, who cared for the sick and wounded and set up a tent within the mosque to treat casualties. Sa'd ibn Mu'adh (RA) was brought to her tent to be nursed after being wounded at the Battle of the Trench.",
+      "descBn": "একজন আনসারি নারী, যাঁকে ইসলামের প্রথম নার্স হিসেবে গণ্য করা হয়; তিনি অসুস্থ ও আহতদের সেবা করতেন এবং মসজিদের ভেতরে আহতদের চিকিৎসার জন্য একটি তাঁবু স্থাপন করেছিলেন। খন্দকের যুদ্ধে আহত হওয়ার পর সা'দ ইবনে মু'আয (রাঃ)-কে তাঁর তাঁবুতে সেবার জন্য আনা হয়েছিল।"
+    },
+    {
+      "init": "UW",
+      "color": "bg-cyan-600",
+      "nameEn": "Umm Waraqah bint Abdullah (RA)",
+      "nameBn": "উম্মে ওয়ারাকা বিনতে আব্দুল্লাহ (রাঃ)",
+      "descEn": "An Ansari woman who had memorised much of the Qur'an and whom the Prophet ﷺ used to visit, calling her the martyr. He permitted her to lead the people of her household in prayer, and she was devoted to worship and recitation.",
+      "descBn": "একজন আনসারি নারী, যিনি কুরআনের অনেকাংশ মুখস্থ করেছিলেন এবং নবী ﷺ তাঁকে দেখতে যেতেন ও 'শহীদা' বলে ডাকতেন। নবী ﷺ তাঁকে তাঁর গৃহের লোকদের নামাযে ইমামতি করার অনুমতি দিয়েছিলেন; তিনি ইবাদত ও তিলাওয়াতে নিবেদিত ছিলেন।"
+    },
+    {
+      "init": "SA",
+      "color": "bg-pink-500",
+      "nameEn": "al-Shifa bint Abdullah (RA)",
+      "nameBn": "আশ-শিফা বিনতে আব্দুল্লাহ (রাঃ)",
+      "descEn": "An early Quraysh convert to Islam noted for her literacy and wisdom, being one of the few who could read and write. She taught reading and remedies to others, and Umar (RA) held her in high regard, sometimes entrusting her with matters of the marketplace.",
+      "descBn": "একজন প্রাথমিক কুরাইশ মুসলিম নারী, যিনি সাক্ষরতা ও প্রজ্ঞার জন্য প্রসিদ্ধ ছিলেন এবং সেই অল্প কয়েকজনের একজন যিনি পড়তে ও লিখতে পারতেন। তিনি অন্যদের লেখা ও চিকিৎসা শেখাতেন এবং উমর (রাঃ) তাঁকে উচ্চ মর্যাদা দিতেন, কখনো কখনো তাঁকে বাজারের দায়িত্ব দিতেন।"
+    }
+  ]
+}

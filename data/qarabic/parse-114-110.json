@@ -1,0 +1,1431 @@
+{
+  "units": [
+    {
+      "id": "read-114",
+      "icon": "📖",
+      "en": "Reading Surah an-Nas (114)",
+      "bn": "সূরা আন-নাস (১১৪) পড়া",
+      "order": 20
+    },
+    {
+      "id": "read-113",
+      "icon": "📖",
+      "en": "Reading Surah al-Falaq (113)",
+      "bn": "সূরা আল-ফালাক (১১৩) পড়া",
+      "order": 21
+    },
+    {
+      "id": "read-112",
+      "icon": "📖",
+      "en": "Reading Surah al-Ikhlas (112)",
+      "bn": "সূরা আল-ইখলাস (১১২) পড়া",
+      "order": 22
+    },
+    {
+      "id": "read-111",
+      "icon": "📖",
+      "en": "Reading Surah al-Masad (111)",
+      "bn": "সূরা আল-মাসাদ (১১১) পড়া",
+      "order": 23
+    },
+    {
+      "id": "read-110",
+      "icon": "📖",
+      "en": "Reading Surah an-Nasr (110)",
+      "bn": "সূরা আন-নাসর (১১০) পড়া",
+      "order": 24
+    }
+  ],
+  "lessons": [
+    {
+      "id": "read-114-1",
+      "unit": "read-114",
+      "icon": "📖",
+      "title": {
+        "en": "Surah an-Nas — word by word",
+        "bn": "সূরা আন-নাস — শব্দে শব্দে"
+      },
+      "concept": {
+        "en": "This surah teaches the imperative verb (amr) 'qul' and the genitive construct chain (idafah), where each governed noun takes the kasra ending. It also shows the relative pronoun al-ladhi introducing a clause.",
+        "bn": "এই সূরা আদেশসূচক ক্রিয়া (আমর) 'কুল' এবং সম্বন্ধযুক্ত ইদাফা শেখায়, যেখানে প্রতিটি অধীন বিশেষ্য কাসরা গ্রহণ করে। এটি আল-লাযি সম্বন্ধবাচক সর্বনামও দেখায়।"
+      },
+      "examples": [
+        {
+          "ref": "114:1",
+          "trans": {
+            "en": "Say: I seek refuge in the Lord of mankind,",
+            "bn": "বলো, আমি আশ্রয় চাই মানুষের রবের কাছে,"
+          },
+          "note": {
+            "en": "'qul' is a command verb; 'bi-rabbi' is a preposition + genitive noun starting an idafah chain with al-nas.",
+            "bn": "'কুল' একটি আদেশসূচক ক্রিয়া; 'বিরব্বি' একটি অব্যয় + সম্বন্ধপদ যা আন-নাসের সাথে ইদাফা শুরু করে।"
+          },
+          "words": [
+            {
+              "ar": "قُلْ",
+              "en": "Say",
+              "bn": "বলো",
+              "role": {
+                "en": "command verb (amr)",
+                "bn": "আদেশসূচক ক্রিয়া (আমর)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "أَعُوذُ",
+              "en": "I seek refuge",
+              "bn": "আমি আশ্রয় চাই",
+              "role": {
+                "en": "present-tense verb, 1st person",
+                "bn": "বর্তমান কালের ক্রিয়া, উত্তম পুরুষ"
+              }
+            },
+            {
+              "ar": "بِرَبِّ",
+              "en": "in the Lord of",
+              "bn": "রবের কাছে",
+              "role": {
+                "en": "preposition + genitive noun",
+                "bn": "অব্যয় + সম্বন্ধপদ (মাজরুর)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلنَّاسِ",
+              "en": "mankind",
+              "bn": "মানুষের",
+              "role": {
+                "en": "genitive noun (mudaf ilayh)",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "114:2",
+          "trans": {
+            "en": "the King of mankind,",
+            "bn": "মানুষের বাদশাহ,"
+          },
+          "note": {
+            "en": "'malik' is an apposition (badal) to 'rabb', also in the genitive as the second term of a new idafah.",
+            "bn": "'মালিক' 'রব্ব'-এর বদল, এটিও নতুন ইদাফার প্রথম পদ হিসেবে সম্বন্ধ অবস্থায়।"
+          },
+          "words": [
+            {
+              "ar": "مَلِكِ",
+              "en": "King of",
+              "bn": "বাদশাহ",
+              "role": {
+                "en": "genitive noun, apposition (badal)",
+                "bn": "সম্বন্ধ বিশেষ্য, বদল"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلنَّاسِ",
+              "en": "mankind",
+              "bn": "মানুষের",
+              "role": {
+                "en": "genitive noun (mudaf ilayh)",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "114:3",
+          "trans": {
+            "en": "the God of mankind,",
+            "bn": "মানুষের ইলাহ (উপাস্য),"
+          },
+          "note": {
+            "en": "'ilah' is a further apposition (badal) to 'rabb', again genitive, heading another idafah.",
+            "bn": "'ইলাহ' 'রব্ব'-এর আরেকটি বদল, আবার সম্বন্ধ অবস্থায়, আরেকটি ইদাফার শীর্ষ।"
+          },
+          "words": [
+            {
+              "ar": "إِلَٰهِ",
+              "en": "God of",
+              "bn": "ইলাহ",
+              "role": {
+                "en": "genitive noun, apposition (badal)",
+                "bn": "সম্বন্ধ বিশেষ্য, বদল"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلنَّاسِ",
+              "en": "mankind",
+              "bn": "মানুষের",
+              "role": {
+                "en": "genitive noun (mudaf ilayh)",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "114:4",
+          "trans": {
+            "en": "from the evil of the sneaking whisperer,",
+            "bn": "সেই কুমন্ত্রণাদাতার অনিষ্ট থেকে যে লুকিয়ে যায়,"
+          },
+          "note": {
+            "en": "'min' governs 'sharr' in the genitive; 'sharr' heads an idafah with 'al-waswas', and 'al-khannas' is its adjective (na't).",
+            "bn": "'মিন' 'শার্র'-কে সম্বন্ধ করে; 'শার্র' 'আল-ওয়াসওয়াস'-এর সাথে ইদাফা করে, আর 'আল-খান্নাস' তার বিশেষণ (নাত)।"
+          },
+          "words": [
+            {
+              "ar": "مِن",
+              "en": "from",
+              "bn": "থেকে",
+              "role": {
+                "en": "preposition (harf jarr)",
+                "bn": "অব্যয় (হারফ জার্র)"
+              }
+            },
+            {
+              "ar": "شَرِّ",
+              "en": "the evil of",
+              "bn": "অনিষ্ট",
+              "role": {
+                "en": "genitive noun (majrur), mudaf",
+                "bn": "সম্বন্ধপদ (মাজরুর), মুদাফ"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلْوَسْوَاسِ",
+              "en": "the whisperer",
+              "bn": "কুমন্ত্রণাদাতা",
+              "role": {
+                "en": "genitive noun (mudaf ilayh)",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "ٱلْخَنَّاسِ",
+              "en": "who withdraws",
+              "bn": "যে পিছিয়ে লুকায়",
+              "role": {
+                "en": "adjective (na't)",
+                "bn": "বিশেষণ (নাত)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "114:5",
+          "trans": {
+            "en": "who whispers into the breasts of mankind,",
+            "bn": "যে মানুষের অন্তরে কুমন্ত্রণা দেয়,"
+          },
+          "note": {
+            "en": "'al-ladhi' is a relative pronoun; 'yuwaswisu' is the present-tense verb of its clause; 'fi suduri' is a prepositional phrase in an idafah with al-nas.",
+            "bn": "'আল-লাযি' সম্বন্ধবাচক সর্বনাম; 'ইউওয়াসউইসু' তার বাক্যের বর্তমান ক্রিয়া; 'ফি সুদুরি' আন-নাসের সাথে ইদাফাযুক্ত অব্যয়-বাক্যাংশ।"
+          },
+          "words": [
+            {
+              "ar": "ٱلَّذِى",
+              "en": "who",
+              "bn": "যে",
+              "role": {
+                "en": "relative pronoun (ism mawsul)",
+                "bn": "সম্বন্ধবাচক সর্বনাম (ইসম মাউসুল)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "يُوَسْوِسُ",
+              "en": "whispers",
+              "bn": "কুমন্ত্রণা দেয়",
+              "role": {
+                "en": "present-tense verb",
+                "bn": "বর্তমান কালের ক্রিয়া"
+              }
+            },
+            {
+              "ar": "فِى",
+              "en": "in / into",
+              "bn": "মধ্যে",
+              "role": {
+                "en": "preposition (harf jarr)",
+                "bn": "অব্যয় (হারফ জার্র)"
+              }
+            },
+            {
+              "ar": "صُدُورِ",
+              "en": "the breasts of",
+              "bn": "অন্তরসমূহ",
+              "role": {
+                "en": "genitive noun (majrur), mudaf",
+                "bn": "সম্বন্ধপদ (মাজরুর), মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱلنَّاسِ",
+              "en": "mankind",
+              "bn": "মানুষের",
+              "role": {
+                "en": "genitive noun (mudaf ilayh)",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "114:6",
+          "trans": {
+            "en": "from among the jinn and mankind.",
+            "bn": "জিন ও মানুষের মধ্য থেকে।"
+          },
+          "note": {
+            "en": "'min' governs 'al-jinnah' in the genitive; 'wa-al-nas' is coordinated (ma'tuf) to it by the conjunction wa.",
+            "bn": "'মিন' 'আল-জিন্নাহ'-কে সম্বন্ধ করে; 'ওয়া-আন-নাস' 'ওয়া' সংযোজক দিয়ে যুক্ত (মাতুফ)।"
+          },
+          "words": [
+            {
+              "ar": "مِنَ",
+              "en": "from among",
+              "bn": "মধ্য থেকে",
+              "role": {
+                "en": "preposition (harf jarr)",
+                "bn": "অব্যয় (হারফ জার্র)"
+              }
+            },
+            {
+              "ar": "ٱلْجِنَّةِ",
+              "en": "the jinn",
+              "bn": "জিন",
+              "role": {
+                "en": "genitive noun (majrur)",
+                "bn": "সম্বন্ধপদ (মাজরুর)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "وَٱلنَّاسِ",
+              "en": "and mankind",
+              "bn": "ও মানুষ",
+              "role": {
+                "en": "conjunction + coordinated noun (ma'tuf)",
+                "bn": "সংযোজক + যুক্ত বিশেষ্য (মাতুফ)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "What is the grammatical role of 'qul' in ayah 1?",
+          "bn": "১ম আয়াতে 'কুল'-এর ব্যাকরণগত ভূমিকা কী?"
+        },
+        "options": [
+          "Command verb (amr)",
+          "Noun",
+          "Relative pronoun",
+          "Preposition"
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "'Qul' is an imperative (amr) verb meaning 'Say', addressed to the Prophet.",
+          "bn": "'কুল' একটি আদেশসূচক (আমর) ক্রিয়া, অর্থ 'বলো', নবীকে সম্বোধন করে।"
+        }
+      }
+    },
+    {
+      "id": "read-113-1",
+      "unit": "read-113",
+      "icon": "📖",
+      "title": {
+        "en": "Surah al-Falaq — word by word",
+        "bn": "সূরা আল-ফালাক — শব্দে শব্দে"
+      },
+      "concept": {
+        "en": "This surah repeats the pattern 'min sharr' (from the evil of) governing genitive nouns, and introduces the conditional/adverbial particle 'idha' (when) followed by a past-tense verb.",
+        "bn": "এই সূরা 'মিন শার্র' (অনিষ্ট থেকে) কাঠামো পুনরাবৃত্তি করে যা সম্বন্ধপদ শাসন করে, এবং 'ইযা' (যখন) শর্তবাচক অব্যয় ও তার পরের অতীত ক্রিয়া পরিচয় করায়।"
+      },
+      "examples": [
+        {
+          "ref": "113:1",
+          "trans": {
+            "en": "Say: I seek refuge in the Lord of the daybreak,",
+            "bn": "বলো, আমি আশ্রয় চাই ভোরের রবের কাছে,"
+          },
+          "note": {
+            "en": "Same opening as an-Nas: command verb + present verb + preposition + genitive idafah with 'al-falaq'.",
+            "bn": "আন-নাসের মতোই সূচনা: আদেশ ক্রিয়া + বর্তমান ক্রিয়া + অব্যয় + 'আল-ফালাক'-এর সাথে সম্বন্ধ ইদাফা।"
+          },
+          "words": [
+            {
+              "ar": "قُلْ",
+              "en": "Say",
+              "bn": "বলো",
+              "role": {
+                "en": "command verb (amr)",
+                "bn": "আদেশসূচক ক্রিয়া (আমর)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "أَعُوذُ",
+              "en": "I seek refuge",
+              "bn": "আমি আশ্রয় চাই",
+              "role": {
+                "en": "present-tense verb, 1st person",
+                "bn": "বর্তমান কালের ক্রিয়া, উত্তম পুরুষ"
+              }
+            },
+            {
+              "ar": "بِرَبِّ",
+              "en": "in the Lord of",
+              "bn": "রবের কাছে",
+              "role": {
+                "en": "preposition + genitive noun (mudaf)",
+                "bn": "অব্যয় + সম্বন্ধপদ (মুদাফ)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلْفَلَقِ",
+              "en": "the daybreak",
+              "bn": "ভোর",
+              "role": {
+                "en": "genitive noun (mudaf ilayh)",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "113:2",
+          "trans": {
+            "en": "from the evil of what He created,",
+            "bn": "তিনি যা সৃষ্টি করেছেন তার অনিষ্ট থেকে,"
+          },
+          "note": {
+            "en": "'ma' is a relative noun (what); 'khalaqa' is a past-tense verb whose object is understood.",
+            "bn": "'মা' একটি সম্বন্ধবাচক বিশেষ্য (যা); 'খালাকা' একটি অতীত ক্রিয়া যার কর্ম উহ্য।"
+          },
+          "words": [
+            {
+              "ar": "مِن",
+              "en": "from",
+              "bn": "থেকে",
+              "role": {
+                "en": "preposition (harf jarr)",
+                "bn": "অব্যয় (হারফ জার্র)"
+              }
+            },
+            {
+              "ar": "شَرِّ",
+              "en": "the evil of",
+              "bn": "অনিষ্ট",
+              "role": {
+                "en": "genitive noun (majrur), mudaf",
+                "bn": "সম্বন্ধপদ (মাজরুর), মুদাফ"
+              },
+              "hl": true
+            },
+            {
+              "ar": "مَا",
+              "en": "what",
+              "bn": "যা",
+              "role": {
+                "en": "relative noun (ism mawsul)",
+                "bn": "সম্বন্ধবাচক বিশেষ্য (ইসম মাউসুল)"
+              }
+            },
+            {
+              "ar": "خَلَقَ",
+              "en": "He created",
+              "bn": "তিনি সৃষ্টি করেছেন",
+              "role": {
+                "en": "past-tense verb (madi)",
+                "bn": "অতীত কালের ক্রিয়া (মাদি)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "113:3",
+          "trans": {
+            "en": "and from the evil of darkness when it settles in,",
+            "bn": "এবং অন্ধকার রাত্রির অনিষ্ট থেকে যখন তা গভীর হয়,"
+          },
+          "note": {
+            "en": "'ghasiq' is indefinite genitive; 'idha' introduces a time clause and 'waqaba' is its past-tense verb.",
+            "bn": "'গাসিক' অনির্দিষ্ট সম্বন্ধপদ; 'ইযা' একটি কালবাচক বাক্য শুরু করে এবং 'ওয়াকাবা' তার অতীত ক্রিয়া।"
+          },
+          "words": [
+            {
+              "ar": "وَمِن",
+              "en": "and from",
+              "bn": "এবং থেকে",
+              "role": {
+                "en": "conjunction + preposition",
+                "bn": "সংযোজক + অব্যয়"
+              }
+            },
+            {
+              "ar": "شَرِّ",
+              "en": "the evil of",
+              "bn": "অনিষ্ট",
+              "role": {
+                "en": "genitive noun (majrur), mudaf",
+                "bn": "সম্বন্ধপদ (মাজরুর), মুদাফ"
+              },
+              "hl": true
+            },
+            {
+              "ar": "غَاسِقٍ",
+              "en": "darkness",
+              "bn": "অন্ধকার রাত্রি",
+              "role": {
+                "en": "indefinite genitive noun (mudaf ilayh)",
+                "bn": "অনির্দিষ্ট সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "إِذَا",
+              "en": "when",
+              "bn": "যখন",
+              "role": {
+                "en": "adverbial particle of time (idha)",
+                "bn": "কালবাচক অব্যয় (ইযা)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "وَقَبَ",
+              "en": "it settles in",
+              "bn": "তা গভীর হয়",
+              "role": {
+                "en": "past-tense verb (madi)",
+                "bn": "অতীত কালের ক্রিয়া (মাদি)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "113:4",
+          "trans": {
+            "en": "and from the evil of the women who blow on knots,",
+            "bn": "এবং গিঁটে ফুঁ দেওয়া নারীদের অনিষ্ট থেকে,"
+          },
+          "note": {
+            "en": "'al-naffathat' is a feminine plural active participle in the genitive; 'fi al-'uqad' is a prepositional phrase describing them.",
+            "bn": "'আন-নাফ্‌ফাসাত' স্ত্রীবাচক বহুবচন কর্তৃবাচক বিশেষণ, সম্বন্ধ অবস্থায়; 'ফি আল-উকাদ' তাদের বর্ণনাকারী অব্যয়-বাক্যাংশ।"
+          },
+          "words": [
+            {
+              "ar": "وَمِن",
+              "en": "and from",
+              "bn": "এবং থেকে",
+              "role": {
+                "en": "conjunction + preposition",
+                "bn": "সংযোজক + অব্যয়"
+              }
+            },
+            {
+              "ar": "شَرِّ",
+              "en": "the evil of",
+              "bn": "অনিষ্ট",
+              "role": {
+                "en": "genitive noun (majrur), mudaf",
+                "bn": "সম্বন্ধপদ (মাজরুর), মুদাফ"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلنَّفَّٰثَٰتِ",
+              "en": "the women who blow",
+              "bn": "ফুঁদানকারিণীরা",
+              "role": {
+                "en": "feminine plural participle, genitive",
+                "bn": "স্ত্রীবাচক বহুবচন বিশেষণ, সম্বন্ধ"
+              }
+            },
+            {
+              "ar": "فِى",
+              "en": "on / in",
+              "bn": "মধ্যে",
+              "role": {
+                "en": "preposition (harf jarr)",
+                "bn": "অব্যয় (হারফ জার্র)"
+              }
+            },
+            {
+              "ar": "ٱلْعُقَدِ",
+              "en": "the knots",
+              "bn": "গিঁটসমূহ",
+              "role": {
+                "en": "genitive noun (majrur)",
+                "bn": "সম্বন্ধপদ (মাজরুর)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "113:5",
+          "trans": {
+            "en": "and from the evil of an envier when he envies.",
+            "bn": "এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে।"
+          },
+          "note": {
+            "en": "'hasid' is indefinite genitive; 'idha' + 'hasada' (past-tense verb) form the time clause, matching the pattern of ayah 3.",
+            "bn": "'হাসিদ' অনির্দিষ্ট সম্বন্ধপদ; 'ইযা' + 'হাসাদা' (অতীত ক্রিয়া) কালবাচক বাক্য গঠন করে, ৩ আয়াতের অনুরূপ।"
+          },
+          "words": [
+            {
+              "ar": "وَمِن",
+              "en": "and from",
+              "bn": "এবং থেকে",
+              "role": {
+                "en": "conjunction + preposition",
+                "bn": "সংযোজক + অব্যয়"
+              }
+            },
+            {
+              "ar": "شَرِّ",
+              "en": "the evil of",
+              "bn": "অনিষ্ট",
+              "role": {
+                "en": "genitive noun (majrur), mudaf",
+                "bn": "সম্বন্ধপদ (মাজরুর), মুদাফ"
+              },
+              "hl": true
+            },
+            {
+              "ar": "حَاسِدٍ",
+              "en": "an envier",
+              "bn": "হিংসুক",
+              "role": {
+                "en": "indefinite genitive noun (mudaf ilayh)",
+                "bn": "অনির্দিষ্ট সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "إِذَا",
+              "en": "when",
+              "bn": "যখন",
+              "role": {
+                "en": "adverbial particle of time (idha)",
+                "bn": "কালবাচক অব্যয় (ইযা)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "حَسَدَ",
+              "en": "he envies",
+              "bn": "সে হিংসা করে",
+              "role": {
+                "en": "past-tense verb (madi)",
+                "bn": "অতীত কালের ক্রিয়া (মাদি)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "What does the particle 'idha' introduce in ayat 3 and 5?",
+          "bn": "৩ ও ৫ আয়াতে 'ইযা' অব্যয় কী পরিচয় করায়?"
+        },
+        "options": [
+          "A clause of time (when...)",
+          "A negation",
+          "A command",
+          "A question"
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "'Idha' is an adverbial particle meaning 'when', introducing a time clause with a past-tense verb.",
+          "bn": "'ইযা' একটি কালবাচক অব্যয়, অর্থ 'যখন', অতীত ক্রিয়াসহ কালবাচক বাক্য শুরু করে।"
+        }
+      }
+    },
+    {
+      "id": "read-112-1",
+      "unit": "read-112",
+      "icon": "📖",
+      "title": {
+        "en": "Surah al-Ikhlas — word by word",
+        "bn": "সূরা আল-ইখলাস — শব্দে শব্দে"
+      },
+      "concept": {
+        "en": "This surah shows nominal (equational) sentences with a subject (mubtada) and predicate (khabar), and the negation of past/future action using 'lam' + jussive verb.",
+        "bn": "এই সূরা কর্তা (মুবতাদা) ও বিধেয় (খাবার)-সহ বিশেষ্যবাচক বাক্য দেখায়, এবং 'লাম' + জাযম ক্রিয়া দিয়ে অতীত/ভবিষ্যৎ কর্মের নেতিবাচকতা দেখায়।"
+      },
+      "examples": [
+        {
+          "ref": "112:1",
+          "trans": {
+            "en": "Say: He is Allah, One,",
+            "bn": "বলো, তিনিই আল্লাহ, একক,"
+          },
+          "note": {
+            "en": "'huwa' is the subject (mubtada), 'Allah' is the predicate (khabar), and 'ahad' is a second predicate or apposition, all in the nominative.",
+            "bn": "'হুওয়া' কর্তা (মুবতাদা), 'আল্লাহ' বিধেয় (খাবার), আর 'আহাদ' দ্বিতীয় বিধেয় বা বদল, সবই কর্তৃকারকে।"
+          },
+          "words": [
+            {
+              "ar": "قُلْ",
+              "en": "Say",
+              "bn": "বলো",
+              "role": {
+                "en": "command verb (amr)",
+                "bn": "আদেশসূচক ক্রিয়া (আমর)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "هُوَ",
+              "en": "He is",
+              "bn": "তিনি",
+              "role": {
+                "en": "subject pronoun (mubtada)",
+                "bn": "কর্তা সর্বনাম (মুবতাদা)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah",
+              "bn": "আল্লাহ",
+              "role": {
+                "en": "predicate (khabar), nominative",
+                "bn": "বিধেয় (খাবার), কর্তৃকারক"
+              }
+            },
+            {
+              "ar": "أَحَدٌ",
+              "en": "One",
+              "bn": "একক",
+              "role": {
+                "en": "second predicate / apposition, nominative",
+                "bn": "দ্বিতীয় বিধেয় / বদল, কর্তৃকারক"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "112:2",
+          "trans": {
+            "en": "Allah, the Eternal Refuge.",
+            "bn": "আল্লাহ, অমুখাপেক্ষী চিরন্তন।"
+          },
+          "note": {
+            "en": "A second nominal sentence: 'Allah' is subject (mubtada) and 'al-samad' is predicate (khabar), both nominative.",
+            "bn": "আরেকটি বিশেষ্যবাচক বাক্য: 'আল্লাহ' কর্তা (মুবতাদা) এবং 'আস-সামাদ' বিধেয় (খাবার), উভয়ই কর্তৃকারক।"
+          },
+          "words": [
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah",
+              "bn": "আল্লাহ",
+              "role": {
+                "en": "subject (mubtada), nominative",
+                "bn": "কর্তা (মুবতাদা), কর্তৃকারক"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلصَّمَدُ",
+              "en": "the Eternal Refuge",
+              "bn": "অমুখাপেক্ষী",
+              "role": {
+                "en": "predicate (khabar), nominative",
+                "bn": "বিধেয় (খাবার), কর্তৃকারক"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "112:3",
+          "trans": {
+            "en": "He neither begets nor is born,",
+            "bn": "তিনি জন্ম দেননি এবং জন্মও নেননি,"
+          },
+          "note": {
+            "en": "'lam' is a particle that negates and puts the following present verb into the jussive (majzum), giving past meaning: 'yalid' and 'yulad'.",
+            "bn": "'লাম' একটি অব্যয় যা নেতিবাচক করে এবং পরের বর্তমান ক্রিয়াকে জাযম (মাজযুম) করে অতীত অর্থ দেয়: 'ইয়ালিদ' ও 'ইউলাদ'।"
+          },
+          "words": [
+            {
+              "ar": "لَمْ",
+              "en": "not (did)",
+              "bn": "না",
+              "role": {
+                "en": "negation particle (jazm)",
+                "bn": "নেতিবাচক অব্যয় (জাযম)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "يَلِدْ",
+              "en": "He begets",
+              "bn": "তিনি জন্ম দেন",
+              "role": {
+                "en": "jussive verb (majzum)",
+                "bn": "জাযম ক্রিয়া (মাজযুম)"
+              }
+            },
+            {
+              "ar": "وَلَمْ",
+              "en": "and not",
+              "bn": "এবং না",
+              "role": {
+                "en": "conjunction + negation particle",
+                "bn": "সংযোজক + নেতিবাচক অব্যয়"
+              }
+            },
+            {
+              "ar": "يُولَدْ",
+              "en": "is He born",
+              "bn": "তিনি জন্ম নেন",
+              "role": {
+                "en": "passive jussive verb (majzum)",
+                "bn": "কর্মবাচ্য জাযম ক্রিয়া (মাজযুম)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "112:4",
+          "trans": {
+            "en": "and there is none comparable to Him.",
+            "bn": "এবং তাঁর সমতুল্য কেউ নেই।"
+          },
+          "note": {
+            "en": "'yakun' is the jussive of kana negated by 'lam'; 'ahad' is its delayed subject (ism) and 'kufuwan' is its accusative predicate (khabar); 'lahu' is a preposition + pronoun.",
+            "bn": "'ইয়াকুন' 'কানা'-র জাযম রূপ, 'লাম' দিয়ে নেতিবাচক; 'আহাদ' তার বিলম্বিত ইসম এবং 'কুফুওয়ান' তার কর্মকারক খাবার; 'লাহু' অব্যয় + সর্বনাম।"
+          },
+          "words": [
+            {
+              "ar": "وَلَمْ",
+              "en": "and not",
+              "bn": "এবং না",
+              "role": {
+                "en": "conjunction + negation particle",
+                "bn": "সংযোজক + নেতিবাচক অব্যয়"
+              }
+            },
+            {
+              "ar": "يَكُن",
+              "en": "there is",
+              "bn": "নেই",
+              "role": {
+                "en": "jussive of 'kana' (majzum)",
+                "bn": "'কানা'-র জাযম (মাজযুম)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "لَّهُۥ",
+              "en": "to Him",
+              "bn": "তাঁর জন্য",
+              "role": {
+                "en": "preposition + pronoun",
+                "bn": "অব্যয় + সর্বনাম"
+              }
+            },
+            {
+              "ar": "كُفُوًا",
+              "en": "comparable",
+              "bn": "সমতুল্য",
+              "role": {
+                "en": "predicate of kana (khabar), accusative",
+                "bn": "কানার খাবার, কর্মকারক"
+              }
+            },
+            {
+              "ar": "أَحَدٌۢ",
+              "en": "anyone",
+              "bn": "কেউ",
+              "role": {
+                "en": "subject of kana (ism), nominative",
+                "bn": "কানার ইসম, কর্তৃকারক"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "What does 'lam' do to the verb after it in ayah 3?",
+          "bn": "৩ আয়াতে 'লাম' তার পরের ক্রিয়ার কী করে?"
+        },
+        "options": [
+          "Negates it and puts it in the jussive (majzum)",
+          "Makes it a command",
+          "Makes it past positive",
+          "Makes it a noun"
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "'Lam' negates the present verb, gives it past meaning, and requires the jussive (majzum) ending (sukun).",
+          "bn": "'লাম' বর্তমান ক্রিয়াকে নেতিবাচক করে, অতীত অর্থ দেয় এবং জাযম (মাজযুম, সুকুন) প্রান্ত দাবি করে।"
+        }
+      }
+    },
+    {
+      "id": "read-111-1",
+      "unit": "read-111",
+      "icon": "📖",
+      "title": {
+        "en": "Surah al-Masad — word by word",
+        "bn": "সূরা আল-মাসাদ — শব্দে শব্দে"
+      },
+      "concept": {
+        "en": "This surah features past-tense verbs (tabbat, aghna, kasaba), the dual noun 'yada' (two hands), a future verb with the prefix 'sa-', and adjectives in construct.",
+        "bn": "এই সূরায় আছে অতীত ক্রিয়া (তাব্বাত, আগনা, কাসাবা), দ্বিবচন বিশেষ্য 'ইয়াদা' (দুই হাত), 'সা-' উপসর্গযুক্ত ভবিষ্যৎ ক্রিয়া, এবং সম্বন্ধযুক্ত বিশেষণ।"
+      },
+      "examples": [
+        {
+          "ref": "111:1",
+          "trans": {
+            "en": "May the hands of Abu Lahab perish, and may he perish!",
+            "bn": "আবু লাহাবের দুই হাত ধ্বংস হোক, আর সে ধ্বংস হোক!"
+          },
+          "note": {
+            "en": "'tabbat' is a feminine past-tense verb; 'yada' is its dual subject (fa'il) in construct with 'Abi Lahab'; 'wa-tabba' repeats the verb about him.",
+            "bn": "'তাব্বাত' স্ত্রীবাচক অতীত ক্রিয়া; 'ইয়াদা' তার দ্বিবচন কর্তা (ফায়েল), 'আবি লাহাব'-এর সাথে সম্বন্ধযুক্ত; 'ওয়া-তাব্বা' ক্রিয়াটি তার সম্পর্কে পুনরাবৃত্তি করে।"
+          },
+          "words": [
+            {
+              "ar": "تَبَّتْ",
+              "en": "perished / may perish",
+              "bn": "ধ্বংস হোক",
+              "role": {
+                "en": "past-tense verb, feminine (madi)",
+                "bn": "অতীত ক্রিয়া, স্ত্রীবাচক (মাদি)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "يَدَآ",
+              "en": "the two hands of",
+              "bn": "দুই হাত",
+              "role": {
+                "en": "dual subject (fa'il), mudaf",
+                "bn": "দ্বিবচন কর্তা (ফায়েল), মুদাফ"
+              }
+            },
+            {
+              "ar": "أَبِى",
+              "en": "the father of",
+              "bn": "পিতা",
+              "role": {
+                "en": "genitive noun (mudaf ilayh), mudaf",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি), মুদাফ"
+              }
+            },
+            {
+              "ar": "لَهَبٍ",
+              "en": "Lahab (flame)",
+              "bn": "লাহাব",
+              "role": {
+                "en": "genitive noun (mudaf ilayh)",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "وَتَبَّ",
+              "en": "and he perished",
+              "bn": "এবং সে ধ্বংস হলো",
+              "role": {
+                "en": "conjunction + past-tense verb",
+                "bn": "সংযোজক + অতীত ক্রিয়া"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "111:2",
+          "trans": {
+            "en": "His wealth and what he earned did not avail him.",
+            "bn": "তার ধন-সম্পদ ও তার উপার্জন তার কোনো কাজে এলো না।"
+          },
+          "note": {
+            "en": "'ma' negates 'aghna' (past verb); 'maluhu' is the subject (fa'il) with an attached pronoun; 'wa-ma kasaba' is coordinated.",
+            "bn": "'মা' 'আগনা' (অতীত ক্রিয়া)-কে নেতিবাচক করে; 'মালুহু' সংযুক্ত সর্বনামসহ কর্তা (ফায়েল); 'ওয়া-মা কাসাবা' যুক্ত।"
+          },
+          "words": [
+            {
+              "ar": "مَآ",
+              "en": "not",
+              "bn": "না",
+              "role": {
+                "en": "negation particle (ma nafiyah)",
+                "bn": "নেতিবাচক অব্যয় (মা নাফিয়া)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "أَغْنَىٰ",
+              "en": "availed",
+              "bn": "কাজে এলো",
+              "role": {
+                "en": "past-tense verb (madi)",
+                "bn": "অতীত কালের ক্রিয়া (মাদি)"
+              }
+            },
+            {
+              "ar": "عَنْهُ",
+              "en": "him",
+              "bn": "তার থেকে",
+              "role": {
+                "en": "preposition + pronoun",
+                "bn": "অব্যয় + সর্বনাম"
+              }
+            },
+            {
+              "ar": "مَالُهُۥ",
+              "en": "his wealth",
+              "bn": "তার সম্পদ",
+              "role": {
+                "en": "subject (fa'il) + attached pronoun",
+                "bn": "কর্তা (ফায়েল) + সংযুক্ত সর্বনাম"
+              }
+            },
+            {
+              "ar": "وَمَا",
+              "en": "and what",
+              "bn": "এবং যা",
+              "role": {
+                "en": "conjunction + relative noun",
+                "bn": "সংযোজক + সম্বন্ধবাচক বিশেষ্য"
+              }
+            },
+            {
+              "ar": "كَسَبَ",
+              "en": "he earned",
+              "bn": "সে উপার্জন করেছে",
+              "role": {
+                "en": "past-tense verb (madi)",
+                "bn": "অতীত কালের ক্রিয়া (মাদি)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "111:3",
+          "trans": {
+            "en": "He will burn in a Fire of blazing flame,",
+            "bn": "সে অচিরেই প্রবেশ করবে লেলিহান অগ্নিতে,"
+          },
+          "note": {
+            "en": "'sa-yasla' is a future verb (prefix sa-); 'naran' is its object (accusative); 'dhata lahab' is an adjective phrase in construct.",
+            "bn": "'সা-ইয়াসলা' ভবিষ্যৎ ক্রিয়া (সা- উপসর্গ); 'নারান' তার কর্ম (কর্মকারক); 'যাতা লাহাব' সম্বন্ধযুক্ত বিশেষণ-বাক্যাংশ।"
+          },
+          "words": [
+            {
+              "ar": "سَيَصْلَىٰ",
+              "en": "he will burn",
+              "bn": "সে প্রবেশ করবে",
+              "role": {
+                "en": "future verb (sa- + mudari')",
+                "bn": "ভবিষ্যৎ ক্রিয়া (সা- + মুদারি)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "نَارًا",
+              "en": "a Fire",
+              "bn": "আগুন",
+              "role": {
+                "en": "object (maf'ul bihi), accusative",
+                "bn": "কর্ম (মাফউল বিহি), কর্মকারক"
+              }
+            },
+            {
+              "ar": "ذَاتَ",
+              "en": "possessing / of",
+              "bn": "সম্পন্ন",
+              "role": {
+                "en": "adjective (na't), accusative, mudaf",
+                "bn": "বিশেষণ (নাত), কর্মকারক, মুদাফ"
+              }
+            },
+            {
+              "ar": "لَهَبٍ",
+              "en": "blazing flame",
+              "bn": "লেলিহান শিখা",
+              "role": {
+                "en": "genitive noun (mudaf ilayh)",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "111:4",
+          "trans": {
+            "en": "and his wife, the carrier of firewood,",
+            "bn": "এবং তার স্ত্রীও, কাঠবহনকারিণী,"
+          },
+          "note": {
+            "en": "'wa-imra'atuhu' is coordinated in the nominative with an attached pronoun; 'hammalata' is its adjective/state (accusative) in construct with 'al-hatab'.",
+            "bn": "'ওয়া-ইমরাআতুহু' সংযুক্ত সর্বনামসহ কর্তৃকারকে যুক্ত; 'হাম্মালাতা' তার বিশেষণ/অবস্থা (কর্মকারক), 'আল-হাতাব'-এর সাথে সম্বন্ধযুক্ত।"
+          },
+          "words": [
+            {
+              "ar": "وَٱمْرَأَتُهُۥ",
+              "en": "and his wife",
+              "bn": "এবং তার স্ত্রী",
+              "role": {
+                "en": "conjunction + noun + pronoun, nominative",
+                "bn": "সংযোজক + বিশেষ্য + সর্বনাম, কর্তৃকারক"
+              },
+              "hl": true
+            },
+            {
+              "ar": "حَمَّالَةَ",
+              "en": "the carrier of",
+              "bn": "বহনকারিণী",
+              "role": {
+                "en": "adjective/state (hal), accusative, mudaf",
+                "bn": "বিশেষণ/অবস্থা (হাল), কর্মকারক, মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱلْحَطَبِ",
+              "en": "firewood",
+              "bn": "কাঠ",
+              "role": {
+                "en": "genitive noun (mudaf ilayh)",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "111:5",
+          "trans": {
+            "en": "around her neck a rope of twisted fiber.",
+            "bn": "তার গলায় পাকানো আঁশের রশি।"
+          },
+          "note": {
+            "en": "'fi jidiha' is a fronted predicate (khabar muqaddam); 'hablun' is the delayed subject (mubtada); 'min masad' describes the rope's material.",
+            "bn": "'ফি জিদিহা' অগ্রবর্তী বিধেয় (খাবার মুকাদ্দাম); 'হাব্লুন' বিলম্বিত কর্তা (মুবতাদা); 'মিন মাসাদ' রশির উপাদান বর্ণনা করে।"
+          },
+          "words": [
+            {
+              "ar": "فِى",
+              "en": "in / around",
+              "bn": "মধ্যে",
+              "role": {
+                "en": "preposition (harf jarr)",
+                "bn": "অব্যয় (হারফ জার্র)"
+              }
+            },
+            {
+              "ar": "جِيدِهَا",
+              "en": "her neck",
+              "bn": "তার গলা",
+              "role": {
+                "en": "genitive noun + pronoun (majrur)",
+                "bn": "সম্বন্ধপদ + সর্বনাম (মাজরুর)"
+              }
+            },
+            {
+              "ar": "حَبْلٌ",
+              "en": "a rope",
+              "bn": "রশি",
+              "role": {
+                "en": "delayed subject (mubtada), nominative",
+                "bn": "বিলম্বিত কর্তা (মুবতাদা), কর্তৃকারক"
+              },
+              "hl": true
+            },
+            {
+              "ar": "مِّن",
+              "en": "of",
+              "bn": "থেকে",
+              "role": {
+                "en": "preposition (harf jarr)",
+                "bn": "অব্যয় (হারফ জার্র)"
+              }
+            },
+            {
+              "ar": "مَّسَدٍۭ",
+              "en": "twisted fiber",
+              "bn": "পাকানো আঁশ",
+              "role": {
+                "en": "genitive noun (majrur)",
+                "bn": "সম্বন্ধপদ (মাজরুর)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "What does the prefix 'sa-' on 'sayasla' (ayah 3) indicate?",
+          "bn": "৩ আয়াতে 'সাইয়াসলা'-র 'সা-' উপসর্গ কী বোঝায়?"
+        },
+        "options": [
+          "Future tense",
+          "Past tense",
+          "Command",
+          "Negation"
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "The prefix 'sa-' attached to a present-tense verb gives it a future meaning: 'he will burn'.",
+          "bn": "বর্তমান ক্রিয়ার সাথে যুক্ত 'সা-' উপসর্গ ভবিষ্যৎ অর্থ দেয়: 'সে প্রবেশ করবে'।"
+        }
+      }
+    },
+    {
+      "id": "read-110-1",
+      "unit": "read-110",
+      "icon": "📖",
+      "title": {
+        "en": "Surah an-Nasr — word by word",
+        "bn": "সূরা আন-নাসর — শব্দে শব্দে"
+      },
+      "concept": {
+        "en": "This surah opens with the conditional particle 'idha' (when) leading to a command, shows an idafah chain (nasru-llah), a present verb with the plural ending, and imperative verbs 'sabbih' and 'istaghfir'.",
+        "bn": "এই সূরা শর্তবাচক 'ইযা' (যখন) দিয়ে শুরু হয়ে আদেশে পৌঁছায়, ইদাফা শৃঙ্খল (নাসরু-ল্লাহ) দেখায়, বহুবচন প্রান্তযুক্ত বর্তমান ক্রিয়া, এবং আদেশ ক্রিয়া 'সাব্বিহ' ও 'ইসতাগফির' দেখায়।"
+      },
+      "examples": [
+        {
+          "ref": "110:1",
+          "trans": {
+            "en": "When the help of Allah and the victory come,",
+            "bn": "যখন আল্লাহর সাহায্য ও বিজয় আসবে,"
+          },
+          "note": {
+            "en": "'idha' introduces the condition; 'ja'a' is a past-tense verb; 'nasru-llah' is an idafah (subject + genitive); 'wa-al-fath' is coordinated.",
+            "bn": "'ইযা' শর্ত পরিচয় করায়; 'জাআ' অতীত ক্রিয়া; 'নাসরু-ল্লাহ' ইদাফা (কর্তা + সম্বন্ধ); 'ওয়া-আল-ফাতহ' যুক্ত।"
+          },
+          "words": [
+            {
+              "ar": "إِذَا",
+              "en": "when",
+              "bn": "যখন",
+              "role": {
+                "en": "conditional particle of time (idha)",
+                "bn": "শর্তবাচক কালঅব্যয় (ইযা)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "جَآءَ",
+              "en": "comes",
+              "bn": "আসবে",
+              "role": {
+                "en": "past-tense verb (madi)",
+                "bn": "অতীত কালের ক্রিয়া (মাদি)"
+              }
+            },
+            {
+              "ar": "نَصْرُ",
+              "en": "the help of",
+              "bn": "সাহায্য",
+              "role": {
+                "en": "subject (fa'il), nominative, mudaf",
+                "bn": "কর্তা (ফায়েল), কর্তৃকারক, মুদাফ"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱللَّهِ",
+              "en": "Allah",
+              "bn": "আল্লাহর",
+              "role": {
+                "en": "genitive noun (mudaf ilayh)",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "وَٱلْفَتْحُ",
+              "en": "and the victory",
+              "bn": "ও বিজয়",
+              "role": {
+                "en": "conjunction + coordinated noun, nominative",
+                "bn": "সংযোজক + যুক্ত বিশেষ্য, কর্তৃকারক"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "110:2",
+          "trans": {
+            "en": "and you see the people entering into the religion of Allah in crowds,",
+            "bn": "এবং তুমি দেখবে মানুষ দলে দলে আল্লাহর দ্বীনে প্রবেশ করছে,"
+          },
+          "note": {
+            "en": "'wa-ra'ayta' is a past verb with 2nd-person subject; 'al-nas' is its object; 'yadkhuluna' is a present verb with the plural ending; 'dini-llah' is an idafah; 'afwajan' is an adverbial accusative (hal).",
+            "bn": "'ওয়া-রাআইতা' মধ্যম পুরুষ কর্তাসহ অতীত ক্রিয়া; 'আন-নাস' তার কর্ম; 'ইয়াদখুলুনা' বহুবচন প্রান্তযুক্ত বর্তমান ক্রিয়া; 'দিনি-ল্লাহ' ইদাফা; 'আফওয়াজান' অবস্থাবাচক কর্মকারক (হাল)।"
+          },
+          "words": [
+            {
+              "ar": "وَرَأَيْتَ",
+              "en": "and you see",
+              "bn": "এবং তুমি দেখবে",
+              "role": {
+                "en": "conjunction + past verb, 2nd person",
+                "bn": "সংযোজক + অতীত ক্রিয়া, মধ্যম পুরুষ"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلنَّاسَ",
+              "en": "the people",
+              "bn": "মানুষকে",
+              "role": {
+                "en": "object (maf'ul bihi), accusative",
+                "bn": "কর্ম (মাফউল বিহি), কর্মকারক"
+              }
+            },
+            {
+              "ar": "يَدْخُلُونَ",
+              "en": "entering",
+              "bn": "প্রবেশ করছে",
+              "role": {
+                "en": "present verb, masculine plural",
+                "bn": "বর্তমান ক্রিয়া, পুংলিঙ্গ বহুবচন"
+              }
+            },
+            {
+              "ar": "فِى",
+              "en": "into",
+              "bn": "মধ্যে",
+              "role": {
+                "en": "preposition (harf jarr)",
+                "bn": "অব্যয় (হারফ জার্র)"
+              }
+            },
+            {
+              "ar": "دِينِ",
+              "en": "the religion of",
+              "bn": "দ্বীন",
+              "role": {
+                "en": "genitive noun (majrur), mudaf",
+                "bn": "সম্বন্ধপদ (মাজরুর), মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱللَّهِ",
+              "en": "Allah",
+              "bn": "আল্লাহর",
+              "role": {
+                "en": "genitive noun (mudaf ilayh)",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "أَفْوَاجًا",
+              "en": "in crowds",
+              "bn": "দলে দলে",
+              "role": {
+                "en": "adverbial accusative (hal)",
+                "bn": "অবস্থাবাচক কর্মকারক (হাল)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "110:3",
+          "trans": {
+            "en": "then glorify the praise of your Lord and seek His forgiveness. Indeed, He is ever Accepting of repentance.",
+            "bn": "তখন তোমার রবের প্রশংসাসহ তাসবিহ পড়ো এবং তাঁর কাছে ক্ষমা চাও। নিশ্চয়ই তিনি বড় তওবা কবুলকারী।"
+          },
+          "note": {
+            "en": "'fa-sabbih' and 'wa-istaghfir-hu' are imperative verbs (amr); 'inna-hu' is the emphatic particle inna + pronoun; 'kana' governs 'tawwaban' as its accusative predicate (khabar).",
+            "bn": "'ফা-সাব্বিহ' ও 'ওয়া-ইসতাগফির-হু' আদেশ ক্রিয়া (আমর); 'ইন্না-হু' জোরদানকারী অব্যয় ইন্না + সর্বনাম; 'কানা' 'তাওওয়াবান'-কে কর্মকারক খাবার হিসেবে শাসন করে।"
+          },
+          "words": [
+            {
+              "ar": "فَسَبِّحْ",
+              "en": "then glorify",
+              "bn": "তখন তাসবিহ পড়ো",
+              "role": {
+                "en": "conjunction + command verb (amr)",
+                "bn": "সংযোজক + আদেশ ক্রিয়া (আমর)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "بِحَمْدِ",
+              "en": "with the praise of",
+              "bn": "প্রশংসাসহ",
+              "role": {
+                "en": "preposition + genitive noun (mudaf)",
+                "bn": "অব্যয় + সম্বন্ধপদ (মুদাফ)"
+              }
+            },
+            {
+              "ar": "رَبِّكَ",
+              "en": "your Lord",
+              "bn": "তোমার রব",
+              "role": {
+                "en": "genitive noun (mudaf ilayh) + pronoun",
+                "bn": "সম্বন্ধ বিশেষ্য (মুদাফ ইলাইহি) + সর্বনাম"
+              }
+            },
+            {
+              "ar": "وَٱسْتَغْفِرْهُ",
+              "en": "and seek His forgiveness",
+              "bn": "এবং তাঁর কাছে ক্ষমা চাও",
+              "role": {
+                "en": "conjunction + command verb (amr) + object pronoun",
+                "bn": "সংযোজক + আদেশ ক্রিয়া (আমর) + কর্ম সর্বনাম"
+              },
+              "hl": true
+            },
+            {
+              "ar": "إِنَّهُۥ",
+              "en": "indeed He",
+              "bn": "নিশ্চয়ই তিনি",
+              "role": {
+                "en": "emphatic particle inna + pronoun",
+                "bn": "জোরদানকারী অব্যয় ইন্না + সর্বনাম"
+              }
+            },
+            {
+              "ar": "كَانَ",
+              "en": "is ever",
+              "bn": "সদা ছিলেন",
+              "role": {
+                "en": "past verb 'kana' (incomplete)",
+                "bn": "অতীত ক্রিয়া 'কানা' (অসম্পূর্ণ)"
+              }
+            },
+            {
+              "ar": "تَوَّابًۢا",
+              "en": "Accepting of repentance",
+              "bn": "তওবা কবুলকারী",
+              "role": {
+                "en": "predicate of kana (khabar), accusative",
+                "bn": "কানার খাবার, কর্মকারক"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "What is the role of 'fasabbih' in ayah 3?",
+          "bn": "৩ আয়াতে 'ফাসাব্বিহ'-এর ভূমিকা কী?"
+        },
+        "options": [
+          "Command verb (amr)",
+          "Past-tense verb",
+          "Noun",
+          "Preposition"
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "'Fa-sabbih' is a conjunction 'fa' plus the imperative (amr) verb 'sabbih' — 'then glorify'.",
+          "bn": "'ফা-সাব্বিহ' হলো সংযোজক 'ফা' + আদেশ (আমর) ক্রিয়া 'সাব্বিহ' — 'তখন তাসবিহ পড়ো'।"
+        }
+      }
+    }
+  ]
+}

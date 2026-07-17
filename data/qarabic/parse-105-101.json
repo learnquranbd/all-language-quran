@@ -1,0 +1,2067 @@
+{
+ "units": [
+  {
+   "id": "read-105",
+   "icon": "📖",
+   "en": "Reading Surah al-Fil (105)",
+   "bn": "সূরা আল-ফীল (১০৫) পড়া",
+   "order": 30
+  },
+  {
+   "id": "read-104",
+   "icon": "📖",
+   "en": "Reading Surah al-Humazah (104)",
+   "bn": "সূরা আল-হুমাযাহ (১০৪) পড়া",
+   "order": 31
+  },
+  {
+   "id": "read-103",
+   "icon": "📖",
+   "en": "Reading Surah al-Asr (103)",
+   "bn": "সূরা আল-আসর (১০৩) পড়া",
+   "order": 32
+  },
+  {
+   "id": "read-102",
+   "icon": "📖",
+   "en": "Reading Surah at-Takathur (102)",
+   "bn": "সূরা আত-তাকাসুর (১০২) পড়া",
+   "order": 33
+  },
+  {
+   "id": "read-101",
+   "icon": "📖",
+   "en": "Reading Surah al-Qari'ah (101)",
+   "bn": "সূরা আল-কারিআহ (১০১) পড়া",
+   "order": 34
+  }
+ ],
+ "lessons": [
+  {
+   "id": "l-105-1",
+   "unit": "read-105",
+   "icon": "📖",
+   "title": {
+    "en": "Al-Fil: The Elephant Repelled (1-3)",
+    "bn": "আল-ফীল: হাতি প্রতিহত (১-৩)"
+   },
+   "concept": {
+    "en": "Allah asks the Prophet to reflect on how He destroyed the army of the elephant. The rhetorical question 'Did you not see' (أَلَمْ تَرَ) invites certainty about a well-known event.",
+    "bn": "আল্লাহ নবীকে স্মরণ করাচ্ছেন কীভাবে তিনি হাতির বাহিনীকে ধ্বংস করেছিলেন। অলংকারিক প্রশ্ন 'তুমি কি দেখনি' নিশ্চিত ঘটনার প্রতি ইঙ্গিত করে।"
+   },
+   "examples": [
+    {
+     "ref": "105:1",
+     "trans": {
+      "en": "Have you not seen how your Lord dealt with the companions of the elephant?",
+      "bn": "তুমি কি দেখনি তোমার রব হাতিওয়ালাদের সাথে কেমন আচরণ করেছিলেন?"
+     },
+     "note": {
+      "en": "أَلَمْ تَرَ is a rhetorical question meaning 'surely you know'.",
+      "bn": "أَلَمْ تَرَ একটি অলংকারিক প্রশ্ন, অর্থ 'নিশ্চয়ই তুমি জান'।"
+     },
+     "words": [
+      {
+       "ar": "أَلَمْ",
+       "en": "Did not",
+       "bn": "কি না",
+       "role": {
+        "en": "interrogative + negative particle",
+        "bn": "প্রশ্নবোধক ও নেতিবাচক অব্যয়"
+       }
+      },
+      {
+       "ar": "تَرَ",
+       "en": "you see",
+       "bn": "তুমি দেখেছ",
+       "role": {
+        "en": "verb (2nd person)",
+        "bn": "ক্রিয়া (দ্বিতীয় পুরুষ)"
+       }
+      },
+      {
+       "ar": "كَيْفَ",
+       "en": "how",
+       "bn": "কীভাবে",
+       "role": {
+        "en": "interrogative adverb",
+        "bn": "প্রশ্নবোধক ক্রিয়াবিশেষণ"
+       }
+      },
+      {
+       "ar": "فَعَلَ",
+       "en": "dealt",
+       "bn": "আচরণ করলেন",
+       "role": {
+        "en": "past-tense verb",
+        "bn": "অতীত কালের ক্রিয়া"
+       }
+      },
+      {
+       "ar": "رَبُّكَ",
+       "en": "your Lord",
+       "bn": "তোমার রব",
+       "role": {
+        "en": "noun + possessive",
+        "bn": "বিশেষ্য ও সম্বন্ধ সর্বনাম"
+       }
+      },
+      {
+       "ar": "بِأَصْحَٰبِ",
+       "en": "with the companions",
+       "bn": "সঙ্গীদের সাথে",
+       "role": {
+        "en": "preposition + noun",
+        "bn": "পূর্বসর্গ ও বিশেষ্য"
+       }
+      },
+      {
+       "ar": "ٱلْفِيلِ",
+       "en": "of the elephant",
+       "bn": "হাতির",
+       "role": {
+        "en": "genitive noun",
+        "bn": "সম্বন্ধপদ বিশেষ্য"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "105:2",
+     "trans": {
+      "en": "Did He not make their plot go astray?",
+      "bn": "তিনি কি তাদের ষড়যন্ত্র ব্যর্থ করে দেননি?"
+     },
+     "note": {
+      "en": "تَضْلِيلٍ means their scheme led to nothing.",
+      "bn": "تَضْلِيلٍ অর্থ তাদের পরিকল্পনা বিফল হলো।"
+     },
+     "words": [
+      {
+       "ar": "أَلَمْ",
+       "en": "Did not",
+       "bn": "কি না",
+       "role": {
+        "en": "interrogative + negative particle",
+        "bn": "প্রশ্নবোধক ও নেতিবাচক অব্যয়"
+       }
+      },
+      {
+       "ar": "يَجْعَلْ",
+       "en": "He make",
+       "bn": "তিনি বানান",
+       "role": {
+        "en": "present-tense verb (jussive)",
+        "bn": "বর্তমান কালের ক্রিয়া"
+       }
+      },
+      {
+       "ar": "كَيْدَهُمْ",
+       "en": "their plot",
+       "bn": "তাদের ষড়যন্ত্র",
+       "role": {
+        "en": "noun + possessive pronoun",
+        "bn": "বিশেষ্য ও সর্বনাম"
+       }
+      },
+      {
+       "ar": "فِى",
+       "en": "in",
+       "bn": "মধ্যে",
+       "role": {
+        "en": "preposition",
+        "bn": "পূর্বসর্গ"
+       }
+      },
+      {
+       "ar": "تَضْلِيلٍ",
+       "en": "misguidance",
+       "bn": "ব্যর্থতা",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "105:3",
+     "trans": {
+      "en": "And He sent against them birds in flocks,",
+      "bn": "আর তিনি তাদের বিরুদ্ধে ঝাঁকে ঝাঁকে পাখি পাঠালেন,"
+     },
+     "note": {
+      "en": "أَبَابِيلَ describes successive flocks.",
+      "bn": "أَبَابِيلَ ধারাবাহিক ঝাঁক বোঝায়।"
+     },
+     "words": [
+      {
+       "ar": "وَأَرْسَلَ",
+       "en": "And He sent",
+       "bn": "আর তিনি পাঠালেন",
+       "role": {
+        "en": "conjunction + verb",
+        "bn": "সংযোজক ও ক্রিয়া"
+       }
+      },
+      {
+       "ar": "عَلَيْهِمْ",
+       "en": "upon them",
+       "bn": "তাদের উপর",
+       "role": {
+        "en": "preposition + pronoun",
+        "bn": "পূর্বসর্গ ও সর্বনাম"
+       }
+      },
+      {
+       "ar": "طَيْرًا",
+       "en": "birds",
+       "bn": "পাখি",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      },
+      {
+       "ar": "أَبَابِيلَ",
+       "en": "in flocks",
+       "bn": "ঝাঁকে ঝাঁকে",
+       "role": {
+        "en": "noun (plural)",
+        "bn": "বিশেষ্য (বহুবচন)"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "In 105:1, what does أَلَمْ تَرَ express?",
+     "bn": "১০৫:১-এ أَلَمْ تَرَ কী প্রকাশ করে?"
+    },
+    "options": [
+     "A literal doubt",
+     "A rhetorical question affirming certainty",
+     "A command",
+     "A future promise"
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "أَلَمْ تَرَ ('Did you not see') is a rhetorical question that affirms the certainty of the event.",
+     "bn": "أَلَمْ تَرَ ('তুমি কি দেখনি') একটি অলংকারিক প্রশ্ন যা ঘটনার নিশ্চয়তা দৃঢ় করে।"
+    }
+   }
+  },
+  {
+   "id": "l-105-2",
+   "unit": "read-105",
+   "icon": "📖",
+   "title": {
+    "en": "Al-Fil: Stones and Ruin (4-5)",
+    "bn": "আল-ফীল: পাথর ও ধ্বংস (৪-৫)"
+   },
+   "concept": {
+    "en": "The birds pelted the army with stones of baked clay, leaving them like devoured chaff. Note the passive participle مَّأْكُولٍۭ (eaten up).",
+    "bn": "পাখিরা পোড়া মাটির পাথর নিক্ষেপ করল, ফলে তারা খাওয়া খড়ের মতো হয়ে গেল। লক্ষ্য কর কর্মবাচ্য বিশেষণ مَّأْكُولٍۭ (খাওয়া)।"
+   },
+   "examples": [
+    {
+     "ref": "105:4",
+     "trans": {
+      "en": "Striking them with stones of baked clay,",
+      "bn": "তাদের পোড়া মাটির পাথর নিক্ষেপ করছিল,"
+     },
+     "note": {
+      "en": "سِجِّيلٍ means hardened clay stones.",
+      "bn": "سِجِّيلٍ অর্থ শক্ত পোড়া মাটির পাথর।"
+     },
+     "words": [
+      {
+       "ar": "تَرْمِيهِم",
+       "en": "striking them",
+       "bn": "তাদের আঘাত করছিল",
+       "role": {
+        "en": "verb + object pronoun",
+        "bn": "ক্রিয়া ও কর্ম সর্বনাম"
+       }
+      },
+      {
+       "ar": "بِحِجَارَةٍ",
+       "en": "with stones",
+       "bn": "পাথর দিয়ে",
+       "role": {
+        "en": "preposition + noun",
+        "bn": "পূর্বসর্গ ও বিশেষ্য"
+       }
+      },
+      {
+       "ar": "مِّن",
+       "en": "of",
+       "bn": "থেকে",
+       "role": {
+        "en": "preposition",
+        "bn": "পূর্বসর্গ"
+       }
+      },
+      {
+       "ar": "سِجِّيلٍ",
+       "en": "baked clay",
+       "bn": "পোড়া মাটির",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "105:5",
+     "trans": {
+      "en": "So He made them like eaten-up straw.",
+      "bn": "অতঃপর তিনি তাদের খাওয়া খড়ের মতো করে দিলেন।"
+     },
+     "note": {
+      "en": "كَعَصْفٍ مَّأْكُولٍۭ pictures total destruction.",
+      "bn": "كَعَصْفٍ مَّأْكُولٍۭ পূর্ণ ধ্বংসের চিত্র।"
+     },
+     "words": [
+      {
+       "ar": "فَجَعَلَهُمْ",
+       "en": "So He made them",
+       "bn": "তখন তিনি তাদের বানালেন",
+       "role": {
+        "en": "verb + object pronoun",
+        "bn": "ক্রিয়া ও কর্ম সর্বনাম"
+       }
+      },
+      {
+       "ar": "كَعَصْفٍ",
+       "en": "like straw",
+       "bn": "খড়ের মতো",
+       "role": {
+        "en": "preposition + noun",
+        "bn": "পূর্বসর্গ ও বিশেষ্য"
+       }
+      },
+      {
+       "ar": "مَّأْكُولٍۭ",
+       "en": "eaten up",
+       "bn": "খাওয়া",
+       "role": {
+        "en": "passive participle",
+        "bn": "কর্মবাচ্য বিশেষণ"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "What does مَّأْكُولٍۭ mean in 105:5?",
+     "bn": "১০৫:৫-এ مَّأْكُولٍۭ অর্থ কী?"
+    },
+    "options": [
+     "Growing",
+     "Eaten up",
+     "Standing tall",
+     "Green"
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "مَّأْكُولٍۭ is a passive participle meaning 'eaten up', showing the army was reduced to nothing.",
+     "bn": "مَّأْকُولٍۭ একটি কর্মবাচ্য বিশেষণ, অর্থ 'খাওয়া', যা বোঝায় বাহিনী নিশ্চিহ্ন হলো।"
+    }
+   }
+  },
+  {
+   "id": "l-104-1",
+   "unit": "read-104",
+   "icon": "📖",
+   "title": {
+    "en": "Al-Humazah: The Slanderer (1-3)",
+    "bn": "আল-হুমাযাহ: পরনিন্দাকারী (১-৩)"
+   },
+   "concept": {
+    "en": "Woe is declared for the one who slanders and backbites, hoarding wealth and imagining it will make him immortal.",
+    "bn": "দুর্ভোগ ঘোষণা করা হয়েছে তার জন্য যে পরনিন্দা ও কুৎসা করে, সম্পদ জমা করে ভাবে তা তাকে চিরস্থায়ী করবে।"
+   },
+   "examples": [
+    {
+     "ref": "104:1",
+     "trans": {
+      "en": "Woe to every slanderer and backbiter,",
+      "bn": "দুর্ভোগ প্রত্যেক পরনিন্দাকারী ও কুৎসাকারীর জন্য,"
+     },
+     "note": {
+      "en": "هُمَزَةٍ and لُّمَزَةٍ are intensive forms.",
+      "bn": "هُمَزَةٍ ও لُّمَزَةٍ অতিশয়ার্থক রূপ।"
+     },
+     "words": [
+      {
+       "ar": "وَيْلٌ",
+       "en": "Woe",
+       "bn": "দুর্ভোগ",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      },
+      {
+       "ar": "لِّكُلِّ",
+       "en": "to every",
+       "bn": "প্রত্যেকের জন্য",
+       "role": {
+        "en": "preposition + noun",
+        "bn": "পূর্বসর্গ ও বিশেষ্য"
+       }
+      },
+      {
+       "ar": "هُمَزَةٍ",
+       "en": "slanderer",
+       "bn": "পরনিন্দাকারী",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      },
+      {
+       "ar": "لُّمَزَةٍ",
+       "en": "backbiter",
+       "bn": "কুৎসাকারী",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "104:2",
+     "trans": {
+      "en": "Who gathers wealth and counts it,",
+      "bn": "যে সম্পদ জমা করে ও তা গুনে গুনে রাখে,"
+     },
+     "note": {
+      "en": "عَدَّدَهُۥ implies obsessive counting.",
+      "bn": "عَدَّدَهُۥ বারবার গোনার ইঙ্গিত দেয়।"
+     },
+     "words": [
+      {
+       "ar": "ٱلَّذِى",
+       "en": "who",
+       "bn": "যে",
+       "role": {
+        "en": "relative pronoun",
+        "bn": "সম্বন্ধবাচক সর্বনাম"
+       }
+      },
+      {
+       "ar": "جَمَعَ",
+       "en": "gathered",
+       "bn": "জমা করেছে",
+       "role": {
+        "en": "past-tense verb",
+        "bn": "অতীত কালের ক্রিয়া"
+       }
+      },
+      {
+       "ar": "مَالًا",
+       "en": "wealth",
+       "bn": "সম্পদ",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      },
+      {
+       "ar": "وَعَدَّدَهُۥ",
+       "en": "and counted it",
+       "bn": "এবং তা গুনেছে",
+       "role": {
+        "en": "conjunction + verb + pronoun",
+        "bn": "সংযোজক ও ক্রিয়া ও সর্বনাম"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "104:3",
+     "trans": {
+      "en": "Thinking that his wealth will make him immortal.",
+      "bn": "মনে করে যে তার সম্পদ তাকে চিরস্থায়ী করবে।"
+     },
+     "note": {
+      "en": "أَخْلَدَهُۥ means to make everlasting.",
+      "bn": "أَخْلَدَهُۥ অর্থ চিরস্থায়ী করা।"
+     },
+     "words": [
+      {
+       "ar": "يَحْسَبُ",
+       "en": "He thinks",
+       "bn": "সে মনে করে",
+       "role": {
+        "en": "present-tense verb",
+        "bn": "বর্তমান কালের ক্রিয়া"
+       }
+      },
+      {
+       "ar": "أَنَّ",
+       "en": "that",
+       "bn": "যে",
+       "role": {
+        "en": "particle",
+        "bn": "অব্যয়"
+       }
+      },
+      {
+       "ar": "مَالَهُۥٓ",
+       "en": "his wealth",
+       "bn": "তার সম্পদ",
+       "role": {
+        "en": "noun + possessive",
+        "bn": "বিশেষ্য ও সম্বন্ধ সর্বনাম"
+       }
+      },
+      {
+       "ar": "أَخْلَدَهُۥ",
+       "en": "made him last",
+       "bn": "তাকে চিরস্থায়ী করবে",
+       "role": {
+        "en": "verb + object pronoun",
+        "bn": "ক্রিয়া ও কর্ম সর্বনাম"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "What do هُمَزَةٍ and لُّمَزَةٍ describe?",
+     "bn": "هُمَزَةٍ ও لُّمَزَةٍ কী বর্ণনা করে?"
+    },
+    "options": [
+     "A generous person",
+     "A slanderer and backbiter",
+     "A worshipper",
+     "A traveler"
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "هُمَزَةٍ (slanderer) and لُّمَزَةٍ (backbiter) are intensive nouns condemning defamation.",
+     "bn": "هُمَزَةٍ (পরনিন্দাকারী) ও لُّمَزَةٍ (কুৎসাকারী) অতিশয়ার্থক বিশেষ্য যা কুৎসা নিন্দা করে।"
+    }
+   }
+  },
+  {
+   "id": "l-104-2",
+   "unit": "read-104",
+   "icon": "📖",
+   "title": {
+    "en": "Al-Humazah: The Crusher (4-6)",
+    "bn": "আল-হুমাযাহ: চূর্ণকারী আগুন (৪-৬)"
+   },
+   "concept": {
+    "en": "He will be flung into al-Hutamah, a crushing fire kindled by Allah. The particle كَلَّا rebukes his false hope.",
+    "bn": "তাকে আল-হুতামাহে নিক্ষেপ করা হবে, আল্লাহর প্রজ্বলিত চূর্ণকারী আগুন। كَلَّا অব্যয় তার মিথ্যা আশাকে প্রত্যাখ্যান করে।"
+   },
+   "examples": [
+    {
+     "ref": "104:4",
+     "trans": {
+      "en": "Nay! He will surely be thrown into the Crusher.",
+      "bn": "কখনো না! সে অবশ্যই আল-হুতামাহে নিক্ষিপ্ত হবে।"
+     },
+     "note": {
+      "en": "لَيُنۢبَذَنَّ carries double emphasis (lam + nun).",
+      "bn": "لَيُنۢبَذَنَّ দ্বিগুণ জোর বহন করে (লাম + নূন)।"
+     },
+     "words": [
+      {
+       "ar": "كَلَّا",
+       "en": "Nay!",
+       "bn": "কখনো না!",
+       "role": {
+        "en": "particle of rebuttal",
+        "bn": "প্রত্যাখ্যানের অব্যয়"
+       }
+      },
+      {
+       "ar": "لَيُنۢبَذَنَّ",
+       "en": "he will surely be thrown",
+       "bn": "সে অবশ্যই নিক্ষিপ্ত হবে",
+       "role": {
+        "en": "emphatic passive verb",
+        "bn": "জোরালো কর্মবাচ্য ক্রিয়া"
+       }
+      },
+      {
+       "ar": "فِى",
+       "en": "in",
+       "bn": "মধ্যে",
+       "role": {
+        "en": "preposition",
+        "bn": "পূর্বসর্গ"
+       }
+      },
+      {
+       "ar": "ٱلْحُطَمَةِ",
+       "en": "the Crusher",
+       "bn": "আল-হুতামাহ (চূর্ণকারী)",
+       "role": {
+        "en": "noun (proper)",
+        "bn": "বিশেষ্য (নাম)"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "104:5",
+     "trans": {
+      "en": "And what will make you know what the Crusher is?",
+      "bn": "আর কী তোমাকে জানাবে আল-হুতামাহ কী?"
+     },
+     "note": {
+      "en": "A rhetorical device magnifying the horror.",
+      "bn": "ভয়াবহতা বাড়াতে অলংকারিক কৌশল।"
+     },
+     "words": [
+      {
+       "ar": "وَمَآ",
+       "en": "And what",
+       "bn": "আর কী",
+       "role": {
+        "en": "conjunction + interrogative",
+        "bn": "সংযোজক ও প্রশ্নবোধক"
+       }
+      },
+      {
+       "ar": "أَدْرَىٰكَ",
+       "en": "makes you know",
+       "bn": "তোমাকে জানাবে",
+       "role": {
+        "en": "verb + object pronoun",
+        "bn": "ক্রিয়া ও কর্ম সর্বনাম"
+       }
+      },
+      {
+       "ar": "مَا",
+       "en": "what",
+       "bn": "কী",
+       "role": {
+        "en": "interrogative",
+        "bn": "প্রশ্নবোধক"
+       }
+      },
+      {
+       "ar": "ٱلْحُطَمَةُ",
+       "en": "the Crusher is",
+       "bn": "আল-হুতামাহ",
+       "role": {
+        "en": "noun (proper)",
+        "bn": "বিশেষ্য (নাম)"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "104:6",
+     "trans": {
+      "en": "The fire of Allah, kindled,",
+      "bn": "আল্লাহর প্রজ্বলিত আগুন,"
+     },
+     "note": {
+      "en": "ٱلْمُوقَدَةُ means perpetually kindled.",
+      "bn": "ٱلْمُوقَدَةُ অর্থ অবিরাম প্রজ্বলিত।"
+     },
+     "words": [
+      {
+       "ar": "نَارُ",
+       "en": "Fire",
+       "bn": "আগুন",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      },
+      {
+       "ar": "ٱللَّهِ",
+       "en": "of Allah",
+       "bn": "আল্লাহর",
+       "role": {
+        "en": "proper noun (genitive)",
+        "bn": "নাম (সম্বন্ধপদ)"
+       }
+      },
+      {
+       "ar": "ٱلْمُوقَدَةُ",
+       "en": "kindled",
+       "bn": "প্রজ্বলিত",
+       "role": {
+        "en": "passive participle",
+        "bn": "কর্মবাচ্য বিশেষণ"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "What does كَلَّا signal at the start of 104:4?",
+     "bn": "১০৪:৪-এর শুরুতে كَلَّا কী নির্দেশ করে?"
+    },
+    "options": [
+     "Agreement",
+     "A rebuttal of his false hope",
+     "A greeting",
+     "A question"
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "كَلَّا is a particle of rebuttal, rejecting the claim that wealth grants immortality.",
+     "bn": "كَلَّا একটি প্রত্যাখ্যানের অব্যয়, যা সম্পদ চিরস্থায়িত্ব দেয় এই দাবি খণ্ডন করে।"
+    }
+   }
+  },
+  {
+   "id": "l-104-3",
+   "unit": "read-104",
+   "icon": "📖",
+   "title": {
+    "en": "Al-Humazah: Closed Over Them (7-9)",
+    "bn": "আল-হুমাযাহ: তাদের উপর বন্ধ (৭-৯)"
+   },
+   "concept": {
+    "en": "The fire reaches the hearts and is sealed over them in outstretched columns—an image of inescapable punishment.",
+    "bn": "আগুন হৃদয়ে পৌঁছে এবং প্রলম্বিত স্তম্ভে তাদের উপর বন্ধ করা হয়—অনিবার্য শাস্তির চিত্র।"
+   },
+   "examples": [
+    {
+     "ref": "104:7",
+     "trans": {
+      "en": "Which mounts up over the hearts.",
+      "bn": "যা হৃদয় পর্যন্ত পৌঁছবে।"
+     },
+     "note": {
+      "en": "ٱلْأَفْـِٔدَةِ refers to the inner hearts.",
+      "bn": "ٱلْأَفْـِٔدَةِ অন্তরের হৃদয় বোঝায়।"
+     },
+     "words": [
+      {
+       "ar": "ٱلَّتِى",
+       "en": "which",
+       "bn": "যা",
+       "role": {
+        "en": "relative pronoun",
+        "bn": "সম্বন্ধবাচক সর্বনাম"
+       }
+      },
+      {
+       "ar": "تَطَّلِعُ",
+       "en": "mounts up",
+       "bn": "পৌঁছে",
+       "role": {
+        "en": "present-tense verb",
+        "bn": "বর্তমান কালের ক্রিয়া"
+       }
+      },
+      {
+       "ar": "عَلَى",
+       "en": "over",
+       "bn": "উপর",
+       "role": {
+        "en": "preposition",
+        "bn": "পূর্বসর্গ"
+       }
+      },
+      {
+       "ar": "ٱلْأَفْـِٔدَةِ",
+       "en": "the hearts",
+       "bn": "হৃদয়সমূহ",
+       "role": {
+        "en": "noun (plural)",
+        "bn": "বিশেষ্য (বহুবচন)"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "104:8",
+     "trans": {
+      "en": "Indeed, it will be closed over them,",
+      "bn": "নিশ্চয় তা তাদের উপর বন্ধ করে দেওয়া হবে,"
+     },
+     "note": {
+      "en": "مُّؤْصَدَةٌ means shut tight.",
+      "bn": "مُّؤْصَدَةٌ অর্থ শক্তভাবে বন্ধ।"
+     },
+     "words": [
+      {
+       "ar": "إِنَّهَا",
+       "en": "Indeed it",
+       "bn": "নিশ্চয় তা",
+       "role": {
+        "en": "particle + pronoun",
+        "bn": "অব্যয় ও সর্বনাম"
+       }
+      },
+      {
+       "ar": "عَلَيْهِم",
+       "en": "over them",
+       "bn": "তাদের উপর",
+       "role": {
+        "en": "preposition + pronoun",
+        "bn": "পূর্বসর্গ ও সর্বনাম"
+       }
+      },
+      {
+       "ar": "مُّؤْصَدَةٌ",
+       "en": "is closed",
+       "bn": "বন্ধ করা",
+       "role": {
+        "en": "passive participle",
+        "bn": "কর্মবাচ্য বিশেষণ"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "104:9",
+     "trans": {
+      "en": "In columns extended.",
+      "bn": "প্রলম্বিত স্তম্ভে।"
+     },
+     "note": {
+      "en": "عَمَدٍ مُّمَدَّدَةٍۭ describes towering pillars.",
+      "bn": "عَمَدٍ مُّمَدَّدَةٍۭ উঁচু স্তম্ভ বোঝায়।"
+     },
+     "words": [
+      {
+       "ar": "فِى",
+       "en": "in",
+       "bn": "মধ্যে",
+       "role": {
+        "en": "preposition",
+        "bn": "পূর্বসর্গ"
+       }
+      },
+      {
+       "ar": "عَمَدٍ",
+       "en": "columns",
+       "bn": "স্তম্ভ",
+       "role": {
+        "en": "noun (plural)",
+        "bn": "বিশেষ্য (বহুবচন)"
+       }
+      },
+      {
+       "ar": "مُّمَدَّدَةٍۭ",
+       "en": "extended",
+       "bn": "প্রলম্বিত",
+       "role": {
+        "en": "passive participle",
+        "bn": "কর্মবাচ্য বিশেষণ"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "What does ٱلْأَفْـِٔدَةِ refer to in 104:7?",
+     "bn": "১০৪:৭-এ ٱلْأَفْـِٔدَةِ কী বোঝায়?"
+    },
+    "options": [
+     "The mountains",
+     "The hearts",
+     "The graves",
+     "The seas"
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "ٱلْأَفْـِٔدَةِ means 'the hearts', showing the fire penetrates to the innermost being.",
+     "bn": "ٱلْأَفْـِٔدَةِ অর্থ 'হৃদয়সমূহ', যা বোঝায় আগুন অন্তরের গভীরে পৌঁছে।"
+    }
+   }
+  },
+  {
+   "id": "l-103-1",
+   "unit": "read-103",
+   "icon": "📖",
+   "title": {
+    "en": "Al-Asr: By Time (1-3)",
+    "bn": "আল-আসর: সময়ের শপথ (১-৩)"
+   },
+   "concept": {
+    "en": "Allah swears by time that humanity is in loss, except those with four qualities: faith, good deeds, mutual counsel to truth and to patience.",
+    "bn": "আল্লাহ সময়ের শপথ করে বলেন মানুষ ক্ষতিগ্রস্ত, কেবল চারটি গুণের অধিকারীরা ছাড়া: ঈমান, সৎকর্ম, সত্যের ও ধৈর্যের পরস্পর উপদেশ।"
+   },
+   "examples": [
+    {
+     "ref": "103:1",
+     "trans": {
+      "en": "By time,",
+      "bn": "সময়ের শপথ,"
+     },
+     "note": {
+      "en": "The وَ here is an oath particle (wāw al-qasam).",
+      "bn": "এখানে وَ শপথের অব্যয় (ওয়াও আল-কসম)।"
+     },
+     "words": [
+      {
+       "ar": "وَٱلْعَصْرِ",
+       "en": "By time",
+       "bn": "সময়ের শপথ",
+       "role": {
+        "en": "oath particle + noun",
+        "bn": "শপথ অব্যয় ও বিশেষ্য"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "103:2",
+     "trans": {
+      "en": "Indeed, mankind is in loss,",
+      "bn": "নিশ্চয় মানুষ ক্ষতির মধ্যে,"
+     },
+     "note": {
+      "en": "إِنَّ and لَ give double emphasis.",
+      "bn": "إِنَّ ও لَ দ্বিগুণ জোর দেয়।"
+     },
+     "words": [
+      {
+       "ar": "إِنَّ",
+       "en": "Indeed",
+       "bn": "নিশ্চয়",
+       "role": {
+        "en": "emphatic particle",
+        "bn": "জোরালো অব্যয়"
+       }
+      },
+      {
+       "ar": "ٱلْإِنسَٰنَ",
+       "en": "mankind",
+       "bn": "মানুষ",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      },
+      {
+       "ar": "لَفِى",
+       "en": "is surely in",
+       "bn": "অবশ্যই মধ্যে",
+       "role": {
+        "en": "emphatic + preposition",
+        "bn": "জোর ও পূর্বসর্গ"
+       }
+      },
+      {
+       "ar": "خُسْرٍ",
+       "en": "loss",
+       "bn": "ক্ষতি",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "103:3",
+     "trans": {
+      "en": "Except those who believe, do righteous deeds, and advise each other to truth and to patience.",
+      "bn": "কিন্তু যারা ঈমান আনে, সৎকর্ম করে এবং পরস্পরকে সত্য ও ধৈর্যের উপদেশ দেয়।"
+     },
+     "note": {
+      "en": "وَتَوَاصَوْا۟ is repeated for truth and patience.",
+      "bn": "وَتَوَاصَوْا۟ সত্য ও ধৈর্যের জন্য দুবার এসেছে।"
+     },
+     "words": [
+      {
+       "ar": "إِلَّا",
+       "en": "except",
+       "bn": "কিন্তু",
+       "role": {
+        "en": "exceptive particle",
+        "bn": "ব্যতিক্রম অব্যয়"
+       }
+      },
+      {
+       "ar": "ٱلَّذِينَ",
+       "en": "those who",
+       "bn": "যারা",
+       "role": {
+        "en": "relative pronoun",
+        "bn": "সম্বন্ধবাচক সর্বনাম"
+       }
+      },
+      {
+       "ar": "ءَامَنُوا۟",
+       "en": "believed",
+       "bn": "ঈমান এনেছে",
+       "role": {
+        "en": "past-tense verb",
+        "bn": "অতীত কালের ক্রিয়া"
+       }
+      },
+      {
+       "ar": "وَعَمِلُوا۟",
+       "en": "and did",
+       "bn": "এবং করেছে",
+       "role": {
+        "en": "conjunction + verb",
+        "bn": "সংযোজক ও ক্রিয়া"
+       }
+      },
+      {
+       "ar": "ٱلصَّٰلِحَٰتِ",
+       "en": "righteous deeds",
+       "bn": "সৎকর্ম",
+       "role": {
+        "en": "noun (plural)",
+        "bn": "বিশেষ্য (বহুবচন)"
+       }
+      },
+      {
+       "ar": "وَتَوَاصَوْا۟",
+       "en": "and advised each other",
+       "bn": "এবং পরস্পরকে উপদেশ দিয়েছে",
+       "role": {
+        "en": "conjunction + verb",
+        "bn": "সংযোজক ও ক্রিয়া"
+       }
+      },
+      {
+       "ar": "بِٱلْحَقِّ",
+       "en": "to truth",
+       "bn": "সত্যের",
+       "role": {
+        "en": "preposition + noun",
+        "bn": "পূর্বসর্গ ও বিশেষ্য"
+       }
+      },
+      {
+       "ar": "وَتَوَاصَوْا۟",
+       "en": "and advised each other",
+       "bn": "এবং পরস্পরকে উপদেশ দিয়েছে",
+       "role": {
+        "en": "conjunction + verb",
+        "bn": "সংযোজক ও ক্রিয়া"
+       }
+      },
+      {
+       "ar": "بِٱلصَّبْرِ",
+       "en": "to patience",
+       "bn": "ধৈর্যের",
+       "role": {
+        "en": "preposition + noun",
+        "bn": "পূর্বসর্গ ও বিশেষ্য"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "What kind of particle is وَ at the start of 103:1?",
+     "bn": "১০৩:১-এর শুরুতে وَ কোন ধরনের অব্যয়?"
+    },
+    "options": [
+     "Conjunction 'and'",
+     "An oath particle (wāw al-qasam)",
+     "A negation",
+     "A question"
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "The وَ in وَٱلْعَصْرِ is wāw al-qasam, an oath particle meaning 'By...'.",
+     "bn": "وَٱلْعَصْرِ-এর وَ হলো ওয়াও আল-কসম, শপথের অব্যয়, অর্থ 'শপথ...'।"
+    }
+   }
+  },
+  {
+   "id": "l-102-1",
+   "unit": "read-102",
+   "icon": "📖",
+   "title": {
+    "en": "At-Takathur: Rivalry in Wealth (1-4)",
+    "bn": "আত-তাকাসুর: প্রাচুর্যের প্রতিযোগিতা (১-৪)"
+   },
+   "concept": {
+    "en": "Competing for more distracts people until they reach the graves. Twice comes the warning 'soon you will know' (سَوْفَ تَعْلَمُونَ).",
+    "bn": "বেশি পাওয়ার প্রতিযোগিতা মানুষকে গাফেল রাখে যতক্ষণ না তারা কবরে পৌঁছে। দুবার আসে সতর্কবাণী 'শীঘ্রই তোমরা জানবে'।"
+   },
+   "examples": [
+    {
+     "ref": "102:1",
+     "trans": {
+      "en": "Competition in increase diverts you,",
+      "bn": "প্রাচুর্যের প্রতিযোগিতা তোমাদের ভুলিয়ে রাখে,"
+     },
+     "note": {
+      "en": "ٱلتَّكَاثُرُ is rivalry for more.",
+      "bn": "ٱلتَّكَاثُرُ অর্থ বেশি পাওয়ার প্রতিযোগিতা।"
+     },
+     "words": [
+      {
+       "ar": "أَلْهَىٰكُمُ",
+       "en": "Diverted you",
+       "bn": "তোমাদের ভুলিয়ে রেখেছে",
+       "role": {
+        "en": "verb + object pronoun",
+        "bn": "ক্রিয়া ও কর্ম সর্বনাম"
+       }
+      },
+      {
+       "ar": "ٱلتَّكَاثُرُ",
+       "en": "the competition for increase",
+       "bn": "প্রাচুর্যের প্রতিযোগিতা",
+       "role": {
+        "en": "noun (proper)",
+        "bn": "বিশেষ্য (নাম)"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "102:2",
+     "trans": {
+      "en": "Until you visit the graves.",
+      "bn": "যতক্ষণ না তোমরা কবরে পৌঁছ।"
+     },
+     "note": {
+      "en": "زُرْتُمُ ('you visited') implies death.",
+      "bn": "زُرْتُمُ ('তোমরা পরিদর্শন করলে') মৃত্যু বোঝায়।"
+     },
+     "words": [
+      {
+       "ar": "حَتَّىٰ",
+       "en": "until",
+       "bn": "যতক্ষণ না",
+       "role": {
+        "en": "particle",
+        "bn": "অব্যয়"
+       }
+      },
+      {
+       "ar": "زُرْتُمُ",
+       "en": "you visited",
+       "bn": "তোমরা পরিদর্শন করলে",
+       "role": {
+        "en": "past-tense verb",
+        "bn": "অতীত কালের ক্রিয়া"
+       }
+      },
+      {
+       "ar": "ٱلْمَقَابِرَ",
+       "en": "the graves",
+       "bn": "কবরসমূহ",
+       "role": {
+        "en": "noun (plural)",
+        "bn": "বিশেষ্য (বহুবচন)"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "102:3",
+     "trans": {
+      "en": "Nay! You are going to know.",
+      "bn": "কখনো না! তোমরা শীঘ্রই জানবে।"
+     },
+     "note": {
+      "en": "كَلَّا rebukes the heedless.",
+      "bn": "كَلَّا গাফেলদের ধমক দেয়।"
+     },
+     "words": [
+      {
+       "ar": "كَلَّا",
+       "en": "Nay!",
+       "bn": "কখনো না!",
+       "role": {
+        "en": "particle of rebuttal",
+        "bn": "প্রত্যাখ্যানের অব্যয়"
+       }
+      },
+      {
+       "ar": "سَوْفَ",
+       "en": "soon",
+       "bn": "শীঘ্রই",
+       "role": {
+        "en": "future particle",
+        "bn": "ভবিষ্যৎ অব্যয়"
+       }
+      },
+      {
+       "ar": "تَعْلَمُونَ",
+       "en": "you will know",
+       "bn": "তোমরা জানবে",
+       "role": {
+        "en": "present-tense verb",
+        "bn": "বর্তমান কালের ক্রিয়া"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "102:4",
+     "trans": {
+      "en": "Then, nay! You are going to know.",
+      "bn": "আবার, কখনো না! তোমরা জানবে।"
+     },
+     "note": {
+      "en": "ثُمَّ repeats the warning for emphasis.",
+      "bn": "ثُمَّ জোর দিতে সতর্কবাণীর পুনরাবৃত্তি।"
+     },
+     "words": [
+      {
+       "ar": "ثُمَّ",
+       "en": "Then",
+       "bn": "অতঃপর",
+       "role": {
+        "en": "conjunction",
+        "bn": "সংযোজক"
+       }
+      },
+      {
+       "ar": "كَلَّا",
+       "en": "Nay!",
+       "bn": "কখনো না!",
+       "role": {
+        "en": "particle of rebuttal",
+        "bn": "প্রত্যাখ্যানের অব্যয়"
+       }
+      },
+      {
+       "ar": "سَوْفَ",
+       "en": "soon",
+       "bn": "শীঘ্রই",
+       "role": {
+        "en": "future particle",
+        "bn": "ভবিষ্যৎ অব্যয়"
+       }
+      },
+      {
+       "ar": "تَعْلَمُونَ",
+       "en": "you will know",
+       "bn": "তোমরা জানবে",
+       "role": {
+        "en": "present-tense verb",
+        "bn": "বর্তমান কালের ক্রিয়া"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "What does سَوْفَ indicate in 102:3?",
+     "bn": "১০২:৩-এ سَوْفَ কী নির্দেশ করে?"
+    },
+    "options": [
+     "The past",
+     "The near future",
+     "A place",
+     "A negation"
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "سَوْفَ is a future particle meaning 'soon/going to', warning of what is coming.",
+     "bn": "سَوْفَ একটি ভবিষ্যৎ অব্যয়, অর্থ 'শীঘ্রই', যা আসন্ন বিষয়ের সতর্কবার্তা দেয়।"
+    }
+   }
+  },
+  {
+   "id": "l-102-2",
+   "unit": "read-102",
+   "icon": "📖",
+   "title": {
+    "en": "At-Takathur: Knowledge of Certainty (5-8)",
+    "bn": "আত-তাকাসুর: নিশ্চিত জ্ঞান (৫-৮)"
+   },
+   "concept": {
+    "en": "If they knew with certainty, they would not compete. They will see the Hellfire with the eye of certainty and be questioned about the blessings.",
+    "bn": "যদি তারা নিশ্চিতভাবে জানত, প্রতিযোগিতা করত না। তারা নিশ্চিত চোখে জাহান্নাম দেখবে এবং নেয়ামত সম্পর্কে জিজ্ঞাসিত হবে।"
+   },
+   "examples": [
+    {
+     "ref": "102:5",
+     "trans": {
+      "en": "Nay! If you only knew with knowledge of certainty...",
+      "bn": "কখনো না! যদি তোমরা নিশ্চিত জ্ঞানে জানতে..."
+     },
+     "note": {
+      "en": "عِلْمَ ٱلْيَقِينِ is sure knowledge.",
+      "bn": "عِلْمَ ٱلْيَقِينِ অর্থ নিশ্চিত জ্ঞান।"
+     },
+     "words": [
+      {
+       "ar": "كَلَّا",
+       "en": "Nay!",
+       "bn": "কখনো না!",
+       "role": {
+        "en": "particle of rebuttal",
+        "bn": "প্রত্যাখ্যানের অব্যয়"
+       }
+      },
+      {
+       "ar": "لَوْ",
+       "en": "if",
+       "bn": "যদি",
+       "role": {
+        "en": "conditional particle",
+        "bn": "শর্তবোধক অব্যয়"
+       }
+      },
+      {
+       "ar": "تَعْلَمُونَ",
+       "en": "you knew",
+       "bn": "তোমরা জানতে",
+       "role": {
+        "en": "present-tense verb",
+        "bn": "বর্তমান কালের ক্রিয়া"
+       }
+      },
+      {
+       "ar": "عِلْمَ",
+       "en": "with knowledge",
+       "bn": "জ্ঞানে",
+       "role": {
+        "en": "noun (accusative)",
+        "bn": "বিশেষ্য (কর্মকারক)"
+       }
+      },
+      {
+       "ar": "ٱلْيَقِينِ",
+       "en": "of certainty",
+       "bn": "নিশ্চিত",
+       "role": {
+        "en": "genitive noun",
+        "bn": "সম্বন্ধপদ বিশেষ্য"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "102:6",
+     "trans": {
+      "en": "You will surely see the Hellfire.",
+      "bn": "তোমরা অবশ্যই জাহান্নাম দেখবে।"
+     },
+     "note": {
+      "en": "لَتَرَوُنَّ carries emphatic nun.",
+      "bn": "لَتَرَوُنَّ জোরালো নূন বহন করে।"
+     },
+     "words": [
+      {
+       "ar": "لَتَرَوُنَّ",
+       "en": "You will surely see",
+       "bn": "তোমরা অবশ্যই দেখবে",
+       "role": {
+        "en": "emphatic verb",
+        "bn": "জোরালো ক্রিয়া"
+       }
+      },
+      {
+       "ar": "ٱلْجَحِيمَ",
+       "en": "the Hellfire",
+       "bn": "জাহান্নাম",
+       "role": {
+        "en": "noun (proper)",
+        "bn": "বিশেষ্য (নাম)"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "102:7",
+     "trans": {
+      "en": "Then you will surely see it with the eye of certainty.",
+      "bn": "অতঃপর তোমরা তা নিশ্চিত চোখে দেখবে।"
+     },
+     "note": {
+      "en": "عَيْنَ ٱلْيَقِينِ is certainty by sight.",
+      "bn": "عَيْنَ ٱلْيَقِينِ অর্থ দেখে নিশ্চিত হওয়া।"
+     },
+     "words": [
+      {
+       "ar": "ثُمَّ",
+       "en": "Then",
+       "bn": "অতঃপর",
+       "role": {
+        "en": "conjunction",
+        "bn": "সংযোজক"
+       }
+      },
+      {
+       "ar": "لَتَرَوُنَّهَا",
+       "en": "you will surely see it",
+       "bn": "তোমরা অবশ্যই তা দেখবে",
+       "role": {
+        "en": "emphatic verb + pronoun",
+        "bn": "জোরালো ক্রিয়া ও সর্বনাম"
+       }
+      },
+      {
+       "ar": "عَيْنَ",
+       "en": "with the eye",
+       "bn": "চোখে",
+       "role": {
+        "en": "noun (accusative)",
+        "bn": "বিশেষ্য (কর্মকারক)"
+       }
+      },
+      {
+       "ar": "ٱلْيَقِينِ",
+       "en": "of certainty",
+       "bn": "নিশ্চিত",
+       "role": {
+        "en": "genitive noun",
+        "bn": "সম্বন্ধপদ বিশেষ্য"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "102:8",
+     "trans": {
+      "en": "Then you will surely be asked that Day about the pleasures.",
+      "bn": "অতঃপর সেদিন তোমাদের নেয়ামত সম্পর্কে অবশ্যই জিজ্ঞেস করা হবে।"
+     },
+     "note": {
+      "en": "ٱلنَّعِيمِ means the blessings enjoyed.",
+      "bn": "ٱلنَّعِيمِ অর্থ ভোগকৃত নেয়ামত।"
+     },
+     "words": [
+      {
+       "ar": "ثُمَّ",
+       "en": "Then",
+       "bn": "অতঃপর",
+       "role": {
+        "en": "conjunction",
+        "bn": "সংযোজক"
+       }
+      },
+      {
+       "ar": "لَتُسْـَٔلُنَّ",
+       "en": "you will surely be asked",
+       "bn": "তোমাদের অবশ্যই জিজ্ঞেস করা হবে",
+       "role": {
+        "en": "emphatic passive verb",
+        "bn": "জোরালো কর্মবাচ্য ক্রিয়া"
+       }
+      },
+      {
+       "ar": "يَوْمَئِذٍ",
+       "en": "that Day",
+       "bn": "সেদিন",
+       "role": {
+        "en": "adverb of time",
+        "bn": "কালবাচক ক্রিয়াবিশেষণ"
+       }
+      },
+      {
+       "ar": "عَنِ",
+       "en": "about",
+       "bn": "সম্পর্কে",
+       "role": {
+        "en": "preposition",
+        "bn": "পূর্বসর্গ"
+       }
+      },
+      {
+       "ar": "ٱلنَّعِيمِ",
+       "en": "the pleasure",
+       "bn": "নেয়ামত",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "What does عَيْنَ ٱلْيَقِينِ mean in 102:7?",
+     "bn": "১০২:৭-এ عَيْنَ ٱلْيَقِينِ অর্থ কী?"
+    },
+    "options": [
+     "Knowledge by hearing",
+     "Certainty by direct sight",
+     "A doubt",
+     "A rumor"
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "عَيْنَ ٱلْيَقِينِ means 'the eye of certainty'—certainty attained through seeing directly.",
+     "bn": "عَيْنَ ٱلْيَقِينِ অর্থ 'নিশ্চয়তার চোখ'—সরাসরি দেখে অর্জিত নিশ্চয়তা।"
+    }
+   }
+  },
+  {
+   "id": "l-101-1",
+   "unit": "read-101",
+   "icon": "📖",
+   "title": {
+    "en": "Al-Qari'ah: The Calamity (1-3)",
+    "bn": "আল-কারিআহ: মহাসংকট (১-৩)"
+   },
+   "concept": {
+    "en": "The Striking Calamity is named and magnified through repeated rhetorical questions, building awe about the Day of Judgment.",
+    "bn": "মহাসংকটের নাম উল্লেখ করে বারবার অলংকারিক প্রশ্নে তা মহিমান্বিত করা হয়েছে, কিয়ামতের ভয় জাগ্রত করে।"
+   },
+   "examples": [
+    {
+     "ref": "101:1",
+     "trans": {
+      "en": "The Striking Calamity!",
+      "bn": "মহাসংকট!"
+     },
+     "note": {
+      "en": "ٱلْقَارِعَةُ is a name of the Resurrection.",
+      "bn": "ٱلْقَارِعَةُ কিয়ামতের একটি নাম।"
+     },
+     "words": [
+      {
+       "ar": "ٱلْقَارِعَةُ",
+       "en": "The Striking Calamity",
+       "bn": "আল-কারিআহ (মহাসংকট)",
+       "role": {
+        "en": "noun (proper)",
+        "bn": "বিশেষ্য (নাম)"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "101:2",
+     "trans": {
+      "en": "What is the Striking Calamity?",
+      "bn": "মহাসংকট কী?"
+     },
+     "note": {
+      "en": "The question magnifies its terror.",
+      "bn": "প্রশ্নটি এর ভয়াবহতা বাড়ায়।"
+     },
+     "words": [
+      {
+       "ar": "مَا",
+       "en": "What is",
+       "bn": "কী",
+       "role": {
+        "en": "interrogative",
+        "bn": "প্রশ্নবোধক"
+       }
+      },
+      {
+       "ar": "ٱلْقَارِعَةُ",
+       "en": "the Striking Calamity",
+       "bn": "আল-কারিআহ",
+       "role": {
+        "en": "noun (proper)",
+        "bn": "বিশেষ্য (নাম)"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "101:3",
+     "trans": {
+      "en": "And what will make you know what the Striking Calamity is?",
+      "bn": "আর কী তোমাকে জানাবে মহাসংকট কী?"
+     },
+     "note": {
+      "en": "مَآ أَدْرَىٰكَ heightens the awe.",
+      "bn": "مَآ أَدْرَىٰكَ ভীতি আরও বাড়ায়।"
+     },
+     "words": [
+      {
+       "ar": "وَمَآ",
+       "en": "And what",
+       "bn": "আর কী",
+       "role": {
+        "en": "conjunction + interrogative",
+        "bn": "সংযোজক ও প্রশ্নবোধক"
+       }
+      },
+      {
+       "ar": "أَدْرَىٰكَ",
+       "en": "makes you know",
+       "bn": "তোমাকে জানাবে",
+       "role": {
+        "en": "verb + object pronoun",
+        "bn": "ক্রিয়া ও কর্ম সর্বনাম"
+       }
+      },
+      {
+       "ar": "مَا",
+       "en": "what",
+       "bn": "কী",
+       "role": {
+        "en": "interrogative",
+        "bn": "প্রশ্নবোধক"
+       }
+      },
+      {
+       "ar": "ٱلْقَارِعَةُ",
+       "en": "the Striking Calamity is",
+       "bn": "আল-কারিআহ",
+       "role": {
+        "en": "noun (proper)",
+        "bn": "বিশেষ্য (নাম)"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "What is ٱلْقَارِعَةُ?",
+     "bn": "ٱلْقَارِعَةُ কী?"
+    },
+    "options": [
+     "A mountain",
+     "A name for the Day of Judgment",
+     "A prophet",
+     "A river"
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "ٱلْقَارِعَةُ ('the Striking Calamity') is one of the names of the Day of Resurrection.",
+     "bn": "ٱلْقَارِعَةُ ('মহাসংকট') কিয়ামত দিবসের একটি নাম।"
+    }
+   }
+  },
+  {
+   "id": "l-101-2",
+   "unit": "read-101",
+   "icon": "📖",
+   "title": {
+    "en": "Al-Qari'ah: Moths and Wool (4-7)",
+    "bn": "আল-কারিআহ: পতঙ্গ ও পশম (৪-৭)"
+   },
+   "concept": {
+    "en": "On that Day people will be like scattered moths and mountains like fluffed wool. The one whose scales are heavy attains a pleasant life.",
+    "bn": "সেদিন মানুষ বিক্ষিপ্ত পতঙ্গের মতো ও পর্বত ধুনিত পশমের মতো হবে। যার পাল্লা ভারী হবে সে সন্তোষজনক জীবন পাবে।"
+   },
+   "examples": [
+    {
+     "ref": "101:4",
+     "trans": {
+      "en": "The Day people will be like scattered moths,",
+      "bn": "যেদিন মানুষ বিক্ষিপ্ত পতঙ্গের মতো হবে,"
+     },
+     "note": {
+      "en": "كَٱلْفَرَاشِ ٱلْمَبْثُوثِ pictures confusion.",
+      "bn": "كَٱلْفَرَاشِ ٱلْمَبْثُوثِ বিশৃঙ্খলার চিত্র।"
+     },
+     "words": [
+      {
+       "ar": "يَوْمَ",
+       "en": "The Day",
+       "bn": "যেদিন",
+       "role": {
+        "en": "adverb of time",
+        "bn": "কালবাচক ক্রিয়াবিশেষণ"
+       }
+      },
+      {
+       "ar": "يَكُونُ",
+       "en": "will be",
+       "bn": "হবে",
+       "role": {
+        "en": "present-tense verb",
+        "bn": "বর্তমান কালের ক্রিয়া"
+       }
+      },
+      {
+       "ar": "ٱلنَّاسُ",
+       "en": "the people",
+       "bn": "মানুষ",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      },
+      {
+       "ar": "كَٱلْفَرَاشِ",
+       "en": "like moths",
+       "bn": "পতঙ্গের মতো",
+       "role": {
+        "en": "preposition + noun",
+        "bn": "পূর্বসর্গ ও বিশেষ্য"
+       }
+      },
+      {
+       "ar": "ٱلْمَبْثُوثِ",
+       "en": "scattered",
+       "bn": "বিক্ষিপ্ত",
+       "role": {
+        "en": "passive participle",
+        "bn": "কর্মবাচ্য বিশেষণ"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "101:5",
+     "trans": {
+      "en": "And the mountains will be like fluffed wool.",
+      "bn": "আর পর্বত হবে ধুনিত পশমের মতো।"
+     },
+     "note": {
+      "en": "كَٱلْعِهْنِ ٱلْمَنفُوشِ shows total upheaval.",
+      "bn": "كَٱلْعِهْنِ ٱلْمَنفُوشِ পূর্ণ ওলটপালট বোঝায়।"
+     },
+     "words": [
+      {
+       "ar": "وَتَكُونُ",
+       "en": "And will be",
+       "bn": "আর হবে",
+       "role": {
+        "en": "conjunction + verb",
+        "bn": "সংযোজক ও ক্রিয়া"
+       }
+      },
+      {
+       "ar": "ٱلْجِبَالُ",
+       "en": "the mountains",
+       "bn": "পর্বতসমূহ",
+       "role": {
+        "en": "noun (plural)",
+        "bn": "বিশেষ্য (বহুবচন)"
+       }
+      },
+      {
+       "ar": "كَٱلْعِهْنِ",
+       "en": "like wool",
+       "bn": "পশমের মতো",
+       "role": {
+        "en": "preposition + noun",
+        "bn": "পূর্বসর্গ ও বিশেষ্য"
+       }
+      },
+      {
+       "ar": "ٱلْمَنفُوشِ",
+       "en": "fluffed up",
+       "bn": "ধুনিত",
+       "role": {
+        "en": "passive participle",
+        "bn": "কর্মবাচ্য বিশেষণ"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "101:6",
+     "trans": {
+      "en": "Then as for one whose scales are heavy,",
+      "bn": "অতঃপর যার পাল্লা ভারী হবে,"
+     },
+     "note": {
+      "en": "مَوَٰزِينُهُۥ = his balances of deeds.",
+      "bn": "مَوَٰزِينُهُۥ = তার আমলের পাল্লা।"
+     },
+     "words": [
+      {
+       "ar": "فَأَمَّا",
+       "en": "Then as for",
+       "bn": "অতঃপর যার",
+       "role": {
+        "en": "conjunction + detail particle",
+        "bn": "সংযোজক ও বিবরণ অব্যয়"
+       }
+      },
+      {
+       "ar": "مَن",
+       "en": "him whose",
+       "bn": "যার",
+       "role": {
+        "en": "relative pronoun",
+        "bn": "সম্বন্ধবাচক সর্বনাম"
+       }
+      },
+      {
+       "ar": "ثَقُلَتْ",
+       "en": "are heavy",
+       "bn": "ভারী হবে",
+       "role": {
+        "en": "past-tense verb",
+        "bn": "অতীত কালের ক্রিয়া"
+       }
+      },
+      {
+       "ar": "مَوَٰزِينُهُۥ",
+       "en": "his scales",
+       "bn": "তার পাল্লা",
+       "role": {
+        "en": "noun + possessive",
+        "bn": "বিশেষ্য ও সম্বন্ধ সর্বনাম"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "101:7",
+     "trans": {
+      "en": "He will be in a pleasant life.",
+      "bn": "সে সন্তোষজনক জীবনে থাকবে।"
+     },
+     "note": {
+      "en": "رَّاضِيَةٍ means a contented life.",
+      "bn": "رَّاضِيَةٍ অর্থ সন্তুষ্ট জীবন।"
+     },
+     "words": [
+      {
+       "ar": "فَهُوَ",
+       "en": "then he",
+       "bn": "তখন সে",
+       "role": {
+        "en": "conjunction + pronoun",
+        "bn": "সংযোজক ও সর্বনাম"
+       }
+      },
+      {
+       "ar": "فِى",
+       "en": "will be in",
+       "bn": "থাকবে",
+       "role": {
+        "en": "preposition",
+        "bn": "পূর্বসর্গ"
+       }
+      },
+      {
+       "ar": "عِيشَةٍ",
+       "en": "a life",
+       "bn": "জীবনে",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      },
+      {
+       "ar": "رَّاضِيَةٍ",
+       "en": "pleasant",
+       "bn": "সন্তোষজনক",
+       "role": {
+        "en": "adjective",
+        "bn": "বিশেষণ"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "In 101:6, whose scales are 'heavy'?",
+     "bn": "১০১:৬-এ কার পাল্লা 'ভারী'?"
+    },
+    "options": [
+     "One with light deeds",
+     "One whose good deeds outweigh",
+     "A disbeliever",
+     "A sleeper"
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "ثَقُلَتْ مَوَٰزِينُهُۥ means his scales of good deeds are heavy, earning a pleasant life.",
+     "bn": "ثَقُلَتْ مَوَٰزِينُهُۥ অর্থ তার সৎ আমলের পাল্লা ভারী, যা সন্তোষজনক জীবন এনে দেয়।"
+    }
+   }
+  },
+  {
+   "id": "l-101-3",
+   "unit": "read-101",
+   "icon": "📖",
+   "title": {
+    "en": "Al-Qari'ah: The Abyss (8-11)",
+    "bn": "আল-কারিআহ: হাবিয়া (৮-১১)"
+   },
+   "concept": {
+    "en": "The one whose scales are light will have the abyss (Hawiyah) as his home—a Fire intensely hot.",
+    "bn": "যার পাল্লা হালকা হবে তার আবাস হবে হাবিয়া—প্রচণ্ড উত্তপ্ত আগুন।"
+   },
+   "examples": [
+    {
+     "ref": "101:8",
+     "trans": {
+      "en": "But as for one whose scales are light,",
+      "bn": "আর যার পাল্লা হালকা হবে,"
+     },
+     "note": {
+      "en": "خَفَّتْ contrasts with ثَقُلَتْ.",
+      "bn": "خَفَّتْ ثَقُلَتْ-এর বিপরীত।"
+     },
+     "words": [
+      {
+       "ar": "وَأَمَّا",
+       "en": "And as for",
+       "bn": "আর যার",
+       "role": {
+        "en": "conjunction + detail particle",
+        "bn": "সংযোজক ও বিবরণ অব্যয়"
+       }
+      },
+      {
+       "ar": "مَنْ",
+       "en": "him whose",
+       "bn": "যার",
+       "role": {
+        "en": "relative pronoun",
+        "bn": "সম্বন্ধবাচক সর্বনাম"
+       }
+      },
+      {
+       "ar": "خَفَّتْ",
+       "en": "are light",
+       "bn": "হালকা হবে",
+       "role": {
+        "en": "past-tense verb",
+        "bn": "অতীত কালের ক্রিয়া"
+       }
+      },
+      {
+       "ar": "مَوَٰزِينُهُۥ",
+       "en": "his scales",
+       "bn": "তার পাল্লা",
+       "role": {
+        "en": "noun + possessive",
+        "bn": "বিশেষ্য ও সম্বন্ধ সর্বনাম"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "101:9",
+     "trans": {
+      "en": "His refuge will be an abyss.",
+      "bn": "তার আশ্রয় হবে হাবিয়া।"
+     },
+     "note": {
+      "en": "هَاوِيَةٌ is a name of the Fire.",
+      "bn": "هَاوِيَةٌ আগুনের একটি নাম।"
+     },
+     "words": [
+      {
+       "ar": "فَأُمُّهُۥ",
+       "en": "then his refuge",
+       "bn": "তখন তার আশ্রয়",
+       "role": {
+        "en": "conjunction + noun + possessive",
+        "bn": "সংযোজক ও বিশেষ্য ও সর্বনাম"
+       }
+      },
+      {
+       "ar": "هَاوِيَةٌ",
+       "en": "will be an abyss",
+       "bn": "হবে হাবিয়া (অতল গহ্বর)",
+       "role": {
+        "en": "noun (predicate)",
+        "bn": "বিশেষ্য (বিধেয়)"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "101:10",
+     "trans": {
+      "en": "And what will make you know what it is?",
+      "bn": "আর কী তোমাকে জানাবে তা কী?"
+     },
+     "note": {
+      "en": "هِيَهْ ends with hāʾ al-sakt.",
+      "bn": "هِيَهْ শেষে হা আস-সাকত।"
+     },
+     "words": [
+      {
+       "ar": "وَمَآ",
+       "en": "And what",
+       "bn": "আর কী",
+       "role": {
+        "en": "conjunction + interrogative",
+        "bn": "সংযোজক ও প্রশ্নবোধক"
+       }
+      },
+      {
+       "ar": "أَدْرَىٰكَ",
+       "en": "makes you know",
+       "bn": "তোমাকে জানাবে",
+       "role": {
+        "en": "verb + object pronoun",
+        "bn": "ক্রিয়া ও কর্ম সর্বনাম"
+       }
+      },
+      {
+       "ar": "مَا",
+       "en": "what",
+       "bn": "কী",
+       "role": {
+        "en": "interrogative",
+        "bn": "প্রশ্নবোধক"
+       }
+      },
+      {
+       "ar": "هِيَهْ",
+       "en": "it is",
+       "bn": "তা",
+       "role": {
+        "en": "pronoun",
+        "bn": "সর্বনাম"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "101:11",
+     "trans": {
+      "en": "A Fire, intensely hot.",
+      "bn": "প্রচণ্ড উত্তপ্ত আগুন।"
+     },
+     "note": {
+      "en": "حَامِيَةٌۢ means fiercely blazing.",
+      "bn": "حَامِيَةٌۢ অর্থ প্রচণ্ড জ্বলন্ত।"
+     },
+     "words": [
+      {
+       "ar": "نَارٌ",
+       "en": "A Fire",
+       "bn": "আগুন",
+       "role": {
+        "en": "noun",
+        "bn": "বিশেষ্য"
+       }
+      },
+      {
+       "ar": "حَامِيَةٌۢ",
+       "en": "intensely hot",
+       "bn": "প্রচণ্ড উত্তপ্ত",
+       "role": {
+        "en": "adjective",
+        "bn": "বিশেষণ"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "What is هَاوِيَةٌ in 101:9?",
+     "bn": "১০১:৯-এ هَاوِيَةٌ কী?"
+    },
+    "options": [
+     "A garden",
+     "A name for the Fire",
+     "A mountain",
+     "A reward"
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "هَاوِيَةٌ ('the abyss') is a name of Hellfire, the abode of one whose scales are light.",
+     "bn": "هَاوِيَةٌ ('অতল গহ্বর') জাহান্নামের একটি নাম, যার পাল্লা হালকা তার আবাস।"
+    }
+   }
+  }
+ ]
+}

@@ -936,6 +936,13 @@ class SeerahView {
     this.quizScore = 0;
     this.quizBest = this.loadQuizBest();
     this.storyPos = this.loadStoryPos();
+    this.dataLoaded = false;   // supplemental external content merged in?
+    this.dataLoading = false;  // guard against concurrent / duplicate loads
+
+    // Kick off (async, non-blocking) load of supplemental content from
+    // data/seerah/. Inline content renders immediately; when the external
+    // data arrives the view re-renders (if it has already been shown).
+    this.loadSupplementalContent();
 
     window.addEventListener('tabChanged', (e) => {
       try { if (e && e.detail && e.detail.tabId === 'seerah') this.render(); } catch (_) { /* ignore */ }
@@ -948,6 +955,92 @@ class SeerahView {
         }
       } catch (_) { /* ignore */ }
     });
+  }
+
+  // ── supplemental content loader ──────────────────────────────────────
+  /**
+   * Manifest-driven loader for SUPPLEMENTAL Seerah content. Fully additive and
+   * fully defensive: a missing/404/malformed manifest or data file is skipped
+   * silently and the module keeps working with inline content only. Never
+   * throws; never blocks the UI. Loads once (guarded), then re-renders if the
+   * view has already been shown.
+   *
+   *   data/seerah/manifest.json  → JSON array of data-file names, e.g.
+   *     ["wave-01.json", "wave-02.json"]
+   *   data/seerah/<name>         → JSON object with any of these optional keys,
+   *     each an ARRAY of entries in the SAME shape as the inline arrays:
+   *       events, topics, places, companions, ashara, lessons
+   *     plus optional `battles`: an OBJECT keyed by event id (shape mirrors
+   *     SEERAH_BATTLES), merged in without overwriting existing entries.
+   */
+  async loadSupplementalContent() {
+    if (this.dataLoaded || this.dataLoading) return;
+    this.dataLoading = true;
+    try {
+      const manifest = await this.fetchJson('data/seerah/manifest.json');
+      if (Array.isArray(manifest)) {
+        for (const fname of manifest) {
+          if (typeof fname !== 'string' || !fname) continue;
+          const data = await this.fetchJson('data/seerah/' + fname);
+          if (data && typeof data === 'object' && !Array.isArray(data)) {
+            this.mergeSeerahData(data);
+          }
+        }
+      }
+    } catch (_) { /* ignore — inline content stands alone */ }
+    this.dataLoading = false;
+    this.dataLoaded = true;
+    // If the view is already on screen, re-render to reflect merged content.
+    try { if (this.rendered) this.render(); } catch (_) { /* ignore */ }
+  }
+
+  async fetchJson(url) {
+    try {
+      const res = await fetch(url, { cache: 'no-cache' });
+      if (!res || !res.ok) return null;
+      return await res.json();
+    } catch (_) { return null; }
+  }
+
+  // Append entries into a target array; dedupe by a stable key. Entries carry an
+  // `id` for events/topics; companions/places have none, so fall back to nameEn
+  // (or titleEn) — this prevents duplicates both against the inline base and
+  // across supplemental files (e.g. Hamzah/Bilal appearing in several slices).
+  mergeArray(target, entries) {
+    if (!Array.isArray(target) || !Array.isArray(entries)) return;
+    const keyOf = (x) => !x ? null
+      : (x.id != null ? 'id:' + x.id
+      : x.nameEn != null ? 'nm:' + x.nameEn
+      : x.titleEn != null ? 'tt:' + x.titleEn : null);
+    const seen = new Set();
+    for (const x of target) { const k = keyOf(x); if (k) seen.add(k); }
+    for (const entry of entries) {
+      if (!entry || typeof entry !== 'object') continue;
+      const k = keyOf(entry);
+      if (k && seen.has(k)) continue;
+      if (k) seen.add(k);
+      target.push(entry);
+    }
+  }
+
+  mergeSeerahData(data) {
+    try {
+      this.mergeArray(SEERAH_EVENTS, data.events);
+      this.mergeArray(SEERAH_TOPICS, data.topics);
+      this.mergeArray(SEERAH_PLACES, data.places);
+      this.mergeArray(SEERAH_COMPANIONS, data.companions);
+      this.mergeArray(SEERAH_ASHARA, data.ashara);
+      this.mergeArray(SEERAH_LESSONS, data.lessons);
+      if (data.battles && typeof data.battles === 'object' && !Array.isArray(data.battles)) {
+        for (const key of Object.keys(data.battles)) {
+          const b = data.battles[key];
+          // Do not overwrite an existing (inline) battle entry.
+          if (key && b && typeof b === 'object' && !(key in SEERAH_BATTLES)) {
+            SEERAH_BATTLES[key] = b;
+          }
+        }
+      }
+    } catch (_) { /* ignore malformed shard */ }
   }
 
   // ── helpers ──────────────────────────────────────────────────────────

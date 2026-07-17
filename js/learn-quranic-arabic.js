@@ -1607,6 +1607,110 @@ class QuranicArabicView {
       this.container.addEventListener('click', (e) => this.onClick(e));
       this.container.addEventListener('input', (e) => this.onInput(e));
     }
+
+    // Kick off supplemental content loading (fully async, non-blocking).
+    // Inline lessons render immediately; external lessons merge + re-render
+    // when (and if) they arrive. Any failure is swallowed silently.
+    try { this.loadSupplemental(); } catch (e) { /* ignore */ }
+  }
+
+  /* ------------------------------------------------------------------ *
+   * Supplemental content loader (manifest-driven, purely additive)      *
+   * ------------------------------------------------------------------ *
+   * Fetches data/qarabic/manifest.json (a JSON array of filenames).     *
+   * Each file is a JSON object with optional keys `units`, `lessons`,   *
+   * `glossary` — each entry in the SAME shape as the inline arrays.     *
+   * Merges into QA_UNITS / QA_LESSONS / QA_GLOSSARY (dedupe by id),      *
+   * honouring an optional numeric `order` on new units. Never throws,   *
+   * never blocks the UI, and works identically when no files exist.     *
+   * ------------------------------------------------------------------ */
+  loadSupplemental() {
+    if (this._dataLoaded) return;      // guard against double-merge
+    this._dataLoaded = true;
+    if (typeof fetch !== 'function') return;
+    const base = 'data/qarabic/';
+    const grabJson = (url) => {
+      try {
+        return fetch(url, { cache: 'no-cache' })
+          .then(r => (r && r.ok) ? r.json() : null)
+          .catch(() => null);
+      } catch (e) { return Promise.resolve(null); }
+    };
+    Promise.resolve()
+      .then(() => grabJson(base + 'manifest.json'))
+      .then(list => {
+        if (!Array.isArray(list) || !list.length) return null;
+        const files = list.filter(f => typeof f === 'string' && f);
+        return Promise.all(files.map(f => grabJson(base + f)));
+      })
+      .then(results => {
+        if (!Array.isArray(results)) return;
+        let changed = 0;
+        results.forEach(obj => {
+          if (!obj || typeof obj !== 'object') return;
+          try {
+            changed += this._mergeUnits(obj.units);
+            changed += this._mergeArr(QA_LESSONS, obj.lessons, x => (x && x.id != null) ? x.id : null);
+            changed += this._mergeArr(QA_GLOSSARY, obj.glossary, x => x ? (x.id != null ? x.id : x.ar) : null);
+          } catch (e) { /* skip malformed file, keep going */ }
+        });
+        if (changed) {
+          this._ordered = null;        // rebuild ordered lesson list on next read
+          this._vocab = null;          // rebuild vocab/flashcard deck
+          if (this.rendered) this.render();   // re-render if already on screen
+        }
+      })
+      .catch(() => { /* fully silent: inline lessons remain intact */ });
+  }
+
+  // Append entries from `incoming` into `target`, skipping any whose key
+  // already exists (dedupe). Returns the number actually added.
+  _mergeArr(target, incoming, keyOf) {
+    if (!Array.isArray(target) || !Array.isArray(incoming)) return 0;
+    const seen = Object.create(null);
+    target.forEach(x => { const k = keyOf(x); if (k != null) seen[k] = true; });
+    let added = 0;
+    incoming.forEach(x => {
+      if (!x || typeof x !== 'object') return;
+      const k = keyOf(x);
+      if (k == null || seen[k]) return;
+      target.push(x); seen[k] = true; added++;
+    });
+    return added;
+  }
+
+  // Merge new units into QA_UNITS (in place, preserving the const binding),
+  // deduping by id and honouring an optional numeric `order` field as the
+  // desired index position. Existing units keep their relative order.
+  _mergeUnits(incoming) {
+    if (!Array.isArray(incoming)) return 0;
+    const existing = Object.create(null);
+    QA_UNITS.forEach(u => { if (u && u.id != null) existing[u.id] = true; });
+    const toAdd = [];
+    incoming.forEach(u => {
+      if (!u || typeof u !== 'object' || u.id == null || existing[u.id]) return;
+      existing[u.id] = true;
+      toAdd.push(u);
+    });
+    if (!toAdd.length) return 0;
+    // `pos` is the target index; `rank` breaks ties so a new unit with an
+    // explicit order lands AT that index (splice semantics), while new units
+    // without an order fall to the end. `seq` preserves file order otherwise.
+    const positioned = QA_UNITS.map((u, i) => ({ u, pos: i, rank: 1, seq: i }));
+    let seq = QA_UNITS.length;
+    toAdd.forEach(u => {
+      const hasOrder = (typeof u.order === 'number' && isFinite(u.order));
+      const pos = hasOrder ? u.order : Number.MAX_SAFE_INTEGER;
+      positioned.push({ u, pos, rank: hasOrder ? 0 : 1, seq: seq++ });
+    });
+    positioned.sort((a, b) =>
+      (a.pos !== b.pos) ? a.pos - b.pos
+        : (a.rank !== b.rank) ? a.rank - b.rank
+          : a.seq - b.seq);
+    const sorted = positioned.map(x => x.u);
+    QA_UNITS.length = 0;
+    Array.prototype.push.apply(QA_UNITS, sorted);
+    return toAdd.length;
   }
 
   /* ---------- ordered lessons (sorted by unit order, stable within unit) ---------- */

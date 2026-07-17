@@ -39,7 +39,8 @@ const APP_NAV_PRIMARY = [
   { id: 'mushaf', emoji: '📗', label: 'mushaf', tab: 'mushaf' },
   { id: 'anbiya', emoji: '🕋', label: 'group_prophets', children: [
       { tab: 'prophets', emoji: '📜', label: 'prophets_title' },
-      { tab: 'seerah',   emoji: '🌙', label: 'seerah_title' }
+      { tab: 'seerah',   emoji: '🌙', label: 'seerah_title' },
+      { tab: 'nuzul',    emoji: '🌅', label: 'nuzul_title' }
     ] },
   { id: 'whyislam', emoji: '💡', label: 'whyislam_title', tab: 'whyislam' },
   { id: 'resources', emoji: '🔗', label: 'resources_title', tab: 'resources' }
