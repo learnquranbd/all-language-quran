@@ -135,7 +135,7 @@ class TabSystem {
     const quranTabs = new Set([
       'reading', 'search', 'tafseer', 'wordbyword', 'grammar', 'tajweedreading',
       'mushaf', 'topics', 'wordrepeat', 'sarf', 'mutashabihat', 'nuzul',
-      'quiz', 'audio', 'khatmah', 'tajweedlearn', 'quranicarabic'
+      'quiz', 'audio', 'khatmah', 'tajweedlearn'
     ]);
     this.tabNav.classList.toggle('hidden', !quranTabs.has(tabId));
 

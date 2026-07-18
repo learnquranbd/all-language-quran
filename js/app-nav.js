@@ -33,10 +33,10 @@ const APP_NAV_PRIMARY = [
           { module: 'kids',        emoji: '🧒', label: 'learn_kids_title' },
           { module: 'vocab',       emoji: '📚', label: 'learn_vocab_title' },
           { module: 'handwriting', emoji: '✍️', label: 'hw_title' },
-          { tab: 'tajweedlearn', emoji: '🎨', label: 'tj_learn_title' },
-          { tab: 'quranicarabic', emoji: '🔤', label: 'qa_title' }
+          { tab: 'tajweedlearn', emoji: '🎨', label: 'tj_learn_title' }
         ] }
     ] },
+  { id: 'quranicarabic', emoji: '🔤', label: 'qa_title', tab: 'quranicarabic' },
   { id: 'names', emoji: '✨', label: 'learn_names_title', tab: 'names' },
   { id: 'amal', emoji: '📿', label: 'amal_title', tab: 'amal' },
   { id: 'namaz', emoji: '🕌', label: 'learn_salah_title', tab: 'namaz' },
@@ -90,6 +90,11 @@ class AppNav {
     this.popup.className = 'fixed z-[60] hidden rounded-xl bg-white dark:bg-gray-800 shadow-xl border border-gray-200 dark:border-gray-700 p-2 min-w-[200px] max-w-[280px]';
     document.body.appendChild(this.popup);
 
+    this.subPopup = document.createElement('div');
+    this.subPopup.id = 'app-nav-sub-popup';
+    this.subPopup.className = 'fixed z-[60] hidden rounded-xl bg-white dark:bg-gray-800 shadow-xl border border-gray-200 dark:border-gray-700 p-2 min-w-[200px] max-w-[280px]';
+    document.body.appendChild(this.subPopup);
+
     this.popup.addEventListener('click', (e) => {
       const btn = e.target.closest('[data-popup-child]');
       if (!btn) return;
@@ -101,13 +106,31 @@ class AppNav {
       if (this._popupHideTimer) { clearTimeout(this._popupHideTimer); this._popupHideTimer = null; }
     });
 
-    this.popup.addEventListener('mouseleave', () => {
+    this.popup.addEventListener('mouseleave', (e) => {
+      if (this.subPopup && !this.subPopup.classList.contains('hidden')) return;
+      if (e.relatedTarget && this.subPopup && (e.relatedTarget === this.subPopup || this.subPopup.contains(e.relatedTarget))) return;
+      this._popupHideTimer = setTimeout(() => this._hidePopup(), 150);
+    });
+
+    this.subPopup.addEventListener('click', (e) => {
+      const btn = e.target.closest('[data-sub-child]');
+      if (!btn) return;
+      this._handleSubPopupClick(btn);
+      this._hidePopup();
+    });
+
+    this.subPopup.addEventListener('mouseenter', () => {
+      if (this._popupHideTimer) { clearTimeout(this._popupHideTimer); this._popupHideTimer = null; }
+    });
+
+    this.subPopup.addEventListener('mouseleave', (e) => {
+      if (e.relatedTarget && this.popup && (e.relatedTarget === this.popup || this.popup.contains(e.relatedTarget))) return;
       this._popupHideTimer = setTimeout(() => this._hidePopup(), 150);
     });
 
     document.addEventListener('click', (e) => {
       if (this.popup && !this.popup.classList.contains('hidden') &&
-          !this.popup.contains(e.target) && !e.target.closest('[data-primary]')) {
+          !this.popup.contains(e.target) && !this.subPopup.contains(e.target) && !e.target.closest('[data-primary]')) {
         this._hidePopup();
       }
     });
@@ -137,6 +160,7 @@ class AppNav {
     if (!items.length) return;
 
     if (this._popupHideTimer) { clearTimeout(this._popupHideTimer); this._popupHideTimer = null; }
+    this._hideSubPopup();
 
     this.popup.innerHTML = items.map(it => {
       const hasSub = it.children || it.modes;
@@ -152,9 +176,51 @@ class AppNav {
     this.popup.style.left = (rect.right + 8) + 'px';
     this.popup.style.top = Math.max(rect.top, 80) + 'px';
     this.popup.classList.remove('hidden');
+
+    this.popup.querySelectorAll('[data-popup-kind="children"]').forEach(subBtn => {
+      const key = subBtn.getAttribute('data-popup-child');
+      const child = primary.children ? primary.children.find(c => c.id === key) : null;
+      if (!child || !(child.children || child.modes)) return;
+      subBtn.addEventListener('mouseenter', () => this._showSubPopup(subBtn, child));
+      subBtn.addEventListener('mouseleave', (ev) => {
+        if (ev.relatedTarget && this.subPopup && (ev.relatedTarget === this.subPopup || this.subPopup.contains(ev.relatedTarget))) return;
+        if (this.subPopup && !this.subPopup.classList.contains('hidden')) {
+          this._popupHideTimer = setTimeout(() => this._hideSubPopup(), 250);
+        }
+      });
+    });
+  }
+
+  _showSubPopup(triggerBtn, child) {
+    const subItems = child.children || child.modes || [];
+    if (!subItems.length) return;
+
+    if (this._popupHideTimer) { clearTimeout(this._popupHideTimer); this._popupHideTimer = null; }
+
+    this.subPopup.innerHTML = subItems.map(si => {
+      const key = si.mode || si.module || si.tab || '';
+      const kind = si.mode ? 'mode' : (si.module ? 'module' : 'tab');
+      return `<button data-sub-child="${key}" data-sub-kind="${kind}"
+        class="w-full flex items-center gap-3 px-3 py-2 rounded-lg text-sm font-medium text-left transition-colors text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 whitespace-nowrap">
+        <span class="text-lg leading-none">${si.emoji}</span>
+        <span class="flex-1">${this.tt(si.label)}</span>
+      </button>`;
+    }).join('');
+
+    const btnRect = triggerBtn.getBoundingClientRect();
+    this.subPopup.style.left = (btnRect.right + 4) + 'px';
+    this.subPopup.style.top = Math.max(btnRect.top, 80) + 'px';
+    this.subPopup.classList.remove('hidden');
+  }
+
+  _hideSubPopup() {
+    if (this.subPopup && !this.subPopup.classList.contains('hidden')) {
+      this.subPopup.classList.add('hidden');
+    }
   }
 
   _hidePopup() {
+    this._hideSubPopup();
     if (this.popup && !this.popup.classList.contains('hidden')) {
       this.popup.classList.add('hidden');
     }
@@ -173,6 +239,20 @@ class AppNav {
     if (kind === 'mode') this.openMemMode(key);
     else if (kind === 'tab') { this.switchTab(key); this.closeSidebarMobile(); }
     else this.openLearnModule(key);
+  }
+
+  _handleSubPopupClick(btn) {
+    const kind = btn.getAttribute('data-sub-kind');
+    const key = btn.getAttribute('data-sub-child');
+    if (kind === 'mode') this.openMemMode(key);
+    else if (kind === 'tab') { this.switchTab(key); this.closeSidebarMobile(); }
+    else this.openLearnModule(key);
+  }
+
+  _moduleTab(primary) {
+    if (primary.tab) return primary.tab;
+    const map = { quran: 'reading', anbiya: 'prophets' };
+    return map[primary.id] || (primary.id === 'memorize' ? 'memorize' : primary.id);
   }
 
   tt(key) { return t(key, this.language); }
@@ -273,9 +353,12 @@ class AppNav {
       <button data-nav-back class="w-full flex items-center gap-2 px-3 py-2 mb-2 rounded-lg text-sm font-semibold text-gray-200 hover:bg-white/10 hover:text-white">
         <span class="text-lg leading-none">←</span><span>${this.tt('back')}</span>
       </button>
-      <div class="flex items-center gap-2 px-3 mb-2 text-sm font-bold text-white">
-        <span>${primary.emoji}</span><span>${this.tt(primary.label)}</span>
-      </div>
+      <button data-nav-heading="${primary.id}"
+        class="w-full flex items-center gap-2 px-3 py-2 mb-2 rounded-lg text-sm font-bold text-white hover:bg-white/10 transition-colors text-left"
+        title="${this.tt('back')}">
+        <span>${primary.emoji}</span><span class="flex-1">${this.tt(primary.label)}</span>
+        <span class="text-xs text-gray-400">⌂</span>
+      </button>
       ${items.map(it => {
         const active = (it.kind === 'mode' && this.activeTab === 'memorize' && this.memMode === it.key);
         return `
@@ -289,6 +372,14 @@ class AppNav {
     this.root.querySelector('[data-nav-back]').addEventListener('click', () => {
       if (this._childParent) { this.renderChildren(this._childParent); }
       else { this.showPrimary(); }
+    });
+    const heading = this.root.querySelector('[data-nav-heading]');
+    if (heading) heading.addEventListener('click', () => {
+      this._hidePopup();
+      const tab = this._moduleTab(primary);
+      this.switchTab(tab);
+      this.closeSidebarMobile();
+      this.showPrimary();
     });
     this.root.querySelectorAll('[data-child]').forEach(btn => {
       btn.addEventListener('click', () => {
