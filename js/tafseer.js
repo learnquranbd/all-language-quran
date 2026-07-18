@@ -247,7 +247,7 @@ class TafseerView {
         font-weight: 600; margin: 1rem 0 0.5rem;
       }
       .tafseer-body blockquote {
-        border-inline-start: 3px solid rgba(30, 64, 175, 0.4);
+        border-inline-start: 3px solid color-mix(in srgb, var(--color-primary) 40%, transparent);
         padding-inline-start: 0.75rem; margin: 0.75rem 0; opacity: 0.9;
       }
       .tafseer-body ul, .tafseer-body ol { padding-inline-start: 1.5rem; margin: 0 0 0.75rem; }
@@ -259,7 +259,7 @@ class TafseerView {
       @media (min-width: 768px) { .tafseer-compare-grid { grid-template-columns: 1fr 1fr; } }
       /* Visible keyboard focus on the pane's controls */
       #tafseer-content button:focus-visible, #tafseer-content select:focus-visible {
-        outline: 2px solid #1e40af; outline-offset: 2px;
+        outline: 2px solid #6366f1; outline-offset: 2px;
       }
       .dark #tafseer-content button:focus-visible, .dark #tafseer-content select:focus-visible {
         outline-color: #60a5fa;
@@ -488,7 +488,7 @@ class TafseerView {
 
     if (this.ayahs.length === 0) {
       this.content.innerHTML = `
-        <p class="text-gray-500 dark:text-gray-400 text-center py-12">${t('load_ayah_first', lang)}</p>
+        <p class="text-gray-500 dark:text-gray-400 text-center py-12" data-lang-key="load_ayah_first">${t('load_ayah_first', lang)}</p>
       `;
       return;
     }

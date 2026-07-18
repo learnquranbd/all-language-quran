@@ -13,9 +13,9 @@ module.exports = {
         'urdu': ['Noto Nastaliq Urdu', 'Jameel Noori Nastaleeq', 'serif'],
       },
       colors: {
-        primary: '#1e40af',
-        secondary: '#059669',
-        accent: '#d97706',
+        primary: 'var(--color-primary)',
+        secondary: 'var(--color-secondary)',
+        accent: 'var(--color-accent)',
       }
     }
   },

@@ -37,9 +37,9 @@ const APP_NAV_PRIMARY = [
           { tab: 'quranicarabic', emoji: '🔤', label: 'qa_title' }
         ] }
     ] },
-  { id: 'names', emoji: '✨', label: 'learn_names_title', learnModule: 'names' },
+  { id: 'names', emoji: '✨', label: 'learn_names_title', tab: 'names' },
   { id: 'amal', emoji: '📿', label: 'amal_title', tab: 'amal' },
-  { id: 'salah', emoji: '🕌', label: 'learn_salah_title', learnModule: 'salah' },
+  { id: 'namaz', emoji: '🕌', label: 'learn_salah_title', tab: 'namaz' },
   { id: 'anbiya', emoji: '🕋', label: 'group_prophets', children: [
       { tab: 'prophets', emoji: '📜', label: 'prophets_title' },
       { tab: 'seerah',   emoji: '🌙', label: 'seerah_title' }
@@ -59,7 +59,9 @@ class AppNav {
     this.view = 'primary';        // 'primary' | 'learn' | 'memorize'
     this.activeTab = 'reading';
     this.memMode = 'speech';
+    this._popupHideTimer = null;
 
+    this._initPopup();
     this.render();
 
     // Back out of the legacy subject tree
@@ -82,11 +84,103 @@ class AppNav {
     });
   }
 
+  _initPopup() {
+    this.popup = document.createElement('div');
+    this.popup.id = 'app-nav-popup';
+    this.popup.className = 'fixed z-[60] hidden rounded-xl bg-white dark:bg-gray-800 shadow-xl border border-gray-200 dark:border-gray-700 p-2 min-w-[200px] max-w-[280px]';
+    document.body.appendChild(this.popup);
+
+    this.popup.addEventListener('click', (e) => {
+      const btn = e.target.closest('[data-popup-child]');
+      if (!btn) return;
+      this._handlePopupClick(btn);
+      this._hidePopup();
+    });
+
+    this.popup.addEventListener('mouseenter', () => {
+      if (this._popupHideTimer) { clearTimeout(this._popupHideTimer); this._popupHideTimer = null; }
+    });
+
+    this.popup.addEventListener('mouseleave', () => {
+      this._popupHideTimer = setTimeout(() => this._hidePopup(), 150);
+    });
+
+    document.addEventListener('click', (e) => {
+      if (this.popup && !this.popup.classList.contains('hidden') &&
+          !this.popup.contains(e.target) && !e.target.closest('[data-primary]')) {
+        this._hidePopup();
+      }
+    });
+
+    window.addEventListener('scroll', () => this._hidePopup(), { passive: true });
+  }
+
+  _popupItems(primary) {
+    if (primary.children) {
+      return primary.children.map(c => {
+        const hasSub = c.children || c.modes;
+        const kind = hasSub ? 'children' : (c.tab ? 'tab' : 'module');
+        return { ...c, key: hasSub ? c.id : (c.module || c.tab), kind, drill: c.drill || '' };
+      });
+    }
+    if (primary.modes) {
+      return primary.modes.map(m => ({ key: m.mode, kind: 'mode', emoji: m.emoji, label: m.label }));
+    }
+    return [];
+  }
+
+  _showPopup(btn, primary) {
+    if (window.innerWidth < 1024) return;
+    const sidebar = document.getElementById('sidebar');
+    if (sidebar && sidebar.classList.contains('lg:hidden')) return;
+    const items = this._popupItems(primary);
+    if (!items.length) return;
+
+    if (this._popupHideTimer) { clearTimeout(this._popupHideTimer); this._popupHideTimer = null; }
+
+    this.popup.innerHTML = items.map(it => {
+      const hasSub = it.children || it.modes;
+      return `<button data-popup-child="${it.key}" data-popup-kind="${it.kind}" data-popup-drill="${it.drill}"
+        class="w-full flex items-center gap-3 px-3 py-2 rounded-lg text-sm font-medium text-left transition-colors text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 whitespace-nowrap">
+        <span class="text-lg leading-none">${it.emoji}</span>
+        <span class="flex-1">${this.tt(it.label)}</span>
+        ${hasSub ? '<span class="text-gray-400">›</span>' : ''}
+      </button>`;
+    }).join('');
+
+    const rect = btn.getBoundingClientRect();
+    this.popup.style.left = (rect.right + 8) + 'px';
+    this.popup.style.top = Math.max(rect.top, 80) + 'px';
+    this.popup.classList.remove('hidden');
+  }
+
+  _hidePopup() {
+    if (this.popup && !this.popup.classList.contains('hidden')) {
+      this.popup.classList.add('hidden');
+    }
+  }
+
+  _handlePopupClick(btn) {
+    const drill = btn.getAttribute('data-popup-drill');
+    if (drill === 'legacy') { this.showLegacy(); this.closeSidebarMobile(); return; }
+    const kind = btn.getAttribute('data-popup-kind');
+    const key = btn.getAttribute('data-popup-child');
+    if (kind === 'children') {
+      const p = APP_NAV_PRIMARY.find(x => x.id === key);
+      if (p) { this.onPrimary(key); }
+      return;
+    }
+    if (kind === 'mode') this.openMemMode(key);
+    else if (kind === 'tab') { this.switchTab(key); this.closeSidebarMobile(); }
+    else this.openLearnModule(key);
+  }
+
   tt(key) { return t(key, this.language); }
 
   // ---- rendering ---------------------------------------------------------
 
   render() {
+    this._hidePopup();
     // A drilled-in children group (Learn, Nabi & Rasul, …) — tracked by id so any
     // number of groups work, not just a hardcoded one.
     if (this.view === 'children') {
@@ -112,14 +206,15 @@ class AppNav {
     this.root.classList.remove('hidden');
     const toolBtn = (tool, emoji, label) => `
       <button data-navtool="${tool}" title="${label}" aria-label="${label}"
-              class="flex-1 py-2 text-lg rounded-lg text-gray-200 bg-white/10 hover:bg-white/20 hover:text-white transition-colors">
+              class="w-full py-2 text-lg rounded-lg text-gray-200 bg-white/10 hover:bg-white/20 hover:text-white transition-colors">
         ${emoji}
       </button>`;
     this.root.innerHTML = `
-      <div id="app-nav-tools" class="flex items-center gap-2 mb-3">
-        ${toolBtn('keyboard', '⌨️', this.tt('arabic_keyboard'))}
-        ${toolBtn('waqf', '🛑', this.tt('waqf_signs'))}
+      <div id="app-nav-tools" class="grid grid-cols-2 sm:grid-cols-4 gap-1.5 mb-3">
         ${toolBtn('memorize', '🎯', this.tt('memorize'))}
+        ${toolBtn('seerah', '🌙', this.tt('seerah_title'))}
+        ${toolBtn('mutashabihat', '🪞', this.tt('mutashabihat_title'))}
+        ${toolBtn('quiz', '❓', this.tt('quiz_center_title'))}
       </div>
       <h3 class="text-xs uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 px-3 mb-2">${this.tt('nav_modules')}</h3>
       ${APP_NAV_PRIMARY.map(p => {
@@ -135,6 +230,16 @@ class AppNav {
     `;
     this.root.querySelectorAll('[data-primary]').forEach(btn => {
       btn.addEventListener('click', () => this.onPrimary(btn.getAttribute('data-primary')));
+      btn.addEventListener('mouseenter', () => {
+        if (this._popupHideTimer) { clearTimeout(this._popupHideTimer); this._popupHideTimer = null; }
+        const p = APP_NAV_PRIMARY.find(x => x.id === btn.getAttribute('data-primary'));
+        if (p && (p.children || p.modes)) this._showPopup(btn, p);
+      });
+      btn.addEventListener('mouseleave', () => {
+        if (this.popup && !this.popup.classList.contains('hidden') && !this.popup.matches(':hover')) {
+          this._popupHideTimer = setTimeout(() => this._hidePopup(), 200);
+        }
+      });
     });
     const toolsRow = this.root.querySelector('#app-nav-tools');
     if (toolsRow) toolsRow.addEventListener('click', (e) => {
@@ -143,10 +248,12 @@ class AppNav {
     });
   }
 
-  // Delegate the always-visible quick tools to the legacy sidebar-menu singleton
-  // (which owns the keyboard / waqf modals). Guard against init order: both are
-  // created on DOMContentLoaded, so the instance may not exist yet.
   runTool(name) {
+    if (name === 'seerah') { this.switchTab('seerah'); this.closeSidebarMobile(); return; }
+    if (name === 'memorize') { this.switchTab('memorize'); this.closeSidebarMobile(); return; }
+    if (name === 'mutashabihat') { this.switchTab('mutashabihat'); this.closeSidebarMobile(); return; }
+    if (name === 'quiz') { this.switchTab('quiz'); this.closeSidebarMobile(); return; }
+    // Legacy tools – delegate to sidebar-menu singleton
     if (typeof sidebarMenu !== 'undefined' && sidebarMenu && typeof sidebarMenu.runTool === 'function') {
       sidebarMenu.runTool(name);
     }
@@ -226,12 +333,14 @@ class AppNav {
   }
 
   showPrimary() {
+    this._hidePopup();
     this.view = 'primary';
     this.renderPrimary();
     this.highlightActive();
   }
 
   showLegacy() {
+    this._hidePopup();
     this.root.classList.add('hidden');
     if (this.legacyWrap) this.legacyWrap.classList.remove('hidden');
   }

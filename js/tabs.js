@@ -30,7 +30,9 @@ const TAB_META = {
   seerah:       { emoji: '🌙', key: 'seerah_title' },
   whyislam:     { emoji: '💡', key: 'whyislam_title' },
   prophets:     { emoji: '📜', key: 'prophets_title' },
-  nuzul:        { emoji: '🌅', key: 'nuzul_title' }
+  nuzul:        { emoji: '🌅', key: 'nuzul_title' },
+  namaz:        { emoji: '🕌', key: 'learn_salah_title' },
+  names:        { emoji: '✨', key: 'learn_names_title' }
 };
 
 class TabSystem {

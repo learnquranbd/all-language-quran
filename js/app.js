@@ -738,7 +738,7 @@ class QuranApp {
     // Nothing loaded yet → invite the user to load a selection first
     if (this.ayahData.length === 0) {
       container.innerHTML =
-        `<div class="text-center py-12"><p class="text-gray-500 dark:text-gray-400">${t('load_ayah_first', lang)}</p></div>`;
+        `<div class="text-center py-12"><p class="text-gray-500 dark:text-gray-400" data-lang-key="load_ayah_first">${t('load_ayah_first', lang)}</p></div>`;
       return;
     }
 

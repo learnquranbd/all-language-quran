@@ -847,7 +847,6 @@ class ProphetsView {
     if (!this.container) return;
     this.rendered = true;
     if (this.quizState) { this.renderQuiz(); this.bind(); return; }
-    if (this.selected) { this.renderDetail(); this.bind(); return; }
 
     const total = PROPHETS_DATA.length;
     const readCount = PROPHETS_DATA.filter(p => this.read.has(p.id)).length;
@@ -941,6 +940,7 @@ class ProphetsView {
       </div>`;
 
     this.renderList();
+    if (this.selected) this.renderDetailInline();
     this.bind();
   }
 
@@ -1066,7 +1066,8 @@ class ProphetsView {
                 <span class="text-gray-300 dark:text-gray-600 shrink-0" aria-hidden="true">›</span>
               </div>
             </button>
-          </li>`;
+          </li>
+          <div class="prophet-detail-${this.esc(p.id)} mx-6"></div>`;
         }).join('')}
       </ol>`;
   }
@@ -1077,6 +1078,7 @@ class ProphetsView {
         ${items.map(p => {
           const isRead = this.read.has(p.id);
           return `
+          <div class="contents">
           <button type="button" data-prophets-open="${this.esc(p.id)}"
             class="group text-left relative rounded-xl bg-white dark:bg-gray-800 border ${isRead ? 'border-green-300 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'} p-4 hover:border-primary hover:shadow-md transition-all overflow-hidden">
             <span class="absolute top-2 end-2 text-primary/15 group-hover:text-primary/30 transition-colors">${this.starAccent('w-8 h-8')}</span>
@@ -1085,7 +1087,9 @@ class ProphetsView {
             <div class="font-bold text-gray-800 dark:text-gray-100">${this.esc(p.translit)} ${isRead ? '<span class="text-green-500 text-xs align-middle">✓</span>' : ''}</div>
             <div class="text-xs text-gray-400 dark:text-gray-500 mb-2">${this.esc(this.lc(p))}</div>
             <div class="flex flex-wrap gap-1">${this.badges(p, true)}</div>
-          </button>`;
+          </button>
+          <div class="prophet-detail-${this.esc(p.id)} col-span-full"></div>
+          </div>`;
         }).join('')}
       </div>`;
   }
@@ -1506,10 +1510,12 @@ class ProphetsView {
       </div>`;
   }
 
-  renderDetail() {
+  renderDetailInline() {
     const p = PROPHETS_DATA.find(x => x.id === this.selected);
-    if (!p) { this.selected = null; this.render(); return; }
+    if (!p) return;
     const isRead = this.read.has(p.id);
+    const el = this.container ? this.container.querySelector('.prophet-detail-' + p.id) : null;
+    if (!el) return;
 
     const events = Array.isArray(p.events) ? p.events : [];
     const eventsHtml = events.length ? `
@@ -1555,63 +1561,62 @@ class ProphetsView {
         🌙 ${this.esc(this.tt('prophets_seerah_btn'))} <span aria-hidden="true">→</span>
       </button>` : '';
 
-    this.container.innerHTML = `
-      <div class="w-full max-w-2xl mx-auto pb-10">
-        <button type="button" data-prophets-back
-          class="inline-flex items-center gap-1.5 mb-4 text-sm text-gray-500 dark:text-gray-400 hover:text-primary transition-colors">
-          <span aria-hidden="true">←</span> ${this.esc(this.tt('prophets_back'))}
-        </button>
+    el.innerHTML = `
+      <div class="rounded-2xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-hidden mb-4">
+        <div class="relative p-5 bg-gradient-to-br from-primary/10 to-transparent">
+          <button type="button" data-prophets-close="${this.esc(p.id)}"
+            class="absolute top-3 end-3 inline-flex items-center justify-center w-8 h-8 rounded-full bg-white/80 dark:bg-gray-800/80 text-gray-500 hover:text-primary hover:bg-white dark:hover:bg-gray-700 shadow-sm transition-colors z-10" title="Close">
+            ✕
+          </button>
+          <span class="absolute top-12 end-3 text-primary/20">${this.starAccent('w-12 h-12')}</span>
+          <div class="flex items-center gap-2 mb-1">
+            <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-primary/15 text-primary text-xs font-bold" aria-hidden="true">${p.order}</span>
+            <span class="text-xs text-gray-400 dark:text-gray-500">#${p.order} ${this.esc(this.tt('prophets_of'))} ${PROPHETS_DATA.length}</span>
+          </div>
+          <div class="text-4xl font-arabic text-primary mb-1" dir="rtl" lang="ar">${this.esc(p.ar)}</div>
+          <h2 class="text-xl font-bold text-gray-800 dark:text-gray-100">${this.esc(p.translit)} <span class="text-gray-400 dark:text-gray-500 font-normal text-base">— ${this.esc(this.lc(p))}</span></h2>
+          <div class="flex flex-wrap gap-1.5 mt-2">${this.badges(p, false)}</div>
+        </div>
 
-        <div class="rounded-2xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-hidden">
-          <div class="relative p-5 bg-gradient-to-br from-primary/10 to-transparent">
-            <span class="absolute top-3 end-3 text-primary/20">${this.starAccent('w-12 h-12')}</span>
-            <div class="flex items-center gap-2 mb-1">
-              <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-primary/15 text-primary text-xs font-bold" aria-hidden="true">${p.order}</span>
-              <span class="text-xs text-gray-400 dark:text-gray-500">#${p.order} ${this.esc(this.tt('prophets_of'))} ${PROPHETS_DATA.length}</span>
+        <div class="p-5">
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 mb-4">
+            <div class="p-2.5 rounded-lg bg-gray-50 dark:bg-gray-900/40">
+              <div class="text-[0.65rem] uppercase tracking-wide text-gray-400 dark:text-gray-500 font-semibold">${this.esc(this.tt('prophets_label_nation'))}</div>
+              <div class="text-sm text-gray-700 dark:text-gray-200" dir="auto">${this.esc(this.loc(p, 'nation'))}</div>
             </div>
-            <div class="text-4xl font-arabic text-primary mb-1" dir="rtl" lang="ar">${this.esc(p.ar)}</div>
-            <h2 class="text-xl font-bold text-gray-800 dark:text-gray-100">${this.esc(p.translit)} <span class="text-gray-400 dark:text-gray-500 font-normal text-base">— ${this.esc(this.lc(p))}</span></h2>
-            <div class="flex flex-wrap gap-1.5 mt-2">${this.badges(p, false)}</div>
+            <div class="p-2.5 rounded-lg bg-gray-50 dark:bg-gray-900/40">
+              <div class="text-[0.65rem] uppercase tracking-wide text-gray-400 dark:text-gray-500 font-semibold">${this.esc(this.tt('prophets_label_era'))}</div>
+              <div class="text-sm text-gray-700 dark:text-gray-200" dir="auto">${this.esc(this.loc(p, 'era'))}</div>
+            </div>
           </div>
 
-          <div class="p-5">
-            <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 mb-4">
-              <div class="p-2.5 rounded-lg bg-gray-50 dark:bg-gray-900/40">
-                <div class="text-[0.65rem] uppercase tracking-wide text-gray-400 dark:text-gray-500 font-semibold">${this.esc(this.tt('prophets_label_nation'))}</div>
-                <div class="text-sm text-gray-700 dark:text-gray-200" dir="auto">${this.esc(this.loc(p, 'nation'))}</div>
-              </div>
-              <div class="p-2.5 rounded-lg bg-gray-50 dark:bg-gray-900/40">
-                <div class="text-[0.65rem] uppercase tracking-wide text-gray-400 dark:text-gray-500 font-semibold">${this.esc(this.tt('prophets_label_era'))}</div>
-                <div class="text-sm text-gray-700 dark:text-gray-200" dir="auto">${this.esc(this.loc(p, 'era'))}</div>
-              </div>
-            </div>
-
-            <div class="mb-4">
-              <h3 class="text-sm font-bold text-gray-700 dark:text-gray-200 mb-2 flex items-center gap-1.5">✦ ${this.esc(this.tt('prophets_label_story'))}</h3>
-              <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.loc(p, 'summary'))}</p>
-            </div>
-
-            ${spotlightHtml}
-            ${eventsHtml}
-            ${signHtml}
-            ${refsHtml}
-            ${this.whereHtml(p)}
-
-            <div class="mb-4 p-3 rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-900/40">
-              <div class="text-xs font-bold text-amber-700 dark:text-amber-300 mb-1">💡 ${this.esc(this.tt('prophets_label_lesson'))}</div>
-              <p class="text-sm text-amber-800 dark:text-amber-200 leading-relaxed" dir="auto">${this.esc(this.loc(p, 'lesson'))}</p>
-            </div>
-
-            ${seerahBtn}
-
-            <button type="button" data-prophets-read="${this.esc(p.id)}"
-              class="w-full sm:w-auto text-sm px-4 py-2.5 rounded-xl font-medium transition-colors
-                     ${isRead ? 'bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300' : 'bg-primary text-white hover:opacity-90'}">
-              ${isRead ? '✓ ' + this.esc(this.tt('prophets_marked_read')) : this.esc(this.tt('prophets_mark_read'))}
-            </button>
+          <div class="mb-4">
+            <h3 class="text-sm font-bold text-gray-700 dark:text-gray-200 mb-2 flex items-center gap-1.5">✦ ${this.esc(this.tt('prophets_label_story'))}</h3>
+            <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.loc(p, 'summary'))}</p>
           </div>
+
+          ${spotlightHtml}
+          ${eventsHtml}
+          ${signHtml}
+          ${refsHtml}
+          ${this.whereHtml(p)}
+
+          <div class="mb-4 p-3 rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-900/40">
+            <div class="text-xs font-bold text-amber-700 dark:text-amber-300 mb-1">💡 ${this.esc(this.tt('prophets_label_lesson'))}</div>
+            <p class="text-sm text-amber-800 dark:text-amber-200 leading-relaxed" dir="auto">${this.esc(this.loc(p, 'lesson'))}</p>
+          </div>
+
+          ${seerahBtn}
+
+          <button type="button" data-prophets-read="${this.esc(p.id)}"
+            class="w-full sm:w-auto text-sm px-4 py-2.5 rounded-xl font-medium transition-colors
+                   ${isRead ? 'bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300' : 'bg-primary text-white hover:opacity-90'}">
+            ${isRead ? '✓ ' + this.esc(this.tt('prophets_marked_read')) : this.esc(this.tt('prophets_mark_read'))}
+          </button>
         </div>
       </div>`;
+
+    try { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); } catch (_) { /* ignore */ }
   }
 
   // ── events ───────────────────────────────────────────────────────────
@@ -1622,10 +1627,17 @@ class ProphetsView {
     this.container.addEventListener('click', (e) => {
       try {
         const back = e.target.closest('[data-prophets-back]');
-        if (back) { this.selected = null; this.render(); return; }
+        if (back) {
+          this.selected = null;
+          try { this.container.querySelector('[data-prophets-list]')?.scrollIntoView({ behavior: 'smooth', block: 'start' }); } catch (_) {}
+          return;
+        }
+
+        const close = e.target.closest('[data-prophets-close]');
+        if (close) { this.selected = null; this.render(); return; }
 
         const open = e.target.closest('[data-prophets-open]');
-        if (open) { this.selected = open.getAttribute('data-prophets-open'); this.render(); this.scrollTop(); return; }
+        if (open) { this.selected = open.getAttribute('data-prophets-open'); this.render(); return; }
 
         const viewBtn = e.target.closest('[data-prophets-view]');
         if (viewBtn) { this.view = viewBtn.getAttribute('data-prophets-view'); this.render(); return; }
@@ -1694,7 +1706,7 @@ class ProphetsView {
   toggleRead(id) {
     if (this.read.has(id)) this.read.delete(id); else this.read.add(id);
     this.saveRead();
-    if (this.selected === id) { this.renderDetail(); }
+    if (this.selected === id) { this.renderDetailInline(); }
     else { this.renderList(); this.updateProgress(); }
   }
 

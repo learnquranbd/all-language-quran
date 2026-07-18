@@ -12,7 +12,7 @@ class MemorizeChecker {
     if (!this.container) return;
 
     this.ayahs = [];
-    this.language = 'en';
+    this.language = (typeof appSettings !== 'undefined' && appSettings) ? (appSettings.get('language') || 'en') : 'en';
     this.words = [];          // flat list: {ayahKey, position, arabic, norm, meaning, translit, audio, el}
     this.listening = false;
     this.typing = false;      // keyboard-only fallback active
@@ -187,7 +187,7 @@ class MemorizeChecker {
       this.container.innerHTML = `
         <div class="text-center py-12">
           <div class="text-5xl mb-4">🎙️</div>
-          <p class="text-gray-500 dark:text-gray-400">${t('load_ayah_first', lang)}</p>
+          <p class="text-gray-500 dark:text-gray-400" data-lang-key="load_ayah_first">${t('load_ayah_first', lang)}</p>
         </div>
       `;
       return;

@@ -1122,6 +1122,41 @@ const QA_LESSONS = [
       explain: { en: 'The lām of purpose gives "in order to…" and makes the verb subjunctive (naṣb).', bn: 'উদ্দেশ্যের লাম "যাতে…" অর্থ দেয় এবং ক্রিয়াকে নসব-রূপ করে।' },
     },
   },
+  {
+    id: 'word-roots', unit: 'advanced', icon: '🌳',
+    title: { en: 'Word roots: the genius of the Arabic lexicon', bn: 'শব্দমূল: আরবি অভিধানের মেধা' },
+    concept: {
+      en: 'Almost every Arabic word grows from a <b>root</b> of (usually) three consonants. Roots carry a core meaning; patterns add tense, voice, agency and part of speech. Knowing the root lets you guess the meaning of an unfamiliar word. Example: <b>ك-ت-ب</b> (k-t-b) = "write" → كَتَبَ (he wrote), كِتَاب (book), كَاتِب (writer), مَكْتَب (desk/office).',
+      bn: 'প্রায় প্রতিটি আরবি শব্দ (সাধারণত) <b>তিনটি ব্যঞ্জনের মূল</b> থেকে জন্মে। মূল একটি কেন্দ্রীয় অর্থ বহন করে; প্যাটার্ন কাল, বাচ্য, কর্তৃত্ব ও পদজাতি যোগ করে। মূল জানলে অপরিচিত শব্দের অর্থ অনুমান করা যায়। যেমন: <b>ك-ت-ب</b> = "লেখা" → كَتَبَ (সে লিখল), كِتَاب (বই), كَاتِب (লেখক), مَكْتَب (ডেস্ক/অফিস)।',
+    },
+    examples: [
+      { ref: '96:1', trans: { en: 'Read! In the name of your Lord who created.', bn: 'পড়ো! তোমার রবের নামে যিনি সৃষ্টি করেছেন।' },
+        note: { en: 'ٱقْرَأْ comes from root <b>ق-ر-أ</b> (q-r-) = "to read/recite". Same root as Qur\'an.', bn: 'ٱقْرَأْ মূল <b>ق-ر-أ</b> থেকে — "পড়া/তিলাওয়াত করা"। একই মূল থেকে قُرْآن (কুরআন)।' },
+        words: [
+          { ar: 'ٱقْرَأْ', en: 'Read! (impv)', bn: 'পড়ো!', hl: true },
+          { ar: 'بِٱسْمِ', en: 'in (the) name of', bn: 'নামে' },
+          { ar: 'رَبِّكَ', en: 'your Lord', bn: 'তোমার রবের' },
+          { ar: 'ٱلَّذِى', en: 'who', bn: 'যিনি' },
+          { ar: 'خَلَقَ', en: 'created', bn: 'সৃষ্টি করেছেন', role: { en: 'root خ-ل-ق = create', bn: 'মূল خ-ل-ق = সৃষ্টি' } },
+        ] },
+      { ref: '1:2', trans: { en: 'All praise is for Allah, Lord of all worlds.', bn: 'সমস্ত প্রশংসা আল্লাহর জন্য, বিশ্বজগতের রব।' },
+        note: { en: 'رَبّ comes from root <b>ر-ب-ب</b> (r-b-b) = "to nurture, to be lord/master". Also active participle: "nurturer/sustainer".', bn: 'رَبّ মূল <b>ر-ب-ب</b> থেকে — "লালন করা/প্রভু হওয়া"। মুখ্য কর্তা: "পালনকর্তা/প্রভু"।' },
+        words: [
+          { ar: 'رَبِّ', en: 'Lord of', bn: 'রব', hl: true },
+          { ar: 'ٱلْعَٰلَمِينَ', en: 'the worlds', bn: 'বিশ্বজগতের', role: { en: 'root ع-ل-م = know/sign → world', bn: 'مূল ع-ل-م = জানা/চিহ্ন → বিশ্ব' } },
+        ] },
+      { ref: '103:1', trans: { en: 'By the declining day!', bn: 'শপথ সময়ের!' },
+        note: { en: 'وَٱلْعَصْرِ — root <b>ع-ص-ر</b> (ʿ-ṣ-r) = "to squeeze/press" → "time" (as something that presses upon us).', bn: 'وَٱلْعَصْرِ — মূল <b>ع-ص-ر</b> = "চাপ দেওয়া" → "সময়" (যা আমাদের উপর চাপ দেয়)।' },
+        words: [
+          { ar: 'وَٱلْعَصْرِ', en: 'By the time', bn: 'শপথ সময়ের', hl: true, role: { en: 'root ع-ص-ر = squeeze → age', bn: 'مূল ع-ص-ر = চাপ দেওয়া → যুগ' } },
+        ] },
+    ],
+    practice: {
+      q: { en: 'كِتَاب ("book") and كَاتِب ("writer") share which root?', bn: 'كِتَاب ("বই") ও كَاتِب ("লেখক") কোন মূল ভাগাভাগি করে?' },
+      options: [{ en: 'ك-ت-ب', bn: 'ك-ت-ب' }, { en: 'ك-ب-ت', bn: 'ك-ب-ت' }, { en: 'ب-ت-ك', bn: 'ب-ت-ك' }], answer: 0,
+      explain: { en: 'Both come from ك-ت-ب (k-t-b) = "to write". كِتَاب = "book", كَاتِب = "writer".', bn: 'উভয়ই ك-ت-ب (k-t-b) = "লেখা" থেকে। كِتَاب = "বই", كَاتِب = "লেখক"।' },
+    },
+  },
 
   /* ===================== FREQUENCY VOCABULARY ===================== */
   {
@@ -1372,6 +1407,195 @@ const QA_LESSONS = [
       explain: { en: 'إِلَّا ("except") is the particle of exception; it excludes the believers from the loss just mentioned.', bn: 'إِلَّا ("ছাড়া") ব্যতিক্রমের অব্যয়; এটি মাত্র উল্লেখিত ক্ষতি থেকে মুমিনদের বাদ দেয়।' },
     },
   },
+  {
+    id: 'read-nas', unit: 'reading', icon: '🛡️',
+    title: { en: 'Reading 114:1–6 — An-Nas (Mankind)', bn: '১১৪:১–৬ পড়া — সূরা নাস (মানবজাতি)' },
+    concept: {
+      en: 'The final surah of the Quran, seeking refuge in the Lord of mankind from the whisperer. It features three titles of Allah (رَبّ, مَلِك, إِلٰه) in iḍāfah with ٱلنَّاسِ, a relative clause with ٱلَّذِى, and a present-tense verb يُوَسْوِسُ describing the ongoing action of the whisperer.',
+      bn: 'কুরআনের শেষ সূরাটি, যাতে মানবজাতির রবের কাছে আশ্রয় চাওয়া হয়েছে কুমন্ত্রণাদাতার থেকে। এতে ٱلنَّاسِ-এর সাথে ইদাফায় আল্লাহর তিনটি গুণবাচক নাম (رَبّ, مَلِك, إِلٰه) রয়েছে, ٱلَّذِى দিয়ে একটি সম্বন্ধ-বাক্য, এবং কুমন্ত্রণাদাতার চলমান কর্ম বর্ণনায় একটি বর্তমান ক্রিয়া يُوَسْوِسُ।',
+    },
+    examples: [
+      { ref: '114:1', trans: { en: 'Say, "I seek refuge in the Lord of mankind."', bn: 'বলুন, "আশ্রয় চাই মানবজাতির রবের কাছে।"' },
+        note: { en: 'قُلْ is a command (amr). أَعُوذُ is a present (muḍāriʿ) verb in rafʿ. بِرَبِّ = preposition بِ + رَبّ (jarr). ٱلنَّاسِ is the muḍāf ilayh in jarr.', bn: 'قُلْ একটি আদেশ (আমর)। أَعُوذُ বর্তমান (মুযারি) ক্রিয়া রফ‘-এ। بِرَبِّ = অব্যয় بِ + رَبّ (জর)। ٱلنَّاسِ মুদাফ ইলাইহি জর-এ।' },
+        words: [
+          { ar: 'قُلْ', en: 'Say', bn: 'বলুন', role: { en: 'command verb (amr)', bn: 'আদেশ ক্রিয়া (আমর)' } },
+          { ar: 'أَعُوذُ', en: 'I seek refuge', bn: 'আশ্রয় চাই', hl: true, role: { en: 'present verb (muḍāriʿ, rafʿ)', bn: 'বর্তমান ক্রিয়া (মুযারি, রফ‘)' } },
+          { ar: 'بِرَبِّ', en: 'in (the) Lord', bn: 'রবের কাছে', role: { en: 'preposition + noun (jarr)', bn: 'অব্যয় + বিশেষ্য (জর)' } },
+          { ar: 'ٱلنَّاسِ', en: 'of mankind', bn: 'মানবজাতির', role: { en: 'muḍāf ilayh (jarr)', bn: 'মুদাফ ইলাইহি (জর)' } },
+        ] },
+      { ref: '114:2', trans: { en: 'The King of mankind.', bn: 'মানবজাতির বাদশাহ।' },
+        note: { en: 'مَلِكِ is a second attribute (ṣifa) following رَبِّ in jarr. ٱلنَّاسِ is again muḍāf ilayh.', bn: 'مَلِكِ দ্বিতীয় গুণবাচক নাম (সিফা) যা رَبِّ-এর অনুসরণ করে জর-এ। ٱلنَّاسِ আবার মুদাফ ইলাইহি।' },
+        words: [
+          { ar: 'مَلِكِ', en: 'King', bn: 'বাদশাহ', hl: true, role: { en: 'adjective/attribute (ṣifa, jarr)', bn: 'বিশেষণ/গুণবাচক (সিফা, জর)' } },
+          { ar: 'ٱلنَّاسِ', en: 'of mankind', bn: 'মানবজাতির', role: { en: 'muḍāf ilayh (jarr)', bn: 'মুদাফ ইলাইহি (জর)' } },
+        ] },
+      { ref: '114:3', trans: { en: 'The God of mankind.', bn: 'মানবজাতির উপাস্য।' },
+        note: { en: 'إِلَٰهُ is the third attribute, still in jarr, continuing the iḍāfah chain with ٱلنَّاسِ.', bn: 'إِلَٰهُ তৃতীয় গুণবাচক নাম, এখনও জর-এ, ٱلنَّاسِ-এর সাথে ইদাফা শৃঙ্খল চালিয়ে যাচ্ছে।' },
+        words: [
+          { ar: 'إِلَٰهُ', en: 'God', bn: 'উপাস্য', role: { en: 'adjective/attribute (ṣifa, jarr)', bn: 'বিশেষণ/গুণবাচক (সিফা, জর)' } },
+          { ar: 'ٱلنَّاسِ', en: 'of mankind', bn: 'মানবজাতির', role: { en: 'muḍāf ilayh (jarr)', bn: 'মুদাফ ইলাইহি (জর)' } },
+        ] },
+      { ref: '114:4', trans: { en: 'From the evil of the retreating whisperer.', bn: 'পশ্চাৎপসরণকারী কুমন্ত্রণাদাতার অনিষ্ট থেকে।' },
+        note: { en: 'مِن شَرِّ — from + evil, a muḍāf in jarr. Then ٱلْوَسْوَاسِ is the muḍāf ilayh, followed by ٱلْخَنَّاسِ — another ṣifa describing the whisperer.', bn: 'مِن شَرِّ — থেকে + অনিষ্ট, একটি মুদাফ জর-এ। তারপর ٱلْوَسْوَاسِ মুদাফ ইলাইহি, তারপর ٱلْخَنَّاسِ — কুমন্ত্রণাদাতার আরেকটি সিফা।' },
+        words: [
+          { ar: 'مِن', en: 'from', bn: 'থেকে', role: { en: 'preposition (ḥarf jarr)', bn: 'অব্যয় (হারফ জর)' } },
+          { ar: 'شَرِّ', en: 'evil', bn: 'অনিষ্ট', role: { en: 'noun (muḍāf, jarr)', bn: 'বিশেষ্য (মুদাফ, জর)' } },
+          { ar: 'ٱلْوَسْوَاسِ', en: 'the whisperer', bn: 'কুমন্ত্রণাদাতা', hl: true, role: { en: 'muḍāf ilayh (jarr)', bn: 'মুদাফ ইলাইহি (জর)' } },
+          { ar: 'ٱلْخَنَّاسِ', en: 'the retreating one', bn: 'পশ্চাৎপসরণকারী', role: { en: 'adjective (ṣifa, jarr)', bn: 'বিশেষণ (সিফা, জর)' } },
+        ] },
+      { ref: '114:5', trans: { en: 'Who whispers in the hearts of mankind.', bn: 'যে কুমন্ত্রণা দেয় মানুষের অন্তরে।' },
+        note: { en: 'ٱلَّذِى — a relative pronoun. يُوَسْوِسُ — a present verb (muḍāriʿ) in rafʿ. فِى صُدُورِ — preposition + noun (jarr). ٱلنَّاسِ — muḍāf ilayh.', bn: 'ٱلَّذِى — সম্বন্ধবাচক সর্বনাম। يُوَسْوِسُ — বর্তমান ক্রিয়া (মুযারি) রফ‘-এ। فِى صُدُورِ — অব্যয় + বিশেষ্য (জর)। ٱلنَّاسِ — মুদাফ ইলাইহি।' },
+        words: [
+          { ar: 'ٱلَّذِى', en: 'who', bn: 'যে', role: { en: 'relative pronoun', bn: 'সম্বন্ধবাচক সর্বনাম' } },
+          { ar: 'يُوَسْوِسُ', en: 'whispers', bn: 'কুমন্ত্রণা দেয়', hl: true, role: { en: 'present verb (muḍāriʿ, rafʿ)', bn: 'বর্তমান ক্রিয়া (মুযারি, রফ‘)' } },
+          { ar: 'فِى', en: 'in', bn: 'মধ্যে', role: { en: 'preposition (ḥarf jarr)', bn: 'অব্যয় (হারফ জর)' } },
+          { ar: 'صُدُورِ', en: 'the hearts', bn: 'অন্তর', role: { en: 'noun (jarr)', bn: 'বিশেষ্য (জর)' } },
+          { ar: 'ٱلنَّاسِ', en: 'of mankind', bn: 'মানবজাতির', role: { en: 'muḍāf ilayh (jarr)', bn: 'মুদাফ ইলাইহি (জর)' } },
+        ] },
+      { ref: '114:6', trans: { en: 'From among the jinn and mankind.', bn: 'জিন ও মানুষের মধ্য থেকে।' },
+        note: { en: 'مِنَ — another occurrence of "from". ٱلْجِنَّةِ and ٱلنَّاسِ — both in jarr after مِنَ, joined by وَ.', bn: 'مِنَ — "থেকে"-র আরেকটি ব্যবহার। ٱلْجِنَّةِ ও ٱلنَّاسِ — উভয়েই مِنَ-এর পর জর-এ, وَ দিয়ে যুক্ত।' },
+        words: [
+          { ar: 'مِنَ', en: 'from', bn: 'থেকে', role: { en: 'preposition (ḥarf jarr)', bn: 'অব্যয় (হারফ জর)' } },
+          { ar: 'ٱلْجِنَّةِ', en: 'the jinn', bn: 'জিন', role: { en: 'noun (jarr)', bn: 'বিশেষ্য (জর)' } },
+          { ar: 'وَٱلنَّاسِ', en: 'and mankind', bn: 'ও মানুষ', role: { en: 'and + noun (jarr)', bn: 'ও + বিশেষ্য (জর)' } },
+        ] },
+    ],
+    practice: {
+      q: { en: 'In 114:1, what type of verb is أَعُوذُ?', bn: '১১৪:১-এ أَعُوذُ কোন ধরনের ক্রিয়া?' },
+      options: [{ en: 'Past (māḍī)', bn: 'অতীত (মাদি)' }, { en: 'Present (muḍāriʿ)', bn: 'বর্তমান (মুযারি)' }, { en: 'Command (amr)', bn: 'আদেশ (আমর)' }], answer: 1,
+      explain: { en: 'أَعُوذُ is a present-tense verb (muḍāriʿ) in rafʿ — "I seek refuge."', bn: 'أَعُوذُ একটি বর্তমানকালের ক্রিয়া (মুযারি) রফ‘-এ — "আমি আশ্রয় চাই।"' },
+    },
+  },
+  {
+    id: 'read-falaq', unit: 'reading', icon: '🌄',
+    title: { en: 'Reading 113:1–5 — Al-Falaq (The Daybreak)', bn: '১১৩:১–৫ পড়া — সূরা ফালাক (প্রভাত)' },
+    concept: {
+      en: 'A surah of seeking refuge from four specific evils. It uses the command قُلْ, the present verb أَعُوذُ, prepositions (بِ, مِن), a relative clause, the comparative شَرّ in iḍāfah, and ḥāl-like descriptive phrases in jarr.',
+      bn: 'চারটি নির্দিষ্ট অনিষ্ট থেকে আশ্রয় চাওয়ার সূরা। এতে আদেশ قُلْ, বর্তমান ক্রিয়া أَعُوذُ, অব্যয় (بِ, مِن), সম্বন্ধ-বাক্য, ইদাফায় তুলনামূলক شَرّ, এবং জর-এ হাল-সদৃশ বর্ণনামূলক বাক্যাংশ রয়েছে।',
+    },
+    examples: [
+      { ref: '113:1', trans: { en: 'Say, "I seek refuge in the Lord of the daybreak."', bn: 'বলুন, "আশ্রয় চাই প্রভাতের রবের কাছে।"' },
+        note: { en: 'قُلْ amr, أَعُوذُ muḍāriʿ. بِرَبِّ = preposition + noun (jarr). ٱلْفَلَقِ = muḍāf ilayh (jarr).', bn: 'قُلْ আমর, أَعُوذُ মুযারি। بِرَبِّ = অব্যয় + বিশেষ্য (জর)। ٱلْفَلَقِ = মুদাফ ইলাইহি (জর)।' },
+        words: [
+          { ar: 'قُلْ', en: 'Say', bn: 'বলুন', role: { en: 'command (amr)', bn: 'আদেশ (আমর)' } },
+          { ar: 'أَعُوذُ', en: 'I seek refuge', bn: 'আশ্রয় চাই', role: { en: 'present verb (muḍāriʿ, rafʿ)', bn: 'বর্তমান ক্রিয়া (মুযারি, রফ‘)' } },
+          { ar: 'بِرَبِّ', en: 'in (the) Lord', bn: 'রবের কাছে', role: { en: 'preposition + noun (jarr)', bn: 'অব্যয় + বিশেষ্য (জর)' } },
+          { ar: 'ٱلْفَلَقِ', en: 'the daybreak', bn: 'প্রভাত', hl: true, role: { en: 'muḍāf ilayh (jarr)', bn: 'মুদাফ ইলাইহি (জর)' } },
+        ] },
+      { ref: '113:2', trans: { en: 'From the evil of what He created.', bn: 'তিনি যা সৃষ্টি করেছেন তার অনিষ্ট থেকে।' },
+        note: { en: 'مِن شَرِّ — from + evil (muḍāf, jarr). Then مَا is a relative pronoun — "what He created". خَلَقَ is a past verb.', bn: 'مِن شَرِّ — থেকে + অনিষ্ট (মুদাফ, জর)। তারপর مَا একটি সম্বন্ধবাচক সর্বনাম — "তিনি যা সৃষ্টি করেছেন"। خَلَقَ একটি অতীত ক্রিয়া।' },
+        words: [
+          { ar: 'مِن', en: 'from', bn: 'থেকে', role: { en: 'preposition (ḥarf jarr)', bn: 'অব্যয় (হারফ জর)' } },
+          { ar: 'شَرِّ', en: 'evil', bn: 'অনিষ্ট', hl: true, role: { en: 'noun (muḍāf, jarr)', bn: 'বিশেষ্য (মুদাফ, জর)' } },
+          { ar: 'مَا', en: 'what', bn: 'যা', role: { en: 'relative pronoun', bn: 'সম্বন্ধবাচক সর্বনাম' } },
+          { ar: 'خَلَقَ', en: 'He created', bn: 'সৃষ্টি করেছেন', role: { en: 'past verb (māḍī)', bn: 'অতীত ক্রিয়া (মাদি)' } },
+        ] },
+      { ref: '113:3', trans: { en: 'And from the evil of the darkness when it settles.', bn: 'এবং অন্ধকারের অনিষ্ট থেকে যখন তা গভীর হয়।' },
+        note: { en: 'غَاسِقٍ is an active participle (ism al-fāʿil) in jarr after مِن — describing the darkness that "intrudes". إِذَا وَقَبَ = "when it enters" — a temporal clause.', bn: 'غَاسِقٍ একটি ক্রিয়াবাচক বিশেষ্য (ইসমুল ফায়িল) যা مِن-এর পর জর-এ — অন্ধকারকে বর্ণনা করে যা "প্রবেশ করে"। إِذَا وَقَبَ = "যখন তা প্রবেশ করে" — একটি সময়বাচক বাক্যাংশ।' },
+        words: [
+          { ar: 'وَمِن', en: 'and from', bn: 'এবং থেকে', role: { en: 'and + preposition', bn: 'ও + অব্যয়' } },
+          { ar: 'شَرِّ', en: 'evil', bn: 'অনিষ্ট', role: { en: 'noun (muḍāf, jarr)', bn: 'বিশেষ্য (মুদাফ, জর)' } },
+          { ar: 'غَاسِقٍ', en: 'the darkness', bn: 'অন্ধকার', hl: true, role: { en: 'active participle (ism al-fāʿil, jarr)', bn: 'ক্রিয়াবাচক বিশেষ্য (ইসমুল ফায়িল, জর)' } },
+          { ar: 'إِذَا', en: 'when', bn: 'যখন', role: { en: 'temporal adverb', bn: 'সময়বাচক ক্রিয়াবিশেষণ' } },
+          { ar: 'وَقَبَ', en: 'it settles/enters', bn: 'গভীর হয়/প্রবেশ করে', role: { en: 'past verb (māḍī)', bn: 'অতীত ক্রিয়া (মাদি)' } },
+        ] },
+      { ref: '113:4', trans: { en: 'And from the evil of those who blow on knots.', bn: 'এবং গ্রন্থিতে ফুঁৎকার দেওয়িনীদের অনিষ্ট থেকে।' },
+        note: { en: 'شَرِّ again in the iḍāfah chain. ٱلنَّفَّٰثَٰتِ is an intensive active participle ("those who blow repeatedly") in jarr, followed by فِى ٱلْعُقَدِ = preposition + noun (jarr).', bn: 'شَرِّ আবার ইদাফা শৃঙ্খলে। ٱلنَّفَّٰثَٰتِ একটি তীব্রতাবাচক ক্রিয়াবাচক বিশেষ্য ("যারা বারবার ফুঁ দেয়") জর-এ, তারপর فِى ٱلْعُقَدِ = অব্যয় + বিশেষ্য (জর)।' },
+        words: [
+          { ar: 'وَمِن', en: 'and from', bn: 'এবং থেকে', role: { en: 'and + preposition', bn: 'ও + অব্যয়' } },
+          { ar: 'شَرِّ', en: 'evil', bn: 'অনিষ্ট', role: { en: 'noun (muḍāf, jarr)', bn: 'বিশেষ্য (মুদাফ, জর)' } },
+          { ar: 'ٱلنَّفَّٰثَٰتِ', en: 'those who blow', bn: 'ফুঁৎকারদাত্রী', hl: true, role: { en: 'intensive active participle (jarr)', bn: 'তীব্রতাবাচক ক্রিয়াবাচক বিশেষ্য (জর)' } },
+          { ar: 'فِى', en: 'on', bn: 'মধ্যে', role: { en: 'preposition (ḥarf jarr)', bn: 'অব্যয় (হারফ জর)' } },
+          { ar: 'ٱلْعُقَدِ', en: 'knots', bn: 'গ্রন্থি', role: { en: 'noun (jarr)', bn: 'বিশেষ্য (জর)' } },
+        ] },
+      { ref: '113:5', trans: { en: 'And from the evil of an envier when he envies.', bn: 'এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে।' },
+        note: { en: 'حَاسِدٍ — an active participle in jarr. إِذَا حَسَدَ = "when he envies" — the same إِذَا temporal clause structure as verse 3.', bn: 'حَاسِدٍ — একটি ক্রিয়াবাচক বিশেষ্য জর-এ। إِذَا حَسَدَ = "যখন সে হিংসা করে" — আয়াত ৩-এর মতো একই إِذَا সময়বাচক বাক্য গঠন।' },
+        words: [
+          { ar: 'وَمِن', en: 'and from', bn: 'এবং থেকে', role: { en: 'and + preposition', bn: 'ও + অব্যয়' } },
+          { ar: 'شَرِّ', en: 'evil', bn: 'অনিষ্ট', role: { en: 'noun (muḍāf, jarr)', bn: 'বিশেষ্য (মুদাফ, জর)' } },
+          { ar: 'حَاسِدٍ', en: 'an envier', bn: 'হিংসুক', hl: true, role: { en: 'active participle (ism al-fāʿil, jarr)', bn: 'ক্রিয়াবাচক বিশেষ্য (ইসমুল ফায়িল, জর)' } },
+          { ar: 'إِذَا', en: 'when', bn: 'যখন', role: { en: 'temporal adverb', bn: 'সময়বাচক ক্রিয়াবিশেষণ' } },
+          { ar: 'حَسَدَ', en: 'he envies', bn: 'হিংসা করে', role: { en: 'past verb (māḍī)', bn: 'অতীত ক্রিয়া (মাদি)' } },
+        ] },
+    ],
+    practice: {
+      q: { en: 'In 113:2, what is شَرِّ in grammatical terms?', bn: '১১৩:২-এ شَرِّ ব্যাকরণিক দিক থেকে কী?' },
+      options: [{ en: 'muḍāf (possessed noun, jarr)', bn: 'মুদাফ (সম্বন্ধপদ, জর)' }, { en: 'fāʿil (doer, rafʿ)', bn: 'ফা‘িল (কর্তা, রফ‘)' }, { en: 'mafʿūl (object, naṣb)', bn: 'মাফ‘ূল (কর্ম, নসব)' }], answer: 0,
+      explain: { en: 'شَرِّ is the muḍāf (possessed noun) in the iḍāfah chain — it is in jarr because of the preceding preposition مِن.', bn: 'شَرِّ ইদাফা শৃঙ্খলে মুদাফ (সম্বন্ধপদ) — এটি পূর্ববর্তী অব্যয় مِن-এর কারণে জর-এ রয়েছে।' },
+    },
+  },
+  {
+    id: 'read-fatiha', unit: 'reading', icon: '👑',
+    title: { en: 'Reading 1:1–7 — Al-Fatiha (The Opener)', bn: '১:১–৭ পড়া — সূরা ফাতিহা (সূচনা)' },
+    concept: {
+      en: 'The most-recited surah in the Quran, compulsory in every rakʿah. It is a complete lesson in iḍāfah, nominal sentences, two types of predicate (مِن after a comparative), relative clauses, and the naṣb of adverbs. Every word appears in earlier lessons; here we see how they combine into a flowing prayer.',
+      bn: 'কুরআনের সবচেয়ে বেশি পঠিত সূরা, প্রতি রাকাতে আবশ্যক। এটি ইদাফা, নাম-বাক্য, দুটি প্রকারের বিধেয় (তুলনামূলকের পর مِن), সম্বন্ধ-বাক্য এবং ক্রিয়াবিশেষণের নসব-এর একটি সম্পূর্ণ পাঠ। প্রতিটি শব্দ আগের পাঠে এসেছে; এখানে দেখি কীভাবে তারা একটি প্রবাহিত প্রার্থনায় মিলিত হয়।',
+    },
+    examples: [
+      { ref: '1:1', trans: { en: 'In the name of Allah, the Most Gracious, the Most Merciful.', bn: 'শুরু করছি আল্লাহর নামে, যিনি পরম করুণাময়, অতি দয়ালু।' },
+        note: { en: 'بِسْمِ — a fixed contraction of بِ ("by/in") and ٱسْمِ ("name"). It is an iḍāfah muḍāf with ٱللَّهِ as the muḍāf ilayh in jarr. ٱلرَّحْمَٰنِ and ٱلرَّحِيمِ are adjectives (ṣifa) following in jarr.', bn: 'بِسْمِ — بِ ("দ্বারা/মধ্যে") ও ٱسْمِ ("নাম")-এর একটি নির্দিষ্ট সংকোচন। এটি একটি ইদাফা মুদাফ যার মুদাফ ইলাইহি ٱللَّهِ জর-এ। ٱلرَّحْمَٰنِ ও ٱلرَّحِيمِ বিশেষণ (সিফা) যা জর-এ অনুসরণ করে।' },
+        words: [
+          { ar: 'بِسْمِ', en: 'In (the) name', bn: 'শুরু করছি নামে', hl: true, role: { en: 'prepositional phrase — muḍāf (jarr)', bn: 'অব্যয় বাক্যাংশ — মুদাফ (জর)' } },
+          { ar: 'ٱللَّهِ', en: 'of Allah', bn: 'আল্লাহর', role: { en: 'muḍāf ilayh (jarr)', bn: 'মুদাফ ইলাইহি (জর)' } },
+          { ar: 'ٱلرَّحْمَٰنِ', en: 'the Most Gracious', bn: 'পরম করুণাময়', role: { en: 'adjective (ṣifa, jarr)', bn: 'বিশেষণ (সিফা, জর)' } },
+          { ar: 'ٱلرَّحِيمِ', en: 'the Most Merciful', bn: 'অতি দয়ালু', role: { en: 'adjective (ṣifa, jarr)', bn: 'বিশেষণ (সিফা, জর)' } },
+        ] },
+      { ref: '1:2', trans: { en: 'All praise is for Allah, Lord of all worlds.', bn: 'সমস্ত প্রশংসা আল্লাহর জন্য, যিনি সকল সৃষ্টিজগতের রব।' },
+        note: { en: 'ٱلْحَمْدُ — mubtadaʾ (rafʿ). لِلَّهِ — the khabar consisting of لِ + لَفْظُ ٱلْجَلَالَة (jarr). رَبِّ — a badal (substitute) or ṣifa of ٱللَّهِ in jarr. ٱلْعَٰلَمِينَ — muḍāf ilayh in jarr (broken plural).', bn: 'ٱلْحَمْدُ — মুবতাদা (রফ‘)। لِلَّهِ — খবর যা لِ + لَفْظُ ٱلْجَلَالَة (জর) নিয়ে গঠিত। رَبِّ — ٱللَّهِ-এর বদল বা সিফা জর-এ। ٱلْعَٰلَمِينَ — মুদাফ ইলাইহি জর-এ (ভগ্ন বহুবচন)।' },
+        words: [
+          { ar: 'ٱلْحَمْدُ', en: 'All praise', bn: 'সমস্ত প্রশংসা', role: { en: 'mubtadaʾ (subject, rafʿ)', bn: 'মুবতাদা (উদ্দেশ্য, রফ‘)' } },
+          { ar: 'لِلَّهِ', en: 'is for Allah', bn: 'আল্লাহর জন্য', role: { en: 'preposition + divine name (khabar, jarr)', bn: 'অব্যয় + আল্লাহর নাম (খবর, জর)' } },
+          { ar: 'رَبِّ', en: 'Lord', bn: 'রব', hl: true, role: { en: 'badal/ṣifa (substitute, jarr)', bn: 'বদল/সিফা (বিকল্প, জর)' } },
+          { ar: 'ٱلْعَٰلَمِينَ', en: 'of the worlds', bn: 'সৃষ্টিজগতের', role: { en: 'muḍāf ilayh — broken plural (jarr)', bn: 'মুদাফ ইলাইহি — ভগ্ন বহুবচন (জর)' } },
+        ] },
+      { ref: '1:3', trans: { en: 'The Most Gracious, the Most Merciful.', bn: 'পরম করুণাময়, অতি দয়ালু।' },
+        note: { en: 'These two names are adjectives (ṣifa) describing ٱللَّهِ (implied from the previous verse), matching in jarr.', bn: 'এই দুটি নাম (পূর্ববর্তী আয়াতের) ٱللَّهِ-কে বর্ণনাকারী বিশেষণ (সিফা), জর-এ মিলে যায়।' },
+        words: [
+          { ar: 'ٱلرَّحْمَٰنِ', en: 'the Most Gracious', bn: 'পরম করুণাময়', role: { en: 'adjective (ṣifa, jarr)', bn: 'বিশেষণ (সিফা, জর)' } },
+          { ar: 'ٱلرَّحِيمِ', en: 'the Most Merciful', bn: 'অতি দয়ালু', role: { en: 'adjective (ṣifa, jarr)', bn: 'বিশেষণ (সিফা, জর)' } },
+        ] },
+      { ref: '1:4', trans: { en: 'Master of the Day of Judgment.', bn: 'বিচার দিনের মালিক।' },
+        note: { en: 'مَٰلِكِ — an active participle (ism al-fāʿil) in jarr, a ṣifa for ٱللَّهِ or a badal of رَبِّ. يَوْمِ — muḍāf (jarr). ٱلدِّينِ — muḍāf ilayh (jarr).', bn: 'مَٰلِكِ — একটি ক্রিয়াবাচক বিশেষ্য (ইসমুল ফায়িল) জর-এ, ٱللَّهِ-এর সিফা বা رَبِّ-এর বদল। يَوْمِ — মুদাফ (জর)। ٱلدِّينِ — মুদাফ ইলাইহি (জর)।' },
+        words: [
+          { ar: 'مَٰلِكِ', en: 'Master', bn: 'মালিক', role: { en: 'active participle (ism al-fāʿil, jarr)', bn: 'ক্রিয়াবাচক বিশেষ্য (ইসমুল ফায়িল, জর)' } },
+          { ar: 'يَوْمِ', en: '(of the) Day', bn: 'দিনের', role: { en: 'muḍāf (jarr)', bn: 'মুদাফ (জর)' } },
+          { ar: 'ٱلدِّينِ', en: 'of Judgment', bn: 'বিচারের', role: { en: 'muḍāf ilayh (jarr)', bn: 'মুদাফ ইলাইহি (জর)' } },
+        ] },
+      { ref: '1:5', trans: { en: 'You alone we worship, and You alone we ask for help.', bn: 'আমরা একমাত্র আপনারই ইবাদত করি এবং একমাত্র আপনার কাছেই সাহায্য প্রার্থনা করি।' },
+        note: { en: 'إِيَّاكَ — the object (mafʿūl bihi) placed before the verb for emphasis (تقديم). نَعْبُدُ — present verb (muḍāriʿ) rafʿ. نَسْتَعِينُ — another present verb, joined by وَ.', bn: 'إِيَّاكَ — কর্ম (মাফ‘ূল বিহি) যা জোর দেওয়ার জন্য ক্রিয়ার আগে স্থাপিত (তাকদিম)। نَعْبُدُ — বর্তমান ক্রিয়া (মুযারি) রফ‘। نَسْتَعِينُ — আরেকটি বর্তমান ক্রিয়া, وَ দিয়ে যুক্ত।' },
+        words: [
+          { ar: 'إِيَّاكَ', en: 'You alone', bn: 'একমাত্র আপনাকে', hl: true, role: { en: 'object pronoun (mafʿūl bihi, naṣb) — fronted for emphasis', bn: 'কর্ম সর্বনাম (মাফ‘ূল বিহি, নসব) — জোর দিতে সামনে আনা' } },
+          { ar: 'نَعْبُدُ', en: 'we worship', bn: 'আমরা ইবাদত করি', role: { en: 'present verb (muḍāriʿ, rafʿ)', bn: 'বর্তমান ক্রিয়া (মুযারি, রফ‘)' } },
+          { ar: 'وَإِيَّاكَ', en: 'and You alone', bn: 'এবং একমাত্র আপনাকে', role: { en: 'and + object pronoun (naṣb)', bn: 'ও + কর্ম সর্বনাম (নসব)' } },
+          { ar: 'نَسْتَعِينُ', en: 'we ask for help', bn: 'সাহায্য চাই', role: { en: 'present verb (muḍāriʿ, rafʿ)', bn: 'বর্তমান ক্রিয়া (মুযারি, রফ‘)' } },
+        ] },
+      { ref: '1:6', trans: { en: 'Guide us to the straight path.', bn: 'আমাদেরকে সরল পথ দেখান।' },
+        note: { en: 'ٱهْدِنَا — command (amr) + object pronoun ‐نَا. ٱلصِّرَٰطَ — object of the hidden verb implied by the direction (mafʿūl bihi, naṣb). ٱلْمُسْتَقِيمَ — ṣifa of ٱلصِّرَٰطَ (naṣb).', bn: 'ٱهْدِنَا — আদেশ (আমর) + কর্ম সর্বনাম ‐نَا। ٱلصِّرَٰطَ — অন্তর্নিহিত দিকনির্দেশক ক্রিয়ার কর্ম (মাফ‘ূল বিহি, নসব)। ٱلْمُسْتَقِيمَ — ٱلصِّرَٰطَ-এর সিফা (নসব)।' },
+        words: [
+          { ar: 'ٱهْدِنَا', en: 'Guide us', bn: 'আমাদেরকে পথ দেখান', role: { en: 'command (amr) + object pronoun', bn: 'আদেশ (আমর) + কর্ম সর্বনাম' } },
+          { ar: 'ٱلصِّرَٰطَ', en: 'the path', bn: 'পথ', role: { en: 'object — mafʿūl (naṣb)', bn: 'কর্ম — মাফ‘ূল (নসব)' } },
+          { ar: 'ٱلْمُسْتَقِيمَ', en: 'straight', bn: 'সরল', hl: true, role: { en: 'adjective (ṣifa, naṣb)', bn: 'বিশেষণ (সিফা, নসব)' } },
+        ] },
+      { ref: '1:7', trans: { en: 'The path of those You have blessed — not of those who incur wrath, nor of the astray.', bn: 'তাদের পথ যাদের আপনি অনুগ্রহ করেছেন — তাদের পথ নয় যাদের উপর গজব নেমেছে, আর না পথভ্রষ্টদের।' },
+        note: { en: 'صِرَٰطَ — a badal repeating the object in naṣb. Then a long relative clause starting with ٱلَّذِينَ. أَنْعَمْتَ — past verb + subject pronoun ("You blessed"). عَلَيْهِمْ — preposition + pronoun. غَيْرِ — a quasi-negative, in jarr. Then two more genitive phrases linked by وَلَا.', bn: 'صِرَٰطَ — কর্মটির পুনরাবৃত্তি বদল নসব-এ। তারপর ٱلَّذِينَ দিয়ে শুরু একটি দীর্ঘ সম্বন্ধ-বাক্য। أَنْعَمْتَ — অতীত ক্রিয়া + কর্তৃ সর্বনাম ("আপনি অনুগ্রহ করেছেন")। عَلَيْهِمْ — অব্যয় + সর্বনাম। غَيْرِ — একটি আধা-নেতিবাচক, জর-এ। তারপর وَلَا দিয়ে যুক্ত আরও দুটি জর বাক্যাংশ।' },
+        words: [
+          { ar: 'صِرَٰطَ', en: '(the) path', bn: 'পথ', role: { en: 'badal (substitute, naṣb)', bn: 'বদল (বিকল্প, নসব)' } },
+          { ar: 'ٱلَّذِينَ', en: 'of those who', bn: 'তাদের যারা', role: { en: 'relative pronoun (jarr)', bn: 'সম্বন্ধবাচক সর্বনাম (জর)' } },
+          { ar: 'أَنْعَمْتَ', en: 'You have blessed', bn: 'আপনি অনুগ্রহ করেছেন', hl: true, role: { en: 'past verb + subject pronoun (māḍī)', bn: 'অতীত ক্রিয়া + কর্তৃ সর্বনাম (মাদি)' } },
+          { ar: 'عَلَيْهِمْ', en: 'upon them', bn: 'তাদের উপর', role: { en: 'preposition + pronoun', bn: 'অব্যয় + সর্বনাম' } },
+          { ar: 'غَيْرِ', en: 'not (those)', bn: 'নয় (তারা)', role: { en: 'quasi-negative noun (jarr)', bn: 'আধা-নেতিবাচক বিশেষ্য (জর)' } },
+          { ar: 'ٱلْمَغْضُوبِ', en: 'who incur wrath', bn: 'গজবপ্রাপ্ত', role: { en: 'passive participle (ism al-mafʿūl, jarr)', bn: 'ক্রিয়াবাচক বিশেষ্য (ইসমুল মাফ‘ূল, জর)' } },
+          { ar: 'عَلَيْهِمْ', en: 'upon them', bn: 'তাদের উপর', role: { en: 'preposition + pronoun', bn: 'অব্যয় + সর্বনাম' } },
+          { ar: 'وَلَا', en: 'and not', bn: 'এবং না', role: { en: 'and + negation', bn: 'ও + নেতিবাচক' } },
+          { ar: 'ٱلضَّآلِّينَ', en: 'the astray', bn: 'পথভ্রষ্ট', role: { en: 'active participle (ism al-fāʿil, jarr, broken plural)', bn: 'ক্রিয়াবাচক বিশেষ্য (ইসমুল ফায়িল, জর, ভগ্ন বহুবচন)' } },
+        ] },
+    ],
+    practice: {
+      q: { en: 'In 1:2, what case is ٱلْحَمْدُ and why?', bn: '১:২-এ ٱلْحَمْدُ কী এ‘রাবে এবং কেন?' },
+      options: [{ en: 'Rafʿ — it is the mubtadaʾ (subject)', bn: 'রফ‘ — এটি মুবতাদা (উদ্দেশ্য)' }, { en: 'Naṣb — it is the mafʿūl (object)', bn: 'নসব — এটি মাফ‘ূল (কর্ম)' }, { en: 'Jarr — after a preposition', bn: 'জর — অব্যয়ের পর' }], answer: 0,
+      explain: { en: 'ٱلْحَمْدُ is the mubtadaʾ (subject) of a nominal sentence, so it takes rafʿ (ـُ). Its khabar is لِلَّهِ.', bn: 'ٱلْحَمْدُ নাম-বাক্যের মুবতাদা (উদ্দেশ্য), তাই এটি রফ‘ (ـُ) নেয়। এর খবর হলো لِلَّهِ।' },
+    },
+  },
 ];
 
 /* ------------------------------------------------------------------ *
@@ -1466,6 +1690,46 @@ const QA_IRAB = [
     words: [ { ar: 'ٱهْدِنَا' }, { ar: 'ٱلصِّرَٰطَ' }, { ar: 'ٱلْمُسْتَقِيمَ', hl: true } ],
     options: [{ en: 'ṣifa (adjective describing the path)', bn: 'সিফা (পথের বিশেষণ)' }, { en: 'fāʿil (doer)', bn: 'ফা‘িল (কর্তা)' }, { en: 'mubtadaʾ (subject)', bn: 'মুবতাদা (উদ্দেশ্য)' }, { en: 'harf jarr (preposition)', bn: 'হারফ জর (অব্যয়পদ)' }], answer: 0,
     explain: { en: 'ٱلْمُسْتَقِيمَ is a ṣifa (adjective) of ٱلصِّرَٰطَ — it matches it in case (naṣb), definiteness and gender.', bn: 'ٱلْمُسْتَقِيمَ হলো ٱلصِّرَٰطَ-এর সিফা (বিশেষণ) — এ‘রাব (নসব), নির্দিষ্টতা ও লিঙ্গে মিলে যায়।' } },
+  { ref: '2:163', q: QA_IRAB_Q,
+    words: [ { ar: 'وَإِلَٰهُكُمْ' }, { ar: 'إِلَٰهٌ' }, { ar: 'وَٰحِدٌ' }, { ar: 'لَّآ', hl: true }, { ar: 'إِلَٰهَ' }, { ar: 'إِلَّا' }, { ar: 'هُوَ' } ],
+    options: [{ en: 'ḥarf (negation of genus, naṣb)', bn: 'হারফ (جنس کی نفی، نصب)' }, { en: 'fāʿil (doer)', bn: 'فاعل (کर्तا)' }, { en: 'mubtadaʾ (subject)', bn: 'مبتدا (উদ্দেশ্য)' }, { en: 'ḥāl (state)', bn: 'حال (অবস্থা)' }], answer: 0,
+    explain: { en: 'لَّآ is the negation of genus (lā al-nāfiya li-l-jins), which puts إِلَٰهَ into naṣb: "there is no god".', bn: 'لَّآ جنس کی نفی کا حرف (لا النافیۃ للجنس)، جو إِلَٰهَ کو نصب میں ڈالتا ہے: "کوئی معبود نہیں"' } },
+  { ref: '2:285', q: QA_IRAB_Q,
+    words: [ { ar: 'ءَامَنَ' }, { ar: 'ٱلرَّسُولُ' }, { ar: 'بِمَآ' }, { ar: 'أُنزِلَ' }, { ar: 'إِلَيْهِ' }, { ar: 'مِن رَّبِّهِۦ' } ],
+    options: [{ en: 'fāʿil (doer of a past verb)', bn: 'فاعل (ماضی کا کرتا)' }, { en: 'mafʿūl bihi (object)', bn: 'مفعول به (مفعول)' }, { en: 'khabar (predicate)', bn: 'خبر (بيدھا)' }, { en: 'muḍāf ilayh', bn: 'مضاف اليه' }], answer: 0,
+    explain: { en: 'ٱلرَّسُولُ ends in ‑u (rafʿ) and is the doer (fāʿil) of the past verb ءَامَنَ.', bn: 'ٱلرَّسُولُ ‑u (rafʿ) پر ختم ہے اور فعل ماضی ءَامَنَ کا فاعل ہے۔' } },
+  { ref: '36:82', q: QA_IRAB_Q,
+    words: [ { ar: 'إِنَّمَآ' }, { ar: 'أَمْرُهُۥٓ' }, { ar: 'إِذَآ' }, { ar: 'أَرَادَ' }, { ar: 'شَيْـًٔا' }, { ar: 'أَن يَقُولَ' }, { ar: 'لَهُۥ' }, { ar: 'كُن', hl: true }, { ar: 'فَيَكُونُ' } ],
+    options: [{ en: 'command verb (amr)', bn: 'فعل امر' }, { en: 'present verb (muḍāriʿ)', bn: 'فعل مضارع' }, { en: 'past verb (māḍī)', bn: 'فعل ماضی' }, { en: 'verbal noun (maṣdar)', bn: 'مصدر' }], answer: 0,
+    explain: { en: 'كُن is a command (amr): "Be!" — it is the essence of creation by divine will.', bn: 'كُن فعل امر ہے: "هو جاؤ!" — يه اللہ تعالیٰ کی تخلیق کا جوہر ہے۔' } },
+  { ref: '1:5', q: QA_IRAB_Q,
+    words: [ { ar: 'إِيَّاكَ', hl: true }, { ar: 'نَعْبُدُ' }, { ar: 'وَإِيَّاكَ' }, { ar: 'نَسْتَعِينُ' } ],
+    options: [{ en: 'mafʿūl bihi (object) placed before the verb', bn: 'مفعول به (مفعول) جو فعل سے پہلے آیا ہے' }, { en: 'mubtadaʾ (subject)', bn: 'مبتدا (موضوع)' }, { en: 'fāʿil (doer)', bn: 'فاعل (کرتا)' }, { en: 'ḥarf (particle)', bn: 'حرف' }], answer: 0,
+    explain: { en: 'إِيَّاكَ is the object of نَعْبُدُ placed before the verb for emphasis — "You alone we worship."', bn: 'إِيَّاكَ نَعْبُدُ کا مفعول ہے جو فعل سے پہلے تاکید کے لیے آیا ہے — "آپ ہی کی ہم عبادت کرتے ہیں۔"' } },
+  { ref: '2:177', q: QA_IRAB_Q,
+    words: [ { ar: 'لَّٰكِنَّ', hl: true }, { ar: 'ٱلْبِرَّ' }, { ar: 'مَنْ' }, { ar: 'ءَامَنَ' }, { ar: 'بِٱللَّهِ' } ],
+    options: [{ en: 'ḥarf nasb (sister of إِنَّ, nasb)', bn: 'حرف نصب (إِنَّ کی بہن، نصب)' }, { en: 'harf jarr (preposition)', bn: 'حرف جر' }, { en: 'istithnāʾ (exception)', bn: 'استثناء' }, { en: 'ʿaṭf (connector)', bn: 'عطف' }], answer: 0,
+    explain: { en: 'لَّٰكِنَّ is a sister of إِنَّ (ḥarf nasb wa tawkīd), putting its subject ٱلْبِرَّ in naṣb.', bn: 'لَّٰكِنَّ إِنَّ کی بہن ہے (حرف نصب و تاکید)، جو اپنے اسم ٱلْبِرَّ کو نصب میں ڈالتی ہے۔' } },
+  { ref: '30:30', q: QA_IRAB_Q,
+    words: [ { ar: 'فَأَقِمْ' }, { ar: 'وَجْهَكَ' }, { ar: 'لِلدِّينِ' }, { ar: 'حَنِيفًا', hl: true } ],
+    options: [{ en: 'ḥāl (state/manner)', bn: 'حال (حالت/انداز)' }, { en: 'mafʿūl bihi (object)', bn: 'مفعول به (مفعول)' }, { en: 'tamyīz (specification)', bn: 'تمييز (تعيين)' }, { en: 'khabar (predicate)', bn: 'خبر (بيدھا)' }], answer: 0,
+    explain: { en: 'حَنِيفًا (naṣb) describes the STATE of the doer as he turns his face — the circumstantial ḥāl.', bn: 'حَنِيفًا (نصب) فاعل کی حالت کو بیان کرتا ہے جب وہ اپنا چہرہ موڑتا ہے — حالِ ظرفی۔' } },
+  { ref: '1:4', q: QA_IRAB_Q,
+    words: [ { ar: 'مَٰلِكِ' }, { ar: 'يَوْمِ' }, { ar: 'ٱلدِّينِ' } ],
+    options: [{ en: 'ṣifa (adjective)', bn: 'صفت' }, { en: 'badal (substitute)', bn: 'بدل' }, { en: 'tamyīz (specification)', bn: 'تمييز (تعيين)' }, { en: 'naʿt (adjective)', bn: 'نعت' }], answer: 0,
+    explain: { en: 'There are two ways to analyse مَٰلِكِ: (1) as a noun in the iḍāfah chain (muḍāf), or (2) as a ṣifa/naʿt (adjective) of رَبِّ — matching it in definiteness, number and case (jarr).', bn: 'مَٰلِكِ کے دو تجزیے ہیں: (1) اضافہ زنجیر میں اسم (مضاف)، یا (2) رَبِّ کی صفت/نعت — جنس، تعداد اور حالت (جر) میں مطابقت۔' } },
+  { ref: '9:40', q: QA_IRAB_Q,
+    words: [ { ar: 'فَأَنزَلَ' }, { ar: 'ٱللَّهُ' }, { ar: 'سَكِينَتَهُۥ' }, { ar: 'عَلَيْهِ' }, { ar: 'وَأَيَّدَهُۥ' }, { ar: 'بِجُنُودٍ' }, { ar: 'لَّمْ', hl: true }, { ar: 'تَرَوْهَا' } ],
+    options: [{ en: 'ḥarf jazm (negates a present verb, jazm)', bn: 'حرف جزم (مضارع کو جزم کرتا ہے)' }, { en: 'ḥarf nasb (makes naṣb)', bn: 'حرف نصب' }, { en: 'istifhām (question)', bn: 'استفہام (سوال)' }, { en: 'qasam (oath)', bn: 'قسم' }], answer: 0,
+    explain: { en: 'لَّمْ is a negation particle that puts the present verb تَرَوْ into the jussive (jazm) — "you did not see".', bn: 'لَّمْ نفی کا حرف ہے جو مضارع تَرَوْ کو جزم میں ڈالتا ہے — "تم نے نہیں دیکھا"' } },
+  { ref: '55:26', q: QA_IRAB_Q,
+    words: [ { ar: 'كُلُّ' }, { ar: 'مَنْ' }, { ar: 'عَلَيْهَا' }, { ar: 'فَانٍ', hl: true } ],
+    options: [{ en: 'khabar (predicate of nominal sentence, rafʿ)', bn: 'خبر (اسمیہ جملہ کی خبر، رفع)' }, { en: 'mubtadaʾ (subject)', bn: 'مبتدا (موضوع)' }, { en: 'fāʿil (doer)', bn: 'فاعل (کرتا)' }, { en: 'mafʿūl (object)', bn: 'مفعول (مفعول)' }], answer: 0,
+    explain: { en: 'كُلُّ is the mubtadaʾ; فَانٍ is its khabar (predicate) in rafʿ: "everything (on it) is perishing."', bn: 'كُلُّ مبتدا ہے؛ فَانٍ اس کی خبر رفع میں ہے: "ہر چیز (اس پر) فنا ہونے والی ہے۔"' } },
+  { ref: '5:6', q: QA_IRAB_Q,
+    words: [ { ar: 'فَٱغْسِلُوا۟' }, { ar: 'وُجُوهَكُمْ' }, { ar: 'وَأَيْدِيَكُمْ' }, { ar: 'إِلَى' }, { ar: 'ٱلْمَرَافِقِ' }, { ar: 'وَٱمْسَحُوا۟' }, { ar: 'بِرُءُوسِكُمْ' }, { ar: 'وَأَرْجُلَكُمْ', hl: true } ],
+    options: [{ en: 'mafʿūl bihi (object, naṣb) joined by wa', bn: 'مفعول به (مفعول، نصب) واو کے ساتھ ملا ہوا' }, { en: 'fāʿil (doer, rafʿ)', bn: 'فاعل (کرتا، رفع)' }, { en: 'muḍāf ilayh (jarr)', bn: 'مضاف اليه (جر)' }, { en: 'ḥāl (state, naṣb)', bn: 'حال (حالت، نصب)' }], answer: 0,
+    explain: { en: 'وَأَرْجُلَكُمْ is joined by the conjunction وَ to the object وُجُوهَكُمْ — both are objects of the command wash/wipe (mafʿūl bihi, naṣb).', bn: 'وَأَرْجُلَكُمْ حرف عطف وَ کے ذریعے مفعول وُجُوهَكُمْ سے ملا ہوا ہے — دونوں حکم دھونے/مسح کرنے کے مفعول (نصب) ہیں۔' } },
 ];
 
 /* ------------------------------------------------------------------ *
@@ -2309,11 +2573,15 @@ class QuranicArabicView {
     const arabic = (ex.words || []).map(w =>
       `<span class="${w.hl ? 'text-emerald-600 dark:text-emerald-400' : ''}">${this.esc(w.ar)}</span>`
     ).join(' ');
+    const plainArabic = (ex.words || []).map(w => w.ar).join(' ');
     const hlWord = (ex.words || []).find(w => w.hl);
+    const tts = this.ttsAvailable();
     return `
       <div class="mb-4 rounded-2xl border border-gray-200 dark:border-gray-700 overflow-hidden">
         <div class="p-4 bg-gray-50 dark:bg-gray-800/60 text-center">
           <p class="text-2xl sm:text-3xl leading-loose font-[500] text-gray-800 dark:text-gray-100" dir="rtl" lang="ar">${arabic}</p>
+          ${tts ? `<button type="button" data-qa-say="${this.esc(plainArabic)}" title="${this.esc(this.tt('qa_listen'))}" aria-label="${this.esc(this.tt('qa_listen'))}"
+            class="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-primary/15 hover:text-primary transition-colors">🔊 ${this.esc(this.tt('qa_listen'))}</button>` : ''}
         </div>
         <div class="p-4">
           <div class="flex flex-wrap items-start justify-center gap-1.5 mb-3" dir="rtl">${this.renderWordRow(ex.words)}</div>

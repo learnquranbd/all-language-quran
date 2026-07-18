@@ -22,7 +22,7 @@ const HW_NON_CONNECTORS = ['ا', 'د', 'ذ', 'ر', 'ز', 'و'];
 const HW_FORMS = ['isolated', 'initial', 'medial', 'final'];
 const HW_PASS_PCT = 60;
 /** Ink palette + nib sizes offered under the canvas (persisted per user). */
-const HW_COLORS = ['#111827', '#1e40af', '#dc2626', '#059669', '#d97706', '#7c3aed'];
+const HW_COLORS = ['#111827', '#6366f1', '#dc2626', '#059669', '#d97706', '#7c3aed'];
 const HW_SIZES = [3, 6, 10, 16];
 
 class Handwriting {

@@ -841,6 +841,24 @@ const SEERAH_QUIZ = [
     optsEn: ['Mecca', "Ta'if", 'Khaybar', 'Quba'], optsBn: ['মক্কা', 'তায়েফ', 'খায়বার', 'কুবা'], correct: 3 },
   { qEn: 'Roughly how far is the journey from Mecca to Medina?', qBn: 'মক্কা থেকে মদিনার পথ আনুমানিক কত দূর?',
     optsEn: ['~45 km', '~450 km', '~4,500 km', '~1,000 km'], optsBn: ['~৪৫ কিমি', '~৪৫০ কিমি', '~৪,৫০০ কিমি', '~১,০০০ কিমি'], correct: 1 },
+  { qEn: 'Who was the first male to accept Islam?', qBn: 'সর্বপ্রথম পুরুষ ইসলাম গ্রহণ করেন কে?',
+    optsEn: ['Ali ibn Abi Talib', 'Abu Bakr as-Siddiq', 'Umar ibn al-Khattab', 'Hamzah ibn Abd al-Muttalib'], optsBn: ['আলী ইবন আবি তালিব', 'আবু বকর আস-সিদ্দিক', 'উমর ইবন আল-খাত্তাব', 'হামযাহ ইবন আব্দুল মুত্তালিব'], correct: 1 },
+  { qEn: 'How many years did the revelation span?', qBn: 'কত বছর ধরে ওহি নাযিল হয়?',
+    optsEn: ['13 years', '20 years', '23 years', '10 years'], optsBn: ['১৩ বছর', '২০ বছর', '২৩ বছর', '১০ বছর'], correct: 2 },
+  { qEn: 'How many verses of the Quran were revealed in Mecca?', qBn: 'কুরআনের কতটি আয়াত মক্কায় নাযিল হয়?',
+    optsEn: ['~86 surahs (most of them)', 'All of them', '~28 surahs', 'Only the short surahs'], optsBn: ['~৮৬ সূরা (অধিকাংশ)', 'সবগুলো', '~২৮ সূরা', 'শুধু ছোট সূরাগুলো'], correct: 0 },
+  { qEn: 'What was the first command revealed to the Prophet ﷺ?', qBn: 'নবী ﷺ-কে সর্বপ্রথম কী আদেশ দেওয়া হয়?',
+    optsEn: ['"Read/Recite" (Iqra)', '"Arise and warn"', '"Pray"', '"Fast"'], optsBn: ['"পড়ুন" (ইকরা)', '"উঠে সতর্ক করুন"', '"নামাজ পড়ুন"', '"রোজা রাখুন"'], correct: 0 },
+  { qEn: 'Who was the first child to accept Islam?', qBn: 'সর্বপ্রথম শিশু ইসলাম গ্রহণ করেন কে?',
+    optsEn: ['Ali ibn Abi Talib', 'Aishah bint Abi Bakr', 'Fatimah bint Muhammad', 'Zayd ibn Harithah'], optsBn: ['আলী ইবন আবি তালিব', 'আয়িশা বিনত আবি বকর', 'ফাতিমা বিনত মুহাম্মাদ', 'জায়েদ ইবন হারিসা'], correct: 0 },
+  { qEn: 'How many Muslims migrated to Abyssinia in the first migration?', qBn: 'প্রথম হিজরতে কতজন মুসলিম আবিসিনিয়ায় যান?',
+    optsEn: ['~15', '~100', '~50', '~313'], optsBn: ['~১৫', '~১০০', '~৫০', '~৩১৩'], correct: 0 },
+  { qEn: 'How many Muslims were present at the Pledge of al-Aqabah (second)?', qBn: 'দ্বিতীয় আকাবার শপথে কতজন মুসলিম উপস্থিত ছিলেন?',
+    optsEn: ['73 men + 2 women', '12 men', '40 men', '313 men'], optsBn: ['৭৩ পুরুষ + ২ নারী', '১২ পুরুষ', '৪০ পুরুষ', '৩১৩ পুরুষ'], correct: 0 },
+  { qEn: 'What was the main condition of the Treaty of Hudaybiyyah regarding returning to Mecca?', qBn: 'হুদায়বিয়ার সন্ধির মূল শর্ত কী ছিল মক্কায় ফেরা সম্পর্কে?',
+    optsEn: ['Return that year, come back next year for Umrah', 'Never enter Mecca again', 'Enter with 1,000 men', 'Pay a fine to enter'], optsBn: ['সেই বছর ফিরে যান, পরের বছর উমরাহ করুন', 'আর কখনও মক্কায় প্রবেশ করবেন না', '১,০০০ লোক নিয়ে প্রবেশ করুন', 'প্রবেশের জন্য জরিমানা দিন'], correct: 0 },
+  { qEn: 'In which battle did the Prophet ﷺ first use a trench for defense?', qBn: 'প্রথম কখন নবী ﷺ প্রতিরক্ষার জন্য খন্দক (পরিখা) ব্যবহার করেন?',
+    optsEn: ['The Battle of the Trench (Khandaq)', 'Badr', 'Uhud', 'Hunayn'], optsBn: ['খন্দকের যুদ্ধ', 'বদর', 'উহুদ', 'হুনাইন'], correct: 0 },
 ];
 
 /**
@@ -1043,6 +1061,23 @@ const SEERAH_UI = {
   seerah_glance_medinan: { en: 'Medinan period', bn: 'মাদানি যুগ' },
   seerah_glance_battles: { en: 'Major battles', bn: 'প্রধান যুদ্ধ' },
   seerah_glance_years: { en: 'years', bn: 'বছর' },
+  // ── Timeline graph ─────────────────────────────────────────────────
+  seerah_tg_era_before: { en: 'Before prophethood', bn: 'নবুয়তের পূর্বে' },
+  seerah_tg_era_meccan: { en: 'Meccan', bn: 'মক্কি' },
+  seerah_tg_era_medinan: { en: 'Medinan', bn: 'মাদানি' },
+  seerah_tg_era_farewell: { en: 'Farewell', bn: 'বিদায়' },
+  seerah_tg_milestone_birth: { en: 'Birth', bn: 'জন্ম' },
+  seerah_tg_milestone_revelation: { en: 'Revelation begins', bn: 'ওহি শুরু' },
+  seerah_tg_milestone_dawah: { en: 'Public dawah', bn: 'প্রকাশ্য দাওয়াত' },
+  seerah_tg_milestone_abyssinia: { en: 'Abyssinia hijra', bn: 'হাবশা হিজরত' },
+  seerah_tg_milestone_isra: { en: 'Isra & Mi\'raj', bn: 'ইসরা ও মিরাজ' },
+  seerah_tg_milestone_hijra: { en: 'Hijra to Medina', bn: 'মদিনায় হিজরত' },
+  seerah_tg_milestone_badr: { en: 'Battle of Badr', bn: 'বদর যুদ্ধ' },
+  seerah_tg_milestone_uhud: { en: 'Battle of Uhud', bn: 'উহুদ যুদ্ধ' },
+  seerah_tg_milestone_trench: { en: 'Trench battle', bn: 'খন্দক যুদ্ধ' },
+  seerah_tg_milestone_hudaybiyyah: { en: 'Hudaybiyyah', bn: 'হুদায়বিয়া' },
+  seerah_tg_milestone_conquest: { en: 'Conquest of Mecca', bn: 'মক্কা বিজয়' },
+  seerah_tg_milestone_farewell: { en: 'Farewell / Passing', bn: 'বিদায় / ইন্তেকাল' },
   seerah_topics_title: { en: 'Major Topics', bn: 'প্রধান বিষয়সমূহ' },
   seerah_topics_intro: { en: "Explore key themes from the life and teachings of the Prophet ﷺ. Tap any topic to expand.", bn: 'নবী ﷺ-এর জীবন ও শিক্ষার গুরুত্বপূর্ণ বিষয়গুলো ঘুরে দেখুন। বিস্তারিত দেখতে যেকোনো বিষয়ে ট্যাপ করুন।' },
   seerah_key_points: { en: 'Key points', bn: 'মূল বিষয়' },
@@ -1284,7 +1319,7 @@ class SeerahView {
       const active = this.view === id;
       return `<button type="button" data-seerah-view="${id}"
         class="flex items-center gap-1.5 px-4 py-1.5 rounded-lg text-sm font-medium transition-colors
-               ${active ? 'bg-white dark:bg-gray-700 text-primary shadow-sm' : 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200'}">
+               ${active ? 'bg-white dark:bg-gray-700 text-gray-700 dark:text-gray-100 shadow-sm' : 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200'}">
         <span aria-hidden="true">${icon}</span>${this.esc(label)}</button>`;
     };
     const toggle = `
@@ -1300,6 +1335,7 @@ class SeerahView {
 
     const timelineBody = `
       ${this.glanceHtml()}
+      ${this.timelineGraphHtml()}
       <div class="mb-3">
         <div class="flex items-center justify-between gap-2 mb-1">
           <span class="text-xs font-medium text-gray-500 dark:text-gray-400">${this.esc(this.tt('seerah_progress'))}</span>
@@ -1592,6 +1628,68 @@ class SeerahView {
    * data. Prophethood ≈ 23 years (Meccan 13 + Medinan 10); the battle count is
    * read from SEERAH_BATTLES so it stays in sync with the data.
    */
+  timelineGraphHtml() {
+    const t = (k) => this.tt(k);
+    const milestones = [
+      { year: -1, key: 'seerah_tg_milestone_birth', era: 'before', emoji: '👶' },
+      { year: 0, key: 'seerah_tg_milestone_revelation', era: 'meccan', emoji: '📜' },
+      { year: 5, key: 'seerah_tg_milestone_dawah', era: 'meccan', emoji: '📢' },
+      { year: 7, key: 'seerah_tg_milestone_abyssinia', era: 'meccan', emoji: '🌊' },
+      { year: 10, key: 'seerah_tg_milestone_isra', era: 'meccan', emoji: '🌙' },
+      { year: 13, key: 'seerah_tg_milestone_hijra', era: 'medinan', emoji: '🚶' },
+      { year: 14, key: 'seerah_tg_milestone_badr', era: 'medinan', emoji: '⚔️' },
+      { year: 15, key: 'seerah_tg_milestone_uhud', era: 'medinan', emoji: '🛡️' },
+      { year: 17, key: 'seerah_tg_milestone_trench', era: 'medinan', emoji: '🏰' },
+      { year: 18, key: 'seerah_tg_milestone_hudaybiyyah', era: 'medinan', emoji: '🤝' },
+      { year: 20, key: 'seerah_tg_milestone_conquest', era: 'medinan', emoji: '🏛️' },
+      { year: 23, key: 'seerah_tg_milestone_farewell', era: 'farewell', emoji: '🤲' },
+    ];
+    const totalYears = 23;
+    const eraColors = { before: '#f59e0b', meccan: '#e11d48', medinan: '#10b981', farewell: '#6366f1' };
+    const eraKeys = { before: 'seerah_tg_era_before', meccan: 'seerah_tg_era_meccan', medinan: 'seerah_tg_era_medinan', farewell: 'seerah_tg_era_farewell' };
+
+    return `
+      <section class="mb-6" aria-label="Timeline graph">
+        <h4 class="text-xs font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-3">${this.esc(t('seerah_glance_title'))}</h4>
+        <div class="relative px-0.5">
+          <div class="relative h-2 rounded-full bg-gray-200 dark:bg-gray-700 overflow-hidden">
+            <div class="absolute inset-0 flex">
+              <div class="h-full" style="flex:1;background:#f59e0b"></div>
+              <div class="h-full" style="flex:13;background:#e11d48"></div>
+              <div class="h-full" style="flex:10;background:#10b981"></div>
+            </div>
+          </div>
+          <div class="flex text-[0.55rem] text-gray-400 dark:text-gray-500 mt-0.5">
+            <span style="flex:1">0</span>
+            <span style="flex:13;text-align:center">13</span>
+            <span style="flex:10;text-align:right">23 ${this.esc(t('seerah_glance_years'))}</span>
+          </div>
+          <div class="flex flex-wrap gap-x-2 gap-y-1 mt-3">
+            ${['before','meccan','medinan'].map(k => `
+              <span class="flex items-center gap-1 text-[0.6rem] text-gray-500 dark:text-gray-400">
+                <span class="inline-block w-2 h-2 rounded-full" style="background:${eraColors[k]}"></span>
+                ${this.esc(t(eraKeys[k]))}
+              </span>`).join('')}
+          </div>
+        </div>
+        <div class="mt-4 space-y-1.5">
+          ${milestones.map(m => {
+            const pct = (m.year / totalYears) * 100;
+            const ec = eraColors[m.era] || '#6366f1';
+            return `
+            <div class="flex items-center gap-2 text-xs">
+              <span class="shrink-0 w-5 text-center leading-none" aria-hidden="true">${m.emoji}</span>
+              <span class="shrink-0 w-6 text-right font-mono text-[0.6rem] text-gray-400 dark:text-gray-500">${m.year < 0 ? '~' + Math.abs(m.year) : m.year}</span>
+              <div class="flex-1 relative h-4">
+                <div class="absolute inset-y-0 left-0 rounded-full" style="width:${Math.max(2, pct)}%;background:${ec}20;border:1px solid ${ec}40"></div>
+                <span class="absolute inset-y-0 left-0 flex items-center pl-1 text-[0.6rem] font-medium text-gray-700 dark:text-gray-200 truncate" style="max-width:${Math.min(100, pct + 10)}%">${this.esc(t(m.key))}</span>
+              </div>
+            </div>`;
+          }).join('')}
+        </div>
+      </section>`;
+  }
+
   glanceHtml() {
     const battleCount = Object.keys(SEERAH_BATTLES).length;
     const yr = this.esc(this.tt('seerah_glance_years'));

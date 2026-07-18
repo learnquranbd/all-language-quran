@@ -1,50 +1,48 @@
 const SALAH_I18N_FALLBACK = {
-  salah_title:             { en: 'Prayer', bn: 'নামাজ', zh: '礼拜', ja: '礼拝'},
-  salah_desc:              { en: 'Step-by-step guide to performing prayer with duas and meanings', bn: 'দোয়া ও অর্থসহ ধাপে ধাপে নামাজ শিখুন', zh: '带杜阿和含义的逐步礼拜指南', ja: 'ドゥアーと意味を学ぶ段階的な礼拝ガイド'},
-  salah_steps_title:       { en: 'Steps of Salah', bn: 'নামাজের ধাপসমূহ', zh: '礼拜步骤', ja: '礼拝の手順'},
-  salah_duas_title:        { en: 'Duas of Salah', bn: 'নামাজের দোয়াসমূহ', zh: '礼拜中的杜阿', ja: '礼拝のドゥアー'},
-  salah_tasbeeh_title:     { en: 'Tasbeeh & After-Salah Dhikr', bn: 'তাসবিহ ও নামাজের পর যিকির', zh: '赞念与礼拜后记主', ja: 'タスビーフと礼拝後のズィクル'},
-  salah_pillars_title:     { en: 'Pillars & Conditions', bn: 'নামাজের রুকন ও শর্ত', zh: '礼拜的要素与条件', ja: '礼拝の柱と条件'},
-  salah_about_title:       { en: 'About Prayer', bn: 'নামাজ সম্পর্কে', zh: '关于礼拜', ja: '礼拝について'},
-  salah_intro:             { en: 'Prayer is the second pillar of Islam and a daily act of worship. Learn the steps, duas, and meanings.', bn: 'নামাজ ইসলামের দ্বিতীয় স্তম্ভ, যা প্রতিদিন নির্দিষ্ট সময়ে আদায় করা হয়। ধাপ, দোয়া ও অর্থ শিখুন।', zh: '礼拜是伊斯兰的第二支柱，每天在规定的时间进行。学习步骤、杜阿和含义。', ja: '礼拝はイスラームの第二の柱であり、毎日決められた時間に行われます。手順、ドゥアー、意味を学びましょう。'},
-  salah_condition_title:   { en: 'Conditions of Salah (Shurut)', bn: 'নামাজের শর্ত (শুরুত)', zh: '礼拜的条件', ja: '礼拝の条件'},
-  salah_pillar_title:      { en: 'Pillars of Salah (Arkan)', bn: 'নামাজের রুকন (আরকান)', zh: '礼拜的要素', ja: '礼拝の柱'},
-  salah_wajib_title:       { en: 'Obligations of Salah (Wajibat)', bn: 'নামাজের ওয়াজিব', zh: '礼拜的义务', ja: '礼拝の義務'},
-  salah_sunnah_title:      { en: 'Sunnah of Salah', bn: 'নামাজের সুন্নাত', zh: '礼拜的可嘉行为', ja: '礼拝のスンナ'},
-  salah_meaning:           { en: 'Meaning', bn: 'অর্থ', zh: '含义', ja: '意味'},
-  salah_arabic:            { en: 'Arabic', bn: 'আরবি', zh: '阿拉伯语', ja: 'アラビア語'},
-  salah_transliteration:   { en: 'Transliteration', bn: 'উচ্চারণ', zh: '音译', ja: '読み方'},
-  salah_step:              { en: 'Step', bn: 'ধাপ', zh: '步骤', ja: '手順'},
-  salah_number:            { en: 'No.', bn: 'নং', zh: '序号', ja: '番号'},
-  salah_reference:         { en: 'Reference', bn: 'প্রমাণ', zh: '出处', ja: '出典'},
-  salah_quiz_intro:        { en: 'Test your knowledge of Salah with these questions.', bn: 'নামাজ সম্পর্কে আপনার জ্ঞান পরীক্ষা করুন।', zh: '通过这些题目测试您的礼拜知识。', ja: 'これらの質問で礼拝の知識をテストしましょう。'},
-  salah_quiz_score:        { en: 'Your score', bn: 'আপনার স্কোর', zh: '您的分数', ja: 'スコア'},
-  salah_quiz_best:         { en: 'Best', bn: 'সেরা', zh: '最佳', ja: '最高'},
-  salah_quiz_submit:       { en: 'Check answers', bn: 'উত্তর দেখুন', zh: '检查答案', ja: '回答を確認'},
-  salah_quiz_retake:       { en: 'Try again', bn: 'আবার চেষ্টা করুন', zh: '再试一次', ja: 'もう一度挑戦'},
-  salah_quiz_hint:         { en: 'Answer all questions to submit', bn: 'জমা দিতে সব প্রশ্নের উত্তর দিন', zh: '回答所有问题后提交', ja: 'すべての質問に答えて提出'},
-  salah_wudu_title:        { en: 'Wudu & Ghusl (Ablution)', bn: 'অজু ও গোসল', zh: '小净与大净', ja: 'ウドゥーとグスル'},
-  salah_wudu_intro:        { en: 'Purification (Taharah) is required before salah. Learn the steps of wudu and when ghusl is needed.', bn: 'নামাজের আগে পবিত্রতা (তাহারাত) অর্জন করা আবশ্যক। অজু ও গোসলের ধাপ শিখুন।', zh: '礼拜前必须洁净。学习小净和大净的步骤。', ja: '礼拝の前に清め（タハーラ）が必要です。ウドゥーとグスルの手順を学びましょう。'},
-  salah_wudu_steps:        { en: 'Steps of Wudu', bn: 'অজুর ধাপসমূহ', zh: '小净步骤', ja: 'ウドゥーの手順'},
-  salah_ghusl_desc:        { en: 'Ghusl (full body wash) is required after: marital relations, ejaculation, end of menstruation, post-natal bleeding, and before Jumuah/Eid (sunnah).', bn: 'গোসল ফরয হয়: স্ত্রী সহবাসের পর, বীর্যপাতের পর, হায়েজ-নিফাস শেষে। জুমা/ঈদের আগে সুন্নাত।', zh: '大净在以下情况下需要: 夫妻关系后、射精后、月经结束后、产后流血结束后。主麻/尔德节前为可嘉。', ja: 'グスル（全身洗浄）が必要な場合: 性交後、射精後、月経終了後、産後出血後。ジュムア/イードの前はスンナ。'},
-  salah_timings_title:     { en: 'Salah Times', bn: 'নামাজের সময়', zh: '礼拜时间', ja: '礼拝の時間'},
-  salah_timings_intro:     { en: 'The five daily prayers are performed at specific times based on the sun\'s position.', bn: 'পাঁচ ওয়াক্ত নামাজ সূর্যের অবস্থানের ভিত্তিতে নির্দিষ্ট সময়ে পড়া হয়।', zh: '五次礼拜根据太阳位置在特定时间进行。', ja: '5回の礼拝は太陽の位置に基づく特定の時間に行われます。'},
-  salah_fajr:              { en: 'Fajr (Dawn)', bn: 'ফজর', zh: '晨礼', ja: 'ファジュル'},
-  salah_dhuhr:             { en: 'Dhuhr (Noon)', bn: 'যোহর', zh: '晌礼', ja: 'ズフル'},
-  salah_asr:               { en: 'Asr (Afternoon)', bn: 'আসর', zh: '晡礼', ja: 'アスル'},
-  salah_maghrib:           { en: 'Maghrib (Sunset)', bn: 'মাগরিব', zh: '昏礼', ja: 'マグリブ'},
-  salah_isha:              { en: 'Isha (Night)', bn: 'ইশা', zh: '宵礼', ja: 'イシャ'},
-  salah_view_guide:        { en: 'Guide', bn: 'গাইড', zh: '指南', ja: 'ガイド'},
-  salah_view_quiz:         { en: 'Quiz', bn: 'কুইজ', zh: '测验', ja: 'クイズ'},
-  salah_view_resources:    { en: 'Resources', bn: 'রিসোর্স', zh: '资源', ja: 'リソース'},
-  salah_view_wudu:         { en: 'Wudu', bn: 'অজু', zh: '小净', ja: 'ウドゥー'},
-  salah_view_timings:      { en: 'Times', bn: 'সময়', zh: '时间', ja: '時間'},
-  salah_resources_intro:   { en: 'Learn more about salah from these reputable books, websites and videos.', bn: 'এই বিশ্বস্ত বই, ওয়েবসাইট ও ভিডিও থেকে নামাজ সম্পর্কে আরও শিখুন।', zh: '通过这些权威书籍、网站和视频了解更多关于礼拜的知识。', ja: 'これらの信頼できる本、ウェブサイト、ビデオから礼拝について詳しく学びましょう。'},
-  salah_resources_book:    { en: 'Book', bn: 'বই', zh: '书籍', ja: '本'},
-  salah_resources_web:     { en: 'Website', bn: 'ওয়েবসাইট', zh: '网站', ja: 'ウェブサイト'},
-  salah_resources_video:   { en: 'Video', bn: 'ভিডিও', zh: '视频', ja: 'ビデオ'},
-  salah_resources_app:     { en: 'App', bn: 'অ্যাপ', zh: '应用', ja: 'アプリ'},
-  salah_resources_by:      { en: 'by', bn: 'লিখেছেন', zh: '作者', ja: '著者'},
+  salah_title:             { en: 'Prayer', bn: 'নামাজ', zh: '礼拜', ja: '礼拝', ur: 'نماز', hi: 'नमाज़', tr: 'Namaz', fr: 'Prière', es: 'Oración'},
+  salah_desc:              { en: 'Step-by-step guide to performing prayer with duas and meanings', bn: 'দোয়া ও অর্থসহ ধাপে ধাপে নামাজ শিখুন', zh: '带杜阿和含义的逐步礼拜指南', ja: 'ドゥアーと意味を学ぶ段階的な礼拝ガイド', ur: 'دعاؤں اور معانی کے ساتھ نماز کا مرحلہ وار طریقہ', hi: 'दुआ और अर्थ के साथ नमाज़ की चरण-दर-चरण मार्गदर्शिका', tr: 'Dualar ve anlamlarıyla adım adım namaz kılma rehberi', fr: 'Guide étape par étape pour accomplir la prière avec les invocations et leurs significations', es: 'Guía paso a paso para realizar la oración con duas y significados'},
+  salah_steps_title:       { en: 'Steps of Salah', bn: 'নামাজের ধাপসমূহ', zh: '礼拜步骤', ja: '礼拝の手順', ur: 'نماز کے مراحل', hi: 'नमाज़ के चरण', tr: 'Namazın Adımları', fr: 'Étapes de la prière', es: 'Pasos de la oración'},
+  salah_duas_title:        { en: 'Duas of Salah', bn: 'নামাজের দোয়াসমূহ', zh: '礼拜中的杜阿', ja: '礼拝のドゥアー', ur: 'نماز کی دعائیں', hi: 'नमाज़ की दुआएँ', tr: 'Namazın Duaları', fr: 'Invocations de la prière', es: 'Duas de la oración'},
+  salah_tasbeeh_title:     { en: 'Tasbeeh & After-Salah Dhikr', bn: 'তাসবিহ ও নামাজের পর যিকির', zh: '赞念与礼拜后记主', ja: 'タスビーフと礼拝後のズィクル', ur: 'تسبیح و نماز کے بعد کا ذکر', hi: 'तस्बीह और नमाज़ के बाद का ज़िक्र', tr: 'Tesbih ve Namaz Sonrası Zikir', fr: 'Tasbih et dhikr après la prière', es: 'Tasbih y dhikr después de la oración'},
+  salah_pillars_title:     { en: 'Pillars & Conditions', bn: 'নামাজের রুকন ও শর্ত', zh: '礼拜的要素与条件', ja: '礼拝の柱と条件', ur: 'ارکان و شرائط', hi: 'अरकान और शर्तें', tr: 'Rükünler ve Şartlar', fr: 'Piliers et conditions', es: 'Pilares y condiciones'},
+  salah_about_title:       { en: 'About Prayer', bn: 'নামাজ সম্পর্কে', zh: '关于礼拜', ja: '礼拝について', ur: 'نماز کے بارے میں', hi: 'नमाज़ के बारे में', tr: 'Namaz Hakkında', fr: 'À propos de la prière', es: 'Acerca de la oración'},
+  salah_intro:             { en: 'Prayer is the second pillar of Islam and a daily act of worship. Learn the steps, duas, and meanings.', bn: 'নামাজ ইসলামের দ্বিতীয় স্তম্ভ, যা প্রতিদিন নির্দিষ্ট সময়ে আদায় করা হয়। ধাপ, দোয়া ও অর্থ শিখুন।', zh: '礼拜是伊斯兰的第二支柱，每天在规定的时间进行。学习步骤、杜阿和含义。', ja: '礼拝はイスラームの第二の柱であり、毎日決められた時間に行われます。手順、ドゥアー、意味を学びましょう。', ur: 'نماز اسلام کا دوسرا رکن ہے اور روزانہ کی عبادت ہے۔ مراحل، دعائیں اور معانی سیکھیں۔', hi: 'नमाज़ इस्लाम का दूसरा स्तंभ है और एक दैनिक इबादत है। चरण, दुआएँ और अर्थ सीखें।', tr: 'Namaz İslam\'ın ikinci şartıdır ve günlük bir ibadettir. Adımları, duaları ve anlamlarını öğrenin.', fr: 'La prière est le deuxième pilier de l\'Islam et un acte d\'adoration quotidien. Apprenez les étapes, les invocations et leurs significations.', es: 'La oración es el segundo pilar del Islam y un acto de adoración diario. Aprende los pasos, duas y significados.'},
+  salah_condition_title:   { en: 'Conditions of Salah (Shurut)', bn: 'নামাজের শর্ত (শুরুত)', zh: '礼拜的条件', ja: '礼拝の条件', ur: 'نماز کی شرائط (شروط)', hi: 'नमाज़ की शर्तें (शुरूत)', tr: 'Namazın Şartları (Şurut)', fr: 'Conditions de la prière (Shurut)', es: 'Condiciones de la oración (Shurut)'},
+  salah_pillar_title:      { en: 'Pillars of Salah (Arkan)', bn: 'নামাজের রুকন (আরকান)', zh: '礼拜的要素', ja: '礼拝の柱', ur: 'نماز کے ارکان', hi: 'नमाज़ के अरकान', tr: 'Namazın Rükünleri', fr: 'Piliers de la prière (Arkan)', es: 'Pilares de la oración (Arkan)'},
+  salah_wajib_title:       { en: 'Obligations of Salah (Wajibat)', bn: 'নামাজের ওয়াজিব', zh: '礼拜的义务', ja: '礼拝の義務', ur: 'نماز کے واجبات', hi: 'नमाज़ के वाजिबात', tr: 'Namazın Vacipleri', fr: 'Obligations de la prière (Wajibat)', es: 'Obligaciones de la oración (Wajibat)'},
+  salah_sunnah_title:      { en: 'Sunnah of Salah', bn: 'নামাজের সুন্নাত', zh: '礼拜的可嘉行为', ja: '礼拝のスンナ', ur: 'نماز کی سنتیں', hi: 'नमाज़ की सुन्नतें', tr: 'Namazın Sünnetleri', fr: 'Sunnah de la prière', es: 'Sunnah de la oración'},
+  salah_meaning:           { en: 'Meaning', bn: 'অর্থ', zh: '含义', ja: '意味', ur: 'معنی', hi: 'अर्थ', tr: 'Anlam', fr: 'Sens', es: 'Significado'},
+  salah_arabic:            { en: 'Arabic', bn: 'আরবি', zh: '阿拉伯语', ja: 'アラビア語', ur: 'عربی', hi: 'अरबी', tr: 'Arapça', fr: 'Arabe', es: 'Árabe'},
+  salah_transliteration:   { en: 'Transliteration', bn: 'উচ্চারণ', zh: '音译', ja: '読み方', ur: 'تلفظ', hi: 'उच्चारण', tr: 'Okunuşu', fr: 'Transcription', es: 'Transliteración'},
+  salah_step:              { en: 'Step', bn: 'ধাপ', zh: '步骤', ja: '手順', ur: 'مرحلہ', hi: 'चरण', tr: 'Adım', fr: 'Étape', es: 'Paso'},
+  salah_number:            { en: 'No.', bn: 'নং', zh: '序号', ja: '番号', ur: 'نمبر', hi: 'नं.', tr: 'No.', fr: 'N°', es: 'N°'},
+  salah_reference:         { en: 'Reference', bn: 'প্রমাণ', zh: '出处', ja: '出典', ur: 'حوالہ', hi: 'संदर्भ', tr: 'Kaynak', fr: 'Référence', es: 'Referencia'},
+  salah_quiz_intro:        { en: 'Test your knowledge of Salah with these questions.', bn: 'নামাজ সম্পর্কে আপনার জ্ঞান পরীক্ষা করুন।', zh: '通过这些题目测试您的礼拜知识。', ja: 'これらの質問で礼拝の知識をテストしましょう。', ur: 'ان سوالات کے ساتھ نماز کے بارے میں اپنے علم کو آزمائیں۔', hi: 'इन सवालों से नमाज़ के बारे में अपने ज्ञान का परीक्षण करें।', tr: 'Bu sorularla namaz bilginizi test edin.', fr: 'Testez vos connaissances sur la prière avec ces questions.', es: 'Pon a prueba tu conocimiento sobre la oración con estas preguntas.'},
+  salah_quiz_score:        { en: 'Your score', bn: 'আপনার স্কোর', zh: '您的分数', ja: 'スコア', ur: 'آپ کا سکور', hi: 'आपका स्कोर', tr: 'Skorunuz', fr: 'Votre score', es: 'Tu puntuación'},
+  salah_quiz_best:         { en: 'Best', bn: 'সেরা', zh: '最佳', ja: '最高', ur: 'بہترین', hi: 'सर्वश्रेष्ठ', tr: 'En iyi', fr: 'Meilleur', es: 'Mejor'},
+  salah_quiz_submit:       { en: 'Check answers', bn: 'উত্তর দেখুন', zh: '检查答案', ja: '回答を確認', ur: 'جوابات چیک کریں', hi: 'उत्तर जाँचें', tr: 'Cevapları kontrol et', fr: 'Vérifier les réponses', es: 'Revisar respuestas'},
+  salah_quiz_retake:       { en: 'Try again', bn: 'আবার চেষ্টা করুন', zh: '再试一次', ja: 'もう一度挑戦', ur: 'دوبارہ کوشش کریں', hi: 'पुनः प्रयास करें', tr: 'Tekrar dene', fr: 'Réessayer', es: 'Intentar de nuevo'},
+  salah_quiz_hint:         { en: 'Answer all questions to submit', bn: 'জমা দিতে সব প্রশ্নের উত্তর দিন', zh: '回答所有问题后提交', ja: 'すべての質問に答えて提出', ur: 'جمع کرانے کے لیے تمام سوالات کے جواب دیں', hi: 'सबमिट करने के लिए सभी प्रश्नों के उत्तर दें', tr: 'Göndermek için tüm soruları cevaplayın', fr: 'Répondez à toutes les questions pour soumettre', es: 'Responde todas las preguntas para enviar'},
+  salah_wudu_title:        { en: 'Wudu & Ghusl (Ablution)', bn: 'অজু ও গোসল', zh: '小净与大净', ja: 'ウドゥーとグスル', ur: 'وضو اور غسل', hi: 'वुज़ू और ग़ुस्ल', tr: 'Abdest ve Gusül', fr: 'Wudu et Ghusl (Ablution)', es: 'Wudu y Ghusl (Ablución)'},
+  salah_wudu_intro:        { en: 'Purification (Taharah) is required before salah. Learn the steps of wudu and when ghusl is needed.', bn: 'নামাজের আগে পবিত্রতা (তাহারাত) অর্জন করা আবশ্যক। অজু ও গোসলের ধাপ শিখুন।', zh: '礼拜前必须洁净。学习小净和大净的步骤。', ja: '礼拝の前に清め（タハーラ）が必要です。ウドゥーとグスルの手順を学びましょう。', ur: 'نماز سے پہلے طہارت حاصل کرنا ضروری ہے۔ وضو اور غسل کے مراحل سیکھیں۔', hi: 'नमाज़ से पहले पवित्रता (तहारत) हासिल करना ज़रूरी है। वुज़ू और ग़ुस्ल के चरण सीखें।', tr: 'Namazdan önce taharet (temizlik) şarttır. Abdest ve gusül adımlarını öğrenin.', fr: 'La purification (Taharah) est requise avant la prière. Apprenez les étapes du wudu et quand le ghusl est nécessaire.', es: 'La purificación (Taharah) es necesaria antes de la oración. Aprende los pasos del wudu y cuándo se necesita el ghusl.'},
+  salah_wudu_steps:        { en: 'Steps of Wudu', bn: 'অজুর ধাপসমূহ', zh: '小净步骤', ja: 'ウドゥーの手順', ur: 'وضو کے مراحل', hi: 'वुज़ू के चरण', tr: 'Abdest Adımları', fr: 'Étapes du wudu', es: 'Pasos del wudu'},
+  salah_ghusl_desc:        { en: 'Ghusl (full body wash) is required after: marital relations, ejaculation, end of menstruation, post-natal bleeding, and before Jumuah/Eid (sunnah).', bn: 'গোসল ফরয হয়: স্ত্রী সহবাসের পর, বীর্যপাতের পর, হায়েজ-নিফাস শেষে। জুমা/ঈদের আগে সুন্নাত।', zh: '大净在以下情况下需要: 夫妻关系后、射精后、月经结束后、产后流血结束后。主麻/尔德节前为可嘉。', ja: 'グスル（全身洗浄）が必要な場合: 性交後、射精後、月経終了後、産後出血後。ジュムア/イードの前はスンナ。', ur: 'غسل واجب ہوتا ہے: ازدواجی تعلقات کے بعد، انزال کے بعد، حیض کے ختم ہونے پر، نفاس کے بعد۔ جمعہ/عید سے پہلے سنت ہے۔', hi: 'ग़ुस्ल फ़र्ज़ है: वैवाहिक संबंध के बाद, वीर्य स्खलन के बाद, मासिक धर्म की समाप्ति पर, प्रसव के बाद। जुमा/ईद से पहले सुन्नत है।', tr: 'Gusül gerektiren durumlar: cinsel ilişki, boşalma, adet sonu, lohusa sonu. Cuma/Bayram öncesi sünnettir.', fr: 'Le Ghusl (lavage complet du corps) est requis après: relations maritales, éjaculation, fin des menstruations, saignements post-natals, et avant Jumuah/Aïd (sunnah).', es: 'Se requiere Ghusl (baño completo) después de: relaciones maritales, eyaculación, fin de la menstruación, sangrado post-parto, y antes de Jumuah/Eid (sunnah).'},
+  salah_timings_title:     { en: 'Salah Times', bn: 'নামাজের সময়', zh: '礼拜时间', ja: '礼拝の時間', ur: 'نماز کے اوقات', hi: 'नमाज़ के समय', tr: 'Namaz Vakitleri', fr: 'Heures de prière', es: 'Horarios de oración'},
+  salah_timings_intro:     { en: 'The five daily prayers are performed at specific times based on the sun\'s position.', bn: 'পাঁচ ওয়াক্ত নামাজ সূর্যের অবস্থানের ভিত্তিতে নির্দিষ্ট সময়ে পড়া হয়।', zh: '五次礼拜根据太阳位置在特定时间进行。', ja: '5回の礼拝は太陽の位置に基づく特定の時間に行われます。', ur: 'پانچ وقت کی نمازیں سورج کی پوزیشن کی بنیاد پر مخصوص اوقات میں ادا کی جاتی ہیں۔', hi: 'पाँचों नमाज़ें सूर्य की स्थिति के आधार पर निर्धारित समय पर पढ़ी जाती हैं।', tr: 'Beş vakit namaz, güneşin konumuna göre belirlenen belirli vakitlerde kılınır.', fr: 'Les cinq prières quotidiennes sont accomplies à des heures spécifiques basées sur la position du soleil.', es: 'Las cinco oraciones diarias se realizan en horarios específicos basados en la posición del sol.'},
+  salah_fajr:              { en: 'Fajr (Dawn)', bn: 'ফজর', zh: '晨礼', ja: 'ファジュル', ur: 'فجر (صبح)', hi: 'फ़ज्र (सुबह)', tr: 'Fecir (Sabah)', fr: 'Fajr (Aube)', es: 'Fajr (Amanecer)'},
+  salah_dhuhr:             { en: 'Dhuhr (Noon)', bn: 'যোহর', zh: '晌礼', ja: 'ズフル', ur: 'ظہر (دوپہر)', hi: 'ज़ुहर (दोपहर)', tr: 'Öğle (Zuhr)', fr: 'Dhuhr (Midi)', es: 'Dhuhr (Mediodía)'},
+  salah_asr:               { en: 'Asr (Afternoon)', bn: 'আসর', zh: '晡礼', ja: 'アスル', ur: 'عصر (سہ پہر)', hi: 'अस्र (दोपहर बाद)', tr: 'İkindi (Asr)', fr: 'Asr (Après-midi)', es: 'Asr (Tarde)'},
+  salah_maghrib:           { en: 'Maghrib (Sunset)', bn: 'মাগরিব', zh: '昏礼', ja: 'マグリブ', ur: 'مغرب (غروب آفتاب)', hi: 'मग़रिब (सूर्यास्त)', tr: 'Akşam (Mağrib)', fr: 'Maghrib (Coucher du soleil)', es: 'Maghrib (Puesta del sol)'},
+  salah_isha:              { en: 'Isha (Night)', bn: 'ইশা', zh: '宵礼', ja: 'イシャ', ur: 'عشاء (رات)', hi: 'ईशा (रात)', tr: 'Yatsı (İşa)', fr: 'Isha (Nuit)', es: 'Isha (Noche)'},
+  salah_view_guide:        { en: 'Guide', bn: 'গাইড', zh: '指南', ja: 'ガイド', ur: 'رہنما', hi: 'गाइड', tr: 'Rehber', fr: 'Guide', es: 'Guía'},
+  salah_view_quiz:         { en: 'Quiz', bn: 'কুইজ', zh: '测验', ja: 'クイズ', ur: 'کوئز', hi: 'क्विज़', tr: 'Test', fr: 'Quiz', es: 'Cuestionario'},
+  salah_view_wudu:         { en: 'Wudu', bn: 'অজু', zh: '小净', ja: 'ウドゥー', ur: 'وضو', hi: 'वुज़ू', tr: 'Abdest', fr: 'Wudu', es: 'Wudu'},
+  salah_view_timings:      { en: 'Times', bn: 'সময়', zh: '时间', ja: '時間', ur: 'اوقات', hi: 'समय', tr: 'Vakitler', fr: 'Horaires', es: 'Horarios'},
+  salah_view_resources:    { en: 'Resources', bn: 'রিসোর্স', zh: '资源', ja: '参考資料', ur: 'وسائل', hi: 'संसाधन', tr: 'Kaynaklar', fr: 'Ressources', es: 'Recursos'},
+  salah_resources_title:   { en: 'Further Learning Resources', bn: 'আরও শেখার রিসোর্স', zh: '进一步学习资源', ja: '参考学習資料', ur: 'مزید سیکھنے کے وسائل', hi: 'आगे सीखने के संसाधन', tr: 'Daha Fazla Öğrenme Kaynağı', fr: 'Ressources pour approfondir', es: 'Recursos para seguir aprendiendo'},
+  salah_resources_intro:   { en: 'Books, websites, videos and apps to deepen your understanding of salah.', bn: 'নামাজ সম্পর্কে গভীর জ্ঞানের জন্য বই, ওয়েবসাইট, ভিডিও ও অ্যাপ।', zh: '书籍、网站、视频和应用，加深对礼拜的理解。', ja: '礼拝の理解を深めるための本、ウェブサイト、動画、アプリ。', ur: 'نماز کے بارے میں گہرائی سے سمجھنے کے لیے کتابیں، ویب سائٹس، ویڈیوز اور ایپس۔', hi: 'नमाज़ की गहरी समझ के लिए किताबें, वेबसाइटें, वीडियो और ऐप्स।', tr: 'Namazı daha iyi anlamak için kitaplar, web siteleri, videolar ve uygulamalar.', fr: 'Livres, sites web, vidéos et applications pour approfondir votre compréhension de la prière.', es: 'Libros, sitios web, videos y aplicaciones para profundizar tu comprensión de la oración.'},
+  salah_wudu_quiz_title:   { en: 'Wudu Quiz', bn: 'অজু কুইজ', zh: '小净测验', ja: 'ウドゥークイズ', ur: 'وضو کوئز', hi: 'वुज़ू क्विज़', tr: 'Abdest Testi', fr: 'Quiz sur le wudu', es: 'Cuestionario de wudu'},
+  salah_tasbeeh_counter:   { en: 'Tasbeeh Counter', bn: 'তাসবিহ কাউন্টার', zh: '赞念计数器', ja: 'タスビーフカウンター', ur: 'تسبیح کاؤنٹر', hi: 'तस्बीह काउंटर', tr: 'Tesbih Sayacı', fr: 'Compteur de tasbih', es: 'Contador de tasbih'},
 };
 
 const SALAH_STEPS = [
@@ -90,7 +88,7 @@ const SALAH_DUAS = [
     arabic: 'سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَىٰ جَدُّكَ، وَلَا إِلَٰهَ غَيْرُكَ',
     transliteration: "Subhanakallahumma wa bihamdika, wa tabarakasmuka, wa ta'ala jadduka, wa la ilaha ghayruk",
     meaning: { en: 'Glory be to You, O Allah, and all praise is Yours. Blessed is Your name and exalted is Your majesty. There is no god but You.', bn: 'আপনি পবিত্র, হে আল্লাহ, এবং আপনারই প্রশংসা। আপনার নাম বরকতময় ও আপনার মহিমা সুউচ্চ। আপনি ছাড়া কোনো উপাস্য নেই।' },
-    reference: { en: 'Muslim, Abu Dawud, Tirmidhi' }
+    reference: { en: 'Muslim, Abu Dawud, Tirmidhi', bn: 'মুসলিম, আবু দাউদ, তিরমিযী' }
   },
   {
     id: 'fatiha',
@@ -98,7 +96,7 @@ const SALAH_DUAS = [
     arabic: 'بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾',
     transliteration: "Bismillahir Rahmanir Rahim. Alhamdu lillahi Rabbil 'alamin. Ar Rahmanir Rahim. Maliki yawmid din. Iyyaka na'budu wa iyyaka nasta'in. Ihdinas siratal mustaqim. Siratal ladhina an'amta 'alayhim, ghayril maghdubi 'alayhim wa lad dallin.",
     meaning: { en: 'In the name of Allah, the Most Gracious, the Most Merciful. All praise is for Allah, Lord of all worlds, the Most Gracious, the Most Merciful, Master of the Day of Judgment. You alone we worship and You alone we ask for help. Guide us to the straight path — the path of those You have blessed, not of those who incur wrath, nor of the astray.', bn: 'শুরু করছি আল্লাহর নামে, যিনি পরম করুণাময়, অতি দয়ালু। সমস্ত প্রশংসা আল্লাহর, যিনি সকল সৃষ্টিজগতের রব, পরম করুণাময়, অতি দয়ালু, বিচার দিনের মালিক। আমরা একমাত্র আপনারই ইবাদত করি এবং একমাত্র আপনার কাছেই সাহায্য প্রার্থনা করি। আমাদেরকে সরল পথ দেখান — তাদের পথ, যাদের আপনি অনুগ্রহ করেছেন, তাদের পথ নয় যাদের উপর গজব নেমেছে, আর না পথভ্রষ্টদের।' },
-    reference: { en: 'Quran 1:1-7' }
+    reference: { en: 'Quran 1:1-7', bn: 'কুরআন ১:১-৭' }
   },
   {
     id: 'ruku_tasbeeh',
@@ -115,7 +113,7 @@ const SALAH_DUAS = [
     arabic: 'سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ',
     transliteration: "Sami'a Allahu liman hamidah",
     meaning: { en: 'Allah hears the one who praises Him.', bn: 'আল্লাহ তার কথা শোনেন যে তাঁর প্রশংসা করে।' },
-    reference: { en: 'Bukhari, Muslim' }
+    reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
   {
     id: 'rabbana_lakal_hamd',
@@ -148,7 +146,7 @@ const SALAH_DUAS = [
     arabic: 'التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ',
     transliteration: "At-tahiyyatu lillahi was-salawatu wat-tayyibatu. Assalamu 'alayka ayyuhan-nabiyyu wa rahmatullahi wa barakatuh. Assalamu 'alayna wa 'ala 'ibadillahis-salihin. Ashhadu alla ilaha illallah wa ashhadu anna Muhammadan 'abduhu wa rasuluh.",
     meaning: { en: 'All greetings, prayers and good words are for Allah. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous servants of Allah. I bear witness that there is no god but Allah, and I bear witness that Muhammad is His servant and Messenger.', bn: 'সকল সালাম, নামাজ ও পবিত্র বাক্য আল্লাহর জন্য। হে নবী, আপনার উপর শান্তি ও আল্লাহর রহমত ও বরকত বর্ষিত হোক। আমাদের উপর এবং আল্লাহর নেক বান্দাদের উপর শান্তি বর্ষিত হোক। আমি সাক্ষ্য দিচ্ছি যে আল্লাহ ছাড়া কোনো উপাস্য নেই, এবং আমি সাক্ষ্য দিচ্ছি যে মুহাম্মাদ ﷺ তাঁর বান্দা ও রাসূল।' },
-    reference: { en: 'Bukhari, Muslim' }
+    reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
   {
     id: 'durood',
@@ -156,7 +154,7 @@ const SALAH_DUAS = [
     arabic: 'اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَّجِيدٌ. اللَّهُمَّ بَارِكْ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَّجِيدٌ',
     transliteration: "Allahumma salli 'ala Muhammadin wa 'ala aali Muhammadin, kama sallayta 'ala Ibrahima wa 'ala aali Ibrahima, innaka Hamidun Majid. Allahumma barik 'ala Muhammadin wa 'ala aali Muhammadin, kama barakta 'ala Ibrahima wa 'ala aali Ibrahima, innaka Hamidun Majid.",
     meaning: { en: 'O Allah, send peace upon Muhammad and the family of Muhammad, as You sent peace upon Ibrahim and the family of Ibrahim. Indeed, You are Praiseworthy, Glorious. O Allah, bless Muhammad and the family of Muhammad, as You blessed Ibrahim and the family of Ibrahim. Indeed, You are Praiseworthy, Glorious.', bn: 'হে আল্লাহ! মুহাম্মাদ ও মুহাম্মাদের পরিবারের উপর রহমত বর্ষণ করুন, যেমন আপনি ইবরাহীম ও ইবরাহীমের পরিবারের উপর রহমত বর্ষণ করেছেন। নিশ্চয় আপনি প্রশংসিত, মহিমান্বিত। হে আল্লাহ! মুহাম্মাদ ও মুহাম্মাদের পরিবারকে বরকত দিন, যেমন আপনি ইবরাহীম ও ইবরাহীমের পরিবারকে বরকত দিয়েছেন। নিশ্চয় আপনি প্রশংসিত, মহিমান্বিত।' },
-    reference: { en: 'Bukhari, Muslim' }
+    reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
   {
     id: 'after_tashahhud',
@@ -198,7 +196,7 @@ const SALAH_TASBEEH = [
     transliteration: "Subhanallah",
     meaning: { en: 'Glory be to Allah.', bn: 'আল্লাহ পবিত্র।' },
     count: 33,
-    reference: { en: 'Bukhari, Muslim' }
+    reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
   {
     id: 'alhamdulillah',
@@ -206,7 +204,7 @@ const SALAH_TASBEEH = [
     transliteration: "Alhamdulillah",
     meaning: { en: 'All praise is for Allah.', bn: 'সমস্ত প্রশংসা আল্লাহর জন্য।' },
     count: 33,
-    reference: { en: 'Bukhari, Muslim' }
+    reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
   {
     id: 'allahu_akbar',
@@ -214,14 +212,14 @@ const SALAH_TASBEEH = [
     transliteration: "Allahu Akbar",
     meaning: { en: 'Allah is the Greatest.', bn: 'আল্লাহ সবচেয়ে বড়।' },
     count: 33,
-    reference: { en: 'Bukhari, Muslim' }
+    reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
   {
     id: 'tahlil',
     arabic: 'لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ',
     transliteration: "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu, wa huwa 'ala kulli shay'in qadir",
     meaning: { en: 'There is no god but Allah, alone, without partner. His is the kingdom and His is all praise, and He has power over all things.', bn: 'আল্লাহ ছাড়া কোনো উপাস্য নেই, তিনি একক, তাঁর কোনো শরিক নেই। রাজত্ব তাঁরই এবং সমস্ত প্রশংসা তাঁরই, আর তিনি সব কিছুর উপর ক্ষমতাবান।' },
-    reference: { en: 'Bukhari, Muslim' }
+    reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
   {
     id: 'ayatul_kursi',
@@ -243,7 +241,7 @@ const SALAH_TASBEEH = [
     arabic: 'لَا إِلَٰهَ إِلَّا اللَّهُ',
     transliteration: "La ilaha illallah",
     meaning: { en: 'There is no god but Allah.', bn: 'আল্লাহ ছাড়া কোনো উপাস্য নেই।' },
-    reference: { en: 'Bukhari, Muslim' }
+    reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
   {
     id: 'subhanallah_wabihamdih',
@@ -251,7 +249,7 @@ const SALAH_TASBEEH = [
     transliteration: "Subhanallahi wa bihamdih",
     meaning: { en: 'Glory and praise be to Allah.', bn: 'আল্লাহ পবিত্র ও তাঁরই প্রশংসা।' },
     count: 100,
-    reference: { en: 'Bukhari, Muslim' }
+    reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
 ];
 
@@ -426,11 +424,70 @@ const SALAH_QUIZ = [
     optsEn: ['4 (2 sunnah + 2 fard)', '2 (all fard)', '6 (2+2+2)', '3 (1+2)'], optsBn: ['৪ (২ সুন্নাত + ২ ফরজ)', '২ (সব ফরজ)', '৬ (২+২+২)', '৩ (১+২)'], correct: 0 },
   { qEn: 'What should you do if you miss a prayer?', qBn: 'নামাজ ছুটে গেলে কী করবেন?',
     optsEn: ['Make it up (qada) as soon as possible', 'It cannot be made up', 'Skip it forever', 'Donate to charity instead'], optsBn: ['যত দ্রুত সম্ভব কাজা করুন', 'কাজা হয় না', 'চিরদিনের জন্য ছেড়ে দিন', 'পরিবর্তে দান করুন'], correct: 0 },
+  { qEn: 'What is the first step of wudu?', qBn: 'অজুর প্রথম ধাপ কী?',
+    optsEn: ['Wash the face', 'Wash the hands', 'Make the intention (niyyah)', 'Wipe the head'], optsBn: ['মুখ ধোয়া', 'হাত ধোয়া', 'নিয়ত করা', 'মাথা মাসেহ করা'], correct: 2 },
+  { qEn: 'How many rak\'ahs are in Maghrib prayer?', qBn: 'মাগরিবের নামাজে কত রাকাত?',
+    optsEn: ['2', '3', '4', '5'], optsBn: ['২', '৩', '৪', '৫'], correct: 1 },
+  { qEn: 'What does "Tashahhud" contain?', qBn: 'তাশাহহুদে কী অন্তর্ভুক্ত?',
+    optsEn: ['Testimony of faith and salutation on the Prophet', 'Recitation of Surah Fatiha', 'Supplication for forgiveness', 'Praise of Allah only'], optsBn: ['কালিমা ও নবীর প্রতি সালাম', 'সূরা ফাতিহা পাঠ', 'ক্ষমা প্রার্থনা', 'শুধু আল্লাহর প্রশংসা'], correct: 0 },
+  { qEn: 'What is the rule if you forget a sajdah?', qBn: 'সিজদা ভুলে গেলে কী করতে হয়?',
+    optsEn: ['Repeat the whole prayer', 'Do sujud al-sahw (prostration of forgetfulness)', 'Nothing — it\'s fine', 'Make a donation'], optsBn: ['পুরো নামাজ পুনরায় পড়তে হয়', 'সিজদায়ে সাহু করতে হয়', 'কিছুই করতে হয় না', 'দান করতে হয়'], correct: 1 },
+  { qEn: 'What is the meaning of "Sami\'a Allahu liman hamidah"?', qBn: '"সামি আল্লাহু লিমান হামিদাহ" এর অর্থ কী?',
+    optsEn: ['Allah is the Greatest', 'Allah hears those who praise Him', 'Glory be to Allah', 'Allah is the Most Merciful'], optsBn: ['আল্লাহ সবচেয়ে বড়', 'আল্লাহ প্রশংসাকারীর কথা শোনেন', 'আল্লাহ পবিত্র', 'আল্লাহ পরম দয়ালু'], correct: 1 },
+  { qEn: 'How many times do you prostrate in each rak\'ah?', qBn: 'প্রতি রাকাতে কতবার সিজদা করতে হয়?',
+    optsEn: ['1', '2', '3', '4'], optsBn: ['১', '২', '৩', '৪'], correct: 1 },
+  { qEn: 'What is the Qiblah direction for most of the world?', qBn: 'বিশ্বের অধিকাংশ স্থানের কিবলা কোন দিকে?',
+    optsEn: ['Towards Jerusalem', 'Towards the Ka\'bah in Mecca', 'Towards the East', 'Towards the North Star'], optsBn: ['জেরুজালেমের দিকে', 'মক্কার কাবার দিকে', 'পূর্ব দিকে', 'নর্থ স্টারের দিকে'], correct: 1 },
+  { qEn: 'What is said when rising from ruku?', qBn: 'রুকু থেকে উঠার সময় কী বলা হয়?',
+    optsEn: ['Allahu Akbar', 'Sami\'a Allahu liman hamidah', 'Subhana Rabbiyal Azim', 'Rabbana lakal hamd'], optsBn: ['আল্লাহু আকবার', 'সামি আল্লাহু লিমান হামিদাহ', 'সুবহানা রাব্বিয়াল আজিম', 'রাব্বানা লাকাল হামদ'], correct: 1 },
+  { qEn: 'Can a woman pray during her menstruation?', qBn: 'মহিলারা কি ঋতুস্রাব অবস্থায় নামাজ পড়তে পারেন?',
+    optsEn: ['Yes, with wudu', 'No, she is excused from prayer', 'Yes, but shortened', 'Only if she is traveling'], optsBn: ['হ্যাঁ, অজু করে', 'না, তিনি নামাজ থেকে বিরত থাকেন', 'হ্যাঁ, কিন্তু সংক্ষেপে', 'শুধু সফরে থাকলে'], correct: 1 },
+  { qEn: 'What does "Subhana Rabbiyal Azim" mean?', qBn: '"সুবহানা রাব্বিয়াল আজিম" এর অর্থ কী?',
+    optsEn: ['Glory be to my Lord, the Most High', 'Glory be to my Lord, the Most Great', 'Allah hears those who praise Him', 'Allah is the Greatest'], optsBn: ['পবিত্র আমার সর্বোচ্চ রব', 'পবিত্র আমার মহান রব', 'আল্লাহ প্রশংসাকারীর কথা শোনেন', 'আল্লাহ সবচেয়ে বড়'], correct: 1 },
+  { qEn: 'How many fard (obligatory) rak\'ahs are there in Isha?', qBn: 'ইশার নামাজে কত রাকাত ফরজ?',
+    optsEn: ['2', '3', '4', '5'], optsBn: ['২', '৩', '৪', '৫'], correct: 2 },
+  { qEn: 'What is the name of the prostration of forgetfulness?', qBn: 'ভুলের সিজদাকে কী বলা হয়?',
+    optsEn: ['Sujud al-Shukr', 'Sujud al-Sahw', 'Sujud al-Tilawah', 'Sujud al-Qiyam'], optsBn: ['সিজদায়ে শোকর', 'সিজদায়ে সাহু', 'সিজদায়ে তিলাওয়াত', 'সিজদায়ে কিয়াম'], correct: 1 },
+  { qEn: 'Which part of the salah is the qiyam?', qBn: 'নামাজের কিয়াম কোন অংশ?',
+    optsEn: ['Bowing', 'Prostration', 'Standing', 'Sitting'], optsBn: ['রুকু', 'সিজদা', 'দাঁড়ানো', 'বসা'], correct: 2 },
+  { qEn: 'What is said after the first takbir to begin salah?', qBn: 'প্রথম তাকবিরের পর নামাজ শুরুতে কী পড়া হয়?',
+    optsEn: ['Surah Fatiha', 'Dua al-Istiftah', 'Tashahhud', 'Salaam'], optsBn: ['সূরা ফাতিহা', 'সানা', 'তাশাহহুদ', 'সালাম'], correct: 1 },
+  { qEn: 'How many total rak\'ahs does Jumuah (Friday) prayer have?', qBn: 'জুমার নামাজে মোট কত রাকাত?',
+    optsEn: ['2 fard', '2 sunnah + 2 fard', '4 fard + 2 sunnah', '4 sunnah + 2 fard + 2 sunnah'], optsBn: ['২ ফরজ', '২ সুন্নাত + ২ ফরজ', '৪ ফরজ + ২ সুন্নাত', '৪ সুন্নাত + ২ ফরজ + ২ সুন্নাত'], correct: 1 },
+  { qEn: 'What breaks wudu?', qBn: 'কী কী কারণে অজু ভেঙে যায়?',
+    optsEn: ['Eating', 'Sleeping', 'Coughing', 'Walking'], optsBn: ['খাওয়া', 'ঘুমানো', 'কাশি দেওয়া', 'হাঁটা'], correct: 1 },
+  { qEn: 'During which prayer is Surah al-Fatiha recited aloud?', qBn: 'কোন নামাজে সূরা ফাতিহা সশব্দে পড়া হয়?',
+    optsEn: ['Dhuhr and Asr', 'Fajr, Maghrib and Isha', 'Only Fajr', 'All prayers silently'], optsBn: ['যোহর ও আসরে', 'ফজর, মাগরিব ও ইশায়', 'শুধু ফজরে', 'সব নামাজে নীরবে'], correct: 1 },
+  { qEn: 'What is the minimum number of rak\'ahs for Witr prayer?', qBn: 'বিতর নামাজের সর্বনিম্ন রাকাত কত?',
+    optsEn: ['1', '3', '5', '7'], optsBn: ['১', '৩', '৫', '৭'], correct: 0 },
+];
+
+const WUDU_QUIZ = [
+  { qEn: 'How many fard (obligatory) acts are there in wudu?', qBn: 'অজুর ফরজ কয়টি?',
+    optsEn: ['3', '4', '6', '8'], optsBn: ['৩', '৪', '৬', '৮'], correct: 1 },
+  { qEn: 'What is the first step of wudu?', qBn: 'অজুর প্রথম ধাপ কী?',
+    optsEn: ['Wash hands', 'Rinse mouth', 'Intention (Niyyah)', 'Wash face'], optsBn: ['হাত ধোয়া', 'কুলি করা', 'নিয়ত করা', 'মুখ ধোয়া'], correct: 2 },
+  { qEn: 'What is the meaning of the word "wudu"?', qBn: '"অজু" শব্দের অর্থ কী?',
+    optsEn: ['Cleanliness', 'Light and beauty', 'Purification with water', 'Washing'], optsBn: ['পরিষ্কার', 'আলো ও সৌন্দর্য', 'পানি দিয়ে পবিত্রতা', 'ধোয়া'], correct: 1 },
+  { qEn: 'How many times is each body part washed in wudu?', qBn: 'অজুতে প্রতিটি অঙ্গ কতবার ধোয়া হয়?',
+    optsEn: ['1×', '2×', '3×', '4×'], optsBn: ['১বার', '২বার', '৩বার', '৪বার'], correct: 2 },
+  { qEn: 'What happens if you pass gas during wudu?', qBn: 'অজু অবস্থায় বায়ু নির্গত হলে কী হয়?',
+    optsEn: ['Wudu is valid', 'Wudu breaks, must restart', 'Just wash again', 'Nothing'], optsBn: ['অজু সহীহ', 'অজু ভেঙে যায়, পুনরায় করতে হবে', 'শুধু আবার ধুয়ে নিন', 'কিছু হয় না'], correct: 1 },
+  { qEn: 'Is it permissible to wipe over socks (khuffs) during wudu?', qBn: 'অজুতে মোজার উপর মাসেহ করা কি জায়েজ?',
+    optsEn: ['No, never', 'Yes, for 1 day', 'Yes, for 24 hours (resident) or 3 days (traveler)', 'Only in winter'], optsBn: ['না, কখনো না', 'হ্যাঁ, ১ দিন', 'হ্যাঁ, ২৪ ঘণ্টা (মুকিম) বা ৩ দিন (মুসাফির)', 'শুধু শীতে'], correct: 2 },
+  { qEn: 'What is the position of rinsing the nose in wudu?', qBn: 'অজুতে নাকে পানি দেওয়ার বিধান কী?',
+    optsEn: ['Fard (obligatory)', 'Wajib', 'Sunnah', 'Mustahabb'], optsBn: ['ফরজ', 'ওয়াজিব', 'সুন্নাত', 'মুস্তাহাব'], correct: 2 },
+  { qEn: 'Can you perform wudu with seawater?', qBn: 'সমুদ্রের পানি দিয়ে অজু করা যাবে কি?',
+    optsEn: ['No, it is impure', 'Yes its water is pure', 'Only if filtered', 'No, too salty'], optsBn: ['না, তা নাপাক', 'হ্যাঁ, এর পানি পবিত্র', 'শুধু ছাঁকা হলে', 'না, খুব লবণাক্ত'], correct: 1 },
+  { qEn: 'What should you say when you finish wudu?', qBn: 'অজু শেষে কী পড়তে হয়?',
+    optsEn: ['Allahu Akbar', 'Ashhadu alla ilaha illallah...', 'Subhanallah', 'Alhamdulillah'], optsBn: ['আল্লাহু আকবার', 'আশহাদু আল্লা ইলাহা ইল্লাল্লাহ...', 'সুবহানাল্লাহ', 'আলহামদুলিল্লাহ'], correct: 1 },
+  { qEn: 'How do you wipe the ears during wudu?', qBn: 'অজুতে কান কীভাবে মাসেহ করবেন?',
+    optsEn: ['With new water', 'With the same water used for the head', 'Just touch them', 'Rub with fingers dry'], optsBn: ['নতুন পানি দিয়ে', 'মাথার অবশিষ্ট পানি দিয়ে', 'শুধু স্পর্শ করুন', 'শুকনা আঙ্গুল ঘষুন'], correct: 1 },
 ];
 
 class SalahModule {
   constructor() {
-    this.root = document.getElementById('learn-prayer-root');
+    this.root = document.getElementById('namaz-root');
     if (!this.root) return;
     this.language = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
     this.rendered = false;
@@ -439,14 +496,18 @@ class SalahModule {
     this.quizAnswers = {};
     this.quizSubmitted = false;
     this.quizBest = this.loadQuizBest();
+    this.quizOrder = null;
+    this.wqAnswers = {};
+    this.wqSubmitted = false;
+    this.tcCounts = {};
+    this.tcTargets = {};
 
-    window.addEventListener('learnModuleSelected', (e) => {
-      try {
-        if (e.detail?.module === 'salah') {
-          if (!this.rendered) { this.rendered = true; setTimeout(() => this.render(), 0); }
-        }
-      } catch (_) { }
-    });
+    if (typeof tabSystem !== 'undefined' && tabSystem) {
+      tabSystem.onTabActive('namaz', () => {
+        if (!this.rendered) { this.rendered = true; setTimeout(() => this.render(), 0); }
+        else if (this.root.offsetParent !== null) this.render();
+      });
+    }
 
     window.addEventListener('settingChanged', (e) => {
       try {
@@ -477,7 +538,12 @@ class SalahModule {
     return key;
   }
 
-  lc(o) { return (o && (o[this.language] || o.en)) || ''; }
+  lc(o) {
+    if (!o) return '';
+    if (o[this.language]) return o[this.language];
+    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en); if (tr) return tr; }
+    return o.en || '';
+  }
 
   esc(s) {
     if (typeof s !== 'string') return '';
@@ -488,9 +554,11 @@ class SalahModule {
 
   render() {
     const body = this.view === 'quiz' ? this.quizHtml()
-      : this.view === 'resources' ? this.resourcesHtml()
       : this.view === 'wudu' ? this.wuduHtml()
       : this.view === 'timings' ? this.timingsHtml()
+      : this.view === 'resources' ? this.resourcesHtml()
+      : this.view === 'wudu-quiz' ? this.wuduQuizHtml()
+      : this.view === 'tasbeeh' ? this.tasbeehCounterHtml()
       : this.guideHtml();
     this.root.innerHTML = `
       <div class="w-full max-w-3xl mx-auto pb-8">
@@ -507,7 +575,7 @@ class SalahModule {
     const vbtn = (id, emoji, label) => `
       <button type="button" data-salah-view="${id}"
         class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors whitespace-nowrap
-               ${this.view === id ? 'bg-white dark:bg-gray-700 text-primary shadow-sm' : 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200'}">
+               ${this.view === id ? 'bg-white dark:bg-gray-700 text-gray-700 dark:text-gray-100 shadow-sm' : 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200'}">
         <span aria-hidden="true">${emoji}</span>${this.esc(label)}</button>`;
     return `
       <div class="flex justify-center mb-4 overflow-x-auto">
@@ -516,7 +584,7 @@ class SalahModule {
           ${vbtn('wudu', '💧', this.tt('salah_view_wudu'))}
           ${vbtn('timings', '⏰', this.tt('salah_view_timings'))}
           ${vbtn('quiz', '❓', this.tt('salah_view_quiz'))}
-          ${vbtn('resources', '🔗', this.tt('salah_view_resources'))}
+          ${vbtn('resources', '📚', this.tt('salah_view_resources'))}
         </div>
       </div>`;
   }
@@ -527,20 +595,75 @@ class SalahModule {
     const viewBtn = e.target.closest('[data-salah-view]');
     if (viewBtn) {
       this.view = viewBtn.getAttribute('data-salah-view');
-      if (this.view === 'quiz') { this.quizAnswers = {}; this.quizSubmitted = false; }
+      if (this.view === 'quiz') { this.quizAnswers = {}; this.quizSubmitted = false; this.shuffleQuiz(); }
       this.render();
       return;
     }
     const qopt = e.target.closest('[data-salah-quiz-opt]');
-    if (qopt && !this.quizSubmitted) {
+    if (qopt) {
       const [qi, oi] = qopt.getAttribute('data-salah-quiz-opt').split(':').map(Number);
-      if (!isNaN(qi) && !isNaN(oi)) { this.quizAnswers[qi] = oi; this.render(); }
+      if (!isNaN(qi) && !isNaN(oi)) {
+        this.quizAnswers[qi] = oi;
+        const allAnswered = SALAH_QUIZ.every((_, i) => this.quizAnswers[i] != null);
+        if (allAnswered && !this.quizSubmitted) this.submitQuiz();
+        else this.render();
+      }
       return;
     }
-    const qsub = e.target.closest('[data-salah-quiz-submit]');
-    if (qsub) { this.submitQuiz(); return; }
     const qreset = e.target.closest('[data-salah-quiz-reset]');
     if (qreset) { this.quizAnswers = {}; this.quizSubmitted = false; this.render(); return; }
+    const wqOpt = e.target.closest('[data-wq-opt]');
+    if (wqOpt && this.view === 'wudu-quiz') {
+      const val = wqOpt.getAttribute('data-wq-opt');
+      if (val) {
+        const [qi, oi] = val.split(':').map(Number);
+        if (!isNaN(qi) && !isNaN(oi)) {
+          this.wqAnswers[qi] = oi;
+          const allAnswered = WUDU_QUIZ.every((_, i) => this.wqAnswers[i] != null);
+          if (allAnswered) this.wqSubmitted = true;
+          this.render();
+        }
+      }
+      return;
+    }
+    const wqReset = e.target.closest('[data-wq-reset]');
+    if (wqReset) { this.wqAnswers = {}; this.wqSubmitted = false; this.render(); return; }
+    const tcBtn = e.target.closest('[data-tc-inc]');
+    if (tcBtn && this.view === 'tasbeeh') {
+      const id = tcBtn.getAttribute('data-tc-inc');
+      if (this.tcCounts[id] != null) {
+        if (this.tcCounts[id] < this.tcTargets[id]) this.tcCounts[id]++;
+        this.render();
+      }
+      return;
+    }
+    const tcReset = e.target.closest('[data-tc-reset]');
+    if (tcReset) { this.tcCounts = {}; this.render(); return; }
+    const wuduQuizBtn = e.target.closest('[data-salah-view-wq]');
+    if (wuduQuizBtn) { this.view = 'wudu-quiz'; this.wqAnswers = {}; this.wqSubmitted = false; this.render(); return; }
+    const tasbeehBtn = e.target.closest('[data-salah-view-tc]');
+    if (tasbeehBtn) { this.view = 'tasbeeh'; this.tcInit(); this.render(); return; }
+    const speakBtn = e.target.closest('[data-salah-speak]');
+    if (speakBtn) {
+      const id = speakBtn.getAttribute('data-salah-speak');
+      const dua = SALAH_DUAS.find(d => d.id === id);
+      if (dua && window.speechSynthesis) {
+        window.speechSynthesis.cancel();
+        const u = new SpeechSynthesisUtterance(dua.arabic);
+        u.lang = 'ar';
+        u.rate = 0.8;
+        window.speechSynthesis.speak(u);
+      }
+      return;
+    }
+  }
+
+  shuffleQuiz() {
+    this.quizOrder = SALAH_QUIZ.map((_, i) => i);
+    for (let i = this.quizOrder.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [this.quizOrder[i], this.quizOrder[j]] = [this.quizOrder[j], this.quizOrder[i]];
+    }
   }
 
   submitQuiz() {
@@ -606,22 +729,28 @@ class SalahModule {
   }
 
   duasHtml() {
+    const step = (id) => SALAH_STEPS.find(s => s.id === id);
     return `
       <div class="mb-6">
         <h3 class="text-base font-bold text-gray-700 dark:text-gray-200 mb-3 flex items-center gap-2">
           <span class="text-xl">🤲</span>${this.esc(this.tt('salah_duas_title'))}
         </h3>
         <div class="space-y-3">
-          ${SALAH_DUAS.map(d => `
+          ${SALAH_DUAS.map(d => {
+            const st = step(d.step);
+            return `
             <details class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-hidden">
               <summary class="flex items-center gap-2 p-3 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors list-none">
-                <span class="text-lg">${this.esc(SALAH_STEPS.find(s => s.id === d.step)?.emoji || '🤲')}</span>
-                <span class="flex-1 font-semibold text-sm text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.lc({ en: d.id.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase()), bn: '' })) || d.id}</span>
+                <span class="text-lg">${this.esc(st?.emoji || '🤲')}</span>
+                <span class="flex-1 font-semibold text-sm text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.lc(st?.title) || d.id.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase()))}</span>
                 <span class="text-gray-400 text-xs">▼</span>
               </summary>
               <div class="px-4 pb-4 space-y-2">
                 <div class="p-3 rounded-lg bg-gray-50 dark:bg-gray-700/50 text-right" dir="rtl">
                   <span class="text-xl leading-loose text-gray-800 dark:text-gray-100">${d.arabic}</span>
+                  <button type="button" data-salah-speak="${this.esc(d.id)}"
+                    class="inline-flex items-center gap-1 mt-1 px-2 py-1 rounded-md bg-primary/10 hover:bg-primary/20 text-primary text-xs font-medium transition-colors"
+                    title="${this.esc(this.tt('salah_meaning'))}">🔊 ${this.esc(this.tt('salah_meaning'))}</button>
                 </div>
                 ${d.transliteration ? `<div class="p-2 rounded-lg bg-gray-50 dark:bg-gray-700/50"><span class="block text-sm italic text-gray-600 dark:text-gray-300">${this.esc(d.transliteration)}</span></div>` : ''}
                 <div class="p-2 rounded-lg bg-primary/5">
@@ -631,7 +760,8 @@ class SalahModule {
                 ${d.count ? `<span class="inline-flex px-2 py-0.5 rounded-full bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 text-xs font-medium">${d.count}×</span>` : ''}
                 ${d.reference ? `<span class="block text-xs text-gray-400 dark:text-gray-500">📚 ${this.esc(this.lc(d.reference))}</span>` : ''}
               </div>
-            </details>`).join('')}
+            </details>`;
+          }).join('')}
         </div>
       </div>`;
   }
@@ -655,6 +785,11 @@ class SalahModule {
                 ${t.reference ? `<span class="text-[0.65rem] text-gray-400 dark:text-gray-500">📚 ${this.esc(this.lc(t.reference))}</span>` : ''}
               </div>
             </div>`).join('')}
+        </div>
+        <div class="text-center mt-2">
+          <button type="button" data-salah-view-tc
+            class="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg bg-primary text-white text-xs font-medium hover:opacity-90">
+            📿 ${this.esc(this.tt('salah_tasbeeh_counter'))}</button>
         </div>
       </div>`;
   }
@@ -684,6 +819,11 @@ class SalahModule {
           <span class="text-base font-bold text-gray-800 dark:text-gray-100">🚿 ${this.esc(this.tt('salah_ghusl_desc').split('.')[0])}</span>
           <p class="text-xs text-gray-500 dark:text-gray-400 mt-1 leading-relaxed" dir="auto">${this.esc(this.tt('salah_ghusl_desc'))}</p>
         </div>
+        <div class="text-center mt-2">
+          <button type="button" data-salah-view-wq
+            class="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg bg-primary text-white text-xs font-medium hover:opacity-90">
+            💧 ${this.esc(this.tt('salah_wudu_quiz_title'))}</button>
+        </div>
       </div>`;
   }
 
@@ -711,38 +851,168 @@ class SalahModule {
       </div>`;
   }
 
-  quizHtml() {
-    const submitted = this.quizSubmitted;
-    const total = SALAH_QUIZ.length;
-    let score = 0;
-    const answeredAll = SALAH_QUIZ.every((_, i) => this.quizAnswers[i] != null);
+  tcInit() {
+    this.tcTargets = { subhanallah: 33, alhamdulillah: 33, allahu_akbar: 33, tahlil: 1 };
+    this.tcCounts = {};
+  }
 
-    const questions = SALAH_QUIZ.map((q, qi) => {
+  resourcesHtml() {
+    return `
+      <div class="mb-6">
+        <h3 class="text-base font-bold text-gray-700 dark:text-gray-200 mb-2 flex items-center gap-2">
+          <span class="text-xl">📚</span>${this.esc(this.tt('salah_resources_title'))}
+        </h3>
+        <p class="text-sm text-gray-500 dark:text-gray-400 mb-4" dir="auto">${this.esc(this.tt('salah_resources_intro'))}</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          ${SALAH_RESOURCES.map(r => `
+            <div class="p-3 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
+              <div class="flex items-center gap-2 mb-1">
+                <span aria-hidden="true">${r.emoji}</span>
+                <span class="text-sm font-semibold text-gray-800 dark:text-gray-100">${this.esc(this.lc({ en: r.nameEn, bn: r.nameBn }))}</span>
+              </div>
+              ${r.authorEn ? `<p class="text-xs text-gray-400 dark:text-gray-500 ml-6">${this.esc(this.lc({ en: r.authorEn, bn: r.authorBn }))}</p>` : ''}
+              <p class="text-xs text-gray-500 dark:text-gray-400 mt-1 leading-relaxed ml-6" dir="auto">${this.esc(this.lc({ en: r.descEn, bn: r.descBn }))}</p>
+              <span class="inline-block mt-1 ml-6 px-1.5 py-0.5 rounded text-[0.6rem] font-medium uppercase tracking-wider
+                ${r.type === 'book' ? 'bg-blue-100 dark:bg-blue-900/30 text-blue-600 dark:text-blue-300' :
+                  r.type === 'web' ? 'bg-green-100 dark:bg-green-900/30 text-green-600 dark:text-green-300' :
+                  r.type === 'video' ? 'bg-purple-100 dark:bg-purple-900/30 text-purple-600 dark:text-purple-300' :
+                  'bg-orange-100 dark:bg-orange-900/30 text-orange-600 dark:text-orange-300'}">${this.esc(r.type)}</span>
+            </div>`).join('')}
+        </div>
+      </div>`;
+  }
+
+  tasbeehCounterHtml() {
+    const items = [
+      { id: 'subhanallah', ar: 'سُبْحَانَ اللَّهِ', tr: 'Subhanallah', meaning: { en: 'Glory be to Allah', bn: 'আল্লাহ পবিত্র' } },
+      { id: 'alhamdulillah', ar: 'الْحَمْدُ لِلَّهِ', tr: 'Alhamdulillah', meaning: { en: 'All praise is for Allah', bn: 'সমস্ত প্রশংসা আল্লাহর জন্য' } },
+      { id: 'allahu_akbar', ar: 'اللَّهُ أَكْبَرُ', tr: 'Allahu Akbar', meaning: { en: 'Allah is the Greatest', bn: 'আল্লাহ সর্বশ্রেষ্ঠ' } },
+      { id: 'tahlil', ar: 'لَا إِلَٰهَ إِلَّا اللَّهُ', tr: 'La ilaha illallah', meaning: { en: 'There is no god but Allah', bn: 'আল্লাহ ছাড়া কোনো উপাস্য নেই' } },
+    ];
+    const allDone = items.every(it => (this.tcCounts[it.id] || 0) >= (this.tcTargets[it.id] || 33));
+    return `
+      <div class="mb-6">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="text-2xl">📿</span>
+          <h3 class="text-base font-bold text-gray-800 dark:text-gray-100">${this.esc(this.tt('salah_tasbeeh_counter'))}</h3>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          ${items.map(it => {
+            const cnt = this.tcCounts[it.id] || 0;
+            const tgt = this.tcTargets[it.id] || 33;
+            const done = cnt >= tgt;
+            const pct = Math.min(100, Math.round((cnt / tgt) * 100));
+            return `
+            <div class="p-4 rounded-xl bg-white dark:bg-gray-800 border ${done ? 'border-green-300 dark:border-green-700' : 'border-gray-200 dark:border-gray-700'}">
+              <div class="text-right mb-2" dir="rtl">
+                <span class="text-lg leading-loose text-gray-800 dark:text-gray-100">${it.ar}</span>
+              </div>
+              <p class="text-xs italic text-gray-500 dark:text-gray-400 mb-1">${it.tr}</p>
+              <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">${this.esc(this.lc(it.meaning))}</p>
+              <div class="flex items-center gap-3">
+                <button type="button" data-tc-inc="${it.id}"
+                  class="flex-1 py-2 rounded-lg text-sm font-medium transition-colors
+                    ${done ? 'bg-green-100 dark:bg-green-900/30 text-green-600 dark:text-green-300 cursor-default' : 'bg-primary text-white hover:opacity-90'}">
+                  ${done ? '✓ ' + this.esc(this.tt('salah_quiz_submit')) : cnt + ' / ' + tgt}
+                </button>
+              </div>
+              <div class="mt-2 w-full bg-gray-200 dark:bg-gray-700 rounded-full h-1.5">
+                <div class="h-1.5 rounded-full transition-all duration-300 ${done ? 'bg-green-500' : 'bg-primary'}" style="width:${pct}%"></div>
+              </div>
+            </div>`;
+          }).join('')}
+        </div>
+        ${allDone ? `
+        <div class="text-center mt-4 p-4 rounded-xl bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-800">
+          <p class="text-sm font-semibold text-green-700 dark:text-green-300">✨ ${this.esc(this.tt('salah_tasbeeh_counter'))} — ${this.esc(this.tt('salah_quiz_score'))}: 100%</p>
+          <button type="button" data-tc-reset
+            class="mt-2 px-4 py-1.5 rounded-lg bg-primary text-white text-sm font-medium hover:opacity-90">${this.esc(this.tt('salah_quiz_retake'))}</button>
+        </div>` : ''}
+      </div>`;
+  }
+
+  wuduQuizHtml() {
+    const q = WUDU_QUIZ;
+    const total = q.length;
+    let score = 0;
+    const answeredAll = q.every((_, i) => this.wqAnswers[i] != null);
+    if (this.wqSubmitted) q.forEach((qq, i) => { if (this.wqAnswers[i] === qq.correct) score++; });
+    return `
+      <div class="mb-6">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="text-2xl">💧</span>
+          <h3 class="text-base font-bold text-gray-800 dark:text-gray-100">${this.esc(this.tt('salah_wudu_quiz_title'))}</h3>
+        </div>
+        ${q.map((qq, i) => {
+          const sel = this.wqAnswers[i];
+          const answered = sel != null;
+          return `
+          <div class="mb-3 p-3 rounded-xl bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700">
+            <p class="font-semibold text-sm text-gray-800 dark:text-gray-100 mb-2" dir="auto">${i + 1}. ${this.esc(this.lc({ en: qq.qEn, bn: qq.qBn }))}</p>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+              ${qq.optsEn.map((o, oi) => {
+                let cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-200 hover:border-primary';
+                if (answered) {
+                  if (oi === qq.correct) cls = 'bg-green-50 dark:bg-green-900/20 border-green-400 dark:border-green-700 text-green-700 dark:text-green-300';
+                  else if (oi === sel) cls = 'bg-red-50 dark:bg-red-900/20 border-red-400 dark:border-red-700 text-red-700 dark:text-red-300';
+                  else cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-400 dark:text-gray-500';
+                } else if (oi === sel) {
+                  cls = 'bg-primary/10 border-primary text-primary';
+                }
+                return `<button type="button" data-wq-opt="${i}:${oi}"
+                  class="w-full text-left px-3 py-2 rounded-lg border text-sm transition-colors ${cls}" dir="auto">${this.esc(this.lc({ en: o, bn: qq.optsBn[oi] }))}</button>`;
+              }).join('')}
+            </div>
+          </div>`;
+        }).join('')}
+        ${this.wqSubmitted ? `
+        <div class="text-center py-4">
+          <div class="inline-flex flex-col items-center gap-1 px-6 py-3 rounded-xl bg-primary/5">
+            <span class="text-sm text-gray-500 dark:text-gray-400">${this.esc(this.tt('salah_quiz_score'))}</span>
+            <span class="text-2xl font-bold text-primary">${score} / ${total}</span>
+          </div>
+          <div class="mt-3">
+            <button type="button" data-wq-reset
+              class="px-4 py-2 rounded-lg bg-primary text-white text-sm font-medium hover:opacity-90">${this.esc(this.tt('salah_quiz_retake'))}</button>
+          </div>
+        </div>` : (!answeredAll ? '<p class="text-xs text-gray-400 text-center mt-2">' + this.esc(this.tt('salah_quiz_hint')) + '</p>' : '')}
+      </div>`;
+  }
+
+  quizHtml() {
+    const order = this.quizOrder || SALAH_QUIZ.map((_, i) => i);
+    const total = order.length;
+    let score = 0;
+    const answeredAll = order.every(i => this.quizAnswers[i] != null);
+    if (this.quizSubmitted) order.forEach(i => { if (this.quizAnswers[i] === SALAH_QUIZ[i].correct) score++; });
+
+    const questions = order.map((qi, displayIdx) => {
+      const q = SALAH_QUIZ[qi];
       const sel = this.quizAnswers[qi];
+      const answered = sel != null;
       const opts = q.optsEn.map((_, oi) => ({ en: q.optsEn[oi], bn: q.optsBn[oi] }));
-      if (submitted && sel === q.correct) score++;
       const optHtml = opts.map((o, oi) => {
         const chosen = sel === oi;
         let cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-200 hover:border-primary';
         let mark = '';
-        if (submitted) {
+        if (answered) {
           if (oi === q.correct) { cls = 'bg-green-50 dark:bg-green-900/20 border-green-400 dark:border-green-700 text-green-700 dark:text-green-300'; mark = ' ✓'; }
           else if (chosen) { cls = 'bg-red-50 dark:bg-red-900/20 border-red-400 dark:border-red-700 text-red-700 dark:text-red-300'; mark = ' ✗'; }
           else { cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-400 dark:text-gray-500'; }
         } else if (chosen) {
           cls = 'bg-primary/10 border-primary text-primary';
         }
-        return `<button type="button" ${submitted ? 'disabled' : ''} data-salah-quiz-opt="${qi}:${oi}"
+        return `<button type="button" data-salah-quiz-opt="${qi}:${oi}"
           class="w-full text-left px-3 py-2 rounded-lg border text-sm transition-colors ${cls}" dir="auto">${this.esc(this.lc(o))}${mark}</button>`;
       }).join('');
       return `
         <div class="p-3 rounded-xl bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700">
-          <p class="font-semibold text-sm text-gray-800 dark:text-gray-100 mb-2" dir="auto">${qi + 1}. ${this.esc(this.lc({ en: q.qEn, bn: q.qBn }))}</p>
+          <p class="font-semibold text-sm text-gray-800 dark:text-gray-100 mb-2" dir="auto">${displayIdx + 1}. ${this.esc(this.lc({ en: q.qEn, bn: q.qBn }))}</p>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">${optHtml}</div>
         </div>`;
     }).join('');
 
-    const footer = submitted
+    const footer = this.quizSubmitted
       ? `<div class="text-center py-6">
            <div class="inline-flex flex-col items-center gap-1 px-6 py-4 rounded-xl bg-primary/5">
              <span class="text-sm text-gray-500 dark:text-gray-400">${this.esc(this.tt('salah_quiz_score'))}</span>
@@ -754,11 +1024,7 @@ class SalahModule {
                class="px-4 py-2 rounded-lg bg-primary text-white text-sm font-medium hover:opacity-90">${this.esc(this.tt('salah_quiz_retake'))}</button>
            </div>
          </div>`
-      : `<div class="text-center pt-4 pb-6">
-           <button type="button" data-salah-quiz-submit ${answeredAll ? '' : 'disabled'}
-             class="px-5 py-2 rounded-lg text-sm font-medium transition-colors ${answeredAll ? 'bg-primary text-white hover:opacity-90 cursor-pointer' : 'bg-gray-200 dark:bg-gray-700 text-gray-400 dark:text-gray-500 cursor-not-allowed'}">${this.esc(this.tt('salah_quiz_submit'))}</button>
-           ${answeredAll ? '' : `<p class="text-xs text-gray-400 dark:text-gray-500 mt-2">${this.esc(this.tt('salah_quiz_hint'))}</p>`}
-         </div>`;
+      : '';
 
     return `
       <div class="text-center mb-4">
@@ -769,38 +1035,6 @@ class SalahModule {
       ${footer}`;
   }
 
-  resourcesHtml() {
-    const typeMap = {
-      book:    { label: this.tt('salah_resources_book'),    cls: 'bg-indigo-100 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-300' },
-      web:     { label: this.tt('salah_resources_web'),     cls: 'bg-sky-100 dark:bg-sky-900/30 text-sky-600 dark:text-sky-300' },
-      video:   { label: this.tt('salah_resources_video'),   cls: 'bg-rose-100 dark:bg-rose-900/30 text-rose-600 dark:text-rose-300' },
-      app:     { label: this.tt('salah_resources_app'),     cls: 'bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-300' },
-    };
-    return `
-      <div class="text-center mb-4">
-        <p class="text-xs text-gray-400 dark:text-gray-500" dir="auto">${this.esc(this.tt('salah_resources_intro'))}</p>
-      </div>
-      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
-        ${SALAH_RESOURCES.map(r => {
-          const meta = typeMap[r.type] || typeMap.book;
-          const authorLine = r.authorEn || r.authorBn
-            ? `<span class="text-xs text-gray-400 dark:text-gray-500">${this.esc(this.tt('salah_resources_by'))} ${this.esc(this.lc({ en: r.authorEn, bn: r.authorBn }))}</span>`
-            : '';
-          return `
-            <div class="flex flex-col gap-2 p-4 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
-              <div class="flex items-start gap-3">
-                <span class="shrink-0 text-2xl leading-none mt-0.5" aria-hidden="true">${r.emoji}</span>
-                <div class="flex-1 min-w-0">
-                  <span class="block font-semibold text-sm text-gray-800 dark:text-gray-100 leading-snug" dir="auto">${this.esc(this.lc({ en: r.nameEn, bn: r.nameBn }))}</span>
-                  ${authorLine}
-                </div>
-              </div>
-              <p class="text-xs text-gray-500 dark:text-gray-400 leading-relaxed" dir="auto">${this.esc(this.lc({ en: r.descEn, bn: r.descBn }))}</p>
-              <span class="inline-flex self-start px-2 py-0.5 rounded-full text-[0.65rem] font-semibold ${meta.cls}">${this.esc(meta.label)}</span>
-            </div>`;
-        }).join('')}
-      </div>`;
-  }
 }
 
 document.addEventListener('DOMContentLoaded', () => {

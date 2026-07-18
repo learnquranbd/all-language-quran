@@ -47,7 +47,7 @@ class GrammarView {
   constructor() {
     this.container = document.getElementById('grammar-container');
     this.ayahs = [];
-    this.language = 'en';
+    this.language = (typeof appSettings !== 'undefined' && appSettings) ? (appSettings.get('language') || 'en') : 'en';
     this.rendered = false;
     this.filter = 'all';   // all | noun | verb | particle
     this.practiceOn = false;      // POS quiz mode toggle
@@ -71,6 +71,15 @@ class GrammarView {
 
       window.addEventListener('tabChanged', (e) => {
         if (e.detail.tabId === 'grammar' && !this.rendered) {
+          this.render();
+        }
+      });
+
+      window.addEventListener('settingChanged', (e) => {
+        if (e.detail.key !== 'language') return;
+        this.language = e.detail.value;
+        this.rendered = false;
+        if (!document.getElementById('tab-grammar').classList.contains('hidden')) {
           this.render();
         }
       });
@@ -152,7 +161,7 @@ class GrammarView {
 
     if (this.ayahs.length === 0) {
       this.container.innerHTML = `
-        <p class="text-gray-500 dark:text-gray-400 text-center py-12">${t('load_ayah_first', lang)}</p>
+        <p class="text-gray-500 dark:text-gray-400 text-center py-12" data-lang-key="load_ayah_first">${t('load_ayah_first', lang)}</p>
       `;
       return;
     }

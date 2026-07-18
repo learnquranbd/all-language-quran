@@ -487,25 +487,25 @@ class ProgressDashboard {
   computeStats() {
     const tiles = [];
     const raw = {};
-    const push = (icon, label, value, accent) => tiles.push({ icon, label, value, accent });
+    const push = (icon, label, value, accent, module) => tiles.push({ icon, label, value, accent, module });
 
     // --- 99 Names of Allah -------------------------------------------------
     const namesLearned = this._arr('namesLearned');
-    if (namesLearned) { raw.names = namesLearned.length; push('💠', this.tt('stat_names_learned', 'Names learned'), namesLearned.length + '/99', 'emerald'); }
+    if (namesLearned) { raw.names = namesLearned.length; push('💠', this.tt('stat_names_learned', 'Names learned'), namesLearned.length + '/99', 'emerald', 'names'); }
     const namesFav = this._arr('lq_names_favorites');
-    if (namesFav && namesFav.length) push('⭐', this.tt('stat_names_fav', 'Favorite names'), String(namesFav.length), 'amber');
+    if (namesFav && namesFav.length) push('⭐', this.tt('stat_names_fav', 'Favorite names'), String(namesFav.length), 'amber', 'names');
     const namesQuiz = this._maxInt(['namesQuizBest', 'namesQuizBestRev']);
-    if (namesQuiz !== null) { raw.namesQuiz = namesQuiz; push('🏅', this.tt('stat_names_quiz', 'Best names quiz'), String(namesQuiz), 'amber'); }
+    if (namesQuiz !== null) { raw.namesQuiz = namesQuiz; push('🏅', this.tt('stat_names_quiz', 'Best names quiz'), String(namesQuiz), 'amber', 'names'); }
 
     // --- Vocabulary --------------------------------------------------------
     const vocabKnown = this._arr('vocabKnown');
-    if (vocabKnown) { raw.vocab = vocabKnown.length; push('📚', this.tt('stat_vocab_known', 'Words known'), String(vocabKnown.length), 'sky'); }
+    if (vocabKnown) { raw.vocab = vocabKnown.length; push('📚', this.tt('stat_vocab_known', 'Words known'), String(vocabKnown.length), 'sky', 'vocab'); }
     const vocabFav = this._arr('lq_vocab_fav');
-    if (vocabFav && vocabFav.length) push('⭐', this.tt('stat_vocab_fav', 'Favorite words'), String(vocabFav.length), 'amber');
+    if (vocabFav && vocabFav.length) push('⭐', this.tt('stat_vocab_fav', 'Favorite words'), String(vocabFav.length), 'amber', 'vocab');
     const vocabReview = this._obj('vocabReview');
-    if (vocabReview) { const n = Object.keys(vocabReview).length; if (n) push('🔁', this.tt('stat_vocab_review', 'Words in review'), String(n), 'sky'); }
+    if (vocabReview) { const n = Object.keys(vocabReview).length; if (n) push('🔁', this.tt('stat_vocab_review', 'Words in review'), String(n), 'sky', 'vocab'); }
     const vocabQuiz = this._maxInt(['vocabQuizBest', 'vocabQuizBestRoots', 'vocabQuizBestListen']);
-    if (vocabQuiz !== null) push('🎯', this.tt('stat_vocab_quiz', 'Best vocab quiz'), String(vocabQuiz), 'sky');
+    if (vocabQuiz !== null) push('🎯', this.tt('stat_vocab_quiz', 'Best vocab quiz'), String(vocabQuiz), 'sky', 'vocab');
 
     // --- Khatmah reading plan ----------------------------------------------
     const plan = this._obj('khatmahPlan');
@@ -513,51 +513,51 @@ class ProgressDashboard {
       const done = Array.isArray(plan.done) ? plan.done.length : 0;
       const pct = Math.min(100, Math.round(done / plan.days * 100));
       raw.khatmah = pct;
-      push('📖', this.tt('stat_khatmah', 'Khatmah progress'), pct + '%', 'violet');
+      push('📖', this.tt('stat_khatmah', 'Khatmah progress'), pct + '%', 'violet', 'khatmah');
     }
 
     // --- Memorization ------------------------------------------------------
     const memStats = this._obj('memorizeStats');
     if (memStats) {
       const a = parseInt(memStats.ayahsCompleted, 10);
-      if (!isNaN(a)) { raw.memAyahs = a; push('🧠', this.tt('stat_memorize_ayahs', 'Ayahs memorized'), String(a), 'violet'); }
+      if (!isNaN(a)) { raw.memAyahs = a; push('🧠', this.tt('stat_memorize_ayahs', 'Ayahs memorized'), String(a), 'violet', 'memorize'); }
       const w = parseInt(memStats.wordsCorrect, 10);
-      if (!isNaN(w) && w) push('🗣️', this.tt('stat_memorize_words', 'Words recited'), String(w), 'violet');
+      if (!isNaN(w) && w) push('🗣️', this.tt('stat_memorize_words', 'Words recited'), String(w), 'violet', 'memorize');
     }
 
     // --- Tajweed -----------------------------------------------------------
     const tajLearned = this._arr('tajweedLearned');
-    if (tajLearned) { raw.tajweed = tajLearned.length; push('🎨', this.tt('stat_tajweed_rules', 'Tajweed rules learned'), String(tajLearned.length), 'rose'); }
+    if (tajLearned) { raw.tajweed = tajLearned.length; push('🎨', this.tt('stat_tajweed_rules', 'Tajweed rules learned'), String(tajLearned.length), 'rose', 'tajweedlearn'); }
     const tajDrill = this._obj('tajweedDrillBest');
     if (tajDrill && typeof tajDrill.score === 'number' && typeof tajDrill.total === 'number') {
-      push('🏆', this.tt('stat_tajweed_drill', 'Best tajweed drill'), tajDrill.score + '/' + tajDrill.total, 'rose');
+      push('🏆', this.tt('stat_tajweed_drill', 'Best tajweed drill'), tajDrill.score + '/' + tajDrill.total, 'rose', 'tajweedlearn');
     }
 
     // --- Word-arrange game -------------------------------------------------
     const waStreak = this._int('wa_streak');
-    if (waStreak !== null && waStreak) { raw.waStreak = waStreak; push('🧩', this.tt('stat_wordarrange_streak', 'Word-arrange streak'), String(waStreak), 'teal'); }
+    if (waStreak !== null && waStreak) { raw.waStreak = waStreak; push('🧩', this.tt('stat_wordarrange_streak', 'Word-arrange streak'), String(waStreak), 'teal', 'memorize'); }
 
     // --- Mutashabihat ------------------------------------------------------
     const mutStreak = this._int('mutashabihat:bestStreak');
-    if (mutStreak !== null && mutStreak) push('🔍', this.tt('stat_mutashabihat', 'Mutashabihat streak'), String(mutStreak), 'teal');
+    if (mutStreak !== null && mutStreak) push('🔍', this.tt('stat_mutashabihat', 'Mutashabihat streak'), String(mutStreak), 'teal', 'mutashabihat');
 
     // --- Quiz center (aggregate across all types/scopes) -------------------
     const quizBest = this._maxByPrefix('quizBest:');
-    if (quizBest !== null) push('❓', this.tt('stat_quiz_best', 'Best quiz score'), String(quizBest), 'indigo');
+    if (quizBest !== null) push('❓', this.tt('stat_quiz_best', 'Best quiz score'), String(quizBest), 'indigo', 'quiz');
     const quizStreak = this._maxByPrefix('quizStreak:');
-    if (quizStreak !== null && quizStreak) { raw.quizStreak = quizStreak; push('⚡', this.tt('stat_quiz_streak', 'Best quiz streak'), String(quizStreak), 'indigo'); }
+    if (quizStreak !== null && quizStreak) { raw.quizStreak = quizStreak; push('⚡', this.tt('stat_quiz_streak', 'Best quiz streak'), String(quizStreak), 'indigo', 'quiz'); }
 
     // --- Kids --------------------------------------------------------------
     const kidsStreak = this._int('kidsStreakCount');
     const kidsBest = this._int('kidsStreakBest');
-    if (kidsBest !== null && kidsBest) { raw.kidsStreak = kidsBest; push('🌈', this.tt('stat_kids_streak', 'Kids best streak'), String(kidsBest), 'pink'); }
-    else if (kidsStreak !== null && kidsStreak) { raw.kidsStreak = kidsStreak; push('🌈', this.tt('stat_kids_streak', 'Kids best streak'), String(kidsStreak), 'pink'); }
+    if (kidsBest !== null && kidsBest) { raw.kidsStreak = kidsBest; push('🌈', this.tt('stat_kids_streak', 'Kids best streak'), String(kidsBest), 'pink', 'kids'); }
+    else if (kidsStreak !== null && kidsStreak) { raw.kidsStreak = kidsStreak; push('🌈', this.tt('stat_kids_streak', 'Kids best streak'), String(kidsStreak), 'pink', 'kids'); }
 
     // --- Bookmarks & recent reads ------------------------------------------
     const marks = this._arr('mushafBookmarks');
-    if (marks && marks.length) push('🔖', this.tt('stat_bookmarks', 'Bookmarks'), String(marks.length), 'slate');
+    if (marks && marks.length) push('🔖', this.tt('stat_bookmarks', 'Bookmarks'), String(marks.length), 'slate', 'reading');
     const recent = this._arr('quickNavRecent');
-    if (recent && recent.length) push('🕘', this.tt('stat_recent_reads', 'Recent reads'), String(recent.length), 'slate');
+    if (recent && recent.length) push('🕘', this.tt('stat_recent_reads', 'Recent reads'), String(recent.length), 'slate', 'reading');
 
     // --- Reflection journal ------------------------------------------------
     const journal = this._arr('ponderJournal');
@@ -565,7 +565,7 @@ class ProgressDashboard {
 
     // --- Word-form (sarf) favorites ----------------------------------------
     const sarfFav = this._arr('lq_sarf_favorites');
-    if (sarfFav && sarfFav.length) push('🌿', this.tt('stat_sarf_fav', 'Saved word-forms'), String(sarfFav.length), 'lime');
+    if (sarfFav && sarfFav.length) push('🌿', this.tt('stat_sarf_fav', 'Saved word-forms'), String(sarfFav.length), 'lime', 'sarf');
 
     // --- Achievements (only earned ones are shown) -------------------------
     const ach = [];
@@ -678,7 +678,7 @@ class ProgressDashboard {
       body = `<div class="p-6 text-sm text-center text-gray-500 dark:text-gray-400">${this.tt('no_progress_yet', 'Start learning to see your progress here.')}</div>`;
     } else {
       const tileHtml = tiles.map(ti => `
-        <div class="rounded-lg border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-700/40 p-2.5">
+        <div ${ti.module ? `data-module="${ti.module}"` : ''} class="rounded-lg border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-700/40 p-2.5 ${ti.module ? 'cursor-pointer hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors' : ''}">
           <div class="flex items-center gap-1.5 text-[11px] text-gray-500 dark:text-gray-400 mb-0.5">
             <span class="leading-none">${ti.icon}</span>
             <span class="truncate">${this.escapeHtml(ti.label)}</span>
@@ -746,6 +746,13 @@ class ProgressDashboard {
   }
 
   onPanelClick(e) {
+    const tile = e.target.closest('[data-module]');
+    if (tile) {
+      const module = tile.getAttribute('data-module');
+      this.close();
+      this.navigateTo(module);
+      return;
+    }
     const el = e.target.closest('[data-action]');
     if (!el) return;
     const action = el.getAttribute('data-action');
@@ -835,6 +842,17 @@ class ProgressDashboard {
       try { localStorage.setItem(k, pending.keys[k]); written++; } catch (e) { /* private mode / quota */ }
     });
     this.flash(this.tt('import_done', 'Imported {n} items. Reopen a section to see updates.').replace('{n}', String(written)), 'green');
+  }
+
+  navigateTo(module) {
+    if (typeof tabSystem === 'undefined' || !tabSystem) return;
+    const learnModules = new Set(['names', 'vocab', 'kids', 'tajweedlearn']);
+    if (learnModules.has(module)) {
+      tabSystem.switchTab('learn');
+      window.dispatchEvent(new CustomEvent('learnModuleSelected', { detail: { module } }));
+    } else {
+      tabSystem.switchTab(module);
+    }
   }
 
   escapeHtml(s) {

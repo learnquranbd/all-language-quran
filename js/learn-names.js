@@ -40,9 +40,8 @@ class NamesOfAllah {
 
     if (this.root) this.bindListeners();
 
-    window.addEventListener('learnModuleSelected', (e) => {
-      if (e.detail && e.detail.module === 'names') {
-        // The root may be injected after this script was constructed
+    if (typeof tabSystem !== 'undefined' && tabSystem) {
+      tabSystem.onTabActive('names', () => {
         if (!this.root) {
           this.root = document.getElementById('learn-names-root');
           if (this.root) this.bindListeners();
@@ -50,9 +49,11 @@ class NamesOfAllah {
         if (!this.rendered && this.root) {
           this.rendered = true;
           this.render();
+        } else if (this.root && this.root.offsetParent !== null) {
+          this.render();
         }
-      }
-    });
+      });
+    }
 
     window.addEventListener('settingChanged', (e) => {
       if (e.detail && e.detail.key === 'language') {

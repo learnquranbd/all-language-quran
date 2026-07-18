@@ -135,7 +135,7 @@ body {
   justify-content: center;
   width: 2.5rem;
   height: 2.5rem;
-  background: linear-gradient(135deg, #1e40af, #3b82f6);
+  background: linear-gradient(135deg, #6366f1, #3b82f6);
   color: white;
   border-radius: 50%;
   font-weight: bold;
@@ -215,7 +215,7 @@ body {
 .wbw-arabic {
   font-family: 'Amiri', serif;
   font-size: 1.5rem;
-  color: #1e40af;
+  color: #6366f1;
   margin-bottom: 0.5rem;
 }
 
@@ -236,7 +236,7 @@ body {
 /* Sidebar Active Link */
 .sidebar-link.active {
   background: #dbeafe;
-  color: #1e40af;
+  color: #6366f1;
   font-weight: 500;
 }
 
@@ -279,7 +279,7 @@ body {
 /* Loading Spinner */
 .spinner {
   border: 3px solid #f3f3f3;
-  border-top: 3px solid #1e40af;
+  border-top: 3px solid #6366f1;
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -645,7 +645,7 @@ body.legacy-sidebar aside#sidebar .nav-group-parent:hover {
 /* ============================================================================
    Professional polish pass (v92)
    Additive, restrained refinements. Reuses the existing blue primary hue
-   (#1e40af → #3b82f6) and the `.dark` / `[dir="rtl"]` conventions. No layout,
+   (#6366f1 → #3b82f6) and the `.dark` / `[dir="rtl"]` conventions. No layout,
    spacing-scale, or --primary-hue changes; nothing here alters
    .ayah-arabic / .only-arabic behavior. Everything degrades gracefully and
    works in both themes and RTL. All motion is gated behind
@@ -654,9 +654,18 @@ body.legacy-sidebar aside#sidebar .nav-group-parent:hover {
    Local brand tokens (scoped to this section; do not affect existing rules):
    ========================================================================= */
 :root {
-  --lq-primary: #1e40af;
+  --color-primary: #6366f1;
+  --color-secondary: #059669;
+  --color-accent: #d97706;
+  --lq-primary: #6366f1;
   --lq-primary-2: #3b82f6;
   --lq-focus-ring: rgba(59, 130, 246, 0.55);
+}
+
+.dark {
+  --color-primary: #10b981;
+  --lq-primary: #10b981;
+  --lq-primary-2: #34d399;
 }
 
 /* ---- 1. On-brand text selection ------------------------------------------ */
@@ -785,15 +794,15 @@ html.dark,
   color: #fff;
   border: none;
   border-radius: 0.5rem;
-  box-shadow: 0 1px 2px rgba(30, 64, 175, 0.25);
+  box-shadow: 0 1px 2px rgba(99, 102, 241, 0.25);
 }
 .lq-btn-primary:hover {
-  box-shadow: 0 4px 12px rgba(30, 64, 175, 0.32);
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.32);
   filter: brightness(1.04);
 }
 .lq-btn-primary:active {
   filter: brightness(0.97);
-  box-shadow: 0 1px 2px rgba(30, 64, 175, 0.25);
+  box-shadow: 0 1px 2px rgba(99, 102, 241, 0.25);
 }
 
 /* ---- 8. Improved disabled state ------------------------------------------

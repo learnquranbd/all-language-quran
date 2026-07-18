@@ -16,7 +16,6 @@
 const LEARN_CARDS = [
   { module: 'kids',         emoji: '🧒', grad: 'from-amber-400 to-orange-500',  title: 'learn_kids_title',     desc: 'learn_kids_desc',      level: 'learn_level_beginner' },
   { module: 'vocab',        emoji: '📚', grad: 'from-sky-400 to-blue-600',      title: 'learn_vocab_title',    desc: 'learn_vocab_desc',     level: 'learn_level_beginner' },
-  { module: 'names',        emoji: '✨', grad: 'from-violet-400 to-purple-600', title: 'learn_names_title',    desc: 'learn_names_desc',     level: 'learn_level_intermediate' },
   { module: 'handwriting',  emoji: '✍️', grad: 'from-rose-400 to-pink-600',     title: 'hw_title',             desc: 'hw_subtitle',          level: 'learn_level_beginner' },
   { module: 'memorize',     emoji: '🎙️', grad: 'from-emerald-400 to-green-600', title: 'learn_memorize_title', desc: 'learn_memorize_desc',  level: 'learn_level_advanced' },
   { module: 'tajweedlearn', emoji: '🎨', grad: 'from-cyan-400 to-teal-600',     title: 'tj_learn_title',       desc: 'tj_learn_subtitle',    level: 'learn_level_intermediate' }
@@ -67,9 +66,7 @@ class LearnHub {
     this.roots = {
       kids: document.getElementById('learn-kids-root'),
       vocab: document.getElementById('learn-vocab-root'),
-      names: document.getElementById('learn-names-root'),
-      handwriting: document.getElementById('handwriting-root'),
-      salah: document.getElementById('learn-prayer-root')
+      handwriting: document.getElementById('handwriting-root')
     };
     this.backBar = document.getElementById('learn-back');
     this.language = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
@@ -91,7 +88,7 @@ class LearnHub {
     window.addEventListener('learnModuleSelected', (e) => {
       if (this.roots[e.detail.module]) {
         this.rememberModule(e.detail.module);
-        this.showModule(e.detail.module, false);
+        this.showModule(e.detail.module, false, true);
       }
     });
 
@@ -185,13 +182,6 @@ class LearnHub {
         const started = knownN > 0 || (review && Object.keys(review).length > 0);
         return { started, pct: total ? Math.round((knownN / total) * 100) : null, done: knownN, total, due, learned: knownN, chips };
       }
-      case 'names': {
-        // learn-names.js: 'namesLearned' (array of learned name numbers)
-        const arr = this.lsJSON('namesLearned', []);
-        const n = Array.isArray(arr) ? arr.length : 0;
-        const total = (typeof NAMES_99 !== 'undefined') ? NAMES_99.length : 99;
-        return { started: n > 0, pct: total ? Math.round((n / total) * 100) : null, done: n, total, due: 0, learned: n, chips: [] };
-      }
       case 'handwriting': {
         // handwriting.js: 'hw_progress' ({key: bestPct}); >=60 counts as passed
         const prog = this.lsJSON('hw_progress', {});
@@ -213,14 +203,6 @@ class LearnHub {
         const n = Array.isArray(arr) ? arr.length : 0;
         const total = (typeof TAJWEED_LESSONS !== 'undefined') ? Object.keys(TAJWEED_LESSONS).length : 0;
         return { started: n > 0, pct: total ? Math.round((n / total) * 100) : null, done: n, total, due: 0, learned: n, chips: [] };
-      }
-      case 'salah': {
-        // learn-prayer.js: 'salahDuasLearned' (array of dua ids)
-        const sArr = this.lsJSON('salahDuasLearned', []);
-        const sN = Array.isArray(sArr) ? sArr.length : 0;
-        const sTotal = (typeof SALAH_DUAS !== 'undefined') ? SALAH_DUAS.length : 0;
-        const sStarted = sN > 0;
-        return { started: sStarted, pct: sTotal ? Math.round((sN / sTotal) * 100) : null, done: sN, total: sTotal, due: 0, learned: sN, chips: [] };
       }
     }
     return { started: false, pct: null, done: 0, total: 0, due: 0, learned: 0, chips: [] };
@@ -451,9 +433,11 @@ class LearnHub {
     }
   }
 
-  showModule(module, dispatch) {
+  showModule(module, dispatch, showBack) {
     this.hub.classList.add('hidden');
-    this.backBar.classList.remove('hidden');
+    if (showBack !== undefined) {
+      this.backBar.classList.toggle('hidden', !showBack);
+    }
     Object.entries(this.roots).forEach(([name, root]) => {
       root.classList.toggle('hidden', name !== module);
     });

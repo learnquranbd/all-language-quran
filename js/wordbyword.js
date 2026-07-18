@@ -8,7 +8,7 @@ class WordByWord {
   constructor() {
     this.container = document.getElementById('wbw-container');
     this.ayahs = [];
-    this.language = 'en';
+    this.language = (typeof appSettings !== 'undefined' && appSettings) ? (appSettings.get('language') || 'en') : 'en';
     this.wordAudio = new Audio();
     this.prefs = this.loadPrefs();   // remembered display preferences
 
@@ -21,6 +21,11 @@ class WordByWord {
 
       this.container.addEventListener('click', (e) => this.onClick(e));
       window.addEventListener('audioStateChanged', (e) => this.syncAudio(e.detail));
+      window.addEventListener('settingChanged', (e) => {
+        if (e.detail.key !== 'language') return;
+        this.language = e.detail.value;
+        this.render();
+      });
       this.createDetailPanel();
     }
   }
@@ -38,7 +43,7 @@ class WordByWord {
   render() {
     if (this.ayahs.length === 0) {
       this.container.innerHTML = `
-        <p class="text-gray-500 dark:text-gray-400 text-center py-12">${t('load_ayah_first', this.language)}</p>
+        <p class="text-gray-500 dark:text-gray-400 text-center py-12" data-lang-key="load_ayah_first">${t('load_ayah_first', this.language)}</p>
       `;
       return;
     }
