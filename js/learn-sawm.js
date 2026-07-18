@@ -226,7 +226,7 @@ class SawmModule {
           <div class="space-y-3">
             <div class="p-3 rounded-xl bg-gray-50 dark:bg-gray-900/40">
               <div class="text-sm font-semibold text-gray-700 dark:text-gray-200">🌌 ${L({ en: 'Before Fajr — Suhur & Niyyah', bn: 'ফজরের আগে — সেহরি ও নিয়ত' })}</div>
-              <p class="text-xs text-gray-500 dark:text-gray-400 mt-1" dir="auto">${L({ en: 'Eat suhur — even a sip of water. Make the intention to fast for Allah. Stop eating at the second call of Fajr.', bn: 'সেহরি খান — এক ঢোক পানি হলেও। আল্লাহর জন্য রোজার নিয়ত করুন। ফজরের দ্বিতীয় আজানের সাথে পানাহার বন্ধ করুন।' })}</p>
+              <p class="text-xs text-gray-500 dark:text-gray-400 mt-1" dir="auto">${L({ en: 'Eat suhur — even a sip of water. Make the intention to fast for Allah. Eating and drinking are allowed until Subh Sadiq (true dawn, when Fajr time begins); stop at that point.', bn: 'সেহরি খান — এক ঢোক পানি হলেও। আল্লাহর জন্য রোজার নিয়ত করুন। সুবহে সাদিক (ফজরের ওয়াক্ত শুরু হওয়ার সময়) পর্যন্ত পানাহার করা যায়; সুবহে সাদিক হলে খাওয়া-দাওয়া বন্ধ করুন।' })}</p>
             </div>
             <div class="p-3 rounded-xl bg-gray-50 dark:bg-gray-900/40">
               <div class="text-sm font-semibold text-gray-700 dark:text-gray-200">🕌 ${L({ en: 'Fajr → Dhuhr', bn: 'ফজর → যোহর' })}</div>
