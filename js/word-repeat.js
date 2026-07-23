@@ -68,6 +68,22 @@ class WordRepeat {
         wr_most_repeated: 'সর্বাধিক পুনরাবৃত্ত', wr_avg_rep: 'গড়/শব্দ', wr_find_in_search: 'সার্চে খুঁজুন',
         wr_showing: 'দেখানো হচ্ছে', wr_of: 'এর মধ্যে', wr_no_match: 'আপনার ফিল্টারে কোনো শব্দ মেলেনি।',
         wr_speed: 'গতি', wr_reps: 'পুনরাবৃত্তি', wr_session: 'সেশন পুনরাবৃত্তি'
+      },
+      zh: {
+        wr_sort: '排序', wr_sort_count: '出现最多', wr_sort_first: '首次出现',
+        wr_sort_alpha: '按字母顺序', wr_min_count: '最少 ×', wr_filter_ph: '过滤词…',
+        wr_copy_list: '复制列表', wr_top_words: '高频词', wr_overview: '概览',
+        wr_most_repeated: '出现最多', wr_avg_rep: '平均/词', wr_find_in_search: '在搜索中查找',
+        wr_showing: '显示', wr_of: '条/共', wr_no_match: '没有匹配的术语。',
+        wr_speed: '速度', wr_reps: '重复', wr_session: '本次重复'
+      },
+      ja: {
+        wr_sort: '並び替え', wr_sort_count: '最多出現', wr_sort_first: '初出',
+        wr_sort_alpha: 'アルファベット順', wr_min_count: '最小 ×', wr_filter_ph: '単語をフィルター…',
+        wr_copy_list: 'リストをコピー', wr_top_words: '頻出単語', wr_overview: '概要',
+        wr_most_repeated: '最多出現', wr_avg_rep: '平均/語', wr_find_in_search: '検索で探す',
+        wr_showing: '表示中', wr_of: '件中', wr_no_match: '条件に一致する用語はありません。',
+        wr_speed: '速度', wr_reps: '繰り返し', wr_session: 'セッション回数'
       }
     };
 

@@ -514,6 +514,14 @@ const HW_FATIHA_STROKES = [
       {
         letter: 'ي', context: 'الرَّحِيمِ',
         tip: { en: 'In Raḥīm the Yā expresses the long /ī/ vowel. Its medial form is a flat curved connector — no dots in this position; dots come only in isolated or final forms.', bn: 'রাহিমে ইয়া দীর্ঘ /ঈ/ স্বর প্রকাশ করে। এর মধ্যবর্তী রূপ একটি সমতল বাঁকা সংযোগকারী — এই অবস্থানে বিন্দু নেই; বিন্দু শুধু বিচ্ছিন্ন বা চূড়ান্ত রূপে।' }
+      },
+      {
+        letter: 'ن', context: 'الرَّحْمَٰنِ',
+        tip: { en: 'Final Nūn in Raḥmān carries a kasra (ni). Write the bowl so it dips clearly below the baseline, add the single dot above, then place the kasra beneath — three marks in precise sequence. Students often place the kasra before the dot, which crowds the area below the letter.', bn: 'রাহমানের শেষ নুনে কাসরা (নি)। বাটি স্পষ্টভাবে বেসলাইনের নিচে নামিয়ে লিখুন, উপরে একটি বিন্দু, তারপর নিচে কাসরা — সুনির্দিষ্ট ক্রমে তিনটি চিহ্ন। শিক্ষার্থীরা প্রায়ই বিন্দুর আগে কাসরা দেয়, যা অক্ষরের নিচের জায়গা সংকুচিত করে।' }
+      },
+      {
+        letter: 'ل', context: 'الرَّحْمَٰنِ',
+        tip: { en: 'The article Lām connects directly to the following Rā — but Rā is a non-connector, so Lām must complete its forward stroke and stop. Lām provides the connection outward; Rā refuses a backward join. Practice the Lām-to-Rā hand movement as a deliberate pen-lift at the junction.', bn: 'আর্টিকেল লাম সরাসরি পরবর্তী রার সাথে সংযুক্ত হয় — কিন্তু রা নন-কানেক্টর, তাই লামকে তার সামনের স্ট্রোক সম্পন্ন করে থামতে হয়। লাম বাইরের সংযোগ দেয়; রা পেছন থেকে সংযোগ নেয় না। লাম-থেকে-রা হাতের চলন সংযোগস্থলে ইচ্ছাকৃত কলম তোলা হিসেবে অনুশীলন করুন।' }
       }
     ]
   },
@@ -726,5 +734,468 @@ const HW_KHAT_STYLES = [
         bn: 'কুরআনিক ব্যবহার: কিছু উর্দুভাষী সম্প্রদায় কুরআন মুদ্রণে নাসতালিক ব্যবহার করে (দক্ষিণ এশিয়ায় সাধারণ "তাজ" মুসহাফ)। তবে বৈশ্বিক কুরআনের প্রধান মান নাসখ/উসমানিই থেকে গেছে। দক্ষিণ এশীয় ও ইরানী মুসলমানদের জন্য নাসতালিক চেনা গুরুত্বপূর্ণ।'
       }
     ]
+  },
+];
+
+/**
+ * Tips for writing in the Kūfī calligraphic style.
+ * Kūfī is angular and geometric — no curves, all strokes are straight lines at 90° or 45°.
+ * Each entry covers one letter or ligature with bilingual guidance.
+ */
+const HW_KUFI_TIPS = [
+  {
+    letter: 'ا',
+    tipEn: 'Kufi Alif is a perfectly vertical stroke with a flat horizontal serif at the base and a flat cap at the top — no curves at all. Height equals the module unit (rhombus dot) repeated five times. Common mistake: curving the foot, which makes it look like a Naskh Alif.',
+    tipBn: 'কুফি আলিফ সম্পূর্ণ উল্লম্ব রেখা — নিচে সমতল অনুভূমিক সেরিফ ও উপরে সমতল ক্যাপ, কোনো বক্ররেখা নেই। উচ্চতা মডিউল একক (রম্বাস বিন্দু) পাঁচ গুণ সমান। ভুল: পাদস্থান বাঁকালে নাসখ আলিফের মতো দেখায়।'
+  },
+  {
+    letter: 'ب',
+    tipEn: 'Kufi Ba is a flat horizontal bar on the baseline with strict right angles at both ends — no curved bowl. The bar should be slightly wider than one module unit. Place the sub-dot directly below the centre of the bar.',
+    tipBn: 'কুফি বা বেসলাইনে সমতল অনুভূমিক বার, উভয় প্রান্তে সমকোণ — কোনো বাঁকা বাটি নেই। বার একটি মডিউল এককের চেয়ে সামান্য চওড়া হওয়া উচিত। উপ-বিন্দু সরাসরি বারের কেন্দ্রের নিচে।'
+  },
+  {
+    letter: 'ل',
+    tipEn: 'Kufi Lam is a tall, perfectly straight vertical stroke with a clear horizontal foot extending slightly left. All joints are 90° — no curves anywhere. Height is typically double the module width. The foot must not taper or curve.',
+    tipBn: 'কুফি লাম লম্বা, সম্পূর্ণ সোজা উল্লম্ব রেখা, সামান্য বামে প্রসারিত স্পষ্ট অনুভূমিক পাদস্থান সহ। সমস্ত কোণ ৯০° — কোথাও বক্ররেখা নেই। উচ্চতা সাধারণত মডিউল প্রস্থের দ্বিগুণ। পাদস্থান সরু বা বাঁকা হওয়া উচিত নয়।'
+  },
+  {
+    letter: 'م',
+    tipEn: 'Kufi Mim is a closed diamond or compact square on the baseline, built in four straight strokes: top bar (right-to-left), left vertical (down), base bar (left-to-right), right vertical (up to close). No rounded loops at all.',
+    tipBn: 'কুফি মিম বেসলাইনে বন্ধ হীরা বা সংহত বর্গ, চারটি সোজা রেখায়: উপরের বার (ডান থেকে বাম), বাম উল্লম্ব (নিচে), ভিত্তি বার (বাম থেকে ডান), ডান উল্লম্ব (বন্ধ করতে উপরে)। কোনো গোলাকার লুপ নেই।'
+  },
+  {
+    letter: 'ن',
+    tipEn: 'Kufi Nun is a flat horizontal bar on the baseline — like Ba but slightly shorter. It does not descend below the baseline as in Naskh. The single sub-dot sits below the centre of the bar. Keep the bar perfectly level.',
+    tipBn: 'কুফি নুন বেসলাইনে সমতল অনুভূমিক বার — বার মতো কিন্তু সামান্য ছোট। নাসখের মতো বেসলাইনের নিচে নামে না। একটি উপ-বিন্দু বারের কেন্দ্রের নিচে। বার সম্পূর্ণ সমতল রাখুন।'
+  },
+  {
+    letter: 'ع',
+    tipEn: 'Kufi Ayn is an angular bracket or sharp V-shape — not a curved eye as in Naskh. The opening faces right; both arms meet at a pointed apex. All joints are 90° or 45°. The medial Kufi form is a simple right-angle connector.',
+    tipBn: 'কুফি আইন কোণাকুণি বন্ধনী বা তীক্ষ্ণ V-আকৃতি — নাসখের মতো বাঁকা চোখ নয়। খোলা মুখ ডানদিকে, উভয় বাহু একটি তীক্ষ্ণ শীর্ষে মেলে। সমস্ত কোণ ৯০° বা ৪৫°। মধ্যবর্তী কুফি রূপ একটি সরল সমকোণ সংযোগকারী।'
+  },
+  {
+    letter: 'ص',
+    tipEn: 'Kufi Sad is a rectangle open on the right side, built entirely with straight horizontal and vertical lines. The right-side entry is a short vertical tab — not a curve. The exit tail is a short horizontal bar extending left at baseline level.',
+    tipBn: 'কুফি সোয়াদ ডান দিকে খোলা আয়তক্ষেত্র, সম্পূর্ণ সোজা অনুভূমিক ও উল্লম্ব রেখায়। ডান প্রবেশ একটি ছোট উল্লম্ব ট্যাব — বক্ররেখা নয়। বের হওয়ার লেজ বেসলাইন স্তরে বামে প্রসারিত ছোট অনুভূমিক বার।'
+  },
+  {
+    letter: 'لا',
+    tipEn: 'The Kufi Lam-Alif ligature forms a symmetrical open triangle. Both strokes rise from a shared baseline point: Lam rises straight up and Alif leans slightly outward. Both arms must be equal in length. No cross-bar — it is an open V.',
+    tipBn: 'কুফি লাম-আলিফ লিগেচার প্রতিসমতিক খোলা ত্রিভুজ তৈরি করে। উভয় রেখা একটি ভাগ করা বেসলাইন বিন্দু থেকে ওঠে: লাম সরাসরি উপরে, আলিফ সামান্য বাইরে হেলে। উভয় বাহু দৈর্ঘ্যে সমান। কোনো ক্রস-বার নেই — এটি একটি খোলা V।'
+  },
+  {
+    letter: 'ك',
+    tipEn: 'Kufi Kaf is a stepped double-bar form: a wide horizontal base topped by a shorter bar at mid-height, joined on the right by a right-angle vertical. The inner diagonal mark of Naskh Kaf does not appear in Kufi — only the two stepped bars.',
+    tipBn: 'কুফি কাফ ধাপযুক্ত দ্বি-বার আকৃতি: মধ্য-উচ্চতায় ছোট বার সহ প্রশস্ত অনুভূমিক ভিত্তি, ডান দিকে সমকোণ উল্লম্ব দ্বারা সংযুক্ত। নাসখ কাফের ভেতরের তির্যক চিহ্ন কুফিতে দেখা যায় না — কেবল দুটি ধাপযুক্ত বার।'
+  },
+  {
+    letter: 'ه',
+    tipEn: 'Kufi Ha in isolated form is a small closed square above the baseline, drawn in four straight strokes. No rounded loops. In connected forms it reduces to a small square tab attached to the connecting line. Keep all four sides equal in length.',
+    tipBn: 'বিচ্ছিন্ন রূপে কুফি হা বেসলাইনের উপরে ছোট বন্ধ বর্গ, চারটি সোজা রেখায়। কোনো গোলাকার লুপ নেই। সংযুক্ত রূপে এটি সংযোগকারী রেখার সাথে সংযুক্ত ছোট বর্গাকার ট্যাবে পরিণত হয়। চারটি বাহু সমান রাখুন।'
+  },
+];
+
+/**
+ * Arabic-Indic numerals (٠–٩) as used in Quran verse markers and traditional Arabic texts.
+ * Each entry includes the digit (0–9), the Arabic-Indic glyph, bilingual names, and a writing tip.
+ */
+const HW_NUMBERS = [
+  {
+    digit: 0,
+    arabicNumeral: '٠',
+    name_en: 'Sifr (zero)',
+    name_bn: 'সিফর (শূন্য)',
+    tip_en: 'A small open oval, noticeably narrower than the Western zero. It must be visibly smaller than the surrounding letter-height. Common mistake: drawing it so large it is confused with the letter Mim or Waw.',
+    tip_bn: 'ছোট খোলা ডিম্বাকৃতি, পশ্চিমা শূন্যের চেয়ে স্পষ্টভাবে সরু। পার্শ্ববর্তী অক্ষরের উচ্চতার চেয়ে ছোট হতে হবে। ভুল: এত বড় করা যে মিম বা ওয়াওয়ের সাথে গুলিয়ে যায়।'
+  },
+  {
+    digit: 1,
+    arabicNumeral: '١',
+    name_en: 'Wahid (one)',
+    name_bn: 'ওয়াহিদ (এক)',
+    tip_en: 'A short vertical stroke, similar to Alif but much smaller and without serifs. Keep it straight and compact — it should be clearly shorter than any Alif beside it.',
+    tip_bn: 'ছোট উল্লম্ব রেখা, আলিফের মতো কিন্তু অনেক ছোট ও সেরিফ ছাড়া। সোজা ও সংহত রাখুন — পাশের যেকোনো আলিফের চেয়ে স্পষ্টভাবে ছোট হওয়া উচিত।'
+  },
+  {
+    digit: 2,
+    arabicNumeral: '٢',
+    name_en: 'Ithnan (two)',
+    name_bn: 'ইছনান (দুই)',
+    tip_en: 'A compact shape like a reversed Z: a short top bar, a diagonal descending connector, then a base bar. In Quran printing it often appears as a small stylised shape with a flat base. Keep all three elements proportionate.',
+    tip_bn: 'উল্টো Z-এর মতো সংহত আকৃতি: ছোট উপরের বার, তির্যক অবরোহী সংযোগকারী, তারপর ভিত্তি বার। কুরআন মুদ্রণে প্রায়ই সমতল ভিত্তিসহ ছোট শৈলীযুক্ত আকৃতিতে দেখায়। তিনটি উপাদান সামঞ্জস্যপূর্ণ রাখুন।'
+  },
+  {
+    digit: 3,
+    arabicNumeral: '٣',
+    name_en: 'Thalatha (three)',
+    name_bn: 'ছালাছা (তিন)',
+    tip_en: 'Three short horizontal strokes stacked vertically — like three equal shelves of the same length. Common mistake: making them different lengths or tilting them; they must be parallel and equal.',
+    tip_bn: 'তিনটি ছোট অনুভূমিক রেখা উল্লম্বভাবে স্ট্যাক করা — একই দৈর্ঘ্যের তিনটি সমান তাকের মতো। ভুল: বিভিন্ন দৈর্ঘ্য বা কাত করা; সমান্তরাল ও সমান হতে হবে।'
+  },
+  {
+    digit: 4,
+    arabicNumeral: '٤',
+    name_en: 'Arba\u02BFa (four)',
+    name_bn: 'আরবাআ (চার)',
+    tip_en: 'Resembles a backwards-3 or rotated epsilon: a concave arc opening left, with a small horizontal notch at the midpoint. In Quran verse markers it is often stylised — keep the two arcs equal in size.',
+    tip_bn: 'উল্টো-৩ বা ঘোরানো এপসিলনের মতো: বাম দিকে খোলা অবতল চাপ, মধ্যবিন্দুতে ছোট অনুভূমিক খাঁজ সহ। কুরআন আয়াত চিহ্নে প্রায়ই শৈলীযুক্ত — দুটি চাপ সমান আকারের রাখুন।'
+  },
+  {
+    digit: 5,
+    arabicNumeral: '٥',
+    name_en: 'Khamsa (five)',
+    name_bn: 'খামসা (পাঁচ)',
+    tip_en: 'A small circle or teardrop with a distinct hook or short tail at the top. The circle must be clean and fully closed. The top hook is the only visible difference from zero — do not omit it.',
+    tip_bn: 'উপরে স্বতন্ত্র হুক বা ছোট লেজ সহ ছোট বৃত্ত বা অশ্রু আকৃতি। বৃত্ত পরিষ্কার ও সম্পূর্ণ বন্ধ হতে হবে। উপরের হুকই শূন্য থেকে একমাত্র দৃশ্যমান পার্থক্য — এটি বাদ দেবেন না।'
+  },
+  {
+    digit: 6,
+    arabicNumeral: '٦',
+    name_en: 'Sitta (six)',
+    name_bn: 'সিত্তা (ছয়)',
+    tip_en: 'A backwards-6 shape: a curved head at the top opening to the right, with a tail that descends and curves left to end on the baseline. Draw the head first, then bring the stroke down and left.',
+    tip_bn: 'উল্টো-৬ আকৃতি: উপরে ডানদিকে খোলা বাঁকা মাথা, বেসলাইনে শেষ হওয়া বামে বাঁকা নামা লেজ সহ। প্রথমে মাথা আঁকুন, তারপর রেখাটি নিচে ও বামে আনুন।'
+  },
+  {
+    digit: 7,
+    arabicNumeral: '٧',
+    name_en: 'Sab\u02BFa (seven)',
+    name_bn: 'সাব্আ (সাত)',
+    tip_en: 'A V-shape with a horizontal bar across the top. Draw the top bar first (right-to-left), then the left arm descending diagonally, then the right arm. Keep the V balanced and the top bar centred above the apex.',
+    tip_bn: 'উপরে অনুভূমিক বার সহ V-আকৃতি। প্রথমে উপরের বার (ডান থেকে বাম), তারপর তির্যকভাবে নামা বাম বাহু, তারপর ডান বাহু। V সুষম এবং উপরের বার শীর্ষের উপরে কেন্দ্রীভূত রাখুন।'
+  },
+  {
+    digit: 8,
+    arabicNumeral: '٨',
+    name_en: 'Thamaniya (eight)',
+    name_bn: 'ছামানিয়া (আট)',
+    tip_en: 'A wide V or downward-opening arc — not two loops like Western 8. Draw a smooth downward arc like a cup or bowl shape. Both upper endpoints must be at the same height.',
+    tip_bn: 'প্রশস্ত V বা নিম্নমুখী চাপ — পশ্চিমা ৮-এর মতো দুটি লুপ নয়। কাপ বা বাটির মতো মসৃণ নিম্নমুখী চাপ আঁকুন। দুটি উপরের শেষ বিন্দু একই উচ্চতায় হতে হবে।'
+  },
+  {
+    digit: 9,
+    arabicNumeral: '٩',
+    name_en: 'Tis\u02BFa (nine)',
+    name_bn: 'তিস্আ (নয়)',
+    tip_en: 'A reversed-9 shape: a curved head opening to the left, with a tail extending rightward and down to the baseline. The head must be fully closed — an open head is confused with the numeral 4.',
+    tip_bn: 'উল্টো-৯ আকৃতি: বাম দিকে খোলা বাঁকা মাথা, ডানে ও বেসলাইনে প্রসারিত লেজ সহ। মাথা সম্পূর্ণ বন্ধ হতে হবে — খোলা মাথা চার সংখ্যার সাথে গুলিয়ে যায়।'
+  },
+];
+
+/**
+ * Common Quranic words for handwriting practice.
+ * Each entry includes the Arabic word, transliteration, bilingual meaning,
+ * an array of constituent letter names, and bilingual stroke tips.
+ */
+const HW_COMMON_WORDS = [
+  {
+    word: '\u0627\u0644\u0644\u0647',
+    translit: 'All\u0101h',
+    meaningEn: 'God; the one God',
+    meaningBn: 'আল্লাহ; একমাত্র ঈশ্বর',
+    letters: ['Alif', 'Lam', 'Lam', 'Ha'],
+    tipEn: 'The divine name contains a unique double-Lam cluster before the final Ha. Practice the two Lams as one continuous upward movement. The final Ha is small and sits tightly after the second Lam. The raised stroke in the Uthmani mushaf is a maddah variant — write it as a slight upward curve above the second Lam.',
+    tipBn: 'দিব্য নামে চূড়ান্ত হার আগে একটি অনন্য দ্বৈত-লাম গুচ্ছ। দুটি লাম একটি অবিরাম উপরমুখী গতি হিসেবে অনুশীলন করুন। চূড়ান্ত হা ছোট এবং দ্বিতীয় লামের পরে শক্তভাবে বসে। উসমানি মুসহাফে উঁচু রেখাটি একটি মাদ্দাহ রূপ — দ্বিতীয় লামের উপরে সামান্য উপরমুখী বক্ররেখা হিসেবে লিখুন।'
+  },
+  {
+    word: '\u0631\u064e\u0628\u0651',
+    translit: 'Rabb',
+    meaningEn: 'Lord; Sustainer',
+    meaningBn: 'রব; প্রতিপালক',
+    letters: ['Ra', 'Ba (shadda)'],
+    tipEn: 'A very short word: Ra (non-connector) followed by Ba with shadda. Because Ra does not connect forward, Ba begins a fresh stroke. Write the Ba bowl, add the sub-dot, then place the shadda above the bowl. Do not let the gap between Ra and Ba become too wide.',
+    tipBn: 'অত্যন্ত ছোট শব্দ: রা (নন-কানেক্টর) তারপর শাদ্দাযুক্ত বা। রা সামনে সংযুক্ত না হওয়ায় বা তাজা স্ট্রোকে শুরু হয়। বার বাটি লিখুন, উপ-বিন্দু দিন, তারপর বাটির উপরে শাদ্দা। রা ও বার মধ্যের ফাঁক খুব বেশি হতে দেবেন না।'
+  },
+  {
+    word: '\u0643\u0650\u062a\u064e\u0627\u0628',
+    translit: 'Kit\u0101b',
+    meaningEn: 'Book; scripture',
+    meaningBn: 'কিতাব; গ্রন্থ',
+    letters: ['Kaf', 'Ta', 'Alif', 'Ba'],
+    tipEn: 'The Kaf arch must include its inner diagonal mark — beginners often omit it. Ta body is identical to Ba; distinguish them by the two dots above (Ta) versus one dot below (Ba). The long Alif in the middle is a non-connector. Final Ba closes with its sub-dot.',
+    tipBn: 'কাফের খিলানে ভেতরের তির্যক চিহ্ন থাকতে হবে — শিক্ষার্থীরা প্রায়ই এটি বাদ দেন। তার শরীর বার মতো; উপরে দুটি বিন্দু (তা) বনাম নিচে একটি বিন্দু (বা) দিয়ে আলাদা করুন। মাঝের দীর্ঘ আলিফ নন-কানেক্টর। চূড়ান্ত বা উপ-বিন্দু দিয়ে শেষ হয়।'
+  },
+  {
+    word: '\u0631\u064e\u0633\u064f\u0648\u0644',
+    translit: 'Ras\u016Bl',
+    meaningEn: 'Messenger; prophet sent with scripture',
+    meaningBn: 'রাসুল; শরিয়তসহ প্রেরিত নবি',
+    letters: ['Ra', 'Sin', 'Waw', 'Lam'],
+    tipEn: 'The word has two non-connectors (Ra and Waw), breaking it into three segments: Ra | Sin-Waw | Lam. Pay attention to Sin\'s three even teeth before Waw. Because Waw also does not connect forward, the final Lam begins as an isolated-to-final form.',
+    tipBn: 'শব্দে দুটি নন-কানেক্টর (রা ও ওয়াও), তিনটি খণ্ডে ভাগ হয়: রা | সিন-ওয়াও | লাম। ওয়াওয়ের আগে সিনের তিনটি সমান দাঁতে মনোযোগ দিন। ওয়াওও সামনে সংযুক্ত না হওয়ায় চূড়ান্ত লাম বিচ্ছিন্ন-থেকে-চূড়ান্ত রূপে শুরু হয়।'
+  },
+  {
+    word: '\u0646\u064e\u0628\u0650\u064a\u0651',
+    translit: 'Nab\u012By\u0304',
+    meaningEn: 'Prophet',
+    meaningBn: 'নবি; আল্লাহর বার্তাবাহক',
+    letters: ['Nun', 'Ba', 'Ya (shadda)'],
+    tipEn: 'Nun bowl descends below the baseline with one dot above. Ba in medial position has no descending tail. Final Ya carries a shadda — write the Ya bowl with two dots below, then add the shadda above the bowl. The shadda confirms the geminated yy sound.',
+    tipBn: 'নুনের বাটি বেসলাইনের নিচে, উপরে একটি বিন্দু। মধ্যবর্তী বার নামা লেজ নেই। চূড়ান্ত ইয়া-তে শাদ্দা — নিচে দুটি বিন্দু দিয়ে ইয়ার বাটি লিখুন, তারপর উপরে শাদ্দা। শাদ্দা দ্বিগুণ yy শব্দ নিশ্চিত করে।'
+  },
+  {
+    word: '\u0645\u064f\u0624\u0645\u0650\u0646',
+    translit: 'Mu\u02BEmin',
+    meaningEn: 'Believer; one who has faith',
+    meaningBn: 'মুমিন; বিশ্বাসী',
+    letters: ['Mim', 'Hamza on Waw', 'Mim', 'Nun'],
+    tipEn: 'The hamza rests on a Waw seat (\u0624) — draw the small Waw body first, then add the hamza above it. The second Mim is in medial position with no tail. Final Nun bowl dips below the baseline. Both Mims must look identical: compact closed knots.',
+    tipBn: 'হামযা ওয়াও আসনে (\u0624) থাকে — প্রথমে ছোট ওয়াওর শরীর, তারপর উপরে হামযা। দ্বিতীয় মিম মধ্যবর্তী, কোনো লেজ নেই। চূড়ান্ত নুনের বাটি বেসলাইনের নিচে। দুটি মিম একই দেখাতে হবে: সংহত বন্ধ গিঁট।'
+  },
+  {
+    word: '\u0645\u064f\u0633\u0652\u0644\u0650\u0645',
+    translit: 'Muslim',
+    meaningEn: 'Muslim; one who submits to God',
+    meaningBn: 'মুসলিম; আল্লাহর কাছে আত্মসমর্পণকারী',
+    letters: ['Mim', 'Sin', 'Lam', 'Mim'],
+    tipEn: 'Sin in medial position has three small teeth connecting directly to Lam. Keep the teeth even — do not let them blur into a single horizontal bar. Lam connects to the final Mim whose knot descends below the baseline.',
+    tipBn: 'মধ্যবর্তী সিনের তিনটি ছোট দাঁত সরাসরি লামের সাথে যুক্ত। দাঁত সমান রাখুন — একটি অনুভূমিক বারে ঝাপসা হতে দেবেন না। লাম চূড়ান্ত মিমের সাথে যুক্ত যার গিঁট বেসলাইনের নিচে।'
+  },
+  {
+    word: '\u0635\u064e\u0644\u064e\u0627\u0629',
+    translit: '\u1E62al\u0101t',
+    meaningEn: 'Prayer; the ritual salah',
+    meaningBn: 'সালাত; নামাজ',
+    letters: ['Sad', 'Lam', 'Alif', 'Ta marbuta'],
+    tipEn: 'Sad opens with its oval open on the right. Lam rises tall from the Sad exit. The long Alif is a non-connector. The Ta marbuta (\u0629) looks like Ha with two dots above — draw the Ha-shape first, then add both dots.',
+    tipBn: 'সোয়াদ ডানে খোলা ডিম্বাকৃতি দিয়ে শুরু। লাম সোয়াদের বের হওয়ার পথ থেকে লম্বা হয়ে ওঠে। দীর্ঘ আলিফ নন-কানেক্টর। তা-মারবুতা (\u0629) উপরে দুটি বিন্দু সহ হার মতো — প্রথমে হার আকৃতি, তারপর উভয় বিন্দু।'
+  },
+  {
+    word: '\u0635\u064e\u0648\u0652\u0645',
+    translit: '\u1E62awm',
+    meaningEn: 'Fasting; the act of sawm',
+    meaningBn: 'সওম; রোজা',
+    letters: ['Sad', 'Waw', 'Mim'],
+    tipEn: 'Sad connects to Waw, which is a non-connector. Because Waw does not connect forward, the final Mim begins as an isolated form. The final Mim tail descends below the baseline. Practice the Sad-to-Waw connection as a single fluid movement.',
+    tipBn: 'সোয়াদ ওয়াওয়ের সাথে সংযুক্ত, যা নন-কানেক্টর। ওয়াও সামনে সংযুক্ত না হওয়ায় চূড়ান্ত মিম বিচ্ছিন্ন রূপে শুরু হয়। চূড়ান্ত মিমের লেজ বেসলাইনের নিচে। সোয়াদ-থেকে-ওয়াও সংযোগ একটি অবিরাম গতি হিসেবে অনুশীলন করুন।'
+  },
+  {
+    word: '\u0632\u064e\u0643\u064e\u0627\u0629',
+    translit: 'Zak\u0101t',
+    meaningEn: 'Almsgiving; obligatory charity',
+    meaningBn: 'যাকাত; বাধ্যতামূলক দান',
+    letters: ['Zay', 'Kaf', 'Alif', 'Ta marbuta'],
+    tipEn: 'Zay is a non-connector, so Kaf begins fresh as an initial form. The Kaf inner diagonal mark is often omitted by beginners — include it every time. Kaf connects to the long Alif (non-connector). Ta marbuta closes the word.',
+    tipBn: 'যাই নন-কানেক্টর, তাই কাফ প্রারম্ভিক রূপে তাজাভাবে শুরু হয়। কাফের ভেতরের তির্যক চিহ্ন শিক্ষার্থীরা প্রায়ই বাদ দেন — প্রতিবার অন্তর্ভুক্ত করুন। কাফ দীর্ঘ আলিফের (নন-কানেক্টর) সাথে যুক্ত। তা-মারবুতা শব্দ বন্ধ করে।'
+  },
+  {
+    word: '\u062d\u064e\u062c\u0651',
+    translit: '\u1E24ajj',
+    meaningEn: 'Pilgrimage; the Hajj',
+    meaningBn: 'হজ; মক্কার তীর্থযাত্রা',
+    letters: ['Ha', 'Jim (shadda)'],
+    tipEn: 'Only two letters. Ha hook dips below the baseline with no dot — adding a dot would make it Jim or Kha. Jim carries a shadda and one dot below the hook: write the hook body first, add the dot inside, then the shadda above the hook opening.',
+    tipBn: 'মাত্র দুটি অক্ষর। হার হুক বেসলাইনের নিচে, কোনো বিন্দু নেই — বিন্দু দিলে জিম বা খা হয়ে যায়। জিমে শাদ্দা ও হুকের নিচে একটি বিন্দু: প্রথমে হুকের শরীর, হুকের ভেতরে বিন্দু, তারপর হুকের খোলার উপরে শাদ্দা।'
+  },
+  {
+    word: '\u0635\u064e\u0628\u0652\u0631',
+    translit: '\u1E62abr',
+    meaningEn: 'Patience; steadfast endurance',
+    meaningBn: 'সবর; ধৈর্য',
+    letters: ['Sad', 'Ba', 'Ra'],
+    tipEn: 'Sad connects to Ba (medial), which connects to the non-connector Ra. Ra ends the word with its downward curve below the baseline. The Ba carries a sukun above — draw the bowl and sub-dot, then place the sukun above the bowl confirming no vowel follows Ba.',
+    tipBn: 'সোয়াদ মধ্যবর্তী বার সাথে যুক্ত, যা নন-কানেক্টর রার সাথে যুক্ত। রা বেসলাইনের নিচে অবরোহী বক্ররেখা দিয়ে শেষ করে। বা-তে সুকুন — বাটি ও উপ-বিন্দু লিখুন, তারপর বাটির উপরে সুকুন দিয়ে নিশ্চিত করুন বার পরে কোনো স্বর নেই।'
+  },
+  {
+    word: '\u062a\u064e\u0642\u0652\u0648\u064e\u0649',
+    translit: 'Taqw\u0101',
+    meaningEn: 'God-consciousness; piety',
+    meaningBn: 'তাকওয়া; আল্লাহভীতি',
+    letters: ['Ta', 'Qaf', 'Waw', 'Alif maqsura'],
+    tipEn: 'Ta (two dots above) connects to Qaf. Qaf bowl descends below the baseline and has two dots above; in medial position it has a forward-connecting exit. Waw is a non-connector. The final Alif maqsura (\u0649) looks like Ya without dots — do not add dots or it becomes Ya.',
+    tipBn: 'তা (উপরে দুটি বিন্দু) কাফের সাথে যুক্ত। কাফের বাটি বেসলাইনের নিচে, উপরে দুটি বিন্দু; মধ্যবর্তী অবস্থানে সামনে সংযোগের পথ। ওয়াও নন-কানেক্টর। চূড়ান্ত আলিফ-মাকসুরা (\u0649) বিন্দু ছাড়া ইয়ার মতো — বিন্দু দিলে ইয়া হয়ে যাবে।'
+  },
+  {
+    word: '\u0625\u064a\u0645\u064e\u0627\u0646',
+    translit: '\u012Am\u0101n',
+    meaningEn: 'Faith; sincere belief',
+    meaningBn: 'ইমান; বিশ্বাস',
+    letters: ['Alif with hamza below', 'Ya', 'Mim', 'Alif', 'Nun'],
+    tipEn: 'Opens with Alif + hamza below (\u0625): write the Alif stroke, add the hamza beneath it, then the kasra under the hamza. The Ya in medial position is a flat connector with no dots. Mim connects to the long Alif (non-connector). Final Nun closes with its bowl below the baseline.',
+    tipBn: 'আলিফ + নিচে হামযা (\u0625) দিয়ে শুরু: আলিফের রেখা, নিচে হামযা, হামযার নিচে কাসরা। মধ্যবর্তী ইয়া বিন্দু ছাড়া সমতল সংযোগকারী। মিম দীর্ঘ আলিফের সাথে (নন-কানেক্টর) যুক্ত। চূড়ান্ত নুন বেসলাইনের নিচের বাটি দিয়ে শেষ।'
+  },
+  {
+    word: '\u0639\u0650\u0644\u0652\u0645',
+    translit: '\u02BFilm',
+    meaningEn: 'Knowledge; learning',
+    meaningBn: 'ইলম; জ্ঞান',
+    letters: ['Ayn', 'Lam', 'Mim'],
+    tipEn: 'Opens with Ayn in initial position — the eye-opening faces right, wide and clear. The kasra below Ayn confirms the /i/ vowel. Lam rises tall from the medial exit. Final Mim tail descends below the baseline. This three-letter root is one of the most important in Quranic vocabulary.',
+    tipBn: 'প্রারম্ভিক আইন দিয়ে শুরু — চোখের খোলা ডানদিকে, প্রশস্ত ও স্পষ্ট। আইনের নিচের কাসরা /ই/ স্বর নিশ্চিত করে। মধ্যবর্তী বের হওয়ার পথ থেকে লাম লম্বা হয়ে ওঠে। চূড়ান্ত মিমের লেজ বেসলাইনের নিচে। এই তিন-অক্ষরের মূল কুরআনিক শব্দভাণ্ডারের সবচেয়ে গুরুত্বপূর্ণগুলির একটি।'
+  },
+  {
+    word: '\u0631\u064e\u062d\u0652\u0645\u064e\u0629',
+    translit: 'Ra\u1E25ma',
+    meaningEn: 'Mercy; compassion',
+    meaningBn: 'রহমত; দয়া',
+    letters: ['Ra', 'Ha', 'Mim', 'Ta marbuta'],
+    tipEn: 'Ra (non-connector) is followed by Ha — because Ra does not connect forward, Ha begins as an initial form. The Ha hook descends below the baseline with no dot. Mim connects to the Ta marbuta. The two dots of Ta marbuta must sit above the Ha-shaped body, not inside it.',
+    tipBn: 'রা (নন-কানেক্টর) তারপর হা — রা সামনে যুক্ত না হওয়ায় হা প্রারম্ভিক রূপে শুরু। হার হুক বেসলাইনের নিচে, কোনো বিন্দু নেই। মিম তা-মারবুতার সাথে যুক্ত। তা-মারবুতার দুটি বিন্দু হার মতো শরীরের ভেতরে নয়, উপরে বসতে হবে।'
+  },
+  {
+    word: '\u0642\u064f\u0631\u0652\u0622\u0646',
+    translit: 'Qur\u02BE\u0101n',
+    meaningEn: 'The Quran; the recitation',
+    meaningBn: 'কুরআন; আল্লাহর বাণী',
+    letters: ['Qaf', 'Ra', 'Alif with maddah', 'Nun'],
+    tipEn: 'Qaf bowl descends below the baseline with two dots above. Ra (non-connector) follows with a sukun. The Alif with maddah (\u0622) indicates the long /\u0101/ sound after hamza — draw the Alif, then add the wavy maddah stroke above it. Final Nun closes with its bowl below the baseline.',
+    tipBn: 'কাফের বাটি বেসলাইনের নিচে, উপরে দুটি বিন্দু। রা (নন-কানেক্টর) সুকুন সহ অনুসরণ করে। মাদ্দাহ সহ আলিফ (\u0622) হামযার পরে দীর্ঘ /আ/ নির্দেশ করে — আলিফ আঁকুন, তারপর উপরে ঢেউখেলানো মাদ্দাহ রেখা। চূড়ান্ত নুন বেসলাইনের নিচের বাটি দিয়ে শেষ।'
+  },
+  {
+    word: '\u0630\u0650\u0643\u0652\u0631',
+    translit: 'Dhikr',
+    meaningEn: 'Remembrance of God',
+    meaningBn: 'যিকর; আল্লাহর স্মরণ',
+    letters: ['Dhal', 'Kaf', 'Ra'],
+    tipEn: 'Dhal (non-connector) is the same wedge as Dal but with one dot directly above. Because Dhal does not connect forward, Kaf begins as an initial form. Kaf connects to the non-connector Ra. With two non-connectors, this short word is written in three separate strokes.',
+    tipBn: 'যাল (নন-কানেক্টর) দালের মতো কীলক কিন্তু সরাসরি উপরে একটি বিন্দু। যাল সামনে যুক্ত না হওয়ায় কাফ প্রারম্ভিক রূপে শুরু। কাফ নন-কানেক্টর রার সাথে যুক্ত। দুটি নন-কানেক্টর সহ এই ছোট শব্দ তিনটি আলাদা স্ট্রোকে লেখা হয়।'
+  },
+  {
+    word: '\u062f\u064f\u0639\u064e\u0627\u0621',
+    translit: 'Du\u02BF\u0101\u02BE',
+    meaningEn: 'Supplication; personal prayer',
+    meaningBn: 'দুআ; মোনাজাত',
+    letters: ['Dal', 'Ayn', 'Alif', 'Hamza'],
+    tipEn: 'Dal (non-connector) is followed by Ayn in initial form — wide eye-opening facing right. The long Alif (non-connector) follows. The final standalone hamza (\u0621) is a small curved mark on the baseline — do not confuse it with Ayn or Waw. The word has two non-connectors, producing three stroke-groups.',
+    tipBn: 'দাল (নন-কানেক্টর) তারপর প্রারম্ভিক আইন — ডানদিকে প্রশস্ত খোলা চোখ। দীর্ঘ আলিফ (নন-কানেক্টর) অনুসরণ করে। চূড়ান্ত একা হামযা (\u0621) বেসলাইনে ছোট বাঁকা চিহ্ন — আইন বা ওয়াওয়ের সাথে গুলিয়ে ফেলবেন না। দুটি নন-কানেক্টর সহ তিনটি স্ট্রোক গ্রুপ।'
+  },
+  {
+    word: '\u0623\u064e\u062f\u064e\u0628',
+    translit: '\u02BEAdab',
+    meaningEn: 'Etiquette; proper conduct',
+    meaningBn: 'আদব; শিষ্টাচার',
+    letters: ['Alif with hamza above', 'Dal', 'Ba'],
+    tipEn: 'Alif carries a hamza above (\u0623): write the Alif stroke, then add the hamza at the very top — keep it small and clearly above the Alif tip. Dal (non-connector) follows. Because Dal does not connect forward, Ba begins as a final-form stroke. Final Ba sub-dot closes the word.',
+    tipBn: 'আলিফে উপরে হামযা (\u0623): আলিফের রেখা, তারপর একদম উপরে হামযা — ছোট ও আলিফের শীর্ষের সুস্পষ্ট উপরে রাখুন। দাল (নন-কানেক্টর) অনুসরণ করে। দাল সামনে যুক্ত না হওয়ায় বা চূড়ান্ত রূপে শুরু হয়। চূড়ান্ত বার উপ-বিন্দু শব্দ বন্ধ করে।'
+  },
+  {
+    word: '\u0646\u064f\u0648\u0631',
+    translit: 'N\u016Br',
+    meaningEn: 'Light; divine light',
+    meaningBn: 'নুর; আলো',
+    letters: ['Nun', 'Waw', 'Ra'],
+    tipEn: 'Nun bowl descends below the baseline with one dot above. Waw (non-connector) follows — a small rounded head with a descending tail. Ra (non-connector) ends the word. With two non-connectors (Waw, Ra), the word is written in three separate strokes: Nun | Waw | Ra.',
+    tipBn: 'নুনের বাটি বেসলাইনের নিচে, উপরে একটি বিন্দু। ওয়াও (নন-কানেক্টর) অনুসরণ করে — ছোট গোলাকার মাথা ও নামা লেজ। রা (নন-কানেক্টর) শব্দ শেষ করে। দুটি নন-কানেক্টর (ওয়াও, রা) সহ তিনটি আলাদা স্ট্রোক: নুন | ওয়াও | রা।'
+  },
+  {
+    word: '\u0647\u064f\u062f\u064e\u0649',
+    translit: 'Hud\u0101',
+    meaningEn: 'Guidance; divine guidance',
+    meaningBn: 'হুদা; সঠিক পথ দেখানো',
+    letters: ['Ha', 'Dal', 'Alif maqsura'],
+    tipEn: 'Ha in initial position has a forward-connecting exit stroke. Dal (non-connector) follows. The final Alif maqsura (\u0649) looks exactly like Ya without dots — write the Ya-shaped body but add no dots at all. Adding dots incorrectly produces Ya.',
+    tipBn: 'প্রারম্ভিক হার সামনে সংযোগকারী বের হওয়ার পথ আছে। দাল (নন-কানেক্টর) অনুসরণ করে। চূড়ান্ত আলিফ-মাকসুরা (\u0649) বিন্দু ছাড়া ইয়ার মতো — ইয়ার আকৃতির শরীর লিখুন কিন্তু কোনো বিন্দু দেবেন না। বিন্দু দিলে ভুলভাবে ইয়া হবে।'
+  },
+  {
+    word: '\u0634\u064f\u0643\u0652\u0631',
+    translit: 'Shukr',
+    meaningEn: 'Gratitude; thankfulness',
+    meaningBn: 'শুকর; কৃতজ্ঞতা',
+    letters: ['Shin', 'Kaf', 'Ra'],
+    tipEn: 'Shin has the same three-tooth body as Sin but with three dots above in a triangular formation — two on the lower row, one at the apex. In initial position the teeth connect forward to Kaf. Kaf connects to the non-connector Ra.',
+    tipBn: 'শিনের তিন-দাঁতের শরীর সিনের মতো কিন্তু উপরে ত্রিভুজাকারে তিনটি বিন্দু — নিচের সারিতে দুটি, শীর্ষে একটি। প্রারম্ভিক অবস্থানে দাঁত কাফের সাথে যুক্ত। কাফ নন-কানেক্টর রার সাথে যুক্ত।'
+  },
+  {
+    word: '\u0639\u0650\u0628\u064e\u0627\u062f\u064e\u0629',
+    translit: '\u02BFIb\u0101da',
+    meaningEn: 'Worship; servitude to God',
+    meaningBn: 'ইবাদাত; আল্লাহর উপাসনা',
+    letters: ['Ayn', 'Ba', 'Alif', 'Dal', 'Ta marbuta'],
+    tipEn: 'Ayn (initial) connects to Ba (medial). The long Alif (non-connector) then splits the word. Dal (non-connector) follows, and Ta marbuta closes. With two non-connectors, the word breaks into three segments: Ayn-Ba | Alif | Dal-Ta marbuta.',
+    tipBn: 'আইন (প্রারম্ভিক) মধ্যবর্তী বার সাথে যুক্ত। দীর্ঘ আলিফ (নন-কানেক্টর) শব্দ বিভাজন করে। দাল (নন-কানেক্টর) অনুসরণ করে, তা-মারবুতা বন্ধ করে। দুটি নন-কানেক্টর সহ তিনটি খণ্ড: আইন-বা | আলিফ | দাল-তা মারবুতা।'
+  },
+  {
+    word: '\u0625\u0650\u0633\u0652\u0644\u064e\u0627\u0645',
+    translit: 'Isl\u0101m',
+    meaningEn: 'Islam; submission to God',
+    meaningBn: 'ইসলাম; আল্লাহর কাছে আত্মসমর্পণের ধর্ম',
+    letters: ['Alif with hamza below', 'Sin', 'Lam', 'Alif', 'Mim'],
+    tipEn: 'Opens with Alif + hamza below (\u0625) + kasra. Sin in initial position has three even teeth connecting forward to Lam. Lam connects to the long Alif (non-connector). Final Mim closes with the knot descending below the baseline. Both Alifs in the word must be perfectly vertical.',
+    tipBn: 'আলিফ + নিচে হামযা (\u0625) + কাসরা দিয়ে শুরু। প্রারম্ভিক সিনের তিনটি সমান দাঁত লামের সাথে যুক্ত। লাম দীর্ঘ আলিফের (নন-কানেক্টর) সাথে যুক্ত। চূড়ান্ত মিম বেসলাইনের নিচে নামা গিঁট দিয়ে শেষ। শব্দের উভয় আলিফ নিখুঁতভাবে উল্লম্ব হতে হবে।'
+  },
+];
+
+/**
+ * Common mistakes children make when learning to write Arabic letters.
+ * Each entry describes the mistake and its correction, bilingually.
+ */
+const HW_MISTAKES_KIDS = [
+  {
+    mistakeEn: 'Writing from left to right instead of right to left.',
+    mistakeBn: 'ডান থেকে বামের পরিবর্তে বাম থেকে ডানে লেখা।',
+    correctEn: 'Arabic is always written from right to left. Start at the right edge of the line and move leftward. Use pre-ruled practice sheets with the right margin clearly marked until the direction feels natural.',
+    correctBn: 'আরবি সবসময় ডান থেকে বামে লেখা হয়। লাইনের ডান প্রান্ত থেকে শুরু করে বামে সরুন। যতক্ষণ দিকটি স্বাভাবিক না লাগে ততক্ষণ ডান মার্জিন চিহ্নিত প্রি-রুলড শিট ব্যবহার করুন।'
+  },
+  {
+    mistakeEn: 'Omitting dots entirely — writing Ba, Ta, and Tha as the same bare shape.',
+    mistakeBn: 'বিন্দু সম্পূর্ণ বাদ দেওয়া — বা, তা ও সাকে একই বিন্দুবিহীন আকৃতি হিসেবে লেখা।',
+    correctEn: 'Dots are not optional decoration — they distinguish entirely different letters and change word meanings. Always complete the letter body first, then add dots as the final step before moving to the next letter.',
+    correctBn: 'বিন্দু ঐচ্ছিক সজ্জা নয় — সম্পূর্ণ ভিন্ন অক্ষর আলাদা করে ও শব্দের অর্থ পরিবর্তন করে। সর্বদা প্রথমে অক্ষরের শরীর সম্পূর্ণ করুন, তারপর পরের অক্ষরে যাওয়ার আগে বিন্দু যোগ করুন।'
+  },
+  {
+    mistakeEn: 'Placing dots in the wrong position: above Ba instead of below, or below Ta instead of above.',
+    mistakeBn: 'বিন্দু ভুল অবস্থানে: বার নিচের পরিবর্তে উপরে, বা তার উপরের পরিবর্তে নিচে।',
+    correctEn: 'Ba has exactly 1 dot below the bowl. Ta has exactly 2 dots above. Tha has exactly 3 dots above. Remember: Ba = 1 below; Ta = 2 above; Tha = 3 above. Never mix these up — the dot count and position are the only difference between these three letters.',
+    correctBn: 'বার ঠিক ১টি বিন্দু বাটির নিচে। তার ঠিক ২টি উপরে। সার ঠিক ৩টি উপরে। মনে রাখুন: বা = ১ নিচে; তা = ২ উপরে; সা = ৩ উপরে। এই তিনটির মধ্যে বিন্দুর সংখ্যা ও অবস্থানই একমাত্র পার্থক্য।'
+  },
+  {
+    mistakeEn: 'Making Ha, Jim, and Kha all look identical by misplacing or forgetting their dots.',
+    mistakeBn: 'বিন্দু ভুল জায়গায় দিয়ে বা ভুলে গিয়ে হা, জিম ও খাকে একই রকম দেখানো।',
+    correctEn: 'All three share the same hook body. Ha has no dot at all. Jim has 1 dot below (inside or just under the hook). Kha has 1 dot above the hook opening. Write the hook first, then decide: zero dots, one below, or one above.',
+    correctBn: 'তিনটিরই হুকের শরীর একই। হার কোনো বিন্দু নেই। জিমের ১টি বিন্দু নিচে। খার ১টি বিন্দু হুকের উপরে। প্রথমে হুক লিখুন, তারপর সিদ্ধান্ত নিন: শূন্য বিন্দু, একটি নিচে, বা একটি উপরে।'
+  },
+  {
+    mistakeEn: 'Connecting non-connector letters (Alif, Dal, Dhal, Ra, Zay, Waw) to the following letter.',
+    mistakeBn: 'নন-কানেক্টর অক্ষর (আলিফ, দাল, যাল, রা, যাই, ওয়াও) পরবর্তী অক্ষরের সাথে সংযুক্ত করা।',
+    correctEn: 'Six Arabic letters never connect to the letter after them. After writing any of these six, lift the pen completely and begin the next letter as if starting fresh. A connecting stroke after these letters is always an error.',
+    correctBn: 'আরবিতে ছয়টি অক্ষর কখনো পরবর্তী অক্ষরের সাথে সংযুক্ত হয় না। এই ছয়টির যেকোনোটি লেখার পরে কলম সম্পূর্ণভাবে তুলুন এবং পরের অক্ষর তাজাভাবে শুরু করুন। এই অক্ষরের পরে সংযোগকারী রেখা সবসময় ভুল।'
+  },
+  {
+    mistakeEn: 'Making Alif slanted or curved instead of keeping it perfectly vertical.',
+    mistakeBn: 'আলিফ নিখুঁতভাবে উল্লম্ব রাখার পরিবর্তে কাত বা বাঁকা করা।',
+    correctEn: 'Alif must be a perfectly vertical stroke. Use the edge of a ruler or the margin line as a visual guide. A slanted Alif looks like a Waw tail or an Alif maqsura. Check vertical alignment after every single Alif until the habit is formed.',
+    correctBn: 'আলিফ অবশ্যই নিখুঁতভাবে উল্লম্ব রেখা। দৃশ্যমান গাইড হিসেবে রুলার বা মার্জিন লাইন ব্যবহার করুন। কাত আলিফ ওয়াওয়ের লেজ বা আলিফ-মাকসুরার মতো দেখায়। অভ্যাস তৈরি না হওয়া পর্যন্ত প্রতিটি আলিফের পরে উল্লম্ব সারিবদ্ধতা পরীক্ষা করুন।'
+  },
+  {
+    mistakeEn: 'Drawing the teeth of Sin and Shin unevenly — different heights or spacing.',
+    mistakeBn: 'সিন ও শিনের দাঁত অসমানভাবে আঁকা — বিভিন্ন উচ্চতা বা ব্যবধান।',
+    correctEn: 'Sin and Shin each have exactly three teeth of equal height and equal spacing. Draw them slowly and deliberately. A useful drill: draw three tiny equal humps as a warm-up before writing the full letter. Uneven teeth are one of the most common errors in early Arabic writing.',
+    correctBn: 'সিন ও শিনের প্রতিটিতে ঠিক তিনটি সমান উচ্চতার ও সমব্যবধানের দাঁত। ধীরে ও ইচ্ছাকৃতভাবে আঁকুন। দরকারি অনুশীলন: পুরো অক্ষর লেখার আগে ওয়ার্মআপ হিসেবে তিনটি ছোট সমান কুঁজ আঁকুন। অসমান দাঁত আরবি লেখার শুরুতে সবচেয়ে সাধারণ ভুলগুলির একটি।'
+  },
+  {
+    mistakeEn: 'Using the isolated letter form everywhere, regardless of position in a word.',
+    mistakeBn: 'শব্দে অবস্থান নির্বিশেষে সর্বত্র বিচ্ছিন্ন অক্ষর রূপ ব্যবহার করা।',
+    correctEn: 'Most Arabic letters have four forms: isolated, initial (start of word), medial (middle), and final (end). Using the isolated form mid-word breaks the word apart and looks unnatural. Learn and practise all four forms of every letter from the beginning.',
+    correctBn: 'বেশিরভাগ আরবি অক্ষরের চারটি রূপ আছে: বিচ্ছিন্ন, প্রারম্ভিক (শব্দের শুরু), মধ্যবর্তী এবং চূড়ান্ত (শেষ)। শব্দের মাঝে বিচ্ছিন্ন রূপ ব্যবহার শব্দ ভেঙে দেয় ও অস্বাভাবিক দেখায়। শুরু থেকেই প্রতিটি অক্ষরের চারটি রূপ শিখুন ও অনুশীলন করুন।'
+  },
+  {
+    mistakeEn: 'Omitting the hamza mark on Alif, writing plain Alif where hamzated Alif is required.',
+    mistakeBn: 'আলিফে হামযা চিহ্ন বাদ দেওয়া, হামযাযুক্ত আলিফ প্রয়োজন হলে সাদা আলিফ লেখা।',
+    correctEn: 'Hamza changes both the pronunciation and the meaning of a word. A plain Alif (ا) is different from Alif with hamza above (أ) or below (إ). In Quran copying, omitting hamza is a serious error. Practice writing the hamza as a small backward-c shape, clearly separate from the Alif body.',
+    correctBn: 'হামযা শব্দের উচ্চারণ ও অর্থ উভয়ই পরিবর্তন করে। সাদা আলিফ (ا) উপরে হামযা (أ) বা নিচে হামযা (إ) সহ আলিফ থেকে আলাদা। কুরআন অনুলিপিতে হামযা বাদ দেওয়া গুরুতর ভুল। হামযাকে একটি ছোট উল্টো-c আকৃতি হিসেবে অনুশীলন করুন, আলিফের শরীর থেকে স্পষ্টভাবে আলাদা।'
+  },
+  {
+    mistakeEn: 'Placing harakat (vowel marks) on top of each other in the wrong order.',
+    mistakeBn: 'ভুল ক্রমে হারাকাত (স্বর চিহ্ন) একটির উপর আরেকটি বসানো।',
+    correctEn: 'When a letter has both a shadda and a vowel, the shadda is written first (closest to the letter) and the vowel sits above the shadda. The correct stack from bottom to top is: letter — shadda — vowel. A kasra always goes below the letter; fatha and damma go above.',
+    correctBn: 'কোনো অক্ষরে শাদ্দা ও স্বর উভয়ই থাকলে শাদ্দা প্রথমে (অক্ষরের সবচেয়ে কাছে) এবং স্বর শাদ্দার উপরে। নিচ থেকে উপরে সঠিক স্ট্যাক: অক্ষর — শাদ্দা — স্বর। কাসরা সবসময় অক্ষরের নিচে; ফাতহা ও দাম্মা উপরে।'
+  },
+  {
+    mistakeEn: 'Leaving the Mim knot open so it looks like a reversed Nun or a Qaf.',
+    mistakeBn: 'মিমের গিঁট খোলা রেখে দেওয়া, যাতে উল্টো নুন বা কাফের মতো দেখায়।',
+    correctEn: 'The Mim knot must be a fully closed loop in all its forms. An open or gap-showing loop is one of the most common Mim errors. After completing the circular stroke, close it deliberately before drawing the connecting tail or exit stroke.',
+    correctBn: 'মিমের গিঁট সব রূপেই সম্পূর্ণ বন্ধ লুপ হতে হবে। খোলা বা ফাঁক-দেখানো লুপ মিমের সবচেয়ে সাধারণ ভুলগুলির একটি। গোলাকার স্ট্রোক সম্পূর্ণ করার পরে সংযোগকারী লেজ বা বের হওয়ার স্ট্রোক আঁকার আগে ইচ্ছাকৃতভাবে বন্ধ করুন।'
+  },
+  {
+    mistakeEn: 'Confusing Nun and Ba because their bowls look similar — forgetting that Nun\'s bowl is deeper and its dot is above.',
+    mistakeBn: 'নুন ও বার বাটি একই রকম দেখানোর কারণে গুলিয়ে ফেলা — নুনের বাটি গভীর ও বিন্দু উপরে তা ভুলে যাওয়া।',
+    correctEn: 'Ba has a shallow bowl resting on the baseline with 1 dot below. Nun has a deeper bowl that dips below the baseline with 1 dot above. The dot position (above vs below) and the bowl depth are the two reliable differences. Always check both before moving on.',
+    correctBn: 'বার অগভীর বাটি বেসলাইনে বসে, নিচে ১টি বিন্দু। নুনের গভীর বাটি বেসলাইনের নিচে ডোবে, উপরে ১টি বিন্দু। বিন্দুর অবস্থান (উপরে বনাম নিচে) ও বাটির গভীরতা দুটি নির্ভরযোগ্য পার্থক্য। এগিয়ে যাওয়ার আগে সবসময় দুটোই পরীক্ষা করুন।'
+  },
+  {
+    mistakeEn: 'Writing the Sin/Shin teeth as a single zigzag line instead of three distinct rounded cusps.',
+    mistakeBn: 'সিন/শিনের দাঁত তিনটি স্বতন্ত্র গোলাকার কাস্পের পরিবর্তে একটি জিগজ্যাগ রেখা হিসেবে লেখা।',
+    correctEn: 'Each tooth of Sin and Shin is a small gentle curve with a clear valley between it and its neighbour. A zigzag produces angular points rather than smooth cusps, which is wrong in Naskh. Slow down and draw each cusp separately: up, over the top, down into the valley, up again.',
+    correctBn: 'সিন ও শিনের প্রতিটি দাঁত একটি ছোট মৃদু বক্ররেখা যার পাশের দাঁতের সাথে স্পষ্ট উপত্যকা। জিগজ্যাগে মসৃণ কাস্পের পরিবর্তে কোণাকুণি বিন্দু তৈরি হয়, যা নাসখে ভুল। ধীর হোন এবং প্রতিটি কাস্প আলাদাভাবে আঁকুন: উপরে, শীর্ষ পার হয়ে, উপত্যকায় নিচে, আবার উপরে।'
   },
 ];

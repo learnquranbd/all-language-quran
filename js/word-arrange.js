@@ -43,7 +43,11 @@ class WordArrange {
       en: { wa_moves: 'Moves', wa_time: 'Time', wa_streak: 'Streak', wa_best: 'Best',
             wa_hint: 'Hint', wa_new_best: 'New best!', wa_hear_word: 'Hear word' },
       bn: { wa_moves: 'চাল', wa_time: 'সময়', wa_streak: 'ধারা', wa_best: 'সেরা',
-            wa_hint: 'ইঙ্গিত', wa_new_best: 'নতুন সেরা!', wa_hear_word: 'শব্দ শুনুন' }
+            wa_hint: 'ইঙ্গিত', wa_new_best: 'নতুন সেরা!', wa_hear_word: 'শব্দ শুনুন' },
+      zh: { wa_moves: '步数', wa_time: '时间', wa_streak: '连胜', wa_best: '最佳',
+            wa_hint: '提示', wa_new_best: '新纪录！', wa_hear_word: '听词' },
+      ja: { wa_moves: '手数', wa_time: '時間', wa_streak: '連勝', wa_best: '最高',
+            wa_hint: 'ヒント', wa_new_best: '新記録！', wa_hear_word: '単語を聞く' }
     };
 
     window.addEventListener('learnModuleSelected', (e) => {

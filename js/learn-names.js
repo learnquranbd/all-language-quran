@@ -267,6 +267,31 @@ class NamesOfAllah {
         }
         return;
       }
+      const nav = e.target.closest('[data-occ-nav]');
+      if (nav && !nav.disabled) {
+        const dir = nav.getAttribute('data-occ-nav');
+        if (this._occRefs && this._occRefs.length) {
+          const total = this._occRefs.length;
+          this._occIdx = Math.max(0, Math.min((this._occIdx || 0) + (dir === 'next' ? 1 : -1), total - 1));
+          this.renderInlineOccurrence();
+        }
+        return;
+      }
+      const jump = e.target.closest('[data-occ-jump]');
+      if (jump) {
+        const i = parseInt(jump.getAttribute('data-occ-jump'), 10);
+        if (!isNaN(i) && this._occRefs && this._occRefs[i]) {
+          this._occIdx = i;
+          this.renderInlineOccurrence();
+        }
+        return;
+      }
+      const openFull = e.target.closest('[data-occ-open]');
+      if (openFull) {
+        const ref = openFull.getAttribute('data-occ-open');
+        if (typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: this._openWord || null });
+        return;
+      }
       const verse = e.target.closest('[data-verse]');
       if (verse) {
         const ref = verse.getAttribute('data-verse');
@@ -332,13 +357,22 @@ class NamesOfAllah {
       if (!refs.length) {
         occBox.innerHTML = `<p class="text-center text-gray-400 text-sm py-2">${t('names_no_occurrences', lang)}</p>`;
       } else {
+        // Store refs + norm on the instance so the inline viewer's prev/next
+        // buttons and re-renders can access them without re-scanning tokens.
+        this._occRefs = refs;
+        this._occNorm = norm;
+        this._occIdx = 0;
+        this._occName = name;
         const shown = refs.slice(0, 60);
         occBox.innerHTML = `
           <h4 class="text-sm font-bold mb-2">📿 ${t('names_in_quran', lang)} <span class="text-gray-400 font-normal">(${refs.length})</span></h4>
+          <div id="names-occ-viewer" class="mb-3"></div>
           <div class="flex flex-wrap gap-1.5">
-            ${shown.map(r => `<button data-verse="${r}" class="text-xs font-mono px-2 py-1 rounded-md bg-gray-100 dark:bg-gray-700 hover:bg-primary hover:text-white">${r}</button>`).join('')}
+            ${shown.map((r, i) => `<button data-occ-jump="${i}" class="text-xs font-mono px-2 py-1 rounded-md bg-gray-100 dark:bg-gray-700 hover:bg-primary hover:text-white">${r}</button>`).join('')}
             ${refs.length > shown.length ? `<span class="text-xs text-gray-400 self-center">+${refs.length - shown.length}</span>` : ''}
           </div>`;
+        // Render the first occurrence inline. Prev/next update it in place.
+        this.renderInlineOccurrence();
 
         // Resolve REAL recitation for this name: the matching word's audio in its
         // first Quranic occurrence (quran.com word audio) — beats robotic TTS.
@@ -353,6 +387,67 @@ class NamesOfAllah {
       }
     } catch (e) {
       occBox.innerHTML = '';
+    }
+  }
+
+  /**
+   * Render (or re-render) the inline ayah viewer inside the Name modal. Called
+   * on first occurrence load, on prev/next navigation, and on ref-chip jump.
+   * Fetches the ayah via QuranData with a small loading state, highlights the
+   * matching word by comparing normalized forms.
+   */
+  async renderInlineOccurrence() {
+    if (!this.nameModal) return;
+    const box = this.nameModal.querySelector('#names-occ-viewer');
+    if (!box || !this._occRefs || !this._occRefs.length) return;
+    const total = this._occRefs.length;
+    const idx = Math.max(0, Math.min(this._occIdx || 0, total - 1));
+    this._occIdx = idx;
+    const ref = this._occRefs[idx];
+    const lang = this.language;
+    const prevDisabled = idx <= 0;
+    const nextDisabled = idx >= total - 1;
+
+    const skeleton = `
+      <div class="rounded-xl border border-amber-200 dark:border-amber-500/30 bg-amber-50/60 dark:bg-amber-500/10 p-3">
+        <div class="flex items-center justify-between mb-2 text-xs">
+          <button data-occ-nav="prev" ${prevDisabled ? 'disabled' : ''}
+            class="px-2.5 py-1 rounded-md ${prevDisabled ? 'text-gray-400 dark:text-gray-600 cursor-not-allowed' : 'bg-white/70 dark:bg-gray-800/70 text-gray-700 dark:text-gray-200 hover:bg-primary hover:text-white'}">← ${t('previous', lang) || 'Prev'}</button>
+          <span class="font-mono text-amber-800 dark:text-amber-200">${ref} · ${idx + 1} / ${total}</span>
+          <button data-occ-nav="next" ${nextDisabled ? 'disabled' : ''}
+            class="px-2.5 py-1 rounded-md ${nextDisabled ? 'text-gray-400 dark:text-gray-600 cursor-not-allowed' : 'bg-white/70 dark:bg-gray-800/70 text-gray-700 dark:text-gray-200 hover:bg-primary hover:text-white'}">${t('next', lang) || 'Next'} →</button>
+        </div>
+        <div id="names-occ-body"><p class="text-center text-gray-400 text-sm py-3">${t('loading', lang) || 'Loading…'}</p></div>
+      </div>`;
+    box.innerHTML = skeleton;
+
+    // Fetch the ayah. Concurrency guard via a per-request token so stale fetches
+    // (user quickly clicks next) don't stomp the freshest render.
+    this._occReq = (this._occReq || 0) + 1;
+    const req = this._occReq;
+    try {
+      const [s, a] = ref.split(':').map(Number);
+      const v = (await QuranData.fetchRange(s, a, a, lang))[0];
+      if (req !== this._occReq) return; // superseded
+      const bodyEl = box.querySelector('#names-occ-body');
+      if (!bodyEl) return;
+      if (!v) { bodyEl.innerHTML = `<p class="text-center text-red-500 text-sm py-3">${t('error', lang) || 'Could not load ayah.'}</p>`; return; }
+      const norm = this._occNorm;
+      const arabicHtml = (v.words || []).map(w => {
+        const isMatch = norm && QuranData.normalizeWord(w.arabic) === norm;
+        return `<span class="${isMatch ? 'bg-amber-200 dark:bg-amber-500/40 rounded px-0.5' : ''}">${this.escapeHtml(w.arabic)}</span>`;
+      }).join(' ');
+      const trans = (QuranData.stripFootnotes && v.translation) ? QuranData.stripFootnotes(v.translation) : (v.translation || '');
+      bodyEl.innerHTML = `
+        <div class="ayah-arabic text-right leading-loose mb-2" dir="rtl">${arabicHtml || this.escapeHtml(v.arabic || '')}</div>
+        ${trans ? `<div class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed" dir="auto">${this.escapeHtml(trans)}</div>` : ''}
+        <div class="mt-2 text-right">
+          <button data-occ-open="${ref}" class="text-xs text-primary hover:underline">${t('view_full_ayah', lang) || 'Open full view →'}</button>
+        </div>`;
+    } catch (e) {
+      if (req !== this._occReq) return;
+      const bodyEl = box.querySelector('#names-occ-body');
+      if (bodyEl) bodyEl.innerHTML = `<p class="text-center text-red-500 text-sm py-3">${t('error', lang) || 'Could not load ayah.'}</p>`;
     }
   }
 

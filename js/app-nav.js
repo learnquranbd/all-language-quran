@@ -51,7 +51,9 @@ const APP_NAV_PRIMARY = [
       { tab: 'whyislam', emoji: '💡', label: 'whyislam_title' },
       { tab: 'fard',     emoji: '⭐', label: 'islam_fard_title' },
       { tab: 'wajib',    emoji: '🔷', label: 'islam_wajib_title' },
-      { tab: 'nafl',     emoji: '✨', label: 'islam_nafl_title' }
+      { tab: 'nafl',     emoji: '✨', label: 'islam_nafl_title' },
+      { tab: 'makruh',   emoji: '⚠️', label: 'islam_makruh_title' },
+      { tab: 'mustahabb', emoji: '🌟', label: 'islam_mustahabb_title' }
     ] },
   { id: 'resources', emoji: '🔗', label: 'resources_title', tab: 'resources' }
 ];
