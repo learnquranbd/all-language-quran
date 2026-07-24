@@ -176,9 +176,8 @@ class MustahabbModule {
     this.language = s ? (s.language || 'en') : 'en';
     if (this.root) {
       this.root.addEventListener('click', (e) => this.handleClick(e));
-      document.addEventListener('tabChange', (e) => {
-        if (e.detail && e.detail.tab === 'mustahabb' && !this.rendered) this.render();
-      });
+      window.addEventListener('tabChanged', (e) => { try { if (e && e.detail && e.detail.tabId === 'mustahabb') this.render(); } catch (_) {} });
+      window.addEventListener('settingChanged', (e) => { try { if (e && e.detail && e.detail.key === 'language') { this.language = e.detail.value || 'en'; if (this.rendered) this.render(); } } catch (_) {} });
       if (document.querySelector('#tab-mustahabb:not(.hidden)')) this.render();
     }
   }
