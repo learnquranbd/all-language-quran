@@ -452,6 +452,112 @@ const VOCAB_WORDS = [
   {
     arabic: 'قَدِيرٌ', translit: 'qadīr', count: 45,
     meanings: { en: 'All-Powerful, able', bn: 'সর্বশক্তিমান', fr: 'tout-puissant, capable', id: 'Maha Kuasa', ur: 'قادر، ہر چیز پر قادر', tr: 'her şeye gücü yeten', ar: 'قَادِرٌ عَلَى كُلِّ شَيْء' , zh: '全能的', ja: '全能者'}
+  },
+
+  // ---- Additional high-frequency verbs ----
+  {
+    arabic: 'ذَكَرَ', translit: 'dhakara', count: 290,
+    meanings: { en: 'he remembered, mentioned', bn: 'সে স্মরণ করল, উল্লেখ করল', fr: 'il a rappelé, mentionné', id: 'dia mengingat, menyebut', ur: 'اس نے یاد کیا، ذکر کیا', tr: 'andı, zikretti', ar: 'اسْتَحْضَرَ' , zh: '他记念，提及', ja: '彼は思い起こした、唱えた'}
+  },
+  {
+    arabic: 'أَمَرَ', translit: 'amara', count: 250,
+    meanings: { en: 'he commanded, ordered', bn: 'সে আদেশ করল', fr: 'il a ordonné', id: 'dia memerintahkan', ur: 'اس نے حکم دیا', tr: 'emretti', ar: 'أَوْصَى وَأَلْزَمَ' , zh: '他命令', ja: '彼は命じた'}
+  },
+  {
+    arabic: 'حَكَمَ', translit: 'ḥakama', count: 210,
+    meanings: { en: 'he judged, ruled', bn: 'সে বিচার করল, শাসন করল', fr: 'il a jugé', id: 'dia memutuskan, menghakimi', ur: 'اس نے فیصلہ کیا', tr: 'hükmetti', ar: 'قَضَى وَفَصَلَ' , zh: '他裁决，判决', ja: '彼は裁いた'}
+  },
+  {
+    arabic: 'نَزَلَ', translit: 'nazala', count: 290,
+    meanings: { en: 'he descended, came down', bn: 'সে অবতরণ করল, নামল', fr: 'il est descendu', id: 'dia turun', ur: 'وہ اترا', tr: 'indi', ar: 'هَبَطَ' , zh: '他降下', ja: '彼は降りた'}
+  },
+  {
+    arabic: 'كَتَبَ', translit: 'kataba', count: 60,
+    meanings: { en: 'he wrote, prescribed', bn: 'সে লিখল, নির্ধারণ করল', fr: 'il a écrit, prescrit', id: 'dia menulis, menetapkan', ur: 'اس نے لکھا، فرض کیا', tr: 'yazdı, farz kıldı', ar: 'رَقَمَ وَفَرَضَ' , zh: '他书写，规定', ja: '彼は書いた、定めた'}
+  },
+  {
+    arabic: 'هَدَىٰ', translit: 'hadā', count: 175,
+    meanings: { en: 'he guided', bn: 'সে পথ দেখাল, হেদায়েত দিল', fr: 'il a guidé', id: 'dia memberi petunjuk', ur: 'اس نے ہدایت دی', tr: 'doğru yola iletti', ar: 'أَرْشَدَ' , zh: '他引导', ja: '彼は導いた'}
+  },
+  {
+    arabic: 'دَعَا', translit: 'daʿā', count: 170,
+    meanings: { en: 'he called, supplicated', bn: 'সে ডাকল, দোয়া করল', fr: 'il a invoqué, appelé', id: 'dia menyeru, berdoa', ur: 'اس نے پکارا، دعا کی', tr: 'çağırdı, dua etti', ar: 'نَادَى وَطَلَبَ' , zh: '他呼唤，祈祷', ja: '彼は呼んだ、祈った'}
+  },
+  {
+    arabic: 'رَأَىٰ', translit: 'raʾā', count: 320,
+    meanings: { en: 'he saw', bn: 'সে দেখল', fr: 'il a vu', id: 'dia melihat', ur: 'اس نے دیکھا', tr: 'gördü', ar: 'أَبْصَرَ' , zh: '他看见', ja: '彼は見た'}
+  },
+  {
+    arabic: 'اِتَّبَعَ', translit: 'ittabaʿa', count: 170,
+    meanings: { en: 'he followed', bn: 'সে অনুসরণ করল', fr: 'il a suivi', id: 'dia mengikuti', ur: 'اس نے پیروی کی', tr: 'uydu, tabi oldu', ar: 'سَارَ خَلْفَهُ' , zh: '他追随，遵从', ja: '彼は従った'}
+  },
+  {
+    arabic: 'فَعَلَ', translit: 'faʿala', count: 110,
+    meanings: { en: 'he did, acted', bn: 'সে করল', fr: 'il a fait', id: 'dia berbuat', ur: 'اس نے کیا', tr: 'yaptı, işledi', ar: 'صَنَعَ' , zh: '他做，行', ja: '彼は行った'}
+  },
+
+  // ---- Additional high-frequency nouns & concepts ----
+  {
+    arabic: 'نُورٌ', translit: 'nūr', count: 43,
+    meanings: { en: 'light', bn: 'আলো, নূর', fr: 'lumière', id: 'cahaya', ur: 'روشنی، نور', tr: 'nur, ışık', ar: 'ضِيَاء' , zh: '光，光明', ja: '光'}
+  },
+  {
+    arabic: 'حِسَابٌ', translit: 'ḥisāb', count: 39,
+    meanings: { en: 'reckoning, account', bn: 'হিসাব, গণনা', fr: 'compte, reddition', id: 'perhitungan, hisab', ur: 'حساب', tr: 'hesap', ar: 'إِحْصَاءٌ وَمُحَاسَبَة' , zh: '清算，账目', ja: '清算、勘定'}
+  },
+  {
+    arabic: 'مِيزَانٌ', translit: 'mīzān', count: 16,
+    meanings: { en: 'balance, scale', bn: 'দাঁড়িপাল্লা, তুলাদণ্ড', fr: 'balance', id: 'timbangan, neraca', ur: 'ترازو، میزان', tr: 'terazi, mizan', ar: 'آلَةُ الْوَزْن' , zh: '天秤，衡器', ja: '秤、天秤'}
+  },
+  {
+    arabic: 'تَقْوَىٰ', translit: 'taqwā', count: 250,
+    meanings: { en: 'piety, God-consciousness', bn: 'তাকওয়া, খোদাভীতি', fr: 'piété, crainte de Dieu', id: 'takwa', ur: 'تقویٰ، پرہیزگاری', tr: 'takva', ar: 'خَشْيَةُ اللَّه' , zh: '敬畏，虔诚', ja: 'タクワー、敬虔'}
+  },
+  {
+    arabic: 'أَجْرٌ', translit: 'ajr', count: 105,
+    meanings: { en: 'reward, wage', bn: 'পুরস্কার, প্রতিদান', fr: 'récompense, salaire', id: 'pahala, upah', ur: 'اجر، بدلہ', tr: 'ecir, mükâfat', ar: 'ثَوَابٌ وَجَزَاء' , zh: '报酬，回赐', ja: '報酬、報い'}
+  },
+  {
+    arabic: 'بَرَكَةٌ', translit: 'barakah', count: 32,
+    meanings: { en: 'blessing, abundance', bn: 'বরকত, কল্যাণ', fr: 'bénédiction', id: 'berkah', ur: 'برکت', tr: 'bereket', ar: 'نَمَاءٌ وَخَيْر' , zh: '福佑，吉庆', ja: '祝福、バラカ'}
+  },
+  {
+    arabic: 'دِينٌ', translit: 'dīn', count: 95,
+    meanings: { en: 'religion; judgment', bn: 'দ্বীন, ধর্ম; বিচার', fr: 'religion ; jugement', id: 'agama; pembalasan', ur: 'دین؛ جزا', tr: 'din; hesap günü', ar: 'مِلَّةٌ / جَزَاء' , zh: '宗教；报应', ja: '宗教；審判'}
+  },
+  {
+    arabic: 'دُنْيَا', translit: 'dunyā', count: 115,
+    meanings: { en: 'the world, this life', bn: 'দুনিয়া, পার্থিব জীবন', fr: 'le bas monde, vie présente', id: 'dunia', ur: 'دنیا', tr: 'dünya', ar: 'الْحَيَاةُ الْقَرِيبَة' , zh: '今世，尘世', ja: '現世、この世'}
+  },
+  {
+    arabic: 'آخِرَةٌ', translit: 'ākhirah', count: 115,
+    meanings: { en: 'the Hereafter', bn: 'আখিরাত, পরকাল', fr: 'l’au-delà', id: 'akhirat', ur: 'آخرت', tr: 'ahiret', ar: 'الدَّارُ الْبَاقِيَة' , zh: '后世', ja: '来世'}
+  },
+  {
+    arabic: 'عِلْمٌ', translit: 'ʿilm', count: 105,
+    meanings: { en: 'knowledge', bn: 'জ্ঞান, ইলম', fr: 'savoir, science', id: 'ilmu, pengetahuan', ur: 'علم', tr: 'ilim, bilgi', ar: 'مَعْرِفَة' , zh: '知识，学问', ja: '知識、学'}
+  },
+  {
+    arabic: 'هُدًى', translit: 'hudā', count: 85,
+    meanings: { en: 'guidance', bn: 'হেদায়েত, পথনির্দেশ', fr: 'guidance, direction', id: 'petunjuk, hidayah', ur: 'ہدایت', tr: 'hidayet', ar: 'رَشَاد' , zh: '引导，正道', ja: '導き'}
+  },
+
+  // ---- Additional divine names & key adjectives ----
+  {
+    arabic: 'رَحْمَٰنٌ', translit: 'raḥmān', count: 57,
+    meanings: { en: 'the Most Gracious', bn: 'পরম করুণাময়, রহমান', fr: 'le Tout Miséricordieux', id: 'Maha Pengasih', ur: 'رحمٰن، بڑا مہربان', tr: 'Rahman', ar: 'وَاسِعُ الرَّحْمَة' , zh: '至仁的', ja: '慈悲あまねき者'}
+  },
+  {
+    arabic: 'رَحِيمٌ', translit: 'raḥīm', count: 115,
+    meanings: { en: 'the Most Merciful', bn: 'পরম দয়ালু, রহীম', fr: 'le Très Miséricordieux', id: 'Maha Penyayang', ur: 'رحیم، نہایت رحم والا', tr: 'Rahim', ar: 'دَائِمُ الرَّحْمَة' , zh: '至慈的', ja: '慈愛深き者'}
+  },
+  {
+    arabic: 'غَفُورٌ', translit: 'ghafūr', count: 91,
+    meanings: { en: 'the Most Forgiving', bn: 'পরম ক্ষমাশীল, গাফূর', fr: 'le Très Pardonneur', id: 'Maha Pengampun', ur: 'غفور، بہت بخشنے والا', tr: 'Gafur, çok bağışlayan', ar: 'كَثِيرُ الْمَغْفِرَة' , zh: '至赦的', ja: '寛大に赦す者'}
+  },
+  {
+    arabic: 'كَرِيمٌ', translit: 'karīm', count: 27,
+    meanings: { en: 'noble, generous', bn: 'সম্মানিত, উদার, দয়ালু', fr: 'noble, généreux', id: 'mulia, pemurah', ur: 'کریم، معزز، سخی', tr: 'kerîm, cömert', ar: 'شَرِيفٌ مِعْطَاء' , zh: '尊贵的，慷慨的', ja: '高貴な、寛大な'}
   }
 ];
 

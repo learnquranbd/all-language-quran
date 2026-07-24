@@ -229,6 +229,34 @@ const KNOWLEDGE_DUAS = [
       zh: '伊克拉——宣读：真主用笔传授知识，教导人类他所不知道的',
       ja: 'イクラー：ペンで教え、知らなかったことを人間に教えた'
     }
+  },
+  {
+    refs: '1:6-7',
+    names: {
+      en: "Ihdinaṣ-ṣirāṭ al-mustaqīm — guide us to the straight path of those You favoured",
+      bn: 'ইহদিনাস সিরাতাল মুস্তাকীম — যাদের প্রতি অনুগ্রহ করেছ তাদের সরল পথে চালাও',
+      ar: 'اهدنا الصراط المستقيم صراط الذين أنعمت عليهم',
+      ur: 'اہدنا الصراط المستقیم — ان لوگوں کا راستہ جن پر تو نے انعام کیا',
+      id: 'Ihdinash-shirathal-mustaqim — tunjukilah kami jalan lurus orang-orang yang Engkau beri nikmat',
+      tr: 'İhdinas-sıratal-müstakim — bizi nimet verdiklerinin dosdoğru yoluna ilet',
+      fr: "Ihdinaṣ-ṣirāṭ al-mustaqīm — guide-nous vers la voie droite de ceux que Tu as comblés",
+      zh: '求您引导我们上正路，即您所施恩者的道路',
+      ja: 'イフディナッ・スィラータル・ムスタキーム：あなたが恵まれた人々のまっすぐな道へ導いてください'
+    }
+  },
+  {
+    refs: '58:11',
+    names: {
+      en: 'Allah raises in ranks those who believe and those given knowledge',
+      bn: 'আল্লাহ মুমিন ও জ্ঞানপ্রাপ্তদের মর্যাদায় উন্নীত করেন',
+      ar: 'يرفع الله الذين آمنوا منكم والذين أوتوا العلم درجات',
+      ur: 'اللہ تم میں سے ایمان والوں اور علم دیے گئے لوگوں کے درجات بلند کرتا ہے',
+      id: 'Allah mengangkat derajat orang-orang beriman dan orang-orang yang diberi ilmu',
+      tr: 'Allah, inananları ve kendilerine ilim verilenleri derecelerle yükseltir',
+      fr: "Allah élève en degrés ceux qui croient et ceux à qui le savoir a été donné",
+      zh: '真主提升你们中信道者和有知识者的品级',
+      ja: 'アッラーは、信仰する者と知識を授けられた者を位階で高められる'
+    }
   }
 ];
 
@@ -399,6 +427,34 @@ const WEALTH_DUAS = [
       fr: 'Mūsā au puits: Mon Seigneur, je suis dans le besoin de tout bien que Tu feras descendre sur moi',
       zh: '在井边的穆萨：我的主啊，对于您降给我的任何善事，我确实是需要的',
       ja: '井戸のそばのムーサー：主よ、あなたが降ろしてくださるどんな善にも、私は確かに必要です'
+    }
+  },
+  {
+    refs: '34:39',
+    names: {
+      en: "My Lord extends and restricts provision — whatever you spend, He replaces it",
+      bn: 'আমার রব রিযিক প্রশস্ত ও সংকুচিত করেন — তোমরা যা ব্যয় করো তিনি তার বিনিময় দেন',
+      ar: 'إن ربي يبسط الرزق لمن يشاء ويقدر وما أنفقتم من شيء فهو يخلفه',
+      ur: 'میرا رب رزق کشادہ اور تنگ کرتا ہے — تم جو خرچ کرتے ہو وہ اس کا بدل دیتا ہے',
+      id: 'Tuhanku melapangkan dan menyempitkan rezeki — apa pun yang kamu infakkan, Dia menggantinya',
+      tr: 'Rabbim rızkı diler genişletir diler daraltır — infak ettiğinizin yerine yenisini verir',
+      fr: "Mon Seigneur dispense ou restreint la subsistance — tout ce que vous dépensez, Il le remplace",
+      zh: '我的主使给养宽裕或窘迫——你们所施舍的，祂必偿还',
+      ja: '我が主は糧を広げまた制限される — あなたが費やすものを、主は補われる'
+    }
+  },
+  {
+    refs: '42:19',
+    names: {
+      en: 'Allah is Subtle and Kind with His servants, providing for whom He wills',
+      bn: 'আল্লাহ তাঁর বান্দাদের প্রতি সূক্ষ্মদর্শী ও দয়ালু, যাকে ইচ্ছা রিযিক দেন',
+      ar: 'الله لطيف بعباده يرزق من يشاء وهو القوي العزيز',
+      ur: 'اللہ اپنے بندوں پر مہربان ہے، جسے چاہتا ہے رزق دیتا ہے وہی قوی غالب ہے',
+      id: 'Allah Maha Lembut kepada hamba-hamba-Nya, memberi rezeki kepada siapa yang Dia kehendaki',
+      tr: "Allah kullarına lütufkârdır, dilediğini rızıklandırır; O güçlüdür, üstündür",
+      fr: "Allah est Bienveillant envers Ses serviteurs; Il pourvoit à qui Il veut",
+      zh: '真主对众仆是仁慈的，祂供给祂所意欲者，祂是至刚的、万能的',
+      ja: 'アッラーは僕たちに慈しみ深く、御心のままに糧を与えられる'
     }
   }
 ];
@@ -584,6 +640,34 @@ const MORNING_EVENING_QURANIC_DUAS = [
       fr: "Établis la prière depuis le déclin du soleil jusqu'à l'obscurité de la nuit; récite le Coran à l'aurore",
       zh: '从太阳偏斜到夜幕降临，坚持礼拜；诵读晨礼的古兰经',
       ja: '太陽の傾きから夜の暗闇まで礼拝を確立し、ファジルに誦読しなさい'
+    }
+  },
+  {
+    refs: '30:17-18',
+    names: {
+      en: "Fa-subḥānallāh — glorify Allah when you reach evening and when you reach morning",
+      bn: 'ফাসুবহানাল্লাহ — সন্ধ্যায় ও সকালে আল্লাহর তাসবিহ পাঠ করো, আসমান-জমিনে সকল প্রশংসা তাঁরই',
+      ar: 'فسبحان الله حين تمسون وحين تصبحون وله الحمد في السماوات والأرض',
+      ur: 'فسبحان اللہ حین تمسون وحین تصبحون — شام و صبح اللہ کی تسبیح کرو',
+      id: 'Fasubhanallah — bertasbihlah kepada Allah di waktu petang dan pagi, bagi-Nya segala puji',
+      tr: "Fesübhanallah — akşama girerken ve sabaha çıkarken Allah'ı tesbih edin",
+      fr: "Fa-subḥānallāh — glorifiez Allah au soir et au matin; à Lui la louange dans les cieux et la terre",
+      zh: '你们当在傍晚和早晨赞颂真主，天地间一切赞颂都归于祂',
+      ja: 'ファ・スブハーナッラー：夕べに入るときと朝を迎えるとき、アッラーを讃えなさい'
+    }
+  },
+  {
+    refs: '33:41-42',
+    names: {
+      en: 'Remember Allah with much remembrance and glorify Him morning and evening',
+      bn: 'আল্লাহকে বেশি বেশি স্মরণ করো এবং সকাল-সন্ধ্যায় তাঁর তাসবিহ পাঠ করো',
+      ar: 'اذكروا الله ذكراً كثيراً وسبحوه بكرة وأصيلاً',
+      ur: 'اللہ کو کثرت سے یاد کرو اور صبح و شام اس کی تسبیح کرو',
+      id: 'Berzikirlah kepada Allah dengan zikir yang banyak dan bertasbihlah pagi dan petang',
+      tr: "Allah'ı çokça zikredin ve sabah akşam O'nu tesbih edin",
+      fr: "Invoquez Allah d'une invocation abondante et glorifiez-Le matin et soir",
+      zh: '你们当多多记念真主，当在早晚赞颂祂',
+      ja: 'アッラーを多く念じ、朝夕に主を讃えなさい'
     }
   }
 ];

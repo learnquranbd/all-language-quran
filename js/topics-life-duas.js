@@ -271,6 +271,48 @@ const HARDSHIP_DUAS = [
       zh: '与困难同在的是容易——两次重复的神圣承诺',
       ja: '困難と共に安らぎがある — 二度繰り返された神の約束'
     }
+  },
+  {
+    refs: '2:286',
+    names: {
+      en: "Rabbanā lā tu'ākhidhnā — do not take us to task for forgetfulness or error",
+      bn: 'রাব্বানা লা তুআখিযনা — ভুলে গেলে বা ভুল করলে আমাদের পাকড়াও করো না',
+      ar: 'ربنا لا تؤاخذنا إن نسينا أو أخطأنا',
+      ur: 'ربنا لا تؤاخذنا — بھول یا خطا پر ہماری گرفت نہ فرما',
+      id: "Rabbana la tu'akhidzna — jangan hukum kami karena lupa atau keliru",
+      tr: 'Rabbena la tuahizna — unutur veya hata edersek bizi sorumlu tutma',
+      fr: "Rabbanā lā tu'ākhidhnā — ne nous châtie pas pour un oubli ou une erreur",
+      zh: '我们的主啊，如果我们遗忘或犯错，求您不要惩罚我们',
+      ja: 'ラッバナー・ラー・トゥアーヒズナー：忘れや過ちで私たちを咎めないでください'
+    }
+  },
+  {
+    refs: '7:126',
+    names: {
+      en: "The magicians' plea: our Lord, pour patience upon us and let us die as Muslims",
+      bn: 'জাদুকরদের দুআ: হে আমাদের রব, আমাদের উপর ধৈর্য ঢেলে দাও এবং মুসলিম হিসেবে মৃত্যু দাও',
+      ar: 'دعاء السحرة: ربنا أفرغ علينا صبراً وتوفنا مسلمين',
+      ur: 'جادوگروں کی دعا: ربنا افرغ علینا صبراً وتوفنا مسلمین',
+      id: 'Doa para penyihir: ya Tuhan kami, limpahkan kesabaran kepada kami dan wafatkan kami dalam keadaan muslim',
+      tr: 'Sihirbazların duası: Rabbimiz, üzerimize sabır yağdır ve bizi müslüman olarak öldür',
+      fr: "Du'a des magiciens: notre Seigneur, déverse sur nous la patience et fais-nous mourir soumis",
+      zh: '术士们的祈祷：我们的主啊，求您把忍耐倾注给我们，让我们作为顺服者死去',
+      ja: '魔術師たちの祈り：私たちの主よ、忍耐を注ぎ、ムスリムとして死なせてください'
+    }
+  },
+  {
+    refs: '23:97-98',
+    names: {
+      en: "Rabbi a'ūdhu bika — refuge from the whisperings and presence of the devils",
+      bn: 'রাব্বি আউযু বিকা — শয়তানের কুমন্ত্রণা ও উপস্থিতি থেকে আশ্রয়',
+      ar: 'رب أعوذ بك من همزات الشياطين وأعوذ بك أن يحضرون',
+      ur: 'رب اعوذ بک — شیطانوں کے وسوسوں اور ان کی موجودگی سے پناہ',
+      id: "Rabbi a'udzu bika — berlindung dari bisikan dan kehadiran setan",
+      tr: 'Rabbi eûzü bike — şeytanların vesveselerinden ve yanımda bulunmalarından sana sığınırım',
+      fr: "Rabbi a'ūdhu bika — refuge contre les suggestions et la présence des démons",
+      zh: '我的主啊，我求您保护，免遭众恶魔的教唆和临近',
+      ja: 'ラッビ・アウーズ・ビカ：悪魔のささやきと臨在からの庇護'
+    }
   }
 ];
 
@@ -385,6 +427,20 @@ const TRAVEL_DUAS = [
       fr: "Gloire à Celui qui a soumis cela — du'a au moment de monter tout véhicule",
       zh: '赞颂使这服从我们的主——乘坐任何交通工具时的祈祷',
       ja: 'これを従わせてくださった御方に栄光 — 乗り物に乗る際の祈り'
+    }
+  },
+  {
+    refs: '43:14',
+    names: {
+      en: "And indeed, to our Lord we will return — completing the mounting du'a",
+      bn: 'আর নিশ্চয় আমরা আমাদের রবের কাছে ফিরে যাব — যানে আরোহণের দুআর পূর্ণাঙ্গ অংশ',
+      ar: 'وإنا إلى ربنا لمنقلبون — تمام دعاء الركوب',
+      ur: 'اور بے شک ہم اپنے رب کی طرف لوٹنے والے ہیں — سواری کی دعا کا تکملہ',
+      id: 'Dan sesungguhnya kami akan kembali kepada Tuhan kami — pelengkap doa menaiki kendaraan',
+      tr: 'Ve şüphesiz biz Rabbimize döneceğiz — bineğe binme duasının tamamlayıcısı',
+      fr: "Et c'est vers notre Seigneur que nous retournerons — complément du du'a de la monture",
+      zh: '我们必定归于我们的主——乘骑祈祷的圆满部分',
+      ja: 'そして私たちは主のもとに帰る — 乗り物の祈りの締めくくり'
     }
   }
 ];
@@ -556,6 +612,34 @@ const FAMILY_DUAS = [
       fr: "Du'a de Nūḥ: pardonne-moi, mes parents, et tous les croyants et croyantes",
       zh: '努哈的祈祷：饶恕我、我的父母以及所有信男信女',
       ja: 'ヌーフの祈り：私と両親と全ての信者の男女を赦してください'
+    }
+  },
+  {
+    refs: '3:36',
+    names: {
+      en: "The wife of Imrān: I place her and her offspring in Your refuge from Satan",
+      bn: 'ইমরানের স্ত্রী: আমি তাকে ও তার বংশধরকে অভিশপ্ত শয়তান থেকে তোমার আশ্রয়ে দিচ্ছি',
+      ar: 'امرأة عمران: إني أعيذها بك وذريتها من الشيطان الرجيم',
+      ur: 'عمران کی بیوی: میں اسے اور اس کی اولاد کو شیطان مردود سے تیری پناہ میں دیتی ہوں',
+      id: 'Istri Imran: aku memohon perlindungan-Mu untuknya dan keturunannya dari setan yang terkutuk',
+      tr: "İmran'ın eşi: onu ve soyunu kovulmuş şeytandan Sana sığınırım",
+      fr: "L'épouse d'Imrân: je la place, elle et sa descendance, sous Ta protection contre Satan le banni",
+      zh: '伊姆兰的妻子：我求您保护她和她的后代免受被逐恶魔的侵害',
+      ja: 'イムラーンの妻：彼女とその子孫を、呪われた悪魔からあなたの庇護に委ねます'
+    }
+  },
+  {
+    refs: '40:8',
+    names: {
+      en: "Angels' du'a: admit them and the righteous of their parents, spouses, and offspring to Eden",
+      bn: 'ফেরেশতাদের দুআ: তাদের এবং তাদের পিতামাতা, স্ত্রী ও সন্তানদের নেককারদের জান্নাতে প্রবেশ করাও',
+      ar: 'دعاء الملائكة: أدخلهم جنات عدن ومن صلح من آبائهم وأزواجهم وذرياتهم',
+      ur: 'فرشتوں کی دعا: انہیں اور ان کے نیک آباؤ، بیویوں اور اولاد کو جنت عدن میں داخل فرما',
+      id: 'Doa malaikat: masukkan mereka dan orang saleh dari orang tua, istri, dan keturunan mereka ke surga Adn',
+      tr: "Meleklerin duası: onları ve babaları, eşleri ve soylarından salih olanları Adn cennetlerine koy",
+      fr: "Du'a des anges: fais-les entrer aux jardins d'Éden, eux et les vertueux de leurs parents, épouses et descendants",
+      zh: '天使的祈祷：使他们及其行善的父母、配偶和后代进入永居乐园',
+      ja: '天使の祈り：彼らと、その両親・配偶者・子孫のうち善良な者を、常住の楽園に入れてください'
     }
   }
 ];
