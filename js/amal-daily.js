@@ -138,6 +138,54 @@ const AMAL_ITEMS = [
     src: 'Bukhari 765', grade: 'sahih',
     en: 'The Prophet ﷺ recited At-Tur in the Maghrib prayer — Jubayr ibn Mutʿim heard it and felt his heart about to take flight.',
     bn: 'নবী ﷺ মাগরিবের নামাজে সূরা তূর তিলাওয়াত করেছিলেন — জুবায়ির ইবনে মুতইম তা শুনে অনুভব করেন যেন তাঁর হৃদয় উড়ে যাচ্ছে।'},
+  { id: 'mon-thu-fast', refs: '2:183', surahs: [2], when: ['weekly'],
+    src: 'Muslim 1162 · Tirmidhi 747', grade: 'sahih',
+    en: 'Fast on Mondays and Thursdays — deeds are presented to Allah on these two days, and the Prophet ﷺ loved his deeds to be presented while he was fasting. Monday is also the day he was born and the day revelation began.',
+    bn: 'সোম ও বৃহস্পতিবার রোজা রাখুন — এই দুই দিনে আমল আল্লাহর কাছে পেশ করা হয়, আর নবী ﷺ ভালোবাসতেন রোজা অবস্থায় তাঁর আমল পেশ হোক। সোমবার তাঁর জন্মদিন এবং ওহি অবতরণ শুরুর দিনও।'},
+  { id: 'white-days', refs: '2:189', surahs: [2], when: ['monthly'],
+    src: 'Bukhari 1981 · Tirmidhi 761', grade: 'sahih',
+    en: 'Fast the three white days — the 13th, 14th and 15th of every lunar month. The Prophet ﷺ advised three fasts each month; with the tenfold reward it is like fasting the whole year.',
+    bn: 'আইয়ামে বীযের তিন রোজা রাখুন — প্রতি চান্দ্র মাসের ১৩, ১৪ ও ১৫ তারিখ। নবী ﷺ মাসে তিন রোজার উপদেশ দিয়েছেন; দশগুণ সওয়াবে তা সারা বছর রোজার সমান।'},
+  { id: 'dhul-hijjah-ten', refs: '89:1-2', surahs: [89], when: ['seasonal'],
+    src: 'Bukhari 969', grade: 'sahih',
+    en: 'The first ten days of Dhul-Hijjah — no righteous deeds are more beloved to Allah than deeds done in these days: fasting, takbir, dhikr, charity and Quran. Allah swears by these ten nights in Surah al-Fajr.',
+    bn: 'জিলহজের প্রথম দশ দিন — এই দিনগুলোর নেক আমলের চেয়ে প্রিয় কোনো আমল আল্লাহর কাছে নেই: রোজা, তাকবির, যিকির, দান ও কুরআন তিলাওয়াত। সূরা ফাজরে আল্লাহ এই দশ রাতের কসম করেছেন।'},
+  { id: 'ashura-fast', refs: '10:90-92', surahs: [10], when: ['seasonal'],
+    src: 'Muslim 1162 · Bukhari 2004', grade: 'sahih',
+    en: 'Fast the day of Ashura (10 Muharram) — it expiates the sins of the previous year. It marks Allah saving Musa from Pharaoh, and the Prophet ﷺ intended to fast the 9th as well to differ from earlier nations.',
+    bn: 'আশুরার (১০ মহররম) রোজা রাখুন — এটি বিগত এক বছরের গুনাহের কাফফারা। এই দিনে আল্লাহ মুসা (আ.)-কে ফেরাউন থেকে রক্ষা করেন; নবী ﷺ পূর্ববর্তীদের থেকে ভিন্নতার জন্য ৯ তারিখেও রোজার ইচ্ছা করেছিলেন।'},
+  { id: 'shawwal-six', refs: '6:160', surahs: [6], when: ['seasonal'],
+    src: 'Muslim 1164', grade: 'sahih',
+    en: 'Fast six days of Shawwal after Ramadan — together they equal fasting the entire year, for every good deed is rewarded tenfold.',
+    bn: 'রমজানের পর শাওয়ালের ছয় রোজা রাখুন — রমজানসহ তা সারা বছর রোজার সমান, কারণ প্রতিটি নেক আমলের দশগুণ প্রতিদান।'},
+  { id: 'friday-ghusl', refs: '62:9', surahs: [62], when: ['friday'],
+    src: 'Bukhari 881', grade: 'sahih',
+    en: 'On Friday, perform ghusl and go early to Jumuʿah — whoever goes in the first hour, it is as if he offered a camel; the angels record the early comers until the imam appears.',
+    bn: 'জুমার দিনে গোসল করে আগে আগে মসজিদে যান — প্রথম প্রহরে গেলে একটি উট কুরবানির সওয়াব; ইমাম বের হওয়া পর্যন্ত ফেরেশতারা আগে আগমনকারীদের নাম লেখেন।'},
+  { id: 'friday-salawat', refs: '33:56', surahs: [33], when: ['friday'],
+    src: 'Abu Dawud 1047', grade: 'sahih',
+    en: 'Send abundant salawat upon the Prophet ﷺ on Friday and its night — your blessings are presented to him, and Allah Himself with His angels sends blessings on the Prophet.',
+    bn: 'জুমার দিন ও রাতে নবী ﷺ-এর উপর বেশি বেশি দরূদ পাঠ করুন — আপনার দরূদ তাঁর কাছে পেশ করা হয়, আর আল্লাহ নিজে ও তাঁর ফেরেশতারা নবীর উপর দরূদ পাঠান।'},
+  { id: 'night-prayer', refs: '73:1-6', surahs: [73], when: ['night'],
+    src: 'Muslim 1163', grade: 'sahih',
+    en: 'Pray at night, even briefly — the best prayer after the obligatory ones is the night prayer, and rising by night is firmer in impress and truer in speech.',
+    bn: 'রাতে নামাজ পড়ুন, অল্প হলেও — ফরজের পর সর্বোত্তম নামাজ রাতের নামাজ; রাতের উত্থান অন্তরের জন্য দৃঢ়তর ও কথায় সত্যনিষ্ঠ।'},
+  { id: 'last-third-dua', refs: '51:15-18', surahs: [51], when: ['night'],
+    src: 'Bukhari 1145', grade: 'sahih',
+    en: 'Make duʿa in the last third of the night — our Lord descends and calls: "Who calls upon Me, that I may answer him? Who asks of Me, that I may give him? Who seeks My forgiveness, that I may forgive him?"',
+    bn: 'রাতের শেষ তৃতীয়াংশে দোয়া করুন — আমাদের রব অবতরণ করে ডাকেন: "কে আমাকে ডাকবে, আমি সাড়া দেব? কে আমার কাছে চাইবে, আমি দান করব? কে ক্ষমা চাইবে, আমি ক্ষমা করব?"'},
+  { id: 'wudu-two-rakah', refs: '5:6', surahs: [5], when: ['any'],
+    src: 'Bukhari 160 · Muslim 226', grade: 'sahih',
+    en: 'After a complete wudu, pray two rakʿah with full presence of heart — whoever does so, his past sins are forgiven.',
+    bn: 'পরিপূর্ণ অজুর পর একাগ্রচিত্তে দুই রাকাত নামাজ পড়ুন — যে তা করে, তার পূর্বের গুনাহ ক্ষমা করা হয়।'},
+  { id: 'istighfar-daily', refs: '71:10', surahs: [71], when: ['any'],
+    src: 'Bukhari 6307 · Muslim 2702', grade: 'sahih',
+    en: 'Seek Allah’s forgiveness 70–100 times daily — the Prophet ﷺ, though already forgiven, sought forgiveness more than seventy times each day. "Seek forgiveness of your Lord; indeed He is ever Forgiving."',
+    bn: 'প্রতিদিন ৭০–১০০ বার ইস্তিগফার করুন — নবী ﷺ ক্ষমাপ্রাপ্ত হয়েও দিনে সত্তর বারের বেশি ক্ষমা চাইতেন। "তোমাদের রবের কাছে ক্ষমা চাও; নিশ্চয়ই তিনি পরম ক্ষমাশীল।"'},
+  { id: 'visit-sick', refs: '26:80', surahs: [26], when: ['any'],
+    src: 'Tirmidhi 2083', grade: 'hasan',
+    en: 'Visit the sick and say seven times: "I ask Allah the Mighty, Lord of the Mighty Throne, to cure you" — for whoever it is said and whose death has not been decreed, Allah will cure him.',
+    bn: 'রোগী দেখতে যান এবং সাতবার বলুন: "আসআলুল্লাহাল আযীম, রাব্বাল আরশিল আযীম, আন ইয়াশফিয়াক" — যার জন্য বলা হয় এবং যার মৃত্যু নির্ধারিত হয়নি, আল্লাহ তাকে সুস্থ করবেন।'},
 ];
 
 /**
@@ -245,6 +293,10 @@ const AMAL_STR = {
   amal_salah_title: { en: 'After-Salah Tasbih', bn: 'নামাজ শেষের তাসবিহ', zh: '礼拜后的赞词', ja: '礼拝後のタスビーフ' },
   amal_salah_sub: { en: 'Recite after every obligatory prayer — tap the circle for each count.', bn: 'প্রতি ফরজ নামাজের পর পড়ুন — প্রতিটি গণনায় বৃত্তে ট্যাপ করুন।', zh: '每番主命拜后诵读——每次数点击圆圈。', ja: '毎回の義務的な礼拝後に唱える——カウントごとに円をタップ。' },
   amal_salah_done: { en: '100 complete — Māshā’Allāh', bn: '১০০ সম্পন্ন — মাশাআল্লাহ', zh: '100遍完成——真主意欲', ja: '100回完了——マーシャアッラー' },
+  amal_when_weekly: { en: 'Weekly', bn: 'সাপ্তাহিক', zh: '每周', ja: '毎週' },
+  amal_when_monthly: { en: 'Monthly', bn: 'মাসিক', zh: '每月', ja: '毎月' },
+  amal_when_seasonal: { en: 'Seasonal', bn: 'মৌসুমি', zh: '季节性', ja: '季節' },
+  amal_grade_hasan: { en: 'Hasan', bn: 'হাসান', zh: '良好圣训', ja: 'ハサン' },
   amal_salah_kursi_note: { en: 'Then recite Ayat al-Kursi once — whoever recites it after every prayer, nothing but death keeps him from Paradise.', bn: 'এরপর একবার আয়াতুল কুরসি পড়ুন — যে প্রতি নামাজের পর তা পড়ে, মৃত্যু ছাড়া কিছুই তাকে জান্নাতে যেতে বাধা দেয় না।', zh: '然后诵读一次阿耶提库尔西——每番拜后诵读的人，只有死亡能阻止他进入天堂。', ja: 'それからアーヤトゥル＝クルシーを一度唱える——毎礼拝後に唱える者には、死以外に楽園を妨げるものはない。' },
 };
 
@@ -390,7 +442,9 @@ class AmalDaily {
     const firstRef = allRefs[0] || item.refs.split(',')[0];
     const gradeBadge = item.grade === 'sahih'
       ? `<span class="text-xs px-1.5 py-0.5 rounded-full bg-green-500/10 text-green-600 dark:text-green-300">✓ ${this.tt('amal_grade_sahih')}</span>`
-      : `<span class="text-xs px-1.5 py-0.5 rounded-full bg-gray-400/10 text-gray-500 dark:text-gray-400">${this.tt('amal_grade_common')}</span>`;
+      : item.grade === 'hasan'
+        ? `<span class="text-xs px-1.5 py-0.5 rounded-full bg-teal-500/10 text-teal-600 dark:text-teal-300">✓ ${this.tt('amal_grade_hasan')}</span>`
+        : `<span class="text-xs px-1.5 py-0.5 rounded-full bg-gray-400/10 text-gray-500 dark:text-gray-400">${this.tt('amal_grade_common')}</span>`;
     const whenBadges = item.when.map(w => `<span class="text-xs px-1.5 py-0.5 rounded-full bg-primary/10 text-primary dark:text-blue-300">${this.tt('amal_when_' + w)}</span>`).join(' ');
     return `
       <div class="rounded-2xl bg-white dark:bg-gray-800 border ${highlight ? 'border-amber-300 dark:border-amber-500/50 shadow-lg' : 'border-gray-200 dark:border-gray-700'} p-4 flex flex-col gap-2">

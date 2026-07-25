@@ -313,6 +313,48 @@ const HARDSHIP_DUAS = [
       zh: '我的主啊，我求您保护，免遭众恶魔的教唆和临近',
       ja: 'ラッビ・アウーズ・ビカ：悪魔のささやきと臨在からの庇護'
     }
+  },
+  {
+    refs: '23:118',
+    names: {
+      en: "Rabbi-ghfir warḥam — My Lord, forgive and have mercy, You are the best of the merciful",
+      bn: 'রাব্বিগফির ওয়ারহাম — হে আমার রব, ক্ষমা করো ও দয়া করো, তুমি সর্বশ্রেষ্ঠ দয়ালু',
+      ar: 'رب اغفر وارحم وأنت خير الراحمين',
+      ur: 'رب اغفر وارحم — میرے رب، بخش دے اور رحم فرما، تو سب سے بہتر رحم کرنے والا ہے',
+      id: 'Rabbighfir warham — Ya Tuhanku, ampunilah dan kasihanilah, Engkau sebaik-baik penyayang',
+      tr: 'Rabbiğfir verham — Rabbim, bağışla ve merhamet et, Sen merhametlilerin en hayırlısısın',
+      fr: "Rabbi-ghfir warḥam — Mon Seigneur, pardonne et fais miséricorde, Tu es le meilleur des miséricordieux",
+      zh: '我的主啊，求您饶恕，求您怜悯，您是最仁慈的',
+      ja: 'ラッビグフィル・ワルハム：主よ、赦し慈悲をかけてください、あなたは最も慈悲深い方'
+    }
+  },
+  {
+    refs: '54:10',
+    names: {
+      en: "Nūḥ's cry: I am overpowered, so help me — du'a when utterly overwhelmed",
+      bn: 'নূহের আর্তনাদ: আমি পরাজিত, তুমি সাহায্য করো — সম্পূর্ণ অসহায় অবস্থার দুআ',
+      ar: 'دعاء نوح: أني مغلوب فانتصر',
+      ur: 'نوح کی پکار: میں مغلوب ہوں، تو میری مدد فرما',
+      id: 'Seruan Nuh: aku telah dikalahkan, maka tolonglah aku',
+      tr: "Nuh'un feryadı: ben yenildim, artık Sen yardım et",
+      fr: "Le cri de Nūḥ: je suis vaincu, secours-moi — du'a dans l'accablement total",
+      zh: '努哈的呼求：我已被压制，求您援助我',
+      ja: 'ヌーフの叫び：私は打ち負かされました、どうか助けてください'
+    }
+  },
+  {
+    refs: '29:30',
+    names: {
+      en: "Lūṭ's plea: my Lord, support me against the people of corruption",
+      bn: 'লূতের দুআ: হে আমার রব, বিপর্যয় সৃষ্টিকারী সম্প্রদায়ের বিরুদ্ধে আমাকে সাহায্য করো',
+      ar: 'دعاء لوط: رب انصرني على القوم المفسدين',
+      ur: 'لوط کی دعا: رب انصرنی علی القوم المفسدین — فساد کرنے والوں کے خلاف مدد',
+      id: 'Doa Luth: ya Tuhanku, tolonglah aku atas kaum yang berbuat kerusakan',
+      tr: "Lut'un duası: Rabbim, bozguncu topluluğa karşı bana yardım et",
+      fr: "Supplication de Lūṭ: mon Seigneur, secours-moi contre les gens corrupteurs",
+      zh: '鲁特的祈祷：我的主啊，求您援助我对抗作恶的民众',
+      ja: 'ルートの祈り：主よ、腐敗を広める民に対して私を助けてください'
+    }
   }
 ];
 
@@ -441,6 +483,20 @@ const TRAVEL_DUAS = [
       fr: "Et c'est vers notre Seigneur que nous retournerons — complément du du'a de la monture",
       zh: '我们必定归于我们的主——乘骑祈祷的圆满部分',
       ja: 'そして私たちは主のもとに帰る — 乗り物の祈りの締めくくり'
+    }
+  },
+  {
+    refs: '12:64',
+    names: {
+      en: "Ya'qūb entrusts the journey: Allah is the best guardian, the Most Merciful",
+      bn: 'ইয়াকুব যাত্রা সোপর্দ করেন: আল্লাহই সর্বোত্তম হেফাজতকারী, তিনি সর্বাধিক দয়ালু',
+      ar: 'يعقوب يودع بنيه: فالله خير حافظاً وهو أرحم الراحمين',
+      ur: 'یعقوب کا سفر پر بھروسا: فاللہ خیر حافظاً — اللہ بہترین محافظ ہے',
+      id: "Ya'qub menitipkan perjalanan: Allah sebaik-baik penjaga, Dia Maha Penyayang",
+      tr: "Yakup yolculuğu emanet eder: Allah en hayırlı koruyucudur, O merhametlilerin en merhametlisidir",
+      fr: "Ya'qūb confie le voyage: Allah est le meilleur gardien, le plus Miséricordieux",
+      zh: '雅古布托付旅程：真主是最好的保护者，祂是最仁慈的',
+      ja: 'ヤアクーブが旅を委ねる：アッラーこそ最善の守護者、最も慈悲深い方'
     }
   }
 ];
@@ -640,6 +696,48 @@ const FAMILY_DUAS = [
       fr: "Du'a des anges: fais-les entrer aux jardins d'Éden, eux et les vertueux de leurs parents, épouses et descendants",
       zh: '天使的祈祷：使他们及其行善的父母、配偶和后代进入永居乐园',
       ja: '天使の祈り：彼らと、その両親・配偶者・子孫のうち善良な者を、常住の楽園に入れてください'
+    }
+  },
+  {
+    refs: '2:126',
+    names: {
+      en: "Ibrāhīm: make this a secure city and provide its people with fruits",
+      bn: 'ইবরাহিমের দুআ: এই শহরকে নিরাপদ করো এবং এর অধিবাসীদের ফলমূল দিয়ে রিযিক দাও',
+      ar: 'دعاء إبراهيم: رب اجعل هذا بلداً آمناً وارزق أهله من الثمرات',
+      ur: 'ابراہیم کی دعا: اس شہر کو امن والا بنا اور اس کے باشندوں کو پھلوں سے رزق دے',
+      id: 'Doa Ibrahim: jadikan ini negeri yang aman dan berilah penduduknya rezeki buah-buahan',
+      tr: "İbrahim'in duası: burayı güvenli bir şehir kıl ve halkını meyvelerle rızıklandır",
+      fr: "Ibrāhīm: fais de cette cité un lieu sûr et nourris ses habitants de fruits",
+      zh: '易卜拉欣：使这里成为安全的城市，并以果实供给其居民',
+      ja: 'イブラーヒーム：この町を安全にし、住民に果実の糧を与えてください'
+    }
+  },
+  {
+    refs: '14:35',
+    names: {
+      en: "Ibrāhīm: make this city secure and keep me and my sons away from worshipping idols",
+      bn: 'ইবরাহিমের দুআ: এই শহরকে নিরাপদ করো এবং আমাকে ও আমার সন্তানদের মূর্তিপূজা থেকে দূরে রাখো',
+      ar: 'دعاء إبراهيم: رب اجعل هذا البلد آمناً واجنبني وبنيّ أن نعبد الأصنام',
+      ur: 'ابراہیم کی دعا: اس شہر کو امن والا بنا اور مجھے اور میرے بیٹوں کو بتوں کی پوجا سے بچا',
+      id: 'Doa Ibrahim: jadikan negeri ini aman dan jauhkan aku beserta anak cucuku dari menyembah berhala',
+      tr: "İbrahim'in duası: bu şehri güvenli kıl, beni ve oğullarımı putlara tapmaktan uzak tut",
+      fr: "Ibrāhīm: rends cette cité sûre et préserve-moi ainsi que mes fils d'adorer les idoles",
+      zh: '易卜拉欣：使这座城市安全，并使我和我的子孙远离崇拜偶像',
+      ja: 'イブラーヒーム：この町を安全にし、私と息子たちを偶像崇拝から遠ざけてください'
+    }
+  },
+  {
+    refs: '21:89',
+    names: {
+      en: "Zakariyyā's cry: my Lord, do not leave me alone — You are the best of inheritors",
+      bn: 'জাকারিয়ার আকুতি: হে আমার রব, আমাকে একা রেখো না — তুমিই সর্বোত্তম উত্তরাধিকারী',
+      ar: 'دعاء زكريا: رب لا تذرني فرداً وأنت خير الوارثين',
+      ur: 'زکریا کی پکار: رب لا تذرنی فرداً — مجھے اکیلا نہ چھوڑ، تو بہترین وارث ہے',
+      id: 'Seruan Zakariya: ya Tuhanku, jangan biarkan aku seorang diri, Engkau sebaik-baik pewaris',
+      tr: "Zekeriya'nın niyazı: Rabbim, beni yalnız bırakma, Sen varislerin en hayırlısısın",
+      fr: "Le cri de Zakariyyā: mon Seigneur, ne me laisse pas seul — Tu es le meilleur des héritiers",
+      zh: '扎卡利亚的呼求：我的主啊，不要让我孤独无嗣，您是最好的继承者',
+      ja: 'ザカリッヤーの願い：主よ、私を独りにしないでください — あなたは最善の相続者です'
     }
   }
 ];

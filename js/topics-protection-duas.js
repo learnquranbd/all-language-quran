@@ -327,6 +327,104 @@ const PROTECTION_DUAS = [
       zh: '祈求心中不对信士怀有怨恨',
       ja: '信者への恨みを心に抱かないための祈り'
     }
+  },
+  {
+    refs: '17:80',
+    names: {
+      en: 'Prayer for a truthful entrance, exit, and supporting authority',
+      bn: 'সত্যের প্রবেশ-প্রস্থান ও সাহায্যকারী শক্তির দুআ',
+      ar: 'رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَلْ لِي مِنْ لَدُنْكَ سُلْطَانًا نَصِيرًا',
+      ur: 'سچائی کے داخلے، خروج اور مددگار قوت کی دعا',
+      id: 'Doa masuk dan keluar dengan benar serta kekuatan penolong',
+      tr: 'Doğruluk girişi, çıkışı ve yardımcı kuvvet duası',
+      fr: 'Prière pour une entrée et une sortie de vérité et un soutien',
+      zh: '求诚实的入与出及援助权柄的祈祷',
+      ja: '真実の入り口と出口、助けの力を求める祈り'
+    }
+  },
+  {
+    refs: '20:25-28',
+    names: {
+      en: 'Rabbi-shraḥ lī ṣadrī — open my heart and ease my task',
+      bn: 'রব্বিশরাহলী সদরী — বুক প্রশস্ত ও কাজ সহজ করার দুআ',
+      ar: 'رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي يَفْقَهُوا قَوْلِي',
+      ur: 'رب اشرح لی صدری — سینہ کھولنے اور کام آسان کرنے کی دعا',
+      id: 'Doa lapangkanlah dadaku dan mudahkanlah urusanku',
+      tr: 'Rabbim gönlümü aç, işimi kolaylaştır duası',
+      fr: "Prière pour l'ouverture du cœur et la facilité de la tâche",
+      zh: '求开阔胸怀、便利事务的祈祷',
+      ja: '胸を開き務めを容易にする祈り'
+    }
+  },
+  {
+    refs: '3:173',
+    names: {
+      en: 'Ḥasbunallāhu wa niʿmal-wakīl — Allah is sufficient for us',
+      bn: 'হাসবুনাল্লাহু ওয়া নি‘মাল ওয়াকীল — আল্লাহই আমাদের জন্য যথেষ্ট',
+      ar: 'حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ',
+      ur: 'حسبنا اللہ ونعم الوکیل — اللہ ہمیں کافی ہے',
+      id: 'Hasbunallah wa nikmal wakil — cukuplah Allah bagi kami',
+      tr: 'Hasbünallâhü ve ni‘mel vekîl — Allah bize yeter',
+      fr: 'Ḥasbunallāh — Allah nous suffit, quel excellent Garant',
+      zh: '真主是使我们满足的，他是优美的监护者',
+      ja: 'アッラーは私たちに十分であり、最良の守護者'
+    }
+  },
+  {
+    refs: '9:129',
+    names: {
+      en: 'Ḥasbiyallāh — reliance upon the Lord of the Mighty Throne',
+      bn: 'হাসবিয়াল্লাহ — মহান আরশের রবের ওপর ভরসার দুআ',
+      ar: 'حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ',
+      ur: 'حسبی اللہ — عرش عظیم کے رب پر توکل کی دعا',
+      id: 'Hasbiyallah — tawakal kepada Tuhan Arasy yang agung',
+      tr: "Hasbiyallah — büyük Arş'ın Rabbine tevekkül",
+      fr: 'Ḥasbiyallāh — confiance au Seigneur du Trône immense',
+      zh: '真主使我满足——托靠伟大宝座之主',
+      ja: 'アッラーで十分——偉大な玉座の主への信頼'
+    }
+  },
+  {
+    refs: '26:87-89',
+    names: {
+      en: "Ibrāhīm's prayer not to be disgraced on the Day of Resurrection",
+      bn: 'কিয়ামতের দিন লাঞ্ছিত না হওয়ার ইবরাহিমের দুআ',
+      ar: 'وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ يَوْمَ لَا يَنْفَعُ مَالٌ وَلَا بَنُونَ إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ',
+      ur: 'قیامت کے دن رسوا نہ ہونے کی ابراہیم کی دعا',
+      id: 'Doa Ibrahim agar tidak dihinakan pada hari kebangkitan',
+      tr: "İbrahim'in diriliş gününde rezil olmama duası",
+      fr: "Prière d'Ibrahim pour ne pas être humilié au Jour de la Résurrection",
+      zh: '易卜拉欣祈求复活日不受凌辱',
+      ja: 'イブラーヒームの復活の日に辱められないための祈り'
+    }
+  },
+  {
+    refs: '7:126',
+    names: {
+      en: "The sorcerers' prayer for patience and dying as Muslims",
+      bn: 'জাদুকরদের ধৈর্য ও মুসলিম হিসেবে মৃত্যুর দুআ',
+      ar: 'رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ',
+      ur: 'جادوگروں کی صبر اور مسلمان مرنے کی دعا',
+      id: 'Doa para penyihir memohon kesabaran dan wafat sebagai muslim',
+      tr: 'Sihirbazların sabır ve müslüman olarak ölme duası',
+      fr: 'Prière des magiciens pour la patience et mourir musulmans',
+      zh: '术士们求坚忍并以穆斯林身份归真的祈祷',
+      ja: '魔術師たちの忍耐とムスリムとして死ぬための祈り'
+    }
+  },
+  {
+    refs: '40:44',
+    names: {
+      en: "Entrusting one's affair to Allah for protection",
+      bn: 'হেফাজতের জন্য নিজের বিষয় আল্লাহর কাছে সোপর্দ করা',
+      ar: 'وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ',
+      ur: 'اپنا معاملہ اللہ کے سپرد کرنے کی دعا',
+      id: 'Menyerahkan urusan kepada Allah untuk perlindungan',
+      tr: "İşini Allah'a havale ederek korunma",
+      fr: 'Confier son sort à Allah pour être protégé',
+      zh: '将自身事务托付真主以获护佑',
+      ja: '守護のため自らの事をアッラーに委ねる'
+    }
   }
 ];
 

@@ -257,6 +257,34 @@ const KNOWLEDGE_DUAS = [
       zh: '真主提升你们中信道者和有知识者的品级',
       ja: 'アッラーは、信仰する者と知識を授けられた者を位階で高められる'
     }
+  },
+  {
+    refs: '2:269',
+    names: {
+      en: 'He grants wisdom to whom He wills — whoever is given wisdom is given abundant good',
+      bn: 'তিনি যাকে ইচ্ছা হিকমত দান করেন — যাকে হিকমত দেওয়া হয় তাকে প্রভূত কল্যাণ দেওয়া হয়',
+      ar: 'يؤتي الحكمة من يشاء ومن يؤت الحكمة فقد أوتي خيراً كثيراً',
+      ur: 'وہ جسے چاہتا ہے حکمت دیتا ہے — جسے حکمت ملی اسے بہت بڑی بھلائی ملی',
+      id: 'Dia memberikan hikmah kepada siapa yang Dia kehendaki — siapa diberi hikmah, sungguh diberi kebaikan yang banyak',
+      tr: 'Hikmeti dilediğine verir — kime hikmet verilmişse ona çok hayır verilmiştir',
+      fr: 'Il donne la sagesse à qui Il veut — quiconque reçoit la sagesse reçoit un bien abondant',
+      zh: '祂把智慧赐给祂所意欲的人——谁获得智慧，谁确已获得许多福利',
+      ja: '御心のままに知恵を授けられる — 知恵を授かった者は豊かな善を授かった'
+    }
+  },
+  {
+    refs: '12:76',
+    names: {
+      en: 'Above every possessor of knowledge is One more knowing — humility in learning',
+      bn: 'প্রত্যেক জ্ঞানীর উপরে আছেন মহাজ্ঞানী — শিক্ষায় বিনয়ের পাঠ',
+      ar: 'وفوق كل ذي علم عليم — التواضع في طلب العلم',
+      ur: 'ہر علم والے کے اوپر ایک بڑا علم والا ہے — علم میں عاجزی کا سبق',
+      id: 'Di atas setiap orang berilmu ada Yang Maha Mengetahui — kerendahan hati dalam belajar',
+      tr: 'Her ilim sahibinin üstünde daha iyi bilen vardır — öğrenmede tevazu',
+      fr: "Au-dessus de tout détenteur de science, il y a un Plus Savant — humilité dans l'apprentissage",
+      zh: '每个有知识者之上，都有更有知识者——求学中的谦逊',
+      ja: 'すべての知識ある者の上に、さらに知る御方がいる — 学びにおける謙虚さ'
+    }
   }
 ];
 
@@ -455,6 +483,48 @@ const WEALTH_DUAS = [
       fr: "Allah est Bienveillant envers Ses serviteurs; Il pourvoit à qui Il veut",
       zh: '真主对众仆是仁慈的，祂供给祂所意欲者，祂是至刚的、万能的',
       ja: 'アッラーは僕たちに慈しみ深く、御心のままに糧を与えられる'
+    }
+  },
+  {
+    refs: '27:19',
+    names: {
+      en: "Sulaymān's smile: enable me to be thankful for Your favour upon me and my parents",
+      bn: 'সুলাইমানের হাসি: আমাকে ও আমার পিতামাতাকে দেওয়া তোমার নিয়ামতের শুকরিয়া আদায়ের তৌফিক দাও',
+      ar: 'دعاء سليمان: رب أوزعني أن أشكر نعمتك التي أنعمت علي وعلى والديّ',
+      ur: 'سلیمان کی دعا: رب اوزعنی — مجھے توفیق دے کہ تیری نعمت کا شکر کروں جو تو نے مجھ پر اور میرے والدین پر کی',
+      id: "Senyum Sulaiman: berilah aku kemampuan mensyukuri nikmat-Mu atas diriku dan kedua orang tuaku",
+      tr: "Süleyman'ın tebessümü: bana ve ana-babama verdiğin nimete şükretmemi nasip et",
+      fr: "Le sourire de Sulaymān: permets-moi d'être reconnaissant pour Ton bienfait envers moi et mes parents",
+      zh: '苏莱曼的微笑：求您使我能感谢您赐予我和我父母的恩典',
+      ja: 'スライマーンの微笑み：私と両親に与えられた恵みに感謝する力を授けてください'
+    }
+  },
+  {
+    refs: '38:35',
+    names: {
+      en: "Sulaymān: forgive me and grant me a kingdom not befitting anyone after me — You are the Bestower",
+      bn: 'সুলাইমানের দুআ: আমাকে ক্ষমা করো এবং এমন রাজত্ব দাও যা আমার পরে কারো জন্য শোভা পাবে না',
+      ar: 'دعاء سليمان: رب اغفر لي وهب لي ملكاً لا ينبغي لأحد من بعدي إنك أنت الوهاب',
+      ur: 'سلیمان کی دعا: رب اغفر لی وہب لی ملکاً — مجھے بخش دے اور ایسی سلطنت دے جو میرے بعد کسی کو نہ ملے',
+      id: 'Sulaiman: ampunilah aku dan anugerahkan kerajaan yang tidak dimiliki siapa pun setelahku — Engkau Maha Pemberi',
+      tr: "Süleyman: beni bağışla ve bana benden sonra kimseye nasip olmayacak bir mülk ver — Sen Vehhab'sın",
+      fr: "Sulaymān: pardonne-moi et accorde-moi un royaume qui ne convienne à nul autre après moi — Tu es le Grand Donateur",
+      zh: '苏莱曼：求您饶恕我，赐给我在我之后任何人不宜拥有的王权——您是博施的',
+      ja: 'スライマーン：私を赦し、私の後の誰にもふさわしくない王権を授けてください — あなたは豊かに与える方'
+    }
+  },
+  {
+    refs: '5:114',
+    names: {
+      en: "'Īsā's du'a: send down to us a table from heaven, a festival and provision — You are the best of providers",
+      bn: 'ঈসার দুআ: আসমান থেকে আমাদের জন্য খাদ্যপূর্ণ দস্তরখান নাযিল করো — তুমিই সর্বোত্তম রিযিকদাতা',
+      ar: 'دعاء عيسى: اللهم ربنا أنزل علينا مائدة من السماء تكون لنا عيداً وارزقنا وأنت خير الرازقين',
+      ur: 'عیسیٰ کی دعا: اے اللہ ہمارے رب، ہم پر آسمان سے دسترخوان اتار — تو بہترین رزق دینے والا ہے',
+      id: 'Doa Isa: turunkanlah kepada kami hidangan dari langit sebagai hari raya dan rezeki — Engkau sebaik-baik pemberi rezeki',
+      tr: "İsa'nın duası: bize gökten bir sofra indir, bayram ve rızık olsun — Sen rızık verenlerin en hayırlısısın",
+      fr: "Du'a de 'Īsā: fais descendre sur nous une table du ciel, fête et subsistance — Tu es le meilleur des pourvoyeurs",
+      zh: '尔撒的祈祷：求您从天上给我们降下筵席，作为节日和给养——您是最好的供给者',
+      ja: 'イーサーの祈り：天から食卓を下し、祝祭と糧としてください — あなたは最善の糧を与える方'
     }
   }
 ];
@@ -668,6 +738,34 @@ const MORNING_EVENING_QURANIC_DUAS = [
       fr: "Invoquez Allah d'une invocation abondante et glorifiez-Le matin et soir",
       zh: '你们当多多记念真主，当在早晚赞颂祂',
       ja: 'アッラーを多く念じ、朝夕に主を讃えなさい'
+    }
+  },
+  {
+    refs: '20:130',
+    names: {
+      en: 'Glorify with praise of your Lord before sunrise and before sunset, and in hours of the night',
+      bn: 'সূর্যোদয়ের আগে ও সূর্যাস্তের আগে তোমার রবের প্রশংসাসহ তাসবিহ পাঠ করো, আর রাতের প্রহরেও',
+      ar: 'وسبح بحمد ربك قبل طلوع الشمس وقبل غروبها ومن آناء الليل فسبح',
+      ur: 'سورج نکلنے سے پہلے اور غروب سے پہلے اپنے رب کی حمد کے ساتھ تسبیح کرو اور رات کی گھڑیوں میں بھی',
+      id: 'Bertasbihlah dengan memuji Tuhanmu sebelum matahari terbit dan sebelum terbenam, serta pada waktu-waktu malam',
+      tr: 'Güneşin doğuşundan önce ve batışından önce Rabbini hamd ile tesbih et, gece saatlerinde de',
+      fr: 'Célèbre la louange de ton Seigneur avant le lever et avant le coucher du soleil, et aux heures de la nuit',
+      zh: '在日出之前和日落之前，你当赞颂你的主，在夜间的时刻也当赞颂',
+      ja: '日の出前と日没前に主を讃えて唱念し、夜の時間にも讃えなさい'
+    }
+  },
+  {
+    refs: '6:162',
+    names: {
+      en: 'My prayer, my sacrifice, my living and my dying are for Allah, Lord of the worlds',
+      bn: 'আমার নামাজ, আমার কুরবানি, আমার জীবন ও আমার মৃত্যু জগতসমূহের রব আল্লাহর জন্য',
+      ar: 'إن صلاتي ونسكي ومحياي ومماتي لله رب العالمين',
+      ur: 'میری نماز، میری قربانی، میرا جینا اور میرا مرنا سب اللہ رب العالمین کے لیے ہے',
+      id: 'Sesungguhnya shalatku, ibadahku, hidupku dan matiku hanyalah untuk Allah, Tuhan seluruh alam',
+      tr: 'Namazım, ibadetim, hayatım ve ölümüm alemlerin Rabbi Allah içindir',
+      fr: "Ma prière, mon sacrifice, ma vie et ma mort appartiennent à Allah, Seigneur des mondes",
+      zh: '我的礼拜、我的献祭、我的生和我的死，都是为了众世界的主真主',
+      ja: '私の礼拝、私の犠牲、私の生と死は、諸世界の主アッラーのためにある'
     }
   }
 ];

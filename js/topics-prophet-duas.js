@@ -453,5 +453,103 @@ const PROPHET_DUAS = [
       zh: '阿尤布遭受困苦时向主的呼吁',
       ja: 'アイユーブの苦難に触れられた際の主への呼びかけ'
     }
+  },
+  {
+    refs: '54:10',
+    names: {
+      en: "Nūḥ's cry — 'I am overcome, so help me'",
+      bn: 'নূহের দুআ — আমি পরাজিত, তাই সাহায্য করুন',
+      ar: 'أَنِّي مَغْلُوبٌ فَانْتَصِرْ',
+      ur: 'نوح کی دعا — میں مغلوب ہوں، پس مدد فرما',
+      id: "Doa Nuh — 'Aku telah dikalahkan, maka tolonglah aku'",
+      tr: "Nuh'un duası — 'Ben yenildim, yardım et'",
+      fr: 'Cri de Noé — « Je suis vaincu, secours-moi »',
+      zh: '努哈的祈祷——我已被压制，求你援助',
+      ja: 'ヌーフの祈り——私は打ち負かされました、お助けください'
+    }
+  },
+  {
+    refs: '23:29',
+    names: {
+      en: "Nūḥ's prayer for a blessed landing",
+      bn: 'নূহের বরকতময় অবতরণের দুআ',
+      ar: 'رَبِّ أَنْزِلْنِي مُنْزَلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ',
+      ur: 'نوح کی بابرکت جگہ اترنے کی دعا',
+      id: 'Doa Nuh untuk tempat turun yang diberkahi',
+      tr: "Nuh'un mübarek bir yere indirilme duası",
+      fr: 'Prière de Noé pour un débarquement béni',
+      zh: '努哈为吉祥登陆的祈祷',
+      ja: 'ヌーフの祝福された上陸の祈り'
+    }
+  },
+  {
+    refs: '3:38',
+    names: {
+      en: "Zakariyyā's prayer for pure offspring",
+      bn: 'জাকারিয়ার পবিত্র সন্তানের দুআ',
+      ar: 'رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاءِ',
+      ur: 'زکریا کی پاکیزہ اولاد کی دعا',
+      id: 'Doa Zakaria memohon keturunan yang baik',
+      tr: "Zekeriyya'nın tertemiz nesil duası",
+      fr: 'Prière de Zacharie pour une descendance pure',
+      zh: '宰凯里雅为纯洁后裔的祈祷',
+      ja: 'ザカリーヤーの清い子孫のための祈り'
+    }
+  },
+  {
+    refs: '5:25',
+    names: {
+      en: "Mūsā's plea to be parted from the defiant people",
+      bn: 'মূসার অবাধ্য কওম থেকে পৃথক হওয়ার দুআ',
+      ar: 'رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ',
+      ur: 'موسی کی نافرمان قوم سے جدائی کی دعا',
+      id: 'Doa Musa agar dipisahkan dari kaum yang fasik',
+      tr: "Mûsâ'nın fâsık kavimden ayrılma duası",
+      fr: 'Prière de Moïse pour être séparé du peuple pervers',
+      zh: '穆萨求与悖逆之民分离的祈祷',
+      ja: 'ムーサーの背く民との分離の祈り'
+    }
+  },
+  {
+    refs: '5:118',
+    names: {
+      en: "ʿĪsā's plea entrusting his people to Allah",
+      bn: 'ঈসার তাঁর উম্মতকে আল্লাহর কাছে সোপর্দ করার দুআ',
+      ar: 'إِنْ تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ وَإِنْ تَغْفِرْ لَهُمْ فَإِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ',
+      ur: 'عیسی کی اپنی امت کو اللہ کے سپرد کرنے کی دعا',
+      id: 'Permohonan Isa menyerahkan umatnya kepada Allah',
+      tr: "İsa'nın ümmetini Allah'a havale eden niyazı",
+      fr: 'Plaidoyer de Jésus confiant son peuple à Allah',
+      zh: '尔萨将其民众托付真主的恳求',
+      ja: 'イーサーの民をアッラーに委ねる嘆願'
+    }
+  },
+  {
+    refs: '21:112',
+    names: {
+      en: "The Prophet's prayer — 'My Lord, judge in truth'",
+      bn: 'নবীর দুআ — হে আমার রব, সত্য সহকারে ফয়সালা করুন',
+      ar: 'رَبِّ احْكُمْ بِالْحَقِّ وَرَبُّنَا الرَّحْمَٰنُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ',
+      ur: 'نبی ﷺ کی دعا — اے میرے رب، حق کے ساتھ فیصلہ فرما',
+      id: "Doa Nabi — 'Ya Tuhanku, berilah keputusan dengan benar'",
+      tr: "Peygamberin duası — 'Rabbim, hak ile hükmet'",
+      fr: 'Prière du Prophète — « Seigneur, juge en toute vérité »',
+      zh: '先知的祈祷——我的主啊，求你秉真理裁判',
+      ja: '預言者の祈り——主よ、真理をもって裁いてください'
+    }
+  },
+  {
+    refs: '23:118',
+    names: {
+      en: "The Prophet's prayer — 'Forgive and have mercy'",
+      bn: 'নবীর দুআ — ক্ষমা করুন ও রহম করুন',
+      ar: 'رَبِّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّاحِمِينَ',
+      ur: 'نبی ﷺ کی دعا — معاف فرما اور رحم فرما، تو بہترین رحم کرنے والا ہے',
+      id: "Doa Nabi — 'Ampunilah dan rahmatilah'",
+      tr: "Peygamberin duası — 'Bağışla ve merhamet et'",
+      fr: 'Prière du Prophète — « Pardonne et fais miséricorde »',
+      zh: '先知的祈祷——求你饶恕并施慈悯',
+      ja: '預言者の祈り——赦し、慈悲を垂れてください'
+    }
   }
 ];

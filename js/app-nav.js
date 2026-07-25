@@ -12,6 +12,7 @@
  */
 
 const APP_NAV_PRIMARY = [
+  { id: 'dashboard', emoji: '🏠', label: 'dashboard_title', tab: 'dashboard' },
   { id: 'memorize', emoji: '🎙️', label: 'memorize', modes: [
       { mode: 'speech', emoji: '🎙️', label: 'mem_mode_speech' },
       { mode: 'typing', emoji: '⌨️', label: 'mem_mode_typing' },
@@ -68,7 +69,7 @@ class AppNav {
     this.language = (typeof appSettings !== 'undefined' && appSettings)
       ? appSettings.get('language') : 'en';
     this.view = 'primary';        // 'primary' | 'learn' | 'memorize'
-    this.activeTab = 'reading';
+    this.activeTab = 'dashboard';
     this.memMode = 'speech';
     this._popupHideTimer = null;
 

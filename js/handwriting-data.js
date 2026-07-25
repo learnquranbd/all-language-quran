@@ -247,6 +247,14 @@ const HW_CONFUSABLES = [
       bn: 'হামযা (ء) একটি ছোট স্বতন্ত্র গলদেশীয়-বিরতি চিহ্ন যা আইনের (ع) মাথার মতো আকৃতির — ঐতিহাসিকভাবে এটি একটি ক্ষুদ্র আইন থেকে এসেছে। আইন একটি পূর্ণ আকারের অক্ষর, অশ্রু/চোখের মাথা ও নিম্নমুখী লেজ সহ যা প্রতিবেশীর সাথে যুক্ত হয়; হামযা ক্ষুদ্র, তার বাহকের উপরে বা পাশে বসে এবং কখনো যুক্ত হয় না।'
     }
   },
+  {
+    letters: ['ف', 'غ'],
+    label: { en: 'Fā / Ghayn (medial forms)', bn: 'ফা / গাইন (মধ্য রূপ)' },
+    tip: {
+      en: 'In isolated form they look nothing alike, but in joined medial position both reduce to a small head with a single dot above: medial Fā (ـفـ) is an open, rounded loop sitting on the baseline, while medial Ghayn (ـغـ) has a closed wedge-shaped head (the filled "eye" of ʿAyn). Check whether the head is a hollow circle (Fā) or a solid closed wedge (Ghayn).',
+      bn: 'বিচ্ছিন্ন রূপে এদের মিল নেই, কিন্তু সংযুক্ত মধ্য অবস্থানে দুটিই উপরে একটি বিন্দুসহ ছোট মাথায় পরিণত হয়: মধ্য ফা (ـفـ) বেসলাইনের উপরে খোলা গোলাকার লুপ, আর মধ্য গাইনের (ـغـ) মাথা বন্ধ কীলক আকৃতির (আইনের ভরাট "চোখ")। দেখুন মাথাটি ফাঁপা বৃত্ত (ফা) নাকি নিরেট বন্ধ কীলক (গাইন)।'
+    }
+  },
 ];
 
 /**
@@ -294,6 +302,38 @@ const HW_WRITING_BASICS = [
       bn: 'দুটি লিগেচার বাধ্যতামূলক এবং একক একক হিসেবে মুখস্থ করতে হবে: (১) লাম-আলিফ (لا) — যখনই লাম (ل) এর পরে আলিফ (ا) আসে তারা একটি সংযুক্ত রূপে মিলিত হয়। কুরআনে এটি শত শত বার আসে। (২) আল্লাহ (الله) — লাম-লাম-হা একটি বিশেষ ক্যালিগ্রাফিক আকৃতিতে মিলিত হয়। এগুলি কখনো আলাদা স্ট্রোকে লিখবেন না; সবসময় একটি সংযুক্ত একক হিসেবে অনুশীলন করুন।'
     }
   },
+  {
+    icon: '📐',
+    title: { en: 'Letter Proportions: the Alif as Ruler', bn: 'অক্ষরের অনুপাত: আলিফই মাপকাঠি' },
+    body: {
+      en: 'Classical calligraphers measure every letter against the alif. In Naskh the alif stands roughly 4–5 rhombic pen-dots tall; other tall letters (Lām, Kāf, Ṭā) rise to about the same height, while bowls like Bā stay low and wide. Before a practice session, write one careful alif and use it as your ruler for the whole line — consistent proportions matter far more than speed.',
+      bn: 'শাস্ত্রীয় ক্যালিগ্রাফাররা প্রতিটি অক্ষর আলিফের সাথে মেপে লেখেন। নাসখে আলিফ প্রায় ৪–৫টি হীরক-বিন্দুর সমান উঁচু; অন্যান্য লম্বা অক্ষর (লাম, কাফ, তোয়া) প্রায় একই উচ্চতায় ওঠে, আর বা-এর মতো বাটিগুলি নিচু ও চওড়া থাকে। অনুশীলনের আগে একটি যত্নসহকারে আলিফ লিখে পুরো লাইনের মাপকাঠি হিসেবে ব্যবহার করুন — গতির চেয়ে সামঞ্জস্যপূর্ণ অনুপাত অনেক বেশি গুরুত্বপূর্ণ।'
+    }
+  },
+  {
+    icon: '✒️',
+    title: { en: 'Holding the Pen: the Qalam Angle', bn: 'কলম ধরা: কলমের কোণ' },
+    body: {
+      en: 'Traditional Arabic script is written with a chisel-edged reed pen (qalam) whose flat nib is held at a steady angle to the baseline (around 70° in Naskh). Keeping this one angle fixed is what makes strokes swell on the diagonals and thin on the horizontals. With a pencil or ballpoint you can imitate the effect: press slightly heavier on downstrokes and lighter on the flat sweeps, and never rotate your grip mid-letter.',
+      bn: 'ঐতিহ্যবাহী আরবি লিপি চিজেল-ধারের নলখাগড়ার কলম (কলম/ক্বলম) দিয়ে লেখা হয়, যার চ্যাপ্টা নিব বেসলাইনের সাথে একটি স্থির কোণে ধরা হয় (নাসখে প্রায় ৭০°)। এই একটি কোণ স্থির রাখাই তির্যক রেখায় মোটা ও অনুভূমিক টানে সরু স্ট্রোক তৈরি করে। পেন্সিল বা বলপয়েন্টে এই প্রভাব অনুকরণ করুন: নিম্নমুখী স্ট্রোকে সামান্য বেশি চাপ এবং সমতল টানে হালকা চাপ দিন, আর অক্ষরের মাঝপথে কখনো কলম ঘোরাবেন না।'
+    }
+  },
+  {
+    icon: '↔️',
+    title: { en: 'Spacing Between Words', bn: 'শব্দের মধ্যে ফাঁক' },
+    body: {
+      en: 'Keep connected letters snug against each other, and leave about one letter-width of space between words. Non-connectors (ا د ذ ر ز و) create small internal gaps inside a word — those internal gaps must stay clearly smaller than the gaps between words, otherwise readers will see one word as two. Even spacing is what makes a page of Arabic look calm and professional.',
+      bn: 'সংযুক্ত অক্ষরগুলি পরস্পরের কাছাকাছি রাখুন, আর শব্দের মধ্যে প্রায় এক অক্ষর-প্রস্থের ফাঁক দিন। নন-কানেক্টর অক্ষরগুলি (ا د ذ ر ز و) শব্দের ভেতরে ছোট ফাঁক তৈরি করে — সেই ভেতরের ফাঁক অবশ্যই শব্দের মধ্যকার ফাঁকের চেয়ে স্পষ্টভাবে ছোট রাখতে হবে, নাহলে পাঠক একটি শব্দকে দুটি ভাববেন। সমান ফাঁকই আরবি পৃষ্ঠাকে শান্ত ও পেশাদার দেখায়।'
+    }
+  },
+  {
+    icon: '🔢',
+    title: { en: 'Order of Writing: Skeleton → Dots → Vowels', bn: 'লেখার ক্রম: কঙ্কাল → বিন্দু → স্বরচিহ্ন' },
+    body: {
+      en: 'Write the bare letter skeleton (rasm) of the whole word first, moving strictly right-to-left without lifting the pen at connections. Only then go back and add the dots (also right-to-left), and add the harakat last. This is the traditional scribal order used in Quran copying — it keeps connections fluid, and finishing all dots before vowels prevents a kasra being mistaken for a letter dot below.',
+      bn: 'প্রথমে পুরো শব্দের খালি অক্ষর-কঙ্কাল (রসম) লিখুন, কঠোরভাবে ডান থেকে বামে, সংযোগে কলম না তুলে। তারপর ফিরে গিয়ে বিন্দুগুলি দিন (এটিও ডান থেকে বামে), এবং সবশেষে হারাকাত। এটিই কুরআন অনুলিপির ঐতিহ্যবাহী লিপিকার ক্রম — এতে সংযোগ মসৃণ থাকে, আর স্বরচিহ্নের আগে সব বিন্দু শেষ করলে কাসরা নিচের অক্ষর-বিন্দুর সাথে গুলিয়ে যায় না।'
+    }
+  },
 ];
 
 /**
@@ -335,6 +375,21 @@ const HW_PRACTICE_WORDS = [
   { arabic: 'دِين',       translit: 'Dīn',       note: { en: 'Religion / way of life — Dāl·Yā·Nūn', bn: 'ধর্ম/জীবনব্যবস্থা — দাল·ইয়া·নুন' } },
   { arabic: 'مَلِك',      translit: 'Malik',     note: { en: 'King — Mīm·Lām·Kāf (Quran 114:2)', bn: 'রাজা — মিম·লাম·কাফ (কুরআন ১১৪:২)' } },
   { arabic: 'حَمْد',      translit: 'Ḥamd',      note: { en: 'Praise — Ḥā·Mīm·Dāl (al-ḥamdu lillāh)', bn: 'প্রশংসা — হা·মিম·দাল (আলহামদুলিল্লাহ)' } },
+  { arabic: 'أَب',        translit: 'Ab',        note: { en: 'Father — Alif(hamza)·Bā; alif is a non-connector, so the two letters stand apart', bn: 'বাবা — আলিফ(হামযা)·বা; আলিফ নন-কানেক্টর, তাই অক্ষর দুটি আলাদা থাকে' } },
+  { arabic: 'أَخ',        translit: 'Akh',       note: { en: 'Brother — Alif(hamza)·Khā; practise placing the dot above the final khā hook', bn: 'ভাই — আলিফ(হামযা)·খা; শেষ খা-এর হুকের উপরে বিন্দু বসানো অনুশীলন করুন' } },
+  { arabic: 'يَوْم',      translit: 'Yawm',      note: { en: 'Day — Yā·Wāw·Mīm; wāw is a non-connector, so the mīm starts fresh after a small gap', bn: 'দিন — ইয়া·ওয়াও·মিম; ওয়াও নন-কানেক্টর, তাই ছোট ফাঁকের পরে মিম নতুন করে শুরু হয়' } },
+  { arabic: 'لَيْل',      translit: 'Layl',      note: { en: 'Night — Lām·Yā·Lām; medial yā shrinks to a small tooth with 2 dots below', bn: 'রাত — লাম·ইয়া·লাম; মধ্য ইয়া নিচে ২ বিন্দুসহ ছোট দাঁতে পরিণত হয়' } },
+  { arabic: 'رَسُول',     translit: 'Rasūl',     note: { en: 'Messenger — Rā·Sīn·Wāw·Lām; keep the three sīn teeth small and even before the wāw', bn: 'রাসূল — রা·সিন·ওয়াও·লাম; ওয়াওয়ের আগে সিনের তিনটি দাঁত ছোট ও সমান রাখুন' } },
+  { arabic: 'رَحْمَة',    translit: 'Raḥmah',    note: { en: 'Mercy — Rā·Ḥā·Mīm·tā marbūṭa; the medial mīm is a tight knot before the final ة', bn: 'রহমত — রা·হা·মিম·তা মারবূতা; শেষ ة-এর আগে মধ্য মিম একটি শক্ত গিঁট' } },
+  { arabic: 'صَلَاة',     translit: 'Ṣalāh',     note: { en: 'Prayer — Ṣād·Lām-Alif·tā marbūṭa; practise the lām-alif ligature and the 2-dot final ة', bn: 'নামায/সালাত — সোয়াদ·লাম-আলিফ·তা মারবূতা; লাম-আলিফ লিগেচার ও ২-বিন্দুর শেষ ة অনুশীলন করুন' } },
+  { arabic: 'زَكَاة',     translit: 'Zakāh',     note: { en: 'Charity — Zāy·Kāf·Alif·tā marbūṭa; zāy is a non-connector, then kāf joins on to the alif', bn: 'যাকাত — যায়·কাফ·আলিফ·তা মারবূতা; যায় নন-কানেক্টর, তারপর কাফ আলিফের সাথে যুক্ত হয়' } },
+  { arabic: 'حَيَاة',     translit: 'Ḥayāh',     note: { en: 'Life — Ḥā·Yā·Alif·tā marbūṭa; medial yā is a small 2-dot tooth between ḥā and alif', bn: 'জীবন — হা·ইয়া·আলিফ·তা মারবূতা; হা ও আলিফের মাঝে মধ্য ইয়া নিচে ২-বিন্দুর ছোট দাঁত' } },
+  { arabic: 'قُرْآن',     translit: 'Qurʾān',    note: { en: 'Quran — Qāf·Rā·Alif-madda·Nūn; the madda (~) over the alif marks hamza + long ā', bn: 'কুরআন — কাফ·রা·আলিফ-মাদ্দা·নুন; আলিফের উপরের মাদ্দা (~) হামযা + দীর্ঘ আ বোঝায়' } },
+  { arabic: 'مُؤْمِن',    translit: 'Muʾmin',    note: { en: 'Believer — Mīm·Wāw·Mīm·Nūn; after ḍamma the hamza sits on a wāw carrier (ؤ)', bn: 'মুমিন — মিম·ওয়াও·মিম·নুন; দাম্মার পরে হামযা ওয়াও বাহকের (ؤ) উপরে বসে' } },
+  { arabic: 'شَيْء',      translit: 'Shayʾ',     note: { en: 'Thing — Shīn·Yā·Hamza; the final hamza sits alone on the line with no carrier', bn: 'বস্তু/জিনিস — শিন·ইয়া·হামযা; শেষ হামযা কোনো বাহক ছাড়া লাইনের উপরে একা বসে' } },
+  { arabic: 'نَبِيّ',     translit: 'Nabiyy',    note: { en: 'Prophet — Nūn·Bā·Yā (shadda); bā becomes a small 1-dot tooth, and the final yā is doubled', bn: 'নবী — নুন·বা·ইয়া (শাদ্দা); বা ছোট ১-বিন্দুর দাঁত হয়, আর শেষ ইয়া শাদ্দায় দ্বিগুণ' } },
+  { arabic: 'مَكَّة',     translit: 'Makkah',    note: { en: 'Makkah — Mīm·Kāf (shadda)·tā marbūṭa; do not forget the small mark inside the doubled kāf', bn: 'মক্কা — মিম·কাফ (শাদ্দা)·তা মারবূতা; দ্বিগুণ কাফের ভেতরের ছোট চিহ্নটি ভুলবেন না' } },
+  { arabic: 'بِسْمِ اللَّهِ', translit: 'Bismillāh', note: { en: 'In the name of Allāh — note that the alif of اسْم is dropped when joined to بِ in this phrase', bn: 'আল্লাহর নামে — লক্ষ্য করুন: এই বাক্যাংশে بِ-এর সাথে যুক্ত হলে اسْم-এর আলিফ বাদ পড়ে' } },
 ];
 
 /**

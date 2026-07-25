@@ -7,6 +7,7 @@
 // area so users always know which module — or sub-module — they're viewing,
 // even in deep sub-views (e.g. an in-progress quiz) that have no active top tab.
 const TAB_META = {
+  dashboard:    { emoji: '🏠', key: 'dashboard_title' },
   reading:      { emoji: '📖', key: 'ayah_reading' },
   search:       { emoji: '🔍', key: 'search' },
   tafseer:      { emoji: '📚', key: 'tafseers' },
@@ -48,7 +49,7 @@ class TabSystem {
   constructor() {
     this.tabNav = document.getElementById('tabs-nav');
     this.tabContent = document.getElementById('tab-content');
-    this.activeTab = 'reading';
+    this.activeTab = 'dashboard';
     this.tabHandlers = {};
 
     this.init();
