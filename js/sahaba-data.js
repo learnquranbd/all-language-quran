@@ -1941,8 +1941,8 @@ const SAHABA_DATA = [
     "yearEn": "d. c. 30 AH / 650 CE",
     "highlightEn": "The Prophet was commanded to recite the Quran to him.",
     "highlightBn": "আল্লাহর আদেশে নবীজি তাঁকে কুরআন তিলাওয়াত করে শোনান।",
-    "summaryEn": "An Ansari of the Khazraj tribe, he was a scribe of the revelation both before and after the Hijra. Renowned as the foremost reciter of the Quran, he was titled 'Sayyid al-Qurra' (Master of the Reciters). The Prophet told him that Allah had commanded him to recite Surah al-Bayyinah to him, at which Ubayy wept with joy. Umar (RA) called him a leader among the Muslims, and his readings of the Quran were held in great honor.",
-    "summaryBn": "খাযরাজ গোত্রের একজন আনসারি এবং হিজরতের আগে ও পরে ওহি লেখক। তিনি কুরআনের সর্বশ্রেষ্ঠ পাঠক হিসেবে খ্যাত ছিলেন এবং তাঁকে 'সাইয়িদুল কুররা' (কারিদের সর্দার) উপাধি দেওয়া হয়। নবীজি তাঁকে জানান যে আল্লাহ তাঁকে উবাইয়ের কাছে সূরা আল-বাইয়িনাহ তিলাওয়াত করার আদেশ দিয়েছেন, এতে উবাই আনন্দে কেঁদে ফেলেন। উমার (রাঃ) তাঁকে মুসলিমদের অন্যতম নেতা বলে অভিহিত করেন এবং তাঁর কিরাআত অত্যন্ত সম্মানিত ছিল।",
+    "summaryEn": "An Ansari of the Khazraj tribe, he was one of the chief scribes of the revelation in Madinah. Renowned as the foremost reciter of the Quran, he was titled 'Sayyid al-Qurra' (Master of the Reciters). The Prophet told him that Allah had commanded him to recite Surah al-Bayyinah to him, at which Ubayy wept with joy. Umar (RA) called him a leader among the Muslims, and his readings of the Quran were held in great honor.",
+    "summaryBn": "খাযরাজ গোত্রের একজন আনসারি এবং মদিনায় প্রধান ওহি লেখকদের অন্যতম। তিনি কুরআনের সর্বশ্রেষ্ঠ পাঠক হিসেবে খ্যাত ছিলেন এবং তাঁকে 'সাইয়িদুল কুররা' (কারিদের সর্দার) উপাধি দেওয়া হয়। নবীজি তাঁকে জানান যে আল্লাহ তাঁকে উবাইয়ের কাছে সূরা আল-বাইয়িনাহ তিলাওয়াত করার আদেশ দিয়েছেন, এতে উবাই আনন্দে কেঁদে ফেলেন। উমার (রাঃ) তাঁকে মুসলিমদের অন্যতম নেতা বলে অভিহিত করেন এবং তাঁর কিরাআত অত্যন্ত সম্মানিত ছিল।",
     "events": [
       {
         "en": "Served as a scribe recording the revelation",
@@ -2905,11 +2905,11 @@ const SAHABA_DATA = [
     "woman": false,
     "roleEn": "The Knight of the Messenger of Allah",
     "roleBn": "আল্লাহর রাসূলের অশ্বারোহী বীর",
-    "yearEn": "c. 600-654 CE",
+    "yearEn": "c. 600-674 CE",
     "highlightEn": "The Prophet called him the best of our horsemen.",
     "highlightBn": "নবীজি তাঁকে 'আমাদের শ্রেষ্ঠ অশ্বারোহী' বলে আখ্যায়িত করেন।",
-    "summaryEn": "Abu Qatadah al-Harith ibn Rib'i was a courageous Ansari cavalryman whom the Prophet Muhammad (peace be upon him) praised as the best of horsemen. He fought at Uhud and the campaigns that followed, distinguishing himself in combat and being honoured by the Prophet's supplication. On one journey he guarded the sleeping Prophet through the night and shared in the miracle of the water that sufficed a thirsty army. He narrated many hadith and was celebrated for his reliability and generosity, remaining an active companion until his death during the caliphate of Ali (RA).",
-    "summaryBn": "আবু কাতাদা আল-হারিস ইবনে রিবয়ি ছিলেন একজন সাহসী আনসারি অশ্বারোহী, যাঁকে নবী মুহাম্মাদ (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) শ্রেষ্ঠ অশ্বারোহী বলে প্রশংসা করেন। তিনি উহুদ ও পরবর্তী অভিযানসমূহে যুদ্ধ করেন, বীরত্ব দেখান এবং নবীজির দোয়ায় সম্মানিত হন। এক সফরে তিনি রাতভর ঘুমন্ত নবীজিকে পাহারা দেন এবং তৃষ্ণার্ত বাহিনীর জন্য যথেষ্ট হওয়া পানির মুজিযায় শরিক হন। তিনি বহু হাদিস বর্ণনা করেন এবং তাঁর নির্ভরযোগ্যতা ও দানশীলতার জন্য প্রসিদ্ধ ছিলেন, আলি (রাঃ)-এর খিলাফতকাল পর্যন্ত সক্রিয় সাহাবি হিসেবে জীবিত ছিলেন।",
+    "summaryEn": "Abu Qatadah al-Harith ibn Rib'i was a courageous Ansari cavalryman whom the Prophet Muhammad (peace be upon him) praised as the best of horsemen. He fought at Uhud and the campaigns that followed, distinguishing himself in combat and being honoured by the Prophet's supplication. On one journey he guarded the sleeping Prophet through the night and shared in the miracle of the water that sufficed a thirsty army. He narrated many hadith and was celebrated for his reliability and generosity, remaining an active companion until his death, which reports place either during the caliphate of Ali (RA) or around 54 AH in Madinah.",
+    "summaryBn": "আবু কাতাদা আল-হারিস ইবনে রিবয়ি ছিলেন একজন সাহসী আনসারি অশ্বারোহী, যাঁকে নবী মুহাম্মাদ (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) শ্রেষ্ঠ অশ্বারোহী বলে প্রশংসা করেন। তিনি উহুদ ও পরবর্তী অভিযানসমূহে যুদ্ধ করেন, বীরত্ব দেখান এবং নবীজির দোয়ায় সম্মানিত হন। এক সফরে তিনি রাতভর ঘুমন্ত নবীজিকে পাহারা দেন এবং তৃষ্ণার্ত বাহিনীর জন্য যথেষ্ট হওয়া পানির মুজিযায় শরিক হন। তিনি বহু হাদিস বর্ণনা করেন এবং তাঁর নির্ভরযোগ্যতা ও দানশীলতার জন্য প্রসিদ্ধ ছিলেন, মৃত্যু পর্যন্ত সক্রিয় সাহাবি ছিলেন — কোনো কোনো বর্ণনায় তাঁর মৃত্যু আলি (রাঃ)-এর খিলাফতকালে, আবার কোনো বর্ণনায় প্রায় ৫৪ হিজরিতে মদিনায় বলা হয়েছে।",
     "events": [
       {
         "en": "Praised by the Prophet as the best of horsemen",
@@ -2992,18 +2992,18 @@ const SAHABA_DATA = [
     "roleEn": "Chieftain of Bajila, the 'Joseph of this Nation'",
     "roleBn": "বাজিলার সরদার, 'এই উম্মতের ইউসুফ'",
     "yearEn": "d. c. 671 CE",
-    "highlightEn": "For his handsome bearing the Prophet likened him to Yusuf.",
-    "highlightBn": "সুদর্শন চেহারার জন্য নবীজি তাঁকে ইউসুফের সাথে তুলনা করেন।",
-    "summaryEn": "Jarir ibn Abdullah was the noble chieftain of the tribe of Bajila from Yemen, who came to Madinah and embraced Islam near the end of the Prophet's life. Tall and strikingly handsome, he was likened by the Prophet Muhammad (peace be upon him) to the Prophet Yusuf, and honoured so that the Prophet spread his cloak for him to sit upon. He pledged to sincerely advise every Muslim, a covenant he upheld. At the Prophet's command he led men to destroy the idol Dhul-Khalasa. He afterwards played a leading role in the conquest of Iraq and Persia, fighting notably at the Battle of Qadisiyyah.",
-    "summaryBn": "জারীর ইবনে আবদুল্লাহ ছিলেন ইয়েমেনের বাজিলা গোত্রের সম্ভ্রান্ত সরদার, যিনি মদিনায় এসে নবীজির জীবনের শেষভাগে ইসলাম গ্রহণ করেন। দীর্ঘদেহী ও অসাধারণ সুদর্শন হওয়ায় নবী মুহাম্মাদ (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) তাঁকে নবী ইউসুফের সাথে তুলনা করেন এবং এতটা সম্মান দেন যে বসতে নিজের চাদর বিছিয়ে দেন। তিনি প্রত্যেক মুসলিমের প্রতি আন্তরিক কল্যাণকামিতার অঙ্গীকার করেন ও তা রক্ষা করেন। নবীজির নির্দেশে তিনি যুল-খালাসা মূর্তি ধ্বংস করতে দল নিয়ে যান। পরে তিনি ইরাক ও পারস্য বিজয়ে অগ্রণী ভূমিকা রাখেন, বিশেষত কাদিসিয়ার যুদ্ধে।",
+    "highlightEn": "For his handsome bearing Umar called him the Yusuf of this Ummah.",
+    "highlightBn": "সুদর্শন চেহারার জন্য উমর (রাঃ) তাঁকে 'এই উম্মতের ইউসুফ' বলতেন।",
+    "summaryEn": "Jarir ibn Abdullah was the noble chieftain of the tribe of Bajila from Yemen, who came to Madinah and embraced Islam near the end of the Prophet's life. Tall and strikingly handsome, he was called the Yusuf of this Ummah — a saying attributed to Umar (RA) — and the Prophet Muhammad (peace be upon him) honoured him, spreading his cloak for him to sit upon. He pledged to sincerely advise every Muslim, a covenant he upheld. At the Prophet's command he led men to destroy the idol Dhul-Khalasa. He afterwards played a leading role in the conquest of Iraq and Persia, fighting notably at the Battle of Qadisiyyah.",
+    "summaryBn": "জারীর ইবনে আবদুল্লাহ ছিলেন ইয়েমেনের বাজিলা গোত্রের সম্ভ্রান্ত সরদার, যিনি মদিনায় এসে নবীজির জীবনের শেষভাগে ইসলাম গ্রহণ করেন। দীর্ঘদেহী ও অসাধারণ সুদর্শন হওয়ায় তাঁকে 'এই উম্মতের ইউসুফ' বলা হতো — এ উক্তি উমর (রাঃ)-এর বলে বর্ণিত — আর নবী মুহাম্মাদ (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) তাঁকে এতটা সম্মান দেন যে বসতে নিজের চাদর বিছিয়ে দেন। তিনি প্রত্যেক মুসলিমের প্রতি আন্তরিক কল্যাণকামিতার অঙ্গীকার করেন ও তা রক্ষা করেন। নবীজির নির্দেশে তিনি যুল-খালাসা মূর্তি ধ্বংস করতে দল নিয়ে যান। পরে তিনি ইরাক ও পারস্য বিজয়ে অগ্রণী ভূমিকা রাখেন, বিশেষত কাদিসিয়ার যুদ্ধে।",
     "events": [
       {
         "en": "Chieftain of Bajila who embraced Islam late in the Prophet's life",
         "bn": "বাজিলার সরদার, নবীজির শেষজীবনে ইসলাম গ্রহণ করেন"
       },
       {
-        "en": "Likened by the Prophet to the Prophet Yusuf",
-        "bn": "নবীজি তাঁকে নবী ইউসুফের সাথে তুলনা করেন"
+        "en": "Called the 'Yusuf of this Ummah' for his noble bearing",
+        "bn": "সুদর্শন ব্যক্তিত্বের জন্য 'এই উম্মতের ইউসুফ' নামে খ্যাত"
       },
       {
         "en": "Pledged sincere counsel to every Muslim",
@@ -3171,8 +3171,8 @@ const SAHABA_DATA = [
     "yearEn": "d. 52 AH / 672 CE",
     "highlightEn": "So patient in illness that the angels would greet him with salam.",
     "highlightBn": "অসুস্থতায় এতটাই ধৈর্যশীল যে ফেরেশতারা তাঁকে সালাম দিতেন।",
-    "summaryEn": "Imran ibn Husayn al-Khuza'i (RA) embraced Islam in the year of Khaybar and became a devoted narrator and jurist. Umar ibn al-Khattab sent him to Basra to teach the people fiqh, and he later served there as a judge. In his final years he was afflicted by a painful, drawn-out illness which he bore with remarkable patience; it is reported that the angels would greet him with salam, a comfort that paused when he consented to be cauterized and returned when he left the treatment. He narrated around 130 hadith and was esteemed for his knowledge and forbearance.",
-    "summaryBn": "ইমরান ইবনে হুসাইন আল-খুযাঈ (রাঃ) খায়বারের বছরে ইসলাম গ্রহণ করেন এবং একজন নিষ্ঠাবান বর্ণনাকারী ও ফকিহে পরিণত হন। উমর ইবনুল খাত্তাব (রাঃ) তাঁকে বসরার মানুষকে ফিকহ শেখাতে পাঠান এবং পরে তিনি সেখানে বিচারকের দায়িত্ব পালন করেন। জীবনের শেষ বছরগুলোতে তিনি এক যন্ত্রণাদায়ক দীর্ঘ রোগে আক্রান্ত হন, যা তিনি অসাধারণ ধৈর্যের সঙ্গে সহ্য করেন; বর্ণিত আছে, ফেরেশতারা তাঁকে সালাম দিতেন—এই সান্ত্বনা তখন থেমে যায় যখন তিনি দাগ দিয়ে চিকিৎসায় সম্মত হন, আর চিকিৎসা ছেড়ে দিলে তা ফিরে আসে। তিনি প্রায় ১৩০টি হাদিস বর্ণনা করেন এবং জ্ঞান ও সহনশীলতার জন্য সম্মানিত ছিলেন।",
+    "summaryEn": "Imran ibn Husayn al-Khuza'i (RA) embraced Islam in the year of Khaybar and became a devoted narrator and jurist. Umar ibn al-Khattab sent him to Basra to teach the people fiqh, and he later served there as a judge. In his final years he was afflicted by a painful, drawn-out illness which he bore with remarkable patience; it is reported that the angels would greet him with salam, a comfort that paused when he consented to be cauterized and returned when he left the treatment. He narrated around 180 hadith and was esteemed for his knowledge and forbearance.",
+    "summaryBn": "ইমরান ইবনে হুসাইন আল-খুযাঈ (রাঃ) খায়বারের বছরে ইসলাম গ্রহণ করেন এবং একজন নিষ্ঠাবান বর্ণনাকারী ও ফকিহে পরিণত হন। উমর ইবনুল খাত্তাব (রাঃ) তাঁকে বসরার মানুষকে ফিকহ শেখাতে পাঠান এবং পরে তিনি সেখানে বিচারকের দায়িত্ব পালন করেন। জীবনের শেষ বছরগুলোতে তিনি এক যন্ত্রণাদায়ক দীর্ঘ রোগে আক্রান্ত হন, যা তিনি অসাধারণ ধৈর্যের সঙ্গে সহ্য করেন; বর্ণিত আছে, ফেরেশতারা তাঁকে সালাম দিতেন—এই সান্ত্বনা তখন থেমে যায় যখন তিনি দাগ দিয়ে চিকিৎসায় সম্মত হন, আর চিকিৎসা ছেড়ে দিলে তা ফিরে আসে। তিনি প্রায় ১৮০টি হাদিস বর্ণনা করেন এবং জ্ঞান ও সহনশীলতার জন্য সম্মানিত ছিলেন।",
     "events": [
       {
         "en": "Embraced Islam in the year of Khaybar (7 AH)",
@@ -3187,8 +3187,8 @@ const SAHABA_DATA = [
         "bn": "দীর্ঘ রোগ ধৈর্যের সঙ্গে সহ্য করেন; ফেরেশতারা তাঁকে সালাম দিতেন"
       },
       {
-        "en": "Narrated about 130 hadith of the Prophet ﷺ",
-        "bn": "নবীজি ﷺ-এর প্রায় ১৩০টি হাদিস বর্ণনা করেন"
+        "en": "Narrated about 180 hadith of the Prophet ﷺ",
+        "bn": "নবীজি ﷺ-এর প্রায় ১৮০টি হাদিস বর্ণনা করেন"
       }
     ],
     "refs": [],
@@ -3688,7 +3688,7 @@ const SAHABA_DATA = [
     "woman": false,
     "roleEn": "The Cousin Who Returned",
     "roleBn": "ফিরে আসা চাচাতো ভাই",
-    "yearEn": "d. 639 CE",
+    "yearEn": "d. c. 640 CE",
     "highlightEn": "The Prophet's ﷺ cousin and foster-brother who embraced Islam before the conquest of Makkah.",
     "highlightBn": "নবীজি ﷺ-এর চাচাতো ভাই ও দুধভাই, মক্কা বিজয়ের আগে ইসলাম গ্রহণ করেন।",
     "summaryEn": "Abu Sufyan ibn al-Harith (RA) was a cousin of the Prophet Muhammad (peace be upon him) and his foster-brother, having been nursed by the same woman, and in youth a close friend. Yet after the mission began he opposed the Prophet for years and composed poetry mocking him. As the Muslims marched to conquer Makkah, he came with his son, repented sincerely, and embraced Islam; the Prophet forgave him warmly. He then fought valiantly at the Battle of Hunayn, standing firm beside the Prophet when many fled, holding the reins of his mule. So complete was his transformation that the Prophet said he hoped Abu Sufyan would be a substitute for Hamza. He lived a life of deep humility and worship until his death.",
@@ -3824,8 +3824,8 @@ const SAHABA_DATA = [
     "yearEn": "d. 633 CE",
     "highlightEn": "Shot with arrows while praying on guard duty, he refused to break his prayer.",
     "highlightBn": "পাহারায় নামাজরত অবস্থায় তীরবিদ্ধ হয়েও নামাজ ভাঙেননি।",
-    "summaryEn": "Abbad ibn Bishr (RA) was a young Ansari companion who embraced Islam at the hands of Musab ibn Umayr before the Hijra, and became known for his devotion, his beautiful recitation, and his night prayer. On one expedition he and Ammar ibn Yasir took turns guarding the camp; Abbad stood in voluntary prayer during his watch, and when an enemy shot him with three arrows he pulled each one out and continued his prayer rather than cut it short, only then waking his companion. The Prophet Muhammad (peace be upon him) once heard his recitation at night and praised it. He was one of the trusted men entrusted to break the idols after the conquest, and he was martyred at the Battle of Yamama, fighting to rally the Ansar.",
-    "summaryBn": "আব্বাদ ইবনে বিশর (রাঃ) ছিলেন একজন তরুণ আনসারি সাহাবি, যিনি হিজরতের আগে মুসআব ইবনে উমায়েরের হাতে ইসলাম গ্রহণ করেন এবং তাঁর নিষ্ঠা, সুন্দর তিলাওয়াত ও রাতের নামাজের জন্য পরিচিত হন। এক অভিযানে তিনি ও আম্মার ইবনে ইয়াসির পালা করে শিবির পাহারা দেন; আব্বাদ তাঁর পালায় নফল নামাজে দাঁড়ান, আর শত্রু তাঁকে তিনটি তীর মারলে তিনি প্রতিটি তীর খুলে ফেলে নামাজ সংক্ষিপ্ত না করে চালিয়ে যান, তারপরই সঙ্গীকে জাগান। রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) একবার রাতে তাঁর তিলাওয়াত শুনে প্রশংসা করেন। বিজয়ের পর মূর্তি ভাঙার জন্য নিয়োজিত বিশ্বস্তদের একজন ছিলেন তিনি, আর ইয়ামামার যুদ্ধে আনসারকে সমবেত করতে লড়াই করে শহীদ হন।",
+    "summaryEn": "Abbad ibn Bishr (RA) was a young Ansari companion who embraced Islam at the hands of Musab ibn Umayr before the Hijra, and became known for his devotion, his beautiful recitation, and his night prayer. On one expedition he and Ammar ibn Yasir took turns guarding the camp; Abbad stood in voluntary prayer during his watch, and when an enemy shot him with three arrows he pulled each one out and continued his prayer rather than cut it short, only then waking his companion. The Prophet Muhammad (peace be upon him) once heard his recitation at night and praised it. He was martyred at the Battle of Yamama, fighting to rally the Ansar.",
+    "summaryBn": "আব্বাদ ইবনে বিশর (রাঃ) ছিলেন একজন তরুণ আনসারি সাহাবি, যিনি হিজরতের আগে মুসআব ইবনে উমায়েরের হাতে ইসলাম গ্রহণ করেন এবং তাঁর নিষ্ঠা, সুন্দর তিলাওয়াত ও রাতের নামাজের জন্য পরিচিত হন। এক অভিযানে তিনি ও আম্মার ইবনে ইয়াসির পালা করে শিবির পাহারা দেন; আব্বাদ তাঁর পালায় নফল নামাজে দাঁড়ান, আর শত্রু তাঁকে তিনটি তীর মারলে তিনি প্রতিটি তীর খুলে ফেলে নামাজ সংক্ষিপ্ত না করে চালিয়ে যান, তারপরই সঙ্গীকে জাগান। রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) একবার রাতে তাঁর তিলাওয়াত শুনে প্রশংসা করেন। ইয়ামামার যুদ্ধে আনসারকে সমবেত করতে লড়াই করে তিনি শহীদ হন।",
     "events": [
       {
         "en": "Embraced Islam through Musab ibn Umayr in Madinah",

@@ -261,7 +261,7 @@ const SEERAH_EVENTS = [
   },
 
   {
-    id: 'ifk', era: 'medinan', yearCE: '626 CE', yearAH: '6 AH',
+    id: 'ifk', era: 'medinan', yearCE: '627 CE', yearAH: '5–6 AH',
     placeEn: 'Medina', placeBn: 'মদিনা',
     titleEn: 'The Incident of Ifk',
     titleBn: 'ইফকের ঘটনা',
@@ -301,7 +301,7 @@ const SEERAH_EVENTS = [
     descBn: 'নবী ﷺ দিহ্যা আল-কালবি (রাঃ)-কে বাইজেন্টিয়ামের সম্রাট হিরাক্লিয়াসের কাছে ইসলামের দাওয়াতের পত্র নিয়ে পাঠান। হিরাক্লিয়াস আবু সুফিয়ানের মাধ্যমে নবীর চরিত্র যাচাই করে সত্য নবীর সাথে মিল পান। তবু অভিজাতদের বাধা অতিক্রম করতে পারেননি।',
     lessonEn: 'Truth can be recognised even by those who do not ultimately follow it; the obligation of the caller is to convey, not compel.',
     lessonBn: 'সত্য তাদের দ্বারাও চেনা যায় যারা শেষপর্যন্ত এটি অনুসরণ করে না; দাওয়াতকারীর দায়িত্ব পৌঁছে দেওয়া, বাধ্য করা নয়।',
-    ayah: '36:17',
+    ayah: '3:64',
   },
   {
     id: 'letter_chosroes', era: 'medinan', yearCE: '628 CE', yearAH: '7 AH',
@@ -312,7 +312,6 @@ const SEERAH_EVENTS = [
     descBn: 'নবী ﷺ আবদুল্লাহ ইবনে হুযাফা আল-সাহমি (রাঃ)-কে সাসানীয় সাম্রাজ্যের সম্রাট খসরু পারভেজ দ্বিতীয়-এর কাছে পাঠান। খসরু ক্রোধে চিঠি ছিঁড়ে ফেলেন। নবী ﷺ বলেন: আল্লাহ তার রাজ্য ছিঁড়ে দিন। নবীর ইন্তেকালের দুই দশকের মধ্যে সাসানীয় সাম্রাজ্য মূলত ধ্বংস হয়ে যায়।',
     lessonEn: 'Arrogance before divine truth carries its own consequence; humility before guidance is the only wise response.',
     lessonBn: 'ঐশী সত্যের সামনে অহংকারের নিজস্ব পরিণতি আছে; হেদায়েতের সামনে বিনয়ই একমাত্র বিজ্ঞোচিত প্রতিক্রিয়া।',
-    ayah: '17:16',
   },
   {
     id: 'khaybar', era: 'medinan', yearCE: '628 CE', yearAH: '7 AH',
@@ -359,7 +358,7 @@ const SEERAH_EVENTS = [
     ayah: '9:25',
   },
   {
-    id: 'tabuk', era: 'farewell', yearCE: '631 CE', yearAH: '9 AH',
+    id: 'tabuk', era: 'farewell', yearCE: '630 CE', yearAH: '9 AH',
     placeEn: 'Tabuk', placeBn: 'তাবুক',
     titleEn: 'The Expedition of Tabuk',
     titleBn: 'তাবুক অভিযান',
@@ -410,7 +409,6 @@ const SEERAH_EVENTS = [
     descBn: 'জীবনের শেষ সপ্তাহগুলোতে গুরুতর অসুস্থ হলেও নবী ﷺ জোর দেন যে তরুণ উসামার নেতৃত্বে অভিযান চলতে হবে। নবীর ইন্তেকালের পর বাহিনী আবু বকরের নির্দেশে রওনা হয় — নেতার প্রতিশ্রুতি তার মৃত্যুর পরও রক্ষার প্রমাণ।',
     lessonEn: 'Merit, not seniority alone, determines leadership; and the commitments of a righteous leader outlive him.',
     lessonBn: 'যোগ্যতাই নেতৃত্ব নির্ধারণ করে; এবং একজন নেক নেতার প্রতিশ্রুতি তার চেয়ে দীর্ঘস্থায়ী।',
-    ayah: '4:58',
   },
   {
     id: 'farewell', era: 'farewell', yearCE: '632 CE', yearAH: '10 AH',
@@ -1258,7 +1256,7 @@ const SEERAH_LESSONS = [
   // ── Wave-2 lesson additions ────────────────────────────────────────────────────
   { id: 'ls_torture_patience', emoji: '🔥', event: 'persecution', ayah: '39:10',
     textEn: 'Bilal (RA) cried Ahad! under stones on burning sand; Khabbab (RA) had hot coals pressed to his back. Neither renounced faith. Endurance under torture is the ultimate proof that conviction outweighs comfort.',
-    textBn: 'বিলাল (রাঃ) জ্বলন্ত বালির উপর পাথরের নিচে সাহসে শহাদত দিয়েছিলেন; খাব্বাব (রাঃ)-এর পিঠে জ্বলন্ত অঙ্গার চাপা দেওয়া হয়েছিল। নির্যাতনে অটল থাকা চূড়ান্ত প্রমাণ যে বিশ্বাস স্বাচ্ছন্দ্যের চেয়ে ভারি।' },
+    textBn: 'বিলাল (রাঃ) জ্বলন্ত বালির উপর পাথরচাপা অবস্থায় "আহাদ! আহাদ!" বলে চিৎকার করেছিলেন; খাব্বাব (রাঃ)-এর পিঠে জ্বলন্ত অঙ্গার চাপা দেওয়া হয়েছিল। কেউই ঈমান ত্যাগ করেননি। নির্যাতনে অটল থাকা চূড়ান্ত প্রমাণ যে বিশ্বাস স্বাচ্ছন্দ্যের চেয়ে ভারি।' },
   { id: 'ls_boycott_provision', emoji: '🌾', event: 'persecution', ayah: '65:3',
     textEn: 'For three years Banu Hashim endured a complete economic boycott in Shi’b Abi Talib, nearly cut off from food. Their survival taught: whoever puts full trust in Allah, Allah provides from where he never expected.',
     textBn: 'তিন বছর বনু হাশিম শিআব আবি তালিবে সম্পূর্ণ অর্থনৈতিক বয়কট সহ্য করে। তাদের টিকে থাকা শেখায়: যে আল্লাহর উপর পূর্ণ ভরসা রাখে, আল্লাহ তাকে অপ্রত্যাশিত উৎস থেকে রিয্যিক দেন।' },
@@ -1325,8 +1323,8 @@ const SEERAH_MECCAN_MEDINAN = {
       { ref: '96:1', nameEn: 'al-‘Alaq (96)', nameBn: 'আলাক (৯৬)' },
       { ref: '112:1', nameEn: 'al-Ikhlas (112)', nameBn: 'ইখলাস (১১২)' },
       { ref: '74:1', nameEn: 'al-Muddaththir (74)', nameBn: 'মুদ্দাসসির (৭৪)' },
-      { ref: '36:1', nameEn: 'Ya-Sin (36)', nameBn: 'ইয়া-সিন (੦)' },
-      { ref: '19:1', nameEn: 'Maryam (19)', nameBn: 'মারয়িয়াম (১৯)' },
+      { ref: '36:1', nameEn: 'Ya-Sin (36)', nameBn: 'ইয়া-সিন (৩৬)' },
+      { ref: '19:1', nameEn: 'Maryam (19)', nameBn: 'মারইয়াম (১৯)' },
       { ref: '55:1', nameEn: 'ar-Rahman (55)', nameBn: 'আর-রহমান (৫৫)' },
       { ref: '56:1', nameEn: 'al-Waqiah (56)', nameBn: 'ওয়াকিয়া (৫৬)' },
       { ref: '18:1', nameEn: 'al-Kahf (18)', nameBn: 'কাহফ (১৮)' },
@@ -1340,11 +1338,11 @@ const SEERAH_MECCAN_MEDINAN = {
       { ref: '2:1', nameEn: 'al-Baqarah (2)', nameBn: 'বাকারা (২)' },
       { ref: '4:1', nameEn: 'an-Nisa (4)', nameBn: 'নিসা (৪)' },
       { ref: '5:1', nameEn: 'al-Ma’idah (5)', nameBn: 'মায়িদা (৫)' },
-      { ref: '3:1', nameEn: 'Ali Imran (3)', nameBn: 'আলে ইমরান (੩)' },
-      { ref: '33:1', nameEn: 'al-Ahzab (33)', nameBn: 'আহযাব (੩੩)' },
-      { ref: '48:1', nameEn: 'al-Fath (48)', nameBn: 'আল-ফাতহ (੪੮)' },
-      { ref: '9:1', nameEn: 'at-Tawbah (9)', nameBn: 'তাওবা (੯)' },
-      { ref: '60:1', nameEn: 'al-Mumtahanah (60)', nameBn: 'মুমতাহানা (੬੦)' },
+      { ref: '3:1', nameEn: 'Ali Imran (3)', nameBn: 'আলে ইমরান (৩)' },
+      { ref: '33:1', nameEn: 'al-Ahzab (33)', nameBn: 'আহযাব (৩৩)' },
+      { ref: '48:1', nameEn: 'al-Fath (48)', nameBn: 'আল-ফাতহ (৪৮)' },
+      { ref: '9:1', nameEn: 'at-Tawbah (9)', nameBn: 'তাওবা (৯)' },
+      { ref: '60:1', nameEn: 'al-Mumtahanah (60)', nameBn: 'মুমতাহানা (৬০)' },
     ],
   },
 };
