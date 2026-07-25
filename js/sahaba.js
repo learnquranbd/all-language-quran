@@ -33,6 +33,8 @@ class SahabaView {
     this.query = '';
     this.selected = null;     // companion id when in detail view
     this.read = this.loadRead();
+    this.quizState = null;    // active quiz session, or null
+    this.quizBest = this.loadQuizBest();
 
     window.addEventListener('tabChanged', (e) => {
       try { if (e && e.detail && e.detail.tabId === 'sahaba') this.render(); } catch (_) { /* ignore */ }
@@ -83,6 +85,13 @@ class SahabaView {
   }
   saveRead() {
     try { localStorage.setItem('lq_sahaba_read', JSON.stringify([...this.read])); } catch (_) { /* ignore */ }
+  }
+
+  loadQuizBest() {
+    try { const n = parseInt(localStorage.getItem('lq_sahaba_quiz_best'), 10); return Number.isFinite(n) ? n : 0; } catch (_) { return 0; }
+  }
+  saveQuizBest(n) {
+    try { localStorage.setItem('lq_sahaba_quiz_best', String(n)); } catch (_) { /* ignore */ }
   }
 
   surahName(n) {
@@ -147,6 +156,7 @@ class SahabaView {
   render() {
     if (!this.container) return;
     this.rendered = true;
+    if (this.quizState) { this.renderQuiz(); this.bind(); return; }
 
     const total = SAHABA_DATA.length;
     const readCount = SAHABA_DATA.filter(c => this.read.has(c.id)).length;
@@ -217,6 +227,17 @@ class SahabaView {
         ${this.asharaStripHtml()}
 
         <div data-sahaba-list></div>
+
+        <div class="mt-6 rounded-2xl bg-gradient-to-br from-primary/10 to-transparent border border-primary/20 p-5 text-center">
+          <div class="text-2xl mb-1" aria-hidden="true">✦</div>
+          <h3 class="font-bold text-gray-800 dark:text-gray-100">${this.esc(this.tt('sahaba_quiz_title'))}</h3>
+          <p class="text-xs text-gray-500 dark:text-gray-400 mt-1 mb-3" dir="auto">${this.esc(this.tt('sahaba_quiz_intro'))}</p>
+          <button type="button" data-sahaba-quiz-start
+            class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-primary text-white font-semibold hover:opacity-90 transition-opacity">
+            ▶ ${this.esc(this.tt('sahaba_quiz_start'))}
+          </button>
+          ${this.quizBest ? `<p class="text-[0.7rem] text-gray-400 dark:text-gray-500 mt-2">🏆 ${this.esc(this.tt('sahaba_quiz_best'))}: ${this.quizBest}</p>` : ''}
+        </div>
 
         <div class="mt-6 rounded-lg bg-gray-50 dark:bg-gray-800/60 p-3">
           <p class="text-[0.7rem] text-gray-400 dark:text-gray-500 leading-relaxed" dir="auto">ℹ️ ${this.esc(this.tt('sahaba_note'))}</p>
@@ -436,6 +457,205 @@ class SahabaView {
     try { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); } catch (_) { /* ignore */ }
   }
 
+  // ── quiz ─────────────────────────────────────────────────────────────
+  shuffle(arr) {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      const t2 = a[i]; a[i] = a[j]; a[j] = t2;
+    }
+    return a;
+  }
+
+  // 3 distractor companions for `c` — same-era preferred (harder), then rest.
+  // `promptEn` (optional): exclude companions whose own highlight/events carry
+  // the same text, so a fact shared by two companions never yields two
+  // defensible options (e.g. "Martyred at the Battle of Uhud").
+  eraDistractors(c, n, promptEn) {
+    const shares = (x) => !!promptEn && (
+      x.highlightEn === promptEn ||
+      (Array.isArray(x.events) && x.events.some(e => e && e.en === promptEn))
+    );
+    const others = SAHABA_DATA.filter(x => x.id !== c.id && !shares(x));
+    const same = this.shuffle(others.filter(x => x.era === c.era));
+    const rest = this.shuffle(others.filter(x => x.era !== c.era));
+    return same.concat(rest).slice(0, n);
+  }
+
+  // Distractors whose role TEXT differs from the answer's (and each other's),
+  // so role/title questions have exactly one defensible answer. Same-era first.
+  roleDistractors(c, n) {
+    const seen = {};
+    seen[String(c.roleEn || '')] = true;
+    const others = SAHABA_DATA.filter(x => x.id !== c.id);
+    const ordered = this.shuffle(others.filter(x => x.era === c.era))
+      .concat(this.shuffle(others.filter(x => x.era !== c.era)));
+    const out = [];
+    for (let i = 0; i < ordered.length && out.length < n; i++) {
+      const r = String(ordered[i].roleEn || '');
+      if (!r || seen[r]) continue;
+      seen[r] = true; out.push(ordered[i]);
+    }
+    return out;
+  }
+
+  // One question. Only ids + the prompt source are stored; labels are resolved
+  // at render time, so a mid-quiz language switch re-localizes cleanly.
+  buildQuestion(c, type) {
+    try {
+      if (type === 'role' || type === 'title') {
+        const distract = this.roleDistractors(c, 3);
+        if (distract.length === 3) {
+          const optionIds = this.shuffle(distract.concat(c).map(o => o.id));
+          return {
+            promptType: type, answerId: c.id,
+            answerIdx: optionIds.indexOf(c.id),
+            optionIds, prompt: null,
+          };
+        }
+        // not enough distinct roles → fall through to a highlight question
+      }
+      const events = Array.isArray(c.events) ? c.events : [];
+      const useEvent = events.length && Math.random() < 0.6;
+      const prompt = useEvent
+        ? events[Math.floor(Math.random() * events.length)]
+        : { en: c.highlightEn, bn: c.highlightBn };
+      const distract = this.eraDistractors(c, 3, prompt && prompt.en);
+      if (distract.length < 3) return null;
+      const optionIds = this.shuffle(distract.concat(c).map(o => o.id));
+      return {
+        promptType: 'highlight', answerId: c.id,
+        answerIdx: optionIds.indexOf(c.id),
+        optionIds, prompt,
+      };
+    } catch (_) { return null; }
+  }
+
+  buildQuiz() {
+    const chosen = this.shuffle(SAHABA_DATA).slice(0, 6);
+    const types = this.shuffle(['highlight', 'highlight', 'role', 'role', 'title', 'title']);
+    const questions = chosen.map((c, i) => this.buildQuestion(c, types[i])).filter(Boolean);
+    return { questions: this.shuffle(questions), idx: 0, score: 0, answeredId: null, done: false };
+  }
+
+  quizPromptLabel(q) {
+    if (q.promptType === 'role') return this.tt('sahaba_quiz_q_role');
+    if (q.promptType === 'title') return this.tt('sahaba_quiz_q_title');
+    return this.tt('sahaba_quiz_q_highlight');
+  }
+  quizPromptText(q) {
+    const c = SAHABA_DATA.find(x => x.id === q.answerId);
+    if (q.promptType === 'role') return c ? (this.cname(c) + ' — ' + c.ar) : '';
+    if (q.promptType === 'title') return c ? this.loc(c, 'role') : '';
+    return this.lc(q.prompt);
+  }
+  quizOptionLabel(q, id) {
+    const c = SAHABA_DATA.find(x => x.id === id);
+    if (!c) return String(id || '');
+    return q.promptType === 'role' ? this.loc(c, 'role') : this.cname(c);
+  }
+
+  renderQuiz() {
+    const q = this.quizState;
+    if (!q) { this.render(); return; }
+    const total = q.questions.length;
+
+    if (q.done) {
+      const passed = q.score === total;
+      this.container.innerHTML = `
+        <div class="w-full max-w-md mx-auto py-8 text-center">
+          <div class="text-4xl mb-2" aria-hidden="true">${passed ? '🌟' : '✦'}</div>
+          <h2 class="text-xl font-bold text-gray-800 dark:text-gray-100 mb-1">${this.esc(this.tt('sahaba_quiz_result'))}</h2>
+          <p class="text-3xl font-extrabold text-primary my-3">${q.score} / ${total}</p>
+          <p class="text-sm text-gray-500 dark:text-gray-400 mb-5">🏆 ${this.esc(this.tt('sahaba_quiz_best'))}: ${this.quizBest}</p>
+          <div class="flex items-center justify-center gap-2">
+            <button type="button" data-sahaba-quiz-restart
+              class="px-5 py-2.5 rounded-xl bg-primary text-white font-semibold hover:opacity-90 transition-opacity">↻ ${this.esc(this.tt('sahaba_quiz_restart'))}</button>
+            <button type="button" data-sahaba-quiz-close
+              class="px-5 py-2.5 rounded-xl bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300 font-semibold hover:text-primary transition-colors">${this.esc(this.tt('sahaba_quiz_close'))}</button>
+          </div>
+        </div>`;
+      return;
+    }
+
+    const cur = q.questions[q.idx];
+    const answered = q.answeredId != null;
+    const pct = Math.round((q.idx / total) * 100);
+
+    const optsHtml = cur.optionIds.map(id => {
+      let cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 hover:border-primary';
+      let mark = '';
+      if (answered) {
+        if (id === cur.answerId) { cls = 'bg-green-50 dark:bg-green-900/30 border-green-400 dark:border-green-700'; mark = '<span class="text-green-500">✓</span>'; }
+        else if (id === q.answeredId) { cls = 'bg-red-50 dark:bg-red-900/30 border-red-400 dark:border-red-700'; mark = '<span class="text-red-500">✗</span>'; }
+        else { cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 opacity-60'; }
+      }
+      return `<button type="button" ${answered ? 'disabled' : ''} data-sahaba-quiz-answer="${this.esc(id)}"
+        class="w-full flex items-center justify-between gap-2 text-left px-4 py-3 rounded-xl border font-medium text-gray-700 dark:text-gray-200 transition-colors ${cls}">
+        <span dir="auto">${this.esc(this.quizOptionLabel(cur, id))}</span> ${mark}</button>`;
+    }).join('');
+
+    const correctLabel = this.quizOptionLabel(cur, cur.answerId);
+    const feedback = answered
+      ? (q.answeredId === cur.answerId
+          ? `<p class="text-sm font-semibold text-green-600 dark:text-green-400 text-center mt-3">✓ ${this.esc(this.tt('sahaba_quiz_correct'))}</p>`
+          : `<p class="text-sm font-semibold text-red-500 text-center mt-3">${this.esc(this.tt('sahaba_quiz_wrong'))}: ${this.esc(correctLabel)}</p>`)
+      : '';
+    const isLast = q.idx === total - 1;
+
+    this.container.innerHTML = `
+      <div class="w-full max-w-md mx-auto py-4">
+        <div class="flex items-center justify-between mb-2 text-xs text-gray-500 dark:text-gray-400">
+          <span>${this.esc(this.tt('sahaba_quiz_question'))} ${q.idx + 1} / ${total}</span>
+          <span>${this.esc(this.tt('sahaba_quiz_score'))}: <strong class="text-primary">${q.score}</strong> · 🏆 ${this.quizBest}</span>
+        </div>
+        <div class="h-1.5 rounded-full bg-gray-100 dark:bg-gray-700 overflow-hidden mb-4">
+          <div class="h-full bg-primary transition-all" style="width:${pct}%"></div>
+        </div>
+        <div class="rounded-2xl bg-gray-50 dark:bg-gray-800/60 border border-gray-200 dark:border-gray-700 p-4 mb-4">
+          <p class="text-xs text-gray-400 dark:text-gray-500 mb-1">${this.esc(this.quizPromptLabel(cur))}</p>
+          <p class="text-base font-semibold text-gray-800 dark:text-gray-100 leading-relaxed" dir="auto">${this.esc(this.quizPromptText(cur))}</p>
+        </div>
+        <div class="space-y-2">${optsHtml}</div>
+        ${feedback}
+        <div class="mt-4 flex items-center justify-between">
+          <button type="button" data-sahaba-quiz-close
+            class="text-xs text-gray-400 hover:text-red-500 transition-colors">✕ ${this.esc(this.tt('sahaba_quiz_close'))}</button>
+          ${answered ? `<button type="button" data-sahaba-quiz-next
+            class="px-5 py-2.5 rounded-xl bg-primary text-white font-semibold hover:opacity-90 transition-opacity">${this.esc(isLast ? this.tt('sahaba_quiz_finish') : this.tt('sahaba_quiz_next'))} →</button>` : ''}
+        </div>
+      </div>`;
+  }
+
+  quizStart() { this.quizState = this.buildQuiz(); this.render(); this.scrollTop(); }
+  quizClose() { this.quizState = null; this.render(); this.scrollTop(); }
+
+  quizAnswer(id) {
+    const q = this.quizState;
+    if (!q || q.answeredId != null) return;
+    const cur = q.questions[q.idx];
+    q.answeredId = id;
+    if (id === cur.answerId) q.score++;
+    this.renderQuiz();
+  }
+
+  quizNext() {
+    const q = this.quizState;
+    if (!q) return;
+    if (q.idx < q.questions.length - 1) {
+      q.idx++; q.answeredId = null;
+      this.renderQuiz();
+    } else {
+      q.done = true;
+      if (q.score > this.quizBest) { this.quizBest = q.score; this.saveQuizBest(q.score); }
+      this.renderQuiz();
+    }
+  }
+
+  scrollTop() {
+    try { if (this.container && this.container.scrollIntoView) this.container.scrollIntoView({ block: 'start' }); } catch (_) { /* ignore */ }
+  }
+
   // ── events ───────────────────────────────────────────────────────────
   bind() {
     if (this._bound) return;
@@ -443,6 +663,18 @@ class SahabaView {
 
     this.container.addEventListener('click', (e) => {
       try {
+        const quizStart = e.target.closest('[data-sahaba-quiz-start], [data-sahaba-quiz-restart]');
+        if (quizStart) { this.quizStart(); return; }
+
+        const quizClose = e.target.closest('[data-sahaba-quiz-close]');
+        if (quizClose) { this.quizClose(); return; }
+
+        const quizAnswer = e.target.closest('[data-sahaba-quiz-answer]');
+        if (quizAnswer) { this.quizAnswer(quizAnswer.getAttribute('data-sahaba-quiz-answer')); return; }
+
+        const quizNext = e.target.closest('[data-sahaba-quiz-next]');
+        if (quizNext) { this.quizNext(); return; }
+
         const close = e.target.closest('[data-sahaba-close]');
         if (close) { this.selected = null; this.render(); return; }
 
