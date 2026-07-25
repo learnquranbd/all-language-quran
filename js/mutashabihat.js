@@ -140,6 +140,9 @@ class Mutashabihat {
         return;
       }
 
+      const ctl = e.target.closest('[data-mt-card-tl]');
+      if (ctl) { this.openCardTimeline(ctl.getAttribute('data-mt-card-tl')); return; }
+
       const gv = e.target.closest('[data-mt-group-view]');
       if (gv) { this.openGroupViewer(gv.getAttribute('data-mt-group-view')); return; }
 
@@ -301,7 +304,7 @@ class Mutashabihat {
             <span class="shrink-0 px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 text-[0.65rem] font-medium">${g.verses.length} ${this.tt('mt_group_verses_label')}</span>
           </div>
           <p class="text-xs text-gray-500 dark:text-gray-400 mb-3 leading-relaxed">${this.esc(this.L({ en: g.descEn, bn: g.descBn }))}</p>
-          <div class="flex flex-wrap gap-1.5">${chips}</div>
+          <div class="flex flex-wrap gap-1.5">${chips}<button data-mt-card-tl="${key}" class="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-xs font-medium hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">\ud83d\udd50 ${this.tt('mt_group_open_all')}</button></div>
           <button data-mt-group-view="${g.id}"
             class="mt-3 w-full inline-flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-xs font-medium hover:bg-primary/20 dark:hover:bg-primary/30 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
             🕐 ${this.esc(this.tt('mt_group_open_all'))} · ${g.verses.length}
@@ -333,70 +336,31 @@ class Mutashabihat {
     if (this._gvEl) { try { this._gvEl.remove(); } catch (e) { /* ignore */ } this._gvEl = null; }
   }
 
+  /** Browse mode: open a verse + all its similar verses in the shared timeline,
+   * highlighting the top shared phrase in every verse where it occurs. */
+  openCardTimeline(key) {
+    if (typeof ayahTimeline === 'undefined') return;
+    const sims = (this.index && this.index[key]) || [];
+    if (!sims.length) return;
+    const [, topLen, topStart] = sims[0];
+    const phrase = (this.words[key] || []).slice(topStart || 0, (topStart || 0) + topLen).join(' ');
+    const [s] = key.split(':');
+    ayahTimeline.open({
+      title: `${this.surahName(s)} ${key} — ${this.tt('mutashabihat_similar')}`,
+      refs: [key].concat(sims.map(x => x[0])),
+      phrase
+    });
+  }
+
   openGroupViewer(id) {
     const g = (typeof MUTASHABIHAT_GROUPS !== 'undefined' ? MUTASHABIHAT_GROUPS : []).find(x => x.id === id);
-    if (!g) return;
-    this.closeGroupViewer();
-
-    const items = g.verses.map(ref => {
-      const [s] = ref.split(':');
-      const arabic = (this.words && this.words[ref]) ? this.words[ref].join(' ') : '';
-      return `
-        <li class="relative pl-5 pb-5 border-l-2 border-primary/25 ml-2 last:pb-1">
-          <span class="absolute -left-[7px] top-1 w-3 h-3 rounded-full bg-primary/70 border-2 border-white dark:border-gray-800" aria-hidden="true"></span>
-          <button data-mt-ref="${ref}" title="${this.esc(this.tt('mt_group_open_verse'))} ${ref}"
-            class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-md bg-gray-100 dark:bg-gray-700/60 text-xs font-medium text-gray-700 dark:text-gray-200 hover:bg-primary/10 hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
-            ${this.esc(this.surahName(s))} <span class="text-gray-400 dark:text-gray-500">${ref}</span> <span aria-hidden="true">↗</span>
-          </button>
-          ${arabic ? `<div class="ayah-arabic !text-lg !leading-loose !border-b-0 !pb-0 mt-1.5 text-gray-800 dark:text-gray-100" dir="rtl">${this.esc(arabic)}</div>` : ''}
-          <div class="text-xs text-gray-500 dark:text-gray-400 mt-1 leading-relaxed" data-mt-gv-tr="${ref}"></div>
-        </li>`;
-    }).join('');
-
-    const el = document.createElement('div');
-    el.className = 'fixed inset-0 z-[70] flex items-end sm:items-center justify-center';
-    el.innerHTML = `
-      <div class="absolute inset-0 bg-black/60" data-mt-gv-close></div>
-      <div class="relative bg-white dark:bg-gray-800 w-full sm:max-w-2xl max-h-[88vh] rounded-t-2xl sm:rounded-2xl shadow-xl flex flex-col overflow-hidden">
-        <div class="flex items-start gap-3 p-4 pb-3 border-b border-gray-100 dark:border-gray-700">
-          <div class="flex-1 min-w-0">
-            <div class="font-semibold text-sm text-gray-800 dark:text-gray-100">${this.esc(this.L({ en: g.nameEn, bn: g.nameBn }))}</div>
-            <div class="ayah-arabic !text-base !leading-snug !border-b-0 !pb-0 text-gray-500 dark:text-gray-400 mt-0.5" dir="rtl">${this.esc(g.nameAr)}</div>
-          </div>
-          <span class="shrink-0 px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 text-[0.65rem] font-medium">${g.verses.length} ${this.esc(this.tt('mt_group_verses_label'))}</span>
-          <button data-mt-gv-close aria-label="${this.esc(this.tt('close'))}"
-            class="shrink-0 w-8 h-8 -mt-1 -mr-1 inline-flex items-center justify-center rounded-full text-gray-400 hover:text-gray-600 dark:hover:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">✕</button>
-        </div>
-        <div class="overflow-y-auto p-4 pt-3">
-          <p class="text-xs text-gray-500 dark:text-gray-400 mb-4 leading-relaxed">${this.esc(this.L({ en: g.descEn, bn: g.descBn }))}</p>
-          <ol class="list-none m-0 p-0">${items}</ol>
-        </div>
-      </div>`;
-
-    el.addEventListener('click', (e) => {
-      if (e.target.closest('[data-mt-gv-close]')) { this.closeGroupViewer(); return; }
-      const chip = e.target.closest('[data-mt-ref]');
-      if (chip && typeof ayahModal !== 'undefined' && ayahModal) {
-        ayahModal.open(chip.getAttribute('data-mt-ref'));
-      }
+    if (!g || typeof ayahTimeline === 'undefined') return;
+    ayahTimeline.open({
+      title: this.L({ en: g.nameEn, bn: g.nameBn }),
+      titleAr: g.nameAr,
+      subtitle: this.L({ en: g.descEn, bn: g.descBn }),
+      refs: g.verses
     });
-
-    document.body.appendChild(el);
-    this._gvEl = el;
-    // Close if the user navigates to another tab while the overlay is up.
-    window.addEventListener('tabChanged', () => this.closeGroupViewer(), { once: true });
-
-    // Fill in translations asynchronously (current language, falling back to English).
-    const lang = this.language || 'en';
-    this.trFile(lang).then(async (tr) => {
-      let dict = tr;
-      if (!dict && lang !== 'en') dict = await this.trFile('en');
-      if (!dict || !this._gvEl) return;
-      this._gvEl.querySelectorAll('[data-mt-gv-tr]').forEach(node => {
-        const t = dict[node.getAttribute('data-mt-gv-tr')];
-        if (t) node.textContent = t;
-      });
-    }).catch(() => { /* translations are an enhancement; Arabic already shown */ });
   }
 
   /* ---------- quiz ---------- */

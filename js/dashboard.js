@@ -182,7 +182,9 @@ class DashboardView {
     }).join(' ');
     return this.card(`
       ${this.heading(g.emoji || '🗂️', this.L(DASH_L.topic_day) + ' · ' + name)}
-      <div class="flex flex-wrap gap-1.5">${chips}</div>
+      <div class="flex flex-wrap gap-1.5">${chips}
+        <button data-dash-topic-tl="${this.esc(g.id)}" class="inline-flex items-center gap-1 px-2 py-1 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-xs font-medium hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🕐 ${this.esc(this.tt('mt_group_open_all'))}</button>
+      </div>
     `);
   }
 
@@ -288,6 +290,15 @@ class DashboardView {
     this.container.addEventListener('click', (e) => {
       const go = e.target.closest('[data-dash-go]');
       if (go) { this.goTab(go.getAttribute('data-dash-go')); return; }
+      const tl = e.target.closest('[data-dash-topic-tl]');
+      if (tl && typeof ayahTimeline !== 'undefined' && typeof TOPIC_GROUPS !== 'undefined') {
+        const g = TOPIC_GROUPS.find(x => x.id === tl.getAttribute('data-dash-topic-tl'));
+        if (g) {
+          const name = (g.names && (g.names[this.language] || g.names.en)) || g.id;
+          try { ayahTimeline.open({ title: `${g.emoji || ''} ${name}`.trim(), refs: g.refs }); } catch (_) { /* ignore */ }
+        }
+        return;
+      }
       const ay = e.target.closest('[data-dash-ayah]');
       if (ay && typeof ayahModal !== 'undefined' && ayahModal) {
         try { ayahModal.open(ay.getAttribute('data-dash-ayah')); } catch (_) { /* ignore */ }
