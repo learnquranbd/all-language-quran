@@ -61,7 +61,7 @@ class RecordMemorize {
     const count = surah ? surah.ayahCount : 7;
     const opt = (n, sel) => `<option value="${n}" ${n === sel ? 'selected' : ''}>${n}</option>`;
     this.root.innerHTML = `
-      <div class="w-full max-w-3xl mx-auto">
+      <div class="w-full">
         <div class="text-center mb-4">
           <h3 class="text-xl font-bold mb-1">🔴 ${this.tt('rec_title')}</h3>
           <p class="text-gray-500 dark:text-gray-400 text-sm">${this.tt('rec_subtitle')}</p>

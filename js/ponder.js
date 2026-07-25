@@ -515,7 +515,7 @@ class PonderCard {
           <button data-ponder-next aria-label="${this.esc(this.L('ponder_next'))}" title="${this.esc(this.L('ponder_next'))}"
                   class="w-9 h-9 flex items-center justify-center rounded-full border border-gray-300 dark:border-gray-600 text-lg leading-none text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">›</button>
         </div>
-        <div class="text-start max-w-3xl mx-auto space-y-2 mb-6">
+        <div class="text-start w-full space-y-2 mb-6">
           <p class="flex gap-2 text-sm text-gray-600 dark:text-gray-300"><span>💭</span><span>${p1}</span></p>
           <p class="flex gap-2 text-sm text-gray-600 dark:text-gray-300"><span>💭</span><span>${p2}</span></p>
           <p class="flex gap-2 text-sm text-gray-600 dark:text-gray-300"><span>💭</span><span>${p3}</span></p>

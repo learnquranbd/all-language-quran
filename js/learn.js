@@ -261,7 +261,7 @@ class LearnHub {
   /** Search box + "surprise me" nudge above the module grid. */
   controlsHtml() {
     return `
-      <div class="w-full max-w-3xl mx-auto mb-4 flex gap-2">
+      <div class="w-full mb-4 flex gap-2">
         <input id="learn-search" type="search" autocomplete="off"
                placeholder="${this.tt('learn_search_placeholder')}"
                class="flex-1 min-w-0 px-4 py-2 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700
@@ -344,7 +344,7 @@ class LearnHub {
       </div>`;
 
     return `
-      <div class="w-full max-w-3xl mx-auto mb-5 p-4 rounded-2xl bg-gray-50 dark:bg-gray-900/40 border border-gray-100 dark:border-gray-700">
+      <div class="w-full mb-5 p-4 rounded-2xl bg-gray-50 dark:bg-gray-900/40 border border-gray-100 dark:border-gray-700">
         <div class="text-xs uppercase font-semibold text-gray-400 mb-2 text-center">${this.tt('learn_dashboard_title')}</div>
         <div class="flex flex-wrap gap-2 mb-3">
           ${stat('🔥', streak, this.tt('learn_stat_streak'))}
@@ -378,7 +378,7 @@ class LearnHub {
       ? `${p.pct}%`
       : (p.chips && p.chips.length ? p.chips[0].text : '');
     return `
-      <div class="w-full max-w-3xl mx-auto mb-5">
+      <div class="w-full mb-5">
         <button id="learn-continue-btn" data-module="${c.module}"
                 class="w-full flex items-center gap-4 p-4 rounded-2xl text-left text-white shadow-lg
                        bg-gradient-to-r ${c.grad} hover:shadow-xl hover:-translate-y-0.5 transition-all">

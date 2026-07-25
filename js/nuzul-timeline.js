@@ -370,7 +370,7 @@ class NuzulView {
     }
     if (!body.trim()) body = `<p class="text-sm text-gray-500 dark:text-gray-400 py-8 text-center" dir="auto">${this.esc(this.lc({ en: 'No sūrah matches your search.', bn: 'আপনার অনুসন্ধানে কোনো সূরা মেলেনি।' }))}</p>`;
 
-    return `<div class="max-w-3xl mx-auto p-1">${this.header()}${this.subToggleHtml()}${this.renderFoundations()}${landmarks}${toggle}${body}</div>`;
+    return `<div class="w-full p-1">${this.header()}${this.subToggleHtml()}${this.renderFoundations()}${landmarks}${toggle}${body}</div>`;
   }
 
   /**
@@ -628,7 +628,7 @@ class NuzulView {
         <button data-nuzul-surah="${n < 114 ? n + 1 : 114}" class="text-sm text-gray-600 dark:text-gray-300 hover:text-emerald-600 ${n >= 114 ? 'invisible' : ''}">${this.esc(this.surahMeta(n + 1 > 114 ? 114 : n + 1).name)} →</button>
       </div>`;
 
-    return `<div class="max-w-2xl mx-auto p-1">${back}${headCard}${revInfoCard}${revNeighbors}${timeline}${nav}</div>`;
+    return `<div class="w-full p-1">${back}${headCard}${revInfoCard}${revNeighbors}${timeline}${nav}</div>`;
   }
 
   renderQuiz() {
@@ -681,7 +681,7 @@ class NuzulView {
          </div>`;
 
     return `
-      <div class="max-w-3xl mx-auto p-1">${this.header()}${this.subToggleHtml()}
+      <div class="w-full p-1">${this.header()}${this.subToggleHtml()}
         <div class="text-center mb-4">
           <p class="text-xs text-gray-400 dark:text-gray-500" dir="auto">${this.esc(this.tt('nuzul_quiz_intro'))}
             <span class="ml-2">· ${this.esc(this.tt('nuzul_quiz_best'))}: ${this.quizBest} / ${total}</span></p>
@@ -709,7 +709,7 @@ class NuzulView {
         </div>`;
     }).join('');
     return `
-      <div class="max-w-3xl mx-auto p-1">
+      <div class="w-full p-1">
         ${this.header()}
         ${this.subToggleHtml()}
         <p class="text-sm text-gray-600 dark:text-gray-300 mb-4 text-center leading-relaxed" dir="auto">${this.esc(this.tt('nuzul_themes_intro'))}</p>
@@ -758,7 +758,7 @@ class NuzulView {
     ];
 
     if (!this.phases.length) {
-      return `<div class="max-w-3xl mx-auto p-1">${this.header()}${this.subToggleHtml()}<p class="text-center text-sm text-gray-500 dark:text-gray-400 py-8" dir="auto">${L({ en: 'Loading phase data\u2026', bn: 'লোড হচ্ছে\u2026' })}</p></div>`;
+      return `<div class="w-full p-1">${this.header()}${this.subToggleHtml()}<p class="text-center text-sm text-gray-500 dark:text-gray-400 py-8" dir="auto">${L({ en: 'Loading phase data\u2026', bn: 'লোড হচ্ছে\u2026' })}</p></div>`;
     }
 
     const phaseCount = {};
@@ -798,7 +798,7 @@ class NuzulView {
     }).join('');
 
     return `
-      <div class="max-w-3xl mx-auto p-1">
+      <div class="w-full p-1">
         ${this.header()}
         ${this.subToggleHtml()}
         <p class="text-sm text-gray-600 dark:text-gray-300 mb-5 text-center leading-relaxed" dir="auto">${this.esc(this.tt('nuzul_timeline_intro'))}</p>

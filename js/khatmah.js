@@ -297,7 +297,7 @@ class Khatmah {
       </button>`).join('');
     return `
       ${this.header()}
-      <div class="w-full max-w-3xl mx-auto">
+      <div class="w-full">
         <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-3 text-center">${this.tt('khatmah_choose')}</h3>
         <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-5">${cards}</div>
         <div class="text-center mb-4">

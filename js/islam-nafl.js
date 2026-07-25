@@ -244,7 +244,7 @@ class NaflModule {
     this.rendered = true;
     const L = (o) => this.esc(this.lc(o));
     this.root.innerHTML = `
-      <div class="max-w-3xl mx-auto space-y-6 py-4">
+      <div class="w-full space-y-6 py-4">
         <div class="rounded-2xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-hidden">
           <div class="p-6 bg-gradient-to-br from-amber-50 to-transparent dark:from-amber-900/10">
             <div class="text-4xl mb-2" aria-hidden="true">✨</div>

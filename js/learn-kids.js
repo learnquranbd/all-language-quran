@@ -1656,7 +1656,7 @@ class KidsQaida {
 
     const maxStars = games.length * 3;
     return `
-      <div class="max-w-2xl mx-auto space-y-4">
+      <div class="w-full space-y-4">
         ${this.renderStreakCard(lang)}
         <div class="rounded-2xl bg-gradient-to-br from-amber-100 to-orange-200
                     dark:from-amber-900/40 dark:to-orange-900/40 shadow p-6 text-center space-y-1">

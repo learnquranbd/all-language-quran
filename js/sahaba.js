@@ -188,7 +188,7 @@ class SahabaView {
     }).join('');
 
     this.container.innerHTML = `
-      <div class="w-full max-w-4xl mx-auto pb-10">
+      <div class="w-full pb-10">
         <div class="text-center mb-2">
           <p class="text-gray-500 dark:text-gray-400 text-sm">${this.esc(this.tt('sahaba_subtitle'))}</p>
         </div>

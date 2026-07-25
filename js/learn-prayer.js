@@ -77,7 +77,7 @@ class SalahModule {
       : this.view === 'tasbeeh' ? this.tasbeehCounterHtml()
       : this.guideHtml();
     this.root.innerHTML = `
-      <div class="w-full max-w-3xl mx-auto pb-8">
+      <div class="w-full pb-8">
         <div class="text-center mb-4">
           <h2 class="text-xl sm:text-2xl font-bold text-gray-800 dark:text-gray-100 cursor-pointer" title="${this.esc(this.tt('salah_title'))}">🕌 ${this.esc(this.tt('salah_title'))}</h2>
           <p class="text-sm text-gray-500 dark:text-gray-400 mt-1" dir="auto">${this.esc(this.tt('salah_intro'))}</p>

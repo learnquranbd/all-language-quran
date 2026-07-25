@@ -250,7 +250,7 @@ class DashboardView {
         <span class="text-[0.7rem] font-medium text-gray-600 dark:text-gray-300 text-center leading-tight">${this.esc(this.tt(key))}</span>
       </button>`).join('');
     return `
-      <div>${this.heading('🧭', this.L(DASH_L.quick))}<div class="grid grid-cols-4 gap-2">${cells}</div></div>`;
+      <div>${this.heading('🧭', this.L(DASH_L.quick))}<div class="grid grid-cols-4 sm:grid-cols-8 gap-2">${cells}</div></div>`;
   }
 
   /* ---------- render ---------- */
@@ -258,7 +258,7 @@ class DashboardView {
     if (!this.container) return;
     const { greg, hijri } = this.dateLine();
     this.container.innerHTML = `
-      <div class="max-w-2xl mx-auto space-y-4">
+      <div class="w-full space-y-4">
         <div class="pt-1">
           <h2 class="text-xl font-bold text-gray-800 dark:text-gray-100">${this.esc(this.L(DASH_L.salam))} 👋</h2>
           <p class="text-sm text-gray-500 dark:text-gray-400">${this.esc(this.L(DASH_L.tagline))}</p>

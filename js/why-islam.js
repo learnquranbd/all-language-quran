@@ -173,7 +173,7 @@ class WhyIslamView {
       : `<p class="text-center text-gray-500 dark:text-gray-400 py-12">${this.esc(this.tt('whyislam_no_results'))}</p>`;
 
     this.container.innerHTML = `
-      <div class="w-full max-w-4xl mx-auto">
+      <div class="w-full">
         <div class="text-center mb-4">
           <p class="text-gray-500 dark:text-gray-400 text-sm" dir="auto">${this.esc(this.tt('whyislam_subtitle'))}</p>
         </div>
@@ -300,7 +300,7 @@ class WhyIslamView {
       : '';
 
     this.container.innerHTML = `
-      <div class="w-full max-w-3xl mx-auto">
+      <div class="w-full">
         <button type="button" id="wi-back"
           class="inline-flex items-center gap-1.5 text-sm text-gray-500 dark:text-gray-400 hover:text-primary mb-5">
           <span aria-hidden="true">←</span><span>${this.esc(this.tt('whyislam_back'))}</span>

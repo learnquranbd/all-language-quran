@@ -484,7 +484,7 @@ class Mutashabihat {
       </div>` : '';
 
     this.container.innerHTML = `
-      <div class="w-full max-w-4xl mx-auto">
+      <div class="w-full">
         <div class="text-center mb-4">
           <h2 class="text-2xl font-bold mb-1">🪞 ${this.tt('mutashabihat_title')}</h2>
           <p class="text-gray-500 dark:text-gray-400 text-sm">${this.tt('mutashabihat_subtitle')}</p>

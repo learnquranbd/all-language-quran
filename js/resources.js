@@ -394,7 +394,7 @@ class ResourcesView {
     this.rendered = true;
     const lang = this.language;
     this.container.innerHTML = `
-      <div class="w-full max-w-5xl mx-auto">
+      <div class="w-full">
         <div class="text-center mb-2">
           <p class="text-gray-500 dark:text-gray-400 text-sm">${this.tt('resources_subtitle')}</p>
         </div>

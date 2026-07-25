@@ -890,7 +890,7 @@ class NamesOfAllah {
     }).join('');
 
     return `
-      <div class="max-w-2xl mx-auto space-y-4">
+      <div class="w-full space-y-4">
         <div>
           <div class="flex justify-between text-xs text-gray-500 dark:text-gray-400 mb-1">
             <span>${t('names_learned_total', lang).replace('{done}', learned.size).replace('{total}', NAMES_99.length)}</span>

@@ -291,7 +291,7 @@ class SeerahView {
     else if (this.view === 'resources') body = this.resourcesHtml();
 
     this.container.innerHTML = `
-      <div class="w-full max-w-3xl mx-auto">
+      <div class="w-full">
         <div class="text-center mb-3">
           <h2 class="text-xl sm:text-2xl font-bold text-gray-800 dark:text-gray-100">🌙 ${this.esc(this.tt('seerah_title'))}</h2>
           <p class="text-gray-500 dark:text-gray-400 text-sm mt-1">${this.esc(this.tt('seerah_subtitle'))}</p>

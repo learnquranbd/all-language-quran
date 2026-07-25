@@ -659,7 +659,7 @@ class QuranicArabicView {
       </div>`;
 
     return `
-      <div class="w-full max-w-4xl mx-auto">
+      <div class="w-full">
         <div class="text-center mb-5">
           <h2 class="text-2xl font-extrabold text-gray-800 dark:text-gray-100">${this.esc(this.tt('qa_title'))}</h2>
           <p class="text-gray-500 dark:text-gray-400 text-sm mt-1 max-w-2xl mx-auto" dir="auto">${this.esc(this.tt('qa_subtitle'))}</p>
@@ -841,7 +841,7 @@ class QuranicArabicView {
     const tts = this.ttsAvailable();
 
     return `
-      <div class="w-full max-w-3xl mx-auto">
+      <div class="w-full">
         <div class="flex items-center justify-between mb-4">
           <button type="button" data-qa-back class="inline-flex items-center gap-1.5 text-sm font-semibold text-gray-500 dark:text-gray-400 hover:text-primary transition-colors">
             ‹ ${this.esc(this.tt('qa_back'))}
@@ -952,7 +952,7 @@ class QuranicArabicView {
     }).join('');
 
     return `
-      <div class="w-full max-w-4xl mx-auto">
+      <div class="w-full">
         <div class="flex items-center justify-between mb-4">
           <button type="button" data-qa-back class="inline-flex items-center gap-1.5 text-sm font-semibold text-gray-500 dark:text-gray-400 hover:text-primary transition-colors">
             ‹ ${this.esc(this.tt('qa_back'))}
