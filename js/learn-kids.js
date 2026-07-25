@@ -20,7 +20,57 @@ const KIDS_BEST_KEYS = {
   numbermatch: 'kidsNumberMatchBest',
   surahmatch: 'kidsSurahMatchBest',
   emojiword: 'kidsEmojiWordBest',
-  oddone: 'kidsOddOneBest'
+  oddone: 'kidsOddOneBest',
+  formmatch: 'kidsFormMatchBest',
+  dotcount: 'kidsDotCountBest',
+  firstletter: 'kidsFirstLetterBest',
+  countstars: 'kidsCountStarsBest',
+  digitmatch: 'kidsDigitMatchBest',
+  meaningmatch: 'kidsMeaningMatchBest'
+};
+
+// How many dots (i'jam) each of the 28 letters carries — pure letter fact,
+// used by the "Dot Detective" quiz game. 0 = undotted.
+const KIDS_LETTER_DOTS = {
+  'ا': 0, 'ب': 1, 'ت': 2, 'ث': 3, 'ج': 1, 'ح': 0, 'خ': 1,
+  'د': 0, 'ذ': 1, 'ر': 0, 'ز': 1, 'س': 0, 'ش': 3, 'ص': 0,
+  'ض': 1, 'ط': 0, 'ظ': 1, 'ع': 0, 'غ': 1, 'ف': 1, 'ق': 2,
+  'ك': 0, 'ل': 0, 'م': 0, 'ن': 1, 'ه': 0, 'و': 0, 'ي': 2
+};
+
+// Inline localization for the six newer quiz games (no central i18n keys —
+// rendered as o[lang] || o.en, same pattern as KIDS_DUA_L10N above).
+const KIDS_EXTRA_QUIZ_L10N = {
+  formmatch: {
+    title:  { en: 'Shape Detective', bn: 'রূপ গোয়েন্দা', zh: '字形侦探', ja: 'かたち探偵', ar: 'محقق الأشكال', ur: 'شکل جاسوس' },
+    desc:   { en: 'See a joined form — which letter is it?', bn: 'যুক্ত রূপ দেখে বলো — এটি কোন হরফ?', zh: '看连写形式——这是哪个字母？', ja: 'つながった形を見て、どの文字か当てよう！', ar: 'انظر إلى الشكل المتصل — أي حرف هو؟', ur: 'جُڑی ہوئی شکل دیکھو — یہ کون سا حرف ہے؟' },
+    prompt: { en: 'Which letter is this shape?', bn: 'এই রূপটি কোন হরফের?', zh: '这个字形是哪个字母？', ja: 'この形はどの文字？', ar: 'أي حرف هذا الشكل؟', ur: 'یہ شکل کس حرف کی ہے؟' }
+  },
+  dotcount: {
+    title:  { en: 'Dot Detective', bn: 'বিন্দু গোয়েন্দা', zh: '点点侦探', ja: '点々探偵', ar: 'محقق النقاط', ur: 'نقطہ جاسوس' },
+    desc:   { en: 'Find the letter with the right number of dots', bn: 'সঠিক সংখ্যক বিন্দুর হরফটি খুঁজে বের করো', zh: '找出点数正确的字母', ja: '正しい数の点がある文字を見つけよう', ar: 'جِد الحرف الذي عليه العدد الصحيح من النقاط', ur: 'صحیح تعداد کے نقطوں والا حرف تلاش کرو' },
+    prompt: { en: 'Count the dots! Which letter has this many dots?', bn: 'বিন্দু গুনে বলো — কোন হরফে এতগুলো বিন্দু আছে?', zh: '数一数点！哪个字母有这么多点？', ja: '点をかぞえて！この数の点がある文字はどれ？', ar: 'عُدَّ النقاط! أي حرف عليه هذا العدد من النقاط؟', ur: 'نقطے گنو! کس حرف پر اتنے نقطے ہیں؟' }
+  },
+  firstletter: {
+    title:  { en: 'First Letter', bn: 'প্রথম হরফ', zh: '第一个字母', ja: '最初の文字', ar: 'الحرف الأول', ur: 'پہلا حرف' },
+    desc:   { en: 'Which letter does the word start with?', bn: 'শব্দটি কোন হরফ দিয়ে শুরু?', zh: '这个词以哪个字母开头？', ja: 'この言葉はどの文字で始まる？', ar: 'بأي حرف تبدأ الكلمة؟', ur: 'لفظ کس حرف سے شروع ہوتا ہے؟' },
+    prompt: { en: 'Which letter does this word start with?', bn: 'এই শব্দটি কোন হরফ দিয়ে শুরু হয়েছে?', zh: '这个词以哪个字母开头？', ja: 'この言葉はどの文字で始まる？', ar: 'بأي حرف تبدأ هذه الكلمة؟', ur: 'یہ لفظ کس حرف سے شروع ہوتا ہے؟' }
+  },
+  countstars: {
+    title:  { en: 'Count & Match', bn: 'গুনে মেলাও', zh: '数数配对', ja: 'かぞえてマッチ', ar: 'عُدّ وطابِق', ur: 'گنو اور ملاؤ' },
+    desc:   { en: 'Count the stars, pick the Arabic number', bn: 'তারা গুনে আরবি সংখ্যাটি বাছাই করো', zh: '数星星，选出阿拉伯语数字', ja: '星をかぞえて、アラビア語の数を選ぼう', ar: 'عُدّ النجوم واختر العدد بالعربية', ur: 'ستارے گنو اور عربی عدد چنو' },
+    prompt: { en: 'How many stars? Pick the Arabic number!', bn: 'কয়টি তারা? আরবি সংখ্যাটি বাছাই করো!', zh: '有几颗星？选出阿拉伯语数字！', ja: '星はいくつ？アラビア語の数を選ぼう！', ar: 'كم نجمة؟ اختر العدد بالعربية!', ur: 'کتنے ستارے؟ عربی عدد چنو!' }
+  },
+  digitmatch: {
+    title:  { en: 'Number Reader', bn: 'সংখ্যা পড়া', zh: '数字阅读', ja: '数字リーダー', ar: 'قارئ الأرقام', ur: 'عدد خواں' },
+    desc:   { en: 'Read the Arabic number word, pick its digit', bn: 'আরবি সংখ্যার শব্দ পড়ে অঙ্কটি বাছাই করো', zh: '读阿拉伯语数词，选出数字', ja: 'アラビア語の数の言葉を読んで数字を選ぼう', ar: 'اقرأ اسم العدد واختر رقمه', ur: 'عربی عدد کا لفظ پڑھو اور ہندسہ چنو' },
+    prompt: { en: 'Which digit is this number?', bn: 'এই সংখ্যাটি কোন অঙ্ক?', zh: '这个数词是哪个数字？', ja: 'この数はどの数字？', ar: 'أي رقم هذا العدد؟', ur: 'یہ کون سا ہندسہ ہے؟' }
+  },
+  meaningmatch: {
+    title:  { en: 'Meaning Match', bn: 'অর্থ মেলাও', zh: '词义配对', ja: '意味マッチ', ar: 'طابِق المعنى', ur: 'مطلب ملاؤ' },
+    desc:   { en: 'Read the Quran word, pick its meaning', bn: 'কুরআনের শব্দটি পড়ে অর্থ বাছাই করো', zh: '读古兰经词汇，选出意思', ja: 'クルアーンの言葉を読んで意味を選ぼう', ar: 'اقرأ الكلمة واختر معناها', ur: 'قرآنی لفظ پڑھو اور مطلب چنو' },
+    prompt: { en: 'What does this word mean?', bn: 'এই শব্দের অর্থ কী?', zh: '这个词是什么意思？', ja: 'この言葉の意味は？', ar: 'ما معنى هذه الكلمة؟', ur: 'اس لفظ کا کیا مطلب ہے؟' }
+  }
 };
 
 // Gentle daily-streak persistence (namespaced; independent of quiz best-scores)
@@ -1323,6 +1373,13 @@ class KidsQaida {
     return this.renderQuizRound(lang);
   }
 
+  /** Inline-l10n lookup for the newer quiz games (o[lang] || o.en). */
+  kqx(mode, field, lang) {
+    const g = KIDS_EXTRA_QUIZ_L10N[mode];
+    const o = g && g[field];
+    return o ? (o[lang] || o.en) : '';
+  }
+
   /** All quiz games — shared by the quiz menu and the "My Stars" screen. */
   gamesMeta(lang) {
     return [
@@ -1335,7 +1392,13 @@ class KidsQaida {
       { mode: 'numbermatch', emoji: '🔢', grad: 'from-emerald-100 to-green-200 dark:from-emerald-900/40 dark:to-green-900/40', title: t('quiz_number_match', lang), desc: t('quiz_number_match_desc', lang) },
       { mode: 'surahmatch', emoji: '📖', grad: 'from-fuchsia-100 to-pink-200 dark:from-fuchsia-900/40 dark:to-pink-900/40',  title: t('quiz_surah_match', lang),  desc: t('quiz_surah_match_desc', lang) },
       { mode: 'emojiword',  emoji: '🖼️', grad: 'from-orange-100 to-amber-200 dark:from-orange-900/40 dark:to-amber-900/40',  title: t('quiz_picture_match', lang), desc: t('quiz_picture_match_desc', lang) },
-      { mode: 'oddone',     emoji: '🧐', grad: 'from-cyan-100 to-sky-200 dark:from-cyan-900/40 dark:to-sky-900/40',          title: t('quiz_odd_one', lang),      desc: t('quiz_odd_one_desc', lang) }
+      { mode: 'oddone',     emoji: '🧐', grad: 'from-cyan-100 to-sky-200 dark:from-cyan-900/40 dark:to-sky-900/40',          title: t('quiz_odd_one', lang),      desc: t('quiz_odd_one_desc', lang) },
+      { mode: 'formmatch',   emoji: '🧩', grad: 'from-indigo-100 to-blue-200 dark:from-indigo-900/40 dark:to-blue-900/40',   title: this.kqx('formmatch', 'title', lang),   desc: this.kqx('formmatch', 'desc', lang) },
+      { mode: 'dotcount',    emoji: '🔵', grad: 'from-pink-100 to-rose-200 dark:from-pink-900/40 dark:to-rose-900/40',       title: this.kqx('dotcount', 'title', lang),    desc: this.kqx('dotcount', 'desc', lang) },
+      { mode: 'firstletter', emoji: '🥇', grad: 'from-yellow-100 to-amber-200 dark:from-yellow-900/40 dark:to-amber-900/40', title: this.kqx('firstletter', 'title', lang), desc: this.kqx('firstletter', 'desc', lang) },
+      { mode: 'countstars',  emoji: '🌟', grad: 'from-lime-100 to-emerald-200 dark:from-lime-900/40 dark:to-emerald-900/40', title: this.kqx('countstars', 'title', lang),  desc: this.kqx('countstars', 'desc', lang) },
+      { mode: 'digitmatch',  emoji: '🔟', grad: 'from-sky-100 to-cyan-200 dark:from-sky-900/40 dark:to-cyan-900/40',         title: this.kqx('digitmatch', 'title', lang),  desc: this.kqx('digitmatch', 'desc', lang) },
+      { mode: 'meaningmatch', emoji: '💡', grad: 'from-violet-100 to-fuchsia-200 dark:from-violet-900/40 dark:to-fuchsia-900/40', title: this.kqx('meaningmatch', 'title', lang), desc: this.kqx('meaningmatch', 'desc', lang) }
     ];
   }
 
@@ -1428,6 +1491,38 @@ class KidsQaida {
             ${t('quiz_odd_hint', lang).replace('{theme}', `${cur.promptEmoji} ${cur.promptText}`)}
           </p>`;
         break;
+      case 'formmatch':
+        prompt = `
+          <p class="text-lg font-bold text-gray-700 dark:text-gray-200 mb-3" dir="auto">${this.kqx('formmatch', 'prompt', lang)}</p>
+          <div class="ayah-arabic !text-7xl !leading-tight" dir="rtl">${cur.promptChar}</div>`;
+        break;
+      case 'dotcount':
+        prompt = `
+          <p class="text-lg font-bold text-gray-700 dark:text-gray-200 mb-3" dir="auto">${this.kqx('dotcount', 'prompt', lang)}</p>
+          <div class="text-5xl tracking-widest text-gray-800 dark:text-gray-100">${cur.promptChar}</div>`;
+        break;
+      case 'firstletter':
+        prompt = `
+          <p class="text-lg font-bold text-gray-700 dark:text-gray-200 mb-3" dir="auto">${this.kqx('firstletter', 'prompt', lang)}</p>
+          <div class="ayah-arabic !text-6xl !leading-tight" dir="rtl">${cur.promptChar}</div>`;
+        break;
+      case 'countstars':
+        prompt = `
+          <p class="text-lg font-bold text-gray-700 dark:text-gray-200 mb-3" dir="auto">${this.kqx('countstars', 'prompt', lang)}</p>
+          <div class="text-4xl leading-snug">${cur.promptEmoji}</div>`;
+        break;
+      case 'digitmatch':
+        prompt = `
+          <p class="text-lg font-bold text-gray-700 dark:text-gray-200 mb-3" dir="auto">${this.kqx('digitmatch', 'prompt', lang)}</p>
+          <div class="ayah-arabic !text-6xl !leading-tight" dir="rtl">${cur.promptChar}</div>
+          <div class="text-base font-bold text-gray-600 dark:text-gray-300 mt-2">${cur.promptText}</div>`;
+        break;
+      case 'meaningmatch':
+        prompt = `
+          <p class="text-lg font-bold text-gray-700 dark:text-gray-200 mb-3" dir="auto">${this.kqx('meaningmatch', 'prompt', lang)}</p>
+          <div class="ayah-arabic !text-6xl !leading-tight" dir="rtl">${cur.promptChar}</div>
+          <div class="text-base font-bold text-gray-600 dark:text-gray-300 mt-2">${cur.promptText}</div>`;
+        break;
     }
 
     // How each option is displayed
@@ -1452,6 +1547,9 @@ class KidsQaida {
         case 'themeword':
           return `<span class="ayah-arabic !text-4xl sm:!text-5xl !leading-tight" dir="rtl">${opt.arabic}</span>
                   <span class="text-sm font-bold text-gray-600 dark:text-gray-300">${opt.translit}</span>`;
+        case 'meaning':
+          return `<span class="text-4xl leading-none">${opt.emoji || ''}</span>
+                  <span class="text-base sm:text-lg font-extrabold text-gray-700 dark:text-gray-100" dir="auto">${this.themeMeaning(opt)}</span>`;
         case 'word':
         default:
           return `<span class="ayah-arabic !text-4xl sm:!text-5xl !leading-tight" dir="rtl">${opt.arabic}</span>`;
@@ -1849,6 +1947,129 @@ class KidsQaida {
       }
       // Fallback (should not happen): behave like wordmatch
       return this.buildRound('wordmatch');
+    }
+
+    // formmatch "Shape Detective": see a joined (tatweel) form, name the letter
+    if (mode === 'formmatch') {
+      const letter = QAIDA_LETTERS[Math.floor(Math.random() * QAIDA_LETTERS.length)];
+      let form;
+      if (KIDS_NON_CONNECTING.includes(letter.char)) {
+        form = KIDS_TATWEEL + letter.char;   // these letters only join from the right
+      } else {
+        const forms = [
+          letter.char + KIDS_TATWEEL,                  // start
+          KIDS_TATWEEL + letter.char + KIDS_TATWEEL,   // middle
+          KIDS_TATWEEL + letter.char                   // end
+        ];
+        form = forms[Math.floor(Math.random() * forms.length)];
+      }
+      const distractors = this.shuffleInPlace(QAIDA_LETTERS.filter(l => l.char !== letter.char)).slice(0, 3);
+      const options = this.shuffleInPlace([letter, ...distractors]);
+      return {
+        mode, options,
+        correctIndex: options.indexOf(letter),
+        optionType: 'name',
+        promptChar: form,
+        autoSpeak: null,
+        rewardAudio: letter.name
+      };
+    }
+
+    // dotcount "Dot Detective": see 1–3 dots, pick the letter with that many
+    if (mode === 'dotcount') {
+      const n = [1, 2, 3][Math.floor(Math.random() * 3)];
+      const withN = QAIDA_LETTERS.filter(l => KIDS_LETTER_DOTS[l.char] === n);
+      const correct = withN[Math.floor(Math.random() * withN.length)];
+      const distractors = this.shuffleInPlace(
+        QAIDA_LETTERS.filter(l => KIDS_LETTER_DOTS[l.char] !== n)
+      ).slice(0, 3);
+      const options = this.shuffleInPlace([correct, ...distractors]);
+      return {
+        mode, options,
+        correctIndex: options.indexOf(correct),
+        optionType: 'char',
+        promptChar: '●'.repeat(n).split('').join(' '),
+        autoSpeak: null,
+        rewardAudio: correct.name
+      };
+    }
+
+    // firstletter: see a Qaida word, pick the letter it starts with
+    if (mode === 'firstletter') {
+      const word = QAIDA_WORDS[Math.floor(Math.random() * QAIDA_WORDS.length)];
+      const first = this.stripMarks(word.arabic).charAt(0);
+      const correct = QAIDA_LETTERS.find(l => this.stripMarks(l.char) === first);
+      if (correct) {
+        const distractors = this.shuffleInPlace(QAIDA_LETTERS.filter(l => l.char !== correct.char)).slice(0, 3);
+        const options = this.shuffleInPlace([correct, ...distractors]);
+        return {
+          mode, options,
+          correctIndex: options.indexOf(correct),
+          optionType: 'char',
+          promptChar: word.arabic,
+          autoSpeak: null,
+          rewardAudio: word.arabic
+        };
+      }
+      // Fallback (should not happen): behave like name
+      return this.buildRound('name');
+    }
+
+    // countstars "Count & Match": count the stars, pick the Arabic number
+    if (mode === 'countstars') {
+      const pool = this.shuffleInPlace(KIDS_NUMBERS.slice());
+      const options = pool.slice(0, 4);
+      const correctIndex = Math.floor(Math.random() * options.length);
+      const correct = options[correctIndex];
+      return {
+        mode, options, correctIndex,
+        optionType: 'numword',
+        promptEmoji: '⭐'.repeat(correct.value),
+        autoSpeak: null,
+        rewardAudio: correct.word
+      };
+    }
+
+    // digitmatch "Number Reader": read the Arabic number word, pick its digit
+    if (mode === 'digitmatch') {
+      const pool = this.shuffleInPlace(KIDS_NUMBERS.slice());
+      const nums = pool.slice(0, 4);
+      const correctIndex = Math.floor(Math.random() * nums.length);
+      const correct = nums[correctIndex];
+      return {
+        mode,
+        options: nums.map(x => ({ char: x.digit })),
+        correctIndex,
+        optionType: 'char',
+        promptChar: correct.word,
+        promptText: correct.translit,
+        autoSpeak: null,
+        rewardAudio: correct.word
+      };
+    }
+
+    // meaningmatch: read a theme word, pick its meaning (reverse of emojiword)
+    if (mode === 'meaningmatch') {
+      const pool = this.shuffleInPlace(this.themeWordPool().slice());
+      const options = [];
+      const seen = new Set();
+      for (const w of pool) {
+        const meaningKey = (w.meaning && w.meaning.en) || w.translit;
+        if (seen.has(meaningKey) || seen.has(w.arabic) || seen.has(w.emoji)) continue;
+        seen.add(meaningKey); seen.add(w.arabic); seen.add(w.emoji);
+        options.push(w);
+        if (options.length === 4) break;
+      }
+      const correctIndex = Math.floor(Math.random() * options.length);
+      const correct = options[correctIndex];
+      return {
+        mode, options, correctIndex,
+        optionType: 'meaning',
+        promptChar: correct.arabic,
+        promptText: correct.translit,
+        autoSpeak: null,
+        rewardAudio: correct.arabic
+      };
     }
   }
 

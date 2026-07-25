@@ -4324,6 +4324,474 @@ const SAHABA_DATA = [
     "refs": [],
     "lessonEn": "A sincere longing for God's path can carry a believer to honours beyond the horizon.",
     "lessonBn": "আল্লাহর পথের আন্তরিক আকাঙ্ক্ষা একজন মুমিনকে দিগন্তের ওপারের মর্যাদায় পৌঁছে দিতে পারে।"
+  },
+  {
+    "id": "abu_ad_darda",
+    "order": 94,
+    "init": "AD",
+    "color": "bg-teal-600",
+    "ar": "أَبُو الدَّرْدَاء عُوَيْمِر بْن زَيْد",
+    "translit": "Abu ad-Darda Uwaymir ibn Zayd",
+    "en": "Abu ad-Darda (RA)",
+    "bn": "আবু দারদা (রাঃ)",
+    "era": "knowledge",
+    "ashara": false,
+    "caliph": false,
+    "ansar": true,
+    "woman": false,
+    "roleEn": "The Sage of Damascus",
+    "roleBn": "দামেস্কের জ্ঞানী সাধক",
+    "yearEn": "d. c. 652 CE",
+    "highlightEn": "The devoted worshipper of the Ansar who became the great Quran teacher of Damascus.",
+    "highlightBn": "আনসারের নিবেদিত ইবাদতকারী, যিনি দামেস্কের মহান কুরআন-শিক্ষক হয়ে ওঠেন।",
+    "summaryEn": "Abu ad-Darda Uwaymir (RA) was a merchant of the Ansar in Madinah, reported to be the last of his household to embrace Islam, doing so around the time of the Battle of Badr. The Prophet (peace be upon him) established the bond of brotherhood between him and Salman al-Farsi (RA). When Salman saw him neglecting food and rest for worship, he counselled him that his Lord, his body, and his family each had rights over him, and the Prophet (peace be upon him) affirmed, 'Salman has spoken the truth.' Abu ad-Darda became one of the Companions renowned for reciting and gathering the Quran, and in the caliphate of Umar (RA) he was sent to Damascus, where vast circles of students learned the Quran from him and he later served as its judge. He was famed for wisdom, asceticism, and constant reflection, and he died in Damascus around 32 AH.",
+    "summaryBn": "আবু দারদা উওয়াইমির (রাঃ) ছিলেন মদিনার আনসারের একজন ব্যবসায়ী; বর্ণিত আছে, তাঁর পরিবারের মধ্যে তিনিই সর্বশেষ ইসলাম গ্রহণ করেন, বদর যুদ্ধের কাছাকাছি সময়ে। নবীজি (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) তাঁর ও সালমান ফারসি (রাঃ)-এর মধ্যে ভ্রাতৃত্ব-বন্ধন স্থাপন করেন। ইবাদতের জন্য তাঁকে খাওয়া-বিশ্রাম ত্যাগ করতে দেখে সালমান উপদেশ দেন যে তাঁর রবের, দেহের ও পরিবারের—প্রত্যেকেরই তাঁর ওপর হক রয়েছে; নবীজি (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) সমর্থন করে বলেন, 'সালমান সত্য বলেছে।' আবু দারদা কুরআন তিলাওয়াত ও সংগ্রহে খ্যাত সাহাবিদের একজন ছিলেন এবং উমর (রাঃ)-এর খিলাফতকালে দামেস্কে প্রেরিত হন, যেখানে বিশাল বিশাল হালকায় ছাত্ররা তাঁর কাছে কুরআন শেখে এবং পরে তিনি সেখানকার বিচারক হন। প্রজ্ঞা, দুনিয়াবিমুখতা ও নিরন্তর চিন্তাশীলতার জন্য তিনি প্রসিদ্ধ ছিলেন; আনুমানিক ৩২ হিজরিতে দামেস্কে তিনি ইন্তেকাল করেন।",
+    "events": [
+      {
+        "en": "Embraced Islam around the time of Badr, the last of his household",
+        "bn": "বদরের কাছাকাছি সময়ে ইসলাম গ্রহণ করেন, নিজ পরিবারে সর্বশেষ"
+      },
+      {
+        "en": "Paired in brotherhood with Salman al-Farsi by the Prophet",
+        "bn": "নবীজি তাঁকে সালমান ফারসির সঙ্গে ভ্রাতৃত্ব-বন্ধনে যুক্ত করেন"
+      },
+      {
+        "en": "The Prophet affirmed Salman's counsel of balance to him: 'Salman has spoken the truth'",
+        "bn": "ভারসাম্যের বিষয়ে সালমানের উপদেশ নবীজি সমর্থন করেন: 'সালমান সত্য বলেছে'"
+      },
+      {
+        "en": "Taught the Quran to huge student circles in Damascus",
+        "bn": "দামেস্কে বিশাল ছাত্র-হালকায় কুরআন শিক্ষা দেন"
+      },
+      {
+        "en": "Served as the judge of Damascus",
+        "bn": "দামেস্কের বিচারক হিসেবে দায়িত্ব পালন করেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "True devotion balances worship with the rights of body, family, and community.",
+    "lessonBn": "প্রকৃত দ্বীনদারি ইবাদতের সঙ্গে দেহ, পরিবার ও সমাজের হকের ভারসাম্য রক্ষা করে।"
+  },
+  {
+    "id": "uthman_ibn_mazun",
+    "order": 95,
+    "init": "UM",
+    "color": "bg-indigo-600",
+    "ar": "عُثْمَان بْن مَظْعُون",
+    "translit": "Uthman ibn Maz'un",
+    "en": "Uthman ibn Maz'un (RA)",
+    "bn": "উসমান ইবনে মাযউন (রাঃ)",
+    "era": "first",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "First Muhajir Buried at al-Baqi",
+    "roleBn": "বাকিতে সমাহিত প্রথম মুহাজির",
+    "yearEn": "d. c. 624 CE",
+    "highlightEn": "The early ascetic whom the Prophet turned away from monasticism toward balanced devotion.",
+    "highlightBn": "প্রাথমিক যুগের সেই সংসারবিমুখ সাহাবি, যাঁকে নবীজি বৈরাগ্য থেকে ভারসাম্যপূর্ণ ইবাদতের পথে ফিরিয়েছিলেন।",
+    "summaryEn": "Uthman ibn Maz'un (RA) was among the very earliest converts to Islam, reported to be around the fourteenth person to believe, and he emigrated to Abyssinia to escape persecution. On returning to Makkah he lived under the protection of al-Walid ibn al-Mughirah, but he renounced that protection, preferring to be shielded by Allah alone even if it meant suffering. Intensely ascetic, he wished to renounce worldly comforts and devote himself wholly to worship, but the Prophet (peace be upon him) forbade celibacy and self-denial of what Allah made lawful, and some commentators connect Surah al-Ma'idah 5:87 to this. He became the first of the Muhajirun to die in Madinah, around 2 AH, and the first Companion buried at al-Baqi cemetery. The Prophet (peace be upon him) kissed his forehead after his death, and taught Umm al-Ala that no one should be declared guaranteed of reward, for the matter rests with Allah while good is hoped for the righteous.",
+    "summaryBn": "উসমান ইবনে মাযউন (রাঃ) ছিলেন ইসলামের একেবারে প্রথম দিকের মুসলিমদের একজন; বর্ণিত আছে, তিনি ছিলেন প্রায় চতুর্দশতম ঈমান আনয়নকারী, এবং নির্যাতন থেকে বাঁচতে তিনি আবিসিনিয়ায় হিজরত করেন। মক্কায় ফিরে তিনি আল-ওয়ালিদ ইবনুল মুগিরার নিরাপত্তায় ছিলেন, কিন্তু কষ্ট সইতে হলেও কেবল আল্লাহর আশ্রয়ে থাকার আকাঙ্ক্ষায় সেই নিরাপত্তা প্রত্যাখ্যান করেন। প্রবল সংসারবিমুখ হয়ে তিনি দুনিয়ার আরাম ছেড়ে পুরোপুরি ইবাদতে মগ্ন হতে চেয়েছিলেন, কিন্তু নবীজি (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) বৈরাগ্য ও আল্লাহর হালালকৃত বস্তু বর্জন নিষেধ করেন; কোনো কোনো মুফাসসির সূরা মায়িদার ৫:৮৭ আয়াতকে এ ঘটনার সঙ্গে সংযুক্ত করেন। আনুমানিক ২ হিজরিতে তিনি মদিনায় ইন্তেকালকারী প্রথম মুহাজির হন এবং জান্নাতুল বাকিতে সমাহিত প্রথম সাহাবি। ইন্তেকালের পর নবীজি (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) তাঁর কপালে চুম্বন করেন এবং উম্মুল আলাকে শিক্ষা দেন যে কারও জন্য প্রতিদান নিশ্চিত ঘোষণা করা উচিত নয়—বিষয়টি আল্লাহর হাতে, তবে নেককারদের জন্য কল্যাণের আশা রাখা হয়।",
+    "events": [
+      {
+        "en": "Among the earliest converts; emigrated to Abyssinia",
+        "bn": "প্রথম দিকের মুসলিমদের একজন; আবিসিনিয়ায় হিজরত করেন"
+      },
+      {
+        "en": "Renounced the protection of al-Walid ibn al-Mughirah, preferring Allah's protection",
+        "bn": "আল্লাহর আশ্রয়কে প্রাধান্য দিয়ে আল-ওয়ালিদ ইবনুল মুগিরার নিরাপত্তা প্রত্যাখ্যান করেন"
+      },
+      {
+        "en": "The Prophet forbade him celibacy and extreme self-denial",
+        "bn": "নবীজি তাঁকে বৈরাগ্য ও চরম কৃচ্ছ্রসাধন থেকে নিষেধ করেন"
+      },
+      {
+        "en": "First of the Muhajirun to die in Madinah; first buried at al-Baqi",
+        "bn": "মদিনায় ইন্তেকালকারী প্রথম মুহাজির; বাকিতে সমাহিত প্রথম সাহাবি"
+      },
+      {
+        "en": "The Prophet kissed his forehead after his passing",
+        "bn": "ইন্তেকালের পর নবীজি তাঁর কপালে চুম্বন করেন"
+      }
+    ],
+    "refs": [
+      "5:87"
+    ],
+    "lessonEn": "Islam is a path of balance: devotion to Allah without forbidding what He has made lawful.",
+    "lessonBn": "ইসলাম ভারসাম্যের পথ: আল্লাহর হালালকৃত বস্তু হারাম না করেই তাঁর প্রতি নিবেদিত থাকা।"
+  },
+  {
+    "id": "uthman_ibn_talhah",
+    "order": 96,
+    "init": "UT",
+    "color": "bg-amber-600",
+    "ar": "عُثْمَان بْن طَلْحَة",
+    "translit": "Uthman ibn Talhah",
+    "en": "Uthman ibn Talhah (RA)",
+    "bn": "উসমান ইবনে তালহা (রাঃ)",
+    "era": "conquest",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "Keeper of the Kaaba Key",
+    "roleBn": "কাবার চাবির রক্ষক",
+    "yearEn": "d. c. 662 CE",
+    "highlightEn": "The Prophet returned the Kaaba key to him at the conquest after Quran 4:58 was revealed.",
+    "highlightBn": "৪:৫৮ আয়াত নাজিলের পর মক্কা বিজয়ে নবীজি কাবার চাবি তাঁকে ফিরিয়ে দেন।",
+    "summaryEn": "Uthman ibn Talhah (RA) belonged to Banu Abd ad-Dar, the Qurayshi clan holding the hereditary custodianship of the Kaaba key. Before Islam he once refused the Prophet (peace be upon him) entry to the Kaaba, and it is related that the Prophet told him a day would come when the key would be in his own hand to give to whom he willed. In 8 AH, Uthman travelled to Madinah and embraced Islam alongside Khalid ibn al-Walid and Amr ibn al-As. At the conquest of Makkah the Prophet (peace be upon him) took the key and entered the Kaaba; then the verse 'Indeed, Allah commands you to render trusts to those entitled to them' (4:58) was revealed, according to reports of its occasion. The Prophet returned the key to Uthman, declaring that it would remain with his family forever and that none would take it from them but a wrongdoer — and the key remains with his kin of Banu Abd ad-Dar, the Banu Shaybah family (descendants of his cousin Shaybah ibn Uthman, who shared the custodianship), to this day. He died around 42 AH.",
+    "summaryBn": "উসমান ইবনে তালহা (রাঃ) ছিলেন কুরাইশের বনু আবদুদ-দার গোত্রের সদস্য, যাদের হাতে ছিল কাবার চাবির বংশানুক্রমিক রক্ষণাবেক্ষণ। ইসলাম-পূর্ব যুগে তিনি একবার নবীজি (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম)-কে কাবায় প্রবেশে বাধা দেন; বর্ণিত আছে, নবীজি তাঁকে বলেছিলেন যে এমন দিন আসবে যখন চাবিটি তাঁরই হাতে থাকবে, তিনি যাকে ইচ্ছা তা দেবেন। ৮ হিজরিতে উসমান খালিদ ইবনুল ওয়ালিদ ও আমর ইবনুল আসের সঙ্গে মদিনায় গিয়ে ইসলাম গ্রহণ করেন। মক্কা বিজয়ের দিন নবীজি (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) চাবি নিয়ে কাবায় প্রবেশ করেন; অতঃপর নাজিলের কারণ-সংক্রান্ত বর্ণনা অনুযায়ী অবতীর্ণ হয় আয়াত—'নিশ্চয়ই আল্লাহ তোমাদের নির্দেশ দিচ্ছেন আমানত তার হকদারদের কাছে পৌঁছে দিতে' (৪:৫৮)। নবীজি চাবিটি উসমানকে ফিরিয়ে দিয়ে ঘোষণা করেন যে তা চিরকাল তাঁর পরিবারের কাছেই থাকবে এবং জালিম ছাড়া কেউ তা তাদের কাছ থেকে নেবে না—আজও চাবিটি রয়েছে তাঁর বনু আবদুদ-দার স্বজনদের হাতে, বনু শাইবা পরিবারে (রক্ষণাবেক্ষণে অংশীদার তাঁর চাচাতো ভাই শাইবা ইবনে উসমানের বংশধর)। আনুমানিক ৪২ হিজরিতে তিনি ইন্তেকাল করেন।",
+    "events": [
+      {
+        "en": "Hereditary custodian of the Kaaba key from Banu Abd ad-Dar",
+        "bn": "বনু আবদুদ-দার গোত্রের কাবার চাবির বংশানুক্রমিক রক্ষক"
+      },
+      {
+        "en": "Embraced Islam in 8 AH alongside Khalid ibn al-Walid and Amr ibn al-As",
+        "bn": "৮ হিজরিতে খালিদ ইবনুল ওয়ালিদ ও আমর ইবনুল আসের সঙ্গে ইসলাম গ্রহণ করেন"
+      },
+      {
+        "en": "Quran 4:58 on rendering trusts was revealed concerning the key, per reports",
+        "bn": "বর্ণনা অনুযায়ী, চাবির ঘটনায় আমানত প্রত্যর্পণ বিষয়ে ৪:৫৮ আয়াত নাজিল হয়"
+      },
+      {
+        "en": "The Prophet returned the key to him at the conquest of Makkah",
+        "bn": "মক্কা বিজয়ে নবীজি চাবিটি তাঁকে ফিরিয়ে দেন"
+      },
+      {
+        "en": "His kin, the Banu Shaybah family, keep the Kaaba key to this day",
+        "bn": "আজও তাঁর স্বজন বনু শাইবা পরিবার কাবার চাবি রক্ষা করছে"
+      }
+    ],
+    "refs": [
+      "4:58"
+    ],
+    "lessonEn": "Trusts must be returned to their rightful holders, even at the moment of greatest power.",
+    "lessonBn": "সর্বোচ্চ ক্ষমতার মুহূর্তেও আমানত তার প্রকৃত হকদারের কাছে ফিরিয়ে দিতে হয়।"
+  },
+  {
+    "id": "suhayl_ibn_amr",
+    "order": 97,
+    "init": "SA",
+    "color": "bg-slate-600",
+    "ar": "سُهَيْل بْن عَمْرو",
+    "translit": "Suhayl ibn Amr",
+    "en": "Suhayl ibn Amr (RA)",
+    "bn": "সুহাইল ইবনে আমর (রাঃ)",
+    "era": "conquest",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "The Orator of Quraysh",
+    "roleBn": "কুরাইশের বাগ্মী",
+    "yearEn": "d. c. 639 CE",
+    "highlightEn": "The Hudaybiyyah negotiator whose later stand for Islam fulfilled the Prophet's foresight.",
+    "highlightBn": "হুদায়বিয়ার সেই সমঝোতাকারী, যাঁর পরবর্তী ইসলামের পক্ষে অবস্থান নবীজির দূরদৃষ্টি সত্য প্রমাণ করে।",
+    "summaryEn": "Suhayl ibn Amr (RA) was the celebrated orator of the Quraysh. Captured at Badr while still a disbeliever, Umar (RA) asked permission to pull out his front teeth so he could never speak against Islam again, but the Prophet (peace be upon him) refused, saying that perhaps one day he would take a stand that would please them. At Hudaybiyyah, Suhayl negotiated for Quraysh and insisted on removing 'Bismillah ar-Rahman ar-Rahim' and the title 'Messenger of Allah' from the treaty — the pagan zealotry that commentators connect with Surah al-Fath 48:26. He embraced Islam after the conquest of Makkah, and when news of the Prophet's death shook Makkah, Suhayl stood and delivered the speech that steadied its people upon Islam, just as Abu Bakr (RA) did in Madinah — the stand the Prophet had foreseen. He devoted his last years to intense worship and striving in Syria, where he died around 18 AH.",
+    "summaryBn": "সুহাইল ইবনে আমর (রাঃ) ছিলেন কুরাইশের প্রখ্যাত বাগ্মী। অবিশ্বাসী অবস্থায় বদরে বন্দি হলে উমর (রাঃ) তাঁর সামনের দাঁত উপড়ে ফেলার অনুমতি চান, যাতে তিনি আর কখনো ইসলামের বিরুদ্ধে বক্তৃতা দিতে না পারেন; কিন্তু নবীজি (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) অস্বীকৃতি জানিয়ে বলেন, হয়তো একদিন তিনি এমন অবস্থান নেবেন যা তোমাদের আনন্দিত করবে। হুদায়বিয়ায় সুহাইল কুরাইশের পক্ষে আলোচনা করেন এবং সন্ধিপত্র থেকে 'বিসমিল্লাহির রাহমানির রাহিম' ও 'রাসূলুল্লাহ' উপাধি বাদ দেওয়ার দাবিতে অনড় থাকেন—মুফাসসিরগণ এই জাহেলি গোঁড়ামিকে সূরা ফাতহের ৪৮:২৬ আয়াতের সঙ্গে সংযুক্ত করেন। মক্কা বিজয়ের পর তিনি ইসলাম গ্রহণ করেন, আর নবীজির ইন্তেকালের সংবাদে মক্কা যখন টলমল, তখন সুহাইল দাঁড়িয়ে সেই ভাষণ দেন যা মক্কাবাসীকে ইসলামের ওপর অবিচল রাখে—যেমনটি মদিনায় করেছিলেন আবু বকর (রাঃ); নবীজির পূর্বাভাস দেওয়া সেই অবস্থান। জীবনের শেষ বছরগুলো তিনি সিরিয়ায় গভীর ইবাদত ও জিহাদে কাটান এবং আনুমানিক ১৮ হিজরিতে সেখানে ইন্তেকাল করেন।",
+    "events": [
+      {
+        "en": "Captured at Badr; the Prophet forbade harming his teeth, foreseeing a future stand",
+        "bn": "বদরে বন্দি হন; ভবিষ্যৎ অবস্থানের পূর্বাভাস দিয়ে নবীজি তাঁর দাঁতে আঘাত নিষেধ করেন"
+      },
+      {
+        "en": "Negotiated the Treaty of Hudaybiyyah for Quraysh",
+        "bn": "কুরাইশের পক্ষে হুদায়বিয়ার সন্ধির আলোচনা করেন"
+      },
+      {
+        "en": "Embraced Islam after the conquest of Makkah",
+        "bn": "মক্কা বিজয়ের পর ইসলাম গ্রহণ করেন"
+      },
+      {
+        "en": "His speech steadied Makkah upon Islam after the Prophet's death",
+        "bn": "নবীজির ইন্তেকালের পর তাঁর ভাষণ মক্কাবাসীকে ইসলামে অবিচল রাখে"
+      },
+      {
+        "en": "Spent his last years in worship and striving in Syria",
+        "bn": "শেষ জীবন সিরিয়ায় ইবাদত ও জিহাদে অতিবাহিত করেন"
+      }
+    ],
+    "refs": [
+      "48:26"
+    ],
+    "lessonEn": "Never despair of anyone's guidance; today's opponent may become tomorrow's pillar of faith.",
+    "lessonBn": "কারও হেদায়েত নিয়ে নিরাশ হবেন না; আজকের প্রতিপক্ষই হতে পারে আগামীর ঈমানের স্তম্ভ।"
+  },
+  {
+    "id": "ikrimah_ibn_abi_jahl",
+    "order": 98,
+    "init": "IA",
+    "color": "bg-red-600",
+    "ar": "عِكْرِمَة بْن أَبِي جَهْل",
+    "translit": "Ikrimah ibn Abi Jahl",
+    "en": "Ikrimah ibn Abi Jahl (RA)",
+    "bn": "ইকরিমা ইবনে আবু জাহল (রাঃ)",
+    "era": "conquest",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "From Enemy's Son to Martyr",
+    "roleBn": "শত্রুপুত্র থেকে শহীদ",
+    "yearEn": "d. c. 636 CE",
+    "highlightEn": "The son of Abu Jahl who returned from flight to give his life for Islam.",
+    "highlightBn": "আবু জাহলের সেই পুত্র, যিনি পলায়ন থেকে ফিরে ইসলামের জন্য জীবন দেন।",
+    "summaryEn": "Ikrimah (RA) was the son of Abu Jahl, the fiercest enemy of Islam, and he himself fought the Muslims at Uhud and the Trench as a Qurayshi cavalry commander. When Makkah fell he fled toward Yemen, but his wife Umm Hakim (RA), who had embraced Islam, secured his pardon from the Prophet (peace be upon him) and brought him back. The Prophet rose joyfully to receive him and instructed the Companions not to insult his father, since abusing the dead hurts the living. Ikrimah vowed to spend for Islam double what he had spent fighting it, and he kept his word, fighting devotedly in the Ridda wars and the campaigns in Syria. He was martyred at the Battle of Yarmuk around 15 AH — some reports say Ajnadayn — after fighting with utter self-sacrifice.",
+    "summaryBn": "ইকরিমা (রাঃ) ছিলেন ইসলামের কঠোরতম শত্রু আবু জাহলের পুত্র, এবং নিজেও কুরাইশ অশ্বারোহী সেনাপতি হিসেবে উহুদ ও খন্দকে মুসলিমদের বিরুদ্ধে লড়েছিলেন। মক্কা বিজিত হলে তিনি ইয়েমেনের দিকে পালিয়ে যান, কিন্তু তাঁর স্ত্রী উম্মে হাকিম (রাঃ), যিনি ইসলাম গ্রহণ করেছিলেন, নবীজি (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম)-এর কাছ থেকে তাঁর ক্ষমা আদায় করে তাঁকে ফিরিয়ে আনেন। নবীজি আনন্দের সঙ্গে উঠে তাঁকে স্বাগত জানান এবং সাহাবিদের নির্দেশ দেন তাঁর পিতাকে গালি না দিতে, কেননা মৃতকে গালি দিলে জীবিতরা কষ্ট পায়। ইকরিমা প্রতিজ্ঞা করেন, ইসলামের বিরুদ্ধে যা ব্যয় করেছিলেন তার দ্বিগুণ তিনি ইসলামের জন্য ব্যয় করবেন—এবং কথা রাখেন; রিদ্দার যুদ্ধ ও সিরিয়ার অভিযানে নিবেদিতভাবে লড়াই করেন। চূড়ান্ত আত্মত্যাগের সঙ্গে লড়াই করে তিনি আনুমানিক ১৫ হিজরিতে ইয়ারমুকের যুদ্ধে—কোনো কোনো বর্ণনায় আজনাদাইনে—শহীদ হন।",
+    "events": [
+      {
+        "en": "Fought against the Muslims at Uhud and the Trench before his Islam",
+        "bn": "ইসলাম গ্রহণের আগে উহুদ ও খন্দকে মুসলিমদের বিরুদ্ধে লড়েন"
+      },
+      {
+        "en": "Pardoned through his wife Umm Hakim after fleeing to Yemen",
+        "bn": "ইয়েমেনে পলায়নের পর স্ত্রী উম্মে হাকিমের মাধ্যমে ক্ষমাপ্রাপ্ত হন"
+      },
+      {
+        "en": "Welcomed joyfully by the Prophet, who forbade insulting his father",
+        "bn": "নবীজি সানন্দে স্বাগত জানান ও তাঁর পিতাকে গালি দিতে নিষেধ করেন"
+      },
+      {
+        "en": "Vowed to spend double for Islam what he had spent against it",
+        "bn": "ইসলামের বিরুদ্ধে ব্যয়ের দ্বিগুণ ইসলামের জন্য ব্যয়ের প্রতিজ্ঞা করেন"
+      },
+      {
+        "en": "Martyred at Yarmuk (c. 15 AH); some reports say Ajnadayn",
+        "bn": "ইয়ারমুকে শহীদ হন (আনু. ১৫ হি.); কোনো বর্ণনায় আজনাদাইন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "No lineage of enmity bars the door of repentance; sincerity rewrites a family's story.",
+    "lessonBn": "শত্রুতার কোনো বংশপরিচয়ই তাওবার দরজা বন্ধ করে না; আন্তরিকতা পরিবারের ইতিহাস নতুন করে লেখে।"
+  },
+  {
+    "id": "at_tufayl_ibn_amr_ad_dawsi",
+    "order": 99,
+    "init": "TA",
+    "color": "bg-emerald-600",
+    "ar": "الطُّفَيْل بْن عَمْرو الدَّوْسِيّ",
+    "translit": "At-Tufayl ibn Amr ad-Dawsi",
+    "en": "At-Tufayl ibn Amr ad-Dawsi (RA)",
+    "bn": "তুফাইল ইবনে আমর আদ-দাউসি (রাঃ)",
+    "era": "persecution",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "The Chief Who Brought His Tribe",
+    "roleBn": "নিজ গোত্রকে ইসলামে আনা সর্দার",
+    "yearEn": "d. c. 633 CE",
+    "highlightEn": "Quraysh told him to plug his ears against the Quran, yet he listened, believed, and led Daws to Islam.",
+    "highlightBn": "কুরাইশ তাঁকে কুরআন থেকে কান বন্ধ রাখতে বলেছিল, তবু তিনি শুনলেন, ঈমান আনলেন এবং দাউস গোত্রকে ইসলামে আনলেন।",
+    "summaryEn": "At-Tufayl ibn Amr (RA) was the noble poet-chief of the tribe of Daws. Arriving in Makkah, he was warned by Quraysh against the Prophet's 'sorcery' and even stuffed his ears with cotton, but he reasoned that a man of intelligence should judge for himself; he listened, found the Quran beautiful and true, and embraced Islam. Returning to his people, he asked Allah for a sign to aid his call, and it is related that a light appeared at the tip of his whip, earning him the name Dhun-Nur, the possessor of light. When Daws responded slowly, he asked the Prophet (peace be upon him) to curse them, but the Prophet instead raised his hands and prayed, 'O Allah, guide Daws and bring them.' Years later at-Tufayl arrived in Madinah with seventy to eighty Dawsi households — the migration that included the people of Abu Hurayrah (RA) — joining the Prophet at Khaybar. He was martyred at the Battle of Yamama around 12 AH.",
+    "summaryBn": "তুফাইল ইবনে আমর (রাঃ) ছিলেন দাউস গোত্রের সম্ভ্রান্ত কবি-সর্দার। মক্কায় পৌঁছালে কুরাইশ তাঁকে নবীজির 'জাদু' সম্পর্কে সতর্ক করে, এমনকি তিনি নিজের কানে তুলা গুঁজে দেন; কিন্তু তিনি ভাবলেন, বুদ্ধিমান মানুষের নিজেই যাচাই করা উচিত। তিনি শুনলেন, কুরআনকে সুন্দর ও সত্য পেলেন এবং ইসলাম গ্রহণ করলেন। নিজ গোত্রে ফিরে তিনি দাওয়াতের সাহায্যে আল্লাহর কাছে একটি নিদর্শন চাইলেন; বর্ণিত আছে, তাঁর চাবুকের ডগায় একটি আলো দেখা দেয়, ফলে তাঁর নাম হয় 'যুন-নূর'—আলোর অধিকারী। দাউস ধীরে সাড়া দিলে তিনি নবীজি (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম)-কে তাদের ওপর বদদোয়া করতে বলেন, কিন্তু নবীজি হাত তুলে দোয়া করেন, 'হে আল্লাহ, দাউসকে হেদায়েত দাও এবং তাদের নিয়ে এসো।' বছর কয়েক পর তুফাইল সত্তর-আশিটি দাউসি পরিবার নিয়ে মদিনায় আসেন—যে কাফেলায় ছিলেন আবু হুরায়রা (রাঃ)-এর লোকজনও—এবং খায়বারে নবীজির সঙ্গে মিলিত হন। আনুমানিক ১২ হিজরিতে ইয়ামামার যুদ্ধে তিনি শহীদ হন।",
+    "events": [
+      {
+        "en": "Listened to the Quran despite Quraysh's warnings and believed",
+        "bn": "কুরাইশের সতর্কতা সত্ত্বেও কুরআন শুনে ঈমান আনেন"
+      },
+      {
+        "en": "Granted a light at the tip of his whip — called Dhun-Nur",
+        "bn": "চাবুকের ডগায় আলো লাভ করেন—'যুন-নূর' নামে খ্যাত হন"
+      },
+      {
+        "en": "The Prophet prayed: 'O Allah, guide Daws and bring them'",
+        "bn": "নবীজি দোয়া করেন: 'হে আল্লাহ, দাউসকে হেদায়েত দাও এবং তাদের নিয়ে এসো'"
+      },
+      {
+        "en": "Brought 70-80 Dawsi households to Madinah, including Abu Hurayrah's people",
+        "bn": "আবু হুরায়রার লোকজনসহ ৭০-৮০টি দাউসি পরিবার মদিনায় নিয়ে আসেন"
+      },
+      {
+        "en": "Martyred at the Battle of Yamama",
+        "bn": "ইয়ামামার যুদ্ধে শহীদ হন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Hear the truth for yourself, and call others with prayer and patience, not curses.",
+    "lessonBn": "সত্যকে নিজে যাচাই করে শুনুন, আর মানুষকে ডাকুন অভিশাপে নয়—দোয়া ও ধৈর্যে।"
+  },
+  {
+    "id": "shaddad_ibn_aws",
+    "order": 100,
+    "init": "SA",
+    "color": "bg-cyan-600",
+    "ar": "شَدَّاد بْن أَوْس",
+    "translit": "Shaddad ibn Aws",
+    "en": "Shaddad ibn Aws (RA)",
+    "bn": "শাদ্দাদ ইবনে আউস (রাঃ)",
+    "era": "knowledge",
+    "ashara": false,
+    "caliph": false,
+    "ansar": true,
+    "woman": false,
+    "roleEn": "Narrator of the Master Supplication",
+    "roleBn": "সাইয়েদুল ইস্তিগফারের বর্ণনাকারী",
+    "yearEn": "d. c. 678 CE",
+    "highlightEn": "The Ansari given knowledge and forbearance, who taught the Sayyid al-Istighfar.",
+    "highlightBn": "জ্ঞান ও সহনশীলতা-প্রাপ্ত আনসারি, যিনি সাইয়েদুল ইস্তিগফার শিক্ষা দিয়েছেন।",
+    "summaryEn": "Shaddad ibn Aws (RA) was a Companion of the Ansar and the nephew of the poet Hassan ibn Thabit (RA). Abu ad-Darda (RA) described him as one given both knowledge and forbearance. He is the narrator of the Sayyid al-Istighfar, the master supplication of seeking forgiveness recorded in Sahih al-Bukhari, whoever says it with conviction morning or evening and dies that day is promised Paradise. He also transmitted the Prophet's teaching in Sahih Muslim that Allah has prescribed excellence (ihsan) in all things. In his later years he settled in Jerusalem, known for weeping in the night prayer and fearing the trials of the age, and he died there around 58 AH.",
+    "summaryBn": "শাদ্দাদ ইবনে আউস (রাঃ) ছিলেন আনসারের একজন সাহাবি এবং কবি হাসসান ইবনে সাবিত (রাঃ)-এর ভাতিজা। আবু দারদা (রাঃ) তাঁর সম্পর্কে বলেছেন, তাঁকে জ্ঞান ও সহনশীলতা—দুটোই দেওয়া হয়েছিল। তিনি সহিহ বুখারিতে বর্ণিত 'সাইয়েদুল ইস্তিগফার'-এর বর্ণনাকারী—ক্ষমা প্রার্থনার শ্রেষ্ঠ দোয়া, যা দৃঢ় বিশ্বাসের সঙ্গে সকালে বা সন্ধ্যায় পাঠ করে সেদিন কেউ মারা গেলে তার জন্য জান্নাতের প্রতিশ্রুতি রয়েছে। তিনি সহিহ মুসলিমে নবীজির এই শিক্ষাও বর্ণনা করেন যে আল্লাহ প্রতিটি বিষয়ে ইহসান (উৎকর্ষ) নির্ধারণ করেছেন। শেষ জীবনে তিনি জেরুজালেমে বসতি স্থাপন করেন; রাতের নামাজে ক্রন্দন ও যুগের ফিতনার ভয়ে তিনি পরিচিত ছিলেন। আনুমানিক ৫৮ হিজরিতে সেখানে তিনি ইন্তেকাল করেন।",
+    "events": [
+      {
+        "en": "Nephew of the Prophet's poet Hassan ibn Thabit",
+        "bn": "নবীজির কবি হাসসান ইবনে সাবিতের ভাতিজা"
+      },
+      {
+        "en": "Described by Abu ad-Darda as given knowledge and forbearance",
+        "bn": "আবু দারদা বলেন, তাঁকে জ্ঞান ও সহনশীলতা দেওয়া হয়েছে"
+      },
+      {
+        "en": "Narrated the Sayyid al-Istighfar (Sahih al-Bukhari)",
+        "bn": "সাইয়েদুল ইস্তিগফার বর্ণনা করেন (সহিহ বুখারি)"
+      },
+      {
+        "en": "Narrated: 'Allah has prescribed ihsan in all things' (Sahih Muslim)",
+        "bn": "বর্ণনা করেন: 'আল্লাহ সব কিছুতে ইহসান নির্ধারণ করেছেন' (সহিহ মুসলিম)"
+      },
+      {
+        "en": "Settled and died in Jerusalem, c. 58 AH",
+        "bn": "জেরুজালেমে বসতি স্থাপন করেন ও আনু. ৫৮ হিজরিতে সেখানে ইন্তেকাল করেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Seek forgiveness daily with conviction, and bring excellence to everything you do.",
+    "lessonBn": "প্রতিদিন দৃঢ় বিশ্বাসে ক্ষমা প্রার্থনা করুন এবং প্রতিটি কাজে ইহসান আনুন।"
+  },
+  {
+    "id": "irbad_ibn_sariyah",
+    "order": 101,
+    "init": "IS",
+    "color": "bg-violet-600",
+    "ar": "الْعِرْبَاض بْن سَارِيَة",
+    "translit": "Al-Irbad ibn Sariyah",
+    "en": "Al-Irbad ibn Sariyah (RA)",
+    "bn": "ইরবাদ ইবনে সারিয়া (রাঃ)",
+    "era": "battles",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "One of the Weepers of Tabuk",
+    "roleBn": "তাবুকের ক্রন্দনকারীদের একজন",
+    "yearEn": "d. c. 694 CE",
+    "highlightEn": "He wept when he could not march to Tabuk, and preserved the farewell counsel on the Sunnah.",
+    "highlightBn": "তাবুকে যেতে না পারায় কেঁদেছিলেন এবং সুন্নাহ বিষয়ে বিদায়ী উপদেশটি সংরক্ষণ করেছেন।",
+    "summaryEn": "Al-Irbad ibn Sariyah (RA) was a poor Companion of the tribe of Sulaym and one of the People of the Bench (Ahl as-Suffa) who lived in the Prophet's mosque. At the expedition of Tabuk he came asking to be carried to battle, and when the Prophet (peace be upon him) had no mounts left, he turned back with eyes overflowing with tears of grief — commentators mention him among those about whom Quran 9:92 was revealed, praising the sincere who wept because they had nothing to spend. His greatest legacy is the celebrated admonition hadith: he related that the Prophet delivered a sermon at which eyes wept and hearts trembled, commanding the Muslims to hold fast to his Sunnah and the Sunnah of the rightly-guided caliphs, to bite onto it with the molar teeth, and to beware newly invented matters in religion (Abu Dawud, at-Tirmidhi). He settled in Hims in Syria, teaching those who came to him, and died there around 75 AH.",
+    "summaryBn": "ইরবাদ ইবনে সারিয়া (রাঃ) ছিলেন সুলাইম গোত্রের একজন দরিদ্র সাহাবি এবং নবীজির মসজিদে বসবাসকারী আহলুস-সুফফার একজন। তাবুক অভিযানে তিনি বাহনের জন্য এসেছিলেন; নবীজি (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম)-এর কাছে কোনো বাহন অবশিষ্ট না থাকায় তিনি দুঃখে অশ্রুসিক্ত চোখে ফিরে যান—মুফাসসিরগণ তাঁকে তাদের মধ্যে উল্লেখ করেন যাঁদের সম্পর্কে কুরআনের ৯:৯২ আয়াত নাজিল হয়, যেখানে ব্যয় করার কিছু না থাকায় ক্রন্দনকারী নিষ্ঠাবানদের প্রশংসা করা হয়েছে। তাঁর শ্রেষ্ঠ উত্তরাধিকার সেই প্রসিদ্ধ উপদেশ-হাদিস: তিনি বর্ণনা করেন, নবীজি এমন এক ভাষণ দেন যাতে চোখ অশ্রুসিক্ত হয় ও হৃদয় কেঁপে ওঠে; তাতে তিনি মুসলিমদের নির্দেশ দেন তাঁর সুন্নাহ ও খুলাফায়ে রাশিদিনের সুন্নাহ আঁকড়ে ধরতে, মাড়ির দাঁত দিয়ে তা কামড়ে ধরতে এবং দ্বীনে নব-উদ্ভাবিত বিষয় থেকে সাবধান থাকতে (আবু দাউদ, তিরমিজি)। তিনি সিরিয়ার হিমসে বসতি স্থাপন করে আগত শিক্ষার্থীদের শিক্ষা দেন এবং আনুমানিক ৭৫ হিজরিতে সেখানে ইন্তেকাল করেন।",
+    "events": [
+      {
+        "en": "Lived among the People of the Bench (Ahl as-Suffa)",
+        "bn": "আহলুস-সুফফার মধ্যে বসবাস করতেন"
+      },
+      {
+        "en": "Wept when no mount could carry him to Tabuk — linked to Quran 9:92",
+        "bn": "তাবুকে যাওয়ার বাহন না পেয়ে কাঁদেন—কুরআনের ৯:৯২ আয়াতের সঙ্গে সংযুক্ত"
+      },
+      {
+        "en": "Narrated the admonition: hold to my Sunnah and the Sunnah of the rightly-guided caliphs",
+        "bn": "উপদেশ বর্ণনা করেন: আমার সুন্নাহ ও খুলাফায়ে রাশিদিনের সুন্নাহ আঁকড়ে ধরো"
+      },
+      {
+        "en": "Taught in Hims, Syria, until his death c. 75 AH",
+        "bn": "আনু. ৭৫ হিজরিতে ইন্তেকাল পর্যন্ত সিরিয়ার হিমসে শিক্ষা দেন"
+      }
+    ],
+    "refs": [
+      "9:92"
+    ],
+    "lessonEn": "Allah records the sincere intention even when means are lacking; and safety lies in holding fast to the Sunnah.",
+    "lessonBn": "সামর্থ্য না থাকলেও আল্লাহ নিষ্ঠাপূর্ণ নিয়ত লিপিবদ্ধ করেন; আর নিরাপত্তা রয়েছে সুন্নাহ আঁকড়ে ধরায়।"
+  },
+  {
+    "id": "khawla_bint_thalaba",
+    "order": 102,
+    "init": "KT",
+    "color": "bg-pink-500",
+    "ar": "خَوْلَة بِنْت ثَعْلَبَة",
+    "translit": "Khawla bint Tha'laba",
+    "en": "Khawla bint Tha'laba (RA)",
+    "bn": "খাওলা বিনতে সা'লাবা (রাঃ)",
+    "era": "hijra",
+    "ashara": false,
+    "caliph": false,
+    "ansar": true,
+    "woman": true,
+    "roleEn": "The Woman Whom Allah Heard",
+    "roleBn": "যে নারীর কথা আল্লাহ শুনেছেন",
+    "yearEn": "fl. 7th century CE",
+    "highlightEn": "Her plea rose above the seven heavens, and Surah al-Mujadila opened with her case.",
+    "highlightBn": "তাঁর আর্জি সপ্ত আকাশ পেরিয়ে পৌঁছেছিল, আর সূরা মুজাদালা শুরু হয় তাঁর ঘটনাকে ঘিরে।",
+    "summaryEn": "Khawla bint Tha'laba (RA) was a woman of the Ansar married to Aws ibn as-Samit (RA), brother of Ubadah ibn as-Samit. In a moment of anger her aging husband pronounced zihar upon her — the pre-Islamic formula 'you are to me like my mother's back' — which by old custom ended a marriage forever. Khawla came to the Prophet (peace be upon him) pleading her case and complaining of her plight to Allah, and Allah answered her from above the heavens: 'Indeed Allah has heard the speech of the one who disputes with you concerning her husband' (58:1), prescribing an expiation that restored her marriage. Aishah (RA) said: Blessed is He whose hearing encompasses all things — I was in a corner of the room and missed some of her words, yet Allah heard her from above. Years later, the Caliph Umar (RA) halted his procession to listen patiently to her lengthy counsel, saying: how could he not listen to a woman to whom Allah Himself had listened.",
+    "summaryBn": "খাওলা বিনতে সা'লাবা (রাঃ) ছিলেন আনসারের একজন নারী, উবাদা ইবনুস সামিতের ভাই আউস ইবনুস সামিত (রাঃ)-এর স্ত্রী। রাগের মুহূর্তে তাঁর বয়োবৃদ্ধ স্বামী তাঁর ওপর 'জিহার' উচ্চারণ করেন—জাহেলি যুগের সেই সূত্র, 'তুমি আমার কাছে আমার মায়ের পিঠের মতো'—যা প্রাচীন প্রথায় বিবাহ চিরতরে শেষ করে দিত। খাওলা নবীজি (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম)-এর কাছে এসে নিজের পক্ষে যুক্তি দেন এবং নিজের দুরবস্থার অভিযোগ আল্লাহর কাছে পেশ করেন; আল্লাহ আকাশের ওপর থেকে তাঁর জবাব দেন: 'নিশ্চয়ই আল্লাহ সেই নারীর কথা শুনেছেন, যে তার স্বামীর ব্যাপারে আপনার সঙ্গে বাদানুবাদ করছিল' (৫৮:১)—এবং এমন কাফফারা নির্ধারণ করেন যা তাঁর সংসার ফিরিয়ে দেয়। আয়েশা (রাঃ) বলেন: মহিমান্বিত তিনি, যাঁর শ্রবণ সবকিছু পরিব্যাপ্ত—আমি ঘরের এক কোণে থেকেও তাঁর কিছু কথা শুনতে পাইনি, অথচ আল্লাহ ঊর্ধ্ব থেকে তা শুনেছেন। বহু বছর পর খলিফা উমর (রাঃ) নিজের কাফেলা থামিয়ে ধৈর্য ধরে তাঁর দীর্ঘ উপদেশ শোনেন এবং বলেন: যে নারীর কথা স্বয়ং আল্লাহ শুনেছেন, তিনি কীভাবে তাঁর কথা না শুনে পারেন।",
+    "events": [
+      {
+        "en": "Pleaded her case of zihar before the Prophet",
+        "bn": "জিহারের ঘটনায় নবীজির কাছে নিজের পক্ষ উপস্থাপন করেন"
+      },
+      {
+        "en": "Surah al-Mujadila (58:1-4) was revealed concerning her",
+        "bn": "তাঁর ঘটনায় সূরা মুজাদালা (৫৮:১-৪) নাজিল হয়"
+      },
+      {
+        "en": "The revelation prescribed expiation and restored her marriage",
+        "bn": "ওহিতে কাফফারা নির্ধারিত হয় ও তাঁর সংসার রক্ষা পায়"
+      },
+      {
+        "en": "Caliph Umar halted his procession to hear her counsel at length",
+        "bn": "খলিফা উমর কাফেলা থামিয়ে তাঁর দীর্ঘ উপদেশ শোনেন"
+      }
+    ],
+    "refs": [
+      "58:1"
+    ],
+    "lessonEn": "No voice raised sincerely to Allah is too small to be heard above the seven heavens.",
+    "lessonBn": "আল্লাহর কাছে আন্তরিকভাবে তোলা কোনো কণ্ঠই এত ক্ষুদ্র নয় যে তা সপ্ত আকাশের ঊর্ধ্বে শোনা যাবে না।"
+  },
+  {
+    "id": "ash_shifa_bint_abdullah",
+    "order": 103,
+    "init": "SB",
+    "color": "bg-fuchsia-500",
+    "ar": "الشِّفَاء بِنْت عَبْد اللهِ",
+    "translit": "Ash-Shifa bint Abdullah",
+    "en": "Ash-Shifa bint Abdullah (RA)",
+    "bn": "আশ-শিফা বিনতে আবদুল্লাহ (রাঃ)",
+    "era": "first",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": true,
+    "roleEn": "The Literate Teacher of Madinah",
+    "roleBn": "মদিনার শিক্ষিতা শিক্ষিকা",
+    "yearEn": "d. c. 640 CE",
+    "highlightEn": "She taught the Prophet's wife Hafsa to write, and Umar entrusted her with public duties.",
+    "highlightBn": "তিনি নবী-পত্নী হাফসাকে লেখা শেখান, আর উমর তাঁকে জনদায়িত্ব অর্পণ করেন।",
+    "summaryEn": "Ash-Shifa bint Abdullah (RA), whose given name is reported as Layla, was a Qurayshi woman of Banu Adi, the clan of Umar ibn al-Khattab (RA). She embraced Islam in Makkah before the Hijra, counted among the early Muhajir women, and was one of the few people of her society who could read and write. The Prophet (peace be upon him) asked her to teach his wife Hafsa (RA) writing, and also to teach her the ruqyah (healing formula) for skin sores that she had used before Islam. She was known for her intelligence and sound judgment; Umar (RA) valued her opinion highly, and reports relate that he entrusted her with oversight of affairs of the market in Madinah — a remarkable public trust for a woman of her time. She died in Madinah around 20 AH.",
+    "summaryBn": "আশ-শিফা বিনতে আবদুল্লাহ (রাঃ)—যাঁর প্রকৃত নাম বর্ণনামতে লায়লা—ছিলেন উমর ইবনুল খাত্তাব (রাঃ)-এর গোত্র বনু আদির একজন কুরাইশি নারী। হিজরতের আগেই মক্কায় তিনি ইসলাম গ্রহণ করেন, প্রাথমিক মুহাজির নারীদের মধ্যে গণ্য হন, এবং তৎকালীন সমাজের যে অল্প কয়েকজন পড়তে ও লিখতে জানতেন, তিনি ছিলেন তাঁদের একজন। নবীজি (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম) তাঁকে অনুরোধ করেন তাঁর স্ত্রী হাফসা (রাঃ)-কে লেখা শেখাতে, এবং ইসলাম-পূর্বকাল থেকে তাঁর জানা চর্মক্ষতের রুকইয়া (আরোগ্যের দোয়া)-ও শেখাতে। বুদ্ধিমত্তা ও সুবিবেচনার জন্য তিনি খ্যাত ছিলেন; উমর (রাঃ) তাঁর মতামতকে অত্যন্ত মূল্য দিতেন, এবং বর্ণনায় এসেছে যে তিনি তাঁকে মদিনার বাজারের তদারকির দায়িত্ব অর্পণ করেছিলেন—তাঁর সময়ের একজন নারীর জন্য এক অসাধারণ জনদায়িত্ব। আনুমানিক ২০ হিজরিতে মদিনায় তিনি ইন্তেকাল করেন।",
+    "events": [
+      {
+        "en": "Embraced Islam in Makkah before the Hijra, among the early Muhajir women",
+        "bn": "হিজরতের আগে মক্কায় ইসলাম গ্রহণ করেন, প্রাথমিক মুহাজির নারীদের একজন"
+      },
+      {
+        "en": "One of the few literate people of her society",
+        "bn": "তৎকালীন সমাজের অল্প কয়েকজন শিক্ষিত মানুষের একজন"
+      },
+      {
+        "en": "Taught writing and a ruqyah to Hafsa at the Prophet's request",
+        "bn": "নবীজির অনুরোধে হাফসাকে লেখা ও একটি রুকইয়া শেখান"
+      },
+      {
+        "en": "Umar valued her judgment; reports say he entrusted her with market oversight",
+        "bn": "উমর তাঁর বিচারবুদ্ধিকে মূল্য দিতেন; বর্ণনামতে তাঁকে বাজার তদারকির দায়িত্ব দেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Knowledge and literacy are a trust to be shared; a capable woman's wisdom can serve the whole community.",
+    "lessonBn": "জ্ঞান ও অক্ষরজ্ঞান ভাগ করে নেওয়ার আমানত; একজন যোগ্য নারীর প্রজ্ঞা গোটা সমাজের সেবায় লাগতে পারে।"
   }
 ];
 

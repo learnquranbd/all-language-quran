@@ -647,5 +647,77 @@ const MUTASHABIHAT_GROUPS = [
     descEn: 'The address "yā ayyuhā lladhīna āmanū ttaqū llāha…" (O you who believe, fear Allah…) opens many verses with a different command attached: "wa-dharū mā baqiya mina r-ribā" (2:278), "ḥaqqa tuqātihi" (3:102), "wa-btaghū ilayhi l-wasīla" (5:35), "wa-kūnū maʿa ṣ-ṣādiqīn" (9:119), "wa-qūlū qawlan sadīdā" (33:70), "wa-āminū bi-rasūlih" (57:28), and "wa-ltanẓur nafsun mā qaddamat li-ghad" (59:18). The identical opening with a rotating follow-on command is a prime sequential-memorisation challenge.',
     descBn: 'সম্বোধন "ইয়া আইয়ুহাল্লাযীনা আমানুত্তাকুল্লাহা…" (হে ঈমানদারগণ, আল্লাহকে ভয় কর…) বহু আয়াত শুরু করে ভিন্ন আদেশসহ: "ওয়া যারূ মা বাকিয়া মিনার-রিবা" (২:২৭৮), "হাক্কা তুকাতিহি" (৩:১০২), "ওয়াবতাগূ ইলাইহিল-ওয়াসীলা" (৫:৩৫), "ওয়া কূনূ মাআস-সাদিকীন" (৯:১১৯), "ওয়া কূলূ কাওলান সাদীদা" (৩৩:৭০), "ওয়া আমিনূ বিরাসূলিহ" (৫৭:২৮), এবং "ওয়ালতানযুর নাফসুম মা কাদ্দামাত লিগাদ" (৫৯:১৮)। অভিন্ন সূচনার সঙ্গে ঘূর্ণায়মান অনুবর্তী আদেশ — একটি প্রধান ধারাবাহিক-মুখস্থকরণ চ্যালেঞ্জ।',
     verses: ['2:278', '3:102', '5:35', '9:119', '33:70', '57:28', '59:18']
+  },
+  {
+    id: 'shuara-aziz-rahim',
+    nameEn: 'Ash-Shuʿarāʾ — "Al-ʿAzīzu r-Raḥīm" Eightfold Refrain',
+    nameBn: 'আশ-শুআরা — "আল-আযীযুর-রাহীম" অষ্টগুণ পুনরাবৃত্তি',
+    nameAr: 'لازمة وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ في الشعراء',
+    descEn: 'The closing line "wa-inna rabbaka la-huwa l-ʿAzīzu r-Raḥīm" (indeed your Lord — He is the Almighty, the Merciful) seals eight sections of Sūrat ash-Shuʿarāʾ verbatim: after the opening (26:9) and after each of the seven prophet narratives (26:68, 104, 122, 140, 159, 175, 191). Near the sūrah\'s end the pair returns in a new frame: "wa-tawakkal ʿalā l-ʿAzīzi r-Raḥīm" (26:217). The ʿAzīz + Raḥīm pairing is characteristic of this sūrah; since ʿAzīz elsewhere overwhelmingly pairs with Ḥakīm, slipping into "al-ʿAzīzu l-Ḥakīm" here is the classic error. (Complements the kadhdhabat-openings group for this sūrah.)',
+    descBn: 'সমাপ্তি-পঙ্‌ক্তি "ওয়া ইন্না রাব্বাকা লাহুওয়াল-আযীযুর-রাহীম" (নিশ্চয়ই তোমার রব — তিনিই পরাক্রমশালী, পরম দয়ালু) সূরা আশ-শুআরার আটটি অংশ হুবহু সমাপ্ত করে: সূচনার পর (২৬:৯) এবং সাতটি নবী-আখ্যানের প্রতিটির পর (২৬:৬৮, ১০৪, ১২২, ১৪০, ১৫৯, ১৭৫, ১৯১)। সূরার শেষের দিকে জোড়াটি নতুন কাঠামোয় ফিরে আসে: "ওয়া তাওয়াক্কাল আলাল-আযীযির-রাহীম" (২৬:২১৭)। আযীয + রাহীম জোড়া এই সূরার বৈশিষ্ট্য; যেহেতু আযীয অন্যত্র প্রধানত হাকীমের সঙ্গে জোড়া বাঁধে, এখানে "আল-আযীযুল-হাকীম" পড়ে ফেলাই ধ্রুপদী ভুল। (এই সূরার কাযযাবাত-সূচনা গুচ্ছের পরিপূরক।)',
+    verses: ['26:9', '26:68', '26:104', '26:122', '26:140', '26:159', '26:175', '26:191', '26:217']
+  },
+  {
+    id: 'nufikha-fi-s-sur',
+    nameEn: 'The Trumpet Blast — "Nufikha fī ṣ-Ṣūr" Family',
+    nameBn: 'শিঙ্গায় ফুৎকার — "নুফিখা ফিস-সূর" পরিবার',
+    nameAr: 'وَنُفِخَ فِى ٱلصُّورِ / فَإِذَا نُفِخَ / يَوْمَ يُنفَخُ',
+    descEn: 'The Resurrection trumpet appears in three grammatical frames: past-tense "wa-nufikha fī ṣ-ṣūr" (18:99, 36:51, 39:68, 50:20), conditional "fa-idhā nufikha fī ṣ-ṣūr" (23:101; 69:13 adds "nafkhatun wāḥida" — a single blast), and imperfect "yawma yunfakhu fī ṣ-ṣūr" (20:102, 78:18; with wa- in 27:87, while 6:73 embeds it as "wa-lahu l-mulku yawma yunfakhu fī ṣ-ṣūr"). Every continuation differs: gathering together (18:99), racing from the graves (36:51), the two blasts (39:68), "that is the Day of the Threat" (50:20), no kinship ties that Day (23:101), coming in crowds (78:18). Matching frame and continuation to the right sūrah is a standard advanced ḥifẓ drill.',
+    descBn: 'পুনরুত্থানের শিঙ্গা তিনটি ব্যাকরণিক কাঠামোয় আসে: অতীত কাল "ওয়া নুফিখা ফিস-সূর" (১৮:৯৯, ৩৬:৫১, ৩৯:৬৮, ৫০:২০), শর্তসূচক "ফাইযা নুফিখা ফিস-সূর" (২৩:১০১; ৬৯:১৩ যোগ করে "নাফখাতুন ওয়াহিদা" — একটিমাত্র ফুৎকার), এবং ভবিষ্যদ্‌ব্যঞ্জক "ইয়াওমা ইউনফাখু ফিস-সূর" (২০:১০২, ৭৮:১৮; ২৭:৮৭-এ ওয়া-সহ, আর ৬:৭৩-এ তা আসে "ওয়া লাহুল-মুলকু ইয়াওমা ইউনফাখু ফিস-সূর" কাঠামোর ভেতরে)। প্রতিটি ধারাবাহিকতা ভিন্ন: একত্রকরণ (১৮:৯৯), কবর থেকে ছুটে আসা (৩৬:৫১), দুই ফুৎকার (৩৯:৬৮), "এটিই প্রতিশ্রুত শাস্তির দিন" (৫০:২০), সেদিন আত্মীয়তার বন্ধন থাকবে না (২৩:১০১), দলে দলে আগমন (৭৮:১৮)। কোন কাঠামো ও ধারাবাহিকতা কোন সূরার — তা মেলানো একটি আদর্শ উন্নত হিফয অনুশীলন।',
+    verses: ['6:73', '18:99', '20:102', '23:101', '27:87', '36:51', '39:68', '50:20', '69:13', '78:18']
+  },
+  {
+    id: 'idha-cosmic-openings',
+    nameEn: '"Idhā…" Cosmic-Upheaval Openings — Sūrahs 81, 82, 84',
+    nameBn: '"ইযা…" মহাজাগতিক-বিপর্যয় সূচনা — সূরা ৮১, ৮২, ৮৪',
+    nameAr: 'إِذَا ٱلشَّمْسُ كُوِّرَتْ / إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ / إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ',
+    descEn: 'Three juz-30 sūrahs open with chains of "idhā" (when…) clauses depicting the cosmos undone. At-Takwīr strings twelve — beginning "idhā sh-shamsu kuwwirat" (81:1) — resolved by "ʿalimat nafsun mā aḥḍarat" (81:14). Al-Infiṭār opens "idhā s-samāʾu nfaṭarat" (82:1, the sky SPLIT OPEN) with four clauses resolved by the near-twin "ʿalimat nafsun mā qaddamat wa-akhkharat" (82:5). Al-Inshiqāq opens "idhā s-samāʾu nshaqqat" (84:1, the sky RENT ASUNDER) and repeats "wa-adhinat li-rabbihā wa-ḥuqqat" verbatim at 84:2 and 84:5. Confusing infaṭarat with inshaqqat, and swapping the two "ʿalimat nafsun" resolutions, are among the most frequent juz-ʿamma errors.',
+    descBn: 'জুয-৩০-এর তিনটি সূরা "ইযা" (যখন…) বাক্যাংশের শৃঙ্খল দিয়ে শুরু হয়, যা মহাবিশ্বের ভেঙে পড়া চিত্রিত করে। আত-তাকভীর বারোটি সাজায় — শুরু "ইযাশ-শামসু কুওবিরাত" (৮১:১) — সমাধান "আলিমাত নাফসুম মা আহদারাত" (৮১:১৪)। আল-ইনফিতার শুরু হয় "ইযাস-সামাউন-ফাতারাত" (৮২:১, আকাশ বিদীর্ণ হবে) দিয়ে, চারটি বাক্যাংশের পর প্রায়-যমজ সমাধান "আলিমাত নাফসুম মা কাদ্দামাত ওয়া আখখারাত" (৮২:৫)। আল-ইনশিকাক শুরু হয় "ইযাস-সামাউন-শাক্কাত" (৮৪:১, আকাশ ফেটে যাবে) দিয়ে এবং "ওয়া আযিনাত লিরাব্বিহা ওয়া হুক্কাত" ৮৪:২ ও ৮৪:৫-এ হুবহু পুনরাবৃত্তি করে। ইনফাতারাত ও ইনশাক্কাত গুলিয়ে ফেলা, এবং দুটি "আলিমাত নাফসুন" সমাধান অদল-বদল করা — জুয-আম্মার সবচেয়ে ঘনঘটিত ভুলগুলোর অন্যতম।',
+    verses: ['81:1', '81:14', '82:1', '82:5', '84:1', '84:2', '84:5']
+  },
+  {
+    id: 'kalla-sawfa-talamun',
+    nameEn: '"Kallā Sawfa Taʿlamūn" — The Doubled Rebuke (102 vs 78)',
+    nameBn: '"কাল্লা সাওফা তালামূন" — দ্বিগুণ ধমক (১০২ বনাম ৭৮)',
+    nameAr: 'كَلَّا سَوْفَ تَعْلَمُونَ / كَلَّا سَيَعْلَمُونَ',
+    descEn: 'At-Takāthur warns twice in the second person with the particle sawfa: "kallā sawfa taʿlamūn, thumma kallā sawfa taʿlamūn" (102:3–4). An-Nabaʾ carries the identical doubled structure — kallā, then thumma kallā — but in the third person with the prefix sa-: "kallā sa-yaʿlamūn, thumma kallā sa-yaʿlamūn" (78:4–5). The rhetoric of escalating threat is the same; two switches must be tracked: the person (taʿlamūn "you will know" vs yaʿlamūn "they will know") and the future marker (sawfa vs sa-). Blending the two sūrahs\' forms is a well-known short-sūrah slip.',
+    descBn: 'আত-তাকাসুর দ্বিতীয় পুরুষে সাওফা কণিকাসহ দুইবার সতর্ক করে: "কাল্লা সাওফা তালামূন, সুম্মা কাল্লা সাওফা তালামূন" (১০২:৩–৪)। আন-নাবা অভিন্ন দ্বিগুণ কাঠামো বহন করে — কাল্লা, তারপর সুম্মা কাল্লা — কিন্তু তৃতীয় পুরুষে সা- উপসর্গসহ: "কাল্লা সাইয়ালামূন, সুম্মা কাল্লা সাইয়ালামূন" (৭৮:৪–৫)। ক্রমবর্ধমান হুমকির অলংকার একই; দুটি পার্থক্য খেয়াল রাখতে হয়: পুরুষ (তালামূন "তোমরা জানবে" বনাম ইয়ালামূন "তারা জানবে") এবং ভবিষ্যৎ-চিহ্ন (সাওফা বনাম সা-)। দুই সূরার রূপ মিশিয়ে ফেলা একটি সুপরিচিত সংক্ষিপ্ত-সূরা ভুল।',
+    verses: ['78:4', '78:5', '102:3', '102:4']
+  },
+  {
+    id: 'maal-usri-yusra',
+    nameEn: '"With Hardship Comes Ease" — The Back-to-Back Twin of ash-Sharḥ',
+    nameBn: '"কষ্টের সাথেই স্বস্তি" — আশ-শারহের পিঠাপিঠি যমজ',
+    nameAr: 'فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا . إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا',
+    descEn: 'Ash-Sharḥ 94:5 declares "fa-inna maʿa l-ʿusri yusrā" and 94:6 immediately repeats it minus the opening fa-: "inna maʿa l-ʿusri yusrā" — the Quran\'s most compact near-verbatim twin: adjacent verses distinguished by a single particle. Reciters routinely add or drop the fa-. Classical commentators, citing a well-known saying transmitted from the early generations, note that al-ʿusr is definite (the same hardship both times) while yusrā is indefinite (two distinct eases): "one hardship will never overcome two eases".',
+    descBn: 'আশ-শারহ ৯৪:৫ ঘোষণা করে "ফাইন্না মাআল-উসরি ইউসরা" এবং ৯৪:৬ তা তৎক্ষণাৎ সূচনার ফা- ছাড়া পুনরাবৃত্তি করে: "ইন্না মাআল-উসরি ইউসরা" — কুরআনের সবচেয়ে সংক্ষিপ্ত প্রায়-হুবহু যমজ: পাশাপাশি দুই আয়াত কেবল একটি কণিকায় ভিন্ন। তিলাওয়াতকারীরা প্রায়ই ফা- যোগ করেন বা বাদ দেন। ধ্রুপদী মুফাসসিরগণ, পূর্বসূরিদের থেকে বর্ণিত একটি প্রসিদ্ধ উক্তি উদ্ধৃত করে, উল্লেখ করেন যে আল-উসর নির্দিষ্ট (দুইবারই একই কষ্ট) কিন্তু ইউসরা অনির্দিষ্ট (দুটি ভিন্ন স্বস্তি): "এক কষ্ট কখনো দুই স্বস্তিকে পরাভূত করবে না"।',
+    verses: ['94:5', '94:6']
+  },
+  {
+    id: 'ya-ayyuha-n-nas-ittaqu',
+    nameEn: '"O Mankind, Fear Your Lord" — Ittaqū Rabbakum Addresses',
+    nameBn: '"হে মানুষ, তোমাদের রবকে ভয় কর" — ইত্তাকূ রাব্বাকুম সম্বোধন',
+    nameAr: 'يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ',
+    descEn: '"Yā ayyuhā n-nāsu ttaqū rabbakum" opens two sūrahs with different continuations: an-Nisāʾ adds "alladhī khalaqakum min nafsin wāḥida" (4:1), while al-Ḥajj adds "inna zalzalata s-sāʿati shayʾun ʿaẓīm" (22:1). Luqmān 31:33 repeats the call mid-sūrah with "wa-khshaw yawman lā yajzī wālidun ʿan waladih". Fāṭir 35:5 uses the same address without "ittaqū" — "yā ayyuhā n-nāsu inna waʿda llāhi ḥaqq" — yet ends exactly as 31:33 does: "fa-lā taghurrannakumu l-ḥayātu d-dunyā wa-lā yaghurrannakum billāhi l-gharūr", making 31:33 and 35:5 a hidden twin inside the larger set.',
+    descBn: '"ইয়া আইয়ুহান-নাসুত্তাকূ রাব্বাকুম" দুটি সূরা শুরু করে ভিন্ন ধারাবাহিকতাসহ: আন-নিসা যোগ করে "আল্লাযী খালাকাকুম মিন নাফসিন ওয়াহিদা" (৪:১), আর আল-হাজ্জ যোগ করে "ইন্না যালযালাতাস-সাআতি শাইউন আযীম" (২২:১)। লুকমান ৩১:৩৩ সূরার মাঝে ডাকটি পুনরাবৃত্তি করে "ওয়াখশাও ইয়াওমাল লা ইয়াজযী ওয়ালিদুন আন ওয়ালাদিহ" সহ। ফাতির ৩৫:৫ একই সম্বোধন ব্যবহার করে "ইত্তাকূ" ছাড়া — "ইয়া আইয়ুহান-নাসু ইন্না ওয়াদাল্লাহি হাক্ক" — অথচ শেষ হয় হুবহু ৩১:৩৩-এর মতো: "ফালা তাগুররান্নাকুমুল-হায়াতুদ-দুনইয়া ওয়ালা ইয়াগুররান্নাকুম বিল্লাহিল-গারূর", যা ৩১:৩৩ ও ৩৫:৫-কে বৃহত্তর গুচ্ছের ভেতরে এক লুকানো যমজ করে তোলে।',
+    verses: ['4:1', '22:1', '31:33', '35:5']
+  },
+  {
+    id: 'illa-l-balagh',
+    nameEn: '"Only the Clear Conveyance" — Mā ʿalā r-Rasūli illā l-Balāgh',
+    nameBn: '"স্পষ্ট পৌঁছে দেওয়াই দায়িত্ব" — মা আলার-রাসূলি ইল্লাল-বালাগ',
+    nameAr: 'وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ',
+    descEn: 'One formula, six frames. Al-Māʾida 5:99 is the shortest: "mā ʿalā r-rasūli illā l-balāgh" — no opening wa-, no "al-mubīn". An-Nūr 24:54 and al-ʿAnkabūt 29:18 both read "wa-mā ʿalā r-rasūli illā l-balāghu l-mubīn". An-Naḥl 16:35 casts it as a rhetorical question in the plural: "fa-hal ʿalā r-rusuli illā l-balāghu l-mubīn". In Yā-Sīn 36:17 the town\'s messengers themselves speak: "wa-mā ʿalaynā illā l-balāghu l-mubīn". At-Taghābun 64:12 shifts to "fa-innamā ʿalā rasūlinā l-balāghu l-mubīn". Tracking which frame appears where — and whether "al-mubīn" is present — is a favourite examiners\' question.',
+    descBn: 'এক সূত্র, ছয় কাঠামো। আল-মায়িদা ৫:৯৯ সবচেয়ে সংক্ষিপ্ত: "মা আলার-রাসূলি ইল্লাল-বালাগ" — সূচনায় ওয়া- নেই, "আল-মুবীন" নেই। আন-নূর ২৪:৫৪ ও আল-আনকাবূত ২৯:১৮ উভয়ে পড়ে "ওয়ামা আলার-রাসূলি ইল্লাল-বালাগুল-মুবীন"। আন-নাহল ১৬:৩৫ একে বহুবচনে অলংকারিক প্রশ্নে রূপ দেয়: "ফাহাল আলার-রুসুলি ইল্লাল-বালাগুল-মুবীন"। ইয়াসীন ৩৬:১৭-এ জনপদের রাসূলগণ নিজেরাই বলেন: "ওয়ামা আলাইনা ইল্লাল-বালাগুল-মুবীন"। আত-তাগাবুন ৬৪:১২ বদলে যায় "ফাইন্নামা আলা রাসূলিনাল-বালাগুল-মুবীন"-এ। কোন কাঠামো কোথায় — এবং "আল-মুবীন" আছে কি না — তা মনে রাখা পরীক্ষকদের প্রিয় প্রশ্ন।',
+    verses: ['5:99', '16:35', '24:54', '29:18', '36:17', '64:12']
+  },
+  {
+    id: 'sayaqulu-qul',
+    nameEn: '"Sayaqūlu… Qul" — Foretold Objections, Ready Answers',
+    nameBn: '"সাইয়াকূলু… কুল" — পূর্বঘোষিত আপত্তি, প্রস্তুত জবাব',
+    nameAr: 'سَيَقُولُ … قُلْ',
+    descEn: 'A distinctive pattern: the Quran foretells an objection with future-tense "sayaqūlu" (they will say), then arms the Prophet with "qul" (Say). 2:142: the foolish question the qiblah change — answered "qul lillāhi l-mashriqu wa-l-maghrib". 6:148: the idolaters plead determinism ("law shāʾa llāhu mā ashraknā") — answered "qul hal ʿindakum min ʿilm". 48:11: the stay-behind bedouins offer excuses — answered "qul fa-man yamliku lakum mina llāhi shayʾā". 48:15: they ask to follow to the spoils — answered "qul lan tattabiʿūnā". With plural "sayaqūlūna", 18:22 foretells the guessing over the Sleepers\' number — answered "qul rabbī aʿlamu bi-ʿiddatihim". Matching each near-identical opening to its reply is the drill.',
+    descBn: 'একটি স্বতন্ত্র রীতি: কুরআন ভবিষ্যৎ কালের "সাইয়াকূলু" (তারা বলবে) দিয়ে আপত্তি পূর্বঘোষণা করে, তারপর নবীকে "কুল" (বলো) দিয়ে জবাব দেয়। ২:১৪২: নির্বোধরা কিবলা পরিবর্তন নিয়ে প্রশ্ন তোলে — জবাব "কুল লিল্লাহিল-মাশরিকু ওয়াল-মাগরিব"। ৬:১৪৮: মুশরিকরা নিয়তিবাদের অজুহাত দেয় ("লাও শাআল্লাহু মা আশরাকনা") — জবাব "কুল হাল ইনদাকুম মিন ইলম"। ৪৮:১১: পিছনে-থাকা বেদুইনরা অজুহাত পেশ করে — জবাব "কুল ফামান ইয়ামলিকু লাকুম মিনাল্লাহি শাইআ"। ৪৮:১৫: তারা গনীমতে যেতে চায় — জবাব "কুল লান তাত্তাবিঊনা"। বহুবচন "সাইয়াকূলূনা" সহ ১৮:২২ গুহাবাসীদের সংখ্যা নিয়ে অনুমান পূর্বঘোষণা করে — জবাব "কুল রাব্বী আলামু বিইদ্দাতিহিম"। প্রায়-অভিন্ন সূচনাগুলোকে নিজ নিজ জবাবের সঙ্গে মেলানোই অনুশীলন।',
+    verses: ['2:142', '6:148', '18:22', '48:11', '48:15']
   }
 ];

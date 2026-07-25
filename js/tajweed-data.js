@@ -438,6 +438,8 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '2:266', focus: 'بُنْيَانٌ',        noteEn: 'بُنْيَان: نْ before يَ within the same word — clear noon, no ghunnah.',                        noteBn: 'بُنْيَان-এ نْ before يَ — স্পষ্ট নূন, গুন্নাহ নেই।' },
     { ref: '6:99',  focus: 'قِنْوَانٌ',        noteEn: 'قِنْوَان: نْ before وَ within one word — izhar mutlaq.',                                        noteBn: 'قِنْوَان-এ নْ before وَ — একই শব্দে ইযহার মুতলাক।' },
     { ref: '13:4',  focus: 'صِنْوَانٌ',        noteEn: 'صِنْوَان: نْ before وَ inside one word — no merging; a classical textbook example.',            noteBn: 'صِنْوَان-এ نْ before وَ — মিলন নেই; পাঠ্যবইয়ের উদাহরণ।' },
+    { ref: '61:4',  focus: 'بُنْيَانٌ مَّرْصُوصٌ', noteEn: 'بُنْيَان again at 61:4 — izhar mutlaq inside the word, then the tanween merges into مَّ across the word boundary: both rules side by side.', noteBn: '61:4-এ بُنْيَان — শব্দের ভিতরে ইযহার মুতলাক, আর তানউইন পরের مَّ-তে মিলে যায় — দুই নিয়ম পাশাপাশি।' },
+    { ref: '3:14',  focus: 'الدُّنْيَا',        noteEn: 'الدُّنْيَا is by far the most frequent izhar-mutlaq word in the Quran — drill it here in 3:14: clear نْ before يَ, never merged.', noteBn: 'কোরআনে সবচেয়ে বেশি আসা ইযহার মুতলাকের শব্দ الدُّنْيَا — ৩:১৪-এ অনুশীলন করুন: يَ-এর আগে نْ স্পষ্ট, কখনো মিলন নয়।' },
   ],
 
   ikhfa: [
@@ -455,6 +457,8 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '2:137', focus: 'شِقَاقٍ بَعِيدٍ',   noteEn: 'Tanween (ٍ) before بَ — iqlab: nasal meem sound closes the lips slightly.',                   noteBn: 'بَ-এর আগে তানউইন (ٍ) — ঠোঁটে নাকি মীম ধ্বনি।' },
     { ref: '3:73',  focus: 'مِن بَعْدِ',          noteEn: 'نْ before بَ — classic iqlab at a word boundary.',                                            noteBn: 'بَ-এর আগে نْ — শব্দ সীমায় ক্লাসিক ইকলাব।' },
     { ref: '4:150', focus: 'أَن بَيْنَ',          noteEn: 'نْ before بَ across words — iqlab with ghunnah; do not merge fully (that would be idghaam).',  noteBn: 'أَن بَيْنَ-তে نْ before بَ — গুন্নাহসহ ইকলাব।' },
+    { ref: '2:33',  focus: 'أَنۢبِئْهُم',         noteEn: 'Iqlab INSIDE one word — نْ before ب in أَنۢبِئْهُم; the small ۢ mark in the mushaf shows the conversion to a hidden meem.', noteBn: 'এক শব্দের ভিতরে ইকলাব — أَنۢبِئْهُم-এ ب-এর আগে نْ; মুসহাফের ছোট ۢ চিহ্ন গোপন মীমে রূপান্তর দেখায়।' },
+    { ref: '104:4', focus: 'لَيُنۢبَذَنَّ',        noteEn: 'لَيُنۢبَذَنَّ — another within-word iqlab: the نْ turns into a nasal meem before ب, held with ghunnah ~2 counts.', noteBn: 'لَيُنۢبَذَنَّ — শব্দের ভিতরে আরেকটি ইকলাব: ب-এর আগে نْ নাকি মীমে বদলে যায়, ~২ হরকত গুন্নাহসহ।' },
   ],
 
   idghaam_ghunnah: [
@@ -470,6 +474,9 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '2:60',  focus: 'مِن رِّزْقِ',            noteEn: 'نْ before رِّ — noon completely absorbed into raa; no nasal sound at all.',                noteBn: 'رِّ-এর আগে نْ — রা-তে সম্পূর্ণ মিলন, কোনো নাসাল নেই।' },
     { ref: '3:38',  focus: 'مِن لَّدُنكَ',            noteEn: 'نْ before لَّ — noon fully absorbed into laam; no ghunnah.',                               noteBn: 'لَّ-এর আগে نْ — লামে সম্পূর্ণ মিলন, গুন্নাহ নেই।' },
     { ref: '4:96',  focus: 'غَفُورًا رَّحِيمًا',    noteEn: 'Tanween (ً) before رَّ — merges into raa with no ghunnah; raa takes shaddah.',              noteBn: 'رَّ-এর আগে তানউইন (ً) — রা-তে গুন্নাহবিহীন মিলন।' },
+    { ref: '2:5',   focus: 'مِن رَّبِّهِمْ',         noteEn: 'نْ before رَّ in هُدًى مِّن رَّبِّهِمْ — the noon vanishes completely into the raa; no nasal sound.', noteBn: 'مِن رَّبِّهِمْ-তে رَّ-এর আগে نْ — নূন রা-তে সম্পূর্ণ বিলীন; কোনো নাসাল নেই।' },
+    { ref: '83:1',  focus: 'وَيْلٌ لِّلْمُطَفِّفِينَ', noteEn: 'Tanween (ٌ) before لِّ — full merger into laam with no ghunnah; the laam takes shaddah.',   noteBn: 'لِّ-এর আগে তানউইন (ٌ) — লামে সম্পূর্ণ মিলন, গুন্নাহ নেই; লামে শাদ্দা।' },
+    { ref: '2:173', focus: 'غَفُورٌ رَّحِيمٌ',        noteEn: 'Tanween (ٌ) before رَّ — a pairing heard at dozens of verse ends: merge into raa, zero ghunnah.', noteBn: 'رَّ-এর আগে তানউইন (ٌ) — বহু আয়াত-শেষে শোনা জোড়া: রা-তে মিলন, গুন্নাহ শূন্য।' },
   ],
 
   // ── Meem Sākinah ──────────────────────────────────────────────────────────
@@ -478,6 +485,9 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '7:45',  focus: 'وَهُم بِالْآخِرَةِ',   noteEn: 'مْ before بِ — ikhfa shafawi: the lips barely close, a light labial hiding.',              noteBn: 'وَهُم before بِ — ঠোঁট সামান্য স্পর্শ, সম্পূর্ণ বন্ধ নয়।' },
     { ref: '59:14', focus: 'بَأْسُهُمْ بَيْنَهُمْ', noteEn: 'مْ before بَ — two ikhfa shafawi in one phrase; both times lips touch lightly with ghunnah.', noteBn: 'بَأْسُهُمْ بَيْنَهُمْ — একই বাক্যে দুটি মْ…بَ: উভয়বার ইখফা শাফাবি।' },
     { ref: '23:88', focus: 'كُنتُمْ بِهِ',           noteEn: 'مْ at end of كُنتُمْ before بِهِ — labial hiding with ghunnah.',                           noteBn: 'كُنتُمْ-এর مْ before بِهِ — ঠোঁটে গুন্নাহসহ ইখফা।' },
+    { ref: '105:4', focus: 'تَرْمِيهِم بِحِجَارَةٍ', noteEn: 'مْ before بِ in تَرْمِيهِم بِحِجَارَةٍ — ikhfa shafawi with ghunnah; a short-surah example easy to memorise.', noteBn: 'تَرْمِيهِم بِحِجَارَةٍ-তে بِ-এর আগে مْ — গুন্নাহসহ ইখফা শাফাবি; ছোট সূরার সহজ উদাহরণ।' },
+    { ref: '3:101', focus: 'يَعْتَصِم بِاللَّهِ',    noteEn: 'مْ before بِ in وَمَن يَعْتَصِم بِاللَّهِ — light labial hiding; the lips do not press fully shut.', noteBn: 'يَعْتَصِم بِاللَّهِ-তে بِ-এর আগে مْ — ঠোঁটে হালকা গোপন; ঠোঁট পুরো চেপে বন্ধ নয়।' },
+    { ref: '84:24', focus: 'فَبَشِّرْهُم بِعَذَابٍ', noteEn: 'مْ before بِ in فَبَشِّرْهُم بِعَذَابٍ — hold the ghunnah ~2 counts while the meem stays lightly hidden.', noteBn: 'فَبَشِّرْهُم بِعَذَابٍ-তে بِ-এর আগে مْ — মীম হালকা গোপন রেখে ~২ হরকত গুন্নাহ ধরুন।' },
   ],
 
   idghaam_shafawi: [
@@ -485,6 +495,9 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '60:8',  focus: 'يُخْرِجُوكُم مِّن',    noteEn: 'مْ before مِّ — idghaam shafawi: the merged meem is held ~2 counts.',                      noteBn: 'مْ before مِّ — মিলিত মীম ~২ হরকত ধরুন।' },
     { ref: '10:42', focus: 'وَمِنْهُم مَّن',         noteEn: 'مْ before مَّ — total labial merger; no lip separation between the two meems.',            noteBn: 'مْ before مَّ — ঠোঁটে সম্পূর্ণ মিলন।' },
     { ref: '3:154', focus: 'أَهَمَّتْهُم مَّا',     noteEn: 'مْ before مَ — idghaam shafawi with ghunnah; a clear example in mid-verse.',              noteBn: 'مْ before مَ — গুন্নাহসহ ইদগাম শাফাবি।' },
+    { ref: '2:10',  focus: 'فِي قُلُوبِهِم مَّرَضٌ', noteEn: 'مْ before مَّ in قُلُوبِهِم مَّرَضٌ — the two meems fuse into one doubled meem with ~2-count ghunnah.', noteBn: 'قُلُوبِهِم مَّرَضٌ-তে مَّ-এর আগে مْ — দুই মীম মিশে এক مُشَدَّد মীম, ~২ হরকত গুন্নাহ।' },
+    { ref: '106:4', focus: 'أَطْعَمَهُم مِّن جُوعٍ', noteEn: 'مْ before مِّ in أَطْعَمَهُم مِّن — idghaam shafawi in Surah Quraysh; keep the lips closed once through both meems.', noteBn: 'أَطْعَمَهُم مِّن-এ مِّ-এর আগে مْ — সূরা কুরাইশে ইদগাম শাফাবি; দুই মীম জুড়ে ঠোঁট একবারই বন্ধ থাকবে।' },
+    { ref: '2:249', focus: 'كَم مِّن فِئَةٍ',        noteEn: 'مْ of كَم merges into مِّن — a frequent Quranic pairing (كَم مِّن / لَهُم مَّا): one long doubled meem with ghunnah.', noteBn: 'كَم-এর مْ مِّن-এ মিশে যায় — কোরআনে বহুবার আসা জোড়া: গুন্নাহসহ একটিই দীর্ঘ مُشَدَّد মীম।' },
   ],
 
   // ── Madd ──────────────────────────────────────────────────────────────────
@@ -568,12 +581,18 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '27:22', focus: 'أَحَطتُ',              noteEn: 'ط before تُ in أَحَطتُ بِهِ — the ط is absorbed into the following ت.',                      noteBn: 'أَحَطتُ-তে ط before تُ — ط শোষিত হয়।' },
     { ref: '7:176', focus: 'يَلْهَث ذَّٰلِكَ',   noteEn: 'ث before ذَّ — both interdental letters; ث merges into ذَّ.',                                 noteBn: 'يَلْهَث ذَّٰلِكَ-তে ث before ذَّ — আন্তদন্তীয় মিলন।' },
     { ref: '11:42', focus: 'ارْكَب مَّعَنَا',     noteEn: 'ب before مَّ — both labial letters; ب merges into meem (idghaam mutajanisayn).',              noteBn: 'ارْكَب مَّعَنَا-তে ب before مَّ — ঠোঁটের হরফ মিলন।' },
+    { ref: '2:256', focus: 'قَد تَّبَيَّنَ',      noteEn: 'دْ before تَّ in قَد تَّبَيَّنَ — same tongue-tip makhraj: the daal merges fully into the taa (shaddah on تَّ).', noteBn: 'قَد تَّبَيَّنَ-তে تَّ-এর আগে دْ — একই মাখরাজ: দাল তা-তে সম্পূর্ণ মিশে যায় (تَّ-তে শাদ্দা)।' },
+    { ref: '4:64',  focus: 'إِذ ظَّلَمُوا',       noteEn: 'ذْ before ظَّ in إِذ ظَّلَمُوا — both interdental letters; the ذ is absorbed into the heavy ظَّ.', noteBn: 'إِذ ظَّلَمُوا-তে ظَّ-এর আগে ذْ — উভয়ই আন্তদন্তীয়; ذ ভারী ظَّ-তে শোষিত হয়।' },
+    { ref: '109:4', focus: 'عَبَدتُّمْ',          noteEn: 'دْ before تُّ INSIDE one word — عَبَدتُّمْ is read "ʿabattum": the daal merges into the taa within the word.', noteBn: 'এক শব্দের ভিতরে تُّ-এর আগে دْ — عَبَدتُّمْ পড়া হয় "আবাত্তুম": দাল শব্দের ভিতরেই তা-তে মিশে যায়।' },
   ],
 
   idghaam_mutaqaribayn: [
     { ref: '77:20', focus: 'أَلَمْ نَخْلُقكُّم', noteEn: 'ق before كُّ — close (but not identical) makhraj; ق completely absorbed into كُّ.',             noteBn: 'نَخْلُقكُّم-তে ق before ك — কাছাকাছি মাখরাজ; ق মিশে যায়।' },
     { ref: '4:158', focus: 'بَلْ رَّفَعَهُ',       noteEn: 'ل before رَّ — both tongue-tip letters with close articulation; ل absorbed into رَّ.',        noteBn: 'بَلْ رَّفَعَهُ-তে ل before رَّ — জিহ্বার অগ্র-হরফ মিলন।' },
     { ref: '17:45', focus: 'قَالَ رَبِّ',           noteEn: 'ل before رَ — if the ل has sukoon (at waqf context or specific readings); mutaqaribayn.',    noteBn: 'ل before رَ — কাছাকাছি মাখরাজ: মুতাকারিবাইন।' },
+    { ref: '20:114', focus: 'وَقُل رَّبِّ زِدْنِي', noteEn: 'لْ of قُل before رَّ — the laam is absorbed into the raa (shaddah on رَّ): read "qur-rabbi", not "qul rabbi".', noteBn: 'قُل-এর لْ رَّ-এর আগে — লাম রা-তে শোষিত (رَّ-তে শাদ্দা): পড়ুন "কুর-রাব্বি", "কুল রাব্বি" নয়।' },
+    { ref: '23:118', focus: 'وَقُل رَّبِّ اغْفِرْ', noteEn: 'The same قُل رَّبِّ merger closing Surah al-Muʾminun — laam into raa, no laam heard at all.', noteBn: 'সূরা মুমিনুনের শেষে একই قُل رَّبِّ মিলন — লাম রা-তে বিলীন, লাম আদৌ শোনা যায় না।' },
+    { ref: '17:24', focus: 'وَقُل رَّبِّ ارْحَمْهُمَا', noteEn: 'قُل رَّبِّ in the duʿa for parents — practise the smooth laam→raa merger in a phrase recited daily.', noteBn: 'মাতা-পিতার দোয়ায় قُل رَّبِّ — প্রতিদিন পঠিত বাক্যে লাম→রা মসৃণ মিলন অনুশীলন করুন।' },
   ],
 
   hamzat_wasl: [
@@ -605,6 +624,9 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '2:7',   focus: 'كَفَرُوا۟',               noteEn: 'Same silent alif in كَفَرُوا — pronunciation ends at وَ; the ا is a distinguishing orthographic mark.', noteBn: 'كَفَرُوا-তে একই নীরব আলিফ — و-তেই উচ্চারণ শেষ।' },
     { ref: '3:93',  focus: 'آمَنُوا۟',                noteEn: 'آمَنُوا — the trailing ا is silent; a consistent pattern across every plural perfect verb in the Quran.', noteBn: 'آمَنُوا-তে শেষ ا নীরব — সকল জমা মাযি ক্রিয়ায় একই।' },
     { ref: '18:38', focus: 'لَّٰكِنَّا۟',              noteEn: 'The alif at the end of لَّٰكِنَّا is written but dropped in continuous recitation (only heard if stopping here).', noteBn: 'لَّٰكِنَّا-এর শেষ ا ওয়াসলে নীরব — ওয়াকফে শোনা যায়।' },
+    { ref: '2:5',   focus: 'أُو۟لَٰئِكَ',               noteEn: 'The و in أُو۟لَٰئِكَ is purely orthographic — read "ulāʾika" with a short u; the waaw is never pronounced.', noteBn: 'أُو۟لَٰئِكَ-এর و কেবল বানানগত — পড়ুন "উলাইকা" ছোট উ দিয়ে; ওয়াও কখনো উচ্চারিত হয় না।' },
+    { ref: '2:25',  focus: 'وَعَمِلُوا۟',               noteEn: 'وَعَمِلُوا۟ الصَّالِحَاتِ — the plural-verb alif is silent AND the following hamzat al-wasl drops: read "wa-ʿamiluṣ-ṣāliḥāt".', noteBn: 'وَعَمِلُوا۟ الصَّالِحَاتِ — বহুবচন ক্রিয়ার আলিফ নীরব এবং পরের হামযাতুল ওয়াসলও বাদ: পড়ুন "ওয়া-আমিলুস-সালিহাত"।' },
+    { ref: '27:21', focus: 'لَأَا۟ذْبَحَنَّهُ',          noteEn: 'لَأَا۟ذْبَحَنَّهُ — an extra written alif after the hamza that is never pronounced: read "la-adhbaḥannahu" (a rare spelling relic).', noteBn: 'لَأَا۟ذْبَحَنَّهُ — হামযার পরে লেখা অতিরিক্ত আলিফ কখনো উচ্চারিত হয় না: পড়ুন "লা-আযবাহান্নাহু" (বিরল বানান-নিদর্শন)।' },
   ],
 
   // ── Ra' rules ─────────────────────────────────────────────────────────────
@@ -638,6 +660,8 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '36:52', focus: 'مَرْقَدِنَا ۜ هَٰذَا',   noteEn: 'Sakt after مَرْقَدِنَا — the pause marks the shift between the disbelievers\' words and the reply.',  noteBn: 'مَرْقَدِنَا-র পর সাকত — বক্তা পরিবর্তনের পূর্বে বিরতি।' },
     { ref: '75:27', focus: 'مَنْ ۜ رَاقٍ',           noteEn: 'Sakt on مَنْ before رَاقٍ — prevents نْ from merging into رَ (which would otherwise be idghaam mutaqaribayn).', noteBn: 'مَنْ-এর পর সাকত — نْ কে رَ-তে মিশতে বাধা দেয়।' },
     { ref: '83:14', focus: 'بَلْ ۜ رَانَ',           noteEn: 'Sakt on بَلْ before رَانَ — prevents ل from merging into رَ; these are the only four sakt positions in Hafs.',  noteBn: 'بَلْ-এর পর সাকত — ل কে رَ-তে মিশতে বাধা; হাফসে মোট চার স্থান।' },
+    { ref: '69:28', focus: 'مَالِيَهْ ۜ هَلَكَ',     noteEn: 'Optional sakt when JOINING 69:28 to هَلَكَ (69:29) — the pause keeps the two haas from merging; if you stop at the verse end instead, no sakt is needed.', noteBn: '৬৯:২৮-কে هَلَكَ (৬৯:২৯)-এর সাথে মিলিয়ে পড়লে ঐচ্ছিক সাকত — বিরতিটি দুই হা-কে মিশতে দেয় না; আয়াত শেষে থামলে সাকত লাগে না।' },
+    { ref: '8:75',  focus: 'عَلِيمٌ … بَرَاءَةٌ',    noteEn: 'Between Surah al-Anfal and at-Tawbah (no basmalah) three ways are allowed: stop, sakt, or join — joining turns the tanween before ب into iqlab.', noteBn: 'সূরা আনফাল ও তাওবার মাঝে (বিসমিল্লাহ নেই) তিনভাবে পড়া জায়েয: ওয়াকফ, সাকত বা ওয়াসল — মিলিয়ে পড়লে ب-এর আগের তানউইনে ইকলাব হয়।' },
   ],
 
   // ── Meem Sākinah: Iẓhār Shafawī ─────────────────────────────────────────────
@@ -655,6 +679,9 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '5:61',  focus: 'قَد دَّخَلُوا',     noteEn: 'دْ before دَّ — the د of قَد merges completely into the following دَّ.',                       noteBn: 'قَد دَّخَلُوا-তে دْ before دَّ — قَد-এর দাল সম্পূর্ণ মিশে যায়।' },
     { ref: '4:78',  focus: 'يُدْرِككُّمُ',       noteEn: 'كْ before كُّ within يُدْرِككُّمُ — two identical kaafs merge into one doubled كّ.',          noteBn: 'يُدْرِككُّمُ-তে كْ before كُّ — দুই অভিন্ন কাফ মিশে এক مُشَدَّد كّ।' },
     { ref: '21:87', focus: 'إِذ ذَّهَبَ',       noteEn: 'ذْ before ذَّ — the ذ of إِذ merges completely into the following ذَّ (shaddah).',            noteBn: 'إِذ ذَّهَبَ-তে ذْ before ذَّ — إِذ-এর ذ সম্পূর্ণ মিশে যায়।' },
+    { ref: '27:28', focus: 'اذْهَب بِّكِتَابِي', noteEn: 'بْ before بِّ in اذْهَب بِّكِتَابِي — two identical baas: one closure of the lips, released as the doubled بّ.', noteBn: 'اذْهَب بِّكِتَابِي-তে بِّ-এর আগে بْ — দুই অভিন্ন বা: ঠোঁট একবার বন্ধ হয়ে مُشَدَّد بّ রূপে খোলে।' },
+    { ref: '2:16',  focus: 'رَبِحَت تِّجَارَتُهُمْ', noteEn: 'تْ before تِّ in رَبِحَت تِّجَارَتُهُمْ — the taa of the verb merges into the taa of تِّجَارَة with shaddah.', noteBn: 'رَبِحَت تِّجَارَتُهُمْ-তে تِّ-এর আগে تْ — ক্রিয়ার তা تِّجَارَة-এর তা-তে শাদ্দাসহ মিশে যায়।' },
+    { ref: '24:33', focus: 'يُكْرِههُّنَّ',       noteEn: 'هْ before هُّ INSIDE one word — يُكْرِههُّنَّ: the two haas merge into a single doubled هّ (mutamathilayn within a word).', noteBn: 'এক শব্দের ভিতরে هُّ-এর আগে هْ — يُكْرِههُّنَّ: দুই হা মিশে একটিই مُشَدَّد هّ (শব্দের ভিতরে মুতামাসিলাইন)।' },
   ],
 
   // ── Lafẓ al-Jalālah: the lām of "Allāh" ─────────────────────────────────────

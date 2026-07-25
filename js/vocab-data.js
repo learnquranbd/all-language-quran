@@ -664,6 +664,106 @@ const VOCAB_WORDS = [
   {
     arabic: 'شَدِيدٌ', translit: 'shadīd', count: 52,
     meanings: { en: 'severe, intense', bn: 'কঠোর, প্রচণ্ড', fr: 'sévère, intense', id: 'keras, dahsyat', ur: 'سخت، شدید', tr: 'şiddetli', ar: 'قَوِيٌّ عَنِيف', zh: '严厉的，剧烈的', ja: '厳しい、激しい'}
+  },
+  {
+    arabic: 'سَأَلَ', translit: 'saʾala', count: 120,
+    meanings: { en: 'he asked', bn: 'সে জিজ্ঞাসা করল', fr: 'il a demandé', id: 'dia bertanya', ur: 'اس نے پوچھا', tr: 'sordu', ar: 'طَلَبَ الْجَوَاب', zh: '他问了', ja: '彼は尋ねた'}
+  },
+  {
+    arabic: 'أَكَلَ', translit: 'akala', count: 100,
+    meanings: { en: 'he ate', bn: 'সে খেল', fr: 'il a mangé', id: 'dia makan', ur: 'اس نے کھایا', tr: 'yedi', ar: 'تَنَاوَلَ الطَّعَام', zh: '他吃了', ja: '彼は食べた'}
+  },
+  {
+    arabic: 'شَرِبَ', translit: 'shariba', count: 39,
+    meanings: { en: 'he drank', bn: 'সে পান করল', fr: 'il a bu', id: 'dia minum', ur: 'اس نے پیا', tr: 'içti', ar: 'تَنَاوَلَ الشَّرَاب', zh: '他喝了', ja: '彼は飲んだ'}
+  },
+  {
+    arabic: 'وَجَدَ', translit: 'wajada', count: 107,
+    meanings: { en: 'he found', bn: 'সে পেল', fr: 'il a trouvé', id: 'dia mendapati', ur: 'اس نے پایا', tr: 'buldu', ar: 'لَقِيَ وَأَصَابَ', zh: '他找到了', ja: '彼は見いだした'}
+  },
+  {
+    arabic: 'عَرَفَ', translit: 'ʿarafa', count: 30,
+    meanings: { en: 'he knew, recognized', bn: 'সে চিনল, জানল', fr: 'il a reconnu', id: 'dia mengenal', ur: 'اس نے پہچانا', tr: 'tanıdı, bildi', ar: 'أَدْرَكَ وَمَيَّزَ', zh: '他认出了', ja: '彼は知った、認めた'}
+  },
+  {
+    arabic: 'حَسِبَ', translit: 'ḥasiba', count: 44,
+    meanings: { en: 'he thought, reckoned', bn: 'সে মনে করল, ধারণা করল', fr: 'il a pensé, supposé', id: 'dia mengira', ur: 'اس نے گمان کیا', tr: 'sandı, zannetti', ar: 'ظَنَّ وَقَدَّرَ', zh: '他以为', ja: '彼は思った、みなした'}
+  },
+  {
+    arabic: 'بَلَغَ', translit: 'balagha', count: 49,
+    meanings: { en: 'he reached, attained', bn: 'সে পৌঁছল', fr: 'il a atteint', id: 'dia sampai, mencapai', ur: 'وہ پہنچا', tr: 'ulaştı, erişti', ar: 'وَصَلَ إِلَى', zh: '他到达了', ja: '彼は達した'}
+  },
+  {
+    arabic: 'صَدَقَ', translit: 'ṣadaqa', count: 15,
+    meanings: { en: 'he was truthful', bn: 'সে সত্য বলল', fr: 'il a dit vrai', id: 'dia benar, jujur', ur: 'اس نے سچ کہا', tr: 'doğru söyledi', ar: 'قَالَ الْحَقّ', zh: '他说了实话', ja: '彼は真実を語った'}
+  },
+  {
+    arabic: 'نَجَّى', translit: 'najjā', count: 60,
+    meanings: { en: 'he saved, rescued', bn: 'সে রক্ষা করল', fr: 'il a sauvé', id: 'dia menyelamatkan', ur: 'اس نے نجات دی', tr: 'kurtardı', ar: 'خَلَّصَ وَأَنْقَذَ', zh: '他拯救了', ja: '彼は救った'}
+  },
+  {
+    arabic: 'أَهْلَكَ', translit: 'ahlaka', count: 50,
+    meanings: { en: 'he destroyed', bn: 'সে ধ্বংস করল', fr: 'il a détruit', id: 'dia membinasakan', ur: 'اس نے ہلاک کیا', tr: 'helâk etti', ar: 'أَبَادَ وَأَفْنَى', zh: '他毁灭了', ja: '彼は滅ぼした'}
+  },
+  {
+    arabic: 'اسْتَغْفَرَ', translit: 'istaghfara', count: 40,
+    meanings: { en: 'he sought forgiveness', bn: 'সে ক্ষমা চাইল', fr: 'il a demandé pardon', id: 'dia memohon ampun', ur: 'اس نے مغفرت مانگی', tr: 'bağışlanma diledi', ar: 'طَلَبَ الْمَغْفِرَة', zh: '他求饶恕', ja: '彼は赦しを求めた'}
+  },
+  {
+    arabic: 'عَقَلَ', translit: 'ʿaqala', count: 49,
+    meanings: { en: 'he understood, used reason', bn: 'সে বুঝল, বিবেক খাটাল', fr: 'il a raisonné, compris', id: 'dia memahami, berakal', ur: 'اس نے عقل سے سمجھا', tr: 'akıl etti, anladı', ar: 'أَدْرَكَ بِالْعَقْل', zh: '他理解，运用理智', ja: '彼は理解した、理性を働かせた'}
+  },
+  {
+    arabic: 'بَصَرٌ', translit: 'baṣar', count: 38,
+    meanings: { en: 'sight, vision', bn: 'দৃষ্টি', fr: 'la vue, vision', id: 'penglihatan', ur: 'بصارت، نگاہ', tr: 'görme, göz', ar: 'حَاسَّةُ الرُّؤْيَة', zh: '视觉，眼力', ja: '視覚、視力'}
+  },
+  {
+    arabic: 'سَمْعٌ', translit: 'samʿ', count: 22,
+    meanings: { en: 'hearing', bn: 'শ্রবণ', fr: 'l\'ouïe', id: 'pendengaran', ur: 'سماعت', tr: 'işitme, kulak', ar: 'حَاسَّةُ السَّمَاع', zh: '听觉', ja: '聴覚'}
+  },
+  {
+    arabic: 'ثَمَرٌ', translit: 'thamar', count: 24,
+    meanings: { en: 'fruit', bn: 'ফল', fr: 'fruit', id: 'buah', ur: 'پھل', tr: 'meyve', ar: 'مَا تُخْرِجُهُ الشَّجَرَة', zh: '果实', ja: '果実'}
+  },
+  {
+    arabic: 'وَلِيٌّ', translit: 'walī', count: 44,
+    meanings: { en: 'ally, protector', bn: 'অভিভাবক, বন্ধু', fr: 'allié, protecteur', id: 'pelindung, penolong', ur: 'دوست، سرپرست', tr: 'dost, veli', ar: 'نَاصِرٌ وَحَافِظ', zh: '保护者，盟友', ja: '保護者、味方'}
+  },
+  {
+    arabic: 'نَصْرٌ', translit: 'naṣr', count: 20,
+    meanings: { en: 'help, victory', bn: 'সাহায্য, বিজয়', fr: 'secours, victoire', id: 'pertolongan, kemenangan', ur: 'مدد، نصرت', tr: 'yardım, zafer', ar: 'عَوْنٌ وَغَلَبَة', zh: '援助，胜利', ja: '援助、勝利'}
+  },
+  {
+    arabic: 'فَتْحٌ', translit: 'fatḥ', count: 7,
+    meanings: { en: 'victory, opening', bn: 'বিজয়, উন্মোচন', fr: 'victoire, ouverture', id: 'kemenangan, pembukaan', ur: 'فتح، کامیابی', tr: 'fetih, zafer', ar: 'نَصْرٌ وَظَفَر', zh: '胜利，开启', ja: '勝利、開放'}
+  },
+  {
+    arabic: 'حُدُودٌ', translit: 'ḥudūd', count: 14,
+    meanings: { en: 'limits, boundaries (of Allah)', bn: 'সীমাসমূহ (আল্লাহর)', fr: 'limites (d\'Allah)', id: 'batas-batas (Allah)', ur: 'حدود (اللہ کی)', tr: 'sınırlar (Allah\'ın)', ar: 'جَمْعُ حَدّ', zh: '（真主的）法度界限', ja: '（アッラーの）境界、限度'}
+  },
+  {
+    arabic: 'قَرْيَةٌ', translit: 'qaryah', count: 57,
+    meanings: { en: 'town, city', bn: 'জনপদ, নগরী', fr: 'cité, ville', id: 'negeri, kota', ur: 'بستی، شہر', tr: 'kasaba, şehir', ar: 'بَلْدَةٌ مَسْكُونَة', zh: '城镇，市镇', ja: '町、都市'}
+  },
+  {
+    arabic: 'مَتَاعٌ', translit: 'matāʿ', count: 35,
+    meanings: { en: 'enjoyment, provision', bn: 'ভোগসামগ্রী, উপকরণ', fr: 'jouissance, bien passager', id: 'kesenangan, perbekalan', ur: 'سامان، فائدہ', tr: 'geçimlik, dünya malı', ar: 'مَنْفَعَةٌ زَائِلَة', zh: '享受，暂时的用品', ja: '享楽、はかない糧'}
+  },
+  {
+    arabic: 'قَرِيبٌ', translit: 'qarīb', count: 26,
+    meanings: { en: 'near, close', bn: 'নিকটবর্তী', fr: 'proche', id: 'dekat', ur: 'قریب، نزدیک', tr: 'yakın', ar: 'غَيْرُ بَعِيد', zh: '临近的', ja: '近い'}
+  },
+  {
+    arabic: 'بَعِيدٌ', translit: 'baʿīd', count: 15,
+    meanings: { en: 'far, distant', bn: 'দূরবর্তী', fr: 'lointain', id: 'jauh', ur: 'دور، بعید', tr: 'uzak', ar: 'غَيْرُ قَرِيب', zh: '遥远的', ja: '遠い'}
+  },
+  {
+    arabic: 'عَلِيمٌ', translit: 'ʿalīm', count: 160,
+    meanings: { en: 'All-Knowing', bn: 'সর্বজ্ঞ', fr: 'Omniscient', id: 'Maha Mengetahui', ur: 'سب کچھ جاننے والا، علیم', tr: 'her şeyi bilen, Alîm', ar: 'كَثِيرُ الْعِلْم', zh: '全知的', ja: '全知なる方'}
+  },
+  {
+    arabic: 'خَبِيرٌ', translit: 'khabīr', count: 45,
+    meanings: { en: 'All-Aware', bn: 'সর্বজ্ঞাত, খবর রাখেন যিনি', fr: 'Parfaitement Informé', id: 'Maha Teliti, Maha Mengetahui', ur: 'باخبر، خبیر', tr: 'her şeyden haberdar, Habîr', ar: 'عَلِيمٌ بِبَوَاطِنِ الْأُمُور', zh: '彻知的', ja: '熟知なる方'}
   }
 ];
 

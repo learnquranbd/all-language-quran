@@ -1035,6 +1035,62 @@ const SALAH_MISTAKES = [
     rule: { en: 'In the Hanafi school, Qunut al-Witr is wajib. If omitted without sujud al-sahw, the Witr prayer must be repeated according to some scholars.', bn: 'হানাফি মাযহাবে কুনূতে বিতর ওয়াজিব। সিজদায়ে সাহু না করে ছুটে গেলে কারো মতে বিতর পুনরায় পড়তে হবে।' },
     reference: { en: 'Sifah Salah (Al-Albani); Hashiyat Ibn Abidin', bn: 'সিফাত সালাহ (আল-আলবানী); হাশিয়া ইবন আবিদিন' }
   },
+  {
+    id: 'racing_the_imam',
+    category: { en: 'Forbidden (Haram) in Congregation', bn: 'জামাতে নিষিদ্ধ (হারাম)' },
+    mistake: { en: 'Raising the head from ruku\' or sujud before the imam, or racing ahead of the imam\'s movements in congregation.', bn: 'জামাতে ইমামের আগে রুকু বা সিজদা থেকে মাথা তোলা, বা ইমামের আগে আগে নড়াচড়া করা।' },
+    rule: { en: 'The Prophet ﷺ warned: "Does not the one who raises his head before the imam fear that Allah may transform his head into the head of a donkey?" The follower must move only after the imam.', bn: 'নবী ﷺ সতর্ক করেছেন: "যে ইমামের আগে মাথা তোলে সে কি ভয় করে না যে আল্লাহ তার মাথা গাধার মাথায় পরিণত করে দেবেন?" মুক্তাদিকে ইমামের পরেই নড়তে হবে।' },
+    reference: { en: 'Bukhari 691, Muslim 427', bn: 'বুখারী ৬৯১, মুসলিম ৪২৭' }
+  },
+  {
+    id: 'passing_before_praying_person',
+    category: { en: 'Major Sin for the Passer', bn: 'অতিক্রমকারীর জন্য কবিরা গুনাহ' },
+    mistake: { en: 'Walking directly in front of a person who is praying (between them and their sutrah or place of sujud).', bn: 'নামাজরত ব্যক্তির ঠিক সামনে দিয়ে (তার ও সুতরা বা সিজদার স্থানের মাঝ দিয়ে) হেঁটে যাওয়া।' },
+    rule: { en: 'The Prophet ﷺ said: "If the one who passes in front of a praying person knew what (sin) was upon him, it would be better for him to wait forty than to pass in front of him."', bn: 'নবী ﷺ বলেছেন: "নামাজরত ব্যক্তির সামনে দিয়ে অতিক্রমকারী যদি জানত এতে কী (গুনাহ) রয়েছে, তবে চল্লিশ (দিন/মাস/বছর) দাঁড়িয়ে থাকা তার জন্য উত্তম হতো।"' },
+    reference: { en: 'Bukhari 510, Muslim 507', bn: 'বুখারী ৫১০, মুসলিম ৫০৭' }
+  },
+  {
+    id: 'neglecting_sutrah',
+    category: { en: 'Neglecting a Sunnah Mu\'akkadah', bn: 'সুন্নাতে মুয়াক্কাদা অবহেলা' },
+    mistake: { en: 'Praying alone in an open space without placing a sutrah (barrier) in front, leaving the prayer exposed to passers-by.', bn: 'খোলা জায়গায় সামনে সুতরা (আড়াল) না রেখে একা নামাজ পড়া, ফলে সামনে দিয়ে লোক চলাচলের সুযোগ থেকে যায়।' },
+    rule: { en: 'The Prophet ﷺ said: "When one of you prays, let him pray toward a sutrah and let him keep close to it." A wall, pillar, or object the height of a saddle-back suffices. In congregation the imam\'s sutrah covers the followers.', bn: 'নবী ﷺ বলেছেন: "তোমাদের কেউ নামাজ পড়লে সে যেন সুতরার দিকে ফিরে পড়ে এবং তার কাছাকাছি থাকে।" দেয়াল, খুঁটি বা হাওদার পিঠ পরিমাণ উঁচু বস্তুই যথেষ্ট। জামাতে ইমামের সুতরাই মুক্তাদিদের জন্য যথেষ্ট।' },
+    reference: { en: 'Abu Dawud 698 (sahih); Muslim 505', bn: 'আবু দাউদ ৬৯৮ (সহিহ); মুসলিম ৫০৫' }
+  },
+  {
+    id: 'unverified_qibla',
+    category: { en: 'Precondition — Prayer Invalid Without', bn: 'পূর্বশর্ত — ছাড়া নামাজ বাতিল' },
+    mistake: { en: 'Praying in a random direction without verifying the qibla when means to verify (asking, compass, landmarks) are readily available.', bn: 'কিবলা যাচাইয়ের উপায় (জিজ্ঞাসা, কম্পাস, নিদর্শন) হাতের কাছে থাকা সত্ত্বেও যাচাই না করে যেদিকে-সেদিকে ফিরে নামাজ পড়া।' },
+    rule: { en: 'Facing the qibla is a condition of salah: "Turn your face toward al-Masjid al-Haram" (Quran 2:144). One must make a genuine effort to determine it; if after sincere ijtihad one errs, the prayer is valid by the majority — but neglecting verification when possible is not excused.', bn: 'কিবলামুখী হওয়া নামাজের শর্ত: "তুমি মসজিদুল হারামের দিকে মুখ ফেরাও" (কুরআন ২:১৪৪)। যথাসাধ্য চেষ্টা করে দিক নির্ণয় করতে হবে; আন্তরিক ইজতিহাদের পর ভুল হলে অধিকাংশের মতে নামাজ বৈধ — কিন্তু সুযোগ থাকা সত্ত্বেও যাচাই না করা ক্ষমাযোগ্য নয়।' },
+    reference: { en: 'Quran 2:144; Tirmidhi 342', bn: 'কুরআন ২:১৪৪; তিরমিযি ৩৪২' }
+  },
+  {
+    id: 'praying_alone_behind_row',
+    category: { en: 'Disputed — Madhab Difference', bn: 'মতভেদপূর্ণ — মাযহাবভেদে ভিন্ন' },
+    mistake: { en: 'Standing and praying alone behind the congregation\'s row when there is space in the row ahead.', bn: 'সামনের কাতারে জায়গা থাকা সত্ত্বেও কাতারের পেছনে একা দাঁড়িয়ে নামাজ পড়া।' },
+    rule: { en: 'The Prophet ﷺ saw a man praying alone behind the row and ordered him to repeat the prayer. The Hanbali school holds such a prayer invalid; the Hanafi, Shafi\'i and Maliki schools consider it valid but disliked. One should join the row or stand beside the imam if no space remains.', bn: 'নবী ﷺ কাতারের পেছনে একা নামাজরত এক ব্যক্তিকে দেখে নামাজ পুনরায় পড়ার নির্দেশ দেন। হাম্বলী মাযহাবে এমন নামাজ বাতিল; হানাফি, শাফিয়ী ও মালিকী মাযহাবে বৈধ তবে মাকরুহ। কাতারে যোগ দিন, জায়গা না থাকলে ইমামের ডান পাশে দাঁড়ান।' },
+    reference: { en: 'Abu Dawud 682, Tirmidhi 230, Ibn Majah 1004 — Wabisa ibn Ma\'bad (RA)', bn: 'আবু দাউদ ৬৮২, তিরমিযি ২৩০, ইবন মাজাহ ১০০৪ — ওয়াবিসা ইবন মা\'বাদ (রা.)' }
+  },
+  {
+    id: 'leaving_prayer_on_doubt',
+    category: { en: 'Breaking Prayer Without Valid Cause', bn: 'বৈধ কারণ ছাড়া নামাজ ভেঙে ফেলা' },
+    mistake: { en: 'Abandoning the prayer merely on a whispered doubt of having passed wind, without any certainty.', bn: 'নিছক ওয়াসওয়াসা বা সন্দেহের কারণে — নিশ্চিত না হয়েই — অজু ভেঙেছে ভেবে নামাজ ছেড়ে দেওয়া।' },
+    rule: { en: 'The Prophet ﷺ said about a man who imagines something during prayer: "He should not leave (the prayer) unless he hears a sound or finds a smell." Certainty is not removed by doubt.', bn: 'নামাজে সন্দেহে পড়া ব্যক্তি সম্পর্কে নবী ﷺ বলেছেন: "শব্দ না শোনা বা গন্ধ না পাওয়া পর্যন্ত সে যেন (নামাজ) না ছাড়ে।" সন্দেহ দ্বারা নিশ্চয়তা বাতিল হয় না।' },
+    reference: { en: 'Bukhari 137, Muslim 361', bn: 'বুখারী ১৩৭, মুসলিম ৩৬১' }
+  },
+  {
+    id: 'guessing_rakah_count',
+    category: { en: 'Requires Sujud al-Sahw', bn: 'সিজদায়ে সাহু আবশ্যক' },
+    mistake: { en: 'When unsure whether one has prayed three or four rak\'ahs, simply guessing or assuming the higher number instead of following the prophetic method.', bn: 'তিন না চার রাকাত পড়া হয়েছে সন্দেহ হলে নবীজির শেখানো পদ্ধতি না মেনে অনুমানে নামাজ শেষ করা।' },
+    rule: { en: 'The Prophet ﷺ said: "Let him discard the doubt and build upon what he is certain of, then perform two prostrations before the salam." Base the count on the lesser (certain) number, complete the prayer, then make sujud al-sahw.', bn: 'নবী ﷺ বলেছেন: "সে যেন সন্দেহ ছেড়ে দেয় এবং যেটুকুতে নিশ্চিত তার উপর ভিত্তি করে, তারপর সালামের আগে দুটি সিজদা করে।" কম (নিশ্চিত) সংখ্যা ধরে নামাজ পূর্ণ করে সিজদায়ে সাহু করুন।' },
+    reference: { en: 'Muslim 571 — from Abu Sa\'id al-Khudri (RA)', bn: 'মুসলিম ৫৭১ — আবু সাঈদ খুদরী (রা.) বর্ণিত' }
+  },
+  {
+    id: 'interlacing_fingers',
+    category: { en: 'Disliked (Makruh) — Before & During Prayer', bn: 'মাকরুহ — নামাজের আগে ও নামাজে' },
+    mistake: { en: 'Interlacing the fingers or cracking the knuckles after wudu while heading to the mosque, while waiting for prayer, or during salah itself.', bn: 'অজুর পর মসজিদে যাওয়ার পথে, নামাজের অপেক্ষায় বা নামাজের মধ্যে আঙুল একটির সাথে অন্যটি প্রবেশ করানো বা আঙুল ফোটানো।' },
+    rule: { en: 'The Prophet ﷺ said: "When one of you performs wudu well and then goes out intending the mosque, let him not interlace his fingers, for he is (already) in prayer." Idle hand-play distracts from khushu.', bn: 'নবী ﷺ বলেছেন: "তোমাদের কেউ উত্তমরূপে অজু করে মসজিদের উদ্দেশ্যে বের হলে সে যেন আঙুলে আঙুল প্রবেশ না করায়, কেননা সে নামাজেই আছে।" অনর্থক হাত নাড়াচাড়া খুশু নষ্ট করে।' },
+    reference: { en: 'Abu Dawud 562 — sahih (Al-Albani)', bn: 'আবু দাউদ ৫৬২ — সহিহ (আল-আলবানী)' }
+  },
 ];
 
 const SALAH_SPECIAL = [
@@ -1160,6 +1216,30 @@ const SALAH_SPECIAL = [
     rakatEn: 'Minimum 2 rak\'ahs; commonly 8-11 total (8 Qiyam + 3 Witr). Variants: (1) Tahajjud — strictly after sleeping; (2) Qiyam al-Layl — any night prayer; (3) Tarawih — Ramadan congregation. Always close with an odd-number Witr.', rakatBn: 'সর্বনিম্ন ২ রাকাত; সাধারণত ৮-১১ মোট (৮ কিয়াম + ৩ বিতর)। প্রকার: (১) তাহাজ্জুদ — ঘুমের পরে; (২) কিয়ামুল লাইল — সাধারণ রাতের নামাজ; (৩) তারাবিহ — রমজানে জামাতে। বিতর দিয়ে শেষ করুন।',
     noteEn: 'Allah says: "In parts of the night, prostrate to Him and glorify Him for long stretches." (76:26). The Prophet ﷺ never abandoned Qiyam al-Layl even in illness — he prayed seated when he could not stand. Long, unhurried recitation with reflection on the Quran\'s meaning is its spirit.',
     noteBn: 'আল্লাহ বলেন: "রাতের কিছু অংশে তাঁকে সিজদা করো এবং দীর্ঘ সময় তাঁর তাসবিহ পড়ো।" (৭৬:২৬)। নবী ﷺ অসুস্থ অবস্থায়ও কিয়াম ছাড়েননি — বসে পড়তেন। কুরআনের অর্থ নিয়ে গভীর ও ধীর তিলাওয়াত হলো এর মূল স্পিরিট।' },
+  { id: 'tahiyyatul_masjid', emoji: '🚪',
+    nameEn: 'Tahiyyat al-Masjid (Greeting the Mosque)', nameBn: 'তাহিয়্যাতুল মসজিদ (মসজিদে প্রবেশের নামাজ)',
+    whenEn: 'Immediately upon entering any mosque, before sitting down', whenBn: 'যেকোনো মসজিদে প্রবেশ করে বসার আগেই',
+    rakatEn: '2 rak\'ahs (nafl). Any other prayer performed on entering (e.g. sunnah of the time) also fulfils it.', rakatBn: '২ রাকাত (নফল)। প্রবেশ করে অন্য কোনো নামাজ (যেমন ওয়াক্তের সুন্নাত) পড়লেও তা আদায় হয়ে যায়।',
+    noteEn: 'The Prophet ﷺ said: "When one of you enters the mosque, let him not sit until he prays two rak\'ahs." (Bukhari 444, Muslim 714). It is omitted at the strictly forbidden times according to the Hanafi school; the Shafi\'i school allows it at any time as a prayer with a specific cause.',
+    noteBn: 'নবী ﷺ বলেছেন: "তোমাদের কেউ মসজিদে প্রবেশ করলে দুই রাকাত না পড়ে যেন না বসে।" (বুখারী ৪৪৪, মুসলিম ৭১৪)। হানাফি মাযহাবে নিষিদ্ধ সময়ে পড়া হয় না; শাফিয়ী মাযহাবে কারণযুক্ত নামাজ হিসেবে যেকোনো সময় বৈধ।' },
+  { id: 'tahiyyatul_wudu', emoji: '💧',
+    nameEn: 'Tahiyyat al-Wudu (Prayer after Ablution)', nameBn: 'তাহিয়্যাতুল অজু (অজুর পরের নামাজ)',
+    whenEn: 'Any time right after completing wudu, while the limbs are still fresh', whenBn: 'অজু শেষ করার পরপরই, যেকোনো সময়',
+    rakatEn: '2 rak\'ahs (nafl), prayed with presence of heart, without worldly distraction.', rakatBn: '২ রাকাত (নফল), মনোযোগের সাথে, দুনিয়াবি চিন্তামুক্ত হয়ে।',
+    noteEn: 'The Prophet ﷺ said: "Whoever performs wudu like this wudu of mine, then prays two rak\'ahs in which he does not let his mind wander, his previous sins are forgiven." (Bukhari 159, Muslim 226). He ﷺ heard Bilal\'s footsteps in Paradise because Bilal prayed two rak\'ahs after every wudu (Bukhari 1149).',
+    noteBn: 'নবী ﷺ বলেছেন: "যে আমার এই অজুর মতো অজু করে, তারপর মনোযোগ নষ্ট না করে দুই রাকাত পড়ে, তার পূর্বের গুনাহ মাফ হয়।" (বুখারী ১৫৯, মুসলিম ২২৬)। বিলাল (রা.) প্রতি অজুর পর ২ রাকাত পড়তেন বলে নবী ﷺ জান্নাতে তাঁর পদধ্বনি শোনেন (বুখারী ১১৪৯)।' },
+  { id: 'sujud_tilawah', emoji: '📖',
+    nameEn: 'Sujud al-Tilawah (Prostration of Recitation)', nameBn: 'সিজদায়ে তিলাওয়াত',
+    whenEn: 'When reciting or hearing any of the verses of prostration in the Quran (14 or 15 places, per madhab)', whenBn: 'কুরআনের সিজদার আয়াত (মাযহাবভেদে ১৪ বা ১৫টি স্থান) তিলাওয়াত করলে বা শুনলে',
+    rakatEn: 'A single prostration — not a full prayer. Say Allahu Akbar, prostrate once saying "Subhana Rabbiyal A\'la", then rise. Within salah, the reciter prostrates and then continues the recitation.', rakatBn: 'একটি মাত্র সিজদা — পূর্ণ নামাজ নয়। "আল্লাহু আকবার" বলে একটি সিজদা করুন, "সুবহানা রাব্বিয়াল আলা" পড়ুন, তারপর উঠুন। নামাজের ভেতরে হলে সিজদা করে তিলাওয়াত চালিয়ে যান।',
+    noteEn: 'Ibn Umar (RA) said: the Prophet ﷺ would recite a surah containing a sajdah and prostrate, and we would prostrate with him (Bukhari 1075). Wajib in the Hanafi school; sunnah mu\'akkadah for the majority. When Shaytan sees the son of Adam prostrate, he withdraws weeping (Muslim 81).',
+    noteBn: 'ইবন উমর (রা.) বলেন: নবী ﷺ সিজদার আয়াতসহ সূরা পড়ে সিজদা করতেন, আমরাও তাঁর সাথে সিজদা করতাম (বুখারী ১০৭৫)। হানাফি মাযহাবে ওয়াজিব; অধিকাংশের মতে সুন্নাতে মুয়াক্কাদা। আদম সন্তানকে সিজদা করতে দেখে শয়তান কাঁদতে কাঁদতে সরে যায় (মুসলিম ৮১)।' },
+  { id: 'rawatib', emoji: '🏠',
+    nameEn: 'Sunan al-Rawatib (Confirmed Daily Sunnahs)', nameBn: 'সুনানে রাওয়াতিব (দৈনিক সুন্নাতে মুয়াক্কাদা)',
+    whenEn: 'Attached to the five daily fard prayers, before or after them', whenBn: 'পাঁচ ওয়াক্ত ফরজ নামাজের আগে বা পরে, তার সাথে সংযুক্ত',
+    rakatEn: '12 rak\'ahs daily: 2 before Fajr, 4 before Dhuhr and 2 after, 2 after Maghrib, 2 after Isha.', rakatBn: 'দৈনিক ১২ রাকাত: ফজরের আগে ২, যোহরের আগে ৪ ও পরে ২, মাগরিবের পরে ২, ইশার পরে ২।',
+    noteEn: 'Umm Habibah (RA) narrated: "Whoever prays twelve rak\'ahs (of sunnah) in a day and night, a house will be built for him in Paradise." (Muslim 728; detailed breakdown in Tirmidhi 415). The 2 rak\'ahs before Fajr are the most emphasized — "better than the world and all it contains" (Muslim 725).',
+    noteBn: 'উম্মে হাবিবা (রা.) বর্ণিত: "যে দিনে-রাতে (সুন্নাতের) বারো রাকাত পড়বে, তার জন্য জান্নাতে ঘর নির্মিত হবে।" (মুসলিম ৭২৮; বিস্তারিত তিরমিযি ৪১৫)। ফজরের আগের ২ রাকাত সর্বাধিক গুরুত্বপূর্ণ — "দুনিয়া ও তার সবকিছুর চেয়ে উত্তম" (মুসলিম ৭২৫)।' },
 ];
 
 const SALAH_HADITH = [
