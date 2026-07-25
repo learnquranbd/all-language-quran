@@ -436,6 +436,150 @@ const TOPIC_GROUPS = [
       fr: 'Création et Univers'
     , zh: '创造与宇宙', ja: '創造と宇宙'},
     refs: ['21:30', '41:53', '51:47', '67:3-4', '3:190']
+  },
+  {
+    id: 'tawakkul',
+    emoji: '🕊️',
+    names: { en: 'Trust in Allah (Tawakkul)', bn: 'আল্লাহর উপর ভরসা (তাওয়াক্কুল)', ar: 'التوكل على الله', ur: 'اللہ پر توکل', id: 'Tawakal kepada Allah', tr: 'Allah\'a Tevekkül', fr: 'Confiance en Allah (Tawakkul)', zh: '托靠真主', ja: 'アッラーへの信頼（タワックル）' },
+    refs: ['3:159', '65:3', '9:51', '8:2', '11:88', '33:3']
+  },
+  {
+    id: 'sincerity',
+    emoji: '💎',
+    names: { en: 'Sincerity (Ikhlas)', bn: 'ইখলাস (নিষ্ঠা)', ar: 'الإخلاص', ur: 'اخلاص', id: 'Keikhlasan', tr: 'İhlas', fr: 'Sincérité (Ikhlas)', zh: '虔诚', ja: '誠実（イフラース）' },
+    refs: ['98:5', '39:2', '39:11', '6:162-163', '107:4-6']
+  },
+  {
+    id: 'humility',
+    emoji: '🌾',
+    names: { en: 'Humility', bn: 'বিনয়', ar: 'التواضع', ur: 'عاجزی', id: 'Kerendahan Hati', tr: 'Tevazu', fr: 'Humilité', zh: '谦逊', ja: '謙虚' },
+    refs: ['25:63', '31:18-19', '17:37', '57:16', '23:1-2', '7:55']
+  },
+  {
+    id: 'honesty',
+    emoji: '🤝',
+    names: { en: 'Honesty & Truthfulness', bn: 'সততা ও সত্যবাদিতা', ar: 'الصدق والأمانة', ur: 'سچائی اور دیانت', id: 'Kejujuran', tr: 'Doğruluk ve Dürüstlük', fr: 'Honnêteté et Véracité', zh: '诚实', ja: '正直と誠実' },
+    refs: ['9:119', '33:70', '61:2-3', '17:35', '83:1-3', '33:24']
+  },
+  {
+    id: 'mercy',
+    emoji: '🌧️',
+    names: { en: 'Mercy', bn: 'রহমত', ar: 'الرحمة', ur: 'رحمت', id: 'Rahmat', tr: 'Rahmet', fr: 'Miséricorde', zh: '慈悯', ja: '慈悲' },
+    refs: ['21:107', '7:156', '6:54', '12:64', '55:1-2']
+  },
+  {
+    id: 'hope',
+    emoji: '🌅',
+    names: { en: 'Hope in Allah', bn: 'আল্লাহর প্রতি আশা', ar: 'الرجاء في الله', ur: 'اللہ سے امید', id: 'Harapan kepada Allah', tr: 'Allah\'tan Ümit', fr: 'Espoir en Allah', zh: '对真主的希望', ja: 'アッラーへの希望' },
+    refs: ['39:53', '12:87', '15:56', '2:218', '94:5-6']
+  },
+  {
+    id: 'taqwa',
+    emoji: '🛡️',
+    names: { en: 'Fear of Allah (Taqwa)', bn: 'তাকওয়া (আল্লাহভীতি)', ar: 'التقوى', ur: 'تقویٰ', id: 'Takwa', tr: 'Takva', fr: 'Crainte d\'Allah (Taqwa)', zh: '敬畏真主', ja: 'タクワー（神への畏れ）' },
+    refs: ['2:197', '3:102', '49:13', '65:2-3', '8:29', '59:18']
+  },
+  {
+    id: 'repentance',
+    emoji: '🔄',
+    names: { en: 'Repentance (Tawbah)', bn: 'তওবা', ar: 'التوبة', ur: 'توبہ', id: 'Taubat', tr: 'Tövbe', fr: 'Repentir (Tawbah)', zh: '忏悔', ja: '悔悟（タウバ）' },
+    refs: ['39:53', '66:8', '4:110', '25:70-71', '24:31', '2:222']
+  },
+  {
+    id: 'death',
+    emoji: '🥀',
+    names: { en: 'Death & the Grave', bn: 'মৃত্যু ও কবর', ar: 'الموت والقبر', ur: 'موت اور قبر', id: 'Kematian dan Alam Kubur', tr: 'Ölüm ve Kabir', fr: 'La Mort et la Tombe', zh: '死亡与坟墓', ja: '死と墓' },
+    refs: ['3:185', '21:35', '62:8', '4:78', '63:10-11', '102:1-2']
+  },
+  {
+    id: 'judgment-day',
+    emoji: '⏰',
+    names: { en: 'The Day of Judgment', bn: 'কিয়ামতের দিন', ar: 'يوم القيامة', ur: 'قیامت کا دن', id: 'Hari Kiamat', tr: 'Kıyamet Günü', fr: 'Le Jour du Jugement', zh: '审判日', ja: '審判の日' },
+    refs: ['22:1-2', '99:1-8', '82:1-5', '39:68-70', '69:13-18', '101:1-11']
+  },
+  {
+    id: 'hellfire',
+    emoji: '🔥',
+    names: { en: 'Warnings of Hellfire', bn: 'জাহান্নামের সতর্কবাণী', ar: 'التحذير من النار', ur: 'جہنم کی تنبیہات', id: 'Peringatan Neraka', tr: 'Cehennem Uyarıları', fr: 'Avertissements de l\'Enfer', zh: '火狱的警告', ja: '地獄の警告' },
+    refs: ['66:6', '2:24', '4:56', '67:6-8', '78:21-26', '3:131']
+  },
+  {
+    id: 'angels',
+    emoji: '👼',
+    names: { en: 'Angels', bn: 'ফেরেশতা', ar: 'الملائكة', ur: 'فرشتے', id: 'Malaikat', tr: 'Melekler', fr: 'Les Anges', zh: '天使', ja: '天使' },
+    refs: ['2:285', '35:1', '82:10-12', '50:17-18', '13:11', '21:19-20']
+  },
+  {
+    id: 'the-quran',
+    emoji: '📖',
+    names: { en: 'The Qur\'an', bn: 'কুরআন', ar: 'القرآن الكريم', ur: 'قرآن مجید', id: 'Al-Qur\'an', tr: 'Kur\'an', fr: 'Le Coran', zh: '古兰经', ja: 'クルアーン' },
+    refs: ['2:2', '15:9', '17:9', '17:82', '54:17', '59:21']
+  },
+  {
+    id: 'prophets-stories',
+    emoji: '🕋',
+    names: { en: 'Stories of the Prophets', bn: 'নবীদের কাহিনি', ar: 'قصص الأنبياء', ur: 'انبیاء کے قصے', id: 'Kisah Para Nabi', tr: 'Peygamber Kıssaları', fr: 'Histoires des Prophètes', zh: '先知的故事', ja: '預言者たちの物語' },
+    refs: ['12:111', '11:120', '4:163-164', '6:84-86', '2:136', '40:78']
+  },
+  {
+    id: 'family',
+    emoji: '💍',
+    names: { en: 'Family & Marriage', bn: 'পরিবার ও বিবাহ', ar: 'الأسرة والزواج', ur: 'خاندان اور نکاح', id: 'Keluarga dan Pernikahan', tr: 'Aile ve Evlilik', fr: 'Famille et Mariage', zh: '家庭与婚姻', ja: '家族と結婚' },
+    refs: ['30:21', '4:1', '25:74', '2:187', '16:72', '7:189']
+  },
+  {
+    id: 'children',
+    emoji: '🧒',
+    names: { en: 'Children', bn: 'সন্তান', ar: 'الأولاد', ur: 'اولاد', id: 'Anak-anak', tr: 'Çocuklar', fr: 'Les Enfants', zh: '子女', ja: '子ども' },
+    refs: ['18:46', '3:38', '17:31', '31:13', '37:100-102', '21:89-90']
+  },
+  {
+    id: 'rizq',
+    emoji: '💰',
+    names: { en: 'Wealth & Provision (Rizq)', bn: 'সম্পদ ও রিজিক', ar: 'الرزق والمال', ur: 'مال اور رزق', id: 'Harta dan Rezeki', tr: 'Rızık ve Mal', fr: 'Richesse et Subsistance (Rizq)', zh: '财富与给养', ja: '富と糧（リズク）' },
+    refs: ['11:6', '51:22', '51:58', '62:10', '17:30', '34:39']
+  },
+  {
+    id: 'healing',
+    emoji: '🌿',
+    names: { en: 'Health & Healing', bn: 'স্বাস্থ্য ও আরোগ্য', ar: 'الصحة والشفاء', ur: 'صحت اور شفا', id: 'Kesehatan dan Penyembuhan', tr: 'Sağlık ve Şifa', fr: 'Santé et Guérison', zh: '健康与治愈', ja: '健康と癒し' },
+    refs: ['26:80', '17:82', '10:57', '16:69', '21:83-84', '41:44']
+  },
+  {
+    id: 'travel',
+    emoji: '🧭',
+    names: { en: 'Travel & the Earth', bn: 'ভ্রমণ ও পৃথিবী', ar: 'السير في الأرض', ur: 'سفر اور زمین', id: 'Perjalanan dan Bumi', tr: 'Yolculuk ve Yeryüzü', fr: 'Voyage et la Terre', zh: '旅行与大地', ja: '旅と大地' },
+    refs: ['29:20', '67:15', '22:46', '30:42', '6:11', '43:12-13']
+  },
+  {
+    id: 'nature-signs',
+    emoji: '🌦️',
+    names: { en: 'Signs in Nature', bn: 'প্রকৃতিতে নিদর্শন', ar: 'آيات الله في الطبيعة', ur: 'فطرت میں نشانیاں', id: 'Tanda-tanda di Alam', tr: 'Tabiattaki Ayetler', fr: 'Signes dans la Nature', zh: '自然中的迹象', ja: '自然の中の印' },
+    refs: ['88:17-20', '30:22', '16:10-11', '24:43', '6:99', '36:33-36']
+  },
+  {
+    id: 'brotherhood',
+    emoji: '🫂',
+    names: { en: 'Community & Brotherhood', bn: 'উম্মাহ ও ভ্রাতৃত্ব', ar: 'الأخوة والجماعة', ur: 'برادری اور اخوت', id: 'Persaudaraan dan Umat', tr: 'Kardeşlik ve Toplum', fr: 'Communauté et Fraternité', zh: '社群与兄弟情谊', ja: '共同体と兄弟愛' },
+    refs: ['49:10', '3:103', '49:11-12', '5:2', '9:71', '8:46']
+  },
+  {
+    id: 'enemies-hypocrites',
+    emoji: '🎭',
+    names: { en: 'Enemies & Hypocrites', bn: 'শত্রু ও মুনাফিক', ar: 'الأعداء والمنافقون', ur: 'دشمن اور منافقین', id: 'Musuh dan Orang Munafik', tr: 'Düşmanlar ve Münafıklar', fr: 'Ennemis et Hypocrites', zh: '敌人与伪信者', ja: '敵と偽信者' },
+    refs: ['41:34', '3:186', '2:8-10', '63:1-4', '60:7-8', '28:55']
+  },
+  {
+    id: 'trials',
+    emoji: '⛰️',
+    names: { en: 'Trials & Tests', bn: 'পরীক্ষা ও বিপদ', ar: 'الابتلاء والامتحان', ur: 'آزمائش', id: 'Ujian dan Cobaan', tr: 'İmtihan ve Sınanma', fr: 'Épreuves et Tests', zh: '考验与磨难', ja: '試練' },
+    refs: ['29:2-3', '2:286', '67:2', '57:22-23', '64:11', '3:142']
+  },
+  {
+    id: 'dua-dhikr',
+    emoji: '📿',
+    names: { en: 'Du\'a & Remembrance', bn: 'দোয়া ও যিকির', ar: 'الدعاء والذكر', ur: 'دعا اور ذکر', id: 'Doa dan Zikir', tr: 'Dua ve Zikir', fr: 'Invocation et Rappel (Dhikr)', zh: '祈祷与记念', ja: 'ドゥアーとズィクル' },
+    refs: ['2:186', '40:60', '13:28', '33:41-42', '7:180', '76:25']
   }
 ];
 

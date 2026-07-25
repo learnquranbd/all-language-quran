@@ -272,7 +272,7 @@ const KIDS_THEME_WORDS = [
     label: { en: 'Food', bn: 'খাবার', zh: '食物', ja: '食べ物' },
     words: [
       { arabic: 'خُبْز',  translit: 'Khubz',  emoji: '🍞', meaning: { en: 'Bread', bn: 'রুটি', zh: '面包', ja: 'パン' },   ref: '12:36', hl: 'خُبْزًا' },
-      { arabic: 'لَبَن',  translit: 'Laban',  emoji: '🥛', meaning: { en: 'Milk', bn: 'দুধ', zh: '牛奶', ja: '牛乳' },    ref: '16:66', hl: 'لَّبَنًا' },
+      { arabic: 'لَبَن',  translit: 'Laban',  emoji: '🥛', meaning: { en: 'Milk', bn: 'দুধ', zh: '牛奶', ja: '牛乳' },    ref: '16:66', hl: 'لَّبَنًا' },
       { arabic: 'عَسَل',  translit: "'Asal",  emoji: '🍯', meaning: { en: 'Honey', bn: 'মধু', zh: '蜂蜜', ja: '蜂蜜' },   ref: '47:15', hl: 'عَسَلٍ' },
       { arabic: 'لَحْم',  translit: 'Lahm',   emoji: '🍖', meaning: { en: 'Meat', bn: 'মাংস', zh: '肉', ja: '肉' },     ref: '16:14', hl: 'لَحْمًا' }
     ]
@@ -285,9 +285,61 @@ const KIDS_THEME_WORDS = [
       { arabic: 'وَجْه',  translit: 'Wajh',   emoji: '😊', meaning: { en: 'Face', bn: 'মুখ', zh: '脸', ja: '顔' },     ref: '2:144', hl: 'وَجْهَكَ' },
       { arabic: 'عَيْن',  translit: "'Ayn",   emoji: '👁️', meaning: { en: 'Eye', bn: 'চোখ', zh: '眼睛', ja: '目' },     ref: '5:45',  hl: 'وَٱلْعَيْنَ' },
       { arabic: 'أُذُن',  translit: 'Udhun',  emoji: '👂', meaning: { en: 'Ear', bn: 'কান', zh: '耳朵', ja: '耳' },     ref: '5:45',  hl: 'وَٱلْأُذُنَ' },
-      { arabic: 'لِسَان', translit: 'Lisan',  emoji: '👅', meaning: { en: 'Tongue', bn: 'জিহ্বা', zh: '舌头', ja: '舌' }, ref: '20:27', hl: 'لِّسَانِى' },
+      { arabic: 'لِسَان', translit: 'Lisan',  emoji: '👅', meaning: { en: 'Tongue', bn: 'জিহ্বা', zh: '舌头', ja: '舌' }, ref: '20:27', hl: 'لِّسَانِى' },
       { arabic: 'قَلْب',  translit: 'Qalb',   emoji: '❤️', meaning: { en: 'Heart', bn: 'হৃদয়', zh: '心', ja: '心臓' },   ref: '26:89', hl: 'بِقَلْبٍ' },
       { arabic: 'يَد',    translit: 'Yad',    emoji: '✋', meaning: { en: 'Hand', bn: 'হাত', zh: '手', ja: '手' },     ref: '20:22', hl: 'يَدَكَ' }
+    ]
+  },
+  {
+    id: 'sky',
+    emoji: '🌦️',
+    label: { en: 'Sky & Weather', bn: 'আকাশ ও আবহাওয়া', zh: '天空与天气', ja: '空と天気' },
+    words: [
+      { arabic: 'سَمَاء',   translit: "Sama'",  emoji: '🌌', meaning: { en: 'Sky', bn: 'আকাশ', zh: '天空', ja: '空' },          ref: '2:22',  hl: 'وَٱلسَّمَآءَ' },
+      { arabic: 'سَحَاب',   translit: 'Sahab',  emoji: '☁️', meaning: { en: 'Clouds', bn: 'মেঘ', zh: '云', ja: '雲' },          ref: '2:164', hl: 'وَٱلسَّحَابِ' },
+      { arabic: 'مَطَر',    translit: 'Matar',  emoji: '🌧️', meaning: { en: 'Rain', bn: 'বৃষ্টি', zh: '雨', ja: '雨' },         ref: '4:102', hl: 'مَّطَرٍ' },
+      { arabic: 'رَعْد',    translit: "Ra'd",   emoji: '⛈️', meaning: { en: 'Thunder', bn: 'বজ্র', zh: '雷', ja: '雷' },        ref: '13:13', hl: 'ٱلرَّعْدُ' },
+      { arabic: 'بَرْق',    translit: 'Barq',   emoji: '⚡', meaning: { en: 'Lightning', bn: 'বিদ্যুৎ', zh: '闪电', ja: '稲妻' }, ref: '13:12', hl: 'ٱلْبَرْقَ' },
+      { arabic: 'رِيَاح',   translit: 'Riyah',  emoji: '💨', meaning: { en: 'Winds', bn: 'বাতাস', zh: '风', ja: '風' },         ref: '2:164', hl: 'ٱلرِّيَٰحِ' }
+    ]
+  },
+  {
+    id: 'places',
+    emoji: '🕌',
+    label: { en: 'Places', bn: 'স্থান', zh: '地方', ja: '場所' },
+    words: [
+      { arabic: 'مَسْجِد',  translit: 'Masjid',  emoji: '🕌', meaning: { en: 'Mosque', bn: 'মসজিদ', zh: '清真寺', ja: 'モスク' },        ref: '17:1',  hl: 'ٱلْمَسْجِدِ' },
+      { arabic: 'بَيْت',    translit: 'Bayt',    emoji: '🏡', meaning: { en: 'House', bn: 'ঘর', zh: '房子', ja: '家' },               ref: '3:96',  hl: 'بَيْتٍ' },
+      { arabic: 'جَنَّة',   translit: 'Jannah',  emoji: '🏞️', meaning: { en: 'Garden (Paradise)', bn: 'জান্নাত (বাগান)', zh: '乐园（花园）', ja: '楽園（庭園）' }, ref: '2:35', hl: 'ٱلْجَنَّةَ' },
+      { arabic: 'مَدِينَة', translit: 'Madinah', emoji: '🏙️', meaning: { en: 'City', bn: 'শহর', zh: '城市', ja: '町' },               ref: '36:20', hl: 'ٱلْمَدِينَةِ' },
+      { arabic: 'بَاب',     translit: 'Bab',     emoji: '🚪', meaning: { en: 'Door', bn: 'দরজা', zh: '门', ja: 'ドア' },              ref: '12:25', hl: 'ٱلْبَابَ' },
+      { arabic: 'أَرْض',    translit: 'Ard',     emoji: '🌍', meaning: { en: 'Earth (land)', bn: 'জমিন', zh: '大地', ja: '大地' },     ref: '2:22',  hl: 'ٱلْأَرْضَ' }
+    ]
+  },
+  {
+    id: 'learning',
+    emoji: '📖',
+    label: { en: 'Learning', bn: 'শেখা', zh: '学习', ja: '学び' },
+    words: [
+      { arabic: 'قُرْآن',    translit: "Qur'an", emoji: '📖', meaning: { en: 'Quran', bn: 'কুরআন', zh: '古兰经', ja: 'クルアーン' },  ref: '2:185', hl: 'ٱلْقُرْءَانُ' },
+      { arabic: 'كِتَاب',    translit: 'Kitab',  emoji: '📚', meaning: { en: 'Book', bn: 'কিতাব (বই)', zh: '书', ja: '本' },        ref: '2:2',   hl: 'ٱلْكِتَٰبُ' },
+      { arabic: 'قَلَم',     translit: 'Qalam',  emoji: '🖊️', meaning: { en: 'Pen', bn: 'কলম', zh: '笔', ja: 'ペン' },             ref: '68:1',  hl: 'وَٱلْقَلَمِ' },
+      { arabic: 'قِرْطَاس',  translit: 'Qirtas', emoji: '📄', meaning: { en: 'Paper', bn: 'কাগজ', zh: '纸', ja: '紙' },            ref: '6:7',   hl: 'قِرْطَاسٍ' },
+      { arabic: 'عِلْم',     translit: "'Ilm",   emoji: '🎓', meaning: { en: 'Knowledge', bn: 'জ্ঞান', zh: '知识', ja: '知識' },    ref: '2:32',  hl: 'عِلْمَ' },
+      { arabic: 'نُور',      translit: 'Nur',    emoji: '💡', meaning: { en: 'Light', bn: 'আলো', zh: '光', ja: '光' },             ref: '24:35', hl: 'نُورُ' }
+    ]
+  },
+  {
+    id: 'time',
+    emoji: '⏰',
+    label: { en: 'Time', bn: 'সময়', zh: '时间', ja: '時間' },
+    words: [
+      { arabic: 'يَوْم',   translit: 'Yawm',  emoji: '📅', meaning: { en: 'Day', bn: 'দিন', zh: '日子', ja: '日' },              ref: '1:4',   hl: 'يَوْمِ' },
+      { arabic: 'لَيْل',   translit: 'Layl',  emoji: '🌃', meaning: { en: 'Night', bn: 'রাত', zh: '夜晚', ja: '夜' },            ref: '92:1',  hl: 'وَٱلَّيْلِ' },
+      { arabic: 'نَهَار',  translit: 'Nahar', emoji: '🌅', meaning: { en: 'Daytime', bn: 'দিনের বেলা', zh: '白天', ja: '昼' },   ref: '92:2',  hl: 'وَٱلنَّهَارِ' },
+      { arabic: 'فَجْر',   translit: 'Fajr',  emoji: '🌄', meaning: { en: 'Dawn', bn: 'ভোর', zh: '黎明', ja: '夜明け' },         ref: '89:1',  hl: 'وَٱلْفَجْرِ' },
+      { arabic: 'شَهْر',   translit: 'Shahr', emoji: '🗓️', meaning: { en: 'Month', bn: 'মাস', zh: '月份', ja: 'ひと月' },        ref: '2:185', hl: 'شَهْرُ' },
+      { arabic: 'سَنَة',   translit: 'Sanah', emoji: '🎆', meaning: { en: 'Year', bn: 'বছর', zh: '年', ja: '年' },              ref: '29:14', hl: 'سَنَةٍ' }
     ]
   }
 ];
