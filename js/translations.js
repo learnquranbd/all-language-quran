@@ -5717,7 +5717,7 @@ const TRANSLATIONS = {
   id: {
     mt_intro_title: "Apa itu Mutasyabihat?",
     mt_intro_body: "Quran 3:7 membedakan dua jenis ayat: <b>muhkamāt</b> (أُمُّ الكِتَاب) — ayat-ayat yang jelas dan tegas yang menjadi pokok Kitab — dan <b>mutasyābihāt</b> — ayat-ayat yang serupa satu sama lain dalam ungkapannya, yang makna sepenuhnya \"tidak ada yang mengetahui kecuali Allah dan orang-orang yang mendalam ilmunya.\" Di seluruh Al-Qur'an, kisah, doa, dan sifat-sifat ilahi yang sama diceritakan kembali dengan perbedaan halus yang disengaja: sebuah kata ganti bergeser, sebuah sifat berubah, sebuah kata sambung berbeda. Setiap variasi disengaja. Ulama klasik al-Kirmānī (w. 505 H) menyusun pasangan-pasangan ini secara sistematis dalam <i>Al-Burhān fī Mutasyābih al-Qur'ān</i>, menunjukkan bahwa setiap perbedaan membawa makna tersendiri.",
-    mt_intro_ref: "Quran 3:7",
+    mt_intro_ref: "Al-Qur'an 3:7",
     mt_intro_verse: "هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَـٰبَ مِنْهُ ءَايَـٰتٌ مُّحْكَمَـٰتٌ هُنَّ أُمُّ ٱلْكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتٌ",
     mt_intro_hide: "Sembunyikan pengantar",
     mt_intro_show: "Apa itu Mutasyabihat?",
@@ -5729,7 +5729,7 @@ const TRANSLATIONS = {
     kids_stories: "Cerita",
     kids_adab: "Adab",
     kids_story_moral: "Pelajaran:",
-    kids_story_ref: "Quran:",
+    kids_story_ref: "Al-Qur'an:",
     seerah_ashara_title: "Sepuluh yang Dijanjikan Surga",
     seerah_ashara_sub: "al-'Ashara al-Mubashshara (RA)",
     seerah_lessons_title: "Pelajaran dari Sirah",
