@@ -382,11 +382,29 @@ class Mutashabihat {
   openGroupViewer(id) {
     const g = (typeof MUTASHABIHAT_GROUPS !== 'undefined' ? MUTASHABIHAT_GROUPS : []).find(x => x.id === id);
     if (!g || typeof ayahTimeline === 'undefined') return;
+    // Highlight the mutashabihat parts: the word ranges each verse shares with
+    // OTHER verses of this group, straight from the similarity index. Verses
+    // the index doesn't cover fall back to matching the group's Arabic name.
+    const inGroup = new Set(g.verses);
+    const marks = {};
+    if (this.index) {
+      for (const v of g.verses) {
+        const set = new Set();
+        for (const sim of (this.index[v] || [])) {
+          const ref = sim[0], len = sim[1] || 0, start = sim[2] || 0;
+          if (!inGroup.has(ref)) continue;
+          for (let i = 0; i < len; i++) set.add(start + i + 1);   // 1-based word positions
+        }
+        if (set.size) marks[v] = Array.from(set).sort((a, b) => a - b);
+      }
+    }
     ayahTimeline.open({
       title: this.L({ en: g.nameEn, bn: g.nameBn }),
       titleAr: g.nameAr,
       subtitle: this.L({ en: g.descEn, bn: g.descBn }),
-      refs: g.verses
+      refs: g.verses,
+      marks: Object.keys(marks).length ? marks : undefined,
+      phrase: g.nameAr
     });
   }
 
