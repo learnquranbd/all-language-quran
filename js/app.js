@@ -245,8 +245,9 @@ class QuranApp {
     // triggered a load from a non-reading module (dashboard, tadabbur, names, a
     // topic/dua collection, the Juz quick-nav, a deep-link…), that panel is
     // hidden, so bring Reading forward. Users already on a content tab
-    // (word-by-word, tafseer, grammar, tajweed, search) are left in place.
-    const CONTENT_TABS = new Set(['reading', 'wordbyword', 'tafseer', 'grammar', 'tajweedreading', 'search']);
+    // (word-by-word, tafseer, grammar, tajweed, search) are left in place —
+    // as are memorize/audio, which re-render the loaded surah in their own panel.
+    const CONTENT_TABS = new Set(['reading', 'wordbyword', 'tafseer', 'grammar', 'tajweedreading', 'search', 'memorize', 'audio']);
     if (typeof tabSystem !== 'undefined' && tabSystem &&
         !CONTENT_TABS.has(tabSystem.getActiveTab())) {
       tabSystem.switchTab('reading');

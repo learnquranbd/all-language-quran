@@ -36,6 +36,8 @@ class Mutashabihat {
     if (!this.container) return;
     this.language = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
     this.surah = 2;
+    this.scope = 'surah'; // browse grouping: 'surah' | 'juz' (para)
+    this.juz = 1;
     this.index = null;    // { "s:a": [[ref,len,start],...] }
     this.words = null;    // { "s:a": [diacritized words] }
     this.loaded = false;
@@ -127,6 +129,12 @@ class Mutashabihat {
         const sb = this.container.querySelector('#mt-search'); if (sb) sb.value = '';
         this.updateResults();
       }
+      else if (e.target.id === 'mt-juz') {
+        this.juz = parseInt(e.target.value); this.query = '';
+        const sb = this.container.querySelector('#mt-search'); if (sb) sb.value = '';
+        this.updateResults();
+      }
+      else if (e.target.id === 'mt-scope') { this.scope = e.target.value; this.query = ''; this.render(); }
       else if (e.target.id === 'mt-sort') { this.sort = e.target.value; this.updateResults(); }
     });
     this.container.addEventListener('input', (e) => {
@@ -190,12 +198,31 @@ class Mutashabihat {
   }
   shortName(s) { return this.surahName(s, true); }
 
-  /** Verses of the current surah that have similar verses, in ayah order. */
-  surahVerses() {
+  /** Verses of the current browse scope (surah or para/juz) that have similar
+   * verses, in mushaf order. */
+  browseVerses() {
+    if (this.scope === 'juz') {
+      const [lo, hi] = this.juzRange(this.juz);
+      return Object.keys(this.index)
+        .filter(k => { const v = this.keyOrd(k); return v >= lo && v <= hi; })
+        .sort((a, b) => this.keyOrd(a) - this.keyOrd(b));
+    }
     const prefix = this.surah + ':';
     return Object.keys(this.index)
       .filter(k => k.startsWith(prefix))
       .sort((a, b) => parseInt(a.split(':')[1]) - parseInt(b.split(':')[1]));
+  }
+
+  /** "s:a" -> sortable ordinal (no surah has 1000+ ayat). */
+  keyOrd(key) {
+    const [s, a] = key.split(':').map(Number);
+    return s * 1000 + a;
+  }
+
+  /** Inclusive [start, end] ordinals of a para/juz (1-30). */
+  juzRange(n) {
+    const j = (typeof JUZ_DATA !== 'undefined' ? JUZ_DATA : [])[n - 1];
+    return j ? [j.startSurah * 1000 + j.startAyah, j.endSurah * 1000 + j.endAyah] : [0, -1];
   }
 
   matchesQuery(key, q) {
@@ -226,6 +253,7 @@ class Mutashabihat {
     if (!keys.length) return;
     const key = keys[Math.floor(Math.random() * keys.length)];
     this.mode = 'browse';
+    this.scope = 'surah'; // the flashed card must be in the visible scope
     this.query = '';
     this.surah = parseInt(key.split(':')[0]);
     this.flashKey = key;
@@ -304,7 +332,7 @@ class Mutashabihat {
             <span class="shrink-0 px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 text-[0.65rem] font-medium">${g.verses.length} ${this.tt('mt_group_verses_label')}</span>
           </div>
           <p class="text-xs text-gray-500 dark:text-gray-400 mb-3 leading-relaxed">${this.esc(this.L({ en: g.descEn, bn: g.descBn }))}</p>
-          <div class="flex flex-wrap gap-1.5">${chips}<button data-mt-card-tl="${key}" class="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-xs font-medium hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">\ud83d\udd50 ${this.tt('mt_group_open_all')}</button></div>
+          <div class="flex flex-wrap gap-1.5">${chips}</div>
           <button data-mt-group-view="${g.id}"
             class="mt-3 w-full inline-flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-xs font-medium hover:bg-primary/20 dark:hover:bg-primary/30 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
             🕐 ${this.esc(this.tt('mt_group_open_all'))} · ${g.verses.length}
@@ -441,7 +469,7 @@ class Mutashabihat {
         : `<div class="text-center py-10 text-gray-400">${this.tt('mt_no_tricky')}</div>`;
     }
     // browse
-    let verses = this.surahVerses();
+    let verses = this.browseVerses();
     const q = (this.query || '').trim().toLowerCase();
     if (q) verses = verses.filter(k => this.matchesQuery(k, q));
     if (this.sort === 'most') {
@@ -466,14 +494,29 @@ class Mutashabihat {
     const tab = (mode, label, badge) => `
       <button data-mt-mode="${mode}" class="px-3 py-1.5 rounded-lg text-sm font-medium border transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-primary ${this.mode === mode ? 'bg-primary text-white border-primary' : 'border-gray-200 dark:border-gray-700 hover:border-primary'}">${label}${badge ? ` <span class="ms-0.5 px-1.5 rounded-full text-[0.65rem] ${this.mode === mode ? 'bg-white/25' : 'bg-amber-100 text-amber-700 dark:bg-amber-500/20 dark:text-amber-300'}">${badge}</span>` : ''}</button>`;
 
-    const browseTools = this.mode === 'browse' ? `
-      <div class="flex flex-wrap items-center justify-center gap-2 mb-3">
+    const scopeSelect = `
+        <select id="mt-scope" aria-label="${this.tt('mt_browse')}" class="px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm">
+          <option value="surah" ${this.scope === 'surah' ? 'selected' : ''}>${this.tt('surah')}</option>
+          <option value="juz" ${this.scope === 'juz' ? 'selected' : ''}>${this.tt('juz')}</option>
+        </select>`;
+    const rangeSelect = this.scope === 'juz' ? `
+        <select id="mt-juz" aria-label="${this.tt('juz')}" class="px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm">
+          ${(typeof JUZ_DATA !== 'undefined' ? JUZ_DATA : []).map(j => {
+            const [lo, hi] = this.juzRange(j.number);
+            const n = Object.keys(this.index || {}).filter(k => { const v = this.keyOrd(k); return v >= lo && v <= hi; }).length;
+            return `<option value="${j.number}" ${j.number === this.juz ? 'selected' : ''}>${this.tt('juz')} ${j.number} (${j.startSurah}:${j.startAyah}–${j.endSurah}:${j.endAyah})${n ? ` · ${n}` : ''}</option>`;
+          }).join('')}
+        </select>` : `
         <select id="mt-surah" aria-label="${this.tt('select_surah')}" class="px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm">
           ${SURAH_DATA.map(s => {
             const n = Object.keys(this.index || {}).filter(k => k.startsWith(s.number + ':')).length;
             return `<option value="${s.number}" ${s.number === this.surah ? 'selected' : ''}>${this.esc(formatSurahOption(s, lang))}${n ? ` · ${n}` : ''}</option>`;
           }).join('')}
-        </select>
+        </select>`;
+    const browseTools = this.mode === 'browse' ? `
+      <div class="flex flex-wrap items-center justify-center gap-2 mb-3">
+        ${scopeSelect}
+        ${rangeSelect}
         <input id="mt-search" type="search" value="${this.esc(this.query)}" placeholder="${this.tt('mt_search_ph')}" aria-label="${this.tt('search')}"
           class="px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm w-40">
         <select id="mt-sort" aria-label="${this.tt('mt_sort')}" class="px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm">
@@ -524,9 +567,7 @@ class Mutashabihat {
     const tricky = this.isTricky(key);
     const chips = sims.map(([ref, len, start]) => {
       const [s] = ref.split(':');
-      const st = start || 0;
-      const phrase = (this.words[key] || []).slice(st, st + len).join(' ');
-      return `<button data-mt-ref="${ref}" data-mt-phrase="${this.esc(phrase)}" title="${this.tt('mutashabihat_shared')}: ${len} ${this.tt('mt_words')}"
+      return `<button data-mt-card-tl="${key}" title="${this.tt('mutashabihat_shared')}: ${len} ${this.tt('mt_words')}"
                 class="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-lg border border-gray-200 dark:border-gray-700 text-xs hover:border-primary hover:bg-primary/5 dark:hover:bg-primary/10 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
                 <span class="ayah-arabic !text-sm !mb-0 !pb-0 !border-b-0 !leading-none">${this.esc(this.shortName(s))}</span>
                 <span class="text-gray-500 dark:text-gray-400">${ref}</span>
@@ -548,7 +589,7 @@ class Mutashabihat {
         </div>
         <div class="ayah-arabic !text-2xl !leading-[2.4] mb-3" dir="rtl">${this.verseHtml(key, topStart, topLen)}</div>
         <div class="text-xs text-gray-400 dark:text-gray-500 mb-1.5">${this.tt('mutashabihat_similar')} (${sims.length})</div>
-        <div class="flex flex-wrap gap-2">${chips}</div>
+        <div class="flex flex-wrap gap-2">${chips}<button data-mt-card-tl="${key}" class="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-xs font-medium hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🕐 ${this.tt('mt_group_open_all')}</button></div>
       </div>`;
   }
 }
