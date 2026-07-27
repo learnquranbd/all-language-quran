@@ -3,35 +3,34 @@
  *
  * A full, browsable index of EVERY ayah that carries tadabbur (reflection)
  * content in the app. The verse pool + themed groupings live in js/ponder.js
- * (PONDER_REFS / PONDER_THEMES / PONDER_PROMPT_KEYS); this module reuses those
- * globals so the daily "Ayah to Ponder" card and this module never drift apart.
+ * (PONDER_REFS / PONDER_THEMES / PONDER_PROMPT_KEYS); the per-ayah reflection
+ * notes live in js/tadabbur-data.js (TADABBUR_NOTES) — reflection + points to
+ * ponder + a practical takeaway, in en/bn (other languages fall back to en).
  *
  * Renders into #tadabbur-container (tab "tadabbur"). Arabic comes from the word
  * corpus (QuranData.getQuranWords) and the translation line from the current UI
- * language's offline file (data/translations/<lang>.json, English fallback) —
- * two fetches total, so all ~200 verses render from memory. Filter by theme,
- * search by surah/reference, open any verse in the modal, or open a whole theme
- * in the sitewide ayah timeline.
+ * language's offline file (data/translations/<lang>.json, English fallback).
+ * Two view modes — Grid and Timeline — plus theme filters and search.
  */
 
 // In-module en-first fallbacks for the few strings not in translations.js.
 const TADABBUR_I18N = {
   tadabbur_intro: {
-    en: 'Every reflection-worthy ayah in one place. Filter by theme, search, and open any verse to ponder its meaning.',
-    bn: 'এক জায়গায় সব চিন্তা-উদ্দীপক আয়াত। থিম অনুযায়ী বাছুন, খুঁজুন এবং যেকোনো আয়াত খুলে গভীরভাবে ভাবুন।',
-    ar: 'كل آية جديرة بالتدبر في مكان واحد. صفِّ حسب الموضوع، وابحث، وافتح أي آية لتتدبر معناها.',
-    ur: 'ہر قابلِ تدبر آیت ایک جگہ۔ موضوع کے مطابق چھانٹیں، تلاش کریں اور کوئی بھی آیت کھول کر اس کے معنی پر غور کریں۔',
-    id: 'Setiap ayat yang layak direnungkan dalam satu tempat. Saring menurut tema, cari, dan buka ayat mana pun untuk merenungkan maknanya.',
-    tr: 'Tefekküre değer her ayet tek bir yerde. Temaya göre süzün, arayın ve anlamını düşünmek için herhangi bir ayeti açın.',
-    fr: 'Chaque verset propice à la réflexion au même endroit. Filtrez par thème, recherchez et ouvrez un verset pour en méditer le sens.',
-    es: 'Cada versículo digno de reflexión en un solo lugar. Filtra por tema, busca y abre cualquier versículo para meditar su significado.',
-    ru: 'Каждый достойный размышления аят в одном месте. Фильтруйте по теме, ищите и открывайте любой аят, чтобы поразмыслить над его смыслом.',
-    fa: 'هر آیهٔ درخور تدبر در یک جا. بر اساس موضوع فیلتر کنید، جستجو کنید و هر آیه را برای تأمل در معنایش باز کنید.',
-    hi: 'हर चिंतन-योग्य आयत एक ही जगह। विषय के अनुसार छाँटें, खोजें और किसी भी आयत को खोलकर उसके अर्थ पर विचार करें।',
-    de: 'Jeder zum Nachdenken anregende Vers an einem Ort. Nach Thema filtern, suchen und einen Vers öffnen, um über seine Bedeutung nachzudenken.',
-    ms: 'Setiap ayat yang wajar direnung di satu tempat. Tapis mengikut tema, cari, dan buka mana-mana ayat untuk merenung maknanya.',
-    zh: '所有值得深思的经文汇于一处。按主题筛选、搜索，并打开任意经文以思索其含义。',
-    ja: '熟考に値するすべての節を一か所に。テーマで絞り込み、検索し、どの節も開いてその意味を熟考できます。'
+    en: 'Every reflection-worthy ayah in one place — each with a short reflection, points to ponder and a practical takeaway. Filter by theme, search, or switch to timeline view.',
+    bn: 'এক জায়গায় সব চিন্তা-উদ্দীপক আয়াত — প্রতিটির সাথে সংক্ষিপ্ত অনুধাবন, ভাবনার বিষয় ও একটি বাস্তব শিক্ষা। থিম অনুযায়ী বাছুন, খুঁজুন বা টাইমলাইন ভিউতে যান।',
+    ar: 'كل آية جديرة بالتدبر في مكان واحد — مع تأمل قصير ونقاط للتفكر ودرس عملي. صفِّ حسب الموضوع، أو ابحث، أو انتقل إلى العرض الزمني.',
+    ur: 'ہر قابلِ تدبر آیت ایک جگہ — ہر ایک کے ساتھ مختصر غور، سوچنے کی باتیں اور ایک عملی سبق۔ موضوع سے چھانٹیں، تلاش کریں یا ٹائم لائن پر جائیں۔',
+    id: 'Setiap ayat yang layak direnungkan dalam satu tempat — dengan renungan singkat, poin untuk direnungkan, dan pelajaran praktis. Saring menurut tema, cari, atau beralih ke tampilan linimasa.',
+    tr: 'Tefekküre değer her ayet tek yerde — kısa bir tefekkür, düşünülecek noktalar ve pratik bir çıkarımla. Temaya göre süzün, arayın veya zaman çizelgesine geçin.',
+    fr: 'Chaque verset propice à la réflexion au même endroit — avec une courte réflexion, des points de méditation et un enseignement pratique. Filtrez par thème, recherchez ou passez en vue chronologie.',
+    es: 'Cada versículo digno de reflexión en un solo lugar — con una breve reflexión, puntos para meditar y una enseñanza práctica. Filtra por tema, busca o cambia a la vista de cronología.',
+    ru: 'Каждый достойный размышления аят в одном месте — с кратким размышлением, вопросами для раздумья и практическим выводом. Фильтруйте по теме, ищите или переключитесь на хронологию.',
+    fa: 'هر آیهٔ درخور تدبر در یک جا — همراه با تأملی کوتاه، نکاتی برای اندیشیدن و درسی عملی. بر اساس موضوع فیلتر کنید، جستجو کنید یا به نمای خط زمانی بروید.',
+    hi: 'हर चिंतन-योग्य आयत एक ही जगह — प्रत्येक के साथ संक्षिप्त चिंतन, विचारणीय बिंदु और एक व्यावहारिक सीख। विषय से छाँटें, खोजें या टाइमलाइन दृश्य पर जाएँ।',
+    de: 'Jeder zum Nachdenken anregende Vers an einem Ort — mit einer kurzen Reflexion, Denkanstößen und einer praktischen Kernaussage. Nach Thema filtern, suchen oder zur Zeitleiste wechseln.',
+    ms: 'Setiap ayat yang wajar direnung di satu tempat — dengan renungan ringkas, perkara untuk direnung dan pengajaran praktikal. Tapis mengikut tema, cari, atau tukar ke paparan garis masa.',
+    zh: '所有值得深思的经文汇于一处——每节都附有简短的深思、思考要点和实用启示。按主题筛选、搜索，或切换到时间线视图。',
+    ja: '熟考に値するすべての節を一か所に——各節に短い熟考、考える点、実践的な学びを添えて。テーマで絞り込み、検索し、タイムライン表示に切り替えられます。'
   },
   tadabbur_search_ph: {
     en: 'Search surah or reference…', bn: 'সূরা বা রেফারেন্স খুঁজুন…', ar: 'ابحث عن سورة أو مرجع…',
@@ -49,6 +48,31 @@ const TADABBUR_I18N = {
     fa: 'هیچ آیه‌ای با جستجوی شما مطابقت ندارد.', hi: 'आपकी खोज से कोई आयत मेल नहीं खाती।',
     de: 'Keine Verse entsprechen Ihrer Suche.', ms: 'Tiada ayat sepadan dengan carian anda.',
     zh: '没有与您的搜索匹配的经文。', ja: '検索に一致する節はありません。'
+  },
+  tad_reflection: {
+    en: 'Reflection', bn: 'অনুধাবন', ar: 'تأمل', ur: 'غور و فکر', id: 'Renungan', tr: 'Tefekkür',
+    fr: 'Réflexion', es: 'Reflexión', ru: 'Размышление', fa: 'تأمل', hi: 'चिंतन', de: 'Reflexion',
+    ms: 'Renungan', zh: '深思', ja: '熟考'
+  },
+  tad_points: {
+    en: 'Points to ponder', bn: 'ভাবনার বিষয়', ar: 'نقاط للتأمل', ur: 'غور کرنے کی باتیں',
+    id: 'Poin renungan', tr: 'Düşünülecek noktalar', fr: 'Points de méditation', es: 'Puntos para reflexionar',
+    ru: 'Над чем задуматься', fa: 'نکات تأمل', hi: 'विचारणीय बिंदु', de: 'Denkanstöße',
+    ms: 'Perkara untuk direnung', zh: '思考要点', ja: '考える点'
+  },
+  tad_lesson: {
+    en: 'Takeaway', bn: 'শিক্ষা', ar: 'الدرس المستفاد', ur: 'سبق', id: 'Pelajaran', tr: 'Çıkarım',
+    fr: 'À retenir', es: 'Enseñanza', ru: 'Вывод', fa: 'درس', hi: 'सीख', de: 'Kernaussage',
+    ms: 'Pengajaran', zh: '启示', ja: '学び'
+  },
+  tad_view_grid: {
+    en: 'Grid', bn: 'গ্রিড', ar: 'شبكة', ur: 'گرڈ', id: 'Kotak', tr: 'Izgara', fr: 'Grille',
+    es: 'Cuadrícula', ru: 'Сетка', fa: 'شبکه', hi: 'ग्रिड', de: 'Raster', ms: 'Grid', zh: '网格', ja: 'グリッド'
+  },
+  tad_view_timeline: {
+    en: 'Timeline', bn: 'টাইমলাইন', ar: 'الخط الزمني', ur: 'ٹائم لائن', id: 'Linimasa', tr: 'Zaman çizelgesi',
+    fr: 'Chronologie', es: 'Cronología', ru: 'Хронология', fa: 'خط زمانی', hi: 'टाइमलाइन', de: 'Zeitleiste',
+    ms: 'Garis masa', zh: '时间线', ja: 'タイムライン'
   }
 };
 
@@ -63,6 +87,7 @@ class Tadabbur {
     this.loaded = false;
     this.theme = null;   // active theme id (null = all)
     this.query = '';
+    this.view = 'grid';  // 'grid' | 'timeline'
 
     window.addEventListener('tabChanged', (e) => { if (e.detail.tabId === 'tadabbur') this.ensureLoaded(); });
     window.addEventListener('settingChanged', (e) => {
@@ -96,6 +121,11 @@ class Tadabbur {
   /* ---------- data ---------- */
   refs() { return (typeof PONDER_REFS !== 'undefined') ? PONDER_REFS : []; }
   themes() { return (typeof PONDER_THEMES !== 'undefined') ? PONDER_THEMES : {}; }
+  notes() { return (typeof TADABBUR_NOTES !== 'undefined') ? TADABBUR_NOTES : {}; }
+  note(ref) { return this.notes()[ref] || null; }
+  /** Pick en/bn field from a note (bn only when the UI is Bangla; else en). */
+  noteText(n, base) { return (this.language === 'bn' && n[base + 'Bn']) ? n[base + 'Bn'] : (n[base + 'En'] || ''); }
+  notePoints(n) { return (this.language === 'bn' && Array.isArray(n.pointsBn) && n.pointsBn.length) ? n.pointsBn : (n.pointsEn || []); }
 
   /** Unique, order-preserving pool for the active theme (or all). */
   pool() {
@@ -103,6 +133,17 @@ class Tadabbur {
     const seen = new Set(), out = [];
     for (const r of raw) { if (!seen.has(r)) { seen.add(r); out.push(r); } }
     return out;
+  }
+
+  /** Pool after the search filter. */
+  filtered() {
+    const q = this.query.trim().toLowerCase();
+    if (!q) return this.pool();
+    return this.pool().filter(ref => {
+      const first = String(ref).split('-')[0];
+      const [s] = first.split(':');
+      return String(ref).toLowerCase().includes(q) || this.surahName(s).toLowerCase().includes(q);
+    });
   }
 
   /** Which theme emojis a ref belongs to (for the small tag on each card). */
@@ -178,18 +219,15 @@ class Tadabbur {
       this.render();
       return;
     }
+    const viewBtn = e.target.closest('[data-tad-view]');
+    if (viewBtn) {
+      const v = viewBtn.getAttribute('data-tad-view');
+      if (v === 'grid' || v === 'timeline') { this.view = v; this.render(); }
+      return;
+    }
     const refBtn = e.target.closest('[data-tad-ref]');
     if (refBtn && typeof ayahModal !== 'undefined' && ayahModal) {
       try { ayahModal.open(refBtn.getAttribute('data-tad-ref')); } catch (_) { /* ignore */ }
-      return;
-    }
-    if (e.target.closest('[data-tad-timeline]') && typeof ayahTimeline !== 'undefined' && ayahTimeline) {
-      const id = this.theme;
-      const th = id ? this.themes()[id] : null;
-      ayahTimeline.open({
-        title: th ? (this.themeLabel(id)) : this.L('tadabbur_title'),
-        subtitle: '', refs: (th ? th.refs : this.pool())
-      });
       return;
     }
     if (e.target.closest('[data-tad-random]') && typeof ayahModal !== 'undefined' && ayahModal) {
@@ -206,83 +244,124 @@ class Tadabbur {
         class="px-3 py-1 rounded-full text-xs font-medium border transition-colors ${active
           ? 'bg-primary text-white border-primary'
           : 'border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'}">${label}</button>`;
-    const chips = [chip('', '🌐 ' + this.esc(this.tt('ponder_all') === 'ponder_all' ? 'All' : this.tt('ponder_all')), !this.theme)]
+    const allLabel = this.tt('ponder_all') === 'ponder_all' ? 'All' : this.tt('ponder_all');
+    const chips = [chip('', '🌐 ' + this.esc(allLabel), !this.theme)]
       .concat(Object.keys(this.themes()).map(id =>
         chip(id, this.themes()[id].emoji + ' ' + this.esc(this.themeLabel(id)), this.theme === id)));
     return `<div class="flex flex-wrap gap-2">${chips.join('')}</div>`;
   }
 
-  cardHtml(ref, promptSeed) {
+  /** The reflection / points / takeaway block for a verse (or a generic prompt). */
+  detailHtml(ref, seed) {
+    const n = this.note(ref);
+    if (n) {
+      const refl = this.noteText(n, 'reflection');
+      const lesson = this.noteText(n, 'lesson');
+      const pts = this.notePoints(n);
+      const points = pts.length ? `
+        <div class="mt-2">
+          <p class="text-[11px] uppercase tracking-wide font-semibold text-gray-400 mb-1">${this.esc(this.L('tad_points'))}</p>
+          <ul class="space-y-1">
+            ${pts.map(p => `<li class="flex gap-2 text-xs text-gray-600 dark:text-gray-300"><span aria-hidden="true">💭</span><span dir="auto">${this.esc(p)}</span></li>`).join('')}
+          </ul>
+        </div>` : '';
+      const take = lesson ? `
+        <p class="mt-2 flex gap-2 text-xs text-emerald-700 dark:text-emerald-300"><span aria-hidden="true">🎯</span><span dir="auto"><span class="font-semibold">${this.esc(this.L('tad_lesson'))}:</span> ${this.esc(lesson)}</span></p>` : '';
+      return `
+        <div class="mt-3 pt-3 border-t border-gray-100 dark:border-gray-700/60 text-start">
+          <p class="text-[11px] uppercase tracking-wide font-semibold text-primary/80 mb-1">🧭 ${this.esc(this.L('tad_reflection'))}</p>
+          <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(refl)}</p>
+          ${points}
+          ${take}
+        </div>`;
+    }
+    // Fallback: a single generic prompt (should be rare — all PONDER_REFS covered).
+    let prompt = '';
+    if (typeof PONDER_PROMPT_KEYS !== 'undefined' && PONDER_PROMPT_KEYS.length) {
+      const key = PONDER_PROMPT_KEYS[seed % PONDER_PROMPT_KEYS.length];
+      const s1 = t(key, this.language);
+      prompt = (s1 !== key) ? s1 : t('ponder_q' + ((seed % 4) + 1), this.language);
+    }
+    return prompt ? `<p class="mt-3 pt-3 border-t border-gray-100 dark:border-gray-700/60 flex gap-2 text-xs text-gray-500 dark:text-gray-400 text-start"><span aria-hidden="true">💭</span><span dir="auto">${this.esc(prompt)}</span></p>` : '';
+  }
+
+  /** Shared header chip + Arabic + translation for a verse. */
+  verseHeadHtml(ref) {
     const first = String(ref).split('-')[0];
     const [s] = first.split(':');
     const { arabic, translation } = this.verseData(ref);
     const tags = (this.themeMap()[ref] || []).slice(0, 4).join(' ');
-    // One stable reflection prompt per verse.
-    let prompt = '';
-    if (typeof PONDER_PROMPT_KEYS !== 'undefined' && PONDER_PROMPT_KEYS.length) {
-      const key = PONDER_PROMPT_KEYS[promptSeed % PONDER_PROMPT_KEYS.length];
-      const s1 = t(key, this.language);
-      prompt = (s1 !== key) ? s1 : t('ponder_q' + ((promptSeed % 4) + 1), this.language);
-    }
+    return `
+      <div class="flex items-center justify-between gap-2 mb-2">
+        <button data-tad-ref="${this.esc(first)}"
+          class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-md bg-gray-100 dark:bg-gray-700/60 text-xs font-semibold text-primary dark:text-sky-300 hover:bg-primary/10 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
+          ${this.esc(this.surahName(s))} <span class="text-gray-400 dark:text-gray-500 font-normal">${this.esc(ref)}</span> <span aria-hidden="true">↗</span>
+        </button>
+        ${tags ? `<span class="text-sm shrink-0" title="themes">${tags}</span>` : ''}
+      </div>
+      <div class="ayah-arabic !text-xl !leading-loose !border-b-0 !pb-0 mb-2 text-gray-800 dark:text-gray-100" dir="rtl">${arabic || '…'}</div>
+      <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(translation)}</p>`;
+  }
+
+  cardHtml(ref, seed) {
     return `
       <div class="rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-4 flex flex-col shadow-sm hover:shadow-md transition-shadow">
-        <div class="flex items-center justify-between gap-2 mb-2">
-          <button data-tad-ref="${this.esc(first)}"
-            class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-md bg-gray-100 dark:bg-gray-700/60 text-xs font-semibold text-primary dark:text-sky-300 hover:bg-primary/10 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
-            ${this.esc(this.surahName(s))} <span class="text-gray-400 dark:text-gray-500 font-normal">${this.esc(ref)}</span> <span aria-hidden="true">↗</span>
-          </button>
-          ${tags ? `<span class="text-sm shrink-0" title="themes">${tags}</span>` : ''}
-        </div>
-        <div class="ayah-arabic !text-xl !leading-loose !border-b-0 !pb-0 mb-2 text-gray-800 dark:text-gray-100" dir="rtl">${arabic || '…'}</div>
-        <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed mb-3" dir="auto">${this.esc(translation)}</p>
-        ${prompt ? `<p class="flex gap-2 text-xs text-gray-500 dark:text-gray-400 mt-auto pt-2 border-t border-gray-100 dark:border-gray-700/60"><span aria-hidden="true">💭</span><span dir="auto">${this.esc(prompt)}</span></p>` : ''}
+        ${this.verseHeadHtml(ref)}
+        ${this.detailHtml(ref, seed)}
       </div>`;
   }
 
-  gridHtml() {
-    const q = this.query.trim().toLowerCase();
-    let pool = this.pool();
-    if (q) {
-      pool = pool.filter(ref => {
-        const first = String(ref).split('-')[0];
-        const [s] = first.split(':');
-        return String(ref).toLowerCase().includes(q) || this.surahName(s).toLowerCase().includes(q);
-      });
-    }
-    if (!pool.length) {
-      return `<p class="col-span-full text-center py-12 text-gray-400">${this.esc(this.L('tadabbur_none'))}</p>`;
-    }
-    return pool.map((ref, i) => this.cardHtml(ref, i)).join('');
+  timelineItemHtml(ref, seed) {
+    return `
+      <li class="relative pl-5 pb-6 border-l-2 border-primary/25 ml-2 last:pb-1">
+        <span class="absolute -left-[7px] top-1 w-3 h-3 rounded-full bg-primary/70 border-2 border-white dark:border-gray-800" aria-hidden="true"></span>
+        ${this.verseHeadHtml(ref)}
+        ${this.detailHtml(ref, seed)}
+      </li>`;
   }
 
-  countLabel() {
-    const q = this.query.trim().toLowerCase();
-    let n = this.pool().length;
-    if (q) {
-      n = this.pool().filter(ref => {
-        const first = String(ref).split('-')[0];
-        const [s] = first.split(':');
-        return String(ref).toLowerCase().includes(q) || this.surahName(s).toLowerCase().includes(q);
-      }).length;
+  itemsHtml() {
+    const pool = this.filtered();
+    if (!pool.length) {
+      return `<p class="text-center py-12 text-gray-400">${this.esc(this.L('tadabbur_none'))}</p>`;
     }
+    if (this.view === 'timeline') {
+      return `<ol class="list-none m-0 p-0">${pool.map((r, i) => this.timelineItemHtml(r, i)).join('')}</ol>`;
+    }
+    return pool.map((r, i) => this.cardHtml(r, i)).join('');
+  }
+
+  gridClass() { return this.view === 'grid' ? 'grid gap-4 md:grid-cols-2 xl:grid-cols-3' : ''; }
+
+  countLabel() {
+    const n = this.filtered().length;
     const label = this.tt('mt_group_verses_label');
     return `${n} ${label === 'mt_group_verses_label' ? 'verses' : label}`;
   }
 
   renderGrid() {
     const grid = document.getElementById('tad-grid');
-    if (grid) grid.innerHTML = this.gridHtml();
+    if (grid) { grid.className = this.gridClass(); grid.innerHTML = this.itemsHtml(); }
     const cnt = document.getElementById('tad-count');
     if (cnt) cnt.textContent = this.countLabel();
   }
 
+  viewToggleHtml() {
+    const btn = (v, emoji, label) => `
+      <button data-tad-view="${v}"
+        class="px-3 py-1.5 text-sm font-medium transition-colors ${this.view === v
+          ? 'bg-primary text-white'
+          : 'text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'}">
+        ${emoji} ${this.esc(this.L(label))}
+      </button>`;
+    return `
+      <div class="inline-flex rounded-lg overflow-hidden border border-gray-300 dark:border-gray-600">
+        ${btn('grid', '▦', 'tad_view_grid')}${btn('timeline', '🕐', 'tad_view_timeline')}
+      </div>`;
+  }
+
   render() {
     const inp = 'w-full sm:w-64 rounded-lg border border-gray-300 dark:border-gray-600 bg-white/70 dark:bg-gray-900/40 px-3 py-2 text-sm text-gray-700 dark:text-gray-200 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-primary/40';
-    const timelineBtn = this.theme ? `
-      <button data-tad-timeline
-        class="px-3 py-2 rounded-lg text-sm font-medium border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 whitespace-nowrap">
-        🕐 ${this.esc(this.tt('mt_group_open_all'))}
-      </button>` : '';
 
     this.container.innerHTML = `
       <div class="w-full space-y-5">
@@ -301,12 +380,12 @@ class Tadabbur {
               class="px-3 py-2 rounded-lg text-sm font-medium border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 whitespace-nowrap">
               ✨ ${this.esc(this.tt('ponder_random') === 'ponder_random' ? 'Random' : this.tt('ponder_random'))}
             </button>
-            ${timelineBtn}
+            ${this.viewToggleHtml()}
           </div>
           <input id="tad-search" type="search" dir="auto" class="${inp}" placeholder="${this.esc(this.L('tadabbur_search_ph'))}" value="${this.esc(this.query)}">
         </div>
 
-        <div id="tad-grid" class="grid gap-4 md:grid-cols-2 xl:grid-cols-3">${this.gridHtml()}</div>
+        <div id="tad-grid" class="${this.gridClass()}">${this.itemsHtml()}</div>
       </div>`;
   }
 }
