@@ -31,12 +31,11 @@ const APP_NAV_PRIMARY = [
       { tab: 'quiz', emoji: '❓', label: 'quiz' },
       { tab: 'audio', emoji: '🎧', label: 'audio' },
       { tab: 'khatmah', emoji: '📅', label: 'khatmah_title' },
-      { id: 'learn', emoji: '🎓', label: 'learn', children: [
-          { module: 'kids',        emoji: '🧒', label: 'learn_kids_title' },
-          { module: 'vocab',       emoji: '📚', label: 'learn_vocab_title' },
-          { module: 'handwriting', emoji: '✍️', label: 'hw_title' },
-          { tab: 'tajweedlearn', emoji: '🎨', label: 'tj_learn_title' }
-        ] }
+      { tab: 'learn', emoji: '🎓', label: 'learn' },
+      { module: 'vocab',       emoji: '📚', label: 'learn_vocab_title' },
+      { module: 'kids',        emoji: '🧒', label: 'learn_kids_title' },
+      { module: 'handwriting', emoji: '✍️', label: 'hw_title' },
+      { tab: 'tajweedlearn', emoji: '🎨', label: 'tj_learn_title' }
     ] },
   { id: 'quranicarabic', emoji: '🔤', label: 'qa_title', tab: 'quranicarabic' },
   { id: 'names', emoji: '✨', label: 'learn_names_title', tab: 'names' },
