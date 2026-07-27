@@ -38,8 +38,20 @@ const VOCAB_I18N_FALLBACK = {
   vocab_favorite:       { en: 'Favorite', bn: 'প্রিয়', zh: '收藏', ja: 'お気に入り'},
   vocab_search:         { en: 'Search words…', bn: 'শব্দ খুঁজুন…', zh: '搜索单词…', ja: '単語を検索…'},
   vocab_no_matches:     { en: 'No matching words', bn: 'কোনো মিল পাওয়া শব্দ নেই', zh: '没有匹配的单词', ja: '一致する単語がありません'},
-  vocab_clear_search:   { en: 'Clear', bn: 'মুছুন', zh: '清除', ja: 'クリア'}
+  vocab_clear_search:   { en: 'Clear', bn: 'মুছুন', zh: '清除', ja: 'クリア'},
+  vocab_level:          { en: 'Level', bn: 'স্তর', zh: '级', ja: 'レベル'},
+  vocab_all_levels:     { en: 'All levels', bn: 'সব স্তর', zh: '全部级别', ja: 'すべてのレベル'}
 };
+
+/** Frequency bands for the full ≥2-occurrence corpus deck (most → least common). */
+const VOCAB_LEVELS = [
+  { lo: 300, hi: Infinity, label: '×300+' },
+  { lo: 100, hi: 299,      label: '×100–299' },
+  { lo: 40,  hi: 99,       label: '×40–99' },
+  { lo: 10,  hi: 39,       label: '×10–39' },
+  { lo: 3,   hi: 9,        label: '×3–9' },
+  { lo: 2,   hi: 2,        label: '×2' }
+];
 
 class VocabTrainer {
   constructor() {
@@ -53,6 +65,7 @@ class VocabTrainer {
     this.rendered = false;
     this.mode = 'flashcards';
     this.category = 'all';       // flashcards filter: 'all', 'fav', or a VOCAB_THEMES id
+    this.level = 0;              // frequency-band filter in 'all': 0 = every level, 1-6 = VOCAB_LEVELS index+1
     this.search = '';            // flashcards free-text filter (arabic/translit/meaning)
 
     // Quiz state
@@ -477,6 +490,15 @@ class VocabTrainer {
         }
         break;
       }
+      case 'vlevel': {
+        const lv = parseInt(el.getAttribute('data-lv'), 10) || 0;
+        if (lv !== this.level) {
+          this.level = lv;
+          this.page = 0;
+          this.render();
+        }
+        break;
+      }
       case 'quiz-type': {
         const ty = el.getAttribute('data-qt');
         if (ty !== this.quizType) {
@@ -596,9 +618,8 @@ class VocabTrainer {
       });
       this.extra = Object.entries(idx)
         .map(([norm, occs]) => ({ norm, count: occs.length, first: occs[0] }))
-        .filter(e => !curated.has(e.norm) && e.count >= 40)
+        .filter(e => !curated.has(e.norm) && e.count >= 2)
         .sort((a, b) => b.count - a.count)
-        .slice(0, 250)
         .map(e => {
           const [s, a, w] = e.first.split(':').map(Number);
           const display = (words[`${s}:${a}`] || [])[w - 1] || e.norm;
@@ -625,6 +646,8 @@ class VocabTrainer {
     } else {
       list = VOCAB_WORDS.map(w => ({ ...w, key: w.arabic }))
         .concat(this.extra || []);
+      const band = this.level ? VOCAB_LEVELS[this.level - 1] : null;
+      if (band) list = list.filter(w => w.count >= band.lo && w.count <= band.hi);
     }
     const favSet = new Set(this.getFav());
     return list.map(w => ({ ...w, key: w.key || w.arabic, known: known.has(w.arabic), fav: favSet.has(w.arabic) }));
@@ -744,6 +767,19 @@ class VocabTrainer {
                   </button>`;
         }).join('')}
       </div>
+      ${(this.category || 'all') === 'all' ? `
+      <div class="flex flex-wrap justify-center gap-1.5">
+        ${[{ lv: 0, label: this.tt('vocab_all_levels') }]
+          .concat(VOCAB_LEVELS.map((b, i) => ({ lv: i + 1, label: `${this.tt('vocab_level')} ${i + 1} · ${b.label}` })))
+          .map(o => {
+            const active = (this.level || 0) === o.lv;
+            const cls = active
+              ? 'bg-primary text-white border-primary'
+              : 'bg-white dark:bg-gray-800 text-gray-500 dark:text-gray-400 border-gray-200 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-700';
+            return `<button data-action="vlevel" data-lv="${o.lv}"
+                      class="px-2.5 py-1 rounded-full text-[0.7rem] font-medium border transition-colors ${cls}">${o.label}</button>`;
+          }).join('')}
+      </div>` : ''}
       <div class="max-w-sm mx-auto relative">
         <input data-vsearch type="search" value="${this.escapeHtml(this.search || '')}"
                placeholder="🔍 ${this.tt('vocab_search')}" dir="auto"
