@@ -241,6 +241,17 @@ class QuranApp {
     this.collectionContext = this.pendingContext || null;
     this.pendingContext = null;
 
+    // Loaded ayahs render into #ayah-container (the Reading panel). If the user
+    // triggered a load from a non-reading module (dashboard, tadabbur, names, a
+    // topic/dua collection, the Juz quick-nav, a deep-link…), that panel is
+    // hidden, so bring Reading forward. Users already on a content tab
+    // (word-by-word, tafseer, grammar, tajweed, search) are left in place.
+    const CONTENT_TABS = new Set(['reading', 'wordbyword', 'tafseer', 'grammar', 'tajweedreading', 'search']);
+    if (typeof tabSystem !== 'undefined' && tabSystem &&
+        !CONTENT_TABS.has(tabSystem.getActiveTab())) {
+      tabSystem.switchTab('reading');
+    }
+
     this.showLoading(true);
 
     try {
