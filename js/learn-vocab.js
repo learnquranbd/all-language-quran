@@ -366,6 +366,41 @@ class VocabTrainer {
 
   // ---------- events ----------
 
+  /** 📖 chip: show EVERY ayah containing this word in the shared timeline
+   * overlay (diacritic-insensitive match, وَ/فَ proclitics allowed), capped
+   * for render weight. Falls back to the single example-verse modal if the
+   * corpus/timeline is unavailable or nothing matches. */
+  async openWordTimeline(word, ref) {
+    try {
+      if (typeof ayahTimeline === 'undefined' || !ayahTimeline ||
+          typeof QuranData === 'undefined' || !QuranData.getQuranWords) throw new Error('unavailable');
+      const corpus = await QuranData.getQuranWords();
+      const tgt = ayahTimeline.norm(word);
+      if (!corpus || !tgt) throw new Error('no corpus');
+      const hit = (n) => n === tgt || ((n[0] === 'و' || n[0] === 'ف') && n.slice(1) === tgt);
+      const refs = [];
+      for (const k in corpus) {
+        const toks = corpus[k];
+        for (let i = 0; i < toks.length; i++) {
+          if (hit(ayahTimeline.norm(toks[i]))) { refs.push(k); break; }
+        }
+      }
+      if (!refs.length) throw new Error('no matches');
+      const ord = k => { const [s, a] = k.split(':').map(Number); return s * 1000 + a; };
+      refs.sort((a, b) => ord(a) - ord(b));
+      const CAP = 50;
+      ayahTimeline.open({
+        title: t('names_search_quran', this.language),
+        titleAr: word,
+        subtitle: refs.length > CAP ? `1–${CAP} / ${refs.length}` : '',
+        refs: refs.slice(0, CAP),
+        phrase: word
+      });
+    } catch (e) {
+      if (ref && typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: word || null });
+    }
+  }
+
   onClick(e) {
     const h2 = e.target.closest('h2');
     if (h2 && this.root.contains(h2)) { this.setMode('flashcards'); this.category = 'all'; this.search = ''; this.quiz = null; this.render(); return; }
@@ -375,7 +410,7 @@ class VocabTrainer {
       e.stopPropagation();
       const ref = vv.getAttribute('data-vocab-verse');
       const word = vv.getAttribute('data-word');
-      if (typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: word || null });
+      this.openWordTimeline(word, ref);
       return;
     }
 
@@ -660,8 +695,8 @@ class VocabTrainer {
           <div class="flex items-center gap-2">
             <button data-action="wotd-audio" title="${this.tt('vocab_play_word')}"
                     class="w-11 h-11 rounded-full bg-white/20 hover:bg-white/35 text-xl transition-colors">🔊</button>
-            ${ref ? `<button data-vocab-verse="${ref}" data-word="${this.escapeHtml(w.arabic)}" title="${t('names_search_quran', lang)}"
-                    class="w-11 h-11 rounded-full bg-white/20 hover:bg-white/35 text-xl transition-colors">📖</button>` : ''}
+            <button data-vocab-verse="${ref || ''}" data-word="${this.escapeHtml(w.arabic)}" title="${t('names_search_quran', lang)}"
+                    class="w-11 h-11 rounded-full bg-white/20 hover:bg-white/35 text-xl transition-colors">📖</button>
             <button data-vfav="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_favorite')}" aria-label="${this.tt('vocab_favorite')}"
                     class="w-11 h-11 rounded-full ${fav ? 'bg-rose-500' : 'bg-white/20 hover:bg-white/35'} text-xl transition-colors">${fav ? '❤️' : '🤍'}</button>
             <button data-vknow="${this.escapeHtml(w.arabic)}" title="${t('vocab_know_it', lang)}"
@@ -743,8 +778,8 @@ class VocabTrainer {
             </button>
             <div class="flex items-center justify-center flex-wrap gap-1.5">
               <span class="text-xs text-gray-400">×${w.count}</span>
-              ${ref ? `<button data-vocab-verse="${ref}" data-word="${this.escapeHtml(w.arabic)}" title="${t('names_search_quran', lang)}"
-                      class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-primary hover:text-white">📖</button>` : ''}
+              <button data-vocab-verse="${ref || ''}" data-word="${this.escapeHtml(w.arabic)}" title="${t('names_search_quran', lang)}"
+                      class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-primary hover:text-white">📖</button>
               <button data-vfav="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_favorite')}" aria-label="${this.tt('vocab_favorite')}"
                       class="text-xs px-1.5 py-0.5 rounded-full ${w.fav ? 'bg-rose-500 text-white' : 'bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-rose-500 hover:text-white'}">${w.fav ? '❤️' : '🤍'}</button>
               <button data-vknow="${this.escapeHtml(w.arabic)}" title="${t('vocab_know_it', lang)}"
