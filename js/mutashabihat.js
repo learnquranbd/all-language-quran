@@ -379,31 +379,69 @@ class Mutashabihat {
     });
   }
 
+  /** The group's SHARED words per verse, derived from the verse texts
+   * themselves: runs of ≥2 consecutive words that occur in at least half the
+   * group's verses, grown across adjacent shared words. Verse-specific
+   * passages (e.g. 2:144's qibla phrase, shared only with 2:149/150) stay
+   * unhighlighted, and near-variant endings (تعملون / يعملون) are kept only
+   * when at least one other verse shares them — so the DIFFERING word stands
+   * out unmarked. */
+  groupMarks(g) {
+    if (!this.words || typeof ayahTimeline === 'undefined' || !ayahTimeline) return null;
+    const verses = g.verses.filter(v => (this.words[v] || []).length);
+    if (verses.length < 2) return null;
+    const normed = {}, df = {};
+    for (const v of verses) {
+      normed[v] = this.words[v].map(t => ayahTimeline.norm(t));
+      for (const t of new Set(normed[v])) df[t] = (df[t] || 0) + 1;
+    }
+    const need = Math.max(2, Math.ceil(verses.length / 2));
+    const marks = {};
+    for (const v of verses) {
+      const toks = normed[v];
+      const strong = toks.map(t => (df[t] || 0) >= need);
+      const weak = toks.map(t => (df[t] || 0) >= 2);
+      const keep = new Array(toks.length).fill(false);
+      let i = 0;
+      while (i < toks.length) {
+        if (!strong[i]) { i++; continue; }
+        let j = i;
+        while (j < toks.length && strong[j]) j++;
+        if (j - i >= 2) {
+          for (let k = i; k < j; k++) keep[k] = true;
+          if (i > 0 && weak[i - 1]) keep[i - 1] = true;          // variant word at the edge
+          if (j < toks.length && weak[j]) keep[j] = true;
+        }
+        i = j;
+      }
+      // Grow: shared words directly adjacent to a kept run join it (bridges
+      // runs split by a single variant word, e.g. وما ربك بغفل عما تعملون).
+      let changed = true;
+      while (changed) {
+        changed = false;
+        for (let k = 0; k < toks.length; k++) {
+          if (!keep[k] && strong[k] && ((k > 0 && keep[k - 1]) || (k + 1 < toks.length && keep[k + 1]))) {
+            keep[k] = true; changed = true;
+          }
+        }
+      }
+      const pos = [];
+      for (let k = 0; k < toks.length; k++) if (keep[k]) pos.push(k + 1);
+      if (pos.length) marks[v] = pos;
+    }
+    return Object.keys(marks).length ? marks : null;
+  }
+
   openGroupViewer(id) {
     const g = (typeof MUTASHABIHAT_GROUPS !== 'undefined' ? MUTASHABIHAT_GROUPS : []).find(x => x.id === id);
     if (!g || typeof ayahTimeline === 'undefined') return;
-    // Highlight the mutashabihat parts: the word ranges each verse shares with
-    // OTHER verses of this group, straight from the similarity index. Verses
-    // the index doesn't cover fall back to matching the group's Arabic name.
-    const inGroup = new Set(g.verses);
-    const marks = {};
-    if (this.index) {
-      for (const v of g.verses) {
-        const set = new Set();
-        for (const sim of (this.index[v] || [])) {
-          const ref = sim[0], len = sim[1] || 0, start = sim[2] || 0;
-          if (!inGroup.has(ref)) continue;
-          for (let i = 0; i < len; i++) set.add(start + i + 1);   // 1-based word positions
-        }
-        if (set.size) marks[v] = Array.from(set).sort((a, b) => a - b);
-      }
-    }
+    const marks = this.groupMarks(g);
     ayahTimeline.open({
       title: this.L({ en: g.nameEn, bn: g.nameBn }),
       titleAr: g.nameAr,
       subtitle: this.L({ en: g.descEn, bn: g.descBn }),
       refs: g.verses,
-      marks: Object.keys(marks).length ? marks : undefined,
+      marks: marks || undefined,
       phrase: g.nameAr
     });
   }
