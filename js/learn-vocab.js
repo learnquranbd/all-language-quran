@@ -40,7 +40,9 @@ const VOCAB_I18N_FALLBACK = {
   vocab_no_matches:     { en: 'No matching words', bn: 'কোনো মিল পাওয়া শব্দ নেই', zh: '没有匹配的单词', ja: '一致する単語がありません'},
   vocab_clear_search:   { en: 'Clear', bn: 'মুছুন', zh: '清除', ja: 'クリア'},
   vocab_level:          { en: 'Level', bn: 'স্তর', zh: '级', ja: 'レベル'},
-  vocab_all_levels:     { en: 'All levels', bn: 'সব স্তর', zh: '全部级别', ja: 'すべてのレベル'}
+  vocab_all_levels:     { en: 'All levels', bn: 'সব স্তর', zh: '全部级别', ja: 'すべてのレベル'},
+  vocab_word_ayahs:     { en: 'Ayahs with this word', bn: 'এই শব্দটি যেসব আয়াতে', zh: '含此词的经文', ja: 'この語を含む節'},
+  vocab_root_ayahs:     { en: 'Ayahs with this root', bn: 'একই মূল (রুট) যেসব আয়াতে', zh: '同词根的经文', ja: '同じ語根の節'}
 };
 
 /** Frequency bands for the full ≥2-occurrence corpus deck (most → least common). */
@@ -380,9 +382,11 @@ class VocabTrainer {
   // ---------- events ----------
 
   /** 📖 chip: show EVERY ayah containing this word in the shared timeline
-   * overlay (diacritic-insensitive match, وَ/فَ proclitics allowed), capped
-   * for render weight. Falls back to the single example-verse modal if the
-   * corpus/timeline is unavailable or nothing matches. */
+   * overlay, capped for render weight. Matching is diacritic-insensitive and
+   * affix-aware: attached articles/prepositions (وal-, bil-, lil-, …) and
+   * pronoun/case suffixes (-hu, -hum, -an, …) count as the same word, since
+   * citation forms like لَيْل almost never appear bare in the mushaf. Falls
+   * back to the single example-verse modal when nothing matches. */
   async openWordTimeline(word, ref) {
     try {
       if (typeof ayahTimeline === 'undefined' || !ayahTimeline ||
@@ -390,28 +394,100 @@ class VocabTrainer {
       const corpus = await QuranData.getQuranWords();
       const tgt = ayahTimeline.norm(word);
       if (!corpus || !tgt) throw new Error('no corpus');
-      const hit = (n) => n === tgt || ((n[0] === 'و' || n[0] === 'ف') && n.slice(1) === tgt);
-      const refs = [];
+      const hit = this.wordMatcher(tgt);
+      const marks = {};   // "s:a" -> [1-based matched word positions]
       for (const k in corpus) {
         const toks = corpus[k];
         for (let i = 0; i < toks.length; i++) {
-          if (hit(ayahTimeline.norm(toks[i]))) { refs.push(k); break; }
+          if (hit(ayahTimeline.norm(toks[i]))) (marks[k] = marks[k] || []).push(i + 1);
         }
       }
-      if (!refs.length) throw new Error('no matches');
-      const ord = k => { const [s, a] = k.split(':').map(Number); return s * 1000 + a; };
-      refs.sort((a, b) => ord(a) - ord(b));
-      const CAP = 50;
-      ayahTimeline.open({
-        title: t('names_search_quran', this.language),
-        titleAr: word,
-        subtitle: refs.length > CAP ? `1–${CAP} / ${refs.length}` : '',
-        refs: refs.slice(0, CAP),
-        phrase: word
-      });
+      this.openMarkedTimeline(marks, this.tt('vocab_word_ayahs'), word);
     } catch (e) {
       if (ref && typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: word || null });
     }
+  }
+
+  /** 🌱 chip: every ayah sharing the word's ROOT (from the bundled root index),
+   * with each root-derived word highlighted. Falls back to the exact-word
+   * timeline when the word has no known root (particles, pronouns, …). */
+  async openRootTimeline(word, ref) {
+    try {
+      if (typeof ayahTimeline === 'undefined' || !ayahTimeline ||
+          typeof QuranData === 'undefined' || !QuranData.getRoots) throw new Error('unavailable');
+      const [roots, corpus] = await Promise.all([QuranData.getRoots(), QuranData.getQuranWords()]);
+      if (!roots || !corpus) throw new Error('no data');
+      // position -> root reverse index, built once
+      if (!this._posToRoot) {
+        this._posToRoot = {};
+        for (const r in roots) for (const pos of roots[r]) this._posToRoot[pos] = r;
+      }
+      // The word's root: poll the roots of its first corpus occurrences
+      // (affix-insensitive), majority wins — robust against homographs.
+      const tgt = ayahTimeline.norm(word);
+      const hit = this.wordMatcher(tgt);
+      const votes = {};
+      let seen = 0;
+      outer:
+      for (const k in corpus) {
+        const toks = corpus[k];
+        for (let i = 0; i < toks.length; i++) {
+          if (hit(ayahTimeline.norm(toks[i]))) {
+            const r = this._posToRoot[`${k}:${i + 1}`];
+            if (r) votes[r] = (votes[r] || 0) + 1;
+            if (++seen >= 25) break outer;
+          }
+        }
+      }
+      const root = Object.keys(votes).sort((a, b) => votes[b] - votes[a])[0];
+      if (!root) return this.openWordTimeline(word, ref);
+      const marks = {};
+      for (const pos of roots[root]) {
+        const [s, a, w] = pos.split(':');
+        (marks[`${s}:${a}`] = marks[`${s}:${a}`] || []).push(parseInt(w, 10));
+      }
+      this.openMarkedTimeline(marks, this.tt('vocab_root_ayahs'), root.split('').join('-'));
+    } catch (e) {
+      this.openWordTimeline(word, ref);
+    }
+  }
+
+  /** Affix-aware matcher for a normalized target: attached articles /
+   * prepositions and pronoun/case suffixes count as the same word, since
+   * citation forms like لَيْل almost never appear bare in the mushaf. */
+  wordMatcher(tgt) {
+    const PRE = ['و', 'ف', 'ب', 'ل', 'ك', 'س', 'ال', 'وال', 'فال', 'بال', 'كال',
+                 'لل', 'ولل', 'فلل', 'وب', 'فب', 'ول', 'فل', 'وك', 'فك', 'وس', 'فس'];
+    // ال + a lam-initial word is written with one assimilated lam (ٱلَّيْل),
+    // so the article family degrades to a bare alef for those words only.
+    if (tgt[0] === 'ل') PRE.push('ا', 'وا', 'فا', 'با', 'كا', 'وبا', 'فبا');
+    const SUF = ['ا', 'ه', 'ها', 'هم', 'هن', 'ك', 'كم', 'كن', 'نا', 'ني', 'ي',
+                 'ين', 'ون', 'ان', 'ات', 'تم', 'وا', 'ن', 'ت'];
+    return (n) => {
+      if (n === tgt) return true;
+      for (let j = n.indexOf(tgt); j !== -1; j = n.indexOf(tgt, j + 1)) {
+        const pre = n.slice(0, j), suf = n.slice(j + tgt.length);
+        if ((pre === '' || PRE.includes(pre)) && (suf === '' || SUF.includes(suf))) return true;
+      }
+      return false;
+    };
+  }
+
+  /** Open the shared timeline over a marks map ("s:a" -> highlighted word
+   * positions), mushaf-ordered and capped for render weight. */
+  openMarkedTimeline(marks, title, titleAr) {
+    const refs = Object.keys(marks);
+    if (!refs.length) throw new Error('no matches');
+    const ord = k => { const [s, a] = k.split(':').map(Number); return s * 1000 + a; };
+    refs.sort((a, b) => ord(a) - ord(b));
+    const CAP = 50;
+    ayahTimeline.open({
+      title,
+      titleAr,
+      subtitle: refs.length > CAP ? `1–${CAP} / ${refs.length}` : '',
+      refs: refs.slice(0, CAP),
+      marks
+    });
   }
 
   onClick(e) {
@@ -424,6 +500,12 @@ class VocabTrainer {
       const ref = vv.getAttribute('data-vocab-verse');
       const word = vv.getAttribute('data-word');
       this.openWordTimeline(word, ref);
+      return;
+    }
+    const vr = e.target.closest('[data-vocab-root]');
+    if (vr) {
+      e.stopPropagation();
+      this.openRootTimeline(vr.getAttribute('data-vocab-root'), vr.getAttribute('data-ref') || '');
       return;
     }
 
@@ -718,8 +800,10 @@ class VocabTrainer {
           <div class="flex items-center gap-2">
             <button data-action="wotd-audio" title="${this.tt('vocab_play_word')}"
                     class="w-11 h-11 rounded-full bg-white/20 hover:bg-white/35 text-xl transition-colors">🔊</button>
-            <button data-vocab-verse="${ref || ''}" data-word="${this.escapeHtml(w.arabic)}" title="${t('names_search_quran', lang)}"
+            <button data-vocab-verse="${ref || ''}" data-word="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_word_ayahs')}"
                     class="w-11 h-11 rounded-full bg-white/20 hover:bg-white/35 text-xl transition-colors">📖</button>
+            <button data-vocab-root="${this.escapeHtml(w.arabic)}" data-ref="${ref || ''}" title="${this.tt('vocab_root_ayahs')}"
+                    class="w-11 h-11 rounded-full bg-white/20 hover:bg-white/35 text-xl transition-colors">🌱</button>
             <button data-vfav="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_favorite')}" aria-label="${this.tt('vocab_favorite')}"
                     class="w-11 h-11 rounded-full ${fav ? 'bg-rose-500' : 'bg-white/20 hover:bg-white/35'} text-xl transition-colors">${fav ? '❤️' : '🤍'}</button>
             <button data-vknow="${this.escapeHtml(w.arabic)}" title="${t('vocab_know_it', lang)}"
@@ -814,8 +898,10 @@ class VocabTrainer {
             </button>
             <div class="flex items-center justify-center flex-wrap gap-1.5">
               <span class="text-xs text-gray-400">×${w.count}</span>
-              <button data-vocab-verse="${ref || ''}" data-word="${this.escapeHtml(w.arabic)}" title="${t('names_search_quran', lang)}"
+              <button data-vocab-verse="${ref || ''}" data-word="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_word_ayahs')}"
                       class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-primary hover:text-white">📖</button>
+              <button data-vocab-root="${this.escapeHtml(w.arabic)}" data-ref="${ref || ''}" title="${this.tt('vocab_root_ayahs')}"
+                      class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-green-600 hover:text-white">🌱</button>
               <button data-vfav="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_favorite')}" aria-label="${this.tt('vocab_favorite')}"
                       class="text-xs px-1.5 py-0.5 rounded-full ${w.fav ? 'bg-rose-500 text-white' : 'bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-rose-500 hover:text-white'}">${w.fav ? '❤️' : '🤍'}</button>
               <button data-vknow="${this.escapeHtml(w.arabic)}" title="${t('vocab_know_it', lang)}"

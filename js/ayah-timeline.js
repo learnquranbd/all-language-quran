@@ -134,11 +134,13 @@ class AyahTimeline {
     this._el = el;
     window.addEventListener('tabChanged', () => this.close(), { once: true });
 
-    // Fill Arabic (with shared-phrase highlighting) and translations asynchronously.
-    this.fill(el, refs, o.phrase);
+    // Fill Arabic (with shared-phrase / marked-word highlighting) and
+    // translations asynchronously. o.marks: { "s:a": [1-based word indices] }
+    // highlights exact known positions and takes precedence over phrase search.
+    this.fill(el, refs, o.phrase, o.marks);
   }
 
-  async fill(el, refs, phrase) {
+  async fill(el, refs, phrase, marks) {
     const words = await this.words();
     if (this._el !== el) return; // closed while loading
     if (words) {
@@ -147,9 +149,10 @@ class AyahTimeline {
         const node = el.querySelector(`[data-at-ar="${first}"]`);
         const w = words[first];
         if (!node || !Array.isArray(w)) continue;
-        const hl = phrase ? this.matchPhrase(w, phrase) : null;
+        const marked = (marks && Array.isArray(marks[first])) ? new Set(marks[first]) : null;
+        const hl = (!marked && phrase) ? this.matchPhrase(w, phrase) : null;
         node.innerHTML = w.map((tok, i) => {
-          const hit = hl && i >= hl.start && i < hl.start + hl.len;
+          const hit = marked ? marked.has(i + 1) : (hl && i >= hl.start && i < hl.start + hl.len);
           return hit
             ? `<span class="rounded px-0.5 bg-amber-200/70 dark:bg-amber-500/30 text-amber-900 dark:text-amber-200">${this.esc(tok)}</span>`
             : this.esc(tok);
