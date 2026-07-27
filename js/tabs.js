@@ -27,6 +27,7 @@ const TAB_META = {
   tajweedlearn: { emoji: '🎨', key: 'tj_learn_title' },
   resources:    { emoji: '🔗', key: 'resources_title' },
   mutashabihat: { emoji: '🪞', key: 'mutashabihat_title' },
+  tadabbur:     { emoji: '💭', key: 'tadabbur_title' },
   quranicarabic: { emoji: '🔤', key: 'qa_title' },
   seerah:       { emoji: '🌙', key: 'seerah_title' },
   whyislam:     { emoji: '💡', key: 'whyislam_title' },
@@ -144,7 +145,7 @@ class TabSystem {
     // (learn, memorize, amal, whyislam, resources, prophets, seerah, etc.)
     const quranTabs = new Set([
       'reading', 'search', 'tafseer', 'wordbyword', 'grammar', 'tajweedreading',
-      'mushaf', 'topics', 'wordrepeat', 'sarf', 'mutashabihat', 'nuzul',
+      'mushaf', 'topics', 'wordrepeat', 'sarf', 'mutashabihat', 'tadabbur', 'nuzul',
       'quiz', 'audio', 'khatmah', 'tajweedlearn'
     ]);
     this.tabNav.classList.toggle('hidden', !quranTabs.has(tabId));

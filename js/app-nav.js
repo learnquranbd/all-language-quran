@@ -24,6 +24,7 @@ const APP_NAV_PRIMARY = [
       { tab: 'subject', emoji: '📖', label: 'nav_subject', drill: 'legacy' },
       { tab: 'topics', emoji: '🗂️', label: 'topics_title' },
       { tab: 'mutashabihat', emoji: '🪞', label: 'mutashabihat_title' },
+      { tab: 'tadabbur', emoji: '💭', label: 'tadabbur_title' },
       { tab: 'wordrepeat', emoji: '🔁', label: 'wr_title' },
       { tab: 'sarf', emoji: '🧬', label: 'sarf_title' },
       { tab: 'nuzul', emoji: '🌅', label: 'nuzul_title' },
