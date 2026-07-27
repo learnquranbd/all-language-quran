@@ -332,11 +332,10 @@ class Mutashabihat {
             <span class="shrink-0 px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 text-[0.65rem] font-medium">${g.verses.length} ${this.tt('mt_group_verses_label')}</span>
           </div>
           <p class="text-xs text-gray-500 dark:text-gray-400 mb-3 leading-relaxed">${this.esc(this.L({ en: g.descEn, bn: g.descBn }))}</p>
-          <div class="flex flex-wrap gap-1.5">${chips}</div>
-          <button data-mt-group-view="${g.id}"
-            class="mt-3 w-full inline-flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-xs font-medium hover:bg-primary/20 dark:hover:bg-primary/30 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
+          <div class="flex flex-wrap gap-1.5">${chips}<button data-mt-group-view="${g.id}"
+            class="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-xs font-medium hover:bg-primary/20 dark:hover:bg-primary/30 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
             🕐 ${this.esc(this.tt('mt_group_open_all'))} · ${g.verses.length}
-          </button>
+          </button></div>
         </div>`;
     }).join('');
     return `
