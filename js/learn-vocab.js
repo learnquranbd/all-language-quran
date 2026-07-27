@@ -387,7 +387,7 @@ class VocabTrainer {
    * pronoun/case suffixes (-hu, -hum, -an, …) count as the same word, since
    * citation forms like لَيْل almost never appear bare in the mushaf. Falls
    * back to the single example-verse modal when nothing matches. */
-  async openWordTimeline(word, ref, formNorm) {
+  async openWordTimeline(word, ref, formNorm, noBounce) {
     try {
       if (typeof ayahTimeline === 'undefined' || !ayahTimeline ||
           typeof QuranData === 'undefined' || !QuranData.getQuranWords) throw new Error('unavailable');
@@ -405,7 +405,7 @@ class VocabTrainer {
       const corpus = await QuranData.getQuranWords();
       const tgt = ayahTimeline.norm(word);
       if (!corpus || !tgt) throw new Error('no corpus');
-      const hit = this.wordMatcher(tgt);
+      const hit = this.wordMatcher(tgt, word);
       const marks = {};   // "s:a" -> [1-based matched word positions]
       let occ = 0;
       for (const k in corpus) {
@@ -417,13 +417,17 @@ class VocabTrainer {
       this.openMarkedTimeline(marks, this.tt('vocab_word_ayahs'), word, occ);
     } catch (e) {
       if (ref && typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: word || null });
+      // No example ref and no matches (verb citation forms): show the root
+      // ayahs rather than doing nothing. noBounce breaks the mutual fallback;
+      // await so the fallback can't race a later timeline open.
+      else if (!noBounce) await this.openRootTimeline(word, ref, formNorm, true);
     }
   }
 
   /** 🌱 chip: every ayah sharing the word's ROOT (from the bundled root index),
    * with each root-derived word highlighted. Falls back to the exact-word
    * timeline when the word has no known root (particles, pronouns, …). */
-  async openRootTimeline(word, ref, formNorm) {
+  async openRootTimeline(word, ref, formNorm, noBounce) {
     try {
       if (typeof ayahTimeline === 'undefined' || !ayahTimeline ||
           typeof QuranData === 'undefined' || !QuranData.getRoots) throw new Error('unavailable');
@@ -450,7 +454,7 @@ class VocabTrainer {
       // (affix-insensitive), majority wins — robust against homographs.
       if (!root) {
         const corpus = await QuranData.getQuranWords();
-        const hit = this.wordMatcher(ayahTimeline.norm(word));
+        const hit = this.wordMatcher(ayahTimeline.norm(word), word);
         const votes = {};
         let seen = 0;
         outer:
@@ -466,11 +470,17 @@ class VocabTrainer {
         }
         root = Object.keys(votes).sort((a, b) => votes[b] - votes[a])[0];
       }
-      if (!root || !roots[root]) return this.openWordTimeline(word, ref, formNorm);
+      // The citation form's own letters as a root key (verbs like عَقَلَ).
+      if (!root) { const k = ayahTimeline.norm(word); if (roots[k]) root = k; }
+      if (!root || !roots[root]) {
+        if (!noBounce) return this.openWordTimeline(word, ref, formNorm, true);
+        if (ref && typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: word || null });
+        return;
+      }
       this.openMarkedTimeline(this.marksFromPositions(roots[root]), this.tt('vocab_root_ayahs'),
         root.split('').join('-'), roots[root].length);
     } catch (e) {
-      this.openWordTimeline(word, ref, formNorm);
+      if (!noBounce) await this.openWordTimeline(word, ref, formNorm, true);
     }
   }
 
@@ -487,8 +497,12 @@ class VocabTrainer {
 
   /** Affix-aware matcher for a normalized target: attached articles /
    * prepositions and pronoun/case suffixes count as the same word, since
-   * citation forms like لَيْل almost never appear bare in the mushaf. */
-  wordMatcher(tgt) {
+   * citation forms like لَيْل almost never appear bare in the mushaf.
+   * `rawWord` (the unnormalized citation form) gates tāʾ-marbūṭa spelling
+   * variants — the mushaf writes صلاة as صلوة, رحمة as رحمت, بركة plural as
+   * بركات. Gating on the raw ة is essential: after normalization ة and ه are
+   * identical, and un-gated variants would make اللّٰه match اللات. */
+  wordMatcher(tgt, rawWord) {
     const PRE = ['و', 'ف', 'ب', 'ل', 'ك', 'س', 'ال', 'وال', 'فال', 'بال', 'كال',
                  'لل', 'ولل', 'فلل', 'وب', 'فب', 'ول', 'فل', 'وك', 'فك', 'وس', 'فس'];
     // ال + a lam-initial word is written with one assimilated lam (ٱلَّيْل),
@@ -496,11 +510,19 @@ class VocabTrainer {
     if (tgt[0] === 'ل') PRE.push('ا', 'وا', 'فا', 'با', 'كا', 'وبا', 'فبا');
     const SUF = ['ا', 'ه', 'ها', 'هم', 'هن', 'ك', 'كم', 'كن', 'نا', 'ني', 'ي',
                  'ين', 'ون', 'ان', 'ات', 'تم', 'وا', 'ن', 'ت'];
+    const alts = [tgt];
+    if (/ة[ً-ٟ]*$/.test(String(rawWord || '').trim())) {
+      if (tgt.endsWith('اه')) alts.push(tgt.slice(0, -2) + 'واه');  // صلاة → صلوة class
+      alts.push(tgt.slice(0, -1) + 'ت');                            // رحمة → رحمت open tāʾ
+      alts.push(tgt.slice(0, -1) + 'ات');                           // بركة → بركات plural
+    }
     return (n) => {
-      if (n === tgt) return true;
-      for (let j = n.indexOf(tgt); j !== -1; j = n.indexOf(tgt, j + 1)) {
-        const pre = n.slice(0, j), suf = n.slice(j + tgt.length);
-        if ((pre === '' || PRE.includes(pre)) && (suf === '' || SUF.includes(suf))) return true;
+      for (const t of alts) {
+        if (n === t) return true;
+        for (let j = n.indexOf(t); j !== -1; j = n.indexOf(t, j + 1)) {
+          const pre = n.slice(0, j), suf = n.slice(j + t.length);
+          if ((pre === '' || PRE.includes(pre)) && (suf === '' || SUF.includes(suf))) return true;
+        }
       }
       return false;
     };
@@ -784,7 +806,7 @@ class VocabTrainer {
     const targets = {};
     const addTarget = (w) => {
       const n = ayahTimeline.norm(w.arabic);
-      if (n && !targets[n]) targets[n] = { matcher: this.wordMatcher(n), marks: {}, occ: 0, votes: {} };
+      if (n && !targets[n]) targets[n] = { matcher: this.wordMatcher(n, w.arabic), marks: {}, occ: 0, votes: {} };
     };
     VOCAB_WORDS.forEach(addTarget);
     if (typeof VOCAB_THEMES !== 'undefined') VOCAB_THEMES.forEach(th => (th.words || []).forEach(addTarget));
@@ -816,7 +838,10 @@ class VocabTrainer {
     const out = {};
     for (const k of tKeys) {
       const tg = targets[k];
-      const root = Object.keys(tg.votes).sort((a, b) => tg.votes[b] - tg.votes[a])[0] || null;
+      let root = Object.keys(tg.votes).sort((a, b) => tg.votes[b] - tg.votes[a])[0] || null;
+      // Verb citation forms (عَقَلَ) occur only as conjugations the affix
+      // matcher can't reach — but their letters ARE the root key itself.
+      if (!root && roots && roots[k]) root = k;
       out[k] = { marks: tg.marks, occ: tg.occ, ayahs: Object.keys(tg.marks).length,
                  root, rootAyahs: root ? (this._rootAyahs || {})[root] || 0 : 0 };
     }
@@ -850,7 +875,9 @@ class VocabTrainer {
       list = VOCAB_WORDS.map(w => ({ ...w, key: w.arabic }))
         .concat(this.extra || []);
       const band = this.level ? VOCAB_LEVELS[this.level - 1] : null;
-      if (band) list = list.filter(w => w.count >= band.lo && w.count <= band.hi);
+      // Filter on the SAME number the card badge displays (computed exact
+      // occurrences once available, hand count until then).
+      if (band) list = list.filter(w => { const n = this.wordCounts(w).occ; return n >= band.lo && n <= band.hi; });
     }
     const favSet = new Set(this.getFav());
     return list.map(w => ({ ...w, key: w.key || w.arabic, known: known.has(w.arabic), fav: favSet.has(w.arabic) }));
@@ -1298,7 +1325,7 @@ class VocabTrainer {
             ? `<span class="ayah-arabic !text-2xl !leading-normal">${c.form.text}</span>`
             : (reversed
               ? `<span class="ayah-arabic !text-2xl !leading-normal">${c.word.arabic}</span>`
-              : this.meaningOf(c.word));
+              : this.escapeHtml(this.meaningOf(c.word)));
           return `
           <button data-action="quiz-choice" data-correct="${c.correct ? '1' : '0'}" dir="${arabicChoices ? 'rtl' : 'auto'}"
                   class="px-4 py-4 rounded-xl text-lg font-medium border-2 border-gray-200 dark:border-gray-700

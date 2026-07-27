@@ -93,6 +93,13 @@ class AppNav {
     window.addEventListener('tabChanged', (e) => {
       this.activeTab = e.detail.tabId;
       if (this.view === 'primary') this.highlightActive();
+      // Drilled child list: re-render so tab/mode children reflect the new
+      // active tab instead of keeping a stale highlight. Skip while the
+      // legacy subject tree is showing (root hidden) — re-rendering would
+      // yank the user out of it.
+      else if (this._childCurrent && !this.root.classList.contains('hidden')) {
+        this.renderChildren(this._childCurrent, this._childParent);
+      }
     });
   }
 
@@ -355,6 +362,7 @@ class AppNav {
     if (this.legacyWrap) this.legacyWrap.classList.add('hidden');
     this.root.classList.remove('hidden');
     this._childParent = parentPrimary || null;
+    this._childCurrent = primary;
     const items = primary.children
       ? primary.children.map(c => {
           const hasSub = c.children || c.modes;
@@ -372,7 +380,8 @@ class AppNav {
         <span class="text-xs text-gray-400">⌂</span>
       </button>
       ${items.map(it => {
-        const active = (it.kind === 'mode' && this.activeTab === 'memorize' && this.memMode === it.key);
+        const active = (it.kind === 'mode' && this.activeTab === 'memorize' && this.memMode === it.key)
+          || (it.kind === 'tab' && this.activeTab === it.key);
         return `
         <button data-child="${it.key}" data-kind="${it.kind}" data-drill="${it.drill || ''}" class="${this.itemClass(active)}">
           <span class="text-lg leading-none">${it.emoji}</span>
@@ -415,10 +424,19 @@ class AppNav {
     });
   }
 
+  /** Does this primary (or any of its descendants) own the given tab? */
+  _ownsTab(p, tab) {
+    if (!p) return false;
+    if (p.tab === tab) return true;
+    if (p.modes && tab === 'memorize') return true;
+    const walk = (kids) => (kids || []).some(c => c.tab === tab || walk(c.children));
+    return walk(p.children);
+  }
+
   highlightActive() {
     this.root.querySelectorAll('[data-primary]').forEach(btn => {
       const p = APP_NAV_PRIMARY.find(x => x.id === btn.getAttribute('data-primary'));
-      const active = p && p.tab && p.tab === this.activeTab;
+      const active = this._ownsTab(p, this.activeTab);
       btn.className = this.itemClass(active);
     });
   }

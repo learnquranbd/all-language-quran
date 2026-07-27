@@ -359,16 +359,14 @@ body {
    selectors below intentionally override earlier declarations.
    ========================================================================= */
 
-/* ---- 1. Legacy @font-face declarations -----------------------------------
-   Verified files in ../../understand-quran/firebase/public/webfonts/:
-   Kalpurush.{eot,svg,ttf,woff}  (NO woff2 exists for Kalpurush)
-   CustomArabic-Regular.{eot,svg,ttf,woff,woff2}
-   kitab.{woff,woff2}                                                        */
+/* ---- 1. @font-face declarations -------------------------------------------
+   Fonts are bundled locally in webfonts/ (woff2/woff only — universally
+   supported), so they deploy with the app instead of 404ing against the old
+   ../../understand-quran path.                                              */
 
 @font-face {
   font-family: 'Kalpurush';
-  src: url('../../understand-quran/firebase/public/webfonts/Kalpurush.woff') format('woff'),
-       url('../../understand-quran/firebase/public/webfonts/Kalpurush.ttf') format('truetype');
+  src: url('../webfonts/Kalpurush.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -376,9 +374,8 @@ body {
 
 @font-face {
   font-family: 'CustomArabic';
-  src: url('../../understand-quran/firebase/public/webfonts/CustomArabic-Regular.woff2') format('woff2'),
-       url('../../understand-quran/firebase/public/webfonts/CustomArabic-Regular.woff') format('woff'),
-       url('../../understand-quran/firebase/public/webfonts/CustomArabic-Regular.ttf') format('truetype');
+  src: url('../webfonts/CustomArabic-Regular.woff2') format('woff2'),
+       url('../webfonts/CustomArabic-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -386,8 +383,8 @@ body {
 
 @font-face {
   font-family: 'Kitab';
-  src: url('../../understand-quran/firebase/public/webfonts/kitab.woff2') format('woff2'),
-       url('../../understand-quran/firebase/public/webfonts/kitab.woff') format('woff');
+  src: url('../webfonts/kitab.woff2') format('woff2'),
+       url('../webfonts/kitab.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
