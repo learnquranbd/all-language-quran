@@ -78,19 +78,14 @@ class AyahTimeline {
 
   close() {
     if (this._el) { try { this._el.remove(); } catch (_) { /* ignore */ } this._el = null; }
+    this._paging = null;
   }
 
-  /* ---------- open ---------- */
-  open(opts) {
-    const o = opts || {};
-    const refs = (Array.isArray(o.refs) ? o.refs : []).filter(r => /^\d+:\d+(-\d+)?$/.test(String(r)));
-    if (!refs.length) return;
-    this.close();
-
-    const items = refs.map(ref => {
-      const first = String(ref).split('-')[0];
-      const [s] = first.split(':');
-      return `
+  /** One timeline entry. */
+  itemHtml(ref) {
+    const first = String(ref).split('-')[0];
+    const [s] = first.split(':');
+    return `
         <li class="relative pl-5 pb-5 border-l-2 border-primary/25 ml-2 last:pb-1">
           <span class="absolute -left-[7px] top-1 w-3 h-3 rounded-full bg-primary/70 border-2 border-white dark:border-gray-800" aria-hidden="true"></span>
           <button data-at-ref="${this.esc(first)}" title="${this.esc(first)}"
@@ -100,7 +95,44 @@ class AyahTimeline {
           <div class="ayah-arabic !text-lg !leading-loose !border-b-0 !pb-0 mt-1.5 text-gray-800 dark:text-gray-100" dir="rtl" data-at-ar="${this.esc(first)}"></div>
           <div class="text-xs text-gray-500 dark:text-gray-400 mt-1 leading-relaxed" data-at-tr="${this.esc(first)}"></div>
         </li>`;
-    }).join('');
+  }
+
+  moreLabel() {
+    const p = this._paging;
+    return p ? `${this.tt('topics_show_more')} (${p.refs.length - p.shown}) ↓` : '';
+  }
+
+  /** Append the next page of verses to an open timeline. */
+  appendChunk() {
+    const p = this._paging, el = this._el;
+    if (!p || !el) return;
+    const next = p.refs.slice(p.shown, p.shown + p.chunk);
+    if (!next.length) return;
+    const ol = el.querySelector('[data-at-list]');
+    if (!ol) return;
+    ol.insertAdjacentHTML('beforeend', next.map(r => this.itemHtml(r)).join(''));
+    p.shown += next.length;
+    const wrap = el.querySelector('[data-at-more-wrap]');
+    if (wrap) {
+      if (p.shown >= p.refs.length) wrap.remove();
+      else { const b = wrap.querySelector('[data-at-more]'); if (b) b.textContent = this.moreLabel(); }
+    }
+    this.fill(el, next, p.phrase, p.marks);
+  }
+
+  /* ---------- open ---------- */
+  open(opts) {
+    const o = opts || {};
+    const refs = (Array.isArray(o.refs) ? o.refs : []).filter(r => /^\d+:\d+(-\d+)?$/.test(String(r)));
+    if (!refs.length) return;
+    this.close();
+
+    // Render in pages of 50 — the header badge always shows the REAL total,
+    // and "show more" appends until every ref is on screen.
+    const chunk = 50;
+    const firstRefs = refs.slice(0, chunk);
+    this._paging = { refs, shown: firstRefs.length, chunk, phrase: o.phrase, marks: o.marks };
+    const items = firstRefs.map(ref => this.itemHtml(ref)).join('');
 
     const el = document.createElement('div');
     el.className = 'fixed inset-0 z-[70] flex items-end sm:items-center justify-center';
@@ -118,12 +150,16 @@ class AyahTimeline {
         </div>
         <div class="overflow-y-auto p-4 pt-3">
           ${o.subtitle ? `<p class="text-xs text-gray-500 dark:text-gray-400 mb-4 leading-relaxed" dir="auto">${this.esc(o.subtitle)}</p>` : ''}
-          <ol class="list-none m-0 p-0">${items}</ol>
+          <ol data-at-list class="list-none m-0 p-0">${items}</ol>
+          ${refs.length > chunk ? `<div data-at-more-wrap class="text-center pt-1 pb-2">
+            <button data-at-more class="px-4 py-2 rounded-lg border border-gray-200 dark:border-gray-600 text-xs font-medium text-primary dark:text-blue-300 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">${this.esc(this.moreLabel())}</button>
+          </div>` : ''}
         </div>
       </div>`;
 
     el.addEventListener('click', (e) => {
       if (e.target.closest('[data-at-close]')) { this.close(); return; }
+      if (e.target.closest('[data-at-more]')) { this.appendChunk(); return; }
       const chip = e.target.closest('[data-at-ref]');
       if (chip && typeof ayahModal !== 'undefined' && ayahModal) {
         try { ayahModal.open(chip.getAttribute('data-at-ref'), o.phrase ? { phrase: o.phrase } : undefined); } catch (_) { /* ignore */ }
@@ -137,7 +173,7 @@ class AyahTimeline {
     // Fill Arabic (with shared-phrase / marked-word highlighting) and
     // translations asynchronously. o.marks: { "s:a": [1-based word indices] }
     // highlights exact known positions and takes precedence over phrase search.
-    this.fill(el, refs, o.phrase, o.marks);
+    this.fill(el, firstRefs, o.phrase, o.marks);
   }
 
   async fill(el, refs, phrase, marks) {

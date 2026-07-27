@@ -387,22 +387,34 @@ class VocabTrainer {
    * pronoun/case suffixes (-hu, -hum, -an, …) count as the same word, since
    * citation forms like لَيْل almost never appear bare in the mushaf. Falls
    * back to the single example-verse modal when nothing matches. */
-  async openWordTimeline(word, ref) {
+  async openWordTimeline(word, ref, formNorm) {
     try {
       if (typeof ayahTimeline === 'undefined' || !ayahTimeline ||
           typeof QuranData === 'undefined' || !QuranData.getQuranWords) throw new Error('unavailable');
+      // Corpus-form card (dyn): its badge counts THIS exact form, so open
+      // exactly those positions from the word index — always in sync.
+      if (formNorm && QuranData.getWordIndex) {
+        const idx = await QuranData.getWordIndex();
+        const occs = idx[formNorm] || [];
+        if (occs.length) return this.openMarkedTimeline(this.marksFromPositions(occs), this.tt('vocab_word_ayahs'), word, occs.length);
+      }
+      // Curated/theme citation form: precomputed affix-aware match set.
+      const d = (this._wordData || {})[ayahTimeline.norm(word)];
+      if (d && d.ayahs) return this.openMarkedTimeline(d.marks, this.tt('vocab_word_ayahs'), word, d.occ);
+      // Fallback (counts not computed yet): live affix-aware corpus scan.
       const corpus = await QuranData.getQuranWords();
       const tgt = ayahTimeline.norm(word);
       if (!corpus || !tgt) throw new Error('no corpus');
       const hit = this.wordMatcher(tgt);
       const marks = {};   // "s:a" -> [1-based matched word positions]
+      let occ = 0;
       for (const k in corpus) {
         const toks = corpus[k];
         for (let i = 0; i < toks.length; i++) {
-          if (hit(ayahTimeline.norm(toks[i]))) (marks[k] = marks[k] || []).push(i + 1);
+          if (hit(ayahTimeline.norm(toks[i]))) { (marks[k] = marks[k] || []).push(i + 1); occ++; }
         }
       }
-      this.openMarkedTimeline(marks, this.tt('vocab_word_ayahs'), word);
+      this.openMarkedTimeline(marks, this.tt('vocab_word_ayahs'), word, occ);
     } catch (e) {
       if (ref && typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: word || null });
     }
@@ -411,45 +423,66 @@ class VocabTrainer {
   /** 🌱 chip: every ayah sharing the word's ROOT (from the bundled root index),
    * with each root-derived word highlighted. Falls back to the exact-word
    * timeline when the word has no known root (particles, pronouns, …). */
-  async openRootTimeline(word, ref) {
+  async openRootTimeline(word, ref, formNorm) {
     try {
       if (typeof ayahTimeline === 'undefined' || !ayahTimeline ||
           typeof QuranData === 'undefined' || !QuranData.getRoots) throw new Error('unavailable');
-      const [roots, corpus] = await Promise.all([QuranData.getRoots(), QuranData.getQuranWords()]);
-      if (!roots || !corpus) throw new Error('no data');
+      const roots = await QuranData.getRoots();
+      if (!roots) throw new Error('no data');
       // position -> root reverse index, built once
       if (!this._posToRoot) {
         this._posToRoot = {};
         for (const r in roots) for (const pos of roots[r]) this._posToRoot[pos] = r;
       }
-      // The word's root: poll the roots of its first corpus occurrences
+      let root = null;
+      // Corpus-form card: the root tagged at this form's own first position.
+      if (formNorm && QuranData.getWordIndex) {
+        const idx = await QuranData.getWordIndex();
+        const first = (idx[formNorm] || [])[0];
+        if (first) root = this._posToRoot[first] || null;
+      }
+      // Curated/theme word: precomputed majority-vote root.
+      if (!root) {
+        const d = (this._wordData || {})[ayahTimeline.norm(word)];
+        if (d) root = d.root;
+      }
+      // Fallback: poll the roots of the word's first corpus occurrences
       // (affix-insensitive), majority wins — robust against homographs.
-      const tgt = ayahTimeline.norm(word);
-      const hit = this.wordMatcher(tgt);
-      const votes = {};
-      let seen = 0;
-      outer:
-      for (const k in corpus) {
-        const toks = corpus[k];
-        for (let i = 0; i < toks.length; i++) {
-          if (hit(ayahTimeline.norm(toks[i]))) {
-            const r = this._posToRoot[`${k}:${i + 1}`];
-            if (r) votes[r] = (votes[r] || 0) + 1;
-            if (++seen >= 25) break outer;
+      if (!root) {
+        const corpus = await QuranData.getQuranWords();
+        const hit = this.wordMatcher(ayahTimeline.norm(word));
+        const votes = {};
+        let seen = 0;
+        outer:
+        for (const k in corpus) {
+          const toks = corpus[k];
+          for (let i = 0; i < toks.length; i++) {
+            if (hit(ayahTimeline.norm(toks[i]))) {
+              const r = this._posToRoot[`${k}:${i + 1}`];
+              if (r) votes[r] = (votes[r] || 0) + 1;
+              if (++seen >= 25) break outer;
+            }
           }
         }
+        root = Object.keys(votes).sort((a, b) => votes[b] - votes[a])[0];
       }
-      const root = Object.keys(votes).sort((a, b) => votes[b] - votes[a])[0];
-      if (!root) return this.openWordTimeline(word, ref);
-      const marks = {};
-      for (const pos of roots[root]) {
-        const [s, a, w] = pos.split(':');
-        (marks[`${s}:${a}`] = marks[`${s}:${a}`] || []).push(parseInt(w, 10));
-      }
-      this.openMarkedTimeline(marks, this.tt('vocab_root_ayahs'), root.split('').join('-'));
+      if (!root || !roots[root]) return this.openWordTimeline(word, ref, formNorm);
+      this.openMarkedTimeline(this.marksFromPositions(roots[root]), this.tt('vocab_root_ayahs'),
+        root.split('').join('-'), roots[root].length);
     } catch (e) {
-      this.openWordTimeline(word, ref);
+      this.openWordTimeline(word, ref, formNorm);
     }
+  }
+
+  /** ["s:a:w", …] -> marks map { "s:a": [w, …] }. */
+  marksFromPositions(positions) {
+    const marks = {};
+    for (const pos of positions) {
+      const q = pos.split(':');
+      const r = q[0] + ':' + q[1];
+      (marks[r] = marks[r] || []).push(parseInt(q[2], 10));
+    }
+    return marks;
   }
 
   /** Affix-aware matcher for a normalized target: attached articles /
@@ -474,18 +507,21 @@ class VocabTrainer {
   }
 
   /** Open the shared timeline over a marks map ("s:a" -> highlighted word
-   * positions), mushaf-ordered and capped for render weight. */
-  openMarkedTimeline(marks, title, titleAr) {
+   * positions), mushaf-ordered. All refs are passed — the timeline itself
+   * pages the rendering — so the shown total always equals the real total.
+   * When a word occurs more than once per ayah the subtitle spells out both
+   * numbers ("N ayahs · M×"). */
+  openMarkedTimeline(marks, title, titleAr, occ) {
     const refs = Object.keys(marks);
     if (!refs.length) throw new Error('no matches');
     const ord = k => { const [s, a] = k.split(':').map(Number); return s * 1000 + a; };
     refs.sort((a, b) => ord(a) - ord(b));
-    const CAP = 50;
+    const total = occ || refs.length;
     ayahTimeline.open({
       title,
       titleAr,
-      subtitle: refs.length > CAP ? `1–${CAP} / ${refs.length}` : '',
-      refs: refs.slice(0, CAP),
+      subtitle: total !== refs.length ? `${refs.length} ${this.tt('mt_group_verses_label')} · ${total}×` : '',
+      refs,
       marks
     });
   }
@@ -499,13 +535,14 @@ class VocabTrainer {
       e.stopPropagation();
       const ref = vv.getAttribute('data-vocab-verse');
       const word = vv.getAttribute('data-word');
-      this.openWordTimeline(word, ref);
+      this.openWordTimeline(word, ref, vv.getAttribute('data-form') || '');
       return;
     }
     const vr = e.target.closest('[data-vocab-root]');
     if (vr) {
       e.stopPropagation();
-      this.openRootTimeline(vr.getAttribute('data-vocab-root'), vr.getAttribute('data-ref') || '');
+      this.openRootTimeline(vr.getAttribute('data-vocab-root'), vr.getAttribute('data-ref') || '',
+        vr.getAttribute('data-form') || '');
       return;
     }
 
@@ -685,12 +722,32 @@ class VocabTrainer {
 
   /* ---------- expanded corpus deck (beyond the curated 50) ---------- */
 
-  /** Top frequent Quran words from the bundled index, excluding the curated 50. */
+  /** Full ≥2-occurrence corpus deck beyond the curated words, with exact
+   * per-form ayah/occurrence/root counts so every number shown matches what
+   * the 📖/🌱 timelines open. */
   async ensureExtra() {
     if (this.extra || this._extraLoading) return;
     this._extraLoading = true;
+    let idx, words;
     try {
-      const [idx, words] = await Promise.all([QuranData.getWordIndex(), QuranData.getQuranWords()]);
+      [idx, words] = await Promise.all([QuranData.getWordIndex(), QuranData.getQuranWords()]);
+    } catch (e) { this.extra = []; return; }
+    let roots = null;
+    try { roots = (QuranData.getRoots ? await QuranData.getRoots() : null); } catch (e) { roots = null; }
+    try {
+      if (roots && !this._posToRoot) {
+        this._posToRoot = {};
+        for (const r in roots) for (const pos of roots[r]) this._posToRoot[pos] = r;
+      }
+      // Unique-ayah count per root (roots.json counts word positions).
+      this._rootAyahs = {};
+      if (roots) {
+        for (const r in roots) {
+          const set = new Set();
+          for (const p of roots[r]) { const q = p.split(':'); set.add(q[0] + ':' + q[1]); }
+          this._rootAyahs[r] = set.size;
+        }
+      }
       const curated = new Set(VOCAB_WORDS.map(w => QuranData.normalizeWord(w.arabic)));
       // First-occurrence verse refs for curated words (dyn words carry their own ref)
       this.curatedRefs = {};
@@ -699,16 +756,80 @@ class VocabTrainer {
         if (occ) this.curatedRefs[w.arabic] = occ.split(':').slice(0, 2).join(':');
       });
       this.extra = Object.entries(idx)
-        .map(([norm, occs]) => ({ norm, count: occs.length, first: occs[0] }))
+        .map(([norm, occs]) => ({ norm, count: occs.length, occs }))
         .filter(e => !curated.has(e.norm) && e.count >= 2)
         .sort((a, b) => b.count - a.count)
         .map(e => {
-          const [s, a, w] = e.first.split(':').map(Number);
+          const [s, a, w] = e.occs[0].split(':').map(Number);
           const display = (words[`${s}:${a}`] || [])[w - 1] || e.norm;
-          return { arabic: display, norm: e.norm, count: e.count, ref: `${s}:${a}`, pos: w, dyn: true };
+          const ayahSet = new Set();
+          for (const p of e.occs) { const q = p.split(':'); ayahSet.add(q[0] + ':' + q[1]); }
+          const rootKey = this._posToRoot ? (this._posToRoot[e.occs[0]] || null) : null;
+          return { arabic: display, norm: e.norm, count: e.count, ayahs: ayahSet.size,
+                   rootKey, rootAyahs: rootKey ? this._rootAyahs[rootKey] : 0,
+                   ref: `${s}:${a}`, pos: w, dyn: true };
         });
       if (this.mode === 'flashcards' || this.mode === 'progress') this.render();
-    } catch (e) { this.extra = []; }
+      // Exact counts for curated/theme citation forms need a full corpus pass —
+      // deferred so the deck paints first; re-renders once computed.
+      setTimeout(() => { try { this.computeWordData(words, roots); } catch (e) { /* keep hand counts */ } }, 0);
+    } catch (e) { this.extra = this.extra || []; }
+  }
+
+  /** One-time exact stats for every curated + theme citation form:
+   * affix-aware marks/occurrence/ayah counts and a majority-vote root, so
+   * badges and 📖/🌱 buttons show exactly what their timelines open. */
+  computeWordData(words, roots) {
+    if (this._wordData || typeof ayahTimeline === 'undefined' || !ayahTimeline) return;
+    const targets = {};
+    const addTarget = (w) => {
+      const n = ayahTimeline.norm(w.arabic);
+      if (n && !targets[n]) targets[n] = { matcher: this.wordMatcher(n), marks: {}, occ: 0, votes: {} };
+    };
+    VOCAB_WORDS.forEach(addTarget);
+    if (typeof VOCAB_THEMES !== 'undefined') VOCAB_THEMES.forEach(th => (th.words || []).forEach(addTarget));
+    const tKeys = Object.keys(targets);
+    const rawNorm = {};   // raw token -> normalized (tokens repeat a lot)
+    const formHits = {};  // normalized form -> matching target keys
+    for (const ref in words) {
+      const toks = words[ref];
+      for (let i = 0; i < toks.length; i++) {
+        const raw = toks[i];
+        let n = rawNorm[raw];
+        if (n === undefined) n = rawNorm[raw] = ayahTimeline.norm(raw);
+        let hits = formHits[n];
+        if (hits === undefined) {
+          hits = [];
+          for (const k of tKeys) if (targets[k].matcher(n)) hits.push(k);
+          formHits[n] = hits;
+        }
+        if (!hits.length) continue;
+        const r = this._posToRoot ? this._posToRoot[`${ref}:${i + 1}`] : null;
+        for (const k of hits) {
+          const tg = targets[k];
+          (tg.marks[ref] = tg.marks[ref] || []).push(i + 1);
+          tg.occ++;
+          if (r) tg.votes[r] = (tg.votes[r] || 0) + 1;
+        }
+      }
+    }
+    const out = {};
+    for (const k of tKeys) {
+      const tg = targets[k];
+      const root = Object.keys(tg.votes).sort((a, b) => tg.votes[b] - tg.votes[a])[0] || null;
+      out[k] = { marks: tg.marks, occ: tg.occ, ayahs: Object.keys(tg.marks).length,
+                 root, rootAyahs: root ? (this._rootAyahs || {})[root] || 0 : 0 };
+    }
+    this._wordData = out;
+    if (this.mode === 'flashcards' || this.mode === 'progress') this.render();
+  }
+
+  /** Exact display counts for a card: word-match ayahs, root ayahs, occurrences. */
+  wordCounts(w) {
+    if (w.dyn) return { word: w.ayahs || 0, root: w.rootAyahs || 0, occ: w.count };
+    const d = (typeof ayahTimeline !== 'undefined' && ayahTimeline && this._wordData)
+      ? this._wordData[ayahTimeline.norm(w.arabic)] : null;
+    return d ? { word: d.ayahs, root: d.rootAyahs, occ: d.occ || w.count } : { word: 0, root: 0, occ: w.count };
   }
 
   deckAll() {
@@ -802,8 +923,8 @@ class VocabTrainer {
                     class="w-11 h-11 rounded-full bg-white/20 hover:bg-white/35 text-xl transition-colors">🔊</button>
             <button data-vocab-verse="${ref || ''}" data-word="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_word_ayahs')}"
                     class="w-11 h-11 rounded-full bg-white/20 hover:bg-white/35 text-xl transition-colors">📖</button>
-            <button data-vocab-root="${this.escapeHtml(w.arabic)}" data-ref="${ref || ''}" title="${this.tt('vocab_root_ayahs')}"
-                    class="w-11 h-11 rounded-full bg-white/20 hover:bg-white/35 text-xl transition-colors">🌱</button>
+            ${(this.wordCounts(w).root || !this._wordData) ? `<button data-vocab-root="${this.escapeHtml(w.arabic)}" data-ref="${ref || ''}" title="${this.tt('vocab_root_ayahs')}"
+                    class="w-11 h-11 rounded-full bg-white/20 hover:bg-white/35 text-xl transition-colors">🌱</button>` : ''}
             <button data-vfav="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_favorite')}" aria-label="${this.tt('vocab_favorite')}"
                     class="w-11 h-11 rounded-full ${fav ? 'bg-rose-500' : 'bg-white/20 hover:bg-white/35'} text-xl transition-colors">${fav ? '❤️' : '🤍'}</button>
             <button data-vknow="${this.escapeHtml(w.arabic)}" title="${t('vocab_know_it', lang)}"
@@ -887,6 +1008,7 @@ class VocabTrainer {
           const key = w.dyn ? `${w.norm}:${lang}` : '';
           const revealed = show || (this.revealed && this.revealed.has(w.key));
           const ref = w.ref || (this.curatedRefs || {})[w.arabic];
+          const wc = this.wordCounts(w);
           return `
           <div class="rounded-xl bg-white dark:bg-gray-800 border ${w.known ? 'border-green-300 dark:border-green-700' : 'border-gray-200 dark:border-gray-700'} p-2.5 flex flex-col items-center gap-1">
             <button data-vcard="${this.escapeHtml(w.key)}" data-text="${this.escapeHtml(w.arabic)}" class="flex flex-col items-center gap-0.5 w-full">
@@ -897,11 +1019,11 @@ class VocabTrainer {
               </span>
             </button>
             <div class="flex items-center justify-center flex-wrap gap-1.5">
-              <span class="text-xs text-gray-400">×${w.count}</span>
-              <button data-vocab-verse="${ref || ''}" data-word="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_word_ayahs')}"
-                      class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-primary hover:text-white">📖</button>
-              <button data-vocab-root="${this.escapeHtml(w.arabic)}" data-ref="${ref || ''}" title="${this.tt('vocab_root_ayahs')}"
-                      class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-green-600 hover:text-white">🌱</button>
+              <span class="text-xs text-gray-400">×${wc.occ}</span>
+              <button data-vocab-verse="${ref || ''}" data-word="${this.escapeHtml(w.arabic)}" data-form="${w.dyn ? this.escapeHtml(w.norm) : ''}" title="${this.tt('vocab_word_ayahs')}"
+                      class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-primary hover:text-white">📖${wc.word ? ` ${wc.word}` : ''}</button>
+              ${(wc.root || (!w.dyn && !this._wordData)) ? `<button data-vocab-root="${this.escapeHtml(w.arabic)}" data-ref="${ref || ''}" data-form="${w.dyn ? this.escapeHtml(w.norm) : ''}" title="${this.tt('vocab_root_ayahs')}"
+                      class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-green-600 hover:text-white">🌱${wc.root ? ` ${wc.root}` : ''}</button>` : ''}
               <button data-vfav="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_favorite')}" aria-label="${this.tt('vocab_favorite')}"
                       class="text-xs px-1.5 py-0.5 rounded-full ${w.fav ? 'bg-rose-500 text-white' : 'bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-rose-500 hover:text-white'}">${w.fav ? '❤️' : '🤍'}</button>
               <button data-vknow="${this.escapeHtml(w.arabic)}" title="${t('vocab_know_it', lang)}"
