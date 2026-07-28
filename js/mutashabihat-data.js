@@ -719,5 +719,232 @@ const MUTASHABIHAT_GROUPS = [
     descEn: 'A distinctive pattern: the Quran foretells an objection with future-tense "sayaqūlu" (they will say), then arms the Prophet with "qul" (Say). 2:142: the foolish question the qiblah change — answered "qul lillāhi l-mashriqu wa-l-maghrib". 6:148: the idolaters plead determinism ("law shāʾa llāhu mā ashraknā") — answered "qul hal ʿindakum min ʿilm". 48:11: the stay-behind bedouins offer excuses — answered "qul fa-man yamliku lakum mina llāhi shayʾā". 48:15: they ask to follow to the spoils — answered "qul lan tattabiʿūnā". With plural "sayaqūlūna", 18:22 foretells the guessing over the Sleepers\' number — answered "qul rabbī aʿlamu bi-ʿiddatihim". Matching each near-identical opening to its reply is the drill.',
     descBn: 'একটি স্বতন্ত্র রীতি: কুরআন ভবিষ্যৎ কালের "সাইয়াকূলু" (তারা বলবে) দিয়ে আপত্তি পূর্বঘোষণা করে, তারপর নবীকে "কুল" (বলো) দিয়ে জবাব দেয়। ২:১৪২: নির্বোধরা কিবলা পরিবর্তন নিয়ে প্রশ্ন তোলে — জবাব "কুল লিল্লাহিল-মাশরিকু ওয়াল-মাগরিব"। ৬:১৪৮: মুশরিকরা নিয়তিবাদের অজুহাত দেয় ("লাও শাআল্লাহু মা আশরাকনা") — জবাব "কুল হাল ইনদাকুম মিন ইলম"। ৪৮:১১: পিছনে-থাকা বেদুইনরা অজুহাত পেশ করে — জবাব "কুল ফামান ইয়ামলিকু লাকুম মিনাল্লাহি শাইআ"। ৪৮:১৫: তারা গনীমতে যেতে চায় — জবাব "কুল লান তাত্তাবিঊনা"। বহুবচন "সাইয়াকূলূনা" সহ ১৮:২২ গুহাবাসীদের সংখ্যা নিয়ে অনুমান পূর্বঘোষণা করে — জবাব "কুল রাব্বী আলামু বিইদ্দাতিহিম"। প্রায়-অভিন্ন সূচনাগুলোকে নিজ নিজ জবাবের সঙ্গে মেলানোই অনুশীলন।',
     verses: ['2:142', '6:148', '18:22', '48:11', '48:15']
+  },
+  // v154 additions — 15 data-mined groups / 76 fresh verses (2026-07-28)
+  {
+    "id": "shuara-laayah-refrain",
+    "nameEn": "Surely in That Is a Sign — Shuʿarā Refrain",
+    "nameBn": "নিশ্চয়ই এতে নিদর্শন রয়েছে — শুআরা ধুয়া",
+    "nameAr": "إِنَّ فِى ذَٰلِكَ لَءَايَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+    "descEn": "This refrain closes eight prophet stories in surah 26 (verses 8, 67, 103, 121, 139, 158, 174, 190). In six places the whole verse is just the refrain; 26:139 prefixes it with \"so they denied him and We destroyed them\" and 26:158 with \"so the punishment seized them\". Because the wording is identical, memorizers easily jump from one story's ending to another.",
+    "descBn": "এই ধুয়াটি সূরা ২৬-এ আটটি নবী-কাহিনির সমাপ্তিতে আসে (আয়াত ৮, ৬৭, ১০৩, ১২১, ১৩৯, ১৫৮, ১৭৪, ১৯০)। ছয় জায়গায় পুরো আয়াতটিই কেবল এই ধুয়া; ২৬:১৩৯-এ আগে যুক্ত হয় \"অতঃপর তারা তাকে অস্বীকার করল, তাই আমরা তাদের ধ্বংস করলাম\" এবং ২৬:১৫৮-এ \"অতঃপর শাস্তি তাদের পাকড়াও করল\"। শব্দ হুবহু এক হওয়ায় মুখস্থকারীরা সহজেই এক কাহিনির শেষ থেকে অন্যটিতে লাফিয়ে যান।",
+    "verses": [
+      "26:8",
+      "26:67",
+      "26:103",
+      "26:121",
+      "26:139",
+      "26:158",
+      "26:174",
+      "26:190"
+    ]
+  },
+  {
+    "id": "shuara-ajr-refrain",
+    "nameEn": "I Ask You No Reward — Messengers' Refrain",
+    "nameBn": "আমি তোমাদের কাছে কোনো প্রতিদান চাই না — রাসূলদের ধুয়া",
+    "nameAr": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا",
+    "descEn": "Five messengers in surah 26 — at verses 109, 127, 145, 164 and 180 — say the identical full verse: \"I ask of you no reward for it; my reward is only upon the Lord of the worlds.\" All five occurrences are word-for-word the same, so the challenge is remembering which story each one belongs to and what verse follows it.",
+    "descBn": "সূরা ২৬-এ পাঁচজন রাসূল — আয়াত ১০৯, ১২৭, ১৪৫, ১৬৪ ও ১৮০-তে — হুবহু একই পূর্ণ আয়াত বলেন: \"আমি এর জন্য তোমাদের কাছে কোনো প্রতিদান চাই না; আমার প্রতিদান তো কেবল জগতসমূহের প্রতিপালকের কাছে।\" পাঁচটি স্থানেই শব্দে-শব্দে অভিন্ন, তাই চ্যালেঞ্জ হলো কোনটি কোন কাহিনির অংশ এবং এর পরে কোন আয়াত আসে তা মনে রাখা।",
+    "verses": [
+      "26:109",
+      "26:127",
+      "26:145",
+      "26:164",
+      "26:180"
+    ]
+  },
+  {
+    "id": "afalam-yasiru-aqibah",
+    "nameEn": "Have They Not Traveled the Earth?",
+    "nameBn": "তারা কি পৃথিবীতে ভ্রমণ করেনি?",
+    "nameAr": "يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ",
+    "descEn": "\"…travel the earth and see how was the end of those before them\" opens six verses. Three begin with a-fa-lam (12:109, 40:82, 47:10) and three with a-wa-lam (30:9, 35:44, 40:21); 40:21 alone inserts an extra \"kānū\" before \"min qablihim\". What follows differs each time — from \"they were greater in strength\" to \"Allah destroyed them utterly\" — so the opening particle and the continuation are both easy to mix up.",
+    "descBn": "\"…পৃথিবীতে ভ্রমণ করে দেখেনি তাদের আগের লোকদের পরিণাম কেমন হয়েছিল\" — এই সূচনা ছয়টি আয়াতে আসে। তিনটি শুরু হয় আ-ফা-লাম দিয়ে (১২:১০৯, ৪০:৮২, ৪৭:১০) এবং তিনটি আ-ওয়া-লাম দিয়ে (৩০:৯, ৩৫:৪৪, ৪০:২১); কেবল ৪০:২১-এ \"মিন কাবলিহিম\"-এর আগে অতিরিক্ত \"কানূ\" আছে। পরের অংশ প্রতিবারই ভিন্ন — \"তারা শক্তিতে প্রবলতর ছিল\" থেকে \"আল্লাহ তাদের সম্পূর্ণ ধ্বংস করেছেন\" পর্যন্ত — তাই সূচনার অব্যয় ও ধারাবাহিকতা দুটিই গুলিয়ে যাওয়া সহজ।",
+    "verses": [
+      "12:109",
+      "30:9",
+      "35:44",
+      "40:21",
+      "40:82",
+      "47:10"
+    ]
+  },
+  {
+    "id": "mata-wad-refrain",
+    "nameEn": "When Is This Promise?",
+    "nameBn": "এই প্রতিশ্রুতি কবে?",
+    "nameAr": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ",
+    "descEn": "The deniers' question \"And they say: when is this promise, if you are truthful?\" appears as a complete, word-for-word identical verse in six surahs: 10:48, 21:38, 27:71, 34:29, 36:48 and 67:25. Since the verse itself gives no distinguishing clue, memorizers must anchor each occurrence by the verses around it — the classic difficulty of this group.",
+    "descBn": "অস্বীকারকারীদের প্রশ্ন \"আর তারা বলে: এই প্রতিশ্রুতি কবে, যদি তোমরা সত্যবাদী হও?\" — সম্পূর্ণ ও শব্দে-শব্দে অভিন্ন আয়াত হিসেবে ছয়টি সূরায় আসে: ১০:৪৮, ২১:৩৮, ২৭:৭১, ৩৪:২৯, ৩৬:৪৮ ও ৬৭:২৫। আয়াতটি নিজে কোনো পার্থক্যসূচক সূত্র দেয় না বলে মুখস্থকারীদের প্রতিটি স্থান আশপাশের আয়াত দিয়ে মনে রাখতে হয় — এটিই এই গুচ্ছের মূল কঠিনতা।",
+    "verses": [
+      "10:48",
+      "21:38",
+      "27:71",
+      "34:29",
+      "36:48",
+      "67:25"
+    ]
+  },
+  {
+    "id": "wali-nasir-besides-him",
+    "nameEn": "No Protector nor Helper Besides Allah",
+    "nameBn": "আল্লাহ ছাড়া কোনো অভিভাবক নেই, সাহায্যকারীও নেই",
+    "nameAr": "وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا",
+    "descEn": "\"And you have, besides Allah, no protector and no helper\" ends four verses. In 2:107 and 9:116 it follows mention of His dominion over the heavens and the earth; in 29:22 and 42:31 it follows \"you cannot cause failure in the earth\", where 29:22 alone adds \"nor in the heaven\". The two pairs mirror each other, so recalling which frame a verse uses takes care.",
+    "descBn": "\"আর আল্লাহ ছাড়া তোমাদের কোনো অভিভাবক নেই, কোনো সাহায্যকারীও নেই\" — এই সমাপ্তি চারটি আয়াতে আসে। ২:১০৭ ও ৯:১১৬-এ এটি আসমান-জমিনে তাঁর রাজত্বের উল্লেখের পরে; ২৯:২২ ও ৪২:৩১-এ \"তোমরা পৃথিবীতে (তাঁকে) অক্ষম করতে পারবে না\"-এর পরে, যেখানে কেবল ২৯:২২-এ \"আসমানেও না\" যুক্ত আছে। জোড়া দুটি পরস্পরের প্রতিবিম্ব, তাই কোন আয়াতে কোন কাঠামো তা মনে রাখতে সতর্কতা লাগে।",
+    "verses": [
+      "2:107",
+      "9:116",
+      "29:22",
+      "42:31"
+    ]
+  },
+  {
+    "id": "haqa-bihim-endings",
+    "nameEn": "What They Mocked Engulfed Them",
+    "nameBn": "যা নিয়ে তারা ঠাট্টা করত তা-ই তাদের ঘিরে ফেলল",
+    "nameAr": "وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+    "descEn": "\"And what they used to mock engulfed them\" closes six verses: 11:8, 16:34, 39:48, 40:83, 45:33 and 46:26. The lead-ins are the confusable part: 16:34 has \"the evils of what they did struck them\", 39:48 \"the evils of what they earned appeared to them\", and 45:33 \"the evils of what they did appeared to them\" — three near-identical clauses differing in one verb each.",
+    "descBn": "\"আর তারা যা নিয়ে ঠাট্টা করত তা-ই তাদের ঘিরে ফেলল\" — এই সমাপ্তি ছয়টি আয়াতে আসে: ১১:৮, ১৬:৩৪, ৩৯:৪৮, ৪০:৮৩, ৪৫:৩৩ ও ৪৬:২৬। বিভ্রান্তিকর অংশ হলো আগের বাক্যগুলো: ১৬:৩৪-এ \"তাদের কৃতকর্মের মন্দ ফল তাদের আঘাত করল\", ৩৯:৪৮-এ \"তাদের অর্জনের মন্দ ফল তাদের সামনে প্রকাশ পেল\", আর ৪৫:৩৩-এ \"তাদের কৃতকর্মের মন্দ ফল তাদের সামনে প্রকাশ পেল\" — প্রায় অভিন্ন তিনটি বাক্য, প্রতিটিতে কেবল একটি ক্রিয়া ভিন্ন।",
+    "verses": [
+      "11:8",
+      "16:34",
+      "39:48",
+      "40:83",
+      "45:33",
+      "46:26"
+    ]
+  },
+  {
+    "id": "man-yudlil-la-hadi",
+    "nameEn": "Whom Allah Leaves Astray Has No Guide",
+    "nameBn": "আল্লাহ যাকে পথভ্রষ্ট করেন তার কোনো পথপ্রদর্শক নেই",
+    "nameAr": "وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ",
+    "descEn": "\"And whomever Allah leaves astray — for him there is no guide\" ends four verses: 13:33, 39:23, 39:36 and 40:33. Two of the four sit in the same surah (39), separated by only thirteen verses, which is exactly where memorizers slip: the preceding contexts — the best of speech, sufficiency for His servant, fleeing on the Day with no defender — must be kept apart.",
+    "descBn": "\"আর আল্লাহ যাকে পথভ্রষ্ট করেন — তার জন্য কোনো পথপ্রদর্শক নেই\" — এই সমাপ্তি চারটি আয়াতে আসে: ১৩:৩৩, ৩৯:২৩, ৩৯:৩৬ ও ৪০:৩৩। চারটির মধ্যে দুটি একই সূরায় (৩৯), মাত্র তেরো আয়াতের ব্যবধানে — ঠিক এখানেই মুখস্থকারীরা ভুল করেন: আগের প্রসঙ্গগুলো — সর্বোত্তম বাণী, বান্দার জন্য যথেষ্ট হওয়া, বিচার দিনে রক্ষাকারী ছাড়া পলায়ন — আলাদা করে মনে রাখতে হয়।",
+    "verses": [
+      "13:33",
+      "39:23",
+      "39:36",
+      "40:33"
+    ]
+  },
+  {
+    "id": "yudkhilu-jannat-anhar",
+    "nameEn": "He Admits the Believers into Gardens",
+    "nameBn": "তিনি মুমিনদের জান্নাতে প্রবেশ করাবেন",
+    "nameAr": "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جَنَّٰتٍ",
+    "descEn": "Three verses — 22:14, 22:23 and 47:12 — open with the same twelve words: \"Indeed Allah admits those who believe and do righteous deeds into gardens beneath which rivers flow.\" The endings then diverge completely: \"Allah does what He wills\" (22:14), adornment with gold bracelets, pearls and silk (22:23), and a contrast with the disbelievers who eat as cattle eat (47:12). Two of the three are in the same surah, sharpening the confusion.",
+    "descBn": "তিনটি আয়াত — ২২:১৪, ২২:২৩ ও ৪৭:১২ — একই বারোটি শব্দ দিয়ে শুরু হয়: \"নিশ্চয়ই আল্লাহ ঈমানদার ও সৎকর্মশীলদের এমন জান্নাতে প্রবেশ করাবেন যার তলদেশে নদী প্রবাহিত।\" এরপর সমাপ্তি সম্পূর্ণ ভিন্ন হয়ে যায়: \"আল্লাহ যা চান তা-ই করেন\" (২২:১৪), সোনার কাঁকন, মুক্তা ও রেশমের অলংকরণ (২২:২৩), এবং চতুষ্পদ প্রাণীর মতো ভক্ষণকারী কাফিরদের সঙ্গে বৈপরীত্য (৪৭:১২)। তিনটির মধ্যে দুটি একই সূরায় হওয়ায় বিভ্রান্তি আরও তীব্র।",
+    "verses": [
+      "22:14",
+      "22:23",
+      "47:12"
+    ]
+  },
+  {
+    "id": "sittat-ayyam-arsh",
+    "nameEn": "Six Days, Then upon the Throne",
+    "nameBn": "ছয় দিনে সৃষ্টি, অতঃপর আরশে সমাসীন",
+    "nameAr": "فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+    "descEn": "\"…created the heavens and the earth in six days, then established Himself upon the Throne\" appears in five verses. 25:59 and 32:4 insert \"and whatever is between them\" before \"in six days\"; the openers differ — \"Indeed your Lord is Allah who\" (7:54, 10:3), \"the One who\" (25:59), \"Allah is the One who\" (32:4), \"He is the One who\" (57:4) — and each verse continues with a different clause about His governance.",
+    "descBn": "\"…আসমান ও জমিন ছয় দিনে সৃষ্টি করেছেন, অতঃপর আরশে সমাসীন হয়েছেন\" — পাঁচটি আয়াতে আসে। ২৫:৫৯ ও ৩২:৪-এ \"ছয় দিনে\"-র আগে \"এবং এ দুয়ের মাঝে যা আছে\" যুক্ত হয়; সূচনাও ভিন্ন — \"নিশ্চয়ই তোমাদের প্রতিপালক আল্লাহ, যিনি\" (৭:৫৪, ১০:৩), \"যিনি\" (২৫:৫৯), \"আল্লাহ, যিনি\" (৩২:৪), \"তিনিই, যিনি\" (৫৭:৪) — এবং প্রতিটি আয়াত তাঁর পরিচালনা বিষয়ে ভিন্ন ভিন্ন বাক্যে এগিয়ে যায়।",
+    "verses": [
+      "7:54",
+      "10:3",
+      "25:59",
+      "32:4",
+      "57:4"
+    ]
+  },
+  {
+    "id": "yuliju-layl-nahar",
+    "nameEn": "He Merges Night into Day",
+    "nameBn": "তিনি রাতকে দিনে প্রবেশ করান",
+    "nameAr": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ",
+    "descEn": "\"He merges the night into the day and merges the day into the night\" occurs in four verses. 22:61 introduces it with \"that is because Allah\" and 31:29 with \"do you not see that Allah\", while 35:13 and 57:6 open the verse with it directly. 31:29 and 35:13 then continue almost identically about the sun and moon running to an appointed term — differing only in \"ilā ajalin\" versus \"li-ajalin\" — before ending differently.",
+    "descBn": "\"তিনি রাতকে দিনে প্রবেশ করান এবং দিনকে রাতে প্রবেশ করান\" — চারটি আয়াতে আসে। ২২:৬১-এ এর আগে \"এটা এজন্য যে আল্লাহ\" এবং ৩১:২৯-এ \"তুমি কি দেখো না যে আল্লাহ\" রয়েছে, আর ৩৫:১৩ ও ৫৭:৬ সরাসরি এটি দিয়েই শুরু হয়। ৩১:২৯ ও ৩৫:১৩ এরপর সূর্য-চন্দ্রের নির্ধারিত মেয়াদ পর্যন্ত চলা নিয়ে প্রায় অভিন্নভাবে এগোয় — পার্থক্য কেবল \"ইলা আজালিন\" বনাম \"লি-আজালিন\" — তারপর ভিন্নভাবে শেষ হয়।",
+    "verses": [
+      "22:61",
+      "31:29",
+      "35:13",
+      "57:6"
+    ]
+  },
+  {
+    "id": "yakhtalifun-qiyamah",
+    "nameEn": "He Will Judge Their Differences on Resurrection Day",
+    "nameBn": "কিয়ামতের দিন তিনি তাদের মতভেদের ফয়সালা করবেন",
+    "nameAr": "بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+    "descEn": "\"…between them on the Day of Resurrection concerning that over which they used to differ\" ends five verses, but the governing verb changes each time: \"Allah will judge\" (2:113), \"your Lord will decide\" (10:93 and 45:17), \"your Lord will surely judge\" (16:124), and \"your Lord will separate\" (32:25). Keeping the right verb with the right verse is the classic trap of this set.",
+    "descBn": "\"…কিয়ামতের দিন তাদের মধ্যে, যে বিষয়ে তারা মতভেদ করত\" — এই সমাপ্তি পাঁচটি আয়াতে আসে, কিন্তু মূল ক্রিয়াটি প্রতিবার বদলায়: \"আল্লাহ বিচার করবেন\" (২:১১৩), \"তোমার প্রতিপালক ফয়সালা করবেন\" (১০:৯৩ ও ৪৫:১৭), \"তোমার প্রতিপালক অবশ্যই বিচার করবেন\" (১৬:১২৪), এবং \"তোমার প্রতিপালক পৃথক করে দেবেন\" (৩২:২৫)। সঠিক আয়াতের সঙ্গে সঠিক ক্রিয়া মেলানোই এই গুচ্ছের চিরচেনা ফাঁদ।",
+    "verses": [
+      "2:113",
+      "10:93",
+      "16:124",
+      "32:25",
+      "45:17"
+    ]
+  },
+  {
+    "id": "yabsutu-rizq",
+    "nameEn": "He Extends and Restricts Provision",
+    "nameBn": "তিনি রিজিক প্রশস্ত করেন ও সংকুচিত করেন",
+    "nameAr": "يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ",
+    "descEn": "\"…extends provision for whom He wills and restricts\" recurs in six verses with shifting frames: \"Allah extends\" (13:26), \"indeed your Lord extends\" (17:30), \"my Lord extends\" (34:36), \"have they not seen that Allah…\" (30:37), \"do they not know that Allah…\" (39:52), and with no introduction after \"His are the keys of the heavens and the earth\" (42:12). 30:37 and 39:52 even share the same ending, \"surely in that are signs for people who believe\", differing only in their opening verb.",
+    "descBn": "\"…যাকে ইচ্ছা তার জন্য রিজিক প্রশস্ত করেন এবং সংকুচিত করেন\" — ছয়টি আয়াতে ভিন্ন ভিন্ন কাঠামোয় ফিরে আসে: \"আল্লাহ প্রশস্ত করেন\" (১৩:২৬), \"নিশ্চয়ই তোমার প্রতিপালক প্রশস্ত করেন\" (১৭:৩০), \"আমার প্রতিপালক প্রশস্ত করেন\" (৩৪:৩৬), \"তারা কি দেখেনি যে আল্লাহ…\" (৩০:৩৭), \"তারা কি জানে না যে আল্লাহ…\" (৩৯:৫২), এবং \"আসমান-জমিনের চাবিসমূহ তাঁরই\"-এর পরে কোনো ভূমিকা ছাড়াই (৪২:১২)। ৩০:৩৭ ও ৩৯:৫২-এর সমাপ্তিও এক — \"নিশ্চয়ই এতে মুমিন সম্প্রদায়ের জন্য নিদর্শন রয়েছে\" — পার্থক্য কেবল সূচনার ক্রিয়ায়।",
+    "verses": [
+      "13:26",
+      "17:30",
+      "30:37",
+      "34:36",
+      "39:52",
+      "42:12"
+    ]
+  },
+  {
+    "id": "kun-fayakun-qada",
+    "nameEn": "When He Decrees a Matter: Be, and It Is",
+    "nameBn": "তিনি কিছু সিদ্ধান্ত করলে বলেন: হও, আর তা হয়ে যায়",
+    "nameAr": "قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+    "descEn": "\"When He decrees a matter, He only says to it: Be — and it is\" closes four verses: 2:117, 3:47, 19:35 and 40:68. Three begin the clause with \"idhā\" while 40:68 alone has \"fa-idhā\". The settings differ — the Originator of the heavens and the earth (2:117), the announcement of a son to Maryam (3:47), the denial that Allah takes a son (19:35), and He who gives life and death (40:68).",
+    "descBn": "\"তিনি যখন কোনো বিষয়ের সিদ্ধান্ত নেন, তখন কেবল বলেন: হও — আর তা হয়ে যায়\" — এই সমাপ্তি চারটি আয়াতে আসে: ২:১১৭, ৩:৪৭, ১৯:৩৫ ও ৪০:৬৮। তিনটিতে বাক্যাংশটি \"ইযা\" দিয়ে শুরু, কেবল ৪০:৬৮-তে \"ফা-ইযা\"। প্রেক্ষাপটও ভিন্ন — আসমান-জমিনের উদ্ভাবক (২:১১৭), মারইয়ামকে পুত্রের সুসংবাদ (৩:৪৭), আল্লাহর সন্তান গ্রহণের অস্বীকৃতি (১৯:৩৫), এবং যিনি জীবন ও মৃত্যু দেন (৪০:৬৮)।",
+    "verses": [
+      "2:117",
+      "3:47",
+      "19:35",
+      "40:68"
+    ]
+  },
+  {
+    "id": "dalla-anhum-iftira",
+    "nameEn": "What They Invented Abandoned Them",
+    "nameBn": "তাদের বানোয়াট বিষয়গুলো তাদের ছেড়ে উধাও হলো",
+    "nameAr": "وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+    "descEn": "\"And lost from them was what they used to invent\" ends six verses: 6:24, 7:53, 10:30, 11:21, 16:87 and 28:75. Just before the phrase, 7:53 and 11:21 share the same clause \"they have lost themselves\", while the other four lead in differently — lying against themselves, being returned to Allah, offering submission, or being told to bring their proof — making the pair 7:53/11:21 the most confusable.",
+    "descBn": "\"আর তারা যা বানোয়াট করত তা তাদের থেকে উধাও হয়ে গেল\" — এই সমাপ্তি ছয়টি আয়াতে আসে: ৬:২৪, ৭:৫৩, ১০:৩০, ১১:২১, ১৬:৮৭ ও ২৮:৭৫। বাক্যাংশটির ঠিক আগে ৭:৫৩ ও ১১:২১-এ একই কথা — \"তারা নিজেদেরই ক্ষতি করেছে\" — আর বাকি চারটির সূচনা ভিন্ন: নিজেদের বিরুদ্ধে মিথ্যা বলা, আল্লাহর কাছে ফিরিয়ে আনা, আত্মসমর্পণ পেশ, বা প্রমাণ হাজিরের নির্দেশ — ফলে ৭:৫৩/১১:২১ জোড়াটিই সবচেয়ে বিভ্রান্তিকর।",
+    "verses": [
+      "6:24",
+      "7:53",
+      "10:30",
+      "11:21",
+      "16:87",
+      "28:75"
+    ]
+  },
+  {
+    "id": "sabbar-shakur-signs",
+    "nameEn": "Signs for Every Patient, Grateful One",
+    "nameBn": "প্রত্যেক ধৈর্যশীল কৃতজ্ঞের জন্য নিদর্শন",
+    "nameAr": "إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+    "descEn": "\"Surely in that are signs for every steadfast, grateful one\" seals four verses: 14:5, 31:31, 34:19 and 42:33. In 31:31 and 42:33 it follows ships moving on the sea; in 14:5 it follows Mūsā being sent to bring his people out of darkness into light; in 34:19 it follows a people torn apart for their wrongdoing. The identical ending across four unrelated scenes is what trips up memorizers.",
+    "descBn": "\"নিশ্চয়ই এতে প্রত্যেক পরম ধৈর্যশীল, পরম কৃতজ্ঞের জন্য নিদর্শন রয়েছে\" — এই সমাপ্তি চারটি আয়াতে আসে: ১৪:৫, ৩১:৩১, ৩৪:১৯ ও ৪২:৩৩। ৩১:৩১ ও ৪২:৩৩-এ এটি সমুদ্রে চলমান নৌযানের বর্ণনার পরে; ১৪:৫-এ মূসাকে তাঁর জাতিকে অন্ধকার থেকে আলোতে আনতে পাঠানোর পরে; ৩৪:১৯-এ অন্যায়ের কারণে ছিন্নভিন্ন এক জাতির বর্ণনার পরে। চারটি সম্পর্কহীন দৃশ্যে হুবহু এক সমাপ্তিই মুখস্থকারীদের হোঁচটের কারণ।",
+    "verses": [
+      "14:5",
+      "31:31",
+      "34:19",
+      "42:33"
+    ]
   }
 ];
