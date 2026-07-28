@@ -81,10 +81,13 @@ class AyahTimeline {
     this._paging = null;
   }
 
-  /** One timeline entry. */
+  /** One timeline entry. An optional per-ref gloss (opts.glosses — the
+   * meaning of the highlighted word in THIS verse) renders as an amber chip
+   * beside the reference. */
   itemHtml(ref) {
     const first = String(ref).split('-')[0];
     const [s] = first.split(':');
+    const gloss = (this._paging && this._paging.glosses) ? this._paging.glosses[first] : null;
     return `
         <li class="relative pl-5 pb-5 border-l-2 border-primary/25 ml-2 last:pb-1">
           <span class="absolute -left-[7px] top-1 w-3 h-3 rounded-full bg-primary/70 border-2 border-white dark:border-gray-800" aria-hidden="true"></span>
@@ -92,6 +95,7 @@ class AyahTimeline {
             class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-md bg-gray-100 dark:bg-gray-700/60 text-xs font-medium text-gray-700 dark:text-gray-200 hover:bg-primary/10 hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
             ${this.esc(this.surahName(s))} <span class="text-gray-400 dark:text-gray-500">${this.esc(ref)}</span> <span aria-hidden="true">↗</span>
           </button>
+          ${gloss ? `<span class="ms-1.5 align-middle text-[0.7rem] px-1.5 py-0.5 rounded bg-amber-100/70 dark:bg-amber-500/15 text-amber-800 dark:text-amber-300" dir="auto">${this.esc(gloss)}</span>` : ''}
           <div class="ayah-arabic !text-lg !leading-loose !border-b-0 !pb-0 mt-1.5 text-gray-800 dark:text-gray-100" dir="rtl" data-at-ar="${this.esc(first)}"></div>
           <div class="text-xs text-gray-500 dark:text-gray-400 mt-1 leading-relaxed" data-at-tr="${this.esc(first)}"></div>
         </li>`;
@@ -131,7 +135,7 @@ class AyahTimeline {
     // and "show more" appends until every ref is on screen.
     const chunk = 50;
     const firstRefs = refs.slice(0, chunk);
-    this._paging = { refs, shown: firstRefs.length, chunk, phrase: o.phrase, marks: o.marks };
+    this._paging = { refs, shown: firstRefs.length, chunk, phrase: o.phrase, marks: o.marks, glosses: o.glosses };
     const items = firstRefs.map(ref => this.itemHtml(ref)).join('');
 
     const el = document.createElement('div');

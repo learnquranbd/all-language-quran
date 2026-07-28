@@ -42,7 +42,9 @@ const VOCAB_I18N_FALLBACK = {
   vocab_level:          { en: 'Level', bn: 'স্তর', zh: '级', ja: 'レベル'},
   vocab_all_levels:     { en: 'All levels', bn: 'সব স্তর', zh: '全部级别', ja: 'すべてのレベル'},
   vocab_word_ayahs:     { en: 'Ayahs with this word', bn: 'এই শব্দটি যেসব আয়াতে', zh: '含此词的经文', ja: 'この語を含む節'},
-  vocab_root_ayahs:     { en: 'Ayahs with this root', bn: 'একই মূল (রুট) যেসব আয়াতে', zh: '同词根的经文', ja: '同じ語根の節'}
+  vocab_root_ayahs:     { en: 'Ayahs with this root', bn: 'একই মূল (রুট) যেসব আয়াতে', zh: '同词根的经文', ja: '同じ語根の節'},
+  vocab_coverage:       { en: 'of all words in the Quran covered', bn: 'কুরআনের মোট শব্দের কভারেজ', zh: '古兰经词汇覆盖率', ja: 'クルアーン語彙カバー率'},
+  vocab_by_level:       { en: 'Progress by level', bn: 'স্তর অনুযায়ী অগ্রগতি', zh: '按级别进度', ja: 'レベル別進捗'}
 };
 
 /** Frequency bands for the full ≥2-occurrence corpus deck (most → least common). */
@@ -96,6 +98,7 @@ class VocabTrainer {
     window.addEventListener('settingChanged', (e) => {
       if (e.detail && e.detail.key === 'language') {
         this.language = e.detail.value;
+        this._loadWbw();   // per-occurrence timeline glosses follow the language
         if (this.rendered) this.render();
       }
     });
@@ -508,6 +511,19 @@ class VocabTrainer {
     }
   }
 
+  /** Word-by-word glosses for the current language ({ "s:a": [gloss…] },
+   * position-aligned with quran-words) — powers per-occurrence meanings in
+   * the 📖/🌱 timelines. Reloaded on language switch. */
+  _loadWbw() {
+    if (typeof QuranData === 'undefined' || !QuranData.getLocalWbw) return;
+    const wl = QuranData.wbwLang ? QuranData.wbwLang(this.language) : 'en';
+    if (this._wbwFor === wl) return;
+    this._wbwFor = wl;
+    QuranData.getLocalWbw(wl)
+      .then(w => { if (this._wbwFor === wl) this._wbwGloss = w; })
+      .catch(() => { /* timelines simply omit glosses */ });
+  }
+
   /** ["s:a:w", …] -> marks map { "s:a": [w, …] }. */
   marksFromPositions(positions) {
     const marks = {};
@@ -564,13 +580,48 @@ class VocabTrainer {
     refs.sort((a, b) => ord(a) - ord(b));
     const total = occ || refs.length;
     const counts = total !== refs.length ? `${refs.length} ${this.tt('mt_group_verses_label')} · ${total}×` : '';
+    // Per-occurrence gloss of the (first) highlighted word in each row.
+    let glosses;
+    if (this._wbwGloss) {
+      glosses = {};
+      for (const r of refs) {
+        const g = (this._wbwGloss[r] || [])[(marks[r] || [])[0] - 1];
+        if (g) glosses[r] = g;
+      }
+    }
     ayahTimeline.open({
       title,
       titleAr,
       subtitle: [counts, extra].filter(Boolean).join(' — '),
       refs,
-      marks
+      marks,
+      glosses
     });
+  }
+
+  /** Exact share of the Quran's 77k word tokens covered by the words the
+   * user marked known — computed as a union of covered corpus POSITIONS, so
+   * overlapping words never double-count. Returns null until data is ready. */
+  coveragePct() {
+    if (!this._totalTokens) return null;
+    const known = this.getKnown();
+    if (!known.length) return 0;
+    if (!this._extraByArabic) {
+      this._extraByArabic = {};
+      for (const e of (this.extra || [])) this._extraByArabic[e.arabic] = e;
+    }
+    const covered = new Set();
+    for (const a of known) {
+      const e = this._extraByArabic[a];
+      if (e && this._idx && this._idx[e.norm]) {
+        for (const p of this._idx[e.norm]) covered.add(p);
+        continue;
+      }
+      const d = (typeof ayahTimeline !== 'undefined' && ayahTimeline && this._wordData)
+        ? this._wordData[ayahTimeline.norm(a)] : null;
+      if (d) for (const r in d.marks) for (const p of d.marks[r]) covered.add(r + ':' + p);
+    }
+    return Math.round((covered.size / this._totalTokens) * 1000) / 10;
   }
 
   onClick(e) {
@@ -802,6 +853,11 @@ class VocabTrainer {
         const occ = (idx[QuranData.normalizeWord(w.arabic)] || [])[0];
         if (occ) this.curatedRefs[w.arabic] = occ.split(':').slice(0, 2).join(':');
       });
+      this._idx = idx;
+      let totalTokens = 0;
+      for (const k in words) totalTokens += words[k].length;
+      this._totalTokens = totalTokens;
+      this._loadWbw();
       this.extra = Object.entries(idx)
         .map(([norm, occs]) => ({ norm, count: occs.length, occs }))
         .filter(e => !curated.has(e.norm) && e.count >= 2)
@@ -1059,6 +1115,8 @@ class VocabTrainer {
       <div class="flex flex-wrap items-center justify-center gap-3 text-sm text-gray-500 dark:text-gray-400">
         <span><b class="text-gray-800 dark:text-gray-100">${all.length}</b> ${t('vocab_words_label', lang)}</span>
         <span>✓ <b class="text-green-600">${knownCount}</b></span>
+        ${(() => { const cov = this.coveragePct(); return cov !== null && cov > 0
+          ? `<span title="${this.tt('vocab_coverage')}">📊 <b class="text-primary">${cov}%</b></span>` : ''; })()}
         ${favCount ? `<span>❤️ <b class="text-rose-500">${favCount}</b></span>` : ''}
         <button data-action="vmeanings" class="px-3 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 text-xs">
           ${show ? '🙈 ' + t('vocab_hide_meanings', lang) : '👁 ' + t('vocab_show_meanings', lang)}
@@ -1603,6 +1661,42 @@ class VocabTrainer {
             <div class="h-full bg-secondary rounded-full transition-all duration-500" style="width:${percent}%"></div>
           </div>
         </div>
+
+        ${(() => { const cov = this.coveragePct(); return cov !== null ? `
+        <div>
+          <div class="flex items-center justify-between mb-2 text-sm text-gray-600 dark:text-gray-300">
+            <span>📊 ${this.tt('vocab_coverage')}</span>
+            <span class="font-semibold">${cov}%</span>
+          </div>
+          <div class="w-full h-2 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
+            <div class="h-full bg-primary rounded-full transition-all duration-500" style="width:${Math.min(100, cov)}%"></div>
+          </div>
+        </div>` : ''; })()}
+
+        ${(this.extra && this.extra.length && typeof VOCAB_LEVELS !== 'undefined') ? `
+        <div>
+          <div class="text-sm text-gray-600 dark:text-gray-300 mb-2">📶 ${this.tt('vocab_by_level')}</div>
+          <div class="space-y-2">
+            ${(() => {
+              const deck = all;
+              return VOCAB_LEVELS.map((b, i) => {
+                const inBand = deck.filter(w => { const n = this.wordCounts(w).occ; return n >= b.lo && n <= b.hi; });
+                const kn = inBand.filter(w => w.known).length;
+                const pct = inBand.length ? Math.round((kn / inBand.length) * 100) : 0;
+                return `
+                <div>
+                  <div class="flex items-center justify-between text-xs text-gray-600 dark:text-gray-300 mb-1">
+                    <span>${this.tt('vocab_level')} ${i + 1} · ${b.label}</span>
+                    <span class="tabular-nums">${kn}/${inBand.length}</span>
+                  </div>
+                  <div class="w-full h-2 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
+                    <div class="h-full ${pct === 100 ? 'bg-green-500' : 'bg-secondary'} rounded-full transition-all duration-500" style="width:${pct}%"></div>
+                  </div>
+                </div>`;
+              }).join('');
+            })()}
+          </div>
+        </div>` : ''}
 
         ${best !== null ? `
           <p class="text-sm text-gray-500 dark:text-gray-400">
