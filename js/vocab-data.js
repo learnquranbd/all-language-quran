@@ -1348,6 +1348,832 @@ const VOCAB_THEMES = [
         meanings: { en: 'enlightening, illuminating', bn: 'আলোকদান, প্রদীপন', fr: 'illumination, éclairage', id: 'penerangan, tanwir', ur: 'روشن کرنا، نور پھیلانا', tr: 'aydınlatma, nurlandırma', ar: 'إِضَاءَةٌ وَإِنَارَة', zh: '照明，启示', ja: '照らすこと、啓蒙' }
       }
     ]
+  },
+  // v153 additions — 6 themes / 45 corpus-verified words (2026-07-28)
+  {
+    "id": "weather",
+    "icon": "🌦️",
+    "names": {
+      "en": "Weather & sky",
+      "bn": "আবহাওয়া ও আকাশ"
+    },
+    "words": [
+      {
+        "arabic": "مَطَرٌ",
+        "translit": "maṭar",
+        "count": 4,
+        "ref": "4:102",
+        "meanings": {
+          "en": "rain",
+          "bn": "বৃষ্টি",
+          "fr": "pluie",
+          "id": "hujan",
+          "ur": "بارش",
+          "tr": "yağmur",
+          "ar": "مَاءُ السَّمَاء",
+          "zh": "雨",
+          "ja": "雨"
+        }
+      },
+      {
+        "arabic": "غَيْثٌ",
+        "translit": "ghayth",
+        "count": 1,
+        "ref": "57:20",
+        "meanings": {
+          "en": "rain, saving rain",
+          "bn": "রহমতের বৃষ্টি",
+          "fr": "pluie bienfaisante",
+          "id": "hujan (pertolongan)",
+          "ur": "بارانِ رحمت",
+          "tr": "rahmet yağmuru",
+          "ar": "مَطَرٌ نَافِع",
+          "zh": "甘霖",
+          "ja": "恵みの雨"
+        }
+      },
+      {
+        "arabic": "سَحَابٌ",
+        "translit": "saḥāb",
+        "count": 2,
+        "ref": "24:40",
+        "meanings": {
+          "en": "clouds",
+          "bn": "মেঘ",
+          "fr": "nuages",
+          "id": "awan",
+          "ur": "بادل",
+          "tr": "bulut",
+          "ar": "غَيْم",
+          "zh": "云",
+          "ja": "雲"
+        }
+      },
+      {
+        "arabic": "الْبَرْقُ",
+        "translit": "al-barq",
+        "count": 3,
+        "ref": "2:20",
+        "meanings": {
+          "en": "lightning",
+          "bn": "বিদ্যুৎ, বজ্রঝলক",
+          "fr": "éclair",
+          "id": "kilat",
+          "ur": "بجلی",
+          "tr": "şimşek",
+          "ar": "وَمِيض",
+          "zh": "闪电",
+          "ja": "稲妻"
+        }
+      },
+      {
+        "arabic": "الرَّعْدُ",
+        "translit": "al-raʿd",
+        "count": 1,
+        "ref": "13:13",
+        "meanings": {
+          "en": "thunder",
+          "bn": "বজ্রধ্বনি",
+          "fr": "tonnerre",
+          "id": "guntur",
+          "ur": "گرج",
+          "tr": "gök gürültüsü",
+          "ar": "صَوْتُ السَّحَاب",
+          "zh": "雷",
+          "ja": "雷"
+        }
+      },
+      {
+        "arabic": "بَرَدٌ",
+        "translit": "barad",
+        "count": 1,
+        "ref": "24:43",
+        "meanings": {
+          "en": "hail",
+          "bn": "শিলাবৃষ্টি",
+          "fr": "grêle",
+          "id": "hujan es",
+          "ur": "اولے",
+          "tr": "dolu",
+          "ar": "حَبُّ الْغَمَام",
+          "zh": "冰雹",
+          "ja": "雹"
+        }
+      },
+      {
+        "arabic": "إِعْصَارٌ",
+        "translit": "iʿṣār",
+        "count": 1,
+        "ref": "2:266",
+        "meanings": {
+          "en": "whirlwind",
+          "bn": "ঘূর্ণিঝড়",
+          "fr": "tourbillon",
+          "id": "angin puting beliung",
+          "ur": "بگولا، آندھی",
+          "tr": "kasırga",
+          "ar": "رِيحٌ عَاصِفَة",
+          "zh": "旋风",
+          "ja": "つむじ風"
+        }
+      }
+    ]
+  },
+  {
+    "id": "food",
+    "icon": "🍯",
+    "names": {
+      "en": "Food & provision",
+      "bn": "খাদ্য ও রিযিক"
+    },
+    "words": [
+      {
+        "arabic": "طَعَامٌ",
+        "translit": "ṭaʿām",
+        "count": 11,
+        "ref": "2:61",
+        "meanings": {
+          "en": "food",
+          "bn": "খাবার",
+          "fr": "nourriture",
+          "id": "makanan",
+          "ur": "کھانا",
+          "tr": "yiyecek",
+          "ar": "مَأْكَل",
+          "zh": "食物",
+          "ja": "食べ物"
+        }
+      },
+      {
+        "arabic": "فَٰكِهَةٌ",
+        "translit": "fākihah",
+        "count": 6,
+        "ref": "36:57",
+        "meanings": {
+          "en": "fruit",
+          "bn": "ফল",
+          "fr": "fruit",
+          "id": "buah-buahan",
+          "ur": "پھل",
+          "tr": "meyve",
+          "ar": "ثِمَارٌ طَيِّبَة",
+          "zh": "水果",
+          "ja": "果物"
+        }
+      },
+      {
+        "arabic": "لَبَنٌ",
+        "translit": "laban",
+        "count": 1,
+        "ref": "47:15",
+        "meanings": {
+          "en": "milk",
+          "bn": "দুধ",
+          "fr": "lait",
+          "id": "susu",
+          "ur": "دودھ",
+          "tr": "süt",
+          "ar": "حَلِيب",
+          "zh": "奶",
+          "ja": "乳"
+        }
+      },
+      {
+        "arabic": "عَسَلٌ",
+        "translit": "ʿasal",
+        "count": 1,
+        "ref": "47:15",
+        "meanings": {
+          "en": "honey",
+          "bn": "মধু",
+          "fr": "miel",
+          "id": "madu",
+          "ur": "شہد",
+          "tr": "bal",
+          "ar": "شَهْد",
+          "zh": "蜂蜜",
+          "ja": "蜂蜜"
+        }
+      },
+      {
+        "arabic": "لَحْمٌ",
+        "translit": "laḥm",
+        "count": 2,
+        "ref": "6:145",
+        "meanings": {
+          "en": "meat, flesh",
+          "bn": "মাংস",
+          "fr": "viande, chair",
+          "id": "daging",
+          "ur": "گوشت",
+          "tr": "et",
+          "ar": "مَا يَكْسُو الْعِظَام",
+          "zh": "肉",
+          "ja": "肉"
+        }
+      },
+      {
+        "arabic": "حَبَّةٌ",
+        "translit": "ḥabbah",
+        "count": 5,
+        "ref": "2:261",
+        "meanings": {
+          "en": "grain, seed",
+          "bn": "শস্যদানা, বীজ",
+          "fr": "graine",
+          "id": "biji",
+          "ur": "دانہ",
+          "tr": "tane, tohum",
+          "ar": "بِذْرَة",
+          "zh": "谷粒，种子",
+          "ja": "穀粒、種"
+        }
+      },
+      {
+        "arabic": "نَخْلٌ",
+        "translit": "nakhl",
+        "count": 2,
+        "ref": "54:20",
+        "meanings": {
+          "en": "date-palms",
+          "bn": "খেজুর গাছ",
+          "fr": "palmiers",
+          "id": "pohon kurma",
+          "ur": "کھجور کے درخت",
+          "tr": "hurma ağaçları",
+          "ar": "شَجَرُ التَّمْر",
+          "zh": "椰枣树",
+          "ja": "ナツメヤシ"
+        }
+      },
+      {
+        "arabic": "أَعْنَابٌ",
+        "translit": "aʿnāb",
+        "count": 1,
+        "ref": "6:99",
+        "meanings": {
+          "en": "grapes, vineyards",
+          "bn": "আঙ্গুর",
+          "fr": "raisins, vignes",
+          "id": "anggur",
+          "ur": "انگور",
+          "tr": "üzümler",
+          "ar": "كُرُوم",
+          "zh": "葡萄",
+          "ja": "ブドウ"
+        }
+      }
+    ]
+  },
+  {
+    "id": "light",
+    "icon": "🌗",
+    "names": {
+      "en": "Light & darkness",
+      "bn": "আলো ও অন্ধকার"
+    },
+    "words": [
+      {
+        "arabic": "ضِيَاءٌ",
+        "translit": "ḍiyāʾ",
+        "count": 1,
+        "ref": "10:5",
+        "meanings": {
+          "en": "radiance, bright light",
+          "bn": "উজ্জ্বল আলো",
+          "fr": "clarté, éclat",
+          "id": "sinar terang",
+          "ur": "روشنی، اجالا",
+          "tr": "ışık, aydınlık",
+          "ar": "إِشْرَاق",
+          "zh": "光辉",
+          "ja": "輝き"
+        }
+      },
+      {
+        "arabic": "سِرَاجًا",
+        "translit": "sirājan",
+        "count": 2,
+        "ref": "71:16",
+        "meanings": {
+          "en": "a lamp (the sun)",
+          "bn": "প্রদীপ (সূর্য)",
+          "fr": "lampe, flambeau",
+          "id": "pelita",
+          "ur": "چراغ",
+          "tr": "kandil",
+          "ar": "مِصْبَاحٌ وَهَّاج",
+          "zh": "明灯",
+          "ja": "灯火"
+        }
+      },
+      {
+        "arabic": "مِصْبَاحٌ",
+        "translit": "miṣbāḥ",
+        "count": 1,
+        "ref": "24:35",
+        "meanings": {
+          "en": "lamp",
+          "bn": "বাতি, প্রদীপ",
+          "fr": "lampe",
+          "id": "lampu",
+          "ur": "قندیل",
+          "tr": "lamba",
+          "ar": "سِرَاجٌ مُضِيء",
+          "zh": "灯",
+          "ja": "ランプ"
+        }
+      },
+      {
+        "arabic": "شِهَابٌ",
+        "translit": "shihāb",
+        "count": 2,
+        "ref": "15:18",
+        "meanings": {
+          "en": "flaming meteor",
+          "bn": "উল্কা, অগ্নিশিখা",
+          "fr": "météore enflammé",
+          "id": "meteor menyala",
+          "ur": "شہابِ ثاقب",
+          "tr": "akan yıldız",
+          "ar": "شُعْلَةُ نَار",
+          "zh": "流星",
+          "ja": "流星"
+        }
+      },
+      {
+        "arabic": "كَوْكَبٌ",
+        "translit": "kawkab",
+        "count": 1,
+        "ref": "24:35",
+        "meanings": {
+          "en": "star, planet",
+          "bn": "নক্ষত্র, গ্রহ",
+          "fr": "astre",
+          "id": "bintang",
+          "ur": "ستارہ، سیارہ",
+          "tr": "gezegen, yıldız",
+          "ar": "نَجْمٌ لَامِع",
+          "zh": "星辰",
+          "ja": "星、惑星"
+        }
+      },
+      {
+        "arabic": "الْفَلَقُ",
+        "translit": "al-falaq",
+        "count": 1,
+        "ref": "113:1",
+        "meanings": {
+          "en": "the daybreak",
+          "bn": "প্রভাত, ঊষা",
+          "fr": "l'aube",
+          "id": "waktu subuh, fajar",
+          "ur": "صبح، پو پھٹنا",
+          "tr": "tan yeri, şafak",
+          "ar": "الصُّبْح",
+          "zh": "黎明",
+          "ja": "夜明け"
+        }
+      },
+      {
+        "arabic": "غَاسِقٌ",
+        "translit": "ghāsiq",
+        "count": 1,
+        "ref": "113:3",
+        "meanings": {
+          "en": "darkness of night",
+          "bn": "রাতের অন্ধকার",
+          "fr": "obscurité de la nuit",
+          "id": "malam yang gelap",
+          "ur": "اندھیری رات",
+          "tr": "karanlık gece",
+          "ar": "ظَلَامُ اللَّيْل",
+          "zh": "夜暗",
+          "ja": "夜の闇"
+        }
+      }
+    ]
+  },
+  {
+    "id": "emotions",
+    "icon": "💗",
+    "names": {
+      "en": "Emotions of the heart",
+      "bn": "হৃদয়ের অনুভূতি"
+    },
+    "words": [
+      {
+        "arabic": "خَوْفٌ",
+        "translit": "khawf",
+        "count": 16,
+        "ref": "2:38",
+        "meanings": {
+          "en": "fear",
+          "bn": "ভয়",
+          "fr": "peur, crainte",
+          "id": "ketakutan",
+          "ur": "خوف، ڈر",
+          "tr": "korku",
+          "ar": "فَزَع",
+          "zh": "恐惧",
+          "ja": "恐れ"
+        }
+      },
+      {
+        "arabic": "الْحُزْنُ",
+        "translit": "al-ḥuzn",
+        "count": 2,
+        "ref": "12:84",
+        "meanings": {
+          "en": "grief, sorrow",
+          "bn": "দুঃখ, শোক",
+          "fr": "tristesse",
+          "id": "kesedihan",
+          "ur": "غم",
+          "tr": "hüzün, keder",
+          "ar": "غَمّ",
+          "zh": "忧伤",
+          "ja": "悲しみ"
+        }
+      },
+      {
+        "arabic": "فَرِحِينَ",
+        "translit": "fariḥīn",
+        "count": 1,
+        "ref": "3:170",
+        "meanings": {
+          "en": "rejoicing, joyful",
+          "bn": "আনন্দিত",
+          "fr": "joyeux",
+          "id": "bergembira",
+          "ur": "خوش و خرم",
+          "tr": "sevinçliler",
+          "ar": "مَسْرُورِين",
+          "zh": "欢欣的",
+          "ja": "喜んで"
+        }
+      },
+      {
+        "arabic": "سَكِينَةٌ",
+        "translit": "sakīnah",
+        "count": 1,
+        "ref": "2:248",
+        "meanings": {
+          "en": "tranquility",
+          "bn": "প্রশান্তি",
+          "fr": "quiétude, sérénité",
+          "id": "ketenangan",
+          "ur": "سکون، اطمینان",
+          "tr": "huzur, sekinet",
+          "ar": "طُمَأْنِينَة",
+          "zh": "安宁",
+          "ja": "安らぎ"
+        }
+      },
+      {
+        "arabic": "الرُّعْبُ",
+        "translit": "al-ruʿb",
+        "count": 4,
+        "ref": "3:151",
+        "meanings": {
+          "en": "terror, dread",
+          "bn": "আতঙ্ক, ত্রাস",
+          "fr": "terreur",
+          "id": "rasa gentar",
+          "ur": "دہشت",
+          "tr": "dehşet",
+          "ar": "خَوْفٌ شَدِيد",
+          "zh": "恐怖",
+          "ja": "戦慄"
+        }
+      },
+      {
+        "arabic": "غَيْظٌ",
+        "translit": "ghayẓ",
+        "count": 1,
+        "ref": "9:15",
+        "meanings": {
+          "en": "rage, fury",
+          "bn": "ক্রোধ, রাগ",
+          "fr": "rage, colère",
+          "id": "kemarahan",
+          "ur": "غصہ",
+          "tr": "öfke",
+          "ar": "غَضَبٌ شَدِيد",
+          "zh": "暴怒",
+          "ja": "激怒"
+        }
+      },
+      {
+        "arabic": "حَسْرَةٌ",
+        "translit": "ḥasrah",
+        "count": 2,
+        "ref": "3:156",
+        "meanings": {
+          "en": "regret, anguish",
+          "bn": "আফসোস, অনুশোচনা",
+          "fr": "regret amer",
+          "id": "penyesalan",
+          "ur": "حسرت، پچھتاوا",
+          "tr": "hasret, pişmanlık",
+          "ar": "نَدَامَة",
+          "zh": "悔恨",
+          "ja": "悔恨"
+        }
+      }
+    ]
+  },
+  {
+    "id": "places",
+    "icon": "🏛️",
+    "names": {
+      "en": "Places",
+      "bn": "স্থানসমূহ"
+    },
+    "words": [
+      {
+        "arabic": "دَارٌ",
+        "translit": "dār",
+        "count": 8,
+        "ref": "6:127",
+        "meanings": {
+          "en": "abode, home",
+          "bn": "আবাস, গৃহ",
+          "fr": "demeure",
+          "id": "tempat tinggal",
+          "ur": "گھر، ٹھکانا",
+          "tr": "yurt, ev",
+          "ar": "مَسْكَن",
+          "zh": "居所",
+          "ja": "住まい"
+        }
+      },
+      {
+        "arabic": "الْمَدِينَةُ",
+        "translit": "al-madīnah",
+        "count": 14,
+        "ref": "7:123",
+        "meanings": {
+          "en": "the city",
+          "bn": "শহর, নগরী",
+          "fr": "la ville",
+          "id": "kota",
+          "ur": "شہر",
+          "tr": "şehir",
+          "ar": "بَلَدٌ كَبِير",
+          "zh": "城市",
+          "ja": "都市"
+        }
+      },
+      {
+        "arabic": "الْكَهْفُ",
+        "translit": "al-kahf",
+        "count": 4,
+        "ref": "18:9",
+        "meanings": {
+          "en": "the cave",
+          "bn": "গুহা",
+          "fr": "la caverne",
+          "id": "gua",
+          "ur": "غار",
+          "tr": "mağara",
+          "ar": "غَارٌ وَاسِع",
+          "zh": "洞穴",
+          "ja": "洞窟"
+        }
+      },
+      {
+        "arabic": "الْغَارُ",
+        "translit": "al-ghār",
+        "count": 1,
+        "ref": "9:40",
+        "meanings": {
+          "en": "the cave (of Thawr)",
+          "bn": "গুহা (সাওর)",
+          "fr": "la grotte",
+          "id": "gua (Tsur)",
+          "ur": "غارِ ثور",
+          "tr": "mağara (Sevr)",
+          "ar": "نَقْبٌ فِي الْجَبَل",
+          "zh": "山洞",
+          "ja": "洞穴"
+        }
+      },
+      {
+        "arabic": "الْمِحْرَابُ",
+        "translit": "al-miḥrāb",
+        "count": 4,
+        "ref": "3:37",
+        "meanings": {
+          "en": "prayer chamber",
+          "bn": "ইবাদতের কক্ষ, মিহরাব",
+          "fr": "sanctuaire, mihrab",
+          "id": "mihrab",
+          "ur": "محراب، عبادت گاہ",
+          "tr": "mihrap",
+          "ar": "مُصَلًّى خَاصّ",
+          "zh": "祈祷室",
+          "ja": "礼拝室"
+        }
+      },
+      {
+        "arabic": "مَقَامٌ",
+        "translit": "maqām",
+        "count": 7,
+        "ref": "2:125",
+        "meanings": {
+          "en": "station, standing-place",
+          "bn": "অবস্থানস্থল, মাকাম",
+          "fr": "station, lieu",
+          "id": "tempat berdiri, makam",
+          "ur": "مقام، جگہ",
+          "tr": "makam, durak",
+          "ar": "مَوْضِعُ الْقِيَام",
+          "zh": "立足之地",
+          "ja": "立ち所"
+        }
+      },
+      {
+        "arabic": "بَلْدَةٌ",
+        "translit": "baldah",
+        "count": 4,
+        "ref": "25:49",
+        "meanings": {
+          "en": "town, land",
+          "bn": "জনপদ, শহর",
+          "fr": "contrée, cité",
+          "id": "negeri",
+          "ur": "بستی، شہر",
+          "tr": "belde",
+          "ar": "قَرْيَةٌ عَامِرَة",
+          "zh": "城镇",
+          "ja": "町、土地"
+        }
+      },
+      {
+        "arabic": "مِصْرُ",
+        "translit": "miṣr",
+        "count": 3,
+        "ref": "12:21",
+        "meanings": {
+          "en": "Egypt; city",
+          "bn": "মিসর; নগর",
+          "fr": "Égypte ; ville",
+          "id": "Mesir; kota",
+          "ur": "مصر؛ شہر",
+          "tr": "Mısır; şehir",
+          "ar": "بَلَدُ النِّيل",
+          "zh": "埃及；城",
+          "ja": "エジプト；町"
+        }
+      }
+    ]
+  },
+  {
+    "id": "speech",
+    "icon": "🗣️",
+    "names": {
+      "en": "Speech & words",
+      "bn": "কথা ও বাণী"
+    },
+    "words": [
+      {
+        "arabic": "قَوْلٌ",
+        "translit": "qawl",
+        "count": 12,
+        "ref": "2:263",
+        "meanings": {
+          "en": "word, saying",
+          "bn": "কথা, উক্তি",
+          "fr": "parole",
+          "id": "perkataan",
+          "ur": "بات، قول",
+          "tr": "söz",
+          "ar": "كَلَام",
+          "zh": "言语",
+          "ja": "言葉"
+        }
+      },
+      {
+        "arabic": "حَدِيثٌ",
+        "translit": "ḥadīth",
+        "count": 10,
+        "ref": "4:140",
+        "meanings": {
+          "en": "speech, narration",
+          "bn": "কথা, বর্ণনা",
+          "fr": "récit, propos",
+          "id": "perkataan, kisah",
+          "ur": "بات، حدیث",
+          "tr": "söz, haber",
+          "ar": "كَلَامٌ وَخَبَر",
+          "zh": "言谈，叙述",
+          "ja": "談話、物語"
+        }
+      },
+      {
+        "arabic": "نَبَأٌ",
+        "translit": "nabaʾ",
+        "count": 7,
+        "ref": "5:27",
+        "meanings": {
+          "en": "news, tidings",
+          "bn": "সংবাদ",
+          "fr": "nouvelle",
+          "id": "berita",
+          "ur": "خبر",
+          "tr": "haber",
+          "ar": "خَبَر",
+          "zh": "消息",
+          "ja": "知らせ"
+        }
+      },
+      {
+        "arabic": "بَيَانٌ",
+        "translit": "bayān",
+        "count": 1,
+        "ref": "3:138",
+        "meanings": {
+          "en": "clear statement",
+          "bn": "সুস্পষ্ট বর্ণনা",
+          "fr": "exposé clair",
+          "id": "penjelasan",
+          "ur": "واضح بیان",
+          "tr": "açıklama, beyan",
+          "ar": "إِيضَاح",
+          "zh": "阐明",
+          "ja": "明示"
+        }
+      },
+      {
+        "arabic": "مَوْعِظَةٌ",
+        "translit": "mawʿiẓah",
+        "count": 3,
+        "ref": "2:275",
+        "meanings": {
+          "en": "admonition",
+          "bn": "উপদেশ",
+          "fr": "exhortation",
+          "id": "pelajaran, nasihat",
+          "ur": "نصیحت",
+          "tr": "öğüt",
+          "ar": "نُصْحٌ وَتَذْكِير",
+          "zh": "劝诫",
+          "ja": "訓戒"
+        }
+      },
+      {
+        "arabic": "مَثَلٌ",
+        "translit": "mathal",
+        "count": 47,
+        "ref": "2:113",
+        "meanings": {
+          "en": "parable, example",
+          "bn": "উপমা, দৃষ্টান্ত",
+          "fr": "parabole, exemple",
+          "id": "perumpamaan",
+          "ur": "مثال، تمثیل",
+          "tr": "mesel, örnek",
+          "ar": "تَشْبِيهٌ وَعِبْرَة",
+          "zh": "比喻",
+          "ja": "譬え"
+        }
+      },
+      {
+        "arabic": "لَغْوٌ",
+        "translit": "laghw",
+        "count": 1,
+        "ref": "52:23",
+        "meanings": {
+          "en": "idle talk",
+          "bn": "অনর্থক কথা",
+          "fr": "paroles vaines",
+          "id": "perkataan sia-sia",
+          "ur": "بیہودہ بات",
+          "tr": "boş söz",
+          "ar": "هَذَر",
+          "zh": "空谈",
+          "ja": "無駄話"
+        }
+      },
+      {
+        "arabic": "الزُّورُ",
+        "translit": "al-zūr",
+        "count": 2,
+        "ref": "22:30",
+        "meanings": {
+          "en": "falsehood",
+          "bn": "মিথ্যা, অসত্য",
+          "fr": "le mensonge",
+          "id": "kepalsuan, dusta",
+          "ur": "جھوٹ",
+          "tr": "yalan söz",
+          "ar": "كَذِبٌ وَبُهْتَان",
+          "zh": "谎言",
+          "ja": "虚偽"
+        }
+      }
+    ]
   }
 ];
 
