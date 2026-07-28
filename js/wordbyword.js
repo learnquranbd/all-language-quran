@@ -210,6 +210,10 @@ class WordByWord {
       // Copy this word's info to the clipboard
       if (e.target.closest('[data-word-copy]')) { this.copyWordInfo(); return; }
 
+      // Open every occurrence of this section in the shared ayah timeline
+      const otl = e.target.closest('[data-occ-tl]');
+      if (otl) { this.openOccTimeline(otl.getAttribute('data-occ-tl')); return; }
+
       // Mini "quiz me on this word's meaning"
       if (e.target.closest('[data-quiz-start]')) { this.startWordQuiz(); return; }
       const opt = e.target.closest('[data-quiz-opt]');
@@ -278,7 +282,7 @@ class WordByWord {
       const locations = index[normalized] || [];
       exactHtml = this.occurrenceSection('exact',
         `${t('exact_word_repeat', lang)} <span class="ayah-arabic !text-xl !mb-0 !pb-0 !border-b-0 mx-1">${word.arabic}</span>`,
-        locations, lang);
+        locations, lang, word.arabic);
     } catch (err) { /* index unavailable — skip */ }
 
     // Same-root repetition
@@ -289,7 +293,7 @@ class WordByWord {
         const locations = roots[root] || [];
         rootHtml = this.occurrenceSection('root',
           `${t('root_word_repeat', lang)} <span class="ayah-arabic !text-xl !mb-0 !pb-0 !border-b-0 mx-1">${root.split('').join(' ')}</span>`,
-          locations, lang);
+          locations, lang, root.split('').join('-'));
       } catch (err) { /* skip */ }
     }
 
@@ -440,18 +444,47 @@ class WordByWord {
    * One occurrence section (exact-word or same-root): count + paged chips +
    * an inline preview area. Chips preview the verse INSIDE the modal.
    */
-  occurrenceSection(id, headingHtml, locations, lang) {
-    this._occ[id] = { locations, shown: 0 };
+  occurrenceSection(id, headingHtml, locations, lang, titleAr) {
+    this._occ[id] = { locations, shown: 0, titleAr: titleAr || '' };
+    const tlBtn = (typeof ayahTimeline !== 'undefined' && ayahTimeline && locations.length > 1)
+      ? `<button data-occ-tl="${id}" class="ms-2 normal-case font-medium text-xs px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🕐 ${t('mt_group_open_all', lang)}</button>`
+      : '';
     return `
       <div class="mt-5" data-occ-section="${id}">
         <h4 class="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase mb-2">
           ${headingHtml}
           — <span class="text-primary dark:text-blue-400">${locations.length}</span> ${t('occurrences', lang)}
+          ${tlBtn}
         </h4>
         <div class="occ-chips flex flex-wrap gap-2"></div>
         <div class="occ-preview mt-2"></div>
       </div>
     `.trim();
+  }
+
+  /** Open ALL of a section's occurrences ("s:a:w" positions) in the shared
+   * timeline overlay, each matched word highlighted. */
+  openOccTimeline(id) {
+    const state = this._occ && this._occ[id];
+    if (!state || !state.locations || !state.locations.length) return;
+    if (typeof ayahTimeline === 'undefined' || !ayahTimeline) return;
+    const marks = {};
+    for (const pos of state.locations) {
+      const q = String(pos).split(':');
+      const r = q[0] + ':' + q[1];
+      (marks[r] = marks[r] || []).push(parseInt(q[2], 10));
+    }
+    const refs = Object.keys(marks);
+    const ord = k => { const [s, a] = k.split(':').map(Number); return s * 1000 + a; };
+    refs.sort((a, b) => ord(a) - ord(b));
+    const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+    ayahTimeline.open({
+      titleAr: state.titleAr,
+      subtitle: refs.length !== state.locations.length
+        ? `${refs.length} ${t('mt_group_verses_label', lang)} · ${state.locations.length}×` : '',
+      refs,
+      marks
+    });
   }
 
   /** Append the next batch of chips for a section (called after render + on "show more") */

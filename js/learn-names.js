@@ -292,6 +292,8 @@ class NamesOfAllah {
         if (typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: this._openWord || null });
         return;
       }
+      if (e.target.closest('[data-occ-tl-prophet]')) { this.openProphetTimeline(); return; }
+      if (e.target.closest('[data-occ-tl]')) { this.openOccTimeline(); return; }
       const verse = e.target.closest('[data-verse]');
       if (verse) {
         const ref = verse.getAttribute('data-verse');
@@ -365,7 +367,9 @@ class NamesOfAllah {
         this._occName = name;
         const shown = refs.slice(0, 60);
         occBox.innerHTML = `
-          <h4 class="text-sm font-bold mb-2">📿 ${t('names_in_quran', lang)} <span class="text-gray-400 font-normal">(${refs.length})</span></h4>
+          <h4 class="text-sm font-bold mb-2 flex items-center flex-wrap gap-2">📿 ${t('names_in_quran', lang)} <span class="text-gray-400 font-normal">(${refs.length})</span>
+            ${typeof ayahTimeline !== 'undefined' && ayahTimeline && refs.length > 1 ? `<button data-occ-tl class="text-xs font-medium px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🕐 ${t('mt_group_open_all', lang)}</button>` : ''}
+          </h4>
           <div id="names-occ-viewer" class="mb-3"></div>
           <div class="flex flex-wrap gap-1.5">
             ${shown.map((r, i) => `<button data-occ-jump="${i}" class="text-xs font-mono px-2 py-1 rounded-md bg-gray-100 dark:bg-gray-700 hover:bg-primary hover:text-white">${r}</button>`).join('')}
@@ -388,6 +392,47 @@ class NamesOfAllah {
     } catch (e) {
       occBox.innerHTML = '';
     }
+  }
+
+  /** Open every ayah containing the open Name in the shared timeline, the
+   * Name highlighted at its exact position in each verse. */
+  async openOccTimeline() {
+    try {
+      if (typeof ayahTimeline === 'undefined' || !ayahTimeline ||
+          !this._occRefs || !this._occRefs.length) return;
+      const tokens = await this.loadTokens();
+      if (!tokens) return;
+      const norm = this._occNorm;
+      const marks = {};
+      for (const r of this._occRefs) {
+        const toks = tokens[r] || [];
+        for (let i = 0; i < toks.length; i++) if (toks[i] === norm) (marks[r] = marks[r] || []).push(i + 1);
+      }
+      const total = Object.values(marks).reduce((s, a) => s + a.length, 0);
+      const lang = this.language || 'en';
+      ayahTimeline.open({
+        title: t('names_in_quran', lang),
+        titleAr: this._occName ? this._occName.ar : '',
+        subtitle: total !== this._occRefs.length ? `${this._occRefs.length} ${t('mt_group_verses_label', lang)} · ${total}×` : '',
+        refs: this._occRefs.slice(),
+        marks
+      });
+    } catch (e) { /* optional enrichment */ }
+  }
+
+  /** Same for a prophet's mentions (ref list only — highlight via phrase). */
+  openProphetTimeline() {
+    try {
+      if (typeof ayahTimeline === 'undefined' || !ayahTimeline ||
+          !this._prophetTl || !this._prophetTl.refs.length) return;
+      const lang = this.language || 'en';
+      ayahTimeline.open({
+        title: t('names_in_quran', lang),
+        titleAr: this._prophetTl.ar,
+        refs: this._prophetTl.refs.slice(),
+        phrase: this._prophetTl.ar
+      });
+    } catch (e) { /* optional enrichment */ }
   }
 
   /**
@@ -497,9 +542,12 @@ class NamesOfAllah {
       if (!refs.length) {
         occBox.innerHTML = '';
       } else {
+        this._prophetTl = { refs: refs.slice(), ar: (p && p.ar) || '' };
         const shown = refs.slice(0, 60);
         occBox.innerHTML = `
-          <h4 class="text-sm font-bold mb-2">📿 ${t('names_in_quran', lang)} <span class="text-gray-400 font-normal">(${refs.length})</span></h4>
+          <h4 class="text-sm font-bold mb-2 flex items-center flex-wrap gap-2">📿 ${t('names_in_quran', lang)} <span class="text-gray-400 font-normal">(${refs.length})</span>
+            ${typeof ayahTimeline !== 'undefined' && ayahTimeline && refs.length > 1 ? `<button data-occ-tl-prophet class="text-xs font-medium px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🕐 ${t('mt_group_open_all', lang)}</button>` : ''}
+          </h4>
           <div class="flex flex-wrap gap-1.5">
             ${shown.map(r => `<button data-verse="${r}" class="text-xs font-mono px-2 py-1 rounded-md bg-gray-100 dark:bg-gray-700 hover:bg-primary hover:text-white">${r}</button>`).join('')}
             ${refs.length > shown.length ? `<span class="text-xs text-gray-400 self-center">+${refs.length - shown.length}</span>` : ''}
