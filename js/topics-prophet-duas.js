@@ -551,5 +551,62 @@ const PROPHET_DUAS = [
       zh: '先知的祈祷——求你饶恕并施慈悯',
       ja: '預言者の祈り——赦し、慈悲を垂れてください'
     }
+  },
+  // v160 additions — 4 Quranic duas (2026-07-28)
+  {
+    "refs": "7:143",
+    "names": {
+      "en": "Mūsā's plea — 'My Lord, show me Yourself'",
+      "bn": "মূসার দুআ — হে আমার রব, আমাকে দেখা দিন",
+      "ar": "دعاء موسى: رَبِّ أَرِنِي أَنْظُرْ إِلَيْكَ",
+      "ur": "موسی کی دعا — اے میرے رب، مجھے اپنا دیدار کرا",
+      "id": "Permohonan Musa — 'Ya Tuhanku, perlihatkanlah diri-Mu kepadaku'",
+      "tr": "Mûsâ'nın niyazı — 'Rabbim, bana kendini göster'",
+      "fr": "Prière de Moïse — « Seigneur, montre-Toi à moi »",
+      "zh": "穆萨的祈求——我的主啊，求你显示给我看",
+      "ja": "ムーサーの願い——主よ、あなたを見せてください"
+    }
+  },
+  {
+    "refs": "10:88",
+    "names": {
+      "en": "Mūsā's prayer against Pharaoh's splendor and wealth",
+      "bn": "ফিরআউনের জাঁকজমক ও সম্পদের বিরুদ্ধে মূসার দুআ",
+      "ar": "دعاء موسى على فرعون وزينته وأمواله",
+      "ur": "فرعون کی شان و شوکت اور مال کے خلاف موسی کی دعا",
+      "id": "Doa Musa terhadap kemegahan dan harta Firaun",
+      "tr": "Mûsâ'nın Firavun'un ihtişamı ve servetine karşı duası",
+      "fr": "Prière de Moïse contre le faste et les richesses de Pharaon",
+      "zh": "穆萨针对法老浮华与财富的祈祷",
+      "ja": "ムーサーのフィルアウンの栄華と財に対する祈り"
+    }
+  },
+  {
+    "refs": "3:41",
+    "names": {
+      "en": "Zakariyyā's request for a sign",
+      "bn": "জাকারিয়ার নিদর্শন চাওয়ার দুআ",
+      "ar": "دعاء زكريا: رَبِّ اجْعَلْ لِي آيَةً",
+      "ur": "زکریا کی نشانی مانگنے کی دعا",
+      "id": "Permohonan Zakaria meminta tanda",
+      "tr": "Zekeriyya'nın işaret isteme duası",
+      "fr": "Requête de Zacharie pour un signe",
+      "zh": "宰凯里雅求迹象的祈祷",
+      "ja": "ザカリーヤーの徴を求める祈り"
+    }
+  },
+  {
+    "refs": "20:45",
+    "names": {
+      "en": "Mūsā and Hārūn's plea of fear before Pharaoh",
+      "bn": "ফিরআউনের সামনে মূসা ও হারুনের ভয়ের দুআ",
+      "ar": "دعاء موسى وهارون: رَبَّنَا إِنَّنَا نَخَافُ أَنْ يَفْرُطَ عَلَيْنَا",
+      "ur": "فرعون کے سامنے موسی اور ہارون کی خوف کی دعا",
+      "id": "Permohonan Musa dan Harun saat takut menghadapi Firaun",
+      "tr": "Mûsâ ve Hârûn'un Firavun karşısındaki korku duası",
+      "fr": "Plainte de Moïse et Aaron dans la crainte de Pharaon",
+      "zh": "穆萨与哈伦畏惧法老时的祈祷",
+      "ja": "ムーサーとハールーンのフィルアウンを前にした恐れの祈り"
+    }
   }
 ];

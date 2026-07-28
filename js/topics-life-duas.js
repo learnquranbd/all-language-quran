@@ -355,6 +355,63 @@ const HARDSHIP_DUAS = [
       zh: '鲁特的祈祷：我的主啊，求您援助我对抗作恶的民众',
       ja: 'ルートの祈り：主よ、腐敗を広める民に対して私を助けてください'
     }
+  },
+  // v160 additions — 4 Quranic duas (2026-07-28)
+  {
+    "refs": "4:75",
+    "names": {
+      "en": "The oppressed people's cry for rescue and a helper",
+      "bn": "নিপীড়িতদের মুক্তি ও সাহায্যকারীর জন্য আর্তনাদ",
+      "ar": "دعاء المستضعفين: أَخْرِجْنَا مِنْ هَٰذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا",
+      "ur": "مظلوموں کی رہائی اور مددگار کی دعا",
+      "id": "Seruan kaum tertindas memohon keselamatan dan penolong",
+      "tr": "Ezilenlerin kurtuluş ve yardımcı duası",
+      "fr": "Le cri des opprimés pour la délivrance et un secoureur",
+      "zh": "受压迫者求解救与援助者的呼求",
+      "ja": "抑圧された人々の救出と助け手を求める叫び"
+    }
+  },
+  {
+    "refs": "23:109",
+    "names": {
+      "en": "Du'a of the mocked believers for forgiveness and mercy",
+      "bn": "উপহাসের শিকার মুমিনদের ক্ষমা ও রহমতের দুআ",
+      "ar": "دعاء المؤمنين: رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا",
+      "ur": "مذاق اڑائے گئے مومنوں کی مغفرت اور رحمت کی دعا",
+      "id": "Doa kaum beriman yang diejek memohon ampunan dan rahmat",
+      "tr": "Alay edilen müminlerin bağışlanma ve rahmet duası",
+      "fr": "Prière des croyants raillés pour le pardon et la miséricorde",
+      "zh": "被嘲笑的信士们求饶恕与慈悯的祈祷",
+      "ja": "嘲笑された信者たちの赦しと慈悲の祈り"
+    }
+  },
+  {
+    "refs": "28:33-34",
+    "names": {
+      "en": "Mūsā's plea of fear and request for Hārūn's support",
+      "bn": "মূসার ভয়ের দুআ ও হারুনের সাহায্য চাওয়া",
+      "ar": "دعاء موسى خوفاً وطلبه هارون رِدْءاً يصدقه",
+      "ur": "موسی کی خوف کی دعا اور ہارون کی مدد کی درخواست",
+      "id": "Permohonan Musa saat takut dan meminta dukungan Harun",
+      "tr": "Mûsâ'nın korku duası ve Hârûn'u destek istemesi",
+      "fr": "Plainte de Moïse dans la crainte et demande du soutien d'Aaron",
+      "zh": "穆萨畏惧时求哈伦相助的祈祷",
+      "ja": "ムーサーの恐れの訴えとハールーンの支えを求める祈り"
+    }
+  },
+  {
+    "refs": "27:44",
+    "names": {
+      "en": "The Queen of Saba's du'a — 'I have wronged myself' — submitting with Sulaymān",
+      "bn": "সাবার রানির দুআ — আমি নিজের ওপর জুলুম করেছি — সুলায়মানের সাথে আত্মসমর্পণ",
+      "ar": "دعاء ملكة سبأ: رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ",
+      "ur": "ملکہ سبا کی دعا — میں نے اپنی جان پر ظلم کیا — سلیمان کے ساتھ اسلام",
+      "id": "Doa ratu Saba — 'Aku telah menzalimi diriku' — berserah bersama Sulaiman",
+      "tr": "Sebe kraliçesinin duası — 'Rabbim, nefsime zulmettim' — Süleyman'la teslimiyet",
+      "fr": "Du'a de la reine de Saba — « Je me suis fait du tort » — soumission avec Salomon",
+      "zh": "赛伯邑女王的祈祷——我确已自欺，如今随苏莱曼归顺真主",
+      "ja": "サバアの女王の祈り——私は自分を害しました、スライマーンと共に帰依します"
+    }
   }
 ];
 

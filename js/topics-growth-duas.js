@@ -285,6 +285,63 @@ const KNOWLEDGE_DUAS = [
       zh: '每个有知识者之上，都有更有知识者——求学中的谦逊',
       ja: 'すべての知識ある者の上に、さらに知る御方がいる — 学びにおける謙虚さ'
     }
+  },
+  // v160 additions — 4 Quranic duas (2026-07-28)
+  {
+    "refs": "2:260",
+    "names": {
+      "en": "Ibrāhīm's request to see revival of the dead — certainty of heart",
+      "bn": "মৃতদের জীবিত করা দেখতে চাওয়া — ইবরাহিমের অন্তরের প্রশান্তির দুআ",
+      "ar": "دعاء إبراهيم: رَبِّ أَرِنِي كَيْفَ تُحْيِي الْمَوْتَىٰ — ليطمئن قلبه",
+      "ur": "ابراہیم کی دعا — مردوں کو زندہ کرنا دکھا، تاکہ دل مطمئن ہو",
+      "id": "Permohonan Ibrahim melihat cara menghidupkan yang mati — ketenteraman hati",
+      "tr": "İbrahim'in ölülerin diriltilişini görme isteği — kalbin tatmini",
+      "fr": "Requête d'Ibrahim de voir comment Allah ranime les morts — apaiser le cœur",
+      "zh": "易卜拉欣求见复活死者之法——使内心安定",
+      "ja": "イブラーヒームの死者の蘇りを見る願い——心の確信のため"
+    }
+  },
+  {
+    "refs": "66:8",
+    "names": {
+      "en": "Du'a of the believers — 'Perfect for us our light and forgive us'",
+      "bn": "মুমিনদের দুআ — আমাদের নূর পূর্ণ করে দিন ও ক্ষমা করুন",
+      "ar": "رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا",
+      "ur": "مومنوں کی دعا — ہمارا نور مکمل فرما اور ہمیں بخش دے",
+      "id": "Doa kaum beriman — 'Sempurnakanlah cahaya kami dan ampunilah kami'",
+      "tr": "Müminlerin duası — 'Nurumuzu tamamla ve bizi bağışla'",
+      "fr": "Prière des croyants — « Parachève notre lumière et pardonne-nous »",
+      "zh": "信士们的祈祷——求你完成我们的光明并饶恕我们",
+      "ja": "信者たちの祈り——私たちの光を完成させ、赦してください"
+    }
+  },
+  {
+    "refs": "5:83",
+    "names": {
+      "en": "Du'a of those moved to tears by the truth — 'Register us among the witnesses'",
+      "bn": "সত্য চিনে অশ্রুসিক্তদের দুআ — আমাদের সাক্ষীদের মধ্যে লিখে নিন",
+      "ar": "دعاء الذين فاضت أعينهم من الدمع: رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+      "ur": "حق پہچان کر آنسو بہانے والوں کی دعا — ہمیں گواہوں میں لکھ لے",
+      "id": "Doa mereka yang menangis mengenali kebenaran — catat kami bersama para saksi",
+      "tr": "Hakkı tanıyıp gözyaşı dökenlerin duası — 'Bizi şahitlerle beraber yaz'",
+      "fr": "Prière de ceux émus aux larmes par la vérité — « Inscris-nous parmi les témoins »",
+      "zh": "因认识真理而流泪者的祈祷——求你把我们记录在见证者之列",
+      "ja": "真理を認めて涙する者たちの祈り——証人の中に記してください"
+    }
+  },
+  {
+    "refs": "39:46",
+    "names": {
+      "en": "The Prophet's invocation of the Creator, Knower of the unseen",
+      "bn": "নবীর দুআ — আসমান-জমিনের স্রষ্টা, গায়েব ও প্রকাশ্যের জ্ঞানীর কাছে",
+      "ar": "اللَّهُمَّ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ",
+      "ur": "نبی ﷺ کی دعا — اے آسمانوں اور زمین کے خالق، غیب اور حاضر کے جاننے والے",
+      "id": "Doa Nabi kepada Pencipta langit dan bumi, Yang Mengetahui yang gaib",
+      "tr": "Peygamberin duası — göklerin ve yerin Yaratıcısı, gaybın Bilicisi",
+      "fr": "Invocation du Prophète au Créateur, Connaisseur de l'invisible",
+      "zh": "先知的祈祷——天地的创造者、幽明的全知者",
+      "ja": "預言者の祈り——天地の創造者、幽玄と顕現を知る御方へ"
+    }
   }
 ];
 

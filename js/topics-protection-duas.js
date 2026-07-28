@@ -425,6 +425,63 @@ const PROTECTION_DUAS = [
       zh: '将自身事务托付真主以获护佑',
       ja: '守護のため自らの事をアッラーに委ねる'
     }
+  },
+  // v160 additions — 4 Quranic duas (2026-07-28)
+  {
+    "refs": "19:18",
+    "names": {
+      "en": "Maryam's refuge in the Most Merciful",
+      "bn": "মারইয়ামের পরম দয়াময়ের কাছে আশ্রয়ের দুআ",
+      "ar": "استعاذة مريم بالرحمن",
+      "ur": "مریم کی رحمان سے پناہ کی دعا",
+      "id": "Maryam berlindung kepada Yang Maha Pengasih",
+      "tr": "Meryem'in Rahmân'a sığınması",
+      "fr": "Marie cherche refuge auprès du Tout Miséricordieux",
+      "zh": "麦尔彦求庇护于至仁主",
+      "ja": "マルヤムの慈悲深き御方への庇護の祈り"
+    }
+  },
+  {
+    "refs": "40:27",
+    "names": {
+      "en": "Mūsā's refuge from every arrogant denier of the Reckoning",
+      "bn": "হিসাব দিবসে অবিশ্বাসী প্রত্যেক অহংকারী থেকে মূসার আশ্রয়ের দুআ",
+      "ar": "استعاذة موسى من كل متكبر لا يؤمن بيوم الحساب",
+      "ur": "ہر متکبر سے موسی کی پناہ کی دعا جو یومِ حساب پر ایمان نہیں رکھتا",
+      "id": "Musa berlindung dari setiap orang sombong yang tak percaya hari perhitungan",
+      "tr": "Mûsâ'nın hesap gününe inanmayan her kibirliden sığınma duası",
+      "fr": "Moïse cherche refuge contre tout arrogant niant le Jour du Compte",
+      "zh": "穆萨求庇护于不信清算日的一切傲慢者",
+      "ja": "ムーサーの清算の日を信じない傲慢な者からの庇護の祈り"
+    }
+  },
+  {
+    "refs": "12:23",
+    "names": {
+      "en": "Yūsuf's refuge in Allah from temptation",
+      "bn": "প্রলোভন থেকে ইউসুফের আল্লাহর কাছে আশ্রয়",
+      "ar": "استعاذة يوسف بالله من الفتنة — مَعَاذَ اللَّهِ",
+      "ur": "آزمائش سے یوسف کی اللہ کی پناہ",
+      "id": "Yusuf berlindung kepada Allah dari godaan",
+      "tr": "Yusuf'un fitneden Allah'a sığınması",
+      "fr": "Joseph cherche refuge en Allah contre la tentation",
+      "zh": "优素福求庇护于真主以拒诱惑",
+      "ja": "ユースフの誘惑からのアッラーへの庇護"
+    }
+  },
+  {
+    "refs": "11:56",
+    "names": {
+      "en": "Hūd's reliance on Allah against all plotting",
+      "bn": "সকল ষড়যন্ত্রের বিরুদ্ধে হুদের আল্লাহর ওপর ভরসা",
+      "ar": "توكل هود على الله في وجه كيد قومه",
+      "ur": "تمام سازشوں کے خلاف ہود کا اللہ پر توکل",
+      "id": "Tawakal Hud kepada Allah menghadapi segala tipu daya",
+      "tr": "Hûd'un tüm tuzaklara karşı Allah'a tevekkülü",
+      "fr": "La confiance de Houd en Allah face à tous les complots",
+      "zh": "呼德面对一切图谋时对真主的托靠",
+      "ja": "フードのあらゆる策謀に対するアッラーへの信頼"
+    }
   }
 ];
 
