@@ -908,8 +908,8 @@ const MUTASHABIHAT_GROUPS = [
     "nameEn": "When He Decrees a Matter: Be, and It Is",
     "nameBn": "তিনি কিছু সিদ্ধান্ত করলে বলেন: হও, আর তা হয়ে যায়",
     "nameAr": "قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
-    "descEn": "\"When He decrees a matter, He only says to it: Be — and it is\" closes four verses: 2:117, 3:47, 19:35 and 40:68. Three begin the clause with \"idhā\" while 40:68 alone has \"fa-idhā\". The settings differ — the Originator of the heavens and the earth (2:117), the announcement of a son to Maryam (3:47), the denial that Allah takes a son (19:35), and He who gives life and death (40:68).",
-    "descBn": "\"তিনি যখন কোনো বিষয়ের সিদ্ধান্ত নেন, তখন কেবল বলেন: হও — আর তা হয়ে যায়\" — এই সমাপ্তি চারটি আয়াতে আসে: ২:১১৭, ৩:৪৭, ১৯:৩৫ ও ৪০:৬৮। তিনটিতে বাক্যাংশটি \"ইযা\" দিয়ে শুরু, কেবল ৪০:৬৮-তে \"ফা-ইযা\"। প্রেক্ষাপটও ভিন্ন — আসমান-জমিনের উদ্ভাবক (২:১১৭), মারইয়ামকে পুত্রের সুসংবাদ (৩:৪৭), আল্লাহর সন্তান গ্রহণের অস্বীকৃতি (১৯:৩৫), এবং যিনি জীবন ও মৃত্যু দেন (৪০:৬৮)।",
+    "descEn": "\"When He decrees a matter, He only says to it: Be — and it is\" closes four verses: 2:117, 3:47, 19:35 and 40:68. The lead-in varies: 2:117 has \"wa-idhā\", 3:47 and 19:35 have \"idhā\", while 40:68 alone has \"fa-idhā\". The settings differ — the Originator of the heavens and the earth (2:117), the announcement of a son to Maryam (3:47), the denial that Allah takes a son (19:35), and He who gives life and death (40:68).",
+    "descBn": "\"তিনি যখন কোনো বিষয়ের সিদ্ধান্ত নেন, তখন কেবল বলেন: হও — আর তা হয়ে যায়\" — এই সমাপ্তি চারটি আয়াতে আসে: ২:১১৭, ৩:৪৭, ১৯:৩৫ ও ৪০:৬৮। শুরুটা ভিন্ন: ২:১১৭-এ \"ওয়া-ইযা\", ৩:৪৭ ও ১৯:৩৫-এ \"ইযা\", কেবল ৪০:৬৮-তে \"ফা-ইযা\"। প্রেক্ষাপটও ভিন্ন — আসমান-জমিনের উদ্ভাবক (২:১১৭), মারইয়ামকে পুত্রের সুসংবাদ (৩:৪৭), আল্লাহর সন্তান গ্রহণের অস্বীকৃতি (১৯:৩৫), এবং যিনি জীবন ও মৃত্যু দেন (৪০:৬৮)।",
     "verses": [
       "2:117",
       "3:47",

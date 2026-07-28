@@ -274,7 +274,10 @@ class WordByWord {
       morphHtml = `<p class="text-gray-400 text-sm">${t('grammar_unavailable', lang)}</p>`;
     }
 
-    // Exact-word repetition (same written form anywhere in the Quran)
+    // Exact-word repetition (same written form anywhere in the Quran).
+    // Sections build into a LOCAL store; it becomes this._occ only after the
+    // staleness check below, so a slow older click can't clobber a newer one.
+    const occStore = {};
     let exactHtml = '';
     try {
       const index = await QuranData.getWordIndex();
@@ -282,7 +285,7 @@ class WordByWord {
       const locations = index[normalized] || [];
       exactHtml = this.occurrenceSection('exact',
         `${t('exact_word_repeat', lang)} <span class="ayah-arabic !text-xl !mb-0 !pb-0 !border-b-0 mx-1">${word.arabic}</span>`,
-        locations, lang, word.arabic);
+        locations, lang, word.arabic, occStore);
     } catch (err) { /* index unavailable — skip */ }
 
     // Same-root repetition
@@ -293,11 +296,12 @@ class WordByWord {
         const locations = roots[root] || [];
         rootHtml = this.occurrenceSection('root',
           `${t('root_word_repeat', lang)} <span class="ayah-arabic !text-xl !mb-0 !pb-0 !border-b-0 mx-1">${root.split('').join(' ')}</span>`,
-          locations, lang, root.split('').join('-'));
+          locations, lang, root.split('').join('-'), occStore);
       } catch (err) { /* skip */ }
     }
 
     if (token !== this._detailToken) return;   // a newer word was clicked meanwhile
+    this._occ = occStore;
     const corpusLoc = `(${ayah.surah}:${ayah.ayah}:${word.position})`;
 
     body.innerHTML = `
@@ -444,8 +448,8 @@ class WordByWord {
    * One occurrence section (exact-word or same-root): count + paged chips +
    * an inline preview area. Chips preview the verse INSIDE the modal.
    */
-  occurrenceSection(id, headingHtml, locations, lang, titleAr) {
-    this._occ[id] = { locations, shown: 0, titleAr: titleAr || '' };
+  occurrenceSection(id, headingHtml, locations, lang, titleAr, store) {
+    (store || this._occ)[id] = { locations, shown: 0, titleAr: titleAr || '' };
     const tlBtn = (typeof ayahTimeline !== 'undefined' && ayahTimeline && locations.length > 1)
       ? `<button data-occ-tl="${id}" class="ms-2 normal-case font-medium text-xs px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🕐 ${t('mt_group_open_all', lang)}</button>`
       : '';

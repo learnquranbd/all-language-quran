@@ -24,6 +24,13 @@ class AyahTimeline {
     this._el = null;
     this._words = null;    // ref -> [word tokens]
     this._trFiles = {};    // lang -> dict | null
+    // A language switch would leave glosses/labels in the old language while
+    // fill() uses the new one — close instead of showing mixed-language rows.
+    try {
+      window.addEventListener('settingChanged', (e) => {
+        if (e && e.detail && e.detail.key === 'language') this.close();
+      });
+    } catch (_) { /* ignore */ }
   }
 
   /* ---------- helpers ---------- */
@@ -79,6 +86,10 @@ class AyahTimeline {
   close() {
     if (this._el) { try { this._el.remove(); } catch (_) { /* ignore */ } this._el = null; }
     this._paging = null;
+    if (this._escHandler) {
+      try { window.removeEventListener('keydown', this._escHandler, true); } catch (_) { /* ignore */ }
+      this._escHandler = null;
+    }
   }
 
   /** One timeline entry. An optional per-ref gloss (opts.glosses — the
@@ -173,6 +184,16 @@ class AyahTimeline {
     document.body.appendChild(el);
     this._el = el;
     window.addEventListener('tabChanged', () => this.close(), { once: true });
+    // Esc must close THIS overlay, not the modal that may sit beneath it —
+    // capture phase so underlying escClose handlers never see the event.
+    this._escHandler = (e) => {
+      if (e.key === 'Escape' && this._el) {
+        e.stopImmediatePropagation();
+        e.preventDefault();
+        this.close();
+      }
+    };
+    window.addEventListener('keydown', this._escHandler, true);
 
     // Fill Arabic (with shared-phrase / marked-word highlighting) and
     // translations asynchronously. o.marks: { "s:a": [1-based word indices] }

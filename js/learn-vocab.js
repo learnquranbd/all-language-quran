@@ -239,13 +239,11 @@ class VocabTrainer {
   }
 
   /** Words currently due for review (never-seen words count as due). */
-  dueList() {
-    const rev = this.getReview();
-    const now = Date.now();
+  /** Everything currently eligible for SRS: curated + theme words, plus
+   * corpus words the user engaged with (marked known or ❤️). */
+  _srsPool() {
     const pool = this.studyPool().slice();
     const seen = new Set(pool.map(w => w.arabic));
-    // Corpus words the user engaged with (marked known or ❤️) join the SRS
-    // deck — the review queue follows what the user is actually learning.
     if (this.extra && this.extra.length) {
       if (!this._extraByArabic) {
         this._extraByArabic = {};
@@ -256,7 +254,13 @@ class VocabTrainer {
         if (e && !seen.has(a)) { seen.add(a); pool.push(e); }
       }
     }
-    return pool.filter(w => {
+    return pool;
+  }
+
+  dueList() {
+    const rev = this.getReview();
+    const now = Date.now();
+    return this._srsPool().filter(w => {
       const r = rev[w.arabic];
       return !r || r.due <= now;
     });
@@ -1048,6 +1052,7 @@ class VocabTrainer {
                  root, rootAyahs: root ? (this._rootAyahs || {})[root] || 0 : 0 };
     }
     this._wordData = out;
+    this._suggest = null;   // 🎯 memo was computed without curated coverage — recompute
     this._saveSummary();
     if (this.mode === 'flashcards' || this.mode === 'progress' || this.mode === 'review') this.render();
   }
@@ -1068,7 +1073,9 @@ class VocabTrainer {
 
   /* ---------- daily practice streak ---------- */
   _dayStr(offsetDays) {
-    const d = new Date(Date.now() + (offsetDays || 0) * 86400000);
+    // Calendar-day arithmetic (not ms) so DST transitions can't skip a day.
+    const d = new Date();
+    d.setDate(d.getDate() + (offsetDays || 0));
     return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
   }
 
@@ -1122,7 +1129,7 @@ class VocabTrainer {
       list = VOCAB_WORDS.map(w => ({ ...w, key: w.arabic }))
         .concat(this.extra || []);
       const sug = this.suggestOn ? this.suggestNext() : null;
-      if (sug) {
+      if (sug && sug.words.size) {
         list = list.filter(w => sug.words.has(w.arabic));
       } else {
         const band = this.level ? VOCAB_LEVELS[this.level - 1] : null;
@@ -1730,7 +1737,12 @@ class VocabTrainer {
     }
 
     if (!this.reviewQueue.length) {
-      const future = Object.values(rev).map(r => r.due).filter(d => d > Date.now());
+      // Only entries still in the SRS pool — un-known/un-fav'd corpus words
+      // leave orphaned review records that must not drive the "next due" hint.
+      const eligible = new Set(this._srsPool().map(w => w.arabic));
+      const future = Object.entries(rev)
+        .filter(([k]) => eligible.has(k))
+        .map(([, r]) => r.due).filter(d => d > Date.now());
       const next = future.length ? Math.min(...future) : null;
       return `
         <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-lg border border-gray-200 dark:border-gray-700 p-10 text-center space-y-3">

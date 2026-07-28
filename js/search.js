@@ -440,7 +440,7 @@ class SearchView {
     const refs = this.results.verses.map(v => v.key);
     const lang = this.language;
     ayahTimeline.open({
-      title: `🔍 ${this._esc(this.query.trim())}`,
+      title: `🔍 ${this.query.trim()}`,   // timeline escapes titles itself
       subtitle: this.results.count !== refs.length
         ? `${refs.length} ${t('mt_group_verses_label', lang)} · ${this.results.count}×` : '',
       refs,
