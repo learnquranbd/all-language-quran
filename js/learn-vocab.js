@@ -44,7 +44,8 @@ const VOCAB_I18N_FALLBACK = {
   vocab_word_ayahs:     { en: 'Ayahs with this word', bn: 'এই শব্দটি যেসব আয়াতে', zh: '含此词的经文', ja: 'この語を含む節'},
   vocab_root_ayahs:     { en: 'Ayahs with this root', bn: 'একই মূল (রুট) যেসব আয়াতে', zh: '同词根的经文', ja: '同じ語根の節'},
   vocab_coverage:       { en: 'of all words in the Quran covered', bn: 'কুরআনের মোট শব্দের কভারেজ', zh: '古兰经词汇覆盖率', ja: 'クルアーン語彙カバー率'},
-  vocab_by_level:       { en: 'Progress by level', bn: 'স্তর অনুযায়ী অগ্রগতি', zh: '按级别进度', ja: 'レベル別進捗'}
+  vocab_by_level:       { en: 'Progress by level', bn: 'স্তর অনুযায়ী অগ্রগতি', zh: '按级别进度', ja: 'レベル別進捗'},
+  vocab_suggest:        { en: 'Study the 50 words that add the most coverage', bn: 'যে ৫০টি শব্দ শিখলে কভারেজ সবচেয়ে বাড়বে', zh: '学习最能提升覆盖率的50个词', ja: 'カバー率を最も高める50語を学ぶ'}
 };
 
 /** Frequency bands for the full ≥2-occurrence corpus deck (most → least common). */
@@ -70,6 +71,7 @@ class VocabTrainer {
     this.mode = 'flashcards';
     this.category = 'all';       // flashcards filter: 'all', 'fav', or a VOCAB_THEMES id
     this.level = 0;              // frequency-band filter in 'all': 0 = every level, 1-6 = VOCAB_LEVELS index+1
+    this.suggestOn = false;      // 🎯 filter: study the words adding the most coverage
     this.search = '';            // flashcards free-text filter (arabic/translit/meaning)
 
     // Quiz state
@@ -511,6 +513,32 @@ class VocabTrainer {
     }
   }
 
+  /** A real corpus position for this word (its own for corpus cards, the
+   * first affix-aware match for curated ones) — used for recitation audio. */
+  audioPos(w) {
+    if (w.dyn && w.ref && w.pos) return { ref: w.ref, pos: w.pos };
+    const d = (typeof ayahTimeline !== 'undefined' && ayahTimeline && this._wordData)
+      ? this._wordData[ayahTimeline.norm(w.arabic)] : null;
+    if (d) { const r = Object.keys(d.marks)[0]; if (r) return { ref: r, pos: d.marks[r][0] }; }
+    return null;
+  }
+
+  /** Play the actual recited word from the per-word audio CDN; falls back to
+   * speech synthesis offline or on any error. */
+  playWordAudio(ref, pos, fallbackText) {
+    try {
+      if (typeof QuranData === 'undefined' || !QuranData.wordAudioUrl) throw new Error('n/a');
+      const [s, a] = String(ref).split(':').map(Number);
+      this._wordAudioEl = this._wordAudioEl || new Audio();
+      const el = this._wordAudioEl;
+      el.onerror = () => this.speak(fallbackText || '');
+      el.src = QuranData.wordAudioUrl(s, a, parseInt(pos, 10) || 1);
+      el.play().catch(() => this.speak(fallbackText || ''));
+    } catch (e) {
+      this.speak(fallbackText || '');
+    }
+  }
+
   /** Word-by-word glosses for the current language ({ "s:a": [gloss…] },
    * position-aligned with quran-words) — powers per-occurrence meanings in
    * the 📖/🌱 timelines. Reloaded on language switch. */
@@ -599,19 +627,14 @@ class VocabTrainer {
     });
   }
 
-  /** Exact share of the Quran's 77k word tokens covered by the words the
-   * user marked known — computed as a union of covered corpus POSITIONS, so
-   * overlapping words never double-count. Returns null until data is ready. */
-  coveragePct() {
-    if (!this._totalTokens) return null;
-    const known = this.getKnown();
-    if (!known.length) return 0;
+  /** Set of corpus positions ("s:a:w") covered by the known words. */
+  _coveredSet() {
     if (!this._extraByArabic) {
       this._extraByArabic = {};
       for (const e of (this.extra || [])) this._extraByArabic[e.arabic] = e;
     }
     const covered = new Set();
-    for (const a of known) {
+    for (const a of this.getKnown()) {
       const e = this._extraByArabic[a];
       if (e && this._idx && this._idx[e.norm]) {
         for (const p of this._idx[e.norm]) covered.add(p);
@@ -621,7 +644,59 @@ class VocabTrainer {
         ? this._wordData[ayahTimeline.norm(a)] : null;
       if (d) for (const r in d.marks) for (const p of d.marks[r]) covered.add(r + ':' + p);
     }
-    return Math.round((covered.size / this._totalTokens) * 1000) / 10;
+    return covered;
+  }
+
+  /** Exact share of the Quran's 77k word tokens covered by the words the
+   * user marked known — computed as a union of covered corpus POSITIONS, so
+   * overlapping words never double-count. Returns null until data is ready. */
+  coveragePct() {
+    if (!this._totalTokens) return null;
+    if (!this.getKnown().length) return 0;
+    return Math.round((this._coveredSet().size / this._totalTokens) * 1000) / 10;
+  }
+
+  /** The n unknown words that add the most NEW coverage, picked greedily on
+   * exact uncovered corpus positions, with the total gain they would bring.
+   * Memoized per known-list; recomputes as words get marked known. */
+  suggestNext(n = 50) {
+    if (!this._idx || !this._totalTokens || !this.extra || !this.extra.length) return null;
+    const sig = this.getKnown().join('|') + ':' + n;
+    if (this._suggest && this._suggest.sig === sig) return this._suggest;
+    const covered = this._coveredSet();
+    const seen = new Set(this.getKnown());
+    const cands = [];
+    if (typeof ayahTimeline !== 'undefined' && ayahTimeline && this._wordData) {
+      for (const w of VOCAB_WORDS) {
+        if (seen.has(w.arabic)) continue;
+        seen.add(w.arabic);
+        const d = this._wordData[ayahTimeline.norm(w.arabic)];
+        if (!d) continue;
+        const pos = [];
+        for (const r in d.marks) for (const p of d.marks[r]) pos.push(r + ':' + p);
+        cands.push({ arabic: w.arabic, pos });
+      }
+    }
+    for (const e of this.extra) {
+      if (seen.has(e.arabic)) continue;
+      seen.add(e.arabic);
+      cands.push({ arabic: e.arabic, pos: this._idx[e.norm] || [] });
+    }
+    for (const c of cands) { let g = 0; for (const p of c.pos) if (!covered.has(p)) g++; c.gain = g; }
+    cands.sort((a, b) => b.gain - a.gain);
+    const words = new Set(), tmp = new Set();
+    let gain = 0;
+    for (const c of cands) {
+      if (words.size >= n) break;
+      let g = 0;
+      for (const p of c.pos) if (!covered.has(p) && !tmp.has(p)) g++;
+      if (!g) continue;
+      for (const p of c.pos) tmp.add(p);
+      words.add(c.arabic);
+      gain += g;
+    }
+    this._suggest = { sig, words, gainPct: Math.round((gain / this._totalTokens) * 1000) / 10 };
+    return this._suggest;
   }
 
   onClick(e) {
@@ -669,7 +744,9 @@ class VocabTrainer {
         this.revealed.has(key) ? this.revealed.delete(key) : this.revealed.add(key);
         this.render();
       }
-      this.speak(vcard.getAttribute('data-text') || '');
+      const wr = vcard.getAttribute('data-wref');
+      if (wr) this.playWordAudio(wr, vcard.getAttribute('data-wpos'), vcard.getAttribute('data-text') || '');
+      else this.speak(vcard.getAttribute('data-text') || '');
       return;
     }
 
@@ -707,6 +784,11 @@ class VocabTrainer {
         }
         break;
       }
+      case 'vsuggest':
+        this.suggestOn = !this.suggestOn;
+        this.page = 0;
+        this.render();
+        break;
       case 'vlevel': {
         const lv = parseInt(el.getAttribute('data-lv'), 10) || 0;
         if (lv !== this.level) {
@@ -739,9 +821,13 @@ class VocabTrainer {
       case 'rev-speak':
         this.speak(el.getAttribute('data-text') || '');
         break;
-      case 'wotd-audio':
-        this.playWord(this.wordOfDay());
+      case 'wotd-audio': {
+        const w = this.wordOfDay();
+        const ap = w ? this.audioPos(w) : null;
+        if (ap) this.playWordAudio(ap.ref, ap.pos, w.arabic);
+        else this.playWord(w);
         break;
+      }
       case 'quiz-play': {
         const q = this.quiz && this.quiz.questions[this.quiz.round];
         if (q && q.word) this.playWord(q.word);
@@ -969,10 +1055,15 @@ class VocabTrainer {
     } else {
       list = VOCAB_WORDS.map(w => ({ ...w, key: w.arabic }))
         .concat(this.extra || []);
-      const band = this.level ? VOCAB_LEVELS[this.level - 1] : null;
-      // Filter on the SAME number the card badge displays (computed exact
-      // occurrences once available, hand count until then).
-      if (band) list = list.filter(w => { const n = this.wordCounts(w).occ; return n >= band.lo && n <= band.hi; });
+      const sug = this.suggestOn ? this.suggestNext() : null;
+      if (sug) {
+        list = list.filter(w => sug.words.has(w.arabic));
+      } else {
+        const band = this.level ? VOCAB_LEVELS[this.level - 1] : null;
+        // Filter on the SAME number the card badge displays (computed exact
+        // occurrences once available, hand count until then).
+        if (band) list = list.filter(w => { const n = this.wordCounts(w).occ; return n >= band.lo && n <= band.hi; });
+      }
     }
     const favSet = new Set(this.getFav());
     return list.map(w => ({ ...w, key: w.key || w.arabic, known: known.has(w.arabic), fav: favSet.has(w.arabic) }));
@@ -1117,6 +1208,9 @@ class VocabTrainer {
         <span>✓ <b class="text-green-600">${knownCount}</b></span>
         ${(() => { const cov = this.coveragePct(); return cov !== null && cov > 0
           ? `<span title="${this.tt('vocab_coverage')}">📊 <b class="text-primary">${cov}%</b></span>` : ''; })()}
+        ${(this.category || 'all') === 'all' ? (() => { const s = this.suggestNext(); return s && s.gainPct > 0
+          ? `<button data-action="vsuggest" title="${this.tt('vocab_suggest')}"
+               class="px-2.5 py-1 rounded-full text-xs font-medium border transition-colors ${this.suggestOn ? 'bg-primary text-white border-primary' : 'border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700'}">🎯 +${s.gainPct}%</button>` : ''; })() : ''}
         ${favCount ? `<span>❤️ <b class="text-rose-500">${favCount}</b></span>` : ''}
         <button data-action="vmeanings" class="px-3 py-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 text-xs">
           ${show ? '🙈 ' + t('vocab_hide_meanings', lang) : '👁 ' + t('vocab_show_meanings', lang)}
@@ -1133,9 +1227,10 @@ class VocabTrainer {
           const revealed = show || (this.revealed && this.revealed.has(w.key));
           const ref = w.ref || (this.curatedRefs || {})[w.arabic];
           const wc = this.wordCounts(w);
+          const ap = this.audioPos(w);
           return `
           <div class="rounded-xl bg-white dark:bg-gray-800 border ${w.known ? 'border-green-300 dark:border-green-700' : 'border-gray-200 dark:border-gray-700'} p-2.5 flex flex-col items-center gap-1">
-            <button data-vcard="${this.escapeHtml(w.key)}" data-text="${this.escapeHtml(w.arabic)}" class="flex flex-col items-center gap-0.5 w-full">
+            <button data-vcard="${this.escapeHtml(w.key)}" data-text="${this.escapeHtml(w.arabic)}" data-wref="${ap ? ap.ref : ''}" data-wpos="${ap ? ap.pos : ''}" class="flex flex-col items-center gap-0.5 w-full">
               <span class="ayah-arabic !text-3xl !leading-normal" dir="rtl">${w.arabic}</span>
               ${w.translit ? `<span class="text-xs italic text-gray-400">${w.translit}</span>` : ''}
               <span class="text-sm text-gray-700 dark:text-gray-200 text-center leading-tight min-h-[1.25rem]" dir="auto" ${w.dyn ? `data-vmean="${this.escapeHtml(key)}"` : ''}>
