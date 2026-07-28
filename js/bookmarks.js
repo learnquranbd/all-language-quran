@@ -315,6 +315,13 @@ class Bookmarks {
       return;
     }
 
+    // Open the (filtered) bookmark list in the shared ayah timeline
+    if (e.target.closest('#bm-timeline')) {
+      e.preventDefault();
+      this.openBookmarksTimeline();
+      return;
+    }
+
     // Sort toggle (recent ⇄ by surah)
     const sortBtn = e.target.closest('#bm-sort');
     if (sortBtn) {
@@ -444,6 +451,21 @@ class Bookmarks {
     setTimeout(() => this.renderStrip(), 0);
   }
 
+  /** Open the current bookmark view (collection filter + sort respected) as
+   * one scrollable timeline. */
+  openBookmarksTimeline() {
+    if (typeof ayahTimeline === 'undefined' || !ayahTimeline) return;
+    const colls = this.read('bookmarkCollections', {});
+    let list = this.getBookmarks().slice();
+    if (this.sortMode === 'surah') list.sort((a, b) => this.byKey(a, b));
+    if (this.activeCollection) list = list.filter(k => colls[k] === this.activeCollection);
+    if (!list.length) return;
+    ayahTimeline.open({
+      title: `★ ${t('your_bookmarks', this.language)}${this.activeCollection ? ' · ' + this.activeCollection : ''}`,
+      refs: list
+    });
+  }
+
   buildStripHtml() {
     const lang = this.language;
     const lastRead = this.read('lastRead', null);
@@ -532,6 +554,7 @@ class Bookmarks {
       <h3 class="text-xs uppercase font-semibold text-gray-400 dark:text-gray-500 mb-2 px-1 flex items-center gap-1">
         <span>★ ${t('your_bookmarks', lang)}</span>
         <span class="normal-case px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-300 text-[10px] font-medium">${bookmarks.length}</span>
+        ${(typeof ayahTimeline !== 'undefined' && ayahTimeline && bookmarks.length > 1) ? `<button id="bm-timeline" class="p-1.5 rounded normal-case text-gray-400 hover:text-primary dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700" title="${t('mt_group_open_all', lang)}" aria-label="${t('mt_group_open_all', lang)}">🕐</button>` : ''}
         <button id="bm-sort" class="ml-auto p-1.5 rounded normal-case font-medium text-gray-400 hover:text-primary dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700 flex items-center gap-0.5"
                 title="${t('sort_by', lang)}" aria-label="${t('sort_by', lang)}">↕ <span class="hidden sm:inline">${t(this.sortMode === 'surah' ? 'sort_surah' : 'sort_recent', lang)}</span></button>
         <button id="bm-export-json" class="p-1.5 rounded text-gray-400 hover:text-primary dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-700 normal-case font-mono" title="${t('export_json', lang)}" aria-label="${t('export_json', lang)}">{ }</button>

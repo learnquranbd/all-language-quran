@@ -339,6 +339,9 @@ class TopicsBrowser {
       if (mt) { this.showModalTopic(mt.getAttribute('data-mtopic')); return; }
       const mc = e.target.closest('[data-mcoll]');
       if (mc) { this.showModalCollection(mc.getAttribute('data-mcoll')); return; }
+      const tlBtn = e.target.closest('[data-topic-tl]');
+      if (tlBtn) { this.openTopicTimeline(tlBtn.getAttribute('data-topic-tl')); return; }
+
       const verse = e.target.closest('[data-verse]');
       if (verse) {
         const ref = verse.getAttribute('data-verse');
@@ -441,6 +444,21 @@ class TopicsBrowser {
     this.modalBody.innerHTML = this.verseSectionHtml(item.verses, favBtn);
   }
 
+  /** Open a topic/collection's refs (ranges expanded) as one timeline. */
+  openTopicTimeline(refsCsv) {
+    if (typeof ayahTimeline === 'undefined' || !ayahTimeline) return;
+    const refs = [];
+    for (const r of String(refsCsv || '').split(',')) {
+      const m = /^(\d+):(\d+)(?:-(\d+))?$/.exec(r.trim());
+      if (!m) continue;
+      const s = +m[1], a = +m[2], b = m[3] ? +m[3] : a;
+      for (let x = a; x <= b && x - a < 50; x++) refs.push(`${s}:${x}`);
+    }
+    if (!refs.length) return;
+    const title = (this.modalTitle && this.modalTitle.textContent) || this.tt('topics_title');
+    ayahTimeline.open({ title, refs });
+  }
+
   openCollection(id) {
     this.ensureModal();
     this.overlay.classList.remove('hidden');
@@ -487,6 +505,8 @@ class TopicsBrowser {
         <span class="flex items-center gap-1.5">
           <button data-copyrefs="${this.esc(verses.join(','))}" title="${this.esc(this.tt('copy'))}" aria-label="${this.esc(this.tt('copy'))}"
                   class="text-xs px-2.5 py-1.5 rounded-lg border border-gray-200 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">📋</button>
+          ${(typeof ayahTimeline !== 'undefined' && ayahTimeline && verses.length > 1) ? `<button data-topic-tl="${this.esc(verses.join(','))}" title="${this.esc(this.tt('mt_group_open_all'))}" aria-label="${this.esc(this.tt('mt_group_open_all'))}"
+                  class="text-xs px-2.5 py-1.5 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 hover:bg-primary/20">🕐</button>` : ''}
           ${openBar}
         </span>
       </div>
