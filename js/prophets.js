@@ -622,21 +622,51 @@ class ProphetsView {
           ${PROPHETS_MENTIONS.map(m => {
             const pct = Math.max(4, Math.round((m.n / max) * 100));
             const note = this.lc({en: m.noteEn, bn: m.noteBn});
-            return `
-            <div>
+            const clickable = typeof PROPHETS_MENTION_POS !== 'undefined' && PROPHETS_MENTION_POS[m.pid]
+              && typeof ayahTimeline !== 'undefined' && ayahTimeline;
+            const inner = `
               <div class="flex items-center justify-between gap-2 text-xs">
                 <span class="font-medium text-gray-700 dark:text-gray-200">${this.esc(this.pname(m.pid))}</span>
-                <span class="text-gray-400 dark:text-gray-500 whitespace-nowrap">~${m.n} ${this.esc(this.tt('prophets_mentions_times'))}</span>
+                <span class="text-gray-400 dark:text-gray-500 whitespace-nowrap">${m.n} ${this.esc(this.tt('prophets_mentions_times'))}${clickable ? ' <span class="text-primary" aria-hidden="true">🕐</span>' : ''}</span>
               </div>
               <div class="h-1.5 mt-0.5 rounded-full bg-gray-100 dark:bg-gray-700 overflow-hidden">
                 <div class="h-full bg-primary/70" style="width:${pct}%"></div>
               </div>
-              ${note ? `<p class="text-[0.65rem] text-gray-400 dark:text-gray-500 mt-0.5" dir="auto">${this.esc(note)}</p>` : ''}
-            </div>`;
+              ${note ? `<p class="text-[0.65rem] text-gray-400 dark:text-gray-500 mt-0.5" dir="auto">${this.esc(note)}</p>` : ''}`;
+            return clickable
+              ? `<button type="button" data-prophets-mentions="${m.pid}" class="block w-full text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">${inner}</button>`
+              : `<div>${inner}</div>`;
           }).join('')}
         </div>
         <p class="text-[0.7rem] text-gray-400 dark:text-gray-500 leading-relaxed mt-2" dir="auto">ℹ️ ${this.esc(this.tt('prophets_mentions_note'))}</p>
       </div>`;
+  }
+
+  /** Open every Quranic mention of the prophet's name in the shared timeline,
+   * the name highlighted at its exact position in each verse. */
+  openMentionsTimeline(pid) {
+    try {
+      if (typeof ayahTimeline === 'undefined' || !ayahTimeline ||
+          typeof PROPHETS_MENTION_POS === 'undefined' || !PROPHETS_MENTION_POS[pid]) return;
+      const marks = {};
+      for (const pos of PROPHETS_MENTION_POS[pid]) {
+        const q = pos.split(':');
+        const r = q[0] + ':' + q[1];
+        (marks[r] = marks[r] || []).push(parseInt(q[2], 10));
+      }
+      const refs = Object.keys(marks);
+      const ord = k => { const [s, a] = k.split(':').map(Number); return s * 1000 + a; };
+      refs.sort((a, b) => ord(a) - ord(b));
+      const p = (typeof PROPHETS_DATA !== 'undefined' ? PROPHETS_DATA : []).find(x => x.id === pid);
+      const total = PROPHETS_MENTION_POS[pid].length;
+      ayahTimeline.open({
+        title: this.pname(pid),
+        titleAr: p ? p.ar : '',
+        subtitle: total !== refs.length ? `${refs.length} ${this.tt('mt_group_verses_label')} · ${total}×` : '',
+        refs,
+        marks
+      });
+    } catch (e) { /* optional enrichment */ }
   }
 
   // ── quiz ─────────────────────────────────────────────────────────────
@@ -952,6 +982,9 @@ class ProphetsView {
 
     this.container.addEventListener('click', (e) => {
       try {
+        const men = e.target.closest('[data-prophets-mentions]');
+        if (men) { this.openMentionsTimeline(men.getAttribute('data-prophets-mentions')); return; }
+
         const back = e.target.closest('[data-prophets-back]');
         if (back) {
           this.selected = null;
