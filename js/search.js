@@ -123,6 +123,7 @@ class SearchView {
     });
 
     this.container.addEventListener('click', (e) => {
+      if (e.target.closest('[data-search-tl]')) { this.openResultsTimeline(); return; }
       const modeBtn = e.target.closest('.search-mode-btn');
       if (modeBtn) {
         const m = modeBtn.getAttribute('data-mode');
@@ -423,6 +424,30 @@ class SearchView {
    * Results rendering
    * ------------------------------------------------------------------ */
 
+  /** Open every result verse in the shared timeline, matched words
+   * highlighted at their exact ranges. */
+  openResultsTimeline() {
+    if (typeof ayahTimeline === 'undefined' || !ayahTimeline ||
+        !this.results || !this.results.verses.length) return;
+    const marks = {};
+    for (const v of this.results.verses) {
+      const pos = [];
+      for (const rg of (v.ranges || [])) {
+        for (let i = 0; i < rg.len; i++) pos.push(rg.start + i + 1);
+      }
+      if (pos.length) marks[v.key] = pos;
+    }
+    const refs = this.results.verses.map(v => v.key);
+    const lang = this.language;
+    ayahTimeline.open({
+      title: `🔍 ${this._esc(this.query.trim())}`,
+      subtitle: this.results.count !== refs.length
+        ? `${refs.length} ${t('mt_group_verses_label', lang)} · ${this.results.count}×` : '',
+      refs,
+      marks
+    });
+  }
+
   renderResults() {
     const resultsEl = this.container.querySelector('#search-results');
     if (!resultsEl) return;
@@ -462,6 +487,8 @@ class SearchView {
     resultsEl.innerHTML = `
       <div class="mb-4 p-4 rounded-lg bg-primary/10 dark:bg-blue-900/30 border border-primary/20 dark:border-blue-800">
         <p class="text-base font-semibold text-primary dark:text-blue-200 break-words" dir="auto">${headline}</p>
+        ${(typeof ayahTimeline !== 'undefined' && ayahTimeline && verses.length > 1) ? `
+        <button data-search-tl class="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-primary/15 dark:bg-blue-500/20 text-primary dark:text-blue-200 text-xs font-medium hover:bg-primary/25 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🕐 ${t('mt_group_open_all', lang)}</button>` : ''}
       </div>
       <div class="space-y-3">${cards}</div>
       ${moreBtn}
