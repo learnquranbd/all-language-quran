@@ -301,6 +301,34 @@ class Sarf {
   }
 
   /** Change the active root: persist it, reset any in-progress quiz, re-render. */
+  /** Open every ayah containing this root in the shared timeline overlay,
+   * each derived word highlighted (positions from data/roots.json). */
+  async openRootTimeline(root) {
+    try {
+      if (typeof ayahTimeline === 'undefined' || !ayahTimeline ||
+          typeof QuranData === 'undefined' || !QuranData.getRoots) return;
+      const roots = await QuranData.getRoots();
+      const list = roots && roots[root];
+      if (!list || !list.length) return;
+      const marks = {};
+      for (const pos of list) {
+        const q = pos.split(':');
+        const r = q[0] + ':' + q[1];
+        (marks[r] = marks[r] || []).push(parseInt(q[2], 10));
+      }
+      const refs = Object.keys(marks);
+      const ord = k => { const [s, a] = k.split(':').map(Number); return s * 1000 + a; };
+      refs.sort((a, b) => ord(a) - ord(b));
+      ayahTimeline.open({
+        title: this.gloss(root),
+        titleAr: root.split('').join('-'),
+        subtitle: `${refs.length} ${this.tt('mt_group_verses_label')} · ${list.length}×`,
+        refs,
+        marks
+      });
+    } catch (e) { /* optional enrichment */ }
+  }
+
   setRoot(root) {
     if (!this.data.roots[root]) return;
     this.root = root;
@@ -321,6 +349,9 @@ class Sarf {
 
       const rootBtn = e.target.closest('[data-sarf-root]');
       if (rootBtn) { this.setRoot(rootBtn.getAttribute('data-sarf-root')); return; }
+
+      const tlBtn = e.target.closest('[data-sarf-tl]');
+      if (tlBtn) { this.openRootTimeline(tlBtn.getAttribute('data-sarf-tl')); return; }
 
       // Prev / next root navigation
       const nav = e.target.closest('[data-sarf-nav]');
@@ -612,6 +643,8 @@ class Sarf {
           ${chip(`${distinct} ${this.ui('sarf_distinct_forms')}`)}
           ${r.verbs.length ? chip(`🔤 ${this.tt('sarf_verbs')} ×${verbOcc}`) : ''}
           ${r.nouns.length ? chip(`📐 ${this.tt('sarf_nouns')} ×${nounOcc}`) : ''}
+          <button data-sarf-tl="${this.esc(this.root)}"
+                  class="text-xs px-2 py-0.5 rounded-full bg-primary/10 text-primary dark:bg-primary/20 font-medium hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🕐 ${this.tt('mt_group_open_all')}</button>
         </div>
         ${canPractice ? `<div class="text-center">
           <button data-sarf-practice-toggle aria-pressed="${this.practiceOn}"

@@ -39,6 +39,7 @@ const DASH_L = {
   vocab_due:    { en: 'due for review', bn: 'রিভিউয়ের অপেক্ষায়' },
   vocab_cta:    { en: 'Practice words', bn: 'শব্দ অনুশীলন করুন' },
   vocab_review: { en: 'Review now', bn: 'এখনই রিভিউ করুন' },
+  vocab_streak: { en: 'day streak', bn: 'দিনের ধারা' },
 };
 
 class DashboardView {
@@ -234,6 +235,7 @@ class DashboardView {
       <div class="flex items-center justify-around gap-2 mb-3">
         ${stat(s.known || 0, this.L(DASH_L.vocab_known))}
         ${s.coverage !== null && s.coverage !== undefined ? stat(this.esc(String(s.coverage)) + '%', this.L(DASH_L.vocab_cov)) : ''}
+        ${s.streak ? stat('🔥 ' + s.streak, this.L(DASH_L.vocab_streak)) : ''}
         ${s.due ? stat(s.due, this.L(DASH_L.vocab_due)) : ''}
       </div>
       <div class="flex flex-wrap gap-2">

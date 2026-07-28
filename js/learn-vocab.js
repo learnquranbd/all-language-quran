@@ -45,7 +45,8 @@ const VOCAB_I18N_FALLBACK = {
   vocab_root_ayahs:     { en: 'Ayahs with this root', bn: 'একই মূল (রুট) যেসব আয়াতে', zh: '同词根的经文', ja: '同じ語根の節'},
   vocab_coverage:       { en: 'of all words in the Quran covered', bn: 'কুরআনের মোট শব্দের কভারেজ', zh: '古兰经词汇覆盖率', ja: 'クルアーン語彙カバー率'},
   vocab_by_level:       { en: 'Progress by level', bn: 'স্তর অনুযায়ী অগ্রগতি', zh: '按级别进度', ja: 'レベル別進捗'},
-  vocab_suggest:        { en: 'Study the 50 words that add the most coverage', bn: 'যে ৫০টি শব্দ শিখলে কভারেজ সবচেয়ে বাড়বে', zh: '学习最能提升覆盖率的50个词', ja: 'カバー率を最も高める50語を学ぶ'}
+  vocab_suggest:        { en: 'Study the 50 words that add the most coverage', bn: 'যে ৫০টি শব্দ শিখলে কভারেজ সবচেয়ে বাড়বে', zh: '学习最能提升覆盖率的50个词', ja: 'カバー率を最も高める50語を学ぶ'},
+  vocab_streak:         { en: 'day streak', bn: 'দিনের ধারা', zh: '连续天数', ja: '連続日数'}
 };
 
 /** Frequency bands for the full ≥2-occurrence corpus deck (most → least common). */
@@ -748,6 +749,7 @@ class VocabTrainer {
       const w = vknow.getAttribute('data-vknow');
       const known = this.getKnown();
       this.saveKnown(known.includes(w) ? known.filter(x => x !== w) : known.concat(w));
+      this._bumpStreak();
       this._saveSummary();
       this.render();
       return;
@@ -775,6 +777,7 @@ class VocabTrainer {
         this.setMode(el.getAttribute('data-mode'));
         break;
       case 'quiz-choice':
+        this._bumpStreak();
         this.answerQuiz(el);
         break;
       case 'play-again':
@@ -1057,8 +1060,37 @@ class VocabTrainer {
         known: this.getKnown().length,
         coverage: cov === null ? null : cov,
         due: this.dueList().length,
+        streak: this.getStreak(),
         ts: Date.now()
       }));
+    } catch (e) { /* ignore */ }
+  }
+
+  /* ---------- daily practice streak ---------- */
+  _dayStr(offsetDays) {
+    const d = new Date(Date.now() + (offsetDays || 0) * 86400000);
+    return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
+  }
+
+  /** Current streak: consecutive days with at least one practice action.
+   * Yesterday still counts (today's practice hasn't happened yet). */
+  getStreak() {
+    try {
+      const s = JSON.parse(localStorage.getItem('lq_vocab_streak') || 'null');
+      if (!s) return 0;
+      return (s.last === this._dayStr(0) || s.last === this._dayStr(-1)) ? (s.n || 0) : 0;
+    } catch (e) { return 0; }
+  }
+
+  /** Record a practice action for today (know-toggle, review grade, quiz answer). */
+  _bumpStreak() {
+    try {
+      const today = this._dayStr(0);
+      let s = null;
+      try { s = JSON.parse(localStorage.getItem('lq_vocab_streak') || 'null'); } catch (e2) { /* ignore */ }
+      if (s && s.last === today) return;
+      const n = (s && s.last === this._dayStr(-1)) ? (s.n || 0) + 1 : 1;
+      localStorage.setItem('lq_vocab_streak', JSON.stringify({ last: today, n }));
     } catch (e) { /* ignore */ }
   }
 
@@ -1240,6 +1272,8 @@ class VocabTrainer {
       <div class="flex flex-wrap items-center justify-center gap-3 text-sm text-gray-500 dark:text-gray-400">
         <span><b class="text-gray-800 dark:text-gray-100">${all.length}</b> ${t('vocab_words_label', lang)}</span>
         <span>✓ <b class="text-green-600">${knownCount}</b></span>
+        ${(() => { const st = this.getStreak(); return st > 0
+          ? `<span title="${this.tt('vocab_streak')}">🔥 <b class="text-amber-600">${st}</b></span>` : ''; })()}
         ${(() => { const cov = this.coveragePct(); return cov !== null && cov > 0
           ? `<span title="${this.tt('vocab_coverage')}">📊 <b class="text-primary">${cov}%</b></span>` : ''; })()}
         ${(this.category || 'all') === 'all' ? (() => { const s = this.suggestNext(); return s && s.gainPct > 0
@@ -1678,6 +1712,7 @@ class VocabTrainer {
       if (this.reviewQueue.length > 1) this.reviewQueue.push(this.reviewQueue.shift());
     }
     this.saveReview(rev);
+    this._bumpStreak();
     this._saveSummary();
     this.reviewedCount++;
     this.reviewRevealed = false;
