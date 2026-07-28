@@ -946,5 +946,220 @@ const MUTASHABIHAT_GROUPS = [
       "34:19",
       "42:33"
     ]
+  },
+  // v159 additions — 15 data-mined groups round 2 (2026-07-28)
+  {
+    "id": "bala-min-rabbikum",
+    "nameEn": "Deliverance from Pharaoh — a Great Trial",
+    "nameBn": "ফিরআউন থেকে মুক্তি — মহাপরীক্ষা",
+    "nameAr": "أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ",
+    "descEn": "Three retellings of the rescue from the people of Pharaoh end with the same nine-word run \"…abnāʾakum wa-yastaḥyūna nisāʾakum wa-fī dhālikum balāʾun min rabbikum ʿaẓīm\". The killing verb differs: yudhabbiḥūna in 2:49, yuqattilūna in 7:141, and wa-yudhabbiḥūna in 14:6, where the whole clause is quoted inside Musa’s speech to his people.",
+    "descBn": "ফিরআউনের লোকদের থেকে মুক্তির তিনটি বর্ণনা একই নয়-শব্দের ধারা \"…আবনাআকুম ওয়া-ইয়াসতাহইয়ূনা নিসাআকুম ওয়া-ফী যালিকুম বালাউম মির রাব্বিকুম আযীম\" দিয়ে শেষ হয়। হত্যার ক্রিয়াপদ ভিন্ন: ২:৪৯-এ ইউযাব্বিহূনা, ৭:১৪১-এ ইউকাত্তিলূনা, আর ১৪:৬-এ ওয়া-ইউযাব্বিহূনা — সেখানে পুরো বাক্যটি মূসা (আ.)-এর নিজ জাতির প্রতি ভাষণের ভেতরে উদ্ধৃত।",
+    "verses": [
+      "2:49",
+      "7:141",
+      "14:6"
+    ]
+  },
+  {
+    "id": "lan-tughniya-amwal",
+    "nameEn": "Wealth and Children Will Not Avail",
+    "nameBn": "ধন-সম্পদ ও সন্তান কাজে আসবে না",
+    "nameAr": "لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ",
+    "descEn": "Three verses share the run \"lan tughniya ʿanhum amwāluhum wa-lā awlāduhum mina llāhi shayʾan\". 3:10 ends \"wa-ulāʾika hum waqūdu n-nār\", while 3:116 and 58:17 both end \"aṣḥābu n-nāri hum fīhā khālidūn\"; 58:17 alone omits the opening \"inna lladhīna kafarū\".",
+    "descBn": "তিনটি আয়াতে \"লান তুগনিয়া আনহুম আমওয়ালুহুম ওয়া-লা আওলাদুহুম মিনাল্লাহি শাইআ\" ধারাটি অভিন্ন। ৩:১০ শেষ হয় \"ওয়া-উলাইকা হুম ওয়াকূদুন-নার\" দিয়ে, আর ৩:১১৬ ও ৫৮:১৭ উভয়েই শেষ হয় \"আসহাবুন-নারি হুম ফীহা খালিদূন\" দিয়ে; কেবল ৫৮:১৭-এ শুরুর \"ইন্নাল্লাযীনা কাফারূ\" নেই।",
+    "verses": [
+      "3:10",
+      "3:116",
+      "58:17"
+    ]
+  },
+  {
+    "id": "man-lam-yahkum",
+    "nameEn": "Whoever Does Not Judge by What Allah Revealed",
+    "nameBn": "আল্লাহর নাযিলকৃত বিধানে ফয়সালা না করলে",
+    "nameAr": "وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ",
+    "descEn": "Three consecutive-passage verses of Surah al-Māʾidah close with the identical run \"wa-man lam yaḥkum bimā anzala llāhu fa-ulāʾika humu…\" — only the final word changes: al-kāfirūn (5:44), aẓ-ẓālimūn (5:45), al-fāsiqūn (5:47).",
+    "descBn": "সূরা মায়িদার একই অনুচ্ছেদের তিনটি আয়াত অভিন্ন ধারা \"ওয়া-মান লাম ইয়াহকুম বিমা আনযালাল্লাহু ফা-উলাইকা হুমু…\" দিয়ে শেষ হয় — কেবল শেষ শব্দটি বদলায়: আল-কাফিরূন (৫:৪৪), আয-যালিমূন (৫:৪৫), আল-ফাসিকূন (৫:৪৭)।",
+    "verses": [
+      "5:44",
+      "5:45",
+      "5:47"
+    ]
+  },
+  {
+    "id": "inni-akhafu-asaytu",
+    "nameEn": "\"I Fear the Punishment of a Great Day\"",
+    "nameBn": "\"আমি এক মহাদিবসের শাস্তির ভয় করি\"",
+    "nameAr": "إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+    "descEn": "The declaration \"innī akhāfu in ʿaṣaytu rabbī ʿadhāba yawmin ʿaẓīm\" appears three times. 6:15 and 39:13 are word-for-word identical whole verses beginning with \"qul\"; in 10:15 the same eight-word clause closes a long verse answering those who demanded a different Qur’an.",
+    "descBn": "\"ইন্নী আখাফু ইন আসাইতু রাব্বী আযাবা ইয়াওমিন আযীম\" ঘোষণাটি তিনবার এসেছে। ৬:১৫ ও ৩৯:১৩ \"কুল\" দিয়ে শুরু হওয়া শব্দে-শব্দে অভিন্ন পূর্ণ আয়াত; আর ১০:১৫-এ একই আট-শব্দের বাক্যাংশ ভিন্ন কুরআন দাবিকারীদের জবাব দেওয়া এক দীর্ঘ আয়াতের সমাপ্তিতে এসেছে।",
+    "verses": [
+      "6:15",
+      "10:15",
+      "39:13"
+    ]
+  },
+  {
+    "id": "akinnah-waqra",
+    "nameEn": "Coverings on Hearts, Deafness in Ears",
+    "nameBn": "অন্তরে আবরণ, কানে বধিরতা",
+    "nameAr": "عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا",
+    "descEn": "Three verses share the run \"jaʿalnā ʿalā qulūbihim akinnatan an yafqahūhu wa-fī ādhānihim waqrā\". 6:25 and 17:46 open it with \"wa-jaʿalnā\", 18:57 with \"innā jaʿalnā\"; what follows differs each time — disputing deniers (6:25), turning away at the mention of the Lord alone (17:46), never accepting guidance (18:57).",
+    "descBn": "তিনটি আয়াতে \"জাআলনা আলা কুলূবিহিম আকিন্নাতান আঁই-ইয়াফকাহূহু ওয়া-ফী আযানিহিম ওয়াকরা\" ধারাটি অভিন্ন। ৬:২৫ ও ১৭:৪৬-এ শুরুটা \"ওয়া-জাআলনা\", ১৮:৫৭-এ \"ইন্না জাআলনা\"; এরপরের অংশ প্রতিবারই ভিন্ন — বিতর্ককারী অস্বীকারকারীরা (৬:২৫), এক রবের উল্লেখে পিঠ ফিরিয়ে চলে যাওয়া (১৭:৪৬), কখনো হিদায়াত গ্রহণ না করা (১৮:৫৭)।",
+    "verses": [
+      "6:25",
+      "17:46",
+      "18:57"
+    ]
+  },
+  {
+    "id": "yujadilu-bighayri-ilm",
+    "nameEn": "Disputing about Allah without Knowledge",
+    "nameBn": "জ্ঞান ছাড়া আল্লাহ সম্পর্কে বিতর্ক",
+    "nameAr": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍ",
+    "descEn": "The run \"wa-mina n-nāsi man yujādilu fī llāhi bi-ghayri ʿilm\" occurs three times. In 22:3 it continues \"wa-yattabiʿu kulla shayṭānin marīd\", while 22:8 and 31:20 share the longer continuation \"wa-lā hudan wa-lā kitābin munīr\" — in 31:20 the clause comes at the end of the verse.",
+    "descBn": "\"ওয়া-মিনান-নাসি মাঁই-ইউজাদিলু ফিল্লাহি বিগাইরি ইলম\" ধারাটি তিনবার এসেছে। ২২:৩-এ এর পরে \"ওয়া-ইয়াত্তাবিউ কুল্লা শাইতানিম মারীদ\", আর ২২:৮ ও ৩১:২০ দীর্ঘতর ধারাবাহিকতা \"ওয়া-লা হুদাওঁ ওয়া-লা কিতাবিম মুনীর\" ভাগ করে নেয় — ৩১:২০-এ বাক্যাংশটি আয়াতের শেষে এসেছে।",
+    "verses": [
+      "22:3",
+      "22:8",
+      "31:20"
+    ]
+  },
+  {
+    "id": "kulli-mathal-quran",
+    "nameEn": "Every Kind of Example in This Qur’an",
+    "nameBn": "এই কুরআনে সব ধরনের দৃষ্টান্ত",
+    "nameAr": "لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ",
+    "descEn": "Three verses state \"wa-laqad … li-n-nāsi fī hādhā l-qurʾāni min kulli mathal\" with different verbs and endings: ṣarrafnā in 17:89 (ending \"most people refuse except disbelief\"), ḍarabnā in 30:58 (deniers call it falsehood) and 39:27 (ending \"laʿallahum yatadhakkarūn\").",
+    "descBn": "তিনটি আয়াতে \"ওয়া-লাকাদ … লিন-নাসি ফী হাযাল-কুরআনি মিন কুল্লি মাসাল\" বলা হয়েছে, তবে ক্রিয়া ও সমাপ্তি ভিন্ন: ১৭:৮৯-এ সাররাফনা (শেষে \"অধিকাংশ মানুষ অস্বীকার ছাড়া মানে না\"), ৩০:৫৮ ও ৩৯:২৭-এ দারাবনা (৩০:৫৮-এ অস্বীকারকারীরা একে বাতিল বলে; ৩৯:২৭ শেষ হয় \"লাআল্লাহুম ইয়াতাযাক্কারূন\" দিয়ে)।",
+    "verses": [
+      "17:89",
+      "30:58",
+      "39:27"
+    ]
+  },
+  {
+    "id": "jawaba-qawmihi",
+    "nameEn": "\"His People’s Only Answer Was…\"",
+    "nameBn": "\"তার জাতির একমাত্র জবাব ছিল…\"",
+    "nameAr": "كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟",
+    "descEn": "Four verses share \"mā kāna jawāba qawmihī illā an qālū\" — with wa-mā only in 7:82 and fa-mā in the other three. The quoted answer varies: expel them (7:82), expel the family of Lūṭ (27:56), kill or burn him (29:24, about Ibrāhīm), and bring us Allah’s punishment (29:29).",
+    "descBn": "চারটি আয়াতে \"মা কানা জাওয়াবা কাওমিহী ইল্লা আন কালূ\" অভিন্ন — কেবল ৭:৮২-এ ওয়া-মা, বাকি তিনটিতে ফা-মা। উদ্ধৃত জবাব ভিন্ন: তাদের বের করে দাও (৭:৮২), লূতের পরিবারকে বের করে দাও (২৭:৫৬), তাকে হত্যা করো বা পুড়িয়ে দাও (২৯:২৪, ইবরাহীম প্রসঙ্গে), আর আমাদের ওপর আল্লাহর শাস্তি নিয়ে এসো (২৯:২৯)।",
+    "verses": [
+      "7:82",
+      "27:56",
+      "29:24",
+      "29:29"
+    ]
+  },
+  {
+    "id": "turab-nutfa-stages",
+    "nameEn": "From Dust, Then a Drop, Then…",
+    "nameBn": "মাটি থেকে, তারপর শুক্রবিন্দু, তারপর…",
+    "nameAr": "مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ",
+    "descEn": "Four creation verses share the run \"min turābin thumma min nuṭfatin thumma\", then diverge: \"fashioned you as a man\" (18:37), the full embryo-to-old-age sequence via ʿalaqah (22:5 and 40:67), and \"made you pairs\" (35:11).",
+    "descBn": "সৃষ্টি-বিষয়ক চারটি আয়াতে \"মিন তুরাবিন সুম্মা মিন নুতফাতিন সুম্মা\" ধারাটি অভিন্ন, তারপর পথ আলাদা: \"তোমাকে পূর্ণ মানুষরূপে গড়লেন\" (১৮:৩৭), আলাকা হয়ে ভ্রূণ থেকে বার্ধক্য পর্যন্ত পূর্ণ ধারা (২২:৫ ও ৪০:৬৭), আর \"তোমাদের জোড়া জোড়া করলেন\" (৩৫:১১)।",
+    "verses": [
+      "18:37",
+      "22:5",
+      "35:11",
+      "40:67"
+    ]
+  },
+  {
+    "id": "kafaru-wa-saddu",
+    "nameEn": "Disbelieved and Averted from Allah’s Path",
+    "nameBn": "কুফরি করেছে ও আল্লাহর পথে বাধা দিয়েছে",
+    "nameAr": "ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ",
+    "descEn": "The run \"alladhīna kafarū wa-ṣaddū ʿan sabīli llāh\" recurs five times, three of them in Surah 47 (verses 1, 32, 34). The pronounced consequence differs each time: far astray (4:167), punishment upon punishment (16:88), deeds made lost (47:1), deeds nullified (47:32), no forgiveness for those who die as disbelievers (47:34).",
+    "descBn": "\"আল্লাযীনা কাফারূ ওয়া-সাদ্দূ আন সাবীলিল্লাহ\" ধারাটি পাঁচবার এসেছে, যার তিনটি সূরা ৪৭-এ (আয়াত ১, ৩২, ৩৪)। ঘোষিত পরিণতি প্রতিবার ভিন্ন: সুদূর পথভ্রষ্টতা (৪:১৬৭), শাস্তির ওপর শাস্তি (১৬:৮৮), আমল বিনষ্ট (৪৭:১), আমল বাতিল (৪৭:৩২), কুফর অবস্থায় মৃত্যুবরণকারীদের ক্ষমা নেই (৪৭:৩৪)।",
+    "verses": [
+      "4:167",
+      "16:88",
+      "47:1",
+      "47:32",
+      "47:34"
+    ]
+  },
+  {
+    "id": "shaytan-aduww-mubin",
+    "nameEn": "\"He Is to You a Clear Enemy\"",
+    "nameBn": "\"সে তোমাদের প্রকাশ্য শত্রু\"",
+    "nameAr": "ٱلشَّيْطَٰنِ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+    "descEn": "Five verses end with the warning \"innahū lakum ʿaduwwun mubīn\" about Shayṭān. In exactly three (2:168, 2:208, 6:142) it follows \"wa-lā tattabiʿū khuṭuwāti sh-shayṭān\"; 36:60 instead has \"do not worship Shayṭān\" and 43:62 \"let not Shayṭān avert you\".",
+    "descBn": "পাঁচটি আয়াত শাইতান সম্পর্কে \"ইন্নাহূ লাকুম আদুউউম মুবীন\" সতর্কবাণী দিয়ে শেষ হয়। ঠিক তিনটিতে (২:১৬৮, ২:২০৮, ৬:১৪২) এর আগে আছে \"ওয়া-লা তাত্তাবিঊ খুতুওয়াতিশ-শাইতান\"; ৩৬:৬০-এ বদলে \"শাইতানের ইবাদত কোরো না\" আর ৪৩:৬২-এ \"শাইতান যেন তোমাদের বাধা না দেয়\"।",
+    "verses": [
+      "2:168",
+      "2:208",
+      "6:142",
+      "36:60",
+      "43:62"
+    ]
+  },
+  {
+    "id": "kafaru-ahl-kitab",
+    "nameEn": "Disbelievers among the People of the Book",
+    "nameBn": "আহলে কিতাবের কাফিররা",
+    "nameAr": "ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ",
+    "descEn": "The five-word run \"alladhīna kafarū min ahli l-kitāb\" recurs in five verses. In three of them (2:105, 98:1, 98:6) it is paired with \"al-mushrikīn\"; in Surah 59 it appears alone — once about their expulsion (59:2) and once quoted in the hypocrites’ promise (59:11).",
+    "descBn": "পাঁচ-শব্দের ধারা \"আল্লাযীনা কাফারূ মিন আহলিল-কিতাব\" পাঁচটি আয়াতে এসেছে। এর তিনটিতে (২:১০৫, ৯৮:১, ৯৮:৬) এর সঙ্গে \"আল-মুশরিকীন\" যুক্ত; সূরা ৫৯-এ এটি একা এসেছে — একবার তাদের বহিষ্কার প্রসঙ্গে (৫৯:২) আর একবার মুনাফিকদের প্রতিশ্রুতির উদ্ধৃতিতে (৫৯:১১)।",
+    "verses": [
+      "2:105",
+      "59:2",
+      "59:11",
+      "98:1",
+      "98:6"
+    ]
+  },
+  {
+    "id": "atayna-musa-kitab",
+    "nameEn": "\"We Certainly Gave Musa the Book\"",
+    "nameBn": "\"আমি মূসাকে কিতাব দিয়েছি\"",
+    "nameAr": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ",
+    "descEn": "Seven verses open with the same four-word run \"wa-laqad ātaynā mūsā l-kitāb\", then continue differently — successive messengers (2:87), Hārūn as helper (25:35), guidance for Banī Isrāʾīl (32:23), and more. 11:110 and 41:45 are word-for-word identical entire verses.",
+    "descBn": "সাতটি আয়াত একই চার-শব্দের ধারা \"ওয়া-লাকাদ আতাইনা মূসাল-কিতাব\" দিয়ে শুরু হয়ে ভিন্নভাবে এগোয় — ধারাবাহিক রাসূলগণ (২:৮৭), সাহায্যকারী হিসেবে হারূন (২৫:৩৫), বনী ইসরাঈলের হিদায়াত (৩২:২৩) ইত্যাদি। ১১:১১০ ও ৪১:৪৫ শব্দে-শব্দে অভিন্ন পূর্ণ আয়াত।",
+    "verses": [
+      "2:87",
+      "11:110",
+      "23:49",
+      "25:35",
+      "28:43",
+      "32:23",
+      "41:45"
+    ]
+  },
+  {
+    "id": "anzala-sama-maa",
+    "nameEn": "\"He Sent Down Water from the Sky\"",
+    "nameBn": "\"তিনি আকাশ থেকে পানি বর্ষণ করলেন\"",
+    "nameAr": "أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً",
+    "descEn": "Seven rain verses share the run \"anzala mina s-samāʾi māʾan\". Three open with \"a-lam tara anna llāha\" (22:63, 35:27, 39:21); what the water brings differs — plants and orchards (6:99), flooding valleys (13:17), drink and pasture (16:10), revived earth (16:65), greenery (22:63), fruits of varied colours (35:27), springs and withering crops (39:21).",
+    "descBn": "বৃষ্টি-বিষয়ক সাতটি আয়াতে \"আনযালা মিনাস-সামাই মাআ\" ধারাটি অভিন্ন। তিনটি শুরু হয় \"আলাম তারা আন্নাল্লাহা\" দিয়ে (২২:৬৩, ৩৫:২৭, ৩৯:২১); পানি কী আনে তা ভিন্ন — উদ্ভিদ ও বাগান (৬:৯৯), উপত্যকা-প্লাবন (১৩:১৭), পানীয় ও চারণ (১৬:১০), মৃত ভূমির প্রাণ (১৬:৬৫), সবুজ ভূমি (২২:৬৩), বিচিত্র রঙের ফল (৩৫:২৭), ঝর্ণা ও শুকিয়ে যাওয়া ফসল (৩৯:২১)।",
+    "verses": [
+      "6:99",
+      "13:17",
+      "16:10",
+      "16:65",
+      "22:63",
+      "35:27",
+      "39:21"
+    ]
+  },
+  {
+    "id": "rasul-amin-refrain",
+    "nameEn": "\"I Am to You a Trustworthy Messenger\"",
+    "nameBn": "\"আমি তোমাদের জন্য বিশ্বস্ত রাসূল\"",
+    "nameAr": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+    "descEn": "The clause \"innī lakum rasūlun amīn\" is an identical stand-alone verse five times in Surah ash-Shuʿarāʾ (verses 107, 125, 143, 162, 178), spoken in five prophet stories. In 44:18 the same four words close a longer verse: \"deliver to me the servants of Allah…\".",
+    "descBn": "\"ইন্নী লাকুম রাসূলুন আমীন\" বাক্যটি সূরা শুআরায় পাঁচবার অভিন্ন স্বতন্ত্র আয়াত (আয়াত ১০৭, ১২৫, ১৪৩, ১৬২, ১৭৮), পাঁচটি নবী-কাহিনিতে উচ্চারিত। ৪৪:১৮-এ একই চারটি শব্দ এক দীর্ঘতর আয়াতের সমাপ্তি: \"আল্লাহর বান্দাদের আমার কাছে অর্পণ করো…\"।",
+    "verses": [
+      "26:107",
+      "26:125",
+      "26:143",
+      "26:162",
+      "26:178",
+      "44:18"
+    ]
   }
 ];
