@@ -3465,6 +3465,406 @@ const TADABBUR_NOTES = {
     "pointsBn": ["আমার শেখা — পড়াশোনা, কাজ, বই পড়া — কি আমি প্রতিপালকের নামে শুরু করি, নাকি কেবল নম্বর ও লাভের জন্য?","নামায বা রোযার নির্দেশের আগে ওহীর প্রথম নির্দেশ কেন 'পড়' হতে পারে?","আমি এখন কী শিখছি, আর তা কীভাবে আমাকে স্রষ্টার নৈকট্যে নিতে পারে?"],
     "lessonEn": "Begin every act of learning in Allah's name, so that gaining knowledge becomes an act of worship.",
     "lessonBn": "প্রতিটি শেখার কাজ আল্লাহর নামে শুরু করুন, যাতে জ্ঞানার্জনই হয়ে ওঠে ইবাদত।"
+  },
+  "1:6": {
+    "reflectionEn": "This is the central request of the opening chapter: guide us to the straight path. Before asking for wealth, health, or victory, the believer asks simply to be shown the right way. Repeating this plea in every prayer reminds us that staying on the path is a continuous gift, not a one-time achievement.",
+    "reflectionBn": "এটি সূচনা সূরার কেন্দ্রীয় প্রার্থনা: আমাদেরকে সরল পথ দেখাও। সম্পদ, সুস্থতা বা বিজয় চাওয়ার আগে মুমিন কেবল সঠিক পথের দিশা চায়। প্রতিটি নামাযে এই আবেদন বারবার করা আমাদের মনে করিয়ে দেয় যে পথের উপর টিকে থাকা একটি চলমান দান, একবারের অর্জন নয়।",
+    "pointsEn": ["Why do we keep asking for guidance even after we have found faith?","What does asking for a 'straight' path suggest about the other paths around us?","In which decision this week do you most need this prayer answered?"],
+    "pointsBn": ["ঈমান পাওয়ার পরেও আমরা কেন বারবার হেদায়েত চাই?","'সরল' পথ চাওয়া আমাদের চারপাশের অন্য পথগুলো সম্পর্কে কী ইঙ্গিত দেয়?","এই সপ্তাহের কোন সিদ্ধান্তে আপনার এই দোয়ার জবাব সবচেয়ে বেশি প্রয়োজন?"],
+    "lessonEn": "Guidance is a daily need, so ask for it daily and sincerely.",
+    "lessonBn": "হেদায়েত প্রতিদিনের প্রয়োজন, তাই প্রতিদিন আন্তরিকভাবে তা চান।"
+  },
+  "4:135": {
+    "reflectionEn": "The verse commands standing firm in justice as witnesses for Allah, even when the testimony goes against ourselves, our parents, or our relatives. It warns that personal inclination is the great enemy of fairness, and that distorting or withholding the truth does not escape Allah's awareness. Justice here is not a preference but a duty owed regardless of who benefits.",
+    "reflectionBn": "আয়াতটি আল্লাহর জন্য সাক্ষ্যদাতা হয়ে ন্যায়ের উপর অটল থাকার নির্দেশ দেয়, এমনকি সেই সাক্ষ্য যদি নিজের, পিতা-মাতার বা আত্মীয়ের বিরুদ্ধেও যায়। এটি সতর্ক করে যে প্রবৃত্তির অনুসরণই ন্যায়বিচারের বড় শত্রু, আর সত্যকে বিকৃত করা বা এড়িয়ে যাওয়া আল্লাহর জানার বাইরে থাকে না। এখানে ন্যায় কোনো পছন্দের বিষয় নয়, বরং কর্তব্য—যে-ই লাভবান হোক না কেন।",
+    "pointsEn": ["When has loyalty to family or self tempted you to bend the truth?","Why does the verse mention both the rich and the poor before Allah?","What would 'standing firm' in justice look like in your daily dealings?"],
+    "pointsBn": ["পরিবার বা নিজের প্রতি টান কখন আপনাকে সত্য বাঁকাতে প্রলুব্ধ করেছে?","আয়াতটি আল্লাহর সামনে ধনী ও দরিদ্র উভয়ের কথা কেন উল্লেখ করে?","দৈনন্দিন লেনদেনে ন্যায়ের উপর 'অটল থাকা' আপনার ক্ষেত্রে কেমন দেখাবে?"],
+    "lessonEn": "Speak the truth for Allah's sake even when it costs you or those you love.",
+    "lessonBn": "আল্লাহর জন্য সত্য বলুন, এমনকি তাতে নিজের বা প্রিয়জনের ক্ষতি হলেও।"
+  },
+  "5:2": {
+    "reflectionEn": "Among its commands, this verse forbids letting hatred of a people push us into transgression, and orders cooperation in righteousness and piety, never in sin and aggression. It sets a clear test for every alliance and every grudge: does this help goodness, or does it help wrongdoing? Even genuine grievances do not license injustice.",
+    "reflectionBn": "এই আয়াতের নির্দেশগুলোর মধ্যে রয়েছে—কোনো জাতির প্রতি বিদ্বেষ যেন আমাদের সীমালঙ্ঘনে ঠেলে না দেয়, আর সৎকাজ ও তাকওয়ায় পরস্পরকে সহযোগিতা করা, কিন্তু পাপ ও সীমালঙ্ঘনে কখনো নয়। এটি প্রতিটি জোট ও প্রতিটি ক্ষোভের জন্য একটি স্পষ্ট মানদণ্ড দেয়: এটি কি কল্যাণে সাহায্য করছে, নাকি অন্যায়ে? প্রকৃত অভিযোগ থাকলেও তা অবিচারের অনুমতি দেয় না।",
+    "pointsEn": ["Is there a resentment in your life that pulls you toward unfair words or actions?","Whom do you cooperate with, and toward what end?","How can you turn a rivalry into a competition in good deeds instead?"],
+    "pointsBn": ["আপনার জীবনে কি এমন কোনো ক্ষোভ আছে যা আপনাকে অন্যায় কথা বা কাজের দিকে টানে?","আপনি কার সাথে সহযোগিতা করেন, এবং কোন উদ্দেশ্যে?","কোনো প্রতিদ্বন্দ্বিতাকে কীভাবে সৎকাজের প্রতিযোগিতায় বদলে দিতে পারেন?"],
+    "lessonEn": "Let no hostility drive you to wrong; join hands only in what is good.",
+    "lessonBn": "কোনো শত্রুতা যেন আপনাকে অন্যায়ে না নেয়; শুধু ভালো কাজেই হাত মেলান।"
+  },
+  "5:32": {
+    "reflectionEn": "The verse weighs a single human life against all of humanity: killing one soul unjustly is like slaying everyone, and saving one life is like saving everyone. It teaches that no life is small in Allah's scale, and that every act for or against a person carries universal weight. This transforms how we value the individual in front of us.",
+    "reflectionBn": "আয়াতটি একটি মানব জীবনকে সমগ্র মানবতার সাথে তুলনা করে: অন্যায়ভাবে একজনকে হত্যা করা যেন সবাইকে হত্যা করা, আর একজনের প্রাণ বাঁচানো যেন সবাইকে বাঁচানো। এটি শেখায় যে আল্লাহর মাপকাঠিতে কোনো জীবনই ছোট নয়, আর কারো পক্ষে বা বিপক্ষে প্রতিটি কাজ সর্বজনীন ওজন বহন করে। এটি আমাদের সামনের ব্যক্তিটিকে মূল্যায়নের দৃষ্টিভঙ্গি পাল্টে দেয়।",
+    "pointsEn": ["What does it mean that one life can equal all of humanity in value?","In what small ways can you 'save' a life — through help, food, or hope?","How does this verse challenge indifference to distant suffering?"],
+    "pointsBn": ["একটি জীবন যে মূল্যে সমগ্র মানবতার সমান হতে পারে—এর অর্থ কী?","সাহায্য, খাদ্য বা আশা দিয়ে আপনি কোন ছোট ছোট উপায়ে একটি জীবন 'বাঁচাতে' পারেন?","দূরের মানুষের কষ্টের প্রতি উদাসীনতাকে এই আয়াত কীভাবে চ্যালেঞ্জ করে?"],
+    "lessonEn": "Every single life carries the weight of all humanity — protect and preserve it.",
+    "lessonBn": "প্রতিটি জীবন সমগ্র মানবতার ওজন বহন করে—তা রক্ষা করুন।"
+  },
+  "8:46": {
+    "reflectionEn": "The verse links internal disputes to the loss of courage and collective strength: when a group quarrels, its 'wind' departs. The remedy given is obedience to Allah and His Messenger and patience, with the assurance that Allah is with the patient. Unity, discipline, and endurance are presented as one package for any community facing difficulty.",
+    "reflectionBn": "আয়াতটি অভ্যন্তরীণ বিবাদকে সাহস ও সম্মিলিত শক্তি হারানোর সাথে যুক্ত করে: দল যখন ঝগড়ায় লিপ্ত হয়, তার তেজ চলে যায়। প্রতিকার হিসেবে দেওয়া হয়েছে আল্লাহ ও তাঁর রাসূলের আনুগত্য এবং ধৈর্য, সাথে আশ্বাস—আল্লাহ ধৈর্যশীলদের সঙ্গে আছেন। ঐক্য, শৃঙ্খলা ও সহনশীলতা—কঠিন সময়ে যেকোনো সম্প্রদায়ের জন্য এ যেন এক অবিচ্ছেদ্য প্যাকেজ।",
+    "pointsEn": ["Where have you seen disputes drain the strength of a family or team?","What disagreement could you let go of today for the sake of unity?","How does patience protect a group's strength in hard times?"],
+    "pointsBn": ["কোথায় দেখেছেন বিবাদ কোনো পরিবার বা দলের শক্তি নিঃশেষ করে দিয়েছে?","ঐক্যের স্বার্থে আজ কোন মতবিরোধ ছেড়ে দিতে পারেন?","কঠিন সময়ে ধৈর্য কীভাবে একটি দলের শক্তি রক্ষা করে?"],
+    "lessonEn": "Quarreling scatters strength; patience and unity preserve it, and Allah is with the patient.",
+    "lessonBn": "ঝগড়া শক্তি ছড়িয়ে দেয়; ধৈর্য ও ঐক্য তা রক্ষা করে, আর আল্লাহ ধৈর্যশীলদের সঙ্গে আছেন।"
+  },
+  "9:119": {
+    "reflectionEn": "In one short line, believers are told to fear Allah and to be with the truthful. Righteousness is not only an inner state; it is also a matter of company. The people we stand with shape what we become, so the verse pairs consciousness of Allah with choosing truthful companions.",
+    "reflectionBn": "একটি সংক্ষিপ্ত বাক্যে মুমিনদের বলা হয়েছে আল্লাহকে ভয় করতে এবং সত্যবাদীদের সাথে থাকতে। সততা কেবল অন্তরের অবস্থা নয়; এটি সঙ্গেরও বিষয়। আমরা যাদের পাশে দাঁড়াই তারাই গড়ে দেয় আমরা কী হয়ে উঠি, তাই আয়াতটি আল্লাহভীতির সাথে সত্যবাদী সঙ্গী বেছে নেওয়াকে জুড়ে দিয়েছে।",
+    "pointsEn": ["Who are the truthful people in your life, and how much time do you spend with them?","How does your company affect your honesty?","What is one step to seek out more truthful companionship?"],
+    "pointsBn": ["আপনার জীবনে সত্যবাদী মানুষ কারা, আর তাদের সাথে কতটা সময় কাটান?","আপনার সঙ্গ আপনার সততাকে কীভাবে প্রভাবিত করে?","আরও সত্যনিষ্ঠ সঙ্গ খোঁজার একটি পদক্ষেপ কী হতে পারে?"],
+    "lessonEn": "Guard your faith by choosing the company of the truthful.",
+    "lessonBn": "সত্যবাদীদের সঙ্গ বেছে নিয়ে নিজের ঈমান রক্ষা করুন।"
+  },
+  "10:44": {
+    "reflectionEn": "The verse states plainly that Allah does not wrong people at all; rather, people wrong themselves. Much of what harms us traces back to our own choices, not to any injustice from above. This shifts the believer from blaming fate to examining the self honestly.",
+    "reflectionBn": "আয়াতটি স্পষ্ট বলে যে আল্লাহ মানুষের প্রতি বিন্দুমাত্র যুলম করেন না; বরং মানুষ নিজেরাই নিজেদের প্রতি যুলম করে। আমাদের ক্ষতির বড় অংশই আমাদের নিজেদের সিদ্ধান্তের ফল, উপর থেকে কোনো অবিচারের নয়। এটি মুমিনকে ভাগ্যকে দোষারোপ থেকে সরিয়ে সৎভাবে আত্মপর্যালোচনার দিকে নিয়ে যায়।",
+    "pointsEn": ["Which difficulty in your life came partly from your own choices?","Why is it easier to blame circumstances than to examine ourselves?","How does trusting Allah's justice change the way you face setbacks?"],
+    "pointsBn": ["আপনার জীবনের কোন কষ্ট আংশিকভাবে নিজের সিদ্ধান্ত থেকে এসেছে?","নিজেকে যাচাই করার চেয়ে পরিস্থিতিকে দোষ দেওয়া কেন সহজ?","আল্লাহর ন্যায়বিচারে আস্থা বিপর্যয় মোকাবেলার ধরন কীভাবে পাল্টায়?"],
+    "lessonEn": "Allah wrongs no one; look first at your own choices before blaming anything else.",
+    "lessonBn": "আল্লাহ কারো প্রতি যুলম করেন না; অন্য কিছুকে দোষ দেওয়ার আগে নিজের সিদ্ধান্তগুলো দেখুন।"
+  },
+  "12:18": {
+    "reflectionEn": "Faced with false blood on his son's shirt and a fabricated story, Yaqub's response is 'patience is most fitting' and seeking Allah's help against what they described. He neither erupts in rage nor pretends to believe the lie; he names the deception and chooses beautiful patience. This models composure when we are wronged and cannot immediately fix it.",
+    "reflectionBn": "ছেলের জামায় মিছে রক্ত আর বানানো গল্পের মুখে ইয়াকুবের জবাব ছিল—'পূর্ণ ধৈর্যই শ্রেয়', আর তাদের বর্ণনার বিরুদ্ধে আল্লাহর কাছেই সাহায্য চাওয়া। তিনি রাগে ফেটে পড়েননি, মিথ্যাটাও বিশ্বাসের ভান করেননি; প্রতারণাকে চিহ্নিত করে সুন্দর ধৈর্য বেছে নিয়েছেন। অন্যায়ের শিকার হয়েও তাৎক্ষণিক প্রতিকার সম্ভব না হলে কেমন সংযম দরকার—এ তারই আদর্শ।",
+    "pointsEn": ["What does 'beautiful patience' look like when you know you have been deceived?","How can you seek Allah's help instead of seeking revenge?","Where do you need composure right now rather than reaction?"],
+    "pointsBn": ["প্রতারিত হয়েছেন জেনেও 'সুন্দর ধৈর্য' কেমন দেখায়?","প্রতিশোধ না খুঁজে কীভাবে আল্লাহর সাহায্য চাইতে পারেন?","এই মুহূর্তে কোথায় আপনার প্রতিক্রিয়ার বদলে সংযম প্রয়োজন?"],
+    "lessonEn": "When wronged beyond your power to fix, choose dignified patience and turn to Allah for help.",
+    "lessonBn": "সাধ্যের বাইরের অন্যায়ের মুখে মর্যাদাপূর্ণ ধৈর্য বেছে নিন এবং সাহায্যের জন্য আল্লাহর দিকে ফিরুন।"
+  },
+  "12:64": {
+    "reflectionEn": "Having been failed before by the same sons, Yaqub entrusts Binyamin to them with the words: 'Allah is the best guardian, and He is the most merciful of the merciful.' His trust is not naive reliance on people but reliance on Allah above all precautions. Past disappointment does not shake his confidence in the One who truly protects.",
+    "reflectionBn": "একই ছেলেদের কাছে আগে প্রতারিত হয়েও ইয়াকুব বিনয়ামীনকে তাদের হাতে তুলে দেন এই কথায়: 'আল্লাহই উত্তম সংরক্ষক, আর তিনিই সর্বশ্রেষ্ঠ দয়ালু।' তাঁর ভরসা মানুষের উপর সরল বিশ্বাস নয়, বরং সব সতর্কতার ঊর্ধ্বে আল্লাহর উপর নির্ভরতা। অতীতের হতাশাও প্রকৃত রক্ষাকর্তার প্রতি তাঁর আস্থা টলাতে পারেনি।",
+    "pointsEn": ["After being let down, how do you rebuild the ability to trust?","What is the difference between taking precautions and relying on precautions?","Whom or what do you treat as your real guardian?"],
+    "pointsBn": ["আঘাত পাওয়ার পর ভরসা করার ক্ষমতা কীভাবে ফিরে পান?","সতর্কতা নেওয়া আর সতর্কতার উপরই নির্ভর করা—দুয়ের পার্থক্য কী?","আপনি প্রকৃত রক্ষক হিসেবে কাকে বা কী-কে গণ্য করেন?"],
+    "lessonEn": "Take your precautions, but place your real trust in Allah, the best of guardians.",
+    "lessonBn": "সতর্কতা নিন, কিন্তু প্রকৃত ভরসা রাখুন সর্বোত্তম সংরক্ষক আল্লাহর উপর।"
+  },
+  "19:4": {
+    "reflectionEn": "Zakariyya calls on his Lord with weakened bones and a head white with age, yet declares he has never been disappointed in his supplication to Him. His entire history of asking has taught him hope, not resignation. Old age and long waiting did not close the door of dua; they deepened his certainty in it.",
+    "reflectionBn": "যাকারিয়া দুর্বল হাড় আর বার্ধক্যে সাদা মাথা নিয়ে তাঁর প্রতিপালককে ডাকেন, তবু ঘোষণা করেন—তোমাকে ডেকে আমি কখনো বিফল হইনি। চাওয়ার দীর্ঘ ইতিহাস তাঁকে হতাশা নয়, আশা শিখিয়েছে। বার্ধক্য আর দীর্ঘ অপেক্ষা দোয়ার দরজা বন্ধ করেনি; বরং তাতে তাঁর দৃঢ় বিশ্বাস আরও গভীর করেছে।",
+    "pointsEn": ["Have you ever stopped asking because the answer seemed impossible?","What does it mean to never feel 'unhappy' in calling upon your Lord?","Which long-held hope should you bring back into your duas?"],
+    "pointsBn": ["উত্তর অসম্ভব মনে হওয়ায় কি কখনো চাওয়া বন্ধ করে দিয়েছেন?","প্রতিপালককে ডেকে কখনো 'বিফল' না হওয়ার অর্থ কী?","দীর্ঘদিনের কোন আশা আবার দোয়ায় ফিরিয়ে আনা উচিত?"],
+    "lessonEn": "No age and no delay should stop you from asking Allah with full hope.",
+    "lessonBn": "কোনো বয়স বা বিলম্ব যেন পূর্ণ আশা নিয়ে আল্লাহর কাছে চাওয়া থামাতে না পারে।"
+  },
+  "22:7": {
+    "reflectionEn": "The verse affirms two certainties: the Hour is coming without any doubt, and Allah will resurrect those in the graves. Death is not an end but a doorway to a promised gathering. Living with this certainty reorders our priorities long before the Hour arrives.",
+    "reflectionBn": "আয়াতটি দুটি নিশ্চিত সত্য ঘোষণা করে: কিয়ামত অবশ্যই আসবে, এতে কোনো সন্দেহ নেই, আর কবরে যারা আছে আল্লাহ তাদের পুনরুত্থিত করবেন। মৃত্যু কোনো সমাপ্তি নয়, বরং প্রতিশ্রুত সমাবেশের দরজা। এই নিশ্চয়তা নিয়ে বাঁচলে কিয়ামত আসার অনেক আগেই আমাদের অগ্রাধিকারগুলো নতুন করে সাজে।",
+    "pointsEn": ["How would today change if you were certain of standing before Allah tomorrow?","What does resurrection say about the value of deeds no one saw?","Which priority needs reordering in light of the coming Hour?"],
+    "pointsBn": ["আগামীকাল আল্লাহর সামনে দাঁড়ানো নিশ্চিত জানলে আজকের দিনটি কেমন বদলাত?","কেউ দেখেনি এমন আমলের মূল্য সম্পর্কে পুনরুত্থান কী বলে?","আসন্ন কিয়ামতের আলোকে কোন অগ্রাধিকার নতুন করে সাজানো দরকার?"],
+    "lessonEn": "The Hour and the resurrection are certain, so live today as one who will be raised.",
+    "lessonBn": "কিয়ামত ও পুনরুত্থান সুনিশ্চিত, তাই এমনভাবে বাঁচুন যেন আপনি পুনরুত্থিত হবেন।"
+  },
+  "22:73": {
+    "reflectionEn": "The parable is stark: everything invoked besides Allah could not create even a fly, and if a fly snatched something from them, they could not take it back. 'Weak are the pursuer and pursued' — both the false object of devotion and its devotee are powerless. The example invites us to test whatever we effectively worship — status, wealth, people — against the smallest of creatures.",
+    "reflectionBn": "উপমাটি তীক্ষ্ণ: আল্লাহ ছাড়া যাদের ডাকা হয় তারা সবাই মিলেও একটি মাছি সৃষ্টি করতে পারে না, আর মাছি তাদের থেকে কিছু ছিনিয়ে নিলে তা উদ্ধারও করতে পারে না। 'প্রার্থনাকারী ও প্রার্থিত—উভয়ই দুর্বল'—মিথ্যা উপাস্য ও তার উপাসক দুজনই ক্ষমতাহীন। উপমাটি আহ্বান জানায়—মর্যাদা, সম্পদ, মানুষ—আমরা কার্যত যা-কিছুর পূজা করি, তা ক্ষুদ্রতম প্রাণীর মানদণ্ডে যাচাই করতে।",
+    "pointsEn": ["What things do you rely on that cannot truly create or protect anything?","Why does the Quran choose something as small as a fly for this test?","How does this parable free you from fearing false powers?"],
+    "pointsBn": ["আপনি এমন কীসের উপর ভরসা করেন যা প্রকৃতপক্ষে কিছু সৃষ্টি বা রক্ষা করতে পারে না?","এই পরীক্ষার জন্য কুরআন মাছির মতো ক্ষুদ্র কিছু কেন বেছে নিল?","এই উপমা মিথ্যা শক্তির ভয় থেকে আপনাকে কীভাবে মুক্ত করে?"],
+    "lessonEn": "Whatever cannot create even a fly deserves neither your worship nor your fear.",
+    "lessonBn": "যা একটি মাছিও সৃষ্টি করতে পারে না, তা আপনার ইবাদত বা ভয়ের যোগ্য নয়।"
+  },
+  "23:14": {
+    "reflectionEn": "The verse traces our making stage by stage — drop, clinging clot, lump, bones clothed with flesh — until we are 'developed into another creation.' Each of us is a finished miracle of gradual craftsmanship, concluded with the declaration: blessed is Allah, the best of creators. Reflecting on our own formation is one of the nearest signs available to us.",
+    "reflectionBn": "আয়াতটি ধাপে ধাপে আমাদের সৃষ্টি বর্ণনা করে—বিন্দু, জমাট রক্ত, মাংসপিণ্ড, মাংসে আবৃত হাড়—অবশেষে 'এক নতুন সৃষ্টিতে' উন্নীত হওয়া পর্যন্ত। আমাদের প্রত্যেকে ক্রমিক শিল্পকর্মের এক পূর্ণাঙ্গ মুজিযা, যার সমাপ্তি ঘোষণায়: সর্বোত্তম স্রষ্টা আল্লাহ কতই না মহান। নিজের সৃষ্টি নিয়ে চিন্তা করা আমাদের সবচেয়ে কাছের নিদর্শনগুলোর একটি।",
+    "pointsEn": ["When did you last reflect on how your own body was formed?","What does gradual, staged creation teach about Allah's way of working?","How should being 'another creation' — with soul and mind — shape how you live?"],
+    "pointsBn": ["নিজের দেহ কীভাবে গঠিত হলো—শেষ কবে তা নিয়ে ভেবেছেন?","ধাপে ধাপে ক্রমিক সৃষ্টি আল্লাহর কর্মপদ্ধতি সম্পর্কে কী শেখায়?","আত্মা ও বিবেকসহ 'এক নতুন সৃষ্টি' হওয়া আপনার জীবনযাপনকে কেমন গড়া উচিত?"],
+    "lessonEn": "Your own body is a sign of the best of creators — read it with wonder and gratitude.",
+    "lessonBn": "আপনার নিজের দেহই সর্বোত্তম স্রষ্টার নিদর্শন—বিস্ময় ও কৃতজ্ঞতায় তা পড়ুন।"
+  },
+  "23:118": {
+    "reflectionEn": "The surah closes with a compact prayer: 'My Lord, forgive and have mercy, and You are the best of the merciful.' It asks for the two things every soul needs most — pardon for the past and mercy going forward. Its brevity makes it a dua that can live on the tongue throughout the day.",
+    "reflectionBn": "সূরাটি শেষ হয় এক সংক্ষিপ্ত প্রার্থনায়: 'হে আমার প্রতিপালক! ক্ষমা কর ও রহম কর, তুমি রহমকারীদের মধ্যে সর্বশ্রেষ্ঠ।' এটি চায় প্রতিটি আত্মার সবচেয়ে প্রয়োজনীয় দুটি জিনিস—অতীতের জন্য মাফ আর সামনের পথের জন্য রহমত। সংক্ষিপ্ততার কারণে এই দোয়া সারাদিন জিহ্বায় জেগে থাকতে পারে।",
+    "pointsEn": ["Why do forgiveness and mercy cover everything a soul needs?","What changes when you address Allah as 'the best of the merciful'?","Could this short dua become part of your daily rhythm?"],
+    "pointsBn": ["ক্ষমা ও রহমত কেন আত্মার সব প্রয়োজন ঢেকে দেয়?","আল্লাহকে 'রহমকারীদের মধ্যে সর্বশ্রেষ্ঠ' বলে ডাকলে কী বদলায়?","এই ছোট্ট দোয়া কি আপনার দৈনন্দিন অভ্যাসের অংশ হতে পারে?"],
+    "lessonEn": "Keep asking for forgiveness and mercy — they are the summary of all your needs.",
+    "lessonBn": "ক্ষমা ও রহমত চাইতে থাকুন—এ দুটিই আপনার সব প্রয়োজনের সারসংক্ষেপ।"
+  },
+  "24:39": {
+    "reflectionEn": "Deeds done without faith are pictured as a mirage in a lowland: the thirsty traveler hurries toward it, only to find nothing — and instead finds Allah before him, settling his account in full. Effort alone does not guarantee reward; what a deed is built upon decides what it becomes. The image warns against a lifetime of impressive activity that evaporates at the moment it is needed most.",
+    "reflectionBn": "ঈমানহীন আমলকে চিত্রিত করা হয়েছে মরুভূমির মরীচিকার মতো: তৃষ্ণার্ত পথিক তার দিকে ছুটে গিয়ে দেখে কিছুই নেই—বরং সেখানে পায় আল্লাহকে, যিনি তার হিসাব পুরোপুরি চুকিয়ে দেন। শুধু পরিশ্রম পুরস্কারের নিশ্চয়তা দেয় না; আমল কীসের ভিত্তিতে গড়া তা-ই ঠিক করে সেটি কী হবে। ছবিটি সতর্ক করে—সারাজীবনের চোখধাঁধানো কর্মকাণ্ডও সবচেয়ে প্রয়োজনের মুহূর্তে বাষ্প হয়ে যেতে পারে।",
+    "pointsEn": ["What makes a deed real water rather than a mirage?","Which of your efforts are driven by show, and which by sincerity?","Why does the mirage deceive most at the peak of thirst?"],
+    "pointsBn": ["কী একটি আমলকে মরীচিকা নয়, প্রকৃত পানি করে তোলে?","আপনার কোন প্রচেষ্টা লোক-দেখানো, আর কোনটি আন্তরিক?","তৃষ্ণার চরমে মরীচিকা কেন সবচেয়ে বেশি প্রতারণা করে?"],
+    "lessonEn": "Build deeds on faith and sincerity, or they will vanish like a mirage when needed most.",
+    "lessonBn": "আমল গড়ুন ঈমান ও ইখলাসের ভিত্তিতে, নয়তো চরম প্রয়োজনের সময় তা মরীচিকার মতো মিলিয়ে যাবে।"
+  },
+  "26:80": {
+    "reflectionEn": "In Ibrahim's description of his Lord comes this quiet certainty: 'And when I am ill, it is He who cures me.' Medicine and doctors are means, but healing itself belongs to Allah alone. Illness, in this light, becomes an occasion to experience His care directly.",
+    "reflectionBn": "নিজের প্রতিপালকের পরিচয় দিতে গিয়ে ইবরাহীমের কণ্ঠে এই প্রশান্ত নিশ্চয়তা: 'আর আমি যখন পীড়িত হই, তখন তিনিই আমাকে আরোগ্য করেন।' ওষুধ ও চিকিৎসক উপায় মাত্র, কিন্তু আরোগ্য একমাত্র আল্লাহরই হাতে। এই আলোয় অসুস্থতা হয়ে ওঠে তাঁর যত্ন সরাসরি অনুভবের এক উপলক্ষ।",
+    "pointsEn": ["In illness, where does your heart turn first — to the means or to the Healer?","How does attributing cure to Allah change your relationship with medicine?","What has a past recovery taught you about His care?"],
+    "pointsBn": ["অসুস্থতায় আপনার হৃদয় প্রথমে কোথায় ফেরে—উপায়ের দিকে, না আরোগ্যদাতার দিকে?","আরোগ্যকে আল্লাহর দান মনে করলে ওষুধের সাথে আপনার সম্পর্ক কীভাবে বদলায়?","অতীতের কোনো সুস্থতা তাঁর যত্ন সম্পর্কে আপনাকে কী শিখিয়েছে?"],
+    "lessonEn": "Use the means, but know that cure comes only from Allah.",
+    "lessonBn": "উপায় অবলম্বন করুন, কিন্তু জানুন—আরোগ্য আসে কেবল আল্লাহর কাছ থেকে।"
+  },
+  "28:56": {
+    "reflectionEn": "Even the Messenger is told: you do not guide whom you love; Allah guides whom He wills. Our duty is to convey, advise, and pray — but opening a heart is Allah's work alone. This frees us from despair over loved ones who have not yet responded, and from pride when someone does.",
+    "reflectionBn": "এমনকি রাসূলকেও বলা হয়েছে: তুমি যাকে ভালোবাসো তাকে হেদায়েত দিতে পারবে না; আল্লাহই যাকে চান পথ দেখান। আমাদের দায়িত্ব পৌঁছে দেওয়া, উপদেশ দেওয়া ও দোয়া করা—কিন্তু হৃদয় খোলা একমাত্র আল্লাহর কাজ। এটি আমাদের মুক্তি দেয়—যে প্রিয়জন এখনো সাড়া দেয়নি তার জন্য হতাশা থেকে, আর কেউ সাড়া দিলে অহংকার থেকে।",
+    "pointsEn": ["For whom have you been striving and praying to be guided?","How does knowing guidance is Allah's alone ease your worry for loved ones?","What is within your duty, and what must you leave to Allah?"],
+    "pointsBn": ["কার হেদায়েতের জন্য আপনি চেষ্টা ও দোয়া করে আসছেন?","হেদায়েত একমাত্র আল্লাহর হাতে—এ জানা প্রিয়জনের জন্য দুশ্চিন্তা কীভাবে হালকা করে?","কোনটুকু আপনার দায়িত্ব, আর কোনটুকু আল্লাহর উপর ছেড়ে দিতে হবে?"],
+    "lessonEn": "Convey and pray, but leave the opening of hearts to Allah.",
+    "lessonBn": "পৌঁছে দিন ও দোয়া করুন, কিন্তু হৃদয় খোলার কাজ আল্লাহর উপর ছেড়ে দিন।"
+  },
+  "30:60": {
+    "reflectionEn": "The command is to be patient because Allah's promise is true, and not to be unsettled by those who lack certainty. Doubters can shake us not by argument but by their restlessness and mockery. Patience anchored in a true promise keeps the heart steady amid other people's uncertainty.",
+    "reflectionBn": "নির্দেশ হলো ধৈর্য ধরা, কারণ আল্লাহর ওয়াদা সত্য, আর যাদের দৃঢ় বিশ্বাস নেই তারা যেন আপনাকে বিচলিত করতে না পারে। সংশয়বাদীরা যুক্তি দিয়ে নয়, বরং তাদের অস্থিরতা ও উপহাস দিয়ে আমাদের নাড়িয়ে দিতে পারে। সত্য ওয়াদায় প্রোথিত ধৈর্য অন্যের অনিশ্চয়তার মাঝেও হৃদয়কে স্থির রাখে।",
+    "pointsEn": ["Whose doubt or mockery tends to unsettle your resolve?","How does certainty in Allah's promise translate into daily calm?","What helps you stay steady when others are restless?"],
+    "pointsBn": ["কার সংশয় বা উপহাস আপনার দৃঢ়তা টলিয়ে দেয়?","আল্লাহর ওয়াদায় দৃঢ় বিশ্বাস দৈনন্দিন প্রশান্তিতে কীভাবে রূপ নেয়?","অন্যরা অস্থির হলে কী আপনাকে স্থির থাকতে সাহায্য করে?"],
+    "lessonEn": "Hold to patience — Allah's promise is true, and the uncertain must not shake you.",
+    "lessonBn": "ধৈর্য আঁকড়ে ধরুন—আল্লাহর ওয়াদা সত্য, আর সংশয়ীরা যেন আপনাকে টলাতে না পারে।"
+  },
+  "31:22": {
+    "reflectionEn": "Whoever submits himself to Allah while doing good has grasped the most trustworthy handhold — a grip that will not break. Submission paired with excellence is pictured as holding something utterly reliable while everything else gives way. And the verse ends by reminding us that the outcome of all matters returns to Allah.",
+    "reflectionBn": "যে আল্লাহর কাছে আত্মসমর্পণ করে এবং সৎকর্ম করে, সে ধারণ করেছে এক মজবুত হাতল—যে হাতল কখনো ভাঙে না। আনুগত্যের সাথে সৎকর্মের মিলনকে চিত্রিত করা হয়েছে এমন কিছু আঁকড়ে ধরা হিসেবে যা সম্পূর্ণ নির্ভরযোগ্য, যখন বাকি সব ভেঙে পড়ে। আর আয়াতের শেষে মনে করিয়ে দেওয়া হয়—সব কাজের পরিণাম আল্লাহর দিকেই ফেরে।",
+    "pointsEn": ["What 'handholds' in your life have failed you before?","Why does the verse pair submission with doing good, not submission alone?","How does knowing all outcomes return to Allah settle your anxieties?"],
+    "pointsBn": ["জীবনের কোন 'হাতলগুলো' আগে আপনাকে ঠকিয়েছে?","আয়াতটি কেন শুধু আত্মসমর্পণ নয়, সাথে সৎকর্মকেও জুড়ে দেয়?","সব পরিণাম আল্লাহর দিকে ফেরে—এ জানা আপনার দুশ্চিন্তা কীভাবে প্রশমিত করে?"],
+    "lessonEn": "Submit to Allah with excellence — that is the one grip that never breaks.",
+    "lessonBn": "সৎকর্মের সাথে আল্লাহর কাছে আত্মসমর্পণ করুন—এই একটি হাতলই কখনো ভাঙে না।"
+  },
+  "32:7": {
+    "reflectionEn": "Allah 'perfected everything He created' — excellence is stamped on every made thing, and man's own origin is humble clay. The verse joins two truths: the flawlessness of divine craftsmanship and the modesty of our raw material. Whatever beauty we carry is His making, from the humblest of beginnings.",
+    "reflectionBn": "আল্লাহ 'সব কিছুকে উত্তমরূপে সৃষ্টি করেছেন'—প্রতিটি সৃষ্ট বস্তুতে অঙ্কিত আছে নিপুণতার ছাপ, আর মানুষের নিজের সূচনা নম্র মাটি থেকে। আয়াতটি দুটি সত্যকে মেলায়: ঐশী কারিগরির নিখুঁততা এবং আমাদের কাঁচামালের সাধারণত্ব। আমাদের যত সৌন্দর্য, সবই সামান্যতম সূচনা থেকে তাঁরই গড়া।",
+    "pointsEn": ["Where do you notice the 'perfection' in ordinary created things?","How does remembering an origin of clay guard against arrogance?","What does divine excellence in creation ask of the quality of your own work?"],
+    "pointsBn": ["সাধারণ সৃষ্টিতে 'নিখুঁততা' কোথায় চোখে পড়ে?","মাটির সূচনা স্মরণ অহংকার থেকে কীভাবে রক্ষা করে?","সৃষ্টিতে ঐশী নৈপুণ্য আপনার নিজের কাজের মান সম্পর্কে কী দাবি করে?"],
+    "lessonEn": "Everything Allah made He made well — remember your clay origin and honor His craftsmanship.",
+    "lessonBn": "আল্লাহ যা সৃষ্টি করেছেন উত্তমরূপেই করেছেন—মাটির সূচনা মনে রাখুন এবং তাঁর কারিগরিকে সম্মান করুন।"
+  },
+  "32:17": {
+    "reflectionEn": "No soul knows what delight of the eyes has been hidden away for it as reward for what it used to do. The best of what awaits the righteous is deliberately concealed — beyond imagination, stored as a surprise. Hidden deeds are answered with hidden rewards, which encourages us to do good even when no one sees.",
+    "reflectionBn": "কোনো প্রাণ জানে না তার কাজের পুরস্কার হিসেবে তার জন্য কী চোখজুড়ানো জিনিস লুকিয়ে রাখা হয়েছে। নেককারদের জন্য অপেক্ষমাণ শ্রেষ্ঠ পুরস্কার ইচ্ছাকৃতভাবেই গোপন—কল্পনার অতীত, বিস্ময় হিসেবে সঞ্চিত। গোপন আমলের জবাব দেওয়া হয় গোপন পুরস্কারে, যা কেউ না দেখলেও ভালো কাজে উৎসাহ জোগায়।",
+    "pointsEn": ["Why might the greatest rewards be kept hidden from us now?","What good deed do you do that no one else knows about?","How does an unseen reward outweigh visible recognition?"],
+    "pointsBn": ["শ্রেষ্ঠ পুরস্কারগুলো এখন আমাদের থেকে কেন লুকানো থাকতে পারে?","আপনার এমন কোন ভালো কাজ আছে যা আর কেউ জানে না?","অদেখা পুরস্কার দৃশ্যমান স্বীকৃতিকে কীভাবে ছাড়িয়ে যায়?"],
+    "lessonEn": "Do good in secret — the reward stored for it is beyond any eye's imagining.",
+    "lessonBn": "গোপনে ভালো কাজ করুন—এর জন্য সঞ্চিত পুরস্কার কোনো চোখের কল্পনারও বাইরে।"
+  },
+  "33:21": {
+    "reflectionEn": "The verse declares that in the Messenger of Allah there is an excellent pattern — for those whose hope is in Allah and the Last Day and who remember Allah often. Character is best learned from a lived example, not from rules alone. The verse also names the readiness required to benefit: hope in Allah, mindfulness of the Last Day, and abundant remembrance.",
+    "reflectionBn": "আয়াতটি ঘোষণা করে—আল্লাহর রাসূলের মধ্যে রয়েছে উত্তম আদর্শ, তাদের জন্য যারা আল্লাহ ও শেষ দিনের আশা রাখে এবং আল্লাহকে অধিক স্মরণ করে। চরিত্র সবচেয়ে ভালো শেখা যায় জীবন্ত আদর্শ থেকে, শুধু নিয়ম থেকে নয়। উপকৃত হওয়ার প্রস্তুতিও আয়াতে বলা আছে: আল্লাহর প্রতি আশা, শেষ দিনের চেতনা ও অধিক যিকির।",
+    "pointsEn": ["Which quality of the Messenger's example do you most need to adopt now?","Why does benefiting from an example require hope and remembrance?","Whose example are you actually following in your daily habits?"],
+    "pointsBn": ["রাসূলের আদর্শের কোন গুণটি এখন আপনার সবচেয়ে বেশি গ্রহণ করা দরকার?","আদর্শ থেকে উপকৃত হতে কেন আশা ও স্মরণ প্রয়োজন?","দৈনন্দিন অভ্যাসে আপনি আসলে কার আদর্শ অনুসরণ করছেন?"],
+    "lessonEn": "Take the Messenger as your living pattern, with hope in Allah and constant remembrance.",
+    "lessonBn": "আল্লাহর প্রতি আশা ও নিয়মিত যিকিরসহ রাসূলকে আপনার জীবন্ত আদর্শ হিসেবে গ্রহণ করুন।"
+  },
+  "34:39": {
+    "reflectionEn": "Provision widens and narrows by Allah's decree, and then comes the promise: whatever you spend, He will replace it, for He is the best of providers. Giving does not diminish wealth in Allah's accounting; it invites replacement from the One whose supply never ends. This turns charity from a loss into an exchange with the Best of Providers.",
+    "reflectionBn": "রিযিক প্রশস্ত ও সংকুচিত হয় আল্লাহর ফায়সালায়, তারপর আসে প্রতিশ্রুতি: তোমরা যা ব্যয় করবে, তিনি তার বিনিময় দেবেন—তিনিই সর্বশ্রেষ্ঠ রিযিকদাতা। আল্লাহর হিসাবে দান সম্পদ কমায় না; বরং যাঁর ভাণ্ডার শেষ হয় না তাঁর কাছ থেকে প্রতিদান ডেকে আনে। এতে দান ক্ষতি নয়, বরং শ্রেষ্ঠ রিযিকদাতার সাথে এক বিনিময়ে পরিণত হয়।",
+    "pointsEn": ["Do you truly believe spending in good will be replaced?","How does seeing Allah as 'the best of providers' loosen the grip of scarcity?","What could you give this week trusting in His replacement?"],
+    "pointsBn": ["ভালো পথে ব্যয় করলে তার বিনিময় আসবে—এ কি আপনি সত্যিই বিশ্বাস করেন?","আল্লাহকে 'সর্বশ্রেষ্ঠ রিযিকদাতা' জানা অভাবের ভয় কীভাবে শিথিল করে?","তাঁর প্রতিদানের ভরসায় এই সপ্তাহে কী দান করতে পারেন?"],
+    "lessonEn": "Spend without fear — whatever you give, the best of providers will replace.",
+    "lessonBn": "নির্ভয়ে ব্যয় করুন—যা দেবেন, সর্বশ্রেষ্ঠ রিযিকদাতা তার বিনিময় দেবেন।"
+  },
+  "35:10": {
+    "reflectionEn": "Whoever seeks honor should know that all honor belongs to Allah: to Him ascends good speech, and righteous work raises it. Words of remembrance and truth rise to Him, lifted higher by the deeds that accompany them — while evil plotting perishes. Real status is not won from people but earned in what ascends to Allah.",
+    "reflectionBn": "যে সম্মান চায় সে জেনে নিক—সব সম্মান আল্লাহরই: তাঁর দিকেই উত্থিত হয় পবিত্র কথা, আর সৎকর্ম তা উচ্চে তুলে ধরে। যিকির ও সত্যের বাণী তাঁর কাছে ওঠে, সঙ্গের আমল তাকে আরও উঁচুতে নেয়—আর মন্দ চক্রান্ত নিষ্ফল হয়। প্রকৃত মর্যাদা মানুষের কাছ থেকে জেতা যায় না; তা অর্জিত হয় যা আল্লাহর দিকে উত্থিত হয় তাতেই।",
+    "pointsEn": ["Where do you currently seek honor — from people or from Allah?","How do your deeds lift or weigh down your words of remembrance?","What 'good speech' could ascend from you today?"],
+    "pointsBn": ["আপনি এখন সম্মান খোঁজেন কোথায়—মানুষের কাছে, না আল্লাহর কাছে?","আপনার আমল কি যিকিরের বাণীকে উঁচুতে তোলে, না ভারী করে নামায়?","আজ আপনার কাছ থেকে কোন 'পবিত্র কথা' উত্থিত হতে পারে?"],
+    "lessonEn": "Seek honor with Allah — send up good words and let righteous deeds raise them.",
+    "lessonBn": "সম্মান খুঁজুন আল্লাহর কাছে—পবিত্র কথা পাঠান আর সৎকর্ম দিয়ে তা উঁচুতে তুলুন।"
+  },
+  "35:28": {
+    "reflectionEn": "The verse points to the varied colors of people, moving creatures, and livestock, then declares that among His servants, only those with knowledge truly fear Allah. Studying creation's diversity is presented as a road to awe of the Creator. Knowledge that does not deepen reverence has missed its purpose.",
+    "reflectionBn": "আয়াতটি মানুষ, জীবজন্তু ও গবাদি পশুর বিচিত্র রঙের দিকে ইঙ্গিত করে, তারপর ঘোষণা করে—তাঁর বান্দাদের মধ্যে জ্ঞানীরাই প্রকৃতপক্ষে আল্লাহকে ভয় করে। সৃষ্টির বৈচিত্র্য নিয়ে অধ্যয়নকে উপস্থাপন করা হয়েছে স্রষ্টার প্রতি বিস্ময়-ভক্তির পথ হিসেবে। যে জ্ঞান ভক্তি-শ্রদ্ধা গভীর করে না, তা নিজের উদ্দেশ্যই হারিয়েছে।",
+    "pointsEn": ["How does learning about nature's diversity increase your awe of Allah?","Why does the verse tie true fear of Allah to knowledge?","Does your knowledge make you humbler or prouder?"],
+    "pointsBn": ["প্রকৃতির বৈচিত্র্য জানা আল্লাহর প্রতি আপনার বিস্ময় কীভাবে বাড়ায়?","আয়াতটি প্রকৃত আল্লাহভীতিকে জ্ঞানের সাথে কেন যুক্ত করে?","আপনার জ্ঞান কি আপনাকে বিনয়ী করে, না অহংকারী?"],
+    "lessonEn": "Pursue knowledge that leads to awe of Allah, for that is its truest fruit.",
+    "lessonBn": "এমন জ্ঞান অর্জন করুন যা আল্লাহর প্রতি ভীতি-বিস্ময়ে পৌঁছায়—সেটাই জ্ঞানের প্রকৃত ফল।"
+  },
+  "38:29": {
+    "reflectionEn": "The Qur'an describes itself as a blessed Book sent down for a clear purpose: that people reflect upon its verses and that those of understanding take reminder. Reading, then, is only the beginning — the Book fulfills its purpose when it is pondered. The verse quietly asks each reader: am I merely passing over the words, or letting them pass into me?",
+    "reflectionBn": "কুরআন নিজেকে একটি কল্যাণময় কিতাব বলে পরিচয় দিয়েছে, যা একটি সুস্পষ্ট উদ্দেশ্যে নাযিল হয়েছে: মানুষ যেন এর আয়াতগুলো নিয়ে গভীরভাবে চিন্তা করে এবং বুদ্ধিমানরা উপদেশ গ্রহণ করে। তাই শুধু পাঠ করাই শেষ কথা নয় — কিতাবটির উদ্দেশ্য পূর্ণ হয় তখনই যখন তা নিয়ে ভাবা হয়। আয়াতটি নীরবে প্রত্যেক পাঠককে জিজ্ঞেস করে: আমি কি কেবল শব্দগুলোর উপর দিয়ে চোখ বুলিয়ে যাচ্ছি, নাকি সেগুলোকে অন্তরে প্রবেশ করতে দিচ্ছি?",
+    "pointsEn": ["When did a verse of the Qur'an last stop you mid-reading and make you think?","What is the difference between reciting quickly and reflecting slowly — and which fills more of your reading?","The verse links reflection to being 'reminded'. What truth might you already know that needs reawakening?"],
+    "pointsBn": ["সর্বশেষ কবে কুরআনের কোনো আয়াত পড়তে পড়তে আপনাকে থামিয়ে ভাবিয়ে তুলেছিল?","দ্রুত তিলাওয়াত আর ধীরে চিন্তা-ভাবনার মধ্যে পার্থক্য কী — আপনার পাঠে কোনটির স্থান বেশি?","আয়াতটি চিন্তা-ভাবনাকে 'উপদেশ গ্রহণের' সাথে যুক্ত করেছে। এমন কোন সত্য আপনি আগে থেকেই জানেন, যা নতুন করে জাগিয়ে তোলা দরকার?"],
+    "lessonEn": "The Qur'an was revealed to be pondered, so read slowly enough for its verses to reach the heart.",
+    "lessonBn": "কুরআন নাযিল হয়েছে চিন্তা-ভাবনার জন্য, তাই এমন ধীরে পড়ুন যেন আয়াতগুলো অন্তরে পৌঁছায়।"
+  },
+  "43:32": {
+    "reflectionEn": "This verse states plainly that it is Allah who apportions livelihoods and raises some people above others in degrees, so that they may serve one another. Differences in provision are not accidents or verdicts on human worth — they are part of a design that binds people together in mutual need. And the verse ends with a re-ordering of values: the mercy of your Lord is better than everything people pile up.",
+    "reflectionBn": "এই আয়াত স্পষ্ট বলে দেয় যে জীবিকা বণ্টন করেন আল্লাহ নিজেই, এবং তিনিই মর্যাদায় এককে অন্যের উপরে রাখেন, যাতে মানুষ পরস্পরের সহায়তা নিতে পারে। রিযিকের তারতম্য কোনো দুর্ঘটনা নয়, মানুষের মূল্য নির্ধারণের রায়ও নয় — এটি এমন এক পরিকল্পনার অংশ যা মানুষকে পারস্পরিক প্রয়োজনে বেঁধে রাখে। আর আয়াতের শেষে মূল্যবোধের নতুন বিন্যাস: মানুষ যা-ই জমা করুক, তোমার প্রতিপালকের রহমত তার চেয়ে উত্তম।",
+    "pointsEn": ["How does knowing that provision is apportioned by Allah change how you view someone who has more than you?","Where in your life do you depend on the work of others — and who depends on yours?","If Allah's mercy is truly better than what people accumulate, what are you working hardest to gather?"],
+    "pointsBn": ["রিযিক আল্লাহই বণ্টন করেন — এ কথা জানা আপনার চেয়ে বেশি সম্পদের অধিকারী কাউকে দেখার দৃষ্টি কীভাবে বদলে দেয়?","জীবনের কোন কোন ক্ষেত্রে আপনি অন্যের শ্রমের উপর নির্ভরশীল — আর কে আপনার উপর নির্ভর করে?","আল্লাহর রহমত যদি সত্যিই মানুষের সঞ্চিত সবকিছুর চেয়ে উত্তম হয়, তবে আপনি সবচেয়ে বেশি পরিশ্রম করছেন কী অর্জনের জন্য?"],
+    "lessonEn": "Provision is apportioned by Allah to bind people in mutual service, and His mercy outweighs everything they accumulate.",
+    "lessonBn": "আল্লাহ রিযিক বণ্টন করেছেন যেন মানুষ পরস্পরের সেবায় যুক্ত থাকে, আর তাঁর রহমত মানুষের সঞ্চিত সবকিছুর চেয়ে উত্তম।"
+  },
+  "44:38": {
+    "reflectionEn": "Allah declares that the heavens, the earth, and everything between them were not created in play. If the whole universe is purposeful, then the human life inside it cannot be aimless either. The verse invites us to look at the sky and the ground beneath us and ask what a purposeful creation demands of a purposeful life.",
+    "reflectionBn": "আল্লাহ ঘোষণা করছেন যে আসমান, যমীন এবং এ দুয়ের মাঝে যা কিছু আছে — কোনো কিছুই খেল-তামাশার জন্য সৃষ্টি হয়নি। গোটা মহাবিশ্ব যদি উদ্দেশ্যপূর্ণ হয়, তবে তার ভিতরে থাকা মানবজীবনও লক্ষ্যহীন হতে পারে না। আয়াতটি আমাদের আহ্বান জানায় — আকাশের দিকে ও পায়ের নিচের মাটির দিকে তাকিয়ে ভাবতে: উদ্দেশ্যপূর্ণ সৃষ্টি একটি উদ্দেশ্যপূর্ণ জীবনের কাছে কী দাবি করে?",
+    "pointsEn": ["If the universe is not play, what would it mean to live your own days as if they were?","What parts of your daily routine feel most connected to purpose, and which feel like drifting?","How does seeing creation as deliberate change how you treat your time, your body, and the earth?"],
+    "pointsBn": ["মহাবিশ্ব যদি খেলা না হয়, তবে নিজের দিনগুলো খেলার মতো কাটানোর অর্থ কী দাঁড়ায়?","আপনার দৈনন্দিন রুটিনের কোন অংশগুলো উদ্দেশ্যের সাথে যুক্ত মনে হয়, আর কোনগুলো ভেসে চলার মতো?","সৃষ্টিকে সুপরিকল্পিত হিসেবে দেখা আপনার সময়, দেহ ও এই পৃথিবীর প্রতি আচরণ কীভাবে বদলে দেয়?"],
+    "lessonEn": "A universe created with purpose calls each life within it to live with purpose.",
+    "lessonBn": "উদ্দেশ্য নিয়ে সৃষ্ট মহাবিশ্ব তার ভিতরের প্রতিটি জীবনকে উদ্দেশ্য নিয়ে বাঁচার আহ্বান জানায়।"
+  },
+  "48:4": {
+    "reflectionEn": "It is Allah who sends down tranquility into the hearts of the believers, so that their faith grows upon the faith they already have. Inner calm is described here not as a technique but as a gift placed directly into the heart by the One to whom all the forces of the heavens and earth belong. The verse suggests that serenity and strength come from the same source — and that faith is meant to keep increasing.",
+    "reflectionBn": "আল্লাহই মুমিনদের অন্তরে প্রশান্তি নাযিল করেন, যেন তাদের বিদ্যমান ঈমানের সাথে ঈমান আরও বেড়ে যায়। এখানে অন্তরের প্রশান্তিকে কোনো কৌশল হিসেবে নয়, বরং সরাসরি অন্তরে স্থাপিত এক উপহার হিসেবে বর্ণনা করা হয়েছে — সেই সত্তার পক্ষ থেকে, আসমান ও যমীনের সমস্ত বাহিনী যাঁর অধীন। আয়াতটি ইঙ্গিত দেয়, প্রশান্তি ও শক্তি একই উৎস থেকে আসে — আর ঈমান ক্রমাগত বাড়তে থাকারই কথা।",
+    "pointsEn": ["When have you felt an unexplained calm in the middle of difficulty — and where did you sense it came from?","The verse says faith increases upon faith. What has recently added to yours?","How does remembering that all forces belong to Allah quiet the fear of what people can do?"],
+    "pointsBn": ["কঠিন মুহূর্তের মাঝেও কখনো কি ব্যাখ্যাতীত এক প্রশান্তি অনুভব করেছেন — সেটি কোথা থেকে এসেছিল বলে মনে হয়েছে?","আয়াত বলছে, ঈমানের সাথে ঈমান বাড়ে। সাম্প্রতিক কোন বিষয় আপনার ঈমানে যোগ করেছে?","সমস্ত বাহিনী আল্লাহর অধীন — এ কথা স্মরণ মানুষের ক্ষতি করার ভয়কে কীভাবে স্তব্ধ করে দেয়?"],
+    "lessonEn": "Tranquility is Allah's gift sent into believing hearts so that faith keeps growing upon faith.",
+    "lessonBn": "প্রশান্তি আল্লাহর পক্ষ থেকে মুমিন অন্তরে পাঠানো উপহার, যেন ঈমানের সাথে ঈমান বাড়তেই থাকে।"
+  },
+  "56:60": {
+    "reflectionEn": "Death is not random; Allah says He has decreed it among us, and He is never outdone. No wealth, medicine, or power can renegotiate the appointment He has fixed. Rather than a cause for despair, this certainty is a lens: knowing the end is decreed frees us to focus on what we will bring to it.",
+    "reflectionBn": "মৃত্যু এলোমেলো কিছু নয়; আল্লাহ বলছেন, তিনিই আমাদের মধ্যে মৃত্যু নির্ধারণ করেছেন, আর তিনি কিছুতেই অক্ষম নন। কোনো সম্পদ, চিকিৎসা বা ক্ষমতা তাঁর নির্ধারিত সময়কে বদলাতে পারে না। এই নিশ্চয়তা হতাশার কারণ নয়, বরং এক দৃষ্টিভঙ্গি: সমাপ্তি নির্ধারিত জেনে আমরা মুক্ত হই সেই প্রশ্নে মন দিতে — সেদিন আমরা সঙ্গে কী নিয়ে যাব।",
+    "pointsEn": ["If the timing of death is already decreed, what fear loses its grip on you?","What would you change this week if you took the certainty of death seriously?","How can remembering death make life more intentional rather than more anxious?"],
+    "pointsBn": ["মৃত্যুর সময় যদি আগেই নির্ধারিত হয়ে থাকে, তবে কোন ভয় আপনার উপর থেকে পাকড় হারায়?","মৃত্যুর নিশ্চয়তাকে সত্যিই গুরুত্ব দিলে এই সপ্তাহে আপনি কী বদলাতেন?","মৃত্যুর স্মরণ কীভাবে জীবনকে উদ্বিগ্ন নয় বরং আরও সচেতন ও লক্ষ্যপূর্ণ করে তুলতে পারে?"],
+    "lessonEn": "Death is decreed and cannot be outrun, so spend the certainty of its coming on preparing for what follows.",
+    "lessonBn": "মৃত্যু নির্ধারিত, তা এড়ানো যায় না — তাই এই নিশ্চয়তাকে কাজে লাগান পরবর্তী জীবনের প্রস্তুতিতে।"
+  },
+  "58:7": {
+    "reflectionEn": "No secret meeting of three exists without Allah being the fourth, nor of five without Him being the sixth — wherever people are, He is with them in knowledge, and on the Day of Resurrection He will inform them of what they did. Privacy from people is possible; privacy from Allah is not. The verse turns every whispered conversation into a moment of awareness of the All-Knowing.",
+    "reflectionBn": "তিনজনের এমন কোনো গোপন পরামর্শ নেই যেখানে আল্লাহ চতুর্থজন নন, পাঁচজনের নেই যেখানে তিনি ষষ্ঠজন নন — মানুষ যেখানেই থাকুক, তিনি জ্ঞানে তাদের সাথে আছেন, আর কিয়ামতের দিন তিনি জানিয়ে দেবেন তারা কী করেছিল। মানুষের কাছ থেকে গোপনীয়তা সম্ভব, কিন্তু আল্লাহর কাছ থেকে নয়। আয়াতটি প্রতিটি ফিসফিস আলাপকে সর্বজ্ঞ আল্লাহর প্রতি সচেতনতার মুহূর্তে পরিণত করে।",
+    "pointsEn": ["Would your private conversations change if you consciously counted Allah among those present?","What do you say only in secret that you would never say openly — and why?","How can this awareness bring comfort to the lonely as well as caution to the schemer?"],
+    "pointsBn": ["আল্লাহকে উপস্থিতদের মধ্যে সচেতনভাবে গণনা করলে আপনার গোপন আলাপগুলো কি বদলে যেত?","এমন কী কথা আপনি কেবল গোপনে বলেন যা প্রকাশ্যে কখনোই বলতেন না — কেন?","এই সচেতনতা কীভাবে একাকী মানুষকে সান্ত্বনা দেয়, আবার ষড়যন্ত্রকারীকে সতর্ক করে?"],
+    "lessonEn": "No conversation is truly private — Allah is present in knowledge wherever you are, so speak in secret only what you could own openly.",
+    "lessonBn": "কোনো আলাপই প্রকৃত অর্থে গোপন নয় — আপনি যেখানেই থাকুন আল্লাহ জ্ঞানে সাথে আছেন, তাই গোপনে শুধু তা-ই বলুন যা প্রকাশ্যে স্বীকার করতে পারবেন।"
+  },
+  "60:8": {
+    "reflectionEn": "Allah does not forbid believers from being righteous and just toward those who neither fought them over religion nor drove them from their homes — indeed, He loves those who act justly. Kindness and fairness are the default posture toward peaceful people of any faith. The verse closes with a striking motivation: justice toward others is a path to being loved by Allah.",
+    "reflectionBn": "যারা দীনের কারণে যুদ্ধ করেনি এবং ঘরবাড়ি থেকে বের করে দেয়নি, তাদের প্রতি সদাচরণ ও ন্যায়বিচার করতে আল্লাহ মুমিনদের নিষেধ করেননি — বরং তিনি ন্যায়পরায়ণদের ভালোবাসেন। যেকোনো ধর্মের শান্তিপ্রিয় মানুষের প্রতি সদয়তা ও ইনসাফই মৌলিক আচরণ। আয়াতের শেষে এক অসাধারণ প্রেরণা: অন্যের প্রতি ন্যায়বিচারই আল্লাহর ভালোবাসা পাওয়ার একটি পথ।",
+    "pointsEn": ["Who in your life holds different beliefs — and does your treatment of them reflect righteousness and justice?","What is the difference between disagreeing with someone and being unjust to them?","The verse says Allah loves the just. Where could you act more justly this week?"],
+    "pointsBn": ["আপনার জীবনে ভিন্ন বিশ্বাসের কে কে আছেন — তাদের প্রতি আপনার আচরণে কি সদাচরণ ও ন্যায়বিচার প্রতিফলিত হয়?","কারো সাথে দ্বিমত পোষণ করা আর তার প্রতি অন্যায় করা — এ দুয়ের পার্থক্য কী?","আয়াত বলছে, আল্লাহ ন্যায়পরায়ণদের ভালোবাসেন। এই সপ্তাহে কোথায় আপনি আরও ন্যায়নিষ্ঠ হতে পারেন?"],
+    "lessonEn": "Kindness and justice toward peaceful people of other faiths is not merely allowed — it is a conduct Allah loves.",
+    "lessonBn": "ভিন্ন ধর্মের শান্তিপ্রিয় মানুষের প্রতি সদাচরণ ও ন্যায়বিচার কেবল অনুমোদিতই নয় — এটি এমন আচরণ যা আল্লাহ ভালোবাসেন।"
+  },
+  "61:2": {
+    "reflectionEn": "The verse addresses believers directly with a piercing question: why do you say what you do not do? It targets the gap between our speech and our practice — the advice we give but ignore, the promises we make but break. Faith is asked here to show itself in consistency, where words and actions tell the same story.",
+    "reflectionBn": "আয়াতটি মুমিনদের সরাসরি এক তীক্ষ্ণ প্রশ্ন করে: তোমরা এমন কথা কেন বলো যা তোমরা করো না? এটি আমাদের কথা ও কাজের মাঝের ফাঁকটিকে লক্ষ্য করে — যে উপদেশ আমরা দিই কিন্তু নিজে মানি না, যে প্রতিশ্রুতি দিই কিন্তু ভাঙি। ঈমানের কাছে এখানে দাবি করা হয়েছে ধারাবাহিকতা — যেখানে কথা ও কাজ একই গল্প বলে।",
+    "pointsEn": ["What good advice do you give to others that you have not yet applied to yourself?","Which promise — to Allah or to people — is still waiting for you to fulfill it?","How would your words change if you committed to only saying what you intend to do?"],
+    "pointsBn": ["অন্যদের এমন কোন ভালো উপদেশ দেন যা এখনো নিজের জীবনে প্রয়োগ করেননি?","আল্লাহর কাছে বা মানুষের কাছে দেওয়া কোন প্রতিশ্রুতি এখনো পূরণের অপেক্ষায় আছে?","শুধু তা-ই বলবেন যা করার ইচ্ছা রাখেন — এমন সংকল্প করলে আপনার কথাবার্তা কেমন বদলে যেত?"],
+    "lessonEn": "Let your actions catch up with your words, for faith shows itself in the match between what you say and what you do.",
+    "lessonBn": "কথার সাথে কাজকে মিলিয়ে নিন, কারণ ঈমানের পরিচয় কথায় ও কাজের মিলেই ফুটে ওঠে।"
+  },
+  "69:19": {
+    "reflectionEn": "The verse paints the moment when a person receives their record in the right hand and cries out with joy: 'Here, read my record!' A life's hidden efforts — quiet prayers, private honesty, unseen charity — become, on that Day, something to celebrate publicly. The image invites us to write today the record we would be delighted to display then.",
+    "reflectionBn": "আয়াতটি সেই মুহূর্তের চিত্র আঁকে যখন কেউ ডান হাতে নিজের আমলনামা পেয়ে আনন্দে বলে উঠবে: 'এই যে, আমার আমলনামা পড়ে দেখো!' জীবনের গোপন সাধনাগুলো — নীরব সালাত, একান্ত সততা, লোকচক্ষুর আড়ালের দান — সেদিন হয়ে উঠবে প্রকাশ্যে উদযাপনের বিষয়। এই চিত্র আমাদের আহ্বান জানায় — আজই এমন আমলনামা লিখতে, যা সেদিন দেখাতে পেরে আনন্দিত হব।",
+    "pointsEn": ["If your record were handed to you today, which pages would you be eager to show?","What deed could you add this week that you would want read aloud on that Day?","How does picturing that moment of joy change the weight of small daily choices?"],
+    "pointsBn": ["আজই যদি আপনার আমলনামা হাতে দেওয়া হতো, কোন পৃষ্ঠাগুলো আগ্রহ নিয়ে দেখাতেন?","এই সপ্তাহে এমন কোন আমল যোগ করতে পারেন যা সেদিন পড়ে শোনানো হোক বলে চাইবেন?","সেই আনন্দের মুহূর্তটি কল্পনা করা প্রতিদিনের ছোট ছোট সিদ্ধান্তের ওজন কীভাবে বদলে দেয়?"],
+    "lessonEn": "Live today so that on the Day your record is handed over, you will long for everyone to read it.",
+    "lessonBn": "আজ এমনভাবে বাঁচুন, যেন আমলনামা হাতে পাওয়ার দিন সবাইকে তা পড়ে দেখাতে ইচ্ছা করে।"
+  },
+  "72:18": {
+    "reflectionEn": "The mosques belong to Allah, so no one else is to be invoked alongside Him. The verse guards the purest space of worship — and the purest act within it, calling upon God — from being shared with anyone. It reminds us that the direction of our hearts in prayer defines the sincerity of our whole religion.",
+    "reflectionBn": "মসজিদগুলো একমাত্র আল্লাহর জন্য, তাই তাঁর সাথে অন্য কাউকে ডাকা যাবে না। আয়াতটি ইবাদতের সবচেয়ে পবিত্র স্থানকে — এবং তার ভিতরের সবচেয়ে পবিত্র কাজ, আল্লাহকে ডাকাকে — অন্য কারো ভাগ থেকে রক্ষা করে। এটি স্মরণ করিয়ে দেয়: সালাতে আমাদের অন্তরের অভিমুখই গোটা দীনের নিষ্ঠা নির্ধারণ করে।",
+    "pointsEn": ["When you call upon Allah, is your hope truly attached to Him alone?","What besides Allah do people quietly rely on for what only He can give?","How does knowing the mosque is purely for Allah shape how you enter and stand in it?"],
+    "pointsBn": ["যখন আল্লাহকে ডাকেন, তখন কি আপনার আশা সত্যিই কেবল তাঁর সাথেই বাঁধা থাকে?","যা কেবল আল্লাহই দিতে পারেন, তার জন্য মানুষ নীরবে আর কীসের উপর ভরসা করে?","মসজিদ কেবলই আল্লাহর জন্য — এই জ্ঞান সেখানে প্রবেশ ও দাঁড়ানোর ভঙ্গিকে কীভাবে গড়ে দেয়?"],
+    "lessonEn": "Worship and supplication belong to Allah alone — let no one share the call of your heart.",
+    "lessonBn": "ইবাদত ও প্রার্থনা একমাত্র আল্লাহর — অন্তরের ডাকে কাউকে অংশীদার করবেন না।"
+  },
+  "74:38": {
+    "reflectionEn": "Every soul is held in pledge for what it has earned. The image is of a deposit held as security: our own selves are mortgaged against our deeds, and only what we earn can redeem us. No one else's account can settle ours, which makes each day's earnings a matter of personal urgency.",
+    "reflectionBn": "প্রত্যেক ব্যক্তি নিজ কৃতকর্মের দায়ে আবদ্ধ। চিত্রটি বন্ধক রাখা আমানতের মতো: আমাদের নিজেদের সত্তাই আমাদের আমলের বিপরীতে বন্ধক, আর কেবল নিজের অর্জনই আমাদের মুক্ত করতে পারে। অন্য কারো হিসাব আমাদের হিসাব চুকাতে পারবে না — তাই প্রতিদিনের অর্জন হয়ে ওঠে একান্ত ব্যক্তিগত জরুরি বিষয়।",
+    "pointsEn": ["If your soul is pledged against your deeds, what are you earning today to redeem it?","How does personal accountability change the habit of comparing yourself to others?","What one earning — a prayer, a kindness, a repentance — could you add before sleeping tonight?"],
+    "pointsBn": ["আপনার সত্তা যদি আমলের বিপরীতে বন্ধক থাকে, তবে তা মুক্ত করতে আজ কী অর্জন করছেন?","ব্যক্তিগত জবাবদিহিতার এই উপলব্ধি অন্যের সাথে নিজেকে তুলনার অভ্যাসকে কীভাবে বদলে দেয়?","আজ রাতে ঘুমানোর আগে কোন একটি অর্জন — একটি সালাত, একটি সদাচরণ, একটি তওবা — যোগ করতে পারেন?"],
+    "lessonEn": "Your soul is security against your own deeds — only what you personally earn can set it free.",
+    "lessonBn": "আপনার সত্তা আপনার নিজের আমলের জামিন — কেবল নিজের অর্জনই তাকে মুক্ত করতে পারে।"
+  },
+  "79:46": {
+    "reflectionEn": "On the Day people see the Hour, it will seem as though they had lived in this world only an afternoon or a morning. Decades of striving, saving, and worrying will compress into the feeling of a few hours. The verse re-scales our sense of time: a life that feels long now will feel momentary then, so its true value lies in what it sends ahead.",
+    "reflectionBn": "যেদিন মানুষ কিয়ামত দেখবে, সেদিন মনে হবে তারা দুনিয়ায় ছিল কেবল এক সন্ধ্যা বা এক সকাল। দশকের পর দশকের সংগ্রাম, সঞ্চয় আর দুশ্চিন্তা সংকুচিত হয়ে দাঁড়াবে কয়েক ঘণ্টার অনুভূতিতে। আয়াতটি আমাদের সময়ের মাপকাঠি বদলে দেয়: যে জীবন এখন দীর্ঘ মনে হয়, সেদিন তা মুহূর্তমাত্র মনে হবে — তাই তার প্রকৃত মূল্য সেটিই যা সে সামনে পাঠায়।",
+    "pointsEn": ["If this whole life will feel like one morning, what deserves less of your worry?","What are you spending years on that will not matter beyond that 'afternoon'?","How can the shortness of life sharpen, rather than sadden, the way you spend today?"],
+    "pointsBn": ["গোটা জীবন যদি এক সকালের মতো মনে হয়, তবে কোন বিষয়টি আপনার দুশ্চিন্তার কম দাবিদার?","এমন কীসের পিছনে বছর ব্যয় করছেন যা সেই 'এক সন্ধ্যার' পরে আর কোনো কাজে আসবে না?","জীবনের এই স্বল্পতা আজকের দিন কাটানোর ধরনকে বিষণ্ণ না করে কীভাবে আরও তীক্ষ্ণ ও অর্থবহ করতে পারে?"],
+    "lessonEn": "This life will one day feel like a single morning — invest it in what outlasts it.",
+    "lessonBn": "এই জীবন একদিন এক সকালের মতো মনে হবে — তাই তা বিনিয়োগ করুন যা এর পরেও টিকে থাকে।"
+  },
+  "80:24": {
+    "reflectionEn": "'Then let mankind look at his food' — the Qur'an turns something as ordinary as a meal into a field of signs. Behind every bite lies rain sent down, earth split open, and grain grown by a power no human controls. The verse teaches that reflection does not require distant wonders; the plate in front of you is enough.",
+    "reflectionBn": "'মানুষ তার খাদ্যের ব্যাপারটাই ভেবে দেখুক' — কুরআন খাবারের মতো অতি সাধারণ জিনিসকেও নিদর্শনের ক্ষেত্র বানিয়ে দেয়। প্রতিটি গ্রাসের পিছনে আছে বর্ষিত বৃষ্টি, বিদীর্ণ মাটি আর এমন এক শক্তিতে বেড়ে ওঠা শস্য যা কোনো মানুষের নিয়ন্ত্রণে নেই। আয়াতটি শেখায়: চিন্তা-ভাবনার জন্য দূরের বিস্ময় লাগে না; সামনের খাবারের প্লেটটিই যথেষ্ট।",
+    "pointsEn": ["Trace one item from your last meal back to its origin — how many steps were beyond any human's control?","How would eating change if each meal began with a moment of looking and thanking?","What other 'ordinary' things around you carry the same hidden signs?"],
+    "pointsBn": ["শেষ খাবারের একটি উপাদানকে তার উৎস পর্যন্ত ভেবে দেখুন — কতগুলো ধাপ কোনো মানুষের নিয়ন্ত্রণের বাইরে ছিল?","প্রতিটি খাবার যদি একটু তাকিয়ে দেখা ও শুকরিয়ার মুহূর্ত দিয়ে শুরু হতো, তবে খাওয়ার অভিজ্ঞতা কেমন বদলে যেত?","আপনার চারপাশের আর কোন 'সাধারণ' জিনিসগুলো একই লুকানো নিদর্শন বহন করে?"],
+    "lessonEn": "Reflection starts as close as your own plate — every meal is a sign pointing to its Provider.",
+    "lessonBn": "চিন্তা-ভাবনা শুরু হয় নিজের খাবারের প্লেট থেকেই — প্রতিটি আহার তার রিযিকদাতার দিকে ইঙ্গিতকারী নিদর্শন।"
+  },
+  "81:26": {
+    "reflectionEn": "'So where are you going?' — four words that stop a person mid-stride. After affirming the truth of the message, the Qur'an asks the wanderer to name his destination. It is a question every life must answer: if not toward this guidance, then toward what, and why?",
+    "reflectionBn": "'কাজেই তোমরা কোথায় চলেছ?' — কয়েকটি শব্দ, যা মানুষকে চলার মাঝপথে থামিয়ে দেয়। বাণীর সত্যতা ঘোষণার পর কুরআন পথভোলা পথিককে তার গন্তব্যের নাম জিজ্ঞেস করে। এটি এমন এক প্রশ্ন যার উত্তর প্রতিটি জীবনকে দিতেই হয়: এই হেদায়েতের দিকে না হলে, তবে কোন দিকে — এবং কেন?",
+    "pointsEn": ["If someone asked where your current path leads in ten years, what would you honestly answer?","What direction are your daily habits quietly carrying you toward?","When you drift from guidance, what usually pulls you — and what calls you back?"],
+    "pointsBn": ["কেউ যদি জিজ্ঞেস করে আপনার বর্তমান পথ দশ বছর পরে কোথায় নিয়ে যাবে, সৎভাবে কী উত্তর দেবেন?","আপনার দৈনন্দিন অভ্যাসগুলো নীরবে আপনাকে কোন দিকে বয়ে নিয়ে যাচ্ছে?","হেদায়েত থেকে সরে গেলে সাধারণত কী আপনাকে টানে — আর কী আবার ফিরিয়ে আনে?"],
+    "lessonEn": "Pause often to ask yourself the Qur'an's question — where am I actually going?",
+    "lessonBn": "প্রায়ই থেমে নিজেকে কুরআনের প্রশ্নটি করুন — আমি আসলে কোথায় চলেছি?"
+  },
+  "83:14": {
+    "reflectionEn": "The verse explains why some hearts stop responding to truth: a stain has covered them from what they kept earning. Sin, repeated without regret, settles on the heart like rust on metal, dulling its ability to feel and see clearly. The warning carries hope within it — what accumulates through deeds can be polished away by turning back before the covering thickens.",
+    "reflectionBn": "আয়াতটি ব্যাখ্যা করে কেন কিছু অন্তর সত্যে আর সাড়া দেয় না: তাদের কৃতকর্মই তাদের অন্তরে জং ধরিয়ে দিয়েছে। অনুশোচনাহীন বারবার গুনাহ ধাতুর উপর মরিচার মতো অন্তরে জমে, তার অনুভব ও স্পষ্ট দেখার ক্ষমতাকে ভোঁতা করে দেয়। তবে সতর্কবাণীর ভিতরেই আশা লুকিয়ে আছে — আমলের মাধ্যমে যা জমে, আবরণ পুরু হওয়ার আগে ফিরে আসার মাধ্যমে তা ঘষে তুলেও ফেলা যায়।",
+    "pointsEn": ["Have you noticed a sin feeling 'lighter' the more it is repeated — what might that dullness mean?","What small, repeated act might be quietly staining your heart right now?","What polishes a heart in your experience — and how regularly do you apply it?"],
+    "pointsBn": ["কোনো গুনাহ যত বেশি করা হয় তত 'হালকা' মনে হয় — এই অনুভূতিহীনতা কীসের ইঙ্গিত হতে পারে?","ছোট অথচ বারবার করা কোন কাজ এই মুহূর্তে নীরবে আপনার অন্তরে দাগ ফেলছে?","আপনার অভিজ্ঞতায় কী অন্তরকে পরিষ্কার করে — আর তা কত নিয়মিত প্রয়োগ করেন?"],
+    "lessonEn": "Repeated sin rusts the heart, so keep it polished with quick repentance before the stain settles.",
+    "lessonBn": "বারবার গুনাহ অন্তরে জং ধরায়, তাই দাগ বসে যাওয়ার আগে দ্রুত তওবায় অন্তরকে পরিচ্ছন্ন রাখুন।"
+  },
+  "90:4": {
+    "reflectionEn": "Allah declares that He created man into hardship — struggle is woven into the human condition itself, not a sign that something has gone wrong. Every person carries some toil: in body, livelihood, relationships, or the soul. Accepting this design replaces the exhausting question 'why me?' with the steadier one: 'how shall I carry this well?'",
+    "reflectionBn": "আল্লাহ ঘোষণা করছেন, তিনি মানুষকে সৃষ্টি করেছেন কষ্ট ও শ্রমের মাঝে — সংগ্রাম মানব-অস্তিত্বেরই বুনন, কিছু ভুল হয়ে যাওয়ার লক্ষণ নয়। প্রতিটি মানুষই কোনো না কোনো কষ্ট বহন করে: দেহে, জীবিকায়, সম্পর্কে কিংবা আত্মায়। এই নকশাকে মেনে নিলে ক্লান্তিকর প্রশ্ন 'কেন আমিই?' বদলে যায় স্থির প্রশ্নে: 'এই বোঝা আমি কীভাবে সুন্দরভাবে বইব?'",
+    "pointsEn": ["Does knowing hardship is part of human design change how you view your current struggle?","What struggle have you been treating as an injustice that may simply be your share of human toil?","How does this verse free you from envying lives that look effortless?"],
+    "pointsBn": ["কষ্ট মানব-সৃষ্টিরই অংশ — এ কথা জানা আপনার বর্তমান সংগ্রামকে দেখার দৃষ্টি কি বদলে দেয়?","কোন কষ্টকে আপনি অবিচার ভেবে আসছেন, যা হয়তো মানবজীবনের শ্রমেরই আপনার ভাগ?","এই আয়াত কীভাবে আপনাকে আপাত-নিষ্কণ্টক জীবনের প্রতি ঈর্ষা থেকে মুক্তি দেয়?"],
+    "lessonEn": "Hardship is built into human life by design — the question is not whether to struggle, but how to carry it with faith.",
+    "lessonBn": "কষ্ট মানবজীবনের সৃষ্টিগত অংশ — প্রশ্ন সংগ্রাম হবে কি না তা নয়, বরং তা ঈমানের সাথে কীভাবে বহন করব।"
+  },
+  "91:9": {
+    "reflectionEn": "After a series of great oaths, the Qur'an announces its verdict: the one who purifies his soul has succeeded. Success is defined here not by wealth, status, or victory, but by the inner work of cleansing the self. The soul, like anything precious, needs constant tending — and its purification is declared the truest triumph a human can achieve.",
+    "reflectionBn": "একের পর এক মহাশপথের পর কুরআন তার রায় ঘোষণা করে: সে-ই সফল হয়েছে যে নিজের আত্মাকে পবিত্র করেছে। সাফল্যের সংজ্ঞা এখানে সম্পদ, মর্যাদা বা বিজয় নয় — বরং নিজেকে পরিশুদ্ধ করার আন্তরিক সাধনা। আত্মা, যেকোনো মূল্যবান জিনিসের মতোই, নিরন্তর যত্ন চায় — আর তার পরিশুদ্ধিকেই ঘোষণা করা হয়েছে মানুষের প্রকৃততম বিজয় বলে।",
+    "pointsEn": ["By this verse's definition of success, how is your 'career' of the soul progressing?","What habit most pollutes your inner state — and what most purifies it?","If you invested in your soul the way people invest in wealth, what would change first?"],
+    "pointsBn": ["এই আয়াতের সাফল্যের সংজ্ঞা অনুযায়ী, আপনার আত্মার 'ক্যারিয়ার' কেমন এগোচ্ছে?","কোন অভ্যাস আপনার ভিতরের অবস্থাকে সবচেয়ে বেশি কলুষিত করে — আর কী সবচেয়ে বেশি পবিত্র করে?","মানুষ যেভাবে সম্পদে বিনিয়োগ করে, সেভাবে আত্মায় বিনিয়োগ করলে প্রথম কী বদলাত?"],
+    "lessonEn": "True success is the daily work of purifying your own soul.",
+    "lessonBn": "প্রকৃত সাফল্য হলো নিজের আত্মাকে পবিত্র করার প্রতিদিনের সাধনা।"
+  },
+  "92:4": {
+    "reflectionEn": "'Indeed, your efforts are diverse' — every human being strives, but not all striving leads to the same place. Two people may work equally hard while their efforts pull in opposite directions, one toward good and one away from it. The verse asks us to examine not whether we are busy, but what our busyness is actually building.",
+    "reflectionBn": "'তোমাদের চেষ্টা-সাধনা অবশ্যই বিভিন্নমুখী' — প্রতিটি মানুষই পরিশ্রম করে, কিন্তু সব পরিশ্রম একই গন্তব্যে পৌঁছায় না। দুজন মানুষ সমান পরিশ্রমী হয়েও বিপরীত দিকে ছুটতে পারে — একজন কল্যাণের দিকে, অন্যজন তা থেকে দূরে। আয়াতটি জিজ্ঞেস করে: আমরা ব্যস্ত কি না তা নয়, বরং আমাদের ব্যস্ততা আসলে কী গড়ে তুলছে।",
+    "pointsEn": ["If you listed everything you strove for this week, which direction would the list point?","What effort in your life costs the most energy but builds the least of lasting value?","How can you redirect one existing effort so it serves both this life and the next?"],
+    "pointsBn": ["এই সপ্তাহে যা যা নিয়ে চেষ্টা করেছেন তার তালিকা করলে, তালিকাটি কোন দিকে ইঙ্গিত করবে?","জীবনের কোন প্রচেষ্টা সবচেয়ে বেশি শক্তি খরচ করে অথচ স্থায়ী মূল্যের সবচেয়ে কম কিছু গড়ে?","বিদ্যমান কোন একটি প্রচেষ্টাকে কীভাবে এমন দিকে ঘুরিয়ে নিতে পারেন যেন তা দুনিয়া ও আখিরাত দুটোরই কাজে আসে?"],
+    "lessonEn": "All people strive, but strivings differ in direction — make sure yours points toward what lasts.",
+    "lessonBn": "সবাই চেষ্টা করে, কিন্তু চেষ্টার অভিমুখ ভিন্ন — নিশ্চিত করুন আপনারটি স্থায়ী কল্যাণের দিকে।"
+  },
+  "95:4": {
+    "reflectionEn": "Allah swears that He created man in the best of stature. Before any achievement, every human being begins as a masterpiece of divine fashioning — in form, faculties, and capacity. The verse plants a deep dignity in self-perception: honoring how we were made is the first step toward living up to it.",
+    "reflectionBn": "আল্লাহ শপথ করে বলছেন, তিনি মানুষকে সৃষ্টি করেছেন সর্বোত্তম গঠনে। কোনো অর্জনের আগেই প্রতিটি মানুষ শুরু হয় আল্লাহর নিপুণ সৃষ্টিশৈলীর এক শ্রেষ্ঠ নিদর্শন হিসেবে — আকৃতিতে, ইন্দ্রিয়ে ও সামর্থ্যে। আয়াতটি আত্মপরিচয়ে এক গভীর মর্যাদা স্থাপন করে: আমরা কীভাবে সৃষ্ট হয়েছি তার সম্মান করাই সে মর্যাদা অনুযায়ী বাঁচার প্রথম ধাপ।",
+    "pointsEn": ["What abilities of your body and mind do you use daily without noticing their wonder?","How does knowing you were created 'in the best of stature' answer moments of self-contempt?","If your form and faculties are an honored trust, how should they be used and maintained?"],
+    "pointsBn": ["দেহ ও মনের কোন সামর্থ্যগুলো প্রতিদিন ব্যবহার করেন অথচ তাদের বিস্ময় খেয়ালই করেন না?","'সর্বোত্তম গঠনে' সৃষ্ট হয়েছেন — এই জ্ঞান আত্মগ্লানির মুহূর্তগুলোর কী জবাব দেয়?","আপনার দেহ ও ইন্দ্রিয় যদি এক সম্মানিত আমানত হয়, তবে তার ব্যবহার ও যত্ন কেমন হওয়া উচিত?"],
+    "lessonEn": "You were fashioned in the best of stature — honor that making by how you live in it.",
+    "lessonBn": "আপনি সৃষ্ট হয়েছেন সর্বোত্তম গঠনে — জীবনযাপনের ধরন দিয়ে সেই সৃষ্টির মর্যাদা রক্ষা করুন।"
+  },
+  "97:3": {
+    "reflectionEn": "The Night of Decree is better than a thousand months — a single night outweighing more than eighty years of time. The verse reveals that in Allah's measure, moments are not equal: some hours carry the weight of lifetimes. It teaches us to seek out the seasons of mercy and to treat blessed time as the most valuable thing we can ever hold.",
+    "reflectionBn": "ক্বদরের রাত হাজার মাসের চেয়েও উত্তম — একটি মাত্র রাত আশি বছরেরও বেশি সময়কে ছাড়িয়ে যায়। আয়াতটি প্রকাশ করে, আল্লাহর পরিমাপে সব মুহূর্ত সমান নয়: কিছু প্রহর গোটা জীবনের সমান ভার বহন করে। এটি শেখায় — রহমতের মৌসুমগুলো খুঁজে নিতে, আর বরকতময় সময়কে গণ্য করতে হাতে পাওয়া সবচেয়ে মূল্যবান সম্পদ হিসেবে।",
+    "pointsEn": ["If one night can outweigh a thousand months, what does that say about the potential of any sincere moment?","How do you currently treat the blessed times of the day and year — as opportunities or as routine?","What would seeking a night 'better than a thousand months' look like in your worship?"],
+    "pointsBn": ["একটি রাত যদি হাজার মাসকে ছাড়িয়ে যেতে পারে, তবে যেকোনো আন্তরিক মুহূর্তের সম্ভাবনা সম্পর্কে তা কী বলে?","দিন ও বছরের বরকতময় সময়গুলোকে আপনি এখন কীভাবে দেখেন — সুযোগ হিসেবে, নাকি নিছক রুটিন হিসেবে?","'হাজার মাসের চেয়ে উত্তম' একটি রাতের সন্ধান করা আপনার ইবাদতে কেমন রূপ নিতে পারে?"],
+    "lessonEn": "In Allah's measure some moments outweigh lifetimes — seek the blessed times and fill them.",
+    "lessonBn": "আল্লাহর পরিমাপে কিছু মুহূর্ত গোটা জীবনকেও ছাড়িয়ে যায় — বরকতময় সময়গুলো খুঁজে নিয়ে তা পূর্ণ করুন।"
+  },
+  "98:5": {
+    "reflectionEn": "The verse distills religion to its core: people were commanded only to worship Allah with sincere devotion, inclining to truth, to establish prayer, and to give zakah — and that is the upright religion. Beneath all details, the essence is sincerity toward One God expressed in worship and generosity. It invites us to check the root of our deeds: for whom, really, are they done?",
+    "reflectionBn": "আয়াতটি দীনকে তার মর্মে নামিয়ে আনে: মানুষকে কেবল আদেশ করা হয়েছে একনিষ্ঠভাবে খাঁটি মনে আল্লাহর ইবাদত করতে, সালাত প্রতিষ্ঠা করতে ও যাকাত দিতে — আর এটাই সঠিক, সুদৃঢ় দীন। সব খুঁটিনাটির নিচে মূল কথা: এক আল্লাহর প্রতি নিষ্ঠা, যা প্রকাশ পায় ইবাদত ও দানে। এটি আমাদের আমলের শিকড় পরীক্ষা করতে বলে: সত্যিই কার জন্য এসব করা হচ্ছে?",
+    "pointsEn": ["If someone examined your worship, would sincerity to Allah alone be its clearest feature?","How do prayer and giving work together to keep faith both vertical and horizontal?","What mixed motives — habit, reputation, expectation — sometimes creep into your good deeds?"],
+    "pointsBn": ["কেউ যদি আপনার ইবাদত পরীক্ষা করত, একমাত্র আল্লাহর প্রতি নিষ্ঠাই কি তার সবচেয়ে স্পষ্ট বৈশিষ্ট্য হতো?","সালাত ও দান একসাথে কীভাবে ঈমানকে আল্লাহমুখী ও মানুষমুখী — দুই দিকেই জীবন্ত রাখে?","অভ্যাস, সুনাম বা প্রত্যাশার মতো কোন মিশ্র উদ্দেশ্য কখনো কখনো আপনার নেক আমলে ঢুকে পড়ে?"],
+    "lessonEn": "The heart of religion is sincere worship of Allah alone, kept alive through prayer and giving.",
+    "lessonBn": "দীনের মর্মকথা একমাত্র আল্লাহর একনিষ্ঠ ইবাদত, যা সালাত ও দানের মাধ্যমে জীবন্ত থাকে।"
+  },
+  "100:6": {
+    "reflectionEn": "'Indeed mankind, to his Lord, is ungrateful' — a diagnosis of a tendency we all carry. Blessings arrive constantly, yet the heart drifts toward noticing what is missing and forgetting what is given. The verse holds up a mirror so that, seeing the tendency named, we can choose to resist it with deliberate thankfulness.",
+    "reflectionBn": "'নিশ্চয় মানুষ তার প্রতিপালকের প্রতি বড়ই অকৃতজ্ঞ' — এ যেন আমাদের সবার ভিতরে বয়ে চলা এক প্রবণতার নির্ণয়। নিয়ামত আসে অবিরাম, তবু অন্তর ঝুঁকে পড়ে যা নেই তার দিকে, ভুলে যায় যা দেওয়া হয়েছে। আয়াতটি আয়না তুলে ধরে — প্রবণতাটির নাম জেনে আমরা যেন সচেতন কৃতজ্ঞতা দিয়ে তাকে প্রতিরোধ করতে পারি।",
+    "pointsEn": ["Which blessing did you enjoy today without a single moment of thanks?","Why is it easier to count what we lack than what we have — and how can you reverse that?","What daily practice could turn gratitude from an occasional feeling into a habit?"],
+    "pointsBn": ["আজ কোন নিয়ামত ভোগ করেছেন অথচ একটিবারও শুকরিয়া আদায় করেননি?","যা নেই তা গোনা কেন যা আছে তা গোনার চেয়ে সহজ — এই প্রবণতা কীভাবে উল্টে দিতে পারেন?","কোন দৈনন্দিন অভ্যাস কৃতজ্ঞতাকে মাঝেমধ্যের অনুভূতি থেকে স্থায়ী স্বভাবে পরিণত করতে পারে?"],
+    "lessonEn": "Ingratitude is the heart's default drift — counter it every day with deliberate thanks.",
+    "lessonBn": "অকৃতজ্ঞতা অন্তরের সহজাত ঝোঁক — প্রতিদিন সচেতন শুকরিয়া দিয়ে তার মোকাবিলা করুন।"
+  },
+  "104:1": {
+    "reflectionEn": "The surah opens with a warning of woe for every scorner and mocker — those who wound others with taunts to their face and slander behind their backs. The Qur'an treats belittling people as a grave matter, not casual humor. The verse asks us to audit our tongues: what we say about others, both in their presence and their absence.",
+    "reflectionBn": "সূরাটি শুরু হয় প্রতিটি নিন্দাকারী ও পরচর্চাকারীর জন্য দুর্ভোগের সতর্কবাণী দিয়ে — যারা সামনাসামনি খোঁটা দিয়ে আর আড়ালে দুর্নাম করে মানুষকে আঘাত করে। কুরআন মানুষকে হেয় করাকে গুরুতর বিষয় হিসেবে দেখে, হালকা রসিকতা হিসেবে নয়। আয়াতটি আমাদের জিহ্বার হিসাব নিতে বলে: অন্যদের সম্পর্কে আমরা কী বলি — তাদের সামনে এবং অনুপস্থিতিতে।",
+    "pointsEn": ["When did a joke at someone's expense last leave your lips — and how did it land?","What do you say about people in their absence that you would not say to their face?","How can you make your tongue a source of dignity for others rather than injury?"],
+    "pointsBn": ["শেষ কবে কারো খরচে একটি রসিকতা আপনার মুখ থেকে বেরিয়েছিল — সেটি তার কাছে কেমন লেগেছিল?","মানুষের অনুপস্থিতিতে তাদের সম্পর্কে এমন কী বলেন যা সামনে বলতেন না?","কীভাবে আপনার জিহ্বাকে অন্যের জন্য আঘাতের নয়, মর্যাদার উৎস বানাতে পারেন?"],
+    "lessonEn": "Mocking to the face and slandering behind the back both invite ruin — guard your tongue in presence and absence alike.",
+    "lessonBn": "সামনে বিদ্রূপ আর আড়ালে দুর্নাম — দুটোই ধ্বংস ডেকে আনে; উপস্থিতি-অনুপস্থিতি উভয় ক্ষেত্রেই জিহ্বা সংযত রাখুন।"
+  },
+  "107:1": {
+    "reflectionEn": "'Have you seen the one who denies the Recompense?' — the question invites us to observe what denial of accountability looks like in real behavior. The surah goes on to connect that denial to neglecting the vulnerable, showing that belief in the Recompense is not abstract: it shapes how we treat an orphan, a hungry person, a small kindness. The verse makes conduct the visible test of what a heart truly believes about the Day of Judgment.",
+    "reflectionBn": "'তুমি কি তাকে দেখেছ, যে কর্মফল দিবসকে অস্বীকার করে?' — প্রশ্নটি আমাদের লক্ষ করতে বলে, জবাবদিহিতা অস্বীকারের চেহারা বাস্তব আচরণে কেমন হয়। সূরাটি সেই অস্বীকৃতিকে যুক্ত করে অসহায়দের অবহেলার সাথে — দেখিয়ে দেয় যে কর্মফলে বিশ্বাস কোনো বিমূর্ত বিষয় নয়: তা নির্ধারণ করে এতিম, ক্ষুধার্ত ও ছোট ছোট সাহায্যের প্রতি আমাদের আচরণ। আয়াতটি আচরণকেই বানায় অন্তরের প্রকৃত বিশ্বাসের দৃশ্যমান পরীক্ষা।",
+    "pointsEn": ["If belief in the Recompense shows in conduct, what does your treatment of the weak say about yours?","Which small act of care have you been postponing that this verse calls urgent?","How would your dealings change if you priced every action by its value on the Day of Recompense?"],
+    "pointsBn": ["কর্মফলে বিশ্বাস যদি আচরণে প্রকাশ পায়, তবে দুর্বলের প্রতি আপনার আচরণ আপনার বিশ্বাস সম্পর্কে কী বলে?","কোন ছোট সাহায্যের কাজটি ফেলে রাখছেন, যাকে এই আয়াত জরুরি বলে ঘোষণা করে?","প্রতিটি কাজের মূল্য যদি কর্মফল দিবসের মানদণ্ডে হিসাব করতেন, তবে আপনার লেনদেন কেমন বদলে যেত?"],
+    "lessonEn": "Belief in the Day of Recompense is proven not by words but by how you treat those who can give you nothing back.",
+    "lessonBn": "কর্মফল দিবসে বিশ্বাসের প্রমাণ কথায় নয় — যারা প্রতিদানে কিছুই দিতে পারে না, তাদের প্রতি আচরণেই তা প্রমাণিত হয়।"
+  },
+  "110:3": {
+    "reflectionEn": "At the moment of victory and completion, the command is to glorify Allah with praise and seek His forgiveness — for He is ever accepting of repentance. Success is met not with self-congratulation but with humility, thanks, and istighfar. The verse teaches a profound etiquette: the higher Allah raises you, the lower you bow.",
+    "reflectionBn": "বিজয় ও পূর্ণতার মুহূর্তে নির্দেশ এসেছে — প্রতিপালকের প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করো এবং তাঁর কাছে ক্ষমা চাও; নিশ্চয় তিনি বড়ই তওবা কবুলকারী। সাফল্যের জবাব আত্মপ্রশংসা নয়, বরং বিনয়, শুকরিয়া ও ইস্তিগফার। আয়াতটি এক গভীর শিষ্টাচার শেখায়: আল্লাহ আপনাকে যত উপরে তোলেন, আপনি তত বিনম্র হয়ে ঝুঁকে পড়ুন।",
+    "pointsEn": ["How do you usually respond to success — with self-praise or with praise of Allah?","Why might seeking forgiveness be fitting precisely at moments of achievement?","The verse ends with hope: He is ever accepting of repentance. What is stopping yours today?"],
+    "pointsBn": ["সাফল্যের মুহূর্তে সাধারণত কীভাবে সাড়া দেন — আত্মপ্রশংসায়, নাকি আল্লাহর প্রশংসায়?","ঠিক অর্জনের মুহূর্তেই ক্ষমা প্রার্থনা কেন এত মানানসই হতে পারে?","আয়াত শেষ হয় আশা দিয়ে: তিনি বড়ই তওবা কবুলকারী। আজ আপনার তওবাকে কী আটকে রাখছে?"],
+    "lessonEn": "Meet every success with praise of Allah and seeking His forgiveness, for He always accepts those who return.",
+    "lessonBn": "প্রতিটি সাফল্যকে বরণ করুন আল্লাহর প্রশংসা ও ক্ষমা প্রার্থনা দিয়ে, কারণ প্রত্যাবর্তনকারীদের তিনি সর্বদা কবুল করেন।"
   }
 };
 
