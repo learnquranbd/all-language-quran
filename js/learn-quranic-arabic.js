@@ -394,12 +394,28 @@ class QuranicArabicView {
     return a;
   }
 
+  /** Return a copy of a question with its options shuffled and `answer`
+   * remapped to the correct option's new index. */
+  shuffleOptions(q) {
+    if (!q || !Array.isArray(q.options) || typeof q.answer !== 'number') return q;
+    const correct = q.options[q.answer];
+    const opts = this.shuffle(q.options.slice());
+    const idx = opts.indexOf(correct);
+    if (idx < 0) return q;             // shouldn't happen — keep the original
+    q.options = opts;
+    q.answer = idx;
+    return q;
+  }
+
   startQuiz(scope) {
     try {
       let qs;
       if (scope === 'irab') {
         // Iʿrāb practice: standalone question bank (no lesson tagging).
-        qs = this.shuffle((typeof QA_IRAB !== 'undefined' && Array.isArray(QA_IRAB) ? QA_IRAB : []).map(q => Object.assign({}, q)));
+        // Options are shuffled per question — otherwise the answer's position
+        // in the data becomes a giveaway.
+        qs = this.shuffle((typeof QA_IRAB !== 'undefined' && Array.isArray(QA_IRAB) ? QA_IRAB : [])
+          .map(q => this.shuffleOptions(Object.assign({}, q))));
       } else {
         let pool;
         if (scope === 'final') pool = this.lessons();

@@ -2351,7 +2351,7 @@ const QA_IRAB = [
     options: [{ en: 'ḥarf (negation of genus, naṣb)', bn: 'হারফ (جنس کی نفی، نصب)' }, { en: 'fāʿil (doer)', bn: 'فاعل (کर्तا)' }, { en: 'mubtadaʾ (subject)', bn: 'مبتدا (উদ্দেশ্য)' }, { en: 'ḥāl (state)', bn: 'حال (অবস্থা)' }], answer: 0,
     explain: { en: 'لَّآ is the negation of genus (lā al-nāfiya li-l-jins), which puts إِلَٰهَ into naṣb: "there is no god".', bn: 'لَّآ جنس کی نفی کا حرف (لا النافیۃ للجنس)، جو إِلَٰهَ کو نصب میں ڈالتا ہے: "کوئی معبود نہیں"' } },
   { ref: '2:285', q: QA_IRAB_Q,
-    words: [ { ar: 'ءَامَنَ' }, { ar: 'ٱلرَّسُولُ' }, { ar: 'بِمَآ' }, { ar: 'أُنزِلَ' }, { ar: 'إِلَيْهِ' }, { ar: 'مِن رَّبِّهِۦ' } ],
+    words: [ { ar: 'ءَامَنَ' }, { ar: 'ٱلرَّسُولُ', hl: true }, { ar: 'بِمَآ' }, { ar: 'أُنزِلَ' }, { ar: 'إِلَيْهِ' }, { ar: 'مِن رَّبِّهِۦ' } ],
     options: [{ en: 'fāʿil (doer of a past verb)', bn: 'فاعل (ماضی کا کرتا)' }, { en: 'mafʿūl bihi (object)', bn: 'مفعول به (مفعول)' }, { en: 'khabar (predicate)', bn: 'خبر (بيدھا)' }, { en: 'muḍāf ilayh', bn: 'مضاف اليه' }], answer: 0,
     explain: { en: 'ٱلرَّسُولُ ends in ‑u (rafʿ) and is the doer (fāʿil) of the past verb ءَامَنَ.', bn: 'ٱلرَّسُولُ ‑u (rafʿ) پر ختم ہے اور فعل ماضی ءَامَنَ کا فاعل ہے۔' } },
   { ref: '36:82', q: QA_IRAB_Q,
@@ -2371,7 +2371,7 @@ const QA_IRAB = [
     options: [{ en: 'ḥāl (state/manner)', bn: 'حال (حالت/انداز)' }, { en: 'mafʿūl bihi (object)', bn: 'مفعول به (مفعول)' }, { en: 'tamyīz (specification)', bn: 'تمييز (تعيين)' }, { en: 'khabar (predicate)', bn: 'خبر (بيدھا)' }], answer: 0,
     explain: { en: 'حَنِيفًا (naṣb) describes the STATE of the doer as he turns his face — the circumstantial ḥāl.', bn: 'حَنِيفًا (نصب) فاعل کی حالت کو بیان کرتا ہے جب وہ اپنا چہرہ موڑتا ہے — حالِ ظرفی۔' } },
   { ref: '1:4', q: QA_IRAB_Q,
-    words: [ { ar: 'مَٰلِكِ' }, { ar: 'يَوْمِ' }, { ar: 'ٱلدِّينِ' } ],
+    words: [ { ar: 'مَٰلِكِ', hl: true }, { ar: 'يَوْمِ' }, { ar: 'ٱلدِّينِ' } ],
     options: [{ en: 'ṣifa (adjective)', bn: 'صفت' }, { en: 'badal (substitute)', bn: 'بدل' }, { en: 'tamyīz (specification)', bn: 'تمييز (تعيين)' }, { en: 'naʿt (adjective)', bn: 'نعت' }], answer: 0,
     explain: { en: 'There are two ways to analyse مَٰلِكِ: (1) as a noun in the iḍāfah chain (muḍāf), or (2) as a ṣifa/naʿt (adjective) of رَبِّ — matching it in definiteness, number and case (jarr).', bn: 'مَٰلِكِ کے دو تجزیے ہیں: (1) اضافہ زنجیر میں اسم (مضاف)، یا (2) رَبِّ کی صفت/نعت — جنس، تعداد اور حالت (جر) میں مطابقت۔' } },
   { ref: '9:40', q: QA_IRAB_Q,
@@ -2426,6 +2426,247 @@ const QA_IRAB = [
     words: [ { ar: 'وَٱسْتَعِينُوا۟', hl: true }, { ar: 'بِٱلصَّبْرِ' }, { ar: 'وَٱلصَّلَوٰةِ' } ],
     options: [{ en: 'command verb (amr), Form X', bn: 'আদেশ ক্রিয়া (আমর), রূপ X' }, { en: 'past verb (māḍī)', bn: 'অতীত ক্রিয়া (মাযি)' }, { en: 'present verb (muḍāriʿ)', bn: 'বর্তমান ক্রিয়া (মুযারি)' }, { en: 'passive verb', bn: 'কর্মবাচ্য ক্রিয়া' }], answer: 0,
     explain: { en: 'وَٱسْتَعِينُوا۟ is a Form X command — "Seek help (through patience and prayer)." The بِـ introduces the means (harf jarr).', bn: 'وَٱسْتَعِينُوا۟ রূপ X এর আদেশ ক্রিয়া — "সাহায্য চাও (ধৈর্য ও নামাজের মাধ্যমে)।" পরের بِـ উপকরণ বোঝাতে হারফ জর।' } },
+  // v164 additions — 24 morphology-verified iʿrāb exercises (2026-07-28)
+  { ref: "2:2", q: QA_IRAB_Q,
+    words: [{ ar: "ذَٰلِكَ" }, { ar: "ٱلْكِتَٰبُ" }, { ar: "لَا" }, { ar: "رَيْبَ", hl: true }, { ar: "فِيهِ" }],
+    options: [
+      { en: "mubtadaʾ (subject, marfūʿ)", bn: "মুবতাদা (উদ্দেশ্য, রফ‘)" },
+      { en: "muḍāf ilayh (possessor, majrūr)", bn: "মুদাফ ইলাইহি (সম্বন্ধপদ, জর)" },
+      { en: "ism of لَا that negates the whole genus (manṣūb)", bn: "জাতিবাচক নফির لَا-এর ইসম (নসব)" },
+      { en: "mafʿūl bihi of a verb (manṣūb)", bn: "ক্রিয়ার মাফ‘ূল বিহি (কর্ম, নসব)" }
+    ],
+    answer: 2,
+    explain: { en: "The لَا here negates the whole genus, and the noun straight after it takes the fatḥa: رَيْبَ is its ism in naṣb — \"there is no doubt in it\".", bn: "এখানে لَا জাতিবাচক নফির হরফ, আর তার ঠিক পরের বিশেষ্যটি ফাতহা নেয়: رَيْبَ তার ইসম, নসব অবস্থায় — \"এতে কোনো সন্দেহ নেই\"।" } },
+  { ref: "3:26", q: QA_IRAB_Q,
+    words: [{ ar: "قُلِ" }, { ar: "ٱللَّهُمَّ" }, { ar: "مَٰلِكَ" }, { ar: "ٱلْمُلْكِ", hl: true }],
+    options: [
+      { en: "muḍāf ilayh (second part of an iḍāfah, majrūr)", bn: "মুদাফ ইলাইহি (ইদাফার দ্বিতীয় অংশ, জর)" },
+      { en: "mafʿūl bihi (object, manṣūb)", bn: "মাফ‘ূল বিহি (কর্ম, নসব)" },
+      { en: "fāʿil (doer, marfūʿ)", bn: "ফা‘িল (কর্তা, রফ‘)" },
+      { en: "ṣifa (adjective of مَٰلِكَ)", bn: "সিফা (مَٰلِكَ-এর বিশেষণ)" }
+    ],
+    answer: 0,
+    explain: { en: "مَٰلِكَ ٱلْمُلْكِ is an iḍāfah: مَٰلِكَ is the muḍāf and ٱلْمُلْكِ, carrying the kasra (jarr), is the muḍāf ilayh.", bn: "مَٰلِكَ ٱلْمُلْكِ একটি ইদাফা: مَٰلِكَ মুদাফ আর কাসরা (জর) নিয়ে আসা ٱلْمُلْكِ হলো মুদাফ ইলাইহি।" } },
+  { ref: "4:1", q: QA_IRAB_Q,
+    words: [{ ar: "يَٰٓأَيُّهَا" }, { ar: "ٱلنَّاسُ" }, { ar: "ٱتَّقُوا۟" }, { ar: "رَبَّكُمُ", hl: true }],
+    options: [
+      { en: "fāʿil (doer, marfūʿ)", bn: "ফা‘িল (কর্তা, রফ‘)" },
+      { en: "munādā (the one called)", bn: "মুনাদা (আহ্বানকৃত)" },
+      { en: "muḍāf ilayh (majrūr)", bn: "মুদাফ ইলাইহি (জর)" },
+      { en: "mafʿūl bihi (object of the command, manṣūb)", bn: "মাফ‘ূল বিহি (আদেশ ক্রিয়ার কর্ম, নসব)" }
+    ],
+    answer: 3,
+    explain: { en: "ٱتَّقُوا۟ is a command whose doer is the وا۟ inside the verb; رَبَّكُمُ ends in fatḥa (naṣb) as the object of that command.", bn: "ٱتَّقُوا۟ আদেশ ক্রিয়া, তার কর্তা ক্রিয়ার ভেতরের وا۟; رَبَّكُمُ ফাতহা (নসব) নিয়ে সেই আদেশের কর্ম হিসেবে এসেছে।" } },
+  { ref: "6:1", q: QA_IRAB_Q,
+    words: [{ ar: "ٱلَّذِى" }, { ar: "خَلَقَ" }, { ar: "ٱلسَّمَٰوَٰتِ", hl: true }, { ar: "وَٱلْأَرْضَ" }],
+    options: [
+      { en: "fāʿil (doer, marfūʿ)", bn: "ফা‘িল (কর্তা, রফ‘)" },
+      { en: "mafʿūl bihi (object, manṣūb) — sound feminine plural", bn: "মাফ‘ূল বিহি (কর্ম, নসব) — সালিম স্ত্রীবাচক বহুবচন" },
+      { en: "muḍāf ilayh (majrūr)", bn: "মুদাফ ইলাইহি (জর)" },
+      { en: "ḥāl (state, manṣūb)", bn: "হাল (অবস্থা, নসব)" }
+    ],
+    answer: 1,
+    explain: { en: "خَلَقَ is a transitive past verb and ٱلسَّمَٰوَٰتِ is what was created — its mafʿūl bihi. Being a sound feminine plural, its naṣb is shown by ‑ti, not by fatḥa.", bn: "خَلَقَ সকর্মক অতীত ক্রিয়া, আর যা সৃষ্টি করা হয়েছে সেই ٱلسَّمَٰوَٰتِ তার মাফ‘ূল বিহি। সালিম স্ত্রীবাচক বহুবচন হওয়ায় এর নসব ‑ti দিয়ে বোঝানো হয়, ফাতহা দিয়ে নয়।" } },
+  { ref: "8:2", q: QA_IRAB_Q,
+    words: [{ ar: "وَإِذَا" }, { ar: "تُلِيَتْ" }, { ar: "عَلَيْهِمْ" }, { ar: "ءَايَٰتُهُۥ", hl: true }, { ar: "زَادَتْهُمْ" }, { ar: "إِيمَٰنًا" }],
+    options: [
+      { en: "fāʿil of an active verb (marfūʿ)", bn: "কর্তৃবাচ্য ক্রিয়ার ফা‘িল (রফ‘)" },
+      { en: "mafʿūl bihi (object, manṣūb)", bn: "মাফ‘ূল বিহি (কর্ম, নসব)" },
+      { en: "nāʾib fāʿil (proxy subject of a passive verb, marfūʿ)", bn: "নায়িব ফা‘িল (কর্মবাচ্য ক্রিয়ার স্থলাভিষিক্ত কর্তা, রফ‘)" },
+      { en: "mubtadaʾ (subject of a nominal sentence)", bn: "মুবতাদা (নাম-বাক্যের উদ্দেশ্য)" }
+    ],
+    answer: 2,
+    explain: { en: "تُلِيَتْ is a passive verb (\"are recited\"), so it has no named doer; the ‑u ending on ءَايَٰتُ shows it is the nāʾib fāʿil standing in for it.", bn: "تُلِيَتْ কর্মবাচ্য ক্রিয়া (\"তিলাওয়াত করা হয়\"), তাই এর কর্তা উল্লেখ নেই; ءَايَٰتُ-এর শেষে ‑u প্রমাণ করে এটি সেই কর্তার স্থলাভিষিক্ত নায়িব ফা‘িল।" } },
+  { ref: "12:2", q: QA_IRAB_Q,
+    words: [{ ar: "إِنَّآ" }, { ar: "أَنزَلْنَٰهُ" }, { ar: "قُرْءَٰنًا" }, { ar: "عَرَبِيًّا", hl: true }],
+    options: [
+      { en: "ṣifa (adjective of قُرْءَٰنًا, manṣūb)", bn: "সিফা (قُرْءَٰنًا-এর বিশেষণ, নসব)" },
+      { en: "ḥāl (state, manṣūb)", bn: "হাল (অবস্থা, নসব)" },
+      { en: "mafʿūl bihi (object, manṣūb)", bn: "মাফ‘ূল বিহি (কর্ম, নসব)" },
+      { en: "tamyīz (specification, manṣūb)", bn: "তাময়ীয (নির্দিষ্টকরণ, নসব)" }
+    ],
+    answer: 0,
+    explain: { en: "عَرَبِيًّا follows قُرْءَٰنًا and matches it in case (naṣb), gender and indefiniteness — the mark of a ṣifa (adjective), not a separate noun.", bn: "عَرَبِيًّا শব্দটি قُرْءَٰنًا-এর পরে এসে এ‘রাব (নসব), লিঙ্গ ও অনির্দিষ্টতায় তার সঙ্গে মিলে যায় — এটিই সিফা (বিশেষণ) হওয়ার প্রমাণ, আলাদা বিশেষ্য নয়।" } },
+  { ref: "13:28", q: QA_IRAB_Q,
+    words: [{ ar: "أَلَا" }, { ar: "بِذِكْرِ", hl: true }, { ar: "ٱللَّهِ" }, { ar: "تَطْمَئِنُّ" }, { ar: "ٱلْقُلُوبُ" }],
+    options: [
+      { en: "mubtadaʾ (subject, marfūʿ)", bn: "মুবতাদা (উদ্দেশ্য, রফ‘)" },
+      { en: "mafʿūl bihi (object, manṣūb)", bn: "মাফ‘ূল বিহি (কর্ম, নসব)" },
+      { en: "fāʿil (doer, marfūʿ)", bn: "ফা‘িল (কর্তা, রফ‘)" },
+      { en: "jārr wa majrūr (preposition + genitive noun)", bn: "জার ও মাজরূর (অব্যয় + জর-প্রাপ্ত বিশেষ্য)" }
+    ],
+    answer: 3,
+    explain: { en: "بِ is a harf jarr, so the noun ذِكْرِ after it takes the kasra (jarr); the whole phrase بِذِكْرِ ٱللَّهِ is put before its verb تَطْمَئِنُّ for emphasis.", bn: "بِ একটি হারফ জর, তাই পরের বিশেষ্য ذِكْرِ কাসরা (জর) নেয়; পুরো بِذِكْرِ ٱللَّهِ বাক্যাংশটি জোর দেওয়ার জন্য তার ক্রিয়া تَطْمَئِنُّ-এর আগে বসানো হয়েছে।" } },
+  { ref: "16:90", q: QA_IRAB_Q,
+    words: [{ ar: "إِنَّ" }, { ar: "ٱللَّهَ", hl: true }, { ar: "يَأْمُرُ" }, { ar: "بِٱلْعَدْلِ" }, { ar: "وَٱلْإِحْسَٰنِ" }],
+    options: [
+      { en: "fāʿil of يَأْمُرُ (marfūʿ)", bn: "يَأْمُرُ-এর ফা‘িল (রফ‘)" },
+      { en: "ism inna (subject of إِنَّ, manṣūb)", bn: "ইসমু ইন্না (إِنَّ-এর উদ্দেশ্য, নসব)" },
+      { en: "mafʿūl bihi of يَأْمُرُ (manṣūb)", bn: "يَأْمُرُ-এর মাফ‘ূল বিহি (নসব)" },
+      { en: "mubtadaʾ (subject of a nominal sentence)", bn: "মুবতাদা (নাম-বাক্যের উদ্দেশ্য)" }
+    ],
+    answer: 1,
+    explain: { en: "إِنَّ puts the noun after it into naṣb: ٱللَّهَ ends in fatḥa as the ism of إِنَّ, and the verbal sentence يَأْمُرُ بِٱلْعَدْلِ is its khabar.", bn: "إِنَّ তার পরের বিশেষ্যকে নসব দেয়: ٱللَّهَ ফাতহা নিয়ে إِنَّ-এর ইসম, আর يَأْمُرُ بِٱلْعَدْلِ ক্রিয়া-বাক্যটি তার খবর।" } },
+  { ref: "17:81", q: QA_IRAB_Q,
+    words: [{ ar: "وَقُلْ" }, { ar: "جَآءَ" }, { ar: "ٱلْحَقُّ", hl: true }, { ar: "وَزَهَقَ" }, { ar: "ٱلْبَٰطِلُ" }],
+    options: [
+      { en: "fāʿil (doer of the past verb, marfūʿ)", bn: "ফা‘িল (অতীত ক্রিয়ার কর্তা, রফ‘)" },
+      { en: "mubtadaʾ (subject of a nominal sentence)", bn: "মুবতাদা (নাম-বাক্যের উদ্দেশ্য)" },
+      { en: "mafʿūl bihi (object, manṣūb)", bn: "মাফ‘ূল বিহি (কর্ম, নসব)" },
+      { en: "khabar (predicate, marfūʿ)", bn: "খবর (বিধেয়, রফ‘)" }
+    ],
+    answer: 0,
+    explain: { en: "The clause begins with the past verb جَآءَ, and ٱلْحَقُّ with its ḍamma (rafʿ) is the one that came — the fāʿil. وَزَهَقَ ٱلْبَٰطِلُ is built the same way.", bn: "বাক্যাংশটি অতীত ক্রিয়া جَآءَ দিয়ে শুরু, আর দম্মা (রফ‘) নিয়ে আসা ٱلْحَقُّ-ই এসেছে — অর্থাৎ ফা‘িল। وَزَهَقَ ٱلْبَٰطِلُ-ও একই গড়নের।" } },
+  { ref: "18:46", q: QA_IRAB_Q,
+    words: [{ ar: "ٱلْمَالُ", hl: true }, { ar: "وَٱلْبَنُونَ" }, { ar: "زِينَةُ" }, { ar: "ٱلْحَيَوٰةِ" }, { ar: "ٱلدُّنْيَا" }],
+    options: [
+      { en: "khabar (predicate, marfūʿ)", bn: "খবর (বিধেয়, রফ‘)" },
+      { en: "fāʿil (doer of a verb, marfūʿ)", bn: "ফা‘িল (ক্রিয়ার কর্তা, রফ‘)" },
+      { en: "mubtadaʾ (subject of a nominal sentence, marfūʿ)", bn: "মুবতাদা (নাম-বাক্যের উদ্দেশ্য, রফ‘)" },
+      { en: "mafʿūl bihi (object, manṣūb)", bn: "মাফ‘ূল বিহি (কর্ম, নসব)" }
+    ],
+    answer: 2,
+    explain: { en: "The verse opens with the noun ٱلْمَالُ in rafʿ and there is no verb before it, so it is the mubtadaʾ; زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا is the khabar.", bn: "আয়াতটি রফ‘ অবস্থায় ٱلْمَالُ বিশেষ্য দিয়ে শুরু এবং এর আগে কোনো ক্রিয়া নেই, তাই এটি মুবতাদা; زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا হলো খবর।" } },
+  { ref: "20:14", q: QA_IRAB_Q,
+    words: [{ ar: "فَٱعْبُدْنِى" }, { ar: "وَأَقِمِ" }, { ar: "ٱلصَّلَوٰةَ", hl: true }, { ar: "لِذِكْرِىٓ" }],
+    options: [
+      { en: "fāʿil (doer, marfūʿ)", bn: "ফা‘িল (কর্তা, রফ‘)" },
+      { en: "muḍāf ilayh (majrūr)", bn: "মুদাফ ইলাইহি (জর)" },
+      { en: "ḥāl (state, manṣūb)", bn: "হাল (অবস্থা, নসব)" },
+      { en: "mafʿūl bihi (object of the command أَقِمِ, manṣūb)", bn: "মাফ‘ূল বিহি (أَقِمِ আদেশের কর্ম, নসব)" }
+    ],
+    answer: 3,
+    explain: { en: "أَقِمِ is a command verb; ٱلصَّلَوٰةَ carries the fatḥa (naṣb) as the thing to be established — its mafʿūl bihi.", bn: "أَقِمِ আদেশ ক্রিয়া; ٱلصَّلَوٰةَ ফাতহা (নসব) নিয়ে যা কায়েম করতে বলা হচ্ছে সেই অর্থে তার মাফ‘ূল বিহি।" } },
+  { ref: "23:1", q: QA_IRAB_Q,
+    words: [{ ar: "قَدْ" }, { ar: "أَفْلَحَ" }, { ar: "ٱلْمُؤْمِنُونَ", hl: true }],
+    options: [
+      { en: "mubtadaʾ (subject of a nominal sentence)", bn: "মুবতাদা (নাম-বাক্যের উদ্দেশ্য)" },
+      { en: "fāʿil (doer, marfūʿ — sound masculine plural in ‑ūna)", bn: "ফা‘িল (কর্তা, রফ‘ — ‑ūna যুক্ত সালিম পুংবাচক বহুবচন)" },
+      { en: "mafʿūl bihi (object, manṣūb in ‑īna)", bn: "মাফ‘ূল বিহি (কর্ম, ‑īna যুক্ত নসব)" },
+      { en: "khabar (predicate, marfūʿ)", bn: "খবর (বিধেয়, রফ‘)" }
+    ],
+    answer: 1,
+    explain: { en: "أَفْلَحَ is a past verb and ٱلْمُؤْمِنُونَ are the ones who succeeded — its fāʿil. As a sound masculine plural its rafʿ is marked by ‑ūna; had it been manṣūb it would read ‑īna.", bn: "أَفْلَحَ অতীত ক্রিয়া, আর যারা সফল হয়েছে সেই ٱلْمُؤْمِنُونَ তার ফা‘িল। সালিম পুংবাচক বহুবচন হওয়ায় এর রফ‘ ‑ūna দিয়ে চিহ্নিত; নসব হলে ‑īna হতো।" } },
+  { ref: "24:35", q: QA_IRAB_Q,
+    words: [{ ar: "ٱللَّهُ" }, { ar: "نُورُ", hl: true }, { ar: "ٱلسَّمَٰوَٰتِ" }, { ar: "وَٱلْأَرْضِ" }],
+    options: [
+      { en: "mubtadaʾ (subject, marfūʿ)", bn: "মুবতাদা (উদ্দেশ্য, রফ‘)" },
+      { en: "fāʿil (doer of a verb, marfūʿ)", bn: "ফা‘িল (ক্রিয়ার কর্তা, রফ‘)" },
+      { en: "khabar (predicate, marfūʿ) and muḍāf", bn: "খবর (বিধেয়, রফ‘) এবং মুদাফ" },
+      { en: "ṣifa (adjective, marfūʿ)", bn: "সিফা (বিশেষণ, রফ‘)" }
+    ],
+    answer: 2,
+    explain: { en: "ٱللَّهُ is the mubtadaʾ; نُورُ in rafʿ carries the information given about Him — the khabar — and it is muḍāf to ٱلسَّمَٰوَٰتِ, which is therefore majrūr.", bn: "ٱللَّهُ মুবতাদা; রফ‘ অবস্থায় نُورُ তাঁর সম্পর্কে প্রদত্ত তথ্য বহন করে — অর্থাৎ খবর — এবং এটি ٱلسَّمَٰوَٰتِ-এর মুদাফ, তাই ٱلسَّمَٰوَٰتِ জর অবস্থায়।" } },
+  { ref: "29:45", q: QA_IRAB_Q,
+    words: [{ ar: "إِنَّ" }, { ar: "ٱلصَّلَوٰةَ" }, { ar: "تَنْهَىٰ", hl: true }, { ar: "عَنِ" }, { ar: "ٱلْفَحْشَآءِ" }, { ar: "وَٱلْمُنكَرِ" }],
+    options: [
+      { en: "present-tense verb (fiʿl muḍāriʿ)", bn: "বর্তমান ক্রিয়া (ফি‘ল মুদারি)" },
+      { en: "past-tense verb (fiʿl māḍī)", bn: "অতীত ক্রিয়া (ফি‘ল মাদি)" },
+      { en: "command verb (fiʿl amr)", bn: "আদেশ ক্রিয়া (ফি‘ল আমর)" },
+      { en: "verbal noun (maṣdar)", bn: "ক্রিয়াবাচক বিশেষ্য (মাসদার)" }
+    ],
+    answer: 0,
+    explain: { en: "تَنْهَىٰ begins with the muḍāriʿ prefix تَـ and agrees with the feminine ٱلصَّلَوٰةَ — a present-tense verb; this verbal sentence is the khabar of إِنَّ.", bn: "تَنْهَىٰ শব্দটি মুদারি‘র উপসর্গ تَـ দিয়ে শুরু এবং স্ত্রীবাচক ٱلصَّلَوٰةَ-এর সঙ্গে মিলে যায় — এটি বর্তমান ক্রিয়া; এই ক্রিয়া-বাক্যটিই إِنَّ-এর খবর।" } },
+  { ref: "31:13", q: QA_IRAB_Q,
+    words: [{ ar: "إِنَّ" }, { ar: "ٱلشِّرْكَ" }, { ar: "لَظُلْمٌ", hl: true }, { ar: "عَظِيمٌ" }],
+    options: [
+      { en: "ism inna (subject of إِنَّ, manṣūb)", bn: "ইসমু ইন্না (إِنَّ-এর উদ্দেশ্য, নসব)" },
+      { en: "khabar inna (predicate of إِنَّ, marfūʿ) with emphatic lām", bn: "খবরু ইন্না (إِنَّ-এর বিধেয়, রফ‘) তাকিদের লাম সহ" },
+      { en: "fāʿil (doer, marfūʿ)", bn: "ফা‘িল (কর্তা, রফ‘)" },
+      { en: "ḥāl (state, manṣūb)", bn: "হাল (অবস্থা, নসব)" }
+    ],
+    answer: 1,
+    explain: { en: "ٱلشِّرْكَ takes fatḥa as the ism of إِنَّ; ظُلْمٌ ends in ‑un (rafʿ) and is its khabar, with the لَـ prefixed for emphasis.", bn: "ٱلشِّرْكَ ফাতহা নিয়ে إِنَّ-এর ইসম; ظُلْمٌ ‑un (রফ‘) নিয়ে তার খবর, আর সামনের لَـ জোর দেওয়ার জন্য যুক্ত হয়েছে।" } },
+  { ref: "33:56", q: QA_IRAB_Q,
+    words: [{ ar: "إِنَّ" }, { ar: "ٱللَّهَ" }, { ar: "وَمَلَٰٓئِكَتَهُۥ", hl: true }, { ar: "يُصَلُّونَ" }, { ar: "عَلَى" }, { ar: "ٱلنَّبِىِّ" }],
+    options: [
+      { en: "fāʿil of يُصَلُّونَ (marfūʿ)", bn: "يُصَلُّونَ-এর ফা‘িল (রফ‘)" },
+      { en: "mubtadaʾ (subject of a nominal sentence)", bn: "মুবতাদা (নাম-বাক্যের উদ্দেশ্য)" },
+      { en: "muḍāf ilayh (majrūr)", bn: "মুদাফ ইলাইহি (জর)" },
+      { en: "maʿṭūf on the ism of إِنَّ (joined by وَ, manṣūb)", bn: "إِنَّ-এর ইসমের উপর মা‘তূফ (وَ দ্বারা যুক্ত, নসব)" }
+    ],
+    answer: 3,
+    explain: { en: "The وَ joins مَلَٰٓئِكَتَهُۥ to ٱللَّهَ, the ism of إِنَّ, so it copies its case and ends in fatḥa (naṣb).", bn: "وَ শব্দটি مَلَٰٓئِكَتَهُۥ-কে إِنَّ-এর ইসম ٱللَّهَ-এর সঙ্গে যুক্ত করে, তাই এটিও একই এ‘রাব নিয়ে ফাতহা (নসব) নেয়।" } },
+  { ref: "39:9", q: QA_IRAB_Q,
+    words: [{ ar: "هُوَ" }, { ar: "قَٰنِتٌ" }, { ar: "ءَانَآءَ" }, { ar: "ٱلَّيْلِ" }, { ar: "سَاجِدًا", hl: true }, { ar: "وَقَآئِمًا" }],
+    options: [
+      { en: "mafʿūl bihi (object, manṣūb)", bn: "মাফ‘ূল বিহি (কর্ম, নসব)" },
+      { en: "khabar (predicate, marfūʿ)", bn: "খবর (বিধেয়, রফ‘)" },
+      { en: "ḥāl (state/manner, manṣūb)", bn: "হাল (অবস্থা/ধরন, নসব)" },
+      { en: "tamyīz (specification, manṣūb)", bn: "তাময়ীয (নির্দিষ্টকরণ, নসব)" }
+    ],
+    answer: 2,
+    explain: { en: "سَاجِدًا is indefinite and manṣūb after the already-known subject هُوَ — it tells us in what state he passes the night: the ḥāl. وَقَآئِمًا is joined to it.", bn: "سَاجِدًا অনির্দিষ্ট ও নসব অবস্থায় পূর্বপরিচিত কর্তা هُوَ-এর পরে এসেছে — এটি জানায় সে কোন অবস্থায় রাত কাটায়: হাল। وَقَآئِمًا এর সঙ্গে যুক্ত।" } },
+  { ref: "40:60", q: QA_IRAB_Q,
+    words: [{ ar: "ٱلَّذِينَ" }, { ar: "يَسْتَكْبِرُونَ" }, { ar: "عَنْ" }, { ar: "عِبَادَتِى" }, { ar: "سَيَدْخُلُونَ" }, { ar: "جَهَنَّمَ" }, { ar: "دَاخِرِينَ", hl: true }],
+    options: [
+      { en: "ḥāl (state, manṣūb — sound masculine plural in ‑īna)", bn: "হাল (অবস্থা, নসব — ‑īna যুক্ত সালিম পুংবাচক বহুবচন)" },
+      { en: "fāʿil (doer, marfūʿ)", bn: "ফা‘িল (কর্তা, রফ‘)" },
+      { en: "mafʿūl bihi (object, manṣūb)", bn: "মাফ‘ূল বিহি (কর্ম, নসব)" },
+      { en: "muḍāf ilayh (majrūr)", bn: "মুদাফ ইলাইহি (জর)" }
+    ],
+    answer: 0,
+    explain: { en: "دَاخِرِينَ is manṣūb (shown by ‑īna, a sound masculine plural) and describes the condition of the doers of سَيَدْخُلُونَ as they enter — the ḥāl.", bn: "دَاخِرِينَ নসব অবস্থায় (সালিম পুংবাচক বহুবচন হওয়ায় ‑īna দিয়ে চিহ্নিত) এবং سَيَدْخُلُونَ-এর কর্তারা প্রবেশের সময় কোন অবস্থায় থাকবে তা বোঝায় — অর্থাৎ হাল।" } },
+  { ref: "42:11", q: QA_IRAB_Q,
+    words: [{ ar: "لَيْسَ" }, { ar: "كَمِثْلِهِۦ" }, { ar: "شَىْءٌ", hl: true }, { ar: "وَهُوَ" }, { ar: "ٱلسَّمِيعُ" }, { ar: "ٱلْبَصِيرُ" }],
+    options: [
+      { en: "khabar of لَيْسَ (predicate, manṣūb)", bn: "لَيْسَ-এর খবর (বিধেয়, নসব)" },
+      { en: "ism of لَيْسَ (subject, marfūʿ)", bn: "لَيْسَ-এর ইসম (উদ্দেশ্য, রফ‘)" },
+      { en: "fāʿil of a past verb (marfūʿ)", bn: "অতীত ক্রিয়ার ফা‘িল (রফ‘)" },
+      { en: "mafʿūl bihi (object, manṣūb)", bn: "মাফ‘ূল বিহি (কর্ম, নসব)" }
+    ],
+    answer: 1,
+    explain: { en: "لَيْسَ is a sister of كَانَ: its ism takes rafʿ and its khabar takes naṣb. شَىْءٌ ends in ‑un, so it is the ism, and the jārr wa majrūr كَمِثْلِهِۦ stands in the place of the khabar.", bn: "لَيْسَ হলো كَانَ-এর বোন: এর ইসম রফ‘ নেয় ও খবর নসব নেয়। شَىْءٌ ‑un-এ শেষ, তাই এটি ইসম, আর জার-মাজরূর كَمِثْلِهِۦ খবরের স্থান পূরণ করছে।" } },
+  { ref: "49:13", q: QA_IRAB_Q,
+    words: [{ ar: "خَلَقْنَٰكُم" }, { ar: "مِّن" }, { ar: "ذَكَرٍ", hl: true }, { ar: "وَأُنثَىٰ" }],
+    options: [
+      { en: "mafʿūl bihi (object, manṣūb)", bn: "মাফ‘ূল বিহি (কর্ম, নসব)" },
+      { en: "fāʿil (doer, marfūʿ)", bn: "ফা‘িল (কর্তা, রফ‘)" },
+      { en: "ḥāl (state, manṣūb)", bn: "হাল (অবস্থা, নসব)" },
+      { en: "majrūr — genitive after the preposition مِن", bn: "মাজরূর — مِن অব্যয়ের পরে জর অবস্থায়" }
+    ],
+    answer: 3,
+    explain: { en: "مِّن is a harf jarr, so the noun after it must take the kasra: ذَكَرٍ is majrūr, and وَأُنثَىٰ is joined to it.", bn: "مِّن একটি হারফ জর, তাই এর পরের বিশেষ্যকে কাসরা নিতে হয়: ذَكَرٍ মাজরূর, আর وَأُنثَىٰ তার সঙ্গে যুক্ত।" } },
+  { ref: "51:56", q: QA_IRAB_Q,
+    words: [{ ar: "وَمَا" }, { ar: "خَلَقْتُ", hl: true }, { ar: "ٱلْجِنَّ" }, { ar: "وَٱلْإِنسَ" }, { ar: "إِلَّا" }, { ar: "لِيَعْبُدُونِ" }],
+    options: [
+      { en: "present-tense verb (fiʿl muḍāriʿ)", bn: "বর্তমান ক্রিয়া (ফি‘ল মুদারি)" },
+      { en: "past-tense verb (fiʿl māḍī) with the attached doer تُ", bn: "অতীত ক্রিয়া (ফি‘ল মাদি) যুক্ত কর্তা تُ সহ" },
+      { en: "command verb (fiʿl amr)", bn: "আদেশ ক্রিয়া (ফি‘ল আমর)" },
+      { en: "passive verb (majhūl)", bn: "কর্মবাচ্য ক্রিয়া (মাজহুল)" }
+    ],
+    answer: 1,
+    explain: { en: "خَلَقْ + تُ is a past-tense verb carrying the attached pronoun تُ (\"I\") as its doer; the مَا before it negates it and ٱلْجِنَّ وَٱلْإِنسَ are its objects in naṣb.", bn: "خَلَقْ + تُ অতীত ক্রিয়া, যার সঙ্গে যুক্ত সর্বনাম تُ (\"আমি\") তার কর্তা; আগের مَا একে নেতিবাচক করে, আর ٱلْجِنَّ وَٱلْإِنسَ নসব অবস্থায় এর কর্ম।" } },
+  { ref: "68:4", q: QA_IRAB_Q,
+    words: [{ ar: "وَإِنَّكَ" }, { ar: "لَعَلَىٰ" }, { ar: "خُلُقٍ" }, { ar: "عَظِيمٍ", hl: true }],
+    options: [
+      { en: "ṣifa (adjective of خُلُقٍ, majrūr)", bn: "সিফা (خُلُقٍ-এর বিশেষণ, জর)" },
+      { en: "khabar inna (predicate of إِنَّ, marfūʿ)", bn: "খবরু ইন্না (إِنَّ-এর বিধেয়, রফ‘)" },
+      { en: "ḥāl (state, manṣūb)", bn: "হাল (অবস্থা, নসব)" },
+      { en: "muḍāf ilayh (majrūr)", bn: "মুদাফ ইলাইহি (জর)" }
+    ],
+    answer: 0,
+    explain: { en: "عَظِيمٍ matches خُلُقٍ in case (jarr, ‑in), gender and indefiniteness, so it is its ṣifa; the jarr comes from the preposition عَلَىٰ governing خُلُقٍ.", bn: "عَظِيمٍ শব্দটি خُلُقٍ-এর সঙ্গে এ‘রাব (জর, ‑in), লিঙ্গ ও অনির্দিষ্টতায় মিলে যায়, তাই এটি তার সিফা; জর এসেছে عَلَىٰ অব্যয় থেকে যা خُلُقٍ-কে জর দিয়েছে।" } },
+  { ref: "99:1", q: QA_IRAB_Q,
+    words: [{ ar: "إِذَا" }, { ar: "زُلْزِلَتِ" }, { ar: "ٱلْأَرْضُ" }, { ar: "زِلْزَالَهَا", hl: true }],
+    options: [
+      { en: "fāʿil (doer, marfūʿ)", bn: "ফা‘িল (কর্তা, রফ‘)" },
+      { en: "ḥāl (state, manṣūb)", bn: "হাল (অবস্থা, নসব)" },
+      { en: "mafʿūl muṭlaq (absolute object from the verb’s own root, manṣūb)", bn: "মাফ‘ূল মুতলাক (ক্রিয়ার নিজস্ব ধাতু থেকে গঠিত, নসব)" },
+      { en: "muḍāf ilayh (majrūr)", bn: "মুদাফ ইলাইহি (জর)" }
+    ],
+    answer: 2,
+    explain: { en: "زِلْزَالَ comes from the same root as the verb زُلْزِلَتِ and is manṣūb — a mafʿūl muṭlaq that stresses the quaking; ٱلْأَرْضُ (rafʿ) is the nāʾib fāʿil of the passive verb.", bn: "زِلْزَالَ শব্দটি زُلْزِلَتِ ক্রিয়ার একই ধাতু থেকে এসেছে এবং নসব অবস্থায় — এটি মাফ‘ূল মুতলাক, যা কম্পনের ওপর জোর দেয়; ٱلْأَرْضُ (রফ‘) কর্মবাচ্য ক্রিয়াটির নায়িব ফা‘িল।" } },
+  { ref: "111:1", q: QA_IRAB_Q,
+    words: [{ ar: "تَبَّتْ" }, { ar: "يَدَآ", hl: true }, { ar: "أَبِى" }, { ar: "لَهَبٍ" }, { ar: "وَتَبَّ" }],
+    options: [
+      { en: "mubtadaʾ (subject of a nominal sentence)", bn: "মুবতাদা (নাম-বাক্যের উদ্দেশ্য)" },
+      { en: "mafʿūl bihi (object, manṣūb — dual in ‑ay)", bn: "মাফ‘ূল বিহি (কর্ম, নসব — ‑ay যুক্ত দ্বিবচন)" },
+      { en: "muḍāf ilayh (majrūr)", bn: "মুদাফ ইলাইহি (জর)" },
+      { en: "fāʿil (doer, marfūʿ — dual marked by the alif)", bn: "ফা‘িল (কর্তা, রফ‘ — আলিফ দ্বারা চিহ্নিত দ্বিবচন)" }
+    ],
+    answer: 3,
+    explain: { en: "تَبَّتْ is a past verb and يَدَآ is what perished — its fāʿil. Being dual, its rafʿ is shown by the alif (‑ā), and it is muḍāf to أَبِى لَهَبٍ, which is why it loses its nūn.", bn: "تَبَّتْ অতীত ক্রিয়া, আর যা ধ্বংস হয়েছে সেই يَدَآ তার ফা‘িল। দ্বিবচন হওয়ায় এর রফ‘ আলিফ (‑ā) দিয়ে বোঝানো হয়, এবং এটি أَبِى لَهَبٍ-এর মুদাফ বলেই এর নূন লোপ পেয়েছে।" } }
 ];
 
 /* ------------------------------------------------------------------ *

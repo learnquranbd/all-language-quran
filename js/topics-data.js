@@ -293,6 +293,231 @@ const RABBANA_DUAS = [
       tr: 'Sana tevekkül ettik; bizi inkârcılara fitne kılma (İbrahim’in duası)',
       fr: 'C’est à Toi que nous nous confions; ne fais pas de nous une épreuve (invocation d’Ibrahim)'
     , zh: '我们只信托你；求你不要使我们成为不信道者的考验（易卜拉欣的祈祷）', ja: 'あなたに委ねます、私たちを不信者への試練とされないでください（イブラーヒームの祈り）'}
+  },
+  // v164 additions — 16 more Quranic rabbanā supplications (2026-07-28)
+  {
+    "refs": "2:129",
+    "names": {
+      "en": "A messenger raised from among them",
+      "bn": "তাদের মধ্য থেকে একজন রাসূল প্রেরণ",
+      "ar": "بعث رسول منهم",
+      "ur": "انہی میں سے ایک رسول کی بعثت",
+      "id": "Diutusnya seorang rasul dari kalangan mereka",
+      "tr": "İçlerinden bir peygamber gönderilmesi",
+      "fr": "Un messager issu d'eux-mêmes",
+      "zh": "从他们中间派遣一位使者",
+      "ja": "彼らの中から使徒が遣わされること"
+    }
+  },
+  {
+    "refs": "2:285",
+    "names": {
+      "en": "We seek Your forgiveness, our Lord",
+      "bn": "হে আমাদের রব, আপনার ক্ষমা প্রার্থনা",
+      "ar": "غفرانك ربنا",
+      "ur": "اے ہمارے رب، تیری بخشش کی طلب",
+      "id": "Ampunan-Mu, ya Tuhan kami",
+      "tr": "Bağışlamanı dileriz Rabbimiz",
+      "fr": "Nous implorons Ton pardon, notre Seigneur",
+      "zh": "我们的主啊，求你饶恕",
+      "ja": "主よ、あなたの赦しを乞います"
+    }
+  },
+  {
+    "refs": "4:75",
+    "names": {
+      "en": "A protector and a helper for the oppressed",
+      "bn": "নিপীড়িতদের জন্য অভিভাবক ও সাহায্যকারী",
+      "ar": "ولي ونصير للمستضعفين",
+      "ur": "مظلوموں کے لیے کارساز اور مددگار",
+      "id": "Pelindung dan penolong bagi kaum tertindas",
+      "tr": "Mazlumlar için bir dost ve yardımcı",
+      "fr": "Un protecteur et un secoureur pour les opprimés",
+      "zh": "为受压迫者求保护者与援助者",
+      "ja": "虐げられた者への保護者と援助者"
+    }
+  },
+  {
+    "refs": "7:151",
+    "names": {
+      "en": "Forgiveness for me and my brother, and Your mercy",
+      "bn": "আমাকে ও আমার ভাইকে ক্ষমা এবং আপনার রহমত",
+      "ar": "المغفرة لي ولأخي وإدخالنا في رحمتك",
+      "ur": "مجھے اور میرے بھائی کو معافی اور اپنی رحمت",
+      "id": "Ampunan bagiku dan saudaraku serta rahmat-Mu",
+      "tr": "Bana ve kardeşime mağfiret ve rahmetin",
+      "fr": "Pardon pour moi et mon frère, et Ta miséricorde",
+      "zh": "饶恕我和我的兄弟并赐予你的慈恩",
+      "ja": "私と兄弟への赦しとあなたの慈悲"
+    }
+  },
+  {
+    "refs": "11:47",
+    "names": {
+      "en": "Refuge from asking what one has no knowledge of",
+      "bn": "না জেনে কিছু চাওয়া থেকে আশ্রয়",
+      "ar": "الاستعاذة من سؤال ما ليس به علم",
+      "ur": "بے علمی کی بات مانگنے سے پناہ",
+      "id": "Berlindung dari meminta hal yang tidak diketahui",
+      "tr": "Bilmediğini istemekten sığınma",
+      "fr": "Refuge contre demander ce qu'on ignore",
+      "zh": "求庇于妄求自己无知之事",
+      "ja": "知らぬことを求めることからの庇護"
+    }
+  },
+  {
+    "refs": "12:101",
+    "names": {
+      "en": "To die in submission and join the righteous",
+      "bn": "মুসলিম হয়ে মৃত্যু ও নেককারদের সঙ্গী হওয়া",
+      "ar": "الوفاة على الإسلام واللحاق بالصالحين",
+      "ur": "اسلام پر موت اور نیکوں کی رفاقت",
+      "id": "Wafat dalam keadaan muslim dan bersama orang saleh",
+      "tr": "Müslüman olarak ölmek ve salihlere katılmak",
+      "fr": "Mourir soumis et rejoindre les vertueux",
+      "zh": "以顺从者的身分归真并与善人同列",
+      "ja": "ムスリムとして死に義人に加わること"
+    }
+  },
+  {
+    "refs": "14:35",
+    "names": {
+      "en": "A secure city and safety from idol-worship",
+      "bn": "নিরাপদ নগরী ও মূর্তিপূজা থেকে রক্ষা",
+      "ar": "أمن البلد والنجاة من عبادة الأصنام",
+      "ur": "امن والا شہر اور بت پرستی سے حفاظت",
+      "id": "Negeri yang aman dan terhindar dari penyembahan berhala",
+      "tr": "Güvenli bir şehir ve putlara tapmaktan korunma",
+      "fr": "Une cité sûre et la préservation de l'idolâtrie",
+      "zh": "安宁的城市与远离偶像崇拜",
+      "ja": "安全な町と偶像崇拝からの守り"
+    }
+  },
+  {
+    "refs": "17:24",
+    "names": {
+      "en": "Mercy upon parents as they raised us",
+      "bn": "পিতামাতার প্রতি রহমত, যেমন তাঁরা লালন করেছেন",
+      "ar": "الرحمة بالوالدين كما ربيانا صغيرا",
+      "ur": "والدین پر رحم، جیسے انہوں نے پالا",
+      "id": "Rahmat bagi orang tua sebagaimana mereka mengasuh kita",
+      "tr": "Bizi yetiştirdikleri gibi ana babaya merhamet",
+      "fr": "Miséricorde pour les parents qui nous ont élevés",
+      "zh": "求主怜悯抚育我们的父母",
+      "ja": "育ててくれた両親への慈悲"
+    }
+  },
+  {
+    "refs": "20:25-28",
+    "names": {
+      "en": "Openness of heart and clarity of speech",
+      "bn": "বক্ষ প্রশস্ততা ও বাকশক্তির স্পষ্টতা",
+      "ar": "شرح الصدر وتيسير الأمر وحل عقدة اللسان",
+      "ur": "سینے کی کشادگی اور زبان کی گرہ کھلنا",
+      "id": "Kelapangan dada dan kefasihan lisan",
+      "tr": "Gönül genişliği ve dilin çözülmesi",
+      "fr": "Ouverture du cœur et aisance de la parole",
+      "zh": "心胸开阔与言语通畅",
+      "ja": "胸を開き言葉を明瞭にすること"
+    }
+  },
+  {
+    "refs": "20:114",
+    "names": {
+      "en": "Increase me in knowledge",
+      "bn": "আমার জ্ঞান বৃদ্ধির দুআ",
+      "ar": "زيادة العلم",
+      "ur": "علم میں اضافے کی دعا",
+      "id": "Tambahkanlah ilmu kepadaku",
+      "tr": "İlmimi artır",
+      "fr": "Accrois-moi en savoir",
+      "zh": "求主增加我的知识",
+      "ja": "知識を増やしてください"
+    }
+  },
+  {
+    "refs": "23:97-98",
+    "names": {
+      "en": "Refuge from the whisperings of devils",
+      "bn": "শয়তানের কুমন্ত্রণা থেকে আশ্রয়",
+      "ar": "الاستعاذة من همزات الشياطين",
+      "ur": "شیاطین کے وسوسوں سے پناہ",
+      "id": "Berlindung dari bisikan setan",
+      "tr": "Şeytanların vesveselerinden sığınma",
+      "fr": "Refuge contre les suggestions des démons",
+      "zh": "求庇于恶魔的教唆",
+      "ja": "悪魔のささやきからの加護"
+    }
+  },
+  {
+    "refs": "23:118",
+    "names": {
+      "en": "Forgive and have mercy, best of the merciful",
+      "bn": "ক্ষমা ও রহমত করুন, আপনিই শ্রেষ্ঠ দয়ালু",
+      "ar": "المغفرة والرحمة من خير الراحمين",
+      "ur": "بخشش اور رحم، تو بہترین رحم کرنے والا ہے",
+      "id": "Ampunilah dan rahmatilah, Engkau sebaik-baik pemberi rahmat",
+      "tr": "Bağışla ve merhamet et, merhametlilerin en hayırlısı",
+      "fr": "Pardonne et fais miséricorde, meilleur des miséricordieux",
+      "zh": "求你饶恕与怜悯，你是最仁慈的",
+      "ja": "赦しと慈悲を、最も慈悲深き御方よ"
+    }
+  },
+  {
+    "refs": "28:24",
+    "names": {
+      "en": "In need of whatever good You send down",
+      "bn": "আপনার পাঠানো কল্যাণের মুখাপেক্ষী",
+      "ar": "الافتقار إلى ما ينزل من الخير",
+      "ur": "تیری بھیجی ہوئی ہر بھلائی کا محتاج",
+      "id": "Sangat membutuhkan kebaikan yang Engkau turunkan",
+      "tr": "İndireceğin her hayra muhtaçlık",
+      "fr": "Dans le besoin du bien que Tu fais descendre",
+      "zh": "急需你所降下的任何福利",
+      "ja": "あなたが下される善への切なる必要"
+    }
+  },
+  {
+    "refs": "40:7-9",
+    "names": {
+      "en": "Forgiveness for the repentant and entry into Gardens of Eden",
+      "bn": "তওবাকারীদের ক্ষমা ও জান্নাতে আদনে প্রবেশ",
+      "ar": "المغفرة للتائبين وإدخالهم جنات عدن",
+      "ur": "توبہ کرنے والوں کی مغفرت اور جناتِ عدن میں داخلہ",
+      "id": "Ampunan bagi yang bertobat dan masuk surga Adn",
+      "tr": "Tövbe edenlere mağfiret ve Adn cennetlerine giriş",
+      "fr": "Pardon pour les repentants et entrée aux jardins d'Éden",
+      "zh": "饶恕悔过者并使其进入常住乐园",
+      "ja": "悔悟者への赦しとアドンの園への入場"
+    }
+  },
+  {
+    "refs": "46:15",
+    "names": {
+      "en": "Gratitude for His favour and righteous offspring",
+      "bn": "নিয়ামতের শোকর ও সন্তানের সংশোধন",
+      "ar": "شكر النعمة وصلاح الذرية",
+      "ur": "نعمت کا شکر اور اولاد کی اصلاح",
+      "id": "Syukur atas nikmat dan kesalehan keturunan",
+      "tr": "Nimete şükür ve neslin salahı",
+      "fr": "Gratitude pour Ses bienfaits et une descendance vertueuse",
+      "zh": "感谢主恩与后代的端正",
+      "ja": "恩恵への感謝と子孫の善導"
+    }
+  },
+  {
+    "refs": "66:11",
+    "names": {
+      "en": "A house near Allah in Paradise and rescue from oppressors",
+      "bn": "জান্নাতে আল্লাহর নিকট একটি ঘর ও জালিমদের থেকে মুক্তি",
+      "ar": "بيت عند الله في الجنة والنجاة من الظالمين",
+      "ur": "جنت میں اللہ کے پاس ایک گھر اور ظالموں سے نجات",
+      "id": "Rumah di sisi Allah dalam surga dan keselamatan dari kaum zalim",
+      "tr": "Cennette Allah katında bir ev ve zalimlerden kurtuluş",
+      "fr": "Une demeure auprès d'Allah au Paradis et le salut face aux injustes",
+      "zh": "在乐园中主的近旁得一居所并脱离不义者",
+      "ja": "楽園における主の御許の家と圧制者からの救い"
+    }
   }
 ];
 
