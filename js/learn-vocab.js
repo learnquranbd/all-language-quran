@@ -265,6 +265,14 @@ class VocabTrainer {
     if (!q) return true;
     if ((w.arabic || '').toLowerCase().includes(q)) return true;
     if ((w.translit || '').toLowerCase().includes(q)) return true;
+    // Root search: typing root letters (with or without dashes/harakat)
+    // matches every word derived from that root.
+    const rk = this.wordCounts(w).rootKey;
+    if (rk) {
+      const qn = (typeof ayahTimeline !== 'undefined' && ayahTimeline)
+        ? ayahTimeline.norm(q.replace(/[-\s]/g, '')) : q.replace(/[-\s]/g, '');
+      if (qn && qn.length >= 2 && rk.includes(qn)) return true;
+    }
     const m = w.dyn ? this._dynMeaning(`${w.norm}:${this.language}`) : this.meaningOf(w);
     return !!(m && String(m).toLowerCase().includes(q));
   }
@@ -477,8 +485,24 @@ class VocabTrainer {
         if (ref && typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref, { word: word || null });
         return;
       }
+      // Derived-forms note: the root's actual surface forms with counts
+      // (a mini ṣarf family view), from the corpus tokens at each position.
+      let formsNote = '';
+      try {
+        const corpus = await QuranData.getQuranWords();
+        const fc = {};
+        for (const pos of roots[root]) {
+          const q = pos.split(':');
+          const tok = (corpus[q[0] + ':' + q[1]] || [])[q[2] - 1];
+          if (tok) fc[tok] = (fc[tok] || 0) + 1;
+        }
+        const forms = Object.entries(fc).sort((a, b) => b[1] - a[1]);
+        const top = forms.slice(0, 8);
+        formsNote = top.map(([f, n]) => `${f} ×${n}`).join(' · ')
+          + (forms.length > top.length ? ` · +${forms.length - top.length}` : '');
+      } catch (e2) { /* optional enrichment */ }
       this.openMarkedTimeline(this.marksFromPositions(roots[root]), this.tt('vocab_root_ayahs'),
-        root.split('').join('-'), roots[root].length);
+        root.split('').join('-'), roots[root].length, formsNote);
     } catch (e) {
       if (!noBounce) await this.openWordTimeline(word, ref, formNorm, true);
     }
@@ -533,16 +557,17 @@ class VocabTrainer {
    * pages the rendering — so the shown total always equals the real total.
    * When a word occurs more than once per ayah the subtitle spells out both
    * numbers ("N ayahs · M×"). */
-  openMarkedTimeline(marks, title, titleAr, occ) {
+  openMarkedTimeline(marks, title, titleAr, occ, extra) {
     const refs = Object.keys(marks);
     if (!refs.length) throw new Error('no matches');
     const ord = k => { const [s, a] = k.split(':').map(Number); return s * 1000 + a; };
     refs.sort((a, b) => ord(a) - ord(b));
     const total = occ || refs.length;
+    const counts = total !== refs.length ? `${refs.length} ${this.tt('mt_group_verses_label')} · ${total}×` : '';
     ayahTimeline.open({
       title,
       titleAr,
-      subtitle: total !== refs.length ? `${refs.length} ${this.tt('mt_group_verses_label')} · ${total}×` : '',
+      subtitle: [counts, extra].filter(Boolean).join(' — '),
       refs,
       marks
     });
@@ -795,6 +820,18 @@ class VocabTrainer {
       // Exact counts for curated/theme citation forms need a full corpus pass —
       // deferred so the deck paints first; re-renders once computed.
       setTimeout(() => { try { this.computeWordData(words, roots); } catch (e) { /* keep hand counts */ } }, 0);
+      // Transliteration for every corpus card, from the word-aligned tr data
+      // in verse-base (each dyn card knows its first occurrence ref + pos).
+      if (QuranData.getVerseBase) {
+        QuranData.getVerseBase().then(vb => {
+          if (!vb || !this.extra) return;
+          for (const e of this.extra) {
+            const tr = (vb[e.ref] || {}).tr;
+            if (tr && tr[e.pos - 1]) e.translit = tr[e.pos - 1];
+          }
+          if (this.mode === 'flashcards') this.render();
+        }).catch(() => { /* optional enrichment */ });
+      }
     } catch (e) { this.extra = this.extra || []; }
   }
 
@@ -849,12 +886,14 @@ class VocabTrainer {
     if (this.mode === 'flashcards' || this.mode === 'progress') this.render();
   }
 
-  /** Exact display counts for a card: word-match ayahs, root ayahs, occurrences. */
+  /** Exact display counts for a card: word-match ayahs, root ayahs,
+   * occurrences, plus the resolved root letters (for display/search). */
   wordCounts(w) {
-    if (w.dyn) return { word: w.ayahs || 0, root: w.rootAyahs || 0, occ: w.count };
+    if (w.dyn) return { word: w.ayahs || 0, root: w.rootAyahs || 0, occ: w.count, rootKey: w.rootKey || null };
     const d = (typeof ayahTimeline !== 'undefined' && ayahTimeline && this._wordData)
       ? this._wordData[ayahTimeline.norm(w.arabic)] : null;
-    return d ? { word: d.ayahs, root: d.rootAyahs, occ: d.occ || w.count } : { word: 0, root: 0, occ: w.count };
+    return d ? { word: d.ayahs, root: d.rootAyahs, occ: d.occ || w.count, rootKey: d.root || null }
+             : { word: 0, root: 0, occ: w.count, rootKey: null };
   }
 
   deckAll() {
@@ -1047,6 +1086,7 @@ class VocabTrainer {
             </button>
             <div class="flex items-center justify-center flex-wrap gap-1.5">
               <span class="text-xs text-gray-400">×${wc.occ}</span>
+              ${wc.rootKey ? `<span class="text-[0.65rem] text-gray-400 dark:text-gray-500" dir="rtl" title="${this.tt('vocab_root_ayahs')}">${wc.rootKey.split('').join('-')}</span>` : ''}
               <button data-vocab-verse="${ref || ''}" data-word="${this.escapeHtml(w.arabic)}" data-form="${w.dyn ? this.escapeHtml(w.norm) : ''}" title="${this.tt('vocab_word_ayahs')}"
                       class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-400 hover:bg-primary hover:text-white">📖${wc.word ? ` ${wc.word}` : ''}</button>
               ${(wc.root || (!w.dyn && !this._wordData)) ? `<button data-vocab-root="${this.escapeHtml(w.arabic)}" data-ref="${ref || ''}" data-form="${w.dyn ? this.escapeHtml(w.norm) : ''}" title="${this.tt('vocab_root_ayahs')}"
@@ -1078,6 +1118,19 @@ class VocabTrainer {
 
   // ---------- quiz ----------
 
+  /** Word-quiz pool: curated + theme words, plus any corpus word whose
+   * wbw meaning is already cached (wrapped with a meanings shim so the
+   * existing quiz code needs no changes). Grows as the user browses. */
+  quizPool() {
+    const pool = this.studyPool().slice();
+    const lang = this.language;
+    for (const w of (this.extra || [])) {
+      const m = this._dynMeaning(`${w.norm}:${lang}`);
+      if (m && m !== '—') pool.push({ ...w, meanings: { en: m, [lang]: m } });
+    }
+    return pool;
+  }
+
   startQuiz() {
     if (this.quizTimer) { clearTimeout(this.quizTimer); this.quizTimer = null; }
     if (this.quizType === 'roots') { this.startRootQuiz(); return; }
@@ -1085,7 +1138,7 @@ class VocabTrainer {
     this.quiz = {
       type: 'words',
       // Half the questions run in reverse: meaning shown, Arabic word chosen.
-      questions: this.shuffle(this.studyPool()).slice(0, 10)
+      questions: this.shuffle(this.quizPool()).slice(0, 10)
         .map(w => ({ word: w, rev: Math.random() < 0.5 })),
       round: 0,
       score: 0,
@@ -1216,7 +1269,7 @@ class VocabTrainer {
     const seenMeanings = new Set([this.meaningOf(w)]);
     const seenArabic = new Set([w.arabic]);
     const others = [];
-    for (const c of this.shuffle(this.studyPool())) {
+    for (const c of this.shuffle(this.quizPool())) {
       if (seenArabic.has(c.arabic) || seenMeanings.has(this.meaningOf(c))) continue;
       seenMeanings.add(this.meaningOf(c));
       seenArabic.add(c.arabic);
