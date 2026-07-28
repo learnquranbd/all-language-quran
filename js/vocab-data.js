@@ -2174,6 +2174,883 @@ const VOCAB_THEMES = [
         }
       }
     ]
+  },
+  // v161 additions — 6 themes / 48 corpus-verified words (2026-07-28)
+  {
+    "id": "worship-acts",
+    "icon": "🤲",
+    "names": {
+      "en": "Acts of the worshippers",
+      "bn": "ইবাদতকারীদের কাজ"
+    },
+    "words": [
+      {
+        "arabic": "سَبَّحَ",
+        "translit": "sabbaḥa",
+        "count": 4,
+        "ref": "57:1",
+        "meanings": {
+          "en": "he glorified (God)",
+          "bn": "তিনি (আল্লাহর) তাসবীহ করলেন",
+          "fr": "il a glorifié (Dieu)",
+          "id": "dia bertasbih (kepada Allah)",
+          "ur": "اس نے تسبیح کی",
+          "tr": "tesbih etti",
+          "ar": "نزّه الله وقدّسه",
+          "zh": "赞颂(真主)",
+          "ja": "(神を)讃美した"
+        }
+      },
+      {
+        "arabic": "ٱرْكَعُوا",
+        "translit": "irkaʿū",
+        "count": 2,
+        "ref": "22:77",
+        "meanings": {
+          "en": "bow down! (pl.)",
+          "bn": "তোমরা রুকু করো",
+          "fr": "inclinez-vous !",
+          "id": "rukuklah!",
+          "ur": "رکوع کرو",
+          "tr": "rükû edin",
+          "ar": "اركعوا خضوعًا لله",
+          "zh": "你们当鞠躬",
+          "ja": "跪拝せよ"
+        }
+      },
+      {
+        "arabic": "خَٰشِعُونَ",
+        "translit": "khāshiʿūn",
+        "count": 1,
+        "ref": "23:2",
+        "meanings": {
+          "en": "humbly submissive",
+          "bn": "বিনয়াবনত",
+          "fr": "humbles, recueillis",
+          "id": "orang-orang yang khusyuk",
+          "ur": "عاجزی کرنے والے",
+          "tr": "huşû içinde olanlar",
+          "ar": "خاضعون متذللون",
+          "zh": "恭顺谦卑的人",
+          "ja": "謙虚に畏れる者たち"
+        }
+      },
+      {
+        "arabic": "قَٰنِتٌ",
+        "translit": "qānit",
+        "count": 1,
+        "ref": "39:9",
+        "meanings": {
+          "en": "devoutly obedient",
+          "bn": "একনিষ্ঠ আনুগত্যকারী",
+          "fr": "dévotement obéissant",
+          "id": "orang yang taat",
+          "ur": "فرمانبردار عبادت گزار",
+          "tr": "gönülden itaat eden",
+          "ar": "مطيع خاشع لله",
+          "zh": "虔诚顺服者",
+          "ja": "敬虔に従う者"
+        }
+      },
+      {
+        "arabic": "تَوَكَّلْتُ",
+        "translit": "tawakkaltu",
+        "count": 7,
+        "ref": "9:129",
+        "meanings": {
+          "en": "I put my trust (in God)",
+          "bn": "আমি (আল্লাহর উপর) ভরসা করেছি",
+          "fr": "je m'en remets (à Dieu)",
+          "id": "aku bertawakal",
+          "ur": "میں نے توکل کیا",
+          "tr": "tevekkül ettim",
+          "ar": "فوّضت أمري إلى الله",
+          "zh": "我托靠(真主)",
+          "ja": "私は(神に)委ねた"
+        }
+      },
+      {
+        "arabic": "أَنَابَ",
+        "translit": "anāba",
+        "count": 3,
+        "ref": "13:27",
+        "meanings": {
+          "en": "he turned (to God) in repentance",
+          "bn": "তিনি (আল্লাহর দিকে) প্রত্যাবর্তন করলেন",
+          "fr": "il est revenu (à Dieu)",
+          "id": "dia kembali (kepada Allah)",
+          "ur": "اس نے رجوع کیا",
+          "tr": "(Allah'a) yöneldi",
+          "ar": "رجع إلى الله",
+          "zh": "归依(真主)",
+          "ja": "(神に)立ち返った"
+        }
+      },
+      {
+        "arabic": "يُنفِقُونَ",
+        "translit": "yunfiqūn",
+        "count": 20,
+        "ref": "2:3",
+        "meanings": {
+          "en": "they spend (in charity)",
+          "bn": "তারা (দানে) ব্যয় করে",
+          "fr": "ils dépensent (en aumône)",
+          "id": "mereka menafkahkan",
+          "ur": "وہ خرچ کرتے ہیں",
+          "tr": "infak ederler",
+          "ar": "يبذلون أموالهم في الخير",
+          "zh": "他们施舍",
+          "ja": "彼らは(施しに)費やす"
+        }
+      },
+      {
+        "arabic": "نَسْتَعِينُ",
+        "translit": "nastaʿīn",
+        "count": 1,
+        "ref": "1:5",
+        "meanings": {
+          "en": "we seek help",
+          "bn": "আমরা সাহায্য চাই",
+          "fr": "nous implorons l'aide",
+          "id": "kami memohon pertolongan",
+          "ur": "ہم مدد مانگتے ہیں",
+          "tr": "yardım dileriz",
+          "ar": "نطلب العون",
+          "zh": "我们求佑助",
+          "ja": "私たちは助けを求める"
+        }
+      }
+    ]
+  },
+  {
+    "id": "unseen",
+    "icon": "👼",
+    "names": {
+      "en": "Angels & the unseen",
+      "bn": "ফেরেশতা ও অদৃশ্য জগৎ"
+    },
+    "words": [
+      {
+        "arabic": "ٱلْمَلَٰٓئِكَةُ",
+        "translit": "al-malāʾikah",
+        "count": 38,
+        "ref": "2:31",
+        "meanings": {
+          "en": "the angels",
+          "bn": "ফেরেশতাগণ",
+          "fr": "les anges",
+          "id": "para malaikat",
+          "ur": "فرشتے",
+          "tr": "melekler",
+          "ar": "الملائكة",
+          "zh": "众天使",
+          "ja": "天使たち"
+        }
+      },
+      {
+        "arabic": "وَجِبْرِيلُ",
+        "translit": "wa-Jibrīl",
+        "count": 2,
+        "ref": "2:98",
+        "meanings": {
+          "en": "and Gabriel (Jibril)",
+          "bn": "এবং জিবরীল",
+          "fr": "et Gabriel (Jibrîl)",
+          "id": "dan Jibril",
+          "ur": "اور جبریل",
+          "tr": "ve Cebrail",
+          "ar": "وجبريل عليه السلام",
+          "zh": "和吉卜利里(加百列)",
+          "ja": "そしてジブリール(ガブリエル)"
+        }
+      },
+      {
+        "arabic": "وَمِيكَىٰلَ",
+        "translit": "wa-Mīkāl",
+        "count": 1,
+        "ref": "2:98",
+        "meanings": {
+          "en": "and Michael (Mikal)",
+          "bn": "এবং মীকাঈল",
+          "fr": "et Michaël (Mîkâl)",
+          "id": "dan Mikail",
+          "ur": "اور میکائیل",
+          "tr": "ve Mikâil",
+          "ar": "وميكائيل عليه السلام",
+          "zh": "和米卡里(米迦勒)",
+          "ja": "そしてミーカール(ミカエル)"
+        }
+      },
+      {
+        "arabic": "إِبْلِيسُ",
+        "translit": "Iblīs",
+        "count": 9,
+        "ref": "2:34",
+        "meanings": {
+          "en": "Iblis (Satan)",
+          "bn": "ইবলীস",
+          "fr": "Iblîs (Satan)",
+          "id": "Iblis",
+          "ur": "ابلیس",
+          "tr": "İblis",
+          "ar": "إبليس اللعين",
+          "zh": "易卜劣厮(魔鬼)",
+          "ja": "イブリース(悪魔)"
+        }
+      },
+      {
+        "arabic": "ٱلْجِنُّ",
+        "translit": "al-jinn",
+        "count": 19,
+        "ref": "6:100",
+        "meanings": {
+          "en": "the jinn",
+          "bn": "জিন জাতি",
+          "fr": "les djinns",
+          "id": "para jin",
+          "ur": "جنات",
+          "tr": "cinler",
+          "ar": "الجن",
+          "zh": "精灵(镇尼)",
+          "ja": "ジン(幽精)"
+        }
+      },
+      {
+        "arabic": "ٱلشَّيَٰطِينُ",
+        "translit": "al-shayāṭīn",
+        "count": 13,
+        "ref": "2:102",
+        "meanings": {
+          "en": "the devils",
+          "bn": "শয়তানরা",
+          "fr": "les démons",
+          "id": "setan-setan",
+          "ur": "شیاطین",
+          "tr": "şeytanlar",
+          "ar": "الشياطين",
+          "zh": "众恶魔",
+          "ja": "悪魔たち"
+        }
+      },
+      {
+        "arabic": "عِفْرِيتٌ",
+        "translit": "ʿifrīt",
+        "count": 1,
+        "ref": "27:39",
+        "meanings": {
+          "en": "a mighty jinn (ifrit)",
+          "bn": "শক্তিশালী জিন (ইফরীত)",
+          "fr": "un djinn redoutable (ifrit)",
+          "id": "jin yang perkasa (ifrit)",
+          "ur": "طاقتور جن (عفریت)",
+          "tr": "güçlü bir cin (ifrit)",
+          "ar": "مارد قوي من الجن",
+          "zh": "强大的精灵(伊夫利特)",
+          "ja": "強力なジン(イフリート)"
+        }
+      },
+      {
+        "arabic": "حُورٌ",
+        "translit": "ḥūr",
+        "count": 1,
+        "ref": "55:72",
+        "meanings": {
+          "en": "fair maidens of Paradise",
+          "bn": "জান্নাতের হূর",
+          "fr": "houris du Paradis",
+          "id": "bidadari surga",
+          "ur": "جنت کی حوریں",
+          "tr": "cennet hurileri",
+          "ar": "حور الجنة",
+          "zh": "乐园中的美目女子",
+          "ja": "楽園の乙女(フール)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "revelation",
+    "icon": "📜",
+    "names": {
+      "en": "The Book & revelation",
+      "bn": "কিতাব ও ওহী"
+    },
+    "words": [
+      {
+        "arabic": "سُورَةٌ",
+        "translit": "sūrah",
+        "count": 7,
+        "ref": "9:64",
+        "meanings": {
+          "en": "a surah, chapter",
+          "bn": "সূরা",
+          "fr": "une sourate",
+          "id": "surah",
+          "ur": "سورت",
+          "tr": "sûre",
+          "ar": "سورة من القرآن",
+          "zh": "章(苏拉)",
+          "ja": "スーラ(章)"
+        }
+      },
+      {
+        "arabic": "تَنزِيلٌ",
+        "translit": "tanzīl",
+        "count": 10,
+        "ref": "32:2",
+        "meanings": {
+          "en": "a sending down, revelation",
+          "bn": "অবতরণ, নাযিলকৃত ওহী",
+          "fr": "révélation descendue",
+          "id": "penurunan wahyu",
+          "ur": "نازل کردہ وحی",
+          "tr": "indirilme, vahiy",
+          "ar": "إنزال الوحي",
+          "zh": "降示",
+          "ja": "啓示の下し"
+        }
+      },
+      {
+        "arabic": "ٱلْفُرْقَانَ",
+        "translit": "al-furqān",
+        "count": 4,
+        "ref": "3:4",
+        "meanings": {
+          "en": "the Criterion",
+          "bn": "ফুরকান (সত্য-মিথ্যার মানদণ্ড)",
+          "fr": "le Discernement",
+          "id": "Al-Furqan (pembeda)",
+          "ur": "فرقان (حق و باطل کی کسوٹی)",
+          "tr": "Furkan (hakkı bâtıldan ayıran)",
+          "ar": "الفرقان بين الحق والباطل",
+          "zh": "准则(辨别真伪者)",
+          "ja": "フルカーン(識別)"
+        }
+      },
+      {
+        "arabic": "ٱلتَّوْرَىٰةُ",
+        "translit": "al-Tawrāh",
+        "count": 15,
+        "ref": "3:3",
+        "meanings": {
+          "en": "the Torah",
+          "bn": "তাওরাত",
+          "fr": "la Torah",
+          "id": "Taurat",
+          "ur": "تورات",
+          "tr": "Tevrat",
+          "ar": "التوراة",
+          "zh": "《讨拉特》(律法书)",
+          "ja": "律法(タウラー)"
+        }
+      },
+      {
+        "arabic": "ٱلْإِنجِيلَ",
+        "translit": "al-Injīl",
+        "count": 4,
+        "ref": "5:46",
+        "meanings": {
+          "en": "the Gospel",
+          "bn": "ইনজীল",
+          "fr": "l'Évangile",
+          "id": "Injil",
+          "ur": "انجیل",
+          "tr": "İncil",
+          "ar": "الإنجيل",
+          "zh": "《引支勒》(福音书)",
+          "ja": "福音書(インジール)"
+        }
+      },
+      {
+        "arabic": "ٱلزَّبُورِ",
+        "translit": "al-Zabūr",
+        "count": 1,
+        "ref": "21:105",
+        "meanings": {
+          "en": "the Psalms",
+          "bn": "যাবূর",
+          "fr": "les Psaumes",
+          "id": "Zabur",
+          "ur": "زبور",
+          "tr": "Zebur",
+          "ar": "الزبور",
+          "zh": "《宰逋卜》(诗篇)",
+          "ja": "詩篇(ザブール)"
+        }
+      },
+      {
+        "arabic": "صُحُفٌ",
+        "translit": "ṣuḥuf",
+        "count": 3,
+        "ref": "53:36",
+        "meanings": {
+          "en": "scriptures, scrolls",
+          "bn": "সহীফাসমূহ",
+          "fr": "feuillets, écrits",
+          "id": "lembaran-lembaran wahyu",
+          "ur": "صحیفے",
+          "tr": "sahifeler",
+          "ar": "صحف منزلة",
+          "zh": "经卷",
+          "ja": "啓典の書巻"
+        }
+      },
+      {
+        "arabic": "لَوْحٌ",
+        "translit": "lawḥ",
+        "count": 1,
+        "ref": "85:22",
+        "meanings": {
+          "en": "tablet (the Preserved Tablet)",
+          "bn": "লাওহ (সংরক্ষিত ফলক)",
+          "fr": "tablette (bien gardée)",
+          "id": "lauh (yang terpelihara)",
+          "ur": "لوح (محفوظ)",
+          "tr": "levha (Levh-i Mahfûz)",
+          "ar": "لوح محفوظ",
+          "zh": "(受保护的)天牌",
+          "ja": "(守護された)碑板"
+        }
+      }
+    ]
+  },
+  {
+    "id": "trade",
+    "icon": "💰",
+    "names": {
+      "en": "Trade & justice",
+      "bn": "ব্যবসা ও ন্যায়বিচার"
+    },
+    "words": [
+      {
+        "arabic": "تِجَٰرَةٌ",
+        "translit": "tijārah",
+        "count": 6,
+        "ref": "2:282",
+        "meanings": {
+          "en": "trade, commerce",
+          "bn": "ব্যবসা-বাণিজ্য",
+          "fr": "commerce",
+          "id": "perniagaan",
+          "ur": "تجارت",
+          "tr": "ticaret",
+          "ar": "تجارة",
+          "zh": "贸易",
+          "ja": "商売"
+        }
+      },
+      {
+        "arabic": "بَيْعٌ",
+        "translit": "bayʿ",
+        "count": 3,
+        "ref": "2:254",
+        "meanings": {
+          "en": "sale, bargaining",
+          "bn": "ক্রয়-বিক্রয়",
+          "fr": "vente",
+          "id": "jual beli",
+          "ur": "خرید و فروخت",
+          "tr": "alışveriş",
+          "ar": "بيع وشراء",
+          "zh": "买卖",
+          "ja": "売買"
+        }
+      },
+      {
+        "arabic": "ٱلرِّبَوٰا",
+        "translit": "al-ribā",
+        "count": 7,
+        "ref": "2:275",
+        "meanings": {
+          "en": "usury, interest",
+          "bn": "সুদ",
+          "fr": "l'usure",
+          "id": "riba",
+          "ur": "سود",
+          "tr": "faiz, riba",
+          "ar": "الربا المحرّم",
+          "zh": "重利(利息)",
+          "ja": "利息(リバー)"
+        }
+      },
+      {
+        "arabic": "ٱلْكَيْلَ",
+        "translit": "al-kayl",
+        "count": 7,
+        "ref": "6:152",
+        "meanings": {
+          "en": "the measure",
+          "bn": "মাপ",
+          "fr": "la mesure",
+          "id": "takaran",
+          "ur": "ناپ",
+          "tr": "ölçü",
+          "ar": "مقدار ما يُكال",
+          "zh": "量器(足量)",
+          "ja": "枡目(計量)"
+        }
+      },
+      {
+        "arabic": "بِٱلْقِسْطِ",
+        "translit": "bil-qisṭ",
+        "count": 14,
+        "ref": "3:18",
+        "meanings": {
+          "en": "with justice, equity",
+          "bn": "ন্যায়ের সাথে",
+          "fr": "avec équité",
+          "id": "dengan adil",
+          "ur": "انصاف کے ساتھ",
+          "tr": "adaletle",
+          "ar": "بالعدل والإنصاف",
+          "zh": "以公道",
+          "ja": "公正をもって"
+        }
+      },
+      {
+        "arabic": "مِثْقَالَ",
+        "translit": "mithqāl",
+        "count": 8,
+        "ref": "4:40",
+        "meanings": {
+          "en": "weight (of an atom)",
+          "bn": "(অণু) পরিমাণ ওজন",
+          "fr": "poids (d'un atome)",
+          "id": "seberat (zarah)",
+          "ur": "ذرہ برابر وزن",
+          "tr": "(zerre) ağırlığı",
+          "ar": "وزن الشيء",
+          "zh": "(微尘的)重量",
+          "ja": "(微塵の)重さ"
+        }
+      },
+      {
+        "arabic": "دَرَٰهِمَ",
+        "translit": "darāhim",
+        "count": 1,
+        "ref": "12:20",
+        "meanings": {
+          "en": "dirhams (silver coins)",
+          "bn": "দিরহাম (রৌপ্যমুদ্রা)",
+          "fr": "dirhams (pièces d'argent)",
+          "id": "beberapa dirham",
+          "ur": "درہم (چاندی کے سکے)",
+          "tr": "dirhemler",
+          "ar": "دراهم معدودة",
+          "zh": "几枚迪尔汗(银币)",
+          "ja": "ディルハム銀貨"
+        }
+      },
+      {
+        "arabic": "شَهَٰدَةٌ",
+        "translit": "shahādah",
+        "count": 5,
+        "ref": "2:140",
+        "meanings": {
+          "en": "testimony, witness",
+          "bn": "সাক্ষ্য",
+          "fr": "témoignage",
+          "id": "kesaksian",
+          "ur": "گواہی",
+          "tr": "şahitlik",
+          "ar": "شهادة",
+          "zh": "作证",
+          "ja": "証言"
+        }
+      }
+    ]
+  },
+  {
+    "id": "garments",
+    "icon": "👕",
+    "names": {
+      "en": "Garments & adornment",
+      "bn": "পোশাক ও অলংকার"
+    },
+    "words": [
+      {
+        "arabic": "لِبَاسٌ",
+        "translit": "libās",
+        "count": 3,
+        "ref": "2:187",
+        "meanings": {
+          "en": "garment, covering",
+          "bn": "পোশাক, আবরণ",
+          "fr": "vêtement",
+          "id": "pakaian",
+          "ur": "لباس",
+          "tr": "giysi, örtü",
+          "ar": "لباس وستر",
+          "zh": "衣服",
+          "ja": "衣服"
+        }
+      },
+      {
+        "arabic": "ثِيَابٌ",
+        "translit": "thiyāb",
+        "count": 2,
+        "ref": "22:19",
+        "meanings": {
+          "en": "garments, clothes",
+          "bn": "কাপড়, বস্ত্র",
+          "fr": "habits",
+          "id": "baju-baju",
+          "ur": "کپڑے",
+          "tr": "elbiseler",
+          "ar": "ثياب",
+          "zh": "衣裳",
+          "ja": "衣類"
+        }
+      },
+      {
+        "arabic": "زِينَةٌ",
+        "translit": "zīnah",
+        "count": 6,
+        "ref": "7:32",
+        "meanings": {
+          "en": "adornment",
+          "bn": "সৌন্দর্য, অলংকার",
+          "fr": "parure",
+          "id": "perhiasan",
+          "ur": "زینت",
+          "tr": "süs, ziynet",
+          "ar": "زينة",
+          "zh": "装饰",
+          "ja": "装飾"
+        }
+      },
+      {
+        "arabic": "حَرِيرٌ",
+        "translit": "ḥarīr",
+        "count": 2,
+        "ref": "22:23",
+        "meanings": {
+          "en": "silk",
+          "bn": "রেশম",
+          "fr": "soie",
+          "id": "sutra",
+          "ur": "ریشم",
+          "tr": "ipek",
+          "ar": "حرير",
+          "zh": "丝绸",
+          "ja": "絹"
+        }
+      },
+      {
+        "arabic": "سُندُسٌ",
+        "translit": "sundus",
+        "count": 3,
+        "ref": "18:31",
+        "meanings": {
+          "en": "fine silk",
+          "bn": "মিহি রেশম",
+          "fr": "soie fine",
+          "id": "sutra halus",
+          "ur": "باریک ریشم",
+          "tr": "ince ipek",
+          "ar": "حرير رقيق",
+          "zh": "细软的丝绸",
+          "ja": "薄絹"
+        }
+      },
+      {
+        "arabic": "إِسْتَبْرَقٌ",
+        "translit": "istabraq",
+        "count": 1,
+        "ref": "55:54",
+        "meanings": {
+          "en": "brocade, thick silk",
+          "bn": "মোটা রেশম (ইস্তাবরাক)",
+          "fr": "brocart",
+          "id": "sutra tebal",
+          "ur": "دبیز ریشم",
+          "tr": "kalın ipek, atlas",
+          "ar": "حرير غليظ (ديباج)",
+          "zh": "锦缎",
+          "ja": "錦(厚い絹)"
+        }
+      },
+      {
+        "arabic": "أَسَاوِرَ",
+        "translit": "asāwir",
+        "count": 4,
+        "ref": "18:31",
+        "meanings": {
+          "en": "bracelets",
+          "bn": "কঙ্কণ, বালা",
+          "fr": "bracelets",
+          "id": "gelang-gelang",
+          "ur": "کنگن",
+          "tr": "bilezikler",
+          "ar": "أساور",
+          "zh": "手镯",
+          "ja": "腕輪"
+        }
+      },
+      {
+        "arabic": "قَمِيصِهِ",
+        "translit": "qamīṣihi",
+        "count": 5,
+        "ref": "12:18",
+        "meanings": {
+          "en": "his shirt (of Yusuf)",
+          "bn": "তার জামা (ইউসুফের)",
+          "fr": "sa tunique (de Joseph)",
+          "id": "bajunya (Yusuf)",
+          "ur": "اس کی قمیص (یوسفؑ کی)",
+          "tr": "onun gömleği (Yusuf'un)",
+          "ar": "قميص يوسف",
+          "zh": "他的衬衣(优素福的)",
+          "ja": "彼の(ユースフの)長衣"
+        }
+      }
+    ]
+  },
+  {
+    "id": "judgment-day",
+    "icon": "📯",
+    "names": {
+      "en": "Names of the Last Day",
+      "bn": "কিয়ামতের নামসমূহ"
+    },
+    "words": [
+      {
+        "arabic": "ٱلصُّورِ",
+        "translit": "al-ṣūr",
+        "count": 10,
+        "ref": "6:73",
+        "meanings": {
+          "en": "the Trumpet",
+          "bn": "শিঙা",
+          "fr": "la Trompette",
+          "id": "sangkakala",
+          "ur": "صور",
+          "tr": "Sûr (boru)",
+          "ar": "الصور الذي يُنفخ فيه",
+          "zh": "号角",
+          "ja": "(審判の)ラッパ"
+        }
+      },
+      {
+        "arabic": "ٱلصَّيْحَةُ",
+        "translit": "al-ṣayḥah",
+        "count": 7,
+        "ref": "11:67",
+        "meanings": {
+          "en": "the blast, mighty cry",
+          "bn": "মহাগর্জন",
+          "fr": "le Cri",
+          "id": "suara yang mengguntur",
+          "ur": "چنگھاڑ",
+          "tr": "korkunç ses",
+          "ar": "الصيحة المهلكة",
+          "zh": "震耳的呐喊",
+          "ja": "一声の轟き"
+        }
+      },
+      {
+        "arabic": "ٱلْوَاقِعَةُ",
+        "translit": "al-wāqiʿah",
+        "count": 2,
+        "ref": "56:1",
+        "meanings": {
+          "en": "the inevitable Event",
+          "bn": "অবশ্যম্ভাবী ঘটনা",
+          "fr": "l'Événement inéluctable",
+          "id": "peristiwa yang pasti terjadi",
+          "ur": "واقع ہونے والی (قیامت)",
+          "tr": "kesin gerçekleşecek olay",
+          "ar": "الواقعة يوم القيامة",
+          "zh": "必然降临的大事",
+          "ja": "必ず起こる出来事"
+        }
+      },
+      {
+        "arabic": "ٱلْحَآقَّةُ",
+        "translit": "al-ḥāqqah",
+        "count": 3,
+        "ref": "69:1",
+        "meanings": {
+          "en": "the sure Reality",
+          "bn": "অবধারিত সত্য",
+          "fr": "l'Inévitable",
+          "id": "hari yang pasti benar",
+          "ur": "یقینی حقیقت",
+          "tr": "gerçekleşecek olan",
+          "ar": "الحاقة الثابتة الوقوع",
+          "zh": "真实的灾难",
+          "ja": "確かな実在(の日)"
+        }
+      },
+      {
+        "arabic": "ٱلْقَارِعَةُ",
+        "translit": "al-qāriʿah",
+        "count": 3,
+        "ref": "101:1",
+        "meanings": {
+          "en": "the striking Calamity",
+          "bn": "মহাপ্রলয়",
+          "fr": "le Fracas",
+          "id": "hari yang menggetarkan",
+          "ur": "کھڑکھڑانے والی",
+          "tr": "çarpan felaket",
+          "ar": "القارعة التي تقرع القلوب",
+          "zh": "大难",
+          "ja": "打ち叩く災厄"
+        }
+      },
+      {
+        "arabic": "ٱلْغَٰشِيَةِ",
+        "translit": "al-ghāshiyah",
+        "count": 1,
+        "ref": "88:1",
+        "meanings": {
+          "en": "the Overwhelming",
+          "bn": "আচ্ছন্নকারী (কিয়ামত)",
+          "fr": "l'Enveloppante",
+          "id": "hari yang meliputi",
+          "ur": "ڈھانپ لینے والی",
+          "tr": "her şeyi kaplayan",
+          "ar": "الغاشية التي تغشى الناس",
+          "zh": "笼罩的灾难",
+          "ja": "覆い包むもの"
+        }
+      },
+      {
+        "arabic": "ٱلطَّآمَّةُ",
+        "translit": "al-ṭāmmah",
+        "count": 1,
+        "ref": "79:34",
+        "meanings": {
+          "en": "the great Catastrophe",
+          "bn": "মহাসংকট",
+          "fr": "le grand Cataclysme",
+          "id": "malapetaka terbesar",
+          "ur": "بڑی آفت",
+          "tr": "en büyük felaket",
+          "ar": "الطامة الكبرى",
+          "zh": "大灾难",
+          "ja": "大変災"
+        }
+      },
+      {
+        "arabic": "ٱلصَّآخَّةُ",
+        "translit": "al-ṣākhkhah",
+        "count": 1,
+        "ref": "80:33",
+        "meanings": {
+          "en": "the deafening Blast",
+          "bn": "কানফাটা আওয়াজ",
+          "fr": "le Fracas assourdissant",
+          "id": "suara yang memekakkan",
+          "ur": "کان پھاڑ دینے والی آواز",
+          "tr": "kulakları sağır eden ses",
+          "ar": "الصاخة التي تصم الآذان",
+          "zh": "震耳欲聋的巨响",
+          "ja": "耳をつんざく響き"
+        }
+      }
+    ]
   }
 ];
 
