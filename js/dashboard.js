@@ -40,6 +40,7 @@ const DASH_L = {
   vocab_cta:    { en: 'Practice words', bn: 'শব্দ অনুশীলন করুন' },
   vocab_review: { en: 'Review now', bn: 'এখনই রিভিউ করুন' },
   vocab_streak: { en: 'day streak', bn: 'দিনের ধারা' },
+  word_day:     { en: 'Word of the Day', bn: 'আজকের শব্দ' },
 };
 
 class DashboardView {
@@ -215,6 +216,25 @@ class DashboardView {
     `);
   }
 
+  /** Deterministic daily word from the curated vocab list — tapping opens
+   * the trainer. */
+  wordCard() {
+    if (typeof VOCAB_WORDS === 'undefined' || !VOCAB_WORDS || !VOCAB_WORDS.length) return '';
+    const w = VOCAB_WORDS[this.dayIndex() % VOCAB_WORDS.length];
+    const meaning = (w.meanings && (w.meanings[this.language] || w.meanings.en)) || '';
+    return this.card(`
+      ${this.heading('📚', this.L(DASH_L.word_day))}
+      <button data-dash-vocab="flashcards" class="w-full text-left flex items-center gap-4 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
+        <span class="ayah-arabic !text-3xl !border-b-0 !pb-0" dir="rtl">${w.arabic}</span>
+        <span class="flex-1 min-w-0">
+          <span class="block text-sm italic text-gray-400">${this.esc(w.translit || '')}</span>
+          <span class="block text-sm text-gray-700 dark:text-gray-200 truncate" dir="auto">${this.esc(meaning)}</span>
+        </span>
+        <span class="text-gray-400" aria-hidden="true">›</span>
+      </button>
+    `);
+  }
+
   /** Vocabulary trainer snapshot (written by learn-vocab as 'vocabSummary'):
    * known words, exact Quran coverage %, and due SRS reviews. */
   vocabCard() {
@@ -310,6 +330,7 @@ class DashboardView {
         <div class="grid sm:grid-cols-2 gap-4">
           ${this.nameCard()}
           ${this.companionCard()}
+          ${this.wordCard()}
         </div>
         ${this.topicCard()}
         ${this.amalCard()}
