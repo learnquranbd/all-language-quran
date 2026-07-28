@@ -33,6 +33,12 @@ const DASH_L = {
   companions_read: { en: 'Companions read', bn: 'সাহাবি পড়া হয়েছে' },
   see_all:      { en: 'See all', bn: 'সব দেখুন' },
   view:         { en: 'View', bn: 'দেখুন' },
+  vocab_title:  { en: 'Vocabulary trainer', bn: 'কুরআনের শব্দভান্ডার' },
+  vocab_known:  { en: 'words known', bn: 'শব্দ জানা' },
+  vocab_cov:    { en: 'Quran coverage', bn: 'কুরআন কভারেজ' },
+  vocab_due:    { en: 'due for review', bn: 'রিভিউয়ের অপেক্ষায়' },
+  vocab_cta:    { en: 'Practice words', bn: 'শব্দ অনুশীলন করুন' },
+  vocab_review: { en: 'Review now', bn: 'এখনই রিভিউ করুন' },
 };
 
 class DashboardView {
@@ -208,6 +214,35 @@ class DashboardView {
     `);
   }
 
+  /** Vocabulary trainer snapshot (written by learn-vocab as 'vocabSummary'):
+   * known words, exact Quran coverage %, and due SRS reviews. */
+  vocabCard() {
+    let s = null;
+    try { s = JSON.parse(localStorage.getItem('vocabSummary') || 'null'); } catch (_) { /* ignore */ }
+    if (!s) {
+      let known = 0;
+      try { known = (JSON.parse(localStorage.getItem('vocabKnown') || '[]') || []).length; } catch (_) { /* ignore */ }
+      s = { known, coverage: null, due: null };
+    }
+    const stat = (v, label) => `
+      <div class="text-center">
+        <div class="text-xl font-bold text-gray-800 dark:text-gray-100 tabular-nums">${v}</div>
+        <div class="text-[0.7rem] text-gray-500 dark:text-gray-400">${this.esc(label)}</div>
+      </div>`;
+    return this.card(`
+      ${this.heading('📚', this.L(DASH_L.vocab_title))}
+      <div class="flex items-center justify-around gap-2 mb-3">
+        ${stat(s.known || 0, this.L(DASH_L.vocab_known))}
+        ${s.coverage !== null && s.coverage !== undefined ? stat(this.esc(String(s.coverage)) + '%', this.L(DASH_L.vocab_cov)) : ''}
+        ${s.due ? stat(s.due, this.L(DASH_L.vocab_due)) : ''}
+      </div>
+      <div class="flex flex-wrap gap-2">
+        <button data-dash-vocab="flashcards" class="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg bg-primary text-white text-sm font-medium hover:opacity-90 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">📚 ${this.esc(this.L(DASH_L.vocab_cta))}</button>
+        ${s.due ? `<button data-dash-vocab="review" class="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-sm font-medium hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">📥 ${this.esc(this.L(DASH_L.vocab_review))} · ${s.due}</button>` : ''}
+      </div>
+    `);
+  }
+
   progressCard() {
     const chips = [];
     try {
@@ -276,6 +311,7 @@ class DashboardView {
         </div>
         ${this.topicCard()}
         ${this.amalCard()}
+        ${this.vocabCard()}
         ${this.progressCard()}
         ${this.quickGrid()}
       </div>`;
@@ -290,6 +326,15 @@ class DashboardView {
     this.container.addEventListener('click', (e) => {
       const go = e.target.closest('[data-dash-go]');
       if (go) { this.goTab(go.getAttribute('data-dash-go')); return; }
+      const dv = e.target.closest('[data-dash-vocab]');
+      if (dv) {
+        this.goTab('learn');
+        try {
+          window.dispatchEvent(new CustomEvent('learnModuleSelected',
+            { detail: { module: 'vocab', vmode: dv.getAttribute('data-dash-vocab') || 'flashcards' } }));
+        } catch (_) { /* ignore */ }
+        return;
+      }
       const tl = e.target.closest('[data-dash-topic-tl]');
       if (tl && typeof ayahTimeline !== 'undefined' && typeof TOPIC_GROUPS !== 'undefined') {
         const g = TOPIC_GROUPS.find(x => x.id === tl.getAttribute('data-dash-topic-tl'));

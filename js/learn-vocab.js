@@ -92,7 +92,9 @@ class VocabTrainer {
       if (e.detail && e.detail.module === 'vocab') {
         if (!this.rendered) {
           this.rendered = true;
-          this.setMode('flashcards');
+          this.setMode(e.detail.vmode || 'flashcards');
+        } else if (e.detail.vmode) {
+          this.setMode(e.detail.vmode);   // deep link (e.g. dashboard → review)
         }
       }
     });
@@ -239,7 +241,21 @@ class VocabTrainer {
   dueList() {
     const rev = this.getReview();
     const now = Date.now();
-    return this.studyPool().filter(w => {
+    const pool = this.studyPool().slice();
+    const seen = new Set(pool.map(w => w.arabic));
+    // Corpus words the user engaged with (marked known or ❤️) join the SRS
+    // deck — the review queue follows what the user is actually learning.
+    if (this.extra && this.extra.length) {
+      if (!this._extraByArabic) {
+        this._extraByArabic = {};
+        for (const e of this.extra) this._extraByArabic[e.arabic] = e;
+      }
+      for (const a of new Set([...this.getKnown(), ...this.getFav()])) {
+        const e = this._extraByArabic[a];
+        if (e && !seen.has(a)) { seen.add(a); pool.push(e); }
+      }
+    }
+    return pool.filter(w => {
       const r = rev[w.arabic];
       return !r || r.due <= now;
     });
@@ -732,6 +748,7 @@ class VocabTrainer {
       const w = vknow.getAttribute('data-vknow');
       const known = this.getKnown();
       this.saveKnown(known.includes(w) ? known.filter(x => x !== w) : known.concat(w));
+      this._saveSummary();
       this.render();
       return;
     }
@@ -818,9 +835,12 @@ class VocabTrainer {
       case 'rev-good':
         this.gradeReview(true);
         break;
-      case 'rev-speak':
-        this.speak(el.getAttribute('data-text') || '');
+      case 'rev-speak': {
+        const wr = el.getAttribute('data-wref');
+        if (wr) this.playWordAudio(wr, el.getAttribute('data-wpos'), el.getAttribute('data-text') || '');
+        else this.speak(el.getAttribute('data-text') || '');
         break;
+      }
       case 'wotd-audio': {
         const w = this.wordOfDay();
         const ap = w ? this.audioPos(w) : null;
@@ -958,7 +978,7 @@ class VocabTrainer {
                    rootKey, rootAyahs: rootKey ? this._rootAyahs[rootKey] : 0,
                    ref: `${s}:${a}`, pos: w, dyn: true };
         });
-      if (this.mode === 'flashcards' || this.mode === 'progress') this.render();
+      if (this.mode === 'flashcards' || this.mode === 'progress' || this.mode === 'review') this.render();
       // Exact counts for curated/theme citation forms need a full corpus pass —
       // deferred so the deck paints first; re-renders once computed.
       setTimeout(() => { try { this.computeWordData(words, roots); } catch (e) { /* keep hand counts */ } }, 0);
@@ -1025,7 +1045,21 @@ class VocabTrainer {
                  root, rootAyahs: root ? (this._rootAyahs || {})[root] || 0 : 0 };
     }
     this._wordData = out;
-    if (this.mode === 'flashcards' || this.mode === 'progress') this.render();
+    this._saveSummary();
+    if (this.mode === 'flashcards' || this.mode === 'progress' || this.mode === 'review') this.render();
+  }
+
+  /** Light stats snapshot for the dashboard tile ('vocabSummary'). */
+  _saveSummary() {
+    try {
+      const cov = this.coveragePct();
+      localStorage.setItem('vocabSummary', JSON.stringify({
+        known: this.getKnown().length,
+        coverage: cov === null ? null : cov,
+        due: this.dueList().length,
+        ts: Date.now()
+      }));
+    } catch (e) { /* ignore */ }
   }
 
   /** Exact display counts for a card: word-match ayahs, root ayahs,
@@ -1644,6 +1678,7 @@ class VocabTrainer {
       if (this.reviewQueue.length > 1) this.reviewQueue.push(this.reviewQueue.shift());
     }
     this.saveReview(rev);
+    this._saveSummary();
     this.reviewedCount++;
     this.reviewRevealed = false;
     if (!this.reviewQueue.length) {
@@ -1653,6 +1688,7 @@ class VocabTrainer {
   }
 
   renderReview() {
+    this.ensureExtra();   // engaged corpus words join the queue once loaded
     const rev = this.getReview();
     if (!this.reviewQueue || !this.reviewQueue.length) {
       this.reviewQueue = this.shuffle(this.dueList()).slice(0, 20);
@@ -1672,6 +1708,7 @@ class VocabTrainer {
     }
 
     const w = this.reviewQueue[0];
+    if (w.dyn) setTimeout(() => this.prefetchDyn([w]), 0);
     const r = rev[w.arabic];
     const isNew = !r;
     const dueCount = this.dueList().length;
@@ -1686,11 +1723,11 @@ class VocabTrainer {
         ${isNew ? `<span class="inline-block px-2 py-0.5 rounded-full text-[10px] font-bold bg-blue-100 dark:bg-blue-900/40 text-blue-700 dark:text-blue-300 uppercase">${this.tt('vocab_new_word')}</span>` : ''}
         <div class="ayah-arabic !text-6xl !leading-normal" dir="rtl">${w.arabic}</div>
         <div class="flex items-center justify-center gap-2 text-base text-gray-400 dark:text-gray-500 italic" dir="ltr">
-          <span>${w.translit}</span>
-          ${this.hasTTS() ? `<button data-action="rev-speak" data-text="${this.escapeHtml(w.arabic)}" title="${this.tt('vocab_play_word')}" aria-label="${this.tt('vocab_play_word')}" class="not-italic text-sm px-2 py-1 rounded-full bg-gray-100 dark:bg-gray-700 hover:bg-primary hover:text-white">🔊</button>` : ''}
+          <span>${w.translit || ''}</span>
+          ${(() => { const ap = this.audioPos(w); return `<button data-action="rev-speak" data-text="${this.escapeHtml(w.arabic)}" data-wref="${ap ? ap.ref : ''}" data-wpos="${ap ? ap.pos : ''}" title="${this.tt('vocab_play_word')}" aria-label="${this.tt('vocab_play_word')}" class="not-italic text-sm px-2 py-1 rounded-full bg-gray-100 dark:bg-gray-700 hover:bg-primary hover:text-white">🔊</button>`; })()}
         </div>
         ${this.reviewRevealed ? `
-          <div class="text-2xl font-semibold text-gray-800 dark:text-gray-100 pt-2" dir="auto">${this.escapeHtml(this.meaningOf(w))}</div>
+          <div class="text-2xl font-semibold text-gray-800 dark:text-gray-100 pt-2" dir="auto" ${w.dyn ? `data-vmean="${this.escapeHtml(`${w.norm}:${this.language}`)}"` : ''}>${this.escapeHtml(this.cardMeaning(w))}</div>
           <div class="grid grid-cols-2 gap-3 pt-2 max-w-md mx-auto">
             <button data-action="rev-again"
                     class="px-4 py-3 rounded-xl font-medium bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-300 hover:bg-red-200 dark:hover:bg-red-900/50 transition-colors">
