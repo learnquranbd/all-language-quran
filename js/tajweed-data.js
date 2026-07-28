@@ -413,6 +413,14 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '3:18',  focus: 'أَنَّهُ',        noteEn: 'أَنَّهُ لَا إِلَٰهَ إِلَّا هُوَ — doubled noon; avoid shortening below 2 counts.',               noteBn: 'أَنَّهُ-তে مُشَدَّد نّ — ২ হরকতের কম করবেন না।' },
     { ref: '3:126', focus: 'ثُمَّ',           noteEn: 'Doubled meem in ثُمَّ لَا يُنظَرُونَ — nasal resonance through the nasal cavity.',               noteBn: 'ثُمَّ-তে مُشَدَّد مّ — নাসারন্ধ্র থেকে অনুরণন।' },
     { ref: '73:20', focus: 'إِنَّ رَبَّكَ',  noteEn: 'إِنَّ رَبَّكَ يَعْلَمُ — clear 2-count ghunnah on the doubled noon; a common verse for drill.', noteBn: 'إِنَّ رَبَّكَ-তে مُشَدَّد نّ — ২ হরকত গুন্নাহ।' },
+  
+    // v163 additions — 6 machine-verified examples
+    {"ref":"19:4","focus":"إِنِّى","noteEn":"Doubled noon (نّ) in إِنِّى وَهَنَ ٱلْعَظْمُ — hold the nasal resonance a full 2 counts.","noteBn":"إِنِّى-তে مُشَدَّد نّ — পূর্ণ ২ হরকত গুন্নাহ ধরুন।"},
+    {"ref":"36:3","focus":"إِنَّكَ","noteEn":"إِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ — doubled noon; the sound flows from the nasal cavity, not the mouth.","noteBn":"إِنَّكَ-তে مُشَدَّد نّ — আওয়াজ নাক থেকে, মুখ থেকে নয়।"},
+    {"ref":"55:6","focus":"وَٱلنَّجْمُ","noteEn":"The doubled noon of ٱلنَّجْمُ — 2-count ghunnah on نّ even when it arises from the sun-letter merging.","noteBn":"ٱلنَّجْمُ-তে مُشَدَّد نّ — ২ হরকত গুন্নাহ।"},
+    {"ref":"67:5","focus":"زَيَّنَّا","noteEn":"زَيَّنَّا ٱلسَّمَآءَ — doubled noon mid-word; keep the resonance steady for 2 counts.","noteBn":"زَيَّنَّا-তে শব্দের মাঝে مُشَدَّد نّ — ২ হরকত অনুরণন।"},
+    {"ref":"78:1","focus":"عَمَّ","noteEn":"عَمَّ يَتَسَآءَلُونَ — doubled meem (مّ): the same 2-count ghunnah as نّ.","noteBn":"عَمَّ-তে مُشَدَّد مّ — نّ-এর মতোই ২ হরকত গুন্নাহ।"},
+    {"ref":"80:8","focus":"وَأَمَّا","noteEn":"Doubled meem in وَأَمَّا مَن جَآءَكَ — nasal resonance held 2 counts on مّ.","noteBn":"وَأَمَّا-তে مُشَدَّد مّ — ২ হরকত নাকি অনুরণন।"}
   ],
 
   qalqalah: [
@@ -422,6 +430,14 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '96:1',  focus: 'اقْرَأْ',           noteEn: 'ق bears sukoon in اقْرَأْ — lighter mid-word qalqalah (not at waqf so less intense).',        noteBn: 'اقْرَأْ-তে قْ সাকিন — মধ্য-শব্দে হালকা কলকলা।' },
     { ref: '86:1',  focus: 'الطَّارِقِ',       noteEn: 'Stopping on الطَّارِقِ — ق at waqf: strong bounce from the back of the tongue.',               noteBn: 'الطَّارِقِ-তে ওয়াকফ: قِ-তে শক্তিশালী বাউন্স।' },
     { ref: '2:7',   focus: 'أَبْصَارِهِمْ',   noteEn: 'ب bears sukoon in أَبْصَارِهِمْ — qalqalah on the lips while recitation continues.',           noteBn: 'أَبْصَارِهِمْ-তে بْ সাকিন — ওয়াসলেও ঠোঁটে বাউন্স।' },
+  
+    // v163 additions — 6 machine-verified examples
+    {"ref":"12:5","focus":"تَقْصُصْ","noteEn":"قْ bears sukoon mid-word in لَا تَقْصُصْ — a light, clear bounce on the qaaf.","noteBn":"تَقْصُصْ-তে قْ সাকিন — কাফে হালকা স্পষ্ট বাউন্স।"},
+    {"ref":"18:1","focus":"عَبْدِهِ","noteEn":"بْ with sukoon in عَبْدِهِ — bounce the baa without adding any vowel.","noteBn":"عَبْدِهِ-তে بْ সাকিন — কোনো হরকত না যোগ করে বাউন্স।"},
+    {"ref":"75:1","focus":"أُقْسِمُ","noteEn":"قْ sakinah in لَآ أُقْسِمُ — mid-word qalqalah; the bounce stays small while continuing.","noteBn":"أُقْسِمُ-তে قْ সাকিন — চলমান তিলাওয়াতে ছোট বাউন্স।"},
+    {"ref":"78:6","focus":"نَجْعَلِ","noteEn":"جْ bears sukoon in أَلَمْ نَجْعَلِ — bounce the jeem cleanly; do not soften it to sheen.","noteBn":"نَجْعَلِ-তে جْ সাকিন — জীম পরিষ্কার বাউন্স করুন।"},
+    {"ref":"84:6","focus":"كَدْحًا","noteEn":"دْ sakinah mid-word in كَدْحًا — a crisp bounce on the daal.","noteBn":"كَدْحًا-তে دْ সাকিন — দালে ঝরঝরে বাউন্স।"},
+    {"ref":"85:12","focus":"بَطْشَ","noteEn":"طْ with sukoon in بَطْشَ رَبِّكَ — qalqalah on the heavy طْ keeps its tafkheem.","noteBn":"بَطْشَ-তে طْ সাকিন — মোটা উচ্চারণ বজায় রেখে কলকলা।"}
   ],
 
   // ── Noon Sākinah & Tanween ─────────────────────────────────────────────────
@@ -431,6 +447,14 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '13:43', focus: 'وَمَنْ عِندَهُ',  noteEn: 'نْ before ع — izhar halqi: the noon is pronounced clearly, not hidden.',                      noteBn: 'ع-এর আগে نْ — ইযহার হালকি: নূন স্পষ্ট।' },
     { ref: '2:228', focus: 'عَزِيزٌ حَكِيمٌ', noteEn: 'Tanween (ٌ) before حَ — izhar halqi: the noon of tanween is fully clear.',                    noteBn: 'حَ-এর আগে তানউইন (ٌ) — ইযহার হালকি: নূন স্পষ্ট।' },
     { ref: '49:13', focus: 'عَلِيمٌ خَبِيرٌ', noteEn: 'Tanween (ٌ) before خَ — izhar halqi; note خَ is also a throat letter.',                      noteBn: 'خَ-এর আগে তানউইন — ইযহার হালকি; خَও গলার হরফ।' },
+  
+    // v163 additions — 6 machine-verified examples
+    {"ref":"19:3","focus":"نِدَآءً خَفِيًّا","noteEn":"Tanween (ً) before خَ — izhar halqi: pronounce the tanween-noon clearly before the throat letter.","noteBn":"خَ-এর আগে তানউইন (ً) — ইযহার হালকি: নূন স্পষ্ট।"},
+    {"ref":"35:28","focus":"عَزِيزٌ غَفُورٌ","noteEn":"Tanween (ٌ) before غَ — izhar halqi; غ is a throat letter, so no hiding or merging.","noteBn":"غَ-এর আগে তানউইন (ٌ) — ইযহার হালকি; গোপন বা মিলন নেই।"},
+    {"ref":"39:3","focus":"مَنْ هُوَ","noteEn":"نْ before هُ across words — izhar: the noon stays fully audible before the haa.","noteBn":"هُ-এর আগে نْ — ইযহার: হা-এর আগে নূন শ্রুতিগোচর।"},
+    {"ref":"55:26","focus":"مَنْ عَلَيْهَا","noteEn":"نْ before عَ in كُلُّ مَنْ عَلَيْهَا فَانٍ — izhar halqi: fully clear noon, no ghunnah stretch.","noteBn":"عَ-এর আগে نْ — ইযহার হালকি: নূন সম্পূর্ণ স্পষ্ট, গুন্নাহ টান নেই।"},
+    {"ref":"73:20","focus":"قَرْضًا حَسَنًا","noteEn":"Tanween (ً) before حَ in قَرْضًا حَسَنًا — clear izhar before the throat letter حَ.","noteBn":"حَ-এর আগে তানউইন (ً) — গলার হরফের আগে স্পষ্ট ইযহার।"},
+    {"ref":"87:5","focus":"غُثَآءً أَحْوَىٰ","noteEn":"Tanween (ً) before hamza (أَ) — izhar halqi: no ghunnah, no merging into the hamza.","noteBn":"أَ (হামযা)-এর আগে তানউইন — ইযহার হালকি: গুন্নাহ বা মিলন নেই।"}
   ],
 
   izhar_mutlaq: [
@@ -449,6 +473,14 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '4:94',  focus: 'مَنْ صَلَّى',       noteEn: 'نْ before صَ (emphatic letter) — ikhfa; ghunnah remains clearly nasal.',                       noteBn: 'صَ-এর আগে نْ — গুন্নাহ বজায় রেখে ইখফা।' },
     { ref: '27:29', focus: 'كِتَابٌ كَرِيمٌ',  noteEn: 'Tanween (ٌ) before كَ — ikhfa: hidden noon with nasal sound ~2 counts.',                       noteBn: 'كَ-এর আগে তানউইন (ٌ) — ~২ হরকত গুন্নাহসহ ইখফা।' },
     { ref: '4:1',   focus: 'أُنزِلَ',           noteEn: 'نْ before زَ in أُنزِلَ — ikhfa; a very common word across many verses.',                      noteBn: 'أُنزِلَ-তে نْ before زَ — সচরাচর দেখা ইখফার উদাহরণ।' },
+  
+    // v163 additions — 6 machine-verified examples
+    {"ref":"19:7","focus":"مِن قَبْلُ","noteEn":"نْ before قَ in مِن قَبْلُ — ikhfa: hide the noon with ghunnah, slightly heavy before قَ.","noteBn":"قَ-এর আগে نْ — ইখফা: গুন্নাহসহ গোপন, قَ-এর আগে সামান্য ভারী।"},
+    {"ref":"36:6","focus":"لِتُنذِرَ","noteEn":"نْ before ذَ inside لِتُنذِرَ — ikhfa within one word; ~2 counts of ghunnah.","noteBn":"لِتُنذِرَ-তে ذَ-এর আগে نْ — এক শব্দে ইখফা; ~২ হরকত গুন্নাহ।"},
+    {"ref":"67:3","focus":"سَمَٰوَٰتٍ طِبَاقًا","noteEn":"Tanween (ٍ) before طِ — ikhfa; the ghunnah takes a heavy colour before the emphatic طِ.","noteBn":"طِ-এর আগে তানউইন (ٍ) — ইখফা; মোটা হরফের আগে গুন্নাহ ভারী হয়।"},
+    {"ref":"73:5","focus":"قَوْلًا ثَقِيلًا","noteEn":"Tanween (ً) before ثَ — ikhfa: light nasal hiding, the thaa is not doubled.","noteBn":"ثَ-এর আগে তানউইন (ً) — ইখফা: হালকা গোপন, ثَ-তে শাদ্দা নেই।"},
+    {"ref":"80:2","focus":"أَن جَآءَهُ","noteEn":"نْ before جَ in أَن جَآءَهُ — ikhfa across words with ~2 counts of ghunnah.","noteBn":"جَ-এর আগে نْ — শব্দের সীমানা পেরিয়ে গুন্নাহসহ ইখফা।"},
+    {"ref":"86:5","focus":"فَلْيَنظُرِ","noteEn":"نْ before ظُ inside فَلْيَنظُرِ — ikhfa; keep the ghunnah heavy to match the ظ.","noteBn":"فَلْيَنظُرِ-তে ظُ-এর আগে نْ — ইখফা; ظ-এর সাথে মিলিয়ে গুন্নাহ ভারী।"}
   ],
 
   iqlab: [
@@ -459,6 +491,14 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '4:150', focus: 'أَن بَيْنَ',          noteEn: 'نْ before بَ across words — iqlab with ghunnah; do not merge fully (that would be idghaam).',  noteBn: 'أَن بَيْنَ-তে نْ before بَ — গুন্নাহসহ ইকলাব।' },
     { ref: '2:33',  focus: 'أَنۢبِئْهُم',         noteEn: 'Iqlab INSIDE one word — نْ before ب in أَنۢبِئْهُم; the small ۢ mark in the mushaf shows the conversion to a hidden meem.', noteBn: 'এক শব্দের ভিতরে ইকলাব — أَنۢبِئْهُم-এ ب-এর আগে نْ; মুসহাফের ছোট ۢ চিহ্ন গোপন মীমে রূপান্তর দেখায়।' },
     { ref: '104:4', focus: 'لَيُنۢبَذَنَّ',        noteEn: 'لَيُنۢبَذَنَّ — another within-word iqlab: the نْ turns into a nasal meem before ب, held with ghunnah ~2 counts.', noteBn: 'لَيُنۢبَذَنَّ — শব্দের ভিতরে আরেকটি ইকলাব: ب-এর আগে نْ নাকি মীমে বদলে যায়, ~২ হরকত গুন্নাহসহ।' },
+  
+    // v163 additions — 6 machine-verified examples
+    {"ref":"31:10","focus":"فَأَنۢبَتْنَا","noteEn":"نۢ before ب inside فَأَنۢبَتْنَا — the small م marks iqlab: read the noon as a light meem with ghunnah.","noteBn":"فَأَنۢبَتْنَا-তে ب-এর আগে نۢ — ছোট م চিহ্ন: নূন হালকা মীম হয়ে যায়, গুন্নাহসহ।"},
+    {"ref":"49:6","focus":"فَاسِقٌۢ بِنَبَإٍ","noteEn":"Tanween with small م (ٌۢ) before بِ — iqlab: the tanween-noon becomes meem, held with ghunnah.","noteBn":"بِ-এর আগে ছোট م-সহ তানউইন (ٌۢ) — ইকলাব: নূন মীমে পরিণত, গুন্নাহসহ।"},
+    {"ref":"86:7","focus":"مِنۢ بَيْنِ","noteEn":"نۢ before بَ in مِنۢ بَيْنِ — iqlab: pronounce a light meem, lips touching softly.","noteBn":"مِنۢ بَيْنِ-তে بَ-এর আগে نۢ — ইকলাব: হালকা মীম, ঠোঁট নরমভাবে স্পর্শ।"},
+    {"ref":"91:14","focus":"بِذَنۢبِهِمْ","noteEn":"نۢ before ب inside بِذَنۢبِهِمْ — iqlab within a single word, with 2-count ghunnah.","noteBn":"بِذَنۢبِهِمْ-তে ب-এর আগে نۢ — এক শব্দের ভিতরে ইকলাব, ২ হরকত গুন্নাহ।"},
+    {"ref":"92:8","focus":"مَنۢ بَخِلَ","noteEn":"نۢ before بَ in مَنۢ بَخِلَ — iqlab across the word boundary: noon turns into meem.","noteBn":"مَنۢ بَخِلَ-তে بَ-এর আগে نۢ — ইকলাব: নূন মীমে বদলে যায়।"},
+    {"ref":"96:15","focus":"لَنَسْفَعًۢا بِٱلنَّاصِيَةِ","noteEn":"Tanween with small م (ًۢ) before بِ — iqlab; keep the ghunnah while the lips close lightly.","noteBn":"بِ-এর আগে ছোট م-সহ তানউইন (ًۢ) — ইকলাব; ঠোঁট হালকা বন্ধ রেখে গুন্নাহ।"}
   ],
 
   idghaam_ghunnah: [
@@ -467,6 +507,14 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '4:56',  focus: 'عَذَابٌ مُهِينٌ',     noteEn: 'Tanween (ٌ) before مُ — idghaam with ghunnah across a word boundary.',                       noteBn: 'مُ-এর আগে তানউইন (ٌ) — গুন্নাহসহ ইদগাম।' },
     { ref: '16:93', focus: 'أُمَّةً وَاحِدَةً',   noteEn: 'Tanween (ً) before وَ — noon merges into waaw with ghunnah.',                                noteBn: 'وَ-এর আগে তানউইন (ً) — গুন্নাহসহ ওয়াওতে মিলন।' },
     { ref: '4:173', focus: 'مِن نَّعِيمٍ',         noteEn: 'نْ before نَ — noon merges into noon with ghunnah; shaddah appears on نَّ.',                  noteBn: 'نَ-এর আগে نْ — গুন্নাহসহ মিলন; نَّ-তে শাদ্দা।' },
+  
+    // v163 additions — 6 machine-verified examples
+    {"ref":"12:4","focus":"كَوْكَبًا وَٱلشَّمْسَ","noteEn":"Tanween (ً) before وَ — noon merges into the waaw with a 2-count ghunnah.","noteBn":"وَ-এর আগে তানউইন (ً) — গুন্নাহসহ ওয়াওতে মিলন।"},
+    {"ref":"18:2","focus":"شَدِيدًا مِّن","noteEn":"Tanween (ً) before مِّ — idghaam with ghunnah; note the shaddah on مِّ.","noteBn":"مِّ-এর আগে তানউইন (ً) — গুন্নাহসহ ইদগাম; مِّ-তে শাদ্দা লক্ষ করুন।"},
+    {"ref":"20:3","focus":"لِّمَن يَخْشَىٰ","noteEn":"نْ before يَ in لِّمَن يَخْشَىٰ — noon melts into the yaa with ghunnah.","noteBn":"يَ-এর আগে نْ — গুন্নাহসহ ইয়া-তে মিলন।"},
+    {"ref":"36:4","focus":"صِرَٰطٍ مُّسْتَقِيمٍ","noteEn":"Tanween (ٍ) before مُّ — idghaam with ghunnah across the word boundary.","noteBn":"مُّ-এর আগে তানউইন (ٍ) — গুন্নাহসহ ইদগাম।"},
+    {"ref":"75:3","focus":"أَلَّن نَّجْمَعَ","noteEn":"نْ before نَّ in أَلَّن نَّجْمَعَ — noon merges into noon: one doubled noon with ghunnah.","noteBn":"نَّ-এর আগে نْ — দুই নূন মিশে এক مُشَدَّد নূন, গুন্নাহসহ।"},
+    {"ref":"78:13","focus":"سِرَاجًا وَهَّاجًا","noteEn":"Tanween (ً) before وَ in سِرَاجًا وَهَّاجًا — idghaam with ghunnah into the waaw.","noteBn":"وَ-এর আগে তানউইন (ً) — গুন্নাহসহ ওয়াওতে ইদগাম।"}
   ],
 
   idghaam_no_ghunnah: [
@@ -477,6 +525,14 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '2:5',   focus: 'مِن رَّبِّهِمْ',         noteEn: 'نْ before رَّ in هُدًى مِّن رَّبِّهِمْ — the noon vanishes completely into the raa; no nasal sound.', noteBn: 'مِن رَّبِّهِمْ-তে رَّ-এর আগে نْ — নূন রা-তে সম্পূর্ণ বিলীন; কোনো নাসাল নেই।' },
     { ref: '83:1',  focus: 'وَيْلٌ لِّلْمُطَفِّفِينَ', noteEn: 'Tanween (ٌ) before لِّ — full merger into laam with no ghunnah; the laam takes shaddah.',   noteBn: 'لِّ-এর আগে তানউইন (ٌ) — লামে সম্পূর্ণ মিলন, গুন্নাহ নেই; লামে শাদ্দা।' },
     { ref: '2:173', focus: 'غَفُورٌ رَّحِيمٌ',        noteEn: 'Tanween (ٌ) before رَّ — a pairing heard at dozens of verse ends: merge into raa, zero ghunnah.', noteBn: 'رَّ-এর আগে তানউইন (ٌ) — বহু আয়াত-শেষে শোনা জোড়া: রা-তে মিলন, গুন্নাহ শূন্য।' },
+  
+    // v163 additions — 6 machine-verified examples
+    {"ref":"39:2","focus":"مُخْلِصًا لَّهُ","noteEn":"Tanween (ً) before لَّ — idghaam without ghunnah: read one doubled laam, no nasal sound.","noteBn":"لَّ-এর আগে তানউইন (ً) — গুন্নাহ ছাড়া ইদগাম: একটিই مُشَدَّد লাম।"},
+    {"ref":"55:20","focus":"بَرْزَخٌ لَّا","noteEn":"Tanween (ٌ) before لَّا — the noon disappears completely into the laam; no ghunnah.","noteBn":"لَّا-এর আগে তানউইন (ٌ) — নূন লামে সম্পূর্ণ বিলীন; গুন্নাহ নেই।"},
+    {"ref":"56:3","focus":"خَافِضَةٌ رَّافِعَةٌ","noteEn":"Tanween (ٌ) before رَّ — idghaam without ghunnah into the raa; note the shaddah on رَّ.","noteBn":"رَّ-এর আগে তানউইন (ٌ) — গুন্নাহ ছাড়া রা-তে ইদগাম; رَّ-তে শাদ্দা।"},
+    {"ref":"90:6","focus":"مَالًا لُّبَدًا","noteEn":"Tanween (ً) before لُّ in مَالًا لُّبَدًا — full merger into the laam, no nasal hold.","noteBn":"لُّ-এর আগে তানউইন (ً) — লামে পূর্ণ মিলন, নাকি আওয়াজ নেই।"},
+    {"ref":"93:4","focus":"خَيْرٌ لَّكَ","noteEn":"Tanween (ٌ) before لَّ in خَيْرٌ لَّكَ — idghaam bila ghunnah: no pause, no nasal sound.","noteBn":"لَّ-এর আগে তানউইন (ٌ) — বিলা-গুন্নাহ ইদগাম: বিরতি বা নাকি আওয়াজ নেই।"},
+    {"ref":"96:7","focus":"أَن رَّءَاهُ","noteEn":"نْ before رَّ in أَن رَّءَاهُ — noon merges into the raa without any ghunnah.","noteBn":"رَّ-এর আগে نْ — কোনো গুন্নাহ ছাড়াই রা-তে মিলন।"}
   ],
 
   // ── Meem Sākinah ──────────────────────────────────────────────────────────
@@ -488,6 +544,14 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '105:4', focus: 'تَرْمِيهِم بِحِجَارَةٍ', noteEn: 'مْ before بِ in تَرْمِيهِم بِحِجَارَةٍ — ikhfa shafawi with ghunnah; a short-surah example easy to memorise.', noteBn: 'تَرْمِيهِم بِحِجَارَةٍ-তে بِ-এর আগে مْ — গুন্নাহসহ ইখফা শাফাবি; ছোট সূরার সহজ উদাহরণ।' },
     { ref: '3:101', focus: 'يَعْتَصِم بِاللَّهِ',    noteEn: 'مْ before بِ in وَمَن يَعْتَصِم بِاللَّهِ — light labial hiding; the lips do not press fully shut.', noteBn: 'يَعْتَصِم بِاللَّهِ-তে بِ-এর আগে مْ — ঠোঁটে হালকা গোপন; ঠোঁট পুরো চেপে বন্ধ নয়।' },
     { ref: '84:24', focus: 'فَبَشِّرْهُم بِعَذَابٍ', noteEn: 'مْ before بِ in فَبَشِّرْهُم بِعَذَابٍ — hold the ghunnah ~2 counts while the meem stays lightly hidden.', noteBn: 'فَبَشِّرْهُم بِعَذَابٍ-তে بِ-এর আগে مْ — মীম হালকা গোপন রেখে ~২ হরকত গুন্নাহ ধরুন।' },
+  
+    // v163 additions — 6 machine-verified examples
+    {"ref":"18:13","focus":"نَبَأَهُم بِٱلْحَقِّ","noteEn":"Meem sakinah before بِ in نَبَأَهُم بِٱلْحَقِّ — hide the meem lightly on the lips with ghunnah.","noteBn":"بِ-এর আগে মীম সাকিন — ঠোঁটে গুন্নাহসহ হালকা গোপন।"},
+    {"ref":"20:62","focus":"أَمْرَهُم بَيْنَهُمْ","noteEn":"مْ before بَ in أَمْرَهُم بَيْنَهُمْ — ikhfa shafawi: the lips barely close.","noteBn":"بَ-এর আগে مْ — ইখফা শাফাবি: ঠোঁট সামান্যই বন্ধ হয়।"},
+    {"ref":"67:12","focus":"رَبَّهُم بِٱلْغَيْبِ","noteEn":"مْ before بِ in يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ — a light labial hiding with ~2 counts of ghunnah.","noteBn":"بِ-এর আগে مْ — ঠোঁটে হালকা গোপন, ~২ হরকত গুন্নাহ।"},
+    {"ref":"79:14","focus":"هُم بِٱلسَّاهِرَةِ","noteEn":"مْ before بِ in فَإِذَا هُم بِٱلسَّاهِرَةِ — ikhfa shafawi; do not press the lips fully shut.","noteBn":"بِ-এর আগে مْ — ইখফা শাফাবি; ঠোঁট পুরো চেপে বন্ধ নয়।"},
+    {"ref":"88:22","focus":"عَلَيْهِم بِمُصَيْطِرٍ","noteEn":"مْ before بِ in لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ — labial hiding with ghunnah.","noteBn":"بِ-এর আগে مْ — গুন্নাহসহ ঠোঁটে গোপন।"},
+    {"ref":"100:11","focus":"رَبَّهُم بِهِمْ","noteEn":"مْ before بِ in إِنَّ رَبَّهُم بِهِمْ — a short-surah drill for ikhfa shafawi.","noteBn":"بِ-এর আগে مْ — ছোট সূরায় ইখফা শাফাবির অনুশীলন।"}
   ],
 
   idghaam_shafawi: [
@@ -498,6 +562,14 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '2:10',  focus: 'فِي قُلُوبِهِم مَّرَضٌ', noteEn: 'مْ before مَّ in قُلُوبِهِم مَّرَضٌ — the two meems fuse into one doubled meem with ~2-count ghunnah.', noteBn: 'قُلُوبِهِم مَّرَضٌ-তে مَّ-এর আগে مْ — দুই মীম মিশে এক مُشَدَّد মীম, ~২ হরকত গুন্নাহ।' },
     { ref: '106:4', focus: 'أَطْعَمَهُم مِّن جُوعٍ', noteEn: 'مْ before مِّ in أَطْعَمَهُم مِّن — idghaam shafawi in Surah Quraysh; keep the lips closed once through both meems.', noteBn: 'أَطْعَمَهُم مِّن-এ مِّ-এর আগে مْ — সূরা কুরাইশে ইদগাম শাফাবি; দুই মীম জুড়ে ঠোঁট একবারই বন্ধ থাকবে।' },
     { ref: '2:249', focus: 'كَم مِّن فِئَةٍ',        noteEn: 'مْ of كَم merges into مِّن — a frequent Quranic pairing (كَم مِّن / لَهُم مَّا): one long doubled meem with ghunnah.', noteBn: 'كَم-এর مْ مِّن-এ মিশে যায় — কোরআনে বহুবার আসা জোড়া: গুন্নাহসহ একটিই দীর্ঘ مُشَدَّد মীম।' },
+  
+    // v163 additions — 6 machine-verified examples
+    {"ref":"36:8","focus":"فَهُم مُّقْمَحُونَ","noteEn":"مْ before مُّ in فَهُم مُّقْمَحُونَ — two meems fuse into one doubled meem with ghunnah.","noteBn":"مُّ-এর আগে مْ — দুই মীম মিশে এক مُشَدَّد মীম, গুন্নাহসহ।"},
+    {"ref":"49:13","focus":"خَلَقْنَٰكُم مِّن","noteEn":"مْ before مِّ in خَلَقْنَٰكُم مِّن ذَكَرٍ — idghaam shafawi held ~2 counts.","noteBn":"مِّ-এর আগে مْ — ইদগাম শাফাবি, ~২ হরকত ধরুন।"},
+    {"ref":"67:16","focus":"ءَأَمِنتُم مَّن","noteEn":"مْ before مَّ in ءَأَمِنتُم مَّن — total labial merger; the lips close once for both meems.","noteBn":"مَّ-এর আগে مْ — সম্পূর্ণ মিলন; দুই মীমে ঠোঁট একবারই বন্ধ।"},
+    {"ref":"85:20","focus":"وَرَآئِهِم مُّحِيطٌۢ","noteEn":"مْ before مُّ in مِن وَرَآئِهِم مُّحِيطٌۢ — one long doubled meem with ghunnah.","noteBn":"مُّ-এর আগে مْ — গুন্নাহসহ একটিই দীর্ঘ مُشَدَّد মীম।"},
+    {"ref":"97:4","focus":"رَبِّهِم مِّن","noteEn":"مْ before مِّ in بِإِذْنِ رَبِّهِم مِّن — idghaam shafawi in Surah al-Qadr.","noteBn":"مِّ-এর আগে مْ — সূরা কদরে ইদগাম শাফাবি।"},
+    {"ref":"104:8","focus":"عَلَيْهِم مُّؤْصَدَةٌ","noteEn":"مْ before مُّ in إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ — merge with a steady 2-count ghunnah.","noteBn":"مُّ-এর আগে مْ — স্থির ২ হরকত গুন্নাহসহ মিলন।"}
   ],
 
   // ── Madd ──────────────────────────────────────────────────────────────────
@@ -671,6 +743,14 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '1:7',   focus: 'عَلَيْهِمْ غَيْرِ', noteEn: 'مْ before غَ across words — meem clear; note غ is a heavy letter but the meem stays light.',   noteBn: 'عَلَيْهِمْ before غَيْرِ — مْ স্পষ্ট, মীম হালকা।' },
     { ref: '112:3', focus: 'لَمْ يَلِدْ',       noteEn: 'مْ before يَ — a careful case: keep the meem clearly separate from the yaa, no ghunnah.',      noteBn: 'لَمْ before يَ — সতর্ক স্থান: মীম ইয়া থেকে আলাদা, গুন্নাহ নেই।' },
     { ref: '2:25',  focus: 'لَهُمْ فِيهَا',     noteEn: 'مْ before ف — the trickiest case: do NOT hide the meem into the faa; pronounce it clearly.',   noteBn: 'مْ before ف — কঠিনতম স্থান: মীমকে ف-এ গোপন করবেন না, স্পষ্ট রাখুন।' },
+  
+    // v163 additions — 6 machine-verified examples
+    {"ref":"36:6","focus":"ءَابَآؤُهُمْ فَهُمْ","noteEn":"مْ before فَ — the trickiest case: keep the meem clear, never hidden into the faa.","noteBn":"فَ-এর আগে مْ — কঠিনতম স্থান: মীম স্পষ্ট, ف-এ গোপন নয়।"},
+    {"ref":"56:17","focus":"عَلَيْهِمْ وِلْدَٰنٌ","noteEn":"مْ before وِ — take special care: lips share the same spot, but the meem stays fully clear.","noteBn":"وِ-এর আগে مْ — বিশেষ সতর্কতা: একই ঠোঁটের হরফ হলেও মীম সম্পূর্ণ স্পষ্ট।"},
+    {"ref":"73:10","focus":"وَٱهْجُرْهُمْ هَجْرًا","noteEn":"مْ before هَ in وَٱهْجُرْهُمْ هَجْرًا — clear izhar shafawi, no ghunnah.","noteBn":"هَ-এর আগে مْ — স্পষ্ট ইযহার শাফাবি, গুন্নাহ নেই।"},
+    {"ref":"82:10","focus":"عَلَيْكُمْ لَحَٰفِظِينَ","noteEn":"مْ before لَ — pronounce the meem clearly and move on; no nasal hold.","noteBn":"لَ-এর আগে مْ — মীম স্পষ্ট উচ্চারণ করে এগিয়ে যান; নাকি টান নেই।"},
+    {"ref":"86:15","focus":"إِنَّهُمْ يَكِيدُونَ","noteEn":"مْ before يَ in إِنَّهُمْ يَكِيدُونَ — keep the meem clearly separate from the yaa.","noteBn":"يَ-এর আগে مْ — মীমকে ইয়া থেকে স্পষ্টভাবে আলাদা রাখুন।"},
+    {"ref":"88:6","focus":"لَهُمْ طَعَامٌ","noteEn":"مْ before طَ in لَّيْسَ لَهُمْ طَعَامٌ — izhar shafawi: the meem stays light before the heavy طَ.","noteBn":"طَ-এর আগে مْ — ইযহার শাফাবি: মোটা طَ-এর আগেও মীম হালকা ও স্পষ্ট।"}
   ],
 
   // ── Idghām of two identical letters ─────────────────────────────────────────
