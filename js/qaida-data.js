@@ -341,6 +341,367 @@ const KIDS_THEME_WORDS = [
       { arabic: 'شَهْر',   translit: 'Shahr', emoji: '🗓️', meaning: { en: 'Month', bn: 'মাস', zh: '月份', ja: 'ひと月' },        ref: '2:185', hl: 'شَهْرُ' },
       { arabic: 'سَنَة',   translit: 'Sanah', emoji: '🎆', meaning: { en: 'Year', bn: 'বছর', zh: '年', ja: '年' },              ref: '29:14', hl: 'سَنَةٍ' }
     ]
+  },
+  // v156 additions — 4 theme word sets (2026-07-28)
+  {
+    "id": "worship",
+    "emoji": "🤲",
+    "label": {
+      "en": "Worship",
+      "bn": "ইবাদত",
+      "zh": "功修",
+      "ja": "礼拝行"
+    },
+    "words": [
+      {
+        "arabic": "صَلَاة",
+        "translit": "Salah",
+        "emoji": "🧎",
+        "meaning": {
+          "en": "Prayer",
+          "bn": "নামাজ (সালাত)",
+          "zh": "礼拜",
+          "ja": "礼拝"
+        },
+        "ref": "2:3",
+        "hl": "ٱلصَّلَوٰةَ"
+      },
+      {
+        "arabic": "صِيَام",
+        "translit": "Siyam",
+        "emoji": "🌙",
+        "meaning": {
+          "en": "Fasting",
+          "bn": "রোজা (সিয়াম)",
+          "zh": "斋戒",
+          "ja": "断食"
+        },
+        "ref": "2:183",
+        "hl": "ٱلصِّيَامُ"
+      },
+      {
+        "arabic": "زَكَاة",
+        "translit": "Zakah",
+        "emoji": "💝",
+        "meaning": {
+          "en": "Charity (Zakah)",
+          "bn": "যাকাত",
+          "zh": "天课（施舍）",
+          "ja": "喜捨（ザカート）"
+        },
+        "ref": "2:43",
+        "hl": "ٱلزَّكَوٰةَ"
+      },
+      {
+        "arabic": "حَجّ",
+        "translit": "Hajj",
+        "emoji": "🕋",
+        "meaning": {
+          "en": "Pilgrimage",
+          "bn": "হজ",
+          "zh": "朝觐",
+          "ja": "巡礼（ハッジ）"
+        },
+        "ref": "3:97",
+        "hl": "حِجُّ"
+      },
+      {
+        "arabic": "دُعَاء",
+        "translit": "Du'a",
+        "emoji": "🤲",
+        "meaning": {
+          "en": "Supplication",
+          "bn": "দোয়া",
+          "zh": "祈祷",
+          "ja": "祈願（ドゥアー）"
+        },
+        "ref": "14:39",
+        "hl": "ٱلدُّعَآءِ"
+      },
+      {
+        "arabic": "سُجُود",
+        "translit": "Sujud",
+        "emoji": "🙇",
+        "meaning": {
+          "en": "Prostration",
+          "bn": "সিজদা",
+          "zh": "叩拜",
+          "ja": "跪拝（サジダ）"
+        },
+        "ref": "2:125",
+        "hl": "ٱلسُّجُودِ"
+      }
+    ]
+  },
+  {
+    "id": "feelings",
+    "emoji": "💗",
+    "label": {
+      "en": "Feelings",
+      "bn": "অনুভূতি",
+      "zh": "感受",
+      "ja": "気持ち"
+    },
+    "words": [
+      {
+        "arabic": "صَبْر",
+        "translit": "Sabr",
+        "emoji": "😌",
+        "meaning": {
+          "en": "Patience",
+          "bn": "ধৈর্য (সবর)",
+          "zh": "耐心",
+          "ja": "忍耐"
+        },
+        "ref": "2:153",
+        "hl": "بِٱلصَّبْرِ"
+      },
+      {
+        "arabic": "شُكْر",
+        "translit": "Shukr",
+        "emoji": "🙏",
+        "meaning": {
+          "en": "Gratitude",
+          "bn": "কৃতজ্ঞতা (শোকর)",
+          "zh": "感恩",
+          "ja": "感謝"
+        },
+        "ref": "14:7",
+        "hl": "شَكَرْتُمْ"
+      },
+      {
+        "arabic": "حُبّ",
+        "translit": "Hubb",
+        "emoji": "💕",
+        "meaning": {
+          "en": "Love",
+          "bn": "ভালোবাসা",
+          "zh": "爱",
+          "ja": "愛"
+        },
+        "ref": "2:165",
+        "hl": "حُبًّا"
+      },
+      {
+        "arabic": "خَوْف",
+        "translit": "Khawf",
+        "emoji": "😨",
+        "meaning": {
+          "en": "Fear",
+          "bn": "ভয়",
+          "zh": "害怕",
+          "ja": "恐れ"
+        },
+        "ref": "2:38",
+        "hl": "خَوْفٌ"
+      },
+      {
+        "arabic": "فَرَح",
+        "translit": "Farah",
+        "emoji": "😄",
+        "meaning": {
+          "en": "Joy",
+          "bn": "আনন্দ",
+          "zh": "快乐",
+          "ja": "喜び"
+        },
+        "ref": "3:170",
+        "hl": "فَرِحِينَ"
+      },
+      {
+        "arabic": "حُزْن",
+        "translit": "Huzn",
+        "emoji": "😢",
+        "meaning": {
+          "en": "Sadness",
+          "bn": "দুঃখ",
+          "zh": "悲伤",
+          "ja": "悲しみ"
+        },
+        "ref": "12:86",
+        "hl": "وَحُزْنِىٓ"
+      }
+    ]
+  },
+  {
+    "id": "fruits-veggies",
+    "emoji": "🥕",
+    "label": {
+      "en": "Fruits & Veggies",
+      "bn": "ফল ও সবজি",
+      "zh": "果蔬",
+      "ja": "野菜と果物"
+    },
+    "words": [
+      {
+        "arabic": "رُطَب",
+        "translit": "Rutab",
+        "emoji": "🌴",
+        "meaning": {
+          "en": "Fresh ripe dates",
+          "bn": "তাজা পাকা খেজুর",
+          "zh": "鲜熟椰枣",
+          "ja": "熟したナツメヤシ"
+        },
+        "ref": "19:25",
+        "hl": "رُطَبًا"
+      },
+      {
+        "arabic": "يَقْطِين",
+        "translit": "Yaqtin",
+        "emoji": "🎃",
+        "meaning": {
+          "en": "Gourd (squash)",
+          "bn": "লাউ-কুমড়া",
+          "zh": "葫芦瓜",
+          "ja": "ひょうたん（ウリ）"
+        },
+        "ref": "37:146",
+        "hl": "يَقْطِينٍ"
+      },
+      {
+        "arabic": "زَنجَبِيل",
+        "translit": "Zanjabil",
+        "emoji": "🫚",
+        "meaning": {
+          "en": "Ginger",
+          "bn": "আদা",
+          "zh": "姜",
+          "ja": "生姜"
+        },
+        "ref": "76:17",
+        "hl": "زَنجَبِيلًا"
+      },
+      {
+        "arabic": "قِثَّاء",
+        "translit": "Qiththa'",
+        "emoji": "🥒",
+        "meaning": {
+          "en": "Cucumber",
+          "bn": "শসা",
+          "zh": "黄瓜",
+          "ja": "きゅうり"
+        },
+        "ref": "2:61",
+        "hl": "وَقِثَّآئِهَا"
+      },
+      {
+        "arabic": "عَدَس",
+        "translit": "'Adas",
+        "emoji": "🫘",
+        "meaning": {
+          "en": "Lentils",
+          "bn": "মসুর ডাল",
+          "zh": "扁豆",
+          "ja": "レンズ豆"
+        },
+        "ref": "2:61",
+        "hl": "وَعَدَسِهَا"
+      },
+      {
+        "arabic": "بَصَل",
+        "translit": "Basal",
+        "emoji": "🧅",
+        "meaning": {
+          "en": "Onion",
+          "bn": "পেঁয়াজ",
+          "zh": "洋葱",
+          "ja": "玉ねぎ"
+        },
+        "ref": "2:61",
+        "hl": "وَبَصَلِهَا"
+      }
+    ]
+  },
+  {
+    "id": "prophets",
+    "emoji": "🕊️",
+    "label": {
+      "en": "Prophets",
+      "bn": "নবীগণ",
+      "zh": "先知",
+      "ja": "預言者"
+    },
+    "words": [
+      {
+        "arabic": "آدَم",
+        "translit": "Adam",
+        "emoji": "🌍",
+        "meaning": {
+          "en": "Prophet Adam",
+          "bn": "নবী আদম (আ.)",
+          "zh": "先知阿丹（亚当）",
+          "ja": "預言者アーダム"
+        },
+        "ref": "2:31",
+        "hl": "ءَادَمَ"
+      },
+      {
+        "arabic": "نُوح",
+        "translit": "Nuh",
+        "emoji": "⛵",
+        "meaning": {
+          "en": "Prophet Nuh (Noah)",
+          "bn": "নবী নূহ (আ.)",
+          "zh": "先知努哈（诺亚）",
+          "ja": "預言者ヌーフ（ノア）"
+        },
+        "ref": "71:1",
+        "hl": "نُوحًا"
+      },
+      {
+        "arabic": "إِبْرَاهِيم",
+        "translit": "Ibrahim",
+        "emoji": "🕋",
+        "meaning": {
+          "en": "Prophet Ibrahim (Abraham)",
+          "bn": "নবী ইব্রাহীম (আ.)",
+          "zh": "先知易卜拉欣",
+          "ja": "預言者イブラーヒーム"
+        },
+        "ref": "2:124",
+        "hl": "إِبْرَٰهِۦمَ"
+      },
+      {
+        "arabic": "مُوسَى",
+        "translit": "Musa",
+        "emoji": "🌊",
+        "meaning": {
+          "en": "Prophet Musa (Moses)",
+          "bn": "নবী মূসা (আ.)",
+          "zh": "先知穆萨（摩西）",
+          "ja": "預言者ムーサー（モーセ）"
+        },
+        "ref": "2:51",
+        "hl": "مُوسَىٰٓ"
+      },
+      {
+        "arabic": "عِيسَى",
+        "translit": "'Isa",
+        "emoji": "✨",
+        "meaning": {
+          "en": "Prophet Isa (Jesus)",
+          "bn": "নবী ঈসা (আ.)",
+          "zh": "先知尔撒（耶稣）",
+          "ja": "預言者イーサー（イエス）"
+        },
+        "ref": "3:45",
+        "hl": "عِيسَى"
+      },
+      {
+        "arabic": "مُحَمَّد",
+        "translit": "Muhammad",
+        "emoji": "🕌",
+        "meaning": {
+          "en": "Prophet Muhammad ﷺ",
+          "bn": "নবী মুহাম্মাদ ﷺ",
+          "zh": "先知穆罕默德 ﷺ",
+          "ja": "預言者ムハンマド ﷺ"
+        },
+        "ref": "3:144",
+        "hl": "مُحَمَّدٌ"
+      }
+    ]
   }
 ];
 
@@ -827,6 +1188,194 @@ const KIDS_STORIES = [
       bn: "দোয়া হলো মুমিনের সবচেয়ে শক্তিশালী হাতিয়ার। পুরো ভরসা নিয়ে পরিবারের জন্য দোয়া করো — আল্লাহ সবসময় শোনেন।"
     },
     refs: ['2:186', '40:60']
+  },
+  // v156 additions — 10 Quran-narrative stories (2026-07-28)
+  {
+    "id": "dhul-qarnayn-wall",
+    "title": {
+      "en": "Dhul-Qarnayn and the Iron Wall",
+      "bn": "জুলকারনাইন ও লোহার প্রাচীর"
+    },
+    "summary": {
+      "en": "Allah gave a righteous ruler called Dhul-Qarnayn power on earth and a way to everything. He travelled far to the west, where he found the sun setting near a murky spring, and far to the east. Then, between two mountains, he met a people who could hardly understand speech. They begged: 'Yajuj and Majuj spread mischief in the land — may we pay you to build a barrier between us and them?' He refused the money: 'What my Lord has given me is better. Just help me with your strength.' They brought blocks of iron until the gap was filled; he said 'Blow!' until it glowed like fire, then poured molten copper over it. The wall could not be climbed or pierced. Dhul-Qarnayn did not boast. He said: 'This is a mercy from my Lord — and when my Lord's promise comes, He will level it.'",
+      "bn": "আল্লাহ জুলকারনাইন নামের এক নেককার শাসককে পৃথিবীতে ক্ষমতা দিলেন এবং সবকিছুর উপায় দিলেন। তিনি সফর করে পশ্চিমে গেলেন — দেখলেন সূর্য যেন এক ঘোলা জলাশয়ে অস্ত যাচ্ছে — তারপর গেলেন পূর্বে। এরপর দুই পাহাড়ের মাঝে এমন এক জাতির দেখা পেলেন, যারা কথা প্রায় বুঝতই না। তারা অনুরোধ করল: 'ইয়াজুজ-মাজুজ জমিনে ফাসাদ করে — আমরা কি আপনাকে কর দেব, যাতে আপনি আমাদের ও তাদের মাঝে একটি প্রাচীর বানিয়ে দেন?' তিনি টাকা নিতে অস্বীকার করলেন: 'আমার রব আমাকে যা দিয়েছেন তা-ই উত্তম। তোমরা শুধু শক্তি দিয়ে সাহায্য করো।' তারা লোহার পাত আনল, ফাঁক ভরাট হলো; তিনি বললেন 'ফুঁ দাও!' — লোহা আগুনের মতো লাল হলো, তারপর তিনি তাতে গলিত তামা ঢেলে দিলেন। সেই প্রাচীর টপকানোও যেত না, ফুটো করাও যেত না। জুলকারনাইন অহংকার করলেন না। বললেন: 'এ আমার রবের রহমত — আমার রবের ওয়াদা এলে তিনি একে চূর্ণ করে দেবেন।'"
+    },
+    "moral": {
+      "en": "Use your strength and skills to help others, and never take the credit — every good thing we do is a mercy from Allah.",
+      "bn": "নিজের শক্তি ও দক্ষতা দিয়ে মানুষের উপকার করো, আর কৃতিত্ব নিজে নিও না — আমাদের প্রতিটি ভালো কাজ আসলে আল্লাহর রহমত।"
+    },
+    "refs": [
+      "18:83-98"
+    ]
+  },
+  {
+    "id": "saba-flood",
+    "title": {
+      "en": "The Gardens of Saba",
+      "bn": "সাবার বাগানসমূহ"
+    },
+    "summary": {
+      "en": "The people of Saba had a beautiful sign from Allah right where they lived: two lush gardens, one on the right and one on the left. Allah told them: 'Eat from the provision of your Lord and be grateful to Him — a good land and a forgiving Lord!' They also had safe, easy journeys between blessed towns. But instead of saying thank you, they turned away from Allah. So Allah sent upon them the flood of the dam, and their two wonderful gardens were exchanged for gardens of bitter fruit, tamarisk bushes, and only a few lote trees. Their easy life scattered, and they became a story people tell. The Quran says this was the reward of their ingratitude — for Allah only punishes like this those who refuse to be thankful.",
+      "bn": "সাবার লোকদের জন্য তাদের বাসভূমিতেই আল্লাহর এক সুন্দর নিদর্শন ছিল: ডানে ও বামে দুটি সবুজ বাগান। আল্লাহ বললেন: 'তোমাদের রবের রিজিক খাও আর তাঁর শুকরিয়া আদায় করো — কত ভালো এই দেশ, আর ক্ষমাশীল রব!' বরকতময় শহরগুলোর মাঝে তাদের সফরও ছিল সহজ ও নিরাপদ। কিন্তু কৃতজ্ঞ হওয়ার বদলে তারা আল্লাহ থেকে মুখ ফিরিয়ে নিল। তখন আল্লাহ তাদের উপর বাঁধভাঙা বন্যা পাঠালেন, আর তাদের চমৎকার দুই বাগানের বদলে দিলেন তেতো ফলের বাগান, ঝাউগাছ আর অল্প কিছু কুলগাছ। তাদের আরামের জীবন ছিন্নভিন্ন হয়ে গেল, তারা হয়ে গেল লোকমুখের গল্প। কুরআন বলে, এ ছিল তাদের অকৃতজ্ঞতার প্রতিফল — অকৃতজ্ঞদেরই আল্লাহ এমন শাস্তি দেন।"
+    },
+    "moral": {
+      "en": "Blessings stay with gratitude. Say Alhamdulillah for your food, home, and safety — being ungrateful can make blessings disappear.",
+      "bn": "কৃতজ্ঞতায় নিয়ামত টিকে থাকে। খাবার, ঘর ও নিরাপত্তার জন্য আলহামদুলিল্লাহ বলো — অকৃতজ্ঞতা নিয়ামত কেড়ে নিতে পারে।"
+    },
+    "refs": [
+      "34:15-19"
+    ]
+  },
+  {
+    "id": "qarun-treasure",
+    "title": {
+      "en": "Qarun and His Heavy Keys",
+      "bn": "কারুন ও তার ভারী চাবিগুলো"
+    },
+    "summary": {
+      "en": "Qarun was from the people of Prophet Musa, but he treated them unfairly. Allah had given him so much treasure that even the keys to his storerooms were a heavy load for a band of strong men! His people gave him kind advice: 'Do not show off — Allah does not love those who boast. Use what Allah gave you to earn the home of the Hereafter, but don't forget your share of this world. Do good, as Allah has done good to you.' Qarun answered proudly: 'I was only given all this because of knowledge I have.' One day he paraded before the people in all his glitter, and some wished to be just like him. Then Allah caused the earth to swallow Qarun and his house. No one could help him — and those who had envied him realised that all provision truly comes from Allah.",
+      "bn": "কারুন ছিল নবী মূসার জাতিরই একজন, কিন্তু সে তাদের উপর বাড়াবাড়ি করত। আল্লাহ তাকে এত ধনভান্ডার দিয়েছিলেন যে তার গুদামের চাবিগুলো বইতেই একদল শক্তিশালী লোকের কষ্ট হতো! তার জাতির লোকেরা তাকে ভালো উপদেশ দিল: 'দেমাগ দেখিও না — আল্লাহ অহংকারীদের ভালোবাসেন না। আল্লাহ যা দিয়েছেন তা দিয়ে আখিরাতের ঘর খোঁজো, তবে দুনিয়ার অংশও ভুলো না। ভালো করো, যেমন আল্লাহ তোমার প্রতি ভালো করেছেন।' কারুন গর্ব করে বলল: 'এসব তো আমি আমার জ্ঞানের জোরেই পেয়েছি।' একদিন সে জাঁকজমকে সেজে মানুষের সামনে বের হলো; কেউ কেউ তার মতো হতে চাইল। তখন আল্লাহ কারুনকে তার বাড়িসহ মাটিতে ধসিয়ে দিলেন। কেউ তাকে বাঁচাতে পারল না — আর যারা হিংসা করেছিল তারা বুঝল, রিজিক সত্যিই কেবল আল্লাহর কাছ থেকে আসে।"
+    },
+    "moral": {
+      "en": "Never boast about what you have — money, toys, or talents. Everything is a gift from Allah, so be humble and generous.",
+      "bn": "যা আছে তা নিয়ে কখনো অহংকার কোরো না — টাকা, খেলনা বা প্রতিভা। সবই আল্লাহর উপহার, তাই বিনয়ী ও দানশীল হও।"
+    },
+    "refs": [
+      "28:76-82"
+    ]
+  },
+  {
+    "id": "people-of-the-garden",
+    "title": {
+      "en": "The Garden That Burned at Night",
+      "bn": "রাতে পুড়ে যাওয়া বাগান"
+    },
+    "summary": {
+      "en": "Some brothers owned a rich garden. They swore they would pick all its fruit early in the morning — and they did not say 'if Allah wills.' They even whispered a plan: 'Let no poor person come in to us today!' But while they slept, a visitation from their Lord swept over the garden, and by morning it was black, like a field already harvested. At dawn they called each other: 'Hurry to your crop if you are going to pick it!' When they saw the garden they cried: 'We must be lost — no, we have been left with nothing!' The most balanced of them said: 'Did I not tell you? Why do you not glorify Allah?' They said: 'Glory be to our Lord — truly we were wrongdoers,' and stopped blaming each other, hoping their Lord would give them something better in exchange.",
+      "bn": "কয়েক ভাইয়ের একটি সমৃদ্ধ বাগান ছিল। তারা কসম করল, ভোরবেলাই সব ফল পেড়ে ফেলবে — আর 'ইনশাআল্লাহ' বলল না। এমনকি ফিসফিস করে ফন্দি আঁটল: 'আজ যেন কোনো গরিব মানুষ আমাদের কাছে ঢুকতে না পারে!' কিন্তু তারা ঘুমিয়ে থাকতেই তাদের রবের পক্ষ থেকে এক বিপদ বাগানের উপর দিয়ে ঘুরে গেল — সকালে বাগানটি হয়ে গেল কালো, যেন কাটা-শেষ ক্ষেত। ভোরে তারা ডাকাডাকি করল: 'ফল পাড়তে চাইলে তাড়াতাড়ি ক্ষেতে চলো!' বাগান দেখে তারা চিৎকার করে উঠল: 'আমরা নিশ্চয়ই পথ ভুল করেছি — না, আমরা তো সব হারিয়েছি!' তাদের মধ্যে সবচেয়ে বিবেচকজন বলল: 'আমি কি বলিনি? তোমরা কেন আল্লাহর তাসবিহ পড়ো না?' তারা বলল: 'আমাদের রব পবিত্র — সত্যিই আমরা জালিম ছিলাম।' দোষাদোষি থামিয়ে তারা আশা করল, তাদের রব এর বদলে আরও ভালো কিছু দেবেন।"
+    },
+    "moral": {
+      "en": "Always say Insha'Allah when you plan, and never plan to keep the poor away from your blessings — share, and Allah gives more.",
+      "bn": "পরিকল্পনার সময় সবসময় 'ইনশাআল্লাহ' বলো, আর গরিবদের বঞ্চিত করার ফন্দি কোরো না — ভাগ করে দাও, আল্লাহ আরও বাড়িয়ে দেবেন।"
+    },
+    "refs": [
+      "68:17-33"
+    ]
+  },
+  {
+    "id": "salih-she-camel",
+    "title": {
+      "en": "The She-Camel of Prophet Salih",
+      "bn": "নবী সালিহের উটনী"
+    },
+    "summary": {
+      "en": "The people of Thamud were strong builders who carved houses out of mountains. Allah sent them Prophet Salih, who said: 'Worship Allah — you have no god but Him. A clear sign has come to you: this is the she-camel of Allah, a sign for you. Let her eat freely in Allah's earth, and do not touch her with any harm, or a painful punishment will seize you.' Even the water was shared fairly: the camel had her drinking day, and the people had theirs. But the proud people disobeyed. The most wretched man among them rose up, and they cruelly cut down the she-camel. Then the punishment Salih warned about came true — a mighty blast and trembling seized the wrongdoers, and morning found them fallen in their homes. Salih had told the truth all along.",
+      "bn": "সামুদ জাতি ছিল শক্তিশালী কারিগর — পাহাড় কেটে তারা ঘর বানাত। আল্লাহ তাদের কাছে নবী সালিহকে পাঠালেন। তিনি বললেন: 'আল্লাহর ইবাদত করো — তিনি ছাড়া তোমাদের কোনো উপাস্য নেই। তোমাদের কাছে স্পষ্ট নিদর্শন এসেছে: এটি আল্লাহর উটনী, তোমাদের জন্য এক নিদর্শন। একে আল্লাহর জমিনে চরে খেতে দাও, আর একে কোনো কষ্ট দিও না — নইলে যন্ত্রণাদায়ক শাস্তি তোমাদের ধরবে।' এমনকি পানিও ন্যায্যভাবে ভাগ ছিল: একদিন উটনীর পানের পালা, একদিন লোকদের। কিন্তু অহংকারী লোকেরা অমান্য করল। তাদের সবচেয়ে হতভাগা লোকটি উঠে দাঁড়াল, আর তারা নির্মমভাবে উটনীটিকে মেরে ফেলল। তখন সালিহের সতর্কবাণী সত্য হলো — এক প্রচণ্ড গর্জন ও কম্পন জালিমদের গ্রাস করল, সকালে তারা নিজেদের ঘরে উপুড় হয়ে পড়ে রইল। সালিহ শুরু থেকেই সত্য বলছিলেন।"
+    },
+    "moral": {
+      "en": "Allah's creatures must never be harmed. Listening to Allah's messengers protects us; cruelty and arrogance destroy us.",
+      "bn": "আল্লাহর সৃষ্টিকে কখনো কষ্ট দেওয়া যাবে না। আল্লাহর রাসূলদের কথা শুনলে আমরা নিরাপদ থাকি; নিষ্ঠুরতা আর অহংকার ধ্বংস ডেকে আনে।"
+    },
+    "refs": [
+      "7:73-79",
+      "91:11-15",
+      "54:27-31"
+    ]
+  },
+  {
+    "id": "table-from-heaven",
+    "title": {
+      "en": "The Table from Heaven",
+      "bn": "আসমান থেকে খাবারের দস্তরখান"
+    },
+    "summary": {
+      "en": "The disciples of Prophet Isa once asked him: 'Can your Lord send down to us a table spread with food from heaven?' Isa reminded them: 'Fear Allah, if you are believers.' They explained their wish: 'We want to eat from it so our hearts feel sure, so we know you have told us the truth, and so we can be witnesses to it.' So Isa, son of Maryam, prayed: 'O Allah, our Lord! Send down to us a table from heaven, to be a feast for the first of us and the last of us, and a sign from You. Give us provision — You are the best of providers.' Allah answered: 'I will send it down to you. But whoever among you disbelieves after that, I will punish him as I have not punished anyone in the worlds.' A great gift brings a great trust.",
+      "bn": "নবী ঈসার হাওয়ারিরা একবার জিজ্ঞেস করল: 'আপনার রব কি আসমান থেকে আমাদের জন্য খাবারভরা এক দস্তরখান নামিয়ে দিতে পারেন?' ঈসা মনে করিয়ে দিলেন: 'আল্লাহকে ভয় করো, যদি তোমরা মুমিন হও।' তারা তাদের ইচ্ছার কথা বলল: 'আমরা তা থেকে খেতে চাই, যেন আমাদের অন্তর প্রশান্ত হয়, যেন জানি আপনি সত্য বলেছেন, আর আমরা এর সাক্ষী হতে পারি।' তখন মারইয়ামের পুত্র ঈসা দোয়া করলেন: 'হে আল্লাহ, আমাদের রব! আসমান থেকে আমাদের জন্য এক দস্তরখান নামিয়ে দিন — যা আমাদের প্রথম ও শেষ সবার জন্য হবে এক আনন্দ-উৎসব, আর আপনার পক্ষ থেকে এক নিদর্শন। আমাদের রিজিক দিন — আপনিই সর্বোত্তম রিজিকদাতা।' আল্লাহ জবাব দিলেন: 'আমি তা নামিয়ে দেব। কিন্তু এরপর তোমাদের কেউ অবিশ্বাস করলে তাকে এমন শাস্তি দেব, যা দুনিয়ার কাউকে দিইনি।' বড় উপহারের সাথে আসে বড় দায়িত্ব।"
+    },
+    "moral": {
+      "en": "Allah hears our prayers and provides for us. But when Allah gives us a special blessing, we must be extra thankful and faithful.",
+      "bn": "আল্লাহ আমাদের দোয়া শোনেন এবং রিজিক দেন। কিন্তু আল্লাহ বিশেষ নিয়ামত দিলে আমাদের আরও বেশি কৃতজ্ঞ ও বিশ্বস্ত হতে হয়।"
+    },
+    "refs": [
+      "5:112-115"
+    ]
+  },
+  {
+    "id": "zakariyya-dua",
+    "title": {
+      "en": "Zakariyya's Quiet Prayer",
+      "bn": "জাকারিয়ার নীরব দোয়া"
+    },
+    "summary": {
+      "en": "Prophet Zakariyya grew old without a child. He did not give up — he called his Lord with a quiet, secret prayer: 'My Lord, my bones have grown weak and my head glistens with white hair, yet I have never been disappointed in praying to You. Give me from Yourself an heir who will carry on the work and be pleasing to You.' Allah answered with wonderful news: 'We give you good tidings of a boy whose name will be Yahya — We have not given this name to anyone before.' Zakariyya asked in wonder: 'How can I have a boy when my wife cannot have children and I am so old?' Allah said: 'It is easy for Me — I created you before, when you were nothing.' As a sign, Zakariyya did not speak to people for three nights, and he came out and signalled to them: glorify Allah morning and evening.",
+      "bn": "নবী জাকারিয়া বৃদ্ধ হয়ে গেলেন, কিন্তু কোনো সন্তান ছিল না। তিনি হাল ছাড়লেন না — নীরবে, গোপনে রবকে ডাকলেন: 'হে আমার রব, আমার হাড় দুর্বল হয়ে গেছে, মাথা সাদা চুলে ঝিকমিক করছে, তবু আপনার কাছে দোয়া করে আমি কখনো নিরাশ হইনি। আপনার পক্ষ থেকে আমাকে এমন এক উত্তরাধিকারী দিন, যে এই দায়িত্ব বহন করবে আর আপনার প্রিয় হবে।' আল্লাহ চমৎকার সুসংবাদ দিলেন: 'আমরা তোমাকে এক পুত্রের সুখবর দিচ্ছি, যার নাম হবে ইয়াহইয়া — এই নাম আগে কাউকে দিইনি।' জাকারিয়া অবাক হয়ে বললেন: 'কীভাবে আমার ছেলে হবে? আমার স্ত্রী বন্ধ্যা, আর আমি এত বৃদ্ধ!' আল্লাহ বললেন: 'এ আমার জন্য সহজ — আগে তো তোমাকেও সৃষ্টি করেছি, যখন তুমি কিছুই ছিলে না।' নিদর্শন হিসেবে জাকারিয়া তিন রাত মানুষের সাথে কথা বললেন না; তিনি বেরিয়ে এসে ইশারায় বললেন: সকাল-সন্ধ্যায় আল্লাহর তাসবিহ পড়ো।"
+    },
+    "moral": {
+      "en": "No dua is too big for Allah, and no whisper is too quiet for Him to hear. Keep asking Allah with hope — He can do anything.",
+      "bn": "কোনো দোয়াই আল্লাহর কাছে বেশি বড় নয়, কোনো ফিসফিসও তাঁর শোনার জন্য বেশি ছোট নয়। আশা নিয়ে আল্লাহর কাছে চাইতে থাকো — তিনি সব পারেন।"
+    },
+    "refs": [
+      "19:2-11",
+      "3:38-41"
+    ]
+  },
+  {
+    "id": "talut-jalut",
+    "title": {
+      "en": "Talut, the River Test, and Young Dawud",
+      "bn": "তালুত, নদীর পরীক্ষা ও তরুণ দাউদ"
+    },
+    "summary": {
+      "en": "After the time of Musa, the Children of Israel asked their prophet for a king so they could fight in Allah's way. Allah chose Talut. Some grumbled — Talut was not rich! Their prophet answered: 'Allah has chosen him over you and increased him in knowledge and strength.' As Talut marched out with his soldiers, he said: 'Allah will test you with a river. Whoever drinks from it is not with me — except a sip scooped with the hand.' Most of them drank their fill and dropped out. The small, faithful group crossed and said: 'How often a small company has beaten a large company by Allah's permission! Allah is with the patient.' They prayed: 'Our Lord, pour patience upon us and make our feet firm.' By Allah's permission they won — and young Dawud killed the mighty Jalut. Allah later gave Dawud kingship and wisdom.",
+      "bn": "মূসার যুগের পরে বনী ইসরাঈল তাদের নবীর কাছে একজন রাজা চাইল, যেন আল্লাহর পথে লড়তে পারে। আল্লাহ তালুতকে বেছে নিলেন। কেউ কেউ অসন্তুষ্ট হলো — তালুত তো ধনী নন! তাদের নবী বললেন: 'আল্লাহই তাকে তোমাদের উপর বেছে নিয়েছেন এবং তাকে জ্ঞানে ও দেহে বাড়তি শক্তি দিয়েছেন।' সৈন্যদল নিয়ে রওনা হয়ে তালুত বললেন: 'আল্লাহ একটি নদী দিয়ে তোমাদের পরীক্ষা করবেন। যে তা থেকে পান করবে সে আমার দলে নয় — তবে এক আঁজলা পানি নিলে ক্ষতি নেই।' বেশিরভাগই পেট ভরে পান করল আর বাদ পড়ল। ছোট্ট বিশ্বস্ত দলটি নদী পার হয়ে বলল: 'আল্লাহর হুকুমে কত ছোট দল কত বড় দলকে হারিয়েছে! আল্লাহ ধৈর্যশীলদের সাথে আছেন।' তারা দোয়া করল: 'হে আমাদের রব, আমাদের উপর ধৈর্য ঢেলে দিন, আমাদের পা অটল রাখুন।' আল্লাহর হুকুমে তারা জয়ী হলো — আর তরুণ দাউদ শক্তিশালী জালুতকে বধ করলেন। পরে আল্লাহ দাউদকে রাজত্ব ও প্রজ্ঞা দিলেন।"
+    },
+    "moral": {
+      "en": "Victory comes from Allah, not from big numbers or riches. A small team with patience, discipline, and faith can do great things.",
+      "bn": "জয় আসে আল্লাহর কাছ থেকে — বড় সংখ্যা বা ধন থেকে নয়। ধৈর্য, নিয়মানুবর্তিতা আর ঈমান থাকলে ছোট দলও বড় কিছু করতে পারে।"
+    },
+    "refs": [
+      "2:246-251"
+    ]
+  },
+  {
+    "id": "hud-aad",
+    "title": {
+      "en": "Hud and the Proud People of 'Aad",
+      "bn": "হুদ ও অহংকারী 'আদ জাতি"
+    },
+    "summary": {
+      "en": "The people of 'Aad were tall, strong, and proud of their power. Allah sent them their brother Hud, who said: 'O my people, worship Allah — you have no god but Him. Remember how He made you successors after the people of Nuh and increased you greatly in stature. Remember Allah's favours, so that you may succeed.' But they were arrogant and refused, even daring him to bring the punishment he warned about. Then one day they saw a great cloud coming toward their valleys and cheered: 'This cloud will bring us rain!' But it was no rain cloud. It was a furious, screaming wind carrying a painful punishment. The Quran says it raged for seven nights and eight days, until the people lay fallen like hollow trunks of palm trees. Allah saved Hud and those who believed with him by His mercy.",
+      "bn": "'আদ জাতি ছিল লম্বা, শক্তিশালী, আর নিজেদের শক্তি নিয়ে অহংকারী। আল্লাহ তাদের কাছে তাদেরই ভাই হুদকে পাঠালেন। তিনি বললেন: 'হে আমার জাতি, আল্লাহর ইবাদত করো — তিনি ছাড়া তোমাদের কোনো উপাস্য নেই। মনে করো, নূহের জাতির পরে তিনিই তোমাদের উত্তরসূরি বানিয়েছেন আর দেহের গঠনে বাড়তি শক্তি দিয়েছেন। আল্লাহর নিয়ামতগুলো স্মরণ করো, যেন তোমরা সফল হও।' কিন্তু তারা অহংকার করে অস্বীকার করল, এমনকি সতর্ক-করা শাস্তি নিয়ে আসার চ্যালেঞ্জও দিল। তারপর একদিন তারা দেখল, উপত্যকার দিকে বিশাল এক মেঘ এগিয়ে আসছে। তারা খুশিতে বলল: 'এই মেঘ আমাদের বৃষ্টি দেবে!' কিন্তু সেটি বৃষ্টির মেঘ ছিল না — ছিল যন্ত্রণাদায়ক শাস্তি বয়ে আনা এক প্রচণ্ড গর্জনকারী ঝড়। কুরআন বলে, সেই ঝড় সাত রাত আট দিন চলল, শেষে মানুষগুলো পড়ে রইল ফাঁপা খেজুরগাছের গুঁড়ির মতো। আল্লাহ নিজ রহমতে হুদ ও তাঁর সাথের মুমিনদের রক্ষা করলেন।"
+    },
+    "moral": {
+      "en": "Being big or strong is a gift from Allah, never a reason to be proud. Arrogance brings downfall; humble faith brings safety.",
+      "bn": "লম্বা বা শক্তিশালী হওয়া আল্লাহর দান — অহংকারের কারণ নয়। অহংকার পতন ডেকে আনে; বিনয়ী ঈমান আনে নিরাপত্তা।"
+    },
+    "refs": [
+      "7:65-72",
+      "46:21-25",
+      "69:6-8"
+    ]
+  },
+  {
+    "id": "nuh-ark",
+    "title": {
+      "en": "Nuh's Ark and the Great Flood",
+      "bn": "নূহের নৌকা ও মহাপ্লাবন"
+    },
+    "summary": {
+      "en": "Prophet Nuh called his people to worship Allah alone for a very, very long time — night and day, openly and secretly — but most refused and made fun of him. Allah told Nuh: 'Build the ark under Our eyes.' Whenever the chiefs passed by, they laughed at him, but Nuh kept building. When Allah's command came and water gushed forth, Nuh loaded a pair of every kind of animal, his family, and the few who believed. The ark sailed through waves like mountains. Nuh called to his son, who stood apart: 'My dear son, ride with us!' The son said: 'I will climb a mountain that will protect me from the water.' Nuh said: 'There is no protector today from Allah's command, except for those He gives mercy.' The waves came between them, and the son drowned. Then Allah said: 'O earth, swallow your water! O sky, hold back!' The water sank away, and the ark came to rest upon Mount Judiyy.",
+      "bn": "নবী নূহ বহু-বহু বছর ধরে — দিনে-রাতে, প্রকাশ্যে-গোপনে — মানুষকে এক আল্লাহর ইবাদতের দিকে ডাকলেন, কিন্তু অধিকাংশই অস্বীকার করল আর ঠাট্টা করল। আল্লাহ নূহকে বললেন: 'আমার চোখের সামনে নৌকা বানাও।' নেতারা পাশ দিয়ে গেলেই হাসাহাসি করত, কিন্তু নূহ বানিয়ে চললেন। যখন আল্লাহর হুকুম এল এবং পানি উথলে উঠল, নূহ প্রতিটি প্রাণীর এক-এক জোড়া, তাঁর পরিবার আর অল্প ক'জন মুমিনকে নৌকায় তুললেন। পাহাড়ের মতো ঢেউয়ের মধ্য দিয়ে নৌকা চলল। দূরে দাঁড়ানো ছেলেকে নূহ ডাকলেন: 'প্রিয় ছেলে, আমাদের সাথে ওঠো!' ছেলে বলল: 'আমি পাহাড়ে উঠে যাব, তা আমাকে পানি থেকে বাঁচাবে।' নূহ বললেন: 'আজ আল্লাহর হুকুম থেকে কোনো রক্ষাকারী নেই — তবে তিনি যাকে রহম করেন।' ঢেউ দুজনের মাঝে এসে পড়ল, ছেলেটি ডুবে গেল। তারপর আল্লাহ বললেন: 'হে জমিন, তোমার পানি গিলে নাও! হে আকাশ, থামো!' পানি নেমে গেল, আর নৌকা জুদি পাহাড়ে গিয়ে থামল।"
+    },
+    "moral": {
+      "en": "Keep doing what Allah asks even if people laugh at you. True safety is not in mountains or strength — it is only in Allah's mercy.",
+      "bn": "মানুষ হাসলেও আল্লাহর নির্দেশ পালন করে যাও। আসল নিরাপত্তা পাহাড় বা শক্তিতে নয় — কেবল আল্লাহর রহমতে।"
+    },
+    "refs": [
+      "11:36-44",
+      "71:5-9",
+      "29:14"
+    ]
   }
 ];
 
@@ -954,6 +1503,111 @@ const KIDS_ADAB = [
     },
     arabic: 'مَا مِنْ مُسْلِمٍ يَغْرِسُ غَرْسًا إِلَّا كَانَ مَا أُكِلَ مِنْهُ لَهُ صَدَقَةً',
     ref: 'Bukhari 2320, Muslim 1553'
+  },
+  // v156 additions — 8 adab lessons (2026-07-28)
+  {
+    "id": "patience-when-upset",
+    "title": {
+      "en": "Be Patient When Things Go Wrong",
+      "bn": "মন খারাপ হলে ধৈর্য ধরো"
+    },
+    "body": {
+      "en": "Lost a game? Broke your favourite toy? Waiting feels too long? Take a deep breath and say 'Alhamdulillah.' The Quran teaches us to seek help through patience and prayer, and promises that Allah is with the patient. Being patient does not mean you cannot feel sad — it means you do not scream, throw things, or give up. Patient hearts stay calm, think clearly, and find that hard moments pass much faster.",
+      "bn": "খেলায় হেরে গেছ? প্রিয় খেলনাটা ভেঙে গেছে? অপেক্ষা খুব লম্বা লাগছে? একটা গভীর শ্বাস নাও আর বলো 'আলহামদুলিল্লাহ।' কুরআন আমাদের শেখায় ধৈর্য ও নামাজের মাধ্যমে সাহায্য চাইতে, আর ওয়াদা করে — আল্লাহ ধৈর্যশীলদের সাথে আছেন। ধৈর্য মানে দুঃখ পাওয়া নিষেধ নয় — মানে হলো চিৎকার না করা, জিনিস ছুঁড়ে না মারা, হাল না ছাড়া। ধৈর্যশীল মন শান্ত থাকে, পরিষ্কার ভাবতে পারে, আর দেখে — কঠিন সময়টা অনেক তাড়াতাড়ি কেটে যায়।"
+    },
+    "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+    "ref": "Quran 2:153"
+  },
+  {
+    "id": "say-sorry-forgive",
+    "title": {
+      "en": "Say Sorry — and Forgive Others",
+      "bn": "'সরি' বলো — আর অন্যদের ক্ষমা করো"
+    },
+    "body": {
+      "en": "Everyone makes mistakes — bumping a friend, breaking something, saying an unkind word. When it happens, be brave: look at the person and say, 'I'm sorry, please forgive me.' That is strength, not weakness. And when someone says sorry to you, forgive them with a smile. The Quran teaches us to pardon and overlook, and asks: would you not love for Allah to forgive you? Forgive others, and Allah's forgiveness comes closer to you.",
+      "bn": "ভুল সবারই হয় — বন্ধুর গায়ে ধাক্কা লাগা, কিছু ভেঙে ফেলা, কড়া কথা বলে ফেলা। এমন হলে সাহসী হও: মানুষটির দিকে তাকিয়ে বলো, 'আমি দুঃখিত, আমাকে ক্ষমা করো।' এটা দুর্বলতা নয় — শক্তি। আর কেউ তোমাকে 'সরি' বললে হাসিমুখে ক্ষমা করে দাও। কুরআন আমাদের ক্ষমা করতে ও উদারভাবে এড়িয়ে যেতে শেখায়, আর জিজ্ঞেস করে: তুমি কি চাও না আল্লাহ তোমাকে ক্ষমা করুন? অন্যকে ক্ষমা করো — আল্লাহর ক্ষমা তোমার আরও কাছে আসবে।"
+    },
+    "arabic": "وَلْيَعْفُوا وَلْيَصْفَحُوا",
+    "ref": "Quran 24:22"
+  },
+  {
+    "id": "no-mocking",
+    "title": {
+      "en": "Don't Make Fun of Anyone",
+      "bn": "কাউকে নিয়ে ঠাট্টা কোরো না"
+    },
+    "body": {
+      "en": "Never laugh at how someone looks, talks, walks, or what they wear. Never call people hurtful nicknames. The Quran clearly says: let no people ridicule other people — perhaps they are better than you! The boy or girl everyone teases might be more beloved to Allah than anyone in the class. Jokes that make everyone laugh together are fine; jokes that make one person cry are not jokes at all. Use your tongue to make friends, not wounds.",
+      "bn": "কারো চেহারা, কথা বলা, হাঁটা বা পোশাক নিয়ে কখনো হেসো না। কাউকে কষ্ট দেওয়া নাম ধরে ডেকো না। কুরআন স্পষ্ট বলে: কোনো দল যেন অন্য দলকে বিদ্রূপ না করে — হয়তো তারাই তোমাদের চেয়ে ভালো! যে ছেলে বা মেয়েটিকে সবাই খেপায়, সে হয়তো আল্লাহর কাছে ক্লাসের সবার চেয়ে প্রিয়। যে মজায় সবাই একসাথে হাসে তা ঠিক আছে; কিন্তু যে মজায় একজন কাঁদে, সেটা আসলে মজা-ই নয়। জিভ দিয়ে বন্ধু বানাও, ক্ষত নয়।"
+    },
+    "arabic": "لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ",
+    "ref": "Quran 49:11"
+  },
+  {
+    "id": "speak-gently",
+    "title": {
+      "en": "Speak Kindly and Softly",
+      "bn": "সুন্দর ও নরম করে কথা বলো"
+    },
+    "body": {
+      "en": "Words are like seeds: kind words grow friendship, harsh words grow hurt. The Quran commands us to 'speak good words to people' — to parents, teachers, friends, shopkeepers, everyone. It also teaches us to lower our voice, for the harshest of sounds is the braying of a donkey! So no shouting indoors, no interrupting, no rude words. Try saying 'please,' 'thank you,' and 'may I' every day, in a soft voice, with a smile — and watch how people love talking to you.",
+      "bn": "কথা হলো বীজের মতো: ভালো কথায় বন্ধুত্ব জন্মায়, কড়া কথায় কষ্ট। কুরআন আমাদের আদেশ দেয় 'মানুষের সাথে সুন্দর কথা বলো' — বাবা-মা, শিক্ষক, বন্ধু, দোকানদার — সবার সাথে। আরও শেখায় গলার স্বর নিচু রাখতে — কেননা সবচেয়ে কর্কশ আওয়াজ গাধার ডাক! তাই ঘরে চিৎকার নয়, কথার মাঝে বাধা নয়, অভদ্র শব্দ নয়। প্রতিদিন নরম গলায়, হাসিমুখে 'দয়া করে', 'ধন্যবাদ', 'আমি কি পারি?' বলার অভ্যাস করো — দেখবে মানুষ তোমার সাথে কথা বলতে কত ভালোবাসে।"
+    },
+    "arabic": "وَقُولُوا لِلنَّاسِ حُسْنًا",
+    "ref": "Quran 2:83"
+  },
+  {
+    "id": "control-anger",
+    "title": {
+      "en": "Swallow Your Anger",
+      "bn": "রাগ গিলে ফেলো"
+    },
+    "body": {
+      "en": "When someone takes your seat, ruins your drawing, or blames you unfairly, a hot feeling rises inside — that is anger. The Quran praises those 'who restrain anger and pardon people,' and says Allah loves such doers of good. So when anger comes: stop, keep quiet for a moment, and breathe. Walk away if you need to, or sit down and drink some water. Anger is like fire — if you do not feed it, it goes out. The strongest kid is not the one who hits hardest, but the one who stays calm.",
+      "bn": "কেউ তোমার জায়গা নিয়ে নিলে, আঁকা ছবিটা নষ্ট করলে বা অন্যায়ভাবে দোষ দিলে ভেতরে একটা গরম অনুভূতি ওঠে — সেটাই রাগ। কুরআন তাদের প্রশংসা করে 'যারা রাগ দমন করে এবং মানুষকে ক্ষমা করে', আর বলে আল্লাহ এমন সৎকর্মশীলদের ভালোবাসেন। তাই রাগ এলে: থামো, এক মুহূর্ত চুপ থাকো, শ্বাস নাও। দরকার হলে সরে যাও, বা বসে একটু পানি খাও। রাগ আগুনের মতো — ইন্ধন না দিলে নিভে যায়। সবচেয়ে শক্তিশালী সেই নয় যে সবচেয়ে জোরে মারে, বরং সে-ই যে শান্ত থাকতে পারে।"
+    },
+    "arabic": "وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ",
+    "ref": "Quran 3:134"
+  },
+  {
+    "id": "say-inshallah",
+    "title": {
+      "en": "Say Insha'Allah for Tomorrow",
+      "bn": "আগামীর কথায় বলো 'ইনশাআল্লাহ'"
+    },
+    "body": {
+      "en": "Planning to visit grandma tomorrow? Going to finish your homework tonight? Add three beautiful words: 'Insha'Allah' — if Allah wills. The Quran teaches us never to say 'I will surely do that tomorrow' without adding 'if Allah wills,' because tomorrow belongs to Allah, not to us. Saying Insha'Allah is not an excuse to be lazy — you still try your very best. It simply means: 'I will do my part, and I trust Allah with the rest.'",
+      "bn": "কাল দাদু-নানুর বাসায় যাওয়ার প্ল্যান? আজ রাতে হোমওয়ার্ক শেষ করবে? সাথে তিনটি সুন্দর শব্দ যোগ করো: 'ইনশাআল্লাহ' — আল্লাহ চাইলে। কুরআন শেখায়, 'আমি কালকে অবশ্যই এটা করব' — এ কথা কখনো 'ইনশাআল্লাহ' না বলে বোলো না, কারণ আগামীকাল আল্লাহর হাতে, আমাদের হাতে নয়। 'ইনশাআল্লাহ' বলা অলসতার অজুহাত নয় — নিজের সেরা চেষ্টাটা ঠিকই করবে। এর মানে শুধু: 'আমার কাজটুকু আমি করব, বাকিটা আল্লাহর উপর ভরসা।'"
+    },
+    "arabic": "إِلَّا أَن يَشَاءَ اللَّهُ",
+    "ref": "Quran 18:23-24"
+  },
+  {
+    "id": "say-alhamdulillah",
+    "title": {
+      "en": "Say Alhamdulillah for Everything",
+      "bn": "সবকিছুর জন্য আলহামদুলিল্লাহ বলো"
+    },
+    "body": {
+      "en": "Your eyes that read this, the breakfast you ate, the family who loves you — all gifts from Allah. Say 'Alhamdulillah' — all praise is for Allah — when you wake up, after you eat, when something good happens, even after a sneeze! The Quran gives us a wonderful promise from Allah: 'If you are grateful, I will surely increase you.' A thankful heart is a happy heart: it counts blessings instead of complaints, and Allah keeps adding more to count.",
+      "bn": "যে চোখ দিয়ে এটা পড়ছ, সকালের যে নাশতা খেলে, যে পরিবার তোমাকে ভালোবাসে — সবই আল্লাহর উপহার। ঘুম থেকে উঠে, খাওয়ার পরে, ভালো কিছু ঘটলে, এমনকি হাঁচির পরেও বলো 'আলহামদুলিল্লাহ' — সব প্রশংসা আল্লাহর! কুরআনে আল্লাহ চমৎকার এক ওয়াদা দিয়েছেন: 'তোমরা কৃতজ্ঞ হলে আমি অবশ্যই তোমাদের বাড়িয়ে দেব।' কৃতজ্ঞ মন সুখী মন: সে অভিযোগ নয়, নিয়ামত গোনে — আর আল্লাহ গোনার জন্য আরও নিয়ামত বাড়িয়ে দিতে থাকেন।"
+    },
+    "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+    "ref": "Quran 14:7"
+  },
+  {
+    "id": "ask-permission",
+    "title": {
+      "en": "Knock and Ask Before Entering",
+      "bn": "ঢোকার আগে নক করো, অনুমতি নাও"
+    },
+    "body": {
+      "en": "Before entering someone's home or a closed room — even your parents' or sibling's room — knock gently, say salaam, and wait to be welcomed. The Quran teaches us not to enter houses other than our own until we ask permission and greet the people inside. If no one answers, or someone says 'not now,' go back happily without getting upset. Asking permission shows respect: it tells others, 'your space and privacy matter to me.' The same manners apply to borrowing things — always ask first!",
+      "bn": "কারো বাড়িতে বা বন্ধ ঘরে ঢোকার আগে — এমনকি বাবা-মা বা ভাই-বোনের ঘরেও — আস্তে নক করো, সালাম দাও, আর ডাকার অপেক্ষা করো। কুরআন শেখায়, অনুমতি না নিয়ে আর ভেতরের মানুষদের সালাম না দিয়ে নিজের ঘর ছাড়া অন্য ঘরে ঢুকো না। কেউ সাড়া না দিলে, বা কেউ বললে 'এখন নয়' — মন খারাপ না করে খুশি মনে ফিরে যাও। অনুমতি চাওয়া সম্মান দেখায়: এতে বোঝা যায়, 'তোমার জায়গা ও একান্ততা আমার কাছে গুরুত্বপূর্ণ।' জিনিস ধার নেওয়ার বেলায়ও একই আদব — আগে জিজ্ঞেস করো!"
+    },
+    "arabic": "حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا",
+    "ref": "Quran 24:27"
   }
 ];
 
