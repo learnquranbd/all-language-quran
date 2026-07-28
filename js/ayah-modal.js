@@ -120,6 +120,12 @@ class AyahModal {
       if (fp) { this.toggleAyah(fp.getAttribute('data-ayah-audio')); return; }
       const cp = e.target.closest('[data-copy-verse]');
       if (cp) { this.copyVerse(); return; }
+
+      const sv = e.target.closest('[data-similar-verses]');
+      if (sv) { this.openSimilar(sv.getAttribute('data-similar-verses')); return; }
+
+      const tn = e.target.closest('[data-tadabbur-note]');
+      if (tn) { this.toggleTadabbur(tn.getAttribute('data-tadabbur-note')); return; }
       const shv = e.target.closest('[data-share-verse]');
       if (shv) { this.shareVerse(); return; }
       const bm = e.target.closest('[data-bookmark-toggle]');
@@ -361,6 +367,7 @@ class AyahModal {
         </div>` : ''}
       <div id="sam-grammar" class="mb-3"></div>
       <p class="text-center text-gray-600 dark:text-gray-300 mb-4" dir="auto">${v.translation || ''}</p>
+      <div id="sam-tadabbur" class="hidden mb-4 p-4 rounded-xl bg-amber-50 dark:bg-amber-500/10 border border-amber-200 dark:border-amber-500/30 text-sm text-gray-700 dark:text-gray-200 space-y-2 text-start" dir="auto"></div>
       ${this.renderTools()}
       <div class="flex flex-wrap items-center justify-center gap-2">
         ${navBtn(a > 1 ? `${s}:${a - 1}` : null, this.tt('previous_ayah'), '&lsaquo;')}
@@ -374,12 +381,91 @@ class AyahModal {
                 class="px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm ${bmOn ? 'text-yellow-500' : 'text-gray-700 dark:text-gray-200'} hover:bg-gray-100 dark:hover:bg-gray-700">${bmOn ? '★' : '☆'} ${this.tt(bmOn ? 'remove_bookmark' : 'bookmark')}</button>
         <button data-read-full="${v.key}"
                 class="px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700">📖 ${this.tt('read_full_ayah')}</button>
+        <button data-similar-verses="${v.key}" id="sam-similar"
+                class="hidden px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 text-sm text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700">🪞 <span></span></button>
+        ${this.tadabburKeyFor(v.key) ? `<button data-tadabbur-note="${v.key}"
+                class="px-4 py-2 rounded-lg border border-amber-300 dark:border-amber-600/60 text-sm text-amber-700 dark:text-amber-300 hover:bg-amber-50 dark:hover:bg-amber-500/10">💭 ${this.tt('tadabbur_title')}</button>` : ''}
         ${navBtn(a < ayahCount ? `${s}:${a + 1}` : null, this.tt('next_ayah'), '&rsaquo;')}
       </div>`;
 
     this.updateGrammar();
     this.syncAudioBtn();
     this.applyFontScale();
+    this._checkSimilar(v.key);
+  }
+
+  /** Reveal the 🪞 button when the similarity index knows this verse. */
+  async _checkSimilar(key) {
+    try {
+      this._mtIndexP = this._mtIndexP ||
+        fetch('data/mutashabihat.json').then(r => (r.ok ? r.json() : null)).catch(() => null);
+      const idx = await this._mtIndexP;
+      const btn = this.overlay && this.overlay.querySelector('#sam-similar');
+      if (!btn || !idx) return;
+      if (btn.getAttribute('data-similar-verses') !== key) return;   // modal moved on
+      const sims = idx[key];
+      if (!sims || !sims.length) return;
+      const label = btn.querySelector('span');
+      if (label) label.textContent = `${this.tt('mutashabihat_similar')} (${sims.length})`;
+      btn.classList.remove('hidden');
+    } catch (e) { /* optional enrichment */ }
+  }
+
+  /** Similar verses of the open ayah in the shared timeline (modal closes
+   * first — the timeline sits at a lower z-level). */
+  async openSimilar(key) {
+    try {
+      if (typeof ayahTimeline === 'undefined' || !ayahTimeline || !this._mtIndexP) return;
+      const [idx, words] = await Promise.all([
+        this._mtIndexP,
+        (typeof QuranData !== 'undefined' && QuranData.getQuranWords) ? QuranData.getQuranWords() : null
+      ]);
+      const sims = idx && idx[key];
+      if (!sims || !sims.length) return;
+      const top = sims[0];
+      const phrase = ((words && words[key]) || []).slice(top[2] || 0, (top[2] || 0) + top[1]).join(' ');
+      this.close();
+      ayahTimeline.open({
+        title: `${this.tt('mutashabihat_similar')} — ${key}`,
+        refs: [key].concat(sims.map(x => x[0])),
+        phrase
+      });
+    } catch (e) { /* optional enrichment */ }
+  }
+
+  /** Which tadabbur note (single ref or range key) covers this ayah? */
+  tadabburKeyFor(ref) {
+    if (typeof TADABBUR_NOTES === 'undefined' || !TADABBUR_NOTES) return null;
+    if (!this._tadMap) {
+      this._tadMap = {};
+      for (const k in TADABBUR_NOTES) {
+        const m = /^(\d+):(\d+)(?:-(\d+))?$/.exec(k);
+        if (!m) continue;
+        const b = m[3] ? +m[3] : +m[2];
+        for (let x = +m[2]; x <= b; x++) this._tadMap[`${m[1]}:${x}`] = k;
+      }
+    }
+    return this._tadMap[ref] || null;
+  }
+
+  /** Toggle the inline tadabbur reflection box for the open ayah. */
+  toggleTadabbur(ref) {
+    const box = this.overlay && this.overlay.querySelector('#sam-tadabbur');
+    if (!box) return;
+    if (!box.classList.contains('hidden')) { box.classList.add('hidden'); return; }
+    const k = this.tadabburKeyFor(ref);
+    const n = k ? TADABBUR_NOTES[k] : null;
+    if (!n) return;
+    const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+    const bn = lang === 'bn';
+    const refl = (bn && n.reflectionBn) || n.reflectionEn || '';
+    const pts = (bn && n.pointsBn && n.pointsBn.length ? n.pointsBn : (n.pointsEn || []));
+    const lesson = (bn && n.lessonBn) || n.lessonEn || '';
+    box.innerHTML = `
+      ${refl ? `<p>🧭 ${this.esc(refl)}</p>` : ''}
+      ${pts.length ? `<ul class="list-disc ms-5 space-y-1">${pts.map(p => `<li>💭 ${this.esc(p)}</li>`).join('')}</ul>` : ''}
+      ${lesson ? `<p class="font-medium">🎯 ${this.esc(lesson)}</p>` : ''}`;
+    box.classList.remove('hidden');
   }
 
   /** Compact controls: Arabic font size, audio speed, repeat toggle. */
