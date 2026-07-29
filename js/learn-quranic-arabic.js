@@ -324,6 +324,7 @@ class QuranicArabicView {
     const unitEl = t0.closest ? t0.closest('[data-qa-unit]') : null;
     if (unitEl) { this.scrollToUnit(unitEl.getAttribute('data-qa-unit')); return; }
     if (t0.closest && t0.closest('[data-qa-glossary]')) { this.markGlossarySeen(); this.view = 'glossary'; this.render(); return; }
+    if (t0.closest && t0.closest('[data-qa-freq]')) { this.view = 'freq'; this.render(); return; }
     if (t0.closest && t0.closest('[data-qa-flash]')) { this.startFlashcards(); return; }
     if (t0.closest && t0.closest('[data-qa-match]')) { this.startMatch(); return; }
     if (t0.closest && t0.closest('[data-qa-resume]')) { this.resumeLesson(); return; }
@@ -573,6 +574,7 @@ class QuranicArabicView {
       if (this.view === 'lesson') html = this.renderLesson();
       else if (this.view === 'quiz') html = this.renderQuiz();
       else if (this.view === 'glossary') html = this.renderGlossary();
+      else if (this.view === 'freq') html = this.renderFreq();
       else if (this.view === 'flashcards') html = this.renderFlashcards();
       else if (this.view === 'match') html = this.renderMatch();
       else html = this.renderSyllabus();
@@ -725,6 +727,10 @@ class QuranicArabicView {
               <button type="button" data-qa-glossary
                 class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold bg-amber-100 dark:bg-amber-900/40 text-amber-700 dark:text-amber-300 hover:bg-amber-200 dark:hover:bg-amber-900/60 transition-colors">
                 📖 ${this.esc(this.tt('qa_glossary'))}
+              </button>
+              <button type="button" data-qa-freq
+                class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold bg-sky-100 dark:bg-sky-900/40 text-sky-700 dark:text-sky-300 hover:bg-sky-200 dark:hover:bg-sky-900/60 transition-colors">
+                🔢 ${this.esc(this.tt('qa_freq'))}
               </button>
             </div>
           </div>
@@ -943,6 +949,46 @@ class QuranicArabicView {
       const empty = this.container ? this.container.querySelector('#qa-gloss-empty') : null;
       if (empty) empty.classList.toggle('hidden', shown !== 0);
     } catch (e) { /* ignore */ }
+  }
+
+  /**
+   * The high-frequency Quranic vocabulary list (QA_FREQ_WORDS). The data was
+   * authored but never rendered — it had no view and no entry point, so it
+   * shipped in every bundle and reached no one. Each row links to a verse where
+   * the word occurs, reusing the glossary's data-qa-ref handler.
+   */
+  renderFreq() {
+    const rows = QA_FREQ_WORDS.map((w, i) => {
+      const meaning = (this.language === 'bn' && w.meaningBn) ? w.meaningBn : this.lc({ en: w.meaningEn, bn: w.meaningBn });
+      const ref = w.sampleRef ? `
+        <button type="button" data-qa-ref="${this.esc(w.sampleRef)}" data-qa-word="${this.esc(w.arabic)}"
+          class="shrink-0 inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[11px] font-semibold bg-primary/10 text-primary hover:bg-primary/20 transition-colors">
+          ${this.esc(w.sampleRef)} ↗
+        </button>` : '';
+      return `
+        <div class="flex items-center gap-3 p-3 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
+          <span class="shrink-0 w-7 text-center text-xs font-bold text-gray-400">${i + 1}</span>
+          <span class="shrink-0 ayah-arabic !text-xl !leading-snug font-semibold text-emerald-700 dark:text-emerald-400" dir="rtl" lang="ar">${this.esc(w.arabic)}</span>
+          <div class="min-w-0 flex-1">
+            <p class="text-sm font-medium text-gray-800 dark:text-gray-100 truncate" dir="auto">${this.esc(meaning)}</p>
+            <p class="text-[11px] text-gray-500 dark:text-gray-400">${this.esc(w.translit)}${w.root ? ` · <span dir="rtl" lang="ar">${this.esc(w.root)}</span>` : ''}</p>
+          </div>
+          ${ref}
+        </div>`;
+    }).join('');
+
+    return `
+      <div class="w-full max-w-2xl mx-auto">
+        <div class="flex items-center gap-2 mb-4">
+          <button type="button" data-qa-back
+            class="px-3 py-1.5 rounded-lg text-sm border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">←</button>
+          <div>
+            <h3 class="font-bold text-gray-800 dark:text-gray-100">🔢 ${this.esc(this.tt('qa_freq'))}</h3>
+            <p class="text-xs text-gray-500 dark:text-gray-400">${this.esc(this.tt('qa_freq_intro'))}</p>
+          </div>
+        </div>
+        <div class="space-y-2">${rows}</div>
+      </div>`;
   }
 
   renderGlossary() {
