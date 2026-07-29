@@ -2415,7 +2415,7 @@ const QA_IRAB = [
     explain: { en: 'حَنِيفًا (naṣb) describes the STATE of the doer as he turns his face — the circumstantial ḥāl.', bn: 'حَنِيفًا (নসব) কর্তার অবস্থা বর্ণনা করে যখন সে তার মুখ ফেরায় — অর্থাৎ হাল।' } },
   { ref: '1:4', q: QA_IRAB_Q,
     words: [ { ar: 'مَٰلِكِ', hl: true }, { ar: 'يَوْمِ' }, { ar: 'ٱلدِّينِ' } ],
-    options: [{ en: 'ṣifa (adjective)', bn: 'সিফাত (বিশেষণ)' }, { en: 'badal (substitute)', bn: 'বাদাল (পরিবর্ত)' }, { en: 'tamyīz (specification)', bn: 'তাময়ীয (নির্দিষ্টকরণ)' }, { en: 'naʿt (adjective)', bn: 'না‘ত (বিশেষণ)' }], answer: 0,
+    options: [{ en: 'ṣifa (adjective)', bn: 'সিফাত (বিশেষণ)' }, { en: 'badal (substitute)', bn: 'বাদাল (পরিবর্ত)' }, { en: 'tamyīz (specification)', bn: 'তাময়ীয (নির্দিষ্টকরণ)' }, { en: 'ḥāl (circumstantial state)', bn: 'হাল (অবস্থাবাচক)' }], answer: 0,
     explain: { en: 'There are two ways to analyse مَٰلِكِ: (1) as a noun in the iḍāfah chain (muḍāf), or (2) as a ṣifa/naʿt (adjective) of رَبِّ — matching it in definiteness, number and case (jarr).', bn: 'مَٰلِكِ-এর দুটি বিশ্লেষণ হয়: (১) ইদাফা-শৃঙ্খলে বিশেষ্য (মুযাফ), অথবা (২) رَبِّ-এর সিফাত/না‘ত — নির্দিষ্টতা, বচন ও কারকে (জার) মিল রেখে।' } },
   { ref: '9:40', q: QA_IRAB_Q,
     words: [ { ar: 'فَأَنزَلَ' }, { ar: 'ٱللَّهُ' }, { ar: 'سَكِينَتَهُۥ' }, { ar: 'عَلَيْهِ' }, { ar: 'وَأَيَّدَهُۥ' }, { ar: 'بِجُنُودٍ' }, { ar: 'لَّمْ', hl: true }, { ar: 'تَرَوْهَا' } ],
