@@ -75,6 +75,7 @@ class SalahModule {
       : this.view === 'resources' ? this.resourcesHtml()
       : this.view === 'wudu-quiz' ? this.wuduQuizHtml()
       : this.view === 'tasbeeh' ? this.tasbeehCounterHtml()
+      : this.view === 'mistakes' ? this.mistakesHtml()
       : this.guideHtml();
     this.root.innerHTML = `
       <div class="w-full pb-8">
@@ -99,6 +100,7 @@ class SalahModule {
           ${vbtn('guide', '📖', this.tt('salah_view_guide'))}
           ${vbtn('wudu', '💧', this.tt('salah_view_wudu'))}
           ${vbtn('timings', '⏰', this.tt('salah_view_timings'))}
+          ${vbtn('mistakes', '⚠️', this.tt('salah_view_mistakes'))}
           ${vbtn('quiz', '❓', this.tt('salah_view_quiz'))}
           ${vbtn('resources', '📚', this.tt('salah_view_resources'))}
         </div>
@@ -172,6 +174,47 @@ class SalahModule {
       }
       return;
     }
+  }
+
+  /**
+   * SALAH_MISTAKES — 26 common prayer errors with the fiqh ruling each carries,
+   * the rule it breaks and a reference. Authored with full Bengali but never
+   * rendered: no view referenced it, and the dead-data audit missed it because
+   * the file's own header comment names it, which read as a usage.
+   *
+   * Grouped by category so the invalidating errors are not buried among the
+   * merely disliked ones — the distinction is the point of the list.
+   */
+  mistakesHtml() {
+    if (typeof SALAH_MISTAKES === 'undefined' || !SALAH_MISTAKES.length) return '';
+    const groups = new Map();
+    for (const m of SALAH_MISTAKES) {
+      const label = this.lc(m.category);
+      if (!groups.has(label)) groups.set(label, []);
+      groups.get(label).push(m);
+    }
+    const sections = [...groups.entries()].map(([label, items]) => {
+      const rows = items.map(m => `
+        <div class="p-3 rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
+          <p class="text-sm text-red-700 dark:text-red-400 leading-snug" dir="auto">✗ ${this.esc(this.lc(m.mistake))}</p>
+          <p class="text-sm text-emerald-700 dark:text-emerald-400 leading-snug mt-1.5" dir="auto">✓ ${this.esc(this.lc(m.rule))}</p>
+          ${m.reference ? `<p class="text-[11px] text-gray-400 mt-1.5" dir="auto">${this.esc(this.lc(m.reference))}</p>` : ''}
+        </div>`).join('');
+      return `
+        <div class="mb-4">
+          <h3 class="text-xs font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400 mb-2" dir="auto">${this.esc(label)}</h3>
+          <div class="space-y-2">${rows}</div>
+        </div>`;
+    }).join('');
+
+    return `
+      <div class="max-w-2xl mx-auto">
+        <div class="text-center mb-4">
+          <h3 class="text-base font-bold text-gray-800 dark:text-gray-100">⚠️ ${this.esc(this.tt('salah_mistakes_title'))}</h3>
+          <p class="text-sm text-gray-500 dark:text-gray-400 mt-1" dir="auto">${this.esc(this.tt('salah_mistakes_intro'))}</p>
+        </div>
+        ${sections}
+      </div>`;
   }
 
   shuffleQuiz() {
