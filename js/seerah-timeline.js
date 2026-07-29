@@ -677,6 +677,25 @@ class SeerahView {
       </div>`;
   }
 
+  /** Stable per-session display order for each question's options, so the
+   * answer's position in the data is never a giveaway. Held on the instance
+   * (not recomputed per render, or the options would jump between answers)
+   * and cleared on retake. */
+  quizPerm() {
+    if (!this._quizPerm || this._quizPerm.length !== SEERAH_QUIZ.length) {
+      this._quizPerm = SEERAH_QUIZ.map((q) => {
+        const n = (q.optsEn || q.optsBn || []).length;
+        const idx = Array.from({ length: n }, (_, i) => i);
+        for (let i = n - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [idx[i], idx[j]] = [idx[j], idx[i]];
+        }
+        return idx;
+      });
+    }
+    return this._quizPerm;
+  }
+
   quizHtml() {
     const submitted = this.quizSubmitted;
     const total = SEERAH_QUIZ.length;
@@ -685,9 +704,11 @@ class SeerahView {
 
     const questions = SEERAH_QUIZ.map((q, qi) => {
       const sel = this.quizAnswers[qi];
-      const opts = (q.optsEn || q.optsBn || []).map((_, oi2) => this.lc({ en: (q.optsEn || [])[oi2], bn: (q.optsBn || [])[oi2] }));
       if (submitted && sel === q.correct) score++;
-      const optHtml = opts.map((o, oi) => {
+      // Display in the shuffled order; each button still carries its ORIGINAL
+      // option index, so answer checking and stored answers are unaffected.
+      const optHtml = this.quizPerm()[qi].map((oi) => {
+        const o = this.lc({ en: (q.optsEn || [])[oi], bn: (q.optsBn || [])[oi] });
         const chosen = sel === oi;
         let cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-200 hover:border-primary';
         let mark = '';
@@ -1159,7 +1180,7 @@ class SeerahView {
         const qsub = e.target.closest('[data-seerah-quiz-submit]');
         if (qsub) { this.submitQuiz(); return; }
         const qreset = e.target.closest('[data-seerah-quiz-reset]');
-        if (qreset) { this.quizAnswers = {}; this.quizSubmitted = false; this.quizScore = 0; this.render(); return; }
+        if (qreset) { this.quizAnswers = {}; this.quizSubmitted = false; this.quizScore = 0; this._quizPerm = null; this.render(); return; }
       } catch (_) { /* ignore */ }
     });
 

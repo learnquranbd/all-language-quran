@@ -805,6 +805,304 @@ const TOPIC_GROUPS = [
     emoji: '📿',
     names: { en: 'Du\'a & Remembrance', bn: 'দোয়া ও যিকির', ar: 'الدعاء والذكر', ur: 'دعا اور ذکر', id: 'Doa dan Zikir', tr: 'Dua ve Zikir', fr: 'Invocation et Rappel (Dhikr)', zh: '祈祷与记念', ja: 'ドゥアーとズィクル' },
     refs: ['2:186', '40:60', '13:28', '33:41-42', '7:180', '76:25']
+  },
+  // v166 additions — 12 topical verse collections (2026-07-28)
+  {
+    "id": "fasting",
+    "emoji": "🌙",
+    "names": {
+      "en": "Fasting & Ramadan",
+      "bn": "রোজা ও রমজান",
+      "ar": "الصيام ورمضان",
+      "ur": "روزہ اور رمضان",
+      "id": "Puasa & Ramadan",
+      "tr": "Oruç ve Ramazan",
+      "fr": "Le jeûne et le Ramadan",
+      "zh": "斋戒与斋月",
+      "ja": "断食とラマダーン"
+    },
+    "refs": [
+      "2:183",
+      "2:184-185",
+      "2:187",
+      "19:26",
+      "33:35",
+      "97:1-5"
+    ]
+  },
+  {
+    "id": "hajj",
+    "emoji": "🐪",
+    "names": {
+      "en": "Hajj & the Sacred House",
+      "bn": "হজ ও কাবা ঘর",
+      "ar": "الحج والبيت الحرام",
+      "ur": "حج اور بیت اللہ",
+      "id": "Haji & Baitullah",
+      "tr": "Hac ve Kâbe",
+      "fr": "Le Hajj et la Maison sacrée",
+      "zh": "朝觐与禁寺",
+      "ja": "巡礼と聖なる家"
+    },
+    "refs": [
+      "2:125",
+      "2:158",
+      "2:196",
+      "2:197",
+      "3:96-97",
+      "5:97",
+      "22:26-29"
+    ]
+  },
+  {
+    "id": "speech-ethics",
+    "emoji": "🗣️",
+    "names": {
+      "en": "Guarding the Tongue",
+      "bn": "জিহ্বার সংযম",
+      "ar": "حفظ اللسان",
+      "ur": "زبان کی حفاظت",
+      "id": "Menjaga Lisan",
+      "tr": "Dili Korumak",
+      "fr": "Maîtriser sa langue",
+      "zh": "谨言慎语",
+      "ja": "口を慎む"
+    },
+    "refs": [
+      "2:263",
+      "4:114",
+      "4:148",
+      "17:53",
+      "24:15-16",
+      "25:72",
+      "50:18",
+      "68:10-12"
+    ]
+  },
+  {
+    "id": "orphans",
+    "emoji": "🧡",
+    "names": {
+      "en": "Orphans & the Needy",
+      "bn": "এতিম ও অসহায়",
+      "ar": "اليتامى والمساكين",
+      "ur": "یتیم اور مسکین",
+      "id": "Anak Yatim & Fakir Miskin",
+      "tr": "Yetimler ve Yoksullar",
+      "fr": "Les orphelins et les nécessiteux",
+      "zh": "孤儿与贫民",
+      "ja": "孤児と貧者"
+    },
+    "refs": [
+      "2:220",
+      "4:2",
+      "4:8",
+      "4:10",
+      "6:152",
+      "89:17-20",
+      "90:13-16",
+      "93:9-10"
+    ]
+  },
+  {
+    "id": "envy",
+    "emoji": "🧿",
+    "names": {
+      "en": "Envy & the Evil Eye",
+      "bn": "হিংসা ও বদনজর",
+      "ar": "الحسد والعين",
+      "ur": "حسد اور نظرِ بد",
+      "id": "Dengki & Penyakit 'Ain",
+      "tr": "Haset ve Nazar",
+      "fr": "L'envie et le mauvais œil",
+      "zh": "嫉妒与恶眼",
+      "ja": "妬みと邪視"
+    },
+    "refs": [
+      "2:109",
+      "4:32",
+      "4:54",
+      "12:5",
+      "20:131",
+      "28:79-81",
+      "68:51",
+      "113:5"
+    ]
+  },
+  {
+    "id": "seeking-refuge",
+    "emoji": "🙏",
+    "names": {
+      "en": "Seeking Refuge in Allah",
+      "bn": "আল্লাহর আশ্রয় প্রার্থনা",
+      "ar": "الاستعاذة بالله",
+      "ur": "اللہ کی پناہ طلب کرنا",
+      "id": "Berlindung kepada Allah",
+      "tr": "Allah'a Sığınmak",
+      "fr": "Chercher refuge auprès d'Allah",
+      "zh": "求主庇佑",
+      "ja": "アッラーに加護を求める"
+    },
+    "refs": [
+      "3:36",
+      "7:200-201",
+      "16:98",
+      "19:18",
+      "23:97-98",
+      "40:56",
+      "113:1-5",
+      "114:1-6"
+    ]
+  },
+  {
+    "id": "night-prayer",
+    "emoji": "🌃",
+    "names": {
+      "en": "Night Prayer (Tahajjud)",
+      "bn": "তাহাজ্জুদ ও রাতের নামাজ",
+      "ar": "قيام الليل",
+      "ur": "تہجد اور قیامِ لیل",
+      "id": "Salat Malam (Tahajud)",
+      "tr": "Gece Namazı (Teheccüd)",
+      "fr": "La prière de nuit (Tahajjud)",
+      "zh": "夜间拜功",
+      "ja": "夜の礼拝（タハッジュド）"
+    },
+    "refs": [
+      "3:17",
+      "17:79",
+      "25:64",
+      "32:16-17",
+      "50:39-40",
+      "51:17-18",
+      "73:1-6",
+      "76:26"
+    ]
+  },
+  {
+    "id": "hijrah",
+    "emoji": "🧳",
+    "names": {
+      "en": "Migration (Hijrah)",
+      "bn": "হিজরত",
+      "ar": "الهجرة في سبيل الله",
+      "ur": "ہجرت",
+      "id": "Hijrah",
+      "tr": "Hicret",
+      "fr": "L'émigration (Hijra)",
+      "zh": "迁徙（希吉拉）",
+      "ja": "移住（ヒジュラ）"
+    },
+    "refs": [
+      "4:100",
+      "8:72",
+      "9:20",
+      "9:40",
+      "16:41",
+      "22:58-59",
+      "29:56",
+      "59:8-9"
+    ]
+  },
+  {
+    "id": "human-creation",
+    "emoji": "🧬",
+    "names": {
+      "en": "Creation of the Human Being",
+      "bn": "মানুষের সৃষ্টি",
+      "ar": "خلق الإنسان",
+      "ur": "انسان کی تخلیق",
+      "id": "Penciptaan Manusia",
+      "tr": "İnsanın Yaratılışı",
+      "fr": "La création de l'être humain",
+      "zh": "人类的创造",
+      "ja": "人間の創造"
+    },
+    "refs": [
+      "15:28-29",
+      "22:5",
+      "23:12-14",
+      "32:7-9",
+      "40:67",
+      "75:36-40",
+      "86:5-7",
+      "95:4-5"
+    ]
+  },
+  {
+    "id": "dunya",
+    "emoji": "🕰️",
+    "names": {
+      "en": "Time & the Fleeting World",
+      "bn": "সময় ও ক্ষণস্থায়ী দুনিয়া",
+      "ar": "الزمن ومتاع الدنيا الزائل",
+      "ur": "وقت اور فانی دنیا",
+      "id": "Waktu & Dunia yang Fana",
+      "tr": "Zaman ve Geçici Dünya",
+      "fr": "Le temps et le monde éphémère",
+      "zh": "光阴与短暂的今世",
+      "ja": "時とはかない現世"
+    },
+    "refs": [
+      "6:32",
+      "10:24",
+      "18:45",
+      "23:112-114",
+      "57:20",
+      "79:46",
+      "87:16-17",
+      "103:1-3"
+    ]
+  },
+  {
+    "id": "covenants",
+    "emoji": "📜",
+    "names": {
+      "en": "Oaths & Covenants",
+      "bn": "শপথ ও অঙ্গীকার",
+      "ar": "العهود والأيمان",
+      "ur": "عہد اور قسمیں",
+      "id": "Janji & Sumpah",
+      "tr": "Ahitler ve Yeminler",
+      "fr": "Serments et engagements",
+      "zh": "誓约与盟约",
+      "ja": "誓いと契約"
+    },
+    "refs": [
+      "2:40",
+      "5:1",
+      "5:89",
+      "13:20",
+      "16:91-92",
+      "17:34",
+      "23:8",
+      "33:23"
+    ]
+  },
+  {
+    "id": "moderation",
+    "emoji": "📏",
+    "names": {
+      "en": "Moderation & Balance",
+      "bn": "মধ্যপন্থা ও ভারসাম্য",
+      "ar": "الاعتدال والميزان",
+      "ur": "اعتدال اور توازن",
+      "id": "Sikap Sederhana & Seimbang",
+      "tr": "Ölçü ve Denge",
+      "fr": "Modération et équilibre",
+      "zh": "中道与平衡",
+      "ja": "中庸と均衡"
+    },
+    "refs": [
+      "2:143",
+      "5:87",
+      "7:31",
+      "17:26-27",
+      "17:29",
+      "20:81",
+      "25:67",
+      "55:7-9"
+    ]
   }
 ];
 
