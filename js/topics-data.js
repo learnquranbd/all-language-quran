@@ -1196,7 +1196,119 @@ const TOPIC_COLLECTIONS = [
       fr: "Les noms de l'Enfer"
     , zh: '火狱的名称', ja: '火獄の名'},
     refs: ['74:26-27', '70:15', '104:4-5', '101:9', '79:39']
-  }
+  },
+  {
+    id: 'sabr',
+    emoji: '🌱',
+    names: {
+      en: 'Patience through trial',
+      bn: 'পরীক্ষায় ধৈর্য',
+      ar: 'الصبر عند البلاء',
+      ur: 'آزمائش میں صبر',
+      id: 'Sabar dalam ujian',
+      tr: 'İmtihanda sabır',
+      fr: 'La patience dans l’épreuve'
+    , zh: '患难中的坚忍', ja: '試練における忍耐'},
+    refs: ['2:155-157', '3:200', '39:10', '103:1-3', '94:5-6']
+  },
+  {
+    id: 'shukr',
+    emoji: '🙏',
+    names: {
+      en: 'Gratitude to Allah',
+      bn: 'আল্লাহর প্রতি কৃতজ্ঞতা',
+      ar: 'شكر الله',
+      ur: 'اللہ کا شکر',
+      id: 'Syukur kepada Allah',
+      tr: 'Allah’a şükür',
+      fr: 'La gratitude envers Allah'
+    , zh: '感恩真主', ja: 'アッラーへの感謝'},
+    refs: ['2:152', '14:7', '16:78', '31:12', '55:13']
+  },
+  {
+    id: 'taqwa',
+    emoji: '🛡️',
+    names: {
+      en: 'God-consciousness (taqwa)',
+      bn: 'তাকওয়া — আল্লাহভীতি',
+      ar: 'التقوى',
+      ur: 'تقویٰ',
+      id: 'Takwa',
+      tr: 'Takva',
+      fr: 'La piété (taqwâ)'
+    , zh: '敬畏（台格瓦）', ja: '敬虔さ（タクワー）'},
+    refs: ['2:197', '3:102', '49:13', '65:2-3', '91:9-10']
+  },
+  {
+    id: 'adl',
+    emoji: '⚖️',
+    names: {
+      en: 'Justice and fair dealing',
+      bn: 'ন্যায়বিচার ও সৎ লেনদেন',
+      ar: 'العدل والقسط',
+      ur: 'عدل و انصاف',
+      id: 'Keadilan dan kejujuran',
+      tr: 'Adalet ve dürüstlük',
+      fr: 'La justice et l’équité'
+    , zh: '公正与公平', ja: '正義と公正'},
+    refs: ['4:58', '4:135', '5:8', '16:90', '55:9']
+  },
+  {
+    id: 'ilm',
+    emoji: '📚',
+    names: {
+      en: 'Knowledge and reflection',
+      bn: 'জ্ঞান ও চিন্তা',
+      ar: 'العلم والتفكر',
+      ur: 'علم اور غور و فکر',
+      id: 'Ilmu dan perenungan',
+      tr: 'İlim ve tefekkür',
+      fr: 'Le savoir et la réflexion'
+    , zh: '知识与省思', ja: '知識と省察'},
+    refs: ['20:114', '35:28', '39:9', '58:11', '96:1-5']
+  },
+  {
+    id: 'rizq',
+    emoji: '🌾',
+    names: {
+      en: 'Provision and sustenance',
+      bn: 'রিজিক ও জীবিকা',
+      ar: 'الرزق',
+      ur: 'رزق',
+      id: 'Rezeki',
+      tr: 'Rızık',
+      fr: 'La subsistance'
+    , zh: '给养与生计', ja: '糧と扶養'},
+    refs: ['11:6', '29:60', '51:22', '65:2-3', '67:15']
+  },
+  {
+    id: 'birr_walidayn',
+    emoji: '🤲',
+    names: {
+      en: 'Kindness to parents',
+      bn: 'পিতামাতার প্রতি সদ্ব্যবহার',
+      ar: 'بر الوالدين',
+      ur: 'والدین کے ساتھ حسن سلوک',
+      id: 'Berbakti kepada orang tua',
+      tr: 'Ana babaya iyilik',
+      fr: 'La bonté envers les parents'
+    , zh: '孝敬父母', ja: '両親への孝行'},
+    refs: ['17:23-24', '29:8', '31:14', '46:15', '4:36']
+  },
+  {
+    id: 'quran_about_itself',
+    emoji: '📖',
+    names: {
+      en: 'What the Quran says of itself',
+      bn: 'কুরআন নিজের সম্পর্কে যা বলে',
+      ar: 'ما يقوله القرآن عن نفسه',
+      ur: 'قرآن اپنے بارے میں کیا کہتا ہے',
+      id: 'Apa kata Al-Qur’an tentang dirinya',
+      tr: 'Kur’an kendini nasıl tanıtır',
+      fr: 'Ce que le Coran dit de lui-même'
+    , zh: '《古兰经》如何自述', ja: 'クルアーンが自らを語る'},
+    refs: ['2:2', '15:9', '17:9', '54:17', '59:21']
+  },
 ];
 
 /**
