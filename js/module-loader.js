@@ -107,6 +107,58 @@ LQ.Modules = (function () {
   return { load, loaded, BUNDLES };
 })();
 
+/* UI-string packs. index.html injects the pack for the language saved at load
+ * time; switching language afterwards needs that language's pack fetched before
+ * anything repaints, or the UI would fall back to English. t() already degrades
+ * to English for a missing pack, so the worst case is a brief English label
+ * rather than a raw key. */
+LQ.I18n = (function () {
+  const PACKS = ['bn', 'ar', 'ur', 'id', 'tr', 'fr', 'es', 'ru', 'fa', 'hi', 'de', 'ms', 'zh', 'ja'];
+  const state = {};
+
+  function have(lang) {
+    return lang === 'en' || (typeof TRANSLATIONS !== 'undefined' && TRANSLATIONS && !!TRANSLATIONS[lang]);
+  }
+
+  function load(lang) {
+    if (!lang || have(lang) || PACKS.indexOf(lang) === -1) return Promise.resolve();
+    if (state[lang]) return state[lang];
+    const v = (function () {
+      const s = document.querySelector('script[src*="module-loader.js"]');
+      const m = s && s.src.match(/[?&]v=(\d+)/);
+      return m ? '?v=' + m[1] : '';
+    })();
+    state[lang] = new Promise((resolve) => {
+      const el = document.createElement('script');
+      el.src = 'js/i18n/' + lang + '.js' + v;
+      el.async = false;
+      el.onload = () => resolve();
+      el.onerror = () => { delete state[lang]; resolve(); };  // English fallback is acceptable
+      document.head.appendChild(el);
+    });
+    return state[lang];
+  }
+
+  /* Fetch before the repaint. Listening in the CAPTURE phase gets us ahead of
+   * the module listeners, and the event is re-dispatched once the pack is in so
+   * they repaint against the real strings. */
+  window.addEventListener('settingChanged', function (e) {
+    const d = e && e.detail;
+    if (!d || d.key !== 'language' || d.i18nReplay) return;
+    const lang = d.value;
+    if (have(lang)) return;
+    load(lang).then(() => {
+      try {
+        window.dispatchEvent(new CustomEvent('settingChanged', {
+          detail: { key: 'language', value: lang, i18nReplay: true },
+        }));
+      } catch (err) { /* ignore */ }
+    });
+  }, true);
+
+  return { load, have };
+})();
+
 /* The verse modal shows an optional Tadabbur reflection. That data belongs to
  * the Tadabbur tab, so pull it in the first time a verse modal is opened rather
  * than carrying 774 KB on every page load for a panel most readers never see.

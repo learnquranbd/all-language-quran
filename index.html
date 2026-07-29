@@ -48,10 +48,13 @@
   <!-- Google Fonts for Arabic -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <!-- Amiri is only a FALLBACK behind the locally bundled CustomArabic face, so it must not block first paint.
+       media="print" makes the browser fetch it at low priority without applying it; onload promotes it to all. -->
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"></noscript>
 
   <!-- Custom Styles -->
-  <link rel="stylesheet" href="css/style.css?v=220">
+  <link rel="stylesheet" href="css/style.css?v=222">
 </head>
 <body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300 overflow-x-hidden">
 
@@ -504,79 +507,103 @@
   </div>
 
   <!-- Scripts -->
-  <script defer src="js/surah-data.js?v=220"></script>
-  <script defer src="js/translations.js?v=220"></script>
-  <script defer src="js/content-i18n.js?v=220"></script>
-  <script defer src="js/module-loader.js?v=220"></script>
-  <script defer src="js/quran-data.js?v=220"></script>
-  <script defer src="js/ayah-modal.js?v=220"></script>
-    <script defer src="js/ayah-timeline.js?v=220"></script>
-  <script defer src="js/tabs.js?v=220"></script>
-  <script defer src="js/settings.js?v=220"></script>
-  <script defer src="js/wordbyword.js?v=220"></script>
-  <script defer src="js/grammar.js?v=220"></script>
-  <script defer src="js/memorize.js?v=220"></script>
-  <script defer src="js/quiz-center.js?v=220"></script>
-  <script defer src="js/word-highlight.js?v=220"></script>
-  <script defer src="js/audio.js?v=220"></script>
-  <script defer src="js/tafseer.js?v=220"></script>
-  <script defer src="js/tajweed.js?v=220"></script>
-  <script defer src="js/qaida-data.js?v=220"></script>
-  <script defer src="js/learn-kids.js?v=220"></script>
-  <script defer src="js/vocab-data.js?v=220"></script>
-  <script defer src="js/learn-vocab.js?v=220"></script>
-  <script defer src="js/names-data.js?v=220"></script>
-  <script defer src="js/learn-names.js?v=220"></script>
-  <script defer src="js/learn.js?v=220"></script>
-  <script defer src="js/learn-prayer-data.js?v=220"></script>
-  <script defer src="js/learn-prayer.js?v=220"></script>
-  <script defer src="js/learn-sawm.js?v=220"></script>
-  <script defer src="js/learn-hajj.js?v=220"></script>
-  <script defer src="js/learn-zakat.js?v=220"></script>
-  <script defer src="js/handwriting-data.js?v=220"></script>
-  <script defer src="js/handwriting.js?v=220"></script>
-  <script defer src="js/type-memorize.js?v=220"></script>
-  <script defer src="js/word-arrange.js?v=220"></script>
-  <script defer src="js/record-memorize.js?v=220"></script>
-  <script defer src="js/menu-data.js?v=220"></script>
-  <script defer src="js/legacy-surah-data.js?v=220"></script>
-  <script defer src="js/sidebar-menu.js?v=220"></script>
-  <script defer src="js/app-nav.js?v=220"></script>
-  <script defer src="js/topics-browser.js?v=220"></script>
-  <script defer src="js/word-repeat.js?v=220"></script>
-  <script defer src="js/sarf.js?v=220"></script>
-  <script defer src="js/amal-daily.js?v=220"></script>
-  <script defer src="js/tajweed-data.js?v=220"></script>
-  <script defer src="js/tajweed-learn.js?v=220"></script>
-  <script defer src="js/khatmah.js?v=220"></script>
-  <script defer src="js/resources.js?v=220"></script>
-  <script defer src="js/mutashabihat-data.js?v=220"></script>
-  <script defer src="js/mutashabihat.js?v=220"></script>
-  <script defer src="js/islam-fard.js?v=220"></script>
-  <script defer src="js/islam-wajib.js?v=220"></script>
-  <script defer src="js/islam-nafl.js?v=220"></script>
-  <script defer src="js/islam-makruh.js?v=220"></script>
-  <script defer src="js/islam-mustahabb.js?v=220"></script>
-  <script defer src="js/nuzul-timeline.js?v=220"></script>
-  <script defer src="js/topics-data.js?v=220"></script>
-  <script defer src="js/topics-prophet-duas.js?v=220"></script>
-  <script defer src="js/topics-protection-duas.js?v=220"></script>
-  <script defer src="js/topics-life-duas.js?v=220"></script>
-  <script defer src="js/topics-growth-duas.js?v=220"></script>
-  <script defer src="js/navigation.js?v=220"></script>
-  <script defer src="js/legacy-ayah.js?v=220"></script>
-  <script defer src="js/settings-drawer.js?v=220"></script>
-  <script defer src="js/firebase-config.js?v=220"></script>
-  <script defer src="js/account.js?v=220"></script>
-  <script defer src="js/ponder.js?v=220"></script>
-  <script defer src="js/mushaf.js?v=220"></script>
-  <script defer src="js/pwa.js?v=220"></script>
-  <script defer src="js/search.js?v=220"></script>
-  <script defer src="js/subscribe.js?v=220"></script>
-  <script defer src="js/bookmarks.js?v=220"></script>
-  <script defer src="js/dashboard.js?v=220"></script>
-    <script defer src="js/app.js?v=220"></script>
-  <script defer src="js/welcome-modal.js?v=220"></script>
+  <script defer src="js/surah-data.js?v=222"></script>
+  <script defer src="js/translations.js?v=222"></script>
+  <script>
+    /* UI strings used to ship all 15 languages in one 1.4 MB file. They now live
+       one-per-file in js/i18n/, and only the reader's saved language is fetched
+       alongside the English core (~172 KB instead of 1441 KB).
+
+       document.write is deliberate: written during parsing it produces a
+       PARSER-inserted deferred script, which is guaranteed to run in document
+       order — after translations.js above and before every module script below.
+       A DOM-inserted script carries no such ordering guarantee against the
+       parser-inserted defers, and the modules read t() as soon as they
+       initialise. Same-origin and tiny, so none of the usual document.write
+       objections apply.
+
+       If anything here fails, t() simply falls back to English. */
+    (function () {
+      try {
+        var s = JSON.parse(localStorage.getItem('quranAppSettings') || '{}');
+        var lang = s && s.language;
+        var KNOWN = ['bn','ar','ur','id','tr','fr','es','ru','fa','hi','de','ms','zh','ja'];
+        if (KNOWN.indexOf(lang) === -1) return;      // English needs no pack
+        document.write('<script defer src="js/i18n/' + lang + '.js?v=222"><\/script>');
+      } catch (e) { /* English core already covers every key */ }
+    })();
+  </script>
+  <script defer src="js/content-i18n.js?v=222"></script>
+  <script defer src="js/module-loader.js?v=222"></script>
+  <script defer src="js/quran-data.js?v=222"></script>
+  <script defer src="js/ayah-modal.js?v=222"></script>
+    <script defer src="js/ayah-timeline.js?v=222"></script>
+  <script defer src="js/tabs.js?v=222"></script>
+  <script defer src="js/settings.js?v=222"></script>
+  <script defer src="js/wordbyword.js?v=222"></script>
+  <script defer src="js/grammar.js?v=222"></script>
+  <script defer src="js/memorize.js?v=222"></script>
+  <script defer src="js/quiz-center.js?v=222"></script>
+  <script defer src="js/word-highlight.js?v=222"></script>
+  <script defer src="js/audio.js?v=222"></script>
+  <script defer src="js/tafseer.js?v=222"></script>
+  <script defer src="js/tajweed.js?v=222"></script>
+  <script defer src="js/qaida-data.js?v=222"></script>
+  <script defer src="js/learn-kids.js?v=222"></script>
+  <script defer src="js/vocab-data.js?v=222"></script>
+  <script defer src="js/learn-vocab.js?v=222"></script>
+  <script defer src="js/names-data.js?v=222"></script>
+  <script defer src="js/learn-names.js?v=222"></script>
+  <script defer src="js/learn.js?v=222"></script>
+  <script defer src="js/learn-prayer-data.js?v=222"></script>
+  <script defer src="js/learn-prayer.js?v=222"></script>
+  <script defer src="js/learn-sawm.js?v=222"></script>
+  <script defer src="js/learn-hajj.js?v=222"></script>
+  <script defer src="js/learn-zakat.js?v=222"></script>
+  <script defer src="js/handwriting-data.js?v=222"></script>
+  <script defer src="js/handwriting.js?v=222"></script>
+  <script defer src="js/type-memorize.js?v=222"></script>
+  <script defer src="js/word-arrange.js?v=222"></script>
+  <script defer src="js/record-memorize.js?v=222"></script>
+  <script defer src="js/menu-data.js?v=222"></script>
+  <script defer src="js/legacy-surah-data.js?v=222"></script>
+  <script defer src="js/sidebar-menu.js?v=222"></script>
+  <script defer src="js/app-nav.js?v=222"></script>
+  <script defer src="js/topics-browser.js?v=222"></script>
+  <script defer src="js/word-repeat.js?v=222"></script>
+  <script defer src="js/sarf.js?v=222"></script>
+  <script defer src="js/amal-daily.js?v=222"></script>
+  <script defer src="js/tajweed-data.js?v=222"></script>
+  <script defer src="js/tajweed-learn.js?v=222"></script>
+  <script defer src="js/khatmah.js?v=222"></script>
+  <script defer src="js/resources.js?v=222"></script>
+  <script defer src="js/mutashabihat-data.js?v=222"></script>
+  <script defer src="js/mutashabihat.js?v=222"></script>
+  <script defer src="js/islam-fard.js?v=222"></script>
+  <script defer src="js/islam-wajib.js?v=222"></script>
+  <script defer src="js/islam-nafl.js?v=222"></script>
+  <script defer src="js/islam-makruh.js?v=222"></script>
+  <script defer src="js/islam-mustahabb.js?v=222"></script>
+  <script defer src="js/nuzul-timeline.js?v=222"></script>
+  <script defer src="js/topics-data.js?v=222"></script>
+  <script defer src="js/topics-prophet-duas.js?v=222"></script>
+  <script defer src="js/topics-protection-duas.js?v=222"></script>
+  <script defer src="js/topics-life-duas.js?v=222"></script>
+  <script defer src="js/topics-growth-duas.js?v=222"></script>
+  <script defer src="js/navigation.js?v=222"></script>
+  <script defer src="js/legacy-ayah.js?v=222"></script>
+  <script defer src="js/settings-drawer.js?v=222"></script>
+  <script defer src="js/firebase-config.js?v=222"></script>
+  <script defer src="js/account.js?v=222"></script>
+  <script defer src="js/ponder.js?v=222"></script>
+  <script defer src="js/mushaf.js?v=222"></script>
+  <script defer src="js/pwa.js?v=222"></script>
+  <script defer src="js/search.js?v=222"></script>
+  <script defer src="js/subscribe.js?v=222"></script>
+  <script defer src="js/bookmarks.js?v=222"></script>
+  <script defer src="js/dashboard.js?v=222"></script>
+    <script defer src="js/app.js?v=222"></script>
+  <script defer src="js/welcome-modal.js?v=222"></script>
   <script>
     // Site title: translate to current language and hard-refresh on click.
     // Runs on DOMContentLoaded because the module scripts above are deferred:
