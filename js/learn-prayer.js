@@ -127,7 +127,7 @@ class SalahModule {
       return;
     }
     const qreset = e.target.closest('[data-salah-quiz-reset]');
-    if (qreset) { this.quizAnswers = {}; this.quizSubmitted = false; this.render(); return; }
+    if (qreset) { this.quizAnswers = {}; this.quizSubmitted = false; this.shuffleQuiz(); this.render(); return; }
     const wqOpt = e.target.closest('[data-wq-opt]');
     if (wqOpt && this.view === 'wudu-quiz') {
       const val = wqOpt.getAttribute('data-wq-opt');
@@ -143,7 +143,7 @@ class SalahModule {
       return;
     }
     const wqReset = e.target.closest('[data-wq-reset]');
-    if (wqReset) { this.wqAnswers = {}; this.wqSubmitted = false; this.render(); return; }
+    if (wqReset) { this.wqAnswers = {}; this.wqSubmitted = false; this._wqOptPerm = null; this.render(); return; }
     const tcBtn = e.target.closest('[data-tc-inc]');
     if (tcBtn && this.view === 'tasbeeh') {
       const id = tcBtn.getAttribute('data-tc-inc');
@@ -156,7 +156,7 @@ class SalahModule {
     const tcReset = e.target.closest('[data-tc-reset]');
     if (tcReset) { this.tcCounts = {}; this.render(); return; }
     const wuduQuizBtn = e.target.closest('[data-salah-view-wq]');
-    if (wuduQuizBtn) { this.view = 'wudu-quiz'; this.wqAnswers = {}; this.wqSubmitted = false; this.render(); return; }
+    if (wuduQuizBtn) { this.view = 'wudu-quiz'; this.wqAnswers = {}; this.wqSubmitted = false; this._wqOptPerm = null; this.render(); return; }
     const tasbeehBtn = e.target.closest('[data-salah-view-tc]');
     if (tasbeehBtn) { this.view = 'tasbeeh'; this.tcInit(); this.render(); return; }
     const speakBtn = e.target.closest('[data-salah-speak]');
@@ -180,6 +180,31 @@ class SalahModule {
       const j = Math.floor(Math.random() * (i + 1));
       [this.quizOrder[i], this.quizOrder[j]] = [this.quizOrder[j], this.quizOrder[i]];
     }
+    this._optPerm = null;  // reshuffle option order too
+  }
+
+  /**
+   * Stable per-session display order for each question's OPTIONS. The question
+   * order was already shuffled, but the options were not: in SALAH_QUIZ 52 of
+   * 75 correct answers sit at index 1 and in WUDU_QUIZ 22 of 30 do, so always
+   * picking the second choice scored about 70%. Buttons keep their ORIGINAL
+   * option index, so scoring and stored answers are untouched.
+   */
+  optPerm(which) {
+    const src = which === 'wudu' ? WUDU_QUIZ : SALAH_QUIZ;
+    const slot = which === 'wudu' ? '_wqOptPerm' : '_optPerm';
+    if (!this[slot] || this[slot].length !== src.length) {
+      this[slot] = src.map((q) => {
+        const n = (q.optsEn || q.optsBn || []).length;
+        const idx = Array.from({ length: n }, (_, i) => i);
+        for (let i = n - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [idx[i], idx[j]] = [idx[j], idx[i]];
+        }
+        return idx;
+      });
+    }
+    return this[slot];
   }
 
   submitQuiz() {
@@ -551,7 +576,8 @@ class SalahModule {
           <div class="mb-3 p-3 rounded-xl bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700">
             <p class="font-semibold text-sm text-gray-800 dark:text-gray-100 mb-2" dir="auto">${i + 1}. ${this.esc(this.lc({ en: qq.qEn, bn: qq.qBn }))}</p>
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
-              ${qq.optsEn.map((o, oi) => {
+              ${this.optPerm('wudu')[i].map((oi) => {
+                const o = qq.optsEn[oi];
                 let cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-200 hover:border-primary';
                 if (answered) {
                   if (oi === qq.correct) cls = 'bg-green-50 dark:bg-green-900/20 border-green-400 dark:border-green-700 text-green-700 dark:text-green-300';
@@ -591,8 +617,9 @@ class SalahModule {
       const q = SALAH_QUIZ[qi];
       const sel = this.quizAnswers[qi];
       const answered = sel != null;
-      const opts = q.optsEn.map((_, oi) => ({ en: q.optsEn[oi], bn: q.optsBn[oi] }));
-      const optHtml = opts.map((o, oi) => {
+      // Display in shuffled order; each button keeps its original option index.
+      const optHtml = this.optPerm('salah')[qi].map((oi) => {
+        const o = { en: q.optsEn[oi], bn: q.optsBn[oi] };
         const chosen = sel === oi;
         let cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-200 hover:border-primary';
         let mark = '';
