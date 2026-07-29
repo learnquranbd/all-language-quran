@@ -53,7 +53,7 @@ const LEGACY_MENU = [
     {"bn":"পরিবারের জন্য দু'আ","en":"Family","partial":"quran/dua/family"},
     {"bn":"নিরাপত্তা এবং সুরক্ষার দু'আ","en":"Protection","partial":"quran/dua/protection"},
     {"bn":"পরকালের জন্য দু'আ","en":"Afterlife","partial":"quran/dua/afterlife"},
-    {"bn":"অনুগ্রহ  / আশ্রয়","en":"Refgue","partial":"quran/dua/refgue"}
+    {"bn":"অনুগ্রহ  / আশ্রয়","en":"Refuge","partial":"quran/dua/refgue"}
     ]
   },
   {
