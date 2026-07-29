@@ -39,7 +39,7 @@ const KIDS_LETTER_DOTS = {
 };
 
 // Inline localization for the six newer quiz games (no central i18n keys —
-// rendered as o[lang] || o.en, same pattern as KIDS_DUA_L10N above).
+// rendered as this.L(o, lang), same pattern as KIDS_DUA_L10N above).
 const KIDS_EXTRA_QUIZ_L10N = {
   formmatch: {
     title:  { en: 'Shape Detective', bn: 'রূপ গোয়েন্দা', zh: '字形侦探', ja: 'かたち探偵', ar: 'محقق الأشكال', ur: 'شکل جاسوس' },
@@ -92,7 +92,7 @@ const KIDS_GRADIENTS = [
 ];
 
 // Localized meaning/when for KIDS_DUAS (js/qaida-data.js), same order as that
-// array. Rendered as m[lang] || m.en, mirroring VOCAB_WORDS.meanings.
+// array. Rendered as this.L(m, lang), mirroring VOCAB_WORDS.meanings.
 const KIDS_DUA_L10N = [
   { // Bismillah
     meaning: { en: 'In the name of Allah.', bn: 'আল্লাহর নামে।', zh: '奉真主之名。', ja: 'アッラーの御名において。', ar: 'باسم الله.', ur: 'اللہ کے نام سے۔' },
@@ -181,7 +181,7 @@ const KIDS_DUA_L10N = [
 ];
 
 // Localized name/meaning for KIDS_KALIMAS (js/qaida-data.js), same order as
-// that array. Rendered as x[lang] || x.en, mirroring KIDS_DUA_L10N.
+// that array. Rendered as this.L(x, lang), mirroring KIDS_DUA_L10N.
 const KIDS_KALIMA_L10N = [
   {
     name:    { en: '1st Kalima — Tayyibah (Purity)', bn: '১ম কালিমা — তাইয়্যিবাহ', zh: '第一凯里麦——清真言（纯洁）', ja: '第一カリマ——タイイバ（清純）' },
@@ -210,6 +210,21 @@ const KIDS_KALIMA_L10N = [
 ];
 
 class KidsQaida {
+  /**
+   * Content-string resolver. These objects already support inline per-language
+   * keys, but only en/bn are authored, so every other language fell straight
+   * through to English. Consult the offline content-i18n dictionary in between,
+   * as the Seerah, Tadabbur, Tajweed and Handwriting modules do.
+   */
+  L(o, lang) {
+    if (!o) return '';
+    const l = lang || this.language;
+    if (o[l]) return o[l];
+    const en = o.en || '';
+    if (!en || typeof CI18N === 'undefined') return en;
+    return CI18N.tr(l, en) || en;
+  }
+
   constructor() {
     this.root = document.getElementById('learn-kids-root');
     if (!this.root) return;
@@ -904,7 +919,7 @@ class KidsQaida {
 
   wordMeaning(w) {
     const m = w.meanings || {};
-    return m[this.language] || m.en || '';
+    return this.L(m) || '';
   }
 
   /* ------------------------------------------- Themed words ("Word Fun") */
@@ -923,7 +938,7 @@ class KidsQaida {
 
   themeMeaning(w) {
     const m = w.meaning || {};
-    return m[this.language] || m.en || '';
+    return this.L(m) || '';
   }
 
   renderThemes(lang) {
@@ -932,7 +947,7 @@ class KidsQaida {
       <p class="text-center text-gray-500 dark:text-gray-400 mb-4">🐾 ${t('kids_theme_hint', lang)}</p>
       ${src.map(theme => `
         <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-2 mt-5">
-          ${theme.emoji} ${theme.label[lang] || theme.label.en}
+          ${theme.emoji} ${this.L(theme.label, lang)}
         </h3>
         <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4">
           ${theme.words.map((w, i) => `
@@ -1272,10 +1287,10 @@ class KidsQaida {
             <span class="ayah-arabic !text-3xl sm:!text-4xl !leading-[2.4]" dir="rtl">${d.arabic}</span>
             <span class="text-base font-bold text-gray-600 dark:text-gray-300">${d.translit}</span>
             <span class="text-sm text-gray-600 dark:text-gray-300" dir="auto">
-              <span class="font-semibold">${t('meaning_label', lang)}</span> ${m[lang] || m.en}
+              <span class="font-semibold">${t('meaning_label', lang)}</span> ${this.L(m, lang)}
             </span>
             <span class="text-xs text-gray-500 dark:text-gray-400" dir="auto">
-              <span class="font-semibold">${t('when_label', lang)}</span> ${w[lang] || w.en}
+              <span class="font-semibold">${t('when_label', lang)}</span> ${this.L(w, lang)}
             </span>
             ${d.src ? `<span class="text-[10px] text-gray-500/80 dark:text-gray-400/80">📜 ${d.src}</span>` : ''}
           </button>
@@ -1298,11 +1313,11 @@ class KidsQaida {
           <button data-kids-kalima-idx="${i}"
                   class="rounded-2xl bg-gradient-to-br ${KIDS_GRADIENTS[i % KIDS_GRADIENTS.length]}
                          shadow hover:shadow-lg hover:scale-105 transition-all p-5 sm:p-6 text-center flex flex-col gap-3">
-            <span class="text-sm font-extrabold text-indigo-700 dark:text-indigo-300" dir="auto">${name[lang] || name.en}</span>
+            <span class="text-sm font-extrabold text-indigo-700 dark:text-indigo-300" dir="auto">${this.L(name, lang)}</span>
             <span class="ayah-arabic !text-2xl sm:!text-3xl !leading-[2.4]" dir="rtl">${k.arabic}</span>
             <span class="text-sm font-bold text-gray-600 dark:text-gray-300" dir="ltr">${k.translit}</span>
             <span class="text-sm text-gray-600 dark:text-gray-300" dir="auto">
-              <span class="font-semibold">${t('meaning_label', lang)}</span> ${m[lang] || m.en}
+              <span class="font-semibold">${t('meaning_label', lang)}</span> ${this.L(m, lang)}
             </span>
             ${k.src ? `<span class="text-[10px] text-gray-500/80 dark:text-gray-400/80">📜 ${k.src}</span>` : ''}
           </button>
@@ -1322,7 +1337,7 @@ class KidsQaida {
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         ${src.map((s, i) => {
           const title   = s.title   ? (s.title[lang]   || s.title.en)   : s.id;
-          const summary = s.summary ? (s.summary[lang] || s.summary.en) : '';
+          const summary = s.summary ? (this.L(s.summary, lang)) : '';
           const moral   = s.moral   ? (s.moral[lang]   || s.moral.en)   : '';
           const refs    = (s.refs || []).join(', ');
           return `
@@ -1350,7 +1365,7 @@ class KidsQaida {
       <p class="text-center text-gray-500 dark:text-gray-400 mb-4">🌸 ${lang === 'bn' ? 'ইসলামি আদব — ছোটদের জন্য' : 'Islamic manners for children'}</p>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         ${src.map((a, i) => {
-          const title = a.title ? (a.title[lang] || a.title.en) : a.id;
+          const title = a.title ? (this.L(a.title, lang)) : a.id;
           const body  = a.body  ? (a.body[lang]  || a.body.en)  : '';
           return `
           <div class="rounded-2xl bg-gradient-to-br ${KIDS_GRADIENTS[i % KIDS_GRADIENTS.length]}
@@ -1373,11 +1388,11 @@ class KidsQaida {
     return this.renderQuizRound(lang);
   }
 
-  /** Inline-l10n lookup for the newer quiz games (o[lang] || o.en). */
+  /** Inline-l10n lookup for the newer quiz games (this.L(o, lang)). */
   kqx(mode, field, lang) {
     const g = KIDS_EXTRA_QUIZ_L10N[mode];
     const o = g && g[field];
-    return o ? (o[lang] || o.en) : '';
+    return o ? (this.L(o, lang)) : '';
   }
 
   /** All quiz games — shared by the quiz menu and the "My Stars" screen. */
@@ -1914,7 +1929,7 @@ class KidsQaida {
           correctIndex: options.indexOf(odd),
           optionType: 'themeword',
           promptEmoji: main.emoji,
-          promptText: main.label[this.language] || main.label.en,
+          promptText: this.L(main.label),
           autoSpeak: null,
           rewardAudio: odd.arabic
         };

@@ -67,6 +67,20 @@ class Handwriting {
     this.root.addEventListener('click', (e) => this.onClick(e));
   }
 
+  /**
+   * Content-string resolver for the other 13 languages. Handwriting prose is
+   * authored as { en, bn } pairs and every non-Bangla language was hard-wired to
+   * English regardless of what the dictionary held. Mirrors the Seerah, Tadabbur
+   * and Tajweed modules.
+   */
+  L(o) {
+    if (!o) return '';
+    if (this.language === 'bn' && o.bn) return o.bn;
+    const en = o.en || '';
+    if (!en || typeof CI18N === 'undefined') return en;
+    return CI18N.tr(this.language, en) || en;
+  }
+
   targets() {
     if (this.section === 'numbers') {
       // HW_NUMBERS was authored but never rendered — the Arabic-Indic digits
@@ -174,7 +188,7 @@ class Handwriting {
     const tipHTML = tipData ? `
       <div class="flex gap-2 items-start">
         <span class="text-base shrink-0">✏️</span>
-        <p class="text-sm text-gray-700 dark:text-gray-300 leading-snug">${isBn ? tipData.bn : tipData.en}</p>
+        <p class="text-sm text-gray-700 dark:text-gray-300 leading-snug">${this.L(tipData)}</p>
       </div>` : '';
 
     // Confusable-letters warning for this letter
@@ -187,7 +201,7 @@ class Handwriting {
             ${isBn ? 'বিভ্রান্তিকর অক্ষর:' : 'Similar letters:'}
             <span dir="rtl" class="ayah-arabic font-normal">${confGroup.letters.join(' ')}</span>
           </p>
-          <p class="text-xs text-gray-600 dark:text-gray-400 leading-snug">${isBn ? confGroup.tip.bn : confGroup.tip.en}</p>
+          <p class="text-xs text-gray-600 dark:text-gray-400 leading-snug">${this.L(confGroup.tip)}</p>
         </div>
       </div>` : '';
 
@@ -196,10 +210,10 @@ class Handwriting {
       <details class="border border-gray-200 dark:border-gray-700 rounded-lg overflow-hidden"${i === 0 ? ' open' : ''}>
         <summary class="flex items-center gap-2 px-3 py-2 cursor-pointer text-sm font-medium text-gray-700 dark:text-gray-200 select-none">
           <span>${b.icon}</span>
-          <span class="flex-1">${isBn ? b.title.bn : b.title.en}</span>
+          <span class="flex-1">${this.L(b.title)}</span>
           <span class="text-gray-400 text-xs">▾</span>
         </summary>
-        <p class="px-3 pb-3 pt-1 text-xs text-gray-600 dark:text-gray-400 leading-relaxed border-t border-gray-100 dark:border-gray-700">${isBn ? b.body.bn : b.body.en}</p>
+        <p class="px-3 pb-3 pt-1 text-xs text-gray-600 dark:text-gray-400 leading-relaxed border-t border-gray-100 dark:border-gray-700">${this.L(b.body)}</p>
       </details>`).join('');
 
     // Practice-word grid shown only in the Words section
@@ -213,7 +227,7 @@ class Handwriting {
             <div class="bg-white dark:bg-gray-800 rounded-lg px-2 py-2 border border-gray-100 dark:border-gray-700 text-center">
               <div class="ayah-arabic text-2xl leading-none mb-0.5">${w.arabic}</div>
               <div class="text-xs font-medium text-gray-600 dark:text-gray-400" dir="ltr">${w.translit}</div>
-              <div class="text-xs text-gray-400 dark:text-gray-500 mt-0.5 leading-tight" dir="ltr">${isBn ? w.note.bn : w.note.en}</div>
+              <div class="text-xs text-gray-400 dark:text-gray-500 mt-0.5 leading-tight" dir="ltr">${this.L(w.note)}</div>
             </div>`).join('')}
         </div>
       </div>` : '';
@@ -326,21 +340,21 @@ class Handwriting {
       <details class="border border-gray-200 dark:border-gray-700 rounded-lg overflow-hidden">
         <summary class="flex items-center gap-2 px-3 py-2 cursor-pointer select-none bg-white dark:bg-gray-800">
           <span class="ayah-arabic text-2xl leading-none w-10 text-center shrink-0">${h.symbol}</span>
-          <span class="flex-1 text-sm font-semibold text-blue-700 dark:text-blue-300">${isBn ? h.name.bn : h.name.en}</span>
+          <span class="flex-1 text-sm font-semibold text-blue-700 dark:text-blue-300">${this.L(h.name)}</span>
           <span class="text-gray-400 text-xs shrink-0">▾</span>
         </summary>
         <div class="px-3 pb-3 pt-2 space-y-1.5 border-t border-gray-100 dark:border-gray-700 bg-white dark:bg-gray-800">
           <p class="text-xs text-gray-600 dark:text-gray-400 leading-relaxed">
             <span class="font-medium text-gray-700 dark:text-gray-300">${isBn ? '📍 স্থান:' : '📍 Placement:'}</span>
-            ${isBn ? h.placement.bn : h.placement.en}
+            ${this.L(h.placement)}
           </p>
           <p class="text-xs text-gray-600 dark:text-gray-400 leading-relaxed">
             <span class="font-medium text-gray-700 dark:text-gray-300">${isBn ? '🔊 উচ্চারণ:' : '🔊 Sound:'}</span>
-            ${isBn ? h.sound.bn : h.sound.en}
+            ${this.L(h.sound)}
           </p>
           <div class="flex gap-1.5 items-start mt-1 bg-amber-50 dark:bg-amber-900/20 rounded-lg px-2 py-1.5 border border-amber-100 dark:border-amber-800">
             <span class="shrink-0 text-amber-500">⚠️</span>
-            <p class="text-xs text-amber-700 dark:text-amber-400 leading-relaxed">${isBn ? h.mistake.bn : h.mistake.en}</p>
+            <p class="text-xs text-amber-700 dark:text-amber-400 leading-relaxed">${this.L(h.mistake)}</p>
           </div>
         </div>
       </details>`).join('');
@@ -376,7 +390,7 @@ class Handwriting {
           <span class="ayah-arabic text-xl leading-none shrink-0 w-8 text-center">${fl.letter}</span>
           <div class="flex-1">
             <span class="text-xs font-medium text-gray-500 dark:text-gray-400 font-mono">${fl.context}</span>
-            <p class="text-xs text-gray-600 dark:text-gray-400 leading-relaxed mt-0.5">${isBn ? fl.tip.bn : fl.tip.en}</p>
+            <p class="text-xs text-gray-600 dark:text-gray-400 leading-relaxed mt-0.5">${this.L(fl.tip)}</p>
           </div>
         </div>`).join('');
 
@@ -389,7 +403,7 @@ class Handwriting {
           </summary>
           <div class="px-3 pb-3 pt-2 border-t border-gray-100 dark:border-gray-700 bg-white dark:bg-gray-800">
             <p class="text-xs text-gray-500 dark:text-gray-400 italic mb-1">${v.translit}</p>
-            <p class="text-xs text-emerald-700 dark:text-emerald-400 mb-3">${isBn ? v.meaning.bn : v.meaning.en}</p>
+            <p class="text-xs text-emerald-700 dark:text-emerald-400 mb-3">${this.L(v.meaning)}</p>
             <div class="space-y-2">${focusItems}</div>
           </div>
         </details>`;
@@ -449,13 +463,13 @@ class Handwriting {
     const isBn = this.language === 'bn';
     const styleCards = HW_KHAT_STYLES.map(s => {
       const noteItems = s.notes.map(n => `
-        <p class="text-xs text-gray-600 dark:text-gray-400 leading-relaxed">${isBn ? n.bn : n.en}</p>`).join('');
+        <p class="text-xs text-gray-600 dark:text-gray-400 leading-relaxed">${this.L(n)}</p>`).join('');
 
       return `
         <details class="border border-gray-200 dark:border-gray-700 rounded-lg overflow-hidden">
           <summary class="flex items-center gap-2 px-3 py-2 cursor-pointer select-none bg-white dark:bg-gray-800">
             <span class="text-base shrink-0">${s.emoji}</span>
-            <span class="flex-1 text-sm font-semibold text-gray-700 dark:text-gray-200">${isBn ? s.name.bn : s.name.en}</span>
+            <span class="flex-1 text-sm font-semibold text-gray-700 dark:text-gray-200">${this.L(s.name)}</span>
             <span class="text-gray-400 text-xs shrink-0">▾</span>
           </summary>
           <div class="px-3 pb-3 pt-2 space-y-2 border-t border-gray-100 dark:border-gray-700 bg-white dark:bg-gray-800">
