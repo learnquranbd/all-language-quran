@@ -113,9 +113,22 @@ class Tadabbur {
   }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
   surahName(n) { return (typeof getSurahName === 'function') ? getSurahName(parseInt(n, 10), this.language) : String(n); }
+  /**
+   * Content-string resolver for the other 13 languages. Note prose is authored
+   * as en/bn only; every non-Bangla language previously fell straight through
+   * to English. Consult the offline content-i18n dictionary first, exactly as
+   * the Seerah and Sahaba modules do, and keep English as the last resort.
+   */
+  ci(en) {
+    if (!en) return '';
+    if (typeof CI18N === 'undefined') return en;
+    const tr = CI18N.tr(this.language, en);
+    return tr || en;
+  }
   themeLabel(id) {
     const o = (typeof PONDER_THEMES !== 'undefined') ? PONDER_THEMES[id] : null;
-    return o ? (o[this.language] || o.en) : '';
+    if (!o) return '';
+    return o[this.language] || this.ci(o.en);
   }
 
   /* ---------- data ---------- */
@@ -123,9 +136,15 @@ class Tadabbur {
   themes() { return (typeof PONDER_THEMES !== 'undefined') ? PONDER_THEMES : {}; }
   notes() { return (typeof TADABBUR_NOTES !== 'undefined') ? TADABBUR_NOTES : {}; }
   note(ref) { return this.notes()[ref] || null; }
-  /** Pick en/bn field from a note (bn only when the UI is Bangla; else en). */
-  noteText(n, base) { return (this.language === 'bn' && n[base + 'Bn']) ? n[base + 'Bn'] : (n[base + 'En'] || ''); }
-  notePoints(n) { return (this.language === 'bn' && Array.isArray(n.pointsBn) && n.pointsBn.length) ? n.pointsBn : (n.pointsEn || []); }
+  /** Pick en/bn field from a note; other languages resolve via content-i18n. */
+  noteText(n, base) {
+    if (this.language === 'bn' && n[base + 'Bn']) return n[base + 'Bn'];
+    return this.ci(n[base + 'En'] || '');
+  }
+  notePoints(n) {
+    if (this.language === 'bn' && Array.isArray(n.pointsBn) && n.pointsBn.length) return n.pointsBn;
+    return (n.pointsEn || []).map(p => this.ci(p));
+  }
 
   /** Unique, order-preserving pool for the active theme (or all). */
   pool() {

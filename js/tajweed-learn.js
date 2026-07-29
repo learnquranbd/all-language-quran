@@ -32,9 +32,12 @@ class TajweedLearn {
     this.surah = 1;            // examples surah
     this.exLimit = 15;         // examples shown before "Show more"
     this._exReq = 0;           // loadExamples() request token (guards stale responses)
-    this.view = 'rules';       // 'rules' | 'makharij' | 'drill'
+    this.view = 'rules';       // 'rules' | 'makharij' | 'drill' | 'quiz'
     this.drill = null;         // null | {status} | {questions, idx, score, picked}
     this._drillReq = 0;        // startDrill() request token
+    this.quizAnswers = {};     // concept quiz: question index -> chosen option index
+    this.quizSubmitted = false;
+    this._quizPerm = null;     // stable per-session option order (see quizPerm)
     this.bound = false;
     this.learned = this.loadLearned();
     this.drillBest = this.loadDrillBest();  // { score, total } personal best
@@ -72,7 +75,17 @@ class TajweedLearn {
     this.drillBest = { score, total };
     try { localStorage.setItem('tajweedDrillBest', JSON.stringify(this.drillBest)); } catch (e) { /* ignore */ }
   }
-  lesson(k) { const l = TAJWEED_LESSONS[k] || {}; return l[this.language] || l.en || ''; }
+  /**
+   * Content-string resolver for the other 13 languages. Lesson prose and rule
+   * notes are authored as en/bn only; without this every non-Bangla language
+   * fell straight through to English. Mirrors the Seerah/Tadabbur modules.
+   */
+  ci(en) {
+    if (!en) return '';
+    if (typeof CI18N === 'undefined') return en;
+    return CI18N.tr(this.language, en) || en;
+  }
+  lesson(k) { const l = TAJWEED_LESSONS[k] || {}; return l[this.language] || this.ci(l.en || ''); }
   /** Rule display name in the UI language (technical Arabic terms transliterated). */
   ruleName(k) {
     const l = TAJWEED_LESSONS[k] || {};
@@ -94,6 +107,17 @@ class TajweedLearn {
       }
       const view = e.target.closest('[data-tj-view]');
       if (view) { this.view = view.getAttribute('data-tj-view'); this.render(); return; }
+      // Concept quiz: pick an option, submit, retake
+      const qopt = e.target.closest('[data-tj-quiz-opt]');
+      if (qopt) {
+        const [qi, oi] = qopt.getAttribute('data-tj-quiz-opt').split(':').map(Number);
+        if (!this.quizSubmitted) { this.quizAnswers[qi] = oi; this.render(); }
+        return;
+      }
+      if (e.target.closest('[data-tj-quiz-submit]')) { this.quizSubmitted = true; this.render(); return; }
+      if (e.target.closest('[data-tj-quiz-reset]')) {
+        this.quizAnswers = {}; this.quizSubmitted = false; this._quizPerm = null; this.render(); return;
+      }
       // Learning-path chip → open that rule's card below and scroll to it
       const pathRule = e.target.closest('[data-tj-path]');
       if (pathRule) {
@@ -189,7 +213,7 @@ class TajweedLearn {
     if (!examples || !examples.length) return '';
     const lang = this.language;
     const rows = examples.map(ex => {
-      const note = (lang === 'bn' && ex.noteBn) ? ex.noteBn : ex.noteEn;
+      const note = (lang === 'bn' && ex.noteBn) ? ex.noteBn : this.ci(ex.noteEn);
       return `
         <div class="flex items-start gap-2 py-1.5 border-b border-gray-100 dark:border-gray-700/50 last:border-0">
           <button data-ayah-ref="${this.esc(ex.ref)}" title="${this.tt('tj_open_verse')}"
@@ -314,6 +338,7 @@ class TajweedLearn {
       ['reference', '🗂️', 'tj_nav_reference', 'Reference'],
       ['makharij', '👄', 'tj_nav_makharij', 'Makharij'],
       ['drill', '🎯', 'tj_nav_drill', 'Practice drill'],
+      ['quiz', '❓', 'tj_nav_quiz', 'Concept quiz'],
     ].map(([v, em, key, fb]) => `
       <button data-tj-view="${v}" class="px-4 py-2 rounded-full text-sm font-medium ${this.view === v
         ? 'bg-primary text-white'
@@ -334,6 +359,7 @@ class TajweedLearn {
         <div class="flex flex-wrap justify-center gap-2 mb-6">${pills}</div>
         ${this.view === 'makharij' ? this.makharijHtml()
           : this.view === 'drill' ? this.drillHtml()
+          : this.view === 'quiz' ? this.quizHtml()
           : this.view === 'reference' ? this.referenceHtml(keys)
           : this.rulesHtml(keys)}
       </div>`;
@@ -424,7 +450,7 @@ class TajweedLearn {
   mistakesHtml(group) {
     const m = TAJWEED_MISTAKES[group];
     if (!m) return '';
-    const list = m[this.language] || m.en;
+    const list = m[this.language] || (m.en || []).map(x => this.ci(x));
     return `
       <details class="mt-2 rounded-xl border border-amber-200 dark:border-amber-500/30 bg-amber-50 dark:bg-amber-500/10">
         <summary class="cursor-pointer px-4 py-2.5 text-sm font-medium text-amber-800 dark:text-amber-300 select-none">⚠️ ${this.tt('tj_mistakes_title', 'Common mistakes')}</summary>
@@ -530,6 +556,92 @@ class TajweedLearn {
   }
 
   /** Inline "which rule?" drill built from real annotated verses. */
+  /**
+   * Concept quiz over TAJWEED_QUIZ — the authored rule-theory questions, as
+   * opposed to the drill, which generates rule-spotting questions from the
+   * annotated corpus.
+   *
+   * Option order is shuffled once per session: in the source data 14 of 30
+   * correct answers sit at index 1 and only 1 at index 3, which a learner
+   * notices quickly. Buttons keep their ORIGINAL index so scoring and stored
+   * answers are unaffected by the display order.
+   */
+  quizPerm() {
+    if (!this._quizPerm || this._quizPerm.length !== TAJWEED_QUIZ.length) {
+      this._quizPerm = TAJWEED_QUIZ.map((q) => {
+        const n = (q.optsEn || q.optsBn || []).length;
+        const idx = Array.from({ length: n }, (_, i) => i);
+        for (let i = n - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [idx[i], idx[j]] = [idx[j], idx[i]];
+        }
+        return idx;
+      });
+    }
+    return this._quizPerm;
+  }
+
+  quizText(q, base) {
+    if (this.language === 'bn' && q[base + 'Bn']) return q[base + 'Bn'];
+    return this.ci(q[base + 'En'] || '');
+  }
+
+  quizHtml() {
+    if (typeof TAJWEED_QUIZ === 'undefined' || !TAJWEED_QUIZ.length) return '';
+    const submitted = this.quizSubmitted;
+    const total = TAJWEED_QUIZ.length;
+    let score = 0;
+    const perm = this.quizPerm();
+
+    const questions = TAJWEED_QUIZ.map((q, qi) => {
+      const sel = this.quizAnswers[qi];
+      if (submitted && sel === q.correct) score++;
+      const opts = perm[qi].map((oi) => {
+        const label = (this.language === 'bn' && q.optsBn && q.optsBn[oi]) ? q.optsBn[oi] : this.ci((q.optsEn || [])[oi]);
+        const chosen = sel === oi;
+        let cls = 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-200 hover:border-primary';
+        let mark = '';
+        if (submitted) {
+          if (oi === q.correct) { cls = 'bg-green-50 dark:bg-green-500/10 border-green-400 text-green-800 dark:text-green-300'; mark = ' ✓'; }
+          else if (chosen) { cls = 'bg-red-50 dark:bg-red-500/10 border-red-400 text-red-800 dark:text-red-300'; mark = ' ✗'; }
+        } else if (chosen) {
+          cls = 'bg-primary/10 border-primary text-primary';
+        }
+        return `<button data-tj-quiz-opt="${qi}:${oi}" ${submitted ? 'disabled' : ''}
+          class="w-full text-start px-3 py-2 rounded-lg border text-sm ${cls}" dir="auto">${this.esc(label)}${mark}</button>`;
+      }).join('');
+      return `
+        <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4">
+          <p class="font-medium text-gray-800 dark:text-gray-100 mb-3" dir="auto">${qi + 1}. ${this.esc(this.quizText(q, 'q'))}</p>
+          <div class="space-y-2">${opts}</div>
+        </div>`;
+    }).join('');
+
+    const answered = Object.keys(this.quizAnswers).length;
+    const footer = submitted
+      ? `<div class="text-center">
+           <p class="text-lg font-bold text-gray-800 dark:text-gray-100">${score} / ${total}</p>
+           <button data-tj-quiz-reset class="mt-3 px-5 py-2.5 rounded-lg bg-primary text-white text-sm font-medium hover:bg-primary/80">↻ ${this.tt('tj_quiz_retake', 'Retake')}</button>
+         </div>`
+      : `<div class="text-center">
+           <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">${answered} / ${total}</p>
+           <button data-tj-quiz-submit ${answered < total ? 'disabled' : ''}
+             class="px-5 py-2.5 rounded-lg text-sm font-medium ${answered < total
+               ? 'bg-gray-200 dark:bg-gray-700 text-gray-400 cursor-not-allowed'
+               : 'bg-primary text-white hover:bg-primary/80'}">${this.tt('tj_quiz_submit', 'Submit')}</button>
+         </div>`;
+
+    return `
+      <div class="max-w-xl mx-auto space-y-3">
+        <div class="text-center mb-2">
+          <h3 class="font-semibold text-gray-800 dark:text-gray-100">❓ ${this.tt('tj_quiz_title', 'Tajweed concept quiz')}</h3>
+          <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">${this.tt('tj_quiz_intro', 'Test your understanding of the rules themselves.')}</p>
+        </div>
+        ${questions}
+        ${footer}
+      </div>`;
+  }
+
   drillHtml() {
     const d = this.drill;
     const head = `
@@ -685,7 +797,7 @@ class TajweedLearn {
   generalMistakesHtml() {
     const m = TAJWEED_MISTAKES.general;
     if (!m) return '';
-    const list = m[this.language] || m.en;
+    const list = m[this.language] || (m.en || []).map(x => this.ci(x));
     return `
       <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-2 mt-8">⚠️ ${this.tt('tj_general_mistakes_title', 'Common Mistakes — Non-Arab Learners')}</h3>
       <div class="rounded-xl border border-amber-200 dark:border-amber-500/30 bg-amber-50 dark:bg-amber-500/10 p-4">
