@@ -1240,4 +1240,4 @@ class SeerahView {
 }
 
 let seerahView;
-document.addEventListener('DOMContentLoaded', () => { try { seerahView = new SeerahView(); } catch (_) { /* ignore */ } });
+(window.LQ && LQ.ready ? LQ.ready : function(f){document.addEventListener("DOMContentLoaded",f);})(() => { try { seerahView = new SeerahView(); } catch (_) { /* ignore */ } });

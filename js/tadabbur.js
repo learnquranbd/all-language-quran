@@ -410,4 +410,4 @@ class Tadabbur {
 }
 
 let tadabbur;
-document.addEventListener('DOMContentLoaded', () => { tadabbur = new Tadabbur(); });
+(window.LQ && LQ.ready ? LQ.ready : function(f){document.addEventListener("DOMContentLoaded",f);})(() => { tadabbur = new Tadabbur(); });

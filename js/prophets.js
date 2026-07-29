@@ -1146,4 +1146,4 @@ class ProphetsView {
 }
 
 let prophetsView;
-document.addEventListener('DOMContentLoaded', () => { try { prophetsView = new ProphetsView(); } catch (_) { /* ignore */ } });
+(window.LQ && LQ.ready ? LQ.ready : function(f){document.addEventListener("DOMContentLoaded",f);})(() => { try { prophetsView = new ProphetsView(); } catch (_) { /* ignore */ } });

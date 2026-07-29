@@ -738,4 +738,4 @@ class SahabaView {
 }
 
 let sahabaView;
-document.addEventListener('DOMContentLoaded', () => { try { sahabaView = new SahabaView(); } catch (_) { /* ignore */ } });
+(window.LQ && LQ.ready ? LQ.ready : function(f){document.addEventListener("DOMContentLoaded",f);})(() => { try { sahabaView = new SahabaView(); } catch (_) { /* ignore */ } });

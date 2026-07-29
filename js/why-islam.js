@@ -343,4 +343,4 @@ class WhyIslamView {
 }
 
 let whyIslamView;
-document.addEventListener('DOMContentLoaded', () => { whyIslamView = new WhyIslamView(); });
+(window.LQ && LQ.ready ? LQ.ready : function(f){document.addEventListener("DOMContentLoaded",f);})(() => { whyIslamView = new WhyIslamView(); });

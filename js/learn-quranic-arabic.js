@@ -1307,4 +1307,4 @@ class QuranicArabicView {
 }
 
 let quranicArabicView;
-document.addEventListener('DOMContentLoaded', () => { try { quranicArabicView = new QuranicArabicView(); } catch (e) { /* ignore */ } });
+(window.LQ && LQ.ready ? LQ.ready : function(f){document.addEventListener("DOMContentLoaded",f);})(() => { try { quranicArabicView = new QuranicArabicView(); } catch (e) { /* ignore */ } });
