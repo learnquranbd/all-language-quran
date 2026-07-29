@@ -68,6 +68,15 @@ class Handwriting {
   }
 
   targets() {
+    if (this.section === 'numbers') {
+      // HW_NUMBERS was authored but never rendered — the Arabic-Indic digits
+      // are traced exactly like letters, so they slot in as their own section.
+      return (typeof HW_NUMBERS !== 'undefined' ? HW_NUMBERS : []).map(n => ({
+        text: n.arabicNumeral,
+        label: (this.language === 'bn' ? n.name_bn : n.name_en) || String(n.digit),
+        audio: n.arabicNumeral,
+      }));
+    }
     if (this.section === 'words') {
       return (typeof QAIDA_WORDS !== 'undefined' ? QAIDA_WORDS : []).map(w => ({ text: w.arabic, label: w.translit, audio: w.arabic }));
     }
@@ -228,6 +237,10 @@ class Handwriting {
 
         ${wordsHTML}
 
+        ${this.commonWordsHTML()}
+
+        ${this.kidMistakesHTML()}
+
         ${this.harakatHTML()}
 
         ${this.fatihaHTML()}
@@ -235,6 +248,72 @@ class Handwriting {
         ${this.khatStylesHTML()}
       </div>
     `;
+  }
+
+  /**
+   * Collapsible panel: 25 common Quranic words broken into their letters with a
+   * writing note each. Authored in HW_COMMON_WORDS but never rendered.
+   */
+  commonWordsHTML() {
+    if (typeof HW_COMMON_WORDS === 'undefined' || !HW_COMMON_WORDS.length) return '';
+    const isBn = this.language === 'bn';
+    const cards = HW_COMMON_WORDS.map(w => {
+      const meaning = (isBn && w.meaningBn) ? w.meaningBn : w.meaningEn;
+      const tip = (isBn && w.tipBn) ? w.tipBn : w.tipEn;
+      const letters = Array.isArray(w.letters) ? w.letters.join(' · ') : '';
+      return `
+        <div class="p-2.5 rounded-lg bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
+          <div class="flex items-baseline gap-2 flex-wrap">
+            <span class="ayah-arabic !text-2xl !leading-snug font-semibold text-emerald-700 dark:text-emerald-400" dir="rtl" lang="ar">${w.word}</span>
+            <span class="text-xs font-medium text-gray-700 dark:text-gray-200" dir="auto">${w.translit}</span>
+            <span class="text-xs text-gray-500 dark:text-gray-400" dir="auto">— ${meaning}</span>
+          </div>
+          ${letters ? `<p class="text-[11px] text-gray-400 mt-0.5">${letters}</p>` : ''}
+          ${tip ? `<p class="text-xs text-gray-600 dark:text-gray-300 mt-1 leading-snug" dir="auto">${tip}</p>` : ''}
+        </div>`;
+    }).join('');
+    return `
+      <div class="bg-emerald-50 dark:bg-emerald-900/15 rounded-xl p-3 border border-emerald-100 dark:border-emerald-800">
+        <details>
+          <summary class="cursor-pointer select-none flex items-center justify-between">
+            <h4 class="text-xs font-semibold text-emerald-700 dark:text-emerald-300 uppercase tracking-wide">
+              📝 ${isBn ? 'পরিচিত কুরআনি শব্দ লেখা' : 'Writing common Quranic words'}
+            </h4>
+            <span class="text-gray-400 text-xs shrink-0">▾</span>
+          </summary>
+          <div class="space-y-1.5 mt-3">${cards}</div>
+        </details>
+      </div>`;
+  }
+
+  /**
+   * Collapsible panel: the 13 mistakes beginners most often make, each paired
+   * with the correction. Authored in HW_MISTAKES_KIDS but never rendered.
+   */
+  kidMistakesHTML() {
+    if (typeof HW_MISTAKES_KIDS === 'undefined' || !HW_MISTAKES_KIDS.length) return '';
+    const isBn = this.language === 'bn';
+    const rows = HW_MISTAKES_KIDS.map(m => {
+      const bad = (isBn && m.mistakeBn) ? m.mistakeBn : m.mistakeEn;
+      const good = (isBn && m.correctBn) ? m.correctBn : m.correctEn;
+      return `
+        <div class="p-2.5 rounded-lg bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
+          <p class="text-xs text-red-600 dark:text-red-400 leading-snug" dir="auto">✗ ${bad}</p>
+          <p class="text-xs text-emerald-700 dark:text-emerald-400 leading-snug mt-1" dir="auto">✓ ${good}</p>
+        </div>`;
+    }).join('');
+    return `
+      <div class="bg-amber-50 dark:bg-amber-900/15 rounded-xl p-3 border border-amber-100 dark:border-amber-800">
+        <details>
+          <summary class="cursor-pointer select-none flex items-center justify-between">
+            <h4 class="text-xs font-semibold text-amber-700 dark:text-amber-300 uppercase tracking-wide">
+              ⚠️ ${isBn ? 'শিক্ষানবিশদের সাধারণ ভুল' : 'Common beginner mistakes'}
+            </h4>
+            <span class="text-gray-400 text-xs shrink-0">▾</span>
+          </summary>
+          <div class="space-y-1.5 mt-3">${rows}</div>
+        </details>
+      </div>`;
   }
 
   /**
@@ -339,6 +418,33 @@ class Handwriting {
    * Collapsible panel: the 5 major Arabic calligraphic scripts.
    * Each style gets a <details> card with bilingual notes.
    */
+  /**
+   * Per-letter Kufi construction notes (HW_KUFI_TIPS) — authored but never
+   * rendered. They only make sense inside the Kufi card, so they attach there
+   * rather than becoming a panel of their own.
+   */
+  kufiTipsHTML(style) {
+    if (typeof HW_KUFI_TIPS === 'undefined' || !HW_KUFI_TIPS.length) return '';
+    // The style is named "Kūfī (كُوفِي)" — strip the macrons before matching, or
+    // a plain /kufi/i test silently fails and the tips never appear.
+    const plain = String((style && style.name && style.name.en) || '')
+      .normalize('NFD').replace(/[̀-ͯ]/g, '');
+    if (!/kufi/i.test(plain)) return '';
+    const isBn = this.language === 'bn';
+    const rows = HW_KUFI_TIPS.map(k => `
+      <div class="flex gap-2 items-start">
+        <span class="ayah-arabic !text-lg !leading-none shrink-0 w-6 text-center text-gray-700 dark:text-gray-200" dir="rtl" lang="ar">${k.letter}</span>
+        <p class="text-xs text-gray-600 dark:text-gray-400 leading-relaxed" dir="auto">${(isBn && k.tipBn) ? k.tipBn : k.tipEn}</p>
+      </div>`).join('');
+    return `
+      <div class="mt-2 pt-2 border-t border-gray-100 dark:border-gray-700 space-y-1.5">
+        <p class="text-[11px] font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide">
+          ${isBn ? 'অক্ষরভিত্তিক কুফি নির্দেশনা' : 'Letter-by-letter Kufi notes'}
+        </p>
+        ${rows}
+      </div>`;
+  }
+
   khatStylesHTML() {
     const isBn = this.language === 'bn';
     const styleCards = HW_KHAT_STYLES.map(s => {
@@ -354,6 +460,7 @@ class Handwriting {
           </summary>
           <div class="px-3 pb-3 pt-2 space-y-2 border-t border-gray-100 dark:border-gray-700 bg-white dark:bg-gray-800">
             ${noteItems}
+            ${this.kufiTipsHTML(s)}
           </div>
         </details>`;
     }).join('');
@@ -395,10 +502,10 @@ class Handwriting {
         </div>
 
         <div class="flex justify-center gap-2 mb-4">
-          ${['letters', 'forms', 'words'].map(s => `
+          ${['letters', 'forms', 'words', 'numbers'].map(s => `
             <button data-hw-section="${s}" class="px-4 py-2 text-sm rounded-full transition-colors ${s === this.section
               ? 'bg-primary text-white' : 'bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700'}">
-              ${t(s === 'letters' ? 'kids_letters' : s === 'forms' ? 'hw_forms' : 'kids_words', lang)}
+              ${t(s === 'letters' ? 'kids_letters' : s === 'forms' ? 'hw_forms' : s === 'words' ? 'kids_words' : 'hw_numbers', lang)}
             </button>`).join('')}
         </div>
 
