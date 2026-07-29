@@ -555,7 +555,203 @@ const TRAVEL_DUAS = [
       zh: '雅古布托付旅程：真主是最好的保护者，祂是最仁慈的',
       ja: 'ヤアクーブが旅を委ねる：アッラーこそ最善の守護者、最も慈悲深い方'
     }
-  }
+  },
+  {
+    refs: '11:41',
+    names: {
+      en: "Nūḥ boarding the ark: in the name of Allah is its course and its anchorage",
+      bn: 'নূহের জাহাজে আরোহণ: আল্লাহর নামেই এর চলা ও থামা',
+      ar: 'ركوب نوح السفينة: بسم الله مجراها ومرساها',
+      ur: 'نوح کا کشتی پر سوار ہونا: اللہ کے نام سے اس کا چلنا اور ٹھہرنا',
+      id: 'Nuh menaiki bahtera: dengan nama Allah ia berlayar dan berlabuh',
+      tr: "Nuh'un gemiye binişi: onun yürümesi de durması da Allah'ın adıyladır",
+      fr: "Nūḥ embarque dans l'arche: au nom d'Allah sont sa course et son mouillage",
+      zh: '努哈登船：奉真主之名航行与停泊',
+      ja: 'ヌーフの方舟乗船：その航行も停泊もアッラーの御名において'
+    }
+  },
+  {
+    refs: '28:21',
+    names: {
+      en: "Mūsā fleeing Egypt in fear: my Lord, save me from the wrongdoing people",
+      bn: 'ভয়ে মিশর ত্যাগে মূসার দুআ: হে আমার রব, জালিম সম্প্রদায় থেকে আমাকে রক্ষা করো',
+      ar: 'دعاء موسى عند خروجه خائفاً من مصر: رب نجني من القوم الظالمين',
+      ur: 'خوف کے عالم میں مصر سے نکلتے ہوئے موسیٰ کی دعا: میرے رب، مجھے ظالم قوم سے نجات دے',
+      id: 'Doa Musa saat keluar dari Mesir dengan rasa takut: ya Tuhanku, selamatkan aku dari kaum yang zalim',
+      tr: "Mısır'dan korkuyla ayrılan Musa'nın duası: Rabbim, beni zalim topluluktan kurtar",
+      fr: "Mūsā fuyant l'Égypte dans la crainte: mon Seigneur, sauve-moi du peuple injuste",
+      zh: '穆萨恐惧中逃离埃及：我的主啊，求您使我脱离不义的民众',
+      ja: '恐れながらエジプトを去るムーサー：主よ、不正な民から私を救ってください'
+    }
+  },
+  {
+    refs: '28:22',
+    names: {
+      en: "Setting out for Madyan: perhaps my Lord will guide me to the even path",
+      bn: 'মাদইয়ানের পথে যাত্রা: হয়তো আমার রব আমাকে সরল পথ দেখাবেন',
+      ar: 'التوجه نحو مدين: عسى ربي أن يهديني سواء السبيل',
+      ur: 'مدین کی جانب روانگی: امید ہے میرا رب مجھے سیدھا راستہ دکھائے گا',
+      id: 'Menuju Madyan: semoga Tuhanku menunjukkan aku jalan yang lurus',
+      tr: "Medyen'e yönelirken: umarım Rabbim beni doğru yola iletir",
+      fr: "En route vers Madyan: peut-être mon Seigneur me guidera-t-il sur le droit chemin",
+      zh: '前往麦德彦：或许我的主会引导我走上正路',
+      ja: 'マドヤンへの旅立ち：主が私を正しい道へ導いてくださるだろう'
+    }
+  },
+  {
+    refs: '18:16',
+    names: {
+      en: "The Cave youths seeking refuge: your Lord will spread His mercy and ease your affair",
+      bn: 'গুহায় আশ্রয় নেওয়া যুবকেরা: তোমাদের রব রহমত বিস্তার করবেন ও কাজ সহজ করবেন',
+      ar: 'أوى الفتية إلى الكهف: ينشر لكم ربكم من رحمته ويهيئ لكم من أمركم مرفقاً',
+      ur: 'اصحابِ کہف کا پناہ لینا: تمہارا رب اپنی رحمت پھیلائے گا اور تمہارا کام آسان کرے گا',
+      id: 'Para pemuda berlindung ke gua: Tuhan kalian akan melimpahkan rahmat dan memudahkan urusan kalian',
+      tr: "Gençlerin mağaraya sığınması: Rabbiniz rahmetini yayar ve işinizi kolaylaştırır",
+      fr: "Les jeunes se réfugiant dans la caverne: votre Seigneur étendra Sa miséricorde et facilitera votre affaire",
+      zh: '青年们避入山洞：你们的主必广施慈恩并使你们的事顺利',
+      ja: '洞窟に身を寄せる若者たち：主は慈悲を広げ、あなたがたの事を容易にされる'
+    }
+  },
+  {
+    refs: '18:69',
+    names: {
+      en: "Mūsā's pledge to his travelling companion: you will find me patient, if Allah wills",
+      bn: 'সফরসঙ্গীকে মূসার অঙ্গীকার: আল্লাহ চাইলে আপনি আমাকে ধৈর্যশীল পাবেন',
+      ar: 'وعد موسى لرفيق الرحلة: ستجدني إن شاء الله صابراً',
+      ur: 'موسیٰ کا اپنے ہم سفر سے وعدہ: ان شاء اللہ آپ مجھے صابر پائیں گے',
+      id: 'Janji Musa kepada teman perjalanannya: insya Allah engkau akan mendapatiku sabar',
+      tr: "Musa'nın yol arkadaşına sözü: Allah dilerse beni sabreden biri bulacaksın",
+      fr: "Promesse de Mūsā à son compagnon de route: tu me trouveras patient, si Allah le veut",
+      zh: '穆萨对旅伴的承诺：如果真主意欲，你会发现我是坚忍的',
+      ja: 'ムーサーの旅の同行者への約束：アッラーが望まれるなら忍耐強い者と分かるでしょう'
+    }
+  },
+  {
+    refs: '2:197',
+    names: {
+      en: "Take provision for the journey — the best provision is God-consciousness",
+      bn: 'সফরের পাথেয় সঙ্গে নাও — সর্বোত্তম পাথেয় হলো তাকওয়া',
+      ar: 'وتزودوا فإن خير الزاد التقوى',
+      ur: 'سفر کا زادِ راہ ساتھ لو — بہترین زاد تقویٰ ہے',
+      id: 'Berbekallah untuk perjalanan — sebaik-baik bekal adalah takwa',
+      tr: 'Yolculuk için azık edinin — en hayırlı azık takvadır',
+      fr: "Prenez des provisions pour le voyage — la meilleure provision est la piété",
+      zh: '为旅途准备干粮——最好的干粮是敬畏',
+      ja: '旅の糧を携えよ — 最良の糧は敬虔さ'
+    }
+  },
+  {
+    refs: '62:10',
+    names: {
+      en: "After the prayer, disperse through the land and seek Allah's bounty",
+      bn: 'নামাজ শেষে জমিনে ছড়িয়ে পড়ো এবং আল্লাহর অনুগ্রহ সন্ধান করো',
+      ar: 'فإذا قضيت الصلاة فانتشروا في الأرض وابتغوا من فضل الله',
+      ur: 'نماز کے بعد زمین میں پھیل جاؤ اور اللہ کا فضل تلاش کرو',
+      id: 'Setelah shalat, bertebaranlah di bumi dan carilah karunia Allah',
+      tr: "Namazdan sonra yeryüzüne dağılın ve Allah'ın lütfunu arayın",
+      fr: "Après la prière, dispersez-vous sur la terre et recherchez la grâce d'Allah",
+      zh: '礼拜后当散布在大地上，寻求真主的恩惠',
+      ja: '礼拝の後は大地に散り、アッラーの恩恵を求めよ'
+    }
+  },
+  {
+    refs: '67:15',
+    names: {
+      en: "He made the earth easy to travel — walk its paths and eat of His provision",
+      bn: 'তিনি জমিনকে সুগম করেছেন — এর পথে চলো ও তাঁর রিযিক থেকে খাও',
+      ar: 'هو الذي جعل لكم الأرض ذلولاً فامشوا في مناكبها وكلوا من رزقه',
+      ur: 'اس نے زمین کو تمہارے لیے نرم بنایا — اس کے راستوں پر چلو اور اس کا رزق کھاؤ',
+      id: 'Dia menjadikan bumi mudah dijelajahi — berjalanlah di segala penjurunya dan makanlah rezeki-Nya',
+      tr: 'Yeryüzünü size boyun eğdirdi — omuzlarında yürüyün ve rızkından yiyin',
+      fr: "Il a rendu la terre docile — parcourez ses chemins et mangez de Sa provision",
+      zh: '他使大地平易——你们当行走其上并享用他的给养',
+      ja: '大地を歩みやすくされた御方 — その道を行き、その糧を食べよ'
+    }
+  },
+  {
+    refs: '29:20',
+    names: {
+      en: "Travel through the earth and observe how Allah began creation",
+      bn: 'জমিনে ভ্রমণ করো এবং দেখো আল্লাহ কীভাবে সৃষ্টির সূচনা করেছেন',
+      ar: 'سيروا في الأرض فانظروا كيف بدأ الخلق',
+      ur: 'زمین میں سفر کرو اور دیکھو اللہ نے مخلوق کی ابتدا کیسے کی',
+      id: 'Berjalanlah di bumi dan perhatikan bagaimana Allah memulai penciptaan',
+      tr: "Yeryüzünde gezin ve Allah'ın yaratmaya nasıl başladığına bakın",
+      fr: "Parcourez la terre et observez comment Allah a commencé la création",
+      zh: '你们当在大地上旅行，观察真主如何开始创造',
+      ja: '大地を旅し、アッラーがいかに創造を始められたかを見よ'
+    }
+  },
+  {
+    refs: '106:1-2',
+    names: {
+      en: "Quraysh and the security of their winter and summer caravans",
+      bn: 'কুরাইশ ও তাদের শীত-গ্রীষ্মের বাণিজ্য সফরের নিরাপত্তা',
+      ar: 'قريش وأمن رحلة الشتاء والصيف',
+      ur: 'قریش اور ان کے سردی و گرمی کے سفر کا امن',
+      id: 'Quraisy dan keamanan perjalanan musim dingin dan musim panas',
+      tr: 'Kureyş ve kış ile yaz yolculuklarının güvenliği',
+      fr: "Quraysh et la sécurité de leurs caravanes d'hiver et d'été",
+      zh: '古莱氏及其冬夏商旅的安宁',
+      ja: 'クライシュ族と冬と夏の隊商の安全'
+    }
+  },
+  {
+    refs: '12:99',
+    names: {
+      en: "Yūsuf welcoming his family: enter Egypt in safety, if Allah wills",
+      bn: 'ইউসুফ পরিবারকে স্বাগত জানান: আল্লাহ চাইলে নিরাপদে মিশরে প্রবেশ করো',
+      ar: 'استقبال يوسف لأهله: ادخلوا مصر إن شاء الله آمنين',
+      ur: 'یوسف کا اپنے گھر والوں کا استقبال: ان شاء اللہ امن کے ساتھ مصر میں داخل ہو جاؤ',
+      id: 'Yusuf menyambut keluarganya: masuklah ke Mesir dengan aman, insya Allah',
+      tr: "Yusuf ailesini karşılıyor: Allah dilerse güven içinde Mısır'a girin",
+      fr: "Yūsuf accueillant sa famille: entrez en Égypte en sécurité, si Allah le veut",
+      zh: '优素福迎接家人：如果真主意欲，你们平安地进入埃及吧',
+      ja: 'ユースフが家族を迎える：アッラーが望まれるなら安全にエジプトへ入りなさい'
+    }
+  },
+  {
+    refs: '73:20',
+    names: {
+      en: "Those who journey through the land seeking Allah's bounty",
+      bn: 'যারা আল্লাহর অনুগ্রহের সন্ধানে জমিনে সফর করে',
+      ar: 'وآخرون يضربون في الأرض يبتغون من فضل الله',
+      ur: 'وہ لوگ جو اللہ کا فضل تلاش کرتے ہوئے زمین میں سفر کرتے ہیں',
+      id: 'Mereka yang berjalan di bumi mencari karunia Allah',
+      tr: "Allah'ın lütfunu arayarak yeryüzünde yolculuk edenler",
+      fr: "Ceux qui parcourent la terre en quête de la grâce d'Allah",
+      zh: '为寻求真主恩惠而在大地上跋涉的人们',
+      ja: 'アッラーの恩恵を求めて大地を旅する者たち'
+    }
+  },
+  {
+    refs: '26:62',
+    names: {
+      en: "Mūsā at the sea: indeed, my Lord is with me — He will guide me",
+      bn: 'সমুদ্রের সামনে মূসা: নিশ্চয় আমার রব আমার সাথে আছেন, তিনি পথ দেখাবেন',
+      ar: 'موسى عند البحر: كلا إن معي ربي سيهدين',
+      ur: 'سمندر کے سامنے موسیٰ: بے شک میرا رب میرے ساتھ ہے، وہ راہ دکھائے گا',
+      id: 'Musa di tepi laut: sesungguhnya Tuhanku bersamaku, Dia akan menunjukiku',
+      tr: "Musa denizin karşısında: şüphesiz Rabbim benimledir, bana yol gösterecektir",
+      fr: "Mūsā devant la mer: mon Seigneur est avec moi, Il me guidera",
+      zh: '穆萨在海边：我的主确与我同在，他必引导我',
+      ja: '海を前にしたムーサー：主は私と共におられ、導いてくださる'
+    }
+  },
+  {
+    refs: '34:18',
+    names: {
+      en: "The blessed road of Saba: travel it by night and day in safety",
+      bn: 'সাবার বরকতময় পথ: রাত-দিন নিরাপদে সফর করো',
+      ar: 'طريق سبأ المبارك: سيروا فيها ليالي وأياماً آمنين',
+      ur: 'سبا کا بابرکت راستہ: راتوں اور دنوں میں امن کے ساتھ سفر کرو',
+      id: 'Jalan Saba yang diberkahi: berjalanlah malam dan siang dengan aman',
+      tr: "Sebe'nin bereketli yolu: geceler ve gündüzler boyunca güven içinde yolculuk edin",
+      fr: "La route bénie de Saba: voyagez-y nuits et jours en sécurité",
+      zh: '赛伯邑的吉庆之路：昼夜平安地旅行',
+      ja: 'サバアの祝福された道：夜も昼も安全に旅せよ'
+    }
+  },
 ];
 
 const FAMILY_DUAS = [

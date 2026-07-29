@@ -709,5 +709,201 @@ const GRATITUDE_DUAS = [
       zh: '为父母恩典与善功的感恩祈祷',
       ja: '両親の恵みと善行への感謝の祈り'
     }
-  }
+  },
+  {
+    refs: '2:152',
+    names: {
+      en: "Remember Me and I will remember you — be grateful and never ungrateful",
+      bn: 'আমাকে স্মরণ করো, আমিও তোমাদের স্মরণ করব — কৃতজ্ঞ হও, অকৃতজ্ঞ হয়ো না',
+      ar: 'فاذكروني أذكركم واشكروا لي ولا تكفرون',
+      ur: 'مجھے یاد کرو میں تمہیں یاد کروں گا — شکر کرو اور ناشکری نہ کرو',
+      id: 'Ingatlah Aku niscaya Aku ingat kalian — bersyukurlah dan jangan mengingkari',
+      tr: 'Beni anın ki Ben de sizi anayım — Bana şükredin, nankörlük etmeyin',
+      fr: "Souvenez-vous de Moi, Je Me souviendrai de vous — soyez reconnaissants et non ingrats",
+      zh: '你们当记念我，我就记念你们；当感谢我，不要辜负我',
+      ja: 'われを念じよ、さすればわれも念じよう — 感謝し、恩を忘れるな'
+    }
+  },
+  {
+    refs: '3:123',
+    names: {
+      en: "Gratitude for the victory at Badr, granted when the believers were weak",
+      bn: 'বদরের বিজয়ের কৃতজ্ঞতা, যখন মুমিনরা ছিল দুর্বল',
+      ar: 'الشكر على نصر بدر وأنتم أذلة',
+      ur: 'بدر کی فتح پر شکر جب مسلمان کمزور تھے',
+      id: 'Syukur atas kemenangan Badar ketika kaum beriman masih lemah',
+      tr: 'Müminler zayıfken kazanılan Bedir zaferi için şükür',
+      fr: "Gratitude pour la victoire de Badr accordée alors que les croyants étaient faibles",
+      zh: '为白德尔之役的胜利感恩，当时信士们弱小',
+      ja: '信者が弱小であったときのバドルの勝利への感謝'
+    }
+  },
+  {
+    refs: '7:10',
+    names: {
+      en: "Established on the earth with means of living — yet how little you give thanks",
+      bn: 'জমিনে প্রতিষ্ঠা ও জীবিকার উপকরণ — তবু কতই না কম কৃতজ্ঞতা',
+      ar: 'التمكين في الأرض والمعايش وقليلاً ما تشكرون',
+      ur: 'زمین میں ٹھکانہ اور معاش کے ذرائع — پھر بھی تم بہت کم شکر کرتے ہو',
+      id: 'Ditempatkan di bumi dengan sarana penghidupan — namun sedikit sekali kalian bersyukur',
+      tr: 'Yeryüzünde yerleşim ve geçim imkânları — yine de ne kadar az şükrediyorsunuz',
+      fr: "Établis sur la terre avec des moyens de subsistance — pourtant vous êtes bien peu reconnaissants",
+      zh: '在大地上安居并获得生计——你们却很少感谢',
+      ja: '大地に住まわせ生計を与えられた — なのに感謝する者は少ない'
+    }
+  },
+  {
+    refs: '14:7',
+    names: {
+      en: "If you are grateful, I will surely increase you — the divine promise of shukr",
+      bn: 'যদি তোমরা কৃতজ্ঞ হও, আমি অবশ্যই বাড়িয়ে দেব — শোকরের ঐশী প্রতিশ্রুতি',
+      ar: 'لئن شكرتم لأزيدنكم — وعد الله لأهل الشكر',
+      ur: 'اگر تم شکر کرو گے تو میں ضرور زیادہ عطا کروں گا — شکر کا الہٰی وعدہ',
+      id: 'Jika kalian bersyukur, pasti Aku tambah nikmat — janji ilahi bagi orang yang bersyukur',
+      tr: 'Şükrederseniz elbette artırırım — şükre dair ilahi vaat',
+      fr: "Si vous êtes reconnaissants, Je vous accorderai davantage — la promesse divine du shukr",
+      zh: '如果你们感谢，我必定加赐你们——感恩的神圣承诺',
+      ja: '感謝すれば必ず増やそう — シュクルへの神の約束'
+    }
+  },
+  {
+    refs: '16:78',
+    names: {
+      en: "Hearing, sight, and hearts given at birth so that you might be grateful",
+      bn: 'জন্মের সময় শ্রবণ, দৃষ্টি ও হৃদয় দান — যেন তোমরা কৃতজ্ঞ হও',
+      ar: 'وجعل لكم السمع والأبصار والأفئدة لعلكم تشكرون',
+      ur: 'پیدائش پر کان، آنکھیں اور دل عطا کیے گئے — تاکہ تم شکر کرو',
+      id: 'Pendengaran, penglihatan, dan hati dianugerahkan sejak lahir agar kalian bersyukur',
+      tr: 'Şükredesiniz diye size işitme, görme ve kalpler verildi',
+      fr: "L'ouïe, la vue et les cœurs donnés à la naissance afin que vous soyez reconnaissants",
+      zh: '赋予听觉、视觉与心灵，以便你们感谢',
+      ja: '感謝するようにと生まれながらに与えられた聴覚・視覚・心'
+    }
+  },
+  {
+    refs: '16:114',
+    names: {
+      en: "Eat of the lawful and wholesome provision and give thanks for Allah's favour",
+      bn: 'হালাল ও পবিত্র রিযিক খাও এবং আল্লাহর নিআমতের শুকরিয়া আদায় করো',
+      ar: 'فكلوا مما رزقكم الله حلالاً طيباً واشكروا نعمة الله',
+      ur: 'حلال اور پاکیزہ رزق کھاؤ اور اللہ کی نعمت کا شکر ادا کرو',
+      id: 'Makanlah rezeki yang halal lagi baik dan syukurilah nikmat Allah',
+      tr: "Helal ve temiz rızıktan yiyin ve Allah'ın nimetine şükredin",
+      fr: "Mangez de la provision licite et pure et remerciez pour le bienfait d'Allah",
+      zh: '你们当吃合法而佳美的给养，并感谢真主的恩惠',
+      ja: '合法で善き糧を食し、アッラーの恩恵に感謝せよ'
+    }
+  },
+  {
+    refs: '31:12',
+    names: {
+      en: "Luqmān granted wisdom: be grateful to Allah — gratitude benefits only oneself",
+      bn: 'লুকমানকে প্রজ্ঞা দান: আল্লাহর শুকরিয়া করো — কৃতজ্ঞতা নিজেরই কল্যাণ',
+      ar: 'إيتاء لقمان الحكمة: أن اشكر لله ومن يشكر فإنما يشكر لنفسه',
+      ur: 'لقمان کو حکمت عطا: اللہ کا شکر کرو — شکر اپنے ہی فائدے کے لیے ہے',
+      id: 'Luqman dianugerahi hikmah: bersyukurlah kepada Allah — syukur itu untuk diri sendiri',
+      tr: "Lokman'a hikmet verildi: Allah'a şükret — şükreden kendisi için şükreder",
+      fr: "Luqmān doté de sagesse: sois reconnaissant envers Allah — la gratitude ne profite qu'à soi-même",
+      zh: '鲁格曼被赐予智慧：当感谢真主——感恩只对自己有益',
+      ja: 'ルクマーンに授けられた英知：アッラーに感謝せよ — 感謝は自らのため'
+    }
+  },
+  {
+    refs: '34:13',
+    names: {
+      en: "Work in gratitude, family of Dāwūd — few of My servants are truly thankful",
+      bn: 'হে দাউদ পরিবার, কৃতজ্ঞতার সাথে কাজ করো — আমার বান্দাদের অল্পই কৃতজ্ঞ',
+      ar: 'اعملوا آل داوود شكراً وقليل من عبادي الشكور',
+      ur: 'اے آلِ داؤد، شکر کے ساتھ عمل کرو — میرے بندوں میں شکرگزار کم ہی ہیں',
+      id: 'Beramallah dengan syukur wahai keluarga Dawud — sedikit dari hamba-Ku yang bersyukur',
+      tr: 'Ey Davud ailesi, şükrederek çalışın — kullarımdan şükredenler azdır',
+      fr: "Œuvrez avec gratitude, famille de Dāwūd — peu de Mes serviteurs sont reconnaissants",
+      zh: '达乌德的家属啊，你们当以感恩而工作——我的仆人中感恩者甚少',
+      ja: 'ダーウード家よ、感謝して働け — わがしもべに感謝する者は少ない'
+    }
+  },
+  {
+    refs: '39:66',
+    names: {
+      en: "Worship Allah alone and be among the thankful",
+      bn: 'কেবল আল্লাহরই ইবাদত করো এবং কৃতজ্ঞদের অন্তর্ভুক্ত হও',
+      ar: 'بل الله فاعبد وكن من الشاكرين',
+      ur: 'بس اللہ ہی کی عبادت کرو اور شکر کرنے والوں میں سے ہو جاؤ',
+      id: 'Sembahlah Allah saja dan jadilah termasuk orang-orang yang bersyukur',
+      tr: "Yalnız Allah'a kulluk et ve şükredenlerden ol",
+      fr: "Adore Allah seul et sois parmi les reconnaissants",
+      zh: '你应当只崇拜真主，并成为感恩者之一',
+      ja: 'アッラーのみに仕え、感謝する者の一人となれ'
+    }
+  },
+  {
+    refs: '55:13',
+    names: {
+      en: "Which of the favours of your Lord will you deny — the refrain of ar-Raḥmān",
+      bn: 'তোমরা তোমাদের রবের কোন নিআমতকে অস্বীকার করবে — আর-রহমানের পুনরাবৃত্ত প্রশ্ন',
+      ar: 'فبأي آلاء ربكما تكذبان — لازمة سورة الرحمن',
+      ur: 'تم اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے — سورہ رحمن کا مکرر سوال',
+      id: 'Nikmat Tuhan kalian yang manakah yang kalian dustakan — pengulangan dalam ar-Rahman',
+      tr: 'Rabbinizin hangi nimetlerini yalanlarsınız — Rahmân suresinin nakaratı',
+      fr: "Lequel des bienfaits de votre Seigneur nierez-vous — le refrain d'ar-Raḥmān",
+      zh: '你们究竟否认你们主的哪一件恩典呢——《至仁主章》的反复叩问',
+      ja: 'あなたがたは主のどの恩恵を偽りとするのか — 慈悲深き御方章の反復'
+    }
+  },
+  {
+    refs: '56:70',
+    names: {
+      en: "Gratitude for fresh water: had He willed, He would have made it bitter",
+      bn: 'মিষ্টি পানির জন্য কৃতজ্ঞতা: তিনি চাইলে তা লবণাক্ত করে দিতে পারতেন',
+      ar: 'الشكر على الماء العذب: لو نشاء جعلناه أجاجاً فلولا تشكرون',
+      ur: 'میٹھے پانی پر شکر: اگر وہ چاہتا تو اسے کھاری بنا دیتا',
+      id: 'Syukur atas air tawar: sekiranya Dia kehendaki, niscaya dijadikan-Nya asin',
+      tr: 'Tatlı su için şükür: dileseydi onu acı yapardı',
+      fr: "Gratitude pour l'eau douce: s'Il l'avait voulu, Il l'aurait rendue saumâtre",
+      zh: '为甘甜之水感恩：若他意欲，必使其苦咸',
+      ja: '甘い水への感謝：御望みならば塩辛くもされたはず'
+    }
+  },
+  {
+    refs: '93:11',
+    names: {
+      en: "Proclaim the favour of your Lord — gratitude spoken aloud",
+      bn: 'তোমার রবের নিআমতের কথা প্রকাশ করো — মুখে উচ্চারিত কৃতজ্ঞতা',
+      ar: 'وأما بنعمة ربك فحدث — إعلان الشكر',
+      ur: 'اپنے رب کی نعمت کا تذکرہ کرو — زبان سے شکر کا اعلان',
+      id: 'Sebutlah nikmat Tuhanmu — syukur yang diucapkan dengan lisan',
+      tr: 'Rabbinin nimetini anlat — dile getirilen şükür',
+      fr: "Proclame le bienfait de ton Seigneur — la gratitude dite à voix haute",
+      zh: '你应当宣示你的主的恩典——高声表达的感恩',
+      ja: '主の恩恵を語り伝えよ — 声に出す感謝'
+    }
+  },
+  {
+    refs: '108:1-2',
+    names: {
+      en: "We granted you al-Kawthar — so pray to your Lord and sacrifice in thanks",
+      bn: 'আমরা তোমাকে কাউসার দিয়েছি — সুতরাং কৃতজ্ঞতায় রবের জন্য নামাজ পড়ো ও কুরবানি করো',
+      ar: 'إنا أعطيناك الكوثر فصل لربك وانحر — شكر بالصلاة والنحر',
+      ur: 'ہم نے تمہیں کوثر عطا کیا — پس شکر میں اپنے رب کے لیے نماز پڑھو اور قربانی کرو',
+      id: 'Kami memberimu al-Kautsar — maka shalatlah untuk Tuhanmu dan berkurbanlah sebagai syukur',
+      tr: 'Sana Kevser verildi — öyleyse şükür olarak Rabbin için namaz kıl ve kurban kes',
+      fr: "Nous t'avons donné al-Kawthar — prie donc ton Seigneur et sacrifie en gratitude",
+      zh: '我确已赐你多福——故当为你的主礼拜并宰牲以示感恩',
+      ja: 'われはあなたにカウサルを与えた — 感謝して主に礼拝し犠牲を捧げよ'
+    }
+  },
+  {
+    refs: '110:3',
+    names: {
+      en: "At the hour of victory: glorify your Lord with praise and seek His forgiveness",
+      bn: 'বিজয়ের মুহূর্তে: প্রশংসাসহ রবের তাসবিহ পড়ো ও তাঁর কাছে ক্ষমা চাও',
+      ar: 'عند النصر: فسبح بحمد ربك واستغفره',
+      ur: 'فتح کی گھڑی میں: اپنے رب کی حمد کے ساتھ تسبیح کرو اور استغفار کرو',
+      id: 'Saat kemenangan: bertasbihlah memuji Tuhanmu dan mohonlah ampunan-Nya',
+      tr: "Zafer anında: Rabbini hamd ile tesbih et ve O'ndan bağışlanma dile",
+      fr: "À l'heure de la victoire: glorifie ton Seigneur par la louange et implore Son pardon",
+      zh: '胜利之时：当赞颂你的主并向他求饶',
+      ja: '勝利の時：主を讃えて称え、赦しを乞え'
+    }
+  },
 ];
