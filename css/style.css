@@ -845,3 +845,29 @@ textarea:disabled,
 }
 
 /* ==================== end Professional polish pass (v92) ==================== */
+
+/* Auto-linked Quran references inside prose (js/ayah-autolink.js).
+   Inherits the surrounding text so a sentence still reads as a sentence —
+   the dotted underline is the only affordance, plus a normal focus ring. */
+.lq-ayah-link {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline dotted;
+  text-underline-offset: 2px;
+  text-decoration-color: var(--color-primary, #6366f1);
+  white-space: nowrap;
+}
+.lq-ayah-link:hover,
+.lq-ayah-link:focus-visible {
+  color: var(--color-primary, #6366f1);
+  text-decoration-style: solid;
+}
+.lq-ayah-link:focus-visible {
+  outline: 2px solid var(--color-primary, #6366f1);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
