@@ -8,7 +8,9 @@
       "docs/**",
       "src/**",
       "tailwind.config.js",
-      "package.json"
+      "package.json",
+      "package-lock.json",
+      "tests/**"
     ],
     "cleanUrls": true,
     "headers": [
