@@ -42,12 +42,24 @@ class Settings {
    * @returns {object}
    */
   loadSettings() {
+    let settings;
     try {
       const saved = localStorage.getItem('quranAppSettings');
-      return saved ? { ...this.defaults, ...JSON.parse(saved) } : { ...this.defaults };
+      settings = saved ? { ...this.defaults, ...JSON.parse(saved) } : { ...this.defaults };
     } catch (e) {
-      return { ...this.defaults };
+      settings = { ...this.defaults };
     }
+    // If localStorage had no language but the cookie does, honour the cookie —
+    // this is what lets a reader keep their language when localStorage was
+    // cleared or is unavailable. A language already in localStorage wins, since
+    // that is the store every other setting comes from.
+    try {
+      const cookieLang = this.languageCookie();
+      if (cookieLang && (!settings.language || settings.language === this.defaults.language)) {
+        settings.language = cookieLang;
+      }
+    } catch (e) { /* ignore */ }
+    return settings;
   }
 
   /**
@@ -59,6 +71,39 @@ class Settings {
     } catch (e) {
       console.warn('Could not save settings to localStorage');
     }
+    this.saveLanguageCookie();
+  }
+
+  /**
+   * Mirror the chosen language into a cookie.
+   *
+   * localStorage remains the source of truth for all settings; the cookie
+   * carries the language alone, for two reasons:
+   *   - it is readable in <head> without parsing the whole settings JSON, which
+   *     is where index.html decides which UI-string pack to fetch;
+   *   - it survives cases where localStorage is unavailable or cleared
+   *     independently (Safari eviction, "clear site data" variants), so a
+   *     returning reader keeps their language.
+   * Read back by languageCookie() and by the loader in index.html.
+   */
+  saveLanguageCookie() {
+    try {
+      const lang = this.settings && this.settings.language;
+      if (!lang || !/^[a-z]{2}$/.test(lang)) return;
+      const oneYear = 60 * 60 * 24 * 365;
+      const secure = location.protocol === 'https:' ? '; Secure' : '';
+      document.cookie = 'lq_lang=' + encodeURIComponent(lang)
+        + '; Max-Age=' + oneYear + '; Path=/; SameSite=Lax' + secure;
+    } catch (e) { /* cookies disabled — localStorage still holds the setting */ }
+  }
+
+  /** The language from the cookie, or null. Static so the loader can reuse it. */
+  languageCookie() {
+    try {
+      const m = document.cookie.match(/(?:^|;\s*)lq_lang=([^;]*)/);
+      const v = m ? decodeURIComponent(m[1]) : null;
+      return (v && /^[a-z]{2}$/.test(v)) ? v : null;
+    } catch (e) { return null; }
   }
 
   /**

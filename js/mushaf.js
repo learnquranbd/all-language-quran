@@ -12,8 +12,9 @@
  * QuranData.legacyAvailable() is false.
  *
  * Editions: a user-switchable EDITIONS table (localStorage 'mushafEdition',
- * default 'tajweed') maps page N to a scan URL. All editions use the standard
- * 604-page Madani layout, so paging/jump/bookmark logic is edition-agnostic.
+ * default 'ayat_hafs' — Hafs in plain Uthmani script) maps page N to a scan
+ * URL. All editions use the standard 604-page Madani layout, so paging, jump
+ * and bookmark logic is edition-agnostic.
  */
 
 class MushafView {
@@ -123,15 +124,25 @@ class MushafView {
     return s;
   }
 
-  /** Active mushaf edition id, persisted in localStorage ('tajweed' default). */
+  /**
+   * Edition shown when the reader has no stored preference — Hafs in plain
+   * Uthmani script. Defined once and used by edition(), setEdition() and
+   * imageUrl() so the fallback can never drift between them.
+   *
+   * A reader who has already chosen an edition keeps it: this only affects
+   * first-time readers and anyone whose stored value is no longer valid.
+   */
+  get DEFAULT_EDITION() { return 'ayat_hafs'; }
+
+  /** Active mushaf edition id, persisted in localStorage. */
   edition() {
     let v = null;
     try { v = localStorage.getItem('mushafEdition'); } catch (e) { /* ignore */ }
-    return (v && this.EDITIONS[v]) ? v : 'tajweed';
+    return (v && this.EDITIONS[v]) ? v : this.DEFAULT_EDITION;
   }
 
   setEdition(id) {
-    if (!this.EDITIONS[id]) id = 'tajweed';
+    if (!this.EDITIONS[id]) id = this.DEFAULT_EDITION;
     try { localStorage.setItem('mushafEdition', id); } catch (e) { /* ignore */ }
     if (this.rendered) this.showPage(this.page); // re-render from the new source
   }
@@ -141,9 +152,11 @@ class MushafView {
     // Scans are large, so they load cross-origin as plain <img>; the service
     // worker caches cross-origin images network-first automatically.
     try {
-      const ed = this.EDITIONS[this.edition()] || this.EDITIONS.tajweed;
+      const ed = this.EDITIONS[this.edition()] || this.EDITIONS[this.DEFAULT_EDITION];
       return ed.url(page);
     } catch (e) {
+      // Last resort if the edition table itself is unusable — the legacy
+      // tajweed scans are same-origin, so they work when the CDNs do not.
       return `${QuranData.legacyImgBase}/resources/images/tajweed_quran/${page - 1}.jpg`;
     }
   }

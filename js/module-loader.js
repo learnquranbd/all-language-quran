@@ -148,6 +148,14 @@ LQ.I18n = (function () {
     const lang = d.value;
     if (have(lang)) return;
     load(lang).then(() => {
+      /* applyLanguage() already ran inside appSettings.set(), before this pack
+       * existed, so every [data-lang-key] element in the static markup still
+       * holds English. Re-run the DOM pass now that the strings are here —
+       * without this the header, sidebar headings and tab strip stay English
+       * until the next full page load. */
+      try {
+        if (typeof applyTranslations === 'function') applyTranslations(lang);
+      } catch (err) { /* ignore */ }
       try {
         window.dispatchEvent(new CustomEvent('settingChanged', {
           detail: { key: 'language', value: lang, i18nReplay: true },
