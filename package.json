@@ -7,7 +7,9 @@
     "build:css": "npx tailwindcss -i ./src/input.css -o ./css/tailwind.min.css --minify",
     "watch:css": "npx tailwindcss -i ./src/input.css -o ./css/tailwind.min.css --watch",
     "dev": "npx live-server --port=3000",
-    "build": "npm run build:css"
+    "build": "npm run build:css",
+    "test": "node tests/run.js",
+    "check": "node tests/run.js"
   },
   "keywords": [
     "quran",
