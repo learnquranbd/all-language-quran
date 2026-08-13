@@ -26,6 +26,7 @@ const MODULES = [
   { name: 'tajweed-learn', files: ['js/tajweed-data.js', 'js/tajweed-learn.js'], cls: null, ci18n: true },
   { name: 'handwriting', files: ['js/qaida-data.js', 'js/handwriting-data.js', 'js/handwriting.js'], cls: 'Handwriting', ci18n: true },
   { name: 'kids', files: ['js/qaida-data.js', 'js/learn-kids.js'], cls: null, ci18n: true },
+  { name: 'surah-names', files: ['js/surah-names-data.js', 'js/surah-names.js'], cls: 'SurahNamesView', ci18n: true },
   { name: 'prayer', files: ['js/learn-prayer-data.js', 'js/learn-prayer.js'], cls: 'SalahModule' },
 ];
 
@@ -69,18 +70,22 @@ for (const mod of MODULES) {
     try {
       const CI = vm.runInContext('CI18N', sb);
       const v = new Ctor();
-      const resolver = typeof v.ci === 'function' ? 'ci' : (typeof v.L === 'function' ? 'L' : null);
+      /* Three conventions exist in the codebase, all legitimate: ci() takes the
+       * English string, L() and lc() take an {en, bn} pair. What matters is the
+       * behaviour — consult the dictionary, fall back to English — not the name. */
+      const resolver = typeof v.ci === 'function' ? 'ci'
+        : (typeof v.L === 'function' ? 'L' : (typeof v.lc === 'function' ? 'lc' : null));
       if (!resolver) {
-        problems.push(`${mod.name}: no ci()/L() content resolver — non-Bangla readers get English regardless of the dictionary`);
+        problems.push(`${mod.name}: no ci()/L()/lc() content resolver — non-Bangla readers get English regardless of the dictionary`);
       } else {
+        const call = () => (resolver === 'ci' ? v.ci('PROBE-SOURCE') : v[resolver]({ en: 'PROBE-SOURCE' }));
         CI._files.fr = { 'PROBE-SOURCE': 'PROBE-FR' };
         CI._files.tr = {};
         v.language = 'fr';
-        const got = resolver === 'ci' ? v.ci('PROBE-SOURCE') : v.L({ en: 'PROBE-SOURCE' });
+        const got = call();
         if (got !== 'PROBE-FR') problems.push(`${mod.name}: ${resolver}() ignored the loaded dictionary (got ${JSON.stringify(got)})`);
         v.language = 'tr';
-        const fb = resolver === 'ci' ? v.ci('PROBE-SOURCE') : v.L({ en: 'PROBE-SOURCE' });
-        if (fb !== 'PROBE-SOURCE') problems.push(`${mod.name}: ${resolver}() did not fall back to English for a missing key`);
+        if (call() !== 'PROBE-SOURCE') problems.push(`${mod.name}: ${resolver}() did not fall back to English for a missing key`);
       }
     } catch (e) {
       problems.push(`${mod.name}: content-resolver check threw — ${e.message}`);

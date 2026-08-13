@@ -141,6 +141,13 @@ class Tadabbur {
     if (this.language === 'bn' && n[base + 'Bn']) return n[base + 'Bn'];
     return this.ci(n[base + 'En'] || '');
   }
+  /** Same rule as noteText, for a bare {en, bn} pair (article headings/paragraphs). */
+  lc(o) {
+    if (!o) return '';
+    if (this.language === 'bn' && o.bn) return o.bn;
+    return this.ci(o.en || '');
+  }
+
   notePoints(n) {
     if (this.language === 'bn' && Array.isArray(n.pointsBn) && n.pointsBn.length) return n.pointsBn;
     return (n.pointsEn || []).map(p => this.ci(p));
@@ -286,12 +293,27 @@ class Tadabbur {
         </div>` : '';
       const take = lesson ? `
         <p class="mt-2 flex gap-2 text-xs text-emerald-700 dark:text-emerald-300"><span aria-hidden="true">🎯</span><span dir="auto"><span class="font-semibold">${this.esc(this.L('tad_lesson'))}:</span> ${this.esc(lesson)}</span></p>` : '';
+      /* A verse with a long-form exposition gets a collapsed opener. Collapsed
+       * matters: this list paints every card in one pass, and the articles are
+       * a large file — it must not be fetched because a tab was opened. The
+       * index (js/article-index.js) is what makes the control appear only where
+       * an article actually exists, without downloading anything to find out. */
+      const article = (typeof LQArticle !== 'undefined' && LQArticle && LQArticle.has('tadabbur', ref))
+        ? LQArticle.html('tadabbur', ref, {
+          lc: (x) => this.lc(x),
+          esc: (s) => this.esc(s),
+          title: this.L('tad_article'),
+          open: false,
+          onLoad: () => this.render(),
+        })
+        : '';
       return `
         <div class="mt-3 pt-3 border-t border-gray-100 dark:border-gray-700/60 text-start">
           <p class="text-[11px] uppercase tracking-wide font-semibold text-primary/80 mb-1">🧭 ${this.esc(this.L('tad_reflection'))}</p>
           <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(refl)}</p>
           ${points}
           ${take}
+          ${article ? `<div class="mt-3">${article}</div>` : ''}
         </div>`;
     }
     // Fallback: a single generic prompt (should be rare — all PONDER_REFS covered).

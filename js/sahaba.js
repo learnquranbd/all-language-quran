@@ -402,6 +402,15 @@ class SahabaView {
         </ul>
       </div>` : '';
 
+    /* Long-form article. Fetched on first detail open, not with the tab — see
+       js/article-view.js. Renders a placeholder until it lands, then repaints. */
+    const articleHtml = (typeof LQArticle !== 'undefined' && LQArticle) ? LQArticle.html('sahaba', c.id, {
+      lc: (x) => this.lc(x),
+      esc: (s) => this.esc(s),
+      title: this.tt('sahaba_label_article'),
+      onLoad: () => { if (this.selected === c.id) this.renderDetailInline(); },
+    }) : '';
+
     const refs = Array.isArray(c.refs) ? c.refs : [];
     const refsHtml = refs.length ? `
       <div class="mb-4">
@@ -438,6 +447,7 @@ class SahabaView {
             <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.loc(c, 'summary'))}</p>
           </div>
 
+          ${articleHtml}
           ${eventsHtml}
           ${refsHtml}
 
@@ -453,6 +463,9 @@ class SahabaView {
           </button>
         </div>
       </div>`;
+
+    // Verse references written inline in the article prose become tappable.
+    if (typeof LQArticle !== 'undefined' && LQArticle) LQArticle.sweep();
 
     try { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); } catch (_) { /* ignore */ }
   }

@@ -41,11 +41,16 @@ LQ.Modules = (function () {
    * ('prophets', not the app-nav id 'anbiya' — they differ). */
   const BUNDLES = {
     seerah:        ['js/seerah-data.js', 'js/seerah-timeline.js'],
-    sahaba:        ['js/sahaba-data.js', 'js/sahaba.js'],
+    /* article-view.js + its generated index are shared by the three modules
+     * that carry long-form articles. Both are small: the articles themselves
+     * are fetched only when a reader opens one, so listing these here costs a
+     * few KB rather than the hundreds the article files weigh. */
+    sahaba:        ['js/sahaba-data.js', 'js/article-index.js', 'js/article-view.js', 'js/sahaba.js'],
     whyislam:      ['js/why-islam-data.js', 'js/why-islam.js'],
-    prophets:      ['js/prophets-data.js', 'js/prophets.js'],
+    prophets:      ['js/prophets-data.js', 'js/article-index.js', 'js/article-view.js', 'js/prophets.js'],
+    surahnames:    ['js/surah-names-data.js', 'js/surah-names.js'],
     quranicarabic: ['js/learn-quranic-arabic-data.js', 'js/learn-quranic-arabic.js'],
-    tadabbur:      ['js/tadabbur-data.js', 'js/tadabbur.js'],
+    tadabbur:      ['js/tadabbur-data.js', 'js/article-index.js', 'js/article-view.js', 'js/tadabbur.js'],
   };
 
   const state = {};   // name -> Promise

@@ -39,8 +39,16 @@
 
   const MARK = 'lqAutolinked';
   /* Surah:ayah, optionally a range. Bounded digits so it cannot swallow prices
-     or long numbers; word boundaries so "12:34:56" style timestamps are skipped. */
-  const REF_RE = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?![\d:.-])/g;
+     or long numbers.
+     The trailing guard rejects only what would make this NOT a reference:
+     another digit ("2:5" inside "2:55"), or a separator followed by a digit
+     (".5" a decimal, ":56" a timestamp, "-7" a range the optional group should
+     have taken). It deliberately allows a separator followed by anything else,
+     because prose ends references with punctuation constantly — "as in 15:47."
+     and "the word stands in 3:169: do not think them…" were both left as dead
+     plain text by the older `(?![\d:.-])`, which rejected any of those
+     characters outright. */
+  const REF_RE = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?!\d|[.:-]\d)/g;
 
   /** Populated from the app's own surah table; without it we do nothing. */
   let ayahCounts = null;

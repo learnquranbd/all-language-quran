@@ -919,6 +919,15 @@ class ProphetsView {
         </div>
       </div>` : '';
 
+    /* Long-form article. Fetched on first detail open, not with the tab — see
+       js/article-view.js. Renders a placeholder until it lands, then repaints. */
+    const articleHtml = (typeof LQArticle !== 'undefined' && LQArticle) ? LQArticle.html('prophets', p.id, {
+      lc: (x) => this.lc(x),
+      esc: (s) => this.esc(s),
+      title: this.tt('prophets_label_article'),
+      onLoad: () => { if (this.selected === p.id) this.renderDetailInline(); },
+    }) : '';
+
     const seerahBtn = p.seerahLink ? `
       <button type="button" data-prophets-seerah
         class="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-4 py-2.5 mb-4 rounded-xl bg-primary text-white font-semibold hover:opacity-90 transition-opacity">
@@ -949,6 +958,7 @@ class ProphetsView {
             <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.loc(p, 'summary'))}</p>
           </div>
 
+          ${articleHtml}
           ${spotlightHtml}
           ${eventsHtml}
           ${trialsHtml}
@@ -971,6 +981,9 @@ class ProphetsView {
           </button>
         </div>
       </div>`;
+
+    // Verse references written inline in the article prose become tappable.
+    if (typeof LQArticle !== 'undefined' && LQArticle) LQArticle.sweep();
 
     try { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); } catch (_) { /* ignore */ }
   }

@@ -20,6 +20,9 @@ const CHECKS = [
   'check-dead-data.js',
   'check-quizzes.js',
   'check-i18n.js',
+  'check-articles.js',
+  'check-surah-names.js',
+  'check-autolink.js',
   'check-modules.js',
 ];
 
