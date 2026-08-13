@@ -4792,7 +4792,1130 @@ const SAHABA_DATA = [
     "refs": [],
     "lessonEn": "Knowledge and literacy are a trust to be shared; a capable woman's wisdom can serve the whole community.",
     "lessonBn": "জ্ঞান ও অক্ষরজ্ঞান ভাগ করে নেওয়ার আমানত; একজন যোগ্য নারীর প্রজ্ঞা গোটা সমাজের সেবায় লাগতে পারে।"
-  }
+  },
+  {
+    "id": "fatimah_bint_asad",
+    "order": 104,
+    "init": "FA",
+    "color": "bg-teal-600",
+    "ar": "فَاطِمَة بِنْت أَسَد",
+    "translit": "Fatimah bint Asad",
+    "en": "Fatimah bint Asad (RA)",
+    "bn": "ফাতিমা বিনতে আসাদ (রাঃ)",
+    "era": "first",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": true,
+    "roleEn": "The Woman Who Raised the Prophet ﷺ",
+    "roleBn": "নবী ﷺ-কে লালনপালনকারী নারী",
+    "yearEn": "d. in Madinah",
+    "highlightEn": "The Prophet ﷺ called her his mother after his own mother.",
+    "highlightBn": "নবী ﷺ তাঁকে বলতেন নিজের মায়ের পরে তাঁর মা।",
+    "summaryEn": "Fatimah bint Asad (RA) was the wife of Abu Talib and the mother of Ali (RA). When the orphaned Muhammad ﷺ came into Abu Talib's household after his grandfather's death, she cared for him like her own son, at times preferring him over her own children. He honoured her all his life, saying she was his mother after his own mother. She embraced Islam early and migrated to Madinah. When she died, the Prophet ﷺ gave his own shirt for her shroud, prayed over her, and lay in her grave before her burial — a farewell of rare tenderness.",
+    "summaryBn": "ফাতিমা বিনতে আসাদ (রাঃ) ছিলেন আবু তালিবের স্ত্রী ও আলী (রাঃ)-এর মা। দাদার মৃত্যুর পর এতিম মুহাম্মদ ﷺ আবু তালিবের ঘরে এলে তিনি তাঁকে নিজের সন্তানের মতো লালন করেন, কখনো কখনো নিজের সন্তানদের চেয়েও অগ্রাধিকার দিতেন। নবী ﷺ আজীবন তাঁকে সম্মান করেছেন এবং বলতেন, তিনি ছিলেন তাঁর নিজের মায়ের পরে তাঁর মা। তিনি প্রথম দিকেই ইসলাম গ্রহণ করেন ও মদিনায় হিজরত করেন। তাঁর মৃত্যুতে নবী ﷺ নিজের জামা কাফনের জন্য দেন, জানাজা পড়ান এবং দাফনের আগে তাঁর কবরে শুয়ে দোয়া করেন — এক বিরল মমতাময় বিদায়।",
+    "events": [
+      {
+        "en": "Raised the orphaned Muhammad ﷺ in Abu Talib's household",
+        "bn": "আবু তালিবের ঘরে এতিম মুহাম্মদ ﷺ-কে লালনপালন করেন"
+      },
+      {
+        "en": "Mother of Ali ibn Abi Talib (RA)",
+        "bn": "আলী ইবনে আবি তালিব (রাঃ)-এর মা"
+      },
+      {
+        "en": "Embraced Islam early and migrated to Madinah",
+        "bn": "প্রথম দিকেই ইসলাম গ্রহণ করেন ও মদিনায় হিজরত করেন"
+      },
+      {
+        "en": "The Prophet ﷺ gave his shirt for her shroud and prayed at her grave",
+        "bn": "নবী ﷺ নিজের জামা তাঁর কাফনের জন্য দেন ও কবরে দোয়া করেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Kindness shown to an orphan is never forgotten — it returns multiplied in love and honour.",
+    "lessonBn": "এতিমের প্রতি দেখানো মমতা কখনো হারায় না — তা ভালোবাসা ও সম্মান হয়ে বহুগুণে ফিরে আসে।"
+  },
+  {
+    "id": "zaynab_bint_muhammad",
+    "order": 105,
+    "init": "ZM",
+    "color": "bg-rose-500",
+    "ar": "زَيْنَب بِنْت مُحَمَّد",
+    "translit": "Zaynab bint Muhammad",
+    "en": "Zaynab bint Muhammad (RA)",
+    "bn": "যয়নব বিনতে মুহাম্মদ (রাঃ)",
+    "era": "persecution",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": true,
+    "roleEn": "Eldest Daughter of the Prophet ﷺ",
+    "roleBn": "নবী ﷺ-এর জ্যেষ্ঠ কন্যা",
+    "yearEn": "d. 629 CE",
+    "highlightEn": "She ransomed her husband with Khadijah's necklace — and it moved the Prophet ﷺ deeply.",
+    "highlightBn": "খাদিজার হার দিয়ে স্বামীকে মুক্ত করতে চাইলেন — তা দেখে নবী ﷺ গভীরভাবে আবেগাপ্লুত হন।",
+    "summaryEn": "Zaynab (RA) was the eldest daughter of the Prophet ﷺ and Khadijah (RA), married to her cousin Abu al-'As ibn ar-Rabi'. She believed while her husband did not, and the two were separated by the divide between Makkah and Madinah. When Abu al-'As was captured at Badr, Zaynab sent as his ransom a necklace her mother Khadijah had given her; the sight of it moved the Prophet ﷺ, and the Muslims released him. Her own migration was violently blocked on the road and she was injured. Abu al-'As later embraced Islam and they were reunited, but she died in 8 AH from lingering effects of her ordeal.",
+    "summaryBn": "যয়নব (রাঃ) ছিলেন নবী ﷺ ও খাদিজা (রাঃ)-এর জ্যেষ্ঠ কন্যা, ফুফাতো ভাই আবুল আস ইবনে রাবীর স্ত্রী। তিনি ঈমান আনলেও তাঁর স্বামী তখনো আনেননি, ফলে মক্কা-মদিনার বিভাজন তাঁদের আলাদা করে দেয়। বদরে আবুল আস বন্দি হলে যয়নব মুক্তিপণ হিসেবে পাঠান সেই হারটি, যা মা খাদিজা তাঁকে দিয়েছিলেন; তা দেখে নবী ﷺ আবেগাপ্লুত হন এবং মুসলিমরা তাঁকে মুক্তি দেন। হিজরতের পথে যয়নব আক্রান্ত ও আহত হন। পরে আবুল আস ইসলাম গ্রহণ করলে তাঁরা পুনর্মিলিত হন, কিন্তু সেই আঘাতের রেশে ৮ হিজরিতে তিনি ইন্তিকাল করেন।",
+    "events": [
+      {
+        "en": "Married her cousin Abu al-'As ibn ar-Rabi' before revelation",
+        "bn": "ওহি নাযিলের আগে ফুফাতো ভাই আবুল আস ইবনে রাবীকে বিবাহ করেন"
+      },
+      {
+        "en": "Sent Khadijah's necklace to ransom her captured husband after Badr",
+        "bn": "বদরের পর বন্দি স্বামীর মুক্তিপণ হিসেবে খাদিজার হার পাঠান"
+      },
+      {
+        "en": "Was attacked and injured while migrating to Madinah",
+        "bn": "মদিনায় হিজরতের পথে আক্রান্ত ও আহত হন"
+      },
+      {
+        "en": "Reunited with Abu al-'As after he embraced Islam",
+        "bn": "আবুল আস ইসলাম গ্রহণের পর তাঁর সাথে পুনর্মিলিত হন"
+      },
+      {
+        "en": "Died in 8 AH; the Prophet ﷺ grieved deeply for her",
+        "bn": "৮ হিজরিতে ইন্তিকাল করেন; নবী ﷺ গভীর শোক প্রকাশ করেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Faith may demand painful separations, but patience through them is rewarded with reunion and honour.",
+    "lessonBn": "ঈমানের দাবিতে কখনো বেদনাদায়ক বিচ্ছেদ আসে, কিন্তু ধৈর্যের প্রতিদান মেলে পুনর্মিলন ও মর্যাদায়।"
+  },
+  {
+    "id": "ruqayyah_bint_muhammad",
+    "order": 106,
+    "init": "RM",
+    "color": "bg-sky-600",
+    "ar": "رُقَيَّة بِنْت مُحَمَّد",
+    "translit": "Ruqayyah bint Muhammad",
+    "en": "Ruqayyah bint Muhammad (RA)",
+    "bn": "রুকাইয়া বিনতে মুহাম্মদ (রাঃ)",
+    "era": "first",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": true,
+    "roleEn": "Daughter of the Prophet ﷺ, Emigrant of the Two Hijrahs",
+    "roleBn": "নবী ﷺ-এর কন্যা, দুই হিজরতের মুহাজির",
+    "yearEn": "d. 624 CE",
+    "highlightEn": "She migrated twice for her faith — to Abyssinia and then to Madinah.",
+    "highlightBn": "ঈমানের জন্য দুবার হিজরত করেন — প্রথমে হাবশায়, পরে মদিনায়।",
+    "summaryEn": "Ruqayyah (RA), daughter of the Prophet ﷺ and Khadijah (RA), was among the first believers. Her early marriage to a son of Abu Lahab was ended under his father's pressure when revelation came, and she then married Uthman ibn Affan (RA). Together they migrated to Abyssinia to escape persecution — among the first households to leave everything for Islam — and later to Madinah. When the Badr expedition set out, she lay gravely ill, and the Prophet ﷺ instructed Uthman to stay and nurse her. She died as the news of the victory at Badr reached Madinah.",
+    "summaryBn": "নবী ﷺ ও খাদিজা (রাঃ)-এর কন্যা রুকাইয়া (রাঃ) ছিলেন প্রথম ঈমানদারদের একজন। ওহি নাযিল হলে আবু লাহাবের চাপে তার ছেলের সাথে তাঁর প্রাথমিক বিবাহ ভেঙে যায়, এরপর তিনি উসমান ইবনে আফফান (রাঃ)-কে বিবাহ করেন। নিপীড়ন থেকে বাঁচতে তাঁরা একসাথে হাবশায় হিজরত করেন — ইসলামের জন্য সবকিছু ছেড়ে যাওয়া প্রথম পরিবারগুলোর একটি — পরে মদিনায়ও হিজরত করেন। বদর অভিযান রওনা হওয়ার সময় তিনি গুরুতর অসুস্থ ছিলেন, তাই নবী ﷺ উসমানকে থেকে গিয়ে সেবা করার নির্দেশ দেন। বদর বিজয়ের সংবাদ মদিনায় পৌঁছানোর সময়েই তিনি ইন্তিকাল করেন।",
+    "events": [
+      {
+        "en": "Among the first to believe, with her mother and sisters",
+        "bn": "মা ও বোনদের সাথে সর্বপ্রথম ঈমান আনয়নকারীদের একজন"
+      },
+      {
+        "en": "Married Uthman ibn Affan (RA)",
+        "bn": "উসমান ইবনে আফফান (রাঃ)-কে বিবাহ করেন"
+      },
+      {
+        "en": "Migrated to Abyssinia, then to Madinah",
+        "bn": "প্রথমে হাবশায়, পরে মদিনায় হিজরত করেন"
+      },
+      {
+        "en": "Uthman stayed back from Badr by the Prophet's ﷺ order to nurse her",
+        "bn": "নবী ﷺ-এর নির্দেশে উসমান বদরে না গিয়ে তাঁর সেবায় থেকে যান"
+      },
+      {
+        "en": "Died as news of the Badr victory arrived",
+        "bn": "বদর বিজয়ের সংবাদ পৌঁছানোর সময় ইন্তিকাল করেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Leaving comfort for the sake of faith, again and again, is the mark of true conviction.",
+    "lessonBn": "ঈমানের জন্য বারবার আরাম ছেড়ে যাওয়াই প্রকৃত দৃঢ় বিশ্বাসের পরিচয়।"
+  },
+  {
+    "id": "umm_kulthum_bint_muhammad",
+    "order": 107,
+    "init": "UK",
+    "color": "bg-emerald-600",
+    "ar": "أُمّ كُلْثُوم بِنْت مُحَمَّد",
+    "translit": "Umm Kulthum bint Muhammad",
+    "en": "Umm Kulthum bint Muhammad (RA)",
+    "bn": "উম্মে কুলসুম বিনতে মুহাম্মদ (রাঃ)",
+    "era": "hijra",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": true,
+    "roleEn": "Daughter of the Prophet ﷺ, Second Wife of Dhun-Nurayn",
+    "roleBn": "নবী ﷺ-এর কন্যা, যুন-নুরাইনের দ্বিতীয় স্ত্রী",
+    "yearEn": "d. 630 CE",
+    "highlightEn": "Through her marriage Uthman earned the title Dhun-Nurayn — possessor of two lights.",
+    "highlightBn": "তাঁর বিবাহের মাধ্যমেই উসমান পান 'যুন-নুরাইন' — দুই নূরের অধিকারী — উপাধি।",
+    "summaryEn": "Umm Kulthum (RA) was a daughter of the Prophet ﷺ and Khadijah (RA). Like her sister Ruqayyah, her early marriage into Abu Lahab's family was broken off when revelation came, and she remained patiently with her father through the years of persecution in Makkah before migrating to Madinah. After Ruqayyah's death, the Prophet ﷺ married her to Uthman ibn Affan (RA) — who thus became known as Dhun-Nurayn, the possessor of two lights, the only man to marry two daughters of a Prophet. She died in 9 AH, and the Prophet ﷺ prayed over her and sat by her grave.",
+    "summaryBn": "উম্মে কুলসুম (রাঃ) ছিলেন নবী ﷺ ও খাদিজা (রাঃ)-এর কন্যা। বোন রুকাইয়ার মতো তাঁরও আবু লাহাবের পরিবারে প্রাথমিক বিবাহ ওহি নাযিলের পর ভেঙে যায়, এরপর মক্কার নিপীড়নের বছরগুলোতে তিনি ধৈর্যের সাথে পিতার পাশে থাকেন এবং পরে মদিনায় হিজরত করেন। রুকাইয়ার ইন্তিকালের পর নবী ﷺ তাঁকে উসমান ইবনে আফফান (রাঃ)-এর সাথে বিবাহ দেন — এতেই উসমান 'যুন-নুরাইন' বা দুই নূরের অধিকারী নামে পরিচিত হন, একজন নবীর দুই কন্যাকে বিবাহকারী একমাত্র ব্যক্তি। ৯ হিজরিতে তিনি ইন্তিকাল করেন; নবী ﷺ তাঁর জানাজা পড়ান ও কবরের পাশে বসেন।",
+    "events": [
+      {
+        "en": "Stood by her father through the persecution years in Makkah",
+        "bn": "মক্কার নিপীড়নের বছরগুলোতে পিতার পাশে অবিচল থাকেন"
+      },
+      {
+        "en": "Migrated to Madinah with the Prophet's ﷺ household",
+        "bn": "নবী ﷺ-এর পরিবারের সাথে মদিনায় হিজরত করেন"
+      },
+      {
+        "en": "Married Uthman (RA) after her sister Ruqayyah's death",
+        "bn": "বোন রুকাইয়ার ইন্তিকালের পর উসমান (রাঃ)-কে বিবাহ করেন"
+      },
+      {
+        "en": "Died in 9 AH; the Prophet ﷺ prayed over her",
+        "bn": "৯ হিজরিতে ইন্তিকাল করেন; নবী ﷺ তাঁর জানাজা পড়ান"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Quiet steadfastness beside family through hardship is itself a great act of faith.",
+    "lessonBn": "কষ্টের দিনে পরিবারের পাশে নীরব অবিচলতাও ঈমানের এক মহৎ আমল।"
+  },
+  {
+    "id": "abdullah_ibn_umm_maktum",
+    "order": 108,
+    "init": "AM",
+    "color": "bg-indigo-600",
+    "ar": "عَبْد الله بْن أُمّ مَكْتُوم",
+    "translit": "Abdullah ibn Umm Maktum",
+    "en": "Abdullah ibn Umm Maktum (RA)",
+    "bn": "আবদুল্লাহ ইবনে উম্মে মাকতুম (রাঃ)",
+    "era": "first",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "The Blind Companion for Whom Revelation Descended",
+    "roleBn": "যাঁর জন্য ওহি নাযিল হয়েছিল সেই দৃষ্টিহীন সাহাবি",
+    "yearEn": "d. c. 636 CE",
+    "highlightEn": "Surah 'Abasa was revealed about him — Allah Himself took his side.",
+    "highlightBn": "তাঁকে কেন্দ্র করেই সূরা আবাসা নাযিল হয় — স্বয়ং আল্লাহ তাঁর পক্ষ নেন।",
+    "summaryEn": "Abdullah ibn Umm Maktum (RA), a blind early convert of Makkah and a cousin of Khadijah (RA), came eagerly to the Prophet ﷺ while he was engaged with the chiefs of Quraysh. When the Prophet frowned and turned away, Allah revealed the opening of Surah 'Abasa (80:1-10), gently correcting His Messenger — the seeking heart outweighs the mighty. Thereafter the Prophet ﷺ would welcome him warmly. In Madinah he served as a muezzin alongside Bilal, and the Prophet left him in charge of the city during several campaigns. The exemption verse for the disabled (4:95) was revealed after his question, yet reports say he still carried the banner at al-Qadisiyyah.",
+    "summaryBn": "মক্কার দৃষ্টিহীন প্রাথমিক মুসলিম ও খাদিজা (রাঃ)-এর ফুফাতো ভাই আবদুল্লাহ ইবনে উম্মে মাকতুম (রাঃ) একবার আগ্রহভরে নবী ﷺ-এর কাছে আসেন, যখন তিনি কুরাইশ নেতাদের সাথে আলোচনায় ব্যস্ত। নবী ভ্রু কুঁচকে মুখ ফিরিয়ে নিলে আল্লাহ সূরা আবাসার শুরুর আয়াতগুলো (৮০:১-১০) নাযিল করে স্নেহভরে তাঁর রাসুলকে শুধরে দেন — সত্যান্বেষী হৃদয় ক্ষমতাবানদের চেয়ে ভারী। এরপর নবী ﷺ তাঁকে সাদরে বরণ করতেন। মদিনায় তিনি বিলালের সাথে মুয়াজ্জিন ছিলেন, একাধিক অভিযানে নবী তাঁকে মদিনার দায়িত্বে রেখে যান। তাঁর প্রশ্নের পরই অক্ষমদের অব্যাহতির আয়াত (৪:৯৫) নাযিল হয়, তবু বর্ণনামতে কাদিসিয়ার যুদ্ধে তিনি পতাকা বহন করেছিলেন।",
+    "events": [
+      {
+        "en": "Embraced Islam in the earliest Makkan days",
+        "bn": "মক্কার একেবারে প্রথম যুগে ইসলাম গ্রহণ করেন"
+      },
+      {
+        "en": "Surah 'Abasa revealed when the Prophet ﷺ turned away from him",
+        "bn": "নবী ﷺ মুখ ফিরিয়ে নিলে তাঁকে কেন্দ্র করে সূরা আবাসা নাযিল হয়"
+      },
+      {
+        "en": "Served as a muezzin of Madinah alongside Bilal (RA)",
+        "bn": "বিলাল (রাঃ)-এর সাথে মদিনার মুয়াজ্জিনের দায়িত্ব পালন করেন"
+      },
+      {
+        "en": "Left in charge of Madinah during several of the Prophet's ﷺ campaigns",
+        "bn": "নবী ﷺ-এর একাধিক অভিযানে মদিনার দায়িত্বপ্রাপ্ত হন"
+      },
+      {
+        "en": "Reported to have carried the banner at al-Qadisiyyah despite his exemption",
+        "bn": "অব্যাহতি পাওয়া সত্ত্বেও বর্ণনামতে কাদিসিয়ায় পতাকা বহন করেন"
+      }
+    ],
+    "refs": [
+      "80:1-10",
+      "4:95"
+    ],
+    "lessonEn": "A person's worth lies in their seeking heart, not their status, wealth, or physical strength.",
+    "lessonBn": "মানুষের মূল্য তার সত্যান্বেষী হৃদয়ে — পদমর্যাদা, সম্পদ বা শারীরিক শক্তিতে নয়।"
+  },
+  {
+    "id": "amr_ibn_abasah",
+    "order": 109,
+    "init": "AA",
+    "color": "bg-orange-500",
+    "ar": "عَمْرو بْن عَبَسَة",
+    "translit": "Amr ibn Abasah",
+    "en": "Amr ibn Abasah (RA)",
+    "bn": "আমর ইবনে আবাসা (রাঃ)",
+    "era": "first",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "A Seeker Who Found Islam in Its Hidden Days",
+    "roleBn": "গোপন যুগেই ইসলাম খুঁজে পাওয়া এক সত্যান্বেষী",
+    "yearEn": "d. in Syria (Sham)",
+    "highlightEn": "He said: \"I saw myself as a fourth of Islam.\"",
+    "highlightBn": "তিনি বলতেন: \"আমি নিজেকে ইসলামের এক-চতুর্থাংশ মনে করতাম।\"",
+    "summaryEn": "Amr ibn Abasah (RA) of Banu Sulaym despised idolatry even before Islam. Hearing of a man in Makkah preaching the Oneness of God, he sought out the Prophet ﷺ while the message was still hidden. He asked who had followed him; the answer was \"a free man and a slave\" — Abu Bakr and Bilal. Amr embraced Islam then and there and later said he had seen himself as a fourth of Islam. Told to return to his people until Islam prevailed, he rejoined the Prophet ﷺ in Madinah and narrated from him treasured teachings on wudu and the times of prayer. He later settled in Sham.",
+    "summaryBn": "বনু সুলাইমের আমর ইবনে আবাসা (রাঃ) ইসলামের আগেই মূর্তিপূজা ঘৃণা করতেন। মক্কায় এক ব্যক্তি আল্লাহর একত্বের দাওয়াত দিচ্ছেন শুনে তিনি নবী ﷺ-কে খুঁজে বের করেন, যখন দাওয়াত তখনো গোপন। তিনি জিজ্ঞেস করলেন, কারা তাঁর অনুসারী; উত্তর এল — \"একজন স্বাধীন ও একজন দাস\" — আবু বকর ও বিলাল। আমর তখনই ইসলাম গ্রহণ করেন এবং পরে বলতেন, তিনি নিজেকে ইসলামের এক-চতুর্থাংশ মনে করতেন। ইসলাম বিজয়ী না হওয়া পর্যন্ত নিজ গোত্রে ফিরে থাকার নির্দেশ পেয়ে পরে মদিনায় নবী ﷺ-এর সাথে মিলিত হন এবং অজু ও নামাজের সময় বিষয়ে মূল্যবান হাদিস বর্ণনা করেন। শেষজীবনে শামে বসতি করেন।",
+    "events": [
+      {
+        "en": "Rejected idol-worship even before hearing of Islam",
+        "bn": "ইসলামের সংবাদ পাওয়ার আগেই মূর্তিপূজা প্রত্যাখ্যান করেন"
+      },
+      {
+        "en": "Sought the Prophet ﷺ in Makkah while the call was still secret",
+        "bn": "দাওয়াত গোপন থাকা অবস্থায়ই মক্কায় নবী ﷺ-কে খুঁজে বের করেন"
+      },
+      {
+        "en": "Embraced Islam when only a handful had believed",
+        "bn": "মুষ্টিমেয় মানুষ ঈমান আনার সময়ই ইসলাম গ্রহণ করেন"
+      },
+      {
+        "en": "Rejoined the Prophet ﷺ in Madinah as instructed",
+        "bn": "নির্দেশ অনুযায়ী মদিনায় নবী ﷺ-এর সাথে মিলিত হন"
+      },
+      {
+        "en": "Narrated the famous hadith on wudu washing away sins and the prayer times",
+        "bn": "অজুতে গুনাহ ঝরে যাওয়া ও নামাজের সময় বিষয়ক প্রসিদ্ধ হাদিস বর্ণনা করেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Whoever sincerely seeks the truth will be guided to it, even when it is hidden from the world.",
+    "lessonBn": "যে আন্তরিকভাবে সত্য খোঁজে, দুনিয়ার চোখে তা গোপন থাকলেও সে পথ পেয়ে যায়।"
+  },
+  {
+    "id": "abu_salamah_ibn_abd_al_asad",
+    "order": 110,
+    "init": "AS",
+    "color": "bg-cyan-600",
+    "ar": "أَبُو سَلَمَة بْن عَبْد الأَسَد",
+    "translit": "Abu Salamah ibn Abd al-Asad",
+    "en": "Abu Salamah ibn Abd al-Asad (RA)",
+    "bn": "আবু সালামা ইবনে আবদুল আসাদ (রাঃ)",
+    "era": "hijra",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "Early Emigrant, Foster-Brother of the Prophet ﷺ",
+    "roleBn": "প্রাথমিক মুহাজির, নবী ﷺ-এর দুধভাই",
+    "yearEn": "d. c. 625 CE",
+    "highlightEn": "He taught the du'a for calamity — and Allah gave his widow one better than him.",
+    "highlightBn": "বিপদের দোয়া শিখিয়ে গেলেন — আর আল্লাহ তাঁর বিধবাকে দিলেন তাঁর চেয়েও উত্তম।",
+    "summaryEn": "Abu Salamah (RA), cousin and foster-brother of the Prophet ﷺ, was among the earliest converts. With his wife Umm Salamah (RA) he migrated to Abyssinia, and was then among the first to set out for Madinah — a journey on which his wife and son were forcibly kept back from him for a time. He fought at Badr and was wounded at Uhud; the wound reopened and he died in 4 AH. He had related from the Prophet ﷺ the du'a of the afflicted: \"O Allah, reward me in my calamity and replace it with better.\" Umm Salamah wondered who could be better than Abu Salamah — then Allah gave her marriage to the Prophet ﷺ himself.",
+    "summaryBn": "নবী ﷺ-এর ফুফাতো ভাই ও দুধভাই আবু সালামা (রাঃ) ছিলেন সর্বপ্রথম মুসলিমদের একজন। স্ত্রী উম্মে সালামা (রাঃ)-সহ হাবশায় হিজরত করেন, এরপর মদিনায় রওনা হওয়া প্রথম ব্যক্তিদের অন্যতম — সে যাত্রায় তাঁর স্ত্রী-সন্তানকে কিছুকাল জোর করে আটকে রাখা হয়। তিনি বদরে লড়েন এবং উহুদে আহত হন; সেই ক্ষত আবার খুলে গেলে ৪ হিজরিতে ইন্তিকাল করেন। তিনি নবী ﷺ থেকে বিপদগ্রস্তের দোয়া বর্ণনা করেছিলেন: \"হে আল্লাহ, আমার বিপদে আমাকে প্রতিদান দিন এবং এর বদলে উত্তম কিছু দিন।\" উম্মে সালামা ভাবতেন, আবু সালামার চেয়ে উত্তম আর কে হতে পারে — পরে আল্লাহ তাঁকে স্বয়ং নবী ﷺ-এর সাথে বিবাহ দেন।",
+    "events": [
+      {
+        "en": "Among the earliest to embrace Islam",
+        "bn": "সর্বপ্রথম ইসলাম গ্রহণকারীদের একজন"
+      },
+      {
+        "en": "Migrated to Abyssinia, then among the first to Madinah",
+        "bn": "হাবশায় হিজরত করেন, পরে মদিনায় প্রথম হিজরতকারীদের অন্যতম"
+      },
+      {
+        "en": "Fought at Badr and was wounded at Uhud",
+        "bn": "বদরে লড়াই করেন ও উহুদে আহত হন"
+      },
+      {
+        "en": "Related the du'a: \"O Allah, reward me in my calamity and replace it with better\"",
+        "bn": "দোয়া বর্ণনা করেন: \"হে আল্লাহ, বিপদে প্রতিদান দিন ও উত্তম বদল দিন\""
+      },
+      {
+        "en": "The Prophet ﷺ closed his eyes at death and prayed for him",
+        "bn": "মৃত্যুর সময় নবী ﷺ তাঁর চোখ বন্ধ করে দেন ও দোয়া করেন"
+      }
+    ],
+    "refs": [
+      "2:156"
+    ],
+    "lessonEn": "Whoever entrusts a loss to Allah with patience is repaid with what is better.",
+    "lessonBn": "যে ধৈর্যের সাথে ক্ষতিকে আল্লাহর হাতে সঁপে দেয়, আল্লাহ তাকে উত্তম প্রতিদান দেন।"
+  },
+  {
+    "id": "umm_habibah_ramlah",
+    "order": 111,
+    "init": "UH",
+    "color": "bg-fuchsia-500",
+    "ar": "أُمّ حَبِيبَة رَمْلَة بِنْت أَبِي سُفْيَان",
+    "translit": "Umm Habibah Ramlah bint Abi Sufyan",
+    "en": "Umm Habibah Ramlah bint Abi Sufyan (RA)",
+    "bn": "উম্মে হাবিবা রামলা বিনতে আবু সুফিয়ান (রাঃ)",
+    "era": "persecution",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": true,
+    "roleEn": "Mother of the Believers Who Stood Alone in Exile",
+    "roleBn": "নির্বাসনে একাকী অবিচল উম্মুল মুমিনীন",
+    "yearEn": "d. c. 664 CE",
+    "highlightEn": "The Negus himself conducted her marriage to the Prophet ﷺ across the sea.",
+    "highlightBn": "সাগরের ওপারে স্বয়ং নাজাশি তাঁর সাথে নবী ﷺ-এর বিবাহ সম্পন্ন করান।",
+    "summaryEn": "Ramlah (RA), daughter of Abu Sufyan — then Makkah's leading opponent of Islam — believed against her father's stance and migrated to Abyssinia with her husband. There her trial deepened: her husband abandoned Islam and died, leaving her alone with her daughter in a foreign land. She held firm. Then came unexpected honour: the Prophet ﷺ sent a proposal, and the Negus conducted the marriage and paid the dower on his behalf. She reached Madinah around the time of Khaybar and lived as a Mother of the Believers, firm in faith even when her father visited Madinah still an unbeliever.",
+    "summaryBn": "মক্কার তৎকালীন প্রধান ইসলামবিরোধী আবু সুফিয়ানের কন্যা রামলা (রাঃ) পিতার অবস্থানের বিরুদ্ধে গিয়ে ঈমান আনেন এবং স্বামীর সাথে হাবশায় হিজরত করেন। সেখানে পরীক্ষা আরও কঠিন হয়: তাঁর স্বামী ইসলাম ত্যাগ করে মারা যান, বিদেশে কন্যাসহ তিনি একা হয়ে পড়েন। তবু তিনি অবিচল থাকেন। এরপর আসে অপ্রত্যাশিত সম্মান: নবী ﷺ বিবাহের প্রস্তাব পাঠান, আর নাজাশি নিজে বিবাহ সম্পন্ন করান ও নবীর পক্ষ থেকে মোহর আদায় করেন। খাইবারের সময়কালে তিনি মদিনায় পৌঁছান এবং উম্মুল মুমিনীন হিসেবে জীবন কাটান — পিতা অবিশ্বাসী অবস্থায় মদিনায় এলেও ঈমানে অটল ছিলেন।",
+    "events": [
+      {
+        "en": "Believed despite her father Abu Sufyan's leadership of Quraysh's opposition",
+        "bn": "পিতা আবু সুফিয়ান কুরাইশের বিরোধিতার নেতা হওয়া সত্ত্বেও ঈমান আনেন"
+      },
+      {
+        "en": "Migrated to Abyssinia with her husband",
+        "bn": "স্বামীর সাথে হাবশায় হিজরত করেন"
+      },
+      {
+        "en": "Remained firm when her husband left Islam and died abroad",
+        "bn": "স্বামী ইসলাম ত্যাগ করে বিদেশে মারা গেলেও ঈমানে অবিচল থাকেন"
+      },
+      {
+        "en": "Married to the Prophet ﷺ through the Negus of Abyssinia",
+        "bn": "হাবশার নাজাশির মাধ্যমে নবী ﷺ-এর সাথে বিবাহবন্ধনে আবদ্ধ হন"
+      },
+      {
+        "en": "Joined the Prophet's ﷺ household in Madinah around Khaybar",
+        "bn": "খাইবারের সময়কালে মদিনায় নবী ﷺ-এর পরিবারে যোগ দেন"
+      }
+    ],
+    "refs": [
+      "60:7"
+    ],
+    "lessonEn": "When a believer stands firm through utter loneliness, Allah's replacement exceeds all that was lost.",
+    "lessonBn": "চরম একাকীত্বেও মুমিন অবিচল থাকলে, আল্লাহর দেওয়া বিনিময় হারানো সবকিছুকে ছাড়িয়ে যায়।"
+  },
+  {
+    "id": "asma_bint_umays",
+    "order": 112,
+    "init": "AU",
+    "color": "bg-violet-600",
+    "ar": "أَسْمَاء بِنْت عُمَيْس",
+    "translit": "Asma bint Umays",
+    "en": "Asma bint Umays (RA)",
+    "bn": "আসমা বিনতে উমাইস (রাঃ)",
+    "era": "persecution",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": true,
+    "roleEn": "The Woman of Two Hijrahs",
+    "roleBn": "দুই হিজরতের অধিকারিণী নারী",
+    "yearEn": "1st century AH",
+    "highlightEn": "The Prophet ﷺ said the people of the ship have two hijrahs.",
+    "highlightBn": "নবী ﷺ বলেছিলেন, জাহাজের লোকদের জন্য রয়েছে দুই হিজরত।",
+    "summaryEn": "Asma bint Umays (RA) embraced Islam before the Muslims entered the house of al-Arqam and migrated to Abyssinia with her husband Ja'far ibn Abi Talib (RA), enduring years of exile. They returned at the time of Khaybar, and the Prophet ﷺ said the people of the ship had two migrations. When Ja'far was martyred at Mu'tah, the Prophet himself came to console her and her children. She later married Abu Bakr (RA), bearing Muhammad ibn Abi Bakr, and after Abu Bakr's death married Ali (RA). She was known for her intelligence, her knowledge, and her care in washing and preparing Abu Bakr's body as he had willed.",
+    "summaryBn": "আসমা বিনতে উমাইস (রাঃ) দারুল আরকামে মুসলিমদের প্রবেশের আগেই ইসলাম গ্রহণ করেন এবং স্বামী জাফর ইবনে আবি তালিব (রাঃ)-এর সাথে হাবশায় হিজরত করে বছরের পর বছর নির্বাসন সহ্য করেন। খাইবারের সময় তাঁরা ফিরে এলে নবী ﷺ বলেন, জাহাজের লোকদের জন্য রয়েছে দুই হিজরত। মুতার যুদ্ধে জাফর শহিদ হলে নবী নিজে এসে তাঁকে ও তাঁর সন্তানদের সান্ত্বনা দেন। পরে তিনি আবু বকর (রাঃ)-কে বিবাহ করেন, তাঁদের সন্তান মুহাম্মদ ইবনে আবি বকর; আবু বকরের ইন্তিকালের পর আলী (রাঃ)-কে বিবাহ করেন। বুদ্ধিমত্তা, জ্ঞান এবং অসিয়ত অনুযায়ী আবু বকরের গোসল ও দাফন-প্রস্তুতির যত্নের জন্য তিনি স্মরণীয়।",
+    "events": [
+      {
+        "en": "Embraced Islam in the earliest Makkan period",
+        "bn": "মক্কার একেবারে প্রাথমিক যুগে ইসলাম গ্রহণ করেন"
+      },
+      {
+        "en": "Migrated to Abyssinia with Ja'far (RA) and returned at Khaybar",
+        "bn": "জাফর (রাঃ)-এর সাথে হাবশায় হিজরত করেন, খাইবারের সময় ফিরে আসেন"
+      },
+      {
+        "en": "Consoled by the Prophet ﷺ when Ja'far was martyred at Mu'tah",
+        "bn": "মুতায় জাফর শহিদ হলে নবী ﷺ নিজে তাঁকে সান্ত্বনা দেন"
+      },
+      {
+        "en": "Later married Abu Bakr (RA), and after him Ali (RA)",
+        "bn": "পরে আবু বকর (রাঃ)-কে, তাঁর ইন্তিকালের পর আলী (রাঃ)-কে বিবাহ করেন"
+      },
+      {
+        "en": "Prepared Abu Bakr's body for burial according to his will",
+        "bn": "অসিয়ত অনুযায়ী আবু বকরের দাফন-প্রস্তুতি সম্পন্ন করেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "A believing woman can carry exile, widowhood, and service to the greatest of men with equal grace.",
+    "lessonBn": "একজন মুমিনা নারী নির্বাসন, বৈধব্য ও শ্রেষ্ঠ মানুষদের সেবা — সবই সমান মর্যাদায় বহন করতে পারেন।"
+  },
+  {
+    "id": "sawdah_bint_zamah",
+    "order": 113,
+    "init": "SZ",
+    "color": "bg-amber-600",
+    "ar": "سَوْدَة بِنْت زَمْعَة",
+    "translit": "Sawdah bint Zam'ah",
+    "en": "Sawdah bint Zam'ah (RA)",
+    "bn": "সাওদা বিনতে যামআ (রাঃ)",
+    "era": "hijra",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": true,
+    "roleEn": "First Wife After Khadijah, Keeper of the Prophet's ﷺ Home",
+    "roleBn": "খাদিজার পর প্রথম স্ত্রী, নবী ﷺ-এর সংসারের অভিভাবিকা",
+    "yearEn": "d. in Madinah",
+    "highlightEn": "She gave her day to A'ishah, wishing only to be raised as the Prophet's ﷺ wife.",
+    "highlightBn": "নিজের পালা আয়েশাকে দিয়ে দেন — চাওয়া ছিল শুধু নবী ﷺ-এর স্ত্রী হয়ে ওঠা পুনরুত্থান।",
+    "summaryEn": "Sawdah (RA) was an early convert who migrated to Abyssinia with her husband as-Sakran ibn Amr; she was widowed after their return. When the Prophet ﷺ was grieving after Khadijah's death, Sawdah became his first new wife, mothering his daughters and managing his household in the hardest of years, and migrating with the family to Madinah. In her later years she gifted her allotted day to A'ishah (RA), saying she desired only to be raised on the Day of Judgement as a wife of the Messenger of Allah ﷺ — a settlement in whose context the verse on marital reconciliation (4:128) is reported. She was known for her charity and warm humour.",
+    "summaryBn": "সাওদা (রাঃ) ছিলেন প্রাথমিক মুসলিমা, স্বামী সাকরান ইবনে আমরের সাথে হাবশায় হিজরত করেন; ফেরার পর বিধবা হন। খাদিজার ইন্তিকালের শোকের দিনে সাওদা হন নবী ﷺ-এর প্রথম নতুন স্ত্রী — কঠিনতম বছরগুলোতে তাঁর কন্যাদের মাতৃস্নেহ দেন, সংসার সামলান এবং পরিবারের সাথে মদিনায় হিজরত করেন। শেষ বয়সে তিনি নিজের নির্ধারিত পালা আয়েশা (রাঃ)-কে দিয়ে দেন, বলেন — কিয়ামতের দিন আল্লাহর রাসুল ﷺ-এর স্ত্রী হিসেবে উত্থিত হওয়াই তাঁর একমাত্র চাওয়া; এই মীমাংসার প্রসঙ্গেই দাম্পত্য-সমঝোতার আয়াত (৪:১২৮) নাযিলের বর্ণনা রয়েছে। দানশীলতা ও সরস রসিকতার জন্য তিনি পরিচিত ছিলেন।",
+    "events": [
+      {
+        "en": "Early convert who migrated to Abyssinia",
+        "bn": "প্রাথমিক মুসলিমা, হাবশায় হিজরত করেন"
+      },
+      {
+        "en": "Married the Prophet ﷺ after Khadijah's death",
+        "bn": "খাদিজার ইন্তিকালের পর নবী ﷺ-কে বিবাহ করেন"
+      },
+      {
+        "en": "Cared for the Prophet's ﷺ daughters and household",
+        "bn": "নবী ﷺ-এর কন্যাদের ও সংসারের দেখাশোনা করেন"
+      },
+      {
+        "en": "Gave her allotted day to A'ishah (RA) in her later years",
+        "bn": "শেষ বয়সে নিজের নির্ধারিত পালা আয়েশা (রাঃ)-কে দিয়ে দেন"
+      },
+      {
+        "en": "Remembered for generosity and cheerful humour",
+        "bn": "দানশীলতা ও প্রাণবন্ত রসবোধের জন্য স্মরণীয়"
+      }
+    ],
+    "refs": [
+      "4:128"
+    ],
+    "lessonEn": "Contentment with Allah's reward can make giving up one's own share an act of devotion.",
+    "lessonBn": "আল্লাহর প্রতিদানে তুষ্টি থাকলে নিজের অংশ ছেড়ে দেওয়াও হয়ে ওঠে ইবাদত।"
+  },
+  {
+    "id": "suraqah_ibn_malik",
+    "order": 114,
+    "init": "SM",
+    "color": "bg-slate-600",
+    "ar": "سُرَاقَة بْن مَالِك",
+    "translit": "Suraqah ibn Malik",
+    "en": "Suraqah ibn Malik (RA)",
+    "bn": "সুরাকা ইবনে মালিক (রাঃ)",
+    "era": "hijra",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "The Pursuer Who Became a Believer",
+    "roleBn": "পশ্চাদ্ধাবনকারী থেকে ঈমানদার",
+    "yearEn": "d. c. 645 CE",
+    "highlightEn": "Promised the bracelets of Chosroes while hunting the Prophet ﷺ for a bounty.",
+    "highlightBn": "পুরস্কারের লোভে নবী ﷺ-কে ধাওয়া করতে গিয়ে পান কিসরার কঙ্কনের প্রতিশ্রুতি।",
+    "summaryEn": "Suraqah ibn Malik (RA) of Banu Mudlij rode out during the Hijrah to capture the Prophet ﷺ for Quraysh's bounty of a hundred camels. Each time he drew near, his horse sank into the sand until he begged for amnesty — and received it. Turning back, he misdirected the other pursuers. Reports tell that the Prophet ﷺ foretold that Suraqah would one day wear the bracelets of Chosroes, emperor of Persia. He embraced Islam after the campaigns of the conquest year, and when the treasures of Persia later reached Madinah, Umar (RA) placed Kisra's bracelets upon Suraqah's wrists, fulfilling the promise before the people.",
+    "summaryBn": "বনু মুদলিজের সুরাকা ইবনে মালিক (রাঃ) হিজরতের সময় কুরাইশের একশো উটের পুরস্কারের আশায় নবী ﷺ-কে ধরতে বেরিয়েছিলেন। যতবার কাছে পৌঁছান, ততবার তাঁর ঘোড়া বালিতে দেবে যায়; শেষে তিনি নিরাপত্তা ভিক্ষা করেন — এবং পান। ফিরে গিয়ে অন্য অনুসন্ধানকারীদের ভুল পথে পাঠান। বর্ণনায় আছে, নবী ﷺ ভবিষ্যদ্বাণী করেন — সুরাকা একদিন পারস্য-সম্রাট কিসরার কঙ্কন পরবেন। বিজয় বর্ষের অভিযানগুলোর পর তিনি ইসলাম গ্রহণ করেন, আর পরে পারস্যের ধনভান্ডার মদিনায় পৌঁছালে উমর (রাঃ) জনসমক্ষে কিসরার কঙ্কন সুরাকার হাতে পরিয়ে সেই প্রতিশ্রুতি পূর্ণ করেন।",
+    "events": [
+      {
+        "en": "Pursued the Prophet ﷺ during the Hijrah for Quraysh's bounty",
+        "bn": "কুরাইশের পুরস্কারের জন্য হিজরতের সময় নবী ﷺ-কে ধাওয়া করেন"
+      },
+      {
+        "en": "His horse sank repeatedly; he sought and received amnesty",
+        "bn": "ঘোড়া বারবার দেবে যায়; নিরাপত্তা চেয়ে তা লাভ করেন"
+      },
+      {
+        "en": "Turned the other pursuers away from the trail",
+        "bn": "অন্য অনুসন্ধানকারীদের ভুল পথে ফিরিয়ে দেন"
+      },
+      {
+        "en": "Embraced Islam after the year of the Conquest",
+        "bn": "বিজয়ের বছরের পর ইসলাম গ্রহণ করেন"
+      },
+      {
+        "en": "Umar (RA) placed the bracelets of Chosroes on his wrists",
+        "bn": "উমর (রাঃ) কিসরার কঙ্কন তাঁর হাতে পরিয়ে দেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Allah can turn today's fiercest pursuer into tomorrow's believer — no enemy is beyond guidance.",
+    "lessonBn": "আজকের কঠোরতম শত্রুকেও আল্লাহ আগামীর ঈমানদার বানাতে পারেন — হিদায়াতের বাইরে কেউ নয়।"
+  },
+  {
+    "id": "abdullah_ibn_jahsh",
+    "order": 115,
+    "init": "AJ",
+    "color": "bg-red-600",
+    "ar": "عَبْد الله بْن جَحْش",
+    "translit": "Abdullah ibn Jahsh",
+    "en": "Abdullah ibn Jahsh (RA)",
+    "bn": "আবদুল্লাহ ইবনে জাহশ (রাঃ)",
+    "era": "battles",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "Commander of the First Expedition",
+    "roleBn": "প্রথম অভিযানের সেনাপতি",
+    "yearEn": "d. 625 CE",
+    "highlightEn": "He prayed at Uhud for a martyrdom that would leave its marks — and received it.",
+    "highlightBn": "উহুদে চিহ্ন রেখে যাওয়া শাহাদাত চেয়ে দোয়া করেছিলেন — এবং তা-ই পেলেন।",
+    "summaryEn": "Abdullah ibn Jahsh (RA), a cousin of the Prophet ﷺ and brother of Zaynab bint Jahsh (RA), was an early convert who migrated to both Abyssinia and Madinah. The Prophet ﷺ gave him command of the expedition to Nakhlah with sealed orders — the first Muslim expedition to see fighting, and when it fell in the sacred month, the uproar was answered by the revelation of 2:217. Before Uhud he prayed to meet an enemy who would kill him for Allah's sake and leave the marks of sacrifice on his body, so he could answer for them before his Lord. He was martyred at Uhud and buried near his uncle Hamza (RA).",
+    "summaryBn": "নবী ﷺ-এর ফুফাতো ভাই ও যয়নব বিনতে জাহশ (রাঃ)-এর ভাই আবদুল্লাহ ইবনে জাহশ (রাঃ) ছিলেন প্রাথমিক মুসলিম, হাবশা ও মদিনা — উভয় হিজরতের অংশীদার। নবী ﷺ তাঁকে মোহরকৃত নির্দেশপত্রসহ নাখলা অভিযানের নেতৃত্ব দেন — মুসলিমদের প্রথম অভিযান যেখানে যুদ্ধ সংঘটিত হয়; তা পবিত্র মাসে পড়ায় যে তোলপাড় ওঠে, তার জবাবে নাযিল হয় ২:২১৭ আয়াত। উহুদের আগে তিনি দোয়া করেন — যেন এমন শত্রুর মুখোমুখি হন যে তাঁকে আল্লাহর পথে শহিদ করবে এবং দেহে ত্যাগের চিহ্ন রেখে যাবে, যাতে প্রভুর সামনে তার জবাব দিতে পারেন। উহুদে তিনি শহিদ হন এবং চাচা হামজা (রাঃ)-এর কাছে সমাহিত হন।",
+    "events": [
+      {
+        "en": "Early convert who made both migrations",
+        "bn": "প্রাথমিক মুসলিম, উভয় হিজরতে অংশ নেন"
+      },
+      {
+        "en": "Led the Nakhlah expedition under sealed orders",
+        "bn": "মোহরকৃত নির্দেশে নাখলা অভিযানের নেতৃত্ব দেন"
+      },
+      {
+        "en": "Verse 2:217 was revealed concerning the expedition's fighting in the sacred month",
+        "bn": "পবিত্র মাসে সংঘটিত যুদ্ধ নিয়ে ২:২১৭ আয়াত নাযিল হয়"
+      },
+      {
+        "en": "Prayed for a martyrdom bearing the marks of sacrifice",
+        "bn": "ত্যাগের চিহ্নবাহী শাহাদাতের জন্য দোয়া করেন"
+      },
+      {
+        "en": "Martyred at Uhud, buried near his uncle Hamza (RA)",
+        "bn": "উহুদে শহিদ হন, চাচা হামজা (রাঃ)-এর কাছে সমাহিত"
+      }
+    ],
+    "refs": [
+      "2:217"
+    ],
+    "lessonEn": "Sincerity means wanting to meet Allah with proof of one's sacrifice, not with excuses.",
+    "lessonBn": "ইখলাস মানে অজুহাত নয়, ত্যাগের প্রমাণ নিয়ে আল্লাহর সাথে সাক্ষাতের আকাঙ্ক্ষা।"
+  },
+  {
+    "id": "ukkasha_ibn_mihsan",
+    "order": 116,
+    "init": "UM",
+    "color": "bg-green-600",
+    "ar": "عُكَّاشَة بْن مِحْصَن",
+    "translit": "'Ukkasha ibn Mihsan",
+    "en": "'Ukkasha ibn Mihsan (RA)",
+    "bn": "উক্কাশা ইবনে মিহসান (রাঃ)",
+    "era": "battles",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "Of the Seventy Thousand Who Enter Without Reckoning",
+    "roleBn": "বিনা হিসাবে জান্নাতে প্রবেশকারী সত্তর হাজারের একজন",
+    "yearEn": "d. c. 632 CE",
+    "highlightEn": "\"You are among them,\" said the Prophet ﷺ — and the door closed behind him.",
+    "highlightBn": "নবী ﷺ বললেন, \"তুমি তাদেরই একজন\" — এরপরই সে দরজা বন্ধ হয়ে যায়।",
+    "summaryEn": "'Ukkasha ibn Mihsan (RA) of Banu Asad, an early emigrant, fought valiantly at Badr — where, when his sword broke, the Prophet ﷺ handed him a wooden stick that in his hand, the sira reports say, became a sword he carried in later battles. When the Prophet ﷺ described seventy thousand who would enter Paradise without reckoning — those who trust wholly in their Lord — 'Ukkasha stood and asked to be of them. \"You are among them,\" the Prophet replied; to the next man he said gently, \"'Ukkasha has preceded you.\" He was killed fighting the forces of the false prophet Tulayhah in the Riddah wars.",
+    "summaryBn": "বনু আসাদের উক্কাশা ইবনে মিহসান (রাঃ) ছিলেন প্রাথমিক মুহাজির, বদরে বীরত্বের সাথে লড়েন — তরবারি ভেঙে গেলে নবী ﷺ তাঁকে একটি কাঠের লাঠি দেন, সিরাতের বর্ণনামতে তা তাঁর হাতে তরবারিতে পরিণত হয়, যা তিনি পরের যুদ্ধগুলোতেও বহন করেন। নবী ﷺ যখন বিনা হিসাবে জান্নাতে প্রবেশকারী সত্তর হাজারের কথা বলেন — যারা পূর্ণ ভরসা রাখে কেবল তাদের প্রভুর ওপর — উক্কাশা দাঁড়িয়ে তাদের অন্তর্ভুক্ত হওয়ার আবেদন করেন। নবী বলেন, \"তুমি তাদেরই একজন\"; পরের ব্যক্তিকে কোমলভাবে বলেন, \"উক্কাশা তোমার আগে চলে গেছে।\" রিদ্দার যুদ্ধে ভণ্ড নবী তুলাইহার বাহিনীর বিরুদ্ধে লড়াইয়ে তিনি শহিদ হন।",
+    "events": [
+      {
+        "en": "Fought at Badr; given a stick by the Prophet ﷺ when his sword broke",
+        "bn": "বদরে লড়েন; তরবারি ভাঙলে নবী ﷺ তাঁকে একটি লাঠি দেন"
+      },
+      {
+        "en": "Asked to be of the seventy thousand who enter Paradise without reckoning",
+        "bn": "বিনা হিসাবে জান্নাতে প্রবেশকারী সত্তর হাজারের অন্তর্ভুক্তি চান"
+      },
+      {
+        "en": "The Prophet ﷺ declared: \"You are among them\"",
+        "bn": "নবী ﷺ ঘোষণা করেন: \"তুমি তাদেরই একজন\""
+      },
+      {
+        "en": "Fell fighting Tulayhah's forces in the Riddah wars",
+        "bn": "রিদ্দার যুদ্ধে তুলাইহার বাহিনীর বিরুদ্ধে লড়াইয়ে শহিদ হন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Race towards the good the moment it is offered — hesitation lets the door close.",
+    "lessonBn": "কল্যাণের সুযোগ এলে সাথে সাথে এগিয়ে যাও — দ্বিধা করলে দরজা বন্ধ হয়ে যায়।"
+  },
+  {
+    "id": "rufaydah_al_aslamiyyah",
+    "order": 117,
+    "init": "RA",
+    "color": "bg-pink-500",
+    "ar": "رُفَيْدَة الأَسْلَمِيَّة",
+    "translit": "Rufaydah al-Aslamiyyah",
+    "en": "Rufaydah al-Aslamiyyah (RA)",
+    "bn": "রুফাইদা আল-আসলামিয়া (রাঃ)",
+    "era": "battles",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": true,
+    "roleEn": "The First Nurse of Islam",
+    "roleBn": "ইসলামের প্রথম সেবিকা (নার্স)",
+    "yearEn": "Madinan period",
+    "highlightEn": "Her tent beside the Prophet's ﷺ mosque was the first field hospital of Islam.",
+    "highlightBn": "নবী ﷺ-এর মসজিদের পাশে তাঁর তাঁবুই ছিল ইসলামের প্রথম ফিল্ড হাসপাতাল।",
+    "summaryEn": "Rufaydah (RA) of the tribe of Aslam learned the care of the sick and wounded and gave herself to it as worship. In Madinah she kept a tent beside the Prophet's ﷺ mosque where she treated the injured and cared for the needy, and she went out with the Muslims on campaigns to nurse the wounded. When Sa'd ibn Mu'adh (RA) was struck in the arm at the Battle of the Trench, the Prophet ﷺ ordered him placed in Rufaydah's tent so that he could visit him from close by. Remembered as the first nurse in Islam, she also trained other women in the skill of caring for the wounded.",
+    "summaryBn": "আসলাম গোত্রের রুফাইদা (রাঃ) অসুস্থ ও আহতদের সেবা শিখেছিলেন এবং তা ইবাদত জ্ঞানে নিজেকে উৎসর্গ করেন। মদিনায় নবী ﷺ-এর মসজিদের পাশে তাঁর একটি তাঁবু ছিল, যেখানে তিনি আহতদের চিকিৎসা ও অসহায়দের সেবা করতেন; মুসলিমদের অভিযানেও আহতদের শুশ্রূষার জন্য বের হতেন। খন্দকের যুদ্ধে সাদ ইবনে মুআজ (রাঃ)-এর বাহুতে তির লাগলে নবী ﷺ নির্দেশ দেন তাঁকে রুফাইদার তাঁবুতে রাখতে, যেন কাছ থেকে দেখে আসতে পারেন। ইসলামের প্রথম সেবিকা হিসেবে স্মরণীয় এই নারী অন্য নারীদেরও আহত-সেবার দক্ষতা শেখাতেন।",
+    "events": [
+      {
+        "en": "Devoted herself to treating the sick and wounded as an act of worship",
+        "bn": "ইবাদত জ্ঞানে অসুস্থ ও আহতদের চিকিৎসায় নিজেকে উৎসর্গ করেন"
+      },
+      {
+        "en": "Kept a treatment tent beside the Prophet's ﷺ mosque",
+        "bn": "নবী ﷺ-এর মসজিদের পাশে চিকিৎসার তাঁবু রাখতেন"
+      },
+      {
+        "en": "Nursed Sa'd ibn Mu'adh (RA) after the Battle of the Trench by the Prophet's ﷺ order",
+        "bn": "নবী ﷺ-এর নির্দেশে খন্দক যুদ্ধের পর সাদ ইবনে মুআজ (রাঃ)-এর সেবা করেন"
+      },
+      {
+        "en": "Trained other women in nursing and went out on campaigns",
+        "bn": "অন্য নারীদের সেবাকর্ম শেখাতেন ও অভিযানে অংশ নিতেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Serving the sick and wounded is a form of worship — skill placed in Allah's service uplifts a whole community.",
+    "lessonBn": "অসুস্থ ও আহতের সেবাও ইবাদত — আল্লাহর পথে নিয়োজিত দক্ষতা গোটা সমাজকে উন্নত করে।"
+  },
+  {
+    "id": "zaynab_bint_khuzaymah",
+    "order": 118,
+    "init": "ZK",
+    "color": "bg-lime-600",
+    "ar": "زَيْنَب بِنْت خُزَيْمَة",
+    "translit": "Zaynab bint Khuzaymah",
+    "en": "Zaynab bint Khuzaymah (RA)",
+    "bn": "যয়নব বিনতে খুযাইমা (রাঃ)",
+    "era": "battles",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": true,
+    "roleEn": "Mother of the Believers, Mother of the Poor",
+    "roleBn": "উম্মুল মুমিনীন, দরিদ্রদের মা",
+    "yearEn": "d. c. 626 CE",
+    "highlightEn": "Called Umm al-Masakin — Mother of the Poor — even before Islam.",
+    "highlightBn": "ইসলামের আগেই তাঁর উপাধি ছিল 'উম্মুল মাসাকিন' — দরিদ্রদের মা।",
+    "summaryEn": "Zaynab bint Khuzaymah (RA) was known as Umm al-Masakin, the Mother of the Poor, a title she had earned even in the days before Islam for her constant feeding of the needy. Widowed when her husband fell as a martyr in the early battles, she married the Prophet ﷺ after Uhud and entered the household of Prophethood. Her time as a Mother of the Believers was brief — she died only months after the marriage, the only wife besides Khadijah (RA) to die in the Prophet's ﷺ lifetime. He prayed over her himself, and she was buried in al-Baqi cemetery in Madinah.",
+    "summaryBn": "যয়নব বিনতে খুযাইমা (রাঃ) পরিচিত ছিলেন 'উম্মুল মাসাকিন' — দরিদ্রদের মা — নামে; অভাবীদের নিয়মিত খাওয়ানোর জন্য ইসলামের আগেই তিনি এ উপাধি অর্জন করেছিলেন। প্রাথমিক যুদ্ধগুলোতে স্বামী শহিদ হলে তিনি বিধবা হন, এরপর উহুদের পর নবী ﷺ-কে বিবাহ করে নবুওয়াতের পরিবারে প্রবেশ করেন। উম্মুল মুমিনীন হিসেবে তাঁর সময় ছিল সংক্ষিপ্ত — বিবাহের মাত্র কয়েক মাস পরই তিনি ইন্তিকাল করেন; খাদিজা (রাঃ) ছাড়া একমাত্র স্ত্রী যিনি নবী ﷺ-এর জীবদ্দশায় ইন্তিকাল করেন। নবী নিজে তাঁর জানাজা পড়ান এবং মদিনার জান্নাতুল বাকিতে তাঁকে দাফন করা হয়।",
+    "events": [
+      {
+        "en": "Earned the title Mother of the Poor for feeding the needy",
+        "bn": "অভাবীদের খাওয়ানোর জন্য 'দরিদ্রদের মা' উপাধি পান"
+      },
+      {
+        "en": "Widowed when her husband was martyred in the early battles",
+        "bn": "প্রাথমিক যুদ্ধে স্বামী শহিদ হলে বিধবা হন"
+      },
+      {
+        "en": "Married the Prophet ﷺ after Uhud",
+        "bn": "উহুদের পর নবী ﷺ-কে বিবাহ করেন"
+      },
+      {
+        "en": "Died months later; buried in al-Baqi",
+        "bn": "কয়েক মাস পর ইন্তিকাল করেন; জান্নাতুল বাকিতে সমাহিত"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "A life is measured by its mercy — even a short life can leave a lasting name for compassion.",
+    "lessonBn": "জীবনের মাপকাঠি তার দয়া — স্বল্পায়ু জীবনও মমতার অমর নাম রেখে যেতে পারে।"
+  },
+  {
+    "id": "juwayriyyah_bint_al_harith",
+    "order": 119,
+    "init": "JH",
+    "color": "bg-purple-600",
+    "ar": "جُوَيْرِيَة بِنْت الحَارِث",
+    "translit": "Juwayriyyah bint al-Harith",
+    "en": "Juwayriyyah bint al-Harith (RA)",
+    "bn": "জুয়াইরিয়া বিনতে আল-হারিস (রাঃ)",
+    "era": "battles",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": true,
+    "roleEn": "The Wife Whose Marriage Freed a Hundred Households",
+    "roleBn": "যাঁর বিবাহে মুক্তি পায় একশো পরিবার",
+    "yearEn": "d. in Madinah",
+    "highlightEn": "A'ishah said no woman brought greater blessing to her people than she.",
+    "highlightBn": "আয়েশা বলেন, নিজ গোত্রের জন্য তাঁর চেয়ে বরকতময় নারী আর কেউ ছিলেন না।",
+    "summaryEn": "Juwayriyyah (RA) was the daughter of al-Harith, chief of Banu al-Mustaliq. Taken captive after the campaign of al-Muraysi', she came to the Prophet ﷺ seeking help with her contract of manumission. He offered better: he paid it and married her. When the Muslims learned that the captives were now the in-laws of the Messenger of Allah ﷺ, they freed around a hundred households of her tribe — A'ishah (RA) said she knew no woman who was a greater blessing to her people. Juwayriyyah became known for long hours of dhikr; the Prophet ﷺ once taught her words of glorification that outweigh a whole morning of remembrance.",
+    "summaryBn": "জুয়াইরিয়া (রাঃ) ছিলেন বনু মুসতালিকের সর্দার আল-হারিসের কন্যা। মুরাইসির অভিযানের পর বন্দি হয়ে তিনি নিজের মুক্তিপণ চুক্তিতে সাহায্যের জন্য নবী ﷺ-এর কাছে আসেন। নবী আরও উত্তম প্রস্তাব দেন: মুক্তিপণ শোধ করে তাঁকে বিবাহ করেন। বন্দিরা এখন আল্লাহর রাসুল ﷺ-এর শ্বশুরকুল — এ কথা জেনে মুসলিমরা তাঁর গোত্রের প্রায় একশো পরিবারকে মুক্ত করে দেন — আয়েশা (রাঃ) বলেন, নিজ গোত্রের জন্য তাঁর চেয়ে বরকতময় কোনো নারীকে তিনি জানেন না। জুয়াইরিয়া দীর্ঘ জিকিরের জন্য পরিচিত ছিলেন; নবী ﷺ একবার তাঁকে এমন তাসবিহের বাক্য শেখান, যা সারা সকালের জিকিরের চেয়েও ভারী।",
+    "events": [
+      {
+        "en": "Daughter of the chief of Banu al-Mustaliq, captured at al-Muraysi'",
+        "bn": "বনু মুসতালিক সর্দারের কন্যা, মুরাইসিতে বন্দি হন"
+      },
+      {
+        "en": "The Prophet ﷺ paid her manumission and married her",
+        "bn": "নবী ﷺ তাঁর মুক্তিপণ শোধ করে তাঁকে বিবাহ করেন"
+      },
+      {
+        "en": "Around a hundred households of her tribe were freed for her sake",
+        "bn": "তাঁর কারণে গোত্রের প্রায় একশো পরিবার মুক্তি পায়"
+      },
+      {
+        "en": "Devoted to long sessions of dhikr; taught weighty words of glorification",
+        "bn": "দীর্ঘ জিকিরে নিমগ্ন থাকতেন; ভারী তাসবিহের বাক্য শেখেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "One person's honour before Allah can become the cause of freedom and blessing for an entire people.",
+    "lessonBn": "আল্লাহর কাছে একজনের মর্যাদা গোটা জাতির মুক্তি ও বরকতের কারণ হতে পারে।"
+  },
+  {
+    "id": "abu_lubabah_ibn_abd_al_mundhir",
+    "order": 120,
+    "init": "AL",
+    "color": "bg-blue-600",
+    "ar": "أَبُو لُبَابَة بْن عَبْد المُنْذِر",
+    "translit": "Abu Lubabah ibn Abd al-Mundhir",
+    "en": "Abu Lubabah ibn Abd al-Mundhir (RA)",
+    "bn": "আবু লুবাবা ইবনে আবদুল মুনযির (রাঃ)",
+    "era": "battles",
+    "ashara": false,
+    "caliph": false,
+    "ansar": true,
+    "woman": false,
+    "roleEn": "The Ansari Who Tied Himself to the Pillar of Repentance",
+    "roleBn": "তওবার স্তম্ভে নিজেকে বেঁধে রাখা আনসারি",
+    "yearEn": "d. in Madinah",
+    "highlightEn": "He bound himself to a mosque pillar until Allah accepted his repentance.",
+    "highlightBn": "আল্লাহ তওবা কবুল না করা পর্যন্ত মসজিদের স্তম্ভে নিজেকে বেঁধে রাখেন।",
+    "summaryEn": "Abu Lubabah (RA) of the Aws was a trusted man of the Ansar whom the Prophet ﷺ set over Madinah during early campaigns. During the siege of Banu Qurayzah, the tribe — his old allies — asked his counsel, and he gestured towards his throat, hinting at their fate. The instant he did so, he felt he had betrayed Allah and His Messenger. Refusing to face the Prophet ﷺ, he tied himself to a pillar of the mosque, vowing to remain until Allah relented towards him. Days later the good news of his acceptance came, and the Prophet ﷺ untied him with his own hands. He gave part of his wealth in charity out of gratitude.",
+    "summaryBn": "আউস গোত্রের আবু লুবাবা (রাঃ) ছিলেন আনসারদের এক বিশ্বস্ত ব্যক্তি, প্রাথমিক অভিযানগুলোতে নবী ﷺ তাঁকে মদিনার দায়িত্ব দিয়েছিলেন। বনু কুরাইজার অবরোধকালে তাঁর পুরোনো মিত্র সেই গোত্র পরামর্শ চাইলে তিনি নিজের গলার দিকে ইশারা করে তাদের পরিণতির ইঙ্গিত দেন। ইশারা করামাত্রই তাঁর অনুভব হলো — তিনি আল্লাহ ও তাঁর রাসুলের আমানত ভঙ্গ করেছেন। নবী ﷺ-এর মুখোমুখি না হয়ে তিনি মসজিদের এক স্তম্ভে নিজেকে বেঁধে ফেলেন — প্রতিজ্ঞা করেন, আল্লাহ ক্ষমা না করা পর্যন্ত এভাবেই থাকবেন। কয়েক দিন পর তওবা কবুলের সুসংবাদ আসে এবং নবী ﷺ নিজ হাতে তাঁর বাঁধন খুলে দেন। কৃতজ্ঞতায় তিনি সম্পদের একাংশ দান করেন।",
+    "events": [
+      {
+        "en": "Trusted Ansari left in authority over Madinah during early campaigns",
+        "bn": "প্রাথমিক অভিযানে মদিনার দায়িত্বপ্রাপ্ত বিশ্বস্ত আনসারি"
+      },
+      {
+        "en": "Gestured to Banu Qurayzah, then instantly felt he had betrayed the trust",
+        "bn": "বনু কুরাইজাকে ইশারা করেই বুঝলেন — আমানত ভঙ্গ হয়ে গেছে"
+      },
+      {
+        "en": "Tied himself to a pillar of the mosque awaiting Allah's pardon",
+        "bn": "আল্লাহর ক্ষমার অপেক্ষায় মসজিদের স্তম্ভে নিজেকে বাঁধেন"
+      },
+      {
+        "en": "Untied by the Prophet ﷺ himself when his repentance was accepted",
+        "bn": "তওবা কবুল হলে নবী ﷺ নিজ হাতে বাঁধন খুলে দেন"
+      },
+      {
+        "en": "Gave part of his wealth in charity in gratitude",
+        "bn": "কৃতজ্ঞতায় সম্পদের একাংশ দান করেন"
+      }
+    ],
+    "refs": [
+      "8:27"
+    ],
+    "lessonEn": "A living conscience turns a moment's slip into a lifetime's lesson in sincere repentance.",
+    "lessonBn": "জাগ্রত বিবেক এক মুহূর্তের পদস্খলনকে আন্তরিক তওবার আজীবন শিক্ষায় পরিণত করে।"
+  },
+  {
+    "id": "hakim_ibn_hizam",
+    "order": 121,
+    "init": "HH",
+    "color": "bg-teal-600",
+    "ar": "حَكِيم بْن حِزَام",
+    "translit": "Hakim ibn Hizam",
+    "en": "Hakim ibn Hizam (RA)",
+    "bn": "হাকিম ইবনে হিযাম (রাঃ)",
+    "era": "conquest",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "The Noble Whose Past Good Deeds Were Accepted",
+    "roleBn": "যাঁর অতীত সৎকর্মও কবুল হয়েছিল সেই সম্ভ্রান্ত",
+    "yearEn": "d. c. 674 CE",
+    "highlightEn": "\"You accepted Islam upon all the good you had done before.\"",
+    "highlightBn": "\"তুমি তোমার অতীতের সব সৎকর্মসহই ইসলাম গ্রহণ করেছ।\"",
+    "summaryEn": "Hakim ibn Hizam (RA), nephew of Khadijah (RA) and a noble of Quraysh, was said to have been born inside the Ka'bah itself. Generous and upright even in the days of ignorance, he embraced Islam at the conquest of Makkah, and lived sixty years before Islam and sixty within it. When he asked the Prophet ﷺ about his past acts of charity and kindness, he was told: \"You accepted Islam upon all the good you had done before.\" After hearing that the upper hand is better than the lower, he resolved never to take from anyone, and refused even his stipend from the treasury for the rest of his life.",
+    "summaryBn": "খাদিজা (রাঃ)-এর ভাতিজা ও কুরাইশের সম্ভ্রান্ত হাকিম ইবনে হিযাম (রাঃ) সম্পর্কে বলা হয়, তিনি স্বয়ং কাবার অভ্যন্তরে জন্মগ্রহণ করেছিলেন। জাহেলি যুগেও দানশীল ও সৎ এই ব্যক্তি মক্কা বিজয়ের সময় ইসলাম গ্রহণ করেন — ষাট বছর ইসলামের আগে, ষাট বছর ইসলামে কাটান। অতীতের দান ও সদাচার সম্পর্কে নবী ﷺ-কে জিজ্ঞেস করলে উত্তর পান: \"তুমি তোমার অতীতের সব সৎকর্মসহই ইসলাম গ্রহণ করেছ।\" 'উপরের হাত নিচের হাতের চেয়ে উত্তম' শুনে তিনি প্রতিজ্ঞা করেন কারও কাছ থেকে কিছু নেবেন না — আজীবন এমনকি রাষ্ট্রীয় ভাতাও প্রত্যাখ্যান করেন।",
+    "events": [
+      {
+        "en": "Nephew of Khadijah (RA); said to be born inside the Ka'bah",
+        "bn": "খাদিজা (রাঃ)-এর ভাতিজা; কথিত আছে কাবার ভেতরে জন্ম"
+      },
+      {
+        "en": "Known for generosity even before Islam",
+        "bn": "ইসলামের আগেও দানশীলতার জন্য খ্যাত"
+      },
+      {
+        "en": "Embraced Islam at the conquest of Makkah",
+        "bn": "মক্কা বিজয়ের সময় ইসলাম গ্রহণ করেন"
+      },
+      {
+        "en": "Told his past good deeds were accepted with his Islam",
+        "bn": "জানতে পারেন — অতীতের সৎকর্মও তাঁর ইসলামের সাথে কবুল"
+      },
+      {
+        "en": "Vowed never to take from anyone after hearing of the upper hand",
+        "bn": "'উপরের হাত' হাদিস শুনে কারও থেকে না নেওয়ার প্রতিজ্ঞা করেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "No good deed is ever wasted — and true dignity lies in giving, not taking.",
+    "lessonBn": "কোনো সৎকর্মই বৃথা যায় না — আর প্রকৃত মর্যাদা নেওয়ায় নয়, দেওয়ায়।"
+  },
+  {
+    "id": "adiyy_ibn_hatim",
+    "order": 122,
+    "init": "AH",
+    "color": "bg-orange-500",
+    "ar": "عَدِيّ بْن حَاتِم",
+    "translit": "Adiyy ibn Hatim",
+    "en": "Adiyy ibn Hatim (RA)",
+    "bn": "আদি ইবনে হাতিম (রাঃ)",
+    "era": "conquest",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "Chief of Tayy Who Lived to See the Prophecies Fulfilled",
+    "roleBn": "ভবিষ্যদ্বাণী পূর্ণ হতে দেখা তাই গোত্রের সর্দার",
+    "yearEn": "d. c. 687 CE",
+    "highlightEn": "He lived to see the lone woman travel safely from al-Hirah — just as foretold.",
+    "highlightBn": "ভবিষ্যদ্বাণী মতোই হিরা থেকে একাকী নারীর নিরাপদ সফর নিজ চোখে দেখেন।",
+    "summaryEn": "Adiyy (RA), son of the proverbially generous Hatim al-Ta'i, was a Christian chief of Tayy who fled towards Syria as Islam advanced. His captured sister, freed graciously by the Prophet ﷺ, urged him to meet the man himself. In Madinah, Adiyy heard the Prophet ﷺ recite that the People of the Book took their scholars and monks as lords (9:31) and objected — until the Prophet explained: they obeyed them in forbidding the lawful and allowing the forbidden. He believed, and heard three prophecies: a woman would travel alone from al-Hirah to the Ka'bah fearing none, the treasures of Chosroes would be opened, and wealth would overflow. He lived to witness the first two.",
+    "summaryBn": "প্রবাদতুল্য দানশীল হাতিম তাঈয়ের পুত্র আদি (রাঃ) ছিলেন তাই গোত্রের খ্রিষ্টান সর্দার, ইসলামের অগ্রযাত্রায় সিরিয়ার দিকে পালিয়ে যান। বন্দি বোনকে নবী ﷺ সদয়ভাবে মুক্তি দিলে তিনিই ভাইকে সেই মানুষটির সাথে দেখা করতে বলেন। মদিনায় আদি শোনেন, নবী ﷺ তিলাওয়াত করছেন — আহলে কিতাব তাদের পণ্ডিত ও সন্ন্যাসীদের প্রভু বানিয়ে নিয়েছে (৯:৩১) — তিনি আপত্তি করেন; নবী ব্যাখ্যা দেন: তারা হালালকে হারাম ও হারামকে হালাল করায় তাদের আনুগত্য করেছে। তিনি ঈমান আনেন এবং তিনটি ভবিষ্যদ্বাণী শোনেন: হিরা থেকে একাকী নারী নির্ভয়ে কাবায় সফর করবে, কিসরার ধনভান্ডার খুলে যাবে, আর সম্পদ উপচে পড়বে। প্রথম দুটি তিনি নিজ চোখে দেখে যান।",
+    "events": [
+      {
+        "en": "His sister, freed by the Prophet ﷺ, urged him to meet him",
+        "bn": "নবী ﷺ-এর মুক্তি দেওয়া বোন তাঁকে সাক্ষাতে উদ্বুদ্ধ করেন"
+      },
+      {
+        "en": "Objected to 9:31 until the Prophet ﷺ explained its meaning",
+        "bn": "৯:৩১ আয়াতে আপত্তি করেন, নবী ﷺ অর্থ বুঝিয়ে দেন"
+      },
+      {
+        "en": "Heard three prophecies of Islam's coming security and wealth",
+        "bn": "ইসলামের আগত নিরাপত্তা ও সম্পদের তিন ভবিষ্যদ্বাণী শোনেন"
+      },
+      {
+        "en": "Kept his tribe loyal and paid zakat during the Riddah",
+        "bn": "রিদ্দার সময় গোত্রকে অনুগত রাখেন ও জাকাত পাঠান"
+      },
+      {
+        "en": "Lived to see the prophecies of safety and Persia's treasures fulfilled",
+        "bn": "নিরাপত্তা ও পারস্যের ধনভান্ডারের ভবিষ্যদ্বাণী পূর্ণ হতে দেখেন"
+      }
+    ],
+    "refs": [
+      "9:31"
+    ],
+    "lessonEn": "Honest objections deserve patient answers — clarity, not force, opened Adiyy's heart.",
+    "lessonBn": "সৎ আপত্তির প্রাপ্য ধৈর্যশীল উত্তর — জোর নয়, স্পষ্টতাই আদির হৃদয় খুলেছিল।"
+  },
+  {
+    "id": "wail_ibn_hujr",
+    "order": 123,
+    "init": "WH",
+    "color": "bg-cyan-600",
+    "ar": "وَائِل بْن حُجْر",
+    "translit": "Wa'il ibn Hujr",
+    "en": "Wa'il ibn Hujr (RA)",
+    "bn": "ওয়াইল ইবনে হুজর (রাঃ)",
+    "era": "conquest",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "The Prince of Hadramawt Honoured with the Prophet's ﷺ Cloak",
+    "roleBn": "নবী ﷺ-এর চাদরে সম্মানিত হাদরামাউতের রাজপুত্র",
+    "yearEn": "d. in Kufa",
+    "highlightEn": "The Prophet ﷺ spread his own cloak for him to sit upon.",
+    "highlightBn": "নবী ﷺ নিজের চাদর বিছিয়ে দেন তাঁর বসার জন্য।",
+    "summaryEn": "Wa'il ibn Hujr (RA) came from the royal house of Hadramawt in Yemen, leaving rank and lands to travel to Madinah as a believer. Reports say the Prophet ﷺ had told his companions days earlier that Wa'il was coming to them; when he arrived, the Prophet spread his own cloak for him to sit on and prayed for blessing upon him and his descendants. He returned with a written covenant for his people. A careful observer, Wa'il narrated precise descriptions of the Prophet's ﷺ prayer — how he raised his hands, placed the right hand over the left, and made his movements — treasured by the scholars of fiqh. He later settled in Kufa.",
+    "summaryBn": "ওয়াইল ইবনে হুজর (রাঃ) ছিলেন ইয়েমেনের হাদরামাউতের রাজপরিবারের সন্তান — পদমর্যাদা ও ভূসম্পত্তি ছেড়ে ঈমানদার হয়ে মদিনায় আসেন। বর্ণনায় আছে, কয়েক দিন আগেই নবী ﷺ সাহাবিদের বলেছিলেন, ওয়াইল তাঁদের কাছে আসছেন; তিনি পৌঁছালে নবী নিজের চাদর বিছিয়ে তাঁকে বসান এবং তাঁর ও তাঁর বংশধরদের জন্য বরকতের দোয়া করেন। নিজ গোত্রের জন্য লিখিত সনদ নিয়ে তিনি ফিরে যান। সূক্ষ্ম পর্যবেক্ষক ওয়াইল নবী ﷺ-এর নামাজের নিখুঁত বিবরণ বর্ণনা করেছেন — কীভাবে হাত তুলতেন, ডান হাত বাঁ হাতের ওপর রাখতেন, কীভাবে নড়াচড়া করতেন — যা ফিকহের আলিমদের কাছে অমূল্য। পরে তিনি কুফায় বসতি করেন।",
+    "events": [
+      {
+        "en": "Left the royal house of Hadramawt to come to Madinah",
+        "bn": "হাদরামাউতের রাজপরিবার ছেড়ে মদিনায় আসেন"
+      },
+      {
+        "en": "His coming was announced by the Prophet ﷺ beforehand, reports say",
+        "bn": "বর্ণনামতে নবী ﷺ আগেই তাঁর আগমনের সংবাদ দেন"
+      },
+      {
+        "en": "Honoured with the Prophet's ﷺ own cloak and du'a for his line",
+        "bn": "নবী ﷺ-এর চাদর ও বংশধরদের জন্য দোয়ায় সম্মানিত হন"
+      },
+      {
+        "en": "Narrated detailed descriptions of the Prophet's ﷺ prayer",
+        "bn": "নবী ﷺ-এর নামাজের বিস্তারিত বিবরণ বর্ণনা করেন"
+      },
+      {
+        "en": "Settled in Kufa in later life",
+        "bn": "শেষ জীবনে কুফায় বসতি স্থাপন করেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Honouring a guest elevates the host — and careful observation preserves knowledge for generations.",
+    "lessonBn": "অতিথিকে সম্মান আপ্যায়নকারীকেই মহিমান্বিত করে — আর সূক্ষ্ম পর্যবেক্ষণ প্রজন্মের জন্য জ্ঞান সংরক্ষণ করে।"
+  },
+  {
+    "id": "uthman_ibn_abi_al_as",
+    "order": 124,
+    "init": "UA",
+    "color": "bg-emerald-500",
+    "ar": "عُثْمَان بْن أَبِي العَاص",
+    "translit": "Uthman ibn Abi al-As",
+    "en": "Uthman ibn Abi al-As (RA)",
+    "bn": "উসমান ইবনে আবিল আস (রাঃ)",
+    "era": "conquest",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "The Young Governor Who Held Ta'if Firm",
+    "roleBn": "তায়েফকে অবিচল রাখা তরুণ শাসক",
+    "yearEn": "d. c. 671 CE",
+    "highlightEn": "Chosen over his elders to lead Ta'if because of his eagerness for the Qur'an.",
+    "highlightBn": "কুরআনের প্রতি আগ্রহের কারণেই বয়োজ্যেষ্ঠদের ডিঙিয়ে তায়েফের নেতৃত্ব পান।",
+    "summaryEn": "Uthman ibn Abi al-As (RA) was the youngest of the Thaqif delegation that came from Ta'if in 9 AH. While his elders negotiated, he quietly sought out the Prophet ﷺ and Abu Bakr to learn the Qur'an — and for that eagerness the Prophet appointed him, despite his youth, over Ta'if, instructing him to lead the prayer lightly, mindful of the weak, the old and those with needs. When he complained that Shaytan disturbed his prayer, the Prophet ﷺ taught him a remedy that he said cured him. In the Riddah he held Thaqif firm — reminding them not to be the last to enter Islam and the first to leave it. He later served as a governor under Umar (RA).",
+    "summaryBn": "উসমান ইবনে আবিল আস (রাঃ) ছিলেন ৯ হিজরিতে তায়েফ থেকে আসা সাকিফ প্রতিনিধিদলের কনিষ্ঠতম সদস্য। বয়োজ্যেষ্ঠরা যখন আলোচনায় ব্যস্ত, তিনি নীরবে নবী ﷺ ও আবু বকরের কাছে গিয়ে কুরআন শিখতেন — এই আগ্রহের কারণেই কম বয়স সত্ত্বেও নবী তাঁকে তায়েফের দায়িত্ব দেন এবং নির্দেশ দেন দুর্বল, বৃদ্ধ ও প্রয়োজনগ্রস্তদের কথা ভেবে সংক্ষেপে নামাজ পড়াতে। নামাজে শয়তানের বিঘ্নের অভিযোগ করলে নবী ﷺ তাঁকে এমন প্রতিকার শেখান, যা তাঁর ভাষায় তাঁকে সুস্থ করে দেয়। রিদ্দার সময় তিনি সাকিফকে অবিচল রাখেন — স্মরণ করিয়ে দেন, ইসলামে সর্বশেষ প্রবেশকারী যেন প্রথম ত্যাগকারী না হয়। পরে উমর (রাঃ)-এর অধীনে শাসক হিসেবে দায়িত্ব পালন করেন।",
+    "events": [
+      {
+        "en": "Youngest of the Thaqif delegation to Madinah",
+        "bn": "মদিনায় আগত সাকিফ প্রতিনিধিদলের কনিষ্ঠতম সদস্য"
+      },
+      {
+        "en": "Appointed over Ta'if for his devotion to learning the Qur'an",
+        "bn": "কুরআন শেখার নিষ্ঠার জন্য তায়েফের দায়িত্ব পান"
+      },
+      {
+        "en": "Told to lead prayer lightly, mindful of the weak",
+        "bn": "দুর্বলদের কথা ভেবে সংক্ষেপে নামাজ পড়ানোর নির্দেশ পান"
+      },
+      {
+        "en": "Taught by the Prophet ﷺ the remedy for waswas in prayer",
+        "bn": "নামাজে ওয়াসওয়াসার প্রতিকার নবী ﷺ-এর কাছে শেখেন"
+      },
+      {
+        "en": "Kept Thaqif from apostasy during the Riddah wars",
+        "bn": "রিদ্দার সময় সাকিফকে ধর্মত্যাগ থেকে রক্ষা করেন"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Leadership belongs to devotion and knowledge, not to age or rank.",
+    "lessonBn": "নেতৃত্বের হকদার নিষ্ঠা ও জ্ঞান — বয়স বা পদমর্যাদা নয়।"
+  },
+  {
+    "id": "muawiyah_ibn_abi_sufyan",
+    "order": 125,
+    "init": "MA",
+    "color": "bg-slate-600",
+    "ar": "مُعَاوِيَة بْن أَبِي سُفْيَان",
+    "translit": "Mu'awiyah ibn Abi Sufyan",
+    "en": "Mu'awiyah ibn Abi Sufyan (RA)",
+    "bn": "মুআবিয়া ইবনে আবু সুফিয়ান (রাঃ)",
+    "era": "conquest",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "Scribe of Revelation, Governor of Sham",
+    "roleBn": "ওহি লেখক, শামের শাসক",
+    "yearEn": "c. 602-680 CE",
+    "highlightEn": "He wrote down revelation for the Prophet ﷺ and later governed the Muslim world.",
+    "highlightBn": "নবী ﷺ-এর জন্য ওহি লিখতেন, পরবর্তীতে মুসলিম বিশ্বের শাসনভার নেন।",
+    "summaryEn": "Mu'awiyah (RA), son of Abu Sufyan and brother of Umm Habibah (RA), embraced Islam by the time of the conquest of Makkah and served the Prophet ﷺ as one of the scribes who wrote down revelation. He narrated from the Prophet the well-known hadith that whomever Allah wishes good for, He grants understanding of the religion. Appointed over Sham under Umar and Uthman (RA), he governed it for about twenty years, noted for administration and forbearance (hilm), and oversaw the first Muslim naval expeditions. After the era of civil strife, al-Hasan's (RA) treaty with him in 41 AH united the community — the Year of the Congregation — and he ruled the Muslims for about twenty years from Damascus.",
+    "summaryBn": "আবু সুফিয়ানের পুত্র ও উম্মে হাবিবা (রাঃ)-এর ভাই মুআবিয়া (রাঃ) মক্কা বিজয়ের সময়কালে ইসলাম গ্রহণ করেন এবং নবী ﷺ-এর ওহি লেখকদের একজন হিসেবে দায়িত্ব পালন করেন। তিনি নবী থেকে প্রসিদ্ধ হাদিসটি বর্ণনা করেন — আল্লাহ যার কল্যাণ চান, তাকে দ্বীনের গভীর জ্ঞান দান করেন। উমর ও উসমান (রাঃ)-এর অধীনে শামের শাসক নিযুক্ত হয়ে প্রায় বিশ বছর তা পরিচালনা করেন — প্রশাসনদক্ষতা ও সহনশীলতার (হিলম) জন্য খ্যাত — এবং মুসলিমদের প্রথম নৌ-অভিযানগুলোর তত্ত্বাবধান করেন। গৃহবিবাদের যুগের পর ৪১ হিজরিতে আল-হাসান (রাঃ)-এর সন্ধিচুক্তি উম্মাহকে ঐক্যবদ্ধ করে — 'জামাআতের বছর' — আর তিনি দামেস্ক থেকে প্রায় বিশ বছর মুসলিমদের শাসন করেন।",
+    "events": [
+      {
+        "en": "Embraced Islam by the conquest of Makkah",
+        "bn": "মক্কা বিজয়ের সময়কালে ইসলাম গ্রহণ করেন"
+      },
+      {
+        "en": "Served as a scribe of revelation for the Prophet ﷺ",
+        "bn": "নবী ﷺ-এর ওহি লেখক হিসেবে দায়িত্ব পালন করেন"
+      },
+      {
+        "en": "Governed Sham for about twenty years under Umar and Uthman (RA)",
+        "bn": "উমর ও উসমান (রাঃ)-এর অধীনে প্রায় বিশ বছর শাম শাসন করেন"
+      },
+      {
+        "en": "Oversaw the first Muslim naval expeditions",
+        "bn": "মুসলিমদের প্রথম নৌ-অভিযানের তত্ত্বাবধান করেন"
+      },
+      {
+        "en": "United with the community through al-Hasan's treaty in the Year of the Congregation",
+        "bn": "'জামাআতের বছরে' আল-হাসানের সন্ধির মাধ্যমে উম্মাহ ঐক্যবদ্ধ হয়"
+      }
+    ],
+    "refs": [],
+    "lessonEn": "Administration, patience, and forbearance are also gifts that can serve the ummah.",
+    "lessonBn": "প্রশাসনদক্ষতা, ধৈর্য ও সহনশীলতাও এমন নেয়ামত, যা উম্মাহর সেবায় লাগতে পারে।"
+  },
+  {
+    "id": "al_hasan_ibn_ali",
+    "order": 126,
+    "init": "HA",
+    "color": "bg-amber-500",
+    "ar": "الحَسَن بْن عَلِيّ",
+    "translit": "Al-Hasan ibn Ali",
+    "en": "Al-Hasan ibn Ali (RA)",
+    "bn": "আল-হাসান ইবনে আলী (রাঃ)",
+    "era": "knowledge",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "Grandson of the Prophet ﷺ Who United Two Great Parties",
+    "roleBn": "দুই বিশাল দলকে ঐক্যবদ্ধকারী নবী ﷺ-এর দৌহিত্র",
+    "yearEn": "c. 625-670 CE",
+    "highlightEn": "\"This son of mine is a sayyid; through him Allah will reconcile two great parties.\"",
+    "highlightBn": "\"আমার এই সন্তান এক নেতা; তার মাধ্যমে আল্লাহ দুই বিশাল দলের মীমাংসা করবেন।\"",
+    "summaryEn": "Al-Hasan (RA), the elder son of Ali and Fatimah (RA), was beloved to his grandfather the Prophet ﷺ, who carried him on his shoulder and prayed, \"O Allah, I love him, so love him.\" He was among the People of the Cloak, and closely resembled the Prophet in appearance. From the pulpit the Prophet ﷺ declared: \"This son of mine is a sayyid, and perhaps Allah will reconcile through him two great parties of the Muslims\" (al-Bukhari). The prophecy was fulfilled in 41 AH when, to spare Muslim blood, al-Hasan relinquished the caliphate to Mu'awiyah, uniting the community in the Year of the Congregation. He died in Madinah and was buried in al-Baqi.",
+    "summaryBn": "আলী ও ফাতিমা (রাঃ)-এর জ্যেষ্ঠ পুত্র আল-হাসান (রাঃ) ছিলেন নানা নবী ﷺ-এর পরম প্রিয় — নবী তাঁকে কাঁধে তুলে নিতেন আর দোয়া করতেন, \"হে আল্লাহ, আমি তাকে ভালোবাসি, তুমিও তাকে ভালোবাসো।\" তিনি ছিলেন চাদরে আবৃতদের (আহলুল কিসা) একজন এবং চেহারায় নবীর সাথে গভীর সাদৃশ্য ছিল। মিম্বার থেকে নবী ﷺ ঘোষণা করেন: \"আমার এই সন্তান এক নেতা (সাইয়িদ); সম্ভবত আল্লাহ তার মাধ্যমে মুসলিমদের দুই বিশাল দলের মীমাংসা করবেন\" (বুখারি)। ৪১ হিজরিতে সে ভবিষ্যদ্বাণী পূর্ণ হয় — মুসলিমদের রক্তপাত এড়াতে আল-হাসান খেলাফত মুআবিয়ার হাতে ছেড়ে দেন, 'জামাআতের বছরে' উম্মাহ ঐক্যবদ্ধ হয়। মদিনায় ইন্তিকাল করেন, জান্নাতুল বাকিতে সমাহিত হন।",
+    "events": [
+      {
+        "en": "Beloved grandson whom the Prophet ﷺ carried and prayed for",
+        "bn": "প্রিয় দৌহিত্র — নবী ﷺ কাঁধে নিতেন ও দোয়া করতেন"
+      },
+      {
+        "en": "Among the People of the Cloak (ahl al-kisa)",
+        "bn": "চাদরে আবৃতদের (আহলুল কিসা) অন্তর্ভুক্ত"
+      },
+      {
+        "en": "The Prophet ﷺ foretold he would reconcile two great parties",
+        "bn": "নবী ﷺ ভবিষ্যদ্বাণী করেন — তিনি দুই বিশাল দলের মীমাংসা করবেন"
+      },
+      {
+        "en": "Relinquished the caliphate in 41 AH to spare Muslim blood",
+        "bn": "মুসলিমদের রক্ত বাঁচাতে ৪১ হিজরিতে খেলাফত ছেড়ে দেন"
+      },
+      {
+        "en": "Died in Madinah; buried in al-Baqi",
+        "bn": "মদিনায় ইন্তিকাল; জান্নাতুল বাকিতে সমাহিত"
+      }
+    ],
+    "refs": [
+      "33:33"
+    ],
+    "lessonEn": "Giving up power for the sake of unity can be a greater victory than holding it.",
+    "lessonBn": "ঐক্যের জন্য ক্ষমতা ছেড়ে দেওয়া কখনো কখনো ক্ষমতা ধরে রাখার চেয়েও বড় বিজয়।"
+  },
+  {
+    "id": "al_husayn_ibn_ali",
+    "order": 127,
+    "init": "HU",
+    "color": "bg-red-600",
+    "ar": "الحُسَيْن بْن عَلِيّ",
+    "translit": "Al-Husayn ibn Ali",
+    "en": "Al-Husayn ibn Ali (RA)",
+    "bn": "আল-হুসাইন ইবনে আলী (রাঃ)",
+    "era": "knowledge",
+    "ashara": false,
+    "caliph": false,
+    "ansar": false,
+    "woman": false,
+    "roleEn": "Grandson of the Prophet ﷺ, Master of the Youth of Paradise",
+    "roleBn": "নবী ﷺ-এর দৌহিত্র, জান্নাতের যুবকদের সর্দার",
+    "yearEn": "c. 626-680 CE",
+    "highlightEn": "\"Husayn is from me, and I am from Husayn.\"",
+    "highlightBn": "\"হুসাইন আমার থেকে, আর আমি হুসাইনের থেকে।\"",
+    "summaryEn": "Al-Husayn (RA), the younger son of Ali and Fatimah (RA), was cherished by the Prophet ﷺ, who said, \"Husayn is from me and I am from Husayn,\" and named him and his brother the masters of the youth of Paradise. He was among the People of the Cloak and grew into a man of deep worship, generosity, and dignity. Refusing to give allegiance to Yazid, he set out towards Kufa at the invitation of its people. At Karbala, on the day of Ashura in 61 AH, he was martyred along with members of his family — a tragedy that has marked Muslim memory ever since. Through his line continue the descendants of the Prophet ﷺ.",
+    "summaryBn": "আলী ও ফাতিমা (রাঃ)-এর কনিষ্ঠ পুত্র আল-হুসাইন (রাঃ) ছিলেন নবী ﷺ-এর পরম আদরের — নবী বলেছেন, \"হুসাইন আমার থেকে, আর আমি হুসাইনের থেকে,\" এবং তাঁকে ও তাঁর ভাইকে জান্নাতের যুবকদের সর্দার বলে অভিহিত করেছেন। তিনি ছিলেন চাদরে আবৃতদের একজন এবং বেড়ে ওঠেন গভীর ইবাদত, দানশীলতা ও মর্যাদাবোধের অধিকারী মানুষ হিসেবে। ইয়াজিদের হাতে বাইআত দিতে অস্বীকার করে কুফাবাসীর আমন্ত্রণে সেদিকে রওনা হন। ৬১ হিজরির আশুরার দিনে কারবালায় পরিবারের সদস্যদের সাথে তিনি শহিদ হন — এই শোকগাথা আজও মুসলিম স্মৃতিতে গভীর দাগ রেখে চলেছে। তাঁর বংশধারাতেই নবী ﷺ-এর বংশ অব্যাহত রয়েছে।",
+    "events": [
+      {
+        "en": "Cherished grandson: \"Husayn is from me and I am from Husayn\"",
+        "bn": "আদরের দৌহিত্র: \"হুসাইন আমার থেকে, আমি হুসাইনের থেকে\""
+      },
+      {
+        "en": "Named with al-Hasan the masters of the youth of Paradise",
+        "bn": "আল-হাসানসহ জান্নাতের যুবকদের সর্দার আখ্যা পান"
+      },
+      {
+        "en": "Among the People of the Cloak (ahl al-kisa)",
+        "bn": "চাদরে আবৃতদের (আহলুল কিসা) অন্তর্ভুক্ত"
+      },
+      {
+        "en": "Refused allegiance to Yazid and set out towards Kufa",
+        "bn": "ইয়াজিদকে বাইআত অস্বীকার করে কুফার পথে রওনা হন"
+      },
+      {
+        "en": "Martyred with his family at Karbala on Ashura, 61 AH",
+        "bn": "৬১ হিজরির আশুরায় কারবালায় পরিবারসহ শহিদ হন"
+      }
+    ],
+    "refs": [
+      "33:33"
+    ],
+    "lessonEn": "Standing on principle can cost everything — and still echo as a lesson for all generations.",
+    "lessonBn": "নীতির ওপর অটল থাকার মূল্য হতে পারে সর্বস্ব — তবু তা যুগ যুগ ধরে শিক্ষার প্রতিধ্বনি হয়ে থাকে।"
+  },
 ];
 
 const SAHABA_UI = {
