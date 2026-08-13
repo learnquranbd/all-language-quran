@@ -91,7 +91,10 @@
   /** Wrap every valid reference inside one text node. */
   function linkTextNode(node) {
     const text = node.nodeValue;
-    if (!text || text.length > 4000) return 0;
+    /* Cap raised from 4000 after a live sweep found 4 references stranded in
+     * longer prose paragraphs (sawm/zakat rulings). 20k still guards against
+     * pathological nodes while covering every real paragraph in the app. */
+    if (!text || text.length > 20000) return 0;
     REF_RE.lastIndex = 0;
     if (!REF_RE.test(text)) return 0;
     REF_RE.lastIndex = 0;

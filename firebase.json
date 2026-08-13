@@ -10,37 +10,68 @@
       "tailwind.config.js",
       "package.json",
       "package-lock.json",
-      "tests/**"
+      "tests/**",
+      "tools/**"
     ],
     "cleanUrls": true,
     "headers": [
       {
         "//": "Scripts and styles are requested with a ?v=NNN that changes on every release, so the URL itself is the cache key and the bytes behind it never change. Caching them immutably turns a repeat visit from 84 revalidation round-trips into zero requests.",
         "source": "**/*.@(js|css|woff|woff2|png|svg|jpg|jpeg|webp)",
-        "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "public, max-age=31536000, immutable"
+          }
+        ]
       },
       {
         "//": "sw.js is fetched WITHOUT a version query and is how the app learns a new release exists. It must always be revalidated, so this rule deliberately follows the blanket js rule above to override it.",
         "source": "/sw.js",
-        "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-cache"
+          }
+        ]
       },
       {
         "//": "The entry document carries the ?v=NNN references, so it is how a client discovers a new release. cleanUrls redirects /index.html to /, so the bare root must be matched too — matching only /index.html leaves the document on Firebase's default max-age=3600 and delays every deploy by up to an hour.",
         "source": "/",
-        "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-cache"
+          }
+        ]
       },
       {
         "source": "**/*.html",
-        "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-cache"
+          }
+        ]
       },
       {
         "//": "manifest and offline data are fetched unversioned; revalidate so a content update is picked up.",
         "source": "/manifest.webmanifest",
-        "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-cache"
+          }
+        ]
       },
       {
         "source": "/data/**",
-        "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-cache"
+          }
+        ]
       }
     ]
   }
