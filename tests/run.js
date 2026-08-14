@@ -23,6 +23,7 @@ const CHECKS = [
   'check-articles.js',
   'check-surah-names.js',
   'check-autolink.js',
+  'check-encoding.js',
   'check-modules.js',
 ];
 

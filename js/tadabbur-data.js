@@ -252,12 +252,12 @@ const TADABBUR_NOTES = {
     "pointsEn": [
       "Does my heart actually stir when Allah is mentioned, or has the mention become routine?",
       "Does hearing the Qur'an increase my faith, or do I hear it without effect?",
-      "Which of the four marks—awe, growing faith, prayer, giving—is weakest in me?"
+      "Which of the five marks—awe, growing faith, reliance, prayer, giving—is weakest in me?"
     ],
     "pointsBn": [
       "আল্লাহর স্মরণে কি আমার হৃদয় সত্যিই কেঁপে ওঠে, নাকি স্মরণটি অভ্যাসে পরিণত হয়েছে?",
       "কুরআন শুনে কি আমার ঈমান বৃদ্ধি পায়, নাকি আমি তা কোনো প্রভাব ছাড়াই শুনি?",
-      "চারটি চিহ্ন—ভীতি, ক্রমবর্ধমান ঈমান, নামায, দান—এর মধ্যে কোনটি আমার মধ্যে সবচেয়ে দুর্বল?"
+      "পাঁচটি চিহ্ন—ভীতি, ক্রমবর্ধমান ঈমান, ভরসা, নামায, দান—এর মধ্যে কোনটি আমার মধ্যে সবচেয়ে দুর্বল?"
     ],
     "lessonEn": "Measure your faith by these signs, and work this week on the one you find weakest.",
     "lessonBn": "এই চিহ্নগুলো দিয়ে আপনার ঈমান মাপুন, আর এই সপ্তাহে যেটি সবচেয়ে দুর্বল দেখছেন তার ওপর কাজ করুন।"
@@ -643,8 +643,8 @@ const TADABBUR_NOTES = {
     "lessonBn": "আপনার বিবাহকে একটি ঐশী নিদর্শন হিসেবে দেখুন—আল্লাহর প্রতি কৃতজ্ঞতার কাজ হিসেবে প্রশান্তি, ভালোবাসা ও দয়া লালন করুন।"
   },
   "31:17-19": {
-    "reflectionEn": "Luqman's advice to his son weaves worship and character together: establish prayer, call to good, forbid wrong, and stay patient through hardship. He then warns against arrogance — do not turn your cheek away from people in contempt or strut through the earth, and be moderate in pace and voice. It is a complete picture of a believer who is firm in faith yet gentle and humble with people.",
-    "reflectionBn": "লুকমানের তাঁর সন্তানকে উপদেশ ইবাদত ও চরিত্রকে একসাথে বুনে দেয়: নামাজ কায়েম করো, ভালোর দিকে ডাকো, মন্দ থেকে নিষেধ করো, আর কষ্টে ধৈর্য ধরো। এরপর তিনি অহংকারের বিরুদ্ধে সতর্ক করেন — অবজ্ঞায় মানুষ থেকে গাল ফিরিয়ে নিও না বা দম্ভভরে মাটিতে চলো না, আর চলার গতি ও কণ্ঠস্বরে মধ্যপন্থী হও। এটি একজন মুমিনের পূর্ণ চিত্র যে ঈমানে দৃঢ় অথচ মানুষের সাথে কোমল ও বিনয়ী।",
+    "reflectionEn": "Luqman's advice to his son weaves worship and character together: establish prayer, call to good, forbid wrong, and stay patient through hardship. He then warns against arrogance — do not turn your cheek toward people in contempt or strut through the earth, and be moderate in pace and voice. It is a complete picture of a believer who is firm in faith yet gentle and humble with people.",
+    "reflectionBn": "লুকমানের তাঁর সন্তানকে উপদেশ ইবাদত ও চরিত্রকে একসাথে বুনে দেয়: নামাজ কায়েম করো, ভালোর দিকে ডাকো, মন্দ থেকে নিষেধ করো, আর কষ্টে ধৈর্য ধরো। এরপর তিনি অহংকারের বিরুদ্ধে সতর্ক করেন — অবজ্ঞায় মানুষের দিকে গাল ফিরিয়ে দিও না বা দম্ভভরে মাটিতে চলো না, আর চলার গতি ও কণ্ঠস্বরে মধ্যপন্থী হও। এটি একজন মুমিনের পূর্ণ চিত্র যে ঈমানে দৃঢ় অথচ মানুষের সাথে কোমল ও বিনয়ী।",
     "pointsEn": [
       "Luqman lists patience as needing 'resolve' — where in life do I need firmer resolve to endure?",
       "What does turning my cheek away in contempt look like in my own attitudes toward others?",
