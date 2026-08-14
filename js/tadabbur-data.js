@@ -73,7 +73,7 @@ const TADABBUR_NOTES = {
     "lessonBn": "জীবন যখন এমন মোড় নেয় যা তোমার অপছন্দ, থামো এবং আস্থা রাখো যে আল্লাহ হয়তো তোমাকে এমন কল্যাণের দিকে চালিত করছেন যা তুমি এখনো দেখতে পাচ্ছ না।"
   },
   "2:255": {
-    "reflectionEn": "This verse unveils the majesty of Allah: the Ever-Living and Self-Sustaining, whom neither drowsiness nor sleep can touch, and to whom belongs everything in the heavens and the earth. His knowledge encompasses all things, His Throne extends over creation, and its preservation never wearies Him. To sit with these words is to feel our own smallness before a Lord who is truly the Most High and Most Great.",
+    "reflectionEn": "This verse unveils the majesty of Allah: the Ever-Living and Self-Sustaining, whom neither drowsiness nor sleep can touch, and to whom belongs everything in the heavens and the earth. His knowledge encompasses all things, His Kursi extends over the heavens and the earth, and its preservation never wearies Him. To sit with these words is to feel our own smallness before a Lord who is truly the Most High and Most Great.",
     "reflectionBn": "এই আয়াত আল্লাহর মহিমা উন্মোচন করে: তিনি চিরঞ্জীব ও স্বয়ংসম্পূর্ণ, যাঁকে তন্দ্রা বা নিদ্রা স্পর্শ করতে পারে না, এবং আসমান ও যমীনে যা কিছু আছে সবই তাঁর। তাঁর জ্ঞান সবকিছুকে ঘিরে রাখে, তাঁর কুরসী সৃষ্টিজগৎকে ব্যাপ্ত করে, আর তা রক্ষা করা তাঁকে কখনো ক্লান্ত করে না। এই বাক্যগুলোর সঙ্গে বসে থাকা মানে সেই প্রভুর সামনে নিজের ক্ষুদ্রতা অনুভব করা, যিনি প্রকৃতই সর্বোচ্চ ও মহান।",
     "pointsEn": [
       "What does it mean for my anxieties that the One sustaining all things never tires or sleeps?",
