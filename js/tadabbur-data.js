@@ -2703,8 +2703,8 @@ const TADABBUR_NOTES = {
     "lessonBn": "সৎ, সত্য কথা বলো যা শিকড়যুক্ত থাকে ও অন্যদের জন্য অবিরাম উপকার বয়ে আনে।"
   },
   "2:261": {
-    "reflectionEn": "Spending in Allah's way is likened to a single seed that grows seven ears, each bearing a hundred grains — a sevenfold-and-beyond return, multiplied further for whom He wills. What feels like a loss when we give is, in Allah's economy, a rich and growing harvest. His generosity is all-encompassing and never runs short.",
-    "reflectionBn": "আল্লাহর পথে ব্যয়কে একটি বীজের সাথে তুলনা করা হয়েছে যা সাতটি শীষ উৎপন্ন করে, প্রতিটিতে একশত দানা — সাত গুণ ও তার বেশি প্রতিদান, যাকে তিনি চান তার জন্য আরও বহুগুণিত। আমরা যখন দান করি তখন যা ক্ষতি মনে হয়, আল্লাহর হিসাবে তা এক সমৃদ্ধ ও ক্রমবর্ধমান ফসল। তাঁর উদারতা সর্বব্যাপী এবং কখনো ফুরায় না।",
+    "reflectionEn": "Spending in Allah's way is likened to a single seed that grows seven ears, each bearing a hundred grains — a seven-hundredfold return, multiplied further for whom He wills. What feels like a loss when we give is, in Allah's economy, a rich and growing harvest. His generosity is all-encompassing and never runs short.",
+    "reflectionBn": "আল্লাহর পথে ব্যয়কে একটি বীজের সাথে তুলনা করা হয়েছে যা সাতটি শীষ উৎপন্ন করে, প্রতিটিতে একশত দানা — সাতশত গুণ প্রতিদান, যাকে তিনি চান তার জন্য আরও বহুগুণিত। আমরা যখন দান করি তখন যা ক্ষতি মনে হয়, আল্লাহর হিসাবে তা এক সমৃদ্ধ ও ক্রমবর্ধমান ফসল। তাঁর উদারতা সর্বব্যাপী এবং কখনো ফুরায় না।",
     "pointsEn": [
       "Do I see charity as a loss, or as a seed that Allah multiplies?",
       "What holds me back from giving more freely in Allah's way?",
