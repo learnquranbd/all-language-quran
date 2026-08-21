@@ -50,7 +50,13 @@ for (const set of SETS) {
         const where = `${set.label}/${id}[${si}][${pi}]`;
         if (!p || !String(p.en || '').trim()) { problems.push(`${where}: empty en`); return; }
         if (!String(p.bn || '').trim()) { problems.push(`${where}: empty bn — Bengali readers see a blank paragraph`); return; }
-        w += String(p.en).split(/\s+/).filter(Boolean).length;
+        const pw = String(p.en).split(/\s+/).filter(Boolean).length;
+        w += pw;
+        /* Every drafting brief tells authors 55-110 words per paragraph is
+         * machine-enforced. It was not, until a fix agent noticed and said so.
+         * Across 2,743 paragraphs exactly one sat outside the band, so the rule
+         * had held on trust — but a rule nobody checks is a rule that decays. */
+        if (pw < 55 || pw > 110) problems.push(`${where}: ${pw} English words, outside 55-110`);
         if (/<[a-zA-Z/]/.test(p.en) || /<[a-zA-Z/]/.test(p.bn)) problems.push(`${where}: contains HTML`);
         for (const lang of ['en', 'bn']) {
           REF.lastIndex = 0;

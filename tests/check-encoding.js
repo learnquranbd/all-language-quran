@@ -75,6 +75,37 @@ for (const rel of CONTENT) {
       + ` — first at line${hits.length > 1 ? 's' : ''} ${hits.join(', ')}`
     );
   }
+
+  /* Malformed Bengali: a dependent vowel sign (matra) can only attach to a
+   * consonant. Following an INDEPENDENT vowel it is invalid and renders as a
+   * broken cluster — "কোথাওেও" shipped that way, one character wide, and every
+   * other check passed over it. */
+  const BAD_MATRA = /[অ-ঔ][া-ৌৗ]/g;
+  for (let i = 0; i < lines.length; i++) {
+    BAD_MATRA.lastIndex = 0;
+    const m = BAD_MATRA.exec(lines[i]);
+    if (m) problems.push(`${rel}:${i + 1}: invalid Bengali — vowel sign after independent vowel (${JSON.stringify(m[0])})`);
+  }
+
+  /* Bengali script inside an `en:` field. An English reader lands on a
+   * sentence they cannot read — in one live case, a whole clause about
+   * Bengali orthography pasted into the English paragraph. The reverse
+   * (Latin inside `bn:`) is legitimate: transliterations and verse refs. */
+  const BENGALI = /[ঀ-৿]/;
+  /* Capture just the en value. Headings put en and bn on one line, so a naive
+   * slice from "en:" to end of line swallows the Bengali sibling and reports
+   * every heading in the file. */
+  const EN_VALUE = /\ben:\s*"((?:[^"\\]|\\.)*)"/g;
+  for (let i = 0; i < lines.length; i++) {
+    EN_VALUE.lastIndex = 0;
+    let m;
+    while ((m = EN_VALUE.exec(lines[i])) !== null) {
+      if (BENGALI.test(m[1])) {
+        problems.push(`${rel}:${i + 1}: Bengali script inside an en: field`);
+        break;
+      }
+    }
+  }
 }
 
 module.exports = {

@@ -1965,8 +1965,8 @@ const TADABBUR_NOTES = {
     "lessonBn": "তাকওয়া, দান ও ঈমানের মাধ্যমে আল্লাহর অসীম রহমতের কাছে যান—এবং উভয় জগতে কল্যাণের জন্য তাঁর কাছে চান।"
   },
   "15:56": {
-    "reflectionEn": "Ibrahim responds to a hard test with a piercing rhetorical question: who could ever despair of the mercy of his Lord except those who have gone astray? Hope in God's mercy is presented as inseparable from being rightly guided. To give up on His mercy is to drift away from the very path of faith.",
-    "reflectionBn": "ইব্রাহিম একটি কঠিন পরীক্ষার জবাব দেন এক তীক্ষ্ণ অলঙ্কারিক প্রশ্ন দিয়ে: পথভ্রষ্টরা ছাড়া কে কখনো তার প্রভুর রহমত থেকে নিরাশ হতে পারে? আল্লাহর রহমতে আশা সঠিক পথপ্রাপ্ত হওয়ার সাথে অবিচ্ছেদ্য হিসেবে উপস্থাপিত হয়। তাঁর রহমতের আশা ছেড়ে দেওয়া মানে ঈমানের পথ থেকেই সরে যাওয়া।",
+    "reflectionEn": "Ibrahim responds to news too good to expect with a piercing rhetorical question: who could ever despair of the mercy of his Lord except those who have gone astray? Hope in God's mercy is presented as inseparable from being rightly guided. To give up on His mercy is to drift away from the very path of faith.",
+    "reflectionBn": "ইব্রাহিম এমন এক সুসংবাদের জবাব দেন যা প্রত্যাশারও বাইরে, এক তীক্ষ্ণ অলঙ্কারিক প্রশ্ন দিয়ে: পথভ্রষ্টরা ছাড়া কে কখনো তার প্রভুর রহমত থেকে নিরাশ হতে পারে? আল্লাহর রহমতে আশা সঠিক পথপ্রাপ্ত হওয়ার সাথে অবিচ্ছেদ্য হিসেবে উপস্থাপিত হয়। তাঁর রহমতের আশা ছেড়ে দেওয়া মানে ঈমানের পথ থেকেই সরে যাওয়া।",
     "pointsEn": [
       "Do I ever let despair whisper that my situation is beyond God's mercy?",
       "Why does the verse link losing hope in mercy with going astray?",
