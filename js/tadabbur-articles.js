@@ -20073,6 +20073,1795 @@ const TADABBUR_ARTICLES = {
       },
     ],
   },
+  '91:9': {
+    sections: [
+      {
+        h: { en: "Seven Verses of Oaths", bn: "সাত আয়াতজুড়ে শপথ" },
+        p: [
+          {
+            en: "Surah ash-Shams opens with a long run of oaths. Seven consecutive verses, 91:1-7, each begin with one: by the sun and its morning brightness, by the moon when it follows, by the day when it displays it, by the night when it covers it, by the sky and the One who built it, by the earth and the One who spread it, and last by the soul and the One who proportioned it. The sweep travels from the largest bodies overhead down to the thing inside the listener.",
+            bn: "সূরা আশ-শামস শুরু হয় দীর্ঘ এক শপথমালা দিয়ে। পরপর সাতটি আয়াত, 91:1-7, প্রতিটিই শুরু হয় একটি শপথ দিয়ে: সূর্য ও তার সকালের কিরণের শপথ, চাঁদের শপথ যখন সে অনুসরণ করে, দিনের শপথ যখন সে তা উদ্ভাসিত করে, রাতের শপথ যখন সে তা ঢেকে দেয়, আসমান ও যিনি তা বানিয়েছেন তাঁর শপথ, যমীন ও যিনি তা বিছিয়েছেন তাঁর শপথ, আর সবশেষে প্রাণ ও যিনি তাকে সুবিন্যস্ত করেছেন তাঁর শপথ। দৃষ্টি নেমে আসে মাথার ওপরের বিশালতম বস্তুগুলো থেকে শ্রোতার ভেতরের সত্তাটির দিকে।",
+          },
+          {
+            en: "The final oath is what the surah is actually about. Sawwaha, proportioned it, means — as Ibn Kathir explains — that Allah created the soul sound and balanced upon the fitrah, the original nature that 30:30 names as the disposition on which mankind was made. Then 91:8 stays with that same soul instead of moving on: fa-alhamaha fujuraha wa taqwaha, and He inspired it with its wickedness and its guarding. The equipment is issued in full before any verdict is announced.",
+            bn: "শেষ শপথটিই সূরার আসল বিষয়। 'সাওওয়াহা' অর্থাৎ তাকে সুবিন্যস্ত করেছেন — ইবনে কাসীর ব্যাখ্যা করেন — মানে আল্লাহ প্রাণটিকে সুস্থ ও ভারসাম্যপূর্ণ করে ফিতরাতের ওপর সৃষ্টি করেছেন; সেই আদি স্বভাব, যাকে 30:30 আয়াত মানুষের সৃষ্টিগত প্রকৃতি বলে নাম দেয়। এরপর 91:8 অন্য প্রসঙ্গে না গিয়ে সেই প্রাণের কথাই ধরে রাখে: 'ফা-আলহামাহা ফুজূরাহা ওয়া তাক্বওয়াহা' — অতঃপর তিনি তাকে তার অসৎকর্ম ও আত্মরক্ষার বোধ দিয়ে দিলেন। রায় ঘোষণার আগেই সরঞ্জাম পুরোপুরি হাতে তুলে দেওয়া হয়েছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Answer to the Oath", bn: "শপথের জবাব" },
+        p: [
+          {
+            en: "91:9 is where all of it lands. Qad aflaha man zakkaha — four words, and Arabic's qad before a past-tense verb reports the outcome as already settled rather than merely promised. Aflaha is falah, the Quran's word for genuine success, the same root the call to prayer repeats. Zakka carries cleaning and growing together: to strip away what spoils a thing so that it can increase. The soul is being handled exactly like a field, cleared of weeds precisely in order to yield.",
+            bn: "91:9 আয়াতেই সবকিছু এসে নামে। 'ক্বাদ আফলাহা মান যাক্কাহা' — চারটি শব্দ; আর অতীতকালের ক্রিয়ার আগে আরবি 'ক্বাদ' ফলাফলটিকে কেবল প্রতিশ্রুতি নয়, বরং ইতিমধ্যেই নিষ্পন্ন বিষয় হিসেবে জানায়। 'আফলাহা' এসেছে 'ফালাহ' থেকে — কুরআনের প্রকৃত সাফল্যের শব্দ, আযানে যে মূল বারবার ফিরে আসে। 'যাক্কা' একসঙ্গে পরিষ্কার করা ও বাড়ানো দুটোই বহন করে: যা নষ্ট করে তা সরিয়ে ফেলা, যেন বৃদ্ধি ঘটতে পারে। প্রাণকে এখানে ঠিক ক্ষেতের মতো দেখা হচ্ছে — আগাছা সাফ করা হয় ফসল ফলবে বলেই।",
+          },
+          {
+            en: "91:10 completes the pair and is rarely quoted beside it: wa qad khaba man dassaha. Khaba is to come away empty, the disappointment of a venture that failed. Dassaha the mufassirun explain as burying and concealing — it is the verb 16:59 uses for burying the newborn daughter in the ground — and Ibn Kathir glosses it as making the soul dull and neglecting it until obedience is abandoned. The two outcomes are not clean and dirty; they are a soul brought into the light and a soul buried by its own owner.",
+            bn: "91:10 জোড়াটি পূর্ণ করে, অথচ পাশাপাশি খুব কমই উদ্ধৃত হয়: 'ওয়া ক্বাদ খাবা মান দাস্‌সাহা'। 'খাবা' মানে খালি হাতে ফেরা, ব্যর্থ উদ্যোগের হতাশা। 'দাস্‌সাহা'-কে মুফাসসিরগণ ব্যাখ্যা করেন চাপা দেওয়া ও লুকিয়ে ফেলা অর্থে — 16:59 আয়াতে সদ্যোজাত কন্যাকে মাটির নিচে পুঁতে ফেলার জন্য এই ক্রিয়াটিই ব্যবহৃত হয়েছে — আর ইবনে কাসীর এর অর্থ করেন প্রাণকে অনুজ্জ্বল করে ফেলা ও তাকে অবহেলা করতে করতে আনুগত্য ছেড়ে দেওয়া। ফলাফল দুটি 'পরিচ্ছন্ন বনাম নোংরা' নয়; বরং একটি প্রাণ আলোয় আনা, আর একটি প্রাণ তার মালিকের হাতেই চাপা পড়া।",
+          },
+        ],
+      },
+      {
+        h: { en: "Whose Hand Purifies", bn: "পরিশুদ্ধ করে কার হাত" },
+        p: [
+          {
+            en: "The verse never names who does the purifying, and Ibn Kathir preserves both readings rather than choosing. It may mean whoever purifies himself through obedience to Allah has succeeded — Qatadah's gloss is that he cleanses the soul of lowly and despicable characteristics, and the like is reported from Mujahid, Ikrimah and Sa'id ibn Jubayr. It may equally mean that he has succeeded whose soul Allah purifies, which is how al-Awfi and Ali ibn Abi Talha report it from Ibn Abbas (RA).",
+            bn: "আয়াতটি কখনোই বলে না পরিশুদ্ধ করার কাজটি কে করে, আর ইবনে কাসীর কোনো একটি বেছে না নিয়ে দুই পাঠই ধরে রাখেন। অর্থ হতে পারে: যে আল্লাহর আনুগত্যের মাধ্যমে নিজেকে পরিশুদ্ধ করে সে-ই সফল হয়েছে — কাতাদাহ (রঃ)-এর ব্যাখ্যা হলো, সে প্রাণটিকে নিচু ও ঘৃণ্য স্বভাবগুলো থেকে পরিষ্কার করে; অনুরূপ কথা মুজাহিদ, ইকরিমা ও সাঈদ ইবনে জুবাইর থেকেও বর্ণিত। আবার অর্থ হতে পারে: সে-ই সফল হয়েছে, আল্লাহ যার প্রাণকে পরিশুদ্ধ করে দেন — আওফী এবং আলী ইবনে আবী তালহা এভাবেই ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Prayer for the Soul", bn: "প্রাণের জন্য একটি দোয়া" },
+        p: [
+          {
+            en: "The Sunnah settles in practice what the grammar leaves open. Muslim records from Zayd ibn Arqam (RA) a supplication the Prophet ﷺ used to make, within which he said: O Allah, give my soul its taqwa and purify it, You are the best of those who purify it, You are its Guardian and its Master. Zayd added that the Prophet ﷺ used to teach them these words, and that they were now teaching them onward. Ask for the purifying, and then go and do it.",
+            bn: "ব্যাকরণ যা খোলা রাখে, সুন্নাহ তা বাস্তবে মীমাংসা করে দেয়। ইমাম মুসলিম যায়দ ইবনে আরকাম (রাঃ) থেকে নবী ﷺ-এর একটি দোয়া বর্ণনা করেন, যার ভেতরে তিনি বলতেন: হে আল্লাহ, আমার প্রাণকে তার তাক্বওয়া দান করুন এবং তাকে পরিশুদ্ধ করুন; আপনিই তাকে পরিশুদ্ধকারীদের মধ্যে শ্রেষ্ঠ, আপনিই তার অভিভাবক ও মনিব। যায়দ (রাঃ) যোগ করেন, নবী ﷺ তাঁদের এই শব্দগুলো শেখাতেন, আর তাঁরা এখন তা অন্যদের শেখাচ্ছেন। পরিশুদ্ধি চেয়ে নিন, তারপর গিয়ে কাজটি করুন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Thamud, the Worked Example", bn: "সামূদ — হাতে-কলমে উদাহরণ" },
+        p: [
+          {
+            en: "The surah does not stop at its verdict. 91:11-15 turn to a nation that buried its soul: Thamud denied through transgression, the most wretched among them was sent forth, and the messenger of Allah warned them about the she-camel of Allah and her drink. They called him a liar and hamstrung her, and their Lord levelled destruction upon them for their sin. The closing line, 91:15, adds that He does not fear its consequence. A principle stated in the abstract is given a name and a ruin.",
+            bn: "সূরাটি তার রায়ের ওপর থেমে থাকে না। 91:11-15 আয়াত ফিরে যায় এমন এক জাতির দিকে, যারা নিজেদের প্রাণ চাপা দিয়েছিল: সামূদ সীমালঙ্ঘন করে অস্বীকার করেছিল, তাদের মধ্যকার সবচেয়ে হতভাগা লোকটি উঠে দাঁড়িয়েছিল, আর আল্লাহর রাসূল তাদের সতর্ক করেছিলেন আল্লাহর উটনি ও তার পানি পানের ব্যাপারে। তারা তাঁকে মিথ্যাবাদী বলল এবং উটনির পায়ের রগ কেটে দিল; ফলে তাদের পাপের কারণে তাদের প্রতিপালক তাদের ওপর ধ্বংস নামিয়ে দিলেন। শেষ আয়াত 91:15 যোগ করে, তিনি এর পরিণতির ভয় করেন না। বিমূর্তভাবে বলা এক নীতি এখানে নাম ও ধ্বংসস্তূপ পেয়ে যায়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Clearing the Field", bn: "ক্ষেত পরিষ্কার করা" },
+        p: [
+          {
+            en: "Because zakka means clearing and growing at once, the work has two halves and most people attempt only one. Removing is the unglamorous half: a habit dropped, a debt settled, a wrong apology actually made, an account closed. Growing is what the cleared ground is for: prayer that is not rushed, knowledge taken in steadily, wealth spent where it will not be thanked. Neither half substitutes for the other, and a field weeded but never sown is still a field with nothing on it.",
+            bn: "যেহেতু 'যাক্কা' একই সঙ্গে পরিষ্কার করা ও বাড়ানো বোঝায়, কাজটির দুটি অংশ আছে — আর অধিকাংশ মানুষ কেবল একটি অংশ করে। সরিয়ে ফেলাই কম আকর্ষণীয় অংশ: একটি অভ্যাস ছেড়ে দেওয়া, একটি ঋণ শোধ করা, একটি অন্যায়ের জন্য সত্যিই ক্ষমা চাওয়া, একটি হিসাব বন্ধ করা। আর বাড়ানোই সেই কাজ, যার জন্য জমি সাফ করা হয়েছিল: তাড়াহুড়োহীন নামায, ধীরে ধীরে অর্জিত জ্ঞান, এমন জায়গায় খরচ যেখানে কেউ ধন্যবাদ দেবে না। কোনো অংশই অন্যটির বিকল্প নয়; আগাছা সাফ অথচ বীজহীন জমি এখনো শূন্য জমিই।",
+          },
+          {
+            en: "The surah also supplies a private measure. Since 91:8 says the soul was inspired with both its wickedness and its guarding, the knowledge of which way a particular choice runs is already inside the one choosing. That is uncomfortable, and it is also liberating, because it removes the need for a ruling on every small matter. Most of what purification asks of a person today is something that person already knows, has known for a while, and has been waiting to be told by someone else.",
+            bn: "সূরাটি একটি ব্যক্তিগত মাপকাঠিও দিয়ে দেয়। 91:8 যেহেতু বলে যে প্রাণকে তার অসৎকর্ম ও আত্মরক্ষা — দুটিরই বোধ দেওয়া হয়েছে, তাই কোনো নির্দিষ্ট সিদ্ধান্ত কোন দিকে যাচ্ছে সেই জ্ঞান সিদ্ধান্তগ্রহণকারীর ভেতরেই আছে। এটি অস্বস্তিকর, আবার মুক্তিদায়কও — কারণ এতে প্রতিটি ছোট বিষয়ে ফতোয়া খোঁজার প্রয়োজন কমে যায়। আজ পরিশুদ্ধি একজন মানুষের কাছে যা চায়, তার বেশিরভাগই সে আগে থেকেই জানে, অনেকদিন ধরেই জানে — কেবল অপেক্ষা করছে অন্য কেউ এসে কথাটি বলুক।",
+          },
+        ],
+      },
+    ],
+  },
+  '92:4': {
+    sections: [
+      {
+        h: { en: "Three Oaths, Set in Pairs", bn: "তিন শপথ, জোড়ায় সাজানো" },
+        p: [
+          {
+            en: "Surah al-Layl opens with three oaths before it says anything. 92:1 swears by the night when it covers, 92:2 by the day when it appears, and 92:3 by the One who created the male and the female. Ibn Kathir draws the obvious line: just as the things sworn by are set out as opposites, so is the matter being sworn about. The oath is not decoration before the point; it is a demonstration of the point in three quick strokes.",
+            bn: "সূরা আল-লাইল কিছু বলার আগেই তিনটি শপথ দিয়ে শুরু হয়। 92:1 শপথ করে রাতের, যখন সে ঢেকে দেয়; 92:2 শপথ করে দিনের, যখন সে উদ্ভাসিত হয়; আর 92:3 শপথ করে তাঁর, যিনি পুরুষ ও নারী সৃষ্টি করেছেন। ইবনে কাসীর স্পষ্ট সূত্রটি টেনে দেন: যেসব জিনিসের শপথ করা হচ্ছে সেগুলো যেমন বিপরীত জোড়ায় সাজানো, যে বিষয়ে শপথ করা হচ্ছে সেটিও তেমনই। শপথ এখানে মূল কথার আগে কেবল অলংকার নয়; তিনটি দ্রুত টানে মূল কথারই প্রদর্শন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Your Striving Is Scattered", bn: "তোমাদের চেষ্টা ছড়িয়ে আছে" },
+        p: [
+          {
+            en: "Then the answer, in three words: inna sa'yakum lashatta. Sa'y is effort that moves — labouring, pressing forward, the same word that names the walking between Safa and Marwah. Shatta is a plural, and its sense is scattered and divergent rather than merely unequal. The verse does not say some of you strive more than others. It says the strivings themselves head off in different directions, which is a claim about aim rather than about quantity.",
+            bn: "এরপর তিন শব্দে জবাব: 'ইন্না সা'ইয়াকুম লাশাত্তা'। 'সা'ই' হলো চলমান প্রচেষ্টা — খাটুনি, সামনে এগিয়ে যাওয়া; সাফা ও মারওয়ার মধ্যে দৌড়ানোকেও এই শব্দেই ডাকা হয়। 'শাত্তা' একটি বহুবচন, আর এর অর্থ ছড়ানো ও বিভিন্নমুখী — কেবল কমবেশি নয়। আয়াতটি বলছে না যে তোমাদের কেউ কেউ অন্যদের চেয়ে বেশি চেষ্টা করে। বলছে, চেষ্টাগুলো নিজেরাই ভিন্ন ভিন্ন দিকে ছুটে যায় — অর্থাৎ কথাটি পরিমাণ নিয়ে নয়, অভিমুখ নিয়ে।",
+          },
+          {
+            en: "This sits alongside the older statement in 53:39, that a man has nothing except what he strove for. That verse establishes ownership: your effort is yours and nobody else's. This one adds the question ownership does not answer, because a securely owned effort can still be pointed at nothing. Read together they close a loop — the striving is registered to you, and the direction it took is registered with it. Busyness is never the achievement; it is only the raw material.",
+            bn: "এটি 53:39-এর প্রাচীন ঘোষণার পাশে এসে বসে: মানুষ যা চেষ্টা করেছে তা ছাড়া তার জন্য কিছুই নেই। ওই আয়াত মালিকানা প্রতিষ্ঠা করে — আপনার প্রচেষ্টা আপনারই, অন্য কারও নয়। আর এই আয়াত যোগ করে সেই প্রশ্নটি, মালিকানা যার জবাব দেয় না; কারণ নিরাপদে নিজের বলে গণ্য একটি প্রচেষ্টাও শূন্যের দিকে তাক করা থাকতে পারে। দুটি একসঙ্গে পড়লে বৃত্তটি সম্পূর্ণ হয় — প্রচেষ্টা আপনার নামে লেখা হয়, আর তার অভিমুখও তার সঙ্গেই লেখা হয়। ব্যস্ততা কখনোই অর্জন নয়; তা কেবল কাঁচামাল।",
+          },
+        ],
+      },
+      {
+        h: { en: "Three Marks on Each Side", bn: "দুই দিকে তিনটি করে চিহ্ন" },
+        p: [
+          {
+            en: "The surah then divides the scattered strivings into two, and gives each side three marks. 92:5-6: he who gives, and has taqwa, and affirms al-husna, the best. 92:8-9: he who withholds, and thinks himself free of need, and denies al-husna. The first mark on each side is about wealth, the third about believing the reward is real, and the middle one is the tell — taqwa on one side, istighna on the other, the illusion of needing nobody.",
+            bn: "এরপর সূরাটি ছড়ানো প্রচেষ্টাগুলোকে দুই ভাগে ভাগ করে, আর প্রতিটি দিকে তিনটি করে চিহ্ন দেয়। 92:5-6: যে দান করে, আল্লাহকে ভয় করে, এবং 'আল-হুসনা' তথা উত্তম প্রতিদানকে সত্য মানে। 92:8-9: যে কৃপণতা করে, নিজেকে অভাবমুক্ত মনে করে, এবং 'আল-হুসনা'-কে অস্বীকার করে। দুই দিকেরই প্রথম চিহ্নটি সম্পদ নিয়ে, তৃতীয়টি উত্তম প্রতিদানকে সত্য মানা বা না-মানা নিয়ে; আর মাঝের চিহ্নটিই আসল পরিচায়ক — একদিকে তাক্বওয়া, অন্যদিকে 'ইস্তিগনা', অর্থাৎ কাউকে দরকার নেই এই বিভ্রম।",
+          },
+          {
+            en: "The two consequences are stated in one shape with one word changed: We shall ease him toward al-yusra, ease, in 92:7; We shall ease him toward al-usra, hardship, in 92:10. Easing somebody toward hardship is a deliberately jarring phrase. The commentators read it as a description of how habit works: the road a person keeps choosing becomes the road he can travel without effort, and the other road slowly stops being available to him at all.",
+            bn: "পরিণতি দুটি একই গঠনে বলা হয়েছে, কেবল একটি শব্দ বদলে: 92:7-এ 'আমি তার জন্য আল-ইউসরা তথা সহজ পথ সহজ করে দেব'; 92:10-এ 'আমি তার জন্য আল-উসরা তথা কঠিন পথ সহজ করে দেব'। কাউকে কাঠিন্যের দিকে সহজ করে দেওয়া — কথাটি ইচ্ছাকৃতভাবেই ধাক্কা দেয়। মুফাসসিরগণ একে অভ্যাসের বর্ণনা হিসেবে পড়েন: মানুষ যে পথ বারবার বেছে নেয়, সেটিই তার জন্য বিনা চেষ্টায় চলার পথ হয়ে যায়, আর অন্য পথটি ধীরে ধীরে তার নাগালের বাইরে চলে যেতে থাকে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Work, For It Is Made Easy", bn: "আমল করো, তা সহজ করে দেওয়া হয়" },
+        p: [
+          {
+            en: "Al-Bukhari records from Ali ibn Abi Talib (RA) that the Companions were at a funeral in the Baqi cemetery when the Prophet ﷺ told them that there is none among them but his place in the Garden and his place in the Fire has already been written. They asked whether they should then rely on that. He answered: Work, for everyone will find easy that for which he was created. Then he recited these very verses, 92:5-10, as the proof.",
+            bn: "ইমাম বুখারী আলী ইবনে আবী তালিব (রাঃ) থেকে বর্ণনা করেন, সাহাবীগণ বাকী কবরস্থানে এক জানাযায় ছিলেন, তখন নবী ﷺ তাঁদের বলেন যে তাঁদের প্রত্যেকেরই জান্নাতের ঠিকানা ও জাহান্নামের ঠিকানা ইতিমধ্যেই লিখে দেওয়া হয়েছে। তাঁরা জিজ্ঞেস করলেন, তবে কি তাঁরা সেটির ওপর ভরসা করে বসে থাকবেন? তিনি উত্তর দিলেন: আমল করো, কারণ যাকে যে জন্য সৃষ্টি করা হয়েছে তার জন্য সেটিই সহজ করে দেওয়া হয়। এরপর তিনি প্রমাণ হিসেবে এই আয়াতগুলোই — 92:5-10 — তিলাওয়াত করেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "How the Surah Ends", bn: "সূরাটি যেভাবে শেষ হয়" },
+        p: [
+          {
+            en: "92:17-21 closes with a portrait of the one kept furthest from the Fire: al-atqa, who gives his wealth yatazakka, purifying himself by it, who is not repaying anyone's favour, but seeks only the face of his Lord Most High — and he is going to be pleased. Notice the verb yatazakka, from the same root as 91:9. Giving is not described here as a transfer of money but as a method of cleaning the giver.",
+            bn: "92:17-21 শেষ হয় এমন একজনের প্রতিকৃতি দিয়ে, যাকে আগুন থেকে সবচেয়ে দূরে রাখা হবে: 'আল-আতক্বা', যে নিজের সম্পদ দান করে 'ইয়াতাযাক্কা' — অর্থাৎ তা দিয়ে নিজেকে পরিশুদ্ধ করতে; যে কারও অনুগ্রহের প্রতিদান দিচ্ছে না, বরং কেবল তার সর্বোচ্চ প্রতিপালকের সন্তুষ্টি চায় — আর সে অবশ্যই সন্তুষ্ট হবে। 'ইয়াতাযাক্কা' ক্রিয়াটি লক্ষ করুন, 91:9-এর সঙ্গে একই ধাতুমূল। দান এখানে টাকা হস্তান্তর হিসেবে নয়, বরং দাতাকে পরিষ্কার করার পদ্ধতি হিসেবে বর্ণিত।",
+          },
+        ],
+      },
+      {
+        h: { en: "Auditing the Direction", bn: "অভিমুখের হিসাব নেওয়া" },
+        p: [
+          {
+            en: "The verse asks a question that a calendar can answer honestly. Not how hard did I work this week, which almost everyone passes, but where did the week's effort point. Sort the hours into what serves only the next few years and what will still be standing after them, and the sorting is the tafsir. Two people at identical desks, identically tired, can be on opposite sides of 92:4, and neither of them can tell from the tiredness.",
+            bn: "আয়াতটি এমন এক প্রশ্ন করে, যার সৎ জবাব ক্যালেন্ডার দিতে পারে। প্রশ্নটি 'এই সপ্তাহে আমি কত পরিশ্রম করলাম' নয় — সেই পরীক্ষায় প্রায় সবাই পাস করে — বরং 'এই সপ্তাহের পরিশ্রম কোন দিকে তাক করা ছিল'। ঘণ্টাগুলোকে ভাগ করুন: কোনটি কেবল আগামী কয়েক বছরের কাজে লাগবে, আর কোনটি তারপরও দাঁড়িয়ে থাকবে; এই ভাগ করাটাই তাফসীর। একই টেবিলে বসা, সমান ক্লান্ত দুজন মানুষ 92:4-এর দুই বিপরীত পাশে থাকতে পারে, আর ক্লান্তি দেখে কেউই তা বুঝতে পারবে না।",
+          },
+          {
+            en: "The good news in the surah is that the sorting mark is small and daily. Giving, taqwa and believing that the best reward is real: none of these requires a change of career or circumstance, and all three can be started this afternoon. And the easing runs both ways, which means the first few deliberate steps in the better direction are the hardest ones you will have to take without help.",
+            bn: "সূরার সুসংবাদ হলো, ভাগ করার চিহ্নটি ছোট এবং দৈনন্দিন। দান করা, তাক্বওয়া, আর উত্তম প্রতিদান সত্য বলে বিশ্বাস করা — এর কোনোটির জন্যই পেশা বা পরিস্থিতি বদলাতে হয় না, আর তিনটিই আজ বিকেলে শুরু করা যায়। আর সহজ করে দেওয়ার নিয়মটি দুই দিকেই কাজ করে; অর্থাৎ ভালো দিকে সচেতনভাবে ফেলা প্রথম কয়েকটি পদক্ষেপই সবচেয়ে কঠিন, যেগুলো সাহায্য ছাড়াই ফেলতে হবে।",
+          },
+        ],
+      },
+    ],
+  },
+  '95:4': {
+    sections: [
+      {
+        h: { en: "Oaths From Three Places", bn: "তিন জায়গার শপথ" },
+        p: [
+          {
+            en: "Surah at-Tin swears by the fig and the olive in 95:1, by Mount Sinin in 95:2, and by this secure city in 95:3. Mujahid took the first two as the fruits themselves; Ka'b al-Ahbar, Qatadah and others read the olive as the sanctuary at Jerusalem. Ibn Kathir reports no disagreement at all about the last: it is Makkah. Some of the imams read all three as places from which great messengers were sent: the land of the fig and the olive, where Isa (AS) was sent; Tur Sinin, where Musa (AS) was spoken to; and Makkah, where Muhammad ﷺ was sent.",
+            bn: "সূরা আত-তীন শপথ করে 95:1-এ তীন ও যায়তূনের, 95:2-এ তূরে সীনীনের, আর 95:3-এ এই নিরাপদ নগরীর। মুজাহিদ প্রথম দুটিকে ফল হিসেবেই নিয়েছেন; কা'ব আল-আহবার, কাতাদাহ ও অন্যরা যায়তূনকে বাইতুল মাক্বদিসের পবিত্র অঙ্গন হিসেবে পড়েছেন। শেষটি নিয়ে ইবনে কাসীর কোনো মতভেদই উল্লেখ করেন না: এটি মক্কা। কোনো কোনো ইমাম তিনটিকেই পড়েছেন সেই স্থানগুলো হিসেবে, যেখান থেকে মহান রাসূলগণ প্রেরিত হয়েছেন: তীন ও যায়তূনের ভূমি, যেখানে ঈসা (আঃ) প্রেরিত হয়েছিলেন; তূরে সীনীন, যেখানে মূসা (আঃ)-এর সঙ্গে কথা বলা হয়েছিল; আর মক্কা, যেখানে মুহাম্মাদ ﷺ প্রেরিত হয়েছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "In the Best of Stature", bn: "সর্বোত্তম গঠনে" },
+        p: [
+          {
+            en: "95:4 is what all three oaths were sworn for: laqad khalaqna al-insana fi ahsani taqwim, six words carrying the answer. Taqwim comes from setting a thing straight and putting it in proportion, so the phrase is not a compliment about beauty but a statement about design. Ibn Kathir explains it as the human being created upright, with straight and well-formed limbs. This is form and faculty together — the standing frame, the hand that feeds the mouth, hearing, sight and a heart to weigh what they bring in.",
+            bn: "তিনটি শপথই যার জন্য করা হয়েছিল সেটি হলো 95:4: 'লাক্বাদ খালাক্বনাল-ইনসানা ফী আহসানি তাক্বউয়ীম' — ছয়টি শব্দে জবাবটি ধরা। 'তাক্বউয়ীম' এসেছে কোনো কিছু সোজা করা ও সুবিন্যস্ত করা অর্থ থেকে; তাই কথাটি সৌন্দর্যের প্রশংসা নয়, নকশা সম্পর্কে ঘোষণা। ইবনে কাসীর এর ব্যাখ্যা করেন — মানুষকে সৃষ্টি করা হয়েছে সোজা হয়ে দাঁড়ানো অবস্থায়, সুগঠিত ও সুবিন্যস্ত অঙ্গপ্রত্যঙ্গসহ। এখানে আকৃতি ও সামর্থ্য একসঙ্গে — দাঁড়ানো কাঠামো, মুখে খাবার তুলে দেওয়া হাত, শ্রবণ, দৃষ্টি, আর সেসব ওজন করার মতো একটি হৃদয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Then the Lowest of the Low", bn: "অতঃপর হীনদের হীনতম স্তরে" },
+        p: [
+          {
+            en: "The verse cannot be read alone, because 95:5 arrives immediately after it and reverses the direction: thumma radadnahu asfala safilin, then We returned him to the lowest of the low. Thumma is the particle of sequence. The commentators give two readings. Mujahid, Abu al-Aliyah, al-Hasan and Ibn Zayd take asfala safilin as the Fire; a second reading, reported from Ibn Abbas (RA) and Ikrimah and preferred by Ibn Jarir, takes it as the decrepitude of extreme old age.",
+            bn: "আয়াতটি একা পড়া যায় না, কারণ ঠিক এর পরেই আসে 95:5 এবং অভিমুখ উল্টে দেয়: 'সুম্মা রাদাদনাহু আসফালা সাফিলীন' — অতঃপর আমি তাকে ফিরিয়ে দিয়েছি হীনদের হীনতম স্তরে। 'সুম্মা' ক্রমবাচক অব্যয়। মুফাসসিরগণ দুটি পাঠ দেন। মুজাহিদ, আবুল আলিয়া, হাসান বসরী ও ইবনে যায়দ 'আসফালা সাফিলীন' বলতে জাহান্নাম বোঝেন; আর দ্বিতীয় পাঠ — যা ইবনে আব্বাস (রাঃ) ও ইকরিমা থেকে বর্ণিত এবং ইবনে জারীর যাকে প্রাধান্য দিয়েছেন — তা হলো চরম বার্ধক্যের জরাগ্রস্ত অবস্থা।",
+          },
+          {
+            en: "Ibn Kathir prefers the first, and gives a reason from the next verse rather than from preference: 95:6 excepts those who believe and do righteous deeds, promising them a reward without end. Believers grow old too, so if the low place were old age the exception would exclude nobody. Read his way, the surah says that the finest possible starting point does not settle the destination. Origin is given; direction is chosen; and only faith and works keep the second from cancelling the first.",
+            bn: "ইবনে কাসীর প্রথম পাঠটিকে প্রাধান্য দেন, আর তার কারণ দেন পছন্দ থেকে নয়, পরের আয়াত থেকে: 95:6 ব্যতিক্রম করে তাদের, যারা ঈমান আনে ও সৎকর্ম করে, আর তাদের জন্য অফুরন্ত প্রতিদানের প্রতিশ্রুতি দেয়। মুমিনরাও তো বৃদ্ধ হন; সুতরাং হীন স্থানটি যদি বার্ধক্য হতো, তবে ব্যতিক্রমটি কাউকেই বাদ দিত না। তাঁর পাঠ অনুযায়ী সূরাটি বলছে, সম্ভাব্য সবচেয়ে সুন্দর সূচনাবিন্দুও গন্তব্য ঠিক করে দেয় না। সূচনা দেওয়া হয়; অভিমুখ বেছে নিতে হয়; আর ঈমান ও আমলই কেবল দ্বিতীয়টিকে প্রথমটি বাতিল করা থেকে ঠেকায়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Same Shape as al-Asr", bn: "আল-আসরের মতোই গড়ন" },
+        p: [
+          {
+            en: "Ibn Kathir points out that this pairing has the same architecture as 103:1-3: a sweeping statement about the human being, then illa, except, then those who believed and did righteous deeds. Both surahs place the whole species on one side of a sentence and rescue a named minority with a single particle. The exception clause is not an afterthought in either place. It is the load-bearing wall, and everything the surah has built rests on it.",
+            bn: "ইবনে কাসীর দেখান, এই জোড়াটির স্থাপত্য 103:1-3-এর মতোই: মানুষ সম্পর্কে একটি ব্যাপক ঘোষণা, তারপর 'ইল্লা' অর্থাৎ 'তবে', তারপর যারা ঈমান এনেছে ও সৎকর্ম করেছে। দুটি সূরাই গোটা মানবজাতিকে বাক্যের এক পাশে বসিয়ে দেয়, আর একটিমাত্র অব্যয় দিয়ে নির্দিষ্ট এক সংখ্যালঘুকে উদ্ধার করে। ব্যতিক্রমের বাক্যাংশটি কোনো জায়গাতেই পরে যোগ করা মন্তব্য নয়। সেটিই ভারবাহী দেয়াল, আর সূরাটি যা কিছু গড়েছে সবই তার ওপরই দাঁড়িয়ে।",
+          },
+        ],
+      },
+      {
+        h: { en: "So What Makes You Deny", bn: "তবে কিসে তোমাকে অস্বীকার করায়" },
+        p: [
+          {
+            en: "The surah ends in argument, not in praise. 95:7 asks what, after this, makes you deny the Recompense, and 95:8 answers with a question of its own: is not Allah the most just of judges? Ibn Kathir reads the first as addressed to the son of Adam: you have seen the beginning, so what is your objection to the return? And he reads the second as the reason the sorting must happen — perfect justice cannot leave the two ends of 95:4 and 95:5 unresolved.",
+            bn: "সূরাটি শেষ হয় প্রশংসায় নয়, যুক্তিতে। 95:7 জিজ্ঞেস করে, এরপরও কিসে তোমাকে কর্মফল দিবসকে অস্বীকার করায়; আর 95:8 জবাব দেয় নিজেরই আরেক প্রশ্ন দিয়ে: আল্লাহ কি বিচারকদের মধ্যে শ্রেষ্ঠতম নন? ইবনে কাসীর প্রথমটিকে পড়েন আদম-সন্তানের উদ্দেশে: তুমি তো সূচনাটি দেখেছ, তাহলে পুনরাবর্তনে আপত্তি কীসের? আর দ্বিতীয়টিকে পড়েন সেই কারণ হিসেবে, যার জন্য বাছাই অবশ্যম্ভাবী — পূর্ণ ন্যায়বিচার 95:4 ও 95:5-এর দুই প্রান্তকে অমীমাংসিত রেখে দিতে পারে না।",
+          },
+        ],
+      },
+      {
+        h: { en: "Living Between the Two", bn: "দুইয়ের মাঝখানে বেঁচে থাকা" },
+        p: [
+          {
+            en: "Quoted by itself, 95:4 becomes a compliment, and a compliment asks nothing. Quoted with 95:5 it becomes a trust, and a trust has terms. The practical reading treats the body and its faculties as issued equipment: rested rather than run down, fed rather than punished, and used on work that would be worth listing. Contempt for the body and worship of it fail the verse in the same way, since both forget whose making it is.",
+            bn: "95:4 একা উদ্ধৃত হলে তা প্রশংসাবাক্য হয়ে যায়, আর প্রশংসাবাক্য কিছুই দাবি করে না। 95:5-সহ উদ্ধৃত হলে তা আমানত হয়ে ওঠে, আর আমানতের শর্ত থাকে। ব্যবহারিক পাঠ দেহ ও তার সামর্থ্যগুলোকে দেখে হাতে তুলে দেওয়া সরঞ্জাম হিসেবে: ক্ষইয়ে ফেলার বদলে বিশ্রাম দেওয়া, শাস্তি দেওয়ার বদলে খাওয়ানো, আর এমন কাজে খাটানো যা তালিকায় লেখার যোগ্য। দেহকে ঘৃণা করা আর দেহের পূজা করা — দুটোই একইভাবে আয়াতটির পরীক্ষায় ব্যর্থ, কারণ দুটোই ভুলে যায় এটি কার নির্মাণ।",
+          },
+          {
+            en: "The verse is also the answer to self-contempt, and it answers it without flattery. A person who was made in the best of stature has no grounds for despising the make, whatever he has done with it since; and no grounds either for assuming the make will save him. That is a steadier place to stand than either self-hatred or self-admiration, and the surah puts a reader there in the space of two verses.",
+            bn: "আয়াতটি আত্মগ্লানিরও জবাব, আর সে জবাব দেয় তোষামোদ ছাড়াই। যাকে সর্বোত্তম গঠনে বানানো হয়েছে, এরপর সে যা-ই করে থাকুক, সেই গড়নকে ঘৃণা করার কোনো ভিত্তি তার নেই; আবার এই ধরে নেওয়ারও ভিত্তি নেই যে গড়নটিই তাকে বাঁচিয়ে দেবে। আত্মঘৃণা বা আত্মমুগ্ধতা — দুটোর চেয়েই এটি দাঁড়ানোর অধিক স্থির জায়গা, আর সূরাটি মাত্র দুটি আয়াতের ব্যবধানে পাঠককে সেখানে দাঁড় করিয়ে দেয়।",
+          },
+        ],
+      },
+    ],
+  },
+  '97:3': {
+    sections: [
+      {
+        h: { en: "The Night the Book Came Down", bn: "যে রাতে কিতাব নেমে এল" },
+        p: [
+          {
+            en: "Surah al-Qadr begins with the event, not the reward: inna anzalnahu fi laylati al-qadr, We sent it down in the Night of Decree. 44:3 calls the same night blessed, and 2:185 names Ramadan as the month in which the Quran was sent down. Ibn Abbas (RA) and others explain that the Quran came down in one descent to the lowest heaven, and then reached the Prophet ﷺ in portions across the years of his mission.",
+            bn: "সূরা আল-ক্বদর শুরু হয় ঘটনাটি দিয়ে, পুরস্কার দিয়ে নয়: 'ইন্না আনযালনাহু ফী লাইলাতিল ক্বদর' — আমি একে নাযিল করেছি ক্বদরের রাতে। 44:3 একই রাতকে বরকতময় বলে, আর 2:185 রমযানকে সেই মাস হিসেবে নাম দেয় যাতে কুরআন নাযিল হয়েছে। ইবনে আব্বাস (রাঃ) ও অন্যরা ব্যাখ্যা করেন, কুরআন একবারে নিকটতম আসমানে নেমে এসেছিল, তারপর নবী ﷺ-এর কাছে তাঁর নবুওয়াতের বছরগুলো জুড়ে অংশে অংশে পৌঁছেছে।",
+          },
+          {
+            en: "The name itself carries more than one sense, and the commentators keep them together. Qadr is measuring out and decree, which 44:4 supports directly: therein is made distinct every precise matter — Qatadah says the affairs are settled in it and the terms of life and the provisions are apportioned. Qadr is also rank and worth. A night on which the Book descended and on which the year is written is honoured by both meanings at once.",
+            bn: "নামটি নিজেই একাধিক অর্থ বহন করে, আর মুফাসসিরগণ অর্থগুলো একসঙ্গেই রাখেন। 'ক্বদর' মানে পরিমাপ ও ফায়সালা — 44:4 সরাসরি তা সমর্থন করে: এ রাতে প্রতিটি সুনির্দিষ্ট বিষয় স্পষ্ট করে দেওয়া হয়; কাতাদাহ বলেন, এতে বিষয়গুলো নির্ধারিত হয় এবং আয়ু ও রিযিক ভাগ করে দেওয়া হয়। আবার 'ক্বদর' মানে মর্যাদা ও মূল্যও। যে রাতে কিতাব নেমেছে এবং যে রাতে বছরের ফায়সালা লেখা হয়, সে রাত দুই অর্থেই একসঙ্গে সম্মানিত।",
+          },
+        ],
+      },
+      {
+        h: { en: "Better Than a Thousand Months", bn: "হাজার মাসের চেয়ে উত্তম" },
+        p: [
+          {
+            en: "97:2 asks what can make you know what the Night of Decree is, and 97:3 answers in six words: laylatu al-qadri khayrun min alfi shahr. The key word is khayrun min, better than. It is a comparative of superiority, not an equation, and the early commentators do not treat the verse as an exchange rate. The plain gloss of the mufassirun is that righteous work in this one night is better than righteous work in a thousand months containing no such night.",
+            bn: "97:2 জিজ্ঞেস করে, তুমি কি জান ক্বদরের রাত কী; আর 97:3 ছয়টি শব্দে জবাব দেয়: 'লাইলাতুল ক্বদরি খাইরুম মিন আলফি শাহর'। মূল শব্দ 'খাইরুম মিন' — অর্থাৎ 'চেয়ে উত্তম'। এটি শ্রেষ্ঠত্বের তুলনা, সমীকরণ নয়; আর প্রাচীন মুফাসসিরগণ আয়াতটিকে বিনিময়-হার হিসেবে দেখেন না। তাঁদের সরল ব্যাখ্যা হলো: এই এক রাতের নেক আমল এমন হাজার মাসের নেক আমলের চেয়েও উত্তম, যে হাজার মাসে এমন কোনো রাত নেই।",
+          },
+          {
+            en: "A number of the commentators add that Arabic uses a thousand for an abundance that is not being counted, so the figure marks superiority rather than a ceiling. That is worth holding onto, because arithmetic is the wrong instrument here. Converting the months into years and then budgeting one's worship against the total turns a gift into a transaction, and the surah is not offering a rate of exchange. It is telling you that some hours are weighted by the One who set the scales.",
+            bn: "কয়েকজন মুফাসসির যোগ করেন, আরবিতে 'হাজার' প্রায়ই এমন প্রাচুর্য বোঝায় যা গোনা হচ্ছে না; ফলে সংখ্যাটি শ্রেষ্ঠত্ব নির্দেশ করে, সর্বোচ্চ সীমা নয়। কথাটি ধরে রাখা দরকার, কারণ এখানে পাটিগণিত ভুল যন্ত্র। মাসগুলোকে বছরে বদলে নিয়ে তারপর সেই মোটের বিপরীতে নিজের ইবাদতের বাজেট কষা একটি উপহারকে লেনদেনে পরিণত করে, অথচ সূরাটি কোনো বিনিময়-হার দিচ্ছে না। এটি জানাচ্ছে, কিছু প্রহরের ওজন বাড়িয়ে দিয়েছেন তিনিই, যিনি দাঁড়িপাল্লা স্থাপন করেছেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Sought, Not Scheduled", bn: "খুঁজে নিতে হয়, তারিখ দেওয়া নেই" },
+        p: [
+          {
+            en: "Al-Bukhari and Muslim record from Abu Sa'id al-Khudri (RA) that the Prophet ﷺ kept i'tikaf in the first ten nights of Ramadan, then the middle ten, and then addressed the people on the morning of the twentieth saying that he had been shown the Night of Decree and then caused to forget it, that it is in the last ten and on an odd night, and that he had seen himself prostrating in mud and water. It rained that night, and the mud was on his forehead.",
+            bn: "ইমাম বুখারী ও ইমাম মুসলিম আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ রমযানের প্রথম দশ রাত ই'তিকাফ করেন, তারপর মাঝের দশ রাত, এরপর বিশ তারিখ সকালে মানুষের উদ্দেশে বলেন যে তাঁকে ক্বদরের রাত দেখানো হয়েছিল, তারপর তা ভুলিয়ে দেওয়া হয়েছে; সেটি শেষ দশকে, বেজোড় রাতে; আর তিনি নিজেকে দেখেছেন কাদা ও পানিতে সিজদা করতে। সে রাতে বৃষ্টি হয়, আর তাঁর কপালে কাদা লেগে ছিল।",
+          },
+          {
+            en: "Ash-Shafi'i said of this report that it is the most authentic of what has been narrated on the question. Other sound reports name particular odd nights, and the scholars differ; Ibn Kathir records the view of Abu Qilabah, adopted by Malik, ath-Thawri, Ahmad and others, that the night moves within the last ten from year to year. The uncertainty is doing work. A night with a fixed date could be observed and slept off; a hidden one has to be pursued across ten.",
+            bn: "ইমাম শাফিঈ এই বর্ণনাটি সম্পর্কে বলেন, এ বিষয়ে যা কিছু বর্ণিত হয়েছে তার মধ্যে এটিই সবচেয়ে বিশুদ্ধ। অন্যান্য সহীহ বর্ণনায় নির্দিষ্ট বেজোড় রাতের উল্লেখ আছে, আর আলিমগণ এ নিয়ে মতভেদ করেছেন; ইবনে কাসীর আবু কিলাবার সেই মত উল্লেখ করেন — যা মালিক, সুফিয়ান সাওরী, আহমাদ প্রমুখ গ্রহণ করেছেন — যে রাতটি বছর বদলের সঙ্গে শেষ দশকের ভেতরে সরে যায়। অনিশ্চয়তাটি কাজ করছে। নির্দিষ্ট তারিখের রাত পালন করে ঘুমিয়ে পড়া যায়; লুকানো রাতকে দশ রাত ধরে খুঁজতে হয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "What Aisha Was Told to Say", bn: "আয়িশা (রাঃ)-কে যা বলতে বলা হলো" },
+        p: [
+          {
+            en: "At-Tirmidhi records, and graded hasan sahih, that Aisha (RA) asked: O Messenger of Allah, if I know which night is the Night of Decree, what should I say in it? He ﷺ replied: Say, Allahumma innaka afuwwun tuhibbu al-afwa fa'fu anni — O Allah, You are Pardoning, You love to pardon, so pardon me. Notice what she was not given. No list of worldly requests, and no long formula; on the best night of the year, one thing to ask for.",
+            bn: "ইমাম তিরমিযী বর্ণনা করেন এবং হাসান সহীহ বলে মান দেন যে, আয়িশা (রাঃ) জিজ্ঞেস করেছিলেন: হে আল্লাহর রাসূল, আমি যদি জানতে পারি কোন রাতটি ক্বদরের রাত, তবে সে রাতে কী বলব? তিনি ﷺ বললেন: বলো — 'আল্লাহুম্মা ইন্নাকা আফুউউন তুহিব্বুল আফওয়া ফা'ফু আন্নী' — হে আল্লাহ, আপনি ক্ষমাশীল, ক্ষমা করতে ভালোবাসেন, তাই আমাকে ক্ষমা করুন। লক্ষ করুন তাঁকে কী দেওয়া হলো না। দুনিয়াবি চাওয়ার কোনো তালিকা নয়, কোনো দীর্ঘ বাক্যবন্ধও নয়; বছরের সেরা রাতে চাওয়ার জন্য একটিই জিনিস।",
+          },
+        ],
+      },
+      {
+        h: { en: "Peace Until Dawn", bn: "ফজর পর্যন্ত শান্তি" },
+        p: [
+          {
+            en: "97:4 says the angels and the Ruh descend in it by their Lord's permission with every matter, and 97:5 closes: peace it is, until the emergence of dawn. Ibn Kathir explains that the angels descend in abundance because the blessing is abundant, as they descend when the Quran is recited and gather around circles of remembrance. Qatadah and Ibn Zayd read the closing salam as meaning that the whole night is good, with no evil in it, until dawn breaks.",
+            bn: "97:4 বলে, ফেরেশতাগণ ও রূহ সে রাতে তাদের প্রতিপালকের অনুমতিক্রমে প্রতিটি বিষয় নিয়ে অবতরণ করেন; আর 97:5 শেষ করে: এ রাত শান্তিময়, ফজরের উদয় পর্যন্ত। ইবনে কাসীর ব্যাখ্যা করেন, বরকত প্রচুর বলেই ফেরেশতারা প্রচুর সংখ্যায় নামেন — যেমন তাঁরা নামেন কুরআন তিলাওয়াতের সময় এবং যিকিরের মজলিসগুলো ঘিরে ধরেন। কাতাদাহ ও ইবনে যায়দ শেষের 'সালাম'-এর অর্থ করেন এই যে, গোটা রাতটিই কল্যাণময়, তাতে কোনো অকল্যাণ নেই — ফজর ফোটা পর্যন্ত।",
+          },
+        ],
+      },
+      {
+        h: { en: "How the Night Is Kept", bn: "রাতটি যেভাবে কাটানো হয়" },
+        p: [
+          {
+            en: "The surah's practical shape is simple and demanding: guard the last ten nights rather than one, and keep the odd ones with particular care. The two Sahihs record from Abu Hurayrah (RA) that the Prophet ﷺ said whoever stands in prayer on the Night of Decree out of faith and seeking reward will be forgiven what has passed of his sins. The two conditions are faith and seeking reward; neither is a quantity of rak'ahs.",
+            bn: "সূরাটির ব্যবহারিক রূপ সহজ, কিন্তু দাবিদার: একটি রাত নয়, শেষ দশ রাতকেই পাহারা দিন, আর বেজোড় রাতগুলোতে বিশেষ যত্ন নিন। সহীহ বুখারী ও সহীহ মুসলিম আবু হুরায়রা (রাঃ) থেকে বর্ণনা করে যে নবী ﷺ বলেছেন, যে ব্যক্তি ঈমানসহ ও প্রতিদানের আশায় ক্বদরের রাতে দাঁড়ায়, তার পূর্ববর্তী গুনাহ ক্ষমা করে দেওয়া হয়। শর্ত দুটি হলো ঈমান ও প্রতিদানের আশা; কোনোটিই রাকআতের সংখ্যা নয়।",
+          },
+          {
+            en: "And the du'a taught to Aisha (RA) sets the priority for the night before a person's own worries do. Pardon first, because a record cleared changes everything downstream of it, while a granted request leaves the record where it was. Whatever else is asked for after that is asked for by someone who has already put the most important item at the top of the list, which is exactly what the night was given for.",
+            bn: "আর আয়িশা (রাঃ)-কে শেখানো দোয়াটি রাতটির অগ্রাধিকার ঠিক করে দেয় — নিজের দুশ্চিন্তাগুলো তা ঠিক করার আগেই। আগে ক্ষমা, কারণ আমলনামা পরিষ্কার হয়ে গেলে তার পরের সবকিছু বদলে যায়, অথচ একটি চাওয়া পূরণ হলে আমলনামা যেখানে ছিল সেখানেই থাকে। এরপর আর যা কিছু চাওয়া হয়, তা চায় এমন একজন যে সবচেয়ে গুরুত্বপূর্ণ বিষয়টি ইতিমধ্যেই তালিকার শীর্ষে বসিয়ে দিয়েছে — আর ঠিক এ জন্যই রাতটি দেওয়া হয়েছে।",
+          },
+        ],
+      },
+    ],
+  },
+  '98:5': {
+    sections: [
+      {
+        h: { en: "What the Verse Answers", bn: "আয়াতটি কীসের জবাব" },
+        p: [
+          {
+            en: "98:5 is an answer, and the question is built in the four verses before it. 98:1 says the disbelievers among the People of the Scripture and the idolaters were not to be parted from their state until the clear evidence came to them; 98:2-3 identify that evidence as a Messenger from Allah reciting purified pages containing correct writings; 98:4 records that those given the Scripture divided only after the clear evidence had reached them. Division came late, and it came after clarity.",
+            bn: "98:5 একটি জবাব, আর প্রশ্নটি গড়ে উঠেছে এর আগের চারটি আয়াতে। 98:1 বলে, কিতাবীদের মধ্যকার কাফিররা ও মুশরিকরা তাদের অবস্থা থেকে সরে আসত না, যতক্ষণ না তাদের কাছে সুস্পষ্ট প্রমাণ আসে; 98:2-3 সেই প্রমাণকে চিহ্নিত করে — আল্লাহর পক্ষ থেকে একজন রাসূল, যিনি পবিত্র পৃষ্ঠাসমূহ পাঠ করেন, যাতে আছে সঠিক বিধান; 98:4 জানায়, যাদের কিতাব দেওয়া হয়েছিল তারা বিভক্ত হয়েছিল সুস্পষ্ট প্রমাণ আসার পরেই। বিভাজন এসেছে দেরিতে, আর এসেছে স্পষ্টতার পরে।",
+          },
+          {
+            en: "So the verse arrives as a challenge to the divided: what were you actually ordered to do? Wa ma umiru illa — and they were not commanded except. The construction is Arabic's tightest restriction, a negation followed by an exception, which admits nothing outside what it names. Ibn Kathir sets it beside 21:25, that no messenger was sent before you but that We revealed to him there is no god but I, so worship Me, and 16:36, where every nation received a messenger with the same command.",
+            bn: "তাই আয়াতটি আসে বিভক্তদের প্রতি এক চ্যালেঞ্জ হিসেবে: তোমাদের আসলে কী করতে আদেশ দেওয়া হয়েছিল? 'ওয়া মা উমিরূ ইল্লা' — তাদের আদেশ দেওয়া হয়নি কেবল এ ছাড়া। গঠনটি আরবির সবচেয়ে আঁটসাঁট সীমাবদ্ধকরণ — একটি নেতিবাচকতা, তারপর একটি ব্যতিক্রম — যা নামোল্লিখিত বিষয়ের বাইরে কিছুই ঢুকতে দেয় না। ইবনে কাসীর এর পাশে রাখেন 21:25 — আপনার আগে আমি এমন কোনো রাসূল পাঠাইনি যার কাছে ওহী করিনি যে আমি ছাড়া কোনো ইলাহ নেই, সুতরাং আমারই ইবাদত করো — এবং 16:36, যেখানে প্রতিটি জাতিই একই আদেশসহ রাসূল পেয়েছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "Three Verbs, and a Manner", bn: "তিনটি ক্রিয়া, আর একটি ধরন" },
+        p: [
+          {
+            en: "Count what the verse commands, because the list is shorter than it looks. Three verbs follow the exception: liya'budu Allah, that they worship Allah; wa yuqimu as-salah, and establish the prayer; wa yu'tu az-zakah, and give the zakah. Mukhlisina lahu ad-din and hunafa' are not a fourth and fifth item. They are accusatives of state describing how the first verb is to be done, which is why the whole verse can be summarised as worship, prayer, zakah.",
+            bn: "আয়াতটি কী কী আদেশ করে, গুনে দেখুন — তালিকাটি দেখতে যত বড় মনে হয়, আসলে তার চেয়ে ছোট। ব্যতিক্রমের পরে আসে তিনটি ক্রিয়া: 'লিয়া'বুদুল্লাহ' — যেন তারা আল্লাহর ইবাদত করে; 'ওয়া ইউক্বীমুস সালাহ' — এবং সালাত কায়েম করে; 'ওয়া ইউ'তুয যাকাহ' — এবং যাকাত দেয়। 'মুখলিসীনা লাহুদ দীন' ও 'হুনাফা' চতুর্থ ও পঞ্চম কোনো বিষয় নয়। এ দুটি অবস্থাবাচক পদ, যা বলে দেয় প্রথম ক্রিয়াটি কীভাবে সম্পন্ন করতে হবে; এ কারণেই গোটা আয়াতের সারকথা দাঁড়ায় — ইবাদত, সালাত, যাকাত।",
+          },
+          {
+            en: "That grammatical fact is the whole teaching. Sincerity is not an extra duty added after worship; it is the condition under which worship counts as worship at all. Mukhlis comes from khalasa, for a thing to be pure and unmixed, as milk is unmixed. Hunafa', Ibn Kathir explains, means turning away from shirk and inclining wholly to tawhid. Between them the two words describe a devotion with nothing else stirred into it and nothing else leaned toward.",
+            bn: "এই ব্যাকরণগত সত্যটিই পুরো শিক্ষা। ইখলাস ইবাদতের পরে যুক্ত হওয়া বাড়তি কোনো কর্তব্য নয়; বরং এটি সেই শর্ত, যার অধীনে ইবাদত আদৌ ইবাদত বলে গণ্য হয়। 'মুখলিস' এসেছে 'খালাসা' থেকে — কোনো জিনিসের বিশুদ্ধ ও অমিশ্র হওয়া, যেমন দুধ অমিশ্র থাকে। আর 'হুনাফা'-এর অর্থ ইবনে কাসীর ব্যাখ্যা করেন — শিরক থেকে মুখ ফিরিয়ে পুরোপুরি তাওহীদের দিকে ঝুঁকে পড়া। দুটি শব্দ মিলে এমন এক নিষ্ঠার বর্ণনা দেয়, যাতে অন্য কিছু মেশানো নেই এবং অন্য কিছুর দিকে হেলানোও নেই।",
+          },
+        ],
+      },
+      {
+        h: { en: "Prayer and Zakah Together", bn: "সালাত ও যাকাত একসঙ্গে" },
+        p: [
+          {
+            en: "The two named acts are not a random sample. Ibn Kathir calls the prayer the best of the acts of worship performed with the body, and zakah doing good to the poor and the needy. One is owed upward and costs time and attention; the other is owed sideways and costs money. A religion of sincerity alone would be invisible, and a religion of charity alone would not be worship. The verse fixes both anchors before it says anything about what all this is called.",
+            bn: "নাম নিয়ে উল্লেখ করা দুটি আমল এলোমেলোভাবে বাছাই করা নয়। ইবনে কাসীর সালাতকে বলেন দেহ দিয়ে সম্পাদিত ইবাদতগুলোর মধ্যে শ্রেষ্ঠ, আর যাকাতকে বলেন দরিদ্র ও অভাবীদের প্রতি অনুগ্রহ। একটির দায় ওপরের দিকে, তাতে খরচ হয় সময় ও মনোযোগ; অন্যটির দায় পাশের দিকে, তাতে খরচ হয় অর্থ। কেবল নিষ্ঠার ধর্ম হতো অদৃশ্য, আর কেবল দানের ধর্ম ইবাদতই হতো না। এসবকে কী নামে ডাকা হয় সে কথা বলার আগেই আয়াতটি দুটি নোঙরই গেড়ে দেয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Dinu al-Qayyimah", bn: "দীনুল ক্বাইয়িমাহ" },
+        p: [
+          {
+            en: "Then the seal: wa dhalika dinu al-qayyimah, and that is the religion of the upright. The grammarians note that qayyimah is feminine and read the phrase as an idafa with an understood noun — the religion of the upright creed. Qayyim carries straightness and self-standing, the same root as al-Qayyum. So the claim is not merely that this is a correct religion among options; it is that this, and nothing bolted onto it, is what stands upright on its own.",
+            bn: "এরপর সিলমোহর: 'ওয়া যালিকা দীনুল ক্বাইয়িমাহ' — আর এটাই সুদৃঢ়ের দীন। ব্যাকরণবিদগণ লক্ষ করেন, 'ক্বাইয়িমাহ' স্ত্রীবাচক, তাই তাঁরা বাক্যাংশটিকে পড়েন একটি উহ্য বিশেষ্যসহ ইযাফত হিসেবে — সুদৃঢ় ধর্মাদর্শের দীন। 'ক্বাইয়িম' শব্দে আছে সোজা থাকা ও নিজের ওপর দাঁড়িয়ে থাকার অর্থ, যার ধাতুমূল 'আল-ক্বাইয়ূম'-এরও। সুতরাং দাবিটি কেবল এই নয় যে নানা বিকল্পের মধ্যে এটি একটি সঠিক দীন; বরং এই যে, এটিই — এর সঙ্গে বাইরে থেকে জোড়া কিছু নয় — নিজের পায়ে সোজা হয়ে দাঁড়ায়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Recited to Ubayy", bn: "উবাই (রাঃ)-কে শোনানো" },
+        p: [
+          {
+            en: "Al-Bukhari and Muslim record from Anas ibn Malik (RA) that the Prophet ﷺ said to Ubayy ibn Ka'b (RA): Allah has commanded me to recite to you Lam yakun alladhina kafaru. Ubayy said: He named me to you? He ﷺ said: Yes. And Ubayy wept. A surah whose subject is sincerity was delivered by name to one man, and what moved him to tears was not the surah's content but being known.",
+            bn: "ইমাম বুখারী ও ইমাম মুসলিম আনাস ইবনে মালিক (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ উবাই ইবনে কা'ব (রাঃ)-কে বললেন: আল্লাহ আমাকে আদেশ করেছেন তোমাকে 'লাম ইয়াকুনিল্লাযীনা কাফারূ' পড়ে শোনাতে। উবাই (রাঃ) বললেন: তিনি কি আপনার কাছে আমার নাম নিয়েছেন? তিনি ﷺ বললেন: হ্যাঁ। আর উবাই (রাঃ) কেঁদে ফেললেন। যে সূরার বিষয়বস্তু ইখলাস, তা নাম ধরে একজন মানুষকে পৌঁছে দেওয়া হলো; আর তাঁর চোখে পানি এনেছিল সূরার বিষয়বস্তু নয়, বরং পরিচিত হয়ে ওঠার অনুভবটি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Testing the Root", bn: "শিকড়টি পরীক্ষা করা" },
+        p: [
+          {
+            en: "Because sincerity is a manner and not an act, it cannot be added to a schedule; it can only be tested. The usable tests are small. Would this deed still be done if nobody learned of it? Does its quality drop when the audience leaves the room? Is there any act of worship this week that no living person knows about? None of these is a verdict, and all of them are information, which is the most an honest person can ask for.",
+            bn: "ইখলাস যেহেতু একটি ধরন, কোনো আমল নয়, তাই একে সময়সূচিতে যোগ করা যায় না; কেবল যাচাই করা যায়। কাজে লাগানোর মতো যাচাইগুলো ছোট। কেউ জানবে না জানলেও কি কাজটি করা হতো? দর্শক ঘর ছেড়ে চলে গেলে কি কাজের মানটি নেমে যায়? এই সপ্তাহে এমন কোনো ইবাদত আছে কি, জীবিত কোনো মানুষ যার খবর জানে না? এর কোনোটিই চূড়ান্ত রায় নয়, কিন্তু সবগুলোই তথ্য — আর সৎ মানুষ এর বেশি কিছু চাইতে পারে না।",
+          },
+          {
+            en: "And the verse's structure keeps the correction gentle. Because worship, prayer and zakah are the commanded three, a person who finds his sincerity thin does not respond by stopping. He keeps the three and works on the manner, since abandoning the deed to protect the intention loses both. The surah closes in 98:7-8 by calling those who believe and do righteous deeds the best of creatures, with gardens beneath which rivers flow, Allah pleased with them and they with Him.",
+            bn: "আর আয়াতটির গঠন সংশোধনকে কোমল রাখে। যেহেতু ইবাদত, সালাত ও যাকাত — এই তিনটিই আদিষ্ট, তাই কেউ নিজের ইখলাস দুর্বল দেখলে আমল বন্ধ করে সাড়া দেয় না। সে তিনটি ধরে রাখে এবং ধরনটির ওপর কাজ করে; কারণ নিয়ত বাঁচাতে আমল ছেড়ে দিলে দুটোই হারায়। সূরাটি 98:7-8-এ শেষ হয় এই ঘোষণায় যে, যারা ঈমান আনে ও সৎকর্ম করে তারাই সৃষ্টির সেরা; তাদের জন্য আছে জান্নাত, যার তলদেশে নদী প্রবাহিত — আল্লাহ তাদের প্রতি সন্তুষ্ট, আর তারাও তাঁর প্রতি।",
+          },
+        ],
+      },
+    ],
+  },
+  '100:6': {
+    sections: [
+      {
+        h: { en: "Horses Before Dawn", bn: "ভোরের আগে অশ্বদল" },
+        p: [
+          {
+            en: "Surah al-Adiyat opens with five verses of motion. 100:1-5 swear by the racers that pant, by those striking sparks, by the raiders at dawn, by the dust they stir up, and by their driving into the midst of a gathering. Ibn Kathir reads them as the horses of battle in the path of Allah: the panting is the sound of a running horse, the sparks fly from hooves on rock, and the dawn raid was the Prophet's own practice.",
+            bn: "সূরা আল-আদিয়াত শুরু হয় পাঁচ আয়াতজুড়ে গতির বর্ণনা দিয়ে। 100:1-5 শপথ করে সেইসব দৌড়বাজের, যারা হাঁপাতে হাঁপাতে ছোটে; যারা ঘর্ষণে আগুনের ফুলকি ছোটায়; যারা ভোরে আক্রমণ চালায়; যে ধুলা তারা ওড়ায়; আর দলের অভ্যন্তরে তাদের ঢুকে পড়া নিয়ে। ইবনে কাসীর এগুলোকে আল্লাহর পথে যুদ্ধের ঘোড়া হিসেবে পড়েন: হাঁপানি হলো দৌড়ন্ত ঘোড়ার শব্দ, ফুলকি ছোটে পাথরে ক্ষুরের আঘাতে, আর ভোরের অভিযান ছিল স্বয়ং নবী ﷺ-এর রীতি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Kanud", bn: "কানূদ" },
+        p: [
+          {
+            en: "100:6 is what the oaths were sworn for: inna al-insana li-rabbihi la-kanud, four words. The classical readings of kanud cluster around ingratitude but are not identical. Ibn Abbas, Mujahid, Qatadah, al-Hasan, ad-Dahhak and Ibn Zayd all gloss it as ungrateful — denying the favours of his Lord rather than merely forgetting them. Ibn Kathir reports al-Hasan's sharper version: al-kanud is the one who counts the calamities that befall him and forgets the favours of Allah.",
+            bn: "100:6 আয়াতটির জন্যই শপথগুলো করা হয়েছিল: 'ইন্নাল ইনসানা লিরাব্বিহী লাকানূদ' — চারটি শব্দ। 'কানূদ'-এর ধ্রুপদী ব্যাখ্যাগুলো অকৃতজ্ঞতাকে ঘিরেই আবর্তিত হয়, তবে সেগুলো অভিন্ন নয়। ইবনে আব্বাস, মুজাহিদ, কাতাদাহ, হাসান বসরী, দাহহাক ও ইবনে যায়দ সবাই এর অর্থ করেন অকৃতজ্ঞ — অর্থাৎ প্রতিপালকের নিয়ামত কেবল ভুলে যাওয়া নয়, অস্বীকার করা। ইবনে কাসীর হাসান বসরীর আরও ধারালো ব্যাখ্যাটি উল্লেখ করেন: কানূদ সে-ই, যে তার ওপর আসা বিপদগুলো গুনে রাখে আর আল্লাহর নিয়ামতগুলো ভুলে যায়।",
+          },
+          {
+            en: "The lexicographers add a picture from the root itself, which is used of ground called kanud: land that takes the rain and returns no vegetation. That image explains the word better than any definition. The complaint is not that a man received nothing; it is that everything went in and nothing came back out. Rain on such ground is not refused, and it is not repaid either, which is precisely the shape of a life full of blessings and empty of thanks.",
+            bn: "অভিধানবিদগণ ধাতুমূল থেকেই একটি চিত্র যোগ করেন — 'কানূদ' বলা হয় এমন জমিকে, যা বৃষ্টি শুষে নেয় কিন্তু কোনো ফসল ফেরত দেয় না। যেকোনো সংজ্ঞার চেয়ে এই চিত্রটিই শব্দটিকে ভালো বোঝায়। অভিযোগ এই নয় যে মানুষ কিছুই পায়নি; অভিযোগ হলো, সবকিছু ভেতরে ঢুকেছে অথচ কিছুই বাইরে আসেনি। এমন জমিতে বৃষ্টি প্রত্যাখ্যাত হয় না, আবার তার প্রতিদানও দেওয়া হয় না — নিয়ামতে ভরা ও শুকরিয়ায় শূন্য একটি জীবনের আকৃতি ঠিক এমনই।",
+          },
+        ],
+      },
+      {
+        h: { en: "Who Is Meant by Man", bn: "'মানুষ' বলতে কাকে বোঝানো হয়েছে" },
+        p: [
+          {
+            en: "The commentators divide over al-insan here, and it is better to report the division than to settle it. Some restrict the verse to the ungrateful denier, on the ground that a believer is not described this way. Others read it as a statement about the human being as such, a tendency the Quran names elsewhere — 14:34 says that mankind is most unjust and ungrateful. On the second reading the verse is a mirror, and mirrors are only useful to people willing to look.",
+            bn: "এখানে 'আল-ইনসান' নিয়ে মুফাসসিরগণ বিভক্ত, আর মতভেদটির মীমাংসা করার চেয়ে তা জানিয়ে দেওয়াই ভালো। কেউ কেউ আয়াতটিকে সীমাবদ্ধ করেন অকৃতজ্ঞ অস্বীকারকারীর মধ্যে, এই যুক্তিতে যে মুমিনকে এভাবে বর্ণনা করা হয় না। অন্যরা একে পড়েন মানুষমাত্রেরই বর্ণনা হিসেবে — এমন এক প্রবণতা, যার নাম কুরআন অন্যত্রও নিয়েছে; 14:34 বলে, মানুষ অতিশয় অন্যায়কারী ও অকৃতজ্ঞ। দ্বিতীয় পাঠে আয়াতটি একটি আয়না, আর আয়না কেবল তাদেরই কাজে লাগে যারা তাকাতে রাজি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Witness, and the Love of Good", bn: "সাক্ষী, আর 'কল্যাণ'-প্রীতি" },
+        p: [
+          {
+            en: "100:7 says: and indeed, to that he is a witness. Qatadah and Sufyan ath-Thawri read the pronoun as Allah — He is witness to man's ingratitude. Muhammad ibn Ka'b al-Qurazi read it as man himself, whose own words and conduct testify against him. Then 100:8: and indeed, in love of al-khayr he is intense. Al-khayr here means wealth, and the choice of word is the quiet indictment — the thing is called good, and the good is what is loved fiercely.",
+            bn: "100:7 বলে: আর নিশ্চয়ই সে এ বিষয়ে সাক্ষী। কাতাদাহ ও সুফিয়ান সাওরী সর্বনামটিকে আল্লাহর দিকে ফেরান — তিনিই মানুষের অকৃতজ্ঞতার সাক্ষী। মুহাম্মাদ ইবনে কা'ব আল-কুরাযী একে ফেরান মানুষের দিকেই — যার নিজের কথা ও আচরণই তার বিরুদ্ধে সাক্ষ্য দেয়। এরপর 100:8: আর নিশ্চয়ই সে 'আল-খাইর'-এর ভালোবাসায় তীব্র। এখানে 'আল-খাইর' মানে সম্পদ, আর শব্দ বাছাইটিই নীরব অভিযোগ — জিনিসটিকে বলা হচ্ছে 'কল্যাণ', আর সেই কল্যাণকেই ভালোবাসা হয় প্রচণ্ডভাবে।",
+          },
+        ],
+      },
+      {
+        h: { en: "What the Graves Give Up", bn: "কবর যা ফিরিয়ে দেবে" },
+        p: [
+          {
+            en: "The surah then turns the whole scene over. 100:9-11 ask whether he does not know that when what is in the graves is scattered forth, and what is in the breasts is collected, their Lord that Day will be fully Aware of them. Notice which container is opened second. The graves give up bodies; the breasts give up what was inside them, and 100:6 has already said what that is. The dawn raid was loud; the real disclosure is silent.",
+            bn: "এরপর সূরাটি গোটা দৃশ্যপট উল্টে দেয়। 100:9-11 জিজ্ঞেস করে, সে কি জানে না — যখন কবরে যা আছে তা ছড়িয়ে বের করে আনা হবে, আর বুকের ভেতরে যা আছে তা সংগ্রহ করা হবে, সেদিন তাদের প্রতিপালক তাদের সম্পর্কে পুরোপুরি অবহিত থাকবেন। লক্ষ করুন, দ্বিতীয় কোন পাত্রটি খোলা হচ্ছে। কবর ফিরিয়ে দেয় দেহ; আর বুক ফিরিয়ে দেয় তার ভেতরে যা ছিল — আর সেটি কী, 100:6 আগেই বলে দিয়েছে। ভোরের অভিযান ছিল কোলাহলপূর্ণ; আসল উন্মোচনটি নিঃশব্দ।",
+          },
+        ],
+      },
+      {
+        h: { en: "Reversing the Count", bn: "গণনাটি উল্টে দেওয়া" },
+        p: [
+          {
+            en: "Al-Hasan's definition hands over the remedy with the diagnosis. If kanud is counting the calamities and forgetting the favours, then the cure is to reverse which list is kept. Most people can produce their grievances from memory and cannot produce five blessings without pausing. The imbalance is not a character flaw so much as a filing habit, and filing habits can be changed deliberately by anyone willing to spend two minutes a day on the neglected column.",
+            bn: "হাসান বসরীর সংজ্ঞাটি রোগনির্ণয়ের সঙ্গেই ওষুধ ধরিয়ে দেয়। কানূদ যদি হয় বিপদ গোনা আর নিয়ামত ভোলা, তবে নিরাময় হলো কোন তালিকাটি রাখা হচ্ছে তা উল্টে দেওয়া। অধিকাংশ মানুষ নিজের অভিযোগগুলো মুখস্থ বলে দিতে পারে, অথচ না থেমে পাঁচটি নিয়ামতের নাম বলতে পারে না। এই ভারসাম্যহীনতা যতটা চারিত্রিক ত্রুটি, তার চেয়ে বেশি নথি রাখার অভ্যাস; আর অভ্যাস সচেতনভাবেই বদলানো যায় — যদি কেউ অবহেলিত ঘরটির জন্য দিনে দুই মিনিট খরচ করতে রাজি থাকে।",
+          },
+          {
+            en: "The barren-ground image gives the second half of the cure. Ground that returns nothing is the problem, so thanks that stays inside the chest is only half of shukr. Wealth is thanked by spending some of it, strength by carrying something for someone, knowledge by teaching it, and a working body by using it on what is worth doing. The surah is not asking for a feeling. It is asking the ground to produce.",
+            bn: "অনুর্বর জমির চিত্রটি নিরাময়ের দ্বিতীয় অর্ধেক দেয়। যে জমি কিছুই ফেরত দেয় না, সেটিই সমস্যা; তাই বুকের ভেতরে আটকে থাকা কৃতজ্ঞতা শুকরিয়ার অর্ধেক মাত্র। সম্পদের শুকরিয়া হয় তার কিছু খরচ করে, শক্তির শুকরিয়া হয় কারও বোঝা বয়ে দিয়ে, জ্ঞানের শুকরিয়া হয় তা শিখিয়ে, আর সচল দেহের শুকরিয়া হয় তাকে মূল্যবান কাজে খাটিয়ে। সূরাটি কোনো অনুভূতি চাইছে না। সে চাইছে জমিটি ফসল ফলাক।",
+          },
+        ],
+      },
+    ],
+  },
+  '104:1': {
+    sections: [
+      {
+        h: { en: "Woe, and to Whom", bn: "দুর্ভোগ, আর কার জন্য" },
+        p: [
+          {
+            en: "Surah al-Humazah opens with a sentence of four words: waylun li-kulli humazatin lumazah. Wayl is the Quran's word of ruin and woe, and here it is not aimed at a named enemy of the Prophet ﷺ but at a type. Li-kulli, to every, makes the address general and therefore inescapable: whoever fits the description is inside the verse, and no biography, tribe or era is exempted from it by the wording.",
+            bn: "সূরা আল-হুমাযাহ শুরু হয় চার শব্দের একটি বাক্য দিয়ে: 'ওয়াইলুল লিকুল্লি হুমাযাতিল লুমাযাহ'। 'ওয়াইল' কুরআনের ধ্বংস ও দুর্ভোগের শব্দ, আর এখানে তা নবী ﷺ-এর নামোল্লিখিত কোনো শত্রুর দিকে নয়, বরং একটি ধরনের দিকে তাক করা। 'লিকুল্লি' অর্থাৎ 'প্রত্যেকের জন্য' — সম্বোধনটিকে সাধারণ করে দেয়, তাই তা এড়ানোর উপায় থাকে না: যে-ই বর্ণনার সঙ্গে মেলে সে-ই আয়াতের ভেতরে, আর শব্দগুলো কোনো জীবনী, গোত্র বা যুগকে ছাড় দেয় না।",
+          },
+        ],
+      },
+      {
+        h: { en: "Humazah and Lumazah", bn: "হুমাযাহ ও লুমাযাহ" },
+        p: [
+          {
+            en: "Both words are built on the fu'alah pattern, which in Arabic names a person by a habit rather than by an incident. So the verse is not condemning someone who once made a cruel remark; it is describing a person for whom demeaning others has become a trade. That is why the surah moves straight from this to a man's occupation with his wealth: it is drawing a character, not prosecuting a single sentence spoken on a bad day.",
+            bn: "দুটি শব্দই গঠিত 'ফুআলাহ' ছাঁচে, যা আরবিতে কোনো মানুষকে চিহ্নিত করে একটি ঘটনা দিয়ে নয়, একটি অভ্যাস দিয়ে। তাই আয়াতটি এমন কাউকে দোষারোপ করছে না যে একবার নিষ্ঠুর কোনো মন্তব্য করে ফেলেছে; বরং বর্ণনা করছে এমন একজনকে, যার কাছে মানুষকে হেয় করাই একটি পেশা হয়ে দাঁড়িয়েছে। এ কারণেই সূরাটি এখান থেকে সরাসরি চলে যায় সম্পদ নিয়ে ওই লোকটির ব্যস্ততায়: এটি একটি চরিত্র আঁকছে, খারাপ দিনে বলা একটি বাক্যের বিচার করছে না।",
+          },
+          {
+            en: "How the two words divide is genuinely disputed, and it is honest to leave it disputed. Ibn Abbas (RA) glossed humazah lumazah together as one who reviles and disgraces people. Mujahid distinguished them by instrument: al-humazah with the hand and the eye, al-lumazah with the tongue. Other early authorities distinguish them by setting, one to the face and one behind the back — and they disagree about which is which. What they all agree on is the habit being condemned.",
+            bn: "শব্দ দুটির বিভাজন নিয়ে প্রকৃত মতভেদ আছে, আর তা মতভেদ হিসেবেই রেখে দেওয়া সৎ কাজ। ইবনে আব্বাস (রাঃ) 'হুমাযাহ লুমাযাহ'-কে একসঙ্গে ব্যাখ্যা করেছেন — যে মানুষকে গালমন্দ করে ও অপদস্থ করে। মুজাহিদ পার্থক্য করেছেন মাধ্যম দিয়ে: 'হুমাযাহ' হাত ও চোখ দিয়ে, আর 'লুমাযাহ' জিহ্বা দিয়ে। প্রাচীন অন্য বর্ণনাকারীরা পার্থক্য করেন প্রেক্ষাপট দিয়ে — একটি সামনাসামনি, অন্যটি পেছনে; আর কোনটি কোনটি তা নিয়েও তাঁরা একমত নন। তাঁরা সবাই যে বিষয়ে একমত, তা হলো নিন্দিত অভ্যাসটি।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Turn to Wealth", bn: "সম্পদের দিকে মোড়" },
+        p: [
+          {
+            en: "104:2-3 then describe the same man: who gathered wealth and counted it, thinking that his wealth would make him last forever. Ibn Kathir quotes Muhammad ibn Ka'b on the counting: his wealth occupies his time in the day, going from this to that, and then when the night comes he sleeps like a rotting corpse. The surah joins contempt for people to obsession with money as one condition, because both are ways of ranking, and one of them is the ranking spoken aloud.",
+            bn: "এরপর 104:2-3 একই লোকটির বর্ণনা দেয়: যে সম্পদ জমা করে ও তা গুনে রাখে, আর মনে করে তার সম্পদ তাকে চিরস্থায়ী করে দেবে। গণনার প্রসঙ্গে ইবনে কাসীর মুহাম্মাদ ইবনে কা'বের কথা উদ্ধৃত করেন: তার সম্পদ দিনভর তার সময় দখল করে রাখে, এটা থেকে ওটায় ছোটায়; আর রাত এলে সে ঘুমায় পচা লাশের মতো। সূরাটি মানুষের প্রতি অবজ্ঞা আর অর্থের প্রতি আসক্তিকে একই অবস্থার দুই দিক হিসেবে জোড়া দেয় — কারণ দুটিই মর্যাদার ক্রম নির্ধারণের পদ্ধতি, আর তার একটি সেই ক্রমকে মুখে উচ্চারণ করে ফেলে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Al-Hutamah", bn: "আল-হুতামাহ" },
+        p: [
+          {
+            en: "104:4 refuses the calculation — kalla, no indeed — and says he will surely be flung into al-Hutamah. 104:5 asks what can make you know what it is, and 104:6-7 answer: the kindled fire of Allah, which mounts up over the hearts. Thabit al-Bunani said of that clause that it will burn them all the way to their hearts while they are still alive. The fire is aimed at the organ where contempt was manufactured, not at the tongue that delivered it.",
+            bn: "104:4 হিসাবটি নাকচ করে দেয় — 'কাল্লা', কক্ষনো না — আর বলে, তাকে অবশ্যই আল-হুতামায় নিক্ষেপ করা হবে। 104:5 জিজ্ঞেস করে, তুমি কি জান তা কী; আর 104:6-7 জবাব দেয়: আল্লাহর প্রজ্বলিত আগুন, যা হৃদয়ের ওপর গিয়ে চড়ে। সাবিত আল-বুনানী এই বাক্যাংশ সম্পর্কে বলেন, তা তাদের জীবন্ত অবস্থাতেই পুড়িয়ে হৃদয় পর্যন্ত পৌঁছে যাবে। আগুন তাক করা সেই অঙ্গটির দিকে, যেখানে অবজ্ঞা তৈরি হয়েছিল — যে জিহ্বা তা পৌঁছে দিয়েছিল তার দিকে নয়।",
+          },
+          {
+            en: "104:8-9 close the door: it is closed in upon them, in columns stretched forth. Al-Awfi reports from Ibn Abbas (RA) that there will be columns over them, chains on their necks, and the gates shut upon them. The name al-Hutamah is itself a description, from crushing, as Ibn Kathir notes: a fire that breaks whatever is put into it. A man who spent a life breaking other people's standing is placed inside something named for exactly that action.",
+            bn: "104:8-9 দরজা বন্ধ করে দেয়: তা তাদের ওপর পরিবেষ্টন করে রাখা হবে, উঁচু উঁচু স্তম্ভে। আওফী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, তাদের ওপরে থাকবে স্তম্ভ, ঘাড়ে থাকবে শিকল, আর দরজাগুলো তাদের ওপর বন্ধ করে দেওয়া হবে। 'আল-হুতামাহ' নামটি নিজেই একটি বর্ণনা, যা এসেছে চূর্ণ করা অর্থ থেকে — ইবনে কাসীর যেমন বলেন: এমন আগুন, যা তার ভেতরে যা রাখা হয় তাকেই ভেঙে ফেলে। যে মানুষ সারা জীবন অন্যের মর্যাদা ভেঙেছে, তাকে রাখা হয় ঠিক সেই কাজের নামে নামকরণ করা জিনিসটির ভেতরে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Where It Meets 49:11", bn: "49:11-এর সঙ্গে যেখানে মিল" },
+        p: [
+          {
+            en: "49:11 forbids the believers three things among themselves — ridicule, lamz, and shaming labels — and gives the reason that the one mocked may be better than the mocker. Surah al-Humazah is the same disease seen from the other end: not the act warned against inside a community, but the portrait of a person whose whole manner is made of it. One verse legislates; this surah shows what a life looks like when the legislation is ignored.",
+            bn: "49:11 মুমিনদের নিজেদের মধ্যে তিনটি জিনিস নিষেধ করে — উপহাস, 'লাময', আর অপমানজনক নামে ডাকা — আর কারণ হিসেবে বলে, যাকে উপহাস করা হচ্ছে সে উপহাসকারীর চেয়ে উত্তম হতে পারে। সূরা আল-হুমাযাহ একই রোগ, তবে অন্য প্রান্ত থেকে দেখা: সমাজের ভেতরে সতর্ক করা কোনো কাজ নয়, বরং এমন একজন মানুষের প্রতিকৃতি যার গোটা স্বভাবই তা দিয়ে গড়া। একটি আয়াত বিধান দেয়; আর এই সূরা দেখায়, বিধান উপেক্ষা করলে একটি জীবন দেখতে কেমন হয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Test Before Speaking", bn: "বলার আগের পরীক্ষা" },
+        p: [
+          {
+            en: "Because the surah condemns a habit, the useful question is about frequency rather than severity. Not was that remark cruel, but how often do remarks like it leave me, and who is usually the target. Habits of speech are visible to everyone except their owner, which is why the honest check is to notice who goes quiet around you, and to count how many of your funny stories require somebody to be the fool in them.",
+            bn: "সূরাটি যেহেতু একটি অভ্যাসকে নিন্দা করে, তাই কাজের প্রশ্নটি তীব্রতা নিয়ে নয়, পুনরাবৃত্তি নিয়ে। প্রশ্ন এই নয় যে ওই মন্তব্যটি নিষ্ঠুর ছিল কি না, বরং এই যে — এমন মন্তব্য কত ঘন ঘন আমার মুখ থেকে বের হয়, আর সাধারণত লক্ষ্যবস্তু কে। কথার অভ্যাস তার মালিক ছাড়া সবাই দেখতে পায়; এ কারণেই সৎ যাচাই হলো লক্ষ করা — আপনার আশেপাশে কে চুপ হয়ে যায়, আর আপনার মজার গল্পগুলোর কতটিতে কাউকে না কাউকে বোকা সাজতে হয়।",
+          },
+          {
+            en: "The surah also removes the excuse that the wealth part is somebody else's problem. Counting is the shared verb: one man counts money, another counts the faults of people, and both are keeping a ledger that makes them feel taller. The correction is the same in both halves — spend some of what is being hoarded, and say aloud something true and good about a person you would normally reduce to a joke.",
+            bn: "সূরাটি এই অজুহাতও কেড়ে নেয় যে সম্পদের অংশটি অন্য কারও সমস্যা। 'গোনা' ক্রিয়াটি দুই জায়গাতেই অভিন্ন: একজন গোনে টাকা, আরেকজন গোনে মানুষের দোষ; দুজনই এমন খাতা রাখে যা তাদের নিজেকে বড় বোধ করায়। সংশোধনও দুই অর্ধেকে একই — যা জমানো হচ্ছে তার কিছু খরচ করুন, আর যাকে সাধারণত রসিকতার পাত্র বানাতেন তার সম্পর্কে সত্য ও ভালো একটি কথা মুখে বলুন।",
+          },
+        ],
+      },
+    ],
+  },
+  '107:1': {
+    sections: [
+      {
+        h: { en: "A Question, Not a Verdict", bn: "একটি প্রশ্ন, রায় নয়" },
+        p: [
+          {
+            en: "Surah al-Ma'un opens in four words: a-ra'ayta alladhi yukadhdhibu bid-din. Ibn Kathir reads the address as spoken to the Prophet ﷺ — have you seen the one who denies the Recompense — and explains that din here means the Hereafter, the reckoning and the final reward. The form is a question, and a question does something a statement cannot: it hands the listener the job of looking, and of recognising what he sees.",
+            bn: "সূরা আল-মাঊন শুরু হয় চার শব্দে: 'আরাআইতাল্লাযী ইউকাযযিবু বিদ্‌দীন'। ইবনে কাসীর সম্বোধনটিকে পড়েন নবী ﷺ-এর উদ্দেশে বলা হিসেবে — তুমি কি তাকে দেখেছ, যে কর্মফলকে অস্বীকার করে — আর ব্যাখ্যা করেন, এখানে 'দীন' মানে আখিরাত, হিসাব ও চূড়ান্ত প্রতিদান। গঠনটি প্রশ্নবোধক, আর প্রশ্ন এমন একটি কাজ করে যা বিবৃতি পারে না: তা শ্রোতার হাতেই তুলে দেয় তাকিয়ে দেখার এবং যা দেখছে তা চিনে নেওয়ার দায়িত্ব।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Evidence Is Behaviour", bn: "প্রমাণ হলো আচরণ" },
+        p: [
+          {
+            en: "The surah could have answered with a creed and instead answers with conduct. 107:2 says that is the one who drives away the orphan — Ibn Kathir glosses it as oppressing him and withholding his due, not feeding him and not being kind to him. 107:3 adds that he does not urge the feeding of the poor. Note the second charge carefully: not that he fails to feed, but that he does not even encourage it. The omission itself is the evidence.",
+            bn: "সূরাটি চাইলে কোনো আকীদা দিয়ে জবাব দিতে পারত, কিন্তু জবাব দেয় আচরণ দিয়ে। 107:2 বলে, সে-ই সেই লোক যে এতিমকে ধাক্কা দিয়ে সরিয়ে দেয় — ইবনে কাসীর এর ব্যাখ্যা করেন তার ওপর জুলুম করা ও তার প্রাপ্য আটকে রাখা, তাকে না খাওয়ানো ও তার সঙ্গে সদয় না হওয়া হিসেবে। 107:3 যোগ করে, সে মিসকীনকে খাওয়াতে উৎসাহও দেয় না। দ্বিতীয় অভিযোগটি মন দিয়ে দেখুন: সে খাওয়াতে ব্যর্থ হয় — এটুকু নয়, বরং সে উৎসাহ পর্যন্ত দেয় না। এই না-করাটিই প্রমাণ।",
+          },
+          {
+            en: "Ibn Kathir sets this beside 89:17-18, where the charge is that you do not honour the orphan and do not urge one another to feed the poor. The same pairing appears in 69:33-34, which describes a man who did not believe in Allah the Most Great and did not urge the feeding of the poor. Three separate places join disbelief in the Reckoning to a hand that closes toward the weak, which makes the link a Quranic principle rather than an image.",
+            bn: "ইবনে কাসীর এর পাশে রাখেন 89:17-18, যেখানে অভিযোগ হলো — তোমরা এতিমকে সম্মান করো না এবং একে অপরকে মিসকীনকে খাওয়াতে উৎসাহ দাও না। একই জোড়া দেখা যায় 69:33-34-এ, যা এমন একজনের বর্ণনা দেয় যে মহান আল্লাহর প্রতি ঈমান আনত না এবং মিসকীনকে খাওয়াতে উৎসাহ দিত না। তিনটি আলাদা জায়গায় হিসাব দিবসের অস্বীকৃতিকে যুক্ত করা হয়েছে দুর্বলের প্রতি বন্ধ হয়ে যাওয়া হাতের সঙ্গে — ফলে সংযোগটি কেবল উপমা নয়, একটি কুরআনি নীতি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Then the Sting", bn: "এরপর হুলটি" },
+        p: [
+          {
+            en: "Anyone who stops at 107:1 misses where the surah is going. 107:4 is two words — fa-waylun lil-musallin — and they turn the whole thing around: so woe to those who pray. Not to those who abandoned prayer; to those who perform it. The fa at the front makes it a consequence of what came before, which means the denial described in the opening verses is now being found inside the congregation rather than outside it.",
+            bn: "যে কেউ 107:1-এ থেমে যায়, সে সূরাটির গন্তব্য হারিয়ে ফেলে। 107:4 মাত্র দুই শব্দ — 'ফাওয়াইলুল লিল মুসাল্লীন' — আর তা গোটা বিষয়টিকে ঘুরিয়ে দেয়: অতএব দুর্ভোগ সেই নামায আদায়কারীদের। যারা নামায ছেড়ে দিয়েছে তাদের নয়; যারা তা আদায় করে তাদের। শুরুর 'ফা' একে আগের কথার পরিণতি বানিয়ে দেয়; অর্থাৎ শুরুর আয়াতগুলোতে বর্ণিত অস্বীকৃতিটি এখন খুঁজে পাওয়া যাচ্ছে জামাতের বাইরে নয়, ভেতরে।",
+          },
+        ],
+      },
+      {
+        h: { en: "About Their Prayer, Not In It", bn: "নামায নিয়ে, নামাযের ভেতরে নয়" },
+        p: [
+          {
+            en: "107:5 identifies them: alladhina hum an salatihim sahun, those who are heedless about their prayer. Ibn Kathir preserves the remark of Ata ibn Dinar: all praise is due to Allah, who said an salatihim sahun and did not say those who are absent-minded in their prayer. The preposition saves everyone. Distraction that arrives inside the prayer is the common experience of every worshipper; heedlessness about the prayer is a decision made outside it.",
+            bn: "107:5 তাদের চিনিয়ে দেয়: 'আল্লাযীনা হুম আন সালাতিহিম সাহূন' — যারা নিজেদের নামায সম্পর্কে উদাসীন। ইবনে কাসীর আতা ইবনে দীনারের মন্তব্যটি ধরে রাখেন: সমস্ত প্রশংসা আল্লাহর, যিনি বলেছেন 'আন সালাতিহিম সাহূন', আর বলেননি 'যারা তাদের নামাযের ভেতরে অন্যমনস্ক'। অব্যয়টিই সবাইকে বাঁচিয়ে দেয়। নামাযের ভেতরে এসে পড়া অমনোযোগিতা প্রত্যেক মুসল্লিরই সাধারণ অভিজ্ঞতা; কিন্তু নামায সম্পর্কে উদাসীনতা এমন এক সিদ্ধান্ত, যা নেওয়া হয় নামাযের বাইরে।",
+          },
+          {
+            en: "Ibn Kathir then lists what the heedlessness can be: leaving the prayer altogether, praying it entirely outside its time, habitually delaying it to the end of its window, failing its conditions and pillars, or praying without humility and attention. He says the wording takes in all of these, and that whoever has any of these traits has a share of the verse, while whoever has all of them has completed his share of it.",
+            bn: "এরপর ইবনে কাসীর তালিকা দেন, এই উদাসীনতা কী কী হতে পারে: নামায একেবারেই ছেড়ে দেওয়া, নির্ধারিত ওয়াক্তের সম্পূর্ণ বাইরে পড়া, অভ্যাসগতভাবে ওয়াক্তের একেবারে শেষে ঠেলে দেওয়া, শর্ত ও রুকন পূর্ণ না করা, কিংবা বিনয় ও মনোযোগ ছাড়া পড়া। তিনি বলেন, আয়াতের শব্দগুলো এসবই ধারণ করে; আর যার মধ্যে এর কোনো একটি বৈশিষ্ট্য আছে, সে আয়াতটির একটি ভাগ পায় — আর যার মধ্যে সবগুলোই আছে, সে তার ভাগ পূর্ণ করে ফেলেছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Seen, and the Withheld Bucket", bn: "লোক-দেখানো, আর আটকে রাখা বালতি" },
+        p: [
+          {
+            en: "107:6 names the motive: alladhina hum yura'un, those who make a show. It is the same verb the Quran uses of the hypocrites in 4:142, who stand for prayer sluggishly to be seen by people. Then 107:7 ends the surah in two words: wa yamna'una al-ma'un, and they withhold small assistance. Ibn Mas'ud (RA), asked what al-ma'un is, answered: it is what people give one another, like an axe, a pot and a bucket.",
+            bn: "107:6 উদ্দেশ্যটির নাম বলে দেয়: 'আল্লাযীনা হুম ইউরাঊন' — যারা লোক-দেখানোর জন্য করে। কুরআন 4:142-এ মুনাফিকদের সম্পর্কে এই ক্রিয়াটিই ব্যবহার করে, যারা মানুষকে দেখানোর জন্য আলস্যভরে নামাযে দাঁড়ায়। এরপর 107:7 সূরাটি শেষ করে দুই শব্দে: 'ওয়া ইয়ামনাঊনাল মাঊন' — আর তারা সামান্য সাহায্যটুকুও আটকে রাখে। ইবনে মাসঊদ (রাঃ)-কে জিজ্ঞেস করা হয়েছিল 'মাঊন' কী; তিনি উত্তর দিলেন: এ হলো মানুষ একে অপরকে যা দেয় — যেমন কুড়াল, হাঁড়ি আর বালতি।",
+          },
+          {
+            en: "That is a startling place for a surah about denying the Day of Judgement to end. Not at a great crime, but at a neighbour turned away from the door over a borrowed pot that would have come back intact. The argument has come full circle: the man in 107:1 denies the Reckoning, and the proof offered is never a doctrine he stated. It is a series of small refusals that cost him almost nothing to make.",
+            bn: "কিয়ামত অস্বীকার নিয়ে লেখা একটি সূরার শেষ হওয়ার জন্য জায়গাটি চমকে দেওয়ার মতো। কোনো বিরাট অপরাধে নয়, বরং ধার চাওয়া একটি হাঁড়ির জন্য দরজা থেকে ফিরিয়ে দেওয়া এক প্রতিবেশীতে — যে হাঁড়িটি অক্ষত অবস্থায়ই ফেরত আসত। যুক্তিটি বৃত্ত পূর্ণ করেছে: 107:1-এর লোকটি হিসাব দিবসকে অস্বীকার করে, আর প্রমাণ হিসেবে কখনোই তার মুখে বলা কোনো মতবাদ পেশ করা হয় না। পেশ করা হয় একগুচ্ছ ছোট ছোট প্রত্যাখ্যান, যেগুলো করতে তার প্রায় কিছুই খরচ হয়নি।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Surah as a Checklist", bn: "সূরাটি একটি তালিকা হিসেবে" },
+        p: [
+          {
+            en: "Read as a whole, the seven verses give a test with two halves that most people would rather keep apart. The first half asks how the weak are treated when nothing is owed and nothing is watching. The second asks what the prayer is actually for — whether it is guarded when nobody would notice its absence, and whether it is prayed at its time or squeezed in at the end.",
+            bn: "সম্পূর্ণ হিসেবে পড়লে সাতটি আয়াত এমন এক পরীক্ষা দেয়, যার দুই অর্ধেককে অধিকাংশ মানুষ আলাদা রাখতেই পছন্দ করে। প্রথম অর্ধেক জিজ্ঞেস করে, কোনো দায় নেই এবং কেউ দেখছে না — এমন অবস্থায় দুর্বলের সঙ্গে আচরণ কেমন হয়। দ্বিতীয় অর্ধেক জিজ্ঞেস করে, নামায আসলে কীসের জন্য — তা কি তখনও রক্ষা করা হয় যখন তার অনুপস্থিতি কেউ খেয়ালই করত না, আর তা কি ওয়াক্তে পড়া হয়, নাকি একেবারে শেষে ঠেসে ঢোকানো হয়।",
+          },
+          {
+            en: "The repair the surah implies is unusually cheap. Lend the thing. Answer the message. Take the food over. Urge somebody else to help even where you cannot. And guard one prayer this week at its first time for no reason anyone can see, since al-Ma'un's whole complaint is about deeds that were done for an audience and kindnesses that were withheld because there wasn't one.",
+            bn: "সূরাটি যে সংশোধনের ইঙ্গিত দেয়, তা অস্বাভাবিকভাবে সস্তা। জিনিসটি ধার দিন। বার্তার উত্তর দিন। খাবারটুকু পৌঁছে দিন। যেখানে নিজে পারছেন না, সেখানে অন্যকে সাহায্যের জন্য উৎসাহ দিন। আর এই সপ্তাহে অন্তত একটি নামায প্রথম ওয়াক্তে পড়ুন এমনভাবে, যার কোনো দৃশ্যমান কারণ কেউ দেখতে পাবে না — কারণ আল-মাঊনের গোটা অভিযোগই সেসব আমল নিয়ে, যা দর্শকের জন্য করা হয়েছিল, আর সেসব ইহসান নিয়ে, যা দর্শক ছিল না বলেই আটকে রাখা হয়েছিল।",
+          },
+        ],
+      },
+    ],
+  },
+  '110:3': {
+    sections: [
+      {
+        h: { en: "Three Verses at the End", bn: "শেষের তিন আয়াত" },
+        p: [
+          {
+            en: "Surah an-Nasr has three verses. An-Nasa'i records that Ibn Abbas (RA) asked Ubaydullah ibn Abdullah which surah of the Quran was revealed last, and when he answered with Idha ja'a nasru Allahi wal-fath, Ibn Abbas told him he had spoken truthfully. The first two verses set a scene: 110:1, when the help of Allah and the conquest come; 110:2, and you see people entering the religion of Allah in crowds. 110:3 is what to do about it.",
+            bn: "সূরা আন-নাসরের আয়াত তিনটি। ইমাম নাসাঈ বর্ণনা করেন, ইবনে আব্বাস (রাঃ) উবায়দুল্লাহ ইবনে আবদুল্লাহকে জিজ্ঞেস করেছিলেন, কুরআনের কোন সূরাটি সর্বশেষ নাযিল হয়েছে; তিনি যখন উত্তর দিলেন 'ইযা জাআ নাসরুল্লাহি ওয়াল ফাতহ', ইবনে আব্বাস (রাঃ) বললেন, তুমি ঠিক বলেছ। প্রথম দুই আয়াত দৃশ্যটি সাজায়: 110:1 — যখন আল্লাহর সাহায্য ও বিজয় আসবে; 110:2 — আর তুমি মানুষকে দেখবে দলে দলে আল্লাহর দীনে প্রবেশ করতে। আর 110:3 বলে দেয় তখন কী করতে হবে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Two Commands and a Reason", bn: "দুটি আদেশ, একটি কারণ" },
+        p: [
+          {
+            en: "Count what the verse asks. There are two imperatives: fa-sabbih bi-hamdi rabbika, so glorify your Lord with His praise, and wastaghfirh, and seek His forgiveness. Then a statement rather than a third order: innahu kana tawwaba, indeed He has ever been ever-accepting of repentance. The first command joins two things Arabic keeps distinct — tasbih declares Him free of every defect, hamd affirms every perfection — so praise and purification of the concept arrive in one breath.",
+            bn: "আয়াতটি কী চায়, গুনে দেখুন। আদেশ দুটি: 'ফাসাব্বিহ বিহামদি রাব্বিকা' — অতএব তোমার প্রতিপালকের প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করো; আর 'ওয়াস্তাগফিরহু' — এবং তাঁর কাছে ক্ষমা চাও। এরপর তৃতীয় কোনো আদেশ নয়, বরং একটি বিবৃতি: 'ইন্নাহু কানা তাওওয়াবা' — নিশ্চয়ই তিনি সর্বদাই তওবা কবুলকারী। প্রথম আদেশটি এমন দুটি বিষয় জুড়ে দেয় যা আরবি আলাদা রাখে — 'তাসবীহ' তাঁকে সব ত্রুটি থেকে মুক্ত ঘোষণা করে, আর 'হামদ' তাঁর প্রতিটি পূর্ণতা স্বীকার করে — ফলে প্রশংসা ও ধারণার শুদ্ধিকরণ এক নিঃশ্বাসেই আসে।",
+          },
+          {
+            en: "The second command is the surprising one. Forgiveness is being sought not after a failure but at the summit of a life's work, at the moment the mission visibly succeeded. The Quran does this elsewhere too: 2:199 tells the pilgrims to depart from where the people depart and then seek Allah's forgiveness, placing istighfar at the close of an act of obedience rather than after a sin. Completion is treated as a moment that needs covering, not congratulating.",
+            bn: "দ্বিতীয় আদেশটিই বিস্ময়কর। ক্ষমা চাওয়া হচ্ছে কোনো ব্যর্থতার পরে নয়, বরং জীবনের কাজের শিখরে — ঠিক যে মুহূর্তে মিশনটি দৃশ্যমানভাবে সফল হলো। কুরআন অন্যত্রও এমন করে: 2:199 হাজীদের বলে, মানুষ যেখান থেকে ফেরে সেখান থেকেই ফিরে আসতে এবং তারপর আল্লাহর কাছে ক্ষমা চাইতে — অর্থাৎ ইস্তিগফারকে বসানো হচ্ছে গুনাহের পরে নয়, আনুগত্যের একটি কাজ শেষ হওয়ার মুহূর্তে। সমাপ্তিকে দেখা হচ্ছে এমন এক মুহূর্ত হিসেবে, যার অভিনন্দন নয়, আবরণ দরকার।",
+          },
+        ],
+      },
+      {
+        h: { en: "Umar's Gathering", bn: "উমর (রাঃ)-এর মজলিস" },
+        p: [
+          {
+            en: "Al-Bukhari records that Umar (RA) used to bring Ibn Abbas (RA) into the company of the elders of Badr, and that one of them objected because his own sons were of that age. So Umar asked them all about this surah. Some said we were commanded to praise Allah and seek His forgiveness when He helps us and gives us victory; others said nothing. Then he turned to Ibn Abbas and asked whether that was his view too.",
+            bn: "ইমাম বুখারী বর্ণনা করেন, উমর (রাঃ) ইবনে আব্বাস (রাঃ)-কে বদরের প্রবীণ সাহাবীদের মজলিসে নিয়ে বসাতেন, আর তাঁদের একজন আপত্তি করেছিলেন — কারণ তাঁর নিজের সন্তানেরাও ওই বয়সের। তখন উমর (রাঃ) তাঁদের সবাইকে এই সূরাটি সম্পর্কে জিজ্ঞেস করলেন। কেউ কেউ বললেন, আল্লাহ যখন আমাদের সাহায্য করেন ও বিজয় দেন তখন তাঁর প্রশংসা করতে ও ক্ষমা চাইতে আমাদের আদেশ দেওয়া হয়েছে; আর কেউ কিছুই বললেন না। এরপর তিনি ইবনে আব্বাস (রাঃ)-এর দিকে ফিরে জিজ্ঞেস করলেন, এটিই কি তাঁরও মত।",
+          },
+          {
+            en: "Ibn Abbas said no, and gave his reading: it was the term of the Messenger of Allah ﷺ of which Allah was informing him — when there comes the help of Allah and the conquest, that is the sign of your death; so glorify the praises of your Lord and seek His forgiveness, for He is ever accepting of repentance. Umar (RA) answered him in one sentence: I do not know of it other than what you have said.",
+            bn: "ইবনে আব্বাস (রাঃ) বললেন, না; এবং নিজের ব্যাখ্যাটি পেশ করলেন: এ ছিল আল্লাহর রাসূল ﷺ-এর জীবনের মেয়াদ, যা আল্লাহ তাঁকে জানিয়ে দিচ্ছিলেন — যখন আল্লাহর সাহায্য ও বিজয় আসবে, সেটিই তোমার বিদায়ের নিদর্শন; সুতরাং তোমার প্রতিপালকের প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করো এবং তাঁর কাছে ক্ষমা চাও, নিশ্চয়ই তিনি তওবা কবুলকারী। উমর (রাঃ) তাঁকে এক বাক্যে জবাব দিলেন: তুমি যা বললে, তা ছাড়া আমি এ বিষয়ে আর কিছু জানি না।",
+          },
+        ],
+      },
+      {
+        h: { en: "What He Did With It", bn: "তিনি ﷺ এটি নিয়ে যা করলেন" },
+        p: [
+          {
+            en: "The Prophet ﷺ did not treat the verse as a message about himself to be discussed. Al-Bukhari records from Aisha (RA) that he used to say often in his bowing and his prostration: Subhanaka Allahumma rabbana wa bihamdika, Allahumma-ghfir li — glory be to You, O Allah our Lord, and with Your praise; O Allah, forgive me. She adds the reason herself: he was interpreting the Quran, that is, putting this very verse into practice inside the prayer.",
+            bn: "নবী ﷺ আয়াতটিকে নিজের সম্পর্কে আলোচনার বিষয় হিসেবে নেননি। ইমাম বুখারী আয়িশা (রাঃ) থেকে বর্ণনা করেন, তিনি ﷺ রুকু ও সিজদায় প্রায়ই বলতেন: 'সুবহানাকা আল্লাহুম্মা রাব্বানা ওয়া বিহামদিকা, আল্লাহুম্মাগফিরলী' — হে আল্লাহ, আমাদের প্রতিপালক, আপনার প্রশংসাসহ আপনার পবিত্রতা ঘোষণা করছি; হে আল্লাহ, আমাকে ক্ষমা করুন। কারণটিও তিনি নিজেই যোগ করেন: তিনি ﷺ কুরআনের ব্যাখ্যা বাস্তবায়ন করছিলেন — অর্থাৎ এই আয়াতটিকেই নামাযের ভেতরে কাজে পরিণত করছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Tawwab", bn: "তাওওয়াব" },
+        p: [
+          {
+            en: "The closing word carries the comfort. Tawwab is an intensive form, so it is not merely that He accepts repentance but that turning back to His servants in acceptance is His constant way. And kana in front of it stretches that backwards: He has always been so. The verse ends by removing the last excuse, since the one thing the command asks for is the one thing the closing clause guarantees will be received.",
+            bn: "শেষ শব্দটিই স্বস্তি বহন করে। 'তাওওয়াব' একটি আতিশয্যবাচক গঠন; অর্থাৎ কথাটি কেবল এই নয় যে তিনি তওবা কবুল করেন, বরং বান্দাদের দিকে ক্ষমা নিয়ে বারবার ফিরে আসাই তাঁর অবিচল রীতি। আর এর আগে বসা 'কানা' সেই রীতিকে অতীতের দিকে টেনে নিয়ে যায়: তিনি সর্বদাই এমন ছিলেন। আয়াতটি শেষ হয় শেষ অজুহাতটুকু সরিয়ে দিয়ে — কারণ আদেশটি যা চায়, শেষ বাক্যাংশটি ঠিক সেটিই কবুল হওয়ার নিশ্চয়তা দেয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Etiquette of Arriving", bn: "পৌঁছে যাওয়ার আদব" },
+        p: [
+          {
+            en: "The verse legislates a response to success, and success is where most people's worship thins out. Hardship drives us to prayer; achievement quietly persuades us that we did it. Surah an-Nasr breaks that by attaching two acts to the moment of victory, and the second of them is an admission of shortfall. Whoever finished the work knows privately how much of it was carried, how many corners were near, and who actually supplied the outcome.",
+            bn: "আয়াতটি সাফল্যের প্রতি সাড়া দেওয়ার বিধান দেয়, অথচ সাফল্যের সময়েই অধিকাংশ মানুষের ইবাদত পাতলা হয়ে আসে। কষ্ট আমাদের নামাযের দিকে ঠেলে দেয়; আর অর্জন নীরবে আমাদের বোঝায় যে কাজটি আমরাই করেছি। সূরা আন-নাসর বিজয়ের মুহূর্তের সঙ্গে দুটি আমল জুড়ে দিয়ে এই ধারা ভেঙে দেয়, আর তার দ্বিতীয়টি হলো ঘাটতির স্বীকারোক্তি। যে কাজটি শেষ করেছে, সে গোপনে জানে তার কতটুকু বয়ে নেওয়া হয়েছিল, কতগুলো ফাঁক কাছাকাছি ছিল, আর ফলাফলটি আসলে কে জুগিয়েছেন।",
+          },
+          {
+            en: "A workable habit follows the shape of the verse. At the end of anything completed — a project delivered, a debt cleared, a term of study finished, a child raised to a milestone — say subhan Allah wa bihamdih and then astaghfirullah, in that order, before telling anyone the news. It costs a few seconds and it puts the victory in the right hands before the congratulations arrive to put it in the wrong ones.",
+            bn: "আয়াতটির গড়ন ধরেই একটি কার্যকর অভ্যাস দাঁড়ায়। যেকোনো কাজ শেষ হওয়ার পর — একটি প্রকল্প জমা দেওয়া, একটি ঋণ শোধ হওয়া, পড়াশোনার একটি পর্ব শেষ হওয়া, সন্তানের কোনো ধাপ পার হওয়া — খবরটি কাউকে জানানোর আগে বলুন 'সুবহানাল্লাহি ওয়া বিহামদিহ', তারপর 'আস্তাগফিরুল্লাহ' — এই ক্রমেই। এতে কয়েক সেকেন্ড খরচ হয়, আর অভিনন্দন এসে বিজয়টিকে ভুল হাতে তুলে দেওয়ার আগেই তা সঠিক হাতে পৌঁছে যায়।",
+          },
+        ],
+      },
+    ],
+  },
+  '35:10': {
+    sections: [
+      {
+        h: { en: "A Desire Redirected", bn: "চাওয়াটির দিক ঘুরিয়ে দেওয়া" },
+        p: [
+          {
+            en: "The verse opens on a wanting already underway: man kana yuridu al-'izzata, whoever has been desiring honour. It does not tell him to stop. 'Izzah comes from a root meaning to be hard and unassailable, the standing nobody can break into, and the Quran never treats the appetite for it as a fault. It simply moves the address from the wanting to the supply.",
+            bn: "আয়াতটি শুরু হয় এমন এক আকাঙ্ক্ষা দিয়ে যা ইতিমধ্যেই চলছে: মান কানা ইউরীদুল-ইযযাতা — যে সম্মান চেয়ে আসছে। তাকে চাওয়া বন্ধ করতে বলা হয়নি। 'ইযযাত' শব্দের মূল অর্থ কঠিন ও দুর্ভেদ্য হওয়া — সেই মর্যাদা, যাতে কেউ সিঁধ কাটতে পারে না — আর কুরআন কখনো এই আকাঙ্ক্ষাকে দোষ বলে না। সে কেবল আলোচনাটিকে চাওয়া থেকে সরিয়ে নিয়ে যায় জোগানের উৎসের দিকে।",
+          },
+          {
+            en: "Fa-lillahi al-'izzatu jami'a — then to Allah belongs honour, all of it. Jami'an is the word that shuts the door: not most of it, not the larger share, the whole. A near-identical clause stands at 4:139, put to people who took disbelievers as allies instead of the believers and were asked whether they sought honour with them. Both verses answer a search by relocating the store, not by scolding the searcher.",
+            bn: "ফালিল্লাহিল-ইযযাতু জামী'আ — সমস্ত সম্মান আল্লাহরই। 'জামী'আন' শব্দটিই দরজা বন্ধ করে দেয়: বেশিরভাগ নয়, বড় অংশ নয়, পুরোটাই। প্রায় হুবহু একই বাক্য আছে 4:139 আয়াতে, যা বলা হয়েছে তাদের উদ্দেশে যারা মুমিনদের ছেড়ে কাফিরদের বন্ধুরূপে নিয়েছিল, আর জিজ্ঞেস করা হয়েছিল তারা কি তাদের কাছে সম্মান খোঁজে। দুটি আয়াতই অনুসন্ধানকারীকে ধমক না দিয়ে ভাণ্ডারের ঠিকানা বদলে দেয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Where the Verse Stands", bn: "আয়াতটি কোথায় দাঁড়িয়ে" },
+        p: [
+          {
+            en: "Surah Fatir has been building an argument about things that rise. 35:9, immediately before, describes the winds stirring clouds, the clouds driven to a dead land, the earth revived after its death, and closes: thus is the resurrection. 35:11, immediately after, traces a human being from dust to a drop, and says no lifespan is lengthened or shortened except that it is in a register.",
+            bn: "সূরা ফাতির ধারাবাহিকভাবে এমন সব জিনিস নিয়ে যুক্তি সাজাচ্ছে যেগুলো উপরে ওঠে। ঠিক আগের আয়াত 35:9 বর্ণনা করে বাতাস মেঘ সঞ্চার করছে, মেঘ চালিত হচ্ছে মৃত ভূখণ্ডের দিকে, মাটি মৃত্যুর পর আবার জীবন পাচ্ছে — আর শেষ হয় এই কথায়: এভাবেই ঘটবে পুনরুত্থান। ঠিক পরের আয়াত 35:11 মানুষকে ধুলা থেকে শুক্রবিন্দু পর্যন্ত অনুসরণ করে, আর বলে কারও আয়ু বাড়ানো বা কমানো হয় না, তা কিতাবে লেখা থাকা ছাড়া।",
+          },
+          {
+            en: "Between those two verses sits this one, and its subject is also a rising: words going up. The placement is doing work. A surah that has just lifted dead ground into life, and is about to show a lifetime written down in advance, uses the space between to name the one thing a person actually sends upward. Rain comes down; speech goes up.",
+            bn: "ঠিক এ দুটির মাঝখানে বসে আছে আলোচ্য আয়াতটি, আর এরও বিষয় উপরে ওঠা: কথার ঊর্ধ্বগমন। এই অবস্থানটি অর্থবহ। যে সূরা মাত্রই মৃত মাটিকে জীবনে তুলে ধরল এবং এখনই দেখাতে যাচ্ছে আগাম লিখে রাখা একটি আয়ুষ্কাল, সেই সূরা মাঝের এই জায়গাটুকু ব্যবহার করে বলে দেয় মানুষ আসলে কী উপরে পাঠাতে পারে। বৃষ্টি নেমে আসে; কথা উপরে ওঠে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Good Speech Ascends", bn: "পবিত্র কথা উপরে ওঠে" },
+        p: [
+          {
+            en: "Ilayhi yas'adu al-kalimu at-tayyib. The phrase to Him is placed before the verb, and in Arabic that fronting restricts the destination: there is one address, and nothing travels anywhere else. Yas'adu is the plain verb for climbing. The commentators gloss al-kalim at-tayyib as the remembrance of Allah, the declaration of His oneness, recitation of the Quran and truthful speech — words that are wholesome rather than words that are clever.",
+            bn: "ইলাইহি ইয়াস'আদুল-কালিমুত-তাইয়িব। 'তাঁরই দিকে' কথাটি ক্রিয়াপদের আগে বসানো, আর আরবিতে এই অগ্রবর্তন গন্তব্যকে সীমাবদ্ধ করে দেয়: ঠিকানা একটিই, অন্য কোথাও কিছু যায় না। 'ইয়াস'আদু' হলো ওঠার সাধারণ ক্রিয়াপদ। মুফাসসিরগণ 'আল-কালিমুত-তাইয়িব'-এর ব্যাখ্যায় বলেন আল্লাহর যিকির, তাঁর একত্বের ঘোষণা, কুরআন তিলাওয়াত ও সত্যবাদী কথা — অর্থাৎ চতুর কথা নয়, পবিত্র কথা।",
+          },
+          {
+            en: "Tayyib repays attention, because it is the same adjective the Quran uses of lawful and wholesome food. Speech is being sorted the way food is sorted: by what it is made of, not by how it sounds. That excludes a great deal of impressive talk and admits a great deal of plain talk. What climbs is not eloquence. It is speech that is clean at the source.",
+            bn: "'তাইয়িব' শব্দটির দিকে মনোযোগ দেওয়া দরকার, কারণ কুরআন এই একই বিশেষণ ব্যবহার করে হালাল ও পবিত্র খাদ্যের ক্ষেত্রে। কথাকে বাছাই করা হচ্ছে ঠিক যেভাবে খাদ্য বাছাই করা হয়: তা কী দিয়ে তৈরি সেই বিচারে, শুনতে কেমন লাগে সেই বিচারে নয়। এতে বহু চমকপ্রদ কথা বাদ পড়ে যায় আর বহু সাদামাটা কথা ঠাঁই পায়। যা উপরে ওঠে তা বাগ্মিতা নয়; তা এমন কথা যার উৎসই পরিচ্ছন্ন।",
+          },
+        ],
+      },
+      {
+        h: { en: "And the Deed Raises It", bn: "আর সৎকর্ম তা উঁচুতে তোলে" },
+        p: [
+          {
+            en: "Wal-'amalu as-salihu yarfa'uh — and righteous work raises it. Read this way, the word rises and the deed lifts it higher, so that a claim made on the tongue is carried by a life. The commentators also record a second reading of the pronoun, in which the good word raises the righteous deed, since a deed is weighed by the intention declared over it.",
+            bn: "ওয়াল-'আমালুস-সালিহু ইয়ারফা'উহ — আর সৎকর্ম তা উঁচুতে তুলে ধরে। এভাবে পড়লে কথাটি ওঠে আর আমল তাকে আরও উঁচুতে তোলে, ফলে জিহ্বার দাবিটিকে বহন করে একটি জীবন। মুফাসসিরগণ সর্বনামটির আরেকটি পাঠও উল্লেখ করেন, যেখানে পবিত্র কথাই সৎকর্মকে উঁচুতে তোলে — কারণ আমল ওজন করা হয় তার উপর ঘোষিত নিয়ত দিয়ে।",
+          },
+          {
+            en: "Either way the two are tied together, and neither travels alone. The verse offers no third arrangement in which a person is raised for one without the other. That is its answer to the question it opened with. Honour with Allah is not applied for. It is deposited, a word and a deed at a time, in an account nobody else can reach.",
+            bn: "যেভাবেই পড়া হোক, দুটি পরস্পরে বাঁধা, আর কোনোটিই একা যাত্রা করে না। আয়াতটি এমন কোনো তৃতীয় ব্যবস্থা রাখে না যেখানে একটি ছাড়া অন্যটির জোরে কাউকে উঁচু করা হয়। শুরুতে তোলা প্রশ্নের উত্তর এটিই। আল্লাহর কাছে সম্মান আবেদন করে পাওয়া যায় না; তা জমা হয় এক-একটি কথা ও এক-একটি আমলে — এমন এক হিসাবে, যেখানে অন্য কারও হাত পৌঁছায় না।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Plot That Goes Dead", bn: "যে চক্রান্ত নিষ্ফল হয়" },
+        p: [
+          {
+            en: "The second half turns to the opposite traffic. Those who plot evil deeds will have a severe punishment, and then, of their scheming: wa makru ula'ika huwa yaburu. The pronoun huwa stands between subject and verb, which in Arabic pins the claim down — their plotting, that is what goes to ruin. Bawar is the root behind bur land, ground that takes seed and returns nothing.",
+            bn: "আয়াতের দ্বিতীয়ার্ধ ঘুরে যায় বিপরীতমুখী চলাচলের দিকে। যারা মন্দ কাজের চক্রান্ত করে তাদের জন্য কঠিন শাস্তি, আর তারপর তাদের চক্রান্ত সম্পর্কে: ওয়া মাকরু উলাইকা হুওয়া ইয়াবূর। সর্বনাম 'হুওয়া' বসেছে কর্তা ও ক্রিয়ার মাঝখানে, যা আরবিতে কথাটিকে নির্দিষ্ট করে দেয় — তাদের চক্রান্ত, সেটিই নিষ্ফল হয়ে যায়। 'বাওয়ার' সেই মূল, যা থেকে আসে 'বূর' জমি — যে মাটি বীজ নেয় কিন্তু কিছুই ফেরত দেয় না।",
+          },
+          {
+            en: "Surah Fatir uses that root once more, at 35:29, of a trade that will never go dead. One surah, one verb, two ledgers. The schemer's investment is not merely punished later; it is described as unproductive now. And notice the geometry the verse has drawn in a few short clauses: what is wholesome climbs, and what is plotted stays on the ground and rots where it lies.",
+            bn: "সূরা ফাতির এই মূলটি আরও একবার ব্যবহার করে 35:29 আয়াতে — এমন এক ব্যবসার বর্ণনায় যা কখনো নিষ্ফল হবে না। একই সূরা, একই ক্রিয়াপদ, দুটি খতিয়ান। চক্রান্তকারীর বিনিয়োগ কেবল পরে শাস্তি পায় না; তাকে এখনই বলা হচ্ছে ফলহীন। আর কয়েকটি ছোট বাক্যে আয়াতটি যে জ্যামিতি এঁকেছে তা লক্ষ করুন: যা পবিত্র তা উপরে ওঠে, আর যা চক্রান্ত তা মাটিতেই পড়ে থেকে পচে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Honour That Can Be Given", bn: "যে সম্মান দান করা হয়" },
+        p: [
+          {
+            en: "If honour belongs to Allah entirely, it is also His to hand over. 63:8 quotes the hypocrites boasting that on returning to Madinah the mightier would drive out the humbler, and answers that honour belongs to Allah, and to His Messenger, and to the believers — but the hypocrites do not know. There is no tension with this verse: what is His alone is exactly what He is free to give.",
+            bn: "সম্মান যদি সম্পূর্ণরূপে আল্লাহরই হয়, তবে তা দান করার অধিকারও তাঁরই। 63:8 আয়াতে মুনাফিকদের গর্ব উদ্ধৃত হয়েছে যে, মাদীনায় ফিরে গিয়ে সম্মানিতরা হীনদের বের করে দেবে; আর উত্তর আসে — সমস্ত সম্মান আল্লাহর, তাঁর রাসূলের এবং মুমিনদের, কিন্তু মুনাফিকরা তা জানে না। এই আয়াতের সঙ্গে এর কোনো বিরোধ নেই: যা কেবল তাঁরই, তা দেওয়ার স্বাধীনতাও কেবল তাঁরই।",
+          },
+          {
+            en: "So the question left standing is one of direction. A person can spend years assembling standing out of other people's opinions, which are borrowed, revisable and soon forgotten. The verse does not call that wicked; it says the supply is not there, because honour was never owned by those being asked for it. The other route costs nothing: a clean word, and a deed placed underneath it.",
+            bn: "তাই যে প্রশ্নটি টিকে থাকে তা দিকনির্দেশের প্রশ্ন। মানুষ বছরের পর বছর অন্যের মতামত জড়ো করে মর্যাদা গড়তে পারে — যে মতামত ধার করা, বদলে যাওয়ার মতো, আর দ্রুতই বিস্মৃত। আয়াতটি একে পাপ বলছে না; বলছে, সেখানে জোগানটাই নেই — কারণ যাদের কাছে চাওয়া হচ্ছে, সম্মান কখনো তাদের মালিকানায় ছিল না। অন্য পথে কোনো খরচ নেই: একটি পরিচ্ছন্ন কথা, আর তার নিচে রাখা একটি আমল।",
+          },
+        ],
+      },
+    ],
+  },
+  '38:29': {
+    sections: [
+      {
+        h: { en: "The One That Is Not a Rebuke", bn: "যেটি তিরস্কার নয়" },
+        p: [
+          {
+            en: "The verb of tadabbur is used of the Quran in four places: 4:82, 23:68, 38:29 and 47:24. Three of the four are questions aimed at people who were not doing it — do they not ponder, have they not pondered the word. This verse is the exception. It makes no accusation and asks nothing. It simply states, in nine words of Arabic, why the Book was sent down at all.",
+            bn: "কুরআন সম্পর্কে তাদাব্বুরের ক্রিয়াপদটি ব্যবহৃত হয়েছে চারটি জায়গায়: 4:82, 23:68, 38:29 এবং 47:24। এর মধ্যে তিনটিই প্রশ্ন, যা ছোড়া হয়েছে তাদের দিকে যারা তা করছিল না — তারা কি চিন্তা-ভাবনা করে না, তারা কি এই বাণী নিয়ে ভাবেনি। আলোচ্য আয়াতটি ব্যতিক্রম। এতে কোনো অভিযোগ নেই, কোনো প্রশ্নও নেই। আরবি নয়টি শব্দে এটি কেবল জানিয়ে দেয়, কিতাবটি আদৌ কেন নাযিল হয়েছে।",
+          },
+          {
+            en: "That is why this verse, rather than the more famous questions, is the charter of the whole exercise. A rebuke tells you that you have failed at something; a statement of purpose tells you what the thing is for. Kitabun anzalnahu ilayka mubarakun liyaddabbaru ayatih. Sent down, blessed, so that its verses may be pondered. Everything else a reader does with the Book is measured against that sentence.",
+            bn: "এ কারণেই বেশি পরিচিত প্রশ্নগুলো নয়, বরং এই আয়াতটিই গোটা কাজটির সনদ। তিরস্কার জানায় আপনি কোথায় ব্যর্থ হয়েছেন; আর উদ্দেশ্যের ঘোষণা জানায় জিনিসটি কীসের জন্য। কিতাবুন আনযালনাহু ইলাইকা মুবারাকুল লিইয়াদ্দাব্বারূ আয়াতিহ। নাযিলকৃত, কল্যাণময়, যাতে এর আয়াতগুলো নিয়ে গভীরভাবে ভাবা হয়। পাঠক কিতাবটি নিয়ে আর যা কিছু করেন, তার সবই এই বাক্যের নিরিখে মাপা হয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Blessed, and Sent to You", bn: "কল্যাণময়, এবং তোমার কাছে প্রেরিত" },
+        p: [
+          {
+            en: "Mubarak is the second word the verse spends on the Book, and the lexicographers connect its root to the birkah, a pool: water that stays instead of running off. Barakah on that understanding is good that settles and keeps yielding, rather than good that arrives and is used up. A blessed thing gives more than its size accounts for, and gives it again the next time it is drawn on.",
+            bn: "কিতাব সম্পর্কে আয়াতটির দ্বিতীয় গুরুত্বপূর্ণ শব্দ 'মুবারাক', আর অভিধানবিদগণ এর মূলকে যুক্ত করেন 'বিরকাহ' বা জলাশয়ের সঙ্গে — যে পানি গড়িয়ে চলে না, থেকে যায়। এই বোঝাপড়ায় বরকত মানে এমন কল্যাণ যা থিতু হয় এবং দিতে থাকে, একবার এসে ফুরিয়ে যাওয়া কল্যাণ নয়। বরকতময় জিনিস তার আকারের হিসাবের চেয়ে বেশি দেয়, আর পরের বার তোলার সময় আবারও দেয়।",
+          },
+          {
+            en: "The revelation is called mubarak in four places: 6:92, 6:155, 21:50 and here. In the first three the word points at what came down and nothing more — this is a Book We have sent down, blessed, or a blessed message We have sent down. Only here is ilayka added, to you, naming the one it came to, and only here does the purpose follow immediately. The verse says at once what the blessing is for.",
+            bn: "ওহীকে 'মুবারাক' বলা হয়েছে চারটি জায়গায়: 6:92, 6:155, 21:50 এবং এখানে। প্রথম তিনটিতে শব্দটি কেবল নাযিলকৃত জিনিসটির দিকেই ইঙ্গিত করে — এই তো কিতাব, আমি তা নাযিল করেছি, কল্যাণময়; কিংবা এই কল্যাণময় উপদেশবাণী, আমি তা নাযিল করেছি। কেবল এখানেই যুক্ত হয়েছে 'ইলাইকা', তোমার কাছে, অর্থাৎ যাঁর কাছে তা এসেছে তাঁকে নির্দিষ্ট করা হয়েছে; আর কেবল এখানেই সঙ্গে সঙ্গে উদ্দেশ্যটিও আসে। আয়াতটি তৎক্ষণাৎ বলে দেয় বরকতটি কীসের জন্য।",
+          },
+        ],
+      },
+      {
+        h: { en: "What Sits Around It", bn: "চারপাশে যা আছে" },
+        p: [
+          {
+            en: "Two verses earlier, 38:27 denies that the heaven and the earth and what is between them were created aimlessly, and calls the opposite the assumption of those who disbelieve. 38:28, immediately before ours, asks whether those who believe and do righteous deeds would be treated like corrupters in the land. Then the Book arrives. A purposeful creation and a just outcome are stated first; the Book is introduced as what makes both known.",
+            bn: "দুই আয়াত আগে 38:27 অস্বীকার করে যে আসমান, যমীন ও এ দুয়ের মাঝে যা আছে তা অনর্থক সৃষ্টি করা হয়েছে, আর এর বিপরীত ধারণাকে বলে কাফিরদের ধারণা। ঠিক আগের আয়াত 38:28 প্রশ্ন করে, যারা ঈমান আনে ও সৎকাজ করে তাদের কি ভূমিতে বিপর্যয় সৃষ্টিকারীদের মতো গণ্য করা হবে। এরপরই আসে কিতাব। প্রথমে বলা হয় উদ্দেশ্যপূর্ণ সৃষ্টি ও ন্যায্য পরিণতির কথা; আর কিতাবকে উপস্থাপন করা হয় সেই দুটিকে জানানোর মাধ্যম হিসেবে।",
+          },
+          {
+            en: "The verse after it, 38:30, turns to Sulayman (AS), and the surah goes on with the accounts of the prophets. So the charter of reflection is not placed in a chapter about scripture. It is set down in the middle of stories, between Dawud (AS) and his son, as if to tell the reader mid-narrative what the narratives are there for.",
+            bn: "এর পরের আয়াত 38:30 ফিরে যায় সুলাইমান (আঃ)-এর প্রসঙ্গে, আর সূরাটি নবীদের বৃত্তান্ত নিয়ে এগিয়ে চলে। অর্থাৎ চিন্তা-ভাবনার সনদটি রাখা হয়নি কিতাব-বিষয়ক কোনো অধ্যায়ে। তা বসানো হয়েছে কাহিনির মাঝখানে, দাউদ (আঃ) ও তাঁর পুত্রের মধ্যবর্তী স্থানে — যেন বর্ণনার ফাঁকেই পাঠককে বলে দেওয়া হয়, এই বর্ণনাগুলো কেন এখানে আছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "One Verse at a Time", bn: "একবারে একটি আয়াত" },
+        p: [
+          {
+            en: "Liyaddabbaru is li-yatadabbaru with the ta absorbed into the following letter, and the verb pattern it belongs to carries effort spread over time — a thing done to oneself, gradually, and not at one stroke. The lam in front of it is the lam of purpose. Nothing in the word suggests a single flash of insight; everything in it suggests returning, and returning again.",
+            bn: "'লিইয়াদ্দাব্বারূ' আসলে 'লিইয়াতাদাব্বারূ', যেখানে 'তা' পরের বর্ণে মিশে গেছে; আর ক্রিয়াপদটি যে কাঠামোর, তা সময় জুড়ে ছড়ানো প্রচেষ্টার অর্থ বহন করে — এমন কাজ যা মানুষ নিজের উপর ধীরে ধীরে প্রয়োগ করে, এক ধাক্কায় নয়। এর আগের 'লাম' হলো উদ্দেশ্যবাচক লাম। শব্দটির কোথাও এক ঝলকে জ্ঞানলাভের ইঙ্গিত নেই; সবটুকুই ইঙ্গিত করে বারবার ফিরে আসার দিকে।",
+          },
+          {
+            en: "Its object is chosen with the same care: ayatih, its verses, not the Book as a whole. The unit of reflection is the single verse. That is a merciful specification, because a reader who resolves to ponder the Quran is facing something too large to begin, while a reader who resolves to ponder one verse has already begun. The purpose named here is reachable in a few minutes tonight.",
+            bn: "এর কর্মপদটিও সমান যত্নে বাছাই করা: 'আয়াতিহ' — এর আয়াতসমূহ, গোটা কিতাব নয়। চিন্তা-ভাবনার একক হলো একটি আয়াত। এটি এক দয়ার্দ্র নির্দিষ্টকরণ, কারণ 'কুরআন নিয়ে ভাবব' — এই সংকল্প এত বিশাল যে শুরু করাই কঠিন; কিন্তু 'একটি আয়াত নিয়ে ভাবব' — এই সংকল্প নেওয়া মাত্রই শুরু হয়ে যায়। এখানে ঘোষিত উদ্দেশ্যটি আজ রাতেই কয়েক মিনিটে নাগালের ভেতরে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Those Who Have Kernels", bn: "যাদের শাঁস আছে" },
+        p: [
+          {
+            en: "Ulu al-albab closes the verse. Lubb is the kernel of a thing — the soft heart inside the shell, the part that is actually eaten. So the phrase names people who have got past the husk of a matter to what is inside it. It occurs sixteen times in the Quran, twice in this surah: here, and at 38:43, where Ayyub (AS) and his restored family are called a reminder for them.",
+            bn: "আয়াতটি শেষ হয় 'উলুল-আলবাব' দিয়ে। 'লুব্ব' মানে কোনো কিছুর শাঁস — খোসার ভেতরের নরম অংশ, যেটুকু আসলে খাওয়া হয়। তাই পরিভাষাটি সেই মানুষদের বোঝায় যারা কোনো বিষয়ের খোসা পেরিয়ে ভেতরের অংশ পর্যন্ত পৌঁছেছে। কুরআনে এটি এসেছে ষোলো বার, আর এই সূরাতেই দুবার: এখানে, এবং 38:43 আয়াতে, যেখানে আইয়ূব (আঃ) ও তাঁকে ফিরিয়ে দেওয়া পরিবারকে তাদের জন্য উপদেশ বলা হয়েছে।",
+          },
+          {
+            en: "Notice how the two purposes are assigned. The pondering is left open — that they may ponder, with no group named. The taking of heed is attributed to those of understanding. Reflection is offered to anyone who will attempt it; the yield is described as what happens in a reader who has a kernel. And the yield is called tadhakkur, remembering, which is what a person does with something already inside him.",
+            bn: "লক্ষ করুন, দুটি উদ্দেশ্য কীভাবে বণ্টিত হয়েছে। চিন্তা-ভাবনার কথাটি খোলা রাখা হয়েছে — যাতে তারা ভাবে, কোনো দল নির্দিষ্ট করা হয়নি। আর উপদেশ গ্রহণের কথাটি যুক্ত করা হয়েছে বুদ্ধিমানদের সঙ্গে। চিন্তা-ভাবনার আহ্বান সবার জন্য, যে কেউ চেষ্টা করতে পারে; আর ফলটির বর্ণনা এমন পাঠকের ক্ষেত্রে যার ভেতরে শাঁস আছে। ফলটিকে বলা হয়েছে 'তাযাক্কুর' বা স্মরণ — যা মানুষ করে তার ভেতরে আগে থেকেই থাকা কোনো কিছু নিয়ে।",
+          },
+        ],
+      },
+    ],
+  },
+  '43:32': {
+    sections: [
+      {
+        h: { en: "The Objection It Answers", bn: "যে আপত্তির জবাব", },
+        p: [
+          {
+            en: "This verse is a reply, and the objection it replies to is quoted a line earlier. In 43:31 they said: why was this Quran not sent down upon a great man from one of the two cities? Greatness, in that sentence, means wealth and standing. Their complaint was not about the message but about the messenger's bank balance and clan.",
+            bn: "এই আয়াতটি একটি জবাব, আর যে আপত্তির জবাব তা এক লাইন আগেই উদ্ধৃত। 43:31 আয়াতে তারা বলেছিল: এই কুরআন দুই জনপদের কোনো গণ্যমান্য ব্যক্তির উপর কেন নাযিল হলো না? সেই বাক্যে 'গণ্যমান্য' মানে সম্পদ ও প্রতিপত্তি। তাদের অভিযোগ বার্তা নিয়ে ছিল না, ছিল বার্তাবাহকের সম্পদ ও বংশমর্যাদা নিয়ে।",
+          },
+          {
+            en: "So the answer opens: a-hum yaqsimuna rahmata rabbik — do they distribute the mercy of your Lord? The mufassirun read that mercy as prophethood itself, which is what the objection was about. The verse is therefore not a general lecture on wealth. It is an answer to people who thought the appointment of a prophet should follow the same rankings they used among themselves.",
+            bn: "তাই জবাব শুরু হয় এভাবে: আহুম ইয়াক্‌সিমূনা রাহমাতা রাব্বিক — তোমার প্রতিপালকের রহমত কি তারা বণ্টন করে? মুফাসসিরগণ এখানে 'রহমত' বলতে নবুয়তকেই বোঝেন, কারণ আপত্তিটি ছিল সেটি নিয়েই। অর্থাৎ আয়াতটি সম্পদ নিয়ে সাধারণ কোনো বক্তৃতা নয়। এটি সেই মানুষদের জবাব যারা ভেবেছিল, নবী নিয়োগও তাদের নিজেদের ব্যবহৃত মর্যাদাক্রম মেনেই হওয়া উচিত।",
+          },
+        ],
+      },
+      {
+        h: { en: "An Argument From the Smaller Case", bn: "ছোট দৃষ্টান্ত থেকে যুক্তি" },
+        p: [
+          {
+            en: "Nahnu qasamna baynahum ma'ishatahum. The pronoun nahnu is placed in front of the verb, which in Arabic restricts the doing to the one named: We, and no one else, apportioned it. And the thing apportioned is deliberately modest. Not thrones or empires — ma'ishah, from 'aysh, living: the daily means a person lives on, the trade and the wage and the harvest.",
+            bn: "নাহনু কাসামনা বাইনাহুম মা'ঈশাতাহুম। সর্বনাম 'নাহনু' বসানো হয়েছে ক্রিয়ার আগে, যা আরবিতে কাজটিকে কেবল উল্লিখিত সত্তার মধ্যেই সীমাবদ্ধ করে: আমিই, অন্য কেউ নয়, তা বণ্টন করেছি। আর যা বণ্টিত হয়েছে তা ইচ্ছাকৃতভাবেই সাধারণ। সিংহাসন বা সাম্রাজ্য নয় — 'মা'ঈশাহ', যা এসেছে ''আইশ' অর্থাৎ জীবনযাপন থেকে: মানুষ যা দিয়ে দিন চালায়, তার ব্যবসা, মজুরি ও ফসল।",
+          },
+          {
+            en: "The argument runs from the smaller case to the larger. You did not set your own livelihood; the work available to you, the household you were born into, the health you woke up with, none of that was assigned by you. If the lesser distribution was never in your hands, the appointment of a prophet certainly is not. The objectors were auditing a ledger they had no signature on.",
+            bn: "যুক্তিটি চলে ছোট দৃষ্টান্ত থেকে বড়টির দিকে। নিজের জীবিকা আপনি নিজে ঠিক করেননি; যে কাজ আপনার নাগালে আছে, যে পরিবারে আপনার জন্ম, যে স্বাস্থ্য নিয়ে আপনি ঘুম থেকে উঠেছেন — কোনোটিই আপনার নির্ধারণ করা নয়। ছোট বণ্টনটিই যদি কখনো আপনার হাতে না থাকে, তবে নবী নিয়োগ তো নিশ্চয়ই নয়। আপত্তিকারীরা এমন এক খতিয়ান যাচাই করছিল যেখানে তাদের সইয়ের কোনো জায়গা নেই।",
+          },
+        ],
+      },
+      {
+        h: { en: "Degrees, and Mutual Service", bn: "মর্যাদা ও পারস্পরিক সেবা" },
+        p: [
+          {
+            en: "Wa rafa'na ba'dahum fawqa ba'din darajat — and We raised some of them above others in degrees. The two terms are ba'd and ba'd, some and some: indefinite, unnamed, and stated in both directions. Nobody is identified as the permanently upper party. The elevation is described as darajat within ma'ishah in the life of this world, which the verse has already bounded as belonging to this world only.",
+            bn: "ওয়া রাফা'না বা'দাহুম ফাওকা বা'দিন দারাজাত — আর মর্যাদায় আমি এককে অন্যের উপরে উন্নীত করেছি। এখানে দুই পক্ষই 'বা'দ' ও 'বা'দ', অর্থাৎ কেউ ও কেউ: অনির্দিষ্ট, নামহীন, এবং উভয় দিক থেকেই বলা। কাউকেই চিরস্থায়ী উঁচু পক্ষ হিসেবে চিহ্নিত করা হয়নি। এই উন্নীতকরণকে বলা হয়েছে পার্থিব জীবনের 'মা'ঈশাহ'-এর ভেতরকার 'দারাজাত', আর আয়াতটি আগেই তার সীমা টেনে দিয়েছে এই দুনিয়ার মধ্যে।",
+          },
+          {
+            en: "Then the purpose: li-yattakhidha ba'duhum ba'dan sukhriyya. The commentators derive sukhriyy from taskhir, being put to work for another, and read the clause as mutual employment rather than one class owning another. The grammar makes it reciprocal — some of them, of some of them — so the builder needs the farmer and the farmer needs the builder. Difference is presented as the reason people cannot live alone.",
+            bn: "তারপর উদ্দেশ্য: লিইয়াত্তাখিযা বা'দুহুম বা'দান সুখরিয়্যা। মুফাসসিরগণ 'সুখরিয়্য' শব্দটিকে 'তাসখীর' থেকে নেন, অর্থাৎ একজনকে অন্যের কাজে নিয়োজিত করা; আর বাক্যটিকে পড়েন পারস্পরিক নিয়োগ হিসেবে, এক শ্রেণির অন্য শ্রেণির উপর মালিকানা হিসেবে নয়। ব্যাকরণটিই একে পারস্পরিক করে তোলে — তাদের কেউ, তাদেরই কারও — তাই রাজমিস্ত্রির দরকার কৃষককে, আর কৃষকের দরকার রাজমিস্ত্রিকে। পার্থক্যকে উপস্থাপন করা হয়েছে এই কারণ হিসেবে যে, মানুষ একা বাঁচতে পারে না।",
+          },
+        ],
+      },
+      {
+        h: { en: "Silver Roofs and Staircases", bn: "রুপার ছাদ ও সিঁড়ি" },
+        p: [
+          {
+            en: "If any doubt remained that rank in provision measures worth, the next verses remove it. 43:33 says that were it not that people would become one community, He would have given those who disbelieve in the Most Merciful houses with ceilings and staircases of silver, and 43:34 adds doors and couches. 43:35 calls the whole inventory the enjoyment of worldly life, and gives the Hereafter to the righteous.",
+            bn: "রিযিকের তারতম্য মানুষের মূল্য মাপে কি না, সে বিষয়ে কোনো সন্দেহ থাকলে পরের আয়াতগুলো তা দূর করে দেয়। 43:33 বলে, মানুষ যদি এক দলে পরিণত হওয়ার আশঙ্কা না থাকত, তবে যারা রহমানকে অস্বীকার করে তাদের ঘরের ছাদ ও সিঁড়ি তিনি রুপার করে দিতেন; আর 43:34 যোগ করে দরজা ও আসনের কথা। 43:35 গোটা তালিকাটিকে বলে পার্থিব জীবনের ভোগসামগ্রী, আর আখিরাতকে দেয় মুত্তাকীদের।",
+          },
+          {
+            en: "That is a striking thing to say. Silver ceilings were withheld from the deniers only because too many people would have been drawn to disbelief by the sight of them. Wealth is thereby described as something Allah is content to hand to those furthest from Him, and holds back for a reason that has nothing to do with their merit. It cannot then be a signal of standing with Him.",
+            bn: "কথাটি বেশ চমকপ্রদ। অস্বীকারকারীদের কাছ থেকে রুপার ছাদ কেবল এ কারণেই আটকে রাখা হয়েছে যে, তা দেখে বহু মানুষ কুফরির দিকে ঝুঁকে পড়ত। এভাবে সম্পদকে বর্ণনা করা হচ্ছে এমন বস্তু হিসেবে, যা আল্লাহ তাঁর থেকে সবচেয়ে দূরের মানুষদের হাতেও তুলে দিতে দ্বিধা করেন না, আর আটকে রাখেন এমন কারণে যার সঙ্গে তাদের যোগ্যতার কোনো সম্পর্ক নেই। কাজেই সম্পদ তাঁর কাছে মর্যাদার চিহ্ন হতে পারে না।",
+          },
+        ],
+      },
+      {
+        h: { en: "Better Than What They Gather", bn: "তারা যা জমায় তার চেয়ে উত্তম" },
+        p: [
+          {
+            en: "The verse ends where it began. It opened by asking whether they distribute the mercy of your Lord; it closes with wa rahmatu rabbika khayrun mimma yajma'un — and the mercy of your Lord is better than what they gather. The same phrase frames both ends, so the argument returns to its own first word after passing through livelihoods, ranks and service.",
+            bn: "আয়াতটি শেষ হয় সেখানেই যেখানে শুরু হয়েছিল। শুরুতে প্রশ্ন ছিল, তোমার প্রতিপালকের রহমত কি তারা বণ্টন করে; আর শেষ হয় — ওয়া রাহমাতু রাব্বিকা খাইরুম মিম্মা ইয়াজমা'ঊন, তোমার প্রতিপালকের রহমত তারা যা জমা করে তার চেয়ে উত্তম। একই শব্দবন্ধ দুই প্রান্তেই কাঠামো গড়ে, ফলে জীবিকা, মর্যাদা ও সেবার আলোচনা পেরিয়ে যুক্তিটি নিজের প্রথম শব্দে ফিরে আসে।",
+          },
+          {
+            en: "Yajma'un is a verb of heaping up, and it is what the objectors had been doing while they judged the Prophet ﷺ by his lack of it. The verse lets their standard stand for a moment and then simply outbids it. What they were gathering is real; it is also, on the verse's accounting, the lesser of the two things on the table, and the only one they cannot distribute.",
+            bn: "'ইয়াজমা'ঊন' হলো স্তূপ করে জমানোর ক্রিয়া, আর আপত্তিকারীরা ঠিক এ কাজটিই করছিল — যখন তারা নবী ﷺ-কে বিচার করছিল তাঁর এই জিনিসের অভাব দিয়ে। আয়াতটি তাদের মানদণ্ডকে এক মুহূর্তের জন্য টিকে থাকতে দেয়, তারপর সহজেই তার চেয়ে বেশি দর হাঁকে। তারা যা জমাচ্ছিল তা বাস্তব; কিন্তু আয়াতের হিসাবে তা টেবিলে থাকা দুটি জিনিসের মধ্যে ছোটটি — আর সেটিই একমাত্র জিনিস যা তারা বণ্টন করতে পারে না।",
+          },
+        ],
+      },
+      {
+        h: { en: "Living Inside the Division", bn: "বণ্টনের ভেতরে বাঁচা" },
+        p: [
+          {
+            en: "Read this way, the verse dismantles two habits at once. Envy loses its object, because the person above you in provision did not appoint himself there and has not been told he is preferred. And contempt loses its object too, since the person below you occupies a rank in the same temporary column, and the column was drawn by Someone else.",
+            bn: "এভাবে পড়লে আয়াতটি একসঙ্গে দুটি অভ্যাস ভেঙে দেয়। হিংসা তার লক্ষ্য হারায়, কারণ রিযিকে আপনার উপরে থাকা মানুষটি নিজে নিজেকে সেখানে বসায়নি, আর তাকে বলাও হয়নি যে সে অগ্রাধিকারপ্রাপ্ত। আর অবজ্ঞাও তার লক্ষ্য হারায়, কারণ আপনার নিচে থাকা মানুষটির অবস্থান একই সাময়িক কলামের ভেতরে — আর কলামটি এঁকেছেন অন্য কেউ।",
+          },
+          {
+            en: "What is left is the reason the verse gives for the differences: that people take one another into service. Needing help is written into the design, so asking for it is not a humiliation, and giving it is not a favour conferred from above. And the closing clause keeps the ranking honest by naming something that outranks every position in it.",
+            bn: "যা অবশিষ্ট থাকে তা হলো পার্থক্যের জন্য আয়াতের দেওয়া কারণটি: মানুষ যেন পরস্পরকে কাজে লাগাতে পারে। সাহায্যের প্রয়োজন এই পরিকল্পনারই অংশ, তাই তা চাওয়া অপমান নয়, আর তা দেওয়া উপর থেকে বর্ষিত অনুগ্রহও নয়। আর শেষ বাক্যটি গোটা ক্রমটিকে সৎ রাখে, কারণ তা এমন এক জিনিসের নাম বলে যা ওই ক্রমের প্রতিটি অবস্থানের চেয়ে উঁচু।",
+          },
+        ],
+      },
+    ],
+  },
+  '44:38': {
+    sections: [
+      {
+        h: { en: "Who Is Being Answered", bn: "কাদের জবাব দেওয়া হচ্ছে" },
+        p: [
+          {
+            en: "The verse is an answer, and the people it answers are quoted just above it. In 44:35 they say there is nothing but our first death and we will not be resurrected, and in 44:36 they demand: then bring back our forefathers, if you are truthful. 44:37 asks whether they are better than the people of Tubba' and those before them, who were destroyed.",
+            bn: "আয়াতটি একটি জবাব, আর যাদের জবাব দেওয়া হচ্ছে তাদের কথা ঠিক উপরেই উদ্ধৃত। 44:35 আয়াতে তারা বলে, আমাদের প্রথম মৃত্যুর পর আর কিছু নেই এবং আমরা পুনরুত্থিত হব না; আর 44:36 আয়াতে তারা দাবি করে: তবে আমাদের পূর্বপুরুষদের ফিরিয়ে আনো, যদি তোমরা সত্যবাদী হও। 44:37 প্রশ্ন করে, তারা কি তুব্বা'র সম্প্রদায় ও তাদের পূর্ববর্তীদের চেয়ে ভালো, যাদের ধ্বংস করা হয়েছিল।",
+          },
+          {
+            en: "Only then comes the denial that creation was play. So this is not a general meditation on the meaning of life. It is placed as evidence against a specific claim: that death is the end of the file. The reply does not argue about bodies and bones. It argues from the character of the Maker, and lets the conclusion about resurrection follow from that.",
+            bn: "এরপরই আসে এই অস্বীকৃতি যে সৃষ্টি খেলার জন্য ছিল। অর্থাৎ এটি জীবনের অর্থ নিয়ে সাধারণ কোনো ভাবনা নয়। এটি রাখা হয়েছে একটি নির্দিষ্ট দাবির বিরুদ্ধে প্রমাণ হিসেবে: মৃত্যুই ফাইলের শেষ। জবাবটি হাড় ও দেহ নিয়ে তর্কে যায় না। তা যুক্তি টানে স্রষ্টার স্বভাব থেকে, আর পুনরুত্থানের সিদ্ধান্তটিকে সেখান থেকেই বেরিয়ে আসতে দেয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Word Describes the Maker", bn: "শব্দটি স্রষ্টাকেই বর্ণনা করে" },
+        p: [
+          {
+            en: "La'ibin is a plural participle in the accusative, and grammatically it describes the state of the one acting, not the nature of the thing made. The sentence is not quite We did not create these as a game; it is We did not create them being players. The denial lands on the Maker's posture. What is ruled out is an attitude, and everything else follows from ruling it out.",
+            bn: "'লা'ইবীন' একটি বহুবচন কর্তৃবাচক বিশেষণ, নাসব অবস্থায়; ব্যাকরণগতভাবে এটি কর্তার অবস্থা বর্ণনা করে, সৃষ্ট বস্তুর প্রকৃতি নয়। বাক্যটির অর্থ ঠিক 'আমি এগুলোকে খেলা হিসেবে সৃষ্টি করিনি' নয়; বরং 'আমি খেলোয়াড় অবস্থায় এগুলো সৃষ্টি করিনি'। অস্বীকৃতিটি গিয়ে পড়ে স্রষ্টার ভঙ্গির উপর। যা বাতিল করা হচ্ছে তা একটি মনোভাব, আর বাকি সবকিছু সেই বাতিলকরণ থেকেই আসে।",
+          },
+          {
+            en: "The word occurs three times in the Quran. Twice it denies play in creation, here and at 21:16; the third, 21:55, is Ibrahim's (AS) people asking whether he has come to them with truth or is one of those who jest. In every case it is the seriousness of the speaker or the actor that is at issue, never the seriousness of the object.",
+            bn: "শব্দটি কুরআনে এসেছে তিনবার। দুবার তা সৃষ্টিতে খেলার কথা অস্বীকার করে — এখানে এবং 21:16 আয়াতে; তৃতীয়টি 21:55, যেখানে ইবরাহীম (আঃ)-এর সম্প্রদায় জিজ্ঞেস করে তিনি সত্য নিয়ে এসেছেন, নাকি তিনি তামাশাকারীদের একজন। প্রতিটি ক্ষেত্রেই প্রশ্নটি বক্তা বা কর্তার গাম্ভীর্য নিয়ে, কখনোই বস্তুটির গাম্ভীর্য নিয়ে নয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Sentence Is Not Finished", bn: "বাক্যটি এখানে শেষ নয়" },
+        p: [
+          {
+            en: "A denial on its own leaves a gap, and the next verse fills it. 44:39 says: We did not create them except in truth, but most of them do not know. The structure is a negation followed by an exception, so nothing is left hanging. Haqq here carries both senses the word holds in Arabic — what is true, and what is due.",
+            bn: "কেবল অস্বীকৃতি একটি শূন্যস্থান রেখে যায়, আর পরের আয়াত তা পূরণ করে। 44:39 বলে: আমি ও দুটিকে সত্য উদ্দেশ্য ছাড়া সৃষ্টি করিনি, কিন্তু তাদের অধিকাংশই তা জানে না। কাঠামোটি হলো অস্বীকৃতির পর ব্যতিক্রম, তাই কিছুই ঝুলে থাকে না। এখানে 'হক্ব' শব্দটি আরবিতে যে দুটি অর্থ ধরে রাখে দুটিই বহন করে — যা সত্য, আর যা প্রাপ্য।",
+          },
+          {
+            en: "Then 44:40 draws the conclusion the deniers had demanded: indeed the Day of Judgement is the appointed time for them all. Their request was for their forefathers now; the answer is that there is a fixed miqat for everyone and it is not on their schedule. Purposeful making, truth, and a dated appointment are laid down in three consecutive verses.",
+            bn: "এরপর 44:40 সেই সিদ্ধান্তে পৌঁছে যা অস্বীকারকারীরা দাবি করছিল: নিশ্চয়ই ফয়সালার দিনটিই তাদের সবার নির্ধারিত সময়। তাদের দাবি ছিল পূর্বপুরুষদের এখনই ফিরিয়ে আনা; জবাব হলো, সবার জন্য একটি নির্ধারিত 'মীক্বাত' আছে এবং তা তাদের সময়সূচি অনুযায়ী নয়। উদ্দেশ্যপূর্ণ সৃষ্টি, সত্য, আর তারিখ-নির্ধারিত সাক্ষাৎ — পরপর তিনটি আয়াতে এই তিনটি স্থাপন করা হয়েছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "What Play Would Have Meant", bn: "খেলা হলে যা দাঁড়াত" },
+        p: [
+          {
+            en: "It is worth asking what the denied alternative would actually involve. Play is action taken for the doing of it. It needs no result outside itself, it can be abandoned halfway without loss, and nothing that happens inside it is owed to anyone afterwards. A universe made in that spirit would have no reason to be finished and no reason to be assessed.",
+            bn: "যে বিকল্পটি অস্বীকার করা হলো, তা আসলে কী দাঁড়াত — সেটি জিজ্ঞেস করা দরকার। খেলা হলো এমন কাজ যা করার জন্যই করা হয়। এর বাইরে কোনো ফল দরকার হয় না, মাঝপথে ছেড়ে দিলেও কিছু হারায় না, আর এর ভেতরে যা ঘটে তার জন্য পরে কারও কাছে কোনো দায় থাকে না। সেই মেজাজে বানানো মহাবিশ্বের শেষ করার কোনো কারণ থাকত না, হিসাব নেওয়ারও নয়।",
+          },
+          {
+            en: "21:17 handles the same suggestion from another side: had We intended to take a diversion, We could have taken it from what is with Us. The point is that amusement would never have required a creation at all. Bringing an entire universe into being, and then a reckoning at the end of it, is precisely what play does not need and purpose does.",
+            bn: "21:17 আয়াত একই প্রস্তাবকে অন্য দিক থেকে সামলায়: আমি যদি খেলার বস্তু বানাতে চাইতাম, তবে আমার কাছে যা আছে তা থেকেই তা নিতাম। কথাটির মর্ম হলো, কৌতুকের জন্য আদৌ কোনো সৃষ্টির দরকার হতো না। একটি গোটা মহাবিশ্বকে অস্তিত্বে আনা, আর তারপর তার শেষে একটি হিসাব — এ জিনিস খেলার প্রয়োজন হয় না, উদ্দেশ্যের হয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Play Is Not Forbidden", bn: "খেলা নিষিদ্ধ নয়" },
+        p: [
+          {
+            en: "The verse is easy to misread as a verdict against enjoyment, and the Quran itself blocks that. 6:32 says the worldly life is nothing but amusement and diversion, and 57:20 expands the same description into a list. So the Book is willing to call this life a game. What it refuses to call a game is the making of it.",
+            bn: "আয়াতটিকে সহজেই আনন্দের বিরুদ্ধে রায় বলে ভুল পড়া যায়, আর কুরআন নিজেই সেই পথ আটকে দেয়। 6:32 বলে, দুনিয়ার জীবন খেল-তামাশা ছাড়া আর কিছু নয়; আর 57:20 একই বর্ণনাকে বিস্তৃত করে একটি তালিকায়। অর্থাৎ কিতাব এই জীবনকে খেলা বলতে রাজি। যাকে সে খেলা বলতে রাজি নয়, তা হলো এই জীবনের সৃষ্টিকর্ম।",
+          },
+          {
+            en: "The two statements fit together once the subject of each is noticed. 6:32 describes how the world behaves towards those living in it — brief, diverting, quickly over. 44:38 describes the intention behind its existence. A person can therefore hold the world lightly and hold his own life seriously, which is the exact combination the surah is arguing for.",
+            bn: "প্রতিটি বক্তব্যের কর্তা কে, তা লক্ষ করলেই দুটি মিলে যায়। 6:32 বর্ণনা করে দুনিয়া তার ভেতরে বসবাসকারীদের সঙ্গে কেমন আচরণ করে — সংক্ষিপ্ত, মনোহর, দ্রুত ফুরিয়ে যাওয়া। আর 44:38 বর্ণনা করে এর অস্তিত্বের পেছনের উদ্দেশ্য। তাই মানুষ দুনিয়াকে হালকাভাবে ধরতে পারে আর নিজের জীবনকে গুরুত্ব দিয়ে ধরতে পারে — সূরাটি ঠিক এই সমন্বয়ের পক্ষেই যুক্তি দিচ্ছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Standing Inside the Claim", bn: "দাবিটির ভেতরে দাঁড়িয়ে" },
+        p: [
+          {
+            en: "The verse speaks about the sky and the ground, but the person hearing it is standing between them. Whatever is said about the whole is said about every part, and the reader is a part. To accept the sentence about the heavens and refuse it about one's own week is to keep an exemption the verse never issued.",
+            bn: "আয়াতটি বলছে আসমান ও যমীনের কথা, কিন্তু যে শুনছে সে দাঁড়িয়ে আছে এ দুইয়ের মাঝখানে। গোটার সম্পর্কে যা বলা হয়, তা প্রতিটি অংশ সম্পর্কেও বলা হয় — আর পাঠক সেই অংশগুলোরই একটি। আসমান সম্পর্কে বাক্যটি মেনে নিয়ে নিজের সপ্তাহের ক্ষেত্রে তা অস্বীকার করা মানে এমন এক ছাড় ধরে রাখা, যা আয়াতটি কখনো দেয়নি।",
+          },
+          {
+            en: "In practice that shows up less in large decisions than in small ones. Time given away without noticing, work done to a standard nobody will check, an hour spent because it was easier than choosing. None of that is wickedness; it is simply the assumption 44:38 denies, applied to a small scale. The verse asks that the seriousness of the making be matched by the seriousness of the use.",
+            bn: "বাস্তবে এটি বড় সিদ্ধান্তে যতটা, ছোট সিদ্ধান্তে তার চেয়ে বেশি ধরা পড়ে। খেয়াল না করেই বিলিয়ে দেওয়া সময়, এমন মানে করা কাজ যা কেউ যাচাই করবে না, বেছে নেওয়ার চেয়ে সহজ বলেই কাটিয়ে দেওয়া একটি ঘণ্টা। এর কোনোটিই দুষ্কর্ম নয়; এগুলো কেবল সেই ধারণাটিই — যা 44:38 অস্বীকার করে — ছোট পরিসরে প্রয়োগ করা। আয়াতটি চায়, সৃষ্টির গাম্ভীর্যের সঙ্গে ব্যবহারের গাম্ভীর্য মিলুক।",
+          },
+        ],
+      },
+    ],
+  },
+  '48:4': {
+    sections: [
+      {
+        h: { en: "A Setback Called a Conquest", bn: "যে পিছুটানকে বিজয় বলা হলো" },
+        p: [
+          {
+            en: "Surah al-Fath opens with 48:1: indeed We have given you a clear conquest. What had just happened was a treaty, agreed at Hudaybiyyah on terms the Muslims found hard to accept, after they had set out for the Sacred House and were turned back without reaching it. The surah begins by naming that a victory. 48:2 and 48:3 add forgiveness, completed favour, guidance and aid.",
+            bn: "সূরা আল-ফাতহ শুরু হয় 48:1 দিয়ে: নিশ্চয়ই আমি তোমাকে দিয়েছি সুস্পষ্ট বিজয়। যা মাত্রই ঘটেছিল তা একটি সন্ধিচুক্তি, হুদাইবিয়ায় সম্পাদিত এমন শর্তে যা মুসলিমদের কাছে মেনে নেওয়া কঠিন ঠেকেছিল — তাঁরা বাইতুল্লাহর উদ্দেশে বেরিয়েছিলেন, কিন্তু সেখানে না পৌঁছেই ফিরতে হয়েছিল। সূরাটি শুরুতেই সেটিকে বিজয় বলে অভিহিত করে। 48:2 ও 48:3 এর সঙ্গে যোগ করে ক্ষমা, পূর্ণ অনুগ্রহ, হিদায়াত ও সাহায্য।",
+          },
+          {
+            en: "Then comes this verse, and it explains how a community was brought to accept an outcome it had not wanted. Nothing in the terms changed. What was sent down was not a better treaty; it was a settledness in the people who had to live with the one they had. That order — the situation first, the calm afterwards — is the whole shape of the verse.",
+            bn: "এরপর আসে এই আয়াতটি, আর তা ব্যাখ্যা করে কীভাবে একটি জাতিকে এমন পরিণতি মেনে নিতে সক্ষম করা হলো যা তারা চায়নি। শর্তগুলোর কিছুই বদলায়নি। যা নাযিল হয়েছিল তা উন্নততর কোনো চুক্তি নয়; তা ছিল সেই মানুষদের ভেতরে এক স্থিরতা, যাঁদের হাতে থাকা চুক্তিটি নিয়েই বাঁচতে হবে। এই ক্রমই — আগে পরিস্থিতি, পরে প্রশান্তি — আয়াতটির গোটা কাঠামো।",
+          },
+        ],
+      },
+      {
+        h: { en: "Into the Hearts, Not Upon Them", bn: "অন্তরের ভেতরে, উপরে নয়" },
+        p: [
+          {
+            en: "The word sakinah appears six times in the Quran: 2:248, 9:26, 9:40, 48:4, 48:18 and 48:26. Five of those six send it upon someone, or place it inside the ark that came to the Children of Israel. This verse alone says fi qulubi al-mu'minin — into the hearts of the believers. The preposition is different, and it is the only one that names the organ.",
+            bn: "'সাকীনাহ' শব্দটি কুরআনে এসেছে ছয়বার: 2:248, 9:26, 9:40, 48:4, 48:18 এবং 48:26। এর মধ্যে পাঁচটিতে তা কারও 'উপর' নাযিল হয়, কিংবা বনী ইসরাঈলের কাছে আসা সেই সিন্দুকের 'ভেতরে' রাখা হয়। কেবল এই আয়াতটিই বলে ফী কুলূবিল-মুমিনীন — মুমিনদের অন্তরের ভেতরে। এখানে অব্যয়টি ভিন্ন, আর কেবল এখানেই অঙ্গটির নাম নেওয়া হয়েছে।",
+          },
+          {
+            en: "That matters because the disturbance at Hudaybiyyah was not in the terms on paper; it was in chests. The believers had been promised the Sacred House and were riding home without it. A calm delivered upon a group would have been protection around them. A calm delivered into the heart is placed exactly where the objection was forming, in the same room as the doubt.",
+            bn: "এটি গুরুত্বপূর্ণ, কারণ হুদাইবিয়ার অস্থিরতা কাগজের শর্তে ছিল না, ছিল বুকের ভেতরে। মুমিনদের বাইতুল্লাহর প্রতিশ্রুতি দেওয়া হয়েছিল, অথচ তাঁরা তা ছাড়াই ফিরে আসছিলেন। কোনো দলের 'উপর' নাযিল হওয়া প্রশান্তি হতো তাঁদের চারপাশে একটি আবরণ। কিন্তু অন্তরের 'ভেতরে' পাঠানো প্রশান্তি ঠিক সেখানেই বসে, যেখানে আপত্তিটি তৈরি হচ্ছিল — সন্দেহের সঙ্গে একই ঘরে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Half the Occurrences, One Journey", bn: "অর্ধেক উল্লেখ, একটি সফর" },
+        p: [
+          {
+            en: "Three of the six belong to this surah, and all three to the same expedition. This verse covers the treaty; 48:18 records that Allah was pleased with the believers when they pledged allegiance under the tree, knew what was in their hearts, and sent down tranquility upon them; 48:26 sets it against the zeal of ignorance that the deniers had put in their own hearts.",
+            bn: "ছয়টির মধ্যে তিনটিই এই সূরার, আর তিনটিই একই সফরের। আলোচ্য আয়াতটি সন্ধিচুক্তি সম্পর্কিত; 48:18 লিপিবদ্ধ করে যে আল্লাহ মুমিনদের প্রতি সন্তুষ্ট হলেন যখন তাঁরা গাছের নিচে বায়'আত নিলেন, তিনি জানতেন তাঁদের অন্তরে কী আছে, আর তিনি তাঁদের উপর প্রশান্তি নাযিল করলেন; আর 48:26 একে দাঁড় করায় অস্বীকারকারীদের অন্তরে পোষা জাহেলি জেদের বিপরীতে।",
+          },
+          {
+            en: "A single journey therefore accounts for half of every use of the word in the Quran. The pattern in all of them is consistent: the sakinah arrives where a decision is being made under pressure and the outcome is not yet visible — a cave, a battlefield, a pledge, a treaty. It is not the reward of safety. It is what is given to people who must act without it.",
+            bn: "অর্থাৎ কুরআনে শব্দটির যত ব্যবহার, তার অর্ধেকই একটিমাত্র সফরের সঙ্গে জড়িত। সবগুলোতেই ধরনটি অভিন্ন: সাকীনাহ আসে সেখানে, যেখানে চাপের মুখে সিদ্ধান্ত নিতে হচ্ছে আর পরিণতি তখনো দেখা যাচ্ছে না — একটি গুহা, একটি রণাঙ্গন, একটি বায়'আত, একটি চুক্তি। এটি নিরাপত্তার পুরস্কার নয়; বরং যাঁদের নিরাপত্তা ছাড়াই কাজ করতে হয়, এটি তাঁদেরই দেওয়া হয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "What the Calm Was For", bn: "প্রশান্তিটি কীসের জন্য" },
+        p: [
+          {
+            en: "Alone among the six, this verse states a purpose: liyazdadu imanan ma'a imanihim, that they might increase in faith along with the faith they had. The wording is careful. It is not faith replacing an absence but faith added to a holding, so the sakinah is described as an increment on something already there rather than a rescue of something that had failed.",
+            bn: "ছয়টির মধ্যে কেবল এই আয়াতটিই একটি উদ্দেশ্য ঘোষণা করে: লিইয়াযদাদূ ঈমানাম মা'আ ঈমানিহিম — যাতে তাদের বিদ্যমান ঈমানের সঙ্গে ঈমান বেড়ে যায়। শব্দচয়নটি যত্নের। এটি শূন্যতার জায়গায় ঈমান বসানো নয়, বরং যা আছে তার সঙ্গে ঈমান যোগ করা; ফলে সাকীনাহকে বর্ণনা করা হচ্ছে আগে থেকে থাকা কিছুর উপর বৃদ্ধি হিসেবে, ব্যর্থ হয়ে যাওয়া কিছুর উদ্ধার হিসেবে নয়।",
+          },
+          {
+            en: "This is one of the plainest texts in the Quran for the position that faith rises and falls, and the classical scholars treated it as such — al-Bukhari gives the increase and decrease of faith a chapter of its own in the Book of Faith. It also supplies a test for any calm a believer feels. Sakinah is known by its effect, and the effect named here is more faith than before.",
+            bn: "ঈমান বাড়ে ও কমে — এই অবস্থানের পক্ষে কুরআনের স্পষ্টতম দলিলগুলোর একটি এটি, আর প্রাচীন আলিমগণ একে সেভাবেই গ্রহণ করেছেন; ইমাম বুখারী তাঁর 'কিতাবুল ঈমান'-এ ঈমানের বৃদ্ধি ও হ্রাসের জন্য আলাদা একটি অধ্যায় রেখেছেন। এটি মুমিনের অনুভূত যেকোনো প্রশান্তির জন্য একটি মানদণ্ডও দেয়। সাকীনাহ চেনা যায় তার ফল দিয়ে, আর এখানে ফল হিসেবে বলা হয়েছে আগের চেয়ে বেশি ঈমান।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Same Clause, Two Endings", bn: "একই বাক্য, দুই সমাপ্তি" },
+        p: [
+          {
+            en: "The verse then adds that to Allah belong the hosts of the heavens and the earth, and closes with 'Aliman Hakima, Knowing and Wise. Three verses later, 48:7 repeats that sentence about the hosts word for word and closes instead with 'Azizan Hakima, Exalted in Might and Wise. The same statement is made twice in one passage with two different names attached.",
+            bn: "এরপর আয়াতটি যোগ করে, আসমান ও যমীনের বাহিনী আল্লাহরই, আর শেষ হয় 'আলীমান হাকীমা — সর্বজ্ঞ, প্রজ্ঞাময় — এই নামে। তিন আয়াত পরে 48:7 বাহিনী সম্পর্কে সেই বাক্যটি হুবহু পুনরাবৃত্তি করে, কিন্তু শেষ হয় 'আযীযান হাকীমা — মহাপরাক্রমশালী, প্রজ্ঞাময় — এই নামে। একই বক্তব্য এক অংশে দুবার এসেছে, দুটি ভিন্ন নাম যুক্ত হয়ে।",
+          },
+          {
+            en: "The difference tracks what each one is answering. Here the subject is hearts, and hearts need to be known before they can be settled, so knowledge closes the verse. In 48:6 the subject is the hypocrites and the idolaters and what awaits them, and the might that can carry out such a promise closes 48:7. The armies are the same; what the reader needs to hear about them is not.",
+            bn: "পার্থক্যটি অনুসরণ করে, কোনটি কীসের জবাব দিচ্ছে। এখানে বিষয় হলো অন্তর, আর অন্তরকে শান্ত করার আগে জানা দরকার — তাই জ্ঞানের নামে আয়াতটি শেষ হয়। আর 48:6-এর বিষয় মুনাফিক ও মুশরিকরা এবং তাদের পরিণতি; তাই এমন প্রতিশ্রুতি বাস্তবায়নের ক্ষমতার নামেই 48:7 শেষ হয়। বাহিনী একই; পাঠকের তাদের সম্পর্কে কী শোনা দরকার, সেটিই আলাদা।",
+          },
+        ],
+      },
+      {
+        h: { en: "Asking for the Right Thing", bn: "সঠিক জিনিসটি চাওয়া" },
+        p: [
+          {
+            en: "The verse quietly corrects what people ask for under pressure. The natural prayer is for the circumstance to change, and at Hudaybiyyah it did not; the treaty stood as signed. What was given instead was the capacity to stand inside it without the heart coming apart. Both are gifts, but only one of them was sent down that day.",
+            bn: "চাপের মুখে মানুষ কী চায়, আয়াতটি নীরবে তা সংশোধন করে দেয়। স্বাভাবিক প্রার্থনা হলো পরিস্থিতি বদলে যাক; হুদাইবিয়ায় তা বদলায়নি — চুক্তি যেমন সই হয়েছিল তেমনই রইল। এর বদলে যা দেওয়া হলো তা হলো সেই অবস্থার ভেতরে অন্তর অটুট রেখে দাঁড়িয়ে থাকার সামর্থ্য। দুটিই দান, কিন্তু সেদিন এর একটিই নাযিল হয়েছিল।",
+          },
+          {
+            en: "And because the stated purpose was an increase in faith, the verse also gives a way to read one's own difficult seasons afterwards. The question is not whether the episode was pleasant, or even whether it ended as hoped. It is whether the person came out of it believing more than he did going in. That is what this sakinah was sent to produce.",
+            bn: "আর যেহেতু ঘোষিত উদ্দেশ্য ছিল ঈমানের বৃদ্ধি, আয়াতটি নিজের কঠিন সময়গুলোকে পরে কীভাবে পড়তে হবে তারও একটি উপায় দেয়। প্রশ্ন এই নয় যে ঘটনাটি সুখকর ছিল কি না, এমনকি এ-ও নয় যে তা প্রত্যাশা অনুযায়ী শেষ হলো কি না। প্রশ্ন হলো, মানুষটি সেখান থেকে বেরিয়ে এসেছে কি না আগের চেয়ে বেশি ঈমান নিয়ে। এই সাকীনাহ ঠিক সেটিই তৈরি করতে পাঠানো হয়েছিল।",
+          },
+        ],
+      },
+    ],
+  },
+  '56:60': {
+    sections: [
+      {
+        h: { en: "One Argument, Six Verses", bn: "একটি যুক্তি, ছয় আয়াত" },
+        p: [
+          {
+            en: "This verse is a step in an argument that begins at 56:57 and closes at 56:62. 56:57 states the thesis: We created you, so why do you not affirm the truth? 56:58 and 56:59 press it on the drop a man emits — is it you who creates it, or are We the Creator? Then death enters, and 56:62 closes: you have known the first creation, so will you not remember?",
+            bn: "এই আয়াতটি এমন এক যুক্তির ধাপ, যা শুরু হয় 56:57-এ আর শেষ হয় 56:62-এ। 56:57 মূল কথাটি রাখে: আমিই তোমাদের সৃষ্টি করেছি, তবে তোমরা সত্য মেনে নাও না কেন? 56:58 ও 56:59 সেটিকে চেপে ধরে মানুষের নির্গত শুক্রবিন্দুর প্রসঙ্গে — তোমরা কি তা সৃষ্টি কর, নাকি আমিই স্রষ্টা? এরপর আসে মৃত্যুর কথা, আর 56:62 শেষ করে: তোমরা প্রথম সৃষ্টি সম্পর্কে জেনেছ, তবু কি অনুধাবন করবে না?",
+          },
+          {
+            en: "56:63 then opens a fresh sign, the crops you sow, so the unit ends at 62. Reading the verse inside that unit changes it. It is not placed here as a meditation on mortality. It is the second exhibit in a case about who controls the beginning and the end of a life, offered to people who accepted the beginning and denied that there could be a second one.",
+            bn: "এরপর 56:63 নতুন একটি নিদর্শন শুরু করে — তোমরা যে ফসল বোনো, সেটির প্রসঙ্গ; তাই অংশটি ৬২ আয়াতেই শেষ। এই অংশের ভেতরে রেখে পড়লে আয়াতটির চেহারা বদলে যায়। এটি এখানে মৃত্যু নিয়ে ভাবনার জন্য বসানো হয়নি। এটি সেই মামলার দ্বিতীয় প্রমাণ, যার বিষয় হলো জীবনের শুরু ও শেষ কার হাতে — আর তা পেশ করা হয়েছে এমন মানুষদের সামনে, যারা শুরুটা মেনে নিয়েও দ্বিতীয় কোনো শুরুর সম্ভাবনা অস্বীকার করেছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "We Measured It Out", bn: "আমিই তা মেপে দিয়েছি" },
+        p: [
+          {
+            en: "Nahnu qaddarna baynakumu al-mawt. The pronoun nahnu is placed before the verb, and in Arabic that fronting restricts the act to the one named — the same pronoun that carried the challenge of 56:59, or are We the Creator. The verb is from qadar, to measure out an amount, rather than merely to permit or to schedule. What is claimed is not only that death happens but that its quantity was set.",
+            bn: "নাহনু কাদ্দারনা বাইনাকুমুল-মাউত। সর্বনাম 'নাহনু' বসানো হয়েছে ক্রিয়ার আগে, আর আরবিতে এই অগ্রবর্তন কাজটিকে কেবল উল্লিখিত সত্তার মধ্যেই সীমাবদ্ধ করে — এই একই সর্বনাম 56:59-এর চ্যালেঞ্জটিও বহন করেছিল: নাকি আমিই স্রষ্টা। ক্রিয়াপদটি এসেছে 'কাদার' থেকে, অর্থাৎ পরিমাণ মেপে দেওয়া; কেবল অনুমতি দেওয়া বা সময়সূচি ঠিক করা নয়। দাবিটি কেবল এই নয় যে মৃত্যু ঘটে, বরং এই যে তার পরিমাণ আগেই নির্ধারিত।",
+          },
+          {
+            en: "Baynakum, among you, is doing quiet work too. The decree is described as distributed across a population rather than fixed as one date for everybody. That is why the deaths around us arrive out of order, the old outliving the young, and why no pattern can be extracted from them. Each portion was measured separately, and the measuring was not published.",
+            bn: "'বাইনাকুম' অর্থাৎ 'তোমাদের মধ্যে' — এই শব্দটিও নীরবে কাজ করছে। ফয়সালাটিকে বর্ণনা করা হয়েছে একটি জনগোষ্ঠীর মধ্যে বণ্টিত হিসেবে, সবার জন্য একটিমাত্র তারিখ হিসেবে নয়। এ কারণেই আমাদের চারপাশের মৃত্যুগুলো ক্রম মেনে আসে না, বৃদ্ধ বেঁচে থাকেন তরুণের চেয়ে বেশি, আর এ কারণেই এর ভেতর থেকে কোনো নিয়ম বের করা যায় না। প্রতিটি ভাগ আলাদাভাবে মাপা হয়েছে, আর সেই মাপ প্রকাশ করা হয়নি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Nobody Gets in Front", bn: "কেউ আগে যেতে পারে না" },
+        p: [
+          {
+            en: "Wa ma nahnu bimasbuqin. Masbuq is the passive participle of sabaqa, to get ahead of, to outstrip, to arrive first. So the clause denies that anything can get in front of Him in this matter — not by evading the appointment, not by bringing it forward, not by outrunning it. The image is a race in which one competitor cannot be overtaken.",
+            bn: "ওয়া মা নাহনু বিমাসবূক্বীন। 'মাসবূক' হলো 'সাবাকা' ক্রিয়ার কর্মবাচ্য বিশেষণ, যার অর্থ আগে বেড়ে যাওয়া, ছাড়িয়ে যাওয়া, আগে পৌঁছানো। অর্থাৎ বাক্যটি অস্বীকার করে যে এ বিষয়ে কেউ তাঁর আগে যেতে পারে — নির্ধারিত সময় এড়িয়ে নয়, তা এগিয়ে এনে নয়, তাকে ছাড়িয়ে দৌড়েও নয়। ছবিটি এমন এক দৌড়ের, যেখানে এক প্রতিযোগীকে কোনোভাবেই পেছনে ফেলা যায় না।",
+          },
+          {
+            en: "It is worth noticing what the clause does not say. It does not say death is unavoidable, which everyone already grants; the deniers in this passage had just insisted that death is the only certainty there is. It says that the One who set it cannot be forestalled. The subject of the sentence is not our helplessness. It is His unhindered reach.",
+            bn: "বাক্যটি যা বলে না, সেটিও লক্ষণীয়। এটি বলে না যে মৃত্যু অনিবার্য — সে কথা তো সবাই মানে; এই অংশের অস্বীকারকারীরা মাত্রই জোর দিয়ে বলেছিল, মৃত্যুই একমাত্র নিশ্চিত ব্যাপার। এটি বলে, যিনি তা নির্ধারণ করেছেন তাঁকে ঠেকানো যায় না। বাক্যটির বিষয়বস্তু আমাদের অসহায়ত্ব নয়; বিষয়বস্তু হলো তাঁর অবাধ নাগাল।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Sentence Crosses the Break", bn: "বাক্যটি আয়াতের সীমা পেরোয়" },
+        p: [
+          {
+            en: "The verse stops, but the sentence does not. 56:61 begins 'ala an nubaddila amthalakum wa nunshi'akum fi ma la ta'lamun, and that opening attaches directly to masbuqin: We cannot be prevented from changing your likenesses and bringing you into being in what you do not know. The claim about death is only the first half of a claim about replacement.",
+            bn: "আয়াতটি থামে, কিন্তু বাক্যটি থামে না। 56:61 শুরু হয় 'আলা আন নুবাদ্দিলা আমছালাকুম ওয়া নুনশিআকুম ফী মা লা তা'লামূন — আর এই সূচনা সরাসরি যুক্ত হয় 'মাসবূক্বীন'-এর সঙ্গে: তোমাদের সদৃশ সত্তাগুলো বদলে দেওয়া আর তোমরা যা জান না এমন রূপে তোমাদের সৃষ্টি করা থেকে আমাকে ঠেকানো যায় না। মৃত্যু সম্পর্কিত দাবিটি আসলে প্রতিস্থাপন সম্পর্কিত একটি দাবির প্রথমার্ধ মাত্র।",
+          },
+          {
+            en: "The commentators read that continuation in two ways: that one generation is exchanged for others like it, and that the same people are remade in a form they have no experience of. Either way death has become a hinge rather than a wall. The verse the deniers would have quoted against resurrection turns out, when its sentence is allowed to finish, to be an argument for it.",
+            bn: "মুফাসসিরগণ এই ধারাবাহিকতাকে দুভাবে পড়েন: এক প্রজন্মকে তাদেরই মতো অন্যদের দিয়ে বদলে দেওয়া, এবং সেই একই মানুষদেরই এমন এক রূপে নতুন করে গড়া যার কোনো অভিজ্ঞতা তাদের নেই। যেভাবেই পড়া হোক, মৃত্যু তখন দেয়াল নয়, কব্জা হয়ে ওঠে। যে আয়াতটিকে অস্বীকারকারীরা পুনরুত্থানের বিরুদ্ধে উদ্ধৃত করত, বাক্যটিকে শেষ হতে দিলে সেটিই হয়ে দাঁড়ায় পুনরুত্থানের পক্ষে যুক্তি।",
+          },
+        ],
+      },
+      {
+        h: { en: "What Is Closed and What Is Open", bn: "যা বন্ধ আর যা খোলা" },
+        p: [
+          {
+            en: "Two variables are on the table and the verse settles one of them. The length is measured out and cannot be argued with; 35:11 says the same thing from the other side, that no lifespan is extended or shortened except that it is in a register. Effort spent on that variable is spent on a closed account, however sincerely it is spent.",
+            bn: "টেবিলে দুটি চলক আছে, আর আয়াতটি তার একটির নিষ্পত্তি করে দেয়। আয়ু মেপে দেওয়া, তা নিয়ে তর্কের সুযোগ নেই; 35:11 অন্য দিক থেকে একই কথা বলে — কারও আয়ু বাড়ানো বা কমানো হয় না, তা কিতাবে লেখা থাকা ছাড়া। এই চলকের পেছনে ব্যয় করা প্রচেষ্টা যত আন্তরিকই হোক, তা ব্যয় হয় একটি বন্ধ হিসাবে।",
+          },
+          {
+            en: "The other variable is untouched by the decree. What is carried to the appointment was never fixed in advance, and the same passage that closes the first opens the second by asking whether we will remember. The certainty of the end is presented as clarifying rather than crushing: one question is answered for us so that our attention can go to the one that is not.",
+            bn: "অন্য চলকটিতে এই ফয়সালা হাত দেয়নি। সেই নির্ধারিত সাক্ষাতে কে কী নিয়ে যাবে, তা আগে থেকে ঠিক করা ছিল না; আর যে অংশটি প্রথম চলকটি বন্ধ করে দেয়, সেই অংশই 'তোমরা কি অনুধাবন করবে না' জিজ্ঞেস করে দ্বিতীয়টি খুলে দেয়। সমাপ্তির নিশ্চয়তাকে উপস্থাপন করা হয়েছে ভেঙে দেওয়ার বদলে স্পষ্ট করে দেওয়া কিছু হিসেবে: একটি প্রশ্নের উত্তর আমাদের হয়ে দিয়ে দেওয়া হয়েছে, যাতে মনোযোগ যেতে পারে সেই প্রশ্নটির দিকে যার উত্তর দেওয়া হয়নি।",
+          },
+        ],
+      },
+    ],
+  },
+  '58:7': {
+    sections: [
+      {
+        h: { en: "A Surah That Begins in Private", bn: "যে সূরার শুরু গোপনে" },
+        p: [
+          {
+            en: "Surah al-Mujadilah opens at 58:1 with Allah declaring that He has heard the speech of a woman who was disputing with the Prophet ﷺ about her husband and directing her complaint to Allah, and adds that He hears the exchange between the two of them. A conversation held by two people is reported back to them in revelation before the surah has said anything else.",
+            bn: "সূরা আল-মুজাদালাহ শুরু হয় 58:1 দিয়ে, যেখানে আল্লাহ ঘোষণা করেন যে তিনি সেই নারীর কথা শুনেছেন যিনি তাঁর স্বামীর বিষয়ে নবী ﷺ-এর সঙ্গে বাদানুবাদ করছিলেন এবং আল্লাহর কাছে অভিযোগ পেশ করছিলেন; আর যোগ করা হয় যে তিনি তাঁদের দুজনের কথোপকথনও শোনেন। সূরাটি অন্য কিছু বলার আগেই, দুজন মানুষের একটি আলাপ ওহীর মাধ্যমে তাঁদেরই কাছে ফিরিয়ে জানিয়ে দেওয়া হয়।",
+          },
+          {
+            en: "By the time we reach this verse the same fact has become a general law. What was granted to one woman in one difficulty is stated as the standing condition of every private conference anyone will ever hold. The surah moves from a particular case to a rule, which is the ordinary direction of Quranic legislation, and here the rule concerns who is listening.",
+            bn: "আলোচ্য আয়াতে পৌঁছাতে পৌঁছাতে সেই একই সত্য একটি সাধারণ বিধানে পরিণত হয়। এক নারীকে এক দুর্দশায় যা দেওয়া হয়েছিল, তা এখন ঘোষিত হচ্ছে যেকোনো মানুষের যেকোনো গোপন পরামর্শের স্থায়ী অবস্থা হিসেবে। সূরাটি একটি নির্দিষ্ট ঘটনা থেকে বিধানের দিকে এগোয় — কুরআনি বিধানের এটিই স্বাভাবিক গতি — আর এখানে বিধানটি এই নিয়ে যে, শুনছেন কে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Knowledge on Both Sides", bn: "দুই প্রান্তেই জ্ঞান" },
+        p: [
+          {
+            en: "The verse opens by saying that Allah knows what is in the heavens and what is on the earth, and it closes by saying that Allah is Knowing of all things. Between those two statements of knowledge sits the clause about His being with them wherever they are. The frame is not decorative; it tells the reader how the middle is to be understood.",
+            bn: "আয়াতটি শুরু হয় এই কথা দিয়ে যে, আসমানে যা আছে আর যমীনে যা আছে আল্লাহ সব জানেন; আর শেষ হয় এই কথা দিয়ে যে, আল্লাহ সকল বিষয়ে অবগত। জ্ঞানের এই দুই ঘোষণার মাঝখানে বসে আছে সেই বাক্যটি — তারা যেখানেই থাকুক তিনি তাদের সঙ্গে আছেন। কাঠামোটি অলংকার নয়; এটিই পাঠককে জানায় মাঝের অংশটি কীভাবে বুঝতে হবে।",
+          },
+          {
+            en: "The classical commentators are settled on the reading the frame requires: the withness here is one of knowledge, hearing and seeing, not of mixture with creation. The same construction is used at 57:4, and in both places the clause is fenced by knowledge before it and awareness after it. The verse defines its own terms, and it does so twice over.",
+            bn: "প্রাচীন মুফাসসিরগণ কাঠামোটি যে পাঠ দাবি করে সেটিতেই স্থির: এখানে 'সঙ্গে থাকা' মানে জ্ঞান, শ্রবণ ও দর্শনের সঙ্গে থাকা, সৃষ্টির সঙ্গে মিশে যাওয়া নয়। একই গঠন ব্যবহৃত হয়েছে 57:4 আয়াতে, আর দুই জায়গাতেই বাক্যটির আগে জ্ঞান ও পরে অবগতির বেড়া দেওয়া। আয়াতটি নিজের পরিভাষা নিজেই নির্ধারণ করে দেয়, আর তা করে দুবার।",
+          },
+        ],
+      },
+      {
+        h: { en: "What the Verse Counts", bn: "আয়াতটি যা গোনে" },
+        p: [
+          {
+            en: "Count what is actually named. The verse gives two group sizes and two positions: three, and He is their fourth; five, and He is their sixth. Then it closes both directions at once with a pair of negations — no fewer than that and no more. Two numbers are stated and every other number in existence is swept in behind them.",
+            bn: "আসলে কী কী নাম নেওয়া হয়েছে, তা গুনে দেখুন। আয়াতটি দুটি দলের আকার ও দুটি অবস্থান দেয়: তিনজন, আর তিনি তাদের চতুর্থজন; পাঁচজন, আর তিনি তাদের ষষ্ঠজন। তারপর দুটি অস্বীকৃতি দিয়ে একসঙ্গে দুই দিকই বন্ধ করে দেয় — এর কমও নয়, বেশিও নয়। দুটি সংখ্যার নাম নেওয়া হয়, আর অস্তিত্বের বাকি সব সংখ্যা তাদের পিছু পিছু ভেতরে ঢুকে পড়ে।",
+          },
+          {
+            en: "The counting is what makes the verse concrete. A statement that Allah knows everything is easy to hold at a distance. A statement that a meeting of three has a fourth present in it is not, because it puts a number on the room you were in yesterday. The smallest group the verse names is three, so its subject is never a solitary person; it is people together.",
+            bn: "এই গণনাই আয়াতটিকে বাস্তব করে তোলে। 'আল্লাহ সবকিছু জানেন' — এমন কথা দূর থেকে ধরে রাখা সহজ। কিন্তু 'তিনজনের বৈঠকে একজন চতুর্থ উপস্থিত থাকেন' — এ কথা দূরে রাখা যায় না, কারণ তা গতকাল আপনি যে ঘরে ছিলেন সেটির উপর একটি সংখ্যা বসিয়ে দেয়। আয়াতটি সবচেয়ে ছোট যে দলের নাম নেয় তা তিনজনের; তাই এর বিষয় কখনোই একাকী কোনো মানুষ নয় — এর বিষয় একত্র হওয়া মানুষ।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Only Other Verse", bn: "একমাত্র অন্য আয়াতটি" },
+        p: [
+          {
+            en: "The words rabi'uhum and sadisuhum, their fourth and their sixth, occur in only one other place in the Quran. 18:22 has people arguing over the sleepers of the cave: they will say three, the fourth of them their dog, and they will say five, the sixth of them their dog. The counting formula is identical, down to the two numbers chosen.",
+            bn: "'রাবি'উহুম' ও 'সাদিসুহুম' — তাদের চতুর্থজন ও তাদের ষষ্ঠজন — এই শব্দ দুটি কুরআনে আর মাত্র একটি জায়গায় এসেছে। 18:22 আয়াতে মানুষ গুহাবাসীদের সংখ্যা নিয়ে তর্ক করছে: কেউ বলবে তারা ছিল তিনজন, চতুর্থটি তাদের কুকুর; আর কেউ বলবে তারা ছিল পাঁচজন, ষষ্ঠটি তাদের কুকুর। গণনার ছাঁচটি হুবহু এক, এমনকি বেছে নেওয়া দুটি সংখ্যাও এক।",
+          },
+          {
+            en: "And 18:22 labels that counting as guessing at the unseen, then tells the Prophet ﷺ to say that his Lord knows their number best. So the Quran uses the same formula twice: once for human beings speculating about a hidden matter and getting it wrong, and once for Allah stating His own presence in every hidden matter. The contrast between the two is the point.",
+            bn: "আর 18:22 সেই গণনাকে চিহ্নিত করে অদৃশ্য বিষয়ে অনুমান হিসেবে, তারপর নবী ﷺ-কে বলতে বলে যে তাঁর প্রতিপালকই তাদের সংখ্যা সবচেয়ে ভালো জানেন। অর্থাৎ কুরআন একই ছাঁচ দুবার ব্যবহার করে: একবার মানুষের জন্য, যারা গোপন বিষয়ে অনুমান করে ভুল করে; আর একবার আল্লাহর জন্য, যিনি প্রতিটি গোপন বিষয়ে নিজের উপস্থিতি ঘোষণা করেন। এই দুইয়ের বৈসাদৃশ্যই মূল কথা।",
+          },
+        ],
+      },
+      {
+        h: { en: "Najwa Is Not the Problem", bn: "গোপন পরামর্শ নিজে সমস্যা নয়" },
+        p: [
+          {
+            en: "Najwa, private conference, occurs eleven times in the Quran, and five of those are in this surah: 58:7, 58:8, 58:10, 58:12 and 58:13. This is where the Book legislates on secret talk, and its ruling is not that believers should stop holding it. 58:9 tells them that when they confer privately they must not confer about sin, aggression and disobedience to the Messenger, but about righteousness and taqwa.",
+            bn: "'নাজওয়া' অর্থাৎ গোপন পরামর্শ কুরআনে এসেছে এগারো বার, আর তার পাঁচটিই এই সূরায়: 58:7, 58:8, 58:10, 58:12 এবং 58:13। গোপন আলাপ নিয়ে কিতাব এখানেই বিধান দেয়, আর সেই বিধান এই নয় যে মুমিনরা গোপন পরামর্শ বন্ধ করে দেবে। 58:9 তাদের বলে, যখন তারা গোপনে পরামর্শ করে তখন যেন পাপ, সীমালঙ্ঘন ও রাসূলের অবাধ্যতার পরামর্শ না করে, বরং সৎকর্ম ও তাকওয়ার পরামর্শ করে।",
+          },
+          {
+            en: "So the fourth of every three is not there to abolish privacy. Councils, confidences and closed rooms are all left standing; what the passage regulates is their content. 58:8 shows the alternative in action, describing people forbidden from such talk who return to it and confer about sin and aggression, and who greet the Prophet ﷺ with words Allah does not use to greet him.",
+            bn: "তাই প্রতি তিনজনের চতুর্থজন থাকার কথা গোপনীয়তা বিলুপ্ত করার জন্য নয়। পরামর্শসভা, বিশ্বাসের কথা ও বন্ধ ঘর — সবই বহাল থাকে; অংশটি নিয়ন্ত্রণ করে সেগুলোর বিষয়বস্তু। 58:8 বিকল্পটিকে কাজে দেখায়: যাদের এমন আলাপ থেকে নিষেধ করা হয়েছিল তারা আবার তাতেই ফিরে যায়, পাপ ও সীমালঙ্ঘনের পরামর্শ করে, আর নবী ﷺ-কে এমন কথায় অভিবাদন জানায় যা দিয়ে আল্লাহ তাঁকে অভিবাদন জানান না।",
+          },
+        ],
+      },
+      {
+        h: { en: "Then He Will Inform Them", bn: "তারপর তিনি জানিয়ে দেবেন" },
+        p: [
+          {
+            en: "Thumma yunabbi'uhum bima 'amilu yawma al-qiyamah — then He will inform them of what they did, on the Day of Resurrection. Thumma opens a gap between the knowing and the telling, and the whole of a life fits inside that gap. 58:6, immediately before, has already said that Allah enumerated their deeds while they themselves forgot them.",
+            bn: "ছুম্মা ইউনাব্বিউহুম বিমা 'আমিলূ ইয়াওমাল-ক্বিয়ামাহ — তারপর কিয়ামতের দিন তিনি তাদের জানিয়ে দেবেন তারা কী করেছিল। 'ছুম্মা' শব্দটি জানা ও জানানোর মাঝখানে একটি ব্যবধান খুলে দেয়, আর গোটা একটি জীবন সেই ব্যবধানের ভেতরে এঁটে যায়। ঠিক আগের আয়াত 58:6 আগেই বলেছে, আল্লাহ তাদের আমল গুনে রেখেছেন, অথচ তারা নিজেরাই তা ভুলে গেছে।",
+          },
+          {
+            en: "Notice the last shift: the verse began with talk and ends with deeds, what they did rather than what they said. A private conference is where things are decided before they are done, so the record of the room is filed under actions. That is where the verse becomes usable — not as a rule against whispering, but as a question about what your meetings decide.",
+            bn: "শেষ মোড়টি লক্ষ করুন: আয়াতটি শুরু হয়েছিল কথা দিয়ে, শেষ হয় আমল দিয়ে — তারা কী বলেছিল নয়, কী করেছিল। গোপন পরামর্শ সেই জায়গা যেখানে কাজ করার আগেই সিদ্ধান্ত নেওয়া হয়, তাই সেই ঘরের নথি জমা পড়ে কাজের খাতায়। এখানেই আয়াতটি কাজে লাগে — ফিসফিসানির বিরুদ্ধে কোনো নিয়ম হিসেবে নয়, বরং এই প্রশ্ন হিসেবে যে আপনার বৈঠকগুলো কী সিদ্ধান্ত নেয়।",
+          },
+        ],
+      },
+    ],
+  },
+  '60:8': {
+    sections: [
+      {
+        h: { en: "A Surah of Severed Ties", bn: "সম্পর্ক ছিন্ন হওয়ার সূরা" },
+        p: [
+          {
+            en: "Al-Mumtahanah opens in 60:1 by forbidding the believers to take the enemies of Allah as allies, and it keeps that register: 60:4 holds up Ibrahim (AS) and those with him as an example of open disassociation from their own people. Then 60:7 turns and offers hope, that perhaps Allah will place affection between you and those you have treated as enemies. Severity and hope are both already on the page when 60:8 arrives immediately after that promise.",
+            bn: "সূরা আল-মুমতাহিনা শুরু হয় 60:1 দিয়ে, যেখানে মুমিনদের নিষেধ করা হয় আল্লাহর শত্রুদের বন্ধুরূপে গ্রহণ করতে; আর সূরাটি সেই কঠোর সুর ধরে রাখে — 60:4-এ ইবরাহীম (আঃ) ও তাঁর সঙ্গীদের তুলে ধরা হয় নিজের জাতি থেকে প্রকাশ্যে বিচ্ছিন্ন হওয়ার আদর্শ হিসেবে। এরপর 60:7 মোড় ঘুরিয়ে আশার কথা বলে: হয়তো আল্লাহ তোমাদের ও যাদের সঙ্গে তোমাদের শত্রুতা, তাদের মধ্যে ভালোবাসা সৃষ্টি করে দেবেন। কঠোরতা ও আশা — দুটোই পাতায় উপস্থিত, আর ঠিক সেই প্রতিশ্রুতির পরেই আসে 60:8।",
+          },
+          {
+            en: "The wording is not a fresh command. It is a negated prohibition: la yanhakumu Allahu, Allah does not forbid you. A sentence built that way answers a question somebody was already asking. Believers who had just been told to cut their alliances with a hostile Makkah needed to know how far the cutting ran, and whether ordinary decency toward peaceable relatives and neighbours had now become a fault. This verse clears them, and it names exactly whom it clears.",
+            bn: "আয়াতটির গঠন কোনো নতুন আদেশ নয়। এটি একটি নেতিবাচক নিষেধাজ্ঞা: লা ইয়ানহাকুমুল্লাহু — আল্লাহ তোমাদের নিষেধ করেন না। এভাবে গড়া বাক্য এমন প্রশ্নের উত্তর দেয় যা কেউ ইতিমধ্যেই করছিল। যেসব মুমিনকে সবেমাত্র বলা হয়েছে শত্রুভাবাপন্ন মক্কার সঙ্গে বন্ধুত্ব ছিন্ন করতে, তাঁদের জানা দরকার ছিল এই ছিন্নতা কত দূর যায় — শান্তিপ্রিয় আত্মীয় ও প্রতিবেশীর সঙ্গে সাধারণ শিষ্টাচারও কি এখন অপরাধ? আয়াতটি তাঁদের নিষ্কৃতি দেয়, এবং কাদের দেয় তা স্পষ্ট করে বলে দেয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Birr and Qist", bn: "বির্র ও কিস্‌ত" },
+        p: [
+          {
+            en: "Two things are permitted, and the Arabic names them with two different vocabularies. Tabarruhum comes from birr, the warm word the Quran uses for what is owed to parents: 19:14 describes Yahya (AS) as barran toward his parents, and in 19:32 Isa (AS) says the same of himself toward his mother. Wa tuqsitu ilayhim comes from qist, the cold word of weights, shares and verdicts. Warmth and measurement are cleared in a single breath.",
+            bn: "দুটি জিনিসের অনুমতি দেওয়া হয়েছে, আর আরবি সে দুটিকে নাম দেয় দুই ভিন্ন শব্দভাণ্ডার থেকে। 'তাবার্রূহুম' এসেছে বির্র থেকে — কুরআন যে উষ্ণ শব্দটি পিতামাতার হক বোঝাতে ব্যবহার করে: 19:14-এ ইয়াহইয়া (আঃ)-কে বলা হয়েছে পিতামাতার প্রতি 'বাররান', আর 19:32-এ ঈসা (আঃ) নিজের মায়ের প্রতি নিজের সম্পর্কে একই কথা বলেন। আর 'ওয়া তুক্‌সিতূ ইলাইহিম' এসেছে কিস্‌ত থেকে — ওজন, ভাগ ও রায়ের শীতল শব্দ। উষ্ণতা ও পরিমাপ, দুটোরই অনুমতি এক নিঃশ্বাসে।",
+          },
+          {
+            en: "That root has a striking property. In its plain form it means to deviate and act crookedly: the jinn in 72:14 divide themselves into the Muslims among them and al-qasitun, and 72:15 says the qasitun are firewood for Hell. The fourth form used here, aqsata, reverses the sense into giving people their due. The verse uses that fourth form twice, in the verb tuqsitu and again in the closing word, al-muqsitin, those who act justly.",
+            bn: "এই মূলধাতুটির একটি লক্ষণীয় বৈশিষ্ট্য আছে। সাধারণ রূপে এর অর্থ বাঁকা পথে যাওয়া ও অন্যায় করা: 72:14-এ জিনেরা নিজেদের ভাগ করে বলে, আমাদের মধ্যে মুসলিমও আছে, আর আছে 'আল-কাসিতূন'; আর 72:15 বলে, সেই কাসিতূনরা জাহান্নামের ইন্ধন। কিন্তু এখানে ব্যবহৃত চতুর্থ বাব 'আক্‌সাতা' অর্থ উল্টে দিয়ে দাঁড় করায় — মানুষকে তার প্রাপ্য দেওয়া। আয়াতটি এই চতুর্থ রূপ দুবার ব্যবহার করে: ক্রিয়াপদ 'তুক্‌সিতূ'-তে, আর শেষ শব্দ 'আল-মুক্‌সিতীন'-এ — যারা ন্যায়বিচার করে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Line Drawn Next", bn: "পরের আয়াতে টানা সীমারেখা" },
+        p: [
+          {
+            en: "The verse must be read with the one that follows it. 60:9 comes immediately after and uses the restrictive innama: Allah only forbids you, concerning those who fought you over religion, drove you from your homes and backed your expulsion, that you take them as allies. Read as a pair, the two verses sort people by conduct rather than by creed, and what 60:9 forbids is one specific thing, tawalli, alliance and patronage, not decency and not fairness.",
+            bn: "আয়াতটি পড়তে হবে তার পরের আয়াতের সঙ্গে মিলিয়ে। ঠিক পরেই আসা 60:9 ব্যবহার করে সীমাবদ্ধকারী শব্দ 'ইন্নামা': আল্লাহ কেবল তাদের ব্যাপারেই নিষেধ করেন — যারা দীনের কারণে তোমাদের সঙ্গে যুদ্ধ করেছে, তোমাদের ঘর থেকে বের করেছে ও বের করায় সাহায্য করেছে — তাদের বন্ধুরূপে গ্রহণ করতে। জোড়া হিসেবে পড়লে দুই আয়াত মানুষকে ভাগ করে আচরণ দিয়ে, বিশ্বাস দিয়ে নয়; আর 60:9 নিষেধ করে একটি নির্দিষ্ট জিনিস — 'তাওয়াল্লী', অর্থাৎ মৈত্রী ও পৃষ্ঠপোষকতা — সদাচরণ বা ন্যায়বিচার নয়।",
+          },
+          {
+            en: "So the permission is neither unqualified nor narrow. It is bounded by a description the verse states for itself: those who did not fight you over religion and did not expel you. Some early commentators held that a later command to fight overrode this verse; at-Tabari reads it as standing and general. Either way the Quran keeps the principle elsewhere, since 5:8 forbids letting hatred of a people push you away from justice at all.",
+            bn: "কাজেই অনুমতিটি না শর্তহীন, না সংকীর্ণ। এর সীমা টেনে দিয়েছে আয়াতের নিজেরই বর্ণনা: যারা দীনের কারণে তোমাদের সঙ্গে যুদ্ধ করেনি এবং তোমাদের বের করে দেয়নি। প্রাচীন কিছু মুফাসসির মনে করতেন, পরবর্তী যুদ্ধের নির্দেশ এই আয়াতকে রহিত করেছে; ইমাম তাবারী একে বহাল ও সাধারণ হিসেবেই পড়েন। যেভাবেই দেখা হোক, কুরআন নীতিটি অন্যত্রও ধরে রাখে — 5:8 নিষেধ করে কোনো জাতির প্রতি বিদ্বেষ যেন তোমাদের ন্যায়বিচার থেকে একটুও সরিয়ে না দেয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Asma and Her Mother", bn: "আসমা ও তাঁর মা" },
+        p: [
+          {
+            en: "Al-Bukhari and Muslim narrate from Asma bint Abi Bakr (RA) that her mother came to her while still a polytheist, during the period of the treaty, and Asma asked the Prophet ﷺ whether she should keep ties with her. He told her to keep ties with her mother. The mufassirun regularly set this report beside our verse, and it is the verse in miniature: one named person, one real relationship, and the answer yes.",
+            bn: "ইমাম বুখারী ও ইমাম মুসলিম আসমা বিনতে আবু বকর (রাঃ) থেকে বর্ণনা করেন যে সন্ধির সময়কালে তাঁর মা — তখনো মুশরিক — তাঁর কাছে আসেন, আর আসমা নবী ﷺ-কে জিজ্ঞেস করেন, তিনি কি তাঁর সঙ্গে আত্মীয়তার সম্পর্ক রাখবেন। নবী ﷺ তাঁকে মায়ের সঙ্গে সম্পর্ক বজায় রাখতে বলেন। মুফাসসিরগণ নিয়মিতভাবে এই বর্ণনাটি এই আয়াতের পাশে রাখেন, আর এটি যেন আয়াতটিরই ক্ষুদ্র সংস্করণ: একজন নির্দিষ্ট মানুষ, একটি বাস্তব সম্পর্ক, আর উত্তর — হ্যাঁ।",
+          },
+        ],
+      },
+      {
+        h: { en: "Those Whom He Loves", bn: "যাদের তিনি ভালোবাসেন" },
+        p: [
+          {
+            en: "The verse ends on a clause the Quran repeats. Inna Allaha yuhibbu al-muqsitin also closes 5:42, where the Prophet ﷺ is told that if he judges between them he must judge with justice, and it closes 49:9, on reconciling two warring parties of believers. Three settings — a courtroom, a quarrel inside the community, and dealings with outsiders — and one identical ending. The love is attached to the conduct, not to the standing of whoever receives it.",
+            bn: "আয়াতটি শেষ হয় এমন এক বাক্যাংশে যা কুরআন একাধিকবার বলে। 'ইন্নাল্লাহা ইউহিব্বুল মুক্‌সিতীন' 5:42-এর শেষেও আছে, যেখানে নবী ﷺ-কে বলা হয়েছে তিনি যদি তাদের মধ্যে বিচার করেন তবে ন্যায়ের সঙ্গেই করবেন; আর তা শেষ করে 49:9-কেও, যা মুমিনদের দুই বিবদমান দলের মধ্যে মীমাংসার কথা বলে। তিনটি প্রেক্ষাপট — আদালত, সম্প্রদায়ের ভেতরের ঝগড়া, আর বাইরের মানুষের সঙ্গে লেনদেন — আর শেষটি একই। ভালোবাসা যুক্ত আচরণের সঙ্গে, যে তা পাচ্ছে তার মর্যাদার সঙ্গে নয়।",
+          },
+          {
+            en: "Muslim narrates from Abdullah ibn Amr (RA) that the Prophet ﷺ said those who are just will be with Allah upon pulpits of light: those who are just in their judgement, with their families, and in what they are given charge of. Notice where the hadith places justice. It is not confined to a bench. It follows a person home, and the household is listed alongside the courtroom as somewhere the same quality is either practised or dropped.",
+            bn: "ইমাম মুসলিম আবদুল্লাহ ইবনে আমর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: ন্যায়পরায়ণরা আল্লাহর কাছে নূরের মিম্বরের উপর থাকবে — যারা তাদের বিচারে, তাদের পরিবারে এবং যা তাদের দায়িত্বে দেওয়া হয়েছে তাতে ন্যায় করে। লক্ষ করুন হাদীসটি ন্যায়বিচারকে কোথায় রাখে। এটি কেবল বিচারাসনে সীমাবদ্ধ নয়। এটি মানুষের সঙ্গে ঘর পর্যন্ত যায়, আর পরিবারকে আদালতের পাশেই রাখা হয় — একই গুণ সেখানেও হয় পালিত হয়, নয়তো পরিত্যক্ত হয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Where It Bites Now", bn: "আজ এটি কোথায় লাগে" },
+        p: [
+          {
+            en: "Few readers will ever sign a treaty, but this verse's test is easy to run. Take someone whose beliefs you hold to be false and who has never harmed you: a neighbour, a colleague, a landlord, a relative who left the religion. The verse says two things about them. You are cleared to be warm, and you are bound to be exact, because the qist that governs wages, receipts, inheritance shares and testimony does not shift with the other party's faith.",
+            bn: "খুব কম পাঠকই কখনো কোনো সন্ধিপত্রে সই করবেন, তবু এই আয়াতের পরীক্ষাটি সহজেই চালানো যায়। এমন কাউকে ভাবুন যার বিশ্বাসকে আপনি ভুল মনে করেন, অথচ যে কখনো আপনার ক্ষতি করেনি: একজন প্রতিবেশী, একজন সহকর্মী, বাড়িওয়ালা, কিংবা দীন ছেড়ে যাওয়া কোনো আত্মীয়। আয়াতটি তাদের সম্পর্কে দুটি কথা বলে। উষ্ণ হওয়ার অনুমতি আপনার আছে, আর নির্ভুল হওয়া আপনার দায়িত্ব — কারণ মজুরি, রসিদ, উত্তরাধিকারের ভাগ ও সাক্ষ্য যে কিস্‌ত দিয়ে চলে, তা অপর পক্ষের ধর্ম দেখে বদলায় না।",
+          },
+        ],
+      },
+    ],
+  },
+  '69:19': {
+    sections: [
+      {
+        h: { en: "The Day of Exhibition", bn: "প্রদর্শনের দিন" },
+        p: [
+          {
+            en: "Surah al-Haqqah has been building a scene. One blast on the Horn in 69:13, the earth and the mountains lifted and crushed in a single blow in 69:14, the sky split apart in 69:16, and eight bearing the Throne of your Lord in 69:17. Then 69:18 turns from the sky to the crowd standing under it: that Day you will be exhibited, and nothing of yours that was concealed stays hidden. Our verse is the first individual voice heard after that sentence.",
+            bn: "সূরা আল-হাক্কাহ ধাপে ধাপে একটি দৃশ্য গড়ে তুলছিল। 69:13-এ শিঙায় একটিমাত্র ফুঁক, 69:14-এ যমীন ও পাহাড়গুলোকে তুলে নিয়ে এক আঘাতে চূর্ণ করা, 69:16-এ আকাশ ফেটে যাওয়া, আর 69:17-এ আটজন বহন করছে আপনার প্রতিপালকের আরশ। এরপর 69:18 আকাশ থেকে মুখ ফিরিয়ে নিচে দাঁড়ানো ভিড়ের দিকে তাকায়: সেদিন তোমাদের হাজির করা হবে, আর তোমাদের গোপন কিছুই গোপন থাকবে না। এই বাক্যের পর প্রথম যে একক কণ্ঠস্বর শোনা যায়, সেটিই আমাদের আয়াত।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Word Said Once", bn: "একবারই বলা একটি শব্দ" },
+        p: [
+          {
+            en: "The first thing he says is a word that occurs nowhere else in the Quran: ha'umu. It is not a statement at all but a word of offering, what a person says while holding something out, and the grammarians gloss it as khudhu, take. And it is plural. One man has been handed one document, and the first sound out of him is addressed to a crowd. The verse does not say who the crowd is.",
+            bn: "সে প্রথম যে কথাটি বলে, তাতে এমন একটি শব্দ আছে যা কুরআনে আর কোথাও নেই: 'হা-উমু'। এটি আদৌ কোনো বিবৃতি নয়, বরং এগিয়ে দেওয়ার শব্দ — কিছু হাতে বাড়িয়ে ধরে মানুষ যা বলে; ব্যাকরণবিদরা এর অর্থ করেন 'খুযূ', অর্থাৎ নাও। আর শব্দটি বহুবচন। একজন মানুষের হাতে একটি দলিল দেওয়া হয়েছে, আর তার মুখ থেকে প্রথম যে শব্দটি বের হয় তা একদল লোককে সম্বোধন করে বলা। সেই দল কারা, আয়াত তা বলে না।",
+          },
+          {
+            en: "That plural carries the emotional content of the verse. The record in his hand holds exactly what 69:18 has just said cannot be concealed, and his response to its contents becoming public is to hurry the reading along. People hide what would shame them; this man is not waiting to be exposed, he is distributing. Whatever is written there, he already knows what it says, and he is content for strangers to know it too.",
+            bn: "এই বহুবচনটিই আয়াতের আবেগ বহন করে। তার হাতের আমলনামায় ঠিক সেই জিনিসগুলোই আছে, 69:18 যেগুলো সম্পর্কে সবেমাত্র বলেছে যে সেগুলো লুকানো যাবে না; আর সেগুলো প্রকাশ্য হয়ে পড়ছে দেখে তার প্রতিক্রিয়া হলো পড়াটা তাড়াতাড়ি করার তাগাদা দেওয়া। মানুষ তা-ই লুকায় যা তাকে লজ্জা দেবে; এই লোকটি ধরা পড়ার অপেক্ষা করছে না, সে নিজেই বিলি করছে। সেখানে যা-ই লেখা থাকুক, সে আগে থেকেই জানে কী লেখা আছে, আর অচেনা মানুষও তা জানুক — এতে তার আপত্তি নেই।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Silent Ha", bn: "নীরব 'হা'" },
+        p: [
+          {
+            en: "The last word is kitabiyah, my record, and it ends on a ha that is not part of the word. Arabic calls it the ha' as-sakt, a letter added at a pause so the voice can rest. It is written into the mushaf here and it recurs through the passage: kitabiyah and hisabiyah in 69:19 and 69:20, both again in 69:25 and 69:26, then maliyah in 69:28 and sultaniyah in 69:29 — six times inside eleven verses.",
+            bn: "শেষ শব্দটি 'কিতাবিয়াহ' — আমার আমলনামা — আর তা শেষ হয় এমন একটি 'হা' দিয়ে যা শব্দটির অংশ নয়। আরবিতে এর নাম 'হা-উস সাক্‌ত' — থামার সময় কণ্ঠকে বিশ্রাম দেওয়ার জন্য যোগ করা একটি অক্ষর। এখানে তা মুসহাফে লিখিত আছে এবং এই অংশ জুড়ে বারবার ফিরে আসে: 69:19 ও 69:20-তে 'কিতাবিয়াহ' ও 'হিসাবিয়াহ', আবার 69:25 ও 69:26-তে সে দুটিই, তারপর 69:28-এ 'মালিয়াহ' এবং 69:29-এ 'সুলতানিয়াহ' — এগারো আয়াতের ভেতরে ছয়বার।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Counterpart at 69:25", bn: "69:25-এর বিপরীত ছবি" },
+        p: [
+          {
+            en: "Six verses later the same sentence is built again with everything reversed. 69:19 begins fa-amma man utiya kitabahu bi-yaminihi; 69:25 begins wa-amma man utiya kitabahu bi-shimalihi. The right hand becomes the left. And the two speeches end on the identical word: this man says ha'umu iqra'u kitabiyah, while the other says ya laytani lam uta kitabiyah, I wish I had not been given my record.",
+            bn: "ছয় আয়াত পরে একই বাক্য আবার গড়া হয়, তবে সবকিছু উল্টে দিয়ে। 69:19 শুরু হয় 'ফাআম্মা মান ঊতিয়া কিতাবাহু বিয়ামীনিহ' দিয়ে; 69:25 শুরু হয় 'ওয়া আম্মা মান ঊতিয়া কিতাবাহু বিশিমালিহ' দিয়ে। ডান হাত হয়ে যায় বাম হাত। আর দুটি কথাই শেষ হয় একই শব্দে: এই লোকটি বলে 'হা-উমু ইক্‌রাঊ কিতাবিয়াহ', আর অন্যজন বলে 'ইয়া লাইতানী লাম ঊতা কিতাবিয়াহ' — হায়, আমাকে যদি আমার আমলনামা না দেওয়া হতো।",
+          },
+          {
+            en: "So it is one Day, and the document is the same kind of document. Nothing differs except what is written in it, and what is written in it was supplied earlier. The Quran describes the same handing over elsewhere with another detail: 84:7 has the record given in the right hand, and 84:10 has it given from behind the back. In every version the record arrives. The only variable is which sentence the person then says.",
+            bn: "কাজেই দিনটি একটিই, আর দলিলটিও একই ধরনের দলিল। এর ভেতরে কী লেখা আছে তা ছাড়া আর কিছুই আলাদা নয় — আর যা লেখা আছে, তা সরবরাহ করা হয়েছিল আরও আগে। কুরআন এই একই হস্তান্তরের বর্ণনা অন্যত্র আরেকটি বিবরণসহ দেয়: 84:7-এ আমলনামা দেওয়া হয় ডান হাতে, আর 84:10-এ দেওয়া হয় পিঠের পেছন দিক থেকে। প্রতিটি বর্ণনাতেই আমলনামা এসে পৌঁছায়। কেবল বদলায় এটুকু — মানুষটি এরপর কোন বাক্যটি উচ্চারণ করে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Why He Is Confident", bn: "তার এই নিশ্চিন্ততা কেন" },
+        p: [
+          {
+            en: "69:20 gives his reason in a single sentence: inni zanantu anni mulaqin hisabiyah, indeed I was certain that I would meet my account. The verb zanna usually covers supposition, and the commentators point out that here it carries its other sense, firm conviction, which is how this app renders it. He is not saying that he suspected a reckoning might come. He is saying that he lived as a man who knew it would.",
+            bn: "69:20 তার কারণটি জানায় একটিমাত্র বাক্যে: 'ইন্নী যানানতু আন্নী মুলাকিন হিসাবিয়াহ' — নিশ্চয়ই আমি নিশ্চিত ছিলাম যে আমাকে আমার হিসাবের সম্মুখীন হতে হবে। 'যান্না' ক্রিয়াটি সাধারণত অনুমান বোঝায়, আর মুফাসসিরগণ উল্লেখ করেন যে এখানে তা তার অন্য অর্থটি বহন করছে — দৃঢ় প্রত্যয়; এই অ্যাপের অনুবাদও সেভাবেই করেছে। সে বলছে না যে হিসাব হতে পারে বলে তার সন্দেহ ছিল। সে বলছে, সে এমন মানুষের মতো বেঁচেছে যে জানত হিসাব হবেই।",
+          },
+          {
+            en: "69:24 then completes the logic. The people of the garden are told: eat and drink in satisfaction for what you put forth in the days past. Bima aslaftum uses the language of sending goods on ahead of yourself. Nothing in the passage suggests that the joy of our verse was manufactured on the spot. It is the ordinary relief of a man collecting something he dispatched long ago and had not forgotten sending.",
+            bn: "এরপর 69:24 যুক্তিটি সম্পূর্ণ করে। জান্নাতবাসীদের বলা হয়: বিগত দিনগুলোতে তোমরা যা আগে পাঠিয়েছ তার বিনিময়ে তৃপ্তির সঙ্গে খাও ও পান করো। 'বিমা আসলাফতুম' শব্দবন্ধটি নিজের আগে পণ্য পাঠিয়ে দেওয়ার ভাষা ব্যবহার করে। এই অংশের কোথাও ইঙ্গিত নেই যে আমাদের আয়াতের আনন্দটি সেখানেই হঠাৎ তৈরি হয়েছে। এটি সেই সাধারণ স্বস্তি, যা অনুভব করে এমন একজন মানুষ যে বহু আগে পাঠানো কিছু সংগ্রহ করছে এবং পাঠানোর কথা ভোলেনি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Writing It Now", bn: "এখনই তা লেখা" },
+        p: [
+          {
+            en: "The verse offers a test that does not require imagining the Hereafter at all. Take one ordinary day and ask which parts of it you would hand to a stranger to read. The distance between that answer and the whole day is the work. What makes this man shout is not that his record is spotless, since 69:20 never claims that; it is that he expected to meet it, lived accordingly, and 69:24 says his ease was earned in days now past.",
+            bn: "আয়াতটি এমন একটি পরীক্ষা দেয় যার জন্য আখিরাত কল্পনা করারও দরকার নেই। যেকোনো একটি সাধারণ দিন নিন এবং জিজ্ঞেস করুন, তার কোন অংশগুলো আপনি একজন অচেনা মানুষের হাতে পড়তে দিতে পারতেন। সেই উত্তর আর গোটা দিনটির মধ্যেকার ব্যবধানটুকুই আসল কাজ। এই লোকটি যে চেঁচিয়ে ওঠে তার কারণ এই নয় যে তার আমলনামা নিষ্কলঙ্ক — 69:20 তেমন দাবি কখনোই করে না; কারণ হলো সে হিসাবের মুখোমুখি হওয়ার প্রত্যাশা রাখত, সেভাবেই বেঁচেছে, আর 69:24 বলছে তার এই স্বস্তি অর্জিত হয়েছে বিগত দিনগুলোতেই।",
+          },
+        ],
+      },
+    ],
+  },
+  '72:18': {
+    sections: [
+      {
+        h: { en: "Where the Verse Sits", bn: "আয়াতটি কোথায় বসে আছে" },
+        p: [
+          {
+            en: "Surah al-Jinn opens with the report of a company of jinn who heard the Quran, and from 72:16 onwards the surah runs a chain of clauses opening with anna, that. That if they had kept straight on the way, abundant water would have been given them. 72:17 then breaks the pattern to add a purpose and a warning: whoever turns away from the remembrance of his Lord will be put into arduous punishment. Then this one. The commentators differ over where the jinn's own report ends and the address to the Prophet ﷺ begins.",
+            bn: "সূরা আল-জিন শুরু হয় একদল জিনের বিবরণ দিয়ে, যারা কুরআন শুনেছিল; আর 72:16 থেকে সূরাটি একের পর এক এমন বাক্য চালায় যেগুলো শুরু হয় 'আন্না' — অর্থাৎ 'এই যে' — দিয়ে। এই যে, তারা সোজা পথে অবিচল থাকলে তাদের প্রচুর পানি দেওয়া হতো। 72:17 সেই ধারা ছেড়ে যোগ করে উদ্দেশ্য ও সতর্কবাণী: যে তার প্রতিপালকের স্মরণ থেকে মুখ ফিরিয়ে নেয়, তাকে কঠিন শাস্তিতে ঢোকানো হবে। তারপর এই আয়াতটি। জিনদের নিজেদের বিবরণ কোথায় শেষ হয়েছে আর নবী ﷺ-কে সম্বোধন কোথায় শুরু হয়েছে, তা নিয়ে মুফাসসিরগণের মতভেদ আছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Word Al-Masajid", bn: "'আল-মাসাজিদ' শব্দটি" },
+        p: [
+          {
+            en: "Al-masajid is the plural of masjid, an Arabic noun of place built from sajada, to prostrate: the place where prostration happens. The plural appears six times in the Quran. 2:114 condemns those who prevent Allah's name being mentioned in them, 2:187 mentions retreat inside them, 9:17 and 9:18 speak of who may tend them, and 22:40 lists them after monasteries, churches and synagogues. In those five the reference is plainly to buildings.",
+            bn: "'আল-মাসাজিদ' হলো 'মাসজিদ'-এর বহুবচন — 'সাজাদা' (সিজদা করা) থেকে গঠিত আরবি স্থানবাচক বিশেষ্য, অর্থাৎ যেখানে সিজদা হয় সেই জায়গা। বহুবচন রূপটি কুরআনে ছয়বার এসেছে। 2:114 তাদের নিন্দা করে যারা সেখানে আল্লাহর নাম স্মরণে বাধা দেয়, 2:187-এ আসে সেখানে ই'তিকাফের কথা, 9:17 ও 9:18 বলে কারা সেগুলোর রক্ষণাবেক্ষণ করতে পারে, আর 22:40 সেগুলোর নাম নেয় খ্রিষ্টান সন্ন্যাসাশ্রম, গির্জা ও ইহুদি উপাসনালয়ের পরে। এই পাঁচ জায়গায় ইঙ্গিত স্পষ্টভাবেই ইমারতের দিকে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Classical Readings", bn: "প্রাচীন ব্যাখ্যাগুলো" },
+        p: [
+          {
+            en: "Here the mufassirun record more than one reading, and the tradition has never collapsed them into one. The most widespread takes the word as it reads in those other five places: the buildings raised for the worship of Allah, all of them, which is why this verse is carved on so many mosque walls. A second reading narrows it to al-Masjid al-Haram in particular, since the people first addressed circled that house while calling on names other than Allah.",
+            bn: "এখানে মুফাসসিরগণ একাধিক ব্যাখ্যা লিপিবদ্ধ করেছেন, আর ঐতিহ্য কখনোই সেগুলোকে একটিতে মিলিয়ে ফেলেনি। সবচেয়ে প্রচলিত ব্যাখ্যা শব্দটিকে ওই পাঁচ জায়গার মতোই ধরে: আল্লাহর ইবাদতের জন্য নির্মিত ইমারতসমূহ, সবগুলোই — এ কারণেই আয়াতটি এত মসজিদের দেয়ালে খোদাই করা থাকে। দ্বিতীয় ব্যাখ্যা একে সংকুচিত করে বিশেষভাবে মসজিদুল হারামে, কারণ যাদের উদ্দেশে কথাটি প্রথম বলা হয়, তারা সেই ঘর তাওয়াফ করত আল্লাহ ছাড়া অন্য নাম ডাকতে ডাকতে।",
+          },
+          {
+            en: "A third reading leaves architecture behind altogether. On that view al-masajid are the places of prostration on the body itself, the limbs a person sets on the ground when he goes down. A fourth takes the word as the acts or the occasions of prostration rather than any location at all. These are not ranked here, because the classical works do not rank them uniformly, and because each of them arrives at the same prohibition in the second half of the verse.",
+            bn: "তৃতীয় ব্যাখ্যা ইমারতের প্রসঙ্গ পুরোপুরি ছেড়ে দেয়। সেই পাঠ অনুযায়ী 'আল-মাসাজিদ' হলো দেহেরই সিজদার জায়গাগুলো — সিজদায় যাওয়ার সময় মানুষ যে অঙ্গগুলো মাটিতে রাখে। চতুর্থ ব্যাখ্যা শব্দটিকে কোনো স্থান নয়, বরং সিজদার কাজ বা সময় হিসেবে নেয়। এখানে এগুলোর কোনো ক্রম নির্ধারণ করা হচ্ছে না, কারণ প্রাচীন গ্রন্থগুলোও এক অভিন্ন ক্রম দেয় না, আর কারণ প্রতিটি ব্যাখ্যাই আয়াতের দ্বিতীয়ার্ধে গিয়ে একই নিষেধাজ্ঞায় পৌঁছায়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Seven Bones", bn: "সাতটি হাড়" },
+        p: [
+          {
+            en: "The third reading rests on a hadith. Al-Bukhari and Muslim narrate from Ibn Abbas (RA) that the Prophet ﷺ said he had been commanded to prostrate on seven bones: the forehead, and he pointed with his hand to his nose, the two hands, the two knees, and the ends of the two feet. Read into our verse, that turns the sentence portable. If the places of prostration are parts of you, then what belongs to Allah is not left behind at the door.",
+            bn: "তৃতীয় ব্যাখ্যাটি দাঁড়িয়ে আছে একটি হাদীসের উপর। ইমাম বুখারী ও ইমাম মুসলিম ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আমাকে সাতটি হাড়ের উপর সিজদা করার নির্দেশ দেওয়া হয়েছে — কপাল, আর তিনি হাত দিয়ে নিজের নাকের দিকে ইশারা করলেন, দুই হাত, দুই হাঁটু এবং দুই পায়ের অগ্রভাগ। এই ব্যাখ্যা আয়াতের ভেতরে বসালে বাক্যটি বহনযোগ্য হয়ে যায়। সিজদার জায়গাগুলো যদি আপনারই অঙ্গ হয়, তবে যা আল্লাহর, তা দরজার বাইরে ফেলে আসা হয় না।",
+          },
+        ],
+      },
+      {
+        h: { en: "Do Not Call Anyone With Him", bn: "তাঁর সঙ্গে কাউকে ডেকো না" },
+        p: [
+          {
+            en: "The second half is a consequence drawn from the first. The Arabic states a plain fact — the masajid are for Allah — and then comes fa, and so: do not call upon anyone along with Allah. The object is ahadan, indefinite, and an indefinite noun under a negation in Arabic means not one, of any kind whatever. The verse does not forbid calling on a particular rival that the audience had in mind. It forbids the entire category.",
+            bn: "আয়াতের দ্বিতীয়ার্ধ প্রথমার্ধ থেকে টানা একটি পরিণতি। আরবি প্রথমে একটি সরল সত্য ঘোষণা করে — মাসজিদগুলো আল্লাহর জন্য — তারপর আসে 'ফা', অর্থাৎ 'কাজেই': আল্লাহর সঙ্গে অন্য কাউকে ডেকো না। কর্মপদটি 'আহাদান', যা অনির্দিষ্ট; আর আরবিতে নেতিবাচক বাক্যে অনির্দিষ্ট বিশেষ্যের অর্থ দাঁড়ায় — একজনও নয়, কোনো ধরনেরই নয়। আয়াতটি শ্রোতাদের মনে থাকা কোনো নির্দিষ্ট প্রতিদ্বন্দ্বীকে ডাকতে নিষেধ করছে না। এটি গোটা শ্রেণিটিকেই নিষেধ করছে।",
+          },
+          {
+            en: "Notice the verb. Tad'u is from du'a, calling and asking, which is wider than the prescribed prayer. Notice too that the prohibition is not phrased as instead of Allah but ma'a Allah, along with Allah, so the failure being closed off is the addition rather than the substitution. 72:20 then puts the same vocabulary into the Prophet's own mouth: say, I call only upon my Lord, and I do not associate anyone with Him.",
+            bn: "ক্রিয়াপদটি লক্ষ করুন। 'তাদ্‌ঊ' এসেছে 'দুআ' থেকে — ডাকা ও চাওয়া, যা নির্ধারিত সালাতের চেয়ে ব্যাপক। আরও লক্ষ করুন, নিষেধাজ্ঞাটি 'আল্লাহর পরিবর্তে' বলে নয়, বলা হয়েছে 'মাআল্লাহ' — আল্লাহর সঙ্গে; কাজেই যে ভুলটি বন্ধ করা হচ্ছে তা প্রতিস্থাপন নয়, বরং সংযোজন। এরপর 72:20 একই শব্দভাণ্ডার তুলে দেয় স্বয়ং নবী ﷺ-এর মুখে: বলো, আমি কেবল আমার প্রতিপালককেই ডাকি, আর তাঁর সঙ্গে কাউকে শরিক করি না।",
+          },
+        ],
+      },
+      {
+        h: { en: "Inside and Outside", bn: "ইমারতের ভেতরে ও বাইরে" },
+        p: [
+          {
+            en: "The readings converge on one discipline. Inside the building it is the easier half: a mosque is not a place to be seen in, to lobby in, or to attach one's hopes in to any name but His. Outside it the third reading keeps the question open all day — the same limbs, the same Owner, and the same question about where the heart's asking actually goes at the moment it wants something badly.",
+            bn: "ব্যাখ্যাগুলো এসে মেলে একটিই অনুশীলনে। ইমারতের ভেতরে অংশটি সহজতর: মসজিদ এমন জায়গা নয় যেখানে নিজেকে দেখানো যায়, দলবাজি করা যায়, কিংবা তাঁর নাম ছাড়া অন্য কোনো নামে আশা বাঁধা যায়। আর বাইরে গেলে তৃতীয় ব্যাখ্যাটি প্রশ্নটিকে সারা দিন খোলা রাখে — সেই একই অঙ্গ, সেই একই মালিক, আর সেই একই প্রশ্ন: যে মুহূর্তে হৃদয় তীব্রভাবে কিছু চায়, তখন তার চাওয়াটি আসলে কোথায় যায়।",
+          },
+        ],
+      },
+    ],
+  },
+  '74:38': {
+    sections: [
+      {
+        h: { en: "Where the Sentence Falls", bn: "বাক্যটি কোথায় পড়ে" },
+        p: [
+          {
+            en: "The verse arrives at a hinge in Surah al-Muddaththir. Oaths are sworn by the moon, by the night as it departs and by the morning as it brightens, and then 74:35 says that the Fire is one of the greatest of matters. 74:36 calls it a warning to humanity, and 74:37 narrows that to whoever among you wills to go forward or to hang back. That is a sentence about choice. Ours states what the choice costs, in five Arabic words.",
+            bn: "আয়াতটি এসে দাঁড়ায় সূরা আল-মুদ্দাসসিরের এক সন্ধিক্ষণে। শপথ করা হয় চাঁদের, বিদায় নেওয়া রাতের এবং উজ্জ্বল হয়ে ওঠা প্রভাতের; এরপর 74:35 বলে, সেই আগুন মহা বিষয়গুলোর একটি। 74:36 একে বলে মানুষের জন্য সতর্কবাণী, আর 74:37 তা সংকুচিত করে তার দিকে — তোমাদের মধ্যে যে এগিয়ে যেতে চায় বা পিছিয়ে থাকতে চায়। ওটি পছন্দ সম্পর্কে একটি বাক্য। আমাদের আয়াতটি পাঁচটি আরবি শব্দে বলে দেয়, সেই পছন্দের মূল্য কী।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Pledge Held in Hand", bn: "হাতে ধরা বন্ধক" },
+        p: [
+          {
+            en: "Rahinah comes from a root that occurs three times in the whole Quran, and one of the other two fixes its meaning. 2:283 is the commercial occurrence: a traveller who cannot find a scribe to write down the contract may instead give a pledge taken in hand. That is a real object, deposited by a debtor, held by the creditor, and released only when the debt is discharged. This verse takes that word and applies it to the person.",
+            bn: "'রাহীনাহ' এসেছে এমন এক মূলধাতু থেকে যা গোটা কুরআনে তিনবার এসেছে, আর অন্য দুটির একটি এর অর্থ পাকা করে দেয়। 2:283 হলো বাণিজ্যিক প্রয়োগ: সফরে থাকা যে ব্যক্তি চুক্তি লিখে দেওয়ার মতো কোনো লেখক পায় না, সে বদলে হাতে-নেওয়া বন্ধক দিতে পারে। সেটি একটি বাস্তব বস্তু — ঋণগ্রহীতা জমা রাখে, পাওনাদার ধরে রাখে, আর ঋণ শোধ হলেই কেবল তা ছাড়া পায়। এই আয়াত সেই শব্দটিই নিয়ে এসে মানুষের উপর প্রয়োগ করে।",
+          },
+          {
+            en: "That is a harder image than it first sounds. The pledge in a loan is something other than the borrower — a ring, a garment, a beast. Here the thing deposited and the borrower are the same. A person is not said to owe something; a person is said to be the security, held against an account that his own hands are still writing. Nothing is being seized from him. He is what is being held.",
+            bn: "চিত্রটি প্রথম শোনায় যতটা মনে হয়, তার চেয়ে কঠিন। ঋণের বন্ধক সাধারণত ঋণগ্রহীতার থেকে আলাদা কিছু — একটি আংটি, একটি কাপড়, একটি পশু। এখানে যা জমা রাখা হচ্ছে আর যে ঋণ নিচ্ছে, দুটি একই। বলা হচ্ছে না যে মানুষ কিছু ঋণী; বলা হচ্ছে, মানুষ নিজেই জামানত — এমন এক হিসাবের বিপরীতে ধরে রাখা, যে হিসাব তার নিজের হাতই এখনো লিখে চলেছে। তার কাছ থেকে কিছু কেড়ে নেওয়া হচ্ছে না। সে নিজেই সেই ধরে রাখা জিনিস।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Word That Differs at 52:21", bn: "52:21-এ যে শব্দটি আলাদা" },
+        p: [
+          {
+            en: "52:21 makes almost the same statement with three words changed. There it reads kullu imri'in bima kasaba rahin; here it reads kullu nafsin bima kasabat rahinah. The subject moves from imru', a man, to nafs, a soul, and the predicate takes a feminine ending, rahinah rather than rahin, because nafs is feminine in Arabic. The verb of earning follows the same agreement: kasaba there, kasabat here. The rule is one rule, stated twice.",
+            bn: "52:21 প্রায় একই কথা বলে, তবে তিনটি শব্দ বদলে। সেখানে আছে 'কুল্লুম্‌রিইন বিমা কাসাবা রাহীন'; এখানে আছে 'কুল্লু নাফসিম বিমা কাসাবাত রাহীনাহ'। উদ্দেশ্য বদলে যায় 'ইমরুউন' — একজন পুরুষ — থেকে 'নাফস' — একটি প্রাণ — এ; আর বিধেয় নেয় স্ত্রীবাচক প্রত্যয়, 'রাহীন'-এর বদলে 'রাহীনাহ', কারণ আরবিতে 'নাফস' স্ত্রীলিঙ্গ। অর্জনের ক্রিয়াপদও সেই একই মিল রাখে: সেখানে 'কাসাবা', এখানে 'কাসাবাত'। নীতিটি একটিই, বলা হয়েছে দুবার।",
+          },
+          {
+            en: "The settings could hardly differ more. 52:21 closes a passage of favour: those who believed and whose descendants followed them in faith will have those descendants joined to them, with nothing at all deducted from their own deeds — and then the rule, marking the limit of the grant. Here the same rule closes a warning, and what follows it is not a limit but an exception. 74:39 names the companions of the right, who are not held.",
+            bn: "প্রেক্ষাপট দুটি এর চেয়ে বেশি আলাদা হওয়া কঠিন। 52:21 শেষ করে অনুগ্রহের একটি অংশ: যারা ঈমান এনেছে এবং যাদের সন্তানেরা ঈমানে তাদের অনুসরণ করেছে, তাদের সন্তানদের তাদের সঙ্গে মিলিয়ে দেওয়া হবে, অথচ তাদের নিজেদের আমল থেকে কিছুই কমানো হবে না — এরপর আসে নীতিটি, দানের সীমা চিহ্নিত করে। এখানে সেই একই নীতি শেষ করে একটি সতর্কবাণী, আর এর পরে আসে সীমা নয়, ব্যতিক্রম। 74:39 নাম নেয় ডান দিকের সঙ্গীদের, যারা আটক নয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Pledge Left Unredeemed", bn: "যে বন্ধক ছাড়ানো হয়নি" },
+        p: [
+          {
+            en: "The passage then shows one going unredeemed. In 74:40-42 the people of the gardens ask the criminals what put them into Saqar, and the answer comes in the criminals' own words, in four items: we were not of those who prayed, nor did we feed the poor, we used to plunge into vain talk with those who plunged, and we used to deny the Day of Recompense — until the certainty came to us, says 74:47.",
+            bn: "এরপর এই অংশ দেখায়, একটি বন্ধক ছাড়ানো হয়নি। 74:40-42-এ জান্নাতবাসীরা অপরাধীদের জিজ্ঞেস করে, কীসে তাদের সাকারে নিয়ে গেল; আর উত্তর আসে অপরাধীদের নিজেদের মুখে, চারটি বিষয়ে: আমরা সালাত আদায়কারীদের অন্তর্ভুক্ত ছিলাম না, আমরা মিসকীনকে খাওয়াতাম না, আমরা অনর্থক আলাপে মগ্নদের সঙ্গে মগ্ন হতাম, আর আমরা কর্মফল দিবসকে অস্বীকার করতাম — 74:47 বলে, যতক্ষণ না আমাদের কাছে নিশ্চিত বিষয়টি এসে পড়ল।",
+          },
+          {
+            en: "Notice what the four are. Two are things not done and two are things done; two concern Allah directly and two concern other people and the tongue. Then 74:48 states the outcome for those who gave that answer: the intercession of intercessors will not benefit them. The pledge was not redeemed while redemption was possible, and the passage places the closing of that window at the arrival of what it calls the certainty.",
+            bn: "লক্ষ করুন চারটি কী কী। দুটি হলো না-করা কাজ, দুটি হলো করা কাজ; দুটি সরাসরি আল্লাহর সঙ্গে সম্পর্কিত, দুটি অন্য মানুষ ও জিহ্বার সঙ্গে। এরপর 74:48 জানায় ওই উত্তরদাতাদের পরিণতি: সুপারিশকারীদের সুপারিশ তাদের কোনো উপকারে আসবে না। বন্ধক ছাড়ানোর সুযোগ যতক্ষণ ছিল ততক্ষণে তা ছাড়ানো হয়নি, আর এই অংশটি সেই সুযোগ বন্ধ হওয়ার মুহূর্তটি রাখে সেই জিনিসের আগমনে, যাকে সে বলে 'নিশ্চিত বিষয়'।",
+          },
+        ],
+      },
+      {
+        h: { en: "Held, Not Condemned", bn: "আটক, দণ্ডিত নয়" },
+        p: [
+          {
+            en: "A pledge is not a punishment; it is a holding, and a thing held can be redeemed. The verse does not say that every soul is condemned for what it earned. It says every soul is held against what it earned, which is why an exception in 74:39 is possible at all. The four confessions of 74:43-46 are best read the same way, as a list of what was left unpaid rather than as a verdict already passed.",
+            bn: "বন্ধক কোনো শাস্তি নয়; এটি ধরে রাখা, আর ধরে রাখা জিনিস ছাড়ানো যায়। আয়াতটি বলে না যে প্রত্যেক প্রাণ তার অর্জনের কারণে দণ্ডিত। এটি বলে, প্রত্যেক প্রাণ তার অর্জনের বিপরীতে আটক — আর এ কারণেই 74:39-এ কোনো ব্যতিক্রম আদৌ সম্ভব। 74:43-46-এর চারটি স্বীকারোক্তিও একইভাবে পড়া ভালো: ইতিমধ্যে ঘোষিত কোনো রায় হিসেবে নয়, বরং কী কী অপরিশোধিত রয়ে গিয়েছিল তার তালিকা হিসেবে।",
+          },
+          {
+            en: "What the word finally enforces is that the debt is personal. Comparison stops being useful, because nobody else's surplus transfers to an account held in your own name. What is left is ordinary and available: the prayer that was skipped, the poor person who was not fed, the hours the tongue is spent on, and what the heart actually does with the Day of Recompense while there is still time to do something about it.",
+            bn: "শেষ পর্যন্ত শব্দটি যা কার্যকর করে তা হলো — ঋণটি একান্ত ব্যক্তিগত। তুলনা করা আর কাজে আসে না, কারণ আপনার নিজের নামে থাকা হিসাবে অন্য কারও উদ্বৃত্ত স্থানান্তরিত হয় না। যা বাকি থাকে তা সাধারণ ও হাতের নাগালে: যে সালাতটি বাদ পড়েছে, যে অভাবীকে খাওয়ানো হয়নি, জিহ্বা যেসব ঘণ্টায় ব্যয় হয়, আর কর্মফল দিবসকে নিয়ে হৃদয় আসলে কী করে — যখন সে বিষয়ে কিছু করার সময় এখনো আছে।",
+          },
+        ],
+      },
+    ],
+  },
+  '79:46': {
+    sections: [
+      {
+        h: { en: "A Question and a Refusal", bn: "একটি প্রশ্ন ও একটি প্রত্যাখ্যান" },
+        p: [
+          {
+            en: "The verse answers a question asked four verses earlier. In 79:42 they ask the Prophet ﷺ about the Hour: when is its arrival? 79:43 replies with a question of its own — in what position are you that you should mention it? — and 79:44 puts the matter where it belongs, saying that to your Lord is its finality. Then 79:45 leaves him one role and only one: he is a warner for whoever fears it.",
+            bn: "আয়াতটি এমন এক প্রশ্নের উত্তর দেয় যা করা হয়েছিল চার আয়াত আগে। 79:42-এ তারা নবী ﷺ-কে কিয়ামত সম্পর্কে জিজ্ঞেস করে: কখন তা ঘটবে? 79:43 উত্তর দেয় নিজেরই একটি প্রশ্ন দিয়ে — এর আলোচনার সঙ্গে তোমার সম্পর্ক কী? — আর 79:44 বিষয়টিকে তার যথাস্থানে রাখে, বলে যে এ সংক্রান্ত জ্ঞান তোমার প্রতিপালক পর্যন্তই শেষ। এরপর 79:45 তাঁর জন্য রাখে একটিমাত্র ভূমিকা: যারা একে ভয় করে তিনি কেবল তাদেরই সতর্ককারী।",
+          },
+          {
+            en: "So the date is refused, and then this verse arrives. It is not a compromise. It supplies no year, no interval and no sign to watch for. What it supplies instead is a measurement of an entirely different kind: not when the Hour will come, but how long the whole of this life will feel to the people standing there on the day they see it. The question was about the clock. The answer describes the memory.",
+            bn: "কাজেই তারিখ জানাতে অস্বীকার করা হলো, আর তারপরেই আসে এই আয়াত। এটি কোনো আপস নয়। এটি কোনো সন, কোনো ব্যবধান বা লক্ষ করার মতো কোনো চিহ্ন দেয় না। বরং এটি দেয় সম্পূর্ণ অন্য ধরনের একটি পরিমাপ: কিয়ামত কখন আসবে তা নয়, বরং যেদিন মানুষ তা দেখবে সেদিন তাদের কাছে এই গোটা জীবনটা কত দীর্ঘ মনে হবে। প্রশ্নটি ছিল ঘড়ি নিয়ে। উত্তরটি বর্ণনা করে স্মৃতিকে।",
+          },
+        ],
+      },
+      {
+        h: { en: "An Evening or Its Morning", bn: "এক সন্ধ্যা কিংবা তার সকাল" },
+        p: [
+          {
+            en: "The Arabic runs kaannahum yawma yarawnaha lam yalbathu illa 'ashiyyatan aw duhaha. 'Ashiyyah is the late part of the day, the stretch that runs down toward sunset, which this app renders afternoon. Duha is the forenoon, the brightening that follows sunrise. Both are portions of daylight, not days; the verse never offers the option of a day, and neither of its two words can be stretched to mean one.",
+            bn: "আরবিতে আয়াতটি: 'কাআন্নাহুম ইয়াওমা ইয়ারাওনাহা লাম ইয়ালবাসূ ইল্লা আশিয়্যাতান আও দুহাহা'। 'আশিয়্যাহ' হলো দিনের শেষভাগ — সূর্যাস্তের দিকে নেমে আসা সময়টুকু। 'দুহা' হলো পূর্বাহ্ণ — সূর্যোদয়ের পরের উজ্জ্বল হয়ে ওঠা সময়। দুটোই দিনের অংশ, গোটা দিন নয়; আয়াতটি কখনোই একটি পূর্ণ দিনের বিকল্প দেয় না, আর এর দুটি শব্দের কোনোটিকেই টেনে একটি দিন বানানো যায় না।",
+          },
+          {
+            en: "The pronoun at the end is the sharpest part of it. Duhaha is not the forenoon but its forenoon, the morning belonging to the very day whose evening has just been named. The commentators observe that the day itself is never mentioned in the verse at all; it is carried entirely by that one attached suffix. So the two options are not an evening or some other morning. They are the two ends of a single day.",
+            bn: "শেষের সর্বনামটিই এর সবচেয়ে ধারালো অংশ। 'দুহাহা' মানে কেবল পূর্বাহ্ণ নয়, বরং 'তার' পূর্বাহ্ণ — অর্থাৎ যে দিনটির সন্ধ্যার কথা এইমাত্র বলা হলো, সেই দিনটিরই সকাল। মুফাসসিরগণ লক্ষ করেন, আয়াতে দিনটির উল্লেখ কোথাও নেই; পুরো ভারটি বহন করছে ওই একটিমাত্র যুক্ত সর্বনাম। কাজেই বিকল্প দুটি এক সন্ধ্যা আর অন্য কোনো সকাল নয়। সে দুটি একটিমাত্র দিনেরই দুই প্রান্ত।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Scale, Not a Date", bn: "তারিখ নয়, মাপকাঠি" },
+        p: [
+          {
+            en: "That is why the refusal in 79:43-44 is not evasion. A date would change a person's arithmetic; a scale changes his valuation. A life measured against a known date can be budgeted, spent down to the last month and settled at the end. A life that will finally register as an evening cannot be budgeted at all, because no stretch of it is long enough to be safely written off, and the settling cannot be scheduled for a month whose number nobody has.",
+            bn: "এ কারণেই 79:43-44-এর প্রত্যাখ্যানটি এড়িয়ে যাওয়া নয়। তারিখ বদলে দিত মানুষের হিসাব; মাপকাঠি বদলে দেয় তার মূল্যায়ন। জানা তারিখের বিপরীতে মাপা জীবনকে বাজেট করা যায় — শেষ মাসটি পর্যন্ত খরচ করে শেষে হিসাব চুকিয়ে নেওয়া যায়। কিন্তু যে জীবন শেষ পর্যন্ত এক সন্ধ্যার মতো ঠেকবে, তাকে আদৌ বাজেট করা যায় না; কারণ তার কোনো অংশই এত দীর্ঘ নয় যে নিরাপদে অপচয় করা চলে, আর হিসাব চুকানোর জন্য এমন কোনো মাস ঠিক করা যায় না যার সংখ্যাটা কারও জানা নেই।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Same Answer Elsewhere", bn: "একই উত্তর অন্যত্র" },
+        p: [
+          {
+            en: "The Quran states this compression repeatedly, and almost always as something the people themselves say. In 10:45 it is as though they had not remained but an hour of a day. In 30:55 the criminals swear they stayed only an hour. 20:103-104 has them murmuring that they remained ten, while the most accurate among them says one day. In 23:112-114 they are asked how many years, answer a day or part of a day, and are told they stayed only a little.",
+            bn: "কুরআন এই সংকোচনের কথা বারবার বলে, আর প্রায় সবসময়ই মানুষের নিজেদের মুখ দিয়ে। 10:45-এ মনে হবে যেন তারা দিনের এক ঘণ্টার বেশি অবস্থান করেনি। 30:55-এ অপরাধীরা শপথ করে বলবে তারা এক ঘণ্টাই ছিল। 20:103-104-এ তারা নিজেদের মধ্যে চুপিচুপি বলবে তারা দশ দিন ছিল, আর তাদের মধ্যে সবচেয়ে সঠিক কথা বলা লোকটি বলবে — একদিন। 23:112-114-এ তাদের জিজ্ঞেস করা হবে কত বছর ছিলে, তারা বলবে একদিন বা দিনের কিছু অংশ, আর জবাব আসবে — তোমরা সামান্যই ছিলে।",
+          },
+          {
+            en: "46:35 says it in nearly the words of our verse: on the day they see what they are promised, it will be as though they had not remained except an hour of a day. Set beside each other, these passages make the compression a fixed feature of the scene rather than a rhetorical flourish in one surah. Some put the estimate into the mouths of those who lived the years and some state it as the scene itself, and every one of them shortens the years drastically.",
+            bn: "46:35 প্রায় আমাদের আয়াতেরই ভাষায় কথাটি বলে: যেদিন তারা প্রতিশ্রুত জিনিসটি দেখবে, সেদিন মনে হবে যেন তারা দিনের এক ঘণ্টার বেশি অবস্থান করেনি। পাশাপাশি রাখলে এই অংশগুলো বুঝিয়ে দেয়, এই সংকোচন কোনো একটি সূরার অলংকার নয়, বরং সেই দৃশ্যের একটি স্থায়ী বৈশিষ্ট্য। কোথাও হিসাবটি বসানো হয়েছে তাদেরই মুখে যারা বছরগুলো কাটিয়ে এসেছে, কোথাও তা বলা হয়েছে দৃশ্যের বর্ণনা হিসেবেই; আর প্রতিটি ক্ষেত্রেই বছরগুলো নাটকীয়ভাবে ছোট হয়ে গেছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "What It Changes Today", bn: "আজ এটি কী বদলায়" },
+        p: [
+          {
+            en: "The verse is not asking anyone to conclude that life is worthless. Nothing in it says the evening was wasted; it says the evening was short. The practical consequence is a reordering rather than a withdrawal. Whatever has its whole value used up inside the evening — a rank, a purchase, an argument won — gets priced at what an evening is worth, and whatever outlasts the evening gets the remainder of the attention.",
+            bn: "আয়াতটি কাউকে এই সিদ্ধান্তে আসতে বলছে না যে জীবন মূল্যহীন। এতে কোথাও বলা হয়নি সন্ধ্যাটি অপচয় হয়েছে; বলা হয়েছে সন্ধ্যাটি ছোট। এর ব্যবহারিক ফল গুটিয়ে যাওয়া নয়, বরং অগ্রাধিকার নতুন করে সাজানো। যার পুরো মূল্য ওই সন্ধ্যার ভেতরেই ফুরিয়ে যায় — একটি পদ, একটি কেনাকাটা, জিতে যাওয়া একটি তর্ক — তার দাম ধরা হবে এক সন্ধ্যার সমান; আর যা সন্ধ্যার পরেও টিকে থাকে, মনোযোগের বাকিটুকু তারই।",
+          },
+          {
+            en: "It also settles a particular kind of grief. Waiting is the hardest part of most trials: waiting for health, for a marriage, for a child, for relief that keeps not arriving. This verse does not shorten the wait. It tells you in advance what the wait will look like from the far side of it, and the answer is that it will be the same length as everyone else's ease was — an evening, or the morning of the same day.",
+            bn: "এটি এক বিশেষ ধরনের বেদনাকেও থিতু করে দেয়। বেশির ভাগ পরীক্ষার সবচেয়ে কঠিন অংশ হলো অপেক্ষা: সুস্থতার অপেক্ষা, বিয়ের অপেক্ষা, সন্তানের অপেক্ষা, কিংবা যে স্বস্তি আসতেই চায় না তার অপেক্ষা। আয়াতটি অপেক্ষাকে ছোট করে দেয় না। এটি আগেভাগে জানিয়ে দেয়, ওপারে গিয়ে সেই অপেক্ষাটি দেখতে কেমন লাগবে — আর উত্তরটি হলো, অন্যরা যে স্বাচ্ছন্দ্য পেয়েছিল ঠিক তারই সমান দৈর্ঘ্যের: এক সন্ধ্যা, কিংবা সেই দিনেরই সকাল।",
+          },
+        ],
+      },
+    ],
+  },
+  '80:24': {
+    sections: [
+      {
+        h: { en: "Four Words of Command", bn: "চার শব্দের নির্দেশ" },
+        p: [
+          {
+            en: "The command is four words long: falyanzuri al-insanu ila ta'amih. The verb carries the lam of the imperative in the third person, an order issued about somebody rather than to him — let man look. 86:5 opens with the identical two words, falyanzuri al-insanu, and it too runs to four; there what he is told to look at is the substance he was made from. Twice the Quran stops a person and points, and both times the thing pointed at is already in front of him.",
+            bn: "নির্দেশটি চার শব্দের: 'ফালইয়ানযুরিল ইনসানু ইলা তাআমিহ'। ক্রিয়াপদটি বহন করে তৃতীয় পুরুষের আদেশসূচক 'লাম' — অর্থাৎ কাউকে সরাসরি নয়, তার সম্পর্কে দেওয়া আদেশ: মানুষ দেখুক। 86:5 শুরু হয় ঠিক এই একই দুটি শব্দ দিয়ে — 'ফালইয়ানযুরিল ইনসানু' — আর সেটিও চার শব্দেরই; সেখানে তাকে দেখতে বলা হয় সেই উপাদানটি যা থেকে তাকে সৃষ্টি করা হয়েছে। কুরআন দুবার মানুষকে থামিয়ে আঙুল তোলে, আর দুবারই যেদিকে আঙুল ওঠে তা তার সামনেই আছে।",
+          },
+          {
+            en: "Nazar with the preposition ila is ordinarily the look of the eye, and that is part of the point, since the thing to be looked at is visible without instruments. But the commentators gloss what is actually wanted as i'tibar, drawing the lesson, because nobody learns anything from merely seeing bread. The order is not to inspect the food. It is to follow it backwards, and the verses that come next perform the following-back for anyone unsure where to begin.",
+            bn: "'ইলা' অব্যয়সহ 'নাযার' সাধারণত চোখের দেখা বোঝায়, আর সেটিও প্রসঙ্গেরই অংশ — কারণ যা দেখতে বলা হচ্ছে তা কোনো যন্ত্র ছাড়াই দৃশ্যমান। তবে মুফাসসিরগণ ব্যাখ্যা করেন, আসলে যা চাওয়া হচ্ছে তা হলো 'ই'তিবার' — শিক্ষা গ্রহণ; কারণ কেবল রুটি দেখে কেউ কিছু শেখে না। নির্দেশটি খাবার পরখ করার নয়। নির্দেশটি হলো তাকে পেছন দিকে অনুসরণ করা — আর পরের আয়াতগুলো সেই অনুসরণটি করে দেখায়, যাতে কোথা থেকে শুরু করতে হবে তা কারও অজানা না থাকে।",
+          },
+        ],
+      },
+      {
+        h: { en: "What Came Just Before", bn: "ঠিক আগে যা ছিল" },
+        p: [
+          {
+            en: "The setting is severe. 80:17 curses man and exclaims at how great his denial is, and 80:18-22 answer by tracing him: from what thing did He create him — from a drop He created him and proportioned him, then eased the way for him, then caused him to die and gave him a grave, then when He wills He will raise him. 80:23 then delivers the charge: no, he has not accomplished what He commanded him. Only then comes the redirection to his food.",
+            bn: "প্রেক্ষাপটটি কঠোর। 80:17 মানুষকে অভিশাপ দেয় ও তার সত্য-প্রত্যাখ্যানের মাত্রা তুলে ধরে, আর 80:18-22 উত্তর দেয় তার পরিচয় ধরে ধরে: কোন জিনিস থেকে তিনি তাকে সৃষ্টি করলেন — এক ফোঁটা থেকে সৃষ্টি করে পরিমিত করলেন, তারপর তার পথ সহজ করলেন, তারপর তার মৃত্যু ঘটিয়ে কবরস্থ করলেন, তারপর যখন ইচ্ছে করবেন তাকে আবার উঠাবেন। এরপর 80:23 অভিযোগটি উচ্চারণ করে: না, তিনি তাকে যে নির্দেশ দিয়েছিলেন তা সে পূর্ণ করেনি। কেবল তখনই আসে খাদ্যের দিকে মোড় ফেরানো।",
+          },
+        ],
+      },
+      {
+        h: { en: "Every Verb Is His", bn: "প্রতিটি ক্রিয়াপদই তাঁর" },
+        p: [
+          {
+            en: "80:25-27 answer the look, and the answer is a run of first-person verbs. We poured down the water in a pouring; then We split the earth in a splitting; then We caused to grow in it. Man was told to look at his food, and the first thing the looking discloses is that every action involved in producing it belongs to Someone else. Nothing in the sequence is credited to the one holding the plate.",
+            bn: "80:25-27 সেই দেখার উত্তর দেয়, আর উত্তরটি উত্তম পুরুষের ক্রিয়াপদের এক ধারা। আমি পানি ঢেলেছি ঢালার মতো করে; তারপর আমি যমীনকে বিদীর্ণ করেছি বিদীর্ণ করার মতো করে; তারপর আমি তাতে উৎপন্ন করেছি। মানুষকে তার খাদ্যের দিকে তাকাতে বলা হয়েছিল, আর সেই তাকানো প্রথমেই যা ফাঁস করে দেয় তা হলো: এই খাদ্য উৎপাদনের সঙ্গে জড়িত প্রতিটি কাজই অন্য কারও। এই ধারার কোনো কিছুরই কৃতিত্ব প্লেট হাতে ধরে থাকা লোকটির নয়।",
+          },
+          {
+            en: "What grows is then named across five verses, eight things in all: grain, then grapes and qadb, then olive and palm, then dense gardens, then fruit and abb. That last word is unfamiliar even in Arabic; the lexicons gloss abb as pasture, the growth that animals graze. The list has moved, without announcing that it is moving, from what is on the man's plate to what is standing in his herd's field.",
+            bn: "এরপর যা উৎপন্ন হয় তার নাম আসে পাঁচটি আয়াত জুড়ে, মোট আটটি জিনিস: শস্য, তারপর আঙুর ও 'কাদ্‌ব', তারপর যায়তূন ও খেজুর, তারপর ঘন বাগান, তারপর ফল ও 'আব্ব'। শেষ শব্দটি আরবিতেও অপরিচিত; অভিধানগুলো 'আব্ব'-এর অর্থ করে তৃণভূমি — পশুরা যা চরে খায়। তালিকাটি নিজে ঘোষণা না করেই সরে এসেছে মানুষের প্লেটে যা আছে তা থেকে তার পশুপালের মাঠে যা দাঁড়িয়ে আছে তার দিকে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Down to the Livestock", bn: "পশুপাল পর্যন্ত" },
+        p: [
+          {
+            en: "80:32 closes the passage by saying so outright: provision for you and for your grazing livestock. The same rain, the same opened earth and the same crop feed the man and the animal at his gate, and the verse states it without embarrassment. What separates the two is not the meal, and it is not the digestion. It is that one of them was addressed eight verses earlier and told to look at what he was eating.",
+            bn: "80:32 অংশটি শেষ করে কথাটি সরাসরি বলে দিয়ে: তোমাদের ও তোমাদের গৃহপালিত পশুদের ভোগের জন্য। একই বৃষ্টি, একই বিদীর্ণ মাটি আর একই ফসল খাওয়ায় মানুষকে এবং তার দরজার পাশের পশুটিকে — আয়াতটি কোনো সংকোচ ছাড়াই তা বলে। এই দুইয়ের পার্থক্য খাবারে নয়, হজমেও নয়। পার্থক্য এটুকুই যে তাদের একজনকে আট আয়াত আগে সম্বোধন করে বলা হয়েছিল, সে কী খাচ্ছে তা দেখে নিতে।",
+          },
+        ],
+      },
+      {
+        h: { en: "At the Table", bn: "খাবার টেবিলে" },
+        p: [
+          {
+            en: "The argument of the passage is complete without anyone leaving the plate. Man's origin was traced for him in 80:18-22 and he did not respond, so 80:24 lowers the evidence to the level of a meal. Nobody has to travel, study or wait for a sign. Two or three times a day something arrives that a person did not make, could not make and did not water, and it arrives whether or not he says anything about it.",
+            bn: "এই অংশের যুক্তি সম্পূর্ণ হয়ে যায় প্লেট ছেড়ে না উঠেই। 80:18-22-এ মানুষের সামনে তার নিজের উৎপত্তি বর্ণনা করা হয়েছিল, সে সাড়া দেয়নি; তাই 80:24 প্রমাণটিকে নামিয়ে আনে এক বেলার খাবারের স্তরে। কাউকে ভ্রমণ করতে হয় না, পড়াশোনা করতে হয় না, কোনো নিদর্শনের অপেক্ষাও করতে হয় না। দিনে দুই-তিনবার এমন কিছু এসে হাজির হয় যা মানুষ বানায়নি, বানাতে পারত না এবং যাতে পানিও দেয়নি — আর তা আসে, সে সে সম্পর্কে কিছু বলুক বা না বলুক।",
+          },
+          {
+            en: "The discipline is small enough to keep. Before eating, follow one item backwards as far as it will go: the rain that fell on it, the soil that opened for it, the season that had to hold, the hands that were not yours. The chain runs out of human agents very quickly. That is the whole of what the verse asked for. It does not ask for gratitude in the abstract; it asks for a look, and gratitude is what an honest look produces.",
+            bn: "অনুশীলনটি এত ছোট যে ধরে রাখা যায়। খাওয়ার আগে যেকোনো একটি জিনিসকে যত দূর যায় পেছন দিকে অনুসরণ করুন: যে বৃষ্টি তার উপর পড়েছিল, যে মাটি তার জন্য ফেটেছিল, যে ঋতুটিকে অটুট থাকতে হয়েছিল, যে হাতগুলো আপনার ছিল না। এই শৃঙ্খলে মানুষ-কর্তা খুব দ্রুতই ফুরিয়ে যায়। আয়াতটি এটুকুই চেয়েছিল। এটি বিমূর্ত কৃতজ্ঞতা চায় না; এটি একটি দৃষ্টি চায় — আর সৎভাবে তাকালে কৃতজ্ঞতা এমনিতেই জন্মায়।",
+          },
+        ],
+      },
+    ],
+  },
+  '81:26': {
+    sections: [
+      {
+        h: { en: "Two Words", bn: "দুটি শব্দ" },
+        p: [
+          {
+            en: "The Arabic is two words: fa-ayna tadhhabun. The first is the connective fa, and so, written joined to ayna, where; the second is a verb in the second-person plural, are you going. There is no noun, no object and no destination named anywhere in it. A question that short can only work if everything it depends on has already been said, and in this surah all of it has.",
+            bn: "আরবিতে এটি দুটি শব্দ: 'ফাআইনা তাযহাবূন'। প্রথমটি সংযোজক 'ফা' — অর্থাৎ 'কাজেই' — যা 'আইনা' অর্থাৎ 'কোথায়'-এর সঙ্গে জুড়ে লেখা; দ্বিতীয়টি মধ্যম পুরুষ বহুবচনের ক্রিয়াপদ, 'তোমরা চলেছ'। এর কোথাও কোনো বিশেষ্য নেই, কোনো কর্ম নেই, কোনো গন্তব্যের নামও নেই। এত ছোট প্রশ্ন তখনই কাজ করতে পারে যখন এটি যার উপর দাঁড়িয়ে সেসব আগেই বলা হয়ে গেছে — আর এই সূরায় সেসব বলা হয়েছে।",
+          },
+          {
+            en: "The verb is worth weighing. Dhahaba is to go, to depart, plain motion, and the question is built on it rather than on believing or thinking. It does not ask what you hold to be true. It asks which way you are moving, which is a different question and often has a different answer, since people routinely walk in a direction they would not defend if they were asked to describe it aloud.",
+            bn: "ক্রিয়াপদটি ভেবে দেখার মতো। 'যাহাবা' মানে যাওয়া, রওনা হওয়া — নিছক চলা; আর প্রশ্নটি গড়া হয়েছে সেই চলার উপর, বিশ্বাস বা চিন্তার উপর নয়। এটি জিজ্ঞেস করে না, তুমি কী সত্য বলে মানো। এটি জিজ্ঞেস করে, তুমি কোন দিকে চলছ — যা আলাদা প্রশ্ন এবং প্রায়ই এর উত্তরও আলাদা; কারণ মানুষ নিয়মিতভাবেই এমন দিকে হাঁটে, মুখে বর্ণনা করতে বললে যে দিকটির পক্ষে সে দাঁড়াত না।",
+          },
+        ],
+      },
+      {
+        h: { en: "What the Question Follows", bn: "প্রশ্নটি কীসের পরে আসে" },
+        p: [
+          {
+            en: "The surah has been building for twenty-five verses. It opens with a run of clauses describing the world coming apart — the sun wound up, the stars falling, the mountains moved, the seas set ablaze, the pages spread open — and closes that stretch in 81:14 with a soul knowing what it has brought. Then come oaths on the retreating stars, the night as it closes in and the dawn as it breathes.",
+            bn: "সূরাটি পঁচিশ আয়াত ধরে গড়ে উঠছিল। এটি শুরু হয় একের পর এক বাক্যে জগৎ ভেঙে পড়ার বর্ণনা দিয়ে — সূর্য গুটিয়ে যাওয়া, তারা খসে পড়া, পাহাড় সরে যাওয়া, সমুদ্র উত্তাল হয়ে ওঠা, আমলনামা খুলে ধরা — আর সেই ধারা শেষ হয় 81:14-এ, যেখানে প্রত্যেক প্রাণ জেনে যাবে সে কী নিয়ে এসেছে। তারপর আসে শপথ: পিছিয়ে যাওয়া তারকারাজির, ঘনিয়ে আসা রাতের এবং শ্বাস নেওয়া ভোরের।",
+          },
+          {
+            en: "What the oaths introduce is a defence. 81:19-21 describe the one who brings the message as a noble messenger, possessed of power, secure in rank with the Owner of the Throne, obeyed there and trustworthy. Then the charges are answered one at a time: 81:22 says your companion is not mad, 81:23 says he has already seen him on the clear horizon, 81:24 says he is not stingy with the unseen, and 81:25 says this is not the speech of an accursed devil.",
+            bn: "সেই শপথগুলো যা উপস্থাপন করে তা হলো একটি প্রতিরক্ষা। 81:19-21 বাণীবাহককে বর্ণনা করে এক সম্মানিত বার্তাবাহক হিসেবে — শক্তিধর, আরশের মালিকের কাছে সুপ্রতিষ্ঠিত, সেখানে আনুগত্যপ্রাপ্ত ও বিশ্বস্ত। এরপর অভিযোগগুলোর জবাব আসে একটি একটি করে: 81:22 বলে তোমাদের সঙ্গী পাগল নয়, 81:23 বলে তিনি তাঁকে সুস্পষ্ট দিগন্তে দেখেছেন, 81:24 বলে তিনি গায়েবের ব্যাপারে কৃপণ নন, আর 81:25 বলে এটি কোনো অভিশপ্ত শয়তানের কথা নয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Said to Someone Off the Road", bn: "পথভ্রষ্ট পথিককে বলা কথা" },
+        p: [
+          {
+            en: "With the objections gone, the question follows as a consequence, and that is the work the fa is doing. Nothing has been left for a listener to hold on to, so where is he going? The mufassirun read the phrase as the ordinary Arabic said to a traveller who has stepped off the road: which way are you taking, now that the road has been pointed out to you? It is not a request for information. Nobody who asks it expects to be told a place name, and no answer is recorded in the surah.",
+            bn: "আপত্তিগুলো সরে যাওয়ার পর প্রশ্নটি আসে একটি পরিণতি হিসেবে — 'ফা' শব্দটি ঠিক এই কাজটিই করছে। শ্রোতার আঁকড়ে ধরার মতো কিছুই আর অবশিষ্ট নেই, তাহলে সে চলেছে কোথায়? মুফাসসিরগণ বাক্যটিকে পড়েন সেই সাধারণ আরবি কথার মতো, যা বলা হয় পথ থেকে সরে যাওয়া পথিককে: পথ তো তোমাকে দেখিয়ে দেওয়া হলো, এখন তুমি কোন দিকে যাচ্ছ? এটি কোনো তথ্য জানতে চাওয়া প্রশ্ন নয়। যে এ প্রশ্ন করে সে কোনো জায়গার নাম শোনার আশা করে না, আর সূরাতেও কোনো উত্তর লিপিবদ্ধ নেই।",
+          },
+        ],
+      },
+      {
+        h: { en: "Answered Within Three Verses", bn: "তিন আয়াতের মধ্যেই উত্তর" },
+        p: [
+          {
+            en: "The Quran does not leave its own question hanging. 81:27 answers in the negative direction first: this is nothing but a reminder to the worlds. 81:28 then names who the road is open to, whoever among you wills to go straight. And 81:29 closes any boast about that willing: you do not will unless Allah, Lord of the worlds, wills. Question, road, permission and the limit of the human will, inside three verses.",
+            bn: "কুরআন নিজের প্রশ্নটি ঝুলিয়ে রাখে না। 81:27 প্রথমে নেতিবাচক দিক থেকে উত্তর দেয়: এটি বিশ্ববাসীর জন্য উপদেশ ছাড়া কিছুই নয়। এরপর 81:28 জানায় পথটি কার জন্য খোলা — তোমাদের মধ্যে যে সোজা পথে চলতে চায় তার জন্য। আর 81:29 সেই চাওয়া নিয়ে কোনো অহংকারের পথ বন্ধ করে দেয়: বিশ্বজগতের প্রতিপালক আল্লাহ না চাইলে তোমরা চাইতেও পারো না। প্রশ্ন, পথ, অনুমতি আর মানুষের ইচ্ছার সীমা — সবই তিন আয়াতের ভেতরে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Asked of a Crowd", bn: "ভিড়কে করা প্রশ্ন" },
+        p: [
+          {
+            en: "Notice the two numbers. The question is plural, where are you all going, while the answer in 81:28 narrows to liman sha'a minkum, for whoever among you wills. A crowd is asked and an individual answers. That is usually how it works. Drift is collective, absorbed from whoever happens to be walking alongside you, whereas the turn is made alone and has to be made by somebody with a name.",
+            bn: "সংখ্যা দুটি লক্ষ করুন। প্রশ্নটি বহুবচনে — তোমরা সবাই কোথায় চলেছ; অথচ 81:28-এর উত্তর সংকুচিত হয়ে আসে 'লিমান শাআ মিনকুম'-এ — তোমাদের মধ্যে যে চায় তার জন্য। প্রশ্ন করা হয় ভিড়কে, উত্তর দেয় একজন। সাধারণত এভাবেই ঘটে। ভেসে যাওয়া সমষ্টিগত — পাশে যারা হাঁটছে তাদের কাছ থেকেই তা শুষে নেওয়া হয়; কিন্তু মোড় ফেরাটা একা করতে হয়, আর তা করতে হয় নাম আছে এমন কাউকে।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Device for Stopping", bn: "থামার একটি উপায়" },
+        p: [
+          {
+            en: "As a practice the verse works as a stopping device rather than a doctrine. It is short enough to be recalled in the middle of an action, and it asks for a destination rather than a defence. Much of what fills a life has a direction that was never chosen — inherited, drifted into, or agreed to by not objecting. The verse does not accuse anyone of choosing badly; it asks whether the direction was chosen at all. Two verses on, it supplies the reason the question is worth stopping for: 81:28 says the straight road stands open to whoever among you wills.",
+            bn: "অনুশীলন হিসেবে আয়াতটি কোনো মতবাদের মতো নয়, বরং থামিয়ে দেওয়ার একটি উপায়ের মতো কাজ করে। এটি এত ছোট যে কাজের মাঝপথেই মনে পড়ে যায়, আর এটি সাফাই নয়, গন্তব্য জানতে চায়। জীবনের যা কিছু দিয়ে ভরা থাকে, তার অনেকটারই দিক কখনো বেছে নেওয়া হয়নি — তা উত্তরাধিকারে পাওয়া, ভেসে ভেসে এসে পড়া, কিংবা সে সময় আপত্তি না করেই মেনে নেওয়া। আয়াতটি কাউকে ভুল বেছে নেওয়ার দায়ে অভিযুক্ত করে না; এটি জিজ্ঞেস করে, দিকটি আদৌ বেছে নেওয়া হয়েছিল কি না। আর দুই আয়াত পরেই এটি জানিয়ে দেয়, প্রশ্নটির জন্য থামা কেন সার্থক — কারণ 81:28 বলে, তোমাদের মধ্যে যে চায় তার জন্য সোজা পথটি খোলাই আছে।",
+          },
+        ],
+      },
+    ],
+  },
+  '83:14': {
+    sections: [
+      {
+        h: { en: "The Charge It Answers", bn: "যে অভিযোগের জবাব" },
+        p: [
+          {
+            en: "Surah al-Mutaffifin opens with woe to those who short the measure, described in 83:2-3 as taking in full when they receive and causing loss when they give. 83:4-6 asks whether such people do not think they will be raised for a tremendous Day. The surah then turns to the record of the wicked in sijjin, and in 83:13 it quotes what one of them says when the verses are recited to him: legends of the former peoples.",
+            bn: "সূরা আল-মুতাফফিফীন শুরু হয় মাপে কম দেওয়া লোকদের প্রতি দুর্ভোগ ঘোষণা দিয়ে; 83:2-3 তাদের বর্ণনা করে এভাবে — নেওয়ার সময় তারা পুরো মাত্রায় নেয়, আর দেওয়ার সময় কম দেয়। 83:4-6 জিজ্ঞেস করে, এরা কি ভাবে না যে এক মহা দিবসে তাদের আবার ওঠানো হবে? এরপর সূরাটি মোড় নেয় সিজ্জীনে রক্ষিত পাপীদের আমলনামার দিকে, আর 83:13-এ উদ্ধৃত করে, আয়াত শোনানো হলে তাদের একজন কী বলে: প্রাচীনকালের লোকদের কাহিনী।",
+          },
+        ],
+      },
+      {
+        h: { en: "Kalla, Bal, and a Pause", bn: "কাল্লা, বাল, আর এক মুহূর্ত থামা" },
+        p: [
+          {
+            en: "Our verse answers the remark rather than the man who made it. Kalla is a word of flat rejection, no, not so; bal is the particle that cancels what preceded and puts something else in its place, rather. Between the two the mushaf carries a small mark above the line, indicating a saktah — a brief silence taken without drawing a new breath — which the recitation of Hafs observes here. The reciter is halted for an instant before the diagnosis is delivered.",
+            bn: "আমাদের আয়াতটি জবাব দেয় কথাটিকে, কথাটি যে বলেছে তাকে নয়। 'কাল্লা' হলো সরাসরি প্রত্যাখ্যানের শব্দ — না, মোটেই না; আর 'বাল' হলো সেই অব্যয় যা আগের কথাটি বাতিল করে তার জায়গায় অন্য কিছু বসায় — বরং। এই দুটির মাঝখানে মুসহাফে লাইনের উপরে একটি ছোট চিহ্ন আছে, যা 'সাক্‌তাহ' নির্দেশ করে — নতুন শ্বাস না নিয়ে এক মুহূর্তের নীরবতা — হাফসের কিরাআতে এখানে যা পালন করা হয়। রোগনির্ণয়টি জানানোর ঠিক আগে পাঠককে এক মুহূর্তের জন্য থামিয়ে দেওয়া হয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Word Used Once", bn: "একবারই ব্যবহৃত একটি শব্দ" },
+        p: [
+          {
+            en: "Rana comes from a root that occurs exactly once in the Quran, and this is the place. The lexicographers describe rayn as something that settles over a surface and clings there, the way rust takes hold of iron or a film forms on something polished. It is not a wall built in front of the heart, and not a lid clamped over it. It is a deposit, lying where it fell, and it obscures by accumulating rather than by force.",
+            bn: "'রানা' এসেছে এমন এক মূলধাতু থেকে যা কুরআনে ঠিক একবারই এসেছে, আর সেটি এখানেই। অভিধানবিদরা 'রাইন'-এর বর্ণনা দেন এমন কিছু হিসেবে যা কোনো তলের উপর জমে বসে যায় — যেভাবে লোহায় মরিচা ধরে বা চকচকে জিনিসের উপর আস্তরণ পড়ে। এটি হৃদয়ের সামনে গাঁথা কোনো দেয়াল নয়, তার উপর চেপে বসানো কোনো ঢাকনাও নয়। এটি একটি জমা পড়া স্তর — যেখানে পড়েছে সেখানেই পড়ে আছে; আর এটি ঢেকে দেয় জোর খাটিয়ে নয়, জমে জমে।",
+          },
+          {
+            en: "The grammatical subject of the verb arrives last: ma kanu yaksibun, what they were earning. Arabic builds that phrase from kana with an imperfect verb, and the combination reports a sustained habit rather than one act. Nothing here says that a sin covered their hearts. It says the covering came from what they kept on earning, which puts the agent inside the person and spreads the process across a lifetime.",
+            bn: "ক্রিয়াপদের ব্যাকরণগত কর্তা আসে সবার শেষে: 'মা কানূ ইয়াকসিবূন' — তারা যা অর্জন করে চলছিল। আরবি এই বাক্যাংশটি গড়ে 'কানা'-র সঙ্গে অসমাপিকা ক্রিয়া জুড়ে, আর এই সংযোগ বোঝায় একটি স্থায়ী অভ্যাস, একটিমাত্র কাজ নয়। এখানে বলা হয়নি যে কোনো একটি গুনাহ তাদের অন্তর ঢেকে দিয়েছে। বলা হয়েছে, আবরণটি এসেছে তারা যা অর্জন করে চলছিল তা থেকে — যা কর্তাকে বসিয়ে দেয় মানুষটির ভেতরে, আর প্রক্রিয়াটিকে ছড়িয়ে দেয় গোটা জীবন জুড়ে।",
+          },
+          {
+            en: "The Quran has other images for the same event and they are not interchangeable. 47:24 asks whether they do not reflect upon the Quran, or whether there are locks upon hearts, and the Arabic there makes the locks belong to those hearts. 2:7 speaks of a seal set upon hearts and hearing. 18:57 places coverings over hearts lest they understand it. This verse supplies the mechanism the others leave implicit.",
+            bn: "একই ঘটনার জন্য কুরআনে আরও চিত্র আছে, আর সেগুলো পরস্পরের বিকল্প নয়। 47:24 জিজ্ঞেস করে, তারা কি কুরআন নিয়ে গভীরভাবে ভাবে না, নাকি অন্তরগুলোর উপর তালা লাগানো — আর সেখানকার আরবি তালাগুলোকে সেই অন্তরগুলোরই করে দেয়। 2:7 বলে অন্তর ও শ্রবণের উপর মোহর এঁটে দেওয়ার কথা। 18:57 অন্তরের উপর আবরণ রাখে, যাতে তারা তা বুঝতে না পারে। আর এই আয়াতটি জোগায় সেই কার্যপ্রণালী, যা অন্যগুলো অনুক্ত রেখে দেয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Black Spot", bn: "কালো দাগ" },
+        p: [
+          {
+            en: "At-Tirmidhi relates from Abu Hurayrah (RA) that the Prophet ﷺ said: when the servant commits a sin, a black spot is put into his heart; if he desists, seeks forgiveness and repents, his heart is polished; and if he returns, it increases until it overcomes his heart — and that is the ran which Allah mentioned. He then recited this verse. At-Tirmidhi graded the report hasan sahih.",
+            bn: "ইমাম তিরমিযী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: বান্দা যখন কোনো গুনাহ করে, তার অন্তরে একটি কালো দাগ পড়ে; সে যদি বিরত হয়, ক্ষমা চায় ও তওবা করে, তবে তার অন্তর পরিচ্ছন্ন হয়ে যায়; আর যদি সে ফিরে যায়, তবে তা বাড়তে থাকে, শেষে তার অন্তরকে ঢেকে ফেলে — আর সেটিই সেই 'রান', আল্লাহ যার উল্লেখ করেছেন। এরপর তিনি এই আয়াতটি তিলাওয়াত করেন। ইমাম তিরমিযী বর্ণনাটিকে 'হাসান সহীহ' বলেছেন।",
+          },
+          {
+            en: "That report should not be blended with another one that is often quoted beside it. Muslim narrates from Hudhayfah ibn al-Yaman (RA) a different image altogether: trials presented to hearts as a reed mat is woven, stick by stick, with a black spot marking the heart that absorbs one and a white spot the heart that rejects it. The two agree in direction and differ in wording, narrator and collection. Each is worth quoting whole rather than merged.",
+            bn: "এই বর্ণনাটিকে আরেকটি বর্ণনার সঙ্গে মিলিয়ে ফেলা ঠিক নয়, যা প্রায়ই এর পাশে উদ্ধৃত হয়। ইমাম মুসলিম হুযায়ফা ইবনুল ইয়ামান (রাঃ) থেকে সম্পূর্ণ ভিন্ন একটি চিত্র বর্ণনা করেন: অন্তরের সামনে ফিতনা পেশ করা হয় যেভাবে চাটাই বোনা হয়, একটি একটি কাঠি ধরে; যে অন্তর তা শুষে নেয় তাতে একটি কালো দাগ পড়ে, আর যে অন্তর তা প্রত্যাখ্যান করে তাতে একটি সাদা দাগ। দুটি বর্ণনার দিক এক, কিন্তু শব্দ, বর্ণনাকারী ও সংকলন আলাদা। প্রতিটিকেই আলাদাভাবে পুরোটা উদ্ধৃত করা উচিত, মিশিয়ে নয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Veiled Now, Veiled Then", bn: "এখন আড়াল, তখনও আড়াল" },
+        p: [
+          {
+            en: "83:15 comes immediately after and moves the covering. No indeed, it says, from their Lord that Day they will be partitioned. A film settled over the heart in this life is answered by a screen between them and their Lord in the next, and the two sentences stand one after the other so that the correspondence cannot be missed. Ibn Kathir records that ash-Shafi'i argued from 83:15 that the believers will see their Lord, since being veiled is stated here as a punishment.",
+            bn: "83:15 আসে ঠিক এর পরেই, আর আবরণটিকে সরিয়ে নেয় অন্য জায়গায়। এটি বলে: কক্ষনো না, সেদিন তারা তাদের প্রতিপালক থেকে পর্দার আড়ালে থাকবে। এই জীবনে হৃদয়ের উপর জমে বসা আস্তরণের জবাব আসে পরের জীবনে তাদের ও তাদের প্রতিপালকের মাঝখানে একটি পর্দা হিসেবে; আর বাক্য দুটি একটির পর একটি বসানো, যাতে মিলটি চোখ এড়াতে না পারে। ইবনে কাসীর লিপিবদ্ধ করেন যে ইমাম শাফিঈ 83:15 থেকে যুক্তি দিয়েছেন — মুমিনরা তাদের প্রতিপালককে দেখবে, কারণ এখানে পর্দার আড়ালে থাকাকেই শাস্তি হিসেবে বলা হয়েছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Surface Can Be Polished", bn: "তল ঘষে পরিষ্কার করা যায়" },
+        p: [
+          {
+            en: "The verse is a warning with its remedy built into it. If the covering came from earning, it can be halted by the same route it arrived, and the hadith names three moves: desisting, seeking forgiveness, and turning back. Notice that none of the three is a feeling. They are things a person does, and the report says the heart is polished when they are done, not when the guilt is felt strongly enough.",
+            bn: "আয়াতটি এমন এক সতর্কবাণী যার ভেতরেই তার প্রতিকার গাঁথা। আবরণটি যদি অর্জন থেকে এসে থাকে, তবে যে পথে এসেছে সেই পথেই তা থামানো যায়; আর হাদীসটি তিনটি পদক্ষেপের নাম নেয়: বিরত হওয়া, ক্ষমা চাওয়া, আর ফিরে আসা। লক্ষ করুন, এই তিনটির একটিও কোনো অনুভূতি নয়। এগুলো মানুষের কাজ — আর বর্ণনাটি বলে, কাজগুলো করা হলেই অন্তর পরিচ্ছন্ন হয়; অনুশোচনা যথেষ্ট তীব্র হলে নয়।",
+          },
+          {
+            en: "The symptom to watch for is therefore not guilt but its absence: the moment when something that used to trouble you passes through without registering at all. On the picture this verse gives, that is a report about a surface rather than a verdict about a person. Rust is removed by working on the metal, steadily, before the layer thickens — and the whole force of the word rana is that it thickens quietly, in instalments nobody notices being paid.",
+            bn: "কাজেই যে লক্ষণটির দিকে নজর রাখতে হবে তা অপরাধবোধ নয়, বরং তার অনুপস্থিতি: যে মুহূর্তে আগে যা আপনাকে অস্থির করত তা কোনো সাড়া না জাগিয়েই পার হয়ে যায়। এই আয়াতের চিত্র অনুযায়ী, সেটি একজন মানুষ সম্পর্কে চূড়ান্ত রায় নয়, বরং একটি তল সম্পর্কে খবর। মরিচা সরানো হয় ধাতুটির উপর ধারাবাহিকভাবে কাজ করে, স্তরটি পুরু হওয়ার আগেই — আর 'রান' শব্দটির পুরো জোরই এখানে যে, তা নীরবে পুরু হয়, এমন কিস্তিতে যেগুলো শোধ হতে কেউ খেয়াল করে না।",
+          },
+        ],
+      },
+    ],
+  },
+  '90:4': {
+    sections: [
+      {
+        h: { en: "The Oath and Its Answer", bn: "শপথ ও তার জবাব" },
+        p: [
+          {
+            en: "The surah opens with oaths and this verse is what they were sworn on. 90:1 swears by this city, 90:2 addresses the Prophet ﷺ as one who is hill in it, a word the commentators explain in more than one way, and 90:3 swears by a father and what he begot. A place and a lineage: the two things every human being is born into. Then comes laqad, the standard Arabic marker that the answer to an oath has arrived.",
+            bn: "সূরাটি শুরু হয় শপথ দিয়ে, আর এই আয়াতটিই সেই শপথের বিষয়বস্তু। 90:1 শপথ করে এই নগরের, 90:2 নবী ﷺ-কে সম্বোধন করে এই নগরে 'হিল' হিসেবে — শব্দটির ব্যাখ্যা মুফাসসিরগণ একাধিকভাবে করেছেন; আর 90:3 শপথ করে জন্মদাতার এবং সে যা জন্ম দিয়েছে তার। একটি স্থান আর একটি বংশধারা: প্রত্যেক মানুষ যে দুটির ভেতরে জন্মায়। এরপর আসে 'লাকাদ' — আরবিতে শপথের জবাব এসে পৌঁছানোর প্রচলিত চিহ্ন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Kabad, Once Only", bn: "'কাবাদ', একবারই" },
+        p: [
+          {
+            en: "Kabad occurs once in the entire Quran, and this verse is the once. Its root gives kabid, the liver, the organ Arabic places at the middle of a person, and the same root gives mukabadah, to grapple with something heavy and carry its weight. The word behind the English hardship is therefore not an abstract noun. It is drawn from the vocabulary of bearing a load with the body.",
+            bn: "'কাবাদ' গোটা কুরআনে একবারই এসেছে, আর সেই একবারটি এই আয়াতেই। এর মূলধাতু থেকে আসে 'কাবিদ' — যকৃৎ, যে অঙ্গটিকে আরবি মানুষের মধ্যভাগে বসায়; আর সেই একই মূল থেকে আসে 'মুকাবাদাহ' — ভারী কিছুর সঙ্গে লড়াই করা ও তার ভার বওয়া। কাজেই বাংলায় 'কষ্ট' বলে যে শব্দটি আসে, তার পেছনের আরবি শব্দটি কোনো বিমূর্ত বিশেষ্য নয়। এটি এসেছে দেহ দিয়ে বোঝা বহনের শব্দভাণ্ডার থেকে।",
+          },
+          {
+            en: "The preposition matters as much as the noun. The Arabic is fi kabad, in hardship, not for it and not with it. Man is placed inside the thing, surrounded by it, the way one is in a house or in the dark. And kabad is indefinite, a hardship rather than the hardship, which the grammarians read as leaving it unspecified in kind and therefore unlimited in the forms it may take.",
+            bn: "অব্যয়টি বিশেষ্যটির মতোই গুরুত্বপূর্ণ। আরবিতে আছে 'ফী কাবাদ' — কষ্টের 'মধ্যে'; কষ্টের 'জন্য' নয়, কষ্টের 'সঙ্গে'ও নয়। মানুষকে বসিয়ে দেওয়া হয়েছে জিনিসটির ভেতরে, চারপাশ ঘিরে — যেভাবে কেউ ঘরের ভেতরে থাকে বা অন্ধকারের ভেতরে থাকে। আর 'কাবাদ' শব্দটি অনির্দিষ্ট — 'একটি' কষ্ট, 'সেই' কষ্ট নয়; ব্যাকরণবিদরা এর অর্থ করেন, কষ্টের ধরন নির্দিষ্ট করা হয়নি, ফলে তা যত রকম রূপ নিতে পারে সে ব্যাপারে কোনো সীমা নেই।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Classical Readings", bn: "প্রাচীন ব্যাখ্যাগুলো" },
+        p: [
+          {
+            en: "The mufassirun record more than one reading of the word. The dominant one takes kabad as shiddah, hardship and struggle, so that a human being is created inside difficulty rather than merely running into it later: the labour of being carried and born, of earning, of illness, of dying. A second reading, preserved from some of the early authorities, takes it of posture, that man was created standing erect, unlike the animals.",
+            bn: "মুফাসসিরগণ শব্দটির একাধিক ব্যাখ্যা লিপিবদ্ধ করেছেন। প্রধান ব্যাখ্যাটি 'কাবাদ'-কে ধরে 'শিদ্দাহ' অর্থে — কষ্ট ও সংগ্রাম; অর্থাৎ মানুষকে সৃষ্টি করা হয়েছে কষ্টের ভেতরেই, পরে গিয়ে কষ্টের মুখোমুখি হওয়া নয়: গর্ভে বহন ও জন্মের শ্রম, উপার্জনের শ্রম, রোগের ও মৃত্যুর শ্রম। দ্বিতীয় ব্যাখ্যাটি, যা প্রাচীন কিছু কর্তৃপক্ষ থেকে সংরক্ষিত, শব্দটিকে নেয় দেহভঙ্গির অর্থে — মানুষকে সৃষ্টি করা হয়েছে সোজা হয়ে দাঁড়ানো অবস্থায়, পশুদের মতো নয়।",
+          },
+          {
+            en: "The commentaries build overwhelmingly on the first, and the verses that follow support it, since the passage goes on to describe effort, expenditure and a climb. Neither reading is denied here, because the classical works themselves preserve both. What both agree on is that the verse is describing something fixed at creation rather than something that happened to one unlucky generation of people.",
+            bn: "তাফসীরগ্রন্থগুলো প্রায় সবটাই প্রথম ব্যাখ্যার উপর গড়ে ওঠে, আর পরের আয়াতগুলোও তাকেই সমর্থন করে — কারণ এই অংশ এরপর বর্ণনা করে পরিশ্রম, ব্যয় ও একটি আরোহণের কথা। এখানে কোনো ব্যাখ্যাকেই অস্বীকার করা হচ্ছে না, কারণ প্রাচীন গ্রন্থগুলো নিজেরাই দুটিকে ধরে রেখেছে। দুটিই যে বিষয়ে একমত তা হলো: আয়াতটি এমন কিছুর কথা বলছে যা সৃষ্টির সময়েই নির্ধারিত, দুর্ভাগা কোনো এক প্রজন্মের উপর ঘটে যাওয়া কিছু নয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Inventory That Follows", bn: "এরপর আসা তালিকা" },
+        p: [
+          {
+            en: "What follows shows why the point is being made. 90:5 asks whether he thinks nobody has power over him, and 90:6 puts a boast in his mouth: I have spent wealth in abundance. 90:7 asks whether he thinks nobody saw him. Then the reply arrives as an inventory: 90:8 gives him two eyes, 90:9 a tongue and two lips, and 90:10 the two ways he was shown. Everything he was spending had been issued to him.",
+            bn: "এরপর যা আসে তা দেখায়, কথাটি কেন বলা হচ্ছে। 90:5 জিজ্ঞেস করে, সে কি মনে করে তার উপর কারও ক্ষমতা নেই? আর 90:6 তার মুখে বসিয়ে দেয় একটি অহংকার: আমি প্রচুর ধন-সম্পদ ব্যয় করেছি। 90:7 জিজ্ঞেস করে, সে কি মনে করে তাকে কেউ দেখেনি? তারপর উত্তরটি আসে একটি তালিকার আকারে: 90:8 তাকে দেয় দুটি চোখ, 90:9 একটি জিহ্বা ও দুটি ঠোঁট, আর 90:10 দেখানো দুটি পথ। সে যা কিছু ব্যয় করছিল, তার সবই তাকে দেওয়া হয়েছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Steep Pass", bn: "দুর্গম গিরিপথ" },
+        p: [
+          {
+            en: "90:11 states the failure in one clause: he did not attempt the steep pass. 90:12 asks what the steep pass is, and 90:13-16 answer — the freeing of a slave, or feeding on a day of severe hunger an orphan of near relationship or a needy person in misery. Then 90:17 adds the condition that holds it all together: and then being of those who believed, and advised one another to patience, and advised one another to compassion.",
+            bn: "90:11 ব্যর্থতাটি বলে একটিমাত্র বাক্যে: সে দুর্গম গিরিপথে প্রবেশ করল না। 90:12 জিজ্ঞেস করে, দুর্গম গিরিপথ কী; আর 90:13-16 উত্তর দেয় — একটি দাসকে মুক্ত করা, কিংবা তীব্র ক্ষুধার দিনে খাওয়ানো নিকটাত্মীয় এতীমকে অথবা দুর্দশাগ্রস্ত অভাবীকে। এরপর 90:17 যোগ করে সেই শর্তটি যা সবকিছুকে একসূত্রে বাঁধে: এবং তারপর তাদের অন্তর্ভুক্ত হওয়া যারা ঈমান এনেছে এবং পরস্পরকে সবরের উপদেশ দিয়েছে ও পরস্পরকে দয়ার উপদেশ দিয়েছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Toil With a Direction", bn: "দিকনির্দেশনাসহ পরিশ্রম" },
+        p: [
+          {
+            en: "Put the halves together and the surah's argument is complete. Man is made inside toil and the toil is not optional; the steep pass is also toil, and that one is optional. So the verse is not describing a misfortune from which some people are exempt. It is describing the raw material everybody is issued, and 90:11 records what the man in this passage did with his: he spent it, boasted of the spending, and never went up the hill.",
+            bn: "দুই অংশ একসঙ্গে রাখলে সূরার যুক্তি সম্পূর্ণ হয়। মানুষকে সৃষ্টি করা হয়েছে পরিশ্রমের ভেতরে, আর সেই পরিশ্রম ঐচ্ছিক নয়; দুর্গম গিরিপথও পরিশ্রম, তবে সেটি ঐচ্ছিক। কাজেই আয়াতটি এমন কোনো দুর্ভাগ্যের কথা বলছে না যা থেকে কেউ কেউ রেহাই পায়। এটি বলছে সেই কাঁচামালের কথা যা সবাইকে দেওয়া হয়েছে; আর 90:11 লিপিবদ্ধ করে, এই অংশের লোকটি তার ভাগেরটি নিয়ে কী করেছিল: সে তা ব্যয় করেছে, ব্যয়ের অহংকার করেছে, আর কখনো পাহাড়ে ওঠেনি।",
+          },
+          {
+            en: "84:6 states the same fact from the other end, telling every human being that he is toiling toward his Lord and will meet Him. Between the two verses the question of whether to strive is closed, and only the direction is left open. That reframes the usual complaint. Hardship arriving in a marriage, a body, a job or a debt is not evidence that the design has failed; it is the design, and 90:13-17 says what the best of it can be spent on.",
+            bn: "84:6 একই কথা বলে উল্টো দিক থেকে, প্রত্যেক মানুষকে জানিয়ে দেয় যে সে তার প্রতিপালকের দিকে পরিশ্রম করে চলেছে এবং তাঁর সাক্ষাৎ পাবে। এই দুই আয়াতের মাঝখানে 'পরিশ্রম করব কি না' প্রশ্নটি বন্ধ হয়ে যায়, খোলা থাকে কেবল দিকটি। এটি চিরাচরিত অভিযোগটিকে নতুন করে সাজিয়ে দেয়। বিয়েতে, শরীরে, চাকরিতে বা ঋণে যে কষ্ট এসে হাজির হয় তা নকশা ব্যর্থ হওয়ার প্রমাণ নয়; তা-ই নকশা — আর 90:13-17 বলে দেয়, সেই কষ্টের সবচেয়ে ভালো অংশটুকু কীসে ব্যয় করা যায়।",
+          },
+        ],
+      },
+    ],
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { TADABBUR_ARTICLES };

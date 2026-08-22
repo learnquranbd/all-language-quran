@@ -3771,8 +3771,8 @@ const TADABBUR_NOTES = {
     "lessonBn": "চিন্তা-ভাবনা শুরু হয় নিজের খাবারের প্লেট থেকেই — প্রতিটি আহার তার রিযিকদাতার দিকে ইঙ্গিতকারী নিদর্শন।"
   },
   "81:26": {
-    "reflectionEn": "'So where are you going?' — four words that stop a person mid-stride. After affirming the truth of the message, the Qur'an asks the wanderer to name his destination. It is a question every life must answer: if not toward this guidance, then toward what, and why?",
-    "reflectionBn": "'কাজেই তোমরা কোথায় চলেছ?' — কয়েকটি শব্দ, যা মানুষকে চলার মাঝপথে থামিয়ে দেয়। বাণীর সত্যতা ঘোষণার পর কুরআন পথভোলা পথিককে তার গন্তব্যের নাম জিজ্ঞেস করে। এটি এমন এক প্রশ্ন যার উত্তর প্রতিটি জীবনকে দিতেই হয়: এই হেদায়েতের দিকে না হলে, তবে কোন দিকে — এবং কেন?",
+    "reflectionEn": "'So where are you going?' — two words in Arabic that stop a person mid-stride. After affirming the truth of the message, the Qur'an asks the wanderer to name his destination. It is a question every life must answer: if not toward this guidance, then toward what, and why?",
+    "reflectionBn": "'কাজেই তোমরা কোথায় চলেছ?' — আরবিতে দুটি শব্দ, যা মানুষকে চলার মাঝপথে থামিয়ে দেয়। বাণীর সত্যতা ঘোষণার পর কুরআন পথভোলা পথিককে তার গন্তব্যের নাম জিজ্ঞেস করে। এটি এমন এক প্রশ্ন যার উত্তর প্রতিটি জীবনকে দিতেই হয়: এই হেদায়েতের দিকে না হলে, তবে কোন দিকে — এবং কেন?",
     "pointsEn": ["If someone asked where your current path leads in ten years, what would you honestly answer?","What direction are your daily habits quietly carrying you toward?","When you drift from guidance, what usually pulls you — and what calls you back?"],
     "pointsBn": ["কেউ যদি জিজ্ঞেস করে আপনার বর্তমান পথ দশ বছর পরে কোথায় নিয়ে যাবে, সৎভাবে কী উত্তর দেবেন?","আপনার দৈনন্দিন অভ্যাসগুলো নীরবে আপনাকে কোন দিকে বয়ে নিয়ে যাচ্ছে?","হেদায়েত থেকে সরে গেলে সাধারণত কী আপনাকে টানে — আর কী আবার ফিরিয়ে আনে?"],
     "lessonEn": "Pause often to ask yourself the Qur'an's question — where am I actually going?",
@@ -3819,8 +3819,8 @@ const TADABBUR_NOTES = {
     "lessonBn": "আপনি সৃষ্ট হয়েছেন সর্বোত্তম গঠনে — জীবনযাপনের ধরন দিয়ে সেই সৃষ্টির মর্যাদা রক্ষা করুন।"
   },
   "97:3": {
-    "reflectionEn": "The Night of Decree is better than a thousand months — a single night outweighing more than eighty years of time. The verse reveals that in Allah's measure, moments are not equal: some hours carry the weight of lifetimes. It teaches us to seek out the seasons of mercy and to treat blessed time as the most valuable thing we can ever hold.",
-    "reflectionBn": "ক্বদরের রাত হাজার মাসের চেয়েও উত্তম — একটি মাত্র রাত আশি বছরেরও বেশি সময়কে ছাড়িয়ে যায়। আয়াতটি প্রকাশ করে, আল্লাহর পরিমাপে সব মুহূর্ত সমান নয়: কিছু প্রহর গোটা জীবনের সমান ভার বহন করে। এটি শেখায় — রহমতের মৌসুমগুলো খুঁজে নিতে, আর বরকতময় সময়কে গণ্য করতে হাতে পাওয়া সবচেয়ে মূল্যবান সম্পদ হিসেবে।",
+    "reflectionEn": "The Night of Decree is better than a thousand months — a comparison of worth, not a rate of exchange. The verse reveals that in Allah's measure, moments are not equal: some hours carry the weight of lifetimes. It teaches us to seek out the seasons of mercy and to treat blessed time as the most valuable thing we can ever hold.",
+    "reflectionBn": "ক্বদরের রাত হাজার মাসের চেয়েও উত্তম — এটি শ্রেষ্ঠত্বের তুলনা, কোনো বিনিময়-হার নয়। আয়াতটি প্রকাশ করে, আল্লাহর পরিমাপে সব মুহূর্ত সমান নয়: কিছু প্রহর গোটা জীবনের সমান ভার বহন করে। এটি শেখায় — রহমতের মৌসুমগুলো খুঁজে নিতে, আর বরকতময় সময়কে গণ্য করতে হাতে পাওয়া সবচেয়ে মূল্যবান সম্পদ হিসেবে।",
     "pointsEn": ["If one night can outweigh a thousand months, what does that say about the potential of any sincere moment?","How do you currently treat the blessed times of the day and year — as opportunities or as routine?","What would seeking a night 'better than a thousand months' look like in your worship?"],
     "pointsBn": ["একটি রাত যদি হাজার মাসকে ছাড়িয়ে যেতে পারে, তবে যেকোনো আন্তরিক মুহূর্তের সম্ভাবনা সম্পর্কে তা কী বলে?","দিন ও বছরের বরকতময় সময়গুলোকে আপনি এখন কীভাবে দেখেন — সুযোগ হিসেবে, নাকি নিছক রুটিন হিসেবে?","'হাজার মাসের চেয়ে উত্তম' একটি রাতের সন্ধান করা আপনার ইবাদতে কেমন রূপ নিতে পারে?"],
     "lessonEn": "In Allah's measure some moments outweigh lifetimes — seek the blessed times and fill them.",
