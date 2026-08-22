@@ -3389,8 +3389,8 @@ const TADABBUR_NOTES = {
   "71:10": {
     "reflectionEn": "Nuh's call to his people was simple: ask forgiveness of your Lord, for He is ever a Perpetual Forgiver. The name used is one of constant, repeated forgiving — a door that does not close after the first knock or the hundredth. However long a person has stayed away, the verse presents forgiveness not as a rare exception but as an enduring attribute of the Lord.",
     "reflectionBn": "নূহের তাঁর জাতির প্রতি আহ্বান ছিল সরল: তোমাদের প্রতিপালকের কাছে ক্ষমা চাও, তিনি বড়ই ক্ষমাশীল। যে নামটি ব্যবহৃত হয়েছে তা নিরন্তর, বারবার ক্ষমা করার নাম — এমন এক দরজা যা প্রথম করাঘাতের পরেও বন্ধ হয় না, শততম করাঘাতের পরেও নয়। মানুষ যত দীর্ঘকালই দূরে থাকুক, আয়াতটি ক্ষমাকে বিরল ব্যতিক্রম হিসেবে নয়, বরং প্রতিপালকের এক চিরস্থায়ী গুণ হিসেবে উপস্থাপন করে।",
-    "pointsEn": ["Have I ever felt I had asked forgiveness 'too many times' — and what does the name 'Perpetual Forgiver' say to that feeling?","Why might seeking forgiveness be the very first thing a prophet calls his people to?"],
-    "pointsBn": ["কখনো কি মনে হয়েছে আমি 'অনেক বেশি বার' ক্ষমা চেয়ে ফেলেছি — 'বড়ই ক্ষমাশীল' নামটি সেই অনুভূতিকে কী জবাব দেয়?","একজন নবী তাঁর জাতিকে সর্বপ্রথম যে কাজের দিকে ডাকেন তা কেন ক্ষমা প্রার্থনা হতে পারে?"],
+    "pointsEn": ["Have I ever felt I had asked forgiveness 'too many times' — and what does the name 'Perpetual Forgiver' say to that feeling?","Why might seeking forgiveness be what a prophet calls his people to, again and again, once the call to worship Allah alone has been made?"],
+    "pointsBn": ["কখনো কি মনে হয়েছে আমি 'অনেক বেশি বার' ক্ষমা চেয়ে ফেলেছি — 'বড়ই ক্ষমাশীল' নামটি সেই অনুভূতিকে কী জবাব দেয়?","তাওহীদের আহ্বান দেওয়ার পর একজন নবী কেন বারবার ক্ষমা প্রার্থনার দিকেই ডাকেন?"],
     "lessonEn": "Never let shame over repetition stop your istighfar; His forgiving is more constant than your falling.",
     "lessonBn": "বারবার একই ভুলের লজ্জা যেন আপনার ইস্তিগফার থামিয়ে না দেয়; আপনার পতনের চেয়ে তাঁর ক্ষমা অনেক বেশি অবিরাম।"
   },
@@ -3611,12 +3611,12 @@ const TADABBUR_NOTES = {
     "lessonBn": "ধৈর্য আঁকড়ে ধরুন—আল্লাহর ওয়াদা সত্য, আর সংশয়ীরা যেন আপনাকে টলাতে না পারে।"
   },
   "31:22": {
-    "reflectionEn": "Whoever submits himself to Allah while doing good has grasped the most trustworthy handhold — a grip that will not break. Submission paired with excellence is pictured as holding something utterly reliable while everything else gives way. And the verse ends by reminding us that the outcome of all matters returns to Allah.",
-    "reflectionBn": "যে আল্লাহর কাছে আত্মসমর্পণ করে এবং সৎকর্ম করে, সে ধারণ করেছে এক মজবুত হাতল—যে হাতল কখনো ভাঙে না। আনুগত্যের সাথে সৎকর্মের মিলনকে চিত্রিত করা হয়েছে এমন কিছু আঁকড়ে ধরা হিসেবে যা সম্পূর্ণ নির্ভরযোগ্য, যখন বাকি সব ভেঙে পড়ে। আর আয়াতের শেষে মনে করিয়ে দেওয়া হয়—সব কাজের পরিণাম আল্লাহর দিকেই ফেরে।",
+    "reflectionEn": "Whoever submits himself to Allah while doing good has grasped the most trustworthy handhold. Submission paired with excellence is pictured as holding something utterly reliable while everything else gives way. And the verse ends by reminding us that the outcome of all matters returns to Allah.",
+    "reflectionBn": "যে আল্লাহর কাছে আত্মসমর্পণ করে এবং সৎকর্ম করে, সে ধারণ করেছে সবচেয়ে মজবুত হাতল। আনুগত্যের সাথে সৎকর্মের মিলনকে চিত্রিত করা হয়েছে এমন কিছু আঁকড়ে ধরা হিসেবে যা সম্পূর্ণ নির্ভরযোগ্য, যখন বাকি সব ভেঙে পড়ে। আর আয়াতের শেষে মনে করিয়ে দেওয়া হয়—সব কাজের পরিণাম আল্লাহর দিকেই ফেরে।",
     "pointsEn": ["What 'handholds' in your life have failed you before?","Why does the verse pair submission with doing good, not submission alone?","How does knowing all outcomes return to Allah settle your anxieties?"],
     "pointsBn": ["জীবনের কোন 'হাতলগুলো' আগে আপনাকে ঠকিয়েছে?","আয়াতটি কেন শুধু আত্মসমর্পণ নয়, সাথে সৎকর্মকেও জুড়ে দেয়?","সব পরিণাম আল্লাহর দিকে ফেরে—এ জানা আপনার দুশ্চিন্তা কীভাবে প্রশমিত করে?"],
-    "lessonEn": "Submit to Allah with excellence — that is the one grip that never breaks.",
-    "lessonBn": "সৎকর্মের সাথে আল্লাহর কাছে আত্মসমর্পণ করুন—এই একটি হাতলই কখনো ভাঙে না।"
+    "lessonEn": "Submit to Allah with excellence — that is the firmest handhold there is.",
+    "lessonBn": "সৎকর্মের সাথে আল্লাহর কাছে আত্মসমর্পণ করুন—এটিই সবচেয়ে মজবুত হাতল।"
   },
   "32:7": {
     "reflectionEn": "Allah 'perfected everything He created' — excellence is stamped on every made thing, and man's own origin is humble clay. The verse joins two truths: the flawlessness of divine craftsmanship and the modesty of our raw material. Whatever beauty we carry is His making, from the humblest of beginnings.",
