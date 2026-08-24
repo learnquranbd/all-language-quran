@@ -28,6 +28,7 @@ const MODULES = [
   { name: 'kids', files: ['js/qaida-data.js', 'js/learn-kids.js'], cls: null, ci18n: true },
   { name: 'surah-names', files: ['js/surah-names-data.js', 'js/surah-names.js'], cls: 'SurahNamesView', ci18n: true },
   { name: 'prayer', files: ['js/learn-prayer-data.js', 'js/learn-prayer.js'], cls: 'SalahModule' },
+  { name: 'hope', files: ['js/hope-data.js', 'js/hope.js'], cls: 'HopeView', ci18n: true },
 ];
 
 const BASE = ['js/translations.js', 'js/content-i18n.js', 'js/surah-data.js'];

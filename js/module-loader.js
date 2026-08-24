@@ -51,6 +51,7 @@ LQ.Modules = (function () {
     surahnames:    ['js/surah-names-data.js', 'js/surah-names.js'],
     quranicarabic: ['js/learn-quranic-arabic-data.js', 'js/learn-quranic-arabic.js'],
     tadabbur:      ['js/tadabbur-data.js', 'js/article-index.js', 'js/article-view.js', 'js/tadabbur.js'],
+    hope:          ['js/hope-data.js', 'js/hope.js'],
   };
 
   const state = {};   // name -> Promise

@@ -226,6 +226,7 @@
  "islam_mustahabb_grade": "等級と原則",
  "view_full_ayah": "全文を表示 →",
  "tadabbur_title": "タダッブル（熟考）",
+ "hope_title": "希望と人格",
  "mt_group_verses_label": "節",
  "kids_stories": "物語",
  "kids_adab": "礼儀",

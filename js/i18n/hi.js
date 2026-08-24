@@ -226,6 +226,7 @@
  "islam_mustahabb_grade": "दर्जा और उसूल",
  "view_full_ayah": "पूरी आयत देखें →",
  "tadabbur_title": "तदब्बुर (चिंतन)",
+ "hope_title": "आशा और सदाचरण",
  "mt_group_verses_label": "आयतें",
  "kids_stories": "कहानियाँ",
  "kids_adab": "शिष्टाचार",

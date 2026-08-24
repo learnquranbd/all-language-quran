@@ -226,6 +226,7 @@
  "islam_mustahabb_grade": "Grad und Prinzip",
  "view_full_ayah": "Vollansicht öffnen →",
  "tadabbur_title": "Tadabbur (Nachdenken)",
+ "hope_title": "Hoffnung und Charakter",
  "mt_group_verses_label": "Verse",
  "kids_stories": "Geschichten",
  "kids_adab": "Umgangsformen",

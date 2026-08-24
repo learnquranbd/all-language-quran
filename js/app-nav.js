@@ -25,6 +25,7 @@ const APP_NAV_PRIMARY = [
       { tab: 'topics', emoji: '🗂️', label: 'topics_title' },
       { tab: 'mutashabihat', emoji: '🪞', label: 'mutashabihat_title' },
       { tab: 'tadabbur', emoji: '💭', label: 'tadabbur_title' },
+      { tab: 'hope', emoji: '🕊️', label: 'hope_title' },
       { tab: 'wordrepeat', emoji: '🔁', label: 'wr_title' },
       { tab: 'sarf', emoji: '🧬', label: 'sarf_title' },
       { tab: 'nuzul', emoji: '🌅', label: 'nuzul_title' },

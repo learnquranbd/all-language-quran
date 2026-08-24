@@ -25,6 +25,7 @@ const { ROOT, fs, path } = require('./lib.js');
 const CONTENT = [
   'js/tadabbur-articles.js',
   'js/tadabbur-data.js',
+  'js/hope-data.js',
   'js/prophets-articles.js',
   'js/prophets-data.js',
   'js/sahaba-articles.js',

@@ -226,6 +226,7 @@
  "islam_mustahabb_grade": "Derece ve ilke",
  "view_full_ayah": "Ayetin tamamını gör →",
  "tadabbur_title": "Tedebbür (Tefekkür)",
+ "hope_title": "Ümit ve Güzel Ahlak",
  "mt_group_verses_label": "Ayetler",
  "kids_stories": "Hikâyeler",
  "kids_adab": "Edep",

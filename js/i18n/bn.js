@@ -226,6 +226,7 @@
  "islam_mustahabb_grade": "মান ও মূলনীতি",
  "view_full_ayah": "পূর্ণ আয়াত দেখুন →",
  "tadabbur_title": "তাদাব্বুর (গভীর চিন্তা)",
+ "hope_title": "আশা ও আদর্শ চরিত্র",
  "mt_group_verses_label": "আয়াতসমূহ",
  "seerah_ashara_title": "জান্নাতের সুসংবাদপ্রাপ্ত দশজন",
  "seerah_ashara_sub": "আল-আশারাতুল মুবাশশারা (রাঃ)",

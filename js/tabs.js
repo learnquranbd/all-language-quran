@@ -28,6 +28,7 @@ const TAB_META = {
   resources:    { emoji: '🔗', key: 'resources_title' },
   mutashabihat: { emoji: '🪞', key: 'mutashabihat_title' },
   tadabbur:     { emoji: '💭', key: 'tadabbur_title' },
+  hope:         { emoji: '🕊️', key: 'hope_title' },
   quranicarabic: { emoji: '🔤', key: 'qa_title' },
   seerah:       { emoji: '🌙', key: 'seerah_title' },
   whyislam:     { emoji: '💡', key: 'whyislam_title' },

@@ -226,6 +226,7 @@
  "islam_mustahabb_grade": "الدرجة والمبدأ",
  "view_full_ayah": "عرض الآية كاملة ←",
  "tadabbur_title": "التدبر",
+ "hope_title": "الرجاء وحسن الخلق",
  "mt_group_verses_label": "الآيات",
  "kids_stories": "قصص",
  "kids_adab": "آداب",
