@@ -290,7 +290,7 @@ const HOPE_NAMES = [
     meaning: { en: 'The Most Merciful', bn: 'পরম করুণাময়' },
     note: {
       en: 'A form the Arabs used for an overwhelming, filling quality. Surah ar-Rahman opens with this name alone as a sentence, and the first thing attributed to it is that He taught the Qur’an.',
-      bn: 'আরবরা এই গঠনটি ব্যবহার করত উপচে পড়া, পূর্ণ করে দেওয়া গুণ বোঝাতে। সূরা আর-রহমান শুরুই হয় কেবল এই নামটি দিয়ে একটি বাক্য হিসেবে, আর তার সাথে প্রথম যা যুক্ত করা হয় তা হলো তিনি কুরআন শিক্ষা দিয়েছেন।',
+      bn: 'আরবিতে এই গড়নটা ব্যবহার হতো উপচে পড়া, ভরে দেওয়া গুণ বোঝাতে। সূরা আর-রহমান শুরুই হয় শুধু এই নামটা দিয়ে, একটা গোটা বাক্য হিসেবে। আর এর সঙ্গে প্রথম যে কাজটা জোড়া হয়, তা হলো — তিনি কুরআন শিখিয়েছেন।',
     },
   },
   {
@@ -298,7 +298,7 @@ const HOPE_NAMES = [
     meaning: { en: 'The Especially Merciful', bn: 'অসীম দয়ালু' },
     note: {
       en: 'The second form is continuous rather than overwhelming — mercy that keeps arriving. It appears here at the moment Adam’s (AS) repentance is accepted.',
-      bn: 'দ্বিতীয় গঠনটি উপচে পড়া নয়, ধারাবাহিক — যে রহমত আসতেই থাকে। এখানে তা আসে ঠিক সেই মুহূর্তে যখন আদম (আ)-এর তওবা কবুল হয়।',
+      bn: 'দ্বিতীয় গড়নটা উপচে পড়ার নয়, লেগে থাকার — যে রহমত থামে না, আসতেই থাকে। নামটা এখানে আসে ঠিক সেই মুহূর্তে, যখন আদম (আ)-এর তওবা কবুল হচ্ছে।',
     },
   },
   {
@@ -306,7 +306,7 @@ const HOPE_NAMES = [
     meaning: { en: 'The Forgiving', bn: 'অতি ক্ষমাশীল' },
     note: {
       en: 'The root means to cover over — the same root as the helmet that shields a head. Forgiveness in Arabic is first of all concealment, then pardon.',
-      bn: 'ধাতুমূলের অর্থ ঢেকে দেওয়া — মাথা রক্ষাকারী শিরস্ত্রাণের সেই একই মূল। আরবিতে ক্ষমা প্রথমত আবরণ, তারপর মার্জনা।',
+      bn: 'শব্দের মূল অর্থ ঢেকে দেওয়া; মাথা বাঁচানোর শিরস্ত্রাণের শব্দটাও এই একই মূল থেকে। আরবিতে মাফ মানে আগে ঢেকে দেওয়া, তারপর মার্জনা।',
     },
   },
   {
@@ -314,7 +314,7 @@ const HOPE_NAMES = [
     meaning: { en: 'The Perpetual Forgiver', bn: 'বারবার ক্ষমাকারী' },
     note: {
       en: 'The intensive form: not one who forgave once but one who forgives repeatedly, as a settled practice. Nuh (AS) uses this name as his argument to a people who had rejected him for centuries.',
-      bn: 'অতিশয়ার্থক গঠন: যিনি একবার ক্ষমা করেছেন তিনি নন, যিনি বারবার ক্ষমা করেন, স্থায়ী অভ্যাস হিসেবে। শতাব্দীর পর শতাব্দী প্রত্যাখ্যানকারী এক জাতির সামনে নূহ (আ) এই নামটিকেই যুক্তি হিসেবে ব্যবহার করেন।',
+      bn: 'গড়নটা জোর দেওয়ার: যিনি একবার মাফ করেছেন তিনি নন, যিনি বারবার মাফ করেন — বাঁধা অভ্যাসের মতো। যুগ যুগ ধরে যে জাতি তাঁকে ফিরিয়ে দিয়েছে, তাদের সামনে নূহ (আ) এই নামটাকেই যুক্তি হিসেবে সামনে আনেন।',
     },
   },
   {
@@ -322,7 +322,7 @@ const HOPE_NAMES = [
     meaning: { en: 'The Accepter of Repentance', bn: 'তওবা কবুলকারী' },
     note: {
       en: 'From the same verb as the servant’s tawbah. He turns toward the one who turns, and the intensive form means He does it again every time.',
-      bn: 'বান্দার তওবার সেই একই ক্রিয়াপদ থেকে। যে ফেরে তিনি তার দিকে ফেরেন, আর অতিশয়ার্থক গঠন মানে প্রতিবারই তিনি তা আবার করেন।',
+      bn: 'বান্দার তওবা বোঝাতে যে ক্রিয়াপদ, নামটাও সেখান থেকেই। যে ফেরে, তিনি তার দিকে ফেরেন। আর গড়নটা জোর দেওয়ার — অর্থাৎ প্রতিবারই তিনি আবার তা করেন।',
     },
   },
   {
@@ -330,7 +330,7 @@ const HOPE_NAMES = [
     meaning: { en: 'The Pardoner', bn: 'মার্জনাকারী' },
     note: {
       en: '‘Afw goes further than forgiveness: it means to erase, so that no trace of the offence remains to be forgiven. Aishah (RA) was taught to ask for this name on Laylat al-Qadr.',
-      bn: 'আফও ক্ষমার চেয়েও এগিয়ে যায়: এর অর্থ মুছে ফেলা, যাতে ক্ষমা করার মতো অপরাধের কোনো চিহ্নই আর না থাকে। আয়েশা (রা)-কে লাইলাতুল কদরে এই নামটি ধরে চাইতে শেখানো হয়েছিল।',
+      bn: 'আফও মাফেরও এক ধাপ আগে: মানে মুছে ফেলা, যাতে মাফ করার মতো কোনো দাগই আর পড়ে না থাকে। লাইলাতুল কদরে আয়েশা (রা)-কে এই নামটা ধরেই চাইতে শেখানো হয়েছিল।',
     },
   },
   {
@@ -338,7 +338,7 @@ const HOPE_NAMES = [
     meaning: { en: 'The Forbearing', bn: 'অতি সহনশীল' },
     note: {
       en: 'The One who does not hurry to punish though He could. Every delay you have been given between a sin and its consequence is this name operating.',
-      bn: 'যিনি শাস্তি দিতে সক্ষম হয়েও তাড়াহুড়ো করেন না। গুনাহ আর তার পরিণতির মাঝে আপনাকে যত অবকাশ দেওয়া হয়েছে, তার সবই এই নামের কাজ।',
+      bn: 'শাস্তি দিতে পারতেন, তবু তাড়াহুড়ো করেন না। গুনাহ আর তার পরিণতির মাঝখানে আপনি যত সময় পেয়েছেন, তার সবটাই এই নামের কাজ।',
     },
   },
   {
@@ -346,7 +346,7 @@ const HOPE_NAMES = [
     meaning: { en: 'The Loving', bn: 'অত্যন্ত স্নেহশীল' },
     note: {
       en: 'Wudd is affection that shows — love expressed rather than merely felt. The Qur’an places this name immediately after al-Ghafūr, in that order.',
-      bn: 'উদ্দ হলো প্রকাশ পাওয়া ভালোবাসা — কেবল অনুভূত নয়, প্রকাশিত। কুরআন এই নামটি রাখে আল-গাফূর-এর ঠিক পরেই, এই ক্রমেই।',
+      bn: 'উদ্দ মানে যে ভালোবাসা প্রকাশ পায় — মনে থেকে যায় এমন নয়, বাইরে এসে দাঁড়ায় এমন। কুরআন নামটা বসিয়েছে আল-গাফূর-এর ঠিক পরে, এই ক্রমেই।',
     },
   },
   {
@@ -354,7 +354,7 @@ const HOPE_NAMES = [
     meaning: { en: 'The Generous', bn: 'মহা দয়াশীল' },
     note: {
       en: 'Used at the sharpest possible moment: what has deceived you concerning your Lord, the Generous? Even the rebuke names Him by the attribute that makes the rebuke survivable.',
-      bn: 'ব্যবহৃত সবচেয়ে তীক্ষ্ণ মুহূর্তে: কিসে তোমাকে তোমার মহান রব সম্পর্কে ধোঁকায় ফেলল? ভর্ৎসনাটিও তাঁকে সেই গুণেই নাম দেয়, যা ভর্ৎসনাটিকে সহনীয় করে তোলে।',
+      bn: 'নামটা ব্যবহার হয়েছে সবচেয়ে কড়া মুহূর্তে: কিসে তোমাকে তোমার মহান রব সম্পর্কে ধোঁকায় ফেলল? ধমকটাও তাঁকে ডাকছে সেই গুণে, যে গুণের কারণেই ধমকটা সহ্য করা যায়।',
     },
   },
   {
@@ -362,7 +362,7 @@ const HOPE_NAMES = [
     meaning: { en: 'The Most Kind', bn: 'পরম অনুগ্রহশীল' },
     note: {
       en: 'Quoted in Paradise as what its people used to call upon Him by in the world: indeed He is al-Barr, ar-Raḥīm. The name they used before is the name they use after.',
-      bn: 'জান্নাতে উদ্ধৃত, দুনিয়ায় তার অধিবাসীরা তাঁকে যে নামে ডাকত: নিশ্চয়ই তিনি আল-বার, আর-রহিম। আগে তাঁরা যে নাম ব্যবহার করতেন, পরেও সেটিই।',
+      bn: 'কথাটা জান্নাতের, আর জান্নাতিরা বলছেন দুনিয়ায় তাঁরা তাঁকে কী বলে ডাকতেন: নিশ্চয়ই তিনি আল-বার, আর-রহিম। আগে যে নামে ডাকতেন, পরেও সেই নামেই।',
     },
   },
   {
@@ -370,7 +370,7 @@ const HOPE_NAMES = [
     meaning: { en: 'The Most Kind', bn: 'অতি স্নেহশীল' },
     note: {
       en: 'Ra’fah is tenderness toward someone in difficulty — a gentler, more particular word than raḥmah. Both this name and ar-Raḥīm are also used of the Prophet ﷺ in 9:128.',
-      bn: 'রাফাহ হলো কষ্টে থাকা কারও প্রতি কোমলতা — রহমাহর চেয়ে নরম ও বেশি নির্দিষ্ট একটি শব্দ। এই নাম আর আর-রহিম দুটিই ৯:১২৮-এ নবী ﷺ-এর জন্যও ব্যবহৃত হয়েছে।',
+      bn: 'রাফাহ মানে কষ্টে পড়া কারও প্রতি কোমলতা — রহমাহর চেয়ে নরম, আর বেশি নির্দিষ্ট। এই নাম আর আর-রহিম, দুটোই ৯:১২৮-এ নবী ﷺ-এর জন্যও ব্যবহার করা হয়েছে।',
     },
   },
   {
@@ -379,7 +379,7 @@ const HOPE_NAMES = [
     meaning: { en: 'The Coverer', bn: 'আবরণকারী' },
     note: {
       en: 'The Prophet ﷺ said: “Indeed Allah is modest and covering, and He loves modesty and covering.” Named here because the covering you already received is this chapter’s strongest argument.',
-      bn: 'নবী ﷺ বলেছেন: “নিশ্চয়ই আল্লাহ লজ্জাশীল ও আবরণকারী, আর তিনি লজ্জাশীলতা ও আবরণ ভালোবাসেন।” এখানে নাম নেওয়া হলো কারণ আপনি ইতিমধ্যেই যে আবরণ পেয়েছেন, তা-ই এই অধ্যায়ের সবচেয়ে জোরালো যুক্তি।',
+      bn: 'নবী ﷺ বলেছেন: “নিশ্চয়ই আল্লাহ লজ্জাশীল ও আবরণকারী, আর তিনি লজ্জা ও আবরণ ভালোবাসেন।” নামটা এখানে এল, কারণ আপনি আগে থেকেই যে আবরণটা পেয়ে আছেন, সেটাই এই অধ্যায়ের সবচেয়ে জোরালো যুক্তি।',
     },
   },
 ];
@@ -2259,17 +2259,17 @@ const HOPE_CHAPTERS = [
       ref: '7:126',
       why: {
         en: "Afrigh — pour patience upon us, the way water is poured over a vessel. Patience is asked for as something received, not manufactured.",
-        bn: "আফরিগ — আমাদের উপর ধৈর্য ঢেলে দিন, যেভাবে পাত্রে পানি ঢালা হয়। ধৈর্য চাওয়া হচ্ছে প্রাপ্ত কিছু হিসেবে, নিজে বানানো কিছু হিসেবে নয়।",
+        bn: "আফরিগ — আমাদের ওপর সবর ঢেলে দিন, যেভাবে পাত্রে পানি ঢালা হয়। সবর এখানে চাওয়া হচ্ছে উপরে থেকে পাওয়া জিনিস হিসেবে, নিজে বানানো জিনিস হিসেবে নয়।",
       },
     },
     intro: [
       {
         en: 'The Prophet ﷺ described the believer’s affair as entirely good, and then explained why: if something pleasing comes he is grateful and that is good for him, and if something harmful comes he is patient and that is good for him. Two responses, two outcomes, and no situation left over. It is one of the most practically useful sentences in the Sunnah.',
-        bn: 'নবী ﷺ মুমিনের বিষয়টিকে পুরোপুরি কল্যাণকর বলে বর্ণনা করেছেন, তারপর ব্যাখ্যা করেছেন কেন: আনন্দের কিছু এলে সে কৃতজ্ঞ হয় আর তা তার জন্য কল্যাণ, আর কষ্টের কিছু এলে সে ধৈর্য ধরে আর তা তার জন্য কল্যাণ। দুটি প্রতিক্রিয়া, দুটি ফল, আর কোনো অবস্থাই বাকি থাকে না। সুন্নাহর সবচেয়ে বাস্তব কাজে লাগা বাক্যগুলোর একটি।',
+        bn: 'নবী ﷺ বলেছেন, মুমিনের সবকিছুই কল্যাণ। তারপর বুঝিয়ে দিয়েছেন কেন: সুখের কিছু এলে সে শোকর করে, আর তা তার জন্য কল্যাণ; কষ্টের কিছু এলে সে সবর করে, আর তা-ও তার জন্য কল্যাণ। দুটো প্রতিক্রিয়া, দুটো ফল, আর কোনো অবস্থাই বাকি থাকে না। সুন্নাহর সবচেয়ে কাজে লাগা কথাগুলোর একটা।',
       },
       {
         en: 'Ṣabr in Arabic is not passivity — it is restraint under pressure, the same word used for binding something so it holds. And shukr in the Qur’an is answered with a promise that is unusually direct: if you are grateful, I will surely increase you. Gratitude is described as a mechanism of increase, not as a courtesy.',
-        bn: 'আরবিতে সবর মানে নিষ্ক্রিয়তা নয় — চাপের মুখে সংযম, একই শব্দ যা কিছু বেঁধে রাখা বোঝাতে ব্যবহৃত হয়। আর কুরআনে শুকরের উত্তরে আসে অস্বাভাবিক সরাসরি এক প্রতিশ্রুতি: তোমরা কৃতজ্ঞ হলে আমি অবশ্যই তোমাদের বাড়িয়ে দেব। কৃতজ্ঞতাকে বলা হয়েছে বৃদ্ধির একটি প্রক্রিয়া, নিছক সৌজন্য নয়।',
+        bn: 'আরবিতে সবর মানে হাত গুটিয়ে বসে থাকা নয়। মানে চাপের মুখে নিজেকে ধরে রাখা; একই শব্দ কিছু বেঁধে রাখা বোঝাতেও ব্যবহার হয়। আর শোকরের জবাবে কুরআন অস্বাভাবিক সোজাসুজি ওয়াদা করে: তোমরা শোকর করলে আমি অবশ্যই বাড়িয়ে দেব। শোকর তাই নিছক ভদ্রতা নয়, বাড়ার একটা পথ।',
       },
     ],
     verses: [
@@ -2277,35 +2277,35 @@ const HOPE_CHAPTERS = [
         ref: '2:153',
         note: {
           en: 'Two resources named for the same crisis: patience and prayer. And the closing clause is not that Allah rewards the patient but that He is with them — presence offered rather than compensation.',
-          bn: 'একই সংকটে দুটি অবলম্বনের নাম: ধৈর্য ও নামাজ। আর শেষ অংশটি এই নয় যে আল্লাহ ধৈর্যশীলদের প্রতিদান দেন, বরং তিনি তাদের সাথে আছেন — ক্ষতিপূরণ নয়, সঙ্গের প্রতিশ্রুতি।',
+          bn: 'একই বিপদে দুটো অবলম্বনের নাম: সবর আর নামাজ। আর শেষ কথাটা এই নয় যে আল্লাহ সবরকারীদের প্রতিদান দেন; কথাটা হলো তিনি তাদের সঙ্গে আছেন। ক্ষতিপূরণ নয়, সঙ্গ থাকার ওয়াদা।',
         },
       },
       {
         ref: '14:7',
         note: {
           en: 'The promise for gratitude is emphatic — la-azīdannakum, I will most certainly increase you — while the other half is left open: if you deny, My punishment is severe. What the increase consists of is not specified, which lets it be whatever you actually need.',
-          bn: 'কৃতজ্ঞতার প্রতিশ্রুতিটি জোরালো — লা-আজীদান্নাকুম, আমি অবশ্যই তোমাদের বাড়িয়ে দেব — আর অন্য অর্ধেকটি খোলা রাখা: অকৃতজ্ঞ হলে আমার শাস্তি কঠিন। বৃদ্ধিটি কীসের, তা নির্দিষ্ট করা হয়নি, ফলে আপনার যা সত্যিই দরকার তা-ই হতে পারে।',
+          bn: 'শোকরের ওয়াদাটা জোর দিয়ে বলা — লা-আজীদান্নাকুম, আমি অবশ্যই বাড়িয়ে দেব। অন্য অর্ধেকটা খোলা রাখা: অকৃতজ্ঞ হলে আমার আজাব কঠিন। কী বাড়বে তা বলা হয়নি। কাজেই আপনার যা সত্যিই দরকার, সেটাই হতে পারে।',
         },
       },
       {
         ref: '39:10',
         note: {
           en: 'The reward for the patient is bi ghayri ḥisāb — without measure, uncalculated. Every other reward in the Qur’an is a multiple of something. This one is taken off the ledger entirely.',
-          bn: 'ধৈর্যশীলদের প্রতিদান বি-গাইরি হিসাব — হিসাব ছাড়া, অগণিত। কুরআনের অন্য সব প্রতিদানই কোনো কিছুর গুণিতক। এটিকে খাতা থেকেই সরিয়ে নেওয়া হয়েছে।',
+          bn: 'সবরকারীদের প্রতিদান বি-গাইরি হিসাব — হিসাব ছাড়া, গুনে শেষ করা যায় না। কুরআনে বাকি সব প্রতিদানই কোনো না কোনো গুণিতক। এইটাকে খাতা থেকেই তুলে নেওয়া হয়েছে।',
         },
       },
       {
         ref: '103:1-3',
         note: {
           en: 'Three verses that ash-Shafi‘i said would have sufficed the ummah had nothing else been revealed. Everyone is in loss except four things — belief, righteous deeds, urging one another to truth, urging one another to patience. The last two are social: patience is something you hold others in, not only yourself.',
-          bn: 'তিনটি আয়াত, যেগুলো সম্পর্কে ইমাম শাফিয়ি বলেছিলেন, আর কিছু নাজিল না হলেও উম্মতের জন্য এগুলোই যথেষ্ট হতো। সবাই ক্ষতির মধ্যে, চারটি জিনিস ছাড়া — ঈমান, সৎকাজ, পরস্পরকে সত্যের উপদেশ, পরস্পরকে ধৈর্যের উপদেশ। শেষ দুটি সামাজিক: ধৈর্য এমন কিছু যাতে আপনি অন্যকেও ধরে রাখেন, কেবল নিজেকে নয়।',
+          bn: 'তিনটে আয়াত, যেগুলো নিয়ে ইমাম শাফিয়ি বলেছিলেন — আর কিছু নাজিল না হলেও উম্মতের জন্য এগুলোই যথেষ্ট হতো। সবাই ক্ষতিতে, চারটে জিনিস ছাড়া: ঈমান, নেক আমল, পরস্পরকে সত্যের উপদেশ, আর পরস্পরকে সবরের উপদেশ। শেষ দুটো সামাজিক। অর্থাৎ সবর এমন জিনিস, যাতে আপনি অন্যকেও ধরে রাখেন, কেবল নিজেকে নয়।',
         },
       },
       {
         ref: '13:22',
         note: {
           en: 'Patience here is given a motive — seeking the face of their Lord — which separates it from mere endurance. Two people can suffer the same thing identically and only one of them is doing ṣabr.',
-          bn: 'এখানে ধৈর্যের একটি উদ্দেশ্য দেওয়া হয়েছে — তাদের রবের সন্তুষ্টি চাওয়া — যা একে নিছক সহ্য করা থেকে আলাদা করে। দুজন মানুষ একই কষ্ট একইভাবে ভোগ করতে পারে, অথচ তাদের একজনই সবর করছে।',
+          bn: 'এখানে সবরের একটা উদ্দেশ্য জুড়ে দেওয়া হয়েছে — রবের সন্তুষ্টি চাওয়া। এতেই সবর আলাদা হয়ে যায় নিছক সহ্য করা থেকে। দুজন মানুষ একই কষ্ট একইভাবে ভোগ করতে পারে, অথচ সবর করছে তাদের একজনই।',
         },
       },
     ],
@@ -2318,7 +2318,7 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'The exclusivity clause is the striking part: this is for no one but the believer. The events are the same for everyone; what differs is that only one person has both responses available.',
-          bn: 'বিশেষ অংশটি হলো সীমাবদ্ধতার বাক্যাংশ: এটি মুমিন ছাড়া আর কারও জন্য নয়। ঘটনা সবার জন্য একই; পার্থক্য এটাই যে একজনের হাতেই দুটি প্রতিক্রিয়াই আছে।',
+          bn: 'বিশেষ কথাটা হলো ওই সীমাটা: এ মুমিন ছাড়া আর কারও জন্য নয়। ঘটনা তো সবার বেলায় একই ঘটে। তফাত এটাই যে দুটো প্রতিক্রিয়াই হাতে আছে একজনেরই।',
         },
       },
       {
@@ -2329,22 +2329,22 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'He does not rebuke her for the earlier remark. And the ruling he gives is precise: the patience that counts is the one in the first moment, before the mind has had time to arrange itself.',
-          bn: 'তিনি আগের কথার জন্য তাঁকে ভর্ৎসনা করেননি। আর যে কথাটি বলেন তা নিখুঁত: যে ধৈর্য গণ্য হয় তা প্রথম মুহূর্তেরটি, মন নিজেকে গুছিয়ে নেওয়ার সময় পাওয়ার আগেই।',
+          bn: 'আগের কড়া কথাটার জন্য তিনি তাঁকে কিছুই বলেননি। আর যে কথাটা বললেন, তা একেবারে মাপা: যে সবরটা গোনা হয়, সেটা প্রথম মুহূর্তেরটা — মন নিজেকে গুছিয়ে নেওয়ার সময় পাওয়ার আগেই।',
         },
       },
     ],
     practice: [
       {
         en: 'Name three specific blessings tonight, not general ones. 14:7 attaches increase to gratitude, and vague gratitude tends not to move anything.',
-        bn: 'আজ রাতে তিনটি নির্দিষ্ট নিয়ামতের নাম বলুন, সাধারণভাবে নয়। ১৪:৭ কৃতজ্ঞতার সাথে বৃদ্ধি যুক্ত করে, আর অস্পষ্ট কৃতজ্ঞতা সাধারণত কিছুই নাড়ায় না।',
+        bn: 'আজ রাতে তিনটে নিয়ামতের নাম ধরে ধরে বলুন, ঢালাওভাবে নয়। ১৪:৭ শোকরের সঙ্গে বাড়ার ওয়াদা জুড়েছে, আর ভাসা-ভাসা শোকরে সাধারণত কিছুই নড়ে না।',
       },
       {
         en: 'In the first minute of the next bad news, say inna lillāhi wa inna ilayhi rāji‘ūn before saying anything else. That first minute is what the hadith is about.',
-        bn: 'পরের দুঃসংবাদের প্রথম মিনিটেই আর কিছু বলার আগে বলুন ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন। হাদিসটি ওই প্রথম মিনিটটিরই কথা বলছে।',
+        bn: 'পরের দুঃসংবাদটা পেয়ে প্রথম মিনিটেই, আর কিছু বলার আগে বলুন — ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন। হাদিস ওই প্রথম মিনিটটার কথাই বলছে।',
       },
       {
         en: 'Hold somebody else in patience this week, as 103:3 asks — sit with a person who is struggling instead of solving it for them.',
-        bn: '১০৩:৩ যেমন বলে, এই সপ্তাহে অন্য কাউকে ধৈর্যে ধরে রাখুন — সংগ্রামরত কারও সমস্যা সমাধান করে না দিয়ে তার পাশে বসুন।',
+        bn: '১০৩:৩ যেমন বলছে, এ সপ্তাহে অন্য কাউকে সবরে ধরে রাখুন। যিনি হিমশিম খাচ্ছেন, তাঁর সমস্যা মিটিয়ে দেওয়ার চেষ্টা না করে বরং পাশে গিয়ে বসুন।',
       },
     ],
   },
@@ -2362,17 +2362,17 @@ const HOPE_CHAPTERS = [
       ref: '17:24',
       why: {
         en: "The Qur’an supplies the exact sentence to say for your parents, and puts the reason inside it: as they raised me when I was small.",
-        bn: "কুরআন পিতামাতার জন্য বলার বাক্যটি হুবহু জুগিয়ে দেয়, আর কারণটিও তার ভেতরেই রাখে: তাঁরা যেমন আমাকে ছোটবেলায় লালন করেছেন।",
+        bn: "বাবা-মায়ের জন্য কী বলতে হবে, কুরআন কথাগুলো হুবহু জুগিয়ে দিয়েছে। আর কারণটাও তার ভেতরেই রেখে দিয়েছে: তাঁরা যেমন ছোটবেলায় আমাকে লালন করেছেন।",
       },
     },
     intro: [
       {
         en: 'Good character is easiest to perform in public and hardest to sustain at home, which is exactly why the texts keep pushing it inward. The Qur’an pairs worshipping Allah alone with treating parents well in the same breath, more than once, as though the two were parts of one command. And the Sunnah measures a man by his wife and a believer by his neighbour.',
-        bn: 'সুন্দর চরিত্র প্রকাশ্যে দেখানো সবচেয়ে সহজ আর ঘরে টিকিয়ে রাখা সবচেয়ে কঠিন, আর ঠিক সে কারণেই পাঠগুলো একে বারবার ভেতরের দিকে ঠেলে দেয়। কুরআন একাধিকবার এক নিঃশ্বাসেই কেবল আল্লাহর ইবাদত ও পিতামাতার সাথে সদাচরণকে জোড়া বাঁধে, যেন দুটি একই নির্দেশের অংশ। আর সুন্নাহ একজন পুরুষকে মাপে তার স্ত্রী দিয়ে, আর মুমিনকে তার প্রতিবেশী দিয়ে।',
+        bn: 'সুন্দর চরিত্র বাইরে দেখানো সবচেয়ে সহজ, আর ঘরে টিকিয়ে রাখা সবচেয়ে কঠিন। ঠিক সে কারণেই কুরআন-হাদিস বারবার একে ভেতরের দিকে ঠেলে দেয়। কুরআন একাধিকবার এক নিঃশ্বাসেই কেবল আল্লাহর ইবাদত আর বাবা-মায়ের সঙ্গে সদাচরণকে জোড়া বেঁধে দেয়, যেন দুটো একই হুকুমের দুই অংশ। আর সুন্নাহ একজন পুরুষকে মাপে তার স্ত্রী দিয়ে, আর মুমিনকে তার প্রতিবেশী দিয়ে।',
       },
       {
         en: 'What is asked for is unusually specific. Not “respect your parents” but do not say uff to them — the smallest sound of irritation in the language. The bar is set at a syllable, which tells you the standard is not about grand gestures at all.',
-        bn: 'যা চাওয়া হয়েছে তা অস্বাভাবিক সুনির্দিষ্ট। “পিতামাতাকে সম্মান করো” নয়, বরং তাঁদের উফ বোলো না — ভাষার সবচেয়ে ছোট বিরক্তিসূচক শব্দ। মানদণ্ডটি রাখা হয়েছে একটি ধ্বনিতে, আর তা থেকেই বোঝা যায় এই মান বিশাল কোনো কাজ নিয়ে নয়।',
+        bn: 'যা চাওয়া হয়েছে তা অদ্ভুত রকম নির্দিষ্ট। “বাবা-মাকে সম্মান করো” নয়, বরং তাঁদের উফ বোলো না — ভাষার সবচেয়ে ছোট বিরক্তির শব্দটা। মাপকাঠিটা বসানো হয়েছে একটা ধ্বনিতে। বোঝা যায়, এখানে বিশাল কোনো কাজের কথা হচ্ছে না।',
       },
     ],
     verses: [
@@ -2380,35 +2380,35 @@ const HOPE_CHAPTERS = [
         ref: '17:23-24',
         note: {
           en: 'Watch the sequence: not uff, do not repel them, speak to them a noble word, lower the wing of humility out of mercy — and then a du‘ā to say for them. It moves from what not to do, to tone, to posture, to prayer. And the du‘ā gives the reason: as they raised me when I was small.',
-          bn: 'ক্রমটি লক্ষ করুন: উফ নয়, তাঁদের ধমক দিয়ো না, তাঁদের সাথে সম্মানজনক কথা বলো, দয়াবশত বিনয়ের ডানা নত করো — তারপর তাঁদের জন্য একটি দোয়া। এটি এগোয় কী করবেন না থেকে স্বরে, স্বর থেকে ভঙ্গিতে, ভঙ্গি থেকে দোয়ায়। আর দোয়াটি কারণও বলে দেয়: তাঁরা যেমন আমাকে ছোটবেলায় লালন করেছেন।',
+          bn: 'ক্রমটা খেয়াল করুন: উফ নয়; ধমক দিয়ো না; সম্মানের সঙ্গে কথা বলো; দয়াভরে বিনয়ের ডানা নামিয়ে দাও; আর তারপর তাঁদের জন্য একটা দোয়া। কী করবেন না, সেখান থেকে গলার স্বরে, স্বর থেকে ভঙ্গিতে, ভঙ্গি থেকে দোয়ায়। আর দোয়াটাই কারণটা বলে দেয়: তাঁরা যেমন ছোটবেলায় আমাকে লালন করেছেন।',
         },
       },
       {
         ref: '4:36',
         note: {
           en: 'A widening circle in one verse: parents, relatives, orphans, the needy, the near neighbour, the distant neighbour, the companion at your side, the traveller, and those your right hands possess. Two categories of neighbour are named separately, which is the Qur’an refusing to let proximity be an excuse.',
-          bn: 'এক আয়াতেই প্রসারিত বৃত্ত: পিতামাতা, আত্মীয়, এতিম, অভাবী, নিকট প্রতিবেশী, দূর প্রতিবেশী, পাশের সঙ্গী, পথিক, আর আপনার অধিকারভুক্তরা। প্রতিবেশীর দুটি শ্রেণির আলাদা উল্লেখ, অর্থাৎ কুরআন নৈকট্যকে অজুহাত হতে দিচ্ছে না।',
+          bn: 'এক আয়াতেই বৃত্তটা বড় হতে থাকে: বাবা-মা, আত্মীয়, এতিম, অভাবী, কাছের প্রতিবেশী, দূরের প্রতিবেশী, পাশের সঙ্গী, পথিক, আর যারা আপনার অধীন। প্রতিবেশীর দুই রকমের আলাদা উল্লেখ। অর্থাৎ “ও তো দূরের লোক” — এই অজুহাতটা কুরআন রাখেনি।',
         },
       },
       {
         ref: '30:21',
         note: {
           en: 'Marriage described as a sign of Allah on the same level as the heavens and the earth, and the purpose given is sakīnah — stillness. Then two things placed between the pair: mawaddah and raḥmah, affection and mercy. Mercy is listed as a marital requirement, not a bonus.',
-          bn: 'বিবাহকে বর্ণনা করা হয়েছে আল্লাহর নিদর্শন হিসেবে, আসমান-জমিনের সমান স্তরে, আর উদ্দেশ্য বলা হয়েছে সাকীনাহ — প্রশান্তি। তারপর দম্পতির মাঝে দুটি জিনিস রাখা: মাওয়াদ্দাহ ও রহমাহ, ভালোবাসা ও দয়া। দয়াকে তালিকাভুক্ত করা হয়েছে দাম্পত্যের শর্ত হিসেবে, বাড়তি কিছু হিসেবে নয়।',
+          bn: 'বিয়েকে বলা হয়েছে আল্লাহর নিদর্শন, আসমান-জমিনের সঙ্গে একই কাতারে। আর উদ্দেশ্য বলা হয়েছে সাকীনাহ, অর্থাৎ প্রশান্তি। তারপর স্বামী-স্ত্রীর মাঝে রাখা হয়েছে দুটো জিনিস: মাওয়াদ্দাহ আর রহমাহ — ভালোবাসা আর দয়া। দয়াটা এখানে দাম্পত্যের শর্ত, বাড়তি পাওনা নয়।',
         },
       },
       {
         ref: '66:6',
         note: {
           en: 'Protect yourselves and your families — in that order, and as one obligation. A person’s religious effort is not treated as complete while the household it is practised in has been left out of it.',
-          bn: 'নিজেদের ও নিজেদের পরিবারকে রক্ষা করো — এই ক্রমেই, আর একটিই দায়িত্ব হিসেবে। যে ঘরে দ্বীন পালন করা হচ্ছে সেই ঘরকে বাদ রেখে কারও দ্বীনি প্রচেষ্টাকে সম্পূর্ণ ধরা হয় না।',
+          bn: 'নিজেদের বাঁচাও, আর নিজেদের পরিবারকেও — এই ক্রমেই, আর একটাই দায়িত্ব হিসেবে। যে ঘরে দ্বীন পালন হচ্ছে, সেই ঘরটাকে বাদ রেখে কারও দ্বীনি চেষ্টা পূর্ণ বলে ধরা হয় না।',
         },
       },
       {
         ref: '2:83',
         note: {
           en: 'The covenant taken from an earlier nation, and the same items recur: worship Allah alone, parents, relatives, orphans, the needy — and then speak to people good words. Kind speech is placed inside a covenant, alongside prayer and zakah.',
-          bn: 'পূর্ববর্তী এক জাতির কাছ থেকে নেওয়া অঙ্গীকার, আর একই বিষয়গুলোই ফিরে আসে: কেবল আল্লাহর ইবাদত, পিতামাতা, আত্মীয়, এতিম, অভাবী — তারপর মানুষের সাথে সুন্দর কথা বলা। ভালো কথাকে রাখা হয়েছে একটি অঙ্গীকারের ভেতরে, নামাজ ও যাকাতের পাশে।',
+          bn: 'আগের এক জাতির কাছ থেকে নেওয়া অঙ্গীকার, আর সেই একই জিনিসগুলোই ফিরে আসে: কেবল আল্লাহর ইবাদত, বাবা-মা, আত্মীয়, এতিম, অভাবী — তারপর মানুষের সঙ্গে সুন্দর কথা বলা। ভালো কথাটাকে রাখা হয়েছে একটা অঙ্গীকারের ভেতরে, নামাজ ও যাকাতের পাশেই।',
         },
       },
     ],
@@ -2421,7 +2421,7 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'Inheritance is the closest legal tie in Islam. The comparison is measuring the weight of the instruction, not proposing a ruling, and it is measured against family.',
-          bn: 'ইসলামে উত্তরাধিকারই সবচেয়ে ঘনিষ্ঠ আইনি বন্ধন। তুলনাটি নির্দেশের ভার মাপছে, কোনো বিধান প্রস্তাব করছে না, আর মাপা হচ্ছে পরিবারের নিরিখেই।',
+          bn: 'ইসলামে উত্তরাধিকারই সবচেয়ে ঘনিষ্ঠ আইনি বন্ধন। তুলনাটা কোনো বিধান দিচ্ছে না, নির্দেশটার ভার মাপছে। আর মাপার দাঁড়িপাল্লায় বসানো হয়েছে পরিবারকেই।',
         },
       },
       {
@@ -2432,22 +2432,22 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'Four clauses, each one an exchange, and the last converts the whole thing into a standing arrangement rather than a series of transactions.',
-          bn: 'চারটি বাক্যাংশ, প্রতিটিই একটি বিনিময়, আর শেষটি গোটা বিষয়টিকে কয়েকটি লেনদেন থেকে বদলে একটি স্থায়ী ব্যবস্থায় পরিণত করে।',
+          bn: 'চারটে কথা, প্রতিটাই একেকটা বিনিময়। আর শেষ কথাটা গোটা ব্যাপারটাকে কয়েকটা আলাদা লেনদেন থেকে বদলে একটা স্থায়ী বন্দোবস্তে নিয়ে যায়।',
         },
       },
     ],
     practice: [
       {
         en: 'Go one full day without a single uff — the sigh, the tone, the eye-roll. 17:23 names the sound, so the standard is that specific.',
-        bn: 'পুরো একটি দিন একটিও উফ ছাড়া কাটান — দীর্ঘশ্বাস, স্বরের ঝাঁজ, চোখ ঘোরানো। ১৭:২৩ শব্দটির নামই বলে দিয়েছে, তাই মানদণ্ডটি এতটাই সুনির্দিষ্ট।',
+        bn: 'পুরো একটা দিন একটাও উফ ছাড়া কাটান — দীর্ঘশ্বাস নয়, গলার ঝাঁজ নয়, চোখ ঘোরানো নয়। ১৭:২৩ শব্দটার নামই বলে দিয়েছে, তাই মাপকাঠিটাও এতটা নির্দিষ্ট।',
       },
       {
         en: 'Find out one thing your neighbour needs. The hadith of Jibril is about the person on the other side of your wall, not about neighbourliness in general.',
-        bn: 'আপনার প্রতিবেশীর একটি প্রয়োজন জেনে নিন। জিবরাইলের হাদিসটি আপনার দেয়ালের ওপাশের মানুষটিকে নিয়ে, সাধারণভাবে প্রতিবেশীসুলভ আচরণ নিয়ে নয়।',
+        bn: 'প্রতিবেশীর একটা দরকারের কথা জেনে নিন। জিবরাইলের হাদিসটা আপনার দেয়ালের ওপাশের মানুষটাকে নিয়েই, ঢালাওভাবে প্রতিবেশীসুলভ ব্যবহার নিয়ে নয়।',
       },
       {
         en: 'Bring the good manners you use with strangers home tonight. Most people have two settings, and the wrong one is running where it matters most.',
-        bn: 'অপরিচিতদের সাথে যে ভদ্রতা দেখান তা আজ রাতে ঘরে নিয়ে আসুন। বেশিরভাগ মানুষের দুটি ভঙ্গি থাকে, আর যেখানে সবচেয়ে বেশি দরকার সেখানেই চলে ভুলটি।',
+        bn: 'অচেনা লোকদের সঙ্গে যে ভদ্রতাটা দেখান, আজ রাতে সেটা ঘরে নিয়ে আসুন। বেশির ভাগ মানুষের দুরকম চেহারা থাকে, আর যেখানে সবচেয়ে বেশি দরকার সেখানেই চলে ভুল চেহারাটা।',
       },
     ],
   },
@@ -2465,17 +2465,17 @@ const HOPE_CHAPTERS = [
       ref: '3:194',
       why: {
         en: "Do not disgrace us on the Day of Resurrection. Justice done when nobody was watching is exactly what stands between a person and that.",
-        bn: "কিয়ামতের দিন আমাদের অপমানিত করবেন না। কেউ দেখছে না এমন সময়ে করা ন্যায়ই মানুষ ও সেই অপমানের মাঝখানে দাঁড়িয়ে থাকে।",
+        bn: "কিয়ামতের দিন আমাদের অপমানিত করবেন না। কেউ দেখছে না, এমন সময়ে করা ইনসাফটুকুই মানুষ আর ওই অপমানের মাঝখানে দাঁড়িয়ে থাকে।",
       },
     },
     intro: [
       {
         en: '‘Adl in the Qur’an is not a courtroom word. It is asked of individuals, in ordinary situations, at the two moments it is hardest: when justice costs you personally, and when it benefits somebody you cannot stand. Surah an-Nisa handles the first and Surah al-Ma’idah the second, and both are addressed to believers rather than to judges.',
-        bn: 'কুরআনে আদল কোনো আদালতের শব্দ নয়। এটি চাওয়া হয় ব্যক্তির কাছে, সাধারণ পরিস্থিতিতে, সবচেয়ে কঠিন দুটি মুহূর্তে: যখন ন্যায়ের মূল্য আপনাকেই দিতে হয়, আর যখন তার ফল পায় এমন কেউ যাকে আপনি সহ্যই করতে পারেন না। সূরা আন-নিসা প্রথমটি সামলায় আর সূরা আল-মায়িদা দ্বিতীয়টি, আর দুটিই বিচারকদের নয়, মুমিনদের সম্বোধন করে।',
+        bn: 'কুরআনে আদল কোনো আদালতের শব্দ নয়। কথাটা বলা হয়েছে সাধারণ মানুষকে, সাধারণ অবস্থায়, সবচেয়ে কঠিন দুটো মুহূর্তে: যখন ইনসাফের দামটা আপনাকেই দিতে হয়, আর যখন তার ফল পায় এমন কেউ যাকে আপনি সহ্যই করতে পারেন না। প্রথমটা সামলায় সূরা নিসা, দ্বিতীয়টা সূরা মায়িদা। আর দুটোই বিচারকদের নয়, মুমিনদেরই সম্বোধন করে।',
       },
       {
         en: 'The Qur’an also blocks the obvious escape route. Not only must hatred of a people not make you unjust — you are told plainly that not fighting you and not expelling you is enough to earn birr and qisṭ, kindness and equity, from you regardless of their religion. Justice is not a benefit reserved for insiders.',
-        bn: 'কুরআন স্পষ্ট পালানোর পথটিও বন্ধ করে দেয়। কোনো জাতির প্রতি ঘৃণা আপনাকে অন্যায়ে ঠেলতে পারবে না — শুধু তা-ই নয়, স্পষ্ট বলে দেওয়া হয়েছে যে তারা আপনার বিরুদ্ধে না লড়লে আর আপনাকে ঘরছাড়া না করলে, ধর্ম যা-ই হোক, আপনার কাছ থেকে বির ও কিস্‌ত — সদাচরণ ও ইনসাফ — পাওয়ার জন্য তা-ই যথেষ্ট। ন্যায়বিচার কেবল ভেতরের লোকদের জন্য রাখা সুবিধা নয়।',
+        bn: 'পালানোর সহজ পথটাও কুরআন বন্ধ করে দিয়েছে। কোনো জাতির প্রতি রাগ আপনাকে অন্যায়ে ঠেলতে পারবে না — এটুকুই নয়। স্পষ্ট বলা হয়েছে, তারা যদি আপনার বিরুদ্ধে না লড়ে আর আপনাকে ঘরছাড়া না করে, তবে ধর্ম যা-ই হোক, আপনার কাছ থেকে বির আর কিস্‌ত, অর্থাৎ সদাচরণ আর ইনসাফ পাওয়ার জন্য ওইটুকুই যথেষ্ট। ইনসাফ কেবল নিজের লোকদের জন্য তুলে রাখা জিনিস নয়।',
       },
     ],
     verses: [
@@ -2483,35 +2483,35 @@ const HOPE_CHAPTERS = [
         ref: '4:135',
         note: {
           en: 'Qawwāmīn bil-qisṭ — persistently standing up for justice, even against yourselves, or parents, or relatives. Then it removes the two usual biases at once: rich or poor, Allah is more worthy of both. Neither sympathy nor deference survives the verse.',
-          bn: 'কাওয়ামীনা বিল-কিস্‌ত — ন্যায়ের উপর অবিচলভাবে দাঁড়ানো, নিজেদের, পিতামাতা বা আত্মীয়ের বিরুদ্ধে হলেও। তারপর একসাথেই দুটি চিরাচরিত পক্ষপাত সরিয়ে দেয়: ধনী হোক বা গরিব, আল্লাহ উভয়েরই বেশি হকদার। সহানুভূতি বা কারও প্রতি সমীহ — কোনোটিই আয়াতটির সামনে টেকে না।',
+          bn: 'কাওয়ামীনা বিল-কিস্‌ত — ইনসাফের ওপর অবিচল দাঁড়িয়ে থাকা, তা নিজের, বাবা-মায়ের বা আত্মীয়ের বিরুদ্ধে গেলেও। তারপর একসঙ্গেই দুটো চেনা পক্ষপাত সরিয়ে দেয়: ধনী হোক বা গরিব, আল্লাহ দুজনেরই বেশি হকদার। কারও প্রতি মায়া বা কারও প্রতি সমীহ — কোনোটাই এ আয়াতের সামনে টেকে না।',
         },
       },
       {
         ref: '5:8',
         note: {
           en: 'The mirror verse, and the harder one: do not let hatred of a people push you into injustice. Then a striking clause — be just, that is nearer to taqwā. Fairness toward an enemy is described as the thing that brings you closer to Allah.',
-          bn: 'পাল্টা আয়াত, আর কঠিনতরটি: কোনো জাতির প্রতি ঘৃণা যেন তোমাদের অন্যায়ে ঠেলে না দেয়। তারপর একটি চমকপ্রদ বাক্যাংশ — ন্যায় করো, তা তাকওয়ার নিকটতর। শত্রুর প্রতি ইনসাফকে বলা হয়েছে সেই জিনিস যা আপনাকে আল্লাহর কাছে নিয়ে যায়।',
+          bn: 'উল্টো দিকের আয়াত, আর এটাই কঠিন: কোনো জাতির প্রতি রাগ যেন তোমাদের অন্যায়ে ঠেলে না দেয়। তারপর চমকে দেওয়া একটা কথা — ইনসাফ করো, তা তাকওয়ার বেশি কাছের। শত্রুর প্রতি ইনসাফকেই বলা হলো সেই জিনিস, যা আপনাকে আল্লাহর কাছে নিয়ে যায়।',
         },
       },
       {
         ref: '16:90',
         note: {
           en: 'The verse traditionally recited at the close of every Friday khutbah. Three commanded — justice, iḥsān, giving to relatives — and three forbidden. Iḥsān sits above justice: doing more than is owed, once what is owed has been paid.',
-          bn: 'প্রতি জুমার খুতবার শেষে ঐতিহ্যগতভাবে পাঠ করা আয়াত। তিনটির আদেশ — ন্যায়, ইহসান, আত্মীয়কে দেওয়া — আর তিনটির নিষেধ। ইহসান বসে আছে ন্যায়ের উপরে: পাওনা শোধ হয়ে যাওয়ার পর পাওনার চেয়ে বেশি করা।',
+          bn: 'জুমার খুতবার শেষে চিরকাল যে আয়াতটা পড়া হয়। তিনটার আদেশ — ইনসাফ, ইহসান, আত্মীয়কে দেওয়া — আর তিনটার নিষেধ। ইহসান বসে আছে ইনসাফের উপরে: পাওনা শোধ হয়ে যাওয়ার পরও পাওনার চেয়ে বেশি করা।',
         },
       },
       {
         ref: '49:9',
         note: {
           en: 'A procedure for a fight between two believing parties: reconcile them; if one oppresses, act against the oppression; when it stops, reconcile with justice. The instruction never becomes “pick your side” — the goal stays reconciliation throughout.',
-          bn: 'দুই মুমিন পক্ষের সংঘর্ষে করণীয়: তাদের মধ্যে মীমাংসা করো; কেউ বাড়াবাড়ি করলে বাড়াবাড়ির বিরুদ্ধে ব্যবস্থা নাও; থেমে গেলে ন্যায়ের সাথে মীমাংসা করো। নির্দেশটি কখনোই “পক্ষ বেছে নাও” হয়ে ওঠে না — লক্ষ্য গোড়া থেকে শেষ পর্যন্ত মীমাংসাই থাকে।',
+          bn: 'দুই মুমিন দলের সংঘর্ষে কী করতে হবে: তাদের মধ্যে মিটমাট করে দাও; একদল বাড়াবাড়ি করলে সেই বাড়াবাড়ির বিরুদ্ধে দাঁড়াও; থেমে গেলে ইনসাফের সঙ্গে মিটমাট করে দাও। হুকুমটা কখনোই “পক্ষ বেছে নাও” হয়ে ওঠে না। শুরু থেকে শেষ পর্যন্ত লক্ষ্য একটাই — মিটমাট।',
         },
       },
       {
         ref: '60:8',
         note: {
           en: 'Revealed in a context of active conflict, and it draws the line by behaviour rather than by creed: those who do not fight you over religion and do not expel you from your homes are owed kindness and equity. Allah loves those who act justly, and the sentence is not qualified.',
-          bn: 'সক্রিয় সংঘাতের প্রেক্ষাপটে নাজিল, আর সীমারেখা টানা হয়েছে আকিদা দিয়ে নয়, আচরণ দিয়ে: যারা ধর্মের কারণে তোমাদের বিরুদ্ধে লড়ে না আর তোমাদের ঘরছাড়া করে না, তাদের প্রাপ্য সদাচরণ ও ইনসাফ। আল্লাহ ন্যায়পরায়ণদের ভালোবাসেন, আর বাক্যটিতে কোনো শর্ত নেই।',
+          bn: 'আয়াতটা নাজিল হয়েছে যুদ্ধ চলাকালেই, আর সীমারেখা টানা হয়েছে আকিদা দিয়ে নয়, আচরণ দিয়ে: যারা ধর্মের কারণে তোমাদের বিরুদ্ধে লড়ে না আর তোমাদের ঘরছাড়া করে না, তাদের প্রাপ্য সদাচরণ আর ইনসাফ। আল্লাহ ইনসাফকারীদের ভালোবাসেন — কথাটায় কোনো শর্ত জোড়া নেই।',
         },
       },
     ],
@@ -2524,22 +2524,22 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'Three arenas named and only one of them is official. Justice with your own family is placed in the same sentence as justice in judgement, which is where most people quietly exempt themselves.',
-          bn: 'তিনটি ক্ষেত্রের নাম, আর তার মাত্র একটি সরকারি। নিজের পরিবারের সাথে ন্যায়কে রাখা হয়েছে বিচারে ন্যায়ের সাথে একই বাক্যে, আর ঠিক সেখানেই বেশিরভাগ মানুষ নীরবে নিজেকে ছাড় দিয়ে দেন।',
+          bn: 'তিনটে জায়গার নাম, আর তার মধ্যে সরকারি মোটে একটা। নিজের পরিবারের সঙ্গে ইনসাফকে বসানো হয়েছে বিচারে ইনসাফের সঙ্গে একই বাক্যে। অথচ ঠিক ওখানেই বেশির ভাগ মানুষ চুপচাপ নিজেকে ছাড় দিয়ে দেন।',
         },
       },
     ],
     practice: [
       {
         en: 'Concede one argument you know you are losing on the merits, even to someone you dislike. That is 5:8 in its smallest usable form.',
-        bn: 'যুক্তিতে হেরে যাচ্ছেন জেনেও একটি তর্ক মেনে নিন, এমনকি অপছন্দের কারও কাছেও। এটিই ৫:৮-এর সবচেয়ে ছোট ব্যবহারযোগ্য রূপ।',
+        bn: 'যুক্তিতে হেরে যাচ্ছেন জেনেও একটা তর্ক মেনে নিন — এমনকি অপছন্দের কারও কাছেও। ৫:৮ কাজে লাগানোর এটাই সবচেয়ে ছোট উপায়।',
       },
       {
         en: 'Check whether you divide your time and money fairly between your children. Muslim 1827 puts family justice on the same pulpit as a judge’s.',
-        bn: 'দেখুন সন্তানদের মধ্যে সময় ও অর্থ ন্যায্যভাবে ভাগ করছেন কি না। মুসলিম ১৮২৭ পারিবারিক ন্যায়কে বিচারকের মিম্বারেই বসায়।',
+        bn: 'দেখুন তো, সন্তানদের মধ্যে সময় আর টাকা ন্যায্যভাবে ভাগ হচ্ছে কি না। মুসলিম ১৮২৭ ঘরের ইনসাফকে বিচারকের মিম্বারেই বসিয়ে দিয়েছে।',
       },
       {
         en: 'Give a fair account of the person you are in conflict with when you describe them to a third party. 4:135 says even your own side does not get a discount.',
-        bn: 'যার সাথে বিরোধ, তৃতীয় কারও কাছে তার বর্ণনা দিন ন্যায্যভাবে। ৪:১৩৫ বলে, নিজের পক্ষও কোনো ছাড় পায় না।',
+        bn: 'যার সঙ্গে ঝগড়া, তৃতীয় কারও কাছে তার কথা বলার সময় ন্যায্যভাবে বলুন। ৪:১৩৫ বলছে, নিজের পক্ষও কোনো ছাড় পায় না।',
       },
     ],
   },
@@ -2557,17 +2557,17 @@ const HOPE_CHAPTERS = [
       ref: '23:97-98',
       why: {
         en: "Two refuges, and the second is the stranger and more useful one: not only from the promptings of the devils, but from their being present at all.",
-        bn: "দুটি আশ্রয়, আর দ্বিতীয়টিই অদ্ভুততর ও বেশি কাজের: কেবল শয়তানের কুমন্ত্রণা থেকে নয়, তাদের উপস্থিতি থেকেই।",
+        bn: "দুবার আশ্রয় চাওয়া, আর দ্বিতীয়টাই বেশি অদ্ভুত এবং বেশি কাজের: কেবল শয়তানের কুমন্ত্রণা থেকে নয়, তাদের কাছে এসে দাঁড়ানো থেকেই।",
       },
     },
     intro: [
       {
         en: 'Ḥayā’ is wider than the English word modesty. It is the inward reluctance to be seen doing what is beneath you — before Allah first, and then before people. The Sunnah lists it as a branch of faith, which places it inside belief rather than beside it, and describes it as producing nothing but good.',
-        bn: 'হায়া ইংরেজি “মডেস্টি” শব্দের চেয়ে প্রশস্ত। এটি হলো নিজের মর্যাদার নিচে কিছু করতে দেখা যাওয়ার প্রতি অন্তরের অনীহা — প্রথমে আল্লাহর সামনে, তারপর মানুষের সামনে। সুন্নাহ একে ঈমানের শাখা হিসেবে গণ্য করে, ফলে একে রাখা হয় ঈমানের পাশে নয়, ভেতরে, আর বলা হয় এটি কল্যাণ ছাড়া কিছুই আনে না।',
+        bn: 'হায়া কেবল লজ্জা নয়, তার চেয়ে অনেক বড় জিনিস। নিজের মানের নিচে কিছু করতে গেলে ভেতরে যে বাধাটা লাগে, সেটাই হায়া — প্রথমে আল্লাহর সামনে, তারপর মানুষের সামনে। সুন্নাহ একে ঈমানেরই একটা শাখা বলে, অর্থাৎ ঈমানের পাশে নয়, ভেতরে রাখে। আর বলে, হায়া কল্যাণ ছাড়া কিছুই আনে না।',
       },
       {
         en: 'The Qur’an’s instructions on it are notably even-handed and notably ordered. Men are addressed first, and the first command to both is about the eyes rather than about clothing. Lowering the gaze comes before any question of dress, in both verses.',
-        bn: 'এ বিষয়ে কুরআনের নির্দেশ লক্ষণীয়ভাবে ভারসাম্যপূর্ণ ও লক্ষণীয়ভাবে ক্রমিক। পুরুষদের সম্বোধন আগে, আর উভয়ের প্রতি প্রথম নির্দেশ পোশাক নিয়ে নয়, চোখ নিয়ে। দৃষ্টি নত করা আসে পোশাকের প্রশ্নের আগে, দুটি আয়াতেই।',
+        bn: 'এ ব্যাপারে কুরআনের হুকুম দুটো দিক থেকেই লক্ষণীয় — ভারসাম্য আছে, আর ক্রমও আছে। সম্বোধন শুরু হয় পুরুষদের দিয়ে। আর দুই পক্ষের বেলাতেই প্রথম কথাটা পোশাক নিয়ে নয়, চোখ নিয়ে। দুই আয়াতেই দৃষ্টি নামানোর কথা আসে পোশাকের প্রশ্নের আগে।',
       },
     ],
     verses: [
@@ -2575,28 +2575,28 @@ const HOPE_CHAPTERS = [
         ref: '24:30',
         note: {
           en: 'Addressed to believing men first, and the wording is min abṣārihim — from their gaze, a portion of it, not all sight. It is a discipline of the second look rather than a demand to walk with your eyes down. The reason given is that it is purer for them.',
-          bn: 'প্রথমে মুমিন পুরুষদের সম্বোধন, আর শব্দ মিন আবসারিহিম — তাদের দৃষ্টির কিছু অংশ, সমস্ত দেখা নয়। এটি চোখ নামিয়ে হাঁটার দাবি নয়, বরং দ্বিতীয় দৃষ্টির সংযম। কারণ বলা হয়েছে, এটি তাদের জন্য অধিক পবিত্র।',
+          bn: 'প্রথমে মুমিন পুরুষদের সম্বোধন। শব্দটা মিন আবসারিহিম — দৃষ্টির কিছু অংশ, সবটুকু দেখা নয়। কাজেই চোখ নামিয়ে হেঁটে চলার দাবি এটা নয়, দাবিটা দ্বিতীয় দৃষ্টিটা সামলানোর। আর কারণ বলা হয়েছে, তাতে তাদের জন্য বেশি পবিত্রতা।',
         },
       },
       {
         ref: '24:31',
         note: {
           en: 'The parallel instruction to believing women opens with exactly the same clause about the gaze before moving to dress, and then names a long list of relatives before whom the ruling does not apply. The detail matters: it is a defined boundary, not a general suspicion.',
-          bn: 'মুমিন নারীদের প্রতি সমান্তরাল নির্দেশটিও শুরু হয় দৃষ্টি নিয়ে হুবহু একই বাক্যাংশ দিয়ে, তারপর পোশাকে যায়, আর এরপর এমন আত্মীয়দের দীর্ঘ তালিকা দেয় যাঁদের সামনে বিধানটি প্রযোজ্য নয়। বিস্তারিত বর্ণনাটি গুরুত্বপূর্ণ: এটি একটি নির্ধারিত সীমা, ঢালাও সন্দেহ নয়।',
+          bn: 'মুমিন নারীদের প্রতি হুকুমটাও শুরু হয় দৃষ্টি নিয়ে হুবহু একই কথা দিয়ে, তারপর যায় পোশাকে। এরপর আসে আত্মীয়দের একটা লম্বা তালিকা, যাঁদের সামনে বিধানটা খাটে না। এই বিস্তারিত তালিকাটাই গুরুত্বপূর্ণ: এ একটা মাপা সীমা, ঢালাও সন্দেহ নয়।',
         },
       },
       {
         ref: '23:5',
         note: {
           en: 'In the list of the successful, chastity is a matter of guarding — and the verses immediately after define where the guarding does not apply, so the passage is not a blanket suppression but a boundary with a lawful inside.',
-          bn: 'সফলদের তালিকায় সতীত্ব হলো রক্ষা করার বিষয় — আর ঠিক পরের আয়াতগুলো বলে দেয় কোথায় রক্ষার প্রশ্ন নেই, ফলে অনুচ্ছেদটি ঢালাও দমন নয়, বরং বৈধ ভেতরসহ একটি সীমারেখা।',
+          bn: 'সফলদের তালিকায় সতীত্ব হেফাজতের বিষয়। আর ঠিক পরের আয়াতগুলোই বলে দেয়, কোথায় হেফাজতের প্রশ্নই ওঠে না। কাজেই অনুচ্ছেদটা ঢালাও দমন নয়; এ এমন সীমারেখা, যার ভেতরে একটা বৈধ জায়গা রাখা আছে।',
         },
       },
       {
         ref: '33:35',
         note: {
           en: 'Chastity appears here too, paired for men and women alike — al-ḥāfiẓīna furūjahum wal-ḥāfiẓāt. In the Qur’an’s master list of qualities, it is one of ten, carried equally by both.',
-          bn: 'সতীত্ব এখানেও আছে, পুরুষ ও নারী উভয়ের জন্য জোড়া বেঁধে — আল-হাফিজীনা ফুরূজাহুম ওয়াল-হাফিজাত। কুরআনের প্রধান গুণ-তালিকায় এটি দশটির একটি, আর দুই পক্ষই সমানভাবে তা বহন করে।',
+          bn: 'সতীত্ব এখানেও আছে, নারী-পুরুষ দুজনের জন্যই জোড়া বেঁধে — আল-হাফিজীনা ফুরূজাহুম ওয়াল-হাফিজাত। কুরআনের প্রধান গুণ-তালিকায় এ দশটার একটা, আর ভারটা দুই পক্ষই সমানভাবে বহন করে।',
         },
       },
     ],
@@ -2609,7 +2609,7 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'The two poles are named and then ḥayā’ is added separately, without a rank. It is the only branch singled out by name, which is how the scholars read it as running through all of them.',
-          bn: 'দুই প্রান্তের নাম বলার পর হায়াকে আলাদাভাবে যোগ করা হয়েছে, কোনো ক্রম ছাড়াই। এটিই একমাত্র শাখা যার নাম আলাদা করে বলা হয়েছে, আর সে কারণেই আলিমগণ একে সব শাখার ভেতর দিয়ে বয়ে চলা হিসেবে পড়েছেন।',
+          bn: 'দুই প্রান্তের নাম বলার পর হায়াকে আলাদা করে যোগ করা হয়েছে, কোনো ক্রম না দিয়েই। ঈমানের শাখাগুলোর মধ্যে এটারই কেবল নাম ধরে উল্লেখ। সে কারণেই আলিমরা একে দেখেছেন এমন জিনিস হিসেবে, যা সব শাখার ভেতর দিয়েই বয়ে যায়।',
         },
       },
       {
@@ -2620,22 +2620,22 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'Read as a description rather than a permission: once ḥayā’ is gone, nothing else is standing in the way. It is a statement about what modesty was doing all along.',
-          bn: 'অনুমতি নয়, বর্ণনা হিসেবে পড়ুন: হায়া চলে গেলে আর কিছুই পথ আগলে দাঁড়ায় না। এটি বলছে, লজ্জা এতদিন আসলে কী কাজটি করছিল।',
+          bn: 'একে অনুমতি ভাববেন না, বর্ণনা হিসেবে পড়ুন: হায়া চলে গেলে আর কিছুই পথ আগলে দাঁড়ায় না। কথাটা আসলে জানিয়ে দিচ্ছে, লজ্জা এতদিন ভেতরে কী কাজটা করছিল।',
         },
       },
     ],
     practice: [
       {
         en: 'Apply 24:30 to your phone, not just to the street. The verse names the gaze, and most of a modern gaze is spent on a screen.',
-        bn: '২৪:৩০ কেবল রাস্তায় নয়, নিজের ফোনেও প্রয়োগ করুন। আয়াতটি দৃষ্টির কথা বলে, আর আধুনিক দৃষ্টির বেশিরভাগই ব্যয় হয় পর্দায়।',
+        bn: '২৪:৩০ শুধু রাস্তায় নয়, নিজের ফোনেও খাটান। আয়াত দৃষ্টির কথা বলছে, আর আজকাল দৃষ্টির বেশির ভাগটাই খরচ হয় পর্দার দিকে চেয়ে।',
       },
       {
         en: 'Notice the second look and stop it. The scholars read min abṣārihim as being precisely about that, and the first one is not what you are accountable for.',
-        bn: 'দ্বিতীয় দৃষ্টিটি খেয়াল করুন আর থামান। আলিমগণ মিন আবসারিহিম-কে ঠিক সেটির কথাই বলেছেন, আর প্রথমটির জন্য আপনি দায়ী নন।',
+        bn: 'দ্বিতীয় দৃষ্টিটা খেয়াল করুন, আর সেখানেই থামুন। আলিমরা মিন আবসারিহিম দিয়ে ঠিক ওটাই বুঝিয়েছেন। প্রথম দৃষ্টির জন্য আপনি ধরা পড়বেন না।',
       },
       {
         en: 'Ask whether you would do the thing in front of someone you respect. That question is ḥayā’ working, and the hadith says it is the last line of defence.',
-        bn: 'নিজেকে জিজ্ঞেস করুন, যাঁকে আপনি শ্রদ্ধা করেন তাঁর সামনে কাজটি করতেন কি না। ওই প্রশ্নটিই হায়ার কাজ, আর হাদিস বলে এটিই শেষ প্রতিরক্ষা।',
+        bn: 'নিজেকে জিজ্ঞেস করুন — যাঁকে আপনি শ্রদ্ধা করেন, তাঁর সামনে কাজটা করতেন কি? ওই প্রশ্নটা মনে আসাই হায়ার কাজ। আর হাদিস বলছে, এটাই শেষ বাধা।',
       },
     ],
   },
@@ -2653,17 +2653,17 @@ const HOPE_CHAPTERS = [
       ref: '63:10',
       why: {
         en: "Not a du‘a to imitate but one to avoid — the words of a person asking for more time to give. The Qur’an quotes it so that you give now instead.",
-        bn: "অনুসরণের নয়, এড়ানোর দোয়া — দান করার জন্য আরও সময় চাওয়া এক মানুষের কথা। কুরআন এটি উদ্ধৃত করে যাতে আপনি বরং এখনই দেন।",
+        bn: "এ দোয়া অনুসরণের নয়, এড়ানোর — দান করার জন্য আরেকটু সময় চাওয়া এক মানুষের আকুতি। কুরআন কথাটা তুলে রেখেছে, যাতে আপনি বরং এখনই দিয়ে দেন।",
       },
     },
     intro: [
       {
         en: 'A seed produces seven ears, each ear a hundred grains — and Allah multiplies further for whom He wills. That is the image 2:261 gives for spending in His way, and the point of a farming metaphor is that the increase is not a bonus added afterwards. It is what the seed was for. Wealth that stays in your hand does not do this.',
-        bn: 'একটি বীজ সাতটি শিষ ফলায়, প্রতিটি শিষে একশ দানা — আর আল্লাহ যাকে ইচ্ছা আরও বাড়িয়ে দেন। ২৬১ নম্বর আয়াত তাঁর পথে ব্যয়ের জন্য এই ছবিটিই দেয়, আর কৃষির উপমার মূল কথা এই যে বৃদ্ধিটি পরে যোগ করা বাড়তি কিছু নয়। বীজটি এ জন্যই ছিল। হাতে ধরে রাখা সম্পদ এটি করে না।',
+        bn: 'একটা বীজ থেকে সাতটা শিষ, প্রতিটা শিষে একশ দানা — আর আল্লাহ যাকে ইচ্ছা আরও বাড়িয়ে দেন। তাঁর পথে খরচ করার জন্য কুরআন এই ছবিটাই দেয়। কৃষির উপমার আসল কথা এটাই যে বাড়াটা পরে জুড়ে দেওয়া বাড়তি কিছু নয়। বীজটা তো এ জন্যই ছিল। মুঠোয় ধরে রাখা সম্পদ এ কাজ করে না।',
       },
       {
         en: 'And the Qur’an keeps raising the standard past the amount. It asks for what you love rather than what you can spare, it praises giving by night and by day, secretly and publicly, and in one passage it records the givers saying explicitly that they want no reward or thanks from those they fed. Where the money goes is only half of what is being measured.',
-        bn: 'আর কুরআন বারবার পরিমাণ ছাড়িয়ে মানদণ্ড উঁচু করে। যা উদ্বৃত্ত তা নয়, যা আপনি ভালোবাসেন তা চায়; রাতে ও দিনে, গোপনে ও প্রকাশ্যে দানের প্রশংসা করে; আর এক অনুচ্ছেদে দাতাদের স্পষ্ট উক্তি লিপিবদ্ধ করে যে তাঁরা যাদের খাওয়ালেন তাদের কাছ থেকে কোনো প্রতিদান বা কৃতজ্ঞতা চান না। টাকা কোথায় গেল, তা মাপের অর্ধেক মাত্র।',
+        bn: 'আর কুরআন বারবার অঙ্কের হিসাব ছাড়িয়ে মানটা উঁচু করে দেয়। উদ্বৃত্ত থেকে নয়, যা আপনি ভালোবাসেন তা থেকেই চায়। রাতে-দিনে, গোপনে-প্রকাশ্যে দানের প্রশংসা করে। আর এক জায়গায় দাতাদের মুখের কথাটাই তুলে রাখে — যাদের খাওয়ালেন, তাদের কাছ থেকে তাঁরা কোনো প্রতিদান চান না, ধন্যবাদও চান না। টাকাটা কোথায় গেল, সেটা হিসাবের অর্ধেক মাত্র।',
       },
     ],
     verses: [
@@ -2671,42 +2671,42 @@ const HOPE_CHAPTERS = [
         ref: '2:261',
         note: {
           en: 'Seven hundred from one, and then an open-ended multiplier on top of it. The metaphor is agricultural on purpose: you do not get a harvest by keeping the seed safe, and the loss of the seed is not the loss it appears to be.',
-          bn: 'একটি থেকে সাতশ, আর তার উপরে সীমাহীন গুণক। উপমাটি ইচ্ছাকৃতভাবেই কৃষির: বীজ নিরাপদে রেখে দিলে ফসল হয় না, আর বীজটি হারানো যতটা ক্ষতি মনে হয়, ততটা নয়।',
+          bn: 'একটা থেকে সাতশ, আর তার ওপরে সীমাহীন গুণ। উপমাটা ইচ্ছে করেই কৃষির: বীজ যত্ন করে তুলে রাখলে ফসল হয় না। আর বীজটা হারানোটা যত ক্ষতি মনে হয়, আসলে তত নয়।',
         },
       },
       {
         ref: '2:274',
         note: {
           en: 'Four modes covered in one line — night and day, secretly and publicly — so that no manner of giving is left outside the promise. Public giving is not excluded; it is listed, because someone has to go first.',
-          bn: 'এক লাইনে চারটি ধরন — রাতে ও দিনে, গোপনে ও প্রকাশ্যে — যাতে দানের কোনো পদ্ধতিই প্রতিশ্রুতির বাইরে না থাকে। প্রকাশ্য দানকে বাদ দেওয়া হয়নি; তালিকাভুক্ত করা হয়েছে, কারণ কাউকে না কাউকে তো শুরু করতে হয়।',
+          bn: 'এক লাইনেই চার রকম — রাতে, দিনে, গোপনে, প্রকাশ্যে। দানের কোনো ধরনই যেন ওয়াদার বাইরে না থাকে। প্রকাশ্য দানকে বাদ দেওয়া হয়নি, তালিকায় রাখা হয়েছে। কাউকে না কাউকে তো শুরুটা করতে হয়।',
         },
       },
       {
         ref: '3:92',
         note: {
           en: 'The bar that moves everything: you will not attain birr until you spend from what you love. Not from what is left over. Abu Talhah heard this and gave away the garden that was dearest to him on the same day.',
-          bn: 'যে মানদণ্ড সবকিছু নাড়িয়ে দেয়: তোমরা কখনো বির অর্জন করবে না যতক্ষণ না তোমরা যা ভালোবাসো তা থেকে ব্যয় করো। উদ্বৃত্ত থেকে নয়। আবু তালহা (রা) এটি শুনে সেই দিনই তাঁর সবচেয়ে প্রিয় বাগানটি দান করে দেন।',
+          bn: 'যে মাপকাঠি সব নাড়িয়ে দেয়: তোমরা কখনোই বির পাবে না, যতক্ষণ না যা ভালোবাসো তা থেকে খরচ করো। উদ্বৃত্ত থেকে নয়। আবু তালহা (রা) কথাটা শুনে সেদিনই তাঁর সবচেয়ে প্রিয় বাগানটা দান করে দেন।',
         },
       },
       {
         ref: '57:18',
         note: {
           en: 'Both genders named separately again, and then the extraordinary phrase: a goodly loan to Allah. He casts Himself as the borrower — of wealth He gave you in the first place — which is the strongest possible statement that nothing given is lost.',
-          bn: 'আবারও নারী-পুরুষ উভয়ের আলাদা উল্লেখ, তারপর অসাধারণ বাক্যাংশটি: আল্লাহকে উত্তম ঋণ দেওয়া। তিনি নিজেকে ঋণগ্রহীতা হিসেবে উপস্থাপন করেন — সেই সম্পদেরই, যা প্রথমে তিনিই দিয়েছেন — আর এটিই সবচেয়ে জোরালো ঘোষণা যে দেওয়া কিছুই হারায় না।',
+          bn: 'আবারও নারী-পুরুষ দুজনেরই আলাদা উল্লেখ, তারপর সেই অসাধারণ কথাটা: আল্লাহকে উত্তম ঋণ দেওয়া। তিনি নিজেকে ঋণগ্রহীতার আসনে বসাচ্ছেন — তা-ও সেই সম্পদের, যা প্রথমে তিনিই দিয়েছেন। “দিলে কিছুই হারায় না” — এর চেয়ে জোরালো ঘোষণা আর হয় না।',
         },
       },
       {
         ref: '92:5-7',
         note: {
           en: 'A three-step chain: he gives, he fears Allah, he believes in the best — and We will ease him toward ease. The giving is placed first in the sequence, as the thing that starts the easing rather than the thing that follows it.',
-          bn: 'তিন ধাপের একটি শৃঙ্খল: সে দেয়, সে আল্লাহকে ভয় করে, সে উত্তম প্রতিদানে বিশ্বাস করে — আর আমি তাকে সহজতার দিকে সহজ করে দেব। দেওয়াকে রাখা হয়েছে ক্রমের প্রথমে, সহজতার ফল হিসেবে নয়, তার সূচনা হিসেবে।',
+          bn: 'তিন ধাপের একটা শিকল: সে দেয়, সে আল্লাহকে ভয় করে, সে উত্তম প্রতিদানে বিশ্বাস রাখে — আর আমি তার জন্য সহজ পথ সহজ করে দেব। দেওয়াটা রাখা হয়েছে ক্রমের একেবারে প্রথমে। সহজ হওয়ার ফল নয়, সহজ হওয়ার শুরু।',
         },
       },
       {
         ref: '76:8-9',
         note: {
           en: 'They give food they themselves love to the needy, the orphan and the captive — and then say aloud that they want no reward or thanks. The captive is included, which means the food goes to someone with no claim on them at all.',
-          bn: 'তাঁরা নিজেদের প্রিয় খাবারই দেন অভাবী, এতিম ও বন্দিকে — তারপর স্পষ্ট বলেন যে তাঁরা কোনো প্রতিদান বা কৃতজ্ঞতা চান না। বন্দিও তালিকায়, অর্থাৎ খাবারটি যায় এমন কারও কাছে যার তাঁদের উপর কোনো দাবিই নেই।',
+          bn: 'নিজেদের প্রিয় খাবারটাই তাঁরা তুলে দেন অভাবী, এতিম আর বন্দির হাতে। তারপর মুখে বলেই দেন, তাঁরা কোনো প্রতিদান চান না, ধন্যবাদও চান না। তালিকায় বন্দিও আছে — অর্থাৎ খাবারটা যাচ্ছে এমন একজনের কাছে, যার তাঁদের ওপর কোনো দাবিই নেই।',
         },
       },
     ],
@@ -2719,7 +2719,7 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'Two prayers made every single morning about you, and which one applies is decided by what you did with your money that day. Neither angel is described as waiting for a large amount.',
-          bn: 'প্রতিদিন সকালেই আপনার সম্পর্কে দুটি দোয়া করা হয়, আর কোনটি প্রযোজ্য তা ঠিক হয় ওই দিন আপনি টাকা দিয়ে কী করলেন তাতে। কোনো ফেরেশতাই বড় অঙ্কের অপেক্ষায় আছেন বলে বর্ণিত নয়।',
+          bn: 'প্রতিদিন সকালে আপনাকে নিয়ে দুটো দোয়া হয়, আর কোনটা আপনার ঘরে পড়বে তা ঠিক হয় সেদিন টাকা দিয়ে আপনি কী করলেন তাতে। কোনো ফেরেশতাই বড় অঙ্কের অপেক্ষায় বসে আছেন বলে বর্ণনায় নেই।',
         },
       },
       {
@@ -2730,22 +2730,22 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'The floor is set at half a date and then removed altogether. Nobody in any circumstance is left with nothing to give, which closes the commonest excuse for giving nothing.',
-          bn: 'সীমাটি ঠিক করা হলো অর্ধেক খেজুরে, তারপর তা-ও তুলে দেওয়া হলো। কোনো অবস্থাতেই কেউ দেওয়ার মতো কিছুই নেই এমন অবস্থায় থাকে না, আর এতে কিছু না দেওয়ার সবচেয়ে প্রচলিত অজুহাতটি বন্ধ হয়ে যায়।',
+          bn: 'সীমাটা নামিয়ে আনা হলো অর্ধেক খেজুরে, তারপর সেটাও তুলে দেওয়া হলো। কোনো অবস্থাতেই কারও হাতে দেওয়ার মতো কিছুই থাকে না — এমন হয় না। কিছু না দেওয়ার সবচেয়ে চেনা অজুহাতটা এখানেই বন্ধ।',
         },
       },
     ],
     practice: [
       {
         en: 'Give something you would rather keep, once, this month. 3:92 is explicit that the surplus does not reach the standard being described.',
-        bn: 'এই মাসে একবার এমন কিছু দিন যা আপনি বরং রেখে দিতেন। ৩:৯২ স্পষ্ট বলে, উদ্বৃত্ত দিয়ে বর্ণিত মানদণ্ডে পৌঁছানো যায় না।',
+        bn: 'এ মাসে একবার এমন কিছু দিয়ে দিন, যেটা আপনি বরং নিজের কাছেই রাখতে চাইতেন। ৩:৯২ স্পষ্ট বলছে, উদ্বৃত্ত দিয়ে ওই মানে পৌঁছানো যায় না।',
       },
       {
         en: 'Set up something small and automatic. The two angels come every morning, and a standing arrangement means you are on the right side of that prayer daily.',
-        bn: 'ছোট ও স্বয়ংক্রিয় কোনো ব্যবস্থা চালু করুন। দুজন ফেরেশতা প্রতিদিন সকালেই আসেন, আর স্থায়ী ব্যবস্থা মানে প্রতিদিনই আপনি সেই দোয়ার সঠিক দিকে আছেন।',
+        bn: 'ছোট একটা নিয়মিত ব্যবস্থা চালু করে দিন। দুই ফেরেশতা তো প্রতিদিন সকালেই আসেন; বাঁধা ব্যবস্থা মানে প্রতিদিনই আপনি ওই দোয়ার ভালো দিকটাতে আছেন।',
       },
       {
         en: 'Give one gift with no acknowledgement attached — anonymous, unmentioned. 76:9 makes the refusal of thanks part of the act rather than a modest afterthought.',
-        bn: 'কোনো স্বীকৃতি ছাড়াই একটি দান করুন — নাম না জানিয়ে, উল্লেখ না করে। ৭৬:৯ কৃতজ্ঞতা না চাওয়াকে কাজটিরই অংশ বানায়, পরে যোগ করা বিনয় নয়।',
+        bn: 'একটা দান করুন যার কোনো স্বীকৃতি নেই — নাম না জানিয়ে, কাউকে না বলে। ৭৬:৯ ধন্যবাদ না চাওয়াটাকে কাজেরই অংশ বানিয়েছে, পরে দেখানো বিনয় নয়।',
       },
     ],
   },
@@ -2763,17 +2763,17 @@ const HOPE_CHAPTERS = [
       ref: '5:83',
       why: {
         en: "The words of people whose eyes overflowed when they heard what was revealed to him ﷺ — register us among the witnesses. The response to the model is asked for as a place, not a feeling.",
-        bn: "যাঁদের চোখ তাঁর প্রতি নাজিলকৃত বাণী শুনে উপচে পড়েছিল, তাঁদের কথা — আমাদের সাক্ষীদের মধ্যে লিখে নিন। আদর্শের প্রতি সাড়াকে চাওয়া হয়েছে একটি অবস্থান হিসেবে, অনুভূতি হিসেবে নয়।",
+        bn: "তাঁর প্রতি নাজিল হওয়া বাণী শুনে যাঁদের চোখ উপচে পড়েছিল, এ তাঁদের কথা — আমাদের সাক্ষীদের তালিকায় লিখে নিন। আদর্শের প্রতি সাড়াটাকে চাওয়া হচ্ছে একটা অবস্থান হিসেবে, নিছক অনুভূতি হিসেবে নয়।",
       },
     },
     intro: [
       {
         en: 'Asked to describe his character, Aishah (RA) answered that it was the Qur’an. It is the most compact description available and it explains the structure of this whole section: the qualities listed across these chapters are not a compilation of separate virtues but a portrait of one person, and the Qur’an calls that person’s character ‘aẓīm — immense.',
-        bn: 'তাঁর চরিত্র সম্পর্কে জিজ্ঞেস করা হলে আয়েশা (রা) উত্তর দিয়েছিলেন, তাঁর চরিত্রই ছিল কুরআন। এটিই সবচেয়ে সংক্ষিপ্ত বর্ণনা, আর এটিই এই গোটা অংশের কাঠামো ব্যাখ্যা করে: এই অধ্যায়গুলোতে সাজানো গুণাবলি আলাদা আলাদা সদ্‌গুণের সংকলন নয়, বরং একজন মানুষেরই প্রতিকৃতি, আর কুরআন সেই মানুষটির চরিত্রকে বলে আজিম — মহান।',
+        bn: 'নবী ﷺ-এর চরিত্র কেমন ছিল জিজ্ঞেস করা হলে আয়েশা (রা) বলেছিলেন, তাঁর চরিত্রই ছিল কুরআন। এর চেয়ে সংক্ষিপ্ত বর্ণনা আর হয় না, আর এতেই এই গোটা অংশের গড়নটা বোঝা যায়। এখানকার অধ্যায়গুলোর গুণাবলি আলাদা আলাদা সদ্‌গুণের সংগ্রহ নয়; সব মিলিয়ে একজন মানুষেরই ছবি। আর সেই মানুষটির চরিত্রকে কুরআন বলেছে আজিম, মহান।',
       },
       {
         en: 'The reason this matters for the reader who arrived through the first half of this section is simple. An ideal you cannot picture is an ideal you cannot pursue. The Qur’an does not leave the model abstract: it names a specific man, in a specific decade, whose behaviour under insult, betrayal, bereavement and power was recorded in detail by the people who lived with him.',
-        bn: 'এই অংশের প্রথম ভাগ পেরিয়ে আসা পাঠকের কাছে এটি কেন গুরুত্বপূর্ণ, তা সহজ। যে আদর্শ কল্পনাই করা যায় না, তার পেছনে ছোটা যায় না। কুরআন আদর্শকে বিমূর্ত রাখে না: এটি নাম ধরে বলে দেয় একজন নির্দিষ্ট মানুষের কথা, নির্দিষ্ট এক দশকে, অপমান, বিশ্বাসঘাতকতা, শোক ও ক্ষমতার মুখে যাঁর আচরণ তাঁর সাথে বসবাসকারী মানুষেরা বিস্তারিত লিপিবদ্ধ করেছেন।',
+        bn: 'প্রথম ভাগটা পেরিয়ে আসা পাঠকের কাছে কথাটা কেন জরুরি, তা সহজ। যে আদর্শ চোখেই ভাসে না, তার পেছনে ছোটা যায় না। কুরআন আদর্শটাকে ধোঁয়াটে রাখে না। নাম ধরে বলে দেয় একজন নির্দিষ্ট মানুষের কথা, নির্দিষ্ট এক সময়ের। অপমান, বিশ্বাসঘাতকতা, শোক আর ক্ষমতা — সব অবস্থায় তাঁর আচরণ কেমন ছিল, তাঁর সঙ্গে বাস করা মানুষেরা তা খুঁটিয়ে লিখে রেখে গেছেন।',
       },
     ],
     verses: [
@@ -2781,28 +2781,28 @@ const HOPE_CHAPTERS = [
         ref: '68:4',
         note: {
           en: 'Revealed in the earliest Makkan period, when he was being called mad. The answer given is not about his sanity but about his character — and khuluq ‘aẓīm is the only thing in the Qur’an described as ‘aẓīm and belonging to a human being.',
-          bn: 'মক্কার একেবারে প্রথম পর্বে নাজিল, যখন তাঁকে উন্মাদ বলা হচ্ছিল। যে উত্তর দেওয়া হলো তা তাঁর সুস্থতা নিয়ে নয়, তাঁর চরিত্র নিয়ে — আর খুলুকুন আজিম কুরআনে একমাত্র জিনিস যা আজিম বলে বর্ণিত এবং একজন মানুষের অধিকারে।',
+          bn: 'নাজিল হয়েছে মক্কার একেবারে গোড়ার দিকে, যখন তাঁকে পাগল বলা হচ্ছিল। জবাবটা কিন্তু এল তাঁর মাথা ঠিক আছে কি না তা নিয়ে নয়, তাঁর চরিত্র নিয়ে। আর খুলুকুন আজিম — কুরআনে একমাত্র এই জিনিসটাকেই আজিম বলা হয়েছে, যা একজন মানুষের।',
         },
       },
       {
         ref: '33:21',
         note: {
           en: 'Uswatun ḥasanah — an excellent pattern — and then a condition: for whoever hopes in Allah and the Last Day and remembers Allah much. The model is available to everyone, but the verse says only a particular kind of person will actually use it.',
-          bn: 'উসওয়াতুন হাসানাহ — উত্তম আদর্শ — তারপর একটি শর্ত: তার জন্য যে আল্লাহ ও শেষ দিনের আশা রাখে এবং আল্লাহকে অধিক স্মরণ করে। আদর্শটি সবার জন্যই আছে, কিন্তু আয়াত বলছে বাস্তবে তা কাজে লাগাবে একটি বিশেষ ধরনের মানুষই।',
+          bn: 'উসওয়াতুন হাসানাহ, উত্তম আদর্শ। তারপরই একটা শর্ত: তার জন্য, যে আল্লাহ ও শেষ দিনের আশা রাখে আর আল্লাহকে বেশি বেশি স্মরণ করে। আদর্শটা সবার সামনেই খোলা। তবে আয়াত বলছে, বাস্তবে কাজে লাগাবে একরকম মানুষই।',
         },
       },
       {
         ref: '9:128',
         note: {
           en: 'Four descriptions in one verse, and two of them are about his feelings toward the people: what harms you is grievous to him, and he is concerned over you. Then ra’ūf raḥīm — two names Allah uses for Himself, given here to a man.',
-          bn: 'এক আয়াতে চারটি বর্ণনা, আর তার দুটি মানুষের প্রতি তাঁর অনুভূতি নিয়ে: তোমাদের যা কষ্ট দেয় তা তাঁর কাছে দুঃসহ, আর তিনি তোমাদের জন্য উদ্বিগ্ন। তারপর রাউফুর রহিম — দুটি নাম, যা আল্লাহ নিজের জন্য ব্যবহার করেন, এখানে দেওয়া হয়েছে একজন মানুষকে।',
+          bn: 'এক আয়াতেই চারটে কথা, আর তার দুটো মানুষের প্রতি তাঁর অনুভূতি নিয়ে: তোমাদের যা কষ্ট দেয়, তা তাঁর জন্য দুঃসহ; আর তিনি তোমাদের নিয়ে উদ্বিগ্ন। তারপর রাউফুর রহিম — দুটো নাম, যা আল্লাহ নিজের জন্য ব্যবহার করেন, এখানে দেওয়া হলো একজন মানুষকে।',
         },
       },
       {
         ref: '3:159',
         note: {
           en: 'It belongs here as well as in the chapter on gentleness, because it is the verse that ties the two halves of this section together: mercy received from Allah, becoming mercy extended to people who had just failed him.',
-          bn: 'এটি কোমলতার অধ্যায়ের পাশাপাশি এখানেও রাখার মতো, কারণ এই আয়াতটিই এই অংশের দুই ভাগকে বেঁধে দেয়: আল্লাহর কাছ থেকে পাওয়া রহমত, যা রূপ নেয় সদ্য তাঁকে ব্যর্থ করা মানুষদের প্রতি বাড়িয়ে দেওয়া রহমতে।',
+          bn: 'আয়াতটা কোমলতার অধ্যায়ে তো আছেই, এখানেও রাখার মতো। কারণ এই আয়াতটাই এই অংশের দুই ভাগকে বেঁধে দেয়: আল্লাহর কাছ থেকে পাওয়া রহমত, যা রূপ নেয় সদ্য তাঁকে হতাশ করা মানুষদের প্রতি বাড়িয়ে দেওয়া রহমতে।',
         },
       },
     ],
@@ -2815,7 +2815,7 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'Ten years, a household, and a servant who was a boy for much of it. The witness is the person best placed to have complaints, and the standard he reports is the same uff that 17:23 forbids toward parents.',
-          bn: 'দশ বছর, একটি সংসার, আর এক খাদেম যিনি এর বেশিরভাগ সময়ই ছিলেন বালক। সাক্ষী সেই ব্যক্তি, যাঁর অভিযোগ থাকার সবচেয়ে বেশি সুযোগ ছিল, আর তিনি যে মানদণ্ডের কথা বলছেন তা সেই উফ, যা ১৭:২৩ পিতামাতার প্রতি নিষেধ করে।',
+          bn: 'দশ বছর, একটা সংসার, আর এক খাদেম — যিনি এর বেশির ভাগ সময়ই কিশোর। সাক্ষী সেই মানুষটাই, যাঁর অভিযোগ করার সুযোগ ছিল সবচেয়ে বেশি। আর তিনি যে মাপকাঠির কথা বলছেন, সেটা ওই উফ — যা ১৭:২৩ বাবা-মায়ের প্রতি নিষেধ করেছে।',
         },
       },
       {
@@ -2826,22 +2826,22 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'The narration pairs a report of conduct with the saying it produced. He is not quoted setting a standard he was not visibly keeping, which is the whole force of 33:21.',
-          bn: 'বর্ণনাটি আচরণের বিবরণের সাথে সেই বাণীটিও জোড়া দেয় যা তা থেকেই এসেছে। তাঁকে এমন কোনো মান নির্ধারণ করতে উদ্ধৃত করা হয়নি যা তিনি নিজে দৃশ্যত পালন করছিলেন না, আর ৩৩:২১-এর পুরো জোরটাই এখানে।',
+          bn: 'বর্ণনাটা তাঁর আচরণের বিবরণের সঙ্গে সেই কথাটাও জুড়ে দেয়, যা ওই আচরণ থেকেই এসেছে। তাঁকে কখনো এমন কোনো মান বেঁধে দিতে উদ্ধৃত করা হয়নি, যা তিনি নিজে চোখের সামনে পালন করছিলেন না। ৩৩:২১-এর পুরো জোরটাই এখানে।',
         },
       },
     ],
     practice: [
       {
         en: 'Read one seerah incident a week rather than a whole book. The model is made of specific moments, and specific moments are what you can imitate.',
-        bn: 'পুরো বই নয়, সপ্তাহে সিরাতের একটি ঘটনা পড়ুন। আদর্শটি গড়ে উঠেছে নির্দিষ্ট মুহূর্তগুলো দিয়ে, আর নির্দিষ্ট মুহূর্তই আপনি অনুসরণ করতে পারেন।',
+        bn: 'গোটা বই নয়, সপ্তাহে সিরাতের একটা ঘটনা পড়ুন। আদর্শটা তো গড়া হয়েছে আলাদা আলাদা মুহূর্ত দিয়েই, আর অনুসরণও করা যায় ওই মুহূর্তগুলোকেই।',
       },
       {
         en: 'Try Anas’s ten years for one day: no “why did you do that,” no “why didn’t you.” It is harder than it reads.',
-        bn: 'আনাসের দশ বছর একদিনের জন্য চেষ্টা করুন: কোনো “এটি কেন করলে” নয়, কোনো “কেন করলে না” নয়। পড়তে যত সহজ, করতে তত নয়।',
+        bn: 'আনাস (রা)-এর দশ বছরটা একটা দিনের জন্য চেষ্টা করে দেখুন: একবারও “এটা কেন করলে” নয়, “ওটা কেন করলে না”ও নয়। পড়তে যত সহজ লাগছে, করতে তত নয়।',
       },
       {
         en: 'Send ṣalawāt on him deliberately today rather than in passing. 33:21 attaches the model to remembering Allah much — the two habits hold each other up.',
-        bn: 'আজ যেতে যেতে নয়, ইচ্ছা করেই তাঁর উপর দরুদ পড়ুন। ৩৩:২১ আদর্শটিকে আল্লাহকে অধিক স্মরণের সাথে যুক্ত করে — দুটি অভ্যাস একে অপরকে ধরে রাখে।',
+        bn: 'আজ চলতে চলতে নয়, মন দিয়ে ইচ্ছে করেই তাঁর ওপর দরুদ পড়ুন। ৩৩:২১ আদর্শটাকে জুড়ে দিয়েছে আল্লাহকে বেশি বেশি স্মরণ করার সঙ্গে। দুটো অভ্যাস একে অপরকে ধরে রাখে।',
       },
     ],
   },
@@ -3257,17 +3257,17 @@ const HOPE_CHAPTERS = [
       ref: '59:10',
       why: {
         en: 'Forgive us and our brothers who came before us in faith, and put no resentment in our hearts toward those who believed. The only du‘a in the Qur’an that asks for a specific emotional state about other Muslims.',
-        bn: 'আমাদের ও আমাদের আগে ঈমান আনা ভাইদের ক্ষমা করুন, আর যারা ঈমান এনেছে তাদের প্রতি আমাদের অন্তরে বিদ্বেষ রাখবেন না। কুরআনে এটিই একমাত্র দোয়া যা অন্য মুসলিমদের নিয়ে অন্তরের একটি নির্দিষ্ট অবস্থা চায়।',
+        bn: 'আমাদের মাফ করুন, আর আমাদের আগে যাঁরা ঈমান এনেছেন সেই ভাইদেরও। আর যারা ঈমান এনেছে তাদের প্রতি আমাদের অন্তরে বিদ্বেষ রাখবেন না। অন্য মুসলিমদের নিয়ে অন্তরের একটা নির্দিষ্ট অবস্থা কুরআনে কেবল এই দোয়াতেই চাওয়া হয়েছে।',
       },
     },
     intro: [
       {
         en: 'The Aws and the Khazraj had been killing each other for generations before Islam. The Qur’an points at what happened to them as a miracle on the order of a physical sign: you were enemies and He joined your hearts, and if you had spent everything in the earth you could not have done it. Brotherhood is presented as something Allah does, and something a community can lose.',
-        bn: 'ইসলামের আগে আউস ও খাযরাজ প্রজন্মের পর প্রজন্ম একে অপরকে হত্যা করেছে। কুরআন তাদের ক্ষেত্রে যা ঘটেছে তার দিকে ইঙ্গিত করে এক ভৌত নিদর্শনের সমতুল্য মুজিজা হিসেবে: তোমরা শত্রু ছিলে, তিনি তোমাদের অন্তর জুড়ে দিয়েছেন, আর পৃথিবীর সবকিছু ব্যয় করলেও তোমরা তা পারতে না। ভ্রাতৃত্বকে উপস্থাপন করা হয়েছে এমন কিছু হিসেবে যা আল্লাহ করেন, আর যা একটি সমাজ হারাতেও পারে।',
+        bn: 'ইসলামের আগে আউস আর খাযরাজ যুগ যুগ ধরে একে অপরকে কেটেছে। তাদের বেলায় যা ঘটল, কুরআন সেটাকে দেখায় চোখে দেখা মুজিজার সমান করে: তোমরা শত্রু ছিলে, তিনি তোমাদের অন্তর জুড়ে দিলেন, আর দুনিয়ার সব সম্পদ ঢাললেও তোমরা তা পারতে না। ভ্রাতৃত্ব তাই এমন জিনিস, যা আল্লাহই করে দেন — আর যা একটা সমাজ হারিয়েও ফেলতে পারে।',
       },
       {
         en: 'It is also stated as a fact you are obliged to act on rather than a feeling you are asked to have: the believers are but brothers, so make peace between your brothers. The command follows from the description. You are not asked to like everybody; you are told what they already are to you.',
-        bn: 'এটি এমন এক বাস্তবতা হিসেবেও বলা হয়েছে যার উপর কাজ করা আবশ্যক, চাওয়া অনুভূতি হিসেবে নয়: মুমিনরা তো ভাই ভাই, তাই তোমরা তোমাদের ভাইদের মধ্যে মীমাংসা করে দাও। নির্দেশ আসে বর্ণনা থেকেই। আপনাকে সবাইকে পছন্দ করতে বলা হয়নি; বলা হয়েছে তারা আপনার কাছে ইতিমধ্যেই কী।',
+        bn: 'কথাটা বলা হয়েছে এমন এক বাস্তবতা হিসেবে, যার ওপর কাজ করতেই হবে — চাওয়া কোনো অনুভূতি হিসেবে নয়: মুমিনরা তো ভাই ভাই, তাই ভাইদের মধ্যে মিটমাট করে দাও। হুকুমটা এসেছে বর্ণনা থেকেই। আপনাকে সবাইকে পছন্দ করতে বলা হয়নি; বলা হয়েছে, তারা আপনার কাছে আগে থেকেই কী।',
       },
     ],
     verses: [
@@ -3275,28 +3275,28 @@ const HOPE_CHAPTERS = [
         ref: '49:10',
         note: {
           en: 'Innamā — the believers are only, nothing but, brothers. The particle makes it exclusive, and the command that follows is not to feel warmly but to make settlement, aṣliḥū, which is work.',
-          bn: 'ইন্নামা — মুমিনরা কেবলই, ভাই ছাড়া কিছু নয়। শব্দটি বিষয়টিকে একচেটিয়া করে দেয়, আর এরপরের নির্দেশ উষ্ণ বোধ করা নয়, মীমাংসা করা, আসলিহূ, যা পরিশ্রমের কাজ।',
+          bn: 'ইন্নামা — মুমিনরা কেবলই ভাই, আর কিছু নয়। শব্দটা আর কোনো সম্ভাবনা রাখে না। আর এরপরের হুকুম মনে টান অনুভব করা নয়, মিটমাট করে দেওয়া — আসলিহূ। ওটা পরিশ্রমের কাজ।',
         },
       },
       {
         ref: '3:103',
         note: {
           en: 'Hold to the rope of Allah jamī‘an — all together — and then a reminder framed as a favour: you were enemies, He joined your hearts, and by His favour you became brothers. Unity is recalled as a ni‘mah that was given, so it can be withdrawn.',
-          bn: 'আল্লাহর রজ্জু ধরো জামিআন — সবাই একসাথে — তারপর একটি স্মরণ, নিয়ামত হিসেবে উপস্থাপিত: তোমরা শত্রু ছিলে, তিনি তোমাদের অন্তর জুড়ে দিয়েছেন, আর তাঁর অনুগ্রহে তোমরা ভাই হয়ে গেছ। ঐক্যকে স্মরণ করানো হচ্ছে দেওয়া নিয়ামত হিসেবে, ফলে তা ফিরিয়েও নেওয়া যায়।',
+          bn: 'আল্লাহর রশি ধরো জামিআন — সবাই মিলে। তারপর একটা স্মরণ, আর তা নিয়ামত হিসেবেই: তোমরা শত্রু ছিলে, তিনি তোমাদের অন্তর জুড়ে দিলেন, আর তাঁর অনুগ্রহেই তোমরা ভাই হয়ে গেলে। ঐক্যকে মনে করানো হচ্ছে দেওয়া নিয়ামত হিসেবে। যা দেওয়া হয়, তা ফিরিয়েও নেওয়া যায়।',
         },
       },
       {
         ref: '8:63',
         note: {
           en: 'If you had spent all that is in the earth, you could not have brought their hearts together. A blunt statement that reconciliation is not a resource problem — which also means no amount of organising substitutes for it.',
-          bn: 'পৃথিবীর সবকিছু ব্যয় করলেও তুমি তাদের অন্তর জুড়তে পারতে না। স্পষ্ট ঘোষণা যে মীমাংসা সম্পদের সমস্যা নয় — অর্থাৎ যত আয়োজনই করুন, তা এর বিকল্প নয়।',
+          bn: 'দুনিয়ার সব সম্পদ ঢাললেও তুমি তাদের অন্তর জুড়তে পারতে না। সোজা কথা — মিটমাট টাকার সমস্যা নয়। অর্থাৎ যত আয়োজনই করুন, তাতে কাজটা হয় না।',
         },
       },
       {
         ref: '59:9',
         note: {
           en: 'The Ansar described as loving those who emigrated to them, finding no want in their own chests for what was given away, and preferring others over themselves despite having need. Then the diagnosis: whoever is protected from the stinginess of his own soul — those are the successful.',
-          bn: 'আনসারদের বর্ণনা: যাঁরা হিজরতকারীদের ভালোবাসেন, যা দেওয়া হয়েছে তার জন্য নিজেদের বুকে কোনো আকাঙ্ক্ষা পান না, আর নিজেদের প্রয়োজন থাকা সত্ত্বেও অন্যকে অগ্রাধিকার দেন। তারপর রোগনির্ণয়: যে নিজের নফসের কার্পণ্য থেকে রক্ষা পেল — তারাই সফল।',
+          bn: 'আনসারদের বর্ণনা: তাঁরা মুহাজিরদের ভালোবাসেন, তাঁদের যা দেওয়া হলো তার জন্য নিজেদের বুকে কোনো টান অনুভব করেন না, আর নিজেদের অভাব থাকা সত্ত্বেও অন্যকে আগে রাখেন। তারপর আসল কথাটা: যে নিজের নফসের কৃপণতা থেকে বেঁচে গেল, তারাই সফল।',
         },
       },
     ],
@@ -3309,7 +3309,7 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'A test that is easy to state and difficult to pass in the specific case — the promotion, the marriage, the house. It is stated as a condition of faith, not as an ideal of manners.',
-          bn: 'একটি পরীক্ষা, বলা সহজ আর নির্দিষ্ট ক্ষেত্রে পাস করা কঠিন — পদোন্নতি, বিয়ে, বাড়ি। একে বলা হয়েছে ঈমানের শর্ত হিসেবে, শিষ্টাচারের আদর্শ হিসেবে নয়।',
+          bn: 'পরীক্ষাটা বলা সহজ, নির্দিষ্ট ক্ষেত্রে পাস করা কঠিন — পদোন্নতিটা, বিয়েটা, বাড়িটা। আর একে বলা হয়েছে ঈমানের শর্ত, শিষ্টাচারের সুন্দর আদর্শ নয়।',
         },
       },
       {
@@ -3320,22 +3320,22 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'The image is not of cooperation but of involuntary reaction. A body does not decide to have a fever; the point is what your indifference indicates.',
-          bn: 'ছবিটি সহযোগিতার নয়, অনিচ্ছাকৃত প্রতিক্রিয়ার। দেহ সিদ্ধান্ত নিয়ে জ্বরে পড়ে না; মূল কথা হলো আপনার উদাসীনতা কী নির্দেশ করে।',
+          bn: 'ছবিটা সহযোগিতার নয়, নিজে থেকে সাড়া দেওয়ার। দেহ তো ভেবেচিন্তে জ্বরে পড়ে না। আসল কথা হলো, আপনার উদাসীনতা কীসের আলামত।',
         },
       },
     ],
     practice: [
       {
         en: 'Reconcile two people you know are not speaking. 49:10 makes that a command addressed to bystanders, not to the parties.',
-        bn: 'পরিচিত এমন দুজনের মধ্যে মীমাংসা করে দিন যাঁদের কথা বন্ধ। ৪৯:১০ এই নির্দেশটি দেয় পাশে দাঁড়ানো মানুষদের, বিবাদী পক্ষগুলোকে নয়।',
+        bn: 'চেনা এমন দুজনের মধ্যে মিটমাট করে দিন, যাঁদের কথা বন্ধ। ৪৯:১০ এই হুকুমটা দিয়েছে পাশে দাঁড়ানো মানুষদের, ঝগড়ার দুই পক্ষকে নয়।',
       },
       {
         en: 'Make the du‘a of 59:10 by name for someone you resent. It is hard to keep a grudge you are actively asking Allah to remove.',
-        bn: 'যাঁর প্রতি বিদ্বেষ আছে তাঁর নাম নিয়ে ৫৯:১০-এর দোয়াটি করুন। যে বিদ্বেষ দূর করার জন্য আপনি নিজেই আল্লাহর কাছে চাইছেন, তা ধরে রাখা কঠিন।',
+        bn: 'যাঁর প্রতি মনে বিদ্বেষ আছে, তাঁর নাম নিয়ে ৫৯:১০-এর দোয়াটা করুন। যে বিদ্বেষটা দূর করার জন্য আপনি নিজেই আল্লাহর কাছে হাত তুলছেন, সেটা ধরে রাখা কঠিন হয়ে যায়।',
       },
       {
         en: 'Apply the test of Bukhari 13 to a specific case this week, not to people in general. The general version is always easy to pass.',
-        bn: 'এই সপ্তাহে বুখারি ১৩-এর পরীক্ষাটি একটি নির্দিষ্ট ক্ষেত্রে খাটান, সাধারণভাবে মানুষের বেলায় নয়। সাধারণ সংস্করণে পাস করা সবসময়ই সহজ।',
+        bn: 'এ সপ্তাহে বুখারি ১৩-এর পরীক্ষাটা একটা নির্দিষ্ট ঘটনায় খাটিয়ে দেখুন, ঢালাওভাবে সব মানুষের বেলায় নয়। ঢালাও হিসাবে পাস করা তো সব সময়ই সহজ।',
       },
     ],
   },
@@ -3353,17 +3353,17 @@ const HOPE_CHAPTERS = [
       ref: '14:41',
       why: {
         en: 'Ibrahim (AS) asks for himself, his parents and the believers together. Read here as the shape a family prayer should have — nobody left outside it, including the difficult ones.',
-        bn: 'ইবরাহিম (আ) একসাথে চান নিজের, পিতামাতার আর মুমিনদের জন্য। এখানে পড়ুন পারিবারিক দোয়ার আকৃতি হিসেবে — কেউ বাইরে নয়, কঠিন মানুষগুলোও নয়।',
+        bn: 'ইবরাহিম (আ) একসঙ্গে চান নিজের জন্য, বাবা-মায়ের জন্য আর মুমিনদের জন্য। এখানে পড়ুন পারিবারিক দোয়ার নমুনা হিসেবে — কেউ বাইরে থাকবে না, কঠিন মানুষগুলোও নয়।',
       },
     },
     intro: [
       {
         en: 'The Arabic for kinship, raḥim, is literally the womb, and it comes from the same three letters as ar-Raḥmān. Classical scholars did not treat that as a coincidence — a report has Allah saying He named the tie from His own name, and that He will keep whoever keeps it and cut off whoever cuts it. It is the tightest link the language makes between a divine attribute and a social duty.',
-        bn: 'আত্মীয়তার আরবি রাহিম আক্ষরিক অর্থে জরায়ু, আর তা আসে আর-রহমান-এর সেই একই তিন অক্ষর থেকে। ধ্রুপদী আলিমগণ একে কাকতালীয় ভাবেননি — একটি বর্ণনায় আল্লাহ বলেন, তিনি নিজের নাম থেকেই এই বন্ধনের নাম দিয়েছেন, আর যে একে রক্ষা করবে তিনি তাকে রক্ষা করবেন, আর যে ছিন্ন করবে তাকে তিনি ছিন্ন করবেন। ঐশী গুণ ও সামাজিক দায়িত্বের মধ্যে ভাষা যে সবচেয়ে আঁটসাঁট সংযোগ তৈরি করে, এটি তা-ই।',
+        bn: 'আত্মীয়তার আরবি রাহিম, আক্ষরিক অর্থে মায়ের গর্ভ। আর শব্দটা এসেছে আর-রহমান-এর সেই একই তিন অক্ষর থেকে। পুরনো আলিমরা একে কাকতালীয় ভাবেননি। এক বর্ণনায় আল্লাহ বলেন, তিনি নিজের নাম থেকেই এই বন্ধনের নাম রেখেছেন; যে একে জুড়ে রাখবে তিনি তাকে জুড়ে রাখবেন, আর যে ছিঁড়ে ফেলবে তাকে তিনি ছিঁড়ে ফেলবেন। আল্লাহর গুণ আর মানুষের দায়িত্বের মধ্যে ভাষা এর চেয়ে আঁটসাঁট গিঁট আর বাঁধেনি।',
       },
       {
         en: 'And the Sunnah defines the duty in a way that removes the usual excuse. The one who keeps ties is not the one who returns what he is given; he is the one who keeps them when they are cut off from him. That single sentence disposes of nearly every argument a person makes for not calling.',
-        bn: 'আর সুন্নাহ দায়িত্বটির সংজ্ঞা এমনভাবে দেয় যা চিরাচরিত অজুহাতটি সরিয়ে দেয়। সম্পর্ক রক্ষাকারী সে নয় যে পাওয়ার বিনিময়ে ফিরিয়ে দেয়; সে-ই, যে সম্পর্ক ছিন্ন হওয়ার পরও তা জুড়ে রাখে। এই একটি বাক্যই মানুষ ফোন না করার পক্ষে যত যুক্তি দেয় তার প্রায় সবগুলোকে খারিজ করে দেয়।',
+        bn: 'আর সুন্নাহ দায়িত্বটার সংজ্ঞা এমনভাবে দেয়, যাতে চেনা অজুহাতটা আর টেকে না। সম্পর্ক রক্ষাকারী সে নয়, যে পেলে ফিরিয়ে দেয়। সম্পর্ক রক্ষাকারী সে-ই, যার সঙ্গে সম্পর্ক ছিঁড়ে দেওয়া হলেও সে আবার জুড়ে নেয়। এই একটা বাক্যই ফোন না করার পক্ষে মানুষের প্রায় সব যুক্তি খারিজ করে দেয়।',
       },
     ],
     verses: [
@@ -3371,28 +3371,28 @@ const HOPE_CHAPTERS = [
         ref: '4:1',
         note: {
           en: 'The opening verse of a surah about family law: fear Allah, through whom you ask one another, and the wombs — al-arḥām. Kinship is placed grammatically alongside the name of Allah in the sentence about consciousness of Him.',
-          bn: 'পারিবারিক বিধান নিয়ে একটি সূরার প্রথম আয়াত: আল্লাহকে ভয় করো, যাঁর নামে তোমরা একে অপরের কাছে চাও, আর আত্মীয়তার বন্ধনকেও — আল-আরহাম। তাঁর ব্যাপারে সচেতনতার বাক্যে আত্মীয়তাকে ব্যাকরণগতভাবে আল্লাহর নামের পাশেই রাখা হয়েছে।',
+          bn: 'পারিবারিক বিধান নিয়ে একটা সূরার একেবারে প্রথম আয়াত: আল্লাহকে ভয় করো, যাঁর নাম নিয়ে তোমরা একে অপরের কাছে চাও — আর আত্মীয়তার বন্ধনকেও, আল-আরহাম। আল্লাহভীতির কথা বলা বাক্যেই আত্মীয়তাকে বসিয়ে দেওয়া হলো তাঁর নামের ঠিক পাশে।',
         },
       },
       {
         ref: '13:21',
         note: {
           en: 'Listed among the qualities of those who receive the good end: those who join what Allah has commanded to be joined. It sits between fearing their Lord and dreading a bad reckoning — company that indicates its weight.',
-          bn: 'যাঁরা উত্তম পরিণাম পান তাঁদের গুণাবলির মধ্যে তালিকাভুক্ত: যারা আল্লাহ যা জোড়া রাখার নির্দেশ দিয়েছেন তা জোড়া রাখে। এটি বসে আছে রবকে ভয় করা আর মন্দ হিসাবের আশঙ্কার মাঝখানে — যে সঙ্গ এর ভার বুঝিয়ে দেয়।',
+          bn: 'যাঁরা উত্তম পরিণাম পান, তাঁদের গুণের তালিকায় এটাও আছে: যারা আল্লাহ যা জোড়া রাখতে বলেছেন তা জোড়া রাখে। কথাটা বসানো রবকে ভয় করা আর মন্দ হিসাবের আশঙ্কার মাঝখানে। এই সঙ্গটাই বুঝিয়ে দেয় বিষয়টার ভার কতখানি।',
         },
       },
       {
         ref: '47:22-23',
         note: {
           en: 'The severest wording in the Qur’an on a social matter: would you, if you turned away, spread corruption and sever your ties of kinship? Those are the ones Allah has cursed, deafened and blinded. Cutting family is put in the same sentence as corruption in the land.',
-          bn: 'সামাজিক কোনো বিষয়ে কুরআনের সবচেয়ে কঠোর ভাষা: তোমরা কি মুখ ফিরিয়ে নিলে জমিনে বিপর্যয় ঘটাবে আর আত্মীয়তার বন্ধন ছিন্ন করবে? তারাই তারা, যাদের আল্লাহ অভিশাপ দিয়েছেন, বধির ও অন্ধ করেছেন। পরিবার ছিন্ন করাকে রাখা হয়েছে জমিনে বিপর্যয় সৃষ্টির সাথে একই বাক্যে।',
+          bn: 'সামাজিক কোনো বিষয়ে কুরআনের সবচেয়ে কড়া ভাষা এখানেই: তোমরা কি মুখ ফিরিয়ে নিলে জমিনে বিপর্যয় ঘটাবে আর আত্মীয়তার বন্ধন ছিঁড়ে ফেলবে? এরাই তারা, যাদের আল্লাহ লানত দিয়েছেন, বধির করেছেন, অন্ধ করেছেন। পরিবার ছিঁড়ে ফেলাকে বসানো হলো জমিনে বিপর্যয় সৃষ্টির সঙ্গে একই বাক্যে।',
         },
       },
       {
         ref: '16:90',
         note: {
           en: 'Three commands, and giving to relatives is the third — placed after justice and iḥsān as though it were a category of its own rather than an example of them.',
-          bn: 'তিনটি নির্দেশ, আর আত্মীয়কে দেওয়া তৃতীয়টি — ন্যায় ও ইহসানের পরে স্থাপিত, যেন এটি তাদের উদাহরণ নয়, নিজেই একটি আলাদা শ্রেণি।',
+          bn: 'তিনটে হুকুম, আর আত্মীয়কে দেওয়া তার তৃতীয়টা — ইনসাফ আর ইহসানের পরে বসানো। যেন এটা ওই দুটোর উদাহরণ নয়, নিজেই আলাদা একটা শ্রেণি।',
         },
       },
     ],
@@ -3405,7 +3405,7 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'A definition replaced rather than expanded. By this wording, the family member who is difficult is not an exception to the duty — they are the situation the duty was written for.',
-          bn: 'সংজ্ঞাটি প্রসারিত নয়, প্রতিস্থাপিত। এই ভাষায়, যে আত্মীয় কঠিন, তিনি দায়িত্বের ব্যতিক্রম নন — তিনিই সেই পরিস্থিতি, যার জন্য দায়িত্বটি লেখা হয়েছে।',
+          bn: 'সংজ্ঞাটা বাড়ানো হয়নি, বদলেই দেওয়া হয়েছে। এই ভাষায় যে আত্মীয়টা কঠিন, তিনি দায়িত্বের ব্যতিক্রম নন — তিনিই সেই অবস্থা, যার জন্য দায়িত্বটা লেখা হয়েছিল।',
         },
       },
       {
@@ -3416,22 +3416,22 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'Two worldly returns named for a duty most people treat as pure obligation. Read next to 71:12 and 11:52, it is the same pattern: the Qur’an and Sunnah keep attaching material outcomes to acts of the heart.',
-          bn: 'যে দায়িত্বকে বেশিরভাগ মানুষ নিছক বাধ্যবাধকতা মনে করে, তার জন্য দুটি পার্থিব প্রতিদানের নাম। ৭১:১২ ও ১১:৫২-এর পাশে রেখে পড়লে একই ধরন: কুরআন ও সুন্নাহ বারবার অন্তরের কাজের সাথে বস্তুগত ফল জুড়ে দেয়।',
+          bn: 'যে দায়িত্বটাকে বেশির ভাগ মানুষ নিছক বাধ্যবাধকতা মনে করে, তার সঙ্গে দুটো দুনিয়াবি প্রতিদান জুড়ে দেওয়া হলো। ৭১:১২ আর ১১:৫২-এর পাশে রেখে পড়লে একই ধরন চোখে পড়ে: কুরআন আর সুন্নাহ বারবার অন্তরের কাজের সঙ্গে হাতে-পাওয়া ফল জুড়ে দেয়।',
         },
       },
     ],
     practice: [
       {
         en: 'Contact the relative you are waiting to hear from. Bukhari 5991 says the waiting itself disqualifies the claim.',
-        bn: 'যে আত্মীয়ের ফোনের অপেক্ষায় আছেন, তাঁকেই যোগাযোগ করুন। বুখারি ৫৯৯১ বলে, অপেক্ষা করাটাই দাবিটিকে বাতিল করে দেয়।',
+        bn: 'যে আত্মীয়ের ফোনের অপেক্ষায় বসে আছেন, আপনিই তাঁকে ফোন করুন। বুখারি ৫৯৯১ বলছে, অপেক্ষা করাটাই দাবিটা বাতিল করে দেয়।',
       },
       {
         en: 'Keep it short and repeat it. A two-minute call every week rebuilds a tie that a long annual visit does not.',
-        bn: 'সংক্ষিপ্ত রাখুন আর বারবার করুন। সপ্তাহে দুই মিনিটের একটি কল সেই বন্ধন গড়ে যা বছরে একবারের দীর্ঘ সাক্ষাৎ গড়ে না।',
+        bn: 'ছোট রাখুন, কিন্তু বারবার করুন। সপ্তাহে দুই মিনিটের একটা ফোন যে বন্ধনটা গড়ে, বছরে একবারের লম্বা বেড়ানো তা গড়ে না।',
       },
       {
         en: 'Separate the tie from the dispute. Keeping ties does not mean conceding the argument or accepting harm; it means the line stays open.',
-        bn: 'বন্ধনটিকে বিরোধ থেকে আলাদা করুন। সম্পর্ক রক্ষা মানে তর্কে হার মেনে নেওয়া বা ক্ষতি মেনে নেওয়া নয়; মানে যোগাযোগের পথটি খোলা থাকা।',
+        bn: 'বন্ধনটাকে ঝগড়াটা থেকে আলাদা করুন। সম্পর্ক রাখা মানে তর্কে হার মেনে নেওয়া নয়, ক্ষতি মেনে নেওয়াও নয়। মানে যোগাযোগের দরজাটা খোলা রাখা।',
       },
     ],
   },
@@ -3449,17 +3449,17 @@ const HOPE_CHAPTERS = [
       ref: '2:201',
       why: {
         en: 'Good in this world and good in the Hereafter. A person who has understood that the earth is a trust asks for both, because what happens here is not separable from what comes after.',
-        bn: 'দুনিয়ায় কল্যাণ আর আখিরাতেও কল্যাণ। যে বুঝেছে পৃথিবীটা একটি আমানত, সে দুটোই চায়, কারণ এখানে যা ঘটে তা পরে যা আসে তার থেকে আলাদা নয়।',
+        bn: 'দুনিয়ায় কল্যাণ, আখিরাতেও কল্যাণ। যে বুঝেছে পৃথিবীটা আমানত, সে দুটোই চায়। কারণ এখানে যা ঘটে আর পরে যা আসে — দুটো আলাদা জিনিস নয়।',
       },
     },
     intro: [
       {
         en: 'The Qur’an describes animals as ummam amthālukum — communities like you — and states that nothing has been left out of the Register. It sets a balance in the heavens and forbids transgressing it. And it says plainly that corruption appeared on land and sea by what human hands earned. The environment is not a modern addition to Islamic ethics; it is where a good deal of the Qur’an’s ethics is set.',
-        bn: 'কুরআন প্রাণীদের বর্ণনা করে উমামুন আমসালুকুম হিসেবে — তোমাদের মতোই সম্প্রদায় — আর বলে যে কিতাবে কিছুই বাদ দেওয়া হয়নি। এটি আসমানে একটি ভারসাম্য স্থাপন করে আর তা লঙ্ঘন করতে নিষেধ করে। আর স্পষ্ট বলে, মানুষের হাতের কামাইয়ের কারণেই স্থলে ও সমুদ্রে বিপর্যয় দেখা দিয়েছে। পরিবেশ ইসলামি নৈতিকতায় আধুনিক কোনো সংযোজন নয়; কুরআনের নৈতিকতার অনেকটাই সেখানেই স্থাপিত।',
+        bn: 'কুরআন পশুপাখিকে বলে উমামুন আমসালুকুম — তোমাদের মতোই সম্প্রদায় — আর বলে, কিতাবে কিছুই বাদ পড়েনি। কুরআন আসমানে একটা ভারসাম্য বসিয়ে দিয়ে তা ভাঙতে নিষেধ করে। আর সোজাসুজি বলে, মানুষের হাতের কামাইয়েই স্থলে-সমুদ্রে বিপর্যয় নেমেছে। পরিবেশের কথা তাই ইসলামি আখলাকে নতুন কোনো সংযোজন নয়; কুরআনের আখলাকের অনেকটাই ওখানেই দাঁড়ানো।',
       },
       {
         en: 'The Sunnah then makes it personal in the most uncomfortable way available. Two of the best-known hadith about Paradise and the Fire turn on how somebody treated an animal that could do nothing for them. Mercy is being tested where there is no possibility of return, which is where it is most honest.',
-        bn: 'এরপর সুন্নাহ বিষয়টিকে সবচেয়ে অস্বস্তিকর উপায়ে ব্যক্তিগত করে তোলে। জান্নাত ও জাহান্নাম নিয়ে সবচেয়ে পরিচিত দুটি হাদিসের মোড় ঘোরে এই বিন্দুতে যে, কেউ এমন এক প্রাণীর সাথে কেমন আচরণ করেছিল যে তার জন্য কিছুই করতে পারত না। দয়াকে পরীক্ষা করা হচ্ছে সেখানেই যেখানে প্রতিদানের কোনো সম্ভাবনা নেই, আর সেখানেই তা সবচেয়ে সৎ।',
+        bn: 'এরপর সুন্নাহ বিষয়টাকে ব্যক্তিগত করে তোলে, তা-ও সবচেয়ে অস্বস্তিকর উপায়ে। জান্নাত আর জাহান্নাম নিয়ে সবচেয়ে চেনা দুটো হাদিসের মোড় ঘুরে যায় একটা জায়গায় — কেউ এমন এক প্রাণীর সঙ্গে কেমন ব্যবহার করেছিল, যে তার জন্য কিছুই করতে পারত না। দয়ার পরীক্ষা হচ্ছে সেখানেই, যেখানে কিছু ফিরে পাওয়ার সম্ভাবনাই নেই। আর সেখানেই দয়াটা সবচেয়ে খাঁটি।',
       },
     ],
     verses: [
@@ -3467,28 +3467,28 @@ const HOPE_CHAPTERS = [
         ref: '6:38',
         note: {
           en: 'No creature on the earth and no bird flying on its wings but that they are communities like you. Umam is the same word used for human nations, and the verse says nothing was neglected in the Book.',
-          bn: 'জমিনে এমন কোনো প্রাণী নেই আর দুই ডানায় ওড়ে এমন কোনো পাখি নেই, যারা তোমাদের মতোই সম্প্রদায় নয়। উমাম সেই একই শব্দ যা মানব জাতিসমূহের জন্য ব্যবহৃত হয়, আর আয়াতটি বলে কিতাবে কিছুই অবহেলিত হয়নি।',
+          bn: 'জমিনে এমন কোনো প্রাণী নেই, দুই ডানায় ওড়ে এমন কোনো পাখিও নেই, যারা তোমাদের মতোই সম্প্রদায় নয়। উমাম শব্দটা সেটাই, যা মানুষের জাতিগুলোর জন্যও ব্যবহার হয়। আর আয়াত বলছে, কিতাবে কিছুই অবহেলায় পড়ে থাকেনি।',
         },
       },
       {
         ref: '55:7-9',
         note: {
           en: 'He raised the heaven and set the balance, so do not transgress in the balance — and then, establish weight with justice and do not make the balance deficient. Cosmic order and honest weighing in a shop are given the same word, mīzān.',
-          bn: 'তিনি আকাশ উঁচু করেছেন আর ভারসাম্য স্থাপন করেছেন, তাই ভারসাম্যে সীমালঙ্ঘন কোরো না — তারপর, ন্যায়ের সাথে ওজন প্রতিষ্ঠা করো আর ভারসাম্যে ঘাটতি কোরো না। মহাজাগতিক শৃঙ্খলা আর দোকানে সৎ ওজনকে একই শব্দ দেওয়া হয়েছে, মীযান।',
+          bn: 'তিনি আকাশ উঁচু করেছেন আর ভারসাম্য বসিয়ে দিয়েছেন, তাই ভারসাম্যে সীমা ছেড়ো না। তারপর: ইনসাফের সঙ্গে ওজন করো, আর মাপে কম দিয়ো না। আসমানের শৃঙ্খলা আর দোকানের সৎ ওজন — দুটোর জন্যই একই শব্দ, মীযান।',
         },
       },
       {
         ref: '30:41',
         note: {
           en: 'Corruption has appeared on land and sea by what people’s hands have earned — and the stated purpose is that He may make them taste part of it, so that perhaps they will return. The damage is described as a message, not only as a consequence.',
-          bn: 'মানুষের হাতের কামাইয়ের কারণে স্থলে ও সমুদ্রে বিপর্যয় দেখা দিয়েছে — আর ঘোষিত উদ্দেশ্য হলো তিনি তাদের তার কিছুটা স্বাদ চাখাবেন, যাতে তারা হয়তো ফিরে আসে। ক্ষতিকে বর্ণনা করা হয়েছে বার্তা হিসেবে, কেবল পরিণতি হিসেবে নয়।',
+          bn: 'মানুষের হাতের কামাইয়েই স্থলে আর সমুদ্রে বিপর্যয় দেখা দিয়েছে। আর উদ্দেশ্য বলা হয়েছে — তিনি তাদের তার কিছুটা স্বাদ চাখাবেন, যাতে তারা হয়তো ফেরে। ক্ষতিটাকে বলা হচ্ছে বার্তা, কেবল পরিণতি নয়।',
         },
       },
       {
         ref: '7:31',
         note: {
           en: 'Eat and drink but do not be excessive — and the closing clause is that He does not love those who commit excess. An instruction about consumption placed inside a verse about coming to the masjid.',
-          bn: 'খাও ও পান করো, কিন্তু অপচয় কোরো না — আর শেষ বাক্যাংশ হলো, তিনি অপচয়কারীদের ভালোবাসেন না। ভোগ নিয়ে একটি নির্দেশ রাখা হয়েছে মসজিদে আসা নিয়ে একটি আয়াতের ভেতরে।',
+          bn: 'খাও, পান করো, তবে অপচয় কোরো না। আর শেষ কথাটা — তিনি অপচয়কারীদের ভালোবাসেন না। খাওয়া-পরা নিয়ে একটা হুকুম বসিয়ে দেওয়া হলো মসজিদে আসা নিয়ে একটা আয়াতের ভেতরেই।',
         },
       },
     ],
@@ -3501,7 +3501,7 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'The offence is stated twice — she neither fed it nor released it. Both options were free. What is being condemned is not cruelty so much as the refusal of a small mercy that cost nothing.',
-          bn: 'অপরাধটি দুইবার বলা হয়েছে — সে না খেতে দিল, না ছেড়ে দিল। দুটি বিকল্পই ছিল বিনামূল্যের। যা নিন্দিত হচ্ছে তা নিষ্ঠুরতার চেয়ে বেশি, এমন ছোট এক দয়া প্রত্যাখ্যান যার কোনো খরচ ছিল না।',
+          bn: 'অপরাধটা দুবার বলা হয়েছে — খেতেও দিল না, ছেড়েও দিল না। দুটোতেই তো কোনো খরচ ছিল না। এখানে নিন্দা হচ্ছে নিষ্ঠুরতার চেয়েও বেশি একটা জিনিসের: বিনা খরচের ছোট্ট একটা দয়া দেখাতেও রাজি না হওয়ার।',
         },
       },
       {
@@ -3512,7 +3512,7 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'He had already drunk. Nothing obliged him to go back down. The forgiveness is attached to a piece of trouble taken for a creature that could not thank him, which is the same logic as 76:9.',
-          bn: 'সে তো পান করেই ফেলেছিল। আবার নামতে তাকে কিছুই বাধ্য করেনি। ক্ষমাটি যুক্ত এমন এক কষ্ট স্বীকারের সাথে, যা করা হয়েছিল এমন এক প্রাণীর জন্য যে ধন্যবাদই দিতে পারত না — ৭৬:৯-এর সেই একই যুক্তি।',
+          bn: 'লোকটা তো পানি খেয়েই নিয়েছিল। আবার কূপে নামতে তাকে কিছুই বাধ্য করেনি। মাফটা জুড়ে দেওয়া হলো এমন একটা কষ্ট স্বীকারের সঙ্গে, যা করা হয়েছিল এমন এক প্রাণীর জন্য, যে ধন্যবাদটুকুও দিতে পারত না। ৭৬:৯-এর সেই একই যুক্তি।',
         },
       },
       {
@@ -3523,22 +3523,22 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'Iḥsān is required even in the act of killing, which is the strongest possible statement of how far the requirement extends. There is no situation the Sunnah leaves outside it.',
-          bn: 'হত্যার কাজেও ইহসান আবশ্যক, আর এই দাবিটি কতদূর বিস্তৃত তার এর চেয়ে জোরালো ঘোষণা হয় না। সুন্নাহ এমন কোনো পরিস্থিতি রাখে না যা এর বাইরে।',
+          bn: 'জবাই করার সময়েও ইহসান লাগে। দাবিটা কতদূর পর্যন্ত যায়, এর চেয়ে জোরালোভাবে আর বলা যায় না। এমন কোনো অবস্থা সুন্নাহ রাখেইনি, যা এর বাইরে পড়ে।',
         },
       },
     ],
     practice: [
       {
         en: 'Put water out for something this week — a bird, a cat, the animals near where you live. The hadith of the well makes that the whole act.',
-        bn: 'এই সপ্তাহে কিছুর জন্য পানি রাখুন — একটি পাখি, একটি বিড়াল, আপনার আশপাশের প্রাণীরা। কূপের হাদিসটি এটুকুকেই পুরো কাজ বানায়।',
+        bn: 'এ সপ্তাহে কারও জন্য একটু পানি রেখে দিন — পাখির জন্য, বিড়ালের জন্য, আশপাশের প্রাণীদের জন্য। কূপের হাদিসে এটুকুই পুরো কাজ।',
       },
       {
         en: 'Cut one habit of waste — food thrown out, water left running. 7:31 names excess, and 30:41 says the damage is meant to be read as a message.',
-        bn: 'অপচয়ের একটি অভ্যাস বাদ দিন — ফেলে দেওয়া খাবার, খোলা রাখা কল। ৭:৩১ অপচয়ের নাম বলে, আর ৩০:৪১ বলে ক্ষতিটিকে বার্তা হিসেবে পড়াই উদ্দিষ্ট।',
+        bn: 'অপচয়ের একটা অভ্যাস ছেড়ে দিন — ফেলে দেওয়া খাবার, খুলে রাখা কল। ৭:৩১ অপচয়ের নাম ধরে বলেছে, আর ৩০:৪১ বলছে ক্ষতিটাকে বার্তা হিসেবেই পড়তে হবে।',
       },
       {
         en: 'Notice where you are merciful only when it is seen. The cat and the dog are both stories about conduct with no audience.',
-        bn: 'লক্ষ করুন কোথায় আপনি কেবল দেখা যাওয়ার সময়েই দয়ালু। বিড়াল আর কুকুরের গল্প দুটোই দর্শকহীন আচরণ নিয়ে।',
+        bn: 'খেয়াল করুন, কোথায় আপনি কেবল লোকে দেখলে তবেই দয়ালু। বিড়াল আর কুকুরের ঘটনা দুটোই এমন আচরণ নিয়ে, যা দেখার কেউ ছিল না।',
       },
     ],
   },
@@ -3556,17 +3556,17 @@ const HOPE_CHAPTERS = [
       ref: '20:114',
       why: {
         en: 'Rabbi zidni ‘ilma. It is the only place in the Qur’an where the Prophet ﷺ is instructed to ask for an increase in anything, and the thing named is knowledge.',
-        bn: 'রাব্বি যিদনী ইলমা। কুরআনে এটিই একমাত্র জায়গা যেখানে নবী ﷺ-কে কোনো কিছুর বৃদ্ধি চাইতে নির্দেশ দেওয়া হয়েছে, আর যার নাম বলা হয়েছে তা জ্ঞান।',
+        bn: 'রাব্বি যিদনী ইলমা। কুরআনে আর কোথাও নবী ﷺ-কে কোনো কিছু বাড়িয়ে চাইতে বলা হয়নি। কেবল এখানেই, আর যার নাম বলা হয়েছে তা ইলম।',
       },
     },
     intro: [
       {
         en: 'The first word revealed was a command to read. But the Qur’an is careful about what knowledge is for: it says that among His servants, it is those with knowledge who fear Allah. The test of learning is not what a person can now argue; it is what they have become quieter about.',
-        bn: 'প্রথম নাজিলকৃত শব্দটি ছিল পড়ার নির্দেশ। কিন্তু জ্ঞান কীসের জন্য, সে ব্যাপারে কুরআন সতর্ক: এটি বলে, তাঁর বান্দাদের মধ্যে জ্ঞানীরাই আল্লাহকে ভয় করে। শেখার পরীক্ষা এই নয় যে মানুষ এখন কী তর্ক করতে পারে; পরীক্ষা হলো সে কোন বিষয়ে আগের চেয়ে নীরব হয়েছে।',
+        bn: 'সবার আগে যে শব্দটা নাজিল হয়েছিল, তা পড়ার হুকুম। তবে ইলম কীসের জন্য, সে ব্যাপারে কুরআন সতর্ক: বলে, তাঁর বান্দাদের মধ্যে আলিমরাই আল্লাহকে ভয় করে। শেখার পরীক্ষা এই নয় যে মানুষ এখন কী নিয়ে তর্ক করতে পারে। পরীক্ষা হলো, সে এখন কোন বিষয়ে আগের চেয়ে চুপ হয়ে গেছে।',
       },
       {
         en: 'This chapter sits at the end of the character wing because it is the one most easily turned into its opposite. Knowledge is the quickest route to the arrogance that Muslim 91 defines as rejecting truth and looking down on people, and the Sunnah warns about it directly. What protects it is the manner it is carried with — which is exactly what the nineteen chapters before it were about.',
-        bn: 'এই অধ্যায়টি চরিত্র-অংশের শেষে, কারণ এটিকেই সবচেয়ে সহজে তার উল্টো জিনিসে পরিণত করা যায়। মুসলিম ৯১ যে অহংকারের সংজ্ঞা দেয় — সত্য প্রত্যাখ্যান আর মানুষকে তুচ্ছ করা — জ্ঞানই সেখানে পৌঁছানোর দ্রুততম পথ, আর সুন্নাহ সরাসরি সে ব্যাপারে সতর্ক করে। যা একে রক্ষা করে তা হলো বহন করার ভঙ্গি — আর তার আগের ঊনিশটি অধ্যায় ঠিক সেটিরই কথা বলছিল।',
+        bn: 'এই অধ্যায়টা চরিত্র-অংশের একেবারে শেষে, কারণ এটাকেই সবচেয়ে সহজে উল্টে ফেলা যায়। মুসলিম ৯১ অহংকারের যে সংজ্ঞা দিয়েছে — সত্য ফিরিয়ে দেওয়া আর মানুষকে তুচ্ছ করা — ইলমই সেখানে পৌঁছানোর সবচেয়ে দ্রুত পথ। সুন্নাহ সরাসরি এ ব্যাপারে সতর্ক করেছে। ইলমকে বাঁচায় একটাই জিনিস: বহন করার ভঙ্গি। আর তার আগের ঊনিশটা অধ্যায় ঠিক ওই ভঙ্গিটার কথাই বলছিল।',
       },
     ],
     verses: [
@@ -3574,28 +3574,28 @@ const HOPE_CHAPTERS = [
         ref: '20:114',
         note: {
           en: 'Preceded by an instruction not to hurry with the Qur’an before its revelation is completed — patience first, then the request for more. The order is a lesson about how knowledge is actually acquired.',
-          bn: 'এর আগে নির্দেশ, ওহি সম্পূর্ণ হওয়ার আগে কুরআন নিয়ে তাড়াহুড়ো না করতে — আগে ধৈর্য, তারপর আরও চাওয়ার আবেদন। ক্রমটিই শিক্ষা দেয়, জ্ঞান আসলে কীভাবে অর্জিত হয়।',
+          bn: 'এর ঠিক আগেই হুকুম — ওহি পুরো হওয়ার আগে কুরআন নিয়ে তাড়াহুড়ো কোরো না। আগে ধৈর্য, তারপর আরও চাওয়ার দোয়া। এই ক্রমটাই শিখিয়ে দেয়, ইলম আসলে কীভাবে আসে।',
         },
       },
       {
         ref: '35:28',
         note: {
           en: 'The verse lists the colours of mountains, people and animals, then concludes: only those of His servants who have knowledge fear Allah. Fear is presented as the result of looking carefully, not as an alternative to it.',
-          bn: 'আয়াতটি পাহাড়, মানুষ ও প্রাণীর রঙের কথা বলে, তারপর উপসংহার টানে: তাঁর বান্দাদের মধ্যে কেবল জ্ঞানীরাই আল্লাহকে ভয় করে। ভয়কে উপস্থাপন করা হয়েছে মনোযোগ দিয়ে দেখার ফল হিসেবে, তার বিকল্প হিসেবে নয়।',
+          bn: 'আয়াতটা আগে বলে পাহাড়ের রং, মানুষের রং, পশুর রঙের কথা। তারপর শেষ করে এই বলে: তাঁর বান্দাদের মধ্যে আলিমরাই আল্লাহকে ভয় করে। আল্লাহভীতি এখানে মনোযোগ দিয়ে দেখারই ফল, দেখার বদলে অন্য কিছু নয়।',
         },
       },
       {
         ref: '58:11',
         note: {
           en: 'A verse about making room for people in a gathering, which then promises that Allah raises those who believe and those given knowledge in degrees. The etiquette and the elevation are in the same verse, in that order.',
-          bn: 'মজলিসে মানুষকে জায়গা করে দেওয়া নিয়ে একটি আয়াত, যা এরপর প্রতিশ্রুতি দেয় যে আল্লাহ ঈমানদারদের আর যাদের জ্ঞান দেওয়া হয়েছে তাদের মর্যাদায় উন্নীত করবেন। আদব আর উন্নতি একই আয়াতে, এই ক্রমেই।',
+          bn: 'মজলিসে বসার জায়গা করে দেওয়া নিয়ে একটা আয়াত, যা এরপরেই ওয়াদা করে — আল্লাহ ঈমানদারদের আর যাদের ইলম দেওয়া হয়েছে তাদের মর্যাদায় উঁচু করবেন। আদব আর মর্যাদা একই আয়াতে, আর এই ক্রমেই।',
         },
       },
       {
         ref: '39:9',
         note: {
           en: 'Are those who know equal to those who do not know? The question follows a description of someone standing at night — the knowledge being contrasted is not information but the state it produces.',
-          bn: 'যারা জানে আর যারা জানে না, তারা কি সমান? প্রশ্নটি আসে রাতে দাঁড়ানো এক মানুষের বর্ণনার পরে — যে জ্ঞানের তুলনা করা হচ্ছে তা তথ্য নয়, বরং তা যে অবস্থা তৈরি করে।',
+          bn: 'যারা জানে আর যারা জানে না, তারা কি সমান? প্রশ্নটা আসছে রাতে দাঁড়ানো এক মানুষের বর্ণনার পরেই। অর্থাৎ যে ইলমের তুলনা হচ্ছে তা তথ্য নয়, তা ভেতরে যে অবস্থাটা তৈরি করে সেটাই।',
         },
       },
     ],
@@ -3608,7 +3608,7 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'Four things descend on a study circle and not one of them is understanding. Tranquility, mercy, angels, and being mentioned by Allah — the gathering is described as worship before it is described as learning.',
-          bn: 'একটি অধ্যয়নের মজলিসে চারটি জিনিস নেমে আসে, আর তার একটিও বোঝাপড়া নয়। প্রশান্তি, রহমত, ফেরেশতা, আর আল্লাহর কাছে উল্লেখিত হওয়া — সমাবেশটিকে শেখা বলার আগে ইবাদত বলা হচ্ছে।',
+          bn: 'ইলমের একটা মজলিসে চারটে জিনিস নেমে আসে, আর তার একটাও “বুঝে ফেলা” নয়। প্রশান্তি, রহমত, ফেরেশতা, আর আল্লাহর কাছে নাম ওঠা। মজলিসটাকে শেখার আসর বলার আগেই ইবাদত বলা হচ্ছে।',
         },
       },
       {
@@ -3619,22 +3619,22 @@ const HOPE_CHAPTERS = [
         },
         note: {
           en: 'Inheritance is the metaphor, which makes knowledge something received and passed on rather than produced. An heir who behaves as though he built the estate has misread his position.',
-          bn: 'উপমাটি উত্তরাধিকারের, যা জ্ঞানকে বানানো নয়, বরং গ্রহণ করা ও হস্তান্তর করার বিষয় করে তোলে। যে উত্তরাধিকারী এমন আচরণ করে যেন সম্পত্তিটি সে-ই গড়েছে, সে নিজের অবস্থানই ভুল বুঝেছে।',
+          bn: 'উপমাটা উত্তরাধিকারের। অর্থাৎ ইলম নিজে বানানোর জিনিস নয়, হাতে পাওয়ার আর হাতে তুলে দেওয়ার জিনিস। যে ওয়ারিশ এমন ভাব করে যেন সম্পত্তিটা সে-ই গড়েছে, সে নিজের অবস্থানটাই বোঝেনি।',
         },
       },
     ],
     practice: [
       {
         en: 'Learn one thing well rather than five things partly. 20:114 comes after an instruction not to hurry.',
-        bn: 'পাঁচটি জিনিস আধাআধি নয়, একটি জিনিস ভালোভাবে শিখুন। ২০:১১৪ আসে তাড়াহুড়ো না করার নির্দেশের পরে।',
+        bn: 'পাঁচটা জিনিস আধাখেঁচড়া করে নয়, একটা জিনিস ভালো করে শিখুন। ২০:১১৪ তো এসেছে তাড়াহুড়ো না করার হুকুমের পরেই।',
       },
       {
         en: 'Say “I don’t know” when you don’t, especially in religion. Answering a question about Allah’s ruling with a guess is a different order of mistake from staying silent.',
-        bn: 'না জানলে বলুন “আমি জানি না”, বিশেষত দ্বীনের ব্যাপারে। আল্লাহর বিধান নিয়ে প্রশ্নের উত্তরে অনুমান বলা আর চুপ থাকা — দুটি সম্পূর্ণ ভিন্ন মাপের ভুল।',
+        bn: 'না জানলে বলুন “জানি না”, বিশেষ করে দ্বীনের মাসআলায়। আল্লাহর বিধান নিয়ে প্রশ্নের জবাবে আন্দাজে কিছু বলা আর চুপ করে থাকা — দুটো একেবারেই আলাদা মাপের ভুল।',
       },
       {
         en: 'Check what your learning has made you quieter about. 35:28 gives one measurable output of knowledge, and it is not fluency.',
-        bn: 'যাচাই করুন, আপনার শেখা আপনাকে কোন বিষয়ে আগের চেয়ে নীরব করেছে। ৩৫:২৮ জ্ঞানের একটি মাপযোগ্য ফল দেয়, আর তা বাগ্মিতা নয়।',
+        bn: 'একবার মিলিয়ে দেখুন — আপনার শেখা আপনাকে কোন বিষয়ে আগের চেয়ে চুপ করে দিয়েছে। ৩৫:২৮ ইলমের একটা মাপা যায় এমন ফল দিয়েছে, আর সেটা বাগ্মিতা নয়।',
       },
     ],
   },

@@ -25,6 +25,7 @@ const CHECKS = [
   'check-autolink.js',
   'check-encoding.js',
   'check-hope-index.js',
+  'check-bangla-style.js',
   'check-modules.js',
 ];
 
