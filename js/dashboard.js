@@ -41,6 +41,9 @@ const DASH_L = {
   vocab_review: { en: 'Review now', bn: 'এখনই রিভিউ করুন' },
   vocab_streak: { en: 'day streak', bn: 'দিনের ধারা' },
   word_day:     { en: 'Word of the Day', bn: 'আজকের শব্দ' },
+  hope_day:     { en: 'Hope & Character', bn: 'আশা ও আদর্শ চরিত্র' },
+  hope_read:    { en: 'Read this chapter', bn: 'এই অধ্যায়টি পড়ুন' },
+  hope_done:    { en: 'chapters read', bn: 'অধ্যায় পড়া হয়েছে' },
 };
 
 class DashboardView {
@@ -235,6 +238,43 @@ class DashboardView {
     `);
   }
 
+  /**
+   * Hope & Character — one rotating chapter, plus the reader's progress.
+   *
+   * Reads HOPE_INDEX (js/hope-index.js, ~11 KB, generated) rather than
+   * HOPE_CHAPTERS: the full module is ~400 KB and lazily loaded when the tab is
+   * opened, and pulling it on the landing tab to render a title would defeat
+   * that entirely. The verse reference is rendered as a chip the reader can
+   * open in the verse modal without leaving the dashboard.
+   */
+  hopeCard() {
+    if (typeof HOPE_INDEX === 'undefined' || !Array.isArray(HOPE_INDEX) || !HOPE_INDEX.length) return '';
+    const ch = this.pick(HOPE_INDEX);
+    if (!ch) return '';
+    let done = 0;
+    try {
+      const r = JSON.parse(localStorage.getItem('lq_hope_read') || '[]');
+      if (Array.isArray(r)) done = r.length;
+    } catch (_) { /* ignore */ }
+    const first = this.firstAyah(ch.ref);
+    const [s] = (first || '0:0').split(':');
+    return this.card(`
+      ${this.heading('🕊️', this.L(DASH_L.hope_day))}
+      <button data-dash-go="hope" class="w-full text-left flex items-start gap-3 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
+        <span class="text-2xl leading-none shrink-0" aria-hidden="true">${ch.emoji}</span>
+        <span class="flex-1 min-w-0">
+          <span class="block text-sm font-semibold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.L(ch.title))}</span>
+          <span class="block text-xs text-gray-500 dark:text-gray-400 leading-snug mt-0.5" dir="auto">${this.esc(this.L(ch.tagline))}</span>
+        </span>
+      </button>
+      <div class="flex flex-wrap items-center gap-1.5 mt-3">
+        ${first ? `<button data-dash-ayah="${first}" class="inline-flex items-center gap-1 px-2 py-1 rounded-lg border border-gray-200 dark:border-gray-700 text-xs hover:border-primary hover:bg-primary/5 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">${this.esc(this.surahName(s))} <span class="text-gray-400">${this.esc(ch.ref)}</span></button>` : ''}
+        <button data-dash-go="hope" class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-xs font-medium hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🕊️ ${this.esc(this.L(DASH_L.hope_read))}</button>
+        ${done ? `<span class="px-2.5 py-1 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-900/50 dark:text-emerald-300 text-xs font-medium">✓ ${done}/${HOPE_INDEX.length} ${this.esc(this.L(DASH_L.hope_done))}</span>` : ''}
+      </div>
+    `);
+  }
+
   /** Vocabulary trainer snapshot (written by learn-vocab as 'vocabSummary'):
    * known words, exact Quran coverage %, and due SRS reviews. */
   vocabCard() {
@@ -332,6 +372,7 @@ class DashboardView {
           ${this.companionCard()}
           ${this.wordCard()}
         </div>
+        ${this.hopeCard()}
         ${this.topicCard()}
         ${this.amalCard()}
         ${this.vocabCard()}

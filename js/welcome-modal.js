@@ -51,6 +51,8 @@ const WelcomeModal = {
       { emoji: '📝', k: 'wm_f_arabic',   fbH: 'Quranic Arabic course',   fbB: 'Grammar from the alphabet upward — 74 lessons, iʿrāb exercises and a glossary.' },
       { emoji: '🕌', k: 'wm_f_seerah',   fbH: 'Seerah',                  fbB: 'The life of the Prophet ﷺ as a timeline, with places, lessons and a quiz.' },
       { emoji: '🌟', k: 'wm_f_prophets', fbH: 'Prophets & Messengers',   fbB: 'All 25 named in the Quran, with their stories and every verse that mentions them.' },
+      { emoji: '💭', k: 'wm_f_tadabbur', fbH: 'Tadabbur — reflect',      fbB: 'Every reflection-worthy verse with a note to ponder, and 299 of them with a full-length article.' },
+      { emoji: '🕊️', k: 'wm_f_hope',     fbH: 'Hope & Character',        fbB: 'Verses of mercy for anyone who thinks they have gone too far — and the character the Qur’an asks for next.' },
     ];
   },
 

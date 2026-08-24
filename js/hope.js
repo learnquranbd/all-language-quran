@@ -128,7 +128,18 @@ class HopeView {
   chapters() { return (typeof HOPE_CHAPTERS !== 'undefined' && HOPE_CHAPTERS) ? HOPE_CHAPTERS : []; }
   wings() { return (typeof HOPE_WINGS !== 'undefined' && HOPE_WINGS) ? HOPE_WINGS : []; }
   steps() { return (typeof HOPE_TAWBAH_STEPS !== 'undefined' && HOPE_TAWBAH_STEPS) ? HOPE_TAWBAH_STEPS : []; }
+  names() { return (typeof HOPE_NAMES !== 'undefined' && HOPE_NAMES) ? HOPE_NAMES : []; }
   chapterById(id) { return this.chapters().find((c) => c.id === id) || null; }
+
+  /** Day-of-year pick, the same rotation rule the dashboard uses so the two
+   * surfaces never disagree about which chapter "today" means. */
+  todayChapter() {
+    const all = this.chapters();
+    if (!all.length) return null;
+    const now = new Date();
+    const day = Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000);
+    return all[day % all.length];
+  }
 
   /** Arabic + translation for a ref that may span a range ("25:68-70"). */
   verseData(ref) {
@@ -188,6 +199,7 @@ class HopeView {
       ...ch.verses.map((v) => v.ref + ' ' + this.lc(v.note) + ' ' + this.surahName(String(v.ref).split(':')[0])),
       ...ch.hadith.map((h) => h.src + ' ' + this.lc(h.text) + ' ' + this.lc(h.note)),
       ...ch.practice.map((p) => this.lc(p)),
+      ch.dua ? ch.dua.ref + ' ' + this.lc(ch.dua.why) : '',
     ];
     return parts.join(' ').toLowerCase().includes(q);
   }
@@ -303,6 +315,59 @@ class HopeView {
       </details>`;
   }
 
+  /** The names panel — mercy wing only, since that is the argument it serves. */
+  namesHtml() {
+    const items = this.names().map((n) => `
+      <li class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-3">
+        <div class="flex items-baseline justify-between gap-2">
+          <span class="ayah-arabic !text-2xl !border-b-0 !pb-0 text-primary dark:text-sky-300" dir="rtl">${n.ar}</span>
+          ${n.ref
+            ? `<button data-hope-ref="${this.esc(String(n.ref).split('-')[0])}" class="text-[10px] font-semibold text-gray-400 hover:text-primary focus:outline-none">${this.esc(n.ref)} ↗</button>`
+            : `<span class="text-[10px] font-semibold text-gray-400">${this.esc(this.tt('hope_from_sunnah_only'))}</span>`}
+        </div>
+        <p class="text-sm font-semibold text-gray-800 dark:text-gray-100 mt-1">${this.esc(n.translit)}</p>
+        <p class="text-xs text-gray-500 dark:text-gray-400" dir="auto">${this.esc(this.lc(n.meaning))}</p>
+        <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed mt-1.5" dir="auto">${this.esc(this.lc(n.note))}</p>
+        ${n.src ? `<p class="text-[10px] text-gray-400 mt-1">${this.esc(n.src)}</p>` : ''}
+      </li>`).join('');
+    return `
+      <details class="rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 overflow-hidden">
+        <summary class="cursor-pointer select-none px-4 py-3 text-sm font-semibold text-gray-800 dark:text-gray-100">
+          ✨ ${this.esc(this.tt('hope_names_title'))}
+        </summary>
+        <ul class="px-4 pb-4 pt-1 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">${items}</ul>
+      </details>`;
+  }
+
+  /** A du‘a block. Ref-driven like every verse here, so it localises too. */
+  duaHtml(dua) {
+    if (!dua || !dua.ref) return '';
+    return `
+      <div class="rounded-xl border border-sky-200 dark:border-sky-900/40 bg-sky-50/50 dark:bg-sky-950/10 p-4">
+        <h4 class="text-[11px] uppercase tracking-wide font-semibold text-sky-700/80 dark:text-sky-300/80 mb-2">🤲 ${this.esc(this.tt('hope_dua_label'))}</h4>
+        ${this.verseBlockHtml(dua.ref)}
+        <p class="mt-3 pt-3 border-t border-sky-200/60 dark:border-sky-900/40 text-xs text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.lc(dua.why))}</p>
+      </div>`;
+  }
+
+  todayHtml() {
+    const ch = this.todayChapter();
+    if (!ch) return '';
+    return `
+      <div class="rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-4">
+        <p class="text-[11px] uppercase tracking-wide font-semibold text-gray-400 mb-1.5">📅 ${this.esc(this.tt('hope_today'))}</p>
+        <div class="flex items-center gap-3">
+          <span class="text-2xl leading-none shrink-0" aria-hidden="true">${ch.emoji}</span>
+          <div class="min-w-0 flex-1">
+            <p class="text-sm font-bold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.lc(ch.title))}</p>
+            <p class="text-xs text-gray-500 dark:text-gray-400 leading-snug" dir="auto">${this.esc(this.lc(ch.tagline))}</p>
+          </div>
+          <button data-hope-open="${this.esc(ch.id)}"
+            class="shrink-0 px-3 py-1.5 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-xs font-medium hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">${this.esc(this.tt('hope_open_chapter'))}</button>
+        </div>
+      </div>`;
+  }
+
   cardHtml(ch) {
     const isRead = this.readSet.has(ch.id);
     const isFocus = this.focusSet.has(ch.id);
@@ -412,6 +477,8 @@ class HopeView {
 
         ${hadith ? `<div>${sectionTitle('🕌', this.tt('hope_hadith_label'))}<div class="space-y-3">${hadith}</div></div>` : ''}
 
+        ${this.duaHtml(ch.dua)}
+
         <div class="rounded-xl border border-emerald-200 dark:border-emerald-900/40 bg-emerald-50/50 dark:bg-emerald-950/10 p-4">
           ${sectionTitle('✅', this.tt('hope_practice_label'))}
           <ul class="space-y-2">${practice}</ul>
@@ -444,7 +511,10 @@ class HopeView {
             placeholder="${this.esc(this.tt('hope_search_ph'))}" value="${this.esc(this.query)}">
         </div>
 
+        ${this.todayHtml()}
+
         ${(!this.wing || this.wing === 'mercy') ? this.stepsHtml() : ''}
+        ${(!this.wing || this.wing === 'mercy') ? this.namesHtml() : ''}
 
         <div id="hope-list" class="space-y-8">${this.listHtml()}</div>
 

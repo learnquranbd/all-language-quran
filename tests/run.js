@@ -24,6 +24,7 @@ const CHECKS = [
   'check-surah-names.js',
   'check-autolink.js',
   'check-encoding.js',
+  'check-hope-index.js',
   'check-modules.js',
 ];
 
