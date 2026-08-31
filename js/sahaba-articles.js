@@ -2501,6 +2501,453 @@ const SAHABA_ARTICLES = {
       },
     ],
   },
+  ubayy_ibn_kab: {
+    sections: [
+      {
+        h: { en: "A Literate Man of the Khazraj", bn: "খাযরাজের এক লিখতে-জানা মানুষ" },
+        p: [
+          {
+            en: "Ubayy ibn Kab (RA) belonged to Banu Najjar, a clan of the Khazraj in Yathrib, and he had something rare among the Arabs of his day: he could write. Literacy was scarce enough in Madinah that a man who possessed it was known for it. He was among the Ansar who met the Prophet ﷺ at the second pledge of al-Aqabah, and when the Prophet ﷺ arrived in the city, that skill was put to work almost at once.",
+            bn: "উবাই ইবনে কাব (রাঃ) ছিলেন ইয়াসরিবের খাযরাজ গোত্রের বনু নাজ্জার শাখার লোক। সে যুগের আরবদের মধ্যে বিরল একটা গুণ তাঁর ছিল: তিনি লিখতে জানতেন। মদিনায় লেখাপড়া জানা মানুষ এত কম ছিল যে, যে জানত তাকে সবাই সেই পরিচয়েই চিনত। আকাবার দ্বিতীয় বাইআতে যেসব আনসার নবীজি ﷺ-এর হাতে হাত রেখেছিলেন, তিনি তাঁদের একজন। নবীজি ﷺ মদিনায় পৌঁছানোর প্রায় সঙ্গে সঙ্গেই তাঁর ওই গুণটা কাজে লেগে গেল।",
+          },
+          {
+            en: "He fought at Badr and at Uhud and in the campaigns that followed. But the work that shaped his life was quieter than any battlefield. He wrote down revelation as it came, he memorised what he wrote, and he recited it back until the wording was fixed in him. The Prophet ﷺ gave him the kunyah Abu al-Mundhir, and that is the name he is called by in some of the best-known reports about him.",
+            bn: "তিনি বদরে লড়েছেন, উহুদে লড়েছেন, পরের অভিযানগুলোতেও ছিলেন। তবে তাঁর জীবনকে যে কাজটা গড়ে দিয়েছে, তা কোনো যুদ্ধক্ষেত্রের চেয়ে অনেক নিরিবিলি। ওহি নাজিল হলে তিনি তা লিখে রাখতেন, যা লিখতেন তা মুখস্থ করতেন, আর বারবার পড়ে শোনাতেন যতক্ষণ না শব্দগুলো তাঁর ভেতরে বসে যায়। নবীজি ﷺ তাঁকে আবুল মুনযির উপনামে ডাকতেন। তাঁকে নিয়ে সবচেয়ে পরিচিত কয়েকটি বর্ণনায় এই নামেই তাঁর উল্লেখ আছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Take the Quran from Four", bn: "চারজনের কাছ থেকে কুরআন নাও" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 3808 records that the Prophet ﷺ named four men and told the Muslims to take the Quran from them: Abdullah ibn Masud, Salim the freed slave of Abu Hudhayfah, Muadh ibn Jabal, and Ubayy ibn Kab. Two of the four were Muhajirun and two were Ansar. The instruction was not a compliment paid in passing. It was a decision about where the reading of the Book would come from after him.",
+            bn: "সহিহ বুখারি ৩৮০৮-এ আছে, নবীজি ﷺ চারজনের নাম নিয়ে বলেছেন, তাঁদের কাছ থেকে কুরআন নাও: আবদুল্লাহ ইবনে মাসউদ, আবু হুযাইফার আজাদকৃত গোলাম সালিম, মুআয ইবনে জাবাল আর উবাই ইবনে কাব। চারজনের দুজন মুহাজির, দুজন আনসার। কথাটা চলতি পথে দেওয়া কোনো প্রশংসা ছিল না। এ ছিল একটা সিদ্ধান্ত: তাঁর পরে কুরআনের পাঠ কোন হাত ধরে আসবে, তা ঠিক করে দেওয়া।",
+          },
+          {
+            en: "Umar ibn al-Khattab (RA) later said plainly that Ubayy was the best reciter among them, a judgement Bukhari preserves alongside Umar's assessment of other Companions in other fields. Coming from a caliph who was not given to loose praise, and who was himself in daily contact with the reciters of Madinah, it settled the matter for the generation that followed.",
+            bn: "উমর ইবনুল খাত্তাব (রাঃ) পরে সোজাসুজি বলেছেন, তাঁদের মধ্যে উবাই সবচেয়ে ভালো পড়েন। বুখারি এ কথাটা সংরক্ষণ করেছেন, সঙ্গে অন্য ক্ষেত্রে অন্য সাহাবিদের নিয়ে উমরের মূল্যায়নও। যে খলিফা এমনি এমনি প্রশংসা করতেন না, আর যিনি নিজে প্রতিদিন মদিনার কারিদের সঙ্গে ওঠাবসা করতেন, তাঁর মুখের এ কথা পরের প্রজন্মের জন্য বিষয়টা মিটিয়ে দিয়েছিল।",
+          },
+          {
+            en: "Jami at-Tirmidhi 3791 preserves a hadith in which the Prophet ﷺ named Companions for what each of them led the ummah in, and Ubayy is named there as the best of them in reciting the Book of Allah. Set beside the instruction in Bukhari 3808, it means his standing in recitation rests on two separate reports rather than on the reputation of a later age.",
+            bn: "জামে তিরমিজি ৩৭৯১-এ এমন একটি হাদিস আছে, যেখানে নবীজি ﷺ নাম ধরে বলেছেন কে কোন বিষয়ে উম্মতের অগ্রগামী। সেখানে আল্লাহর কিতাব পড়ায় সবার সেরা বলা হয়েছে উবাইকে। বুখারি ৩৮০৮-এর নির্দেশের পাশে রাখলে বোঝা যায়, তিলাওয়াতে তাঁর মর্যাদা দাঁড়িয়ে আছে আলাদা দুটি বর্ণনার ওপর, পরের যুগের গড়া কোনো খ্যাতির ওপর নয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Surah Recited to Him", bn: "তাঁকে শোনানো এক সূরা" },
+        p: [
+          {
+            en: "The report in Sahih al-Bukhari 3809 and Sahih Muslim 799 is one of the most striking in the entire literature of the Companions. The Prophet ﷺ said to Ubayy that Allah had commanded him to recite Surah al-Bayyinah to him, the surah that opens at 98:1. Ubayy asked whether Allah had mentioned him by name. He was told yes. And he wept.",
+            bn: "সহিহ বুখারি ৩৮০৯ ও সহিহ মুসলিম ৭৯৯-এর বর্ণনাটা সাহাবিদের গোটা সাহিত্যের মধ্যে সবচেয়ে চমকপ্রদগুলোর একটি। নবীজি ﷺ উবাইকে বললেন, আল্লাহ তাঁকে আদেশ দিয়েছেন তাঁর সামনে সূরা আল-বাইয়িনাহ পড়তে — যে সূরা শুরু হয় ৯৮:১ দিয়ে। উবাই জিজ্ঞেস করলেন, আল্লাহ কি আমার নাম ধরে বলেছেন? তাঁকে বলা হলো, হ্যাঁ। আর তিনি কেঁদে ফেললেন।",
+          },
+          {
+            en: "Consider what the moment contains. A man is told that his name was spoken above the heavens, in an instruction given to the Messenger of Allah ﷺ about him personally. He does not swell with it. He weeps. The tears are the reason the story is remembered as it is: the honour was received the way an honour of that size ought to be received.",
+            bn: "মুহূর্তটার ভেতরে কী আছে, একবার ভাবুন। একজন মানুষ জানতে পারছেন, আসমানের উপরে তাঁর নাম উচ্চারিত হয়েছে, আর তা এসেছে খোদ রাসূলুল্লাহ ﷺ-কে দেওয়া এক আদেশের ভেতরে, তাঁকে নিয়েই। তিনি এতে ফুলে ওঠেন না। তিনি কাঁদেন। এই কান্নার কারণেই ঘটনাটা এভাবে মনে রাখা হয়েছে। এত বড় সম্মান যেভাবে গ্রহণ করা উচিত, তিনি ঠিক সেভাবেই গ্রহণ করেছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Greatest Verse in the Book", bn: "কিতাবের সবচেয়ে বড় আয়াত" },
+        p: [
+          {
+            en: "Sahih Muslim 810 records that the Prophet ﷺ asked him which verse of the Book of Allah he considered the greatest. Ubayy answered that it was 2:255, the Verse of the Throne. The Prophet ﷺ struck him on the chest and said, may knowledge be pleasant for you, Abu al-Mundhir. It is the exchange of a teacher who already knows the answer and wants to hear his student find it.",
+            bn: "সহিহ মুসলিম ৮১০-এ আছে, নবীজি ﷺ তাঁকে জিজ্ঞেস করলেন, আল্লাহর কিতাবের কোন আয়াতটি তোমার কাছে সবচেয়ে বড়? উবাই বললেন, ২:২৫৫, আয়াতুল কুরসি। নবীজি ﷺ তাঁর বুকে হাত রেখে বললেন, হে আবুল মুনযির, ইলম তোমার জন্য সহজ হোক। এ যেন সেই শিক্ষকের কথোপকথন, যিনি উত্তরটা জানেন, তবু ছাত্রের মুখ থেকেই শুনতে চান।",
+          },
+          {
+            en: "The question is worth noticing as much as the answer. The Prophet ﷺ did not ask him to recite something, or to report a ruling. He asked for a judgement about the Quran itself, and he asked it of a man whose whole life was spent inside the text. Ubayy had earned the right to have an opinion about the Book, and the Prophet ﷺ treated him as someone who had.",
+            bn: "উত্তরটার মতোই প্রশ্নটাও লক্ষ করার মতো। নবীজি ﷺ তাঁকে কিছু পড়ে শোনাতে বলেননি, কোনো মাসআলা জানতেও চাননি। তিনি চেয়েছিলেন কুরআন নিয়েই একটা মূল্যায়ন, আর তা চেয়েছিলেন এমন একজনের কাছে যাঁর গোটা জীবন কেটেছে এই কিতাবের ভেতরে। কুরআন নিয়ে মত দেওয়ার অধিকার উবাই অর্জন করেছিলেন, আর নবীজি ﷺ তাঁকে সেই অধিকারওয়ালা মানুষ হিসেবেই দেখেছেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Master of the Reciters", bn: "কারিদের সর্দার" },
+        p: [
+          {
+            en: "The title he carried, Sayyid al-Qurra, was not decorative. In the caliphates of Abu Bakr (RA) and Umar (RA) the community was working out how the Quran would be preserved, taught, and read aloud across an expanding territory, and Ubayy was among the men that work ran through. When a question about recitation reached Madinah, he was one of the few whose answer closed it.",
+            bn: "সাইয়িদুল কুররা, অর্থাৎ কারিদের সর্দার। উপাধিটা সাজসজ্জার জন্য ছিল না। আবু বকর (রাঃ) ও উমর (রাঃ)-এর খিলাফতকালে মুসলিম সমাজ ঠিক করছিল, ছড়িয়ে পড়া বিশাল ভূখণ্ডে কুরআন কীভাবে সংরক্ষিত হবে, কীভাবে শেখানো হবে, কীভাবে পড়া হবে। সেই কাজ যাঁদের হাত ধরে এগোত, উবাই তাঁদের একজন। তিলাওয়াত নিয়ে কোনো প্রশ্ন মদিনায় এলে যে কজনের জবাবে বিষয়টা মিটে যেত, তিনি তাঁদের ভেতরে ছিলেন।",
+          },
+          {
+            en: "The year of his death is disputed among the historians, and the reports do not agree closely enough to state one with confidence. What is not disputed is what he left. The chains by which the Quran is recited today run back through the reciters of Madinah, and his name stands in them. A man who could write, in a city where few could, spent that ability on one Book and is remembered for nothing else.",
+            bn: "তিনি কোন সনে ইন্তেকাল করেছেন, ঐতিহাসিকদের মধ্যে তা নিয়ে মতভেদ আছে; বর্ণনাগুলো এতটা মেলে না যে নিশ্চিত করে একটা সন বলা যায়। যা নিয়ে মতভেদ নেই তা হলো তিনি কী রেখে গেছেন। আজ যেসব সনদ ধরে কুরআন পড়া হয়, সেগুলো মদিনার কারিদের হাত ঘুরেই এসেছে, আর সেখানে তাঁর নাম আছে। যে শহরে হাতেগোনা কজন লিখতে জানত, সেখানকার এক লিখতে-জানা মানুষ তাঁর গোটা সামর্থ্য একটা কিতাবেই ঢেলে দিয়েছিলেন। তাঁকে আর কোনো পরিচয়ে মনে রাখা হয় না।",
+          },
+        ],
+      },
+    ],
+  },
+
+  zayd_ibn_thabit: {
+    sections: [
+      {
+        h: { en: "Turned Away at Badr", bn: "বদরে ফিরিয়ে দেওয়া হলো" },
+        p: [
+          {
+            en: "Zayd ibn Thabit (RA) was a boy of the Khazraj, about eleven when the Prophet ﷺ reached Madinah. His father had been killed before the Hijrah, and the family brought the child forward as one who had already memorised a number of surahs. When the army assembled for Badr he presented himself and was sent home. He was too small to carry a sword, and the Prophet ﷺ would not take him.",
+            bn: "যায়েদ ইবনে সাবিত (রাঃ) ছিলেন খাযরাজের এক বালক, নবীজি ﷺ যখন মদিনায় পৌঁছান তখন তাঁর বয়স এগারোর কাছাকাছি। হিজরতের আগেই তাঁর বাবা নিহত হয়েছিলেন। পরিবার ছেলেটিকে সামনে নিয়ে আসে এই পরিচয়ে যে, সে এরই মধ্যে বেশ কিছু সূরা মুখস্থ করে ফেলেছে। বদরের জন্য বাহিনী জড়ো হলে তিনি নিজেকে পেশ করেন, আর তাঁকে ঘরে ফিরিয়ে দেওয়া হয়। তলোয়ার বইবার মতো শরীর তাঁর ছিল না, নবীজি ﷺ তাঁকে নেননি।",
+          },
+          {
+            en: "Being refused a place in the ranks turned out to decide his life. The boy who could not fight went back to what he could do, which was read and write and remember. Within a few years he was the one the Prophet ﷺ called when revelation came down and needed to be recorded, and the men who had gone to Badr were reciting from what he had written.",
+            bn: "কাতারে জায়গা না পাওয়াই শেষ পর্যন্ত তাঁর জীবনের মোড় ঠিক করে দিল। যে ছেলেটি লড়তে পারল না, সে ফিরে গেল যা পারে তাতেই — পড়া, লেখা আর মনে রাখা। কয়েক বছরের মধ্যেই ওহি নাজিল হয়ে লিখে রাখার দরকার পড়লে নবীজি ﷺ তাঁকেই ডাকতেন। আর যাঁরা বদরে গিয়েছিলেন, তাঁরা পড়তেন এই ছেলেটিরই লেখা থেকে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Learn Their Writing", bn: "ওদের লেখা শিখে নাও" },
+        p: [
+          {
+            en: "Letters were arriving in Madinah in languages the Prophet ﷺ did not read, and replies had to go out in them. Sunan Abi Dawud 3645 and Jami at-Tirmidhi 2715 record that he instructed Zayd to learn the writing of the Jews, because he did not trust them over his correspondence. Zayd learned it, and at-Tirmidhi's report says it took him little more than a fortnight.",
+            bn: "মদিনায় এমন ভাষায় চিঠি আসছিল যা নবীজি ﷺ পড়তেন না, অথচ জবাবও যেতে হতো সেই ভাষাতেই। সুনানে আবু দাউদ ৩৬৪৫ ও জামে তিরমিজি ২৭১৫-এ আছে, তিনি যায়েদকে ইহুদিদের লেখা শিখে নিতে বলেন, কারণ নিজের চিঠিপত্রের ব্যাপারে তিনি তাদের ওপর ভরসা করতেন না। যায়েদ তা শিখে ফেলেন। তিরমিজির বর্ণনা বলছে, তাতে তাঁর দুই সপ্তাহের কিছু বেশি সময় লেগেছিল।",
+          },
+          {
+            en: "The detail is easy to pass over and worth stopping on. A community at war, surrounded, short of everything, sent a teenager to learn a foreign script so that its correspondence would be secure. It is a decision about competence, and about not leaving a critical function in the hands of people whose interests ran the other way.",
+            bn: "কথাটা চোখ এড়িয়ে যায় সহজেই, অথচ থামার মতো। যুদ্ধরত একটা সমাজ, চারদিক থেকে ঘেরা, সব কিছুরই টানাটানি — সেই সমাজ এক কিশোরকে পাঠাল বিদেশি লিপি শিখতে, যাতে নিজেদের চিঠিপত্র নিরাপদ থাকে। এ সিদ্ধান্ত যোগ্যতা নিয়ে, আর একটা জরুরি কাজ এমন মানুষের হাতে ফেলে না রাখা নিয়ে যাদের স্বার্থ উল্টো দিকে।",
+          },
+          {
+            en: "From then on he wrote the letters that went out of Madinah and read the ones that came in. The same hand that took down revelation drafted correspondence to tribes and to rulers beyond Arabia. It is worth remembering that the two duties sat with one young man, and that nobody in the sources thought it necessary to explain why he had been chosen for both.",
+            bn: "এরপর থেকে মদিনা থেকে যত চিঠি বেরিয়েছে তিনিই লিখেছেন, আর যত চিঠি এসেছে তিনিই পড়েছেন। যে হাত ওহি লিখে রাখত, সেই হাতেই খসড়া হতো গোত্রপ্রধান আর আরবের বাইরের শাসকদের কাছে যাওয়া চিঠির। মনে রাখার মতো ব্যাপার এই যে দুটো দায়িত্বই ছিল একজন তরুণের কাঁধে, আর কেন তাঁকেই দুটোর জন্য বাছা হলো, সূত্রগুলোর কেউই তা ব্যাখ্যা করার দরকার মনে করেনি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Heavier Than Moving a Mountain", bn: "পাহাড় সরানোর চেয়েও ভারী" },
+        p: [
+          {
+            en: "After the Prophet ﷺ died, many of the reciters were killed at the battle of Yamamah, and Umar (RA) went to Abu Bakr (RA) with a fear that the Quran would go with them. Sahih al-Bukhari 4679 records that Abu Bakr sent for Zayd and told him he was a young man of sound mind whom nobody suspected, and that he had written the revelation for the Messenger of Allah ﷺ. He was to search out the Quran and collect it.",
+            bn: "নবীজি ﷺ-এর ইন্তেকালের পর ইয়ামামার যুদ্ধে বহু কারি শহিদ হন। উমর (রাঃ) আবু বকর (রাঃ)-এর কাছে গিয়ে আশঙ্কা প্রকাশ করেন, কুরআনও তাঁদের সঙ্গে চলে যেতে পারে। সহিহ বুখারি ৪৬৭৯-এ আছে, আবু বকর যায়েদকে ডেকে পাঠান আর বলেন, তুমি বুদ্ধিমান তরুণ, তোমাকে কেউ সন্দেহ করে না, আর তুমি রাসূলুল্লাহ ﷺ-এর জন্য ওহি লিখেছ। তোমাকেই কুরআন খুঁজে বের করে এক জায়গায় জড়ো করতে হবে।",
+          },
+          {
+            en: "Zayd's answer is preserved in the same report. By Allah, he said, if they had ordered me to move a mountain it would not have been heavier upon me than what they ordered me to do. He then collected the Quran from palm stalks, thin white stones, and the memories of men, and found the closing verses of Surah at-Tawbah with Abu Khuzaymah al-Ansari (RA) and no one else.",
+            bn: "যায়েদের জবাবটাও একই বর্ণনায় রাখা আছে। তিনি বলেন, আল্লাহর কসম, ওঁরা যদি আমাকে একটা পাহাড় সরাতে বলতেন, তা-ও আমার কাছে এর চেয়ে ভারী লাগত না। এরপর তিনি খেজুরের ডাল, পাতলা সাদা পাথর আর মানুষের মুখস্থ থেকে কুরআন জড়ো করেন। সূরা তাওবার শেষ আয়াতগুলো তিনি পান কেবল আবু খুযাইমা আল-আনসারি (রাঃ)-এর কাছে, আর কারও কাছে নয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "One Reading for the Ummah", bn: "উম্মতের জন্য একটাই পাঠ" },
+        p: [
+          {
+            en: "A generation later the armies of Islam had reached Armenia and Azerbaijan, and Muslims from different regions were disputing over recitation. Sahih al-Bukhari 4987 records that Uthman (RA) appointed a committee: Zayd with Abdullah ibn az-Zubayr, Said ibn al-As, and Abd ar-Rahman ibn al-Harith. Where the three Qurayshis differed with Zayd, they were to write it in the tongue of Quraysh, since the Quran had come down in it.",
+            bn: "এক প্রজন্ম পরে ইসলামের বাহিনী আর্মেনিয়া ও আজারবাইজানে পৌঁছে গেছে, আর নানা অঞ্চলের মুসলিমরা তিলাওয়াত নিয়ে বিতর্কে জড়াচ্ছে। সহিহ বুখারি ৪৯৮৭-এ আছে, উসমান (রাঃ) একটি কমিটি গঠন করেন: যায়েদের সঙ্গে আবদুল্লাহ ইবনে যুবায়ের, সাইদ ইবনুল আস আর আবদুর রহমান ইবনুল হারিস। কুরাইশ বংশের এই তিনজনের সঙ্গে যায়েদের মতভেদ হলে কুরাইশের ভাষাতেই লিখতে বলা হয়, কারণ কুরআন সেই ভাষাতেই নাজিল হয়েছিল।",
+          },
+          {
+            en: "Note who was placed where. Zayd was an Ansari, not of Quraysh, and he was the one the other three were measured against. He had done the first collection under Abu Bakr and he was asked to do the second under Uthman, twenty years apart, by two caliphs with different problems in front of them. Both reached the same conclusion about who should hold the work.",
+            bn: "কাকে কোথায় রাখা হলো, তা খেয়াল করার মতো। যায়েদ ছিলেন আনসারি, কুরাইশ নন; অথচ বাকি তিনজনকে মাপা হচ্ছিল তাঁরই নিরিখে। প্রথম সংকলন তিনি করেছিলেন আবু বকরের সময়ে, দ্বিতীয়টি করতে বলা হলো উসমানের সময়ে — মাঝখানে কুড়ি বছরের ব্যবধান, আর দুই খলিফার সামনে দুরকম সমস্যা। কাজটা কার হাতে থাকা উচিত, দুজনেই একই সিদ্ধান্তে পৌঁছেছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Law of Shares", bn: "মিরাসের হিসাব" },
+        p: [
+          {
+            en: "Alongside the Quran he became the community's authority on inheritance, the branch of law the Arabs called fara'id. Jami at-Tirmidhi 3791 preserves a hadith naming several Companions for what each excelled in, and Zayd is named there as the most knowledgeable in the laws of inheritance. It is exacting work, full of fractions and orders of precedence, and it suited the man who had counted the verses of a book.",
+            bn: "কুরআনের পাশাপাশি তিনি হয়ে ওঠেন উত্তরাধিকার আইনে সমাজের সবচেয়ে বড় কর্তৃপক্ষ, আরবরা যাকে বলত ফারায়েজ। জামে তিরমিজি ৩৭৯১-এ এমন একটি হাদিস আছে, যেখানে কে কোন বিষয়ে শ্রেষ্ঠ তা ধরে ধরে বলা হয়েছে। সেখানে মিরাসের বিধানে সবচেয়ে জ্ঞানী বলা হয়েছে যায়েদকেই। কাজটা নিখুঁত হিসাবের — ভগ্নাংশ আর অগ্রাধিকারের ক্রমে ঠাসা। যে মানুষ একটা কিতাবের আয়াত গুনেছেন, তাঁর সঙ্গে এ কাজ মিলে গিয়েছিল।",
+          },
+          {
+            en: "He lived on in Madinah, teaching, and the sources place his death in the middle decades of the first century after the Hijrah without agreeing on the year. Ibn Abbas (RA) is reported to have held his mount for him out of respect. The boy sent home from Badr ended as the man whose handwriting the ummah still reads.",
+            bn: "তিনি মদিনাতেই থেকে গিয়েছিলেন, শিক্ষকতা করে। হিজরি প্রথম শতকের মাঝামাঝি দশকগুলোতে তাঁর ইন্তেকাল হয় বলে সূত্রগুলো বলে, তবে সন নিয়ে তারা একমত নয়। বর্ণিত আছে, ইবনে আব্বাস (রাঃ) সম্মান দেখিয়ে তাঁর বাহনের রশি ধরে দাঁড়াতেন। বদর থেকে ঘরে ফিরিয়ে দেওয়া সেই বালকটিই শেষ পর্যন্ত সেই মানুষ, যাঁর হাতের লেখা উম্মত আজও পড়ে।",
+          },
+        ],
+      },
+    ],
+  },
+
+  anas_ibn_malik: {
+    sections: [
+      {
+        h: { en: "A Mother's Gift", bn: "মায়ের দেওয়া উপহার" },
+        p: [
+          {
+            en: "When the Prophet ﷺ arrived in Madinah, Umm Sulaym (RA) brought her son to him. The boy was about ten. She had no wealth to offer and she gave what she had, saying that this was Anas, a clever boy, and that he would serve him. Anas ibn Malik (RA) stayed in that household for ten years, until the Prophet ﷺ died and the boy had become a young man.",
+            bn: "নবীজি ﷺ মদিনায় পৌঁছালে উম্মে সুলাইম (রাঃ) নিজের ছেলেকে তাঁর কাছে নিয়ে আসেন। ছেলেটির বয়স তখন দশের কাছাকাছি। দেওয়ার মতো সম্পদ তাঁর ছিল না, যা ছিল তা-ই দিলেন। বললেন, এ আমার আনাস, বুদ্ধিমান ছেলে; সে আপনার খেদমত করবে। আনাস ইবনে মালিক (রাঃ) সেই ঘরেই থেকে যান দশ বছর — নবীজি ﷺ-এর ইন্তেকাল পর্যন্ত, ততদিনে বালকটি তরুণ হয়ে উঠেছেন।",
+          },
+          {
+            en: "Ten years is long enough to see a man on his worst days. Anas was in the house through the loss of children, through the year of the trench, through hunger and rumour and the deaths of friends. What he reported of those years is not a list of miracles. It is mostly small domestic detail, and it is the closest thing the ummah has to a daily record of the Prophet ﷺ at home.",
+            bn: "দশ বছর এমন সময়, যাতে একজন মানুষকে তার সবচেয়ে খারাপ দিনগুলোতেও দেখা হয়ে যায়। সন্তান হারানোর শোক, খন্দকের বছর, ক্ষুধা, গুজব, বন্ধুদের মৃত্যু — সবটার ভেতরেই আনাস ওই ঘরে ছিলেন। সেসব বছর নিয়ে তিনি যা বলেছেন, তা মুজিজার ফিরিস্তি নয়। বেশিরভাগই ঘরোয়া ছোট ছোট কথা। ঘরের ভেতরের নবীজি ﷺ-এর দৈনন্দিন ছবির যতটা কাছে উম্মত পৌঁছাতে পেরেছে, তা এই বর্ণনাগুলো দিয়েই।",
+          },
+        ],
+      },
+      {
+        h: { en: "Never Once Uff", bn: "একবারও উফ নয়" },
+        p: [
+          {
+            en: "The narration in Sahih al-Bukhari 6038 and Sahih Muslim 2309 is his own testimony. He served the Messenger of Allah ﷺ for ten years, and the Prophet ﷺ never once said uff to him, never asked of anything he did why did you do that, and never asked of anything he left undone why did you not do that. The word uff is the smallest sound of irritation the language has.",
+            bn: "সহিহ বুখারি ৬০৩৮ ও সহিহ মুসলিম ২৩০৯-এর বর্ণনাটা তাঁর নিজের সাক্ষ্য। তিনি দশ বছর রাসূলুল্লাহ ﷺ-এর খেদমত করেছেন, আর নবীজি ﷺ তাঁকে একবারও উফ বলেননি। তাঁর করা কোনো কাজ নিয়ে জিজ্ঞেস করেননি, এটা কেন করলে; আর না-করা কোনো কাজ নিয়েও বলেননি, ওটা কেন করলে না। ভাষায় বিরক্তি বোঝানোর সবচেয়ে ছোট শব্দটাই হলো উফ।",
+          },
+          {
+            en: "Consider who is speaking. A servant is the person best placed to have complaints, and a boy servant over ten years would have broken and forgotten and delayed a great deal. The claim is not that Anas made no mistakes. The claim is about what happened afterwards, every time, for ten years, in a house that no outsider was watching.",
+            bn: "কে কথা বলছেন, তা ভাবুন। অভিযোগ করার সুযোগ সবচেয়ে বেশি থাকে খাদেমেরই। আর দশ বছরে একটা বালক-খাদেমের হাতে কত জিনিস ভেঙেছে, কত কাজ ভুলে গেছে, কত দেরি হয়েছে, তার হিসাব নেই। দাবিটা এই নয় যে আনাসের কোনো ভুল হয়নি। দাবিটা এই যে ভুলের পর প্রতিবার কী হয়েছিল — দশ বছর ধরে, এমন এক ঘরে যেখানে বাইরের কেউ দেখছিল না।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Du'a and What Came of It", bn: "সেই দোয়া আর তার ফল" },
+        p: [
+          {
+            en: "Umm Sulaym asked the Prophet ﷺ to make du'a for her servant boy. Sahih al-Bukhari 6344 and Sahih Muslim 2480 record what he asked for: that Allah increase Anas in wealth and children, and bless him in what He gave. Three requests, made for a boy who owned nothing, by a man who had refused wealth for himself.",
+            bn: "উম্মে সুলাইম নবীজি ﷺ-কে অনুরোধ করেন, তাঁর খাদেম ছেলেটির জন্য দোয়া করতে। সহিহ বুখারি ৬৩৪৪ ও সহিহ মুসলিম ২৪৮০-তে আছে তিনি কী চেয়েছিলেন: আল্লাহ যেন আনাসের সম্পদ ও সন্তান বাড়িয়ে দেন, আর যা দেন তাতে বরকত দেন। তিনটি চাওয়া — এমন এক বালকের জন্য যার কিছুই ছিল না, আর চাইলেন এমন একজন যিনি নিজের জন্য সম্পদ নিতে চাননি।",
+          },
+          {
+            en: "Anas lived to report the answer himself. He said his land bore fruit twice in the year when the land of others bore once, and that he had buried more than a hundred of his own descendants. He also lived past ninety, into a time when the men who had prayed behind the Prophet ﷺ were almost all gone. Every clause of the du'a came back to him in his own lifetime.",
+            bn: "দোয়ার জবাবটা আনাস নিজেই বলে গেছেন। তিনি বলতেন, অন্যদের জমিতে যখন বছরে একবার ফল ধরত, তাঁর জমিতে ধরত দুবার। আর তিনি নিজের হাতে নিজের একশোরও বেশি বংশধরকে দাফন করেছেন। বয়স তাঁর নব্বই পেরিয়েছিল; ততদিনে নবীজি ﷺ-এর পেছনে নামাজ পড়া মানুষগুলো প্রায় সবাই চলে গেছেন। দোয়ার প্রতিটি কথাই তাঁর জীবদ্দশাতেই ফিরে এসেছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Man He Described", bn: "যাঁকে তিনি বর্ণনা করেছেন" },
+        p: [
+          {
+            en: "Because he was in the house, the physical description of the Prophet ﷺ that the ummah carries comes largely through him. Sahih al-Bukhari 3547 preserves his account: neither excessively tall nor short, neither stark white nor deep brown, his hair neither tightly curled nor altogether straight. It is the report of somebody who had looked at a face every day for a decade and was asked, long afterwards, to say what it was like.",
+            bn: "তিনি ঘরের ভেতরেই থাকতেন বলে নবীজি ﷺ-এর চেহারার যে বর্ণনা উম্মতের কাছে আছে, তার বেশিরভাগই তাঁর সূত্রে। সহিহ বুখারি ৩৫৪৭-এ তাঁর বলা কথাটা রাখা আছে: তিনি খুব লম্বাও ছিলেন না, বেঁটেও নন; একেবারে ধবধবে সাদাও নন, গাঢ় বাদামিও নন; চুল খুব কোঁকড়াও ছিল না, একেবারে সোজাও নয়। এ সেই মানুষের বর্ণনা, যিনি দশ বছর ধরে রোজ একটা মুখ দেখেছেন, আর অনেক পরে তাঁকে জিজ্ঞেস করা হয়েছে, মুখটা কেমন ছিল।",
+          },
+          {
+            en: "Bukhari 3561 carries a sentence of a different kind. Anas said he never touched silk or brocade softer than the palm of the Prophet ﷺ, and never smelled a fragrance more pleasant than his scent. The man saying it had spent his working life holding that hand, fetching, carrying, being sent on errands. He was not describing a stranger from a distance.",
+            bn: "বুখারি ৩৫৬১-এ অন্য ধরনের একটা কথা আছে। আনাস বলেছেন, নবীজি ﷺ-এর হাতের তালুর চেয়ে নরম রেশম বা পশমি কাপড় তিনি কখনো ছোঁননি, আর তাঁর শরীরের ঘ্রাণের চেয়ে সুন্দর ঘ্রাণ কখনো পাননি। যিনি কথাটা বলছেন, তাঁর কাজের জীবনটাই কেটেছে ওই হাত ধরে — এটা আনতে, ওটা নিতে, ফরমাশ খাটতে। তিনি দূর থেকে দেখা কোনো অচেনা মানুষের বর্ণনা দিচ্ছিলেন না।",
+          },
+        ],
+      },
+      {
+        h: { en: "Abu Umayr and the Bird", bn: "আবু উমাইর আর সেই পাখি" },
+        p: [
+          {
+            en: "Anas had a small brother called Abu Umayr who kept a nughayr, a little bird, and the bird died. Sahih al-Bukhari 6129 and Sahih Muslim 2150 record that the Prophet ﷺ used to see the child and ask him, O Abu Umayr, what happened to the nughayr. He teased a grieving boy about a dead sparrow, by name, more than once.",
+            bn: "আনাসের ছোট এক ভাই ছিল, নাম আবু উমাইর। তার একটা ছোট্ট পাখি ছিল, নুগাইর; পাখিটা মরে যায়। সহিহ বুখারি ৬১২৯ ও সহিহ মুসলিম ২১৫০-এ আছে, নবীজি ﷺ ছেলেটিকে দেখলেই জিজ্ঞেস করতেন, হে আবু উমাইর, নুগাইরটার কী হলো? শোকে ডুবে থাকা এক শিশুকে তিনি তার মরা পাখিটা নিয়ে ঠাট্টা করতেন, নাম ধরে ডেকে, একবার নয়, বারবার।",
+          },
+          {
+            en: "The scholars who wrote on manners returned to this narration again and again, because of how much it settles at once: that a prophet had time for a child, that a child's grief is real grief, that gentle humour is not beneath the highest station. Anas is the one who preserved it. He noticed what a boy in that house was in the best position to notice.",
+            bn: "আদব-আখলাক নিয়ে যাঁরা লিখেছেন, তাঁরা বারবার এই বর্ণনায় ফিরে এসেছেন। কারণ এতটুকু ঘটনায় একসঙ্গে অনেক কিছু মিটে যায়: একজন নবীর হাতে শিশুর জন্য সময় ছিল, শিশুর শোকও সত্যিকারের শোক, আর কোমল রসিকতা সর্বোচ্চ মর্যাদার সঙ্গে বেমানান নয়। কথাটা ধরে রেখেছেন আনাসই। ওই ঘরের একটা বালক যা সবচেয়ে ভালো খেয়াল করতে পারত, তিনি তা-ই খেয়াল করেছেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "What He Carried to Basra", bn: "বসরায় তিনি যা নিয়ে গেলেন" },
+        p: [
+          {
+            en: "After the conquests he settled in Basra, then a new garrison town filling with people who had never seen Madinah. He became the reason that city had a link to the Prophet ﷺ at all. Students came to him for sixty years, and the count of narrations traced to him runs into the thousands, placing him among the most prolific narrators of hadith in the ummah.",
+            bn: "বিজয়ের পর তিনি বসরায় বসতি গড়েন। তখন সেটি নতুন এক সেনানগর, ভরে উঠছে এমন মানুষে যারা মদিনা কখনো চোখেই দেখেনি। ওই শহরের সঙ্গে নবীজি ﷺ-এর যোগসূত্র বলতে যা কিছু, তা তাঁর কারণেই। ষাট বছর ধরে ছাত্ররা তাঁর কাছে এসেছে। তাঁর সূত্রে বর্ণিত হাদিসের সংখ্যা হাজারে গিয়ে ঠেকে, যা তাঁকে উম্মতের সবচেয়ে বেশি বর্ণনাকারীদের কাতারে বসিয়ে দেয়।",
+          },
+          {
+            en: "He was among the last Companions to die, and he knew it. He is reported to have kept a hair of the Prophet ﷺ and to have asked that it be buried with him. A man who had been handed over as a boy because his mother had nothing else to give spent the remaining eighty years handing the same thing on.",
+            bn: "সবার শেষে যাঁরা ইন্তেকাল করেন, তিনি তাঁদের একজন, আর কথাটা তিনি জানতেন। বর্ণিত আছে, নবীজি ﷺ-এর একটি চুল তিনি যত্ন করে রেখে দিয়েছিলেন আর অসিয়ত করেছিলেন যেন তা তাঁর সঙ্গেই দাফন করা হয়। মায়ের দেওয়ার মতো আর কিছু ছিল না বলে যে বালকটিকে তুলে দেওয়া হয়েছিল, বাকি আশি বছর ধরে তিনি সেই একই জিনিস অন্যের হাতে তুলে দিয়ে গেছেন।",
+          },
+        ],
+      },
+    ],
+  },
+  abu_ayyub_al_ansari: {
+    sections: [
+      {
+        h: { en: "Where the Camel Knelt", bn: "উট যেখানে বসল" },
+        p: [
+          {
+            en: "His name was Khalid ibn Zayd, of Banu Najjar of the Khazraj, and he had given his pledge at the second meeting of al-Aqabah before the Prophet ﷺ ever set foot in Madinah. When the Prophet ﷺ finally rode into the city, every clan wanted him to stay with them, and each took hold of his camel. He told them to leave her, for she was under orders. She walked on and knelt in an open yard, and the nearest door was Abu Ayyub's.",
+            bn: "তাঁর নাম খালিদ ইবনে যায়েদ, খাযরাজের বনু নাজ্জার শাখার লোক। নবীজি ﷺ মদিনায় পা রাখার আগেই আকাবার দ্বিতীয় বৈঠকে তিনি বাইআত দিয়েছিলেন। নবীজি ﷺ যখন শেষ পর্যন্ত শহরে ঢুকলেন, প্রতিটি গোত্র চাইল তিনি তাদের ঘরেই উঠুন; সবাই উটের রশি ধরল। তিনি বললেন, ওকে ছেড়ে দাও, ও আদেশপ্রাপ্ত। উটটি হেঁটে গিয়ে খোলা এক আঙিনায় বসে পড়ল। সবচেয়ে কাছের দরজাটা ছিল আবু আইয়ুবের।",
+          },
+          {
+            en: "He carried the baggage inside before anyone could argue. The Prophet ﷺ stayed in that house for months while the mosque and the living quarters were built. The sirah writers record that Abu Ayyub had given the upper floor to his guest and taken the lower for himself, then could not bear the thought of walking above the Messenger of Allah ﷺ and begged him to change places.",
+            bn: "কেউ কিছু বলার আগেই তিনি মালপত্র ঘরে তুলে নিলেন। মসজিদ আর বসতঘর তৈরি হওয়া পর্যন্ত নবীজি ﷺ কয়েক মাস ওই বাড়িতেই ছিলেন। সিরাতের লেখকেরা লিখেছেন, আবু আইয়ুব মেহমানকে উপরতলা ছেড়ে দিয়ে নিজে নিচতলায় নেমেছিলেন। পরে রাসূলুল্লাহ ﷺ-এর মাথার উপর দিয়ে হাঁটার কথা ভেবে তিনি স্থির থাকতে পারলেন না, আর অনুরোধ করলেন জায়গা বদল করতে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Where the Fingers Had Been", bn: "আঙুল যেখানে পড়েছিল" },
+        p: [
+          {
+            en: "Sahih Muslim 2053 preserves what that household was like. Abu Ayyub would send up food, and when the dish came back he would look for the place where the Prophet's ﷺ fingers had rested and eat from exactly there. One evening a dish went up with garlic in it and came back untouched. He asked whether it was forbidden. He was told no, but that the Prophet ﷺ disliked it.",
+            bn: "সহিহ মুসলিম ২০৫৩-এ ওই সংসারের ছবিটা ধরা আছে। আবু আইয়ুব উপরে খাবার পাঠাতেন, আর থালা ফিরে এলে খুঁজতেন নবীজি ﷺ-এর আঙুল কোথায় পড়েছিল, তারপর ঠিক ওই জায়গা থেকেই খেতেন। এক সন্ধ্যায় রসুন দেওয়া একটা তরকারি উপরে গেল আর অস্পৃষ্ট অবস্থায় ফিরে এল। তিনি জিজ্ঞেস করলেন, এটা কি হারাম? তাঁকে বলা হলো, না, তবে নবীজি ﷺ এটি অপছন্দ করেন।",
+          },
+          {
+            en: "Abu Ayyub said in that case he disliked it too. The Prophet ﷺ told him to eat it, since he himself was not as they were: he was in converse with one they did not converse with. It is a small exchange about an onion, and it is why we know that the Prophet's ﷺ abstention here was about the company of the angel and not a ruling laid on the ummah.",
+            bn: "আবু আইয়ুব বললেন, তাহলে আমিও অপছন্দ করি। নবীজি ﷺ তাঁকে খেতে বললেন, কারণ তিনি নিজে তাঁদের মতো নন — তাঁকে এমন একজনের সঙ্গে কথা বলতে হয়, যাঁর সঙ্গে তাঁদের কথা বলতে হয় না। পেঁয়াজ-রসুন নিয়ে ছোট্ট এই কথাবার্তাটুকুর কারণেই আমরা জানি, নবীজি ﷺ-এর ওই বিরত থাকা ছিল ফেরেশতার সাহচর্যের কারণে, উম্মতের ওপর চাপানো কোনো বিধান নয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "He Knew What the Verse Meant", bn: "আয়াতটার মানে তিনি জানতেন" },
+        p: [
+          {
+            en: "Years later, on a campaign in Byzantine territory, a Muslim charged alone deep into the enemy ranks. Men watching called out that he had thrown himself into destruction, quoting 2:195. Abu Ayyub stopped them. Sunan Abi Dawud 2512 and Jami at-Tirmidhi 2972 record his answer: that verse was revealed about us, the company of the Ansar, and we know best what it means.",
+            bn: "বহু বছর পরে বাইজেন্টাইন এলাকায় এক অভিযানে এক মুসলিম একা শত্রুর কাতারের ভেতরে ঢুকে পড়েন। যাঁরা দেখছিলেন, তাঁরা ২:১৯৫ উদ্ধৃত করে বলে উঠলেন, সে নিজেকে ধ্বংসে ফেলে দিল। আবু আইয়ুব তাঁদের থামালেন। সুনানে আবু দাউদ ২৫১২ ও জামে তিরমিজি ২৯৭২-এ তাঁর জবাব আছে: আয়াতটা আমাদের ব্যাপারেই নাজিল হয়েছিল, আমরা আনসারদের দল; এর মানে আমরাই সবচেয়ে ভালো জানি।",
+          },
+          {
+            en: "He explained it. When Allah gave Islam strength and its helpers grew many, we said quietly among ourselves that our properties had gone to ruin and it was time to stay home and repair them. Then the verse came down. The destruction it warned against was sitting with our wealth and leaving the fighting, not charging the enemy. He had been there when it was revealed and he corrected the reading on the spot.",
+            bn: "তারপর তিনি খুলে বললেন। আল্লাহ যখন ইসলামকে শক্তি দিলেন আর সাহায্যকারীর সংখ্যা বেড়ে গেল, আমরা নিজেদের মধ্যে চুপিচুপি বলাবলি করলাম, আমাদের সম্পত্তি তো নষ্ট হয়ে যাচ্ছে; এবার ঘরে বসে ওগুলো ঠিক করা দরকার। তখনই আয়াতটা নাজিল হলো। যে ধ্বংসের কথা সেখানে বলা হয়েছে, তা হলো সম্পদ আঁকড়ে বসে থেকে জিহাদ ছেড়ে দেওয়া, শত্রুর ওপর ঝাঁপিয়ে পড়া নয়। নাজিলের সময় তিনি সেখানেই ছিলেন, আর ভুল ব্যাখ্যাটা সঙ্গে সঙ্গেই শুধরে দিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "What He Passed On", bn: "তিনি যা পৌঁছে দিলেন" },
+        p: [
+          {
+            en: "A man once asked the Prophet ﷺ for a deed that would take him to Paradise, and Abu Ayyub was there to hear the answer. Sahih al-Bukhari 1396 and Sahih Muslim 13 record it through him: worship Allah and associate nothing with Him, establish the prayer, give the zakah, and keep the ties of kinship. Four things, given to a man who had asked for a short road.",
+            bn: "একবার এক ব্যক্তি নবীজি ﷺ-এর কাছে এমন একটি আমল জানতে চাইলেন যা তাঁকে জান্নাতে নিয়ে যাবে। আবু আইয়ুব সেখানেই ছিলেন, জবাবটা শুনেছেন। সহিহ বুখারি ১৩৯৬ ও সহিহ মুসলিম ১৩-এ কথাটা তাঁরই সূত্রে এসেছে: আল্লাহর ইবাদত করো, তাঁর সঙ্গে কিছু শরিক কোরো না, নামাজ কায়েম করো, যাকাত দাও, আর আত্মীয়তার বন্ধন রক্ষা করো। ছোট রাস্তা চেয়েছিলেন যিনি, তাঁকে দেওয়া হলো চারটি কাজ।",
+          },
+          {
+            en: "Another narration of his shaped how Muslims quarrel. Sahih al-Bukhari 6077 and Sahih Muslim 2560 carry it: it is not lawful for a Muslim to cut off his brother for more than three nights, so that they meet and this one turns away and that one turns away, and the better of the two is the one who gives the greeting first.",
+            bn: "তাঁর আরেকটি বর্ণনা মুসলিমদের ঝগড়ার ধরনই বদলে দিয়েছে। সহিহ বুখারি ৬০৭৭ ও সহিহ মুসলিম ২৫৬০-এ তা আছে: কোনো মুসলিমের জন্য তিন রাতের বেশি নিজের ভাইয়ের সঙ্গে কথা বন্ধ রাখা বৈধ নয়; তারা মুখোমুখি হয়, একজন এদিকে মুখ ফেরায়, আরেকজন ওদিকে। তাদের মধ্যে উত্তম সে-ই, যে আগে সালাম দেয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "An Old Man on a Ship", bn: "জাহাজে এক বৃদ্ধ" },
+        p: [
+          {
+            en: "He had fought at Badr, at Uhud, at the Trench and in the campaigns after them, and he was a very old man when a Muslim army sailed against Constantinople. He went with it. The historians record that his health broke during the siege and that he asked to be carried as far forward into enemy ground as the army could reach, and buried there.",
+            bn: "তিনি লড়েছিলেন বদরে, উহুদে, খন্দকে আর তার পরের অভিযানগুলোতে। কনস্টান্টিনোপলের দিকে যখন মুসলিম বাহিনী জাহাজে রওনা দিল, তিনি তখন খুবই বৃদ্ধ। তিনি সঙ্গে গেলেন। ঐতিহাসিকেরা লিখেছেন, অবরোধের সময় তাঁর শরীর ভেঙে পড়ে। তিনি অনুরোধ করেন, বাহিনী শত্রুর ভূখণ্ডে যতদূর পৌঁছাতে পারে ততদূর তাঁকে বয়ে নিয়ে গিয়ে সেখানেই দাফন করা হোক।",
+          },
+          {
+            en: "They buried him by the walls of the city. A man who had opened his door to a stranger in Madinah closed his life at the far edge of the Muslim advance, having asked for no comfort and no return. The house he gave away for seven months is the reason his name is known; the grave he chose is the reason it stayed known.",
+            bn: "তাঁকে নগরপ্রাচীরের পাশেই দাফন করা হলো। মদিনায় যে মানুষটি এক আগন্তুকের জন্য নিজের দরজা খুলে দিয়েছিলেন, তিনি জীবন শেষ করলেন মুসলিম অগ্রযাত্রার একেবারে শেষ প্রান্তে, কোনো আরাম বা প্রতিদান না চেয়ে। সাত মাসের জন্য ছেড়ে দেওয়া সেই ঘরটার কারণেই তাঁর নাম মানুষ জানে; আর নিজের বেছে নেওয়া কবরটার কারণেই নামটা আজও টিকে আছে।",
+          },
+        ],
+      },
+    ],
+  },
+
+  sad_ibn_muadh: {
+    sections: [
+      {
+        h: { en: "A Chief Who Came Angry", bn: "রাগ নিয়ে আসা এক সর্দার" },
+        p: [
+          {
+            en: "Sa'd ibn Mu'adh (RA) was chief of Banu Abd al-Ashhal, a clan of the Aws, and he was in his thirties when Mus'ab ibn Umayr (RA) came to Madinah to teach the few who had accepted Islam. Sa'd went out to stop him, carrying a spear and using hard words. Mus'ab answered quietly: sit and listen, and if you are pleased with it take it, and if you dislike it we will keep it away from you.",
+            bn: "সাদ ইবনে মুআয (রাঃ) ছিলেন আওসের বনু আবদুল আশহাল শাখার সর্দার। মুসআব ইবনে উমাইর (রাঃ) যখন মদিনায় এসে অল্প কজন নওমুসলিমকে শিক্ষা দিচ্ছিলেন, সাদের বয়স তখন ত্রিশের ঘরে। তাঁকে থামাতে সাদ বর্শা হাতে বেরিয়ে এলেন, মুখে কড়া কথা। মুসআব শান্তভাবে বললেন, বসুন, শুনুন; পছন্দ হলে গ্রহণ করবেন, আর অপছন্দ হলে আমরা এটি আপনার কাছ থেকে দূরে সরিয়ে রাখব।",
+          },
+          {
+            en: "He sat, and he listened, and he accepted. Then he went back to his people and did the thing only a chief could do. Ibn Hisham records that he told them their speech was forbidden to him until they believed in Allah and His Messenger. By the evening there was not a man or woman of Banu Abd al-Ashhal who had not entered Islam.",
+            bn: "তিনি বসলেন, শুনলেন, আর গ্রহণ করলেন। তারপর নিজের লোকদের কাছে ফিরে গিয়ে এমন কাজ করলেন যা কেবল একজন সর্দারই পারেন। ইবনে হিশাম লিখেছেন, তিনি তাঁদের বললেন, আল্লাহ ও তাঁর রাসূলের ওপর ঈমান না আনা পর্যন্ত তোমাদের সঙ্গে কথা বলা আমার জন্য হারাম। সন্ধ্যার মধ্যেই বনু আবদুল আশহালের এমন কোনো নারী বা পুরুষ রইল না, যে ইসলামে প্রবেশ করেনি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Answering for the Ansar", bn: "আনসারদের হয়ে জবাব" },
+        p: [
+          {
+            en: "At Badr the Prophet ﷺ asked the people for their view. He had asked twice and the Muhajirun had answered twice, and he asked again. Ibn Ishaq records that Sa'd understood who was meant: the Ansar had pledged to defend him in Madinah, not to march out to war, and the Prophet ﷺ was asking whether that pledge stretched.",
+            bn: "বদরে নবীজি ﷺ লোকদের কাছে তাঁদের মত জানতে চাইলেন। দুবার জিজ্ঞেস করেছেন, দুবারই মুহাজিররা জবাব দিয়েছেন; তবু তিনি আবার জিজ্ঞেস করলেন। ইবনে ইসহাক লিখেছেন, সাদ বুঝে ফেললেন কাদের উদ্দেশে বলা হচ্ছে। আনসাররা বাইআত দিয়েছিলেন মদিনায় তাঁকে রক্ষা করার, বাইরে গিয়ে যুদ্ধ করার নয়। নবীজি ﷺ জানতে চাইছিলেন, সেই বাইআত এতদূর পর্যন্ত যায় কি না।",
+          },
+          {
+            en: "Sa'd answered for them. We have believed you, he said, and we have testified that what you brought is the truth, and we have given you our pledge to hear and obey. Go where you wish; we are with you. By the One who sent you with the truth, if you put this sea before us and plunged into it, we would plunge in with you, and not one man of us would stay behind.",
+            bn: "সাদ তাঁদের হয়ে জবাব দিলেন। বললেন, আমরা আপনাকে বিশ্বাস করেছি, সাক্ষ্য দিয়েছি যে আপনি যা এনেছেন তা-ই সত্য, আর শোনা ও মানার বাইআত দিয়েছি। আপনি যেদিকে চান যান, আমরা আপনার সঙ্গে আছি। যিনি আপনাকে সত্যসহ পাঠিয়েছেন তাঁর কসম, আপনি যদি এই সমুদ্র সামনে রেখে তাতে ঝাঁপ দেন, আমরাও আপনার সঙ্গে ঝাঁপ দেব; আমাদের একজনও পেছনে থাকবে না।",
+          },
+          {
+            en: "The Prophet ﷺ was gladdened by the speech and the army moved. It is worth seeing what Sa'd actually did there. He was not volunteering himself; he was committing men who had made a narrower pledge, and he did it in public, in their hearing, staking his standing among them on his reading of what they would accept. They did not contradict him.",
+            bn: "কথাগুলো শুনে নবীজি ﷺ খুশি হলেন, আর বাহিনী রওনা দিল। সাদ আসলে সেখানে কী করলেন, তা দেখার মতো। তিনি কেবল নিজেকে এগিয়ে দেননি; তিনি এমন মানুষদের নামে কথা দিয়েছেন যাঁরা এর চেয়ে সংকীর্ণ একটা বাইআত করেছিলেন। আর কাজটা করেছেন প্রকাশ্যে, তাঁদেরই সামনে, নিজের মর্যাদা বাজি রেখে — তাঁরা কী মানবেন সে সম্পর্কে তাঁর নিজের বোঝার ওপর ভরসা করে। কেউ তাঁর কথার প্রতিবাদ করেননি।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Arrow at the Trench", bn: "খন্দকের সেই তির" },
+        p: [
+          {
+            en: "At the Battle of the Trench an arrow opened a vein in his arm. Sahih al-Bukhari 4122 records that the Prophet ﷺ had a tent pitched for him inside the mosque so that he could visit him without going far. Lying in it, Sa'd made a du'a that has been repeated ever since: O Allah, if any of the war with Quraysh remains, keep me alive for it.",
+            bn: "খন্দকের যুদ্ধে একটি তির তাঁর হাতের শিরা কেটে দেয়। সহিহ বুখারি ৪১২২-এ আছে, নবীজি ﷺ মসজিদের ভেতরেই তাঁর জন্য একটি তাঁবু খাটাতে বলেন, যাতে দূরে না গিয়েই তাঁকে দেখে আসা যায়। সেখানে শুয়ে সাদ যে দোয়াটি করেছিলেন, তা আজও পড়া হয়: হে আল্লাহ, কুরাইশের সঙ্গে যুদ্ধের কিছু যদি বাকি থাকে, আমাকে তার জন্য বাঁচিয়ে রাখুন।",
+          },
+          {
+            en: "The rest of the du'a is the part that was answered. And if You have ended the war between us and them, then make this a martyrdom, and do not let me die until my eyes are cooled by what becomes of Banu Qurayza. He had not asked to be healed. He had asked to see one thing settled first, and to be taken afterwards.",
+            bn: "দোয়ার বাকি অংশটাই কবুল হয়েছিল। আর আপনি যদি আমাদের ও তাদের মধ্যকার যুদ্ধ শেষ করে দিয়ে থাকেন, তবে একে শাহাদাত বানিয়ে দিন; আর বনু কুরাইজার পরিণতি দেখে চোখ জুড়ানোর আগে আমাকে মৃত্যু দেবেন না। তিনি সুস্থতা চাননি। চেয়েছিলেন একটা বিষয়ের মীমাংসা আগে দেখে যেতে, তারপর তাঁকে তুলে নেওয়া হোক।",
+          },
+        ],
+      },
+      {
+        h: { en: "Rise for Your Chief", bn: "তোমাদের সর্দারের জন্য উঠে দাঁড়াও" },
+        p: [
+          {
+            en: "When Banu Qurayza came down from their forts after the siege, they asked that Sa'd judge between them, and the Prophet ﷺ agreed. Sahih al-Bukhari 3043 and Sahih Muslim 1768 record that as the wounded man was brought in on a donkey the Prophet ﷺ said to the Ansar, rise for your chief. Sa'd gave his judgement, and it went against them.",
+            bn: "অবরোধের পর বনু কুরাইজা তাদের দুর্গ থেকে নেমে এসে চাইল, সাদই তাদের ব্যাপারে ফয়সালা দিন; নবীজি ﷺ রাজি হলেন। সহিহ বুখারি ৩০৪৩ ও সহিহ মুসলিম ১৭৬৮-এ আছে, আহত মানুষটিকে গাধার পিঠে করে আনা হলে নবীজি ﷺ আনসারদের বললেন, তোমাদের সর্দারের জন্য উঠে দাঁড়াও। সাদ ফয়সালা দিলেন, আর তা গেল তাদেরই বিপক্ষে।",
+          },
+          {
+            en: "The Prophet ﷺ told him he had judged by the ruling of Allah. It is worth being plain about what this means and does not mean. Sa'd was not asked for mercy or for revenge; he was asked to rule, by the law of a treaty that had been broken during a siege, and the ruling he gave was accepted as correct by the one man in Madinah entitled to say so.",
+            bn: "নবীজি ﷺ তাঁকে বললেন, তুমি আল্লাহর হুকুম অনুযায়ীই ফয়সালা করেছ। এর মানে কী আর কী নয়, তা পরিষ্কার করে বলা দরকার। সাদের কাছে দয়া বা প্রতিশোধ চাওয়া হয়নি; চাওয়া হয়েছিল বিচার — অবরোধের মধ্যে ভেঙে ফেলা এক চুক্তির আইনে। আর সেই ফয়সালাকে সঠিক বলে মেনে নিয়েছিলেন মদিনার সেই একজন, যাঁর তা বলার অধিকার ছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Throne Shook", bn: "আরশ কেঁপে উঠল" },
+        p: [
+          {
+            en: "His wound reopened after the judgement and he died of it. Sahih al-Bukhari 3803 and Sahih Muslim 2468 record the words of the Prophet ﷺ: the Throne of the Most Merciful shook at the death of Sa'd ibn Mu'adh. Bukhari 3249 preserves another, said of a piece of silk that the Companions were admiring — the handkerchiefs of Sa'd in Paradise are better than this.",
+            bn: "ফয়সালার পর তাঁর ক্ষত আবার খুলে যায়, আর তাতেই তিনি ইন্তেকাল করেন। সহিহ বুখারি ৩৮০৩ ও সহিহ মুসলিম ২৪৬৮-এ নবীজি ﷺ-এর কথাটা আছে: সাদ ইবনে মুআযের মৃত্যুতে রহমানের আরশ কেঁপে উঠেছে। বুখারি ৩২৪৯-এ আরেকটি কথা আছে, সাহাবিরা একটি রেশমি কাপড়ের প্রশংসা করছিলেন, তখন তিনি বলেন, জান্নাতে সাদের রুমাল এর চেয়ে উত্তম।",
+          },
+          {
+            en: "He had been a Muslim for about six years. In that time he brought an entire clan into Islam, spoke for the Ansar at the decision that made Badr possible, took an arrow at the Trench, judged the case that ended the siege, and died of the wound. Very few lives are that short and that complete.",
+            bn: "মুসলিম হিসেবে তিনি বেঁচেছিলেন প্রায় ছয় বছর। এই সময়ের মধ্যে তিনি গোটা একটা গোত্রকে ইসলামে এনেছেন, বদর সম্ভব করে তোলা সেই সিদ্ধান্তে আনসারদের হয়ে কথা বলেছেন, খন্দকে তির খেয়েছেন, অবরোধ শেষ করে দেওয়া মামলার ফয়সালা দিয়েছেন, আর সেই ক্ষততেই ইন্তেকাল করেছেন। এত ছোট আর এত পূর্ণ জীবন খুব কমই মেলে।",
+          },
+        ],
+      },
+    ],
+  },
+
+  hudhayfah_ibn_al_yaman: {
+    sections: [
+      {
+        h: { en: "Sent Home from Badr", bn: "বদর থেকে ফিরিয়ে দেওয়া" },
+        p: [
+          {
+            en: "Hudhayfah (RA) and his father al-Yaman were on their way to join the Prophet ﷺ before Badr when Quraysh seized them and made them promise not to fight. They came and told him what they had promised. Sahih Muslim 1787 records his answer: go back, we will keep our promise to them and seek Allah's help against them. Two more men would have mattered at Badr, and he sent them away rather than break a word.",
+            bn: "বদরের আগে হুযাইফা (রাঃ) ও তাঁর বাবা আল-ইয়ামান নবীজি ﷺ-এর সঙ্গে যোগ দিতে যাচ্ছিলেন, পথে কুরাইশ তাঁদের ধরে ফেলে আর যুদ্ধ না করার অঙ্গীকার নেয়। তাঁরা এসে নবীজি ﷺ-কে অঙ্গীকারের কথা জানালেন। সহিহ মুসলিম ১৭৮৭-এ তাঁর জবাব আছে: তোমরা ফিরে যাও; আমরা তাদের দেওয়া কথা রাখব আর তাদের বিরুদ্ধে আল্লাহর সাহায্য চাইব। বদরে বাড়তি দুজন মানুষের দাম ছিল অনেক, তবু কথা ভাঙার চেয়ে তিনি তাঁদের ফিরিয়ে দিলেন।",
+          },
+          {
+            en: "At Uhud his father was killed in the confusion by Muslims who did not recognise him. Sahih al-Bukhari 3290 records that Hudhayfah called out to them, but they had already struck. He said, may Allah forgive you, and gave the blood money that was due to him away in charity. He was a young man, and he had just lost his father to his own side, and that was his response.",
+            bn: "উহুদে বিশৃঙ্খলার মধ্যে তাঁর বাবাকে মুসলিমরাই চিনতে না পেরে হত্যা করে ফেলেন। সহিহ বুখারি ৩২৯০-এ আছে, হুযাইফা চেঁচিয়ে তাঁদের থামাতে চেয়েছিলেন, কিন্তু ততক্ষণে আঘাত হয়ে গেছে। তিনি বললেন, আল্লাহ আপনাদের মাফ করুন। আর তাঁর প্রাপ্য রক্তমূল্য তিনি দান করে দিলেন। বয়সে তরুণ, সদ্য নিজেদের লোকের হাতেই বাবাকে হারিয়েছেন — এই ছিল তাঁর প্রতিক্রিয়া।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Night of the Trench", bn: "খন্দকের সেই রাত" },
+        p: [
+          {
+            en: "On the worst night of the siege of Madinah, with a freezing wind tearing the confederate camp apart, the Prophet ﷺ asked who would go and bring back news of the enemy. Sahih Muslim 1788 records that he asked three times and nobody moved, because of the cold and the hunger and the fear. On the third asking he named Hudhayfah, and Hudhayfah could not refuse a man who had named him.",
+            bn: "মদিনা অবরোধের সবচেয়ে কঠিন রাতে, যখন বরফের মতো ঠান্ডা বাতাস মিত্রবাহিনীর শিবির ছিঁড়েখুঁড়ে দিচ্ছে, নবীজি ﷺ জানতে চাইলেন কে গিয়ে শত্রুর খবর নিয়ে আসবে। সহিহ মুসলিম ১৭৮৮-এ আছে, তিনি তিনবার জিজ্ঞেস করলেন, কেউ নড়ল না — ঠান্ডা, ক্ষুধা আর ভয়ে। তৃতীয়বারে তিনি হুযাইফার নাম ধরে ডাকলেন। নাম ধরে ডাকলে তো আর না বলা যায় না।",
+          },
+          {
+            en: "He crossed to the enemy camp and sat down among them in the dark, unrecognised. Abu Sufyan was warming himself at a fire and Hudhayfah could have put an arrow in him. He did not, because the instruction had been to bring news and not to stir anything up. He came back and reported that the wind had broken them and they were leaving. He had obeyed the limit he was given.",
+            bn: "তিনি শত্রুশিবিরে পৌঁছে অন্ধকারে তাদের মাঝেই বসে পড়লেন, কেউ চিনল না। আবু সুফিয়ান আগুন পোহাচ্ছিলেন; হুযাইফা চাইলে তাঁকে তির মারতে পারতেন। তিনি মারলেন না, কারণ নির্দেশ ছিল কেবল খবর আনার, কিছু বাধিয়ে না দেওয়ার। ফিরে এসে তিনি জানালেন, ঝড় তাদের ভেঙে দিয়েছে, তারা চলে যাচ্ছে। তাঁকে যে সীমা বেঁধে দেওয়া হয়েছিল, তিনি তা মেনেছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Keeper of the Secret", bn: "গোপন কথার রক্ষক" },
+        p: [
+          {
+            en: "The Prophet ﷺ told him the names of the hypocrites of Madinah, and he told no one. The title he carries in the books, keeper of the secret of the Messenger of Allah ﷺ, is about a burden rather than a privilege: he lived among people knowing what he knew about some of them, and he prayed behind them and traded with them and said nothing.",
+            bn: "নবীজি ﷺ তাঁকে মদিনার মুনাফিকদের নাম বলে দিয়েছিলেন, আর তিনি তা কাউকে বলেননি। কিতাবগুলোতে তাঁর উপাধি রাসূলুল্লাহ ﷺ-এর গোপন কথার রক্ষক। ওটা সুবিধার নয়, ভারের। তিনি মানুষের মধ্যেই থাকতেন, তাদের কারও কারও সম্পর্কে যা জানতেন তা জেনেই; তাদের পেছনে নামাজ পড়তেন, তাদের সঙ্গে কেনাবেচা করতেন, আর মুখ খুলতেন না।",
+          },
+          {
+            en: "The biographers record that Umar (RA) used to watch him at funerals, and if Hudhayfah did not attend a man's janazah, Umar would stay away too. A caliph who had every means of investigation available to him chose instead to read one man's silence. That is a measure of how completely the secret was kept.",
+            bn: "জীবনীকারেরা লিখেছেন, উমর (রাঃ) জানাজায় তাঁর দিকে নজর রাখতেন। হুযাইফা যদি কারও জানাজায় না দাঁড়াতেন, উমরও সরে যেতেন। তদন্তের সব উপায় হাতে থাকা এক খলিফা বেছে নিয়েছিলেন একজন মানুষের নীরবতা পড়ে নেওয়াকে। গোপন কথাটা কতটা পুরোপুরি রক্ষিত ছিল, এতেই তা বোঝা যায়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Asking About Evil", bn: "অনিষ্ট নিয়ে প্রশ্ন" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 3606 and Sahih Muslim 1847 preserve his own explanation of how he studied. People used to ask the Messenger of Allah ﷺ about good, he said, and I used to ask him about evil, for fear that it would reach me. It is a different way of learning the religion, and it produced the clearest early reports the ummah has about discord to come.",
+            bn: "সহিহ বুখারি ৩৬০৬ ও সহিহ মুসলিম ১৮৪৭-এ তিনি নিজেই বলেছেন কীভাবে শিখতেন। তিনি বলেন, মানুষ রাসূলুল্লাহ ﷺ-কে কল্যাণ নিয়ে জিজ্ঞেস করত, আর আমি জিজ্ঞেস করতাম অনিষ্ট নিয়ে, এই ভয়ে যে তা আমাকে পেয়ে বসতে পারে। দ্বীন শেখার এ এক ভিন্ন পথ। আসন্ন ফিতনা নিয়ে উম্মতের হাতে সবচেয়ে স্পষ্ট প্রাচীন বর্ণনাগুলো এই পথেই এসেছে।",
+          },
+          {
+            en: "He asked what a man should do when there is no united body and no leader to hold to. He was told to keep away from all those factions, even if he had to bite on the root of a tree until death reached him in that state. The answer is bleak and it is practical, and it exists because one Companion kept asking the question everyone else was avoiding.",
+            bn: "তিনি জিজ্ঞেস করলেন, যদি কোনো ঐক্যবদ্ধ দল না থাকে আর ধরে রাখার মতো কোনো নেতাও না থাকে, তখন মানুষ কী করবে? তাঁকে বলা হলো, ওই সব দল থেকে দূরে থাকো, যদি গাছের শিকড় কামড়ে ধরে থাকতে হয় তবু — যতক্ষণ না ওই অবস্থাতেই মৃত্যু আসে। জবাবটা কঠিন, আর কাজেরও। এ আছে কেবল এই কারণে যে একজন সাহাবি বারবার সেই প্রশ্নটাই করেছিলেন, যা বাকি সবাই এড়িয়ে যাচ্ছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "Mada'in and Nahawand", bn: "মাদায়েন আর নাহাওয়ান্দ" },
+        p: [
+          {
+            en: "In the wars with Persia he served as a commander, and when an-Nu'man ibn Muqarrin (RA) was killed at Nahawand the command passed to him in the middle of the fighting and the battle was carried. Umar (RA) afterwards made him governor of Mada'in, the old Persian capital, a city used to the arrival of satraps. The people came out along the road to see what sort of man Madinah had sent them.",
+            bn: "পারস্যের যুদ্ধগুলোতে তিনি সেনাপতির দায়িত্ব পালন করেন। নাহাওয়ান্দে নুমান ইবনে মুকাররিন (রাঃ) শহিদ হলে নেতৃত্ব তাঁর হাতে আসে, আর যুদ্ধটা জয়ের দিকে এগিয়ে যায়। এরপর উমর (রাঃ) তাঁকে পুরনো পারস্য রাজধানী মাদায়েনের গভর্নর নিয়োগ করেন। শহরের লোক বেরিয়ে এল বিশাল কোনো মানুষের আগমনের অপেক্ষায়।",
+          },
+          {
+            en: "He arrived on a donkey, eating bread and salt, with his legs hanging down. There was nothing to look at. He died in the year after Uthman (RA) was killed, at the opening of the discord he had spent his life asking about, and the reports say he was relieved to be taken before he had to live through much of it.",
+            bn: "তিনি এলেন গাধার পিঠে চড়ে, পা দুলিয়ে, হাতে রুটি আর লবণ। দেখার মতো কিছুই ছিল না। উসমান (রাঃ) নিহত হওয়ার পরের বছরেই তিনি ইন্তেকাল করেন — ঠিক সেই ফিতনার মুখে, সারা জীবন যা নিয়ে তিনি প্রশ্ন করে এসেছেন। বর্ণনায় আছে, বেশিটা দেখার আগেই তুলে নেওয়া হয়েছে বলে তিনি স্বস্তি বোধ করেছিলেন।",
+          },
+          {
+            en: "Put the pieces together and one shape appears. He was turned back from a battle for the sake of a promise, forgave the men who killed his father, went out alone into an enemy camp and came back without firing, carried names he never spoke, and governed a conquered capital on a donkey. Every one of those is a case of holding something he had the power to spend.",
+            bn: "টুকরোগুলো পাশাপাশি রাখলে একটাই আকৃতি ফুটে ওঠে। একটা কথা রাখার জন্য তিনি যুদ্ধ থেকে ফিরে গেছেন, বাবার হত্যাকারীদের মাফ করে দিয়েছেন, একা শত্রুশিবিরে ঢুকে অস্ত্র না চালিয়েই ফিরে এসেছেন, এমন কিছু নাম বয়ে বেড়িয়েছেন যা কোনোদিন মুখে আনেননি, আর বিজিত এক রাজধানী শাসন করেছেন গাধার পিঠে চড়ে। প্রতিটাই এমন কিছু ধরে রাখার ঘটনা, যা খরচ করে ফেলার ক্ষমতা তাঁর ছিল।",
+          },
+        ],
+      },
+    ],
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { SAHABA_ARTICLES };

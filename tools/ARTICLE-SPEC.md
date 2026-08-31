@@ -28,6 +28,14 @@ One JS object literal per subject, keyed by the subject's existing `id`:
 - **Total 700–950 English words per subject**, Bengali of equivalent substance
   (not a word-for-word calque — natural Bengali).
 
+> **The Bengali has its own rules and they are binding: `tools/BANGLA-STYLE.md`.**
+> Written after a whole module shipped with Bengali a reader called "quite
+> literal". Read it before you write a single `bn` string. The short version:
+> at most one em dash per paragraph, drop the `একটি`/`এটি` article calque, name
+> the agent instead of `বর্ণনা করা হয়েছে`, use the living Islamic register
+> (গুনাহ, মাফ, আমল, হক) over academic Sanskritic vocabulary, and break the long
+> periodic sentence into two. `tests/check-bangla-style.js` enforces part of it.
+
 ## Rules
 
 1. **Accuracy above all.** Only what is well attested: the Quran, Sahih
