@@ -2948,6 +2948,428 @@ const SAHABA_ARTICLES = {
       },
     ],
   },
+  suhayb_ar_rumi: {
+    sections: [
+      {
+        h: { en: "An Arab Raised in Byzantium", bn: "রোমে বেড়ে ওঠা এক আরব" },
+        p: [
+          {
+            en: "Suhayb (RA) was an Arab by birth, from a family settled on the Euphrates where his father held office under the Persians. Byzantine raiders took him as a child and he grew up among them, so that when he came back to Arabia he spoke his own language with a foreign accent. The Arabs called him ar-Rumi, the Roman, and the name stuck to him for the rest of his life.",
+            bn: "সুহাইব (রাঃ) জন্মসূত্রে আরব, তাঁর পরিবার থাকত ফোরাত নদীর ধারে; বাবা সেখানে পারস্যের অধীনে দায়িত্বে ছিলেন। শিশু বয়সেই বাইজেন্টাইন হানাদাররা তাঁকে ধরে নিয়ে যায়, আর তিনি বড় হন তাদের মধ্যেই। ফলে আরবে ফিরে এসে নিজের ভাষাটাই তিনি বলতেন বিদেশি টানে। আরবরা তাঁকে ডাকত আর-রুমি, মানে রোমান। নামটা সারা জীবন তাঁর সঙ্গে থেকে গেল।",
+          },
+          {
+            en: "In Makkah he made money. He was a trader with a good name and a full purse, the kind of man the city takes seriously. Then he heard about the message being taught quietly in the house of al-Arqam, and the reports have him arriving at its door on the same day as Ammar ibn Yasir (RA). Both went in and both came out Muslim.",
+            bn: "মক্কায় এসে তিনি অর্থ উপার্জন করলেন। সুনামওয়ালা ব্যবসায়ী, হাতে ভরা থলি; শহর যাঁদের গুরুত্ব দেয় তিনি সেই ধরনের মানুষ। এরপর তিনি শুনলেন, আরকামের ঘরে চুপিচুপি একটা বার্তা শেখানো হচ্ছে। বর্ণনাগুলো বলে, একই দিনে আম্মার ইবনে ইয়াসির (রাঃ)-এর সঙ্গে তিনি ওই দরজায় এসে দাঁড়ান। দুজনই ভেতরে গেলেন, আর দুজনই মুসলিম হয়ে বেরিয়ে এলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Price of Leaving", bn: "চলে যাওয়ার দাম" },
+        p: [
+          {
+            en: "When the order to migrate came, Suhayb set out for Madinah and Quraysh rode after him. They told him he had arrived among them poor and made his fortune in their city, and they would not let him take it away. He stopped, and made them an offer instead of a fight: if he handed over everything he owned, would they let him go? They agreed at once.",
+            bn: "হিজরতের নির্দেশ এলে সুহাইব মদিনার পথে রওনা দিলেন, আর কুরাইশ ঘোড়া ছুটিয়ে পেছনে এল। তারা বলল, তুমি আমাদের কাছে এসেছিলে নিঃস্ব হয়ে, সম্পদ বানিয়েছ আমাদের শহরে; ওসব নিয়ে যেতে দেব না। তিনি থামলেন, আর লড়াইয়ের বদলে একটা প্রস্তাব দিলেন: সব সম্পদ তুলে দিলে তারা কি তাঁকে যেতে দেবে? তারা সঙ্গে সঙ্গেই রাজি হয়ে গেল।",
+          },
+          {
+            en: "He told them where the money was buried and rode on with nothing. When the news reached Madinah, the Prophet ﷺ said, Suhayb has profited, Suhayb has profited. The commentators connect his case to 2:207, which speaks of the man who sells his own self seeking the pleasure of Allah, and it is hard to think of a transaction that fits the wording more exactly.",
+            bn: "কোথায় টাকা পোঁতা আছে তিনি বলে দিলেন, তারপর শূন্য হাতে পথ ধরলেন। খবরটা মদিনায় পৌঁছালে নবীজি ﷺ বললেন, সুহাইব লাভ করেছে, সুহাইব লাভ করেছে। মুফাসসিররা তাঁর ঘটনাটাকে যুক্ত করেন ২:২০৭ আয়াতের সঙ্গে, যেখানে বলা হয়েছে সেই মানুষের কথা যে আল্লাহর সন্তুষ্টি চেয়ে নিজেকেই বিকিয়ে দেয়। এর চেয়ে হুবহু মিলে যাওয়া লেনদেন খুঁজে পাওয়া কঠিন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Arriving With Nothing", bn: "শূন্য হাতে পৌঁছানো" },
+        p: [
+          {
+            en: "He reached Madinah having lost a lifetime's earnings in an afternoon, and there is no report of him complaining about it afterwards. He fought at Badr and at Uhud and in what followed. A man who had bought his way out with everything he had was not likely to hold anything back once he arrived.",
+            bn: "সারা জীবনের উপার্জন এক বিকেলে হারিয়ে তিনি মদিনায় পৌঁছালেন। এরপর তিনি কখনো এ নিয়ে অনুযোগ করেছেন, এমন কোনো বর্ণনা নেই। তিনি লড়েছেন বদরে, উহুদে, আর তারপর যা যা হয়েছে সবটাতেই। যে মানুষ সর্বস্ব দিয়ে নিজের পথ কিনে নিয়েছেন, পৌঁছে যাওয়ার পর তাঁর কিছু আটকে রাখার কথা নয়।",
+          },
+          {
+            en: "The accent stayed with him and so did the name. It is worth noticing that the community never treated either as a defect. Among the earliest Muslims were a Roman, a Persian, an Abyssinian and a Jewish scholar of Madinah, and the sources record their origins as facts rather than as qualifications on their standing.",
+            bn: "বিদেশি টানটা তাঁর সঙ্গেই রয়ে গেল, নামটাও। লক্ষ করার মতো বিষয় এই যে মুসলিম সমাজ কোনোটাকেই খুঁত হিসেবে দেখেনি। একেবারে শুরুর মুসলিমদের মধ্যে ছিলেন একজন রোমান, একজন পারসিক, একজন হাবশি আর মদিনার এক ইহুদি পণ্ডিত। সূত্রগুলো তাঁদের এই পরিচয়গুলো লিখে রেখেছে নিছক তথ্য হিসেবে, মর্যাদার ওপর কোনো শর্ত হিসেবে নয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Dates and a Sore Eye", bn: "খেজুর আর ব্যথা চোখ" },
+        p: [
+          {
+            en: "Sunan Ibn Majah 3443 preserves a small scene that is worth more than a page of praise. The Prophet ﷺ came upon Suhayb eating dates while he had an inflamed eye, and asked him whether he was eating dates in that condition. Suhayb answered that he was chewing on the other side. The report says the Prophet ﷺ smiled.",
+            bn: "সুনানে ইবনে মাজাহ ৩৪৪৩-এ ছোট্ট একটা দৃশ্য ধরা আছে, যা পাতাভরা প্রশংসার চেয়েও বেশি কিছু বলে। নবীজি ﷺ দেখলেন, সুহাইব খেজুর খাচ্ছেন, অথচ তাঁর একটা চোখ ফুলে আছে। তিনি জিজ্ঞেস করলেন, এই অবস্থায় খেজুর খাচ্ছ? সুহাইব বললেন, আমি তো অন্য পাশ দিয়ে চিবাচ্ছি। বর্ণনায় আছে, নবীজি ﷺ হেসে ফেলেছিলেন।",
+          },
+          {
+            en: "He was also known for feeding people beyond what his means suggested, and when Umar (RA) questioned him about it he answered with something he had heard from the Prophet ﷺ about the best of you being those who feed others. A man who had handed over an entire fortune once did not appear to find it hard to keep handing over smaller amounts afterwards.",
+            bn: "সাধ্যের তুলনায় বেশি মানুষকে খাওয়ানোর জন্যও তিনি পরিচিত ছিলেন। উমর (রাঃ) এ নিয়ে জিজ্ঞেস করলে তিনি নবীজি ﷺ-এর কাছে শোনা একটা কথা বললেন — তোমাদের মধ্যে সর্বোত্তম তারা, যারা মানুষকে খাওয়ায়। যে মানুষ একবার গোটা সম্পদ তুলে দিয়েছেন, এরপর ছোট ছোট অঙ্ক তুলে দিতে তাঁর কষ্ট হওয়ার কথা নয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Leading the Prayer for a City", bn: "একটি শহরের নামাজে ইমামতি" },
+        p: [
+          {
+            en: "When Umar (RA) was stabbed and lay dying, he left the choice of the next caliph to a council of six and forbade any of them from leading the prayers while the decision was open, so that nobody could gain an advantage from standing in front. He named Suhayb to lead in the meantime. For three days the congregational prayer of the capital was led by a freed captive with a foreign accent.",
+            bn: "উমর (রাঃ) ছুরিকাহত হয়ে মৃত্যুশয্যায় পড়লে পরবর্তী খলিফা বাছাইয়ের ভার দিলেন ছয়জনের এক পরিষদের ওপর। সিদ্ধান্ত ঝুলে থাকা অবস্থায় তাঁদের কাউকেই নামাজে ইমামতি করতে দিলেন না, যাতে সামনে দাঁড়িয়ে কেউ বাড়তি সুবিধা না পায়। এই সময়ের জন্য ইমামতির দায়িত্ব দিলেন সুহাইবকে। তিন দিন রাজধানীর জামাতে ইমামতি করলেন বিদেশি টানে কথা বলা এক মুক্তিপ্রাপ্ত বন্দি।",
+          },
+          {
+            en: "It is a small administrative decision and it says a great deal. Umar needed a man with no faction and no ambition, whose neutrality nobody would question, at the most sensitive moment in the state's short history. He picked the man who had already shown, once, on a road out of Makkah, exactly what he was willing to give up.",
+            bn: "প্রশাসনিক ছোট্ট একটা সিদ্ধান্ত, অথচ তা অনেক কিছু বলে দেয়। রাষ্ট্রের সংক্ষিপ্ত ইতিহাসের সবচেয়ে স্পর্শকাতর মুহূর্তে উমরের দরকার ছিল এমন একজন, যাঁর কোনো দল নেই, উচ্চাকাঙ্ক্ষা নেই, আর যাঁর নিরপেক্ষতা নিয়ে কেউ প্রশ্ন তুলবে না। তিনি বেছে নিলেন সেই মানুষটিকে, যিনি মক্কা থেকে বেরিয়ে যাওয়ার পথে একবার দেখিয়ে দিয়েছিলেন, ছেড়ে দিতে তিনি ঠিক কতটা পারেন।",
+          },
+        ],
+      },
+    ],
+  },
+
+  abu_dharr_al_ghifari: {
+    sections: [
+      {
+        h: { en: "A Man from a Tribe of Raiders", bn: "ডাকাত গোত্রের এক মানুষ" },
+        p: [
+          {
+            en: "Jundub ibn Junadah (RA) came from Ghifar, a tribe camped on the caravan road that made its living partly by robbing it. He had already rejected the idols of his people before he heard of Islam. When word reached him that a man in Makkah was claiming prophethood, he sent his brother Unays to find out, was not satisfied with the report, and went himself.",
+            bn: "জুনদুব ইবনে জুনাদা (রাঃ) ছিলেন গিফার গোত্রের, যারা কাফেলার পথের পাশে তাঁবু গেড়ে থাকত আর কিছুটা চলত সেই পথে ডাকাতি করেই। ইসলামের কথা শোনার আগেই তিনি নিজের গোত্রের মূর্তিগুলো ছেড়ে দিয়েছিলেন। মক্কায় একজন নবুয়তের দাবি করছেন — খবরটা পৌঁছালে তিনি ভাই উনাইসকে পাঠালেন খোঁজ নিতে। ফিরে আসা খবরে মন ভরল না, তাই নিজেই রওনা দিলেন।",
+          },
+          {
+            en: "Sahih al-Bukhari 3522 preserves his account of what followed. He had nowhere to stay in Makkah and no one to ask, so he lay in the sacred precinct and lived on Zamzam for a month, growing stronger on it. Ali (RA) noticed the stranger and took him in without questions, and after some nights brought him to the Prophet ﷺ. He accepted Islam on the spot.",
+            bn: "এরপর কী হলো, সহিহ বুখারি ৩৫২২-এ তাঁর নিজের বলা বিবরণ আছে। মক্কায় থাকার জায়গা নেই, জিজ্ঞেস করার মতো কেউ নেই। তাই তিনি হারামের ভেতরেই পড়ে রইলেন, আর এক মাস কাটালেন কেবল জমজম খেয়ে; তাতে শরীর বরং ভালোই হলো। আলি (রাঃ) অচেনা লোকটিকে খেয়াল করে কোনো প্রশ্ন ছাড়াই আশ্রয় দিলেন, আর কয়েক রাত পর নবীজি ﷺ-এর কাছে নিয়ে গেলেন। সেখানেই তিনি ইসলাম গ্রহণ করলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Shouting It at the Ka'bah", bn: "কাবার সামনে চিৎকার" },
+        p: [
+          {
+            en: "The Prophet ﷺ told him to keep it quiet and go back to his people. Abu Dharr answered that by the One in whose hand is my soul, I will shout it among them. He walked into the crowd at the Ka'bah and called out the testimony of faith at the top of his voice. They fell on him and beat him until he was unconscious.",
+            bn: "নবীজি ﷺ তাঁকে বললেন বিষয়টা গোপন রাখতে আর নিজের গোত্রে ফিরে যেতে। আবু যর জবাব দিলেন, যাঁর হাতে আমার প্রাণ তাঁর কসম, আমি ওদের মাঝেই চিৎকার করে বলব। তিনি কাবার ভিড়ের ভেতরে ঢুকে গলা ছেড়ে কালিমা ঘোষণা করলেন। তারা ঝাঁপিয়ে পড়ে তাঁকে মারতে মারতে অজ্ঞান করে ফেলল।",
+          },
+          {
+            en: "Al-Abbas ibn Abd al-Muttalib reached him and pulled the crowd off by telling them what they had forgotten: this man is of Ghifar, and your caravans pass through their country. They let him go. The next day Abu Dharr went back and did exactly the same thing, and was beaten again, and al-Abbas saved him again.",
+            bn: "আব্বাস ইবনে আবদুল মুত্তালিব এসে ভিড় সরিয়ে দিলেন এই কথা মনে করিয়ে দিয়ে, যা তারা ভুলে গিয়েছিল: এ লোক গিফার গোত্রের, আর তোমাদের কাফেলা তো ওদের এলাকা দিয়েই যায়। তারা তাঁকে ছেড়ে দিল। পরদিন আবু যর আবার গেলেন আর হুবহু একই কাজ করলেন। আবারও মার খেলেন, আর আব্বাস আবারও তাঁকে বাঁচালেন।",
+          },
+          {
+            en: "He then went home as he had been told to, and did there what nobody had asked of him: he put Islam before Ghifar, the tribe that lived off the caravan road, and half of them accepted it. The rest came in later. A tribe with that reputation entering the religion before the Hijrah was not a small thing, and it began with one man who could not keep quiet.",
+            bn: "এরপর তাঁকে যেমন বলা হয়েছিল, তিনি নিজের গোত্রেই ফিরে গেলেন। আর সেখানে এমন কাজ করলেন যা কেউ তাঁকে করতে বলেনি: কাফেলার পথে বেঁচে থাকা গিফার গোত্রের সামনে তিনি ইসলাম পেশ করলেন, আর তাদের অর্ধেক তা গ্রহণ করল। বাকিরা এল পরে। ওই বদনামওয়ালা একটা গোত্রের হিজরতের আগেই দ্বীনে ঢুকে পড়া ছোট ঘটনা নয়। আর শুরুটা হয়েছিল এমন একজনকে দিয়ে, যিনি চুপ থাকতে পারতেন না।",
+          },
+        ],
+      },
+      {
+        h: { en: "No One More Truthful", bn: "তাঁর চেয়ে সত্যবাদী কেউ নয়" },
+        p: [
+          {
+            en: "Jami at-Tirmidhi 3801 records the Prophet ﷺ saying that the earth has not carried nor the sky shaded anyone whose speech is more truthful than Abu Dharr. It is an extraordinary thing to say about a living man, and it is a particular kind of praise. He is not called the most learned or the bravest. He is called the one whose word can be relied on absolutely.",
+            bn: "জামে তিরমিজি ৩৮০১-এ আছে, নবীজি ﷺ বলেছেন, আবু যরের চেয়ে সত্যভাষী কাউকে জমিন বহন করেনি আর আসমান ছায়া দেয়নি। জীবিত একজন মানুষ সম্পর্কে এমন কথা বলা অসাধারণ, আর প্রশংসাটাও একেবারে নির্দিষ্ট ধরনের। তাঁকে সবচেয়ে জ্ঞানী বলা হয়নি, সবচেয়ে সাহসীও নয়। বলা হয়েছে, তাঁর কথার ওপর পুরোপুরি ভরসা করা যায়।",
+          },
+          {
+            en: "That quality shaped everything else about him, including the trouble it brought. A man who cannot soften a statement to fit a room is difficult to keep in a room. Abu Dharr said what he held to be true to governors and to the wealthy as readily as to anyone else, and he was never reported to have said something different in private.",
+            bn: "এই গুণটাই তাঁর বাকি সবকিছু গড়ে দিয়েছে, তা থেকে আসা ঝামেলাগুলোসহ। যে মানুষ ঘরের পরিবেশ বুঝে কথা নরম করতে পারে না, তাকে ঘরে ধরে রাখাও কঠিন। যা সত্য বলে মানতেন, আবু যর তা গভর্নরের সামনে আর ধনীদের সামনেও ঠিক ততটাই সহজে বলতেন, যতটা অন্যদের সামনে। আর গোপনে তিনি অন্য কথা বলেছেন, এমন খবর কখনো পাওয়া যায়নি।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Warning About Gold", bn: "সোনা নিয়ে সতর্কতা" },
+        p: [
+          {
+            en: "In his later years he preached hard against hoarded wealth, reciting the warning in 9:34 about those who store up gold and silver and do not spend it in the way of Allah. He held that a Muslim should keep nothing beyond his need while others went without, and he said so in Syria, at a time when the conquests had made a great deal of money available.",
+            bn: "শেষ জীবনে তিনি জমিয়ে রাখা সম্পদের বিরুদ্ধে কঠোর ভাষায় কথা বলতেন, আর পড়তেন ৯:৩৪-এর সতর্কবাণী — যারা সোনা-রুপা জমা করে রাখে আর আল্লাহর পথে ব্যয় করে না তাদের নিয়ে। তাঁর মত ছিল, অন্যরা যখন অভাবে আছে, মুসলিম তখন প্রয়োজনের বেশি কিছু জমিয়ে রাখবে না। কথাটা তিনি বলেছেন সিরিয়ায়, এমন এক সময়ে যখন বিজয়ের ফলে বিপুল অর্থ হাতে এসে গেছে।",
+          },
+          {
+            en: "Other Companions read the same verse as applying to unpaid zakah rather than to all savings, and the disagreement was a genuine one between men of knowledge. He was eventually settled at Rabadha, a spare place outside Madinah, and lived there in the plainness he had been arguing for. Whatever anyone thought of his position, nobody could say he had not applied it to himself first.",
+            bn: "অন্য সাহাবিরা একই আয়াতকে বুঝতেন না-দেওয়া যাকাতের ক্ষেত্রে, সব সঞ্চয়ের ক্ষেত্রে নয়। মতভেদটা ছিল জ্ঞানী মানুষদের মধ্যে সত্যিকারের মতভেদ। শেষ পর্যন্ত তাঁকে মদিনার বাইরে রুক্ষ এক জায়গা রাবাযায় বসতি দেওয়া হয়। যে সাদাসিধে জীবনের পক্ষে তিনি যুক্তি দিয়ে এসেছেন, সেখানে তিনি সেভাবেই থেকেছেন। তাঁর অবস্থান নিয়ে যে যা-ই ভাবুক, কেউ বলতে পারেনি যে তিনি নিজের ওপর তা আগে প্রয়োগ করেননি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Alone at Rabadha", bn: "রাবাযায় একা" },
+        p: [
+          {
+            en: "He died at Rabadha in the year 32 after the Hijrah, away from the city and from the crowds he had spent his life shouting at. The historians record that a small caravan of travellers came upon the burial and stopped to perform it, and that Abdullah ibn Masud (RA) was among them and wept when he saw who it was.",
+            bn: "হিজরি ৩২ সনে তিনি রাবাযায় ইন্তেকাল করেন, শহর থেকে দূরে, আর সেই ভিড় থেকেও দূরে যাদের উদ্দেশে সারা জীবন তিনি গলা তুলেছিলেন। ঐতিহাসিকেরা লিখেছেন, পথ চলতি ছোট এক কাফেলা দাফনের সময় সেখানে এসে পড়ে আর থেমে গিয়ে কাজটা সেরে দেয়। সেই দলে আবদুল্লাহ ইবনে মাসউদ (রাঃ) ছিলেন, আর কে শুয়ে আছেন দেখে তিনি কেঁদে ফেলেন।",
+          },
+          {
+            en: "He had entered Islam almost at the beginning, when the believers could be counted on two hands, and he left it at the edge of a desert with nothing to leave behind. Between those two points he never once modified what he said to suit who was listening, and that, more than any battle, is what his name carries.",
+            bn: "তিনি ইসলামে এসেছিলেন প্রায় গোড়াতেই, যখন মুমিনদের সংখ্যা দুই হাতের আঙুলে গোনা যেত। আর বিদায় নিলেন মরুভূমির কিনারায়, রেখে যাওয়ার মতো কিছুই না রেখে। এই দুই বিন্দুর মাঝখানে কে শুনছে তা দেখে তিনি একবারও নিজের কথা বদলাননি। যেকোনো যুদ্ধের চেয়ে বেশি করে তাঁর নাম এটাই বয়ে বেড়ায়।",
+          },
+        ],
+      },
+    ],
+  },
+
+  khabbab_ibn_al_aratt: {
+    sections: [
+      {
+        h: { en: "A Blacksmith with No Clan", bn: "গোত্রহীন এক কামার" },
+        p: [
+          {
+            en: "Khabbab (RA) was taken captive as a boy and sold in Makkah, where he worked as a blacksmith making swords. He was among the first handful to accept Islam, and he had the one disadvantage that mattered most in that city: no clan of his own to answer for him. A Qurayshi convert had relatives who would object to his being killed. Khabbab had nobody.",
+            bn: "বালক বয়সেই খাব্বাব (রাঃ) বন্দি হন আর মক্কায় বিক্রি হয়ে যান। সেখানে তিনি কামারের কাজ করতেন, তলোয়ার বানাতেন। একেবারে গোড়ার হাতেগোনা মুসলিমদের তিনি একজন। ওই শহরে সবচেয়ে বড় যে দুর্বলতা, সেটাই তাঁর ছিল: জবাবদিহি চাওয়ার মতো নিজের কোনো গোত্র নেই। কুরাইশের কেউ মুসলিম হলে তাকে মেরে ফেললে আপত্তি করার আত্মীয় থাকত। খাব্বাবের কেউ ছিল না।",
+          },
+          {
+            en: "So he took what the protected converts did not. The reports describe him being laid on stones heated in the sun and on burning coals, and held there. He was a metalworker who spent his days over a forge, and his persecutors used fire on him. Years afterwards Umar (RA) asked to see his back, and the marks were still there.",
+            bn: "ফলে সুরক্ষিত নওমুসলিমদের যা সইতে হয়নি, তা সব তাঁর ওপর দিয়েই গেল। বর্ণনাগুলো বলে, তাঁকে রোদে তেতে ওঠা পাথরের ওপর আর জ্বলন্ত কয়লার ওপর শুইয়ে চেপে ধরে রাখা হতো। যে মানুষ দিনভর হাপরের সামনে ধাতু পেটাতেন, তাঁর ওপরই অত্যাচারীরা ব্যবহার করল আগুন। বহু বছর পরে উমর (রাঃ) তাঁর পিঠ দেখতে চেয়েছিলেন; দাগগুলো তখনো ছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "You Are Being Hasty", bn: "তোমরা তাড়াহুড়ো করছ" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 3612 records that Khabbab and others came to the Prophet ﷺ while he was resting in the shade of the Ka'bah with his cloak folded under his head. They asked him whether he would not seek help for them, whether he would not supplicate for them. What they got was not comfort. It was history.",
+            bn: "সহিহ বুখারি ৩৬১২-এ আছে, খাব্বাব ও আরও কজন নবীজি ﷺ-এর কাছে এলেন। তিনি তখন কাবার ছায়ায় বিশ্রাম নিচ্ছেন, মাথার নিচে ভাঁজ করা চাদর। তাঁরা জিজ্ঞেস করলেন, আপনি কি আমাদের জন্য সাহায্য চাইবেন না? আমাদের জন্য দোয়া করবেন না? তাঁরা সান্ত্বনা পেলেন না। পেলেন ইতিহাস।",
+          },
+          {
+            en: "He told them of men before them who were put in a pit and sawn in two down the middle, and whose flesh was raked from the bone with iron combs, and none of it turned them from their religion. Then the promise: Allah will complete this matter until a rider goes from Sana to Hadramawt fearing none but Allah, and the wolf for his sheep. But you are being hasty.",
+            bn: "তিনি তাঁদের বললেন আগের যুগের সেই মানুষদের কথা, যাঁদের গর্তে ফেলে মাথা থেকে করাত দিয়ে দুভাগ করা হতো, আর লোহার চিরুনি দিয়ে হাড় থেকে মাংস ছাড়িয়ে নেওয়া হতো — তবু কেউ দ্বীন ছাড়েনি। এরপর এল প্রতিশ্রুতি: আল্লাহ এ কাজ পূর্ণ করবেনই, এমনকি একজন আরোহী সানআ থেকে হাদরামাউত যাবে আল্লাহ ছাড়া কাউকে ভয় না করে, আর নিজের ভেড়ার জন্য নেকড়ে ছাড়া। তবে তোমরা তাড়াহুড়ো করছ।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Debtor Who Mocked Him", bn: "যে ঋণগ্রস্ত তাঁকে উপহাস করল" },
+        p: [
+          {
+            en: "Al-As ibn Wail owed Khabbab money for work he had done and refused to pay. Sahih al-Bukhari 2091 records the exchange: he told Khabbab he would not pay until Khabbab disbelieved in Muhammad. Khabbab answered that he would not disbelieve until al-As died and was raised again. Al-As said in that case he would have wealth and children there, and would settle up then.",
+            bn: "খাব্বাবের করা কাজের মজুরি আস ইবনে ওয়ায়েলের কাছে পাওনা ছিল, আর সে দিতে অস্বীকার করল। সহিহ বুখারি ২০৯১-এ কথাবার্তাটা আছে: সে খাব্বাবকে বলল, মুহাম্মদকে অস্বীকার না করা পর্যন্ত আমি দেব না। খাব্বাব জবাব দিলেন, তুমি মরে আবার জীবিত না হওয়া পর্যন্ত আমি অস্বীকার করব না। আস বলল, তাহলে সেখানে আমার সম্পদ আর সন্তান থাকবে, তখনই শোধ করে দেব।",
+          },
+          {
+            en: "The mockery was answered from above him. The passage beginning at 19:77 came down about that conversation, asking whether he has seen the one who disbelieved in Our verses and said, I will surely be given wealth and children. A workman's unpaid wages, and a rich man's joke about the resurrection, are preserved in the Quran because of who was owed the money.",
+            bn: "উপহাসের জবাব এল ওপর থেকে। ওই কথোপকথনকে ঘিরেই নাজিল হয় ১৯:৭৭ থেকে শুরু হওয়া অংশটি, যেখানে জিজ্ঞেস করা হয়েছে — তুমি কি তাকে দেখেছ, যে আমাদের আয়াত অস্বীকার করে বলে, আমাকে অবশ্যই সম্পদ আর সন্তান দেওয়া হবে? এক শ্রমিকের বকেয়া মজুরি আর এক ধনীর পুনরুত্থান নিয়ে ঠাট্টা কুরআনে ধরা রইল, কেবল পাওনাদার কে ছিলেন সেই কারণে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Teacher in the House", bn: "সেই ঘরের শিক্ষক" },
+        p: [
+          {
+            en: "Ibn Ishaq places him in one of the best-known scenes in the sirah. Khabbab was inside the house of Fatimah bint al-Khattab and her husband, teaching them the opening of Surah Ta-Ha, where 20:14 declares that there is no deity except Allah, when Umar ibn al-Khattab arrived at the door with a sword and murder in mind. Khabbab hid.",
+            bn: "ইবনে ইসহাক তাঁকে সিরাতের সবচেয়ে পরিচিত দৃশ্যগুলোর একটিতে দাঁড় করিয়ে দেন। খাব্বাব তখন ফাতিমা বিনতে খাত্তাব ও তাঁর স্বামীর ঘরে বসে তাঁদের সূরা তা-হার শুরুর অংশ পড়াচ্ছেন, যেখানে ২০:১৪ ঘোষণা করছে আল্লাহ ছাড়া কোনো ইলাহ নেই। ঠিক তখনই উমর ইবনুল খাত্তাব তলোয়ার হাতে, হত্যার নিয়ত নিয়ে দরজায় এসে দাঁড়ালেন। খাব্বাব লুকিয়ে পড়লেন।",
+          },
+          {
+            en: "When the page had been read and Umar was shaken by it, Khabbab came out from where he was and told him that he hoped Allah had answered a supplication of the Prophet ﷺ through him, for he had heard him ask Allah the day before to strengthen Islam with one of two men, and Umar was one of them. The tortured man was the first to tell Umar what he had become.",
+            bn: "পাতাটা পড়া হয়ে গেছে, উমর তখন নাড়া খেয়ে গেছেন। খাব্বাব লুকানো জায়গা থেকে বেরিয়ে এসে বললেন, আমার আশা, আল্লাহ আপনার মাধ্যমেই নবীজি ﷺ-এর একটি দোয়া কবুল করেছেন। কারণ আগের দিনই তিনি শুনেছেন, নবীজি ﷺ দুজনের একজনকে দিয়ে ইসলামকে শক্তিশালী করার দোয়া করেছেন, আর উমর তাঁদের একজন। উমর কী হয়ে উঠেছেন, তা সবার আগে তাঁকে বলে দিলেন সেই নির্যাতিত মানুষটিই।",
+          },
+        ],
+      },
+      {
+        h: { en: "Living to See It", bn: "চোখে দেখে যাওয়া" },
+        p: [
+          {
+            en: "He lived through the migration and the battles and into the conquests, and the promise made in the shade of the Ka'bah came true in his lifetime. When his share of the wealth of the conquered lands reached him, the reports describe him weeping over it, saying that his companions had gone before him and taken nothing from this world, and that he had been given what he did not know where to put.",
+            bn: "তিনি হিজরত দেখেছেন, যুদ্ধ দেখেছেন, বিজয়ের যুগও পেয়েছেন। কাবার ছায়ায় দেওয়া সেই প্রতিশ্রুতি তাঁর জীবদ্দশাতেই সত্য হয়ে ওঠে। বিজিত অঞ্চলের সম্পদ থেকে তাঁর ভাগ যখন হাতে এল, বর্ণনাগুলো বলে তিনি তা দেখে কেঁদেছিলেন। বলেছিলেন, আমার সঙ্গীরা আগে চলে গেছেন, দুনিয়া থেকে কিছুই নিয়ে যাননি; আর আমাকে দেওয়া হলো এত কিছু যে কোথায় রাখব বুঝতে পারছি না।",
+          },
+          {
+            en: "He died at Kufa in the year 37, and Ali (RA) prayed over him. A boy sold into a strange city, who had no relatives to keep him alive and no reason beyond conviction to hold on, was buried by a caliph in a Muslim garrison town that had not existed when his ordeal began.",
+            bn: "হিজরি ৩৭ সনে তিনি কুফায় ইন্তেকাল করেন, আর আলি (রাঃ) তাঁর জানাজা পড়ান। অচেনা এক শহরে বিক্রি হয়ে যাওয়া একটা বালক, যাঁকে বাঁচিয়ে রাখার মতো কোনো আত্মীয় ছিল না, আর দৃঢ় বিশ্বাস ছাড়া ধরে থাকার কোনো কারণও ছিল না — তাঁকে দাফন করলেন এক খলিফা, এমন এক মুসলিম সেনানগরে, যা তাঁর দুর্ভোগ শুরুর সময় ছিলই না।",
+          },
+        ],
+      },
+    ],
+  },
+  al_miqdad_ibn_amr: {
+    sections: [
+      {
+        h: { en: "Two Names for One Man", bn: "এক মানুষ, দুই নাম" },
+        p: [
+          {
+            en: "He was al-Miqdad ibn Amr, of the tribe of Bahra, but he is called al-Miqdad ibn al-Aswad in a great many reports because al-Aswad ibn Abd Yaghuth of Makkah had taken him in and the adoption gave him the name. When the Quran later forbade attributing sons to men who had not fathered them, he went back to being ibn Amr, and both names remained in circulation among those who had known him under each.",
+            bn: "তিনি মিকদাদ ইবনে আমর, বাহরা গোত্রের মানুষ। তবু বহু বর্ণনায় তাঁকে বলা হয় মিকদাদ ইবনুল আসওয়াদ, কারণ মক্কার আসওয়াদ ইবনে আবদে ইয়াগুস তাঁকে পালকপুত্র করে নিয়েছিলেন আর সেই সূত্রেই নামটা এসেছিল। পরে কুরআন যখন জন্মদাতা নন এমন কারও নামে সন্তানকে ডাকতে নিষেধ করল, তিনি আবার ইবনে আমর হয়ে গেলেন। যাঁরা তাঁকে যে নামে চিনতেন, তাঁদের মুখে দুটো নামই চালু রয়ে গেল।",
+          },
+          {
+            en: "He was among the earliest to accept Islam in Makkah, at a stage when the whole community could gather in one room, and he took the persecution that came with that. He emigrated to Abyssinia and came back. By the time the Muslims were settled in Madinah he was an experienced man in a young movement, and one of the very few of them who could fight from horseback.",
+            bn: "মক্কায় একেবারে গোড়ার দিকেই তিনি ইসলাম গ্রহণ করেন, তখন গোটা মুসলিম সমাজ এক ঘরেই বসে যেত। তার সঙ্গে যে নির্যাতন আসে, তা-ও তিনি সহ্য করেছেন। তিনি হাবশায় হিজরত করেন, পরে ফিরে আসেন। মুসলিমরা যখন মদিনায় থিতু হচ্ছেন, তিনি তখন এক তরুণ আন্দোলনের ভেতরে অভিজ্ঞ একজন মানুষ, আর তাঁদের হাতেগোনা কজনের একজন যিনি ঘোড়ার পিঠ থেকে লড়তে জানতেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Not as the People of Musa Said", bn: "মুসার কওম যা বলেছিল, তা নয়" },
+        p: [
+          {
+            en: "On the eve of Badr the Prophet ﷺ put the decision to his companions. The Muslims had come out expecting a caravan and were now facing an army, and it was a fair question whether they should engage at all. Sahih al-Bukhari 3952 records what al-Miqdad said, in a report from Abdullah ibn Masud (RA) who said he had witnessed a scene from al-Miqdad that he would rather have to his name than anything else in the world.",
+            bn: "বদরের আগের রাতে নবীজি ﷺ সিদ্ধান্তটা সাহাবিদের সামনে রাখলেন। মুসলিমরা বেরিয়েছিলেন কাফেলার আশায়, আর এখন সামনে দাঁড়িয়ে একটা বাহিনী। আদৌ যুদ্ধে জড়ানো ঠিক হবে কি না, প্রশ্নটা যুক্তিসংগত ছিল। সহিহ বুখারি ৩৯৫২-এ মিকদাদের কথাটা আছে, আর তা বর্ণনা করেছেন আবদুল্লাহ ইবনে মাসউদ (রাঃ), যিনি বলেছেন — মিকদাদের কাছ থেকে তিনি এমন একটি দৃশ্য দেখেছেন, যা নিজের নামে থাকলে দুনিয়ার আর সব কিছুর চেয়ে তাঁর বেশি প্রিয় হতো।",
+          },
+          {
+            en: "Al-Miqdad said they would not say to him what the people of Musa said to Musa in 5:24, go you and your Lord and fight, we are sitting here. They would fight on his right and on his left and in front of him and behind him. Ibn Masud said the face of the Prophet ﷺ lit up at it. A man had answered an unspoken fear by naming the worst possible answer and refusing it out loud.",
+            bn: "মিকদাদ বললেন, ৫:২৪-এ মুসার কওম মুসাকে যা বলেছিল, আমরা আপনাকে তা বলব না। তারা বলেছিল, তুমি আর তোমার রব গিয়ে যুদ্ধ করো, আমরা এখানেই বসে রইলাম। আমরা লড়ব আপনার ডানে, আপনার বাঁয়ে, আপনার সামনে আর আপনার পেছনে। ইবনে মাসউদ বলেছেন, এ কথায় নবীজি ﷺ-এর মুখ উজ্জ্বল হয়ে উঠেছিল। না-বলা একটা ভয়ের জবাবে একজন মানুষ সবচেয়ে খারাপ জবাবটার নাম নিয়ে সেটাকে সশব্দে নাকচ করে দিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Horseman Among Foot Soldiers", bn: "পদাতিকদের মাঝে এক অশ্বারোহী" },
+        p: [
+          {
+            en: "The Muslims at Badr were almost entirely on foot, with a handful of camels shared between them and hardly a horse in the army. The reports name al-Miqdad among the very few who rode. In a battle decided by lines holding and breaking, a mounted man carried a weight out of all proportion to his number, and he is remembered in the sources as the horseman of that day.",
+            bn: "বদরে মুসলিমরা প্রায় সবাই ছিলেন পদাতিক; কয়েকটি উট ভাগাভাগি করে চড়া হচ্ছিল, আর ঘোড়া বলতে গেলে ছিলই না। বর্ণনাগুলো যে অল্প কজন ঘোড়ায় চড়েছিলেন তাঁদের মধ্যে মিকদাদের নাম রাখে। যে যুদ্ধের ফয়সালা হয় কাতার টিকে থাকা আর ভেঙে পড়ার ওপর, সেখানে একজন অশ্বারোহীর ওজন সংখ্যার তুলনায় অনেক বেশি। সূত্রগুলো তাঁকে সেদিনের অশ্বারোহী বলেই মনে রেখেছে।",
+          },
+          {
+            en: "He fought at Uhud and at the Trench and in the campaigns that followed, and later in the wars outside Arabia. Jami at-Tirmidhi 3718 records that the Prophet ﷺ said Allah had commanded him to love four men and had told him that He Himself loved them, and al-Miqdad is named among them. It is a short list, and he is on it beside Salman, Abu Dharr and Ali.",
+            bn: "তিনি লড়েছেন উহুদে, খন্দকে, তারপরের অভিযানগুলোতে, আর পরে আরবের বাইরের যুদ্ধেও। জামে তিরমিজি ৩৭১৮-এ আছে, নবীজি ﷺ বলেছেন, আল্লাহ তাঁকে চারজনকে ভালোবাসার আদেশ দিয়েছেন আর জানিয়েছেন তিনি নিজেও তাঁদের ভালোবাসেন। মিকদাদের নাম সেখানে আছে। তালিকাটা ছোট, আর সেখানে তিনি আছেন সালমান, আবু যর ও আলির পাশে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Warning He Gave Himself", bn: "নিজেকে দেওয়া তাঁর সতর্কবাণী" },
+        p: [
+          {
+            en: "He is also remembered for a habit of self-suspicion that the later scholars found remarkable in a man of his record. He would say that he did not envy anyone until he saw how they ended, because a man may work for a long time and then be turned about at the last. Having been praised in his own lifetime, he refused to treat the praise as a verdict.",
+            bn: "তাঁর মধ্যে নিজেকে নিয়ে সন্দেহ রাখার একটা অভ্যাস ছিল, যা তাঁর মতো রেকর্ডের মানুষের বেলায় পরের যুগের আলিমদের কাছে বিস্ময়কর ঠেকেছে। তিনি বলতেন, কারও শেষটা কেমন হলো তা না দেখা পর্যন্ত আমি তাকে ঈর্ষা করি না; কারণ মানুষ দীর্ঘদিন আমল করেও শেষ বেলায় ঘুরে যেতে পারে। জীবদ্দশাতেই প্রশংসা পেয়েছেন, তবু প্রশংসাটাকে তিনি চূড়ান্ত রায় বলে ধরে নেননি।",
+          },
+          {
+            en: "That temper fits the man who spoke at Badr. He had not offered a boast about what he would do; he had named the shameful alternative and then closed the door on it. Somebody who thinks that way about a coming battle is likely to think the same way about his own record, and the sources show that he did.",
+            bn: "এই মেজাজটা বদরে কথা বলা মানুষটার সঙ্গেই মেলে। তিনি নিজে কী করবেন তা নিয়ে বড়াই করেননি; বরং লজ্জাজনক বিকল্পটার নাম নিয়ে সেই দরজা বন্ধ করে দিয়েছিলেন। আসন্ন যুদ্ধ নিয়ে যিনি এভাবে ভাবেন, নিজের আমলনামা নিয়েও তাঁর একইভাবে ভাবার কথা। সূত্রগুলো দেখায়, তিনি তা-ই ভাবতেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "What the Speech Actually Did", bn: "কথাটা আসলে যা করল" },
+        p: [
+          {
+            en: "It is worth being precise about the effect of what he said at Badr. The Prophet ﷺ was not asking whether the Muhajirun would obey him; that was settled. He was asking whether an army short of everything would walk into a battle it had not come for. Al-Miqdad spoke first and removed the possibility of hesitation from the room before anyone else had to weigh it.",
+            bn: "বদরে তাঁর কথাটা আসলে কী কাজ করেছিল, তা নির্দিষ্ট করে বলা দরকার। নবীজি ﷺ জানতে চাননি মুহাজিররা তাঁর কথা মানবেন কি না; ওটা আগেই মীমাংসা হয়ে গেছে। তিনি জানতে চাইছিলেন, সব কিছুতে টানাটানিতে থাকা একটা বাহিনী এমন এক যুদ্ধে ঢুকবে কি না, যার জন্য তারা বেরোয়নি। মিকদাদ সবার আগে কথা বলে সংশয়ের সম্ভাবনাটাই ঘর থেকে সরিয়ে দিলেন, আর কাউকে তা ওজন করতেই হলো না।",
+          },
+          {
+            en: "He also chose his words carefully. Quoting 5:24 put the alternative in front of everyone in the worst light available, as the answer of a people the Quran holds up as a warning. Nobody who heard it wanted to be the one who said the thing the Children of Israel had said. It was a speech built to close a question rather than to open one.",
+            bn: "শব্দগুলোও তিনি বেছে নিয়েছিলেন মেপে। ৫:২৪ উদ্ধৃত করে তিনি বিকল্পটাকে সবার সামনে সবচেয়ে খারাপ চেহারায় দাঁড় করিয়ে দিলেন — এমন এক জাতির জবাব হিসেবে, কুরআন যাদের সতর্কবার্তা হিসেবে তুলে ধরে। যাঁরা শুনলেন, তাঁদের কেউই বনি ইসরাইলের বলা কথাটা বলার লোক হতে চাইলেন না। কথাটা সাজানো হয়েছিল প্রশ্ন খোলার জন্য নয়, প্রশ্ন বন্ধ করার জন্য।",
+          },
+        ],
+      },
+    ],
+  },
+
+  usama_ibn_zayd: {
+    sections: [
+      {
+        h: { en: "The Beloved, Son of the Beloved", bn: "প্রিয়জন, প্রিয়জনের পুত্র" },
+        p: [
+          {
+            en: "Usama (RA) was the son of Zayd ibn Harithah (RA), the freed slave the Prophet ﷺ had raised as his own, and of Umm Ayman (RA), who had cared for the Prophet ﷺ when he was a child. He grew up inside the household. Sahih al-Bukhari 3730 records Abdullah ibn Umar (RA) saying plainly that Usama was the most beloved of people to the Messenger of Allah ﷺ, and the Companions called him the beloved, son of the beloved.",
+            bn: "উসামা (রাঃ) ছিলেন যায়েদ ইবনে হারিসা (রাঃ)-এর ছেলে; নবীজি ﷺ সেই মুক্তিপ্রাপ্ত দাসকে নিজের সন্তানের মতো করে বড় করেছিলেন। তাঁর মা উম্মে আইমান (রাঃ) নবীজি ﷺ-এর শিশুকালে তাঁকে দেখাশোনা করেছেন। উসামা বড় হয়েছেন ওই ঘরের ভেতরেই। সহিহ বুখারি ৩৭৩০-এ আবদুল্লাহ ইবনে উমর (রাঃ) সোজাসুজি বলেছেন, রাসূলুল্লাহ ﷺ-এর কাছে উসামাই ছিলেন সবচেয়ে প্রিয়। সাহাবিরা তাঁকে ডাকতেন প্রিয়জনের পুত্র প্রিয়জন বলে।",
+          },
+          {
+            en: "Bukhari 3735 keeps a picture of what that meant in practice. The Prophet ﷺ would sit Usama on one thigh and al-Hasan ibn Ali (RA) on the other, hold them both, and pray that Allah have mercy on them, for he had mercy on them. One of the two boys was his grandson. The other was the son of a man who had been bought in a slave market.",
+            bn: "বুখারি ৩৭৩৫-এ বাস্তবে এর মানেটা কী, তার একটা ছবি রাখা আছে। নবীজি ﷺ এক হাঁটুতে বসাতেন উসামাকে, আরেক হাঁটুতে হাসান ইবনে আলি (রাঃ)-কে; দুজনকেই বুকে জড়িয়ে দোয়া করতেন, হে আল্লাহ, এদের প্রতি দয়া করুন, কারণ আমি এদের প্রতি দয়া করি। দুই বালকের একজন তাঁর নাতি। অন্যজন এমন একজনের ছেলে, যাঁকে একদিন দাসের হাটে কেনা হয়েছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "Did You Open His Heart", bn: "তুমি কি তার অন্তর চিরে দেখেছ" },
+        p: [
+          {
+            en: "On a raid against al-Huraqat, Usama overtook a man who, when the spear was on him, said there is no god but Allah. Usama killed him anyway, judging that the words were said to escape the weapon. Sahih al-Bukhari 4269 and Sahih Muslim 96 record the Prophet's ﷺ reaction, and it is the sharpest rebuke recorded of him toward someone he loved.",
+            bn: "হুরাকাতের বিরুদ্ধে এক অভিযানে উসামা এক ব্যক্তিকে ধরে ফেলেন, আর বর্শা তার ওপর উঠতেই লোকটি বলে ওঠে, আল্লাহ ছাড়া কোনো ইলাহ নেই। উসামা তবু তাকে হত্যা করেন, ধরে নিয়ে যে কথাটা অস্ত্র থেকে বাঁচার জন্যই বলা। সহিহ বুখারি ৪২৬৯ ও সহিহ মুসলিম ৯৬-এ নবীজি ﷺ-এর প্রতিক্রিয়া আছে; যাঁকে তিনি ভালোবাসতেন, তাঁর প্রতি তাঁর সবচেয়ে কড়া ভর্ৎসনা এটাই।",
+          },
+          {
+            en: "Did you kill him after he said there is no god but Allah? Usama explained that he had only said it out of fear. The Prophet ﷺ said, did you open his heart so that you would know whether he said it truly or not? He repeated it until Usama said he wished he had not become Muslim before that day, so that this would not be on his record.",
+            bn: "সে লা ইলাহা ইল্লাল্লাহ বলার পরও তুমি তাকে হত্যা করলে? উসামা বোঝাতে চাইলেন, লোকটি ভয়ের কারণেই কথাটা বলেছিল। নবীজি ﷺ বললেন, তুমি কি তার অন্তর চিরে দেখেছিলে, সে সত্যি বলেছে কি না? কথাটা তিনি বারবার বলতে থাকলেন, শেষে উসামা বললেন, ইচ্ছে হচ্ছিল সেদিনের আগে যেন আমি মুসলিমই না হতাম, তাহলে এ বোঝা আমার খাতায় উঠত না।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Rule It Established", bn: "যে নিয়ম এতে দাঁড়িয়ে গেল" },
+        p: [
+          {
+            en: "The incident became one of the foundations of how Muslims are permitted to judge one another. The testimony of faith is taken at its word. A man's motive for saying it is not available to anyone else, and treating a suspected motive as if it were a known fact is exactly what the Prophet ﷺ refused to allow, in the case of a man killed on a battlefield during a raid.",
+            bn: "মুসলিমরা একে অন্যকে কীভাবে বিচার করতে পারে, ঘটনাটা তার একটা ভিত্তি হয়ে দাঁড়াল। কালিমাকে তার বাহ্যিক অর্থেই নিতে হবে। কেউ কোন নিয়তে তা বলেছে, তা অন্য কারও জানার সুযোগ নেই। সন্দেহ করা নিয়তকে জানা সত্য বলে ধরে নেওয়া — নবীজি ﷺ ঠিক এটাই মানতে অস্বীকার করেছেন, তা-ও এমন এক ঘটনায় যেখানে লোকটি নিহত হয়েছিল অভিযানের ময়দানে।",
+          },
+          {
+            en: "Usama carried it for the rest of his life, and it shaped his conduct decades later. When the Muslims fell into civil war he would not take a side and would not fight, and he is reported to have given as his reason that he would not raise a weapon against a man who said there is no god but Allah. He had learned the lesson in the hardest possible way and he did not unlearn it.",
+            bn: "উসামা সারা জীবন এ বোঝা বয়ে বেড়িয়েছেন, আর দশকের পর দশক পরেও তা তাঁর আচরণ গড়ে দিয়েছে। মুসলিমরা যখন গৃহযুদ্ধে জড়িয়ে পড়লেন, তিনি কোনো পক্ষ নেননি, অস্ত্রও তোলেননি। বর্ণিত আছে, কারণ হিসেবে তিনি বলতেন, যে মানুষ লা ইলাহা ইল্লাল্লাহ বলে তার বিরুদ্ধে তিনি অস্ত্র তুলবেন না। শিক্ষাটা তিনি পেয়েছিলেন সবচেয়ে কঠিন পথে, আর তা তিনি কখনো ভোলেননি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Long After Everyone Else", bn: "বাকি সবার অনেক পরে" },
+        p: [
+          {
+            en: "He outlived almost everyone in this story. Zayd his father had been killed at Mutah before he was grown; the Prophet ﷺ died when he was about eighteen; the caliphs he had known went one after another. He settled outside Madinah and lived quietly into the reign of Muawiyah, teaching what he had seen and declining every invitation to take part in the quarrels.",
+            bn: "এই কাহিনির প্রায় সবার চেয়ে বেশি দিন তিনি বেঁচেছিলেন। তাঁর বাবা যায়েদ মুতায় শহিদ হন তাঁর বড় হওয়ার আগেই; নবীজি ﷺ ইন্তেকাল করেন যখন তাঁর বয়স আঠারোর কাছাকাছি; যেসব খলিফাকে তিনি চিনতেন, তাঁরাও একে একে চলে গেলেন। তিনি মদিনার বাইরে বসতি গড়েন আর মুআবিয়ার আমল পর্যন্ত নিরিবিলি জীবন কাটান — যা দেখেছেন তা শেখাতেন, আর বিবাদে জড়ানোর সব আমন্ত্রণ ফিরিয়ে দিতেন।",
+          },
+          {
+            en: "The shape of his life is unusual among the Companions. He was raised at the centre, given command of an army before he had a beard worth the name, and then spent fifty years refusing to use any of it. What he had been taught on a raid in his youth turned out to be the thing he was still applying when he was an old man.",
+            bn: "সাহাবিদের মধ্যে তাঁর জীবনের গড়নটা একটু অন্যরকম। তিনি বড় হয়েছেন একেবারে কেন্দ্রে, দাড়ি ভালো করে ওঠার আগেই বাহিনীর নেতৃত্ব পেয়েছেন, আর তারপর পঞ্চাশ বছর ধরে সেসবের কিছুই কাজে লাগাতে অস্বীকার করেছেন। তারুণ্যে এক অভিযানে যে শিক্ষাটা তিনি পেয়েছিলেন, বৃদ্ধ বয়সেও তিনি সেটাই প্রয়োগ করে যাচ্ছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "An Army for a Teenager", bn: "এক কিশোরের হাতে বাহিনী" },
+        p: [
+          {
+            en: "In his final illness the Prophet ﷺ ordered an expedition north toward Byzantine territory and put Usama in command, over an army that included senior Muhajirun and Ansar. Usama was around eighteen. People objected to his youth, and Sahih al-Bukhari 4469 records the answer: if you criticise his command, you criticised the command of his father before him, and by Allah he was fit for it, and this one is among the most beloved of people to me.",
+            bn: "শেষ অসুস্থতার সময় নবীজি ﷺ বাইজেন্টাইন এলাকার দিকে একটি অভিযানের নির্দেশ দেন আর তার সেনাপতি করেন উসামাকে, যে বাহিনীতে ছিলেন প্রবীণ মুহাজির ও আনসাররাও। উসামার বয়স তখন আঠারোর কাছাকাছি। তাঁর কম বয়স নিয়ে আপত্তি উঠল, আর সহিহ বুখারি ৪৪৬৯-এ জবাবটা আছে: তোমরা যদি তার নেতৃত্বের সমালোচনা করো, তবে এর আগে তার বাবার নেতৃত্বেরও সমালোচনা করেছিলে; আল্লাহর কসম, সে তার যোগ্য ছিল, আর এ আমার কাছে সবচেয়ে প্রিয় মানুষদের একজন।",
+          },
+          {
+            en: "The Prophet ﷺ died before the army marched, and Arabia broke into revolt. Abu Bakr (RA) was urged from every side to keep the troops at home. He refused, saying he would not untie a banner the Messenger of Allah ﷺ had tied, and sent the young man out with his army as ordered. It returned safely, and the effect on the tribes watching was considerable.",
+            bn: "বাহিনী রওনা দেওয়ার আগেই নবীজি ﷺ ইন্তেকাল করেন, আর গোটা আরব বিদ্রোহে ফেটে পড়ে। আবু বকর (রাঃ)-কে চারদিক থেকে চাপ দেওয়া হলো সৈন্যদের ঘরে রেখে দিতে। তিনি রাজি হননি; বলেছেন, রাসূলুল্লাহ ﷺ যে পতাকা বেঁধে দিয়েছেন তা আমি খুলব না। নির্দেশমতোই তিনি তরুণটিকে বাহিনীসহ পাঠিয়ে দিলেন। বাহিনী নিরাপদে ফিরে এল, আর তাকিয়ে থাকা গোত্রগুলোর ওপর এর প্রভাব পড়ল বিরাট।",
+          },
+        ],
+      },
+    ],
+  },
+
+  abdullah_ibn_umar: {
+    sections: [
+      {
+        h: { en: "Presented and Sent Back", bn: "হাজির হলেন, ফিরে গেলেন" },
+        p: [
+          {
+            en: "Abdullah ibn Umar (RA) migrated to Madinah as a boy with his father and grew up entirely inside the community the Prophet ﷺ was building. Sahih al-Bukhari 2664 records his own account of trying to enlist: he was presented on the day of Uhud at fourteen and was not permitted, and presented again on the day of the Trench at fifteen and was permitted. Two years of waiting, decided by one year of age.",
+            bn: "আবদুল্লাহ ইবনে উমর (রাঃ) বালক বয়সেই বাবার সঙ্গে মদিনায় হিজরত করেন আর বড় হন নবীজি ﷺ-এর গড়া সমাজের ভেতরেই। যুদ্ধে যাওয়ার চেষ্টা নিয়ে তাঁর নিজের বলা কথাটা সহিহ বুখারি ২৬৬৪-এ আছে: উহুদের দিন চৌদ্দ বছর বয়সে তাঁকে হাজির করা হয়, অনুমতি মেলেনি; খন্দকের দিন পনেরো বছর বয়সে আবার হাজির করা হয়, তখন অনুমতি মিলল। দুই বছরের অপেক্ষা, মীমাংসা হলো এক বছর বয়স দিয়ে।",
+          },
+          {
+            en: "That report became a legal benchmark. Generations of jurists cited it when fixing the age at which a young person is treated as an adult in obligations and liabilities, and they cited it because Ibn Umar had preserved his own rejection with the ages attached. He did not report the day he was accepted without also reporting the day he was turned away.",
+            bn: "ওই বর্ণনাটাই পরে আইনি মানদণ্ড হয়ে গেল। দায়িত্ব ও দায়ভারের ক্ষেত্রে কোন বয়স থেকে একজন তরুণকে প্রাপ্তবয়স্ক ধরা হবে, তা ঠিক করতে যুগে যুগে ফকিহরা এটি উদ্ধৃত করেছেন। আর উদ্ধৃত করতে পেরেছেন কারণ ইবনে উমর নিজের প্রত্যাখ্যাত হওয়ার কথাটা বয়সসহ লিখিয়ে রেখে গেছেন। যেদিন গ্রহণ করা হলো সেদিনের কথা তিনি বলেননি, যেদিন ফিরিয়ে দেওয়া হয়েছিল সেদিনের কথা বাদ দিয়ে।",
+          },
+        ],
+      },
+      {
+        h: { en: "What an Excellent Man", bn: "কতই না ভালো মানুষ" },
+        p: [
+          {
+            en: "As a young unmarried man he slept in the mosque, and Sahih al-Bukhari 3739 and Sahih Muslim 2479 record a dream he had of two angels and the Fire. His sister Hafsa (RA) told the Prophet ﷺ of it, and the Prophet ﷺ said what an excellent man Abdullah is, if only he prayed at night. Salim reported that after that, Abdullah slept only a little of the night.",
+            bn: "অবিবাহিত তরুণ বয়সে তিনি মসজিদেই ঘুমাতেন। সহিহ বুখারি ৩৭৩৯ ও সহিহ মুসলিম ২৪৭৯-এ তাঁর দেখা একটা স্বপ্নের কথা আছে, দুজন ফেরেশতা আর জাহান্নাম নিয়ে। তাঁর বোন হাফসা (রাঃ) স্বপ্নটা নবীজি ﷺ-কে বলেন, আর নবীজি ﷺ বলেন, আবদুল্লাহ কতই না ভালো মানুষ, যদি সে রাতে নামাজ পড়ত। সালিম বলেছেন, এরপর থেকে আবদুল্লাহ রাতের সামান্য অংশই ঘুমাতেন।",
+          },
+          {
+            en: "One conditional clause, spoken once, reorganised the rest of a man's life. He was not commanded and he was not scolded. He was told what he was missing, and he closed the gap and kept it closed for another sixty years. It is the clearest example in the books of how a single sentence from the Prophet ﷺ could settle into somebody permanently.",
+            bn: "একটামাত্র শর্তসাপেক্ষ বাক্য, একবার বলা — আর তাতেই একজন মানুষের বাকি জীবনটা নতুন করে সাজিয়ে গেল। তাঁকে হুকুম দেওয়া হয়নি, বকাও দেওয়া হয়নি। কেবল বলে দেওয়া হয়েছে কীসের ঘাটতি আছে। তিনি সেই ঘাটতি পূরণ করলেন আর পরের ষাট বছর তা পূরণ করেই রাখলেন। নবীজি ﷺ-এর একটা বাক্য মানুষের ভেতরে কীভাবে স্থায়ীভাবে বসে যেতে পারে, কিতাবগুলোতে তার সবচেয়ে পরিষ্কার উদাহরণ এটাই।",
+          },
+        ],
+      },
+      {
+        h: { en: "Following the Footsteps", bn: "পায়ের চিহ্ন ধরে চলা" },
+        p: [
+          {
+            en: "His imitation of the Sunnah went past what most people would attempt. His freedman Nafi reported that on journeys Ibn Umar would turn his camel aside to pray at the exact spots where he had seen the Prophet ﷺ pray, would stop under the same tree, and would pour water at the same place. Some of his contemporaries thought it excessive, and said so.",
+            bn: "সুন্নাহ অনুসরণে তিনি এমন দূর পর্যন্ত যেতেন, যতটা বেশিরভাগ মানুষ চেষ্টাই করে না। তাঁর মুক্তিপ্রাপ্ত দাস নাফি বলেছেন, সফরে ইবনে উমর উট ঘুরিয়ে ঠিক সেই জায়গাগুলোতে নামাজ পড়তেন যেখানে নবীজি ﷺ-কে পড়তে দেখেছেন, একই গাছের নিচে থামতেন, একই জায়গায় পানি ঢালতেন। তাঁর সমসাময়িক কেউ কেউ একে বাড়াবাড়ি মনে করতেন, আর মুখে বলেও ফেলতেন।",
+          },
+          {
+            en: "He was not making a legal claim that these places were sacred. He was a man who had watched someone he loved do a thing in a particular spot and could not bring himself to pass it by. The habit is why the reports about the Prophet's ﷺ journeys are as detailed as they are: somebody had been paying that kind of attention at the time.",
+            bn: "ওইসব জায়গা পবিত্র, এমন কোনো শরয়ি দাবি তিনি করছিলেন না। তিনি এমন একজন মানুষ, যিনি নিজের প্রিয় কাউকে একটা নির্দিষ্ট জায়গায় একটা কাজ করতে দেখেছেন, আর সেই জায়গা পাশ কাটিয়ে যেতে মন সায় দেয়নি। এই অভ্যাসের কারণেই নবীজি ﷺ-এর সফরের বর্ণনাগুলো এত খুঁটিনাটিতে ভরা। কেউ একজন তখন ওইভাবে খেয়াল করছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Refusing the Caliphate", bn: "খিলাফত প্রত্যাখ্যান" },
+        p: [
+          {
+            en: "When the Muslims fell into civil war, Ibn Umar was the obvious neutral candidate: the son of a caliph, a Companion of standing, on nobody's side. Groups came to him more than once and offered him the leadership. He refused every time, saying he would not have Muslim blood spilled over him, and he would not fight in a war in which Muslims killed one another.",
+            bn: "মুসলিমরা যখন গৃহযুদ্ধে জড়িয়ে পড়লেন, নিরপেক্ষ প্রার্থী হিসেবে ইবনে উমরের নামই সবার আগে আসে: এক খলিফার ছেলে, মর্যাদাবান সাহাবি, কোনো পক্ষেই নন। একাধিকবার নানা দল তাঁর কাছে এসে নেতৃত্বের প্রস্তাব দিয়েছে। প্রতিবারই তিনি ফিরিয়ে দিয়েছেন। বলেছেন, তাঁকে ঘিরে মুসলিমের রক্ত ঝরুক তা তিনি চান না, আর মুসলিম মুসলিমকে মারছে এমন যুদ্ধে তিনি লড়বেন না।",
+          },
+          {
+            en: "His position was not indifference. He gave his pledge to whoever the community had settled on, prayed behind whoever was leading, and went on teaching. For nearly fifty years, while factions fought over who should rule, students in Madinah could go to one house and be told what the Prophet ﷺ had actually done, by a man with no stake in the outcome.",
+            bn: "তাঁর এই অবস্থান উদাসীনতা ছিল না। সমাজ যাঁর ওপর ঐকমত্যে পৌঁছাত তাঁকেই তিনি বাইআত দিতেন, যিনি ইমামতি করতেন তাঁর পেছনেই নামাজ পড়তেন, আর শিক্ষাদান চালিয়ে যেতেন। প্রায় পঞ্চাশ বছর ধরে দলগুলো যখন শাসনক্ষমতা নিয়ে লড়ছে, মদিনার ছাত্ররা তখন একটা ঘরে গিয়ে জানতে পারত নবীজি ﷺ আসলে কী করেছেন — এমন একজনের কাছ থেকে, যার ফলাফলে কোনো স্বার্থ নেই।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Stranger or a Wayfarer", bn: "প্রবাসী কিংবা পথিক" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 6416 preserves the hadith he is best known for narrating. The Prophet ﷺ took him by the shoulders and said, be in this world as though you were a stranger, or someone crossing a road. Ibn Umar used to add his own advice to it: when you reach the evening do not wait for the morning, and when you reach the morning do not wait for the evening.",
+            bn: "সহিহ বুখারি ৬৪১৬-এ সেই হাদিসটা আছে, যেটির বর্ণনাকারী হিসেবে তিনি সবচেয়ে পরিচিত। নবীজি ﷺ তাঁর দুই কাঁধ ধরে বলেছিলেন, দুনিয়াতে এমনভাবে থাকো যেন তুমি প্রবাসী, কিংবা পথ পার হয়ে যাওয়া কোনো পথিক। ইবনে উমর এর সঙ্গে নিজের উপদেশও জুড়ে দিতেন: সন্ধ্যায় পৌঁছে সকালের অপেক্ষা কোরো না, আর সকালে পৌঁছে সন্ধ্যার অপেক্ষা কোরো না।",
+          },
+          {
+            en: "He died at Makkah in his eighties, after the city had been besieged and the Companions of that generation were nearly all gone. Thousands of narrations are traced to him, and the schools of law lean on his reports as heavily as on any Companion's. He had wanted only to do what he had seen done, and that turned out to be the most useful thing anyone could have wanted.",
+            bn: "আশির কোঠায় পৌঁছে তিনি মক্কায় ইন্তেকাল করেন; ততদিনে শহরটি অবরোধ দেখে ফেলেছে আর সেই প্রজন্মের সাহাবিরা প্রায় সবাই চলে গেছেন। হাজার হাজার বর্ণনা তাঁর সূত্রে এসেছে, আর ফিকহের মাজহাবগুলো অন্য যেকোনো সাহাবির মতোই তাঁর বর্ণনার ওপর ভর দেয়। তিনি কেবল যা দেখেছেন তা-ই করতে চেয়েছিলেন। শেষ পর্যন্ত দেখা গেল, চাওয়ার মতো এর চেয়ে কাজের জিনিস আর কিছু ছিল না।",
+          },
+        ],
+      },
+    ],
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { SAHABA_ARTICLES };
