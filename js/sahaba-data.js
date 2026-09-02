@@ -4632,16 +4632,16 @@ const SAHABA_DATA = [
     "yearEn": "d. c. 678 CE",
     "highlightEn": "The Ansari given knowledge and forbearance, who taught the Sayyid al-Istighfar.",
     "highlightBn": "জ্ঞান ও সহনশীলতা-প্রাপ্ত আনসারি, যিনি সাইয়েদুল ইস্তিগফার শিক্ষা দিয়েছেন।",
-    "summaryEn": "Shaddad ibn Aws (RA) was a Companion of the Ansar and the nephew of the poet Hassan ibn Thabit (RA). Abu ad-Darda (RA) described him as one given both knowledge and forbearance. He is the narrator of the Sayyid al-Istighfar, the master supplication of seeking forgiveness recorded in Sahih al-Bukhari, whoever says it with conviction morning or evening and dies that day is promised Paradise. He also transmitted the Prophet's teaching in Sahih Muslim that Allah has prescribed excellence (ihsan) in all things. In his later years he settled in Jerusalem, known for weeping in the night prayer and fearing the trials of the age, and he died there around 58 AH.",
-    "summaryBn": "শাদ্দাদ ইবনে আউস (রাঃ) ছিলেন আনসারের একজন সাহাবি এবং কবি হাসসান ইবনে সাবিত (রাঃ)-এর ভাতিজা। আবু দারদা (রাঃ) তাঁর সম্পর্কে বলেছেন, তাঁকে জ্ঞান ও সহনশীলতা—দুটোই দেওয়া হয়েছিল। তিনি সহিহ বুখারিতে বর্ণিত 'সাইয়েদুল ইস্তিগফার'-এর বর্ণনাকারী—ক্ষমা প্রার্থনার শ্রেষ্ঠ দোয়া, যা দৃঢ় বিশ্বাসের সঙ্গে সকালে বা সন্ধ্যায় পাঠ করে সেদিন কেউ মারা গেলে তার জন্য জান্নাতের প্রতিশ্রুতি রয়েছে। তিনি সহিহ মুসলিমে নবীজির এই শিক্ষাও বর্ণনা করেন যে আল্লাহ প্রতিটি বিষয়ে ইহসান (উৎকর্ষ) নির্ধারণ করেছেন। শেষ জীবনে তিনি জেরুজালেমে বসতি স্থাপন করেন; রাতের নামাজে ক্রন্দন ও যুগের ফিতনার ভয়ে তিনি পরিচিত ছিলেন। আনুমানিক ৫৮ হিজরিতে সেখানে তিনি ইন্তেকাল করেন।",
+    "summaryEn": "Shaddad ibn Aws (RA) was a Companion of the Ansar and the nephew of the poet Hassan ibn Thabit (RA). He was described as one given both knowledge and forbearance. He is the narrator of the Sayyid al-Istighfar, the master supplication of seeking forgiveness recorded in Sahih al-Bukhari, whoever says it with conviction morning or evening and dies that day is promised Paradise. He also transmitted the Prophet's teaching in Sahih Muslim that Allah has prescribed excellence (ihsan) in all things. In his later years he settled in Jerusalem, known for weeping in the night prayer and fearing the trials of the age, and he died there around 58 AH.",
+    "summaryBn": "শাদ্দাদ ইবনে আউস (রাঃ) ছিলেন আনসারের একজন সাহাবি এবং কবি হাসসান ইবনে সাবিত (রাঃ)-এর ভাতিজা। তাঁর সম্পর্কে বলা হতো, তাঁকে জ্ঞান ও সহনশীলতা—দুটোই দেওয়া হয়েছিল। তিনি সহিহ বুখারিতে বর্ণিত 'সাইয়েদুল ইস্তিগফার'-এর বর্ণনাকারী—ক্ষমা প্রার্থনার শ্রেষ্ঠ দোয়া, যা দৃঢ় বিশ্বাসের সঙ্গে সকালে বা সন্ধ্যায় পাঠ করে সেদিন কেউ মারা গেলে তার জন্য জান্নাতের প্রতিশ্রুতি রয়েছে। তিনি সহিহ মুসলিমে নবীজির এই শিক্ষাও বর্ণনা করেন যে আল্লাহ প্রতিটি বিষয়ে ইহসান (উৎকর্ষ) নির্ধারণ করেছেন। শেষ জীবনে তিনি জেরুজালেমে বসতি স্থাপন করেন; রাতের নামাজে ক্রন্দন ও যুগের ফিতনার ভয়ে তিনি পরিচিত ছিলেন। আনুমানিক ৫৮ হিজরিতে সেখানে তিনি ইন্তেকাল করেন।",
     "events": [
       {
         "en": "Nephew of the Prophet's poet Hassan ibn Thabit",
         "bn": "নবীজির কবি হাসসান ইবনে সাবিতের ভাতিজা"
       },
       {
-        "en": "Described by Abu ad-Darda as given knowledge and forbearance",
-        "bn": "আবু দারদা বলেন, তাঁকে জ্ঞান ও সহনশীলতা দেওয়া হয়েছে"
+        "en": "Remembered as one given knowledge and forbearance",
+        "bn": "বলা হতো, তাঁকে জ্ঞান ও সহনশীলতা দেওয়া হয়েছে"
       },
       {
         "en": "Narrated the Sayyid al-Istighfar (Sahih al-Bukhari)",

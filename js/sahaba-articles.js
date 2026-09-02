@@ -5839,6 +5839,420 @@ const SAHABA_ARTICLES = {
       },
     ],
   },
+  an_numan_ibn_bashir: {
+    sections: [
+      {
+        h: { en: "First Cry of a New City", bn: "নতুন শহরের প্রথম কান্না" },
+        p: [
+          {
+            en: "When the Muslims of Makkah fled to Madinah they left behind homes, trade, and the graves of their fathers, and no one could yet say what the new city would become. Into that uncertainty a son was born to Bashir ibn Sa'd of the Khazraj and his wife Amrah bint Rawahah, sister of the poet Abdullah ibn Rawahah (RA). The boy was named an-Nu'man, and he is remembered as the first child born to the Ansar after the Hijrah, a living announcement that the city of faith would have a future.",
+            bn: "মক্কার মুসলিমরা যখন মদিনায় হিজরত করলেন, পেছনে পড়ে রইল ঘরবাড়ি, ব্যবসা, বাপ-দাদার কবর। নতুন শহরটা কী হয়ে উঠবে, তখনো কেউ বলতে পারত না। ঠিক সেই অনিশ্চিত দিনগুলোতে খাজরাজ গোত্রের বশির ইবনে সা'দের ঘরে একটি ছেলের জন্ম হলো। মা আমরা বিনতে রাওয়াহা, কবি আবদুল্লাহ ইবনে রাওয়াহা (রাঃ)-এর বোন। ছেলের নাম রাখা হলো নু'মান। হিজরতের পর আনসারদের ঘরে জন্ম নেওয়া প্রথম সন্তান হিসেবেই তাঁকে মনে রাখা হয়। যেন ঘোষণা এসে গেল, ঈমানের এই শহরের সামনে দীর্ঘ ভবিষ্যৎ অপেক্ষা করছে।",
+          },
+          {
+            en: "an-Nu'man (RA) grew up inside the Prophet's ﷺ Madinah, a child of the generation for whom revelation was the air of the household. He was still a boy of about eight when the Prophet ﷺ passed away, yet what he saw and heard in those years stayed with him with a child's sharpness. In time he transmitted about 124 hadith, and the ones the ummah repeats most often from him concern the two things a household runs on: honest earnings and fairness between children.",
+            bn: "নু'মান (রাঃ) বড় হয়েছেন নবীজি ﷺ-এর মদিনায়। এ সেই প্রজন্মের শৈশব, যাদের ঘরের বাতাসেই ছিল ওহির উপস্থিতি। নবীজি ﷺ যখন ইন্তেকাল করেন, তাঁর বয়স তখন আনুমানিক আট। কিন্তু ওই কয় বছরে যা দেখেছেন আর শুনেছেন, শিশুমনের তীক্ষ্ণতায় তা গেঁথে গিয়েছিল। পরবর্তীকালে তিনি প্রায় ১২৪টি হাদিস বর্ণনা করেন। উম্মাহ তাঁর সূত্রে যে হাদিসগুলো সবচেয়ে বেশি আওড়ায়, সেগুলোর বিষয় সংসারের দুই ভিত্তি: হালাল রুজি আর সন্তানদের মধ্যে ইনসাফ।",
+          },
+        ],
+      },
+      {
+        h: { en: "Fear Allah and Be Just", bn: "আল্লাহকে ভয় করো, ইনসাফ করো" },
+        p: [
+          {
+            en: "The most personal of his narrations happened to him. His father Bashir wished to single him out with a gift, and his mother would not accept it until the Messenger of Allah ﷺ was made witness. When Bashir came, the Prophet ﷺ asked whether he had given the like of it to all his children. He said no. The Prophet ﷺ said, “Fear Allah and be just among your children,” and refused to stand witness to the gift. Sahih al-Bukhari 2587 and Sahih Muslim 1623 both carry the account.",
+            bn: "তাঁর সবচেয়ে ব্যক্তিগত হাদিসটির ঘটনা ঘটেছিল তাঁকে নিয়েই। বাবা বশির ছেলেকে আলাদা করে একটা উপহার দিতে চাইলেন। মা শর্ত দিলেন, রাসূলুল্লাহ ﷺ-কে সাক্ষী না করা পর্যন্ত তিনি মানবেন না। বশির নবীজি ﷺ-এর কাছে এলে তিনি জিজ্ঞেস করলেন, সব সন্তানকেই কি এমন দিয়েছ? উত্তর এল, না। নবীজি ﷺ বললেন, “আল্লাহকে ভয় করো এবং সন্তানদের মধ্যে ইনসাফ করো।” এই উপহারের সাক্ষী হতে তিনি রাজি হলেন না। ঘটনাটি সহিহ বুখারি ২৫৮৭ ও সহিহ মুসলিম ১৬২৩-এ আছে।",
+          },
+          {
+            en: "The ruling has governed Muslim households ever since: favouritism between children is not a private indulgence but an injustice that plants enmity between brothers. There is a quiet mercy in the fact that the child at the centre of the story became its narrator. an-Nu'man did not resent being the occasion of the correction; he carried it to the ummah as a trust, so that every parent tempted to prefer one child would hear the Prophet's ﷺ words through the very son a father once tried to prefer.",
+            bn: "সেদিন থেকে এই ফয়সালাই মুসলিম পরিবারের নিয়ম হয়ে আছে। এক সন্তানকে বাড়তি টানা কোনো নিরীহ আদর নয়; এ এক জুলুম, যা ভাইয়ে ভাইয়ে শত্রুতার বীজ বোনে। ঘটনার মাঝখানে যে শিশুটি ছিল, সে-ই যে পরে এর বর্ণনাকারী হলো, এর মধ্যে এক নীরব রহমত আছে। সংশোধনের উপলক্ষ হওয়াকে নু'মান কোনোদিন অপমান ভাবেননি; আমানত মনে করে উম্মাহর কাছে পৌঁছে দিয়েছেন। ফলে যে বাবা-মা এক সন্তানকে বেশি দিতে চান, নবীজি ﷺ-এর কথাটা তাঁরা শোনেন সেই ছেলের মুখেই, যাকে একদিন তার বাবা বাড়তি দিতে চেয়েছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Lawful Is Clear", bn: "হালাল স্পষ্ট, হারাম স্পষ্ট" },
+        p: [
+          {
+            en: "His most famous narration is one of the axis-hadiths of the whole religion, recorded in Sahih al-Bukhari 52 and Sahih Muslim 1599. The Prophet ﷺ said that the lawful is clear and the unlawful is clear, and between them are doubtful matters which many people do not know. Whoever guards against the doubtful has protected his religion and his honour, and whoever falls into the doubtful falls into the unlawful, like a shepherd who grazes his flock around a sanctuary, ever close to crossing into it.",
+            bn: "তাঁর সবচেয়ে বিখ্যাত বর্ণনাটি গোটা দ্বীনের অন্যতম মূল হাদিস, সহিহ বুখারি ৫২ ও সহিহ মুসলিম ১৫৯৯-এ সংকলিত। নবীজি ﷺ বলেছেন, হালাল স্পষ্ট, হারামও স্পষ্ট; মাঝখানে আছে সন্দেহজনক বিষয়গুলো, যার খবর অনেক মানুষই রাখে না। যে সন্দেহের জায়গাগুলো থেকে বেঁচে থাকে, সে নিজের দ্বীন আর ইজ্জত দুটোই বাঁচাল। আর যে সন্দেহে পা দেয়, সে হারামেই গিয়ে পড়ে। যেন এক রাখাল সংরক্ষিত চারণভূমির কিনার ঘেঁষে পশু চরাচ্ছে; সীমানা পেরোনো তার জন্য সময়ের ব্যাপার মাত্র।",
+          },
+          {
+            en: "The hadith ends with the image every Muslim child learns: every king has a sanctuary, and the sanctuary of Allah is what He has forbidden; and in the body there is a piece of flesh which, if sound, makes the whole body sound, and if corrupt, corrupts it all — the heart. That a man who grew up entirely inside the Prophet's ﷺ city should transmit the definitive teaching on staying far from blurred boundaries is fitting; he had watched where the clear path ran.",
+            bn: "হাদিসটির শেষে আসে সেই উপমা, মুসলিম ঘরের শিশুরাও যা শিখে বড় হয়: প্রত্যেক বাদশাহর একটা সংরক্ষিত এলাকা থাকে, আর আল্লাহর সংরক্ষিত এলাকা হলো তাঁর হারাম করা বিষয়গুলো। দেহের ভেতর এক টুকরো গোশত আছে; তা ঠিক থাকলে গোটা দেহ ঠিক, তা নষ্ট হলে গোটা দেহই নষ্ট। সেটি কলব। ঝাপসা সীমানা থেকে দূরে থাকার চূড়ান্ত শিক্ষাটা এমন একজন পৌঁছে দিলেন, যাঁর পুরো শৈশব কেটেছে নবীজি ﷺ-এর শহরে। স্পষ্ট রাস্তাটা কোথা দিয়ে গেছে, তিনি নিজ চোখে দেখেছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "One Body", bn: "একটি দেহ" },
+        p: [
+          {
+            en: "Through an-Nu'man the ummah also received its portrait of itself. Sahih Muslim 2586 records his report that the Prophet ﷺ said: “The believers, in their mutual mercy, love and compassion, are like one body: when a limb of it complains, the whole body responds to it with sleeplessness and fever.” The community is not compared to a building or an army but to a living body, where no pain stays local and no member suffers unnoticed.",
+            bn: "নু'মানের সূত্রেই উম্মাহ পেয়েছে নিজের চেহারার ছবিটা। সহিহ মুসলিম ২৫৮৬-এ তাঁর বর্ণনা: নবীজি ﷺ বলেছেন, “মুমিনরা পারস্পরিক দয়া, ভালোবাসা ও সহানুভূতিতে একটি দেহের মতো: তার একটি অঙ্গ কষ্ট পেলে গোটা দেহ নির্ঘুমতা ও জ্বরে তার সাড়া দেয়।” উম্মাহকে এখানে দালান বা সেনাদলের সঙ্গে মেলানো হয়নি, মেলানো হয়েছে জ্যান্ত শরীরের সঙ্গে। শরীরে কোনো ব্যথা এক জায়গায় আটকে থাকে না, কোনো অঙ্গের কষ্ট চোখ এড়িয়ে যায় না।",
+          },
+          {
+            en: "There is a symmetry in the narrator. He was the first child born to the Ansar after the hijrah, arriving just as the Muhajirun and Ansar were being knit into one brotherhood, at the hour the scattered believers were becoming a single community. The man whose birth marked the first new life of that union spent his last decades teaching that the believers ache and rejoice as one flesh.",
+            bn: "বর্ণনাকারীর জীবনের সঙ্গে হাদিসটার একটা মিল চোখে পড়ে। হিজরতের পর আনসারদের ঘরে জন্ম নেওয়া প্রথম সন্তান তিনি। তাঁর জন্ম ঠিক সেই সময়ের, যখন মুহাজির আর আনসার সবে এক ভ্রাতৃত্বে গাঁথা হচ্ছেন, ছড়িয়ে থাকা মুমিনরা হয়ে উঠছেন একটাই জামাত। সেই মিলনের প্রথম নতুন প্রাণ যাঁর জন্ম, তিনিই শেষ দশকগুলো কাটালেন এই শিক্ষা দিয়ে যে মুমিনরা এক দেহের মতোই একসঙ্গে কাঁদে, একসঙ্গে হাসে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Governor, Preacher, Dark Ending", bn: "শাসক, খতিব, অন্ধকার সমাপ্তি" },
+        p: [
+          {
+            en: "In the Umayyad era an-Nu'man entered public life, serving Mu'awiyah (RA) as governor of Kufa, and later holding Homs in Syria in the Umayyad service. He was a celebrated orator; congregations knew him as a preacher whose Friday sermons carried the hadith of the Prophet ﷺ into the ears of a generation that had never seen him. Authority did not soften his transmission: the man reminding governors' subjects about doubtful earnings and just parenting was himself a governor, judged by the standards he taught.",
+            bn: "উমাইয়া যুগে নু'মান রাষ্ট্রের কাজে নামলেন। মুয়াবিয়া (রাঃ)-এর অধীনে তিনি কুফার শাসনকর্তা হন; পরে উমাইয়া শাসনের আমলে পান সিরিয়ার হিমসের ভার। বক্তা হিসেবে তাঁর খ্যাতি ছিল দূর পর্যন্ত। জুমার মিম্বরে তাঁর মুখে নবীজি ﷺ-এর হাদিস পৌঁছে যেত এমন এক প্রজন্মের কানে, যারা নবীজিকে কোনোদিন দেখেনি। ক্ষমতা তাঁর শিক্ষকতাকে ভোঁতা করেনি। সন্দেহজনক রুজি আর সন্তানে ইনসাফের কথা যিনি মানুষকে শেখাতেন, তিনি নিজেই ছিলেন শাসক; নিজের শেখানো মাপকাঠিতে নিজেকেই মাপা হতো।",
+          },
+          {
+            en: "His end came in the turmoil that tore the region after the battle of Marj Rahit in 64 AH, when rival claims to the caliphate set the towns of Syria against one another. In the upheaval that followed, an-Nu'man was killed near Homs in 65 AH, an old man who had been Madinah's first Ansari newborn. Historians record the fact and the grief; the believer records that the narrator of the one-body hadith died of the ummah's fever, and his narrations still bind the body together.",
+            bn: "৬৪ হিজরিতে মারজ রাহিতের যুদ্ধের পর খিলাফতের দাবি নিয়ে বিবাদে সিরিয়ার শহরগুলো পরস্পরের মুখোমুখি দাঁড়িয়ে যায়। সেই ডামাডোলে, ৬৫ হিজরিতে, হিমসের কাছে নু'মান নিহত হন। যে শিশু ছিল মদিনার আনসারদের প্রথম নবজাতক, সে তখন বৃদ্ধ। ইতিহাসবিদরা ঘটনা আর শোকটুকু লিখে রেখেছেন। মুমিনের খাতায় লেখা থাকে অন্য কথা: এক-দেহ হাদিসের বর্ণনাকারী মারা গেলেন উম্মাহর জ্বরেই, আর তাঁর হাদিসগুলো আজও সেই দেহটাকে বেঁধে রেখেছে।",
+          },
+        ],
+      },
+    ],
+  },
+  al_mughirah_ibn_shubah: {
+    sections: [
+      {
+        h: { en: "A Shrewd Man of Ta'if", bn: "তায়েফের ধুরন্ধর মানুষটি" },
+        p: [
+          {
+            en: "al-Mughira ibn Shu'ba (RA) came from Thaqif, the tribe of walled Ta'if, and the Arabs counted him among their four legendary dahis, men of unmatched political cunning. His path to Islam began in darkness. Ibn Hisham relates that before his Islam he travelled with a party of his tribesmen, killed them, and took their property, then came to Madinah and declared his Islam before the Prophet ﷺ. The Prophet ﷺ accepted his Islam but refused any share of that property, for it had been taken by treachery.",
+            bn: "আল-মুগিরা ইবনে শু'বা (রাঃ) ছিলেন প্রাচীরঘেরা তায়েফের সাকিফ গোত্রের সন্তান। আরবরা তাদের চার কিংবদন্তি কূটবুদ্ধির মানুষের একজন বলে মানত তাঁকে। অথচ তাঁর ইসলামের পথটা শুরু হয়েছিল অন্ধকার থেকে। ইবনে হিশামের বর্ণনায় আছে, ইসলামের আগে তিনি নিজ গোত্রের এক কাফেলার সঙ্গী হয়ে পথে তাদের হত্যা করেন, মালপত্র নিয়ে মদিনায় এসে নবীজি ﷺ-এর সামনে ইসলাম কবুল করেন। নবীজি ﷺ তাঁর ইসলাম গ্রহণ মেনে নিলেন, কিন্তু ওই সম্পদের একটি অংশও নিলেন না। বিশ্বাসঘাতকতার পথে আসা মাল ইসলাম ছোঁবে না।",
+          },
+          {
+            en: "That refusal was al-Mughira's first lesson in his new religion: Islam wiped out what came before it, but it would not launder stolen wealth into blessing. The convert who arrived with a caravan's plunder learned on his first day that the scale he would now be weighed on was different. He stayed in Madinah, attached himself to the Prophet ﷺ, and turned his formidable wits from tribal intrigue to the service of the message.",
+            bn: "ওই প্রত্যাখ্যানই ছিল নতুন দ্বীনে মুগিরার প্রথম পাঠ। ইসলাম আগের সব গুনাহ মুছে দেয়, কিন্তু লুটের মালকে ধুয়ে বরকতে বদলে দেয় না। কাফেলার লুণ্ঠিত সম্পদ নিয়ে যিনি এসেছিলেন, প্রথম দিনেই তিনি বুঝলেন, এখন থেকে তাঁকে মাপা হবে একেবারে অন্য পাল্লায়। তিনি মদিনায় থেকে গেলেন, নবীজি ﷺ-এর সান্নিধ্য আঁকড়ে ধরলেন। যে ক্ষুরধার বুদ্ধি এতদিন খেটেছে গোত্রীয় চালবাজিতে, তা এবার লেগে গেল দ্বীনের খেদমতে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Sword Drawn at Hudaybiyya", bn: "হুদায়বিয়ায় খোলা তরবারি" },
+        p: [
+          {
+            en: "Sahih al-Bukhari's long account of the treaty of Hudaybiyya shows al-Mughira in a scene his tribe never forgot. As Urwa ibn Mas'ud of Thaqif negotiated with the Prophet ﷺ, he kept reaching for the Prophet's ﷺ beard in the familiar Arab manner. Each time, a mailed man standing guard struck his hand with the hilt of a sword and told him to keep his hand away. When Urwa asked who this was, he was told: al-Mughira ibn Shu'ba, his own tribesman and kinsman.",
+            bn: "হুদায়বিয়ার সন্ধির যে দীর্ঘ বিবরণ সহিহ বুখারিতে আছে, সেখানে মুগিরাকে পাওয়া যায় এমন এক দৃশ্যে, যা তাঁর গোত্র কখনো ভোলেনি। সাকিফের উরওয়া ইবনে মাসউদ নবীজি ﷺ-এর সঙ্গে দরকষাকষি করছিলেন। কথার ফাঁকে ফাঁকে আরবদের চেনা ভঙ্গিতে তিনি হাত বাড়াচ্ছিলেন নবীজি ﷺ-এর দাড়ির দিকে। প্রতিবারই বর্মে ঢাকা এক প্রহরী তরবারির হাতল দিয়ে তাঁর হাতে আঘাত করে বলছিলেন, হাত সরাও। উরওয়া জানতে চাইলেন, লোকটা কে? জবাব এল: আল-মুগিরা ইবনে শু'বা, তাঁরই গোত্রের, তাঁরই আত্মীয়।",
+          },
+          {
+            en: "The moment measures how far the man had travelled. Kinship was the deepest claim Arabia knew, yet al-Mughira stood between his uncle's hand and the Prophet ﷺ as if no blood tie existed. Urwa returned to Quraysh and reported, astonished, that he had seen kings, Caesar and Chosroes and the Negus, and never seen any king honoured by his companions as Muhammad ﷺ was honoured by his. The guard with the sword hilt was part of what he had seen.",
+            bn: "মানুষটা কতটা পথ পেরিয়ে এসেছেন, এই মুহূর্তটাই তার মাপকাঠি। আরবের কাছে রক্তের দাবির চেয়ে বড় দাবি ছিল না। অথচ মুগিরা আপন চাচার হাত আর নবীজি ﷺ-এর মাঝখানে এমনভাবে দাঁড়ালেন, যেন রক্তের সম্পর্ক বলে কিছু নেই। উরওয়া কুরাইশদের কাছে ফিরে বিস্ময় নিয়ে বললেন, আমি কায়সার দেখেছি, কিসরা দেখেছি, নাজাশিও দেখেছি; কিন্তু কোনো বাদশাহকে তার সঙ্গীরা এমন সম্মান করে না, যেমনটা মুহাম্মাদ ﷺ-এর সাথিরা তাঁকে করে। তরবারির হাতল ধরা সেই প্রহরীও ছিলেন তাঁর সেই দেখারই অংশ।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Hadith of the Khuff", bn: "মোজার ওপর মাসাহর হাদিস" },
+        p: [
+          {
+            en: "al-Mughira's most consequential narration came from a journey. He was with the Prophet ﷺ on an expedition and poured the water for his ablution. When he bent to remove the Prophet's ﷺ leather socks, the Prophet ﷺ said to leave them, for he had put them on in a state of purity, and he wiped over them instead of washing the feet. Both Sahih al-Bukhari and Sahih Muslim record the report, and it became a foundational proof for wiping over the khuff in Islamic law.",
+            bn: "মুগিরার সবচেয়ে সুদূরপ্রসারী হাদিসটির জন্ম এক সফরে। কোনো এক অভিযানে তিনি নবীজি ﷺ-এর সঙ্গে ছিলেন, অজুর পানি ঢেলে দিচ্ছিলেন। নবীজি ﷺ-এর চামড়ার মোজা খুলে দিতে তিনি ঝুঁকতেই নবীজি ﷺ বললেন, থাক; পবিত্র অবস্থায়ই ও দুটো পরেছি। তারপর পা না ধুয়ে মোজার ওপর মাসাহ করলেন। সহিহ বুখারি ও সহিহ মুসলিম দুটোতেই বর্ণনাটি আছে। ইসলামি আইনে মোজার ওপর মাসাহর বিধানের ভিত্তি-দলিল হয়ে আছে এই হাদিস।",
+          },
+          {
+            en: "Generations of travellers, soldiers, and workers in cold lands have found their ease in that one report. It is a distinctly fitting legacy for a practical man: not a hadith about mountains of reward, but a concession that keeps purity workable on the road. The scholars who built the chapters of ablution on his eyewitness account were leaning on the memory of the same man who had once poured the water with his own hands.",
+            bn: "কত প্রজন্মের মুসাফির, সৈনিক আর শীতের দেশের শ্রমজীবী মানুষ এই একটি হাদিসে স্বস্তি পেয়েছে। বাস্তববুদ্ধির মানুষটির জন্য এমন উত্তরাধিকারই মানায়। এ কোনো পাহাড়সমান সওয়াবের হাদিস নয়; এ এক ছাড়, যা সফরের কষ্টের মধ্যেও পবিত্রতাকে সহজ রাখে। অজুর অধ্যায়গুলো যাঁরা তাঁর চাক্ষুষ বিবরণের ওপর দাঁড় করালেন, সেই ফকিহরা ভর দিচ্ছিলেন এমন একজনের স্মৃতিতে, যিনি সেদিন নিজ হাতে পানি ঢেলে দিয়েছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Before the Persian Throne", bn: "পারস্য দরবারের সামনে" },
+        p: [
+          {
+            en: "In the wars that followed the Prophet's ﷺ death, al-Mughira's daring found a larger stage. He fought at Yarmuk, the battle that broke Byzantine Syria, and lost an eye there. Before Qadisiyya, at-Tabari records him among the envoys sent into the Persian camp, where he refused the choreography of the court and seated himself beside the commander as an equal. The famous declaration that Islam had come to raise people from the worship of servants to the worship of the Lord of servants belongs to his fellow envoy Rib'i ibn Amir (RA); al-Mughira's seat preached the same message without words.",
+            bn: "নবীজি ﷺ-এর ইন্তেকালের পরের যুদ্ধগুলোতে মুগিরার দুঃসাহস আরও বড় মঞ্চ পেল। যে ইয়ারমুকের যুদ্ধ বাইজান্টাইনদের সিরিয়া ভেঙে দিয়েছিল, সেখানে লড়ে তিনি এক চোখ হারান। কাদিসিয়ার আগে পারস্য শিবিরে পাঠানো দূতদের মধ্যেও তাঁর নাম লিখেছেন আত-তাবারি। দরবারের সাজানো আদবকায়দা তিনি মানলেন না, সেনাপতির পাশে সমানে সমান হয়ে বসে পড়লেন। ইসলাম এসেছে মানুষকে বান্দার গোলামি থেকে তুলে বান্দার রবের গোলামিতে পৌঁছে দিতে, এই বিখ্যাত ঘোষণাটি অবশ্য তাঁর সহ-দূত রিবয়ি ইবনে আমির (রাঃ)-এর। তবে মুগিরার ওই সমানে সমান বসাটাও কথা না বলেই দিয়েছিল একই বার্তা।",
+          },
+          {
+            en: "The envoy scenes preserved by at-Tabari read like the empire's first meeting with a new kind of man: unimpressed by silk and thrones, negotiating with the confidence of someone whose measure of glory had changed. The cunning that once served caravan politics now served a message. When the armies met at Qadisiyya and Persian power broke, al-Mughira had been one of the voices that offered Islam before the sword.",
+            bn: "আত-তাবারির রেখে যাওয়া দূত-দৃশ্যগুলো পড়লে মনে হয়, সাম্রাজ্য সেদিন প্রথম দেখল একেবারে নতুন জাতের মানুষ। রেশম আর সিংহাসনে যার ভক্তি জাগে না; যে দরকষাকষি করে এমন আত্মবিশ্বাসে, কারণ তার কাছে গৌরবের মানেই বদলে গেছে। যে ধূর্ততা একদিন কাফেলার রাজনীতিতে খাটত, তা এখন খাটছে এক বার্তার কাজে। কাদিসিয়ায় দুই বাহিনী মুখোমুখি হয়ে পারস্যের শক্তি যখন ভেঙে পড়ল, তার আগে তরবারির আগে ইসলামের দাওয়াত পৌঁছে দেওয়া কণ্ঠগুলোর একটি ছিলেন মুগিরা।",
+          },
+        ],
+      },
+      {
+        h: { en: "Governor of Two Cities", bn: "দুই শহরের শাসনকর্তা" },
+        p: [
+          {
+            en: "Umar (RA) appointed him governor of Basra and later of Kufa, trusting his competence with two of the empire's most restless garrison cities. His record there was not without trial: an accusation made against him in Basra was examined before Umar, the prescribed testimony was not completed, and the accusers were punished under the law of qadhf. He was removed from Basra yet later entrusted with Kufa, and under Mu'awiyah (RA) he governed Kufa again until his death in 50 AH.",
+            bn: "উমর (রাঃ) তাঁকে প্রথমে বসরার, পরে কুফার শাসনকর্তা নিযুক্ত করেন। সাম্রাজ্যের সবচেয়ে অস্থির দুই সেনা-শহরের ভার তাঁর যোগ্যতার ওপরই ছাড়া হয়েছিল। সেই দায়িত্বের বছরগুলো পরীক্ষামুক্ত ছিল না। বসরায় তাঁর বিরুদ্ধে ওঠা এক অভিযোগের বিচার হয় উমর (রাঃ)-এর দরবারে; শরিয়তের নির্ধারিত সাক্ষ্য পূর্ণ হয়নি, আর অভিযোগকারীরা কযফের বিধান অনুযায়ী শাস্তি পান। বসরা থেকে সরানো হলেও পরে তাঁকেই দেওয়া হয় কুফার ভার। মুয়াবিয়া (রাঃ)-এর আমলে তিনি আবার কুফা শাসন করেন, ৫০ হিজরিতে মৃত্যু পর্যন্ত।",
+          },
+          {
+            en: "He died in office, one of the last of the old political masters of the first generation, having narrated about 130 hadith. His life resists a simple moral, and that is its lesson. Islam did not only recruit the gentle; it took a hard, clever, worldly man and bent his gifts toward the qiblah. The same shrewdness the Arabs told stories about guarded the Prophet ﷺ at Hudaybiyya, faced down Persian generals, and preserved for every believer the simple mercy of wiping over the khuff.",
+            bn: "মৃত্যু তাঁকে পেল দায়িত্বরত অবস্থাতেই। প্রথম প্রজন্মের পুরোনো রাজনীতি-কুশলীদের প্রায় শেষজন তিনি; রেখে গেলেন প্রায় ১৩০টি হাদিস। তাঁর জীবন থেকে সরল কোনো উপদেশ বের করা কঠিন, আর সেটাই এ জীবনের শিক্ষা। ইসলাম শুধু কোমল মানুষদের দলে টানেনি; এক কঠিন, চতুর, দুনিয়াদার মানুষকে নিয়ে তার সব প্রতিভা কিবলার দিকে ঘুরিয়ে দিয়েছে। যে ধূর্ততা নিয়ে আরবরা গল্প বানাত, সে-ই হুদায়বিয়ায় নবীজি ﷺ-কে পাহারা দিল, পারস্যের সেনাপতিদের চোখে চোখ রাখল, আর প্রতিটি মুমিনের জন্য বাঁচিয়ে রাখল মোজায় মাসাহর সহজ রহমতটুকু।",
+          },
+        ],
+      },
+    ],
+  },
+  abu_umamah_al_bahili: {
+    sections: [
+      {
+        h: { en: "A Man of a Modest Tribe", bn: "নামগোত্রহীনদের একজন" },
+        p: [
+          {
+            en: "Abu Umamah's given name was Suday ibn Ajlan, of Bahila, a tribe the Arabs ranked low in their ladders of prestige and made the butt of their boasting verses. Islam paid no attention to the ladder. The young man of Bahila gave his allegiance to the Prophet ﷺ, and reports relate that the Prophet ﷺ later sent him back as his envoy to call Bahila itself to Islam, turning the tribe's own son into the carrier of its greatest honour.",
+            bn: "আবু উমামার আসল নাম সুদাই ইবনে আজলান, গোত্র বাহিলা। আরবদের মর্যাদার সিঁড়িতে বাহিলার স্থান ছিল নিচের দিকে; গর্বের কবিতায় তাদের নিয়ে ঠাট্টাই চলত বেশি। ইসলাম ওই সিঁড়ির দিকে ফিরেও তাকাল না। বাহিলার এই তরুণ নবীজি ﷺ-এর হাতে বাইয়াত দিলেন। বর্ণনায় আছে, পরে নবীজি ﷺ তাঁকেই দূত করে পাঠান নিজ গোত্র বাহিলাকে ইসলামের দাওয়াত দিতে। যে গোত্রকে লোকে খাটো করত, তারই সন্তান হয়ে উঠলেন তার সবচেয়ে বড় সম্মানের বাহক।",
+          },
+          {
+            en: "To preach to one's own people is the hardest assignment in da'wah; they remember the boy and resist the message. Abu Umamah endured his tribe's initial refusal and hardship, and in time Bahila entered Islam. The experience shaped the patient, unhurried teacher he would become. A man who had persuaded his own kin, face to face, over shared bread and old grudges, would never mistake the work of guidance for a single speech.",
+            bn: "নিজের গোত্রের কাছে দাওয়াত পৌঁছানোই দাওয়াতের সবচেয়ে কঠিন কাজ। তারা ছোটবেলার ছেলেটিকে মনে রাখে, বার্তাটিকে ঠেলে সরায়। শুরুর প্রত্যাখ্যান আর কষ্ট আবু উমামা সয়ে গেলেন, আর সময়ের পরিক্রমায় বাহিলা ইসলামে ঢুকল। এই অভিজ্ঞতাই গড়ে দিল তাঁর ভবিষ্যতের চেহারা: ধৈর্যশীল, তাড়াহুড়োহীন এক শিক্ষক। যিনি এক দস্তরখানে বসে, পুরোনো মনকষাকষি পেরিয়ে, মুখোমুখি বুঝিয়ে নিজের স্বজনদের পথে এনেছেন, হেদায়াতের কাজকে তিনি কোনোদিন একটা বক্তৃতা ভেবে ভুল করবেন না।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Qur'an as Intercessor", bn: "সুপারিশকারী কুরআন" },
+        p: [
+          {
+            en: "His most beloved narration is in Sahih Muslim: he heard the Prophet ﷺ say, “Recite the Qur'an, for it will come on the Day of Resurrection as an intercessor for its companions,” and urge the recitation of the two radiant surahs, al-Baqarah and Al Imran, which will come on that Day like two shading clouds or two flocks of birds pleading for those who recited them. Al-Baqarah, he transmitted, is a blessing to take and a loss to leave, and the sorcerers cannot withstand it.",
+            bn: "তাঁর সবচেয়ে প্রিয় বর্ণনাটি সহিহ মুসলিমে। তিনি নবীজি ﷺ-কে বলতে শুনেছেন, “কুরআন পড়ো, কারণ কিয়ামতের দিন সে তার সাথিদের জন্য সুপারিশকারী হয়ে আসবে।” নবীজি ﷺ বিশেষভাবে তাগিদ দেন দুই উজ্জ্বল সূরা, আল-বাকারা আর আলে ইমরান পড়তে। সেদিন সূরা দুটি আসবে যেন দুই খণ্ড ছায়াদার মেঘ, কিংবা ডানা মেলা দুই ঝাঁক পাখি, নিজেদের পাঠকদের পক্ষে লড়বে। আর আল-বাকারা সম্পর্কে তাঁর ভাষ্য: একে ধরে রাখা বরকত, ছেড়ে দেওয়া আফসোস, আর জাদুকরদের সাধ্য নেই এর সঙ্গে পারে।",
+          },
+          {
+            en: "Another report through him, recorded by an-Nasa'i, promises that whoever recites the Verse of the Throne, 2:255, after every prescribed prayer has nothing between him and Paradise except death. Notice what kind of hadith clung to this narrator: not court politics, not campaigns, but the daily devotions of ordinary believers. The wealth Abu Umamah gathered and distributed was of the kind that fits in a whispered evening recitation.",
+            bn: "তাঁর সূত্রে আরেকটি বর্ণনা এনেছেন আন-নাসায়ি: যে প্রত্যেক ফরজ নামাজের পর আয়াতুল কুরসি (২:২৫৫) পড়ে, জান্নাতে ঢোকার পথে তার সামনে মৃত্যু ছাড়া আর কোনো পর্দা থাকে না। খেয়াল করার মতো বিষয়, কোন ধরনের হাদিস এই বর্ণনাকারীর কাছে এসে জমা হয়েছে। দরবারের রাজনীতি নয়, যুদ্ধাভিযানও নয়; সাধারণ মুমিনের রোজকার আমল। আবু উমামা যে সম্পদ জমিয়েছেন আর বিলিয়েছেন, তা সন্ধ্যার নিচু স্বরের তিলাওয়াতে এঁটে যাওয়ার মতো সম্পদ।",
+          },
+        ],
+      },
+      {
+        h: { en: "Settling in Syria", bn: "সিরিয়ায় থিতু হওয়া" },
+        p: [
+          {
+            en: "After the Prophet's ﷺ death, as the Companions dispersed across the new lands, Abu Umamah settled in Syria and made his home in Hims. He was not a governor there, nor a commander; he was a fixture of the mosque. His days were worship and his gatherings were transmission, and around him formed circles of the Tabi'un, the generation who never saw the Prophet ﷺ and were hungry for anyone who had.",
+            bn: "নবীজি ﷺ-এর ইন্তেকালের পর সাহাবিরা যখন বিজিত ভূখণ্ডগুলোতে ছড়িয়ে পড়লেন, আবু উমামা থিতু হলেন সিরিয়ায়, ঘর বাঁধলেন হিমসে। সেখানে তিনি শাসনকর্তাও নন, সেনাপতিও নন; মসজিদেরই একজন হয়ে গেলেন। দিন কাটত ইবাদতে, মজলিস কাটত হাদিস পৌঁছে দেওয়ায়। তাঁকে ঘিরে জমে উঠল তাবিয়িদের হালকা। এ সেই প্রজন্ম, যারা নবীজি ﷺ-কে চোখে দেখেনি, আর দেখেছেন এমন যে-কাউকে পেলে আঁকড়ে ধরত।",
+          },
+          {
+            en: "Through those circles he transmitted around 250 hadith, an immense inheritance for a man of a small tribe with no worldly rank. The scholars of Syria in the next generations trace line after line of their knowledge back to the teaching mats of Hims. What Kufa owed to Ibn Mas'ud (RA) and Basra to its settlers, the towns of northern Syria owed in real measure to Abu Umamah's decades of patient repetition.",
+            bn: "ওই হালকাগুলো দিয়েই তিনি প্রায় ২৫০টি হাদিস পৌঁছে দিয়ে গেছেন। দুনিয়ার পদমর্যাদাহীন, ছোট গোত্রের এক মানুষের জন্য বিরাট উত্তরাধিকার। পরের প্রজন্মগুলোতে সিরিয়ার আলিমরা তাঁদের ইলমের সনদ ধরে পেছাতে পেছাতে বারবার পৌঁছে যান হিমসের সেই দরসের চাটাইয়ে। কুফা যেমন ঋণী ইবনে মাসউদ (রাঃ)-এর কাছে, বসরা যেমন তার প্রথম বাসিন্দাদের কাছে, উত্তর সিরিয়ার শহরগুলো তেমনি সত্যিকারের ঋণী আবু উমামার দশকের পর দশক ধৈর্যভরা তালিমের কাছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Last in the Land", bn: "সে ভূমির শেষজন" },
+        p: [
+          {
+            en: "Allah gave Abu Umamah length of days. Year after year the Companions of Syria passed away, until seekers of knowledge realised that the old man of Hims was the last of the Prophet's ﷺ Companions left alive in the entire land. He died around 86 AH, and with him Syria's living link to the Prophet's ﷺ own face and voice was closed. Whoever in that land wanted an eyewitness after him would find only the students of the eyewitness.",
+            bn: "আল্লাহ আবু উমামাকে দীর্ঘ হায়াত দিলেন। বছরের পর বছর সিরিয়ার সাহাবিরা একে একে বিদায় নিতে লাগলেন। একসময় ইলমের তালিবরা টের পেল, হিমসের এই বৃদ্ধই গোটা ভূখণ্ডে বেঁচে থাকা নবীজি ﷺ-এর শেষ সাহাবি। প্রায় ৮৬ হিজরিতে তিনি ইন্তেকাল করেন। তাঁর সঙ্গে সঙ্গে বন্ধ হয়ে গেল নবীজি ﷺ-এর চেহারা আর কণ্ঠের সঙ্গে সিরিয়ার জীবন্ত যোগসূত্র। এরপর সে ভূমিতে প্রত্যক্ষদর্শী খুঁজলে মিলবে শুধু প্রত্যক্ষদর্শীর ছাত্ররা।",
+          },
+          {
+            en: "There is a special weight on the last man standing of a generation. Every question that occurred to the Tabi'un late, every detail no one had thought to ask, came finally to his door. That he spent those last years not in retirement but in teaching is why his 250 narrations survived at all. The last Companion of Syria understood that his remaining breaths were a public trust, and he paid them out sentence by sentence.",
+            bn: "একটি প্রজন্মের শেষ জীবিত মানুষটির কাঁধে আলাদা ভার চাপে। তাবিয়িদের মনে দেরিতে জাগা প্রতিটি প্রশ্ন, কারও জিজ্ঞেস করার কথা মনে হয়নি এমন প্রতিটি খুঁটিনাটি, শেষমেশ এসে দাঁড়াত তাঁরই দরজায়। শেষ বছরগুলো তিনি বিশ্রামে কাটাননি, কাটিয়েছেন তালিমে; তাঁর ২৫০টি বর্ণনা টিকে যাওয়ার আসল কারণ এটাই। সিরিয়ার শেষ সাহাবি বুঝেছিলেন, তাঁর বাকি নিঃশ্বাসগুলো আসলে উম্মাহর আমানত। সেই আমানত তিনি শোধ করে গেছেন এক-একটি বাক্য করে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Rank Without a Ladder", bn: "সিঁড়ি ছাড়াই মর্যাদা" },
+        p: [
+          {
+            en: "Abu Umamah's life quietly dismantles the world's arithmetic of importance. He held no office, conquered no province, and came from a tribe others mocked. Yet when the books of hadith were compiled, his name stood in the chains of hundreds of reports on recitation, prayer, and the mercy of Allah, and the last honour of Syria's Companions belonged to him. Islam had promised that nobility lies in taqwa, not lineage; his biography is that promise kept.",
+            bn: "দুনিয়া যেভাবে মানুষের ওজন কষে, আবু উমামার জীবন নিঃশব্দে সেই অঙ্ক ভেঙে দেয়। কোনো পদ পাননি, কোনো প্রদেশ জয় করেননি, জন্মেছেন এমন গোত্রে যাকে নিয়ে লোকে ঠাট্টা করত। অথচ হাদিসের কিতাবগুলো যখন সংকলিত হলো, তিলাওয়াত, নামাজ আর আল্লাহর রহমতের শত শত বর্ণনার সনদে জ্বলজ্বল করছে তাঁর নাম। সিরিয়ার সাহাবিদের শেষ সম্মানটুকুও জুটল তাঁরই ভাগে। ইসলামের ওয়াদা ছিল, মর্যাদা বংশে নয়, তাকওয়ায়। তাঁর জীবনী সেই ওয়াদা পূরণের দলিল।",
+          },
+          {
+            en: "For the believer reading him today, the practical lesson is his portfolio. He invested in what he could carry: verses recited after prayer, surahs kept alive at night, teaching given away free for decades. None of it required wealth, rank, or a famous name. The door he walked through, of worship plus transmission, patient decades in one town, stands open to any Muslim in any century willing to sit down and stay.",
+            bn: "আজকের পাঠকের জন্য আসল শিক্ষা তাঁর জীবনের বিনিয়োগের খাতায়। যা সঙ্গে বহন করা যায়, তিনি পুঁজি খাটিয়েছেন তাতেই। নামাজের পরের আয়াত, রাত জাগিয়ে রাখা সূরা, দশকের পর দশক বিনা পয়সায় বিলিয়ে দেওয়া তালিম। এর কোনোটার জন্যই ধন লাগে না, পদ লাগে না, নামডাকও লাগে না। ইবাদত আর ইলম পৌঁছে দেওয়া, এক শহরে ধৈর্য ধরে কাটানো দীর্ঘ বছর; তিনি যে দরজা দিয়ে হেঁটে গেছেন, সে দরজা যেকোনো শতাব্দীর যেকোনো মুসলিমের জন্য খোলা। শুধু বসতে হবে, লেগে থাকতে হবে।",
+          },
+        ],
+      },
+    ],
+  },
+  abu_bakrah_ath_thaqafi: {
+    sections: [
+      {
+        h: { en: "Down the Wall of Ta'if", bn: "তায়েফের দেয়াল বেয়ে" },
+        p: [
+          {
+            en: "In the eighth year after the Hijrah the Muslims besieged walled Ta'if, and the Prophet ﷺ announced that any slave who came down from the fortress to the Muslims would be free. Inside the walls a slave named Nufay ibn al-Harith heard. He lowered himself from the fortifications on a pulley wheel, a bakra, and made his way to the Prophet ﷺ, who set him free. From that wheel he took the name the ummah knows him by: Abu Bakra.",
+            bn: "হিজরতের অষ্টম বছরে মুসলিমরা প্রাচীরঘেরা তায়েফ অবরোধ করলেন। নবীজি ﷺ ঘোষণা দিলেন, দুর্গ ছেড়ে যে গোলাম মুসলিমদের কাছে নেমে আসবে, সে আজাদ। দেয়ালের ভেতরে খবরটা পৌঁছাল নুফাই ইবনুল হারিস নামের এক গোলামের কানে। কুয়ার কপিকল, আরবিতে বাকরা, তাতে ভর দিয়ে তিনি দুর্গপ্রাচীর বেয়ে নেমে এলেন, পৌঁছালেন নবীজি ﷺ-এর কাছে। নবীজি ﷺ তাঁকে আজাদ করে দিলেন। ওই কপিকল থেকেই এল সেই নাম, যে নামে উম্মাহ তাঁকে চেনে: আবু বাকরা।",
+          },
+          {
+            en: "He cherished the story in his name. To be the freed slave of the Messenger of Allah ﷺ was, in his eyes, a lineage better than any tribal pedigree, and he would claim it with pride. The descent from the wall is one of the great images of what Islam offered the powerless of Arabia: on one side of the wall, property; on the other side, a man, free, with a name earned by his own courage in reaching for faith.",
+            bn: "নিজের নামের ভেতরের গল্পটা তিনি বুকে করে রেখেছিলেন। রাসূলুল্লাহ ﷺ-এর হাতে আজাদ হওয়া, তাঁর চোখে এ ছিল যেকোনো গোত্রীয় বংশগৌরবের চেয়ে দামি পরিচয়; গর্ব করেই তা বলতেন। আরবের ক্ষমতাহীন মানুষদের ইসলাম কী দিয়েছিল, দেয়াল বেয়ে ওই নেমে আসা তার অন্যতম সেরা ছবি। দেয়ালের এক পাশে সে কারও সম্পত্তি; অন্য পাশে সে মানুষ, আজাদ, আর তার নামটাও অর্জিত ঈমানের দিকে ছুটে যাওয়ার নিজের সাহসে।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Worshipper Who Refused Office", bn: "পদ ফিরিয়ে দেওয়া ইবাদতগুজার" },
+        p: [
+          {
+            en: "Abu Bakra settled in Basra, the new garrison city on the edge of Iraq, and became one of its exemplars of worship. As the conquests poured wealth and posts into the hands of early Muslims, he consistently declined positions of authority. It was not incapacity; his sons rose to prominence and office. It was a settled conviction that his own safety lay in worship and narration, close to the mosque and far from the ledgers of power.",
+            bn: "ইরাকের প্রান্তে নতুন সেনা-শহর বসরায় থিতু হলেন আবু বাকরা, হয়ে উঠলেন সেখানকার ইবাদতগুজারদের অন্যতম নমুনা। বিজয়ের জোয়ারে প্রথম যুগের মুসলিমদের হাতে যখন সম্পদ আর পদ এসে জমছে, তিনি বারবার কর্তৃত্বের আসন ফিরিয়ে দিয়েছেন। অক্ষমতার কারণে নয়; তাঁর ছেলেরাই পরে খ্যাতি আর পদ দুটোই পেয়েছে। এ ছিল তাঁর স্থির বিশ্বাস: নিজের নিরাপত্তা ইবাদত আর হাদিস বর্ণনায়, মসজিদের কাছে থাকায়, ক্ষমতার খাতাপত্র থেকে দূরে থাকায়।",
+          },
+          {
+            en: "From Basra he transmitted about 132 hadith, and their common thread is unmistakable: restraint. Restraint of the hand in civil strife, restraint of the tongue in judgement, restraint of the heart before power. The man who had once been owned chose, as a free man, to own as little of the world's authority as possible, and the collections of hadith are richer for what he did with the time that refusal bought him.",
+            bn: "বসরা থেকে তিনি প্রায় ১৩২টি হাদিস পৌঁছে দিয়েছেন, আর সবগুলোতে একটাই সুর: সংযম। ফিতনার দিনে হাতের সংযম, বিচারের আসনে জিভের সংযম, ক্ষমতার সামনে অন্তরের সংযম। যে মানুষ একদিন অন্যের সম্পত্তি ছিলেন, আজাদ হয়ে তিনি বেছে নিলেন দুনিয়ার কর্তৃত্বের যত কম অংশ সম্ভব। পদ ফিরিয়ে দিয়ে যে সময়টুকু তিনি কিনলেন, তার ফসলেই হাদিসের কিতাবগুলো আজ এত সমৃদ্ধ।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Freedman's Household", bn: "আজাদ মানুষের ঘর" },
+        p: [
+          {
+            en: "The freed slave of Ta'if built in Basra a household that served the religion for generations. The biographers count several of his sons among the scholars and notables of the city, and they relate that his son Abd ar-Rahman was the first child born to the Muslims in the new settlement of Basra. The man who had entered Islam alone, without tribe or property, watched his descendants take their place among its people of knowledge — a lineage begun not with a pedigree but with a pulley wheel.",
+            bn: "তায়েফের আজাদ হওয়া গোলাম বসরায় এমন এক পরিবার গড়ে গেলেন, যা প্রজন্মের পর প্রজন্ম দ্বীনের খেদমত করেছে। জীবনীকাররা তাঁর কয়েকজন ছেলেকে গুনেছেন শহরের আলিম ও গণ্যমান্যদের কাতারে। তাঁরা লিখেছেন, তাঁর ছেলে আবদুর রহমানই বসরার নতুন বসতিতে মুসলিমদের ঘরে জন্ম নেওয়া প্রথম সন্তান। যে মানুষ ইসলামে ঢুকেছিলেন একা, গোত্রহীন, নিঃস্ব অবস্থায়, তিনি দেখে গেলেন তাঁর বংশধররা জায়গা করে নিচ্ছে ইলমের মানুষদের মাঝে। এ গৌরবের শুরু কোনো কুলীন নসবনামায় নয়, এক কুয়ার কপিকলে।",
+          },
+          {
+            en: "His years in Basra were not without trial. In a case examined under Umar (RA) the required testimony was not completed, and Abu Bakra was among those punished under the law of qadhf; the hadith scholars nonetheless continued to accept his narrations, which stand in Bukhari and Muslim. He answered the years that followed with worship and with distance from public quarrels, and the people of Basra knew him to the end as a man of prayer whose word about the Prophet ﷺ they could trust.",
+            bn: "বসরার বছরগুলো পরীক্ষামুক্ত ছিল না। উমর (রাঃ)-এর আমলে বিচারের জন্য ওঠা এক মামলায় শরিয়তের নির্ধারিত সাক্ষ্য পূর্ণ হয়নি; কযফের বিধানে যাঁরা শাস্তি পান, আবু বাকরা ছিলেন তাঁদের একজন। তবু হাদিসের ইমামরা তাঁর বর্ণনা কবুল করে গেছেন, বুখারি-মুসলিমে সেসব আজও দাঁড়িয়ে। পরের বছরগুলোর জবাব তিনি দিয়েছেন ইবাদতে, আর প্রকাশ্য বিবাদ থেকে দূরে থেকে। শেষ দিন পর্যন্ত বসরার মানুষ তাঁকে চিনত নামাজের মানুষ বলে, নবীজি ﷺ সম্পর্কে যাঁর কথা চোখ বুজে বিশ্বাস করা যায়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Narrations of Restraint", bn: "সংযমের হাদিসগুলো" },
+        p: [
+          {
+            en: "His reports read like a manual for dangerous times. Sahih al-Bukhari 31 preserves his narration that when two Muslims meet with their swords, the killer and the killed are both in the Fire; asked about the killed one, the Prophet ﷺ answered that he too had been eager to kill his companion. Sahih al-Bukhari also records through him the Prophet's ﷺ instruction that no judge should decide between two parties while he is angry.",
+            bn: "তাঁর বর্ণনাগুলো পড়লে মনে হয় দুঃসময়ের জন্য লেখা নির্দেশিকা। সহিহ বুখারি ৩১-এ আছে তাঁর হাদিস: দুই মুসলিম তরবারি নিয়ে মুখোমুখি হলে হত্যাকারী ও নিহত দুজনেই জাহান্নামে। জিজ্ঞেস করা হলো, নিহত ব্যক্তির দোষ কী? নবীজি ﷺ জবাব দিলেন, সে-ও তো তার সঙ্গীকে মারতে মরিয়া ছিল। সহিহ বুখারিতেই তাঁর সূত্রে নবীজি ﷺ-এর আরেক নির্দেশ আছে: রাগের মাথায় কোনো বিচারক যেন দুই পক্ষের মধ্যে রায় না দেন।",
+          },
+          {
+            en: "He lived his own narrations. When the wars between Muslims broke out in Basra's own streets, Abu Bakra withheld his hand and counselled withdrawal, citing what he had heard. It is one thing to transmit a hadith about sheathed swords in a lecture; it is another to stand in a city choosing sides and keep the sword sheathed because of it. His restraint gave Basra a living commentary on the texts he carried.",
+            bn: "নিজের বর্ণনা করা হাদিসগুলো তিনি যাপনও করেছেন। মুসলিমে-মুসলিমে লড়াই যখন খোদ বসরার অলিগলিতে এসে পৌঁছাল, আবু বাকরা হাত গুটিয়ে রাখলেন, যা শুনেছিলেন তা শুনিয়ে সবাইকে সরে থাকার পরামর্শ দিলেন। দরসের মজলিসে খাপবন্ধ তরবারির হাদিস শোনানো এক জিনিস। আর পক্ষ বেছে নিতে উন্মুখ এক শহরে দাঁড়িয়ে সেই হাদিসের কারণেই তরবারি খাপে রেখে দেওয়া একেবারে অন্য জিনিস। তাঁর এই সংযম বসরাকে দিয়েছিল তাঁর বহন করা হাদিসগুলোর এক জীবন্ত ব্যাখ্যা।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Prophecy He Lived to See", bn: "যে ভবিষ্যদ্বাণী চোখে দেখে গেলেন" },
+        p: [
+          {
+            en: "Abu Bakra's most famous narration is a prophecy. He saw the Prophet ﷺ on the minbar with his grandson al-Hasan (RA) beside him, looking at the people and at the boy, and saying: “This son of mine is a sayyid, and perhaps Allah will reconcile through him two great parties of the Muslims.” Sahih al-Bukhari 2704 preserves it. Decades later al-Hasan (RA) relinquished his claim to Mu'awiyah (RA) and two armies went home unbloodied.",
+            bn: "আবু বাকরার সবচেয়ে বিখ্যাত হাদিসটি আসলে এক ভবিষ্যদ্বাণী। তিনি দেখেছিলেন, মিম্বরে নবীজি ﷺ, পাশে নাতি হাসান (রাঃ)। একবার মানুষের দিকে, একবার ছেলেটির দিকে তাকিয়ে নবীজি ﷺ বললেন, “আমার এই ছেলে একজন সাইয়িদ। হয়তো আল্লাহ তার মাধ্যমে মুসলিমদের দুটি বিশাল দলের মধ্যে মীমাংসা করিয়ে দেবেন।” সহিহ বুখারি ২৭০৪-এ কথাটি সংরক্ষিত। কয়েক দশক পর হাসান (রাঃ) নিজের দাবি ছেড়ে দিলেন মুয়াবিয়া (রাঃ)-এর হাতে, আর দুটি বাহিনী রক্তপাত ছাড়াই ঘরে ফিরে গেল।",
+          },
+          {
+            en: "Abu Bakra lived to see the year of reconciliation before he died in Basra around 52 AH. It is a fitting close: the narrator of the sheathed-sword hadith witnessing the greatest sheathing of swords in the first century. From the pulley wheel at Ta'if to the trials of Basra to the peace he saw fulfilled, his life keeps one shape, that of a man who feared Allah more than he feared loss, pain, or obscurity.",
+            bn: "মীমাংসার সেই বছরটা আবু বাকরা নিজের চোখে দেখে যেতে পেরেছিলেন; এরপর প্রায় ৫২ হিজরিতে বসরায় ইন্তেকাল করেন। এমন সমাপ্তিই তাঁকে মানায়। খাপবন্ধ তরবারির হাদিসের বর্ণনাকারী দেখে গেলেন প্রথম শতাব্দীর সবচেয়ে বড় তরবারি-খাপে-ঢোকানোর দৃশ্য। তায়েফের কপিকল থেকে বসরার পরীক্ষার দিনগুলো, তারপর পূর্ণ হতে দেখা সেই সন্ধি, তাঁর জীবনের ছাঁচ একটাই। ক্ষতি, ব্যথা বা লোকচক্ষুর আড়ালে হারানোর ভয়ের চেয়ে যে মানুষ আল্লাহকে ভয় করেছেন বেশি।",
+          },
+        ],
+      },
+    ],
+  },
+  shaddad_ibn_aws: {
+    sections: [
+      {
+        h: { en: "The Poet's Nephew", bn: "কবির ভাতিজা" },
+        p: [
+          {
+            en: "Shaddad ibn Aws (RA) was born into one of Madinah's most eloquent households: an Ansari of the Khazraj, son of Aws ibn Thabit and nephew of Hassan ibn Thabit (RA), the poet who defended the Prophet ﷺ in verse. The family gift for words took a different form in Shaddad. Where his uncle's language flew in public recitation, his settled into precise transmission and private supplication, words weighed rather than performed.",
+            bn: "শাদ্দাদ ইবনে আউস (রাঃ)-এর জন্ম মদিনার অন্যতম বাকপটু পরিবারে। খাজরাজ গোত্রের আনসারি, আউস ইবনে সাবিতের ছেলে, আর কবিতায় নবীজি ﷺ-এর পক্ষ লড়া কবি হাসসান ইবনে সাবিত (রাঃ)-এর ভাতিজা। ভাষার ওপর পারিবারিক দখলটা শাদ্দাদের মধ্যে ধরা দিল অন্য চেহারায়। চাচার শব্দ যেখানে জনসমক্ষে আবৃত্তিতে উড়ত, তাঁর শব্দ থিতু হলো নিখুঁত হাদিস বর্ণনায় আর নিভৃত দোয়ায়। মেপে নেওয়া কথা, দেখিয়ে বলা নয়।",
+          },
+          {
+            en: "The Companions themselves marked him out: it was said of him that he was given both knowledge and forbearance, ilm and hilm, a pairing rarer than either alone. Knowledge without gentleness hardens into argument; gentleness without knowledge dissolves into vagueness. The two narrations for which the ummah remembers Shaddad, one on seeking forgiveness and one on gentleness to the slaughtered animal, are exactly what a man of that pairing would carry.",
+            bn: "সাহাবিরা নিজেরাই তাঁকে আলাদা করে চিনিয়ে দিয়েছেন। তাঁর সম্পর্কে বলা হতো, তাঁকে ইলম আর হিলম, জ্ঞান ও সহনশীলতা দুটোই দেওয়া হয়েছে। জ্ঞান আর সহনশীলতার এই জোড় যেকোনো একটার চেয়ে অনেক দুর্লভ। কোমলতা ছাড়া ইলম শক্ত হয়ে তর্কে দাঁড়ায়; ইলম ছাড়া কোমলতা গলে গিয়ে ধোঁয়াশা হয়। উম্মাহ শাদ্দাদকে মনে রেখেছে যে দুটি হাদিসে, একটি মাফ চাওয়ার, অন্যটি জবাইয়ের পশুর প্রতি মায়ার, সে দুটি এই জোড়ের মানুষের হাতেই মানায়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Master Supplication", bn: "ইস্তিগফারের সাইয়িদ" },
+        p: [
+          {
+            en: "Shaddad is the Companion through whom the ummah received the Sayyid al-Istighfar, the master supplication of seeking forgiveness, recorded in Sahih al-Bukhari 6306. The Prophet ﷺ taught it as the best way of asking forgiveness: “O Allah, You are my Lord; there is no deity except You. You created me and I am Your servant, and I am upon Your covenant and Your promise as much as I am able. I seek refuge in You from the evil of what I have done.”",
+            bn: "যে দোয়ার নাম সাইয়িদুল ইস্তিগফার, মাফ চাওয়ার সেরা রূপ, তা উম্মাহর হাতে পৌঁছেছে শাদ্দাদের সূত্রেই; সহিহ বুখারি ৬৩০৬-এ তা সংকলিত। নবীজি ﷺ শিখিয়েছেন, ক্ষমা প্রার্থনার সর্বোত্তম রূপ হলো বলা: “হে আল্লাহ, তুমি আমার রব, তুমি ছাড়া কোনো ইলাহ নেই। তুমি আমাকে সৃষ্টি করেছ, আমি তোমার বান্দা, আর আমি সাধ্যমতো তোমার অঙ্গীকার ও প্রতিশ্রুতির উপর আছি। আমি যা করেছি তার অনিষ্ট থেকে তোমার আশ্রয় চাই।”",
+          },
+          {
+            en: "The supplication continues: “I acknowledge before You Your favour upon me, and I acknowledge before You my sin — so forgive me, for none forgives sins except You.” And the Prophet ﷺ attached a promise: whoever says it during the day with certainty in it and dies that day before evening is among the people of Paradise, and whoever says it at night with certainty and dies before morning is among the people of Paradise. A single memorised paragraph, carried from Shaddad's lips into millions of mornings.",
+            bn: "দোয়াটি এগিয়ে যায়: “আমার উপর তোমার অনুগ্রহ আমি স্বীকার করছি, আর আমার গুনাহও স্বীকার করছি — তাই আমাকে ক্ষমা করো, কারণ তুমি ছাড়া কেউ গুনাহ ক্ষমা করে না।” সঙ্গে নবীজি ﷺ জুড়ে দিয়েছেন এক ওয়াদা: যে দিনের বেলা দৃঢ় বিশ্বাসসহ এটি বলে এবং সন্ধ্যার আগে মারা যায়, সে জান্নাতিদের অন্তর্ভুক্ত; আর যে রাতে দৃঢ় বিশ্বাসসহ এটি বলে এবং সকাল হওয়ার আগে মারা যায়, সে-ও জান্নাতিদের অন্তর্ভুক্ত। মুখস্থ করার মতো একটিমাত্র অনুচ্ছেদ, শাদ্দাদের জবান থেকে পৌঁছে গেছে কোটি মানুষের ভোরে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Excellence in Everything", bn: "সবকিছুতে ইহসান" },
+        p: [
+          {
+            en: "His second great narration stands in Sahih Muslim 1955. The Prophet ﷺ said: “Allah has prescribed excellence in everything. So if you kill, kill well; and if you slaughter, slaughter well. Let each of you sharpen his blade and spare the animal he slaughters.” The teaching reaches ihsan into the one place most people assume it cannot go, the moment of taking an animal's life, and insists that even there, mercy and craftsmanship are prescribed, not optional.",
+            bn: "তাঁর দ্বিতীয় বিখ্যাত বর্ণনাটি সহিহ মুসলিম ১৯৫৫-তে। নবীজি ﷺ বলেছেন: “আল্লাহ প্রতিটি বিষয়েই ইহসান নির্ধারণ করেছেন। তাই যখন হত্যা করো, উত্তমভাবে করো; আর যখন জবাই করো, উত্তমভাবে জবাই করো। তোমাদের প্রত্যেকে যেন নিজের ছুরি ধারালো করে নেয় আর যে প্রাণীটি জবাই করছে তাকে স্বস্তি দেয়।” যেখানে ইহসানের প্রবেশ অসম্ভব বলে ধরে নেয় বেশিরভাগ মানুষ, প্রাণীর জান নেওয়ার সেই মুহূর্তেও এই শিক্ষা ইহসান পৌঁছে দেয়। জানিয়ে দেয়, সেখানেও দরদ আর নিপুণতা নির্ধারিত বিধান, ইচ্ছাধীন সৌজন্য নয়।",
+          },
+          {
+            en: "Set his two narrations side by side and a single theology emerges. The first teaches how a servant stands before his Lord: acknowledging favour, confessing sin, asking pardon. The second teaches how that servant then handles a knife. Between the prayer mat and the slaughterhouse there is no seam; the same prescribed excellence governs both. Shaddad's small legacy of hadith covers the vertical and the horizontal of the entire religion.",
+            bn: "হাদিস দুটি পাশাপাশি রাখলে একটাই দ্বীন-দর্শন ফুটে ওঠে। প্রথমটি শেখায় বান্দা তার রবের সামনে কীভাবে দাঁড়াবে: নিয়ামতের স্বীকৃতি, গুনাহর স্বীকারোক্তি, মাফের আরজি। দ্বিতীয়টি শেখায় সেই বান্দাই ছুরিটা ধরবে কীভাবে। জায়নামাজ আর জবাইখানার মাঝে কোনো ফাটল নেই; দুই জায়গাতেই হুকুম সেই একই নির্ধারিত ইহসানের। সংখ্যায় অল্প হলেও শাদ্দাদের রেখে যাওয়া হাদিস গোটা দ্বীনের উল্লম্ব আর অনুভূমিক দুই রেখাই ঢেকে ফেলে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Nights in Jerusalem", bn: "জেরুজালেমের রাতগুলো" },
+        p: [
+          {
+            en: "In his later years Shaddad left Madinah and settled in Jerusalem, in the land of Sham that the conquests had opened. He was remembered there as a man of the night: given to long weeping in the night prayer, and openly fearful of the trials he saw gathering over the ummah as the first generation thinned. The man who transmitted the promise attached to the morning supplication lived as though he expected to need it before evening.",
+            bn: "শেষ বয়সে শাদ্দাদ মদিনা ছেড়ে জেরুজালেমে থিতু হন; বিজয়ের পর খুলে যাওয়া শামের সেই ভূমিতে। সেখানে মানুষ তাঁকে মনে রেখেছে রাতের মানুষ বলে। তাহাজ্জুদে দীর্ঘ কান্না ছিল তাঁর অভ্যাস। প্রথম প্রজন্ম যত পাতলা হয়ে আসছিল, উম্মাহর মাথার ওপর জমতে থাকা ফিতনার ভয়ের কথাও তিনি খোলাখুলি বলতেন। সকালের দোয়ার সঙ্গে জোড়া ওয়াদাটি যিনি পৌঁছে দিয়েছেন, তিনি নিজে বাঁচতেন এমনভাবে, যেন সন্ধ্যার আগেই সেই ওয়াদার দরকার পড়বে।",
+          },
+          {
+            en: "There is no contradiction between his weeping and his hadith of the guaranteed Paradise; there is the whole point. The Sayyid al-Istighfar is not a formula that replaces fear but the words a fearful servant is given to say. Shaddad recited what he transmitted, with the certainty the hadith demands and the tears the age deserved, in the city where prophets before had prayed. He died there around 58 AH.",
+            bn: "তাঁর কান্না আর নিশ্চিত জান্নাতের হাদিস পরস্পরের বিরোধী নয়; বরং এখানেই আসল কথাটা লুকিয়ে। সাইয়িদুল ইস্তিগফার ভয় মুছে দেওয়ার কোনো মন্ত্র নয়; ভীত বান্দার মুখে তুলে দেওয়া কথা। যা পৌঁছে দিয়েছেন, শাদ্দাদ নিজে তা-ই পড়তেন। হাদিস যে দৃঢ় বিশ্বাস চায় তা নিয়ে, আর যুগ যে অশ্রু দাবি করে তা দিয়ে; সেই শহরে বসে, যেখানে আগের নবীরা (আঃ) নামাজ পড়ে গেছেন। প্রায় ৫৮ হিজরিতে সেখানেই তাঁর ইন্তেকাল হয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "What One Careful Man Can Carry", bn: "একজন যত্নবানের বহনক্ষমতা" },
+        p: [
+          {
+            en: "Shaddad did not conquer a province or govern a city, and his narrations are few next to the great transmitters. Yet weigh what passed through him: the supplication the Prophet ﷺ himself called the master of seeking forgiveness, and the sentence that stamped ihsan on every act down to the sharpening of a blade. Transmission is not a volume business. One man of knowledge and forbearance, trusted completely, moved two of the religion's load-bearing texts across the generations intact.",
+            bn: "শাদ্দাদ কোনো প্রদেশ জয় করেননি, কোনো শহরও শাসন করেননি। বড় বড় হাদিস-বর্ণনাকারীর পাশে তাঁর বর্ণনার সংখ্যাও নগণ্য। কিন্তু ওজন করুন, কী গেছে তাঁর হাত দিয়ে। যে দোয়াকে নবীজি ﷺ নিজেই মাফ চাওয়ার সাইয়িদ বলেছেন, সেটি। আর সেই বাক্য, যা ছুরিতে শাণ দেওয়া পর্যন্ত প্রতিটি কাজে ইহসানের ছাপ বসিয়ে দিয়েছে। হাদিস পৌঁছে দেওয়া সংখ্যার কারবার নয়। ইলম আর হিলমের একজন মানুষ, যাঁর ওপর ভরসা ছিল পূর্ণ, দ্বীনের দুটি ভারবাহী স্তম্ভ প্রজন্ম থেকে প্রজন্মে অক্ষত পার করে দিলেন।",
+          },
+          {
+            en: "For the believer, his life sets an accessible ambition. Learn a few things with total soundness; live them until your character vouches for your reports; and let your nights hold the fear your days do not show. Whoever recites the Sayyid al-Istighfar at dawn tomorrow will be repeating words that travelled through the careful memory of the poet's quiet nephew, and that is a form of immortality no office could have bought him.",
+            bn: "মুমিনের জন্য তাঁর জীবন একটা নাগালের মধ্যের উচ্চাশা দাঁড় করায়। অল্প কিছু জিনিস শিখুন, তবে নির্ভুলভাবে। সেগুলো এমনভাবে যাপন করুন, যেন আপনার চরিত্রই আপনার কথার জামিন হয়। আর দিনের বেলা যে ভয় দেখান না, রাতগুলোকে তা ধরে রাখতে দিন। আগামীকাল ভোরে যে-ই সাইয়িদুল ইস্তিগফার পড়বে, সে আওড়াবে সেই শব্দগুলো, যা পথ পাড়ি দিয়েছে কবির শান্তশিষ্ট ভাতিজার যত্নবান স্মৃতির ভেতর দিয়ে। এমন অমরত্ব কোনো পদ-পদবি তাঁকে কিনে দিতে পারত না।",
+          },
+        ],
+      },
+    ],
+  },
+  irbad_ibn_sariyah: {
+    sections: [
+      {
+        h: { en: "A Man of the Bench", bn: "সুফফার একজন" },
+        p: [
+          {
+            en: "Al-Irbad ibn Sariyah (RA) of the tribe of Sulaym owned almost nothing. In Madinah he belonged to Ahl as-Suffah, the people of the shaded bench at the back of the Prophet's ﷺ mosque, poor Muslims without house or family in the city who lived on what charity reached them and on the knowledge that reached them first. The Suffah was the ummah's first boarding school, and its students traded hunger for proximity to revelation.",
+            bn: "সুলাইম গোত্রের আল-ইরবাদ ইবনে সারিয়া (রাঃ)-এর নিজের বলতে প্রায় কিছুই ছিল না। মদিনায় তিনি ছিলেন আহলুস সুফফার একজন। নবীজি ﷺ-এর মসজিদের পেছনের ছায়াঢাকা চত্বরের সেই মানুষেরা, শহরে যাদের ঘর নেই, পরিবার নেই; যেটুকু দান পৌঁছাত তাতে পেট চলত, আর সবার আগে পৌঁছাত ওহির ইলম। সুফফা ছিল উম্মাহর প্রথম আবাসিক মাদরাসা। তার ছাত্ররা ক্ষুধা মেনে নিয়েছিল ওহির কাছাকাছি থাকার বিনিময়ে।",
+          },
+          {
+            en: "Poverty in that company was not a misfortune to escape but a station to be filled with worship. Irbad absorbed the Prophet's ﷺ words at close range for years, and the hunger of his stomach became the hunger of his memory: what he could not accumulate in property he accumulated in preserved sentences. The ummah would one day owe to this man of the bench one of the most consequential sermons ever transmitted.",
+            bn: "সেই মজলিসে দারিদ্র্য পালানোর মতো দুর্ভাগ্য ছিল না; ছিল ইবাদতে ভরে তোলার মতো একটা মাকাম। বছরের পর বছর একেবারে কাছ থেকে ইরবাদ নবীজি ﷺ-এর কথা শুষে নিয়েছেন। পেটের ক্ষুধা হয়ে উঠেছিল স্মৃতির ক্ষুধা। সম্পদে যা জমাতে পারেননি, জমিয়েছেন মুখস্থ রাখা বাক্যে। সুফফার এই মানুষটির কাছেই উম্মাহ একদিন ঋণী হবে ইতিহাসের অন্যতম তাৎপর্যময় এক খুতবার জন্য।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Weepers of Tabuk", bn: "তাবুকের কাঁদনেওয়ালারা" },
+        p: [
+          {
+            en: "When the call went out for the hard expedition to Tabuk, Irbad came to the Prophet ﷺ asking to be carried to the campaign, for he had no mount of his own. The Prophet ﷺ answered that he could find nothing upon which to carry them, and they turned back with their eyes overflowing with tears, grieving that they had nothing to spend in the way of Allah. The Qur'an itself recorded that scene and lifted all blame from them in 9:92.",
+            bn: "কঠিন তাবুক অভিযানের ডাক যখন এল, ইরবাদ নবীজি ﷺ-এর কাছে গেলেন বাহন চাইতে; নিজের কোনো বাহন তাঁর ছিল না। নবীজি ﷺ জানালেন, তাদের বহন করার মতো কিছুই তিনি পাচ্ছেন না। তারা ফিরে চলল, চোখ বেয়ে ঝরছে অশ্রু। কান্নার কারণ একটাই, আল্লাহর রাস্তায় খরচ করার মতো কিছুই তাদের নেই। কুরআন নিজে দৃশ্যটা ধরে রেখেছে, আর ৯:৯২ আয়াতে তাদের ওপর থেকে সব দায় তুলে নিয়েছে।",
+          },
+          {
+            en: "The commentators mention Irbad among those about whom the verse came down. Consider what is being honoured: not a deed, for none was possible, but a grief. Allah recorded forever that certain poor men wept at being left out of sacrifice, and He counted their tears where others' wealth was counted. In the scales of 9:92 the sincerity that cannot act outweighs the hypocrisy that can, and Irbad carried that verse in his own eyes.",
+            bn: "তাফসিরকাররা আয়াতটির প্রেক্ষাপটে যাঁদের নাম আনেন, ইরবাদ তাঁদের একজন। ভেবে দেখুন, এখানে সম্মান জানানো হচ্ছে কীসের। কোনো আমলের নয়, আমলের তো সুযোগই ছিল না; সম্মান জানানো হচ্ছে একটা কষ্টের। আল্লাহ চিরকালের জন্য লিখে রাখলেন, কজন গরিব মানুষ আল্লাহর রাস্তায় দেওয়ার সুযোগ থেকে বাদ পড়ে কেঁদেছিল। অন্যদের যেখানে সম্পদ গোনা হয়, তাদের সেখানে গোনা হলো চোখের পানি। ৯:৯২-এর পাল্লায় অক্ষম আন্তরিকতা সক্ষম মুনাফেকির চেয়ে ভারী, আর সে আয়াতের সাক্ষ্য ইরবাদ বয়ে বেড়িয়েছেন নিজের দুই চোখে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Sermon That Shook Hearts", bn: "যে খুতবায় হৃদয় কাঁপল" },
+        p: [
+          {
+            en: "Irbad's immortal narration begins with its own effect. The Prophet ﷺ delivered an admonition at which eyes wept and hearts trembled, and someone said: Messenger of Allah, it is as if this were a farewell sermon, so counsel us. He counselled them with taqwa of Allah, and with hearing and obeying even if a slave were placed in command, and warned: whoever among you lives after me will see much disagreement.",
+            bn: "ইরবাদের অমর বর্ণনাটা শুরুই হয় নিজের অভিঘাত দিয়ে। নবীজি ﷺ এমন এক নসিহত করলেন, যাতে চোখগুলো কাঁদল আর হৃদয়গুলো কেঁপে উঠল। কেউ একজন বলল: ইয়া রাসূলাল্লাহ, এ যেন বিদায়ী মানুষের নসিহত; আমাদের অসিয়ত করে যান। তিনি অসিয়ত করলেন আল্লাহর তাকওয়ার, আর শোনা ও মানার, এমনকি একজন গোলামকেও যদি আমির বানানো হয়। সঙ্গে সাবধান করলেন: আমার পরে তোমাদের যে বেঁচে থাকবে, সে বহু মতভেদ দেখবে।",
+          },
+          {
+            en: "Then came the anchor: “Hold fast to my sunnah and the sunnah of the rightly-guided caliphs; bite onto it with the molar teeth. And beware of newly invented matters, for every newly invented matter is an innovation, and every innovation is misguidance.” Abu Dawud 4607 and at-Tirmidhi 2676 record the hadith, and at-Tirmidhi graded it hasan sahih. The image is deliberately physical: not a polite grip that fashion can loosen, but the jaw's strongest teeth closed on the rope of the sunnah.",
+            bn: "তারপর এল সেই খুঁটি: “আমার সুন্নাহ আর হেদায়াতপ্রাপ্ত খলিফাদের সুন্নাহ শক্ত করে ধরো; মাড়ির দাঁত দিয়ে তা কামড়ে থাকো। আর দ্বীনে নতুন উদ্ভাবিত বিষয় থেকে সাবধান, কারণ প্রতিটি নতুন উদ্ভাবিত বিষয়ই বিদআত, আর প্রতিটি বিদআতই গোমরাহি।” হাদিসটি এনেছেন আবু দাউদ (৪৬০৭) ও আত-তিরমিজি (২৬৭৬); আত-তিরমিজি একে হাসান সহিহ বলেছেন। উপমাটা ইচ্ছে করেই শরীরী। এ কোনো ভদ্র আলগা মুঠো নয় যে যুগের হাওয়ায় খুলে যাবে; চোয়ালের সবচেয়ে শক্ত দাঁত এঁটে বসেছে সুন্নাহর রশিতে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Teacher in Hims", bn: "হিমসের শিক্ষক" },
+        p: [
+          {
+            en: "After the Prophet's ﷺ death, Irbad settled in Hims in Syria, in the same current of Companions that carried knowledge into the newly opened land. There the man of the Suffah finally had a roof, and he used it the way he had used the bench: as a place where seekers could find him. The Tabi'un of Syria came to him for the farewell counsel from the mouth of the man who had heard it.",
+            bn: "নবীজি ﷺ-এর ইন্তেকালের পর ইরবাদ থিতু হন সিরিয়ার হিমসে; সাহাবিদের যে স্রোত নতুন খোলা ভূখণ্ডে ইলম বয়ে নিয়ে গিয়েছিল, তারই একজন হয়ে। সুফফার মানুষটি অবশেষে মাথার ওপর ছাদ পেলেন, আর সেটা কাজে লাগালেন ঠিক সেই চত্বরটার মতো করেই। এমন এক ঠিকানা, যেখানে এলে তালিবরা তাঁকে পাবে। বিদায়ী অসিয়তের হাদিস যাঁর নিজের কানে শোনা, তাঁর মুখ থেকেই তা নিতে সিরিয়ার তাবিয়িরা ছুটে আসত তাঁর কাছে।",
+          },
+          {
+            en: "He would tell his students that he was among those about whom 9:92 was revealed, the tearful men with nothing to spend, and then give them the sermon of the trembling hearts. The pairing was his curriculum: sincerity when you have nothing, adherence when the ummah divides. He lived long into the era of the disagreement the Prophet ﷺ had foretold, and died in Hims around 75 AH, still pointing at the rope.",
+            bn: "ছাত্রদের তিনি বলতেন, ৯:৯২ আয়াত যাদের ব্যাপারে নেমেছিল, খরচ করার কিছু না পেয়ে কেঁদে ফেরা সেই মানুষদের একজন তিনিও। তারপর শোনাতেন হৃদয় কাঁপানো সেই খুতবা। এই জোড়াটাই ছিল তাঁর পাঠ্যসূচি: হাতে কিছু না থাকলে আন্তরিকতা, উম্মাহ ভাগ হয়ে গেলে সুন্নাহ আঁকড়ে থাকা। নবীজি ﷺ যে মতভেদের আগাম খবর দিয়েছিলেন, সেই যুগের অনেকটা গভীর পর্যন্ত তিনি বেঁচে ছিলেন। প্রায় ৭৫ হিজরিতে হিমসে ইন্তেকাল করেন, শেষ পর্যন্ত আঙুল তুলে দেখিয়ে গেছেন সেই রশিটাই।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Wealth of the Poor", bn: "গরিবের ধন" },
+        p: [
+          {
+            en: "History has a taste for irony that looks like justice. The man who wept because he could contribute nothing became the channel of one of the most-quoted hadiths in the religion, the standing proof text for holding to the sunnah in every age of confusion. Scholars in every century since have built their defence of the Prophet's ﷺ way on a chain that runs through a man who once could not afford a camel.",
+            bn: "ইতিহাসের পরিহাসগুলো মাঝে মাঝে ইনসাফের চেহারা নেয়। কিছুই দিতে না পারার কষ্টে যে মানুষ কেঁদেছিলেন, তিনিই হয়ে গেলেন দ্বীনের অন্যতম বেশি উদ্ধৃত হাদিসের বাহক। বিভ্রান্তির প্রতিটি যুগে সুন্নাহ ধরে রাখার সনদ-দলিল আজ সেই হাদিসটাই। এরপরের প্রতিটি শতাব্দীর আলিমরা নবীজি ﷺ-এর পথের হেফাজতের ইমারত দাঁড় করিয়েছেন এমন এক সনদের ওপর, যা গিয়ে পৌঁছায় এমন একজন মানুষে, একটা উট কেনার সামর্থ্যও একদিন যাঁর ছিল না।",
+          },
+          {
+            en: "Irbad's biography answers a question every ordinary believer eventually asks: what can I give when I have nothing to give? His answer stands in two parts. Give your grief, for Allah recorded the tears of 9:92 as He recorded the charity of the rich. And give your attention, for a sermon heard with a trembling heart and transmitted with a careful tongue turned a penniless man of the bench into a pillar of the sunnah for fourteen centuries.",
+            bn: "প্রতিটি সাধারণ মুমিনের মনে একদিন যে প্রশ্নটা জাগে, ইরবাদের জীবনী তার জবাব: দেওয়ার মতো কিছুই যখন নেই, তখন আমি কী দেব? তাঁর জবাব দুই ভাগে। দিন আপনার কষ্টটুকু; ধনীর সদকা যেভাবে লেখা হয়, ৯:৯২-এর অশ্রুও আল্লাহ সেভাবেই লিখে রেখেছেন। আর দিন আপনার মনোযোগ। কাঁপা হৃদয়ে শোনা একটা খুতবা আর যত্নে বলা এক জবান, নিঃস্ব এক সুফফাবাসীকে বানিয়ে দিয়েছে চৌদ্দ শতাব্দীর সুন্নাহর স্তম্ভ।",
+          },
+        ],
+      },
+    ],
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { SAHABA_ARTICLES };
