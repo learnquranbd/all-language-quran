@@ -3923,6 +3923,420 @@ const SAHABA_ARTICLES = {
       },
     ],
   },
+  julaybib: {
+    sections: [
+      {
+        h: { en: "No Lineage to Recite", bn: "যাঁর বংশপরিচয় ছিল না" },
+        p: [
+          {
+            en: "Arabia measured a man by his tribe, and Julaybib (RA) had nothing to declare. No clan of Madinah claimed him, no lineage was recited for him, and the reports describe him as short and plain of face, the kind of man a gathering looks past. Marriage, council, honour, protection: every door in that society opened with a question about ancestry, and he could answer none of them. He was, by every measure his world used, a man of no account.",
+            bn: "আরবে মানুষের দাম ঠিক হতো গোত্র দিয়ে। জুলাইবিব (রাঃ)-এর বলার মতো কিছুই ছিল না। মদিনার কোনো গোত্র তাঁকে নিজের বলে দাবি করেনি, কেউ তাঁর বংশতালিকা মুখস্থ রাখেনি। বর্ণনায় আছে, তিনি ছিলেন খাটো, চেহারাও সাদামাটা; মজলিসে যাঁর ওপর দিয়ে চোখ সরে যায়, তিনি সেই মানুষ। বিয়ে, পরামর্শসভা, সম্মান, নিরাপত্তা — সে সমাজের প্রতিটি দরজা খুলত বংশের প্রশ্ন দিয়ে, আর তার একটারও জবাব তাঁর কাছে ছিল না। দুনিয়ার সব মাপকাঠিতে তিনি ছিলেন হিসাবের বাইরের মানুষ।",
+          },
+          {
+            en: "Islam gave him what lineage never had. The Prophet ﷺ knew him by name, kept him near, and treated him with an affection the companions noticed and remembered. The narrations about Julaybib are few, but they were preserved with unusual care, because the men who told them understood what the story settles: in the new community the Messenger of Allah ﷺ was building, the man the city could not place was placed by the Prophet ﷺ himself.",
+            bn: "বংশ যা দেয়নি, ইসলাম তাঁকে তা-ই দিল। নবীজি ﷺ তাঁকে নাম ধরে চিনতেন, কাছে রাখতেন, আর এমন মমতায় দেখতেন যে সাহাবিদের চোখে তা ধরা পড়ে গিয়েছিল। জুলাইবিবকে নিয়ে বর্ণনা বেশি নেই, কিন্তু যে কটি আছে, সেগুলো অসাধারণ যত্নে রাখা হয়েছে। কারণ বর্ণনাকারীরা জানতেন এই গল্পের ফয়সালাটা কী: শহর যাঁকে কোথাও বসাতে পারেনি, রাসূলুল্লাহ ﷺ-এর গড়া নতুন সমাজে তাঁর জায়গা ঠিক করে দিলেন স্বয়ং নবীজি ﷺ।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Marriage He Arranged Himself", bn: "নবীজি ﷺ নিজে যে বিয়ের প্রস্তাব দিলেন" },
+        p: [
+          {
+            en: "Musnad Ahmad preserves the scene. The Prophet ﷺ went to a man of the Ansar and asked for his daughter in marriage. The father was delighted, until he learned the proposal was for Julaybib; then he said he must consult the girl's mother, and the mother refused outright. Should they give their daughter to a man no tribe would own? The Prophet's ﷺ choice had collided with the city's oldest arithmetic, and the arithmetic seemed to be winning.",
+            bn: "দৃশ্যটা মুসনাদে আহমাদে রাখা আছে। নবীজি ﷺ এক আনসারির কাছে গিয়ে তাঁর মেয়ের বিয়ের প্রস্তাব দিলেন। বাবা তো আনন্দে আটখানা, যতক্ষণ না শুনলেন পাত্র জুলাইবিব। তখন বললেন, মেয়ের মায়ের সঙ্গে পরামর্শ করতে হবে; আর মা সরাসরি না করে দিলেন। যে মানুষকে কোনো গোত্র আপন বলে না, তার হাতে মেয়ে তুলে দেবেন? নবীজি ﷺ-এর পছন্দ গিয়ে ধাক্কা খেল শহরের সবচেয়ে পুরোনো হিসাবের সঙ্গে, আর মনে হচ্ছিল হিসাবটাই জিতে যাচ্ছে।",
+          },
+          {
+            en: "The daughter had been listening. She asked her parents whether they meant to turn down what the Messenger of Allah ﷺ had asked; if he was pleased with the man, she said, then send me to him, for he would not bring me to ruin. It is the reasoning of 33:36, that a believer keeps no choice of his own once Allah and His Messenger have decided a matter. Her parents consented, and the narration records that the Prophet ﷺ prayed for the couple, asking Allah to pour goodness upon them and not to make their life one of hardship.",
+            bn: "মেয়েটি ভেতর থেকে সব শুনছিলেন। বাবা-মাকে জিজ্ঞেস করলেন, রাসূলুল্লাহ ﷺ যা চেয়েছেন, আপনারা কি তা ফিরিয়ে দেবেন? তিনি যদি মানুষটার ওপর রাজি থাকেন, তবে আমাকে তাঁর হাতেই তুলে দিন; তিনি তো আমাকে ধ্বংসের দিকে ঠেলে দেবেন না। এ তো 33:36-এরই কথা: আল্লাহ ও তাঁর রাসূল কোনো ফয়সালা দিয়ে দিলে মুমিনের নিজের এখতিয়ার বলে আর কিছু থাকে না। বাবা-মা রাজি হলেন। বর্ণনায় আরও আছে, নবীজি ﷺ নবদম্পতির জন্য দোয়া করলেন: আল্লাহ যেন তাঁদের ওপর কল্যাণ ঢেলে দেন, তাঁদের জীবনটা যেন কষ্টের না হয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Do You Miss Anyone?", bn: "কেউ কি হারিয়ে গেছে?" },
+        p: [
+          {
+            en: "Sahih Muslim 2472 carries the end of the story from Abu Barza al-Aslami (RA). Julaybib was with the Prophet ﷺ on a military expedition, and when the fighting was over the Prophet ﷺ asked his companions: do you miss anyone? They named some men. He asked again, and they named others. Then he said: but I miss Julaybib, so search for him. Every other absence had been noticed by somebody. His was noticed by exactly one person, and it was the Messenger of Allah ﷺ.",
+            bn: "গল্পের শেষটা আবু বারযা আসলামি (রাঃ)-এর জবানিতে সহিহ মুসলিম ২৪৭২-এ আছে। এক যুদ্ধাভিযানে জুলাইবিব নবীজি ﷺ-এর সঙ্গে ছিলেন। লড়াই থামলে নবীজি ﷺ সাহাবিদের জিজ্ঞেস করলেন, তোমাদের কেউ কি হারিয়ে গেছে? তাঁরা কয়েকজনের নাম বললেন। আবার জিজ্ঞেস করলেন, তাঁরা আরও কয়েকজনের নাম নিলেন। তখন তিনি বললেন, কিন্তু আমি তো জুলাইবিবকে পাচ্ছি না; ওকে খোঁজো। বাকি সবার অনুপস্থিতি কারও না কারও চোখে পড়েছিল। তাঁরটা পড়ল কেবল একজনের চোখে, আর সেই একজন রাসূলুল্লাহ ﷺ।",
+          },
+          {
+            en: "They found him beside seven of the enemy he had killed before he was killed himself. The Prophet ﷺ stood over the body and said: he killed seven, then they killed him. This man is of me and I am of him. The narrator recalls that he said it more than once. A sentence like that was the currency of tribal pride, the kind of thing said of a chief's son. It was spent here on a man with no tribe at all.",
+            bn: "তাঁকে পাওয়া গেল সাতজন নিহত শত্রুর পাশে; তাদের মেরে তারপর তিনি নিজে শহিদ হয়েছেন। নবীজি ﷺ লাশের পাশে দাঁড়িয়ে বললেন, সে সাতজনকে মেরেছে, তারপর ওরা ওকে মেরেছে। এ আমার, আর আমি এর। বর্ণনাকারীর মনে আছে, কথাটা তিনি একাধিকবার বলেছেন। এমন বাক্য ছিল গোত্রীয় গৌরবের মুদ্রা; সর্দারের ছেলের বেলায় যা বলা হতো। সেদিন তা খরচ হলো এমন একজনের জন্য, যাঁর কোনো গোত্রই ছিল না।",
+          },
+        ],
+      },
+      {
+        h: { en: "Carried on His Forearms", bn: "নবীজি ﷺ-এর দুই হাতের ওপর" },
+        p: [
+          {
+            en: "The narration in Sahih Muslim continues: the Prophet ﷺ lifted Julaybib upon his own forearms and carried him until a grave was dug for him, and Abu Barza (RA) remarks that he had no bier except the forearms of the Prophet ﷺ. The Messenger of Allah ﷺ, whom kings would soon address, walked to a grave carrying a man the marriage market had rejected, and laid him into the earth with his own hands.",
+            bn: "সহিহ মুসলিমের বর্ণনাটা আরও এগোয়। নবীজি ﷺ জুলাইবিবকে নিজের দুই হাতের ওপর তুলে নিলেন, কবর খোঁড়া শেষ না হওয়া পর্যন্ত ওভাবেই ধরে রাখলেন। আবু বারযা (রাঃ) বলছেন, নবীজি ﷺ-এর দুই হাত ছাড়া তাঁর আর কোনো খাটিয়া জোটেনি। যে রাসূলের ﷺ দরবারে অচিরেই বাদশাহদের চিঠি আসবে, তিনি হেঁটে কবরের দিকে গেলেন এমন এক মানুষকে বয়ে নিয়ে, যাঁকে শহরের ঘটকেরা ফিরিয়ে দিয়েছিল; তারপর নিজ হাতে তাঁকে মাটিতে শুইয়ে দিলেন।",
+          },
+          {
+            en: "Nothing in the scene was staged for an audience. The battle was over, the army was tired, and the easiest thing would have been a shared grave and a short prayer. Instead the companions watched their Prophet ﷺ give a full measure of honour to a man who had never been given any, and they told the story for the rest of their lives. What Julaybib lacked in this world was paid to him, publicly, at its very edge.",
+            bn: "দৃশ্যটার কোনো কিছুই লোক দেখানো ছিল না। যুদ্ধ শেষ, বাহিনী ক্লান্ত; সবচেয়ে সহজ ছিল একটা গণকবর আর সংক্ষিপ্ত দোয়া। তার বদলে সাহাবিরা দেখলেন, যে মানুষটি জীবনে কোনোদিন সম্মান পাননি, তাঁদের নবী ﷺ তাঁকে পুরো মাপের সম্মান দিচ্ছেন। এ ঘটনা তাঁরা সারা জীবন বলে বেড়িয়েছেন। দুনিয়া জুলাইবিবকে যা দেয়নি, দুনিয়ার একেবারে শেষ কিনারায় দাঁড়িয়ে তা তাঁকে সবার সামনে শোধ করে দেওয়া হলো।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Scale His Story Corrects", bn: "যে গল্প মাপকাঠি বদলে দেয়" },
+        p: [
+          {
+            en: "The du'a for his marriage was answered in a way the narrators took care to record: they add that among the widows of the Ansar there was none better provided for than the woman who had said, send me to him. The girl who trusted the Prophet's ﷺ choice against her parents' calculation lost nothing by it. The narration keeps her nameless, which fits; her argument, not her name, is what the ummah needed to inherit.",
+            bn: "তাঁর বিয়ের সেই দোয়া কীভাবে কবুল হয়েছিল, বর্ণনাকারীরা তা লিখে রাখতে ভোলেননি। তাঁরা যোগ করেছেন, আনসারদের বিধবাদের মধ্যে ওই নারীর চেয়ে সচ্ছল আর কেউ ছিলেন না — যিনি বলেছিলেন, আমাকে তাঁর হাতেই তুলে দিন। বাবা-মায়ের হিসাবের বিপরীতে গিয়ে যে মেয়ে নবীজি ﷺ-এর পছন্দের ওপর ভরসা রেখেছিলেন, তাতে তাঁর কিছুই খোয়া যায়নি। বর্ণনা তাঁর নামটা রাখেনি, আর সেটাই মানায়; উম্মতের দরকার ছিল তাঁর যুক্তিটা, নামটা নয়।",
+          },
+          {
+            en: "Julaybib (RA) died around the year 627 CE, having lived unnoticed and died noticed by the one person whose notice outweighs the world. His story survives because it corrects a scale. Every community drifts back toward measuring people by family, wealth and looks; this narration stands in the books as the Prophet's ﷺ own verdict against that drift. He is of me and I am of him was said of one man only, the least regarded man in Madinah, and it has never needed saying better.",
+            bn: "আনুমানিক ৬২৭ খ্রিষ্টাব্দে জুলাইবিব (রাঃ) শহিদ হন। বেঁচে ছিলেন কারও নজরে না পড়ে, আর মারা গেলেন এমন একজনের নজরে পড়ে, যাঁর একটুখানি মনোযোগ গোটা দুনিয়ার চেয়ে ভারী। তাঁর গল্প টিকে আছে, কারণ তা একটা মাপকাঠি শুধরে দেয়। প্রতিটি সমাজই ঘুরেফিরে মানুষ মাপে বংশ, টাকা আর চেহারা দিয়ে; এই বর্ণনা কিতাবের পাতায় দাঁড়িয়ে আছে সেই স্রোতের বিরুদ্ধে নবীজি ﷺ-এর নিজের রায় হয়ে। মদিনার সবচেয়ে উপেক্ষিত সেই একজনের জন্যই বলা হয়েছিল, এ আমার, আর আমি এর। এর চেয়ে ভালো করে কথাটা আর কখনো বলার দরকার পড়েনি।",
+          },
+        ],
+      },
+    ],
+  },
+  abu_talha_al_ansari: {
+    sections: [
+      {
+        h: { en: "A Proposal Answered with a Condition", bn: "শর্ত জুড়ে দেওয়া এক প্রস্তাবের জবাব" },
+        p: [
+          {
+            en: "Zayd ibn Sahl of Banu Najjar, known as Abu Talha (RA), was a man of standing among the Khazraj: a landowner, and one of the finest archers Madinah had. When he proposed to Umm Sulaym (RA), she had already entered Islam and he had not. Her answer, preserved in Sunan an-Nasa'i, was that a man like him was not the kind to be refused, but he was a disbeliever and she a Muslim, and it was not lawful for her to marry him.",
+            bn: "বনু নাজ্জারের যায়েদ ইবনে সাহল, যাঁকে সবাই চেনে আবু তালহা (রাঃ) নামে, ছিলেন খাযরাজ গোত্রের সম্মানিত মানুষ। জমিজমার মালিক, আর মদিনার সেরা তিরন্দাজদের একজন। তিনি যখন উম্মে সুলাইম (রাঃ)-কে বিয়ের প্রস্তাব দিলেন, উম্মে সুলাইম ততদিনে ইসলাম কবুল করে ফেলেছেন, কিন্তু তিনি তখনো করেননি। সুনানে নাসাঈতে তাঁর জবাবটা রাখা আছে: আপনার মতো মানুষকে ফিরিয়ে দেওয়ার নয়; কিন্তু আপনি কাফের, আমি মুসলিম — আপনাকে বিয়ে করা আমার জন্য হালাল নয়।",
+          },
+          {
+            en: "If he accepted Islam, she said, that would be her dowry, and she would ask him for nothing else. He went away with the condition, and came back with the shahadah. The narrators loved this marriage: a woman had priced herself in faith rather than gold, and the man who paid that price gained both a wife and a religion in a single answer. Their household in Madinah would go on to host and serve the Prophet ﷺ for the rest of his life.",
+            bn: "তারপর বললেন, আপনি যদি ইসলাম কবুল করেন, সেটাই হবে আমার মোহর; এর বাইরে আর কিছু চাইব না। শর্তটা নিয়ে তিনি ফিরে গেলেন, আর ফিরে এলেন শাহাদাহ মুখে নিয়ে। বর্ণনাকারীরা এই বিয়ের গল্পটা বড় ভালোবেসে বলেছেন। এক নারী নিজের দাম ধরেছিলেন সোনায় নয়, ঈমানে; আর যে পুরুষ সেই দাম দিলেন, এক জবাবেই তিনি পেলেন স্ত্রী আর দ্বীন দুটোই। মদিনার সেই সংসার এরপর আজীবন নবীজি ﷺ-এর খেদমতে লেগে ছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "My Chest Before Yours", bn: "আপনার আগে আমার বুক" },
+        p: [
+          {
+            en: "At Uhud, when the Muslim line broke and men were cut down around the Prophet ﷺ, Abu Talha stood in front of him. Sahih al-Bukhari records the scene through Anas (RA): Abu Talha shielded the Prophet ﷺ with his leather shield, and he was a powerful archer who broke two or three bows that day. When a man passed by with a quiver of arrows, the Prophet ﷺ would tell him to scatter its contents for Abu Talha.",
+            bn: "উহুদের ময়দানে মুসলিম কাতার যখন ভেঙে পড়ল, নবীজি ﷺ-এর চারপাশে মানুষ শহিদ হচ্ছেন, তখন আবু তালহা গিয়ে দাঁড়ালেন তাঁর সামনে। আনাস (রাঃ)-এর জবানিতে দৃশ্যটা সহিহ বুখারিতে আছে। আবু তালহা নিজের চামড়ার ঢাল দিয়ে নবীজি ﷺ-কে আড়াল করে রাখলেন। এমন জোরে তির ছুড়ছিলেন যে সেদিন তাঁর হাতে দু-তিনটা ধনুক ভেঙে যায়। তূণীর ভরা তির নিয়ে কেউ পাশ দিয়ে গেলেই নবীজি ﷺ বলতেন, তিরগুলো আবু তালহার জন্য ঢেলে দাও।",
+          },
+          {
+            en: "The Prophet ﷺ kept raising his head over the shield to see where the enemy stood, and Abu Talha kept pleading with him not to, saying: do not look out, O Messenger of Allah, lest an arrow strike you. My chest before yours. He was offering his body as the wall between the archers and the Prophet ﷺ, arrow by arrow, for as long as the day lasted. It is the sentence he is remembered by, and he earned it in the open field.",
+            bn: "নবীজি ﷺ বারবার ঢালের ওপর দিয়ে মাথা তুলে দেখতে চাইছিলেন শত্রু কোথায়। আর আবু তালহা বারবার মিনতি করছিলেন, ইয়া রাসূলাল্লাহ, মাথা তুলবেন না, কোনো তির এসে আপনার গায়ে লাগবে। আপনার আগে আমার বুক। তিরের সামনে নিজের শরীরটাকেই তিনি দেয়াল বানিয়ে দিয়েছিলেন — একটার পর একটা তির, যতক্ষণ দিন গড়িয়েছে। এই একটি বাক্যেই মানুষ তাঁকে মনে রেখেছে, আর তা তিনি অর্জন করেছিলেন খোলা ময়দানে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Bayruha", bn: "বায়রুহা" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 1461 records that Abu Talha owned more date palms than any Ansari in Madinah, and the dearest of his wealth to him was Bayruha, a garden facing the mosque; the Prophet ﷺ used to enter it and drink its sweet water. When 3:92 came down, that none attain righteousness until they spend from what they love, Abu Talha went straight to the Prophet ﷺ. Bayruha was what he loved, he said, so let it be for Allah; place it, O Messenger of Allah, wherever Allah shows you.",
+            bn: "সহিহ বুখারি ১৪৬১-তে আছে, মদিনার আনসারদের মধ্যে আবু তালহার খেজুরবাগানই ছিল সবচেয়ে বেশি। আর তাঁর সম্পদের মধ্যে তাঁর সবচেয়ে প্রিয় ছিল বায়রুহা — মসজিদের মুখোমুখি এক বাগান, যেখানে নবীজি ﷺ ঢুকতেন, তার মিঠা পানি পান করতেন। যখন 3:92 নাযিল হলো যে প্রিয় জিনিস খরচ না করা পর্যন্ত কেউ নেকির নাগাল পাবে না, আবু তালহা সোজা নবীজি ﷺ-এর কাছে গেলেন। বললেন, আমার সবচেয়ে প্রিয় সম্পদ বায়রুহা; ওটা আল্লাহর জন্য। ইয়া রাসূলাল্লাহ, আল্লাহ আপনাকে যেখানে দেখান, সেখানেই ওটা কাজে লাগান।",
+          },
+          {
+            en: "The Prophet ﷺ called it a profitable exchange, said it twice, and advised him to divide it among his relatives. Abu Talha did, giving it to kinsmen and cousins. The detail matters: he did not keep a share, and he did not choose strangers over the family the Prophet ﷺ had named. The verse asked for what was loved, and the answer of the richest palm-owner among the Ansar was to hand over the garden the Prophet ﷺ himself used to rest in.",
+            bn: "নবীজি ﷺ একে লাভজনক সওদা বললেন, কথাটা দুবার বললেন, তারপর পরামর্শ দিলেন বাগানটা আত্মীয়দের মধ্যে ভাগ করে দিতে। আবু তালহা তা-ই করলেন; দিয়ে দিলেন নিজের স্বজন ও চাচাতো ভাইদের। খুঁটিনাটিটুকু জরুরি: নিজের জন্য এক টুকরোও রাখেননি, আবার নবীজি ﷺ যাঁদের কথা বললেন সেই পরিবার ছেড়ে বাইরের কাউকেও দেননি। আয়াত চেয়েছিল প্রিয় জিনিস। আনসারদের সবচেয়ে বড় বাগানমালিকের জবাব ছিল সেই বাগানটাই তুলে দেওয়া, যেখানে নবীজি ﷺ নিজে জিরোতে যেতেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Night Their Son Died", bn: "যে রাতে তাঁদের ছেলেটি মারা গেল" },
+        p: [
+          {
+            en: "Sahih al-Bukhari and Sahih Muslim carry the hardest story of that household. A son of Abu Talha fell sick and died while his father was out. Umm Sulaym prepared the body, told her family to say nothing, and when Abu Talha came home she served him his evening meal and let the night pass as any night. Then she asked him: if a people lend something to a household and ask for it back, may the household refuse? He said no.",
+            bn: "সে ঘরের সবচেয়ে কঠিন গল্পটা সহিহ বুখারি ও সহিহ মুসলিম দুই কিতাবেই আছে। আবু তালহার এক ছেলে অসুখে পড়ে মারা গেল, বাবা তখন বাইরে। উম্মে সুলাইম ছেলের শরীর গুছিয়ে রাখলেন, ঘরের সবাইকে বলে দিলেন কেউ যেন মুখ না খোলে। আবু তালহা ফিরলে রাতের খাবার সাজিয়ে দিলেন; রাতটা কাটল আর দশটা রাতের মতোই। তারপর জিজ্ঞেস করলেন, কেউ যদি কোনো পরিবারকে কিছু ধার দেয়, পরে তা ফেরত চায়, পরিবারটা কি না করতে পারে? আবু তালহা বললেন, না।",
+          },
+          {
+            en: "Then, she said, seek your reward with Allah for your son. Abu Talha was angry that she had let the night pass before telling him, and took the matter to the Prophet ﷺ, who prayed that Allah bless their night. From that night came a son, Abdullah, and a man of the Ansar later said he saw nine of Abdullah's sons, every one a reciter of the Quran. The du'a outnumbered the grief nine to one, in the generation they did not live to count.",
+            bn: "তখন বললেন, তাহলে ছেলের ব্যাপারে আল্লাহর কাছে সওয়াব চেয়ে নিন। রাত পার করে তবে কথাটা বলায় আবু তালহা রাগ করলেন, ব্যাপারটা নিয়ে গেলেন নবীজি ﷺ-এর কাছে। নবীজি ﷺ দোয়া করলেন, আল্লাহ যেন তাঁদের সেই রাতে বরকত দেন। সেই রাত থেকেই এল এক ছেলে, আবদুল্লাহ। পরে এক আনসারি বলেছেন, তিনি আবদুল্লাহর নয় ছেলেকে দেখেছেন, প্রত্যেকে কুরআনের কারি। শোকের চেয়ে দোয়া নয় গুণ ভারী হয়ে ফিরে এল — এমন এক প্রজন্মে, যা গুনে দেখার জন্য তাঁরা বেঁচে ছিলেন না।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Long Obedience", bn: "দীর্ঘ এক আনুগত্যের জীবন" },
+        p: [
+          {
+            en: "Abu Talha fought at Badr, Uhud and the battles after them, and outlived the Prophet ﷺ by more than two decades. The biographers record that fasting became the mark of his later years: he kept it almost constantly outside the forbidden days, joining the endurance of the archer to the patience of the worshipper. The man who had once been priced in faith by his wife spent the rest of his life paying the balance, quietly, in worship nobody had asked of him.",
+            bn: "বদর, উহুদ ও তার পরের যুদ্ধগুলোতে আবু তালহা লড়েছেন, আর নবীজি ﷺ-এর পরেও বেঁচে ছিলেন বিশ বছরেরও বেশি। জীবনীকাররা লিখেছেন, শেষ বয়সের তাঁর পরিচয় হয়ে দাঁড়িয়েছিল রোজা; নিষিদ্ধ দিনগুলো বাদে প্রায় সারা বছরই রাখতেন। তিরন্দাজের সহনশীলতার সঙ্গে জুড়ে গিয়েছিল ইবাদতকারীর সবর। যে মানুষের দাম একদিন তাঁর স্ত্রী ধরেছিলেন ঈমান দিয়ে, বাকি জীবন তিনি সেই দেনাই চুপচাপ শোধ করে গেছেন — এমন আমলে, যা কেউ তাঁর কাছে চায়নি।",
+          },
+          {
+            en: "He died around 654 CE. His legacy is a household as much as a life: the husband whose dowry was his own faith, the stepfather in whose home Anas ibn Malik (RA) grew up, the father whose lost son was repaid in nine Quran-reading grandsons. And over all of it stands one day at Uhud, when part of the difference between the ummah keeping its Prophet ﷺ and losing him was the breadth of one Ansari's chest.",
+            bn: "আনুমানিক ৬৫৪ খ্রিষ্টাব্দে তিনি ইন্তেকাল করেন। তাঁর উত্তরাধিকার শুধু একটা জীবন নয়, একটা সংসারও। যে স্বামীর মোহর ছিল তাঁর নিজের ঈমান; যে ঘরে বড় হয়েছেন আনাস ইবনে মালিক (রাঃ); যে বাবার হারানো ছেলের বদলা এসেছে কুরআন-পড়া নয় নাতির মধ্য দিয়ে। আর এই সবকিছুর ওপরে দাঁড়িয়ে আছে উহুদের সেই একটি দিন — যেদিন উম্মতের নবীকে ﷺ রাখা না-রাখার ফারাকের একটা অংশ ছিল এক আনসারির বুকের মাপ।",
+          },
+        ],
+      },
+    ],
+  },
+  umm_sulaym_bint_milhan: {
+    sections: [
+      {
+        h: { en: "Faith as a Dowry", bn: "ঈমানই যাঁর মোহর" },
+        p: [
+          {
+            en: "Umm Sulaym bint Milhan (RA) of Banu Najjar was among the early believers of Madinah, a widow raising her son Anas when Abu Talha, still an idolater, came to propose. Sunan an-Nasa'i preserves her reply: a man like him was not to be refused, but he was a disbeliever and she a Muslim, and marriage between them was not lawful. If he accepted Islam, that would be her dowry, and she would ask nothing else of him.",
+            bn: "বনু নাজ্জারের উম্মে সুলাইম বিনতে মিলহান (রাঃ) ছিলেন মদিনার প্রথম দিকের মুমিনদের একজন; বিধবা, ছেলে আনাসকে একাই বড় করছেন। এমন সময় আবু তালহা বিয়ের প্রস্তাব নিয়ে এলেন, তখনো তিনি মূর্তিপূজারি। সুনানে নাসাঈতে উম্মে সুলাইমের জবাবটা রাখা আছে: আপনার মতো মানুষকে ফিরিয়ে দেওয়ার নয়; কিন্তু আপনি কাফের, আমি মুসলিম, আমাদের বিয়ে হালাল নয়। আপনি ইসলাম কবুল করলে সেটাই আমার মোহর; এর বাইরে আপনার কাছে আর কিছু চাই না।",
+          },
+          {
+            en: "Abu Talha accepted Islam, and the marriage went ahead on those terms. The women of Madinah told the story to each other for generations: a dowry is the one payment a bride may set as she pleases, and Umm Sulaym had set hers at the price of a man's soul. She did not bargain down her religion to keep a rich suitor; she bargained the suitor up to the religion, and won both.",
+            bn: "আবু তালহা ইসলাম কবুল করলেন, সেই শর্তেই বিয়ে হলো। মদিনার নারীরা প্রজন্মের পর প্রজন্ম গল্পটা একে অন্যকে বলে গেছেন। মোহর তো একমাত্র পাওনা, যা কনে নিজের খুশিমতো ঠিক করতে পারেন; উম্মে সুলাইম তাঁরটা ধরেছিলেন এক পুরুষের ঈমানের দামে। ধনী পাত্র হাতছাড়া হওয়ার ভয়ে তিনি দ্বীনের দর কমাননি; বরং পাত্রকেই টেনে তুলেছিলেন দ্বীনের উচ্চতায়, আর জিতে নিয়েছিলেন দুটোই।",
+          },
+        ],
+      },
+      {
+        h: { en: "What She Gave When She Had Nothing", bn: "যখন কিছু ছিল না, তখন যা দিলেন" },
+        p: [
+          {
+            en: "When the Prophet ﷺ arrived in Madinah, every family brought him gifts, and Umm Sulaym had no wealth to bring. So she brought her son. Anas was a boy of about ten, and she presented him with the words that this was Anas, a clever boy, who would serve him. He stayed in the Prophet's ﷺ service for ten years, and the ummah owes much of its daily picture of the Prophet ﷺ at home to the gift of a mother who owned nothing else.",
+            bn: "নবীজি ﷺ মদিনায় এলে ঘরে ঘরে মানুষ তাঁর জন্য উপহার নিয়ে আসছিল। উম্মে সুলাইমের দেওয়ার মতো সম্পদ ছিল না। তাই তিনি নিয়ে এলেন নিজের ছেলেকে। আনাসের বয়স তখন দশের কাছাকাছি। তুলে দিতে গিয়ে বললেন, এ আমার আনাস, বুদ্ধিমান ছেলে; সে আপনার খেদমত করবে। দশ বছর আনাস নবীজি ﷺ-এর খেদমতে ছিলেন। ঘরের ভেতরের নবীজি ﷺ-এর দৈনন্দিন যে ছবিটুকু উম্মত পেয়েছে, তার বড় অংশই এসেছে সেই মায়ের উপহার থেকে, যাঁর আর কিছুই দেওয়ার ছিল না।",
+          },
+          {
+            en: "She then asked the Prophet ﷺ to pray for her boy. Sahih al-Bukhari 6344 and Sahih Muslim 2480 record the du'a: that Allah increase Anas in wealth and children and bless him in what He gave. Anas lived past ninety and reported its answer in his own harvest and household. Umm Sulaym had turned her poverty twice to profit: the son she gave came back a scholar of the ummah, and the du'a she requested outlived them both.",
+            bn: "এরপর তিনি নবীজি ﷺ-কে অনুরোধ করলেন ছেলেটার জন্য দোয়া করতে। সহিহ বুখারি ৬৩৪৪ ও সহিহ মুসলিম ২৪৮০-তে দোয়াটা আছে: আল্লাহ যেন আনাসের সম্পদ ও সন্তান বাড়িয়ে দেন, আর যা দেন তাতে বরকত দেন। আনাস নব্বই পেরিয়ে বেঁচে ছিলেন; নিজের ফসল আর সংসারেই সেই দোয়ার জবাব দেখে গেছেন। উম্মে সুলাইম নিজের অভাবকে দুবার লাভে বদলে নিয়েছিলেন। যে ছেলেকে দিয়ে দিলেন, সে ফিরে এল উম্মতের আলেম হয়ে; আর যে দোয়া চেয়ে নিলেন, তা বেঁচে রইল তাঁদের দুজনের চেয়েও বেশি দিন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Night She Kept Her Grief", bn: "যে রাতে তিনি শোক চেপে রাখলেন" },
+        p: [
+          {
+            en: "Sahih al-Bukhari and Sahih Muslim record the night that made her a byword for patience. A young son of hers died while Abu Talha was away. She washed and laid out the child, told her household to say nothing, and gave her husband his evening meal when he returned; the night passed as any night. At the end of the night she asked him whether a household may refuse to return what it was lent. When he said no, she told him that his son had been a loan and that Allah had taken back His own.",
+            bn: "যে রাত তাঁকে সবরের দৃষ্টান্ত বানিয়ে দিল, তা সহিহ বুখারি ও সহিহ মুসলিমে আছে। তাঁর ছোট এক ছেলে মারা গেল, আবু তালহা তখন বাইরে। তিনি ছেলের শরীর ধুইয়ে শুইয়ে রাখলেন, ঘরের লোকদের বলে দিলেন কেউ যেন কিছু না বলে। স্বামী ফিরলে রাতের খাবার দিলেন; রাতটা কাটল আর দশটা রাতের মতো। রাতের শেষ প্রহরে জিজ্ঞেস করলেন, ধার নেওয়া জিনিস ফেরত চাইলে কি না করা যায়? আবু তালহা বললেন, না। তখন জানিয়ে দিলেন, তাঁদের ছেলেটিও ছিল ধার; আল্লাহ তাঁর আমানত ফিরিয়ে নিয়েছেন।",
+          },
+          {
+            en: "Abu Talha went to the Prophet ﷺ, who prayed that Allah bless their night. The child born of that night was Abdullah, and a man of the Ansar later counted nine of Abdullah's sons, all reciters of the Quran. Scholars have turned this story over for centuries, because it refuses every excuse: she did not deny grief, she scheduled it, so that her husband would hear of his loss from a wife who had already framed it as a trust returned to its Owner.",
+            bn: "আবু তালহা ব্যাপারটা নবীজি ﷺ-এর কাছে নিয়ে গেলে তিনি দোয়া করলেন, আল্লাহ যেন তাঁদের রাতটাতে বরকত দেন। সেই রাতের সন্তানই আবদুল্লাহ। পরে এক আনসারি আবদুল্লাহর নয় ছেলেকে গুনে দেখেছেন, প্রত্যেকে কুরআনের কারি। শত শত বছর ধরে আলেমরা গল্পটা নাড়াচাড়া করেছেন, কারণ এ গল্প কোনো অজুহাত মানে না। উম্মে সুলাইম শোক অস্বীকার করেননি, শোকের সময়টা ঠিক করে দিয়েছিলেন — যেন স্বামী খবরটা শোনেন এমন স্ত্রীর মুখে, যিনি আগেই ক্ষতিটাকে মালিকের কাছে ফেরত যাওয়া আমানত বলে বুঝে নিয়েছেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Dagger at Hunayn", bn: "হুনাইনের দিনে হাতে খঞ্জর" },
+        p: [
+          {
+            en: "Her faith had a soldier's edge. Anas narrates that at Uhud she was among the women hurrying water skins to the wounded, and Sahih Muslim 1809 shows her at Hunayn, pregnant, with a dagger in her hand. When Abu Talha pointed her out to the Prophet ﷺ, she explained it herself: if any idolater came near her, she would rip open his belly with it. The Prophet ﷺ heard her and laughed at the answer.",
+            bn: "তাঁর ঈমানের একটা সৈনিকের ধারও ছিল। আনাস বলেন, উহুদের দিন যেসব নারী মশক ভরে আহতদের পানি পৌঁছে দিচ্ছিলেন, মা ছিলেন তাঁদের একজন। আর সহিহ মুসলিম ১৮০৯-এ তাঁকে দেখা যায় হুনাইনের ময়দানে — অন্তঃসত্ত্বা, হাতে খঞ্জর। আবু তালহা নবীজি ﷺ-কে ব্যাপারটা দেখালে তিনি নিজেই খুলে বললেন: কোনো মুশরিক আমার কাছে ঘেঁষলে এটা দিয়ে তার পেট চিরে দেব। নবীজি ﷺ শুনে হাসলেন।",
+          },
+          {
+            en: "The same narration shows how she thought: she urged the Prophet ﷺ to deal firmly with those who had fled the field, and he answered that Allah had sufficed them. She was not a woman at the edge of events who happened to be caught in them. She placed herself where the wounded and the fighting were, twice, with a plan for each. Madinah's later generations told her story alongside the men's, because it belonged there.",
+            bn: "একই বর্ণনায় তাঁর ভাবনার ধরনটাও ধরা পড়ে। ময়দান ছেড়ে যারা পালিয়েছিল, তাদের ব্যাপারে কঠোর হতে তিনি নবীজি ﷺ-কে তাগিদ দিলেন; নবীজি ﷺ জবাব দিলেন, আল্লাহই যথেষ্ট করেছেন। ঘটনার ধাক্কায় ভেসে আসা কোনো প্রান্তের মানুষ তিনি ছিলেন না। যেখানে আহতরা, যেখানে লড়াই, সেখানে তিনি নিজেই গিয়ে দাঁড়িয়েছেন; দুবার, প্রতিবার নিজস্ব পরিকল্পনা নিয়ে। মদিনার পরের প্রজন্মগুলো পুরুষদের বীরত্বের পাশেই তাঁর গল্প বলেছে, কারণ জায়গাটা তাঁরই ছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "Footsteps Ahead in Paradise", bn: "জান্নাতে আগে আগে পায়ের শব্দ" },
+        p: [
+          {
+            en: "Sahih Muslim 2456 records the glad tidings the Prophet ﷺ gave her in her own lifetime. He said that he entered Paradise and heard footsteps ahead of him, and asked who it was; he was told it was al-Ghumaysa bint Milhan, the mother of Anas ibn Malik. That is Umm Sulaym herself, ar-Rumaysa in a variant of her name. Of all the images of reward in the books, hers is among the most vivid: not a gate or a garden, but the sound of her own feet, already there, already ahead.",
+            bn: "যে সুসংবাদ নবীজি ﷺ তাঁকে জীবদ্দশাতেই দিয়েছিলেন, তা সহিহ মুসলিম ২৪৫৬-এ আছে। তিনি বললেন, আমি জান্নাতে ঢুকে সামনে পায়ের শব্দ শুনলাম; জিজ্ঞেস করলাম, কে? বলা হলো, গুমাইসা বিনতে মিলহান, আনাস ইবনে মালিকের মা। ইনিই উম্মে সুলাইম; কোনো কোনো বর্ণনায় নামটি এসেছে রুমাইসা রূপে। কিতাবে পুরস্কারের যত ছবি আছে, তাঁরটা সবচেয়ে জীবন্তগুলোর একটি। কোনো ফটক নয়, কোনো বাগান নয়; তাঁর নিজের পায়ের আওয়াজ — আগেই পৌঁছে গেছে, আগে আগে হাঁটছে।",
+          },
+          {
+            en: "She died around 650 CE. Count what passed through her hands: a husband brought into Islam as a bride price, a son raised into the Prophet's ﷺ house and into the first rank of narrators, a dead child mourned so wisely that the mourning itself became sunnah teaching, a battlefield served twice. None of it required wealth, office or lineage. The books remember her because she took the little a widow in Madinah held and invested every piece of it in the hereafter.",
+            bn: "আনুমানিক ৬৫০ খ্রিষ্টাব্দে তিনি ইন্তেকাল করেন। তাঁর হাত দিয়ে কী কী গেছে, একবার গুনে দেখুন। মোহরের দামে এক স্বামী ইসলামে এলেন। এক ছেলে বড় হলো নবীজি ﷺ-এর ঘরে, জায়গা পেল বর্ণনাকারীদের প্রথম কাতারে। এক সন্তানের মৃত্যুতে এমন বিচক্ষণ শোক করলেন যে সেই শোকই হয়ে গেল দ্বীনের শিক্ষা। আর যুদ্ধের ময়দানে খেদমত করলেন দু-দুবার। এর কোনোটার জন্যই সম্পদ, পদ বা বংশ লাগেনি। কিতাব তাঁকে মনে রেখেছে, কারণ মদিনার এক বিধবার হাতে যেটুকু ছিল, তার প্রতিটি কণা তিনি খাটিয়েছেন আখেরাতের কারবারে।",
+          },
+        ],
+      },
+    ],
+  },
+  abu_said_al_khudri: {
+    sections: [
+      {
+        h: { en: "Turned Back at Thirteen", bn: "তেরো বছর বয়সে ফিরিয়ে দেওয়া" },
+        p: [
+          {
+            en: "Sa'd ibn Malik of Banu Khudrah, a clan of the Khazraj, was about thirteen when the army marched out to Uhud, and he presented himself to fight. The Prophet ﷺ looked at the boy and turned him back for his age. It is a small scene, but it fixes something about the man he became: Abu Said al-Khudri (RA) spent his whole life presenting himself for the service of this religion, and the refusal at Uhud is the only one on record.",
+            bn: "খাযরাজের শাখা বনু খুদরার সা'দ ইবনে মালিকের বয়স তখন তেরোর কাছাকাছি। বাহিনী উহুদের পথে রওনা হচ্ছে, তিনিও লড়তে চেয়ে হাজির হলেন। নবীজি ﷺ বালকটির দিকে তাকিয়ে বয়সের কারণে ফিরিয়ে দিলেন। ছোট্ট দৃশ্য, কিন্তু পরের মানুষটার একটা পরিচয় এতে গেঁথে আছে। আবু সাঈদ খুদরি (রাঃ) সারাটা জীবন এই দ্বীনের খেদমতে নিজেকে পেশ করে গেছেন; ফিরিয়ে দেওয়ার ঘটনা খাতায় ওই একটাই।",
+          },
+          {
+            en: "His father, Malik ibn Sinan, went where the son could not, and was martyred at Uhud that same day. The boy who had been sent home thus inherited, in one afternoon, both a martyr's honour and a fatherless household. The Madinah he grew up in was a city of such households, living lean years between campaigns, and his early manhood was shaped less by victories than by the discipline of need.",
+            bn: "ছেলে যেখানে যেতে পারল না, বাবা মালিক ইবনে সিনান সেখানে গেলেন, আর সেদিনই উহুদে শহিদ হলেন। ঘরে ফেরত পাঠানো বালকটি এক বিকেলেই দুটো জিনিস পেল: শহিদের সন্তান হওয়ার মর্যাদা, আর পিতৃহীন একটা সংসারের ভার। যে মদিনায় তিনি বড় হলেন, সে শহর তখন এমন সংসারে ভরা; এক অভিযান থেকে আরেক অভিযানের মাঝে টানাটানির বছর। তাঁর প্রথম যৌবন গড়ে দিয়েছে বিজয়ের উল্লাস নয়, অভাবের কঠিন নিয়মকানুন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Lesson About Asking", bn: "চাওয়া নিয়ে শেখা সবক" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 1469 preserves, through Abu Said himself, the teaching that steered his life. Some men of the Ansar asked the Prophet ﷺ and he gave; they asked again and he gave, until what he had was gone. Then he said that whatever good he had he would never withhold from them, but whoever refrains from asking, Allah keeps him chaste; whoever seeks to be content, Allah makes him content; whoever seeks patience, Allah gives him patience; and no one is granted a gift better and vaster than patience.",
+            bn: "যে শিক্ষা তাঁর জীবনের হাল ধরে দিয়েছিল, তা আবু সাঈদের নিজের জবানিতেই সহিহ বুখারি ১৪৬৯-এ আছে। আনসারদের কয়েকজন নবীজি ﷺ-এর কাছে চাইলেন, তিনি দিলেন; আবার চাইলেন, আবার দিলেন — শেষে যা ছিল, ফুরিয়ে গেল। তখন বললেন, আমার কাছে ভালো কিছু থাকলে তোমাদের না দিয়ে রাখব না। তবে যে চাওয়া থেকে বেঁচে থাকে, আল্লাহ তাকে বাঁচিয়ে রাখেন; যে অল্পে তুষ্ট হতে চায়, আল্লাহ তাকে তুষ্ট করে দেন; যে সবর চায়, আল্লাহ তাকে সবর দেন। আর সবরের চেয়ে ভালো ও প্রশস্ত কোনো দান কাউকে দেওয়া হয়নি।",
+          },
+          {
+            en: "He was a poor man from a martyr's poor household, exactly the audience such words fall hardest on, and he carried them as a possession rather than a burden. He narrated this hadith for the rest of his life, and his conduct matched it: the books show him teaching, judging and giving verdicts in Madinah, never chasing office or wealth. The boy turned away from one battlefield had been handed a longer campaign, against need itself, and its weapon was contentment.",
+            bn: "তিনি ছিলেন গরিব মানুষ, শহিদের অভাবী সংসারের সন্তান; এমন কথা যাদের গায়ে সবচেয়ে বেশি বাজে, তিনি ঠিক তাদেরই একজন। অথচ কথাগুলো তিনি বোঝা হিসেবে নয়, সম্পদ হিসেবে বহন করেছেন। সারা জীবন এই হাদিসটি শুনিয়ে গেছেন, আর নিজের চলাফেরাও মিলিয়ে নিয়েছেন এর সঙ্গে। কিতাবে দেখা যায়, তিনি মদিনায় পড়াচ্ছেন, বিচার করছেন, ফতোয়া দিচ্ছেন; পদ বা সম্পদের পেছনে দৌড়াচ্ছেন না। এক ময়দান থেকে ফিরিয়ে দেওয়া বালকের হাতে উঠেছিল আরও লম্বা এক লড়াই — খোদ অভাবের বিরুদ্ধে; আর তার হাতিয়ার অল্পে তুষ্টি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Al-Fatiha as a Cure", bn: "সূরা ফাতিহা যখন ওষুধ" },
+        p: [
+          {
+            en: "Sahih al-Bukhari records, from Abu Said, the journey on which a party of the companions camped near an Arab tribe that refused them hospitality. The tribe's chief was stung by a scorpion, and his people came asking for a healer. One of the party agreed, for a fee of sheep, and recited Surah al-Fatiha, 1:1-7, over the man, who got up as if released from a rope. The companions hesitated over the payment until they could ask the Prophet ﷺ.",
+            bn: "আবু সাঈদের সূত্রে সহিহ বুখারিতে সেই সফরের কথা আছে, যেখানে সাহাবিদের একটি দল এক আরব গোত্রের কাছে মেহমানদারি চেয়ে পায়নি; তবু তাদের পাশেই তাঁবু ফেলেছিল। ঘটনাক্রমে গোত্রপ্রধানকে বিচ্ছু কামড়াল, আর গোত্রের লোকেরাই তখন ঝাড়ফুঁক জানা কাউকে খুঁজতে এল। দলের একজন রাজি হলেন, বিনিময় ঠিক হলো এক পাল ছাগল-ভেড়া। তিনি লোকটির ওপর সূরা ফাতিহা, 1:1-7, পড়লেন; সে এমনভাবে উঠে দাঁড়াল, যেন বাঁধন খুলে দেওয়া হয়েছে। পারিশ্রমিকটা নেওয়া ঠিক হবে কি না, সাহাবিরা নবীজি ﷺ-কে জিজ্ঞেস না করা পর্যন্ত থমকে রইলেন।",
+          },
+          {
+            en: "The Prophet ﷺ asked the reciter how he had known al-Fatiha was a ruqya, approved the payment, and told them to allot him a share of it. Through Abu Said's telling, the ummah learned that its most recited surah is also a healing, and that the Prophet ﷺ confirmed this with a smile rather than a rebuke. He transmitted the hadith with the practical details intact, which is his signature as a narrator: the ruling and the story arrive together.",
+            bn: "নবীজি ﷺ পাঠকারীকে জিজ্ঞেস করলেন, তুমি কী করে জানলে ফাতিহা একটা রুকইয়া? তারপর পারিশ্রমিক নেওয়া অনুমোদন করলেন, আর বললেন, এর থেকে আমার জন্যও একটা ভাগ রেখো। আবু সাঈদের এই বর্ণনার মধ্য দিয়েই উম্মত জানল, তার সবচেয়ে বেশি পড়া সূরাটি একই সঙ্গে নিরাময়ও; আর নবীজি ﷺ তা নিশ্চিত করলেন ধমক দিয়ে নয়, হাসিমুখে। হাদিসটা তিনি পৌঁছে দিয়েছেন খুঁটিনাটিসহ, আর এটাই বর্ণনাকারী হিসেবে তাঁর নিজস্ব ছাপ: বিধান আর ঘটনা আসে একসঙ্গে।",
+          },
+        ],
+      },
+      {
+        h: { en: "From Khandaq Onward", bn: "খন্দক থেকে শুরু" },
+        p: [
+          {
+            en: "Too young for Uhud, he was not too young for long. From the Battle of the Trench onward he marched with the Prophet ﷺ on campaign after campaign, and what he brought back from those years was testimony. Some 1,170 hadith are counted from him, placing him among the most prolific narrators of the Ansar. His reports carry the feel of a man who watched carefully: contexts, questions asked, the exact occasions on which rulings were given.",
+            bn: "উহুদের জন্য ছোট ছিলেন, কিন্তু বেশি দিনের জন্য নয়। খন্দকের যুদ্ধ থেকে শুরু করে একের পর এক অভিযানে তিনি নবীজি ﷺ-এর সঙ্গে বেরিয়েছেন। আর সেসব বছর থেকে ঘরে ফিরিয়ে এনেছেন সাক্ষ্য। তাঁর সূত্রে গোনা হয় প্রায় ১,১৭০টি হাদিস; আনসারদের মধ্যে সবচেয়ে বেশি বর্ণনাকারীদের কাতারে তাঁর জায়গা। তাঁর বর্ণনাগুলো পড়লে বোঝা যায়, মানুষটা খুঁটিয়ে দেখতেন — কোন প্রসঙ্গে কথা, কে কী প্রশ্ন করল, ঠিক কোন উপলক্ষে কোন বিধান এল।",
+          },
+          {
+            en: "Among the narrations the ummah holds through him is the one in Sahih Muslim 49: whoever of you sees a wrong, let him change it with his hand; if he cannot, then with his tongue; if he cannot, then with his heart, and that is the weakest of faith. It became the standing charter of commanding good in Islam. That so weighty a rule reaches us through Abu Said is fitting, for his life was spent saying plainly what he had seen and heard.",
+            bn: "উম্মত তাঁর মাধ্যমে যেসব হাদিস পেয়েছে, তার একটি সহিহ মুসলিম ৪৯-এ: তোমাদের কেউ কোনো মন্দ কাজ দেখলে সে যেন হাত দিয়ে তা বদলে দেয়; না পারলে জবান দিয়ে; তা-ও না পারলে অন্তর দিয়ে, আর এটাই ঈমানের সবচেয়ে দুর্বল স্তর। সৎ কাজের আদেশের ব্যাপারে এ কথাই হয়ে আছে ইসলামের স্থায়ী দলিল। এত ভারী একটা মূলনীতি আবু সাঈদের হাত ধরে আমাদের কাছে পৌঁছেছে, এটা যেন মানিয়েই যায়; যা দেখেছেন আর শুনেছেন তা সোজা করে বলে যাওয়াতেই তো তাঁর জীবন কেটেছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Jurist of Madinah", bn: "মদিনার ফকিহ" },
+        p: [
+          {
+            en: "In the decades after the Prophet ﷺ, Abu Said stayed in Madinah and became one of its teachers: a jurist among the Ansar whose verdicts students recorded and whose gatherings scholars sought out. Younger companions and the generation after them came to him to check what they had heard, because he was known to distinguish carefully between what the Prophet ﷺ had said and what people had begun to say about it.",
+            bn: "নবীজি ﷺ-এর পরের দশকগুলোতে আবু সাঈদ মদিনাতেই থেকে গেলেন, হয়ে উঠলেন শহরের শিক্ষকদের একজন। আনসারদের মধ্যে ফকিহ; তাঁর ফতোয়া ছাত্ররা টুকে রাখত, তাঁর মজলিস খুঁজে নিতেন আলেমরা। বয়সে ছোট সাহাবিরা আর তাঁদের পরের প্রজন্ম নিজেদের শোনা কথা মিলিয়ে নিতে তাঁর কাছে আসতেন। কারণ সবাই জানত, নবীজি ﷺ আসলে কী বলেছেন আর মানুষ তা নিয়ে কী বলতে শুরু করেছে — এ দুটোকে তিনি খুব সাবধানে আলাদা করতেন।",
+          },
+          {
+            en: "He died in Madinah around 693 CE and was buried in al-Baqi, near the graves he had helped fill with prayers for sixty years. His life ran the full arc of the first century: a boy sent home from Uhud, a soldier of the Trench, a poor man taught the wealth of patience, and at the last an old jurist to whom the city listened. What he presented himself for at thirteen, a place in the service of this religion, he was given for seventy years.",
+            bn: "আনুমানিক ৬৯৩ খ্রিষ্টাব্দে তিনি মদিনায় ইন্তেকাল করেন; দাফন হয় জান্নাতুল বাকিতে — যে কবরস্থানে ষাট বছর ধরে তিনি জানাজায় দাঁড়িয়েছেন। তাঁর জীবনটা প্রথম শতাব্দীর পুরো বাঁকটাই ছুঁয়ে গেছে। উহুদ থেকে ঘরে ফেরত পাঠানো বালক, খন্দকের সৈনিক, সবরের সম্পদ শিখে নেওয়া এক গরিব মানুষ, আর শেষ বয়সে এমন এক বৃদ্ধ ফকিহ, যাঁর কথা গোটা শহর কান পেতে শুনত। তেরো বছর বয়সে যে জিনিসের জন্য নিজেকে পেশ করেছিলেন, এই দ্বীনের খেদমতে একটু জায়গা, তা তিনি পেয়েছিলেন সত্তর বছর ধরে।",
+          },
+        ],
+      },
+    ],
+  },
+  jabir_ibn_abdullah: {
+    sections: [
+      {
+        h: { en: "A Boy at the Second Aqabah", bn: "দ্বিতীয় আকাবায় এক কিশোর" },
+        p: [
+          {
+            en: "Before the Prophet ﷺ ever reached Madinah, a night meeting at al-Aqabah near Makkah sealed the city's pledge to him. Among the Khazraj delegation stood Abdullah ibn Amr ibn Haram with his young son Jabir, one of the youngest present at the pledge. The boy saw Islam's founding contract with his own city made in secret and in danger, and he would outlive nearly everyone who stood there that night, carrying its memory to the end of the century.",
+            bn: "নবীজি ﷺ মদিনায় পা রাখারও আগে, মক্কার কাছে আকাবার এক রাতের বৈঠকে শহরটির বাইআত পাকা হয়ে যায়। খাযরাজের সেই প্রতিনিধি দলে ছিলেন আবদুল্লাহ ইবনে আমর ইবনে হারাম, সঙ্গে তাঁর কিশোর ছেলে জাবির; বাইআতে হাজির সবচেয়ে কমবয়সীদের একজন। গোপনে, বিপদ মাথায় নিয়ে নিজের শহরের সঙ্গে ইসলামের গোড়ার চুক্তিটা হতে দেখল ছেলেটি নিজের চোখে। সে রাতে যাঁরা দাঁড়িয়ে ছিলেন, প্রায় সবাইকে পেছনে ফেলে তিনি বেঁচে থাকবেন, আর সেই স্মৃতি বয়ে নিয়ে যাবেন শতাব্দীর শেষ প্রান্ত পর্যন্ত।",
+          },
+          {
+            en: "Jabir's father kept him back from Badr and Uhud, wanting the boy to care for the family of daughters at home if anything happened. Something did. Abdullah fell at Uhud, and Jabir, still young, became the head of a large household overnight. The two facts that framed his whole life were set within three years of each other: he had witnessed the pledge that brought the Prophet ﷺ to Madinah, and he had paid for it with his father.",
+            bn: "বদর আর উহুদে বাবা জাবিরকে যেতে দেননি। চেয়েছিলেন, তাঁর কিছু হয়ে গেলে ঘরভর্তি মেয়েদের দেখার জন্য অন্তত ছেলেটা থাকুক। হলোও তা-ই। উহুদে আবদুল্লাহ শহিদ হলেন, আর অল্প বয়সেই জাবিরের কাঁধে রাতারাতি এসে পড়ল বড় এক সংসারের ভার। যে দুটো ঘটনা তাঁর গোটা জীবনের ফ্রেম ঠিক করে দিল, তারা ঘটে গেল তিন বছরের ব্যবধানে। যে বাইআত নবীজি ﷺ-কে মদিনায় এনেছিল, তার সাক্ষী তিনি; আর তার দাম তিনি দিয়েছেন নিজের বাবাকে দিয়ে।",
+          },
+        ],
+      },
+      {
+        h: { en: "What Uhud Left Behind", bn: "উহুদ যা রেখে গেল" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 1244 records Jabir weeping over his father's body; the people kept forbidding him, but the Prophet ﷺ did not, saying that weeping or not, the angels kept shading the martyr with their wings until he was lifted. Jami at-Tirmidhi adds what the Prophet ﷺ later told him, a report at-Tirmidhi graded hasan gharib: Allah had never spoken to anyone except from behind a veil, but He spoke to Jabir's father directly and told him to wish; he wished to be returned and killed again in His cause. The martyrs' state of 3:169, alive with their Lord and provided for, was for Jabir a family matter.",
+            bn: "সহিহ বুখারি ১২৪৪-এ আছে, বাবার লাশের পাশে জাবির কাঁদছিলেন; লোকেরা তাঁকে বারবার নিষেধ করছিল, কিন্তু নবীজি ﷺ নিষেধ করেননি। বললেন, কাঁদো বা না-কাঁদো, ফেরেশতারা ডানা মেলে শহিদকে ছায়া দিয়ে রেখেছিলেন, যতক্ষণ না তোমরা তাঁকে তুলে নিলে। জামে তিরমিজিতে আরও আছে, নবীজি ﷺ পরে তাঁকে যা বললেন — যে বর্ণনাকে তিরমিজি বলেছেন হাসান গরিব: আল্লাহ কারও সঙ্গে পর্দার আড়াল ছাড়া কথা বলেননি, কিন্তু তোমার বাবার সঙ্গে বলেছেন সামনাসামনি; বলেছেন, চাও। বাবা চাইলেন, তাঁকে যেন দুনিয়ায় ফিরিয়ে দেওয়া হয়, যেন আবার আল্লাহর রাস্তায় শহিদ হতে পারেন। 3:169 বলে, শহিদরা রবের কাছে জীবিত, রিজিকপ্রাপ্ত। জাবিরের কাছে এ ছিল নিজের ঘরের খবর।",
+          },
+          {
+            en: "The father also left debts, and the creditors would not wait. Sahih al-Bukhari tells how Jabir asked the Prophet ﷺ for help when the harvest could not cover what was owed. The Prophet ﷺ walked around the heaps of dates and prayed for blessing, then told Jabir to pay. He paid every creditor in full, and the dates that remained were as many as before. Jabir told the story all his life: the family Uhud had broken was mended in its orchard.",
+            bn: "বাবা রেখে গিয়েছিলেন দেনাও, আর পাওনাদাররা অপেক্ষা করতে রাজি ছিল না। সহিহ বুখারিতে আছে, ফসলে দেনা শোধ হবে না দেখে জাবির নবীজি ﷺ-এর কাছে সাহায্য চাইলেন। নবীজি ﷺ খেজুরের স্তূপগুলোর চারপাশে হেঁটে বরকতের দোয়া করলেন, তারপর বললেন, এবার শোধ করো। প্রত্যেক পাওনাদারের পুরো পাওনা মিটল, অথচ যা খেজুর পড়ে রইল, তা আগের মতোই। জাবির গল্পটা সারা জীবন বলেছেন: উহুদ যে পরিবারটা ভেঙে দিয়েছিল, তার নিজের বাগানেই তা জোড়া লেগেছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Camel Bought and Given Back", bn: "কেনা উট, ফিরিয়ে দেওয়া উট" },
+        p: [
+          {
+            en: "Sahih al-Bukhari and Sahih Muslim both carry the story of the camel. Returning from a campaign, Jabir lagged behind on a worn-out animal. The Prophet ﷺ prodded it and prayed, and it outpaced the rest; then he offered to buy it, and Jabir sold it on the condition he could ride it home to Madinah. On the road the Prophet ﷺ asked whether he had married, and Jabir said yes, a previously married woman, so that she could mother his young sisters. The Prophet ﷺ approved of his reasoning and blessed him.",
+            bn: "উটের গল্পটা সহিহ বুখারি ও সহিহ মুসলিম দুই জায়গাতেই আছে। এক অভিযান থেকে ফেরার পথে জাবির ক্লান্ত এক উটে চড়ে পেছনে পড়ে যাচ্ছিলেন। নবীজি ﷺ উটটাকে খোঁচা দিয়ে দোয়া করলেন; সেটা বাকি সবাইকে ছাড়িয়ে গেল। তারপর তিনি সেটা কিনতে চাইলেন, আর জাবির বেচলেন এই শর্তে যে মদিনা পর্যন্ত ওটায় চড়েই ফিরবেন। পথে নবীজি ﷺ জিজ্ঞেস করলেন, বিয়ে করেছ? জাবির বললেন, জি, আগে বিয়ে হয়েছিল এমন একজনকে — যেন তিনি আমার ছোট বোনগুলোর মা হয়ে উঠতে পারেন। নবীজি ﷺ তাঁর যুক্তি পছন্দ করলেন, দোয়া করলেন।",
+          },
+          {
+            en: "In Madinah, Jabir brought the camel to receive its price. The Prophet ﷺ paid him, then returned the camel too, keeping his purchase and giving away both halves of it. The exchange has been read for centuries as a portrait of how the Prophet ﷺ handled a fatherless young man's dignity: not charity thrown at him, but a sale, a profit, a conversation about his sisters, and a gift folded inside a transaction so that no one could call it alms.",
+            bn: "মদিনায় পৌঁছে জাবির দাম বুঝে নিতে উটটা নিয়ে গেলেন। নবীজি ﷺ দাম দিলেন, তারপর উটটাও ফিরিয়ে দিলেন; কেনা জিনিসের দুই ভাগই দিয়ে দিলেন তাঁকে। শত শত বছর ধরে এই লেনদেনটা পড়া হয়েছে একটা ছবির মতো: পিতৃহীন এক তরুণের আত্মমর্যাদা নবীজি ﷺ কীভাবে সামলেছিলেন। মুখের ওপর ছুড়ে দেওয়া দান নয়; একটা বেচাকেনা, একটা লাভ, বোনদের নিয়ে খানিক আলাপ, আর লেনদেনের ভাঁজে লুকোনো একটা উপহার — যেন কেউ ওটাকে ভিক্ষা বলতে না পারে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Verse at His Sickbed", bn: "অসুখের বিছানায় নেমে আসা আয়াত" },
+        p: [
+          {
+            en: "Jabir once fell so ill that he lost his senses, and the Prophet ﷺ walked to visit him with Abu Bakr (RA), made wudu and poured the water over him. Reviving, Jabir asked what he should do with his wealth, since he had neither child nor parent to inherit. In answer came 4:176, the final verse of Surah an-Nisa, ruling the inheritance of one who leaves neither descendants nor ascendants. Both Sahihs record it, and Jabir would say the verse was revealed concerning him.",
+            bn: "একবার জাবির এমন অসুখে পড়লেন যে হুঁশই থাকল না। নবীজি ﷺ আবু বকর (রাঃ)-কে সঙ্গে নিয়ে হেঁটে তাঁকে দেখতে গেলেন, অজু করে সেই পানি তাঁর গায়ে ঢেলে দিলেন। হুঁশ ফিরলে জাবির জিজ্ঞেস করলেন, আমার সম্পদের কী করব? ওয়ারিশ হওয়ার মতো সন্তানও নেই, বাবা-মাও নেই। জবাব নেমে এল 4:176 হয়ে — সূরা নিসার শেষ আয়াত, যাতে এমন মানুষের মিরাসের ফয়সালা, যার ওপরেও কেউ নেই, নিচেও কেউ নেই। দুই সহিহেই ঘটনাটা আছে, আর জাবির বলতেন, আয়াতটা নেমেছিল তাঁরই ব্যাপারে।",
+          },
+          {
+            en: "It is a rare honour: a companion whose personal question is answered by the closing verse of one of the Quran's greatest surahs. It also explains the kind of narrator he became. Revelation had entered his sickroom; the Prophet ﷺ had walked to his bed. A man taught his religion that personally does not transmit it carelessly, and the precision of Jabir's later narrations, full of dates, distances and exact words, began in a house where the Quran itself had come to find him.",
+            bn: "সম্মানটা বিরল। এক সাহাবির ব্যক্তিগত প্রশ্নের জবাব এসেছে কুরআনের অন্যতম মহান এক সূরার সমাপ্তি-আয়াত হয়ে। এতে বোঝা যায়, তিনি কেমন বর্ণনাকারী হয়ে উঠলেন কেন। ওহি ঢুকেছিল তাঁর রোগশয্যার ঘরে; নবীজি ﷺ হেঁটে এসেছিলেন তাঁর বিছানার পাশে। এতটা কাছ থেকে যে মানুষ দ্বীন শিখেছে, সে তা যেনতেনভাবে পৌঁছে দিতে পারে না। জাবিরের পরের বর্ণনাগুলোর নিখুঁত ভাব, সেই তারিখ, দূরত্ব, হুবহু শব্দ — সবের শুরু সেই ঘরে, যেখানে কুরআন নিজে তাঁকে খুঁজে এসেছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Longest Memory in Madinah", bn: "মদিনার সবচেয়ে দীর্ঘ স্মৃতি" },
+        p: [
+          {
+            en: "Sahih Muslim 1218 is Jabir's masterpiece: the long narration of the Prophet's ﷺ Farewell Hajj, step by step from Madinah to Arafah, with the words of the sermon and the order of every rite. It is the single account on which scholars of every generation have built the fiqh of pilgrimage. In all, some 1,540 narrations are counted from him, and their range shows a man who had asked, watched and remembered across three decades of companionship.",
+            bn: "সহিহ মুসলিম ১২১৮ জাবিরের শ্রেষ্ঠ কীর্তি: নবীজি ﷺ-এর বিদায় হজের সেই দীর্ঘ বর্ণনা। মদিনা থেকে আরাফা পর্যন্ত ধাপে ধাপে, খুতবার বাণী আর প্রতিটি রুকনের ধারাবাহিকতাসহ। প্রতিটি প্রজন্মের আলেমরা হজের ফিকাহ দাঁড় করিয়েছেন মূলত এই একটি বিবরণের ওপরেই। সব মিলিয়ে তাঁর সূত্রে গোনা হয় প্রায় ১,৫৪০টি বর্ণনা। সেগুলোর বিস্তার দেখলেই বোঝা যায়, তিন দশকের সাহচর্যজুড়ে মানুষটা জিজ্ঞেস করেছেন, খেয়াল করেছেন, মনে রেখেছেন।",
+          },
+          {
+            en: "His appetite for accuracy never aged. Al-Bukhari cites, at the head of his chapter on travelling for knowledge, the report that Jabir journeyed a month to Syria to hear a single hadith from Abdullah ibn Unays (RA) directly. In old age he held a teaching circle in the Prophet's Mosque, and he died in Madinah around 697 CE, among the very last companions in the city. The boy from al-Aqabah was, at the end, the final open door to that night.",
+            bn: "নির্ভুলতার সেই খিদে বুড়ো বয়সেও কমেনি। ইলম অন্বেষণে সফরের অধ্যায়ের শুরুতে ইমাম বুখারি সেই ঘটনাটা এনেছেন: একটিমাত্র হাদিস আবদুল্লাহ ইবনে উনাইস (রাঃ)-এর মুখ থেকে সরাসরি শোনার জন্য জাবির এক মাসের পথ পাড়ি দিয়ে সিরিয়ায় গিয়েছিলেন। শেষ বয়সে মসজিদে নববিতে বসত তাঁর দরসের হালকা। আনুমানিক ৬৯৭ খ্রিষ্টাব্দে মদিনায় তিনি ইন্তেকাল করেন; শহরে তখন সাহাবিদের প্রায় শেষজন। আকাবার সেই কিশোরই শেষ পর্যন্ত ছিলেন ওই রাতের দিকে খোলা থাকা শেষ দরজা।",
+          },
+        ],
+      },
+    ],
+  },
+  abdullah_ibn_amr_ibn_al_as: {
+    sections: [
+      {
+        h: { en: "The Son Who Arrived First", bn: "বাবার আগে পৌঁছে যাওয়া ছেলে" },
+        p: [
+          {
+            en: "Abdullah (RA) was the son of Amr ibn al-As, one of the shrewdest political minds in Arabia, and he entered Islam before his father did. In a culture where sons followed fathers in religion as surely as in trade, the order of those two conversions says much about the son. He came to faith on his own reading of it, not in his father's wake, and the independence showed in everything afterward: his worship, his questions, and above all his pen.",
+            bn: "আবদুল্লাহ (রাঃ) ছিলেন আরবের ধুরন্ধরতম রাজনৈতিক মাথাগুলোর একজন, আমর ইবনুল আসের ছেলে; অথচ ইসলামে তিনি ঢুকেছেন বাবার আগে। যে সমাজে ছেলেরা ব্যবসার মতো ধর্মেও বাবার পথ ধরত, সেখানে কে আগে কে পরে এসেছেন — এই ক্রমটাই ছেলেটির অনেক পরিচয় দিয়ে দেয়। তিনি ঈমানে এসেছেন নিজের বুঝে, বাবার স্রোতে গা ভাসিয়ে নয়। সেই স্বাধীন মেজাজ পরে সবকিছুতে ফুটেছে: তাঁর ইবাদতে, তাঁর প্রশ্নে, আর সবার ওপরে তাঁর কলমে।",
+          },
+          {
+            en: "He could read and write in an age when few could, and he had some knowledge of the earlier scriptures. Those two facts set the shape of his service. Other companions carried what they heard in memory; Abdullah wanted it in ink. The instinct of a literate man in an oral world, that words spoken once should be fixed before they fade, would make him one of the most consequential preservers of the Prophet's ﷺ words.",
+            bn: "যে যুগে অক্ষর চেনা মানুষই বিরল, সে যুগে তিনি পড়তে ও লিখতে জানতেন; আগের আসমানি কিতাবগুলোর খোঁজখবরও কিছুটা রাখতেন। এই দুটো ব্যাপারই তাঁর খেদমতের ছাঁচ গড়ে দিয়েছে। অন্য সাহাবিরা যা শুনতেন, বয়ে বেড়াতেন স্মৃতিতে; আবদুল্লাহ চাইতেন তা কালিতে ধরে রাখতে। মুখে-মুখে চলা এক দুনিয়ায় অক্ষর-জানা মানুষের সহজাত টান — একবার বলা কথা মিলিয়ে যাওয়ার আগে গেঁথে ফেলা চাই। এই টানই তাঁকে বানিয়েছে নবীজি ﷺ-এর বাণীর সবচেয়ে প্রভাব-রাখা সংরক্ষকদের একজন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Permission to Write", bn: "লেখার অনুমতি" },
+        p: [
+          {
+            en: "He used to write down everything he heard from the Prophet ﷺ, until people of Quraysh objected: the Messenger of Allah ﷺ was a man who spoke in anger as well as contentment, so should everything be recorded? Abdullah stopped and asked the Prophet ﷺ himself. Sunan Abi Dawud preserves the answer: the Prophet ﷺ pointed to his own mouth and told him to write, for by the One in Whose hand was his soul, nothing came out of it but truth.",
+            bn: "নবীজি ﷺ-এর মুখে যা শুনতেন, সবই তিনি লিখে রাখতেন। শেষে কুরাইশের কিছু লোক আপত্তি তুলল: রাসূলুল্লাহ ﷺ তো মানুষ, রাগের মাথায়ও কথা বলেন, খুশির সময়েও বলেন; সবই কি লিখে রাখা ঠিক? আবদুল্লাহ লেখা থামিয়ে সরাসরি নবীজি ﷺ-কেই জিজ্ঞেস করলেন। জবাবটা সুনানে আবু দাউদে রাখা আছে। নবীজি ﷺ নিজের মুখের দিকে ইশারা করে বললেন: লেখো। যাঁর হাতে আমার প্রাণ, তাঁর কসম — এখান থেকে সত্য ছাড়া কিছু বের হয় না।",
+          },
+          {
+            en: "With that license he compiled his written collection, which he called as-Sahifa as-Sadiqa, the Truthful Scroll. Its worth was acknowledged by the man best placed to judge. Sahih al-Bukhari 113 records Abu Hurayrah (RA) saying that no companion narrated more hadith than he did, except Abdullah ibn Amr, for Abdullah used to write and he did not. From the most prolific memory in the ummah, that is not a compliment; it is a measurement.",
+            bn: "সেই অনুমতি নিয়েই তিনি গড়ে তুললেন তাঁর লিখিত সংকলন, নাম দিলেন আস-সাহিফা আস-সাদিকা — সত্যবাদী পাতা। এর দাম স্বীকার করেছেন এমন একজন, বিচারের আসনে যাঁর চেয়ে যোগ্য কেউ নেই। সহিহ বুখারি ১১৩-তে আবু হুরাইরা (রাঃ) বলছেন: আমার চেয়ে বেশি হাদিস কোনো সাহাবি বর্ণনা করেননি, এক আবদুল্লাহ ইবনে আমর ছাড়া; কারণ সে লিখে রাখত, আমি রাখতাম না। উম্মতের সবচেয়ে সমৃদ্ধ স্মৃতির মুখে এ কথা নিছক প্রশংসা নয়; রীতিমতো একটা মাপজোখ।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Prophet ﷺ Slows Him Down", bn: "নবীজি ﷺ যখন তাঁর লাগাম টানলেন" },
+        p: [
+          {
+            en: "Word reached the Prophet ﷺ that Abdullah fasted every day and stood in prayer all night. Sahih al-Bukhari and Sahih Muslim record the long negotiation that followed. Fast three days a month, the Prophet ﷺ said; Abdullah pleaded that he could do more, until the Prophet ﷺ set the limit at the fast of Dawud (AS), one day fasting and one day not, and none better than that. His Quran recitation was bounded the same way: finish it in a month, then, after the same pleading, in no fewer than seven days.",
+            bn: "নবীজি ﷺ-এর কানে গেল, আবদুল্লাহ প্রতিদিন রোজা রাখেন, সারা রাত নামাজে দাঁড়িয়ে থাকেন। এরপর যে লম্বা দর-কষাকষি চলল, তা সহিহ বুখারি ও সহিহ মুসলিমে আছে। নবীজি ﷺ বললেন, মাসে তিন দিন রোজা রাখো। আবদুল্লাহ বারবার বললেন, আমি আরও পারব। শেষে সীমা টানা হলো দাউদ (আঃ)-এর রোজায়: এক দিন রোজা, এক দিন বিরতি; আর এর চেয়ে উত্তম কিছু নেই। কুরআন তিলাওয়াতেও একই কায়দায় সীমা এল। প্রথমে বলা হলো এক মাসে খতম করো; তারপর সেই একই অনুনয়ের পর ঠিক হলো, সাত দিনের কমে নয়।",
+          },
+          {
+            en: "Inside the same narration sits the sentence the ummah quotes most from it: your body has a right over you, your eyes have a right over you, and your wife has a right over you. In his old age, when his strength failed against the habits of his youth, Abdullah would say he wished he had accepted the ease the Messenger of Allah ﷺ had offered him. He kept his vows anyway, unwilling to change anything he had settled with the Prophet ﷺ.",
+            bn: "ওই একই বর্ণনার ভেতরে সেই বাক্যটিও আছে, উম্মত যা সবচেয়ে বেশি উদ্ধৃত করে: তোমার ওপর তোমার শরীরের হক আছে, তোমার চোখের হক আছে, তোমার স্ত্রীরও হক আছে। শেষ বয়সে, যৌবনের অভ্যাসের সঙ্গে গায়ের জোর আর পেরে উঠছিল না যখন, আবদুল্লাহ বলতেন: রাসূলুল্লাহ ﷺ যে ছাড়টা দিতে চেয়েছিলেন, তা যদি নিয়ে নিতাম! তবু নিজের ওয়াদা তিনি ভাঙেননি। নবীজি ﷺ-এর সঙ্গে যা রফা হয়ে গিয়েছিল, তার একটুও বদলাতে তাঁর মন সায় দেয়নি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Reader of the Older Books", bn: "পুরোনো কিতাবের পাঠক" },
+        p: [
+          {
+            en: "His learning reached beyond what he heard. When Ata ibn Yasar asked him about the description of the Messenger of Allah ﷺ in the Torah, Abdullah answered, in a narration Sahih al-Bukhari carries, that he was described there by some of the same qualities as in the Quran: a witness, a bearer of glad tidings and a warner, not harsh nor coarse nor one who shouts in the markets, who does not repay evil with evil but pardons and forgives.",
+            bn: "তাঁর ইলম শুধু কানে শোনা পর্যন্ত থেমে থাকেনি। আতা ইবনে ইয়াসার একবার তাঁকে জিজ্ঞেস করলেন, তাওরাতে রাসূলুল্লাহ ﷺ-এর পরিচয় কীভাবে এসেছে। সহিহ বুখারিতে রাখা সেই বর্ণনায় আবদুল্লাহ জবাব দিলেন: কুরআনে যেসব গুণে তাঁর পরিচয়, তাওরাতেও তার কিছু গুণ দিয়েই তিনি চিহ্নিত — সাক্ষী, সুসংবাদদাতা ও সতর্ককারী; রূঢ় নন, কর্কশ নন, হাটে-বাজারে চেঁচিয়ে বেড়ানোর মানুষ নন; মন্দের বদলা মন্দ দিয়ে দেন না, বরং মাফ করেন, ছেড়ে দেন।",
+          },
+          {
+            en: "It is also Abdullah who transmits the Prophet's ﷺ charge in Sahih al-Bukhari 3461: convey from me, even a single verse. The two narrations belong together. A man who could read the older books knew exactly how communities lose their prophets' words, by failing to pass them on and by leaving them to copyists' whims, and the Prophet ﷺ entrusted precisely him with the command to transmit, and the discipline of doing it faithfully.",
+            bn: "সহিহ বুখারি ৩৪৬১-তে নবীজি ﷺ-এর সেই নির্দেশও এসেছে আবদুল্লাহরই সূত্রে: আমার পক্ষ থেকে পৌঁছে দাও, একটি আয়াত হলেও। বর্ণনা দুটো আসলে একই সুতোয় গাঁথা। পুরোনো কিতাব পড়তে জানা মানুষটি ভালো করেই জানতেন, নবীদের কথা জাতিগুলো কীভাবে হারায় — পৌঁছে না দিয়ে, আর নকলনবিশদের খেয়ালখুশির হাতে ছেড়ে দিয়ে। আর পৌঁছে দেওয়ার হুকুম এবং বিশ্বস্তভাবে পৌঁছে দেওয়ার কঠিন নিয়মটা নবীজি ﷺ আমানত রাখলেন ঠিক তাঁর কাছেই।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Scroll Outlives Him", bn: "মানুষটির চেয়ে দীর্ঘজীবী তাঁর সাহিফা" },
+        p: [
+          {
+            en: "Abdullah lived through the conquests and the first civil wars, and the trials of those years weighed on him; the reports show a man who grieved over Muslim blood and turned ever more deeply to worship. He died around 65 AH, roughly 684 CE. What did not die was the Sahifa. It passed down through his family, and through his great-grandson Amr ibn Shu'ayb its narrations, from his father, from his grandfather, flowed into the books of hadith the ummah reads today.",
+            bn: "বিজয়ের যুগও আবদুল্লাহ দেখেছেন, দেখেছেন প্রথম গৃহযুদ্ধগুলোও; সেসব বছরের ফিতনা তাঁর বুকে পাথরের মতো চেপে ছিল। বর্ণনাগুলোতে ফুটে ওঠে এমন এক মানুষ, মুসলমানের রক্তপাত যাঁকে কাঁদাত, আর যিনি ডুবে যাচ্ছিলেন আরও গভীর ইবাদতে। ইন্তেকাল করেন আনুমানিক ৬৫ হিজরিতে, মোটামুটি ৬৮৪ খ্রিষ্টাব্দ। কিন্তু সাহিফাটা মরেনি। তা নেমে গেছে তাঁর পরিবারের হাত ধরে। প্রপৌত্র আমর ইবনে শুআইবের সূত্রে, বাবার থেকে, দাদার থেকে — সেই বর্ণনাগুলো গিয়ে মিশেছে হাদিসের সেসব কিতাবে, উম্মত আজও যা পড়ে।",
+          },
+          {
+            en: "His legacy is a method as much as a text. Against the hesitation of his time, he trusted ink; against the pull of his own zeal, he learned to accept limits; and against the prestige of his father's politics, he chose the scholar's table. When the great collectors of hadith sat down two centuries later to sift the ummah's memory, they were completing a project whose first page a young Qurayshi had started with the Prophet's ﷺ own permission.",
+            bn: "তাঁর উত্তরাধিকার শুধু একটা লেখা নয়, একটা কর্মপদ্ধতিও। যুগের দ্বিধার উল্টো দিকে গিয়ে তিনি ভরসা রেখেছিলেন কালিতে। নিজের ইবাদতের জোশের টানের বিপরীতে শিখে নিয়েছিলেন সীমা মেনে নেওয়া। আর বাবার রাজনীতির জৌলুস ফেলে বেছে নিয়েছিলেন আলেমের দস্তরখান। দুই শতাব্দী পর হাদিসের মহান সংকলকরা যখন উম্মতের স্মৃতি ছেঁকে বসলেন, তাঁরা আসলে সেই কাজটাই পূর্ণ করছিলেন — যার প্রথম পাতাটা এক কুরাইশি তরুণ শুরু করেছিলেন খোদ নবীজি ﷺ-এর অনুমতি নিয়ে।",
+          },
+        ],
+      },
+    ],
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { SAHABA_ARTICLES };
