@@ -6667,6 +6667,420 @@ const SAHABA_ARTICLES = {
       }
     ]
   },
+  khalid_ibn_said_ibn_al_as: {
+    sections: [
+      {
+        h: { en: "A Son of Umayyad Privilege", bn: "উমাইয়া ঘরের ছেলে" },
+        p: [
+          {
+            en: "Khalid ibn Sa'id (RA) was born into the innermost circle of Meccan power. His father, Sa'id ibn al-As, known as Abu Uhayhah, stood among the wealthiest and most feared lords of Quraysh, and the Umayyad clan expected its sons to inherit trade, rank, and the old religion as one bundle. Every door of that world stood open to Khalid. What he did with his life is striking precisely because of what he was born holding: he walked away from all of it while it was still worth keeping.",
+            bn: "খালিদ ইবনে সাঈদের (রাঃ) জন্ম মক্কার ক্ষমতার একেবারে ভেতরের মহলে। বাবা সাঈদ ইবনুল আস, ডাকনাম আবু উহাইহা, ছিলেন কুরাইশের সবচেয়ে ধনী ও দাপুটে সরদারদের একজন। উমাইয়া গোত্রের ছেলেরা ব্যবসা, মর্যাদা আর পুরোনো ধর্ম তিনটিই একসঙ্গে উত্তরাধিকারে পাবে, ধরে নেওয়া হতো এমনটাই। খালিদের সামনে সে দুনিয়ার সব দরজাই খোলা ছিল। তাঁর জীবন এত নজরকাড়া এই কারণেই: হাতে যা ছিল তার সবটাই তখনো দামি, অথচ তিনি সব ফেলে চলে এলেন।",
+          },
+          {
+            en: "He accepted Islam at the very beginning of the mission, before the message had left its first small rooms. Some reports count him the fourth or fifth person to believe, and though the early biographers differ over the exact order, they agree that he stood in the first handful. There was no community yet to join and no reward in sight; believing meant setting himself against his own house. His brother Amr followed him into the faith, and the two carried the Umayyad name into Islam's earliest register.",
+            bn: "ইসলাম তিনি কবুল করেন দাওয়াতের একেবারে গোড়ায়, যখন এ বার্তা তখনো ছোট ছোট ঘরের বাইরে পৌঁছায়নি। কোনো কোনো বর্ণনায় তাঁকে চতুর্থ বা পঞ্চম মুসলমান বলা হয়; প্রথম যুগের জীবনীকাররা ক্রম নিয়ে ভিন্নমত করলেও সবাই একমত, তিনি ছিলেন প্রথম মুষ্টিমেয় কজনের একজন। তখন যোগ দেওয়ার মতো কোনো জামাত নেই, সামনে কোনো পুরস্কারও নেই; ঈমান আনা মানেই নিজের ঘরের বিরুদ্ধে দাঁড়ানো। ভাই আমরও তাঁর পথ ধরে ঈমান আনেন, আর দুই ভাই উমাইয়া নামটিকে তুলে দেন ইসলামের প্রথম তালিকায়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Dream at the Edge of the Fire", bn: "আগুনের কিনারে দেখা স্বপ্ন" },
+        p: [
+          {
+            en: "Ibn Ishaq and Ibn Sa'd transmit the account of how his heart turned. Khalid saw himself in a dream standing at the edge of an immense fire, and his own father was pushing him toward it, while the Prophet ﷺ gripped him by the waist and held him back from falling in. He woke shaken, certain the vision meant something real, and took it to Abu Bakr (RA), whom he trusted. Abu Bakr (RA) told him that good was intended for him, and pointed him to the Prophet ﷺ.",
+            bn: "তাঁর মন কীভাবে ফিরল, সে বিবরণ দিয়েছেন ইবনে ইসহাক ও ইবনে সাদ। স্বপ্নে খালিদ দেখলেন, তিনি দাঁড়িয়ে আছেন বিশাল এক আগুনের কিনারে; নিজের বাবা তাঁকে সেদিকে ঠেলে দিচ্ছেন, আর নবীজি ﷺ কোমর ধরে টেনে রাখছেন, পড়তে দিচ্ছেন না। ঘুম ভাঙল আতঙ্ক নিয়ে; মনে হলো, এ স্বপ্ন সত্যিই কিছু বলছে। ভরসার মানুষ আবু বকরের (রাঃ) কাছে গেলেন। আবু বকর (রাঃ) বললেন, তাঁর জন্য কল্যাণই চাওয়া হয়েছে, আর পথ দেখিয়ে দিলেন নবীজি ﷺ-এর দিকে।",
+          },
+          {
+            en: "In that account it is Abu Bakr (RA) who unfolded the dream for him: Islam would hold him back from the fire his father would fall into, and he should follow the Messenger of Allah ﷺ. Khalid went straight to the Prophet ﷺ and accepted Islam at his hands. A dream had done what argument had not yet had the chance to do, and for the rest of his life the image held: his father on one side pressing him toward ruin, and revelation on the other, pulling him clear.",
+            bn: "সে বিবরণেই আছে, স্বপ্নের অর্থ খুলে দিলেন আবু বকর (রাঃ): বাবা যে আগুনে পড়তে যাচ্ছেন, ইসলামই তাঁকে সেখান থেকে আটকে রাখবে; কাজেই তিনি যেন আল্লাহর রাসুল ﷺ-এর অনুসরণ করেন। খালিদ সোজা চলে গেলেন নবীজি ﷺ-এর কাছে, তাঁর হাতেই কবুল করলেন ইসলাম। তর্ক তখনো সুযোগই পায়নি, একটি স্বপ্নই কাজ সেরে দিল। আর সারা জীবন ছবিটা তাঁর সঙ্গে রইল: একদিকে বাবা ঠেলছেন ধ্বংসের দিকে, অন্যদিকে ওহি টেনে নিচ্ছে নিরাপদে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Price His Father Set", bn: "বাবার বেঁধে দেওয়া দাম" },
+        p: [
+          {
+            en: "When Abu Uhayhah learned what his son had done, his anger was total. The biographers record that he beat Khalid, cut off his food and support, and ordered his other sons to shun him, hoping hunger and shame would drag him back to the idols. Khalid took the beating and kept his faith. He answered his father plainly that he would not leave the religion of Muhammad ﷺ, whatever it cost, and the household of privilege he was born into closed itself against him.",
+            bn: "ছেলের কাণ্ড শুনে আবু উহাইহার রাগের সীমা রইল না। জীবনীকাররা লিখেছেন, তিনি খালিদকে মারধর করলেন, খাওয়া-পরা বন্ধ করে দিলেন, অন্য ছেলেদের হুকুম দিলেন তাঁর সঙ্গে না মিশতে। ভাবলেন, খিদা আর অপমান তাঁকে মূর্তির কাছে ফিরিয়ে আনবে। খালিদ মার সহ্য করলেন, ঈমান ছাড়লেন না। বাবাকে সাফ জানিয়ে দিলেন, যা-ই হোক, মুহাম্মদ ﷺ-এর দ্বীন তিনি ছাড়বেন না। আর যে বিলাসী ঘরে তাঁর জন্ম, সে ঘরের দরজা তাঁর মুখের ওপর বন্ধ হয়ে গেল।",
+          },
+          {
+            en: "When the persecution in Makkah hardened, he sailed with the emigrants to Abyssinia, in the company of his wife, and stayed under the Negus's protection for years. His daughter Umm Khalid was born in that exile. The Quran honoured such people in 16:41: those who emigrated for Allah after being wronged are promised a good settlement in this world, and a greater reward in the next. Khalid had traded a great house in Makkah for that promise, and he never gave any sign of regretting the exchange.",
+            bn: "মক্কার জুলুম যখন আরও কঠিন হলো, তিনি স্ত্রীকে নিয়ে মুহাজিরদের সঙ্গে সাগর পাড়ি দিলেন হাবশায়; নাজাশির আশ্রয়ে কাটালেন বছরের পর বছর। মেয়ে উম্মে খালিদের জন্ম সেই প্রবাসেই। এমন মানুষদের মর্যাদার কথাই কুরআন বলেছে ১৬:৪১-এ: জুলুমের শিকার হয়ে যারা আল্লাহর পথে হিজরত করেছে, দুনিয়াতেই তাদের জন্য উত্তম ঠিকানা, আর আখেরাতের পুরস্কার তো আরও বড়। মক্কার আলিশান ঘর ছেড়ে খালিদ এই ওয়াদাটাই নিলেন, আর কোনোদিন আফসোসের চিহ্নমাত্র দেখাননি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Return and Service", bn: "ফিরে এসে খেদমতে" },
+        p: [
+          {
+            en: "The biographers place the return of the Abyssinian party at the time of Khaybar, when Ja'far ibn Abi Talib (RA) led the emigrants home to Madinah. Khalid was among them. He had missed Badr and Uhud through no failure of his own, and from Khaybar onward he served in the campaigns he had been absent from. Ibn Sa'd names him among those who wrote for the Prophet ﷺ on occasion, an Umayyad hand now writing in the service of the message his clan had fought.",
+            bn: "জীবনীকারদের হিসাবে হাবশার মুহাজির দল মদিনায় ফেরে খাইবারের সময়, জাফর ইবনে আবু তালিবের (রাঃ) নেতৃত্বে। খালিদ ছিলেন সেই দলে। বদর-উহুদে থাকতে পারেননি, সেটি তাঁর কোনো ত্রুটিতে নয়; খাইবার থেকে পরের অভিযানগুলোতে তিনি নিয়মিত শরিক হলেন। ইবনে সাদ তাঁর নাম রেখেছেন সেই কজনের মধ্যে, যাঁরা সময়ে সময়ে নবীজি ﷺ-এর হয়ে লেখার কাজ করতেন। যে গোত্র এই বার্তার বিরুদ্ধে লড়েছে, সেই উমাইয়ার এক ছেলের হাত এখন তারই খেদমতে কলম ধরছে।",
+          },
+          {
+            en: "The historians also name him among those the Prophet ﷺ employed over parts of Yemen in the closing years, one of the trusted men sent out as the young state grew. When the Prophet ﷺ died, Khalid came back to Madinah and joined the armies that Abu Bakr (RA) was raising for Syria. The historians relate that Abu Bakr (RA) first named him a commander for Syria, then withdrew the banner before the army set out, at Umar's (RA) counsel; Khalid accepted the change and marched in the ranks, holding faith above rank as he always had.",
+            bn: "ঐতিহাসিকরা আরও লিখেছেন, শেষ বছরগুলোতে নবীজি ﷺ তাঁকে ইয়েমেনের কোনো কোনো এলাকার দায়িত্বে পাঠান; রাষ্ট্র বড় হচ্ছিল, আর বাইরে পাঠানোর মতো ভরসার লোক লাগছিল। নবীজি ﷺ-এর ইন্তেকালের পর খালিদ মদিনায় ফিরে আসেন, আর আবু বকরের (রাঃ) শামমুখী বাহিনীতে যোগ দেন। ঐতিহাসিকরা লিখেছেন, আবু বকর (রাঃ) প্রথমে তাঁকে শামের এক বাহিনীর সেনাপতি করেছিলেন; পরে উমরের (রাঃ) পরামর্শে রওনার আগেই পতাকা ফিরিয়ে নেন। খালিদ তা মেনে নিয়ে হাঁটলেন সাধারণ সৈনিকদের কাতারে। বরাবরের মতোই, পদমর্যাদার ওপরে তিনি রাখলেন ঈমানকে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Martyrdom on Syrian Ground", bn: "শামের মাটিতে শাহাদাত" },
+        p: [
+          {
+            en: "He fell in the fighting for Syria around the year 634 CE, in the caliphate of Abu Bakr (RA) or its immediate aftermath. The sources differ over which field took him: some name Ajnadayn, others Marj as-Suffar, two battles fought close together in time and ground. Rather than settle what the early historians could not, it is enough to say that the man who had been held back from the Fire in his dream died carrying the religion that rescue had brought him.",
+            bn: "শাম বিজয়ের লড়াইয়ে তিনি শহিদ হন আনুমানিক ৬৩৪ খ্রিষ্টাব্দে, আবু বকরের (রাঃ) খেলাফতকালে বা তার ঠিক পরপর। কোন ময়দানে, তা নিয়ে সূত্রগুলো একমত নয়: কেউ বলে আজনাদাইন, কেউ মারজুস-সুফফার; সময়ে ও জায়গায় কাছাকাছি দুটি যুদ্ধ। প্রথম যুগের ঐতিহাসিকরা যা মীমাংসা করতে পারেননি, আজ তা টানাটানি করার দরকার নেই। এটুকুই যথেষ্ট: স্বপ্নে যাঁকে আগুনের কিনার থেকে টেনে রাখা হয়েছিল, তিনি প্রাণ দিলেন সেই উদ্ধারের আনা দ্বীনটাকে বহন করতে করতেই।",
+          },
+          {
+            en: "Among the believers, says 33:23, are men who were true to what they promised Allah; some fulfilled their vow, some still wait, and none of them altered. Khalid's promise was made in the first days, in a dream's aftermath, against his own father, and he kept it through exile, service, and war until it cost him his life. He is remembered among the first of the sons of Umayya to believe and among the earliest to pay the price, a pioneer from the clan that resisted longest.",
+            bn: "কুরআনের ৩৩:২৩ আয়াতে আছে, মুমিনদের মধ্যে এমন লোক আছে যারা আল্লাহর সঙ্গে করা ওয়াদায় খাঁটি থেকেছে; কেউ ওয়াদা পূরণ করে গেছে, কেউ অপেক্ষায় আছে, কিন্তু কেউ বদলায়নি। খালিদের ওয়াদা ছিল একেবারে প্রথম দিনগুলোর, এক স্বপ্নের পরে, নিজের বাবার মুখের ওপর দাঁড়িয়ে। সেই ওয়াদা তিনি রেখেছেন নির্বাসনে, খেদমতে, যুদ্ধে, শেষে প্রাণের বিনিময়ে। উমাইয়ার সন্তানদের মধ্যে যাঁরা সবার আগে ঈমান এনেছেন আর সবার আগে মূল্য চুকিয়েছেন, খালিদ স্মরণীয় হয়ে আছেন তাঁদেরই একজন হিসেবে; সবচেয়ে বেশি দিন বাধা দেওয়া গোত্রটির এক অগ্রপথিক।",
+          },
+        ],
+      },
+    ],
+  },
+  abdullah_ibn_zayd_al_ansari: {
+    sections: [
+      {
+        h: { en: "One of the Ansar", bn: "আনসারদের একজন" },
+        p: [
+          {
+            en: "Abdullah ibn Zayd ibn Abd Rabbih (RA) belonged to the Ansar of Madinah, the people the Quran describes in 59:9 as those settled in the home and in faith before the emigrants came, loving those who came to them and finding in their hearts no want of what the emigrants were given. The biographers count him among the men of the second pledge of Aqabah, present when Madinah bound itself to the Prophet ﷺ before he ever arrived. His name might have rested quietly in those lists, one Ansari among hundreds, but for a single night's dream.",
+            bn: "আবদুল্লাহ ইবনে জায়েদ ইবনে আবদে রাব্বিহি (রাঃ) ছিলেন মদিনার আনসারদের একজন। এই আনসারদের কথাই কুরআন বলেছে ৫৯:৯-এ: মুহাজিররা আসার আগেই যারা এই নগরী আর ঈমানকে আপন করে নিয়েছিল, হিজরত করে আসা মানুষদের ভালোবাসত, আর মুহাজিরদের যা দেওয়া হয়েছে তার জন্য নিজেদের বুকে কোনো চাহিদা রাখত না। জীবনীকাররা তাঁকে গণনা করেন আকাবার দ্বিতীয় বাইয়াতের লোকদের মধ্যে; নবীজি ﷺ মদিনায় পৌঁছানোর আগেই যাঁরা শহরটিকে তাঁর সঙ্গে বেঁধে দিয়েছিলেন। শত শত আনসারির ভিড়ে তাঁর নামটি চুপচাপই থেকে যেত, যদি না আসত এক রাতের একটি স্বপ্ন।",
+          },
+          {
+            en: "The community he belonged to had a practical problem. Prayer in congregation stood at the centre of the new city's life, but there was no way to tell everyone the hour had come. People estimated the time and drifted in early or late, and the Muslims felt the lack of a signal that would gather them at once. The question was raised openly: how should Madinah be called to prayer? It sounds small. The answer would end up sounding across every land Islam ever reached.",
+            bn: "নতুন এই সমাজের একটি বাস্তব সমস্যা ছিল। জামাতে নামাজই নগরজীবনের কেন্দ্র, অথচ ওয়াক্ত হয়ে গেছে, এ খবর সবাইকে জানানোর কোনো উপায় নেই। মানুষ আন্দাজে সময় ধরে কেউ আগে আসত, কেউ পরে; সবাইকে একসঙ্গে ডেকে আনার একটি সংকেতের অভাব সবাই টের পাচ্ছিল। প্রশ্নটা খোলাখুলিই উঠল: মদিনাকে নামাজের দিকে ডাকা হবে কীভাবে? শুনতে ছোট প্রশ্ন। অথচ এর জবাব একদিন ধ্বনিত হবে ইসলাম যত দূর পৌঁছেছে, তত দূর পর্যন্ত।",
+          },
+        ],
+      },
+      {
+        h: { en: "Bell, Horn, or Fire", bn: "ঘণ্টা, শিঙা, না আগুন" },
+        p: [
+          {
+            en: "Suggestions were offered from the customs people already knew. Some proposed a bell of the kind the Christians rang, some a horn like the one the Jews sounded, and a fire kindled on a height was mentioned too. None of it settled anything, for each of these was the borrowed voice of another community, and the Prophet ﷺ was not inclined to mark the prayer of the Muslims with someone else's signal. The gathering broke up with the question still open, and Abdullah went home carrying it.",
+            bn: "চেনা রেওয়াজ থেকেই প্রস্তাব এল। কেউ বলল খ্রিষ্টানদের মতো ঘণ্টা, কেউ বলল ইহুদিদের মতো শিঙা, উঁচু জায়গায় আগুন জ্বালানোর কথাও উঠল। কোনোটাই মন ভরাল না; প্রতিটিই তো অন্য কোনো জাতির ধার করা আওয়াজ, আর মুসলমানদের নামাজকে অন্যের সংকেতে চিহ্নিত করতে নবীজি ﷺ-এর মন সায় দিচ্ছিল না। মজলিস ভাঙল, প্রশ্ন খোলাই রইল, আর আবদুল্লাহ সেই ভাবনা বুকে নিয়ে ঘরে ফিরলেন।",
+          },
+          {
+            en: "What happened that night, Abdullah himself related, and Abu Dawud records it in his Sunan, hadith 499. A man came to him in a dream carrying a bell in his hand. Abdullah asked him whether he would sell the bell, so that it could be used to call to prayer. The man answered with a better offer: should he not point him to something better than that? Abdullah said yes, and the man began to teach him.",
+            bn: "সে রাতে যা ঘটল, আবদুল্লাহ নিজেই তা বর্ণনা করেছেন; আবু দাউদ তাঁর সুনানে তা এনেছেন, হাদিস ৪৯৯। স্বপ্নে এক লোক তাঁর সামনে এলেন, হাতে একটি ঘণ্টা। আবদুল্লাহ জিজ্ঞেস করলেন, ঘণ্টাটা কি তিনি বেচবেন; নামাজের ডাকে কাজে লাগানো যেত। লোকটি দিলেন আরও ভালো এক প্রস্তাব: এর চেয়ে উত্তম কিছু কি দেখিয়ে দেব না? আবদুল্লাহ রাজি হলেন, আর লোকটি তাঁকে শেখাতে শুরু করলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Words of the Adhan", bn: "আজানের শব্দগুলো" },
+        p: [
+          {
+            en: "The words the man taught him were the adhan the world now knows: opening with the takbir, testifying that there is no god but Allah and that Muhammad ﷺ is His Messenger, calling to the prayer, calling to success, and closing with the declaration of Allah's greatness and oneness. Then, in the same dream, the man stepped back a short distance and taught him a second set of words, the iqamah, with its added line that the prayer has now stood.",
+            bn: "লোকটি যে শব্দগুলো শেখালেন, তা-ই আজকের দুনিয়ার চেনা আজান: শুরু তাকবির দিয়ে; সাক্ষ্য, আল্লাহ ছাড়া কোনো ইলাহ নেই আর মুহাম্মদ ﷺ তাঁর রাসুল; তারপর নামাজের দিকে ডাক, কল্যাণের দিকে ডাক; শেষে আবার আল্লাহর বড়ত্ব আর একত্বের ঘোষণা। তারপর সেই স্বপ্নেই লোকটি একটু পিছিয়ে দাঁড়িয়ে শেখালেন আরেক দফা শব্দ, ইকামত; তাতে বাড়তি এই কথা, নামাজ এখন দাঁড়িয়ে গেছে।",
+          },
+          {
+            en: "In the morning he went to the Prophet ﷺ and told him what he had seen. The Prophet ﷺ said it was a true vision, if Allah willed, and told him to stand with Bilal (RA) and teach him the words, for Bilal's voice carried further than his own. So Abdullah dictated, phrase by phrase, and Bilal (RA) sent the first adhan out over Madinah. The dream had been Abdullah's; the voice would be Bilal's; the call belonged to Allah.",
+            bn: "সকালে তিনি নবীজি ﷺ-এর কাছে গিয়ে সব খুলে বললেন। নবীজি ﷺ বললেন, ইনশাআল্লাহ এ সত্য স্বপ্ন; বললেন বেলালের (রাঃ) সঙ্গে দাঁড়িয়ে শব্দগুলো তাঁকে শিখিয়ে দিতে, কারণ বেলালের গলা তাঁর চেয়ে দূরে পৌঁছায়। আবদুল্লাহ এক এক বাক্য বলে দিলেন, আর বেলাল (রাঃ) মদিনার আকাশে ছড়িয়ে দিলেন প্রথম আজান। স্বপ্ন আবদুল্লাহর, কণ্ঠ বেলালের, আর ডাকটা আল্লাহরই।",
+          },
+        ],
+      },
+      {
+        h: { en: "Umar's Corroboration", bn: "উমরের (রাঃ) সাক্ষ্য" },
+        p: [
+          {
+            en: "The same report carries a second witness. When Umar ibn al-Khattab (RA) heard the call, he came out dragging his cloak behind him and told the Prophet ﷺ that, by the One who had sent him with the truth, he had seen the very same as had been shown to Abdullah. The Prophet ﷺ said: then to Allah belongs the praise. Two men, shown one dream, with the decision already resting on it; the report reads like a seal set on the matter.",
+            bn: "একই রেওয়ায়েতে আছে দ্বিতীয় এক সাক্ষীর কথা। আজান শুনে উমর ইবনুল খাত্তাব (রাঃ) চাদর টানতে টানতে বেরিয়ে এলেন; নবীজি ﷺ-কে বললেন, যিনি আপনাকে সত্য দিয়ে পাঠিয়েছেন তাঁর কসম, আবদুল্লাহকে যা দেখানো হয়েছে, আমিও ঠিক তা-ই দেখেছি। নবীজি ﷺ বললেন, তবে সব প্রশংসা আল্লাহর। দুজন মানুষ, একই স্বপ্ন, আর সিদ্ধান্ত ততক্ষণে সেটির ওপর দাঁড়িয়ে; পড়লে মনে হয়, ব্যাপারটির ওপর যেন মোহর বসিয়ে দেওয়া হলো।",
+          },
+          {
+            en: "Scholars have drawn a careful lesson from the episode. The adhan did not become law because a Companion dreamed it; it became law because the Prophet ﷺ, who received revelation, confirmed it. The dream was the occasion, the confirmation was the authority. But the honour of the occasion still belongs to Abdullah ibn Zayd (RA): of all the sleepers in Madinah that night, the words were entrusted to him, and he woke up carrying the sound of the next fourteen centuries.",
+            bn: "এ ঘটনা থেকে আলেমরা একটি সূক্ষ্ম শিক্ষা তুলে এনেছেন। আজান শরিয়ত হয়েছে কোনো সাহাবির স্বপ্ন দেখার কারণে নয়; হয়েছে এ জন্য যে ওহিপ্রাপ্ত নবীজি ﷺ তা বহাল করেছেন। স্বপ্ন ছিল উপলক্ষ, আর কর্তৃত্ব ছিল তাঁর সমর্থনে। তবে উপলক্ষের সম্মানটুকু আবদুল্লাহ ইবনে জায়েদেরই (রাঃ): সে রাতে মদিনায় ঘুমিয়ে ছিল কত মানুষ, অথচ শব্দগুলো আমানত রাখা হলো তাঁর কাছে। ঘুম ভেঙে তিনি বয়ে আনলেন পরের চৌদ্দ শতাব্দীর ধ্বনি।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Quiet Life After", bn: "তারপর নিভৃত জীবন" },
+        p: [
+          {
+            en: "The rest of his life was service without spectacle. He fought in the battles beside the Prophet ﷺ, one shield among the Ansar, and the books of biography record no further famous scene for him. He lived on through the caliphates of Abu Bakr and Umar (RA) and into the days of Uthman (RA), dying around 652 CE, in the generation that had begun burying its witnesses. The narrators kept his name attached, always, to the one report that mattered.",
+            bn: "বাকি জীবনটা তাঁর কাটল সাড়ম্বরহীন খেদমতে। নবীজি ﷺ-এর পাশে থেকে যুদ্ধগুলোতে লড়লেন, আনসারদের কাতারে এক ঢাল হয়ে; জীবনীগ্রন্থগুলো তাঁর আর কোনো বিখ্যাত দৃশ্য লেখেনি। আবু বকর ও উমরের (রাঃ) খেলাফত পেরিয়ে উসমানের (রাঃ) জমানা পর্যন্ত বেঁচে ছিলেন; ইন্তেকাল আনুমানিক ৬৫২ খ্রিষ্টাব্দে, যখন সে প্রজন্ম তার সাক্ষীদের একে একে দাফন করতে শুরু করেছে। রাবিরা তাঁর নামটি চিরকাল জুড়ে রাখলেন সেই একটি রেওয়ায়েতের সঙ্গে, যেটিই আসল।",
+          },
+          {
+            en: "It is a particular kind of legacy. Five times a day, in every mosque on earth, a voice climbs through the words a man of the Ansar was taught in his sleep, confirmed by the Prophet ﷺ and first lifted by Bilal (RA). Most Companions are remembered for what they did. Abdullah ibn Zayd (RA) is remembered for what he was shown, and for going straight to the Prophet ﷺ with it instead of keeping the strangeness of the night to himself.",
+            bn: "এ এক আলাদা ধরনের উত্তরাধিকার। দিনে পাঁচবার, দুনিয়ার প্রতিটি মসজিদে, কোনো না কোনো কণ্ঠ বেয়ে ওঠে সেই শব্দগুলো; যা এক আনসারিকে শেখানো হয়েছিল ঘুমের ভেতর, নবীজি ﷺ যা বহাল করেছিলেন, আর বেলাল (রাঃ) যা প্রথম উঁচু করেছিলেন। বেশির ভাগ সাহাবি স্মরণীয় তাঁদের কাজের জন্য। আবদুল্লাহ ইবনে জায়েদ (রাঃ) স্মরণীয় তাঁকে যা দেখানো হয়েছিল তার জন্য; আর এই জন্য যে রাতের সেই আশ্চর্য নিজের কাছে চেপে না রেখে সকালেই তিনি সোজা চলে গিয়েছিলেন নবীজি ﷺ-এর কাছে।",
+          },
+        ],
+      },
+    ],
+  },
+  dihyah_al_kalbi: {
+    sections: [
+      {
+        h: { en: "The Handsome Man of Kalb", bn: "কালব গোত্রের সুদর্শন পুরুষ" },
+        p: [
+          {
+            en: "Dihyah ibn Khalifah al-Kalbi (RA) came of the tribe of Kalb, whose lands lay along the northern roads toward Syria, and he was a merchant who knew those roads well. The books remember one fact about him ahead of every other: his extraordinary beauty. He was a man whose entry into a gathering turned faces, and his bearing matched the face; among the Companions he stood out as a figure of dignity and presence. Islam would put that presence to work in an unexpected way.",
+            bn: "দিহইয়া ইবনে খলিফা আল-কালবি (রাঃ) এসেছিলেন কালব গোত্র থেকে; শামমুখী উত্তরের বাণিজ্যপথ ধরে ছিল তাদের এলাকা, আর ব্যবসায়ী মানুষ হিসেবে সে পথ তাঁর ভালোই চেনা। কিতাবগুলো তাঁর সম্পর্কে সব কথার আগে একটি কথাই মনে রেখেছে: অসাধারণ সৌন্দর্য। কোনো মজলিসে তিনি ঢুকলে মুখগুলো ঘুরে তাকাত, আর চেহারার সঙ্গে মানানসই ছিল চালচলনও; সাহাবিদের মধ্যে তিনি আলাদা হয়ে থাকতেন গাম্ভীর্য আর ব্যক্তিত্বে। ইসলাম এই ব্যক্তিত্বকে কাজে লাগাবে এক অপ্রত্যাশিত পথে।",
+          },
+          {
+            en: "The biographers record that he accepted Islam early but missed Badr, and that he was present in the battles that followed it. What can be said with certainty is how the Prophet ﷺ treated him: as a man fit for trust. In an age that read faces and lineages closely, Dihyah carried both well, and when the moment came to represent the Muslims before the courts of the world, his name was the one called. But before that mission, something stranger had already attached itself to him.",
+            bn: "জীবনীকাররা লিখেছেন, ইসলাম তিনি কবুল করেন আগেভাগেই, তবে বদরে থাকতে পারেননি; পরের যুদ্ধগুলোতে ছিলেন। যা নিশ্চিত করে বলা যায় তা হলো নবীজি ﷺ তাঁকে কী চোখে দেখতেন: আস্থার যোগ্য একজন মানুষ। যে যুগে চেহারা আর বংশ খুঁটিয়ে পড়া হতো, দিহইয়া দুটোই বহন করতেন সসম্মানে; তাই দুনিয়ার রাজদরবারে মুসলমানদের মুখ হয়ে দাঁড়ানোর সময় এলে ডাক পড়ল তাঁর নামেই। তবে সেই অভিযানের আগেই তাঁর সঙ্গে জুড়ে গিয়েছিল আরও আশ্চর্য এক ব্যাপার।",
+          },
+        ],
+      },
+      {
+        h: { en: "In His Likeness", bn: "তাঁর চেহারায় জিবরাইল (আঃ)" },
+        p: [
+          {
+            en: "Sahih al-Bukhari records that Jibril (AS) would come to the Prophet ﷺ in the likeness of Dihyah. Companions would notice a man sitting with the Prophet ﷺ, take him for the familiar Kalbi, and learn afterwards that they had seen the angel of revelation. No one chose this and no one earned it; it was simply how the unseen presented itself. Of all the faces in the community, the one the angel wore, when he came in the form of a man, was his.",
+            bn: "সহিহ বুখারির বর্ণনায় আছে, জিবরাইল (আঃ) কখনো কখনো নবীজি ﷺ-এর কাছে আসতেন দিহইয়ার চেহারায়। সাহাবিরা দেখতেন, নবীজি ﷺ-এর পাশে এক লোক বসে; চেনা কালবি ভেবে নিতেন, পরে জানতেন, তাঁরা দেখেছেন ওহির ফেরেশতাকে। এ কেউ চেয়ে নেয়নি, অর্জনও করেনি; গায়েবের জগৎ নিজেকে এভাবেই সামনে এনেছিল। এই উম্মতের এত মুখের ভিড়ে ফেরেশতা মানুষের রূপে এলে যে চেহারাটি ধারণ করতেন, সেটি ছিল তাঁরই।",
+          },
+          {
+            en: "The Companions did not treat the fact as a rank, and neither did Dihyah. It gave him no authority, no station in law, no precedence in the mosque. But it fixed him permanently in the imagination of the Muslims: the man whose form was, on occasion, the form revelation took when it walked into a room. It is perhaps the strangest honour in the whole generation, and it belonged to a working envoy and soldier who never traded on it.",
+            bn: "সাহাবিরা এ ঘটনাকে কোনো পদমর্যাদা বানাননি, দিহইয়া নিজেও না। এতে তাঁর কোনো কর্তৃত্ব বাড়েনি, শরিয়তে কোনো আলাদা অবস্থান জোটেনি, মসজিদে কোনো অগ্রাধিকারও না। কিন্তু মুসলমানদের কল্পনায় তাঁর জায়গা পাকা হয়ে গেল: এই সেই মানুষ, ওহি ঘরে ঢোকার সময় কখনো কখনো যাঁর রূপ ধরে ঢুকত। গোটা প্রজন্মের সবচেয়ে বিস্ময়কর সম্মান সম্ভবত এটিই; আর তা জুটেছিল এমন এক কর্মঠ দূত ও সৈনিকের ভাগ্যে, যিনি কোনোদিন এটি ভাঙিয়ে খাননি।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Letter to Caesar", bn: "কাইসারের কাছে চিঠি" },
+        p: [
+          {
+            en: "After the truce of Hudaybiyyah, the Prophet ﷺ wrote to the rulers of the surrounding empires, inviting them to Islam. Abdullah ibn Hudhafah (RA) rode to Khosrau of Persia; the letter for Heraclius, the emperor of Byzantium, was placed in Dihyah's hands. Sahih al-Bukhari 7 records the arrangement: Dihyah was to deliver it to the governor of Busra, who would pass it up to Heraclius himself. The most watched court in the world was about to read a letter from Madinah.",
+            bn: "হুদাইবিয়ার সন্ধির পর নবীজি ﷺ আশপাশের সাম্রাজ্যগুলোর শাসকদের চিঠি লিখলেন, ইসলামের দাওয়াত দিয়ে। পারস্যের খসরুর কাছে গেলেন আবদুল্লাহ ইবনে হুজাফা (রাঃ); আর রোম-সম্রাট হিরাক্লিয়াসের চিঠিটি তুলে দেওয়া হলো দিহইয়ার হাতে। সহিহ বুখারি ৭-এ ব্যবস্থাটির কথা আছে: দিহইয়া চিঠি পৌঁছে দেবেন বুসরার শাসনকর্তার কাছে, তিনি তা তুলে দেবেন খোদ হিরাক্লিয়াসের হাতে। দুনিয়ার সবচেয়ে নজরকাড়া দরবার তখন মদিনার একটি চিঠি পড়তে যাচ্ছে।",
+          },
+          {
+            en: "The same long narration tells what happened around that letter. Heraclius, then in Jerusalem, called for anyone from the writer's people, and Abu Sufyan, still an unbeliever, was brought in with his caravan. The emperor questioned him closely: about the Prophet's ﷺ lineage, whether his followers were the weak or the mighty, whether they were increasing, whether any turned back in disgust, whether he ever broke his word. Abu Sufyan later admitted he would have lied, had he not feared being called a liar.",
+            bn: "সেই দীর্ঘ বর্ণনাতেই আছে চিঠি ঘিরে যা ঘটল তার বিবরণ। হিরাক্লিয়াস তখন জেরুজালেমে; চিঠির লেখকের স্বজাতির কাউকে খুঁজতে বললেন, আর কাফেলাসহ হাজির করা হলো তখনো ঈমান না আনা আবু সুফিয়ানকে। সম্রাট খুঁটিয়ে খুঁটিয়ে প্রশ্ন করলেন: নবীজি ﷺ-এর বংশ কেমন, অনুসারীরা দুর্বল না প্রতাপশালী, তাদের সংখ্যা বাড়ছে না কমছে, কেউ কি বিরক্ত হয়ে ধর্ম ছেড়ে যায়, তিনি কি কখনো কথার খেলাপ করেন। আবু সুফিয়ান পরে স্বীকার করেছেন, মিথ্যাবাদী বদনামের ভয় না থাকলে সেদিন মিথ্যাই বলতেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Emperor's Verdict", bn: "সম্রাটের স্বীকারোক্তি" },
+        p: [
+          {
+            en: "Heraclius weighed the answers and told Abu Sufyan what they added up to: this is how prophets are, followed first by the weak, growing and not shrinking, never treacherous. If what he had heard was true, he said, this man would rule the ground beneath his feet; and if he could be sure of reaching him, he would undertake the journey to meet him. Then the letter was read aloud in the court, and there was a clamour, and the audience ended.",
+            bn: "জবাবগুলো মিলিয়ে হিরাক্লিয়াস আবু সুফিয়ানকে যোগফলটা শুনিয়ে দিলেন: নবীরা এমনই হন; প্রথমে অনুসরণ করে দুর্বলেরা, তাঁদের দল বাড়ে, কমে না, আর তাঁরা বিশ্বাসঘাতকতা করেন না। বললেন, যা শুনেছেন তা সত্য হলে এই ব্যক্তি একদিন তাঁর এই পায়ের নিচের জমিনের মালিক হবেন; আর তাঁর কাছে পৌঁছানো নিশ্চিত জানলে তিনি সে সফরের কষ্ট মেনে নিতেন। তারপর দরবারে চিঠিটি পড়ে শোনানো হলো, শোরগোল উঠল, মজলিস সেখানেই শেষ।",
+          },
+          {
+            en: "Heraclius never became a Muslim; his throne weighed more than his conclusion. But the mission itself had done its work, and Dihyah (RA) had been its face: a single rider representing the Prophet ﷺ in front of an empire, carrying nothing but a sealed page and his own bearing. Within a generation, Muslims would stand as rulers on that same Syrian ground, and readers of the sirah have always set the emperor's words beside what followed them.",
+            bn: "হিরাক্লিয়াস মুসলমান হননি; নিজের সিদ্ধান্তের চেয়ে সিংহাসনের ওজনই তাঁর কাছে বেশি ছিল। কিন্তু অভিযান তার কাজ করে গিয়েছিল, আর সে অভিযানের মুখ ছিলেন দিহইয়া (রাঃ): একটি সিলমোহর করা চিঠি আর নিজের ব্যক্তিত্ব ছাড়া সঙ্গে কিছুই নেই, অথচ এক সাম্রাজ্যের সামনে তিনি একাই নবীজি ﷺ-এর প্রতিনিধি। এক প্রজন্মের মধ্যেই মুসলমানরা শাসক হয়ে দাঁড়াবে সেই শামের জমিনেই; আর সিরাতের পাঠকেরা বরাবর সম্রাটের কথাগুলোর পাশে রেখে পড়েছেন তার পরের ইতিহাসকে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Syria to the End", bn: "শেষ জীবন শামে" },
+        p: [
+          {
+            en: "Dihyah's later years bound him to the land he had once entered as an envoy. He took part in the campaigns for Syria, and the historians place him at the Yarmuk among the fighters. When the conquests settled, he settled with them, making his home at Mizzah near Damascus. The man once received as a stranger carrying a letter lived out his age as a resident of the country, one of the Companions whose presence anchored Islam in Syrian soil.",
+            bn: "পরের বছরগুলো দিহইয়াকে বেঁধে ফেলল সেই দেশের সঙ্গেই, যেখানে একদিন তিনি ঢুকেছিলেন দূত হয়ে। শাম বিজয়ের অভিযানগুলোতে অংশ নিলেন; ঐতিহাসিকরা তাঁকে রাখেন ইয়ারমুকের যোদ্ধাদের মধ্যে। বিজয় যখন থিতু হলো, তিনিও থিতু হলেন; ঘর বাঁধলেন দামেস্কের কাছে মিজ্জায়। যে মানুষটিকে একদিন গ্রহণ করা হয়েছিল চিঠি-হাতে আগন্তুক বলে, তিনি বার্ধক্য কাটালেন সে দেশেরই বাসিন্দা হয়ে; শামের মাটিতে ইসলামের শিকড় নামানো সাহাবিদের একজন।",
+          },
+          {
+            en: "He died around 670 CE, having lived from the first generation into the rule of Mu'awiyah (RA). His life makes a quiet argument the sirah keeps making: the Prophet ﷺ measured men precisely and matched them to their tasks. A letter to an emperor needed a bearer whose face and conduct would not shame its contents. Dihyah al-Kalbi (RA) was chosen because he could be trusted with the appearance of Islam abroad, and nothing in the record suggests the trust was misplaced.",
+            bn: "ইন্তেকাল করেন আনুমানিক ৬৭০ খ্রিষ্টাব্দে; প্রথম প্রজন্ম থেকে মুয়াবিয়ার (রাঃ) শাসনকাল পর্যন্ত ছিল তাঁর আয়ু। তাঁর জীবন নীরবে সেই কথাটিই বলে, সিরাত যা বারবার বলে: নবীজি ﷺ মানুষ মাপতেন নিখুঁতভাবে, আর কাজের সঙ্গে মানুষ মেলাতেন। সম্রাটের কাছে পাঠানো চিঠির এমন বাহক দরকার, যাঁর চেহারা ও আচরণ চিঠির বিষয়বস্তুকে ছোট করবে না। দিহইয়া আল-কালবিকে (রাঃ) বেছে নেওয়া হয়েছিল বিদেশের চোখে ইসলামের চেহারাটুকু আমানত রাখার জন্য; নথিপত্রের কোথাও নেই যে সে আমানতের খেয়ানত হয়েছে।",
+          },
+        ],
+      },
+    ],
+  },
+  utbah_ibn_ghazwan: {
+    sections: [
+      {
+        h: { en: "Seventh of Seven", bn: "সাতজনের সপ্তম" },
+        p: [
+          {
+            en: "Utbah ibn Ghazwan (RA) could date his Islam with a precision few could match, because he did it himself, from a pulpit, years later: I saw myself the seventh of seven with the Messenger of Allah ﷺ. He had entered the religion when its whole community could sit in one small room, an ally of the Banu Nawfal in Makkah with nothing to gain from the choice but the truth of it. Everything that follows in his story grows from that early stake.",
+            bn: "নিজের ইসলাম গ্রহণের সময়টা উতবা ইবনে গাজওয়ান (রাঃ) যত নিখুঁতভাবে বলতে পারতেন, তেমনটা খুব কম মানুষই পারত; বলেছিলেনও নিজেই, বহু বছর পরে, মিম্বারে দাঁড়িয়ে: আমি নিজেকে দেখেছি রাসুলুল্লাহ ﷺ-এর সঙ্গে সাতজনের সপ্তম হিসেবে। তিনি দ্বীনে ঢুকেছিলেন এমন সময়ে, যখন গোটা জামাত একটি ছোট ঘরে এঁটে যেত। মক্কায় বনু নওফালের মিত্র এই মানুষটির এ সিদ্ধান্তে পাওয়ার কিছু ছিল না, ছিল শুধু সত্যটুকু। তাঁর গল্পের বাকি সবটা গজিয়েছে সেই গোড়ার বিনিয়োগ থেকেই।",
+          },
+          {
+            en: "The cost was immediate and physical. He endured the first persecution, and made the emigration twice over: first across the sea to Abyssinia when Makkah became unliveable, then to Madinah when the Prophet ﷺ had established the community there. The Quran speaks in 9:100 of the first forerunners among the Muhajirun and the Ansar, with whom Allah is pleased and who are pleased with Him. Utbah stood inside that verse by any reckoning, a forerunner twice exiled before the religion had won a single battle.",
+            bn: "মূল্যটা চুকাতে হলো সঙ্গে সঙ্গেই, গায়ের ওপর দিয়ে। প্রথম জুলুমের দিনগুলো সইলেন, হিজরত করলেন দুই দফায়: মক্কা অসহনীয় হয়ে উঠলে সাগর পেরিয়ে হাবশায়, পরে নবীজি ﷺ মদিনায় জামাত দাঁড় করালে সেখানে। কুরআন ৯:১০০-এ বলেছে মুহাজির ও আনসারদের প্রথম সারির অগ্রণীদের কথা; আল্লাহ তাঁদের প্রতি সন্তুষ্ট, তাঁরাও আল্লাহর প্রতি সন্তুষ্ট। যেভাবেই হিসাব করা হোক, উতবা সে আয়াতের ভেতরের মানুষ; দ্বীন একটি যুদ্ধ জেতারও আগে দুবার নির্বাসন নেওয়া এক অগ্রপথিক।",
+          },
+        ],
+      },
+      {
+        h: { en: "Badr and After", bn: "বদর ও তার পরে" },
+        p: [
+          {
+            en: "He fought at Badr, the first battle, and he remained under arms through the campaigns that followed. The books describe him as a skilled archer, one of the men whose weapons the early community actually depended on. He was never a seeker of position; the sources that remember his fighting remember, in the same breath, his distaste for worldly rank. That combination, ability without appetite, is exactly what a certain kind of ruler looks for, and Umar (RA) found it.",
+            bn: "প্রথম যুদ্ধ বদরে তিনি লড়লেন, তারপরের অভিযানগুলোতেও রইলেন হাতিয়ার হাতে। কিতাবগুলো তাঁকে বলে দক্ষ তিরন্দাজ; গোড়ার জামাত যে কজনের অস্ত্রের ওপর সত্যিই ভরসা করত, তিনি তাঁদের একজন। পদের লোভ তাঁর কোনোদিন ছিল না; যে সূত্রগুলো তাঁর লড়াইয়ের কথা মনে রেখেছে, তারা একই নিঃশ্বাসে মনে রেখেছে দুনিয়াবি মর্যাদার প্রতি তাঁর অনীহা। যোগ্যতা আছে অথচ ক্ষুধা নেই; বিশেষ এক ধরনের শাসক ঠিক এটিই খোঁজেন, আর উমর (রাঃ) তা পেয়ে গেলেন।",
+          },
+          {
+            en: "When Umar ibn al-Khattab (RA) became caliph and the war with Persia opened the east, he needed a man to hold the marshy approaches at the head of the Gulf, where the routes from Persia met the sea. He chose Utbah and sent him with a modest force. It was a frontier assignment with no glamour in it, set against the back door of a rich and organised empire. Utbah took al-Ubulla and secured the district, and then did something more lasting than a conquest.",
+            bn: "উমর ইবনুল খাত্তাব (রাঃ) খলিফা হওয়ার পর পারস্যের সঙ্গে যুদ্ধ পুবের দুয়ার খুলে দিল। উপসাগরের মাথায়, যেখানে পারস্যের পথগুলো সাগরে এসে মিশেছে, সেই জলা-কাদার এলাকা সামলানোর জন্য একজন মানুষ দরকার ছিল তাঁর। তিনি বেছে নিলেন উতবাকে, পাঠালেন ছোট এক বাহিনী দিয়ে। জৌলুসহীন এক সীমান্ত-দায়িত্ব; ধনী, গোছানো এক সাম্রাজ্যের খিড়কি-দরজার মুখে। উতবা উবুল্লা জয় করলেন, এলাকাটি নিরাপদ করলেন; তারপর করলেন এমন এক কাজ, যা বিজয়ের চেয়েও স্থায়ী।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Founding of Basra", bn: "বসরার পত্তন" },
+        p: [
+          {
+            en: "On the ground he had secured, Utbah laid out a garrison camp: a mosque first, built of reeds, and quarters for the fighters around it. The camp was Basra. The historians credit him as its founder, the man who chose the site and drew its first lines, and under his hand a military encampment began turning into a city. Markets followed the soldiers, families followed the markets, and the reed mosque was rebuilt more solidly as the settlement took root.",
+            bn: "নিরাপদ করা সেই জমিতে উতবা সাজালেন এক সেনাশিবির: সবার আগে মসজিদ, নলখাগড়ায় তৈরি, চারপাশে যোদ্ধাদের থাকার জায়গা। এই শিবিরই বসরা। ঐতিহাসিকরা তাঁকেই বলেন এর প্রতিষ্ঠাতা; জায়গাটি তিনি বেছেছেন, প্রথম নকশাও তাঁর টানা। তাঁর হাতেই এক সামরিক ছাউনি শহর হয়ে উঠতে শুরু করল। সৈনিকদের পিছু পিছু এল বাজার, বাজারের পিছু পিছু সংসার; আর বসতি শিকড় গাড়তে গাড়তে নলখাগড়ার মসজিদটিও গাঁথা হলো পোক্ত করে।",
+          },
+          {
+            en: "Basra would become one of the great cities of Islam, a home of grammarians, judges, reciters, and armies. Its founder governed it in a manner that set the opposite of a precedent for what such cities became: he lived simply, took little, and regarded the whole apparatus of his office with suspicion. What he thought of the world he was administering is not a matter of guesswork, because a sermon of his survived, and Muslim recorded it.",
+            bn: "বসরা হয়ে উঠবে ইসলামের বড় শহরগুলোর একটি; ব্যাকরণবিদ, বিচারক, কারি আর সৈন্যদলের ঠিকানা। অথচ এর প্রতিষ্ঠাতা শাসন করলেন এমন ধারায়, যা এসব শহরের পরের চেহারার একেবারে উল্টো নজির: সাদাসিধা জীবন, সামান্য গ্রহণ, আর নিজের দপ্তরের গোটা জৌলুসের দিকে সন্দেহের চোখ। যে দুনিয়া তিনি চালাচ্ছিলেন, সেটিকে কী চোখে দেখতেন, তা অনুমানের ব্যাপার নয়; কারণ তাঁর একটি খুতবা টিকে গেছে, তুলে রেখেছেন ইমাম মুসলিম।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Sermon That Survived", bn: "টিকে থাকা এক খুতবা" },
+        p: [
+          {
+            en: "In Sahih Muslim 2967 Utbah stands before the people of Basra and tells them the world has been given notice of its end and is turning away fast, with nothing left of it but a remnant like the last water in a vessel its owner tips out. He tells them what he had been taught of the world to come: a stone dropped from the brink of Jahannam falls seventy years without reaching its bottom. This from the governor, at the height of the conquests, with wealth pouring in.",
+            bn: "সহিহ মুসলিম ২৯৬৭-তে উতবা বসরাবাসীর সামনে দাঁড়িয়ে বলছেন: দুনিয়াকে তার শেষের খবর জানিয়ে দেওয়া হয়েছে, সে দ্রুত মুখ ফিরিয়ে চলে যাচ্ছে; বাকি আছে কেবল পাত্রের তলানির মতো একটুখানি, মালিক যা ঢেলে ফেলে দেয়। আখেরাত নিয়ে তাঁদের যা জানানো হয়েছিল, তা-ও শোনালেন: জাহান্নামের কিনার থেকে ফেলা পাথর সত্তর বছর ধরে পড়তে থাকে, তবু তলায় পৌঁছায় না। বলছেন খোদ গভর্নর; বিজয়ের জোয়ারে সম্পদ তখন হু হু করে ঢুকছে।",
+          },
+          {
+            en: "Then comes the passage the books never tire of quoting: I saw myself the seventh of seven with the Messenger of Allah ﷺ, and we had no food but the leaves of the hublah tree, until the corners of our mouths were ulcered. I picked up a cloak and split it between myself and Sa'd ibn Malik, each of us wearing half. Now, he says, every one of those seven has become the governor of a city; and he seeks refuge in Allah from being great in his own eyes and small before Allah.",
+            bn: "তারপর সেই অংশ, কিতাবগুলো যা উদ্ধৃত করে করে ক্লান্ত হয় না: আমি নিজেকে দেখেছি রাসুলুল্লাহ ﷺ-এর সঙ্গে সাতজনের সপ্তম; হুবলা গাছের পাতা ছাড়া আমাদের কোনো খাবার ছিল না, খেতে খেতে মুখের দুই কোণে ঘা হয়ে গিয়েছিল। একটি চাদর পেয়ে দুই টুকরো করে ভাগ করে নিলাম সাদ ইবনে মালিকের সঙ্গে; অর্ধেক আমার পরনে, অর্ধেক সাদের। বললেন, আজ সেই সাতজনের প্রত্যেকে কোনো না কোনো শহরের আমির; আর আল্লাহর কাছে পানাহ চাইলেন নিজের চোখে বড় অথচ আল্লাহর কাছে ছোট হয়ে যাওয়া থেকে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Asking to Be Relieved", bn: "অব্যাহতির আরজি" },
+        p: [
+          {
+            en: "The historians relate that the office weighed on him. He left Basra for the Hijaz to perform hajj, and put his request to Umar (RA) in person: to be relieved of the governorship. Umar refused; he was not in the habit of releasing men precisely because they did not want power. On the road back toward Basra, around the year 638 CE, Utbah died, still holding the appointment he had tried to give back, a governor to the last against his own wishes.",
+            bn: "ঐতিহাসিকরা লিখেছেন, পদটি তাঁর কাঁধে বোঝা হয়ে চেপে বসেছিল। হজ করতে তিনি বসরা ছেড়ে হেজাজে গেলেন, আর উমরের (রাঃ) কাছে সরাসরি আরজি রাখলেন: গভর্নরি থেকে তাঁকে অব্যাহতি দেওয়া হোক। উমর দিলেন না; যে ক্ষমতা চায় না, তাকে ছেড়ে দেওয়ার অভ্যাস উমরের ছিল না। বসরার দিকে ফেরার পথেই, আনুমানিক ৬৩৮ খ্রিষ্টাব্দে, উতবার ইন্তেকাল হলো; যে দায়িত্ব ফিরিয়ে দিতে চেয়েছিলেন, সেটি তখনো তাঁর কাঁধে। নিজের ইচ্ছার বিরুদ্ধে, শেষ নিঃশ্বাস পর্যন্ত তিনি গভর্নরই।",
+          },
+          {
+            en: "His epitaph is the city and the sermon together. Basra kept growing for centuries into everything he warned it about, and his khutbah kept being recited inside it, a founder's voice telling every later generation that the seven who started with tree leaves in their mouths had ended as governors, and that the ending was the dangerous part. Utbah ibn Ghazwan (RA) held rank without being changed by it, which the sermon suggests he feared more than any battle.",
+            bn: "তাঁর স্মৃতিফলক দুটি জিনিস মিলিয়ে: শহরটি আর খুতবাটি। বসরা শতাব্দীর পর শতাব্দী বেড়ে উঠল ঠিক সেসব কিছুর দিকেই, যার বিরুদ্ধে তিনি সাবধান করেছিলেন; আর তার ভেতরেই পড়া হতে থাকল তাঁর খুতবা। প্রতিষ্ঠাতার কণ্ঠ পরের প্রতিটি প্রজন্মকে বলে যাচ্ছে: গাছের পাতা চিবিয়ে শুরু করা সাতজন শেষ করেছেন শহরের আমির হয়ে, আর ভয়ের জায়গাটা ওই শেষটাই। উতবা ইবনে গাজওয়ান (রাঃ) পদ ধরে রেখেছিলেন, পদ তাঁকে বদলাতে পারেনি; খুতবা বলছে, কোনো যুদ্ধের চেয়ে এটিকেই তিনি বেশি ভয় পেতেন।",
+          },
+        ],
+      },
+    ],
+  },
+  said_ibn_amir_al_jumahi: {
+    sections: [
+      {
+        h: { en: "The Day at at-Tan'im", bn: "তানয়িমের সেই দিন" },
+        p: [
+          {
+            en: "The historians who preserved the story of Sa'id ibn Amir al-Jumahi (RA) begin it before his Islam, in the crowd at Makkah that went out to watch a killing. Khubayb ibn Adiyy (RA), captured after the treachery at ar-Raji, was brought out to be killed in revenge for Badr, for no crime but his faith, and Sa'id, a young man of the Banu Jumah, stood among the spectators. What he saw there was not what the crowd had come to see.",
+            bn: "সাঈদ ইবনে আমের আল-জুমাহির (রাঃ) গল্প ঐতিহাসিকরা শুরু করেন তাঁর ইসলামের আগে থেকে; মক্কার সেই ভিড় থেকে, যারা একটি হত্যা দেখতে বেরিয়েছিল। রাজির বিশ্বাসঘাতকতার পর বন্দি খুবাইব ইবনে আদিকে (রাঃ) আনা হয়েছিল বদরের প্রতিশোধে হত্যা করতে; তাঁর দোষ বলতে ছিল কেবল ঈমান। বনু জুমাহর তরুণ সাঈদ দাঁড়িয়ে ছিলেন দর্শকদের মধ্যে। কিন্তু সেদিন তিনি যা দেখলেন, ভিড় তা দেখতে আসেনি।",
+          },
+          {
+            en: "The accounts relate that Khubayb (RA) asked to pray two rak'ahs, prayed them briefly so that no one could say he stretched them out of fear, and met his death with a composure that unsettled the men who had arranged it. Sa'id watched all of it. He went home with the day lodged in him, and the historians say plainly that it never left: the memory would resurface throughout his life, at moments he could not choose.",
+            bn: "বিবরণগুলো বলে, খুবাইব (রাঃ) দুই রাকাত নামাজ পড়ার অনুমতি চাইলেন; পড়লেন সংক্ষেপে, যেন কেউ বলতে না পারে মৃত্যুর ভয়ে তিনি নামাজ টেনে লম্বা করেছেন। তারপর মৃত্যুকে বরণ করলেন এমন স্থিরতায়, যা আয়োজকদেরই অস্থির করে দিল। সাঈদ সবটা দেখলেন। দিনটাকে বুকের ভেতর গেঁথে নিয়ে ঘরে ফিরলেন; ঐতিহাসিকরা সোজাসুজি লিখেছেন, ওই দৃশ্য আর কোনোদিন তাঁকে ছাড়েনি। সারা জীবন, না-চাওয়া মুহূর্তে, স্মৃতিটা ফিরে ফিরে আসত।",
+          },
+        ],
+      },
+      {
+        h: { en: "Islam and the Campaigns", bn: "ইসলাম ও জিহাদের ময়দান" },
+        p: [
+          {
+            en: "He embraced Islam around the time of Khaybar and crossed, in one decision, from the crowd that had watched Khubayb (RA) die to the community Khubayb had died in. He joined the campaigns from then on and served under the Prophet ﷺ in the years that remained. The biographers describe the man that emerged: deeply devout, indifferent to money, harder on himself than on anyone around him, the kind of Muslim whose austerity was noticed even in an austere generation.",
+            bn: "খাইবারের কাছাকাছি সময়ে তিনি ইসলাম কবুল করলেন; এক সিদ্ধান্তে পার হয়ে এলেন খুবাইবের (রাঃ) মৃত্যু দেখা ভিড় থেকে সেই জামাতে, যার জন্য খুবাইব প্রাণ দিয়েছিলেন। এরপর থেকে অভিযানগুলোতে শরিক হলেন, নবীজি ﷺ-এর বাকি বছরগুলোতে তাঁর অধীনে খেদমত করলেন। যে মানুষটি গড়ে উঠলেন, জীবনীকাররা তাঁর ছবি এঁকেছেন: গভীর আল্লাহভীরু, টাকাপয়সায় নির্লিপ্ত, অন্য সবার চেয়ে নিজের ওপর কঠোর। কৃচ্ছ্রের প্রজন্মেও যাঁর কৃচ্ছ্র চোখে পড়ত, তিনি সে জাতের মুসলমান।",
+          },
+          {
+            en: "Wealth had no hold on him. What reached him, he passed on; what he kept, he kept meagre. In Makkah he had belonged to Banu Jumah, a clan of standing, and in Islam he behaved like a man who had inherited nothing and wanted less. It was exactly this reputation, tested over years, that later made a caliph reach for his name when a difficult city needed a governor it could not corrupt.",
+            bn: "সম্পদ তাঁকে ধরে রাখতে পারত না। যা হাতে আসত, বিলিয়ে দিতেন; যা রাখতেন, রাখতেন সামান্যই। মক্কায় তিনি ছিলেন মর্যাদাবান বনু জুমাহর সন্তান, আর ইসলামে এসে চললেন এমনভাবে, যেন উত্তরাধিকারে কিছুই পাননি এবং তার চেয়েও কম চান। বছরের পর বছর ধরে যাচাই হওয়া এই সুনামের জোরেই পরে এক খলিফা তাঁর নাম হাতড়ে নিয়েছিলেন; যখন কঠিন এক শহরের জন্য দরকার হলো এমন গভর্নর, ঘুষ-লোভে যাঁকে কেনা যাবে না।",
+          },
+        ],
+      },
+      {
+        h: { en: "Governor Against His Will", bn: "অনিচ্ছুক গভর্নর" },
+        p: [
+          {
+            en: "Umar ibn al-Khattab (RA) appointed him over Homs in Syria. The historians relate that Sa'id tried to be excused from the post and that Umar refused to release him, insisting that those who had carried the burdens of the community could not now leave the ruling of it to others. So Sa'id went to Homs carrying an office he had not sought, to govern a proud old city that was no easy posting.",
+            bn: "উমর ইবনুল খাত্তাব (রাঃ) তাঁকে শামের হিমসের দায়িত্ব দিলেন। ঐতিহাসিকরা লিখেছেন, সাঈদ পদটি থেকে রেহাই চেয়েছিলেন, আর উমর ছাড়েননি; বলে দিয়েছিলেন, উম্মতের বোঝা যাঁরা বয়ে এনেছেন, শাসনের ভার এখন অন্যের ঘাড়ে ফেলে তাঁরা সরে যেতে পারেন না। কাজেই না-চাওয়া এক দপ্তর কাঁধে নিয়ে সাঈদ গেলেন হিমসে; শাসন করতে লাগলেন অহংকারী পুরোনো এক শহরকে, যা মোটেই সহজ দায়িত্ব ছিল না।",
+          },
+          {
+            en: "In office he lived on next to nothing. His stipend went out to the needy almost as it arrived, and his household kept the standard of the poor of the city rather than its rulers. None of this was performance; it was simply the continuation, inside a governor's residence, of the way he had always lived. But austerity in a ruler can look like neglect from below, and the people of Homs began keeping a list of complaints.",
+            bn: "দপ্তরে বসে তাঁর জীবন চলত প্রায় শূন্য খরচে। ভাতা এসে পৌঁছাতে না পৌঁছাতেই চলে যেত অভাবীদের কাছে; তাঁর সংসারের মান শহরের শাসকদের নয়, গরিবদের সমান। এর কিছুই লোক-দেখানো নয়; তিনি বরাবর যেভাবে বেঁচেছেন, গভর্নর-ভবনের ভেতরে সেটিরই ধারাবাহিকতা মাত্র। কিন্তু শাসকের কৃচ্ছ্র নিচ থেকে দেখলে মনে হতে পারে অবহেলা, আর হিমসের লোকেরা নালিশের তালিকা বানাতে শুরু করল।",
+          },
+        ],
+      },
+      {
+        h: { en: "Four Complaints, Four Answers", bn: "চার নালিশ, চার জবাব" },
+        p: [
+          {
+            en: "At-Tabari and Ibn Kathir transmit what happened when Umar (RA) asked the people of Homs about their governor. They brought four complaints: he does not come out to us until the day is already high; he answers no one at night; one day in every month he does not appear at all; and from time to time he falls unconscious in the middle of a gathering. Umar put the complaints to Sa'id and required him to answer them before the people.",
+            bn: "উমর (রাঃ) হিমসবাসীর কাছে তাদের গভর্নর সম্পর্কে জানতে চাইলে যা ঘটেছিল, আত-তাবারি ও ইবনে কাসির তা তুলে রেখেছেন। নালিশ এল চারটি: বেলা অনেক না চড়লে তিনি আমাদের কাছে বের হন না; রাতে কারও ডাকে সাড়া দেন না; মাসে একটি দিন একেবারেই দেখা দেন না; আর মাঝে মাঝে ভরা মজলিসে জ্ঞান হারিয়ে ফেলেন। উমর নালিশগুলো সাঈদের সামনে রাখলেন; জবাব দিতে বললেন লোকদের সামনেই।",
+          },
+          {
+            en: "His answers, in that account: he has no servant, so each morning he kneads and bakes his household's bread before coming out; he has divided his time, the day for the people and the night for Allah; he owns a single garment, and one day a month he washes it and waits for it to dry; and the fainting is the day of Khubayb (RA) returning, for he had stood there a mushrik, watching, and had lifted no hand to help. Umar wept, and praised Allah that his judgement of the man had not failed.",
+            bn: "সেই বিবরণে তাঁর জবাব: ঘরে কোনো কাজের লোক নেই, তাই রোজ সকালে সংসারের রুটির আটা মেখে সেঁকে তবে বের হন; সময় তিনি ভাগ করে নিয়েছেন, দিন মানুষের, রাত আল্লাহর; কাপড় তাঁর একটিই, মাসে একদিন সেটি ধুয়ে শুকানোর অপেক্ষায় থাকেন; আর অজ্ঞান হওয়াটা খুবাইবের (রাঃ) সেই দিনের ফিরে আসা, কারণ সেদিন তিনি মুশরিক হয়ে দাঁড়িয়ে দেখেছেন, সাহায্যে একটি হাতও তোলেননি। উমর কেঁদে ফেললেন; আল্লাহর প্রশংসা করলেন যে মানুষ চিনতে তাঁর ভুল হয়নি।",
+          },
+        ],
+      },
+      {
+        h: { en: "What Never Stuck to Him", bn: "যা তাঁর গায়ে লাগেনি" },
+        p: [
+          {
+            en: "The same historians relate that Umar (RA) sent him a sum of money afterwards, and that Sa'id distributed it among the needy families of Homs almost before it had settled in his house. He stayed in the post, still poor, still late in the mornings for the same reason, until his death around 641 CE. He had been given every opportunity that ruins men, and the sources cannot find the place where any of it stuck to him.",
+            bn: "সেই ঐতিহাসিকরাই লিখেছেন, পরে উমর (রাঃ) তাঁকে কিছু অর্থ পাঠিয়েছিলেন; ঘরে তা থিতু হওয়ার আগেই সাঈদ বিলিয়ে দিলেন হিমসের অভাবী পরিবারগুলোর মধ্যে। পদে রইলেন, আগের মতোই গরিব, সকালে দেরির কারণটাও আগের মতোই; এভাবে আনুমানিক ৬৪১ খ্রিষ্টাব্দে ইন্তেকাল পর্যন্ত। মানুষকে যা যা বিগড়ে দেয়, তার সব সুযোগই তাঁকে দেওয়া হয়েছিল; অথচ সূত্রগুলো খুঁজে পায় না, কোনটি তাঁর গায়ে লেগেছিল।",
+          },
+          {
+            en: "Sa'id ibn Amir (RA) is remembered as proof that the early state could put power into the hands of a man who feared Allah more than he wanted anything power offers. A city complained about its governor's hours and learned it was ruled by a man who baked his own bread and blacked out remembering an old injustice he had failed to oppose. The complaint dissolved into a kind of awe, and the awe is what the books passed down.",
+            bn: "সাঈদ ইবনে আমের (রাঃ) স্মরণীয় হয়ে আছেন এক প্রমাণ হিসেবে: গোড়ার সেই রাষ্ট্র ক্ষমতা তুলে দিতে পারত এমন মানুষের হাতে, ক্ষমতার সব দানের চেয়ে যিনি আল্লাহকে বেশি ভয় পান। একটি শহর তার গভর্নরের সময়সূচি নিয়ে নালিশ করল, আর জানল, তাদের শাসক নিজের রুটি নিজে সেঁকেন; আর পুরোনো এক জুলুমের কথা মনে পড়লে জ্ঞান হারান, যে জুলুমের প্রতিবাদ সেদিন তিনি করেননি। নালিশ গলে গিয়ে হয়ে গেল সম্ভ্রম, আর সেই সম্ভ্রমটুকুই কিতাবগুলো পরের যুগে পৌঁছে দিয়েছে।",
+          },
+        ],
+      },
+    ],
+  },
+  al_ala_ibn_al_hadrami: {
+    sections: [
+      {
+        h: { en: "The Man for the Far Coast", bn: "দূর উপকূলের মানুষ" },
+        p: [
+          {
+            en: "Al-Ala ibn al-Hadrami (RA) carried his origin in his name: his family traced back to Hadramawt in the south of Arabia, and lived in Makkah as allies rather than natives. He entered Islam and rose in the Prophet's ﷺ confidence not through clan weight, which he lacked, but through competence and reliability, the qualities the young state needed most in the men it sent far away. Few Companions were posted farther, or for longer, than al-Ala was.",
+            bn: "আল-আলা ইবনুল হাদরামির (রাঃ) নামের ভেতরেই তাঁর শিকড়: পরিবারটি এসেছিল দক্ষিণ আরবের হাদরামাউত থেকে, মক্কায় থাকত স্থানীয় নয়, মিত্র হয়ে। ইসলামে এসে নবীজি ﷺ-এর আস্থায় তিনি উঠলেন গোত্রের জোরে নয়; সে জোর তাঁর ছিলই না। উঠলেন যোগ্যতা আর নির্ভরযোগ্যতায়; দূরে পাঠানোর মতো মানুষের মধ্যে নবগঠিত রাষ্ট্রটির সবচেয়ে বেশি দরকার ছিল এ দুটি গুণই। আর আল-আলার চেয়ে দূরে, তাঁর চেয়ে লম্বা সময়ের জন্য, মোতায়েন হয়েছেন খুব কম সাহাবিই।",
+          },
+          {
+            en: "Bahrain, in that age, meant the long eastern coast of Arabia with its ports and palm country, a region of mixed peoples, Arab tribes, Persians, Jews and Christians, sitting under the shadow of the Persian empire. Its ruler was al-Mundhir ibn Sawa. When the Prophet ﷺ turned to inviting the rulers of the region after Hudaybiyyah, the historians record that the letter for al-Mundhir travelled in the hands of al-Ala ibn al-Hadrami.",
+            bn: "সে যুগে বাহরাইন মানে আরবের লম্বা পূর্ব উপকূল; বন্দর আর খেজুরের দেশ, যেখানে মিলেমিশে থাকত আরব গোত্র, পারসিক, ইহুদি ও খ্রিষ্টানরা, মাথার ওপর পারস্য সাম্রাজ্যের ছায়া। শাসক ছিলেন আল-মুনজির ইবনে সাওয়া। হুদাইবিয়ার পর নবীজি ﷺ যখন অঞ্চলের শাসকদের দাওয়াত দিতে শুরু করলেন, ঐতিহাসিকরা লিখেছেন, আল-মুনজিরের চিঠিটি পথ চলেছিল আল-আলা ইবনুল হাদরামির হাতেই।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Letter to al-Mundhir", bn: "মুনজিরের কাছে চিঠি" },
+        p: [
+          {
+            en: "The mission succeeded quietly, which is why it is less famous than the letters that were torn or debated. Al-Mundhir accepted Islam, the historians relate, and many of his people entered the religion with him, while those who kept their own faiths were left upon them in return for the dues the state set. A whole province had changed allegiance on the strength of one letter and one dependable envoy.",
+            bn: "অভিযানটি সফল হলো নীরবে; ছেঁড়া বা তর্ক-ওঠা চিঠিগুলোর মতো নাম না-কামানোর কারণও সেটিই। ঐতিহাসিকরা বলেন, আল-মুনজির ইসলাম কবুল করলেন, তাঁর সঙ্গে দ্বীনে ঢুকল তাঁর বহু প্রজা; আর যারা নিজেদের ধর্মে রইল, রাষ্ট্রের ধার্য করা কর দিয়ে তারা নিজ ধর্মেই থাকল। একটি মাত্র চিঠি আর একজন নির্ভরযোগ্য দূতের জোরে গোটা এক প্রদেশ আনুগত্য বদলে ফেলল।",
+          },
+          {
+            en: "The Prophet ﷺ then made al-Ala his governor over Bahrain, and the appointment held until the Prophet's ﷺ own passing. It was a post that ran on trust: months from Madinah, among populations old in their own ways, with revenue to collect and send. The historians record the wealth of Bahrain arriving in Madinah in his time, the fruit of an administration that worked. The caliphs after the Prophet ﷺ kept him at work on the eastern frontier.",
+            bn: "এরপর নবীজি ﷺ আল-আলাকে করলেন বাহরাইনের গভর্নর, আর নিয়োগটি বহাল রইল নবীজি ﷺ-এর ইন্তেকাল পর্যন্ত। পদটি চলত আস্থার ওপর: মদিনা থেকে কয়েক মাসের পথ, নিজ নিজ রীতিতে পুরোনো সব জনগোষ্ঠী, আর আদায় করে পাঠানোর মতো রাজস্ব। ঐতিহাসিকরা লিখেছেন, তাঁর আমলে বাহরাইনের সম্পদ মদিনায় পৌঁছাত; কাজ-করা এক প্রশাসনেরই ফল। নবীজি ﷺ-এর পরের খলিফারাও তাঁকে কাজে লাগিয়ে রাখলেন পূর্ব সীমান্তেই।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Ridda in the East", bn: "পুবের রিদ্দার ঝড়" },
+        p: [
+          {
+            en: "When the Prophet ﷺ died, the east shook. Al-Mundhir ibn Sawa died at about the same time, and among the tribes of Bahrain many renounced the new order, as tribes were doing across Arabia in the Ridda. The loyal Muslims of the region were pressed hard; the historians describe them besieged at Juwatha while the apostate confederation held the countryside. Abu Bakr (RA) confirmed al-Ala over Bahrain and committed the campaign there to him.",
+            bn: "নবীজি ﷺ-এর ইন্তেকালে পুব কেঁপে উঠল। প্রায় একই সময়ে আল-মুনজির ইবনে সাওয়াও মারা গেলেন, আর গোটা আরবজুড়ে রিদ্দার ঢেউয়ের মতো বাহরাইনের বহু গোত্রও নতুন ব্যবস্থাকে অস্বীকার করে বসল। অঞ্চলের অনুগত মুসলমানরা পড়লেন প্রবল চাপে; ঐতিহাসিকদের বর্ণনায়, জুওয়াসায় তাঁরা অবরুদ্ধ, আর গ্রামাঞ্চল মুরতাদ জোটের দখলে। আবু বকর (রাঃ) আল-আলাকে বাহরাইনের দায়িত্বে বহাল রাখলেন, আর সেখানকার অভিযানের ভারও দিলেন তাঁকেই।",
+          },
+          {
+            en: "Al-Ala gathered the Muslims, relieved the besieged, and broke the rising in a campaign the historians of the conquests recount at length. Bahrain came back to the faith and stayed. Of all the theatres of the Ridda wars, the eastern one is bound most tightly to a single name, because the man who held it was the same man who had first carried Islam there: the province's envoy, then its governor, and now its defender.",
+            bn: "আল-আলা মুসলমানদের একত্র করলেন, অবরুদ্ধদের উদ্ধার করলেন, আর এমন এক অভিযানে বিদ্রোহ ভেঙে দিলেন, বিজয়ের ইতিহাসকাররা যার বিবরণ দিয়েছেন সবিস্তারে। বাহরাইন দ্বীনে ফিরে এল, আর রয়েও গেল। রিদ্দা যুদ্ধের সব রণাঙ্গনের মধ্যে পুবেরটিই একটিমাত্র নামের সঙ্গে সবচেয়ে শক্ত করে বাঁধা; কারণ যিনি অঞ্চলটি ধরে রাখলেন, তিনিই প্রথম সেখানে ইসলাম বয়ে নিয়েছিলেন। প্রদেশটির দূত, তারপর গভর্নর, এবার তার রক্ষক।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Man of Much Du'a", bn: "দোয়ার মানুষ" },
+        p: [
+          {
+            en: "The biographers add a devotional portrait to the administrative one. Al-Ala is remembered as a man given greatly to supplication, turning to du'a in his campaigns the way other commanders turned to their stores and scouts, and his men remembered him praying at the hard moments of the eastern wars. The sources love this theme in him; what stands soundly established is the reputation itself, a governor and general whose first resort was asking Allah.",
+            bn: "প্রশাসকের ছবির পাশে জীবনীকাররা এঁকেছেন ইবাদতের ছবিও। আল-আলাকে মনে রাখা হয়েছে প্রচুর দোয়ার মানুষ হিসেবে; অন্য সেনাপতিরা যেমন ভরসা করতেন রসদ আর গোয়েন্দায়, অভিযানে তিনি তেমনি ফিরতেন দোয়ায়। পুবের যুদ্ধগুলোর কঠিন মুহূর্তে তাঁর সৈনিকরা তাঁকে দেখেছে দোয়ায় রত। সূত্রগুলো তাঁর এই দিকটি নিয়ে বলতে ভালোবাসে; মজবুতভাবে প্রমাণিত হলো খোদ সুনামটিই। এমন এক গভর্নর ও সেনাপতি, সবার আগে যাঁর হাত উঠত আল্লাহর দিকে।",
+          },
+          {
+            en: "That reputation sat inside a life of plain hard service. He administered, collected, campaigned, and reported, year after year, in a province where no one from Madinah was watching him day to day. The Prophet ﷺ trusted him, and Abu Bakr (RA) and Umar (RA) each kept him at work on the eastern frontier. Three rulers of very different tempers looked at that frontier and reached the same conclusion, and that agreement is its own testimony about the man.",
+            bn: "সে সুনামের নিচে ছিল সাদামাটা কঠোর খেদমতের এক জীবন। বছরের পর বছর তিনি শাসন করেছেন, আদায় করেছেন, অভিযান চালিয়েছেন, হিসাব পাঠিয়েছেন; এমন এক প্রদেশে, যেখানে মদিনার কেউ রোজ তাঁর ওপর চোখ রাখছে না। নবীজি ﷺ তাঁকে আস্থায় নিলেন, আর আবু বকর (রাঃ) ও উমর (রাঃ) দুজনেই তাঁকে কাজে লাগিয়ে রাখলেন পূর্ব সীমান্তে। তিন শাসক, মেজাজে তিন রকম, সেই সীমান্তের দিকে তাকিয়ে পৌঁছালেন একই সিদ্ধান্তে; এই মিলটুকুই মানুষটির পক্ষে আলাদা এক সাক্ষ্য।",
+          },
+        ],
+      },
+      {
+        h: { en: "Death in Harness", bn: "দায়িত্বেই শেষ নিঃশ্বাস" },
+        p: [
+          {
+            en: "The historians relate that Umar (RA) later assigned him a new command in Iraq, and that al-Ala died on the road to it, around 641 CE, before he could take it up. He had spent the whole of his public life in motion between assignments, and the end met him in exactly that posture: en route, under orders, still in harness. He left behind no clan power in the capital; what he left was the record of his service.",
+            bn: "ঐতিহাসিকরা লিখেছেন, পরে উমর (রাঃ) তাঁকে ইরাকে নতুন এক দায়িত্ব দেন, আর সেখানে পৌঁছানোর আগেই, পথে, আনুমানিক ৬৪১ খ্রিষ্টাব্দে আল-আলার ইন্তেকাল হয়। সরকারি জীবনের পুরোটা কেটেছিল তাঁর এক দায়িত্ব থেকে আরেক দায়িত্বের পথে; শেষটাও তাঁকে পেল ঠিক সেই ভঙ্গিতেই। পথে, হুকুমের অধীনে, তখনো কাঁধে জোয়াল। রাজধানীতে কোনো গোত্রীয় প্রতিপত্তি তিনি রেখে যাননি; রেখে গেলেন কেবল খেদমতের খতিয়ান।",
+          },
+          {
+            en: "Al-Ala ibn al-Hadrami (RA) shows what the Prophet's ﷺ state was built from at its edges: not only the famous names of Badr, but steady men trusted with distances. A letter, a province, a rebellion, a lifetime of accounts rendered honestly, all of it weeks of travel from the nearest oversight. The frontier held because he held, through three reigns, and the historians who count the builders of the early state count him among them.",
+            bn: "নবীজি ﷺ-এর রাষ্ট্র তার প্রান্তগুলোতে কী দিয়ে গড়া ছিল, আল-আলা ইবনুল হাদরামি (রাঃ) তা দেখিয়ে দেন: শুধু বদরের নামকরা নামগুলো নয়, দূরত্বের আমানত পাওয়া অবিচল মানুষরাও। একটি চিঠি, একটি প্রদেশ, একটি বিদ্রোহ, আর সততায় বুঝিয়ে দেওয়া সারা জীবনের হিসাব; সবটাই নিকটতম নজরদারি থেকে কয়েক সপ্তাহের পথ দূরে। সীমান্ত টিকে ছিল, কারণ তিনি টিকে ছিলেন, তিন শাসনামল জুড়ে; আর গোড়ার রাষ্ট্রের নির্মাতাদের যাঁরা গোনেন, সেই ঐতিহাসিকরা তাঁকে গোনেন তাঁদেরই মধ্যে।",
+          },
+        ],
+      },
+    ],
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { SAHABA_ARTICLES };
