@@ -4337,6 +4337,420 @@ const SAHABA_ARTICLES = {
       },
     ],
   },
+  hafsa_bint_umar: {
+    sections: [
+      {
+        h: { en: "Umar's Daughter", bn: "উমরের (রাঃ) মেয়ে" },
+        p: [
+          {
+            en: "Hafsa (RA) grew up in the house of Umar ibn al-Khattab (RA), born a few years before the prophethood began. The biographers describe her as her father's daughter in every way: direct, strong-willed, and serious about her religion. She was married young to Khunays ibn Hudhafah (RA), one of the early Muslims, and the two of them left Makkah for Madinah when the migration was commanded. It was a marriage of two believers who had each given up home and standing for the sake of the faith.",
+            bn: "হাফসা (রাঃ) বেড়ে উঠেছেন উমর ইবনুল খাত্তাবের (রাঃ) ঘরে। নবুওয়াতের কয়েক বছর আগে তাঁর জন্ম। জীবনীকারদের বর্ণনায় তিনি সব দিক থেকেই বাবার মেয়ে। কথায় সোজাসাপটা, মেজাজে দৃঢ়, দ্বীনের ব্যাপারে ভীষণ যত্নবান। অল্প বয়সে তাঁর বিয়ে হয় প্রথম যুগের মুসলিম খুনাইস ইবনে হুযাফার (রাঃ) সঙ্গে। হিজরতের হুকুম এলে দুজনে মক্কা ছেড়ে মদিনায় চলে যান। এ ছিল এমন দুই মুমিনের সংসার, যাঁরা ঈমানের জন্য ঘরবাড়ি আর সামাজিক মর্যাদা দুটোই ছেড়ে এসেছিলেন।",
+          },
+          {
+            en: "Khunays fought beside the Prophet ﷺ and took wounds from which he never recovered; he died in Madinah, and Hafsa was widowed while still very young. Umar watched his daughter's grief and decided he would not leave her sitting in it. What he did next is preserved in Sahih al-Bukhari, and the episode reveals as much about the men around her as it does about Hafsa herself, because it turns on an offer, a refusal, and a silence.",
+            bn: "খুনাইস (রাঃ) নবীজির ﷺ পাশে থেকে লড়াই করেছিলেন। যুদ্ধের ক্ষত আর সারেনি, মদিনাতেই তিনি ইন্তেকাল করেন। খুব অল্প বয়সেই হাফসা (রাঃ) বিধবা হলেন। মেয়ের শোক দেখে উমর (রাঃ) ঠিক করলেন, তাকে এভাবে বসিয়ে রাখবেন না। এরপর যা ঘটল, তা সহিহ বুখারিতে সংরক্ষিত। ঘটনাটা যতটা হাফসার কথা বলে, ততটাই বলে তাঁর চারপাশের মানুষগুলোর কথা। কারণ এর ভেতরে আছে এক প্রস্তাব, এক প্রত্যাখ্যান, আর এক নীরবতা।",
+          },
+        ],
+      },
+      {
+        h: { en: "An Offer and a Silence", bn: "প্রস্তাব ও নীরবতা" },
+        p: [
+          {
+            en: "Umar went first to Uthman (RA) and offered him Hafsa in marriage. Uthman considered for some days and then said he would not marry at that time. Umar then went to Abu Bakr (RA), who gave him no answer at all, and his silence stung Umar more than the refusal had. Days later the Prophet ﷺ himself asked for Hafsa, and Umar gave her to him gladly. At the same time Uthman married the Prophet's ﷺ own daughter, so both houses were joined to his.",
+            bn: "উমর (রাঃ) প্রথমে গেলেন উসমানের (রাঃ) কাছে, হাফসাকে বিয়ের প্রস্তাব দিলেন। কয়েকদিন ভেবে উসমান জানালেন, এখন তিনি বিয়ে করবেন না। এরপর উমর গেলেন আবু বকরের (রাঃ) কাছে। তিনি কোনো জবাবই দিলেন না। এই নীরবতা উমরকে প্রত্যাখ্যানের চেয়েও বেশি কষ্ট দিল। কিছুদিন পর নবীজি ﷺ নিজেই হাফসার জন্য প্রস্তাব পাঠালেন, আর উমর আনন্দের সঙ্গে মেয়েকে তাঁর হাতে তুলে দিলেন। সেই সময়েই উসমান বিয়ে করলেন নবীজির ﷺ নিজের মেয়েকে। দুটি পরিবারই তাঁর সঙ্গে যুক্ত হয়ে গেল।",
+          },
+          {
+            en: "Afterwards Abu Bakr met Umar and explained his silence. He had heard the Prophet ﷺ mention Hafsa, and he would not disclose the Messenger's secret; had the Prophet ﷺ left her, Abu Bakr said, he would have accepted her himself. The whole exchange sits in Sahih al-Bukhari, and it is a quiet lesson in its own right: Abu Bakr chose to absorb a friend's hurt rather than reveal a confidence, and he explained himself only once the matter was settled.",
+            bn: "পরে আবু বকর (রাঃ) উমরের সঙ্গে দেখা করে নিজের নীরবতার কারণ খুলে বললেন। তিনি নবীজিকে ﷺ হাফসার কথা বলতে শুনেছিলেন, আর রাসুলের গোপন কথা ফাঁস করা তাঁর পক্ষে সম্ভব ছিল না। বললেন, নবীজি ﷺ যদি হাফসাকে না নিতেন, তবে তিনি নিজেই কবুল করতেন। পুরো ঘটনা সহিহ বুখারিতে আছে। এর ভেতরে চুপচাপ একটা শিক্ষা লুকিয়ে আছে। আমানত রক্ষার জন্য আবু বকর বন্ধুর অভিমান সহ্য করলেন, আর ব্যাপারটা মিটে যাওয়ার পরই কেবল নিজের ব্যাখ্যা দিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "In the Prophet's ﷺ Household", bn: "নবীজির ﷺ ঘরে" },
+        p: [
+          {
+            en: "As a Mother of the Believers, Hafsa lived the plain life of the Prophet's ﷺ house, described by the biographers as given to fasting and night prayer. She had also inherited her father's boldness, and Sahih al-Bukhari preserves Umar's own anxious counsel to her: not to press the Messenger of Allah ﷺ or answer him back, and to come to her father for whatever she needed. A strong-tempered woman in that household was not a scandal; she was a daughter Umar recognised.",
+            bn: "উম্মুল মুমিনিন হিসেবে হাফসা (রাঃ) নবীজির ﷺ ঘরের সাদাসিধে জীবনই যাপন করতেন। জীবনীকারদের বর্ণনায় তিনি ছিলেন রোজা আর রাতের নামাজের মানুষ। বাবার সাহসটাও তিনি পেয়েছিলেন। সহিহ বুখারিতে উমরের (রাঃ) সেই উদ্বিগ্ন উপদেশ রয়ে গেছে: আল্লাহর রাসুলকে ﷺ চাপ দিয়ো না, মুখে মুখে জবাব দিয়ো না, যা লাগে বাবার কাছে চেয়ে নিয়ো। ওই ঘরে দৃঢ় মেজাজের একজন নারী থাকা কোনো কলঙ্কের ব্যাপার ছিল না। উমর কেবল মেয়ের মধ্যে নিজেকেই চিনতে পেরেছিলেন।",
+          },
+          {
+            en: "Surah at-Tahrim opens with Allah addressing His Prophet ﷺ about something he had forbidden himself in order to please his wives, and 66:4 calls two of them to turn back to Allah. Sahih al-Bukhari records Ibn Abbas (RA) asking Umar who the two were, and Umar answering: Aishah and Hafsa. A report in the Sunan collections adds that the Prophet ﷺ once divorced Hafsa and then took her back. Her place in his household weathered its trials and held.",
+            bn: "সুরা তাহরিমের শুরুতে আল্লাহ তাঁর নবীকে ﷺ সম্বোধন করছেন, স্ত্রীদের খুশি করতে তিনি নিজের জন্য একটি হালাল জিনিস হারাম করে নিয়েছিলেন সেই প্রসঙ্গে। আর ৬৬:৪ আয়াতে দুজন স্ত্রীকে বলা হয়েছে আল্লাহর দিকে ফিরে আসতে। সহিহ বুখারিতে আছে, ইবনে আব্বাস (রাঃ) উমরকে জিজ্ঞেস করেছিলেন সেই দুজন কারা। উমর জবাব দিলেন: আয়েশা আর হাফসা। সুনান গ্রন্থগুলোর এক বর্ণনায় আরও আছে, নবীজি ﷺ একবার হাফসাকে তালাক দিয়ে আবার ফিরিয়ে নিয়েছিলেন। পরীক্ষার ভেতর দিয়েও তাঁর ঘরে হাফসার জায়গাটা টিকে ছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Woman Who Could Write", bn: "লিখতে জানা এক নারী" },
+        p: [
+          {
+            en: "Hafsa could read and write at a time when literacy was rare among the Arabs, and rarer still among women. A report in the Sunan collections has the Prophet ﷺ asking ash-Shifa bint Abdullah (RA), one of the few literate women of Makkah, to teach Hafsa a remedy just as she had once taught her to write. Nobody at the time could have known what that skill was being prepared for, but the later history of the Quran's written text would run directly through this literate wife.",
+            bn: "আরবদের মধ্যে তখন লেখাপড়া জানা মানুষই ছিল কম, নারীদের মধ্যে আরও কম। হাফসা (রাঃ) পড়তে ও লিখতে জানতেন। সুনান গ্রন্থের এক বর্ণনায় আছে, মক্কার হাতে গোনা শিক্ষিত নারীদের একজন শিফা বিনতে আবদুল্লাহকে (রাঃ) নবীজি ﷺ বলেছিলেন, তুমি হাফসাকে যেমন লেখা শিখিয়েছ, তেমনি একটি ঝাড়ফুঁকের দোয়াও শিখিয়ে দাও। সেদিন কেউ জানত না এই বিদ্যা কোন কাজের জন্য তৈরি হচ্ছে। অথচ কুরআনের লিখিত রূপের পরের ইতিহাস গেছে এই শিক্ষিত স্ত্রীর ঘরের ভেতর দিয়েই।",
+          },
+          {
+            en: "After the battle of Yamamah killed many of the reciters, Abu Bakr commissioned Zayd ibn Thabit (RA) to collect the Quran, an undertaking Sahih al-Bukhari 4679 records in Zayd's own words. The finished sheets, the suhuf, stayed with Abu Bakr until his death, then with Umar. When Umar died, they did not go to the next caliph. They went to his daughter Hafsa, and the ummah's master record of the revelation sat in her room.",
+            bn: "ইয়ামামার যুদ্ধে বহু কারি শহিদ হলে আবু বকর (রাঃ) যায়েদ ইবনে সাবিতকে (রাঃ) কুরআন একত্র করার দায়িত্ব দেন। সহিহ বুখারি ৪৬৭৯-এ যায়েদের নিজের জবানিতে সেই কাজের বিবরণ আছে। সংকলিত পাতাগুলো, অর্থাৎ সুহুফ, মৃত্যু পর্যন্ত আবু বকরের কাছে ছিল, তারপর উমরের কাছে। উমর (রাঃ) শহিদ হলে সেগুলো পরের খলিফার কাছে গেল না। গেল তাঁর মেয়ে হাফসার কাছে। ওহির সেই মূল লিখিত ভান্ডারের ঠিকানা হলো হাফসার ঘর।",
+          },
+        ],
+      },
+      {
+        h: { en: "Keeper of the Suhuf", bn: "সুহুফের আমানতদার" },
+        p: [
+          {
+            en: "In Uthman's caliphate, Muslims from different regions began disputing over recitation, and Sahih al-Bukhari 4987 records what followed: Uthman sent to Hafsa asking for the sheets so that they could be copied into master volumes, promising to return them. Zayd ibn Thabit and three Qurayshi companions made the copies, the standard mushafs went out to the provinces, and the original suhuf came back to Hafsa's keeping, where they remained for the rest of her life.",
+            bn: "উসমানের (রাঃ) খেলাফতে বিভিন্ন অঞ্চলের মুসলমানদের মধ্যে তিলাওয়াত নিয়ে মতভেদ দেখা দিল। এরপর যা হলো তা সহিহ বুখারি ৪৯৮৭-এ আছে। উসমান হাফসার কাছে লোক পাঠিয়ে পাতাগুলো চাইলেন, যেন সেগুলো থেকে মূল কপি তৈরি করা যায়, আর কথা দিলেন ফেরত দেবেন। যায়েদ ইবনে সাবিত ও কুরাইশের তিনজন সাহাবি কপিগুলো তৈরি করলেন। প্রামাণ্য মুসহাফ ছড়িয়ে গেল প্রদেশে প্রদেশে, আর আসল সুহুফ ফিরে এল হাফসার জিম্মায়। জীবনের শেষ দিন পর্যন্ত সেগুলো তাঁর কাছেই ছিল।",
+          },
+          {
+            en: "Hafsa died in Madinah around the year 45 after the Hijrah, during Muawiyah's rule, and was buried in al-Baqi. Her brother Abdullah ibn Umar (RA) was among those who carried out her final instructions. Two caliphs had trusted her with the single most important document the ummah possessed, between the first collection and the standard copies, and every printed mushaf in the world today descends from the copies made from the sheets kept safe by Umar's daughter.",
+            bn: "হিজরি পঁয়তাল্লিশ সালের দিকে, মুআবিয়ার (রাঃ) শাসনামলে হাফসা (রাঃ) মদিনায় ইন্তেকাল করেন। দাফন হয় জান্নাতুল বাকিতে। ভাই আবদুল্লাহ ইবনে উমর (রাঃ) ছিলেন তাঁর শেষ ওসিয়ত পালনকারীদের একজন। প্রথম সংকলন থেকে প্রামাণ্য কপি পর্যন্ত মাঝের সময়টায় উম্মাহর সবচেয়ে দামি দলিলটি দুই খলিফা তাঁর হাতে আমানত রেখেছিলেন। আজ দুনিয়ার প্রতিটি ছাপা মুসহাফের ধারা গিয়ে মেশে সেই পাতাগুলোতে, যা আগলে রেখেছিলেন উমরের মেয়ে।",
+          },
+        ],
+      },
+    ],
+  },
+  safiyyah_bint_abd_al_muttalib: {
+    sections: [
+      {
+        h: { en: "The Prophet's ﷺ Aunt", bn: "নবীজির ﷺ ফুফু" },
+        p: [
+          {
+            en: "Safiyyah bint Abd al-Muttalib (RA) was the paternal aunt of the Prophet Muhammad ﷺ and the sister of Hamzah (RA), born into the very centre of Quraysh nobility. She married al-Awwam ibn Khuwaylid, the brother of Khadijah (RA), so that her closest ties ran on both sides into the Prophet's ﷺ own story. Al-Awwam died while their son az-Zubayr was still a boy, and Safiyyah raised him alone, a widow in a society that measured women by their men.",
+            bn: "সাফিয়্যা বিনতে আবদুল মুত্তালিব (রাঃ) ছিলেন নবীজির ﷺ আপন ফুফু, হামজার (রাঃ) বোন। জন্ম কুরাইশ আভিজাত্যের একেবারে কেন্দ্রে। বিয়ে হয়েছিল খাদিজার (রাঃ) ভাই আওয়াম ইবনে খুওয়াইলিদের সঙ্গে। ফলে তাঁর নিকটতম আত্মীয়তার সুতোগুলো দুই দিক থেকেই নবীজির ﷺ জীবনের সঙ্গে জড়িয়ে গিয়েছিল। ছেলে জুবাইর তখনো ছোট, এমন সময় আওয়াম মারা যান। যে সমাজ নারীর মূল্য মাপত তার পুরুষ অভিভাবক দিয়ে, সেখানে সাফিয়্যা একাই ছেলেকে মানুষ করলেন।",
+          },
+          {
+            en: "The sirah writers record that she brought az-Zubayr up with deliberate hardness, training him for courage rather than comfort, and answering those who criticised her severity by saying she was making a man of him. Whatever one makes of her methods, the result stands in the history books: az-Zubayr ibn al-Awwam (RA) became one of the earliest Muslims and one of the most celebrated warriors of the faith, the man the Prophet ﷺ called his hawari, his devoted helper.",
+            bn: "সিরাত লেখকরা লিখেছেন, সাফিয়্যা জুবাইরকে ইচ্ছে করেই কঠোর শাসনে বড় করতেন। আরামের জন্য নয়, সাহসের জন্য তৈরি করছিলেন ছেলেকে। কড়া শাসনের সমালোচনা যারা করত, তাদের জবাবে বলতেন, ছেলেকে তিনি খাঁটি পুরুষ বানাচ্ছেন। পদ্ধতি নিয়ে যে যা-ই ভাবুক, ফলটা ইতিহাসে লেখা আছে। জুবাইর ইবনুল আওয়াম (রাঃ) হলেন প্রথম যুগের মুসলিমদের একজন, দ্বীনের সবচেয়ে বিখ্যাত যোদ্ধাদের একজন। নবীজি ﷺ তাঁকে ডেকেছিলেন নিজের হাওয়ারি, একান্ত সাহায্যকারী বলে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Faith and Migration", bn: "ঈমান ও হিজরত" },
+        p: [
+          {
+            en: "Safiyyah believed in her nephew's ﷺ message, and held to Islam through the years that followed, when Quraysh made believing costly. She was among those who left Makkah for Madinah, an older woman abandoning the city of her fathers with the community of the faithful. In Madinah her household was bound tightly to the Prophet's ﷺ: her brother Hamzah was the lion of the early battles, and her son az-Zubayr stood in the front ranks.",
+            bn: "সাফিয়্যা (রাঃ) ভাতিজার ﷺ দ্বীনে ঈমান আনলেন। কুরাইশ যখন ঈমানের দাম চড়িয়ে দিয়েছিল, পরের সেই কঠিন বছরগুলোতেও তিনি ইসলাম আঁকড়ে ছিলেন। মুমিনদের কাফেলার সঙ্গে বাপ-দাদার শহর মক্কা ছেড়ে মদিনায় হিজরত করলেন, তখন তাঁর বয়স কম নয়। মদিনায় তাঁর পরিবার নবীজির ﷺ সঙ্গে ওতপ্রোতভাবে জড়িয়ে গেল। ভাই হামজা প্রথম যুগের যুদ্ধগুলোর সিংহ, আর ছেলে জুবাইর লড়ছেন একেবারে সামনের কাতারে।",
+          },
+          {
+            en: "Two trials would define her in the histories: the death of her brother at Uhud, and an armed scout at the door of a fort full of women during the siege of Madinah. In both, the sources show a woman who had settled her faith long before the crisis arrived and acted from that settled place. She was by then well past middle age; neither grief nor fear moved her from what she had decided Islam required of her.",
+            bn: "ইতিহাসে তাঁর নাম গেঁথে আছে দুটি পরীক্ষার সূত্রে। এক, উহুদে ভাইয়ের শাহাদাত। দুই, মদিনা অবরোধের সময় নারীতে ভরা দুর্গের দোরগোড়ায় অস্ত্র হাতে এক গুপ্তচর। দুই ঘটনাতেই সূত্রগুলো একই মানুষকে দেখায়। সংকট আসার অনেক আগেই যিনি ঈমানের হিসাব চুকিয়ে রেখেছিলেন, আর সেই স্থির জায়গা থেকেই কাজ করেছেন। বয়স তখন তাঁর অনেক। তবু শোক বা ভয়, কোনোটাই তাঁকে তাঁর বুঝে নেওয়া দ্বীনের দাবি থেকে একচুল সরাতে পারেনি।",
+          },
+        ],
+      },
+      {
+        h: { en: "Patience at Uhud", bn: "উহুদের সবর" },
+        p: [
+          {
+            en: "At Uhud, Hamzah (RA) was killed and his body mutilated. Ibn Hisham records that when Safiyyah came towards the field, the Prophet ﷺ told her son az-Zubayr to turn her back so that she would not see what had been done to her brother. Her answer went ahead of her: she had already heard of the mutilation, she said, and it was small in the way of Allah; she was content with the decree and would be patient and seek the reward.",
+            bn: "উহুদে হামজা (রাঃ) শহিদ হলেন, তাঁর লাশ ক্ষতবিক্ষত করা হলো। ইবনে হিশাম লিখেছেন, সাফিয়্যা ময়দানের দিকে এগিয়ে এলে নবীজি ﷺ জুবাইরকে বললেন মাকে ফিরিয়ে দিতে, যেন ভাইয়ের সঙ্গে যা করা হয়েছে তা মায়ের চোখে না পড়ে। কিন্তু সাফিয়্যার জবাব আগেই তৈরি ছিল। বললেন, ভাইয়ের লাশের খবর তিনি শুনেছেন, আল্লাহর রাস্তায় এ আর এমন কী। তিনি আল্লাহর ফয়সালায় রাজি, সবর করবেন আর সওয়াবের আশা রাখবেন।",
+          },
+          {
+            en: "The Prophet ﷺ then let her through. She stood over Hamzah's body, prayed for him, asked forgiveness for him, and turned back, the sirah writers record. There is no scene in it and no collapse. Grief was real, and she gave it its due; what she refused to give it was authority over her. Uhud left many wounds in the community, and Safiyyah's manner of bearing hers became part of how the believers learned to carry loss.",
+            bn: "নবীজি ﷺ তখন তাঁকে যেতে দিলেন। সিরাত লেখকদের বর্ণনায়, সাফিয়্যা ভাইয়ের লাশের পাশে দাঁড়ালেন, তাঁর জন্য দোয়া করলেন, মাগফিরাত চাইলেন, তারপর ফিরে গেলেন। কোনো আহাজারি নেই, ভেঙে পড়া নেই। শোক সত্যি ছিল, তিনি শোককে তার প্রাপ্যটুকু দিয়েছেন। দেননি কেবল নিজের ওপর কর্তৃত্ব। উহুদ গোটা জামাতের বুকে অনেক ক্ষত রেখে গিয়েছিল। ক্ষতি কীভাবে বইতে হয়, মুমিনরা তা শেখার সময় সাফিয়্যার এই ধরনটাও পাথেয় হয়ে রইল।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Fort at the Trench", bn: "খন্দকের দুর্গ" },
+        p: [
+          {
+            en: "During the siege of Madinah, the days the Quran describes in 33:10, the women and children were placed in the fortified house of Hassan ibn Thabit while every fighting man held the trench. Ibn Hisham recounts that a scout from the besiegers' allies came circling the fort, probing whether it was defended. Safiyyah saw the danger at once: if the man reported the fort empty of fighters, the families of the entire army lay exposed to the tribes behind the lines.",
+            bn: "মদিনা অবরোধের সেই দিনগুলোর ছবি কুরআন এঁকেছে ৩৩:১০ আয়াতে। যুদ্ধ করার মতো প্রতিটি পুরুষ তখন পরিখায়, আর নারী ও শিশুদের রাখা হয়েছে হাসসান ইবনে সাবিতের সুরক্ষিত দুর্গে। ইবনে হিশাম লিখেছেন, অবরোধকারীদের মিত্রপক্ষের এক গুপ্তচর দুর্গের চারপাশে ঘুরঘুর করতে লাগল, দেখতে চাইছিল পাহারা আছে কি না। সাফিয়্যা (রাঃ) বিপদটা সঙ্গে সঙ্গে ধরে ফেললেন। লোকটা যদি খবর দেয় দুর্গে কোনো যোদ্ধা নেই, তাহলে গোটা বাহিনীর পরিবার-পরিজন পেছনের শত্রু গোত্রগুলোর মুখে পড়ে যাবে।",
+          },
+          {
+            en: "No fighting man was present to deal with him. So Safiyyah took a tent pole, went down herself, and struck the scout dead, and the fort kept its secret. The account comes from the sirah literature, from Ibn Hisham and those who followed him, and they tell it as the act that shielded the households of Madinah at their most defenceless hour. Some historians count her the first woman of this ummah to kill an enemy in its defence.",
+            bn: "লোকটাকে সামলানোর মতো কোনো পুরুষ যোদ্ধা তখন দুর্গে নেই। সাফিয়্যা তাঁবুর একটা খুঁটি তুলে নিলেন, নিজেই নিচে নামলেন, আর গুপ্তচরকে আঘাত করে মেরে ফেললেন। দুর্গের গোপন খবর গোপনই রয়ে গেল। ঘটনাটা সিরাত সাহিত্যের, ইবনে হিশাম ও তাঁর পরের লেখকদের বর্ণনা। তাঁরা লিখেছেন, মদিনার পরিবারগুলো যখন সবচেয়ে অরক্ষিত, তখন এই একটি কাজই তাদের আড়াল করেছিল। কোনো কোনো ঐতিহাসিকের হিসাবে, এই উম্মাহর হয়ে শত্রু বধ করা প্রথম নারী তিনিই।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Last Years", bn: "শেষ জীবন" },
+        p: [
+          {
+            en: "Safiyyah outlived her nephew ﷺ. The biographers preserve lines of mourning poetry she spoke at his death, the grief of a woman who had known him from the day he was born. She had buried a husband, a brother, and now the Messenger of Allah ﷺ, and she was still standing, still praying, still the matriarch of a family at the heart of the community. She died in Madinah during the caliphate of Umar (RA) and was buried in al-Baqi.",
+            bn: "সাফিয়্যা (রাঃ) তাঁর ভাতিজার ﷺ ইন্তেকালের পরও বেঁচে ছিলেন। জীবনীকাররা তাঁর শোকগাথার পঙক্তিগুলো সংরক্ষণ করেছেন। যে মানুষটিকে জন্মের দিন থেকে চিনতেন, তাঁর বিদায়ে এক নারীর কান্না ধরা আছে সেই কবিতায়। স্বামীকে কবরে দিয়েছেন, ভাইকে দিয়েছেন, এবার আল্লাহর রাসুলকেও ﷺ। তবু তিনি দাঁড়িয়ে, নামাজে, জামাতের কেন্দ্রে থাকা এক পরিবারের অভিভাবক হয়ে। উমরের (রাঃ) খেলাফতকালে মদিনায় তাঁর ইন্তেকাল হয়, দাফন হয় জান্নাতুল বাকিতে।",
+          },
+          {
+            en: "Her legacy travelled through her son. Az-Zubayr (RA) was one of those given the glad tidings of Paradise, and his descendants carried her line through generations of scholars and leaders. But Safiyyah's own claim on the ummah's memory does not depend on him. She showed that faith is not a man's possession, that patience can stand at a graveside without breaking, and that courage, when the moment demands it, does not stop to ask whether its bearer is expected to have any.",
+            bn: "তাঁর উত্তরাধিকার বয়ে গেছে ছেলের ভেতর দিয়ে। জুবাইর (রাঃ) জান্নাতের সুসংবাদপ্রাপ্তদের একজন, তাঁর বংশে প্রজন্মের পর প্রজন্ম এসেছে আলেম ও নেতা। তবে উম্মাহর স্মৃতিতে সাফিয়্যার নিজের দাবি ছেলের ওপর নির্ভর করে না। তিনি দেখিয়ে গেছেন, ঈমান শুধু পুরুষের সম্পদ নয়। সবর কবরের পাশে দাঁড়িয়েও ভেঙে পড়ে না। আর মুহূর্ত যখন দাবি তোলে, সাহস তখন জিজ্ঞেস করে না, এ সাহস তার কাছে কেউ আশা করেছিল কি না।",
+          },
+        ],
+      },
+    ],
+  },
+  zaynab_bint_jahsh: {
+    sections: [
+      {
+        h: { en: "The Prophet's ﷺ Cousin", bn: "নবীজির ﷺ ফুফাতো বোন" },
+        p: [
+          {
+            en: "Zaynab bint Jahsh (RA) was the daughter of Umaymah bint Abd al-Muttalib, the Prophet's ﷺ paternal aunt, which made her his first cousin. She was a woman of the old Arab nobility, beautiful, proud of her lineage, and devout. Her family were among the early believers: her brother Abdullah ibn Jahsh (RA) led one of the first expeditions of Islam and later fell at Uhud. Zaynab herself accepted Islam early and made the migration to Madinah with the households of the believers.",
+            bn: "জয়নব বিনতে জাহাশ (রাঃ) ছিলেন নবীজির ﷺ ফুফু উমাইমা বিনতে আবদুল মুত্তালিবের মেয়ে, অর্থাৎ তাঁর আপন ফুফাতো বোন। প্রাচীন আরব আভিজাত্যের নারী, রূপবতী, বংশগৌরবে সচেতন, আবার গভীরভাবে দ্বীনদার। তাঁর পরিবার ছিল প্রথম যুগের মুমিনদের কাতারে। ভাই আবদুল্লাহ ইবনে জাহাশ (রাঃ) ইসলামের প্রথম দিকের এক অভিযানের নেতৃত্ব দেন, পরে উহুদে শহিদ হন। জয়নব নিজেও শুরুর দিকেই ইসলাম কবুল করেন এবং মুমিনদের কাফেলার সঙ্গে মদিনায় হিজরত করেন।",
+          },
+          {
+            en: "In Madinah the Prophet ﷺ proposed a match for her: Zayd ibn Harithah (RA), his freed slave and the man Arab custom called his adopted son. For a woman of Zaynab's descent, marriage to a freedman overturned every social expectation she had been raised with. The commentators connect her family's hesitation and eventual obedience with the principle laid down in 33:36, that when Allah and His Messenger have decided a matter, a believer has no choice remaining. She accepted, and the marriage took place.",
+            bn: "মদিনায় নবীজি ﷺ তাঁর জন্য একটি বিয়ের প্রস্তাব আনলেন। পাত্র যায়েদ ইবনে হারিসা (রাঃ), নবীজির আজাদ করা গোলাম, আরব রীতিতে যাঁকে তাঁর পালকপুত্র বলা হতো। জয়নবের মতো বংশের নারীর জন্য আজাদ গোলামকে বিয়ে করা মানে ছোটবেলা থেকে শেখা সামাজিক হিসাবের সবটাই উল্টে যাওয়া। মুফাসসিররা এই পরিবারের দ্বিধা আর শেষে মেনে নেওয়ার সঙ্গে ৩৩:৩৬ আয়াতের মূলনীতি জুড়ে দিয়েছেন: আল্লাহ ও তাঁর রাসুল কোনো ফয়সালা দিলে মুমিনের আর নিজের পছন্দ খাটে না। জয়নব রাজি হলেন, বিয়ে হয়ে গেল।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Marriage Decreed From Above", bn: "আসমান থেকে ঠিক হওয়া বিয়ে" },
+        p: [
+          {
+            en: "The marriage to Zayd did not endure. Whatever the two of them brought to it, it strained until Zayd resolved to divorce her, and after the waiting period had passed, revelation settled Zaynab's future. In 33:37 Allah states that when Zayd had ended his tie with her, We married her to you, so that believers would carry no blame in marrying the former wives of their adopted sons, a pre-Islamic prohibition the verse abolished by enacted example rather than by decree alone.",
+            bn: "যায়েদের সঙ্গে সংসারটা টেকেনি। টানাপোড়েন বাড়তে বাড়তে যায়েদ (রাঃ) তালাকের সিদ্ধান্ত নিলেন। ইদ্দত শেষ হলে জয়নবের ভবিষ্যৎ ঠিক করে দিল ওহি। আল্লাহ ৩৩:৩৭ আয়াতে বলছেন, যায়েদ যখন তার প্রয়োজন চুকিয়ে ফেলল, তখন আমি তাকে তোমার সঙ্গে বিয়ে দিলাম, যেন পালকপুত্রের সাবেক স্ত্রীকে বিয়ে করায় মুমিনদের কোনো সংকোচ না থাকে। জাহেলি যুগের এই নিষেধ শুধু ঘোষণায় নয়, হাতে-কলমে ভেঙে দেওয়া হলো।",
+          },
+          {
+            en: "Zaynab understood exactly what had happened, and she never let her co-wives forget it. Sahih al-Bukhari records from Anas (RA) that she would say to the Prophet ﷺ that their families had given the other wives in marriage, while Allah had married her to him from above seven heavens. It was also at her wedding feast, Anas reports in the Sahih collections, that 33:53 came down, the verse of hijab that reordered how believers entered the Prophet's ﷺ home.",
+            bn: "কী ঘটেছে জয়নব (রাঃ) তা ভালো করেই বুঝতেন, আর সতিনদের ভুলতেও দিতেন না। সহিহ বুখারিতে আনাস (রাঃ) থেকে আছে, তিনি নবীজিকে ﷺ বলতেন, অন্যদের বিয়ে দিয়েছে তাদের পরিবার, আর আমাকে বিয়ে দিয়েছেন স্বয়ং আল্লাহ, সাত আসমানের ওপর থেকে। আনাসের বর্ণনায় সহিহ গ্রন্থদ্বয়ে আরও আছে, তাঁর ওয়ালিমার দিনই নাজিল হয় ৩৩:৫৩, পর্দার সেই আয়াত, যা নবীজির ﷺ ঘরে মুমিনদের আসা-যাওয়ার নিয়ম নতুন করে সাজিয়ে দিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "Her Testimony in the Ifk", bn: "ইফকের সাক্ষ্য" },
+        p: [
+          {
+            en: "When the slander against Aishah (RA) spread through Madinah, the Prophet ﷺ asked those closest to him what they knew of his wife. Among those he asked was Zaynab. In the long account of the ifk preserved in the Sahih collections, Aishah herself tells what Zaynab answered: I protect my hearing and my sight; by Allah, I know nothing of her but good. Aishah adds that Zaynab was the wife who rivalled her, yet Allah safeguarded her through her piety.",
+            bn: "আয়েশার (রাঃ) নামে অপবাদ মদিনায় ছড়িয়ে পড়লে নবীজি ﷺ ঘনিষ্ঠজনদের জিজ্ঞেস করলেন, তাঁরা তাঁর স্ত্রীর ব্যাপারে কী জানেন। জিজ্ঞাসিতদের একজন জয়নব। ইফকের দীর্ঘ বিবরণ সহিহ গ্রন্থগুলোতে সংরক্ষিত, সেখানে আয়েশা নিজেই জয়নবের জবাব শুনিয়েছেন: আমি আমার কান আর চোখের হেফাজত করি; আল্লাহর কসম, তার ব্যাপারে ভালো ছাড়া কিছুই জানি না। আয়েশা যোগ করেন, স্ত্রীদের মধ্যে জয়নবই ছিলেন তাঁর সমকক্ষ প্রতিদ্বন্দ্বী, তবু আল্লাহ তাঁকে তাকওয়ার কারণে রক্ষা করেছেন।",
+          },
+          {
+            en: "The detail deserves its weight. Zaynab had every worldly motive to let the rumour do its work: the woman accused was her rival for the Prophet's ﷺ affection, and a word of doubt would have cost her nothing. Instead she spoke exactly what she knew and no more. When 24:11-20 came down condemning the slanderers and declaring Aishah innocent, Zaynab stood among those whose tongues stayed clean, one of the few the whole crisis had left with nothing to answer for.",
+            bn: "খুঁটিনাটি এই তথ্যটার ওজন আছে। গুজবটা কাজ করে যাক, এমন চাওয়ার দুনিয়াবি সব কারণই জয়নবের ছিল। অভিযুক্ত নারী নবীজির ﷺ ভালোবাসায় তাঁর প্রতিদ্বন্দ্বী, একটু সন্দেহ ছড়াতে তাঁর কিছুই খরচ হতো না। অথচ তিনি যা জানতেন ঠিক ততটুকুই বললেন, একটুও বেশি নয়। ২৪:১১-২০ আয়াতগুলো নাজিল হয়ে অপবাদ রটনাকারীদের নিন্দা করল, আয়েশাকে ঘোষণা করল নির্দোষ। জয়নব রইলেন সেই অল্প কজনের একজন, গোটা ফেতনায় যাঁদের জবান একেবারে পরিষ্কার ছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Longest Arm", bn: "সবচেয়ে লম্বা হাত" },
+        p: [
+          {
+            en: "Sahih Muslim records from Aishah (RA) that the Prophet ﷺ told his wives that the quickest of them to join him after his death would be the one with the longest arm. The wives took him at the letter and began measuring their arms against one another. Only later did they understand what he had meant. The longest arm belonged to Zaynab, because she worked with her hands and gave what she earned away in charity.",
+            bn: "সহিহ মুসলিমে আয়েশা (রাঃ)-এর সূত্রে আছে, নবীজি ﷺ স্ত্রীদের বলেছিলেন, আমার পরে তোমাদের মধ্যে সবার আগে আমার সঙ্গে মিলিত হবে সে-ই, যার হাত সবচেয়ে লম্বা। স্ত্রীরা কথাটা আক্ষরিক অর্থে নিয়ে একে অপরের সঙ্গে হাত মেপে দেখতে লাগলেন। মানে বুঝলেন অনেক পরে। সবচেয়ে লম্বা হাত ছিল জয়নবের। কারণ তিনি নিজ হাতে কাজ করতেন, আর যা রোজগার করতেন তা সদকা করে দিতেন।",
+          },
+          {
+            en: "The biographers fill in what the hadith compresses. Zaynab tanned hides and pierced leather, sold the work of her own hands, and channelled the income to the poor and to her relatives. When her stipend arrived in Umar's caliphate, the historians relate that she distributed it as it came and asked Allah not to let such a sum reach her again, for she saw wealth as a trial. Her hands were her wealth, and the poor were her treasury.",
+            bn: "হাদিসটা যা সংক্ষেপে বলে, জীবনীকাররা তা বিস্তারিত লিখেছেন। জয়নব চামড়া পাকা করতেন, সেলাই-ছিদ্রের কাজ করতেন, নিজ হাতের কাজ বিক্রি করতেন। আয় চলে যেত গরিব আর আত্মীয়দের কাছে। উমরের (রাঃ) খেলাফতে তাঁর ভাতা এলে, ঐতিহাসিকদের বর্ণনায়, তিনি আসামাত্রই সব বিলিয়ে দিলেন। দোয়া করলেন, এমন অঙ্ক যেন আর কখনো তাঁর হাতে না পৌঁছায়। সম্পদকে তিনি পরীক্ষা মনে করতেন। হাত দুটোই ছিল তাঁর সম্পদ, আর গরিবেরা ছিল তাঁর ভান্ডার।",
+          },
+        ],
+      },
+      {
+        h: { en: "First to Follow Him", bn: "সবার আগে তাঁর কাছে" },
+        p: [
+          {
+            en: "The prophecy resolved itself in Umar's caliphate. Zaynab was the first of the Mothers of the Believers to die after the Prophet ﷺ, around twenty years after the Hijrah, and only then did the wives fully grasp that the longest arm had meant the most generous hand. Aishah, who had measured arms with the rest of them, is the one who preserved the story against herself, an honesty that mirrors the honesty Zaynab had shown her in the days of the ifk.",
+            bn: "ভবিষ্যদ্বাণীটা ফলল উমরের (রাঃ) খেলাফতে। নবীজির ﷺ ইন্তেকালের পর উম্মুল মুমিনিনদের মধ্যে সবার আগে দুনিয়া ছাড়লেন জয়নবই, হিজরতের বছর বিশেক পরে। তখনই স্ত্রীরা পুরোপুরি বুঝলেন, লম্বা হাত মানে ছিল সবচেয়ে দানশীল হাত। যে আয়েশা নিজেও সবার সঙ্গে হাত মেপেছিলেন, তিনিই গল্পটা রেখে গেছেন, নিজের বিপক্ষে যায় জেনেও। এই সততা যেন ইফকের দিনে জয়নবের দেখানো সততারই আয়না।",
+          },
+          {
+            en: "She left behind no wealth to divide, the historians note, because nothing had stayed with her long enough to be inherited. What she left was a set of proofs: that lineage bends to revelation, that a marriage could be contracted in the Quran itself, that a rival can be a truthful witness, and that the surest measure of a hand is what leaves it. The believers called her the refuge of the poor, and Umar himself prayed over her funeral.",
+            bn: "ঐতিহাসিকরা লিখেছেন, ভাগ করার মতো কোনো সম্পদ তিনি রেখে যাননি। কিছুই তাঁর কাছে এত দিন থাকত না যে উত্তরাধিকার হবে। রেখে গেছেন কয়েকটা প্রমাণ। বংশমর্যাদা ওহির সামনে নত হয়। বিয়ের বন্ধন খোদ কুরআনের আয়াতেও লেখা হতে পারে। প্রতিদ্বন্দ্বীও সত্যবাদী সাক্ষী হতে পারে। আর হাতের আসল মাপ হলো, সেই হাত থেকে কী বেরিয়ে যায়। মুমিনরা তাঁকে ডাকত গরিবের আশ্রয় বলে। তাঁর জানাজা পড়িয়েছিলেন স্বয়ং উমর (রাঃ)।",
+          },
+        ],
+      },
+    ],
+  },
+  maymunah_bint_al_harith: {
+    sections: [
+      {
+        h: { en: "A Family of Believing Women", bn: "মুমিন নারীদের এক পরিবার" },
+        p: [
+          {
+            en: "Maymunah bint al-Harith (RA) came from a family the Prophet ﷺ is reported to have called the believing sisters. Her sister Umm al-Fadl, the wife of al-Abbas, was among the early Muslim women of Makkah; another sister was the mother of Khalid ibn al-Walid (RA). Through Umm al-Fadl, Maymunah was the maternal aunt of Abdullah ibn Abbas (RA), the great interpreter of the Quran, a tie that would matter enormously for what she passed on to the ummah.",
+            bn: "মাইমুনা বিনতে হারিস (রাঃ) এমন এক পরিবারের মেয়ে, বর্ণনায় আছে যাদের নবীজি ﷺ নিজেই ডেকেছিলেন মুমিন বোনেরা বলে। তাঁর বোন উম্মুল ফাদল, আব্বাসের (রাঃ) স্ত্রী, মক্কার প্রথম যুগের মুসলিম নারীদের একজন। আরেক বোন খালিদ ইবনে ওয়ালিদের (রাঃ) মা। উম্মুল ফাদলের সূত্রে মাইমুনা ছিলেন কুরআনের মহান ব্যাখ্যাকার আবদুল্লাহ ইবনে আব্বাসের (রাঃ) খালা। এই আত্মীয়তা পরে বিরাট কাজে লেগেছিল, উম্মাহকে তিনি যা পৌঁছে দিয়েছেন তার জন্য।",
+          },
+          {
+            en: "Her birth name was Barrah; the biographers record that the Prophet ﷺ renamed her Maymunah, the blessed. He disliked names that seemed to commend their bearers, and he changed the name Barrah for others among his wives as well, as the hadith collections note. Maymunah had been married and widowed in the years before, and by the seventh year after the Hijrah she was a widow in Makkah while her sisters were already believers.",
+            bn: "জন্মের সময় তাঁর নাম ছিল বাররা। জীবনীকাররা লিখেছেন, নবীজি ﷺ নাম বদলে রাখলেন মাইমুনা, অর্থ বরকতময়ী। যে নামে নিজের প্রশংসা নিজেই হয়ে যায়, তেমন নাম তিনি পছন্দ করতেন না। হাদিস গ্রন্থগুলোতে আছে, স্ত্রীদের আরও কারও কারও বাররা নামও তিনি বদলে দিয়েছিলেন। আগের বছরগুলোতে মাইমুনার বিয়ে হয়েছিল, বিধবাও হয়েছিলেন। হিজরতের সপ্তম বছরে তিনি মক্কার এক বিধবা, অথচ তাঁর বোনেরা ততদিনে ঈমান এনেছেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Marriage at Sarif", bn: "সারিফের বিয়ে" },
+        p: [
+          {
+            en: "In the seventh year after the Hijrah, the Prophet ﷺ came to Makkah for the compensatory Umrah, the pilgrimage granted by the treaty of Hudaybiyyah. During that journey the marriage to Maymunah was arranged, with al-Abbas taking a leading part, and it was completed at Sarif, a place a few miles outside Makkah on the road north. She was the last woman the Prophet ﷺ married; after her, the household of the Mothers of the Believers was complete.",
+            bn: "হিজরতের সপ্তম বছরে নবীজি ﷺ কাজা ওমরাহ করতে মক্কায় এলেন, হুদাইবিয়ার সন্ধিতে যে ওমরাহর অনুমতি মিলেছিল। সেই সফরেই মাইমুনার সঙ্গে বিয়ের কথা পাকা হলো, তাতে মুখ্য ভূমিকা ছিল আব্বাসের (রাঃ)। বিয়ে সম্পন্ন হলো সারিফে, মক্কার বাইরে উত্তরের পথে কয়েক মাইল দূরের এক জায়গায়। নবীজির ﷺ বিয়ে করা শেষ নারী তিনিই। তাঁর পরে উম্মুল মুমিনিনদের ঘর পূর্ণ হয়ে গেল।",
+          },
+          {
+            en: "One detail of the wedding became a question the scholars still discuss. Ibn Abbas reported that the Prophet ﷺ married her while in the state of ihram, and his report stands in Sahih al-Bukhari; Maymunah herself related that the marriage took place when he was out of ihram, and her account stands in Sahih Muslim. Abu Rafi, who carried the messages between the two, said the same in a Sunan report. The books preserve the narrations side by side rather than erasing either.",
+            bn: "বিয়ের একটি খুঁটিনাটি নিয়ে আলেমদের আলোচনা আজও চলে। ইবনে আব্বাসের (রাঃ) বর্ণনা, নবীজি ﷺ ইহরাম অবস্থায় তাঁকে বিয়ে করেছিলেন; এ বর্ণনা সহিহ বুখারিতে। আবার মাইমুনা (রাঃ) নিজে বলেছেন, বিয়েটা হয়েছিল ইহরাম থেকে বের হওয়ার পরে; তাঁর বর্ণনা সহিহ মুসলিমে। দুজনের মাঝে বার্তা আনা-নেওয়া করেছিলেন যে আবু রাফি (রাঃ), সুনানের এক বর্ণনায় তিনিও একই কথা বলেছেন। কোনোটা মুছে না দিয়ে কিতাবগুলো দুই বর্ণনাই পাশাপাশি রেখে দিয়েছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "God-Fearing and Kind to Kin", bn: "আল্লাহভীরু ও আত্মীয়ের প্রতি যত্নবান" },
+        p: [
+          {
+            en: "The Quran declares in 33:6 that the Prophet's ﷺ wives are the mothers of the believers, and Maymunah wore that motherhood quietly. The praise that fixed her reputation came from inside the household itself: Aishah (RA) said of her, as the biographers record, that she was among the most God-fearing of them and the most mindful of the ties of kinship. From a co-wife, in a house where the wives knew each other's days and nights, those words carry unusual weight.",
+            bn: "কুরআন ৩৩:৬ আয়াতে ঘোষণা করেছে, নবীজির ﷺ স্ত্রীরা মুমিনদের মা। মাইমুনা (রাঃ) সেই মাতৃত্ব বহন করেছেন নিঃশব্দে। যে প্রশংসা তাঁর পরিচয় গেঁথে দিয়েছে, তা এসেছে ঘরের ভেতর থেকেই। জীবনীকারদের বর্ণনায় আয়েশা (রাঃ) তাঁর সম্পর্কে বলেছেন, আমাদের মধ্যে সবচেয়ে আল্লাহভীরুদের একজন তিনি, আত্মীয়তার বন্ধন রক্ষায়ও সবচেয়ে যত্নবানদের একজন। সতিনের মুখের এই কথা, যে ঘরে স্ত্রীরা একে অপরের দিন-রাত চিনতেন, সেখানে এর ওজন একেবারে আলাদা।",
+          },
+          {
+            en: "Her kindness to kin showed in her giving. The Sahih collections record that Maymunah freed a slave-girl of hers, and when she told the Prophet ﷺ, he said that had she given her to her maternal uncles instead, her reward would have been greater. The report is usually cited for its legal point about where charity earns most, but it also shows her instinct: she gave first and asked afterwards, and what she owned did not stay owned for long.",
+            bn: "আত্মীয়ের প্রতি দরদ ফুটে উঠত তাঁর দানে। সহিহ গ্রন্থে আছে, মাইমুনা নিজের এক দাসীকে আজাদ করে দিলেন। নবীজিকে ﷺ জানালে তিনি বললেন, দাসীটিকে যদি মামাদের দিয়ে দিতে, সওয়াব আরও বেশি হতো। কোন দানে সওয়াব বেশি, ফিকহের সেই মাসআলার জন্যই বর্ণনাটা সাধারণত টানা হয়। কিন্তু এতে মাইমুনার স্বভাবটাও ধরা পড়ে। আগে দিয়ে দিতেন, প্রশ্ন করতেন পরে। যা তাঁর ছিল, তা বেশিদিন তাঁর থাকত না।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Night Ibn Abbas Watched", bn: "যে রাতে ইবনে আব্বাস দেখেছিলেন" },
+        p: [
+          {
+            en: "Her most far-reaching service to the ummah may have been simply opening her door to a curious nephew. The Sahih collections preserve the famous night when the young Abdullah ibn Abbas slept at his aunt Maymunah's house on a night the Prophet ﷺ was with her, deliberately, to watch how the Messenger of Allah ﷺ prayed after dark. The boy lay across the width of the cushion, stayed awake through the small hours, and committed everything he saw to memory.",
+            bn: "উম্মাহর জন্য তাঁর সবচেয়ে সুদূরপ্রসারী খেদমত সম্ভবত এই যে, কৌতূহলী এক ভাগনের জন্য তিনি দরজা খুলে দিয়েছিলেন। সহিহ গ্রন্থগুলোতে সেই বিখ্যাত রাতের কথা আছে। যে রাতে নবীজি ﷺ মাইমুনার ঘরে, সে রাতে কিশোর আবদুল্লাহ ইবনে আব্বাস ইচ্ছে করেই খালার বাড়িতে ঘুমাতে এলেন। উদ্দেশ্য একটাই, আল্লাহর রাসুল ﷺ রাতের আঁধারে কীভাবে নামাজ পড়েন তা নিজ চোখে দেখা। বালিশের আড়াআড়ি শুয়ে ছেলেটি জেগে রইল, আর যা দেখল সব মুখস্থ করে নিল।",
+          },
+          {
+            en: "From that night the ummah received its detailed picture of the Prophet's ﷺ night prayer: how he rose, how he made wudu, how Ibn Abbas stood at his left and was moved to his right, how the prayer stretched on through the darkness. None of it could have been observed anywhere but in a wife's room, and it was observed in Maymunah's. Her own narrations, on purification, prayer, and daily practice, travelled onward through Ibn Abbas and her other students.",
+            bn: "সেই এক রাত থেকেই উম্মাহ পেয়েছে নবীজির ﷺ তাহাজ্জুদের বিস্তারিত ছবি। কীভাবে তিনি উঠলেন, কীভাবে অজু করলেন, বাঁ পাশে দাঁড়ানো ইবনে আব্বাসকে কীভাবে ডান পাশে এনে দাঁড় করালেন, কীভাবে নামাজ গড়িয়ে চলল গভীর রাত পর্যন্ত। স্ত্রীর ঘর ছাড়া এসব দেখার আর কোনো জায়গা ছিল না, আর দেখা গিয়েছিল মাইমুনার ঘরেই। পবিত্রতা, নামাজ আর দৈনন্দিন আমল নিয়ে তাঁর নিজের বর্ণনাগুলোও ইবনে আব্বাস ও অন্য শাগরিদদের হাত ধরে ছড়িয়ে গেছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Back to Sarif", bn: "আবার সেই সারিফে" },
+        p: [
+          {
+            en: "Maymunah lived on for decades after the Prophet ﷺ died, teaching and worshipping, one of the last living links to his household. Around the year 51 after the Hijrah she fell ill in Makkah and asked to be carried out of the city. She died at Sarif, the same spot on the road where her marriage had taken place more than forty years earlier, a symmetry the biographers record with something close to wonder.",
+            bn: "নবীজির ﷺ ইন্তেকালের পরও মাইমুনা (রাঃ) বেঁচে ছিলেন কয়েক দশক। শিক্ষা দিতেন, ইবাদতে ডুবে থাকতেন। নবীজির ঘরের জীবিত শেষ স্মৃতিগুলোর একজন তিনি। হিজরি একান্ন সালের দিকে মক্কায় অসুস্থ হয়ে পড়লে বললেন, তাঁকে শহরের বাইরে নিয়ে যাওয়া হোক। ইন্তেকাল করলেন সারিফে। চল্লিশ বছরেরও বেশি আগে পথের যে বিন্দুতে তাঁর বিয়ে হয়েছিল, ঠিক সেখানেই। জীবনীকাররা এই মিলটুকু লিখেছেন প্রায় বিস্ময় নিয়ে।",
+          },
+          {
+            en: "Her nephew Ibn Abbas prayed over her and cautioned those who carried her, the historians relate, telling them to bear her gently, for she was the wife of the Prophet ﷺ. The boy who had once watched the night prayer from her cushion now walked at the head of her funeral. She left the quietest legacy of the Mothers of the Believers: no battles, no politics, only worship, kept kinship, and a room whose one open door taught the ummah how its Prophet ﷺ prayed.",
+            bn: "ঐতিহাসিকরা লিখেছেন, ভাগনে ইবনে আব্বাস (রাঃ) তাঁর জানাজা পড়ালেন, আর খাটিয়া বহনকারীদের সাবধান করে দিলেন: আস্তে ধরো, ইনি নবীজির ﷺ স্ত্রী। একদিন যে ছেলেটি তাঁর বালিশে শুয়ে তাহাজ্জুদ দেখেছিল, সে-ই আজ হাঁটছে জানাজার সামনে। উম্মুল মুমিনিনদের মধ্যে সবচেয়ে নীরব উত্তরাধিকার মাইমুনারই। কোনো যুদ্ধ নেই, রাজনীতি নেই। আছে শুধু ইবাদত, আত্মীয়তার হক, আর একটি ঘর, যার খোলা দরজা উম্মাহকে শিখিয়ে গেছে তাদের নবী ﷺ কীভাবে নামাজ পড়তেন।",
+          },
+        ],
+      },
+    ],
+  },
+  abu_qatadah_al_ansari: {
+    sections: [
+      {
+        h: { en: "The Ansari Horseman", bn: "আনসারি অশ্বারোহী" },
+        p: [
+          {
+            en: "Abu Qatadah al-Harith ibn Rib'i (RA) was a man of the Ansar, the helpers of Madinah whom Allah praises in 9:100 among the forerunners He is pleased with. He came into the Prophet's ﷺ service as a cavalryman and stayed one, fighting at Uhud and in the campaigns that followed. The sources know him almost entirely through what he did on horseback and what he narrated afterwards; he belongs to that rank of Companions whose biography reads as a record of missions.",
+            bn: "আবু কাতাদা আল-হারিস ইবনে রিবঈ (রাঃ) ছিলেন আনসারদের একজন। মদিনার এই সাহায্যকারীদের আল্লাহ ৯:১০০ আয়াতে অগ্রগামীদের কাতারে রেখে প্রশংসা করেছেন, যাঁদের প্রতি তিনি সন্তুষ্ট। নবীজির ﷺ খেদমতে তিনি এসেছিলেন অশ্বারোহী যোদ্ধা হয়ে, আজীবন তা-ই ছিলেন। লড়েছেন উহুদে, তারপর একের পর এক অভিযানে। সূত্রগুলো তাঁকে চেনে মূলত ঘোড়ার পিঠের কাজ আর পরে তাঁর বর্ণনা করা হাদিস দিয়ে। তিনি সেই ধারার সাহাবি, যাঁর জীবনী মানে অভিযানের তালিকা।",
+          },
+          {
+            en: "That is not a small kind of fame. The early community had its orators and its scholars; it also needed men who could be trusted with a horse, a spear, and a night watch, and who would tell the truth afterwards about what had happened. Abu Qatadah was that man so consistently that the title attached to him, the horseman of the Messenger of Allah ﷺ, reads less like flattery than like a plain description of his work.",
+            bn: "এ কোনো ছোট পরিচয় নয়। প্রথম যুগের জামাতে বক্তা ছিলেন, আলেম ছিলেন। কিন্তু এমন মানুষও দরকার ছিল, যাঁর হাতে ঘোড়া, বর্শা আর রাতের পাহারা নিশ্চিন্তে ছেড়ে দেওয়া যায়, আর যিনি পরে যা ঘটেছে তা সত্যি সত্যি বলবেন। আবু কাতাদা এতটাই ধারাবাহিকভাবে সেই মানুষ ছিলেন যে তাঁর গায়ে লেগে যাওয়া উপাধি, আল্লাহর রাসুলের ﷺ অশ্বারোহী, তোষামোদ নয় বরং কাজের সাদামাটা বিবরণ বলেই পড়া যায়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Rescue at Dhu Qarad", bn: "যু-কারাদের উদ্ধার অভিযান" },
+        p: [
+          {
+            en: "A raiding party struck the Prophet's ﷺ milch camels at pasture outside Madinah, killed the herdsman, and drove the animals off. Sahih Muslim preserves the long account of the pursuit that followed. Salamah ibn al-Akwa (RA) ran ahead on foot, harrying the raiders alone, while the horsemen gathered and gave chase; Abu Qatadah rode among the foremost of them and cut down one of the raiders in the fighting through which the camels were recovered.",
+            bn: "মদিনার বাইরে চারণভূমিতে নবীজির ﷺ দুধেল উটগুলোর ওপর হামলা চালাল এক ডাকাত দল। রাখালকে মেরে ফেলে উটগুলো হাঁকিয়ে নিয়ে গেল। এরপরের ধাওয়ার দীর্ঘ বিবরণ সহিহ মুসলিমে সংরক্ষিত। সালামা ইবনুল আকওয়া (রাঃ) পায়ে হেঁটে সবার আগে ছুটে গিয়ে একাই হামলাকারীদের নাস্তানাবুদ করতে লাগলেন, ওদিকে অশ্বারোহীরা জড়ো হয়ে ধাওয়ায় নামলেন। আবু কাতাদা ছিলেন একেবারে সামনের সারিতে, আর যে লড়াইয়ে উটগুলো উদ্ধার হলো, তাতে এক হামলাকারীকে তিনি ঘায়েল করলেন।",
+          },
+          {
+            en: "When it was over, the same narration records the Prophet's ﷺ verdict on the day: the best of our horsemen today is Abu Qatadah, and the best of our footmen is Salamah. One sentence from the Messenger of Allah ﷺ fixed both men's places in history. It is the origin of Abu Qatadah's title, and it is characteristic that he earned it not in a great pitched battle but in the unglamorous work of getting the community's stolen camels back.",
+            bn: "সব মিটে গেলে সেই একই বর্ণনায় দিনটি নিয়ে নবীজির ﷺ রায় লেখা আছে: আজ আমাদের সেরা অশ্বারোহী আবু কাতাদা, আর সেরা পদাতিক সালামা। আল্লাহর রাসুলের ﷺ মুখের এক বাক্যেই দুজনের জায়গা ইতিহাসে পাকা হয়ে গেল। আবু কাতাদার উপাধির জন্মও এখানেই। আর এটাই তাঁর চরিত্রের ছাপ: উপাধিটা তিনি কামিয়েছেন কোনো বিশাল ময়দানি যুদ্ধে নয়, চুরি যাওয়া উট ফিরিয়ে আনার সাদামাটা কাজে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Night He Held the Prophet ﷺ", bn: "যে রাতে তিনি নবীজিকে ﷺ ধরে রেখেছিলেন" },
+        p: [
+          {
+            en: "Sahih Muslim 681 preserves one of the most human scenes in the sunnah, and Abu Qatadah is both its narrator and its actor. On a night march the Prophet ﷺ began to sway on his mount with sleep. Abu Qatadah drew his own animal alongside and propped him upright without waking him, once and then again, until the Prophet ﷺ woke, asked who it was, and said: may Allah guard you as you have guarded His Prophet.",
+            bn: "সুন্নাহর সবচেয়ে মানবিক দৃশ্যগুলোর একটি ধরা আছে সহিহ মুসলিম ৬৮১-তে, আর আবু কাতাদা সেখানে একাধারে বর্ণনাকারী ও ঘটনার নায়ক। রাতের সফরে নবীজি ﷺ ঘুমে সওয়ারির ওপর দুলতে লাগলেন। আবু কাতাদা নিজের বাহন ঘেঁষে এনে তাঁকে সোজা করে ধরলেন, ঘুম না ভাঙিয়েই। একবার, তারপর আবার। শেষে নবীজি ﷺ জেগে জিজ্ঞেস করলেন কে, তারপর বললেন: তুমি যেমন আল্লাহর নবীকে হেফাজত করলে, আল্লাহ তেমনি তোমাকে হেফাজত করুন।",
+          },
+          {
+            en: "The same journey carried a harder lesson. The exhausted column halted late in the night, slept, and no one woke until the sun was already up and the fajr prayer had passed. The Prophet ﷺ led them out of the valley, prayed the missed prayer, and taught that there is no negligence in sleep; negligence belongs to the one who delays prayer while awake. Abu Qatadah also kept the Prophet's ﷺ small vessel of water through that journey, and from it, the narration records, a whole thirsty company was watered at his hand.",
+            bn: "সেই সফরেই ছিল আরও কঠিন এক শিক্ষা। ক্লান্ত কাফেলা গভীর রাতে থেমে ঘুমিয়ে পড়ল। কারও ঘুম ভাঙল না, সূর্য উঠে গেল, ফজরের ওয়াক্ত পেরিয়ে গেল। নবীজি ﷺ সবাইকে নিয়ে উপত্যকা ছেড়ে এগিয়ে গিয়ে কাজা নামাজ পড়ালেন, আর শেখালেন: ঘুমের মধ্যে কোনো অবহেলা নেই; অবহেলা তার, যে জেগে থেকেও নামাজ দেরি করে। ওই সফরেই আবু কাতাদা নবীজির ﷺ ছোট্ট পানির পাত্রটি আগলে রেখেছিলেন। বর্ণনায় আছে, শেষে তাঁর হাতেই সেই পাত্র থেকে গোটা তৃষ্ণার্ত দলকে পানি খাওয়ানো হয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Hunayn and the Spoils", bn: "হুনাইন ও গনিমত" },
+        p: [
+          {
+            en: "At Hunayn, when the ranks broke in the first ambush, Abu Qatadah stood his ground. His own account, preserved in the Sahih collections, tells how he grappled with an enemy fighter, was nearly overpowered, and killed him, and how in the confusion of the day another man carried off the fallen fighter's armour. When the Prophet ﷺ ruled that a slain enemy's spoils belong to the one who killed him, Abu Bakr (RA) spoke up for Abu Qatadah's claim and it was restored to him.",
+            bn: "হুনাইনে প্রথম অতর্কিত হামলায় যখন কাতার ভেঙে গেল, আবু কাতাদা মাটি কামড়ে দাঁড়িয়ে রইলেন। সহিহ গ্রন্থে তাঁর নিজের জবানিতে আছে, এক শত্রু যোদ্ধার সঙ্গে তাঁর হাতাহাতি হলো, প্রায় পরাস্ত হতে হতে তিনি তাকে বধ করলেন। দিনের সেই হট্টগোলে নিহত যোদ্ধার বর্মটা অন্য একজন নিয়ে গেল। পরে নবীজি ﷺ ফয়সালা দিলেন, নিহত শত্রুর সরঞ্জাম তারই, যে তাকে হত্যা করেছে। আবু বকর (রাঃ) তখন আবু কাতাদার হকের পক্ষে দাঁড়ালেন, আর তা তাঁকে ফিরিয়ে দেওয়া হলো।",
+          },
+          {
+            en: "With the price of that armour, the narration adds, Abu Qatadah bought a garden, the first property he had ever acquired in Islam. The story is cited by the jurists for its ruling on battlefield spoils, but it also sketches the economics of a Companion's life: years of fighting, no fortune, and a single garden earned by standing firm on a day when an army ran. He went on serving through the campaigns that followed, into the era of the caliphs.",
+            bn: "বর্ণনায় আরও আছে, সেই বর্ম বিক্রির টাকায় আবু কাতাদা একটি বাগান কিনলেন, ইসলাম কবুলের পর অর্জিত তাঁর প্রথম সম্পত্তি। ফকিহরা গল্পটা টানেন গনিমতের বিধানের জন্য। কিন্তু এতে এক সাহাবির জীবনের হিসাবটাও আঁকা হয়ে যায়। বছরের পর বছর যুদ্ধ, কোনো ধনসম্পদ নেই, সম্বল কেবল একটি বাগান। সেটাও এসেছিল সেই দিনের ফসল হয়ে, যেদিন গোটা বাহিনী ছুটে পালালেও তিনি পালাননি। এরপরও তিনি খেদমত চালিয়ে গেছেন পরের অভিযানগুলোতে, খলিফাদের যুগ পর্যন্ত।",
+          },
+        ],
+      },
+      {
+        h: { en: "Narrator and Elder", bn: "বর্ণনাকারী ও মুরুব্বি" },
+        p: [
+          {
+            en: "In the decades after the Prophet ﷺ, Abu Qatadah became a source. The prayer-on-the-journey narration, the rulings he had witnessed, the campaigns he could describe from the saddle: his students took them all down. Among his reports is the well-known ruling, recorded in the Sunan collections, that the cat is not impure, for cats are among those creatures that go around amongst you. It is a small mercy of a ruling, transmitted by a fighting man, and households have lived by it ever since.",
+            bn: "নবীজির ﷺ পরের দশকগুলোতে আবু কাতাদা হয়ে উঠলেন জ্ঞানের উৎস। সফরের নামাজের সেই বর্ণনা, চোখে দেখা বিধানগুলো, ঘোড়ার পিঠ থেকে দেখা অভিযানের বিবরণ, শাগরিদরা সব লিখে নিলেন। তাঁর বর্ণনার মধ্যে আছে সুনান গ্রন্থের সেই পরিচিত বিধানটিও: বিড়াল নাপাক নয়, কারণ এরা তোমাদের আশপাশে ঘোরাফেরা করা প্রাণীদেরই একটি। ছোট্ট অথচ রহমতমাখা এক বিধান, পৌঁছে দিয়েছেন এক লড়াকু মানুষ, আর ঘরে ঘরে মানুষ আজও সে অনুযায়ী চলে।",
+          },
+          {
+            en: "The reports about his death disagree, and the disagreement is itself a mark of the man. One line of the historians has him dying in Kufa during the caliphate of Ali (RA), with Ali praying over him as an honoured veteran of the great days; another places his death in Madinah around the year 54 after the Hijrah. The sources hold both, so the careful books state both. What no source disputes is the title he carried into every account: the horseman of the Messenger of Allah ﷺ.",
+            bn: "তাঁর মৃত্যু নিয়ে বর্ণনাগুলো একমত নয়, আর এই মতভেদটুকুও মানুষটার মাপ বুঝিয়ে দেয়। ঐতিহাসিকদের এক ধারা বলে, আলীর (রাঃ) খেলাফতকালে কুফায় তাঁর ইন্তেকাল হয়, আর সেই মহান দিনগুলোর সম্মানিত যোদ্ধা হিসেবে আলী নিজে তাঁর জানাজা পড়ান। আরেক ধারায় মৃত্যু মদিনায়, হিজরি চুয়ান্ন সালের দিকে। সূত্রে দুটোই আছে, তাই সতর্ক কিতাবগুলো দুটোই লিখে রাখে। তবে যে পরিচয় নিয়ে কোনো সূত্রেই বিরোধ নেই: আল্লাহর রাসুলের ﷺ অশ্বারোহী।",
+          },
+        ],
+      },
+    ],
+  },
+  an_numan_ibn_muqarrin: {
+    sections: [
+      {
+        h: { en: "Chief of Muzaynah", bn: "মুজাইনার সর্দার" },
+        p: [
+          {
+            en: "An-Numan ibn Muqarrin (RA) was a chief of Muzaynah, a tribe whose lands lay along the road approaches to Madinah. The historians record that he came to the Prophet ﷺ with his brothers, and the whole clan of Muqarrin's sons entered Islam together, a household conversion the early sources mention with admiration. From then on Muzaynah's banner and its fighting men stood with the Prophet ﷺ, and an-Numan himself carried that banner in the campaigns of the later years.",
+            bn: "আন-নুমান ইবনে মুকাররিন (রাঃ) ছিলেন মুজাইনা গোত্রের সর্দার। মদিনায় আসার পথের ধারেই ছিল তাদের এলাকা। ঐতিহাসিকরা লিখেছেন, তিনি ভাইদের নিয়ে নবীজির ﷺ কাছে এলেন, আর মুকাররিনের ছেলেদের গোটা পরিবার একসঙ্গে ইসলামে ঢুকল। পুরো এক ঘরের এই ঈমান আনার কথা প্রথম যুগের সূত্রগুলো লিখেছে মুগ্ধতা নিয়ে। সেদিন থেকে মুজাইনার পতাকা আর তার যোদ্ধারা নবীজির ﷺ পাশে, আর পরের বছরগুলোর অভিযানে সেই পতাকা বইতেন আন-নুমান নিজে।",
+          },
+          {
+            en: "After the Prophet ﷺ died, an-Numan and his brothers served the caliphs in the wars that followed, and his name appears through the campaigns in Iraq. At-Tabari recounts him among the envoys the Muslims sent to speak before the Persian court, where he told them that Allah had sent His Messenger commanding good, forbidding wrong, and calling people to Islam. The speech, as the historians transmit it, is one of the clearest early statements of what the conquests were for.",
+            bn: "নবীজির ﷺ ইন্তেকালের পর আন-নুমান ও তাঁর ভাইয়েরা খলিফাদের যুদ্ধগুলোতে খেদমত করে গেছেন। ইরাকের অভিযানগুলো জুড়ে তাঁর নাম পাওয়া যায়। আত-তাবারির বিবরণে, পারস্যের দরবারে কথা বলতে মুসলমানরা যে দূতদের পাঠিয়েছিলেন, আন-নুমান তাঁদের একজন। সেখানে তিনি জানালেন, আল্লাহ তাঁর রাসুলকে পাঠিয়েছেন সৎ কাজের আদেশ দিতে, মন্দ কাজ থেকে নিষেধ করতে, আর মানুষকে ইসলামের দিকে ডাকতে। ঐতিহাসিকদের পৌঁছে দেওয়া এই ভাষণে বিজয় অভিযানগুলোর আসল উদ্দেশ্যটা যত পরিষ্কার ফুটেছে, তেমন প্রাথমিক ঘোষণা কমই আছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Umar's Choice for Nahawand", bn: "নাহাওয়ান্দের জন্য উমরের পছন্দ" },
+        p: [
+          {
+            en: "In the twenty-first year after the Hijrah, the Persians massed a great army at Nahawand to break the Muslim position in Iraq, and Umar (RA) in Madinah weighed leading the campaign himself. The historians relate that he consulted the Companions and then declared that the army must be commanded by a man of war, and he named an-Numan ibn Muqarrin. The choice fell on a tribal chief with no throne and no famous lineage among Quraysh, chosen for one quality above all: other men's lives could be trusted to him.",
+            bn: "হিজরি একুশ সালে পারসিকরা ইরাকে মুসলিম অবস্থান গুঁড়িয়ে দিতে নাহাওয়ান্দে বিশাল বাহিনী জড়ো করল। মদিনায় বসে উমর (রাঃ) ভাবছিলেন, তিনি নিজেই অভিযানে নেতৃত্ব দেবেন কি না। ঐতিহাসিকদের বর্ণনায়, সাহাবিদের সঙ্গে পরামর্শের পর তিনি ঘোষণা করলেন, এই বাহিনীর সেনাপতি হতে হবে যুদ্ধের ময়দান চেনা কেউ, আর নাম নিলেন আন-নুমান ইবনে মুকাররিনের। পছন্দটা পড়ল এমন এক গোত্রপ্রধানের ওপর, যাঁর সিংহাসনও নেই, কুরাইশের নামি বংশও নেই। দেখা হয়েছিল একটাই গুণ: অন্য মানুষের জান তাঁর হাতে আমানত রাখা যায়।",
+          },
+          {
+            en: "A detail the historians preserve fills in an-Numan's side of it. He had written to Umar that he would rather be a fighting man in the path of Allah than an official over revenues, asking to be sent to a frontier rather than kept over taxation. The request and the appointment met each other. When Umar's letter reached him, the chief of Muzaynah found himself commander of the combined Muslim army against the last great host of Persia.",
+            bn: "ঐতিহাসিকরা একটা খুঁটিনাটি রেখে গেছেন, যাতে আন-নুমানের দিকটাও বোঝা যায়। তিনি উমরকে লিখেছিলেন, রাজস্বের কর্মকর্তা হয়ে থাকার চেয়ে আল্লাহর রাস্তার এক যোদ্ধা হয়ে থাকাই তাঁর কাছে প্রিয়; কর আদায়ে না রেখে তাঁকে যেন সীমান্তে পাঠানো হয়। সেই আরজি আর এই নিয়োগ এসে মিলে গেল এক বিন্দুতে। উমরের চিঠি যখন পৌঁছাল, মুজাইনার সর্দার দেখলেন, পারস্যের শেষ বিশাল বাহিনীর মুখোমুখি সম্মিলিত মুসলিম বাহিনীর সেনাপতি তিনিই।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Du'a Before the Battle", bn: "যুদ্ধের আগের দোয়া" },
+        p: [
+          {
+            en: "At Nahawand the two armies faced each other, and an-Numan held his men back through the morning. A report in the Sunan collections preserves his explanation: he had seen the Messenger of Allah ﷺ delay fighting until the sun declined, the winds stirred, and the time of prayer arrived, and he followed that practice now with an empire in the balance. The battle would begin when the Prophet's ﷺ way said it should begin, and not an hour earlier.",
+            bn: "নাহাওয়ান্দে দুই বাহিনী মুখোমুখি, অথচ সকালজুড়ে আন-নুমান তাঁর লোকদের আটকে রাখলেন। সুনান গ্রন্থের এক বর্ণনায় তাঁর নিজের ব্যাখ্যা আছে। তিনি দেখেছিলেন, আল্লাহর রাসুল ﷺ লড়াই শুরু করতে দেরি করতেন, যতক্ষণ না সূর্য হেলে পড়ে, বাতাস বইতে শুরু করে আর নামাজের ওয়াক্ত এসে যায়। আজ গোটা এক সাম্রাজ্যের ভাগ্য ঝুলে আছে, তবু তিনি সেই সুন্নাতই ধরলেন। যুদ্ধ শুরু হবে নবীজির ﷺ নিয়ম যখন বলবে তখনই, তার এক ঘণ্টা আগেও নয়।",
+          },
+          {
+            en: "Then he raised his hands before the army and prayed, and the historians transmit his words: O Allah, honour Your religion this day and give Your servants victory, and make an-Numan the first martyr. He asked the men to say amin, told them he would shake the banner three times, and ordered the charge on the third signal. A commander had just asked, in front of his whole army, to be the first man killed, and then he led them in himself.",
+            bn: "তারপর গোটা বাহিনীর সামনে তিনি দুহাত তুললেন। ঐতিহাসিকরা তাঁর দোয়ার শব্দগুলো পৌঁছে দিয়েছেন: হে আল্লাহ, আজ আপনার দ্বীনকে সম্মানিত করুন, আপনার বান্দাদের বিজয় দিন, আর আন-নুমানকে করুন আজকের প্রথম শহিদ। সবাইকে বললেন আমিন বলতে। জানালেন, তিনি তিনবার পতাকা নাড়বেন, তৃতীয় ইশারায় হামলা। এক সেনাপতি নিজের গোটা বাহিনীর সামনে দাঁড়িয়ে চাইলেন, সবার আগে যেন তিনিই নিহত হন। তারপর তাদের নিয়ে নিজেই ঝাঁপিয়ে পড়লেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Victory of Victories", bn: "বিজয়ের বিজয়" },
+        p: [
+          {
+            en: "The charge broke the Persian line after hard fighting, and in the midst of it an-Numan fell, struck down at the front where he had promised to be. The historians relate that his companions covered the fallen commander with a cloak so that news of his death would not shake the army while the battle still hung in the balance, and the command passed to Hudhayfah ibn al-Yaman (RA), who carried the fight through to its end.",
+            bn: "কঠিন লড়াইয়ের পর মুসলিমদের হামলা পারসিক ব্যূহ ভেঙে দিল। আর তার মাঝখানেই, যেখানে থাকার ওয়াদা করেছিলেন সেই একদম সামনের কাতারে, আন-নুমান আঘাত খেয়ে পড়ে গেলেন। ঐতিহাসিকরা লিখেছেন, সঙ্গীরা পতিত সেনাপতিকে চাদরে ঢেকে দিলেন, যেন লড়াই ঝুলে থাকা অবস্থায় তাঁর মৃত্যুর খবর বাহিনীকে টলিয়ে না দেয়। নেতৃত্ব চলে গেল হুজাইফা ইবনুল ইয়ামানের (রাঃ) হাতে, তিনিই যুদ্ধ শেষ পর্যন্ত টেনে নিলেন।",
+          },
+          {
+            en: "The victory that followed broke Persian resistance so decisively that the Muslims named Nahawand the Victory of Victories, Fath al-Futuh; after it, the Sasanian empire never again fielded an army that threatened the Muslim position. An-Numan's prayer had been answered in both of its halves. Allah's servants had been given the day, and the man who had asked for martyrdom in front of his own army was carried from the field having received it.",
+            bn: "এরপর যে বিজয় এল, তা পারসিক প্রতিরোধ এমনভাবে ভেঙে দিল যে মুসলমানরা নাহাওয়ান্দের নামই দিলেন ফাতহুল ফুতুহ, বিজয়ের বিজয়। এরপর সাসানি সাম্রাজ্য আর কখনো এমন কোনো বাহিনী নামাতে পারেনি, যা মুসলিমদের জন্য হুমকি হয়। আন-নুমানের দোয়ার দুই অংশই কবুল হয়েছিল। আল্লাহর বান্দারা দিনটা জিতে নিলেন, আর নিজের বাহিনীর সামনে দাঁড়িয়ে যিনি শাহাদাত চেয়েছিলেন, তিনি শহিদ হয়েই ময়দান ছাড়লেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Umar Wept", bn: "উমরের কান্না" },
+        p: [
+          {
+            en: "When the news reached Madinah, the historians record that Umar (RA) announced the victory from the minbar and then announced the death of an-Numan ibn Muqarrin, and he put his hand to his head and wept before the people. The messenger recited the names of the other dead, and then said that there were fallen men Umar would not know. Umar answered through his tears that it did not matter that Umar did not know them, for Allah knew them.",
+            bn: "খবর মদিনায় পৌঁছালে, ঐতিহাসিকদের বর্ণনায়, উমর (রাঃ) মিম্বার থেকে প্রথমে বিজয়ের ঘোষণা দিলেন, তারপর জানালেন আন-নুমান ইবনে মুকাররিনের শাহাদাতের খবর। মাথায় হাত রেখে মানুষের সামনেই কেঁদে ফেললেন। দূত অন্য শহিদদের নাম পড়ে শোনালেন, তারপর বললেন, এমন নিহতরাও আছেন যাঁদের আমিরুল মুমিনিন চেনেন না। চোখের পানির ভেতর দিয়েই উমর জবাব দিলেন: উমর তাঁদের না চিনলে কী, আল্লাহ তো তাঁদের চেনেন।",
+          },
+          {
+            en: "The Quran says of those killed in Allah's way in 3:169 that they are not dead but alive with their Lord, receiving provision. An-Numan ibn Muqarrin belongs to that verse as plainly as any man in the ummah's history: he asked for the door, was shown it, and went through it at the head of an army. Muzaynah's chief had wanted to be a fighting man rather than an official, and Allah gave him a soldier's whole portion, command, victory, and martyrdom in a single afternoon.",
+            bn: "আল্লাহর রাস্তায় নিহতদের সম্পর্কে কুরআন ৩:১৬৯ আয়াতে বলছে, তারা মৃত নয়, বরং জীবিত, নিজেদের রবের কাছে রিজিক পাচ্ছে। উম্মাহর ইতিহাসে এই আয়াতের সঙ্গে আন-নুমান ইবনে মুকাররিনের চেয়ে সোজাসুজি মিলে যাওয়া মানুষ কমই আছে। তিনি দরজাটা চেয়েছিলেন, দরজা দেখানো হলো, আর গোটা এক বাহিনীর সামনে থেকে তিনি সেই দরজা পার হলেন। মুজাইনার সর্দার কর্মকর্তা নয়, যোদ্ধা হতে চেয়েছিলেন। আল্লাহ তাঁকে এক বিকেলেই দিলেন যোদ্ধার পুরো প্রাপ্য: নেতৃত্ব, বিজয় আর শাহাদাত।",
+          },
+        ],
+      },
+    ],
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { SAHABA_ARTICLES };
