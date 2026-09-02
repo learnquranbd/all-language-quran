@@ -3370,6 +3370,372 @@ const SAHABA_ARTICLES = {
       },
     ],
   },
+  sad_ibn_ubadah: {
+    sections: [
+      {
+        h: { en: "Chief of the Khazraj", bn: "খাযরাজের সর্দার" },
+        p: [
+          {
+            en: "Sa'd ibn 'Ubadah (RA) led the Khazraj of Madinah, and he came to Islam as a leader rather than being made one afterwards. He was among the twelve naqibs appointed at the second pledge of al-Aqabah, the men the Prophet ﷺ made responsible for their own people the way the disciples of Isa (AS) had been responsible for theirs. Quraysh understood what the pledge meant before most of Madinah did, and Sa'd paid for it early: they seized him at Makkah on his way home, tied his hands to his neck, and beat him until men he had once given protection to intervened.",
+            bn: "সাদ ইবনে উবাদা (রাঃ) ছিলেন মদিনার খাযরাজের নেতা, আর তিনি ইসলামে এসেছিলেন নেতা হিসেবেই; পরে তাঁকে নেতা বানানো হয়নি। আকাবার দ্বিতীয় বাইআতে নিযুক্ত বারোজন নকিবের তিনি একজন। নবীজি ﷺ তাঁদের নিজ নিজ গোত্রের দায়িত্ব দিয়েছিলেন, যেভাবে ঈসা (আঃ)-এর হাওয়ারিরা দায়িত্ব পেয়েছিলেন। এই বাইআতের মানে কী, মদিনার বেশিরভাগ মানুষের আগে কুরাইশই তা বুঝে ফেলেছিল। আর তার দামও সাদকে দিতে হলো গোড়াতেই: ফেরার পথে মক্কায় তারা তাঁকে ধরে ফেলল, হাত দুটো গলার সঙ্গে বেঁধে মারতে থাকল, যতক্ষণ না এমন কিছু মানুষ এগিয়ে এল যাদের তিনি একসময় নিরাপত্তা দিয়েছিলেন।",
+          },
+          {
+            en: "In Madinah his standing only grew. He bore the banner of the Ansar on campaign after campaign, and his household became a byword. The reports describe a platter from the house of Sa'd going around to the Prophet ﷺ and his family daily, and describe him calling out for guests when he had meat, ashamed to eat it with few. Generosity ran in the family; the historians say his father and grandfather before him had been feeders of people, and his son Qays after him was famous for the same thing.",
+            bn: "মদিনায় তাঁর মর্যাদা কেবল বাড়ল। একের পর এক অভিযানে তিনি আনসারদের পতাকা বহন করেছেন, আর তাঁর সংসারটাই হয়ে উঠল একটা প্রবাদ। বর্ণনায় আছে, সাদের বাড়ি থেকে প্রতিদিন একটা খাবারের থালা ঘুরে আসত নবীজি ﷺ ও তাঁর পরিবারের কাছে। আরও আছে, ঘরে গোশত রান্না হলে তিনি ডেকে ডেকে মেহমান জোটাতেন; অল্প মানুষ নিয়ে খেতে তাঁর লজ্জা লাগত। দানশীলতা ছিল তাঁদের রক্তেই। ঐতিহাসিকেরা বলেন, তাঁর বাবা ও দাদাও ছিলেন মানুষ খাওয়ানো লোক, আর তাঁর ছেলে কায়েসও পরে একই কারণে বিখ্যাত হন।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Well for His Mother", bn: "মায়ের জন্য একটা কুয়া" },
+        p: [
+          {
+            en: "His mother died while he was away with the Prophet ﷺ. Sahih al-Bukhari 2756 records that he came and asked whether it would benefit her if he gave charity on her behalf. He was told yes. He then declared that his garden of al-Mikhraf was a charity for her, and in the related reports he asked which charity was best and was told providing water, so he dug a well and said, this is for the mother of Sa'd.",
+            bn: "তিনি নবীজি ﷺ-এর সঙ্গে বাইরে থাকা অবস্থায় তাঁর মা ইন্তেকাল করেন। সহিহ বুখারি ২৭৫৬-এ আছে, ফিরে এসে তিনি জিজ্ঞেস করলেন, মায়ের পক্ষ থেকে দান করলে কি তাঁর উপকার হবে? তাঁকে বলা হলো, হ্যাঁ। তখনই তিনি ঘোষণা দিলেন, তাঁর মিখরাফ নামের বাগানটা মায়ের জন্য সদকা। সংশ্লিষ্ট বর্ণনাগুলোতে আছে, তিনি জানতে চেয়েছিলেন কোন দানটা সবচেয়ে ভালো; বলা হলো, পানি পান করানো। তাই তিনি একটা কুয়া খুঁড়ে বললেন, এটা সাদের মায়ের জন্য।",
+          },
+          {
+            en: "The exchange settled a question the ummah still relies on: that the dead can be reached by the charity of their children. It is fitting that the man who fixed that ruling in practice was the one whose wealth already flowed outward in every direction. He did not invent a new form of giving for the occasion. He reached for the two things he understood, a garden and water, and gave them away.",
+            bn: "এই কথোপকথনেই এমন একটা মাসআলার মীমাংসা হয়ে গেল, যার ওপর উম্মত আজও ভর করে: সন্তানের দান মৃত মা-বাবার কাছে পৌঁছায়। যে মানুষের সম্পদ এমনিতেই চারদিকে বয়ে যেত, বিধানটা হাতে-কলমে তাঁর মাধ্যমেই স্থির হওয়া মানানসই বটে। উপলক্ষটার জন্য তিনি দানের কোনো নতুন ধরন বানাননি। যে দুটো জিনিস তিনি বুঝতেন, সেই বাগান আর পানিই তুলে দিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Question About Jealousy", bn: "আত্মমর্যাদা নিয়ে সেই প্রশ্ন" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 6846 and Sahih Muslim 1499 preserve a blunt exchange. Sa'd asked what he should do if he found a man with his wife: must he really wait to bring four witnesses? He said that by Allah, he would strike the man with the sword first. The Prophet ﷺ did not dismiss him. He said to the people, are you amazed at Sa'd's protectiveness? I am more protective than he is, and Allah is more protective than I am.",
+            bn: "সহিহ বুখারি ৬৮৪৬ ও সহিহ মুসলিম ১৪৯৯-এ একটা খোলামেলা কথোপকথন ধরা আছে। সাদ জিজ্ঞেস করলেন, নিজের স্ত্রীর সঙ্গে কোনো পুরুষকে পেলে তিনি কী করবেন — সত্যিই কি চারজন সাক্ষী আনা পর্যন্ত অপেক্ষা করতে হবে? বললেন, আল্লাহর কসম, তার আগেই তিনি তলোয়ার চালিয়ে দেবেন। নবীজি ﷺ তাঁকে উড়িয়ে দিলেন না। লোকদের বললেন, সাদের আত্মমর্যাদা দেখে অবাক হচ্ছ? আমি তার চেয়ে বেশি আত্মমর্যাদাবান, আর আল্লাহ আমার চেয়েও বেশি।",
+          },
+          {
+            en: "The answer honoured the feeling and still held the law in place. Sa'd was a chief whose word had been enough to settle matters in Madinah his whole life, and the ruling of witnesses did not bend for him. That he asked the question out loud, and accepted the answer, tells you what kind of authority he had submitted himself to.",
+            bn: "জবাবটা অনুভূতিকে সম্মান দিল, আবার আইনকেও স্বস্থানে রাখল। সাদ এমন এক সর্দার, সারা জীবন মদিনায় যাঁর এক কথাতেই বিষয় মিটে যেত; অথচ সাক্ষীর বিধান তাঁর জন্যও একচুল নড়ল না। প্রশ্নটা তিনি মুখ ফুটে করলেন আর জবাবটা মেনেও নিলেন — কেমন কর্তৃত্বের কাছে তিনি নিজেকে সঁপে দিয়েছিলেন, এতেই তা বোঝা যায়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Banner at the Conquest", bn: "বিজয়ের দিনের পতাকা" },
+        p: [
+          {
+            en: "At the conquest of Makkah, Sa'd carried a banner of the Ansar, and Ibn Hisham records that as he passed Abu Sufyan he called out that this was the day of slaughter, the day the sanctuary would be made lawful. Word reached the Prophet ﷺ, and he answered that it was rather the day the Ka'bah would be honoured, and he ordered that the banner be taken from Sa'd and given to his son Qays.",
+            bn: "মক্কা বিজয়ের দিন সাদ আনসারদের একটা পতাকা বহন করছিলেন। ইবনে হিশাম লিখেছেন, আবু সুফিয়ানের পাশ দিয়ে যাওয়ার সময় তিনি হাঁক দিলেন, আজ হত্যার দিন, আজ হারামও হালাল হয়ে যাবে। কথাটা নবীজি ﷺ-এর কানে পৌঁছাল। তিনি বললেন, বরং আজ সেই দিন, যেদিন কাবাকে সম্মানিত করা হবে। আর নির্দেশ দিলেন, পতাকাটা সাদের হাত থেকে নিয়ে তাঁর ছেলে কায়েসের হাতে দেওয়া হোক।",
+          },
+          {
+            en: "The correction was made with unusual care. The banner did not go to another clan or another man; it stayed in Sa'd's own house, in his son's hand, so that the error was corrected without the chief being humiliated in front of the city he had led. It is a small piece of statecraft worth studying: the wrong sentiment was stopped dead, and the man's honour was left standing.",
+            bn: "শুধরে দেওয়াটা হলো অসাধারণ যত্নে। পতাকা অন্য কোনো গোত্রে গেল না, অন্য কারও হাতেও নয়; রইল সাদেরই ঘরে, তাঁর ছেলের হাতে। ভুলটা শোধরানো হলো, অথচ যে শহরের নেতৃত্ব তিনি দিয়ে এসেছেন তার সামনে সর্দারকে ছোট করা হলো না। রাষ্ট্রপরিচালনার এই ছোট্ট কৌশলটা শেখার মতো: ভুল ভাবনাটা থেমে গেল সেখানেই, আর মানুষটার সম্মান রয়ে গেল দাঁড়িয়ে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Saqifah and Syria", bn: "সাকিফা, তারপর সিরিয়া" },
+        p: [
+          {
+            en: "When the Prophet ﷺ died, the Ansar gathered at the roofed hall of Banu Sa'idah and Sa'd's name was put forward for the leadership. It was not an absurd claim: he was the chief of the people who had sheltered Islam when nobody else would. Abu Bakr (RA) spoke, the community settled on him, and the Muhajirun and Ansar united behind that choice. Sa'd took it hard, and the historians are frank that he largely withdrew from public life afterwards.",
+            bn: "নবীজি ﷺ-এর ইন্তেকালের পর আনসাররা বনু সাইদার ছাউনিতে জড়ো হলেন, আর নেতৃত্বের জন্য সাদের নাম উঠল। দাবিটা অবান্তর ছিল না: যখন আর কেউ আশ্রয় দেয়নি, তখন যারা ইসলামকে আশ্রয় দিয়েছিল, তিনি ছিলেন তাদেরই সর্দার। আবু বকর (রাঃ) কথা বললেন, সমাজ তাঁর ওপরই স্থির হলো, আর মুহাজির-আনসার সবাই সেই সিদ্ধান্তের পেছনে এক হয়ে দাঁড়ালেন। সাদ ব্যাপারটা সহজে নিতে পারেননি। ঐতিহাসিকেরা খোলাখুলিই লিখেছেন, এরপর তিনি জনজীবন থেকে অনেকটাই সরে যান।",
+          },
+          {
+            en: "He moved to Syria and died in the region of Hawran, in the early years of Umar's caliphate. The sources tell his story without polishing the ending, and there is a lesson in that honesty. A man can spend everything for the religion, carry its banner, feed its poor, and still find one decree of Allah hard to swallow. His service is recorded, his disappointment is recorded, and the ummah prays for mercy on him for the first without pretending the second away.",
+            bn: "তিনি সিরিয়ায় চলে যান এবং উমরের খিলাফতের শুরুর দিকে হাওরান অঞ্চলে ইন্তেকাল করেন। সূত্রগুলো তাঁর গল্পের শেষটা মেজেঘষে সুন্দর করেনি, আর এই সততার মধ্যেই একটা শিক্ষা আছে। একজন মানুষ দ্বীনের জন্য সর্বস্ব ঢেলে দিতে পারেন, তার পতাকা বইতে পারেন, তার গরিবদের খাওয়াতে পারেন — তবু আল্লাহর কোনো একটা ফয়সালা গিলতে তাঁর কষ্ট হতে পারে। তাঁর খেদমতও লেখা আছে, তাঁর মনোবেদনাও লেখা আছে। উম্মত প্রথমটার জন্য তাঁর মাগফিরাতের দোয়া করে, দ্বিতীয়টাকে নেই বলে ভান না করেই।",
+          },
+        ],
+      },
+    ],
+  },
+
+  ubadah_ibn_as_samit: {
+    sections: [
+      {
+        h: { en: "A Naqib of the Khazraj", bn: "খাযরাজের এক নকিব" },
+        p: [
+          {
+            en: "Ubadah ibn as-Samit (RA) was present at both pledges of al-Aqabah and was appointed one of the twelve naqibs, the guarantors of their people. In the days of ignorance his clan had held an alliance with the Jewish tribe of Banu Qaynuqa, and when that tribe later broke faith with the Muslims, Ubadah went to the Prophet ﷺ and formally renounced the old alliance, keeping only Allah and His Messenger and the believers. Loyalty, for him, had been re-founded on something new, and he acted on the change publicly.",
+            bn: "উবাদা ইবনুস সামিত (রাঃ) আকাবার দুটো বাইআতেই হাজির ছিলেন, আর নিযুক্ত হয়েছিলেন বারো নকিবের একজন হিসেবে — যাঁরা ছিলেন নিজ নিজ গোত্রের জিম্মাদার। জাহেলি যুগে তাঁর গোত্রের মৈত্রী ছিল ইহুদি গোত্র বনু কাইনুকার সঙ্গে। সেই গোত্র পরে মুসলিমদের সঙ্গে বিশ্বাসভঙ্গ করলে উবাদা নবীজি ﷺ-এর কাছে গিয়ে পুরনো মৈত্রী আনুষ্ঠানিকভাবে ছিন্ন করলেন; রাখলেন কেবল আল্লাহ, তাঁর রাসূল আর মুমিনদের। আনুগত্যের ভিতটা তাঁর কাছে নতুন কিছুর ওপর গড়া হয়ে গিয়েছিল, আর সেই বদলটা তিনি প্রকাশ্যেই কাজে দেখালেন।",
+          },
+          {
+            en: "He fought at Badr and in the major battles that followed. But what he became known for was the pledge itself, because he was the one who kept reporting its exact terms to the next generation. Sahih al-Bukhari 7199 and Sahih Muslim 1709 record him listing what they had sworn: to hear and obey in hardship and in ease, in what pleased them and what they disliked, not to contest authority with its holders, and to speak the truth wherever they were, fearing the blame of no blamer.",
+            bn: "তিনি বদরে লড়েছেন, তারপরের বড় যুদ্ধগুলোতেও। কিন্তু তাঁর আসল পরিচয় হয়ে দাঁড়াল বাইআতটাই, কারণ তার হুবহু শর্তগুলো পরের প্রজন্মকে বলে যাওয়ার মানুষ ছিলেন তিনিই। সহিহ বুখারি ৭১৯৯ ও সহিহ মুসলিম ১৭০৯-এ আছে, তিনি গুনে গুনে বলছেন তাঁরা কী কী কসম করেছিলেন: কষ্টে ও স্বাচ্ছন্দ্যে, ভালো লাগায় ও মন্দ লাগায় শুনব ও মানব; কর্তৃত্ব নিয়ে তার অধিকারীদের সঙ্গে বিবাদ করব না; আর যেখানেই থাকি সত্য বলব, কোনো নিন্দুকের নিন্দার পরোয়া করব না।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Words He Carried", bn: "যে কথাগুলো তিনি বয়ে এনেছেন" },
+        p: [
+          {
+            en: "A striking share of the hadith the ummah leans on daily comes through this one man. Sahih al-Bukhari 756 and Sahih Muslim 394 carry his report that there is no prayer for the one who does not recite the Opening of the Book. Sahih Muslim 1587 carries his report on exchange: gold for gold, silver for silver, wheat for wheat, like for like, hand to hand, and whoever adds or asks for more has dealt in riba. One narration governs every prayer; the other still governs markets.",
+            bn: "উম্মত রোজ যেসব হাদিসের ওপর ভর করে, তার চোখে পড়ার মতো একটা অংশ এসেছে এই একজন মানুষের সূত্রে। সহিহ বুখারি ৭৫৬ ও সহিহ মুসলিম ৩৯৪-এ তাঁর বর্ণনা: যে সূরা ফাতিহা পড়ে না, তার নামাজই হয় না। আর সহিহ মুসলিম ১৫৮৭-এ লেনদেন নিয়ে তাঁর বর্ণনা: সোনার বদলে সোনা, রুপার বদলে রুপা, গমের বদলে গম — সমানে সমান, হাতে হাতে; যে বাড়তি দিল বা বাড়তি চাইল, সে সুদে জড়াল। একটা বর্ণনা শাসন করে প্রতিটা নামাজ, অন্যটা আজও শাসন করে বাজার।",
+          },
+          {
+            en: "He is also the narrator of the hadith in Sahih al-Bukhari 6507 and Sahih Muslim 2683: whoever loves to meet Allah, Allah loves to meet him. When Aishah (RA) heard it she worried that everyone hates death, and the clarification came that this is about the moment of departure, when the believer is given news of what is ahead and loves to go on. Ubadah carried the kind of reports that people need at the two ends of life, the daily prayer and the deathbed.",
+            bn: "সহিহ বুখারি ৬৫০৭ ও সহিহ মুসলিম ২৬৮৩-এর হাদিসটাও তাঁরই বর্ণনা: যে আল্লাহর সাক্ষাৎ ভালোবাসে, আল্লাহও তার সাক্ষাৎ ভালোবাসেন। আয়েশা (রাঃ) শুনে চিন্তায় পড়লেন: মৃত্যু তো সবাই অপছন্দ করে। তখন স্পষ্ট করা হলো, কথাটা বিদায়ের মুহূর্তের: মুমিনকে তখন সামনের সুসংবাদ জানিয়ে দেওয়া হয়, আর সে যেতে চায়। জীবনের দুই প্রান্তে মানুষের যা দরকার, সেই রোজকার নামাজ আর মৃত্যুশয্যা, উবাদা বয়ে এনেছেন সে ধরনের বর্ণনাই।",
+          },
+        ],
+      },
+      {
+        h: { en: "Teacher of the People of the Suffah", bn: "সুফফাবাসীদের শিক্ষক" },
+        p: [
+          {
+            en: "In Madinah he taught the Quran and writing to the poor Muslims who slept in the mosque, the people of the Suffah. Sunan Abi Dawud 3416 records what happened when one of his students gave him a bow as a gift. He asked the Prophet ﷺ whether he could take it, and was told that if it would please him to have a collar of fire placed on him, he should accept it. He put the bow down.",
+            bn: "মদিনায় তিনি কুরআন আর লেখা শেখাতেন সেই গরিব মুসলিমদের, যাঁরা মসজিদেই ঘুমাতেন — সুফফার মানুষদের। সুনানে আবু দাউদ ৩৪১৬-এ আছে, তাঁর এক ছাত্র তাঁকে একটা ধনুক উপহার দিলে কী হয়েছিল। তিনি নবীজি ﷺ-কে জিজ্ঞেস করলেন, ওটা নেওয়া যাবে কি না। জবাব এল, গলায় আগুনের বেড়ি পরতে ভালো লাগলে নিতে পারো। তিনি ধনুকটা রেখে দিলেন।",
+          },
+          {
+            en: "The ruling scholars drew from this is narrower than it first sounds; teaching for an agreed wage was practised by Companions and allowed by the jurists. What Ubadah had done was teach for the sake of Allah and then accept payment on top, and the answer closed that door for him. He had asked because he suspected the answer, and he obeyed it at the cost of a gift he clearly wanted. That is the temperament of the man throughout.",
+            bn: "আলিমরা এ থেকে যে বিধান নিয়েছেন, তা শুনতে যত কড়া লাগে তার চেয়ে সরু: চুক্তি করে পারিশ্রমিকের বিনিময়ে পড়ানো সাহাবিদের আমলেও ছিল, ফকিহরাও তা জায়েজ বলেছেন। উবাদা যা করেছিলেন তা হলো আল্লাহর ওয়াস্তে পড়ানো, আর তার ওপরে বাড়তি উপহার নেওয়া; জবাবটা তাঁর জন্য ওই দরজাটাই বন্ধ করে দিল। জিজ্ঞেস তিনি করেছিলেন কারণ জবাবটা তাঁর আঁচে ছিল, আর মেনেও নিলেন — স্পষ্টতই পছন্দ হওয়া একটা উপহারের বিনিময়ে। গোটা জীবনেই মানুষটার মেজাজ এই।",
+          },
+        ],
+      },
+      {
+        h: { en: "Truth to a Governor", bn: "গভর্নরের মুখের ওপর সত্য" },
+        p: [
+          {
+            en: "Umar (RA) sent him to Syria and Palestine as a teacher of the Quran and a judge, and it was there that his pledge to fear no blamer was tested. Sahih Muslim 1587 records the scene: he saw people trading silver for silver unequally in Muawiyah's territory and stood up among them to declare the Prophet's ﷺ prohibition. Muawiyah objected to his ruling. Ubadah repeated it and said he would narrate what he had heard from the Messenger of Allah ﷺ even if Muawiyah disliked it.",
+            bn: "উমর (রাঃ) তাঁকে কুরআনের শিক্ষক ও বিচারক করে সিরিয়া ও ফিলিস্তিনে পাঠালেন। আর সেখানেই পরীক্ষা হলো তাঁর সেই কসমের: কোনো নিন্দুকের পরোয়া না করার। সহিহ মুসলিম ১৫৮৭-এ দৃশ্যটা আছে: মুআবিয়ার এলাকায় তিনি দেখলেন, মানুষ রুপার বদলে রুপা কম-বেশি করে বেচাকেনা করছে। তিনি তাদের মাঝে দাঁড়িয়ে নবীজি ﷺ-এর নিষেধাজ্ঞা ঘোষণা করলেন। মুআবিয়া আপত্তি তুললেন। উবাদা কথাটা আবার বললেন, আর জানিয়ে দিলেন, রাসূলুল্লাহ ﷺ-এর কাছে যা শুনেছি তা আমি বলবই, মুআবিয়ার ভালো না লাগলেও।",
+          },
+          {
+            en: "The dispute went up to Umar, and Umar's answer was to back the teacher against the governor. Ubadah stayed in Syria, taught, judged, and narrated until his death, which the historians place around the year 34 in Ramlah or Jerusalem. The naqib who had sworn at al-Aqabah to speak the truth wherever he was spent his last decades doing exactly that, in a rich province, in front of the man who ruled it.",
+            bn: "বিরোধটা গড়াল উমর পর্যন্ত, আর উমরের জবাব ছিল গভর্নরের বিপক্ষে গিয়ে শিক্ষকের পাশে দাঁড়ানো। উবাদা সিরিয়াতেই রয়ে গেলেন; পড়িয়েছেন, বিচার করেছেন, বর্ণনা করেছেন, মৃত্যু পর্যন্ত। ঐতিহাসিকেরা তাঁর ইন্তেকাল ধরেন ৩৪ হিজরির আশপাশে, রামলা বা জেরুজালেমে। আকাবায় যে নকিব কসম করেছিলেন যেখানেই থাকি সত্য বলব, জীবনের শেষ দশকগুলো তিনি ঠিক তা-ই করে কাটালেন — এক সমৃদ্ধ প্রদেশে, তার শাসকের চোখের সামনে।",
+          },
+        ],
+      },
+    ],
+  },
+
+  abdullah_ibn_rawahah: {
+    sections: [
+      {
+        h: { en: "A Poet Among the Naqibs", bn: "নকিবদের মাঝে এক কবি" },
+        p: [
+          {
+            en: "Abdullah ibn Rawahah (RA) of the Khazraj was one of the naqibs appointed at al-Aqabah, and he was a poet in a culture where poetry was the press, the archive and the weapon all at once. He put his verse in the service of the revelation from the beginning, and he fought at Badr and the battles after it. The Prophet ﷺ trusted him with responsibility beyond words: he was among those left in charge of Madinah during campaigns, and he was sent to Khaybar each year on a task that tested honesty more than courage.",
+            bn: "খাযরাজের আবদুল্লাহ ইবনে রাওয়াহা (রাঃ) ছিলেন আকাবায় নিযুক্ত নকিবদের একজন, আর ছিলেন কবি, এমন এক সমাজে যেখানে কবিতাই একসঙ্গে সংবাদমাধ্যম, দলিলখানা আর অস্ত্র। শুরু থেকেই তিনি নিজের পদ্যকে ওহির খেদমতে লাগিয়ে দেন। লড়েছেন বদরে, তারপরের যুদ্ধগুলোতেও। নবীজি ﷺ তাঁকে কথার বাইরের দায়িত্বও দিয়েছেন: অভিযানের সময় মদিনার দেখভালে যাঁদের রেখে যাওয়া হতো, তিনি তাঁদের একজন ছিলেন। আর প্রতি বছর তাঁকে পাঠানো হতো খায়বারে — এমন এক কাজে, যা সাহসের চেয়ে বেশি পরীক্ষা নেয় সততার।",
+          },
+          {
+            en: "The task was estimating the date harvest of Khaybar so that the agreed half-share could be divided. The people of Khaybar gathered ornaments and offered them to him to lighten the estimate. His answer is preserved in the reports: by Allah, you are among the most hateful of Allah's creation to me, and that will not lead me to deal unjustly with you. What you offered is bribery, and we do not eat it. They said, by this the heavens and the earth stand.",
+            bn: "কাজটা ছিল খায়বারের খেজুর ফলনের হিসাব কষা, যাতে চুক্তিমতো অর্ধেক ভাগ করা যায়। খায়বারের লোকেরা গয়না জড়ো করে তাঁকে দিতে চাইল, যাতে হিসাবটা হালকা হয়। তাঁর জবাব বর্ণনাগুলোতে রয়ে গেছে: আল্লাহর কসম, আল্লাহর সৃষ্টির মধ্যে তোমরাই আমার কাছে সবচেয়ে অপছন্দের, তবু সেটা আমাকে তোমাদের প্রতি জুলুমে টানবে না। যা দিতে চাইছ তা ঘুষ, আর আমরা তা খাই না। তারা বলল, এর ওপরেই তো আসমান-জমিন টিকে আছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Faster Than Arrows", bn: "তিরের চেয়েও দ্রুত" },
+        p: [
+          {
+            en: "When the Prophet ﷺ entered Makkah for the fulfilled umrah, Ibn Rawahah walked ahead of him reciting verse. Jami at-Tirmidhi 2847 records that Umar (RA) objected: in front of the Messenger of Allah ﷺ, in the sanctuary of Allah, you recite poetry? The Prophet ﷺ said, let him be, Umar, for it falls on them faster than a shower of arrows. The answer settled the standing of the right kind of poetry for the rest of Islamic history.",
+            bn: "কাজা ওমরাহর সময় নবীজি ﷺ মক্কায় ঢুকছেন, আর ইবনে রাওয়াহা তাঁর আগে আগে হাঁটছেন কবিতা পড়তে পড়তে। জামে তিরমিজি ২৮৪৭-এ আছে, উমর (রাঃ) আপত্তি তুললেন: রাসূলুল্লাহ ﷺ-এর সামনে, তাও আল্লাহর হারামে, তুমি কবিতা পড়ছ? নবীজি ﷺ বললেন, ওকে ছেড়ে দাও উমর; ওর কথা ওদের গায়ে তিরবৃষ্টির চেয়েও দ্রুত লাগে। এই এক জবাবেই ঠিক ধরনের কবিতার মর্যাদা ইসলামের বাকি ইতিহাসের জন্য স্থির হয়ে গেল।",
+          },
+          {
+            en: "He was known among the Companions for a habit he called believing for an hour: he would take a man by the hand and say, come, let us have faith for a while, and they would sit and remember Allah. He wept easily when the Fire was mentioned. A man whose profession was performance kept his own religion in the private tense, examined and re-examined in small sittings with a friend.",
+            bn: "সাহাবিদের মধ্যে তিনি একটা অভ্যাসের জন্য পরিচিত ছিলেন, যাকে তিনি বলতেন এক ঘণ্টার ঈমান: কারও হাত ধরে বলতেন, এসো, কিছুক্ষণ ঈমান আনি; তারপর দুজনে বসে আল্লাহর জিকির করতেন। জাহান্নামের কথা উঠলেই তাঁর চোখে সহজে পানি আসত। যে মানুষের পেশাই মঞ্চে দাঁড়ানো, নিজের দ্বীনটা তিনি রেখেছিলেন একান্ত খোপে — বন্ধুর সঙ্গে ছোট ছোট বৈঠকে বারবার যাচাই করে নেওয়ার জিনিস হিসেবে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Third in the Line at Mutah", bn: "মুতার সারিতে তৃতীয়" },
+        p: [
+          {
+            en: "For the expedition to Mutah the Prophet ﷺ did something he had not done before: he named three commanders in order. Zayd ibn Harithah (RA) would lead; if he was struck down, then Ja'far ibn Abi Talib (RA); if he was struck down, then Abdullah ibn Rawahah. Every man marching understood what a chain of succession like that meant about the fighting ahead. The army was three thousand, and the force they met on the Byzantine frontier was many times larger.",
+            bn: "মুতার অভিযানে নবীজি ﷺ এমন একটা কাজ করলেন, যা আগে কখনো করেননি: পরপর তিনজন সেনাপতির নাম বলে দিলেন। নেতৃত্ব দেবেন যায়েদ ইবনে হারিসা (রাঃ); তিনি পড়ে গেলে জাফর ইবনে আবি তালিব (রাঃ); তিনিও পড়ে গেলে আবদুল্লাহ ইবনে রাওয়াহা। এমন উত্তরাধিকারের শিকল সামনের লড়াইটা নিয়ে কী বলে, রওনা দেওয়া প্রতিটা মানুষ তা বুঝেছিল। বাহিনী তিন হাজারের; আর বাইজেন্টাইন সীমান্তে যাদের মুখোমুখি হলো, তারা সংখ্যায় বহু গুণ।",
+          },
+          {
+            en: "The reports say that when Zayd fell and then Ja'far fell, Ibn Rawahah took the banner and hesitated for a moment on his mount. Then he urged his own soul forward with verses he spoke to himself: O soul, if you are not killed you will still die. He dismounted, fought, and was killed. The hesitation is preserved in the sources alongside the courage, and it makes the courage legible: he was not a man without fear, he was a man who talked himself past it.",
+            bn: "বর্ণনায় আছে, যায়েদ পড়লেন, তারপর জাফরও পড়লেন। ইবনে রাওয়াহা পতাকা তুলে নিলেন, আর বাহনের ওপর এক মুহূর্ত থমকে গেলেন। তারপর নিজের নফসকে ঠেলা দিলেন নিজেকেই শোনানো পদ্যে: ওরে মন, মরতে তো হবেই — যুদ্ধে না মরলেও। তিনি নামলেন, লড়লেন, শহিদ হলেন। সাহসের পাশাপাশি ওই থমকে যাওয়াটুকুও সূত্রগুলো রেখে দিয়েছে, আর তাতেই সাহসটা পড়া যায়: তিনি ভয়হীন মানুষ ছিলেন না; তিনি ছিলেন এমন মানুষ, যিনি কথা বলে বলে নিজেকে ভয়ের ওপারে নিয়ে যেতেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Seen from Madinah", bn: "মদিনা থেকে দেখা" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 4262 records that the Prophet ﷺ, in Madinah, told the people what was happening at Mutah as it happened: Zayd took the banner and was struck down, then Ja'far took it and was struck down, then Ibn Rawahah took it and was struck down, and his eyes were flowing with tears, until the banner was taken by a sword among the swords of Allah, and Allah opened the way by his hand. The last was Khalid ibn al-Walid, and the army was brought home.",
+            bn: "সহিহ বুখারি ৪২৬২-এ আছে, মুতায় যা ঘটছিল, নবীজি ﷺ মদিনায় বসে মানুষকে তা বলে যাচ্ছিলেন ঘটার সঙ্গে সঙ্গে: যায়েদ পতাকা নিল, শহিদ হলো; তারপর জাফর নিল, সে-ও শহিদ হলো; তারপর ইবনে রাওয়াহা নিল, সে-ও শহিদ হলো — বলছেন আর তাঁর দুচোখ বেয়ে পানি ঝরছে। শেষে বললেন, পতাকা নিল আল্লাহর তরবারিগুলোর এক তরবারি, আর তার হাতেই আল্লাহ পথ খুলে দিলেন। সেই শেষজন খালিদ ইবনুল ওয়ালিদ, বাহিনীও ঘরে ফিরে এল।",
+          },
+          {
+            en: "Three commanders were named, and all three were killed in the order they were named, holding the same banner. Ibn Rawahah had written verses asking Allah for a martyr's death; his poems on that theme were known before the campaign. Of all the Companions who wrote poetry, he is the one whose life ended as a line of his own verse, and the ummah has read him that way ever since.",
+            bn: "তিনজন সেনাপতির নাম বলা হয়েছিল, আর তিনজনই শহিদ হলেন ঠিক সেই ক্রমে, একই পতাকা হাতে। ইবনে রাওয়াহা কবিতায় আল্লাহর কাছে শহিদের মৃত্যু চেয়েছিলেন; এই ভাবের কবিতাগুলো অভিযানের আগে থেকেই মানুষের জানা। কবিতা লেখা সাহাবিদের মধ্যে তিনিই সেই একজন, যাঁর জীবন শেষ হলো তাঁর নিজেরই কোনো পঙক্তির মতো করে। উম্মত সেই থেকে তাঁকে ওভাবেই পড়ে আসছে।",
+          },
+        ],
+      },
+    ],
+  },
+  hassan_ibn_thabit: {
+    sections: [
+      {
+        h: { en: "A Poet Before and After", bn: "আগে-পরে দুই যুগেই কবি" },
+        p: [
+          {
+            en: "Hassan ibn Thabit (RA) of the Khazraj was already a famous poet before Islam, earning rewards at the courts of the Ghassanid kings of Syria for his praise-poetry. He was a mature man when the Prophet ﷺ arrived in Madinah, older than most of the Companions around him, and he brought into Islam a fully formed professional skill. What changed was not the craft. What changed was the client, and the cause.",
+            bn: "খাযরাজের হাসসান ইবনে সাবিত (রাঃ) ইসলামের আগেই নামকরা কবি ছিলেন; সিরিয়ার গাসসানি রাজাদের দরবারে প্রশংসা-কবিতা শুনিয়ে পুরস্কার পেতেন। নবীজি ﷺ যখন মদিনায় এলেন, হাসসান তখন পরিণত বয়সের মানুষ, আশপাশের বেশিরভাগ সাহাবির চেয়ে বড়। ইসলামে তিনি নিয়ে এলেন পুরোপুরি তৈরি একটা পেশাদার দক্ষতা। বদলাল না কারিগরিটা। বদলাল কার জন্য লেখা হবে, আর কীসের জন্য।",
+          },
+          {
+            en: "In seventh-century Arabia this mattered more than it sounds. Poetry travelled where armies could not; a sharp lampoon could damage a tribe's standing across the peninsula in a season. Quraysh had poets working against the Prophet ﷺ by name, and the wounds were real. The answer to organised mockery was not silence, and the man appointed to give it was Hassan.",
+            bn: "সপ্তম শতকের আরবে এর ওজন শুনতে যা লাগে তার চেয়ে অনেক বেশি। সৈন্যদল যেখানে পৌঁছাত না, কবিতা সেখানেও পৌঁছে যেত; একটা ধারালো বিদ্রুপ এক মৌসুমেই গোটা উপদ্বীপে কোনো গোত্রের মানসম্মান নামিয়ে দিতে পারত। কুরাইশের কবিরা নাম ধরে ধরে নবীজি ﷺ-এর বিরুদ্ধে লিখছিল, আর সে আঘাত ছিল সত্যিকারের। সংগঠিত উপহাসের জবাব চুপ থাকা নয়। জবাব দেওয়ার দায়িত্বটা যাঁকে দেওয়া হলো, তিনি হাসসান।",
+          },
+        ],
+      },
+      {
+        h: { en: "Jibril Is With You", bn: "জিবরাইল তোমার সঙ্গে আছেন" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 3213 and Sahih Muslim 2485 record the commission in the Prophet's ﷺ own words: satirise them, or he said, lampoon them, and Jibril is with you. In another wording he prayed, O Allah, support him with the Holy Spirit. No other Companion was told that the greatest of the angels stood behind his work. It was said of verse, made for a war of words the modern reader can barely see.",
+            bn: "সহিহ বুখারি ৩২১৩ ও সহিহ মুসলিম ২৪৮৫-এ দায়িত্বটা নবীজি ﷺ-এর নিজের মুখের ভাষায় ধরা আছে: ওদের জবাব দাও কবিতায়, আর জিবরাইল তোমার সঙ্গে আছেন। আরেক বর্ণনায় তিনি দোয়া করেছেন, হে আল্লাহ, ওকে রুহুল কুদুস দিয়ে সাহায্য করুন। আর কোনো সাহাবিকে বলা হয়নি যে তাঁর কাজের পেছনে ফেরেশতাদের শ্রেষ্ঠজন দাঁড়িয়ে। কথাটা বলা হয়েছিল কবিতা নিয়ে — শব্দের এমন এক যুদ্ধে, যা আজকের পাঠকের চোখেই পড়ে না।",
+          },
+          {
+            en: "Sahih Muslim 2490 preserves the other half of the instruction, from Aishah (RA): the Prophet ﷺ said, lampoon Quraysh, for it is harder upon them than a shower of arrows. Hassan asked for help from Abu Bakr (RA), the expert in Qurayshi genealogy, so that his verse would strike the guilty lines and spare the Prophet's ﷺ own ancestry, and he promised to draw him out from among them as a hair is drawn out of dough.",
+            bn: "নির্দেশের বাকি অর্ধেকটা সহিহ মুসলিম ২৪৯০-এ আছে, আয়েশা (রাঃ)-এর সূত্রে: নবীজি ﷺ বলেছেন, কুরাইশকে কবিতায় বেঁধো, কারণ ওটা ওদের গায়ে তিরবৃষ্টির চেয়েও কঠিন লাগে। হাসসান সাহায্য চাইলেন আবু বকর (রাঃ)-এর কাছে, যিনি কুরাইশের বংশলতিকার পাকা জানকার — যাতে তাঁর পদ্য দোষী শাখাগুলোতেই লাগে, নবীজি ﷺ-এর নিজের বংশধারা বেঁচে যায়। আর কথা দিলেন, ময়দার ভেতর থেকে যেমন চুল টেনে বের করা হয়, তেমনি করে তাঁকে ওদের মধ্য থেকে আলাদা করে আনবেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Pulpit in the Mosque", bn: "মসজিদে একটা মিম্বার" },
+        p: [
+          {
+            en: "The Prophet ﷺ had a pulpit set up for Hassan in the mosque, and he would stand on it and answer the attacks on the Messenger of Allah ﷺ in verse. Jami at-Tirmidhi 2846 records it alongside the Prophet's ﷺ words that Allah supports Hassan with the Holy Spirit as long as he defends His Messenger. A house of prayer gave a platform to poetry, because that poetry was defence.",
+            bn: "নবীজি ﷺ মসজিদের ভেতরে হাসসানের জন্য একটা মিম্বার বসানোর ব্যবস্থা করলেন। তিনি তাতে দাঁড়িয়ে রাসূলুল্লাহ ﷺ-এর ওপর হামলাগুলোর জবাব দিতেন কবিতায়। জামে তিরমিজি ২৮৪৬-এ ঘটনাটার সঙ্গে নবীজি ﷺ-এর কথাটাও আছে: হাসসান যতক্ষণ তাঁর রাসূলের পক্ষে লড়ে, আল্লাহ ততক্ষণ তাকে রুহুল কুদুস দিয়ে সাহায্য করেন। নামাজের ঘর জায়গা করে দিল কবিতাকে, কারণ সেই কবিতাটাই ছিল প্রতিরক্ষা।",
+          },
+          {
+            en: "His duel with Abu Sufyan's verse produced his most quoted lines: you lampooned Muhammad, and I answered on his behalf, and with Allah is the reward for that; my father and his father and my honour are a shield for the honour of Muhammad. The claim in the couplet is the job description itself. Everything he had, lineage included, was put in front of the Prophet ﷺ as cover.",
+            bn: "আবু সুফিয়ানের কবিতার সঙ্গে লড়াইয়েই জন্ম নিল তাঁর সবচেয়ে বেশি উদ্ধৃত পঙক্তিগুলো: তুমি মুহাম্মদের নিন্দা করেছ, আমি তাঁর হয়ে জবাব দিয়েছি, আর এর প্রতিদান আল্লাহর কাছে; আমার বাবা, তাঁর বাবা, আমার মান-সম্মান — সবই মুহাম্মদের সম্মানের ঢাল। এই দুই পঙক্তির দাবিটাই আসলে তাঁর কাজের বিবরণ। বংশমর্যাদাসহ তাঁর যা কিছু ছিল, সব তিনি নবীজি ﷺ-এর সামনে ঢাল করে ধরেছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Limits of the Man", bn: "মানুষটার সীমাও ছিল" },
+        p: [
+          {
+            en: "The sources do not hide that Hassan was no soldier; he is not counted among the fighters of the great battles, and the reports about him are frank that his courage lived in his tongue rather than his sword-arm. He also stumbled badly once: he was among those who repeated the slander against Aishah (RA), and 24:11 came down about that affair, declaring that every man of them would bear the sin he had earned.",
+            bn: "হাসসান যোদ্ধা ছিলেন না, সূত্রগুলো তা লুকায়নি; বড় যুদ্ধগুলোর লড়িয়েদের তালিকায় তাঁর নাম ওঠে না। বর্ণনাগুলো খোলাখুলিই বলে, তাঁর সাহস থাকত জিভে, তলোয়ার ধরা হাতে নয়। একবার তিনি মারাত্মক হোঁচটও খেয়েছিলেন: আয়েশা (রাঃ)-এর বিরুদ্ধে অপবাদ যারা মুখে মুখে ছড়িয়েছিল, তিনি তাদের মধ্যে ছিলেন। সেই ঘটনাতেই নাজিল হয় ২৪:১১, যেখানে ঘোষণা এল — তাদের প্রত্যেকে যা কামিয়েছে তার গুনাহ তার।",
+          },
+          {
+            en: "He took the punishment prescribed, and what happened afterwards is the remarkable part: Aishah (RA) herself later defended him. Sahih al-Bukhari 4145 records people speaking against Hassan in her presence and her stopping them, saying, do not abuse him, for he used to defend the Messenger of Allah ﷺ. The person he had wronged most kept his best deed in view. Both facts stand in the record together, which is how the record deals honestly with a whole man.",
+            bn: "নির্ধারিত শাস্তি তিনি পেয়েছিলেন। অসাধারণ ব্যাপারটা ঘটল তার পরে: আয়েশা (রাঃ) নিজেই পরে তাঁর পক্ষ নিয়েছেন। সহিহ বুখারি ৪১৪৫-এ আছে, তাঁর সামনে লোকজন হাসসানের নিন্দা করছিল, আর তিনি থামিয়ে দিয়ে বললেন, ওকে গালমন্দ কোরো না; ও তো রাসূলুল্লাহ ﷺ-এর পক্ষে লড়ত। যাঁর প্রতি তিনি সবচেয়ে বড় অন্যায়টা করেছিলেন, তিনিই তাঁর সবচেয়ে ভালো কাজটা চোখের সামনে রাখলেন। দুটো সত্যই পাশাপাশি লেখা আছে। গোটা একটা মানুষকে নিয়ে সৎ ইতিহাস এভাবেই লেখে।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Long Old Age", bn: "দীর্ঘ এক শেষ বয়স" },
+        p: [
+          {
+            en: "Hassan lived long past the Prophet ﷺ, through the caliphates and into the reign of Muawiyah, dying around the year 54 after the Hijrah at a great age; the sources give him a very long life split between his years before Islam and after it, though they differ on the exact count. His eyesight failed. His verse survived him and became a primary source: historians of the sirah quote his poems as records of the events they were composed about.",
+            bn: "হাসসান নবীজি ﷺ-এর পরে বহুদিন বেঁচে ছিলেন — খলিফাদের যুগ পেরিয়ে মুআবিয়ার শাসনামল পর্যন্ত। ইন্তেকাল করেন ৫৪ হিজরির আশপাশে, অনেক বয়সে। সূত্রগুলো তাঁকে খুব লম্বা আয়ু দেয়, ইসলামের আগের আর পরের বছরে ভাগ করে; তবে সঠিক অঙ্কে তারা একমত নয়। শেষদিকে তাঁর দৃষ্টি চলে গিয়েছিল। তাঁর কবিতা তাঁকে ছাড়িয়ে বেঁচে রইল, আর হয়ে উঠল ইতিহাসের কাঁচামাল: সিরাতের ঐতিহাসিকরা তাঁর কবিতা উদ্ধৃত করেন সেই ঘটনাগুলোর দলিল হিসেবেই, যেগুলো নিয়ে তা লেখা হয়েছিল।",
+          },
+          {
+            en: "His standing rests on a principle the Prophet ﷺ stated and he embodied: that talent is judged by what it is spent on. The same tongue that had praised kings for coins spent its best decades shielding one man's honour, and the ummah still recites the couplets it produced. Whoever has a craft and wonders whether it has a place in the religion can take the answer from the pulpit that stood in the mosque of Madinah.",
+            bn: "তাঁর মর্যাদা দাঁড়িয়ে আছে একটা নীতির ওপর, যা নবীজি ﷺ মুখে বলেছেন আর হাসসান জীবন দিয়ে দেখিয়েছেন: প্রতিভার বিচার হয় তা কোন কাজে খরচ হলো তা দিয়ে। যে জিভ একদিন মুদ্রার বিনিময়ে রাজাদের প্রশংসা করত, সে তার সেরা দশকগুলো খরচ করল একজন মানুষের সম্মান আগলে রাখায়। আর তাতে যে পঙক্তিগুলো জন্মাল, উম্মত আজও তা আবৃত্তি করে। যার হাতে কোনো শিল্প আছে অথচ ভাবছে দ্বীনে তার জায়গা হবে কি না, সে জবাবটা নিতে পারে মদিনার মসজিদে দাঁড় করানো ওই মিম্বার থেকেই।",
+          },
+        ],
+      },
+    ],
+  },
+
+  al_abbas_ibn_abd_al_muttalib: {
+    sections: [
+      {
+        h: { en: "The Uncle at the Well", bn: "কুয়ার ধারের সেই চাচা" },
+        p: [
+          {
+            en: "Al-Abbas (RA) was a paternal uncle of the Prophet ﷺ, close to him in age, and one of the notables of Makkah. His office was the siqayah, the right of providing water to the pilgrims, which his family administered from Zamzam. It made him a public man whose position depended on the pilgrimage itself, which is worth remembering when weighing what he did next: he quietly helped a movement that Makkah's establishment saw as a threat to everything the pilgrimage brought them.",
+            bn: "আব্বাস (রাঃ) ছিলেন নবীজি ﷺ-এর আপন চাচা, বয়সে প্রায় তাঁর কাছাকাছি, মক্কার গণ্যমান্যদের একজন। তাঁর দায়িত্ব ছিল সিকায়া — হাজিদের পানি পান করানোর অধিকার, যা তাঁর পরিবার জমজম থেকে চালাত। এই পদ তাঁকে বানিয়েছিল এমন এক জনসমক্ষের মানুষ, যাঁর অবস্থানটাই দাঁড়িয়ে হজযাত্রার ওপর। পরের কাজটা মাপার সময় কথাটা মনে রাখা দরকার: মক্কার কর্তারা যে আন্দোলনকে তাদের হজ-বাণিজ্যের সবকিছুর জন্য হুমকি ভাবত, তিনি চুপচাপ সেটাকেই সাহায্য করছিলেন।",
+          },
+          {
+            en: "On the night of the second pledge of al-Aqabah, before his own Islam was known, al-Abbas came with his nephew and spoke first. Ibn Hisham records his speech to the Madinans: Muhammad's own clan still protected him, but if they meant to take him, they must know what they were taking on, and if they had any thought of surrendering him later, they should leave him now. He was stress-testing the pledge before letting his nephew's life rest on it.",
+            bn: "আকাবার দ্বিতীয় বাইআতের রাতে, নিজের ইসলাম প্রকাশের আগেই, আব্বাস ভাতিজার সঙ্গে এলেন আর কথা বললেন সবার আগে। ইবনে হিশাম মদিনাবাসীদের প্রতি তাঁর বক্তব্যটা লিখে রেখেছেন: মুহাম্মদকে তাঁর নিজের গোত্র এখনো আগলে রাখছে; কিন্তু তোমরা যদি তাঁকে নিতে চাও, তবে কী দায়িত্ব ঘাড়ে নিচ্ছ তা জেনে নাও। আর পরে কখনো তাঁকে ছেড়ে দেওয়ার চিন্তা যদি মনে থাকে, তবে এখনই তাঁকে ছেড়ে যাও। ভাতিজার জীবন যে অঙ্গীকারের ওপর ভর দেবে, তার আগে তিনি সেটাকে টেনেটুনে পরীক্ষা করে নিচ্ছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Captured at Badr", bn: "বদরে বন্দি" },
+        p: [
+          {
+            en: "At Badr, al-Abbas was on the wrong side of the field, brought out with the Quraysh army, and he was taken prisoner. That night the Prophet ﷺ lay sleepless, and when asked why, he said he could hear the groaning of his uncle in his bonds; the Companions loosened them. But there was no exemption from the rule: al-Abbas was ransomed like the other captives, and paid for himself and for others of his family.",
+            bn: "বদরে আব্বাস দাঁড়িয়ে ছিলেন ময়দানের ভুল দিকে; কুরাইশ বাহিনীর সঙ্গে তাঁকে বের করে আনা হয়েছিল, আর তিনি বন্দি হলেন। সে রাতে নবীজি ﷺ ঘুমাতে পারছিলেন না। কারণ জিজ্ঞেস করা হলে বললেন, বাঁধনে চাচার গোঙানি তাঁর কানে আসছে। সাহাবিরা বাঁধন ঢিলে করে দিলেন। কিন্তু নিয়মে কোনো ছাড় হলো না: অন্য বন্দিদের মতো আব্বাসকেও মুক্তিপণ দিতে হলো, নিজের জন্য তো বটেই, পরিবারের আরও কয়েকজনের জন্যও।",
+          },
+          {
+            en: "The scene holds two things at once, and it should be told with both. The Prophet's ﷺ private feeling for his uncle was strong enough to keep him awake, and it changed the treatment of a prisoner not one dirham's worth. Compassion loosened the ropes; justice still collected the ransom. Reports differ on when al-Abbas inwardly accepted Islam, and the honest account is that his open Islam came later, around the time of the conquest, while his help came long before.",
+            bn: "দৃশ্যটার ভেতরে দুটো জিনিস একসঙ্গে আছে, আর বলার সময় দুটোই বলা উচিত। চাচার জন্য নবীজি ﷺ-এর ভেতরের টান এতটাই ছিল যে ঘুম আসেনি; অথচ সেই টান এক বন্দির প্রাপ্যে এক দিরহামও হেরফের করেনি। মমতা ঢিলে করেছে দড়ি, ইনসাফ ঠিকই আদায় করেছে মুক্তিপণ। আব্বাস মনে মনে কবে ইসলাম গ্রহণ করেছিলেন, বর্ণনাগুলো তাতে একমত নয়। সৎ বিবরণটা এই: তাঁর প্রকাশ্য ইসলাম এসেছে পরে, বিজয়ের কাছাকাছি সময়ে; আর তাঁর সাহায্য এসেছে তারও অনেক আগে থেকে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Loudest Voice at Hunayn", bn: "হুনাইনের সবচেয়ে উঁচু গলা" },
+        p: [
+          {
+            en: "At Hunayn, when the ambush broke the Muslim ranks and men were streaming back past the Prophet ﷺ, al-Abbas was one of the few who held his ground, gripping the bridle of the Prophet's ﷺ white mule. Sahih Muslim 1775 records what happened next: the Prophet ﷺ told him to call the people, and al-Abbas, who had a mighty voice, cried out, where are the companions of the acacia tree, the men of the pledge?",
+            bn: "হুনাইনে যখন অতর্কিত হামলায় মুসলিম কাতার ভেঙে গেল, আর মানুষ নবীজি ﷺ-কে পেছনে ফেলে ছুটে যাচ্ছিল, যে কজন মাটি কামড়ে দাঁড়িয়ে ছিলেন, আব্বাস তাঁদের একজন; হাতে ধরা নবীজি ﷺ-এর সাদা খচ্চরের লাগাম। এরপর কী হলো তা সহিহ মুসলিম ১৭৭৫-এ আছে: নবীজি ﷺ তাঁকে বললেন, লোকদের ডাকো। আর আব্বাস, যাঁর গলা ছিল বজ্রের মতো, হাঁক দিলেন — কোথায় বাবলাগাছের তলার সাথিরা, বাইআতের মানুষেরা?",
+          },
+          {
+            en: "He said afterwards that when the men heard his voice they turned back like cows turning to their calves, calling here we are, here we are. The line reformed around the mule and the day was recovered. One man's lungs, at the right moment, mattered as much as a squadron. It is the single most vivid scene of his life in the sahih collections, and he is holding a bridle in it, not a sword.",
+            bn: "তিনি পরে বলেছেন, তাঁর গলা শুনে লোকেরা এমনভাবে ঘুরে দাঁড়াল, যেমন গাভি ফেরে বাছুরের ডাকে — বলতে বলতে এল, এই তো আমরা, এই তো আমরা। খচ্চরটাকে ঘিরে কাতার আবার দাঁড়িয়ে গেল, দিনটাও ফিরে এল হাতে। ঠিক মুহূর্তে একজন মানুষের কণ্ঠ সেদিন একটা গোটা বাহিনীর সমান কাজ করেছিল। সহিহ গ্রন্থগুলোতে তাঁর জীবনের সবচেয়ে জীবন্ত দৃশ্য এটাই। আর সেখানে তাঁর হাতে তলোয়ার নয়, একটা লাগাম।",
+          },
+        ],
+      },
+      {
+        h: { en: "We Turn to You Through His Uncle", bn: "তাঁর চাচার উসিলায় আপনার কাছে" },
+        p: [
+          {
+            en: "The clearest measure of his standing after the Prophet's ﷺ death is in Sahih al-Bukhari 1010. In years of drought, Umar (RA) would go out to pray for rain and would say: O Allah, we used to ask You through our Prophet and You would give us rain, and now we ask You through the uncle of our Prophet, so give us rain. And the report says they would be given rain.",
+            bn: "নবীজি ﷺ-এর ইন্তেকালের পর আব্বাসের মর্যাদার সবচেয়ে পরিষ্কার মাপটা আছে সহিহ বুখারি ১০১০-এ। খরার বছরগুলোতে উমর (রাঃ) বৃষ্টির নামাজে বেরিয়ে বলতেন: হে আল্লাহ, আমরা আমাদের নবীর উসিলায় আপনার কাছে চাইতাম, আপনি বৃষ্টি দিতেন; এখন আমরা আমাদের নবীর চাচার উসিলায় চাইছি, আমাদের বৃষ্টি দিন। বর্ণনায় আছে, তাঁদের বৃষ্টি দেওয়া হতো।",
+          },
+          {
+            en: "Umar was not a man who honoured people for their relations alone; he honoured what the Prophet ﷺ had honoured. Al-Abbas kept the siqayah after the conquest, when other pre-Islamic offices were abolished, and he died in Madinah in the caliphate of Uthman, old and blind. Among his sons was Abdullah ibn Abbas, the interpreter of the Quran, and generations later his descendants ruled as the Abbasid dynasty that carries his name.",
+            bn: "উমর এমন মানুষ ছিলেন না যে কেবল আত্মীয়তার খাতিরে কাউকে সম্মান দেবেন; তিনি সম্মান দিতেন তাঁকেই, যাঁকে নবীজি ﷺ সম্মান দিয়েছেন। বিজয়ের পর জাহেলি যুগের অন্য পদগুলো যখন বাতিল হলো, আব্বাসের হাতে সিকায়া তখনো রয়ে গেল। উসমানের খিলাফতকালে তিনি মদিনায় ইন্তেকাল করেন — বৃদ্ধ, দৃষ্টিহীন। তাঁর ছেলেদের একজন আবদুল্লাহ ইবনে আব্বাস, কুরআনের ভাষ্যকার। আর বহু প্রজন্ম পরে তাঁর বংশধররা শাসন করেছে সেই আব্বাসি খিলাফত হয়ে, যা আজও তাঁর নাম বহন করে।",
+          },
+        ],
+      },
+    ],
+  },
+
+  abdullah_ibn_hudhafah_as_sahmi: {
+    sections: [
+      {
+        h: { en: "The Man Who Asked the Question", bn: "যে মানুষটা প্রশ্নটা করেই ফেলল" },
+        p: [
+          {
+            en: "Abdullah ibn Hudhafah (RA) of the Sahm clan of Quraysh was an early Muslim who made the migration to Abyssinia. He had a streak of boldness that bordered on mischief, and it shows in the story by which most students of hadith first meet him. When people pressed the Prophet ﷺ with questions until it displeased him, and he said, ask me what you will, Abdullah stood up and asked: who is my father?",
+            bn: "কুরাইশের সাহম শাখার আবদুল্লাহ ইবনে হুযাফা (রাঃ) ছিলেন প্রথম যুগের মুসলিম, হাবশায় হিজরতকারীদের একজন। তাঁর মধ্যে ছিল দুঃসাহসের এমন একটা ধারা, যা প্রায় দুষ্টুমির গা ঘেঁষে চলত। হাদিসের ছাত্ররা যে গল্প দিয়ে তাঁকে প্রথম চেনে, তাতেই সেটা ফুটে ওঠে। মানুষ যখন প্রশ্নের পর প্রশ্ন করে নবীজি ﷺ-কে বিরক্ত করে তুলল, আর তিনি বললেন, যা ইচ্ছে জিজ্ঞেস করো — আবদুল্লাহ উঠে দাঁড়িয়ে জিজ্ঞেস করলেন: আমার বাবা কে?",
+          },
+          {
+            en: "Sahih al-Bukhari 540 and Sahih Muslim 2359 record the answer: your father is Hudhafah. In an age when whispers about parentage could ruin a family, he had asked the one question no one dares ask, and received the plainest possible confirmation. His mother was appalled at the risk he had taken. He reasoned the other way: if there was anything to fear, better to hear it from the Messenger of Allah ﷺ than from anyone else.",
+            bn: "সহিহ বুখারি ৫৪০ ও সহিহ মুসলিম ২৩৫৯-এ জবাবটা আছে: তোমার বাবা হুযাফা। যে যুগে বংশপরিচয় নিয়ে ফিসফিসানিই একটা পরিবার ধ্বংস করে দিতে পারত, সে যুগে তিনি করে বসলেন সেই প্রশ্ন, যা কেউ করতে সাহস পায় না; আর পেলেন যতটা সোজাসাপ্টা হয়, ততটা সোজাসাপ্টা সমর্থন। ছেলের এই ঝুঁকিতে মা আঁতকে উঠেছিলেন। তাঁর যুক্তি ছিল উল্টো: ভয়ের কিছু যদি থেকেই থাকে, তবে তা অন্য কারও মুখে শোনার চেয়ে রাসূলুল্লাহ ﷺ-এর মুখে শোনাই ভালো।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Letter Khosrau Tore", bn: "যে চিঠি খসরু ছিঁড়ল" },
+        p: [
+          {
+            en: "When the Prophet ﷺ wrote to the rulers of the surrounding empires, the letter to the emperor of Persia was placed in Abdullah's hands. Sahih al-Bukhari 4424 records that the Prophet ﷺ sent him with his letter to Khosrau, and that when it was read to the emperor, he tore it to pieces. Word of the tearing came back to Madinah, and the Prophet ﷺ prayed that they be torn to pieces entirely.",
+            bn: "নবীজি ﷺ যখন আশপাশের সাম্রাজ্যগুলোর শাসকদের চিঠি লিখলেন, পারস্য-সম্রাটের চিঠিটা তুলে দেওয়া হলো আবদুল্লাহর হাতে। সহিহ বুখারি ৪৪২৪-এ আছে, নবীজি ﷺ তাঁকে খসরুর কাছে চিঠি দিয়ে পাঠালেন। সম্রাটকে চিঠিটা পড়ে শোনানো হলে সে তা টুকরো টুকরো করে ছিঁড়ে ফেলল। ছেঁড়ার খবর মদিনায় ফিরে এলে নবীজি ﷺ দোয়া করলেন, ওদেরও যেন টুকরো টুকরো করে ছিন্নভিন্ন করে দেওয়া হয়।",
+          },
+          {
+            en: "Within a generation the Persian empire had fallen to the Muslims, and the readers of the sirah have always set the two facts side by side. For Abdullah's part, the mission itself says what he was trusted with: a lone rider carrying an invitation to the most powerful court on earth, with no guarantee of the ancient custom that envoys go home alive. He delivered it and came home.",
+            bn: "এক প্রজন্মের মধ্যেই পারস্য সাম্রাজ্য মুসলিমদের হাতে পড়ল। সিরাতের পাঠকেরা বরাবরই ঘটনা দুটোকে পাশাপাশি রেখে পড়েছেন। আর আবদুল্লাহর দিক থেকে দেখলে, কাজটা নিজেই বলে দেয় তাঁর ওপর কতটা ভরসা রাখা হয়েছিল: একা এক ঘোড়সওয়ার, হাতে দুনিয়ার সবচেয়ে শক্তিশালী দরবারের প্রতি দাওয়াতনামা; দূত জীবিত ঘরে ফেরে — এই পুরনো রীতির কোনো নিশ্চয়তা ছাড়াই। তিনি চিঠি পৌঁছে দিলেন, আর ঘরেও ফিরলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Cauldron and the Kiss", bn: "ফুটন্ত কড়াই আর সেই চুমু" },
+        p: [
+          {
+            en: "In the wars with Byzantium during Umar's caliphate, Abdullah was taken captive, and the historians, al-Bayhaqi and Ibn Asakir among them, record what the Roman emperor tried. He offered him a share of his kingdom to become Christian and was refused. He threatened him with death and had a great cauldron heated, and one of the Muslim captives was thrown into it before his eyes. Abdullah wept, and the emperor thought he had broken.",
+            bn: "উমরের খিলাফতকালে বাইজেন্টাইনদের সঙ্গে যুদ্ধে আবদুল্লাহ বন্দি হলেন। বাইহাকি, ইবনে আসাকিরসহ ঐতিহাসিকেরা লিখেছেন, রোম-সম্রাট কী কী চেষ্টা করেছিল। খ্রিষ্টান হলে রাজত্বের ভাগ দেওয়ার লোভ দেখাল; তিনি ফিরিয়ে দিলেন। মৃত্যুর ভয় দেখাল, বিশাল এক কড়াই গরম করাল, আর তাঁর চোখের সামনে এক মুসলিম বন্দিকে তাতে ছুড়ে ফেলা হলো। আবদুল্লাহ কেঁদে ফেললেন, আর সম্রাট ভাবল, এবার ভেঙেছে।",
+          },
+          {
+            en: "Asked why he wept, he said it was because he had only one soul to be thrown into that cauldron for the sake of Allah, and he wished he had as many souls as the hairs of his body so that all of them could go the same way. The emperor, defeated, offered to release him for a kiss on his head. Abdullah set his condition: only if every Muslim captive was released with him. He kissed the emperor's head, and the reports say around eighty prisoners walked free.",
+            bn: "কান্নার কারণ জিজ্ঞেস করা হলে তিনি বললেন, আমার তো মোটে একটাই প্রাণ, যা আল্লাহর রাস্তায় ওই কড়াইয়ে ফেলা যাবে; ইচ্ছে করছিল, শরীরের চুলের সংখ্যার সমান প্রাণ যদি আমার থাকত, আর সবগুলো যদি এই একই পথে যেত। হার মেনে সম্রাট প্রস্তাব দিল, তার মাথায় একটা চুমু দিলেই মুক্তি। আবদুল্লাহ শর্ত জুড়ে দিলেন: সঙ্গে প্রতিটা মুসলিম বন্দিকেও ছাড়তে হবে। তিনি সম্রাটের মাথায় চুমু দিলেন, আর বর্ণনা বলে, প্রায় আশিজন বন্দি সেদিন মুক্ত হয়ে বেরিয়ে এল।",
+          },
+        ],
+      },
+      {
+        h: { en: "Umar Rises for Him", bn: "উমর তাঁর জন্য উঠে দাঁড়ালেন" },
+        p: [
+          {
+            en: "When the freed captives reached Umar (RA), the caliph declared that it was a duty upon every Muslim to kiss the head of Abdullah ibn Hudhafah, and said, I will begin. And he stood and kissed his head. The gesture the emperor had demanded as a token of submission was repeated by the commander of the believers as a token of honour, and the difference between the two kisses is the whole story.",
+            bn: "মুক্ত বন্দিরা উমর (রাঃ)-এর কাছে পৌঁছালে খলিফা ঘোষণা দিলেন, আবদুল্লাহ ইবনে হুযাফার মাথায় চুমু দেওয়া প্রত্যেক মুসলিমের কর্তব্য; আর বললেন, শুরুটা আমিই করব। তিনি উঠে দাঁড়িয়ে তাঁর মাথায় চুমু দিলেন। সম্রাট যে ভঙ্গিটা দাবি করেছিল আনুগত্যের নিদর্শন হিসেবে, আমিরুল মুমিনিন সেটাই ফিরিয়ে দিলেন সম্মানের নিদর্শন করে। দুটো চুমুর এই তফাতটুকুই আসলে গোটা গল্প।",
+          },
+          {
+            en: "He lived on into the caliphate of Uthman and died around the year 34. His life has a shape worth noticing: the same audacity that made him ask an unaskable question in the mosque made him hand a letter to an emperor and stare down a cauldron. Islam did not manufacture his boldness; it aimed it. What a man is made of matters less than what his qualities are finally spent on.",
+            bn: "তিনি উসমানের খিলাফতকাল পর্যন্ত বেঁচে ছিলেন, ইন্তেকাল করেন ৩৪ হিজরির আশপাশে। তাঁর জীবনের গড়নটা লক্ষ করার মতো: যে দুঃসাহসে তিনি মসজিদে না-করার-মতো প্রশ্নটা করে বসেছিলেন, সেই একই দুঃসাহসে সম্রাটের হাতে চিঠি ধরিয়েছেন, ফুটন্ত কড়াইয়ের সামনে চোখ নামাননি। ইসলাম তাঁর সাহস তৈরি করেনি; তার নিশানা ঠিক করে দিয়েছে। মানুষ কী দিয়ে গড়া, তার চেয়ে বড় কথা তার গুণগুলো শেষমেশ কোন কাজে খরচ হলো।",
+          },
+        ],
+      },
+    ],
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { SAHABA_ARTICLES };
