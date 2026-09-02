@@ -3736,6 +3736,193 @@ const SAHABA_ARTICLES = {
       },
     ],
   },
+  abu_musa_al_ashari: {
+    sections: [
+      {
+        h: { en: "From Yemen by Sea", bn: "সমুদ্রপথে ইয়েমেন থেকে" },
+        p: [
+          {
+            en: "Abdullah ibn Qays (RA), known by his kunyah Abu Musa, came from the Ash'ar tribe of Yemen. He accepted Islam early and his path back to the Prophet ﷺ was long: he was among those connected with the emigration to Abyssinia, and he arrived in Madinah with a boatload of his people at the same time Khaybar fell, so that the Ash'aris came into the community in a group, singing as they came that tomorrow they would meet the beloved.",
+            bn: "আবদুল্লাহ ইবনে কায়েস (রাঃ), যিনি আবু মুসা কুনিয়াতে পরিচিত, এসেছিলেন ইয়েমেনের আশআর গোত্র থেকে। ইসলাম তিনি গ্রহণ করেন গোড়ার দিকেই, কিন্তু নবীজি ﷺ-এর কাছে ফেরার পথটা ছিল লম্বা। হাবশার হিজরতের সঙ্গে তাঁর নাম জড়িয়ে আছে, আর মদিনায় তিনি পৌঁছান নিজের গোত্রের মানুষভর্তি নৌকা নিয়ে, ঠিক যখন খায়বার বিজয় হলো। আশআরিরা সমাজে ঢুকেছিল একসঙ্গে, দল বেঁধে; আসার পথে তারা গাইছিল, কাল আমরা প্রিয়জনের দেখা পাব।",
+          },
+          {
+            en: "The Prophet ﷺ described his people with words that became their banner. Sahih al-Bukhari 2486 records him saying that the Ash'aris, when their provisions run low on campaign or their families' food grows scarce in Madinah, gather everything they have onto a single cloth and divide it equally among themselves; they are of me and I am of him. A tribe was praised, permanently, for how it shared food in hard times.",
+            bn: "নবীজি ﷺ তাঁর গোত্রকে এমন ভাষায় বর্ণনা করলেন, যা তাদের পতাকা হয়ে গেল। সহিহ বুখারি ২৪৮৬-এ আছে, তিনি বলেছেন: আশআরিদের অভিযানে রসদ ফুরিয়ে এলে, বা মদিনায় তাদের পরিবারের খাবার কমে গেলে, তারা যার যা আছে সব একটা কাপড়ে জড়ো করে নিজেদের মধ্যে সমান ভাগ করে নেয়; তারা আমার, আর আমি তাদের। একটা গোটা গোত্র চিরকালের মতো প্রশংসিত হয়ে রইল কঠিন সময়ে খাবার ভাগ করার নিয়মটার জন্য।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Flute of the House of Dawud", bn: "দাউদের ঘরের এক বাঁশি" },
+        p: [
+          {
+            en: "His recitation of the Quran was one of the sounds of early Islam. Sahih al-Bukhari 5048 and Sahih Muslim 793 record the Prophet ﷺ telling him that he had been given a mizmar, a flute, from the flutes of the family of Dawud, the prophet whose voice the mountains and birds had echoed. Abu Musa answered, in one report, that had he known the Prophet ﷺ was listening he would have beautified it further.",
+            bn: "তাঁর কুরআন তিলাওয়াত ছিল প্রথম যুগের ইসলামের অন্যতম সুর। সহিহ বুখারি ৫০৪৮ ও সহিহ মুসলিম ৭৯৩-এ আছে, নবীজি ﷺ তাঁকে বলেছেন, তোমাকে দাউদের পরিবারের বাঁশিগুলোর একটা বাঁশি দেওয়া হয়েছে — সেই নবীর কণ্ঠ, পাহাড় আর পাখিরা যাঁর সঙ্গে তসবিহ পড়ত। এক বর্ণনায় আবু মুসার জবাবও আছে: জানলে যে আপনি শুনছেন, আরও সুন্দর করে পড়তাম।",
+          },
+          {
+            en: "At Awtas after Hunayn, his uncle was killed and Abu Musa killed the man who had done it, and when he reported back, the Prophet ﷺ raised his hands and prayed: O Allah, forgive Abdullah ibn Qays his sin, and admit him on the Day of Resurrection to a noble entrance. Sahih al-Bukhari 4323 preserves the du'a with his full name inside it, which is its own kind of honour.",
+            bn: "হুনাইনের পর আওতাসে তাঁর চাচা শহিদ হন, আর যে তা করেছিল আবু মুসা তাকে হত্যা করেন। ফিরে এসে খবর দিলে নবীজি ﷺ দুহাত তুলে দোয়া করলেন: হে আল্লাহ, আবদুল্লাহ ইবনে কায়েসের গুনাহ মাফ করে দিন, আর কিয়ামতের দিন তাকে সম্মানের প্রবেশপথ দিয়ে প্রবেশ করান। সহিহ বুখারি ৪৩২৩ দোয়াটা ধরে রেখেছে তাঁর পুরো নামসহ; এটাও তো একরকমের সম্মান।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Doorkeeper's Morning", bn: "দারোয়ানের সেই সকাল" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 3674 preserves a morning he spent as an unofficial gatekeeper. The Prophet ﷺ had gone to a walled garden and sat at the edge of its well, and Abu Musa stationed himself at the gate. Abu Bakr (RA) came, and the Prophet ﷺ said, admit him and give him glad tidings of Paradise. Then Umar (RA), and the same. Then Uthman (RA), and the words changed: admit him and give him glad tidings of Paradise, with a calamity that will befall him.",
+            bn: "সহিহ বুখারি ৩৬৭৪-এ তাঁর একটা সকালের কথা ধরা আছে, যেদিন তিনি নিজে থেকেই পাহারাদার বনে গিয়েছিলেন। নবীজি ﷺ একটা ঘেরা বাগানে গিয়ে কুয়ার পাড়ে বসেছিলেন, আর আবু মুসা দাঁড়িয়ে গেলেন ফটকে। আবু বকর (রাঃ) এলেন; নবীজি ﷺ বললেন, ওকে ঢুকতে দাও আর জান্নাতের সুসংবাদ দাও। তারপর উমর (রাঃ), একই কথা। তারপর উসমান (রাঃ), আর এবার কথাটা বদলাল: ঢুকতে দাও, জান্নাতের সুসংবাদ দাও — সঙ্গে এক মুসিবতের খবরও, যা তার ওপর আসবে।",
+          },
+          {
+            en: "Abu Musa lived long enough to see every clause of that morning come true, including the last one. He told the story afterwards exactly as it happened, with the ominous words about Uthman left in. A narrator who smooths nothing is worth more to the ummah than a hundred flatterers, and his reports have that character throughout.",
+            bn: "আবু মুসা এত দিন বেঁচে ছিলেন যে সেই সকালের প্রতিটা কথা সত্যি হতে দেখেছেন, শেষেরটাসহ। পরে তিনি গল্পটা বলেছেন হুবহু যেমন ঘটেছিল তেমনই — উসমানকে নিয়ে অশুভ কথাটুকুও বাদ দেননি। যে বর্ণনাকারী কিছুই মসৃণ করে না, সে উম্মতের জন্য একশ তোষামোদকারীর চেয়ে দামি। তাঁর বর্ণনাগুলোর গায়ে এই ছাপ সর্বত্র।",
+          },
+        ],
+      },
+      {
+        h: { en: "Governor and Teacher", bn: "গভর্নর ও শিক্ষক" },
+        p: [
+          {
+            en: "The Prophet ﷺ had sent him to Yemen as one of two governors alongside Muadh ibn Jabal (RA), with the instruction recorded in Sahih al-Bukhari 3038: make things easy and do not make them hard, give glad tidings and do not drive people away. Under Umar (RA) he governed Basra, and under Uthman (RA) he governed Kufa; from Basra he led armies into Persia, and cities including Isfahan fell in campaigns he commanded or joined.",
+            bn: "নবীজি ﷺ তাঁকে মুআয ইবনে জাবাল (রাঃ)-এর সঙ্গে ইয়েমেনে পাঠিয়েছিলেন দুই অঞ্চলের দুই দায়িত্বশীল করে। সহিহ বুখারি ৩০৩৮-এ সেই নির্দেশ লেখা আছে: সহজ করো, কঠিন কোরো না; সুসংবাদ দাও, মানুষ তাড়িয়ো না। উমর (রাঃ)-এর আমলে তিনি বসরার গভর্নর, উসমান (রাঃ)-এর আমলে কুফার। বসরা থেকে তিনি বাহিনী নিয়ে ঢুকেছেন পারস্যে; ইসফাহানসহ কয়েকটা শহরের পতন হয়েছে তাঁর নেতৃত্বের বা অংশ নেওয়া অভিযানে।",
+          },
+          {
+            en: "Wherever he governed, he taught. The people of Basra learned their Quran and their religion in his sittings, and the jurists count him among the handful of Companions whose legal opinions founded schools of practice in the garrison cities. The man with the beautiful voice used it for decades on the same Book, in front of people who had been Persians and pagans a few years before.",
+            bn: "যেখানেই শাসন করেছেন, সেখানেই পড়িয়েছেন। বসরার মানুষ কুরআন আর দ্বীন শিখেছে তাঁর মজলিসে বসে। ফকিহরা তাঁকে গোনেন সেই হাতেগোনা সাহাবিদের মধ্যে, যাঁদের মতামতের ওপর সেনানগরগুলোর আমলের ধারা গড়ে উঠেছিল। সুন্দর কণ্ঠের মানুষটা দশকের পর দশক সেই কণ্ঠ খরচ করেছেন একটাই কিতাবের পেছনে — এমন মানুষদের সামনে, যারা কবছর আগেও ছিল পারসিক আর পৌত্তলিক।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Hardest Assignment", bn: "সবচেয়ে কঠিন দায়িত্ব" },
+        p: [
+          {
+            en: "In the civil war after Uthman's death, both sides trusted him enough to name him arbiter for the people of Iraq at the arbitration that followed Siffin. What is agreed is that he was chosen for his neutrality and his piety, that the arbitration failed to end the discord, and that he withdrew from public life afterwards. The details beyond that are disputed in the sources, and the dispute belongs to the historians rather than to this page.",
+            bn: "উসমানের শাহাদাতের পরের গৃহযুদ্ধে দুই পক্ষই তাঁকে এতটা ভরসা করত যে সিফফিনের পরের সালিশে ইরাকবাসীর পক্ষের সালিশ করা হলো তাঁকেই। যা নিয়ে মতভেদ নেই তা এই: তাঁকে বাছা হয়েছিল নিরপেক্ষতা আর তাকওয়ার কারণে, সালিশটা বিভেদ থামাতে পারেনি, আর এরপর তিনি জনজীবন থেকে সরে যান। এর বাইরের খুঁটিনাটি নিয়ে সূত্রগুলোতে মতভেদ আছে, আর সেই বিতর্ক ঐতিহাসিকদের, এই পাতার নয়।",
+          },
+          {
+            en: "He died around the year 44 after the Hijrah. What remained of him was exactly what he had spent his life on: recitation that set the standard for the reciters of Iraq, rulings that students carried into the law books, and a body of narration marked by the honesty of a man who reported the hard parts. The flute of the family of Dawud had been put entirely at the service of the Book.",
+            bn: "তিনি ইন্তেকাল করেন হিজরি ৪৪ সনের আশপাশে। তাঁর যা রয়ে গেল, তা ঠিক সেসবই যাতে তিনি জীবনটা ঢেলেছিলেন: এমন তিলাওয়াত, যা ইরাকের কারিদের মানদণ্ড হয়ে গেল; এমন সব ফয়সালা, যা ছাত্রদের হাত ধরে ফিকহের কিতাবে উঠল; আর এমন বর্ণনার ভান্ডার, যার গায়ে লেগে আছে কঠিন অংশটুকুও বলে দেওয়া এক মানুষের সততা। দাউদের ঘরের সেই বাঁশি পুরোটাই খরচ হয়েছিল কিতাবের খেদমতে।",
+          },
+        ],
+      },
+    ],
+  },
+
+  amr_ibn_al_as: {
+    sections: [
+      {
+        h: { en: "The Strategist Comes Over", bn: "কৌশলী মানুষটা এপারে এলেন" },
+        p: [
+          {
+            en: "Amr ibn al-As (RA) spent most of the Prophet's ﷺ mission working against it, and he was good at it. It was Amr whom Quraysh sent to Abyssinia to persuade the Negus to hand over the Muslim refugees, and the failure of that embassy was one of Islam's early diplomatic victories over him. Years later, by his own account, it was the Negus himself who told him that this man was truly a prophet, and the conviction travelled home with him.",
+            bn: "আমর ইবনুল আস (রাঃ) নবীজি ﷺ-এর মিশনের বেশিরভাগ সময়টা কাটিয়েছেন তার বিরুদ্ধে কাজ করে, আর সে কাজে তিনি দক্ষও ছিলেন। মুসলিম শরণার্থীদের ফেরত আনতে কুরাইশ যাঁকে হাবশায় নাজ্জাশির দরবারে পাঠিয়েছিল, তিনি এই আমরই। সেই দূতিয়ালির ব্যর্থতা ছিল তাঁর বিপক্ষে ইসলামের প্রথম দিকের কূটনৈতিক জয়গুলোর একটা। বছর কয়েক পরে, তাঁর নিজের ভাষ্যেই, স্বয়ং নাজ্জাশি তাঁকে বলেছিলেন — এই মানুষটা সত্যিই নবী। বিশ্বাসটা তাঁর সঙ্গে দেশে ফিরেছিল।",
+          },
+          {
+            en: "He came to Madinah to pledge, and Sahih Muslim 121 records the scene in his own words. He put out his hand, then pulled it back. The Prophet ﷺ asked, what is wrong, Amr? He said he wanted to make a condition: that he be forgiven what had gone before. The answer has already comforted fourteen centuries of converts: do you not know that Islam demolishes what was before it?",
+            bn: "তিনি বাইআত করতে মদিনায় এলেন, আর সহিহ মুসলিম ১২১-এ দৃশ্যটা তাঁর নিজের জবানিতে আছে। হাত বাড়ালেন, তারপর টেনে নিলেন। নবীজি ﷺ জিজ্ঞেস করলেন, কী হলো আমর? তিনি বললেন, একটা শর্ত রাখতে চাই: আগের সব যেন মাফ হয়ে যায়। যে জবাব এল, তা চৌদ্দশ বছর ধরে নওমুসলিমদের সান্ত্বনা দিয়ে আসছে: তুমি কি জানো না, ইসলাম তার আগের সবকিছু ভেঙে গুঁড়িয়ে দেয়?",
+          },
+        ],
+      },
+      {
+        h: { en: "Trusted at Once", bn: "সঙ্গে সঙ্গেই ভরসা" },
+        p: [
+          {
+            en: "Within months of his Islam, the Prophet ﷺ gave him command of the expedition of Dhat as-Salasil, with senior Muhajirun serving under him, Abu Bakr and Umar among them by the reports. A latecomer was set over the earliest believers because the task needed his particular competence, and nobody's seniority was consulted. On that campaign Amr asked the Prophet ﷺ afterwards who was most beloved to him; Sahih al-Bukhari 3662 records the answer, Aishah, and from among men, her father.",
+            bn: "ইসলাম গ্রহণের কয়েক মাসের মধ্যেই নবীজি ﷺ তাঁকে যাতুস সালাসিল অভিযানের সেনাপতি করলেন; বর্ণনামতে তাঁর অধীনে ছিলেন প্রবীণ মুহাজিররা, আবু বকর আর উমরও। সবার পরে আসা একজনকে বসানো হলো সবার আগে ঈমান আনা মানুষদের ওপরে; কারণ কাজটার জন্য দরকার ছিল তাঁর বিশেষ দক্ষতা, আর কারও জ্যেষ্ঠতার হিসাব করা হয়নি। সেই অভিযানের পরই আমর নবীজি ﷺ-কে জিজ্ঞেস করেছিলেন, আপনার কাছে সবচেয়ে প্রিয় কে। সহিহ বুখারি ৩৬৬২-এ জবাবটা আছে: আয়েশা; আর পুরুষদের মধ্যে — তার বাবা।",
+          },
+          {
+            en: "The question was not idle. Amr admitted later that he had asked hoping to hear his own name, having read the Prophet's ﷺ warmth toward him as preference. The candour of that admission is part of why his reports are valuable: he tells stories in which he himself is corrected, and he preserved the correction as carefully as the compliment.",
+            bn: "প্রশ্নটা এমনি এমনি ছিল না। আমর পরে স্বীকার করেছেন, নিজের নামটা শোনার আশাতেই জিজ্ঞেস করেছিলেন; নবীজি ﷺ-এর উষ্ণ ব্যবহারকে তিনি নিজের প্রতি বিশেষ পক্ষপাত ভেবে নিয়েছিলেন। এই স্বীকারোক্তির খোলামেলা ভাবটাই তাঁর বর্ণনাগুলোর দামের একটা কারণ: এমন গল্পও তিনি বলেন যাতে তিনি নিজেই শুধরানো মানুষ, আর প্রশংসার মতো যত্নে শোধরানোটাও তুলে রাখেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Egypt", bn: "মিশর" },
+        p: [
+          {
+            en: "His name is fixed in history by one campaign. Under Umar (RA) he marched a small army into Egypt, took Pelusium and the fortress of Babylon, and received the surrender of Alexandria, bringing the richest province of the Byzantine world under Muslim rule. He founded Fustat, the garrison city by the Nile from which Cairo would eventually grow, and built in it the first mosque of Africa, which still bears his name.",
+            bn: "একটা অভিযানই তাঁর নাম ইতিহাসে গেঁথে দিয়েছে। উমর (রাঃ)-এর আমলে তিনি ছোট এক বাহিনী নিয়ে মিশরে ঢুকলেন, নিলেন পেলুসিয়াম আর ব্যাবিলন দুর্গ, আর আলেকজান্দ্রিয়ার আত্মসমর্পণ গ্রহণ করলেন। বাইজেন্টাইন দুনিয়ার সবচেয়ে ধনী প্রদেশটা এল মুসলিম শাসনে। নীলনদের ধারে তিনি গড়লেন সেনানগর ফুসতাত, যেখান থেকে একদিন কায়রো গজিয়ে উঠবে। আর তাতে বানালেন আফ্রিকার প্রথম মসজিদ, যা আজও তাঁর নাম বহন করে।",
+          },
+          {
+            en: "He governed Egypt for years, and the administrative choices of those years, where the capital sat, how the land tax ran, which faiths kept their churches, shaped the country for centuries. Historians of every persuasion rank him among the most capable men of his age. The Prophet ﷺ had seen that capability across the battle lines and, once it entered Islam, used it without hesitation.",
+            bn: "বছরের পর বছর তিনি মিশর শাসন করেছেন। সেই বছরগুলোর প্রশাসনিক সিদ্ধান্তগুলো, অর্থাৎ রাজধানী কোথায় বসবে, ভূমিকর কীভাবে চলবে, কোন ধর্মের মানুষ তাদের গির্জা রাখবে, দেশটার চেহারা গড়ে দিয়েছে শতাব্দীর জন্য। সব ঘরানার ঐতিহাসিকই তাঁকে তাঁর যুগের সবচেয়ে যোগ্য মানুষদের কাতারে রাখেন। নবীজি ﷺ সেই যোগ্যতা দেখেছিলেন যুদ্ধরেখার ওপার থেকেই, আর তা ইসলামে ঢোকামাত্র দ্বিধা ছাড়াই কাজে লাগিয়েছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Three Chapters of One Life", bn: "এক জীবনের তিন অধ্যায়" },
+        p: [
+          {
+            en: "The most valuable thing Amr left the ummah may be his deathbed. Sahih Muslim 121 records his son finding him weeping, his face to the wall, and his long answer: that he had lived through three states. He had hated the Prophet ﷺ more than anyone and would have gladly killed him; had he died then, he would be of the Fire. Then Allah placed Islam in his heart, and no one was more beloved to him or more honoured in his eye; had he died then, he could hope for Paradise.",
+            bn: "উম্মতের জন্য আমরের রেখে যাওয়া সবচেয়ে দামি জিনিসটা সম্ভবত তাঁর মৃত্যুশয্যা। সহিহ মুসলিম ১২১-এ আছে, ছেলে তাঁকে পেলেন কাঁদতে থাকা অবস্থায়, দেয়ালের দিকে মুখ ফেরানো। তারপর সেই দীর্ঘ জবাব: তাঁর জীবন গেছে তিনটা অবস্থার ভেতর দিয়ে। একসময় নবীজি ﷺ-কে তিনি সবার চেয়ে বেশি ঘৃণা করতেন, সুযোগ পেলে খুশিমনে হত্যাই করতেন; তখন মারা গেলে তিনি হতেন জাহান্নামের। তারপর আল্লাহ তাঁর অন্তরে ইসলাম ঢেলে দিলেন, আর তাঁর চোখে নবীজি ﷺ-এর চেয়ে প্রিয়, তাঁর চেয়ে মর্যাদাবান আর কেউ রইল না; তখন মারা গেলে জান্নাতের আশা করতে পারতেন।",
+          },
+          {
+            en: "Then came authority and its entanglements, and he no longer knew how he stood. He asked that when he died, no wailing and no fire accompany him, and that they stand at his grave for as long as it takes to slaughter a camel and divide its meat, so that he might feel companionship while he prepared his answers for the questioners. He died in Egypt around the year 43. Few Companions left so exact a map of hope and fear at the end of a large life.",
+            bn: "তারপর এল ক্ষমতা আর তার জটিল জালগুলো, আর নিজের অবস্থানটা তিনি আর বুঝে উঠতে পারছিলেন না। অসিয়ত করলেন, তাঁর মৃত্যুতে যেন বিলাপ না হয়, সঙ্গে আগুন না চলে; আর কবরের পাশে সবাই যেন ততক্ষণ দাঁড়িয়ে থাকে যতক্ষণে একটা উট জবাই করে তার গোশত ভাগ করা যায় — যাতে প্রশ্নকারীদের জবাব গোছানোর সময়টায় তিনি সঙ্গ পান। মিশরেই তিনি ইন্তেকাল করেন, ৪৩ হিজরির আশপাশে। এত বড় একটা জীবনের শেষে আশা আর ভয়ের এমন নিখুঁত মানচিত্র খুব কম সাহাবিই রেখে গেছেন।",
+          },
+        ],
+      },
+    ],
+  },
+
+  abdullah_ibn_salam: {
+    sections: [
+      {
+        h: { en: "The Scholar at the City Gate", bn: "নগরদ্বারে এক পণ্ডিত" },
+        p: [
+          {
+            en: "Al-Husayn ibn Salam was a rabbi of Banu Qaynuqa in Madinah, respected among his people for his learning in the Torah. When word spread that the awaited man had reached the city, he went out with the crowds to look. He said afterwards that when he saw the face, he knew it was not the face of a liar. Whatever tests he had prepared, the first evidence was the man himself.",
+            bn: "হুসাইন ইবনে সালাম ছিলেন মদিনার বনু কাইনুকা গোত্রের এক রাব্বি, তাওরাতের ইলমের জন্য নিজের সম্প্রদায়ে সম্মানিত। প্রতীক্ষিত মানুষটি শহরে পৌঁছেছেন — খবর ছড়িয়ে পড়লে তিনিও ভিড়ের সঙ্গে দেখতে বেরোলেন। পরে বলেছেন, মুখটা দেখামাত্র বুঝেছিলাম, এ মিথ্যাবাদীর মুখ নয়। যত পরীক্ষাই তিনি সাজিয়ে রাখুন, প্রথম প্রমাণটা ছিল মানুষটা নিজেই।",
+          },
+          {
+            en: "Sahih al-Bukhari 3329 records the questions he then put, matters he held only a prophet could answer: what is the first sign of the Hour, what is the first food of the people of Paradise, and why does a child resemble its father or its mother. The Prophet ﷺ said Jibril had just informed him of them, answered all three, and Abdullah declared the testimony of faith on the spot. The Prophet ﷺ renamed him Abdullah, servant of Allah.",
+            bn: "সহিহ বুখারি ৩৩২৯-এ আছে, এরপর তিনি প্রশ্নগুলো রাখলেন। এমন সব বিষয়, তাঁর ধারণায় যার জবাব কেবল একজন নবীই দিতে পারেন: কিয়ামতের প্রথম আলামত কী, জান্নাতিদের প্রথম খাবার কী, আর সন্তান কেন কখনো বাবার মতো, কখনো মায়ের মতো হয়? নবীজি ﷺ বললেন, এইমাত্র জিবরাইল তাঁকে এসব জানিয়ে গেছেন; তারপর তিনটারই জবাব দিলেন। আবদুল্লাহ সেখানে দাঁড়িয়েই কালিমা পড়লেন। নবীজি ﷺ তাঁর নতুন নাম রাখলেন আবদুল্লাহ — আল্লাহর বান্দা।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Test of His People", bn: "নিজের লোকদের পরীক্ষা" },
+        p: [
+          {
+            en: "He knew his community, and he arranged a demonstration before announcing anything. He asked the Prophet ﷺ to conceal his conversion and to question the Jews about him first. They answered that he was their best man and the son of their best man, their most learned and the son of their most learned. Then Abdullah came out and called on them to accept Islam, and the same mouths said he was their worst and the son of their worst.",
+            bn: "নিজের সম্প্রদায়কে তিনি চিনতেন, তাই ঘোষণার আগে একটা প্রমাণ সাজিয়ে নিলেন। নবীজি ﷺ-কে অনুরোধ করলেন, তাঁর ইসলাম গ্রহণের কথাটা আপাতত গোপন রাখুন, আর আগে ইহুদিদের কাছে তাঁর সম্পর্কে জিজ্ঞেস করুন। তারা বলল, তিনি আমাদের সেরা মানুষ, সেরা মানুষের ছেলে; আমাদের সবচেয়ে জ্ঞানী, সবচেয়ে জ্ঞানীর ছেলে। তখন আবদুল্লাহ বেরিয়ে এসে তাদের ইসলামের দাওয়াত দিলেন। আর সেই একই মুখগুলো বলল, সে আমাদের নিকৃষ্টজন, নিকৃষ্টজনের ছেলে।",
+          },
+          {
+            en: "The reversal took minutes, and it was the point of the exercise. He had made his people testify to his standing before they knew what he had done, so that everyone in Madinah could measure what their words were worth afterwards. It cost him his community, his position and his old life, and the record shows no sign that he looked back.",
+            bn: "উল্টে যেতে সময় লাগল কয়েক মিনিট, আর গোটা আয়োজনের উদ্দেশ্যই ছিল সেটা দেখানো। কী ঘটেছে তা জানার আগেই তিনি নিজের লোকদের দিয়ে তাঁর মর্যাদার সাক্ষ্য দিইয়ে নিয়েছিলেন, যাতে পরে তাদের কথার দাম কতটুকু, মদিনার সবাই তা মেপে নিতে পারে। এর দাম তিনি দিয়েছেন নিজের সম্প্রদায়, নিজের অবস্থান আর পুরনো জীবনটা দিয়ে। অথচ পেছন ফিরে তাকিয়েছেন, এমন কোনো চিহ্ন বর্ণনায় নেই।",
+          },
+          {
+            en: "His learning did not retire when he converted; it changed employers. He became one of the people the Companions themselves consulted about the earlier scriptures, able to say from the inside what the Torah actually contained against what was claimed for it. The Quran speaks in 3:113 of a party among the People of the Book who stand reciting the verses of Allah in the night, and the commentators name men like him when they explain who was meant.",
+            bn: "ইসলাম গ্রহণের পর তাঁর ইলম অবসরে যায়নি; কেবল মালিক বদলেছে। আগের কিতাবগুলো নিয়ে খোদ সাহাবিরাও যাঁদের কাছে জিজ্ঞেস করতেন, তিনি হয়ে উঠলেন তাঁদের একজন — ভেতর থেকে বলে দিতে পারতেন তাওরাতে আসলে কী আছে, আর তার নামে কী চালানো হচ্ছে। কুরআন ৩:১১৩-এ আহলে কিতাবের এমন এক দলের কথা বলে, যারা রাতে দাঁড়িয়ে আল্লাহর আয়াত তিলাওয়াত করে। কারা উদ্দিষ্ট, তা ব্যাখ্যার সময় মুফাসসিররা তাঁর মতো মানুষদের নামই নেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Witness from the Children of Israel", bn: "বনি ইসরাইলের এক সাক্ষী" },
+        p: [
+          {
+            en: "Sahih Muslim 2483 records Sa'd ibn Abi Waqqas (RA) saying that he never heard the Prophet ﷺ say of anyone walking on the earth that he is of the people of Paradise, except of Abdullah ibn Salam, and that 46:10 came down concerning him: the verse that speaks of a witness from the Children of Israel who testified to the like of the revelation and believed, while others were too arrogant.",
+            bn: "সহিহ মুসলিম ২৪৮৩-এ আছে, সাদ ইবনে আবি ওয়াক্কাস (রাঃ) বলেছেন: জমিনে হেঁটে বেড়াচ্ছে এমন কারও সম্পর্কে নবীজি ﷺ-কে জান্নাতি বলতে শুনিনি, একমাত্র আবদুল্লাহ ইবনে সালাম ছাড়া। তিনি আরও বলেছেন, ৪৬:১০ নাজিল হয়েছে তাঁর ব্যাপারেই — যে আয়াত বলছে বনি ইসরাইলের এক সাক্ষীর কথা, যে এই ওহির অনুরূপের সাক্ষ্য দিয়ে ঈমান আনল, অথচ অন্যরা অহংকার করে রইল।",
+          },
+          {
+            en: "Sahih al-Bukhari 3813 adds his dream: a meadow, a pillar of iron in it, and at its top a handhold. He was told to climb, could not at first, then a servant lifted his garment from behind and he climbed and seized the handhold, and woke still holding it. The Prophet ﷺ interpreted it: the meadow is Islam, the pillar is its pillar, and the handhold is the most trustworthy handhold; he would remain holding it until he died.",
+            bn: "সহিহ বুখারি ৩৮১৩ জুড়ে দেয় তাঁর একটা স্বপ্ন: একটা সবুজ বাগান, তার মাঝে লোহার একটা স্তম্ভ, আর তার মাথায় একটা হাতল। তাঁকে বলা হলো উঠতে; প্রথমে পারলেন না, তারপর এক খাদেম পেছন থেকে তাঁর কাপড় তুলে ধরল, আর তিনি উঠে হাতলটা মুঠোয় নিলেন — ঘুম ভাঙল তখনো সেটা ধরা অবস্থায়। নবীজি ﷺ ব্যাখ্যা করলেন: বাগানটা ইসলাম, স্তম্ভটা ইসলামের স্তম্ভ, আর হাতলটা সেই সবচেয়ে মজবুত হাতল; মৃত্যু পর্যন্ত তিনি ওটা ধরেই থাকবেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Counsel in the Storm", bn: "ঝড়ের মধ্যে উপদেশ" },
+        p: [
+          {
+            en: "He lived through the discord that followed Uthman's caliphate, and his voice in those days was consistently on the side of restraint. The reports have him standing before the crowds besieging Uthman and warning them against drawing the sword, telling them that the sword of discord, once unsheathed among them, would not be put away. He had read the histories of a scattered people; he recognised the opening moves.",
+            bn: "উসমানের খিলাফতের পরের ফিতনার কালটা তিনি চোখে দেখেছেন, আর সেই দিনগুলোতে তাঁর কণ্ঠ বরাবর ছিল সংযমের পক্ষে। বর্ণনায় আছে, উসমানকে ঘেরাও করা জনতার সামনে দাঁড়িয়ে তিনি তলোয়ার টানার বিরুদ্ধে সতর্ক করেছেন; বলেছেন, ফিতনার তলোয়ার একবার তোমাদের মাঝে খাপমুক্ত হলে আর খাপে ফিরবে না। ছিন্নভিন্ন হয়ে যাওয়া এক জাতির ইতিহাস তিনি পড়েছিলেন; খেলার প্রথম চালগুলো তিনি চিনতেন।",
+          },
+          {
+            en: "He died in Madinah around the year 43 after the Hijrah. His life answers a question that hangs over every believer with learning: what is scholarship for? He had spent decades mastering a scripture, and when what the scripture pointed to stood at the city gate, he followed the pointing rather than defending his position. The knowledge was the ladder, and he did not mistake it for the destination.",
+            bn: "তিনি মদিনায় ইন্তেকাল করেন হিজরি ৪৩ সনের আশপাশে। ইলমওয়ালা প্রতিটা মুমিনের মাথার ওপর যে প্রশ্নটা ঝোলে, তাঁর জীবন তার জবাব: ইলম আসলে কীসের জন্য? দশকের পর দশক তিনি একটা কিতাব আয়ত্ত করেছিলেন। তারপর সেই কিতাব যাঁর দিকে ইশারা করছিল, তিনি যখন নগরদ্বারে এসে দাঁড়ালেন, আবদুল্লাহ নিজের পদ-মর্যাদা আগলে না রেখে ইশারাটার পিছু নিলেন। ইলম ছিল মই; মইটাকে তিনি গন্তব্য ভেবে বসেননি।",
+          },
+        ],
+      },
+    ],
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { SAHABA_ARTICLES };
