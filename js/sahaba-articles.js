@@ -6253,6 +6253,420 @@ const SAHABA_ARTICLES = {
       },
     ],
   },
+  abu_dujana_simak_ibn_kharashah: {
+    sections: [
+      {
+        h: { en: "The Warrior of Banu Sa'idah", bn: "বনু সায়িদার যোদ্ধা" },
+        p: [
+          {
+            en: "Simak ibn Kharashah (RA), known to history by his kunyah Abu Dujana, was a man of Banu Sa'idah, a clan of the Khazraj in Madinah. He entered Islam with the Ansar who made their city a home for the Prophet ﷺ, and the biographers count him among the men who fought at Badr. He held no office and left no wealth. What the books preserve of him is almost entirely courage, concentrated in a handful of scenes so vivid that fourteen centuries have not dimmed them.",
+            bn: "সিমাক ইবনে খারাশা (রাঃ), ইতিহাস যাঁকে চেনে কুনিয়াত আবু দুজানা নামে, ছিলেন মদিনার খাযরাজ গোত্রের বনু সায়িদার মানুষ। যে আনসাররা নবীজি ﷺ-কে নিজেদের শহরে ঠাঁই দিয়েছিলেন, তিনি তাঁদেরই একজন। জীবনীকাররা তাঁকে বদরের যোদ্ধাদের মধ্যেও গোনেন। কোনো পদে বসেননি, ধনসম্পদও রেখে যাননি। বইপত্রে তাঁর যা আছে, তার প্রায় পুরোটাই সাহস; গুটিকয় দৃশ্যে জমাট বাঁধা সেই সাহসের রং চৌদ্দশ বছরেও ফিকে হয়নি।"
+          },
+          {
+            en: "Among his people he was known by a strange signal. He owned a red headband, and he did not wear it every day. When Abu Dujana tied the red band on, the Ansar knew what it meant: he had resolved to fight until he was killed or the enemy broke. A man who reserves a piece of cloth for the day he expects to die has already settled his account with the world, and Madinah understood the sign long before Uhud made it famous.",
+            bn: "নিজের লোকদের কাছে তাঁর একটা অদ্ভুত সংকেত ছিল। তাঁর ছিল লাল কাপড়ের এক পট্টি, রোজ পরতেন না। আবু দুজানা যেদিন মাথায় লাল পট্টি বাঁধতেন, আনসাররা বুঝে নিতেন আজ তিনি মরণপণ করেছেন; হয় নিজে পড়বেন, নয় শত্রু ভাঙবে। যে মানুষ মৃত্যুর দিনের জন্য আলাদা করে এক টুকরো কাপড় তুলে রাখে, দুনিয়ার সঙ্গে তার হিসাব আগেই চুকে গেছে। উহুদ এই সংকেতকে বিখ্যাত করার অনেক আগে থেকেই মদিনা তা চিনত।"
+          }
+        ]
+      },
+      {
+        h: { en: "A Sword and Its Right", bn: "তরবারি ও তার হক" },
+        p: [
+          {
+            en: "Sahih Muslim 2470 preserves the scene that fixed his place in the ummah's memory. At Uhud the Prophet ﷺ held out a sword and asked who would take it from him. Hands stretched from every side, each man saying, I will, I will. Then he asked who would take it with its right, and the same hands hesitated, because a right unnamed is a price unknown. Simak ibn Kharashah stepped forward and said he would take it with its right, and the Prophet ﷺ gave it to him, and with it he split the skulls of the idolaters.",
+            bn: "সহিহ মুসলিম ২৪৭০-এ সেই দৃশ্য আছে, যা উম্মাহর স্মৃতিতে তাঁর জায়গা পাকা করে দিয়েছে। উহুদের দিন নবীজি ﷺ একখানা তরবারি তুলে ধরে জিজ্ঞেস করলেন, আমার কাছ থেকে এটা কে নেবে? চারদিক থেকে হাত বাড়ল, সবাই বলছে, আমি, আমি। এবার তিনি জিজ্ঞেস করলেন, এর হক আদায়ের শর্তে কে নেবে? সেই হাতগুলোই থমকে গেল; শর্ত না জেনে দায় নেয় কে? সিমাক ইবনে খারাশা এগিয়ে এসে বললেন, আমি এর হকসহ নেব। নবীজি ﷺ তাঁর হাতে তরবারি দিলেন, আর সেই তরবারি দিয়ে তিনি মুশরিকদের মাথা ফাটালেন।"
+          },
+          {
+            en: "Ibn Hisham's sirah records the question the hadith compresses. Abu Dujana asked what its right was, and the Prophet ﷺ answered that its right was to strike the enemy with it until it bent. That is a condition, not an honour. Others had reached for the sword as a gift; Abu Dujana accepted it as a contract, and the difference between the two is the whole lesson. The sirah writers add that men watched him that day to see how the contract would be paid, and he did not keep them waiting.",
+            bn: "হাদিসে যা সংক্ষেপে এসেছে, ইবনে হিশামের সিরাতে সেই প্রশ্নটা খোলা আছে। আবু দুজানা জিজ্ঞেস করেছিলেন, এর হক কী? নবীজি ﷺ বললেন, শত্রুকে মারতে মারতে তরবারি বেঁকে যাওয়া পর্যন্ত মারা। এ তো সম্মান নয়, শর্ত। অন্যরা তরবারির দিকে হাত বাড়িয়েছিলেন উপহার ভেবে; আবু দুজানা নিলেন চুক্তি হিসেবে। এই দুইয়ের ফারাকটাই আসল শিক্ষা। সিরাত লেখকরা যোগ করেন, সেদিন লোকে তাকিয়ে ছিল চুক্তিটা কীভাবে শোধ হয় দেখার জন্য। তিনি কাউকে অপেক্ষায় রাখেননি।"
+          }
+        ]
+      },
+      {
+        h: { en: "A Strut in Its One Place", bn: "দেমাকি চালের একটাই জায়গা" },
+        p: [
+          {
+            en: "Then came the headband. Ibn Hisham relates that Abu Dujana drew out his red band, tied it on, and began to walk between the two armies with a slow, swaggering stride, the walk of a man displaying himself before a fight. Arrogance was hateful to the Prophet ﷺ in every form, and the companions knew it, yet he did not rebuke the strut. He said that this was a gait Allah hates, except in this place.",
+            bn: "এরপর পট্টির পালা। ইবনে হিশাম লিখেছেন, আবু দুজানা লাল পট্টিটা বের করে মাথায় বাঁধলেন, তারপর দুই বাহিনীর মাঝখান দিয়ে হাঁটতে লাগলেন ধীর, দেমাকি চালে; লড়াইয়ের আগে নিজেকে জাহির করার চাল। অহংকার নবীজি ﷺ-র কাছে সব রূপেই ঘৃণার জিনিস, সাহাবিরা তা জানতেন। তবু এই চাল দেখে তিনি ধমক দিলেন না। বললেন, এমন চলন আল্লাহ অপছন্দ করেন, কেবল এই জায়গাটা ছাড়া।"
+          },
+          {
+            en: "The exception teaches more than the rule. Islam did not abolish the fighting man's pride; it confined it to the one ground where it serves something other than the self. In the marketplace that walk is a disease of the heart; between the ranks at Uhud, with the enemy watching, it was a weapon aimed at their morale. The scholars have drawn the same point from this scene ever since: the believer's traits are not destroyed, they are assigned their place, and a place can turn a fault into a service.",
+            bn: "নিয়মের চেয়ে ব্যতিক্রমটাই এখানে বড় শিক্ষক। ইসলাম যোদ্ধার তেজ মুছে দেয়নি; বেঁধে দিয়েছে সেই এক ময়দানে, যেখানে তেজ নিজের জন্য নয়, দ্বীনের কাজে লাগে। বাজারে ওই চলন দিলের ব্যাধি, আর উহুদের দুই কাতারের মাঝে, শত্রুর চোখের সামনে, ওটাই তাদের মনোবল ভাঙার হাতিয়ার। আলিমরা এই দৃশ্য থেকে বরাবর একই কথা তুলেছেন: মুমিনের স্বভাব ধ্বংস করা হয় না, স্বভাবকে তার জায়গা চিনিয়ে দেওয়া হয়; জায়গা ঠিক থাকলে দোষও খেদমতে লেগে যায়।"
+          }
+        ]
+      },
+      {
+        h: { en: "His Back for a Shield", bn: "পিঠ দিয়ে ঢাল" },
+        p: [
+          {
+            en: "When the Muslim ranks broke and the day turned, Abu Dujana's courage changed direction. Ibn Hisham describes him bending over the Prophet ﷺ, making his own back a shield, while arrows fell into it and he did not move. A man fighting can answer blows; a man shielding can only absorb them, and absorbing them silently for someone else is the higher courage of the two. The red band had announced a man ready to die killing; over the Prophet ﷺ he proved ready to die standing still.",
+            bn: "মুসলিমদের কাতার ভেঙে দিন যখন উল্টে গেল, আবু দুজানার সাহস তখন দিক বদলাল। ইবনে হিশামের বর্ণনায়, তিনি নবীজি ﷺ-র ওপর ঝুঁকে নিজের পিঠকে বানালেন ঢাল; তিরের পর তির সেই পিঠে বিঁধছে, তিনি নড়ছেন না। যে লড়ে, সে আঘাতের জবাব দিতে পারে; যে আগলে রাখে, তাকে আঘাত শুধু সইতে হয়। আরেকজনের জন্য নীরবে সয়ে যাওয়াটাই দুই সাহসের মধ্যে বড়। লাল পট্টি জানিয়েছিল, মানুষটা মারতে মারতে মরতে রাজি। নবীজি ﷺ-র ওপর ঝুঁকে তিনি দেখালেন, স্থির দাঁড়িয়ে মরতেও রাজি।"
+          },
+          {
+            en: "The sirah writers preserve one more stroke. In the press of the battle he raised the sword over a figure urging the enemy on, then saw it was a woman and withheld the blow, saying he honoured the Prophet's ﷺ sword too much to strike a woman with it. The sword's right was to strike until it bent, yet its right was not everything the arm could reach. The man Madinah knew for battle fury carried, inside the fury, a working sense of what the weapon in his hand was for.",
+            bn: "সিরাত লেখকরা আরেকটা রেখা এঁকে রেখেছেন। যুদ্ধের ভিড়ে শত্রুদের তাতিয়ে তোলা এক মূর্তির ওপর তিনি তরবারি তুললেন, তারপর দেখলেন সে এক নারী, আর হাত নামিয়ে নিলেন। বললেন, রাসুল ﷺ-র তরবারির এত কদর করি যে তা দিয়ে কোনো নারীকে মারব না। তরবারির হক ছিল বেঁকে যাওয়া পর্যন্ত মারা, কিন্তু হাত যত দূর পৌঁছায় সবটাই তো আর হক নয়। যুদ্ধের রোষের জন্য মদিনা যাঁকে চিনত, সেই রোষের ভেতরেও কাজ করছিল টনটনে এক বোধ: হাতের অস্ত্রটা আসলে কীসের জন্য।"
+          }
+        ]
+      },
+      {
+        h: { en: "Yamamah", bn: "ইয়ামামা" },
+        p: [
+          {
+            en: "Abu Dujana outlived the Prophet ﷺ and carried his courage into the wars that followed. At Yamamah the Muslims faced Musaylimah the Liar in the fiercest fighting the young ummah had known, and the historians place Abu Dujana among those who forced their way into the walled garden where Musaylimah's men made their final stand. There he was killed, in the twelfth year after the Hijrah. The man who had taken a sword on the condition of striking until it bent paid the condition in full, years after accepting it.",
+            bn: "নবীজি ﷺ-র ইন্তেকালের পরও আবু দুজানা বেঁচে ছিলেন, আর সেই সাহস নিয়েই নেমেছিলেন পরের যুদ্ধগুলোতে। ইয়ামামায় মুসলিমদের মুখোমুখি মিথ্যাবাদী মুসাইলিমা; তরুণ উম্মাহ এত ভয়ংকর লড়াই আগে দেখেনি। ইতিহাসবিদরা লিখেছেন, মুসাইলিমার লোকেরা যে দেয়ালঘেরা বাগানে শেষ ঘাঁটি গেড়েছিল, সেখানে ঢুকে পড়া দলটিতে আবু দুজানাও ছিলেন। সেখানেই, হিজরির বারো সনে, তিনি শহিদ হন। বেঁকে যাওয়া পর্যন্ত মারার শর্তে যিনি তরবারি নিয়েছিলেন, বছর কয়েক পরে তিনি শর্তটা পুরোপুরি শোধ করলেন।"
+          },
+          {
+            en: "He narrated little and governed nothing, and yet the books cannot tell the story of Uhud without him. Teachers return to Abu Dujana when they need to show that sincerity can live inside ferocity, and that the measure of a strong man in Islam is what he does with his strength when the Prophet ﷺ is behind him and the arrows are in front. The red headband still asks a question every generation answers for itself: what have you set aside, and for which day?",
+            bn: "হাদিস বর্ণনা করেছেন সামান্যই, শাসনের চেয়ারে বসেননি কখনো, অথচ আবু দুজানাকে বাদ দিয়ে উহুদের গল্প বলাই যায় না। শিক্ষকরা তাঁর কাছে ফেরেন, যখন দেখাতে হয় প্রচণ্ডতার ভেতরেও ইখলাস বাঁচতে পারে। ইসলামে শক্তিমানের মাপ হলো, নবীজি ﷺ পেছনে আর তির সামনে থাকলে সে তার শক্তি দিয়ে কী করে। লাল পট্টিটা আজও প্রতিটি প্রজন্মকে একই প্রশ্ন করে যায়: আপনি কী তুলে রেখেছেন, আর কোন দিনটার জন্য?"
+          }
+        ]
+      }
+    ]
+  },
+  hanzala_ibn_abi_amir: {
+    sections: [
+      {
+        h: { en: "A House Divided", bn: "এক ঘরে দুই পথ" },
+        p: [
+          {
+            en: "Hanzala ibn Abi Amir (RA) was a young man of the Aws in Madinah, and his household held one of the sharpest divides in the sirah. His father, Abu Amir, had been a religious figure of standing before Islam, and when the Prophet ﷺ arrived he refused the message, left the city in anger, and attached himself to Quraysh. The sirah writers record him at Uhud on the enemy side, calling on his old tribesmen to abandon their Prophet ﷺ, and being answered with curses by the very people he expected to follow him.",
+            bn: "হানজালা ইবনে আবু আমের (রাঃ) ছিলেন মদিনার আউস গোত্রের তরুণ, আর তাঁর ঘরের ভেতর দিয়েই গেছে সিরাতের অন্যতম তীক্ষ্ণ ভাগরেখা। বাবা আবু আমের ইসলামের আগে ধর্মকর্মের মানুষ বলে সমীহ পেতেন। নবীজি ﷺ মদিনায় এলে তিনি দাওয়াত ফিরিয়ে দিলেন, রাগে শহর ছাড়লেন, গিয়ে ভিড়লেন কুরাইশের দলে। সিরাত লেখকরা লিখেছেন, উহুদের দিন তিনি শত্রুপক্ষে দাঁড়িয়ে নিজের গোত্রের লোকদের ডাকছিলেন নবীজি ﷺ-কে ছেড়ে আসতে; যাদের অনুসরণ আশা করেছিলেন, তারাই জবাবে তাঁকে অভিশাপ দিল।"
+          },
+          {
+            en: "The son took the opposite road with his whole heart. Hanzala believed, prayed, and grew up inside the first community of Madinah while his father campaigned against it, and the books give no report of the son ever wavering toward the father's side. Islam cut through households in that generation, and it asked of some believers a loyalty that ran against their own blood. What makes Hanzala's story endure is that this obedience, tested at home for years, was about to be tested in a single night.",
+            bn: "ছেলে হাঁটলেন উল্টো পথে, পুরো দিল দিয়ে। বাবা যখন মদিনার প্রথম জামাতের বিরুদ্ধে ছুটছেন, হানজালা তখন সেই জামাতের ভেতরেই ঈমান নিয়ে, নামাজ নিয়ে বড় হচ্ছেন। ছেলে কখনো বাবার দিকে হেলে পড়েছেন, এমন কোনো বর্ণনা বইপত্রে নেই। সেই প্রজন্মে ইসলাম ঘরের মাঝখান দিয়ে রেখা টেনেছে; কারও কারও কাছে চেয়েছে এমন আনুগত্য, যা নিজের রক্তের বিপরীতে যায়। হানজালার গল্প টিকে আছে এই কারণে যে বছরের পর বছর ঘরে পরীক্ষা দেওয়া সেই আনুগত্যের সামনে অপেক্ষা করছিল এক রাতের শেষ পরীক্ষা।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Wedding Night", bn: "বাসররাতের ডাক" },
+        p: [
+          {
+            en: "On the night before Uhud, Hanzala was married. The sirah writers relate that he asked the Prophet's ﷺ permission to remain that night in Madinah with his bride, and permission was given. The army prepared for battle while a young man began his married life inside the city, with leave from the Messenger of Allah ﷺ himself. Nothing in the arrangement was hidden or blameworthy; he was exactly where he had been permitted to be, doing what had been made lawful for him that very night.",
+            bn: "উহুদের আগের রাতে হানজালার বিয়ে হলো। সিরাত লেখকরা লিখেছেন, তিনি নবীজি ﷺ-র কাছে অনুমতি চাইলেন রাতটা মদিনায় নববধূর কাছে থাকার, অনুমতি মিলল। বাহিনী যখন যুদ্ধের প্রস্তুতি নিচ্ছে, এক তরুণ তখন শহরের ভেতরে সংসার শুরু করছেন, খোদ আল্লাহর রাসুল ﷺ-র দেওয়া ছুটি নিয়ে। এতে লুকোছাপার কিছু ছিল না, দোষেরও কিছু না। যেখানে থাকার অনুমতি পেয়েছিলেন, ঠিক সেখানেই ছিলেন; যা সেই রাতেই তাঁর জন্য হালাল হয়েছে, তা-ই করছিলেন।"
+          },
+          {
+            en: "At dawn came the call to arms, and Hanzala's answer is his whole measure. He rose and went straight out to the fighting without pausing for the ritual bath that the night obliged. The sirah writers keep the detail exactly as it is and add nothing to it: the call came, and he left. A man may love what is lawful and still leave it instantly when the summons of Allah and His Messenger ﷺ arrives. That morning walk from the bridal chamber to the battle line is his biography compressed.",
+            bn: "ভোরে এল যুদ্ধের ডাক, আর সেই ডাকের জবাবটাই হানজালার গোটা মাপ। তিনি উঠলেন, সোজা বেরিয়ে গেলেন লড়াইয়ে; রাতের কারণে যে গোসল ফরজ হয়েছিল, তার জন্যও থামলেন না। সিরাত লেখকরা খুঁটিনাটিটুকু যেমন আছে তেমনই রেখেছেন, এক বর্ণও বাড়াননি: ডাক এল, তিনি বেরোলেন। হালাল জিনিস ভালোবেসেও মানুষ তা এক লহমায় ছেড়ে যেতে পারে, যখন আল্লাহ ও তাঁর রাসুল ﷺ-র তলব আসে। বাসরঘর থেকে যুদ্ধের কাতার পর্যন্ত সেই সকালের হাঁটাটুকুই তাঁর জীবনী, সংক্ষেপে।"
+          }
+        ]
+      },
+      {
+        h: { en: "One Morning of War", bn: "এক সকালের যুদ্ধ" },
+        p: [
+          {
+            en: "Ibn Hisham traces his path through the field. Hanzala fought his way to Abu Sufyan, the commander of the Quraysh army, brought him down, and had the better of him, when Shaddad ibn al-Aswad struck Hanzala and killed him. He had been a bridegroom by night and was a martyr on the field by morning. The battle gave him no long career of campaigns to be remembered by; his fighting life lasted one morning, and it ended within reach of the enemy's own commander.",
+            bn: "ময়দানে তাঁর পথটা ইবনে হিশাম ধরে ধরে দেখিয়েছেন। হানজালা লড়তে লড়তে পৌঁছে গেলেন কুরাইশ বাহিনীর সেনাপতি আবু সুফিয়ানের কাছে, তাঁকে ফেলে দিলেন, প্রায় কাবু করে এনেছেন, এমন সময় শাদ্দাদ ইবনুল আসওয়াদ আঘাত হেনে হানজালাকে শহিদ করল। রাতে যিনি বর, সকালে তিনি ময়দানের শহিদ। দীর্ঘ কোনো যুদ্ধজীবন তাঁর স্মৃতি হয়ে থাকার সুযোগ পায়নি। তাঁর লড়াইয়ের আয়ু এক সকাল, আর তা শেষ হয়েছে খোদ শত্রু-সেনাপতির নাগালের মধ্যে।"
+          },
+          {
+            en: "No one on the field that morning knew what his death had just earned. To the eye he was one more of the believers cut down in the hour the ranks broke, a young man whose war had lasted from dawn to midmorning. The sirah writers record no dying speech from him. The honour that would attach itself to his name for all time was announced not by men at all, but from where the Prophet ﷺ alone could see.",
+            bn: "সেই সকালে ময়দানের কেউ জানত না, এই মৃত্যু এইমাত্র কী কামাই করে নিল। চোখের দেখায় তিনি কাতার ভাঙার লগ্নে পড়ে যাওয়া মুমিনদের আর একজন; এক তরুণ, যাঁর যুদ্ধ ভোর থেকে বেলা ওঠা পর্যন্ত। সিরাত লেখকরা তাঁর মুখের কোনো শেষ কথা লেখেননি। যে সম্মান তাঁর নামের সঙ্গে চিরকালের জন্য জুড়ে যাবে, তার ঘোষণা মানুষের কাছ থেকে আসেইনি; এসেছে সেখান থেকে, যেখানে কেবল নবীজি ﷺ-র চোখ পৌঁছাত।"
+          }
+        ]
+      },
+      {
+        h: { en: "Washed by the Angels", bn: "ফেরেশতাদের গোসল" },
+        p: [
+          {
+            en: "After the battle the Prophet ﷺ told his companions that he had seen the angels washing Hanzala between the sky and the earth, and he directed them to ask his wife. She told them that he had gone out at the call in a state that required the ritual bath, with no time to perform it. That, the report concludes, is why the angels washed him. The account comes through the sirah writers and the later collections rather than the two Sahihs, and the ummah has received it from them generation after generation.",
+            bn: "যুদ্ধের পর নবীজি ﷺ সাহাবিদের বললেন, তিনি দেখেছেন আসমান-জমিনের মাঝখানে ফেরেশতারা হানজালাকে গোসল করাচ্ছেন; বললেন, তাঁর স্ত্রীকে জিজ্ঞেস করো। স্ত্রী জানালেন, ডাক শুনে তিনি এমন অবস্থায় বেরিয়ে গিয়েছিলেন যাতে গোসল ফরজ ছিল, করার সময় পাননি। বর্ণনার উপসংহার: এ কারণেই ফেরেশতারা তাঁকে গোসল করিয়েছেন। ঘটনাটা এসেছে সিরাত লেখকদের হাত ধরে ও পরের যুগের সংকলনগুলোতে, সহিহ দুটিতে নয়; আর উম্মাহ প্রজন্মের পর প্রজন্ম তাঁদের কাছ থেকেই তা গ্রহণ করে এসেছে।"
+          },
+          {
+            en: "From that day he has been called Ghasil al-Mala'ikah, the one washed by the angels. Consider what the title certifies. The bath he missed was not neglect but obedience; he set aside even a lawful joy and a duty's appointed washing because the summons to fight had arrived. Allah answered the unfinished purification with a purification no living man receives. The believer's smallest circumstances are seen and weighed, and nothing sincere goes missing. That is the teaching the ummah reads out of one dawn in one household.",
+            bn: "সেদিন থেকে তাঁর নাম গাসিলুল মালাইকা, ফেরেশতাদের গোসল করানো মানুষ। খেয়াল করুন, উপাধিটা কীসের সনদ। যে গোসল বাদ পড়ল, তা অবহেলায় নয়, আনুগত্যে; হালাল আনন্দ আর ফরজ গোসলের সময়টুকুও তিনি সরিয়ে রাখলেন, কারণ জিহাদের তলব এসে গেছে। অসমাপ্ত সেই পবিত্রতার জবাবে আল্লাহ দিলেন এমন পবিত্রতা, যা কোনো জীবিত মানুষের ভাগ্যে জোটে না। বান্দার ছোট্ট অবস্থাটুকুও দেখা হয়, ওজন করা হয়; খাঁটি কিছুই হারিয়ে যায় না। এক ঘরের এক ভোর থেকে উম্মাহ এই শিক্ষাই পড়ে নেয়।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Name That Remained", bn: "যে নাম রয়ে গেল" },
+        p: [
+          {
+            en: "The title outlived him in his own line. The historians relate that his son Abdullah ibn Hanzala, born of the bride of that single night, was known in Madinah all his life as the son of the one washed by the angels, and grew into a man of standing among the next generation. A marriage of one night, ended by martyrdom, still planted a household in Islam. The father who had fought against the Prophet ﷺ, the historians add, died far from Madinah, alone in his refusal.",
+            bn: "উপাধিটা তাঁর নিজের বংশেই তাঁকে ছাড়িয়ে বেঁচে রইল। ইতিহাসবিদরা লিখেছেন, সেই এক রাতের কনের গর্ভে জন্ম নেওয়া ছেলে আবদুল্লাহ ইবনে হানজালা সারা জীবন মদিনায় পরিচিত ছিলেন ফেরেশতাদের গোসল করানো মানুষটির ছেলে বলে, আর পরের প্রজন্মে মর্যাদার আসনে পৌঁছেছিলেন। এক রাতের সংসার, শাহাদাতে শেষ, তবু ইসলামের মাটিতে একটা ঘর ঠিকই পুঁতে দিয়ে গেল। আর যে বাবা নবীজি ﷺ-র বিরুদ্ধে লড়েছিলেন, ইতিহাসবিদরা যোগ করেন, তিনি মদিনা থেকে বহু দূরে মারা যান, নিজের অস্বীকারে একা।"
+          },
+          {
+            en: "Hanzala's story is told wherever the sirah is taught, because it needs no embellishment to do its work. A believer's ordinary night and extraordinary morning sit side by side, and heaven's response to both is on record. The scholars warn against adding details the sources do not give, for the account as the sirah writers left it is already complete: the call of Allah outweighed every pull of the world, and the angels themselves confirmed the exchange in the sight of the Prophet ﷺ.",
+            bn: "সিরাত যেখানেই পড়ানো হয়, হানজালার গল্প সেখানে আসে; কারণ কাজ করার জন্য এ গল্পের কোনো রংচড়ানো লাগে না। এক মুমিনের সাধারণ রাত আর অসাধারণ সকাল পাশাপাশি রাখা, আর দুটোর জবাবই আসমান থেকে নথিভুক্ত। আলিমরা সাবধান করেন, সূত্রে যা নেই তা যেন কেউ না জোড়ে; সিরাত লেখকরা যেভাবে রেখে গেছেন সেভাবেই ঘটনা সম্পূর্ণ। আল্লাহর ডাক দুনিয়ার সব টানকে হারিয়ে দিল, আর সেই বিনিময়ের সিলমোহর দিলেন ফেরেশতারাই, নবীজি ﷺ-র চোখের সামনে।"
+          }
+        ]
+      }
+    ]
+  },
+  amr_ibn_al_jamuh: {
+    sections: [
+      {
+        h: { en: "The Chief of Banu Salamah", bn: "বনু সালামার সরদার" },
+        p: [
+          {
+            en: "Amr ibn al-Jamuh (RA) was an elderly chief of Banu Salamah, a clan of the Khazraj in Madinah, and he walked with a pronounced limp. His sons entered Islam ahead of him and had pledged at al-Aqabah, while the old man stayed where age, rank, and habit held him. Like the nobles of his people before Islam, he kept a wooden idol in his house, honouring it, perfuming it, and looking to it for good, even as his own household moved into the new faith around him.",
+            bn: "আমর ইবনুল জামুহ (রাঃ) ছিলেন মদিনার খাযরাজ গোত্রের বনু সালামার বয়োজ্যেষ্ঠ সরদার; হাঁটতেন স্পষ্ট খুঁড়িয়ে। ছেলেরা বাবার আগে ইসলাম কবুল করেছেন, আকাবায় বাইআতও দিয়ে এসেছেন; আর বৃদ্ধ মানুষটি আটকে আছেন সেখানেই, যেখানে বয়স, মর্যাদা আর অভ্যাস তাঁকে ধরে রেখেছে। ইসলামের আগের অভিজাতদের রীতি মেনে ঘরে রেখেছিলেন কাঠের এক মূর্তি; তাকে সম্মান দিতেন, খুশবু মাখাতেন, তার কাছে মঙ্গল চাইতেন। অথচ তাঁর নিজের ঘরই তখন তাঁর চারপাশে নতুন দ্বীনে ঢুকে পড়ছে।"
+          },
+          {
+            en: "Ibn Ishaq tells the story of how the idol lost him. The young men of the clan, his own son among them, would slip in at night, carry the idol out, and pitch it head first into a refuse pit. Each morning Amr would find it, wash it, perfume it, and set it back in its place, grieving at the insult and threatening a vengeance he never managed. The routine repeated until the old chief armed the god, hanging his sword upon it and telling it to defend itself if it held any good.",
+            bn: "মূর্তিটা কীভাবে তাঁকে হারাল, সে গল্প ইবনে ইসহাক বলেছেন। গোত্রের তরুণরা, তাঁর নিজের ছেলেও সেই দলে, রাতে চুপিচুপি ঢুকে মূর্তিটা তুলে নিয়ে নোংরার গর্তে উপুড় করে ফেলে দিত। সকালে আমর সেটা খুঁজে পেতেন, ধুয়ে খুশবু মাখিয়ে আবার জায়গায় বসাতেন; অপমানে কাতর হতেন, প্রতিশোধের হুমকিও দিতেন, যা আর দেওয়া হয়ে উঠত না। এভাবেই চলল, শেষে বুড়ো সরদার দেবতাকেই অস্ত্র ধরালেন; নিজের তরবারি তার গায়ে ঝুলিয়ে বললেন, তোর মধ্যে ভালো কিছু থাকলে নিজেকে রক্ষা করিস।"
+          }
+        ]
+      },
+      {
+        h: { en: "What the Pit Taught", bn: "নোংরার গর্ত যা শেখাল" },
+        p: [
+          {
+            en: "The next morning the sword was gone and the idol lay in a pit, roped to a dead dog. Ibn Ishaq records the effect. Amr looked at the thing he had worshipped, tied to carrion, unable to protect itself or even keep the blade lent to it, and the argument was over. He spoke verses declaring that had it been a god it would not have shared a pit with a dog, praised Allah for the rescue, and entered Islam with the whole of his remaining strength.",
+            bn: "পরদিন সকালে তরবারি নেই, আর মূর্তি পড়ে আছে গর্তে, মরা কুকুরের সঙ্গে দড়িতে বাঁধা। এরপর কী হলো, ইবনে ইসহাক তা লিখে রেখেছেন। আমর তাকিয়ে দেখলেন, যাকে এতদিন পুজেছেন সে বাঁধা পড়ে আছে মড়ার সঙ্গে; নিজেকে বাঁচাতে পারে না, ধার দেওয়া তরবারিটুকুও রাখতে পারে না। তর্ক ওখানেই শেষ। তিনি কবিতা বলে গেলেন, খোদা হলে কুকুরের সঙ্গে এক গর্তে থাকতিস না; আল্লাহর শোকর করলেন এই উদ্ধারের জন্য, আর বাকি জীবনের সবটুকু জোর নিয়ে ইসলামে ঢুকলেন।"
+          },
+          {
+            en: "The sons had not lectured their father; they had arranged for the idol to testify against itself. It is one of the sirah's gentlest scenes of da'wah inside a family: patient, wordless, and aimed at the old man's reason rather than his pride. What began as the young men's rough joke ended as a proof he could not answer, and the chief who had grieved for the honour of a piece of wood spent the rest of his life grieving only that he could not do more for Islam.",
+            bn: "ছেলেরা বাবাকে ওয়াজ শোনায়নি; ব্যবস্থা করেছিল যেন মূর্তি নিজেই নিজের বিরুদ্ধে সাক্ষী দেয়। ঘরের ভেতরে দাওয়াতের এমন নরম দৃশ্য সিরাতে কমই আছে: ধৈর্যের, নীরব, বুড়ো মানুষটির অহংকারে নয়, তাঁর বিবেচনায় তাক করা। তরুণদের যে কাণ্ড শুরু হয়েছিল দুষ্টুমি হয়ে, শেষ হলো এমন প্রমাণে যার কোনো জবাব তাঁর কাছে ছিল না। এক টুকরো কাঠের ইজ্জতের জন্য যিনি কাতর হতেন, সেই সরদারের বাকি জীবনের একটাই আফসোস রইল, ইসলামের জন্য আরও বেশি কিছু করতে পারছেন না।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Excuse He Refused", bn: "যে ওজর তিনি নেননি" },
+        p: [
+          {
+            en: "When the army was mustering for Uhud, his sons urged their father to stay: he was old, the limp was real, and no law of Allah required a lame man to march. He would not hear it, and took the dispute to the Prophet ﷺ himself, complaining that his sons wanted to hold him back from the battle. By Allah, he said, I hope to tread with this limp of mine in Paradise. Musnad Ahmad preserves the sentence, and it has never needed a commentary.",
+            bn: "উহুদের জন্য বাহিনী যখন জড়ো হচ্ছে, ছেলেরা বাবাকে বোঝাল থেকে যেতে: বয়স হয়েছে, খোঁড়া পা-ও সত্যি, আর আল্লাহর কোনো বিধানই খোঁড়া মানুষকে যুদ্ধে যেতে বাধ্য করে না। তিনি শুনলেন না; নালিশ নিয়ে গেলেন সোজা নবীজি ﷺ-র কাছে, ছেলেরা তাঁকে যুদ্ধ থেকে আটকে রাখতে চায়। বললেন, আল্লাহর কসম, আশা করি এই খোঁড়া পা নিয়েই জান্নাতের মাটিতে হাঁটব। মুসনাদে আহমাদ বাক্যটি ধরে রেখেছে; এর কোনো ব্যাখ্যা আজও লাগেনি।"
+          },
+          {
+            en: "The reports relate that the Prophet ﷺ told him Allah had excused him and no fighting was due from him, and told the sons not to prevent him, for perhaps Allah would grant him martyrdom. Both answers stood together: the exemption was true and the longing was true, and the Prophet ﷺ ruled in favour of the longing. The reports add that Amr took his weapons and prayed that Allah would not return him to his family. He was asking, in plain words, for what others feared.",
+            bn: "বর্ণনাগুলো বলছে, নবীজি ﷺ তাঁকে বললেন, আল্লাহ আপনাকে ওজর দিয়েছেন, লড়াই আপনার ওপর ফরজ নয়; আর ছেলেদের বললেন, ওকে আটকে রেখো না, হয়তো আল্লাহ ওকে শাহাদাত দেবেন। দুটো জবাবই পাশাপাশি দাঁড়িয়ে রইল। ওজরও সত্য, আকুতিও সত্য; নবীজি ﷺ রায় দিলেন আকুতির পক্ষে। বর্ণনায় আরও আছে, আমর অস্ত্র তুলে নিয়ে দোয়া করলেন, আল্লাহ যেন তাঁকে পরিবারের কাছে ফিরিয়ে না দেন। লোকে যা ভয় পায়, তিনি সোজা ভাষায় সেটাই চেয়ে নিলেন।"
+          }
+        ]
+      },
+      {
+        h: { en: "Whole in Paradise", bn: "জান্নাতে নিখুঁত পায়ে" },
+        p: [
+          {
+            en: "At Uhud he charged with the rest and was killed, and his son Khallad was martyred in the same battle. The old man's part in the fighting was brief, as it had to be, but its meaning was not. On a field remembered for the shaking of strong men, one of the firmest hearts belonged to a grandfather with a limp who had argued his way past a lawful excuse. Madinah buried its dead in grief, and among those graves lay the answer to his du'a.",
+            bn: "উহুদে তিনি সবার সঙ্গে ঝাঁপিয়ে পড়লেন এবং শহিদ হলেন; একই যুদ্ধে শহিদ হলেন তাঁর ছেলে খাল্লাদও। লড়াইয়ে বৃদ্ধের ভূমিকা ছিল সংক্ষিপ্ত, তা ছাড়া উপায়ও ছিল না, কিন্তু তার মানে সংক্ষিপ্ত নয়। যে ময়দান মনে রাখা হয় শক্ত মানুষদের টলে যাওয়ার জন্য, সেখানে সবচেয়ে অটল দিলগুলোর একটি ছিল খোঁড়া পায়ের এক দাদার, যিনি বৈধ ওজরকে তর্ক করে পাশ কাটিয়ে এসেছিলেন। মদিনা শোকে তার শহিদদের দাফন করল, আর সেই কবরগুলোর মধ্যেই শুয়ে রইল তাঁর দোয়ার জবাব।"
+          },
+          {
+            en: "The reports relate that the Prophet ﷺ spoke of seeing him walking in Paradise with his lameness gone, sound and whole. Set the two sentences side by side and the exchange is complete: the man asked to enter Paradise limping, and the answer described him there with nothing left to limp on. He had offered Allah a broken instrument and an unbroken intention, and the reports show which of the two Allah repaired. Teachers of the sirah rarely tell one half of this story without the other.",
+            bn: "বর্ণনাগুলোতে আছে, নবীজি ﷺ বলেছেন তিনি তাঁকে জান্নাতে হাঁটতে দেখেছেন; খোঁড়ামি নেই, সুস্থ, নিখুঁত। বাক্য দুটি পাশাপাশি রাখুন, লেনদেনটা সম্পূর্ণ। মানুষটি চেয়েছিলেন খুঁড়িয়েই জান্নাতে ঢুকতে, আর জবাব তাঁকে দেখাল সেখানে খোঁড়ানোর মতো কিছুই আর অবশিষ্ট নেই। আল্লাহকে তিনি দিয়েছিলেন ভাঙা এক হাতিয়ার আর অটুট এক নিয়ত; কোনটা আল্লাহ মেরামত করে দিলেন, বর্ণনাই তা দেখিয়ে দেয়। সিরাতের শিক্ষকরা এ গল্পের এক অর্ধেক বলে অন্যটা প্রায় কখনো বাদ দেন না।"
+          }
+        ]
+      },
+      {
+        h: { en: "Two Men in One Grave", bn: "এক কবরে দুজন" },
+        p: [
+          {
+            en: "He was buried at Uhud with Abdullah ibn Amr ibn Haram (RA), the two laid together in one grave as the many dead of that day were buried. The reports note that the pairing was no accident of the shovel: the two men were bound in life, for Amr's wife Hind was Abdullah's sister, and the brothers-in-law had gone out to the battle together. What the day had joined in martyrdom, the burial party laid side by side that day.",
+            bn: "উহুদে তাঁকে দাফন করা হলো আবদুল্লাহ ইবনে আমর ইবনে হারাম (রাঃ)-এর সঙ্গে, এক কবরে দুজন; সেদিনের এত শহিদকে এভাবেই দাফন করা হয়েছিল। বর্ণনাগুলো ধরিয়ে দেয়, এই জোড় কোদালের কাকতাল নয়। দুজন জীবনেও বাঁধা ছিলেন: আমরের স্ত্রী হিন্দ ছিলেন আবদুল্লাহর বোন, আর দুই বেয়াই যুদ্ধেও বেরিয়েছিলেন একসঙ্গে। শাহাদাত যাঁদের এক করে দিল, দাফনের লোকেরা সেদিন তাঁদের শোয়াল পাশাপাশি।"
+          },
+          {
+            en: "Jabir (RA) later moved his own father to a grave apart, and later accounts, which the historians pass on with differing chains, tell of Amr's grave being disturbed long afterwards and the buried man found as if newly laid; the books relate this as a marvel, and a careful teller leaves it hedged as the books do. What needs no hedging is the life. Wherever scholars discuss the excused who refuse their excuse, Amr ibn al-Jamuh is the example: the man whom Allah exempted, who begged his way into the ranks, and whose limp is remembered only because he offered it to Allah.",
+            bn: "জাবির (রাঃ) অবশ্য পরে নিজের বাবাকে তুলে নিয়ে আলাদা কবরে দাফন করেন। আর পরের কালের কিছু বিবরণ, যা ইতিহাসবিদরা ভিন্ন ভিন্ন সনদে এগিয়ে দিয়েছেন, বলে বহু বছর পরে আমরের কবরের মাটি খোঁড়া পড়লে তাঁর দেহ পাওয়া গিয়েছিল যেন সদ্য শোয়ানো। বইপত্র একে বলে বিস্ময়ের ঘটনা, আর সতর্ক বর্ণনাকারী সেটুকু বইয়ের মতোই সাবধানে রাখেন। যেটুকুতে কোনো সাবধানতা লাগে না, তা হলো জীবনটাই। ওজরপ্রাপ্ত মানুষ ওজর ফিরিয়ে দিলে কেমন হয়, আলিমরা যেখানেই সে আলোচনা করেন, উদাহরণ একজনই: আমর ইবনুল জামুহ। আল্লাহ যাঁকে ছাড় দিয়েছিলেন, যিনি কাতারে ঢোকার অনুমতি ভিক্ষা করে নিয়েছিলেন, আর যাঁর খোঁড়া পা মনে রাখা হয়েছে শুধু এই কারণে যে তিনি সেটাই আল্লাহকে সঁপে দিয়েছিলেন।"
+          }
+        ]
+      }
+    ]
+  },
+  abdullah_ibn_amr_ibn_haram: {
+    sections: [
+      {
+        h: { en: "A Naqib at al-Aqabah", bn: "আকাবার এক নকিব" },
+        p: [
+          {
+            en: "Abdullah ibn Amr ibn Haram (RA) was a noble of the Khazraj, of Banu Salamah. When the men of Madinah pledged themselves to the Prophet ﷺ by night at al-Aqabah, he appointed twelve naqibs, leaders answerable for their people, and Abdullah was among them. He came to that secret meeting with his young son Jabir, one of the youngest present, so that the boy saw with his own eyes the covenant that would bring the Prophet ﷺ to their city.",
+            bn: "আবদুল্লাহ ইবনে আমর ইবনে হারাম (রাঃ) ছিলেন খাযরাজের অভিজাত, বনু সালামার মানুষ। মদিনার লোকেরা যে রাতে আকাবায় নবীজি ﷺ-র হাতে বাইআত নিল, তিনি বারোজন নকিব ঠিক করে দিলেন; নিজ নিজ গোত্রের জিম্মাদার নেতা। আবদুল্লাহ ছিলেন সেই বারোজনের একজন। গোপন সেই বৈঠকে তিনি সঙ্গে এনেছিলেন কিশোর ছেলে জাবিরকে, উপস্থিতদের মধ্যে প্রায় সবচেয়ে ছোট। যে অঙ্গীকার নবীজি ﷺ-কে তাঁদের শহরে আনবে, ছেলেটি তা দেখল নিজের চোখে।"
+          },
+          {
+            en: "The biographers count him among the men of Badr, and his standing in Madinah was that of a man consulted and trusted. At home he headed a large household of daughters with Jabir as the one son, and he carried debts, as farmers of date orchards often did. Rank, land, children, and obligations: he was woven into his city on every side, which is exactly what he would spend the eve of Uhud carefully unweaving.",
+            bn: "জীবনীকাররা তাঁকে বদরের যোদ্ধাদের মধ্যে গোনেন, আর মদিনায় তাঁর অবস্থান ছিল এমন মানুষের, যাঁর কাছে পরামর্শ চাওয়া হয়, যাঁকে ভরসা করা হয়। ঘরে তিনি অনেকগুলো মেয়ের বাবা, ছেলে বলতে ওই একজনই, জাবির। ঘাড়ে ঋণও ছিল, খেজুরবাগানের চাষিদের যেমন প্রায়ই থাকে। মর্যাদা, জমি, সন্তান, দায়দেনা; শহরের সঙ্গে তিনি জড়িয়ে ছিলেন চারদিক থেকে। আর উহুদের আগের সন্ধ্যাটা তিনি কাটাবেন ঠিক সেই জালই সাবধানে খুলতে খুলতে।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Night Before Uhud", bn: "উহুদের আগের রাত" },
+        p: [
+          {
+            en: "On the eve of the battle he called Jabir and told him plainly that he expected to be among the first killed in the morning. He instructed him to settle his debts and to care for his sisters, and he charged the boy to stay behind, for the household of daughters would need a head if the worst came. The collections record the scene through Jabir himself, who never forgot that his father had spoken of his own death as a matter of arrangements.",
+            bn: "যুদ্ধের আগের সন্ধ্যায় তিনি জাবিরকে ডেকে সোজাসুজি বললেন, তাঁর ধারণা কাল সকালে যারা প্রথম শহিদ হবে, তিনি তাদেরই একজন। বলে দিলেন, ঋণগুলো শোধ কোরো, বোনদের দেখে রেখো। ছেলেকে ভার দিলেন ঘরে থেকে যাওয়ার; সবচেয়ে খারাপটা ঘটলে এতগুলো মেয়ের সংসারের একজন অভিভাবক তো লাগবে। সংকলনগুলো দৃশ্যটা রেখেছে খোদ জাবিরের জবানে, যিনি কোনোদিন ভোলেননি যে বাবা নিজের মৃত্যুর কথা বলেছিলেন নেহাত গোছগাছের সুরে।"
+          },
+          {
+            en: "There was no despair in the instructions and no theatre. A believer who senses his end does not stop planning; he plans differently, moving his care from himself to the people who will remain. Abdullah's last night was spent on daughters, debts, and a son's duties, the unglamorous half of martyrdom that the books preserve precisely because Jabir transmitted it. When morning came he went out with the army, leaving behind a house in order and a boy with a list.",
+            bn: "নির্দেশগুলোতে হতাশা ছিল না, নাটকও ছিল না। শেষ ঘনিয়ে আসছে টের পেলে মুমিন পরিকল্পনা থামায় না; পরিকল্পনার মুখটা ঘুরিয়ে দেয়, নিজের ভাবনা থেকে সরে যারা রয়ে যাবে তাদের দিকে। আবদুল্লাহর শেষ রাত খরচ হলো মেয়েদের, ঋণের আর এক ছেলের কর্তব্যের হিসাবে; শাহাদাতের সেই সাদামাটা অর্ধেক, যা বইয়ে টিকে আছে কারণ জাবির তা পৌঁছে দিয়েছেন। সকাল হলে তিনি বাহিনীর সঙ্গে বেরিয়ে গেলেন; পেছনে রইল গোছানো এক সংসার, আর ফর্দ হাতে এক কিশোর।"
+          }
+        ]
+      },
+      {
+        h: { en: "Among the First to Fall", bn: "প্রথম শহিদদের একজন" },
+        p: [
+          {
+            en: "It happened as he had said. Jabir related that his father was among the first of the Muslims slain at Uhud, and the enemy mutilated his body. When the dead were brought back, Jabir wept over him and kept uncovering his face, and the people kept forbidding him. Sahih al-Bukhari 1244 records what cut through their forbidding: the Prophet ﷺ did not forbid him, and said that weeping or not, the angels kept shading the martyr with their wings until he was lifted.",
+            bn: "যেমন বলেছিলেন, তেমনই হলো। জাবির জানিয়েছেন, উহুদে মুসলিমদের মধ্যে যাঁরা প্রথম শহিদ হন, তাঁর বাবা তাঁদেরই একজন; শত্রুরা তাঁর দেহ ক্ষতবিক্ষত করেছিল। শহিদদের ফিরিয়ে আনা হলে জাবির বাবার ওপর পড়ে কাঁদছিলেন, বারবার মুখের কাপড় সরাচ্ছিলেন, আর লোকেরা বারবার নিষেধ করছিল। সহিহ বুখারি ১২৪৪-এ আছে, কীসে সেই নিষেধ থেমে গেল: নবীজি ﷺ নিষেধ করলেন না, বললেন, কাঁদো বা না-কাঁদো, ফেরেশতারা ডানা মেলে শহিদকে ছায়া দিয়েই যাচ্ছিলেন, যতক্ষণ না তোমরা তাঁকে তুলে নিলে।"
+          },
+          {
+            en: "The sentence holds two mercies at once. Grief was not rebuked: a son's tears over a father's broken body needed no defence before the Prophet ﷺ, whatever the people around him assumed. And the unseen was unveiled exactly where the seen was most unbearable: over a mutilated corpse stood a canopy of wings. The family was allowed to keep both truths together, the wound and the honour, and neither was asked to cancel the other.",
+            bn: "এক বাক্যে দুটি রহমত ধরা আছে। শোককে ধমক দেওয়া হয়নি: বাবার ছিন্নভিন্ন দেহের ওপর ছেলের চোখের পানির জন্য নবীজি ﷺ-র সামনে কোনো কৈফিয়ত লাগেনি, আশপাশের লোকে যা-ই ভাবুক। আর দেখার জগৎ যেখানে সবচেয়ে অসহ্য, ঠিক সেখানেই খুলে দেওয়া হলো না-দেখা জগতের পর্দা: ক্ষতবিক্ষত এক লাশের ওপর ডানার চাঁদোয়া। পরিবারটিকে দুটো সত্যই একসঙ্গে রাখতে দেওয়া হলো, ক্ষত আর সম্মান; একটাকে দিয়ে অন্যটা মুছে ফেলতে বলা হয়নি।"
+          }
+        ]
+      },
+      {
+        h: { en: "Spoken to Without a Veil", bn: "পর্দা ছাড়া কথা" },
+        p: [
+          {
+            en: "Jami at-Tirmidhi preserves what the Prophet ﷺ later told Jabir, a report at-Tirmidhi graded hasan gharib. Allah had never spoken to anyone except from behind a veil, but He spoke to Jabir's father directly and told him to wish. Abdullah wished to be returned to the world to be killed in His cause a second time. The answer was that the word had already gone forth from Him that the dead do not return, and Abdullah asked that those left behind be told of his state.",
+            bn: "নবীজি ﷺ পরে জাবিরকে যা বলেছিলেন, জামে তিরমিজি তা ধরে রেখেছে; বর্ণনাটিকে তিরমিজি বলেছেন হাসান গরিব। আল্লাহ কারও সঙ্গে পর্দার আড়াল ছাড়া কথা বলেননি, কিন্তু জাবিরের বাবার সঙ্গে বললেন সরাসরি, আর বললেন, চাও। আবদুল্লাহ চাইলেন দুনিয়ায় ফিরে গিয়ে তাঁর রাস্তায় আরেকবার শহিদ হতে। জবাব এল, তাঁর পক্ষ থেকে ফয়সালা আগেই হয়ে গেছে, মৃতরা আর ফেরে না। তখন আবদুল্লাহ আরজ করলেন, পেছনে যারা রয়ে গেছে, তাদের যেন তাঁর এই হালের খবর জানিয়ে দেওয়া হয়।"
+          },
+          {
+            en: "The report ties his story to 3:169, which forbids thinking of those killed in Allah's cause as dead: they are alive with their Lord, receiving provision. Countless believers recite that verse about martyrs in general. For one household in Madinah it arrived as news of their own father, a man whose debts they were still settling while the Quran described his provision. The distance between the verse and the grave it answered was the width of one family's courtyard.",
+            bn: "বর্ণনাটি তাঁর কাহিনিকে বেঁধে দেয় 3:169 আয়াতের সঙ্গে, যেখানে আল্লাহর রাস্তায় নিহতদের মৃত ভাবতেই নিষেধ করা হয়েছে: তারা জীবিত, তাদের রবের কাছে রিজিক পাচ্ছে। অগণিত মুমিন আয়াতটি পড়েন শহিদদের কথা ভেবে, সাধারণভাবে। কিন্তু মদিনার একটি ঘরে আয়াতটি পৌঁছেছিল খোদ তাদের বাবার খবর হয়ে; কুরআন যখন তাঁর রিজিকের বর্ণনা দিচ্ছে, ছেলেমেয়েরা তখনো তাঁর ঋণ শোধ করছে। আয়াত আর যে কবরের জবাব সে দিল, দুয়ের দূরত্ব ছিল এক পরিবারের উঠোনটুকুই।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Debts and the Grave", bn: "ঋণ আর কবর" },
+        p: [
+          {
+            en: "The debts he had spoken of on his last night were real, and the creditors would not wait. Sahih al-Bukhari tells how Jabir asked the Prophet ﷺ for help when the harvest could not cover what was owed. The Prophet ﷺ walked around the heaps of dates and prayed for blessing in them, then told Jabir to pay. Every creditor was paid in full, and the dates that remained were as many as before. The father's list, worked through by the son, ended in a miracle neither had asked to see.",
+            bn: "শেষ রাতে যে ঋণের কথা বলে গিয়েছিলেন, তা সত্যিই ছিল, আর পাওনাদাররা অপেক্ষা করতে রাজি ছিল না। সহিহ বুখারিতে আছে, ফলনে দেনা মিটছিল না বলে জাবির নবীজি ﷺ-র কাছে সাহায্য চাইলেন। নবীজি ﷺ খেজুরের স্তূপগুলোর চারপাশে হাঁটলেন, তাতে বরকতের দোয়া করলেন, তারপর জাবিরকে বললেন, এবার শোধ করো। প্রত্যেক পাওনাদার পুরো পাওনা পেল, আর যা খেজুর রয়ে গেল তা আগের মতোই। বাবার ফর্দ, ছেলের হাতে মেটানো; শেষ হলো এমন এক মুজিজায়, যা দেখতে কেউ চায়ওনি।"
+          },
+          {
+            en: "He had first been buried in a shared grave among the many dead of that day; the sirah writers identify the man beside him as Amr ibn al-Jamuh (RA), his sister's husband. Sahih al-Bukhari records that six months later Jabir, whose heart would not settle, brought his father out to bury him in a grave apart, and found him as on the day he was laid down, but for a small change at his ear. The naqib of Banu Salamah remains what he was on his last night: a man whose affairs, in this world and the next, were found in order.",
+            bn: "প্রথমে তাঁর দাফন হয়েছিল সেদিনের অগণিত শহিদের ভিড়ে, ভাগাভাগি এক কবরে; সিরাত লেখকরা জানান, পাশের মানুষটি ছিলেন তাঁর বোনের স্বামী আমর ইবনুল জামুহ (রাঃ)। সহিহ বুখারিতে আছে, ছয় মাস পরে জাবিরের মন কিছুতেই শান্ত হচ্ছিল না বলে তিনি বাবাকে তুলে আলাদা কবরে দাফন করেন, আর পান শোয়ানোর দিনটির মতোই অবিকল; শুধু কানের কাছে সামান্য বদল। বনু সালামার নকিব তাঁর শেষ রাতে যেমন ছিলেন, তেমনই রয়ে গেছেন: এমন এক মানুষ, দুনিয়া ও আখেরাত দুই জায়গাতেই যাঁর হিসাব মিলল গোছানো অবস্থায়।"
+          }
+        ]
+      }
+    ]
+  },
+  al_bara_ibn_malik_al_ansari: {
+    sections: [
+      {
+        h: { en: "Umm Sulaym's Other Son", bn: "উম্মে সুলাইমের আরেক ছেলে" },
+        p: [
+          {
+            en: "al-Bara ibn Malik al-Ansari (RA) was the son of Umm Sulaym bint Milhan (RA) and the brother of Anas ibn Malik (RA), the boy who served the Prophet ﷺ for ten years. One household of Banu Najjar in Madinah thus gave the ummah two very different gifts: a brother who watched the Prophet ﷺ at home and transmitted what he saw, and a brother who spent himself on battlefields and left barely any narrations at all.",
+            bn: "আল-বারা ইবনে মালিক আল-আনসারি (রাঃ) ছিলেন উম্মে সুলাইম বিনতে মিলহান (রাঃ)-এর ছেলে, আর নবীজি ﷺ-র দশ বছরের খাদেম আনাস ইবনে মালিক (রাঃ)-এর ভাই। মদিনার বনু নাজ্জারের একটি ঘর থেকেই উম্মাহ পেল দুই একেবারে আলাদা উপহার: এক ভাই নবীজি ﷺ-কে ঘরের ভেতরে দেখেছেন আর যা দেখেছেন তা পৌঁছে দিয়েছেন; আরেক ভাই নিজেকে খরচ করেছেন যুদ্ধের ময়দানে, হাদিস রেখে গেছেন কালেভদ্রে একটা-দুটো।"
+          },
+          {
+            en: "The books are careful to keep him distinct from al-Bara ibn Azib (RA), the narrator of the Aws who taught Kufa; the two share a name and nothing else of their stories. This al-Bara is remembered through what others said of him and did with him. He fought in the campaigns with the Prophet ﷺ once he came of age, and among the companions his name became shorthand for a courage that commanders had to manage rather than encourage.",
+            bn: "বইপত্র তাঁকে সযত্নে আলাদা রাখে আল-বারা ইবনে আজিব (রাঃ) থেকে, আউস গোত্রের সেই বর্ণনাকারী, যিনি কুফাকে শিখিয়েছেন; দুজনের মিল কেবল নামে, কাহিনিতে নয়। এই বারাকে মনে রাখা হয়েছে অন্যরা তাঁর সম্পর্কে যা বলেছেন আর তাঁকে নিয়ে যা করেছেন, তা দিয়ে। বয়স হওয়ার পর তিনি নবীজি ﷺ-র সঙ্গে অভিযানগুলোতে লড়েছেন, আর সাহাবিদের মধ্যে তাঁর নামটাই হয়ে দাঁড়িয়েছিল এমন সাহসের আরেক নাম, যাকে উসকে দেওয়া নয়, সামলে রাখাই ছিল সেনাপতিদের কাজ।"
+          }
+        ]
+      },
+      {
+        h: { en: "An Oath Allah Would Honour", bn: "যে কসম আল্লাহ রাখতেন" },
+        p: [
+          {
+            en: "Jami at-Tirmidhi records the Prophet's ﷺ words about men the world overlooks: many a dishevelled one, covered in dust, whom no one heeds, who, if he swore an oath by Allah, Allah would fulfil it. Among them, he said, is al-Bara ibn Malik. The description was not flattery softened for a friend; it was a portrait. The man it named was exactly the sort of figure the world's eyes slide past unregarded, and he stood exactly where the hadith placed him, high beyond argument.",
+            bn: "দুনিয়া যাদের চোখে তোলে না, তাদের নিয়ে নবীজি ﷺ-র কথা জামে তিরমিজিতে আছে: কত উসকোখুসকো, ধুলোমাখা মানুষ, যার দিকে কেউ ফিরেও তাকায় না; অথচ সে আল্লাহর নামে কসম করলে আল্লাহ তা পূরণ করে দেন। তিনি বললেন, আল-বারা ইবনে মালিক তাদেরই একজন। কথাটা বন্ধুর জন্য নরম করা প্রশংসা নয়, রীতিমতো ছবি। যাঁর নাম নেওয়া হলো, দেখতে তিনি ঠিক তেমনই, লোকের চোখে যিনি পড়েনই না; আর দাঁড়িয়ে ঠিক সেখানে, হাদিস যাঁকে বসিয়েছে তর্কের ঊর্ধ্বে।"
+          },
+          {
+            en: "The companions took the hadith at full value. The historians relate that in the hardest hours of battle men would turn to al-Bara and ask him to swear by his Lord, trusting that the oath of this ragged man moved what armies could not. Think what an inversion that is. Rank with Allah and rank with people had come apart completely in one person, and the community around him knew which of the two to lean on when the fighting turned against them.",
+            bn: "সাহাবিরা হাদিসটিকে পুরো দামে নিয়েছিলেন। ইতিহাসবিদরা লিখেছেন, যুদ্ধের সবচেয়ে কঠিন মুহূর্তে লোকেরা বারার দিকে ফিরে বলত, আপনার রবের নামে কসম করুন; ভরসা এই যে জীর্ণ কাপড়ের এই মানুষটির কসম তা-ই নাড়াতে পারে, যা গোটা বাহিনী পারে না। ভাবুন, কেমন উল্টে যাওয়া হিসাব। আল্লাহর কাছে মর্যাদা আর মানুষের কাছে মর্যাদা এক মানুষের মধ্যে পুরোপুরি আলাদা হয়ে গিয়েছিল; আর লড়াই বিপক্ষে গেলে কোনটার ওপর হেলান দিতে হয়, তাঁর চারপাশের জামাত তা জানত।"
+          }
+        ]
+      },
+      {
+        h: { en: "Over the Wall at Yamamah", bn: "ইয়ামামার দেয়াল টপকে" },
+        p: [
+          {
+            en: "At Yamamah the war against Musaylimah the Liar reached its crisis when his men fell back into a walled garden and barred its gate. Behind that wall stood thousands; whoever entered first would be alone among them all. The historians relate that al-Bara told his companions to lift him on a shield and throw him over the wall. They did, and he dropped down alone into the enemy's stronghold with the gate shut behind him and the army waiting outside.",
+            bn: "ইয়ামামায় মিথ্যাবাদী মুসাইলিমার বিরুদ্ধে যুদ্ধ চরমে উঠল, যখন তার লোকেরা পিছু হটে এক দেয়ালঘেরা বাগানে ঢুকে ফটক আটকে দিল। দেয়ালের ওপারে হাজারে হাজারে লোক; যে প্রথম ঢুকবে, সে তাদের সবার মাঝে একা। ইতিহাসবিদরা লিখেছেন, বারা সঙ্গীদের বললেন, আমাকে ঢালের ওপর তুলে দেয়ালের ওপারে ছুড়ে দাও। তারা তা-ই করল। তিনি একা নেমে পড়লেন শত্রুর ঘাঁটির ভেতরে; পেছনে বন্ধ ফটক, বাইরে অপেক্ষায় গোটা বাহিনী।"
+          },
+          {
+            en: "He fought his way through to the gate and opened it, and the army poured in; the place earned its name among the Muslims as the garden of death. al-Bara was carried out of that day bearing wounds beyond easy counting, and the reports describe a long recovery under care. The numbers the accounts attach vary and need not be repeated; the shape of the deed does not vary at all. One man volunteered to be thrown, alone, at thousands, so that a gate would open.",
+            bn: "লড়তে লড়তে তিনি ফটক পর্যন্ত পৌঁছে সেটা খুলে দিলেন, আর বাহিনী ঢুকে পড়ল স্রোতের মতো; মুসলিমদের মুখে মুখে জায়গাটার নাম হয়ে গেল মৃত্যুর বাগান। সেদিনের ময়দান থেকে বারাকে বের করে আনা হয় এত জখম নিয়ে যে সহজে গোনা যায় না; বর্ণনাগুলো বলে, সেবা-শুশ্রূষায় সারতে লেগেছিল লম্বা সময়। বিবরণে জখমের যে সংখ্যাগুলো আসে তা একেক রকম, না বললেও চলে; কিন্তু কাজটার চেহারা একটুও এদিক-ওদিক হয় না। একটা মানুষ স্বেচ্ছায় নিজেকে ছুড়ে দিতে বলল, একা, হাজারো শত্রুর মাঝখানে, যেন একটা ফটক খোলে।"
+          }
+        ]
+      },
+      {
+        h: { en: "Too Daring to Command", bn: "সেনাপতি করা বারণ" },
+        p: [
+          {
+            en: "The historians relate that Umar (RA) wrote that al-Bara should not be placed in command of an army, for fear his daring would destroy the men who followed him. It reads at first like a censure and is in fact a classification. Courage of his kind was a fire the state could not put in charge of others, and the same caliph who withheld the banner from him never withheld the battlefield. The ummah used him precisely, the way one uses a blade too sharp for every hand.",
+            bn: "ইতিহাসবিদরা লিখেছেন, উমর (রাঃ) লিখে পাঠিয়েছিলেন, বারাকে যেন কোনো বাহিনীর সেনাপতি করা না হয়; ভয় এই যে তাঁর দুঃসাহস তাঁর অনুসারীদের ডুবিয়ে দেবে। প্রথম পড়ায় ভর্ৎসনা মনে হয়, আসলে এ হলো মানুষ চেনা। ও রকম সাহস এমন আগুন, রাষ্ট্র যাকে অন্যদের ভার দিতে পারে না। যে খলিফা তাঁর হাতে পতাকা দেননি, তিনিই কিন্তু ময়দান থেকে তাঁকে কোনোদিন সরাননি। উম্মাহ তাঁকে কাজে লাগিয়েছে মেপে মেপে, যেভাবে মানুষ কাজে লাগায় এমন ধারালো অস্ত্র, যা সব হাতে মানায় না।"
+          },
+          {
+            en: "Set him beside his brother and the household comes into focus. For Anas the Prophet ﷺ had prayed for wealth, children, and blessing, and Anas lived past ninety counting the answer. al-Bara asked his Lord, the reports say, for the martyrdom he had missed at Yamamah, and pursued it through the campaigns in Persia. These two sons of Umm Sulaym received two different answers to two different prayers, and the books treat both as answers, neither better, each exactly fitted to the one who asked.",
+            bn: "ভাইয়ের পাশে তাঁকে দাঁড় করালে গোটা পরিবারটাই স্পষ্ট হয়ে ওঠে। আনাসের জন্য নবীজি ﷺ দোয়া করেছিলেন সম্পদ, সন্তান আর বরকতের; আনাস নব্বই পেরিয়ে বেঁচে সেই দোয়ার জবাব গুনে গেছেন। আর বারা, বর্ণনাগুলো বলে, রবের কাছে চেয়েছেন ইয়ামামায় ফসকে যাওয়া শাহাদাত, আর তার পিছু নিয়েছেন পারস্যের অভিযানগুলোতে। উম্মে সুলাইমের এই দুই ছেলে দুই আলাদা দোয়ার দুই আলাদা জবাব পেলেন; বইপত্র দুটোকেই জবাব বলে মানে, কোনোটা ছোট নয়, যে চেয়েছে জবাব ঠিক তার মাপে।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Oath at Tustar", bn: "তুসতারের কসম" },
+        p: [
+          {
+            en: "The end came in the campaigns in Persia, at Tustar, where the fighting locked into one of the bitterest struggles of the conquests. The historians relate that at a desperate hour the Muslims turned to al-Bara and asked him to swear upon his Lord. He swore that Allah would rout the enemy, and he added a second clause for himself, asking that he be made to join his Prophet ﷺ as a martyr. The enemy broke, and al-Bara was killed in the victory he had sworn into being.",
+            bn: "শেষটা এল পারস্যের অভিযানে, তুসতারে, যেখানে লড়াই জমে উঠেছিল বিজয়ের যুগের সবচেয়ে তেতো সংগ্রামগুলোর একটায়। ইতিহাসবিদরা লিখেছেন, মরিয়া এক মুহূর্তে মুসলিমরা বারার দিকে ফিরে বলল, আপনার রবের নামে কসম করুন। তিনি কসম করলেন, আল্লাহ শত্রুকে ছত্রভঙ্গ করবেন; আর নিজের জন্য জুড়ে দিলেন দ্বিতীয় একটা শর্ত, তাঁকে যেন শহিদ করে তাঁর নবী ﷺ-র কাছে পৌঁছে দেওয়া হয়। শত্রু ভাঙল, আর যে বিজয় তাঁর কসমে বাস্তবে নামল, সেই বিজয়ের ভেতরেই বারা শহিদ হলেন।"
+          },
+          {
+            en: "Both halves of the oath were honoured in the same hour, which is why the story is told with the Tirmidhi hadith as its caption. The man whom no one heeded had asked Allah for a rout and a death, and received them together, around the twentieth year after the Hijrah. Umm Sulaym's other son teaches what his brother's long life teaches from the other side: the measure of a person with Allah is taken by no scale the heedless world uses.",
+            bn: "কসমের দুই ভাগই কবুল হলো এক ঘণ্টার মধ্যে, আর এ কারণেই গল্পটা বলা হয় তিরমিজির সেই হাদিসকে শিরোনাম করে। যাঁর দিকে কেউ ফিরেও তাকাত না, সেই মানুষটি আল্লাহর কাছে চেয়েছিলেন শত্রুর পরাজয় আর নিজের মৃত্যু; দুটোই পেলেন একসঙ্গে, হিজরির বিশ সনের কাছাকাছি সময়ে। উম্মে সুলাইমের এই ছেলে সেই শিক্ষাই দেন, যা তাঁর ভাইয়ের দীর্ঘ জীবন দেয় অন্য দিক থেকে: আল্লাহর কাছে মানুষের ওজন এমন কোনো দাঁড়িপাল্লায় হয় না, যা বেখেয়াল দুনিয়ার হাতে থাকে।"
+          }
+        ]
+      }
+    ]
+  },
+  abdullah_ibn_jahsh: {
+    sections: [
+      {
+        h: { en: "The Prophet's ﷺ Cousin", bn: "নবীজি ﷺ-র ফুফাতো ভাই" },
+        p: [
+          {
+            en: "Abdullah ibn Jahsh (RA) was the son of Umaymah bint Abd al-Muttalib, the Prophet's ﷺ paternal aunt, which made him the Prophet's ﷺ cousin and Hamza (RA) his own uncle on his mother's side. His sister was Zaynab bint Jahsh (RA), later a Mother of the Believers. He accepted Islam early, in the first years of the call in Makkah, and his household became one of the most completely believing families in the city.",
+            bn: "আবদুল্লাহ ইবনে জাহশ (রাঃ) ছিলেন নবীজি ﷺ-র ফুফু উমাইমা বিনতে আবদুল মুত্তালিবের ছেলে; সেই সূত্রে নবীজি ﷺ-র ফুফাতো ভাই, আর হামজা (রাঃ) তাঁর আপন মামা। বোন জয়নাব বিনতে জাহশ (রাঃ), পরে যিনি উম্মুল মুমিনিন। মক্কায় দাওয়াতের একেবারে গোড়ার বছরগুলোতেই তিনি ইসলাম কবুল করেন, আর তাঁর পরিবার হয়ে ওঠে শহরের সবচেয়ে পুরোপুরি ঈমানদার ঘরগুলোর একটি।"
+          },
+          {
+            en: "He made both migrations, first to Abyssinia when the persecution in Makkah grew heavy, then to Madinah. The sirah writers relate that the household of Banu Jahsh emigrated so completely that their houses in Makkah were left shut behind them, a whole family's property abandoned for the din. Long before any expedition made him famous, his biography was already the pattern of the early believer: kinship to the Prophet ﷺ, early faith, and everything portable carried into exile twice.",
+            bn: "হিজরত তিনি করেছেন দুবারই; মক্কার নিপীড়ন ভারী হয়ে উঠলে প্রথমে হাবশায়, পরে মদিনায়। সিরাত লেখকরা লিখেছেন, বনু জাহশের ঘর এমন নিঃশেষে হিজরত করেছিল যে মক্কায় তাদের বাড়িগুলো পড়ে রইল তালাবন্ধ; দ্বীনের জন্য গোটা এক পরিবারের ভিটেমাটি ফেলে যাওয়া। কোনো অভিযান তাঁকে বিখ্যাত করার অনেক আগেই তাঁর জীবনী দাঁড়িয়ে গিয়েছিল আদি মুমিনের ছাঁচে: নবীজি ﷺ-র সঙ্গে রক্তের টান, গোড়া থেকে ঈমান, আর বহনযোগ্য যা কিছু ছিল সব নিয়ে দু-দুবার নির্বাসনে যাত্রা।"
+          }
+        ]
+      },
+      {
+        h: { en: "Sealed Orders", bn: "সিলমোহর করা চিঠি" },
+        p: [
+          {
+            en: "In Madinah the Prophet ﷺ sent him out at the head of a small party with a letter he was ordered not to open until two days' travel had passed. Ibn Ishaq gives its contents: proceed to Nakhlah, between Makkah and Ta'if, observe Quraysh and bring word of them, and compel none of the men to come. Abdullah read it, said that whoever desired martyrdom should come on and whoever disliked it should turn back, and went forward. Not one man turned back.",
+            bn: "মদিনায় নবীজি ﷺ তাঁকে ছোট একটি দলের আমির করে পাঠালেন, হাতে এক চিঠি; হুকুম ছিল দুই দিনের পথ পেরোনোর আগে খোলা যাবে না। চিঠিতে কী ছিল, ইবনে ইসহাক তা দিয়েছেন: মক্কা ও তায়েফের মাঝের নাখলায় যাও, কুরাইশের ওপর নজর রাখো, তাদের খবর পাঠাও; আর কোনো সঙ্গীকে জোর কোরো না। আবদুল্লাহ চিঠি পড়ে বললেন, শাহাদাতের ইচ্ছা যার আছে সে এগোক, যার ভালো লাগছে না সে ফিরে যাক। তারপর নিজে এগোলেন। একটি মানুষও ফেরেনি।"
+          },
+          {
+            en: "At Nakhlah the party came upon a Quraysh caravan. In the clash that followed, Amr ibn al-Hadrami was killed, two men were captured, and the goods were taken, the first fighting and the first spoils in the young community's history. The party had judged the moment for themselves, and the timing was terrible: the blood had fallen in Rajab, within the months the Arabs held sacred, and everyone involved understood at once what Quraysh would make of it.",
+            bn: "নাখলায় দলটি কুরাইশের এক কাফেলার মুখে পড়ল। সংঘর্ষে আমর ইবনুল হাদরামি নিহত হলো, দুজন বন্দি হলো, মালপত্র হাতে এল; নবীন জামাতের ইতিহাসে প্রথম লড়াই, প্রথম গনিমত। দলটি সিদ্ধান্ত নিয়েছিল নিজেরাই; কিন্তু সময়টা হলো সর্বনাশা। রক্ত ঝরেছে রজবে, আরবদের কাছে পবিত্র গণ্য মাসগুলোর ভেতরে; আর কুরাইশ একে কোথায় নিয়ে যাবে, জড়িত সবাই তা তক্ষুনি বুঝে গেল।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Verse That Answered", bn: "যে আয়াত জবাব দিল" },
+        p: [
+          {
+            en: "Quraysh raised the cry across Arabia that Muhammad ﷺ and his men had violated the sacred month. The sirah relates that the Prophet ﷺ received the party coldly, saying he had not commanded them to fight in the sacred month, and he suspended the caravan and the captives. The men who had led the first victorious raid in Islam now stood under the heaviest cloud in Madinah, with no answer to the charge and no word yet from heaven.",
+            bn: "কুরাইশ গোটা আরবে রব তুলল, মুহাম্মাদ ﷺ আর তাঁর লোকেরা পবিত্র মাসের হুরমত ভেঙেছে। সিরাত বলছে, নবীজি ﷺ দলটিকে নিলেন শীতল মুখে; বললেন, পবিত্র মাসে লড়তে তো তোমাদের হুকুম দিইনি। কাফেলার মাল আর বন্দিদের ব্যাপারটাও ঝুলিয়ে রাখলেন। ইসলামের প্রথম বিজয়ী অভিযান যাঁরা চালালেন, তাঁরাই এখন মদিনার সবচেয়ে ভারী মেঘের নিচে; অভিযোগের কোনো জবাব নেই, আসমান থেকেও তখনো কোনো কথা আসেনি।"
+          },
+          {
+            en: "Then 2:217 came down. Fighting in the sacred month, the verse says, is a great sin, but barring people from the way of Allah, disbelief in Him, barring the Sacred Mosque, and expelling its people are greater in Allah's sight, and fitnah is greater than killing. The verse conceded the weight of the deed and then weighed Quraysh against it, and the scale came down against the accusers. The sirah relates that relief followed for the party, and the Prophet ﷺ accepted the caravan and ransomed the captives.",
+            bn: "তারপর নামল 2:217। আয়াত বলছে, পবিত্র মাসে যুদ্ধ করা ভয়ংকর গুনাহ; কিন্তু আল্লাহর পথ থেকে আটকে রাখা, তাঁর সঙ্গে কুফরি, মসজিদুল হারামে যেতে বাধা দেওয়া আর সেখানকার বাসিন্দাদের বের করে দেওয়া আল্লাহর কাছে তার চেয়েও বড় অন্যায়; আর ফিতনা হত্যার চেয়েও গুরুতর। আয়াত কাজটার ওজন মেনে নিল, তারপর সেই পাল্লার উল্টো দিকে চাপাল কুরাইশকে; দাঁড়িপাল্লা নেমে গেল অভিযোগকারীদের বিরুদ্ধেই। সিরাত বলছে, এরপর দলটির দুশ্চিন্তা কাটল; নবীজি ﷺ গনিমত কবুল করলেন, বন্দিদের মুক্তিপণও নিলেন।"
+          }
+        ]
+      },
+      {
+        h: { en: "A Fearless Du'a", bn: "নির্ভীক এক দোয়া" },
+        p: [
+          {
+            en: "Ibn Sa'd and others relate what Abdullah prayed on the eve of Uhud, in the company of Sa'd ibn Abi Waqqas (RA). Sa'd asked his Lord for a mighty adversary to fight and overcome and despoil. Abdullah asked for an adversary fierce in assault who would kill him, then cut off his nose and his ear, so that when Allah asked him for whose sake he had been so marked, he could answer: for You and for Your Messenger ﷺ.",
+            bn: "উহুদের আগে আবদুল্লাহ কী দোয়া করেছিলেন, ইবনে সা'দ ও অন্যরা তা লিখে রেখেছেন; সঙ্গে ছিলেন সা'দ ইবনে আবি ওয়াক্কাস (রাঃ)। সা'দ রবের কাছে চাইলেন প্রবল এক প্রতিপক্ষ, যাকে লড়ে হারাবেন, যার সরঞ্জাম হাতে পাবেন। আর আবদুল্লাহ চাইলেন হামলায় দুর্ধর্ষ এমন প্রতিপক্ষ, যে তাঁকে শহিদ করবে, তারপর কেটে নেবে তাঁর নাক আর কান; যেন আল্লাহ যখন জিজ্ঞেস করবেন, কার জন্য এই চিহ্ন, তিনি বলতে পারেন: তোমার জন্য, আর তোমার রাসুল ﷺ-র জন্য।"
+          },
+          {
+            en: "Sa'd is reported to have said afterwards that Abdullah's prayer was better than his own, for he saw at the day's end that what his companion had asked for had been granted in full. The du'a unsettles a comfortable reading of courage. Abdullah did not ask for pain because pain is good; he asked for marks that would testify, on the Day when bodies speak, that everything taken from him had been taken in one cause. He wanted the evidence carved where it could not be disputed.",
+            bn: "পরে সা'দ বলেছেন বলে বর্ণিত আছে, আবদুল্লাহর দোয়াটা তাঁর নিজেরটার চেয়ে উত্তম ছিল; কারণ দিন শেষে তিনি দেখেছেন, সঙ্গী যা চেয়েছিলেন তা পুরোপুরি মঞ্জুর হয়েছে। এই দোয়া সাহস নিয়ে আরামের ধারণাটাকে নাড়িয়ে দেয়। আবদুল্লাহ কষ্ট চাননি কষ্ট ভালো বলে; চেয়েছেন এমন চিহ্ন, যা সাক্ষী দেবে, যেদিন দেহ কথা বলবে সেদিন বলবে, তাঁর কাছ থেকে যা কিছু নেওয়া হয়েছে সব নেওয়া হয়েছে একটাই পথে। প্রমাণটা তিনি খোদাই করে রাখতে চেয়েছিলেন এমন জায়গায়, যেখানে কেউ অস্বীকার করতে পারবে না।"
+          }
+        ]
+      },
+      {
+        h: { en: "Beside Hamza", bn: "হামজার পাশে" },
+        p: [
+          {
+            en: "At Uhud it happened as he had asked. He was martyred, and the reports relate that his body bore the mutilation he had prayed to carry. He was buried near his uncle Hamza (RA), the two kinsmen of the Prophet ﷺ laid close in the ground of Uhud. Some historians also say he was the first man to be addressed as amir al-mu'minin, by his men on the Nakhlah expedition, generations before the title settled on the caliphs.",
+            bn: "উহুদে হলো ঠিক যেমনটা তিনি চেয়েছিলেন। তিনি শহিদ হলেন, আর বর্ণনাগুলো বলে, যে ক্ষতচিহ্ন বইবার দোয়া তিনি করেছিলেন তাঁর দেহে ছিল সেই চিহ্নই। দাফন হলো মামা হামজা (রাঃ)-এর কাছে; নবীজি ﷺ-র দুই স্বজন উহুদের মাটিতে শুয়ে রইলেন পাশাপাশি। কোনো কোনো ইতিহাসবিদ এ-ও বলেন, আমিরুল মুমিনিন বলে সম্বোধন পাওয়া প্রথম মানুষ তিনিই; নাখলা অভিযানে তাঁর সঙ্গীরা তাঁকে এ নামে ডেকেছিল, খলিফাদের গায়ে উপাধিটা বসার বহু আগে।"
+          },
+          {
+            en: "His life reads like the transaction described in 9:111, where Allah purchases from the believers their lives and their wealth in exchange for Paradise. Abdullah delivered every item: the property locked up in Makkah, the obedience of the sealed letter, and at Uhud the body itself, marked as he had requested. His sister Zaynab (RA) entered the Prophet's ﷺ household; his expedition entered the Quran's record at 2:217; and he entered the ground beside Hamza, his account, by every report, paid in full.",
+            bn: "তাঁর জীবনটা পড়লে মনে হয় 9:111 আয়াতে বলা সেই কেনাবেচা, যেখানে আল্লাহ মুমিনদের কাছ থেকে তাদের জান ও মাল কিনে নেন জান্নাতের বিনিময়ে। আবদুল্লাহ প্রতিটি জিনিস বুঝিয়ে দিয়েছেন: মক্কায় তালাবন্ধ পড়ে থাকা সম্পত্তি, সিলমোহর করা চিঠির আনুগত্য, আর উহুদে খোদ দেহখানি, যেমন চিহ্ন চেয়েছিলেন তেমন চিহ্নসহ। বোন জয়নাব (রাঃ) জায়গা পেলেন নবীজি ﷺ-র ঘরে; তাঁর অভিযান জায়গা পেল কুরআনের পাতায়, 2:217 আয়াতে; আর তিনি নিজে জায়গা পেলেন হামজার পাশের মাটিতে। সব বর্ণনার সাক্ষ্যে, তাঁর হিসাব চুকেছে পুরোপুরি।"
+          }
+        ]
+      }
+    ]
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { SAHABA_ARTICLES };
