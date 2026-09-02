@@ -4751,6 +4751,433 @@ const SAHABA_ARTICLES = {
       },
     ],
   },
+  abu_ad_darda: {
+    sections: [
+      {
+        h: { en: "The Last of His Household", bn: "পরিবারের সবার শেষে" },
+        p: [
+          {
+            en: "Uwaymir, known forever by his kunyah Abu ad-Darda (RA), was a merchant of the Ansar in Madinah. While the rest of his household entered Islam one by one, he held back, weighing the new faith with a trader's caution, and he is remembered as the last of them to accept it, around the time of the Battle of Badr. He came late, and he seems never to have forgotten it: the devotion of his later years had the quality of a man making up lost ground.",
+            bn: "উয়াইমির (রাঃ), যাঁকে সবাই চেনে আবুদ দারদা কুনিয়াতে। মদিনার আনসারদের মধ্যে তিনি ছিলেন ব্যবসায়ী। ঘরের সবাই একে একে ইসলাম কবুল করলেন, আর তিনি ব্যবসায়ীর সাবধানী মন নিয়ে হিসাব কষতে থাকলেন। শেষে বদর যুদ্ধের কাছাকাছি সময়ে ইসলাম কবুল করলেন, নিজ পরিবারের সবার পরে। দেরিতে এসেছিলেন, আর সে কথা যেন কোনোদিন ভোলেননি। পরের জীবনের সেই গভীর ইবাদত দেখে মনে হয়, হারানো সময় পুষিয়ে নিতে চাইছেন এমন এক মানুষ।",
+          },
+          {
+            en: "Once he believed, the balance of his life shifted entirely. The biographers record his own explanation: he tried to hold trade and worship together, found that they would not combine for him, and chose worship. This was no rule he imposed on others, for he later taught merchants and judged their disputes; it was the bargain he struck for himself. The man who had been the last of his house to believe set out to be among the most devoted of them, fasting, praying in the night, and sitting long with the Quran.",
+            bn: "ঈমান আনার পর জীবনের পাল্লা পুরোপুরি ঘুরে গেল। জীবনীকারেরা তাঁর নিজের ব্যাখ্যা লিখে রেখেছেন। ব্যবসা আর ইবাদত দুটোকে একসঙ্গে ধরে রাখতে চেয়েছিলেন, পারলেন না, তখন ইবাদতকেই বেছে নিলেন। এ কোনো সবার জন্য জারি করা নিয়ম ছিল না। পরে তো তিনি ব্যবসায়ীদের শিক্ষা দিয়েছেন, তাদের বিবাদের ফয়সালাও করেছেন। এ ছিল কেবল নিজের সঙ্গে নিজের চুক্তি। ঘরের সবার শেষে ঈমান আনা মানুষটি হয়ে উঠলেন সবচেয়ে ইবাদতগুজারদের একজন। রোজা, রাতের নামাজ, আর কুরআনের সঙ্গে দীর্ঘ সময়।",
+          },
+        ],
+      },
+      {
+        h: { en: "Salman's Counsel", bn: "সালমানের নসিহত" },
+        p: [
+          {
+            en: "In Madinah the Prophet ﷺ established the bond of brotherhood between him and Salman al-Farsi (RA), and that pairing produced one of the most quoted scenes in the Sahih. Salman came to visit and found Umm ad-Darda in worn clothes; she explained that her husband had no need of this world. Abu ad-Darda set food before his guest but would not eat, since he was fasting, and Salman refused to eat unless he ate, so Abu ad-Darda broke his fast and ate. When his host rose to pray in the night, Salman told him to sleep, until the last part of the night, when they prayed together.",
+            bn: "মদিনায় নবীজি ﷺ তাঁর সঙ্গে সালমান ফারসি (রাঃ)-এর ভ্রাতৃত্ব বাঁধন গড়ে দিলেন। সেই জুটি থেকেই এসেছে সহিহ হাদিসের বহুল পঠিত এক দৃশ্য। সালমান বেড়াতে এসে দেখলেন উম্মুদ দারদার গায়ে মলিন কাপড়। তিনি বললেন, আপনার ভাইয়ের দুনিয়ার কোনো দরকার নেই। আবুদ দারদা মেহমানের সামনে খাবার রাখলেন, নিজে খেলেন না, কারণ তিনি রোজা রেখেছেন। সালমান বললেন, আপনি না খেলে আমিও খাব না। তখন তিনি রোজা ভেঙে খেলেন। রাতে আবুদ দারদা নামাজে উঠতে গেলে সালমান বললেন, ঘুমান। শেষ রাতে দুজন একসঙ্গে নামাজ পড়লেন।",
+          },
+          {
+            en: "Then Salman said the words that became a rule of the religion: your Lord has a right over you, your self has a right over you, and your family has a right over you, so give everyone who possesses a right his due. When Abu ad-Darda reported the exchange, the Prophet ﷺ said that Salman had spoken the truth. Sahih al-Bukhari 1968 preserves the whole visit. The verdict repays attention: the man being corrected was not lazy but excessive, and the correction was made not against worship but for balance.",
+            bn: "তারপর সালমান বললেন সেই কথা, যা পরে দ্বীনের একটি মূলনীতি হয়ে গেছে। আপনার ওপর আপনার রবের হক আছে, নিজের হক আছে, পরিবারেরও হক আছে; প্রত্যেক হকদারকে তার হক দিন। আবুদ দারদা ঘটনাটি নবীজি ﷺ-কে জানালে তিনি বললেন, সালমান সত্য বলেছে। পুরো ঘটনা সহিহ বুখারি ১৯৬৮-তে সংরক্ষিত। রায়টি ভেবে দেখার মতো। যাঁকে শোধরানো হলো, তিনি অলস ছিলেন না, বরং মাত্রা ছাড়িয়ে যাচ্ছিলেন। আর শোধরানোটা ইবাদতের বিরুদ্ধে নয়, ভারসাম্যের পক্ষে।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Gatherer of the Quran", bn: "কুরআন সংগ্রহকারী" },
+        p: [
+          {
+            en: "Abu ad-Darda became one of the Companions most closely bound to the Quran. Anas ibn Malik (RA) is recorded in Sahih al-Bukhari counting him among the very few who had gathered the whole Quran in the lifetime of the Prophet ﷺ, alongside men like Muadh ibn Jabal and Zayd ibn Thabit (RA). In an age when the revelation lived in memories before it lived in bound volumes, that placed him within the small circle of men on whom the community's most precious possession depended.",
+            bn: "কুরআনের সঙ্গে যাঁদের বাঁধন সবচেয়ে গভীর, আবুদ দারদা হয়ে উঠলেন সেই সাহাবিদের একজন। সহিহ বুখারিতে আনাস ইবনে মালিক (রাঃ)-এর বর্ণনা আছে, নবীজি ﷺ-এর জীবদ্দশায় যে অল্প কজন পুরো কুরআন সংগ্রহ করেছিলেন, আবুদ দারদা তাঁদের একজন। সঙ্গে মুআয ইবনে জাবাল, যায়েদ ইবনে সাবেত (রাঃ)-এর মতো মানুষেরা। সে যুগে ওহি বাঁধাই করা মুসহাফের আগে বাস করত মানুষের স্মৃতিতে। ফলে উম্মতের সবচেয়ে দামি সম্পদ যাঁদের কাছে আমানত ছিল, তিনি ছিলেন সেই ছোট্ট বৃত্তের ভেতরে।",
+          },
+          {
+            en: "In the caliphate of Umar (RA) he was sent to Damascus to teach the newly conquered city its religion. The historians describe the circle he built in its mosque as enormous: students beyond easy counting, whom he organised into small groups, each with its own leader, while he moved among them and heard their recitation. Much of the Quran-reading of Syria traces back through the men he trained. He had chosen worship over trade; teaching turned that private bargain into a public inheritance.",
+            bn: "উমর (রাঃ)-এর খেলাফতকালে তাঁকে দামেস্কে পাঠানো হলো, সদ্য বিজিত শহরটিকে দ্বীন শেখাতে। ঐতিহাসিকেরা লিখেছেন, মসজিদে তাঁর হালকা ছিল বিশাল। ছাত্র এত যে গোনা কঠিন। তিনি তাদের ছোট ছোট দলে ভাগ করে দিতেন, প্রতিটি দলের একজন করে প্রধান, আর নিজে দলগুলোর মাঝে ঘুরে ঘুরে তিলাওয়াত শুনতেন। শামের কুরআন পাঠের বড় অংশের সূত্র গিয়ে মেশে তাঁর গড়া ছাত্রদের কাছে। ইবাদতের জন্য ব্যবসা ছেড়েছিলেন; শিক্ষকতা সেই ব্যক্তিগত চুক্তিকে বানিয়ে দিল সবার উত্তরাধিকার।",
+          },
+        ],
+      },
+      {
+        h: { en: "Judge of Damascus", bn: "দামেস্কের কাজি" },
+        p: [
+          {
+            en: "He later served as the judge of Damascus, and the post matched a teaching he transmitted himself. He related from the Prophet ﷺ: shall I not inform you of what is better in degree than fasting, prayer and charity? Setting right the relations between people, for corruption between people is the shaver. Abu Dawud and at-Tirmidhi record the hadith from him. A judge sees quarrels at their ugliest; the man who carried that hadith understood that his court existed not to score the dispute but to end it.",
+            bn: "পরে তিনি দামেস্কের কাজির দায়িত্ব পালন করেন, আর পদটির সঙ্গে মিলে যায় তাঁরই বর্ণনা করা একটি শিক্ষা। নবীজি ﷺ থেকে তিনি বর্ণনা করেছেন, আমি কি তোমাদের জানাব না রোজা, নামাজ ও সদকার চেয়েও উঁচু দরজার আমল কোনটি? মানুষে মানুষে সম্পর্ক ঠিক করে দেওয়া; কারণ পারস্পরিক বিবাদ হলো মুণ্ডনকারী। হাদিসটি আবু দাউদ ও তিরমিজিতে তাঁর সূত্রে এসেছে। কাজি ঝগড়ার কুৎসিততম চেহারা দেখেন। এই হাদিস যিনি বহন করতেন, তিনি জানতেন তাঁর আদালত বিবাদের পয়েন্ট গোনার জন্য নয়, বিবাদ শেষ করার জন্য।",
+          },
+          {
+            en: "His sayings travelled as far as his rulings. The biographers of Syria preserve his short, needling sentences: he asked why he saw the people eager to gather everything except knowledge, urged them to learn before knowledge was taken away, and feared, by his own account, to stand on the Day of Judgement and be asked what he had done with what he knew. He owned little and wanted less. People called him the sage of this ummah's later generations; his wisdom was simply worship thought all the way through.",
+            bn: "তাঁর রায়ের মতো তাঁর কথাও ছড়িয়ে পড়ল দূরে। শামের জীবনীকারেরা তাঁর ছোট ছোট বিঁধে যাওয়া বাক্য ধরে রেখেছেন। মানুষ সবকিছু জমাতে ব্যস্ত, কেবল ইলমের বেলায় কেন এই অনাগ্রহ, এ প্রশ্ন তিনি তুলতেন। বলতেন, ইলম উঠিয়ে নেওয়ার আগে শিখে নাও। নিজের ভয়ের কথাও বলেছেন, কেয়ামতের দিন জিজ্ঞেস করা হবে, যা জানতে তা নিয়ে কী আমল করেছ। সম্পদ তাঁর ছিল সামান্য, চাহিদা আরও কম। মানুষ তাঁকে বলত পরের প্রজন্মগুলোর কাছে এই উম্মাহর জ্ঞানী মানুষ; আসলে তাঁর হিকমত ছিল শেষ পর্যন্ত ভেবে দেখা ইবাদতই।",
+          },
+        ],
+      },
+      {
+        h: { en: "Death in Damascus", bn: "দামেস্কে শেষ দিন" },
+        p: [
+          {
+            en: "He died in Damascus around the year 32 AH, about 652 CE, in the caliphate of Uthman (RA), far from the Madinah where he had once counted profits. His wife Umm ad-Darda, herself a scholar, continued teaching after him, and the students he had arranged into their small circles carried his recitation across Syria and beyond. The judge's seat passed to other men. What did not pass was the pattern: in Damascus, learning the Quran meant sitting where his students had sat.",
+            bn: "৩২ হিজরির কাছাকাছি, খ্রিষ্টীয় ৬৫২ সালের দিকে, উসমান (রাঃ)-এর খেলাফতকালে দামেস্কেই তাঁর ইন্তেকাল হলো। যে মদিনায় একদিন লাভের হিসাব কষতেন, তার থেকে বহু দূরে। তাঁর স্ত্রী উম্মুদ দারদা নিজেও ছিলেন আলেমা, স্বামীর পরে শিক্ষাদান চালিয়ে গেলেন। আর ছোট ছোট হালকায় সাজানো সেই ছাত্রেরা তাঁর তিলাওয়াত পৌঁছে দিল শাম পেরিয়ে আরও দূরে। কাজির আসনে অন্যরা বসলেন। কিন্তু ধারাটা রয়ে গেল। দামেস্কে কুরআন শেখা মানে ছিল তাঁর ছাত্রদের বসার জায়গায় গিয়ে বসা।",
+          },
+          {
+            en: "His life makes an unusual arc among the Companions: no famous battlefield stand, no dramatic emigration, but a late believer who turned himself into a teacher of nations. The scene with Salman remains his signature. He was capable of an excess of devotion, accepted a correction from his appointed brother, and heard the Prophet ﷺ confirm it. A man who can be corrected, and can then spend the rest of his life teaching others the balanced religion he was taught, is rarer than a man who was never wrong.",
+            bn: "সাহাবিদের মধ্যে তাঁর জীবনের রেখাটা একটু আলাদা। যুদ্ধের ময়দানে বিখ্যাত কোনো অবস্থান নেই, নাটকীয় কোনো হিজরত নেই। আছেন দেরিতে ঈমান আনা এক মানুষ, যিনি নিজেকে গড়ে তুললেন জাতিগুলোর শিক্ষকে। সালমানের সেই দৃশ্যই তাঁর পরিচয় হয়ে আছে। ইবাদতে বাড়াবাড়ি তাঁর হয়েছিল, ভাই বানিয়ে দেওয়া মানুষটির শুধরে দেওয়া তিনি মেনে নিয়েছিলেন, আর নবীজি ﷺ-এর মুখে তার সমর্থন শুনেছিলেন। ভুল ধরলে মেনে নিতে পারেন, তারপর বাকি জীবনটা সেই ভারসাম্যের দ্বীন অন্যদের শেখাতে পারেন, এমন মানুষ কখনো ভুল না করা মানুষের চেয়ে দুর্লভ।",
+          },
+        ],
+      },
+    ],
+  },
+  salamah_ibn_al_akwa: {
+    sections: [
+      {
+        h: { en: "An Archer of Aslam", bn: "আসলামের তিরন্দাজ" },
+        p: [
+          {
+            en: "Salamah ibn al-Akwa (RA) came from the tribe of Aslam, desert people whose lands lay along the road between Makkah and Madinah. He was built for that country: an archer, and above all a runner, remembered as a man who could keep pace with horses over broken ground. When his people entered Islam he gave himself to the Prophet ﷺ with a soldier's completeness. He would later reckon that he fought seven expeditions in the Prophet's ﷺ company, and his own accounts of them fill pages of Sahih Muslim.",
+            bn: "সালামা ইবনুল আকওয়া (রাঃ) ছিলেন আসলাম গোত্রের মানুষ। মক্কা-মদিনার পথের ধার ঘেঁষে ছিল এই মরুচারীদের এলাকা। সেই রুক্ষ দেশের জন্যই যেন তাঁর গড়ন। তিরন্দাজ, আর সবার ওপরে দৌড়বিদ। এবড়োখেবড়ো জমিতে ঘোড়ার সঙ্গে পাল্লা দিতে পারতেন, এমন মানুষ বলেই তাঁকে মনে রাখা হয়েছে। গোত্র ইসলামে এলে তিনি সৈনিকের পূর্ণতা নিয়ে নিজেকে নবীজি ﷺ-এর হাতে সঁপে দিলেন। পরে নিজেই হিসাব করেছেন, নবীজি ﷺ-এর সঙ্গে সাতটি অভিযানে লড়েছেন। সেসবের বিবরণ তাঁর নিজের জবানে সহিহ মুসলিমের পাতার পর পাতা জুড়ে আছে।",
+          },
+          {
+            en: "His stories carry an unusual texture among the Companions' biographies, because so many survive in his own voice, told to his freed servant and transmitted with their detail intact: the names of watering places, the lines of battle-verse he shouted, the exact order of a chase. Through them we meet a man of complete physical confidence who was, at the same time, utterly obedient, and who treated his speed and his aim as things lent to him for exactly one purpose.",
+            bn: "সাহাবিদের জীবনীর মধ্যে তাঁর কাহিনির স্বাদ একটু আলাদা। কারণ অনেক ঘটনাই টিকে আছে তাঁর নিজের গলায়, নিজের আজাদ করা খাদেমকে বলা, খুঁটিনাটি অটুট রেখে বর্ণিত। পানির ঘাটগুলোর নাম, যুদ্ধের মাঠে হাঁকা ছড়ার পঙক্তি, ধাওয়ার একেবারে ধাপে ধাপে বিবরণ। এসব গল্পে আমরা এমন এক মানুষকে পাই, শরীরের ওপর যাঁর আস্থা ষোলো আনা, অথচ আনুগত্যেও তিনি পুরোপুরি। নিজের গতি আর নিশানাকে তিনি ধারে পাওয়া জিনিস মনে করতেন, যার ব্যবহার একটাই কাজে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Pledge Under the Tree", bn: "গাছতলার বায়আত" },
+        p: [
+          {
+            en: "At Hudaybiyyah, when word spread that Uthman (RA) had been killed in Makkah, the Prophet ﷺ called the Muslims to pledge themselves under the tree, the pledge Allah praised in 48:18, saying He was pleased with the believers as they gave it and sent down tranquility upon them. Salamah was there, and Sahih al-Bukhari records his answer when he was later asked what they had pledged on that day: on death, he said. Not on victory and not on terms; on staying until it was over, whatever it cost.",
+            bn: "হুদাইবিয়ায় খবর ছড়াল, মক্কায় উসমান (রাঃ)-কে হত্যা করা হয়েছে। তখন নবীজি ﷺ মুসলমানদের ডাকলেন গাছের নিচে বায়আতের জন্য। সেই বায়আতের প্রশংসা আল্লাহ করেছেন 48:18 আয়াতে। বলেছেন, বায়আতের সময় মুমিনদের ওপর তিনি সন্তুষ্ট হলেন এবং তাদের ওপর প্রশান্তি নাজিল করলেন। সালামা সেখানে ছিলেন। সহিহ বুখারিতে আছে, পরে কেউ জিজ্ঞেস করেছিল, সেদিন কীসের ওপর বায়আত করেছিলেন। তিনি বললেন, মৃত্যুর ওপর। জয়ের শর্তে নয়, দর-কষাকষিতেও নয়। শেষ পর্যন্ত টিকে থাকার ওপর, মূল্য যা-ই হোক।",
+          },
+          {
+            en: "In the long account preserved in Sahih Muslim he recalls giving that pledge three times. He pledged at the front of the people, and midway through the crowd the Prophet ﷺ said, pledge, Salamah. He answered, I have already pledged, O Messenger of Allah, and pledged again. Then, when the people were ending, he called him once more, and Salamah gave the pledge a third time. To be called back to the same pledge until he had given it three times was the honour of his life.",
+            bn: "সহিহ মুসলিমের দীর্ঘ বর্ণনায় তাঁর নিজের স্মৃতি আছে, সে বায়আত তিনি করেছিলেন তিনবার। প্রথম দলের সঙ্গেই বায়আত করলেন। ভিড়ের মাঝামাঝি পৌঁছালে নবীজি ﷺ বললেন, সালামা, বায়আত করো। জবাব দিলেন, ইয়া রাসুলাল্লাহ, আমি তো করেছি। তবু আবার করলেন। শেষে মানুষ যখন ফুরিয়ে আসছে, তৃতীয়বার ডাক এলো, তৃতীয়বার বায়আত হলো। একই বায়আতে তাঁকে ফিরিয়ে আনা হলো, যতক্ষণ না তিনবার দিয়ে দিলেন। এ ছিল তাঁর জীবনের সেরা সম্মান।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Day of Dhu Qarad", bn: "জু কারাদের দিন" },
+        p: [
+          {
+            en: "His greatest day came when raiders from Ghatafan swept down on the Prophet's ﷺ milch camels grazing outside Madinah, killed the herdsman, and drove the herd away. Salamah, out early with his bow, saw them first. He climbed a rise, shouted the alarm cry three times toward the city, and then set off after the raiders alone, on foot, shooting arrows and calling out his battle-verse: I am the son of al-Akwa. He harried them through the morning, retreating when horsemen turned on him, closing again when they rode on.",
+            bn: "তাঁর জীবনের শ্রেষ্ঠ দিনটি এলো যেদিন গাতাফানের হামলাকারীরা মদিনার বাইরে চরে বেড়ানো নবীজি ﷺ-এর দুধেল উটগুলোর ওপর ঝাঁপিয়ে পড়ল। রাখালকে মেরে ফেলে পালগুলো তাড়িয়ে নিয়ে চলল। ভোরে ধনুক হাতে বেরোনো সালামাই প্রথম তাদের দেখলেন। টিলায় উঠে শহরের দিকে তিনবার বিপদের হাঁক দিলেন। তারপর একাই ছুটলেন পিছু পিছু, পায়ে হেঁটে। তির ছুড়ছেন আর যুদ্ধের ছড়া হাঁকছেন, আমি আকওয়ার ছেলে। সারা সকাল তাদের নাস্তানাবুদ করলেন। ঘোড়সওয়ার ফিরে তাড়া করলে সরে যান, তারা এগোলে আবার চেপে ধরেন।",
+          },
+          {
+            en: "By the time the Muslim cavalry caught up, he had recovered the camels and a heap of cloaks and lances the raiders had dropped in their flight. He begged leave to take a hundred men and finish the pursuit, and the Prophet ﷺ answered with gentleness: they are now being given hospitality among their people. Then, before them all, he said: the best of our horsemen today is Abu Qatadah, and the best of our foot-soldiers is Salamah. Sahih Muslim 1807 carries the whole day in Salamah's own words, and records the Prophet ﷺ giving him a double share.",
+            bn: "মুসলিম অশ্বারোহীরা পৌঁছানোর আগেই তিনি উটগুলো উদ্ধার করে ফেলেছেন, সঙ্গে হামলাকারীদের পালাতে গিয়ে ফেলে যাওয়া গাদাখানেক চাদর আর বর্শা। তিনি আরজ করলেন, একশো লোক দিন, ধাওয়া শেষ করে আসি। নবীজি ﷺ কোমল জবাব দিলেন, তারা এখন নিজেদের গোত্রে মেহমানদারি পাচ্ছে। তারপর সবার সামনে বললেন, আজ আমাদের সেরা ঘোড়সওয়ার আবু কাতাদা, আর সেরা পদাতিক সালামা। পুরো দিনটি সালামার নিজের জবানে সহিহ মুসলিম ১৮০৭-এ আছে। সেখানে এ-ও আছে, নবীজি ﷺ তাঁকে দ্বিগুণ ভাগ দিয়েছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Outrunning Horses", bn: "ঘোড়াকে হারানো দৌড়" },
+        p: [
+          {
+            en: "The same narration preserves a lighter scene from the journey home. An Ansari famous as an unbeatable runner kept calling out a challenge: is there no racer to Madinah? Salamah asked the Prophet's ﷺ leave, then told the man to go first, held back a stretch, and ran him down before the city, winning by lengths. The runner who had spent the morning chasing cavalry on foot ended the expedition by beating the fastest man in the army for sport, with the Prophet ﷺ looking on.",
+            bn: "একই বর্ণনায় ফেরার পথের হালকা এক দৃশ্যও রয়ে গেছে। আনসারদের এক বিখ্যাত দৌড়বাজ, যাঁকে কেউ হারাতে পারত না, বারবার হাঁক দিচ্ছিলেন, মদিনা পর্যন্ত দৌড়ে পাল্লা দেওয়ার কেউ আছে? সালামা নবীজি ﷺ-এর অনুমতি চাইলেন। তারপর লোকটিকে বললেন, আগে যাও। খানিকটা পথ পিছিয়ে রইলেন, শেষে শহরের আগেই তাকে ধরে বেশ ব্যবধানে জিতে গেলেন। যে মানুষ সকালটা কাটিয়েছেন পায়ে হেঁটে অশ্বারোহী তাড়া করে, তিনি অভিযান শেষ করলেন খেলাচ্ছলে বাহিনীর দ্রুততম মানুষটিকে হারিয়ে, নবীজি ﷺ-এর চোখের সামনে।",
+          },
+          {
+            en: "At Khaybar he marched with his uncle Amir, who chanted travel-verses for the army and was killed in the battle when his own sword recoiled on him. Some whispered that Amir's deeds were void because he had died by his own blade, and it wounded Salamah until he brought the question to the Prophet ﷺ, who declared that Amir had two rewards and was a striver in Allah's way. Bukhari and Muslim both record it. The runner's loyalty was not only to his Prophet, but fierce on behalf of his own.",
+            bn: "খায়বারে তিনি গেলেন চাচা আমেরের সঙ্গে, যিনি পথে বাহিনীর জন্য সফরের ছড়া গাইতেন। যুদ্ধে নিজের তলোয়ার ফিরে এসে লাগায় আমের শহিদ হলেন। কেউ কেউ ফিসফিস করল, নিজের অস্ত্রে মরেছে, তার আমল তো বাতিল। কথাটা সালামাকে এমন বিঁধল যে শেষে প্রশ্নটা নবীজি ﷺ-এর কাছেই নিয়ে গেলেন। তিনি ঘোষণা দিলেন, আমেরের জন্য দুটি পুরস্কার, সে আল্লাহর পথের মুজাহিদ। বুখারি ও মুসলিম দুই কিতাবেই ঘটনাটি আছে। দৌড়বিদের আনুগত্য কেবল নবীর প্রতি ছিল না, আপনজনের পক্ষেও তা ছিল প্রখর।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Quiet Years", bn: "নিরিবিলি শেষ জীবন" },
+        p: [
+          {
+            en: "After the Prophet's ﷺ passing, Salamah fought on under the caliphs, but the age of his great single-handed exploits ended with the age of revelation. He narrated what he had witnessed, and students sought him out for the vivid, first-person history that only he could give. The historians record that in the troubled years after Uthman's (RA) death he withdrew from the cities to live quietly at ar-Rabadhah in the desert, the country of his childhood, keeping clear of the wars Muslims now fought against Muslims.",
+            bn: "নবীজি ﷺ-এর ওফাতের পর সালামা খলিফাদের অধীনে লড়াই চালিয়ে গেছেন। কিন্তু একা হাতে সেই বিরাট কীর্তির যুগ শেষ হয়ে গিয়েছিল ওহির যুগের সঙ্গেই। যা চোখে দেখেছেন, তা বর্ণনা করতেন। ছাত্রেরা তাঁকে খুঁজে বের করত সেই জীবন্ত, নিজের চোখে দেখা ইতিহাসের জন্য, যা কেবল তিনিই দিতে পারতেন। ঐতিহাসিকেরা লিখেছেন, উসমান (রাঃ)-এর শাহাদাতের পরের অস্থির বছরগুলোতে তিনি শহর ছেড়ে মরুর রাবাজায় চুপচাপ থাকতেন। সেই তো তাঁর ছেলেবেলার দেশ। মুসলমানে মুসলমানে যে যুদ্ধ চলছিল, তা থেকে দূরে রইলেন।",
+          },
+          {
+            en: "Near the end of his life he returned to Madinah, and he died there in about 74 AH, roughly 693 CE, one of the last living men who had pledged under the tree. The contrast in him remains instructive. He was aggressive in pursuit and gentle in obedience; he asked for a hundred men and accepted none; he raced for joy and fought for God. Strength that takes direction that completely is what the Quran's praise in 48:18 looked like when it ran on two feet.",
+            bn: "জীবনের শেষ প্রান্তে তিনি মদিনায় ফিরে এলেন। সেখানেই ইন্তেকাল করলেন আনুমানিক ৭৪ হিজরিতে, খ্রিষ্টীয় ৬৯৩ সালের কাছাকাছি। গাছতলায় বায়আত করা মানুষদের মধ্যে জীবিত শেষ কজনের একজন। তাঁর ভেতরের বৈপরীত্য আজও শিক্ষার। ধাওয়ায় তিনি দুর্ধর্ষ, আনুগত্যে কোমল। একশো লোক চাইলেন, না পেয়ে মেনে নিলেন। দৌড়াতেন আনন্দে, লড়তেন আল্লাহর জন্য। শক্তি যখন এমন পুরোপুরি নির্দেশ মেনে চলে, 48:18 আয়াতের সেই প্রশংসা দুই পায়ে দৌড়ালে যেমন দেখাত, তিনি ছিলেন তেমনই।",
+          },
+        ],
+      },
+    ],
+  },
+  usayd_ibn_hudayr: {
+    sections: [
+      {
+        h: { en: "Son of a War-Chief", bn: "যুদ্ধনেতার সন্তান" },
+        p: [
+          {
+            en: "Usayd ibn Hudayr (RA) inherited leadership. His father Hudayr had commanded the Aws in the wars they fought against the Khazraj before Islam, and when he died, the standing of the house passed to his son. Usayd was everything Madinah expected of a chief: skilled with weapons, deliberate in council, and, unusually for his time and place, a man of letters as the biographers describe him. When Islam began to spread quietly through the city before the Hijra, men like him were exactly what its opponents relied on.",
+            bn: "নেতৃত্ব উসাইদ ইবনে হুদাইর (রাঃ)-এর উত্তরাধিকারে পাওয়া। ইসলামের আগে খাজরাজের বিরুদ্ধে আওসের যুদ্ধগুলোতে সেনাপতিত্ব করতেন তাঁর বাবা হুদাইর। বাবার মৃত্যুর পর বংশের মর্যাদা বর্তাল ছেলের ওপর। সর্দার বলতে মদিনা যা বোঝে, উসাইদ ছিলেন তার সবটাই। অস্ত্রে দক্ষ, পরামর্শে ধীরস্থির, আর জীবনীকারদের বর্ণনামতে সে যুগের সেই জনপদে বিরল এক গুণের অধিকারী, লেখাপড়া জানা মানুষ। হিজরতের আগে ইসলাম যখন শহরে চুপিচুপি ছড়াচ্ছে, তার বিরোধীদের ভরসা ছিল ঠিক তাঁর মতো মানুষদের ওপরই।",
+          },
+          {
+            en: "Mus'ab ibn Umayr (RA), sent from Makkah to teach the handful of Madinan believers, had begun holding gatherings under the protection of As'ad ibn Zurarah. Sa'd ibn Mu'adh (RA), chief of Banu Abd al-Ashhal, wanted the preaching stopped, but As'ad was his own cousin, so he turned first to Usayd: go to these two men who have come to make fools of our weak ones, and drive them off. Usayd took up his spear and went, and the believers watching him approach knew exactly what he was.",
+            bn: "মক্কা থেকে মুসআব ইবনে উমাইর (রাঃ)-কে পাঠানো হয়েছিল মদিনার মুষ্টিমেয় মুমিনদের শিক্ষা দিতে। আসআদ ইবনে জুরারার আশ্রয়ে তাঁর মজলিস বসতে শুরু করেছে। বনু আবদুল আশহালের সর্দার সাদ ইবনে মুআয (রাঃ) তখনো চাইতেন এই দাওয়াত বন্ধ হোক। কিন্তু আসআদ যে তাঁর নিজেরই চাচাতো ভাই, তাই প্রথমে উসাইদকেই পাঠালেন। বললেন, ওই দুজন আমাদের দুর্বলদের বোকা বানাতে এসেছে, যাও, তাড়িয়ে দাও। উসাইদ বর্শা তুলে নিয়ে রওনা হলেন। এগিয়ে আসা মানুষটিকে দেখে মজলিসের মুমিনরা ঠিকই বুঝল, কে আসছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Spear Set Down", bn: "নামিয়ে রাখা বর্শা" },
+        p: [
+          {
+            en: "He stood over them with hard words, and Mus'ab answered with the offer he made every angry visitor: will you sit and listen? If you are pleased with what you hear, accept it, and if you dislike it, we will keep what you dislike away from you. Usayd said that was fair, planted his spear, and sat. Ibn Hisham records that as he listened to the Quran his face changed before he spoke, and those watching said they knew Islam in his face by its glow, before he declared it.",
+            bn: "কড়া কথা নিয়ে তিনি তাঁদের সামনে দাঁড়ালেন। মুসআব দিলেন সেই প্রস্তাব, রাগী প্রত্যেক আগন্তুককে যা দিতেন। বসে শুনবেন কি? পছন্দ হলে কবুল করবেন, আর অপছন্দ হলে যা অপছন্দ, তা আপনার কাছ থেকে দূরে রাখব। উসাইদ বললেন, ইনসাফের কথা। বর্শাটা মাটিতে গেঁথে বসে পড়লেন। ইবনে হিশাম লিখেছেন, কুরআন শুনতে শুনতে মুখ খোলার আগেই তাঁর চেহারা বদলে গেল। যারা দেখছিল তারা পরে বলেছে, ঘোষণার আগেই তাঁর চেহারার দীপ্তিতে আমরা ইসলাম চিনে নিয়েছিলাম।",
+          },
+          {
+            en: "He accepted Islam on the spot, then thought immediately like a chief: behind me is a man whose people never disobey him, and I will send him to you. He returned to Sa'd, and what he said when he came back drew Sa'd out to face Mus'ab himself. Sa'd went with a weapon and hard words, heard the same calm offer, sat, listened, and believed, and by that evening his whole clan had followed. Two angry men with spears, one quiet teacher, and a city began to change hands without a blow.",
+            bn: "সেখানেই তিনি ইসলাম কবুল করলেন। পরক্ষণেই ভাবলেন সর্দারের মাথায়। বললেন, আমার পেছনে এমন একজন আছে, যার কথা তার গোত্র কখনো ফেলে না; তাকে আমি আপনাদের কাছে পাঠাচ্ছি। সাদের কাছে ফিরে গিয়ে এমনভাবে কথা বললেন যে সাদ নিজেই মুসআবের মুখোমুখি হতে বেরিয়ে এলেন। সাদও গেলেন অস্ত্র হাতে, মুখে কড়া কথা। শুনলেন সেই একই শান্ত প্রস্তাব। বসলেন, শুনলেন, ঈমান আনলেন। সন্ধ্যার মধ্যে তাঁর গোটা গোত্র তাঁর পথ ধরল। বর্শা হাতে দুই রাগী মানুষ, একজন শান্ত শিক্ষক, আর একটি শহর হাতবদল হতে শুরু করল একটিও আঘাত ছাড়া।",
+          },
+        ],
+      },
+      {
+        h: { en: "Lamps in the Night Sky", bn: "রাতের আকাশে প্রদীপ" },
+        p: [
+          {
+            en: "The convert became a man of the Quran, and the Quran answered him. Sahih al-Bukhari 5018 records that one night Usayd was reciting Surah al-Baqarah beside his tethered horse, with his son Yahya asleep nearby, when the horse began to rear. He stopped, and it stilled; he recited, and it circled again; fearing it would trample the boy, he rose, and looking up he saw something like a canopy above him, full of what seemed to be lamps, ascending into the sky until he could see it no more.",
+            bn: "নওমুসলিম মানুষটি হয়ে উঠলেন কুরআনের মানুষ, আর কুরআনও তাঁকে জবাব দিল। সহিহ বুখারি ৫০১৮-তে ঘটনাটি আছে। এক রাতে উসাইদ বাঁধা ঘোড়ার পাশে সুরা বাকারা তিলাওয়াত করছিলেন, কাছে ঘুমিয়ে ছেলে ইয়াহইয়া। হঠাৎ ঘোড়াটা লাফাতে শুরু করল। তিনি থামলেন, ঘোড়াও শান্ত। আবার পড়া ধরলেন, ঘোড়া আবার পাক খায়। ছেলেকে পিষে ফেলবে ভেবে উঠে দাঁড়ালেন। মাথার ওপরে চোখ যেতেই দেখলেন চাঁদোয়ার মতো কিছু, ভেতরে যেন প্রদীপের সারি। সেটা আকাশে উঠে যেতে যেতে একসময় চোখের বাইরে চলে গেল।",
+          },
+          {
+            en: "In the morning he told the Prophet ﷺ, who said: recite, Ibn Hudayr, recite. Those were the angels, drawing near for your voice; had you gone on until morning, the people would have looked at them, for they would not have been hidden. The story is told wherever the excellence of recitation is taught, but its centre is worth naming: the sky opened not for a battle or a treaty, but for a household man reading revelation at night between his horse and his sleeping child.",
+            bn: "সকালে তিনি নবীজি ﷺ-কে ঘটনাটি জানালেন। তিনি বললেন, পড়তে থাকতে, ইবনে হুদাইর, পড়তে থাকতে। ওরা ছিল ফেরেশতা, তোমার আওয়াজের টানে কাছে এসেছিল। ভোর পর্যন্ত পড়ে গেলে মানুষ তাদের দেখত, তারা আর লুকানো থাকত না। তিলাওয়াতের ফজিলত যেখানেই শেখানো হয়, গল্পটি সেখানেই ফেরে। তবে এর কেন্দ্রটা মুখে আনার মতো। আসমান খুলেছিল কোনো যুদ্ধ বা সন্ধির জন্য নয়। খুলেছিল এক ঘরোয়া মানুষের জন্য, যিনি রাতে নিজের ঘোড়া আর ঘুমন্ত সন্তানের মাঝখানে বসে ওহি পড়ছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Light on the Road", bn: "পথের ওপর আলো" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 3805 preserves another night. Usayd and Abbad ibn Bishr (RA), a young man of his own clan, sat with the Prophet ﷺ until a dark hour, and when they left, something like a light went before them. When their roads parted, the light divided, and each man walked home behind his own. The two are joined in the report as they were in life: leaders of Abd al-Ashhal's believers, men of night prayer, each known for the beauty of his recitation.",
+            bn: "সহিহ বুখারি ৩৮০৫ ধরে রেখেছে আরেকটি রাত। উসাইদ আর তাঁর নিজ গোত্রের তরুণ আব্বাদ ইবনে বিশর (রাঃ) অন্ধকার রাত অবধি নবীজি ﷺ-এর কাছে বসে ছিলেন। বেরোনোর সময় আলোর মতো কিছু একটা তাঁদের আগে আগে চলল। পথ যেখানে ভাগ হলো, আলোও ভাগ হয়ে গেল। যে যার আলোর পেছনে হেঁটে ঘরে ফিরলেন। বর্ণনায় দুজন যেমন জোড়া, জীবনেও তেমনই ছিলেন। আবদুল আশহালের মুমিনদের অগ্রণী, রাতের নামাজের মানুষ, দুজনেই তিলাওয়াতের মাধুর্যে প্রসিদ্ধ।",
+          },
+          {
+            en: "Usayd's devotion never softened his public weight. He was among the leaders of the Ansar whom the Prophet ﷺ consulted, present at the pledge of Aqabah as one of its chosen representatives, and steady through the campaigns that followed. The biographers dwell on the combination: a man whom angels approached at night was, by day, a tribal politician of the first rank, proof that in that generation the two careers were not felt to be in tension.",
+            bn: "ইবাদতের গভীরতা তাঁর সামাজিক ওজন এতটুকু কমায়নি। আনসারের যে নেতাদের সঙ্গে নবীজি ﷺ পরামর্শ করতেন, তিনি তাঁদের একজন। আকাবার বায়আতে ছিলেন মনোনীত প্রতিনিধিদের অন্যতম, পরের অভিযানগুলোতেও অবিচল। জীবনীকারেরা এই মিশেলটা নিয়েই বেশি লিখেছেন। রাতে যাঁর কাছে ফেরেশতা নেমে আসে, দিনে তিনিই প্রথম সারির গোত্রনেতা। সেই প্রজন্মে এই দুই পরিচয়ের মধ্যে কেউ কোনো টানাপোড়েন দেখেনি, তিনি তারই প্রমাণ।",
+          },
+        ],
+      },
+      {
+        h: { en: "Steadying the Community", bn: "উম্মাহকে স্থির রাখা" },
+        p: [
+          {
+            en: "When the Prophet ﷺ died and the Muslims gathered at the hall of Banu Sa'idah to settle the leadership, the moment was as dangerous as any battle. Usayd threw his weight behind Abu Bakr (RA), and the historians record that his stand did much to bring the Aws with him. The chief who had once been sent to silence Islam's teacher spent that day making sure the community the teacher built did not split at its first test.",
+            bn: "নবীজি ﷺ-এর ওফাতের পর নেতৃত্বের ফয়সালা করতে মুসলমানরা জমা হলো বনু সায়েদার ছাউনিতে। মুহূর্তটি ছিল যেকোনো যুদ্ধের মতোই বিপজ্জনক। উসাইদ নিজের সমস্ত প্রভাব রাখলেন আবু বকর (রাঃ)-এর পাল্লায়। ঐতিহাসিকেরা লিখেছেন, তাঁর এই অবস্থানই আওসকে অনেকটা সেদিকে টেনে এনেছিল। যে সর্দারকে একদিন পাঠানো হয়েছিল ইসলামের শিক্ষককে থামাতে, তিনি সেদিনটা কাটালেন এই দেখভালে, শিক্ষকের গড়া উম্মাহ যেন প্রথম পরীক্ষাতেই ভেঙে না যায়।",
+          },
+          {
+            en: "He remained a pillar of Madinah through Abu Bakr's caliphate and into Umar's (RA), honoured by both. He died in about 20 AH, around 641 CE, and the historians record that Umar himself walked among those who carried his bier. His life divides cleanly at one afternoon: before it, a spear carried against the Quran; after it, decades in the Quran's service. The angels with their lamps came, of all the reciters in Madinah, to the man who had once come armed.",
+            bn: "আবু বকরের খেলাফত পেরিয়ে উমর (রাঃ)-এর সময়েও তিনি মদিনার স্তম্ভ হয়ে রইলেন, দুজনের কাছেই সম্মানিত। ইন্তেকাল করলেন আনুমানিক ২০ হিজরিতে, খ্রিষ্টীয় ৬৪১ সালের দিকে। ঐতিহাসিকেরা লিখেছেন, তাঁর খাটিয়া বহনকারীদের মধ্যে উমর নিজেও হেঁটেছেন। তাঁর জীবন এক বিকেলে পরিষ্কার দুই ভাগ হয়ে যায়। তার আগে, কুরআনের বিরুদ্ধে বয়ে নেওয়া এক বর্শা। তার পরে, কুরআনের খেদমতে কয়েক দশক। মদিনার এত তিলাওয়াতকারী থাকতে প্রদীপ হাতে ফেরেশতারা এসেছিলেন সেই মানুষটির কাছেই, যিনি একদিন এসেছিলেন অস্ত্র হাতে।",
+          },
+        ],
+      },
+    ],
+  },
+  abbad_ibn_bishr: {
+    sections: [
+      {
+        h: { en: "A Young Man of Abd al-Ashhal", bn: "আবদুল আশহালের তরুণ" },
+        p: [
+          {
+            en: "Abbad ibn Bishr (RA) belonged to Banu Abd al-Ashhal, the clan of the Aws that entered Islam in a single evening after its chief Sa'd ibn Mu'adh (RA) believed. Abbad himself had accepted Islam at the hands of Mus'ab ibn Umayr (RA) before the Hijra, while still a young man, and the faith he took young went all the way down. He grew into one of the Ansar's most complete men: a fighter trusted with hard assignments, and a worshipper whose recitation people paused to hear.",
+            bn: "আব্বাদ ইবনে বিশর (রাঃ) ছিলেন আওসের বনু আবদুল আশহাল গোত্রের সন্তান। সর্দার সাদ ইবনে মুআয (রাঃ) ঈমান আনার পর এক সন্ধ্যায় যে গোত্র পুরোটাই ইসলামে ঢুকে পড়েছিল, এ সেই গোত্র। আব্বাদ নিজে অবশ্য হিজরতের আগেই মুসআব ইবনে উমাইর (রাঃ)-এর হাতে ইসলাম কবুল করেন, তখনো তরুণ। অল্প বয়সে নেওয়া সেই ঈমান শেকড় পর্যন্ত নেমেছিল। বড় হয়ে তিনি আনসারের পূর্ণাঙ্গ মানুষদের একজন। কঠিন দায়িত্বে ভরসার যোদ্ধা, আবার এমন ইবাদতগুজার, যাঁর তিলাওয়াত শুনতে মানুষ থমকে দাঁড়াত।",
+          },
+          {
+            en: "His closest companion in devotion was his clansman Usayd ibn Hudayr (RA). Sahih al-Bukhari 3805 records the night the two of them sat late with the Prophet ﷺ and left in deep darkness, and something like a light moved before them until their roads parted, when it divided and went with each of them. The report treats the light as it treats the men, without embellishment: two believers were walking home from their Prophet ﷺ, and the darkness was not permitted to inconvenience them.",
+            bn: "ইবাদতের পথে তাঁর ঘনিষ্ঠতম সাথি ছিলেন স্বগোত্রীয় উসাইদ ইবনে হুদাইর (রাঃ)। সহিহ বুখারি ৩৮০৫-এ সেই রাতের কথা আছে। দুজন অনেক রাত পর্যন্ত নবীজি ﷺ-এর কাছে বসে থেকে ঘন অন্ধকারে বেরোলেন। আলোর মতো কিছু একটা তাঁদের আগে আগে চলল। পথ যেখানে আলাদা হলো, আলোটাও ভাগ হয়ে যার যার সঙ্গে গেল। বর্ণনাটি আলোকে নিয়ে বাড়তি রং চড়ায়নি, মানুষ দুজনকে নিয়েও না। দুই মুমিন তাঁদের নবীর ﷺ কাছ থেকে ঘরে ফিরছিলেন, আর অন্ধকারের সাধ্য হয়নি তাঁদের কষ্ট দেয়।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Voice in the Night", bn: "রাতের সেই আওয়াজ" },
+        p: [
+          {
+            en: "Sahih al-Bukhari records from Aishah (RA) that the Prophet ﷺ, hearing a man's voice raised in recitation in the mosque at night, said: may Allah have mercy on him, he has reminded me of such-and-such a verse I had been caused to omit from such-and-such a surah. The reciter was Abbad ibn Bishr. It is a small scene with a large implication: his night recitation was so constant, and so clear, that it could serve the Prophet's ﷺ own memory of revelation.",
+            bn: "সহিহ বুখারিতে আয়েশা (রাঃ)-এর বর্ণনা আছে। রাতে মসজিদে এক ব্যক্তির উঁচু তিলাওয়াত কানে যেতেই নবীজি ﷺ বললেন, আল্লাহ তার ওপর রহম করুন, অমুক সুরার অমুক আয়াতটি সে আমাকে মনে করিয়ে দিল, যা আমি ভুলে বাদ দিয়ে ফেলেছিলাম। তিলাওয়াতকারী মানুষটি আব্বাদ ইবনে বিশর। ছোট্ট দৃশ্য, কিন্তু তাৎপর্য বিশাল। তাঁর রাতের তিলাওয়াত এতটাই নিয়মিত, এতটাই স্পষ্ট ছিল যে খোদ নবীজি ﷺ-এর ওহির স্মৃতিরও তা কাজে লেগে গেল।",
+          },
+          {
+            en: "The mercy asked for him in that sentence became the summary of his life. He appears in the accounts of the Prophet's ﷺ campaigns steadily and without fuss: entrusted, obedient, devout, one of those men every commander depends on and history nearly forgets. What saved Abbad from being forgotten is that in his case the devotion kept breaking the surface, in a shared light on a dark road, in a voice in the mosque at night, and, most famously, on sentry duty in the dark at Dhat ar-Riqa.",
+            bn: "ওই বাক্যে তাঁর জন্য যে রহমতের দোয়া, সেটাই যেন তাঁর জীবনের সারকথা হয়ে গেল। নবীজি ﷺ-এর অভিযানগুলোর বিবরণে তিনি আসেন নীরবে, নিয়মিত। দায়িত্ব পান, পালন করেন, ইবাদতে ডুবে থাকেন। এমন মানুষের ওপরেই প্রতিটি সেনাপতি ভর করেন, আর ইতিহাস তাঁদের প্রায় ভুলে যায়। আব্বাদকে বিস্মৃতি থেকে যা বাঁচিয়েছে তা হলো, তাঁর ইবাদত বারবার ভেসে উঠেছে চোখের সামনে। অন্ধকার পথে ভাগ হওয়া আলোয়, রাতের মসজিদের আওয়াজে, আর সবচেয়ে বিখ্যাতটি জাতুর রিকার অন্ধকারে পাহারার রাতে।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Sentry Who Kept Praying", bn: "নামাজ না ছাড়া প্রহরী" },
+        p: [
+          {
+            en: "On the expedition of Dhat ar-Riqa, the narration in Abu Dawud from Jabir (RA) tells how two men, one Muhajir and one Ansari, took the night watch over the camp at a mountain pass. The Muhajir slept; the Ansari stood to pray. A man of the enemy, come for revenge, saw his silhouette and put an arrow into him. He pulled it out and went on praying. A second arrow, then a third, and each time he drew it out and remained in his prayer.",
+            bn: "জাতুর রিকা অভিযানে গিরিপথে সেনা শিবিরের রাত পাহারায় দাঁড়ালেন দুজন, একজন মুহাজির, একজন আনসারি। আবু দাউদে জাবের (রাঃ)-এর বর্ণনায় ঘটনাটি এসেছে। মুহাজির ঘুমালেন, আনসারি দাঁড়ালেন নামাজে। প্রতিশোধ নিতে আসা এক শত্রু অন্ধকারে তাঁর অবয়ব দেখে তির ছুড়ল, বিঁধে গেল শরীরে। তিনি তিরটা টেনে বের করে নামাজ চালিয়ে গেলেন। দ্বিতীয় তির, তারপর তৃতীয়। প্রতিবারই টেনে বের করলেন, নামাজ ছাড়লেন না।",
+          },
+          {
+            en: "Only after bowing and prostrating did he wake his companion, who saw the blood and asked why he had not been roused at the first arrow. The answer has been quoted for fourteen centuries: I was in a surah I was reciting, and I did not wish to cut it short. The narration adds that he feared losing the post he had been ordered to guard more than he feared for himself. The sirah writers name the Ansari as Abbad ibn Bishr, and nothing else in his biography argues with them.",
+            bn: "রুকু-সিজদা সেরে তবেই তিনি সঙ্গীকে জাগালেন। রক্ত দেখে সঙ্গী বললেন, প্রথম তিরেই আমাকে জাগাননি কেন? সেই জবাব চৌদ্দশ বছর ধরে মানুষের মুখে মুখে। একটি সুরা পড়ছিলাম, মাঝপথে কেটে ফেলতে মন চায়নি। বর্ণনায় আরও আছে, নিজের জানের চেয়ে তাঁর বেশি ভয় ছিল, যে ফটক পাহারার হুকুম পেয়েছেন তা হাতছাড়া হয়ে যায় কি না। সিরাত লেখকেরা এই আনসারির নাম বলেছেন আব্বাদ ইবনে বিশর, আর তাঁর জীবনের আর কিছুই এই পরিচয়ের সঙ্গে দ্বিমত করে না।",
+          },
+        ],
+      },
+      {
+        h: { en: "What the Story Teaches", bn: "ঘটনাটি যা শেখায়" },
+        p: [
+          {
+            en: "The sentry story is often told as a marvel of endurance, but its details reward a slower reading. Abbad was not obliged to be praying; the watch was his duty and the prayer was voluntary, prayed standing in the one place he had been ordered to hold. He absorbed the arrows rather than abandon either commitment, and he ended the prayer properly, bowing and prostrating with the shafts' wounds in him, before doing the sensible thing and raising the alarm.",
+            bn: "প্রহরীর ঘটনাটি সাধারণত সহ্যশক্তির বিস্ময় হিসেবে বলা হয়। কিন্তু খুঁটিনাটিগুলো ধীরে পড়লে আরও কিছু মেলে। নামাজে দাঁড়ানো আব্বাদের ওপর ফরজ ছিল না। দায়িত্ব ছিল পাহারা, নামাজটা নফল, আর তা তিনি পড়ছিলেন ঠিক সেই জায়গায় দাঁড়িয়ে, যেখানে থাকার হুকুম পেয়েছিলেন। দুই অঙ্গীকারের একটিও না ছেড়ে তিনি তিরগুলো সয়ে গেলেন। শরীরে তিরের জখম নিয়েই রুকু-সিজদা করে নামাজ শেষ করলেন নিয়মমতো। তারপর করলেন বুদ্ধিমানের কাজটি, সঙ্গীকে জাগিয়ে সতর্ক করা।",
+          },
+          {
+            en: "The love of recitation that would not cut a surah short is the same love that kept Usayd's horse company at night and drew the angels down; the two friends match. In Abbad the sweetness of worship and the discipline of soldiering were one temperament, not two. That is why the reports about him never feel strained: the man shot full of arrows in prayer and the man trusted with the camp's safety were always going to be the same man.",
+            bn: "সুরা মাঝপথে কাটতে না চাওয়া তিলাওয়াতের এই মহব্বতই তো রাতে উসাইদের ঘোড়ার পাশে জেগে ছিল, ফেরেশতাদের নামিয়ে এনেছিল। দুই বন্ধু যেন একই ছাঁচের। আব্বাদের ভেতরে ইবাদতের মিষ্টতা আর সৈনিকের শৃঙ্খলা ছিল একটাই মেজাজ, দুটো আলাদা সত্তা নয়। এজন্যই তাঁর সম্পর্কে বর্ণনাগুলো কখনো টেনেটুনে মেলানো মনে হয় না। নামাজরত অবস্থায় তিরবিদ্ধ মানুষটি আর শিবিরের নিরাপত্তার ভার পাওয়া মানুষটি যে একই মানুষ হবেন, এ যেন আগে থেকেই ঠিক ছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "Yamamah", bn: "ইয়ামামা" },
+        p: [
+          {
+            en: "He met his end in the caliphate of Abu Bakr (RA), at the Battle of Yamamah against Musaylimah the false prophet, in about 12 AH, 633 CE. The fighting was the fiercest the young community had known, and at its crisis, the historians record, Abbad called on the Ansar to separate from the mass and be distinguished by their deeds, and they broke the sheaths of their swords and drove into the enemy's garden stronghold.",
+            bn: "তাঁর শেষ এলো আবু বকর (রাঃ)-এর খেলাফতকালে, ভণ্ড নবী মুসাইলিমার বিরুদ্ধে ইয়ামামার যুদ্ধে, আনুমানিক ১২ হিজরি, খ্রিষ্টীয় ৬৩৩ সালে। তরুণ উম্মাহ তখন পর্যন্ত এত ভয়ংকর লড়াই দেখেনি। ঐতিহাসিকেরা লিখেছেন, যুদ্ধের চরম মুহূর্তে আব্বাদ আনসারদের ডাক দিলেন, বাকিদের থেকে আলাদা হয়ে যাও, আমলে নিজেদের চিনিয়ে দাও। তাঁরা তলোয়ারের খাপ ভেঙে ফেললেন এবং শত্রুর সেই বাগানঘেরা ঘাঁটিতে ঢুকে পড়লেন।",
+          },
+          {
+            en: "Abbad fell there, so covered in wounds, the historians say, that his body was known only by a mark. He was in his forties. Ibn Sa'd records the tribute of Aishah (RA), who counted three men of the Ansar as surpassing in excellence, all of Banu Abd al-Ashhal: Sa'd ibn Mu'adh, Usayd ibn Hudayr, and Abbad ibn Bishr. The clan that entered Islam in one evening had repaid the religion with three of its finest, and Abbad died as he had stood watch: refusing to leave his post.",
+            bn: "আব্বাদ সেখানেই শহিদ হলেন। ঐতিহাসিকেরা বলেন, জখমে শরীর এমন ঢেকে গিয়েছিল যে কেবল একটি চিহ্ন দেখে তাঁকে চেনা গেল। বয়স তখন চল্লিশের কোঠায়। ইবনে সাদ আয়েশা (রাঃ)-এর শ্রদ্ধার্ঘ্য লিখে রেখেছেন। তিনি বলতেন, আনসারের মধ্যে তিনজন শ্রেষ্ঠত্বে অনন্য, তিনজনই বনু আবদুল আশহালের। সাদ ইবনে মুআয, উসাইদ ইবনে হুদাইর, আব্বাদ ইবনে বিশর। এক সন্ধ্যায় ইসলামে ঢোকা গোত্রটি দ্বীনকে ফিরিয়ে দিয়েছিল তার সেরা তিন সন্তান। আর আব্বাদ শহিদ হলেন ঠিক যেভাবে পাহারায় দাঁড়িয়েছিলেন সেভাবেই, নিজের জায়গা ছাড়তে রাজি না হয়ে।",
+          },
+        ],
+      },
+    ],
+  },
+  thabit_ibn_qays_ibn_shammas: {
+    sections: [
+      {
+        h: { en: "The Orator of the Ansar", bn: "আনসারের বাগ্মী" },
+        p: [
+          {
+            en: "Thabit ibn Qays ibn Shammas (RA) of the Khazraj held a post that had no name until he filled it: he was the orator of the Prophet ﷺ. When delegations came to Madinah with their tribes' best speakers, Thabit rose and answered for Islam in prose, as Hassan ibn Thabit (RA) answered their poets in verse. Ibn Hisham records his reply to the boasting orator of Banu Tamim in the year of delegations, a speech that gave Allah His due first and the guests their answer second.",
+            bn: "খাজরাজ গোত্রের সাবেত ইবনে কায়েস ইবনে শাম্মাস (রাঃ) এমন এক পদে ছিলেন, তিনি আসার আগে যার কোনো নামই ছিল না। তিনি নবীজি ﷺ-এর বাগ্মী। প্রতিনিধিদলগুলো নিজ নিজ গোত্রের সেরা বক্তা নিয়ে মদিনায় এলে সাবেত উঠে দাঁড়াতেন, গদ্যে ইসলামের হয়ে জবাব দিতেন। যেমন তাদের কবিদের জবাব কবিতায় দিতেন হাসসান ইবনে সাবেত (রাঃ)। প্রতিনিধিদলের বছরে বনু তামিমের দাম্ভিক বক্তাকে দেওয়া তাঁর জবাব ইবনে হিশাম লিখে রেখেছেন। সে ভাষণে প্রথমে আল্লাহর হক, তারপর মেহমানদের জবাব।",
+          },
+          {
+            en: "A public voice was his instrument, and it was a big one. Thabit was naturally loud, loud in assembly and loud in ordinary talk, and in the years when revelation was still descending, that trait was about to place him in a trial none of the warriors around him would ever face. His weapon was his voice, and the test, when it came, came against exactly that.",
+            bn: "জনসভার কণ্ঠই ছিল তাঁর হাতিয়ার, আর সে কণ্ঠ ছিল বিশাল। সাবেতের গলা এমনিতেই চড়া। মজলিসেও উঁচু, সাধারণ আলাপেও উঁচু। ওহি তখনো নাজিল হচ্ছে, আর এই একটি স্বভাবই তাঁকে এমন এক পরীক্ষার মুখে দাঁড় করাতে যাচ্ছিল, আশপাশের কোনো যোদ্ধাকে যার মুখোমুখি কোনোদিন হতে হয়নি। তাঁর অস্ত্র ছিল কণ্ঠ। পরীক্ষা যখন এলো, এলো ঠিক সেটাকে ঘিরেই।",
+          },
+        ],
+      },
+      {
+        h: { en: "When the Verse Came Down", bn: "আয়াত যখন নাজিল হলো" },
+        p: [
+          {
+            en: "Then 49:2 was revealed: O you who believe, do not raise your voices above the voice of the Prophet, nor be loud to him in speech as you are loud to one another, lest your deeds become worthless while you perceive not. Thabit heard the warning as a sentence upon himself. His was the loudest voice in Madinah, so, he reasoned, his deeds must be void and he must be of the people of the Fire. He shut himself in his house, head down, grieving.",
+            bn: "তারপর নাজিল হলো 49:2 আয়াত। হে মুমিনগণ, নবীর আওয়াজের ওপর তোমাদের আওয়াজ উঁচু কোরো না, নিজেরা পরস্পরে যেমন উঁচু গলায় কথা বলো, তাঁর সঙ্গে তেমন কোরো না, নইলে তোমাদের আমল নিষ্ফল হয়ে যাবে, আর তোমরা টেরও পাবে না। সাবেত এই সতর্কবাণীকে নিজের ওপর জারি করা রায় বলে শুনলেন। মদিনার সবচেয়ে উঁচু গলা তো তাঁরই। তাহলে হিসাবমতো তাঁর আমল বরবাদ, তিনি জাহান্নামের মানুষ। ঘরে দরজা দিলেন, মাথা নিচু, ভেঙে পড়া মন।",
+          },
+          {
+            en: "The Prophet ﷺ missed him and asked after him, and a man went to his house and found him in that state. My voice was always raised above the Prophet's ﷺ voice, Thabit said; my deeds are worthless and I am of the people of the Fire. The man carried the report back, and was sent again with a different message. Bukhari and Muslim both record the Prophet's ﷺ words: rather, he is of the people of Paradise.",
+            bn: "নবীজি ﷺ তাঁকে মজলিসে না দেখে খোঁজ নিলেন। একজন তাঁর বাড়ি গিয়ে ওই অবস্থাতেই তাঁকে পেলেন। সাবেত বললেন, নবীজি ﷺ-এর আওয়াজের ওপরে তো সবসময় আমার আওয়াজই চড়ত। আমার আমল বরবাদ, আমি জাহান্নামিদের একজন। লোকটি ফিরে গিয়ে সে কথাই জানালেন। তাঁকে আবার পাঠানো হলো, এবার অন্য এক বার্তা নিয়ে। বুখারি ও মুসলিম দুজনেই নবীজি ﷺ-এর সেই কথা লিখে রেখেছেন। বরং সে তো জান্নাতের মানুষদের একজন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Living Under Good News", bn: "সুসংবাদ মাথায় নিয়ে জীবন" },
+        p: [
+          {
+            en: "Consider what the fear reveals before the comfort arrives. Thabit did not argue that his loudness was a lifelong habit, or that the verse surely meant deliberate disrespect, or that his service must count for something. He assumed the verse meant him, and grieved. The Companions took warnings personally as their first response, not their last resort; 49:3 goes on to promise forgiveness and great reward to those who lower their voices, and Thabit's fright was precisely the lowering the passage sought.",
+            bn: "সান্ত্বনা আসার আগে ভয়টা কী প্রকাশ করে, একটু ভাবুন। সাবেত তর্ক করেননি যে উঁচু গলা তো তাঁর জন্মের স্বভাব। বলেননি, আয়াতের মানে নিশ্চয়ই ইচ্ছাকৃত বেয়াদবি। নিজের এত খেদমতের দোহাইও দেননি। ধরে নিয়েছেন, আয়াতের নিশানা তিনিই, আর শোকে ভেঙে পড়েছেন। সতর্কবাণীকে নিজের গায়ে টেনে নেওয়াই ছিল সাহাবিদের প্রথম প্রতিক্রিয়া, শেষ অজুহাত নয়। পরের আয়াত 49:3 আওয়াজ নিচু রাখা মানুষদের মাগফিরাত ও বিরাট পুরস্কারের ওয়াদা দেয়। আয়াত যে বিনয় চেয়েছিল, সাবেতের এই ভয়ই তো ছিল সেটা।",
+          },
+          {
+            en: "The narration in Sahih Muslim adds the sequel: the Companions would see Thabit walking among them and know that a man of Paradise was passing. Few humans have lived years of ordinary life, marrying, trading, growing older, under a public guarantee of that kind. It did not make him careless; the man who had feared his deeds were nothing seems never to have treated any deed as nothing again. He kept his post as orator, his voice now the most carefully governed loudness in the city.",
+            bn: "সহিহ মুসলিমের বর্ণনায় পরের অংশটুকুও আছে। সাহাবিরা সাবেতকে হেঁটে যেতে দেখতেন আর জানতেন, জান্নাতের এক মানুষ পাশ দিয়ে যাচ্ছেন। বিয়ে, ব্যবসা, বয়স বাড়া, এমন সাদামাটা জীবনের বছরগুলো এমন প্রকাশ্য নিশ্চয়তা মাথায় নিয়ে কাটিয়েছেন, এই সৌভাগ্য কজন মানুষের হয়েছে। এতে তিনি বেপরোয়া হননি। যে মানুষ একদিন ভেবেছিলেন তাঁর সব আমল শূন্য, তিনি আর কোনোদিন কোনো আমলকে শূন্য জ্ঞান করেননি। বাগ্মীর দায়িত্বে বহাল রইলেন, তবে তাঁর কণ্ঠ তখন শহরের সবচেয়ে সাবধানে সামলানো উঁচু আওয়াজ।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Last Battle", bn: "শেষ যুদ্ধ" },
+        p: [
+          {
+            en: "At Yamamah, in about 12 AH, the man of Paradise went looking for the meeting he had been promised. The historians describe him preparing for that battle perfumed with hanut, the perfume of the dead, and wrapped in a shroud, and they preserve his rebuke when the Muslim lines wavered before Musaylimah's forces: this is not how we fought alongside the Messenger of Allah ﷺ. He and the standard-bearers stood their ground at the worst of it, and Thabit was killed fighting, as the orator had always said a believer should fight.",
+            bn: "ইয়ামামায়, আনুমানিক ১২ হিজরিতে, জান্নাতের সেই মানুষ বেরোলেন তাঁর ওয়াদা করা সাক্ষাতের খোঁজে। ঐতিহাসিকেরা লিখেছেন, সে যুদ্ধে নামার আগে তিনি গায়ে মেখেছিলেন হানুত, মৃতের গায়ে যে সুগন্ধি মাখানো হয়, আর শরীরে জড়িয়েছিলেন কাফনের কাপড়। মুসাইলিমার বাহিনীর সামনে মুসলিম সারি টলে উঠলে তাঁর ভর্ৎসনাও তাঁরা ধরে রেখেছেন। রাসুলুল্লাহ ﷺ-এর পাশে থেকে আমরা এভাবে লড়িনি। ভয়ংকরতম মুহূর্তে তিনি আর পতাকাবাহীরা মাটি কামড়ে দাঁড়িয়ে রইলেন। লড়তে লড়তেই সাবেত শহিদ হলেন, মুমিনের লড়াই যেমন হওয়া উচিত বলে বাগ্মী বরাবর বলে এসেছিলেন।",
+          },
+          {
+            en: "What followed is reported by the historians rather than the Sahih collections, and is best told with that label showing. A Muslim dreamed that Thabit came to him, told him that his valuable coat of armor had been taken by a named man and lay hidden under a pot in a far tent, and asked that it be recovered and that his debts be settled and certain of his people freed. The sleeper woke, the search was made, and the armor was found exactly where the dream had placed it.",
+            bn: "এরপর যা ঘটল, তা সহিহ কিতাবগুলোর নয়, ঐতিহাসিকদের বর্ণনা, আর সে পরিচয় স্পষ্ট রেখেই বলা ভালো। এক মুসলিম স্বপ্নে দেখলেন, সাবেত এসে বলছেন, তাঁর দামি লোহার বর্মটি নির্দিষ্ট এক লোক নিয়ে গেছে, দূরের এক তাঁবুতে হাঁড়ির নিচে লুকানো আছে। অনুরোধ করলেন, বর্মটি উদ্ধার করা হোক, তাঁর ঋণ শোধ হোক, আর তাঁর কয়েকজন মানুষকে আজাদ করা হোক। ঘুম ভাঙল, খোঁজ পড়ল, আর স্বপ্ন যেখানে বলেছিল ঠিক সেখানেই বর্মটি পাওয়া গেল।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Bequest Honoured", bn: "রক্ষা পাওয়া অসিয়ত" },
+        p: [
+          {
+            en: "The report continues that the dream's requests were carried to Abu Bakr (RA), who allowed the bequest to be executed, and later generations repeated that they knew of no other man whose will was honoured on the strength of a dream after his death. However one weighs the story, the community that told it was saying something it believed about Thabit: that his truthfulness was of a grade that outlasted his life, and that a promise of Paradise had gone to a man who paid his debts.",
+            bn: "বর্ণনাটি আরও বলে, স্বপ্নের অনুরোধগুলো আবু বকর (রাঃ)-এর কাছে পৌঁছানো হলে তিনি অসিয়তটি কার্যকর করার অনুমতি দেন। পরের প্রজন্মগুলো বারবার বলেছে, মৃত্যুর পরে স্বপ্নের জোরে অসিয়ত রক্ষা পেয়েছে, এমন দ্বিতীয় কোনো মানুষের কথা তারা জানে না। গল্পটিকে যে পাল্লায়ই মাপা হোক, যে সমাজ এটি বলেছে, তারা আসলে সাবেত সম্পর্কে নিজেদের বিশ্বাসের কথাই বলছিল। তাঁর সত্যবাদিতা এমন দরের যে তা তাঁর জীবনকেও ছাড়িয়ে গেছে, আর জান্নাতের সুসংবাদ পেয়েছেন এমন মানুষ, যিনি ঋণ শোধ করে যান।",
+          },
+          {
+            en: "Thabit's whole biography swings on the difference between two sentences about the same voice. The verse said: lest your deeds become worthless. The Prophet ﷺ said: he is of the people of Paradise. Between the two lies everything the tradition wants a believer to have: fear real enough to close a door and sit grieving, and a trust in Allah's Messenger complete enough to open it again. He heard both sentences fully, and he lived, and died at Yamamah, in the light of the second.",
+            bn: "একই কণ্ঠ নিয়ে বলা দুটি বাক্যের ফারাকের ওপর দুলছে সাবেতের গোটা জীবনী। আয়াত বলেছিল, নইলে তোমাদের আমল নিষ্ফল হয়ে যাবে। নবীজি ﷺ বলেছিলেন, সে জান্নাতের মানুষদের একজন। এই দুই বাক্যের মাঝখানে আছে সেসবই, যা এই দ্বীন একজন মুমিনের মধ্যে দেখতে চায়। এমন খাঁটি ভয়, যা দরজা বন্ধ করে শোকে বসিয়ে দেয়। আবার আল্লাহর রাসুলের ওপর এমন পূর্ণ ভরসা, যা সেই দরজা আবার খুলে দেয়। দুটি বাক্যই তিনি পুরোপুরি শুনেছিলেন। আর বেঁচেছেন, ইয়ামামায় শহিদও হয়েছেন, দ্বিতীয় বাক্যটির আলোয়।",
+          },
+        ],
+      },
+    ],
+  },
+  kab_ibn_malik_al_ansari: {
+    sections: [
+      {
+        h: { en: "Poet of the Pledge", bn: "বায়আতের কবি" },
+        p: [
+          {
+            en: "Ka'b ibn Malik (RA) of the Khazraj was one of the poets of the Ansar, who answered the propaganda of Quraysh in the currency Arabia respected most. He was present at the pledge of al-Aqabah before the Hijra, when the men of Yathrib bound themselves to the Prophet ﷺ by night, and he counted that pledge dearer to him, he said, than being at Badr, though people spoke more of Badr.",
+            bn: "খাজরাজের কাব ইবনে মালিক (রাঃ) ছিলেন আনসারের কবিদের একজন। কুরাইশের অপপ্রচারের জবাব এই মানুষগুলোই দিতেন সেই মুদ্রায়, আরব যাকে সবচেয়ে বেশি কদর করত। হিজরতের আগে আকাবার বায়আতে তিনি হাজির ছিলেন। রাতের অন্ধকারে ইয়াসরিবের মানুষরা সেদিন নিজেদের বেঁধেছিল নবীজি ﷺ-এর সঙ্গে। ওই রাতটিকেই তিনি গণ্য করতেন নিজের সবচেয়ে গর্বের পরিচয় বলে। নিজেই বলেছেন, বদরে থাকার চেয়েও সেটি তাঁর কাছে প্রিয়, যদিও মানুষের মুখে বদরের চর্চাই বেশি।",
+          },
+          {
+            en: "By his own reckoning, preserved in the long narration of Sahih al-Bukhari 4418, he missed none of the Prophet's ﷺ expeditions except two: Badr, for which no one was blamed, and Tabuk. Everything the world knows about the second absence it knows because Ka'b himself told the story, completely, against his own interest, years later to his son. It became one of the longest first-person accounts in the Sahih, and one of the Quran's great case studies in repentance.",
+            bn: "সহিহ বুখারি ৪৪১৮-এর দীর্ঘ বর্ণনায় তাঁর নিজের হিসাব রয়ে গেছে। নবীজি ﷺ-এর অভিযানগুলোর মধ্যে মাত্র দুটিতে তিনি অনুপস্থিত। এক বদর, যার জন্য কাউকে দোষ দেওয়া হয়নি। আর দুই তাবুক। দ্বিতীয় অনুপস্থিতির কথা দুনিয়া যা জানে, জানে এ কারণে যে কাব নিজেই গল্পটি বলে গেছেন। পুরোটা, নিজের বিরুদ্ধে গেলেও এতটুকু না লুকিয়ে, বহু বছর পরে নিজের ছেলের কাছে। সেটি হয়ে আছে সহিহ কিতাবের দীর্ঘতম আত্মকথনগুলোর একটি, আর তওবার প্রশ্নে কুরআনের বড় শিক্ষাগুলোরও একটি।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Expedition He Missed", bn: "যে অভিযানে যাওয়া হলো না" },
+        p: [
+          {
+            en: "Tabuk was announced openly, unlike most campaigns, because the distance was vast, the summer at its fiercest, and the enemy was Rome. Ka'b, for the first time in his life, was comfortable: two riding animals, wealth in hand, and date orchards at their sweetest. Each morning he went out to prepare and came back having prepared nothing, telling himself he could catch up whenever he chose. The army marched, and the days slid past.",
+            bn: "অন্য অভিযানের মতো নয়, তাবুকের ঘোষণা এসেছিল খোলাখুলি। কারণ পথ বিশাল, গ্রীষ্ম তখন তুঙ্গে, আর প্রতিপক্ষ রোম। আরামের জন্য এর চেয়ে খারাপ সময় হয় না, অথচ কাব জীবনে প্রথমবার আরামে। দুটি বাহন, হাতে সম্পদ, খেজুরবাগানে ফল তখন সবচেয়ে মিষ্টি। রোজ সকালে প্রস্তুতি নিতে বের হন, ফিরে আসেন কিছুই না করে। মনকে বলেন, যেদিন চাইব সেদিনই তো ধরে ফেলব বাহিনীকে। বাহিনী এগিয়ে গেল, আর দিনগুলো গড়িয়ে যেতে থাকল।",
+          },
+          {
+            en: "When he finally resolved to set out, too much road lay between them, and he stayed. What tormented him in Madinah was the company: the only men left were those excused by weakness or those suspected of hypocrisy, and he belonged in neither row. He was a believer who had drifted, one postponement at a time, into a position only hypocrites occupied.",
+            bn: "শেষমেশ যখন রওনার সংকল্প করলেন, মাঝের পথ তখন অনেক বেশি। থেকেই গেলেন। মদিনায় তাঁকে যা কুরে কুরে খেত, নিজের ভাষায়, তা এই সঙ্গ। শহরে পড়ে আছে কেবল দুই দল, ওজরওয়ালা দুর্বলেরা, নয়তো মুনাফিকির দায়ে সন্দেহভাজনরা। কোনো সারিতেই তাঁর জায়গা নেই। মুনাফিক তিনি ছিলেন না। ছিলেন এক মুমিন, যিনি একবার একবার করে পিছোতে পিছোতে গিয়ে দাঁড়িয়েছেন এমন জায়গায়, যেখানে কেবল মুনাফিকরাই দাঁড়ায়।",
+          },
+        ],
+      },
+      {
+        h: { en: "He Told the Truth", bn: "তিনি সত্যটাই বললেন" },
+        p: [
+          {
+            en: "When the Prophet ﷺ returned, those who had stayed behind came to him, eighty-odd men by Ka'b's count, swearing their excuses; he accepted their words and left their secrets to Allah. Ka'b knew he could lie as well as any of them. But, he reasoned, a false excuse might satisfy him today and Allah would turn him against me tomorrow; if I tell the truth and he is angry, I can hope for a good end from Allah in it.",
+            bn: "নবীজি ﷺ ফিরে এলে পেছনে থাকা লোকেরা তাঁর কাছে হাজির হলো। কাবের হিসাবে আশির ওপরে মানুষ, সবাই কসম খেয়ে ওজর পেশ করছে। তিনি তাদের মুখের কথা মেনে নিলেন, গোপন হিসাব ছেড়ে দিলেন আল্লাহর কাছে। কাব এলেন এটা জেনেই যে মিথ্যা তিনিও ওদের কারও চেয়ে কম পারেন না। কিন্তু ভাবলেন, বানানো ওজরে হয়তো আজ তাঁকে খুশি করলাম, তারপর আল্লাহই তাঁর মন আমার বিরুদ্ধে ফিরিয়ে দেবেন। আর সত্য বলে যদি তাঁর রাগও কুড়াই, তাতে আল্লাহর কাছে ভালো পরিণতির আশা তো থাকে।",
+          },
+          {
+            en: "So he said it plainly: by Allah, I had no excuse, and I was never stronger or better provided than the night I stayed behind. The Prophet ﷺ said: as for this one, he has spoken the truth. Rise, until Allah gives His decision about you. Tribesmen followed Ka'b out, urging him to invent an excuse; he nearly turned back, then asked whether anyone else had said the like of what he had said, and was told of two, Murarah ibn ar-Rabi and Hilal ibn Umayyah, both men of Badr, and he held firm.",
+            bn: "তাই সোজা করেই বললেন। আল্লাহর কসম, আমার কোনো ওজর ছিল না। যে রাতে পিছিয়ে রইলাম, তার চেয়ে বেশি শক্তি আর সঙ্গতি আমার কোনোদিন ছিল না। নবীজি ﷺ বললেন, এই লোকটি সত্য বলেছে। যাও, আল্লাহ তোমার ব্যাপারে ফয়সালা না দেওয়া পর্যন্ত অপেক্ষা করো। গোত্রের লোকেরা পিছু নিল, চাপ দিতে থাকল, বাকিদের মতো একটা ওজর বানিয়ে নাও। প্রায় ফিরেই যাচ্ছিলেন। তারপর জিজ্ঞেস করলেন, আমার মতো কথা আর কেউ বলেছে? শুনলেন, বলেছেন আরও দুজন, মুরারা ইবনুর রাবি ও হিলাল ইবনে উমাইয়া, দুজনই বদরের মানুষ। তখন আর টললেন না।",
+          },
+        ],
+      },
+      {
+        h: { en: "Fifty Nights", bn: "পঞ্চাশ রাত" },
+        p: [
+          {
+            en: "The Prophet ﷺ forbade the Muslims to speak to the three, and Madinah turned to stone. The other two stayed home weeping; Ka'b, the youngest, walked out into it daily, greeting people who would not answer, watching the Prophet's ﷺ eyes slide away from his. He climbed the wall of his beloved cousin Abu Qatadah and asked him by Allah: do you know that I love Allah and His Messenger? Allah and His Messenger know best, was all his cousin would say, and Ka'b wept.",
+            bn: "নবীজি ﷺ মুসলমানদের নিষেধ করে দিলেন, এই তিনজনের সঙ্গে কেউ কথা বলবে না। মদিনা যেন পাথর হয়ে গেল। বাকি দুজন ঘরে বসে কাঁদতেন। কাব ছিলেন তিনজনের মধ্যে তরুণ আর শক্ত, রোজ বেরোতেন এই পাথরের শহরেই। মসজিদে নামাজ পড়েন, সালাম দেন, জবাব আসে না। দেখেন, নবীজি ﷺ-এর দৃষ্টি তাঁর চোখের ওপর থেকে সরে সরে যায়। সবচেয়ে প্রিয় মানুষ, চাচাতো ভাই আবু কাতাদার দেয়াল টপকে গেলেন। আল্লাহর নামে কসম দিয়ে জিজ্ঞেস করলেন, তুমি কি জানো না আমি আল্লাহ ও তাঁর রাসুলকে ভালোবাসি? ভাইয়ের মুখে শুধু এলো, আল্লাহ ও তাঁর রাসুলই ভালো জানেন। কাব কেঁদে ফেললেন।",
+          },
+          {
+            en: "Then a stranger pressed a letter into his hand from the king of Ghassan: we hear your master has treated you harshly; come to us and we will console you. Ka'b read it, said, this too is part of the trial, and fed it to his oven. After forty nights came a harder order still: withdraw from your wife. He sent her to her family and stayed, alone now in every direction a man can be alone, and did not break.",
+            bn: "তারপর এক অচেনা লোক তাঁর হাতে গুঁজে দিল গাসসানের রাজার চিঠি। শুনলাম তোমার সাহেব তোমার সঙ্গে রূঢ় আচরণ করেছে; আমাদের কাছে চলে এসো, আমরা তোমাকে সান্ত্বনা দেব। কাব পড়লেন আর বললেন, এ-ও পরীক্ষারই অংশ। চিঠিটা দিলেন চুলায় ফেলে। চল্লিশ রাত পার হলে নবীজি ﷺ-এর দূত আনলেন আরও কঠিন হুকুম। স্ত্রীর কাছ থেকেও আলাদা হয়ে যাও। স্ত্রীকে বাপের বাড়ি পাঠিয়ে তিনি রয়ে গেলেন। মানুষ যত দিক থেকে একা হতে পারে, তত দিক থেকেই এখন একা। তবু ভাঙলেন না।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Cry from Mount Sal'", bn: "সাল পাহাড়ের সেই ডাক" },
+        p: [
+          {
+            en: "On the morning of the fiftieth night, Ka'b prayed Fajr on a rooftop and sat afterwards in the state the Quran itself describes: the earth had closed in on him despite its vastness, and his own soul had closed in on him. Then a voice from the top of Mount Sal' reached him at full cry: Ka'b ibn Malik, good news! He fell down in prostration, knowing relief had come.",
+            bn: "পঞ্চাশতম রাত পেরোনো ভোরে কাব নিজের এক বাড়ির ছাদে ফজর পড়লেন। তারপর বসে রইলেন ঠিক সেই হালে, কুরআন নিজে যার ছবি এঁকেছে। জমিন তার সমস্ত বিশালতা নিয়েও তাঁর ওপর সংকুচিত হয়ে এসেছে, নিজের জানটাও নিজের ওপর চেপে বসেছে। এমন সময় সাল পাহাড়ের চূড়া থেকে ভেসে এলো গলা ফাটানো ডাক। কাব ইবনে মালিক, সুসংবাদ! তিনি লুটিয়ে পড়লেন সিজদায়, বুঝলেন মুক্তি এসেছে।",
+          },
+          {
+            en: "He gave his two garments to the bringer of the news, borrowed others, and went to the mosque. The believers rose to congratulate him; he never forgot that Talhah ibn Ubaydillah (RA) ran to him, shook his hand, and blessed him. The Prophet's ﷺ face was shining like a piece of the moon as he said: be glad of the best day that has passed over you since your mother bore you. Is it from you, Ka'b asked, or from Allah? From Allah, he said.",
+            bn: "সুসংবাদ আনা মানুষটিকে তিনি নিজের দুটি কাপড়ই খুলে দিলেন, ধার করা দুটি পরে গেলেন মসজিদে। মুমিনরা দলে দলে উঠে দাঁড়িয়ে মোবারকবাদ জানাতে লাগল। তালহা ইবনে উবাইদুল্লাহ (রাঃ) যে দৌড়ে এসে হাত ধরে দোয়া করলেন, সে কথা তিনি জীবনেও ভোলেননি। নবীজি ﷺ-এর চেহারা তখন জ্বলজ্বল করছে যেন চাঁদের টুকরা। বললেন, খুশি হও তোমার জীবনের সেরা দিনটির জন্য, মায়ের পেট থেকে আসার পর এমন দিন তোমার ওপর আর আসেনি। কাব জিজ্ঞেস করলেন, ইয়া রাসুলাল্লাহ, এ কি আপনার পক্ষ থেকে, না আল্লাহর পক্ষ থেকে? বললেন, আল্লাহর পক্ষ থেকে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Saved by Truthfulness", bn: "সত্যই তাঁকে বাঁচাল" },
+        p: [
+          {
+            en: "What had come from Allah was revelation. 9:117 records His forgiveness of the Prophet ﷺ and those who followed him in the hour of hardship, and 9:118 turns to the three who were left behind: the earth closed in on them despite its vastness, their souls closed in on them, and they knew there was no refuge from Allah except in Him; then He turned to them so they could repent. His turning stands first, the cause of theirs, and failure and forgiveness are kept together in one verse forever.",
+            bn: "আল্লাহর পক্ষ থেকে যা এসেছিল, তা ওহি। 9:117 আয়াতে আছে কঠিন সময়ে নবীজি ﷺ ও তাঁর অনুসারীদের প্রতি আল্লাহর ক্ষমার কথা। আর 9:118 ফিরেছে পেছনে পড়ে থাকা সেই তিনজনের দিকে। জমিন তার বিশালতা নিয়েও তাদের ওপর সংকুচিত হয়ে গেল, তাদের প্রাণ তাদের ওপর চেপে বসল, আর তারা বুঝল, আল্লাহ থেকে বাঁচার আশ্রয় তিনি ছাড়া আর কোথাও নেই। অতঃপর তিনি তাদের প্রতি ফিরলেন, যেন তারা তওবায় ফিরতে পারে। আয়াতে আল্লাহর ফেরাটাই আগে, বান্দার ফেরার কারণ সেটাই। আর ব্যর্থতা ও মাফ, দুটোই এক আয়াতে চিরদিনের জন্য পাশাপাশি রয়ে গেল।",
+          },
+          {
+            en: "Ka'b offered all his wealth in charity; the Prophet ﷺ told him to keep some, and he kept his share at Khaybar. Then came the vow that shaped his remaining decades: Allah saved me by truthfulness, so I will speak nothing but truth as long as I live. He kept it, pointing his community to 9:119, which commands the believers to be with the truthful. He told the story in blind old age, and died around 670 CE, his worst fifty nights now the Quran's picture of repentance accepted.",
+            bn: "কাব চাইলেন, তওবার অংশ হিসেবে সব সম্পদ সদকা করে দেবেন। নবীজি ﷺ বললেন, কিছু সম্পদ নিজের জন্য রেখে দাও, সেটাই তোমার জন্য ভালো। খায়বারের অংশটুকু তিনি রাখলেন। তারপর করলেন সেই ওয়াদা, যা তাঁর বাকি জীবনটাকে গড়ে দিল। আল্লাহ আমাকে বাঁচিয়েছেন সত্য দিয়ে, তাই যত দিন বাঁচি, সত্য ছাড়া কিছু বলব না। কথা তিনি রেখেছিলেন, আর মানুষকে দেখিয়ে দিতেন 9:119 আয়াতটি, যেখানে মুমিনদের হুকুম করা হয়েছে সত্যবাদীদের সঙ্গে থাকতে। অন্ধ হয়ে যাওয়া বৃদ্ধ বয়সে তিনি পুরো ঘটনা বলে গেছেন। ইন্তেকাল করেন খ্রিষ্টীয় ৬৭০ সালের দিকে। যাঁর জীবনের নিকৃষ্টতম পঞ্চাশ রাত হয়ে আছে কবুল হওয়া তওবার কুরআনি ছবি।",
+          },
+        ],
+      },
+    ],
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { SAHABA_ARTICLES };

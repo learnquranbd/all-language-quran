@@ -3734,8 +3734,8 @@ const SAHABA_DATA = [
     "yearEn": "d. 633 CE",
     "highlightEn": "The Prophet's ﷺ spokesman; given glad tidings of Paradise while alive.",
     "highlightBn": "নবীজি ﷺ-এর মুখপাত্র; জীবদ্দশায় জান্নাতের সুসংবাদপ্রাপ্ত।",
-    "summaryEn": "Thabit ibn Qays ibn Shammas (RA) was the eloquent orator and spokesman of the Ansar, who would reply on behalf of the Prophet Muhammad (peace be upon him) to visiting delegations just as the poet Hassan answered in verse. He had a naturally loud voice, and when the verse was revealed forbidding the believers from raising their voices above the Prophet's, he feared his deeds were ruined and shut himself in his home grieving. The Prophet reassured him that he was not of the people of the Fire but of the people of Paradise. Years later Thabit had a true dream foretelling his martyrdom and even the settlement of his estate; he was killed at the Battle of Yamama, and his final bequest was carried out exactly as he had seen.",
-    "summaryBn": "সাবিত ইবনে কায়স ইবনে শাম্মাস (রাঃ) ছিলেন আনসারের বাগ্মী ও মুখপাত্র, যিনি আগত প্রতিনিধিদলের সামনে রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম)-এর পক্ষ থেকে জবাব দিতেন, যেমন কবি হাসসান কবিতায় জবাব দিতেন। তাঁর কণ্ঠস্বর ছিল স্বভাবতই উঁচু, আর যখন নবীজির স্বরের ওপর কণ্ঠ না তোলার আয়াত নাজিল হয়, তিনি নিজের আমল বরবাদ হওয়ার আশঙ্কায় ঘরে বন্দি হয়ে শোক করেন। নবীজি তাঁকে আশ্বস্ত করেন যে তিনি জাহান্নামি নন বরং জান্নাতিদের একজন। বছর কয়েক পরে সাবিত এক সত্য স্বপ্নে নিজ শাহাদাত ও এমনকি সম্পত্তির ফয়সালার আভাস পান; ইয়ামামার যুদ্ধে তিনি শহীদ হন, আর তাঁর শেষ অসিয়ত হুবহু তাঁর দেখা মতোই বাস্তবায়িত হয়।",
+    "summaryEn": "Thabit ibn Qays ibn Shammas (RA) was the eloquent orator and spokesman of the Ansar, who would reply on behalf of the Prophet Muhammad (peace be upon him) to visiting delegations just as the poet Hassan answered in verse. He had a naturally loud voice, and when the verse was revealed forbidding the believers from raising their voices above the Prophet's, he feared his deeds were ruined and shut himself in his home grieving. The Prophet reassured him that he was not of the people of the Fire but of the people of Paradise. He was killed at the Battle of Yamama; afterwards a Muslim saw him in a dream directing where his armor lay and stating his bequests, it was found as described, and his will was carried out.",
+    "summaryBn": "সাবিত ইবনে কায়স ইবনে শাম্মাস (রাঃ) ছিলেন আনসারের বাগ্মী ও মুখপাত্র, যিনি আগত প্রতিনিধিদলের সামনে রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম)-এর পক্ষ থেকে জবাব দিতেন, যেমন কবি হাসসান কবিতায় জবাব দিতেন। তাঁর কণ্ঠস্বর ছিল স্বভাবতই উঁচু, আর যখন নবীজির স্বরের ওপর কণ্ঠ না তোলার আয়াত নাজিল হয়, তিনি নিজের আমল বরবাদ হওয়ার আশঙ্কায় ঘরে বন্দি হয়ে শোক করেন। নবীজি তাঁকে আশ্বস্ত করেন যে তিনি জাহান্নামি নন বরং জান্নাতিদের একজন। ইয়ামামার যুদ্ধে তিনি শহীদ হন; এরপর এক মুসলিম স্বপ্নে তাঁকে দেখেন — তাঁর বর্মটি কোথায় আছে আর অসিয়তগুলো কী, তিনি বলে দিচ্ছেন। বর্ণনামতোই সব পাওয়া যায়, আর তাঁর অসিয়ত কার্যকর করা হয়।",
     "events": [
       {
         "en": "Spokesman of the Ansar before delegations",
@@ -3746,8 +3746,8 @@ const SAHABA_DATA = [
         "bn": "কণ্ঠ নত করার আয়াতে ভয় পান, পরে জান্নাতের আশ্বাস পান"
       },
       {
-        "en": "Foretold his martyrdom and estate in a true dream",
-        "bn": "সত্য স্বপ্নে নিজ শাহাদাত ও সম্পত্তির আভাস পান"
+        "en": "Seen in a dream after his death, directing his armor and bequests",
+        "bn": "শাহাদাতের পর স্বপ্নে দেখা দিয়ে বর্ম ও অসিয়তের সন্ধান দেন"
       },
       {
         "en": "Martyred at the Battle of Yamama",
