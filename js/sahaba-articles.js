@@ -5178,6 +5178,433 @@ const SAHABA_ARTICLES = {
       },
     ],
   },
+  abdullah_ibn_az_zubayr: {
+    sections: [
+      {
+        h: { en: "Born on the Road of Hijrah", bn: "হিজরতের পথে জন্ম" },
+        p: [
+          {
+            en: "Asma bint Abi Bakr (RA) set out on the hijrah while she was pregnant, and gave birth at Quba on the edge of Madinah. The child was Abdullah, son of az-Zubayr ibn al-Awwam (RA) and grandson of Abu Bakr as-Siddiq (RA). Sahih al-Bukhari records from Asma herself that he was the first child born to the Muhajirun after the emigration. She carried the newborn to the Prophet ﷺ, who sat him in his lap, chewed a date, placed it in the baby's mouth, and prayed for blessing upon him.",
+            bn: "আসমা বিনতে আবু বকর (রাঃ) হিজরতের সফরে বেরিয়েছিলেন অন্তঃসত্ত্বা অবস্থায়। মদিনার প্রান্তে কুবায় পৌঁছে তাঁর সন্তান হয়। এই শিশুই আবদুল্লাহ, যুবাইর ইবনুল আওয়াম (রাঃ)-এর ছেলে, আবু বকর সিদ্দিক (রাঃ)-এর নাতি। সহিহ বুখারিতে আসমার নিজের জবানে আছে, হিজরতের পর মুহাজিরদের ঘরে জন্ম নেওয়া প্রথম সন্তান তিনিই। মা নবজাতককে নিয়ে গেলেন নবীজি ﷺ-এর কাছে। তিনি শিশুটিকে কোলে বসালেন, খেজুর আনিয়ে চিবিয়ে তার মুখে দিলেন, তারপর তার জন্য বরকতের দোয়া করলেন।",
+          },
+          {
+            en: "The Muslims raised the takbir over his birth. A rumour had spread that the Jews of Madinah claimed to have bewitched the emigrants so that no child would be born to them, and this boy was the answer to it. He grew up inside the first household of Islam: his grandfather was Abu Bakr (RA), his aunt was Aisha (RA), and his grandmother was Safiyyah bint Abd al-Muttalib, the Prophet's ﷺ own aunt. Few Companions were tied to the Prophet ﷺ by so many threads at once.",
+            bn: "তাঁর জন্মে মুসলিমরা তাকবির দিয়ে উঠেছিলেন। কারণ তখন রটে গিয়েছিল, মদিনার ইহুদিরা নাকি জাদু করেছে, মুহাজিরদের ঘরে আর সন্তানই হবে না। এই শিশুই ছিল সেই রটনার জবাব। বেড়ে উঠলেন তিনি ইসলামের একেবারে প্রথম পরিবারটির ভেতরে। নানা আবু বকর (রাঃ), খালা আয়েশা (রাঃ), আর দাদি সাফিয়্যা বিনতে আবদুল মুত্তালিব ছিলেন স্বয়ং নবীজি ﷺ-এর ফুফু। এত দিক থেকে নবীজি ﷺ-এর সঙ্গে বাঁধা সাহাবি খুব কমই ছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Worshipper First", bn: "আগে তিনি ইবাদতগুজার" },
+        p: [
+          {
+            en: "Before history remembers him for anything else, the sources remember him for worship. The biographers describe his night prayer as long and unhurried, his fasting as constant, and his recitation as something men would stop to listen to. He was called one of the devoted worshippers of Quraysh. His courage was of the same fabric: the historians record that as a boy he was already present with his father's army in the wars of Syria, and as a man no field frightened him.",
+            bn: "ইতিহাস তাঁকে আর যা কিছুর জন্যই মনে রাখুক, সূত্রগুলো আগে মনে রেখেছে তাঁর ইবাদত। জীবনীকাররা লিখেছেন, তাঁর তাহাজ্জুদ ছিল দীর্ঘ ও ধীরস্থির, রোজা প্রায় লেগেই থাকত, আর তাঁর তিলাওয়াত শুনতে মানুষ থেমে যেত। কুরাইশের নিবেদিত ইবাদতগুজারদের একজন বলা হতো তাঁকে। সাহসও ছিল একই ধাতের। ইতিহাসবিদরা লিখেছেন, বালক বয়সেই তিনি বাবার সঙ্গে শামের যুদ্ধযাত্রায় হাজির ছিলেন, আর পূর্ণ বয়সে কোনো ময়দানই তাঁকে ভয় দেখাতে পারেনি।",
+          },
+          {
+            en: "He also carried knowledge. He had heard hadith from the Prophet ﷺ as a child and took more from his father, from Abu Bakr (RA), from Umar (RA), and from his aunt Aisha (RA), who was especially attached to him. Students in Makkah and Madinah transmitted from him in turn. In him the line between scholar and soldier that later generations drew did not yet exist; the same man fasted, narrated, and fought.",
+            bn: "ইলমও তিনি বহন করেছেন। শিশু বয়সে নবীজি ﷺ-এর কাছ থেকে হাদিস শুনেছেন, পরে নিয়েছেন বাবার কাছ থেকে, আবু বকর (রাঃ), উমর (রাঃ) আর খালা আয়েশা (রাঃ)-এর কাছ থেকে। আয়েশা (রাঃ) তাঁকে বিশেষ স্নেহ করতেন। মক্কা ও মদিনার ছাত্ররা আবার তাঁর কাছ থেকেই বর্ণনা নিয়েছে। আলেম আর যোদ্ধার মাঝে পরের যুগ যে দেয়াল তুলেছে, তাঁর জীবনে তা ছিল না। একই মানুষ রোজা রাখতেন, হাদিস শোনাতেন, যুদ্ধও করতেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "On Uthman's Quran Committee", bn: "উসমানের কুরআন-কমিটিতে" },
+        p: [
+          {
+            en: "When the conquests carried Islam to Armenia and Azerbaijan, Muslims from different regions began to dispute over recitation. Sahih al-Bukhari 4987 records that Uthman (RA) appointed Zayd ibn Thabit (RA) to copy the Quran into unified volumes, and placed with him three men of Quraysh: Abdullah ibn az-Zubayr, Said ibn al-As, and Abd ar-Rahman ibn al-Harith. Their instruction was exact: wherever they differed with Zayd, they were to write it in the tongue of Quraysh, for the Quran had come down in it.",
+            bn: "বিজয়ের ঢেউ যখন আর্মেনিয়া ও আজারবাইজান পর্যন্ত পৌঁছাল, বিভিন্ন অঞ্চলের মুসলিমরা তিলাওয়াত নিয়ে বিতর্কে জড়াতে লাগল। সহিহ বুখারি ৪৯৮৭-এ আছে, উসমান (রাঃ) কুরআনকে অভিন্ন মাসহাফে নকলের দায়িত্ব দিলেন যায়েদ ইবনে সাবিত (রাঃ)-কে, আর তাঁর সঙ্গে দিলেন কুরাইশের তিনজনকে। আবদুল্লাহ ইবনে যুবাইর, সাঈদ ইবনুল আস ও আবদুর রহমান ইবনুল হারিস। নির্দেশ ছিল স্পষ্ট: যায়েদের সঙ্গে কোথাও মতভেদ হলে কুরাইশের ভাষায় লিখতে হবে, কারণ কুরআন সেই ভাষাতেই নাজিল হয়েছে।",
+          },
+          {
+            en: "It is worth pausing on who was trusted with what. The task was the text of the Book of Allah, the most consequential writing project the ummah ever undertook, and one of the four names on it was the first child of the hijrah, still in his twenties. His recitation, his memory, and his standing were beyond suspicion. Whatever else his life became, his hand is in the mushaf that Muslims have read from that day to this.",
+            bn: "কাকে কোন আমানত দেওয়া হলো, সেখানে একটু থামা দরকার। কাজটি ছিল আল্লাহর কিতাবের পাঠ নিয়ে, উম্মাহর ইতিহাসে এর চেয়ে ভারী লেখার কাজ আর হয়নি। সেই কাজের চার নামের একটি হিজরতের প্রথম সন্তান, তখনো বিশের কোঠার তরুণ। তাঁর তিলাওয়াত, স্মৃতি আর মর্যাদা ছিল সন্দেহের ঊর্ধ্বে। তাঁর জীবন পরে যে দিকেই গড়াক, আজ পর্যন্ত মুসলিমরা যে মাসহাফ পড়ে, তাতে তাঁর হাতের ছোঁয়া রয়ে গেছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Rebuilding the Ka'bah", bn: "কাবা পুনর্নির্মাণ" },
+        p: [
+          {
+            en: "Both Sahihs preserve Aisha's (RA) report that the Prophet ﷺ told her: were her people not so recently out of disbelief, he would have rebuilt the Ka'bah upon the foundations of Ibrahim (AS), bringing the hijr back inside and giving it two doors at ground level. Quraysh had run short of lawful funds when they rebuilt it and had left part of the original foundation outside. The Prophet ﷺ chose not to unsettle a people new to faith over the shape of the House.",
+            bn: "আয়েশা (রাঃ)-এর বর্ণনা দুই সহিহতেই আছে। নবীজি ﷺ তাঁকে বলেছিলেন, তোমার কওম সবে কুফর ছেড়ে এসেছে; তা না হলে আমি কাবাকে ইবরাহিম (আঃ)-এর ভিতের ওপর নতুন করে গড়তাম, হাতিমকে ভেতরে আনতাম, মাটির সমান দুটো দরজা রাখতাম। কুরাইশ পুনর্নির্মাণের সময় হালাল অর্থে কুলিয়ে উঠতে পারেনি, তাই মূল ভিতের খানিকটা বাইরে রয়ে গিয়েছিল। সদ্য ঈমান আনা এক জাতিকে ঘরের আকৃতি নিয়ে অস্থির করতে নবীজি ﷺ চাননি।",
+          },
+          {
+            en: "Abdullah ibn az-Zubayr had heard that report from his aunt. When the Ka'bah was damaged during the first siege of Makkah in 64 AH, he demolished the weakened structure and rebuilt it exactly as the Prophet ﷺ had described: on the foundations of Ibrahim (AS), the hijr enclosed, two doors set at ground level. After his death the building was returned to the earlier Quraysh form. But his intent was not innovation; it was a hadith acted upon.",
+            bn: "খালার কাছেই আবদুল্লাহ ইবনে যুবাইর হাদিসটি শুনেছিলেন। ৬৪ হিজরিতে মক্কার প্রথম অবরোধে কাবা ক্ষতিগ্রস্ত হলে তিনি দুর্বল কাঠামোটি ভেঙে ঠিক সেভাবেই গড়লেন, যেভাবে নবীজি ﷺ বলে গিয়েছিলেন। ইবরাহিম (আঃ)-এর ভিতের ওপর, হাতিম ভেতরে, মাটি-ছোঁয়া দুটো দরজা। তাঁর মৃত্যুর পর ঘরটিকে আবার কুরাইশের আগের আকৃতিতে ফিরিয়ে নেওয়া হয়। তবে তাঁর নিয়ত নতুন কিছু বানানো ছিল না। ছিল একটি হাদিসের ওপর আমল।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Years of Division", bn: "বিভক্তির বছরগুলো" },
+        p: [
+          {
+            en: "After Mu'awiyah's (RA) death, Abdullah ibn az-Zubayr declined to pledge allegiance to Yazid and moved to the sanctuary of Makkah. When Yazid died in 64 AH, the people of the Hijaz, Iraq, Yemen, and for a time most other regions gave Ibn az-Zubayr their allegiance as caliph, while the Umayyads held Syria and the claims contended for nearly a decade. The rest was disputed among the Muslims themselves; these pages take no side in it.",
+            bn: "মুয়াবিয়া (রাঃ)-এর মৃত্যুর পর আবদুল্লাহ ইবনে যুবাইর ইয়াজিদের হাতে বাইয়াত দিতে রাজি হননি; চলে যান মক্কার হারামে। ৬৪ হিজরিতে ইয়াজিদ মারা গেলে হিজাজ, ইরাক, ইয়েমেন আর কিছুকালের জন্য অধিকাংশ অঞ্চলের মানুষ তাঁকে খলিফা মেনে বাইয়াত দেয়। শাম থাকে উমাইয়াদের হাতে, আর প্রায় এক দশক দুই দাবি পাশাপাশি চলে। যা সর্বসম্মত, এখানে তা-ই বলা হলো। বাকিটা ছিল মুসলিমদের নিজেদের মতভেদ, এই পাতা তাতে কোনো পক্ষ নেয় না।",
+          },
+          {
+            en: "Through those years he remained what he had always been. Reports of his rule describe the same long prayers and the same fasting; power did not change his habits of worship. He governed from beside the House he had rebuilt, and the people of the two sanctuaries knew him as an imam who led them in prayer before he was anything else to them.",
+            bn: "সেই বছরগুলোতেও তিনি যা ছিলেন, তা-ই রইলেন। তাঁর শাসনকালের বিবরণেও সেই দীর্ঘ নামাজ আর সেই রোজার কথা; ক্ষমতা তাঁর ইবাদতের অভ্যাস বদলাতে পারেনি। নিজ হাতে গড়া ঘরটির পাশে বসেই তিনি শাসন চালাতেন। দুই হারামের মানুষ তাঁকে আগে চিনত নামাজের ইমাম হিসেবে, শাসক হিসেবে তার পরে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Asma's Last Counsel", bn: "আসমার শেষ উপদেশ" },
+        p: [
+          {
+            en: "In 72 AH the army of Abd al-Malik ibn Marwan, commanded by al-Hajjaj ibn Yusuf, besieged Makkah. As the end closed in, Abdullah went to his mother Asma (RA), now aged and blind, and laid the matter before her. Her answer has been repeated for thirteen centuries: if he knew himself to be upon truth, then let him stand firm for it, for how long is this world; and a noble death is better than a watched and humiliated life.",
+            bn: "৭২ হিজরিতে আবদুল মালিক ইবনে মারওয়ানের বাহিনী হাজ্জাজ ইবনে ইউসুফের নেতৃত্বে মক্কা অবরোধ করল। শেষ ঘনিয়ে এলে আবদুল্লাহ গেলেন মায়ের কাছে। আসমা (রাঃ) তখন বৃদ্ধা, চোখেও দেখেন না। ছেলে সব খুলে বললেন। মায়ের সেই জবাব তেরো শতাব্দী ধরে মানুষের মুখে মুখে ফিরছে: নিজেকে হকের ওপর জানলে তার জন্যই অটল থাকো; এই দুনিয়া আর কতদিনের! মাথা নিচু করে বেঁচে থাকার চেয়ে সম্মানের মৃত্যু ভালো।",
+          },
+          {
+            en: "He fought until he was killed near the Ka'bah in Jumada al-Ula of 73 AH, at about the age of seventy. The child whose birth had made the Muhajirun shout the takbir died beside the House he had rebuilt on Ibrahim's (AS) foundations. What remains of him is what he would have wanted counted: his worship, his narrations, his hand in the mushaf, and a mother's counsel about truth that outlived them both.",
+            bn: "লড়াই করতে করতে ৭৩ হিজরির জমাদিউল উলায় কাবার কাছেই তিনি শহিদ হন, বয়স তখন সত্তরের কাছাকাছি। যাঁর জন্মে মুহাজিররা তাকবির দিয়ে উঠেছিলেন, তিনি প্রাণ দিলেন সেই ঘরের পাশে, যা তিনি ইবরাহিম (আঃ)-এর ভিতের ওপর গড়েছিলেন। তাঁর যা রয়ে গেল, তিনি নিজেও হয়তো তারই হিসাব চাইতেন। তাঁর ইবাদত, তাঁর হাদিস, মাসহাফে তাঁর হাতের অংশ, আর হক নিয়ে এক মায়ের সেই উপদেশ, যা মা-ছেলে দুজনকেই ছাড়িয়ে বেঁচে আছে।",
+          },
+        ],
+      },
+    ],
+  },
+  al_bara_ibn_azib: {
+    sections: [
+      {
+        h: { en: "Too Young for Badr", bn: "বদরের জন্য বয়স হয়নি" },
+        p: [
+          {
+            en: "al-Bara ibn Azib (RA) was a boy of the Aws in Madinah when the Prophet ﷺ arrived, from a household already given to Islam; his father Azib was a Companion too. When the army marched out toward Badr, al-Bara was left behind. Sahih al-Bukhari records him saying that he and Abdullah ibn Umar (RA) were both considered too young on that day. The men went on to the battle that named a generation, and the two boys went home.",
+            bn: "নবীজি ﷺ মদিনায় পৌঁছানোর সময় বারা ইবনে আজিব (রাঃ) আওস গোত্রের এক কিশোর। ঘরটাই ছিল ইসলামের; বাবা আজিবও সাহাবি। বাহিনী যখন বদরের পথে বের হলো, বারাকে রেখে যাওয়া হলো। সহিহ বুখারিতে তাঁর নিজের কথা আছে: সেদিন তাঁকে আর আবদুল্লাহ ইবনে উমর (রাঃ)-কে খুব ছোট মনে করা হয়েছিল। বড়রা চলে গেলেন সেই যুদ্ধে, যা একটি প্রজন্মের নাম হয়ে গেছে; দুই কিশোর ফিরে গেল ঘরে।",
+          },
+          {
+            en: "Being sent home did not push him out of the story; it fixed his place in it. Boys who were refused a sword grew up watching every prayer, every sermon, and every decision at close range, and al-Bara's later narrations carry exactly that quality of an eyewitness who missed nothing. His first campaign was the Battle of the Trench, and after it he was absent from few of the Prophet's ﷺ expeditions.",
+            bn: "ফিরিয়ে দেওয়ায় তিনি ইতিহাসের বাইরে পড়ে যাননি, বরং তাঁর জায়গাটাই পাকা হয়ে গেল। যে কিশোরদের হাতে তরবারি ওঠেনি, তারা খুব কাছ থেকে দেখে দেখে বড় হয়েছে প্রতিটি নামাজ, প্রতিটি খুতবা, প্রতিটি সিদ্ধান্ত। বারার পরের বর্ণনাগুলোতে ঠিক সেই প্রত্যক্ষদর্শীর ছাপ, যার চোখ কিছুই এড়ায়নি। তাঁর প্রথম অভিযান খন্দকের যুদ্ধ। এরপর নবীজি ﷺ-এর খুব কম অভিযানেই তিনি অনুপস্থিত ছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Day the Qibla Turned", bn: "যেদিন কিবলা ঘুরল" },
+        p: [
+          {
+            en: "One of al-Bara's most cited narrations preserves a hinge of Islamic history. He reported that the Prophet ﷺ prayed toward Jerusalem for sixteen or seventeen months after reaching Madinah, while longing for the House in Makkah, until the command of 2:144 turned the prayer toward the Sacred Mosque. Sahih al-Bukhari records the scene through him: a man who had prayed with the Prophet ﷺ passed by people of the Ansar bowed in prayer, told them what he had witnessed, and they turned toward the Ka'bah as they were.",
+            bn: "বারার সবচেয়ে বেশি উদ্ধৃত বর্ণনাগুলোর একটি ধরে রেখেছে ইতিহাসের এক বাঁকবদল। তিনি জানিয়েছেন, মদিনায় এসে নবীজি ﷺ ষোলো-সতেরো মাস বাইতুল মাকদিসের দিকে নামাজ পড়েছেন, অথচ মন পড়ে থাকত মক্কার ঘরের দিকে। অবশেষে 2:144-এর হুকুম নামাজ ফিরিয়ে দিল মসজিদুল হারামের দিকে। দৃশ্যটা সহিহ বুখারিতে তাঁর জবানেই আছে: নবীজি ﷺ-এর সঙ্গে নামাজ পড়ে আসা এক ব্যক্তি রুকুরত আনসারদের পাশ দিয়ে যাচ্ছিলেন। যা দেখে এসেছেন তা বললেন, আর তাঁরা নামাজের মধ্যেই কাবার দিকে ঘুরে গেলেন।",
+          },
+          {
+            en: "The report shows what obedience looked like in that community: a single trustworthy witness was enough for a whole congregation to pivot mid-prayer. It also shows the narrator's craft. al-Bara did not merely say the qibla changed; he kept the months, the longing, and the turning bodies, so that later generations could stand in that prayer row in their minds. This is why Kufa would one day treasure him as a teacher.",
+            bn: "সেই সমাজে আনুগত্য কেমন ছিল, ঘটনাটাই বলে দেয়। একজন নির্ভরযোগ্য সাক্ষীর কথাতেই গোটা জামাত নামাজের মাঝখানে দিক বদলে ফেলল। বর্ণনাকারীর মুনশিয়ানাটাও চোখে পড়ে। বারা শুধু 'কিবলা বদলে গেছে' বলে থামেননি। মাসের হিসাব, মনের টান, ঘুরে যাওয়া কাতার, সবটাই তিনি ধরে রেখেছেন, যেন পরের প্রজন্ম কল্পনায় সেই কাতারে গিয়ে দাঁড়াতে পারে। কুফা কেন তাঁকে শিক্ষক হিসেবে এত আগলে রাখবে, এখানেই তার উত্তর।",
+          },
+        ],
+      },
+      {
+        h: { en: "Sleep Upon Wudu", bn: "অজু অবস্থায় ঘুম" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 247 preserves, through al-Bara, one of the most practised bedtime teachings in Islam. The Prophet ﷺ told him: when you go to your bed, perform wudu as you would for prayer, lie on your right side, and say, O Allah, I submit myself to You, entrust my affair to You, and take refuge in You, in hope and fear of You; I believe in Your Book which You revealed and Your Prophet whom You sent. If you die that night, he said, you die upon the fitrah; and make these the last words you speak.",
+            bn: "ঘুমানোর আগের যে শিক্ষাটির ওপর মুসলিমরা সবচেয়ে বেশি আমল করে, তার একটি সহিহ বুখারি ২৪৭-এ এসেছে বারার সূত্রেই। নবীজি ﷺ তাঁকে বলেছিলেন: বিছানায় যাওয়ার সময় নামাজের মতো করে অজু করো, ডান কাতে শোও, তারপর বলো, হে আল্লাহ, আমি নিজেকে আপনার কাছে সঁপে দিলাম, আমার সব ব্যাপার আপনার হাতে তুলে দিলাম, আশায় ও ভয়ে আপনারই আশ্রয় নিলাম; আপনার নাজিল করা কিতাবে আর আপনার পাঠানো নবীর ওপর ঈমান আনলাম। বললেন, সে রাতে মারা গেলে মরবে ফিতরাতের ওপর; আর এ কথাগুলোই যেন হয় তোমার শেষ কথা।",
+          },
+          {
+            en: "The same report carries a lesson about precision. When al-Bara repeated the words back and said, and Your Messenger whom You sent, the Prophet ﷺ corrected him: no; and Your Prophet whom You sent. Even a synonym, even one that seems to honour him more, was not allowed to replace the taught wording. Men who were trained like this became the guardians of the sunnah, and al-Bara transmitted roughly three hundred hadith with that discipline behind them.",
+            bn: "একই হাদিসে নির্ভুলতার একটি পাঠও আছে। বারা কথাগুলো ফিরিয়ে বলতে গিয়ে বললেন, 'আপনার পাঠানো রাসূলের ওপর'। নবীজি ﷺ শুধরে দিলেন: না, বলো 'আপনার পাঠানো নবীর ওপর'। সমার্থক শব্দও চলবে না, এমনকি যে শব্দে সম্মান বেশি মনে হয়, তা-ও শেখানো শব্দের জায়গা নিতে পারবে না। এভাবে গড়ে ওঠা মানুষগুলোই হয়েছিলেন সুন্নাহর পাহারাদার। বারা যে প্রায় তিনশো হাদিস পৌঁছে দিয়েছেন, তার পেছনে ছিল এই শৃঙ্খলা।",
+          },
+        ],
+      },
+      {
+        h: { en: "From the Trench to Rayy", bn: "খন্দক থেকে রাই" },
+        p: [
+          {
+            en: "From the Trench onward, al-Bara's life ran with the campaigns. He fought under the Prophet ﷺ in the expeditions that followed, and he is among those who narrated the events of al-Hudaybiyyah and the entry into Makkah. After the Prophet's ﷺ death the wars moved outward, and in the age of the conquests al-Bara led operations in the region of Rayy in the Persian highlands, one of the Ansar entrusted with command far from the city that raised him.",
+            bn: "খন্দকের পর থেকে বারার জীবন চলেছে অভিযানের তালে তালে। নবীজি ﷺ-এর অধীনে পরের যুদ্ধগুলোতে লড়েছেন; হুদাইবিয়া আর মক্কায় প্রবেশের ঘটনাও যাঁরা বর্ণনা করেছেন, তিনি তাঁদের একজন। নবীজি ﷺ-এর ইন্তেকালের পর যুদ্ধ ছড়িয়ে পড়ল বাইরের দিকে। বিজয়ের সেই যুগে পারস্যের পাহাড়ি অঞ্চল রাইতে অভিযানের নেতৃত্ব দেন বারা। যে শহর তাঁকে বড় করেছে, তার থেকে বহু দূরে সেনাপতির দায়িত্ব পাওয়া আনসারদের একজন তিনি।",
+          },
+          {
+            en: "The boy once judged too small to carry a sword ended his fighting years as a commander. Nothing in the sources suggests he found this ironic; he simply served at whatever size the task came in. That steadiness, more than any single exploit, is what his biographers dwell on, and it is why both his sword and his memory were trusted.",
+            bn: "যে কিশোরকে একদিন তরবারির জন্যও ছোট ভাবা হয়েছিল, যুদ্ধজীবন তিনি শেষ করলেন সেনাপতি হয়ে। এ নিয়ে তাঁর কোনো খেদ ছিল বলে সূত্রগুলোতে ইঙ্গিতও নেই। কাজ যত বড় বা ছোট হয়ে আসুক, তিনি শুধু তা পালন করে গেছেন। জীবনীকাররা কোনো একক বীরত্বের চেয়ে এই অবিচল স্বভাব নিয়েই বেশি লিখেছেন। তাঁর তরবারি আর তাঁর স্মৃতি, দুটোই যে মানুষ ভরসা করত, কারণ এখানেই।",
+          },
+        ],
+      },
+      {
+        h: { en: "Teacher of Kufa", bn: "কুফার শিক্ষক" },
+        p: [
+          {
+            en: "When the garrison cities were founded, al-Bara settled in Kufa, and there his second career began. The city filled with new Muslims who had never seen the Prophet ﷺ, and al-Bara became one of their living links to him, teaching what he had watched since boyhood. Students took from him the qibla report, the sleeping du'a, the scenes of the Trench, and the ordinary texture of the Prophet's ﷺ days that only a close observer could supply.",
+            bn: "সেনানিবাস-শহরগুলো গড়ে উঠলে বারা থিতু হলেন কুফায়, আর সেখানেই শুরু হলো তাঁর দ্বিতীয় জীবন। শহর ভরে উঠছিল এমন নতুন মুসলিমে, যারা নবীজি ﷺ-কে কখনো চোখে দেখেনি। বারা হয়ে উঠলেন তাঁর সঙ্গে তাদের জীবন্ত যোগসূত্রগুলোর একটি; কৈশোর থেকে যা দেখে এসেছেন, তা-ই শেখাতে লাগলেন। ছাত্ররা তাঁর কাছ থেকে নিল কিবলার বর্ণনা, ঘুমের দোয়া, খন্দকের দৃশ্য, আর নবীজি ﷺ-এর দৈনন্দিন জীবনের সেই খুঁটিনাটি, যা কেবল খুব কাছের মানুষই দিতে পারে।",
+          },
+          {
+            en: "He died in Kufa around the year 71 AH, having outlived the Prophet ﷺ by six decades. His life traces a complete arc of the first generation: the child turned back from Badr, the young man in the trench, the commander at Rayy, the old teacher in Kufa. At every stage the constant was transmission, receiving the din exactly and passing it on exactly, down to the difference between Prophet and Messenger in a bedtime prayer.",
+            bn: "প্রায় ৭১ হিজরিতে কুফাতেই তাঁর ইন্তেকাল হয়; নবীজি ﷺ-এর পরে বেঁচে ছিলেন ছয় দশক। প্রথম প্রজন্মের পুরো বৃত্তটাই তাঁর জীবনে আঁকা আছে। বদর থেকে ফিরিয়ে দেওয়া শিশু, খন্দকের তরুণ, রাইয়ের সেনাপতি, কুফার বৃদ্ধ শিক্ষক। প্রতিটি পর্বে অভিন্ন ছিল একটাই কাজ: দ্বীনকে হুবহু নেওয়া আর হুবহু পৌঁছে দেওয়া। এমনকি ঘুমের দোয়ায় 'নবী' আর 'রাসূল' শব্দের ফারাকটুকু পর্যন্ত।",
+          },
+        ],
+      },
+    ],
+  },
+  imran_ibn_husayn: {
+    sections: [
+      {
+        h: { en: "Islam in the Year of Khaybar", bn: "খাইবারের বছরে ইসলাম" },
+        p: [
+          {
+            en: "Imran ibn Husayn (RA) was of Khuza'ah, the tribe whose lands lay along the road between Makkah and Madinah and whose sympathies had long leaned toward the Prophet ﷺ. He embraced Islam in the year of Khaybar, 7 AH, in the same season that brought Abu Hurairah (RA) into the community. He had roughly four years in the Prophet's ﷺ company, and he used them the way latecomers often do: with the urgency of a man making up for lost time.",
+            bn: "ইমরান ইবনে হুসাইন (রাঃ) ছিলেন খুজাআ গোত্রের মানুষ। মক্কা-মদিনার পথের ধারে ছিল এই গোত্রের বসতি, আর তাদের মন বহুদিন ধরেই নবীজি ﷺ-এর দিকে ঝুঁকে ছিল। তিনি ইসলাম গ্রহণ করেন খাইবারের বছরে, ৭ হিজরিতে; সেই একই মৌসুমে এসেছিলেন আবু হুরাইরা (রাঃ)-ও। নবীজি ﷺ-এর সোহবত পেয়েছেন মোটে চার বছরের মতো। দেরিতে আসা মানুষ যেমন করে, তিনিও তেমনি হারানো সময় পুষিয়ে নেওয়ার তাড়নায় সেই বছরগুলো কাজে লাগিয়েছেন।",
+          },
+          {
+            en: "In those few years he prayed behind the Prophet ﷺ, fought beside him, and stored up what he heard with a jurist's care. The biographers record that he carried a banner of Khuza'ah on the day Makkah was conquered. By the time the Prophet ﷺ died, Imran had gathered enough knowledge that two caliphs later, when Basra needed teaching, his was the name that came to Umar's (RA) mind.",
+            bn: "ওই অল্প কয়েক বছরে তিনি নবীজি ﷺ-এর পেছনে নামাজ পড়েছেন, তাঁর পাশে থেকে যুদ্ধ করেছেন, আর যা শুনেছেন তা ফকিহর যত্নে বুকে জমিয়েছেন। জীবনীকাররা লিখেছেন, মক্কা বিজয়ের দিন খুজাআর একটি পতাকা ছিল তাঁর হাতে। নবীজি ﷺ-এর ইন্তেকালের সময়েই তাঁর ইলমের ভান্ডার এমন হয়ে উঠেছিল যে পরে বসরার জন্য শিক্ষক দরকার হলে উমর (রাঃ)-এর মনে প্রথমে তাঁর নামই এসেছিল।",
+          },
+        ],
+      },
+      {
+        h: { en: "Modesty Brings Only Good", bn: "লজ্জা শুধু কল্যাণই আনে" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 6117 records Imran narrating the Prophet's ﷺ words: modesty brings nothing but good. The saying fit its carrier. The sources describe Imran as a man of gravity and restraint, slow to push himself forward, careful in what he transmitted. Haya in the Prophet's ﷺ teaching is not shyness or weakness; it is the inner guard that makes a person ashamed before Allah of what is low, and Imran both narrated that teaching and displayed it.",
+            bn: "সহিহ বুখারি ৬১১৭-তে ইমরানের সূত্রে নবীজি ﷺ-এর কথাটি আছে: লজ্জা কল্যাণ ছাড়া কিছুই আনে না। কথাটি যাঁর জবানে এসেছে, তাঁর সঙ্গে মিলেও গেছে। সূত্রগুলো ইমরানকে এঁকেছে ভারিক্কি ও সংযমী মানুষ হিসেবে, যিনি নিজেকে সামনে ঠেলতেন না, আর যা বর্ণনা করতেন তাতে থাকত সতর্কতা। নবীজি ﷺ-এর শিক্ষায় হায়া মানে মুখচোরা স্বভাব বা দুর্বলতা নয়। এ হলো ভেতরের সেই পাহারা, যা নিচু কাজের আগে আল্লাহর সামনে লজ্জিত করে। ইমরান শিক্ষাটি শুধু বর্ণনা করেননি, নিজের জীবনে দেখিয়েছেনও।",
+          },
+          {
+            en: "About one hundred and eighty hadith reached the ummah through him, on prayer, on patience, on the rulings of worship. Scholars of hadith counted him among the most reliable of the Companions who settled in Basra, and his narrations enter both Sahihs. What he refused to do was pad the record: he was known to fear saying more than he had heard, which is its own form of haya before the words of the Prophet ﷺ.",
+            bn: "তাঁর মাধ্যমে উম্মাহর কাছে পৌঁছেছে প্রায় একশো আশিটি হাদিস; নামাজ নিয়ে, সবর নিয়ে, ইবাদতের বিধান নিয়ে। হাদিসশাস্ত্রের ইমামরা বসরায় থিতু হওয়া সাহাবিদের মধ্যে তাঁকে সবচেয়ে নির্ভরযোগ্যদের কাতারে রেখেছেন; দুই সহিহতেই তাঁর বর্ণনা আছে। যা তিনি কিছুতেই করতেন না, তা হলো শোনা কথার ওপর রং চড়ানো। যতটুকু শুনেছেন তার বেশি বলে ফেলার ভয় তাঁর ছিল বলেই জানা যায়। নবীজি ﷺ-এর বাণীর সামনে এ-ও তো এক রকমের হায়া।",
+          },
+        ],
+      },
+      {
+        h: { en: "Sent to Teach Basra", bn: "বসরায় শিক্ষার দায়িত্বে" },
+        p: [
+          {
+            en: "When Basra was founded as a garrison city, Umar ibn al-Khattab (RA) sent Imran there to give its people understanding of the din. It was a deliberate policy: each new city received Companions as its teachers, and Basra received one of the best. He later served the city as a judge for a period before asking to be relieved, preferring teaching to the seat of judgment. The people of Basra honoured him; it is related among them that no one better than Imran ever came to their city.",
+            bn: "সেনানিবাস-শহর হিসেবে বসরা গড়ে উঠলে উমর ইবনুল খাত্তাব (রাঃ) ইমরানকে পাঠালেন সেখানকার মানুষকে দ্বীন বোঝানোর জন্য। এ ছিল ভেবেচিন্তে নেওয়া নীতি। নতুন প্রতিটি শহরের ভাগে শিক্ষক হিসেবে জুটতেন সাহাবিরা, আর বসরার ভাগে পড়লেন সেরাদের একজন। কিছুকাল তিনি শহরের বিচারকের দায়িত্বও সামলান, পরে নিজেই অব্যাহতি চেয়ে নেন; বিচারের আসনের চেয়ে শেখানোই তাঁর কাছে প্রিয় ছিল। বসরার মানুষ তাঁকে মাথায় তুলে রেখেছিল। তাদের মধ্যেই কথাটা চালু ছিল, ইমরানের চেয়ে ভালো কেউ এই শহরে আসেনি।",
+          },
+          {
+            en: "His teaching held to what he had seen and heard. In an age when new questions multiplied faster than answers, Imran kept pointing his students back to the practice of the Prophet ﷺ, and he corrected those who let opinion crowd out narration. The scholars of Basra who shaped the next century, including those who taught Hasan al-Basri's generation, drew from the well he had carried from Madinah.",
+            bn: "তাঁর শিক্ষা দাঁড়িয়ে ছিল নিজের দেখা আর শোনার ওপর। জবাবের চেয়ে প্রশ্ন দ্রুত বাড়ছে, এমন এক যুগে ইমরান বারবার ছাত্রদের ফিরিয়ে দিতেন নবীজি ﷺ-এর আমলের দিকে। হাদিসকে সরিয়ে মনগড়া মত জেঁকে বসছে দেখলে তিনি শুধরে দিতেন। পরের শতাব্দীকে যাঁরা গড়ে তুলেছেন, হাসান বসরির প্রজন্মের শিক্ষকরাসহ বসরার সেই আলেমরা পানি নিয়েছেন সেই কুয়ো থেকেই, যা তিনি মদিনা থেকে বয়ে এনেছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Prayer in Every Posture", bn: "যে অবস্থায়ই হোক, নামাজ" },
+        p: [
+          {
+            en: "Illness gave Imran one of his most used narrations. He suffered from a painful ailment, and he asked the Prophet ﷺ how he should pray. Sahih al-Bukhari 1117 records the answer: pray standing; if you cannot, then sitting; and if you cannot, then on your side. In one short reply the Prophet ﷺ opened the door of prayer to every sick person until the end of time, and it came to the ummah through a man who needed the ruling himself.",
+            bn: "অসুস্থতাই ইমরানকে দিয়েছে তাঁর সবচেয়ে বেশি কাজে লাগা বর্ণনাগুলোর একটি। কষ্টদায়ক এক রোগে ভুগে তিনি নবীজি ﷺ-কে জিজ্ঞেস করেছিলেন, নামাজ পড়ব কীভাবে। জবাবটি সহিহ বুখারি ১১১৭-তে আছে: দাঁড়িয়ে পড়ো; না পারলে বসে; তা-ও না পারলে কাত হয়ে শুয়ে। ছোট্ট এক জবাবে নবীজি ﷺ কিয়ামত পর্যন্ত প্রতিটি অসুস্থ মানুষের জন্য নামাজের দরজা খুলে দিলেন। আর উম্মাহর কাছে তা পৌঁছাল এমন একজনের হাত ধরে, বিধানটি যাঁর নিজেরই দরকার ছিল।",
+          },
+          {
+            en: "That is a pattern worth noticing in his life. His narrations are rarely abstract; they answer needs he lived through. The man who transmitted the ruling for those who cannot stand was himself a man learning to worship through pain, and his students received not only the wording of the hadith but the sight of their teacher acting on it.",
+            bn: "তাঁর জীবনে এই ধরনটা লক্ষ করার মতো। তাঁর বর্ণনাগুলো খুব কমই বইয়ের তত্ত্ব; প্রতিটিই এমন প্রয়োজনের জবাব, যার ভেতর দিয়ে তিনি নিজে গেছেন। দাঁড়াতে অক্ষম মানুষের বিধান যিনি পৌঁছে দিলেন, তিনি নিজেই তখন ব্যথার ভেতর দিয়ে ইবাদত শিখছেন। ছাত্ররা তাই শুধু হাদিসের শব্দ পায়নি, চোখের সামনে দেখেছে শিক্ষক নিজে কীভাবে তার ওপর আমল করছেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Thirty Years of Patience", bn: "তিরিশ বছরের সবর" },
+        p: [
+          {
+            en: "For a long stretch at the end of his life, described in some accounts as thirty years, Imran was afflicted with a wasting illness that confined him to his bed. He bore it without complaint, and he would tell those who grieved for him that what Allah chose for him was beloved to him. Later biographical works relate that he was greeted by angels during that illness, a comfort said to have paused when he was cauterized and returned when he left the treatment; the report belongs to those later sources rather than to the two Sahihs, and it is related as they related it.",
+            bn: "জীবনের শেষ দীর্ঘ পর্বে, কোনো কোনো বিবরণে যা তিরিশ বছর, ইমরান এক ক্ষয়রোগে বিছানায় পড়ে ছিলেন। কোনো অভিযোগ ছাড়াই তিনি তা বয়ে গেছেন। যারা তাঁর জন্য কষ্ট পেত, তাদের বলতেন, আল্লাহ তাঁর জন্য যা বেছে নিয়েছেন সেটিই তাঁর কাছে প্রিয়। পরের যুগের জীবনীগ্রন্থগুলোতে আছে, সেই অসুস্থতার দিনগুলোতে ফেরেশতারা তাঁকে সালাম দিতেন; দাগ লাগানোর চিকিৎসা নিলে সেই সান্ত্বনা থেমে যায়, চিকিৎসা ছাড়লে আবার ফিরে আসে। কথাটি দুই সহিহর নয়, পরের সূত্রগুলোর; তারা যেভাবে বলেছে, এখানে সেভাবেই বলা হলো।",
+          },
+          {
+            en: "He died in Basra in 52 AH, still the city's teacher. What Imran leaves the ordinary believer is a matched set: a hadith that modesty brings only good, a ruling that prayer bends to what the body can give, and a long illness borne the way he said such things should be borne. Few Companions demonstrate so cleanly that the narrator's life is part of the narration.",
+            bn: "৫২ হিজরিতে বসরাতেই তাঁর ইন্তেকাল হয়; শেষ দিন পর্যন্ত তিনি ছিলেন শহরটির শিক্ষক। সাধারণ মুমিনের জন্য ইমরান রেখে গেছেন মিলে-যাওয়া এক উত্তরাধিকার। একটি হাদিস, লজ্জা শুধু কল্যাণই আনে; একটি বিধান, শরীর যতটুকু পারে নামাজ ততটুকুতেই ধরা দেয়; আর এক দীর্ঘ অসুস্থতা, যা তিনি ঠিক সেভাবেই বয়েছেন যেভাবে বইতে হয় বলে শিখিয়েছিলেন। বর্ণনাকারীর জীবনটাও যে বর্ণনার অংশ, এত পরিষ্কার করে তা খুব কম সাহাবির জীবনে দেখা যায়।",
+          },
+        ],
+      },
+    ],
+  },
+  sahl_ibn_sad: {
+    sections: [
+      {
+        h: { en: "A Boy Renamed Ease", bn: "নাম বদলে হলো সাহল" },
+        p: [
+          {
+            en: "Sahl ibn Sa'd (RA) was born into the Sa'idah clan of the Khazraj in Madinah, and his father died while he was still small. His name at first was Hazn, which means rough or difficult ground, and the Prophet ﷺ changed it to Sahl, which means level and easy. The Prophet ﷺ often adjusted names that carried harshness or bad omen, and in this boy's case the new name became a description: a long, even life spent making the din easy for others to reach.",
+            bn: "সাহল ইবনে সা'দ (রাঃ)-এর জন্ম মদিনার খাজরাজ গোত্রের সাইদা শাখায়; বাবাকে হারান একেবারে ছোটবেলায়। প্রথমে তাঁর নাম ছিল হাজন, মানে রুক্ষ বা বন্ধুর জমি। নবীজি ﷺ তা বদলে রাখলেন সাহল, মানে সমতল, সহজ। কর্কশ বা অলক্ষুনে নাম নবীজি ﷺ প্রায়ই বদলে দিতেন, আর এই ছেলেটির বেলায় নতুন নামটি হয়ে গেল তার জীবনের বিবরণ। দীর্ঘ, শান্ত এক জীবন, যার পুরোটা কেটেছে মানুষের জন্য দ্বীনের পথ সহজ করে দিতে।",
+          },
+          {
+            en: "Because he was a child of Madinah itself, Sahl grew up with the Prophet ﷺ in his field of vision the way other children grow up knowing their neighbours. He was about fifteen when the Prophet ﷺ died. That accident of age made him precious later: he carried into the next century the small, concrete details of the Prophet's ﷺ city that older Companions never thought to mention because everyone already knew them.",
+            bn: "মদিনারই সন্তান বলে সাহল বড় হয়েছেন নবীজি ﷺ-কে চোখের সামনে রেখে, যেভাবে অন্য শিশুরা প্রতিবেশীদের চিনতে চিনতে বড় হয়। নবীজি ﷺ-এর ইন্তেকালের সময় তাঁর বয়স পনেরোর কাছাকাছি। বয়সের এই হিসাবটাই পরে তাঁকে অমূল্য করে তোলে। নবীজি ﷺ-এর শহরের সেই ছোট ছোট বাস্তব খুঁটিনাটি তিনি পরের শতাব্দীতে বয়ে নিয়ে গেছেন, যা বয়োজ্যেষ্ঠ সাহাবিদের বলার কথা মনেই হয়নি; সবাই তো তখন তা জানতই।",
+          },
+        ],
+      },
+      {
+        h: { en: "The Banner of Khaybar", bn: "খাইবারের পতাকা" },
+        p: [
+          {
+            en: "Sahl is the narrator of one of the most loved battle reports in Sahih al-Bukhari. At Khaybar the Prophet ﷺ announced: tomorrow I will give the banner to a man through whose hands Allah will grant victory, who loves Allah and His Messenger, and whom Allah and His Messenger love. The men passed the night wondering who it would be, and in the morning every one of them hoped for it. The Prophet ﷺ asked for Ali (RA), who was suffering from an eye ailment, spat lightly on his eyes, prayed for him, and he was cured as if nothing had been wrong.",
+            bn: "সহিহ বুখারির সবচেয়ে প্রিয় যুদ্ধবর্ণনাগুলোর একটির বর্ণনাকারী সাহল। খাইবারে নবীজি ﷺ ঘোষণা দিলেন: কাল আমি পতাকা দেব এমন একজনকে, যার হাতে আল্লাহ বিজয় দেবেন; সে আল্লাহ ও তাঁর রাসূলকে ভালোবাসে, আল্লাহ ও তাঁর রাসূলও তাকে ভালোবাসেন। কে সেই সৌভাগ্যবান, এই জল্পনায় মানুষের রাত কাটল; সকালে প্রত্যেকেই তা পাওয়ার আশা করছিল। নবীজি ﷺ ডেকে পাঠালেন আলী (রাঃ)-কে। তাঁর চোখে তখন অসুখ। নবীজি ﷺ চোখে ফুঁ-সহ সামান্য থুতু লাগিয়ে দোয়া করলেন, আর এমনভাবে তিনি সেরে উঠলেন যেন কিছু হয়ইনি।",
+          },
+          {
+            en: "The report ends with an instruction that outweighs the battle. Advance gently, the Prophet ﷺ told Ali (RA), call them to Islam first, and inform them of what is due to Allah from them; for by Allah, that He should guide one man through you is better for you than red camels. Sahl kept the whole sequence: the suspense, the healing, and a definition of victory measured in guided people rather than ground taken.",
+            bn: "বর্ণনার শেষে যে নির্দেশ, ওজনে তা যুদ্ধকেও ছাড়িয়ে যায়। নবীজি ﷺ আলী (রাঃ)-কে বললেন: ধীরে এগোও, আগে তাদের ইসলামের দিকে ডাকো, তাদের ওপর আল্লাহর যে হক আছে তা জানিয়ে দাও। আল্লাহর কসম, তোমার হাত ধরে একটি মানুষও হেদায়েত পেলে তা তোমার জন্য লাল উটের পালের চেয়ে উত্তম। সাহল পুরো ঘটনাপ্রবাহটাই ধরে রেখেছেন। সেই রাতভর অপেক্ষা, সেই চোখ সেরে ওঠা, আর বিজয়ের এমন এক সংজ্ঞা, যা মাপা হয় দখল করা জমিতে নয়, হেদায়েত পাওয়া মানুষে।",
+          },
+        ],
+      },
+      {
+        h: { en: "Scenes Only He Kept", bn: "যে দৃশ্য কেবল তাঁর কাছে" },
+        p: [
+          {
+            en: "Much of what Muslims can picture of daily Madinah survives through Sahl's roughly one hundred and eighty-eight narrations. Sahih al-Bukhari records through him the woman who came and offered herself in marriage to the Prophet ﷺ; when he did not accept and a poor man asked for her, the Prophet ﷺ married them for what the man knew of the Quran, since he owned nothing else, not even an iron ring to give as dower. The report settled points of law for every generation of jurists after.",
+            bn: "রোজকার মদিনাকে মুসলিমরা আজ যতটা চোখে দেখতে পায়, তার অনেকখানি বেঁচে আছে সাহলের প্রায় একশো আটাশিটি বর্ণনার ভেতর দিয়ে। সহিহ বুখারিতে তাঁর সূত্রে সেই নারীর কথা আছে, যিনি এসে নবীজি ﷺ-এর কাছে নিজেকে বিয়ের জন্য পেশ করেছিলেন। তিনি সাড়া দিলেন না, কিন্তু এক গরিব সাহাবি নারীটিকে বিয়ের আবেদন করলেন। লোকটির দেওয়ার মতো কিছুই ছিল না, একটি লোহার আংটিও না। নবীজি ﷺ তার জানা কুরআনের বিনিময়েই বিয়ে পড়িয়ে দিলেন। পরের প্রতিটি প্রজন্মের ফকিহদের জন্য এই বর্ণনা মীমাংসা করে দিয়েছে অনেক মাসআলা।",
+          },
+          {
+            en: "It is Sahl who tells how the minbar was made: the Prophet ﷺ sent word to a woman whose slave was a carpenter, and he built its steps from tamarisk wood. It is Sahl who preserved the words about the Hawd, the Pond: I am your predecessor at the Hawd; whoever comes to it will drink, and whoever drinks will never thirst again. And Sahih al-Bukhari 1896 records his report of the gate of Paradise called ar-Rayyan, reserved for those who fast, through which no one else will enter.",
+            bn: "মিম্বার কীভাবে তৈরি হলো, সে গল্পও সাহলের জবানে। নবীজি ﷺ এক নারীকে খবর পাঠালেন, যাঁর গোলাম ছিল কাঠমিস্ত্রি; সে-ই ঝাউকাঠ দিয়ে বানাল মিম্বারের সিঁড়ি। হাউজের কথাগুলোও সাহলই ধরে রেখেছেন: আমি হাউজের ধারে তোমাদের আগে পৌঁছে থাকব; যে সেখানে আসবে সে পান করবে, আর যে পান করবে সে আর কোনোদিন তৃষ্ণার্ত হবে না। আর সহিহ বুখারি ১৮৯৬-এ আছে তাঁর বর্ণিত জান্নাতের সেই দরজার কথা, নাম রাইয়ান। রোজাদারদের জন্যই শুধু সে দরজা, আর কেউ তা দিয়ে ঢুকবে না।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Century of Witness", bn: "এক শতাব্দীর সাক্ষী" },
+        p: [
+          {
+            en: "Sahl lived on through the caliphates, the conquests, and the civil strife, into the reign of the later Umayyads. He saw Madinah change around him while he stayed what he was: a man who had seen the Prophet ﷺ and would answer questions about him. The Followers sought him out precisely because so few like him remained; his student Abu Hazim transmitted from him the material that fills his chapters in the two Sahihs.",
+            bn: "খিলাফতের পালাবদল, বিজয়ের অভিযান, ফিতনার বছরগুলো, সব পেরিয়ে সাহল বেঁচে রইলেন পরের উমাইয়া শাসকদের জমানা পর্যন্ত। চারপাশে মদিনা বদলে যেতে দেখলেন, নিজে রইলেন যা ছিলেন তা-ই। এমন একজন মানুষ, যিনি নবীজি ﷺ-কে দেখেছেন এবং তাঁর সম্পর্কে প্রশ্নের জবাব দিতে পারেন। তাবেয়িরা তাঁকে খুঁজে খুঁজে আসতেন, কারণ তাঁর মতো মানুষ আর কজনই-বা বাকি ছিল। তাঁর ছাত্র আবু হাজিমই তাঁর কাছ থেকে সেই বর্ণনাগুলো নিয়েছেন, দুই সহিহতে যা তাঁর অধ্যায়গুলো ভরিয়ে রেখেছে।",
+          },
+          {
+            en: "He would tell his students plainly that if he died, they would find no one after him who narrated the same hadith he did. It was not a boast but an actuarial fact, and both he and they knew it. In his last years the questions came faster, about the Prophet's ﷺ appearance, his minbar, his wounds at Uhud, and Sahl answered from memory of things his own eyes had seen.",
+            bn: "ছাত্রদের তিনি সোজাসুজি বলতেন, আমি মারা গেলে এমন কাউকে আর পাবে না, যে এই হাদিসগুলো শোনাবে। এ কোনো অহংকারের কথা নয়, নিছক বাস্তবের হিসাব; তিনিও তা জানতেন, ছাত্ররাও। শেষ বছরগুলোতে প্রশ্ন আসত আরও ঘন ঘন। নবীজি ﷺ দেখতে কেমন ছিলেন, তাঁর মিম্বার, উহুদে তাঁর জখম। সাহল জবাব দিতেন সেই স্মৃতি থেকে, যা তাঁর নিজের চোখে দেখা।",
+          },
+        ],
+      },
+      {
+        h: { en: "Last of Them in Madinah", bn: "মদিনায় তাঁদের শেষজন" },
+        p: [
+          {
+            en: "Sahl died around 91 AH, having lived close to a hundred years, and the scholars record him among the very last of the Companions to die in Madinah. There is a fitness in that: the Prophet's ﷺ own city was the last place to lose its living link to him, and the link it kept longest was a man who specialised in exactly the details a city forgets first.",
+            bn: "প্রায় একশো বছর বেঁচে সাহল ইন্তেকাল করেন ৯১ হিজরির কাছাকাছি সময়ে। আলেমদের হিসাবে মদিনায় ইন্তেকাল করা একেবারে শেষ সাহাবিদের একজন তিনি। এর মধ্যে কেমন এক সংগতি আছে। নবীজি ﷺ-এর নিজের শহরই তাঁর জীবন্ত যোগসূত্র হারিয়েছে সবার শেষে। আর যে সূত্রটি শহর সবচেয়ে বেশিদিন ধরে রাখল, তিনি ছিলেন ঠিক সেই খুঁটিনাটির হাফেজ, শহর যা সবার আগে ভুলে যায়।",
+          },
+          {
+            en: "The fatherless boy renamed Ease never governed a province, never led an army, and never sought a stage. He watched, remembered, and answered questions honestly for eighty years after the Prophet ﷺ died. Entire chapters of law and devotion, the marriage dower, the minbar, the fasting person's gate, the Pond, rest on his saying: I saw, I heard. That is the whole biography, and it is enough.",
+            bn: "পিতৃহারা যে ছেলেটির নাম বদলে রাখা হয়েছিল 'সহজ', তিনি কোনোদিন প্রদেশ শাসন করেননি, সেনাদল চালাননি, মঞ্চও খোঁজেননি। নবীজি ﷺ-এর ইন্তেকালের পর আশি বছর ধরে তিনি শুধু দেখা জিনিস মনে রেখেছেন আর প্রশ্নের সৎ জবাব দিয়ে গেছেন। ফিকহ ও ইবাদতের আস্ত আস্ত অধ্যায়, বিয়ের মোহর, মিম্বার, রোজাদারের দরজা, হাউজ, সব দাঁড়িয়ে আছে তাঁর দুটি কথার ওপর: আমি দেখেছি, আমি শুনেছি। এটুকুই তাঁর গোটা জীবনী, আর এটুকুই যথেষ্ট।",
+          },
+        ],
+      },
+    ],
+  },
+  uqbah_ibn_amir_al_juhani: {
+    sections: [
+      {
+        h: { en: "The Shepherd Who Took Turns", bn: "পালা করে রাখাল" },
+        p: [
+          {
+            en: "Uqbah ibn Amir (RA) came from Juhaynah, a tribe of the country between Madinah and the sea, and he was tending flocks when Islam reached him. He attached himself to the Prophet ﷺ with a herdsman's practicality: the tending of the camels rotated among his companions, and when his turn-day was done he would hurry back so as not to miss the Prophet's ﷺ words. Sahih Muslim preserves, from one of those days, the hadith he heard on wudu: whoever performs ablution well and then prays two rak'ahs with full attention of heart and face is assured Paradise.",
+            bn: "উকবা ইবনে আমের (রাঃ) ছিলেন জুহাইনা গোত্রের মানুষ; মদিনা থেকে সাগরের দিকের অঞ্চলে তাদের বাস। ইসলাম যখন তাঁর কাছে পৌঁছাল, তিনি তখন পশু চরান। নবীজি ﷺ-এর সঙ্গে তিনি জুড়ে গেলেন রাখালের কাণ্ডজ্ঞান নিয়েই। পশু চরানোর পালা ভাগ হতো সঙ্গীদের মধ্যে; নিজের পালার কাজ চুকিয়ে তিনি ছুটে ফিরতেন, যাতে নবীজি ﷺ-এর কথা হাতছাড়া না হয়। তেমনই এক দিনের শোনা অজুর হাদিসটি সহিহ মুসলিমে আছে: যে ব্যক্তি সুন্দর করে অজু করে মন ও মুখ পুরোপুরি হাজির রেখে দুই রাকাত নামাজ পড়ে, তার জন্য জান্নাত অবধারিত।",
+          },
+          {
+            en: "That arrangement tells you what he valued before it tells you anything he learned: not to miss a word, even at the price of splitting his livelihood in half. Men who managed their worldly work around the Prophet's ﷺ gatherings, rather than the reverse, became the carriers of the din, and Uqbah became one of the most complete of them, reciter, jurist, narrator, and soldier at once.",
+            bn: "কী শিখেছিলেন তার আগে এই বন্দোবস্তটাই বলে দেয়, কীসের কদর তিনি করতেন। একটি কথাও যেন ছুটে না যায়, তার জন্য রুজি অর্ধেক ভাগ করতেও রাজি। যাঁরা দুনিয়ার কাজ সাজিয়েছেন নবীজি ﷺ-এর মজলিসের চারপাশে, উল্টোটা নয়, দ্বীনের বাহক তো তাঁরাই হয়েছেন। উকবা হয়ে উঠলেন তাঁদের মধ্যে সবচেয়ে পরিপূর্ণদের একজন। একই সঙ্গে কারি, ফকিহ, হাদিসের রাবি, আবার যোদ্ধাও।",
+          },
+        ],
+      },
+      {
+        h: { en: "Serving the Journeys", bn: "সফরের খাদেম" },
+        p: [
+          {
+            en: "Uqbah served the Prophet ﷺ closely on his travels, leading his she-camel through the passes while the best of creation rode behind him. Sometimes the Prophet ﷺ would make him ride while he himself walked. Service at that distance was a school: the questions a man can ask on a long empty road are the ones he never finds room for in a crowd, and Uqbah's narrations are full of answers received on journeys.",
+            bn: "সফরে উকবা নবীজি ﷺ-এর কাছের খাদেম ছিলেন; গিরিপথে তাঁর উটনির লাগাম টেনে হাঁটতেন, পেছনে সওয়ার সৃষ্টির সেরা মানুষটি। কখনো কখনো নবীজি ﷺ তাঁকেই সওয়ার করিয়ে নিজে হাঁটতেন। এত কাছ থেকে খেদমতের সুযোগ আসলে এক মাদরাসা। ফাঁকা দীর্ঘ পথে যে প্রশ্নগুলো করা যায়, ভিড়ের মধ্যে তার জায়গাই মেলে না। উকবার বর্ণনাগুলো তাই সফরে পাওয়া জবাবে ভরা।",
+          },
+          {
+            en: "The most famous of them came on such a journey. Sahih Muslim 814 records the Prophet ﷺ saying to him: do you not see that verses have been revealed this night the like of which has never been seen, qul a'udhu bi rabbil-falaq and qul a'udhu bi rabbin-nas. The two surahs of refuge, the last two in the mushaf, reached the ummah tied to Uqbah's name, and he taught them for the rest of his life as the protection the Prophet ﷺ himself had marvelled at.",
+            bn: "এর সবচেয়ে বিখ্যাতটিও এসেছে তেমনই এক সফরে। সহিহ মুসলিম ৮১৪-তে আছে, নবীজি ﷺ তাঁকে বললেন: দেখলে না, আজ রাতে এমন আয়াত নাজিল হয়েছে যার মতো আর কখনো দেখা যায়নি; কুল আউজু বিরাব্বিল ফালাক আর কুল আউজু বিরাব্বিন নাস। আশ্রয় চাওয়ার এই দুই সূরা, মাসহাফের শেষ দুটি, উম্মাহর কাছে পৌঁছেছে উকবার নামের সঙ্গে গেঁথে। জীবনের বাকি দিনগুলোতে তিনি সূরা দুটি শিখিয়ে গেছেন সেই পরিচয়েই, স্বয়ং নবীজি ﷺ যে সুরক্ষা দেখে বিস্মিত হয়েছিলেন।",
+          },
+        ],
+      },
+      {
+        h: { en: "Strength Is in Shooting", bn: "শক্তি মানে নিশানা" },
+        p: [
+          {
+            en: "Uqbah heard the Prophet ﷺ explain a verse from the minbar. The Quran commands in 8:60: prepare against them whatever you are able of strength. Sahih Muslim 1917 records the Prophet ﷺ saying over it, three times, that strength is in shooting. Uqbah took the gloss as a duty. He mastered archery, practised it into old age, and warned, as Sahih Muslim 1919 records, that whoever learned shooting and then abandoned it is not of us.",
+            bn: "মিম্বার থেকে নবীজি ﷺ-কে একটি আয়াতের ব্যাখ্যা করতে শুনেছিলেন উকবা। 8:60-এ কুরআনের হুকুম: তাদের মোকাবিলায় সাধ্যমতো শক্তি প্রস্তুত রাখো। সহিহ মুসলিম ১৯১৭-তে আছে, নবীজি ﷺ আয়াতটি পড়ে তিনবার বললেন, জেনে রাখো, শক্তি হলো নিক্ষেপে। উকবা এই ব্যাখ্যাকে নিলেন দায়িত্ব হিসেবে। তীরন্দাজিতে তিনি পোক্ত হলেন, বুড়ো বয়স পর্যন্ত চর্চা ছাড়েননি। সহিহ মুসলিম ১৯১৯-এ আছে তাঁর সাবধানবাণী: যে তীর চালানো শিখে পরে ছেড়ে দিল, সে আমাদের দলের নয়।",
+          },
+          {
+            en: "In him the reciter and the archer were the same person, and he saw no tension in it. The community the Prophet ﷺ built needed its Quran guarded and its frontiers guarded, and Uqbah gave his hands to both. When the armies moved into Syria and then Egypt he marched with them, a man who could lead the prayer at night and the archers by day.",
+            bn: "কারি আর তীরন্দাজ, উকবার মধ্যে দুজন ছিল একই মানুষ, আর এতে তিনি কোনো টানাপোড়েন দেখেননি। নবীজি ﷺ যে উম্মাহ গড়ে গেছেন, তার কুরআনও পাহারা চায়, সীমান্তও। উকবা দুই পাহারাতেই হাত লাগিয়েছেন। বাহিনী যখন শামের পথে, তারপর মিসরের পথে এগোল, তিনিও চললেন সঙ্গে। এমন এক মানুষ, যিনি রাতে নামাজে ইমামতি করতে পারেন, দিনে তীরন্দাজদের নেতৃত্ব।",
+          },
+        ],
+      },
+      {
+        h: { en: "Reciter of Egypt", bn: "মিসরের কারি" },
+        p: [
+          {
+            en: "Uqbah was among those who conquered Egypt and then stayed to build it. His recitation was celebrated; he had taken the Quran directly from the Prophet's ﷺ mouth, and his voice with it was described as beautiful. He was equally grounded in fiqh and in the law of inheritance, so that the historians count him among the learned of the Companions. Under Mu'awiyah (RA) he was appointed governor of Egypt for a period, and he took part in the naval campaigns of those years.",
+            bn: "মিসর বিজয়ীদের একজন উকবা, বিজয়ের পর সেখানেই থেকে গেলেন গড়ার কাজে। তাঁর তিলাওয়াতের খ্যাতি ছিল সবার মুখে; কুরআন তিনি নিয়েছিলেন সরাসরি নবীজি ﷺ-এর মুখ থেকে, আর তাঁর কণ্ঠকে বলা হয়েছে সুমধুর। ফিকহ আর মিরাসের বিধানেও তাঁর ভিত ছিল সমান মজবুত; ইতিহাসবিদরা তাই তাঁকে গণেছেন আলেম সাহাবিদের কাতারে। মুয়াবিয়া (রাঃ)-এর আমলে কিছুকাল তিনি মিসরের গভর্নর ছিলেন, শরিক হয়েছেন সেই বছরগুলোর নৌ-অভিযানেও।",
+          },
+          {
+            en: "Egypt became the seat of his teaching. The people of that new Muslim land learned their recitation and much of their hadith from men like Uqbah, and the chains of Egyptian narrators keep returning to his name. He remains a case study in how the din travelled: not by books first, but inside people who moved, fought, governed, and recited until a new country had heard everything they knew.",
+            bn: "মিসরই হয়ে উঠল তাঁর দরসের ঠিকানা। নতুন এই মুসলিম ভূমির মানুষ তিলাওয়াত আর হাদিসের বড় অংশ শিখেছে উকবার মতো মানুষদের কাছেই; মিসরি রাবিদের সনদ ঘুরেফিরে তাঁর নামেই এসে ঠেকে। দ্বীন কীভাবে সফর করেছে, তিনি তার এক জ্যান্ত নমুনা। আগে বই গিয়ে পৌঁছায়নি। পৌঁছেছেন মানুষ, যাঁরা হেঁটেছেন, লড়েছেন, শাসন করেছেন, আর তিলাওয়াত করে গেছেন, যতদিন না নতুন একটি দেশ তাঁদের জানা সবটা শুনে নিয়েছে।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Mushaf in His Own Hand", bn: "নিজ হাতে লেখা মাসহাফ" },
+        p: [
+          {
+            en: "Uqbah died in Egypt around 58 AH and was buried there. He left behind a mushaf written in his own hand, mentioned by the historians as one of the treasured relics of early Egypt. It is the right emblem for him. Other Companions left sons, estates, or cities named after victories; the shepherd of Juhaynah left the Book of Allah copied out by fingers that had held the Prophet's ﷺ she-camel by the rein.",
+            bn: "৫৮ হিজরির কাছাকাছি সময়ে মিসরেই উকবার ইন্তেকাল হয়, দাফনও সেখানে। রেখে গেলেন নিজের হাতে লেখা একখানি মাসহাফ; ইতিহাসবিদরা একে উল্লেখ করেছেন আদি মিসরের সযত্নে রাখা স্মারকগুলোর একটি হিসেবে। তাঁর জন্য এর চেয়ে মানানসই নিশানা হয় না। অন্য সাহাবিরা রেখে গেছেন সন্তান, সম্পত্তি, বিজয়ের নামে শহর। জুহাইনার রাখাল রেখে গেলেন আল্লাহর কিতাব, সেই আঙুলে নকল করা, যে আঙুল একদিন নবীজি ﷺ-এর উটনির লাগাম ধরেছিল।",
+          },
+          {
+            en: "His legacy runs on three tracks that never separated: the two surahs of refuge taught to him the night they came down, the archery he kept sharp because a verse asked for strength, and the recitation he planted in Egypt. A believer who recites al-Falaq and an-Nas at night is, without knowing it, standing at the end of a chain that begins with a herdsman who would not miss a gathering.",
+            bn: "তাঁর রেখে যাওয়া মিরাস চলেছে তিনটি ধারায়, যারা কখনো আলাদা হয়নি। আশ্রয়ের দুই সূরা, নাজিলের রাতেই যা তাঁকে শেখানো হয়েছিল; তীরন্দাজি, যা তিনি শাণিত রেখেছিলেন কারণ একটি আয়াত শক্তি চেয়েছে; আর মিসরের মাটিতে পুঁতে দেওয়া তিলাওয়াতের চারা। রাতে যে মুমিন ফালাক আর নাস পড়ে, সে না জেনেই দাঁড়িয়ে থাকে এমন এক সনদের শেষ প্রান্তে, যার শুরুতে সেই রাখাল, একটি মজলিসও যিনি ছাড়তে রাজি ছিলেন না।",
+          },
+        ],
+      },
+    ],
+  },
+  jarir_ibn_abdullah_al_bajali: {
+    sections: [
+      {
+        h: { en: "A Chieftain Comes Late", bn: "দেরিতে এলেন এক সর্দার" },
+        p: [
+          {
+            en: "Jarir ibn Abdullah (RA) was the chieftain of Bajila, a large tribe of the Yemen highlands, and he came to Madinah to embrace Islam near the end of the Prophet's ﷺ life. He arrived as tribal nobility of the old Arabia: tall, strikingly handsome, commanding. Later generations repeated a description attributed to Umar (RA) that Jarir was the Yusuf of this ummah. Yet what the books remember most is not how he looked when he arrived but how he was received.",
+            bn: "জারির ইবনে আবদুল্লাহ (রাঃ) ছিলেন বাজিলা গোত্রের সর্দার; ইয়েমেনের পাহাড়ি এলাকার বড় গোত্র এটি। নবীজি ﷺ-এর জীবনের শেষ দিকে তিনি মদিনায় এসে ইসলাম গ্রহণ করেন। এসেছিলেন পুরোনো আরবের অভিজাত সর্দারের বেশেই। দীর্ঘদেহী, অপরূপ সুদর্শন, দাপুটে। পরের প্রজন্মগুলো উমর (রাঃ)-এর নামে চালু একটি কথা বারবার বলেছে, জারির এই উম্মাহর ইউসুফ। অথচ বইগুলো সবচেয়ে বেশি মনে রেখেছে তাঁর চেহারা নয়, তাঁকে বরণ করার দৃশ্যটি।",
+          },
+          {
+            en: "Reports relate that when Jarir came, the Prophet ﷺ honoured him before his people, spreading out a cloak for him to sit on. A man who had spent his life being deferred to met, in Madinah, a different kind of leadership: one that could honour a chieftain without flattering him, and then ask everything of him.",
+            bn: "বর্ণনায় আছে, জারির এলে নবীজি ﷺ সবার সামনে তাঁকে সম্মান দিলেন। বসার জন্য বিছিয়ে দিলেন চাদর। যে মানুষটি সারাজীবন কেবল কুর্নিশই পেয়ে এসেছেন, মদিনায় তিনি দেখলেন অন্য ধাঁচের নেতৃত্ব। যে নেতৃত্ব তোষামোদ না করেই সর্দারকে সম্মান দিতে জানে, আর তার পরে তার কাছে চাইতে জানে সর্বস্ব।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Smile Never Withheld", bn: "যে হাসি কখনো থামেনি" },
+        p: [
+          {
+            en: "Jarir's own summary of his years with the Prophet ﷺ is preserved in Sahih al-Bukhari 3035. He said: the Prophet ﷺ never screened himself from me since I embraced Islam, and he never saw me except that he smiled in my face. A latecomer might expect to stand at the back of a crowded court. Instead the door was always open and the face behind it always glad; Jarir carried that welcome for the rest of his life as his dearest credential.",
+            bn: "নবীজি ﷺ-এর সঙ্গে কাটানো বছরগুলোর সারকথা জারির নিজেই বলে গেছেন, তা সহিহ বুখারি ৩০৩৫-এ আছে: ইসলাম গ্রহণের পর নবীজি ﷺ কখনো আমাকে তাঁর কাছে যেতে বাধা দেননি, আর যখনই আমাকে দেখেছেন, মুখে হাসি ছাড়া দেখেননি। দেরিতে আসা কারও তো ভিড়ের পেছনে দাঁড়িয়ে থাকারই কথা। অথচ তাঁর জন্য দরজা ছিল সবসময় খোলা, আর দরজার ওপারের মুখখানি সবসময় উজ্জ্বল। এই অভ্যর্থনাই জারির আমৃত্যু বয়ে বেড়িয়েছেন তাঁর সবচেয়ে প্রিয় পরিচয় হিসেবে।",
+          },
+          {
+            en: "The detail deserves a moment. The man reporting it was a tribal king in his own country, yet what moved him to the end of his days was a smile. The Prophet's ﷺ greatness with people lay exactly here: he gave the powerful the one thing power cannot buy, unfeigned warmth, and it conquered them more completely than any treaty. Jarir's loyalty never wavered afterward.",
+            bn: "খুঁটিনাটি এই তথ্যের কাছে একটু দাঁড়ানো উচিত। যিনি কথাটা বলছেন, নিজের দেশে তিনি কার্যত এক রাজা। অথচ শেষ দিন পর্যন্ত তাঁকে আপ্লুত করে রাখল একটি হাসি। মানুষের সঙ্গে নবীজি ﷺ-এর শ্রেষ্ঠত্ব ঠিক এখানেই। ক্ষমতাবানকে তিনি দিতেন সেই জিনিস, ক্ষমতা যা কিনতে পারে না; ভান-না-করা উষ্ণতা। কোনো চুক্তি যা পারেনি, এই উষ্ণতা মানুষকে তার চেয়ে পুরোপুরি জয় করে নিত। এরপর জারিরের আনুগত্যে আর কোনোদিন চিড় ধরেনি।",
+          },
+        ],
+      },
+      {
+        h: { en: "A Pledge With Three Clauses", bn: "তিন শর্তের বাইয়াত" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 57 records the terms of Jarir's allegiance in his own words: I gave the pledge to the Messenger of Allah ﷺ upon establishing the prayer, paying the zakah, and giving sincere counsel to every Muslim. The first two clauses bound every believer. The third, an-nasihah li kulli muslim, was pressed on Jarir personally, and he became its living commentary: the books relate that when he sold or bought, he would point out the defects of his own goods and let the other party choose.",
+            bn: "জারিরের বাইয়াতের শর্তগুলো তাঁর নিজের ভাষায় সহিহ বুখারি ৫৭-তে আছে: আমি রাসূলুল্লাহ ﷺ-এর হাতে বাইয়াত দিয়েছি নামাজ কায়েম করার, জাকাত দেওয়ার, আর প্রত্যেক মুসলিমের কল্যাণ কামনার ওপর। প্রথম দুই শর্ত প্রতিটি মুমিনেরই। তৃতীয়টি, প্রত্যেক মুসলিমের জন্য নসিহত, জারিরকে ধরিয়ে দেওয়া হয়েছিল আলাদা করে। তিনি হয়ে উঠলেন এই শর্তের জীবন্ত তাফসির। বইগুলোতে আছে, বেচাকেনার সময় তিনি নিজের মালের খুঁতগুলো নিজেই দেখিয়ে দিতেন, তারপর অন্য পক্ষকে বাছাইয়ের স্বাধীনতা দিতেন।",
+          },
+          {
+            en: "Both Sahihs also carry through Jarir the Prophet's ﷺ warning that whoever is not merciful to people will not be shown mercy by Allah. Read together, his pledge and his narrations sketch one coherent character: religion as honesty in the market, counsel in the community, and mercy in every dealing. For a chieftain trained in the proud codes of pre-Islamic honour, this was a new constitution, and he signed it for life.",
+            bn: "দুই সহিহতেই জারিরের সূত্রে নবীজি ﷺ-এর সেই সতর্কবাণীও আছে: যে মানুষের প্রতি দয়া করে না, আল্লাহও তার প্রতি দয়া করেন না। তাঁর বাইয়াত আর তাঁর বর্ণনাগুলো পাশাপাশি রাখলে একটিই চরিত্র ফুটে ওঠে। দ্বীন মানে বাজারে সততা, সমাজে নসিহত, প্রতিটি লেনদেনে রহমদিলি। জাহেলি যুগের দাম্ভিক মান-সম্মানের বিধিতে গড়ে ওঠা এক সর্দারের জন্য এ ছিল একেবারে নতুন সংবিধান, আর তিনি তাতে সই করেছিলেন আজীবনের জন্য।",
+          },
+        ],
+      },
+      {
+        h: { en: "Dhul-Khalasah Falls", bn: "জুল-খালাসার পতন" },
+        p: [
+          {
+            en: "In Yemen stood a shrine called Dhul-Khalasah, an idol-house so venerated that people called it the Yemeni Ka'bah. The Prophet ﷺ asked Jarir: will you not relieve me of Dhul-Khalasah? Jarir set out with a hundred and fifty riders of Ahmas, but he confessed a weakness first. Sahih al-Bukhari 3036 records him saying that he could not sit firm on horses; the Prophet ﷺ struck him on the chest, leaving the mark of his hand, and prayed: O Allah, make him firm, and make him a guide and rightly guided.",
+            bn: "ইয়েমেনে ছিল জুল-খালাসা নামের এক মূর্তিঘর, ভক্তির এত বাড়াবাড়ি ছিল যে লোকে একে ডাকত ইয়েমেনের কাবা বলে। নবীজি ﷺ জারিরকে বললেন: জুল-খালাসার হাত থেকে আমাকে স্বস্তি দেবে না? জারির আহমাস গোত্রের দেড়শো ঘোড়সওয়ার নিয়ে রওনা দিলেন, কিন্তু আগে একটি দুর্বলতার কথা স্বীকার করলেন। সহিহ বুখারি ৩০৩৬-এ তাঁর জবানেই আছে, ঘোড়ার পিঠে তিনি স্থির থাকতে পারতেন না। নবীজি ﷺ তাঁর বুকে হাত দিয়ে আঘাত করলেন, বুকে হাতের দাগ বসে গেল, আর দোয়া করলেন: হে আল্লাহ, তাকে স্থির রাখুন, তাকে করুন পথপ্রদর্শক ও পথপ্রাপ্ত।",
+          },
+          {
+            en: "Jarir never fell from a horse again. He reached Dhul-Khalasah, broke it and burned it, and sent a rider back with the news; the Prophet ﷺ then invoked blessing on the horses and men of Ahmas. The story is told with both halves intact on purpose: the honest confession of weakness came first, the firmness came as a gift of du'a, and the victory belonged to Allah before it belonged to the riders.",
+            bn: "এরপর জারির আর কোনোদিন ঘোড়া থেকে পড়েননি। জুল-খালাসায় পৌঁছে তিনি তা ভেঙে আগুনে জ্বালিয়ে দিলেন, সুসংবাদ নিয়ে এক অশ্বারোহীকে পাঠালেন মদিনায়। নবীজি ﷺ তখন আহমাসের ঘোড়া ও ঘোড়সওয়ারদের জন্য বরকতের দোয়া করলেন। গল্পটি দুই ভাগসহই বলা হয়, আর তা ইচ্ছে করেই। আগে এসেছে দুর্বলতার সৎ স্বীকারোক্তি, তারপর দোয়ার উপহারে এসেছে স্থিরতা। বিজয় ঘোড়সওয়ারদের হওয়ার আগে ছিল আল্লাহর।",
+          },
+        ],
+      },
+      {
+        h: { en: "Qadisiyyah and After", bn: "কাদিসিয়া ও তার পরে" },
+        p: [
+          {
+            en: "After the Prophet's ﷺ death, Jarir led the horsemen of Bajila into the wars for Iraq. At Qadisiyyah, the battle that broke Persian power, Bajila under Jarir formed one of the strongest contingents of the Muslim army, and he continued through the campaigns that followed until Iraq lay open. The chieftain who had once served an idol-haunted Yemen spent his strength pulling down the empires of fire-worship, which is Dhul-Khalasah's story told at the scale of nations.",
+            bn: "নবীজি ﷺ-এর ইন্তেকালের পর জারির বাজিলার অশ্বারোহীদের নিয়ে নামলেন ইরাকের যুদ্ধে। পারস্যের শক্তি যে যুদ্ধে ভেঙে পড়ে, সেই কাদিসিয়ায় জারিরের নেতৃত্বে বাজিলা ছিল মুসলিম বাহিনীর সবচেয়ে মজবুত দলগুলোর একটি। এরপরের অভিযানগুলোতেও তিনি লড়ে গেছেন, যতদিন না ইরাকের দরজা খুলে যায়। যে সর্দার একদিন মূর্তির ছায়ায় ঢাকা ইয়েমেনের মানুষ ছিলেন, তিনি নিজের শক্তি ঢেলে দিলেন অগ্নিপূজার সাম্রাজ্য ভাঙার কাজে। জুল-খালাসার গল্পটিই যেন জাতির মাপে আবার বলা হলো।",
+          },
+          {
+            en: "He settled in Kufa and later moved away in the years of civil strife, disliking to take a side against fellow Muslims, and died around 51 AH. His legacy needs no monument: every Muslim trader who discloses a defect, every believer who counts sincere advice as part of faith, is keeping the third clause of Jarir's pledge. And his account stands open in the books: a smile that never failed, a chest marked by the Prophet's ﷺ hand, and a du'a that held him steady in the saddle for forty years.",
+            bn: "তিনি থিতু হয়েছিলেন কুফায়; পরে ফিতনার বছরগুলোতে সেখান থেকে সরে যান, মুসলিমের বিরুদ্ধে মুসলিমের পক্ষ নিতে তাঁর মন সায় দেয়নি। ইন্তেকাল করেন প্রায় ৫১ হিজরিতে। তাঁর স্মৃতির জন্য কোনো মিনার লাগে না। যে মুসলিম ব্যবসায়ী মালের খুঁত খুলে বলে, যে মুমিন নসিহতকে ঈমানের অংশ গণে, সে আসলে জারিরের বাইয়াতের তৃতীয় শর্তটাই রক্ষা করছে। আর বইয়ের পাতায় তাঁর হিসাব খোলা পড়ে আছে: একটি হাসি যা কখনো থামেনি, নবীজি ﷺ-এর হাতের দাগ বসা একটি বুক, আর একটি দোয়া, যা চল্লিশ বছর তাঁকে জিনের ওপর স্থির রেখেছিল।",
+          },
+        ],
+      },
+    ],
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { SAHABA_ARTICLES };
