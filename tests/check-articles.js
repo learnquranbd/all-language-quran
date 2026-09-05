@@ -26,7 +26,10 @@ const SETS = [
   { key: 'tadabbur', loader: loadTadabburArticles, label: 'tadabbur verses', maxWords: 2000 },
 ];
 
-const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?![\d:-]|\.\d)/g;
+/* Same lookahead as js/ayah-autolink.js: a ref followed by a Bengali suffix
+ * ("2:124-এ") IS linked by the app, so it must be bounds-checked here too.
+ * The stricter form skipped 272 such refs across the shipped content. */
+const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?!\d|[.:-]\d)/g;
 const problems = [];
 const counts = [];
 
@@ -74,6 +77,27 @@ for (const set of SETS) {
     if (w && (w < 600 || w > maxW)) problems.push(`${set.label}/${id}: ${w} English words, outside 600-${maxW}`);
     words += w;
   }
+  /* Headings must belong to their subject. A drafted batch once came back with
+   * 21 of 33 headings copied verbatim from the spec's own section labels ("What
+   * the Mufassirun Said", "Its Sisters in the Quran"), so four articles in a row
+   * carried the same six titles. Nothing else in this suite could see it: the
+   * word counts, refs and structure were all valid. Flag any heading reused by
+   * more than a quarter of a module's subjects, floor of four. */
+  const headCount = {};
+  for (const [id, entry] of Object.entries(articles)) {
+    const seen = new Set();
+    for (const sec of (entry && entry.sections) || []) {
+      const h = String((sec.h && sec.h.en) || '').trim().toLowerCase();
+      if (!h || seen.has(h)) continue;
+      seen.add(h);
+      (headCount[h] = headCount[h] || []).push(id);
+    }
+  }
+  const limit = Math.max(4, Math.ceil(Object.keys(articles).length / 4));
+  for (const [h, ids] of Object.entries(headCount)) {
+    if (ids.length > limit) problems.push(`${set.label}: heading "${h}" is reused by ${ids.length} subjects (max ${limit}) — headings should fit their own subject, e.g. ${ids.slice(0, 3).join(', ')}`);
+  }
+
   counts.push(`${Object.keys(articles).length} ${set.label} (${words.toLocaleString()} words, ${refs} refs)`);
 
   /* The generated index is what views consult to decide whether to offer a

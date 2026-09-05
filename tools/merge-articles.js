@@ -46,7 +46,10 @@ const validIds = new Set(Array.isArray(subjects) ? subjects.map((s) => s.id) : O
 if (!validIds.size) { console.error(`${subjArr} in ${subjRel} yielded no subject ids`); process.exit(1); }
 const existing = sharded ? loadTadabburArticles() : (get(load(targetRel), objName) || {});
 const problems = [];
-const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?![\d:-]|\.\d)/g;
+/* Same lookahead as js/ayah-autolink.js: a ref followed by a Bengali suffix
+ * ("2:124-এ") IS linked by the app, so it must be bounds-checked here too.
+ * The stricter form skipped 272 such refs across the shipped content. */
+const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?!\d|[.:-]\d)/g;
 
 let words = 0, paras = 0, refs = 0;
 for (const [id, entry] of Object.entries(chunk)) {
@@ -75,6 +78,31 @@ for (const [id, entry] of Object.entries(chunk)) {
   }
   words += w;
   if (w < band[0] || w > band[1]) problems.push(`${id}: ${w} English words, outside ${band[0]}-${band[1]}`);
+}
+
+/* Headings must fit their subject. One batch came back with the spec's own
+ * section labels ("What the Mufassirun Said", "Its Sisters in the Quran") used
+ * verbatim in 21 of 33 headings, so four articles in a row carried the same six
+ * titles. Everything else about it was valid, which is why this is checked here
+ * rather than left to a reader to notice. */
+{
+  const ids = Object.keys(chunk);
+  if (ids.length >= 3) {
+    const headCount = {};
+    for (const [id, entry] of Object.entries(chunk)) {
+      const seen = new Set();
+      for (const sec of (entry && entry.sections) || []) {
+        const h = String((sec.h && sec.h.en) || '').trim().toLowerCase();
+        if (!h || seen.has(h)) continue;
+        seen.add(h);
+        (headCount[h] = headCount[h] || []).push(id);
+      }
+    }
+    const cap = Math.max(2, Math.ceil(ids.length / 2));
+    for (const [h, used] of Object.entries(headCount)) {
+      if (used.length > cap) problems.push(`heading "${h}" is used by ${used.length} of ${ids.length} subjects in this chunk — write a heading that fits each verse`);
+    }
+  }
 }
 
 console.log(`${objName}: +${Object.keys(chunk).length} subjects, ${paras} paragraphs, ${words} English words, ${refs} refs checked`);

@@ -1824,7 +1824,7 @@ const TADABBUR_NOTES = {
   },
   "2:2": {
     "reflectionEn": "The Qur'an is declared a Book beyond doubt, yet its guidance is described as reaching those conscious of Allah. Guidance is not automatic; it opens to a heart that comes with reverence and willingness. The clearer our God-consciousness, the more the Book speaks to us.",
-    "reflectionBn": "কুরআনকে সন্দেহাতীত এক গ্রন্থ হিসেবে ঘোষণা করা হয়েছে, তবু এর হেদায়েত মুত্তাকিদের কাছে পৌঁছায় বলে বর্ণনা করা হয়েছে। হেদায়েত স্বয়ংক্রিয় নয়; এটি এমন হৃদয়ের কাছে খুলে যায় যা শ্রদ্ধা ও আগ্রহ নিয়ে আসে। আমাদের তাকওয়া যত স্পষ্ট, গ্রন্থ আমাদের সাথে তত বেশি কথা বলে।",
+    "reflectionBn": "আয়াত কুরআনকে ঘোষণা করে সন্দেহাতীত গ্রন্থ, তবু বলে যে এর হেদায়েত পৌঁছায় মুত্তাকিদের কাছে। হেদায়েত আপনাআপনি আসে না; যে হৃদয় শ্রদ্ধা আর আগ্রহ নিয়ে আসে, তার কাছেই খুলে যায়। আমাদের তাকওয়া যত স্পষ্ট, গ্রন্থ আমাদের সাথে তত বেশি কথা বলে।",
     "pointsEn": [
       "Do I come to the Qur'an with the God-consciousness that unlocks its guidance?",
       "What is the difference between reading the Book and being guided by it?",
@@ -1836,7 +1836,7 @@ const TADABBUR_NOTES = {
       "কুরআন যাতে আমার কাছে উন্মোচিত হয় সেই তাকওয়া আমি কীভাবে গড়ে তুলতে পারি?"
     ],
     "lessonEn": "Open the Qur'an with reverence and openness, asking Allah to let its certain guidance reach your heart.",
-    "lessonBn": "শ্রদ্ধা ও উন্মুক্ততা নিয়ে কুরআন খোলো, আল্লাহর কাছে চাও যেন এর নিশ্চিত হেদায়েত তোমার হৃদয়ে পৌঁছায়।"
+    "lessonBn": "শ্রদ্ধা আর খোলা মন নিয়ে কুরআন খুলুন, আর আল্লাহর কাছে চান যেন এর নিশ্চিত হেদায়েত আপনার হৃদয়ে পৌঁছায়।"
   },
   "2:22": {
     "reflectionEn": "Allah made the earth a spread-out bed and the sky a ceiling, and sends rain that brings forth fruits to provide for us. Having laid out this care so plainly, the verse concludes: so do not set up equals to Allah while you know there is nothing like Him. Recognising the Provider naturally leads to worshipping Him alone.",
@@ -4025,6 +4025,246 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A loophole in Allah's law is not cleverness but transgression; let the story warn you before it has to.",
     "lessonBn": "আল্লাহর আইনের ফাঁক খোঁজা চালাকি নয়, সীমালঙ্ঘন; গল্পটাকে আগেই আপনাকে সাবধান করতে দিন।"
+  },
+  "2:132-133": {
+    "reflectionEn": "Ibrahim (AS) left his sons a charge and Ya'qub (AS) left his the same one: Allah has chosen this religion for you, so do not die except as submitters. It is a strange thing to command, because nobody picks the hour of his death. What is being commanded is not the moment but the state: be now what you would want to be found as. Then the Quran turns on the listeners with a question. Were you there when death came to Ya'qub? He did not ask his sons about property. He asked what they would worship after him, and they answered with one God and one submission. A father's last question shows what he spent his life teaching.",
+    "reflectionBn": "ইবরাহীম (আঃ) নিজের ছেলেদের যে ওসিয়ত করে গেলেন, ইয়াকুব (আঃ)-ও করে গেলেন ঠিক সেটাই: আল্লাহ এই দ্বীনকে তোমাদের জন্য বেছে নিয়েছেন, তাই মুসলিম না হয়ে মরো না। হুকুমটা অদ্ভুত শোনায়, কারণ নিজের মৃত্যুর সময় কেউ বেছে নিতে পারে না। হুকুমটা আসলে মুহূর্তের ওপর নয়, অবস্থার ওপর। যে অবস্থায় ধরা পড়তে আপনি রাজি, সব সময় সেই অবস্থাতেই থাকুন। এরপর কুরআন শ্রোতাদের দিকে প্রশ্ন ছুড়ে দেয়। ইয়াকুবের মৃত্যু যখন এসে পৌঁছেছিল, তোমরা কি সেখানে ছিলে? তিনি ছেলেদের কাছে সম্পত্তির কথা তোলেননি। জিজ্ঞেস করেছিলেন, আমার পরে তোমরা কার ইবাদত করবে। জবাব এল এক ইলাহ আর এক আত্মসমর্পণে। বাবার শেষ প্রশ্নটাই বলে দেয়, সারা জীবন তিনি কী শিখিয়েছেন।",
+    "pointsEn": [
+      "If I were found tomorrow in the state today leaves me in, would I be content to be found there?",
+      "Ya'qub asked his sons what they would worship, not what they would inherit. What is the last question I would want to ask my family?",
+      "The command is to a state, not to a date. Which habit of mine quietly assumes I will have time to fix it later?",
+      "His sons answered together, naming one God. What have I actually handed to the people who will outlive me?",
+      "The verse says Allah chose this religion for you. Do I carry it as something chosen for me, or as something I inherited and never looked at?"
+    ],
+    "pointsBn": [
+      "আজকের দিনটা আমাকে যে অবস্থায় রেখে যাচ্ছে, কাল সেই অবস্থাতেই ধরা পড়লে কি আমি রাজি থাকতাম?",
+      "ইয়াকুব ছেলেদের জিজ্ঞেস করেছিলেন তারা কার ইবাদত করবে, কী সম্পত্তি পাবে তা নয়। পরিবারকে আমার শেষ প্রশ্নটা কী হতে পারত?",
+      "হুকুমটা অবস্থার ওপর, কোনো তারিখের ওপর নয়। আমার কোন অভ্যাস চুপচাপ ধরে নিয়েছে যে ঠিক করার সময় পরে পাওয়া যাবে?",
+      "ছেলেরা একসাথে এক ইলাহর নাম নিয়ে জবাব দিয়েছিল। আমার পরে যারা বেঁচে থাকবে, তাদের হাতে আমি আসলে কী তুলে দিয়েছি?",
+      "আয়াত বলছে আল্লাহ এই দ্বীন আপনার জন্য বেছে নিয়েছেন। আমি কি একে বেছে দেওয়া জিনিস হিসেবে বহন করি, নাকি উত্তরাধিকারে পাওয়া এমন জিনিস, যার দিকে কোনোদিন তাকিয়েও দেখিনি?"
+    ],
+    "lessonEn": "Nobody picks his last hour, so the command lands on the state you live in: be now what you would want to be found as.",
+    "lessonBn": "শেষ সময়টা কেউ বেছে নিতে পারে না, তাই হুকুমটা এসে পড়ে আপনার বেঁচে থাকার অবস্থার ওপর। যে অবস্থায় ধরা পড়তে চান, এখনই সেই অবস্থায় থাকুন।"
+  },
+  "2:143-144": {
+    "reflectionEn": "The qibla changed, and the objection was ready before it arrived. The answer given is larger than the question. Allah calls this ummah wasat, a community set in the middle, a word that carries both justice and the choicest part, and He names the purpose: that they be witnesses over people, with the Messenger a witness over them. Then the reason for the first qibla is stated plainly. It sorted those who would follow from those who would turn back on their heels. The next verse opens with Allah's own watching. He had seen the turning of the Prophet's face toward the sky, and He grants the direction that was longed for. And nothing already offered to Him was lost.",
+    "reflectionBn": "কিবলা বদলাল, আর আপত্তিটা আসার আগেই তৈরি ছিল। জবাবটা প্রশ্নের চেয়ে অনেক বড়। আল্লাহ এই উম্মতকে বলছেন ওয়াসাত, মাঝখানে বসানো এক জাতি। শব্দটার ভেতরে ইনসাফও আছে, সেরা অংশও আছে। উদ্দেশ্যও তিনি বলে দেন: তারা মানুষের ওপর সাক্ষী হবে, আর রাসূল তাদের ওপর সাক্ষী হবেন। এরপর প্রথম কিবলার কারণটা সোজাসুজি বলা হয়। সেটি আলাদা করে দিয়েছিল, কে অনুসরণ করে আর কে পায়ের ভরে উল্টো ঘোরে। পরের আয়াত শুরু হয় আল্লাহর দেখা দিয়ে। নবীর মুখ আকাশের দিকে ফেরানো তিনি দেখেছেন, আর যে দিকটির জন্য আকুতি ছিল সেটিই দিয়ে দিলেন। আর তাঁর জন্য আগে যা পেশ করা হয়েছিল, তার কিছুই নষ্ট হয়নি।",
+    "pointsEn": [
+      "Being called a witness means being looked at. If someone learned about Islam only by watching my week, what would they conclude?",
+      "The middle here is not the easy place, it is the just place. Where do I lean to one extreme and call it devotion?",
+      "The first qibla sorted those who followed from those who turned back. Which command have I found heavy lately, and what did I do with it?",
+      "Allah saw a longing that had not yet been spoken aloud. What have I wanted for a long time and never once asked Him for?",
+      "The verse promises that earlier obedience was not wasted. What good thing have I written off as pointless because my life or my circumstances changed?"
+    ],
+    "pointsBn": [
+      "সাক্ষী বলার মানে হলো, আপনার দিকে তাকিয়ে থাকা হচ্ছে। কেউ যদি কেবল আমার সপ্তাহটা দেখে ইসলাম সম্পর্কে ধারণা নেয়, সে কী বুঝবে?",
+      "এখানে মাঝখান মানে সহজ জায়গা নয়, ইনসাফের জায়গা। কোথায় আমি এক প্রান্তে হেলে পড়ি আর তাকেই দ্বীনদারি বলি?",
+      "প্রথম কিবলা আলাদা করে দিয়েছিল, কে অনুসরণ করে আর কে ফিরে যায়। ইদানীং কোন হুকুম আমার কাছে ভারী লেগেছে, আর আমি তার সাথে কী করেছি?",
+      "মুখে বলার আগেই আল্লাহ একটা আকুতি দেখে ফেলেছিলেন। অনেক দিন ধরে কী চাই, অথচ একবারও তাঁর কাছে চাইনি?",
+      "আয়াত কথা দিচ্ছে, আগের আনুগত্য বৃথা যায়নি। জীবন বা পরিস্থিতি বদলে গেছে বলে কোন ভালো কাজটাকে আমি অর্থহীন ধরে নিয়ে বাদ দিয়েছি?"
+    ],
+    "lessonEn": "A community placed in the middle is placed in view; what you are is testimony long before you say a word.",
+    "lessonBn": "মাঝখানে বসানো জাতি মানে চোখের সামনে বসানো জাতি। মুখে কিছু বলার অনেক আগেই আপনি যা, সেটাই সাক্ষ্য।"
+  },
+  "2:168-169": {
+    "reflectionEn": "The address is to all mankind, not only to believers: eat of what is on the earth, lawful and wholesome. Two conditions, not one. A thing can be permitted and still be no good for you, and a thing can look good and reach you by a route that is not permitted. Then the warning: do not follow the footsteps of Satan. Footsteps, because he does not ask for the whole distance at once. He asks for the next step. The verse that follows names everything he ever orders, and it is three things: evil, indecency, and saying about Allah what you do not know. The last is the heaviest, and it is the one that sounds most like religion.",
+    "reflectionBn": "সম্বোধন গোটা মানবজাতির প্রতি, শুধু ঈমানদারদের প্রতি নয়: জমিনে যা আছে তার হালাল আর পবিত্র জিনিস খাও। শর্ত দুটো, একটা নয়। কোনো জিনিস বৈধ হতে পারে অথচ আপনার জন্য ভালো না হতে পারে। আবার কোনো জিনিস দেখতে ভালো, কিন্তু আপনার কাছে পৌঁছেছে এমন পথে যা বৈধ নয়। এরপর সতর্কবাণী: শয়তানের পায়ের চিহ্ন ধরে চলো না। পায়ের চিহ্ন, কারণ সে একবারে গোটা পথটা চায় না। সে চায় পরের একটা পা। পরের আয়াত গুনিয়ে দেয় সে সব মিলিয়ে কী কী হুকুম করে, আর তা তিনটি: মন্দ কাজ, অশ্লীলতা, আর আল্লাহ সম্পর্কে না জেনে কথা বলা। শেষেরটাই সবচেয়ে ভারী, আর শুনতে সেটাই সবচেয়ে বেশি দ্বীনের মতো লাগে।",
+    "pointsEn": [
+      "Lawful and wholesome are two separate tests. Which of the two do I quietly skip?",
+      "How did the money that bought today's food actually reach me?",
+      "Nobody covers the whole distance in one stride. What was the first small step in the habit I am least proud of?",
+      "When did I last tell someone what Allah likes or forbids without knowing that He said it?",
+      "If an open enemy were allowed to plan my week, what is the first thing he would change?"
+    ],
+    "pointsBn": [
+      "হালাল আর পবিত্র, এ দুটো আলাদা পরীক্ষা। এর কোনটাকে আমি চুপচাপ এড়িয়ে যাই?",
+      "আজকের খাবারটা যে টাকায় কেনা, সে টাকা আসলে কোন পথে আমার হাতে এসেছে?",
+      "গোটা পথ কেউ এক পা ফেলে পেরোয় না। যে অভ্যাসটা নিয়ে আমার সবচেয়ে লজ্জা, তার প্রথম ছোট পা-টা কী ছিল?",
+      "আল্লাহ কী পছন্দ করেন বা কী নিষেধ করেছেন, তিনি বলেছেন কি না না জেনেই শেষ কবে আমি কাউকে তা বলেছি?",
+      "প্রকাশ্য এক শত্রুকে যদি আমার সপ্তাহটা সাজানোর সুযোগ দেওয়া হয়, সে সবার আগে কী বদলে দেবে?"
+    ],
+    "lessonEn": "Halal asks how it reached you, tayyib asks what it does to you, and the enemy only ever asks for one more step.",
+    "lessonBn": "হালাল জানতে চায় জিনিসটা কোন পথে আপনার কাছে এসেছে, পবিত্র জানতে চায় সেটা আপনার কী করছে। আর শত্রু বরাবর চায় শুধু আর একটা পা।"
+  },
+  "2:177": {
+    "reflectionEn": "Religion had been reduced to a direction to face. The verse answers by refusing to define righteousness as an act at all. Righteousness is the one who believes, and gives, and prays, and keeps his word, and holds on. Belief comes first: in Allah, the Last Day, the angels, the Book, the prophets. Then wealth is given away, to relatives, orphans, the needy, the traveller, those who ask, and to free a slave. Then prayer and zakah, the two fixed duties. Then a promise kept. Then patience in poverty, in pain, and when the fighting starts. Only after all of that does the verse say: these are the truthful, these are the ones who fear Allah.",
+    "reflectionBn": "দ্বীন নেমে এসেছিল কোন দিকে মুখ করা হবে সেই প্রশ্নে। আয়াত জবাব দেয় নেকিকে কোনো কাজ দিয়ে সংজ্ঞায়িত করতেই অস্বীকার করে। নেকি হলো সেই মানুষ, যে ঈমান আনে, দেয়, নামায পড়ে, কথা রাখে আর ধরে থাকে। আগে ঈমান: আল্লাহ, শেষ দিন, ফেরেশতা, কিতাব আর নবীগণের ওপর। তারপর সম্পদ দিয়ে দেওয়া, আত্মীয়, ইয়াতিম, মিসকিন, মুসাফির, যে চায় তাকে, আর দাস মুক্ত করতে। তারপর নামায আর যাকাত, বাঁধা দুই দায়িত্ব। তারপর দেওয়া কথা রাখা। তারপর সবর, অভাবে, কষ্টে, আর বিপদের মুহূর্তে। এতগুলোর পরে গিয়ে আয়াত বলে, এরাই সত্যবাদী, এরাই মুত্তাকি।",
+    "pointsEn": [
+      "If someone measured my religion only by what left my hands this month, what would the number say?",
+      "The verse names people, not causes. Which of them, relative, orphan, needy, traveller, asker, have I not thought about at all?",
+      "A kept promise stands here beside prayer and zakah. What did I promise that I have quietly let lapse?",
+      "Three kinds of patience are named: poverty, pain, and the moment of danger. Which of the three exposes me?",
+      "Which part of my religion is still a direction I face rather than something I do?"
+    ],
+    "pointsBn": [
+      "এ মাসে আমার হাত থেকে যা বেরিয়েছে কেউ যদি শুধু সেটা দিয়ে আমার দ্বীন মাপে, সংখ্যাটা কী বলবে?",
+      "আয়াত মানুষের নাম নেয়, খাতের নাম নয়। আত্মীয়, ইয়াতিম, মিসকিন, মুসাফির, যাচ্ঞাকারী, এদের কার কথা আমি একবারও ভাবিনি?",
+      "দেওয়া কথা রাখা এখানে নামায আর যাকাতের পাশে বসে আছে। কী কথা দিয়ে আমি চুপচাপ তা মরতে দিয়েছি?",
+      "তিন রকম সবরের নাম আছে: অভাব, কষ্ট, আর বিপদের মুহূর্ত। এই তিনটার কোনটা আমাকে ধরে ফেলে?",
+      "আমার দ্বীনের কোন অংশটা এখনো নিছক মুখ ফেরানোর দিক, করার মতো কোনো কাজ নয়?"
+    ],
+    "lessonEn": "Righteousness is not the direction you face but the person you are once belief, money, prayer, promises and patience are counted together.",
+    "lessonBn": "নেকি আপনি কোন দিকে মুখ করেন তা নয়। ঈমান, টাকা, নামায, দেওয়া কথা আর সবর একসাথে গুনলে আপনি যে মানুষটা দাঁড়ান, নেকি সেটাই।"
+  },
+  "2:14-16": {
+    "reflectionEn": "They keep two sentences ready. In front of the believers it is we believe; back among their own people it is we are with you, we were only mocking. The Quran does not argue with either sentence. It follows the speaker out of one room into the other and lets the two lines stand side by side. Then it names what such a life costs: they bought error and paid guidance for it, and the trade returned nothing. A man can hold a place in both camps for years and think he is winning twice. These verses answer that he has spent the one thing he cannot earn back, that he is still wandering, and that he does not feel it.",
+    "reflectionBn": "তাদের কাছে দুটো কথা সবসময় তৈরি থাকে। মুমিনদের সামনে ‘আমরা ঈমান এনেছি’, আর নিজের লোকদের কাছে ফিরে গিয়ে ‘আমরা তো তোমাদের সাথেই আছি, ওদের নিয়ে স্রেফ ঠাট্টা করি’। কুরআন কোনো কথা নিয়ে তর্ক করে না। সে লোকটার পিছু নেয় এক ঘর থেকে আরেক ঘরে, আর দুটো কথা পাশাপাশি রেখে দেয়। তারপর বলে দেয় এমন জীবনের দাম কত: তারা গোমরাহি কিনেছে, দাম দিয়েছে হেদায়েত, আর কারবারে কিছুই ফেরত আসেনি। মানুষ বছরের পর বছর দুই দলেই জায়গা রেখে ভাবতে পারে সে দুদিকেই জিতছে। আয়াত জবাব দেয়, যা আর উপার্জন করা যায় না সেটাই সে খরচ করে ফেলেছে, এখনো ঘুরে মরছে, আর টেরও পাচ্ছে না।",
+    "pointsEn": [
+      "Which sentence I said this week would I refuse to have repeated, word for word, in the other room?",
+      "When I add that I was only joking, what did I actually want to say and not want to own?",
+      "Whose company changes what I am willing to say about my religion?",
+      "If guidance is the price and error the purchase, what have I been buying lately?",
+      "Where am I reading a delay in consequences as approval?"
+    ],
+    "pointsBn": [
+      "এ সপ্তাহে বলা কোন কথাটা হুবহু অন্য ঘরে গিয়ে বলতে আমি রাজি হব না?",
+      "‘আমি তো মজা করছিলাম’ বলার সময় আসলে কোন কথাটা আমি বলতে চেয়েছি অথচ স্বীকার করতে চাইনি?",
+      "কাদের সঙ্গে থাকলে আমার দ্বীন নিয়ে কী বলব সেটা বদলে যায়?",
+      "হেদায়েত যদি দাম হয় আর গোমরাহি হয় কেনা জিনিস, তাহলে ইদানীং আমি কী কিনছি?",
+      "শাস্তি আসতে দেরি হচ্ছে, এটাকে কোথায় আমি সম্মতি ধরে নিচ্ছি?"
+    ],
+    "lessonEn": "Keep one face in both rooms; a sentence you could not repeat in the other company was not worth saying at all.",
+    "lessonBn": "দুই ঘরেই এক চেহারা রাখুন; অন্য দলের সামনে যে কথা আবার বলতে পারবেন না, সে কথা বলারই দরকার ছিল না।"
+  },
+  "2:23-24": {
+    "reflectionEn": "The Quran does not ask to be believed on its own say-so. It puts a test into the reader's hands: if you are in doubt about what We sent down upon Our servant, produce one surah like it, and call in every witness you have short of Allah. The terms are generous. Not the whole Book, one surah. Not alone, but with all the help you can gather. Then comes the sentence that has stood ever since: and you will never do it. What follows is not another argument but a warning about a fire whose fuel is people and stones. The challenge was never withdrawn, and the silence since is the answer.",
+    "reflectionBn": "কুরআন নিজের কথায় নিজেকে মেনে নিতে বলে না। সে পরীক্ষাটা পাঠকের হাতেই তুলে দেয়: আমার বান্দার উপর যা নাযিল করেছি তাতে সন্দেহ থাকলে এর মতো একটা সূরা এনে দাও, আর আল্লাহ ছাড়া তোমাদের যত সাক্ষী আছে সবাইকে ডেকে নাও। শর্তগুলো উদার। পুরো কিতাব নয়, একটা সূরা। একা নয়, যত সাহায্য জোগাড় করতে পারো সব নিয়ে। তারপর আসে সেই কথা, যা আজও দাঁড়িয়ে আছে: আর তোমরা কক্ষনো পারবে না। এরপর আর যুক্তি নয়, আসে সতর্কবাণী, যে আগুনের ইন্ধন মানুষ আর পাথর। চ্যালেঞ্জটা কখনো তুলে নেওয়া হয়নি, আর এতকালের নীরবতাই তার জবাব।",
+    "pointsEn": [
+      "When doubt about the Book visits me, do I test the claim or just wait for the feeling to pass?",
+      "Have I ever sat with one short surah long enough to see what it actually does?",
+      "At the moment of proof the verse calls him Our servant. What does that title change for me?",
+      "The challenge lets me call in any help but One. Where do I look for help before I look to Allah?",
+      "2:24 names a stake, not just an argument. When did a warning last change one of my decisions?"
+    ],
+    "pointsBn": [
+      "কিতাব নিয়ে সন্দেহ এলে আমি কি দাবিটা যাচাই করি, নাকি অনুভূতিটা কেটে যাওয়ার অপেক্ষায় বসে থাকি?",
+      "ছোট একটা সূরা নিয়ে আমি কি কখনো এতক্ষণ বসেছি যে বুঝতে পারি সেটা আসলে কী করে?",
+      "প্রমাণের মুহূর্তে আয়াত তাঁকে বলছে ‘আমার বান্দা’। এই পরিচয়টা আমার কাছে কী বদলে দেয়?",
+      "চ্যালেঞ্জ একজন ছাড়া সবার সাহায্য নিতে দেয়। আল্লাহর আগে আমি কার কাছে সাহায্য খুঁজি?",
+      "2:24 শুধু যুক্তি দেয় না, দাম ধরিয়ে দেয়। এমন সতর্কবাণী শেষ কবে আমার একটা সিদ্ধান্ত বদলেছে?"
+    ],
+    "lessonEn": "The Book handed you a test instead of asking for trust; doubt is answered by opening it, not by avoiding it.",
+    "lessonBn": "কিতাব আপনার কাছে বিশ্বাস চায়নি, হাতে একটা পরীক্ষা ধরিয়ে দিয়েছে; সন্দেহের জবাব সেটা খুলে বসায়, এড়িয়ে যাওয়ায় নয়।"
+  },
+  "2:30-33": {
+    "reflectionEn": "Before the first human being existed, he was announced. Allah told the angels He was placing a khalifah on the earth, and they asked how such a creature could be given that rank when it would spill blood and spread ruin. Their question was inquiry, not objection, and the answer closed it: I know what you do not know. Then the case was shown rather than argued. Adam (AS) was taught the names, the things were set before the angels, and they said the truest sentence a creature can say: we have no knowledge except what You have taught us. Human honour rests on knowledge that was given, and given knowledge can be forgotten or ignored.",
+    "reflectionBn": "প্রথম মানুষ থাকার আগেই তার ঘোষণা এসে গিয়েছিল। আল্লাহ ফেরেশতাদের জানালেন, তিনি যমীনে খলিফা বসাচ্ছেন। তারা জানতে চাইল, যে সৃষ্টি রক্ত ঝরাবে আর বিশৃঙ্খলা ছড়াবে, তাকে এই মর্যাদা দেওয়া হবে কেন। এ ছিল জেনে নেওয়ার প্রশ্ন, আপত্তি নয়, আর জবাব প্রশ্নটা মিটিয়ে দিল: আমি যা জানি তোমরা তা জানো না। এরপর যুক্তি নয়, দেখিয়ে দেওয়া হলো। আদম (আঃ)-কে নামগুলো শেখানো হলো, জিনিসগুলো ফেরেশতাদের সামনে রাখা হলো, আর তারা বলল সৃষ্টির মুখে সবচেয়ে সত্য কথাটি: আপনি যা শিখিয়েছেন তা ছাড়া আমাদের কোনো জ্ঞান নেই। মানুষের সম্মান দাঁড়িয়ে আছে দেওয়া জ্ঞানের উপর, আর দেওয়া জ্ঞান ভোলাও যায়, অগ্রাহ্যও করা যায়।",
+    "pointsEn": [
+      "The angels asked to learn, not to argue. When I do not understand a decree, which of the two am I doing?",
+      "Everything I know was taught to me. Where do I still speak as though I owned it?",
+      "Could I say we have no knowledge except what You have taught us, and mean it out loud in front of others?",
+      "If the earth is an assignment and not a possession, what has been assigned to me this week?",
+      "What is the last thing I honestly said I did not know?"
+    ],
+    "pointsBn": [
+      "ফেরেশতারা প্রশ্ন করেছিল জানার জন্য, তর্কের জন্য নয়। কোনো ফয়সালা না বুঝলে আমি এ দুইয়ের কোনটা করি?",
+      "আমি যা কিছু জানি, সবই আমাকে শেখানো হয়েছে। কোথায় আমি এখনো এমন করে বলি যেন জ্ঞানটা আমার নিজের সম্পত্তি?",
+      "‘আপনি যা শিখিয়েছেন তা ছাড়া আমাদের কোনো জ্ঞান নেই’, এ কথা কি আমি মানুষের সামনে মুখে বলতে পারি, আর মন থেকে বলতে পারি?",
+      "যমীন যদি দায়িত্ব হয়, সম্পত্তি না হয়, তবে এ সপ্তাহে আমার ভাগে কোন দায়িত্বটা পড়েছে?",
+      "শেষ কবে আমি সোজা কথায় বলেছি যে এটা আমি জানি না?"
+    ],
+    "lessonEn": "Your rank on this earth rests on knowledge you were given, so hold it as a trust and say plainly when you do not know.",
+    "lessonBn": "এই যমীনে আপনার মর্যাদা দাঁড়িয়ে আছে আপনাকে দেওয়া জ্ঞানের উপর; একে আমানত ধরে রাখুন, আর না জানলে সোজা কথায় বলে দিন যে জানি না।"
+  },
+  "2:40": {
+    "reflectionEn": "The address changes here. After the making of Adam (AS) and the terms of life on earth, the surah turns and calls a people by name. It asks three things in one breath: remember My favour, keep My covenant and I will keep yours, and fear Me alone. Notice the order. Memory comes first, because someone who has forgotten what he was given has no reason to keep anything. Then the covenant, worded as an exchange with Allah holding the other end of it. Then the last clause puts the object before the verb, narrowing the fear to One. Almost everything the surah asks of this people afterwards is these three sentences opened out.",
+    "reflectionBn": "এখানে সম্বোধন বদলে যায়। আদম (আঃ)-এর সৃষ্টি আর যমীনের জীবনের শর্ত বলার পর সূরা মুখ ঘুরিয়ে একটা জাতিকে নাম ধরে ডাকে। এক নিঃশ্বাসে তিনটি কথা: আমার নিয়ামত স্মরণ কর, আমার অঙ্গীকার পূর্ণ কর, আমিও তোমাদেরটা পূর্ণ করব, আর কেবল আমাকেই ভয় কর। ক্রমটা খেয়াল করুন। আগে স্মরণ, কারণ কী পেয়েছিল তা যে ভুলে গেছে, কিছু রক্ষা করার কারণ তার থাকে না। তারপর অঙ্গীকার, লেনদেনের ভাষায় বলা, যার অন্য প্রান্ত আল্লাহর হাতে। শেষ কথাটায় ভয়ের লক্ষ্যকে ক্রিয়ার আগে বসিয়ে দেওয়া হয়েছে, তাতে ভয় একজনেই সীমিত হয়ে যায়। এরপর এই জাতির কাছে সূরা যা যা চায়, তার প্রায় পুরোটাই এই তিন কথার খোলা রূপ।",
+    "pointsEn": [
+      "Which favour of Allah in my life have I stopped mentioning, even to myself?",
+      "The covenant is worded as an exchange. Which clause of my side have I quietly stopped keeping?",
+      "Fear Me alone narrows the list to one. Whose displeasure actually moves me faster than His?",
+      "Remembering is meant to reach the hands, not only the heart. What did my gratitude do this week?",
+      "If someone read my promises back to me as a contract, which line would I want removed?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন নিয়ামতের কথা আমি আর মুখেও আনি না, নিজের কাছেও না?",
+      "অঙ্গীকারটা লেনদেনের ভাষায় বলা। আমার দিকের কোন শর্তটা আমি চুপচাপ ছেড়ে দিয়েছি?",
+      "‘কেবল আমাকেই ভয় কর’ তালিকাটা একজনে নামিয়ে আনে। আসলে কার অসন্তুষ্টি আমাকে তাঁর চেয়ে দ্রুত নাড়ায়?",
+      "স্মরণের কথা হাত পর্যন্ত পৌঁছানোর, কেবল মনে থেকে যাওয়ার নয়। এ সপ্তাহে আমার শুকরিয়া কী করেছে?",
+      "কেউ যদি আমার ওয়াদাগুলো চুক্তির মতো করে আমাকে পড়ে শোনায়, কোন লাইনটা আমি বাদ দিতে চাইব?"
+    ],
+    "lessonEn": "Remember first, because a forgotten favour makes a broken promise feel reasonable; then keep your side, and let one fear replace all the others.",
+    "lessonBn": "আগে স্মরণ করুন, কারণ ভুলে যাওয়া নিয়ামতের পর ওয়াদা ভাঙাটা যুক্তিসঙ্গত মনে হতে থাকে; তারপর নিজের দিকটা রাখুন, আর একটাই ভয় বাকি সব ভয়ের জায়গা নিক।"
+  },
+  "2:97-98": {
+    "reflectionEn": "An objection was raised that had nothing to do with the message itself: no quarrel with what was recited, only with the angel who carried it. The answer does not argue about the angel's character. It says who sent him, where he set the revelation down, and what it does once it is there, confirming what came before it, guidance and good news. Then the second verse widens the circle until the objection has nowhere left to stand: enmity towards Allah, His angels, His messengers, Jibril and Mikail is one enmity, and it is answered by Allah Himself. Underneath the history is a very ordinary habit. We refuse a truth because of who is holding it, and then we call the refusal a principle.",
+    "reflectionBn": "আপত্তিটা মূল কথার বিরুদ্ধে ছিল না। যা পড়ে শোনানো হচ্ছে তা নিয়ে ঝগড়া নেই, ঝগড়া কেবল সেই ফেরেশতাকে নিয়ে যিনি তা বয়ে এনেছেন। জবাবে ফেরেশতার স্বভাব নিয়ে কোনো তর্ক নেই। জবাব বলে দেয় কে তাঁকে পাঠিয়েছেন, তিনি ওহি কোথায় নামিয়ে রেখেছেন, আর সেই ওহি এসে কী করে: আগের কিতাবকে সত্যায়ন করে, পথ দেখায়, সুসংবাদ দেয়। এরপর দ্বিতীয় আয়াত পরিধিটা এত বড় করে দেয় যে আপত্তির দাঁড়ানোর জায়গাই থাকে না। আল্লাহ, তাঁর ফেরেশতাগণ, তাঁর রাসূলগণ, জিবরীল ও মীকাঈল—এদের প্রতি শত্রুতা একটাই শত্রুতা, আর তার জবাব দেন আল্লাহ নিজে। ইতিহাসের নিচে পড়ে আছে খুব চেনা এক স্বভাব। কে কথাটা বলছে তা দেখে আমরা সত্যকে ফিরিয়ে দিই, তারপর সেই ফিরিয়ে দেওয়াকেই নীতি বলে চালাই।",
+    "pointsEn": [
+      "Is there a truth I have turned down lately because of who brought it to me?",
+      "When I dislike a person, do I begin doubting what they say before I have weighed it?",
+      "The Quran was set down on the heart of the Prophet ﷺ. What does my own heart do with it when I read?",
+      "Do I believe in the angels as real servants under orders, or only as a doctrine I would tick?",
+      "If loving what Allah loves is part of faith, what does my list of dislikes say about mine?"
+    ],
+    "pointsBn": [
+      "সম্প্রতি এমন কোনো সত্য কি আমি ফিরিয়ে দিয়েছি, কেবল কে তা এনেছে সেই কারণে?",
+      "কাউকে অপছন্দ করলে তার কথা ওজন করার আগেই কি আমি সন্দেহ করতে শুরু করি?",
+      "কুরআন নামানো হয়েছিল নবী ﷺ-এর হৃদয়ে। পড়ার সময় আমার নিজের হৃদয় তা নিয়ে কী করে?",
+      "ফেরেশতাদের কি আমি হুকুমের অধীনে থাকা সত্যিকারের বান্দা হিসেবে মানি, নাকি কেবল মুখে স্বীকার করা কোনো বিশ্বাস হিসেবে?",
+      "আল্লাহ যা ভালোবাসেন তা ভালোবাসা যদি ঈমানের অংশ হয়, তবে আমার অপছন্দের তালিকা আমার ঈমান সম্পর্কে কী বলে?"
+    ],
+    "lessonEn": "Refusing a message because of the messenger is not discernment; it is enmity wearing the clothes of judgement.",
+    "lessonBn": "বাহকের কারণে বার্তা ফিরিয়ে দেওয়াকে বিচারবুদ্ধি বলে না; ওটা বিচারের পোশাক পরা শত্রুতা।"
+  },
+  "2:102": {
+    "reflectionEn": "One verse earlier the Book of Allah was thrown behind their backs. This verse names what was picked up in its place. It first clears Sulayman (AS) of a charge that had attached itself to his name, and puts the disbelief where it belongs. Then it says three plain things about what they turned to. Whoever was taught it was warned first that this was a trial, so no one came to it uninformed. Nothing it does escapes the permission of Allah, so it is no power standing beside His. And it harms the learner and profits him nothing, and they knew that its buyer has no share in the Hereafter. The closing line prices the exchange: how wretched a thing to sell yourself for.",
+    "reflectionBn": "ঠিক আগের আয়াতে আল্লাহর কিতাব পিঠের পিছনে ছুড়ে ফেলা হয়েছিল। এই আয়াত বলে দেয়, তার জায়গায় তুলে নেওয়া হয়েছিল কী। প্রথমে সুলায়মান (আঃ)-এর নামের সঙ্গে জুড়ে যাওয়া অপবাদটি সরিয়ে দেওয়া হয়, আর কুফরিটা যাদের, তাদের ঘাড়েই রাখা হয়। এরপর তারা যেদিকে ঝুঁকেছিল সে সম্পর্কে সোজা তিনটি কথা বলা হয়। যাকেই শেখানো হতো তাকে আগে সাবধান করা হতো যে এটা পরীক্ষা, কাজেই কেউ না জেনে এতে ঢোকেনি। আল্লাহর অনুমতির বাইরে এ দিয়ে কিছুই ঘটে না, কাজেই এ তাঁর পাশে দাঁড়ানো কোনো শক্তি নয়। আর যে শেখে তার ক্ষতিই হয়, লাভ হয় না, এবং তারা জানত যে এর ক্রেতার আখিরাতে কোনো অংশ নেই। শেষ কথাটি দাম বসিয়ে দেয়: নিজেকে বেচার জন্য কতই না জঘন্য জিনিস।",
+    "pointsEn": [
+      "When the Book of Allah is not within reach, what fills that space in my life?",
+      "Is there something I have kept hold of knowing it harms me, because it promised something quickly?",
+      "In trouble, whose door do I go to first: Allah's, or an amulet, a fortune-teller, an easy remedy?",
+      "What am I doing to protect the bond in my own home, when breaking it is the work Satan prizes most?",
+      "What am I actually trading away by continuing in something I was warned about?"
+    ],
+    "pointsBn": [
+      "আল্লাহর কিতাব যখন হাতের কাছেই থাকে না, তখন সেই জায়গাটা আমার জীবনে কী দিয়ে ভরে ওঠে?",
+      "কোনো জিনিস আমার ক্ষতি করছে জেনেও কি আমি তা ধরে রেখেছি, কেবল দ্রুত কিছু একটা পাওয়ার আশায়?",
+      "কষ্টে পড়লে আমি প্রথমে কার দিকে হাত বাড়াই: আল্লাহর দিকে, নাকি কোনো তাবিজ, গণক বা সহজ কোনো টোটকার দিকে?",
+      "নিজের ঘরের বাঁধনটি রক্ষা করার জন্য আমি কী করছি, যেখানে ভাঙন সৃষ্টিই শয়তানের সবচেয়ে প্রিয় কাজ?",
+      "সাবধান করা সত্ত্বেও যা আমি চালিয়ে যাচ্ছি, তার বদলে আমি আসলে কী বিক্রি করছি?"
+    ],
+    "lessonEn": "The verse is less about sorcery than about choosing what you know is ruinous; what you set the Book down for is what you sold yourself for.",
+    "lessonBn": "আয়াতটি যাদু নিয়ে যতটা, তার চেয়ে বেশি এ নিয়ে যে সর্বনাশা জেনেও তা বেছে নেওয়া হয়; আর যার জন্য কিতাব নামিয়ে রাখলেন, তার বিনিময়েই নিজেকে বেচলেন।"
+  },
+  "2:113-114": {
+    "reflectionEn": "Two communities, each holding a scripture, each saying of the other that they have nothing at all to stand on. The verse does not weigh the two claims against each other. It notes what makes the exchange strange: both of them are reciting the Book. Then it adds that people with no scripture say the like of their words, so the sentence fits a mouth with knowledge behind it and one with none. Judgement is deferred, not cancelled; Allah will judge between them on the Day of Resurrection about what they differed in. The next verse names the worst place this road ends: barring the name of Allah from His mosques and working at their ruin. An argument can grow until it locks a door.",
+    "reflectionBn": "দুটি সম্প্রদায়, দুজনের হাতেই কিতাব, আর দুজনেই অন্যজন সম্পর্কে বলছে, ওদের দাঁড়ানোর কিছুই নেই। আয়াত দুটি দাবিকে একে অন্যের বিপরীতে ওজন করে না। আয়াত ধরিয়ে দেয় সেই একটি বিষয়, যা কথাটাকে অদ্ভুত করে তোলে: দুই পক্ষই কিতাব পড়ছে। এরপর যোগ করে, যাদের কোনো কিতাবই নেই তারাও ওদেরই মতো কথা বলে। অর্থাৎ কথাটা মুখ থেকে বেরোতে পারে জ্ঞান নিয়েও, জ্ঞান ছাড়াও। ফয়সালা স্থগিত, বাতিল নয়; যে বিষয়ে তারা মতভেদ করছে, কিয়ামতের দিন আল্লাহ তাদের মধ্যে তার ফয়সালা করবেন। পরের আয়াত বলে দেয় এই পথ সবচেয়ে খারাপ কোথায় গিয়ে শেষ হয়: আল্লাহর মসজিদে তাঁর নাম নিতে বাধা দেওয়া আর সেগুলো ধ্বংসের চেষ্টা করা। তর্ক বাড়তে বাড়তে দরজায় তালা লাগিয়ে দিতে পারে।",
+    "pointsEn": [
+      "Have I ever said of other Muslims that they have nothing at all, when I meant that I disagree with them?",
+      "Reciting the Book was true of both parties here. What does that tell me about assuming my recitation settles the matter?",
+      "Is there a masjid, a gathering or a person I have made harder to reach for someone else?",
+      "When I differ with someone, do I leave the final judgement to the Day of Resurrection, or do I try to pass it myself now?",
+      "What would change in my speech this week if I had to say only what I could prove?"
+    ],
+    "pointsBn": [
+      "অন্য মুসলিমদের সম্পর্কে কি আমি কখনো বলেছি যে তাদের কিছুই নেই, অথচ বোঝাতে চেয়েছি কেবল যে আমি একমত নই?",
+      "এখানে দুই পক্ষই কিতাব পড়ছিল। আমার নিজের তিলাওয়াতই সব ফয়সালা করে দেয়, এই ধারণা নিয়ে এ কথাটি আমাকে কী বলে?",
+      "এমন কোনো মসজিদ, মজলিস বা মানুষ কি আছে, যার কাছে পৌঁছানো আমি কারও জন্য কঠিন করে দিয়েছি?",
+      "কারও সঙ্গে মতভেদ হলে চূড়ান্ত ফয়সালা কি আমি কিয়ামতের দিনের জন্য রেখে দিই, নাকি এখনই নিজে রায় দিয়ে দিতে চাই?",
+      "যা প্রমাণ করতে পারি কেবল তা-ই বলতে হলে এই সপ্তাহে আমার কথাবার্তায় কী বদলাত?"
+    ],
+    "lessonEn": "Disagreeing with someone is not the same as saying they stand on nothing, and the road from that sentence to a locked masjid door is short.",
+    "lessonBn": "কারও সঙ্গে দ্বিমত করা আর কারও দাঁড়ানোর কিছু নেই বলা এক জিনিস নয়, আর ওই কথাটি থেকে মসজিদের তালাবন্ধ দরজা পর্যন্ত পথটা লম্বা নয়।"
+  },
+  "2:125-126": {
+    "reflectionEn": "Two verses about one House, spoken from two sides. In the first, Allah makes it a place people keep coming back to and a place of safety, points to the standing place of Ibrahim (AS) as a place of prayer, and charges the two builders to keep His House clean for those who circle it, stay in it, bow and prostrate. In the second, Ibrahim (AS) prays for the city: make it secure, and provide its people with fruits. Then he narrows his own request, asking it for whoever of them believes. The answer widens what he narrowed. Even the one who disbelieves is given provision, for a little, before the punishment of the Fire. A servant drew a line and the generosity of his Lord ran straight past it.",
+    "reflectionBn": "একই ঘর নিয়ে দুটি আয়াত, বলা হয়েছে দুই দিক থেকে। প্রথমটিতে আল্লাহ একে বানান এমন জায়গা যেখানে মানুষ বারবার ফিরে আসে, আর বানান নিরাপদ আশ্রয়; ইবরাহীম (আঃ)-এর দাঁড়ানোর জায়গাটিকে দেখিয়ে দেন নামাযের জায়গা হিসেবে; আর দুই নির্মাতাকে দায়িত্ব দেন তাঁর ঘরটিকে পবিত্র রাখার, যারা তাওয়াফ করে, ইতিকাফ করে, রুকু ও সিজদা করে তাদের জন্য। দ্বিতীয়টিতে ইবরাহীম (আঃ) শহরটির জন্য দু'আ করেন: একে নিরাপদ করুন, আর এর অধিবাসীদের ফলমূল থেকে জীবিকা দিন। এরপর তিনি নিজের আবেদনটিকে সংকীর্ণ করেন, চান তাদের মধ্যে যারা ঈমান আনে তাদের জন্য। জবাব তিনি যা সংকীর্ণ করেছিলেন তা চওড়া করে দেয়। যে কুফরি করে তাকেও জীবিকা দেওয়া হয়, কিছুকালের জন্য, তারপর জাহান্নামের শাস্তি। বান্দা সীমা টেনেছিলেন, আর তাঁর প্রতিপালকের দান সেই সীমা ছাড়িয়ে চলে গেল।",
+    "pointsEn": [
+      "What in my life am I still returning to on purpose, and what have I let become a place I only pass by?",
+      "Ibrahim (AS) asked for security before he asked for fruit. What am I asking my Lord for first?",
+      "If provision reaches the believer and the disbeliever alike, what have I been reading into my own good fortune?",
+      "The House had to be kept clean for those who worship in it. What is the state of the place where I pray?",
+      "Whom have I quietly written out of my du'a, and who taught me I was allowed to?"
+    ],
+    "pointsBn": [
+      "আমার জীবনে এমন কী আছে যেখানে আমি ইচ্ছে করে বারবার ফিরে যাই, আর কোন জিনিসটিকে আমি কেবল পাশ কাটিয়ে যাওয়ার জায়গা বানিয়ে ফেলেছি?",
+      "ইবরাহীম (আঃ) ফলমূল চাওয়ার আগে চেয়েছিলেন নিরাপত্তা। আমি আমার প্রতিপালকের কাছে সবার আগে কী চাই?",
+      "জীবিকা যদি ঈমানদার আর কাফির দুজনের কাছেই পৌঁছায়, তবে নিজের সচ্ছলতার মধ্যে আমি এতদিন কী পড়ে নিচ্ছিলাম?",
+      "যারা সেখানে ইবাদত করবে তাদের জন্য ঘরটিকে পবিত্র রাখতে বলা হয়েছিল। আমি যেখানে নামায পড়ি সেই জায়গাটির অবস্থা কেমন?",
+      "কাকে আমি চুপচাপ নিজের দু'আ থেকে বাদ দিয়ে রেখেছি, আর তা করার অনুমতি আমাকে কে দিল?"
+    ],
+    "lessonEn": "Ibrahim (AS) asked within faith and Allah gave beyond it, for a while; provision proves nothing about anyone, and the Hereafter settles what this world leaves open.",
+    "lessonBn": "ইবরাহীম (আঃ) চেয়েছিলেন ঈমানের ভেতরে থেকে, আর আল্লাহ দিলেন তার বাইরেও, কিছুকালের জন্য; জীবিকা দিয়ে কারও কিছুই প্রমাণ হয় না, আর দুনিয়া যা খোলা রেখে যায় আখিরাত তার ফয়সালা করে।"
   }
 };
 

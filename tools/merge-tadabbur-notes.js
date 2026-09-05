@@ -33,7 +33,10 @@ const notes = get(load(NOTES_FILE), 'TADABBUR_NOTES') || {};
 const poolSb = load(POOL_FILE);
 const pool = get(poolSb, 'PONDER_REFS') || [];
 const themes = get(poolSb, 'PONDER_THEMES') || {};
-const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?![\d:-]|\.\d)/g;
+/* Same lookahead as js/ayah-autolink.js: a ref followed by a Bengali suffix
+ * ("2:124-এ") IS linked by the app, so it must be bounds-checked here too.
+ * The stricter form skipped 272 such refs across the shipped content. */
+const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?!\d|[.:-]\d)/g;
 const problems = [];
 const wc = (s) => String(s || '').split(/\s+/).filter(Boolean).length;
 
