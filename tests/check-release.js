@@ -42,12 +42,19 @@ for (const m of sw.matchAll(/'((?:js|css|data|icons|webfonts)\/[^'?]+)/g)) {
 /* --- lazily loaded bundles must still be precached, or offline loses them --- */
 const LAZY = ['js/seerah-data.js', 'js/sahaba-data.js', 'js/why-islam-data.js',
   'js/prophets-data.js', 'js/learn-quranic-arabic-data.js', 'js/tadabbur-data.js',
-  'js/prophets-articles.js', 'js/sahaba-articles.js', 'js/tadabbur-articles.js',
+  'js/prophets-articles.js', 'js/sahaba-articles.js',
   'js/article-view.js', 'js/article-index.js', 'js/hope-data.js', 'js/hope.js'];
 for (const f of LAZY) {
   if (!sw.includes(f)) problems.push(`${f} is lazy-loaded but not precached — it would be unavailable offline`);
   if (html.includes(`src="${f}?`)) problems.push(`${f} is meant to be lazy but is still loaded eagerly from index.html`);
 }
+
+/* --- Tadabbur articles are sharded per surah and fetched on demand (the
+ * service worker caches a shard once a reader opens it); the monolithic file
+ * must be gone, or the app ships two copies of the same prose. --- */
+if (!fs.existsSync(path.join(ROOT, 'js/tadabbur-articles')) || !fs.readdirSync(path.join(ROOT, 'js/tadabbur-articles')).some((f) => /^\d+\.js$/.test(f))) problems.push('js/tadabbur-articles/ has no surah shards');
+if (fs.existsSync(path.join(ROOT, 'js/tadabbur-articles.js'))) problems.push('js/tadabbur-articles.js still exists — the articles live in js/tadabbur-articles/<surah>.js now');
+if (sw.includes('js/tadabbur-articles.js')) problems.push('sw.js still precaches the removed js/tadabbur-articles.js');
 
 /* --- every language pack must be precached --- */
 for (const f of fs.readdirSync(path.join(ROOT, 'js/i18n'))) {

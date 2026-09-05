@@ -7,8 +7,8 @@
  * carrying it in the module bundle would undo the on-demand loading work, since
  * most readers open the tab and browse the list without opening anybody.
  *
- * So the articles live in their own file and are fetched the first time a
- * DETAIL page is opened, not when the tab is opened. Until then the panel shows
+ * So the articles live in their own files and are fetched the first time a
+ * DETAIL page is opened, not when the tab is opened (Tadabbur: one file per surah). Until then the panel shows
  * a short placeholder; the module re-renders itself when the data lands.
  *
  * The prose deliberately carries bare verse references ("the command came in
@@ -20,14 +20,30 @@
 (function () {
   'use strict';
 
-  /** module key -> [script, global] */
+  /** module key -> [script, global]. Tadabbur is sharded: one file per surah
+   *  under a directory, chosen from the verse ref ("2:255" -> 2.js), so a
+   *  reader who opens one verse never downloads the other 113 surahs. */
   const SOURCES = {
     prophets: ['js/prophets-articles.js', 'PROPHET_ARTICLES'],
     sahaba: ['js/sahaba-articles.js', 'SAHABA_ARTICLES'],
-    tadabbur: ['js/tadabbur-articles.js', 'TADABBUR_ARTICLES'],
+    tadabbur: ['js/tadabbur-articles/', 'TADABBUR_ARTICLES'],
   };
 
-  const pending = {};   // module -> Promise
+  /** The article files declare their table with `var`, not `const`: a top-level
+   *  `const` in a classic script is a global lexical binding, NOT a property of
+   *  window, so window[name] would be undefined and no article would ever
+   *  render. (That is exactly what happened for the first releases.) */
+  const pending = {};   // script url -> Promise
+  const loaded = {};    // script url -> true once its onload fired
+
+  /** Which file holds this subject's article; null when the module is unknown. */
+  function fileFor(module, id) {
+    const src = SOURCES[module];
+    if (!src) return null;
+    if (!src[0].endsWith('/')) return src[0];
+    const m = String(id || '').match(/^(\d{1,3}):/);
+    return m ? src[0] + m[1] + '.js' : null;
+  }
 
   function version() {
     try {
@@ -48,28 +64,29 @@
     } catch (e) { return null; }
   }
 
-  /** Fetch a module's article file once. Resolves either way — a missing
-   *  article file must never break the detail page that hosts it. */
-  function load(module) {
-    if (!SOURCES[module]) return Promise.resolve();
-    if (table(module)) return Promise.resolve();
-    if (pending[module]) return pending[module];
-    pending[module] = new Promise((resolve) => {
+  /** Fetch the file holding this subject's article once. Resolves either way —
+   *  a missing article file must never break the detail page that hosts it. */
+  function load(module, id) {
+    const file = fileFor(module, id);
+    if (!file) return Promise.resolve();
+    if (loaded[file] || (!SOURCES[module][0].endsWith('/') && table(module))) return Promise.resolve();
+    if (pending[file]) return pending[file];
+    pending[file] = new Promise((resolve) => {
       try {
         const el = document.createElement('script');
-        el.src = SOURCES[module][0] + version();
+        el.src = file + version();
         el.async = false;
-        el.onload = () => resolve();
-        el.onerror = () => { delete pending[module]; resolve(); };
+        el.onload = () => { loaded[file] = true; resolve(); };
+        el.onerror = () => { delete pending[file]; resolve(); };
         (document.head || document.documentElement).appendChild(el);
       } catch (e) {
         // Nowhere to inject (or no DOM at all, under the test harness): resolve
         // rather than leaving the caller's placeholder waiting forever.
-        delete pending[module];
+        delete pending[file];
         resolve();
       }
     });
-    return pending[module];
+    return pending[file];
   }
 
   function get(module, id) {
@@ -120,7 +137,7 @@
       // article, and their pages must look exactly as they did before.
       if (!SOURCES[module] || !has(module, id)) return '';
       // Not fetched yet — show a placeholder and repaint when it lands.
-      load(module).then(() => { if (typeof o.onLoad === 'function') o.onLoad(); });
+      load(module, id).then(() => { if (typeof o.onLoad === 'function') o.onLoad(); });
       return `
       <div class="mb-4 p-4 rounded-xl bg-gray-50 dark:bg-gray-900/40 border border-gray-200 dark:border-gray-700" data-article-loading>
         <div class="h-3 w-1/3 rounded bg-gray-200 dark:bg-gray-700 mb-2.5 animate-pulse"></div>

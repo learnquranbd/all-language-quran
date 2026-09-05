@@ -1,5 +1,8 @@
 # Long-form article spec (Prophets & Companions)
 
+> Tadabbur articles use their own, deeper template: **`tools/TADABBUR-SPEC.md`**.
+> Everything below about Bengali, references, honorifics and accuracy applies there too.
+
 The Prophets and Companions modules each show a short summary (58 and 107 words
 on average). This spec defines the **long-form article** that a detail page shows
 beneath that summary.

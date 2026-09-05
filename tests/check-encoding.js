@@ -18,12 +18,12 @@
  * A lone replacement character (U+FFFD) is also fatal here: it means bytes
  * were already lost, and no later pass can recover what they were.
  */
-const { ROOT, fs, path } = require('./lib.js');
+const { ROOT, fs, path, tadabburShardFiles } = require('./lib.js');
 
 /* Files whose contents are read by humans. Kept explicit rather than globbing
  * js/ so that adding a new content file is a deliberate act. */
 const CONTENT = [
-  'js/tadabbur-articles.js',
+  ...tadabburShardFiles(),
   'js/tadabbur-data.js',
   'js/hope-data.js',
   'js/prophets-articles.js',

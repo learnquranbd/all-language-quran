@@ -2,7 +2,12 @@
 /**
  * Splice drafted article entries into an object literal.
  *
- *   node tools/merge-articles.js <chunk.js> <js/target.js> <OBJECT_NAME> <subjectFile> <SUBJECT_ARRAY> [--write]
+ *   node tools/merge-articles.js <chunk.js> <js/target.js> <OBJECT_NAME> <subjectFile> <SUBJECT_ARRAY> [--write] [--band lo-hi]
+ *
+ * Tadabbur target is the shard DIRECTORY (js/tadabbur-articles): entries are
+ * routed by surah into js/tadabbur-articles/<surah>.js, each shard rewritten
+ * from the merged table. --band overrides the 600-1100 word gate (the deep
+ * Tadabbur template runs 1,400-1,800; pass --band 1200-2000).
  *
  * The array/object counterpart of tools/append-entries.js: chunks here are
  * `id: { sections: [...] },` entries rather than array elements.
@@ -13,11 +18,14 @@
  * That last one matters because a reference copied across languages can drift,
  * and a bad reference renders as dead plain text rather than failing loudly.
  */
-const { fs, path, ROOT, load, get, badRef } = require('../tests/lib.js');
+const { fs, path, ROOT, load, get, badRef, TADABBUR_DIR, loadTadabburArticles, writeTadabburShard } = require('../tests/lib.js');
 const vm = require('vm');
 
 const [chunkFile, targetRel, objName, subjRel, subjArr] = process.argv.slice(2);
 const write = process.argv.includes('--write');
+const bandArg = (process.argv.find((a) => /^--band=?/.test(a)) || '').replace(/^--band=?/, '') || (process.argv[process.argv.indexOf('--band') + 1] || '');
+const band = /^\d+-\d+$/.test(bandArg) ? bandArg.split('-').map(Number) : [600, 1100];
+const sharded = targetRel && targetRel.replace(/\/$/, '') === TADABBUR_DIR;
 if (!chunkFile || !targetRel || !objName || !subjRel || !subjArr) {
   console.error('usage: merge-articles.js <chunk> <js/target.js> <OBJ> <js/subjects.js> <ARRAY> [--write]');
   process.exit(1);
@@ -36,7 +44,7 @@ try {
 const subjects = get(load(subjRel), subjArr);
 const validIds = new Set(Array.isArray(subjects) ? subjects.map((s) => s.id) : Object.keys(subjects || {}));
 if (!validIds.size) { console.error(`${subjArr} in ${subjRel} yielded no subject ids`); process.exit(1); }
-const existing = get(load(targetRel), objName) || {};
+const existing = sharded ? loadTadabburArticles() : (get(load(targetRel), objName) || {});
 const problems = [];
 const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?![\d:.-])/g;
 
@@ -66,7 +74,7 @@ for (const [id, entry] of Object.entries(chunk)) {
     }
   }
   words += w;
-  if (w < 600 || w > 1100) problems.push(`${id}: ${w} English words, outside 600-1100`);
+  if (w < band[0] || w > band[1]) problems.push(`${id}: ${w} English words, outside ${band[0]}-${band[1]}`);
 }
 
 console.log(`${objName}: +${Object.keys(chunk).length} subjects, ${paras} paragraphs, ${words} English words, ${refs} refs checked`);
@@ -79,9 +87,25 @@ if (problems.length) {
 console.log('  => CLEAN');
 if (!write) { console.log('  (dry run — pass --write to apply)'); process.exit(0); }
 
+if (sharded) {
+  const merged = Object.assign({}, existing, chunk);
+  const touched = new Set(Object.keys(chunk).map((k) => k.split(':')[0]));
+  for (const s of touched) {
+    const entries = {};
+    for (const k of Object.keys(merged)) if (k.split(':')[0] === s) entries[k] = merged[k];
+    writeTadabburShard(s, entries);
+  }
+  const after = loadTadabburArticles();
+  const want = Object.keys(existing).length + Object.keys(chunk).length;
+  if (Object.keys(after).length !== want) { console.error('COUNT MISMATCH after shard write — inspect js/tadabbur-articles/'); process.exit(1); }
+  console.log(`  merged -> ${Object.keys(after).length} subjects across ${[...touched].length} shard(s): ${[...touched].sort((a, b) => a - b).join(', ')}`);
+  process.exit(0);
+}
+
 const targetPath = path.join(ROOT, targetRel);
 const src = fs.readFileSync(targetPath, 'utf8');
-const decl = src.indexOf(`const ${objName} = {`);
+let decl = src.indexOf(`var ${objName} = {`);
+if (decl < 0) decl = src.indexOf(`const ${objName} = {`);
 if (decl < 0) { console.error('object not found'); process.exit(1); }
 let i = src.indexOf('{', decl), depth = 0, end = -1, inStr = null, esc = false;
 for (; i < src.length; i++) {

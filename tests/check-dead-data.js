@@ -19,7 +19,7 @@ const htmlSrc = fs.readFileSync(path.join(ROOT, 'index.html'), 'utf8');
 const dead = [];
 for (const f of jsFiles) {
   const rel = 'js/' + f;
-  if (!/^const [A-Z][A-Z0-9_]* = [[{]/m.test(sources[f])) continue;
+  if (!/^(?:const|var) [A-Z][A-Z0-9_]* = [[{]/m.test(sources[f])) continue;
   let sb;
   try { sb = load(rel); } catch (e) { continue; }
 

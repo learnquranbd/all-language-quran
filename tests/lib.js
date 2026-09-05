@@ -80,14 +80,14 @@ function get(sb, name) {
 /** Every top-level ALL_CAPS const declared in a file. */
 function constNames(relPath) {
   const src = fs.readFileSync(path.join(ROOT, relPath), 'utf8');
-  return [...src.matchAll(/^const ([A-Z][A-Z0-9_]*)\s*=/gm)].map((m) => m[1]);
+  return [...src.matchAll(/^(?:const|var) ([A-Z][A-Z0-9_]*)\s*=/gm)].map((m) => m[1]);
 }
 
 /** Data files, i.e. anything declaring a top-level ALL_CAPS array/object. */
 function dataFiles() {
   return fs.readdirSync(path.join(ROOT, 'js'))
     .filter((f) => f.endsWith('.js'))
-    .filter((f) => /^const [A-Z][A-Z0-9_]* = [[{]/m.test(fs.readFileSync(path.join(ROOT, 'js', f), 'utf8')))
+    .filter((f) => /^(?:const|var) [A-Z][A-Z0-9_]* = [[{]/m.test(fs.readFileSync(path.join(ROOT, 'js', f), 'utf8')))
     .map((f) => 'js/' + f);
 }
 
@@ -115,4 +115,46 @@ function stripComments(src) {
   return src.replace(/\/\*[\s\S]*?\*\//g, ' ').replace(/(^|[^:])\/\/[^\n]*/g, (m, p1) => p1 + ' ');
 }
 
-module.exports = { ROOT, fs, path, vm, load, get, constNames, dataFiles, AYAH_COUNTS, badRef, stripComments, makeSandbox };
+
+/* ---- Tadabbur articles are sharded: one file per surah under js/tadabbur-articles/.
+ * The single-file layout could not scale past a few hundred entries (the file
+ * was already 5 MB), and a reader opening one verse must not download the rest. */
+const TADABBUR_DIR = 'js/tadabbur-articles';
+
+/** Shard files in surah order, repo-relative. */
+function tadabburShardFiles() {
+  const dir = path.join(ROOT, TADABBUR_DIR);
+  if (!fs.existsSync(dir)) return [];
+  return fs.readdirSync(dir).filter((f) => /^\d+\.js$/.test(f))
+    .sort((a, b) => parseInt(a, 10) - parseInt(b, 10)).map((f) => TADABBUR_DIR + '/' + f);
+}
+
+/** Every tadabbur article, merged across shards, keyed by verse ref. */
+function loadTadabburArticles() {
+  const files = tadabburShardFiles();
+  if (!files.length) return {};
+  return get(load(files), 'TADABBUR_ARTICLES') || {};
+}
+
+/** Write one surah's shard from its entries (keyed by ref), sorted by ayah. */
+function writeTadabburShard(surah, entries) {
+  const order = (a, b) => {
+    const [sa, aa] = a.split(':').map((x) => parseInt(x, 10));
+    const [sb, ab] = b.split(':').map((x) => parseInt(x, 10));
+    return sa - sb || aa - ab;
+  };
+  const keys = Object.keys(entries).sort(order);
+  const body = keys.map((k) => '  ' + JSON.stringify(k) + ': ' + JSON.stringify(entries[k], null, 2).replace(/\n/g, '\n  ')).join(',\n');
+  const src = '/**\n * Tadabbur long-form articles — surah ' + surah + '.\n *\n'
+    + ' * One file per surah so the Tadabbur tab never downloads more than the surah a\n'
+    + ' * reader actually opened; js/article-view.js fetches a shard on demand and\n'
+    + ' * merges it into the shared TADABBUR_ARTICLES table. Same entry shape as the\n'
+    + ' * other article files: {sections:[{h:{en,bn}, p:[{en,bn}]}]}, bare verse refs\n'
+    + ' * in the prose, no HTML. Regenerate/extend with tools/merge-articles.js.\n */\n\n'
+    + 'var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});\n\n'
+    + 'Object.assign(TADABBUR_ARTICLES, {\n' + body + '\n});\n';
+  fs.mkdirSync(path.join(ROOT, TADABBUR_DIR), { recursive: true });
+  fs.writeFileSync(path.join(ROOT, TADABBUR_DIR, surah + '.js'), src);
+}
+
+module.exports = { ROOT, fs, path, vm, load, get, constNames, dataFiles, AYAH_COUNTS, badRef, stripComments, makeSandbox, TADABBUR_DIR, tadabburShardFiles, loadTadabburArticles, writeTadabburShard };

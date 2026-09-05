@@ -18,7 +18,7 @@
  *   - no HTML and no markdown in any string.
  */
 
-const PROPHET_ARTICLES = {
+var PROPHET_ARTICLES = {
   sulayman: {
     sections: [
       {

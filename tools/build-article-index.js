@@ -13,19 +13,19 @@
  * Generated, never hand-edited: `--check` fails if it has drifted from the
  * article files, and `npm test` runs that check.
  */
-const { fs, path, ROOT, load, get } = require('../tests/lib.js');
+const { fs, path, ROOT, load, get, loadTadabburArticles } = require('../tests/lib.js');
 
 const SETS = [
   ['prophets', 'js/prophets-articles.js', 'PROPHET_ARTICLES'],
   ['sahaba', 'js/sahaba-articles.js', 'SAHABA_ARTICLES'],
-  ['tadabbur', 'js/tadabbur-articles.js', 'TADABBUR_ARTICLES'],
+  ['tadabbur', null, null, loadTadabburArticles],   // sharded per surah
 ];
 const OUT = path.join(ROOT, 'js/article-index.js');
 
 const index = {};
-for (const [key, file, obj] of SETS) {
-  if (!fs.existsSync(path.join(ROOT, file))) { index[key] = []; continue; }
-  const table = get(load(file), obj) || {};
+for (const [key, file, obj, loader] of SETS) {
+  if (!loader && !fs.existsSync(path.join(ROOT, file))) { index[key] = []; continue; }
+  const table = loader ? loader() : (get(load(file), obj) || {});
   index[key] = Object.keys(table)
     .filter((id) => table[id] && Array.isArray(table[id].sections) && table[id].sections.length)
     .sort();
@@ -40,7 +40,9 @@ const body = `/**
  * fetched only when a reader asks for one.
  */
 
-const LQ_ARTICLE_IDS = ${JSON.stringify(index, null, 2)};
+/* \`var\`, not \`const\`: js/article-view.js reads window.LQ_ARTICLE_IDS, and a
+ * top-level const in a classic script is not a window property. */
+var LQ_ARTICLE_IDS = ${JSON.stringify(index, null, 2)};
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { LQ_ARTICLE_IDS };
 `;

@@ -7,7 +7,9 @@
  * fetched only when a reader asks for one.
  */
 
-const LQ_ARTICLE_IDS = {
+/* `var`, not `const`: js/article-view.js reads window.LQ_ARTICLE_IDS, and a
+ * top-level const in a classic script is not a window property. */
+var LQ_ARTICLE_IDS = {
   "prophets": [
     "adam",
     "alyasa",

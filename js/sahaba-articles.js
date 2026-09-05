@@ -22,7 +22,7 @@
  * are read by Sunni and Shia learners alike.
  */
 
-const SAHABA_ARTICLES = {
+var SAHABA_ARTICLES = {
   talha_ibn_ubaydillah: {
     sections: [
       {

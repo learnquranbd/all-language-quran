@@ -17,12 +17,13 @@
  * of an author — the point here is to catch a truncated or duplicated entry,
  * not to police style.
  */
-const { load, get, badRef } = require('./lib.js');
+const { load, get, badRef, loadTadabburArticles } = require('./lib.js');
 
 const SETS = [
   { key: 'prophets', file: 'js/prophets-articles.js', obj: 'PROPHET_ARTICLES', subjFile: 'js/prophets-data.js', subjArr: 'PROPHETS_DATA', label: 'prophets' },
   { key: 'sahaba', file: 'js/sahaba-articles.js', obj: 'SAHABA_ARTICLES', subjFile: 'js/sahaba-data.js', subjArr: 'SAHABA_DATA', label: 'companions' },
-  { key: 'tadabbur', file: 'js/tadabbur-articles.js', obj: 'TADABBUR_ARTICLES', label: 'tadabbur verses' },
+  /* Tadabbur is sharded per surah; the deep template runs 1,400-1,800 words. */
+  { key: 'tadabbur', loader: loadTadabburArticles, label: 'tadabbur verses', maxWords: 2000 },
 ];
 
 const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?![\d:.-])/g;
@@ -30,8 +31,8 @@ const problems = [];
 const counts = [];
 
 for (const set of SETS) {
-  const articles = get(load(set.file), set.obj);
-  if (!articles || typeof articles !== 'object') { problems.push(`${set.obj} missing or not an object`); continue; }
+  const articles = set.loader ? set.loader() : get(load(set.file), set.obj);
+  if (!articles || typeof articles !== 'object') { problems.push(`${set.obj || set.key} missing or not an object`); continue; }
   /* Prophets and Companions key by a subject id; Tadabbur keys by the verse
    * reference itself, so "does this id exist" is a different question there. */
   const ids = set.subjFile
@@ -69,7 +70,8 @@ for (const set of SETS) {
         }
       });
     });
-    if (w && (w < 600 || w > 1100)) problems.push(`${set.label}/${id}: ${w} English words, outside 600-1100`);
+    const maxW = set.maxWords || 1100;
+    if (w && (w < 600 || w > maxW)) problems.push(`${set.label}/${id}: ${w} English words, outside 600-${maxW}`);
     words += w;
   }
   counts.push(`${Object.keys(articles).length} ${set.label} (${words.toLocaleString()} words, ${refs} refs)`);
