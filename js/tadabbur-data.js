@@ -3865,6 +3865,86 @@ const TADABBUR_NOTES = {
     "pointsBn": ["সাফল্যের মুহূর্তে সাধারণত কীভাবে সাড়া দেন — আত্মপ্রশংসায়, নাকি আল্লাহর প্রশংসায়?","ঠিক অর্জনের মুহূর্তেই ক্ষমা প্রার্থনা কেন এত মানানসই হতে পারে?","আয়াত শেষ হয় আশা দিয়ে: তিনি বড়ই তওবা কবুলকারী। আজ আপনার তওবাকে কী আটকে রাখছে?"],
     "lessonEn": "Meet every success with praise of Allah and seeking His forgiveness, for He always accepts those who return.",
     "lessonBn": "প্রতিটি সাফল্যকে বরণ করুন আল্লাহর প্রশংসা ও ক্ষমা প্রার্থনা দিয়ে, কারণ প্রত্যাবর্তনকারীদের তিনি সর্বদা কবুল করেন।"
+  },
+  "2:74": {
+    "reflectionEn": "After the slain man was struck with part of the cow and rose alive, after the dead was shown alive before their eyes, the verse says their hearts hardened, like stones or harder still. Then it turns the comparison against them: some stones let rivers burst out, some split and give water, some tumble down from the fear of Allah. Stone, the hardest thing they knew, is shown to be more responsive than a heart that has seen signs and stayed unmoved. The verse ends by reminding them that Allah is not unaware of what they do. It is a mirror for anyone who has watched a clear sign, heard a clear reminder, and felt nothing change inside.",
+    "reflectionBn": "গরুর এক টুকরো দিয়ে আঘাত করতেই নিহত লোকটা জীবিত হয়ে উঠল। মৃতকে জীবিত হতে দেখল তারা নিজের চোখে। তারপরও, আয়াত বলছে, তাদের হৃদয় শক্ত হয়ে গেল, পাথরের মতো কিংবা তার চেয়েও শক্ত। এরপর তুলনাটা তাদের বিরুদ্ধেই ঘুরিয়ে দেওয়া হয়: কোনো পাথর থেকে নদী বেরিয়ে আসে, কোনোটা ফেটে পানি দেয়, কোনোটা আল্লাহর ভয়ে গড়িয়ে পড়ে। তাদের জানা সবচেয়ে শক্ত জিনিস, পাথরও দেখা যায় সাড়া দেয়। কিন্তু নিদর্শন দেখেও যে হৃদয় নড়ল না, সে পাথরের চেয়ে পিছিয়ে। শেষে মনে করিয়ে দেওয়া হয়, তোমরা যা কর আল্লাহ তা থেকে বেখেয়াল নন। স্পষ্ট নিদর্শন দেখে, স্পষ্ট নসিহত শুনে যার ভেতরে কিছুই বদলায়নি, এ আয়াত তার আয়না।",
+    "pointsEn": [
+      "The hearts hardened 'after that', after a sign. Which signs in my own life have I watched and then filed away as ordinary?",
+      "Some stones pour, some trickle, some merely fall. When a verse or a funeral passes before me, which of the three is my heart, or is it none?",
+      "The verse measures the heart against stone and finds the heart harder. What would it take for me to admit that description fits me on some days?",
+      "Allah is not unaware of what I do. If my stillness before reminders is itself something I do, what am I doing about it?",
+      "What is one thing I know is feeding the hardness, and what is one thing I could put under the rain of remembrance this week?"
+    ],
+    "pointsBn": [
+      "নিদর্শন দেখার ‘পরেও’ হৃদয় শক্ত হলো। আমার নিজের জীবনে কোন কোন নিদর্শন আমি দেখেছি, তারপর সাধারণ ঘটনা বলে সরিয়ে রেখেছি?",
+      "কোনো পাথর থেকে নদী বয়, কোনোটা ফেটে পানি দেয়, কোনোটা শুধু গড়িয়ে পড়ে। আয়াত বা জানাজা সামনে দিয়ে গেলে আমার হৃদয় এই তিনের কোনটা, নাকি কোনোটাই নয়?",
+      "আয়াত হৃদয়কে পাথরের সাথে মেপে হৃদয়কেই শক্ত পেয়েছে। কোনো কোনো দিন এ বর্ণনা আমার সাথে মিলে যায়, এ কথা মেনে নিতে আমার কী লাগবে?",
+      "আমি যা করি আল্লাহ তা থেকে বেখেয়াল নন। নসিহতের সামনে আমার নিশ্চুপ থাকাটাও যদি একটা কাজ হয়, সে কাজ নিয়ে আমি কী করছি?",
+      "কোন জিনিসটা আমার কাঠিন্য বাড়াচ্ছে বলে আমি জানি, আর এ সপ্তাহে কোন জিনিসটা আমি জিকিরের বৃষ্টির নিচে রাখতে পারি?"
+    ],
+    "lessonEn": "A heart that sees signs and stays unmoved has fallen below stone; keep it under remembrance before it sets.",
+    "lessonBn": "নিদর্শন দেখেও যে হৃদয় নড়ে না, সে পাথরেরও নিচে নেমে গেছে; জমে যাওয়ার আগেই তাকে জিকিরের নিচে রাখুন।"
+  },
+  "2:83": {
+    "reflectionEn": "The verse recalls a covenant Allah took from the Children of Israel and lists its terms in a single breath: worship none but Allah, treat parents well, and also relatives, orphans and the needy; speak good words to people; establish prayer and give zakah. The order moves outward from Allah to the family to the wider world and then back to worship, so that faith, kindness and speech are bound together in one promise. Then comes the sting: most of them turned away, refusing, except a few. The list is not history. The same duties are set for every believer, and the verse invites each reader to read the terms aloud and ask which one he has quietly let go.",
+    "reflectionBn": "বানী ইসরাঈলের কাছ থেকে আল্লাহ যে অঙ্গীকার নিয়েছিলেন, আয়াত তা মনে করিয়ে দেয় আর এক নিঃশ্বাসে তার শর্তগুলো গুনিয়ে দেয়: আল্লাহ ছাড়া কারও ইবাদত নয়, মা-বাবার সাথে ভালো ব্যবহার, সাথে আত্মীয়, ইয়াতিম আর মিসকিনের সাথেও; মানুষের সাথে ভালো কথা; নামায কায়েম আর যাকাত আদায়। ক্রমটা বাইরের দিকে যায়, আল্লাহ থেকে পরিবারে, পরিবার থেকে সমাজে, তারপর আবার ইবাদতে ফেরে। ঈমান, দয়া আর কথা, তিনটাই এক ওয়াদায় বাঁধা। এরপর আসে খোঁচাটা: অল্প কয়েকজন ছাড়া তারা মুখ ফিরিয়ে নিল, অস্বীকার করল। এই তালিকা পুরোনো ইতিহাস নয়। প্রতিটি মুমিনের জন্য একই দায়িত্ব বাঁধা আছে। আয়াত প্রত্যেক পাঠককে বলে, শর্তগুলো জোরে পড়ুন আর নিজেকে জিজ্ঞেস করুন, কোনটা আপনি চুপচাপ ছেড়ে দিয়েছেন।",
+    "pointsEn": [
+      "The covenant names worship first and parents second. Does the order of my own week look anything like that order?",
+      "Relatives, orphans and the needy are named in one breath with parents. Who in that list have I not thought about this month?",
+      "'Speak good words to people' is a term of the covenant, not a courtesy. What did my tongue say yesterday to the people I do not need?",
+      "The verse ends with 'you turned away, except a few'. Of these terms, which one have I let slip without ever deciding to?",
+      "If someone read this covenant back to me as my own promise, which line would I be most ashamed to hear?"
+    ],
+    "pointsBn": [
+      "অঙ্গীকারে প্রথমে ইবাদত, তারপর মা-বাবা। আমার নিজের সপ্তাহের ক্রম কি এই ক্রমের সাথে একটুও মেলে?",
+      "মা-বাবার সাথে এক নিঃশ্বাসে আত্মীয়, ইয়াতিম আর মিসকিনের নাম। এই তালিকার কার কথা আমি এ মাসে একবারও ভাবিনি?",
+      "‘মানুষের সাথে ভালো কথা বল’ অঙ্গীকারের শর্ত, নিছক ভদ্রতা নয়। যাদের আমার দরকার নেই, তাদের সাথে গতকাল আমার জবান কী বলেছে?",
+      "আয়াত শেষ হয় ‘অল্প কয়েকজন ছাড়া তোমরা মুখ ফিরিয়ে নিলে’ দিয়ে। এই শর্তগুলোর কোনটা আমি সিদ্ধান্ত না নিয়েই হাত থেকে ফেলে দিয়েছি?",
+      "কেউ যদি এই অঙ্গীকার আমার নিজের ওয়াদা বলে আমাকে পড়ে শোনায়, কোন লাইনটা শুনতে আমার সবচেয়ে লজ্জা লাগবে?"
+    ],
+    "lessonEn": "Faith, family, kind speech and prayer are one covenant; keeping most of it while dropping one line is still turning away.",
+    "lessonBn": "ঈমান, পরিবার, ভালো কথা আর নামায একই অঙ্গীকার; বেশিরভাগ রেখে একটা লাইন ফেলে দেওয়াও মুখ ফিরিয়ে নেওয়া।"
+  },
+  "2:84-86": {
+    "reflectionEn": "Allah reminds them of a covenant they had themselves acknowledged: no shedding of one another's blood, no driving one another from their homes. Then the verse holds the present up against it. These very people are killing and evicting their own, backing one another in sin, and then, when the evicted come back as captives, ransoming them because the Book commands ransom. The question lands: do you believe in part of the Book and disbelieve in part? The passage names the wage of such faith as disgrace here and the severest punishment there, and 2:86 explains the trade: this life bought at the price of the next. Any reader who keeps the commands that suit him and leaves the ones that cost him is inside this question.",
+    "reflectionBn": "আল্লাহ তাদের মনে করিয়ে দেন এমন এক অঙ্গীকার, যা তারা নিজেরাই মেনে নিয়েছিল: একে অন্যের রক্ত ঝরাবে না, একে অন্যকে ঘর থেকে তাড়াবে না। তারপর আয়াত বর্তমানকে সেই অঙ্গীকারের পাশে দাঁড় করায়। এই লোকেরাই নিজেদের লোককে মারছে, ঘরছাড়া করছে, গুনাহের কাজে একে অন্যের পিঠে হাত রাখছে। আবার সেই ঘরছাড়ারা বন্দি হয়ে ফিরে এলে মুক্তিপণ দিয়ে ছাড়াচ্ছে, কারণ কিতাব মুক্তিপণের হুকুম দেয়। তখন প্রশ্নটা এসে পড়ে: তোমরা কি কিতাবের কিছু অংশ মানো আর কিছু অংশ অস্বীকার কর? এমন ঈমানের মজুরি ধরিয়ে দেওয়া হয়, দুনিয়ায় লাঞ্ছনা, আখিরাতে কঠিনতম শাস্তি। আর 2:86 আয়াত বলে দেয় সওদাটা কী: আখিরাতের দামে দুনিয়ার জীবন কেনা। যে পাঠক নিজের সুবিধার হুকুম রাখে আর খরচের হুকুম ছেড়ে দেয়, সে এই প্রশ্নের ভেতরে আছে।",
+    "pointsEn": [
+      "They kept the command to ransom and broke the command not to kill. Which commands do I keep because they cost me little, and which have I quietly dropped?",
+      "'Do you believe in part of the Book and disbelieve in part?' If my practice were the only evidence, which parts of the Book would a stranger conclude I believe in?",
+      "The verse says they acknowledged the covenant and witnessed it. What have I affirmed with my mouth, in prayer or in public, that my week contradicts?",
+      "2:86 calls this trading the Hereafter for this life. What am I getting in exchange for the command I leave out, and is it worth the price?",
+      "Allah is not unaware of what I do. Which line of my obedience am I hoping goes unnoticed?"
+    ],
+    "pointsBn": [
+      "তারা মুক্তিপণের হুকুম রেখেছিল আর খুন না করার হুকুম ভেঙেছিল। কোন হুকুমগুলো আমি রাখি কারণ তাতে খরচ কম, আর কোনগুলো চুপচাপ ছেড়ে দিয়েছি?",
+      "‘তোমরা কি কিতাবের কিছু অংশ মানো আর কিছু অংশ অস্বীকার কর?’ আমার আমলই যদি একমাত্র প্রমাণ হয়, এক অচেনা লোক দেখে কী ধরে নেবে, কিতাবের কোন অংশে আমি বিশ্বাস করি?",
+      "আয়াত বলছে তারা অঙ্গীকার মেনে নিয়েছিল আর নিজেরাই সাক্ষী ছিল। নামাযে বা লোকের সামনে মুখে আমি কী স্বীকার করেছি, যা আমার সপ্তাহ অস্বীকার করে?",
+      "2:86 আয়াত একে বলে আখিরাতের বদলে দুনিয়া কেনা। যে হুকুম আমি বাদ দিই, তার বদলে আমি কী পাচ্ছি, আর সে দাম কি পোষায়?",
+      "আমি যা করি আল্লাহ তা থেকে বেখেয়াল নন। আমার আনুগত্যের কোন লাইনটা আমি আশা করছি কারও চোখে পড়বে না?"
+    ],
+    "lessonEn": "Obeying the commands that suit you and leaving the ones that cost you is not partial faith; the verse calls it disbelief in part of the Book.",
+    "lessonBn": "সুবিধার হুকুম মানা আর খরচের হুকুম ছাড়া আংশিক ঈমান নয়; আয়াত একে বলে কিতাবের একাংশে কুফরি।"
+  },
+  "2:93": {
+    "reflectionEn": "The mount was raised over them, the command was to take what they had been given firmly and to listen, and the verse reports their answer: we hear and we disobey. Then it explains how such an answer became possible. Their hearts had been made to drink the calf; love of it had soaked in the way water soaks into cloth, and the verse names the cause as their disbelief. The closing line is bitter irony: if this is what your faith commands you, what a wretched faith it is. The verse teaches that hearing is not the same as obeying, and that whatever a heart has been allowed to drink will decide which of the two it does. It asks each reader what his own heart has absorbed.",
+    "reflectionBn": "তাদের মাথার ওপর পাহাড় তোলা হলো, হুকুম এল, যা দেওয়া হয়েছে তা শক্ত করে ধরো আর শোনো। আয়াত তাদের জবাব লিখে রাখে: আমরা শুনলাম আর অমান্য করলাম। তারপর বুঝিয়ে দেয়, এমন জবাব সম্ভব হলো কী করে। তাদের হৃদয়কে বাছুর পান করানো হয়েছিল। কাপড়ে পানি যেভাবে ঢোকে, বাছুরের ভালোবাসা সেভাবে ভেতরে ঢুকে গিয়েছিল। আয়াত কারণটাও বলে দেয়: তাদের কুফরি। শেষ লাইনটা তেতো বিদ্রূপ: তোমাদের ঈমান যদি এই হুকুম দেয়, কী নিকৃষ্ট সে ঈমান। আয়াত শেখায়, শোনা আর মানা এক জিনিস নয়। আর হৃদয়কে যা পান করতে দেওয়া হয়েছে, সেটাই ঠিক করে দেয় দুটোর কোনটা সে করবে। প্রত্যেক পাঠককে আয়াত জিজ্ঞেস করে, তার নিজের হৃদয় কী শুষে নিয়েছে।",
+    "pointsEn": [
+      "'We hear and we disobey.' Which command have I heard clearly, many times, and answered with my life in exactly those words?",
+      "Their hearts drank the calf before their mouths refused the covenant. What has my heart been drinking, in what I watch, chase and love, that decides my answers before I give them?",
+      "The verse says the drinking happened 'because of their disbelief'. Which small refusals of mine are quietly making the next refusal easier?",
+      "'What a wretched thing your faith commands you.' If my choices were read as commands of my faith, what would that faith look like?",
+      "What is one thing I could stop pouring into my heart this week, and one thing I could pour in instead?"
+    ],
+    "pointsBn": [
+      "‘আমরা শুনলাম আর অমান্য করলাম।’ কোন হুকুম আমি পরিষ্কার শুনেছি, বহুবার, আর নিজের জীবন দিয়ে ঠিক এই কথাটাই জবাব দিয়েছি?",
+      "মুখ অঙ্গীকার অস্বীকার করার আগেই তাদের হৃদয় বাছুর পান করেছিল। আমি যা দেখি, যার পেছনে ছুটি, যাকে ভালোবাসি, তাতে আমার হৃদয় কী পান করছে, যা আমার জবাব দেওয়ার আগেই জবাব ঠিক করে দেয়?",
+      "আয়াত বলছে পান করানোটা হয়েছিল ‘তাদের কুফরির কারণে’। আমার কোন ছোট ছোট অস্বীকার চুপচাপ পরের অস্বীকারটাকে সহজ করে দিচ্ছে?",
+      "‘তোমাদের ঈমান যার হুকুম দেয় তা কত নিকৃষ্ট।’ আমার পছন্দগুলোকে যদি আমার ঈমানের হুকুম হিসেবে পড়া হয়, সেই ঈমান দেখতে কেমন হবে?",
+      "এ সপ্তাহে কোন জিনিসটা আমি হৃদয়ে ঢালা বন্ধ করতে পারি, আর তার বদলে কোনটা ঢালতে পারি?"
+    ],
+    "lessonEn": "What a heart is allowed to drink decides whether hearing becomes obeying; guard what soaks in before the command arrives.",
+    "lessonBn": "হৃদয়কে যা পান করতে দেওয়া হয়, তা-ই ঠিক করে শোনা মানায় গড়াবে কি না; হুকুম আসার আগেই দেখুন ভেতরে কী ঢুকছে।"
   }
 };
 

@@ -94,7 +94,7 @@ faithful long one.
   where the Arabic addresses a person directly.
 - Prophets: `(আ)`. The Prophet Muhammad: `ﷺ` — the character U+FDFA, never a
   spelled-out বাংলা equivalent and never a lookalike glyph.
-- Companions: `(রা)`.
+- Companions: `(রাঃ)` (the shipped files use this form; never `(রা)`).
 
 ## 8. Numerals
 

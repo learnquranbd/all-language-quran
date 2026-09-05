@@ -359,6 +359,550 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "2:74": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Dead Man Rose",
+          "bn": "মৃত লোকটা জেগে ওঠার পর"
+        },
+        "p": [
+          {
+            "en": "Surah al-Baqarah is Madinan, and from 2:40 onward it addresses the Children of Israel through a long chain of reminders, most opened with 'and when'. The story of the cow runs from 2:67 to 2:73: a killing, a dispute, a command to sacrifice, the questions that made the command harder than it needed to be, and finally the slain man struck with part of the animal so that Allah shows how He brings the dead to life. 2:73 closes with the purpose of the whole scene, 'that you might reason'. Our verse records what came instead of reasoning.",
+            "bn": "সূরা বাকারা মাদানি সূরা। 2:40 আয়াত থেকে বানী ইসরাঈলকে ডেকে একের পর এক স্মরণ করিয়ে দেওয়া শুরু হয়, বেশিরভাগের শুরুতে ‘আর যখন’। গরুর ঘটনা চলে 2:67 থেকে 2:73 পর্যন্ত: একটা খুন, দোষারোপ, কুরবানির হুকুম, প্রশ্নের পর প্রশ্ন করে সেই হুকুমকে অকারণে কঠিন বানানো, আর শেষে গরুর একটা অংশ দিয়ে নিহতকে আঘাত করা। আল্লাহ দেখালেন তিনি মৃতকে কীভাবে জীবিত করেন। 2:73 আয়াত শেষ হয় গোটা দৃশ্যের উদ্দেশ্য দিয়ে: ‘যেন তোমরা বোঝো’। বোঝার বদলে যা এল, আমাদের আয়াত তারই খবর দেয়।"
+          },
+          {
+            "en": "The word thumma, 'then', opens the verse and carries the rebuke inside it: after that, after a dead man rose in front of you, your hearts hardened. 2:75 then turns from the Israelites to the believers and asks whether they still hope such people will believe, when a party among them distorted the word of Allah after understanding it. The verse therefore stands between a miracle and a warning to Muslims. It describes a heart that signs no longer reach, and then tells the believers what to expect from it. No occasion of revelation is reported for it; it belongs to the sequence.",
+            "bn": "আয়াত শুরু হয় ‘সুম্মা’ শব্দে, ‘তারপর’। ধমকটা এই একটা শব্দের ভেতরেই: এর পরেও, চোখের সামনে মৃত মানুষ উঠে দাঁড়ানোর পরেও, তোমাদের হৃদয় শক্ত হয়ে গেল। এরপর 2:75 আয়াত বানী ইসরাঈল থেকে মুখ ফিরিয়ে মুমিনদের জিজ্ঞেস করে, তোমরা কি এখনো আশা কর এরা ঈমান আনবে? অথচ এদের একদল আল্লাহর কথা বুঝে নেওয়ার পরও বিকৃত করত। তাই আয়াতটা দাঁড়িয়ে আছে এক মুজিযা আর মুসলমানদের প্রতি এক সতর্কবার্তার মাঝখানে। প্রথমে এমন এক হৃদয়ের ছবি, নিদর্শন যাকে আর ছোঁয় না। তারপর মুমিনদের বলে দেওয়া, এমন হৃদয়ের কাছে কী আশা করা যায়। এর কোনো আলাদা শানে নুযুল বর্ণিত নেই, এটা ধারাবাহিকতার অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qasat, Hijarah, Yatafajjar",
+          "bn": "কাসাত, হিজারা, ইয়াতাফাজ্জার"
+        },
+        "p": [
+          {
+            "en": "Qasat comes from the root q-s-w. Ar-Raghib in al-Mufradat explains qaswah as coarseness of the heart, the quality of a stone that is hard and dry, and Arabic uses the same root for a hard stone and a hard heart, carrying it from the stone to the heart. The verse then names hijarah, stones, the plural of hajar, and adds aw ashaddu qaswah, 'or harder in hardness'. Ibn Kathir records that the scholars agreed that 'or' here does not express doubt. The phrase is a measurement, and the measurement finds the heart to be the harder of the two.",
+            "bn": "‘কাসাত’ এসেছে ক-স-ও মূল থেকে। রাগিব ইসফাহানি আল-মুফরাদাতে ‘কাসওয়া’র মানে দিয়েছেন হৃদয়ের রুক্ষতা, শুকনো শক্ত পাথরের যে গুণ। আরবিতে শক্ত পাথর আর শক্ত হৃদয়, দুটোর জন্যই একই মূল ব্যবহার হয়। শব্দটা পাথর থেকে হৃদয়ে এসেছে। এরপর আয়াত বলে ‘হিজারা’, পাথরসমূহ, ‘হাজার’ শব্দের বহুবচন। তার সাথে যোগ করে ‘আও আশাদ্দু কাসওয়া’, ‘কিংবা কাঠিন্যে আরও শক্ত’। ইবনে কাসীর লিখেছেন, আলেমরা একমত যে এখানে ‘কিংবা’ কোনো সন্দেহ বোঝায় না। এটা একটা মাপ। আর মাপ শেষে দেখা যায়, দুটোর মধ্যে হৃদয়টাই বেশি শক্ত।"
+          },
+          {
+            "en": "Three verbs then describe what stones do. Yatafajjar, from f-j-r, is the same root as fajr, the dawn that bursts through the dark; rivers burst out of some stones. Yashshaqqaq, from sh-q-q, is to split, and water comes out of others. Yahbit, from h-b-t, is to fall down, and some fall min khashyatillah, from the fear of Allah. The sequence moves from the greatest response to the least: an outpouring, then a trickle, then a mere collapse. Even the smallest of the three is more than the hardened heart offered after it had watched a dead man rise.",
+            "bn": "এরপর তিনটি ক্রিয়াপদ বলে পাথর কী করে। ‘ইয়াতাফাজ্জার’, ফ-জ-র মূল থেকে, ফজরের সেই একই মূল, যে ভোর অন্ধকার ফুঁড়ে বেরিয়ে আসে। কোনো কোনো পাথর থেকে নদী ফেটে বেরোয়। ‘ইয়াশশাক্কাক’, শ-ক-ক মূল থেকে, মানে ফেটে যাওয়া। কোনোটা ফাটে, পানি বের হয়। ‘ইয়াহবিত’, হ-ব-ত মূল থেকে, মানে নিচে পড়া। কোনোটা পড়ে ‘মিন খাশইয়াতিল্লাহ’, আল্লাহর ভয়ে। ক্রমটা নামছে বড় সাড়া থেকে ছোট সাড়ায়: প্রথমে স্রোত, তারপর ধারা, তারপর শুধু গড়িয়ে পড়া। এই তিনের সবচেয়ে ছোটটাও সেই হৃদয়ের চেয়ে বেশি, যে হৃদয় মৃত মানুষকে জেগে উঠতে দেখেও কিছুই দেয়নি।"
+          },
+          {
+            "en": "Each of the three clauses is built on inna with the emphatic lam, 'indeed there are certainly some', so the Arabic insists three times that stones respond. The verse closes with wa ma Allahu bighafilin 'amma ta'malun, 'and Allah is not unaware of what you do', a sentence that returns in 2:85 at the end of the next passage about the same people. Hardness, the ending says, is not a private condition. A heart that shows no reaction to signs is still being watched by the One who sent the signs, and its stillness is itself something that it does.",
+            "bn": "তিনটি বাক্যাংশের প্রতিটি গড়া হয়েছে ‘ইন্না’ আর জোর দেওয়ার ‘লাম’ দিয়ে: ‘নিশ্চয়ই এমন কিছু অবশ্যই আছে’। আরবি তিনবার জোর দিয়ে বলে, পাথর সাড়া দেয়। আয়াত শেষ হয় ‘ওয়া মাল্লাহু বিগাফিলিন আম্মা তা’মালুন’ দিয়ে, ‘তোমরা যা কর আল্লাহ তা থেকে বেখেয়াল নন’। একই বাক্য ফিরে আসে 2:85 আয়াতে, এই একই লোকদের নিয়ে পরের অংশের শেষে। এই শেষ কথাটা বলছে, কাঠিন্য কারও ব্যক্তিগত ব্যাপার নয়। নিদর্শনের সামনে যে হৃদয় কোনো সাড়া দেখায় না, নিদর্শন যিনি পাঠিয়েছেন তিনি সেটাও দেখছেন। তার নিশ্চুপ থাকাটাও তার একটা কাজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How the Mufassirun Read It",
+          "bn": "মুফাসসিররা কীভাবে পড়েছেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari sets out the readings of aw ashaddu. Some took 'or' as 'and': like stones and harder. Some took it as 'rather': like stones, no, harder than that. He himself preferred a third: the hearts are of two kinds, some like stone and some harder, so that the verse describes a whole people without claiming that every heart among them is the same. Ibn Kathir accepts at-Tabari's preference and finds the same pattern in 2:17 and 2:19, where the hypocrites are likened first to a man who kindled a fire and then to people caught in a rainstorm, two pictures for two groups.",
+            "bn": "তাবারি ‘আও আশাদ্দু’র পাঠগুলো সাজিয়ে দেখান। কেউ ‘কিংবা’কে নিয়েছেন ‘এবং’ অর্থে: পাথরের মতো এবং তার চেয়েও শক্ত। কেউ নিয়েছেন ‘বরং’ অর্থে: পাথরের মতো, না, তার চেয়েও শক্ত। তিনি নিজে পছন্দ করেছেন তৃতীয়টা: হৃদয়গুলো দুই রকম, কিছু পাথরের মতো, কিছু তার চেয়েও শক্ত। ফলে আয়াত একটা গোটা জাতির ছবি আঁকে, কিন্তু দাবি করে না যে তাদের প্রতিটি হৃদয় এক রকম। ইবনে কাসীর তাবারির এই পছন্দ মেনে নেন এবং একই ধরন খুঁজে পান 2:17 আর 2:19 আয়াতে। সেখানে মুনাফিকদের তুলনা প্রথমে আগুন জ্বালানো এক লোকের সাথে, তারপর ঝড়বৃষ্টিতে আটকে পড়া লোকদের সাথে। দুই দলের জন্য দুটো ছবি।"
+          },
+          {
+            "en": "On the stones that fall from the fear of Allah, the commentators divide. Ibn Kathir reports that some held the phrase to be a figure of speech. Ar-Razi and al-Qurtubi, he says, saw no need for that, since Allah creates in stones whatever awareness He wills, and Ibn Kathir supports them with 33:72, where the mountains shrink from carrying the trust, and 17:44, where everything glorifies Him. Ibn Ishaq narrates from Ibn Abbas (RA) the plainest gloss of all: some stones are softer than your hearts, for they acknowledge the truth that you are being called to.",
+            "bn": "আল্লাহর ভয়ে যে পাথর পড়ে যায়, তা নিয়ে মুফাসসিররা দুই ভাগ। ইবনে কাসীর জানান, কেউ কেউ এটাকে নিছক কথার অলংকার ধরেছেন। কিন্তু রাযি আর কুরতুবি, তাঁর ভাষায়, এমন ব্যাখ্যার দরকার দেখেননি। আল্লাহ পাথরের ভেতর যে বোধ চান তা সৃষ্টি করেন। ইবনে কাসীর তাঁদের পক্ষে দাঁড় করান 33:72 আয়াতকে, যেখানে আমানত বহন করতে পাহাড় পিছিয়ে যায়, আর 17:44 আয়াতকে, যেখানে সবকিছু তাঁর তাসবিহ করে। ইবনে ইসহাক ইবনে আব্বাস (রাঃ) থেকে সবচেয়ে সোজা ব্যাখ্যাটা এনেছেন: কিছু পাথর তোমাদের হৃদয়ের চেয়ে নরম, কারণ যে হকের দিকে তোমাদের ডাকা হচ্ছে, তারা তা মেনে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Stone in Makkah",
+          "bn": "মক্কার এক পাথর"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir attaches to this verse a report in Sahih Muslim from Jabir ibn Samurah (RA): the Messenger of Allah ﷺ said, 'I know a stone in Makkah that used to greet me with salam before I was sent; I recognise it even now' (Muslim 2277). He cites it to show that the fear of stones in the verse is real. A stone once greeted a prophet. A heart that has heard the Quran for years and gives no greeting back has, in the verse's own terms, fallen below that stone.",
+            "bn": "ইবনে কাসীর এই আয়াতের সাথে সহিহ মুসলিমের একটি হাদিস জুড়ে দেন। জাবির ইবনে সামুরা (রাঃ) বলেন, রাসূলুল্লাহ ﷺ বলেছেন, ‘মক্কায় এমন এক পাথরকে আমি চিনি, নবুওয়াত পাওয়ার আগে সে আমাকে সালাম দিত; এখনো আমি তাকে চিনি’ (মুসলিম ২২৭৭)। তিনি এটা আনেন এই দেখাতে যে আয়াতে পাথরের ভয় সত্যিকারের। একটা পাথর একদিন এক নবীকে সালাম দিয়েছিল। বছরের পর বছর কুরআন শুনেও যে হৃদয় কোনো সালাম ফেরায় না, আয়াতের নিজের হিসাবে সে ওই পাথরের নিচে নেমে গেছে।"
+          },
+          {
+            "en": "Muslim also narrates from Ibn Mas'ud (RA) that between the Companions' acceptance of Islam and Allah's reproach in 57:16, the verse about hearts hardening over a long term, there passed only four years (Muslim 3027). Nothing in that report is about the Children of Israel; it is about us. At-Tirmidhi carries a report from Ibn Umar (RA) that much talk without the remembrance of Allah hardens the heart, but at-Tirmidhi himself graded it hasan gharib (at-Tirmidhi 2411) and its chain has been questioned, so this article does not rest on it. The two reports in Muslim are enough.",
+            "bn": "মুসলিমে ইবনে মাসউদ (রাঃ) থেকে আরেকটি বর্ণনা আছে: সাহাবিদের ইসলাম কবুল আর 57:16 আয়াতে আল্লাহর তিরস্কারের মাঝে ব্যবধান ছিল মাত্র চার বছর (মুসলিম ৩০২৭)। দীর্ঘ সময়ে হৃদয় শক্ত হওয়ার সেই আয়াত। এই বর্ণনায় বানী ইসরাঈলের কথা নেই, কথাটা আমাদের নিয়ে। তিরমিযিতে ইবনে উমর (রাঃ) থেকে একটি বর্ণনা আছে, আল্লাহর জিকির ছাড়া বেশি কথা হৃদয় শক্ত করে। কিন্তু তিরমিযি নিজেই একে ‘হাসান গরিব’ বলেছেন (তিরমিযি ২৪১১), আর এর সনদ নিয়ে প্রশ্ন তোলা হয়েছে। তাই এই লেখা তার ওপর ভর করেনি। মুসলিমের দুটো বর্ণনাই যথেষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its Sisters in the Quran",
+          "bn": "কুরআনে এর সহোদর আয়াত"
+        },
+        "p": [
+          {
+            "en": "57:16 is the verse Ibn Kathir reads beside this one. It asks the believers whether the time has not come for their hearts to humble at the remembrance of Allah, and warns them not to become like the earlier people of the Book whose hearts hardened when a long period passed over them. 5:13 names a cause: the breaking of the covenant, after which Allah made their hearts hard. 6:43 shows the same stone in another people. When the punishment came they did not humble themselves; their hearts hardened, and Shaytan made their deeds attractive to them.",
+            "bn": "ইবনে কাসীর এই আয়াতের পাশে রাখেন 57:16 আয়াতকে। সেখানে মুমিনদের জিজ্ঞেস করা হয়, আল্লাহর জিকিরে তাদের হৃদয় বিনীত হওয়ার সময় কি এখনো আসেনি? আর সতর্ক করা হয়, আগের আহলে কিতাবের মতো যেন তারা না হয়, দীর্ঘ সময় পেরিয়ে যাওয়ায় যাদের হৃদয় শক্ত হয়ে গিয়েছিল। 5:13 আয়াত একটা কারণ ধরিয়ে দেয়: অঙ্গীকার ভাঙা, যার পরে আল্লাহ তাদের হৃদয় শক্ত করে দিলেন। 6:43 আয়াত একই পাথর দেখায় অন্য এক জাতির ভেতর। শাস্তি এলেও তারা নত হলো না। তাদের হৃদয় শক্ত হয়ে গেল, আর শয়তান তাদের কাজগুলো তাদের চোখে সুন্দর করে দিল।"
+          },
+          {
+            "en": "The opposite condition has its own verses. 39:23 describes the skins of those who fear their Lord shivering at the Book, then their skins and hearts relaxing at the remembrance of Allah: awe, then rest, in a heart still soft enough to move. 8:2 makes that movement the definition of a believer: when Allah is mentioned their hearts tremble, and when His verses are recited their faith grows. Read together, the sisters say that a heart's response to reminder is not a passing mood but a diagnosis of its condition.",
+            "bn": "উল্টো অবস্থার জন্যও আয়াত আছে। 39:23 আয়াতে যারা তাদের রবকে ভয় করে, কিতাব শুনে তাদের গা শিউরে ওঠে, তারপর আল্লাহর জিকিরে তাদের গা আর হৃদয় শান্ত হয়। আগে ভয়, তারপর স্বস্তি, এমন এক হৃদয়ে যা নড়ার মতো নরম আছে। 8:2 আয়াত এই নড়াটাকেই মুমিনের সংজ্ঞা বানিয়ে দেয়: আল্লাহর নাম নিলে তাদের হৃদয় কেঁপে ওঠে, তাঁর আয়াত পড়া হলে তাদের ঈমান বাড়ে। সব মিলিয়ে সহোদর আয়াতগুলো বলছে, নসিহতে হৃদয় কেমন সাড়া দেয়, সেটা ক্ষণিকের মেজাজ নয়। সেটা হৃদয়ের অবস্থার রিপোর্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Checking Your Own Heart",
+          "bn": "নিজের হৃদয় পরখ করা"
+        },
+        "p": [
+          {
+            "en": "The verse is a mirror, not a window; it is not for looking at anyone else. Take the three stones as a test. When you hear a verse that once made you weep, is there an outpouring, a trickle, a small collapse, or nothing? When a funeral passes, when a warning lands, when you are shown a mercy you did not earn, what moves inside? The verse does not ask for a performance of tears. It asks whether anything still answers, because a heart that has seen signs and stayed still has already begun to set.",
+            "bn": "এই আয়াত আয়না, জানালা নয়। অন্য কাউকে দেখার জন্য এটা নয়। তিনটি পাথরকে পরীক্ষা হিসেবে নিন। যে আয়াত শুনে একদিন আপনার চোখে পানি এসেছিল, আজ সেটা শুনলে কী হয়? স্রোত, ধারা, একটু গড়িয়ে পড়া, নাকি কিছুই না? জানাজা সামনে দিয়ে গেলে, কোনো সতর্কবাণী গায়ে লাগলে, না চাইতেই কোনো রহমত পেলে ভেতরে কী নড়ে? আয়াত কান্নার অভিনয় চায় না। চায় শুধু জানতে, ভেতরে কিছু এখনো সাড়া দেয় কি না। কারণ নিদর্শন দেখেও যে হৃদয় স্থির রইল, সে জমতে শুরু করে দিয়েছে।"
+          },
+          {
+            "en": "The remedies are the ones the sister verses name. Recite a short passage slowly each day with the intention that it reach you, not merely pass over you. Keep a fixed portion of dhikr, since 57:16 places softening at the remembrance of Allah. Guard the covenant in small things, since 5:13 links hardness to broken promises. Give something away when your heart feels closed, because tightness and hardness travel together. And treat any day in which nothing moved you as a warning to act on, not as an ordinary day.",
+            "bn": "প্রতিকার সেগুলোই, যা সহোদর আয়াতগুলো নাম ধরে বলে দিয়েছে। রোজ ছোট একটা অংশ ধীরে তিলাওয়াত করুন, এই নিয়তে যে কথাটা আপনার ভেতরে পৌঁছাক, শুধু উপর দিয়ে চলে না যাক। জিকিরের একটা বাঁধা পরিমাণ রাখুন, কারণ 57:16 আয়াত নরম হওয়াকে রেখেছে আল্লাহর জিকিরের কাছে। ছোট ছোট ওয়াদা রক্ষা করুন, কারণ 5:13 আয়াত কাঠিন্যকে জুড়েছে ওয়াদা ভাঙার সাথে। হৃদয় বন্ধ লাগলে কিছু দান করুন, কারণ কৃপণতা আর কাঠিন্য একসাথে চলে। আর যে দিন কিছুই আপনাকে নাড়ায়নি, সে দিনটাকে সাধারণ দিন ভাববেন না। সেটাকে সতর্কবার্তা ধরে কাজে নামুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Refuge From the Unhumbled Heart",
+          "bn": "অবিনীত হৃদয় থেকে পানাহ"
+        },
+        "p": [
+          {
+            "en": "The Prophet ﷺ taught a du'a that names this disease. Muslim narrates from Zayd ibn Arqam (RA) that he used to say: 'O Allah, I seek refuge in You from knowledge that does not benefit, from a heart that does not humble itself, from a soul that is never satisfied, and from a supplication that is not answered' (Muslim 2722). The heart that does not humble itself is qalbin la yakhsha'. The du'a asks for the humbling, khushu', that the verse's stones show by falling from the fear of Allah: two words for one movement. The Sunnah puts into the believer's mouth a request against exactly what 2:74 describes.",
+            "bn": "নবী ﷺ এমন এক দোয়া শিখিয়েছেন, যা এই রোগটার নাম ধরে ডাকে। মুসলিমে যায়েদ ইবনে আরকাম (রাঃ) বলেন, তিনি বলতেন: ‘হে আল্লাহ, আমি আপনার কাছে পানাহ চাই এমন ইলম থেকে যা উপকার দেয় না, এমন হৃদয় থেকে যা বিনীত হয় না, এমন নফস থেকে যা কখনো তৃপ্ত হয় না, আর এমন দোয়া থেকে যা কবুল হয় না’ (মুসলিম ২৭২২)। যে হৃদয় বিনীত হয় না, আরবিতে ‘কালবিন লা ইয়াখশা’। দোয়াটা চায় সেই নত হওয়া, সেই ‘খুশু’, যা আয়াতের পাথর দেখায় আল্লাহর ভয়ে গড়িয়ে পড়ে। দুটো শব্দ, নড়াটা একটাই। 2:74 আয়াত যে অবস্থার ছবি আঁকে, সুন্নাহ ঠিক তার বিরুদ্ধেই একটা চাওয়া মুমিনের মুখে তুলে দেয়।"
+          },
+          {
+            "en": "A shorter plea can be drawn from the verse's own words; it is composed here, not narrated: 'O Allah, do not let my heart become like stone or harder. Make it a heart from which rivers of remembrance burst, that splits open at Your Book, and that falls down at Your fear. You are not unaware of what I do, so make what I do pleasing to You.' Say it after the Sunnah du'a rather than instead of it, and say it before the first reading of the Quran each day.",
+            "bn": "আয়াতের নিজের শব্দ থেকে আরও ছোট একটা মিনতি বানানো যায়। এটা রচিত, কোনো বর্ণনা নয়: ‘হে আল্লাহ, আমার হৃদয়কে পাথরের মতো বা তার চেয়ে শক্ত হতে দেবেন না। একে এমন হৃদয় বানান, যা থেকে জিকিরের নদী বেরোয়, যা আপনার কিতাবে ফেটে যায়, যা আপনার ভয়ে নুয়ে পড়ে। আমি যা করি আপনি তা থেকে বেখেয়াল নন, তাই আমার কাজকে আপনার পছন্দের বানিয়ে দিন।’ সুন্নাহর দোয়ার বদলে নয়, তার পরে এটা বলুন। আর বলুন রোজ কুরআনের প্রথম তিলাওয়াতের আগে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions to Carry",
+          "bn": "সাথে রাখার প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "When did a verse of the Quran last stop me where I stood, and what did I do in the hour after it? If my heart were one of the stones in this verse, which of the three would it be today, and would I even know if it were none of them? The verse says the hearts hardened after that, after a sign. What signs have I been given in my own life that I have already filed away as ordinary events?",
+            "bn": "কুরআনের কোনো আয়াত শেষ কবে আমাকে থমকে দিয়েছিল, আর তার পরের এক ঘণ্টায় আমি কী করেছিলাম? আমার হৃদয় যদি এই আয়াতের পাথরগুলোর একটা হতো, আজ সেটা তিনের কোনটা হতো, আর কোনোটাই না হলে আমি কি তা টের পেতাম? আয়াত বলছে, নিদর্শনের পরে হৃদয় শক্ত হলো। আমার নিজের জীবনে কোন কোন নিদর্শন আমি পেয়েছি, যেগুলো এরই মধ্যে সাধারণ ঘটনা বলে সরিয়ে রেখেছি?"
+          },
+          {
+            "en": "Which small covenant with Allah, a promise about my prayer, my tongue, or my earnings, have I quietly stopped keeping, and does 5:13 describe what followed inside me? What would it look like this week to sit deliberately under the rain of remembrance, in the rows of prayer and in front of an open mushaf, rather than to wait for my heart to soften on its own, and who, in my house, would notice first if it did?",
+            "bn": "আল্লাহর সাথে ছোট কোন ওয়াদাটা, নামায নিয়ে, জবান নিয়ে বা রোজগার নিয়ে, আমি চুপচাপ রাখা ছেড়ে দিয়েছি, আর তারপর আমার ভেতরে যা ঘটেছে, 5:13 আয়াত কি তারই বর্ণনা? হৃদয় নিজে নিজে নরম হবে বলে বসে না থেকে, এ সপ্তাহে ইচ্ছা করে জিকিরের বৃষ্টির নিচে বসলে, নামাযের কাতারে আর খোলা মুসহাফের সামনে, তার চেহারা কেমন হবে, আর সত্যিই নরম হলে আমার ঘরে সবার আগে কে টের পাবে?"
+          }
+        ]
+      }
+    ]
+  },
+  "2:83": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Covenant Read Back to Them",
+          "bn": "তাদেরই সামনে পড়ে শোনানো অঙ্গীকার"
+        },
+        "p": [
+          {
+            "en": "Surah al-Baqarah is Madinan, and the long address to the Children of Israel that began at 2:40 has just passed through their claim in 2:80 that the Fire would touch them only for numbered days. 2:81 and 2:82 answer that claim with a rule that applies to everyone: whoever earns evil and is encircled by his sin belongs to the Fire, and whoever believes and does righteous deeds belongs to Paradise. Our verse then opens a new reminder with 'and when', and this time the reminder is a list of duties.",
+            "bn": "সূরা বাকারা মাদানি সূরা। 2:40 আয়াত থেকে বানী ইসরাঈলকে যে লম্বা সম্বোধন শুরু হয়েছে, তা সবে পেরিয়ে এসেছে 2:80 আয়াতের সেই দাবি: আগুন তাদের ছোঁবে শুধু গোনা কয়েকটা দিন। 2:81 আর 2:82 আয়াত সেই দাবির জবাব দেয় এমন এক নিয়মে, যা সবার জন্য খাটে। যে গুনাহ কামায় আর গুনাহ যাকে ঘিরে ফেলে, সে জাহান্নামি। যে ঈমান আনে আর নেক আমল করে, সে জান্নাতি। এরপর আমাদের আয়াত ‘আর যখন’ বলে নতুন একটা স্মরণ শুরু করে। এবার স্মরণটা একটা দায়িত্বের তালিকা।"
+          },
+          {
+            "en": "The list is followed at once, in 2:84, by a second covenant about blood and homes, and in 2:85 by the charge that they believed in part of the Book and rejected part. So 2:83 is the first of a pair, the general terms before the specific breach. No occasion of revelation is reported for it; its place is in the sequence of reminders. Its final clause, 'then you turned away, except a few of you, and you were refusing', is the verdict that the next two verses will document in detail.",
+            "bn": "তালিকার ঠিক পরেই, 2:84 আয়াতে, আসে দ্বিতীয় অঙ্গীকার, রক্ত আর ঘরবাড়ি নিয়ে। তারপর 2:85 আয়াতে অভিযোগ: তোমরা কিতাবের কিছু অংশ মানো, কিছু অংশ অস্বীকার কর। তাই 2:83 আয়াত একটা জোড়ার প্রথমটা। আগে সাধারণ শর্ত, পরে নির্দিষ্ট ভঙ্গ। এর কোনো আলাদা শানে নুযুল বর্ণিত নেই, এর জায়গা স্মরণের এই ধারার ভেতরে। এর শেষ কথাটা, ‘তারপর অল্প কয়েকজন ছাড়া তোমরা মুখ ফিরিয়ে নিলে, আর তোমরা অস্বীকারকারী ছিলে’, একটা রায়। পরের দুই আয়াত সেই রায়ের দলিল খুঁটিয়ে দেখায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mithaq, Ihsan, Husna",
+          "bn": "মিসাক, ইহসান, হুসনা"
+        },
+        "p": [
+          {
+            "en": "Mithaq comes from the root w-th-q, which is the language of tying something fast; a wathaq is a bond or fetter, and a mithaq is a promise pulled tight so that it cannot slip. The Quran uses the word for what Allah takes from prophets and from peoples, never for a casual undertaking. When the verse says the mithaq was taken from the Children of Israel, it means they were bound, and the binding was of the kind that leaves no room to say the terms were unclear.",
+            "bn": "‘মিসাক’ এসেছে ও-স-ক মূল থেকে, শক্ত করে বাঁধার ভাষা। ‘ওয়াসাক’ মানে বাঁধন বা শিকল, আর ‘মিসাক’ এমন ওয়াদা, যা এমন টান দিয়ে বাঁধা যে খুলে যাওয়ার উপায় নেই। কুরআন এই শব্দ ব্যবহার করে আল্লাহ নবীদের আর জাতিগুলোর কাছ থেকে যা নেন তার জন্য, হালকা কোনো কথার জন্য নয়। আয়াত যখন বলে বানী ইসরাঈলের কাছ থেকে মিসাক নেওয়া হয়েছিল, মানে তারা বাঁধা পড়েছিল। আর সে বাঁধন এমন যে ‘শর্ত পরিষ্কার ছিল না’ বলার কোনো জায়গা থাকে না।"
+          },
+          {
+            "en": "Ihsan, from h-s-n, is more than being kind; it is doing a thing well, to the point of beauty, and here it stands in the accusative, ihsanan, with its verb left unspoken, as if to say 'and towards parents, excellence', so that the noun carries the whole weight of the command. The same construction returns in 17:23 and 4:36. Then the verse says qulu lin-nasi husna. In the reading of Hafs the word is husnan, the noun 'goodness' itself; in the reading of Hamzah and al-Kisa'i it is hasanan, 'a good word'.",
+            "bn": "‘ইহসান’, হ-স-ন মূল থেকে, শুধু দয়া নয়। কোনো কাজ ভালো করে করা, এত ভালো যে তা সুন্দর হয়ে ওঠে। এখানে শব্দটা ‘ইহসানান’ রূপে এসেছে, ক্রিয়াপদ উহ্য রেখে, যেন বলা হচ্ছে ‘আর মা-বাবার প্রতি, ইহসান’। ফলে হুকুমের পুরো ভার এই একটা শব্দের ওপর। একই গঠন ফিরে আসে 17:23 আর 4:36 আয়াতে। তারপর আয়াত বলে ‘কুলু লিন-নাসি হুসনা’। হাফসের পাঠে শব্দটা ‘হুসনান’, খোদ ‘ভালোত্ব’ নামের বিশেষ্য। হামযা আর কিসাঈর পাঠে ‘হাসানান’, ‘একটা ভালো কথা’।"
+          },
+          {
+            "en": "Two features of the wording carry meaning. La ta'buduna illa Allah is a statement in form, 'you will not worship except Allah', yet it functions as a command; at-Tabari reads it as a prohibition in the form of a report, and az-Zamakhshari adds that this form is more forceful than a bare 'do not', because it treats the outcome as settled. And the verse begins by reporting about 'the Children of Israel' in the third person, then swings round to 'you turned away' in the second. The listeners who thought they were hearing history discover they are being addressed.",
+            "bn": "শব্দবিন্যাসের দুটো দিক আলাদা মানে বহন করে। ‘লা তা’বুদুনা ইল্লাল্লাহ’ গঠনে একটা বিবৃতি, ‘তোমরা আল্লাহ ছাড়া কারও ইবাদত করবে না’, কিন্তু কাজ করে হুকুম হিসেবে। তাবারি একে পড়েছেন খবরের চেহারায় বলা নিষেধ হিসেবে, আর যামাখশারি যোগ করেছেন, এই চেহারা খালি ‘করো না’র চেয়ে জোরালো। কারণ তাতে ফলাফলকে ধরে নেওয়া হয় মীমাংসিত। আর আয়াতে প্রথমে বানী ইসরাঈলের কথা যেন দূর থেকে, তারপর ঘুরে সরাসরি তাদেরই: ‘তোমরা মুখ ফিরিয়ে নিলে’। যারা ভেবেছিল ইতিহাস শুনছে, তারা টের পায় কথাটা তাদেরই বলা হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Order of the List",
+          "bn": "তালিকার ক্রম"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the list as a ranking of rights. First is the right of Allah, that He be worshipped alone, the reason for which creation was made; then the rights of creatures, and foremost among them the parents. He observes that Allah habitually pairs the parents' right with His own, and cites 31:14, 'be grateful to Me and to your parents', and 17:23, where the same two duties open the same sentence. On 'speak good to people' he gives the plain sense, good words and lenience, and adds that commanding good and forbidding wrong are included within it.",
+            "bn": "ইবনে কাসীর এই তালিকাকে পড়েন হকের ক্রম হিসেবে। সবার আগে আল্লাহর হক, একমাত্র তাঁরই ইবাদত, যে কারণে সৃষ্টি হয়েছে। তারপর সৃষ্টির হক, আর তার শীর্ষে মা-বাবা। তিনি খেয়াল করেন, আল্লাহ সাধারণত মা-বাবার হককে নিজের হকের সাথে জুড়ে বলেন। প্রমাণে আনেন 31:14 আয়াত, ‘আমার শোকর কর আর তোমার মা-বাবার’, আর 17:23 আয়াত, যেখানে একই দুই দায়িত্ব একই বাক্যের শুরুতে। ‘মানুষের সাথে ভালো কথা বল’ প্রসঙ্গে তিনি সোজা অর্থই দেন, ভালো কথা আর নরম ব্যবহার। সাথে যোগ করেন, সৎ কাজের আদেশ আর অন্যায়ের নিষেধও এর ভেতরে পড়ে।"
+          },
+          {
+            "en": "Al-Hasan al-Basri, quoted by Ibn Kathir, widened the good word further: enjoining good, forbidding wrong, patience, and pardon, every kind of conduct Allah is pleased with. As-Sa'di explains the reason the command takes this shape: a person cannot reach everyone with his wealth, so Allah commanded the one form of ihsan that can reach every creature, goodness in speech. At-Tabari records both readings, husnan and hasanan, and treats their sense as close. The difference between the commentators is one of scope, not of substance: how far 'good' stretches, and whether it names the word or the manner.",
+            "bn": "হাসান বসরি, ইবনে কাসীরের বরাতে, ভালো কথার পরিধি আরও বাড়িয়েছেন: সৎ কাজের আদেশ, অন্যায়ের নিষেধ, সবর আর মাফ, আল্লাহ যত আচরণে খুশি হন সবই। সাদি বুঝিয়েছেন হুকুমটা এই চেহারা কেন নিল। মানুষ নিজের সম্পদ দিয়ে সবার কাছে পৌঁছাতে পারে না, তাই আল্লাহ এমন এক ইহসানের হুকুম দিলেন, যা প্রতিটি সৃষ্টির কাছে পৌঁছাতে পারে। সেটা কথার ইহসান। তাবারি দুটো পাঠই লিপিবদ্ধ করেছেন, ‘হুসনান’ আর ‘হাসানান’, আর দুটোর অর্থ কাছাকাছি ধরেছেন। মুফাসসিরদের মাঝে যে তফাত, তা পরিধির, মূল কথার নয়: ‘ভালো’ কতদূর ছড়ায়, আর তা কথাটার নাম নাকি বলার ধরনের।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Prayer on Time, a Cheerful Face",
+          "bn": "সময়মতো নামায, হাসিমুখ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir attaches to the parents' clause the report of Ibn Mas'ud (RA) in the two Sahihs. In al-Bukhari's wording: I asked the Prophet ﷺ, which deed is dearest to Allah? He said, prayer at its proper time. I asked, then which? He said, kindness to parents. I asked, then which? He said, jihad in the way of Allah (al-Bukhari 527). The hadith places the two duties the verse places together, worship and parents, side by side at the top, and in the same order the verse gives them.",
+            "bn": "মা-বাবার শর্তটার সাথে ইবনে কাসীর জুড়ে দেন দুই সহিহে থাকা ইবনে মাসউদ (রাঃ)-এর বর্ণনা। বুখারির ভাষায়: আমি নবী ﷺ-কে জিজ্ঞেস করলাম, কোন আমল আল্লাহর কাছে সবচেয়ে প্রিয়? তিনি বললেন, সময়মতো নামায। আমি বললাম, তারপর কোনটা? বললেন, মা-বাবার সাথে সদ্ব্যবহার। আমি বললাম, তারপর কোনটা? বললেন, আল্লাহর পথে জিহাদ (বুখারি ৫২৭)। আয়াত যে দুই দায়িত্বকে পাশাপাশি রেখেছে, ইবাদত আর মা-বাবা, হাদিস সে দুটোকেই সবার উপরে পাশাপাশি রাখে। আর ক্রমটাও আয়াতের ক্রম।"
+          },
+          {
+            "en": "To 'speak good to people' Ibn Kathir joins a report of Abu Dharr (RA). In Muslim's wording, the Prophet ﷺ said: do not belittle any good deed, even meeting your brother with a cheerful face (Muslim 2626). Ibn Kathir notes that the verse commands good speech immediately after commanding good treatment, so that two kinds of conduct are named together, words and deeds. The hadith lowers the bar to where anyone can reach it. A face is speech before the mouth opens, and the covenant counts it.",
+            "bn": "‘মানুষের সাথে ভালো কথা বল’ অংশের সাথে ইবনে কাসীর জুড়ে দেন আবু যর (রাঃ)-এর বর্ণনা। মুসলিমের ভাষায় নবী ﷺ বলেছেন: ‘কোনো নেক কাজকে ছোট মনে করো না, হোক তা তোমার ভাইয়ের সাথে হাসিমুখে দেখা করা’ (মুসলিম ২৬২৬)। ইবনে কাসীর লক্ষ করেন, আয়াত ভালো ব্যবহারের হুকুমের ঠিক পরেই ভালো কথার হুকুম দেয়। ফলে দুই রকম আচরণ একসাথে নাম পায়, কথা আর কাজ। হাদিস মানদণ্ডটা এত নিচে নামিয়ে আনে যে যে কেউ পৌঁছাতে পারে। মুখ খোলার আগেই চেহারা একটা কথা। আর অঙ্গীকার সেটাও গোনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its Sisters in the Quran",
+          "bn": "কুরআনে এর সহোদর আয়াত"
+        },
+        "p": [
+          {
+            "en": "17:23 gives the same opening pair, worship none but Him and treat parents well, then turns it into detail: not even 'uff' to them in their old age, and a noble word instead. 4:36 is the sister Ibn Kathir names outright, since it repeats the verse's list to this ummah and lengthens it with neighbours, the companion at one's side, the traveller and those in one's charge; what was a covenant with Israel is, in 4:36, a command to us. 31:14 explains why parents come straight after Allah: the mother carried him in weakness upon weakness.",
+            "bn": "17:23 আয়াতে একই প্রথম জোড়া, তিনি ছাড়া কারও ইবাদত নয় আর মা-বাবার সাথে সদ্ব্যবহার, তারপর সেটা খুঁটিনাটিতে নামে: বার্ধক্যে তাদের ‘উফ’ পর্যন্ত বলা যাবে না, বলতে হবে সম্মানের কথা। 4:36 আয়াতকে ইবনে কাসীর সরাসরি সহোদর বলে নাম নেন। কারণ সেটা এই আয়াতের তালিকা এই উম্মতের সামনে আবার পড়ে আর লম্বা করে: প্রতিবেশী, পাশের সাথী, মুসাফির আর অধীনস্থরা। বানী ইসরাঈলের সাথে যা ছিল অঙ্গীকার, 4:36 আয়াতে তা আমাদের প্রতি হুকুম। 31:14 আয়াত বুঝিয়ে দেয় আল্লাহর ঠিক পরেই মা-বাবা কেন: মা তাকে বহন করেছেন দুর্বলতার ওপর দুর্বলতা নিয়ে।"
+          },
+          {
+            "en": "2:177 restates most of the same list as the definition of righteousness itself: belief, giving wealth despite love of it to relatives, orphans, the needy and the traveller, establishing prayer, giving zakah, and keeping promises when they are made. That last clause is the one 2:83 says was broken. 16:90 gathers the whole into three words, justice, ihsan and giving to relatives, and calls it an admonition. Together the sisters show that the covenant of 2:83 was never a special burden on one people; it is the standing shape of a believing life.",
+            "bn": "2:177 আয়াত প্রায় একই তালিকা আবার বলে, এবার খোদ নেকির সংজ্ঞা হিসেবে: ঈমান, আত্মীয়, ইয়াতিম, মিসকিন আর মুসাফিরকে সম্পদ দেওয়া, নামায কায়েম, যাকাত আদায়, আর ওয়াদা করলে তা রক্ষা করা। এই শেষ কথাটাই 2:83 আয়াত বলছে ভাঙা হয়েছিল। 16:90 আয়াত পুরোটাকে তিন শব্দে জড়ো করে, ইনসাফ, ইহসান আর আত্মীয়কে দেওয়া, আর একে বলে নসিহত। সব মিলিয়ে সহোদর আয়াতগুলো দেখায়, 2:83 আয়াতের অঙ্গীকার কোনো এক জাতির ওপর বিশেষ বোঝা ছিল না। মুমিনের জীবনের স্থায়ী চেহারাটাই এমন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Working Through the Terms",
+          "bn": "শর্তগুলো ধরে ধরে কাজ"
+        },
+        "p": [
+          {
+            "en": "Read the verse as your own covenant and take one term a day over the coming days. Worship none but Allah: on the first day notice what you feared, hoped in or obeyed more readily than Him. Parents: on the second, call or visit, and if they have died, pray for them and give something in their name. Relatives, orphans, the needy: on the next three days, one each, find a name, not a category, and do something for that person that costs you. Then good speech, then prayer and zakah. The point is to find where you have quietly turned away.",
+            "bn": "আয়াতটাকে নিজের অঙ্গীকার হিসেবে পড়ুন আর কয়েক দিন ধরে রোজ একটা শর্ত নিন। আল্লাহ ছাড়া কারও ইবাদত নয়: প্রথম দিন খেয়াল করুন, তাঁর চেয়ে বেশি সহজে আপনি কাকে ভয় পেয়েছেন, কার কাছে আশা করেছেন, কার কথা মেনেছেন। মা-বাবা: দ্বিতীয় দিন ফোন করুন বা দেখা করুন, আর তাঁরা না থাকলে দোয়া করুন ও তাঁদের নামে কিছু দান করুন। আত্মীয়, ইয়াতিম, মিসকিন: পরের তিন দিন, প্রত্যেকের জন্য এক দিন, একটা নাম খুঁজুন, কোনো শ্রেণি নয়, আর সেই মানুষটার জন্য এমন কিছু করুন যাতে আপনার খরচ হয়। তারপর ভালো কথা, তারপর নামায আর যাকাত। উদ্দেশ্য একটাই, কোথায় আপনি চুপচাপ মুখ ফিরিয়ে নিয়েছেন তা খুঁজে বের করা।"
+          },
+          {
+            "en": "The term most people fail is the one that costs nothing: speaking good to people. The verse says an-nas, people, not believers, not the deserving. It includes the shopkeeper who overcharged you, the driver who cut in, the relative who has never once asked after you, and the person online you will never meet. Muslim's hadith sets the floor at a cheerful face. Try one full day in which no sentence leaves your mouth that you would be ashamed to hear read back as part of a covenant with Allah, and see how far into the day you get.",
+            "bn": "যে শর্তে সবচেয়ে বেশি মানুষ ফেল করে, সেটাতে কোনো খরচ নেই: মানুষের সাথে ভালো কথা। আয়াত বলছে ‘আন-নাস’, মানুষ, মুমিন নয়, যোগ্য লোক নয়। এর ভেতরে পড়ে যে দোকানদার আপনার কাছে বেশি নিয়েছে, যে ড্রাইভার হুট করে সামনে ঢুকে পড়েছে, যে আত্মীয় জীবনে একবারও আপনার খোঁজ নেয়নি, আর অনলাইনে যার সাথে কোনোদিন দেখা হবে না। মুসলিমের হাদিস নিচের সীমা বেঁধে দিয়েছে হাসিমুখে। একটা পুরো দিন চেষ্টা করুন, যাতে এমন কোনো বাক্য মুখ থেকে না বেরোয়, যা আল্লাহর সাথে অঙ্গীকারের অংশ হিসেবে পড়ে শোনালে আপনার লজ্জা লাগবে। দেখুন দিনের কতদূর পর্যন্ত যেতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Du'a From the Verse",
+          "bn": "আয়াত থেকে একটি দোয়া"
+        },
+        "p": [
+          {
+            "en": "For the second term of the covenant the Quran itself supplies the supplication. 17:24 follows the parents' clause of 17:23 with the words to say: 'My Lord, have mercy upon them as they brought me up when I was small.' It is the du'a the Quran sets beside the parents' clause, for their lifetime and after it, and it is short enough to say after every prayer. Saying it daily keeps the second line of the covenant alive even on days when the phone call did not happen.",
+            "bn": "অঙ্গীকারের দ্বিতীয় শর্তের জন্য দোয়াটা কুরআন নিজেই দিয়েছে। 17:23 আয়াতের মা-বাবার অংশের পরেই 17:24 আয়াতে আসে বলার কথাটা: ‘হে আমার রব, তাদের প্রতি রহম করুন, যেমন তারা আমাকে ছোটবেলায় লালন করেছেন।’ মা-বাবার হকের ঠিক পাশে কুরআন এই দোয়াটাই রেখেছে, তাঁদের জীবদ্দশার জন্য আর তার পরের জন্যও। এত ছোট যে প্রতি নামাযের পরে বলা যায়। রোজ বললে অঙ্গীকারের দ্বিতীয় লাইনটা বেঁচে থাকে, এমন দিনেও যেদিন ফোনটা করা হয়নি।"
+          },
+          {
+            "en": "For the covenant as a whole, a supplication in the verse's own vocabulary, composed here and not narrated: 'O Allah, You took a covenant and I have turned away from parts of it. Make me worship none but You, make me excellent to my parents, and make my hands reach the relative, the orphan and the needy. Put a good word on my tongue for all people, keep me standing in prayer and giving what is due, and do not write me among those who turned away, but among the few.'",
+            "bn": "পুরো অঙ্গীকারের জন্য আয়াতের নিজের শব্দে একটা দোয়া। এটা রচিত, কোনো বর্ণনা নয়: ‘হে আল্লাহ, আপনি অঙ্গীকার নিয়েছেন, আর আমি তার কিছু অংশ থেকে মুখ ফিরিয়ে নিয়েছি। আমাকে দিয়ে শুধু আপনারই ইবাদত করান, মা-বাবার প্রতি আমাকে ইহসানকারী বানান, আর আমার হাত পৌঁছে দিন আত্মীয়, ইয়াতিম আর মিসকিনের কাছে। সব মানুষের জন্য আমার জবানে ভালো কথা দিন, আমাকে নামাযে দাঁড় করিয়ে রাখুন আর হক আদায়ে লাগিয়ে রাখুন। যারা মুখ ফিরিয়ে নিয়েছে আমাকে তাদের মাঝে লিখবেন না, লিখুন সেই অল্প কয়েকজনের মাঝে।’"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions to Carry",
+          "bn": "সাথে রাখার প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "If the terms of this verse were read aloud in my house as my own signed covenant, which line would make me look at the floor, and which single term, kept for a month, would change that house most? The verse puts parents immediately after Allah. Where do they actually sit in my week, measured in minutes rather than in feelings? Who is the orphan or the needy person I could name right now, and if I cannot name one, what does that say about how far my list of people extends?",
+            "bn": "এই আয়াতের শর্তগুলো যদি আমার সই করা অঙ্গীকার হিসেবে আমার ঘরে জোরে পড়া হয়, কোন লাইনে আমি মেঝের দিকে তাকাব, আর কোন একটা শর্ত এক মাস ধরে রাখলে সেই ঘরটা সবচেয়ে বেশি বদলাবে? আয়াত মা-বাবাকে রাখে আল্লাহর ঠিক পরেই। আমার সপ্তাহে তাঁরা আসলে কোথায় আছেন, অনুভূতিতে নয়, মিনিটের হিসাবে? এই মুহূর্তে কোন ইয়াতিম বা কোন অভাবী মানুষের নাম আমি বলতে পারি, আর বলতে না পারলে সেটা কী বলে দেয়, আমার মানুষের তালিকা কতদূর পর্যন্ত যায়?"
+          },
+          {
+            "en": "The covenant makes good speech to all people a religious duty. Whom do I speak to carelessly because I have decided they do not count? The verse ends by saying that most turned away while a few did not. What did the few do differently, and is there anything stopping me from being one of them starting with the next person I speak to?",
+            "bn": "অঙ্গীকার সব মানুষের সাথে ভালো কথা বলাকে দ্বীনের দায়িত্ব বানিয়েছে। কার সাথে আমি অসাবধানে কথা বলি, কারণ ঠিক করে নিয়েছি তার হিসাব রাখার দরকার নেই? আয়াত শেষ হয় এই বলে যে বেশিরভাগ মুখ ফিরিয়ে নিল, অল্প কয়েকজন নেয়নি। সেই অল্প কয়েকজন আলাদা কী করেছিল, আর পরের যে মানুষটার সাথে আমি কথা বলব, তাকে দিয়ে শুরু করে তাদের একজন হতে আমাকে কী আটকাচ্ছে?"
+          }
+        ]
+      }
+    ]
+  },
+  "2:84-86": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Covenants and One Breach",
+          "bn": "দুই অঙ্গীকার, একটি ভঙ্গ"
+        },
+        "p": [
+          {
+            "en": "Surah al-Baqarah is Madinan, and the reminders to the Children of Israel that began at 2:40 have just listed, in 2:83, the general terms of their covenant: worship, parents, kin, orphans, the needy, good speech, prayer and zakah. 2:84 now recalls a second and more specific covenant, no shedding of one another's blood and no eviction from homes, which they acknowledged and witnessed. 2:85 sets their conduct against it and asks the question that gives the passage its name, and 2:86 pronounces the verdict. 2:87 then moves on to the messengers they rejected.",
+            "bn": "সূরা বাকারা মাদানি সূরা। 2:40 আয়াত থেকে বানী ইসরাঈলকে যে স্মরণ করানো চলছে, তা 2:83 আয়াতে সবে গুনিয়ে দিয়েছে তাদের অঙ্গীকারের সাধারণ শর্ত: ইবাদত, মা-বাবা, আত্মীয়, ইয়াতিম, মিসকিন, ভালো কথা, নামায আর যাকাত। এবার 2:84 আয়াত মনে করায় দ্বিতীয় ও আরও নির্দিষ্ট এক অঙ্গীকার, একে অন্যের রক্ত ঝরাবে না, কাউকে ঘর থেকে তাড়াবে না। তারা তা মেনে নিয়েছিল, নিজেরাই সাক্ষী ছিল। 2:85 আয়াত তাদের কাজকে সেই অঙ্গীকারের পাশে রাখে আর সেই প্রশ্নটা করে, যে প্রশ্নে এই অংশ পরিচিত। 2:86 আয়াত রায় শোনায়। তারপর 2:87 আয়াত চলে যায় সেই রাসূলদের দিকে, যাঁদের তারা প্রত্যাখ্যান করেছিল।"
+          },
+          {
+            "en": "The occasion is a sirah report, not a fabricated tale. Ibn Kathir records from Ibn Ishaq, from Ibn Abbas (RA), that before Islam the Jews of Madinah were split between the two Arab tribes: Banu Qaynuqa were allies of the Khazraj, and Banu an-Nadir and Banu Qurayzah were allies of the Aws. When the Aws and Khazraj fought, each Jewish group fought beside its ally, killing and expelling fellow Jews, and when the fighting ended each ransomed its captives because the Torah required it. The Torah, Ibn Abbas noted, forbade both the killing and the expulsion.",
+            "bn": "শানে নুযুলটা সিরাতের বর্ণনা, বানানো গল্প নয়। ইবনে কাসীর ইবনে ইসহাকের সূত্রে ইবনে আব্বাস (রাঃ) থেকে লিখেছেন, ইসলামের আগে মদিনার ইহুদিরা দুই আরব গোত্রের মাঝে ভাগ হয়ে ছিল। বনু কায়নুকা ছিল খাযরাজের মিত্র, আর বনু নাযির ও বনু কুরায়যা ছিল আউসের মিত্র। আউস আর খাযরাজে যুদ্ধ বাঁধলে প্রত্যেক ইহুদি দল নিজের মিত্রের পাশে দাঁড়িয়ে লড়ত, নিজেদেরই জাতভাই ইহুদিদের মারত, ঘরছাড়া করত। যুদ্ধ থামলে প্রত্যেকে নিজেদের বন্দিদের মুক্তিপণ দিয়ে ছাড়াত, কারণ তাওরাত তা চাইত। অথচ, ইবনে আব্বাস (রাঃ) বলেন, খুন আর বহিষ্কার দুটোই তাওরাতে হারাম ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Anfusakum, Tazaharun, Ba'd",
+          "bn": "আনফুসাকুম, তাযাহারুন, বা’দ"
+        },
+        "p": [
+          {
+            "en": "The covenant says la tasfikuna dima'akum, you will not shed 'your blood', and la tukhrijuna anfusakum, you will not evict 'yourselves'. Anfusakum, from n-f-s, means literally 'your own selves', and the Quran uses it for a community so bound together that a wrong done to one member is done to oneself. Ibn Kathir compares 2:54, where the same word describes the killing that was to be carried out within the people after the calf. The verse could have said 'one another'; it said 'yourselves', so that the breach is exposed as self-harm before it is anything else.",
+            "bn": "অঙ্গীকারে বলা হয় ‘লা তাসফিকুনা দিমাআকুম’, তোমরা ‘তোমাদের রক্ত’ ঝরাবে না, আর ‘লা তুখরিজুনা আনফুসাকুম’, তোমরা ‘নিজেদের’ বের করে দেবে না। ‘আনফুসাকুম’, ন-ফ-স মূল থেকে, আক্ষরিক অর্থে ‘তোমাদের নিজের সত্তা’। কুরআন শব্দটা ব্যবহার করে এমন এক জামাতের জন্য, যারা এতটা একসাথে বাঁধা যে একজনের ওপর জুলুম মানে নিজের ওপর জুলুম। ইবনে কাসীর তুলনা টানেন 2:54 আয়াতের সাথে, বাছুরের ঘটনার পর জাতির ভেতরে যে হত্যা চালানোর কথা, সেখানেও একই শব্দ। আয়াত বলতে পারত ‘একে অন্যকে’। বলেছে ‘নিজেদেরকে’, যেন অঙ্গীকার ভাঙাটা অন্য কিছু হওয়ার আগে ধরা পড়ে নিজের ক্ষতি হিসেবে।"
+          },
+          {
+            "en": "Tazaharuna, from z-h-r, the word for the back, means to stand back to back with someone, to back one another up; here they back one another 'in sin and aggression', bil-ithmi wal-'udwan, the exact pair the Quran forbids cooperating in elsewhere. Then tufaduhum, you ransom them, carried in two canonical readings that at-Tabari records, tufaduhum and tafduhum, both meaning to redeem a captive. The clause wa huwa muharramun 'alaykum ikhrajuhum, 'while their eviction was forbidden to you', is a parenthesis dropped between the ransom and the question, so the reader cannot reach the question without passing the prohibition.",
+            "bn": "‘তাযাহারুন’, য-হ-র মূল থেকে, যে মূলে পিঠ শব্দটা, মানে কারও সাথে পিঠে পিঠ লাগিয়ে দাঁড়ানো, একে অন্যকে পিঠ দেওয়া। এখানে তারা পিঠ দিচ্ছে ‘গুনাহ আর সীমালঙ্ঘনে’, ‘বিল-ইসমি ওয়াল-উদওয়ান’, ঠিক সেই জোড়া, যাতে সহযোগিতা কুরআন অন্যত্র নিষেধ করেছে। তারপর ‘তুফাদুহুম’, তোমরা তাদের মুক্তিপণ দিয়ে ছাড়াও। এর দুটো স্বীকৃত পাঠ তাবারি লিপিবদ্ধ করেছেন, ‘তুফাদুহুম’ আর ‘তাফদুহুম’, দুটোরই মানে বন্দি ছাড়ানো। ‘ওয়া হুয়া মুহাররামুন আলাইকুম ইখরাজুহুম’, ‘অথচ তাদের বের করে দেওয়া তোমাদের জন্য হারাম ছিল’, এই অংশটা মুক্তিপণ আর প্রশ্নের মাঝখানে বসানো একটা বন্ধনী। পাঠক নিষেধটা না পেরিয়ে প্রশ্ন পর্যন্ত পৌঁছাতে পারে না।"
+          },
+          {
+            "en": "The centre of the passage is a-fa-tu'minuna bi-ba'dil-kitabi wa takfuruna bi-ba'd. The hamzah of denial joined to fa, 'so do you then', is the Quran's grammar for a question whose answer condemns the one asked. Ba'd, part, is set against ba'd, part, with the two verbs 'believe' and 'disbelieve' hung on them, so that the sentence itself is split down the middle like the conduct it describes. 2:85 opens with thumma antum ha'ula'i, 'then you are these very ones', a pointing demonstrative that refuses to let the listeners hide behind the past. It ends, as 2:74 did, with 'Allah is not unaware of what you do'.",
+            "bn": "এই অংশের কেন্দ্র হলো ‘আ-ফা-তু’মিনুনা বি-বা’দিল-কিতাবি ওয়া তাকফুরুনা বি-বা’দ’। অস্বীকারের ‘হামযা’র সাথে ‘ফা’ জুড়ে, ‘তবে কি তোমরা’, এটা কুরআনের সেই প্রশ্নের ব্যাকরণ, যার উত্তর প্রশ্ন শোনা লোককেই দোষী করে। ‘বা’দ’, অংশ, বসানো হয়েছে ‘বা’দ’, অংশের মুখোমুখি, আর দুটোর গায়ে ঝোলানো দুটো ক্রিয়া, ‘ঈমান আনো’ আর ‘কুফরি কর’। ফলে বাক্যটা নিজেই মাঝখান থেকে দুই ভাগ, যে আচরণের বর্ণনা দিচ্ছে ঠিক তার মতো। 2:85 আয়াত শুরু হয় ‘সুম্মা আনতুম হাউলাই’ দিয়ে, ‘তারপর তোমরাই তো এই লোক’, আঙুল তুলে দেখানো এমন শব্দ, যা শ্রোতাকে অতীতের আড়ালে লুকাতে দেয় না। শেষ হয় ঠিক 2:74 আয়াতের মতো: ‘তোমরা যা কর আল্লাহ তা থেকে বেখেয়াল নন’।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why Ransoming Counts Against Them",
+          "bn": "মুক্তিপণ কেন তাদের বিপক্ষে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir gives the reading that most commentators share: believing in part is the ransoming, which the Torah commands; disbelieving in part is the killing and expulsion, which the Torah forbids. As-Sa'di reads the two parts the same way. Ibn Kathir adds why 'yourselves' is the right word, quoting the Prophet ﷺ that the believers are like one body, and he notes the verdict's two halves: the disgrace of this world for defying the law in their hands, and the severest punishment on the Day for defying the Book itself.",
+            "bn": "ইবনে কাসীর সেই ব্যাখ্যাটা দেন, যা বেশিরভাগ মুফাসসিরের: কিছু অংশে ঈমান মানে মুক্তিপণ দেওয়া, যা তাওরাত হুকুম করে। কিছু অংশে কুফরি মানে খুন আর বহিষ্কার, যা তাওরাত নিষেধ করে। সাদিও দুই অংশকে একইভাবে পড়েন। ইবনে কাসীর আরও যোগ করেন ‘নিজেদের’ শব্দটা কেন ঠিক শব্দ, নবী ﷺ-এর সেই কথা এনে, মুমিনরা এক দেহের মতো। আর তিনি রায়ের দুই ভাগ আলাদা করে দেখান: হাতে থাকা শরিয়ত অমান্য করার জন্য দুনিয়ার লাঞ্ছনা, আর খোদ কিতাব অমান্য করার জন্য কিয়ামতের দিনে কঠিনতম শাস্তি।"
+          },
+          {
+            "en": "Ar-Razi presses a question the text invites: ransoming captives was itself obedience to the Torah, so how can it appear in a list of charges? His answer is that the ransom is not the charge; it is the evidence. It proves they knew the Book was binding, which removes the excuse of ignorance for the killing. At-Tabari, working through the readings and the grammar clause by clause, keeps to the plain sense of each phrase and lets the charge stand as worded. The commentators differ in emphasis, from grammar to law to psychology, but none softens the charge.",
+            "bn": "রাযি এমন একটা প্রশ্ন চেপে ধরেন, যা আয়াত নিজেই তুলে দেয়: বন্দি ছাড়ানো তো নিজেই তাওরাতের আনুগত্য, তাহলে সেটা অভিযোগের তালিকায় আসে কী করে? তাঁর জবাব: মুক্তিপণটা অভিযোগ নয়, প্রমাণ। এটা প্রমাণ করে তারা জানত কিতাব মানা ফরজ। ফলে খুনের ব্যাপারে ‘জানতাম না’ বলার অজুহাত আর থাকে না। তাবারি পাঠ আর ব্যাকরণ ধরে ধরে বাক্যাংশ বাক্যাংশ এগোন, প্রতিটির সোজা অর্থের কাছে থাকেন, আর অভিযোগটাকে যেমন বলা হয়েছে তেমনই দাঁড় করিয়ে রাখেন। মুফাসসিররা জোর দেন ভিন্ন ভিন্ন জায়গায়, ব্যাকরণ, বিধান, মনের হিসাব। কিন্তু কেউই অভিযোগটা নরম করেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Body",
+          "bn": "এক দেহ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir attaches to 'do not shed your own blood' the hadith of an-Nu'man ibn Bashir (RA). In Muslim's wording, the Messenger of Allah ﷺ said: the believers, in their mutual love, mercy and compassion, are like a single body; when one limb complains, the rest of the body responds with sleeplessness and fever (Muslim 2586). The hadith explains the word anfusakum from inside. If the community is one body, then to kill a member and then pay to redeem him is to wound a limb and bandage it, and to call the bandage obedience.",
+            "bn": "‘তোমাদের নিজের রক্ত ঝরাবে না’ অংশের সাথে ইবনে কাসীর জুড়ে দেন নু’মান ইবনে বশির (রাঃ)-এর হাদিস। মুসলিমের ভাষায় রাসূলুল্লাহ ﷺ বলেছেন: মুমিনরা পরস্পরের ভালোবাসা, দয়া ও মমতায় এক দেহের মতো। দেহের একটা অঙ্গ কষ্ট পেলে বাকি দেহ জেগে থেকে আর জ্বরে সাড়া দেয় (মুসলিম ২৫৮৬)। হাদিসটা ‘আনফুসাকুম’ শব্দটাকে ভেতর থেকে বুঝিয়ে দেয়। জামাত যদি এক দেহ হয়, তবে একজনকে মেরে তারপর তাকে ছাড়াতে টাকা দেওয়া মানে একটা অঙ্গ কেটে তাতে ব্যান্ডেজ বাঁধা। আর ব্যান্ডেজটাকে আনুগত্য বলে ডাকা।"
+          },
+          {
+            "en": "On the question 'do you believe in part and disbelieve in part' itself, no sound hadith is attached in the classical tafsir, and this article does not supply one. What the Sunnah offers instead is the standard the question assumes. In Sahih Muslim, Ubadah ibn as-Samit (RA) describes the pledge the Companions gave the Prophet ﷺ: to hear and obey in hardship and in ease, in what they liked and in what they disliked. Obedience in what one likes is not what a pledge is for. The pledge exists for the other half.",
+            "bn": "‘তোমরা কি কিছু অংশ মানো আর কিছু অংশ অস্বীকার কর’ এই প্রশ্নটার সাথে ধ্রুপদী তাফসিরে কোনো সহিহ হাদিস জোড়া নেই, আর এই লেখাও কোনোটা বানিয়ে বসায়নি। বদলে সুন্নাহ দেয় সেই মানদণ্ড, প্রশ্নটা যা ধরে নেয়। সহিহ মুসলিমে উবাদা ইবনে সামিত (রাঃ) সাহাবিদের দেওয়া বায়াতের বর্ণনা দেন: নবী ﷺ-এর কথা শুনব আর মানব, কষ্টে ও স্বাচ্ছন্দ্যে, যা ভালো লাগে তাতে আর যা ভালো লাগে না তাতেও। যা ভালো লাগে তাতে আনুগত্যের জন্য বায়াত লাগে না। বায়াত আছে বাকি অর্ধেকটার জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its Sisters in the Quran",
+          "bn": "কুরআনে এর সহোদর আয়াত"
+        },
+        "p": [
+          {
+            "en": "4:150 describes people who say 'we believe in some and disbelieve in others' about the messengers and want a path in between; 4:151 names them the disbelievers in truth. The same split, applied to messengers instead of commands, receives the same verdict. 24:48 shows the reflex in action: called to Allah and His Messenger for judgement, a party turns aside, and 24:51 gives the believers' answer in its place, 'we hear and we obey'. The pair sets the two possible responses to a command one does not like side by side.",
+            "bn": "4:150 আয়াত এমন লোকদের ছবি আঁকে, যারা রাসূলদের নিয়ে বলে ‘কাউকে মানি, কাউকে মানি না’ আর মাঝামাঝি একটা পথ চায়। 4:151 আয়াত তাদের বলে আসল কাফির। একই বিভাজন, হুকুমের বদলে রাসূলদের ওপর খাটানো, একই রায় পায়। 24:48 আয়াত এই স্বভাবটাকে কাজে দেখায়: ফয়সালার জন্য আল্লাহ ও তাঁর রাসূলের দিকে ডাকলে একদল মুখ ফিরিয়ে নেয়। আর 24:51 আয়াত তার জায়গায় মুমিনদের জবাব বসায়, ‘আমরা শুনলাম ও মানলাম’। অপছন্দের হুকুমের সামনে দুটো সম্ভাব্য জবাব এই জোড়া পাশাপাশি রেখে দেয়।"
+          },
+          {
+            "en": "2:100 widens the charge from one breach to a pattern: every time they took a covenant, a party of them threw it away. 62:5 gives the image that follows from partial faith: those entrusted with the Torah who did not carry it are like a donkey carrying volumes of books, in possession of every page and bound by none. Read beside 2:85, these sisters say that believing in part is not a lesser form of belief; it is a way of owning the Book without being owned by it.",
+            "bn": "2:100 আয়াত অভিযোগটাকে একটা ভঙ্গ থেকে একটা স্বভাবে ছড়িয়ে দেয়: যখনই তারা অঙ্গীকার করেছে, তাদের একদল তা ছুড়ে ফেলেছে। 62:5 আয়াত দেয় সেই ছবি, আংশিক ঈমান থেকে যা দাঁড়ায়: তাওরাতের দায়িত্ব পেয়ে যারা তা বহন করেনি, তারা কিতাবের বোঝা বওয়া গাধার মতো। সব পাতা কাছে আছে, কোনো পাতায় বাঁধা নেই। 2:85 আয়াতের পাশে পড়লে এই সহোদররা বলে, কিছু অংশে ঈমান কোনো ছোট মাপের ঈমান নয়। এটা কিতাবের মালিক হওয়ার একটা কায়দা, কিতাবের কাছে নিজে বাঁধা না পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Question Turned Inward",
+          "bn": "প্রশ্নটা নিজের দিকে"
+        },
+        "p": [
+          {
+            "en": "The verse is not a text for judging others; the only person whose 'part' you can inspect is yourself. Make an honest list. The commands that cost you little, you probably keep: fasting Ramadan, the Friday prayer, avoiding pork. Now write the commands that cost you something: the source of your income, the interest on your loan, the backbiting in your family group, the prayer at dawn, the relative you have cut off, the wife or husband whose rights you have quietly reduced. Where a command sits on the second list and you have made peace with leaving it, you have found your ransom and your killing.",
+            "bn": "এই আয়াত অন্যকে বিচার করার লেখা নয়। যার ‘অংশ’ আপনি পরখ করতে পারেন, সে একজনই, আপনি নিজে। সৎভাবে একটা তালিকা করুন। যে হুকুমে খরচ কম, সেগুলো আপনি সম্ভবত রাখেন: রমযানের রোযা, জুমার নামায, শুয়োর থেকে দূরে থাকা। এবার লিখুন যে হুকুমে খরচ আছে: রোজগারের উৎস, ঋণের সুদ, পারিবারিক গ্রুপে গিবত, ফজরের নামায, যে আত্মীয়র সাথে সম্পর্ক কেটেছেন, যে স্ত্রী বা স্বামীর হক চুপচাপ কমিয়ে দিয়েছেন। দ্বিতীয় তালিকার কোনো হুকুম ছেড়ে দেওয়া নিয়ে যেখানে আপনি শান্তিতে আছেন, সেখানেই আপনার মুক্তিপণ আর আপনার খুন পাশাপাশি পাওয়া গেল।"
+          },
+          {
+            "en": "Then take one item from the second list and treat it as the Israelites should have treated the ban on killing: as a term of a covenant you have witnessed. Do not try to fix the whole list; the verse's own example is one breach beside one obedience. Tell someone you trust which command you are returning to, so the return is witnessed the way the covenant was. And notice the trade 2:86 names. Whatever you gain from the command you leave out, it is being paid for with the Hereafter, and that price does not go down over time.",
+            "bn": "এবার দ্বিতীয় তালিকা থেকে একটা জিনিস নিন। খুনের নিষেধকে বানী ইসরাঈলের যেভাবে ধরা উচিত ছিল, একে সেভাবে ধরুন: এমন এক অঙ্গীকারের শর্ত, যার আপনি নিজে সাক্ষী। পুরো তালিকা একবারে ঠিক করতে যাবেন না। আয়াতের নিজের উদাহরণেও একটা আনুগত্যের পাশে একটা ভঙ্গ। যাকে ভরসা করেন, তাকে বলুন কোন হুকুমে আপনি ফিরছেন, যাতে ফেরাটাও সাক্ষী পায়, অঙ্গীকার যেমন পেয়েছিল। আর 2:86 আয়াত যে সওদার নাম নিয়েছে, তা খেয়াল করুন। যে হুকুম বাদ দিচ্ছেন তা থেকে যা-ই পান, দামটা দেওয়া হচ্ছে আখিরাত দিয়ে। আর সে দাম সময়ের সাথে কমে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Your Forgiveness, Our Lord",
+          "bn": "আপনার মাফ, হে আমাদের রব"
+        },
+        "p": [
+          {
+            "en": "The Quran answers the divided faith of 2:85 with a whole one at the surah's end. 2:285 describes the believers who make no distinction between any of Allah's messengers and who say 'we hear and we obey', and it gives their supplication in the same breath: 'Your forgiveness, our Lord, and to You is the destination.' That is the du'a to carry from this verse, because it joins the undivided obedience that 2:85 found missing to the plea for pardon that anyone honest about his own list will need. Say it, in Arabic or in your own tongue, after every prayer this week.",
+            "bn": "2:85 আয়াতের দুই ভাগ হওয়া ঈমানের জবাব কুরআন দেয় সূরার শেষে অখণ্ড এক ঈমান দিয়ে। 2:285 আয়াত সেই মুমিনদের ছবি আঁকে, যারা আল্লাহর রাসূলদের কারও মাঝে তফাত করে না, যারা বলে ‘আমরা শুনলাম ও মানলাম’। আর একই নিঃশ্বাসে তাদের দোয়াটা দিয়ে দেয়: ‘আপনার মাফ, হে আমাদের রব, আর আপনার কাছেই ফেরা।’ এই আয়াত থেকে সাথে নেওয়ার দোয়া এটাই। কারণ এটা জুড়ে দেয় সেই অখণ্ড আনুগত্য, যা 2:85 আয়াত খুঁজে পায়নি, আর সেই মাফের মিনতি, নিজের তালিকা নিয়ে সৎ যে কারও যা লাগবে। এ সপ্তাহে প্রতি নামাযের পর বলুন, আরবিতে বা নিজের ভাষায়।"
+          },
+          {
+            "en": "A supplication in the passage's own vocabulary, composed here and not narrated: 'O Allah, I acknowledged Your covenant and witnessed it, and then I kept the part that suited me and left the part that cost me. Do not let me believe in part of Your Book and disbelieve in part. Make me hear and obey in what I like and in what I dislike, and do not let me buy this life with the next. You are not unaware of what I do; make what I do whole.'",
+            "bn": "এই অংশের নিজের শব্দে একটা দোয়া। এটা রচিত, কোনো বর্ণনা নয়: ‘হে আল্লাহ, আমি আপনার অঙ্গীকার মেনেছি, সাক্ষী থেকেছি, তারপর সুবিধার অংশটা রেখেছি আর খরচের অংশটা ছেড়েছি। আমাকে আপনার কিতাবের কিছু অংশে ঈমান আর কিছু অংশে কুফরি করতে দেবেন না। যা ভালো লাগে তাতে আর যা ভালো লাগে না তাতেও আমাকে দিয়ে শোনান ও মানান। আখিরাত দিয়ে দুনিয়া কিনতে দেবেন না। আমি যা করি আপনি তা থেকে বেখেয়াল নন। আমার কাজকে অখণ্ড করে দিন।’"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions to Carry",
+          "bn": "সাথে রাখার প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Which command have I obeyed for years mainly because it costs me nothing, and which one have I left for years mainly because it does? If a stranger reconstructed my creed from my bank statement, my phone and my family gatherings, which parts of the Book would he conclude I believe in? The Israelites paid ransoms and called it faith. What is the obedience I point to when my conscience raises the disobedience I would rather not discuss?",
+            "bn": "কোন হুকুম আমি বছরের পর বছর মেনেছি মূলত এ কারণে যে তাতে আমার কিছু খরচ হয় না? আর কোনটা বছরের পর বছর ছেড়ে রেখেছি মূলত এ কারণে যে হয়? আমার ব্যাংকের হিসাব, ফোন আর পারিবারিক আসর থেকে কোনো অচেনা লোক আমার আকিদা দাঁড় করালে সে কী ধরে নেবে, কিতাবের কোন অংশে আমি বিশ্বাস করি? বানী ইসরাঈল মুক্তিপণ দিয়ে তাকে ঈমান বলত। আমার বিবেক যখন সেই নাফরমানির কথা তোলে, যা নিয়ে আমি কথা বলতে চাই না, তখন আমি কোন আনুগত্যটা দেখিয়ে দিই?"
+          },
+          {
+            "en": "The verse says they acknowledged the covenant and witnessed it. What have I said in prayer, in public, or to my children that my private conduct contradicts, and who is watching the gap? 2:86 names the price of partial faith as the Hereafter. What, exactly, am I buying with it, and would I sign that contract if it were written out in full in front of me?",
+            "bn": "আয়াত বলছে তারা অঙ্গীকার মেনে নিয়েছিল আর সাক্ষী ছিল। নামাযে, লোকের সামনে বা সন্তানদের কাছে আমি কী বলেছি, যা আমার গোপন আচরণ অস্বীকার করে? আর এই ফাঁকটা কে দেখছে? 2:86 আয়াত আংশিক ঈমানের দাম বলেছে আখিরাত। ঠিক কী কিনছি আমি এই দামে? আর এই চুক্তি যদি পুরোটা লিখে আমার সামনে রাখা হতো, আমি কি সই করতাম?"
+          }
+        ]
+      }
+    ]
+  },
+  "2:93": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Mount, Raised Again",
+          "bn": "পাহাড়, আবার তোলা"
+        },
+        "p": [
+          {
+            "en": "Surah al-Baqarah is Madinan, and the surah has already told this scene once. 2:63 recalled the covenant, the mount raised over them, and the command to take what they were given with determination and remember what is in it, and 2:64 recorded that they turned away after that. Our verse returns to the same moment inside a second, sharper sequence. 2:87 to 2:91 have charged them with rejecting and killing messengers and with claiming to believe only in what was sent to them; 2:92 has just said that Musa (AS) brought them clear proofs and they took the calf after that.",
+            "bn": "সূরা বাকারা মাদানি সূরা, আর এই দৃশ্য সূরা একবার বলে ফেলেছে। 2:63 আয়াত মনে করিয়েছিল অঙ্গীকার, তাদের ওপর তোলা পাহাড়, আর হুকুম, যা দেওয়া হয়েছে তা দৃঢ়ভাবে ধরো আর তাতে যা আছে স্মরণ রাখো। 2:64 আয়াত লিখে রেখেছিল, এর পরেও তারা মুখ ফিরিয়ে নিল। আমাদের আয়াত সেই একই মুহূর্তে ফেরে, তবে দ্বিতীয় ও আরও ধারালো এক ধারার ভেতরে। 2:87 থেকে 2:91 আয়াত তাদের অভিযুক্ত করেছে রাসূলদের অস্বীকার ও হত্যার দায়ে, আর ‘শুধু আমাদের ওপর যা নাযিল হয়েছে তা মানি’ বলার দায়ে। 2:92 আয়াত সবে বলেছে, মূসা (আ) তাদের কাছে স্পষ্ট প্রমাণ এনেছিলেন, তারপরও তারা বাছুরকে ধরল।"
+          },
+          {
+            "en": "So when 2:93 says 'and when We took your covenant and raised over you the mount', it is not adding information; it is placing the calf and the covenant in the same frame. The command this time is 'take what We have given you with determination and listen', and the reported answer is 'we hear and we disobey'. Then comes the diagnosis, the calf drunk into their hearts, and the verdict, spoken through 'Say', that addresses their claim to faith. 2:94 follows with a challenge: if the Hereafter is yours alone, wish for death. No separate occasion of revelation is reported; the verse belongs to the argument.",
+            "bn": "তাই 2:93 আয়াত যখন বলে ‘আর যখন আমি তোমাদের অঙ্গীকার নিলাম আর তোমাদের ওপর পাহাড় তুললাম’, তখন নতুন কোনো তথ্য যোগ হয় না। বাছুর আর অঙ্গীকারকে একই ফ্রেমে বসানো হয়। এবার হুকুম, ‘যা দিলাম দৃঢ়ভাবে ধরো আর শোনো’, আর লিখে রাখা জবাব, ‘আমরা শুনলাম আর অমান্য করলাম’। এরপর রোগ ধরা পড়ে, হৃদয়ে পান করানো বাছুর। তারপর রায়, ‘বলো’ দিয়ে শুরু, যা তাদের ঈমানের দাবিকে সোজা সম্বোধন করে। 2:94 আয়াত আসে চ্যালেঞ্জ নিয়ে: আখিরাত যদি শুধু তোমাদেরই হয়, মৃত্যু কামনা করো। আলাদা কোনো শানে নুযুল বর্ণিত নেই। আয়াত এই যুক্তির ধারার অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ushribu fi Qulubihim al-'Ijl",
+          "bn": "উশরিবু ফি কুলুবিহিমুল-ইজল"
+        },
+        "p": [
+          {
+            "en": "Ushribu is the passive of the fourth form of sh-r-b, to drink: not 'they drank' but 'they were made to drink', so that the heart appears as something into which a liquid was poured. The verse says fi qulubihim, 'in their hearts', not 'upon' them. A stain lies on a surface; a drink goes inside and spreads. Then the object is al-'ijl, the calf itself. A calf cannot be drunk, so at-Tabari supplies the omitted word: the love of the calf, hubb al-'ijl, a love so complete that the calf and its love are named by one word.",
+            "bn": "‘উশরিবু’ শ-র-ব মূল থেকে, পান করা। কিন্তু শব্দটা ‘তারা পান করল’ নয়, ‘তাদের পান করানো হলো’। ফলে হৃদয়কে দেখা যায় এমন পাত্র হিসেবে, যাতে কোনো তরল ঢালা হয়েছে। আয়াত বলে ‘ফি কুলুবিহিম’, ‘তাদের হৃদয়ের ভেতরে’, ওপরে নয়। দাগ থাকে উপরিতলে। পানীয় ভেতরে যায় আর ছড়ায়। তারপর কর্ম হিসেবে আসে ‘আল-ইজল’, খোদ বাছুরটা। বাছুর তো পান করা যায় না, তাই তাবারি বাদ পড়া শব্দটা বসিয়ে দেন: বাছুরের ভালোবাসা, ‘হুব্বুল-ইজল’। এত পুরো ভালোবাসা যে বাছুর আর তার ভালোবাসাকে এক শব্দে ডাকা চলে।"
+          },
+          {
+            "en": "Why drinking rather than any other image? Water reaches parts of the body that food never touches, and it does so quickly and without being noticed; the Arabs spoke of a dye that a cloth had drunk. Commentators such as ash-Shawkani in Fath al-Qadir give the speed and reach of a drink as the reason the verse chose the word. Then bi-kufrihim, 'because of their disbelief': the ba' is the ba' of cause. The verse does not say the drinking caused the disbelief. It says the disbelief caused the drinking.",
+            "bn": "অন্য কোনো ছবি না দিয়ে পান করার ছবি কেন? পানি শরীরের এমন জায়গায় পৌঁছায়, যেখানে খাবার কখনো যায় না, আর যায় দ্রুত, চোখে না পড়ে। আরবরা বলত, কাপড়টা রং পান করেছে। শাওকানির মতো মুফাসসিররা, যেমন ফাতহুল কাদিরে, পানীয়ের এই দ্রুত ছড়িয়ে পড়াকেই আয়াতের শব্দ বাছাইয়ের কারণ বলেছেন। তারপর ‘বি-কুফরিহিম’, ‘তাদের কুফরির কারণে’। এখানকার ‘বা’ কারণের ‘বা’। আয়াত বলছে না, পান করানোটা কুফরির কারণ। বলছে, কুফরিই পান করানোর কারণ।"
+          },
+          {
+            "en": "Two more features shape the verse. 'We hear and we disobey', sami'na wa 'asayna, is built to be heard against sami'na wa ata'na, 'we hear and we obey', the believers' words in 2:285 near the surah's end: the first word identical, the second its opposite. And the closing sentence, 'wretched is what your faith commands you, if you are believers', is irony. Faith commands no such thing; the verse lets them keep the word 'faith' for one clause and then hangs a condition on it, in kuntum mu'minin, that the whole verse has already shown they fail.",
+            "bn": "আরও দুটো দিক আয়াতের চেহারা গড়ে। ‘সামি’না ওয়া আসাইনা’, ‘আমরা শুনলাম আর অমান্য করলাম’, গড়া হয়েছে ‘সামি’না ওয়া আতা’না’র মুখোমুখি শোনার জন্য, ‘আমরা শুনলাম আর মানলাম’, সূরার শেষের দিকে 2:285 আয়াতে মুমিনদের কথা। প্রথম শব্দ হুবহু এক, দ্বিতীয়টা তার উল্টো। আর শেষ বাক্য, ‘তোমাদের ঈমান যার হুকুম দেয় তা কত নিকৃষ্ট, যদি তোমরা মুমিন হও’, এটা বিদ্রূপ। ঈমান এমন কোনো হুকুম দেয় না। আয়াত তাদের ‘ঈমান’ শব্দটা রাখতে দেয় একটা বাক্যাংশের জন্য, তারপর তাতে একটা শর্ত ঝুলিয়ে দেয়, ‘ইন কুনতুম মু’মিনিন’। গোটা আয়াত এরই মধ্যে দেখিয়ে দিয়েছে, সে শর্তে তারা ফেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Mufassirun Said",
+          "bn": "মুফাসসিররা যা বলেছেন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads 'we hear and we disobey' literally, as words spoken: we heard your saying and disobeyed your command. Others read it as the speech of their conduct rather than of their tongues, since what a people does with a command is the answer it gives. Both readings arrive at the same place, which is why at-Tabari's literal sense has never troubled the other. On the calf, at-Tabari supplies the omitted 'love' and treats the verb as an image of how deeply that love had penetrated, not as a report of any physical drink.",
+            "bn": "তাবারি ‘আমরা শুনলাম আর অমান্য করলাম’ পড়েন আক্ষরিক অর্থে, মুখে বলা কথা হিসেবে: আপনার কথা শুনলাম আর আপনার হুকুম অমান্য করলাম। অন্যরা একে পড়েন জবানের নয়, আচরণের কথা হিসেবে। একটা হুকুম নিয়ে একটা জাতি যা করে, সেটাই তার জবাব। দুই পাঠ একই জায়গায় পৌঁছায়, তাই তাবারির আক্ষরিক অর্থ অন্যটার সাথে কখনো ঠোকাঠুকি করেনি। বাছুর প্রসঙ্গে তাবারি বাদ পড়া ‘ভালোবাসা’ শব্দটা বসান, আর ক্রিয়াপদটাকে ধরেন সেই ভালোবাসা কত গভীরে ঢুকেছিল তার ছবি হিসেবে, কোনো সত্যিকারের পানীয়ের খবর হিসেবে নয়।"
+          },
+          {
+            "en": "Ibn Kathir gathers the early authorities on the phrase. Qatadah said they absorbed its love until that love settled in their hearts, and Abu al-Aliyah and ar-Rabi' ibn Anas said the same. On the closing line Ibn Kathir reads more widely than the words strictly require: the wretched thing their faith commands, he says, includes their whole history of breaking covenants and disbelieving in the signs of Allah, down to their rejection of the final Messenger ﷺ. Commentators such as ash-Shawkani, as noted above, give the speed and reach of a drink as the reason for the image. The commentators differ in reach, not in direction.",
+            "bn": "ইবনে কাসীর এই বাক্যাংশ নিয়ে প্রাথমিক যুগের মতগুলো জড়ো করেন। কাতাদা বলেছেন, তারা এর ভালোবাসা শুষে নিয়েছিল, যতক্ষণ না সে ভালোবাসা তাদের হৃদয়ে থিতু হলো। আবুল আলিয়া আর রাবি ইবনে আনাস একই কথা বলেছেন। শেষ লাইনে ইবনে কাসীর শব্দগুলো যতটা কড়া অর্থে চায়, তার চেয়ে বড় করে পড়েন: তাদের ঈমান যে নিকৃষ্ট কাজের হুকুম দেয়, তাঁর মতে তার ভেতরে পড়ে অঙ্গীকার ভাঙা আর আল্লাহর নিদর্শন অস্বীকারের পুরো ইতিহাস, একেবারে শেষ রাসূল ﷺ-কে প্রত্যাখ্যান পর্যন্ত। শাওকানির মতো মুফাসসিররা, আগে যেমন বলা হলো, পানীয়ের দ্রুত ছড়িয়ে পড়াকেই এই ছবির কারণ বলেছেন। মুফাসসিরদের তফাত পরিধিতে, দিকে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearts Between Two Fingers",
+          "bn": "দুই আঙুলের মাঝে হৃদয়"
+        },
+        "p": [
+          {
+            "en": "No sound hadith is attached in the classical tafsir to the phrase about drinking the calf, and this article will not fill that space with a weak one. What the Sunnah does give is the verse's premise, that hearts can be turned. Muslim narrates from Abdullah ibn Amr (RA) that the Messenger of Allah ﷺ said: the hearts of all the children of Adam are between two of the fingers of the Most Merciful, as one heart, and He turns them wherever He wills. Then he said: O Allah, Turner of hearts, turn our hearts to Your obedience (Muslim 2654).",
+            "bn": "বাছুর পান করানোর এই বাক্যাংশের সাথে ধ্রুপদী তাফসিরে কোনো সহিহ হাদিস জোড়া নেই, আর এই লেখা সে জায়গা কোনো দুর্বল বর্ণনা দিয়ে ভরাবে না। সুন্নাহ যা দেয় তা হলো আয়াতের ভিত্তিটা, হৃদয়কে ঘোরানো যায়। মুসলিমে আবদুল্লাহ ইবনে আমর (রাঃ) বলেন, রাসূলুল্লাহ ﷺ বলেছেন: আদম সন্তানের সব হৃদয় পরম দয়াময়ের দুই আঙুলের মাঝে, যেন একটাই হৃদয়। তিনি যেদিকে চান সেদিকে ঘোরান। তারপর তিনি বললেন: হে আল্লাহ, হৃদয়ের পরিবর্তনকারী, আমাদের হৃদয়কে আপনার আনুগত্যের দিকে ঘুরিয়ে দিন (মুসলিম ২৬৫৪)।"
+          },
+          {
+            "en": "The other half of the verse, hearing without obeying, has its closest echo not in a hadith but in 4:46. There the Quran reports that some of the Jews of Madinah said the very words of the mount, 'we hear and disobey', twisting their tongues, and adds that had they said 'we hear and obey' it would have been better for them and more upright. The verse then names the same cause 2:93 names: Allah cursed them for their disbelief. The answer at the mount was not a lapse of one day; it had become a saying, and the cure was still the two words they would not say.",
+            "bn": "আয়াতের বাকি অর্ধেক, না মেনে শোনা, তার সবচেয়ে কাছের প্রতিধ্বনি কোনো হাদিসে নয়, 4:46 আয়াতে। সেখানে কুরআন জানায়, মদিনার ইহুদিদের কেউ কেউ পাহাড়ের নিচের সেই কথাটাই বলত, ‘আমরা শুনলাম ও অমান্য করলাম’, জিভ বাঁকিয়ে। আর যোগ করে, তারা যদি বলত ‘আমরা শুনলাম ও মেনে নিলাম’, তবে তা তাদের জন্য উত্তম ও সঙ্গত হতো। এরপর আয়াত সেই একই কারণ ধরিয়ে দেয়, যা 2:93 আয়াত ধরিয়েছে: তাদের কুফরির কারণে আল্লাহ তাদের লানত করেছেন। পাহাড়ের নিচের জবাবটা এক দিনের পা পিছলানো ছিল না। সেটা একটা বুলি হয়ে গিয়েছিল। আর ওষুধ তখনো সেই দুটো শব্দই, যা তারা বলতে চায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Its Sisters in the Quran",
+          "bn": "কুরআনে এর সহোদর আয়াত"
+        },
+        "p": [
+          {
+            "en": "2:63 is the first telling of this scene and must be read with it; there the command was to take the Book firmly and remember what is in it, and 2:64 records the turning away. 2:285, at the surah's close, holds the answer the mount was waiting for: the believers say 'we hear and we obey', and the sentence continues into a plea for forgiveness. 20:91 shows the calf's love in the people's own mouths, when they tell Harun (AS) they will not cease being devoted to it until Musa (AS) returns. That is what a heart that has drunk something sounds like.",
+            "bn": "2:63 আয়াত এই দৃশ্যের প্রথম বয়ান, এর সাথে পড়া দরকার। সেখানে হুকুম ছিল কিতাব শক্ত করে ধরো আর তাতে যা আছে স্মরণ রাখো, আর 2:64 আয়াত লিখে রাখে মুখ ফিরিয়ে নেওয়া। 2:285 আয়াত, সূরার শেষে, ধরে রেখেছে সেই জবাব, পাহাড় যার অপেক্ষায় ছিল: মুমিনরা বলে ‘আমরা শুনলাম ও মানলাম’, আর বাক্যটা গড়িয়ে যায় মাফের মিনতিতে। 20:91 আয়াত বাছুরের ভালোবাসাকে দেখায় লোকদের নিজের মুখে, যখন তারা হারুন (আ) কে বলে, মূসা (আ) ফিরে না আসা পর্যন্ত আমরা এর পূজায় লেগেই থাকব। কিছু পান করে ফেলা হৃদয়ের আওয়াজ এমনই হয়।"
+          },
+          {
+            "en": "83:14 gives the neighbouring image: a stain has covered their hearts from what they used to earn, a film that settles on the outside; 2:93 goes one step further in, to what was drunk. 7:152 states the outcome for those who took the calf: anger from their Lord and humiliation in this life, the same disgrace 2:85 promised for believing in part. Read together, the sisters trace a single line: what the heart is filled with governs what the mouth answers, and what the mouth answers governs what follows.",
+            "bn": "83:14 আয়াত পাশের ছবিটা দেয়: তাদের কামাই তাদের হৃদয়ে জং ধরিয়ে দিয়েছে, বাইরে জমে বসা একটা আস্তর। 2:93 আয়াত আরও এক ধাপ ভেতরে যায়, যা পান করা হয়েছে সেখানে। 7:152 আয়াত বলে দেয় যারা বাছুরকে ধরেছিল তাদের পরিণতি: তাদের রবের গজব আর দুনিয়ার জীবনে লাঞ্ছনা, কিছু অংশে ঈমানের জন্য 2:85 আয়াত যে লাঞ্ছনার ওয়াদা করেছিল সেটাই। একসাথে পড়লে সহোদর আয়াতগুলো একটা রেখা টানে: হৃদয়ে যা ভরা থাকে তা ঠিক করে মুখ কী জবাব দেবে, আর মুখের জবাব ঠিক করে এরপর কী আসবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Has My Heart Drunk?",
+          "bn": "আমার হৃদয় কী পান করেছে?"
+        },
+        "p": [
+          {
+            "en": "The verse is about a people at a mountain, and it is about you. Start with the order it gives: the drinking came first, the refusal came out of it. So do not begin with the commands you fail; begin with what your heart is absorbing every day without your permission. Count the hours of screens, the accounts you follow, the person whose approval you check for, the purchase you keep returning to in your mind. None of these is a calf. But whatever is being poured in daily, unnoticed, is what will speak for you when the next command arrives.",
+            "bn": "আয়াতটা এক পাহাড়ের নিচের এক জাতিকে নিয়ে, আর আপনাকে নিয়ে। আয়াত যে ক্রম দিয়েছে তা দিয়ে শুরু করুন: আগে পান করানো, তার ভেতর থেকে অস্বীকার। তাই যে হুকুমে আপনি ফেল করেন তা দিয়ে শুরু করবেন না। শুরু করুন আপনার অনুমতি ছাড়াই রোজ আপনার হৃদয় যা শুষে নিচ্ছে তা দিয়ে। স্ক্রিনের ঘণ্টা গুনুন, যেসব অ্যাকাউন্ট অনুসরণ করেন, যার মন পাওয়ার জন্য বারবার দেখেন, যে কেনাকাটা মনে বারবার ফিরে আসে। এর কোনোটাই বাছুর নয়। কিন্তু রোজ কারও নজরে না পড়ে যা ঢালা হচ্ছে, পরের হুকুম এলে সেটাই আপনার হয়ে কথা বলবে।"
+          },
+          {
+            "en": "Then practise the other formula. The next time a verse or a hadith reaches you with a command you did not want, say 'we hear and we obey' aloud, and do one small thing towards it within the hour: a message sent, a subscription cancelled, a debt repaid in part, a prayer moved earlier. Obedience acted on immediately after hearing is what keeps hearing from decaying into the Israelites' answer. And pour something in on purpose: a fixed daily portion of the Quran, taken firmly, as the mount commanded, so that the heart has been drinking that before anything else is offered.",
+            "bn": "তারপর অন্য বাক্যটা অভ্যাস করুন। পরের বার কোনো আয়াত বা হাদিস এমন কোনো হুকুম নিয়ে আপনার কাছে পৌঁছালে, যা আপনি চাননি, জোরে বলুন ‘আমরা শুনলাম ও মানলাম’। আর এক ঘণ্টার ভেতরে সেদিকে ছোট একটা কাজ করুন: একটা বার্তা পাঠানো, একটা সাবস্ক্রিপশন বন্ধ করা, ঋণের কিছুটা শোধ করা, নামায একটু আগে পড়া। শোনার ঠিক পরেই কাজে নামা আনুগত্যই শোনাকে বানী ইসরাঈলের জবাবে পচে যাওয়া থেকে বাঁচায়। আর ইচ্ছা করে কিছু ঢালুন: কুরআনের বাঁধা একটা দৈনিক অংশ, শক্ত করে ধরা, পাহাড়ের নিচে যেমন হুকুম ছিল। যাতে অন্য কিছু সামনে আসার আগেই হৃদয় সেটা পান করে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turner of Hearts",
+          "bn": "হৃদয়ের পরিবর্তনকারী"
+        },
+        "p": [
+          {
+            "en": "The du'a for this verse is the one the Prophet ﷺ attached to his own words about hearts. In Muslim's narration from Abdullah ibn Amr (RA), after saying that hearts are between two fingers of the Most Merciful, he said: Allahumma musarrifal-qulub, sarrif qulubana 'ala ta'atik, 'O Allah, Turner of hearts, turn our hearts to Your obedience' (Muslim 2654). It asks for exactly what 2:93 says the Israelites lacked, a heart turned towards obeying rather than towards the calf, and it asks it from the only One who turns hearts.",
+            "bn": "এই আয়াতের দোয়া সেটাই, যা নবী ﷺ হৃদয় নিয়ে নিজের কথার সাথে জুড়ে দিয়েছিলেন। মুসলিমে আবদুল্লাহ ইবনে আমর (রাঃ)-এর বর্ণনায়, হৃদয় পরম দয়াময়ের দুই আঙুলের মাঝে বলার পর তিনি বলেন: ‘আল্লাহুম্মা মুসাররিফাল-কুলুব, সাররিফ কুলুবানা আলা তা’আতিক’, ‘হে আল্লাহ, হৃদয়ের পরিবর্তনকারী, আমাদের হৃদয়কে আপনার আনুগত্যের দিকে ঘুরিয়ে দিন’ (মুসলিম ২৬৫৪)। 2:93 আয়াত বলছে বানী ইসরাঈলের যা ছিল না, এই দোয়া ঠিক সেটাই চায়, বাছুরের দিকে নয়, মানার দিকে ফেরানো হৃদয়। আর চায় একমাত্র তাঁর কাছে, যিনি হৃদয় ঘোরান।"
+          },
+          {
+            "en": "A supplication in the verse's own vocabulary, composed here and not narrated, may follow it: 'O Allah, do not let my heart be made to drink anything but Your love and the love of what You love. Let me take what You have given me with determination, and when I hear, let me obey. Empty from my heart every calf that has settled there, and do not let my faith command me to anything You hate.' Say the Sunnah du'a first; the composed one only names, in the verse's words, what the Sunnah du'a already asks.",
+            "bn": "এর পরে আয়াতের নিজের শব্দে একটা দোয়া বলা যায়। এটা রচিত, কোনো বর্ণনা নয়: ‘হে আল্লাহ, আমার হৃদয়কে আপনার ভালোবাসা আর আপনি যা ভালোবাসেন তার ভালোবাসা ছাড়া আর কিছু পান করাবেন না। আপনি যা দিয়েছেন তা আমাকে দৃঢ়ভাবে ধরতে দিন, আর যখন শুনি, তখন মানতে দিন। আমার হৃদয়ে থিতু হয়ে বসা প্রতিটি বাছুর খালি করে দিন। আর আমার ঈমানকে এমন কিছুর হুকুম দিতে দেবেন না, যা আপনি ঘৃণা করেন।’ সুন্নাহর দোয়াটা আগে বলুন। রচিত দোয়াটা শুধু আয়াতের শব্দে নাম ধরে বলে, সুন্নাহর দোয়া এমনিতেই যা চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions to Carry",
+          "bn": "সাথে রাখার প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Which command have I heard clearly, many times, and answered with my life in the words 'we hear and we disobey', without ever saying them? The verse explains the refusal by the drinking. What has my heart been given to drink this year, and who poured it? If my choices over the last month were read back as the commands of my faith, what would a listener conclude my faith is?",
+            "bn": "কোন হুকুম আমি পরিষ্কার শুনেছি, বহুবার, আর মুখে না বলেও জীবন দিয়ে জবাব দিয়েছি ‘আমরা শুনলাম আর অমান্য করলাম’? আয়াত অস্বীকারটা বুঝিয়েছে পান করানো দিয়ে। এ বছর আমার হৃদয়কে কী পান করতে দেওয়া হয়েছে, আর ঢেলেছে কে? গত এক মাসের আমার পছন্দগুলো যদি আমার ঈমানের হুকুম হিসেবে পড়ে শোনানো হয়, শ্রোতা কী ধরে নেবে আমার ঈমান কী?"
+          },
+          {
+            "en": "4:46 says it would have been better for them to have said 'we hear and we obey'. When did I last say that to a command I disliked, and how long ago was that? The Prophet ﷺ, who knew hearts are turned by Allah, still asked for his to be turned. If he asked, what stops me from asking every day, and from naming in that du'a the one calf, the one thing my heart has settled on, that I could name honestly tonight?",
+            "bn": "4:46 আয়াত বলছে, ‘আমরা শুনলাম ও মেনে নিলাম’ বললে তা তাদের জন্য উত্তম হতো। ভালো না লাগা কোনো হুকুমকে আমি শেষ কবে এই কথাটা বলেছি, আর সেটা কতদিন আগে? নবী ﷺ জানতেন হৃদয় আল্লাহই ঘোরান, তবু নিজের হৃদয় ঘোরানোর জন্য চাইতেন। তিনি চাইলে আমাকে রোজ চাইতে কী আটকায়, আর সেই চাওয়ার ভেতরে একটা বাছুরের নাম নিতে, যার ওপর আমার হৃদয় থিতু হয়ে বসেছে আর আজ রাতেই যার নাম আমি সৎভাবে বলতে পারি?"
+          }
+        ]
+      }
+    ]
+  },
   "2:128": {
     "sections": [
       {

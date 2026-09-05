@@ -165,8 +165,12 @@ class DashboardView {
   }
 
   companionCard() {
-    if (typeof SAHABA_DATA === 'undefined' || !Array.isArray(SAHABA_DATA) || !SAHABA_DATA.length) return '';
-    const c = this.pick(SAHABA_DATA);
+    /* The full dataset is a lazy bundle; the generated index (js/sahaba-index.js)
+     * carries just what this card needs, so it renders on every visit. */
+    const list = (typeof SAHABA_DATA !== 'undefined' && Array.isArray(SAHABA_DATA) && SAHABA_DATA.length) ? SAHABA_DATA
+      : ((typeof SAHABA_INDEX !== 'undefined' && Array.isArray(SAHABA_INDEX) && SAHABA_INDEX.length) ? SAHABA_INDEX : null);
+    if (!list) return '';
+    const c = this.pick(list);
     const name = this.language === 'bn' ? (c.bn || c.en) : c.en;
     const role = this.language === 'bn' ? (c.roleBn || c.roleEn) : (this.L({ en: c.roleEn, bn: c.roleBn }));
     return this.card(`

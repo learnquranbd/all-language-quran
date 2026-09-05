@@ -556,7 +556,7 @@ class NuzulView {
           </div>
           ${r ? `<div class="flex-shrink-0 text-center">
             <div class="w-14 h-14 rounded-full bg-emerald-50 dark:bg-emerald-900/40 text-emerald-700 dark:text-emerald-300 flex items-center justify-center text-xl font-bold">${r.order}</div>
-            <div class="text-[0.6rem] text-gray-500 dark:text-gray-400 mt-1 leading-tight">${this.esc(this.lc({ en: 'revealed<br>of 114', bn: 'অবতীর্ণ<br>১১৪-এর' }))}</div>
+            <div class="text-[0.6rem] text-gray-500 dark:text-gray-400 mt-1 leading-tight">${this.esc(this.lc({ en: 'revealed', bn: 'অবতীর্ণ' }))}<br>${this.esc(this.lc({ en: 'of 114', bn: '১১৪-এর' }))}</div>
           </div>` : ''}
         </div>
         ${ph ? `<div class="mt-3 pt-3 border-t border-gray-100 dark:border-gray-700 flex items-start gap-2">
