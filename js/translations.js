@@ -1364,7 +1364,7 @@ const TRANSLATIONS = {
    "vocab_by_level": "Progress by level",
    "vocab_suggest": "Study the 50 words that add the most coverage",
    "vocab_streak": "day streak",
-   "tadabbur_intro": "Every reflection-worthy ayah in one place — each with a short reflection, points to ponder and a practical takeaway. Filter by theme, search, or switch to timeline view.",
+   "tadabbur_intro": "Every reflection-worthy ayah in one place — each with a short reflection, points to ponder and a practical takeaway. Filter by theme, search, or tap any verse to open its full reflection and article.",
    "tadabbur_search_ph": "Search surah or reference…",
    "tadabbur_none": "No verses match your search.",
    "tad_reflection": "Reflection",

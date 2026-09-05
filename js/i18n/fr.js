@@ -26,7 +26,7 @@
  "vocab_by_level": "Progression par niveau",
  "vocab_suggest": "Étudiez les 50 mots qui ajoutent le plus de couverture",
  "vocab_streak": "jours d'affilée",
- "tadabbur_intro": "Chaque verset propice à la réflexion au même endroit — avec une courte réflexion, des points de méditation et un enseignement pratique. Filtrez par thème, recherchez ou passez en vue chronologie.",
+ "tadabbur_intro": "Chaque verset propice à la réflexion au même endroit — avec une courte réflexion, des points de méditation et un enseignement pratique. Filtrez par thème, recherchez ou touchez un verset pour ouvrir sa réflexion complète et son article.",
  "tadabbur_search_ph": "Rechercher une sourate ou une référence…",
  "tadabbur_none": "Aucun verset ne correspond à votre recherche.",
  "tad_reflection": "Réflexion",

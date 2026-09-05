@@ -26,7 +26,7 @@
  "vocab_by_level": "Seviyeye göre ilerleme",
  "vocab_suggest": "Kapsamı en çok artıran 50 kelimeyi çalışın",
  "vocab_streak": "günlük seri",
- "tadabbur_intro": "Tefekküre değer her ayet tek yerde — kısa bir tefekkür, düşünülecek noktalar ve pratik bir çıkarımla. Temaya göre süzün, arayın veya zaman çizelgesine geçin.",
+ "tadabbur_intro": "Tefekküre değer her ayet tek yerde — kısa bir tefekkür, düşünülecek noktalar ve pratik bir çıkarımla. Temaya göre süzün, arayın veya herhangi bir ayete dokunarak tam tefekkürünü ve makalesini açın.",
  "tadabbur_search_ph": "Sure veya referans ara…",
  "tadabbur_none": "Aramanızla eşleşen ayet yok.",
  "tad_reflection": "Tefekkür",

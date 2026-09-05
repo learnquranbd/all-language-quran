@@ -26,7 +26,7 @@
  "vocab_by_level": "Kemajuan per tingkat",
  "vocab_suggest": "Pelajari 50 kata yang paling menambah cakupan",
  "vocab_streak": "hari beruntun",
- "tadabbur_intro": "Setiap ayat yang layak direnungkan dalam satu tempat — dengan renungan singkat, poin untuk direnungkan, dan pelajaran praktis. Saring menurut tema, cari, atau beralih ke tampilan linimasa.",
+ "tadabbur_intro": "Setiap ayat yang layak direnungkan dalam satu tempat — dengan renungan singkat, poin untuk direnungkan, dan pelajaran praktis. Saring menurut tema, cari, atau ketuk ayat mana pun untuk membuka renungan dan artikel lengkapnya.",
  "tadabbur_search_ph": "Cari surah atau rujukan…",
  "tadabbur_none": "Tidak ada ayat yang cocok dengan pencarian Anda.",
  "tad_reflection": "Renungan",

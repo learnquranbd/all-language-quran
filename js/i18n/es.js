@@ -26,7 +26,7 @@
  "vocab_by_level": "Progreso por nivel",
  "vocab_suggest": "Estudia las 50 palabras que más cobertura añaden",
  "vocab_streak": "días seguidos",
- "tadabbur_intro": "Cada versículo digno de reflexión en un solo lugar — con una breve reflexión, puntos para meditar y una enseñanza práctica. Filtra por tema, busca o cambia a la vista de cronología.",
+ "tadabbur_intro": "Cada versículo digno de reflexión en un solo lugar — con una breve reflexión, puntos para meditar y una enseñanza práctica. Filtra por tema, busca o toca cualquier versículo para abrir su reflexión completa y su artículo.",
  "tadabbur_search_ph": "Buscar sura o referencia…",
  "tadabbur_none": "Ningún versículo coincide con tu búsqueda.",
  "tad_reflection": "Reflexión",

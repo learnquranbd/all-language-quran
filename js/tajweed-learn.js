@@ -90,7 +90,23 @@ class TajweedLearn {
   ruleName(k) {
     const l = TAJWEED_LESSONS[k] || {};
     if (l.names && l.names[this.language]) return l.names[this.language];
-    return ((typeof TAJWEED_RULES !== 'undefined' && TAJWEED_RULES[k]) || {}).label || k;
+    const lbl = ((typeof TAJWEED_RULES !== 'undefined' && TAJWEED_RULES[k]) || {}).label;
+    if (lbl) return lbl;
+    /* 21 lesson keys have Bengali/Arabic names but no English label anywhere, so
+     * every non-Bengali reader saw raw keys like "izhar_halqi" in the path, the
+     * rules list and the drill answers. Curated English here; a readable
+     * title-cased key is the last resort so a new key can never leak raw. */
+    const EN = {
+      lam_qamariyyah: 'Lam Qamariyyah', lam_shamsiyyah: 'Lam Shamsiyyah', hamzat_qat: 'Hamzat al-Qat\u2018', hamzat_wasl: 'Hamzat al-Wasl',
+      izhar_halqi: 'Izhar Halqi', izhar_mutlaq: 'Izhar Mutlaq', izhar_shafawi: 'Izhar Shafawi', ikhfa_shafawi: 'Ikhfa Shafawi',
+      idgham_shafawi: 'Idgham Shafawi', madd_aridh: 'Madd Aridh li-s-Sukun', madd_lin: 'Madd Lin', madd_badal: 'Madd Badal',
+      madd_iwad: 'Madd Iwad', madd_silah: 'Madd Silah', madd_farq: 'Madd Farq', madd_tamkin: 'Madd Tamkin', madd_lazim: 'Madd Lazim',
+      ghunnah_maratib: 'Levels of Ghunnah', ra_tafkhim: 'Ra Tafkhim (Heavy Ra)', ra_tarqiq: 'Ra Tarqiq (Light Ra)',
+      lafz_jalalah: 'Lafz al-Jalalah (Allah)', tafkhim_istila: 'Tafkhim of the Isti\u2018la Letters', tarqiq_lam: 'Tarqiq of Lam',
+      ha_sakt: 'Ha as-Sakt', idghaam_mutamathilayn: 'Idgham Mutamathilayn', idgham_mutajanisayn: 'Idgham Mutajanisayn',
+      idgham_mutaqaribayn: 'Idgham Mutaqaribayn', waqf_ibtida: 'Waqf and Ibtida (Stopping and Starting)', sakt: 'Sakt (Brief Pause)',
+    };
+    return EN[k] || String(k).replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
   }
 
   bindOnce() {

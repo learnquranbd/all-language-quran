@@ -26,7 +26,7 @@ const SETS = [
   { key: 'tadabbur', loader: loadTadabburArticles, label: 'tadabbur verses', maxWords: 2000 },
 ];
 
-const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?![\d:.-])/g;
+const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?![\d:-]|\.\d)/g;
 const problems = [];
 const counts = [];
 

@@ -317,6 +317,10 @@ const QuranData = {
   async buildLocalRange(surah, startAyah, endAyah, lang) {
     try {
       const trId = this.translationId(lang);          // null for Arabic UI (no translation line)
+      // A reader-chosen translation source (settings drawer) is not in the bundled
+      // file; returning null sends fetchRange to the API, which honours the id.
+      // Without this the override was saved but the text never changed.
+      if (trId && (lang in this.TRANSLATION_IDS) && String(trId) !== String(this.TRANSLATION_IDS[lang])) return null;
       const wbwLang = this.wbwLang(lang);
       const [base, words, translations, wbw] = await Promise.all([
         this.getVerseBase(),

@@ -46,7 +46,7 @@ const validIds = new Set(Array.isArray(subjects) ? subjects.map((s) => s.id) : O
 if (!validIds.size) { console.error(`${subjArr} in ${subjRel} yielded no subject ids`); process.exit(1); }
 const existing = sharded ? loadTadabburArticles() : (get(load(targetRel), objName) || {});
 const problems = [];
-const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?![\d:.-])/g;
+const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?![\d:-]|\.\d)/g;
 
 let words = 0, paras = 0, refs = 0;
 for (const [id, entry] of Object.entries(chunk)) {

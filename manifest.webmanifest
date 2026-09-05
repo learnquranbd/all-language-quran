@@ -2,12 +2,16 @@
   "name": "Learn Quran — Multi-Language",
   "short_name": "Learn Quran",
   "description": "Multi-language Quran reader with Tafseer, Word by Word, Grammar, Audio and offline study tools.",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
+  "id": "./",
   "display": "standalone",
   "background_color": "#f9fafb",
-  "theme_color": "#1e40af",
-  "categories": ["education", "books"],
+  "theme_color": "#6366f1",
+  "categories": [
+    "education",
+    "books"
+  ],
   "icons": [
     {
       "src": "icons/icon-192.png",

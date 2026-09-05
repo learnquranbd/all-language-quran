@@ -38,3 +38,4 @@ opencode.json
 .firebase/
 firebase-debug.log
 .firebaserc.local
+qa/

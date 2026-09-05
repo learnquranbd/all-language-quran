@@ -26,7 +26,7 @@
  "vocab_by_level": "Fortschritt nach Stufe",
  "vocab_suggest": "Lernen Sie die 50 Wörter mit dem größten Abdeckungszuwachs",
  "vocab_streak": "Tage in Folge",
- "tadabbur_intro": "Jeder zum Nachdenken anregende Vers an einem Ort — mit einer kurzen Reflexion, Denkanstößen und einer praktischen Kernaussage. Nach Thema filtern, suchen oder zur Zeitleiste wechseln.",
+ "tadabbur_intro": "Jeder zum Nachdenken anregende Vers an einem Ort — mit einer kurzen Reflexion, Denkanstößen und einer praktischen Kernaussage. Nach Thema filtern, suchen oder einen Vers antippen, um seine vollständige Reflexion und den Artikel zu öffnen.",
  "tadabbur_search_ph": "Sure oder Referenz suchen…",
  "tadabbur_none": "Keine Verse entsprechen Ihrer Suche.",
  "tad_reflection": "Reflexion",

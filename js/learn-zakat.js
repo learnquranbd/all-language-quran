@@ -250,6 +250,10 @@ class ZakatModule {
               <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">${L({ en: 'Silver Value', bn: 'রূপার মূল্য' })}</label>
               <input type="number" id="zakat-silver" class="w-full px-3 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-800 dark:text-gray-100 text-sm focus:outline-none focus:ring-2 focus:ring-teal-500" placeholder="0" min="0" step="0.01">
             </div>
+            <div>
+              <label class="block text-xs font-medium text-gray-600 dark:text-gray-300 mb-1" dir="auto">${L({ en: 'Nisab (value of 595 g silver or 85 g gold, in your currency)', bn: 'নেসাব (আপনার মুদ্রায় ৫৯৫ গ্রাম রুপা বা ৮৫ গ্রাম সোনার মূল্য)' })}</label>
+              <input type="number" id="zakat-nisab" class="w-full px-3 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-800 dark:text-gray-100 text-sm focus:outline-none focus:ring-2 focus:ring-teal-500" placeholder="0" min="0" step="0.01">
+            </div>
             <button type="button" id="zakat-calc-btn" class="w-full px-4 py-2.5 rounded-lg bg-teal-600 hover:bg-teal-700 text-white font-medium text-sm transition-colors">${L({ en: 'Calculate Zakat', bn: 'যাকাত গণনা করুন' })}</button>
             <div id="zakat-result" class="p-3 rounded-xl bg-gray-50 dark:bg-gray-900/40 border border-gray-200 dark:border-gray-700 text-center hidden">
               <div class="text-sm text-gray-500 dark:text-gray-400">${L({ en: 'Your estimated zakat:', bn: 'আপনার আনুমানিক যাকাত:' })}</div>
@@ -650,13 +654,23 @@ class ZakatModule {
     const calcAmount = this.root.querySelector('#zakat-amount');
 
     if (calcBtn && calcCash && calcGold && calcSilver && calcResult && calcAmount) {
+      const calcNisab = this.root.querySelector('#zakat-nisab');
       calcBtn.addEventListener('click', () => {
         const cash = parseFloat(calcCash.value) || 0;
         const gold = parseFloat(calcGold.value) || 0;
         const silver = parseFloat(calcSilver.value) || 0;
+        const nisab = calcNisab ? (parseFloat(calcNisab.value) || 0) : 0;
         const total = cash + gold + silver;
-        const zakat = total * 0.025;
+        /* Zakat is due only at or above the nisab, as this same page teaches;
+         * the calculator used to charge 2.5% on any amount at all. */
+        const due = nisab > 0 && total < nisab;
+        const zakat = due ? 0 : total * 0.025;
         calcAmount.textContent = zakat.toFixed(2);
+        let note = calcResult.querySelector('[data-zakat-note]');
+        if (!note) { note = document.createElement('p'); note.setAttribute('data-zakat-note', ''); note.className = 'text-xs text-gray-500 dark:text-gray-400 mt-1'; note.setAttribute('dir', 'auto'); calcResult.appendChild(note); }
+        note.textContent = due
+          ? L({ en: 'Below the nisab you entered, so no zakat is due this year.', bn: 'আপনার দেওয়া নেসাবের নিচে, তাই এ বছর যাকাত ফরজ নয়।' })
+          : (nisab > 0 ? '' : L({ en: 'Enter your nisab above to check whether zakat is due at all.', bn: 'যাকাত আদৌ ফরজ কি না জানতে উপরে নেসাব লিখুন।' }));
         calcResult.classList.remove('hidden');
       });
     }

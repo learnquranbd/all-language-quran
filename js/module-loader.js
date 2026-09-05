@@ -188,7 +188,9 @@ LQ.ready(function () {
   };
   document.addEventListener('click', function onFirst(e) {
     if (!e.target || !e.target.closest) return;
-    if (e.target.closest('[data-ayah-ref], [data-open-ayah], [data-nav-ayah]')) {
+    /* Every kind of verse chip that opens the modal, not only autolinks: the
+     * dashboard, Surah Names, Hope, the timeline and Amal all have their own. */
+    if (e.target.closest('[data-ayah-ref], [data-open-ayah], [data-nav-ayah], [data-dash-ayah], [data-sn-ayah], [data-hope-ref], [data-at-ref], [data-amal-preview], [data-tad-ref]')) {
       document.removeEventListener('click', onFirst, true);
       trigger();
     }

@@ -20,21 +20,21 @@
 // In-module en-first fallbacks for the few strings not in translations.js.
 const TADABBUR_I18N = {
   tadabbur_intro: {
-    en: 'Every reflection-worthy ayah in one place — each with a short reflection, points to ponder and a practical takeaway. Filter by theme, search, or switch to timeline view.',
-    bn: 'এক জায়গায় সব চিন্তা-উদ্দীপক আয়াত — প্রতিটির সাথে সংক্ষিপ্ত অনুধাবন, ভাবনার বিষয় ও একটি বাস্তব শিক্ষা। থিম অনুযায়ী বাছুন, খুঁজুন বা টাইমলাইন ভিউতে যান।',
-    ar: 'كل آية جديرة بالتدبر في مكان واحد — مع تأمل قصير ونقاط للتفكر ودرس عملي. صفِّ حسب الموضوع، أو ابحث، أو انتقل إلى العرض الزمني.',
-    ur: 'ہر قابلِ تدبر آیت ایک جگہ — ہر ایک کے ساتھ مختصر غور، سوچنے کی باتیں اور ایک عملی سبق۔ موضوع سے چھانٹیں، تلاش کریں یا ٹائم لائن پر جائیں۔',
-    id: 'Setiap ayat yang layak direnungkan dalam satu tempat — dengan renungan singkat, poin untuk direnungkan, dan pelajaran praktis. Saring menurut tema, cari, atau beralih ke tampilan linimasa.',
-    tr: 'Tefekküre değer her ayet tek yerde — kısa bir tefekkür, düşünülecek noktalar ve pratik bir çıkarımla. Temaya göre süzün, arayın veya zaman çizelgesine geçin.',
-    fr: 'Chaque verset propice à la réflexion au même endroit — avec une courte réflexion, des points de méditation et un enseignement pratique. Filtrez par thème, recherchez ou passez en vue chronologie.',
-    es: 'Cada versículo digno de reflexión en un solo lugar — con una breve reflexión, puntos para meditar y una enseñanza práctica. Filtra por tema, busca o cambia a la vista de cronología.',
-    ru: 'Каждый достойный размышления аят в одном месте — с кратким размышлением, вопросами для раздумья и практическим выводом. Фильтруйте по теме, ищите или переключитесь на хронологию.',
-    fa: 'هر آیهٔ درخور تدبر در یک جا — همراه با تأملی کوتاه، نکاتی برای اندیشیدن و درسی عملی. بر اساس موضوع فیلتر کنید، جستجو کنید یا به نمای خط زمانی بروید.',
-    hi: 'हर चिंतन-योग्य आयत एक ही जगह — प्रत्येक के साथ संक्षिप्त चिंतन, विचारणीय बिंदु और एक व्यावहारिक सीख। विषय से छाँटें, खोजें या टाइमलाइन दृश्य पर जाएँ।',
-    de: 'Jeder zum Nachdenken anregende Vers an einem Ort — mit einer kurzen Reflexion, Denkanstößen und einer praktischen Kernaussage. Nach Thema filtern, suchen oder zur Zeitleiste wechseln.',
-    ms: 'Setiap ayat yang wajar direnung di satu tempat — dengan renungan ringkas, perkara untuk direnung dan pengajaran praktikal. Tapis mengikut tema, cari, atau tukar ke paparan garis masa.',
-    zh: '所有值得深思的经文汇于一处——每节都附有简短的深思、思考要点和实用启示。按主题筛选、搜索，或切换到时间线视图。',
-    ja: '熟考に値するすべての節を一か所に——各節に短い熟考、考える点、実践的な学びを添えて。テーマで絞り込み、検索し、タイムライン表示に切り替えられます。'
+    en: 'Every reflection-worthy ayah in one place — each with a short reflection, points to ponder and a practical takeaway. Filter by theme, search, or tap any verse to open its full reflection and article.',
+    bn: 'এক জায়গায় সব চিন্তা-উদ্দীপক আয়াত — প্রতিটির সাথে সংক্ষিপ্ত অনুধাবন, ভাবনার বিষয় ও একটি বাস্তব শিক্ষা। থিম অনুযায়ী বাছুন, খুঁজুন, বা যেকোনো আয়াতে চাপ দিয়ে পুরো অনুধাবন ও নিবন্ধ পড়ুন।',
+    ar: 'كل آية جديرة بالتدبر في مكان واحد — مع تأمل قصير ونقاط للتفكر ودرس عملي. صفِّ حسب الموضوع، أو ابحث، أو انقر أي آية لفتح تدبرها الكامل والمقال.',
+    ur: 'ہر قابلِ تدبر آیت ایک جگہ — ہر ایک کے ساتھ مختصر غور، سوچنے کی باتیں اور ایک عملی سبق۔ موضوع سے چھانٹیں، تلاش کریں، یا کسی بھی آیت پر ٹیپ کر کے مکمل تدبر اور مضمون کھولیں۔',
+    id: 'Setiap ayat yang layak direnungkan dalam satu tempat — dengan renungan singkat, poin untuk direnungkan, dan pelajaran praktis. Saring menurut tema, cari, atau ketuk ayat mana pun untuk membuka renungan dan artikel lengkapnya.',
+    tr: 'Tefekküre değer her ayet tek yerde — kısa bir tefekkür, düşünülecek noktalar ve pratik bir çıkarımla. Temaya göre süzün, arayın veya herhangi bir ayete dokunarak tam tefekkürünü ve makalesini açın.',
+    fr: 'Chaque verset propice à la réflexion au même endroit — avec une courte réflexion, des points de méditation et un enseignement pratique. Filtrez par thème, recherchez ou touchez un verset pour ouvrir sa réflexion complète et son article.',
+    es: 'Cada versículo digno de reflexión en un solo lugar — con una breve reflexión, puntos para meditar y una enseñanza práctica. Filtra por tema, busca o toca cualquier versículo para abrir su reflexión completa y su artículo.',
+    ru: 'Каждый достойный размышления аят в одном месте — с кратким размышлением, вопросами для раздумья и практическим выводом. Фильтруйте по теме, ищите или нажмите на любой аят, чтобы открыть его полное размышление и статью.',
+    fa: 'هر آیهٔ درخور تدبر در یک جا — همراه با تأملی کوتاه، نکاتی برای اندیشیدن و درسی عملی. بر اساس موضوع فیلتر کنید، جستجو کنید یا روی هر آیه بزنید تا تدبر کامل و مقالهٔ آن باز شود.',
+    hi: 'हर चिंतन-योग्य आयत एक ही जगह — प्रत्येक के साथ संक्षिप्त चिंतन, विचारणीय बिंदु और एक व्यावहारिक सीख। विषय से छाँटें, खोजें या किसी भी आयत पर टैप करके उसका पूरा चिंतन और लेख खोलें।',
+    de: 'Jeder zum Nachdenken anregende Vers an einem Ort — mit einer kurzen Reflexion, Denkanstößen und einer praktischen Kernaussage. Nach Thema filtern, suchen oder einen Vers antippen, um seine vollständige Reflexion und den Artikel zu öffnen.',
+    ms: 'Setiap ayat yang wajar direnung di satu tempat — dengan renungan ringkas, perkara untuk direnung dan pengajaran praktikal. Tapis mengikut tema, cari, atau ketik mana-mana ayat untuk membuka renungan penuh dan artikelnya.',
+    zh: '所有值得深思的经文汇于一处——每节都附有简短的深思、思考要点和实用启示。按主题筛选、搜索，或点击任意经文打开完整的深思与文章。',
+    ja: '熟考に値するすべての節を一か所に——各節に短い熟考、考える点、実践的な学びを添えて。テーマで絞り込み、検索し、または任意の節をタップして完全な熟考と記事を開けます。'
   },
   tadabbur_search_ph: {
     en: 'Search surah or reference…', bn: 'সূরা বা রেফারেন্স খুঁজুন…', ar: 'ابحث عن سورة أو مرجع…',

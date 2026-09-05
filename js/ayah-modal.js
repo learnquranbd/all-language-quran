@@ -241,10 +241,26 @@ class AyahModal {
     return best.len >= Math.min(2, p.length) ? best : null;
   }
 
+  /** Repaint the open verse so a Tadabbur note that arrived late shows up. */
+  refreshTadabbur() {
+    try {
+      if (!this._open || !this._st || !this.overlay || this.overlay.classList.contains('hidden')) return;
+      this.renderBody();
+    } catch (_) { /* the verse is already on screen; the note is optional */ }
+  }
+
   async open(ref, opts) {
     opts = opts || {};
     this._req = ref;
     this.ensure();
+    /* The reflection lives in the lazily loaded Tadabbur bundle. Ask for it on
+     * every open (a no-op once loaded) rather than relying on which chip was
+     * tapped, and repaint when it lands. */
+    try {
+      if (typeof TADABBUR_NOTES === 'undefined' && window.LQ && LQ.Modules && LQ.Modules.load) {
+        LQ.Modules.load('tadabbur').then(() => { if (this._req === ref) this.refreshTadabbur(); }).catch(() => {});
+      }
+    } catch (_) { /* optional */ }
     if (!this._open) { this._lastFocus = document.activeElement; this._open = true; }
     this.overlay.classList.remove('hidden'); this.overlay.classList.add('flex');
     this.titleEl.textContent = ref;
@@ -711,7 +727,9 @@ class AyahModal {
 }
 
 let ayahModal;
-document.addEventListener('DOMContentLoaded', () => { ayahModal = new AyahModal(); });
+/* Exposed on window as well: a top-level `let` is a global lexical binding, not
+ * a window property, and two callers read window.ayahModal. */
+document.addEventListener('DOMContentLoaded', () => { ayahModal = new AyahModal(); window.ayahModal = ayahModal; });
 
 /**
  * Shared helper: close a modal overlay when Escape is pressed while it is visible.

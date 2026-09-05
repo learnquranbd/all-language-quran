@@ -33,7 +33,7 @@ const notes = get(load(NOTES_FILE), 'TADABBUR_NOTES') || {};
 const poolSb = load(POOL_FILE);
 const pool = get(poolSb, 'PONDER_REFS') || [];
 const themes = get(poolSb, 'PONDER_THEMES') || {};
-const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?![\d:.-])/g;
+const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?![\d:-]|\.\d)/g;
 const problems = [];
 const wc = (s) => String(s || '').split(/\s+/).filter(Boolean).length;
 

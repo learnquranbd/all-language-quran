@@ -121,7 +121,7 @@ class HajjModule {
         </div>
 
         <div class="rounded-2xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-5">
-          <h3 class="font-bold text-gray-800 dark:text-gray-100 mb-3 flex items-center gap-2">📿 ${T('learn_hajj_talbiyah') || L({ en: 'Talbiyah', bn: 'তালবিয়া' })}</h3>
+          <h3 class="font-bold text-gray-800 dark:text-gray-100 mb-3 flex items-center gap-2">📿 ${L({ en: 'Talbiyah', bn: 'তালবিয়া' })}</h3>
           <div class="p-3 rounded-xl bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-100 dark:border-emerald-900/40">
             <p class="text-lg text-emerald-800 dark:text-emerald-200 leading-relaxed text-center" dir="rtl">لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ</p>
             <p class="text-sm text-emerald-700 dark:text-emerald-300 mt-2 italic text-center">Labbayka Allāhumma labbayk, labbayka lā sharīka laka labbayk, inna al-ḥamda wan-ni'mata laka wal-mulk, lā sharīka laka.</p>

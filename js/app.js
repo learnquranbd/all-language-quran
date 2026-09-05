@@ -267,11 +267,14 @@ class QuranApp {
       ));
 
       this.ayahData = rangeResults.flat();
-      this.renderAyahs();
 
-      // Update URL hash — flag it so the resulting 'hashchange' doesn't reload again
+      // Update URL hash BEFORE rendering — flag it so the resulting 'hashchange'
+      // doesn't reload again. Order matters: renderAyahs fires 'ayahsLoaded', and
+      // the continue-reading bookmark reads the hash from inside that event; with
+      // the hash written afterwards it recorded the PREVIOUS location.
       this._writingHash = rangeStr;
       window.location.hash = rangeStr;
+      this.renderAyahs();
 
     } catch (error) {
       console.error('Error loading ayahs:', error);

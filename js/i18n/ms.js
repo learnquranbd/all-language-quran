@@ -26,7 +26,7 @@
  "vocab_by_level": "Kemajuan mengikut tahap",
  "vocab_suggest": "Pelajari 50 perkataan yang paling menambah liputan",
  "vocab_streak": "hari berturut-turut",
- "tadabbur_intro": "Setiap ayat yang wajar direnung di satu tempat — dengan renungan ringkas, perkara untuk direnung dan pengajaran praktikal. Tapis mengikut tema, cari, atau tukar ke paparan garis masa.",
+ "tadabbur_intro": "Setiap ayat yang wajar direnung di satu tempat — dengan renungan ringkas, perkara untuk direnung dan pengajaran praktikal. Tapis mengikut tema, cari, atau ketik mana-mana ayat untuk membuka renungan penuh dan artikelnya.",
  "tadabbur_search_ph": "Cari surah atau rujukan…",
  "tadabbur_none": "Tiada ayat sepadan dengan carian anda.",
  "tad_reflection": "Renungan",

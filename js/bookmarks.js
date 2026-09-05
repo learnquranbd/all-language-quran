@@ -163,8 +163,14 @@ class Bookmarks {
     const first = ayahs[0];
     const last = ayahs[ayahs.length - 1];
     const name = this.localSurahName(first.surah);
-    const range = ayahs.length > 1 ? `${first.ayah}–${last.ayah}` : `${first.ayah}`;
-    const label = `${name} ${range}`.trim();
+    let label;
+    if (ayahs.length > 1 && first.surah !== last.surah) {
+      // A multi-surah load: "Al-Fatiha 1 … Al-Baqarah 141", not "Al-Fatiha 1–141".
+      label = `${name} ${first.ayah} … ${this.localSurahName(last.surah)} ${last.ayah}`.trim();
+    } else {
+      const range = ayahs.length > 1 ? `${first.ayah}–${last.ayah}` : `${first.ayah}`;
+      label = `${name} ${range}`.trim();
+    }
     this.write('lastRead', { hash, label });
 
     // Recent-read history: newest first, deduped by hash, capped.

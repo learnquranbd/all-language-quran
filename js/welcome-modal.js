@@ -41,18 +41,18 @@ const WelcomeModal = {
   /** Each card maps to a real module the reader can open. */
   features() {
     return [
-      { emoji: '📖', k: 'wm_f_read',     fbH: 'Read in your language',   fbB: 'The full Quran with translation in 15 languages, side by side with the Arabic.' },
-      { emoji: '🔤', k: 'wm_f_word',     fbH: 'Word by word',            fbB: 'Tap any word for its meaning, root and grammatical role.' },
-      { emoji: '🎧', k: 'wm_f_listen',   fbH: 'Listen and follow',       fbB: 'Recitation audio with the verse highlighted as it is read.' },
-      { emoji: '🎨', k: 'wm_f_tajweed',  fbH: 'Tajweed in colour',       fbB: 'Recitation rules marked in the text, with lessons and practice drills.' },
-      { emoji: '🧠', k: 'wm_f_memorize', fbH: 'Memorise and test',       fbB: 'Hifz tools, hidden-word practice and quizzes that track what you have learned.' },
-      { emoji: '🔗', k: 'wm_f_mutash',   fbH: 'Mutashabihat',            fbB: 'Near-identical verses set side by side, with the differing words highlighted.' },
-      { emoji: '🗂️', k: 'wm_f_vocab',    fbH: 'Quranic vocabulary',      fbB: 'The words that recur most, grouped by theme, with spaced-repetition practice.' },
-      { emoji: '📝', k: 'wm_f_arabic',   fbH: 'Quranic Arabic course',   fbB: 'Grammar from the alphabet upward — 74 lessons, iʿrāb exercises and a glossary.' },
-      { emoji: '🕌', k: 'wm_f_seerah',   fbH: 'Seerah',                  fbB: 'The life of the Prophet ﷺ as a timeline, with places, lessons and a quiz.' },
-      { emoji: '🌟', k: 'wm_f_prophets', fbH: 'Prophets & Messengers',   fbB: 'All 25 named in the Quran, with their stories and every verse that mentions them.' },
-      { emoji: '💭', k: 'wm_f_tadabbur', fbH: 'Tadabbur — reflect',      fbB: 'Every reflection-worthy verse with a note to ponder, and 299 of them with a full-length article.' },
-      { emoji: '🕊️', k: 'wm_f_hope',     fbH: 'Hope & Character',        fbB: 'Verses of mercy for anyone who thinks they have gone too far — and the character the Qur’an asks for next.' },
+      { emoji: '📖', k: 'wm_f_read', tab: 'reading',     fbH: 'Read in your language',   fbB: 'The full Quran with translation in 15 languages, side by side with the Arabic.' },
+      { emoji: '🔤', k: 'wm_f_word', tab: 'wordbyword',     fbH: 'Word by word',            fbB: 'Tap any word for its meaning, root and grammatical role.' },
+      { emoji: '🎧', k: 'wm_f_listen', tab: 'audio',   fbH: 'Listen and follow',       fbB: 'Recitation audio with the verse highlighted as it is read.' },
+      { emoji: '🎨', k: 'wm_f_tajweed', tab: 'tajweedreading',  fbH: 'Tajweed in colour',       fbB: 'Recitation rules marked in the text, with lessons and practice drills.' },
+      { emoji: '🧠', k: 'wm_f_memorize', tab: 'memorize', fbH: 'Memorise and test',       fbB: 'Hifz tools, hidden-word practice and quizzes that track what you have learned.' },
+      { emoji: '🔗', k: 'wm_f_mutash', tab: 'mutashabihat',   fbH: 'Mutashabihat',            fbB: 'Near-identical verses set side by side, with the differing words highlighted.' },
+      { emoji: '🗂️', k: 'wm_f_vocab', tab: 'learn',    fbH: 'Quranic vocabulary',      fbB: 'The words that recur most, grouped by theme, with spaced-repetition practice.' },
+      { emoji: '📝', k: 'wm_f_arabic', tab: 'quranicarabic',   fbH: 'Quranic Arabic course',   fbB: 'Grammar from the alphabet upward — 74 lessons, iʿrāb exercises and a glossary.' },
+      { emoji: '🕌', k: 'wm_f_seerah', tab: 'seerah',   fbH: 'Seerah',                  fbB: 'The life of the Prophet ﷺ as a timeline, with places, lessons and a quiz.' },
+      { emoji: '🌟', k: 'wm_f_prophets', tab: 'prophets', fbH: 'Prophets & Messengers',   fbB: 'All 25 named in the Quran, with their stories and every verse that mentions them.' },
+      { emoji: '💭', k: 'wm_f_tadabbur', tab: 'tadabbur', fbH: 'Tadabbur — reflect',      fbB: 'Every reflection-worthy verse with a note to ponder, and 299 of them with a full-length article.' },
+      { emoji: '🕊️', k: 'wm_f_hope', tab: 'hope',     fbH: 'Hope & Character',        fbB: 'Verses of mercy for anyone who thinks they have gone too far — and the character the Qur’an asks for next.' },
     ];
   },
 
@@ -61,14 +61,18 @@ const WelcomeModal = {
     const lang = this.lang();
     const rtl = (typeof RTL_LANGUAGES !== 'undefined' && RTL_LANGUAGES.indexOf(lang) !== -1);
 
+    /* Each card is a real button into its module: a tour card that looks
+     * tappable and does nothing is the kind of dead control this app has had
+     * before, and readers who tap "Tadabbur" expect to land there. */
     const cards = this.features().map((f) => `
-      <div class="flex gap-2.5 items-start p-2.5 rounded-xl bg-gray-50 dark:bg-gray-700/40 border border-gray-200 dark:border-gray-700">
+      <button type="button" data-wm-tab="${this.esc(f.tab || '')}"
+        class="text-start flex gap-2.5 items-start p-2.5 rounded-xl bg-gray-50 dark:bg-gray-700/40 border border-gray-200 dark:border-gray-700 hover:border-primary/60 hover:bg-primary/5 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
         <span class="text-xl leading-none shrink-0" aria-hidden="true">${f.emoji}</span>
         <div class="min-w-0">
           <p class="text-sm font-semibold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(this.tt(f.k + '_h', f.fbH))}</p>
           <p class="text-xs text-gray-600 dark:text-gray-300 leading-snug mt-0.5" dir="auto">${this.esc(this.tt(f.k + '_b', f.fbB))}</p>
         </div>
-      </div>`).join('');
+      </button>`).join('');
 
     this.overlay = document.createElement('div');
     this.overlay.id = 'welcome-modal';
@@ -95,6 +99,16 @@ const WelcomeModal = {
 
     this.overlay.querySelector('#wm-x').addEventListener('click', () => this.close());
     this.overlay.querySelector('#wm-go').addEventListener('click', () => this.close());
+    this.overlay.addEventListener('click', (e) => {
+      const card = e.target.closest('[data-wm-tab]');
+      if (!card) return;
+      const tab = card.getAttribute('data-wm-tab');
+      this.close();
+      try {
+        const ts = (typeof tabSystem !== 'undefined') ? tabSystem : null;
+        if (tab && ts && ts.switchTab && document.getElementById('tab-' + tab)) ts.switchTab(tab);
+      } catch (_) { /* the modal is closed either way */ }
+    });
     this.overlay.addEventListener('click', (e) => { if (e.target === this.overlay) this.close(); });
     if (window.escClose) window.escClose(this.overlay, () => this.close());
   },

@@ -228,7 +228,8 @@ class SurahNamesView {
         const ay = e.target.closest('[data-sn-ayah]');
         if (ay) {
           const ref = ay.getAttribute('data-sn-ayah');
-          if (window.ayahModal && typeof window.ayahModal.open === 'function') window.ayahModal.open(ref);
+          const am = (typeof ayahModal !== 'undefined' && ayahModal) ? ayahModal : window.ayahModal;
+          if (am && typeof am.open === 'function') am.open(ref);
           else location.hash = '#' + ref;
         }
       } catch (_) { /* ignore */ }
