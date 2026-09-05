@@ -10,7 +10,11 @@
  * Renders into #tadabbur-container (tab "tadabbur"). Arabic comes from the word
  * corpus (QuranData.getQuranWords) and the translation line from the current UI
  * language's offline file (data/translations/<lang>.json, English fallback).
- * Two view modes — Grid and Timeline — plus theme filters and search.
+ * Two view modes — Timeline (default: one compact row per verse, grouped by
+ * surah, expanded on demand into the full reflection and long-form article)
+ * and Grid (verse cards with the same on-demand details) — plus theme filters
+ * and search. Details are painted only when opened: the pool runs to a
+ * thousand verses, and a phone must not pay for prose nobody has asked for.
  */
 
 // In-module en-first fallbacks for the few strings not in translations.js.
@@ -69,6 +73,14 @@ const TADABBUR_I18N = {
     en: 'Grid', bn: 'গ্রিড', ar: 'شبكة', ur: 'گرڈ', id: 'Kotak', tr: 'Izgara', fr: 'Grille',
     es: 'Cuadrícula', ru: 'Сетка', fa: 'شبکه', hi: 'ग्रिड', de: 'Raster', ms: 'Grid', zh: '网格', ja: 'グリッド'
   },
+  tad_expand: {
+    en: 'Reflect', bn: 'অনুধাবন', ar: 'تدبر', ur: 'تدبر', id: 'Renungkan', tr: 'Tefekkür', fr: 'Méditer',
+    es: 'Reflexionar', ru: 'Размышлять', fa: 'تدبر', hi: 'चिंतन', de: 'Nachdenken', ms: 'Renung', zh: '深思', ja: '熟考'
+  },
+  tad_collapse: {
+    en: 'Close', bn: 'বন্ধ', ar: 'إغلاق', ur: 'بند کریں', id: 'Tutup', tr: 'Kapat', fr: 'Fermer',
+    es: 'Cerrar', ru: 'Закрыть', fa: 'بستن', hi: 'बंद करें', de: 'Schließen', ms: 'Tutup', zh: '关闭', ja: '閉じる'
+  },
   tad_view_timeline: {
     en: 'Timeline', bn: 'টাইমলাইন', ar: 'الخط الزمني', ur: 'ٹائم لائن', id: 'Linimasa', tr: 'Zaman çizelgesi',
     fr: 'Chronologie', es: 'Cronología', ru: 'Хронология', fa: 'خط زمانی', hi: 'टाइमलाइन', de: 'Zeitleiste',
@@ -87,7 +99,14 @@ class Tadabbur {
     this.loaded = false;
     this.theme = null;   // active theme id (null = all)
     this.query = '';
-    this.view = 'grid';  // 'grid' | 'timeline'
+    /* Timeline is the basic view: one compact row per verse, expanded on demand.
+     * With a thousand verses in the pool, painting every reflection and every
+     * article opener up front would cost seconds on a phone; a row costs a line. */
+    this.view = 'timeline';  // 'grid' | 'timeline'
+    try { const v = localStorage.getItem('tadView'); if (v === 'grid' || v === 'timeline') this.view = v; } catch (_) { /* ignore */ }
+    this.open = new Set();   // refs whose details are expanded
+    this.CHUNK = 120;        // rows painted per pass; the rest wait for "show more"
+    this.limit = this.CHUNK;
 
     window.addEventListener('tabChanged', (e) => { if (e.detail.tabId === 'tadabbur') this.ensureLoaded(); });
     window.addEventListener('settingChanged', (e) => {
@@ -99,7 +118,7 @@ class Tadabbur {
 
     this.container.addEventListener('click', (e) => this.onClick(e));
     this.container.addEventListener('input', (e) => {
-      if (e.target && e.target.id === 'tad-search') { this.query = e.target.value || ''; this.renderGrid(); }
+      if (e.target && e.target.id === 'tad-search') { this.query = e.target.value || ''; this.limit = this.CHUNK; this.renderGrid(); }
     });
   }
 
@@ -158,7 +177,10 @@ class Tadabbur {
     const raw = (this.theme && this.themes()[this.theme]) ? this.themes()[this.theme].refs : this.refs();
     const seen = new Set(), out = [];
     for (const r of raw) { if (!seen.has(r)) { seen.add(r); out.push(r); } }
-    return out;
+    /* Mushaf order, whatever order the pool was appended in: the timeline is
+     * grouped by surah, and a surah that appears twice would get two headers. */
+    const key = (r) => { const m = String(r).match(/(\d+):(\d+)/); return m ? (+m[1]) * 1000 + (+m[2]) : 0; };
+    return out.sort((a, b) => key(a) - key(b));
   }
 
   /** Pool after the search filter. */
@@ -242,13 +264,26 @@ class Tadabbur {
     if (themeBtn) {
       const id = themeBtn.getAttribute('data-tad-theme');
       this.theme = (id && this.themes()[id]) ? id : null;
+      this.limit = this.CHUNK;
       this.render();
       return;
     }
     const viewBtn = e.target.closest('[data-tad-view]');
     if (viewBtn) {
       const v = viewBtn.getAttribute('data-tad-view');
-      if (v === 'grid' || v === 'timeline') { this.view = v; this.render(); }
+      if (v === 'grid' || v === 'timeline') {
+        this.view = v;
+        try { localStorage.setItem('tadView', v); } catch (_) { /* ignore */ }
+        this.render();
+      }
+      return;
+    }
+    if (e.target.closest('[data-tad-more]')) { this.limit += this.CHUNK; this.renderGrid(); return; }
+    const toggle = e.target.closest('[data-tad-toggle]');
+    if (toggle) {
+      const ref = toggle.getAttribute('data-tad-toggle');
+      if (this.open.has(ref)) this.open.delete(ref); else this.open.add(ref);
+      this.renderItem(ref);
       return;
     }
     const refBtn = e.target.closest('[data-tad-ref]');
@@ -303,8 +338,8 @@ class Tadabbur {
           lc: (x) => this.lc(x),
           esc: (s) => this.esc(s),
           title: this.L('tad_article'),
-          open: false,
-          onLoad: () => this.render(),
+          open: true,
+          onLoad: () => this.renderItem(ref),
         })
         : '';
       return `
@@ -344,34 +379,99 @@ class Tadabbur {
       <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(translation)}</p>`;
   }
 
+  /** One-line summary of a verse for the compact row: the translation, clamped. */
+  snippetHtml(ref) {
+    const { translation } = this.verseData(ref);
+    return translation ? `<span class="block text-xs text-gray-500 dark:text-gray-400 leading-snug line-clamp-2" dir="auto">${this.esc(translation)}</span>` : '';
+  }
+  /** The expand/collapse control shared by both views. */
+  toggleHtml(ref, expanded) {
+    const label = expanded ? this.L('tad_collapse') : this.L('tad_expand');
+    return `<button data-tad-toggle="${this.esc(ref)}" aria-expanded="${expanded ? 'true' : 'false'}"
+        class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md text-xs font-semibold ${expanded
+          ? 'bg-gray-100 dark:bg-gray-700/60 text-gray-600 dark:text-gray-300'
+          : 'bg-primary/10 text-primary dark:text-sky-300 hover:bg-primary/20'}">
+        ${expanded ? '▴' : '▾'} ${this.esc(label)}</button>`;
+  }
+  /** Everything a verse has: Arabic, translation, reflection, points, lesson, article. */
+  expandedHtml(ref, seed) {
+    return `<div class="mt-2">${this.verseHeadHtml(ref)}${this.detailHtml(ref, seed)}</div>`;
+  }
   cardHtml(ref, seed) {
+    const expanded = this.open.has(ref);
     return `
-      <div class="rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-4 flex flex-col shadow-sm hover:shadow-md transition-shadow">
+      <div data-tad-item="${this.esc(ref)}" class="rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-4 flex flex-col shadow-sm hover:shadow-md transition-shadow">
         ${this.verseHeadHtml(ref)}
-        ${this.detailHtml(ref, seed)}
+        <div class="mt-2 flex justify-end">${this.toggleHtml(ref, expanded)}</div>
+        ${expanded ? this.detailHtml(ref, seed) : ''}
       </div>`;
   }
-
   timelineItemHtml(ref, seed) {
+    const expanded = this.open.has(ref);
+    const first = String(ref).split('-')[0];
+    const [s] = first.split(':');
+    const tags = (this.themeMap()[ref] || []).slice(0, 3).join(' ');
     return `
-      <li class="relative pl-5 pb-6 border-l-2 border-primary/25 ml-2 last:pb-1">
-        <span class="absolute -left-[7px] top-1 w-3 h-3 rounded-full bg-primary/70 border-2 border-white dark:border-gray-800" aria-hidden="true"></span>
-        ${this.verseHeadHtml(ref)}
-        ${this.detailHtml(ref, seed)}
+      <li data-tad-item="${this.esc(ref)}" class="relative pl-5 pb-4 border-l-2 border-primary/25 ml-2 last:pb-1">
+        <span class="absolute -left-[7px] top-2 w-3 h-3 rounded-full ${expanded ? 'bg-primary' : 'bg-primary/60'} border-2 border-white dark:border-gray-800" aria-hidden="true"></span>
+        <div class="flex items-start justify-between gap-3">
+          <button data-tad-toggle="${this.esc(ref)}" aria-expanded="${expanded ? 'true' : 'false'}" class="flex-1 min-w-0 text-start rounded-lg -mx-1 px-1 py-0.5 hover:bg-gray-50 dark:hover:bg-gray-800/60 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">
+            <span class="flex items-center gap-2 text-sm font-semibold text-gray-800 dark:text-gray-100">
+              <span dir="auto">${this.esc(this.surahName(s))}</span>
+              <span class="text-xs font-normal text-gray-400 dark:text-gray-500">${this.esc(ref)}</span>
+              ${tags && !expanded ? `<span class="text-xs" title="themes">${tags}</span>` : ''}
+              <span class="ms-auto text-gray-400 text-xs" aria-hidden="true">${expanded ? '▴' : '▾'}</span>
+            </span>
+            ${expanded ? '' : this.snippetHtml(ref)}
+          </button>
+        </div>
+        ${expanded ? this.expandedHtml(ref, seed) : ''}
       </li>`;
   }
-
+  /** A surah divider inside the timeline, with how many verses it holds. */
+  timelineSurahHeadHtml(s, count) {
+    return `
+      <li class="relative ml-2 pl-5 pt-1 pb-3 border-l-2 border-transparent">
+        <span class="inline-flex items-center gap-2 rounded-full bg-gray-100 dark:bg-gray-800 px-3 py-1 text-xs font-bold text-gray-700 dark:text-gray-200">
+          <span class="text-primary">${this.esc(String(s))}</span><span dir="auto">${this.esc(this.surahName(s))}</span>
+          <span class="font-normal text-gray-400">${count}</span></span>
+      </li>`;
+  }
   itemsHtml() {
-    const pool = this.filtered();
-    if (!pool.length) {
+    const all = this.filtered();
+    if (!all.length) {
       return `<p class="text-center py-12 text-gray-400">${this.esc(this.L('tadabbur_none'))}</p>`;
     }
+    const pool = all.slice(0, this.limit);
+    const more = all.length > pool.length
+      ? `<div class="text-center py-3"><button data-tad-more class="px-4 py-2 rounded-lg text-sm font-medium border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">▾ ${pool.length} / ${all.length}</button></div>`
+      : '';
     if (this.view === 'timeline') {
-      return `<ol class="list-none m-0 p-0">${pool.map((r, i) => this.timelineItemHtml(r, i)).join('')}</ol>`;
+      const surahOf = (r) => String(r).split(':')[0];
+      const counts = {};
+      for (const r of pool) counts[surahOf(r)] = (counts[surahOf(r)] || 0) + 1;
+      let last = null;
+      const items = [];
+      pool.forEach((r, i) => {
+        const s = surahOf(r);
+        if (s !== last) { items.push(this.timelineSurahHeadHtml(s, counts[s])); last = s; }
+        items.push(this.timelineItemHtml(r, i));
+      });
+      return `<ol class="list-none m-0 p-0">${items.join('')}</ol>${more}`;
     }
-    return pool.map((r, i) => this.cardHtml(r, i)).join('');
+    return pool.map((r, i) => this.cardHtml(r, i)).join('') + (more ? `<div class="md:col-span-2 xl:col-span-3">${more}</div>` : '');
   }
-
+  /** Repaint one verse in place (expand/collapse, or an article that just arrived). */
+  renderItem(ref) {
+    const el = this.container.querySelector(`[data-tad-item="${String(ref).replace(/"/g, '\\"')}"]`);
+    if (!el) { this.renderGrid(); return; }
+    const seed = Math.max(0, this.filtered().indexOf(ref));
+    const tmp = document.createElement('div');
+    tmp.innerHTML = this.view === 'timeline' ? this.timelineItemHtml(ref, seed) : this.cardHtml(ref, seed);
+    const fresh = tmp.firstElementChild;
+    if (fresh) el.replaceWith(fresh);
+    try { if (window.LQArticle && this.open.has(ref)) LQArticle.sweep(); } catch (_) { /* ignore */ }
+  }
   gridClass() { return this.view === 'grid' ? 'grid gap-4 md:grid-cols-2 xl:grid-cols-3' : ''; }
 
   countLabel() {
@@ -428,6 +528,7 @@ class Tadabbur {
 
         <div id="tad-grid" class="${this.gridClass()}">${this.itemsHtml()}</div>
       </div>`;
+    try { if (window.LQArticle && this.open.size) LQArticle.sweep(); } catch (_) { /* ignore */ }
   }
 }
 
