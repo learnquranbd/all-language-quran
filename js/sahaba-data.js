@@ -5233,7 +5233,7 @@ const SAHABA_DATA = [
     "roleBn": "খাদিজার পর প্রথম স্ত্রী, নবী ﷺ-এর সংসারের অভিভাবিকা",
     "yearEn": "d. in Madinah",
     "highlightEn": "She gave her day to A'ishah, wishing only to be raised as the Prophet's ﷺ wife.",
-    "highlightBn": "নিজের পালা আয়েশাকে দিয়ে দেন — চাওয়া ছিল শুধু নবী ﷺ-এর স্ত্রী হয়ে ওঠা পুনরুত্থান।",
+    "highlightBn": "নিজের পালা আয়েশাকে দিয়ে দেন — চাওয়া ছিল শুধু কিয়ামতের দিন নবী ﷺ-এর স্ত্রী হিসেবে ওঠা।",
     "summaryEn": "Sawdah (RA) was an early convert who migrated to Abyssinia with her husband as-Sakran ibn Amr; she was widowed after their return. When the Prophet ﷺ was grieving after Khadijah's death, Sawdah became his first new wife, mothering his daughters and managing his household in the hardest of years, and migrating with the family to Madinah. In her later years she gifted her allotted day to A'ishah (RA), saying she desired only to be raised on the Day of Judgement as a wife of the Messenger of Allah ﷺ — a settlement in whose context the verse on marital reconciliation (4:128) is reported. She was known for her charity and warm humour.",
     "summaryBn": "সাওদা (রাঃ) ছিলেন প্রাথমিক মুসলিমা, স্বামী সাকরান ইবনে আমরের সাথে হাবশায় হিজরত করেন; ফেরার পর বিধবা হন। খাদিজার ইন্তিকালের শোকের দিনে সাওদা হন নবী ﷺ-এর প্রথম নতুন স্ত্রী — কঠিনতম বছরগুলোতে তাঁর কন্যাদের মাতৃস্নেহ দেন, সংসার সামলান এবং পরিবারের সাথে মদিনায় হিজরত করেন। শেষ বয়সে তিনি নিজের নির্ধারিত পালা আয়েশা (রাঃ)-কে দিয়ে দেন, বলেন — কিয়ামতের দিন আল্লাহর রাসুল ﷺ-এর স্ত্রী হিসেবে উত্থিত হওয়াই তাঁর একমাত্র চাওয়া; এই মীমাংসার প্রসঙ্গেই দাম্পত্য-সমঝোতার আয়াত (৪:১২৮) নাযিলের বর্ণনা রয়েছে। দানশীলতা ও সরস রসিকতার জন্য তিনি পরিচিত ছিলেন।",
     "events": [
@@ -5379,8 +5379,8 @@ const SAHABA_DATA = [
     "yearEn": "d. c. 632 CE",
     "highlightEn": "\"You are among them,\" said the Prophet ﷺ — and the door closed behind him.",
     "highlightBn": "নবী ﷺ বললেন, \"তুমি তাদেরই একজন\" — এরপরই সে দরজা বন্ধ হয়ে যায়।",
-    "summaryEn": "'Ukkasha ibn Mihsan (RA) of Banu Asad, an early emigrant, fought valiantly at Badr — where, when his sword broke, the Prophet ﷺ handed him a wooden stick that in his hand, the sira reports say, became a sword he carried in later battles. When the Prophet ﷺ described seventy thousand who would enter Paradise without reckoning — those who trust wholly in their Lord — 'Ukkasha stood and asked to be of them. \"You are among them,\" the Prophet replied; to the next man he said gently, \"'Ukkasha has preceded you.\" He was killed fighting the forces of the false prophet Tulayhah in the Riddah wars.",
-    "summaryBn": "বনু আসাদের উক্কাশা ইবনে মিহসান (রাঃ) ছিলেন প্রাথমিক মুহাজির, বদরে বীরত্বের সাথে লড়েন — তরবারি ভেঙে গেলে নবী ﷺ তাঁকে একটি কাঠের লাঠি দেন, সিরাতের বর্ণনামতে তা তাঁর হাতে তরবারিতে পরিণত হয়, যা তিনি পরের যুদ্ধগুলোতেও বহন করেন। নবী ﷺ যখন বিনা হিসাবে জান্নাতে প্রবেশকারী সত্তর হাজারের কথা বলেন — যারা পূর্ণ ভরসা রাখে কেবল তাদের প্রভুর ওপর — উক্কাশা দাঁড়িয়ে তাদের অন্তর্ভুক্ত হওয়ার আবেদন করেন। নবী বলেন, \"তুমি তাদেরই একজন\"; পরের ব্যক্তিকে কোমলভাবে বলেন, \"উক্কাশা তোমার আগে চলে গেছে।\" রিদ্দার যুদ্ধে ভণ্ড নবী তুলাইহার বাহিনীর বিরুদ্ধে লড়াইয়ে তিনি শহিদ হন।",
+    "summaryEn": "'Ukkasha ibn Mihsan (RA) of Banu Asad, an early emigrant, fought valiantly at Badr — where, when his sword broke, the Prophet ﷺ handed him a wooden stick that in his hand, the sira reports say, became a sword he carried in later battles. When the Prophet ﷺ described seventy thousand who would enter Paradise without reckoning — those who trust wholly in their Lord — 'Ukkasha stood and asked to be of them. \"You are among them,\" the Prophet replied; to the next man he said gently, \"'Ukkasha has preceded you.\" He was killed fighting the forces of Tulayhah, then a false prophet, in the Riddah wars.",
+    "summaryBn": "বনু আসাদের উক্কাশা ইবনে মিহসান (রাঃ) ছিলেন প্রাথমিক মুহাজির, বদরে বীরত্বের সাথে লড়েন — তরবারি ভেঙে গেলে নবী ﷺ তাঁকে একটি কাঠের লাঠি দেন, সিরাতের বর্ণনামতে তা তাঁর হাতে তরবারিতে পরিণত হয়, যা তিনি পরের যুদ্ধগুলোতেও বহন করেন। নবী ﷺ যখন বিনা হিসাবে জান্নাতে প্রবেশকারী সত্তর হাজারের কথা বলেন — যারা পূর্ণ ভরসা রাখে কেবল তাদের প্রভুর ওপর — উক্কাশা দাঁড়িয়ে তাদের অন্তর্ভুক্ত হওয়ার আবেদন করেন। নবী বলেন, \"তুমি তাদেরই একজন\"; পরের ব্যক্তিকে কোমলভাবে বলেন, \"উক্কাশা তোমার আগে চলে গেছে।\" রিদ্দার যুদ্ধে তখনকার ভণ্ড নবী তুলাইহার বাহিনীর বিরুদ্ধে লড়াইয়ে তিনি শহিদ হন।",
     "events": [
       {
         "en": "Fought at Badr; given a stick by the Prophet ﷺ when his sword broke",
@@ -5465,8 +5465,8 @@ const SAHABA_DATA = [
     "yearEn": "d. c. 626 CE",
     "highlightEn": "Called Umm al-Masakin — Mother of the Poor — even before Islam.",
     "highlightBn": "ইসলামের আগেই তাঁর উপাধি ছিল 'উম্মুল মাসাকিন' — দরিদ্রদের মা।",
-    "summaryEn": "Zaynab bint Khuzaymah (RA) was known as Umm al-Masakin, the Mother of the Poor, a title she had earned even in the days before Islam for her constant feeding of the needy. Widowed when her husband fell as a martyr in the early battles, she married the Prophet ﷺ after Uhud and entered the household of Prophethood. Her time as a Mother of the Believers was brief — she died only months after the marriage, the only wife besides Khadijah (RA) to die in the Prophet's ﷺ lifetime. He prayed over her himself, and she was buried in al-Baqi cemetery in Madinah.",
-    "summaryBn": "যয়নব বিনতে খুযাইমা (রাঃ) পরিচিত ছিলেন 'উম্মুল মাসাকিন' — দরিদ্রদের মা — নামে; অভাবীদের নিয়মিত খাওয়ানোর জন্য ইসলামের আগেই তিনি এ উপাধি অর্জন করেছিলেন। প্রাথমিক যুদ্ধগুলোতে স্বামী শহিদ হলে তিনি বিধবা হন, এরপর উহুদের পর নবী ﷺ-কে বিবাহ করে নবুওয়াতের পরিবারে প্রবেশ করেন। উম্মুল মুমিনীন হিসেবে তাঁর সময় ছিল সংক্ষিপ্ত — বিবাহের মাত্র কয়েক মাস পরই তিনি ইন্তিকাল করেন; খাদিজা (রাঃ) ছাড়া একমাত্র স্ত্রী যিনি নবী ﷺ-এর জীবদ্দশায় ইন্তিকাল করেন। নবী নিজে তাঁর জানাজা পড়ান এবং মদিনার জান্নাতুল বাকিতে তাঁকে দাফন করা হয়।",
+    "summaryEn": "Zaynab bint Khuzaymah (RA) was known as Umm al-Masakin, the Mother of the Poor, a title she had earned even in the days before Islam for her constant feeding of the needy. Widowed when her husband fell as a martyr in the early battles, she married the Prophet ﷺ around the time of Uhud and entered the household of Prophethood. Her time as a Mother of the Believers was brief — she died only months after the marriage, the only wife besides Khadijah (RA) to die in the Prophet's ﷺ lifetime. He prayed over her himself, and she was buried in al-Baqi cemetery in Madinah.",
+    "summaryBn": "যয়নব বিনতে খুযাইমা (রাঃ) পরিচিত ছিলেন 'উম্মুল মাসাকিন' — দরিদ্রদের মা — নামে; অভাবীদের নিয়মিত খাওয়ানোর জন্য ইসলামের আগেই তিনি এ উপাধি অর্জন করেছিলেন। প্রাথমিক যুদ্ধগুলোতে স্বামী শহিদ হলে তিনি বিধবা হন, এরপর উহুদের কাছাকাছি সময়ে নবী ﷺ-কে বিবাহ করে নবুওয়াতের পরিবারে প্রবেশ করেন। উম্মুল মুমিনীন হিসেবে তাঁর সময় ছিল সংক্ষিপ্ত — বিবাহের মাত্র কয়েক মাস পরই তিনি ইন্তিকাল করেন; খাদিজা (রাঃ) ছাড়া একমাত্র স্ত্রী যিনি নবী ﷺ-এর জীবদ্দশায় ইন্তিকাল করেন। নবী নিজে তাঁর জানাজা পড়ান এবং মদিনার জান্নাতুল বাকিতে তাঁকে দাফন করা হয়।",
     "events": [
       {
         "en": "Earned the title Mother of the Poor for feeding the needy",
@@ -5477,8 +5477,8 @@ const SAHABA_DATA = [
         "bn": "প্রাথমিক যুদ্ধে স্বামী শহিদ হলে বিধবা হন"
       },
       {
-        "en": "Married the Prophet ﷺ after Uhud",
-        "bn": "উহুদের পর নবী ﷺ-কে বিবাহ করেন"
+        "en": "Married the Prophet ﷺ around the time of Uhud",
+        "bn": "উহুদের কাছাকাছি সময়ে নবী ﷺ-কে বিবাহ করেন"
       },
       {
         "en": "Died months later; buried in al-Baqi",
@@ -5779,7 +5779,7 @@ const SAHABA_DATA = [
     "ar": "مُعَاوِيَة بْن أَبِي سُفْيَان",
     "translit": "Mu'awiyah ibn Abi Sufyan",
     "en": "Mu'awiyah ibn Abi Sufyan (RA)",
-    "bn": "মুআবিয়া ইবনে আবু সুফিয়ান (রাঃ)",
+    "bn": "মুয়াবিয়া ইবনে আবু সুফিয়ান (রাঃ)",
     "era": "conquest",
     "ashara": false,
     "caliph": false,
@@ -5791,7 +5791,7 @@ const SAHABA_DATA = [
     "highlightEn": "He wrote down revelation for the Prophet ﷺ and later governed the Muslim world.",
     "highlightBn": "নবী ﷺ-এর জন্য ওহি লিখতেন, পরবর্তীতে মুসলিম বিশ্বের শাসনভার নেন।",
     "summaryEn": "Mu'awiyah (RA), son of Abu Sufyan and brother of Umm Habibah (RA), embraced Islam by the time of the conquest of Makkah and served the Prophet ﷺ as one of the scribes who wrote down revelation. He narrated from the Prophet the well-known hadith that whomever Allah wishes good for, He grants understanding of the religion. Appointed over Sham under Umar and Uthman (RA), he governed it for about twenty years, noted for administration and forbearance (hilm), and oversaw the first Muslim naval expeditions. After the era of civil strife, al-Hasan's (RA) treaty with him in 41 AH united the community — the Year of the Congregation — and he ruled the Muslims for about twenty years from Damascus.",
-    "summaryBn": "আবু সুফিয়ানের পুত্র ও উম্মে হাবিবা (রাঃ)-এর ভাই মুআবিয়া (রাঃ) মক্কা বিজয়ের সময়কালে ইসলাম গ্রহণ করেন এবং নবী ﷺ-এর ওহি লেখকদের একজন হিসেবে দায়িত্ব পালন করেন। তিনি নবী থেকে প্রসিদ্ধ হাদিসটি বর্ণনা করেন — আল্লাহ যার কল্যাণ চান, তাকে দ্বীনের গভীর জ্ঞান দান করেন। উমর ও উসমান (রাঃ)-এর অধীনে শামের শাসক নিযুক্ত হয়ে প্রায় বিশ বছর তা পরিচালনা করেন — প্রশাসনদক্ষতা ও সহনশীলতার (হিলম) জন্য খ্যাত — এবং মুসলিমদের প্রথম নৌ-অভিযানগুলোর তত্ত্বাবধান করেন। গৃহবিবাদের যুগের পর ৪১ হিজরিতে আল-হাসান (রাঃ)-এর সন্ধিচুক্তি উম্মাহকে ঐক্যবদ্ধ করে — 'জামাআতের বছর' — আর তিনি দামেস্ক থেকে প্রায় বিশ বছর মুসলিমদের শাসন করেন।",
+    "summaryBn": "আবু সুফিয়ানের পুত্র ও উম্মে হাবিবা (রাঃ)-এর ভাই মুয়াবিয়া (রাঃ) মক্কা বিজয়ের সময়কালে ইসলাম গ্রহণ করেন এবং নবী ﷺ-এর ওহি লেখকদের একজন হিসেবে দায়িত্ব পালন করেন। তিনি নবী থেকে প্রসিদ্ধ হাদিসটি বর্ণনা করেন — আল্লাহ যার কল্যাণ চান, তাকে দ্বীনের গভীর জ্ঞান দান করেন। উমর ও উসমান (রাঃ)-এর অধীনে শামের শাসক নিযুক্ত হয়ে প্রায় বিশ বছর তা পরিচালনা করেন — প্রশাসনদক্ষতা ও সহনশীলতার (হিলম) জন্য খ্যাত — এবং মুসলিমদের প্রথম নৌ-অভিযানগুলোর তত্ত্বাবধান করেন। গৃহবিবাদের যুগের পর ৪১ হিজরিতে আল-হাসান (রাঃ)-এর সন্ধিচুক্তি উম্মাহকে ঐক্যবদ্ধ করে — 'জামাআতের বছর' — আর তিনি দামেস্ক থেকে প্রায় বিশ বছর মুসলিমদের শাসন করেন।",
     "events": [
       {
         "en": "Embraced Islam by the conquest of Makkah",
@@ -5835,10 +5835,10 @@ const SAHABA_DATA = [
     "roleEn": "Grandson of the Prophet ﷺ Who United Two Great Parties",
     "roleBn": "দুই বিশাল দলকে ঐক্যবদ্ধকারী নবী ﷺ-এর দৌহিত্র",
     "yearEn": "c. 625-670 CE",
-    "highlightEn": "\"This son of mine is a sayyid; through him Allah will reconcile two great parties.\"",
-    "highlightBn": "\"আমার এই সন্তান এক নেতা; তার মাধ্যমে আল্লাহ দুই বিশাল দলের মীমাংসা করবেন।\"",
+    "highlightEn": "\"This son of mine is a sayyid; perhaps through him Allah will reconcile two great parties.\"",
+    "highlightBn": "\"আমার এই সন্তান এক নেতা; হয়তো তার মাধ্যমে আল্লাহ দুই বিশাল দলের মীমাংসা করবেন।\"",
     "summaryEn": "Al-Hasan (RA), the elder son of Ali and Fatimah (RA), was beloved to his grandfather the Prophet ﷺ, who carried him on his shoulder and prayed, \"O Allah, I love him, so love him.\" He was among the People of the Cloak, and closely resembled the Prophet in appearance. From the pulpit the Prophet ﷺ declared: \"This son of mine is a sayyid, and perhaps Allah will reconcile through him two great parties of the Muslims\" (al-Bukhari). The prophecy was fulfilled in 41 AH when, to spare Muslim blood, al-Hasan relinquished the caliphate to Mu'awiyah, uniting the community in the Year of the Congregation. He died in Madinah and was buried in al-Baqi.",
-    "summaryBn": "আলী ও ফাতিমা (রাঃ)-এর জ্যেষ্ঠ পুত্র আল-হাসান (রাঃ) ছিলেন নানা নবী ﷺ-এর পরম প্রিয় — নবী তাঁকে কাঁধে তুলে নিতেন আর দোয়া করতেন, \"হে আল্লাহ, আমি তাকে ভালোবাসি, তুমিও তাকে ভালোবাসো।\" তিনি ছিলেন চাদরে আবৃতদের (আহলুল কিসা) একজন এবং চেহারায় নবীর সাথে গভীর সাদৃশ্য ছিল। মিম্বার থেকে নবী ﷺ ঘোষণা করেন: \"আমার এই সন্তান এক নেতা (সাইয়িদ); সম্ভবত আল্লাহ তার মাধ্যমে মুসলিমদের দুই বিশাল দলের মীমাংসা করবেন\" (বুখারি)। ৪১ হিজরিতে সে ভবিষ্যদ্বাণী পূর্ণ হয় — মুসলিমদের রক্তপাত এড়াতে আল-হাসান খেলাফত মুআবিয়ার হাতে ছেড়ে দেন, 'জামাআতের বছরে' উম্মাহ ঐক্যবদ্ধ হয়। মদিনায় ইন্তিকাল করেন, জান্নাতুল বাকিতে সমাহিত হন।",
+    "summaryBn": "আলী ও ফাতিমা (রাঃ)-এর জ্যেষ্ঠ পুত্র আল-হাসান (রাঃ) ছিলেন নানা নবী ﷺ-এর পরম প্রিয় — নবী তাঁকে কাঁধে তুলে নিতেন আর দোয়া করতেন, \"হে আল্লাহ, আমি তাকে ভালোবাসি, তুমিও তাকে ভালোবাসো।\" তিনি ছিলেন চাদরে আবৃতদের (আহলুল কিসা) একজন এবং চেহারায় নবীর সাথে গভীর সাদৃশ্য ছিল। মিম্বার থেকে নবী ﷺ ঘোষণা করেন: \"আমার এই সন্তান এক নেতা (সাইয়িদ); সম্ভবত আল্লাহ তার মাধ্যমে মুসলিমদের দুই বিশাল দলের মীমাংসা করবেন\" (বুখারি)। ৪১ হিজরিতে সে ভবিষ্যদ্বাণী পূর্ণ হয় — মুসলিমদের রক্তপাত এড়াতে আল-হাসান খেলাফত মুয়াবিয়ার হাতে ছেড়ে দেন, 'জামাআতের বছরে' উম্মাহ ঐক্যবদ্ধ হয়। মদিনায় ইন্তিকাল করেন, জান্নাতুল বাকিতে সমাহিত হন।",
     "events": [
       {
         "en": "Beloved grandson whom the Prophet ﷺ carried and prayed for",
