@@ -155,9 +155,14 @@ class HopeView {
     return { arabic: ar.join(' ۝ '), translation: tr.join(' ') };
   }
 
+  /** null when the language has no usable dictionary. data/translations/ar.json
+   *  exists but is empty ({}) — Arabic readers take the Arabic itself and need
+   *  no translation line — and `{}` is truthy, so an emptiness check has to
+   *  happen here or every caller silently keeps a dictionary with no entries. */
   loadTranslations(lang) {
+    const usable = (d) => (d && typeof d === 'object' && Object.keys(d).length ? d : null);
     try {
-      return fetch(`data/translations/${lang}.json`).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+      return fetch(`data/translations/${lang}.json`).then((r) => (r.ok ? r.json() : null)).then(usable).catch(() => null);
     } catch (_) { return Promise.resolve(null); }
   }
 
@@ -183,9 +188,14 @@ class HopeView {
 
   /** Language changed: swap the translation dictionary, then repaint. */
   async reloadTranslations() {
-    let d = await this.loadTranslations(this.language);
-    if (!d && this.language !== 'en') d = await this.loadTranslations('en');
-    if (d) this.tr = d;
+    /* Capture the language we are loading for: three rapid switches resolve in
+     * completion order, and without this the last dictionary to arrive wins
+     * rather than the one the reader actually chose. */
+    const want = this.language;
+    let d = await this.loadTranslations(want);
+    if (!d && want !== 'en' && want !== 'ar') d = await this.loadTranslations('en');
+    if (this.language !== want) return;
+    this.tr = d || null;
     this.render();
   }
 
@@ -262,7 +272,7 @@ class HopeView {
         ${this.esc(this.surahName(s))} <span class="text-gray-400 dark:text-gray-500 font-normal">${this.esc(ref)}</span> <span aria-hidden="true">↗</span>
       </button>
       <div class="ayah-arabic !text-xl !leading-loose !border-b-0 !pb-0 mb-2 text-gray-800 dark:text-gray-100" dir="rtl">${arabic || '…'}</div>
-      <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(translation)}</p>`;
+      ${translation ? `<p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(translation)}</p>` : ''}`;
   }
 
   heroHtml() {

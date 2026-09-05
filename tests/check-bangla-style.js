@@ -26,7 +26,7 @@
  * against the file's own bytes because Bengali greps run from a shell
  * false-negative: the needle gets Unicode-normalised while the file does not.
  */
-const { load, get, dataFiles, constNames } = require('./lib.js');
+const { load, get, dataFiles, constNames, tadabburShardFiles } = require('./lib.js');
 
 /* Files that have been through the style pass. ONLY these fail the build.
  *
@@ -57,7 +57,14 @@ const problems = [];   // in STYLED files — these fail the build
 let legacy = 0;        // everywhere else — counted and reported, not failed
 let scanned = 0;
 
-for (const file of dataFiles()) {
+/* dataFiles() reads js/*.js only, and the pair-shaped walk below sees a node
+ * only when it has BOTH `en` and `bn` siblings. Between them those two limits
+ * hid 687 of the 792 hits in the repo: every Tadabbur article shard (they live
+ * in js/tadabbur-articles/) and every `*Bn` field that has no `bn` twin —
+ * which is where TADABBUR_NOTES, SEERAH_EVENTS and SAHABA_DATA keep their
+ * Bengali. A debt you cannot see is a debt that never gets paid, so both are
+ * now walked; neither is enforced. */
+for (const file of dataFiles().concat(tadabburShardFiles())) {
   let sb;
   try { sb = load(file); } catch (e) { continue; }
   const enforced = STYLED.indexOf(file) !== -1;
@@ -65,18 +72,26 @@ for (const file of dataFiles()) {
     (function walk(node, path) {
       if (!node || typeof node !== 'object') return;
       if (Array.isArray(node)) return node.forEach((n, i) => walk(n, `${path}[${i}]`));
-      if (typeof node.bn === 'string' && typeof node.en === 'string') {
+      /* Bengali arrives in two shapes: a {en, bn} pair, or a `somethingBn`
+       * field beside its `somethingEn` twin. Check both. */
+      const bnStrings = [];
+      if (typeof node.bn === 'string' && typeof node.en === 'string') bnStrings.push(['bn', node.bn]);
+      for (const [k, v] of Object.entries(node)) {
+        if (/Bn$/.test(k) && typeof v === 'string') bnStrings.push([k, v]);
+        else if (/Bn$/.test(k) && Array.isArray(v)) v.forEach((x, i) => { if (typeof x === 'string') bnStrings.push([`${k}[${i}]`, x]); });
+      }
+      for (const [key, bn] of bnStrings) {
         if (enforced) scanned++;
         const found = [];
         for (const [word, why] of WRONG_REGISTER) {
-          if (node.bn.includes(word)) found.push(`"${word}" — ${why}`);
+          if (bn.includes(word)) found.push(`"${word}" — ${why}`);
         }
-        const dashes = (node.bn.match(/—/g) || []).length;
+        const dashes = (bn.match(/—/g) || []).length;
         if (dashes > MAX_DASHES) {
           found.push(`${dashes} em-dashes in one Bengali string — English punctuation carried across`);
         }
-        if (!found.length) return;
-        if (enforced) found.forEach((f) => problems.push(`${file} ${path}: ${f} (tools/BANGLA-STYLE.md)`));
+        if (!found.length) continue;
+        if (enforced) found.forEach((f) => problems.push(`${file} ${path}.${key}: ${f} (tools/BANGLA-STYLE.md)`));
         else legacy += found.length;
       }
       for (const [k, v] of Object.entries(node)) walk(v, `${path}.${k}`);

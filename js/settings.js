@@ -166,11 +166,6 @@ class Settings {
       }
     }
 
-    // Update select element if exists
-    const themeSelect = document.getElementById('theme-select');
-    if (themeSelect) {
-      themeSelect.value = theme;
-    }
   }
 
   /**

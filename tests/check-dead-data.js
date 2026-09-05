@@ -31,8 +31,15 @@ for (const f of jsFiles) {
     const re = new RegExp('\\b' + name + '\\b', 'g');
     let refs = (htmlSrc.match(re) || []).length;
     for (const g of jsFiles) {
+      /* Discount the file's own declaration AND its `module.exports` line: a
+       * data file that ends with `module.exports = { NAME }` for the test
+       * harness would otherwise count as its own consumer and never be flagged.
+       * That is how a 12.9 KB dataset stayed eagerly loaded on every page view
+       * with no reader at all. Comments are already stripped upstream for the
+       * same reason. */
       const hits = (sources[g].match(re) || []).length;
-      refs += (g === f) ? Math.max(0, hits - 1) : hits;   // discount the definition itself
+      const selfExports = (g === f) ? (sources[g].match(new RegExp('module\\.exports[^\\n]*\\b' + name + '\\b', 'g')) || []).length : 0;
+      refs += (g === f) ? Math.max(0, hits - 1 - selfExports) : hits;
     }
     if (refs === 0) dead.push(`${rel}:${name} (${size} entries) is never read`);
   }

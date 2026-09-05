@@ -220,10 +220,14 @@ class Tadabbur {
     return { arabic: ar.join(' ۝ '), translation: tr.join(' ') };
   }
 
+  /** null when the language has no usable dictionary. data/translations/ar.json
+   *  is deliberately empty ({}) and `{}` is truthy, so without this check the
+   *  Arabic reader keeps an empty dictionary and every verse renders a blank
+   *  translation line instead of falling back. */
   async loadTranslations(lang) {
     try {
       const d = await fetch(`data/translations/${lang}.json`).then(r => (r.ok ? r.json() : null));
-      return d;
+      return (d && typeof d === 'object' && Object.keys(d).length) ? d : null;
     } catch (_) { return null; }
   }
 
@@ -238,7 +242,7 @@ class Tadabbur {
         this.loadTranslations(this.language)
       ]);
       this.words = wd;
-      this.tr = tr || await this.loadTranslations('en');
+      this.tr = tr || (this.language === 'ar' ? null : await this.loadTranslations('en'));
       this.trLang = tr ? this.language : 'en';
     } catch (e) {
       this.container.innerHTML = `<div class="text-center py-16 text-red-500">${this.tt('error')}</div>`;
@@ -251,10 +255,14 @@ class Tadabbur {
   /** Language changed: swap only the translation dict, then re-render if visible. */
   async reloadTranslations() {
     const showing = !!document.getElementById('tad-grid');
-    let d = await this.loadTranslations(this.language);
-    if (!d && this.language !== 'en') d = await this.loadTranslations('en');
+    /* Capture the target language: rapid switches resolve out of order, and the
+     * last dictionary to land would otherwise win over the one asked for. */
+    const want = this.language;
+    let d = await this.loadTranslations(want);
+    if (!d && want !== 'en' && want !== 'ar') d = await this.loadTranslations('en');
+    if (this.language !== want) return;
     this.tr = d;
-    this.trLang = d ? this.language : 'en';
+    this.trLang = d ? want : 'en';
     if (showing) this.render();
   }
 
@@ -376,7 +384,7 @@ class Tadabbur {
         ${tags ? `<span class="text-sm shrink-0" title="themes">${tags}</span>` : ''}
       </div>
       <div class="ayah-arabic !text-xl !leading-loose !border-b-0 !pb-0 mb-2 text-gray-800 dark:text-gray-100" dir="rtl">${arabic || '…'}</div>
-      <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(translation)}</p>`;
+      ${translation ? `<p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(translation)}</p>` : ''}`;
   }
 
   /** One-line summary of a verse for the compact row: the translation, clamped. */

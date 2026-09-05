@@ -35,6 +35,7 @@
    *  render. (That is exactly what happened for the first releases.) */
   const pending = {};   // script url -> Promise
   const loaded = {};    // script url -> true once its onload fired
+  const failed = {};    // script url -> true once its onerror fired
 
   /** Which file holds this subject's article; null when the module is unknown. */
   function fileFor(module, id) {
@@ -77,7 +78,11 @@
         el.src = file + version();
         el.async = false;
         el.onload = () => { loaded[file] = true; resolve(); };
-        el.onerror = () => { delete pending[file]; resolve(); };
+        /* Remember the failure. Without this the caller repaints, has() still
+         * answers true from the precached index, and the skeleton triggers
+         * another fetch — a pulsing placeholder that never resolves and never
+         * stops asking. */
+        el.onerror = () => { failed[file] = true; delete pending[file]; resolve(); };
         (document.head || document.documentElement).appendChild(el);
       } catch (e) {
         // Nowhere to inject (or no DOM at all, under the test harness): resolve
@@ -109,6 +114,10 @@
    */
   function has(module, id) {
     if (get(module, id)) return true;
+    /* A file we already tried and could not fetch: stop offering the control,
+     * so the detail page renders without it rather than looping. */
+    const f = fileFor(module, id);
+    if (f && failed[f]) return false;
     try {
       const idx = window.LQ_ARTICLE_IDS;
       const list = idx && idx[module];

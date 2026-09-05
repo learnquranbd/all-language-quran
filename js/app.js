@@ -236,6 +236,14 @@ class QuranApp {
       return;
     }
 
+    /* Generation token. Two loads can be in flight at once (the select changed
+     * twice, a hashchange racing a click, a Juz jump then a topic pick), and
+     * because QuranData caches pages the SECOND request often resolves first.
+     * Without this the loser writes its verses, its hash and its DOM over the
+     * winner's, and the reader watches their choice turn into the range they
+     * abandoned. Everything downstream of 'ayahsLoaded' inherits the mix-up. */
+    const token = (this._loadToken = (this._loadToken || 0) + 1);
+
     // Consume the collection context (set by navigation when the load came
     // from a dua/topic/story pick) — cleared on any other load
     this.collectionContext = this.pendingContext || null;
@@ -265,6 +273,8 @@ class QuranApp {
             return [];
           })
       ));
+
+      if (token !== this._loadToken) return;   // a newer load won; drop this one
 
       this.ayahData = rangeResults.flat();
 

@@ -12,7 +12,8 @@
       "package.json",
       "package-lock.json",
       "tests/**",
-      "tools/**"
+      "tools/**",
+      "scratch_*"
     ],
     "cleanUrls": true,
     "headers": [
