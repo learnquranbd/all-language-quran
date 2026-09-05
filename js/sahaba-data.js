@@ -4856,11 +4856,11 @@ const SAHABA_DATA = [
     "highlightEn": "She ransomed her husband with Khadijah's necklace — and it moved the Prophet ﷺ deeply.",
     "highlightBn": "খাদিজার হার দিয়ে স্বামীকে মুক্ত করতে চাইলেন — তা দেখে নবী ﷺ গভীরভাবে আবেগাপ্লুত হন।",
     "summaryEn": "Zaynab (RA) was the eldest daughter of the Prophet ﷺ and Khadijah (RA), married to her cousin Abu al-'As ibn ar-Rabi'. She believed while her husband did not, and the two were separated by the divide between Makkah and Madinah. When Abu al-'As was captured at Badr, Zaynab sent as his ransom a necklace her mother Khadijah had given her; the sight of it moved the Prophet ﷺ, and the Muslims released him. Her own migration was violently blocked on the road and she was injured. Abu al-'As later embraced Islam and they were reunited, but she died in 8 AH from lingering effects of her ordeal.",
-    "summaryBn": "যয়নব (রাঃ) ছিলেন নবী ﷺ ও খাদিজা (রাঃ)-এর জ্যেষ্ঠ কন্যা, ফুফাতো ভাই আবুল আস ইবনে রাবীর স্ত্রী। তিনি ঈমান আনলেও তাঁর স্বামী তখনো আনেননি, ফলে মক্কা-মদিনার বিভাজন তাঁদের আলাদা করে দেয়। বদরে আবুল আস বন্দি হলে যয়নব মুক্তিপণ হিসেবে পাঠান সেই হারটি, যা মা খাদিজা তাঁকে দিয়েছিলেন; তা দেখে নবী ﷺ আবেগাপ্লুত হন এবং মুসলিমরা তাঁকে মুক্তি দেন। হিজরতের পথে যয়নব আক্রান্ত ও আহত হন। পরে আবুল আস ইসলাম গ্রহণ করলে তাঁরা পুনর্মিলিত হন, কিন্তু সেই আঘাতের রেশে ৮ হিজরিতে তিনি ইন্তিকাল করেন।",
+    "summaryBn": "যয়নব (রাঃ) ছিলেন নবী ﷺ ও খাদিজা (রাঃ)-এর জ্যেষ্ঠ কন্যা, খালাতো ভাই আবুল আস ইবনে রাবীর স্ত্রী। তিনি ঈমান আনলেও তাঁর স্বামী তখনো আনেননি, ফলে মক্কা-মদিনার বিভাজন তাঁদের আলাদা করে দেয়। বদরে আবুল আস বন্দি হলে যয়নব মুক্তিপণ হিসেবে পাঠান সেই হারটি, যা মা খাদিজা তাঁকে দিয়েছিলেন; তা দেখে নবী ﷺ আবেগাপ্লুত হন এবং মুসলিমরা তাঁকে মুক্তি দেন। হিজরতের পথে যয়নব আক্রান্ত ও আহত হন। পরে আবুল আস ইসলাম গ্রহণ করলে তাঁরা পুনর্মিলিত হন, কিন্তু সেই আঘাতের রেশে ৮ হিজরিতে তিনি ইন্তিকাল করেন।",
     "events": [
       {
         "en": "Married her cousin Abu al-'As ibn ar-Rabi' before revelation",
-        "bn": "ওহি নাযিলের আগে ফুফাতো ভাই আবুল আস ইবনে রাবীকে বিবাহ করেন"
+        "bn": "ওহি নাযিলের আগে খালাতো ভাই আবুল আস ইবনে রাবীকে বিবাহ করেন"
       },
       {
         "en": "Sent Khadijah's necklace to ransom her captured husband after Badr",

@@ -106,6 +106,7 @@ const LQ_ARTICLE_IDS = {
     "musab_ibn_umayr",
     "nusaybah_bint_kab_umm_umarah",
     "rufaydah_al_aslamiyyah",
+    "ruqayyah_bint_muhammad",
     "sad_ibn_abi_waqqas",
     "sad_ibn_muadh",
     "sad_ibn_ubadah",
@@ -125,6 +126,7 @@ const LQ_ARTICLE_IDS = {
     "umar_ibn_al_khattab",
     "umm_ayman_barakah",
     "umm_haram_bint_milhan",
+    "umm_kulthum_bint_muhammad",
     "umm_salamah",
     "umm_sulaym_bint_milhan",
     "uqbah_ibn_amir_al_juhani",
@@ -134,7 +136,8 @@ const LQ_ARTICLE_IDS = {
     "uthman_ibn_affan",
     "zayd_ibn_harithah",
     "zayd_ibn_thabit",
-    "zaynab_bint_jahsh"
+    "zaynab_bint_jahsh",
+    "zaynab_bint_muhammad"
   ],
   "tadabbur": [
     "100:6",
