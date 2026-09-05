@@ -4213,8 +4213,8 @@ const SAHABA_DATA = [
     "yearEn": "1st century AH",
     "highlightEn": "He killed al-Aswad al-Ansi, the false prophet, restoring Yemen.",
     "highlightBn": "ভণ্ড নবী আল-আসওয়াদ আল-আনসিকে হত্যা করে ইয়েমেন উদ্ধার করেন।",
-    "summaryEn": "Fayruz ad-Daylami (RA) was a Yemeni of Persian descent, from the community known as the Abna, who accepted Islam when the message of the Prophet Muhammad (peace be upon him) reached Yemen. When al-Aswad al-Ansi rose there claiming prophethood and seizing power by force, Fayruz joined a small band of believers who plotted to end his tyranny, and it was Fayruz who struck him down, freeing Yemen and returning it to Islam. The Prophet received news of the victory near the time of his own passing and praised the believer who accomplished it. Fayruz lived on as a respected figure in Yemen, an example of courage against imposture.",
-    "summaryBn": "ফাইরুয আদ-দাইলামি (রাঃ) ছিলেন পারস্য বংশোদ্ভূত একজন ইয়েমেনি, 'আবনা' নামে পরিচিত সম্প্রদায়ের সদস্য, যিনি রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম)-এর বার্তা ইয়েমেনে পৌঁছালে ইসলাম গ্রহণ করেন। আল-আসওয়াদ আল-আনসি যখন সেখানে নবুয়তের দাবি করে বলপ্রয়োগে ক্ষমতা দখল করে, তখন ফাইরুয মুষ্টিমেয় মুমিনের এক দলে যোগ দেন যারা তার অত্যাচার অবসানের পরিকল্পনা করেন; আর ফাইরুযই তাকে হত্যা করে ইয়েমেনকে মুক্ত করেন ও ইসলামে ফিরিয়ে আনেন। নবীজি নিজ ইন্তেকালের কাছাকাছি সময়ে এই বিজয়ের সংবাদ পান ও এর কৃতী মুমিনের প্রশংসা করেন। ফাইরুয ইয়েমেনে একজন সম্মানিত ব্যক্তি হিসেবে জীবন কাটান—ভণ্ডামির বিরুদ্ধে সাহসের এক দৃষ্টান্ত।",
+    "summaryEn": "Fayruz ad-Daylami (RA) was a Yemeni of Persian descent, from the community known as the Abna, who accepted Islam when the message of the Prophet Muhammad (peace be upon him) reached Yemen. When al-Aswad al-Ansi rose there claiming prophethood and seizing power by force, Fayruz joined a small band of believers who plotted to end his tyranny, and Fayruz was among those who struck him down; Yemen was afterwards restored to Islam. The sirah writers relate that the Prophet received news of the victory near the time of his own passing and praised the believer who accomplished it, though the dating is disputed. Fayruz lived on as a respected figure in Yemen, an example of courage against imposture.",
+    "summaryBn": "ফাইরুয আদ-দাইলামি (রাঃ) ছিলেন পারস্য বংশোদ্ভূত একজন ইয়েমেনি, 'আবনা' নামে পরিচিত সম্প্রদায়ের সদস্য, যিনি রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম)-এর বার্তা ইয়েমেনে পৌঁছালে ইসলাম গ্রহণ করেন। আল-আসওয়াদ আল-আনসি যখন সেখানে নবুয়তের দাবি করে বলপ্রয়োগে ক্ষমতা দখল করে, তখন ফাইরুয মুষ্টিমেয় মুমিনের এক দলে যোগ দেন যারা তার অত্যাচার অবসানের পরিকল্পনা করেন; আর যাঁরা তাকে হত্যা করেন ফাইরুয তাঁদের একজন; এরপর ইয়েমেন ইসলামে ফিরে আসে। সিরাত লেখকরা জানান, নবীজি নিজ ইন্তেকালের কাছাকাছি সময়ে এই বিজয়ের সংবাদ পান ও এর কৃতী মুমিনের প্রশংসা করেন, যদিও সময়কাল নিয়ে মতভেদ আছে। ফাইরুয ইয়েমেনে একজন সম্মানিত ব্যক্তি হিসেবে জীবন কাটান—ভণ্ডামির বিরুদ্ধে সাহসের এক দৃষ্টান্ত।",
     "events": [
       {
         "en": "A Yemeni of Persian descent who accepted Islam",
@@ -4254,31 +4254,29 @@ const SAHABA_DATA = [
     "roleEn": "From Slaying Hamza to Slaying the Liar",
     "roleBn": "হামযার হত্যাকারী থেকে ভণ্ড নবীর হন্তা",
     "yearEn": "1st century AH",
-    "highlightEn": "The mercy verse gave him hope, and he embraced Islam.",
-    "highlightBn": "রহমতের আয়াত তাঁকে আশা দেয়, আর তিনি ইসলাম গ্রহণ করেন।",
-    "summaryEn": "Wahshi ibn Harb (RA) was an Abyssinian slave in Makkah who killed the Prophet's uncle Hamza (RA) at the Battle of Uhud with his spear, promised freedom for the deed. He carried the weight of that act for years, feeling his sin too great for forgiveness. When he learned of the verse promising that Allah forgives all sins for those who turn to Him in repentance, hope revived in him, and he came to Madinah and embraced Islam. He later fought in the Ridda wars and killed Musaylima the liar at the Battle of Yamama, saying he had killed the best of men in ignorance and the worst of men in faith. His story is a lasting sign that no sinner is beyond Allah's mercy.",
-    "summaryBn": "ওয়াহশি ইবনে হারব (রাঃ) ছিলেন মক্কায় একজন আবিসিনীয় ক্রীতদাস, যিনি মুক্তির প্রতিশ্রুতিতে উহুদের যুদ্ধে নিজ বর্শা দিয়ে নবীজির চাচা হামযা (রাঃ)-কে হত্যা করেন। বহু বছর ধরে তিনি সেই কাজের বোঝা বহন করেন, নিজ পাপকে ক্ষমার অযোগ্য বলে অনুভব করতেন। যখন তিনি জানতে পারেন এমন এক আয়াতের কথা, যাতে আল্লাহ তাওবাকারীদের সকল পাপ ক্ষমার প্রতিশ্রুতি দিয়েছেন, তখন তাঁর অন্তরে আশা ফিরে আসে; তিনি মদিনায় এসে ইসলাম গ্রহণ করেন। পরে তিনি রিদ্দার যুদ্ধে অংশ নিয়ে ইয়ামামার যুদ্ধে ভণ্ড নবী মুসাইলিমাকে হত্যা করেন এবং বলেন, তিনি অজ্ঞতাবস্থায় শ্রেষ্ঠ মানুষকে ও ঈমান অবস্থায় নিকৃষ্ট মানুষকে হত্যা করেছেন। তাঁর কাহিনি চিরকালীন এক নিদর্শন যে কোনো পাপীই আল্লাহর রহমতের বাইরে নয়।",
+    "highlightEn": "He came with the delegation of Ta'if, declared Islam, and was received.",
+    "highlightBn": "তায়েফের প্রতিনিধিদলের সঙ্গে এসে ইসলাম ঘোষণা করেন, আর গৃহীত হন।",
+    "summaryEn": "Wahshi ibn Harb (RA) was an Abyssinian slave in Makkah who killed the Prophet's uncle Hamza (RA) at the Battle of Uhud with his spear, promised freedom for the deed. Sahih al-Bukhari carries his own account: after the conquest of Makkah he went to Ta'if, came to the Prophet with its delegation and declared Islam, and the Prophet, after hearing how Hamza had died, asked him to keep his face from his sight. He later fought in the Ridda wars and at the Battle of Yamama threw his spear at Musaylima the liar, saying, in Ibn Ishaq's telling, that if he had killed him he had killed the best of men and the worst of men. His story is a lasting sign that no sinner is beyond Allah's mercy.",
+    "summaryBn": "ওয়াহশি ইবনে হারব (রাঃ) ছিলেন মক্কায় একজন আবিসিনীয় ক্রীতদাস, যিনি মুক্তির প্রতিশ্রুতিতে উহুদের যুদ্ধে নিজ বর্শা দিয়ে নবীজির চাচা হামযা (রাঃ)-কে হত্যা করেন। সহিহ বুখারিতে তাঁর নিজের বিবরণ আছে: মক্কা বিজয়ের পর তিনি তায়েফে চলে যান, তায়েফের প্রতিনিধিদলের সঙ্গে নবীজির কাছে এসে ইসলাম ঘোষণা করেন, আর হামযার মৃত্যুর বিবরণ শোনার পর নবীজি তাঁকে বলেন নিজের মুখ তাঁর দৃষ্টি থেকে আড়ালে রাখতে। পরে তিনি রিদ্দার যুদ্ধে অংশ নেন এবং ইয়ামামার যুদ্ধে ভণ্ড নবী মুসাইলিমার দিকে বর্শা ছোড়েন; ইবনে ইসহাকের বর্ণনায় তিনি বলেন, তিনি যদি তাকে হত্যা করে থাকেন, তবে তিনি শ্রেষ্ঠ মানুষকেও হত্যা করেছেন, নিকৃষ্ট মানুষকেও। তাঁর কাহিনি চিরকালীন এক নিদর্শন যে কোনো পাপীই আল্লাহর রহমতের বাইরে নয়।",
     "events": [
       {
         "en": "Killed Hamza (RA) at Uhud before accepting Islam",
         "bn": "ইসলাম গ্রহণের আগে উহুদে হামযা (রাঃ)-কে হত্যা করেন"
       },
       {
-        "en": "The verse of Allah's vast mercy renewed his hope",
-        "bn": "আল্লাহর বিশাল রহমতের আয়াত তাঁর আশা জাগায়"
+        "en": "Came to the Prophet with the Ta'if delegation and declared Islam (Sahih al-Bukhari)",
+        "bn": "তায়েফের প্রতিনিধিদলের সঙ্গে নবীজির কাছে এসে ইসলাম ঘোষণা করেন (সহিহ বুখারি)"
       },
       {
-        "en": "Came to Madinah and embraced Islam",
-        "bn": "মদিনায় এসে ইসলাম গ্রহণ করেন"
+        "en": "Asked to keep his face from the Prophet's sight",
+        "bn": "নবীজির দৃষ্টি থেকে নিজের মুখ আড়ালে রাখতে বলা হয়"
       },
       {
-        "en": "Killed Musaylima the liar at the Battle of Yamama",
-        "bn": "ইয়ামামার যুদ্ধে ভণ্ড নবী মুসাইলিমাকে হত্যা করেন"
+        "en": "Threw the spear that felled Musaylima the liar at Yamama",
+        "bn": "ইয়ামামায় ভণ্ড নবী মুসাইলিমার দিকে বর্শা ছোড়েন"
       }
     ],
-    "refs": [
-      "39:53"
-    ],
+    "refs": [],
     "lessonEn": "No sin is so great that sincere repentance cannot reach Allah's boundless mercy.",
     "lessonBn": "কোনো পাপ এত বড় নয় যে আন্তরিক তওবা আল্লাহর অসীম রহমতে পৌঁছাতে পারে না।"
   },
@@ -4993,7 +4991,7 @@ const SAHABA_DATA = [
     "highlightEn": "Surah 'Abasa was revealed about him — Allah Himself took his side.",
     "highlightBn": "তাঁকে কেন্দ্র করেই সূরা আবাসা নাযিল হয় — স্বয়ং আল্লাহ তাঁর পক্ষ নেন।",
     "summaryEn": "Abdullah ibn Umm Maktum (RA), a blind early convert of Makkah and a cousin of Khadijah (RA), came eagerly to the Prophet ﷺ while he was engaged with the chiefs of Quraysh. When the Prophet frowned and turned away, Allah revealed the opening of Surah 'Abasa (80:1-10), gently correcting His Messenger — the seeking heart outweighs the mighty. Thereafter the Prophet ﷺ would welcome him warmly. In Madinah he served as a muezzin alongside Bilal, and the Prophet left him in charge of the city during several campaigns. The exemption verse for the disabled (4:95) was revealed after his question, yet reports say he still carried the banner at al-Qadisiyyah.",
-    "summaryBn": "মক্কার দৃষ্টিহীন প্রাথমিক মুসলিম ও খাদিজা (রাঃ)-এর ফুফাতো ভাই আবদুল্লাহ ইবনে উম্মে মাকতুম (রাঃ) একবার আগ্রহভরে নবী ﷺ-এর কাছে আসেন, যখন তিনি কুরাইশ নেতাদের সাথে আলোচনায় ব্যস্ত। নবী ভ্রু কুঁচকে মুখ ফিরিয়ে নিলে আল্লাহ সূরা আবাসার শুরুর আয়াতগুলো (৮০:১-১০) নাযিল করে স্নেহভরে তাঁর রাসুলকে শুধরে দেন — সত্যান্বেষী হৃদয় ক্ষমতাবানদের চেয়ে ভারী। এরপর নবী ﷺ তাঁকে সাদরে বরণ করতেন। মদিনায় তিনি বিলালের সাথে মুয়াজ্জিন ছিলেন, একাধিক অভিযানে নবী তাঁকে মদিনার দায়িত্বে রেখে যান। তাঁর প্রশ্নের পরই অক্ষমদের অব্যাহতির আয়াত (৪:৯৫) নাযিল হয়, তবু বর্ণনামতে কাদিসিয়ার যুদ্ধে তিনি পতাকা বহন করেছিলেন।",
+    "summaryBn": "মক্কার দৃষ্টিহীন প্রাথমিক মুসলিম ও খাদিজা (রাঃ)-এর মামাতো ভাই আবদুল্লাহ ইবনে উম্মে মাকতুম (রাঃ) একবার আগ্রহভরে নবী ﷺ-এর কাছে আসেন, যখন তিনি কুরাইশ নেতাদের সাথে আলোচনায় ব্যস্ত। নবী ভ্রু কুঁচকে মুখ ফিরিয়ে নিলে আল্লাহ সূরা আবাসার শুরুর আয়াতগুলো (৮০:১-১০) নাযিল করে স্নেহভরে তাঁর রাসুলকে শুধরে দেন — সত্যান্বেষী হৃদয় ক্ষমতাবানদের চেয়ে ভারী। এরপর নবী ﷺ তাঁকে সাদরে বরণ করতেন। মদিনায় তিনি বিলালের সাথে মুয়াজ্জিন ছিলেন, একাধিক অভিযানে নবী তাঁকে মদিনার দায়িত্বে রেখে যান। তাঁর প্রশ্নের পরই অক্ষমদের অব্যাহতির আয়াত (৪:৯৫) নাযিল হয়, তবু বর্ণনামতে কাদিসিয়ার যুদ্ধে তিনি পতাকা বহন করেছিলেন।",
     "events": [
       {
         "en": "Embraced Islam in the earliest Makkan days",
@@ -5283,16 +5281,16 @@ const SAHABA_DATA = [
     "yearEn": "d. c. 645 CE",
     "highlightEn": "Promised the bracelets of Chosroes while hunting the Prophet ﷺ for a bounty.",
     "highlightBn": "পুরস্কারের লোভে নবী ﷺ-কে ধাওয়া করতে গিয়ে পান কিসরার কঙ্কনের প্রতিশ্রুতি।",
-    "summaryEn": "Suraqah ibn Malik (RA) of Banu Mudlij rode out during the Hijrah to capture the Prophet ﷺ for Quraysh's bounty of a hundred camels. Each time he drew near, his horse sank into the sand until he begged for amnesty — and received it. Turning back, he misdirected the other pursuers. Reports tell that the Prophet ﷺ foretold that Suraqah would one day wear the bracelets of Chosroes, emperor of Persia. He embraced Islam after the campaigns of the conquest year, and when the treasures of Persia later reached Madinah, Umar (RA) placed Kisra's bracelets upon Suraqah's wrists, fulfilling the promise before the people.",
-    "summaryBn": "বনু মুদলিজের সুরাকা ইবনে মালিক (রাঃ) হিজরতের সময় কুরাইশের একশো উটের পুরস্কারের আশায় নবী ﷺ-কে ধরতে বেরিয়েছিলেন। যতবার কাছে পৌঁছান, ততবার তাঁর ঘোড়া বালিতে দেবে যায়; শেষে তিনি নিরাপত্তা ভিক্ষা করেন — এবং পান। ফিরে গিয়ে অন্য অনুসন্ধানকারীদের ভুল পথে পাঠান। বর্ণনায় আছে, নবী ﷺ ভবিষ্যদ্বাণী করেন — সুরাকা একদিন পারস্য-সম্রাট কিসরার কঙ্কন পরবেন। বিজয় বর্ষের অভিযানগুলোর পর তিনি ইসলাম গ্রহণ করেন, আর পরে পারস্যের ধনভান্ডার মদিনায় পৌঁছালে উমর (রাঃ) জনসমক্ষে কিসরার কঙ্কন সুরাকার হাতে পরিয়ে সেই প্রতিশ্রুতি পূর্ণ করেন।",
+    "summaryEn": "Suraqah ibn Malik (RA) of Banu Mudlij rode out during the Hijrah to capture the Prophet ﷺ for Quraysh's bounty of a hundred camels. As he drew near, his horse stumbled and then sank into the ground, until he offered peace and asked for a writ of security — and received it. Turning back, he misdirected the other pursuers. Reports tell that the Prophet ﷺ foretold that Suraqah would one day wear the bracelets of Chosroes, emperor of Persia. He embraced Islam after the campaigns of the conquest year, and when the treasures of Persia later reached Madinah, Umar (RA), the historians relate, placed Kisra's bracelets upon Suraqah's wrists, fulfilling the promise before the people.",
+    "summaryBn": "বনু মুদলিজের সুরাকা ইবনে মালিক (রাঃ) হিজরতের সময় কুরাইশের একশো উটের পুরস্কারের আশায় নবী ﷺ-কে ধরতে বেরিয়েছিলেন। কাছে পৌঁছাতেই তাঁর ঘোড়া হোঁচট খায়, তারপর মাটিতে দেবে যায়; শেষে তিনি শান্তির প্রস্তাব দিয়ে নিরাপত্তার লিখিত অঙ্গীকার চান — এবং পান। ফিরে গিয়ে অন্য অনুসন্ধানকারীদের ভুল পথে পাঠান। বর্ণনায় আছে, নবী ﷺ ভবিষ্যদ্বাণী করেন — সুরাকা একদিন পারস্য-সম্রাট কিসরার কঙ্কন পরবেন। বিজয় বর্ষের অভিযানগুলোর পর তিনি ইসলাম গ্রহণ করেন, আর পরে পারস্যের ধনভান্ডার মদিনায় পৌঁছালে ঐতিহাসিকদের বর্ণনায়, উমর (রাঃ) জনসমক্ষে কিসরার কঙ্কন সুরাকার হাতে পরিয়ে সেই প্রতিশ্রুতি পূর্ণ করেন।",
     "events": [
       {
         "en": "Pursued the Prophet ﷺ during the Hijrah for Quraysh's bounty",
         "bn": "কুরাইশের পুরস্কারের জন্য হিজরতের সময় নবী ﷺ-কে ধাওয়া করেন"
       },
       {
-        "en": "His horse sank repeatedly; he sought and received amnesty",
-        "bn": "ঘোড়া বারবার দেবে যায়; নিরাপত্তা চেয়ে তা লাভ করেন"
+        "en": "His horse sank; he sought and received a writ of security",
+        "bn": "ঘোড়া দেবে যায়; নিরাপত্তার লিখিত অঙ্গীকার চেয়ে তা লাভ করেন"
       },
       {
         "en": "Turned the other pursuers away from the trail",
