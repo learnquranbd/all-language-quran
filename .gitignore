@@ -39,3 +39,4 @@ opencode.json
 firebase-debug.log
 .firebaserc.local
 qa/
+tools/wip/

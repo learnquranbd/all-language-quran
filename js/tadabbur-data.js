@@ -3945,6 +3945,86 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "What a heart is allowed to drink decides whether hearing becomes obeying; guard what soaks in before the command arrives.",
     "lessonBn": "হৃদয়কে যা পান করতে দেওয়া হয়, তা-ই ঠিক করে শোনা মানায় গড়াবে কি না; হুকুম আসার আগেই দেখুন ভেতরে কী ঢুকছে।"
+  },
+  "2:49-50": {
+    "reflectionEn": "Before Allah asks anything more of the Children of Israel, He asks them to remember. Two scenes are set side by side: the years under Pharaoh's people, when sons were slaughtered and daughters were spared, and the morning the sea stood open and the pursuers went under while the rescued watched from the far shore. The verse calls the whole of it a great trial from your Lord: the suffering tested them, and so did the rescue. The address is to descendants who saw none of it, because a favour to a people's fathers is a favour to them. Every reader inherits deliverances he never witnessed, and the question the verse leaves is what he does with the memory.",
+    "reflectionBn": "বনী ইসরাঈলের কাছে নতুন কিছু চাওয়ার আগে আল্লাহ তাদের মনে করিয়ে দেন। পাশাপাশি দুটো দৃশ্য: ফেরাউনের লোকদের হাতে সেই বছরগুলো, যখন ছেলেদের জবাই করা হত আর মেয়েদের বাঁচিয়ে রাখা হত, আর সেই সকাল, যখন সাগর দু'ভাগ হয়ে পথ দিল এবং পিছু নেওয়া বাহিনী ডুবে গেল উদ্ধার পাওয়া মানুষের চোখের সামনে। পুরো ঘটনাকে আয়াত বলছে তোমাদের রবের পক্ষ থেকে মহাপরীক্ষা। কষ্ট যেমন পরীক্ষা ছিল, উদ্ধারও তেমনি। যাদের ডাকা হচ্ছে তারা এসবের কিছুই দেখেনি, কারণ পূর্বপুরুষের উপর নিয়ামত মানে সন্তানের উপরও নিয়ামত। প্রত্যেক পাঠকই এমন সব উদ্ধারের উত্তরাধিকারী, যা তিনি নিজে দেখেননি। আয়াত প্রশ্ন রেখে যায়: সেই স্মৃতি নিয়ে আপনি করবেন কী?",
+    "pointsEn": [
+      "Which rescues in my own life do I still remember, and which have I quietly taken as my due?",
+      "When I look back at a hardship that ended, do I see only the pain, or the hand that ended it?",
+      "The rescued watched their enemy drown: what happens in me when someone who wronged me falls?",
+      "If ease is also a trial, what is my current ease testing in me?",
+      "What would remembering a favour look like in my actions this week, not only in my feelings?"
+    ],
+    "pointsBn": [
+      "আমার নিজের জীবনের কোন উদ্ধারগুলো এখনো মনে রেখেছি, আর কোনগুলো চুপচাপ নিজের প্রাপ্য ধরে নিয়েছি?",
+      "কেটে যাওয়া কোনো কষ্টের দিকে ফিরে তাকালে আমি কি শুধু যন্ত্রণাটাই দেখি, নাকি যে হাত তা শেষ করল সেটাও?",
+      "উদ্ধার পাওয়া মানুষগুলো শত্রুকে ডুবতে দেখেছিল। যে আমার উপর জুলুম করেছে, সে পড়ে গেলে আমার ভেতরে কী হয়?",
+      "স্বাচ্ছন্দ্যও যদি পরীক্ষা হয়, আমার এখনকার আরাম আমার কী যাচাই করছে?",
+      "শুধু অনুভূতিতে নয়, এই সপ্তাহে আমার কাজে নিয়ামত স্মরণ করা দেখতে কেমন হবে?"
+    ],
+    "lessonEn": "A rescue remembered becomes gratitude; a rescue forgotten becomes entitlement.",
+    "lessonBn": "উদ্ধার মনে রাখলে তা শুকরিয়া হয়, ভুলে গেলে হয় প্রাপ্যের দাবি।"
+  },
+  "2:58-59": {
+    "reflectionEn": "The gift came with instructions. Enter this town, eat wherever you like in plenty, but go through the gate humbly and say one word: hittah, put our burdens down. The favour and the forgiveness were bundled together, and both were made easy. What was asked was not a feat but a posture and a word. Some of them changed the word. The Quran does not record what they said instead, only that it was other than what had been said to them, and that a punishment came down on the wrongdoers alone. The verse is about what a person does at the door of a mercy: whether he bows and asks, or straightens his back and jokes.",
+    "reflectionBn": "নিয়ামত এসেছিল নির্দেশ সমেত। এই জনপদে ঢোকো, যেখানে খুশি স্বচ্ছন্দে খাও, তবে দরজা দিয়ে ঢোকো মাথা নুইয়ে, আর একটা কথা বলো: হিত্তাহ, আমাদের বোঝা নামিয়ে দিন। নিয়ামত আর মাফ, দুটো একসাথে বাঁধা ছিল, আর দুটোই সহজ করে দেওয়া হয়েছিল। যা চাওয়া হয়েছিল তা কোনো কীর্তি নয়, স্রেফ একটা ভঙ্গি আর একটা শব্দ। তাদের কেউ কেউ শব্দটা বদলে ফেলল, সবাই নয়। বদলে কী বলেছিল, কুরআন তা লেখেনি। শুধু বলেছে, যা বলতে বলা হয়েছিল তার বাইরে অন্য কিছু, আর শাস্তি নেমেছিল কেবল জালিমদের উপর। আয়াতটি আসলে এই প্রশ্নের: রহমতের দরজায় দাঁড়িয়ে মানুষ করে কী, মাথা নুইয়ে চায়, নাকি পিঠ সোজা করে ঠাট্টা করে।",
+    "pointsEn": [
+      "When Allah's mercy asks something small of me, a posture, a word, do I give it, or do I find it beneath me?",
+      "What words of worship have I altered over time, until they no longer say what they were given to say?",
+      "Can I enter a blessing humbly, or does plenty make me careless at the gate?",
+      "Which door am I standing at right now, and what is being asked of me before I go in?",
+      "Do I take an offer of forgiveness seriously enough to ask for it in plain words?"
+    ],
+    "pointsBn": [
+      "আল্লাহর রহমত যখন আমার কাছে ছোট কিছু চায়, একটা ভঙ্গি, একটা শব্দ, আমি কি তা দিই, নাকি সেটা নিজের মানের নিচে মনে হয়?",
+      "ইবাদতের কোন কথাগুলো আমি সময়ের সাথে এমন বদলে ফেলেছি যে সেগুলো আর যা বলার কথা তা বলে না?",
+      "নিয়ামতের ভেতরে আমি কি নত হয়ে ঢুকতে পারি, নাকি প্রাচুর্য আমাকে দরজায় বেপরোয়া করে দেয়?",
+      "এই মুহূর্তে আমি কোন দরজায় দাঁড়িয়ে আছি, আর ঢোকার আগে আমার কাছে কী চাওয়া হচ্ছে?",
+      "মাফের প্রস্তাবকে কি আমি এতটা গুরুত্ব দিই যে সোজা কথায় মাফ চাই?"
+    ],
+    "lessonEn": "Forgiveness is offered cheaply; what it costs is bowing at the gate and meaning the word.",
+    "lessonBn": "মাফ সস্তায় দেওয়া হয়; দাম শুধু দরজায় মাথা নোয়ানো আর শব্দটা মন থেকে বলা।"
+  },
+  "2:61": {
+    "reflectionEn": "They had bread from the sky and meat that came to them, and they wanted onions. Not because manna was bad but because it was the same. The verse records the request without mockery and then records Musa's (AS) answer: would you trade the better for the lesser? What you ask for is in any town. Then the verse widens, and the tone changes. Humiliation and neediness were struck upon them, and anger from Allah, because of a long record: disbelieving in signs, killing prophets, disobedience, transgression. The Quran is drawing a line from a small complaint to a large ruin, and it draws the line for the reader, not against a people. Boredom with a blessing is where the descent begins.",
+    "reflectionBn": "তাদের ছিল আসমান থেকে আসা রুটি আর নিজে থেকে চলে আসা গোশত, আর তারা চাইল পেঁয়াজ। মান্না খারাপ ছিল বলে নয়, একই ছিল বলে। কুরআন আবদারটা লেখে ঠাট্টা ছাড়াই, তারপর লেখে মূসা (আঃ)-এর জবাব: তোমরা কি উত্তমের বদলে নিকৃষ্ট নিতে চাও? যা চাইছ তা যেকোনো শহরেই আছে, নেমে গিয়ে নিয়ে নাও। তারপর আয়াত প্রসারিত হয়, আর সুর বদলে যায়। তাদের উপর চাপল লাঞ্ছনা আর অভাব, আর আল্লাহর গজব, এক লম্বা খতিয়ানের কারণে: নিদর্শন অস্বীকার, নবী হত্যা, নাফরমানি, সীমালঙ্ঘন। কুরআন ছোট এক অভিযোগ থেকে বড় এক ধ্বংস পর্যন্ত রেখা টানছে, আর টানছে পাঠকের জন্য, কোনো জাতির বিরুদ্ধে নয়। নিয়ামতে বিরক্তি, সেখান থেকেই নামা শুরু।",
+    "pointsEn": [
+      "Which blessing in my life have I grown bored of, simply because it is reliable?",
+      "When I ask Allah for a change, am I trading a better thing for a lesser one I merely find more familiar?",
+      "What is the one kind of food I keep complaining about, and Who provided it?",
+      "Where in my life did a small refusal quietly grow into a habit of refusing?",
+      "Do I receive what Allah chose for me as provision, or as a menu to send back?"
+    ],
+    "pointsBn": [
+      "আমার জীবনের কোন নিয়ামতে আমি বিরক্ত, স্রেফ এই কারণে যে সেটা ভরসার মতো আছে?",
+      "আল্লাহর কাছে বদল চাওয়ার সময় আমি কি উত্তম কিছু দিয়ে নিচু কিছু নিচ্ছি, শুধু সেটা বেশি চেনা বলে?",
+      "আমার সেই 'এক রকম খাবার' কী, যা নিয়ে অভিযোগ করেই যাই, আর সেটা দিলেন কে?",
+      "আমার জীবনে কোথায় একটা ছোট অস্বীকার চুপচাপ অস্বীকারের অভ্যাস হয়ে গেছে?",
+      "আল্লাহ আমার জন্য যা বেছেছেন তা কি আমি রিজিক হিসেবে নিই, নাকি ফেরত পাঠানোর মেনু হিসেবে?"
+    ],
+    "lessonEn": "Impatience with a good thing is the first step down; ask Allah to keep you content with what He chose.",
+    "lessonBn": "ভালো জিনিসে অধৈর্য হওয়াই নামার প্রথম ধাপ; আল্লাহ যা বেছেছেন তাতে তুষ্ট থাকার তৌফিক চান।"
+  },
+  "2:65-66": {
+    "reflectionEn": "You already know about them, the verse begins, because the story of the Sabbath-breakers was theirs. A day had been set apart for them, and some among them found a way around it. The answer was a word: be apes, driven away. The Quran gives the sentence and none of the details, and then, in 2:66, says why the story is kept: as a deterrent for those present and those who came after, and as a lesson for the God-fearing. The same event is a warning to one kind of reader and a teaching to another. The difference is not in the story but in the taqwa of the one who hears it. The verse asks which kind of hearer you are.",
+    "reflectionBn": "তোমরা তো জানই, আয়াত এভাবে শুরু হয়, কারণ শনিবারের সীমালঙ্ঘনকারীদের গল্প ছিল তাদেরই। তাদের জন্য একটা দিন আলাদা করে রাখা হয়েছিল, আর তাদের কেউ কেউ সেটার পাশ কাটানোর পথ বের করল, খোলাখুলি অমান্য নয়, নিয়মের অক্ষর রেখে ফাঁক খোঁজা। জবাব এল একটি শব্দে: ঘৃণিত বানর হয়ে যাও। কুরআন রায়টা দেয়, খুঁটিনাটি কিছুই দেয় না, তারপর ২:৬৬ আয়াতে বলে গল্পটা রাখা হল কেন: যারা উপস্থিত ছিল আর যারা পরে এল তাদের জন্য শাস্তির নজির হিসেবে, আর মুত্তাকীদের জন্য উপদেশ হিসেবে। একই ঘটনা এক রকম পাঠকের জন্য সাবধানবাণী, আরেক রকমের জন্য শিক্ষা। ফারাক গল্পে নয়, যে শোনে তার তাকওয়ায়। আয়াত জিজ্ঞেস করে, আপনি কোন রকম শ্রোতা।",
+    "pointsEn": [
+      "Where in my religion have I found a way around a rule while keeping its letter?",
+      "When I hear of someone punished for a trick I also use, do I take warning, or take comfort that I have not been caught?",
+      "The story is a lesson only to the God-fearing: what does that say about how I read the Quran's warnings?",
+      "What day, or what limit, has Allah set apart in my life that I have quietly renegotiated?",
+      "Which wrong around me have I decided is not my business, when those who spoke against it were the ones saved?"
+    ],
+    "pointsBn": [
+      "আমার দ্বীনে কোথায় আমি নিয়মের অক্ষর রেখে তার পাশ কাটানোর পথ খুঁজে নিয়েছি?",
+      "আমি যে চাল চালি, তার জন্য কেউ শাস্তি পেয়েছে শুনলে আমি কি সাবধান হই, নাকি স্বস্তি পাই যে ধরা পড়িনি?",
+      "গল্পটা উপদেশ কেবল আল্লাহভীরুদের জন্য: কুরআনের সাবধানবাণী আমি যেভাবে পড়ি, তা নিয়ে এটা কী বলে?",
+      "আল্লাহ আমার জীবনে কোন দিন বা কোন সীমা আলাদা রেখেছেন যা আমি চুপচাপ নিজের মতো বদলে নিয়েছি?",
+      "আমার আশপাশের কোন অন্যায়কে আমি ঠিক করে নিয়েছি আমার ব্যাপার নয়, অথচ যারা এর বিরুদ্ধে বলেছিল তারাই বেঁচেছিল?"
+    ],
+    "lessonEn": "A loophole in Allah's law is not cleverness but transgression; let the story warn you before it has to.",
+    "lessonBn": "আল্লাহর আইনের ফাঁক খোঁজা চালাকি নয়, সীমালঙ্ঘন; গল্পটাকে আগেই আপনাকে সাবধান করতে দিন।"
   }
 };
 

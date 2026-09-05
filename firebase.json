@@ -6,6 +6,7 @@
       "**/.*",
       "**/node_modules/**",
       "docs/**",
+      "qa/**",
       "src/**",
       "tailwind.config.js",
       "package.json",
