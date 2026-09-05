@@ -78,7 +78,13 @@ class AyahTimeline {
   async trFile(lang) {
     if (this._trFiles[lang] !== undefined) return this._trFiles[lang];
     try {
-      this._trFiles[lang] = await fetch(`data/translations/${lang}.json`).then(r => (r.ok ? r.json() : null));
+      /* An empty dictionary counts as absent: data/translations/ar.json is
+       * deliberately `{}` (Arabic readers need no translation line) and `{}`
+       * is truthy, so without this every caller keeps a dictionary with no
+       * entries and renders blank translations instead of falling back. */
+      this._trFiles[lang] = await fetch(`data/translations/${lang}.json`)
+        .then(r => (r.ok ? r.json() : null))
+        .then(d => (d && typeof d === 'object' && Object.keys(d).length ? d : null));
     } catch (_) { this._trFiles[lang] = null; }
     return this._trFiles[lang];
   }

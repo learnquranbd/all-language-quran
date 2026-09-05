@@ -1686,7 +1686,7 @@ const SEERAH_QUIZ = [
     optsEn: ['Ali ibn Abi Talib', 'Abu Bakr as-Siddiq', 'Umar ibn al-Khattab', 'Hamzah ibn Abd al-Muttalib'], optsBn: ['আলী ইবন আবি তালিব', 'আবু বকর আস-সিদ্দিক', 'উমর ইবন আল-খাত্তাব', 'হামযাহ ইবন আব্দুল মুত্তালিব'], correct: 1 },
   { qEn: 'How many years did the revelation span?', qBn: 'কত বছর ধরে ওহি নাযিল হয়?',
     optsEn: ['13 years', '20 years', '23 years', '10 years'], optsBn: ['১৩ বছর', '২০ বছর', '২৩ বছর', '১০ বছর'], correct: 2 },
-  { qEn: 'How many verses of the Quran were revealed in Mecca?', qBn: 'কুরআনের কতটি আয়াত মক্কায় নাযিল হয়?',
+  { qEn: 'How many surahs of the Quran were revealed in Mecca?', qBn: 'কুরআনের কতটি সূরা মক্কায় নাযিল হয়?',
     optsEn: ['~86 surahs (most of them)', 'All of them', '~28 surahs', 'Only the short surahs'], optsBn: ['~৮৬ সূরা (অধিকাংশ)', 'সবগুলো', '~২৮ সূরা', 'শুধু ছোট সূরাগুলো'], correct: 0 },
   { qEn: 'What was the first command revealed to the Prophet ﷺ?', qBn: 'নবী ﷺ-কে সর্বপ্রথম কী আদেশ দেওয়া হয়?',
     optsEn: ['"Read/Recite" (Iqra)', '"Arise and warn"', '"Pray"', '"Fast"'], optsBn: ['"পড়ুন" (ইকরা)', '"উঠে সতর্ক করুন"', '"নামাজ পড়ুন"', '"রোজা রাখুন"'], correct: 0 },

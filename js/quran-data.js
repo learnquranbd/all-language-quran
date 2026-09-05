@@ -294,8 +294,12 @@ const QuranData = {
   _localTrP: {},
   getLocalTranslations(lang) {
     if (!(lang in this._localTrP)) {
+      /* `{}` is truthy: data/translations/ar.json is deliberately empty, so an
+       * emptiness check here keeps every consumer's `|| fallback` alive. */
       this._localTrP[lang] = fetch(`data/translations/${lang}.json`)
-        .then(r => r.ok ? r.json() : null).catch(() => null);
+        .then(r => r.ok ? r.json() : null)
+        .then(d => (d && typeof d === 'object' && Object.keys(d).length ? d : null))
+        .catch(() => null);
     }
     return this._localTrP[lang];
   },

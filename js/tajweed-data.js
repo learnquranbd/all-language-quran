@@ -66,9 +66,9 @@ const TAJWEED_LESSONS = {
   izhar_halqi: { group: 'noon', names: { bn: 'ইযহার হালকি', ar: 'الإظهار الحلقي' }, letters: 'ء هـ ع ح غ خ',
     en: 'Clear pronunciation: noon sakinah/tanween before the six throat letters is pronounced clearly with no ghunnah and no merging.',
     bn: 'ইযহার হালকি: নূন সাকিন/তানউইনের পরে ছয়টি গলার হরফ এলে গুন্নাহ বা মিলন ছাড়াই স্পষ্ট উচ্চারণ।' },
-  izhar_mutlaq: { group: 'noon', names: { bn: 'ইযহার মুতলাক', ar: 'الإظهار المطلق' }, letters: 'ي و ن م',
-    en: 'Absolute clarity: noon sakinah followed by ي, و, م or ن within the SAME word is always clear — never merged (e.g. دُنْيَا, بُنْيَان, صِنْوَان).',
-    bn: 'ইযহার মুতলাক: একই শব্দে নূন সাকিনের পরে ي، و، م বা ن এলে সর্বদা স্পষ্ট উচ্চারণ — কোনো মিলন নেই (যেমন دُنْيَا, بُنْيَان)।' },
+  izhar_mutlaq: { group: 'noon', names: { bn: 'ইযহার মুতলাক', ar: 'الإظهار المطلق' }, letters: 'ي و',
+    en: 'Absolute clarity: noon sakinah followed by ي or و within the SAME word is always clear — never merged. It occurs in only four words in the Quran: دُنْيَا, بُنْيَان, صِنْوَان, قِنْوَان.',
+    bn: 'ইযহার মুতলাক: একই শব্দে নূন সাকিনের পরে ي বা و এলে সর্বদা স্পষ্ট উচ্চারণ — কোনো মিলন নেই। কুরআনে মাত্র চারটি শব্দে আসে: دُنْيَا, بُنْيَان, صِنْوَان, قِنْوَان।' },
 
   // ── Madd al-Far'ī: derived/secondary madd types ──────────────────────────
   madd_aridh: { group: 'madd', names: { bn: 'মাদ্দ আরিদ লিস-সুকুন (২/৪/৬)', ar: 'المد العارض للسكون (2/4/6)' }, letters: 'ا و ي',

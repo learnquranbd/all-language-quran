@@ -324,7 +324,7 @@ class SawmModule {
             </div>
             <div class="p-3 rounded-xl bg-teal-50 dark:bg-teal-900/20 border border-teal-100 dark:border-teal-900/40">
               <div class="text-sm font-semibold text-teal-800 dark:text-teal-200">${L({ en: 'Who receives', bn: 'কে পাবেন' })}</div>
-              <p class="text-xs text-teal-700 dark:text-teal-300 mt-1" dir="auto">${L({ en: 'The poor and needy — same categories as Zakat (9:60), so no non-Muslim family is left hungry on Eid.', bn: 'গরিব ও অভাবী — সাধারণ যাকাতের মতোই আট শ্রেণির লোক (৯:৬০), যাতে ঈদের দিন কোনো পরিবার ক্ষুধার্ত না থাকে।' })}</p>
+              <p class="text-xs text-teal-700 dark:text-teal-300 mt-1" dir="auto">${L({ en: 'The poor and needy (al-fuqara\' and al-masakin). Ibn Abbas (RA) reported that the Prophet ﷺ made it obligatory "as food for the poor" (tu\'matan lil-masakin) — Abu Dawud 1609. Most scholars therefore restrict it to the poor rather than all eight zakat categories of 9:60, so that no poor family has to beg on the day of Eid.', bn: 'গরিব ও অভাবী (ফকির ও মিসকিন)। ইবনে আব্বাস (রাঃ) বর্ণনা করেন যে নবী ﷺ এটি "গরিবদের খাদ্য হিসেবে" (তু\'মাতান লিল-মাসাকীন) ফরজ করেছেন — আবু দাউদ ১৬০৯। তাই অধিকাংশ আলিম একে ৯:৬০-এর আট শ্রেণির পরিবর্তে শুধু গরিবদের জন্য সীমাবদ্ধ রাখেন, যাতে ঈদের দিন কোনো গরিব পরিবারকে হাত পাততে না হয়।' })}</p>
             </div>
           </div>
         </div>

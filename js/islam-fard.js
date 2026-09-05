@@ -305,6 +305,11 @@ class FardModule {
     if (lang && lang !== 'en' && typeof CI18N !== 'undefined' && o.en) { const tr = CI18N.tr(lang, o.en); if (tr) return tr; }
     return o.en || o.bn || '';
   }
+
+  /* Some refs in this data are hadith citations ("Muslim 728"), not verses.
+   * Only a verse ref may become a chip that opens the verse modal; a hadith
+   * ref sent there produced a modal reading just "Error". */
+  isVerseRef(ref) { return /^\d{1,3}:\d{1,3}/.test(String(ref || '').trim()); }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
   render() {
     this.rendered = true;
@@ -339,7 +344,7 @@ class FardModule {
                 <div class="flex-1 min-w-0">
                   <div class="text-sm font-semibold text-gray-800 dark:text-gray-100"><span aria-hidden="true">${p.emoji}</span> ${L({ en: p.titleEn, bn: p.titleBn })}</div>
                   <p class="text-xs text-gray-600 dark:text-gray-300 mt-1 leading-relaxed" dir="auto">${L({ en: p.descEn, bn: p.descBn })}</p>
-                  <button type="button" data-fard-ayah="${this.esc(p.ref.split(',')[0].trim())}" class="mt-2 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-[0.65rem] font-medium hover:bg-emerald-500 hover:text-white transition-colors">📖 ${this.esc(p.ref)}</button>
+                  ${this.isVerseRef(this.esc(p.ref.split(',')[0].trim())) ? `<button type="button" data-fard-ayah="${this.esc(p.ref.split(',')[0].trim())}" class="mt-2 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-[0.65rem] font-medium hover:bg-emerald-500 hover:text-white transition-colors">📖 ${this.esc(p.ref)}</button>` : `<span class="mt-2 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-[0.65rem] font-medium transition-colors">📖 ${this.esc(p.ref)}</span>`}
                 </div>
               </div>`).join('')}
           </div>
@@ -352,7 +357,7 @@ class FardModule {
               <div class="p-3 rounded-xl bg-gray-50 dark:bg-gray-900/40 border border-gray-200 dark:border-gray-700">
                 <div class="text-sm font-semibold text-gray-800 dark:text-gray-100"><span aria-hidden="true">${o.emoji}</span> ${L({ en: o.titleEn, bn: o.titleBn })}</div>
                 <p class="text-xs text-gray-600 dark:text-gray-300 mt-1 leading-relaxed" dir="auto">${L({ en: o.descEn, bn: o.descBn })}</p>
-                <button type="button" data-fard-ayah="${this.esc(o.ref.split(',')[0].trim())}" class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.65rem] font-medium hover:bg-primary hover:text-white transition-colors">📖 ${this.esc(o.ref)}</button>
+                ${this.isVerseRef(this.esc(o.ref.split(',')[0].trim())) ? `<button type="button" data-fard-ayah="${this.esc(o.ref.split(',')[0].trim())}" class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.65rem] font-medium hover:bg-primary hover:text-white transition-colors">📖 ${this.esc(o.ref)}</button>` : `<span class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.65rem] font-medium transition-colors">📖 ${this.esc(o.ref)}</span>`}
               </div>`).join('')}
           </div>
         </div>
@@ -368,7 +373,7 @@ class FardModule {
             ].map(q => `
               <div class="p-3 rounded-xl bg-red-50 dark:bg-red-900/20 border border-red-100 dark:border-red-900/30">
                 <p class="text-sm text-red-800 dark:text-red-200 leading-relaxed" dir="auto">${L({ en: q.en, bn: q.bn })}</p>
-                <button type="button" data-fard-ayah="${this.esc(q.ref)}" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-red-500/10 text-red-700 dark:text-red-300 text-xs font-medium hover:bg-red-500 hover:text-white transition-colors">📖 ${this.esc(q.ref)} ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+                ${this.isVerseRef(this.esc(q.ref)) ? `<button type="button" data-fard-ayah="${this.esc(q.ref)}" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-red-500/10 text-red-700 dark:text-red-300 text-xs font-medium hover:bg-red-500 hover:text-white transition-colors">📖 ${this.esc(q.ref)} ${L({ en: 'Read', bn: 'পড়ুন' })}</button>` : `<span class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-red-500/10 text-red-700 dark:text-red-300 text-xs font-medium transition-colors">📖 ${this.esc(q.ref)} ${L({ en: 'Read', bn: 'পড়ুন' })}</span>`}
               </div>`).join('')}
           </div>
           <div class="space-y-2">
@@ -400,7 +405,7 @@ class FardModule {
             ${FARD_QUR.map(q => `
               <div class="p-3 rounded-xl bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-100 dark:border-emerald-900/40">
                 <p class="text-sm text-emerald-800 dark:text-emerald-200 leading-relaxed" dir="auto">${L({ en: q.en, bn: q.bn })}</p>
-                <button type="button" data-fard-ayah="${this.esc(q.ref)}" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium hover:bg-emerald-500 hover:text-white transition-colors">📖 ${this.esc(q.ref)} ${L({ en: 'Read', bn: 'পড়ুন' })}</button>
+                ${this.isVerseRef(this.esc(q.ref)) ? `<button type="button" data-fard-ayah="${this.esc(q.ref)}" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium hover:bg-emerald-500 hover:text-white transition-colors">📖 ${this.esc(q.ref)} ${L({ en: 'Read', bn: 'পড়ুন' })}</button>` : `<span class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium transition-colors">📖 ${this.esc(q.ref)} ${L({ en: 'Read', bn: 'পড়ুন' })}</span>`}
               </div>`).join('')}
           </div>
         </div>

@@ -47,8 +47,8 @@ const MUTASHABIHAT_GROUPS = [
     nameEn: '"What Will Make You Know…" (Wa-mā Adrāka Mā)',
     nameBn: '"কিসে তোমাকে জানাবে…" (ওয়া মা আদরাকা মা)',
     nameAr: 'وما أدراك ما',
-    descEn: 'This rhetorical formula — "And what will make you perceive what [X] is?" — is used 13 times to heighten the drama of cosmic or eschatological events. The formula is identical each time; only the subject differs.',
-    descBn: 'এই অলংকারিক সূত্র — "আর কিসে তোমাকে জানাবে [অমুক] কী?" — মহাজাগতিক বা পরকালীন ঘটনাসমূহের নাটকীয়তা বাড়াতে ১৩ বার ব্যবহৃত হয়। প্রতিবার সূত্রটি অভিন্ন; কেবল বিষয় ভিন্ন।',
+    descEn: 'This rhetorical formula — "And what will make you perceive what [X] is?" — is used 13 times to heighten the drama of cosmic or eschatological events. Twelve occurrences open with "wa-mā adrāka mā…" and only the subject differs. The single exception is al-Infiṭār 82:18, which repeats 82:17 word for word but opens with "thumma" (then) instead of "wa" — the same subject (yawm al-dīn) restated for emphasis. Memorise the pair 82:17 → 82:18 by that wa/thumma switch.',
+    descBn: 'এই অলংকারিক সূত্র — "আর কিসে তোমাকে জানাবে [অমুক] কী?" — মহাজাগতিক বা পরকালীন ঘটনাসমূহের নাটকীয়তা বাড়াতে ১৩ বার ব্যবহৃত হয়। বারোটি স্থানে "ওয়া মা আদরাকা মা…" দিয়ে শুরু হয় এবং কেবল বিষয় ভিন্ন। একমাত্র ব্যতিক্রম আল-ইনফিতার ৮২:১৮, যা ৮২:১৭-এর হুবহু পুনরাবৃত্তি হলেও "ওয়া"-এর পরিবর্তে "সুম্মা" (অতঃপর) দিয়ে শুরু হয় — একই বিষয় (ইয়াওমুদ দীন) জোর দিতে পুনরায় বলা। ৮২:১৭ → ৮২:১৮ জোড়াটি এই ওয়া/সুম্মা পার্থক্য দিয়ে মনে রাখুন।',
     verses: ['69:3', '74:27', '77:14', '82:17', '82:18', '83:8', '83:19', '86:2', '90:12', '97:2', '101:3', '101:10', '104:5']
   },
   {
@@ -128,9 +128,9 @@ const MUTASHABIHAT_GROUPS = [
     nameEn: 'Noah\'s Ark — Divine Command to Build',
     nameBn: 'নূহের নৌকা — নির্মাণের ঐশী আদেশ',
     nameAr: 'أمر نوح ببناء السفينة',
-    descEn: 'The divine instruction to Nūḥ to build the ark appears three times. 11:37 and 23:27 are especially close; 26:116–118 varies more. Scholars note that 23:27 adds "bi-aʿyuninā" (under Our eyes) as a nuance absent in Hūd.',
-    descBn: 'নূহকে নৌকা নির্মাণের ঐশী নির্দেশ তিনবার আসে। ১১:৩৭ ও ২৩:২৭ বিশেষভাবে কাছাকাছি; ২৬:১১৬–১১৮ বেশি ভিন্ন। আলেমগণ উল্লেখ করেন যে ২৩:২৭ "বিআ‘ইউনিনা" (আমার চোখের সামনে) যোগ করে যা হূদে অনুপস্থিত।',
-    verses: ['11:37', '23:27', '26:116']
+    descEn: 'The divine instruction to Nūḥ to build the ark appears twice, and the two are very close. Both share "iṣnaʿi l-fulka bi-aʿyuninā wa-waḥyinā" and both end with "wa-lā tukhāṭibnī fi lladhīna ẓalamū innahum mughraqūn". Discriminator: Hūd opens with the direct imperative "wa-ṣnaʿi l-fulka" (Allah addresses Nūḥ directly), while al-Muʾminūn opens "fa-awḥaynā ilayhi ani ṣnaʿi l-fulka" (reported speech, "so We revealed to him"). Only 23:27 then adds the tannūr (the oven gushing forth) and the command to load "of every kind, two pairs" with his family — clauses absent in 11:37.',
+    descBn: 'নূহকে নৌকা নির্মাণের ঐশী নির্দেশ দুইবার আসে, এবং দুটি খুব কাছাকাছি। উভয়েই "ইসনা‘ইল ফুলকা বিআ‘ইউনিনা ওয়া ওয়াহয়িনা" রয়েছে এবং উভয়ই "ওয়া লা তুখাতিবনী ফিল্লাযীনা যালামূ ইন্নাহুম মুগরাকূন" দিয়ে শেষ হয়। পার্থক্য: হূদে সরাসরি আদেশ "ওয়াসনা‘ইল ফুলকা" (আল্লাহ সরাসরি নূহকে সম্বোধন করেন), আর মু\'মিনূনে শুরু হয় "ফাআওহাইনা ইলাইহি আনিসনা‘ইল ফুলকা" (পরোক্ষ বর্ণনা — "অতঃপর আমি তার কাছে ওহী পাঠালাম")। কেবল ২৩:২৭-এ এরপর তান্নূর (চুলা উথলে ওঠা) ও পরিবারসহ "প্রত্যেক প্রজাতির জোড়া জোড়া" তুলে নেওয়ার নির্দেশ যুক্ত হয় — যা ১১:৩৭-এ নেই।',
+    verses: ['11:37', '23:27']
   },
   {
     id: 'quran-3-7-cluster',

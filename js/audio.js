@@ -253,7 +253,10 @@ class AudioPlayer {
       if (this.currentIndex > 0) this.playIndex(this.currentIndex - 1);
     });
     document.getElementById('audio-next')?.addEventListener('click', () => this.playNext());
-    document.getElementById('reciter-select')?.addEventListener('change', () => {
+    document.getElementById('reciter-select')?.addEventListener('change', (e) => {
+      /* Persist it: only the settings-drawer mirror used to save, so a reciter
+       * picked here was silently reset to the stored default on next load. */
+      try { if (typeof appSettings !== 'undefined' && appSettings) appSettings.set('reciter', e.target.value); } catch (_) { /* playback still switches */ }
       if (this.currentIndex >= 0 && !this.audio.paused) this.playIndex(this.currentIndex);
     });
 

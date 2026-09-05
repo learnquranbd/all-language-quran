@@ -423,7 +423,11 @@ class QuranicArabicView {
         else if (scope === 'missed') { const ids = this.missedIds(); pool = this.lessons().filter(l => ids.indexOf(l.id) >= 0); }
         else pool = this.unitLessons(scope);
         // Tag each question with its lesson id so quiz results can update the missed list.
-        qs = this.shuffle((pool || []).filter(l => l && l.practice).map(l => Object.assign({ _lid: l.id }, l.practice)));
+        /* shuffleOptions as well as shuffle: without it the lesson answers keep
+         * their authored position, and across the 74 lesson questions index 3 is
+         * never the answer at all. The i'rab branch above already does this. */
+        qs = this.shuffle((pool || []).filter(l => l && l.practice)
+          .map(l => this.shuffleOptions(Object.assign({ _lid: l.id }, l.practice))));
       }
       if (!qs.length) { this.toSyllabus(); return; }
       const cap = (scope === 'final' || scope === 'missed' || scope === 'irab') ? 10 : 5;

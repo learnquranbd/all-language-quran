@@ -164,7 +164,10 @@ class Khatmah {
   overdueDays() {
     const cur = this.currentDay();
     const out = [];
-    for (let d = 1; d <= cur; d++) if (!this.plan.done.includes(d)) out.push(d);
+    /* `< cur`, not `<= cur`: today's portion is due today, not overdue. With
+     * <= a brand-new plan reported day 1 as missed before the reader had a
+     * chance to read it. */
+    for (let d = 1; d < cur; d++) if (!this.plan.done.includes(d)) out.push(d);
     return out;
   }
 
@@ -356,7 +359,9 @@ class Khatmah {
     const complete = doneCount >= p.days;
 
     // Pace: how many of the elapsed days are done
-    const diff = doneCount - cur;
+    /* currentDay() is 1-based, so on the start day cur === 1 and a fresh plan
+     * scored 0 - 1 = -1, telling every new reader they were "1 days behind". */
+    const diff = doneCount - (cur - 1);
     let pace;
     if (complete) pace = `<span class="text-green-600 dark:text-green-400 font-semibold">🎉 ${this.tt('khatmah_completed')}</span>`;
     else if (diff >= 0) pace = `<span class="text-green-600 dark:text-green-400">✓ ${diff > 0 ? this.tt('khatmah_ahead').replace('{n}', diff) : this.tt('khatmah_on_track')}</span>`;

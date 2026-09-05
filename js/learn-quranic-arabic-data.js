@@ -2460,7 +2460,7 @@ const QA_IRAB = [
   { ref: '55:46', q: QA_IRAB_Q,
     words: [ { ar: 'وَلِمَنْ' }, { ar: 'خَافَ' }, { ar: 'مَقَامَ رَبِّهِۦ' }, { ar: 'جَنَّتَانِ', hl: true } ],
     options: [{ en: 'mubtadaʾ (subject, rafʿ — dual noun)', bn: 'মুবতাদা (উদ্দেশ্য, রফ — দ্বিবচন)' }, { en: 'khabar (predicate)', bn: 'খবর (বিধেয়)' }, { en: 'fāʿil (doer)', bn: 'ক্রিয়ার কর্তা' }, { en: 'mafʿūl bihi (object)', bn: 'ক্রিয়ার কর্ম' }], answer: 0,
-    explain: { en: 'جَنَّتَانِ is a dual noun in rafʿ (‑ānِ ending), functioning as khabar — "there are two gardens for the one who feared."', bn: 'جَنَّتَانِ দ্বিবচন বিশেষ্য রফ অবস্থায় (‑ānِ শেষ), খবর হিসেবে — "যে ভয় করে তার জন্য দুটি জান্নাত রয়েছে।"' } },
+    explain: { en: 'جَنَّتَانِ is a dual noun in rafʿ (‑āni ending) — the mubtadaʾ muʾakhkhar (delayed subject). The preceding phrase وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ is the khabar muqaddam (fronted predicate): "and for the one who feared standing before his Lord — two gardens."', bn: 'جَنَّتَانِ দ্বিবচন বিশেষ্য রফ অবস্থায় (‑āni শেষ) — এটি মুবতাদা মুআখখার (বিলম্বিত উদ্দেশ্য)। পূর্ববর্তী অংশ وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ হলো খবর মুকাদ্দাম (অগ্রবর্তী বিধেয়): "আর যে তার রবের সামনে দাঁড়ানোর ভয় করে — তার জন্য দুটি জান্নাত।"' } },
   { ref: '14:7', q: QA_IRAB_Q,
     words: [ { ar: 'لَئِن' }, { ar: 'شَكَرْتُمْ', hl: true }, { ar: 'لَأَزِيدَنَّكُمْ' } ],
     options: [{ en: 'sharṭ verb (condition, past tense)', bn: 'শার্ত ক্রিয়া (শর্ত, অতীত কাল)' }, { en: 'jawāb al-sharṭ (consequence)', bn: 'জাওয়াব শার্ত (পরিণাম)' }, { en: 'khabar (predicate)', bn: 'খবর (বিধেয়)' }, { en: 'ḥāl (state)', bn: 'হাল (অবস্থা)' }], answer: 0,

@@ -28,7 +28,7 @@ const NUZUL_QUIZ = [
     optsEn: ['Bismillahir Rahmanir Rahim', 'Alhamdu lillahi Rabbil Alamin', 'Iqra bismi rabbik', 'Ya ayyuhal muddaththir'], optsBn: ['বিসমিল্লাহির রাহমানির রাহিম', 'আলহামদু লিল্লাহি রাব্বিল আলামিন', 'إقْرَأْ بِاسْمِ رَبِّكَ', 'يَا أَيُّهَا الْمُدَّثِّرُ'], correct: 2 },
   { qEn: 'Into how many phases is the revelation order typically divided?', qBn: 'অবতীর্ণের ক্রমকে সাধারণত কয়টি পর্যায়ে ভাগ করা হয়?',
     optsEn: ['2', '4', '6', '8'], optsBn: ['২', '৪', '৬', '৮'], correct: 1 },
-  { qEn: 'Which sūrah is the last complete sūrah of the Qur\'an?', qBn: 'কুরআনের সর্বশেষ পূর্ণাঙ্গ সূরা কোনটি?',
+  { qEn: 'Which sūrah is generally held to be the last complete sūrah revealed?', qBn: 'সর্বশেষ পূর্ণাঙ্গ সূরারূপে অবতীর্ণ হয়েছে কোন সূরা বলে সাধারণভাবে গ্রহণ করা হয়?',
     optsEn: ['Surah al-Ikhlas (112)', "Surah al-Falaq (113)", 'Surah an-Nas (114)', 'Surah an-Nasr (110)'], optsBn: ['সূরা ইখলাস (১১২)', 'সূরা ফালাক (১১৩)', 'সূরা নাস (১১৪)', 'সূরা নাসর (১১০)'], correct: 3 },
   { qEn: 'How many Meccan sūrahs are there in the Qur\'an?', qBn: 'কুরআনে কয়টি মক্কী সূরা আছে?',
     optsEn: ['82', '86', '92', '76'], optsBn: ['৮২', '৮৬', '৯২', '৭৬'], correct: 1 },
@@ -44,8 +44,8 @@ const NUZUL_QUIZ = [
     optsEn: ['When the Prophet\'s son passed away and he was mocked', 'During the Battle of Badr', 'During the conquest of Mecca', 'On the night of Isra and Mi\'raj'], optsBn: ['নবী ﷺ-এর পুত্রের ইন্তেকালে ব্যঙ্গ করা হলে', 'বদর যুদ্ধের সময়', 'মক্কা বিজয়ের সময়', 'ইসরা ও মিরাজের রাতে'], correct: 0 },
   { qEn: 'The longest sūrah in the Qur\'an was revealed in which phase?', qBn: 'কুরআনের দীর্ঘতম সূরাটি কোন পর্যায়ে অবতীর্ণ হয়েছে?',
     optsEn: ['Early Meccan', 'Middle Meccan', 'Late Meccan', 'Medinan'], optsBn: ['প্রথম মক্কী', 'মধ্য মক্কী', 'শেষ মক্কী', 'মাদানী'], correct: 3 },
-  { qEn: 'Which sūrah was revealed when the Prophet ﷺ was in the cave of Thawr during the Hijra?', qBn: 'হিজরতের সময় নবী ﷺ সাওর গুহায় থাকাকালে কোন সূরাটি অবতীর্ণ হয়?',
-    optsEn: ['Surah at-Tawbah (9)', 'Surah al-Anfal (8)', 'Surah Muhammad (47)', 'Surah al-Fatiha (1)'], optsBn: ['সূরা তাওবা (৯)', 'সূরা আনফাল (৮)', 'সূরা মুহাম্মাদ (৪৭)', 'সূরা ফাতিহা (১)'], correct: 0 },
+  { qEn: 'Which āyah describes the Prophet ﷺ in the cave with Abu Bakr (RA) — "Do not grieve; indeed Allah is with us"?', qBn: 'কোন আয়াতে নবী ﷺ ও আবু বকর (রাঃ)-এর গুহায় থাকার বর্ণনা এসেছে — "চিন্তা করো না, নিশ্চয়ই আল্লাহ আমাদের সাথে আছেন"?',
+    optsEn: ['At-Tawbah 9:40', 'Al-Anfal 8:30', 'Muhammad 47:7', 'Al-Fath 48:1'], optsBn: ['তাওবা ৯:৪০', 'আনফাল ৮:৩০', 'মুহাম্মাদ ৪৭:৭', 'ফাতহ ৪৮:১'], correct: 0 },
   { qEn: 'How many total sūrahs were revealed in the Meccan period?', qBn: 'মক্কী পর্যায়ে মোট কতটি সূরা অবতীর্ণ হয়েছে?',
     optsEn: ['About 48', 'About 62', 'About 86', 'About 96'], optsBn: ['প্রায় ৪৮', 'প্রায় ৬২', 'প্রায় ৮৬', 'প্রায় ৯৬'], correct: 2 },
   { qEn: 'What does "Makki" refer to?', qBn: '"মক্কী" বলতে কী বোঝায়?',
@@ -433,7 +433,7 @@ class NuzulView {
 
           <div class="p-3 rounded-xl bg-rose-50 dark:bg-rose-900/20 border border-rose-100 dark:border-rose-900/40">
             <div class="text-sm font-semibold text-rose-800 dark:text-rose-200 mb-1">🌑 ${L({ en: 'Fatrat al-Waḥy — the pause of revelation', bn: 'ফতরাতুল ওয়াহী — অবতীর্ণের বিরতি' })}</div>
-            <p class="text-xs text-rose-700 dark:text-rose-300 leading-relaxed" dir="auto">${L({ en: 'After the first revelation, wahy paused for a period (traditions differ: some say a few days, others longer). The Prophet ﷺ was so distressed that he feared abandonment. Then Sūrat al-Ḍuḥā (93) descended: "Your Lord has not forsaken you, nor is He displeased." — a comfort that reaffirmed the mission and continues to console every believer feeling distant from Allah.', bn: 'প্রথম ওয়াহীর পর কিছুকাল অবতীর্ণ থেমে ছিল (রেওয়ায়াতে মতভেদ: কেউ কয়েক দিন, কেউ দীর্ঘ)। নবী ﷺ এতটাই ব্যথিত হন যে তিনি পরিত্যক্ত হওয়ার ভয় করেন। তখন সূরা আদ-দুহা (৯৩) নাযিল হয়: "তোমার রব তোমাকে ত্যাগ করেননি, তিনি তোমার প্রতি অসন্তুষ্টও নন।" — একটি সান্ত্বনা যা মিশন পুনঃনিশ্চিত করে এবং আজও আল্লাহ থেকে দূরত্ব অনুভবকারী প্রতিটি ঈমানদারকে সান্ত্বনা দেয়।' })}</p>
+            <p class="text-xs text-rose-700 dark:text-rose-300 leading-relaxed" dir="auto">${L({ en: 'After the first revelation, wahy paused for a period (traditions differ: some say a few days, others longer). The Prophet ﷺ was so distressed that he feared abandonment. Then he saw Jibrīl (AS) again and Sūrat al-Muddaththir (74) descended: "O you who are wrapped up, arise and warn!" (Ṣaḥīḥ al-Bukhārī 4) — comfort followed by commission, and revelation never broke off like that again. (Sūrat al-Ḍuḥā (93) — "Your Lord has not forsaken you, nor is He displeased" — is reported for a later, shorter pause.)', bn: 'প্রথম ওয়াহীর পর কিছুকাল অবতীর্ণ থেমে ছিল (রেওয়ায়াতে মতভেদ: কেউ কয়েক দিন, কেউ দীর্ঘ)। নবী ﷺ এতটাই ব্যথিত হন যে তিনি পরিত্যক্ত হওয়ার ভয় করেন। এরপর তিনি আবার জিবরিল (আঃ)-কে দেখেন এবং সূরা আল-মুদ্দাসসির (৭৪) নাযিল হয়: "হে বস্ত্রাবৃত, উঠুন এবং সতর্ক করুন!" (সহীহ বুখারী ৪) — সান্ত্বনার পর দায়িত্ব, এরপর ওয়াহী আর এভাবে বন্ধ হয়নি। (সূরা আদ-দুহা (৯৩) — "তোমার রব তোমাকে ত্যাগ করেননি, তিনি অসন্তুষ্টও নন" — পরবর্তী একটি সংক্ষিপ্ত বিরতি সম্পর্কে বর্ণিত।)' })}</p>
           </div>
 
           <div class="p-3 rounded-xl bg-teal-50 dark:bg-teal-900/20 border border-teal-100 dark:border-teal-900/40">
@@ -722,7 +722,7 @@ class NuzulView {
     const phaseEvents = [
       [
         { en: 'First revelation in Cave Hira (610 CE)', bn: 'হেরা গুহায় প্রথম ওয়াহী (৬১০ খ্রি.)' },
-        { en: 'Fatrat al-Wahy — pause in revelation; Surah al-Duha revealed as comfort', bn: 'ফতরাতুল ওয়াহী — অবতীর্ণের বিরতি; সূরা আদ-দুহা সান্ত্বনাস্বরূপ অবতীর্ণ' },
+        { en: 'Fatrat al-Wahy — pause in revelation; ended with Surah al-Muddaththir: "Arise and warn"', bn: 'ফতরাতুল ওয়াহী — অবতীর্ণের বিরতি; সূরা আল-মুদ্দাসসির দিয়ে সমাপ্ত: "উঠুন, সতর্ক করুন"' },
         { en: 'Secret preaching; first converts: Khadijah, Abu Bakr, Ali (RA)', bn: 'গোপন দাওয়াত শুরু; প্রথম মুসলমান: খাদীজা, আবু বকর, আলী (রাঃ)' },
         { en: 'Public call at Mount Safa (613 CE) — open proclamation of Islam', bn: 'সাফা পাহাড়ে প্রকাশ্য আহ্বান (৬১৩ খ্রি.) — ইসলামের প্রকাশ্য ঘোষণা' },
       ],

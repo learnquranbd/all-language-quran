@@ -57,13 +57,13 @@ const MUSTAHABB_ITEMS = [
     titleEn: 'Entering & Exiting with the Right Foot', titleBn: '\u09a1\u09be\u09a8 \u09aa\u09be \u09a6\u09bf\u09af\u09bc\u09c7 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6 \u0993 \u09ac\u09be\u09ae \u09aa\u09be \u09a6\u09bf\u09af\u09bc\u09c7 \u09ac\u09be\u09b9\u09bf\u09b0',
     descEn: 'The Prophet \ufdfa entered the masjid with his right foot and exited with his left. Entering the home, beginning wudu, eating — all right-side first. Entering the toilet begins with the left foot.',
     descBn: '\u09a8\u09ac\u09c0 \u09b8\u09be\u09b2\u09cd\u09b2\u09be\u09b2\u09cd\u09b2\u09be\u09b9\u09c1 \u0986\u09b2\u09be\u0987\u09b9\u09bf \u0993\u09af\u09bc\u09be\u09b8\u09be\u09b2\u09cd\u09b2\u09be\u09ae \u09a1\u09be\u09a8 \u09aa\u09be \u09a6\u09bf\u09af\u09bc\u09c7 \u09ae\u09b8\u099c\u09bf\u09a6\u09c7 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6 \u0995\u09b0\u09a4\u09c7\u09a8 \u0993 \u09ac\u09be\u09ae \u09aa\u09be \u09a6\u09bf\u09af\u09bc\u09c7 \u09ac\u09be\u09b9\u09bf\u09b0 \u09b9\u09a4\u09c7\u09a8\u0964 \u0998\u09b0\u09c7 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6, \u0993\u09af\u09c1 \u09b6\u09c1\u09b0\u09c1, \u0996\u09be\u0993\u09af\u09bc\u09be \u2014 \u09b8\u09ac\u0995\u09bf\u099b\u09c1 \u09a1\u09be\u09a8 \u09a6\u09bf\u0995 \u09a5\u09c5\u0995\u09c7\u0964 \u099f\u09af\u09bc\u09b2\u09c7\u099f\u09c7 \u09ac\u09be\u09ae \u09aa\u09be \u09a6\u09bf\u09af\u09bc\u09c7 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6 \u09b6\u09c1\u09b0\u09c1 \u0995\u09b0\u09a4\u09c7 \u09b9\u09af\u09bc\u0964',
-    ref: 'Bukhari 426',
+    ref: 'Bukhari',
   },
   { emoji: '\ud83e\udea5',
     titleEn: 'Using the Miswak (Tooth-Stick)', titleBn: '\u09ae\u09bf\u09b8\u0993\u09af\u09bc\u09be\u0995 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0',
-    descEn: '"The miswak cleanses the mouth and is pleasing to the Lord." (Nasai 5, Bukhari 887) The Prophet \ufdfa emphasised it before every prayer and especially at the time of wudu.',
-    descBn: '\u201c\u09ae\u09bf\u09b8\u0993\u09af\u09bc\u09be\u0995 \u09ae\u09c1\u0996 \u09aa\u09b0\u09bf\u09b7\u09cd\u0995\u09be\u09b0 \u0995\u09b0\u09c7 \u0993 \u09b0\u09ac\u09c7\u09b0 \u09b8\u09a8\u09cd\u09a4\u09c1\u09b7\u09cd\u099f\u09bf \u0985\u09b0\u09cd\u099c\u09a8 \u0995\u09b0\u09be\u09af\u09bc\u0964\u201d (\u09a8\u09be\u09b8\u09be\u0987 \u09eb, \u09ac\u09c1\u0996\u09be\u09b0\u09bf \u09ee\u09ee\u09ed) \u09a8\u09ac\u09c0 \u09b8\u09be\u09b2\u09cd\u09b2\u09be\u09b2\u09cd\u09b2\u09be\u09b9\u09c1 \u0986\u09b2\u09be\u0987\u09b9\u09bf \u0993\u09af\u09bc\u09be\u09b8\u09be\u09b2\u09cd\u09b2\u09be\u09ae \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09a8\u09be\u09ae\u09be\u099c\u09c7\u09b0 \u0986\u0997\u09c7 \u0993 \u0993\u09af\u09bc\u09c1\u09b0 \u09b8\u09ae\u09af\u09bc \u09b6\u09be\u09b0\u09cd\u09ac\u09ac\u09ad\u09be\u09ac\u09c7 \u098f\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09c7\u09b0 \u0989\u09aa\u09b0 \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac \u09a6\u09bf\u09a4\u09c7\u09a8\u0964',
-    ref: 'Bukhari 887',
+    descEn: '"The siwak is a purification for the mouth and a means of the Lord\'s pleasure." (Nasai 5) The Prophet \ufdfa emphasised it before every prayer and especially at the time of wudu.',
+    descBn: '\u201c\u09ae\u09bf\u09b8\u0993\u09af\u09bc\u09be\u0995 \u09ae\u09c1\u0996 \u09aa\u09b0\u09bf\u09b7\u09cd\u0995\u09be\u09b0 \u0995\u09b0\u09c7 \u0993 \u09b0\u09ac\u09c7\u09b0 \u09b8\u09a8\u09cd\u09a4\u09c1\u09b7\u09cd\u099f\u09bf \u0985\u09b0\u09cd\u099c\u09a8 \u0995\u09b0\u09be\u09af\u09bc\u0964\u201d (\u09a8\u09be\u09b8\u09be\u0987 \u09eb) \u09a8\u09ac\u09c0 \u09b8\u09be\u09b2\u09cd\u09b2\u09be\u09b2\u09cd\u09b2\u09be\u09b9\u09c1 \u0986\u09b2\u09be\u0987\u09b9\u09bf \u0993\u09af\u09bc\u09be\u09b8\u09be\u09b2\u09cd\u09b2\u09be\u09ae \u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf \u09a8\u09be\u09ae\u09be\u099c\u09c7\u09b0 \u0986\u0997\u09c7 \u0993 \u0993\u09af\u09bc\u09c1\u09b0 \u09b8\u09ae\u09af\u09bc \u09b6\u09be\u09b0\u09cd\u09ac\u09ac\u09ad\u09be\u09ac\u09c7 \u098f\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09c7\u09b0 \u0989\u09aa\u09b0 \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac \u09a6\u09bf\u09a4\u09c7\u09a8\u0964',
+    ref: 'Nasai 5',
   },
   { emoji: '\ud83c\udf7d\ufe0f',
     titleEn: 'Saying Bismillah Before Eating', titleBn: '\u0996\u09be\u0993\u09af\u09bc\u09be\u09b0 \u0986\u0997\u09c7 \u09ac\u09bf\u09b8\u09ae\u09bf\u09b2\u09cd\u09b2\u09be\u09b9 \u09ac\u09b2\u09be',
@@ -282,6 +282,11 @@ class MustahabbModule {
     if (lang && lang !== 'en' && typeof CI18N !== 'undefined' && o.en) { const tr = CI18N.tr(lang, o.en); if (tr) return tr; }
     return o.en || o.bn || '';
   }
+
+  /* Some refs in this data are hadith citations ("Muslim 728"), not verses.
+   * Only a verse ref may become a chip that opens the verse modal; a hadith
+   * ref sent there produced a modal reading just "Error". */
+  isVerseRef(ref) { return /^\d{1,3}:\d{1,3}/.test(String(ref || '').trim()); }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
   render() {
     this.rendered = true;
@@ -312,7 +317,7 @@ class MustahabbModule {
               <div class="p-3 rounded-xl bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-100 dark:border-emerald-900/40">
                 <div class="text-sm font-semibold text-emerald-800 dark:text-emerald-200"><span aria-hidden="true">${n.emoji}</span> ${L({ en: n.titleEn, bn: n.titleBn })}</div>
                 <p class="text-xs text-emerald-700 dark:text-emerald-300 mt-1 leading-relaxed" dir="auto">${L({ en: n.descEn, bn: n.descBn })}</p>
-                <button type="button" data-mustahabb-ayah="${this.esc(n.ref.split(',')[0].trim())}" class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-[0.65rem] font-medium hover:bg-emerald-500 hover:text-white transition-colors">&#128214; ${this.esc(n.ref)}</button>
+                ${this.isVerseRef(this.esc(n.ref.split(',')[0].trim())) ? `<button type="button" data-mustahabb-ayah="${this.esc(n.ref.split(',')[0].trim())}" class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-[0.65rem] font-medium hover:bg-emerald-500 hover:text-white transition-colors">&#128214; ${this.esc(n.ref)}</button>` : `<span class="mt-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-[0.65rem] font-medium transition-colors">&#128214; ${this.esc(n.ref)}</span>`}
               </div>`).join('')}
           </div>
         </div>
@@ -334,7 +339,7 @@ class MustahabbModule {
             ${MUSTAHABB_QUR.map(q => `
               <div class="p-3 rounded-xl bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-100 dark:border-emerald-900/40">
                 <p class="text-sm text-emerald-800 dark:text-emerald-200 leading-relaxed" dir="auto">${L({ en: q.en, bn: q.bn })}</p>
-                <button type="button" data-mustahabb-ayah="${this.esc(q.ref)}" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium hover:bg-emerald-500 hover:text-white transition-colors">&#128214; ${this.esc(q.ref)} ${L({ en: 'Read', bn: '\u09aa\u09dc\u09c1\u09a8' })}</button>
+                ${this.isVerseRef(this.esc(q.ref)) ? `<button type="button" data-mustahabb-ayah="${this.esc(q.ref)}" class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium hover:bg-emerald-500 hover:text-white transition-colors">&#128214; ${this.esc(q.ref)} ${L({ en: 'Read', bn: '\u09aa\u09dc\u09c1\u09a8' })}</button>` : `<span class="mt-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 text-xs font-medium transition-colors">&#128214; ${this.esc(q.ref)} ${L({ en: 'Read', bn: '\u09aa\u09dc\u09c1\u09a8' })}</span>`}
               </div>`).join('')}
           </div>
         </div>
