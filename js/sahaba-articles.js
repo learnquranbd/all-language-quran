@@ -8339,6 +8339,420 @@ al_husayn_ibn_ali: { sections: [
       },
     ],
   },
+  uthman_ibn_mazun: {
+    sections: [
+      {
+        h: { en: "A Man of Banu Jumah", bn: "বনু জুমাহর এক মানুষ" },
+        p: [
+          {
+            en: "Uthman ibn Maz'un (RA) belonged to Banu Jumah, a clan of Quraysh. Ibn Sa'd records that even before Islam he had forbidden himself wine, saying he would not drink what took away his reason. He accepted Islam in the first months of the call, in the small circle around Abu Bakr (RA); Ibn Ishaq lists him among the earliest dozen or so believers. His brothers Qudamah and Abdullah followed him, and later his son as-Sa'ib: a whole household of Banu Jumah inside the new faith while its chiefs stood against it.",
+            bn: "উসমান ইবনে মাযউন (রাঃ) ছিলেন কুরাইশের বনু জুমাহ গোত্রের মানুষ। ইবনে সা'দ লিখেছেন, ইসলামের আগেই তিনি নিজের জন্য মদ হারাম করে নিয়েছিলেন। তাঁর কথা ছিল, যা মানুষের বুদ্ধি কেড়ে নেয়, তা তিনি পান করবেন না। দাওয়াতের একেবারে প্রথম মাসগুলোতে আবু বকর (রাঃ)-কে ঘিরে যে ছোট দলটি গড়ে ওঠে, তিনি তার ভেতরেই ইসলাম কবুল করেন; ইবনে ইসহাকের তালিকায় তিনি প্রথম দিকের ডজনখানেক মুমিনের একজন। পরে তাঁর ভাই কুদামা ও আবদুল্লাহ, আর তাঁর ছেলে সায়িবও ঈমান আনেন। বনু জুমাহর সরদাররা যখন ইসলামের বিরুদ্ধে, তখন এই গোত্রেরই একটা গোটা পরিবার দাঁড়িয়ে গেল নতুন দ্বীনের ভেতরে।"
+          },
+          {
+            en: "When persecution grew, the Prophet ﷺ permitted a party of believers to cross to Abyssinia. Ibn Ishaq names Uthman ibn Maz'un at the head of that first group, a detail that rests on the sirah alone. They came back on a rumour that Quraysh had accepted Islam. It was false, and every returning man now needed a Makkan protector to enter the city. Uthman entered under the protection of al-Walid ibn al-Mughirah, a chief of Banu Makhzum. He was safe, and the safety soon troubled him more than the danger had.",
+            bn: "নির্যাতন যখন অসহ্য হয়ে উঠল, নবীজি ﷺ একদল মুমিনকে সাগর পেরিয়ে আবিসিনিয়ায় যাওয়ার অনুমতি দিলেন। ইবনে ইসহাকের বর্ণনায় সেই প্রথম দলের নেতা ছিলেন উসমান ইবনে মাযউন; এই তথ্য কেবল সিরাত গ্রন্থেই পাওয়া যায়। কুরাইশ ইসলাম কবুল করেছে, এমন এক গুজব শুনে তাঁরা ফিরে আসেন। গুজবটি মিথ্যা ছিল, আর ফেরত আসা প্রত্যেকের এখন দরকার হলো মক্কার কোনো প্রভাবশালীর আশ্রয়, নইলে শহরে ঢোকাই বিপদ। উসমান আশ্রয় নিলেন বনু মাখজুমের সরদার আল-ওয়ালিদ ইবনুল মুগিরার কাছে। সেদিন থেকে তিনি নিরাপদ। কিন্তু অল্পদিনেই তিনি টের পেলেন, বিপদের চেয়ে এই নিরাপত্তাই তাঁকে বেশি পীড়া দিচ্ছে।"
+          }
+        ]
+      },
+      {
+        h: { en: "Protection He Gave Back", bn: "যে আশ্রয় তিনি ফিরিয়ে দিলেন" },
+        p: [
+          {
+            en: "Ibn Ishaq tells what he did with that safety. He watched the other believers beaten and starved while he walked the streets untouched, and found the arrangement shameful: a Muslim sheltered by an idolater while men of his own faith suffered for the sake of Allah. He went to al-Walid, thanked him, and asked to be released from the protection openly, in the sanctuary, so that nobody could later say al-Walid had abandoned him. When al-Walid asked why, Uthman answered, in the sirah's wording, that he wanted no protector but Allah.",
+            bn: "সেই নিরাপত্তা নিয়ে তিনি কী করলেন, ইবনে ইসহাক তা লিখে গেছেন। অন্য মুমিনরা মার খাচ্ছেন, না খেয়ে থাকছেন, আর তিনি নির্বিঘ্নে রাস্তায় হাঁটছেন; ব্যাপারটা তাঁর কাছে লজ্জার মনে হলো। এক মুশরিকের ছায়ায় তিনি নিরাপদ, অথচ তাঁর দ্বীনের ভাইয়েরা আল্লাহর জন্য কষ্ট সইছেন। তিনি আল-ওয়ালিদের কাছে গিয়ে তাঁর দয়ার জন্য ধন্যবাদ দিলেন, আর অনুরোধ করলেন, তাঁকে এই আশ্রয় থেকে মুক্তি দেওয়া হোক প্রকাশ্যে, হারামের চত্বরে, যাতে পরে কেউ না বলে যে আল-ওয়ালিদ তাঁকে ছেড়ে দিয়েছেন। কারণ জানতে চাইলে সিরাতের ভাষায় উসমানের জবাব ছিল, আল্লাহ ছাড়া আর কারও আশ্রয় তিনি চান না।"
+          },
+          {
+            en: "The same account continues. Soon after, the poet Labid recited to a gathering of Quraysh, and when Uthman objected to one of his lines a man struck him in the eye. Al-Walid, nearby, remarked that the eye could have been spared. Uthman replied, in Ibn Ishaq's telling, that his sound eye needed what had befallen its sister for the sake of Allah, and that he was now in a protection stronger than al-Walid's. The story is sirah, not hadith; its point is plain: he would not buy comfort by standing apart from his brothers.",
+            bn: "একই বর্ণনা এগিয়ে যায়। কিছুদিন পর কবি লাবিদ কুরাইশের এক মজলিসে কবিতা পড়ছিলেন; একটি পঙক্তিতে উসমান আপত্তি তুললে মজলিসের এক লোক তাঁর চোখে ঘুষি মারল। কাছেই দাঁড়িয়ে আল-ওয়ালিদ বললেন, চোখটা তো বাঁচানো যেত। ইবনে ইসহাকের ভাষায় উসমানের উত্তর: আল্লাহর রাস্তায় তাঁর অন্য চোখটির ভাগ্যে যা জুটেছে, ভালো চোখটিরও তা-ই দরকার; আর তিনি এখন আল-ওয়ালিদের চেয়ে অনেক বড় আশ্রয়ে আছেন। ঘটনাটি সিরাতের, হাদিসের নয়; কিন্তু তার শিক্ষা সোজা। ভাইদের থেকে আলাদা হয়ে আরাম কিনতে তিনি রাজি ছিলেন না।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Balance He Was Taught", bn: "যে ভারসাম্য তিনি শিখলেন" },
+        p: [
+          {
+            en: "Uthman's devotion inclined toward severity. He wished to give up marriage and the ordinary goods of life for worship alone. Sahih al-Bukhari 5073 preserves the answer he received, in the words of Sa'd ibn Abi Waqqas (RA): the Messenger of Allah ﷺ refused Uthman ibn Maz'un permission for tabattul, the renunciation of marriage, and Sa'd adds that had he permitted it, they would have castrated themselves. The refusal was not a private ruling for one man; it set the limit for every believer tempted to make Islam harder than Allah made it.",
+            bn: "উসমানের ইবাদতের ঝোঁক ছিল কঠোরতার দিকে। বিয়েসহ জীবনের সাধারণ নিয়ামতগুলো ছেড়ে তিনি পুরোপুরি ইবাদতে ডুবে থাকতে চেয়েছিলেন। এর জবাবে তিনি কী পেলেন, সহিহ বুখারি ৫০৭৩ নম্বর হাদিস তা সা'দ ইবনে আবি ওয়াক্কাস (রাঃ)-এর ভাষায় ধরে রেখেছে: রাসূলুল্লাহ ﷺ উসমান ইবনে মাযউনকে তাবাত্তুল, অর্থাৎ বিয়ে ছেড়ে দেওয়ার অনুমতি দেননি; সা'দ যোগ করেন, অনুমতি দিলে আমরা নিজেদের খাসি করে ফেলতাম। এটা এক দৃঢ়সংকল্প মানুষের জন্য ব্যক্তিগত কোনো ফয়সালা নয়। যে কোনো মুমিন যখনই ইসলামকে আল্লাহর দেওয়া মাপের চেয়ে কঠিন বানাতে চাইবে, তার সীমানা সেদিনই টেনে দেওয়া হলো।"
+          },
+          {
+            en: "Some commentators, at-Tabari and Ibn Kathir among them, connect 5:87 with Uthman and Companions like him. The verse tells the believers: do not prohibit the good things Allah has made lawful to you, and do not transgress, for Allah does not love transgressors. It does not question his sincerity; it corrects its direction. Islam does not ask a man to punish his body to please his Lord. It asks him to take the lawful with gratitude and restraint and spend his strength where Allah directs. Uthman accepted the Prophet's ﷺ ruling, and stood at Badr.",
+            bn: "কোনো কোনো মুফাসসির, যেমন তাবারি ও ইবনে কাসির, 5:87 আয়াতকে উসমান ও তাঁর মতো চিন্তার সাহাবিদের সঙ্গে জুড়ে দেখেন। আয়াতটি মুমিনদের সরাসরি বলছে: আল্লাহ তোমাদের জন্য যেসব পবিত্র জিনিস হালাল করেছেন, সেগুলো হারাম করে নিও না, আর সীমা ছাড়িয়ো না; আল্লাহ সীমালঙ্ঘনকারীদের ভালোবাসেন না। তাঁর জীবনের পাশে রাখলে দেখা যায়, আয়াতটি তাঁর নিষ্ঠায় প্রশ্ন তোলে না, বরং নিষ্ঠার মুখটা ঘুরিয়ে দেয়। রবকে খুশি করতে নিজের শরীরকে শাস্তি দেওয়া ইসলামের দাবি নয়। ইসলাম চায় হালালকে শুকরিয়া ও সংযমের সঙ্গে গ্রহণ করা, আর আল্লাহ যে কাজ সত্যিই দিয়েছেন সেখানে শক্তি খরচ করা। উসমান নবীজি ﷺ-এর ফয়সালা মেনে নিয়েছিলেন, আর বদরের ময়দানে বনু জুমাহর মুসলিমদের কাতারেও দাঁড়িয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        h: { en: "The First Grave at al-Baqi", bn: "বাকির প্রথম কবর" },
+        p: [
+          {
+            en: "He made the hijrah to Madinah and, by Ibn Ishaq's roll, fought at Badr in the second year. Soon afterwards he fell ill and died. Ibn Sa'd and others record him as the first of the Muhajirun to die in Madinah and the first of them buried at al-Baqi. Aishah (RA) relates, in at-Tirmidhi and Abu Dawud, that the Prophet ﷺ kissed Uthman ibn Maz'un after his death and that tears were running down his face. The man who had asked to withdraw from the world was mourned by the Messenger ﷺ himself.",
+            bn: "তিনি মদিনায় হিজরত করেন এবং ইবনে ইসহাকের তালিকা অনুযায়ী দ্বিতীয় হিজরিতে বদরে লড়েন। এর কিছুদিন পরেই অসুস্থ হয়ে ইন্তেকাল করেন। ইবনে সা'দসহ ইতিহাসবিদরা লিখেছেন, মদিনায় ইন্তেকালকারী মুহাজিরদের মধ্যে তিনিই প্রথম, আর তাঁদের মধ্যে বাকিতে দাফন হওয়া প্রথম ব্যক্তিও তিনি। তিরমিজি ও আবু দাউদের বর্ণনায় আয়েশা (রাঃ) বলেন, উসমান ইবনে মাযউনের ইন্তেকালের পর নবীজি ﷺ তাঁকে চুমু খান, আর তাঁর চোখ থেকে পানি গড়িয়ে পড়ছিল। যে মানুষটি দুনিয়া ছেড়ে সরে যেতে চেয়েছিলেন, স্বয়ং রাসূল ﷺ তাঁর জন্য কাঁদলেন।"
+          },
+          {
+            en: "Ibn Sa'd and the sirah writers add that when the Prophet's ﷺ infant son Ibrahim died, he was buried at al-Baqi, and the Prophet ﷺ spoke of him joining their righteous predecessor, Uthman ibn Maz'un. That wording is sirah, not Sahih. What is certain is the place. The cemetery that would hold so many Companions and Mothers of the Believers began with a man of Banu Jumah who had once refused any protection but Allah's. His kunya, Abu as-Sa'ib, is the name the woman who nursed him in his last illness used for him.",
+            bn: "ইবনে সা'দ ও সিরাত লেখকরা যোগ করেন, কয়েক বছর পর নবীজি ﷺ-এর শিশুপুত্র ইবরাহিম মারা গেলে তাঁকেও বাকিতে দাফন করা হয়, আর নবীজি ﷺ বলেন, সে যাচ্ছে আমাদের নেক পূর্বসূরি উসমান ইবনে মাযউনের কাছে। এই কথাটি সহিহ হাদিসের নয়, সিরাতের। যা নিশ্চিত, তা হলো জায়গাটি। যে কবরস্থানে পরে এত সাহাবি ও উম্মাহাতুল মুমিনিন শায়িত হন, তার শুরু বনু জুমাহর এমন এক মানুষ দিয়ে, যিনি একদিন আল্লাহ ছাড়া কারও আশ্রয় নিতে অস্বীকার করেছিলেন। তাঁর কুনিয়াত আবুস সায়িব; শেষ অসুখে যে নারী তাঁর সেবা করেছিলেন, তিনি এই নামেই তাঁকে ডেকেছিলেন।"
+          }
+        ]
+      },
+      {
+        h: { en: "What Umm al-Ala Learned", bn: "উম্মুল আলা যা শিখলেন" },
+        p: [
+          {
+            en: "In Sahih al-Bukhari 1243, Umm al-Ala (RA) says the Muhajirun were allotted among the Ansar and Uthman ibn Maz'un fell to her household. When he died the Prophet ﷺ came; she said: \"May Allah have mercy on you, Abu as-Sa'ib. My testimony for you is that Allah has honoured you.\" He asked: \"How do you know that Allah has honoured him?\" She said she did not know; he said: \"As for him, by Allah, certainty has come to him, and by Allah, I hope good for him. And by Allah, I do not know, though I am the Messenger of Allah, what will be done with me.\"",
+            bn: "সহিহ বুখারি ১২৪৩ নম্বর হাদিসে উম্মুল আলা (রাঃ) বলেন, মুহাজিরদের আনসারদের মধ্যে ভাগ করে দেওয়া হলে উসমান ইবনে মাযউন পড়েন তাঁদের ঘরে। তিনি ইন্তেকাল করলে নবীজি ﷺ এলেন, আর উম্মুল আলা বললেন: \"আবুস সায়িব, আল্লাহ আপনার ওপর রহম করুন। আপনার ব্যাপারে আমার সাক্ষ্য, আল্লাহ আপনাকে সম্মানিত করেছেন।\" নবীজি ﷺ জিজ্ঞেস করলেন: \"তুমি কী করে জানলে যে আল্লাহ তাকে সম্মানিত করেছেন?\" উম্মুল আলা বললেন, তিনি জানেন না; নবীজি ﷺ বললেন: \"তার কথা যদি বলো, আল্লাহর কসম, তার কাছে নিশ্চিত জিনিসটি এসে গেছে, আর আল্লাহর কসম, আমি তার জন্য কল্যাণের আশা রাখি। আর আল্লাহর কসম, আমি আল্লাহর রাসূল হয়েও জানি না আমার সঙ্গে কী করা হবে।\""
+          },
+          {
+            en: "She never again declared anyone pure. Later she dreamed of a flowing spring for Uthman, and the Prophet ﷺ told her: \"That is his deeds.\" The hadith casts no shadow on Uthman: the Prophet ﷺ hoped good for him and read the spring as his works. Its rule is for the living: no one certifies another's standing with Allah. The Prophet's ﷺ words echo 46:9, where he is told to say he does not know what will be done with him or with them. The dead are owed du'a and good opinion; we owe ourselves the fear he modelled.",
+            bn: "উম্মুল আলা পরে বলতেন, এরপর তিনি আর কখনো কারও ব্যাপারে নেককার হওয়ার ঘোষণা দেননি। পরে স্বপ্নে তিনি দেখেন উসমানের একটা বহমান ঝরনা; নবীজি ﷺ-কে জানালে তিনি বলেন: \"ওটা তার আমল।\" এই হাদিস উসমানের ওপর কোনো ছায়া ফেলে না; নবীজি ﷺ তাঁর জন্য কল্যাণের আশা রেখেছেন এবং ঝরনাকে তাঁর আমল বলে ব্যাখ্যা করেছেন। হাদিসের নিয়মটি জীবিতদের জন্য। আল্লাহর কাছে কার কী মর্যাদা, সে বিষয়ে কেউ কাউকে সনদ দিতে পারে না। নবীজি ﷺ-এর কথায় 46:9 আয়াতের প্রতিধ্বনি, যেখানে তাঁকে বলতে বলা হয়েছে যে তাঁর সঙ্গে বা তাদের সঙ্গে কী করা হবে তিনি জানেন না। মৃতদের প্রতি আমাদের দায় দোয়া ও সুধারণা, আর নিজেদের প্রতি দায় সেই একই ভয়, যা তিনি নিজে দেখিয়ে গেছেন।"
+          }
+        ]
+      }
+    ]
+  },
+  abu_salamah_ibn_abd_al_asad: {
+    sections: [
+      {
+        h: { en: "Kinsman Twice Over", bn: "দুই দিক থেকে আত্মীয়" },
+        p: [
+          {
+            en: "Abdullah ibn Abd al-Asad (RA), known as Abu Salamah, belonged to Banu Makhzum, a great house of Quraysh. His mother, Barrah bint Abd al-Muttalib, was the Prophet's ﷺ paternal aunt, making them cousins. Milk bound them a second time. In Sahih al-Bukhari 5101, Umm Habibah (RA) asked the Prophet ﷺ to marry her sister; in the same conversation he explained the bar of fosterage: Thuwaybah had nursed both him and Abu Salamah. Ibn Ishaq counts him among the first believers, before the Prophet ﷺ began teaching in the house of al-Arqam.",
+            bn: "আবদুল্লাহ ইবনে আবদুল আসাদ (রাঃ), কুনিয়াত আবু সালামা, ছিলেন কুরাইশের বড় ঘর বনু মাখজুমের মানুষ। তাঁর মা বাররা বিনতে আবদুল মুত্তালিব ছিলেন নবীজি ﷺ-এর ফুফু; সে হিসেবে তিনি নবীজির ফুফাতো ভাই। দুধের সম্পর্ক তাঁদের আরেকবার বেঁধেছিল। সহিহ বুখারি ৫১০১ নম্বর হাদিসে উম্মে হাবিবা (রাঃ) নবীজি ﷺ-কে নিজের বোনকে বিয়ে করার অনুরোধ করেন; সেই একই আলাপে তিনি বুঝিয়ে বলেন, দুধের সম্পর্ক কোন কোন বিয়ে হারাম করে দেয়, আর বলেন, সুওয়াইবা তাঁকে এবং আবু সালামাকে দুধ পান করিয়েছেন। ইবনে ইসহাকের হিসাবে তিনি সবার আগে ঈমান আনা মানুষদের একজন, নবীজি ﷺ আরকামের ঘরে দ্বীন শেখানো শুরু করার আগের দিনগুলোতেই।"
+          },
+          {
+            en: "His wife was Hind bint Abi Umayyah, Umm Salamah (RA), herself of Banu Makhzum. When persecution grew, the two crossed together to Abyssinia; in the account Ibn Ishaq preserves from her, they were among the first to make that journey. They returned when word came that Makkah had softened, and found that it had not. Ibn Ishaq adds that Banu Makhzum then demanded Abu Salamah from Abu Talib, under whose protection he had entered the city, and that Abu Talib refused to give up his sister's son.",
+            bn: "তাঁর স্ত্রী হিন্দ বিনতে আবি উমাইয়া, অর্থাৎ উম্মে সালামা (রাঃ), নিজেও ছিলেন বনু মাখজুমের মেয়ে। নির্যাতন বাড়লে দুজনে একসঙ্গে আবিসিনিয়ায় পাড়ি দেন; ইবনে ইসহাক তাঁর মুখ থেকে যে বিবরণ রেখেছেন, সেখানে তাঁরা সেই সফরের প্রথম দিকের যাত্রীদের একজন। মক্কা নরম হয়েছে শুনে তাঁরা ফিরে আসেন, আর দেখেন খবরটি সত্য নয়। ইবনে ইসহাক আরও লিখেছেন, আবু সালামা আবু তালিবের আশ্রয়ে শহরে ঢুকেছিলেন; বনু মাখজুম তাঁকে চেয়ে বসলে আবু তালিব নিজের বোনের ছেলেকে তুলে দিতে অস্বীকার করেন।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Road to Madinah", bn: "মদিনার পথে" },
+        p: [
+          {
+            en: "When believers began leaving for Madinah, Abu Salamah set out with his wife and their small son Salamah. Umm Salamah's own account, preserved by Ibn Ishaq, tells what happened: her clan stopped them and took her from him, refusing to let their daughter be carried off, and his clan then refused to leave the child with her, pulling the boy between them until his arm was dislocated. Abu Salamah went on alone. He rode north knowing his wife and son were held by two of Makkah's proudest clans and could do nothing.",
+            bn: "মুমিনরা যখন মদিনার দিকে যেতে শুরু করলেন, আবু সালামা স্ত্রী আর ছোট ছেলে সালামাকে নিয়ে রওনা হলেন। এরপর কী হলো, ইবনে ইসহাকের রাখা উম্মে সালামার নিজের বিবরণে আছে: তাঁর গোত্র পথ আটকে তাঁকে স্বামীর কাছ থেকে ছিনিয়ে নিল, বলল, আমাদের মেয়েকে এভাবে দেশ পার করে নিয়ে যেতে দেব না; আবু সালামার গোত্র তখন শিশুটিকে মায়ের কাছে রাখতে রাজি হলো না, দুই পক্ষের টানাটানিতে ছেলেটির হাত কাঁধ থেকে খুলে গেল। আবু সালামা একাই এগিয়ে গেলেন। তিনি উত্তরে যাচ্ছিলেন এটা জেনে যে তাঁর স্ত্রী ও সন্তান মক্কার সবচেয়ে অহংকারী দুই গোত্রের হাতে, আর তাঁর কিছুই করার নেই।"
+          },
+          {
+            en: "Umm Salamah later called theirs the first household to migrate to the Messenger of Allah ﷺ; the words are hers, recorded in Sahih Muslim 918. After about a year her clan relented, the boy was returned, and she set out alone on a camel. Uthman ibn Talhah, still a polytheist then, met her on the road and led her camel to Quba, where Abu Salamah was, and turned back to Makkah. The family that Makkah had torn apart was put back together at the edge of the Prophet's ﷺ city.",
+            bn: "উম্মে সালামা পরে তাঁদের পরিবারকে বলতেন রাসূলুল্লাহ ﷺ-এর কাছে হিজরত করা প্রথম ঘর; কথাটি তাঁর নিজের, সহিহ মুসলিম ৯১৮ নম্বর হাদিসে লেখা আছে। প্রায় এক বছর পর তাঁর গোত্র নরম হয়, ছেলেকে ফিরিয়ে দেওয়া হয়, আর তিনি একা উটে চড়ে রওনা হন। উসমান ইবনে তালহা, যিনি তখনো মুশরিক, পথে তাঁকে পেয়ে তাঁর উটের রশি ধরে একেবারে কুবা পর্যন্ত পৌঁছে দেন, যেখানে আবু সালামা থাকতেন, তারপর মক্কায় ফিরে যান। মক্কা যে পরিবারকে ছিঁড়ে ফেলেছিল, নবীজি ﷺ-এর শহরের কিনারায় তা আবার জোড়া লাগল।"
+          }
+        ]
+      },
+      {
+        h: { en: "Badr, Uhud and Qatan", bn: "বদর, উহুদ ও কাতান" },
+        p: [
+          {
+            en: "Abu Salamah fought at Badr; Ibn Ishaq's roll of the Muhajirun there includes him. At Uhud a year later he was wounded in the arm. He seemed to recover. Ibn Sa'd records that in Muharram of the fourth year the Prophet ﷺ sent him at the head of a party toward Qatan, a watering place of Banu Asad, reported to be gathering against Madinah; the tribesmen scattered and the party came home without a battle. That detail is sirah. On the return the wound from Uhud opened again and did not close.",
+            bn: "বদরে আবু সালামা ছিলেন; ইবনে ইসহাকের তালিকায় সেখানে লড়া মুহাজিরদের মধ্যে তাঁর নাম আছে। এক বছর পর উহুদে তাঁর বাহুতে আঘাত লাগে। মনে হয়েছিল তিনি সেরে উঠেছেন। ইবনে সা'দ লিখেছেন, চতুর্থ হিজরির মুহাররমে নবীজি ﷺ তাঁকে একটি দলের নেতা করে কাতানের দিকে পাঠান; জায়গাটি বনু আসাদের পানির উৎস, আর খবর ছিল তারা মদিনার বিরুদ্ধে জড়ো হচ্ছে। মুসলিমরা পৌঁছানোর আগেই গোত্রটি ছত্রভঙ্গ হয়ে যায়, দল যুদ্ধ ছাড়াই ফিরে আসে। এই বিবরণ সিরাতের। ফেরার পথে উহুদের সেই ক্ষত আবার খুলে যায়, আর এবার তা আর বন্ধ হয়নি।"
+          },
+          {
+            en: "He died in 4 AH. Umm Salamah tells the scene in Sahih Muslim 920. The Messenger of Allah ﷺ came in to Abu Salamah when his eyes had become fixed, closed them and said: \"When the soul is taken, the sight follows it.\" His family cried out, and he said: \"Do not supplicate against yourselves except with good, for the angels say amin to what you say.\" Then he prayed: \"O Allah, forgive Abu Salamah, raise his degree among the guided, and be his successor among those he leaves behind; forgive us and him, O Lord of the worlds; make his grave spacious for him and illuminate it for him.\"",
+            bn: "হিজরতের চতুর্থ বছরে তিনি ইন্তেকাল করেন। সেই দৃশ্য উম্মে সালামার ভাষায় সহিহ মুসলিম ৯২০ নম্বর হাদিসে ধরা আছে। রাসূলুল্লাহ ﷺ আবু সালামার কাছে এলেন, তখন তাঁর চোখ স্থির হয়ে গেছে; তিনি চোখ দুটি বন্ধ করে দিলেন এবং বললেন: \"রুহ যখন কবজ করা হয়, দৃষ্টি তার পিছু নেয়।\" পরিবারের কেউ কেউ কান্নায় চিৎকার করে উঠলে তিনি বললেন: \"নিজেদের জন্য ভালো ছাড়া কিছু চেয়ো না, কারণ তোমরা যা বলো ফেরেশতারা তাতে আমিন বলেন।\" তারপর দোয়া করলেন: \"হে আল্লাহ, আবু সালামাকে মাফ করুন, হিদায়াতপ্রাপ্তদের মধ্যে তার মর্যাদা উঁচু করুন, তার রেখে যাওয়া লোকদের জন্য আপনি তার স্থলাভিষিক্ত হোন; আমাদের ও তাকে মাফ করুন, হে জগতসমূহের রব; তার কবর প্রশস্ত করুন এবং তা আলোকিত করুন।\""
+          }
+        ]
+      },
+      {
+        h: { en: "The Du'a He Left Behind", bn: "যে দোয়া তিনি রেখে গেলেন" },
+        p: [
+          {
+            en: "In Sahih Muslim 918 Umm Salamah (RA) heard the Messenger of Allah ﷺ say that no servant struck by affliction says, indeed we belong to Allah and to Him we return, O Allah reward me in my affliction and give me better than it in exchange, except that Allah rewards him in his affliction and gives him better. The opening words are those of 2:156. Ibn Majah and Ahmad carry a version in which Abu Salamah himself brought the du'a home from the Prophet ﷺ and taught it to his wife, and so it is remembered as his.",
+            bn: "সহিহ মুসলিম ৯১৮ নম্বর হাদিসে উম্মে সালামা (রাঃ) বলেন, তিনি রাসূলুল্লাহ ﷺ-কে বলতে শুনেছেন: কোনো বান্দা বিপদে পড়ে যদি বলে, আমরা আল্লাহরই আর তাঁর কাছেই ফিরে যাব, হে আল্লাহ, আমার বিপদে আমাকে প্রতিদান দিন আর এর বদলে উত্তম কিছু দিন, তবে আল্লাহ তাকে সেই বিপদে প্রতিদান দেন এবং উত্তম বদল দেন। দোয়ার শুরুর কথাগুলো 2:156 আয়াতের। ইবনে মাজাহ ও আহমাদের একটি বর্ণনায় আবু সালামা নিজেই নবীজি ﷺ-এর কাছ থেকে দোয়াটি ঘরে এনে স্ত্রীকে শেখান; সে কারণেই উম্মত এটিকে তাঁর দোয়া বলে মনে রাখে।"
+          },
+          {
+            en: "When Abu Salamah died she said the words, thinking, she says in the same hadith: who among the Muslims is better than Abu Salamah, the first household to migrate to the Messenger of Allah ﷺ? She said them anyway. Then, in her own summary, Allah gave her the Messenger of Allah ﷺ in his place. The promise in the du'a was fulfilled before the community's eyes, and the widow of Abu Salamah became a Mother of the Believers. His death is the hinge of that story, and his du'a carried her across it.",
+            bn: "আবু সালামা মারা গেলে তিনি কথাগুলো বললেন, আর একই হাদিসে তিনি জানান, বলার সময় মনে হচ্ছিল: রাসূলুল্লাহ ﷺ-এর কাছে হিজরত করা প্রথম ঘর, এই আবু সালামার চেয়ে উত্তম মুসলিম আর কে আছে? তবু তিনি বললেন। তারপর, তাঁর নিজের কথায়, আল্লাহ তাঁকে আবু সালামার জায়গায় স্বয়ং রাসূলুল্লাহ ﷺ-কে দিলেন। দোয়ার সঙ্গে জুড়ে থাকা ওয়াদা এমনভাবে পূরণ হলো, যা গোটা উম্মত চোখে দেখল; আবু সালামার বিধবা হলেন উম্মুল মুমিনিন। এই কাহিনির কব্জা তাঁর মৃত্যু, আর যে দোয়া তাঁর স্ত্রীকে সেই মৃত্যু পার করিয়ে দিল, সেটি তাঁরই রেখে যাওয়া।"
+          }
+        ]
+      },
+      {
+        h: { en: "His Children in the Prophet's House", bn: "নবীজির ঘরে তাঁর সন্তানেরা" },
+        p: [
+          {
+            en: "Abu Salamah left four children: Salamah, Umar, Zaynab and Durrah. When their mother married the Prophet ﷺ, they were raised in his household, and one left a hadith every Muslim child still learns. Umar ibn Abi Salamah (RA) says in Sahih al-Bukhari 5376 that as a boy in the care of the Messenger of Allah ﷺ his hand used to wander about the dish, and the Prophet ﷺ said to him: \"Boy, mention the name of Allah, eat with your right hand, and eat from what is near you.\" That remained his way of eating ever after.",
+            bn: "আবু সালামা চারটি সন্তান রেখে যান: সালামা, উমর, জয়নব ও দুররা। মা নবীজি ﷺ-কে বিয়ে করলে তারা বড় হয় তাঁরই ঘরে, আর তাদের একজন এমন একটি হাদিস রেখে গেছেন যা আজও প্রতিটি মুসলিম শিশু শেখে। সহিহ বুখারি ৫৩৭৬ নম্বর হাদিসে উমর ইবনে আবি সালামা (রাঃ) বলেন, তিনি ছিলেন রাসূলুল্লাহ ﷺ-এর তত্ত্বাবধানে এক বালক, খাওয়ার সময় তাঁর হাত পাত্রের এদিক-ওদিক ঘুরত; নবীজি ﷺ তাঁকে বললেন: \"বালক, আল্লাহর নাম নাও, ডান হাতে খাও, আর তোমার কাছের দিক থেকে খাও।\" এরপর থেকে সারা জীবন তিনি এভাবেই খেয়েছেন।"
+          },
+          {
+            en: "Abu Salamah's life was short but whole. He was the Prophet's ﷺ kinsman by blood and by milk, a believer of the first days, twice an emigrant, a fighter at Badr, a man who lost his family on the road and got them back, and died of a wound taken at Uhud. He left no conquest or book, only a du'a and a household, and Allah placed that household under the Prophet's ﷺ own roof. His lesson is the one he lived: whoever hands a loss to Allah with patience is repaid with what is better.",
+            bn: "আবু সালামার জীবন ছোট, কিন্তু পূর্ণ। রক্ত ও দুধ, দুই সূত্রেই নবীজি ﷺ-এর আত্মীয়; প্রথম দিনগুলোর মুমিন; দুবার মুহাজির; বদরের যোদ্ধা; পথে পরিবার হারিয়ে আবার ফিরে পাওয়া মানুষ; আর উহুদে পাওয়া ক্ষতেই যাঁর মৃত্যু। তিনি রেখে গেছেন কোনো বিজয় বা কিতাব নয়, একটি দোয়া আর একটি পরিবার; সেই পরিবারকে আল্লাহ তুলে দিলেন নবীজি ﷺ-এর নিজের ছাদের নিচে। তাঁর পাতার শিক্ষা সেটিই, যা তিনি নিজে বেঁচে দেখিয়েছেন: যে ধৈর্যের সঙ্গে নিজের ক্ষতি আল্লাহর হাতে তুলে দেয়, আল্লাহ তাকে তার চেয়ে উত্তম কিছু ফিরিয়ে দেন।"
+          }
+        ]
+      }
+    ]
+  },
+  abdullah_ibn_umm_maktum: {
+    sections: [
+      {
+        h: { en: "A Blind Man of Quraysh", bn: "কুরাইশের এক দৃষ্টিহীন মানুষ" },
+        p: [
+          {
+            en: "His name is given as Abdullah, and by some biographers as Amr, ibn Qays ibn Za'idah, of Banu Amir ibn Lu'ayy of Quraysh. He is known by his mother Atikah's kunya, Umm Maktum. Ibn Sa'd and Ibn Hajar note that his father Qays was a brother of Fatimah bint Za'idah, the mother of Khadijah (RA), so he was Khadijah's cousin on her mother's side. He was blind. He accepted Islam early in Makkah, with no wealth, rank or strength to offer, only a mind that wanted to be taught.",
+            bn: "তাঁর নাম আবদুল্লাহ, কোনো কোনো জীবনীকারের মতে আমর, ইবনে কায়েস ইবনে যায়িদা; গোত্র কুরাইশের বনু আমির ইবনে লুআই। তিনি পরিচিত মায়ের নামে; মা আতিকার কুনিয়াত ছিল উম্মে মাকতুম। ইবনে সা'দ ও ইবনে হাজার লিখেছেন, তাঁর বাবা কায়েস ছিলেন খাদিজা (রাঃ)-এর মা ফাতিমা বিনতে যায়িদার ভাই; সে হিসেবে তিনি খাদিজার মামাতো ভাই। তিনি ছিলেন দৃষ্টিহীন। মক্কায় প্রথম যুগেই তিনি ইসলাম কবুল করেন। নতুন জামাতকে দেওয়ার মতো ধন, পদ বা গায়ের জোর তাঁর ছিল না; যা ছিল, তা শিখতে চাওয়া একটি মন।"
+          },
+          {
+            en: "Aishah (RA) relates the scene in a report carried by at-Tirmidhi. Surah Abasa, she says, was revealed about Ibn Umm Maktum, the blind man. He came to the Prophet ﷺ saying, O Messenger of Allah, guide me, while the Prophet ﷺ was with one of the great men of the polytheists, and kept turning to that man to ask whether he saw any harm in what he said; the man said no. The Prophet ﷺ was hoping for a chief's Islam, which would carry many others. Allah answered the hope with a lesson.",
+            bn: "যে ঘটনা তাঁর নাম কুরআনের সঙ্গে জুড়ে দিল, আয়েশা (রাঃ) তা বলেছেন তিরমিজির একটি বর্ণনায়। তাঁর কথায়, সূরা আবাসা নাযিল হয়েছিল দৃষ্টিহীন ইবনে উম্মে মাকতুমের ব্যাপারে। তিনি নবীজি ﷺ-এর কাছে এসে বলছিলেন, হে আল্লাহর রাসূল, আমাকে পথ দেখান; নবীজি ﷺ তখন মুশরিকদের এক বড় নেতার সঙ্গে ব্যস্ত, বারবার তাঁর দিকে ফিরে জিজ্ঞেস করছেন, আমি যা বলছি তাতে কোনো ক্ষতি দেখেন কি; লোকটি বলছে, না। নবীজি ﷺ আশা করছিলেন এক সরদারের ইসলাম, যার পেছনে আরও অনেকে আসত। আল্লাহ সেই আশার জবাব দিলেন একটি শিক্ষা দিয়ে।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Surah That Bears the Scene", bn: "যে সূরায় দৃশ্যটি ধরা আছে" },
+        p: [
+          {
+            en: "The opening of the surah, 80:1-10, speaks with a restraint the reader should keep. He frowned and turned away because the blind man came to him. But what would make you perceive that he might be purified, or be reminded and benefit from it? The one who thinks himself without need, to him you attend, and no blame is on you if he is not purified; but the one who came to you striving, while he fears Allah, from him you are distracted. His Lord addresses the Prophet ﷺ; no one else has standing to add a word of reproach.",
+            bn: "সূরার শুরু, 80:1-10, যে সংযমে কথা বলে, পাঠকেরও তা ধরে রাখা উচিত। তিনি মুখ ভার করলেন আর ফিরে গেলেন, কারণ তাঁর কাছে দৃষ্টিহীন লোকটি এসেছিল। কিন্তু তুমি কী করে জানবে, সে হয়তো পরিশুদ্ধ হতো, অথবা উপদেশ নিত আর উপদেশ তার কাজে লাগত? যে নিজেকে বেপরোয়া মনে করে, তার দিকে তুমি মনোযোগ দিচ্ছ, অথচ সে শুদ্ধ না হলে তোমার কোনো দোষ নেই; আর যে তোমার কাছে ছুটে এল, ভয়ও করে, তার ব্যাপারে তুমি অমনোযোগী হলে। এখানে রব তাঁর নবী ﷺ-কে সম্বোধন করছেন; অন্য কারও এতে একটি শব্দও তিরস্কার যোগ করার অধিকার নেই।"
+          },
+          {
+            en: "The verses that follow, 80:11-12, say what the correction was for: this is a reminder, so whoever wills may remember it. The message is not measured by the listener's rank; the man who fears Allah and comes asking has first claim on its bearer. The exegetes record that the Prophet ﷺ honoured Ibn Umm Maktum afterwards. Nowhere does the Quran name him; the exegetes do. A poor blind man became the reason a surah opens the way it does, and every reciter since has said his case aloud.",
+            bn: "এরপরের আয়াত, 80:11-12, বলে দেয় সংশোধনটি কিসের জন্য: এটা তো উপদেশ, যার ইচ্ছা তা স্মরণে রাখবে। বার্তার মাপ শ্রোতার পদমর্যাদায় হয় না; যে আল্লাহকে ভয় করে আর জানতে চেয়ে আসে, বার্তার বাহকের ওপর প্রথম হক তারই। মুফাসসিররা লিখেছেন, এরপর নবীজি ﷺ ইবনে উম্মে মাকতুমকে সম্মান করতেন। কুরআন কোথাও তাঁর নাম নেয়নি; নামটি মুফাসসিরদের দেওয়া। এক গরিব দৃষ্টিহীন মানুষ হয়ে গেলেন একটি সূরার এমন শুরুর কারণ, আর তারপর থেকে প্রতিটি তিলাওয়াতকারী তাঁর ঘটনাটি মুখে উচ্চারণ করে আসছেন।"
+          }
+        ]
+      },
+      {
+        h: { en: "Two Voices at Dawn", bn: "ভোরের দুই কণ্ঠ" },
+        p: [
+          {
+            en: "In Madinah he became a muezzin alongside Bilal (RA). Sahih al-Bukhari 617 records from Ibn Umar (RA) that the Prophet ﷺ said: \"Bilal calls the adhan at night, so eat and drink until Ibn Umm Maktum calls the adhan.\" The narration adds that he was a blind man who would not call until people said to him: it is morning, it is morning. So in Ramadan the whole city timed its fast by the voice of a man who could not see the dawn and needed others to tell him it had come.",
+            bn: "মদিনায় তিনি বিলাল (রাঃ)-এর পাশাপাশি মুয়াজ্জিন হলেন। সহিহ বুখারি ৬১৭ নম্বর হাদিসে ইবনে উমর (রাঃ) বলেন, নবীজি ﷺ বলেছেন: \"বিলাল রাতে আজান দেয়, তাই ইবনে উম্মে মাকতুম আজান দেওয়া পর্যন্ত খাও ও পান করো।\" ইবনে উমর (রাঃ) যোগ করেন, তিনি ছিলেন দৃষ্টিহীন, লোকেরা যতক্ষণ না বলত, ভোর হয়েছে, ভোর হয়েছে, ততক্ষণ তিনি আজান দিতেন না। তার মানে রমজানে গোটা শহর রোজার শুরু মাপত এমন একজনের কণ্ঠে, যিনি নিজে ভোর দেখতে পেতেন না, অন্যের মুখে শুনে জানতেন ভোর এসেছে।"
+          },
+          {
+            en: "Sahih Muslim 653 tells of a blind man who came to the Prophet ﷺ and said he had no guide to lead him to the mosque, and asked leave to pray at home. The Prophet ﷺ gave it, then called him back as he turned away and asked: \"Do you hear the call to prayer?\" He said yes. He said: \"Then respond to it.\" Muslim leaves the man unnamed; Abu Dawud's version names him as Ibn Umm Maktum. The scholars draw from it the weight of congregational prayer; the man it concerned lived within earshot of the call.",
+            bn: "সহিহ মুসলিম ৬৫৩ নম্বর হাদিসে এক দৃষ্টিহীন লোকের কথা আছে, যিনি নবীজি ﷺ-এর কাছে এসে বললেন, মসজিদে নিয়ে যাওয়ার মতো কোনো পথপ্রদর্শক তাঁর নেই, তাই ঘরে নামাজ পড়ার অনুমতি চান। নবীজি ﷺ অনুমতি দিলেন; তারপর লোকটি ফিরতে গেলে তাঁকে ডেকে জিজ্ঞেস করলেন: \"তুমি নামাজের আজান শোনো?\" তিনি বললেন, হ্যাঁ। নবীজি ﷺ বললেন: \"তাহলে তাতে সাড়া দাও।\" মুসলিমে লোকটির নাম নেই; আবু দাউদের বর্ণনায় তাঁকে ইবনে উম্মে মাকতুম বলা হয়েছে। আলেমরা এ থেকে জামাতে নামাজের গুরুত্ব বুঝেছেন, আর যাঁর ব্যাপারে কথাটি, তিনি আজানের শব্দসীমার ভেতরেই থাকতেন।"
+          }
+        ]
+      },
+      {
+        h: { en: "Left Over the City", bn: "শহরের দায়িত্বে" },
+        p: [
+          {
+            en: "When the Prophet ﷺ went out on campaign, someone had to lead the prayer in Madinah and hold the city. Ibn Sa'd and Ibn Hisham record that on several expeditions the man appointed was Ibn Umm Maktum, and Abu Dawud carries from Anas (RA) that the Prophet ﷺ placed him over Madinah more than once to lead the people in prayer, blind as he was. A community shaped by 80:1-10 did not treat blindness as a bar to trust. The man excused from the field was given the mosque and the people left behind.",
+            bn: "নবীজি ﷺ অভিযানে বের হলে মদিনায় কাউকে নামাজের ইমামতি করতে ও শহর সামলাতে রেখে যেতে হতো। ইবনে সা'দ ও ইবনে হিশাম লিখেছেন, বেশ কিছু অভিযানে সেই দায়িত্ব পান ইবনে উম্মে মাকতুম; আবু দাউদ আনাস (রাঃ) থেকে বর্ণনা করেছেন, নবীজি ﷺ তাঁকে একাধিকবার মদিনার দায়িত্বে রেখে যান, মানুষের নামাজ পড়াতে, দৃষ্টিহীন হওয়া সত্ত্বেও। 80:1-10 আয়াতে গড়ে ওঠা একটি জামাত দৃষ্টিহীনতাকে আমানতের পথে বাধা মনে করেনি। যে মানুষটিকে ময়দান থেকে অব্যাহতি দেওয়া হলো, তাঁর হাতে তুলে দেওয়া হলো মসজিদ আর পেছনে থাকা মানুষগুলো।"
+          },
+          {
+            en: "The exemption entered the Quran on his account. Sahih al-Bukhari 4592 records from al-Bara (RA) that when the verse came down that those who remain behind are not equal to those who strive in Allah's cause, the Prophet ﷺ called Zayd ibn Thabit (RA) to write it; Ibn Umm Maktum came and asked what was required of him, being blind, and Allah revealed the words other than the disabled. The verse, 4:95, exempts the disabled, promises the best to all, and still prefers those who strive. One honest question, and the answer stands in the Book for every disabled believer since.",
+            bn: "এই অব্যাহতি কুরআনে লেখা হয়েছিল তাঁরই কারণে। সহিহ বুখারি ৪৫৯২ নম্বর হাদিসে বারা (রাঃ) বলেন, যে আয়াতে ঘোষণা করা হলো বসে থাকা মুমিনরা আল্লাহর পথে জিহাদকারীদের সমান নয়, সেটি নাযিল হলে নবীজি ﷺ যায়েদ ইবনে সাবিত (রাঃ)-কে লিখতে ডাকলেন; ইবনে উম্মে মাকতুম এসে জিজ্ঞেস করলেন, তিনি তো দৃষ্টিহীন, তাঁর করণীয় কী; আর আল্লাহ নাযিল করলেন, অক্ষম নয় এমন। আয়াতটি, 4:95, অক্ষমদের বাদ দেয়, সবার জন্য কল্যাণের ওয়াদা করে, আর তবু মুজাহিদদের মর্যাদা বেশি রাখে। তিনি সততার সঙ্গে একটি প্রশ্ন করেছিলেন, আর তার জবাব কিতাবে রয়ে গেল তাঁর পরের প্রতিটি অক্ষম মুমিনের জন্য।"
+          }
+        ]
+      },
+      {
+        h: { en: "Qadisiyyah, and a Disputed End", bn: "কাদিসিয়া, আর বিতর্কিত শেষ" },
+        p: [
+          {
+            en: "The Quran had excused him, and he did not use the excuse. Ibn Sa'd and al-Waqidi report that in the caliphate of Umar (RA) he went out with the army to al-Qadisiyyah, in mail and carrying a black banner, and asked to be placed between the two lines with the standard, since a blind man could not run away. That report is sirah and should be read as such. How he ended is disputed among the same biographers: some say he was killed at al-Qadisiyyah, others that he returned to Madinah and died there, undated.",
+            bn: "কুরআন তাঁকে অব্যাহতি দিয়েছিল, তিনি সেই অব্যাহতি ব্যবহার করেননি। ইবনে সা'দ ও ওয়াকিদি লিখেছেন, উমর (রাঃ)-এর খিলাফতকালে তিনি সেনাদলের সঙ্গে কাদিসিয়ায় যান, গায়ে লোহার বর্ম, হাতে কালো পতাকা; তিনি চেয়েছিলেন পতাকা নিয়ে দুই কাতারের মাঝখানে দাঁড়াতে, কারণ একজন দৃষ্টিহীন মানুষ পালিয়ে যেতে পারে না। এই বিবরণ সিরাতের, আর সেভাবেই তা পড়া উচিত। তাঁর শেষ কীভাবে হলো, সেই জীবনীকারদের মধ্যেই মতভেদ: কেউ বলেন তিনি কাদিসিয়ায় শহিদ হন, কেউ বলেন মদিনায় ফিরে এসে সেখানেই ইন্তেকাল করেন, কোনো তারিখ জানা নেই।"
+          },
+          {
+            en: "What is not disputed is the shape of the life. A blind man with nothing to offer asked to be taught, and Allah made his case the opening of a surah. He asked about jihad, and the exemption entered the Book. He called the dawn adhan for a city that watched the horizon for him, and he held that city when its Prophet ﷺ was away. Then he chose the banner he had been excused from carrying. His lesson is the one 80:1-10 states: a person is weighed by the seeking heart, not by sight, wealth or strength.",
+            bn: "যা নিয়ে মতভেদ নেই, তা এই জীবনের আকার। দেওয়ার মতো কিছু না থাকা এক দৃষ্টিহীন মানুষ শিখতে চেয়ে এলেন, আর আল্লাহ তাঁর ঘটনাকে একটি সূরার শুরু বানালেন। তিনি জিহাদ নিয়ে প্রশ্ন করলেন, আর অব্যাহতি কিতাবে ঢুকে গেল। যে শহর তাঁর জন্য দিগন্তে চোখ রাখত, সেই শহরের জন্য তিনি ভোরের আজান দিলেন, আর তার নবী ﷺ বাইরে থাকলে শহরটি সামলে রাখলেন। তারপর যে পতাকা বহন থেকে তাঁকে অব্যাহতি দেওয়া হয়েছিল, সেটিই তিনি বেছে নিলেন। তাঁর পাতার শিক্ষা 80:1-10 আয়াতের শিক্ষাই: মানুষের ওজন হয় তার সত্যান্বেষী মনে, দৃষ্টি, সম্পদ বা শক্তিতে নয়।"
+          }
+        ]
+      }
+    ]
+  },
+  amr_ibn_abasah: {
+    sections: [
+      {
+        h: { en: "A Seeker Before the Call", bn: "দাওয়াতের আগেই এক সত্যান্বেষী" },
+        p: [
+          {
+            en: "Amr ibn Abasah (RA) belonged to Banu Sulaym, a tribe of the uplands east of Makkah and Madinah. Nearly everything known of his early life is his own account, a long narration in Sahih Muslim 832 through Abu Umamah al-Bahili (RA). He begins: in the days of ignorance I used to think that people were in error and upon nothing, while they worshipped idols. Then he heard of a man in Makkah bringing news. He rode there and found the Messenger of Allah ﷺ living hidden, his people emboldened against him.",
+            bn: "আমর ইবনে আবাসা (রাঃ) ছিলেন বনু সুলাইম গোত্রের মানুষ; মক্কা ও মদিনার পূর্বদিকের উঁচু এলাকা এই গোত্রের বাস। তাঁর প্রথম জীবনের প্রায় সব কথাই জানা যায় তাঁর নিজের মুখে, সহিহ মুসলিম ৮৩২ নম্বর হাদিসের এক দীর্ঘ বর্ণনায়, যা আবু উমামা বাহিলি (রাঃ)-এর সূত্রে এসেছে। তাঁর শুরু এভাবে: জাহেলি যুগে আমি মনে করতাম, মানুষ ভ্রান্তিতে আছে, তাদের হাতে কিছুই নেই, অথচ তারা মূর্তির পূজা করছে। তারপর শুনলেন, মক্কায় এক ব্যক্তি নতুন খবর নিয়ে এসেছেন। উটে চড়ে সেখানে গিয়ে দেখলেন, রাসূলুল্লাহ ﷺ লুকিয়ে আছেন, আর তাঁর নিজের গোত্র তাঁর বিরুদ্ধে দুঃসাহসী হয়ে উঠেছে।"
+          },
+          {
+            en: "He approached gently and went in. The exchange is his own record: \"What are you?\" \"I am a prophet.\" \"And what is a prophet?\" \"Allah has sent me.\" \"With what did He send you?\" \"He sent me with the joining of kinship, the breaking of idols, and that Allah be declared One with nothing associated with Him.\" \"Who is with you in this?\" \"A free man and a slave.\" Amr adds that with him then, of those who believed, were Abu Bakr (RA) and Bilal (RA). That was the company Amr was shown.",
+            bn: "তিনি সাবধানে এগিয়ে ভেতরে গেলেন। এরপরের কথোপকথন তাঁর নিজের রেকর্ড: \"আপনি কী?\" \"আমি একজন নবী।\" \"নবী কী?\" \"আল্লাহ আমাকে পাঠিয়েছেন।\" \"কী দিয়ে পাঠিয়েছেন?\" \"আত্মীয়তার বন্ধন জোড়া লাগাতে, মূর্তি ভাঙতে, আর আল্লাহকে এক বলে মানতে, তাঁর সঙ্গে কাউকে শরিক না করতে।\" \"এ ব্যাপারে আপনার সঙ্গে কে আছে?\" \"একজন স্বাধীন মানুষ আর একজন দাস।\" আমর নিজেই যোগ করেন, যাঁরা তাঁর ওপর ঈমান এনেছিলেন, তাঁদের মধ্যে সে সময় তাঁর সঙ্গে ছিলেন আবু বকর (রাঃ) ও বিলাল (রাঃ)। আমরকে যে দল দেখানো হলো, তা এটুকুই।"
+          }
+        ]
+      },
+      {
+        h: { en: "Go Back Until You Hear", bn: "ফিরে যাও, খবর না পাওয়া পর্যন্ত" },
+        p: [
+          {
+            en: "Amr said: I will follow you. The Prophet ﷺ answered, in the same narration: \"You cannot do that today. Do you not see my condition and the people's? Go back to your family, and when you hear that I have prevailed, come to me.\" So he went back to his people. In another form of his account, carried by Ahmad and Ibn Sa'd, he said he had seen himself as a fourth of Islam; it is his own reckoning of how few they were, kept as his words, not as a record.",
+            bn: "আমর বললেন: আমি আপনার অনুসারী হব। একই বর্ণনায় নবীজি ﷺ-এর জবাব: \"আজ তুমি তা পারবে না। আমার অবস্থা আর লোকদের অবস্থা দেখছ না? তুমি তোমার পরিবারের কাছে ফিরে যাও; যখন শুনবে আমি বিজয়ী হয়েছি, তখন আমার কাছে এসো।\" তিনি নিজ গোত্রে ফিরে গেলেন। তাঁর বিবরণের আরেকটি রূপে, যা আহমাদ ও ইবনে সা'দ ধরে রেখেছেন, তিনি বলেছিলেন, তিনি নিজেকে ইসলামের এক-চতুর্থাংশ মনে করতেন; তাঁরা যে কত কম ছিলেন, এটি তাঁর নিজের হিসাব, আর উম্মত এটিকে ইতিহাসের ঘোষণা হিসেবে নয়, তাঁর কথা হিসেবেই রেখেছে।"
+          },
+          {
+            en: "He waited among Banu Sulaym for years, asking travellers for news, while the Messenger ﷺ moved to Madinah. At last some people of Yathrib passed, and he asked what the man who had come to Madinah had done. They said: people are hastening to him; his own people wanted to kill him and could not. He rode to Madinah. \"O Messenger of Allah, do you know me?\" \"Yes, you are the one who met me in Makkah.\" \"Yes.\" Then: \"Tell me of what Allah has taught you that I do not know. Tell me about the prayer.\"",
+            bn: "বছরের পর বছর তিনি বনু সুলাইমের মধ্যে অপেক্ষা করলেন, পথচারীদের কাছে খবর জানতে চাইতেন; এর মধ্যে রাসূলুল্লাহ ﷺ মদিনায় চলে গেছেন। শেষে ইয়াসরিবের কিছু লোক পথে পড়ল, তিনি জিজ্ঞেস করলেন, মদিনায় আসা সেই ব্যক্তির কী হলো। তারা বলল: লোকেরা তাঁর দিকে ছুটে যাচ্ছে; তাঁর নিজের গোত্র তাঁকে মারতে চেয়েছিল, পারেনি। তিনি মদিনায় গিয়ে তাঁর সামনে হাজির হলেন। \"হে আল্লাহর রাসূল, আপনি আমাকে চেনেন?\" \"হ্যাঁ, তুমি সেই ব্যক্তি, যে মক্কায় আমার সঙ্গে দেখা করেছিল।\" \"হ্যাঁ।\" তারপর তাঁর আবেদন: \"আল্লাহ আপনাকে যা শিখিয়েছেন আর আমি জানি না, তা আমাকে বলুন। নামাজ সম্পর্কে বলুন।\""
+          }
+        ]
+      },
+      {
+        h: { en: "The Hours of Prayer", bn: "নামাজের সময়গুলো" },
+        p: [
+          {
+            en: "The answer in Sahih Muslim 832 maps the day. Pray the morning prayer, then hold back until the sun has risen and climbed, for it rises between the two horns of Satan and the disbelievers prostrate to it. Then pray, for the prayer is attended and witnessed, until the shadow stands with the spear; then hold back, for then Hell is stoked. When the shadow moves on, pray again until you pray asr. Then hold back until the sun sets, for it sets between the two horns of Satan and the disbelievers prostrate to it.",
+            bn: "সহিহ মুসলিম ৮৩২ নম্বর হাদিসের এই জবাব একটি দিনের মানচিত্র। ফজরের নামাজ পড়ো, তারপর সূর্য উঠে উঁচুতে না ওঠা পর্যন্ত নামাজ থেকে বিরত থাকো, কারণ সূর্য ওঠে শয়তানের দুই শিংয়ের মাঝখানে, আর তখন কাফেররা তাকে সিজদা করে। তারপর নামাজ পড়ো, কারণ সে নামাজে হাজিরা ও সাক্ষ্য থাকে, যতক্ষণ না ছায়া বর্শার সমান খাড়া হয়; তখন বিরত থাকো, কারণ সে সময় জাহান্নাম উসকে দেওয়া হয়। ছায়া সরে গেলে আবার নামাজ পড়ো, আসর পড়া পর্যন্ত। তারপর সূর্য ডোবা পর্যন্ত বিরত থাকো, কারণ সূর্য ডোবে শয়তানের দুই শিংয়ের মাঝখানে, আর কাফেররা তাকে সিজদা করে।"
+          },
+          {
+            en: "What the jurists teach about the three times voluntary prayer is avoided, sunrise, the zenith and sunset, draws on this hadith and its companions. Its reasons are inside it: the sun is worshipped at two of those hours, and the fire is stoked at the third. Between them lie the hours in which prayer is attended and witnessed, which the scholars understand as the presence of the angels. Amr had asked for what he did not know, and was given a discipline to carry back to a tribe that had never prayed.",
+            bn: "যে তিন সময়ে নফল নামাজ এড়িয়ে চলা হয়, সূর্যোদয়, দ্বিপ্রহর ও সূর্যাস্ত, সে বিষয়ে ফকিহরা যা শেখান, তার ভিত্তি এই হাদিস ও এর সঙ্গী বর্ণনাগুলো। কারণগুলো হাদিসের ভেতরেই আছে: এর দুটি সময়ে সূর্যকে পূজা করা হচ্ছে, আর তৃতীয়টিতে আগুন উসকে দেওয়া হচ্ছে। এদের মাঝখানে সেই সময়গুলো, যখন নামাজে হাজিরা ও সাক্ষ্য থাকে; আলেমরা এটিকে ফেরেশতাদের উপস্থিতি বলে বুঝেছেন। আমর জানতে চেয়েছিলেন যা তিনি জানেন না, আর তাঁকে দেওয়া হলো এমন একটি নিয়ম, যা তিনি কখনো নামাজ না পড়া এক গোত্রের কাছে বয়ে নিয়ে যেতে পারেন।"
+          }
+        ]
+      },
+      {
+        h: { en: "Sins Fall With the Water", bn: "পানির সঙ্গে ঝরে পড়া গুনাহ" },
+        p: [
+          {
+            en: "Then he asked about wudu. None of you brings his water, rinses his mouth and nose and blows it out, without the sins of his face, mouth and nostrils falling away. When he washes his face as Allah has commanded, the sins of his face fall from the edges of his beard with the water. When he washes his hands to the elbows, from his fingertips; when he wipes his head, from the ends of his hair; when he washes his feet to the ankles, from his toes with the water.",
+            bn: "এরপর তিনি অজু নিয়ে জিজ্ঞেস করলেন। তোমাদের কেউ অজুর পানি এনে কুলি করে ও নাকে পানি দিয়ে ঝেড়ে ফেললে তার মুখমণ্ডল, মুখ ও নাকের গুনাহ ঝরে পড়ে। আল্লাহর হুকুম মতো মুখ ধুলে মুখের গুনাহ দাড়ির প্রান্ত থেকে পানির সঙ্গে ঝরে যায়। কনুই পর্যন্ত হাত ধুলে হাতের গুনাহ আঙুলের ডগা থেকে পানির সঙ্গে পড়ে; মাথা মাসেহ করলে চুলের প্রান্ত থেকে; টাখনু পর্যন্ত পা ধুলে পায়ের গুনাহ পায়ের আঙুল থেকে পানির সঙ্গে ঝরে যায়।"
+          },
+          {
+            en: "The hadith continues: if he then stands and prays, praising Allah, glorifying and magnifying Him as He deserves, and empties his heart for Allah, he leaves his sins as he was on the day his mother bore him. Abu Umamah said: \"Amr, look at what you are saying. In one place a man is given all this?\" Amr answered that he was old, his bones frail, his time near; he had no need to lie about Allah or His Messenger, and had he heard it only once, twice, or even seven times he would not have narrated it, but he had heard it more than that.",
+            bn: "হাদিস এগিয়ে যায়: এরপর সে যদি দাঁড়িয়ে নামাজ পড়ে, আল্লাহর প্রশংসা করে, তাঁর যেমন হক তেমনভাবে তাঁর তাসবিহ ও তাকবির বলে, আর অন্তরকে আল্লাহর জন্য খালি করে দেয়, তবে সে গুনাহ থেকে এমনভাবে বেরিয়ে আসে যেমন তার মা তাকে জন্ম দেওয়ার দিন ছিল। এ শুনে আবু উমামা বললেন: \"আমর, কী বলছেন দেখুন। এক জায়গায় একজন মানুষকে এত সব দেওয়া হয়?\" আমরের জবাব: তাঁর বয়স হয়েছে, হাড় দুর্বল, সময় ঘনিয়ে এসেছে; আল্লাহ বা তাঁর রাসূলের নামে মিথ্যা বলার কোনো দরকার তাঁর নেই; এটি রাসূলুল্লাহ ﷺ-এর মুখে একবার-দুবার, এমনকি সাতবার শুনলেও তিনি বর্ণনা করতেন না, কিন্তু তিনি শুনেছেন তার চেয়ে অনেক বেশি।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Frontier and Homs", bn: "সীমান্ত আর হিমস" },
+        p: [
+          {
+            en: "His other reports are in the Sunan. At-Tirmidhi and Abu Dawud record from him that the Lord is nearest to His servant in the last part of the night, so whoever can remember Allah at that hour should. At-Tirmidhi also has from him that whoever grows a grey hair in the way of Allah has a light on the Day of Rising, and Abu Dawud and at-Tirmidhi that whoever frees a believing slave, it will be his ransom from the Fire, limb for limb. These are Sunan reports, not Sahih, and are cited as such.",
+            bn: "তাঁর অন্য বর্ণনাগুলো সুনান গ্রন্থে আছে। তিরমিজি ও আবু দাউদে তাঁর সূত্রে এসেছে, রাত্রির শেষ ভাগে রব তাঁর বান্দার সবচেয়ে কাছে থাকেন; তাই ওই সময়ে যে আল্লাহর জিকিরকারীদের মধ্যে থাকতে পারে, সে থাকুক। তিরমিজিতে তাঁর আরেকটি বর্ণনা: আল্লাহর পথে যার একটা চুলও পাকে, কিয়ামতের দিন তার জন্য তা নূর হবে। আর আবু দাউদ ও তিরমিজিতে তাঁর বর্ণনা, যে কোনো মুমিন দাসকে মুক্ত করে, তা জাহান্নাম থেকে তার মুক্তিপণ হবে, অঙ্গের বদলে অঙ্গ। এগুলো দুই সহিহর নয়, সুনানের হাদিস, আর সেভাবেই উল্লেখ করা হলো।"
+          },
+          {
+            en: "In later life he settled in Sham, and the biographers place his death at Homs; Ibn Sa'd and others put it in the caliphate of Uthman (RA), and no reliable age survives. Few Companions tell their own conversion from beginning to end as he does, and honesty marks every part of it: the doubt before Islam, the tiny group he joined, the years of waiting, the questions, and an old man's refusal to narrate what he had not heard many times. Whoever seeks truth sincerely is led to it, even when the world cannot yet see it.",
+            bn: "শেষ জীবনে তিনি শামে বসতি করেন, আর জীবনীকাররা তাঁর মৃত্যুস্থান হিমস বলে লিখেছেন; ইবনে সা'দসহ কয়েকজন তা উসমান (রাঃ)-এর খিলাফতকালে রাখেন, আর তাঁর বয়সের কোনো নির্ভরযোগ্য সংখ্যা জানা নেই। খুব কম সাহাবির কাহিনিতে তিনি নিজে শুরু থেকে শেষ পর্যন্ত নিজের ইসলাম গ্রহণের কথা বলেছেন; এটি তেমন একটি, আর গোটা কাহিনিতে সততার ছাপ স্পষ্ট: ইসলামের আগের সন্দেহ, যে দলে যোগ দিলেন তার আকার, অপেক্ষার বছরগুলো, তাঁর করা প্রশ্নগুলো, আর এক বৃদ্ধের জোর দিয়ে বলা কথা, যা অনেকবার শোনেননি তা তিনি বর্ণনা করবেন না। যে আন্তরিকভাবে সত্য খোঁজে, দুনিয়া এখনো তা দেখতে না পেলেও, তাকে সে পথে পৌঁছে দেওয়া হয়।"
+          }
+        ]
+      }
+    ]
+  },
+  hakim_ibn_hizam: {
+    sections: [
+      {
+        h: { en: "Khadijah's Nephew", bn: "খাদিজার ভাতিজা" },
+        p: [
+          {
+            en: "Hakim ibn Hizam (RA) was a grandson of Khuwaylid of Banu Asad; his father Hizam was the brother of Khadijah (RA), making him her nephew. Ibn Sa'd and Ibn Abd al-Barr record that his mother was inside the Kaaba with a party of women when labour came upon her, and that he was born there; the report is theirs, not the Sahihs'. They also place his birth some years before the Year of the Elephant, which would make him older than the Prophet ﷺ. He grew into a merchant of standing who sat in the council of Quraysh.",
+            bn: "হাকিম ইবনে হিযাম (রাঃ) ছিলেন বনু আসাদের খুওয়াইলিদের নাতি; তাঁর বাবা হিযাম ছিলেন খাদিজা (রাঃ)-এর ভাই, সে হিসেবে তিনি খাদিজার ভাতিজা। ইবনে সা'দ ও ইবনে আবদুল বার্র লিখেছেন, তাঁর মা একদল নারীর সঙ্গে কাবার ভেতরে ছিলেন, তখনই প্রসববেদনা ওঠে, আর তাঁর জন্ম হয় সেখানেই; এই বর্ণনা তাঁদের, সহিহ হাদিসের নয়। তাঁরা তাঁর জন্ম রাখেন হস্তিবর্ষের কয়েক বছর আগে, তার মানে তিনি নবীজি ﷺ-এর চেয়ে বয়সে বড়। বড় হয়ে তিনি হন ব্যবসায়ী ও সম্ভ্রান্ত মানুষ, কুরাইশের পরামর্শসভায় যাঁর আসন ছিল।"
+          },
+          {
+            en: "Two threads tie him to the Prophet's ﷺ household before Islam. Ibn Sa'd relates that it was Hakim who bought the boy Zayd ibn Harithah at the market of Ukaz and gave him to his aunt Khadijah, who gave him to the Prophet ﷺ. And Ibn Ishaq tells that during the boycott of Banu Hashim, Hakim sent a servant with wheat for Khadijah in the valley; Abu Jahl stopped the man, and only the intervention of Abu al-Bakhtari let the food through. He was not a believer, but he never forgot whose nephew he was.",
+            bn: "ইসলামের আগেই দুটি সুতো তাঁকে নবীজি ﷺ-এর পরিবারের সঙ্গে বেঁধে রেখেছিল। ইবনে সা'দ লিখেছেন, উকাযের বাজারে বালক যায়েদ ইবনে হারিসাকে কিনেছিলেন হাকিমই, তারপর তাঁকে দেন ফুফু খাদিজাকে, আর খাদিজা তাঁকে দেন নবীজি ﷺ-কে। আর ইবনে ইসহাক বলেন, বনু হাশিমের বয়কটের সময় হাকিম এক চাকরের হাতে উপত্যকায় খাদিজার জন্য গম পাঠান; আবু জাহল লোকটিকে আটকায়, শেষে আবুল বাখতারি এগিয়ে এলে খাবার পৌঁছায়। তিনি মুমিন ছিলেন না, কিন্তু কার ভাতিজা, তা কখনো ভোলেননি।"
+          }
+        ]
+      },
+      {
+        h: { en: "Sixty Years Outside", bn: "বাইরে ষাট বছর" },
+        p: [
+          {
+            en: "He stayed outside Islam through the whole Makkan period and beyond. At Badr he was in the Quraysh army and escaped the field; Ibn Sa'd records that for the rest of his life, when he wished to swear, he would say: no, by the One who saved me on the day of Badr. The biographers reckon his life at a hundred and twenty years, sixty in ignorance and sixty in Islam. The figures are theirs and round, but the shape is true: a full lifetime before faith, and a second inside it.",
+            bn: "মক্কার গোটা সময়টা, আর তার পরেও, তিনি ইসলামের বাইরে রইলেন। বদরে তিনি কুরাইশ বাহিনীতে ছিলেন এবং ময়দান থেকে বেঁচে ফেরেন; ইবনে সা'দ লিখেছেন, বাকি জীবন কসম খেতে হলে তিনি বলতেন: না, সেই সত্তার কসম, যিনি আমাকে বদরের দিন বাঁচিয়েছেন। জীবনীকাররা তাঁর আয়ু ধরেন একশ বিশ বছর, ষাট জাহেলিয়াতে, ষাট ইসলামে। সংখ্যাগুলো তাঁদের এবং গোলগাল; কিন্তু যে আকৃতি তারা আঁকে, তা সত্যি। ঈমানের আগে একটি পুরো জীবন, আর তার ভেতরে দ্বিতীয় আরেকটি।"
+          },
+          {
+            en: "The turn came in Ramadan of the eighth year. Ibn Ishaq relates that on the night the Muslim army camped at Marr az-Zahran, Abu Sufyan, Hakim ibn Hizam and Budayl ibn Warqa went out to scout. Al-Waqidi and Ibn Sa'd relate that the three accepted Islam before the Prophet ﷺ, and that on the morning of the conquest he declared that whoever entered the house of Hakim ibn Hizam was safe. The man who had carried wheat to Khadijah in the boycott now had his own house named a refuge for the city.",
+            bn: "মোড় ঘুরল অষ্টম হিজরির রমজানে। ইবনে ইসহাক লিখেছেন, মুসলিম বাহিনী যে রাতে মার্রুয যাহরানে শিবির করে, সেই রাতে আবু সুফিয়ান, হাকিম ইবনে হিযাম ও বুদাইল ইবনে ওয়ারকা খোঁজ নিতে বের হন। আল-ওয়াকিদি ও ইবনে সাদ লিখেছেন, এই তিনজন নবীজি ﷺ-এর সামনে ইসলাম কবুল করেন, আর বিজয়ের সকালে নবীজি ﷺ ঘোষণা করেন, যে হাকিম ইবনে হিযামের ঘরে ঢুকবে সে নিরাপদ। বয়কটের দিনে যিনি খাদিজার জন্য গম পাঠিয়েছিলেন, এখন তাঁর নিজের ঘরই শহরের জন্য আশ্রয় বলে ঘোষিত হলো।"
+          }
+        ]
+      },
+      {
+        h: { en: "Good Done Before Islam", bn: "ইসলামের আগের নেকি" },
+        p: [
+          {
+            en: "He brought a question with him into Islam. Sahih al-Bukhari 1436 records that Hakim asked the Messenger of Allah ﷺ about things he used to do in the days of ignorance as acts of devotion, charity, freeing slaves and maintaining kinship, and whether there was any reward for him in them. The Prophet ﷺ said: \"You accepted Islam upon what good you had done before.\" A man of sixty who had spent decades doing good without faith was told that his Islam gathered it up rather than cancelled it.",
+            bn: "একটি প্রশ্ন সঙ্গে নিয়ে তিনি ইসলামে ঢুকলেন। সহিহ বুখারি ১৪৩৬ নম্বর হাদিসে আছে, হাকিম রাসূলুল্লাহ ﷺ-কে জিজ্ঞেস করলেন, জাহেলি যুগে ইবাদত মনে করে যেসব কাজ তিনি করতেন, দান, দাসমুক্তি, আত্মীয়তা রক্ষা, তাতে তাঁর জন্য কোনো সওয়াব আছে কি না। নবীজি ﷺ বললেন: \"তুমি তোমার আগের সৎকর্মসহই ইসলাম গ্রহণ করেছ।\" ষাট বছরের এক মানুষ, ঈমান ছাড়াই যিনি দশকের পর দশক ভালো কাজ করেছেন, তাঁকে জানানো হলো: ইসলাম সেসব বাতিল করেনি, বরং কুড়িয়ে নিয়েছে।"
+          },
+          {
+            en: "The scholars have discussed how a deed done without faith can be rewarded, and their answers turn on the same point: it was the Islam that came after which gave the earlier good its value. For the ordinary believer the hadith is simpler. Nothing sincerely good is wasted with Allah, and a person who comes to faith late does not arrive empty-handed. Hakim's question is asked by every convert who looks back on a long life, and the answer given to him is the answer given to them.",
+            bn: "ঈমান ছাড়া করা কাজ কীভাবে সওয়াব পায়, আলেমরা তা নিয়ে আলোচনা করেছেন, আর তাঁদের উত্তর একই জায়গায় গিয়ে ঠেকে: পরে আসা ইসলামই আগের নেকিকে তার মূল্য দিয়েছে। সাধারণ মুমিনের জন্য হাদিসটি আরও সহজ। আল্লাহর কাছে আন্তরিক কোনো ভালো কাজ নষ্ট হয় না, আর দেরিতে ঈমান আনা মানুষ খালি হাতে আসে না। দীর্ঘ জীবনের দিকে ফিরে তাকানো প্রতিটি নওমুসলিম হাকিমের প্রশ্নটিই করে, আর তাঁকে দেওয়া উত্তরটিই তাদের উত্তর।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Upper Hand", bn: "উপরের হাত" },
+        p: [
+          {
+            en: "Sahih al-Bukhari 1472 is his own account. He asked the Messenger of Allah ﷺ and was given; asked again and was given; asked a third time and was given. Then the Prophet ﷺ said: \"Hakim, this wealth is green and sweet. Whoever takes it with a generous soul is blessed in it, and whoever takes it with a greedy soul is not blessed in it, like one who eats and is not satisfied. The upper hand is better than the lower hand.\" Hakim answered that by the One who had sent him with the truth, he would not take anything from anyone after him until he left this world.",
+            bn: "সহিহ বুখারি ১৪৭২ নম্বর হাদিস তাঁর নিজের বিবরণ। তিনি রাসূলুল্লাহ ﷺ-এর কাছে চাইলেন, পেলেন; আবার চাইলেন, পেলেন; তৃতীয়বার চাইলেন, পেলেন। তারপর নবীজি ﷺ বললেন: \"হাকিম, এই সম্পদ সবুজ ও মিষ্টি। যে উদার মনে তা নেয়, তাতে তার বরকত হয়; আর যে লোভী মনে নেয়, তাতে তার বরকত হয় না, সে যেন এমন লোক, যে খায় কিন্তু তৃপ্ত হয় না। উপরের হাত নিচের হাতের চেয়ে উত্তম।\" হাকিম জবাব দিলেন, যিনি তাঁকে সত্যসহ পাঠিয়েছেন তাঁর কসম, দুনিয়া ছাড়ার আগ পর্যন্ত তাঁর পরে আর কারও কাছ থেকে তিনি কিছু নেবেন না।"
+          },
+          {
+            en: "The same hadith records what the vow cost. Abu Bakr (RA) as caliph called Hakim to receive his stipend, and he refused. Umar (RA) called him and he refused again, and Umar said before the Muslims that he bore witness he had offered Hakim his right from the spoils and Hakim had declined it. He took nothing from anyone after the Prophet ﷺ until he died. Ibn Sa'd adds that he gave generously in Islam, freeing slaves and giving away camels at the pilgrimage. Wealth was welcome in his hand only on its way out.",
+            bn: "সেই কসমের দাম কী ছিল, একই হাদিসে আছে। খলিফা আবু বকর (রাঃ) হাকিমকে তাঁর ভাতা নিতে ডাকলেন, তিনি নিলেন না। উমর (রাঃ) ডাকলেন, তিনি আবারও নিলেন না; উমর মুসলিমদের সামনে বললেন, তিনি সাক্ষী, গনিমতের হক হাকিমকে সাধা হয়েছিল আর হাকিম তা ফিরিয়ে দিয়েছেন। নবীজি ﷺ-এর পরে মৃত্যু পর্যন্ত তিনি কারও কাছ থেকে কিছু নেননি। ইবনে সা'দ যোগ করেন, ইসলামে তিনি দান করেছেন দুহাতে, দাস মুক্ত করেছেন, হজে উট বিলিয়েছেন। সম্পদ তাঁর হাতে স্বাগত ছিল কেবল বেরিয়ে যাওয়ার পথে।"
+          }
+        ]
+      },
+      {
+        h: { en: "A Merchant's Hadith", bn: "এক ব্যবসায়ীর হাদিস" },
+        p: [
+          {
+            en: "He traded all his life, and the hadith most cited from him concerns trade. In Sahih al-Bukhari 2079 he relates that the Prophet ﷺ said: \"The buyer and the seller have the option as long as they have not separated. If both spoke the truth and made things clear, they are blessed in their transaction; if they concealed and lied, the blessing of their transaction is wiped out.\" A market rule and a moral rule in one breath, carried by a man who had spent sixty years in the markets before he heard it.",
+            bn: "সারা জীবন তিনি ব্যবসায়ী ছিলেন, আর তাঁর সূত্রে সবচেয়ে বেশি উদ্ধৃত হাদিসটিও ব্যবসার। সহিহ বুখারি ২০৭৯ নম্বর হাদিসে তিনি বলেন, নবীজি ﷺ বলেছেন: \"ক্রেতা ও বিক্রেতা যতক্ষণ আলাদা না হয়, ততক্ষণ তাদের এখতিয়ার থাকে। দুজনে সত্য বললে ও স্পষ্ট করে দিলে তাদের লেনদেনে বরকত হয়; আর গোপন করলে ও মিথ্যা বললে তাদের লেনদেনের বরকত মুছে যায়।\" বাজারের নিয়ম আর নৈতিক নিয়ম এক নিঃশ্বাসে বলা, আর যিনি তা বহন করলেন, তিনি শোনার আগেই ষাট বছর বাজারে কাটিয়েছেন।"
+          },
+          {
+            en: "He died in Madinah; the biographers give the year as about 54 AH and his age as a hundred and twenty, round figures of their own. His page carries two lessons that fit together. From the first hadith: no sincere good is lost, whenever it was done. From the other two: dignity lies in the hand that gives and in the mouth that tells the truth in a sale. A nobleman of Quraysh, born to the Kaaba's shadow and Khadijah's family, found in Islam the name for what he had been trying to do all along.",
+            bn: "তিনি মদিনায় ইন্তেকাল করেন; জীবনীকাররা বছর ধরেন আনুমানিক ৫৪ হিজরি, আর বয়স একশ বিশ; সংখ্যা দুটি তাঁদের, আর গোলগাল। তাঁর পাতায় দুটি শিক্ষা, যা একসঙ্গে মেলে। প্রথম হাদিস থেকে: আন্তরিক কোনো নেকি হারায় না, যখনই তা করা হোক। বাকি দুটি থেকে: মর্যাদা সেই হাতে, যা দেয়, আর সেই মুখে, যা বেচাকেনায় সত্য বলে। কাবার ছায়ায় আর খাদিজার পরিবারে জন্ম নেওয়া কুরাইশের এক সম্ভ্রান্ত মানুষ ইসলামে খুঁজে পেলেন সেই কাজের নাম, যা তিনি এতদিন ধরে করতে চাইছিলেন।"
+          }
+        ]
+      }
+    ]
+  },
+  uthman_ibn_talhah: {
+    sections: [
+      {
+        h: { en: "The House That Held the Key", bn: "যে ঘরে চাবি থাকত" },
+        p: [
+          {
+            en: "Uthman ibn Talhah (RA) belonged to Banu Abd ad-Dar. Ibn Ishaq relates that when the offices of Makkah were settled among Qusayy's descendants, Abd ad-Dar received the hijabah, the custodianship of the Kaaba and its key, along with the banner and the house of council, and the office passed down his line. Uthman's father Talhah ibn Abi Talhah held it in his time. At Uhud, Talhah and several of his kinsmen carried the standard of Quraysh, and Ibn Ishaq lists them among the dead of that day. Uthman inherited a key, a lineage, and a grievance.",
+            bn: "উসমান ইবনে তালহা (রাঃ) ছিলেন বনু আবদুদ-দার গোত্রের মানুষ। ইবনে ইসহাক লিখেছেন, মক্কার দায়িত্বগুলো কুসাইয়ের বংশধরদের মধ্যে বণ্টন হয়ে গেলে আবদুদ-দার পান হিজাবা, অর্থাৎ কাবা ও তার চাবির রক্ষণাবেক্ষণ, সঙ্গে পতাকা ও পরামর্শগৃহ; দায়িত্বটি তাঁর বংশে চলতে থাকে। উসমানের বাবা তালহা ইবনে আবি তালহা নিজের সময়ে সেটি ধরে রাখেন। উহুদে তালহা ও তাঁর কয়েকজন স্বজন কুরাইশের পতাকা বহন করেন, আর ইবনে ইসহাক সেদিনের নিহতদের তালিকায় তাঁদের নাম রাখেন। উসমান উত্তরাধিকারে পেলেন চাবি, বংশধারা, আর একটা ক্ষোভ।"
+          },
+          {
+            en: "Ibn Sa'd preserves, from Uthman himself, a memory of the Makkan years. The Prophet ﷺ once asked to enter the Kaaba; Uthman refused and spoke roughly. The Prophet ﷺ bore it and said that a day might come when Uthman would see that key in the Prophet's ﷺ hand, to give to whom he willed; Uthman answered that Quraysh would be ruined and humbled on that day, and was told they would rather be built up and honoured. The exchange rests on the sirah, and Uthman said he remembered it when the day came.",
+            bn: "ইবনে সা'দ উসমানের নিজের মুখ থেকে মক্কার দিনগুলোর একটি স্মৃতি রেখেছেন। নবীজি ﷺ একবার কাবায় ঢুকতে চাইলে উসমান তাঁকে বাধা দেন ও রূঢ় কথা বলেন। নবীজি ﷺ তা সয়ে নিয়ে বলেন, এমন দিন হয়তো আসবে যখন উসমান এই চাবি তাঁর হাতে দেখবে, যাকে ইচ্ছা তিনি তা দেবেন; উসমান বলেন, সেদিন তো কুরাইশ ধ্বংস ও লাঞ্ছিত হবে, আর জবাব পান, বরং সেদিন তারা আবাদ ও সম্মানিত হবে। কথোপকথনটি সিরাতের ওপর দাঁড়িয়ে, আর উসমান বলেছেন, সেই দিন যখন এল, তখন কথাটি তাঁর মনে পড়েছিল।"
+          }
+        ]
+      },
+      {
+        h: { en: "A Kindness on the Road", bn: "পথের এক উপকার" },
+        p: [
+          {
+            en: "Before he believed, he did one thing the Muslims never forgot. Umm Salamah (RA), in the account Ibn Ishaq preserves from her, set out alone for Madinah on a camel with her small son after her clan had held her from her husband for about a year. Uthman ibn Talhah met her on the road, learned she was travelling alone, and led her camel to Quba, where Abu Salamah (RA) was living, speaking to her no more than was necessary; then he turned back to Makkah. A polytheist escorted a Muhajir's wife into the Prophet's ﷺ city.",
+            bn: "ঈমান আনার আগেই তিনি এমন একটি কাজ করেছিলেন, মুসলিমরা যা কখনো ভোলেননি। ইবনে ইসহাক উম্মে সালামা (রাঃ)-এর মুখে যে বিবরণ রেখেছেন, সেখানে তিনি বলেন, প্রায় এক বছর গোত্র তাঁকে স্বামীর কাছ থেকে আটকে রাখার পর তিনি ছোট ছেলেকে নিয়ে একা উটে চড়ে মদিনার পথে রওনা হন। পথে উসমান ইবনে তালহা তাঁকে পান, জানেন তিনি একা যাচ্ছেন, আর তাঁর উটের রশি ধরে কুবা পর্যন্ত পৌঁছে দেন, যেখানে আবু সালামা (রাঃ) থাকতেন; প্রয়োজনের বাইরে একটি কথাও বলেননি; তারপর মক্কায় ফিরে যান। একজন মুশরিক এক মুহাজিরের স্ত্রীকে পৌঁছে দিলেন নবীজি ﷺ-এর শহরে।"
+          },
+          {
+            en: "She used to say afterwards that she knew no companion nobler than the man who had escorted her. The remark is worth holding beside what came later. The Quran had not yet entered his life, but the qualities it would ask of him, trustworthiness and restraint, were already there, and the religion he would join did not have to create his character; it had to claim it. When the key was returned to him at the conquest, it was returned to a man whose hands had already proved safe.",
+            bn: "পরে তিনি বলতেন, যিনি তাঁকে পৌঁছে দিয়েছিলেন, তাঁর চেয়ে মহৎ সঙ্গী তিনি আর দেখেননি। কথাটি পরের ঘটনার পাশে রেখে দেখার মতো। কুরআন তখনো তাঁর জীবনে ঢোকেনি, কিন্তু কুরআন তাঁর কাছে যে গুণ চাইবে, আমানতদারি আর সংযম, তা আগে থেকেই ছিল। যে দ্বীনে তিনি যোগ দেবেন, তাকে তাঁর চরিত্র তৈরি করতে হয়নি; শুধু তা দাবি করতে হয়েছে। বিজয়ের দিন চাবি যখন তাঁর হাতে ফিরল, তা ফিরল এমন এক মানুষের হাতে, যার হাত আগেই নিরাপদ প্রমাণিত।"
+          }
+        ]
+      },
+      {
+        h: { en: "Three Riders to Madinah", bn: "মদিনার পথে তিন আরোহী" },
+        p: [
+          {
+            en: "In the eighth year after the hijrah, between the treaty of Hudaybiyah and the conquest, he rode to Madinah with Khalid ibn al-Walid (RA) and Amr ibn al-As (RA), and the three gave their pledge to the Prophet ﷺ together. Ibn Sa'd places their arrival in Safar of that year. Each had fought Islam in his own way: Khalid on the field at Uhud, Amr in the embassy to Abyssinia, Uthman at the door of the Kaaba. The Prophet ﷺ received them without conditions, and within months all three were riding with him toward Makkah.",
+            bn: "হিজরতের অষ্টম বছরে, হুদাইবিয়ার সন্ধি ও মক্কা বিজয়ের মাঝামাঝি সময়ে, তিনি খালিদ ইবনুল ওয়ালিদ (রাঃ) ও আমর ইবনুল আস (রাঃ)-এর সঙ্গে মদিনায় যান, আর তিনজনে একসঙ্গে নবীজি ﷺ-এর হাতে বাইআত করেন। ইবনে সা'দ তাঁদের পৌঁছানো ওই বছরের সফর মাসে রাখেন। প্রত্যেকে নিজের মতো করে ইসলামের বিরুদ্ধে লড়েছিলেন: খালিদ উহুদের ময়দানে, আমর আবিসিনিয়ার দূত হয়ে, উসমান কাবার দরজায়। নবীজি ﷺ তাঁদের গ্রহণ করলেন কোনো শর্ত ছাড়াই, আর কয়েক মাসের মধ্যে তিনজনই তাঁর সঙ্গে মক্কার দিকে চললেন।"
+          },
+          {
+            en: "The army entered Makkah in Ramadan of that year without a battle. Sahih al-Bukhari 1598 records from Ibn Umar (RA) that the Prophet ﷺ entered the Kaaba with Usamah ibn Zayd (RA), Bilal (RA) and Uthman ibn Talhah al-Hajabi, the keeper, and that they closed the door behind them and he stayed inside; Ibn Umar asked Bilal afterwards where he had prayed. Uthman had opened the door he once shut. The sirah says the key was taken from him for that entry, and the question everyone in Makkah was asking was where it would go next.",
+            bn: "ওই বছরের রমজানে বাহিনী যুদ্ধ ছাড়াই মক্কায় ঢোকে। সহিহ বুখারি ১৫৯৮ নম্বর হাদিসে ইবনে উমর (রাঃ) বলেন, নবীজি ﷺ কাবার ভেতরে যান উসামা ইবনে যায়েদ (রাঃ), বিলাল (রাঃ) ও চাবির রক্ষক উসমান ইবনে তালহা হাজাবিকে নিয়ে; তাঁরা দরজা বন্ধ করে দেন, তিনি ভেতরে থাকেন; পরে ইবনে উমর বিলালকে জিজ্ঞেস করেন, তিনি কোথায় নামাজ পড়েছিলেন। যে দরজা উসমান একদিন বন্ধ করেছিলেন, সেটি তিনিই খুললেন। সিরাত বলে, এই প্রবেশের জন্য চাবি তাঁর কাছ থেকে নেওয়া হয়েছিল, আর মক্কার সবার প্রশ্ন ছিল, চাবিটি এরপর কোথায় যাবে।"
+          }
+        ]
+      },
+      {
+        h: { en: "The Key Returned", bn: "চাবি ফিরে এল" },
+        p: [
+          {
+            en: "Ibn Ishaq and at-Tabari tell the rest. When the Prophet ﷺ came out, Ali (RA) asked that the custodianship be given to Banu Hashim together with the office of watering the pilgrims that they already held. The Prophet ﷺ instead called Uthman ibn Talhah and handed him the key, saying: \"Take it, O Banu Abi Talhah, for ever; none shall take it from you but a wrongdoer.\" The wording is the sirah's. It is not a curse laid on anyone; it is a guarantee laid on the office, and a warning to whoever might one day covet it.",
+            bn: "বাকিটা বলেছেন ইবনে ইসহাক ও তাবারি। নবীজি ﷺ বেরিয়ে এলে আলী (রাঃ) অনুরোধ করেন, হাজিদের পানি পান করানোর যে দায়িত্ব বনু হাশিমের আগে থেকেই আছে, তার সঙ্গে চাবির রক্ষণাবেক্ষণও তাঁদের দেওয়া হোক। নবীজি ﷺ বরং উসমান ইবনে তালহাকে ডেকে চাবিটি তাঁর হাতে দিলেন এই কথায়: \"নাও, হে বনু আবি তালহা, চিরদিনের জন্য; জালিম ছাড়া কেউ তোমাদের কাছ থেকে তা নেবে না।\" ভাষাটি সিরাতের। এ কারও ওপর অভিশাপ নয়; বরং দায়িত্বটির ওপর নিশ্চয়তা, আর যে কখনো তার দিকে লোভ করবে তার জন্য সতর্কবার্তা।"
+          },
+          {
+            en: "The exegetes connect this moment with 4:58, in which Allah commands the believers to render trusts to those to whom they are due and to judge between people with justice; Ibn Kathir cites the report of the key among the accounts of the verse's occasion. Whether or not the verse came down at that hour, it describes what happened. At the moment of greatest power, when the whole city lay open and every office could have been reassigned, a trust was returned to the family that held it, and a former adversary was told he could keep it.",
+            bn: "মুফাসসিররা এই মুহূর্তকে 4:58 আয়াতের সঙ্গে জুড়ে দেখেন, যেখানে আল্লাহ মুমিনদের হুকুম দেন হকদারের হক তার কাছে পৌঁছে দিতে আর মানুষের মাঝে ইনসাফের সঙ্গে বিচার করতে; ইবনে কাসির আয়াতটির নাযিলের প্রেক্ষাপটের বর্ণনাগুলোর মধ্যে চাবির ঘটনাটি উল্লেখ করেছেন। আয়াতটি ঠিক সেই সময়ে নেমেছিল কি না, সেটি যেভাবেই হোক, আয়াত যা বলে, সেদিন তা-ই ঘটেছিল। সর্বোচ্চ ক্ষমতার মুহূর্তে, যখন গোটা শহর খোলা আর তার প্রতিটি পদ নতুন করে বণ্টন করা যেত, একটি আমানত তার পরিবারের কাছেই ফিরে গেল, আর এক সাবেক প্রতিপক্ষকে বলা হলো, তুমি তা রাখতে পারো।"
+          }
+        ]
+      },
+      {
+        h: { en: "A Trust That Outlived Him", bn: "যে আমানত তাঁকে ছাড়িয়ে গেল" },
+        p: [
+          {
+            en: "The key stayed where he was told it would. His cousin Shaybah ibn Uthman shared the custodianship, and the descendants of that house, the Banu Shaybah, hold the key of the Kaaba to this day. Uthman himself moved to Madinah after the conquest and lived there. Ibn Sa'd gives his death there in about 42 AH; some biographers record instead that he was killed at Ajnadayn in the wars of Sham, and the two accounts are simply set side by side in the sources without a settled answer.",
+            bn: "চাবি রয়ে গেল ঠিক সেখানেই, যেখানে থাকবে বলে তাঁকে বলা হয়েছিল। তাঁর চাচাতো ভাই শাইবা ইবনে উসমান রক্ষণাবেক্ষণে অংশীদার ছিলেন, আর সেই ঘরের বংশধর বনু শাইবা আজও কাবার চাবি ধরে রেখেছে। উসমান নিজে বিজয়ের পর মদিনায় চলে যান এবং সেখানেই থাকেন। ইবনে সা'দ তাঁর ইন্তেকাল সেখানে আনুমানিক ৪২ হিজরিতে রাখেন; কোনো কোনো জীবনীকার বরং লিখেছেন, তিনি শামের যুদ্ধে আজনাদাইনে শহিদ হন। সূত্রগুলোতে দুটি বর্ণনা পাশাপাশি রাখা আছে, কোনো চূড়ান্ত ফয়সালা ছাড়াই।"
+          },
+          {
+            en: "His is a small life in the histories and a large one in the lesson. He shut a door on the Prophet ﷺ and later opened it for him; he guided a stranded woman to safety before he shared her faith; he rode to Madinah with two men whose names fill the chronicles, and kept his own office quietly; and at the hour when everything in Makkah changed hands, his did not. His lesson: a trust is returned to its rightful holder even at the moment of greatest power, and its holder keeps it by being worthy.",
+            bn: "ইতিহাসে তাঁর জীবন ছোট, শিক্ষায় বড়। তিনি নবীজি ﷺ-এর মুখের ওপর দরজা বন্ধ করেছিলেন, পরে সেই দরজা তাঁর জন্য খুলে দিলেন; এক অসহায় নারীকে নিরাপদে পৌঁছে দিলেন তাঁর ঈমানে শরিক হওয়ার আগেই; যে দুজনের নামে ইতিহাসের পাতা ভরে আছে, তাঁদের সঙ্গে মদিনায় গেলেন আর নিজের দায়িত্বটি চুপচাপ পালন করলেন; আর মক্কার সবকিছু যে মুহূর্তে হাতবদল হলো, তাঁরটা হলো না। এই পাতার শিক্ষা তাঁরই: সর্বোচ্চ ক্ষমতার মুহূর্তেও আমানত তার হকদারের কাছে ফিরে যায়, আর যে তা ধরে রাখে, সে রাখে যোগ্য হয়ে।"
+          }
+        ]
+      }
+    ]
+  },
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { SAHABA_ARTICLES };
