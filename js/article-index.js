@@ -488,10 +488,26 @@ var LQ_ARTICLE_IDS = {
     "9:51"
   ],
   "seerah": [
+    "abyssinia",
+    "aqabah_second",
+    "badr",
+    "boycott",
     "conquest",
     "farewell",
+    "fatrah_wahy",
+    "firstbelievers",
+    "hijra",
+    "hira",
     "hudaybiyyah",
-    "passing"
+    "isra",
+    "mosque",
+    "passing",
+    "persecution",
+    "public",
+    "sorrow",
+    "taif",
+    "trench",
+    "uhud"
   ]
 };
 
