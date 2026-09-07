@@ -398,6 +398,7 @@
  "tad_article": "पूरी व्याख्या",
  "sn_title": "यह नाम क्यों?",
  "sahaba_label_article": "पूरा लेख",
+ "seerah_label_article": "पूरा लेख",
  "prophets_mark_read": "पढ़ा हुआ चिह्नित करें",
  "prophets_marked_read": "पढ़ा गया",
  "prophets_back": "वापस",

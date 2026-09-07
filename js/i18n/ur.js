@@ -398,6 +398,7 @@
  "tad_article": "مکمل تشریح",
  "sn_title": "یہ نام کیوں؟",
  "sahaba_label_article": "مکمل مضمون",
+ "seerah_label_article": "مکمل مضمون",
  "prophets_mark_read": "پڑھا ہوا نشان زد کریں",
  "prophets_marked_read": "پڑھ لیا",
  "prophets_back": "واپس",

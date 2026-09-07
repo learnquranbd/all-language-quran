@@ -829,6 +829,19 @@ class SeerahView {
     listEl.innerHTML = html;
   }
 
+  /** The long-form article for an event, when one has been written.
+   *  Fetched on first open, never when the tab is opened. */
+  articleHtml(ev) {
+    if (typeof LQArticle === 'undefined' || !LQArticle || !LQArticle.has('seerah', ev.id)) return '';
+    return `<div class="mt-3">${LQArticle.html('seerah', ev.id, {
+      lc: (x) => this.lc(x),
+      esc: (s) => this.esc(s),
+      title: this.tt('seerah_label_article'),
+      open: false,
+      onLoad: () => { if (this.expanded.has(ev.id)) this.render(); },
+    })}</div>`;
+  }
+
   cardHtml(ev) {
     const isRead = this.read.has(ev.id);
     const isOpen = this.expanded.has(ev.id);
@@ -868,6 +881,7 @@ class SeerahView {
             </p>
           </div>
           ${ayahBtn}
+          ${isOpen ? this.articleHtml(ev) : ''}
           ${ev.id === 'hijra' ? this.hijraMapHtml() : ''}
           ${battle ? this.battleHtml(ev, battle) : ''}
           <div class="mt-3 flex flex-wrap items-center gap-2">

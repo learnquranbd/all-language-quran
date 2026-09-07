@@ -398,6 +398,7 @@
  "tad_article": "الشرح الكامل",
  "sn_title": "لماذا هذا الاسم؟",
  "sahaba_label_article": "المقال الكامل",
+ "seerah_label_article": "المقال الكامل",
  "prophets_mark_read": "وضع علامة مقروء",
  "prophets_marked_read": "مقروء",
  "prophets_back": "رجوع",

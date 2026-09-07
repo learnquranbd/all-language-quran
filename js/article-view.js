@@ -27,6 +27,7 @@
     prophets: ['js/prophets-articles.js', 'PROPHET_ARTICLES'],
     sahaba: ['js/sahaba-articles.js', 'SAHABA_ARTICLES'],
     tadabbur: ['js/tadabbur-articles/', 'TADABBUR_ARTICLES'],
+    seerah: ['js/seerah-articles.js', 'SEERAH_ARTICLES'],
   };
 
   /** The article files declare their table with `var`, not `const`: a top-level

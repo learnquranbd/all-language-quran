@@ -29,6 +29,7 @@ const CONTENT = [
   'js/prophets-articles.js',
   'js/prophets-data.js',
   'js/sahaba-articles.js',
+  'js/seerah-articles.js',
   'js/sahaba-data.js',
   'js/surah-names-data.js',
   'js/seerah-data.js',

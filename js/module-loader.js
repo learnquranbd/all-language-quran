@@ -40,7 +40,7 @@ LQ.Modules = (function () {
    * Keys are the ids these modules match on in their own tabChanged listeners
    * ('prophets', not the app-nav id 'anbiya' — they differ). */
   const BUNDLES = {
-    seerah:        ['js/seerah-data.js', 'js/seerah-timeline.js'],
+    seerah:        ['js/seerah-data.js', 'js/article-index.js', 'js/article-view.js', 'js/seerah-timeline.js'],
     /* article-view.js + its generated index are shared by the three modules
      * that carry long-form articles. Both are small: the articles themselves
      * are fetched only when a reader opens one, so listing these here costs a

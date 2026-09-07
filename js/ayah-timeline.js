@@ -169,7 +169,7 @@ class AyahTimeline {
           <button data-at-close aria-label="${this.esc(this.tt('close'))}"
             class="shrink-0 w-8 h-8 -mt-1 -mr-1 inline-flex items-center justify-center rounded-full text-gray-400 hover:text-gray-600 dark:hover:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">✕</button>
         </div>
-        <div class="overflow-y-auto p-4 pt-3">
+        <div data-lq-autolink class="overflow-y-auto p-4 pt-3">
           ${o.subtitle ? `<p class="text-xs text-gray-500 dark:text-gray-400 mb-4 leading-relaxed" dir="auto">${this.esc(o.subtitle)}</p>` : ''}
           <ol data-at-list class="list-none m-0 p-0">${items}</ol>
           ${refs.length > chunk ? `<div data-at-more-wrap class="text-center pt-1 pb-2">

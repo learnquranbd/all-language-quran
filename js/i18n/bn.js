@@ -394,6 +394,7 @@
  "tad_article": "বিস্তারিত ব্যাখ্যা",
  "sn_title": "এই নাম কেন?",
  "sahaba_label_article": "সম্পূর্ণ প্রবন্ধ",
+ "seerah_label_article": "সম্পূর্ণ প্রবন্ধ",
  "prophets_mark_read": "পঠিত চিহ্নিত করুন",
  "prophets_marked_read": "পঠিত",
  "prophets_back": "ফিরে যান",

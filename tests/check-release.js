@@ -42,7 +42,7 @@ for (const m of sw.matchAll(/'((?:js|css|data|icons|webfonts)\/[^'?]+)/g)) {
 /* --- lazily loaded bundles must still be precached, or offline loses them --- */
 const LAZY = ['js/seerah-data.js', 'js/sahaba-data.js', 'js/why-islam-data.js',
   'js/prophets-data.js', 'js/learn-quranic-arabic-data.js', 'js/tadabbur-data.js',
-  'js/prophets-articles.js', 'js/sahaba-articles.js',
+  'js/prophets-articles.js', 'js/sahaba-articles.js', 'js/seerah-articles.js',
   'js/article-view.js', 'js/article-index.js', 'js/hope-data.js', 'js/hope.js'];
 for (const f of LAZY) {
   if (!sw.includes(f)) problems.push(`${f} is lazy-loaded but not precached — it would be unavailable offline`);

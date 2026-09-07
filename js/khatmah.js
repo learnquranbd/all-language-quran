@@ -120,8 +120,10 @@ class Khatmah {
       const from = g - this.cum[s.number] + 1;
       const to = Math.min(s.ayahCount, gEnd - this.cum[s.number] + 1);
       segs.push({ surah: s.number, from, to });
+      /* cum[s] + to is already the global index of the verse AFTER `to`
+       * (gIndex is cum[s] + a - 1), so advancing again here skipped the
+       * first ayah of every surah a portion rolled into. */
       g = this.cum[s.number] + to;
-      g++;
     }
     return segs;
   }

@@ -19,6 +19,7 @@ const SETS = [
   ['prophets', 'js/prophets-articles.js', 'PROPHET_ARTICLES'],
   ['sahaba', 'js/sahaba-articles.js', 'SAHABA_ARTICLES'],
   ['tadabbur', null, null, loadTadabburArticles],   // sharded per surah
+  ['seerah', 'js/seerah-articles.js', 'SEERAH_ARTICLES'],
 ];
 const OUT = path.join(ROOT, 'js/article-index.js');
 

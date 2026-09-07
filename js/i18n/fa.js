@@ -398,6 +398,7 @@
  "tad_article": "شرح کامل",
  "sn_title": "چرا این نام؟",
  "sahaba_label_article": "مقاله کامل",
+ "seerah_label_article": "مقاله کامل",
  "prophets_mark_read": "علامت‌گذاری به‌عنوان خوانده‌شده",
  "prophets_marked_read": "خوانده‌شده",
  "prophets_back": "بازگشت",

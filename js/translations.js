@@ -177,6 +177,7 @@ const TRANSLATIONS = {
    "tad_article": "Full explanation",
    "sn_title": "Why this name?",
    "sahaba_label_article": "Full article",
+   "seerah_label_article": "Full article",
    "prophets_mark_read": "Mark as read",
    "prophets_marked_read": "Read",
    "prophets_back": "Back",

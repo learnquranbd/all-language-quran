@@ -24,8 +24,12 @@
 (function () {
   'use strict';
 
-  /** Panes whose content is module-rendered and safe to sweep. */
-  const PANE_SELECTOR = '[id$="-container"], [id$="-root"]';
+  /* Panes whose content is module-rendered and safe to sweep. The overlays —
+   * the verse modal and the shared ayah timeline — are not "-container" panes
+   * and so were never swept, which left every reference inside a tadabbur
+   * reflection, an asbab note or a long-form article opened from a modal as
+   * dead plain text. They opt in with data-lq-autolink. */
+  const PANE_SELECTOR = '[id$="-container"], [id$="-root"], [data-lq-autolink]';
 
   /** Never descend into these. */
   const SKIP_TAGS = new Set(['SCRIPT', 'STYLE', 'TEXTAREA', 'INPUT', 'SELECT', 'OPTION', 'CODE', 'PRE', 'BUTTON', 'A']);
@@ -187,5 +191,7 @@
     });
   });
 
-  window.LQAyahAutolink = { sweep: sweepAll, isRealRef };
+  /* sweepNode lets a caller link content it has just painted without waiting
+   * for the 250 ms debounce or re-walking every pane in the document. */
+  window.LQAyahAutolink = { sweep: sweepAll, sweepNode: sweep, isRealRef };
 })();

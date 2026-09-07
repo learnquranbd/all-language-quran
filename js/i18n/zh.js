@@ -398,6 +398,7 @@
  "tad_article": "完整解释",
  "sn_title": "为何取此名？",
  "sahaba_label_article": "完整文章",
+ "seerah_label_article": "完整文章",
  "prophets_mark_read": "标记为已读",
  "prophets_marked_read": "已读",
  "prophets_back": "返回",

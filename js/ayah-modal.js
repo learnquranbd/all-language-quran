@@ -97,7 +97,7 @@ class AyahModal {
           <h3 id="sam-title" class="flex-1 font-bold text-gray-800 dark:text-gray-100 truncate"></h3>
           <button id="sam-close" aria-label="${this.esc(this.tt('close') || 'Close')}" title="${this.esc(this.tt('close') || 'Close')}" class="p-2.5 rounded-lg leading-none text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700">✕</button>
         </div>
-        <div id="sam-body" class="flex-1 overflow-y-auto p-5"></div>
+        <div id="sam-body" data-lq-autolink class="flex-1 overflow-y-auto p-5"></div>
       </div>`;
     document.body.appendChild(this.overlay);
     this.titleEl = this.overlay.querySelector('#sam-title');
@@ -123,6 +123,9 @@ class AyahModal {
 
       const sv = e.target.closest('[data-similar-verses]');
       if (sv) { this.openSimilar(sv.getAttribute('data-similar-verses')); return; }
+
+      const tp = e.target.closest('[data-topic-open]');
+      if (tp) { this.openTopic(tp.getAttribute('data-topic-open')); return; }
 
       const tn = e.target.closest('[data-tadabbur-note]');
       if (tn) { this.toggleTadabbur(tn.getAttribute('data-tadabbur-note')); return; }
@@ -383,6 +386,7 @@ class AyahModal {
         </div>` : ''}
       <div id="sam-grammar" class="mb-3"></div>
       <p class="text-center text-gray-600 dark:text-gray-300 mb-4" dir="auto">${v.translation || ''}</p>
+      <div id="sam-context" class="mb-4 space-y-2 text-start" dir="auto"></div>
       <div id="sam-tadabbur" class="hidden mb-4 p-4 rounded-xl bg-amber-50 dark:bg-amber-500/10 border border-amber-200 dark:border-amber-500/30 text-sm text-gray-700 dark:text-gray-200 space-y-2 text-start" dir="auto"></div>
       ${this.renderTools()}
       <div class="flex flex-wrap items-center justify-center gap-2">
@@ -408,6 +412,114 @@ class AyahModal {
     this.syncAudioBtn();
     this.applyFontScale();
     this._checkSimilar(v.key);
+    this._renderContext(v.key);
+    this._link();
+  }
+
+  /** Link verse references in freshly painted modal prose (the debounced global
+   * sweep only fires on tab changes, which an overlay never triggers). */
+  _link() {
+    try {
+      const body = this.overlay && this.overlay.querySelector('#sam-body');
+      if (body && window.LQAyahAutolink && window.LQAyahAutolink.sweepNode) window.LQAyahAutolink.sweepNode(body);
+    } catch (e) { /* prose still reads fine, references just stay plain */ }
+  }
+
+  // ---- verse hub: occasion of revelation + topics ---------------------------
+
+  /* 358 asbab entries ship in data/nuzul/*.json and, until now, could only be
+   * reached by drilling into a surah inside the Nuzul tab. A reader who taps a
+   * verse anywhere in the app has the same question, so the modal indexes them
+   * once (by expanded verse ref, ranges included) and shows the one that
+   * covers the open ayah. */
+  _asbabIndex() {
+    if (!this._asbabP) {
+      this._asbabP = fetch('data/nuzul/manifest.json')
+        .then(r => (r.ok ? r.json() : null))
+        .then(list => Promise.all((Array.isArray(list) ? list : []).map(f =>
+          fetch('data/nuzul/' + f).then(r => (r.ok ? r.json() : null)).catch(() => null))))
+        .then(shards => {
+          const map = {};
+          for (const sh of shards) {
+            if (!sh || !sh.asbab || typeof sh.asbab !== 'object') continue;
+            for (const k in sh.asbab) {
+              for (const e of (sh.asbab[k] || [])) {
+                const m = /^(\d+):(\d+)(?:-(\d+))?$/.exec(String((e && e.ref) || ''));
+                if (!m) continue;
+                const last = m[3] ? +m[3] : +m[2];
+                for (let x = +m[2]; x <= last; x++) { const kk = `${m[1]}:${x}`; if (!map[kk]) map[kk] = e; }
+              }
+            }
+          }
+          return map;
+        })
+        .catch(() => ({}));
+    }
+    return this._asbabP;
+  }
+
+  /** Topic groups/collections whose refs cover this verse (deduped by id). */
+  topicsFor(ref) {
+    if (!this._topicMap) {
+      this._topicMap = {};
+      const groups = []
+        .concat((typeof TOPIC_GROUPS !== 'undefined' && Array.isArray(TOPIC_GROUPS)) ? TOPIC_GROUPS : [])
+        .concat((typeof TOPIC_COLLECTIONS !== 'undefined' && Array.isArray(TOPIC_COLLECTIONS)) ? TOPIC_COLLECTIONS : []);
+      for (const g of groups) {
+        for (const r of (g.refs || [])) {
+          const m = /^(\d+):(\d+)(?:-(\d+))?$/.exec(String(r));
+          if (!m) continue;
+          const last = m[3] ? +m[3] : +m[2];
+          for (let x = +m[2]; x <= last; x++) {
+            const kk = `${m[1]}:${x}`;
+            const arr = (this._topicMap[kk] = this._topicMap[kk] || []);
+            if (!arr.some(o => o.id === g.id)) arr.push(g);
+          }
+        }
+      }
+    }
+    return this._topicMap[ref] || [];
+  }
+
+  /** A topic/collection name in the reader's language, falling back to English. */
+  _topicName(g) {
+    const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+    const n = g && g.names ? g.names : {};
+    return n[lang] || n.en || g.id || '';
+  }
+
+  /** Fill #sam-context with the occasion of revelation and the topic chips. */
+  async _renderContext(key) {
+    const box = this.overlay && this.overlay.querySelector('#sam-context');
+    if (!box) return;
+    const topics = this.topicsFor(key);
+    const chips = topics.length ? `
+      <div class="flex flex-wrap items-center gap-1.5">
+        <span class="text-xs text-gray-400 dark:text-gray-500">${this.esc(this.tt('topics_title'))}</span>
+        ${topics.map(g => `<button data-topic-open="${this.esc(g.id)}"
+            class="px-2.5 py-1 rounded-full text-xs border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700">${g.emoji || ''} ${this.esc(this._topicName(g))}</button>`).join('')}
+      </div>` : '';
+    box.innerHTML = chips;
+
+    let entry = null;
+    try { entry = (await this._asbabIndex())[key] || null; } catch (e) { entry = null; }
+    /* The modal may have navigated to another ayah while the shards were in
+     * flight; only paint if it is still showing the verse we looked up. */
+    if (!this._st || this._st.v.key !== key) return;
+    if (!entry) return;
+    const lang = (typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en';
+    const bn = lang === 'bn';
+    const title = (bn && entry.titleBn) || entry.titleEn || '';
+    const ctx = (bn && entry.contextBn) || entry.contextEn || '';
+    if (!ctx) return;
+    box.insertAdjacentHTML('afterbegin', `
+      <details class="rounded-xl border border-emerald-200 dark:border-emerald-500/30 bg-emerald-50 dark:bg-emerald-500/10 px-4 py-2.5">
+        <summary class="cursor-pointer text-sm font-medium text-emerald-800 dark:text-emerald-200 list-none">
+          📜 ${this.esc(this.tt('nuzul_title'))}${title ? ` · ${this.esc(title)}` : ''}
+        </summary>
+        <p class="mt-2 text-sm text-gray-700 dark:text-gray-200 leading-relaxed">${this.esc(ctx)}</p>
+      </details>`);
+    this._link();
   }
 
   /** Reveal the 🪞 button when the similarity index knows this verse. */
@@ -449,6 +561,22 @@ class AyahModal {
     } catch (e) { /* optional enrichment */ }
   }
 
+  /** A topic chip opens that topic's verses in the shared timeline (the modal
+   * closes first — the timeline sits at a lower z-level, exactly as for the
+   * similar-verses button above). */
+  openTopic(id) {
+    try {
+      const groups = []
+        .concat((typeof TOPIC_GROUPS !== 'undefined' && Array.isArray(TOPIC_GROUPS)) ? TOPIC_GROUPS : [])
+        .concat((typeof TOPIC_COLLECTIONS !== 'undefined' && Array.isArray(TOPIC_COLLECTIONS)) ? TOPIC_COLLECTIONS : []);
+      const g = groups.find(x => x && x.id === id);
+      if (!g || !Array.isArray(g.refs) || !g.refs.length) return;
+      if (typeof ayahTimeline === 'undefined' || !ayahTimeline) return;
+      this.close();
+      ayahTimeline.open({ title: `${g.emoji || ''} ${this._topicName(g)}`.trim(), refs: g.refs.slice() });
+    } catch (e) { /* optional enrichment */ }
+  }
+
   /** Which tadabbur note (single ref or range key) covers this ayah? */
   tadabburKeyFor(ref) {
     if (typeof TADABBUR_NOTES === 'undefined' || !TADABBUR_NOTES) return null;
@@ -465,10 +593,10 @@ class AyahModal {
   }
 
   /** Toggle the inline tadabbur reflection box for the open ayah. */
-  toggleTadabbur(ref) {
+  toggleTadabbur(ref, keepOpen) {
     const box = this.overlay && this.overlay.querySelector('#sam-tadabbur');
     if (!box) return;
-    if (!box.classList.contains('hidden')) { box.classList.add('hidden'); return; }
+    if (!keepOpen && !box.classList.contains('hidden')) { box.classList.add('hidden'); return; }
     const k = this.tadabburKeyFor(ref);
     const n = k ? TADABBUR_NOTES[k] : null;
     if (!n) return;
@@ -477,11 +605,27 @@ class AyahModal {
     const refl = (bn && n.reflectionBn) || n.reflectionEn || '';
     const pts = (bn && n.pointsBn && n.pointsBn.length ? n.pointsBn : (n.pointsEn || []));
     const lesson = (bn && n.lessonBn) || n.lessonEn || '';
+    /* 319 verses also carry a 1,400-1,800 word article. It is fetched only when
+     * the reader opens the panel, so listing it here costs nothing until then. */
+    const art = (typeof LQArticle !== 'undefined' && LQArticle && LQArticle.has('tadabbur', k))
+      ? LQArticle.html('tadabbur', k, {
+          lc: (x) => (bn && x && x.bn) || (x && x.en) || '',
+          esc: (x) => this.esc(x),
+          /* Same label the Tadabbur tab gives this panel, when that module is
+           * loaded; the generic UI string otherwise. */
+          title: ((typeof tadabbur !== 'undefined' && tadabbur && typeof tadabbur.L === 'function')
+            ? tadabbur.L('tad_article') : this.tt('sahaba_label_article')),
+          open: false,
+          onLoad: () => { const b = this.overlay && this.overlay.querySelector('#sam-tadabbur'); if (b && !b.classList.contains('hidden')) this.toggleTadabbur(ref, true); },
+        })
+      : '';
     box.innerHTML = `
       ${refl ? `<p>🧭 ${this.esc(refl)}</p>` : ''}
       ${pts.length ? `<ul class="list-disc ms-5 space-y-1">${pts.map(p => `<li>💭 ${this.esc(p)}</li>`).join('')}</ul>` : ''}
-      ${lesson ? `<p class="font-medium">🎯 ${this.esc(lesson)}</p>` : ''}`;
+      ${lesson ? `<p class="font-medium">🎯 ${this.esc(lesson)}</p>` : ''}
+      ${art}`;
     box.classList.remove('hidden');
+    this._link();
   }
 
   /** Compact controls: Arabic font size, audio speed, repeat toggle. */

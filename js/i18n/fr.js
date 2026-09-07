@@ -398,6 +398,7 @@
  "tad_article": "Explication complète",
  "sn_title": "Pourquoi ce nom ?",
  "sahaba_label_article": "Article complet",
+ "seerah_label_article": "Article complet",
  "prophets_mark_read": "Marquer comme lu",
  "prophets_marked_read": "Lu",
  "prophets_back": "Retour",

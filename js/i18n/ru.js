@@ -398,6 +398,7 @@
  "tad_article": "Полное разъяснение",
  "sn_title": "Почему такое название?",
  "sahaba_label_article": "Полная статья",
+ "seerah_label_article": "Полная статья",
  "prophets_mark_read": "Отметить как прочитанное",
  "prophets_marked_read": "Прочитано",
  "prophets_back": "Назад",

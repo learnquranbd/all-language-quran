@@ -486,7 +486,8 @@ var LQ_ARTICLE_IDS = {
     "9:119",
     "9:40",
     "9:51"
-  ]
+  ],
+  "seerah": []
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { LQ_ARTICLE_IDS };

@@ -398,6 +398,7 @@
  "tad_article": "詳しい解説",
  "sn_title": "この名前の由来",
  "sahaba_label_article": "詳しい記事",
+ "seerah_label_article": "詳しい記事",
  "prophets_mark_read": "既読にする",
  "prophets_marked_read": "既読",
  "prophets_back": "戻る",

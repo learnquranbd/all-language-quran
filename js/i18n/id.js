@@ -398,6 +398,7 @@
  "tad_article": "Penjelasan lengkap",
  "sn_title": "Mengapa nama ini?",
  "sahaba_label_article": "Artikel lengkap",
+ "seerah_label_article": "Artikel lengkap",
  "prophets_mark_read": "Tandai sudah dibaca",
  "prophets_marked_read": "Sudah dibaca",
  "prophets_back": "Kembali",

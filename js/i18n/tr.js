@@ -398,6 +398,7 @@
  "tad_article": "Tam açıklama",
  "sn_title": "Bu isim neden?",
  "sahaba_label_article": "Tam makale",
+ "seerah_label_article": "Tam makale",
  "prophets_mark_read": "Okundu olarak işaretle",
  "prophets_marked_read": "Okundu",
  "prophets_back": "Geri",
