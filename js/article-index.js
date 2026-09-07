@@ -487,7 +487,12 @@ var LQ_ARTICLE_IDS = {
     "9:40",
     "9:51"
   ],
-  "seerah": []
+  "seerah": [
+    "conquest",
+    "farewell",
+    "hudaybiyyah",
+    "passing"
+  ]
 };
 
 if (typeof module !== 'undefined' && module.exports) module.exports = { LQ_ARTICLE_IDS };

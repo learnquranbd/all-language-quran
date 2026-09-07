@@ -1220,7 +1220,19 @@ class SeerahView {
   }
 
   toggle(id) {
-    if (this.expanded.has(id)) this.expanded.delete(id); else this.expanded.add(id);
+    const opening = !this.expanded.has(id);
+    if (opening) this.expanded.add(id); else this.expanded.delete(id);
+    /* cardHtml only emits the article panel for a card that is open, so
+     * unhiding a detail built while the card was closed would reveal a detail
+     * with no article in it. Rebuild the card instead, exactly as toggleRead
+     * does, and the panel appears with it. */
+    const ev = SEERAH_EVENTS.find(x => x.id === id);
+    const card = this.container && this.container.querySelector(`[data-seerah-card="${CSS && CSS.escape ? CSS.escape(id) : id}"]`);
+    if (ev && card) {
+      const wrap = document.createElement('div');
+      wrap.innerHTML = this.cardHtml(ev).trim();
+      if (wrap.firstElementChild) { card.replaceWith(wrap.firstElementChild); return; }
+    }
     const detail = this.container.querySelector(`[data-seerah-detail="${CSS && CSS.escape ? CSS.escape(id) : id}"]`);
     const caret = this.container.querySelector(`[data-seerah-caret="${CSS && CSS.escape ? CSS.escape(id) : id}"]`);
     if (detail) detail.classList.toggle('hidden');
@@ -1267,14 +1279,8 @@ class SeerahView {
       if (this.filter && this.filter !== 'all') { this.filter = 'all'; needsRender = true; }
       if (this.query) { this.query = ''; needsRender = true; }
       if (!this.rendered || needsRender) { this.render(); }
-      this.expanded.add(id);
-      /* render() rebuilds the list, so paint the expansion after it. */
-      const sel = `[data-seerah-card="${CSS && CSS.escape ? CSS.escape(id) : id}"]`;
-      const card = this.container && this.container.querySelector(sel);
-      const detail = this.container && this.container.querySelector(`[data-seerah-detail="${CSS && CSS.escape ? CSS.escape(id) : id}"]`);
-      const caret = this.container && this.container.querySelector(`[data-seerah-caret="${CSS && CSS.escape ? CSS.escape(id) : id}"]`);
-      if (detail) detail.classList.remove('hidden');
-      if (caret) caret.textContent = '▲';
+      if (!this.expanded.has(id)) this.toggle(id);
+      const card = this.container && this.container.querySelector(`[data-seerah-card="${CSS && CSS.escape ? CSS.escape(id) : id}"]`);
       if (card && card.scrollIntoView) card.scrollIntoView({ block: 'center' });
     } catch (_) { /* ignore */ }
   }
