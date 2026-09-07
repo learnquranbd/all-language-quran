@@ -32,6 +32,12 @@ const MUST_LINK = [
   ['see 2:5 and 2:55 together', ['2:5', '2:55'], 'adjacent references, neither swallowed'],
   ['revealed in 24:11-20, declaring', ['24:11-20'], 'range before a comma'],
   ['Ayat al-Kursi (2:255)', ['2:255'], 'parenthesised'],
+  /* Bengali prose writes its references in Bengali digits, and 1,401 of them
+     sit in the shipped modules alone. Until the digit classes were widened,
+     every one was dead text for the readers who need them most. */
+  ['\u09E8:\u09E8\u09EB\u09EB \u0986\u09DF\u09BE\u09A4\u09C7', ['\u09E8:\u09E8\u09EB\u09EB'], 'Bengali-digit reference'],
+  ['\u09E9:\u09E7\u09EC\u09EF-\u098F \u09AC\u09B2\u09BE \u09B9\u09DF\u09C7\u099B\u09C7', ['\u09E9:\u09E7\u09EC\u09EF'], 'Bengali reference with a suffix'],
+  ['\u09E8\u09E7:\u09ED\u09EE-\u09ED\u09EF \u0986\u09DF\u09BE\u09A4\u09C7', ['\u09E8\u09E7:\u09ED\u09EE-\u09ED\u09EF'], 'Bengali-digit range'],
 ];
 
 const MUST_NOT_LINK = [
@@ -39,6 +45,7 @@ const MUST_NOT_LINK = [
   ['a 2.5% rise this year', 'decimal percentage'],
   ['version 1.2:3 of the spec', 'version string'],
   ['ratio 1:1 scale at 3.14:15', 'decimal before a colon'],
+  ['\u09E7\u09E8:\u09E9\u09EA:\u09EB\u09EC \u098F', 'Bengali-digit timestamp'],
 ];
 
 if (!m) {

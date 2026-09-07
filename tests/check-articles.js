@@ -17,7 +17,7 @@
  * of an author — the point here is to catch a truncated or duplicated entry,
  * not to police style.
  */
-const { load, get, badRef, loadTadabburArticles } = require('./lib.js');
+const { load, get, badRef, loadTadabburArticles, refsIn } = require('./lib.js');
 
 const SETS = [
   { key: 'prophets', file: 'js/prophets-articles.js', obj: 'PROPHET_ARTICLES', subjFile: 'js/prophets-data.js', subjArr: 'PROPHETS_DATA', label: 'prophets' },
@@ -27,10 +27,10 @@ const SETS = [
   { key: 'tadabbur', loader: loadTadabburArticles, label: 'tadabbur verses', maxWords: 2000 },
 ];
 
-/* Same lookahead as js/ayah-autolink.js: a ref followed by a Bengali suffix
- * ("2:124-এ") IS linked by the app, so it must be bounds-checked here too.
- * The stricter form skipped 272 such refs across the shipped content. */
-const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?!\d|[.:-]\d)/g;
+/* refsIn reads the pattern out of js/ayah-autolink.js, so whatever the app
+ * makes tappable is exactly what gets bounds-checked here — Bengali-digit
+ * references ("২:২৫৫") and Bengali suffixes ("2:124-এ") included. Three
+ * hand-copied duplicates of this regex had already drifted apart once. */
 const problems = [];
 const counts = [];
 
@@ -64,12 +64,10 @@ for (const set of SETS) {
         if (pw < 55 || pw > 110) problems.push(`${where}: ${pw} English words, outside 55-110`);
         if (/<[a-zA-Z/]/.test(p.en) || /<[a-zA-Z/]/.test(p.bn)) problems.push(`${where}: contains HTML`);
         for (const lang of ['en', 'bn']) {
-          REF.lastIndex = 0;
-          let m;
-          while ((m = REF.exec(String(p[lang]))) !== null) {
+          for (const r of refsIn(p[lang])) {
             refs++;
-            const bad = badRef(`${m[1]}:${m[2]}${m[3] ? '-' + m[3] : ''}`);
-            if (bad) problems.push(`${where}.${lang}: ${bad}`);
+            const bad = badRef(r.ref);
+            if (bad) problems.push(`${where}.${lang}: ${r.raw} — ${bad}`);
           }
         }
       });

@@ -18,7 +18,7 @@
  * That last one matters because a reference copied across languages can drift,
  * and a bad reference renders as dead plain text rather than failing loudly.
  */
-const { fs, path, ROOT, load, get, badRef, TADABBUR_DIR, loadTadabburArticles, writeTadabburShard } = require('../tests/lib.js');
+const { fs, path, ROOT, load, get, badRef, refsIn, TADABBUR_DIR, loadTadabburArticles, writeTadabburShard } = require('../tests/lib.js');
 const vm = require('vm');
 
 const [chunkFile, targetRel, objName, subjRel, subjArr] = process.argv.slice(2);
@@ -46,10 +46,9 @@ const validIds = new Set(Array.isArray(subjects) ? subjects.map((s) => s.id) : O
 if (!validIds.size) { console.error(`${subjArr} in ${subjRel} yielded no subject ids`); process.exit(1); }
 const existing = sharded ? loadTadabburArticles() : (get(load(targetRel), objName) || {});
 const problems = [];
-/* Same lookahead as js/ayah-autolink.js: a ref followed by a Bengali suffix
- * ("2:124-এ") IS linked by the app, so it must be bounds-checked here too.
- * The stricter form skipped 272 such refs across the shipped content. */
-const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?!\d|[.:-]\d)/g;
+/* refsIn reads the pattern straight out of js/ayah-autolink.js, so this gate
+ * bounds-checks exactly the forms the app makes tappable — Bengali digits
+ * ("২:২৫৫") and Bengali suffixes ("2:124-এ") included. */
 
 let words = 0, paras = 0, refs = 0;
 for (const [id, entry] of Object.entries(chunk)) {
@@ -66,12 +65,10 @@ for (const [id, entry] of Object.entries(chunk)) {
       w += String(p.en).split(/\s+/).filter(Boolean).length;
       if (/<[a-zA-Z/]/.test(p.en) || /<[a-zA-Z/]/.test(p.bn)) problems.push(`${id}[${si}][${pi}]: contains HTML`);
       for (const lang of ['en', 'bn']) {
-        REF.lastIndex = 0;
-        let m;
-        while ((m = REF.exec(String(p[lang]))) !== null) {
+        for (const r of refsIn(p[lang])) {
           refs++;
-          const bad = badRef(`${m[1]}:${m[2]}${m[3] ? '-' + m[3] : ''}`);
-          if (bad) problems.push(`${id}[${si}][${pi}].${lang}: ${bad}`);
+          const bad = badRef(r.ref);
+          if (bad) problems.push(`${id}[${si}][${pi}].${lang}: ${r.raw} — ${bad}`);
         }
       }
     }

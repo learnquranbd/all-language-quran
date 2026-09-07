@@ -52,7 +52,32 @@
      and "the word stands in 3:169: do not think them…" were both left as dead
      plain text by the older `(?![\d:.-])`, which rejected any of those
      characters outright. */
-  const REF_RE = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?!\d|[.:-]\d)/g;
+  const REF_RE = /(?<![\d\u09E6-\u09EF\u0660-\u0669\u06F0-\u06F9:.-])([\d\u09E6-\u09EF\u0660-\u0669\u06F0-\u06F9]{1,3}):([\d\u09E6-\u09EF\u0660-\u0669\u06F0-\u06F9]{1,3})(?:-([\d\u09E6-\u09EF\u0660-\u0669\u06F0-\u06F9]{1,3}))?(?![\d\u09E6-\u09EF\u0660-\u0669\u06F0-\u06F9]|[.:-][\d\u09E6-\u09EF\u0660-\u0669\u06F0-\u06F9])/g;
+
+  /* Bengali "২:২৫৫" is the same reference as "2:255" and, until this, was the
+     one form the linker could not see — 5,249 of them sit in shipped Bengali
+     prose, every one dead text for the readers who need them most. The digit
+     classes above also cover Arabic-Indic (٠-٩) and Eastern Arabic-Indic
+     (۰-۹), which the ar/fa/ur content uses. The button keeps the digits the
+     author wrote; only the ref it opens is normalised. */
+  const DIGIT_MAP = (function () {
+    const m = {};
+    for (let i = 0; i < 10; i++) {
+      m[String.fromCharCode(0x09E6 + i)] = String(i);   // Bengali
+      m[String.fromCharCode(0x0660 + i)] = String(i);   // Arabic-Indic
+      m[String.fromCharCode(0x06F0 + i)] = String(i);   // Eastern Arabic-Indic
+    }
+    return m;
+  })();
+
+  /** "২৫৫" -> 255. Latin digits pass through untouched. */
+  function num(s) {
+    if (s == null) return null;
+    let out = '';
+    for (const ch of String(s)) out += (DIGIT_MAP[ch] != null ? DIGIT_MAP[ch] : ch);
+    const n = parseInt(out, 10);
+    return isFinite(n) ? n : null;
+  }
 
   /** Populated from the app's own surah table; without it we do nothing. */
   let ayahCounts = null;
@@ -114,7 +139,8 @@
     const frag = document.createDocumentFragment();
     let last = 0, made = 0, m;
     while ((m = REF_RE.exec(text)) !== null) {
-      const s = +m[1], a = +m[2], b = m[3] != null ? +m[3] : null;
+      const s = num(m[1]), a = num(m[2]), b = m[3] != null ? num(m[3]) : null;
+      if (s == null || a == null) continue;
       if (!isRealRef(s, a, b)) continue;
       if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
 
@@ -182,8 +208,40 @@
   const ready = (fn) => (window.LQ && LQ.ready ? LQ.ready(fn)
     : (document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', fn, { once: true }) : fn()));
 
+  /* Those three events cover a tab render, but not content a module paints in
+     response to a click INSIDE itself — a surah-name detail, an expanded
+     timeline card, an article panel that just arrived. Those never fired a
+     sweep, so their references stayed dead however long the reader looked at
+     them. Watch for added nodes instead and sweep only what arrived.
+
+     This cannot run away: the buttons it creates are excluded by CLICKABLE and
+     the text left beside them no longer holds a reference, so the pass this
+     triggers on its own output finds nothing and stops. */
+  let queue = new Set(), flushing = null;
+  function flush() {
+    flushing = null;
+    const nodes = queue; queue = new Set();
+    for (const n of nodes) { if (n.isConnected) sweep(n); }
+  }
+  function observe() {
+    if (typeof MutationObserver !== 'function') return;
+    new MutationObserver((records) => {
+      for (const r of records) {
+        for (const n of r.addedNodes) {
+          const host = n.nodeType === 1 ? n : (n.nodeType === 3 ? n.parentElement : null);
+          if (!host || !host.closest) continue;
+          const pane = host.closest(PANE_SELECTOR);
+          if (!pane) continue;
+          queue.add(host === pane ? pane : host);
+        }
+      }
+      if (queue.size && !flushing) flushing = setTimeout(flush, 300);
+    }).observe(document.body, { childList: true, subtree: true });
+  }
+
   ready(function () {
     schedule();
+    observe();
     window.addEventListener('tabChanged', schedule);
     window.addEventListener('lqModuleLoaded', schedule);
     window.addEventListener('settingChanged', (e) => {

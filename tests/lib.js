@@ -157,4 +157,51 @@ function writeTadabburShard(surah, entries) {
   fs.writeFileSync(path.join(ROOT, TADABBUR_DIR, surah + '.js'), src);
 }
 
-module.exports = { ROOT, fs, path, vm, load, get, constNames, dataFiles, AYAH_COUNTS, badRef, stripComments, makeSandbox, TADABBUR_DIR, tadabburShardFiles, loadTadabburArticles, writeTadabburShard };
+
+/* The reference pattern the gates use is READ OUT OF the shipped autolinker
+ * rather than copied, because three copies had already drifted once. If
+ * js/ayah-autolink.js links a form, the gates must bounds-check that same
+ * form — otherwise a reference the app makes tappable never gets validated. */
+let _refRe = null;
+function refRegex() {
+  if (!_refRe) {
+    const src = fs.readFileSync(path.join(ROOT, 'js/ayah-autolink.js'), 'utf8');
+    const m = src.match(/const REF_RE = (\/.+\/[gimsuy]*);/);
+    if (!m) throw new Error('REF_RE not found in js/ayah-autolink.js');
+    _refRe = m[1];
+  }
+  return new RegExp(_refRe.slice(1, _refRe.lastIndexOf('/')), 'g');
+}
+
+/* Bengali/Arabic-Indic digits to a number, matching the autolinker's num(). */
+const _DIGITS = (function () {
+  const m = {};
+  for (let i = 0; i < 10; i++) {
+    m[String.fromCharCode(0x09E6 + i)] = String(i);
+    m[String.fromCharCode(0x0660 + i)] = String(i);
+    m[String.fromCharCode(0x06F0 + i)] = String(i);
+  }
+  return m;
+})();
+function refNum(s) {
+  if (s == null) return null;
+  let out = '';
+  for (const ch of String(s)) out += (_DIGITS[ch] != null ? _DIGITS[ch] : ch);
+  const n = parseInt(out, 10);
+  return isFinite(n) ? n : null;
+}
+
+/** Every reference in `text`, normalised to "s:a" / "s:a-b" ASCII form. */
+function refsIn(text) {
+  const re = refRegex();
+  const out = [];
+  let m;
+  while ((m = re.exec(String(text == null ? '' : text))) !== null) {
+    const s = refNum(m[1]), a = refNum(m[2]), b = m[3] != null ? refNum(m[3]) : null;
+    if (s == null || a == null) continue;
+    out.push({ raw: m[0], ref: `${s}:${a}${b != null ? '-' + b : ''}` });
+  }
+  return out;
+}
+
+module.exports = { ROOT, fs, path, vm, load, get, constNames, dataFiles, AYAH_COUNTS, badRef, stripComments, makeSandbox, TADABBUR_DIR, tadabburShardFiles, loadTadabburArticles, writeTadabburShard, refRegex, refNum, refsIn };

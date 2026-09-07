@@ -102,6 +102,16 @@ Verse references and counts inside Bengali prose take Bengali digits: `৩৯:�
 `২৯৯টি`. Hadith collection numbers inside a `src` field stay Latin, because that
 field is shared with every other language.
 
+Bengali-digit references ARE tappable: `js/ayah-autolink.js` matches Bengali
+(and Arabic-Indic) digits and normalises them before opening the verse, so
+`৩৯:৫৩` links exactly as `39:53` does. It did not until v264, which is why some
+shipped Bengali prose writes references in Latin digits — that form still works
+and does not need rewriting, but new Bengali prose should use Bengali digits.
+
+The one rule that has not changed: never follow a reference with a hyphen and a
+digit. `২:১২৪-এ` links (the suffix is a letter); `২:১২৪-৫` would be read as the
+range 2:124-5.
+
 ## 9. Bilingual parity is about content, not shape
 
 The Bengali must make the same claim as the English — same verse, same count,

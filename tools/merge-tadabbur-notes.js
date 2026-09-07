@@ -15,7 +15,7 @@
  * points, and every verse reference inside the prose is in bounds. Articles
  * come AFTER this (tools/merge-articles.js needs the card to exist).
  */
-const { fs, path, ROOT, load, get, badRef } = require('../tests/lib.js');
+const { fs, path, ROOT, load, get, badRef, refsIn } = require('../tests/lib.js');
 const vm = require('vm');
 
 const [chunkFile] = process.argv.slice(2);
@@ -33,18 +33,15 @@ const notes = get(load(NOTES_FILE), 'TADABBUR_NOTES') || {};
 const poolSb = load(POOL_FILE);
 const pool = get(poolSb, 'PONDER_REFS') || [];
 const themes = get(poolSb, 'PONDER_THEMES') || {};
-/* Same lookahead as js/ayah-autolink.js: a ref followed by a Bengali suffix
- * ("2:124-এ") IS linked by the app, so it must be bounds-checked here too.
- * The stricter form skipped 272 such refs across the shipped content. */
-const REF = /(?<![\d:.-])(\d{1,3}):(\d{1,3})(?:-(\d{1,3}))?(?!\d|[.:-]\d)/g;
 const problems = [];
 const wc = (s) => String(s || '').split(/\s+/).filter(Boolean).length;
 
+/* refsIn reads the pattern out of js/ayah-autolink.js, so the gate checks
+ * exactly what the app links — Bengali-digit refs included. */
 function checkRefs(where, text) {
-  REF.lastIndex = 0; let m;
-  while ((m = REF.exec(String(text))) !== null) {
-    const bad = badRef(`${m[1]}:${m[2]}${m[3] ? '-' + m[3] : ''}`);
-    if (bad) problems.push(`${where}: ${bad}`);
+  for (const r of refsIn(text)) {
+    const bad = badRef(r.ref);
+    if (bad) problems.push(`${where}: ${r.raw} — ${bad}`);
   }
 }
 
