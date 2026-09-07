@@ -44,6 +44,51 @@ dashes:
 node -e "const vm=require('vm'),fs=require('fs');const ctx={};vm.createContext(ctx);const o=vm.runInContext('({'+fs.readFileSync('tools/wip/<batch>-articles.js','utf8')+'})',ctx);for(const [id,e] of Object.entries(o)){let w=0,d=0,bad=[];e.sections.forEach(s=>s.p.forEach(p=>{const n=p.en.split(/\s+/).length;w+=n;if(n<55||n>110)bad.push(n);if((p.bn.match(/—/g)||[]).length>1)d++;}));console.log(id,w,'words | sections:',e.sections.length,'| out-of-band:',bad.length,'| bn>1dash:',d)}"
 ```
 
+## What the audit of the first twenty articles actually caught
+
+Every one of these got past a drafter who believed the article was clean, and
+each was confirmed by an independent check. They are the failure modes of this
+task, not general advice — read them as a checklist against your own draft.
+
+1. **A quotation that was never transmitted.** One draft had Abu Lahab say "may
+   your hands perish", which is the surah's wording, not his; the narration has
+   no "hands", and the invented quote destroyed the paragraph's own point about
+   the Quran answering him in his own words. If you put words in quotation
+   marks, they must be the wording of the collection you cite. If you are
+   paraphrasing, do not use the shape of a quotation.
+2. **A hadith number you cannot check.** The repo carries no hadith corpus, so
+   a number is either one you can corroborate against something shipped here
+   (grep js/sahaba-articles.js and the other article files — many carry numbers
+   already) or one you must omit. Collection plus narrator with no number is
+   always acceptable. Never write a grading.
+3. **Claims about a collection's structure.** "The first hadith in Bukhari",
+   "the chapter named for this verse" — these are checkable assertions and one
+   draft got one wrong. Say what you can support and no more.
+4. **English and Bengali asserting different things.** One draft called Ali (RA)
+   "a cousin's son" in English while the Bengali correctly said "an uncle's son"
+   — two different genealogies in one sentence. Another attributed an
+   identification to "the commentators" in English and to "the narrations" in
+   Bengali. Read every pair back to back and check they claim the same thing at
+   the same strength.
+5. **Speech assigned to the wrong speaker.** One draft gave the Prophet's ﷺ own
+   words at the digging of the trench to the Companions as their chant. When a
+   narration is an exchange, be certain who says which half.
+6. **The wrong Companion.** Usamah ibn Zayd (RA) rode behind the Prophet ﷺ from
+   Arafah; al-Fadl ibn al-Abbas (RA) rode the Muzdalifah leg. Check the person,
+   not just the event.
+7. **Adjacency and ordering claims.** "The next entry in this timeline" was
+   false — four cards sat between the two. Do not describe where a card sits
+   relative to another unless you have listed them.
+8. **Dates that contradict the app's own cards.** One draft put Hudaybiyyah two
+   years after the Trench; the cards say one. Every date you give is checkable
+   against js/seerah-data.js — check it.
+9. **Missing honorifics in Bengali only.** English uses a pronoun where Bengali
+   must repeat the noun, so Bengali forces a choice English never made. Every
+   নবী in Bengali narrative prose takes ﷺ.
+10. **Fixing one site and not its twin.** Where a fact appears twice in an
+    article, correcting one occurrence and leaving the other creates a
+    self-contradiction that reads worse than the original error.
+
 ## Final report must contain
 - Both validation outputs, verbatim.
 - Per event: word count, section count, the verses cited, the hadith cited

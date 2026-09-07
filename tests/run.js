@@ -27,6 +27,7 @@ const CHECKS = [
   'check-hope-index.js',
   'check-sahaba-index.js',
   'check-seerah-index.js',
+  'check-bn-digits.js',
   'check-bangla-style.js',
   'check-modules.js',
 ];
