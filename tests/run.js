@@ -26,6 +26,7 @@ const CHECKS = [
   'check-encoding.js',
   'check-hope-index.js',
   'check-sahaba-index.js',
+  'check-seerah-index.js',
   'check-bangla-style.js',
   'check-modules.js',
 ];

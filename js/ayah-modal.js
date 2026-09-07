@@ -127,6 +127,9 @@ class AyahModal {
       const tp = e.target.closest('[data-topic-open]');
       if (tp) { this.openTopic(tp.getAttribute('data-topic-open')); return; }
 
+      const se = e.target.closest('[data-seerah-open]');
+      if (se) { this.openSeerahEvent(se.getAttribute('data-seerah-open')); return; }
+
       const tn = e.target.closest('[data-tadabbur-note]');
       if (tn) { this.toggleTadabbur(tn.getAttribute('data-tadabbur-note')); return; }
       const shv = e.target.closest('[data-share-verse]');
@@ -492,6 +495,18 @@ class AyahModal {
   async _renderContext(key) {
     const box = this.overlay && this.overlay.querySelector('#sam-context');
     if (!box) return;
+    /* 48 verses are named by a Seerah event. The connection lived only inside
+     * the Seerah tab, whose data file is 355 KB and lazily loaded, so the
+     * modal reads a small generated index instead. */
+    let seerah = [];
+    try { seerah = (window.LQ_SEERAH_AYAH && window.LQ_SEERAH_AYAH[key]) || []; } catch (e) { seerah = []; }
+    const bnLang = ((typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en') === 'bn';
+    const seerahChips = seerah.length ? `
+      <div class="flex flex-wrap items-center gap-1.5">
+        <span class="text-xs text-gray-400 dark:text-gray-500">${this.esc(this._seerahLabel())}</span>
+        ${seerah.map(ev => `<button data-seerah-open="${this.esc(ev.id)}"
+            class="px-2.5 py-1 rounded-full text-xs border border-emerald-300 dark:border-emerald-600/60 text-emerald-700 dark:text-emerald-300 hover:bg-emerald-50 dark:hover:bg-emerald-500/10">🌙 ${this.esc((bnLang && ev.bn) || ev.en)}${ev.year ? ` · ${this.esc(ev.year)}` : ''}</button>`).join('')}
+      </div>` : '';
     const topics = this.topicsFor(key);
     const chips = topics.length ? `
       <div class="flex flex-wrap items-center gap-1.5">
@@ -499,7 +514,7 @@ class AyahModal {
         ${topics.map(g => `<button data-topic-open="${this.esc(g.id)}"
             class="px-2.5 py-1 rounded-full text-xs border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700">${g.emoji || ''} ${this.esc(this._topicName(g))}</button>`).join('')}
       </div>` : '';
-    box.innerHTML = chips;
+    box.innerHTML = seerahChips + chips;
 
     let entry = null;
     try { entry = (await this._asbabIndex())[key] || null; } catch (e) { entry = null; }
@@ -575,6 +590,28 @@ class AyahModal {
       this.close();
       ayahTimeline.open({ title: `${g.emoji || ''} ${this._topicName(g)}`.trim(), refs: g.refs.slice() });
     } catch (e) { /* optional enrichment */ }
+  }
+
+  /* Every pack writes the Seerah tab's title as "Seerah — Life of the Prophet"
+   * or its translation. As a one-word row prefix beside the chips, only the
+   * name is wanted; packs without the dash keep the whole title. */
+  _seerahLabel() {
+    const full = String(this.tt('seerah_title') || '');
+    const cut = full.split(/[—–:]/)[0].trim();
+    return cut || full;
+  }
+
+  /** A Seerah chip leaves the modal for the timeline, expanded on that event.
+   *  The Seerah bundle is lazy, so load it before asking it to open. */
+  openSeerahEvent(id) {
+    if (!id) return;
+    this.close();
+    try { if (typeof tabSystem !== 'undefined' && tabSystem) tabSystem.switchTab('seerah'); } catch (e) { /* ignore */ }
+    const go = () => { try { if (window.seerahView && window.seerahView.openEvent) window.seerahView.openEvent(id); } catch (e) { /* ignore */ } };
+    try {
+      if (window.LQ && LQ.Modules && LQ.Modules.load) { LQ.Modules.load('seerah').then(() => setTimeout(go, 350)).catch(() => {}); return; }
+    } catch (e) { /* fall through */ }
+    setTimeout(go, 700);
   }
 
   /** Which tadabbur note (single ref or range key) covers this ayah? */

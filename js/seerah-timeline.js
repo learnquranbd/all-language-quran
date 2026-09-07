@@ -842,6 +842,12 @@ class SeerahView {
     })}</div>`;
   }
 
+  /** Does this event have a long-form article? Answered from the generated
+   *  index, so the list can badge without fetching a single article. */
+  hasArticle(ev) {
+    return typeof LQArticle !== 'undefined' && !!LQArticle && LQArticle.has('seerah', ev.id);
+  }
+
   cardHtml(ev) {
     const isRead = this.read.has(ev.id);
     const isOpen = this.expanded.has(ev.id);
@@ -856,6 +862,12 @@ class SeerahView {
     const battleBadge = battle
       ? `<span class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-red-500/10 text-red-500 text-[0.7rem] font-semibold whitespace-nowrap">${SEERAH_BATTLE_ICON}${this.esc(this.tt('seerah_bt_label'))}</span>`
       : '';
+    /* Only some events carry a long-form article, and the panel only appears
+     * once a card is expanded — without this the reader has no way to tell
+     * which cards reward opening. */
+    const articleBadge = this.hasArticle(ev)
+      ? `<span title="${this.esc(this.tt('seerah_label_article'))}" class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.7rem] font-semibold whitespace-nowrap">📜 ${this.esc(this.tt('seerah_label_article'))}</span>`
+      : '';
     return `
       <article data-seerah-card="${this.esc(ev.id)}"
         class="relative rounded-xl bg-white dark:bg-gray-800 border ${isRead ? 'border-green-300 dark:border-green-800' : 'border-gray-200 dark:border-gray-700'} shadow-sm">
@@ -866,6 +878,7 @@ class SeerahView {
             <span class="px-2 py-0.5 rounded-md bg-primary/10 text-primary text-[0.7rem] font-semibold whitespace-nowrap">${this.esc(year)}</span>
             <span class="px-2 py-0.5 rounded-md bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-300 text-[0.7rem] whitespace-nowrap">📍 ${this.esc(this.pick(ev, 'place'))}</span>
             ${battleBadge}
+            ${articleBadge}
             ${isRead ? '<span class="text-green-500 text-xs">✓</span>' : ''}
           </span>
           <span class="flex items-start gap-2">
@@ -1244,6 +1257,28 @@ class SeerahView {
     this.render();
   }
 
+  /** Open one event from outside the module (the verse modal links here).
+   *  Clears any filter or search that would hide the card, expands it and
+   *  brings it into view. */
+  openEvent(id) {
+    try {
+      if (!SEERAH_EVENTS.some(e => e.id === id)) return;
+      let needsRender = false;
+      if (this.filter && this.filter !== 'all') { this.filter = 'all'; needsRender = true; }
+      if (this.query) { this.query = ''; needsRender = true; }
+      if (!this.rendered || needsRender) { this.render(); }
+      this.expanded.add(id);
+      /* render() rebuilds the list, so paint the expansion after it. */
+      const sel = `[data-seerah-card="${CSS && CSS.escape ? CSS.escape(id) : id}"]`;
+      const card = this.container && this.container.querySelector(sel);
+      const detail = this.container && this.container.querySelector(`[data-seerah-detail="${CSS && CSS.escape ? CSS.escape(id) : id}"]`);
+      const caret = this.container && this.container.querySelector(`[data-seerah-caret="${CSS && CSS.escape ? CSS.escape(id) : id}"]`);
+      if (detail) detail.classList.remove('hidden');
+      if (caret) caret.textContent = '▲';
+      if (card && card.scrollIntoView) card.scrollIntoView({ block: 'center' });
+    } catch (_) { /* ignore */ }
+  }
+
   openAyah(ref) {
     try {
       if (typeof ayahModal !== 'undefined' && ayahModal && typeof ayahModal.open === 'function') {
@@ -1254,4 +1289,11 @@ class SeerahView {
 }
 
 let seerahView;
-(window.LQ && LQ.ready ? LQ.ready : function(f){document.addEventListener("DOMContentLoaded",f);})(() => { try { seerahView = new SeerahView(); } catch (_) { /* ignore */ } });
+(window.LQ && LQ.ready ? LQ.ready : function(f){document.addEventListener("DOMContentLoaded",f);})(() => {
+  try {
+    seerahView = new SeerahView();
+    /* `let` is a lexical binding, not a window property; the verse modal
+     * reaches this instance by name, so publish it explicitly. */
+    window.seerahView = seerahView;
+  } catch (_) { /* ignore */ }
+});
