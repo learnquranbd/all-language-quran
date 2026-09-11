@@ -1,78 +1,149 @@
 #!/usr/bin/env node
 /**
- * Generate js/seerah-ayah-index.js from SEERAH_EVENTS.
+ * Generate js/seerah-ayah-index.js — the verse-to-Seerah bridge the verse modal
+ * reads.
  *
  *   node tools/build-seerah-ayah-index.js
  *
- * Forty-nine Seerah events name a verse. A reader who opens that verse
- * anywhere in the app has no way to learn that it belongs to a moment in the
- * Prophet's life ﷺ — the connection only exists inside the Seerah tab, whose
- * data file is 355 KB and lazily loaded. This writes the small index the verse
- * modal needs instead: verse reference -> the events that cite it, with the
- * title in both languages.
+ * Two things put a verse in this table:
  *
- * Run it whenever js/seerah-data.js changes; tests/check-seerah-index.js fails
- * if the generated file has drifted.
+ *   an ANCHOR — the verse named in the event's own card (`ayah`). 48 of the 86
+ *     events carry one. This is the strong link: the event IS about that verse.
+ *   a MENTION — a verse the event's long-form article cites in its prose. Once
+ *     sixty articles shipped, that became ~390 more verses whose connection to
+ *     the Prophet's life ﷺ existed in the app and could not be reached from the
+ *     verse. A reader opening 2:185 should learn that the article on Hira
+ *     discusses it.
+ *
+ * Shape, chosen to keep the eagerly-loaded file small: event titles are stored
+ * once in `t` and referenced by id from `v`, rather than repeated at every
+ * verse. Repeating them cost ~35 KB; this costs ~8 KB for four times the
+ * coverage.
+ *
+ *   LQ_SEERAH_AYAH = {
+ *     t: { hira: { en, bn, y } },            // titles, once per event
+ *     v: { "96:1": ["hira"] },               // anchors first, then mentions
+ *     a: { "96:1": 1 },                      // how many of v[ref] are anchors
+ *   }
+ *
+ * Capped at MAX_PER_REF events per verse so a much-cited verse cannot fill the
+ * modal; anchors are never dropped. Run it whenever js/seerah-data.js or
+ * js/seerah-articles.js changes — tests/check-seerah-index.js fails on drift.
  */
-const { fs, path, ROOT, load, get, badRef } = require('../tests/lib.js');
+const { fs, path, ROOT, load, get, badRef, refsIn } = require('../tests/lib.js');
 
 const OUT = 'js/seerah-ayah-index.js';
+const MAX_PER_REF = 3;
+
+/** Every single verse a "s:a" or "s:a-b" reference covers. */
+function expand(ref) {
+  const m = /^(\d+):(\d+)(?:-(\d+))?$/.exec(String(ref || '').trim());
+  if (!m) return [];
+  const out = [];
+  const last = m[3] ? +m[3] : +m[2];
+  for (let a = +m[2]; a <= last; a++) out.push(`${m[1]}:${a}`);
+  return out;
+}
 
 function build() {
   const events = get(load('js/seerah-data.js'), 'SEERAH_EVENTS');
   if (!Array.isArray(events) || !events.length) throw new Error('SEERAH_EVENTS not found');
+  const articles = get(load('js/seerah-articles.js'), 'SEERAH_ARTICLES') || {};
 
-  const index = {};
   const problems = [];
+  const anchors = {};    // ref -> [id]
+  const mentions = {};   // ref -> [id]
+  const byId = {};
+  for (const ev of events) byId[ev.id] = ev;
+
   for (const ev of events) {
     const ref = String(ev.ayah || '').trim();
     if (!ref) continue;
     const bad = badRef(ref);
     if (bad) { problems.push(`${ev.id}: ayah ${ref} — ${bad}`); continue; }
-    /* A range key ("2:1-5") is stored under every verse it covers, so a reader
-     * who opens 2:3 still finds the event. */
-    const m = /^(\d+):(\d+)(?:-(\d+))?$/.exec(ref);
-    const last = m[3] ? +m[3] : +m[2];
-    for (let a = +m[2]; a <= last; a++) {
-      const key = `${m[1]}:${a}`;
-      (index[key] = index[key] || []).push({
-        id: ev.id,
-        en: ev.titleEn || ev.id,
-        bn: ev.titleBn || ev.titleEn || ev.id,
-        year: ev.yearCE || '',
-      });
+    for (const k of expand(ref)) (anchors[k] = anchors[k] || []).push(ev.id);
+  }
+
+  for (const [id, entry] of Object.entries(articles)) {
+    if (!byId[id]) { problems.push(`${id}: article has no matching event`); continue; }
+    /* One event contributes a verse once, however many times it cites it. */
+    const seen = new Set();
+    for (const sec of (entry.sections || [])) {
+      for (const p of (sec.p || [])) {
+        for (const lang of ['en', 'bn']) {
+          for (const r of refsIn(p[lang])) {
+            if (badRef(r.ref)) continue;
+            for (const k of expand(r.ref)) {
+              if (seen.has(k)) continue;
+              seen.add(k);
+              if ((anchors[k] || []).indexOf(id) !== -1) continue;   // already the anchor
+              (mentions[k] = mentions[k] || []).push(id);
+            }
+          }
+        }
+      }
     }
   }
-  return { index, problems, events: events.length };
+
+  const v = {}, a = {}, t = {};
+  for (const k of new Set(Object.keys(anchors).concat(Object.keys(mentions)))) {
+    const anc = anchors[k] || [];
+    const men = (mentions[k] || []).filter((id) => anc.indexOf(id) === -1);
+    const list = anc.concat(men).slice(0, Math.max(anc.length, MAX_PER_REF));
+    if (!list.length) continue;
+    v[k] = list;
+    if (anc.length) a[k] = anc.length;
+    for (const id of list) {
+      if (t[id]) continue;
+      const ev = byId[id];
+      t[id] = { en: ev.titleEn || id, bn: ev.titleBn || ev.titleEn || id, y: ev.yearCE || '' };
+    }
+  }
+  return { t, v, a, problems, events: events.length, articles: Object.keys(articles).length };
 }
 
-function render(index) {
-  const keys = Object.keys(index).sort((a, b) => {
-    const [sa, aa] = a.split(':').map(Number), [sb, ab] = b.split(':').map(Number);
+function render({ t, v, a }) {
+  const order = (x, y) => {
+    const [sa, aa] = x.split(':').map(Number), [sb, ab] = y.split(':').map(Number);
     return sa - sb || aa - ab;
-  });
-  const body = keys.map((k) => `  ${JSON.stringify(k)}: ${JSON.stringify(index[k])}`).join(',\n');
+  };
+  const titles = Object.keys(t).sort().map((id) => `  ${JSON.stringify(id)}: ${JSON.stringify(t[id])}`).join(',\n');
+  const verses = Object.keys(v).sort(order).map((k) => `  ${JSON.stringify(k)}: ${JSON.stringify(v[k])}`).join(',\n');
+  const anch = Object.keys(a).sort(order).map((k) => `${JSON.stringify(k)}: ${a[k]}`).join(', ');
   return `/**
  * GENERATED by tools/build-seerah-ayah-index.js — do not edit by hand.
  *
- * Verse reference -> the Seerah events that cite it. Lets the verse modal
- * offer "in the Seerah" without pulling in the 355 KB timeline data file.
+ * Verse reference -> the Seerah events that name it on their card (anchors,
+ * listed first) or cite it in their long-form article (mentions). Lets the
+ * verse modal offer "in the Seerah" without pulling in the 355 KB timeline
+ * data file or the 1 MB of articles.
+ *
+ * \`t\` holds each event's title once; \`v\` references it by id; \`a\` says how
+ * many of a verse's entries are anchors rather than mentions.
  *
  * \`var\` matters: a top-level const is a lexical binding, not a window
  * property, and this table is read as window.LQ_SEERAH_AYAH.
  */
 var LQ_SEERAH_AYAH = window.LQ_SEERAH_AYAH = {
-${body}
+ t: {
+${titles}
+ },
+ v: {
+${verses}
+ },
+ a: { ${anch} },
 };
 `;
 }
 
 if (require.main === module) {
-  const { index, problems, events } = build();
-  if (problems.length) { problems.forEach((p) => console.log('  !! ' + p)); process.exit(1); }
-  fs.writeFileSync(path.join(ROOT, OUT), render(index));
-  const refs = Object.keys(index).length;
-  console.log(`wrote ${OUT}: ${refs} verse refs from ${events} events`);
+  const built = build();
+  if (built.problems.length) { built.problems.forEach((p) => console.log('  !! ' + p)); process.exit(1); }
+  fs.writeFileSync(path.join(ROOT, OUT), render(built));
+  const anchored = Object.keys(built.a).length;
+  const total = Object.keys(built.v).length;
+  console.log(`wrote ${OUT}: ${total} verse refs (${anchored} anchored by a card, ${total - anchored} cited only in an article)`
+    + ` from ${built.events} events and ${built.articles} articles`);
 }
 
-module.exports = { build, render, OUT };
+module.exports = { build, render, OUT, MAX_PER_REF };

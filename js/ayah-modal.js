@@ -499,13 +499,20 @@ class AyahModal {
      * the Seerah tab, whose data file is 355 KB and lazily loaded, so the
      * modal reads a small generated index instead. */
     let seerah = [];
-    try { seerah = (window.LQ_SEERAH_AYAH && window.LQ_SEERAH_AYAH[key]) || []; } catch (e) { seerah = []; }
+    try {
+      const ix = window.LQ_SEERAH_AYAH;
+      const ids = (ix && ix.v && ix.v[key]) || [];
+      /* Entries are ordered anchors first — an anchor is the verse the event's
+       * own card names, a mention is one its article discusses. */
+      const anchors = (ix && ix.a && ix.a[key]) || 0;
+      seerah = ids.map((id, i) => Object.assign({ id, anchor: i < anchors }, (ix.t && ix.t[id]) || {}));
+    } catch (e) { seerah = []; }
     const bnLang = ((typeof appSettings !== 'undefined' && appSettings) ? appSettings.get('language') : 'en') === 'bn';
     const seerahChips = seerah.length ? `
       <div class="flex flex-wrap items-center gap-1.5">
         <span class="text-xs text-gray-400 dark:text-gray-500">${this.esc(this._seerahLabel())}</span>
-        ${seerah.map(ev => `<button data-seerah-open="${this.esc(ev.id)}"
-            class="px-2.5 py-1 rounded-full text-xs border border-emerald-300 dark:border-emerald-600/60 text-emerald-700 dark:text-emerald-300 hover:bg-emerald-50 dark:hover:bg-emerald-500/10">🌙 ${this.esc((bnLang && ev.bn) || ev.en)}${ev.year ? ` · ${this.esc(ev.year)}` : ''}</button>`).join('')}
+        ${seerah.map(ev => `<button data-seerah-open="${this.esc(ev.id)}" title="${this.esc(this._seerahLabel())}"
+            class="px-2.5 py-1 rounded-full text-xs border ${ev.anchor ? 'border-emerald-300 dark:border-emerald-600/60 text-emerald-700 dark:text-emerald-300 hover:bg-emerald-50' : 'border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100'} dark:hover:bg-emerald-500/10">🌙 ${this.esc((bnLang && ev.bn) || ev.en || ev.id)}${ev.y ? ` · ${this.esc(ev.y)}` : ''}</button>`).join('')}
       </div>` : '';
     const topics = this.topicsFor(key);
     const chips = topics.length ? `
