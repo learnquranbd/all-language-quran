@@ -2191,6 +2191,426 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:106-107": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Warning Leads",
+          "bn": "সতর্কবাণী যেখানে গিয়ে থামে"
+        },
+        "p": [
+          {
+            "en": "Surah Al Imran is Madinan, and from 3:100 onward a run of verses speaks to the believers directly. 3:100 warns that obeying a party of those given the Scripture would turn them back into disbelievers after their belief. 3:102-103 command taqwa and holding together to the rope of Allah. 3:104 asks for a community that calls to good. 3:105 forbids being like those who divided and differed after clear proofs had come to them, and ends: those will have a great punishment. Our passage begins with the very next word, yawma, on the Day.",
+            "bn": "সূরা আলে ইমরান মাদানি সূরা। ৩:১০০ আয়াত থেকে একটানা কয়েকটি আয়াত সরাসরি মুমিনদের সঙ্গে কথা বলে। ৩:১০০ আয়াত সতর্ক করে, কিতাবপ্রাপ্তদের একটি দলের কথা মানলে তারা ঈমানের পর আবার কুফরিতে ফিরিয়ে নেবে। ৩:১০২-১০৩ আয়াত তাকওয়ার আর সবাই মিলে আল্লাহর রজ্জু আঁকড়ে ধরার হুকুম দেয়। ৩:১০৪ আয়াত চায় এমন একটি দল, যারা কল্যাণের দিকে ডাকবে। ৩:১০৫ আয়াত নিষেধ করে তাদের মতো হতে, যারা স্পষ্ট প্রমাণ আসার পরও বিভক্ত হয়েছে ও মতভেদ করেছে, আর শেষ হয় এই কথায়: তাদের জন্য আছে মহাশাস্তি। ঠিক পরের শব্দ দিয়েই আমাদের আয়াতের শুরু: ইয়াওমা, সেদিন।"
+          },
+          {
+            "en": "The passage does not repeat its call to unity here. It shows the end of both roads. The opening word can be read as naming when the great punishment of 3:105 falls, so the warning and the Day run on as one thought across the verse break. After our two verses, 3:108 says these are the verses of Allah, recited in truth, and that Allah wants no injustice for anyone, and 3:109 that all matters return to Him. No particular occasion of revelation is established for these two verses; their meaning comes from where they stand.",
+            "bn": "ঐক্যের ডাক এখানে আর নতুন করে দেওয়া হয়নি। আয়াত দেখায় দুই পথের শেষ মাথা। শুরুর শব্দটিকে এভাবে পড়া যায় যে, ৩:১০৫ আয়াতের সেই মহাশাস্তি কখন আসবে, সেটাই এখানে বলা হচ্ছে। তাহলে সতর্কবাণী আর সেই দিন আয়াতের সীমা পেরিয়ে একটাই কথা হয়ে যায়। আমাদের দুই আয়াতের পর ৩:১০৮ আয়াত বলে, এগুলো আল্লাহর আয়াত, সত্যসহ পড়ে শোনানো, আর আল্লাহ কারও প্রতি যুলম চান না। ৩:১০৯ আয়াত বলে, সব বিষয় তাঁর দিকেই ফিরে যায়। এই দুই আয়াতের নাজিলের কোনো নির্দিষ্ট প্রেক্ষাপট প্রমাণিত নয়। এদের অর্থ বোঝা যায় এদের অবস্থান থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faces That Change Colour",
+          "bn": "যে মুখের রং বদলায়"
+        },
+        "p": [
+          {
+            "en": "Tabyaddu and taswaddu come from ibyadda and iswadda, a verb pattern Arabic keeps for colours and visible marks, and both describe a change: faces will become white, faces will become black. Wujuh, faces, has no definite article, so it means some faces and other faces. The face is where a person is recognised, and where joy and shame show before any word is spoken. On that Day what was hidden in the heart is written on the most visible part of a person.",
+            "bn": "তাবইয়াদ্দু আর তাসওয়াদ্দু এসেছে ইবইয়াদ্দা আর ইসওয়াদ্দা থেকে। আরবিতে ক্রিয়ার এই গড়ন রাখা হয় রং আর চোখে পড়া চিহ্নের জন্য, আর দুটোই বদলে যাওয়ার কথা বলে: কিছু মুখ সাদা হয়ে যাবে, কিছু মুখ কালো হয়ে যাবে। উজূহ, মুখগুলো, শব্দটি নির্দিষ্ট করা হয়নি, তাই অর্থ দাঁড়ায় কিছু মুখ আর অন্য কিছু মুখ। মুখ দেখেই মানুষকে চেনা যায়। কোনো কথা বলার আগেই আনন্দ আর লজ্জা ফুটে ওঠে মুখে। সেদিন অন্তরে যা লুকানো ছিল, তা লেখা হয়ে যাবে মানুষের সবচেয়ে খোলা জায়গায়।"
+          },
+          {
+            "en": "The order is worth noticing. 3:106 names the whitening first, then turns to the blackened faces first, and 3:107 closes with the whitened faces in mercy, so the passage opens and ends on light. The blackened faces are met with a question, akafartum ba'da imanikum, did you disbelieve after your belief? The same words, ba'da imanikum, after your belief, appeared six verses earlier in 3:100, where the believers were warned that they could be turned back into disbelief. The warning of 3:100 becomes the question of 3:106.",
+            "bn": "ক্রমটা খেয়াল করার মতো। ৩:১০৬ আয়াত প্রথমে বলে সাদা হওয়ার কথা, তারপর বিস্তারিত বলার সময় আগে ধরে কালো মুখগুলোকে। আর ৩:১০৭ আয়াত শেষ হয় রহমতের ভেতর থাকা সাদা মুখগুলো দিয়ে। ফলে পুরো অংশটা শুরুও হয় আলোয়, শেষও হয় আলোয়। কালো মুখগুলোর সামনে আসে একটি প্রশ্ন: আকাফারতুম বাদা ঈমানিকুম, ঈমান আনার পর তোমরা কি কুফরি করেছিলে? বাদা ঈমানিকুম, তোমাদের ঈমানের পর, এই একই শব্দ ছয় আয়াত আগে ৩:১০০ আয়াতে এসেছিল। সেখানে মুমিনদের সতর্ক করা হয়েছিল যে তাদের কুফরিতে ফিরিয়ে নেওয়া যেতে পারে। ৩:১০০ আয়াতের সতর্কবাণীই ৩:১০৬ আয়াতে প্রশ্ন হয়ে ফিরে আসে।"
+          },
+          {
+            "en": "The whitened faces are asked nothing. Fa-fi rahmati Allah: they are within the mercy of Allah. Mercy is named where a reader might expect the word Paradise, and al-Muyassar and Ibn Kathir both explain it as Paradise. The believer is not described as receiving mercy from outside but as being inside it. Then hum fiha khalidun, they abide in it forever. The mercy of that Day is not a visit or a reprieve. It is a home that will not be taken away.",
+            "bn": "সাদা মুখগুলোকে কিছুই জিজ্ঞেস করা হয় না। ফা-ফী রাহমাতিল্লাহ: তারা আল্লাহর রহমতের ভেতরে। পাঠক যেখানে জান্নাত শব্দটা আশা করতে পারতেন, সেখানে বলা হয়েছে রহমত। তাফসীরে মুয়াসসার আর ইবনে কাসীর দুজনেই এর ব্যাখ্যা করেছেন জান্নাত বলে। মুমিনকে এখানে বাইরে থেকে রহমত পাওয়া মানুষ হিসেবে দেখানো হয়নি, দেখানো হয়েছে রহমতের ভেতরে থাকা মানুষ হিসেবে। তারপর: হুম ফীহা খালিদূন, তারা সেখানে চিরকাল থাকবে। সেদিনের রহমত কোনো সাময়িক সফর বা ক্ষণিকের ছাড় নয়। এ এমন ঘর, যা আর কখনো কেড়ে নেওয়া হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Belief Came First?",
+          "bn": "কার ঈমান আগে ছিল?"
+        },
+        "p": [
+          {
+            "en": "The question implies that belief came before the disbelief, and the commentators ask whose belief is meant. Ibn Kathir reports from Ibn Abbas (RA) that on that Day the faces of the people of the Sunnah and the Jama'ah will whiten and the faces of the people of innovation and division will blacken, a reading that follows closely on the warning against division in 3:105. Ibn Kathir also cites al-Hasan al-Basri, who said that those asked this question are the hypocrites, and he adds that the words taste the punishment for what you used to reject fit every disbeliever.",
+            "bn": "প্রশ্নটি ধরে নেয় যে কুফরির আগে ঈমান ছিল। তাই মুফাসসিরগণ জানতে চেয়েছেন, কার ঈমানের কথা বলা হচ্ছে। ইবনে কাসীর ইবনে আব্বাস (রাঃ)-এর কথা উল্লেখ করেন: সেদিন সুন্নাহ ও জামাআতের অনুসারীদের মুখ সাদা হবে, আর বিদআত ও বিভক্তির লোকদের মুখ কালো হবে। এই ব্যাখ্যা ৩:১০৫ আয়াতের বিভক্তিবিরোধী সতর্কবাণীর সঙ্গে ঘনিষ্ঠভাবে মেলে। ইবনে কাসীর হাসান বসরির কথাও আনেন। তাঁর মতে, যাদের এই প্রশ্ন করা হবে তারা মুনাফিক। ইবনে কাসীর আরও বলেন, তোমাদের কুফরির কারণে শাস্তির স্বাদ নাও, এই কথা প্রত্যেক কাফিরের বেলায় খাটে।"
+          },
+          {
+            "en": "At-Tabari records a further reading from Ubayy ibn Ka'b (RA), who took the earlier belief to be the testimony all the children of Adam gave when their Lord asked, am I not your Lord, the covenant 7:172 describes. On that reading the question reaches every disbeliever, reminding him of a yes he once said. Al-Muyassar describes the blackened faces as those who denied His Messenger and disobeyed His command.",
+            "bn": "ইমাম তাবারি উবাই ইবনে কাব (রাঃ)-এর আরেকটি ব্যাখ্যা উল্লেখ করেন। তাঁর মতে আগের ঈমান হলো সেই সাক্ষ্য, যা আদম সন্তানেরা সবাই দিয়েছিল যখন তাদের রব জিজ্ঞেস করেছিলেন, আমি কি তোমাদের রব নই? ৭:১৭২ আয়াতে এই অঙ্গীকারের কথা আছে। এই ব্যাখ্যায় প্রশ্নটি প্রত্যেক কাফিরের কাছে পৌঁছে যায়, আর তাকে মনে করিয়ে দেয় একদিন সে হ্যাঁ বলেছিল। তাফসীরে মুয়াসসার কালো মুখের লোকদের বর্ণনা দেয় এভাবে: যারা তাঁর রসূলকে মিথ্যা বলেছে আর তাঁর হুকুম অমান্য করেছে।"
+          },
+          {
+            "en": "These readings differ over who is meant, not over what the verse condemns. Whether the first belief was the covenant of 7:172, a profession on the tongue, or a faith once truly held and later abandoned, the question rebukes the loss of something that had been theirs. What none of the commentators draws from it is licence for a believer to name particular people today whose faces will blacken. The verse describes the Day, and 3:109 has already said to whom every matter returns.",
+            "bn": "ব্যাখ্যাগুলোর পার্থক্য হলো কাদের কথা বলা হচ্ছে তা নিয়ে, আয়াত কী নিন্দা করছে তা নিয়ে নয়। আগের ঈমান ৭:১৭২ আয়াতের অঙ্গীকার হোক, মুখের দাবি হোক, বা একসময় সত্যিই ধারণ করে পরে ছেড়ে দেওয়া ঈমান হোক, প্রশ্নটি তিরস্কার করে নিজের জিনিস হারিয়ে ফেলাকে। কিন্তু কোনো মুফাসসির এ থেকে এই অনুমতি বের করেননি যে একজন মুমিন আজ নির্দিষ্ট মানুষের নাম ধরে বলবে, এদের মুখ কালো হবে। আয়াত সেই দিনের বর্ণনা দেয়। আর প্রতিটি বিষয় কার কাছে ফিরে যায়, ৩:১০৯ আয়াত তা আগেই বলে দিয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Light From the Water of Wudu",
+          "bn": "অজুর পানির আলো"
+        },
+        "p": [
+          {
+            "en": "In explaining the whitened and blackened faces, Ibn Kathir cites the words of Ibn Abbas (RA) and al-Hasan al-Basri. A sound hadith also describes how the faces of this ummah will be known on the Day of Resurrection. Sahih al-Bukhari records from Abu Hurayrah (RA) that he heard the Prophet ﷺ say that his ummah will be called on that Day with bright faces, hands and feet, from the traces of wudu.",
+            "bn": "সাদা আর কালো মুখের ব্যাখ্যায় ইবনে কাসীর ইবনে আব্বাস (রাঃ) আর হাসান বসরির কথা উল্লেখ করেছেন। একটি সহিহ হাদিস আরও বলে, কিয়ামতের দিন এই উম্মতের মুখ কীভাবে চেনা যাবে। সহিহ বুখারিতে আবু হুরায়রা (রাঃ) বর্ণনা করেছেন, তিনি নবী ﷺ-কে বলতে শুনেছেন: কিয়ামতের দিন তাঁর উম্মতকে ডাকা হবে উজ্জ্বল মুখ, হাত আর পা নিয়ে, অজুর চিহ্নের কারণে।"
+          },
+          {
+            "en": "The hadith is not a commentary on 3:106 and is not offered as one. What it adds is a picture drawn from ordinary life. The light on a believer's face on that Day has a history, and the history is made of water poured over the face five times a day, often in a hurry, often half-awake before dawn. 3:107 can sound far away. The hadith brings it close: what shines then is being washed now, one prayer at a time.",
+            "bn": "হাদিসটি ৩:১০৬ আয়াতের তাফসীর নয়, সেভাবে এখানে আনাও হয়নি। হাদিসটি যা যোগ করে তা হলো রোজকার জীবন থেকে নেওয়া একটি ছবি। সেদিন মুমিনের মুখের আলোর একটা ইতিহাস আছে। সে ইতিহাস গড়া দিনে পাঁচবার মুখে ঢালা পানি দিয়ে, প্রায়ই তাড়াহুড়োয়, প্রায়ই ফজরের আগে আধো ঘুমে। ৩:১০৭ আয়াতের কথা অনেক দূরের মনে হতে পারে। হাদিসটি তাকে কাছে নিয়ে আসে। সেদিন যা ঝলমল করবে, তা আজ ধোয়া হচ্ছে, এক এক নামাজে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Faces of That Day",
+          "bn": "সেদিনের আরও কিছু মুখ"
+        },
+        "p": [
+          {
+            "en": "The Quran returns to faces on the Day more than once. 75:22-25 sets radiant faces looking at their Lord beside contorted faces expecting something backbreaking, so the radiance stands next to the sight of their Lord. 80:38-42 describes bright faces laughing and rejoicing at good news, and other faces covered with dust and overcast by blackness, and names the second group the disbelievers, the wicked. 10:26-27 promises that no darkness or humiliation will cover the faces of those who did good, while the faces of those who earned evil will look as if covered with pieces of the night.",
+            "bn": "কুরআন সেই দিনের মুখের কথা একাধিকবার বলেছে। ৭৫:২২-২৫ আয়াত পাশাপাশি রাখে উজ্জ্বল মুখ, যা তাদের রবের দিকে তাকিয়ে থাকবে, আর বিবর্ণ মুখ, যা কোমর ভাঙা কোনো আচরণের আশঙ্কা করবে। উজ্জ্বল মুখের পাশেই সেখানে রবের দিকে তাকিয়ে থাকার কথা। ৮০:৩৮-৪২ আয়াতে আছে হাসিমুখ, সুসংবাদে উৎফুল্ল চেহারা, আর ধুলোমাখা মুখ, যা কালিমায় ঢাকা। দ্বিতীয় দলের নাম সেখানে বলে দেওয়া হয়েছে: কাফির, পাপাচারী। ১০:২৬-২৭ আয়াত কথা দেয়, যারা ভালো কাজ করেছে তাদের মুখ কোনো কালিমা বা লাঞ্ছনা ঢাকবে না। আর যারা মন্দ কামাই করেছে, তাদের মুখ যেন রাতের টুকরো দিয়ে ঢাকা।"
+          },
+          {
+            "en": "39:60 names one cause of the blackening: on the Day of Resurrection you will see those who lied about Allah with their faces blackened, and it asks whether Hell is not the residence of the arrogant. 57:12 gives the other side a light of its own: the believing men and believing women with their light running before them and on their right, hearing good tidings of gardens. Read together, these verses show that the whitening of 3:106 is not a figure of speech only. It is how the truth of a life appears when nothing can be hidden.",
+            "bn": "৩৯:৬০ আয়াত কালো হওয়ার একটি কারণ বলে দেয়: কিয়ামতের দিন তুমি দেখবে, যারা আল্লাহর নামে মিথ্যা বলেছে তাদের মুখ কালো। তারপর প্রশ্ন করে, অহংকারীদের ঠিকানা কি জাহান্নামে নয়? ৫৭:১২ আয়াত অন্য পক্ষকে দেয় তাদের নিজস্ব আলো: মুমিন নারী-পুরুষ, তাদের আলো ছুটে চলছে সামনে আর ডানে, আর তারা শুনছে জান্নাতের সুসংবাদ। আয়াতগুলো একসঙ্গে পড়লে বোঝা যায়, ৩:১০৬ আয়াতের সাদা হওয়া কেবল কথার অলংকার নয়। যখন কিছুই আর লুকানো যাবে না, তখন একটা জীবনের সত্য এভাবেই চেহারায় ফুটে ওঠে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Guarding the Ending Now",
+          "bn": "শেষটা আজই পাহারা দেওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse asks about disbelief after belief, so the danger it names is not only rejection from the start but erosion. Few people decide to abandon their faith. Far more let it thin out: a prayer delayed until it is missed, a Quran that stays on the shelf for months, a circle of friends that slowly makes the religion feel strange. Living with this verse means noticing the slide early. Once a month, ask plainly what you did for Allah a year ago that you no longer do, and restore one thing.",
+            "bn": "আয়াতটি প্রশ্ন করে ঈমানের পর কুফরি নিয়ে। তাই এর সতর্কতা শুধু শুরু থেকে অস্বীকারের বিরুদ্ধে নয়, ধীরে ধীরে ক্ষয়ে যাওয়ার বিরুদ্ধেও। খুব কম মানুষই ঠিক করে ঈমান ছেড়ে দেবে। বেশির ভাগ মানুষ ঈমানকে পাতলা হতে দেয়। নামাজ পিছোতে পিছোতে কাজা হয়ে যায়, কুরআন মাসের পর মাস তাকে পড়ে থাকে, বন্ধুদের আড্ডা ধীরে ধীরে দ্বীনকেই অচেনা করে তোলে। এই আয়াত নিয়ে বাঁচা মানে পিছলে পড়াটা শুরুতেই টের পাওয়া। মাসে একবার সোজাসুজি নিজেকে জিজ্ঞেস করুন: এক বছর আগে আল্লাহর জন্য যা করতাম, এখন কী আর করি না? তারপর অন্তত একটি জিনিস ফিরিয়ে আনুন।"
+          },
+          {
+            "en": "The passage also sets this Day directly after the command not to divide. So living it includes how you speak about other Muslims: refusing to turn a disagreement into a split, declining to pass on the rumour that hardens two groups against each other, praying in congregation with people you differ from. And the hadith of wudu gives a daily practice. Wash the face slowly and fully, and let the water be a small reminder of the face you hope to bring before Allah.",
+            "bn": "এই অংশ সেই দিনের কথা রেখেছে বিভক্ত না হওয়ার হুকুমের ঠিক পরে। তাই এ নিয়ে বাঁচার মধ্যে পড়ে অন্য মুসলিমদের নিয়ে আপনি কীভাবে কথা বলেন। মতভেদকে ভাঙনে পরিণত হতে না দেওয়া, দুই দলকে একে অন্যের বিরুদ্ধে শক্ত করে তোলে এমন গুজব আর না ছড়ানো, যাদের সঙ্গে মতের অমিল তাদের সঙ্গেও এক জামাআতে নামাজ পড়া। আর অজুর হাদিস দেয় রোজকার একটি আমল। ধীরে ধীরে, পুরোপুরি মুখ ধুয়ে নিন। পানিটুকু হোক সেই মুখের ছোট্ট স্মারক, যে মুখ নিয়ে আপনি আল্লাহর সামনে দাঁড়াতে চান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for a Bright Face",
+          "bn": "উজ্জ্বল মুখের জন্য দোয়া"
+        },
+        "p": [
+          {
+            "en": "The same surah already holds a supplication that answers this passage, spoken by those firm in knowledge in 3:8: our Lord, let not our hearts deviate after You have guided us, and grant us from Yourself mercy; indeed, You are the Bestower. It asks for exactly what 3:106-107 describe: protection from turning away after guidance, and mercy from Allah Himself. It is the Quran's own wording, and a believer can make it his daily prayer.",
+            "bn": "এই অংশের জবাব দেয় এমন একটি দোয়া একই সূরায় আগে থেকেই আছে। ৩:৮ আয়াতে জ্ঞানে দৃঢ় মানুষেরা বলে: হে আমাদের রব, হেদায়াত দেওয়ার পর আমাদের অন্তরগুলোকে বাঁকা করে দিয়ো না, আর তোমার কাছ থেকে আমাদের রহমত দাও, নিশ্চয়ই তুমিই মহাদাতা। ৩:১০৬-১০৭ আয়াত যা বর্ণনা করে, দোয়াটি ঠিক তা-ই চায়: হেদায়াতের পর মুখ ফিরিয়ে নেওয়া থেকে রক্ষা, আর সরাসরি আল্লাহর কাছ থেকে রহমত। এ কুরআনেরই ভাষা, আর একজন মুমিন একে নিজের রোজকার দোয়া বানিয়ে নিতে পারেন।"
+          },
+          {
+            "en": "What follows is a short supplication composed in the vocabulary of the verses themselves, not a transmitted du'a: O Allah, whiten our faces on the Day when faces whiten and faces blacken. Do not let us disbelieve after our belief. Keep us together upon Your rope, and place us within Your mercy, to abide in it forever. It carries four requests, each taken from a phrase of the passage and the verses just before it.",
+            "bn": "নিচের দোয়াটি আয়াতগুলোর নিজের শব্দ দিয়ে সাজানো ছোট একটি দোয়া, হাদিসে বর্ণিত কোনো দোয়া নয়: হে আল্লাহ, যেদিন কিছু মুখ সাদা হবে আর কিছু মুখ কালো হবে, সেদিন আমাদের মুখ সাদা করে দিয়ো। ঈমান আনার পর আমাদের কুফরিতে যেতে দিয়ো না। তোমার রজ্জুর ওপর আমাদের একসঙ্গে রাখো, আর আমাদের তোমার রহমতের ভেতর রাখো, সেখানে চিরকাল থাকার জন্য। এতে চারটি চাওয়া আছে, প্রতিটি নেওয়া এই অংশের বা তার ঠিক আগের আয়াতগুলোর কোনো না কোনো কথা থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What My Face Is Becoming",
+          "bn": "আমার মুখ কী হয়ে উঠছে"
+        },
+        "p": [
+          {
+            "en": "If the Day showed on my face what my heart is holding on to right now, what would people see? What have I let slip from the faith I practised a few years ago, without ever deciding to let it go, and what would it take to pick it up again this week? When I think of believers I disagree with, do I think of them as people I will stand beside on that Day, or only as a faction to be defeated?",
+            "bn": "আজ এই মুহূর্তে আমার অন্তর যা আঁকড়ে আছে, সেই দিন যদি তা আমার মুখে ফুটিয়ে তোলে, মানুষ কী দেখবে? কয়েক বছর আগে যে ঈমান নিয়ে আমল করতাম, তার কোন অংশ ছেড়ে দেব বলে ঠিক না করেই হাত থেকে ফসকে যেতে দিয়েছি? এই সপ্তাহে তা আবার তুলে নিতে কী লাগবে? যেসব মুমিনের সঙ্গে আমার মতের অমিল, তাদের কথা ভাবলে কি ভাবি সেদিন এদের পাশেই দাঁড়াব, নাকি শুধু হারিয়ে দেওয়ার মতো একটা দল হিসেবে দেখি?"
+          },
+          {
+            "en": "Am I leaning on the memory that I once believed sincerely, as if that settles the ending, or am I still guarding that belief as something that can be lost? And when I make wudu tomorrow morning, will I wash my face as a chore to be finished, or as the face I hope will be found, on that Day, within the mercy of Allah?",
+            "bn": "একসময় আন্তরিকভাবে ঈমান এনেছিলাম, সেই স্মৃতির ওপর কি ভর দিয়ে আছি, যেন তাতেই শেষটা নিশ্চিত হয়ে গেছে? নাকি এখনো সেই ঈমানকে এমন কিছু ভেবে পাহারা দিই, যা হারিয়ে যেতে পারে? আর কাল সকালে অজু করার সময় কি মুখ ধোব শুধু একটা কাজ সারার মতো করে? নাকি ধোব সেই মুখ হিসেবে, যাকে সেদিন আল্লাহর রহমতের ভেতর পাওয়া যাবে বলে আমি আশা করি?"
+          }
+        ]
+      }
+    ]
+  },
+  "3:113-115": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Pause Inside a Rebuke",
+          "bn": "তিরস্কারের মাঝখানে একটু থামা"
+        },
+        "p": [
+          {
+            "en": "The passage before these verses is severe. 3:110 tells the believers they are the best nation produced for mankind, then says that if the People of the Scripture had believed it would have been better for them: among them are believers, but most of them are defiantly disobedient. 3:111 says they will not harm the believers beyond annoyance, and 3:112 describes humiliation that clings to those who rejected the verses of Allah and killed the prophets without right. Then, before the next rebuke, 3:113 opens with two words, laysu sawa', they are not all the same.",
+            "bn": "এই আয়াতগুলোর আগের অংশ কঠোর। ৩:১১০ আয়াত মুমিনদের বলে, মানবজাতির জন্য তাদের আবির্ভাব সর্বোত্তম উম্মত হিসেবে। তারপর বলে, আহলে কিতাব ঈমান আনলে তাদের জন্যই ভালো হতো। তাদের মধ্যে কেউ কেউ মুমিন, কিন্তু তাদের অধিকাংশই ফাসিক। ৩:১১১ আয়াত বলে, সামান্য কষ্ট দেওয়ার বেশি তারা মুমিনদের ক্ষতি করতে পারবে না। আর ৩:১১২ আয়াত বলে সেই লাঞ্ছনার কথা, যা আঁকড়ে থাকে তাদের, যারা আল্লাহর আয়াত অস্বীকার করেছে আর অন্যায়ভাবে নবীদের হত্যা করেছে। তারপর পরের তিরস্কার আসার আগে ৩:১১৩ আয়াত শুরু হয় দুটি শব্দে: লাইসূ সাওয়া, তারা সবাই সমান নয়।"
+          },
+          {
+            "en": "The pause is short, three verses, and the surah resumes at 3:116 with those who disbelieve and at 3:118 with a warning about intimates. Ibn Kathir reports from Muhammad ibn Ishaq, and from al-Awfi on the authority of Ibn Abbas (RA), that these verses came down about scholars of the People of the Scripture who believed, such as Abdullah ibn Salam, Asad ibn Ubayd, Tha'labah ibn Sa'yah and Usayd ibn Sa'yah (RA). The passage unfolds what 3:110 had already said in a phrase: among them are believers.",
+            "bn": "বিরতিটা ছোট, মাত্র তিন আয়াতের। ৩:১১৬ আয়াতে সূরা আবার ফেরে কাফিরদের কথায়, আর ৩:১১৮ আয়াতে আসে অন্তরঙ্গ বন্ধু বানানো নিয়ে সতর্কবাণী। ইবনে কাসীর মুহাম্মাদ ইবনে ইসহাক থেকে, এবং আওফির সূত্রে ইবনে আব্বাস (রাঃ) থেকে উল্লেখ করেন, এই আয়াতগুলো নাজিল হয়েছে আহলে কিতাবের সেই আলেমদের সম্পর্কে যারা ঈমান এনেছিলেন। যেমন আবদুল্লাহ ইবনে সালাম, আসাদ ইবনে উবাইদ, সালাবা ইবনে সাইয়া আর উসাইদ ইবনে সাইয়া (রাঃ)। ৩:১১০ আয়াত এক কথায় যা বলে রেখেছিল, তাদের মধ্যে কেউ কেউ মুমিন, এই অংশ সেটাই খুলে বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Upright Through the Night",
+          "bn": "রাতভর সোজা হয়ে দাঁড়ানো"
+        },
+        "p": [
+          {
+            "en": "Sawa' is the word 3:64 used for a word held level between two sides. Here it is negated: the People of the Scripture do not all stand at the same level. Ummatun qa'imah is a community that stands, from the root q-w-m. Al-Muyassar explains it as upright upon the command of Allah, and Ibn Kathir as those who stand for what is right and act on the Book. The word holds both the posture of prayer and the steadiness of a life, and the rest of the verse gives both.",
+            "bn": "সাওয়া সেই শব্দ, যা ৩:৬৪ আয়াত ব্যবহার করেছিল দুই পক্ষের মাঝে সমান এক কথার জন্য। এখানে শব্দটি আসে না-বাচক হয়ে: আহলে কিতাবের সবাই এক স্তরে দাঁড়িয়ে নেই। উম্মাতুন কাইমাহ মানে দাঁড়িয়ে থাকা একটি দল, মূল ক-ও-ম থেকে। তাফসীরে মুয়াসসার এর ব্যাখ্যা করে আল্লাহর হুকুমের ওপর সোজা থাকা বলে। ইবনে কাসীর বলেন, যারা হকের পক্ষে দাঁড়ায় আর কিতাব অনুযায়ী আমল করে। শব্দটির ভেতরে আছে নামাজে দাঁড়ানোর ভঙ্গি আর জীবনের দৃঢ়তা দুটোই। আয়াতের বাকি অংশ দুটোরই বর্ণনা দেয়।"
+          },
+          {
+            "en": "Yatluna ayat Allah ana' al-layl: they recite the verses of Allah in the hours of the night. Ana' is a plural, the night's hours one after another, not a single late moment. Wa hum yasjudun, while they prostrate, is a circumstantial clause: the reciting happens inside the prayer. Ibn Kathir explains it as night prayer in which they recite. 3:114 then lists their faith and conduct: belief in Allah and the Last Day, enjoining right, forbidding wrong, and hastening in good deeds. Three of them, belief in Allah, enjoining right and forbidding wrong, are the very qualities 3:110 gave the believers.",
+            "bn": "ইয়াতলূনা আয়াতিল্লাহি আনাআল লাইল: তারা রাতের প্রহরে প্রহরে আল্লাহর আয়াত তেলাওয়াত করে। আনা বহুবচন, রাতের একের পর এক প্রহর, গভীর রাতের কোনো একটি মুহূর্ত নয়। ওয়া হুম ইয়াসজুদূন, সিজদারত অবস্থায়, এটি অবস্থা বোঝানো বাক্যাংশ। অর্থাৎ তেলাওয়াত হচ্ছে নামাজের ভেতরেই। ইবনে কাসীর এর ব্যাখ্যা দেন রাতের নামাজ বলে, যাতে তারা কুরআন পড়ে। ৩:১১৪ আয়াত এরপর তাদের ঈমান আর আচরণের তালিকা দেয়: আল্লাহ ও শেষ দিনে ঈমান, ভালো কাজের আদেশ, মন্দ কাজে নিষেধ, আর নেক কাজে ছুটে যাওয়া। এর তিনটি গুণ, আল্লাহর ওপর ঈমান, ভালো কাজের আদেশ আর মন্দ কাজে নিষেধ, ঠিক সেগুলোই, যা ৩:১১০ আয়াত মুমিনদের দিয়েছিল।"
+          },
+          {
+            "en": "Then 3:115: wa ma yaf'alu min khayrin fa-lan yukfaruh, whatever good they do, it will never be denied them. Yukfaruh is from k-f-r, whose root sense is to cover, the root of kufr. Their good will not be covered over or left unacknowledged. Al-Muyassar explains that it will not be lost with Allah, but will be appreciated and rewarded. The verse closes, wallahu 'alimun bil-muttaqin, Allah knows the God-fearing, so no good done in private escapes Him.",
+            "bn": "তারপর ৩:১১৫ আয়াত: ওয়া মা ইয়াফআলূ মিন খাইরিন ফালাই ইউকফারূহ, তারা যে ভালো কাজই করুক, তা কখনো অস্বীকার করা হবে না। ইউকফারূহ এসেছে ক-ফ-র থেকে, যার মূল অর্থ ঢেকে দেওয়া। কুফরও এই মূল থেকেই। তাদের ভালো কাজ ঢেকে রাখা হবে না, অস্বীকৃতও থাকবে না। তাফসীরে মুয়াসসার বলে, আল্লাহর কাছে তা হারাবে না, বরং তার কদর করা হবে আর প্রতিদান দেওয়া হবে। আয়াত শেষ হয়: ওয়াল্লাহু আলীমুম বিল মুত্তাকীন, আল্লাহ মুত্তাকীদের ভালো করে জানেন। তাই গোপনে করা কোনো ভালো কাজও তাঁর অজানা থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Being Praised",
+          "bn": "কাদের প্রশংসা করা হচ্ছে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, following the report from Ibn Ishaq, reads the community as those of the People of the Scripture who embraced Islam, and he sets the verse beside 3:199, near the end of the surah, which praises those among them who believe in Allah, in what was revealed to the believers and in what was revealed to them. Al-Muyassar likewise describes them as upright upon Allah's command and believing in His Messenger Muhammad ﷺ, standing at night reciting the Quran.",
+            "bn": "ইবনে কাসীর ইবনে ইসহাকের বর্ণনা অনুসরণ করে এই দলকে বোঝেন আহলে কিতাবের সেই লোকদের, যারা ইসলাম গ্রহণ করেছিলেন। তিনি আয়াতটিকে রাখেন সূরার শেষ দিকের ৩:১৯৯ আয়াতের পাশে। সেখানে প্রশংসা করা হয়েছে তাদের মধ্যে যারা আল্লাহর ওপর, মুমিনদের প্রতি যা নাজিল হয়েছে তার ওপর, আর তাদের প্রতি যা নাজিল হয়েছে তার ওপর ঈমান রাখে। তাফসীরে মুয়াসসারও তাদের বর্ণনা দেয় আল্লাহর হুকুমের ওপর সোজা থাকা, তাঁর রসূল মুহাম্মাদ ﷺ-এর ওপর ঈমান আনা, রাতে দাঁড়িয়ে কুরআন তেলাওয়াত করা মানুষ হিসেবে।"
+          },
+          {
+            "en": "The passage also reads as a portrait of qualities, and 7:159 gives a like portrait: among the people of Musa (AS) is a community which guides by truth and by it establishes justice. The word hastening deserves a pause: they do not merely do good, they rush to it. Al-Muyassar explains it as hurrying to do good deeds, and says that whatever good this believing community does, little or much, will not be lost with Allah.",
+            "bn": "এই অংশকে কিছু গুণের ছবি হিসেবেও পড়া যায়, আর ৭:১৫৯ আয়াতে আছে তেমনই আরেকটি ছবি: মূসা (আঃ)-এর সম্প্রদায়ের মধ্যে একটি দল আছে, যারা সত্য দিয়ে পথ দেখায় আর সত্য দিয়েই ইনসাফ করে। ছুটে যাওয়া শব্দটিতে একটু থামা দরকার। তারা শুধু ভালো কাজ করে না, ভালো কাজের দিকে দৌড়ায়। তাফসীরে মুয়াসসার এর ব্যাখ্যা দেয় ভালো কাজে এগিয়ে যাওয়া বলে। সেখানে আরও বলা হয়েছে, এই ঈমানদার দলটি কম হোক বা বেশি, যে ভালো কাজই করুক, তা আল্লাহর কাছে হারাবে না।"
+          },
+          {
+            "en": "Whichever reading is taken, the text itself keeps two things side by side. The rebuke that came before is not withdrawn by laysu sawa', and the praise in these verses is not cancelled by that rebuke. The Quran holds both at once, and it names the ground of the praise: faith in Allah and the Last Day, worship, and good conduct. The verse passes no verdict on any community living today, and it gives no one licence to generalise about one.",
+            "bn": "যে ব্যাখ্যাই নেওয়া হোক, আয়াতের ভাষা নিজেই দুটো জিনিস পাশাপাশি রাখে। লাইসূ সাওয়া বলার ফলে আগের তিরস্কার ফিরিয়ে নেওয়া হয়নি। আবার সেই তিরস্কারের কারণে এই আয়াতগুলোর প্রশংসাও বাতিল হয়নি। কুরআন দুটোকেই একসঙ্গে ধরে রাখে, আর প্রশংসার ভিত্তিও বলে দেয়: আল্লাহ ও শেষ দিনে ঈমান, ইবাদত, আর ভালো আচরণ। আজকের কোনো সম্প্রদায় সম্পর্কে আয়াত কোনো রায় দেয় না, আর কাউকে কোনো সম্প্রদায় নিয়ে ঢালাও কথা বলার অনুমতিও দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Reward Given Twice",
+          "bn": "দুবার দেওয়া প্রতিদান"
+        },
+        "p": [
+          {
+            "en": "The report naming Abdullah ibn Salam (RA) and his companions is one Ibn Kathir cites from Ibn Ishaq and, through al-Awfi, from Ibn Abbas (RA). A sound hadith speaks to the promise of 3:115. Sahih al-Bukhari records from Abu Musa al-Ash'ari (RA) that the Prophet ﷺ said three people will have their reward twice. The first he named is a man of the People of the Scripture who believed in his own prophet and then believed in Muhammad ﷺ.",
+            "bn": "আবদুল্লাহ ইবনে সালাম (রাঃ) ও তাঁর সঙ্গীদের নাম যে বর্ণনায় আছে, ইবনে কাসীর তা এনেছেন ইবনে ইসহাক থেকে, আর আওফির সূত্রে ইবনে আব্বাস (রাঃ) থেকে। ৩:১১৫ আয়াতের প্রতিশ্রুতির সঙ্গে মেলে এমন একটি সহিহ হাদিস আছে। সহিহ বুখারিতে আবু মূসা আশআরি (রাঃ) বর্ণনা করেছেন, নবী ﷺ বলেছেন, তিন ধরনের মানুষ দুবার প্রতিদান পাবে। তিনি প্রথম যার কথা বলেন, সে আহলে কিতাবের এমন একজন, যে নিজের নবীর ওপর ঈমান এনেছিল, তারপর মুহাম্মাদ ﷺ-এর ওপর ঈমান আনল।"
+          },
+          {
+            "en": "The hadith echoes 28:54, where those given the Scripture before, who believed when the Quran was recited to them, are promised their reward twice for their patience. It also shows what 3:115 means in practice. The years such a person spent in sincere worship under his earlier prophet are not erased when he follows the last Messenger ﷺ. They are counted. Allah does not cover over a good deed; He multiplies it.",
+            "bn": "হাদিসটি মিলে যায় ২৮:৫৪ আয়াতের সঙ্গে। সেখানে যাদের আগে কিতাব দেওয়া হয়েছিল, আর কুরআন শুনে যারা ঈমান এনেছিল, তাদের ধৈর্যের জন্য দুবার প্রতিদানের ওয়াদা দেওয়া হয়েছে। হাদিসটি দেখায় ৩:১১৫ আয়াতের কথা বাস্তবে কেমন। এমন মানুষ আগের নবীর অনুসারী হিসেবে আন্তরিক ইবাদতে যে বছরগুলো কাটিয়েছে, শেষ রসূল ﷺ-কে মেনে নেওয়ার পর সেগুলো মুছে যায় না। সেগুলো হিসাবে ধরা হয়। আল্লাহ কোনো ভালো কাজ ঢেকে দেন না, তিনি তা বাড়িয়ে দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Voices From Across the Book",
+          "bn": "কুরআনের নানা জায়গা থেকে একই সুর"
+        },
+        "p": [
+          {
+            "en": "3:199 is the passage's twin at the close of the surah: among the People of the Scripture are those who believe in Allah and what was revealed to you and to them, humbly submissive, who do not sell His verses for a small price, and their reward is with their Lord. 28:52-54 gives their own words when the Quran is recited: we have believed in it, it is the truth from our Lord, and even before it we were Muslims. 17:107-109 describes those given knowledge before it falling on their faces in prostration and weeping as it increases them in humility.",
+            "bn": "৩:১৯৯ আয়াত সূরার শেষে এই অংশের যমজ: আহলে কিতাবের মধ্যে এমন লোক আছে যারা আল্লাহর ওপর, তোমাদের প্রতি যা নাজিল হয়েছে তার ওপর, আর তাদের প্রতি যা নাজিল হয়েছে তার ওপর ঈমান রাখে। তারা আল্লাহর সামনে বিনয়ী, সামান্য দামে তাঁর আয়াত বিক্রি করে না, আর তাদের প্রতিদান তাদের রবের কাছে। ২৮:৫২-৫৪ আয়াত শোনায় কুরআন শুনে তাদের নিজেদের কথা: আমরা এতে ঈমান এনেছি, এ আমাদের রবের পক্ষ থেকে সত্য, আর এর আগেও আমরা মুসলিম ছিলাম। ১৭:১০৭-১০৯ আয়াতে আছে, আগে যাদের জ্ঞান দেওয়া হয়েছিল তারা কুরআন শুনে কাঁদতে কাঁদতে সিজদায় লুটিয়ে পড়ে, আর তা তাদের বিনয় বাড়িয়ে দেয়।"
+          },
+          {
+            "en": "7:159 shows the same fairness in another surah: among the people of Musa (AS) is a community that guides by truth and establishes justice by it. And 3:75, earlier in this surah, makes the point in the language of trust: some of the People of the Scripture would return a heap of wealth entrusted to them, and some would not return a single coin unless you kept after them. In each place the Quran judges people one by one, by what they believe and what they do.",
+            "bn": "৭:১৫৯ আয়াত আরেক সূরায় একই ইনসাফ দেখায়: মূসা (আঃ)-এর সম্প্রদায়ের মধ্যে একটি দল আছে, যারা সত্য দিয়ে পথ দেখায় আর সত্য দিয়ে ইনসাফ কায়েম করে। আর এই সূরারই আগে ৩:৭৫ আয়াত একই কথা বলে আমানতের ভাষায়: আহলে কিতাবের কেউ কেউ গচ্ছিত রাখা সোনার স্তূপও ফিরিয়ে দেবে, আবার কেউ কেউ পেছনে লেগে না থাকলে একটা দিনারও ফেরত দেবে না। প্রতিটি জায়গায় কুরআন মানুষকে মাপে একজন একজন করে, তারা কী বিশ্বাস করে আর কী করে তা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fairness in Ordinary Speech",
+          "bn": "রোজকার কথায় ইনসাফ"
+        },
+        "p": [
+          {
+            "en": "The first thing this passage changes is how a believer talks. When a conversation turns to another community, a news story, or a neighbour's faith, the Quran's own habit is some of them, not all of them. Keep that word. Before sharing a post that condemns a whole people, ask whether you would say laysu sawa' about them, and whether you are willing to. If Allah, in a passage of rebuke, stops to name the upright, a believer has no warrant to be less fair.",
+            "bn": "এই অংশ প্রথম যা বদলায়, তা হলো একজন মুমিনের কথা বলার ধরন। আলাপ যখন অন্য কোনো সম্প্রদায়, কোনো খবর বা প্রতিবেশীর ধর্মের দিকে যায়, কুরআনের নিজের অভ্যাস হলো তাদের কেউ কেউ, সবাই নয়। এই শব্দটা ধরে রাখুন। গোটা একটা জাতিকে দোষারোপ করা কোনো পোস্ট শেয়ার করার আগে নিজেকে জিজ্ঞেস করুন, তাদের সম্পর্কে আপনি কি লাইসূ সাওয়া বলতেন, আর বলতে রাজি কি না। আল্লাহ নিজে তিরস্কারের মাঝখানে থেমে সৎ মানুষদের কথা বলেছেন। একজন মুমিনের এর চেয়ে কম ইনসাফ করার কোনো অধিকার নেই।"
+          },
+          {
+            "en": "The second change is a mirror. The qualities praised here are a checklist for any believer: some hours of the night given to recitation in prayer, even two rak'ahs before witr; faith in the Last Day that shapes spending; a word of good counsel offered gently; and the habit of hastening, paying the debt today and visiting the sick person this evening rather than someday. And 3:115 answers the quiet discouragement of unnoticed good: it is not covered over. Allah knows it.",
+            "bn": "দ্বিতীয় পরিবর্তন হলো আয়নার মতো। এখানে যে গুণগুলোর প্রশংসা, সেগুলো যেকোনো মুমিনের জন্য একটা তালিকা। রাতের কিছু সময় নামাজে তেলাওয়াতে দেওয়া, বিতরের আগে দুই রাকাত হলেও। শেষ দিনের ওপর এমন ঈমান, যা খরচের ধরন ঠিক করে দেয়। নরমভাবে একটা ভালো পরামর্শ দেওয়া। আর ছুটে যাওয়ার অভ্যাস: ঋণটা আজই শোধ করা, অসুস্থ মানুষটিকে কোনো একদিন নয়, আজ সন্ধ্যাতেই দেখতে যাওয়া। আর কেউ টের পায় না বলে ভালো কাজে যে নীরব হতাশা আসে, ৩:১১৫ আয়াত তার জবাব দেয়: কাজটা ঢেকে রাখা হবে না। আল্লাহ তা জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Among the Righteous",
+          "bn": "সৎকর্মশীলদের দলে"
+        },
+        "p": [
+          {
+            "en": "The passage ends its praise with ula'ika min as-salihin, those are among the righteous, and the Quran records prophets asking for exactly that company. Yusuf (AS) closes his prayer in 12:101 with cause me to die a Muslim and join me with the righteous, and Ibrahim (AS) asks in 26:83, my Lord, grant me authority and join me with the righteous. Both use the same word, as-salihin. A believer can make either prayer his own, in the Quran's own words.",
+            "bn": "অংশটি প্রশংসা শেষ করে এই কথায়: উলাইকা মিনাস সালিহীন, তারা সৎকর্মশীলদের অন্তর্ভুক্ত। আর কুরআনে নবীরা ঠিক এই সঙ্গই চেয়েছেন। ১২:১০১ আয়াতে ইউসুফ (আঃ) তাঁর দোয়া শেষ করেন এভাবে: আমাকে মুসলিম অবস্থায় মৃত্যু দাও আর সৎকর্মশীলদের সঙ্গে মিলিয়ে দাও। ২৬:৮৩ আয়াতে ইবরাহীম (আঃ) চান: হে আমার রব, আমাকে প্রজ্ঞা দাও আর সৎকর্মশীলদের সঙ্গে মিলিয়ে দাও। দুটো দোয়াতেই একই শব্দ, আস সালিহীন। একজন মুমিন কুরআনের নিজের ভাষায় যেকোনোটি নিজের দোয়া বানিয়ে নিতে পারেন।"
+          },
+          {
+            "en": "What follows is a supplication composed from the vocabulary of these three verses, not a transmitted du'a: O Allah, make me upright upon Your command. Let me recite Your verses in the hours of the night and prostrate to You. Make me quick to do good, count me among the righteous, and do not let any good I do be lost with You. It holds five requests, and each is a phrase of the passage turned into a request.",
+            "bn": "নিচের দোয়াটি এই তিন আয়াতের শব্দ দিয়ে সাজানো, হাদিসে বর্ণিত কোনো দোয়া নয়: হে আল্লাহ, আমাকে তোমার হুকুমের ওপর সোজা রাখো। রাতের প্রহরে আমাকে তোমার আয়াত তেলাওয়াত করতে আর তোমাকে সিজদা করতে দাও। ভালো কাজে আমাকে তৎপর করো, আমাকে সৎকর্মশীলদের মধ্যে গণ্য করো, আর আমার কোনো ভালো কাজ তোমার কাছে হারিয়ে যেতে দিয়ো না। এতে পাঁচটি চাওয়া আছে, আর প্রতিটি এই অংশেরই কোনো কথাকে দোয়ায় রূপ দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where My Own Nights Go",
+          "bn": "আমার রাতগুলো কোথায় যায়"
+        },
+        "p": [
+          {
+            "en": "When I speak about people of another faith, would a listener hear the Quran's fairness in my words, or a verdict the Quran itself refused to give? If someone described my nights honestly, would recitation and prostration be anywhere in the description? Which good deed have I been postponing for weeks, telling myself I will get to it, when the praised are those who hasten?",
+            "bn": "অন্য ধর্মের মানুষ নিয়ে যখন কথা বলি, শ্রোতা কি আমার কথায় কুরআনের ইনসাফ শুনতে পায়, নাকি এমন রায়, যা কুরআন নিজেই দেয়নি? কেউ যদি সৎভাবে আমার রাতগুলোর বর্ণনা দেয়, সেখানে কি তেলাওয়াত আর সিজদার কোনো জায়গা থাকবে? কোন ভালো কাজটা আমি সপ্তাহের পর সপ্তাহ পিছিয়ে রেখেছি, নিজেকে বলছি পরে করব, অথচ প্রশংসা তো তাদের যারা ছুটে যায়?"
+          },
+          {
+            "en": "When a good deed of mine goes unseen and unthanked, do I feel it was wasted, or do I remember that it will never be denied? And when I judge people, including fellow Muslims, do I look at their faith and their deeds, or only at the group they belong to? Would I want to be judged the way I judge them?",
+            "bn": "আমার কোনো ভালো কাজ যখন কারও চোখে পড়ে না, কেউ ধন্যবাদও দেয় না, তখন কি মনে হয় কাজটা বৃথা গেল? নাকি মনে পড়ে, তা কখনো অস্বীকার করা হবে না? আর মানুষকে বিচার করার সময়, মুসলিম ভাইবোনদেরও, আমি কি তাদের ঈমান আর আমল দেখি, নাকি শুধু দেখি তারা কোন দলের লোক? আমি যেভাবে তাদের বিচার করি, কেউ আমাকে সেভাবে বিচার করুক, তা কি আমি চাইব?"
+          }
+        ]
+      }
+    ]
+  },
+  "3:116-117": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Upright, the Other Side",
+          "bn": "সৎ দলের পরে অন্য পক্ষ"
+        },
+        "p": [
+          {
+            "en": "These two verses follow directly on 3:113-115, which praised an upright community among the People of the Scripture and promised that none of its good would be denied. 3:116 turns to the other side of that promise: inna alladhina kafaru, indeed those who disbelieve. Its opening is almost word for word the opening of 3:10, near the start of the surah. There the verse ends that they are fuel for the Fire; here it ends that they are companions of the Fire, abiding in it forever. The surah states the principle early and returns to it.",
+            "bn": "এই দুই আয়াত আসে ঠিক ৩:১১৩-১১৫ আয়াতের পরে। সেখানে আহলে কিতাবের একটি সৎ দলের প্রশংসা করা হয়েছে, আর কথা দেওয়া হয়েছে তাদের কোনো ভালো কাজ অস্বীকার করা হবে না। ৩:১১৬ আয়াত সেই প্রতিশ্রুতির উল্টো দিকে ফেরে: ইন্নাল্লাযীনা কাফারূ, নিশ্চয়ই যারা কুফরি করে। এর শুরুটা প্রায় হুবহু সূরার শুরুর দিকের ৩:১০ আয়াতের শুরুর মতো। সেখানে আয়াত শেষ হয় এই কথায় যে তারা আগুনের ইন্ধন। এখানে শেষ হয় এই কথায় যে তারা আগুনের বাসিন্দা, সেখানে চিরকাল থাকবে। সূরা নীতিটা শুরুতেই বলে রাখে, তারপর আবার তার কাছে ফিরে আসে।"
+          },
+          {
+            "en": "No particular occasion of revelation is established for these verses. Ibn Kathir takes those who disbelieve here to be the idolaters, and the passage sits just before the long account of Uhud that begins at 3:121. Ibn Kathir's own account of that battle records that the Quraysh spent the profit of the caravan that had escaped at Badr on raising the army. That is not the occasion of this verse, but it is a clear picture of what it describes: wealth poured out in this worldly life, against the truth, and lost.",
+            "bn": "এই আয়াতগুলোর নাজিলের কোনো নির্দিষ্ট প্রেক্ষাপট প্রমাণিত নয়। ইবনে কাসীর এখানে কাফির বলতে মুশরিকদের বুঝেছেন। অংশটি রয়েছে উহুদের দীর্ঘ বিবরণের ঠিক আগে, যা শুরু হয় ৩:১২১ আয়াতে। সেই যুদ্ধের বিবরণে ইবনে কাসীর নিজেই উল্লেখ করেছেন, বদরের সময় যে কাফেলা বেঁচে গিয়েছিল, তার লাভের টাকা কুরাইশরা খরচ করেছিল বাহিনী গড়তে। এটি এই আয়াতের নাজিলের প্রেক্ষাপট নয়। তবে আয়াত যা বর্ণনা করে, এটি তার স্পষ্ট ছবি: দুনিয়ার জীবনে সত্যের বিরুদ্ধে ঢেলে দেওয়া সম্পদ, যা শেষে হারিয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Wind That Carries Frost",
+          "bn": "হিম বয়ে আনা বাতাস"
+        },
+        "p": [
+          {
+            "en": "Lan tughniya 'anhum: lan is the strongest negation of the future, never, and aghna is to suffice someone, to make him free of need. Their wealth and children will never make them free of need min Allah, before Allah, and shay'an, indefinite, closes the verse's first clause: not in the smallest thing. Wealth and children are named together because they are what a person counts on when he pictures his security, the money that protects him and the family that stands behind him.",
+            "bn": "লান তুগনিয়া আনহুম। লান ভবিষ্যৎকে সবচেয়ে জোরালোভাবে নাকচ করে: কখনোই না। আর আগনা মানে কারও জন্য যথেষ্ট হওয়া, তাকে অভাবমুক্ত করা। আল্লাহর সামনে তাদের ধনসম্পদ আর সন্তান কখনো তাদের অভাব মেটাবে না। প্রথম বাক্যাংশের শেষ শব্দ শাইআন, অনির্দিষ্ট: সামান্যতম কিছুতেও না। ধনসম্পদ আর সন্তানের নাম একসঙ্গে এসেছে, কারণ মানুষ নিজের নিরাপত্তার ছবি আঁকে এই দুটো দিয়ে: যে টাকা তাকে রক্ষা করে, আর যে পরিবার তার পেছনে দাঁড়ায়।"
+          },
+          {
+            "en": "Then the parable: mathalu ma yunfiquna fi hadhihi al-hayati ad-dunya ka-mathali rihin fiha sirr, the example of what they spend in this worldly life is like a wind in which there is sirr. Ibn Kathir reports that Ibn Abbas (RA), Ikrimah, Sa'id ibn Jubayr, al-Hasan, Qatadah and others explained sirr as intense cold, and that Ata' said cold and snow. Ibn Abbas and Mujahid are also reported to have said fire. Ibn Kathir reconciles the two: severe cold, above all with snow, burns crops the way fire does.",
+            "bn": "তারপর দৃষ্টান্ত: মাসালু মা ইউনফিকূনা ফী হাযিহিল হায়াতিদ দুনইয়া কামাসালি রীহিন ফীহা সির্র, এই দুনিয়ার জীবনে তারা যা খরচ করে তার দৃষ্টান্ত এমন বাতাসের মতো, যাতে আছে সির্র। ইবনে কাসীর উল্লেখ করেন, ইবনে আব্বাস (রাঃ), ইকরিমা, সাঈদ ইবনে জুবাইর, হাসান, কাতাদা এবং আরও অনেকে সির্র-এর ব্যাখ্যা করেছেন তীব্র ঠান্ডা বলে। আতা বলেছেন, ঠান্ডা আর তুষার। ইবনে আব্বাস আর মুজাহিদ থেকে আগুন অর্থও বর্ণিত আছে। ইবনে কাসীর দুটোকে মিলিয়ে দেন: প্রচণ্ড ঠান্ডা, বিশেষ করে তুষারসহ, ফসলকে পুড়িয়ে দেয় ঠিক আগুনের মতো।"
+          },
+          {
+            "en": "Asabat hartha qawmin zalamu anfusahum fa-ahlakatah: it struck the tilled field of a people who wronged themselves and destroyed it. The root z-l-m, wronging, comes three times in this one verse: they wronged themselves, Allah did not wrong them, and they wrong themselves. In the last clause the Arabic places anfusahum, themselves, before its verb, which throws the weight onto it. The injustice in the story is real, and it has a single address.",
+            "bn": "আসাবাত হারসা কাওমিন যালামূ আনফুসাহুম ফাআহলাকাতহ: বাতাসটি এমন লোকদের চাষের ক্ষেতে আঘাত হানল, যারা নিজেদের ওপর যুলম করেছিল, আর ক্ষেতটা ধ্বংস করে দিল। যুলমের মূল য-ল-ম এই এক আয়াতেই তিনবার এসেছে: তারা নিজেদের ওপর যুলম করেছিল, আল্লাহ তাদের ওপর যুলম করেননি, আর তারা নিজেরাই নিজেদের ওপর যুলম করে। শেষ বাক্যাংশে আরবি আনফুসাহুম, নিজেদের, শব্দটিকে ক্রিয়ার আগে বসিয়েছে, তাতে জোর পড়ে ওই শব্দেই। গল্পে যুলম সত্যিই আছে, কিন্তু তার ঠিকানা একটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Frost Destroys",
+          "bn": "হিম কী ধ্বংস করে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir, citing Mujahid, al-Hasan and as-Suddi, reads the parable as being about what the disbelievers spend in this life. The calamity strikes a crop ready for harvest and takes it from its owner exactly when he needs it most. So too, he says, Allah removes the reward of the disbelievers' good deeds, just as the harvest of the wrongdoers was destroyed for their sins, since neither was built on a firm foundation. Al-Muyassar describes the spending as what they give in ways of good, hoping for its reward, and finding none in the Hereafter.",
+            "bn": "ইবনে কাসীর মুজাহিদ, হাসান আর সুদ্দির উদ্ধৃতি দিয়ে দৃষ্টান্তটিকে পড়েন দুনিয়ার জীবনে কাফিরদের খরচ নিয়ে। বিপদটা আঘাত হানে কাটার জন্য তৈরি ফসলে, আর মালিকের কাছ থেকে তা কেড়ে নেয় ঠিক যখন তার সবচেয়ে বেশি দরকার। তিনি বলেন, একইভাবে আল্লাহ কাফিরদের ভালো কাজের প্রতিদান মুছে দেন, যেমন যালিমদের ফসল তাদের গুনাহের কারণে ধ্বংস হয়েছিল। কারণ দুটোর কোনোটাই মজবুত ভিত্তির ওপর গড়া ছিল না। তাফসীরে মুয়াসসার খরচটার বর্ণনা দেয় ভালো খাতে তাদের দান হিসেবে, যার প্রতিদান তারা আশা করত, অথচ আখিরাতে কিছুই পাবে না।"
+          },
+          {
+            "en": "The Quran itself names a further kind of spending that meets the same end. 8:36 says that those who disbelieve spend their wealth to avert people from the way of Allah; they will spend it, then it will become a regret for them, then they will be overcome. Al-Muyassar's reading speaks of giving in ways of good, and 8:36 of spending against the truth, but both describe wealth that reaches the Day with nothing to show.",
+            "bn": "একই পরিণতির আরেক রকম খরচের কথা কুরআন নিজেই বলেছে। ৮:৩৬ আয়াত বলে, যারা কুফরি করে তারা আল্লাহর পথ থেকে মানুষকে ফেরাতে সম্পদ খরচ করে। তারা খরচ করতেই থাকবে, তারপর তা তাদের আফসোসের কারণ হবে, তারপর তারা পরাজিত হবে। তাফসীরে মুয়াসসারের ব্যাখ্যা ভালো খাতে দান নিয়ে, আর ৮:৩৬ আয়াতের কথা সত্যের বিরুদ্ধে খরচ নিয়ে। কিন্তু দুটোই এমন সম্পদের কথা বলে, যা সেই দিনে পৌঁছে দেখানোর মতো কিছুই রাখে না।"
+          },
+          {
+            "en": "The verse ends by closing off any complaint: wa ma zalamahumu Allah, Allah did not wrong them. Nine verses earlier 3:108 said that Allah wants no injustice for anyone, and the parable does not break that promise. The frost did not fall on a field that deserved better. It fell on a harvest planted without faith, and the loss was the fruit of what its owners had chosen.",
+            "bn": "আয়াত শেষ হয় সব অভিযোগের পথ বন্ধ করে দিয়ে: ওয়া মা যালামাহুমুল্লাহ, আল্লাহ তাদের ওপর যুলম করেননি। নয় আয়াত আগে ৩:১০৮ আয়াত বলেছে, আল্লাহ কারও প্রতি যুলম চান না। দৃষ্টান্তটি সেই কথা ভাঙে না। হিমটা এমন ক্ষেতে পড়েনি, যার আরও ভালো কিছু প্রাপ্য ছিল। পড়েছে ঈমান ছাড়া বোনা ফসলে, আর ক্ষতিটা তার মালিকদের নিজেদের বেছে নেওয়া পথেরই ফল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Feeding the Poor Without Faith",
+          "bn": "ঈমান ছাড়া গরিবকে খাওয়ানো"
+        },
+        "p": [
+          {
+            "en": "Sahih Muslim records from A'ishah (RA) that she asked the Prophet ﷺ about Ibn Jud'an, who in the days of ignorance used to keep the ties of kinship and feed the poor: would that benefit him? He answered that it would not benefit him, because he never once said, my Lord, forgive me my sins on the Day of Recompense. Ibn Kathir brings this narration under 3:91, whose theme is the same: the good of one who dies in disbelief is not accepted from him.",
+            "bn": "সহিহ মুসলিমে আয়েশা (রাঃ) বর্ণনা করেছেন, তিনি নবী ﷺ-কে ইবনে জুদআন সম্পর্কে জিজ্ঞেস করেছিলেন। জাহিলি যুগে সে আত্মীয়তার সম্পর্ক রক্ষা করত আর গরিবদের খাওয়াত। এসব কি তার কোনো কাজে আসবে? নবী ﷺ জবাব দিলেন, তার কোনো কাজে আসবে না, কারণ সে কখনো একদিনও বলেনি, হে আমার রব, প্রতিদান দিবসে আমার গুনাহ মাফ করে দিয়ো। ইবনে কাসীর এই বর্ণনাটি এনেছেন ৩:৯১ আয়াতের আলোচনায়, যার বিষয়ও একই: কুফরি অবস্থায় যে মারা যায়, তার ভালো কাজ তার কাছ থেকে কবুল করা হয় না।"
+          },
+          {
+            "en": "The hadith does not say the feeding was worthless in itself. It says what was missing: a single turning to Allah in hope of forgiveness, the faith that would have given the good somewhere to go. And the door was open. Sahih al-Bukhari records that Hakim ibn Hizam (RA) asked about the charity and kindness to kin he had done before Islam, and the Prophet ﷺ told him that he had embraced Islam along with all the good he had done before. Good deeds done before faith are kept when faith comes.",
+            "bn": "হাদিসটি বলে না যে খাওয়ানোটা নিজে মূল্যহীন ছিল। হাদিস বলে কী ছিল না: মাফের আশায় একবারও আল্লাহর দিকে ফেরা, সেই ঈমান, যা ভালো কাজটাকে কোথাও পৌঁছে দিত। অথচ দরজা খোলা ছিল। সহিহ বুখারিতে আছে, হাকীম ইবনে হিযাম (রাঃ) জানতে চেয়েছিলেন ইসলামের আগে তিনি যে দান আর আত্মীয়দের প্রতি সদাচরণ করেছিলেন, তার কী হবে। নবী ﷺ তাঁকে বললেন, আগে যত ভালো কাজ করেছেন, সেগুলো সঙ্গে নিয়েই আপনি ইসলাম গ্রহণ করেছেন। ঈমান এলে ঈমানের আগের ভালো কাজও রক্ষা পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ashes, Mirage and a Burnt Garden",
+          "bn": "ছাই, মরীচিকা আর পুড়ে যাওয়া বাগান"
+        },
+        "p": [
+          {
+            "en": "The Quran gives the deeds of disbelief several images, each adding a shade. 14:18 compares them to ashes the wind blows hard on a stormy day, so that they can keep nothing of what they earned. 24:39 calls them a mirage in a lowland: the thirsty man thinks it is water until he reaches it and finds nothing, and finds Allah before him, who pays him his account in full. 2:264 describes the spender who gives to be seen and does not believe in Allah and the Last Day as dust on a smooth rock that a downpour washes bare.",
+            "bn": "কুফরির আমলের জন্য কুরআন কয়েকটি ছবি দিয়েছে, প্রতিটি নতুন একটা দিক যোগ করে। ১৪:১৮ আয়াত সেগুলোকে তুলনা করে ঝড়ের দিনে বাতাসে প্রবল বেগে উড়ে যাওয়া ছাইয়ের সঙ্গে, ফলে নিজেদের উপার্জনের কিছুই তারা ধরে রাখতে পারে না। ২৪:৩৯ আয়াত সেগুলোকে বলে মরুভূমির মরীচিকা: পিপাসার্ত মানুষ ভাবে পানি, কাছে গিয়ে দেখে কিছুই নেই, আর সেখানে পায় আল্লাহকে, যিনি তার হিসাব পুরোপুরি চুকিয়ে দেন। ২:২৬৪ আয়াত লোক দেখানোর জন্য দান করা, আল্লাহ ও শেষ দিনে ঈমান না রাখা লোককে তুলনা করে মসৃণ পাথরের ওপরের মাটির সঙ্গে, যা প্রবল বৃষ্টি ধুয়ে সাফ করে দেয়।"
+          },
+          {
+            "en": "2:265-266 set the two harvests side by side. Spending that seeks the approval of Allah is a garden on high ground that yields double, and even a drizzle is enough for it; while the man in 2:266 loses his garden to a whirlwind with fire in it, in his old age and with weak children. And 26:88-89 names the only thing that avails on the Day when wealth and children do not: coming to Allah with a sound heart.",
+            "bn": "২:২৬৫-২৬৬ আয়াত দুই রকম ফসল পাশাপাশি রাখে। আল্লাহর সন্তুষ্টি চেয়ে করা খরচ উঁচু জমির বাগানের মতো, যা দ্বিগুণ ফল দেয়, আর প্রবল বৃষ্টি না হলে হালকা বৃষ্টিই তার জন্য যথেষ্ট। আর ২:২৬৬ আয়াতের লোকটি নিজের বাগান হারায় আগুনে ভরা ঘূর্ণিবাতাসে, এমন সময় যখন সে বৃদ্ধ আর তার সন্তানেরা দুর্বল। আর ২৬:৮৮-৮৯ আয়াত বলে দেয়, যেদিন ধনসম্পদ আর সন্তান কোনো কাজে আসবে না, সেদিন একটা জিনিসই কাজে আসবে: সুস্থ অন্তর নিয়ে আল্লাহর কাছে আসা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Planting on Firm Ground",
+          "bn": "মজবুত জমিতে চাষ"
+        },
+        "p": [
+          {
+            "en": "A believer reads this warning about disbelievers and still finds a mirror in it. The frost struck spending that had no faith behind it, so the question for a believer is what stands behind his own. Before giving, pause for a moment and name the intention: this is for Allah. Give some charity where no one will know, so that at least part of your harvest was never planted for praise. Review your regular giving once a year and ask which of it you would still do if nobody ever thanked you.",
+            "bn": "কাফিরদের নিয়ে এই সতর্কবাণী পড়েও একজন মুমিন এতে নিজের আয়না খুঁজে পান। হিম আঘাত করেছিল এমন খরচে, যার পেছনে ঈমান ছিল না। তাই মুমিনের প্রশ্ন হলো, তার নিজের খরচের পেছনে কী দাঁড়িয়ে আছে। দান করার আগে এক মুহূর্ত থেমে নিয়তটা মনে মনে বলুন: এটা আল্লাহর জন্য। কিছু দান এমন জায়গায় করুন, যেখানে কেউ জানবে না, যাতে আপনার ফসলের অন্তত একটা অংশ কখনো প্রশংসার জন্য বোনা না হয়। বছরে একবার নিয়মিত দানগুলোর হিসাব নিন, আর জিজ্ঞেস করুন, কেউ কখনো ধন্যবাদ না দিলেও এর কোনগুলো আমি করতাম।"
+          },
+          {
+            "en": "The verse also loosens the grip of the two great securities. Save, provide for your family, and raise your children well, but do not let a bank balance or a strong family stand in your mind where reliance on Allah should be. When a loss comes, begin where 3:117 ends: before blaming others, ask honestly whether you wronged yourself somewhere, and repent of it. That question is not despair. It is the first step back to firm ground.",
+            "bn": "আয়াতটি নিরাপত্তার বড় দুই ভরসার ওপর আমাদের মুঠোও আলগা করে দেয়। সঞ্চয় করুন, পরিবারের খরচ জোগান, সন্তানদের ভালোভাবে মানুষ করুন। কিন্তু ব্যাংকের হিসাব বা শক্তপোক্ত পরিবারকে মনের সেই জায়গায় বসতে দেবেন না, যেখানে থাকার কথা আল্লাহর ওপর ভরসার। ক্ষতি এলে শুরু করুন সেখান থেকে, যেখানে ৩:১১৭ আয়াত শেষ হয়েছে। অন্যকে দোষ দেওয়ার আগে সৎভাবে জিজ্ঞেস করুন, কোথাও নিজের ওপর যুলম করেছি কি না, আর তার জন্য তওবা করুন। এই প্রশ্ন হতাশা নয়। এটি মজবুত জমিতে ফেরার প্রথম ধাপ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Prayer of Ibrahim",
+          "bn": "ইবরাহীম (আঃ)-এর দোয়া"
+        },
+        "p": [
+          {
+            "en": "The Quran's own prayer for this theme belongs to Ibrahim (AS). In 26:87-89 he asks: do not disgrace me on the Day they are resurrected, the Day when neither wealth nor children will benefit, except the one who comes to Allah with a sound heart. It takes the very two things 3:116 says will not avail, and asks for the one thing that will. A believer can recite it as it stands, in the Quran's words.",
+            "bn": "এই বিষয়ে কুরআনের নিজস্ব দোয়াটি ইবরাহীম (আঃ)-এর। ২৬:৮৭-৮৯ আয়াতে তিনি চান: পুনরুত্থানের দিন আমাকে অপমানিত করো না, সেই দিন, যেদিন ধনসম্পদ আর সন্তান কোনো কাজে আসবে না, কেবল সে ছাড়া যে সুস্থ অন্তর নিয়ে আল্লাহর কাছে আসবে। ৩:১১৬ আয়াত যে দুটো জিনিসকে অকেজো বলেছে, দোয়াটি ঠিক সেই দুটোর কথাই বলে, আর চায় সেই একটি জিনিস, যা কাজে আসবে। একজন মুমিন কুরআনের ভাষাতেই দোয়াটি পড়তে পারেন।"
+          },
+          {
+            "en": "What follows is a short supplication composed in the vocabulary of 3:116-117, not a transmitted du'a: O Allah, let nothing I own or love stand between me and You. Accept what I spend for Your sake, protect my harvest from the frost, and do not let me wrong myself. It holds four requests, and each answers a phrase of the two verses.",
+            "bn": "নিচের দোয়াটি ৩:১১৬-১১৭ আয়াতের শব্দ দিয়ে সাজানো ছোট একটি দোয়া, হাদিসে বর্ণিত কোনো দোয়া নয়: হে আল্লাহ, আমার মালিকানার বা ভালোবাসার কোনো কিছুকে আমার আর তোমার মাঝখানে দাঁড়াতে দিয়ো না। তোমার জন্য যা খরচ করি তা কবুল করো, আমার ফসলকে হিমের হাত থেকে রক্ষা করো, আর আমাকে নিজের ওপর যুলম করতে দিয়ো না। এতে চারটি চাওয়া আছে, প্রতিটি এই দুই আয়াতের কোনো না কোনো কথার জবাব।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Counting What Will Last",
+          "bn": "যা টিকবে তার হিসাব"
+        },
+        "p": [
+          {
+            "en": "If everything I own and everyone who stands behind me were taken out of the picture, what would I still be relying on? Of all I spent last month, how much had any intention for Allah behind it, and how much was habit, image or simple convenience? Is there a good deed I do mainly because people expect it of me, and could I renew my intention in it today?",
+            "bn": "আমার সব সম্পদ আর আমার পেছনে দাঁড়ানো সব মানুষকে যদি ছবি থেকে সরিয়ে দেওয়া হয়, তখনো আমি কিসের ওপর ভরসা করব? গত মাসে যা খরচ করেছি, তার কতটার পেছনে আল্লাহর জন্য কোনো নিয়ত ছিল, আর কতটা ছিল অভ্যাস, ভাবমূর্তি বা শুধু সুবিধা? এমন কোনো ভালো কাজ কি আছে যা মূলত করি মানুষ আশা করে বলে? আজই কি সেই কাজে নিয়তটা নতুন করে নিতে পারি?"
+          },
+          {
+            "en": "When something I built fails, do I say that life has wronged me, or do I look for where I wronged myself? Which of my gifts this year would still stand if that frost came tomorrow? And if my heart were weighed tomorrow, stripped of every possession and every relationship, would it be the sound heart that alone benefits on that Day?",
+            "bn": "আমার গড়া কিছু যখন ভেঙে পড়ে, আমি কি বলি জীবন আমার ওপর অবিচার করেছে, নাকি খুঁজি কোথায় নিজের ওপর যুলম করেছি? এ বছর যা দান করেছি, তার কোনগুলো কাল সেই হিম নেমে এলেও টিকে থাকবে? আর কাল যদি আমার অন্তরকে মাপা হয়, সব সম্পদ আর সব সম্পর্ক ছাড়িয়ে, তাহলে কি তা হবে সেই সুস্থ অন্তর, যা সেদিন একমাত্র কাজে আসবে?"
+          }
+        ]
+      }
+    ]
+  },
   "3:133-134": {
     "sections": [
       {
@@ -2450,6 +2870,298 @@ Object.assign(TADABBUR_ARTICLES, {
           {
             "en": "So the verse hands its reader two settled facts and one open question. The facts are that the day of death is fixed and that both kinds of seeker are supplied. The question is which reward is actually being sought, and the honest test of it is not what a person says but what he arranges his week around. A fixed term makes that question urgent rather than gloomy, because it is the one thing about the arrangement that cannot be renegotiated later.",
             "bn": "তাই আয়াতটি পাঠকের হাতে দুটি নিশ্চিত সত্য আর একটি খোলা প্রশ্ন তুলে দেয়। সত্য দুটি হলো: মৃত্যুর দিন নির্ধারিত, আর দুই ধরনের প্রার্থীকেই দেওয়া হয়। প্রশ্নটি হলো, আসলে কোন প্রতিদান চাওয়া হচ্ছে; আর তার সৎ পরীক্ষা মানুষের কথা নয়, বরং সে তার সপ্তাহটি কীসের চারপাশে সাজায় তা-ই। নির্ধারিত মেয়াদ এই প্রশ্নটিকে বিষণ্ন নয়, জরুরি করে তোলে — কারণ গোটা ব্যবস্থাটির মধ্যে কেবল ওই একটি জিনিসই পরে আর নতুন করে আলোচনা করা যায় না।"
+          }
+        ]
+      }
+    ]
+  },
+  "3:146-148": {
+    "sections": [
+      {
+        "h": {
+          "en": "Many Stood Here Before",
+          "bn": "এখানে আগেও অনেকে দাঁড়িয়েছেন"
+        },
+        "p": [
+          {
+            "en": "These three verses sit in the middle of the long passage in which Al Imran, a Madinan surah, goes back over the battle of Uhud. Just before them, 3:144 answers the cry that the Prophet ﷺ had been killed, and 3:145 says that no soul dies except by Allah's permission, at a term already written. Then the address turns from argument to example. Instead of explaining the defeat once more, the Quran points its wounded listeners backwards, to the companions of earlier prophets who had stood where they were now standing.",
+            "bn": "এই তিনটি আয়াত সূরা আলে ইমরানের সেই দীর্ঘ অংশের মাঝখানে, যেখানে মাদানি এই সূরা উহুদ যুদ্ধের দিনটিকে আবার খুলে দেখে। ঠিক আগে ৩:১৪৪ আয়াত জবাব দেয় সেই গুজবের, যে নবী ﷺ নিহত হয়েছেন। ৩:১৪৫ আয়াত বলে, আল্লাহর অনুমতি ছাড়া কেউ মরে না, আর প্রত্যেকের মেয়াদ লেখা আছে। এরপর কথার ধরন বদলে যায়, যুক্তি থেকে দৃষ্টান্তে। পরাজয়ের ব্যাখ্যা আবার না দিয়ে কুরআন আহত শ্রোতাদের পেছনে তাকাতে বলে। দেখায় আগের নবীদের সঙ্গীদের, যাঁরা একদিন ঠিক এই জায়গাতেই দাঁড়িয়েছিলেন।"
+          },
+          {
+            "en": "After the three verses, 3:149 warns that obeying the disbelievers would turn the believers back on their heels, and 3:152 returns to the day itself and what went wrong on it. The placement is careful. Between the rumour of a death and the plain account of the reversal, the listener is shown how faithful people have always carried a wound. The verses name no particular prophet and no particular battle. The picture is left open, so that every later generation can find a place to stand inside it.",
+            "bn": "এই তিন আয়াতের পরে ৩:১৪৯ আয়াত সতর্ক করে, কাফিরদের কথা মানলে তারা মুমিনদের উল্টো পায়ে ফিরিয়ে দেবে। আর ৩:১৫২ আয়াত ফিরে যায় সেই দিনে, সেদিন কী ভুল হয়েছিল সেই কথায়। জায়গাটা ভেবেচিন্তে বাছা। মৃত্যুর গুজব আর বিপর্যয়ের সোজা বিবরণের মাঝখানে শ্রোতাকে দেখানো হয়, ঈমানদার মানুষ চিরকাল কীভাবে আঘাত বয়ে নিয়েছেন। আয়াতগুলো কোনো নির্দিষ্ট নবী বা নির্দিষ্ট যুদ্ধের নাম নেয় না। ছবিটা খোলা রাখা হয়েছে, যাতে পরের প্রতিটি প্রজন্ম এর ভেতরে নিজের জায়গা খুঁজে পায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ribbiyyun and Three Refusals",
+          "bn": "রিব্বিয়্যূন আর তিনটি না"
+        },
+        "p": [
+          {
+            "en": "Wa ka'ayyin min nabiyyin: and how many a prophet. Ka'ayyin points to a large number without counting it. Ribbiyyun kathir, many ribbiyyun, is the word the app renders religious scholars. Ibn Kathir gathers what the early authorities said about it: Ibn Mas'ud (RA) is reported to have explained it as thousands; Ibn Abbas (RA), Mujahid, Qatadah and others as large bands; and al-Hasan al-Basri as scholars, patient and devout. The explanations do not cancel one another. The men beside those prophets were many, and they were people of their Lord.",
+            "bn": "ওয়া কাআইয়্যিম মিন নাবিয়্যিন, আর কত নবী! কাআইয়্যিন শব্দটি গুনে না দেখিয়ে বিরাট সংখ্যার দিকে ইশারা করে। রিব্বিয়্যূনা কাসীর, বহু রিব্বিয়্যূন। অ্যাপের ইংরেজি অনুবাদ একে বলেছে ধর্মজ্ঞ আলেম। ইবনে কাসীর এ শব্দ নিয়ে পূর্বসূরিদের কথা একত্র করেছেন। ইবনে মাসউদ (রাঃ) থেকে বর্ণিত, এর অর্থ হাজার হাজার। ইবনে আব্বাস (রাঃ), মুজাহিদ, কাতাদা প্রমুখ বলেছেন বড় বড় দল। আর হাসান বসরি বলেছেন ধৈর্যশীল, মুত্তাকি আলেম। ব্যাখ্যাগুলো একটা আরেকটাকে বাতিল করে না। সেই নবীদের পাশে যাঁরা ছিলেন, তাঁরা সংখ্যায়ও ছিলেন অনেক, আবার ছিলেন তাঁদের রবের একান্ত লোক।"
+          },
+          {
+            "en": "Then come three verbs, each negated: fa ma wahanu, wa ma da'ufu, wa mastakanu. They did not lose heart, they did not weaken, and they did not give in. Read in order, they trace the road a defeat usually travels: first the heart sags, then strength and effort thin out, and at last a person lowers himself before the enemy. Ibn Kathir reports Ibn Abbas (RA) explaining the last verb as they were not humbled, and as-Suddi and Ibn Zayd as they did not give in to the enemy. These people closed that road at its first gate.",
+            "bn": "এরপর আসে তিনটি ক্রিয়া, প্রতিটির আগে না: ফামা ওয়াহানূ, ওয়ামা দাআফূ, ওয়ামাসতাকানূ। তাঁরা হিম্মত হারাননি, দুর্বল হননি, মাথাও নোয়াননি। ক্রম ধরে পড়লে দেখা যায়, পরাজয় সাধারণত কোন পথে এগোয়। প্রথমে মন ভেঙে পড়ে, তারপর শক্তি আর চেষ্টা ক্ষয়ে যায়, শেষে মানুষ শত্রুর সামনে নিজেকে নত করে দেয়। ইবনে কাসীর জানান, শেষ ক্রিয়াটির অর্থ ইবনে আব্বাস (রাঃ) করেছেন তাঁরা অপদস্থ হননি, আর সুদ্দি ও ইবনে যায়দ করেছেন তাঁরা শত্রুর কাছে হার মানেননি। এই মানুষগুলো সেই পথ প্রথম দরজাতেই বন্ধ করে দিয়েছিলেন।"
+          },
+          {
+            "en": "The first verse closes on wallahu yuhibbu as-sabirin, and Allah loves the steadfast. It never claims these people were not hurt. It says lima asabahum fi sabilillah, for what struck them in the way of Allah, so the wound is admitted in the same sentence as the refusals. Sabr here is not the absence of injury. It is what the three refusals add up to once injury has already arrived, and the verse names it as something Allah loves rather than something He merely tolerates.",
+            "bn": "প্রথম আয়াত শেষ হয় ওয়াল্লাহু ইউহিব্বুস সাবিরীন দিয়ে, আল্লাহ ধৈর্যশীলদের ভালোবাসেন। আয়াত কোথাও দাবি করে না যে তাঁদের গায়ে আঘাত লাগেনি। বরং বলে লিমা আসাবাহুম ফী সাবীলিল্লাহ, আল্লাহর পথে তাঁদের ওপর যা এসে পড়েছিল। তিনটি না যে বাক্যে, আঘাতের স্বীকারও সেই বাক্যেই। তাই এখানে সবর মানে আঘাত না পাওয়া নয়। আঘাত এসে যাওয়ার পরে ওই তিনটি না মিলে যা দাঁড়ায়, সেটাই সবর। আর আয়াত একে বলেছে আল্লাহর ভালোবাসার জিনিস, কেবল সয়ে নেওয়ার জিনিস নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fought Beside Him, or Lost Him",
+          "bn": "তাঁর পাশে লড়াই, নাকি তাঁকে হারানো"
+        },
+        "p": [
+          {
+            "en": "The verb at the centre is recited in two ways among the canonical readings: qatala, fought, which the app's translation follows, and qutila, was killed. Ibn Kathir sets out the explanations side by side. One, which he says at-Tabari chose, is that many prophets and many of their companions were killed in earlier times. Another is that many prophets saw their companions killed before their eyes. A third he cites from Ibn Ishaq's Sirah: a prophet was killed, and the many devoted men with him did not lose heart after he was gone.",
+            "bn": "আয়াতের কেন্দ্রের ক্রিয়াটি স্বীকৃত কিরাআতগুলোতে দুইভাবে পড়া হয়: কাতালা, লড়াই করেছেন, অ্যাপের অনুবাদ এটাই অনুসরণ করেছে; আর কুতিলা, নিহত হয়েছেন। ইবনে কাসীর ব্যাখ্যাগুলো পাশাপাশি রাখেন। একটি ব্যাখ্যা, যা তাঁর ভাষ্যে ইমাম তাবারি গ্রহণ করেছেন, হলো আগের যুগে বহু নবী ও তাঁদের বহু সঙ্গী নিহত হয়েছেন। আরেকটি হলো, বহু নবী নিজের চোখের সামনে সঙ্গীদের নিহত হতে দেখেছেন। তৃতীয়টি তিনি এনেছেন ইবনে ইসহাকের সীরাত থেকে: একজন নবী নিহত হলেন, আর তাঁর সঙ্গের আল্লাহভক্ত বহু মানুষ তাঁর চলে যাওয়ার পরেও হিম্মত হারাননি।"
+          },
+          {
+            "en": "Ibn Kathir adds that as-Suhayli agreed with Ibn Ishaq's explanation and defended it strongly, and it fits the hour closely. A cry had gone up on the field that the Prophet ﷺ was dead, and 3:144 had just asked whether they would turn back if he died or was killed. On this reading the answer is a precedent: earlier companions lost their prophet and kept to his path. Qatadah and ar-Rabi' ibn Anas, also cited by Ibn Kathir, took nor did they weaken to mean after their prophet was killed. On any of the readings, the lesson stands.",
+            "bn": "ইবনে কাসীর আরও জানান, সুহাইলি ইবনে ইসহাকের ব্যাখ্যার সঙ্গে একমত হয়ে জোরালোভাবে তা সমর্থন করেছেন। সময়টার সঙ্গেও ব্যাখ্যাটি খুব মেলে। ময়দানে রব উঠেছিল যে নবী ﷺ আর নেই, আর ৩:১৪৪ আয়াত সবে জিজ্ঞেস করেছে, তিনি মারা গেলে বা নিহত হলে তোমরা কি পিছু ফিরবে? এই ব্যাখ্যায় জবাবটা একটা নজির। আগের সঙ্গীরা নিজেদের নবীকে হারিয়েও তাঁর পথে অটল ছিলেন। ইবনে কাসীর কাতাদা ও রাবি ইবনে আনাসের কথাও আনেন: তাঁরা দুর্বল হননি মানে নবী নিহত হওয়ার পরেও। যে ব্যাখ্যাই ধরা হোক, শিক্ষাটা একই থাকে।"
+          },
+          {
+            "en": "On 3:148 Ibn Kathir explains the reward of this world as victory, triumph and a good end, with the excellent reward of the Hereafter added on top of those gains. The commentators have long noticed that only the Hereafter's reward is qualified with husn, goodness, which marks it as the greater of the two. The portrait also closes on a different word from the one it opened with. 3:146 ended by calling these men steadfast; 3:148 ends with wallahu yuhibbu al-muhsinin, and Allah loves the doers of good.",
+            "bn": "৩:১৪৮ আয়াতের ব্যাখ্যায় ইবনে কাসীর বলেন, দুনিয়ার প্রতিদান মানে সাহায্য, বিজয় আর শুভ পরিণতি, আর এসব লাভের ওপরে যোগ হয়েছে আখিরাতের উত্তম প্রতিদান। মুফাসসিরগণ বহু আগেই লক্ষ করেছেন, দুটি প্রতিদানের মধ্যে কেবল আখিরাতেরটির সঙ্গে হুসন, উত্তমতা, শব্দটি জোড়া হয়েছে। এতে বোঝা যায়, দুটির মধ্যে ওটিই বড়। ছবিটা যে শব্দে শুরু হয়েছিল, শেষ হয় অন্য শব্দে। ৩:১৪৬ আয়াত এই মানুষদের বলেছে ধৈর্যশীল। আর ৩:১৪৮ আয়াত শেষ হয় ওয়াল্লাহু ইউহিব্বুল মুহসিনীন দিয়ে, আল্লাহ সৎকর্মশীলদের ভালোবাসেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Man Who Did Not Give In",
+          "bn": "যিনি হার মানেননি"
+        },
+        "p": [
+          {
+            "en": "No hadith explains these verses word by word, but al-Bukhari preserves a scene from Uhud that shows the portrait in a single man. Anas ibn Malik (RA) relates that his uncle, Anas ibn an-Nadr (RA), had missed Badr and had said that if Allah let him witness fighting beside the Prophet ﷺ, Allah would see what he would do. At Uhud, when the Muslims fell back, he said: O Allah, I apologise to You for what these have done, meaning his companions, and I disown what those have done, meaning the idolaters.",
+            "bn": "এই আয়াতগুলোর শব্দ ধরে ধরে ব্যাখ্যা করে এমন কোনো হাদিস নেই। তবে ইমাম বুখারি উহুদের একটি দৃশ্য সংরক্ষণ করেছেন, যেখানে পুরো ছবিটা একজন মানুষের মধ্যে ধরা পড়ে। আনাস ইবনে মালিক (রাঃ) বর্ণনা করেন, তাঁর চাচা আনাস ইবনে নাদর (রাঃ) বদরে উপস্থিত থাকতে পারেননি। তিনি বলেছিলেন, আল্লাহ যদি নবী ﷺ-এর সঙ্গে কোনো যুদ্ধে শরিক হওয়ার সুযোগ দেন, আল্লাহ দেখবেন তিনি কী করেন। উহুদে মুসলিমরা যখন পিছু হটলেন, তিনি বললেন: হে আল্লাহ, এরা যা করেছে তার জন্য তোমার কাছে ওজর পেশ করছি, অর্থাৎ তাঁর সাথিরা; আর ওরা যা করেছে তা থেকে নিজেকে মুক্ত ঘোষণা করছি, অর্থাৎ মুশরিকরা।"
+          },
+          {
+            "en": "Then he went forward. He met Sa'd ibn Mu'adh (RA) and told him that he could smell Paradise from beyond Uhud, and he fought until he was killed. Anas (RA) said they found more than eighty wounds of sword, spear and arrow on his body, and that only his sister recognised him, by his fingers. In the same report Anas (RA) says they used to think that 33:23 had come down about him and men like him. His heart did not sag, his strength did not thin, and he did not give in.",
+            "bn": "তারপর তিনি সামনে এগিয়ে গেলেন। সা'দ ইবনে মুআয (রাঃ)-এর সঙ্গে দেখা হলে বললেন, উহুদের ওপাশ থেকে তিনি জান্নাতের সুবাস পাচ্ছেন। এরপর লড়তে লড়তে শহীদ হলেন। আনাস (রাঃ) বলেন, তাঁর দেহে তলোয়ার, বর্শা আর তীরের আশিটিরও বেশি আঘাত পাওয়া গিয়েছিল। তাঁর বোন ছাড়া কেউ তাঁকে চিনতে পারেননি, আর বোন চিনেছিলেন আঙুল দেখে। একই বর্ণনায় আনাস (রাঃ) বলেন, তাঁদের ধারণা ছিল ৩৩:২৩ আয়াত তাঁর ও তাঁর মতো মানুষদের ব্যাপারেই নাযিল হয়েছে। তাঁর মন ভাঙেনি, শক্তি ক্ষয়ে যায়নি, আর তিনি হার মানেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Firm Feet Elsewhere in the Book",
+          "bn": "কুরআনের অন্যত্র অবিচল পা"
+        },
+        "p": [
+          {
+            "en": "2:250 is the nearest echo. Talut's small army, going out to face Jalut and his soldiers, said: our Lord, pour upon us patience, plant firmly our feet and give us victory over the disbelieving people. The last two requests match 3:147 closely. The difference is at the start: Talut's men ask first for patience, while the companions of the prophets ask first for forgiveness. 2:214 adds that such shaking is the ordinary road, since those before were shaken until the messenger and the believers with him asked when Allah's help would come, and were told it is near.",
+            "bn": "সবচেয়ে কাছের প্রতিধ্বনি ২:২৫০ আয়াত। জালূত ও তার সৈন্যদের মুখোমুখি হতে বেরিয়ে তালূতের ছোট বাহিনী বলেছিল: হে আমাদের রব, আমাদের ওপর ধৈর্য ঢেলে দাও, আমাদের পা অবিচল রাখো, আর কাফির সম্প্রদায়ের বিরুদ্ধে আমাদের জয় দাও। শেষের দুটি চাওয়া ৩:১৪৭ আয়াতের সঙ্গে প্রায় হুবহু মেলে। পার্থক্য শুরুতে। তালূতের লোকেরা প্রথমে চেয়েছেন ধৈর্য, আর নবীদের সঙ্গীরা প্রথমে চেয়েছেন মাফ। ২:২১৪ আয়াত জানায়, এমন কেঁপে ওঠাই স্বাভাবিক পথ। আগের লোকেরাও এতটা কেঁপে উঠেছিলেন যে রসূল ও তাঁর সঙ্গের মুমিনরা বলেছিলেন, আল্লাহর সাহায্য কখন আসবে? জবাব এসেছিল, তা নিকটেই।"
+          },
+          {
+            "en": "33:23, which Anas (RA) linked to his uncle, praises believers who were true to what they promised Allah: some have fulfilled their vow, some are still waiting, and none of them changed at all. 8:45 turns the portrait into a command for every later army: when you meet a force, stand firm and remember Allah much, so that you may succeed. And 3:139, a few verses before this passage, had already told the same community not to weaken and not to grieve, for they would be uppermost if they were believers.",
+            "bn": "৩৩:২৩ আয়াত, যাকে আনাস (রাঃ) তাঁর চাচার সঙ্গে যুক্ত করেছেন, সেই মুমিনদের প্রশংসা করে যাঁরা আল্লাহকে দেওয়া কথা সত্য করে দেখিয়েছেন। কেউ অঙ্গীকার পূর্ণ করে চলে গেছেন, কেউ এখনও অপেক্ষায়, আর তাঁরা কেউ একটুও বদলাননি। ৮:৪৫ আয়াত এই ছবিকে পরের সব বাহিনীর জন্য আদেশে পরিণত করে: কোনো দলের মুখোমুখি হলে অবিচল থাকো আর আল্লাহকে বেশি বেশি স্মরণ করো, যাতে সফল হতে পারো। আর এই অংশের কয়েক আয়াত আগে ৩:১৩৯ আয়াত একই সমাজকে বলে দিয়েছিল, দুর্বল হয়ো না, দুঃখ করো না; তোমরা মুমিন হলে তোমরাই ওপরে থাকবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Forgiveness Before Victory",
+          "bn": "বিজয়ের আগে মাফ"
+        },
+        "p": [
+          {
+            "en": "3:147 opens with a restriction: wa ma kana qawlahum illa an qalu, their words were nothing but that they said. In an hour of injury the verse records no complaint from them about allies, leaders or the enemy's numbers. The only speech it preserves is a prayer, and the prayer begins with their own sins and their own israf, which at-Tafsir al-Muyassar explains as whatever they had overstepped in the matter of their religion. They looked for the cause of weakness inside before they asked for help against anyone outside.",
+            "bn": "৩:১৪৭ আয়াত শুরু হয় একটি সীমা টেনে: ওয়ামা কানা কাওলাহুম ইল্লা আন কালূ, তাঁদের কথা এ ছাড়া আর কিছুই ছিল না। আঘাতের সেই সময়ে মিত্র, নেতা বা শত্রুর সংখ্যা নিয়ে তাঁদের কোনো অভিযোগ আয়াত উল্লেখ করে না। আয়াত তাঁদের একটি কথাই সংরক্ষণ করেছে, একটি দোয়া। আর দোয়াটি শুরু হয়েছে নিজেদের গুনাহ আর নিজেদের ইসরাফ দিয়ে। আত-তাফসীরুল মুয়াসসার ইসরাফের ব্যাখ্যা করেছে দ্বীনের ব্যাপারে তাঁদের দ্বারা যে সীমালঙ্ঘন ঘটেছে তা। বাইরের কারও বিরুদ্ধে সাহায্য চাওয়ার আগে তাঁরা দুর্বলতার কারণ খুঁজেছেন নিজেদের ভেতরে।"
+          },
+          {
+            "en": "Carried into ordinary life, that is a method for a bad season. When a project collapses, a marriage is strained, or a community loses ground, the first speech is istighfar rather than the search for someone to blame. The second is a request for firm feet, meaning the strength to be back at the task tomorrow. Only then comes the request for the outcome. A week lived this way might mean a fixed time each morning for istighfar, and the next day's duties kept even while the result is still unknown.",
+            "bn": "সাধারণ জীবনে এটা খারাপ সময় পার করার একটা পদ্ধতি। কোনো উদ্যোগ ভেঙে পড়লে, সংসারে টান ধরলে, বা কোনো সমাজ পিছিয়ে পড়লে প্রথম কথা হবে ইস্তিগফার, দোষ চাপানোর মতো কাউকে খোঁজা নয়। দ্বিতীয় কথা অবিচল পা চাওয়া, অর্থাৎ কাল আবার কাজে ফিরে আসার শক্তি। ফলাফল চাওয়া আসবে তার পরে। এভাবে একটা সপ্তাহ কাটানো মানে হতে পারে প্রতিদিন সকালে ইস্তিগফারের জন্য একটা নির্দিষ্ট সময় রাখা। আর ফল কী হবে না জেনেও পরদিনের দায়িত্বগুলো ঠিকঠাক পালন করে যাওয়া।"
+          },
+          {
+            "en": "The verses also free a person from a quiet trap. Many feel they must first be clean of sin before they may ask Allah for help. These people named their sins and their excess in the same breath as they asked for victory, and 3:148 says Allah gave them the reward of both worlds and loves them as doers of good. Admitting a fault did not disqualify them from help. In this passage it was the first step towards it, and nothing in the verses suggests the order was accidental.",
+            "bn": "আয়াতগুলো মানুষকে একটা নীরব ফাঁদ থেকেও মুক্ত করে। অনেকে মনে করেন, আল্লাহর কাছে সাহায্য চাওয়ার আগে আগে গুনাহ থেকে পুরোপুরি পাক হতে হবে। অথচ এই মানুষগুলো যে নিঃশ্বাসে বিজয় চেয়েছেন, সেই নিঃশ্বাসেই নিজেদের গুনাহ আর বাড়াবাড়ির কথা বলেছেন। আর ৩:১৪৮ আয়াত বলছে, আল্লাহ তাঁদের দুই জগতের প্রতিদান দিয়েছেন এবং সৎকর্মশীল হিসেবে তাঁদের ভালোবাসেন। দোষ স্বীকার করায় তাঁরা সাহায্যের অযোগ্য হয়ে যাননি। এই অংশে সেটাই ছিল সাহায্যের প্রথম ধাপ, আর ক্রমটা যে এলোমেলো ছিল, আয়াতে তার কোনো ইঙ্গিত নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Their Prayer on Our Tongues",
+          "bn": "তাঁদের দোয়া আমাদের মুখে"
+        },
+        "p": [
+          {
+            "en": "The du'a here is the verse itself, and it can be said exactly as it stands: Rabbana ighfir lana dhunubana wa israfana fi amrina wa thabbit aqdamana wansurna 'alal-qawmil-kafirin. Our Lord, forgive us our sins and the excess in our affairs, plant firmly our feet, and give us victory over the disbelieving people. It holds three requests, and the first of them asks forgiveness for two things, sins and excess. Allah preserved these words from people He says He loves.",
+            "bn": "এখানে দোয়া হলো আয়াতটি নিজেই, আর যেমন আছে তেমনই পড়া যায়: রাব্বানাগফির লানা যুনূবানা ওয়া ইসরাফানা ফী আমরিনা ওয়া সাব্বিত আকদামানা ওয়ানসুরনা আলাল কাওমিল কাফিরীন। হে আমাদের রব, আমাদের গুনাহ আর আমাদের কাজে আমাদের বাড়াবাড়ি মাফ করে দাও, আমাদের পা অবিচল রাখো, আর কাফির সম্প্রদায়ের বিরুদ্ধে আমাদের সাহায্য করো। এতে চাওয়া তিনটি, আর প্রথম চাওয়াটিতে মাফ চাওয়া হয়েছে দুটি জিনিসের জন্য: গুনাহ আর বাড়াবাড়ি। যাঁদের আল্লাহ ভালোবাসেন বলে জানিয়েছেন, তাঁদের মুখের এই কথাগুলো তিনি নিজেই সংরক্ষণ করেছেন।"
+          },
+          {
+            "en": "It suits more than a battlefield. Firm feet are needed in a hospital corridor, before a hard conversation, and in the week after a failure. The people against whom help is asked, in the verse, are those who reject Allah, not a rival at work or a difficult relative, and the prayer should be kept to that meaning. A believer who says it in sujud, or after an obligatory prayer, is asking in words that were first spoken by wounded people and then kept in the Book for every wounded person after them.",
+            "bn": "দোয়াটি শুধু যুদ্ধের ময়দানের জন্য নয়। হাসপাতালের করিডোরে, কঠিন কোনো আলাপের আগে, ব্যর্থতার পরের সপ্তাহে, সব জায়গাতেই অবিচল পা দরকার। তবে আয়াতে যাদের বিরুদ্ধে সাহায্য চাওয়া হয়েছে, তারা আল্লাহকে অস্বীকারকারী। কর্মস্থলের প্রতিদ্বন্দ্বী বা ঝামেলার কোনো আত্মীয় নয়, আর দোয়াটিকে সেই অর্থেই রাখা উচিত। সিজদায় বা ফরজ নামাজের পরে কেউ এ দোয়া পড়লে তিনি চাইছেন এমন কথায়, যা প্রথম বলেছিলেন আহত মানুষেরা। তারপর তাঁদের পরের প্রতিটি আহত মানুষের জন্য কথাগুলো কিতাবে রেখে দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions for a Wounded Season",
+          "bn": "আহত সময়ের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "When something I care about has been struck, what are the first words that actually leave my mouth: blame, complaint, or a prayer? Of the three refusals in 3:146, which is hardest for me: keeping my heart from sagging, keeping my effort from thinning, or refusing to give in to the pressure around me? And do I ever put off asking Allah for help because I do not yet feel clean enough to ask?",
+            "bn": "প্রিয় কিছুতে আঘাত এলে আমার মুখ থেকে সত্যি সত্যি প্রথম কোন কথাটা বেরোয়: দোষারোপ, অভিযোগ, নাকি দোয়া? ৩:১৪৬ আয়াতের তিনটি না-এর মধ্যে কোনটা আমার জন্য সবচেয়ে কঠিন: মন ভেঙে পড়তে না দেওয়া, চেষ্টা ঢিলে হতে না দেওয়া, নাকি চারপাশের চাপের কাছে হার না মানা? আর নিজেকে এখনও যথেষ্ট পাক মনে হয় না বলে আমি কি কখনো আল্লাহর কাছে সাহায্য চাওয়া পিছিয়ে দিই?"
+          },
+          {
+            "en": "Who in my own life, a parent, a teacher, a friend, has carried a wound without weakening, and have I ever told them what it taught me? If my words in my last hard hour had been preserved the way theirs were, would I want them read back to me? And which task waiting for me tomorrow needs firm feet far more than it needs a good result?",
+            "bn": "আমার নিজের জীবনে কে, বাবা-মা, কোনো শিক্ষক বা বন্ধু, আঘাত বয়ে নিয়েও দুর্বল হননি? আর তাঁর কাছ থেকে কী শিখেছি, সেটা কি কখনো তাঁকে জানিয়েছি? আমার শেষ কঠিন সময়ে বলা কথাগুলো যদি তাঁদের কথার মতো সংরক্ষিত থাকত, সেগুলো কি আমি আবার শুনতে চাইতাম? আর কাল আমার সামনে কোন কাজটা আছে, যেখানে ভালো ফলের চেয়ে অবিচল পা অনেক বেশি দরকার?"
+          }
+        ]
+      }
+    ]
+  },
+  "3:152": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Promise Kept, Then a Turn",
+          "bn": "পূরণ হওয়া ওয়াদা, তারপর মোড়"
+        },
+        "p": [
+          {
+            "en": "The verse comes inside Al Imran's long reading of Uhud, directly after a promise. 3:150 says Allah is the protector of the believers and the best of helpers, and 3:151 says He will cast terror into the hearts of those who disbelieve. Then 3:152 turns to the day itself and begins with what had really happened at its start: Allah had fulfilled His promise. The Quran does not let the defeat erase the opening hours of the battle, when the believers were pressing forward and the enemy line was giving way.",
+            "bn": "আয়াতটি সূরা আলে ইমরানে উহুদ নিয়ে দীর্ঘ আলোচনার ভেতরে, ঠিক একটি ওয়াদার পরে। ৩:১৫০ আয়াত বলে, আল্লাহই মুমিনদের অভিভাবক, তিনিই শ্রেষ্ঠ সাহায্যকারী। ৩:১৫১ আয়াত বলে, তিনি কাফিরদের অন্তরে ভয় ঢেলে দেবেন। এরপর ৩:১৫২ আয়াত সেই দিনের কথায় ফেরে, আর শুরু করে দিনের শুরুতে আসলে যা ঘটেছিল তা দিয়ে: আল্লাহ তাঁর ওয়াদা পূরণ করেছিলেন। পরাজয়ের কারণে কুরআন যুদ্ধের প্রথম প্রহরগুলো মুছে যেতে দেয় না। সেই প্রহরে মুমিনরা সামনে এগোচ্ছিলেন, আর শত্রুর সারি ভেঙে পড়ছিল।"
+          },
+          {
+            "en": "What follows keeps to the same day. 3:153 pictures the believers climbing away without looking aside at anyone while the Messenger ﷺ called them from behind; 3:154 sends drowsiness upon a party of them as security; and 3:155 says that Allah has already forgiven those who turned back. The seerah fills in the scene the verse compresses. Sahih al-Bukhari 3039 records that fifty archers were set on a low hill under Abdullah ibn Jubayr (RA) and told not to leave it until word was sent to them.",
+            "bn": "পরের আয়াতগুলোও সেই দিনেই থাকে। ৩:১৫৩ আয়াত দেখায়, মুমিনরা কারও দিকে না তাকিয়ে ওপরের দিকে উঠে যাচ্ছেন, আর রসূল ﷺ পেছন থেকে তাঁদের ডাকছেন। ৩:১৫৪ আয়াতে আল্লাহ তাঁদের একদলের ওপর প্রশান্তির তন্দ্রা নামিয়ে দেন। আর ৩:১৫৫ আয়াত বলে, যাঁরা পিছু ফিরেছিলেন, আল্লাহ তাঁদের মাফ করে দিয়েছেন। আয়াত যে দৃশ্য সংক্ষেপে বলে, সীরাত তা ভরাট করে। সহিহ বুখারির ৩০৩৯ নম্বর হাদিসে আছে, আবদুল্লাহ ইবনে জুবাইর (রাঃ)-এর নেতৃত্বে পঞ্চাশজন তীরন্দাজকে একটি নিচু টিলায় রাখা হয়েছিল। বলা হয়েছিল, খবর না পাঠানো পর্যন্ত তাঁরা যেন জায়গা না ছাড়েন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Losing Heart, Disputing, Disobeying",
+          "bn": "সাহস হারানো, মতভেদ, অবাধ্যতা"
+        },
+        "p": [
+          {
+            "en": "Idh tahussunahum bi-idhnihi: when you were cutting them down by His permission. Ibn Kathir glosses it as slaying your enemies, and adds that Allah had allowed it. Then comes hatta idha, until when, and three verbs in a row: fashiltum, you lost courage, as Ibn Abbas (RA) explained it; wa tanaza'tum fil-amr, and you disputed about the order; wa 'asaytum, and you disobeyed. The first is a state of the heart, the second a quarrel among people, the third an act. The verse names each one without adding a single insult.",
+            "bn": "ইয তাহুসসূনাহুম বি-ইযনিহী: যখন তোমরা তাঁর অনুমতিতে তাদের কচুকাটা করছিলে। ইবনে কাসীর এর অর্থ করেছেন শত্রুদের হত্যা করা, আর যোগ করেছেন যে আল্লাহই তা করতে দিয়েছিলেন। এরপর আসে হাত্তা ইযা, অবশেষে যখন, আর পরপর তিনটি ক্রিয়া। ফাশিলতুম, তোমরা সাহস হারালে, ইবনে আব্বাস (রাঃ) এভাবেই ব্যাখ্যা করেছেন। ওয়া তানাযাতুম ফিল আমর, আর নির্দেশ নিয়ে মতভেদ করলে। ওয়া আসাইতুম, আর অবাধ্য হলে। প্রথমটি অন্তরের অবস্থা, দ্বিতীয়টি মানুষে মানুষে টানাপোড়েন, তৃতীয়টি একটি কাজ। আয়াত তিনটিরই নাম নেয়, কিন্তু একটিও গালমন্দ যোগ করে না।"
+          },
+          {
+            "en": "Then a phrase fixes the timing: min ba'di ma arakum ma tuhibbun, after He had shown you what you love. Ibn Kathir explains what they loved as victory over the disbelievers. The failure did not come while the battle hung in doubt; it came at the moment the battle seemed won. The grammarians have also noticed that the sentence opened by until when does not state in so many words what followed, and they differ over where its answer lies. The reader, who knows how the day ended, supplies it.",
+            "bn": "এরপর একটি বাক্যাংশ সময়টা বেঁধে দেয়: মিম বাদি মা আরাকুম মা তুহিব্বূন, তোমরা যা ভালোবাস তা তিনি তোমাদের দেখিয়ে দেওয়ার পরে। ইবনে কাসীর বলেন, সেই প্রিয় জিনিসটি ছিল কাফিরদের ওপর বিজয়। অর্থাৎ ভুলটা হয়নি যখন যুদ্ধের ফল অনিশ্চিত ছিল। হয়েছে ঠিক তখন, যখন যুদ্ধ জেতা হয়ে গেছে বলে মনে হচ্ছিল। আরবি ব্যাকরণবিদরা আরও লক্ষ করেছেন, অবশেষে যখন দিয়ে শুরু হওয়া বাক্যটি এরপর কী ঘটল তা স্পষ্ট শব্দে বলে না। এর জবাব কোথায়, তা নিয়ে তাঁদের মধ্যে মতভেদ আছে। দিনটা কীভাবে শেষ হয়েছিল পাঠক জানেন, তাই ফাঁকটা তিনি নিজেই পূরণ করে নেন।"
+          },
+          {
+            "en": "The verse opens with wa laqad sadaqakumullahu wa'dah, and Allah had certainly fulfilled His promise to you, and near its end it says wa laqad 'afa 'ankum, and He has certainly pardoned you. The same emphatic laqad stands at both points. Between the kept promise and the pardon lies everything that went wrong, and both ends are stated with equal force. Nothing that happened in the middle is allowed to cancel the promise that came before it or the pardon that came after it.",
+            "bn": "আয়াত শুরু হয় ওয়া লাকাদ সাদাকাকুমুল্লাহু ওয়াদাহ দিয়ে, আল্লাহ অবশ্যই তোমাদের সঙ্গে তাঁর ওয়াদা পূরণ করেছিলেন। আর শেষের দিকে বলে ওয়া লাকাদ আফা আনকুম, আর তিনি অবশ্যই তোমাদের মাফ করে দিয়েছেন। দুই জায়গাতেই আছে জোর দেওয়ার একই শব্দ, লাকাদ। পূরণ হওয়া ওয়াদা আর মাফের মাঝখানে পড়ে আছে ভুল হয়ে যাওয়া সবকিছু। কিন্তু দুই প্রান্তের কথাই বলা হয়েছে সমান জোরে। মাঝখানে যা ঘটেছে, তা আগের ওয়াদাকেও বাতিল করতে পারে না, পরের মাফকেও না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Wanted What",
+          "bn": "কে কী চেয়েছিলেন"
+        },
+        "p": [
+          {
+            "en": "Minkum man yuridu ad-dunya wa minkum man yuridu al-akhirah: among you are some who want this world and some who want the Hereafter. Ibn Kathir says the first refers to those who went after the spoils when they saw the enemy routed, and the commentators take the second to include Abdullah ibn Jubayr (RA) and the few who stayed on the hill with him. The verse itself names no one. It describes two motives inside a single army, and it leaves the sorting of individual hearts to Allah.",
+            "bn": "মিনকুম মাই ইউরীদুদ দুনইয়া ওয়া মিনকুম মাই ইউরীদুল আখিরাহ: তোমাদের কেউ চায় দুনিয়া, আর কেউ চায় আখিরাত। ইবনে কাসীর বলেন, প্রথম দল তাঁরা, যাঁরা শত্রুকে পালাতে দেখে গনিমতের দিকে ছুটেছিলেন। আর মুফাসসিরগণ দ্বিতীয় দলের মধ্যে ধরেন আবদুল্লাহ ইবনে জুবাইর (রাঃ) ও তাঁর সঙ্গে টিলায় থেকে যাওয়া অল্প কয়েকজনকে। আয়াত নিজে কারও নাম নেয় না। একই বাহিনীর ভেতরের দুটি উদ্দেশ্যের কথা বলে, আর কার অন্তরে কী ছিল, সেই বাছাই আল্লাহর হাতে ছেড়ে দেয়।"
+          },
+          {
+            "en": "Imam Ahmad records from Abdullah ibn Mas'ud (RA) that he had not thought any of the Companions of the Prophet ﷺ wanted this world until this verse came down about them on the day of Uhud. The remark is not an accusation thrown at others. It is a Companion's own honesty about his community, and it shows how the Companions (RA) received the verse: as a mirror held up to all of them, not as a charge against a few, and not as a reason to think less of one another afterwards.",
+            "bn": "ইমাম আহমদ আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন, তিনি ভাবতেই পারেননি নবী ﷺ-এর সাহাবিদের কেউ দুনিয়া চাইতে পারেন, যতক্ষণ না উহুদের দিন তাঁদের ব্যাপারে এই আয়াত নাযিল হলো। কথাটি অন্যের দিকে ছুড়ে দেওয়া কোনো অভিযোগ নয়। এ হলো নিজের সমাজ সম্পর্কে একজন সাহাবির নিজের সততা। এতে বোঝা যায় সাহাবিগণ (রাঃ) আয়াতটিকে কীভাবে নিয়েছিলেন: সবার সামনে ধরা আয়না হিসেবে। কয়েকজনের বিরুদ্ধে অভিযোগ হিসেবে নয়, পরে একে অন্যকে ছোট ভাবার কারণ হিসেবেও নয়।"
+          },
+          {
+            "en": "Thumma sarafakum 'anhum li-yabtaliyakum: then He turned you back from them, that He might test you. The turning is attributed to Allah, while 3:165 says of the same disaster that it is from yourselves and 3:166 that it came by Allah's permission; the passage holds both. On the pardon, Ibn Kathir says Allah forgave the error they committed, adding, with Allah knows best, that the enemy was many and well supplied while the Muslims were few. At-Tafsir al-Muyassar says Allah knew their regret and repentance, and so pardoned them.",
+            "bn": "সুম্মা সারাফাকুম আনহুম লিয়াবতালিয়াকুম: তারপর তিনি তোমাদের তাদের কাছ থেকে ফিরিয়ে দিলেন, তোমাদের পরীক্ষা করার জন্য। ফিরিয়ে দেওয়ার কাজটি এখানে আল্লাহর দিকে সম্পর্কিত। অথচ একই বিপর্যয় সম্পর্কে ৩:১৬৫ আয়াত বলে, তা তোমাদের নিজেদের থেকেই, আর ৩:১৬৬ আয়াত বলে, তা আল্লাহর অনুমতিতে। এই অংশ দুটিকেই একসঙ্গে ধরে রাখে। মাফ প্রসঙ্গে ইবনে কাসীর বলেন, আল্লাহ তাঁদের ভুল মাফ করেছেন। আর আল্লাহই ভালো জানেন বলে যোগ করেন, শত্রু ছিল সংখ্যায় বেশি, রসদে ভরপুর, আর মুসলিমরা ছিলেন অল্প। আত-তাফসীরুল মুয়াসসার বলে, আল্লাহ তাঁদের অনুশোচনা ও তওবা জানতেন, তাই মাফ করে দিয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Reports, Two Lessons",
+          "bn": "দুটি বর্ণনা, দুটি শিক্ষা"
+        },
+        "p": [
+          {
+            "en": "Sahih al-Bukhari 3039 carries the account of al-Bara' ibn Azib (RA). The Prophet ﷺ placed fifty archers under Abdullah ibn Jubayr (RA) and told them to hold their place even if they saw birds snatching at the army, and not to leave it, whether the Muslims were winning or losing, until he sent for them. When the enemy broke and fled, some of the archers called out for the spoils and said that their companions had already won. Ibn Jubayr (RA) asked them whether they had forgotten what the Messenger ﷺ had told them.",
+            "bn": "সহিহ বুখারির ৩০৩৯ নম্বর হাদিসে আছে বারা ইবনে আযিব (রাঃ)-এর বর্ণনা। নবী ﷺ আবদুল্লাহ ইবনে জুবাইর (রাঃ)-এর অধীনে পঞ্চাশজন তীরন্দাজ রাখলেন। বললেন, পাখিরা বাহিনীকে ছোঁ মেরে নিয়ে যাচ্ছে দেখলেও যেন তাঁরা জায়গা না ছাড়েন। মুসলিমরা জিতুক বা হারুক, তিনি লোক না পাঠানো পর্যন্ত যেন সেখানেই থাকেন। শত্রু ভেঙে পালাতে শুরু করলে তীরন্দাজদের কয়েকজন গনিমতের জন্য ডাক দিলেন, বললেন তাঁদের সাথিরা তো জিতেই গেছে। ইবনে জুবাইর (রাঃ) তাঁদের জিজ্ঞেস করলেন, রসূল ﷺ তোমাদের কী বলেছিলেন, তা কি ভুলে গেলে?"
+          },
+          {
+            "en": "They answered that they would go down and take their share. In the report the dispute the verse names is visible: Ibn Jubayr (RA) held to the order as it was given, and the others took it to be over once victory had come. Al-Bara' (RA) says that when they went, the Muslims were turned back, and that seventy of them were killed that day, which agrees with the roll of about seventy that Ibn Ishaq gives. The verse and the Companion's report tell the same story, and neither of them softens it.",
+            "bn": "তাঁরা জবাব দিলেন, তাঁরা নেমে গিয়ে নিজেদের ভাগ নেবেন। বর্ণনাটিতে আয়াতের বলা মতভেদটা স্পষ্ট দেখা যায়। ইবনে জুবাইর (রাঃ) নির্দেশটাকে ধরে রাখলেন যেমন দেওয়া হয়েছিল, আর অন্যরা ভাবলেন বিজয় আসার সঙ্গে সঙ্গে নির্দেশের মেয়াদ ফুরিয়েছে। বারা (রাঃ) বলেন, তাঁরা চলে যেতেই মুসলিমরা পিছু হটতে বাধ্য হলেন, আর সেদিন তাঁদের সত্তরজন শহীদ হলেন। ইবনে ইসহাক শহীদদের যে তালিকা দেন, প্রায় সত্তরজনের, তার সঙ্গে এটি মেলে। আয়াত আর সাহাবির বর্ণনা একই ঘটনা বলে, আর কোনোটিই তা নরম করে না।"
+          },
+          {
+            "en": "Al-Bukhari also records how a Companion handled this history when someone tried to use it. A man from Egypt asked Abdullah ibn Umar (RA) whether Uthman (RA) had turned back on the day of Uhud, missed Badr, and been absent from the Pledge of Ridwan. Told yes, he said Allahu akbar. Ibn Umar (RA) then explained each point. Of Uhud he said: I bear witness that Allah has pardoned him and forgiven him. He gave the reasons for the other two, and told the man to take those answers away with him.",
+            "bn": "ইমাম বুখারি আরও বর্ণনা করেছেন, কেউ এই ইতিহাসকে কাজে লাগাতে চাইলে একজন সাহাবি কীভাবে তা সামলেছেন। মিসরের এক লোক আবদুল্লাহ ইবনে উমর (রাঃ)-কে জিজ্ঞেস করল, উসমান (রাঃ) কি উহুদের দিন পিছু ফিরেছিলেন, বদরে অনুপস্থিত ছিলেন, আর বাইআতুর রিদওয়ানে ছিলেন না? হ্যাঁ শুনে লোকটি বলল, আল্লাহু আকবার। তখন ইবনে উমর (রাঃ) একে একে সব ব্যাখ্যা করলেন। উহুদ সম্পর্কে বললেন: আমি সাক্ষ্য দিচ্ছি, আল্লাহ তাঁকে মাফ করেছেন, ক্ষমা করে দিয়েছেন। বাকি দুটির কারণও জানালেন। তারপর লোকটিকে বললেন, এই জবাবগুলো সঙ্গে নিয়ে যাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dispute and Courage Together",
+          "bn": "মতভেদ আর সাহস, একসঙ্গে"
+        },
+        "p": [
+          {
+            "en": "8:46 is the closest sister, and it shares two of this verse's roots: obey Allah and His Messenger, and do not dispute, wa la tanaza'u, and so lose courage, fa-tafshalu, and your strength depart; and be patient, for Allah is with the patient. In al-Anfal, the surah of Badr, this comes as a warning in advance. In 3:152 the same two words describe what actually happened at Uhud. Al-Anfal warns that dispute leads to loss of courage; Al Imran reports the two side by side.",
+            "bn": "সবচেয়ে কাছের সঙ্গী ৮:৪৬ আয়াত, আর এই আয়াতের দুটি মূল সেখানেও আছে: আল্লাহ ও তাঁর রসূলের আনুগত্য করো, ওয়া লা তানাযাউ, পরস্পরে বিবাদ করো না, ফাতাফশালূ, করলে সাহস হারাবে, আর তোমাদের শক্তি চলে যাবে; আর ধৈর্য ধরো, আল্লাহ ধৈর্যশীলদের সঙ্গে আছেন। বদরের সূরা আল-আনফালে কথাটি এসেছে আগাম সতর্কবাণী হিসেবে। আর ৩:১৫২ আয়াতে সেই দুটি শব্দই বলে উহুদে বাস্তবে কী ঘটেছিল। আনফাল সতর্ক করে, বিবাদ সাহস কেড়ে নেয়। আলে ইমরান দুটিকে পাশাপাশি রেখে ঘটনাটা জানায়।"
+          },
+          {
+            "en": "3:155 repeats the pardon for those who turned back when the two armies met, adding that it was Satan who made them slip because of some of what they had earned, and that Allah is Forgiving and Forbearing. 42:30 gives the general rule behind both verses: whatever strikes you of disaster is for what your hands have earned, but He pardons much. And 3:159, a few verses on, tells the Prophet ﷺ to pardon these same people, to ask forgiveness for them, and to consult them in the matter.",
+            "bn": "৩:১৫৫ আয়াত দুই বাহিনী মুখোমুখি হওয়ার দিন যাঁরা পিছু ফিরেছিলেন, তাঁদের মাফের কথা আবার বলে। সঙ্গে জানায়, তাঁদের কিছু কাজের কারণে শয়তান তাঁদের পা পিছলে দিয়েছিল, আর আল্লাহ ক্ষমাশীল, সহনশীল। ৪২:৩০ আয়াত দুটি আয়াতের পেছনের সাধারণ নিয়মটা বলে দেয়: তোমাদের ওপর যে বিপদই আসে, তা তোমাদের হাতের কামাই, তবে তিনি অনেক কিছুই মাফ করে দেন। আর কয়েক আয়াত পরে ৩:১৫৯ আয়াত নবী ﷺ-কে বলে, এই মানুষদেরই মাফ করে দিন, তাঁদের জন্য ক্ষমা চান, আর কাজে তাঁদের সঙ্গে পরামর্শ করুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hour of Success",
+          "bn": "সাফল্যের প্রহর"
+        },
+        "p": [
+          {
+            "en": "The verse places the slip after Allah had shown them what they loved, and that is worth carrying into ordinary life. Discipline is easiest to keep while the outcome is uncertain and hardest once it seems settled. The student relaxes the week good results come back, a business cuts corners the year profits arrive, and someone who has just recovered from an illness drops the routine that helped him recover. The hour of success needs more watchfulness than the hour of danger, not less.",
+            "bn": "আয়াত ভুলটাকে রেখেছে আল্লাহ তাঁদের প্রিয় জিনিস দেখিয়ে দেওয়ার পরে। সাধারণ জীবনেও কথাটা মনে রাখার মতো। ফল যখন অনিশ্চিত, তখন শৃঙ্খলা ধরে রাখা সহজ। ফল যখন নিশ্চিত মনে হয়, তখনই সবচেয়ে কঠিন। ভালো ফল আসার সপ্তাহে ছাত্র ঢিলে দেয়। লাভের বছরে ব্যবসা নিয়মের ফাঁক খোঁজে। সদ্য অসুখ থেকে সেরে ওঠা মানুষ সেই নিয়ম ছেড়ে দেন, যা তাঁকে সারিয়ে তুলেছিল। বিপদের প্রহরের চেয়ে সাফল্যের প্রহরে সতর্কতা বেশি দরকার, কম নয়।"
+          },
+          {
+            "en": "The verse also shows how disagreement goes wrong. Discussing an instruction is not a sin in itself; people have to understand what they have been told. It becomes a step towards failure when it is used to reopen a clear order at the very moment the order becomes inconvenient. A team, a family or a masjid committee can ask one plain question when a rule starts to feel unnecessary: has the reason for it truly passed, or has only our patience with it passed?",
+            "bn": "আয়াতটি দেখায়, মতভেদ কোথায় গিয়ে বিপথে যায়। কোনো নির্দেশ নিয়ে আলোচনা করা নিজে গুনাহ নয়; কী বলা হয়েছে, মানুষকে তা বুঝতে হয়। বিপদ তখন, যখন স্পষ্ট একটা নির্দেশকে ঠিক সেই মুহূর্তে আবার খোলা হয়, যখন সেটা মানতে অসুবিধা লাগছে। তখন মতভেদ ব্যর্থতার একটা ধাপ হয়ে দাঁড়ায়। কোনো নিয়ম অদরকারি মনে হতে শুরু করলে একটা দল, একটা পরিবার বা মসজিদ কমিটি নিজেদের একটা সোজা প্রশ্ন করতে পারে: নিয়মটার কারণ কি সত্যিই ফুরিয়েছে, নাকি ফুরিয়েছে শুধু আমাদের ধৈর্য?"
+          },
+          {
+            "en": "And the verse teaches how to speak about a failure, including other people's. It names what was done, not who did it, and it ends by pardoning and by calling the people believers. A community that tells its hard history this way can learn from it without shaming anyone. The same holds inside a home: once a wrong has been admitted and forgiven, dragging it into every later argument does something the Quran declined to do even about Uhud.",
+            "bn": "আর আয়াতটি শেখায় ভুল নিয়ে কীভাবে কথা বলতে হয়, অন্যের ভুল হলেও। কী করা হয়েছিল তার নাম নেয়, কে করেছিল তার নয়। শেষ করে মাফ দিয়ে, আর মানুষগুলোকে মুমিন বলে ডেকে। নিজের কঠিন ইতিহাস যে সমাজ এভাবে বলে, সে কাউকে লজ্জা না দিয়েও তা থেকে শিখতে পারে। ঘরের ভেতরেও একই কথা। একবার কোনো অন্যায় স্বীকার করা হলো আর মাফ পাওয়া গেল, তারপর প্রতিটি ঝগড়ায় সেটা টেনে আনা মানে এমন কাজ করা, যা কুরআন উহুদের ব্যাপারেও করেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "For Those Who Came Before",
+          "bn": "যাঁরা আগে চলে গেছেন তাঁদের জন্য"
+        },
+        "p": [
+          {
+            "en": "No transmitted du'a is attached to this verse, but 59:10 gives the Quran's own words for the attitude it teaches towards earlier believers: Rabbana ighfir lana wa li-ikhwaninalladhina sabaquna bil-iman wa la taj'al fi qulubina ghillan lilladhina amanu, rabbana innaka ra'ufun rahim. Our Lord, forgive us and our brothers who preceded us in faith, and put no resentment in our hearts towards those who have believed. Our Lord, You are Kind and Merciful.",
+            "bn": "এই আয়াতের সঙ্গে বর্ণিত কোনো দোয়া নেই। তবে আগের ঈমানদারদের ব্যাপারে আয়াত যে মনোভাব শেখায়, তার ভাষা কুরআন নিজেই দিয়েছে ৫৯:১০ আয়াতে: রাব্বানাগফির লানা ওয়া লিইখওয়ানিনাল্লাযীনা সাবাকূনা বিল ঈমান, ওয়া লা তাজআল ফী কুলূবিনা গিল্লাল লিল্লাযীনা আমানূ, রাব্বানা ইন্নাকা রাঊফুর রাহীম। হে আমাদের রব, আমাদের মাফ করো, আর আমাদের সেই ভাইদেরও, যাঁরা ঈমানে আমাদের আগে গেছেন। আর ঈমানদারদের প্রতি আমাদের অন্তরে কোনো বিদ্বেষ রেখো না। হে আমাদের রব, তুমি বড়ই স্নেহশীল, পরম দয়ালু।"
+          },
+          {
+            "en": "A reader may add a supplication composed from 3:152's own vocabulary, which is not a transmitted du'a: O Allah, You keep Your promise. When You show us what we love, keep us from losing heart, from disputing Your command, and from disobeying it. Make us of those who want the Hereafter, and pardon us as You pardoned them, for You are full of bounty to the believers.",
+            "bn": "এর সঙ্গে ৩:১৫২ আয়াতের নিজের শব্দ দিয়ে বানানো একটি দোয়া যোগ করা যায়, যা বর্ণিত কোনো দোয়া নয়: হে আল্লাহ, তুমি তোমার ওয়াদা পূরণ করো। আমাদের প্রিয় জিনিস যখন দেখাবে, তখন আমাদের সাহস হারানো থেকে, তোমার আদেশ নিয়ে বিবাদ থেকে, আর তার অবাধ্যতা থেকে বাঁচিয়ে রেখো। আমাদের তাদের দলে রাখো যারা আখিরাত চায়। আর তাঁদের যেমন মাফ করেছ, আমাদেরও তেমনি মাফ করো, কারণ মুমিনদের প্রতি তুমি অনুগ্রহশীল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions After Winning",
+          "bn": "জেতার পরের প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "When things are finally going well, which instruction, from Allah, from a doctor, from my own earlier resolve, am I most tempted to treat as no longer needed? In my last disagreement over a clear instruction, was I trying to understand it, or looking for a way out of it? And if the motives behind my last good deed were divided the way this verse divides an army, how much of me was wanting this world?",
+            "bn": "অবশেষে সব যখন ভালোর দিকে যায়, তখন কোন নির্দেশটাকে, আল্লাহর হোক, ডাক্তারের হোক, বা আমার নিজের আগের সংকল্পের, আর দরকার নেই ভাবতে সবচেয়ে বেশি ইচ্ছে হয়? স্পষ্ট কোনো নির্দেশ নিয়ে সর্বশেষ মতভেদে আমি কি তা বুঝতে চাইছিলাম, নাকি বেরোনোর পথ খুঁজছিলাম? আর এই আয়াত যেভাবে একটি বাহিনীর উদ্দেশ্য ভাগ করে দেখায়, সেভাবে আমার সর্বশেষ ভালো কাজটার উদ্দেশ্য ভাগ করলে, আমার কতটা দুনিয়া চাইছিল?"
+          },
+          {
+            "en": "When I speak of the failures of people who came before me, in history or in my own family, do I speak as this verse speaks, naming the act and leaving their standing with Allah? Is there a fault of my own that I have sincerely repented of and still keep reopening, as if His pardon had never been given? And who in my life needs to hear from me that an old account between us is closed?",
+            "bn": "ইতিহাসে হোক বা নিজের পরিবারে, আমার আগের মানুষদের ভুল নিয়ে যখন কথা বলি, তখন কি এই আয়াতের মতো বলি? কাজটার নাম নিই, আর তাঁদের মর্যাদার বিচার আল্লাহর হাতে ছেড়ে দিই? নিজের এমন কোনো দোষ কি আছে, যার জন্য আন্তরিক তওবা করেছি, অথচ বারবার খুঁড়ে বের করি, যেন তাঁর মাফ কখনো আসেইনি? আর আমার জীবনে কাকে আমার মুখ থেকে শোনা দরকার যে আমাদের মাঝের পুরোনো হিসাবটা বন্ধ হয়ে গেছে?"
           }
         ]
       }
