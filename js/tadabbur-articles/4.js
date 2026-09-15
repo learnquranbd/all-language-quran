@@ -451,6 +451,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "4:19-21": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Widow Is Not an Estate",
+          "bn": "বিধবা কোনো পরিত্যক্ত সম্পত্তি নয়"
+        },
+        "p": [
+          {
+            "en": "Surah an-Nisa is Madinan. Its opening verses set out the rights of orphans and, in 4:11-12, the shares of inheritance, closing with the limits of Allah in 4:13-14. Then 4:15-16 address grave indecency and 4:17-18 the terms of repentance. At 4:19 comes the surah's first call of ya ayyuha alladhina amanu, O you who have believed. The talk turns from what a dead man leaves to how the living treat the women of the house, and right after this passage 4:22-24 name the women who may not be married.",
+            "bn": "সূরা নিসা মাদানি। শুরুর আয়াতগুলোতে এতিমদের হক, আর ৪:১১ ও ৪:১২ আয়াতে মিরাসের অংশ, যার শেষে ৪:১৩ ও ৪:১৪ আয়াতে আল্লাহর সীমারেখার কথা। তারপর ৪:১৫ ও ৪:১৬ আয়াতে গুরুতর অশ্লীলতার বিধান, আর ৪:১৭ ও ৪:১৮ আয়াতে তওবার শর্ত। ৪:১৯ আয়াতে এসে সূরায় প্রথমবার ডাক আসে, ইয়া আইয়ুহাল্লাযীনা আমানূ, হে ঈমানদারগণ। মৃত মানুষ কী রেখে গেল, সেই আলোচনা থেকে কথা ঘুরে যায় জীবিতরা ঘরের নারীদের সঙ্গে কেমন আচরণ করবে তার দিকে। এই অংশের ঠিক পরে ৪:২২ থেকে ৪:২৪ আয়াতে বলা আছে কোন নারীদের বিয়ে করা যাবে না।"
+          },
+          {
+            "en": "The verse also has a known occasion. Ibn Kathir cites al-Bukhari's report from Ibn Abbas (RA): before it, when a man died, his male relatives held the right to do as they wished with his wife. If one of them wished, he married her, or gave her in marriage, or kept her from marrying at all, for they held more right over her than her own family did. Then this verse was revealed. As-Sa'di describes the same custom and adds that she might be kept from marrying until she handed over part of her late husband's wealth or of her dowry.",
+            "bn": "আয়াতটির নাজিলের প্রেক্ষাপটও জানা। ইবনে কাসীর ইমাম বুখারীর বর্ণনা আনেন ইবনে আব্বাস (রাঃ) থেকে: এর আগে কোনো পুরুষ মারা গেলে তার স্ত্রীর ব্যাপারে যা খুশি করার অধিকার পেত মৃতের পুরুষ আত্মীয়রা। তাদের কেউ চাইলে নিজে তাকে বিয়ে করত, চাইলে অন্যের সঙ্গে বিয়ে দিত, আবার চাইলে বিয়েই করতে দিত না। কারণ তার ওপর তার নিজের পরিবারের চেয়ে তাদের দাবিই বেশি ধরা হতো। তখন এই আয়াত নাজিল হয়। আস-সাদী একই প্রথার বর্ণনা দেন, আর যোগ করেন: মৃত স্বামীর সম্পদ বা মোহরের কিছু অংশ তুলে না দেওয়া পর্যন্ত তাকে বিয়ে করতে না দেওয়াও হতো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Root, Three Times",
+          "bn": "এক ধাতু, তিনবার"
+        },
+        "p": [
+          {
+            "en": "The prohibition is phrased la yahillu lakum, it is not lawful for you, the language of the permitted and the forbidden. What is not lawful is an tarithu an-nisa'a karhan, that you inherit women by compulsion. Karhan means against one's will. Then comes wa la ta'duluhunna, and do not constrain them. The same verb appears in 2:232, where it is rendered do not prevent them from remarrying. Ibn Kathir explains it here as treating a woman harshly so that she gives back all or part of her dowry, or gives up one of her rights under pressure.",
+            "bn": "নিষেধটা এসেছে লা ইয়াহিল্লু লাকুম দিয়ে, তোমাদের জন্য বৈধ নয়। এ হালাল-হারামের ভাষা। কী বৈধ নয়? আন তারিসুন নিসাআ কারহা, জোর করে নারীদের ওয়ারিশ হওয়া। কারহা মানে অমতে, ইচ্ছার বিরুদ্ধে। এরপর আসে ওয়া লা তা'দুলূহুন্না, তাদের আটকে রেখে কষ্ট দিয়ো না। একই ক্রিয়া আছে ২:২৩২ আয়াতে, যেখানে অনুবাদ হয়েছে: তাদের বাধা দিও না। এখানে ইবনে কাসীরের ব্যাখ্যা হলো, নারীর সঙ্গে এমন কঠোর আচরণ করা, যাতে সে মোহরের পুরোটা বা কিছু অংশ ফিরিয়ে দেয়, কিংবা চাপে পড়ে নিজের কোনো হক ছেড়ে দেয়।"
+          },
+          {
+            "en": "In place of pressure the verse sets wa 'ashiruhunna bil-ma'ruf, live with them in kindness. The verb is from the root '-sh-r, the root of mu'asharah, living in one another's company, and bil-ma'ruf ties that company to what is known and recognised as good. Ibn Kathir fills it in: kind words, kind treatment, and making one's appearance pleasing for her as far as one can, just as a husband would like the same from her, and he cites 2:228. As-Sa'di adds clothing and provision, according to the husband's means, her situation, and the custom of the time and place.",
+            "bn": "চাপের জায়গায় আয়াত রাখে ওয়া আশিরূহুন্না বিল মা'রূফ, তাদের সঙ্গে সদ্ভাবে জীবন যাপন করো। ক্রিয়াটির ধাতু আইন-শীন-রা, যা থেকে আসে মুআশারা, মানে একসঙ্গে মিলেমিশে থাকা। আর বিল মা'রূফ এই সঙ্গকে বেঁধে দেয় সেই আচরণের সঙ্গে, যাকে সবাই ভালো বলে চেনে। ইবনে কাসীর এর ব্যাখ্যা দেন: নরম কথা, ভালো ব্যবহার, আর সাধ্যমতো স্ত্রীর জন্য নিজেকে পরিপাটি রাখা, ঠিক যেমন স্বামী নিজেও স্ত্রীর কাছে তা চায়। এর পাশে তিনি আনেন ২:২২৮ আয়াত। আস-সাদী যোগ করেন পোশাক আর ভরণপোষণের কথা, স্বামীর সামর্থ্য, স্ত্রীর অবস্থা আর সেই সময় ও দেশের প্রচলন অনুযায়ী।"
+          },
+          {
+            "en": "Listen to the verse and one root returns three times: k-r-h, unwillingness and dislike. Karhan, the woman's unwillingness, opens it. Karihtumuhunna, if you dislike them, and takrahu shay'an, you dislike a thing, close it. The first is her will, which men had once overridden; the last two are the husband's dislike, which he is asked to hold in check. And the closing clause widens from them to a thing, so that it reads as a principle as much as a counsel about one marriage: perhaps you dislike a thing and Allah places in it much good.",
+            "bn": "আয়াতটা মন দিয়ে শুনলে একটা ধাতু তিনবার ফিরে আসে: কাফ-রা-হা, অনিচ্ছা আর অপছন্দ। শুরুতে কারহা, নারীর অনিচ্ছা। শেষে কারিহতুমূহুন্না, যদি তাদের অপছন্দ করো, আর তাকরাহূ শাইআ, কোনো কিছু অপছন্দ করো। প্রথমটা নারীর নিজের ইচ্ছা, যা একসময় পুরুষেরা অগ্রাহ্য করত। পরের দুটো স্বামীর অপছন্দ, আর সেই অপছন্দকে সংযত রাখতে বলা হচ্ছে স্বামীকেই। শেষ বাক্যে কথাটা তাদের থেকে ছড়িয়ে যায় যেকোনো জিনিসে। তাই এটা এক বিয়ের উপদেশ যতটা, ততটাই এক সাধারণ নীতি: হতে পারে তোমরা কিছু অপছন্দ করছ, অথচ আল্লাহ তাতে অনেক কল্যাণ রেখেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Indecency, Consent and Patience",
+          "bn": "অশ্লীলতা, সম্মতি ও সবর"
+        },
+        "p": [
+          {
+            "en": "The exception, unless they commit a clear fahishah, drew more than one reading. Ibn Kathir reports from Ibn Mas'ud (RA), Ibn Abbas (RA) and a long list of early authorities that it means illicit sexual relations. He also reports from Ibn Abbas, Ikrimah and ad-Dahhak that it means defiance and disobedience. Ibn Jarir at-Tabari, he says, held the word to be general, covering all of these, and Ibn Kathir calls that view good. Al-Muyassar gives adultery as its example. What the exception permits in practice is a question of fiqh, and this page leaves it to the scholars.",
+            "bn": "ব্যতিক্রমটা, যদি না তারা স্পষ্ট ফাহিশা করে, এর একাধিক ব্যাখ্যা আছে। ইবনে কাসীর ইবনে মাসউদ (রাঃ), ইবনে আব্বাস (রাঃ) আর প্রথম যুগের দীর্ঘ এক তালিকা থেকে বর্ণনা করেন যে এর মানে অবৈধ যৌন সম্পর্ক। আবার ইবনে আব্বাস (রাঃ), ইকরিমা ও দাহহাক থেকে তিনি বর্ণনা করেন যে এর মানে নাফরমানি ও অবাধ্য আচরণ। তাঁর ভাষ্যে, ইবনে জারীর তাবারী শব্দটাকে ব্যাপক ধরেছেন, যার মধ্যে এসবই পড়ে, আর ইবনে কাসীর এই মতকে ভালো বলেছেন। আল-মুয়াসসার উদাহরণ হিসেবে জিনার কথা বলে। এই ব্যতিক্রম বাস্তবে কী অনুমতি দেয়, সে প্রশ্ন ফিকহের, আর এই লেখা তা আলেমদের হাতেই ছেড়ে দিচ্ছে।"
+          },
+          {
+            "en": "As-Sa'di draws out what karhan leaves open. The verse forbids taking a widow against her will, so if she herself agrees to marry a relative of her late husband, that is not what the verse forbids. The line concerning a father's wives is drawn separately, three verses later, in 4:22. He then reads the command to live in kindness as reaching every good word and deed, so that a husband does not harm his wife, does good to her, and is gracious in how he deals with her.",
+            "bn": "কারহা শব্দটা কী খোলা রাখে, আস-সাদী তা দেখান। আয়াত নিষেধ করেছে বিধবাকে তার অমতে নেওয়া। তাই সে নিজে যদি মৃত স্বামীর কোনো আত্মীয়কে বিয়ে করতে রাজি হয়, আয়াতটি সেটা নিষেধ করছে না। বাবার স্ত্রীদের ব্যাপারে সীমা টানা হয়েছে আলাদাভাবে, তিন আয়াত পরে, ৪:২২ আয়াতে। এরপর তিনি সদ্ভাবে বসবাসের আদেশকে প্রতিটি ভালো কথা আর ভালো কাজ পর্যন্ত বিস্তৃত করেন: স্বামী স্ত্রীকে কষ্ট দেবে না, তার উপকার করবে, আর তার সঙ্গে ব্যবহারে হবে কোমল।"
+          },
+          {
+            "en": "On the closing clause the commentators point the same way and name different goods. Ibn Kathir says a husband's patience in keeping a wife he dislikes brings good for him in this life and the Hereafter, and he cites Ibn Abbas (RA): that he may come to feel tenderness for her, and Allah may give him a child by her in whom there is much good. As-Sa'di adds that the man who holds his home together against his feelings gains fine character in the struggle, and that dislike very often turns to love. Al-Muyassar says: if you dislike them for some worldly reason, be patient.",
+            "bn": "শেষ বাক্যের ব্যাপারে মুফাসসিরদের দিক একই, তবে প্রত্যেকে আলাদা কল্যাণের কথা বলেন। ইবনে কাসীর বলেন, অপছন্দের স্ত্রীকে ধরে রাখার এই সবর স্বামীর জন্য দুনিয়া ও আখিরাতে কল্যাণ বয়ে আনে। তিনি ইবনে আব্বাস (রাঃ)-এর কথা আনেন: হয়তো স্ত্রীর প্রতি তার মমতা জাগবে, আর আল্লাহ তার গর্ভে তাকে এমন সন্তান দেবেন, যার মধ্যে অনেক কল্যাণ। আস-সাদী যোগ করেন, নিজের মনের বিরুদ্ধে যে সংসার ধরে রাখে, এই লড়াইয়ে সে উত্তম চরিত্র অর্জন করে, আর অপছন্দ অনেক সময়ই ভালোবাসায় বদলে যায়। আল-মুয়াসসার বলে: দুনিয়াবি কোনো কারণে তাদের অপছন্দ করলে সবর করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Best to Their Families",
+          "bn": "পরিবারের কাছে যে উত্তম"
+        },
+        "p": [
+          {
+            "en": "Under this verse Ibn Kathir cites the Prophet ﷺ: the best of you is the best of you to his family, and I am the best of you to my family. At-Tirmidhi records it from Aishah (RA). Ibn Kathir then describes the Prophet's ﷺ own home: kind, cheerful and playful with his wives, gentle, spending on them and laughing with them. He relates from Aishah (RA) that the Prophet ﷺ raced her and she won, before she had put on weight, and that later he raced her again and won, and said: this is for that.",
+            "bn": "এই আয়াতের আলোচনায় ইবনে কাসীর নবী ﷺ-এর বাণী আনেন: তোমাদের মধ্যে সেই উত্তম, যে তার পরিবারের কাছে উত্তম, আর আমি আমার পরিবারের কাছে তোমাদের সবার চেয়ে উত্তম। ইমাম তিরমিযী আয়েশা (রাঃ) থেকে এটি বর্ণনা করেছেন। এরপর ইবনে কাসীর নবী ﷺ-এর নিজের ঘরের ছবি দেন: স্ত্রীদের সঙ্গে তিনি ছিলেন কোমল, হাসিখুশি, আমুদে আর দয়ালু। তাঁদের জন্য খরচ করতেন, তাঁদের সঙ্গে হাসতেন। আয়েশা (রাঃ) থেকে ইবনে কাসীর আরও বর্ণনা করেন, নবী ﷺ তাঁর সঙ্গে দৌড় প্রতিযোগিতা করেছিলেন, আর জিতেছিলেন আয়েশা (রাঃ) নিজে। তখনো তাঁর শরীর ভারী হয়নি। পরে আবার দৌড়ে নবী ﷺ জিতলেন, আর বললেন: এটা ওটার বদলে।"
+          },
+          {
+            "en": "For the heart that has cooled, Ibn Kathir cites a second hadith, which Muslim records from Abu Hurayrah (RA): a believing man should not hate a believing woman; if he dislikes one trait in her, he will be pleased with another. The Arabic verb, la yafrak, names the particular aversion that can grow between spouses. The hadith does not tell the husband to pretend. It tells him to look again, and it is the practical form of the verse's own counsel, that Allah may have placed much good in what he dislikes.",
+            "bn": "যে মনের টান কমে গেছে, তার জন্য ইবনে কাসীর আরেকটি হাদীস আনেন, যা ইমাম মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেছেন: কোনো মুমিন পুরুষ যেন কোনো মুমিন নারীকে ঘৃণা না করে। তার একটা স্বভাব অপছন্দ হলে আরেকটা স্বভাবে সে খুশি হবে। আরবি ক্রিয়াটি লা ইয়াফরাক, যা বিশেষভাবে স্বামী-স্ত্রীর মাঝে জন্মানো বিতৃষ্ণা বোঝায়। হাদীসটি স্বামীকে ভান করতে বলে না। বলে আবার তাকিয়ে দেখতে। অপছন্দের জিনিসে আল্লাহ অনেক কল্যাণ রাখতে পারেন, আয়াতের এই উপদেশের হাতে-কলমে রূপ এটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses That Stand Beside It",
+          "bn": "পাশে দাঁড়ানো আয়াতগুলো"
+        },
+        "p": [
+          {
+            "en": "2:228 is the verse Ibn Kathir sets beside the command of kindness: due to wives is similar to what is expected of them, according to what is reasonable. The same word, ma'ruf, carries both verses. 2:231 closes the door this verse closes, telling husbands not to keep their wives intending harm, to transgress against them, and saying that whoever does so has wronged himself. And 2:229, which Ibn Kathir also cites here, says it is not lawful to take back anything given to a wife unless both fear that they cannot keep within the limits of Allah.",
+            "bn": "সদ্ভাবের আদেশের পাশে ইবনে কাসীর যে আয়াত রাখেন তা ২:২২৮: নিয়ম অনুযায়ী পুরুষদের যেমন নারীদের ওপর হক আছে, নারীদেরও তেমনি পুরুষদের ওপর হক আছে। দুই আয়াতেই আছে একই শব্দ, মা'রূফ। এই আয়াত যে দরজা বন্ধ করে, ২:২৩১ আয়াতও তা বন্ধ করে: ক্ষতি করার উদ্দেশ্যে বাড়াবাড়ি করে স্ত্রীদের আটকে রেখো না, যে এমন করে সে নিজের ওপরই জুলুম করে। আর ২:২২৯, যা ইবনে কাসীর এখানেই উল্লেখ করেন, বলে: স্ত্রীকে যা দেওয়া হয়েছে তার কিছুই ফেরত নেওয়া বৈধ নয়, তবে যদি দুজনেরই আশঙ্কা হয় যে তারা আল্লাহর সীমা রক্ষা করতে পারবে না।"
+          },
+          {
+            "en": "2:216 carries the closing clause into another field. There it follows the command to fight, which was hateful to the believers: perhaps you hate a thing and it is good for you, and perhaps you love a thing and it is bad for you, and Allah knows while you know not. The same root k-r-h is there, which shows the principle is not about marriage alone. 30:21 then names what a marriage is meant to hold: mates from among yourselves in whom to find tranquillity, with affection and mercy placed between you. Kindness in 4:19 is the daily work of keeping that mercy alive.",
+            "bn": "শেষ বাক্যটিকে ২:২১৬ আয়াত নিয়ে যায় আরেক ক্ষেত্রে। সেখানে কথাটা আসে যুদ্ধের আদেশের পরে, যা মুমিনদের কাছে অপ্রিয় ছিল: হতে পারে তোমরা কিছু অপছন্দ করো অথচ তা তোমাদের জন্য কল্যাণকর, আর কিছু পছন্দ করো অথচ তা অকল্যাণকর, আর আল্লাহ জানেন, তোমরা জানো না। সেখানেও একই কাফ-রা-হা ধাতু, তাই নীতিটা শুধু বিয়ের নয়। ৩০:২১ আয়াত বলে দেয় বিয়ে কী ধরে রাখার জন্য: তোমাদের মধ্য থেকেই সঙ্গী, যাতে তার কাছে শান্তি পাও, আর তোমাদের মাঝে রাখা হয়েছে ভালোবাসা ও দয়া। ৪:১৯ আয়াতের সদ্ভাব সেই দয়াকে রোজ বাঁচিয়ে রাখার কাজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Kindness Nobody Else Sees",
+          "bn": "যে সদ্ভাব বাইরের কেউ দেখে না"
+        },
+        "p": [
+          {
+            "en": "The first application is the plainest. Ibn Kathir's description gives a husband a list he can keep in an ordinary week: a kind word when he comes in, time to talk in the evening, care over how he looks for her, as he would like her to take care for him, and spending on the home according to his means without making her ask twice. None of this needs a crisis. It is what the verse means by living together bil-ma'ruf, and it is easy to neglect precisely because nobody outside the house will ever notice.",
+            "bn": "প্রথম প্রয়োগটাই সবচেয়ে সরল। ইবনে কাসীরের বর্ণনা থেকে একজন স্বামী সাধারণ একটা সপ্তাহের জন্য তালিকা বানিয়ে নিতে পারেন: ঘরে ঢুকে নরম একটা কথা, সন্ধ্যায় একটু গল্প করার সময়, স্ত্রীর জন্য নিজেকে পরিপাটি রাখা, ঠিক যেমন নিজে তার কাছে তা চান, আর সামর্থ্য অনুযায়ী সংসারের খরচ, যেন তাকে বারবার চাইতে না হয়। এর কোনোটার জন্যই বড় কোনো সংকট লাগে না। আয়াতে বিল মা'রূফ বসবাস বলতে এগুলোই বোঝায়। আর এগুলোই সহজে বাদ পড়ে যায়, কারণ ঘরের বাইরের কেউ কখনো টেরও পায় না।"
+          },
+          {
+            "en": "The prohibition has its application too. A widow can still find herself pressed by her late husband's family over whom she may marry or over the share she inherited, and a wife can be worn down until she gives up a dowry that is hers. Pressure of that kind, by silence, withholding or hardship, is what this verse describes and forbids, whatever name is given to it. Where there is a real dispute, the way forward lies with the law the Quran sets out and the scholars who explain it, not with quiet pressure at home.",
+            "bn": "নিষেধেরও প্রয়োগ আছে। স্বামী মারা যাওয়ার পর কোনো বিধবা আজও শ্বশুরবাড়ির চাপে পড়তে পারেন: কাকে বিয়ে করবেন, বা মিরাসে পাওয়া অংশ নিয়ে। কোনো স্ত্রীকেও এমনভাবে ক্লান্ত করে ফেলা যায় যে তিনি নিজের পাওনা মোহর ছেড়ে দেন। চুপ থেকে, আটকে রেখে বা কষ্ট দিয়ে এ ধরনের চাপ, তার যে নামই দেওয়া হোক, এই আয়াত সেটারই বর্ণনা দিয়ে নিষেধ করেছে। সত্যিকারের বিরোধ থাকলে সমাধান কুরআনের দেওয়া বিধান আর তার ব্যাখ্যাকারী আলেমদের কাছে, ঘরের ভেতরের নীরব চাপে নয়।"
+          },
+          {
+            "en": "For the season when affection has thinned, the hadith gives a practice. Write down the traits in her that you are pleased with, as the Prophet ﷺ said you will find them. Keep being kind while the feeling returns, not only after it has. Ask Allah to show you the good He may have placed in what you dislike. The verse does not promise that every hard marriage will turn sweet. It holds out the hope of much good, and the fuller law of what follows, from 4:20-21 onward, is there for the cases where the marriage cannot hold.",
+            "bn": "যে সময়ে ভালোবাসা ফিকে হয়ে আসে, তার জন্য হাদীসটি একটা আমল দেয়। স্ত্রীর যে স্বভাবগুলোতে আপনি খুশি, সেগুলো লিখে ফেলুন, নবী ﷺ বলেছেন এমন স্বভাব আপনি পাবেন। শুধু অনুভূতি ফিরে আসার পরে নয়, ফিরে আসার সময়টাতেও ভালো ব্যবহার চালিয়ে যান। আল্লাহর কাছে চান, যা অপছন্দ করছেন তাতে তিনি যে কল্যাণ রেখেছেন তা যেন দেখান। আয়াত কথা দেয় না যে প্রতিটি কঠিন বিয়ে মধুর হয়ে উঠবে। আয়াত অনেক কল্যাণের আশা দেয়। আর যেখানে সংসার টেকে না, তার জন্য ৪:২০ ও ৪:২১ আয়াত থেকে শুরু করে পরের বিস্তারিত বিধান রয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer for the Home",
+          "bn": "ঘরের জন্য একটি দোয়া"
+        },
+        "p": [
+          {
+            "en": "The Quran itself gives a prayer for this. In 25:74 the servants of the Most Merciful say: our Lord, grant us from among our wives and offspring comfort to our eyes, and make us a leader for the righteous. It asks for a home that is a comfort to the eyes, and in the same breath it asks that the one praying become an example. A husband who wants the first has to work at the second, and the command to live in kindness is where that work begins.",
+            "bn": "কুরআন নিজেই এর জন্য দোয়া দিয়েছে। ২৫:৭৪ আয়াতে রহমানের বান্দারা বলে: হে আমাদের রব, আমাদের স্ত্রী ও সন্তানদের দিয়ে আমাদের চোখ জুড়িয়ে দাও, আর আমাদের মুত্তাকীদের নেতা বানাও। দোয়াটা এমন একটা ঘর চায়, যা চোখ জুড়ায়। আর একই নিঃশ্বাসে চায়, দোয়াকারী নিজে আদর্শ হোক। প্রথমটা যে স্বামী চান, দ্বিতীয়টার জন্য তাকে খাটতে হয়। সদ্ভাবে বসবাসের আদেশ থেকেই সেই খাটুনি শুরু।"
+          },
+          {
+            "en": "A supplication in the verse's own vocabulary, offered here as such and not as a transmitted du'a: O Allah, make me one who lives with his family in kindness. Do not let me take from anyone by pressure what You have made theirs. When my heart dislikes a thing, show me the good You have placed in it, and give me patience until I see it. And make me good to my family, as Your Messenger ﷺ was the best of people to his.",
+            "bn": "আয়াতের নিজের শব্দ থেকে একটি দোয়া, যা এখানে এভাবেই দেওয়া হলো, বর্ণিত কোনো দোয়া হিসেবে নয়: হে আল্লাহ, আমাকে এমন বানাও, যে পরিবারের সঙ্গে সদ্ভাবে বসবাস করে। তুমি যা কারও জন্য নির্ধারণ করেছ, চাপ দিয়ে তা কেড়ে নিতে আমাকে দিয়ো না। আমার মন কোনো কিছু অপছন্দ করলে, তাতে তুমি যে কল্যাণ রেখেছ তা আমাকে দেখাও, আর তা দেখা পর্যন্ত আমাকে সবর দাও। আর তোমার রাসূল ﷺ যেমন নিজের পরিবারের কাছে মানুষের মধ্যে সবচেয়ে উত্তম ছিলেন, আমাকেও আমার পরিবারের কাছে ভালো বানাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions to Ask at Home",
+          "bn": "ঘরে বসে নিজেকে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Some questions to carry from this passage. When my feelings toward someone in my home change, does my kindness change with them, or does it hold? Is there anyone, a wife, a mother, a widowed relative, from whom I or my family have taken something by pressure rather than by right? If my wife were asked for the kindest thing I did for her this week, would she have to think hard before she could answer?",
+            "bn": "এই অংশ থেকে কয়েকটি প্রশ্ন সঙ্গে রাখুন। ঘরের কারও প্রতি আমার অনুভূতি বদলে গেলে আমার ভালো ব্যবহারও কি বদলে যায়, নাকি টিকে থাকে? স্ত্রী, মা বা বিধবা কোনো আত্মীয়, এমন কেউ কি আছেন, যার কাছ থেকে আমি বা আমার পরিবার হক দিয়ে নয়, চাপ দিয়ে কিছু নিয়েছি? এই সপ্তাহে আমি তার জন্য সবচেয়ে ভালো কী করেছি, আমার স্ত্রীকে জিজ্ঞেস করলে উত্তর দিতে কি তাকে অনেক ভাবতে হবে?"
+          },
+          {
+            "en": "Which trait in the person I find hardest to live with have I stopped noticing, because I only count what I dislike? And when I call my marriage a covenant, as 4:21 does, do I mean a promise made before Allah that I keep in lean seasons too, or only terms I am willing to keep for as long as they suit me?",
+            "bn": "যার সঙ্গে থাকা আমার কাছে সবচেয়ে কঠিন, তার কোন ভালো স্বভাব আমার চোখে পড়া বন্ধ হয়ে গেছে, কারণ আমি শুধু অপছন্দের জিনিসগুলো গুনি? আর ৪:২১ আয়াতের মতো আমি যখন বিয়েকে অঙ্গীকার বলি, তখন কি বোঝাই আল্লাহর সামনে দেওয়া এমন ওয়াদা, যা কঠিন সময়েও রাখি, নাকি এমন শর্ত, যা সুবিধা থাকা পর্যন্তই মানি?"
+          }
+        ]
+      }
+    ]
+  },
   "4:25": {
     "sections": [
       {
@@ -975,6 +1119,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "4:54-55": {
+    "sections": [
+      {
+        "h": {
+          "en": "Envy in a Run of Questions",
+          "bn": "প্রশ্নের সারিতে হিংসা"
+        },
+        "p": [
+          {
+            "en": "Surah an-Nisa is Madinan, and in this stretch it answers a group of that time. 4:49 asks about those who claim themselves pure, and 4:50 shows how they invent untruth about Allah. 4:51 names those who were given a portion of the Scripture and who said of the disbelievers that they were better guided than the believers, and 4:52 says Allah has cursed them. 4:53 then asks: or have they a share of dominion? If they had, they would not give people even the speck on a date seed. Our verse opens with the same word, am, or, and asks a second question.",
+            "bn": "সূরা নিসা মাদানি, আর এই অংশে জবাব দেওয়া হচ্ছে সেই সময়ের একটি দলকে। ৪:৪৯ আয়াত প্রশ্ন তোলে তাদের নিয়ে, যারা নিজেদের পবিত্র বলে দাবি করে, আর ৪:৫০ আয়াত দেখায় তারা আল্লাহর নামে কেমন মিথ্যা রচনা করে। ৪:৫১ আয়াত বলে তাদের কথা, যাদের কিতাবের একাংশ দেওয়া হয়েছিল, আর যারা কাফিরদের সম্পর্কে বলত, তারাই মুমিনদের চেয়ে বেশি সঠিক পথে। ৪:৫২ আয়াত জানায়, আল্লাহ তাদের লানত করেছেন। তারপর ৪:৫৩ আয়াত জিজ্ঞেস করে: রাজত্বে কি তাদের কোনো অংশ আছে? থাকলে তো তারা মানুষকে তিল পরিমাণও দিত না। আমাদের আয়াত শুরু হয় সেই একই শব্দে, আম, অথবা, আর তোলে দ্বিতীয় একটি প্রশ্ন।"
+          },
+          {
+            "en": "The verses describe a particular group who said a particular thing at a particular time, and 4:55 is careful to say that some among them believed while some turned away. The commentators identify whom the envy was aimed at. Ibn Kathir says it was envy of the Prophet ﷺ for the prophethood Allah had entrusted to him, and that their envy led them to reject him because he was an Arab and not of the Children of Israel. Al-Muyassar adds envy of his Companions, for the faith they had been guided to and their following of the Messenger.",
+            "bn": "আয়াতগুলো নির্দিষ্ট একটি দলের কথা বলে, যারা নির্দিষ্ট সময়ে নির্দিষ্ট একটা কথা বলেছিল। আর ৪:৫৫ আয়াত সতর্কভাবে জানায়, তাদের কেউ ঈমান এনেছিল, কেউ মুখ ফিরিয়েছিল। হিংসা কার প্রতি ছিল, মুফাসসিররা তা চিহ্নিত করেছেন। ইবনে কাসীর বলেন, এ ছিল নবী ﷺ-এর প্রতি হিংসা, আল্লাহ তাঁকে যে নবুওয়াত দিয়েছিলেন তার জন্য। আর এই হিংসাই তাদের তাঁকে প্রত্যাখ্যানের দিকে ঠেলে দিয়েছিল, কারণ তিনি ছিলেন আরব, বনী ইসরাঈলের কেউ নন। আল-মুয়াসসার যোগ করে তাঁর সাহাবিদের প্রতি হিংসার কথা, ঈমানের যে তাওফিক তাঁরা পেয়েছিলেন আর রাসূলের যে অনুসরণ করতেন তার জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or, Envy, Bounty",
+          "bn": "অথবা, হিংসা, অনুগ্রহ"
+        },
+        "p": [
+          {
+            "en": "Am yahsuduna an-nas: or do they envy people? The word am ties this question to the one before it in 4:53, so that the two stand side by side as a pair. Ibn Kathir calls the question in 4:53 a rebuke, since they have no share of dominion, and the second question comes in the same form. Neither asks for information. Each leaves the listener to supply the answer and see it for himself. The first exposes a grasping that would give nothing away; the second names what lies beneath it.",
+            "bn": "আম ইয়াহসুদূনান নাস: অথবা তারা কি মানুষকে হিংসা করে? আম শব্দটা এই প্রশ্নকে ৪:৫৩ আয়াতের আগের প্রশ্নের সঙ্গে জুড়ে দেয়, ফলে দুটো পাশাপাশি দাঁড়ায় জোড়া হয়ে। ইবনে কাসীর ৪:৫৩ আয়াতের প্রশ্নটাকে বলেন তিরস্কার, কারণ রাজত্বে তাদের কোনো অংশ নেই। দ্বিতীয় প্রশ্নটাও আসে একই ধাঁচে। কোনোটাই তথ্য জানতে চাওয়া নয়। দুটোই উত্তরটা শ্রোতার হাতে ছেড়ে দেয়, যাতে সে নিজেই দেখে। প্রথম প্রশ্ন খুলে দেয় এমন কৃপণতা, যা কাউকে কিছুই দিতে চায় না। দ্বিতীয়টা নাম নেয় তার নিচে লুকানো জিনিসের।"
+          },
+          {
+            "en": "Hasad is more than wanting what another has. Al-Muyassar's gloss on this verse spells out its sharpest edge: they wish that this bounty would be taken away from those who were given it. That wish is what separates envy from ordinary longing. And the object of the envy is named with care: ma atahumu Allahu min fadlihi, what Allah has given them of His bounty. The gift is traced to its Giver twice, by the verb and by the word fadl, a grace no one was owed. The wording itself suggests that resentment of the gift reaches, in the end, toward the One who gave it.",
+            "bn": "হাসাদ মানে কেবল অন্যের জিনিস নিজের জন্য চাওয়া নয়। এই আয়াতের ব্যাখ্যায় আল-মুয়াসসার এর সবচেয়ে ধারালো দিকটা খুলে বলে: তারা চায়, যাদের এই অনুগ্রহ দেওয়া হয়েছে তাদের কাছ থেকে তা চলে যাক। সাধারণ আকাঙ্ক্ষা থেকে হিংসাকে আলাদা করে এই চাওয়াটাই। আর হিংসার বিষয়টার নামও নেওয়া হয়েছে যত্ন করে: মা আতাহুমুল্লাহু মিন ফাদলিহী, আল্লাহ নিজ অনুগ্রহ থেকে তাদের যা দিয়েছেন। দানটাকে দুইবার দাতার দিকে ফেরানো হয়েছে, ক্রিয়াপদ দিয়ে আর ফাদল শব্দ দিয়ে, মানে এমন অনুগ্রহ যা কারও পাওনা ছিল না। আয়াতের এই ভাষাই ইঙ্গিত দেয়, দানের প্রতি ক্ষোভ শেষ পর্যন্ত গিয়ে ঠেকে দাতার দিকে।"
+          },
+          {
+            "en": "The second half of the verse brings the Giver forward to speak for Himself. The verse began, Allah has given them; then comes fa-qad atayna, We had already given, and wa ataynahum, and We gave them. The verb of giving comes three times in one verse, and in the last two Allah speaks of His own giving directly: the family of Ibrahim received the Book, wisdom and a great kingdom. The answer to envy here is not an argument about merit. It is a reminder of who has been giving all along.",
+            "bn": "আয়াতের দ্বিতীয় অর্ধে দাতা নিজেই সামনে এসে কথা বলেন। শুরুতে বলা হয়েছিল, আল্লাহ তাদের দিয়েছেন। তারপর আসে ফাকাদ আতাইনা, আমি তো আগেই দিয়েছিলাম, আর ওয়া আতাইনাহুম, আর তাদের দিয়েছিলাম। দেওয়ার ক্রিয়াটি এক আয়াতে তিনবার আসে, আর শেষ দুবার আল্লাহ নিজের দানের কথা নিজেই বলেন: ইবরাহীমের বংশধরেরা পেয়েছিল কিতাব, হিকমাত আর বিশাল রাজত্ব। এখানে হিংসার জবাব যোগ্যতা নিয়ে তর্ক নয়। জবাব হলো মনে করিয়ে দেওয়া, শুরু থেকে দিয়ে আসছেন কে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Family of Ibrahim Received",
+          "bn": "ইবরাহীমের বংশ কী পেয়েছিল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains the family of Ibrahim as the tribes of the Children of Israel, who are among Ibrahim's offspring: Allah gave them prophethood, sent down Books to them, and made kings among them, and their prophets ruled them by prophetic guidance. As-Sa'di names Dawud and Sulayman (AS) among the prophets honoured with that kingship, and then draws out the argument: why then refuse to accept that Allah gave prophethood, victory and rule to Muhammad ﷺ? Al-Muyassar explains the wisdom as what was revealed to them that was not a recited Book.",
+            "bn": "ইবনে কাসীর ইবরাহীমের বংশধর বলতে বোঝান বনী ইসরাঈলের গোত্রগুলোকে, যারা ইবরাহীম (আঃ)-এর সন্তানদের অন্তর্ভুক্ত। আল্লাহ তাদের নবুওয়াত দিয়েছিলেন, তাদের কাছে কিতাব নাজিল করেছিলেন, তাদের মধ্যে রাজা বানিয়েছিলেন, আর তাদের নবীরা নবুওয়াতের আদর্শে তাদের শাসন করতেন। আস-সাদী সেই রাজত্বে সম্মানিত নবীদের মধ্যে দাউদ ও সুলাইমান (আঃ)-এর নাম নেন, তারপর যুক্তিটা সামনে আনেন: তাহলে আল্লাহ মুহাম্মাদ ﷺ-কে নবুওয়াত, বিজয় আর শাসন দিয়েছেন, এটা মেনে নিতে আপত্তি কেন? আল-মুয়াসসার হিকমাতের ব্যাখ্যা দেয় এভাবে: তাদের প্রতি যা ওহি করা হয়েছিল, অথচ তা পাঠ করার মতো কিতাব ছিল না।"
+          },
+          {
+            "en": "4:55 then says fa-minhum man amana bihi, some among them believed in it, and some were averse to it. The commentators differ over the pronoun. Ibn Kathir first takes it as Allah's favour just described, the prophets, Books and kingship: some of the Children of Israel believed in it and some rejected it, though it came from among them and for them. He then gives Mujahid's reading, that it means believing in him, the Prophet ﷺ, and as-Sa'di reads it the same way. Both readings keep the verse's own fairness. It does not say that all of them turned away.",
+            "bn": "এরপর ৪:৫৫ আয়াত বলে ফামিনহুম মান আমানা বিহী, তাদের কেউ তাতে ঈমান এনেছিল, আর কেউ তা থেকে মুখ ফিরিয়ে রেখেছিল। সর্বনামটা নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে। ইবনে কাসীর প্রথমে একে ধরেন আল্লাহর সেই অনুগ্রহ হিসেবে, যার কথা এইমাত্র এলো: নবী, কিতাব আর রাজত্ব। বনী ইসরাঈলের কেউ তাতে ঈমান এনেছিল, কেউ অস্বীকার করেছিল, যদিও তা এসেছিল তাদের মধ্য থেকেই, তাদেরই জন্য। তারপর তিনি মুজাহিদের ব্যাখ্যা আনেন: এর মানে তাঁর প্রতি, অর্থাৎ নবী ﷺ-এর প্রতি ঈমান আনা। আস-সাদীও একই রকম পড়েছেন। দুই ব্যাখ্যাতেই আয়াতের নিজের ইনসাফ অটুট থাকে। আয়াত বলে না যে তাদের সবাই মুখ ফিরিয়েছিল।"
+          },
+          {
+            "en": "The verse closes: and sufficient is Hell as a blaze. Ibn Kathir calls it a just recompense for disbelief, rebellion and defiance of Allah's Books and messengers. The verses that follow, 4:56-57, set the Fire and the Gardens side by side. For a reader today the weight of this passage falls less on identifying a people than on recognising a sickness. In these verses envy was strong enough to turn people away from a prophet, and as-Sa'di links it to the statement of 4:51, that the disbelievers were better guided than the believers.",
+            "bn": "আয়াত শেষ হয় এভাবে: আর দগ্ধ করার জন্য জাহান্নামই যথেষ্ট। ইবনে কাসীর একে বলেন কুফরি, বিদ্রোহ আর আল্লাহর কিতাব ও রাসূলদের বিরোধিতার ন্যায্য প্রতিফল। পরের দুই আয়াত, ৪:৫৬ ও ৪:৫৭, আগুন আর জান্নাতকে পাশাপাশি রাখে। আজকের পাঠকের জন্য এই অংশের ভার কোনো জাতিকে চিহ্নিত করায় যতটা, তার চেয়ে বেশি একটা রোগ চিনে নেওয়ায়। এই আয়াতগুলোতে হিংসা এতটাই প্রবল ছিল যে তা মানুষকে একজন নবী থেকে ফিরিয়ে দিয়েছিল। আর আস-সাদী একে জুড়ে দেন ৪:৫১ আয়াতের সেই কথার সঙ্গে, কাফিররাই মুমিনদের চেয়ে বেশি সঠিক পথে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Envy Except in Two",
+          "bn": "দুই ক্ষেত্র ছাড়া হিংসা নেই"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir does not attach a particular hadith to this verse, and this page will not fill the place with a weak one. But a hadith on envy speaks of two of the same kinds of gift. Al-Bukhari records from Abdullah ibn Mas'ud (RA) that the Prophet ﷺ said: there is no envy except in two cases, a man to whom Allah has given wealth and who spends it in what is right, and a man to whom Allah has given wisdom, who judges by it and teaches it. Wealth and hikmah stand in the hadith as a kingdom and wisdom stand in 4:54.",
+            "bn": "ইবনে কাসীর এই আয়াতের সঙ্গে নির্দিষ্ট কোনো হাদীস জুড়ে দেননি, আর এই লেখাও দুর্বল কোনো বর্ণনা দিয়ে সেই জায়গা ভরাবে না। তবে হিংসা নিয়ে একটি হাদীসে একই ধরনের দুটি দানের কথা আছে। ইমাম বুখারী আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: দুই ক্ষেত্র ছাড়া হিংসা নেই। এক, এমন মানুষ যাকে আল্লাহ সম্পদ দিয়েছেন, আর সে তা ন্যায়ের পথে খরচ করে। দুই, এমন মানুষ যাকে আল্লাহ হিকমাত দিয়েছেন, আর সে তা দিয়ে ফয়সালা করে ও অন্যকে শেখায়। ৪:৫৪ আয়াতে যেমন রাজত্ব আর হিকমাত, হাদীসে তেমনি সম্পদ আর হিকমাত।"
+          },
+          {
+            "en": "The commentators on this hadith explain envy in it as ghibtah: wishing to have the like of someone's blessing without wishing it taken from him. That is the very line al-Muyassar draws at 4:54, where the envy condemned is the wish that the bounty be removed. So the Prophet ﷺ did not ask believers to feel nothing when they see another given more. He turned that feeling toward two things worth competing for, and away from the wish that anyone lose what Allah gave them.",
+            "bn": "এই হাদীসের ব্যাখ্যাকারীরা বলেন, এখানে হিংসা মানে গিবতা: কারও নিয়ামতের মতো নিয়ামত নিজেও পেতে চাওয়া, কিন্তু তার কাছ থেকে তা চলে যাক এমন না চাওয়া। ৪:৫৪ আয়াতে আল-মুয়াসসার ঠিক এই রেখাটাই টানে, যেখানে নিন্দিত হিংসা হলো অনুগ্রহ সরে যাওয়ার কামনা। তাই অন্য কাউকে বেশি পেতে দেখলে মুমিন কিছুই অনুভব করবে না, নবী ﷺ এমন কথা বলেননি। তিনি সেই অনুভূতিকে ঘুরিয়ে দিয়েছেন প্রতিযোগিতার যোগ্য দুটি জিনিসের দিকে, আর সরিয়ে এনেছেন আল্লাহর দেওয়া জিনিস কেউ হারাক, এই কামনা থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heard Alongside",
+          "bn": "পাশাপাশি শোনার আয়াত"
+        },
+        "p": [
+          {
+            "en": "4:32, earlier in this same surah, gives the believer's side of the lesson: do not wish for that by which Allah has made some of you exceed others, and ask Allah of His bounty. The word fadl returns, and it turns the eye from another person's share toward the Giver. 43:32 answers a related objection, from people who questioned the choice of the one to whom the revelation came: do they distribute the mercy of your Lord? It is Allah who has apportioned their livelihood among them and raised some above others in degrees.",
+            "bn": "এই সূরারই আগের দিকে ৪:৩২ আয়াত শিক্ষাটার মুমিনের দিকটা বলে দেয়: আল্লাহ যা দিয়ে তোমাদের কাউকে কারও ওপর মর্যাদা দিয়েছেন, তা কামনা করো না, আর আল্লাহর কাছে তাঁর অনুগ্রহ চাও। সেখানেও ফাদল শব্দ ফিরে আসে, আর চোখটাকে অন্যের ভাগ থেকে সরিয়ে দাতার দিকে ফেরায়। ৪৩:৩২ আয়াত জবাব দেয় কাছাকাছি একটা আপত্তির, যারা প্রশ্ন তুলেছিল ওহি কার ওপর এল তা নিয়ে: তারা কি তোমার রবের রহমত বণ্টন করে? দুনিয়ার জীবনে তাদের জীবিকা আল্লাহই বণ্টন করেছেন, আর মর্যাদায় একজনকে আরেকজনের ওপর তুলেছেন।"
+          },
+          {
+            "en": "62:4 states the rule in a single line: that is the bounty of Allah, which He gives to whom He wills, and Allah is the possessor of great bounty. 20:131 gives a practice: do not extend your eyes toward the enjoyment given to others, the splendour of worldly life by which they are tested, for the provision of your Lord is better and more enduring. And 113:5 teaches the believer to seek refuge from the evil of an envier when he envies, a reminder that envy harms others as well as the heart that carries it.",
+            "bn": "৬২:৪ আয়াত নীতিটা এক লাইনে বলে দেয়: এটা আল্লাহর অনুগ্রহ, যাকে ইচ্ছা তিনি দেন, আর আল্লাহ মহা অনুগ্রহের মালিক। ২০:১৩১ আয়াত দেয় একটা আমল: অন্যদের যে ভোগের সামগ্রী দেওয়া হয়েছে, দুনিয়ার সেই চাকচিক্য, যা দিয়ে তাদের পরীক্ষা করা হয়, সেদিকে চোখ তুলে তাকিয়ো না। তোমার রবের দেওয়া রিজিকই উত্তম ও বেশি স্থায়ী। আর ১১৩:৫ আয়াত মুমিনকে শেখায় হিংসুকের অনিষ্ট থেকে আশ্রয় চাইতে, যখন সে হিংসা করে। এটা মনে করিয়ে দেয়, হিংসা যে মনে থাকে শুধু তারই ক্ষতি করে না, অন্যেরও করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Someone Else Is Given",
+          "bn": "যখন অন্য কেউ পায়"
+        },
+        "p": [
+          {
+            "en": "Envy rarely announces itself. It shows up as a flicker of discomfort at a cousin's wedding, a colleague's promotion, a friend's child who did better in exams. The verse gives a test for that moment. The question is not whether I wanted the same thing; wanting is human. The question is whether some part of me wishes it had not been given to them. If it does, admit it to yourself honestly, and remember whose giving it was: what Allah has given them of His bounty.",
+            "bn": "হিংসা খুব কমই ঢাকঢোল পিটিয়ে আসে। আসে চাচাতো ভাইয়ের বিয়েতে, সহকর্মীর পদোন্নতিতে, বন্ধুর সন্তানের ভালো রেজাল্টে মনের ভেতর হালকা একটা খচখচানি হয়ে। সেই মুহূর্তের জন্য আয়াত একটা পরীক্ষা দেয়। প্রশ্নটা এই নয় যে আমিও একই জিনিস চেয়েছিলাম কি না। চাওয়া মানুষেরই স্বভাব। প্রশ্ন হলো, আমার ভেতরের কোনো অংশ কি চাইছে, জিনিসটা তাকে না দেওয়া হলেই ভালো হতো? যদি চায়, নিজের কাছে সততার সঙ্গে তা স্বীকার করুন, আর মনে রাখুন দানটা কার: আল্লাহ নিজ অনুগ্রহে তাকে যা দিয়েছেন।"
+          },
+          {
+            "en": "Then turn the feeling where the hadith turns it. If what you envy is wealth, the gift worth longing for is wealth spent in what is right, and you can begin with what you already have. If it is knowledge, the gift worth longing for is knowledge acted on and taught, and you can begin learning today. And make du'a for the person by name, asking Allah to bless them in what He gave. It is hard to go on wishing a blessing away from someone you are praying for.",
+            "bn": "তারপর অনুভূতিটাকে সেদিকে ঘোরান, যেদিকে হাদীস ঘুরিয়েছে। যদি সম্পদ দেখে হিংসা হয়, তবে কামনার যোগ্য দান হলো ন্যায়ের পথে খরচ করা সম্পদ, আর তা শুরু করা যায় আপনার হাতে যা আছে তা দিয়েই। যদি জ্ঞান দেখে হয়, তবে কামনার যোগ্য দান হলো এমন জ্ঞান, যার ওপর আমল হয় আর যা শেখানো হয়, আর তা শেখা আজই শুরু করা যায়। আর মানুষটির নাম ধরে তার জন্য দোয়া করুন, আল্লাহ তাকে যা দিয়েছেন তাতে যেন বরকত দেন। যার জন্য দোয়া করছেন, তার নিয়ামত চলে যাক, এমন কামনা বেশিদিন টিকিয়ে রাখা কঠিন।"
+          },
+          {
+            "en": "Envy also leaks into speech and judgment. On a small scale it is the habit of finding a fault in every person who is praised, or refusing to admit that a rival is right. When you notice yourself doing that, stop and ask what the person has been given, and by whom. And do not let this passage become a reason for contempt toward any community today. The Quran itself took care to say that some among them believed, and its lesson is aimed first at the heart of the one reading it.",
+            "bn": "হিংসা কথাবার্তা আর বিচারেও চুঁইয়ে পড়ে। ছোট পরিসরে এটা এমন অভ্যাস, যে কারও প্রশংসা হলেই তার একটা দোষ খুঁজে বের করা, কিংবা প্রতিদ্বন্দ্বী ঠিক বললেও তা মানতে না চাওয়া। নিজেকে এমন করতে দেখলে থামুন, আর জিজ্ঞেস করুন মানুষটিকে কী দেওয়া হয়েছে, আর কে দিয়েছেন। আর এই অংশকে আজকের কোনো সম্প্রদায়ের প্রতি অবজ্ঞার কারণ বানাবেন না। কুরআন নিজেই যত্ন করে বলেছে, তাদের কেউ কেউ ঈমান এনেছিল। আর এর শিক্ষা সবার আগে লক্ষ্য করে যে পড়ছে তার নিজের হৃদয়কে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Refuge From Envy, Both Ways",
+          "bn": "দুই দিকের হিংসা থেকে আশ্রয়"
+        },
+        "p": [
+          {
+            "en": "Two Quranic prayers meet this verse from two sides. Surah al-Falaq, recited morning and evening by many believers, ends in 113:5 with refuge from the evil of an envier when he envies. That protects you from the envy of others. And 59:10 protects you from your own: our Lord, forgive us and our brothers who preceded us in faith, and put not in our hearts any resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful. Between them they cover both the one who is envied and the one who envies.",
+            "bn": "কুরআনের দুটি দোয়া এই আয়াতের দুই দিক থেকে এসে মেলে। সূরা ফালাক, যা অনেক মুমিন সকাল-সন্ধ্যা পড়েন, ১১৩:৫ আয়াতে শেষ হয় হিংসুকের অনিষ্ট থেকে আশ্রয় চেয়ে, যখন সে হিংসা করে। এটা আপনাকে রক্ষা করে অন্যের হিংসা থেকে। আর ৫৯:১০ আয়াত রক্ষা করে আপনার নিজের হিংসা থেকে: হে আমাদের রব, আমাদের ক্ষমা করো, আর আমাদের সেই ভাইদেরও, যারা ঈমানে আমাদের আগে গেছেন, আর যারা ঈমান এনেছে তাদের ব্যাপারে আমাদের অন্তরে কোনো বিদ্বেষ রেখো না। হে আমাদের রব, তুমি তো দয়ার্দ্র, পরম দয়ালু। দুটি মিলে যাকে হিংসা করা হয় আর যে হিংসা করে, দুজনকেই ঢেকে দেয়।"
+          },
+          {
+            "en": "A supplication in the verse's own vocabulary, offered here as such and not as a transmitted du'a: O Allah, what You have given others of Your bounty, make me glad for them. Give me of Your bounty, for all bounty is Yours. Do not let my heart wish any gift of Yours removed from anyone. Protect me from the envy of others, and protect others from mine.",
+            "bn": "আয়াতের নিজের শব্দ থেকে একটি দোয়া, যা এখানে এভাবেই দেওয়া হলো, বর্ণিত কোনো দোয়া হিসেবে নয়: হে আল্লাহ, তুমি নিজ অনুগ্রহে অন্যদের যা দিয়েছ, তাতে আমাকে তাদের জন্য খুশি হতে দাও। তোমার অনুগ্রহ থেকে আমাকেও দাও, কারণ সব অনুগ্রহ তোমারই। তোমার কোনো দান কারও কাছ থেকে চলে যাক, আমার মন যেন এমন কামনা না করে। অন্যের হিংসা থেকে আমাকে রক্ষা করো, আর আমার হিংসা থেকে অন্যদের রক্ষা করো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions for an Honest Heart",
+          "bn": "খোলা মনে কয়েকটি প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Some questions to carry from these verses. Whose blessing do I find hardest to be glad about, and what is it about that person that makes it hard? When I heard good news about someone recently, was my first feeling gladness, or a quiet wish that it had gone to me instead? Do I think of the good things in other people's lives as taken from my share, or as given to them by Allah from a bounty that has no limit?",
+            "bn": "এই আয়াতগুলো থেকে কয়েকটি প্রশ্ন সঙ্গে রাখুন। কার নিয়ামতে খুশি হওয়া আমার কাছে সবচেয়ে কঠিন, আর সেই মানুষটির কোন ব্যাপারটা একে কঠিন করে তোলে? সম্প্রতি কারও সুখবর শুনে আমার প্রথম অনুভূতি কী ছিল, খুশি, নাকি মনে মনে চাওয়া যে এটা আমার হলে ভালো হতো? অন্যদের জীবনের ভালো জিনিসগুলোকে কি আমি আমার ভাগ থেকে কেড়ে নেওয়া মনে করি, নাকি আল্লাহর সীমাহীন অনুগ্রহ থেকে তাদের দেওয়া দান?"
+          },
+          {
+            "en": "What has Allah given me that I have stopped noticing because I keep looking at others? Is there someone I have spoken against, or refused to credit, only because they were given what I wanted? And if the two gifts of the hadith, wealth spent rightly and wisdom taught, were the only things I let myself compete for, how would my week look different?",
+            "bn": "অন্যদের দিকে তাকিয়ে থাকতে থাকতে আল্লাহর দেওয়া কোন জিনিস আমার চোখেই পড়ে না? এমন কেউ কি আছে, যার বিরুদ্ধে আমি কথা বলেছি বা যার কৃতিত্ব মানিনি, শুধু এই কারণে যে আমি যা চেয়েছিলাম সে তা পেয়েছে? আর হাদীসের সেই দুটি দান, ন্যায়ের পথে খরচ করা সম্পদ আর শেখানো হিকমাত, যদি এগুলোই হতো আমার একমাত্র প্রতিযোগিতার বিষয়, তাহলে আমার সপ্তাহটা কতটা অন্যরকম হতো?"
+          }
+        ]
+      }
+    ]
+  },
   "4:57": {
     "sections": [
       {
@@ -1259,6 +1547,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "4:69-70": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Promise Between Two Commands",
+          "bn": "দুই আদেশের মাঝে এক ওয়াদা"
+        },
+        "p": [
+          {
+            "en": "Surah an-Nisa is Madinan, and the verses before this one are about obedience under pressure. 4:60-63 describe people who claimed to believe yet wanted to take their disputes to another judge. 4:64 says every messenger was sent to be obeyed by Allah's permission, and 4:65 swears that they will not truly believe until they make the Prophet ﷺ judge in their disputes and find no discomfort in his ruling. 4:66-68 add that had they done what they were instructed, it would have been better for them, with a great reward and guidance to a straight path.",
+            "bn": "সূরা নিসা মাদানি, আর এর আগের আয়াতগুলো চাপের মুখে আনুগত্য নিয়ে। ৪:৬০ থেকে ৪:৬৩ আয়াতে আছে এমন লোকদের কথা, যারা ঈমানের দাবি করত, অথচ বিবাদ নিয়ে যেতে চাইত অন্য বিচারকের কাছে। ৪:৬৪ আয়াত বলে, প্রত্যেক রাসূলকে পাঠানো হয়েছে এজন্য, যেন আল্লাহর অনুমতিতে তাঁর আনুগত্য করা হয়। আর ৪:৬৫ আয়াতে শপথ করে বলা হয়, তারা সত্যিকারের মুমিন হবে না, যতক্ষণ না বিবাদে নবী ﷺ-কে বিচারক মানে আর তাঁর ফয়সালায় মনে কোনো কুণ্ঠা না রাখে। ৪:৬৬ থেকে ৪:৬৮ আয়াত যোগ করে, যা করতে বলা হয়েছিল তা করলে তাদেরই কল্যাণ হতো, সঙ্গে মহা পুরস্কার আর সরল পথের হিদায়াত।"
+          },
+          {
+            "en": "Then comes our verse: whoever obeys Allah and the Messenger. It gathers the argument of the preceding verses into a single promise. Right after it, 4:70 names that promise a bounty, and 4:71 turns to a new command, to take precautions and go forth, while 4:72 describes the one who lingers behind. So the promise of noble company sits between a call to accept the Prophet's ﷺ judgment and a call to go out with him. Ibn Kathir also records a report about why the verse came down, given in the hadith section below.",
+            "bn": "তারপর আসে আমাদের আয়াত: যে আল্লাহ ও রাসূলের আনুগত্য করে। আগের আয়াতগুলোর পুরো যুক্তিকে এটি একটি ওয়াদায় জড়ো করে। ঠিক পরে ৪:৭০ আয়াত সেই ওয়াদাকে বলে অনুগ্রহ, আর ৪:৭১ আয়াত ফেরে নতুন এক আদেশে, সতর্কতা নাও আর বেরিয়ে পড়ো। ৪:৭২ আয়াতে আসে পেছনে পড়ে থাকা লোকের কথা। ফলে উত্তম সঙ্গের ওয়াদাটা বসে আছে দুই আহ্বানের মাঝখানে: নবী ﷺ-এর ফয়সালা মেনে নেওয়ার আহ্বান, আর তাঁর সঙ্গে বেরিয়ে পড়ার আহ্বান। আয়াতটি কেন নাজিল হয়েছিল, সে বিষয়ে ইবনে কাসীর একটি বর্ণনাও এনেছেন, যা নিচে হাদীসের অংশে আসছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "With, Favoured, Companion",
+          "bn": "সঙ্গে, নিয়ামতপ্রাপ্ত, সাথি"
+        },
+        "p": [
+          {
+            "en": "The verse does not say that the obedient will be prophets, or equal to them. It says fa-ula'ika ma'a alladhina an'ama Allahu 'alayhim: those will be with the ones upon whom Allah has bestowed favour. Ma'a, with, is a word of company. And the same verb of favour, an'amta 'alayhim, closes al-Fatihah, where a believer asks in 1:7 for the path of those upon whom You have bestowed favour. The prayer said many times a day asks for a road, and this verse names the travellers who walk it.",
+            "bn": "আয়াত বলে না যে আনুগত্যকারীরা নবী হয়ে যাবে, বা তাঁদের সমান হবে। বলে ফাউলাইকা মাআল্লাযীনা আনআমাল্লাহু আলাইহিম: তারা থাকবে তাঁদের সঙ্গে, যাঁদের আল্লাহ নিয়ামত দিয়েছেন। মাআ মানে সঙ্গে, এ হলো সাহচর্যের শব্দ। আর নিয়ামত দেওয়ার এই একই ক্রিয়া, আনআমতা আলাইহিম, সূরা ফাতিহার শেষেও আছে, যেখানে ১:৭ আয়াতে মুমিন চায় তাঁদের পথ, যাঁদের তুমি নিয়ামত দিয়েছ। দিনে বহুবার পড়া দোয়াটা একটা পথ চায়, আর এই আয়াত সেই পথের পথিকদের নাম বলে দেয়।"
+          },
+          {
+            "en": "Four names follow. An-nabiyyin, the prophets. As-siddiqin, from the root of sidq, truthfulness, in an intensive form: the one wholly true in word and wholly affirming of the truth. Al-Muyassar describes them as those whose affirmation of what the messengers brought was complete, in belief, word and deed. Ash-shuhada', the martyrs, whom as-Sa'di describes as those who fought in Allah's path to raise His word and were killed. And as-salihin, the righteous, whom Ibn Kathir describes as righteous inwardly and outwardly.",
+            "bn": "এরপর চারটি নাম। আন-নাবিয়্যীন, নবীগণ। আস-সিদ্দীকীন, সিদক বা সত্যবাদিতার ধাতু থেকে তীব্রতাবাচক রূপ: যে কথায় পুরোপুরি সত্যবাদী, আর সত্যকে পুরোপুরি মেনে নেয়। আল-মুয়াসসার তাঁদের বর্ণনা দেয় এভাবে: রাসূলরা যা এনেছেন, বিশ্বাসে, কথায় ও কাজে তার প্রতি যাঁদের সত্যায়ন পূর্ণ হয়েছে। আশ-শুহাদা, শহীদগণ, আস-সাদীর বর্ণনায় যাঁরা আল্লাহর কালিমা বুলন্দ করতে তাঁর পথে লড়েছেন আর নিহত হয়েছেন। আর আস-সালিহীন, নেককারগণ, ইবনে কাসীরের বর্ণনায় যাঁরা ভেতরে-বাইরে দুই দিকেই নেককার।"
+          },
+          {
+            "en": "The verse closes wa hasuna ula'ika rafiqa, and excellent are those as companions. Rafiq is from the root r-f-q, which carries gentleness and the company of those who travel together, and it comes here in the singular form, which Arabic can use for a whole company. Then 4:70 adds dhalika al-fadlu min Allah, that is the bounty from Allah, with the definite article: not a bounty among others, but the bounty. And it ends, sufficient is Allah as Knower, a reminder that only He knows who is truly walking toward that company.",
+            "bn": "আয়াত শেষ হয় ওয়া হাসুনা উলাইকা রাফীকা দিয়ে, আর সাথি হিসেবে তাঁরা কতই না উত্তম। রাফীক শব্দের ধাতু রা-ফা-কাফ, যার মধ্যে আছে কোমলতা আর একসঙ্গে সফর করা মানুষের সাহচর্যের অর্থ। এখানে শব্দটা এসেছে একবচনের রূপে, আরবিতে যা পুরো একটা দলের জন্যও ব্যবহার হতে পারে। তারপর ৪:৭০ আয়াত যোগ করে যালিকাল ফাদলু মিনাল্লাহ, এটা আল্লাহর পক্ষ থেকে অনুগ্রহ, নির্দিষ্ট করে বলা: অনেক অনুগ্রহের একটা নয়, সেই অনুগ্রহ। আর শেষ হয়, সর্বজ্ঞ হিসেবে আল্লাহই যথেষ্ট। অর্থাৎ কে সত্যিই সেই সঙ্গের দিকে এগোচ্ছে, তা কেবল তিনিই জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Ranks, One Company",
+          "bn": "চার স্তর, এক সাহচর্য"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the verse as a promise of honour: whoever does what Allah and His Messenger commanded and avoids what they forbade, Allah will give him a dwelling in the abode of honour, in the company of the prophets, and then of those lower in rank, the siddiqin, then the martyrs, then the righteous. On his reading the order of the four names is an order of rank. And the verse's word is with: the obedient believer is promised the company of all four, not their rank.",
+            "bn": "ইবনে কাসীর আয়াতটিকে পড়েন সম্মানের ওয়াদা হিসেবে: আল্লাহ ও তাঁর রাসূল যা আদেশ করেছেন তা যে করে, আর যা নিষেধ করেছেন তা থেকে দূরে থাকে, আল্লাহ তাকে সম্মানের ঘরে ঠাঁই দেবেন। সেখানে সে থাকবে নবীদের সঙ্গে, তারপর তাঁদের নিচের স্তরের সিদ্দীকদের সঙ্গে, তারপর শহীদদের, তারপর নেককারদের সঙ্গে। তাঁর পাঠে চার নামের এই ক্রম মর্যাদারও ক্রম। আর আয়াতের শব্দটা হলো সঙ্গে: আনুগত্যকারী মুমিনকে ওয়াদা দেওয়া হয়েছে চার দলেরই সাহচর্যের, তাঁদের মর্যাদার নয়।"
+          },
+          {
+            "en": "As-Sa'di stresses how wide the door is. Whoever obeys Allah and His Messenger, fulfilling what is required of him as far as he is able, whether man or woman, child or adult, will be among those Allah has favoured, a favour whose fruit is perfection, success and happiness. He describes each group in turn, and adds to the siddiqin that they call others to the truth they affirm. He then dwells on the delight of that company in the gardens of bliss, near the Lord of the worlds.",
+            "bn": "দরজাটা কত প্রশস্ত, আস-সাদী তার ওপর জোর দেন। যে আল্লাহ ও তাঁর রাসূলের আনুগত্য করে, সাধ্যমতো নিজের দায়িত্ব পালন করে, সে পুরুষ হোক বা নারী, শিশু হোক বা বড়, সে থাকবে তাঁদের মধ্যে যাঁদের আল্লাহ নিয়ামত দিয়েছেন। আর সেই নিয়ামতের ফল পূর্ণতা, সাফল্য ও সৌভাগ্য। তিনি প্রতিটি দলের বর্ণনা দেন, আর সিদ্দীকদের ব্যাপারে যোগ করেন, যে সত্য তাঁরা মেনে নিয়েছেন অন্যদেরও সেদিকে ডাকেন। তারপর তিনি থামেন নিয়ামতের বাগানে, জগতসমূহের রবের কাছাকাছি সেই সাহচর্যের আনন্দের কথায়।"
+          },
+          {
+            "en": "On 4:70 the commentators agree that the company is a gift and describe it from slightly different sides. Ibn Kathir says it is from Allah by His mercy, for it is He who made them fit for it, not their good deeds, and that He knows who deserves guidance and success. As-Sa'di calls it a reward they had not earned by their deeds. Al-Muyassar puts the knowledge first: Allah knows the states of His servants and who among them deserves the great reward for the righteous deeds they did.",
+            "bn": "৪:৭০ আয়াতের ব্যাপারে মুফাসসিররা একমত যে এই সাহচর্য দান, তবে একটু ভিন্ন ভিন্ন দিক থেকে তার বর্ণনা দেন। ইবনে কাসীর বলেন, এটা আল্লাহর রহমত থেকে আসে, কারণ তিনিই তাদের এর উপযুক্ত বানিয়েছেন, তাদের নেক আমল নয়। আর কে হিদায়াত ও সাফল্যের যোগ্য, তিনিই জানেন। আস-সাদী একে বলেন এমন প্রতিদান, যা তারা নিজেদের আমল দিয়ে অর্জন করেনি। আল-মুয়াসসার জ্ঞানের দিকটা আগে আনে: আল্লাহ বান্দাদের অবস্থা জানেন, আর জানেন তাদের মধ্যে কে নিজের নেক আমলের কারণে মহা প্রতিদানের যোগ্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Man Who Feared Separation",
+          "bn": "বিচ্ছেদের ভয় যাঁকে বিষণ্ণ করেছিল"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir records, through Ibn Jarir at-Tabari, a report from Sa'id ibn Jubayr. A man of the Ansar came to the Prophet ﷺ looking sad. The Prophet ﷺ asked why, and the man said: we come to you day and night, looking at your face and sitting with you, but tomorrow you will be raised with the prophets and we will not be able to see you. The Prophet ﷺ gave no answer until Jibril came down with this verse, and then the Prophet ﷺ sent the man the good news.",
+            "bn": "ইবনে কাসীর ইবনে জারীর তাবারীর সূত্রে সাঈদ ইবনে জুবাইর থেকে একটি বর্ণনা আনেন। আনসারের এক ব্যক্তি বিষণ্ণ মুখে নবী ﷺ-এর কাছে এলেন। নবী ﷺ কারণ জিজ্ঞেস করলে তিনি বললেন: আমরা দিনরাত আপনার কাছে আসি, আপনার চেহারার দিকে তাকিয়ে থাকি, আপনার কাছে বসি। কিন্তু কাল আপনাকে নবীদের সঙ্গে ওঠানো হবে, তখন আমরা আর আপনাকে দেখতে পাব না। নবী ﷺ কোনো উত্তর দিলেন না, যতক্ষণ না জিবরীল (আঃ) এই আয়াত নিয়ে এলেন। তখন নবী ﷺ লোকটির কাছে সুসংবাদ পাঠালেন।"
+          },
+          {
+            "en": "Ibn Kathir adds that the same account is reported from Masruq, Ikrimah, ash-Sha'bi, Qatadah and ar-Rabi' ibn Anas, all of the generation after the Companions, and he gives a version through Aishah (RA), recorded by Ibn Marduyah, in which a man tells the Prophet ﷺ that he loves him more than himself and his family, and fears that in Paradise he will not see him. It is a report the commentators attach to the verse, and it is offered here as Ibn Kathir gives it.",
+            "bn": "ইবনে কাসীর যোগ করেন, একই ঘটনা মাসরূক, ইকরিমা, শা'বী, কাতাদা ও রাবী ইবনে আনাস থেকেও বর্ণিত, যাঁরা সবাই সাহাবিদের পরের প্রজন্মের। তিনি ইবনে মারদুওয়াইহর সংকলিত আয়েশা (রাঃ)-এর সূত্রের একটি বর্ণনাও দেন। তাতে এক ব্যক্তি নবী ﷺ-কে বলেন, তিনি তাঁকে নিজের জীবন আর পরিবারের চেয়েও বেশি ভালোবাসেন, আর ভয় পান জান্নাতে তাঁকে দেখতে পাবেন না। মুফাসসিররা বর্ণনাটিকে এই আয়াতের সঙ্গে যুক্ত করেছেন, আর এখানে তা দেওয়া হলো ইবনে কাসীর যেভাবে দিয়েছেন সেভাবেই।"
+          },
+          {
+            "en": "Ibn Kathir also cites a report that al-Bukhari and Muslim record from Aishah (RA). She had heard the Prophet ﷺ say that every prophet who falls ill is given the choice between this world and the Hereafter. In his final illness his voice grew weak, and she heard him recite: with those upon whom Allah has bestowed favour, of the prophets, the truthful, the martyrs and the righteous. Then she knew he was being given the choice. Ibn Kathir says this explains the other report, that before he died the Prophet ﷺ said three times: O Allah, the Most High Company.",
+            "bn": "ইবনে কাসীর আরেকটি বর্ণনা আনেন, যা ইমাম বুখারী ও মুসলিম আয়েশা (রাঃ) থেকে সংকলন করেছেন। তিনি নবী ﷺ-কে বলতে শুনেছিলেন, কোনো নবী অসুস্থ হলে তাঁকে দুনিয়া আর আখিরাতের মধ্যে বেছে নেওয়ার সুযোগ দেওয়া হয়। শেষ অসুখে তাঁর কণ্ঠ দুর্বল হয়ে এল, আর আয়েশা (রাঃ) তাঁকে পড়তে শুনলেন: তাঁদের সঙ্গে, যাঁদের আল্লাহ নিয়ামত দিয়েছেন, নবী, সিদ্দীক, শহীদ ও নেককারদের মধ্য থেকে। তখন তিনি বুঝলেন, নবী ﷺ-কে বেছে নেওয়ার সুযোগ দেওয়া হচ্ছে। ইবনে কাসীর বলেন, এটাই অন্য বর্ণনাটির ব্যাখ্যা, যেখানে আছে মৃত্যুর আগে নবী ﷺ তিনবার বলেছিলেন: হে আল্লাহ, সর্বোচ্চ সাহচর্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses of the Same Company",
+          "bn": "একই সাহচর্যের আয়াত"
+        },
+        "p": [
+          {
+            "en": "1:7 is the first sister, already heard in the words above: the path of those upon whom You have bestowed favour. 57:19 widens the ranks: those who have believed in Allah and His messengers are, with their Lord, among the supporters of truth and the martyrs, and theirs is their reward and their light. 3:31 gives the road in one line: if you love Allah, follow the Prophet ﷺ, and Allah will love you and forgive you. Together they say that love is proven by following, and following leads to the company.",
+            "bn": "প্রথম আয়াতটির কথা আগেই এসেছে, ১:৭: তাঁদের পথ, যাঁদের তুমি নিয়ামত দিয়েছ। ৫৭:১৯ আয়াত স্তরগুলোকে আরও প্রশস্ত করে: যারা আল্লাহ ও তাঁর রাসূলদের প্রতি ঈমান এনেছে, তারাই তাদের রবের কাছে সিদ্দীক ও শহীদ, তাদের জন্য আছে তাদের প্রতিদান ও তাদের নূর। ৩:৩১ আয়াত পথটা এক লাইনে বলে দেয়: যদি আল্লাহকে ভালোবাসো, নবী ﷺ-এর অনুসরণ করো, আল্লাহ তোমাদের ভালোবাসবেন আর গুনাহ মাফ করবেন। সব মিলিয়ে কথা এই: ভালোবাসার প্রমাণ অনুসরণ, আর অনুসরণ পৌঁছে দেয় সেই সাহচর্যে।"
+          },
+          {
+            "en": "Two prophets asked for this company in their own prayers. Ibrahim (AS) asks in 26:83 to be joined with the righteous, and Yusuf (AS) ends his account in 12:101 asking, cause me to die a Muslim and join me with the righteous. If prophets asked to be joined with the righteous, no believer is above asking it. And 43:67 shows the other side of company: close friends, on that Day, will be enemies to one another, except for the righteous.",
+            "bn": "দুজন নবী নিজেদের দোয়ায় এই সাহচর্য চেয়েছেন। ২৬:৮৩ আয়াতে ইবরাহীম (আঃ) চান নেককারদের অন্তর্ভুক্ত হতে। আর ১২:১০১ আয়াতে ইউসুফ (আঃ) নিজের কাহিনির শেষে চান, আমাকে মুসলিম অবস্থায় মৃত্যু দাও আর নেককারদের সঙ্গে মিলিয়ে দাও। নবীরাই যখন নেককারদের সঙ্গে মিলিত হতে চেয়েছেন, কোনো মুমিন এ চাওয়ার ঊর্ধ্বে নয়। আর ৪৩:৬৭ আয়াত দেখায় সঙ্গের অন্য দিক: সেদিন অন্তরঙ্গ বন্ধুরা একে অন্যের শত্রু হয়ে যাবে, মুত্তাকীরা ছাড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Walking Toward the Company",
+          "bn": "সেই সাহচর্যের দিকে হাঁটা"
+        },
+        "p": [
+          {
+            "en": "The verse begins with obedience, and its place after 4:65 shows what obedience means in practice: accepting the Prophet's ﷺ guidance when it is inconvenient, without the inner discomfort that verse warns against. In a normal week that might be the prayer kept at work when it is awkward, the business deal refused because its terms are not clean, the harsh word held back because he ﷺ held it back. None of these looks like the road to the prophets. The verse says that it is.",
+            "bn": "আয়াত শুরু হয় আনুগত্য দিয়ে, আর ৪:৬৫ আয়াতের পরে এর অবস্থান দেখায় বাস্তবে আনুগত্য মানে কী: নবী ﷺ-এর নির্দেশ অসুবিধাজনক হলেও মেনে নেওয়া, সেই আয়াতে বলা মনের কুণ্ঠা ছাড়াই। সাধারণ একটা সপ্তাহে এর মানে হতে পারে অফিসে অস্বস্তি সত্ত্বেও নামাজটা আদায় করা, শর্ত পরিষ্কার নয় বলে একটা ব্যবসার চুক্তি ফিরিয়ে দেওয়া, কটু কথাটা চেপে যাওয়া, কারণ তিনি ﷺ চেপে যেতেন। এর কোনোটাই দেখতে নবীদের দিকে যাওয়ার পথের মতো লাগে না। আয়াত বলছে, এটাই সেই পথ।"
+          },
+          {
+            "en": "Ibn Kathir gives a Companion's practical answer. Muslim records that Rabi'ah ibn Ka'b al-Aslami (RA), who used to spend the night at the Prophet's ﷺ house and bring him water for wudu, was told: ask. He said: I ask for your companionship in Paradise. The Prophet ﷺ asked whether there was anything else, and he said: only that. The Prophet ﷺ said: then help me on your behalf through many prostrations. So add voluntary prayer to your day, a few rak'ahs you keep, as a way of asking for that company.",
+            "bn": "ইবনে কাসীর একজন সাহাবির বাস্তব উত্তর তুলে ধরেন। ইমাম মুসলিম বর্ণনা করেন, রাবীআ ইবনে কা'ব আল-আসলামী (রাঃ) রাতে নবী ﷺ-এর ঘরে থাকতেন, তাঁর অজুর পানি এনে দিতেন। একদিন নবী ﷺ তাঁকে বললেন: কিছু চাও। তিনি বললেন: আমি জান্নাতে আপনার সাহচর্য চাই। নবী ﷺ জিজ্ঞেস করলেন, এ ছাড়া আর কিছু? তিনি বললেন: শুধু এটাই। নবী ﷺ বললেন: তাহলে বেশি বেশি সিজদা দিয়ে তোমার ব্যাপারে আমাকে সাহায্য করো। তাই দিনে কিছু নফল নামাজ যোগ করুন, অল্প কয়েক রাকাত যা নিয়মিত রাখতে পারবেন, সেই সাহচর্য চাওয়ার একটা উপায় হিসেবে।"
+          },
+          {
+            "en": "And do not despair because your deeds are small. Ibn Kathir cites the hadith in the Sahih collections that a person will be with those he loves, and Anas (RA) said that Muslims were never happier with anything, and that he loved the Prophet ﷺ, Abu Bakr and Umar (RA) and hoped to be raised with them though his deeds were not like theirs. So love them deliberately. Read the lives of the prophets and the Companions, keep company now with people who remind you of Allah, and let as-Sa'di's words stay with you: man or woman, young or old.",
+            "bn": "আর নিজের আমল কম বলে নিরাশ হবেন না। ইবনে কাসীর সহীহ সংকলনগুলোর হাদীস আনেন: মানুষ তাদের সঙ্গেই থাকবে, যাদের সে ভালোবাসে। আনাস (রাঃ) বলেছেন, মুসলমানরা আর কোনো কিছুতে এত খুশি হয়নি। তিনি আরও বলেছেন, তিনি নবী ﷺ, আবু বকর ও উমর (রাঃ)-কে ভালোবাসেন, আর আশা করেন তাঁদের সঙ্গেই তাঁকে ওঠানো হবে, যদিও তাঁর আমল তাঁদের মতো নয়। তাই জেনে-বুঝে তাঁদের ভালোবাসুন। নবীদের আর সাহাবিদের জীবনী পড়ুন, এখনই এমন মানুষের সঙ্গে থাকুন যারা আল্লাহর কথা মনে করিয়ে দেয়। আর আস-সাদীর কথাটা মনে রাখুন: পুরুষ হোক বা নারী, ছোট হোক বা বড়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking to Be Joined",
+          "bn": "মিলিত হওয়ার দোয়া"
+        },
+        "p": [
+          {
+            "en": "The Quran gives the words. From the prayer of Yusuf (AS) in 12:101: cause me to die a Muslim and join me with the righteous. And from the prayer of the people of understanding in 3:193: our Lord, we have heard a caller calling to faith and we have believed, so forgive us our sins, remove from us our misdeeds, and cause us to die among the righteous. Both ask for the end of the road and the company at the end of it, and both put forgiveness or faith first.",
+            "bn": "কুরআন নিজেই শব্দগুলো দিয়েছে। ১২:১০১ আয়াতে ইউসুফ (আঃ)-এর দোয়া থেকে: আমাকে মুসলিম অবস্থায় মৃত্যু দাও আর নেককারদের সঙ্গে মিলিয়ে দাও। আর ৩:১৯৩ আয়াতে বোধসম্পন্ন মানুষদের দোয়া থেকে: হে আমাদের রব, আমরা একজন আহ্বানকারীকে ঈমানের দিকে ডাকতে শুনেছি, আর আমরা ঈমান এনেছি। তাই আমাদের গুনাহ মাফ করো, আমাদের মন্দ কাজগুলো মুছে দাও, আর নেককারদের সঙ্গে আমাদের মৃত্যু দাও। দুটো দোয়াই পথের শেষটা চায়, আর সেই শেষে থাকা সাহচর্য। দুটোতেই আগে আসে ঈমান বা মাগফিরাতের কথা।"
+          },
+          {
+            "en": "A supplication in the verse's own vocabulary, offered here as such and not as a transmitted du'a: O Allah, make me obedient to You and to Your Messenger ﷺ. Place me with those upon whom You have bestowed favour, the prophets, the truthful, the martyrs and the righteous, and let them be my companions. It is Your bounty and not my deeds, and You are sufficient as the One who knows me, so make me fit for what I cannot earn.",
+            "bn": "আয়াতের নিজের শব্দ থেকে একটি দোয়া, যা এখানে এভাবেই দেওয়া হলো, বর্ণিত কোনো দোয়া হিসেবে নয়: হে আল্লাহ, আমাকে তোমার আর তোমার রাসূল ﷺ-এর অনুগত বানাও। যাঁদের তুমি নিয়ামত দিয়েছ, নবী, সিদ্দীক, শহীদ আর নেককার, তাঁদের সঙ্গে আমাকে রাখো, আর তাঁদেরকে আমার সাথি বানাও। এটা তোমার অনুগ্রহ, আমার আমল নয়, আর আমাকে জানার জন্য তুমিই যথেষ্ট। তাই যা আমি অর্জন করতে পারি না, তার উপযুক্ত আমাকে বানিয়ে দাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About My Company",
+          "bn": "আমার সঙ্গ নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Some questions to carry from these verses. If I were raised tomorrow with the people I spend most of my evenings with, would I be glad? Is my love for the Prophet ﷺ something that shows in how I follow him when following is inconvenient, or mainly in how I speak about him? Which of the four, the prophets, the truthful, the martyrs, the righteous, do I know least about, and what would I learn if I read one of their lives this month?",
+            "bn": "এই আয়াতগুলো থেকে কয়েকটি প্রশ্ন সঙ্গে রাখুন। যাদের সঙ্গে আমার বেশিরভাগ সন্ধ্যা কাটে, কাল যদি তাদের সঙ্গেই আমাকে ওঠানো হয়, আমি কি খুশি হব? নবী ﷺ-এর প্রতি আমার ভালোবাসা কি দেখা যায় অসুবিধার সময়ও তাঁকে অনুসরণের মধ্যে, নাকি মূলত তাঁকে নিয়ে কথা বলার মধ্যে? নবী, সিদ্দীক, শহীদ আর নেককার, এই চার দলের কাদের সম্পর্কে আমি সবচেয়ে কম জানি, আর এ মাসে তাঁদের কারও জীবনী পড়লে কী শিখতাম?"
+          },
+          {
+            "en": "Like the man of the Ansar, what would I truly grieve to be separated from, and does my grief point toward Allah and His Messenger ﷺ or somewhere else? When I do something good, do I quietly count it as a payment toward Paradise, or do I remember that 4:70 calls the whole of it a bounty? And what one act of obedience have I been postponing that I could begin this week?",
+            "bn": "সেই আনসারি সাহাবির মতো, কী থেকে বিচ্ছিন্ন হওয়ার ভয়ে আমি সত্যিই কষ্ট পাব, আর সেই কষ্ট কি আল্লাহ ও তাঁর রাসূল ﷺ-এর দিকে ইশারা করে, নাকি অন্য কোথাও? কোনো ভালো কাজ করলে কি মনে মনে তা জান্নাতের কিস্তি হিসেবে গুনি, নাকি মনে রাখি ৪:৭০ আয়াত পুরোটাকেই বলেছে অনুগ্রহ? আর আনুগত্যের কোন একটা কাজ আমি ফেলে রেখেছি, যা এই সপ্তাহেই শুরু করতে পারি?"
+          }
+        ]
+      }
+    ]
+  },
   "4:78": {
     "sections": [
       {
@@ -1430,6 +1866,162 @@ Object.assign(TADABBUR_ARTICLES, {
           {
             "en": "So take the verse as a personal instruction with a schedule. A portion daily, read as if for the first time, questioned closely, checked against sound tafsir, and allowed to reach the heart. The Quran does not ask to be defended from scrutiny; it asks — twice, here and in 47:24 — to receive it. The lock the verses warn of is opened from the inside, by the reader who finally sits down to ponder.",
             "bn": "তাই আয়াতটিকে নিন সময়সূচিসহ এক ব্যক্তিগত নির্দেশ হিসেবে। প্রতিদিন একটি অংশ — যেন প্রথমবার পড়ছেন এমনভাবে পড়া, খুঁটিয়ে প্রশ্ন করা, নির্ভরযোগ্য তাফসীরের সঙ্গে মিলিয়ে নেওয়া, আর হৃদয়ে পৌঁছাতে দেওয়া। কুরআন চায় না তাকে যাচাই-বাছাই থেকে আগলে রাখা হোক; সে চায় — দুবার, এখানে ও 47:24 আয়াতে — যাচাইটা গ্রহণ করতে। আয়াতগুলো যে তালার কথা সতর্ক করে, তা খোলে ভেতর থেকে — সেই পাঠকের হাতে, যে অবশেষে গভীর চিন্তায় বসে।"
+          }
+        ]
+      }
+    ]
+  },
+  "4:88-91": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Camps, One Rebuke",
+          "bn": "দুই দল, এক তিরস্কার"
+        },
+        "p": [
+          {
+            "en": "Surah an-Nisa is a Madinan surah, and from 4:71 it turns to the believers going out to fight and to those who hang back. 4:75 asks, wa ma lakum, what is the matter with you that you do not fight for the oppressed men, women and children. Then 4:88 puts a question of the same shape to the believers, fa-ma lakum: what is the matter with you, that you are two parties concerning the hypocrites?",
+            "bn": "সূরা আন-নিসা মাদানি সূরা। ৪:৭১ আয়াত থেকে এর আলোচনা ঘুরে যায় মুমিনদের যুদ্ধে বের হওয়ার দিকে, আর যারা পিছিয়ে থাকে তাদের দিকে। ৪:৭৫ আয়াত প্রশ্ন করে, ওয়া মা লাকুম, তোমাদের কী হলো যে অসহায় নারী, পুরুষ ও শিশুদের জন্য তোমরা লড়াই করছ না? এরপর ৪:৮৮ আয়াত মুমিনদের সামনে একই গড়নের প্রশ্ন রাখে, ফা-মা লাকুম: তোমাদের কী হলো যে মুনাফিকদের নিয়ে তোমরা দুই দল হয়ে গেলে?"
+          },
+          {
+            "en": "The passage runs four verses. 4:88 rebukes the split and says Allah cast that group back for what they earned. 4:89 describes them and gives the ruling. 4:90 opens with illa, except, lifts the ruling from two kinds of people, and closes by saying Allah has made no way for the believers against those who withdraw and offer peace. 4:91 describes a third group who want safety from both sides. Right after it, 4:92 and 4:93 give the rulings on killing a believer, by mistake and deliberately, and 4:94 tells the believers to investigate when they go out in Allah's cause.",
+            "bn": "অংশটি চার আয়াতের। ৪:৮৮ আয়াত এই বিভক্তির জন্য তিরস্কার করে, আর জানায়, নিজেদের কামাইয়ের কারণে আল্লাহ দলটিকে উল্টো দিকে ফিরিয়ে দিয়েছেন। ৪:৮৯ আয়াত তাদের পরিচয় দেয় এবং হুকুম জানায়। ৪:৯০ আয়াত শুরু হয় ইল্লা, অর্থাৎ কিন্তু বা ব্যতীত, শব্দ দিয়ে। সেখানে দুই ধরনের মানুষকে হুকুমের বাইরে রাখা হয়, আর শেষে বলা হয়, যারা সরে দাঁড়ায় ও শান্তির প্রস্তাব দেয়, তাদের বিরুদ্ধে আল্লাহ মুমিনদের জন্য কোনো পথ রাখেননি। ৪:৯১ আয়াত তৃতীয় এক দলের কথা বলে, যারা দুই পক্ষের কাছেই নিরাপদ থাকতে চায়। ঠিক এর পরেই ৪:৯২ ও ৪:৯৩ আয়াতে আসে ভুলবশত ও ইচ্ছাকৃতভাবে মুমিন হত্যার বিধান, আর ৪:৯৪ আয়াত আল্লাহর পথে বের হলে যাচাই করে নেওয়ার নির্দেশ দেয়।"
+          },
+          {
+            "en": "Who the hypocrites of 4:88 were is not settled. Ibn Kathir opens his comment by saying there are conflicting opinions over the reason the verse came down. Both of the main reports concern particular people at a time of war: men who had professed Islam and then, when it mattered, deserted the believers or took the enemy's side. Neither gives a licence against any people living at peace, and 4:90 says so in its own words.",
+            "bn": "৪:৮৮ আয়াতের মুনাফিকরা ঠিক কারা ছিল, তা নিয়ে একমত হওয়া যায়নি। ইবনে কাসীর তাঁর ব্যাখ্যা শুরুই করেন এই কথা বলে যে আয়াত নাযিলের কারণ নিয়ে ভিন্ন ভিন্ন মত আছে। প্রধান দুটি বর্ণনাই যুদ্ধের সময়ের নির্দিষ্ট কিছু মানুষকে নিয়ে। তারা মুখে ইসলাম গ্রহণের কথা বলেছিল, তারপর প্রয়োজনের মুহূর্তে মুমিনদের ছেড়ে গিয়েছিল, কিংবা শত্রুর পক্ষ নিয়েছিল। কোনো বর্ণনাই শান্তিতে বসবাসকারী কোনো জনগোষ্ঠীর বিরুদ্ধে অনুমতি দেয় না, আর ৪:৯০ আয়াত নিজের ভাষাতেই সে কথা বলে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Cast Back, and No Way",
+          "bn": "উল্টো ফেরানো, আর পথ বন্ধ"
+        },
+        "p": [
+          {
+            "en": "The key verb of 4:88 is arkasahum, from the root r-k-s. Ibn Kathir reports Ibn Abbas (RA) explaining it as cast them, and glosses it as making them revert to error and fall into it. The lexicons give the root the sense of turning a thing over and sending it back to where it started. The cause sits in the same clause, bima kasabu, for what they earned, which Ibn Kathir explains as their defiance of the Messenger ﷺ and their following of falsehood. The root appears only twice in the Quran, both times here: arkasahum in 4:88 and urkisu fiha in 4:91.",
+            "bn": "৪:৮৮ আয়াতের মূল ক্রিয়া আরকাসাহুম, র-ক-স মূল থেকে। ইবনে কাসীর বর্ণনা করেন, ইবনে আব্বাস (রাঃ) এর অর্থ করেছেন, তাদের ছুড়ে ফেলেছেন। ইবনে কাসীর নিজে ব্যাখ্যা করেন, আল্লাহ তাদের গোমরাহির দিকে ফিরিয়ে দিয়েছেন, আর তারা তাতে পড়ে গেছে। অভিধানে এই মূলের অর্থ কোনো জিনিস উল্টে দেওয়া, যেখান থেকে এসেছিল সেখানেই ফেরত পাঠানো। কারণটাও একই বাক্যে আছে: বিমা কাসাবূ, তাদের কামাইয়ের কারণে। ইবনে কাসীরের ব্যাখ্যায় সেই কামাই হলো রাসূল ﷺ-এর অবাধ্যতা আর বাতিলের অনুসরণ। পুরো কুরআনে এই মূল এসেছে মাত্র দুবার, দুবারই এই অংশে: ৪:৮৮ আয়াতে আরকাসাহুম, আর ৪:৯১ আয়াতে উরকিসূ ফীহা।"
+          },
+          {
+            "en": "In 4:91 the verb returns in the passive: every time those people are returned to al-fitnah, they are plunged back into it, and as-Suddi, in Ibn Kathir's report, takes that fitnah to mean shirk. A second word runs through the passage: sabil, a way. 4:88 ends by saying that for the one Allah sends astray you will never find a way. 4:89 asks for emigration fi sabil Allah, in the way of Allah. 4:90 ends on the same word: Allah has made no way for you against those who offer peace.",
+            "bn": "৪:৯১ আয়াতে ক্রিয়াটি ফিরে আসে কর্মবাচ্যে: যখনই তাদের ফিতনার দিকে ফিরিয়ে নেওয়া হয়, তখনই তারা আবার তাতে ডুবে যায়। ইবনে কাসীরের বর্ণনায় সুদ্দী এখানে ফিতনা বলতে শিরক বুঝেছেন। অংশটি জুড়ে আরেকটি শব্দও বারবার আসে: সাবীল, অর্থাৎ পথ। ৪:৮৮ আয়াতের শেষ কথা, আল্লাহ যাকে পথভ্রষ্ট করেন, তার জন্য তুমি কখনো কোনো পথ পাবে না। ৪:৮৯ আয়াত চায় ফী সাবীলিল্লাহ, আল্লাহর পথে হিজরত। আর ৪:৯০ আয়াত শেষ হয় সেই একই শব্দে: যারা শান্তির প্রস্তাব দেয়, তাদের বিরুদ্ধে আল্লাহ তোমাদের জন্য কোনো পথ রাখেননি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which People, and Which War",
+          "bn": "কোন লোক, কোন যুদ্ধ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir gives two main reports. The first, from Zayd ibn Thabit (RA), ties 4:88 to Uhud and the men who turned back from the march. The second, which al-Awfi reports from Ibn Abbas (RA) and Ibn Abi Hatim records, concerns people in Makkah who said they had embraced Islam yet gave their support to the idolaters. When they left Makkah on some errand, some believers wanted to march on them and kill them, because they backed the enemy. Others objected: would you kill people who say what you say, only because they did not emigrate?",
+            "bn": "ইবনে কাসীর প্রধান দুটি বর্ণনা আনেন। প্রথমটি যায়েদ ইবনে সাবিত (রাঃ) থেকে। তাতে ৪:৮৮ আয়াতকে যুক্ত করা হয়েছে উহুদের সঙ্গে, আর সেই লোকদের সঙ্গে যারা যাত্রাপথ থেকে ফিরে গিয়েছিল। দ্বিতীয়টি আওফী বর্ণনা করেছেন ইবনে আব্বাস (রাঃ) থেকে, আর ইবনে আবি হাতিম তা লিপিবদ্ধ করেছেন। এটি মক্কার এমন কিছু লোকের কথা, যারা ইসলাম গ্রহণের দাবি করত, অথচ মুশরিকদের সাহায্য করত। তারা কোনো কাজে মক্কা থেকে বের হলে কিছু মুমিন বললেন, চলো ওদের ওপর চড়াও হয়ে হত্যা করি, ওরা তো শত্রুর সহায়। অন্যরা আপত্তি করলেন: যারা তোমাদের মতোই কালেমা বলে, শুধু হিজরত করেনি বলে তাদের হত্যা করবে?"
+          },
+          {
+            "en": "In that report the Prophet ﷺ was with them and forbade neither side from making its case, until the verse came. At-Tabari, weighing the reports, preferred the view that the verse concerns people from Makkah, reasoning from the words until they emigrate, which point to people living outside Madinah. Mujahid, in a report Ibn Kathir cites for 4:91, said that verse came down about a group from Makkah who came to the Prophet ﷺ in Madinah appearing to be Muslims, then went back to Quraysh and returned to their idols, wanting to be at peace with both sides.",
+            "bn": "সেই বর্ণনায় নবী ﷺ তাঁদের মাঝেই ছিলেন, আর আয়াত নাযিল হওয়া পর্যন্ত কোনো পক্ষকেই নিজের কথা বলতে নিষেধ করেননি। আত-তাবারী বর্ণনাগুলো যাচাই করে এই মতটিকে অগ্রাধিকার দিয়েছেন যে আয়াতটি মক্কার লোকদের নিয়ে। তাঁর যুক্তি আয়াতের শব্দ, যতক্ষণ না তারা হিজরত করে। এই কথা ইঙ্গিত দেয়, তারা মদিনার বাইরের মানুষ। ইবনে কাসীর ৪:৯১ আয়াতের ব্যাখ্যায় মুজাহিদের বর্ণনা আনেন: সেই আয়াত নাযিল হয়েছিল মক্কার এমন এক দলকে নিয়ে, যারা মদিনায় নবী ﷺ-এর কাছে এসে মুসলমান সাজত, তারপর কুরাইশের কাছে ফিরে গিয়ে আবার মূর্তিপূজায় লিপ্ত হতো। তারা দুই পক্ষের সঙ্গেই শান্তিতে থাকতে চাইত।"
+          },
+          {
+            "en": "On the words if they turn away, Ibn Kathir gives two readings: from Ibn Abbas (RA), if they abandon emigration; from as-Suddi, if they make their disbelief open. As-Sa'di describes these hypocrites as people who claimed Islam but refused to emigrate, and notes that once they emigrated they had the rights of every Muslim. The Prophet ﷺ, he says, gave those rights to everyone with him who had emigrated, true believer or hypocrite alike. As these commentators read it, the ruling fell on people who refused hijrah or declared their disbelief, not on the hidden doubts of those living among the believers.",
+            "bn": "যদি তারা মুখ ফিরিয়ে নেয়, এই কথার দুটি ব্যাখ্যা ইবনে কাসীর উল্লেখ করেন। ইবনে আব্বাস (রাঃ) থেকে: যদি তারা হিজরত ছেড়ে দেয়। সুদ্দী থেকে: যদি তারা নিজেদের কুফর প্রকাশ্যে ঘোষণা করে। আস-সা'দী এই মুনাফিকদের পরিচয় দেন এভাবে: তারা ইসলামের দাবি করত, কিন্তু হিজরত করতে অস্বীকার করত। তিনি আরও বলেন, হিজরত করলে তারা আর সব মুসলমানের মতোই অধিকার পেত। নবী ﷺ তাঁর সঙ্গে থাকা প্রত্যেক হিজরতকারীকে সেই অধিকার দিতেন, সে খাঁটি মুমিন হোক বা মুনাফিক। এই মুফাসসিরদের পাঠে হুকুমটি ছিল তাদের ওপর, যারা হিজরত প্রত্যাখ্যান করেছিল বা কুফর ঘোষণা করেছিল। মুমিনদের মাঝে বসবাসকারীদের গোপন সন্দেহ এর আওতায় ছিল না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Exceptions, Read Closely",
+          "bn": "ব্যতিক্রমগুলো খুঁটিয়ে পড়া"
+        },
+        "p": [
+          {
+            "en": "4:90 names two kinds of people outside the ruling. The first are those who reach and join a people with whom the believers have a treaty. Ibn Kathir says they are to be treated as the treaty people are treated, and that this is the view of as-Suddi, Ibn Zayd and Ibn Jarir at-Tabari. The second are those who come with their hearts constricted, hasirat suduruhum, at the thought of fighting the believers or fighting their own people. Ibn Kathir describes them as neither with the Muslims nor against them, and says the believers have no right to kill them while they hold that position.",
+            "bn": "৪:৯০ আয়াত দুই ধরনের মানুষকে হুকুমের বাইরে রাখে। প্রথম দল তারা, যারা এমন কোনো সম্প্রদায়ের কাছে গিয়ে মেলে, যাদের সঙ্গে মুমিনদের চুক্তি আছে। ইবনে কাসীর বলেন, চুক্তিবদ্ধ সম্প্রদায়ের সঙ্গে যে আচরণ, এদের সঙ্গেও সেই আচরণ হবে। তিনি জানান, এটি সুদ্দী, ইবনে যায়েদ ও ইবনে জারীর আত-তাবারীর মত। দ্বিতীয় দল তারা, যারা আসে সংকুচিত মন নিয়ে, হাসিরাত সুদূরুহুম। মুমিনদের বিরুদ্ধে লড়তেও তাদের মন সায় দেয় না, নিজের সম্প্রদায়ের বিরুদ্ধে লড়তেও না। ইবনে কাসীর তাদের বর্ণনা দেন, তারা মুসলমানদের পক্ষেও নয়, বিপক্ষেও নয়। আর যতক্ষণ তারা এই অবস্থানে থাকে, ততক্ষণ তাদের হত্যা করার কোনো অধিকার মুমিনদের নেই।"
+          },
+          {
+            "en": "As-Sa'di draws the lines most sharply. Fighting the first two groups, he says, is forbidden in every circumstance, and for the believers their standing aside is the best outcome, to be accepted with praise to Allah. Only the third group, the people of 4:91 who seek safety from both sides and keep falling back into fitnah, may be fought, and even then only if they do not withdraw, do not offer peace and do not restrain their hands. Al-Muyassar puts the end of 4:90 simply: if they leave you, do not fight you and yield to you, you have no way to fight them.",
+            "bn": "আস-সা'দী সীমারেখাগুলো সবচেয়ে স্পষ্ট করে টানেন। তিনি বলেন, প্রথম দুই দলের সঙ্গে লড়াই কোনো অবস্থাতেই জায়েয নয়। তাদের সরে থাকাই মুমিনদের জন্য সবচেয়ে ভালো ফল, তাই এতে সন্তুষ্ট থেকে আল্লাহর প্রশংসা করা উচিত। লড়াইয়ের অনুমতি শুধু তৃতীয় দলের বিরুদ্ধে, অর্থাৎ ৪:৯১ আয়াতের সেই লোকেরা, যারা দুই পক্ষের কাছেই নিরাপত্তা চায় আর বারবার ফিতনায় ফিরে যায়। তাও কেবল তখন, যখন তারা সরে দাঁড়ায় না, শান্তির প্রস্তাব দেয় না, আর নিজেদের হাত গুটিয়ে নেয় না। আল-মুয়াসসার ৪:৯০ আয়াতের শেষ অংশ সহজ করে বলে: তারা যদি তোমাদের ছেড়ে যায়, তোমাদের সঙ্গে না লড়ে, আর তোমাদের কাছে আত্মসমর্পণ করে, তবে তাদের সঙ্গে লড়াইয়ের কোনো পথ তোমাদের নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Madinah Sifts Its Own",
+          "bn": "মদিনা নিজেই ছেঁকে নেয়"
+        },
+        "p": [
+          {
+            "en": "Imam Ahmad records from Zayd ibn Thabit (RA) that the Messenger of Allah ﷺ marched out towards Uhud, and some who had set out with him went back to Madinah. The Companions divided over them: one group said they should be killed, the other objected. Then Allah sent down fa-ma lakum fil-munafiqina fi'atayn. In the wording Ibn Kathir gives, the Prophet ﷺ said of Madinah that she is Taybah and expels impurity as the bellows expel the dross of iron. Ibn Kathir adds that the two Sahihs also record the report.",
+            "bn": "ইমাম আহমাদ যায়েদ ইবনে সাবিত (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ উহুদের দিকে রওনা হলেন, আর তাঁর সঙ্গে যারা বের হয়েছিল তাদের কিছু লোক মদিনায় ফিরে গেল। তাদের নিয়ে সাহাবীরা দুই ভাগ হয়ে গেলেন। একদল বললেন, ওদের হত্যা করা উচিত, অন্যদল আপত্তি করলেন। তখন আল্লাহ নাযিল করলেন, ফা-মা লাকুম ফিল-মুনাফিকীনা ফিআতাইন। ইবনে কাসীর যে ভাষ্য উল্লেখ করেছেন, তাতে নবী ﷺ মদিনা সম্পর্কে বলেন, এ হলো তাইবা, হাপর যেমন লোহার ময়লা দূর করে, মদিনাও তেমনি মলিনতা দূর করে দেয়। ইবনে কাসীর আরও জানান, সহীহ বুখারী ও সহীহ মুসলিমেও বর্ণনাটি আছে।"
+          },
+          {
+            "en": "The Prophet's ﷺ words in that report give no order to pursue the men who left. They speak of the city itself separating the true from the false. His practice with the hypocrites living inside Madinah kept that restraint. Al-Bukhari records from Jabir (RA) that when Abdullah ibn Ubayy said the more honoured would expel the more humble on returning to Madinah, words 63:8 preserves, Umar (RA) asked leave to kill him. The Prophet ﷺ refused, so that people would not say Muhammad kills his companions.",
+            "bn": "সেই বর্ণনায় নবী ﷺ-এর কথায় যারা চলে গেল তাদের পিছু ধাওয়া করার কোনো নির্দেশ নেই। তাঁর কথা শহরটিকে নিয়ে, যা নিজেই খাঁটি আর মেকিকে আলাদা করে ফেলে। মদিনার ভেতরে বাস করা মুনাফিকদের সঙ্গেও তাঁর আচরণে এই সংযম ছিল। সহীহ বুখারীতে জাবির (রাঃ) থেকে আছে, আবদুল্লাহ ইবনে উবাই বলেছিল, মদিনায় ফিরলে সম্মানিতরা হীনদের বের করে দেবে। তার এই কথা ৬৩:৮ আয়াতে সংরক্ষিত আছে। উমর (রাঃ) তাকে হত্যার অনুমতি চাইলেন। নবী ﷺ রাজি হলেন না, যেন লোকে না বলে যে মুহাম্মদ নিজের সঙ্গীদেরই হত্যা করেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses That Stand Beside It",
+          "bn": "পাশে দাঁড়ানো আয়াতগুলো"
+        },
+        "p": [
+          {
+            "en": "4:94, three verses on, completes the passage's care for blood. It tells the believers, when they go out in Allah's cause, to investigate, and not to say to one who offers them peace, you are not a believer, out of desire for the goods of this life. 4:97 shows why emigration weighed so much here: the angels ask those who died wronging themselves whether Allah's earth was not spacious enough to emigrate. Yet 4:98 excepts the oppressed who could neither devise a plan nor find a way.",
+            "bn": "তিন আয়াত পরে ৪:৯৪ আয়াত রক্তের প্রতি এই অংশের সতর্কতাকে পূর্ণ করে। সেখানে মুমিনদের বলা হয়েছে, আল্লাহর পথে বের হলে যাচাই করে নাও, আর কেউ তোমাদের শান্তির সালাম দিলে দুনিয়ার সম্পদের লোভে তাকে বলো না, তুমি মুমিন নও। হিজরত এখানে কেন এত গুরুত্বপূর্ণ, তা বোঝা যায় ৪:৯৭ আয়াতে। নিজেদের ওপর যুলুম করা অবস্থায় যাদের মৃত্যু হয়, ফেরেশতারা তাদের জিজ্ঞেস করেন, আল্লাহর যমীন কি হিজরতের জন্য প্রশস্ত ছিল না? তবু ৪:৯৮ আয়াত সেই অসহায়দের বাদ রাখে, যারা কোনো উপায় বের করতে পারে না, পথও পায় না।"
+          },
+          {
+            "en": "60:8 draws the wider line the passage assumes: Allah does not forbid being righteous and just toward those who do not fight you because of religion and do not expel you from your homes. 8:61 tells the Prophet ﷺ that if they incline to peace, he should incline to it too and rely upon Allah. 2:190 commands fighting those who fight you and forbids transgression, for Allah does not like transgressors. Ibn Kathir notes a report that Ibn Abbas (RA) said the treaty exception was abrogated by 9:5, yet the restraint closing 4:90 is no lone footnote: these verses carry it across the Quran.",
+            "bn": "৬০:৮ আয়াত সেই বড় সীমারেখা টানে, যা এই অংশের পেছনে আছে: দীনের কারণে যারা তোমাদের সঙ্গে লড়েনি এবং তোমাদের ঘরবাড়ি থেকে বের করে দেয়নি, তাদের প্রতি সদয় ও ন্যায়নিষ্ঠ হতে আল্লাহ নিষেধ করেন না। ৮:৬১ আয়াত নবী ﷺ-কে বলে, তারা সন্ধির দিকে ঝুঁকলে তিনিও যেন ঝুঁকে পড়েন এবং আল্লাহর ওপর ভরসা করেন। ২:১৯০ আয়াত নির্দেশ দেয়, যারা তোমাদের বিরুদ্ধে লড়ে তাদের বিরুদ্ধে লড়ো, কিন্তু সীমা ছাড়িয়ো না, কারণ আল্লাহ সীমালঙ্ঘনকারীদের ভালোবাসেন না। ইবনে কাসীর অবশ্য একটি বর্ণনা উল্লেখ করেন যে, ইবনে আব্বাস (রাঃ) বলেছেন, চুক্তির ব্যতিক্রমটি ৯:৫ আয়াত দিয়ে রহিত হয়ে যায়। তবু ৪:৯০ আয়াতের শেষ বাক্যের সংযম কোনো বিচ্ছিন্ন টীকা নয়, এই আয়াতগুলো কুরআন জুড়ে সেই সংযমই বহন করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Carrying a Hard Verse Today",
+          "bn": "আজ কঠিন আয়াতটি বহন করা"
+        },
+        "p": [
+          {
+            "en": "The first duty here is to read the passage whole. The command in 4:89 is not the end of the thought: 4:90 begins with illa, except, and the exception attaches to that very command. Anyone who lifts the words kill them wherever you find them out of 4:89 and aims them at a neighbour, a community or a people at peace has cut the verse from its own exceptions and from the commentators who said whom it concerned. When you share a verse about fighting, share the verses beside it too.",
+            "bn": "প্রথম দায়িত্ব হলো অংশটি পুরোটা একসঙ্গে পড়া। ৪:৮৯ আয়াতের হুকুমেই কথা শেষ নয়। ৪:৯০ আয়াত শুরু হয় ইল্লা দিয়ে, আর ব্যতিক্রমটি জুড়ে আছে ঠিক ওই হুকুমের সঙ্গেই। কেউ যদি ৪:৮৯ আয়াত থেকে, যেখানে পাও হত্যা করো, কথাটুকু তুলে এনে কোনো প্রতিবেশী, কোনো জনগোষ্ঠী বা শান্তিতে থাকা কোনো জাতির দিকে তাক করে, তবে সে আয়াতটিকে তার নিজের ব্যতিক্রম থেকে কেটে ফেলেছে। মুফাসসিরগণ যাদের কথা বলেছেন, তাদের থেকেও বিচ্ছিন্ন করেছে। যুদ্ধের কোনো আয়াত শেয়ার করলে তার পাশের আয়াতগুলোও সঙ্গে দিন।"
+          },
+          {
+            "en": "The same honesty is owed when someone quotes these verses to accuse Islam. The answer is the passage itself: particular people who professed faith and then deserted or sided against the believers in wartime, a ruling fenced by two exemptions and a condition, and a closing word that Allah made no way against anyone who offers peace. A family or study circle can practise this. Read 4:88 to 4:94 aloud together, then let each person say in one sentence whom the command concerned and whom it did not.",
+            "bn": "কেউ যখন এই আয়াতগুলো উদ্ধৃত করে ইসলামকে দোষারোপ করে, তখনও একই সততা দরকার। জবাব এই অংশটিই: নির্দিষ্ট কিছু মানুষ, যারা ঈমানের দাবি করে যুদ্ধের সময় মুমিনদের ছেড়ে গিয়েছিল বা বিপক্ষে দাঁড়িয়েছিল। হুকুমটির চারপাশে আছে দুটি ব্যতিক্রম ও একটি শর্ত। আর শেষ কথা, যে শান্তির প্রস্তাব দেয়, তার বিরুদ্ধে আল্লাহ কোনো পথ রাখেননি। পরিবার বা পাঠচক্রে এর অনুশীলন করা যায়। ৪:৮৮ থেকে ৪:৯৪ পর্যন্ত একসঙ্গে জোরে পড়ুন, তারপর প্রত্যেকে এক বাক্যে বলুক, হুকুমটি কাদের নিয়ে ছিল আর কাদের নিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer in Its Vocabulary",
+          "bn": "আয়াতের শব্দে দু'আ"
+        },
+        "p": [
+          {
+            "en": "The passage holds no supplication, so what follows is not a Sunnah du'a but a short prayer composed from the passage's own words, to be read as such. O Allah, do not cast us back for what we have earned. Do not make us among those who are returned to fitnah and fall into it. Guide us to Your way and keep us firm upon it. And make us people who accept peace when it is offered and who do not transgress.",
+            "bn": "এই অংশে কোনো দু'আ নেই। তাই নিচের কথাগুলো সুন্নাহর দু'আ নয়, আয়াতের নিজের শব্দ দিয়ে গড়া ছোট প্রার্থনা, একে সেভাবেই পড়ুন। হে আল্লাহ, আমাদের কামাইয়ের কারণে আমাদের উল্টো দিকে ফিরিয়ে দেবেন না। যাদের ফিতনার দিকে ফেরানো হলে তাতেই ডুবে যায়, আমাদের তাদের দলে রাখবেন না। আমাদের আপনার পথ দেখান, আর সেই পথে অবিচল রাখুন। আর আমাদের এমন মানুষ বানান, যারা শান্তির প্রস্তাব পেলে তা গ্রহণ করে এবং সীমা ছাড়ায় না।"
+          },
+          {
+            "en": "Each line answers the text. The first answers arkasahum in 4:88, the fear of being turned back by one's own deeds; the second, urkisu fiha in 4:91, the fall that repeats itself. The prayer for guidance answers the warning of 4:88 about the one for whom no way is found. The last answers the close of 4:90 and the ban on transgression in 2:190. Say it after reading the passage, so that its hardest words end in a request for your own heart.",
+            "bn": "প্রতিটি লাইন আয়াতের কোনো কথার জবাব। প্রথমটি ৪:৮৮ আয়াতের আরকাসাহুম শব্দের জবাব, নিজের আমলের কারণে উল্টো দিকে ফিরে যাওয়ার ভয়। দ্বিতীয়টি ৪:৯১ আয়াতের উরকিসূ ফীহা, বারবার ফিরে ফিরে পড়ে যাওয়ার জবাব। হিদায়াতের প্রার্থনাটি ৪:৮৮ আয়াতের সেই সতর্কবাণীর জবাব, যার জন্য কোনো পথ পাওয়া যায় না। শেষটি জবাব দেয় ৪:৯০ আয়াতের শেষ কথা আর ২:১৯০ আয়াতের সীমালঙ্ঘনের নিষেধকে। অংশটি পড়ার পর দু'আটি করুন, যেন এর কঠিনতম কথাগুলো শেষ হয় নিজের অন্তরের জন্য চাওয়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions for the Road",
+          "bn": "পথে সঙ্গে রাখার প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "When I meet a hard verse, do I go first to its context and its commentators, or to my own feelings about it? When I have quoted the Quran in an argument, have I ever left out the verse that would have softened my point? When believers around me split into camps over who is sincere, what have I actually seen of anyone's conduct, and what am I only guessing about their hearts?",
+            "bn": "কঠিন কোনো আয়াতের সামনে এলে আমি কি আগে তার প্রেক্ষাপট ও মুফাসসিরদের কাছে যাই, নাকি নিজের অনুভূতির কাছে? তর্কে কুরআন উদ্ধৃত করার সময় আমি কি কখনো সেই আয়াতটি বাদ দিয়েছি, যা আমার কথাকে নরম করে দিত? আমার চারপাশের মুমিনরা কে খাঁটি তা নিয়ে দুই দলে ভাগ হলে, কারও আচরণের কতটুকু আমি সত্যিই দেখেছি, আর তাদের অন্তর নিয়ে কতটুকু শুধু অনুমান করছি?"
+          },
+          {
+            "en": "Is there a company where I keep my faith quiet so that I can stay safe with everyone, as the people of 4:91 wanted? When someone who wronged me offers peace, what stops me from taking it as readily as 4:90 does? And what have I earned this month that I would not want to be turned back by?",
+            "bn": "এমন কোনো মহল কি আছে, যেখানে সবার কাছে নিরাপদ থাকার জন্য আমি নিজের ঈমানকে চুপ করিয়ে রাখি, যেমনটা ৪:৯১ আয়াতের লোকেরা চাইত? যে আমার ওপর অন্যায় করেছে, সে শান্তির প্রস্তাব দিলে ৪:৯০ আয়াতের মতো সহজে তা গ্রহণ করতে আমাকে কী আটকায়? আর এই মাসে আমি এমন কী কামাই করেছি, যার কারণে উল্টো দিকে ফিরে যেতে চাই না?"
           }
         ]
       }

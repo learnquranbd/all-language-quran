@@ -2611,6 +2611,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:123-126": {
+    "sections": [
+      {
+        "h": {
+          "en": "Badr Recalled at Uhud",
+          "bn": "উহুদের মাঝে বদরের স্মৃতি"
+        },
+        "p": [
+          {
+            "en": "These four verses sit inside the long passage in which Al Imran, a Madinan surah, goes back over the battle of Uhud. 3:121 opens it with the Prophet ﷺ leaving his family in the morning to post the believers at their stations, and 3:122 recalls two parties among them who were about to lose courage, while Allah was their ally. Then 3:123 steps back a whole year, to Badr, before the passage returns in 3:127 and 3:128 to the purpose of the fighting and to the decision that belongs to Allah alone.",
+            "bn": "এই চারটি আয়াত সূরা আলে ইমরানের সেই দীর্ঘ অংশের ভেতরে, যেখানে এই মাদানী সূরা উহুদের যুদ্ধ নিয়ে ফিরে ফিরে কথা বলে। ৩:১২১ আয়াতে অংশটির শুরু: নবী ﷺ সকালে পরিবার ছেড়ে বের হয়ে মুমিনদের যুদ্ধের জায়গায় জায়গায় বসাচ্ছিলেন। ৩:১২২ আয়াত মনে করিয়ে দেয়, তাঁদের দুটি দল সাহস হারাতে বসেছিল, অথচ আল্লাহ ছিলেন তাঁদের অভিভাবক। এরপর ৩:১২৩ আয়াত পুরো এক বছর পিছিয়ে বদরে চলে যায়। তারপর ৩:১২৭ ও ৩:১২৮ আয়াতে আলোচনা আবার ফেরে যুদ্ধের উদ্দেশ্য আর সেই ফয়সালার কথায়, যা একমাত্র আল্লাহর।"
+          },
+          {
+            "en": "Ibn Kathir explains why Badr is recalled at this point: the verse reminds the believers that victory comes only from Allah, not from a large army or plentiful supplies, and he places beside it 9:25 on the day of Hunayn. He dates Badr to a Friday, the seventeenth of Ramadan in the second year of the Hijrah, calls it the Day of the Criterion, and gives the Muslims as three hundred and thirteen men with two horses and seventy camels, against an enemy of nine hundred to a thousand, well armed and well mounted.",
+            "bn": "উহুদের আলোচনায় বদর কেন এল, ইবনে কাসীর তার ব্যাখ্যা দেন। আয়াতটি মুমিনদের মনে করিয়ে দেয় যে বিজয় আসে কেবল আল্লাহর কাছ থেকে, বড় বাহিনী বা প্রচুর রসদ থেকে নয়। এর পাশে তিনি হুনায়নের দিন নিয়ে ৯:২৫ আয়াতটি রাখেন। তাঁর হিসাবে বদর হয়েছিল হিজরতের দ্বিতীয় বছরের রমজানের সতেরো তারিখ, এক শুক্রবারে। দিনটিকে তিনি বলেন ফুরকানের দিন, সত্য-মিথ্যা আলাদা হওয়ার দিন। মুসলিমরা ছিলেন তিনশো তেরো জন, সঙ্গে দুটি ঘোড়া আর সত্তরটি উট। শত্রু ছিল নয়শো থেকে এক হাজার, অস্ত্রে ও বাহনে পুরোপুরি সজ্জিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weak, Reinforced, Grateful",
+          "bn": "দুর্বল, সাহায্যপ্রাপ্ত, শোকরগুজার"
+        },
+        "p": [
+          {
+            "en": "Wa laqad nasarakumullahu bi-Badrin wa antum adhillah: and Allah had already given you victory at Badr while you were adhillah. The singular is dhalil, low or humbled, and the app renders it weak, meaning few in number. Ibn Kathir glosses it simply as few, and at-Tafsir al-Muyassar as few in number and in equipment. The verse states the believers' weakness without embarrassment, in the same sentence as their victory, because the weakness is exactly what shows where the victory came from.",
+            "bn": "ওয়া লাকাদ নাসারাকুমুল্লাহু বিবাদরিন ওয়া আনতুম আযিল্লাহ: আল্লাহ তো বদরে তোমাদের বিজয় দিয়েছিলেন, যখন তোমরা ছিলে আযিল্লাহ। এর একবচন যালীল, অর্থাৎ নিচু বা হীন। অ্যাপের ইংরেজি অনুবাদ একে দুর্বল বলে, বন্ধনীতে ব্যাখ্যা দেয় সংখ্যায় অল্প, আর বাংলা অনুবাদে এসেছে হীন অবস্থা। ইবনে কাসীর শব্দটির ব্যাখ্যা দেন শুধু অল্প বলে, আর আত-তাফসীর আল-মুয়াসসার বলে সংখ্যায় ও সরঞ্জামে কম। আয়াত মুমিনদের দুর্বলতার কথা লজ্জা ছাড়াই বলে, বিজয়ের কথার সঙ্গে একই বাক্যে। কারণ এই দুর্বলতাই দেখিয়ে দেয় বিজয় কোথা থেকে এসেছিল।"
+          },
+          {
+            "en": "The verse then draws its conclusion: fattaqullaha la'allakum tashkurun, so fear Allah, that perhaps you will be grateful. It does not tell them to be proud of Badr or to expect the same result by right. Ibn Kathir explains the command as fulfilling the obligations of obedience to Him, and al-Muyassar as doing what He commanded and avoiding what He forbade, so that they may thank Him for His favours. Gratitude, in this sentence, is reached through taqwa, not through remembering alone.",
+            "bn": "এরপর আয়াত তার উপসংহার টানে: ফাত্তাকুল্লাহা লাআল্লাকুম তাশকুরূন, সুতরাং আল্লাহকে ভয় করো, যাতে তোমরা শোকরগুজার হতে পারো। বদর নিয়ে গর্ব করতে বলা হয়নি, একই ফল পাওনা ভেবে বসে থাকতেও বলা হয়নি। ইবনে কাসীরের ব্যাখ্যায় এর মানে তাঁর আনুগত্যের দায়িত্বগুলো পালন করা। আল-মুয়াসসার বলে, তিনি যা আদেশ করেছেন তা করা আর যা নিষেধ করেছেন তা থেকে দূরে থাকা, যাতে তাঁরা তাঁর নিয়ামতের শোকর আদায় করতে পারেন। এই বাক্যে শোকরে পৌঁছানোর পথ তাকওয়া, শুধু মনে করা নয়।"
+          },
+          {
+            "en": "3:124 asks alan yakfiyakum, is it not enough for you, that your Lord should reinforce you, an yumiddakum, with three thousand angels munzalin, sent down. The verb is from imdad, to supply or reinforce. 3:125 answers with bala, yes indeed, the word that affirms after a negative question, and raises the number to five thousand musawwimin. Al-Muyassar explains that the angels had marked themselves and their horses with clear signs, and Ibn Kathir cites Ali (RA) that at Badr they were marked by white wool.",
+            "bn": "৩:১২৪ আয়াত প্রশ্ন করে: আলান ইয়াকফিয়াকুম, তোমাদের জন্য কি যথেষ্ট নয় যে তোমাদের রব আন ইউমিদ্দাকুম, তোমাদের সাহায্য পাঠাবেন তিন হাজার মুনযাল ফেরেশতা দিয়ে, যাঁদের আসমান থেকে নামানো হবে? ক্রিয়াটি ইমদাদ থেকে, অর্থাৎ রসদ বা বাড়তি শক্তি জুগিয়ে দেওয়া। ৩:১২৫ আয়াত জবাব দেয় বালা দিয়ে। নেতিবাচক প্রশ্নের পরে হ্যাঁ বলতে এই শব্দই আসে। তারপর সংখ্যা বেড়ে হয় পাঁচ হাজার মুসাওয়িমীন। আল-মুয়াসসার বলে, ফেরেশতারা নিজেদের ও ঘোড়াগুলোকে স্পষ্ট চিহ্নে চিহ্নিত করেছিলেন। ইবনে কাসীর আলী (রাঃ)-এর বক্তব্য আনেন যে বদরে তাঁদের চিহ্ন ছিল সাদা পশম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Badr or Uhud: A Real Difference",
+          "bn": "বদর না উহুদ: সত্যিকারের মতভেদ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reports that the scholars of tafsir differ over whether the promise in 3:124-125 belongs to Badr or to Uhud. The first view ties it to the mention of Badr just before it; he names al-Hasan al-Basri, ash-Sha'bi and ar-Rabi' ibn Anas, and says that Ibn Jarir at-Tabari agreed. Ash-Sha'bi's report, through Ibn Abi Hatim, says the Muslims at Badr heard that Kurz ibn Jabir was coming to help the idolaters, that the news weighed on them, and that when Kurz heard of the defeat he did not come, so the five thousand were not sent.",
+            "bn": "ইবনে কাসীর জানান, ৩:১২৪-১২৫ আয়াতের ওয়াদা বদরের না উহুদের, তা নিয়ে তাফসীরবিদদের মধ্যে মতভেদ আছে। প্রথম মত একে ঠিক আগের বদরের উল্লেখের সঙ্গে যুক্ত করে। এই মতের লোক হিসেবে তিনি হাসান বসরী, শা'বী ও রবী' ইবনে আনাসের নাম করেন, আর বলেন ইবনে জারীর তাবারীও এতে একমত। ইবনে আবী হাতিমের সূত্রে শা'বীর বর্ণনা: বদরে মুসলিমরা খবর পেলেন, কুরয ইবনে জাবির মুশরিকদের সাহায্যে আসছে। খবরটা তাঁদের ওপর ভারী হয়ে পড়ল। পরে কুরয পরাজয়ের খবর পেয়ে আর আসেনি, তাই পাঁচ হাজারও পাঠানো হয়নি।"
+          },
+          {
+            "en": "On this view a question follows, since 8:9 speaks of a thousand angels at Badr. Ibn Kathir answers that following one another implies that more came after the first thousand, and he concludes that both passages appear to concern Badr, where the evidence shows the angels fought. He also sets out the second view, which ties the promise to the morning of Uhud in 3:121. On that reading the reinforcement was conditional on patience and taqwa, and because the Muslims did not hold their ground at Uhud, it was not sent.",
+            "bn": "এই মত নিলে একটা প্রশ্ন ওঠে, কারণ ৮:৯ আয়াত বদরে এক হাজার ফেরেশতার কথা বলে। ইবনে কাসীরের জবাব: পর পর আসবে কথাটিই বোঝায় যে প্রথম হাজারের পরে আরও এসেছিলেন। তাঁর সিদ্ধান্ত, দুটি অংশই বদর নিয়ে বলে মনে হয়, কারণ প্রমাণ দেখায় বদরে ফেরেশতারা যুদ্ধ করেছিলেন। দ্বিতীয় মতটিও তিনি তুলে ধরেন। এই মত ওয়াদাটিকে ৩:১২১ আয়াতের উহুদের সকালের সঙ্গে যুক্ত করে। এই পাঠে সাহায্য ছিল সবর ও তাকওয়ার শর্তে বাঁধা। উহুদে মুসলিমরা অবস্থানে টিকে থাকেননি, তাই সাহায্য আসেনি।"
+          },
+          {
+            "en": "At-Tafsir al-Muyassar reads the passage with Badr: the three thousand answer the believers' distress at the prospect of help reaching the idolaters, and the five thousand are further good tidings if they are patient and the Makkans rush upon them. Whichever occasion is right, 3:126 settles what the reinforcement meant. Ibn Kathir explains it: Allah sent the angels and told the believers of their coming to encourage and reassure them, and had He willed He would have defeated the enemy without their fighting at all, as 47:4 says.",
+            "bn": "আত-তাফসীর আল-মুয়াসসার অংশটি বদরের সঙ্গেই পড়ে। মুশরিকদের কাছে সাহায্য পৌঁছে যাবে ভেবে মুমিনরা যে কষ্ট পাচ্ছিলেন, তিন হাজার তারই জবাব। আর তাঁরা সবর করলে এবং মক্কার কাফিররা ঝাঁপিয়ে পড়লে পাঁচ হাজার ছিল আরেকটি সুসংবাদ। উপলক্ষ যেটাই হোক, এই সাহায্যের অর্থ ৩:১২৬ আয়াত মীমাংসা করে দেয়। ইবনে কাসীর ব্যাখ্যা করেন: আল্লাহ ফেরেশতা পাঠিয়েছেন আর তাঁদের আসার খবর মুমিনদের জানিয়েছেন, যাতে তাঁদের সাহস বাড়ে, মন শান্ত হয়। তিনি চাইলে লড়াই ছাড়াই শত্রুকে হারিয়ে দিতেন, যেমন ৪৭:৪ আয়াত বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Shelter and the Whip",
+          "bn": "ছাউনির দোয়া, আকাশের চাবুক"
+        },
+        "p": [
+          {
+            "en": "Sahih Muslim 1763 carries the scene at Badr from Ibn Abbas (RA), who narrates it from Umar (RA). The Prophet ﷺ looked at the idolaters, who were a thousand, and at his companions, who were three hundred and nineteen. He faced the qiblah, stretched out his hands and called on his Lord to fulfil what He had promised him, saying that if this band of Muslims perished, Allah would not be worshipped on the earth. He kept calling until his cloak fell from his shoulders.",
+            "bn": "সহীহ মুসলিম ১৭৬৩ বদরের দৃশ্যটি ধরে রেখেছে। ইবনে আব্বাস (রাঃ) তা বর্ণনা করেছেন উমর (রাঃ) থেকে। নবী ﷺ তাকিয়ে দেখলেন, মুশরিকরা এক হাজার, আর তাঁর সাহাবিরা তিনশো উনিশ জন। তিনি কিবলামুখী হলেন, দুই হাত প্রসারিত করলেন, আর রবকে ডেকে বললেন, তিনি যে ওয়াদা করেছেন তা পূরণ করুন। তিনি বললেন, মুসলিমদের এই দলটি ধ্বংস হয়ে গেলে পৃথিবীতে আল্লাহর ইবাদত আর হবে না। এভাবে তিনি ডাকতেই থাকলেন, এমনকি তাঁর চাদর কাঁধ থেকে পড়ে গেল।"
+          },
+          {
+            "en": "Abu Bakr (RA) put the cloak back and told him that his appeal to his Lord was enough, for Allah would fulfil what He had promised, and 8:9 came down. Ibn Kathir, at 8:9, cites at-Tabari and Muslim for a further report from Ibn Abbas (RA), from Umar (RA): a Muslim chasing an idolater heard the crack of a whip above him and a rider's voice, then saw the idolater fall to the ground, his face torn as if by a whip. When the Muslim told the Prophet ﷺ, he confirmed that he had spoken the truth and that this was reinforcement from the third heaven.",
+            "bn": "আবু বকর (রাঃ) চাদরটি তুলে আবার তাঁর কাঁধে দিলেন, আর বললেন, রবের কাছে আপনার এই আকুতিই যথেষ্ট, আল্লাহ তাঁর ওয়াদা অবশ্যই পূরণ করবেন। তখন ৮:৯ আয়াত নাজিল হলো। ৮:৯ আয়াতের আলোচনায় ইবনে কাসীর তাবারী ও মুসলিমের সূত্রে ইবনে আব্বাস (রাঃ)-এর মাধ্যমে উমর (রাঃ)-এর আরেকটি বর্ণনা আনেন: এক মুসলিম এক মুশরিকের পিছু ধাওয়া করছিলেন। হঠাৎ তিনি মাথার ওপরে চাবুকের শব্দ আর এক আরোহীর কণ্ঠ শুনলেন। তারপর দেখলেন মুশরিকটি মাটিতে পড়ে গেছে, মুখে চাবুকের আঘাতের মতো ক্ষত। মুসলিম লোকটি নবী ﷺ-কে ঘটনাটি জানালে নবী ﷺ বললেন, তিনি সত্যই বলেছেন, এ ছিল তৃতীয় আসমান থেকে আসা সাহায্য।"
+          },
+          {
+            "en": "Read beside 3:123-126, the report shows both halves of the passage at once. The believers were few, and the Prophet ﷺ did not treat the promise as a reason to stop asking; he asked until his cloak fell. And the help was real, arriving in a form the Muslims could hear and see. Yet 3:126, like 8:10, insists that help of this kind is good tidings and reassurance, while the victory itself was from Allah, the Exalted in Might, the Wise.",
+            "bn": "৩:১২৩-১২৬ আয়াতের পাশে রাখলে বর্ণনাটি অংশটির দুটি দিকই একসঙ্গে দেখায়। মুমিনরা ছিলেন অল্প, আর ওয়াদা থাকার কারণে নবী ﷺ চাওয়া থামিয়ে দেননি। চাদর পড়ে যাওয়া পর্যন্ত তিনি চেয়েছেন। সাহায্যও ছিল সত্যিকারের, এমনভাবে এসেছিল যা মুসলিমরা শুনেছেন, দেখেছেন। তবু ৮:১০ আয়াতের মতো ৩:১২৬ আয়াতও জোর দিয়ে বলে, এমন সাহায্য হলো সুসংবাদ আর মনের প্রশান্তি। বিজয় নিজে আসে আল্লাহর কাছ থেকে, যিনি পরাক্রমশালী, প্রজ্ঞাময়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Promise in al-Anfal",
+          "bn": "আনফালে একই ওয়াদা"
+        },
+        "p": [
+          {
+            "en": "8:9 is the nearest sister: the believers were asking help of their Lord, and He answered that He would reinforce them with a thousand angels following one another. 8:10 then uses almost the words of 3:126: Allah made it only good tidings and so that their hearts would be assured, and victory is only from Allah, the Exalted in Might, the Wise. Al-Anfal, the surah of Badr, and Al Imran, reading Uhud, draw the same line between the means and the source.",
+            "bn": "সবচেয়ে কাছের আয়াত ৮:৯। মুমিনরা রবের কাছে সাহায্য চাইছিলেন, আর তিনি জবাব দিলেন, পর পর আসা এক হাজার ফেরেশতা দিয়ে তিনি তাঁদের সাহায্য করবেন। এরপর ৮:১০ আয়াত প্রায় ৩:১২৬ আয়াতের ভাষাতেই বলে: আল্লাহ এটাকে কেবল সুসংবাদ বানিয়েছেন, যাতে তাঁদের অন্তর প্রশান্তি পায়। আর সাহায্য আসে একমাত্র আল্লাহর কাছ থেকে, যিনি মহাপরাক্রমশালী, মহাবিজ্ঞানী। বদরের সূরা আল-আনফাল আর উহুদ নিয়ে কথা বলা আলে ইমরান, দুটিই উপকরণ আর উৎসের মাঝে একই রেখা টানে।"
+          },
+          {
+            "en": "8:26 widens the memory: remember when you were few and oppressed in the land, fearing that people would snatch you away, and He sheltered you, supported you with His victory and provided you with good things, that you might be grateful. It closes on gratitude, as 3:123 does. 3:13, earlier in this surah, calls the two armies that met a sign, and says that Allah supports with His victory whom He wills, a lesson for those who have eyes to see.",
+            "bn": "৮:২৬ আয়াত স্মৃতিটাকে আরও বড় করে: মনে করো, তোমরা ছিলে সংখ্যায় অল্প, দেশে দুর্বল গণ্য, ভয় পেতে লোকে কখন ধরে নিয়ে যায়। তারপর তিনি আশ্রয় দিলেন, নিজের সাহায্যে শক্তি দিলেন, উত্তম রিজিক দিলেন, যাতে তোমরা শোকর আদায় করো। ৩:১২৩ আয়াতের মতো এটিও শেষ হয় শোকরে। এই সূরারই আগের দিকে ৩:১৩ আয়াত মুখোমুখি হওয়া দুই বাহিনীকে নিদর্শন বলে। সেখানে বলা হয়েছে, আল্লাহ যাকে ইচ্ছা নিজের সাহায্যে শক্তিশালী করেন, আর এতে দৃষ্টিমানদের জন্য শিক্ষা আছে।"
+          },
+          {
+            "en": "9:25-26, which Ibn Kathir sets beside 3:123, show the other face of the same truth. On the day of Hunayn the believers' great number pleased them, and it availed them nothing; the earth became narrow for them despite its vastness and they turned back. Then Allah sent down His tranquillity on His Messenger and the believers, and soldiers they did not see. At Badr they were few and were helped; at Hunayn they were many and were helped only after their numbers had failed them.",
+            "bn": "ইবনে কাসীর ৩:১২৩ আয়াতের পাশে যে ৯:২৫-২৬ আয়াত রাখেন, তা একই সত্যের অন্য পিঠ দেখায়। হুনায়নের দিন মুমিনদের বিপুল সংখ্যা তাঁদের গর্বিত করেছিল, অথচ তা কোনো কাজে আসেনি। এত প্রশস্ত জমিনও তাঁদের জন্য সংকীর্ণ হয়ে গেল, তাঁরা পিছু হটলেন। তারপর আল্লাহ তাঁর রাসূল ও মুমিনদের ওপর প্রশান্তি নামালেন, আর এমন বাহিনী পাঠালেন যা তাঁরা দেখেননি। বদরে তাঁরা ছিলেন অল্প, আর সাহায্য পেয়েছিলেন। হুনায়নে ছিলেন অনেক, আর সাহায্য এসেছিল সংখ্যা ব্যর্থ হয়ে যাওয়ার পরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Means as Good Tidings",
+          "bn": "উপকরণ যখন সুসংবাদ"
+        },
+        "p": [
+          {
+            "en": "The verses do not despise means. Angels were promised, numbers were named, and the believers were given something concrete to hold. What they refuse is the idea that the means are the source. A person facing surgery gathers good doctors, a family facing hard months puts savings aside, a student facing an examination studies with friends. 3:126 gives each of these its right name: good tidings from Allah and a reassurance for the heart. The outcome stays with the Exalted in Might, the Wise.",
+            "bn": "আয়াতগুলো উপকরণকে তুচ্ছ করে না। ফেরেশতার ওয়াদা এসেছে, সংখ্যা বলা হয়েছে, মুমিনদের হাতে ধরার মতো কিছু দেওয়া হয়েছে। আয়াতগুলো যা মানে না তা হলো, উপকরণই আসল উৎস। অপারেশনের আগে মানুষ ভালো ডাক্তার খোঁজে, কঠিন মাসের আগে পরিবার সঞ্চয় রাখে, পরীক্ষার আগে ছাত্র বন্ধুদের সঙ্গে পড়ে। ৩:১২৬ আয়াত এগুলোর প্রতিটির সঠিক নাম দেয়: আল্লাহর দেওয়া সুসংবাদ, আর অন্তরের প্রশান্তি। ফলাফল থাকে পরাক্রমশালী, প্রজ্ঞাময় আল্লাহর হাতে।"
+          },
+          {
+            "en": "3:123 was said to people still wounded from Uhud, and it reached back to an earlier help. That is a practice a believer can keep. Write down the times Allah carried you through while you were weak: the debt that was settled, the illness that passed, the door that opened when every calculation said it would not. In a hard week, read the list. The memory is not meant to make you proud of having come through. It is meant to steady your heart for what is in front of you.",
+            "bn": "৩:১২৩ আয়াত বলা হয়েছিল এমন মানুষদের, যাঁদের উহুদের ক্ষত তখনো শুকায়নি, আর আয়াতটি তাঁদের আগের একটি সাহায্যের কথা মনে করিয়েছে। একজন মুমিন এটাকে অভ্যাস বানাতে পারেন। দুর্বল অবস্থায় আল্লাহ যখন যখন পার করিয়েছেন, সেগুলো লিখে রাখুন: যে ঋণ শোধ হয়ে গেল, যে অসুখ সেরে গেল, সব হিসাব যখন বলছিল খুলবে না, তখনও যে দরজা খুলে গেল। কঠিন সপ্তাহে তালিকাটা পড়ুন। এই স্মৃতি পার হয়ে আসার গর্বের জন্য নয়। এটা সামনের কাজের জন্য মন শক্ত রাখার জন্য।"
+          },
+          {
+            "en": "And notice what 3:123 asks for after the rescue: taqwa, so that gratitude may follow. If a hard season ends well, keep the prayer you started keeping in it, pay the charity you intended, and stay away from what you left while you were afraid. 3:125 also tied the larger help to patience and taqwa, so a believer does not wait for help while letting go of the very things it was promised to.",
+            "bn": "আর খেয়াল করুন, উদ্ধারের পরে ৩:১২৩ আয়াত কী চায়: তাকওয়া, যাতে তারপর শোকর আসে। কঠিন সময় ভালোয় ভালোয় কাটলে, সেই সময়ে যে নামাজ ধরেছিলেন তা ধরে রাখুন, যে দান করবেন ভেবেছিলেন তা দিয়ে দিন, আর ভয়ের সময় যা ছেড়েছিলেন তা থেকে দূরে থাকুন। ৩:১২৫ আয়াতও বড় সাহায্যকে সবর ও তাকওয়ার সঙ্গে বেঁধে দিয়েছে। তাই মুমিন যে গুণের শর্তে সাহায্যের ওয়াদা, সেই গুণই ছেড়ে দিয়ে সাহায্যের অপেক্ষায় বসে থাকেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for Reassured Hearts",
+          "bn": "প্রশান্ত অন্তরের জন্য দোয়া"
+        },
+        "p": [
+          {
+            "en": "The four verses contain no supplication, and the prayer of the Prophet ﷺ in the shelter at Badr was his own, tied to that day. But 8:9 describes the believers as asking help of their Lord, and a reader may ask in the vocabulary of 3:123-126. What follows is composed from the verses and is not a transmitted du'a: O Allah, You gave victory at Badr to people who were few. We are weak before what faces us. Send us Your help, reassure our hearts by it, and do not leave us to our numbers or our means.",
+            "bn": "এই চার আয়াতে কোনো দোয়া নেই, আর বদরের ছাউনিতে নবী ﷺ-এর দোয়া ছিল তাঁর নিজের, সেই দিনের সঙ্গে বাঁধা। তবে ৮:৯ আয়াত মুমিনদের বর্ণনা দেয় রবের কাছে সাহায্যপ্রার্থী হিসেবে। তাই পাঠক ৩:১২৩-১২৬ আয়াতের শব্দ দিয়ে চাইতে পারেন। নিচের দোয়াটি আয়াতগুলো থেকে সাজানো, হাদিসে বর্ণিত দোয়া নয়: হে আল্লাহ, বদরে আপনি অল্প সংখ্যক মানুষকে বিজয় দিয়েছিলেন। সামনে যা আছে তার তুলনায় আমরা দুর্বল। আমাদের আপনার সাহায্য পাঠান, তা দিয়ে আমাদের অন্তর প্রশান্ত করুন, আর আমাদের সংখ্যা বা উপকরণের হাতে আমাদের ছেড়ে দেবেন না।"
+          },
+          {
+            "en": "Victory is from You alone, the Exalted in Might, the Wise. Give us patience and taqwa when the pressure rushes upon us, and when You bring us through, make us fear You and be grateful to You, not proud of ourselves. It can be said in sujud before a hard day, and then followed by preparation, since the verses never treated asking as a replacement for going out.",
+            "bn": "বিজয় একমাত্র আপনার কাছ থেকে, আপনি পরাক্রমশালী, প্রজ্ঞাময়। চাপ যখন ঝাঁপিয়ে পড়ে, তখন আমাদের সবর আর তাকওয়া দিন। আর যখন পার করিয়ে দেবেন, তখন আমাদের আপনাকে ভয় করতে আর আপনার শোকর আদায় করতে শেখান, নিজেকে নিয়ে গর্ব করতে নয়। কঠিন দিনের আগে সিজদায় দোয়াটি বলা যায়, তারপর প্রস্তুতিও নিতে হয়, কারণ আয়াতগুলো কখনো চাওয়াকে বের হওয়ার বিকল্প বানায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions from Badr",
+          "bn": "বদর থেকে কিছু প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "When I look back on a time I was weak and was carried through, do I tell that story as Allah's help or as my own achievement? Which of my means, my savings, my connections, my qualifications, have I quietly begun to treat as the source of my safety rather than as a comfort He gave me? And if those means were taken away tomorrow, how much of my calm would go with them?",
+            "bn": "দুর্বল অবস্থায় পার হয়ে আসার কোনো ঘটনা যখন মনে করি, তখন কি গল্পটা আল্লাহর সাহায্য হিসেবে বলি, নাকি নিজের কৃতিত্ব হিসেবে? আমার কোন উপকরণকে, সঞ্চয়, পরিচিতি বা যোগ্যতাকে, আমি চুপচাপ নিরাপত্তার উৎস বানিয়ে ফেলেছি, তাঁর দেওয়া সান্ত্বনা না ভেবে? আর কাল যদি এই উপকরণগুলো কেড়ে নেওয়া হয়, আমার মনের শান্তির কতখানি সেগুলোর সঙ্গে চলে যাবে?"
+          },
+          {
+            "en": "After Allah last brought me through something hard, did my obedience grow, or only my relief? In the difficulty I face now, am I holding to patience and taqwa, or am I waiting for help while letting both slip? And which earlier rescue in my own life, a Badr of my own, do I need to remember this week, so that my heart is steady for what is in front of me?",
+            "bn": "সর্বশেষ কোনো কঠিন সময় আল্লাহ পার করিয়ে দেওয়ার পরে কি আমার আনুগত্য বেড়েছে, নাকি শুধু স্বস্তি? এখন যে কষ্টের মুখোমুখি, তাতে কি আমি সবর আর তাকওয়া ধরে আছি, নাকি দুটোই হাত থেকে ছুটে যেতে দিয়ে সাহায্যের অপেক্ষা করছি? আর নিজের জীবনের কোন আগের উদ্ধারটা, আমার নিজের একটা বদর, এই সপ্তাহে মনে করা দরকার, যাতে সামনের কাজের জন্য মন স্থির থাকে?"
+          }
+        ]
+      }
+    ]
+  },
   "3:133-134": {
     "sections": [
       {
@@ -3343,6 +3495,150 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "3:166-168": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Day That Sorted the Ranks",
+          "bn": "যে দিন সারি আলাদা করে দিল"
+        },
+        "p": [
+          {
+            "en": "These three verses belong to Al Imran's long reading of Uhud, in the part that answers a question. 3:165 quotes the believers asking where their disaster had come from, and replies that it is from yourselves. 3:166 then says that what struck them on the day the two armies met was by Allah's permission, that He might make evident the believers, and 3:167 continues: and that He might make evident those who are hypocrites. 3:168 names them further, and 3:169 turns away from them to the fallen, who are not dead but alive with their Lord.",
+            "bn": "এই তিনটি আয়াত সূরা আলে ইমরানের উহুদ-আলোচনার সেই অংশে, যেখানে একটি প্রশ্নের জবাব দেওয়া হচ্ছে। ৩:১৬৫ আয়াতে মুমিনদের প্রশ্ন: এ বিপদ কোথা থেকে এল? জবাব: এটা তোমাদের নিজেদের কাছ থেকেই। এরপর ৩:১৬৬ আয়াত বলে, দুই দল মুখোমুখি হওয়ার দিন যা ঘটেছে তা আল্লাহর হুকুমে, যাতে তিনি মুমিনদের প্রকাশ করে দেন। ৩:১৬৭ আয়াত বাক্যটি এগিয়ে নেয়: আর যাতে মুনাফিকদেরও প্রকাশ করে দেন। ৩:১৬৮ আয়াত তাদের আরও চিনিয়ে দেয়। তারপর ৩:১৬৯ আয়াত তাদের থেকে মুখ ফিরিয়ে শহীদদের দিকে যায়, যাঁরা মৃত নন, রবের কাছে জীবিত।"
+          },
+          {
+            "en": "Ibn Kathir says 3:167 refers to the companions of Abdullah ibn Ubayy ibn Salul, who went back to Madinah with him before the battle. In his account at 3:121 the Prophet ﷺ marched out with a thousand, and at a place called ash-Shawt Ibn Ubayy returned with a third of the army, claiming anger that his advice to stay in the city had not been followed; about seven hundred went on to Uhud. The same morning, 3:122 had recalled two parties of believers who were about to lose courage, and Allah was their ally.",
+            "bn": "ইবনে কাসীর বলেন, ৩:১৬৭ আয়াত আব্দুল্লাহ ইবনে উবাই ইবনে সালুলের সঙ্গীদের কথা বলে, যারা যুদ্ধের আগেই তার সঙ্গে মদিনায় ফিরে গিয়েছিল। ৩:১২১ আয়াতের আলোচনায় তাঁর বিবরণ: নবী ﷺ এক হাজার জন নিয়ে বের হন। শাওত নামের এক জায়গায় পৌঁছে ইবনে উবাই বাহিনীর এক-তৃতীয়াংশ নিয়ে ফিরে যায়। তার দাবি, শহরে থেকে লড়াইয়ের যে পরামর্শ সে দিয়েছিল তা মানা হয়নি বলে সে রাগান্বিত। প্রায় সাতশো জন উহুদের দিকে এগিয়ে যান। সেই সকালেরই কথা বলে ৩:১২২ আয়াত: মুমিনদের দুটি দল সাহস হারাতে বসেছিলেন, আর আল্লাহ ছিলেন তাঁদের অভিভাবক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mouths, Hearts, and Nearness",
+          "bn": "মুখ, অন্তর আর নৈকট্য"
+        },
+        "p": [
+          {
+            "en": "Wa li-ya'lama, literally and that He might know, which the app renders that He might make evident. Allah's knowledge does not grow with events. At-Tafsir al-Muyassar explains the phrase as bringing into the open what Allah had known from eternity, so that the truthful believers would be distinguished. Uhud did not inform Allah of anything. It turned what He already knew about each heart into deeds that everyone could see, and the verse puts the believers and the hypocrites under the same verb.",
+            "bn": "ওয়া লিইয়া'লামা, শাব্দিক অর্থে যাতে তিনি জানেন। অ্যাপের অনুবাদ একে এনেছে জেনে নেওয়া বা প্রকাশ করে দেওয়া অর্থে। ঘটনা ঘটলে আল্লাহর জ্ঞান বাড়ে না। আত-তাফসীর আল-মুয়াসসার বাক্যাংশটির ব্যাখ্যা দেয় এভাবে: আল্লাহ অনাদিকাল থেকে যা জানতেন তা প্রকাশ্যে আনা, যাতে সত্যিকারের মুমিনরা আলাদা হয়ে যান। উহুদ আল্লাহকে নতুন কিছু জানায়নি। প্রতিটি অন্তর সম্পর্কে তিনি যা আগেই জানতেন, উহুদ তা সবার চোখের সামনে কাজে পরিণত করেছে। আর আয়াত মুমিন ও মুনাফিক দুই দলকেই একই ক্রিয়ার অধীনে রেখেছে।"
+          },
+          {
+            "en": "Yaquluna bi-afwahihim ma laysa fi qulubihim: saying with their mouths what was not in their hearts. Speech always comes from the mouth, so naming the mouth here sets it directly against the heart in one sentence. The word nafaqu, those who are hypocrites, is from n-f-q, and the lexicographers connect nifaq with nafiqa', one of the openings of a jerboa's burrow, the animal leaving by one door when it is sought at another. The hypocrite enters Islam by one door and keeps another open.",
+            "bn": "ইয়াকূলূনা বিআফওয়াহিহিম মা লাইসা ফী কুলূবিহিম: তারা মুখে এমন কথা বলে যা তাদের অন্তরে নেই। কথা তো মুখ দিয়েই বের হয়। তাই এখানে মুখের নাম নেওয়ায় একই বাক্যে মুখ আর অন্তর সরাসরি মুখোমুখি দাঁড়িয়ে যায়। মুনাফিক বোঝাতে আয়াতে এসেছে নাফাকূ, মূল ন-ফ-ক। অভিধানবিদরা নিফাককে যুক্ত করেন নাফিকা'-র সঙ্গে। মরুভূমির ইঁদুরজাতীয় প্রাণী জারবোয়ার গর্তের একটা মুখকে বলে নাফিকা'। এক মুখে তাকে খুঁজলে সে অন্য মুখ দিয়ে বেরিয়ে যায়। মুনাফিকও এক দরজা দিয়ে ইসলামে ঢোকে, আরেকটা দরজা খোলা রাখে।"
+          },
+          {
+            "en": "Hum lil-kufri yawma'idhin aqrabu minhum lil-iman: they were, that day, nearer to disbelief than to faith. Two words carry the weight. Aqrabu, nearer, is a comparison, and yawma'idhin, that day, ties it to a moment. Ibn Kathir draws from it that a person passes through states, at times nearer to disbelief and at times nearer to faith. And 3:168 answers their verdict on the dead with fadra'u 'an anfusikum al-mawt, then avert death from yourselves, from a root meaning to push something away.",
+            "bn": "হুম লিলকুফরি ইয়াওমাইযিন আকরাবু মিনহুম লিলঈমান: সেদিন তারা ঈমানের চেয়ে কুফরের বেশি কাছে ছিল। দুটি শব্দে ভার। আকরাবু, বেশি কাছে, একটি তুলনা। আর ইয়াওমাইযিন, সেদিন, কথাটিকে একটি সময়ের সঙ্গে বেঁধে দেয়। ইবনে কাসীর এখান থেকে বলেন, মানুষ বিভিন্ন অবস্থার ভেতর দিয়ে যায়, কখনো কুফরের বেশি কাছে, কখনো ঈমানের বেশি কাছে। আর মৃতদের নিয়ে তাদের রায়ের জবাবে ৩:১৬৮ আয়াত বলে ফাদরাঊ আন আনফুসিকুমুল মাওত, তাহলে নিজেদের থেকে মৃত্যু ঠেকাও। ক্রিয়াটির মূল অর্থ কোনো কিছুকে ঠেলে সরিয়ে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fight, or at Least Defend",
+          "bn": "লড়াই করো, অন্তত প্রতিরক্ষা করো"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains that some believers followed the men who were turning back and urged them to return. The words or defend, he reports from Ibn Abbas, Ikrimah, Sa'id ibn Jubayr, ad-Dahhak, Abu Salih, al-Hasan and as-Suddi, mean adding to the Muslims' numbers. Al-Hasan ibn Salih took it as helping by supplication, and others as manning the posts. Al-Muyassar gives the first sense: be a help to us by swelling our ranks. Even the smallest contribution was offered to them, and it was refused.",
+            "bn": "ইবনে কাসীর জানান, কিছু মুমিন ফিরে যাওয়া লোকদের পিছু নিয়ে তাদের ফিরে আসতে বলেছিলেন। অন্তত প্রতিরক্ষা করো কথাটির অর্থ, ইবনে আব্বাস, ইকরিমা, সাঈদ ইবনে জুবাইর, দাহহাক, আবু সালিহ, হাসান ও সুদ্দীর বর্ণনায়, মুসলিমদের সংখ্যা ভারী করা। হাসান ইবনে সালিহ এর অর্থ নিয়েছেন দোয়া দিয়ে সাহায্য করা, আর কেউ কেউ বলেছেন পাহারার জায়গাগুলোয় থাকা। আল-মুয়াসসার প্রথম অর্থটিই দেয়: আমাদের সারি ভারী করে সাহায্য করো। সবচেয়ে ছোট অংশগ্রহণের সুযোগটিও তাদের সামনে রাখা হয়েছিল, আর তারা তা ফিরিয়ে দিয়েছিল।"
+          },
+          {
+            "en": "Their answer was law na'lamu qitalan lattaba'nakum, had we known there would be fighting, we would have followed you. Mujahid, cited by Ibn Kathir, explains it as: if we knew you would fight today we would join you, but we think you will not fight. Ibn Kathir adds that they did not believe what they said, for they knew an army had come from far away, raging to avenge its nobles killed at Badr and larger than the Muslims, so a battle was certain. The excuse was framed as ignorance, while the facts were in plain view.",
+            "bn": "তাদের জবাব ছিল: লাও না'লামু কিতালান লাত্তাবা'নাকুম, যুদ্ধ হবে জানলে আমরা তোমাদের অনুসরণ করতাম। ইবনে কাসীরের উদ্ধৃত মুজাহিদের ব্যাখ্যা: আজ তোমরা লড়বে জানলে আমরা যোগ দিতাম, কিন্তু আমাদের ধারণা তোমরা লড়বে না। ইবনে কাসীর যোগ করেন, তারা নিজেরাই এ কথা বিশ্বাস করত না। তারা জানত, বদরে নিহত নেতাদের প্রতিশোধ নিতে দূর থেকে একটি বাহিনী রাগে ফুঁসতে ফুঁসতে এসেছে, আর তা মুসলিমদের চেয়ে বড়। তাই যুদ্ধ হওয়া ছিল নিশ্চিত। অজুহাতটা সাজানো হয়েছিল না-জানার পোশাকে, অথচ তথ্যগুলো ছিল চোখের সামনে।"
+          },
+          {
+            "en": "On 3:168, Ibn Kathir explains their words about the dead as: had they taken our advice and not gone out, they would not have died. The reply means that if staying at home saved a person from death, you yourselves should never die, and death will reach you even inside fortified castles. He also cites Mujahid from Jabir ibn Abdullah (RA) that this verse came down about Abdullah ibn Ubayy. Al-Muyassar explains the brothers they spoke of as those struck down with the Muslims at Uhud.",
+            "bn": "৩:১৬৮ আয়াতে মৃতদের নিয়ে তাদের কথাটির ব্যাখ্যা ইবনে কাসীর দেন এভাবে: আমাদের পরামর্শ মেনে বের না হলে তারা মারা যেত না। জবাবের অর্থ, ঘরে থাকলেই যদি মৃত্যু থেকে বাঁচা যেত, তবে তোমাদের নিজেদের কখনো মরার কথা নয়। অথচ মজবুত দুর্গের ভেতরেও মৃত্যু তোমাদের নাগাল পাবে। মুজাহিদের সূত্রে তিনি জাবির ইবনে আব্দুল্লাহ (রাঃ)-এর বক্তব্যও আনেন যে আয়াতটি আব্দুল্লাহ ইবনে উবাই সম্পর্কে নাজিল হয়েছে। আল-মুয়াসসার বলে, তারা যে ভাইদের কথা বলছিল তাঁরা উহুদে মুসলিমদের সঙ্গে থেকে আঘাতে প্রাণ হারিয়েছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Man Who Went After Them",
+          "bn": "যিনি তাদের পিছু নিয়েছিলেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Ishaq names one of the believers who went after the deserters: Abdullah ibn Amr ibn Haram (RA), of Banu Salamah. He appealed to them by Allah not to abandon their people and their Prophet ﷺ with the enemy so close, and they gave him the answer the verse preserves, that they did not think there would be any fighting. Abdullah (RA) was among those killed at Uhud that day, and he was buried there. He had pleaded with men who turned back, and then he himself went forward.",
+            "bn": "পলাতকদের পিছু নেওয়া মুমিনদের একজনের নাম দেন ইবনে ইসহাক: বনু সালামার আব্দুল্লাহ ইবনে আমর ইবনে হারাম (রাঃ)। শত্রু এত কাছে থাকতে নিজেদের লোক আর নিজেদের নবী ﷺ-কে ফেলে না যেতে তিনি আল্লাহর দোহাই দিয়ে তাদের অনুরোধ করেছিলেন। তারা তাঁকে সেই জবাবই দিল যা আয়াতে সংরক্ষিত: তাদের ধারণা, কোনো যুদ্ধই হবে না। সেদিন উহুদে যাঁরা শহীদ হন, আব্দুল্লাহ (রাঃ) তাঁদের একজন, সেখানেই তাঁকে দাফন করা হয়। যারা পিছু হটছিল তাদের তিনি অনুনয় করেছিলেন, তারপর নিজে সামনে এগিয়ে গিয়েছিলেন।"
+          },
+          {
+            "en": "Ibn Kathir, at 4:88, records from Zayd ibn Thabit (RA), and says the Two Sahihs carry it too, that when the Prophet ﷺ marched towards Uhud some who had come out with him went back, and his Companions divided over them into two groups, one saying they should be killed and the other refusing. Then 4:88 came down, asking why they had become two groups concerning the hypocrites, and the Prophet ﷺ said that Madinah is Taybah and that it expels impurity. Ibn Kathir notes that other occasions are also reported for that verse.",
+            "bn": "৪:৮৮ আয়াতের আলোচনায় ইবনে কাসীর যায়দ ইবনে সাবিত (রাঃ) থেকে বর্ণনা আনেন, আর বলেন সহীহ বুখারী ও মুসলিমেও তা আছে। নবী ﷺ যখন উহুদের দিকে রওনা দিলেন, তাঁর সঙ্গে বের হওয়া কিছু লোক ফিরে গেল। তাদের নিয়ে সাহাবিরা দুই দলে ভাগ হয়ে গেলেন। একদল বললেন, তাদের হত্যা করা উচিত, আরেক দল তা মানলেন না। তখন ৪:৮৮ আয়াত নাজিল হলো: মুনাফিকদের ব্যাপারে তোমরা দুই দল হয়ে গেলে কেন? আর নবী ﷺ বললেন, মদিনা হলো তাইবা, সে ময়লা দূর করে দেয়। ইবনে কাসীর জানান, ওই আয়াতের আরও কিছু প্রেক্ষাপটও বর্ণিত আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Excuse Elsewhere",
+          "bn": "অন্য জায়গায় একই অজুহাত"
+        },
+        "p": [
+          {
+            "en": "9:42 shows the same shape at another expedition: had it been a near gain and an easy journey they would have followed, and they would swear that if they had been able they would have gone out, while Allah knows they are liars. 9:47 adds that had such people gone out with the believers, they would have increased them only in confusion. Read with 3:167, these verses explain why an army could lose a third of its men on the road and still not be weakened in the way that mattered.",
+            "bn": "৯:৪২ আয়াত আরেক অভিযানে একই ছবি দেখায়: সহজ লাভ আর কাছের সফর হলে তারা অবশ্যই যেত। তারা আল্লাহর নামে কসম খেয়ে বলবে, পারলে আমরা বের হতাম, অথচ আল্লাহ জানেন তারা মিথ্যাবাদী। ৯:৪৭ আয়াত যোগ করে, এমন লোকেরা মুমিনদের সঙ্গে বের হলে বিশৃঙ্খলা ছাড়া আর কিছুই বাড়াত না। ৩:১৬৭ আয়াতের সঙ্গে পড়লে বোঝা যায়, পথে বাহিনীর এক-তৃতীয়াংশ হারিয়েও কেন আসল জায়গায় বাহিনীটি দুর্বল হয়নি।"
+          },
+          {
+            "en": "29:2-3 states the rule behind 3:166-167: people will not be left to say we believe without being tried, and Allah will surely make evident those who are truthful and make evident the liars, the same verb of making evident. 2:8-9 describes those who say they believe in Allah and the Last Day though they are not believers, and who deceive only themselves. And 4:78 answers 3:168 directly: wherever you are, death will overtake you, even within towers of lofty construction.",
+            "bn": "৩:১৬৬-১৬৭ আয়াতের পেছনের নিয়মটি বলে ২৯:২-৩ আয়াত: আমরা ঈমান এনেছি বললেই মানুষকে পরীক্ষা ছাড়া ছেড়ে দেওয়া হবে না, আর আল্লাহ অবশ্যই জেনে নেবেন কারা সত্যবাদী আর কারা মিথ্যাবাদী। উহুদের আয়াতে জেনে নেওয়া বা প্রকাশ করে দেওয়ার যে ক্রিয়া, এখানেও সেটিই। ২:৮-৯ আয়াত তাদের কথা বলে, যারা বলে আমরা আল্লাহ ও আখিরাতে ঈমান এনেছি, অথচ তারা মুমিন নয়, আর তারা আসলে নিজেদের ছাড়া কাউকে ধোঁকা দেয় না। আর ৪:৭৮ আয়াত সরাসরি ৩:১৬৮ আয়াতের জবাব: তোমরা যেখানেই থাকো, মৃত্যু তোমাদের পেয়ে বসবে, সুউচ্চ মজবুত দুর্গে থাকলেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Excuses That Sound Like Reasons",
+          "bn": "যে অজুহাত যুক্তির মতো শোনায়"
+        },
+        "p": [
+          {
+            "en": "The excuse in 3:167 is conditional and sounds reasonable: if we had known, we would have come. Ordinary life is full of the same sentence. If I had known the meeting mattered, I would have been there. If I had known my brother was struggling, I would have called. Sometimes it is true. The verse teaches a believer to test it honestly: were the facts really hidden, or were they in plain view, as the approaching army was, and did I simply prefer not to look?",
+            "bn": "৩:১৬৭ আয়াতের অজুহাতটা শর্তযুক্ত, আর শুনতে যুক্তিসংগত: জানলে আসতাম। প্রতিদিনের জীবন এই বাক্যে ভরা। বৈঠকটা জরুরি জানলে থাকতাম। ভাই কষ্টে আছে জানলে ফোন করতাম। কখনো কখনো কথাটা সত্যিই সত্য। আয়াতটি মুমিনকে শেখায় সৎভাবে যাচাই করতে: তথ্যগুলো কি সত্যিই আড়ালে ছিল, নাকি এগিয়ে আসা বাহিনীর মতো চোখের সামনেই ছিল, আর আমি শুধু তাকাতে চাইনি?"
+          },
+          {
+            "en": "3:168 describes a second failure that often follows the first. Having stayed home, the same men sat in judgement on those who went and paid with their lives. The pattern is familiar: the person who gave nothing to a project explains afterwards why it failed, the relative who never visited the sick decides what the family did wrong. Before passing a verdict on people who acted and bore the cost, a believer asks what he himself risked, and whether his advice would really have kept death away.",
+            "bn": "৩:১৬৮ আয়াত দ্বিতীয় একটি ব্যর্থতার কথা বলে, যা প্রায়ই প্রথমটির পরে আসে। ঘরে বসে থাকার পরে এই লোকেরাই বিচারকের আসনে বসল, তাঁদের বিচার করল যাঁরা গিয়েছিলেন আর জীবন দিয়ে মূল্য দিয়েছিলেন। ছবিটা চেনা। যে কাজে কিছুই দেয়নি, পরে সে ব্যাখ্যা দেয় কাজটা কেন ব্যর্থ হলো। যে আত্মীয় কখনো রোগী দেখতে যায়নি, সে ঠিক করে দেয় পরিবার কী ভুল করেছে। কাজ করে যাঁরা মূল্য দিয়েছেন, তাঁদের নিয়ে রায় দেওয়ার আগে মুমিন নিজেকে জিজ্ঞেস করেন, আমি কী ঝুঁকি নিয়েছিলাম, আর আমার পরামর্শ কি সত্যিই মৃত্যু ঠেকাতে পারত?"
+          },
+          {
+            "en": "The phrase nearer to disbelief than to faith, which Ibn Kathir reads as a person passing through states, turns the verse into a question about direction. The verse speaks of a group whose inner state Allah disclosed; it does not hand the reader authority to name hypocrites around him, since Allah is most knowing of what they conceal. What a believer can examine is his own heart: after this week's choices, is it nearer to faith than it was, or further from it?",
+            "bn": "ঈমানের চেয়ে কুফরের বেশি কাছে, এই কথাকে ইবনে কাসীর পড়েন মানুষের নানা অবস্থা পার হওয়ার অর্থে। তাতে আয়াতটি হয়ে যায় দিক নিয়ে একটি প্রশ্ন। আয়াত এমন একটি দলের কথা বলে যাদের ভেতরের অবস্থা আল্লাহ নিজে প্রকাশ করেছেন। আশপাশের মানুষকে মুনাফিক বলে চিহ্নিত করার অধিকার এটি পাঠকের হাতে দেয় না, কারণ তারা যা গোপন করে আল্লাহই তা সবচেয়ে ভালো জানেন। মুমিন যা যাচাই করতে পারেন তা নিজের অন্তর: এই সপ্তাহের সিদ্ধান্তগুলোর পরে তা কি আগের চেয়ে ঈমানের বেশি কাছে, নাকি আরও দূরে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for a Firm Heart",
+          "bn": "অটল অন্তরের জন্য দোয়া"
+        },
+        "p": [
+          {
+            "en": "Because the verses speak of hearts that shift, the supplication of the firmly grounded in 3:8 fits beside them: Rabbana la tuzigh qulubana ba'da idh hadaytana wa hab lana min ladunka rahmah, innaka antal-Wahhab. Our Lord, let not our hearts deviate after You have guided us, and grant us mercy from Yourself; indeed You are the Bestower. At-Tirmidhi also records that the Prophet ﷺ often said: Ya Muqallib al-qulub, thabbit qalbi 'ala dinik, O Turner of hearts, make my heart firm upon Your religion.",
+            "bn": "আয়াতগুলো যেহেতু সরে যাওয়া অন্তরের কথা বলে, তাই ৩:৮ আয়াতের দোয়াটি এর পাশে মানায়: রব্বানা লা তুযিগ কুলূবানা বা'দা ইয হাদাইতানা ওয়া হাব লানা মিল লাদুনকা রহমাহ, ইন্নাকা আনতাল ওয়াহহাব। হে আমাদের রব, হিদায়াত দেওয়ার পরে আমাদের অন্তর বাঁকা করে দেবেন না, আর আপনার কাছ থেকে আমাদের রহমত দিন, নিশ্চয়ই আপনি মহান দাতা। তিরমিযীও বর্ণনা করেছেন, নবী ﷺ প্রায়ই বলতেন: ইয়া মুকাল্লিবাল কুলূব, সাব্বিত কালবী আলা দীনিক, হে অন্তরসমূহের পরিবর্তনকারী, আমার অন্তরকে আপনার দ্বীনের ওপর অটল রাখুন।"
+          },
+          {
+            "en": "A reader may add words composed from 3:166-168, which are not a transmitted du'a: O Allah, You know what we conceal. Make what is on our tongues true in our hearts, keep us from excuses when we are called to what is hard, keep us from judging those who went while we sat, and when You make evident the believers, count us among them. It suits the moment before saying yes or no to a duty that will cost something.",
+            "bn": "পাঠক ৩:১৬৬-১৬৮ আয়াতের শব্দ থেকে সাজানো এই দোয়াটিও যোগ করতে পারেন, যা হাদিসে বর্ণিত দোয়া নয়: হে আল্লাহ, আমরা যা গোপন করি আপনি তা জানেন। আমাদের মুখের কথাকে অন্তরে সত্য করে দিন। কঠিন কাজের ডাক এলে অজুহাত থেকে আমাদের বাঁচান। আমরা বসে থাকার পরে যাঁরা গিয়েছিলেন তাঁদের বিচার করা থেকে আমাদের বাঁচান। আর যখন মুমিনদের প্রকাশ করে দেবেন, তখন আমাদের তাঁদের মধ্যে গণ্য করুন। মূল্য দিতে হবে এমন কোনো দায়িত্বে হ্যাঁ বা না বলার ঠিক আগের মুহূর্তে দোয়াটি মানায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions Before the Next Call",
+          "bn": "পরের ডাকের আগে কিছু প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The last time I excused myself from something hard, was my reason one I would still give if I knew Allah was weighing it? When I say I would have come if only I had known, how often is the truth that I did not want to know? And when someone asks me for even the smallest help, to stand beside them, to add one more to their number, do I find a reason why today is not the day?",
+            "bn": "সর্বশেষ যখন কঠিন কোনো কাজ থেকে নিজেকে সরিয়ে নিয়েছি, আল্লাহ তা মেপে দেখছেন জানলেও কি সেই কারণটাই দিতাম? জানলে আসতাম, এই কথা যখন বলি, তখন কতবার আসল সত্যটা হলো আমি জানতেই চাইনি? আর কেউ যখন সবচেয়ে ছোট সাহায্যটুকু চায়, পাশে দাঁড়ানো কিংবা দলে একজন বাড়ানো, তখন কি আমি খুঁজে বের করি কেন আজকের দিনটা ঠিক সেই দিন নয়?"
+          },
+          {
+            "en": "Do I judge people who acted and paid a price from a place where I risked nothing? Is there a gap today between what my mouth says about my faith and what my heart is holding? And which way has my heart been moving lately, nearer to faith or further from it, and what, in my days and my company, has been moving it?",
+            "bn": "যাঁরা কাজ করেছেন আর মূল্য দিয়েছেন, আমি কি এমন জায়গা থেকে তাঁদের বিচার করি যেখানে আমার কোনো ঝুঁকিই ছিল না? আজ আমার মুখ ঈমান নিয়ে যা বলে আর অন্তর যা ধরে রাখে, তার মধ্যে কি কোনো ফাঁক আছে? আর ইদানীং আমার অন্তর কোন দিকে সরছে, ঈমানের কাছে না তার থেকে দূরে, আর আমার দিনযাপনে ও সঙ্গীদের মধ্যে কোন জিনিস তাকে সরাচ্ছে?"
+          }
+        ]
+      }
+    ]
+  },
   "3:173": {
     "sections": [
       {
@@ -3422,6 +3718,154 @@ Object.assign(TADABBUR_ARTICLES, {
           {
             "en": "That is how the phrase is meant to be used. It belongs at the start of a frightening hour, not at the end of it, and it is said about the specific thing that has frightened you rather than in general. Said early, it settles the question of who is handling the matter and frees the person to do the next sensible thing. Said late, it is only relief wearing the clothes of trust.",
             "bn": "বাক্যটির ব্যবহার এভাবেই উদ্দিষ্ট। এর জায়গা ভীতিকর ঘণ্টাটির শুরুতে, শেষে নয়; আর তা বলা হয় ঠিক যে জিনিসটি আপনাকে ভয় পাইয়েছে তার ব্যাপারে, ঢালাওভাবে নয়। আগেভাগে বললে তা এই প্রশ্নটি মীমাংসা করে দেয় যে বিষয়টি কে সামলাচ্ছেন, আর মানুষকে পরবর্তী বুদ্ধিমানের কাজটি করার জন্য মুক্ত করে দেয়। দেরিতে বললে তা কেবল স্বস্তি — ভরসার পোশাক পরা।"
+          }
+        ]
+      }
+    ]
+  },
+  "3:180": {
+    "sections": [
+      {
+        "h": {
+          "en": "A False Reckoning Corrected",
+          "bn": "ভুল হিসাবের সংশোধন"
+        },
+        "p": [
+          {
+            "en": "The verse comes near the end of the long Madinan passage that follows Uhud. 3:176 tells the Prophet ﷺ not to grieve over those who hasten into disbelief, 3:178 warns the disbelievers not to think that the respite given them is good for them, and 3:179 says Allah would not leave the believers as they were until He separated the evil from the good. Then 3:180 turns to wealth, and 3:181 to those who said that Allah is poor while they are rich.",
+            "bn": "আয়াতটি উহুদের পরের দীর্ঘ মাদানী অংশের শেষের দিকে। ৩:১৭৬ আয়াত নবী ﷺ-কে বলে, যারা কুফরের দিকে ছুটে যায় তাদের জন্য দুঃখ করবেন না। ৩:১৭৮ আয়াত কাফিরদের সতর্ক করে, তাদের যে অবকাশ দেওয়া হয়েছে তা যেন তারা নিজেদের জন্য ভালো মনে না করে। ৩:১৭৯ আয়াত বলে, ভালো থেকে মন্দকে আলাদা না করা পর্যন্ত আল্লাহ মুমিনদের আগের অবস্থায় ছেড়ে দেবেন না। এরপর ৩:১৮০ আয়াত সম্পদের কথায় আসে, আর ৩:১৮১ আয়াত তাদের কথায়, যারা বলেছিল আল্লাহ দরিদ্র আর আমরা ধনী।"
+          },
+          {
+            "en": "The opening, wa la yahsabanna, and let them never think, links the verse to its neighbours. The same warning against a false supposition stands at 3:178 about the respite, and at 3:188 about those who love praise for what they did not do, while 3:169 forbids thinking the martyrs dead. In each case people are corrected in something they have counted as gain or loss. Here the mistaken count is the most ordinary one of all: that what is kept back is what is saved.",
+            "bn": "শুরুর শব্দ ওয়া লা ইয়াহসাবান্না, তারা যেন কখনো মনে না করে, আয়াতটিকে আশপাশের আয়াতের সঙ্গে জুড়ে দেয়। ভুল ধারণার বিরুদ্ধে একই সতর্কবাণী আছে ৩:১৭৮ আয়াতে অবকাশ নিয়ে, আর ৩:১৮৮ আয়াতে তাদের নিয়ে যারা না করা কাজের প্রশংসা চায়। ৩:১৬৯ আয়াত শহীদদের মৃত ভাবতে নিষেধ করে। প্রতিটি জায়গায় মানুষের লাভ-ক্ষতির কোনো হিসাব শুধরে দেওয়া হচ্ছে। এখানে ভুল হিসাবটা সবচেয়ে সাধারণ: যা আটকে রাখা হলো, তা-ই বুঝি বাঁচানো হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Bounty, Collar, Inheritance",
+          "bn": "অনুগ্রহ, গলার বেড়ি, উত্তরাধিকার"
+        },
+        "p": [
+          {
+            "en": "Alladhina yabkhaluna bima atahumullahu min fadlihi: those who withhold what Allah has given them of His bounty. In a single clause the wealth is described twice: it was given, atahum, and it came min fadlihi, from His bounty. The miser is holding back something whose origin was never himself. Then comes the verdict, huwa khayran lahum, bal huwa sharrun lahum: that it is good for them; rather, it is bad for them. The same pronoun stands in both clauses, and the single word bal overturns the calculation.",
+            "bn": "আল্লাযীনা ইয়াবখালূনা বিমা আতাহুমুল্লাহু মিন ফাদলিহি: আল্লাহ নিজ অনুগ্রহ থেকে তাদের যা দিয়েছেন, তাতে যারা কৃপণতা করে। একটি বাক্যাংশেই সম্পদের বর্ণনা আসে দুবার: তা দেওয়া হয়েছে, আতাহুম, আর তা এসেছে মিন ফাদলিহি, তাঁর অনুগ্রহ থেকে। কৃপণ যা আটকে রাখে তার উৎস কখনো সে নিজে ছিল না। তারপর রায়: হুয়া খাইরাল লাহুম, বাল হুয়া শাররুল লাহুম, তা তাদের জন্য ভালো, না, বরং তা তাদের জন্য মন্দ। দুই অংশেই একই সর্বনাম, আর শুধু বাল শব্দটি পুরো হিসাব উল্টে দেয়।"
+          },
+          {
+            "en": "Sayutawwaquna ma bakhilu bihi yawmal-qiyamah: what they withheld will be put around their necks on the Day of Resurrection. The verb is from tawq, a ring or collar worn around the neck, and the prefix sa- marks what is still to come. What becomes the collar is ma bakhilu bihi, the very thing they withheld, not some other punishment standing in for it. At-Tafsir al-Muyassar explains that the wealth they gathered will be a collar of fire placed on their necks.",
+            "bn": "সাইউতাওওয়াকূনা মা বাখিলূ বিহী ইয়াওমাল কিয়ামাহ: যা নিয়ে তারা কৃপণতা করেছে, কিয়ামতের দিন তা তাদের গলায় বেড়ি হয়ে পরানো হবে। ক্রিয়াটি এসেছে তাওক থেকে, গলায় পরানো আংটা বা বেড়ি। শুরুর সা- বর্ণটি ভবিষ্যৎ বোঝায়। বেড়ি হবে মা বাখিলূ বিহী, ঠিক সেই জিনিস যা তারা আটকে রেখেছিল, তার বদলে অন্য কোনো শাস্তি নয়। আত-তাফসীর আল-মুয়াসসার বলে, তারা যে সম্পদ জমিয়েছিল তা আগুনের বেড়ি হয়ে তাদের গলায় পরানো হবে।"
+          },
+          {
+            "en": "The verse closes with wa lillahi mirathus-samawati wal-ard, and to Allah belongs the heritage of the heavens and the earth. Al-Muyassar explains that He is the Owner of all dominion, who remains after all His creation has passed away. Ibn Kathir connects the phrase to 57:7, spend of that in which He has made you successors: since all affairs return to Allah, spend what will benefit you on the Day of Return. Everything withheld will be inherited in the end. Only its Owner remains.",
+            "bn": "আয়াত শেষ হয় ওয়া লিল্লাহি মীরাসুস সামাওয়াতি ওয়াল আরদ দিয়ে: আসমান ও জমিনের উত্তরাধিকার আল্লাহরই। আল-মুয়াসসার বলে, তিনিই সমস্ত রাজত্বের মালিক, সব সৃষ্টি বিলীন হওয়ার পরেও তিনি থাকবেন। ইবনে কাসীর কথাটিকে যুক্ত করেন ৫৭:৭ আয়াতের সঙ্গে: তিনি তোমাদের যার উত্তরাধিকারী করেছেন তা থেকে ব্যয় করো। যেহেতু সব বিষয় আল্লাহর কাছেই ফেরে, তাই এমনভাবে খরচ করো যা ফেরার দিনে কাজে আসবে। যা আটকে রাখা হয়, শেষে তারও উত্তরাধিকার চলে যায়। থাকেন কেবল তার মালিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Harm in Religion and in the World",
+          "bn": "দ্বীনে ও দুনিয়ায় ক্ষতি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir places the verse under the heading of a censure of selfishness and a warning against it. He explains that the miser should not think that gathering wealth will benefit him; rather, it will harm him in his religion and in his worldly affairs. The verse itself speaks of the Day of Resurrection, and his gloss adds this life too. Anyone who has watched a closed hand at work knows how it narrows a person's faith and his dealings with people long before any collar is fastened.",
+            "bn": "ইবনে কাসীর আয়াতটিকে রাখেন স্বার্থপরতার নিন্দা ও তা থেকে সতর্কবাণীর শিরোনামে। তিনি ব্যাখ্যা করেন, কৃপণ যেন মনে না করে সম্পদ জমানো তার উপকারে আসবে। বরং তা তার দ্বীনে এবং দুনিয়ার কাজে দুই জায়গাতেই ক্ষতি করবে। আয়াত নিজে কিয়ামতের দিনের কথা বলে, আর তাঁর ব্যাখ্যা এই জীবনকেও যুক্ত করে। বন্ধ মুঠো কীভাবে কাজ করে যিনি দেখেছেন, তিনি জানেন, বেড়ি পরানোর অনেক আগেই তা মানুষের ঈমান আর মানুষের সঙ্গে লেনদেন দুটোই সংকীর্ণ করে দেয়।"
+          },
+          {
+            "en": "On the closing words, and Allah is Aware of what you do, Ibn Kathir says that He knows their intentions and what their hearts conceal. That matters for a verse about withholding, because withholding is usually explained with good-sounding reasons: caution, the future, the children. The verse does not argue with each reason. It says that Allah is Khabir, fully acquainted with what lies underneath them, and al-Muyassar adds that He will repay each person according to what he deserves.",
+            "bn": "শেষের কথা, তোমরা যা করো আল্লাহ তা ভালোভাবে জানেন, এর ব্যাখ্যায় ইবনে কাসীর বলেন, তিনি তাদের নিয়ত আর অন্তরের গোপন কথা জানেন। আটকে রাখা নিয়ে আয়াতে এর গুরুত্ব আছে, কারণ আটকে রাখার পক্ষে সাধারণত ভালো শোনানো যুক্তি থাকে: সাবধানতা, ভবিষ্যৎ, সন্তানদের কথা। আয়াত প্রতিটি যুক্তির সঙ্গে তর্কে যায় না। বলে দেয়, আল্লাহ খাবীর, যুক্তিগুলোর নিচে কী আছে তা তিনি পুরোপুরি জানেন। আল-মুয়াসসার যোগ করে, তিনি প্রত্যেককে তার প্রাপ্য অনুযায়ী প্রতিদান দেবেন।"
+          },
+          {
+            "en": "The commentators separate shuhh from bukhl, the grasping appetite underneath from the act of withholding, a distinction drawn out at 59:9. 3:180 names the act, bukhl, and its object, what Allah has given. The hadith attached to the verse, in the next section, applies it to wealth whose zakah was not paid, which shows the verse's warning reaching at least that far. Whatever else it covers, no one reading it can treat an unpaid obligation in his wealth as a small thing.",
+            "bn": "মুফাসসিররা শুহ আর বুখলকে আলাদা করেন: শুহ হলো ভেতরের আঁকড়ে ধরার লোভ, আর বুখল হলো আটকে রাখার কাজ। ৫৯:৯ আয়াতের আলোচনায় এই পার্থক্য খুলে বলা হয়। ৩:১৮০ আয়াত নাম নেয় কাজটির, বুখল, আর তার বস্তুর, আল্লাহ যা দিয়েছেন। আয়াতের সঙ্গে যুক্ত হাদিস, যা পরের অংশে আসছে, একে প্রয়োগ করে সেই সম্পদে যার জাকাত আদায় হয়নি। এতে বোঝা যায়, আয়াতের সতর্কবাণী অন্তত সেখান পর্যন্ত পৌঁছায়। এর বাইরে আর যা-ই বোঝাক, এটি পড়ার পরে কেউ নিজের সম্পদে অনাদায়ী হককে ছোট ব্যাপার ভাবতে পারেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "I Am Your Treasure",
+          "bn": "আমি তোমার জমানো ধন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir cites Sahih al-Bukhari from Abu Hurayrah (RA): the Messenger of Allah ﷺ said that whoever Allah gives wealth and does not pay its zakah, his wealth will be made for him on the Day of Resurrection in the form of a bald serpent with two black spots over its eyes. It will be put around his neck and will seize him by his jaws, saying: I am your wealth, I am your treasure. Then the Prophet ﷺ recited 3:180. The verb for putting it around his neck in the hadith is from the same root as sayutawwaquna in the verse.",
+            "bn": "ইবনে কাসীর সহীহ বুখারী থেকে আবু হুরায়রা (রাঃ)-এর বর্ণনা আনেন: রাসূলুল্লাহ ﷺ বলেছেন, আল্লাহ যাকে সম্পদ দিয়েছেন আর সে তার জাকাত আদায় করেনি, কিয়ামতের দিন তার সম্পদকে তার জন্য টাকমাথা এক বিষধর সাপের রূপ দেওয়া হবে, যার চোখের ওপর দুটি কালো দাগ। সাপটিকে তার গলায় পেঁচিয়ে দেওয়া হবে, সেটি তার দুই চোয়াল কামড়ে ধরে বলবে: আমি তোমার সম্পদ, আমি তোমার জমানো ধন। তারপর নবী ﷺ ৩:১৮০ আয়াত তিলাওয়াত করলেন। হাদিসে গলায় পেঁচিয়ে দেওয়ার ক্রিয়াটি আর আয়াতের সাইউতাওওয়াকূনা একই মূল থেকে এসেছে।"
+          },
+          {
+            "en": "Ibn Kathir adds a narration recorded by Imam Ahmad from Abdullah ibn Mas'ud (RA), and also by at-Tirmidhi, an-Nasa'i and Ibn Majah, that the Prophet ﷺ said that every servant who does not pay the zakah of his wealth will have a bald serpent made for him that follows him; he flees from it and it follows him, saying: I am your treasure. Ibn Mas'ud (RA) then recited the verse from the Book of Allah that confirms it: what they withheld will be put around their necks on the Day of Resurrection.",
+            "bn": "ইবনে কাসীর আরেকটি বর্ণনা আনেন, যা ইমাম আহমাদ আব্দুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেছেন, আর তিরমিযী, নাসাঈ ও ইবনে মাজাহও এনেছেন। নবী ﷺ বলেছেন, যে বান্দা নিজের সম্পদের জাকাত আদায় করে না, তার জন্য একটি টাকমাথা সাপ বানানো হবে যা তার পিছু নেবে। সে পালাবে, সাপটি পিছু ছাড়বে না, আর বলবে: আমি তোমার জমানো ধন। তারপর ইবনে মাসউদ (রাঃ) আল্লাহর কিতাব থেকে এর সমর্থনে আয়াতটি তিলাওয়াত করলেন: যা নিয়ে তারা কৃপণতা করেছে, কিয়ামতের দিন তা তাদের গলায় বেড়ি হয়ে পরানো হবে।"
+          },
+          {
+            "en": "The two reports make the verse's image concrete without changing it. The wealth does not disappear into a separate punishment; it returns as itself, and it speaks. What the owner called mine in this life calls itself his in the next, and the relationship he refused to loosen is the one that will not let him go. The hadith attaches this to zakah left unpaid, not to having savings once the right in them has been given.",
+            "bn": "দুটি বর্ণনা আয়াতের ছবিকে না বদলে চোখের সামনে এনে দেয়। সম্পদ আলাদা কোনো শাস্তির মধ্যে হারিয়ে যায় না। সে নিজের রূপেই ফেরে, আর কথা বলে। দুনিয়ায় মালিক যাকে বলত আমার, আখিরাতে সে-ই নিজেকে বলবে তোমার। যে সম্পর্ক সে ঢিলে করতে রাজি হয়নি, সেই সম্পর্কই তাকে ছাড়বে না। হাদিস এই শাস্তিকে যুক্ত করেছে অনাদায়ী জাকাতের সঙ্গে, হক আদায়ের পরে সঞ্চয় রাখার সঙ্গে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hoarding in Other Surahs",
+          "bn": "অন্য সূরায় জমিয়ে রাখার কথা"
+        },
+        "p": [
+          {
+            "en": "9:34-35 is the closest parallel: those who hoard gold and silver and do not spend it in the way of Allah are given tidings of a painful punishment, on a Day when it will be heated in the fire of Hell and their foreheads, flanks and backs branded with it, and they will be told that this is what they hoarded for themselves. 4:37 describes those who are stingy, enjoin stinginess on others, and conceal what Allah has given them of His bounty, the same phrase this verse uses.",
+            "bn": "সবচেয়ে কাছের আয়াত ৯:৩৪-৩৫। যারা সোনা-রুপা জমা করে আর আল্লাহর পথে খরচ করে না, তাদের যন্ত্রণাদায়ক শাস্তির সংবাদ দেওয়া হয়েছে। সেদিন তা জাহান্নামের আগুনে গরম করে তাদের কপাল, পাঁজর আর পিঠে দাগ দেওয়া হবে, আর বলা হবে, এটাই তোমরা নিজেদের জন্য জমিয়েছিলে। ৪:৩৭ আয়াত তাদের কথা বলে, যারা কৃপণতা করে, অন্যদেরও কৃপণতার হুকুম দেয়, আর আল্লাহ নিজ অনুগ্রহে যা দিয়েছেন তা গোপন করে। এখানেও সেই একই কথা: আল্লাহ নিজ অনুগ্রহে যা দিয়েছেন।"
+          },
+          {
+            "en": "47:38 turns the arithmetic around from the other side: whoever withholds only withholds from himself, for Allah is the Free of need and you are the needy. 92:8-11 follows the one who withholds and considers himself free of need to the moment his wealth will not avail him when he falls. And 64:16, like 59:9, holds out the way out of the trap: whoever is protected from the stinginess of his own soul, it is they who are the successful.",
+            "bn": "৪৭:৩৮ আয়াত অন্য দিক থেকে হিসাবটা উল্টে দেয়: যে কৃপণতা করে, সে কৃপণতা করে কেবল নিজের সঙ্গেই, কারণ আল্লাহ অভাবমুক্ত আর তোমরাই অভাবী। ৯২:৮-১১ আয়াত সেই লোকের পিছু নেয় যে কৃপণতা করে আর নিজেকে বেপরোয়া মনে করে, সেই মুহূর্ত পর্যন্ত যখন সে ধ্বংস হবে আর তার সম্পদ কোনো কাজে আসবে না। আর ৫৯:৯ আয়াতের মতো ৬৪:১৬ আয়াতও ফাঁদ থেকে বের হওয়ার পথ দেখায়: যাকে নিজের অন্তরের কৃপণতা থেকে রক্ষা করা হলো, সে-ই সফলকাম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loosening the Grip",
+          "bn": "মুঠো আলগা করা"
+        },
+        "p": [
+          {
+            "en": "The verse attacks a thought: that it is better for them. That thought rarely announces itself as greed. It sounds like prudence. So give the obligation a date that does not depend on mood. Fix one day each year to calculate zakah, write the figure down, and pay it before the reasoning begins. Many people find that the amount they hesitate over is small beside what they spend without hesitation in the same month.",
+            "bn": "আয়াতটি আঘাত করে একটি ধারণায়: এটাই তাদের জন্য ভালো। এই ধারণা কখনো নিজেকে লোভ বলে পরিচয় দেয় না, শোনায় সাবধানতার মতো। তাই দায়িত্বটাকে এমন একটা তারিখ দিন যা মেজাজের ওপর নির্ভর করে না। বছরে একটা দিন ঠিক করুন জাকাতের হিসাবের জন্য, অঙ্কটা লিখে রাখুন, আর যুক্তিতর্ক শুরু হওয়ার আগেই আদায় করে দিন। অনেকেই দেখেন, যে অঙ্ক নিয়ে তাঁরা দ্বিধা করেন, একই মাসে দ্বিধা ছাড়া যা খরচ করেন তার তুলনায় তা সামান্য।"
+          },
+          {
+            "en": "Withholding is wider than an annual payment. A worker's wage paid late, a debt that could be settled this month and is pushed to the next, a wife's or parent's maintenance given grudgingly and short, a borrowed book never returned: each is something held that belongs, in part, to someone else. Once a month, ask what in your hands is owed to another, and release one item of it that week.",
+            "bn": "আটকে রাখা শুধু বছরে একবারের জাকাতে সীমাবদ্ধ নয়। শ্রমিকের মজুরি দেরিতে দেওয়া, এ মাসে শোধ করা যায় এমন ঋণ পরের মাসে ঠেলে দেওয়া, স্ত্রী বা বাবা-মায়ের খরচ অনিচ্ছায় আর কম করে দেওয়া, ধার করা বই কখনো ফেরত না দেওয়া: প্রতিটিই এমন কিছু যা হাতে ধরা, অথচ আংশিকভাবে অন্য কারও। মাসে একবার নিজেকে জিজ্ঞেস করুন, আমার হাতে কী আছে যা অন্যের পাওনা, আর সেই সপ্তাহেই তার একটা ফিরিয়ে দিন।"
+          },
+          {
+            "en": "And let the verse's last words change how ownership feels. Everything you hold will pass to heirs, and in the end to its true Heir. A useful habit is to look at a thing you are reluctant to part with and remember that it will be inherited from you whether you give it or not. The only choice left to you is whether it leaves your hands as a gift you sent ahead or as an estate someone else divides.",
+            "bn": "আর আয়াতের শেষ কথাগুলো দিয়ে মালিকানার অনুভূতিটাই বদলে নিন। যা কিছু আপনার হাতে, তা উত্তরাধিকারীদের কাছে যাবে, আর শেষে তার প্রকৃত উত্তরাধিকারীর কাছে। একটা উপকারী অভ্যাস হলো, যা ছাড়তে মন চায় না তার দিকে তাকিয়ে মনে করা, আপনি দিন বা না দিন, এটা আপনার কাছ থেকে উত্তরাধিকারে চলে যাবেই। আপনার হাতে বাছাই কেবল এটুকু: তা আপনার হাত ছাড়বে আগে পাঠানো দান হয়ে, নাকি এমন সম্পত্তি হয়ে যা অন্য কেউ ভাগ করে নেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Refuge from Miserliness",
+          "bn": "কৃপণতা থেকে আশ্রয়"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records from Anas (RA) that the Prophet ﷺ used to seek refuge with Allah from worry and grief, from incapacity and laziness, from miserliness and cowardice, and from the burden of debt and being overpowered by men. Miserliness stands in that list among the things that weigh a person down, and the believer asks to be protected from it rather than trusting his own generosity. Saying this supplication regularly keeps the danger of 3:180 in view.",
+            "bn": "বুখারী আনাস (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ আল্লাহর কাছে আশ্রয় চাইতেন দুশ্চিন্তা ও দুঃখ থেকে, অক্ষমতা ও অলসতা থেকে, কৃপণতা ও কাপুরুষতা থেকে, আর ঋণের বোঝা ও মানুষের দাপট থেকে। মানুষকে ভারাক্রান্ত করে এমন জিনিসের সেই তালিকায় কৃপণতাও আছে। মুমিন নিজের দানশীলতার ওপর ভরসা না করে এর থেকে রক্ষা পেতে আল্লাহর কাছে চান। নিয়মিত এই দোয়া পড়লে ৩:১৮০ আয়াতের বিপদটা চোখের সামনে থাকে।"
+          },
+          {
+            "en": "A reader may add words composed from the verse, which are not a transmitted du'a: O Allah, all that I have is from Your bounty, and to You belongs the heritage of the heavens and the earth. Do not let me think that what I withhold is good for me. Free my hand to give what is due, protect me from the stinginess of my own soul, and do not let my wealth be a collar on my neck on the Day of Resurrection.",
+            "bn": "পাঠক আয়াতের শব্দ থেকে সাজানো এই দোয়াটিও যোগ করতে পারেন, যা হাদিসে বর্ণিত দোয়া নয়: হে আল্লাহ, আমার যা আছে সবই আপনার অনুগ্রহ থেকে, আর আসমান ও জমিনের উত্তরাধিকার আপনারই। যা আটকে রাখি তা আমার জন্য ভালো, এমন ধারণা আমার মনে আসতে দেবেন না। যা পাওনা তা দিতে আমার হাত খুলে দিন, আমার অন্তরের কৃপণতা থেকে আমাকে রক্ষা করুন, আর কিয়ামতের দিন আমার সম্পদকে আমার গলার বেড়ি বানাবেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions for an Open Hand",
+          "bn": "খোলা হাতের জন্য কিছু প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "What reasoning do I reach for most often to convince myself that keeping something back is better for me, and would I be willing to say that reasoning aloud before Allah? Do I think of what I own as what He has given me of His bounty, or simply as mine? And is there a right in my wealth, zakah, a wage, a debt, a relative's due, that I have been quietly postponing?",
+            "bn": "কিছু আটকে রাখাই আমার জন্য ভালো, নিজেকে এটা বোঝাতে কোন যুক্তিটা আমি সবচেয়ে বেশি ব্যবহার করি, আর আল্লাহর সামনে কি সেই যুক্তি জোরে বলতে রাজি হতাম? যা আমার আছে, তাকে কি তাঁর অনুগ্রহ থেকে দেওয়া জিনিস ভাবি, নাকি শুধুই নিজের? আর আমার সম্পদে কারও কোনো হক, জাকাত, মজুরি, ঋণ বা আত্মীয়ের পাওনা, কি আমি চুপচাপ পিছিয়ে যাচ্ছি?"
+          },
+          {
+            "en": "If what I am holding back most tightly were placed around my neck, what would it be, and how heavy? When I leave this world, which of my possessions will I wish I had sent ahead rather than left behind? And since everything returns to Allah as its heir, what would I give this week if I believed that as firmly as I believe in my own bank balance?",
+            "bn": "যা সবচেয়ে শক্ত করে আটকে রেখেছি, তা যদি আমার গলায় পরিয়ে দেওয়া হয়, সেটা কী হবে, আর কতটা ভারী? দুনিয়া ছেড়ে যাওয়ার সময় আমার কোন জিনিসটার জন্য আফসোস হবে যে তা রেখে না গিয়ে আগে পাঠালে ভালো হতো? আর সবকিছু যেহেতু উত্তরাধিকারী হিসেবে আল্লাহর কাছে ফেরে, নিজের ব্যাংকের হিসাবে যতটা বিশ্বাস রাখি ততটা দৃঢ়ভাবে এটা বিশ্বাস করলে এই সপ্তাহে আমি কী দিতাম?"
           }
         ]
       }

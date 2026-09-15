@@ -4923,6 +4923,146 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Bring your disputes to what Allah revealed even when the ruling may go against you, and counsel others privately with words that reach them.",
     "lessonBn": "ফয়সালা আপনার বিপক্ষে যেতে পারে জেনেও বিবাদ নিয়ে যান আল্লাহর নাযিল করা বিধানের কাছে, আর অন্যকে উপদেশ দিন একান্তে, এমন কথায় যা মনে পৌঁছায়।"
+  },
+  "3:123-126": {
+    "reflectionEn": "Spoken to believers in the middle of Al Imran's account of Uhud, these verses reach back a year to Badr, when Allah gave them victory while they were weak and few. They recall the Prophet ﷺ reassuring his companions with a promise of angels: three thousand sent down, and five thousand bearing marks if they held to patience and taqwa and the enemy rushed upon them. Then the passage explains its own promise. Allah made the reinforcement only good tidings and a reassurance for their hearts, for victory comes from Allah alone, the Exalted in Might, the Wise. The means are real and the comfort is real, but neither is the source. And the response asked for after a rescue is not pride. It is taqwa, and gratitude.",
+    "reflectionBn": "আলে ইমরানে উহুদের আলোচনার মাঝখানে, মুমিনদের উদ্দেশে বলা এই আয়াতগুলো এক বছর পিছিয়ে বদরে ফিরে যায়। সেদিন তাঁরা ছিলেন দুর্বল, সংখ্যায় অল্প, আর আল্লাহ তাঁদের বিজয় দিয়েছিলেন। আয়াতগুলো মনে করিয়ে দেয়, নবী ﷺ ফেরেশতার ওয়াদা শুনিয়ে সাহাবিদের সাহস দিচ্ছিলেন: তিন হাজার ফেরেশতা নামিয়ে দেওয়া হবে, আর তাঁরা যদি সবর ও তাকওয়ায় অটল থাকেন আর শত্রু তাঁদের ওপর ঝাঁপিয়ে পড়ে, তবে চিহ্নিত পাঁচ হাজার। তারপর আয়াত নিজেই ওয়াদার অর্থ খুলে বলে। আল্লাহ এই সাহায্যকে কেবল সুসংবাদ আর অন্তরের প্রশান্তি বানিয়েছেন, কারণ বিজয় আসে একমাত্র আল্লাহর কাছ থেকে, যিনি পরাক্রমশালী, প্রজ্ঞাময়। উপকরণ সত্য, সান্ত্বনাও সত্য, কিন্তু কোনোটিই বিজয়ের উৎস নয়। আর বিপদ থেকে উদ্ধারের পরে যা চাওয়া হয়েছে তা অহংকার নয়, তাকওয়া আর শোকর।",
+    "pointsEn": [
+      "When I look back on a time Allah helped me while I was weak, do I remember it as His help or as my own achievement?",
+      "Which of my means, savings, people or plans, have I quietly started treating as the source of my safety rather than as a comfort from Allah?",
+      "After Allah last brought me through something hard, did my obedience grow, or only my relief?",
+      "In a present difficulty, am I holding to patience and taqwa, or waiting for help while letting both slip?",
+      "What earlier help from Allah do I need to recall this week to steady my heart for what is in front of me?"
+    ],
+    "pointsBn": [
+      "দুর্বল অবস্থায় আল্লাহ যখন আমাকে সাহায্য করেছিলেন, সেই সময়টাকে কি আমি তাঁর সাহায্য হিসেবে মনে রাখি, নাকি নিজের কৃতিত্ব হিসেবে?",
+      "আমার কোন উপকরণকে, সঞ্চয়, মানুষ বা পরিকল্পনাকে, আমি চুপচাপ নিরাপত্তার উৎস বানিয়ে ফেলেছি, আল্লাহর দেওয়া সান্ত্বনা না ভেবে?",
+      "সর্বশেষ কঠিন সময় পার করিয়ে দেওয়ার পরে কি আমার আনুগত্য বেড়েছে, নাকি শুধু স্বস্তি?",
+      "এখনকার বিপদে আমি কি সবর আর তাকওয়া ধরে আছি, নাকি দুটোই ঢিলে করে দিয়ে কেবল সাহায্যের অপেক্ষা করছি?",
+      "সামনের কাজের জন্য মন শক্ত করতে এই সপ্তাহে আল্লাহর আগের কোন সাহায্যটা আমার মনে করা দরকার?"
+    ],
+    "lessonEn": "Take the means as good tidings, place the victory with Allah, and answer every rescue with taqwa and gratitude.",
+    "lessonBn": "উপকরণকে সুসংবাদ হিসেবে নিন, বিজয়কে আল্লাহর হাতে রাখুন, আর প্রতিটি উদ্ধারের জবাব দিন তাকওয়া ও শোকর দিয়ে।"
+  },
+  "3:166-168": {
+    "reflectionEn": "The losses of Uhud came by Allah's permission, the passage says, so that the believers would be made evident, and the hypocrites too. The hypocrites were asked to fight in Allah's way, or at least to defend, and they answered that if they had known there would be fighting, they would have followed. The Quran says they were, that day, nearer to disbelief than to faith, saying with their mouths what was not in their hearts. Then, having stayed at home, they judged the ones who went: had they obeyed us, they would not have been killed. The reply is simple. If sitting at home keeps death away, keep it away from yourselves. Hard days show what easy words concealed.",
+    "reflectionBn": "আয়াতগুলো বলে, উহুদের ক্ষতি এসেছিল আল্লাহর অনুমতিতে, যাতে মুমিনদের চেনা যায়, আর মুনাফিকদেরও। মুনাফিকদের বলা হয়েছিল আল্লাহর পথে লড়াই করো, অন্তত প্রতিরক্ষায় থাকো। তারা জবাব দিল, যুদ্ধ হবে জানলে আমরা অবশ্যই তোমাদের সঙ্গে যেতাম। কুরআন বলছে, সেদিন তারা ঈমানের চেয়ে কুফরের বেশি কাছে ছিল, মুখে এমন কথা বলছিল যা অন্তরে ছিল না। তারপর ঘরে বসে থেকে তারা যারা গিয়েছিলেন তাঁদের বিচার করল: আমাদের কথা শুনলে তারা মারা যেত না। জবাবটা সোজা। ঘরে বসে থাকলেই যদি মৃত্যু ঠেকানো যায়, তবে নিজেদের থেকে মৃত্যু ঠেকিয়ে দেখাও। কঠিন দিন দেখিয়ে দেয় সহজ কথার আড়ালে কী লুকানো ছিল।",
+    "pointsEn": [
+      "When I excuse myself from something hard, is my reason one I would still give if I knew Allah was weighing it?",
+      "When I say that I would have come if only I had known, how often is the truth that I did not want to know?",
+      "Do I judge people who acted and paid a price from a place where I risked nothing?",
+      "Is there a gap today between what my mouth says about my faith and what my heart is holding?",
+      "Which way has my heart been moving lately, nearer to faith or further from it, and what moved it?"
+    ],
+    "pointsBn": [
+      "কঠিন কোনো কাজ থেকে নিজেকে সরিয়ে নেওয়ার সময় যে অজুহাত দিই, আল্লাহ তা মেপে দেখছেন জানলেও কি সেটাই দিতাম?",
+      "আগে জানলে আসতাম, এই কথা যখন বলি, তখন কতবার আসল সত্যটা হলো আমি জানতেই চাইনি?",
+      "যাঁরা কাজ করেছেন আর তার মূল্য দিয়েছেন, আমি কি এমন জায়গা থেকে তাঁদের বিচার করি যেখানে আমার কোনো ঝুঁকি ছিল না?",
+      "আজ আমার মুখ ঈমান নিয়ে যা বলে আর অন্তর যা ধরে রাখে, তার মধ্যে কি কোনো ফাঁক আছে?",
+      "ইদানীং আমার অন্তর কোন দিকে সরছে, ঈমানের কাছে না তার থেকে দূরে, আর কী তাকে সরাচ্ছে?"
+    ],
+    "lessonEn": "A hard day reveals what an easy excuse hid, so match the heart to the mouth before the test arrives.",
+    "lessonBn": "কঠিন দিন সহজ অজুহাতের আড়ালটা খুলে দেয়, তাই পরীক্ষা আসার আগেই মুখের কথার সঙ্গে অন্তর মিলিয়ে নিন।"
+  },
+  "3:180": {
+    "reflectionEn": "The verse argues with a thought before it becomes a habit: that holding back what Allah has given is good for the one who holds it. It calls the wealth what it is, something given of His bounty, and then reverses the calculation outright. It is not better for them; it is worse. What they withheld will be put around their necks on the Day of Resurrection, so the very thing kept back becomes the thing that clings. And the verse ends by reminding that the heritage of the heavens and the earth belongs to Allah. Everything a person grips will pass back to its Owner, and the only question is whether it passed through his hands as a trust or as a hoard.",
+    "reflectionBn": "আয়াতটি একটি ধারণার সঙ্গে তর্ক করে, অভ্যাসে পরিণত হওয়ার আগেই: আল্লাহ যা দিয়েছেন তা আটকে রাখাই যে রাখে তার জন্য ভালো। আয়াত সম্পদকে তার আসল নামে ডাকে, আল্লাহর অনুগ্রহ থেকে দেওয়া জিনিস। তারপর হিসাবটা পুরো উল্টে দেয়। এটা তাদের জন্য ভালো নয়, বরং খারাপ। যা তারা আটকে রেখেছিল, কিয়ামতের দিন তা-ই তাদের গলায় পরিয়ে দেওয়া হবে। অর্থাৎ যে জিনিস ধরে রাখা হয়েছিল, সেটাই গায়ে লেগে থাকবে। আর আয়াত শেষ হয় এই কথা মনে করিয়ে: আসমান ও জমিনের উত্তরাধিকার আল্লাহর। মানুষ যা আঁকড়ে ধরে, সবই মালিকের কাছে ফিরে যাবে। প্রশ্ন শুধু এটুকু, তা তার হাত দিয়ে আমানত হয়ে গেল, নাকি জমানো সম্পদ হয়ে।",
+    "pointsEn": [
+      "What reasoning do I use most often to convince myself that keeping something back is better for me?",
+      "Do I think of what I own as what Allah has given me of His bounty, or as simply mine?",
+      "Is there a right in my wealth, zakah, a wage, a debt, a family member's due, that I have delayed?",
+      "If what I am holding back most tightly were placed around my neck, what would it be?",
+      "Since everything returns to Allah as its heir, what would I spend today if I truly believed that?"
+    ],
+    "pointsBn": [
+      "কিছু আটকে রাখাই আমার জন্য ভালো, নিজেকে এটা বোঝাতে কোন যুক্তিটা আমি সবচেয়ে বেশি ব্যবহার করি?",
+      "যা আমার আছে, তাকে কি আল্লাহর অনুগ্রহ থেকে দেওয়া জিনিস ভাবি, নাকি শুধু নিজের জিনিস?",
+      "আমার সম্পদে কারও কোনো হক, জাকাত, মজুরি, ঋণ বা পরিবারের কারও পাওনা, কি আমি দেরি করে ফেলে রেখেছি?",
+      "যা সবচেয়ে শক্ত করে আটকে রেখেছি, তা যদি আমার গলায় পরিয়ে দেওয়া হয়, সেটা কী হবে?",
+      "সবকিছুর উত্তরাধিকারী যেহেতু আল্লাহ, সত্যিই এটা বিশ্বাস করলে আজ আমি কী খরচ করতাম?"
+    ],
+    "lessonEn": "What you withhold of Allah's bounty is not kept for you but against you, so pass it on while it is still in your hands.",
+    "lessonBn": "আল্লাহর অনুগ্রহ থেকে যা আটকে রাখেন, তা আপনার জন্য নয়, আপনার বিরুদ্ধেই জমা হয়। তাই হাতে থাকতেই তা পৌঁছে দিন।"
+  },
+  "4:19-21": {
+    "reflectionEn": "These verses open with a call to the believers and a firm refusal: a woman is not property to be inherited against her will. Nor may a husband make her life hard so that she gives back part of what he gave her, unless she commits a clear immorality. In place of pressure, the verse commands a way of living: live with them in kindness, in the manner known to be good. Then it speaks to a heart that has cooled. If you dislike her, perhaps you dislike a thing in which Allah has placed much good. The two verses after it forbid taking back a dowry, however large, and call marriage a solemn covenant. The passage asks what a husband's kindness looks like when his feelings have changed.",
+    "reflectionBn": "আয়াতগুলো শুরু হয় ঈমানদারদের ডাক দিয়ে, আর সঙ্গে সঙ্গে আসে দৃঢ় এক নিষেধ: নারী এমন সম্পদ নয় যে তার অমতে তাকে উত্তরাধিকার হিসেবে নিয়ে নেওয়া যাবে। স্বামীও তাকে কষ্ট দিয়ে এমন চাপে ফেলতে পারবে না যাতে সে নিজের পাওয়া মালের কিছু ফিরিয়ে দেয়, যদি না সে স্পষ্ট অশ্লীল কাজ করে। চাপের জায়গায় আয়াত দেয় জীবন যাপনের এক রীতি: তাদের সঙ্গে সদ্ভাবে বসবাস করো, যেভাবে ভালো বলে সবাই জানে। তারপর কথা বলে সেই মনের সঙ্গে, যার টান কমে গেছে। যদি তাকে অপছন্দ করো, হতে পারে তোমরা এমন কিছু অপছন্দ করছ, যার মধ্যে আল্লাহ অনেক কল্যাণ রেখেছেন। পরের দুই আয়াত মোহর যত বড়ই হোক তা ফিরিয়ে নিতে নিষেধ করে, আর বিয়েকে বলে দৃঢ় অঙ্গীকার। মন বদলে গেলে একজন স্বামীর সদ্ভাব দেখতে কেমন, অংশটি সেই প্রশ্নই রেখে যায়।",
+    "pointsEn": [
+      "When my feelings toward someone in my home change, does my kindness change with them?",
+      "Have I ever used pressure, silence or hardship to get something from a person who could not easily refuse?",
+      "What does living with kindness look like in my house on an ordinary evening?",
+      "Is there something I disliked at first in which Allah later showed me much good?",
+      "Do I treat the promises of my marriage as a solemn covenant, or as terms I keep while they suit me?"
+    ],
+    "pointsBn": [
+      "ঘরের কারও প্রতি আমার অনুভূতি বদলে গেলে, আমার ভালো ব্যবহারও কি তার সঙ্গে বদলে যায়?",
+      "যে সহজে না বলতে পারে না, তার কাছ থেকে কিছু আদায় করতে আমি কি কখনো চাপ, চুপ থাকা বা কষ্ট দেওয়াকে ব্যবহার করেছি?",
+      "সাধারণ একটা সন্ধ্যায় আমার ঘরে সদ্ভাবে বসবাস দেখতে কেমন?",
+      "এমন কিছু কি আছে, যা শুরুতে অপছন্দ করেছিলাম, অথচ পরে আল্লাহ তাতে অনেক কল্যাণ দেখিয়েছেন?",
+      "বিয়ের ওয়াদাগুলোকে আমি কি দৃঢ় অঙ্গীকার মনে করি, নাকি এমন শর্ত যা সুবিধা থাকলে তবেই মানি?"
+    ],
+    "lessonEn": "Live with your family in kindness, and when your heart cools, remember that Allah may have placed much good in what you dislike.",
+    "lessonBn": "পরিবারের সঙ্গে সদ্ভাবে বসবাস করুন। মনের টান কমে গেলে মনে রাখুন, যা অপছন্দ করছেন তাতে হয়তো আল্লাহ অনেক কল্যাণ রেখেছেন।"
+  },
+  "4:54-55": {
+    "reflectionEn": "Envy is, underneath, a quarrel with the Giver's decision. These verses ask about those who had been given a portion of the Scripture: do they envy people for what Allah has given them of His bounty? The question does not argue over who deserved the gift. It names where the gift came from, Allah and His bounty, and then reminds that Allah had already given the family of Abraham the Scripture, wisdom and a great kingdom. Giving has always been His way. Some among them believed in it, and some turned away. The verses speak of a group of that time, yet the sickness they name can settle in any heart that watches another person's blessing and wishes it gone.",
+    "reflectionBn": "গভীরে গেলে হিংসা আসলে দাতার সিদ্ধান্তের সঙ্গে ঝগড়া। যাদের কিতাবের একাংশ দেওয়া হয়েছিল, তাদের ব্যাপারে এই আয়াত প্রশ্ন তোলে: আল্লাহ নিজ অনুগ্রহে মানুষকে যা দিয়েছেন, সেজন্য কি তারা হিংসা করে? প্রশ্নটা তর্ক করে না, দান পাওয়ার যোগ্য কে ছিল। বরং দেখিয়ে দেয় দান কোথা থেকে এসেছে: আল্লাহর কাছ থেকে, তাঁর অনুগ্রহ থেকে। তারপর মনে করিয়ে দেয়, আল্লাহ আগেই ইবরাহীমের বংশধরদের কিতাব, হিকমাত আর বিশাল রাজত্ব দিয়েছিলেন। দান করা বরাবরই তাঁর রীতি। তাদের কেউ তাতে ঈমান এনেছিল, কেউ মুখ ফিরিয়ে নিয়েছিল। আয়াতগুলো সেই সময়ের একটি দলের কথা বলে। কিন্তু যে রোগের নাম আয়াতগুলো নেয়, তা যেকোনো হৃদয়ে বাসা বাঁধতে পারে, যে হৃদয় অন্যের নিয়ামতের দিকে তাকিয়ে চায় তা চলে যাক।",
+    "pointsEn": [
+      "Whose blessing do I find hardest to be glad about, and why that person?",
+      "When someone is given what I wanted, do I ask Allah of His bounty, or do I wish it taken from them?",
+      "Do I see what others have as something taken from me, or as something Allah gave them?",
+      "What has Allah already given me that I have stopped noticing because I keep watching others?",
+      "How do I speak about a person I envy when they are not in the room?"
+    ],
+    "pointsBn": [
+      "কার নিয়ামতে খুশি হওয়া আমার কাছে সবচেয়ে কঠিন, আর কেন ঠিক সেই মানুষটির?",
+      "আমি যা চেয়েছিলাম তা অন্য কেউ পেলে, আমি কি আল্লাহর কাছে তাঁর অনুগ্রহ চাই, নাকি চাই তার কাছ থেকে তা চলে যাক?",
+      "অন্যের যা আছে, তা কি আমি আমার কাছ থেকে কেড়ে নেওয়া কিছু মনে করি, নাকি আল্লাহর দেওয়া দান?",
+      "অন্যদের দিকে তাকিয়ে থাকতে থাকতে আল্লাহর দেওয়া কোন নিয়ামত আমার চোখেই পড়ে না?",
+      "যাকে হিংসা করি, সে সামনে না থাকলে তার সম্পর্কে আমি কীভাবে কথা বলি?"
+    ],
+    "lessonEn": "What others have is Allah's gift to them: ask Him of His bounty, and never wish His gift removed from anyone.",
+    "lessonBn": "অন্যের যা আছে তা তাদের প্রতি আল্লাহর দান। আপনি তাঁর কাছে তাঁর অনুগ্রহ চান, আর কখনো কারও কাছ থেকে তাঁর দান চলে যাক, এমন কামনা করবেন না।"
+  },
+  "4:69-70": {
+    "reflectionEn": "The reward in this verse is described not as a place but as company. Whoever obeys Allah and the Messenger will be with those upon whom Allah has bestowed favour: the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions. For a believer who has loved the Prophet ﷺ without ever seeing him, few promises are more tender. It is humbling too, because the next verse calls it the bounty from Allah. The company is not a wage for deeds; it is a gift, and Allah is sufficient as the One who knows who is walking toward it. Obedience is the road. The verse asks whose company I am preparing for in the choices I make today.",
+    "reflectionBn": "এই আয়াতে পুরস্কারের বর্ণনা কোনো জায়গা দিয়ে নয়, সঙ্গ দিয়ে। যে আল্লাহ ও রাসূলের আনুগত্য করে, সে থাকবে তাঁদের সঙ্গে, যাঁদের আল্লাহ নিয়ামত দিয়েছেন: নবীগণ, সিদ্দীকগণ, শহীদগণ আর নেককারগণ। আর সঙ্গী হিসেবে তাঁরা কতই না উত্তম। যে মুমিন নবী ﷺ-কে না দেখেই ভালোবেসেছে, তার কাছে এর চেয়ে কোমল ওয়াদা খুব কমই আছে। আবার এটা বিনয়ীও করে, কারণ পরের আয়াত একে বলে আল্লাহর পক্ষ থেকে অনুগ্রহ। এই সঙ্গ আমলের মজুরি নয়, দান। আর কে সেদিকে এগোচ্ছে, তা জানার জন্য আল্লাহই যথেষ্ট। আনুগত্য হলো পথ। আয়াত জিজ্ঞেস করে: আজকের সিদ্ধান্তগুলো দিয়ে আমি কাদের সঙ্গের জন্য তৈরি হচ্ছি?",
+    "pointsEn": [
+      "Whose company do I seek in this world, and does it resemble the company this verse describes?",
+      "Is my love for the Prophet ﷺ visible in how I follow him, or only in how I speak of him?",
+      "Which of the four, the prophets, the truthful, the martyrs or the righteous, do I most need to learn from this year?",
+      "Do I count my good deeds as a price I have paid, or thank Allah for a bounty I could never pay for?",
+      "If I were raised with the people I spend my evenings with, would I be glad?"
+    ],
+    "pointsBn": [
+      "দুনিয়ায় আমি কাদের সঙ্গ খুঁজি, আর সেই সঙ্গ কি এই আয়াতে বলা সঙ্গের মতো?",
+      "নবী ﷺ-এর প্রতি আমার ভালোবাসা কি তাঁকে অনুসরণের মধ্যে দেখা যায়, নাকি শুধু তাঁকে নিয়ে কথা বলার মধ্যে?",
+      "নবী, সিদ্দীক, শহীদ আর নেককার, এই চার দলের কাদের কাছ থেকে এ বছর আমার সবচেয়ে বেশি শেখা দরকার?",
+      "নিজের নেক আমলকে কি আমি চুকিয়ে দেওয়া দাম মনে করি, নাকি এমন অনুগ্রহের জন্য শুকরিয়া আদায় করি, যার দাম আমি কখনো দিতে পারতাম না?",
+      "যাদের সঙ্গে আমার সন্ধ্যাগুলো কাটে, তাদের সঙ্গেই যদি আমাকে ওঠানো হয়, আমি কি খুশি হব?"
+    ],
+    "lessonEn": "Obey Allah and His Messenger, and hope for the company of those He favoured, as a bounty from Him and not a wage.",
+    "lessonBn": "আল্লাহ ও তাঁর রাসূলের আনুগত্য করুন, আর যাঁদের তিনি নিয়ামত দিয়েছেন তাঁদের সঙ্গের আশা রাখুন, মজুরি হিসেবে নয়, তাঁর অনুগ্রহ হিসেবে।"
+  },
+  "4:88-91": {
+    "reflectionEn": "These verses do not speak about outsiders in general. They open by asking the believers why they had split into two camps over a particular group of hypocrites, whom Allah had cast back for what they had earned. The passage describes that group plainly: they wished the believers would disbelieve as they had. They were not to be taken as allies until they emigrated in Allah's cause, and if they turned away, the order was to seize and kill them. Then, without a pause, come the exceptions: those who join a people bound to the believers by treaty, and those who come unwilling to fight either side. Whoever withdraws and offers peace, Allah has made no way against them. Reading the passage whole is part of reading it truthfully.",
+    "reflectionBn": "এই আয়াতগুলো সাধারণভাবে বাইরের সব মানুষের কথা বলছে না। শুরুতেই আল্লাহ মুমিনদের প্রশ্ন করেন, নির্দিষ্ট এক মুনাফিক দলকে নিয়ে তোমরা দুই ভাগ হয়ে গেলে কেন? অথচ তাদের নিজেদের কামাইয়ের কারণেই আল্লাহ তাদের উল্টো দিকে ফিরিয়ে দিয়েছেন। আয়াত দলটির পরিচয় খোলাখুলি দেয়। তারা চাইত, তারা যেমন কুফরী করেছে, মুমিনরাও তেমনি কুফরী করুক। আল্লাহর পথে হিজরত না করা পর্যন্ত তাদের কাউকে বন্ধু বানানো যাবে না। আর তারা মুখ ফিরিয়ে নিলে হুকুম ছিল তাদের পাকড়াও করা ও হত্যা করা। তারপর কোনো বিরতি ছাড়াই আসে ব্যতিক্রম: যারা মুমিনদের সঙ্গে চুক্তিবদ্ধ কোনো সম্প্রদায়ের সঙ্গে গিয়ে মেলে, আর যারা কোনো পক্ষের বিরুদ্ধেই লড়তে চায় না। যে সরে দাঁড়ায় ও শান্তির প্রস্তাব দেয়, তার বিরুদ্ধে আল্লাহ কোনো পথ রাখেননি। পুরো অংশটি একসঙ্গে পড়াই একে সত্যভাবে পড়ার শর্ত।",
+    "pointsEn": [
+      "When I quote a verse, do I carry the verses around it too, or only the words that serve my point?",
+      "When believers argue about who is sincere, do I rush to take a side, or look at conduct and leave hearts to Allah?",
+      "If someone I disagree with offers peace, how quickly and how honestly do I accept it?",
+      "Is my loyalty the same in every company, or do I, like the people of 4:91, look for safety with both sides at once?",
+      "What have I earned lately that could turn me back, and have I asked Allah to keep me from it?"
+    ],
+    "pointsBn": [
+      "কোনো আয়াত উদ্ধৃত করার সময় আমি কি আশপাশের আয়াতগুলোও সঙ্গে রাখি, নাকি শুধু সেই অংশটুকু নিই যা আমার কথার পক্ষে যায়?",
+      "কে খাঁটি আর কে নয়, এ নিয়ে মুমিনরা তর্কে জড়ালে আমি কি তাড়াহুড়ো করে একদিকে দাঁড়িয়ে যাই, নাকি আচরণ দেখি আর অন্তরের বিচার আল্লাহর হাতে ছেড়ে দিই?",
+      "যার সঙ্গে আমার মতের অমিল, সে শান্তির প্রস্তাব দিলে আমি কত তাড়াতাড়ি আর কতটা আন্তরিকভাবে তা গ্রহণ করি?",
+      "সব মহলে কি আমার আনুগত্য একই থাকে, নাকি ৪:৯১ আয়াতের লোকদের মতো আমিও একসঙ্গে দুই পক্ষের কাছেই নিরাপত্তা খুঁজি?",
+      "সম্প্রতি আমি এমন কী কামাই করেছি যা আমাকে উল্টো দিকে ফিরিয়ে দিতে পারে, আর তা থেকে বাঁচাতে আমি কি আল্লাহর কাছে চেয়েছি?"
+    ],
+    "lessonEn": "Read the hard command together with its exceptions: against those who withdraw and offer peace, Allah Himself has made no way.",
+    "lessonBn": "কঠিন হুকুমটি পড়ুন তার ব্যতিক্রমগুলোসহ: যারা সরে দাঁড়ায় ও শান্তির প্রস্তাব দেয়, তাদের বিরুদ্ধে আল্লাহ নিজেই কোনো পথ রাখেননি।"
   }
 };
 
