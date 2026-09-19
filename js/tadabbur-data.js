@@ -5063,6 +5063,166 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Read the hard command together with its exceptions: against those who withdraw and offer peace, Allah Himself has made no way.",
     "lessonBn": "কঠিন হুকুমটি পড়ুন তার ব্যতিক্রমগুলোসহ: যারা সরে দাঁড়ায় ও শান্তির প্রস্তাব দেয়, তাদের বিরুদ্ধে আল্লাহ নিজেই কোনো পথ রাখেননি।"
+  },
+  "4:92-93": {
+    "reflectionEn": "The passage begins with a flat statement: it is not for a believer to kill a believer, except by mistake. Then the mistake itself is taken up, and it is not waved away. Whoever kills a believer unintentionally must free a believing slave and hand a compensation payment to the family, unless they forgo it as charity. If the one killed belonged to a people at war with the believers, only the freeing is due; if to a people bound by a treaty, both are. Whoever cannot find the means fasts two months in a row, and the verse calls that a turning to Allah. Then 4:93 turns to the one who kills a believer deliberately, and the warning there is severe.",
+    "reflectionBn": "অংশটি শুরু হয় সোজা এক কথায়: মুমিনকে হত্যা করা মুমিনের কাজ নয়, ভুলবশত হয়ে গেলে ভিন্ন কথা। এরপর সেই ভুলটিকেই ধরা হয়, আর হালকা করে ছেড়ে দেওয়া হয় না। যে ভুলক্রমে কোনো মুমিনকে হত্যা করে, তাকে একজন মুমিন দাস মুক্ত করতে হবে আর নিহতের পরিবারকে রক্তপণ দিতে হবে, যদি না তারা তা মাফ করে দেয়। নিহত ব্যক্তি যদি মুমিনদের শত্রুপক্ষের লোক হয়, তবে শুধু দাসমুক্তি; আর চুক্তিবদ্ধ কোনো গোত্রের লোক হলে দুটোই। যার সামর্থ্য নেই, সে একটানা দুই মাস রোযা রাখবে, আর আয়াত একেই বলে আল্লাহর দিকে ফেরা। এরপর ৪:৯৩ আয়াত আসে ইচ্ছাকৃত হত্যাকারীর কথায়, আর সেখানকার হুঁশিয়ারি কঠিন।",
+    "pointsEn": [
+      "The Quran attaches a cost even to the harm I did not intend — where in my life am I careless in ways that could hurt someone?",
+      "The expiation moves in two directions at once, toward Allah and toward the family left behind. When I wrong someone, do I settle both sides or only the easier one?",
+      "The family may forgo the payment as charity. If I were owed compensation, how close is my heart to that?",
+      "Why does a killing done by accident still end in seeking Allah's acceptance of repentance?",
+      "What does it say about the weight of a believer's blood that the deliberate killing is answered with a warning this severe?"
+    ],
+    "pointsBn": [
+      "ইচ্ছে না করেও যে ক্ষতি হয়ে যায়, কুরআন তারও দাম ধরে। আমার জীবনের কোথায় আমি এমন অসতর্ক, যাতে কারও ক্ষতি হয়ে যেতে পারে?",
+      "কাফফারা একসঙ্গে দুই দিকে যায়, আল্লাহর দিকে আর পেছনে পড়ে থাকা পরিবারের দিকে। কারও ওপর অন্যায় হয়ে গেলে আমি কি দুই দিকই মেটাই, নাকি যেটা সহজ কেবল সেটাই?",
+      "পরিবার চাইলে রক্তপণ মাফ করে দিতে পারে। ক্ষতিপূরণ আমার পাওনা হলে আমার মন কি সেই জায়গার কাছাকাছি থাকে?",
+      "ভুলবশত হয়ে যাওয়া হত্যার শেষেও কেন আল্লাহর কাছে তওবা কবুলের প্রার্থনা রাখা হলো?",
+      "ইচ্ছাকৃত হত্যার জবাবে এত কঠিন হুঁশিয়ারি আসা একজন মুমিনের রক্তের ওজন সম্পর্কে আমাকে কী বলে?"
+    ],
+    "lessonEn": "Blood is heavy enough in Allah's sight that even the unintended shedding of it is answered with a freeing, a payment and a return to Him.",
+    "lessonBn": "আল্লাহর কাছে রক্তের ওজন এত ভারী যে ভুলে ঝরে যাওয়া রক্তেরও জবাব একটি দাসমুক্তি, একটি রক্তপণ আর তাঁর দিকে ফিরে আসা।"
+  },
+  "4:102-103": {
+    "reflectionEn": "An army is in the field, the enemy is in sight, and the prayer is due. The verse tells the one leading it how: one group stands with him holding their arms, and when they have prostrated they take position behind, while the group that has not prayed comes forward and prays with him, alert and armed. Those who disbelieve want nothing more than for the believers to be careless with their weapons and their baggage, so they can fall on them in one rush. If rain or illness makes arms a burden, laying them down is no sin, but the wariness stays. Then 4:103 adds: when it is done, remember Allah standing, sitting and lying down, and establish the prayer fully once you are secure.",
+    "reflectionBn": "সৈন্যদল ময়দানে, শত্রু চোখের সামনে, আর নামাযের সময় হাজির। আয়াত ইমামতিকারীকে পথটা বলে দেয়: এক দল অস্ত্র হাতে তাঁর সঙ্গে দাঁড়াবে, সাজদাহ শেষ হলে তারা পেছনে গিয়ে পাহারায় থাকবে, আর যে দলটি নামায পড়েনি তারা সামনে এসে সতর্ক ও সশস্ত্র অবস্থায় তাঁর সঙ্গে নামায পড়বে। কাফিররা এর চেয়ে বেশি আর কিছু চায় না যে মুমিনরা নিজেদের অস্ত্র আর সরঞ্জামের ব্যাপারে গাফেল হয়ে পড়ুক, যাতে একবারেই ঝাঁপিয়ে পড়া যায়। বৃষ্টি বা অসুখে অস্ত্র বোঝা হয়ে গেলে তা নামিয়ে রাখায় গুনাহ নেই, তবু সতর্কতা থেকেই যায়। এরপর ৪:১০৩ আয়াত যোগ করে: নামায শেষ হলে দাঁড়িয়ে, বসে ও শুয়ে আল্লাহকে স্মরণ করো, আর নিরাপদ হলে পুরো নিয়মে নামায কায়েম করো।",
+    "pointsEn": [
+      "The form of the prayer bent to the danger, but the prayer was not dropped. What do I drop first when a day turns hard?",
+      "Half the congregation is watching the enemy while the other half prays. Do I take my turn at the work that lets others worship in peace?",
+      "The verse warns against being careless with weapons and baggage. Where has ease made me careless about something I was told to guard?",
+      "When the danger passes, the verse says establish the prayer properly again. Have I let a concession outlive the hardship that earned it?",
+      "Standing, sitting, lying down — is there any posture of my day in which I could not be remembering Allah?"
+    ],
+    "pointsBn": [
+      "বিপদের কারণে নামাযের গড়ন বদলেছে, কিন্তু নামায বাদ যায়নি। দিন কঠিন হলে আমার হাত থেকে সবার আগে কোন জিনিসটা পড়ে যায়?",
+      "জামাতের অর্ধেক শত্রুর দিকে তাকিয়ে আছে, আর অর্ধেক নামাযে। অন্যরা যেন নিশ্চিন্তে ইবাদত করতে পারে, সেই কাজে আমি কি নিজের পালা নিই?",
+      "আয়াত অস্ত্র ও সরঞ্জামের ব্যাপারে গাফেল হতে নিষেধ করে। স্বাচ্ছন্দ্য আমাকে কোন জায়গায় এমন গাফেল করে দিয়েছে, যা পাহারা দিতে বলা হয়েছিল?",
+      "বিপদ কেটে গেলে আয়াত বলে আবার পুরো নিয়মে নামায কায়েম করতে। কষ্টের সময়ের ছাড় কি আমি কষ্ট শেষ হওয়ার পরও টেনে নিয়ে যাচ্ছি?",
+      "দাঁড়িয়ে, বসে, শুয়ে; দিনের এমন কোনো অবস্থা কি আছে যেখানে আল্লাহকে স্মরণ করা যায় না?"
+    ],
+    "lessonEn": "Danger may change the shape of your prayer; it does not excuse you from it, and when safety returns the prayer returns whole.",
+    "lessonBn": "বিপদ আপনার নামাযের গড়ন বদলে দিতে পারে, কিন্তু নামায থেকে ছুটি দেয় না; নিরাপত্তা ফিরলে নামাযও পুরো হয়ে ফিরে আসে।"
+  },
+  "4:109": {
+    "reflectionEn": "The verse turns on the people who had taken up the case of someone they should never have defended. Here you are, it says: you have argued for them in the life of this world. Then comes a question with no answer offered. Who will argue with Allah on their behalf on the Day of Resurrection? Who will be their representative there? A case can be won in a human court, because a judge rules on what he is shown. Nothing can be shown to Allah, because nothing was ever hidden from Him. The two questions are left standing, and the silence after them is the whole point.",
+    "reflectionBn": "যাদের পক্ষ নেওয়াই উচিত ছিল না, তাদের হয়ে যারা লড়ছিল, আয়াত ঘুরে দাঁড়ায় তাদের দিকেই। দেখো, বলা হচ্ছে, দুনিয়ার জীবনে তোমরা তো তাদের পক্ষে তর্ক করেছ। এরপর আসে এমন প্রশ্ন, যার জবাব দেওয়া হয় না। কিয়ামতের দিন আল্লাহর সামনে তাদের পক্ষে কে ঝগড়া করবে? সেদিন কে হবে তাদের উকিল? মানুষের আদালতে মামলা জেতা যায়, কারণ বিচারক যা দেখানো হয় তার ভিত্তিতেই রায় দেন। আল্লাহকে কিছু দেখানোর নেই, কারণ তাঁর কাছ থেকে কোনো কিছু কোনোদিন লুকানোই ছিল না। প্রশ্ন দুটি জবাব ছাড়াই দাঁড়িয়ে থাকে, আর তার পরের নীরবতাটুকুই আসল কথা।",
+    "pointsEn": [
+      "Whose case have I taken up lately, and did I check whether they were in the right before I spoke for them?",
+      "If a verdict in my favour were built on what the judge could not see, would I still want it?",
+      "I would want a defender on the Day when none is available. What am I sending ahead instead?",
+      "Where am I relying on my ability to explain myself, in a place where explanation will not be needed?",
+      "Loyalty to my own people is good until it defends a wrong. Where is that line in my life right now?"
+    ],
+    "pointsBn": [
+      "সম্প্রতি আমি কার পক্ষ নিয়েছি, আর তার হয়ে কথা বলার আগে কি যাচাই করেছি সে সত্যের ওপর আছে কিনা?",
+      "বিচারক যা দেখতে পাননি তার ওপর ভর করে আমার পক্ষে রায় এলে, সেই রায় কি আমি তবু চাইতাম?",
+      "যেদিন কোনো উকিল মিলবে না, সেদিন আমি একজন উকিল চাইব। তার বদলে আমি আগে কী পাঠাচ্ছি?",
+      "যেখানে ব্যাখ্যার কোনো দরকারই হবে না, সেখানকার জন্য আমি কি নিজের ব্যাখ্যা দেওয়ার ক্ষমতার ওপর ভরসা করে আছি?",
+      "নিজের লোকের প্রতি টান ভালো, যতক্ষণ না তা কোনো অন্যায়কে আড়াল করে। আমার জীবনে এই সীমারেখাটা এখন কোথায়?"
+    ],
+    "lessonEn": "Win nothing in this world that you would have to defend on a Day when no one can speak for you.",
+    "lessonBn": "দুনিয়াতে এমন কিছু জিতবেন না, যার পক্ষে সেই দিন দাঁড়াতে হবে যেদিন আপনার হয়ে কেউ কথা বলতে পারবে না।"
+  },
+  "4:116": {
+    "reflectionEn": "Allah does not forgive that partners be set up with Him, and He forgives what is less than that for whom He wills. Two clauses, and each has to be carried along with the other. The first shuts a door: there is one wrong that cannot be carried into the meeting with Allah. The second opens a wide space, and everything beneath that one wrong stands within reach of His forgiveness. The second clause is not a guarantee either, because it is tied to His will, so nobody walks away from this verse despairing and nobody walks away presuming. The close names what shirk really costs: whoever associates others with Allah has gone far astray.",
+    "reflectionBn": "আল্লাহ তাঁর সঙ্গে শরীক করা ক্ষমা করেন না, আর এর নিচের সবকিছু যাকে ইচ্ছা মাফ করেন। দুটি কথা, আর একটিকে আরেকটির সঙ্গে নিয়েই চলতে হয়। প্রথম কথাটি একটি দরজা বন্ধ করে দেয়: এমন একটি অন্যায় আছে যা নিয়ে আল্লাহর সামনে গিয়ে দাঁড়ানো যায় না। দ্বিতীয় কথাটি প্রশস্ত জায়গা খুলে দেয়, সেই এক অন্যায়ের নিচের সবকিছুই তাঁর মাগফিরাতের নাগালে। তবু দ্বিতীয় কথাটিও নিশ্চয়তা নয়, কারণ তা তাঁর ইচ্ছার সঙ্গে বাঁধা। তাই এই আয়াত থেকে কেউ নিরাশ হয়ে ফেরে না, কেউ নিশ্চিন্ত হয়েও ফেরে না। শেষে বলা হয় শিরকের আসল ক্ষতিটা কী: যে আল্লাহর সঙ্গে শরীক করে, সে বহু দূরে সরে গেছে।",
+    "pointsEn": [
+      "The verse names one sin that is not covered and leaves the rest to His will. Which half of it do I usually quote to myself?",
+      "Is there anything in my life that I fear, hope in or obey the way only Allah should be feared, hoped in and obeyed?",
+      "If my forgiveness depends on His will and not on my calculation, how should that change the way I ask?",
+      "Does my hope make me careless, or does my fear make me hopeless? The verse refuses both.",
+      "What would it mean, practically, for my heart to be a place where nothing shares His seat?"
+    ],
+    "pointsBn": [
+      "আয়াত একটি গুনাহের নাম নেয় যা মাফের বাইরে, আর বাকিটুকু রাখে তাঁর ইচ্ছার হাতে। এর কোন অর্ধেকটা আমি সাধারণত নিজেকে শোনাই?",
+      "আমার জীবনে এমন কিছু কি আছে, যাকে আমি ভয় করি, যার কাছে আশা রাখি বা যার কথা মানি ঠিক সেভাবে, যেভাবে কেবল আল্লাহকেই করার কথা?",
+      "আমার মাফ যদি আমার হিসাবের ওপর নয়, তাঁর ইচ্ছার ওপর নির্ভর করে, তবে আমার চাওয়ার ধরনটা কেমন হওয়া উচিত?",
+      "আমার আশা কি আমাকে বেপরোয়া করে, নাকি আমার ভয় আমাকে নিরাশ করে? আয়াত দুটোকেই নাকচ করে।",
+      "আমার অন্তর এমন জায়গা হওয়া, যেখানে তাঁর আসনে আর কেউ ভাগ বসায় না; কাজে এর অর্থ কী দাঁড়ায়?"
+    ],
+    "lessonEn": "Guard the one thing that cannot be forgiven, and then ask Him for everything else without despair and without presumption.",
+    "lessonBn": "যে জিনিসটি মাফ হয় না সেটিকে আগলে রাখুন, তারপর বাকি সবকিছুর জন্য তাঁর কাছে চান, নিরাশ না হয়ে আর নিশ্চিন্ত না হয়ে।"
+  },
+  "4:125": {
+    "reflectionEn": "The two verses just before this one refuse to let Paradise turn on wishful thinking, whether it is ours or the People of the Scripture's. Then comes a question that has only one answer: who is better in religion than someone who submits his face to Allah, does good, and follows the way of Ibrahim, leaning away from error? Religion here is not a name a person holds. It is a direction, a deed, and a road already walked. The verse closes on something no one could claim for himself: Allah took Ibrahim as an intimate friend. He was given that, after a lifetime of obeying. The question left behind is whether my religion is something I say, or something I am doing.",
+    "reflectionBn": "এর ঠিক আগের দুই আয়াত পরিষ্কার করে দেয়, জান্নাত কারও আশা বা দাবির ওপর নির্ভর করে না, না আমাদের, না আহলে কিতাবের। এরপর আসে এমন এক প্রশ্ন, যার উত্তর একটাই: দ্বীনে তার চেয়ে ভালো আর কে, যে আল্লাহর কাছে নিজের মুখ সঁপে দেয়, সৎকাজ করে, আর ভুল থেকে সরে ইবরাহীম (আঃ)-এর পথ ধরে চলে? এখানে দ্বীন কোনো নামের তকমা নয়। এ হলো একটা দিক, একটা আমল, আর আগে থেকে চলে আসা একটা পথ। আয়াত শেষ হয় এমন কথায় যা কেউ নিজে দাবি করতে পারে না: আল্লাহ ইবরাহীমকে বন্ধুরূপে গ্রহণ করেছিলেন। সারা জীবনের আনুগত্যের পর তিনি তা পেয়েছিলেন। বাকি থাকে প্রশ্নটা: আমার দ্বীন কি মুখের কথা, নাকি হাতের কাজ?",
+    "pointsEn": [
+      "The verse asks who is better in religion. If someone measured my religion by what I did this week rather than by what I call myself, what would the answer be?",
+      "Submitting the face means the whole of me turned one way. Which part of me is still turned somewhere else?",
+      "Doing good is the second half of the verse, not an extra. Where have I been sincere but careless, or careful but not sincere?",
+      "Ibrahim (AS) was taken as a friend after a life of obedience. What am I hoping to be given that I am not working towards?",
+      "Is there anyone whose religion I judge by their label, when the verse measures it by submission and good?"
+    ],
+    "pointsBn": [
+      "আয়াত জিজ্ঞেস করে, দ্বীনে কে বেশি ভালো। আমি নিজেকে কী বলি তা দিয়ে নয়, এই সপ্তাহে কী করেছি তা দিয়ে মাপলে উত্তরটা কী দাঁড়ায়?",
+      "মুখ সঁপে দেওয়া মানে গোটা মানুষটা এক দিকে ফেরা। আমার কোন অংশটা এখনো অন্য দিকে ফেরানো?",
+      "সৎকাজ আয়াতের দ্বিতীয় অর্ধেক, বাড়তি কিছু নয়। কোথায় আমি নিয়তে খাঁটি ছিলাম কিন্তু আমলে অযত্নে, আর কোথায় আমলে যত্নবান কিন্তু নিয়তে নয়?",
+      "সারা জীবনের আনুগত্যের পর ইবরাহীম (আঃ) বন্ধুত্ব পেয়েছিলেন। আমি এমন কী পাওয়ার আশা করি, যার জন্য কোনো পরিশ্রম করছি না?",
+      "এমন কেউ কি আছে, যার দ্বীনকে আমি তার পরিচয়ের তকমা দিয়ে বিচার করি, অথচ আয়াত মাপে আত্মসমর্পণ আর সৎকাজ দিয়ে?"
+    ],
+    "lessonEn": "Religion is not a name you claim; it is a face turned to Allah, a good deed done, and a road already walked.",
+    "lessonBn": "দ্বীন দাবি করার মতো কোনো নাম নয়; এ হলো আল্লাহর দিকে ফেরানো মুখ, হাতে করা সৎকাজ, আর আগে থেকে চলে আসা পথ।"
+  },
+  "4:128": {
+    "reflectionEn": "A wife senses that her husband has grown hard toward her or has begun to turn away. The verse does not tell her to bear it in silence, and it does not tell him to walk out. It opens a third door. There is no sin upon the two of them if they make terms of settlement between themselves, and then it says plainly that settlement is better. In the same breath it names what makes settlement so hard: souls are brought up close to their own grasping, and neither side wants to give anything away. Then it turns to the one holding more power in the matter. If you do good and fear Allah, He is aware of what you do.",
+    "reflectionBn": "স্ত্রী টের পান, স্বামী তার প্রতি রূঢ় হয়ে উঠেছেন কিংবা মুখ ফিরিয়ে নিতে শুরু করেছেন। আয়াত তাকে চুপচাপ সহ্য করতে বলে না, স্বামীকেও ছেড়ে চলে যেতে বলে না। খুলে দেয় তৃতীয় এক দরজা। দুজন নিজেদের মধ্যে আপোষ করে নিলে তাতে কারও গুনাহ নেই, আর তারপর সোজা করেই বলে দেয়, আপোষ করাই উত্তম। একই নিঃশ্বাসে আয়াত জানিয়ে দেয় আপোষ কেন এত কঠিন: মানুষের নফসের গায়ে কৃপণতা লেগেই থাকে, কেউই নিজের দিকের কিছু ছাড়তে চায় না। এরপর আয়াত ফেরে সেই মানুষটির দিকে, এ ব্যাপারে ক্ষমতা যার বেশি। তোমরা যদি সৎকাজ করো আর তাকওয়া অবলম্বন করো, তবে তোমরা যা করো আল্লাহ তার খবর রাখেন।",
+    "pointsEn": [
+      "When something at home has gone cold, do I reach for a settlement both of us can live with, or do I wait for the other person to give in first?",
+      "The verse names grasping as the obstacle. What am I holding on to at home that I could let go of without losing anything that matters?",
+      "Have I ever let silence do the work that an honest conversation should have done?",
+      "The verse ends with doing good and fearing Allah. Who in my house would notice if I started doing both this week?",
+      "Is there someone whose patience I have been quietly relying on instead of changing what I do?"
+    ],
+    "pointsBn": [
+      "ঘরে কিছু একটা ঠান্ডা হয়ে গেলে আমি কি এমন আপোষের দিকে হাত বাড়াই যা দুজনেই মেনে চলতে পারি, নাকি অপেক্ষা করি কখন অন্যজন আগে নরম হয়?",
+      "আয়াত বাধা হিসেবে চিহ্নিত করে কৃপণতাকে। ঘরে এমন কী আঁকড়ে আছি, যা ছেড়ে দিলে সত্যিকারের কিছুই হারাব না?",
+      "সৎ একটা কথা বলে যে সমস্যার সমাধান হতে পারত, আমি কি কখনো সেই কাজটা চুপ থাকাকে দিয়ে করাতে চেয়েছি?",
+      "আয়াত শেষ হয় সৎকাজ আর তাকওয়ার কথা দিয়ে। এই সপ্তাহে দুটোই শুরু করলে ঘরের কে সেটা টের পাবে?",
+      "এমন কেউ কি আছে, যার ধৈর্যের ওপর আমি চুপচাপ ভরসা করে যাচ্ছি, অথচ নিজের আচরণ বদলাচ্ছি না?"
+    ],
+    "lessonEn": "When a marriage cools, an agreed settlement is better than parting, and what usually blocks it is the soul's own grasping.",
+    "lessonBn": "বিয়ের সম্পর্কে টান কমে গেলে ভেঙে যাওয়ার চেয়ে দুজনের মানা আপোষই ভালো, আর পথ আটকায় সাধারণত নফসের কৃপণতাই।"
+  },
+  "4:148": {
+    "reflectionEn": "Allah does not like evil to be said out loud. Then the verse makes one exception, and it is narrow: it belongs to the person who has been wronged. Not to the one who is merely angry, not to the one with the better story, but to the one against whom a wrong was actually done. Even there the permission is hemmed in, because the very next verse shows the better road: you may show a good deed, or hide it, or pardon an evil, and Allah pardons while being fully able to punish. This verse closes by naming Him Hearing and Knowing. He hears what is said aloud, and He already knows the case behind it.",
+    "reflectionBn": "খারাপ কথা মুখে এনে জোরে বলা আল্লাহ পছন্দ করেন না। এরপর আয়াত একটাই ব্যতিক্রম রাখে, আর সেটা খুব সরু: ব্যতিক্রমটা তারই, যার ওপর অন্যায় করা হয়েছে। যে কেবল রেগে আছে তার নয়, যার গল্পটা শুনতে ভালো তারও নয়, বরং যার সঙ্গে সত্যিই অন্যায় হয়েছে তার। সেখানেও অনুমতির চারপাশে বেড়া আছে, কারণ ঠিক পরের আয়াতই ভালো পথটা দেখিয়ে দেয়: তোমরা ভালো কাজ প্রকাশ্যে করতে পারো, গোপনেও করতে পারো, কিংবা মন্দকে ক্ষমা করে দিতে পারো, আর আল্লাহ শাস্তি দেওয়ার পূর্ণ ক্ষমতা রেখেও মাফ করেন। এই আয়াত শেষ হয় তাঁকে সর্বশ্রোতা ও সর্বজ্ঞ বলে। যা জোরে বলা হয় তিনি শোনেন, আর তার পেছনের ঘটনাটা তিনি আগেই জানেন।",
+    "pointsEn": [
+      "The last time I told someone about a wrong done to me, was I trying to get a right back, or only to be sided with?",
+      "Am I sure I was the one wronged in that story, or was I the one who started it?",
+      "The next verse offers pardon as the better road. Which grievance of mine could I close this week without anyone else ever knowing?",
+      "When I repeat what someone did, do I say only what happened, or do I add the part that makes it sound worse?",
+      "Allah hears what is said aloud and knows what is hidden. Would I say this sentence the same way if the person were standing there?"
+    ],
+    "pointsBn": [
+      "শেষবার যখন নিজের ওপর হওয়া অন্যায়ের কথা কাউকে বলেছি, তখন কি হক ফিরে পেতে চাইছিলাম, নাকি শুধু চাইছিলাম কেউ আমার পক্ষ নিক?",
+      "সেই ঘটনায় আমিই যে মজলুম ছিলাম, এ ব্যাপারে আমি কি নিশ্চিত, নাকি শুরুটা আমিই করেছিলাম?",
+      "পরের আয়াত ক্ষমাকেই ভালো পথ বলে। আমার কোন অভিযোগটা এই সপ্তাহে আমি চুপচাপ শেষ করে দিতে পারি, যা আর কেউ জানবেও না?",
+      "কারও কাজের কথা বলার সময় আমি কি শুধু যা ঘটেছে তাই বলি, নাকি এমন অংশ জুড়ে দিই যা শুনতে আরও খারাপ লাগে?",
+      "যা জোরে বলা হয় আল্লাহ তা শোনেন, যা লুকানো থাকে তাও জানেন। মানুষটা সামনে দাঁড়িয়ে থাকলেও কি আমি কথাটা ঠিক এভাবেই বলতাম?"
+    ],
+    "lessonEn": "The one who was wronged may say the wrong aloud; everyone else is asked to keep it down, and pardon remains the better road.",
+    "lessonBn": "যার ওপর অন্যায় হয়েছে সে অন্যায়টা মুখে বলতে পারে; বাকি সবাইকে বলা হয়েছে চুপ থাকতে, আর ক্ষমা করাই থেকে যায় ভালো পথ।"
+  },
+  "4:157-159": {
+    "reflectionEn": "The passage reaches a boast: that they killed the Messiah, Isa son of Maryam, the messenger of Allah. The Quran answers in four steps. They did not kill him. They did not crucify him. It was made to appear so to them. And those who differ about it are in doubt, following assumption and not knowledge. The next verse says what did happen: Allah raised him to Himself. The one after says that every one of the People of the Scripture will believe in him before his death, and that on the Day of Resurrection he will stand as a witness. Notice that the denial never lowers him. He is called Messiah, son of Maryam, messenger of Allah, in the same sentence that refuses the boast.",
+    "reflectionBn": "অংশটি এসে দাঁড়ায় এক দম্ভোক্তির সামনে: আমরা আল্লাহর রাসূল মাসীহ ঈসা ইবনে মারইয়ামকে হত্যা করেছি। কুরআন জবাব দেয় চার ধাপে। তারা তাঁকে হত্যা করেনি। তারা তাঁকে ক্রুশবিদ্ধ করেনি। তাদের কাছে বিষয়টা সেরকম দেখানো হয়েছিল। আর যারা এ নিয়ে মতভেদ করে তারা সন্দেহের মধ্যে আছে, জ্ঞান নয়, অনুমানের পিছু নিচ্ছে। পরের আয়াত বলে দেয় আসলে কী হয়েছিল: আল্লাহ তাঁকে নিজের কাছে উঠিয়ে নিয়েছেন। তার পরের আয়াত বলে, আহলে কিতাবের প্রত্যেকেই তার মৃত্যুর আগে তাঁর প্রতি ঈমান আনবে, আর কিয়ামতের দিন তিনি সাক্ষী হয়ে দাঁড়াবেন। খেয়াল করার মতো ব্যাপার হলো, এই অস্বীকার তাঁকে কোথাও ছোট করে না। যে বাক্যে দাবিটা প্রত্যাখ্যাত হচ্ছে, সেই বাক্যেই তাঁকে বলা হচ্ছে মাসীহ, মারইয়ামের পুত্র, আল্লাহর রাসূল।",
+    "pointsEn": [
+      "The verse separates knowledge from assumption. What do I hold firmly today that I have never actually checked?",
+      "Allah denied the boast and kept every title of honour in place. When I disagree with someone, does my speech still leave them their dignity?",
+      "If I were asked to state a Christian's belief about Isa (AS) in a way they would recognise, could I do it?",
+      "Isa (AS) was rescued in a way nobody watching could see. Where am I judging a situation by what it looks like from outside?",
+      "The verse says he will be a witness on the Day of Resurrection. What would I want him to have seen of how I spoke about him?"
+    ],
+    "pointsBn": [
+      "আয়াত জ্ঞান আর অনুমানকে আলাদা করে দেয়। আজ আমি এমন কী শক্ত করে ধরে আছি, যা কখনো যাচাই করে দেখিনি?",
+      "আল্লাহ দাবিটা প্রত্যাখ্যান করেছেন, অথচ সম্মানের প্রতিটি উপাধি ঠিক জায়গায় রেখে দিয়েছেন। কারও সঙ্গে দ্বিমত করার সময় আমার কথা কি তার সম্মানটুকু রেখে দেয়?",
+      "ঈসা (আঃ)-কে নিয়ে একজন খ্রিষ্টানের বিশ্বাস এমনভাবে বলতে বললে, যা শুনে তিনি নিজে বলবেন হ্যাঁ ঠিক বলেছেন, আমি কি তা পারব?",
+      "ঈসা (আঃ)-কে এমনভাবে রক্ষা করা হয়েছিল যা তাকিয়ে থাকা কেউ দেখতে পায়নি। কোন অবস্থাটাকে আমি বাইরে থেকে যেমন দেখায় তা দিয়েই বিচার করছি?",
+      "আয়াত বলে, কিয়ামতের দিন তিনি সাক্ষী হবেন। তাঁকে নিয়ে আমার কথাবার্তার কোন রূপটা তিনি দেখেছেন বলে আমি চাইব?"
+    ],
+    "lessonEn": "Isa (AS) was neither killed nor crucified; Allah raised him, and the Quran refuses the boast without ever lowering the one it was made about.",
+    "lessonBn": "ঈসা (আঃ)-কে হত্যাও করা হয়নি, ক্রুশবিদ্ধও করা হয়নি; আল্লাহ তাঁকে উঠিয়ে নিয়েছেন, আর কুরআন দাবিটা প্রত্যাখ্যান করে ঠিকই, কিন্তু যাঁকে নিয়ে দাবি, তাঁকে একটুও ছোট করে না।"
   }
 };
 
