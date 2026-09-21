@@ -3522,5 +3522,429 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "4:163": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Demand Answered with a Line",
+          "bn": "দাবির জবাবে একটি ধারা"
+        },
+        "p": [
+          {
+            "en": "Surah an-Nisa is Madinan, and its long closing movement turns to the People of the Scripture. In 4:153 they ask the Prophet ﷺ to bring a book down to them from the sky, and the Quran reminds them that their ancestors asked Musa (AS) for something greater, to see Allah openly. From 4:155 a list of charges follows: the covenant broken, prophets killed, the claim about the Messiah, usury taken. Then 4:162 makes an exception for those firm in knowledge among them, who believe in what was sent to the Prophet ﷺ and what was sent before him. It is at this point that 4:163 begins.",
+            "bn": "সূরা নিসা মাদানী সূরা, আর তার দীর্ঘ শেষ অংশ আহলে কিতাবের দিকে মুখ ফেরায়। ৪:১৫৩ আয়াতে তারা নবী ﷺ-এর কাছে দাবি করে, আসমান থেকে তাদের সামনে একটা কিতাব নামিয়ে আনো। কুরআন মনে করিয়ে দেয়, তাদের পূর্বপুরুষেরা মূসা (আঃ)-এর কাছে এর চেয়েও বড় দাবি করেছিল, আল্লাহকে প্রকাশ্যে দেখতে চেয়েছিল। ৪:১৫৫ থেকে অভিযোগের তালিকা: অঙ্গীকার ভঙ্গ, নবী হত্যা, মাসীহ নিয়ে দাবি, সুদ খাওয়া। তারপর ৪:১৬২ আয়াত ব্যতিক্রম রাখে তাদের জন্য যারা জ্ঞানে পরিপক্ব, যারা নবী ﷺ-এর ওপর নাযিল হওয়া কিতাবে ও আগের কিতাবে ঈমান রাখে। ঠিক এখান থেকেই ৪:১৬৩ শুরু হয়।"
+          },
+          {
+            "en": "The verse does not answer the demand for a spectacle with a spectacle. It answers with a line of names. We have revealed to you as We revealed to Nuh and the prophets after him, and then Ibrahim, Isma'il, Ishaq, Ya'qub and the Descendants, Isa, Ayyub, Yunus, Harun and Sulayman, and to Dawud We gave the Zabur. The next verse, 4:164, adds messengers whose stories were told to the Prophet ﷺ and messengers whose stories were not, and states that Allah spoke to Musa (AS) directly. The reply to those asking for a new kind of proof is that nothing new is happening.",
+            "bn": "তামাশার দাবির জবাবে আয়াত তামাশা দেখায় না। জবাব দেয় নামের একটা ধারা দিয়ে। আমি তোমার কাছে ওয়াহী পাঠিয়েছি যেমন পাঠিয়েছিলাম নূহ ও তাঁর পরের নবীদের কাছে, তারপর ইবরাহীম, ইসমাঈল, ইসহাক, ইয়াকুব ও তাঁর বংশধর, ঈসা, আইয়ূব, ইউনুস, হারূন ও সুলায়মানের কাছে, আর দাঊদকে দিয়েছি যাবূর। পরের আয়াত ৪:১৬৪ যোগ করে সেই রসূলদের কথা যাঁদের কাহিনি নবী ﷺ-কে বলা হয়েছে, আর যাঁদের কথা বলা হয়নি, আর জানায় যে আল্লাহ মূসা (আঃ)-এর সাথে সরাসরি কথা বলেছেন। যারা নতুন ধরনের প্রমাণ চাইছিল, তাদের জবাব: নতুন কিছু ঘটছে না।"
+          },
+          {
+            "en": "Ibn Kathir carries, through Ibn Ishaq, a report from Ibn Abbas (RA) that two men of the Jews of Madinah, Sukayn and Adi ibn Zayd, said to the Prophet ﷺ that they did not know of Allah sending anything down to any human being after Musa, and that this verse came down in reply. That is a sirah report, not a hadith of the Sahih, and the verse does not depend on it. Whatever prompted it, its placement is clear: it stands between the charges against those who broke faith and the declaration in 4:166 that Allah Himself bears witness to what He sent down.",
+            "bn": "ইবনে কাসীর ইবনে ইসহাকের সূত্রে ইবনে আব্বাস (রাঃ) থেকে একটি বর্ণনা এনেছেন: মদীনার ইহুদিদের দুই ব্যক্তি, সুকাইন ও আদী ইবনে যায়েদ, নবী ﷺ-কে বলেছিল যে মূসার পরে আল্লাহ কোনো মানুষের ওপর কিছু নাযিল করেছেন বলে তারা জানে না, আর এই আয়াত তার জবাবে নাযিল হয়। এটি সীরাতের বর্ণনা, সহীহ হাদিস নয়, আর আয়াতটি এর ওপর নির্ভর করে না। যে কারণেই আসুক, আয়াতের অবস্থান পরিষ্কার: এক দিকে যারা ওয়াদা ভেঙেছে তাদের বিরুদ্ধে অভিযোগ, অন্য দিকে ৪:১৬৬ আয়াতের ঘোষণা যে আল্লাহ নিজেই সাক্ষী দিচ্ছেন যা তিনি নাযিল করেছেন তার ওপর। মাঝখানে বসে আছে এই আয়াত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wahy, and a Book Given",
+          "bn": "ওয়াহী, আর একটি কিতাব দান"
+        },
+        "p": [
+          {
+            "en": "The verb is awhayna, from the root w-h-y. Ar-Raghib in al-Mufradat explains wahy as a swift and hidden pointing: communication that reaches its target quickly and privately. The Quran uses the root for Allah's inspiring of the bee in 16:68, for the private signal Zakariya (AS) made to his people, and for the revelation sent to prophets. In every case the knowledge arrives from outside the recipient, without noise, by a channel others cannot see. The People of the Scripture wanted something loud from the sky. The verse names the quiet way Allah has always spoken to those He chose.",
+            "bn": "ক্রিয়াপদটি আওহাইনা, মূল ওয়া-হা-ইয়া। রাগিব আল-মুফরাদাতে ওয়াহীর ব্যাখ্যা দিয়েছেন দ্রুত ও গোপন ইশারা বলে: এমন বার্তা যা দ্রুত ও নিভৃতে লক্ষ্যে পৌঁছে যায়। কুরআন এই মূল ব্যবহার করেছে ১৬:৬৮ আয়াতে মৌমাছির প্রতি আল্লাহর ইলহামে, যাকারিয়া (আঃ)-এর নিজের লোকদের প্রতি নীরব ইশারায়, আর নবীদের কাছে পাঠানো ওয়াহীতে। প্রতিটি ক্ষেত্রে শব্দটি একটা জিনিস বহন করে: জ্ঞান আসে প্রাপকের বাইরে থেকে, কোনো শব্দ ছাড়া, এমন পথে যা অন্যরা দেখতে পায় না। আহলে কিতাব আসমান থেকে সরব কিছু চেয়েছিল। আয়াত সেই নীরব পথের নাম বলে, যে পথে আল্লাহ তাঁর মনোনীতদের সাথে বরাবর কথা বলেছেন।"
+          },
+          {
+            "en": "Then the verb changes. Every name in the list falls under awhayna ila, We revealed to; for Dawud (AS) it says wa atayna, and We gave, and names the gift: az-Zabur. The root z-b-r has to do with writing, and a zabur is a written thing, a book. The lexicons connect it to firm, engraved writing. The shift from revealing to giving marks the Zabur out as a complete book handed over, and 17:55 repeats the phrase in the same words. Dawud (AS) received not only speech from Allah but a volume to carry.",
+            "bn": "তারপর ক্রিয়াপদ বদলে যায়। তালিকার প্রতিটি নাম পড়ে আওহাইনা ইলার নিচে, আমি ওয়াহী পাঠিয়েছি; দাঊদ (আঃ)-এর বেলায় বলে ওয়া আতাইনা, আর আমি দিয়েছি, আর দানটির নাম নেয়: আয-যাবূর। মূল যা-বা-রা লেখার সাথে জড়িত, আর যাবূর মানে লিখিত বস্তু, একটি কিতাব। অভিধানগুলো একে যুক্ত করে দৃঢ়, খোদাই করা লেখার সাথে। ওয়াহী পাঠানো থেকে দেওয়ায় এই সরে যাওয়া যাবূরকে আলাদা করে চেনায়, হাতে তুলে দেওয়া একটি পূর্ণ কিতাব হিসেবে, আর ১৭:৫৫ আয়াত একই শব্দে কথাটা আবার বলে। দাঊদ (আঃ) আল্লাহর কাছ থেকে শুধু বাণী নয়, বহন করার মতো একটি গ্রন্থ পেয়েছিলেন।"
+          },
+          {
+            "en": "The order of the names is worth noticing because it is not chronological. Isa (AS) is named before Ayyub, Yunus, Harun and Sulayman (AS), though he came long after them. The grammarians' rule that the Arabic waw joins without imposing sequence applies here, and the commentators do not try to read a timeline into the list. What the list does instead is gather: patriarchs and their descendants, a man tested by illness, a man swallowed by the fish, a brother sent as helper, a king. Revelation, the verse says, went to all of these, and it went to you.",
+            "bn": "নামগুলোর ক্রম লক্ষ করার মতো, কারণ তা কালানুক্রমিক নয়। ঈসা (আঃ)-এর নাম এসেছে আইয়ূব, ইউনুস, হারূন ও সুলায়মান (আঃ)-এর আগে, অথচ তিনি এসেছেন তাঁদের অনেক পরে। ব্যাকরণবিদদের নিয়ম, আরবি ‘ওয়াও’ জোড়া দেয় কিন্তু ক্রম চাপিয়ে দেয় না, এখানে খাটে; মুফাসসিররাও তালিকায় কোনো সময়রেখা খোঁজেন না। তালিকা বরং একত্র করে: পিতৃপুরুষ ও তাঁদের বংশধর, রোগে পরীক্ষিত একজন, মাছে গিলে ফেলা একজন, সাহায্যকারী হিসেবে পাঠানো এক ভাই, এক বাদশাহ। আয়াত বলে, ওয়াহী গেছে এঁদের সবার কাছে, আর গেছে তোমার কাছেও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Commentators Saw",
+          "bn": "মুফাসসিররা যা দেখেছেন"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the verse as a direct statement that Allah sent revelation to His servant Muhammad ﷺ exactly as He sent it to the prophets before him. At 4:164 he stops to list the prophets the Quran names by name, from Adam to Isa (AS) and their leader Muhammad ﷺ, and notes that several scholars of tafsir count Dhul-Kifl among them as well. The messengers not related to the Prophet ﷺ are, in his reading, the many others whose accounts the Quran does not give. The list is true history, and complete only in what Allah chose to tell.",
+            "bn": "ইবনে কাসীর আয়াতটিকে পড়েন সরাসরি বিবৃতি হিসেবে: আল্লাহ তাঁর বান্দা মুহাম্মাদ ﷺ-এর কাছে ওয়াহী পাঠিয়েছেন ঠিক যেমন পাঠিয়েছিলেন তাঁর আগের নবীদের কাছে। ৪:১৬৪ আয়াতে এসে তিনি থামেন এবং কুরআন যে নবীদের নাম ধরে উল্লেখ করেছে তাঁদের তালিকা দেন, আদম থেকে ঈসা (আঃ) পর্যন্ত, আর তাঁদের নেতা মুহাম্মাদ ﷺ; সাথে জানান, তাফসিরের কয়েকজন আলেম যুলকিফলকেও এঁদের মধ্যে গণনা করেন। যে রসূলদের কথা নবী ﷺ-কে বলা হয়নি তাঁরা, তাঁর পাঠে, সেই বহুজন যাঁদের বিবরণ কুরআন দেয়নি। তালিকা সত্য ইতিহাস, আর পূর্ণ কেবল ততটুকু, যতটুকু আল্লাহ বলতে চেয়েছেন।"
+          },
+          {
+            "en": "As-Sa'di draws the argument out. If revelation to Nuh, Ibrahim, Musa and Isa (AS) is admitted, and this revelation is of the same kind and by the same Sender, then rejecting it is not a reasoned position but a preference. To accept some messengers and refuse the one in front of you is the very thing 4:150 condemned earlier in this same surah: believing in some and disbelieving in others, wanting a path in between. The commentators are agreed that the verse binds the Prophet ﷺ to the earlier prophets so tightly that faith in them cannot be separated from faith in him.",
+            "bn": "আস-সা'দী যুক্তিটা টেনে বের করেন। নূহ, ইবরাহীম, মূসা ও ঈসা (আঃ)-এর কাছে ওয়াহী আসা যদি মেনে নেওয়া হয়, আর এই ওয়াহী যদি একই ধরনের ও একই প্রেরকের হয়, তাহলে একে অস্বীকার করা কোনো যুক্তির অবস্থান নয়, নিছক পছন্দ। কিছু রসূলকে মানা আর সামনের জনকে না মানা ঠিক সেই কাজ, যা একই সূরায় ৪:১৫০ নিন্দা করেছে: কতককে মানি, কতককে মানি না, মাঝামাঝি একটা রাস্তা চাই। মুফাসসিররা একমত, আয়াতটি নবী ﷺ-কে আগের নবীদের সাথে এত শক্ত করে বাঁধে যে তাঁদের ওপর ঈমানকে তাঁর ওপর ঈমান থেকে আলাদা করা যায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brothers with One Religion",
+          "bn": "এক দ্বীনের ভাইয়েরা"
+        },
+        "p": [
+          {
+            "en": "Sahih al-Bukhari records from Abu Hurayrah (RA) that the Prophet ﷺ said: I am the closest of people to Isa son of Maryam in this world and the Hereafter; the prophets are brothers from one father, their mothers are different and their religion is one (al-Bukhari 3442). The image is exact. Brothers from one father with different mothers share a name and a lineage but not a household; the prophets share one religion, the worship of Allah alone, while their laws and their times differ. The hadith says in a sentence what the verse says in a list.",
+            "bn": "সহীহ বুখারীতে আবু হুরায়রা (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: দুনিয়া ও আখিরাতে আমি ঈসা ইবনু মারইয়ামের সবচেয়ে কাছের মানুষ; নবীরা এক পিতার সন্তান, তাঁদের মা আলাদা, আর তাঁদের দ্বীন এক (বুখারী ৩৪৪২)। উপমাটি নিখুঁত। এক পিতার সন্তান, মা আলাদা, এমন ভাইদের নাম ও বংশ এক, কিন্তু ঘর এক নয়; নবীদের দ্বীন এক, কেবল আল্লাহর ইবাদত, আর তাঁদের শরিয়ত ও সময় আলাদা। আয়াত যা বলে তালিকা দিয়ে, হাদিস তা বলে এক বাক্যে।"
+          },
+          {
+            "en": "The choice of Isa (AS) in that hadith is not accidental, because the verse names him too, and because between him and the Prophet ﷺ there was no other prophet. The closeness is stated as a fact of the chain, not a sentiment. When the Prophet ﷺ described his relationship to the earlier prophets he used family words, brothers and a father, never the words of rivalry. That is the tone the verse asks its readers to take toward every name on its list.",
+            "bn": "ওই হাদিসে ঈসা (আঃ)-কে বেছে নেওয়া আকস্মিক নয়, কারণ আয়াতেও তাঁর নাম আছে, আর কারণ তাঁর ও নবী ﷺ-এর মাঝে আর কোনো নবী আসেননি। এই নৈকট্য ধারার একটি বাস্তবতা হিসেবে বলা, কোনো আবেগ হিসেবে নয়। আগের নবীদের সাথে নিজের সম্পর্ক বোঝাতে নবী ﷺ পরিবারের শব্দ ব্যবহার করেছেন, ভাই আর পিতা, প্রতিদ্বন্দ্বিতার শব্দ কখনো নয়। আয়াতের তালিকার প্রতিটি নামের প্রতি পাঠকের কাছে ঠিক এই সুরই চাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Line, Many Verses",
+          "bn": "এক ধারা, বহু আয়াত"
+        },
+        "p": [
+          {
+            "en": "42:13 says that Allah ordained for the believers of religion what He enjoined on Nuh, what He revealed to the Prophet ﷺ, and what He enjoined on Ibrahim, Musa and Isa (AS): to establish the religion and not be divided in it. That verse gives the content of the shared revelation; 4:163 gives its recipients. 42:51 explains the mechanism: Allah speaks to no human being except by wahy, from behind a partition, or by sending a messenger who reveals by His permission. Read together, these two verses say who received it and how.",
+            "bn": "৪২:১৩ আয়াত বলে, আল্লাহ মুমিনদের জন্য দ্বীনের সেই বিধানই দিয়েছেন যার হুকুম দিয়েছিলেন নূহকে, যা ওয়াহী করেছেন নবী ﷺ-কে, আর যার হুকুম দিয়েছিলেন ইবরাহীম, মূসা ও ঈসা (আঃ)-কে: দ্বীন প্রতিষ্ঠা করো, তাতে বিভক্তি এনো না। ওই আয়াত দেয় ভাগ করা ওয়াহীর বিষয়বস্তু; ৪:১৬৩ দেয় তার প্রাপকদের। ৪২:৫১ পদ্ধতিটা বোঝায়: কোনো মানুষের সাথে আল্লাহ কথা বলেন না ওয়াহী, পর্দার আড়াল, বা তাঁর অনুমতিতে ওয়াহী পৌঁছানো কোনো দূত ছাড়া। দুটো আয়াত মিলিয়ে পড়লে জানা যায় কে পেয়েছেন, আর কীভাবে।"
+          },
+          {
+            "en": "3:84 puts the list into the mouth of the believers as a creed: we believe in what was revealed to us and to Ibrahim, Isma'il, Ishaq, Ya'qub and the Descendants, and what was given to Musa and Isa and the prophets from their Lord; we make no distinction between any of them. The same names, the same refusal to pick and choose. 6:91 answers the claim that Allah revealed nothing to a human being with a question: who then sent down the book Musa brought as light and guidance? And 4:152 promises reward to those who believe in Allah and His messengers and do not discriminate between any of them.",
+            "bn": "৩:৮৪ আয়াত তালিকাটিকে মুমিনদের মুখে আকিদা করে বসায়: আমরা ঈমান এনেছি যা আমাদের প্রতি ও ইবরাহীম, ইসমাঈল, ইসহাক, ইয়াকুব ও তাঁর বংশধরের প্রতি নাযিল হয়েছে তার ওপর, আর যা মূসা, ঈসা ও অন্য নবীদের তাঁদের রবের পক্ষ থেকে দেওয়া হয়েছে তার ওপর; আমরা তাঁদের কারো মধ্যে পার্থক্য করি না। একই নাম, বেছে নেওয়ার একই অস্বীকৃতি। ৬:৯১ আয়াত ‘আল্লাহ কোনো মানুষের কাছে কিছু নাযিল করেননি’ এই দাবির জবাব দেয় প্রশ্ন দিয়ে: তাহলে মূসা যে কিতাব এনেছিলেন, মানুষের জন্য আলো ও পথনির্দেশ, তা কে নাযিল করেছিল? আর ৪:১৫২ ওয়াদা করে পুরস্কারের, তাদের জন্য যারা আল্লাহ ও তাঁর রসূলদের ওপর ঈমান আনে আর তাঁদের কারো মধ্যে পার্থক্য করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading the Prophets as Family",
+          "bn": "নবীদের পরিবার হিসেবে পড়া"
+        },
+        "p": [
+          {
+            "en": "The first change is in how a believer reads the stories of the prophets. They are not other people's scriptures, borrowed for illustration. Nuh building in the open, Ibrahim leaving his father's house, Ayyub keeping faith through illness, Yunus praying in the dark of the sea: the verse says the same Sender spoke to each of them who spoke to the Prophet ﷺ, so their stories are the family history of every Muslim. A person who reads Surah Yusuf or Surah Maryam as his own lineage reads it differently from one who reads it as a curiosity.",
+            "bn": "প্রথম বদল আসে নবীদের কাহিনি পড়ার ধরনে। সেগুলো অন্যের কিতাব নয়, উদাহরণের জন্য ধার করা নয়। নূহ খোলা মাঠে নৌকা বানাচ্ছেন, ইবরাহীম পিতার ঘর ছাড়ছেন, আইয়ূব রোগের ভেতর ঈমান আঁকড়ে আছেন, ইউনুস সমুদ্রের অন্ধকারে দোয়া করছেন: আয়াত বলে, যিনি নবী ﷺ-এর সাথে কথা বলেছেন সেই একই প্রেরক এঁদের প্রত্যেকের সাথে কথা বলেছেন, তাই এঁদের কাহিনি প্রতিটি মুসলমানের পারিবারিক ইতিহাস। সূরা ইউসুফ বা সূরা মারইয়ামকে যে নিজের বংশধারা হিসেবে পড়ে, সে কৌতূহল নিয়ে পড়া মানুষের চেয়ে অন্যভাবে পড়ে।"
+          },
+          {
+            "en": "The second change is in conversation with Jews and Christians. The verse begins from what is shared, and so can a believer: Ibrahim, Musa, Dawud, Isa (AS) are common ground the Quran itself lays out before it says anything else. A Muslim who opens with that list is doing what 4:163 does. The third change concerns the demand for signs. The people in 4:153 wanted a book from the sky; the verse offered them the pattern already in front of them. When a believer finds himself waiting for a special sign before he will obey, this verse asks whether the sign has not already been given many times over.",
+            "bn": "দ্বিতীয় বদল ইহুদি ও খ্রিস্টানদের সাথে কথাবার্তায়। আয়াত শুরু করে যা মিল আছে তা দিয়ে, মুমিনও তা পারে: ইবরাহীম, মূসা, দাঊদ, ঈসা (আঃ) এমন সাধারণ জমি যা কুরআন নিজেই অন্য কিছু বলার আগে বিছিয়ে দেয়। যে মুসলমান ওই তালিকা দিয়ে কথা শুরু করে, সে ৪:১৬৩ যা করে তা-ই করছে। তৃতীয় বদল নিদর্শনের দাবি নিয়ে। ৪:১৫৩ আয়াতের লোকেরা আসমান থেকে কিতাব চেয়েছিল; আয়াত তাদের সামনে ধরল সেই ধারা যা আগে থেকেই তাদের চোখের সামনে ছিল। কোনো মুমিন যখন দেখে, আনুগত্যের আগে সে একটা বিশেষ নিদর্শনের অপেক্ষায় আছে, এই আয়াত তাকে জিজ্ঞেস করে, নিদর্শন কি বহুবার দেওয়া হয়ে যায়নি?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Distinction Between Any",
+          "bn": "কারো মধ্যে পার্থক্য নেই"
+        },
+        "p": [
+          {
+            "en": "The Quran itself supplies the supplication that fits this verse, at the end of Surah al-Baqarah. In 2:285 the Messenger ﷺ and the believers declare faith in Allah, His angels, His books and His messengers, saying: we make no distinction between any of His messengers. And they say: we hear and we obey; Your forgiveness, our Lord, and to You is the final destination. A believer who has just read the list of names in 4:163 can close it with these words, which affirm the whole line at once and then ask forgiveness, because to hear so many messengers and still fall short is a thing that needs forgiving.",
+            "bn": "এই আয়াতের সাথে মানানসই দোয়া কুরআন নিজেই দিয়েছে, সূরা বাকারার শেষে। ২:২৮৫ আয়াতে রসূল ﷺ ও মুমিনরা আল্লাহ, তাঁর ফেরেশতা, তাঁর কিতাব ও তাঁর রসূলদের ওপর ঈমানের ঘোষণা দেন, বলেন: আমরা তাঁর রসূলদের কারো মধ্যে পার্থক্য করি না। আর বলেন: আমরা শুনলাম ও মানলাম; হে আমাদের রব, তোমার মাগফিরাত চাই, আর ফিরে যাওয়া তোমারই কাছে। ৪:১৬৩ আয়াতের নামের তালিকা পড়ে উঠে একজন মুমিন এই কথাগুলো দিয়ে শেষ করতে পারে। এতে একসাথে পুরো ধারাকে মেনে নেওয়া হয়, তারপর মাফ চাওয়া হয়, কারণ এত রসূলের কথা শুনেও পিছিয়ে থাকা এমন জিনিস, যার মাফ দরকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ours or Theirs",
+          "bn": "আমাদের, নাকি তাদের"
+        },
+        "p": [
+          {
+            "en": "When I hear a prophet's name that is not Muhammad ﷺ, does something in me say ours, or does it say theirs? The verse leaves no room for the second answer. Which of the names in the list do I know least about, and what would it take to read that prophet's story in the Quran this week? The verse names Ayyub and Yunus (AS) between kings and patriarchs: when my own trial feels like it disqualifies me, do I remember that revelation went to a man on a sickbed and to a man inside a fish?",
+            "bn": "মুহাম্মাদ ﷺ ছাড়া অন্য কোনো নবীর নাম শুনলে আমার ভেতরে কি ‘আমাদের’ বলে ওঠে, নাকি ‘তাদের’? আয়াত দ্বিতীয় জবাবের কোনো জায়গা রাখেনি। তালিকার কোন নামটি সম্পর্কে আমি সবচেয়ে কম জানি, আর এই সপ্তাহে কুরআনে সেই নবীর কাহিনি পড়তে আমার কী লাগবে? আয়াত বাদশাহ ও পিতৃপুরুষদের মাঝে আইয়ূব ও ইউনুস (আঃ)-এর নাম রাখে: নিজের পরীক্ষা যখন মনে হয় আমাকে অযোগ্য করে দিয়েছে, তখন কি মনে রাখি যে ওয়াহী গিয়েছিল রোগশয্যার এক মানুষের কাছে আর মাছের পেটের এক মানুষের কাছে?"
+          },
+          {
+            "en": "Dawud (AS) was given a book, and the Zabur is remembered as a book of praise. If someone wrote down everything I said to Allah in a day, how much of it would be praise and how much of it would be asking? And the demand of 4:153, a book from the sky, has a quieter form in every believer's life: what am I waiting for from Allah before I will act on what He has already sent?",
+            "bn": "দাঊদ (আঃ)-কে একটি কিতাব দেওয়া হয়েছিল, আর যাবূরকে মনে রাখা হয় প্রশংসার কিতাব হিসেবে। দিনে আমি আল্লাহকে যা বলি, কেউ যদি তা লিখে রাখত, তার কতটা হতো প্রশংসা আর কতটা চাওয়া? আর ৪:১৫৩ আয়াতের দাবি, আসমান থেকে কিতাব, প্রতিটি মুমিনের জীবনে একটা চাপা রূপ নিয়ে থাকে: আল্লাহ যা আগেই পাঠিয়েছেন তার ওপর আমল করার আগে আমি তাঁর কাছ থেকে আর কীসের অপেক্ষায় আছি?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word to Teachers",
+          "bn": "শিক্ষকদের জন্য এক কথা"
+        },
+        "p": [
+          {
+            "en": "This verse teaches well because it is a list, and children love lists. Write the names on a board in the verse's own order, then ask the class to put them in the order of time; the difference is itself the lesson, that the verse is gathering a family and not drawing a timeline. Ask which prophet was a king, which was ill, which was swallowed by the fish, and let the answers show that revelation did not choose only the comfortable. Then read 2:285 together, and let the last line, we make no distinction between any of His messengers, be the sentence the class takes home.",
+            "bn": "এই আয়াত পড়াতে সুবিধা, কারণ এটি একটি তালিকা, আর ছোটরা তালিকা ভালোবাসে। বোর্ডে নামগুলো আয়াতের নিজের ক্রমে লিখুন, তারপর ক্লাসকে বলুন সময়ের ক্রমে সাজাতে; দুই ক্রমের ফারাকটাই শিক্ষা, যে আয়াত একটি পরিবারকে জড়ো করছে, সময়রেখা আঁকছে না। জিজ্ঞেস করুন কোন নবী বাদশাহ ছিলেন, কে অসুস্থ ছিলেন, কাকে মাছ গিলে ফেলেছিল, আর উত্তরগুলো দেখিয়ে দিক যে ওয়াহী কেবল আরামে থাকা মানুষকে বেছে নেয়নি। তারপর একসাথে ২:২৮৫ পড়ুন, আর শেষ লাইনটি, আমরা তাঁর রসূলদের কারো মধ্যে পার্থক্য করি না, ক্লাস বাড়ি নিয়ে যাক।"
+          }
+        ]
+      }
+    ]
+  },
+  "4:165": {
+    "sections": [
+      {
+        "h": {
+          "en": "Why Messengers at All",
+          "bn": "রসূল কেন পাঠানো হলো"
+        },
+        "p": [
+          {
+            "en": "This verse is the last of three that answer the People of the Scripture's demand in 4:153 for a book from the sky. 4:163 gave the line of prophets to whom Allah revealed, 4:164 added messengers whose stories were told and messengers whose stories were not, and said that Allah spoke to Musa (AS) directly. Now 4:165 says what all of these messengers were for. The verse opens on the word rusulan, messengers, in the accusative, continuing the sentence of 4:164; the translation supplies We sent in brackets to show the connection. Then 4:166 turns to the witness: Allah Himself testifies to what He sent down.",
+            "bn": "৪:১৫৩ আয়াতে আহলে কিতাব আসমান থেকে কিতাব চেয়েছিল; তার জবাবে যে তিনটি আয়াত এসেছে, এটি তার শেষটি। ৪:১৬৩ দিয়েছে সেই নবীদের ধারা যাঁদের কাছে আল্লাহ ওয়াহী পাঠিয়েছেন, ৪:১৬৪ যোগ করেছে সেই রসূলদের যাঁদের কাহিনি বলা হয়েছে আর যাঁদের বলা হয়নি, আর জানিয়েছে যে আল্লাহ মূসা (আঃ)-এর সাথে সরাসরি কথা বলেছেন। এবার ৪:১৬৫ বলে, এই সব রসূল কীসের জন্য। আয়াত শুরু হয় ‘রুসুলান’ শব্দে, রসূলগণ, কর্মকারকে, ৪:১৬৪ আয়াতের বাক্যটাই চলছে; বাংলা অনুবাদ ‘রসূলগণ ছিলেন’ বলে বাক্যটা আলাদা করে দিলেও আরবিতে এটি আগের আয়াতের ধারাবাহিকতা। তারপর ৪:১৬৬ ফেরে সাক্ষীর দিকে: আল্লাহ নিজেই সাক্ষ্য দিচ্ছেন যা তিনি নাযিল করেছেন তার ওপর।"
+          },
+          {
+            "en": "Surah an-Nisa is Madinan, and this passage is spoken into a city where Jews, Christians, hypocrites and believers lived within earshot of one another. No occasion of revelation is attached to this verse on its own; the report that Ibn Kathir carries about two men denying revelation after Musa (AS) belongs to 4:163 and is a sirah report rather than a hadith of the Sahih. What is certain is the verse's place. It stands where an argument about proof was being had, and it names the proof that Allah has chosen to rest His case on: the messengers.",
+            "bn": "সূরা নিসা মাদানী, আর এই অংশ বলা হচ্ছে এমন এক শহরে যেখানে ইহুদি, খ্রিস্টান, মুনাফিক আর মুমিন একে অন্যের কানের কাছে বাস করত। এই আয়াতের নিজস্ব কোনো শানে নুযূল নেই; মূসা (আঃ)-এর পরে ওয়াহী অস্বীকারকারী দুই ব্যক্তির যে বর্ণনা ইবনে কাসীর এনেছেন তা ৪:১৬৩ আয়াতের, আর তা সীরাতের বর্ণনা, সহীহ হাদিস নয়। যা নিশ্চিত তা আয়াতের অবস্থান। যেখানে প্রমাণ নিয়ে তর্ক চলছিল সেখানেই এটি দাঁড়িয়ে, আর নাম বলে দেয় সেই প্রমাণের যার ওপর আল্লাহ তাঁর মামলা রাখতে চেয়েছেন: রসূলগণ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Good News, Warning, Proof",
+          "bn": "সুসংবাদ, সতর্কবাণী, প্রমাণ"
+        },
+        "p": [
+          {
+            "en": "Mubashshirin comes from the root b-sh-r, which gives bashara, the skin. Ar-Raghib explains that good news is called bushra because its effect shows on the face, in the skin, before a word is said. Mundhirin comes from n-dh-r; ar-Raghib defines indhar as conveying information that carries fear with it. So a messenger is one whose news changes the listener's face in both directions: brightening it with what is promised, sobering it with what is threatened. The verse puts the glad tidings first, as the Quran almost always does where it pairs these two words, in 6:48 and 35:24 among others.",
+            "bn": "মুবাশশিরীন এসেছে বা-শা-রা মূল থেকে, যা থেকে বাশারা, চামড়া। রাগিব ব্যাখ্যা করেন, সুসংবাদকে বুশরা বলা হয় কারণ তার প্রভাব মুখে, চামড়ায়, ফুটে ওঠে কোনো কথা বলার আগেই। মুনযিরীন এসেছে নূন-যাল-রা থেকে; রাগিবের সংজ্ঞায় ইনযার হলো এমন খবর পৌঁছানো যার সাথে ভয় জড়িয়ে থাকে। তাই রসূল এমন একজন যাঁর খবর শ্রোতার মুখ দুই দিকেই বদলে দেয়: ওয়াদার কথায় উজ্জ্বল করে, হুমকির কথায় গম্ভীর করে। আয়াত সুসংবাদকে আগে রাখে, কুরআন এই দুই শব্দ জোড়া লাগালে প্রায় সব ক্ষেত্রেই যেমন রাখে, ৬:৪৮ ও ৩৫:২৪ আয়াতে তার নমুনা।"
+          },
+          {
+            "en": "The key word is hujjah. Its root h-j-j is the root of hajj, and ar-Raghib connects both to the idea of aiming at something and reaching it: a hujjah is the argument that clearly points out the road, the mahajjah. The verse says the messengers were sent li-alla yakuna lin-nasi 'ala Allahi hujjatun ba'da ar-rusul, so that people would have no argument against Allah after the messengers. Three small phrases carry the weight: lin-nas, for people; 'ala Allah, against Allah; ba'da ar-rusul, after the messengers. Before the messengers, an excuse could have existed. After them, it cannot.",
+            "bn": "মূল শব্দ হুজ্জাহ। এর মূল হা-জীম-জীম, হজ্জেরও মূল, আর রাগিব দুটোকেই জোড়েন একটা ধারণার সাথে: কোনো কিছুর দিকে লক্ষ্য রাখা ও সেখানে পৌঁছানো। হুজ্জাহ সেই যুক্তি যা পরিষ্কার করে রাস্তা দেখিয়ে দেয়, মাহাজ্জাহ। আয়াত বলে, রসূল পাঠানো হয়েছে ‘লিআল্লা ইয়াকূনা লিন্নাসি আলাল্লাহি হুজ্জাতুন বা'দার রুসুল’, যাতে রসূলদের পরে আল্লাহর বিরুদ্ধে মানুষের কোনো যুক্তি না থাকে। ছোট তিনটি অংশই পুরো ভার বহন করে: লিন্নাস, মানুষের জন্য; আলাল্লাহ, আল্লাহর বিরুদ্ধে; বা'দার রুসুল, রসূলদের পরে। রসূলদের আগে অজুহাত থাকতে পারত। পরে আর পারে না।"
+          },
+          {
+            "en": "The verse closes with two names, al-Aziz and al-Hakim, and the pairing does work. Al-Aziz, the Exalted in Might, is the One who needs no justification from anyone; He could have judged without explaining. Al-Hakim, the Wise, is the One who acts with purpose and puts things in their right place. Between them the names say that the sending of messengers was not owed and was not random. Allah, who could have demanded obedience on His authority alone, chose in His wisdom to explain Himself first. That is the character behind the verse's purpose clause.",
+            "bn": "আয়াত শেষ হয় দুটি নামে, আল-আযীয ও আল-হাকীম, আর এই জোড়ার একটা কাজ আছে। আল-আযীয, মহাপরাক্রমশালী, তিনি যাঁর কারো কাছে কৈফিয়তের দরকার নেই; বুঝিয়ে না বলেই তিনি বিচার করতে পারতেন। আল-হাকীম, প্রজ্ঞাময়, তিনি যিনি উদ্দেশ্য নিয়ে কাজ করেন আর প্রতিটি জিনিসকে তার ঠিক জায়গায় রাখেন। দুই নাম মিলে বলে, রসূল পাঠানো দায়ে পড়ে নয়, খেয়ালেও নয়। যিনি কেবল নিজের কর্তৃত্বে আনুগত্য দাবি করতে পারতেন, তিনি হিকমতে বেছে নিলেন আগে নিজেকে বুঝিয়ে বলা। আয়াতের উদ্দেশ্যবাচক অংশের পেছনে এই চরিত্রই দাঁড়িয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Proof Before Punishment",
+          "bn": "শাস্তির আগে প্রমাণ"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir explains that the prophets bring good news to those who obey Allah and do what pleases Him, and warn of His punishment those who defy His commands. Allah sent down His books and sent His messengers, made clear what He loves and what He hates, and in this way no one is left with an excuse before Him. He reads the verse alongside 20:134, where people destroyed before a messenger came would have said, our Lord, why did You not send us a messenger so we could have followed Your verses, and alongside 28:47, which gives the same protest in almost the same words.",
+            "bn": "ইবনে কাসীর ব্যাখ্যা করেন, নবীরা সুসংবাদ দেন তাদের যারা আল্লাহর আনুগত্য করে ও তাঁর পছন্দের কাজ করে, আর তাঁর শাস্তির ভয় দেখান তাদের যারা তাঁর হুকুম অমান্য করে। আল্লাহ কিতাব নাযিল করেছেন, রসূল পাঠিয়েছেন, পরিষ্কার করে দিয়েছেন কী তিনি ভালোবাসেন আর কী অপছন্দ করেন, আর এভাবে তাঁর সামনে কারো কোনো অজুহাত থাকে না। তিনি আয়াতটি পড়েন ২০:১৩৪ আয়াতের পাশে, যেখানে রসূল আসার আগে ধ্বংস হওয়া মানুষ বলত, হে আমাদের রব, তুমি আমাদের কাছে রসূল পাঠালে না কেন, তাহলে তোমার আয়াত মেনে চলতাম; আর ২৮:৪৭ আয়াতের পাশে, যেখানে প্রায় একই শব্দে একই অভিযোগ।"
+          },
+          {
+            "en": "As-Sa'di draws out the justice in it. Allah, he says, does not punish anyone until the proof has been established against him, and the messengers are how that proof is established; they explained to people the way to His pleasure and the way to His anger, so that whoever perished afterwards perished after clear evidence. The commentators generally read this verse with 17:15, where Allah says He would never punish until He had sent a messenger. Ar-Razi takes the verse into the wider question of what a person is accountable for before revelation reaches him, and reads it as placing the completed proof with the messengers.",
+            "bn": "আস-সা'দী এর ভেতরের ইনসাফটা বের করে আনেন। তিনি বলেন, আল্লাহ কাউকে শাস্তি দেন না যতক্ষণ না তার বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হয়, আর রসূলরাই সেই প্রমাণ প্রতিষ্ঠার উপায়; তাঁরা মানুষকে বুঝিয়ে দিয়েছেন তাঁর সন্তুষ্টির পথ কোনটা আর তাঁর গজবের পথ কোনটা, যাতে এরপর যে ধ্বংস হয় সে স্পষ্ট প্রমাণের পরেই ধ্বংস হয়। মুফাসসিররা সাধারণত এই আয়াত পড়েন ১৭:১৫ আয়াতের সাথে, যেখানে আল্লাহ বলেন, রসূল না পাঠিয়ে তিনি কখনো শাস্তি দেন না। আর-রাযী আয়াতটিকে নিয়ে যান বৃহত্তর প্রশ্নে, ওয়াহী পৌঁছানোর আগে মানুষ কীসের জন্য দায়ী, আর পড়েন এভাবে যে পূর্ণ প্রমাণ রসূলদের হাতেই রাখা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "None Loves Excuse More",
+          "bn": "অজুহাত সবচেয়ে ভালোবাসেন যিনি"
+        },
+        "p": [
+          {
+            "en": "The classical tafsir attaches a hadith to this verse that Ibn Kathir cites from the Two Sahihs, from Abdullah ibn Mas'ud (RA). In the wording he gives, the Prophet ﷺ said that no one is more protective of His honour than Allah, and for that He forbade indecencies, open and hidden; that no one loves praise more than Allah, and for that He praised Himself; and that no one loves excuse more than Allah, and for that He sent the Prophets as bearers of glad tidings and warners. The last clause describes them with the verse's own two words, mubashshirin and mundhirin, and gives the reason behind them.",
+            "bn": "ধ্রুপদী তাফসির এই আয়াতের সাথে একটি হাদিস জুড়ে দেয়, যা ইবনে কাসীর দুই সহীহ থেকে এনেছেন, আবদুল্লাহ ইবনে মাসউদ (রাঃ)-এর বর্ণনায়। তাঁর দেওয়া শব্দে নবী ﷺ বলেছেন, আল্লাহর চেয়ে বেশি আত্মমর্যাদাসম্পন্ন কেউ নেই, এজন্য তিনি অশ্লীলতা হারাম করেছেন, প্রকাশ্য ও গোপন; আল্লাহর চেয়ে প্রশংসা বেশি ভালোবাসেন এমন কেউ নেই, এজন্য তিনি নিজের প্রশংসা নিজে করেছেন; আর আল্লাহর চেয়ে অজুহাত বেশি ভালোবাসেন এমন কেউ নেই, এজন্য তিনি নবীদের পাঠিয়েছেন সুসংবাদদাতা ও সতর্ককারী করে। শেষ অংশে তাঁদের বর্ণনায় আয়াতের নিজের দুটি শব্দই এসেছে, মুবাশশিরীন ও মুনযিরীন, আর এক বাক্যে তার পেছনের কারণ।"
+          },
+          {
+            "en": "Loving excuse here means loving that His creatures should have been given every chance to excuse themselves, that no one should stand before Him able to say, I was never told. The hadith turns the verse from a legal statement into a description of Allah's generosity. The messengers were not sent so that Allah could win an argument. They were sent because He wanted people to have heard, clearly and from one of their own, before anything was held against them.",
+            "bn": "এখানে অজুহাত ভালোবাসা মানে, তিনি চান তাঁর সৃষ্টি যেন নিজেকে সাফাই দেওয়ার প্রতিটি সুযোগ পায়, কেউ যেন তাঁর সামনে দাঁড়িয়ে বলতে না পারে, আমাকে তো কখনো বলা হয়নি। হাদিসটি আয়াতকে আইনি বিবৃতি থেকে আল্লাহর দাক্ষিণ্যের বিবরণে বদলে দেয়। রসূল পাঠানো হয়নি এজন্য যে আল্লাহ তর্কে জিতবেন। পাঠানো হয়েছে কারণ তিনি চেয়েছেন, কারো বিরুদ্ধে কিছু ধরার আগে মানুষ যেন শুনে ফেলে, পরিষ্কারভাবে, নিজেদেরই একজনের মুখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Question at the Gates",
+          "bn": "দরজায় সেই প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "17:15 is the plainest sister: whoever is guided is guided for his own soul, no bearer of burdens bears another's, and never would We punish until We sent a messenger. 35:24 widens the scope in the other direction: the Prophet ﷺ was sent as bringer of good tidings and warner, and there was no nation but that a warner had passed within it. So the messengers were not a few, and no people was left out. 6:48 repeats the verse's two words and gives their outcome: whoever believes and reforms will have no fear and will not grieve.",
+            "bn": "১৭:১৫ সবচেয়ে সোজা সহোদর: যে সঠিক পথে চলে সে নিজের কল্যাণেই চলে, কোনো বোঝা বহনকারী অন্যের বোঝা বহন করে না, আর রসূল না পাঠিয়ে আমি শাস্তি দিই না। ৩৫:২৪ পরিধিটা অন্য দিকে বাড়ায়: নবী ﷺ-কে পাঠানো হয়েছে সুসংবাদদাতা ও সতর্ককারী করে, আর এমন কোনো জাতি নেই যাতে সতর্ককারী আসেনি। তাই রসূল অল্প কয়েকজন ছিলেন না, কোনো জাতিও বাদ পড়েনি। ৬:৪৮ আয়াতের দুই শব্দ আবার বলে আর তার ফল জানায়: যে ঈমান আনে ও নিজেকে শোধরায়, তার ভয় নেই, দুঃখও নেই।"
+          },
+          {
+            "en": "Two verses show the purpose clause fulfilled on the Day itself. In 67:8 the keepers of Hell ask each company thrown into it: did no warner come to you? And in 67:9 the answer is, yes, a warner came to us, but we denied him. In 39:71 the same question is put at the gates, did messengers not come to you from among yourselves, and the same answer is given: yes. Nobody in those scenes pleads ignorance. The messengers of 4:165 did their work, and the argument the verse said would not exist does not exist.",
+            "bn": "দুটি আয়াত দেখায়, কিয়ামতের দিনে আয়াতের উদ্দেশ্য কীভাবে পূর্ণ হয়। ৬৭:৮ আয়াতে জাহান্নামের রক্ষীরা প্রতিটি দলকে জিজ্ঞেস করে: তোমাদের কাছে কি কোনো সতর্ককারী আসেনি? আর ৬৭:৯ আয়াতে জবাব, হ্যাঁ, এসেছিল, কিন্তু আমরা অস্বীকার করেছিলাম। ৩৯:৭১ আয়াতে দরজায় একই প্রশ্ন, তোমাদেরই ভেতর থেকে কি রসূল আসেননি, আর একই জবাব: হ্যাঁ। ওই দৃশ্যে কেউ না জানার অজুহাত দেয় না। ৪:১৬৫ আয়াতের রসূলরা তাঁদের কাজ করে গেছেন, আর যে যুক্তি থাকবে না বলে আয়াত বলেছিল, তা নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where I Did Not Know Ends",
+          "bn": "‘জানতাম না’ যেখানে ফুরোয়"
+        },
+        "p": [
+          {
+            "en": "The first thing the verse does to a believer is take away a certain kind of comfort. I did not know is no longer available about anything the Messenger ﷺ made clear. That changes how a person treats the basics: the rulings on prayer, on what is lawful to eat and earn, on how to speak to parents and treat a neighbour. These are not specialist knowledge; they are the content of the warning and the good news, and 4:165 says the proof has been delivered. A believer who has never learned them is not excused by not having looked.",
+            "bn": "আয়াত প্রথমে একজন মুমিনের কাছ থেকে একটা বিশেষ ধরনের স্বস্তি কেড়ে নেয়। রসূল ﷺ যা পরিষ্কার করে দিয়েছেন তার কোনোটা নিয়ে ‘আমি জানতাম না’ আর চলে না। এতে বদলে যায় মানুষ মৌলিক বিষয়গুলোকে কীভাবে নেয়: নামাযের হুকুম, কী খাওয়া ও কামানো হালাল, মা-বাবার সাথে কীভাবে কথা বলতে হয়, প্রতিবেশীর সাথে কীভাবে চলতে হয়। এগুলো বিশেষজ্ঞের জ্ঞান নয়; এগুলোই সতর্কবাণী আর সুসংবাদের বিষয়বস্তু, আর ৪:১৬৫ বলে, প্রমাণ পৌঁছে দেওয়া হয়েছে। যে মুমিন কখনো এগুলো শেখেনি, না খোঁজার কারণে সে মাফ পায় না।"
+          },
+          {
+            "en": "The second thing it does is set a standard for how a believer speaks to others about faith. The messengers came with good news first and warning second, and their purpose was to remove an excuse, not to defeat an opponent. So the question after any conversation about Islam is not whether I won but whether the person now knows something clearly that he did not know before. A parent explaining a ruling to a child, a friend answering a question honestly, a person who simply lives the religion visibly, is doing a small part of what 4:165 describes.",
+            "bn": "দ্বিতীয়ত, আয়াত একটা মাপকাঠি বেঁধে দেয়: মুমিন অন্যের সাথে দ্বীনের কথা কীভাবে বলবে। রসূলরা এসেছিলেন আগে সুসংবাদ পরে সতর্কবাণী নিয়ে, আর তাঁদের উদ্দেশ্য ছিল অজুহাত সরানো, প্রতিপক্ষকে হারানো নয়। তাই ইসলাম নিয়ে যেকোনো কথাবার্তার পরে প্রশ্ন এটা নয় যে আমি জিতেছি কি না, বরং মানুষটা এখন এমন কিছু পরিষ্কার জানে কি না যা আগে জানত না। যে বাবা-মা সন্তানকে একটা হুকুম বুঝিয়ে দেন, যে বন্ধু একটা প্রশ্নের সৎ জবাব দেয়, যে মানুষ স্রেফ দ্বীনটা দৃশ্যমানভাবে যাপন করে, সে ৪:১৬৫ যা বলে তার একটা ছোট অংশ করছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "If We Forget or Err",
+          "bn": "ভুলে গেলে কিংবা ভুল করলে"
+        },
+        "p": [
+          {
+            "en": "The Quran gives a supplication that belongs beside this verse in 2:286: our Lord, do not impose blame upon us if we have forgotten or erred. It asks for the one kind of excuse the verse leaves open, the excuse of honest forgetting and honest mistake, from the One whom the hadith says loves to excuse. Beyond it, a believer may say in the verse's own vocabulary, as his own words and not as a transmitted du'a: O Allah, You sent Your messengers with good news and warning so that no one would have an argument against You; do not let me be one who heard and then argued.",
+            "bn": "এই আয়াতের পাশে বসার মতো একটি দোয়া কুরআন দিয়েছে ২:২৮৬ আয়াতে: হে আমাদের রব, আমরা যদি ভুলে যাই কিংবা ভুল করি, আমাদের পাকড়াও করো না। আয়াত যে একমাত্র ধরনের অজুহাতের দরজা খোলা রাখে, সৎ ভুলে যাওয়া আর সৎ ভুল, এই দোয়া সেটাই চায়, তাঁর কাছে, যিনি হাদিসের ভাষায় অজুহাত ভালোবাসেন। এর বাইরে একজন মুমিন আয়াতের নিজের ভাষায় বলতে পারে, নিজের কথা হিসেবে, বর্ণিত দোয়া হিসেবে নয়: হে আল্লাহ, তুমি তোমার রসূলদের পাঠিয়েছ সুসংবাদ ও সতর্কবাণী দিয়ে, যাতে তোমার বিরুদ্ধে কারো যুক্তি না থাকে; আমাকে এমন কেউ বানিয়ো না যে শুনেছে, তারপর তর্ক করেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Excuse I Keep Ready",
+          "bn": "যে অজুহাত আমি তৈরি রাখি"
+        },
+        "p": [
+          {
+            "en": "What is the excuse I am still keeping ready, the one I would offer if asked why I have not changed a particular habit? The verse says that after the messengers, excuses of that kind do not stand. Which do I lead with when I speak about Islam to someone outside it, the good news or the warning, and which did the messengers lead with? When someone under my authority disobeys me, have I made sure they were told clearly, the way Allah made sure of it before He judged anyone?",
+            "bn": "কোন অজুহাতটা আমি এখনো তৈরি রেখেছি, যা কেউ জিজ্ঞেস করলে দেব, কেন আমি একটা বিশেষ অভ্যাস বদলাইনি? আয়াত বলে, রসূলদের পরে এই ধরনের অজুহাত টেকে না। ইসলামের বাইরের কারো সাথে ইসলাম নিয়ে কথা বলার সময় আমি আগে কোনটা বলি, সুসংবাদ না সতর্কবাণী, আর রসূলরা আগে কোনটা বলতেন? আমার অধীনে কেউ যখন আমার কথা অমান্য করে, আমি কি আগে নিশ্চিত করেছি যে তাকে পরিষ্কার করে বলা হয়েছিল, যেভাবে আল্লাহ কারো বিচার করার আগে নিশ্চিত করেছেন?"
+          },
+          {
+            "en": "Is there anyone in my life who has never actually heard the message clearly from anyone, and could the removal of that person's excuse be, in some small part, my responsibility? And when I read the scene of 67:9, where the people of the Fire say a warner came to us but we denied him, do I hear it as a story about others, or as a warning about what a clear message, once heard, requires of me?",
+            "bn": "আমার জীবনে কি এমন কেউ আছে যে আসলে কারো কাছ থেকে বার্তাটা পরিষ্কার শোনেনি, আর সেই মানুষটার অজুহাত সরানো কি কোনো ছোট অংশে আমার দায়িত্ব হতে পারে? আর ৬৭:৯ আয়াতের দৃশ্য যখন পড়ি, যেখানে জাহান্নামের লোকেরা বলে, সতর্ককারী এসেছিল কিন্তু আমরা অস্বীকার করেছিলাম, তখন কি একে অন্যদের গল্প বলে শুনি, নাকি সতর্কবাণী বলে, যে একবার শোনা পরিষ্কার বার্তা আমার কাছে কী দাবি করে?"
+          }
+        ]
+      }
+    ]
+  },
+  "4:171": {
+    "sections": [
+      {
+        "h": {
+          "en": "Between Two Calls to Mankind",
+          "bn": "মানুষের প্রতি দুই ডাকের মাঝে"
+        },
+        "p": [
+          {
+            "en": "Surah an-Nisa, Madinan, ends with a cluster of addresses. 4:170 calls to all mankind: the Messenger has come to you with the truth from your Lord, so believe. 4:174 calls to mankind again: a conclusive proof has come to you, and a clear light. Between those two universal calls sits 4:171, addressed to a narrower audience, the People of the Scripture, and dealing with one specific error. The verse after it, 4:172, continues the same subject: the Messiah would never disdain to be a servant of Allah, nor would the angels nearest to Him.",
+            "bn": "মাদানী সূরা নিসা শেষ হয় একগুচ্ছ সম্বোধনে। ৪:১৭০ সব মানুষকে ডাকে: রসূল তোমাদের কাছে তোমাদের রবের পক্ষ থেকে সত্য নিয়ে এসেছেন, তাই ঈমান আনো। ৪:১৭৪ আবার মানুষকে ডাকে: তোমাদের কাছে চূড়ান্ত প্রমাণ এসেছে, আর স্পষ্ট আলো। এই দুই সর্বজনীন ডাকের মাঝখানে বসে আছে ৪:১৭১, যার শ্রোতা সংকীর্ণতর, আহলে কিতাব, আর বিষয় একটি নির্দিষ্ট ভুল। পরের আয়াত ৪:১৭২ একই বিষয় চালিয়ে যায়: মাসীহ আল্লাহর বান্দা হতে কখনো তুচ্ছ বোধ করেন না, নৈকট্যপ্রাপ্ত ফেরেশতারাও না।"
+          },
+          {
+            "en": "Earlier in the surah the same Messiah was the subject of the opposite error. 4:157 recorded the claim of some that they had killed him, and refuted it: they did not kill him, nor did they crucify him. Now the surah turns to those who raised him too high. The Quran corrects both parties by the same standard, saying about Isa (AS) exactly what is true and no more. No occasion of revelation is established for this particular verse; its placement is enough. It stands at the end of a surah about rights, and it defends the right of Allah to be spoken of truthfully.",
+            "bn": "সূরার আগের দিকে এই মাসীহই ছিলেন উল্টো ভুলের বিষয়। ৪:১৫৭ আয়াত কিছু লোকের দাবি তুলে ধরেছিল যে তারা তাঁকে হত্যা করেছে, আর তা খণ্ডন করেছিল: তারা তাঁকে হত্যা করেনি, ক্রুশেও চড়ায়নি। এবার সূরা ফেরে তাদের দিকে যারা তাঁকে বড্ড উঁচুতে তুলেছে। কুরআন দুই পক্ষকেই একই মাপকাঠিতে শোধরায়: ঈসা (আঃ) সম্পর্কে ঠিক যা সত্য তা-ই বলে, তার বেশি নয়। এই আয়াতের জন্য কোনো প্রতিষ্ঠিত শানে নুযূল নেই; অবস্থানই যথেষ্ট। হকের সূরার শেষে এর জায়গা, আর এটি রক্ষা করে আল্লাহর এই হক যে তাঁর সম্পর্কে সত্য কথাই বলা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ghuluw, Word and Spirit",
+          "bn": "গুলু, কালিমা ও রূহ"
+        },
+        "p": [
+          {
+            "en": "The first prohibition is la taghlu, do not commit ghuluw. Ar-Raghib defines ghuluw as exceeding the limit, and the root is used in ordinary Arabic for a price that has soared and a pot that boils over. Excess in religion is that: something good, love or reverence, heated past its proper level until it spills. The second prohibition follows at once, do not say about Allah except the truth. The two are joined because the one leads to the other. Excess in what is said about a servant ends as falsehood about the Master.",
+            "bn": "প্রথম নিষেধ ‘লা তাগলু’, গুলু করো না। রাগিবের সংজ্ঞায় গুলু হলো সীমা ছাড়িয়ে যাওয়া, আর সাধারণ আরবিতে এই মূল ব্যবহৃত হয় চড়ে যাওয়া দাম আর উথলে ওঠা হাঁড়ির জন্য। দ্বীনে বাড়াবাড়ি ঠিক তা-ই: ভালো কিছু, ভালোবাসা বা শ্রদ্ধা, ঠিক মাত্রার বেশি তাতিয়ে তোলা, যতক্ষণ না তা উপচে পড়ে। দ্বিতীয় নিষেধ সাথে সাথেই আসে, আল্লাহ সম্বন্ধে সত্য ছাড়া কিছু বলো না। দুটো জোড়া লাগানো, কারণ একটা অন্যটার দিকে নিয়ে যায়। বান্দা সম্পর্কে বাড়িয়ে বলা শেষ হয় মালিক সম্পর্কে মিথ্যায়।"
+          },
+          {
+            "en": "Then the verse says who the Messiah is, and it uses the restrictive particle innama: the Messiah, Isa son of Maryam, was only a messenger of Allah, and His word which He cast to Maryam, and a spirit from Him. The same particle returns later in the verse: innama Allahu ilahun wahid, Allah is only one God. The two restrictions mirror each other. Isa (AS) is confined to what he is, a messenger honoured with titles no one else carries; Allah is confined to what He is, one, without partner or son. Kalimah and ruh are gifts of creation, not shares in divinity.",
+            "bn": "তারপর আয়াত বলে মাসীহ কে, আর ব্যবহার করে সীমাবদ্ধকারী অব্যয় ‘ইন্নামা’: মাসীহ ঈসা ইবনু মারইয়াম কেবল আল্লাহর রসূল, আর তাঁর কালিমা যা তিনি মারইয়ামের কাছে পৌঁছে দিয়েছেন, আর তাঁর পক্ষ থেকে এক রূহ। একই অব্যয় আয়াতের পরে আবার ফেরে: ইন্নামাল্লাহু ইলাহুন ওয়াহিদ, আল্লাহ কেবল এক ইলাহ। দুই সীমা একে অন্যের আয়না। ইন্নামা ঈসা (আঃ)-কে তাঁর নিজের জায়গাতেই রেখে দেয়: তিনি রসূল, এমন উপাধি পেয়েছেন যা আর কারও নেই। আর দ্বিতীয় ইন্নামা আল্লাহ সম্পর্কে বলার সীমা টেনে দেয়: তিনি এক, তাঁর শরিকও নেই, সন্তানও নেই। কালিমা আর রূহ সৃষ্টির দান, খোদায়িত্বের অংশ নয়।"
+          },
+          {
+            "en": "Then a bare number: wa la taqulu thalathah, and do not say three. No noun follows, and translators have to decide what to supply. After it comes a single-word command, intahu, desist, and a reason, khayran lakum, better for you. The verse does not argue at length. It states the truth, names the error in one word, and tells its hearers that stopping is in their own interest. It ends on al-wakil: sufficient is Allah as Disposer of affairs. The One who runs everything in the heavens and the earth alone has no need of a son to share the task.",
+            "bn": "তারপর একটা খালি সংখ্যা: ওয়া লা তাকূলূ সালাসাহ, আর ‘তিন’ বলো না। পরে কোনো বিশেষ্য নেই; অনুবাদককে ঠিক করতে হয় কী বসাবেন, এই অনুবাদ বন্ধনীতে বসিয়েছে। এরপর এক শব্দের হুকুম, ইনতাহূ, থামো, আর একটা কারণ, খাইরান লাকুম, তোমাদের জন্যই ভালো। আয়াত লম্বা তর্কে যায় না। সত্যটা বলে, ভুলটার নাম নেয় এক শব্দে, আর শ্রোতাদের জানায় যে থামা তাদের নিজেদেরই স্বার্থে। শেষ হয় আল-ওয়াকীল নামে: কর্মবিধায়ক হিসেবে আল্লাহই যথেষ্ট। যিনি একাই আসমান-জমিনের সব চালান, কাজ ভাগ করার জন্য তাঁর সন্তানের দরকার নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Created by the Word Be",
+          "bn": "‘হও’ শব্দে সৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the verse as a prohibition of the excess the Christians fell into over Isa (AS), raising him from prophethood to a god worshipped alongside Allah, and then to those they took as his followers, whose every word was accepted, true or false. On the word and the spirit he explains that Allah created Isa (AS) with the word Be, which He sent with Jibril to Maryam, that Jibril blew the life of Isa (AS) into her by Allah's leave, and that this took the place of the ordinary conception between a man and a woman. He cites Qatadah's gloss of kalimatuhu: He said Be, and he was.",
+            "bn": "ইবনে কাসীর আয়াতটিকে পড়েন সেই বাড়াবাড়ির নিষেধ হিসেবে যাতে খ্রিস্টানরা ঈসা (আঃ)-কে নিয়ে পড়েছিল: তাঁকে নবুওয়াতের মর্যাদা থেকে তুলে আল্লাহর পাশে পূজিত ইলাহের আসনে বসানো, তারপর সেই বাড়াবাড়ি টেনে নেওয়া তাঁর অনুসারী বলে যাদের ধরেছিল তাদের পর্যন্ত, যাতে তারা যা-ই বলুক, সত্য বা মিথ্যা, মেনে নেওয়া হতো। কালিমা ও রূহ নিয়ে তিনি ব্যাখ্যা করেন, আল্লাহ ঈসা (আঃ)-কে সৃষ্টি করেছেন ‘কুন’ শব্দ দিয়ে, যা জিবরীলের হাতে মারইয়ামের কাছে পাঠানো হয়, আর জিবরীল আল্লাহর হুকুমে তাঁর ভেতরে ফুঁ দেন; নারী-পুরুষের স্বাভাবিক গর্ভধারণের জায়গা নিয়েছিল এই ঘটনা। কালিমাতুহুর ব্যাখ্যায় তিনি কাতাদার কথা আনেন: তিনি বললেন ‘হও’, আর সে হয়ে গেল।"
+          },
+          {
+            "en": "On ruhun minhu, a spirit from Him, Ibn Kathir compares 45:13, where everything in the heavens and the earth is subjected to mankind, all from Him. From Him there means from His creation, and attributing a thing to Allah, as in the she-camel of Allah or the House of Allah, is a way of honouring it. At-Tabari records more than one reading of kalimatuhu, the word Be and the tiding sent to Maryam, and reads the spirit as the breath Jibril blew into her by Allah's command. As-Sa'di reads the whole description as the highest titles a servant can hold, given precisely to show that servanthood is the ceiling.",
+            "bn": "রূহুন মিনহু, তাঁর পক্ষ থেকে এক রূহ, নিয়ে ইবনে কাসীর তুলনা টানেন ৪৫:১৩ আয়াতের সাথে, যেখানে আসমান-জমিনের সবকিছু মানুষের কাজে লাগানো হয়েছে, সবই তাঁর পক্ষ থেকে। সেখানে ‘তাঁর পক্ষ থেকে’ মানে তাঁর সৃষ্টি থেকে; সাথে তিনি যোগ করেন, কোনো জিনিসকে আল্লাহর সাথে যুক্ত করা, যেমন আল্লাহর উটনী বা আল্লাহর ঘর, তাকে সম্মান দেওয়ার একটা ধরন। আত-তাবারী কালিমাতুহুর একাধিক পাঠ লিপিবদ্ধ করেন, ‘হও’ শব্দটি এবং মারইয়ামের কাছে পাঠানো সুসংবাদ, আর রূহকে পড়েন সেই ফুঁ হিসেবে যা জিবরীল আল্লাহর হুকুমে তাঁর ভেতরে দিয়েছিলেন। আস-সা'দী গোটা বিবরণকে পড়েন এভাবে: একজন বান্দা সর্বোচ্চ যে উপাধি পেতে পারে তা-ই এখানে দেওয়া, ঠিক এটা দেখাতে যে বান্দা হওয়াই ছাদ।"
+          },
+          {
+            "en": "Al-Qurtubi pauses at the word three. The noun it qualifies is left unsaid, and the commentators supply it in two ways: do not say the gods are three, or do not say Allah is one of three. He also notes what 5:116 shows, that a claim had been made concerning Maryam as well as her son, which is why some read the three as Allah, Isa and Maryam. Ibn Kathir joins the verse to 5:73, which names the saying that Allah is the third of three and answers it: there is no god but one God.",
+            "bn": "আল-কুরতুবী থামেন ‘তিন’ শব্দে। যে বিশেষ্যকে এটি বিশেষিত করে তা অনুক্ত, আর মুফাসসিররা তা দুইভাবে বসান: বলো না ইলাহ তিনজন, অথবা বলো না আল্লাহ তিনের একজন। তিনি এটাও লক্ষ করেন, ৫:১১৬ যা দেখায়: মারইয়াম সম্পর্কেও দাবি তোলা হয়েছিল, শুধু তাঁর পুত্র সম্পর্কে নয়, এজন্য কেউ কেউ তিনকে পড়েন আল্লাহ, ঈসা ও মারইয়াম হিসেবে। ইবনে কাসীর আয়াতটিকে জোড়েন ৫:৭৩ আয়াতের সাথে, যা ‘আল্লাহ তিনের তৃতীয়’ এই কথাটির নাম নেয় আর জবাব দেয়: এক ইলাহ ছাড়া কোনো ইলাহ নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Servant, Messenger, Word, Spirit",
+          "bn": "বান্দা, রসূল, কালিমা, রূহ"
+        },
+        "p": [
+          {
+            "en": "Sahih al-Bukhari records from Ubadah ibn as-Samit (RA) that the Prophet ﷺ said: whoever bears witness that there is no god but Allah alone, without partner, and that Muhammad is His servant and His Messenger, and that Isa is the servant of Allah and His Messenger, and His word which He conveyed to Maryam, and a spirit from Him, and that Paradise is true and the Fire is true, Allah will admit him to Paradise, whatever deeds he had. The hadith lifts the verse's description of Isa (AS) straight into the testimony of faith, and adds the one word the verse implies throughout: servant.",
+            "bn": "সহীহ বুখারীতে উবাদা ইবনুস সামিত (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: যে ব্যক্তি সাক্ষ্য দেয় যে আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি এক, তাঁর কোনো শরিক নেই; মুহাম্মাদ তাঁর বান্দা ও রসূল; ঈসা আল্লাহর বান্দা ও রসূল, আর তাঁর কালিমা যা তিনি মারইয়ামের প্রতি পৌঁছে দিয়েছেন, আর তাঁর পক্ষ থেকে এক রূহ; জান্নাত সত্য, জাহান্নাম সত্য; আল্লাহ তাকে জান্নাতে প্রবেশ করাবেন, তার আমল যেমনই হোক। হাদিসটি ঈসা (আঃ) সম্পর্কে আয়াতের বিবরণ সোজা তুলে বসায় ঈমানের সাক্ষ্যে, আর যোগ করে সেই একটি শব্দ যা আয়াতের সর্বত্র ইঙ্গিতে আছে: বান্দা।"
+          },
+          {
+            "en": "Al-Bukhari also relates from Umar (RA) that the Prophet ﷺ said: do not exaggerate in praising me as the Christians exaggerated over the son of Maryam; I am only a servant, so say, the servant of Allah and His Messenger. Ibn Kathir places this hadith under 4:171. It shows the Prophet ﷺ applying the verse to himself, closing in advance the door through which the excess it condemns had entered. The correction of 4:171 is not aimed at one community's history and left there; it is a rule for everyone who loves a prophet.",
+            "bn": "বুখারী উমর (রাঃ) থেকেও বর্ণনা করেন, নবী ﷺ বলেছেন: আমার প্রশংসায় বাড়াবাড়ি করো না যেভাবে খ্রিস্টানরা মারইয়ামের পুত্রকে নিয়ে বাড়াবাড়ি করেছে; আমি তো কেবল একজন বান্দা, তাই বলো, আল্লাহর বান্দা ও তাঁর রসূল। ইবনে কাসীর এই হাদিসটি ৪:১৭১ আয়াতের নিচে রাখেন। এতে দেখা যায়, নবী ﷺ আয়াতটি নিজের ওপর প্রয়োগ করছেন, আয়াত যে বাড়াবাড়ির নিন্দা করে তা যে দরজা দিয়ে ঢুকেছিল সেটা আগেভাগেই বন্ধ করে দিচ্ছেন। ৪:১৭১ আয়াতের সংশোধন কোনো এক সম্প্রদায়ের ইতিহাসের দিকে তাক করে সেখানেই ফেলে রাখা নয়; যে-ই কোনো নবীকে ভালোবাসে তার জন্য এটি একটি নিয়ম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Like Adam, a Servant",
+          "bn": "আদমের মতো, এক বান্দা"
+        },
+        "p": [
+          {
+            "en": "3:59 gives the comparison the commentators lean on: the example of Isa before Allah is like that of Adam, whom He created from dust and then said to him, Be, and he was. A man without a father is no more divine than a man without a father or mother. 19:30 records the first words Isa (AS) himself spoke, in the cradle: I am the servant of Allah; He has given me the Scripture and made me a prophet. 5:75 says he was not but a messenger, that messengers had passed before him, that his mother was a supporter of truth, and that they both used to eat food.",
+            "bn": "৩:৫৯ দেয় সেই তুলনা যার ওপর মুফাসসিররা ভর করেন: আল্লাহর কাছে ঈসার অবস্থা আদমের মতো, যাঁকে তিনি মাটি থেকে গড়ে বললেন, হও, আর তিনি হয়ে গেলেন। পিতা ছাড়া মানুষ, পিতা-মাতা দুজন ছাড়া মানুষের চেয়ে বেশি খোদায়ি নন। ১৯:৩০ লিপিবদ্ধ করে ঈসা (আঃ)-এর নিজের মুখের প্রথম কথা, দোলনা থেকে: আমি আল্লাহর বান্দা, তিনি আমাকে কিতাব দিয়েছেন, নবী করেছেন। ৫:৭৫ বলে, তিনি রসূল ছাড়া কিছু ছিলেন না, তাঁর আগে রসূলরা গত হয়েছেন, তাঁর মা ছিলেন সত্যনিষ্ঠ নারী, আর দুজনেই খাবার খেতেন।"
+          },
+          {
+            "en": "5:116 shows the Day when Allah will ask Isa (AS) whether he told people to take him and his mother as gods besides Allah, and his answer: exalted are You, it was not for me to say what I had no right to say. 9:31 widens the charge: the same excess falls on those who took their scholars and monks as lords besides Allah, and the Messiah, the son of Maryam, alongside them. And 4:172, the next verse, says the Messiah would never disdain to be a servant of Allah, nor would the angels near to Him; whoever disdains His worship out of pride will be gathered to Him.",
+            "bn": "৫:১১৬ দেখায় সেই দিন, যেদিন আল্লাহ ঈসা (আঃ)-কে জিজ্ঞেস করবেন, তিনি কি মানুষকে বলেছিলেন আল্লাহকে ছেড়ে তাঁকে ও তাঁর মাকে ইলাহ বানাতে, আর তাঁর জবাব: পবিত্র মহান তুমি, যা বলার হক আমার নেই তা বলা আমার শোভা পায় না। ৯:৩১ সেই একই বাড়াবাড়ির আরও চেহারা ধরিয়ে দেয়: আল্লাহকে বাদ দিয়ে তারা নিজেদের আলেম ও দরবেশদের রব বানিয়ে নিয়েছিল, আর তাদের সঙ্গে মারইয়াম-পুত্র মাসীহকেও। আর ঠিক পরের আয়াত ৪:১৭২ বলে, মাসীহ আল্লাহর বান্দা হতে কখনো তুচ্ছ বোধ করেন না, নৈকট্যের ফেরেশতারাও না; যে অহংকারে তাঁর ইবাদতকে তুচ্ছ করে, তাকে তাঁর কাছেই জড়ো করা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Honour First, Then the Limit",
+          "bn": "আগে সম্মান, তারপর সীমা"
+        },
+        "p": [
+          {
+            "en": "The first lesson is in the verse's method. Before it names the error it states everything true and honourable about Isa (AS): messenger, word, spirit from Him. A believer who has to correct a wrong belief in a friend, a child or a study circle can copy that order. Say first what is right in what the person holds, fully and without grudging, and only then the limit. Correction that begins with the limit is heard as an attack; correction that begins with honour is heard as counsel, which is what the verse calls itself when it says, better for you.",
+            "bn": "প্রথম শিক্ষা আয়াতের পদ্ধতিতে। ভুলের নাম নেওয়ার আগে এটি ঈসা (আঃ) সম্পর্কে যা কিছু সত্য ও সম্মানের তা বলে নেয়: রসূল, কালিমা, তাঁর পক্ষ থেকে রূহ। বন্ধু, সন্তান বা হালকার কারো ভুল বিশ্বাস শোধরাতে হলে একজন মুমিন এই ক্রমটা নকল করতে পারে। মানুষটার বিশ্বাসে যা ঠিক তা আগে বলুন, পুরোপুরি, কার্পণ্য ছাড়া, তারপরই সীমা। সীমা দিয়ে শুরু হওয়া সংশোধন শোনায় আক্রমণের মতো; সম্মান দিয়ে শুরু হওয়া সংশোধন শোনায় নসিহতের মতো, আর আয়াত নিজেকে তা-ই বলে যখন বলে, তোমাদের জন্যই ভালো।"
+          },
+          {
+            "en": "The second lesson turns inward. The hadith of Umar (RA) shows that ghuluw is not a Christian problem but a human one, and the Prophet ﷺ guarded his own community against it by name. So a believer watches his own reverence: for the Prophet ﷺ, that it stays within what he said of himself; for scholars and the pious, that it never reaches the point of 9:31, where their word replaces Allah's. And the second prohibition, say about Allah only the truth, becomes a habit of checking. Before attributing a ruling, a promise or a threat to Allah, ask whether it is His or only mine.",
+            "bn": "দ্বিতীয় শিক্ষা ভেতরের দিকে ফেরে। উমর (রাঃ)-এর হাদিস দেখায়, গুলু খ্রিস্টানদের সমস্যা নয়, মানুষের সমস্যা, আর নবী ﷺ নিজের উম্মতকে নাম ধরে এর থেকে সাবধান করেছেন। তাই মুমিন নিজের শ্রদ্ধার দিকে নজর রাখে: নবী ﷺ-এর প্রতি শ্রদ্ধা যেন তিনি নিজের সম্পর্কে যা বলেছেন তার ভেতরে থাকে; আলেম ও নেককারদের প্রতি শ্রদ্ধা যেন কখনো ৯:৩১ আয়াতের জায়গায় না পৌঁছায়, যেখানে তাঁদের কথা আল্লাহর কথার জায়গা নেয়। আর দ্বিতীয় নিষেধ, আল্লাহ সম্বন্ধে সত্য ছাড়া কিছু বলো না, হয়ে ওঠে যাচাইয়ের অভ্যাস। কোনো হুকুম, ওয়াদা বা হুমকি আল্লাহর নামে চালানোর আগে জিজ্ঞেস করুন, এটা কি তাঁর, নাকি শুধু আমার?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Write Us Among the Witnesses",
+          "bn": "সাক্ষীদের মধ্যে আমাদের লেখো"
+        },
+        "p": [
+          {
+            "en": "The Quran preserves the prayer of the disciples of Isa (AS) in 3:53: our Lord, we have believed in what You revealed and have followed the messenger, so register us among the witnesses. It is the du'a of people who took Isa (AS) exactly as 4:171 describes him, a messenger to be followed, and asked to be written down as witnesses to that truth. A believer can also say, as a statement of faith rather than a request, the words the Prophet ﷺ gave in the hadith of Ubadah (RA): that Isa is the servant of Allah and His Messenger, His word conveyed to Maryam, and a spirit from Him.",
+            "bn": "৩:৫৩ আয়াতে কুরআন ধরে রেখেছে ঈসা (আঃ)-এর হাওয়ারীদের দোয়া: হে আমাদের রব, তুমি যা নাযিল করেছ আমরা তাতে ঈমান এনেছি, রসূলের অনুসরণ করেছি, তাই আমাদের সাক্ষীদের মধ্যে লিখে নাও। এ তাদের দোয়া যারা ঈসা (আঃ)-কে ঠিক সেভাবেই নিয়েছিল যেভাবে ৪:১৭১ তাঁকে বর্ণনা করে, অনুসরণ করার মতো এক রসূল, আর সেই সত্যের সাক্ষী হিসেবে নাম লেখাতে চেয়েছিল। একজন মুমিন চাওয়া নয়, ঈমানের ঘোষণা হিসেবেও বলতে পারে সেই কথাগুলো যা নবী ﷺ উবাদা (রাঃ)-এর হাদিসে দিয়েছেন: ঈসা আল্লাহর বান্দা ও রসূল, মারইয়ামের প্রতি পৌঁছে দেওয়া তাঁর কালিমা, আর তাঁর পক্ষ থেকে এক রূহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Excess Begins",
+          "bn": "বাড়াবাড়ি যেখানে শুরু"
+        },
+        "p": [
+          {
+            "en": "Is there anyone, a teacher, a saint, a leader, whose word I accept without asking whether it agrees with what Allah said? Ghuluw begins there. When I correct someone, do I start with what is true in their position, as this verse does, or with what is wrong? Have I ever said something about Allah, that He will surely forgive this or surely punish that, which I could not source? And when I hear the word servant applied to Isa (AS) or to Muhammad ﷺ, do I hear it as a limit or as the highest honour, the way 4:172 says the angels hear it?",
+            "bn": "এমন কেউ কি আছেন, কোনো শিক্ষক, বুজুর্গ বা নেতা, যাঁর কথা আমি মেনে নিই আল্লাহর কথার সাথে মেলে কি না জিজ্ঞেস না করেই? গুলু ওখানেই শুরু হয়। কাউকে শোধরাতে গিয়ে আমি কি এই আয়াতের মতো তার অবস্থানের সত্য অংশ দিয়ে শুরু করি, নাকি ভুল দিয়ে? আল্লাহ সম্পর্কে আমি কি কখনো এমন কিছু বলেছি, তিনি এটা নিশ্চয় মাফ করবেন বা ওটা নিশ্চয় শাস্তি দেবেন, যার কোনো সূত্র আমি দিতে পারতাম না? আর ঈসা (আঃ) বা মুহাম্মাদ ﷺ সম্পর্কে ‘বান্দা’ শব্দটা শুনলে আমি কি একে সীমা হিসেবে শুনি, নাকি সর্বোচ্চ সম্মান হিসেবে, যেভাবে ৪:১৭২ বলে ফেরেশতারা শোনেন?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Teaching the Four Titles",
+          "bn": "চার উপাধি শেখানো"
+        },
+        "p": [
+          {
+            "en": "Children often meet Isa (AS) first through other people's descriptions of him, so let this verse be the one they learn first. Write its four titles on the board, messenger, word, spirit from Him, and servant from 4:172, and ask what each one means and what none of them means. Ibn Kathir's examples help: the she-camel of Allah and the House of Allah are called His to honour them, not because they are part of Him. Then read 19:30 aloud, the child's own words from the cradle, and let the class notice that the first thing he said about himself is the thing this verse asks everyone to say.",
+            "bn": "ছোটরা প্রায়ই ঈসা (আঃ)-এর সাথে প্রথম পরিচিত হয় অন্যদের বর্ণনার মধ্য দিয়ে, তাই এই আয়াতই হোক তাদের প্রথম শেখা। বোর্ডে এর চারটি উপাধি লিখুন, রসূল, কালিমা, তাঁর পক্ষ থেকে রূহ (এই অনুবাদে ‘নির্দেশ’), আর ৪:১৭২ থেকে বান্দা, তারপর জিজ্ঞেস করুন প্রতিটির মানে কী, আর কোনোটার মানে কী নয়। ইবনে কাসীরের উদাহরণ কাজে লাগে: আল্লাহর উটনী আর আল্লাহর ঘরকে তাঁর বলা হয় সম্মান দিতে, তাঁর অংশ বলে নয়। তারপর জোরে পড়ুন ১৯:৩০, দোলনা থেকে শিশুটির নিজের কথা, আর ক্লাস লক্ষ করুক, নিজের সম্পর্কে তিনি প্রথম যা বলেছেন, এই আয়াত সবাইকে ঠিক সেটাই বলতে বলছে।"
+          }
+        ]
+      }
+    ]
   }
 });

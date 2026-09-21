@@ -5223,6 +5223,246 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Isa (AS) was neither killed nor crucified; Allah raised him, and the Quran refuses the boast without ever lowering the one it was made about.",
     "lessonBn": "ঈসা (আঃ)-কে হত্যাও করা হয়নি, ক্রুশবিদ্ধও করা হয়নি; আল্লাহ তাঁকে উঠিয়ে নিয়েছেন, আর কুরআন দাবিটা প্রত্যাখ্যান করে ঠিকই, কিন্তু যাঁকে নিয়ে দাবি, তাঁকে একটুও ছোট করে না।"
+  },
+  "4:163": {
+    "reflectionEn": "Earlier in this passage the People of the Scripture made a demand: bring us a book down from the sky. The answer is not a new miracle but a family tree. We have revealed to you, the verse says to the Prophet ﷺ, as We revealed to Nuh and the prophets after him. Then it names Ibrahim, Isma'il, Ishaq, Ya'qub and the Descendants, Isa, Ayyub, Yunus, Harun and Sulayman, and Dawud, who was given the Zabur. The revelation the Prophet ﷺ received is not a strange thing from nowhere. It is the same gift, to the same line of servants. Whoever accepts the earlier prophets and rejects this one has drawn a line Allah never drew. The verse asks me whether my faith in the messengers is whole.",
+    "reflectionBn": "এই অংশেই আগে আহলে কিতাবের দাবি এসেছে: আসমান থেকে আমাদের সামনে কিতাব নামিয়ে আনো। জবাবে নতুন কোনো মুজিজা আসে না, আসে একটা বংশতালিকা। আল্লাহ নবী ﷺ-কে বলছেন, আমি তোমার কাছে ওয়াহী পাঠিয়েছি, যেমন পাঠিয়েছিলাম নূহ ও তাঁর পরের নবীদের কাছে। তারপর নাম আসে ইবরাহীম, ইসমাঈল, ইসহাক, ইয়াকুব ও তাঁর বংশধর, ঈসা, আইয়ূব, ইউনুস, হারূন ও সুলায়মানের, আর দাঊদের, যাঁকে যাবূর দেওয়া হয়েছিল। নবী ﷺ যে ওয়াহী পেয়েছেন তা হঠাৎ কোথাও থেকে আসা অচেনা কিছু নয়। একই দান, একই বান্দাদের ধারায়। যে আগের নবীদের মানে আর এই নবী ﷺ-কে মানে না, সে এমন সীমারেখা টেনেছে যা আল্লাহ কখনো টানেননি। আয়াতটি আমাকে জিজ্ঞেস করে, রসূলদের ওপর আমার ঈমান কি পুরো?",
+    "pointsEn": [
+      "When I hear the names Nuh, Ibrahim, Musa and Isa, do I feel that their message and mine are one, or do I treat them as someone else's prophets?",
+      "The verse answers a demand for a spectacle with a reminder of a pattern. When I ask Allah for a sign, am I ignoring the signs already given?",
+      "Ayyub and Yunus are named among those who received revelation. What does it say to me that men tested by loss and by the sea stand in the same line as kings?",
+      "Dawud was given the Zabur, a book of praise. How much of what I say to Allah in a day is praise, and how much is only request?",
+      "If a prophet were sent in my time in the same way as before, would I recognise the pattern, or would I demand something new?"
+    ],
+    "pointsBn": [
+      "নূহ, ইবরাহীম, মূসা, ঈসার নাম শুনলে কি মনে হয় তাঁদের দাওয়াত আর আমার দাওয়াত একই, নাকি তাঁদের আমি অন্য কারো নবী ভাবি?",
+      "তামাশা দেখানোর দাবির জবাবে আয়াত মনে করিয়ে দেয় একটা ধারাকে। আমি যখন আল্লাহর কাছে নিদর্শন চাই, তখন কি আগে থেকে দেওয়া নিদর্শনগুলো উপেক্ষা করছি?",
+      "যাঁরা ওয়াহী পেয়েছেন তাঁদের মধ্যে আইয়ূব আর ইউনুসের নামও আছে। ক্ষতি আর সমুদ্রের পরীক্ষায় পড়া মানুষ বাদশাহদের সাথে একই সারিতে দাঁড়িয়ে, এ থেকে আমি কী শিখি?",
+      "দাঊদকে দেওয়া হয়েছিল যাবূর, প্রশংসার কিতাব। দিনে আল্লাহকে আমি যা বলি তার কতটা প্রশংসা, আর কতটা কেবল চাওয়া?",
+      "আমার সময়ে যদি আগের মতো করেই কোনো নবী আসতেন, আমি কি ধারাটা চিনতে পারতাম, নাকি নতুন কিছু দাবি করতাম?"
+    ],
+    "lessonEn": "The revelation to the Prophet ﷺ is the same gift Allah gave every prophet before him; faith in them is one faith.",
+    "lessonBn": "নবী ﷺ-এর ওয়াহী সেই একই দান যা আল্লাহ তাঁর আগের প্রতিটি নবীকে দিয়েছেন; তাঁদের ওপর ঈমান একটাই ঈমান।"
+  },
+  "4:165": {
+    "reflectionEn": "The verse tells us why messengers were sent. They came as bearers of glad tidings and warners, so that mankind would have no argument against Allah after the messengers. Allah did not leave people to guess what pleases Him and then punish them for guessing wrong. He sent men from among them who said clearly what leads to the Garden and what leads to the Fire, and then the reckoning stands. The verse closes by naming Allah Exalted in Might and Wise: He owed no one an explanation, yet He gave one. For me this cuts two ways. It is a comfort, because Allah does not punish the uninformed. It is also a weight, because the message has reached me, and the excuse I might have had is gone.",
+    "reflectionBn": "রসূল কেন পাঠানো হয়েছিল, আয়াতটি সেটাই বলে। তাঁরা এসেছিলেন সুসংবাদদাতা ও সতর্ককারী হয়ে, যাতে রসূলদের পরে আল্লাহর বিরুদ্ধে মানুষের হাতে কোনো অজুহাত না থাকে। আল্লাহ মানুষকে আন্দাজে ছেড়ে দেননি যে তারা ঠাওর করুক কীসে তিনি খুশি হন, আর ভুল ঠাওরালে শাস্তি দেবেন। তিনি তাদের মধ্য থেকেই মানুষ পাঠিয়েছেন, যাঁরা পরিষ্কার বলে দিয়েছেন কোন পথ জান্নাতে যায় আর কোন পথ জাহান্নামে। তারপর হিসাব দাঁড়ায়। আয়াত শেষ হয় আল্লাহর দুটি নামে, মহাপরাক্রমশালী ও প্রজ্ঞাময়। কাউকে কৈফিয়ত দেওয়ার দায় তাঁর ছিল না, তবু তিনি দিয়েছেন। আমার জন্য কথাটা দুই দিকে কাটে। এতে সান্ত্বনা আছে, কারণ না জেনে থাকা মানুষকে আল্লাহ শাস্তি দেন না। আবার ভারও আছে, কারণ বার্তা আমার কাছে পৌঁছে গেছে, যে অজুহাত আমার থাকতে পারত তা আর নেই।",
+    "pointsEn": [
+      "Allah sent messengers so that no one could say, I was not told. Now that I have been told, what excuse am I still quietly preparing?",
+      "Glad tidings come before warning in the verse. When I speak to others about faith, which of the two do I reach for first?",
+      "Allah is Exalted in Might, yet He explained Himself to His creation. Do I explain myself to people who are under my authority, or do I simply expect obedience?",
+      "If I met a messenger and heard the warning from his own mouth, what would I change tonight? The words of that warning are already in my hands.",
+      "Who in my life has never heard the message clearly from anyone? Could I be, for that one person, part of how the excuse is removed?"
+    ],
+    "pointsBn": [
+      "আল্লাহ রসূল পাঠিয়েছেন যাতে কেউ বলতে না পারে, আমাকে তো বলা হয়নি। আমাকে যখন বলা হয়ে গেছে, তখন চুপিচুপি আমি কোন অজুহাত এখনো সাজিয়ে রাখছি?",
+      "আয়াতে সতর্কবাণীর আগে এসেছে সুসংবাদ। মানুষের সাথে দ্বীনের কথা বলার সময় আমি আগে কোনটার দিকে হাত বাড়াই?",
+      "আল্লাহ মহাপরাক্রমশালী, তবু নিজের সৃষ্টিকে তিনি বুঝিয়ে বলেছেন। আমার অধীনে যারা আছে, তাদের আমি বুঝিয়ে বলি, নাকি কেবল আনুগত্য আশা করি?",
+      "কোনো রসূলের সাথে দেখা হলে আর তাঁর মুখে সতর্কবাণী শুনলে আজ রাতে আমি কী বদলাতাম? সেই সতর্কবাণীর কথাগুলো তো এখনই আমার হাতে।",
+      "আমার জীবনে এমন কে আছে যে কারো কাছ থেকে বার্তাটা পরিষ্কার শোনেনি? সেই একজনের অজুহাত সরানোর কাজে আমি কি একটা অংশ হতে পারি?"
+    ],
+    "lessonEn": "Allah sent messengers with good news and warning so that no one can plead ignorance; once the message reaches you, the excuse is gone.",
+    "lessonBn": "আল্লাহ সুসংবাদ ও সতর্কবাণী দিয়ে রসূল পাঠিয়েছেন যাতে কেউ না জানার অজুহাত দিতে না পারে; বার্তা পৌঁছে গেলে অজুহাত আর থাকে না।"
+  },
+  "4:171": {
+    "reflectionEn": "The verse speaks plainly to the People of the Scripture: do not go to excess in your religion, and do not say about Allah anything but the truth. Then it says who the Messiah is, in words that honour him fully: Isa the son of Maryam, a messenger of Allah, His word which He directed to Maryam, and a soul from Him. Every phrase is a gift, and none of them is divinity. So believe in Allah and His messengers, and do not say three. Stop; it is better for you. Allah is one God, exalted above having a son. This is a correction offered as counsel, with the reason attached. It asks me whether love for anyone in my religion has crept past the place Allah gave that person.",
+    "reflectionBn": "আয়াতটি আহলে কিতাবের সাথে সোজা কথায় কথা বলে: তোমাদের দ্বীনে বাড়াবাড়ি করো না, আর আল্লাহ সম্বন্ধে সত্য ছাড়া কিছু বলো না। তারপর বলে দেয় মাসীহ কে, এমন ভাষায় যা তাঁকে পুরো সম্মান দেয়: ঈসা ইবনু মারইয়াম, আল্লাহর রসূল, তাঁর কালিমা যা তিনি মারইয়ামের কাছে পৌঁছে দিয়েছেন, আর তাঁর পক্ষ থেকে এক রূহ (রূহুন মিনহু)। প্রতিটি কথা একেকটা দান, কিন্তু কোনোটাই খোদায়ি নয়। কাজেই আল্লাহ ও তাঁর রসূলদের ওপর ঈমান আনো, আর ‘তিন’ বলো না। থামো, এটাই তোমাদের জন্য ভালো। আল্লাহ এক ইলাহ, সন্তান থাকা থেকে তিনি পবিত্র। সংশোধন এসেছে নসিহতের সুরে, সাথে কারণটাও জুড়ে দেওয়া। আমাকে আয়াত জিজ্ঞেস করে, আমার দ্বীনে কারো প্রতি ভালোবাসা কি সেই জায়গা ছাড়িয়ে গেছে যেখানে আল্লাহ তাঁকে রেখেছেন?",
+    "pointsEn": [
+      "Excess in religion begins as love. Is there anyone I honour in a way that has quietly become more than Allah gave that person?",
+      "The verse states the truth about Isa (AS) fully before it corrects the error. When I correct someone, do I first say what is true and good in what they hold?",
+      "Do not say about Allah except the truth. What have I said about Allah, His mercy, His anger, His rulings, that I never actually verified?",
+      "The verse calls the correction better for you. Do I receive correction in my own beliefs as a gift, or as an attack?",
+      "Allah is sufficient as a Disposer of affairs. Where in my life do I behave as if He needed a partner to manage things?"
+    ],
+    "pointsBn": [
+      "দ্বীনে বাড়াবাড়ি শুরু হয় ভালোবাসা দিয়ে। এমন কেউ কি আছেন যাঁকে আমি এমনভাবে সম্মান করি যা চুপিচুপি আল্লাহর দেওয়া মর্যাদার চেয়ে বেশি হয়ে গেছে?",
+      "আয়াত ভুল ধরার আগে ঈসা (আঃ) সম্পর্কে পুরো সত্যটা বলে নেয়। কাউকে শুধরাতে গিয়ে আমি কি আগে বলি তার বিশ্বাসের কোনটুকু সত্য ও ভালো?",
+      "আল্লাহ সম্বন্ধে সত্য ছাড়া কিছু বলো না। আল্লাহ, তাঁর রহমত, তাঁর গজব, তাঁর হুকুম নিয়ে আমি এমন কী বলেছি যা কখনো যাচাই করিনি?",
+      "আয়াত বলে, এই সংশোধন তোমাদের জন্য ভালো। নিজের বিশ্বাসে সংশোধন এলে আমি সেটা উপহার হিসেবে নিই, নাকি আক্রমণ হিসেবে?",
+      "কর্মবিধায়ক হিসেবে আল্লাহই যথেষ্ট। জীবনের কোন জায়গায় আমি এমন আচরণ করি যেন কাজ চালাতে তাঁর কোনো শরিক লাগে?"
+    ],
+    "lessonEn": "Honour the Messiah as Allah honoured him, a messenger, His word and a soul from Him, and let no love push past the truth about Allah.",
+    "lessonBn": "মাসীহকে সেই সম্মান দিন যা আল্লাহ দিয়েছেন, রসূল, তাঁর কালিমা ও তাঁর পক্ষ থেকে রূহ; কোনো ভালোবাসা যেন আল্লাহ সম্পর্কে সত্যের সীমা না ছাড়ায়।"
+  },
+  "5:13": {
+    "reflectionEn": "The verse before this one records the covenant Allah took from the Children of Israel, with twelve leaders raised from among them and His promise, I am with you. This verse says what followed when that covenant was broken. Allah cursed them and made their hearts hard. Then it lists what a hard heart does: it shifts words from their places, forgets a portion of what it was reminded of, and deals in deceit. Yet it also says except a few, so no one is condemned by group. And it ends with a command to the Prophet ﷺ to pardon and overlook, because Allah loves those who do good. It is the history of one promise, and a warning about what breaking a promise to Allah does inside a person.",
+    "reflectionBn": "আগের আয়াতে আছে সেই অঙ্গীকার যা আল্লাহ বনী ইসরাঈলের কাছ থেকে নিয়েছিলেন, তাদের মধ্য থেকে বারোজন নেতা দাঁড় করিয়ে, আর তাঁর ওয়াদা ছিল ‘আমি তোমাদের সাথে আছি’। এই আয়াত বলে, সেই অঙ্গীকার ভাঙার পর কী হলো। আল্লাহ তাদের লানত করলেন আর তাদের অন্তর শক্ত করে দিলেন। তারপর তালিকা আসে, শক্ত অন্তর কী করে: কথাকে তার জায়গা থেকে সরিয়ে দেয়, পাওয়া উপদেশের একটা অংশ ভুলে যায়, আর বিশ্বাসঘাতকতায় জড়ায়। তবু আয়াত বলে, অল্প কয়েকজন ছাড়া, যাতে দল ধরে কাউকে দোষী করা না হয়। আর শেষ হয় নবী ﷺ-কে দেওয়া হুকুমে, মাফ করো, উপেক্ষা করো, কারণ আল্লাহ সৎকর্মশীলদের ভালোবাসেন। এ একটি ওয়াদার ইতিহাস, আর আল্লাহর সাথে ওয়াদা ভাঙলে মানুষের ভেতরে কী ঘটে তার সতর্কবাণী।",
+    "pointsEn": [
+      "The hardening came after the breaking. Which promise to Allah have I let slide, and has anything in me grown colder since?",
+      "A hard heart shifts words from their places. When a verse or a hadith does not suit me, do I ever quietly move its meaning?",
+      "They forgot a portion of what they were reminded of. What part of my religion have I simply stopped remembering because it was inconvenient?",
+      "The verse ends with pardon and overlook even toward those who dealt in deceit. Whom am I refusing to pardon, and what would it cost me to let it go?",
+      "Except a few. When I speak about any group, do I leave room for the few, as the Quran does?"
+    ],
+    "pointsBn": [
+      "শক্ত হওয়া এসেছে ভাঙার পরে। আল্লাহর সাথে কোন ওয়াদা আমি ঢিলে করে ফেলেছি, আর তারপর থেকে আমার ভেতরে কিছু কি ঠান্ডা হয়ে গেছে?",
+      "শক্ত অন্তর কথাকে তার জায়গা থেকে সরিয়ে দেয়। কোনো আয়াত বা হাদিস আমার পছন্দমতো না হলে আমি কি কখনো চুপিচুপি তার অর্থ সরিয়ে নিই?",
+      "যে উপদেশ তারা পেয়েছিল তার একটা অংশ ভুলে গিয়েছিল। আমার দ্বীনের কোন অংশ আমি স্রেফ মনে রাখা ছেড়ে দিয়েছি, কারণ তা অসুবিধাজনক ছিল?",
+      "যারা বিশ্বাসঘাতকতা করেছে তাদের ব্যাপারেও আয়াত শেষ হয় মাফ আর উপেক্ষা দিয়ে। কাকে আমি মাফ করতে অস্বীকার করছি, আর ছেড়ে দিলে আমার কী যেত?",
+      "অল্প কয়েকজন ছাড়া। কোনো দল নিয়ে কথা বলার সময় আমি কি কুরআনের মতো সেই কয়েকজনের জন্য জায়গা রাখি?"
+    ],
+    "lessonEn": "Breaking a covenant with Allah hardens the heart from within; the verse names that danger and still ends in pardon.",
+    "lessonBn": "আল্লাহর সাথে অঙ্গীকার ভাঙলে অন্তর ভেতর থেকে শক্ত হয়ে যায়; আয়াত সেই বিপদের নাম বলে, তবু শেষ করে মাফ দিয়ে।"
+  },
+  "5:54": {
+    "reflectionEn": "The verse opens with a warning and turns at once into a portrait. If any of you turns back from his religion, Allah will bring a people He loves and who love Him. Then four marks: humble toward the believers, firm against the disbelievers, striving in the cause of Allah, and unafraid of any critic's blame. Notice the order of the love: His love for them is named before theirs for Him. Notice that every mark is visible in conduct, not in claims. The verse calls all of this Allah's favour, given to whom He wills. Loving Allah is not a feeling a person reports. It is a life he is given, and it shows in how he treats people and what he is willing to be blamed for.",
+    "reflectionBn": "সাবধানবাণী দিয়ে শুরু। পরক্ষণেই আয়াতটি ছবি হয়ে ওঠে। তোমাদের কেউ নিজের দ্বীন থেকে ফিরে গেলে আল্লাহ এমন এক কওম নিয়ে আসবেন, যাদের তিনি ভালোবাসেন আর তারাও তাঁকে ভালোবাসে। তারপর চারটি চিহ্ন: মুমিনদের প্রতি কোমল, কাফিরদের প্রতি দৃঢ়, আল্লাহর পথে সংগ্রামী, আর কোনো নিন্দুকের নিন্দায় ভয় না পাওয়া। ভালোবাসার ক্রমটা খেয়াল করুন: তাদের প্রতি তাঁর ভালোবাসার কথা আগে, তাঁর প্রতি তাদের ভালোবাসার কথা পরে। এটাও খেয়াল করুন, প্রতিটি চিহ্নই দাবিতে নয়, আচরণে ধরা পড়ে। শেষে আয়াত এই সবকিছুকে আল্লাহর অনুগ্রহ বলে, যাকে ইচ্ছা তিনি দেন। আল্লাহকে ভালোবাসা মানে একটা অনুভূতির খবর দেওয়া নয়। এ এমন এক জীবন, যা মানুষকে দেওয়া হয়। আর তা ফুটে ওঠে মানুষের সঙ্গে তার আচরণে, আর কোন জিনিসের জন্য সে নিন্দা সইতে রাজি, তাতে।",
+    "pointsEn": [
+      "If someone watched me for a week, which of the four marks in this verse would they see, and which would they never guess I claim?",
+      "Am I softer with the believers than with anyone else, or do the people closest to me in faith get my hardest words?",
+      "What is the last thing I did not do, or did not say, because I feared what someone would think of me?",
+      "Do I treat Allah's love as something I have earned, or as a favour I keep asking Him for?",
+      "When I see believers around me turning away from the religion, do I despair, or do I remember who has promised to bring others?"
+    ],
+    "pointsBn": [
+      "কেউ যদি এক সপ্তাহ আমাকে দেখত, এই আয়াতের চার চিহ্নের কোনটা সে দেখতে পেত, আর কোনটা আমি দাবি করি বলে সে কল্পনাও করত না?",
+      "মুমিনদের সঙ্গে কি আমি সবার চেয়ে নরম, নাকি ঈমানে যারা আমার সবচেয়ে কাছের, আমার সবচেয়ে কড়া কথাগুলো তারাই পায়?",
+      "কে কী ভাববে, এই ভয়ে শেষ কোন কাজটা আমি করিনি, বা কোন কথাটা বলিনি?",
+      "আল্লাহর ভালোবাসাকে আমি কি নিজের কামাই মনে করি, নাকি এমন অনুগ্রহ, যা তাঁর কাছে বারবার চাইতে থাকি?",
+      "আশপাশের মুমিনদের দ্বীন থেকে সরে যেতে দেখলে আমি কি হতাশ হই, নাকি মনে রাখি, অন্যদের নিয়ে আসার ওয়াদা কে করেছেন?"
+    ],
+    "lessonEn": "Allah's love is shown in four visible marks, and the first of them is gentleness toward the believers.",
+    "lessonBn": "আল্লাহর ভালোবাসা ফুটে ওঠে চারটি দৃশ্যমান চিহ্নে, আর তার প্রথমটি মুমিনদের প্রতি কোমলতা।"
+  },
+  "5:60": {
+    "reflectionEn": "The verse answers a question put in the verse before it: what do you resent in us, except that we believe? Now the Prophet ﷺ is told to say, shall I inform you of something worse than that, as a recompense with Allah? The answer is a description, not a name. Those whom Allah cursed, with whom He was angry, some of whom He made apes and pigs, and who served false powers in place of Him: those, says the verse, are worse in position and further from the even road. Mockery is answered not with an insult but with a mirror. The verse gives no story and no detail; it gives a set of marks, and leaves every hearer to check which of them apply to him.",
+    "reflectionBn": "আগের আয়াতে একটি প্রশ্ন তোলা হয়েছিল: আমরা ঈমান এনেছি, এ ছাড়া আমাদের ওপর তোমাদের রাগ কিসের? এই আয়াত তার জবাব। নবী ﷺ-কে বলতে বলা হয়: আমি কি তোমাদের জানাব, আল্লাহর কাছে প্রতিফল হিসেবে এর চেয়ে খারাপ কী আছে? জবাবটা কোনো নাম নয়, একটি বর্ণনা। যাদের আল্লাহ লানত করেছেন, যাদের ওপর তিনি রাগ করেছেন, যাদের কাউকে কাউকে তিনি বানর ও শূকর বানিয়েছেন, আর যারা তাঁকে ছেড়ে তাগুতের গোলামি করেছে। আয়াত বলছে, অবস্থানে তারা আরও খারাপ, আর সোজা পথ থেকে আরও দূরে। ঠাট্টার জবাবে গালি আসে না, আসে একটি আয়না। আয়াতে কোনো গল্প নেই, খুঁটিনাটি নেই। আছে কয়েকটি চিহ্ন। আর প্রতিটি শ্রোতাকে আয়াত ছেড়ে দেয় এই হিসাব করতে, কোন চিহ্নটা তার নিজের গায়ে লাগে।",
+    "pointsEn": [
+      "When my religion is mocked, is my first reply an insult, or a description the mocker could measure himself against?",
+      "Which of the marks in this verse frightens me most when I read it about myself: anger, distance from mercy, or serving something in Allah's place?",
+      "What in my life has quietly become a taghut, a power I obey even when it contradicts what Allah has said?",
+      "Do I think of the even road as something I am already on, or as something I have to keep returning to?",
+      "The verse is a mirror: how long since I held it up to myself, and not only to others?"
+    ],
+    "pointsBn": [
+      "আমার দ্বীন নিয়ে কেউ ঠাট্টা করলে আমার প্রথম জবাব কি গালি, নাকি এমন একটি বর্ণনা, যার সঙ্গে ঠাট্টাকারী নিজেকে মিলিয়ে দেখতে পারে?",
+      "এই আয়াতের চিহ্নগুলো নিজের সম্পর্কে পড়লে কোনটা আমাকে সবচেয়ে ভয় পাইয়ে দেয়: আল্লাহর রাগ, তাঁর রহমত থেকে দূরত্ব, নাকি তাঁর জায়গায় অন্য কিছুর গোলামি?",
+      "আমার জীবনে কোন জিনিসটা চুপচাপ তাগুত হয়ে বসেছে, যার কথা আমি মানি, এমনকি তা আল্লাহর কথার উল্টো হলেও?",
+      "সোজা পথকে আমি কি এমন কিছু মনে করি, যার ওপর আমি এমনিতেই আছি, নাকি এমন কিছু, যেখানে আমাকে বারবার ফিরে আসতে হয়?",
+      "আয়াতটি একটি আয়না। শুধু অন্যের দিকে নয়, নিজের দিকে সেটি তুলে ধরেছি কত দিন হলো?"
+    ],
+    "lessonEn": "Answer mockery with a true description rather than an insult, and check the description against yourself first.",
+    "lessonBn": "ঠাট্টার জবাব দিন গালি দিয়ে নয়, সত্য বর্ণনা দিয়ে, আর সেই বর্ণনা আগে নিজের সঙ্গে মিলিয়ে দেখুন।"
+  },
+  "5:64": {
+    "reflectionEn": "The verse quotes a saying and answers it. Some of the Jews had said that the hand of Allah is chained, meaning that His giving had been held back. The reply moves in three steps. The chaining is turned back on the speakers' own hands; they are cursed for what they said; and then the truth is stated: rather, both His hands are extended, He spends however He wills. The one hand they alleged is answered with two. The verse then reads the rest of their story from the same fault: transgression that grows with every revelation, enmity cast among them, fires of war that Allah puts out, corruption He does not love. Underneath it all is a single question: how do I think of the One who gives?",
+    "reflectionBn": "আয়াতটি একটি কথা তুলে ধরে, তারপর তার জবাব দেয়। ইয়াহুদিদের কেউ কেউ বলেছিল, আল্লাহর হাত বাঁধা। অর্থাৎ তাঁর দেওয়া থেমে গেছে। জবাব আসে তিন ধাপে। বাঁধা থাকার কথাটা ফিরিয়ে দেওয়া হয় বক্তাদের নিজেদের হাতের ওপর, যা বলেছে তার জন্য তাদের ওপর লানত পড়ে, তারপর সত্যটা বলা হয়: বরং তাঁর দুই হাতই প্রসারিত, যেভাবে ইচ্ছা তিনি খরচ করেন। তারা বলেছিল এক হাতের কথা, জবাব এল দুই হাতে। এরপর আয়াত তাদের বাকি কাহিনিটাও ওই একই দোষ থেকে পড়ে শোনায়: প্রতিটি ওহিতে বেড়ে ওঠা সীমালঙ্ঘন, তাদের মধ্যে ছড়িয়ে দেওয়া শত্রুতা, যুদ্ধের যে আগুন আল্লাহ নিভিয়ে দেন, আর ফাসাদ, যা তিনি পছন্দ করেন না। এই সবের নিচে আছে একটাই প্রশ্ন: যিনি দেন, তাঁকে আমি কীভাবে ভাবি?",
+    "pointsEn": [
+      "When my provision narrows, what do I say about Allah in my heart, and would I be willing to say it out loud?",
+      "Is my own hand chained, and have I ever blamed my tightness on what Allah has or has not given me?",
+      "Do I spend as though the treasury I draw from can run out, or as though its Owner spends however He wills?",
+      "Which fires of war in my own life has Allah put out without my noticing, and have I thanked Him for any of them?",
+      "What is the last thing I gave away that actually cost me something?"
+    ],
+    "pointsBn": [
+      "রিজিক সংকুচিত হলে মনে মনে আল্লাহ সম্পর্কে আমি কী বলি, আর সেই কথাটা কি জোরে বলতে রাজি হব?",
+      "আমার নিজের হাত কি বাঁধা, আর নিজের কৃপণতার দোষ কি কখনো চাপিয়েছি আল্লাহ কী দিয়েছেন বা দেননি, তার ওপর?",
+      "আমি খরচ করি কি এমনভাবে, যেন যে ভান্ডার থেকে নিই তা ফুরিয়ে যেতে পারে, নাকি এমনভাবে, যেন তার মালিক যেভাবে ইচ্ছা খরচ করেন?",
+      "আমার নিজের জীবনে যুদ্ধের কোন আগুনগুলো আল্লাহ নিভিয়ে দিয়েছেন আমার খেয়াল না করেই, আর তার কোনোটির জন্য কি তাঁকে শুকরিয়া জানিয়েছি?",
+      "শেষ কোন জিনিসটা আমি দান করেছি, যা দিতে আমার সত্যিই কিছু খরচ হয়েছে?"
+    ],
+    "lessonEn": "Both His hands are extended: a person who thinks of Allah as withholding ends up with his own hand chained.",
+    "lessonBn": "তাঁর দুই হাতই প্রসারিত। যে আল্লাহকে ভাবে কৃপণ, শেষে তার নিজের হাতটাই বাঁধা পড়ে যায়।"
+  },
+  "5:72": {
+    "reflectionEn": "The verse states plainly that those who say Allah is the Messiah, son of Maryam, have disbelieved, and it refutes them not with an argument but with a witness: the Messiah himself, who said to the Children of Israel, worship Allah, my Lord and your Lord. The words my Lord and your Lord place Isa (AS) on the same side of the line as everyone he spoke to, a servant addressing servants. Then the verse states the law that governs the matter. Whoever associates others with Allah, Allah has forbidden him Paradise, his refuge is the Fire, and the wrongdoers have no helpers. The verse honours Isa (AS) by quoting him, and it guards the honour of Allah by refusing what was said about Him.",
+    "reflectionBn": "আয়াত সোজা কথায় বলে, যারা বলে মারইয়ামের পুত্র মাসীহই আল্লাহ, তারা কুফরি করেছে। আর তাদের খণ্ডন করে কোনো যুক্তি দিয়ে নয়, একজন সাক্ষী দিয়ে: স্বয়ং মাসীহ, যিনি বনী ইসরাঈলকে বলেছিলেন, তোমরা আল্লাহর ইবাদত করো, যিনি আমার রব ও তোমাদের রব। আমার রব ও তোমাদের রব, এই কথাটা ঈসা (আঃ)-কে দাঁড় করায় তাঁর শ্রোতাদের সঙ্গে একই রেখার একই পাশে। বান্দা কথা বলছেন বান্দাদের সঙ্গে। তারপর আয়াত এই বিষয়ের চূড়ান্ত বিধান জানায়। যে আল্লাহর সঙ্গে শরিক করে, আল্লাহ তার ওপর জান্নাত হারাম করেছেন, তার ঠিকানা জাহান্নাম, আর জালিমদের কোনো সাহায্যকারী নেই। আয়াত ঈসা (আঃ)-কে সম্মান দেয় তাঁর কথা উদ্ধৃত করে, আর আল্লাহর মর্যাদা রক্ষা করে তাঁর সম্পর্কে যা বলা হয়েছিল তা নাকচ করে।",
+    "pointsEn": [
+      "Can I speak of Isa (AS) with the honour the Quran gives him and still say plainly what the Quran refuses to say about Allah?",
+      "When I explain my faith to a Christian friend, do I reach first for an argument, or for the words the Messiah himself is recorded as saying?",
+      "The verse forbids Paradise to whoever associates others with Allah: what in my own worship is quietly aimed at someone other than Him?",
+      "Do I hold the line on the oneness of Allah with the same courtesy the verse shows, or with a heat the verse never uses?",
+      "If the wrongdoers have no helpers, whom am I counting on, and is it anyone other than Allah?"
+    ],
+    "pointsBn": [
+      "কুরআন ঈসা (আঃ)-কে যে সম্মান দেয়, সেই সম্মান দিয়ে কি আমি তাঁর কথা বলতে পারি, আর একই সঙ্গে সোজা কথায় বলতে পারি, আল্লাহ সম্পর্কে কুরআন কী বলতে অস্বীকার করে?",
+      "খ্রিস্টান বন্ধুকে আমার ঈমান বোঝাতে গেলে আমি কি আগে হাত বাড়াই যুক্তির দিকে, নাকি সেই কথার দিকে, যা স্বয়ং মাসীহ বলেছেন বলে লেখা আছে?",
+      "যে আল্লাহর সঙ্গে শরিক করে, আয়াত তার ওপর জান্নাত হারাম করে: আমার নিজের ইবাদতের কোন অংশ চুপচাপ তাঁকে ছাড়া অন্য কারও দিকে তাক করা?",
+      "আল্লাহর একত্বের সীমারেখা আমি কি সেই ভদ্রতা নিয়ে ধরে রাখি, যা এই আয়াত দেখায়, নাকি এমন উত্তাপে, যা আয়াত কখনো ব্যবহার করে না?",
+      "জালিমদের যদি কোনো সাহায্যকারী না থাকে, তাহলে আমি কার ওপর ভরসা করছি, আর সে কি আল্লাহ ছাড়া অন্য কেউ?"
+    ],
+    "lessonEn": "Honour the Messiah by repeating what he said: worship Allah, my Lord and your Lord.",
+    "lessonBn": "মাসীহকে সম্মান করুন তাঁর নিজের কথাটি ফিরিয়ে বলে: আল্লাহর ইবাদত করো, যিনি আমার রব ও তোমাদের রব।"
+  },
+  "5:19": {
+    "reflectionEn": "The verse is addressed to the People of the Scripture, and it speaks of a gap. Messengers had come, and then, for a long stretch, none came. Into that silence Our Messenger has come, making things clear. The reason is given in their own future words: lest you say that no bringer of good tidings or warner came to us. The excuse is quoted before anyone has used it, and then answered with the same two words, for a bringer of good tidings and a warner has come to you. The verse closes by naming Allah's power over all things. Guidance arrived because He sent it, at the moment He chose, and once it has arrived the old excuse is closed for good.",
+    "reflectionBn": "আয়াতটি আহলে কিতাবকে ডেকে বলা, আর এর বিষয় একটা শূন্যতা। রসূলরা এসেছিলেন, তারপর লম্বা একটা সময় কেউ আসেননি। সেই নীরবতার ভেতর আমার রসূল এসে গেছেন, সব স্পষ্ট করে দিচ্ছেন। কারণটা বলা হয়েছে তাদেরই ভবিষ্যৎ কথায়: যেন তোমরা বলতে না পার, আমাদের কাছে কোনো সুসংবাদদাতা বা সাবধানকারী আসেননি। কেউ অজুহাতটা মুখে আনার আগেই তা উদ্ধৃত করা হলো, আর জবাবও দেওয়া হলো ঠিক সেই দুটো শব্দ দিয়ে: সুসংবাদদাতা ও সাবধানকারী তো এসে গেছেন। শেষে আল্লাহর সর্ববিষয়ে ক্ষমতার কথা। হেদায়েত এসেছে কারণ তিনি পাঠিয়েছেন, তাঁর বেছে নেওয়া মুহূর্তে। আর একবার এসে গেলে পুরোনো অজুহাতের দরজা চিরদিনের জন্য বন্ধ।",
+    "pointsEn": [
+      "The verse closes an excuse before it is spoken. Which excuse am I still keeping ready for the day I am asked what I did with what reached me?",
+      "The Messenger ﷺ came to make things clear. What in my religion do I keep vague on purpose, because clarity would ask something of me?",
+      "Good tidings and warning arrived together. Which of the two do I listen to, and which do I quietly skip?",
+      "Guidance reached me without my asking and without a gap. When did I last thank Allah for that, instead of treating it as ordinary?",
+      "If someone near me has never really heard the message, is that silence partly mine to break?"
+    ],
+    "pointsBn": [
+      "মুখে আনার আগেই আয়াতটি একটা অজুহাত বন্ধ করে দেয়। আমার কাছে যা পৌঁছেছে তা নিয়ে কী করেছি, সেই প্রশ্নের দিনের জন্য আমি এখনো কোন অজুহাত তৈরি রেখেছি?",
+      "রসূল ﷺ এসেছিলেন সব স্পষ্ট করে দিতে। আমার দ্বীনের কোন জায়গাটা আমি ইচ্ছে করেই ঝাপসা রাখি, কারণ স্পষ্ট হলে আমার কাছে কিছু চাওয়া হবে?",
+      "সুসংবাদ আর সাবধানবাণী একসঙ্গে এসেছে। এর কোনটা আমি শুনি, আর কোনটা চুপচাপ এড়িয়ে যাই?",
+      "হেদায়েত আমার কাছে পৌঁছেছে আমার না চাইতেই, কোনো শূন্যতা ছাড়াই। এর জন্য শেষ কবে আল্লাহর শোকর করেছি, নাকি একে সাধারণ ব্যাপার ধরে নিয়েছি?",
+      "আমার আশপাশে কেউ যদি এই বাণী সত্যিই কখনো না শুনে থাকে, সেই নীরবতা ভাঙার দায় কি খানিকটা আমারও?"
+    ],
+    "lessonEn": "Once the messenger has come, the excuse of not knowing is gone; what remains is what we do with what reached us.",
+    "lessonBn": "রসূল এসে যাওয়ার পর না জানার অজুহাত আর থাকে না; বাকি থাকে শুধু, যা পৌঁছেছে তা নিয়ে আমরা কী করি।"
+  },
+  "5:25-26": {
+    "reflectionEn": "Musa (AS) had asked his people to enter the land Allah had assigned to them, and they refused, telling him to go and fight with his Lord. What follows is his prayer and Allah's answer. He says he has power over no one but himself and his brother, and asks Allah to part them from the defiantly disobedient people. The answer is a sentence of forty years: the land is forbidden to them, and they will wander through the earth. Then, in the same breath, a word to the prophet himself: do not grieve over the defiantly disobedient people. A blessing stood open at the door, and fear closed it. The cost of that fear was measured in years, and it fell on the generation that chose it.",
+    "reflectionBn": "মূসা (আঃ) তাঁর সম্প্রদায়কে বলেছিলেন আল্লাহর নির্ধারিত ভূমিতে ঢুকতে। তারা অস্বীকার করল, বলল, তুমি আর তোমার রব গিয়ে যুদ্ধ করো। এরপর আসে তাঁর দোয়া আর আল্লাহর জবাব। তিনি বলেন, নিজের আর নিজের ভাইয়ের ওপর ছাড়া কারও ওপর তাঁর ক্ষমতা নেই, আর আল্লাহর কাছে চান, এই অবাধ্য সম্প্রদায় থেকে আমাদের আলাদা করে দিন। জবাব এল চল্লিশ বছরের রায়: ভূমিটি তাদের জন্য নিষিদ্ধ, তারা যমীনে উদভ্রান্তের মতো ঘুরে বেড়াবে। আর সেই একই নিঃশ্বাসে আল্লাহ নবীকেই বলেন, এই অবাধ্য সম্প্রদায়ের জন্য হা-হুতাশ করো না। দরজার সামনে নিয়ামত খোলা ছিল, ভয় সেই দরজা বন্ধ করে দিল। সেই ভয়ের দাম মাপা হলো বছরে, আর তা পড়ল সেই প্রজন্মের ঘাড়েই যারা ভয়কে বেছে নিয়েছিল।",
+    "pointsEn": [
+      "What door has Allah opened for me that I am still standing outside of, waiting for the difficulty behind it to leave on its own?",
+      "The people told their prophet to go and fight with his Lord. When have I handed a duty back to someone else and called it realism?",
+      "Musa (AS) admitted he controlled only himself and his brother. Whose choices am I exhausting myself trying to control?",
+      "Allah told a prophet not to grieve over people who refused. When my sincere counsel is rejected, do I know when to hand my grief to Allah?",
+      "Forty years fell on one generation's refusal. What am I delaying today whose cost my children may end up paying?"
+    ],
+    "pointsBn": [
+      "আল্লাহ আমার জন্য কোন দরজা খুলে রেখেছেন, যার বাইরে আমি এখনো দাঁড়িয়ে আছি, এই আশায় যে ভেতরের কষ্টটা নিজে থেকেই সরে যাবে?",
+      "লোকেরা তাদের নবীকে বলেছিল, তুমি আর তোমার রব গিয়ে যুদ্ধ করো। আমি কবে কবে নিজের দায়িত্ব অন্যের হাতে ফিরিয়ে দিয়ে তাকে বাস্তববুদ্ধি বলে চালিয়েছি?",
+      "মূসা (আঃ) স্বীকার করেছিলেন, নিজের আর ভাইয়ের ওপর ছাড়া তাঁর হাত নেই। আমি কার কার সিদ্ধান্ত নিয়ন্ত্রণ করতে গিয়ে নিজেকে নিঃশেষ করছি?",
+      "যারা অস্বীকার করেছে, তাদের জন্য শোক না করতে আল্লাহ একজন নবীকে বলেছেন। আমার আন্তরিক উপদেশ ফিরিয়ে দেওয়া হলে, দুঃখটা কখন আল্লাহর হাতে তুলে দিতে হয়, তা কি আমি জানি?",
+      "এক প্রজন্মের অস্বীকারে চল্লিশ বছর নেমে এসেছিল। আজ আমি কোন কাজ ফেলে রাখছি, যার দাম হয়তো আমার সন্তানদের দিতে হবে?"
+    ],
+    "lessonEn": "Fear at the door of a blessing can cost years; give what you control to Allah, and leave your grief with Him too.",
+    "lessonBn": "নিয়ামতের দরজায় ভয়ের দাম বছরে গুনতে হয়; যা আপনার হাতে তা আল্লাহকে দিন, আর দুঃখটাও তাঁর কাছেই রেখে দিন।"
+  },
+  "5:41": {
+    "reflectionEn": "The verse opens with the Messenger's ﷺ heart. Do not let them grieve you, it says, before it describes who they are: people who race into disbelief, some saying with their mouths that they believe while their hearts do not, and some from among the Jews who listen eagerly to falsehood and carry what they hear to others who never came. They move words from their places, and they shop for a ruling: if you are given this, take it; if not, be careful. Then the verse turns to what no messenger controls. Whoever Allah intends to test, you cannot help against Allah in the least. The grief is real, and the limit of responsibility is real too. A caller carries the message; he does not carry hearts.",
+    "reflectionBn": "আয়াত শুরু হয় রসূল ﷺ-এর হৃদয় দিয়ে। আগে বলে, তারা যেন তোমাকে দুঃখ না দেয়, তারপর বলে তারা কারা: যারা কুফরের দিকে ছুটে যায়। কেউ মুখে বলে ঈমান এনেছি, অথচ অন্তর আনেনি। আর ইয়াহুদিদের মধ্যে কেউ কেউ, যারা মিথ্যা শুনতে উদগ্রীব, আর যা শোনে তা পৌঁছে দেয় এমন লোকদের কাছে যারা নিজেরা কখনো আসেনি। তারা শব্দকে তার জায়গা থেকে সরায়, আর রায় বেছে নেয়: এটা পেলে নাও, না পেলে সাবধান। এরপর আয়াত ফেরে সেদিকে, যা কোনো রসূলের হাতে নেই। আল্লাহ যাকে পরীক্ষায় ফেলতে চান, আল্লাহর মোকাবিলায় তার জন্য তোমার কিছুই করার নেই। দুঃখটা সত্যি, দায়িত্বের সীমাটাও সত্যি। দায়ী বাণী বয়ে নেন, অন্তর বয়ে নেন না।",
+    "pointsEn": [
+      "When I bring a question to a scholar, do I want the truth, or do I already know the answer I will accept?",
+      "The verse describes eager listeners to falsehood. What do I listen to eagerly, and what does that eagerness say about me?",
+      "Faith with the mouth while the heart stays behind: which of my words of belief has my heart not yet caught up with?",
+      "Somebody's rejection of what I hold dear grieves me. Where does my responsibility for them end and Allah's decree begin?",
+      "Moving a word from its place can be done with a quotation, a screenshot, a headline. When did I last do it?"
+    ],
+    "pointsBn": [
+      "কোনো আলিমের কাছে প্রশ্ন নিয়ে গেলে আমি কি সত্যটা চাই, নাকি কোন জবাব মানব তা আগেই ঠিক করে রাখি?",
+      "আয়াত বলে, তারা মিথ্যা শুনতে উদগ্রীব। আমি কী শুনতে উদগ্রীব, আর সেই আগ্রহ আমার সম্পর্কে কী বলে?",
+      "মুখে ঈমান, অথচ অন্তর পেছনে পড়ে আছে। আমার ঈমানের কোন কথাটার সঙ্গে আমার অন্তর এখনো তাল মেলায়নি?",
+      "আমার প্রিয় সত্যকে কেউ ফিরিয়ে দিলে আমার কষ্ট হয়। তার জন্য আমার দায়িত্ব কোথায় শেষ, আর আল্লাহর ফয়সালা কোথায় শুরু?",
+      "একটা উদ্ধৃতি, একটা স্ক্রিনশট, একটা শিরোনাম দিয়েও শব্দকে তার জায়গা থেকে সরানো যায়। আমি শেষ কবে তা করেছি?"
+    ],
+    "lessonEn": "Carry the message faithfully and leave hearts to Allah; do not grieve past the limit of what you were given to do.",
+    "lessonBn": "বাণী আমানতের সঙ্গে পৌঁছে দিন, অন্তর আল্লাহর হাতে ছেড়ে দিন; যতটুকু আপনার কাজ, তার সীমা ছাড়িয়ে দুঃখ করবেন না।"
+  },
+  "5:45": {
+    "reflectionEn": "The verse lists what the Torah ordained: life for life, eye for eye, nose, ear, tooth, and retribution for wounds. Equal for equal, and no more. Then, at the point where the injured party holds a right, the verse opens a door: whoever gives it up as charity, it is an expiation for him. Waiving a right is named with the word for charity, and it is tied to the wiping away of sins. The verse ends by saying that those who do not judge by what Allah has revealed are the wrongdoers. Justice sets the ceiling, and mercy is offered above it. Which of the two we reach for when we are the one wronged is left to us.",
+    "reflectionBn": "আয়াত জানায় তাওরাতে কী বিধান ছিল: জানের বদলে জান, চোখের বদলে চোখ, নাক, কান, দাঁত, আর জখমের বদলে কিসাস। সমানের বদলে সমান, তার বেশি নয়। তারপর, ঠিক যেখানে ক্ষতিগ্রস্ত মানুষটির হাতে একটা হক আছে, সেখানে আয়াত একটা দরজা খুলে দেয়: কেউ তা সদকা হিসেবে ছেড়ে দিলে তা তার জন্য কাফফারা। হক ছেড়ে দেওয়াকে ডাকা হলো সদকা নামে, আর তাকে জুড়ে দেওয়া হলো গুনাহ মুছে যাওয়ার সঙ্গে। শেষে বলা হয়, আল্লাহ যা নাযিল করেছেন সে অনুযায়ী যারা ফয়সালা করে না, তারাই যালিম। ইনসাফ ঠিক করে দেয় সর্বোচ্চ সীমা, তার ওপরে রহমতের প্রস্তাব। যখন আমরা নিজেরাই মজলুম, তখন কোনটার দিকে হাত বাড়াব, সেটা আমাদের হাতে।",
+    "pointsEn": [
+      "Who has wronged me, and what is the exact measure of what they owe? Have I ever let anger add to that measure?",
+      "The verse calls giving up a right charity. Is there a right I could give away today that would cost me pride and buy me expiation?",
+      "Equal for equal was ordained in the Torah and confirmed for us. Do I honour that justice when I am the one who has done the harm?",
+      "Expiation is offered to the one who pardons. What in my own record am I hoping to have wiped away, and what am I willing to release for it?",
+      "When I judge between two people, even in a family quarrel, do I judge by what Allah revealed, or by whom I like more?"
+    ],
+    "pointsBn": [
+      "কে আমার ওপর জুলুম করেছে, আর তার কাছে আমার পাওনা ঠিক কতটুকু? রাগ কি কখনো সেই মাপের সঙ্গে বাড়তি যোগ করেছে?",
+      "আয়াত হক ছেড়ে দেওয়াকে সদকা বলে। এমন কোনো হক কি আছে যা আজ ছেড়ে দিলে আমার অহংকারে লাগবে, কিন্তু বিনিময়ে কাফফারা মিলবে?",
+      "সমানের বদলে সমান তাওরাতে বিধান ছিল, আমাদের জন্যও বহাল। ক্ষতিটা যখন আমি করি, তখন কি আমি সেই ইনসাফ মেনে নিই?",
+      "কাফফারা দেওয়া হয় তাকে, যে মাফ করে। আমার আমলনামায় কী কী মুছে যাক বলে আশা করি, আর তার জন্য কী ছাড়তে রাজি আছি?",
+      "দুজনের মধ্যে ফয়সালা করার সময়, এমনকি পারিবারিক ঝগড়াতেও, আমি কি আল্লাহর নাযিল করা বিধান দেখি, নাকি কাকে বেশি পছন্দ করি তা দেখি?"
+    ],
+    "lessonEn": "Justice takes exactly what is owed; the one who gives up his right as charity is given expiation instead.",
+    "lessonBn": "ইনসাফ নেয় ঠিক যতটুকু পাওনা; যে নিজের হক সদকা করে ছেড়ে দেয়, তার বদলে সে পায় কাফফারা।"
   }
 };
 
