@@ -49,10 +49,26 @@ class HajjModule {
     this.root.innerHTML = `
       <div class="w-full space-y-6 py-4">
         <div class="rounded-2xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-hidden">
-          <div class="p-6 bg-gradient-to-br from-emerald-50 to-transparent dark:from-emerald-900/10">
-            <div class="text-4xl mb-2" aria-hidden="true">🕋</div>
-            <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100">${T('learn_hajj_title')}</h2>
-            <p class="text-gray-500 dark:text-gray-400 mt-1 text-sm">${L({ en: 'Pilgrimage to Makkah — one of the five pillars of Islam.', bn: 'মক্কায় হজ — ইসলামের পঞ্চস্তম্ভের একটি।' })}</p>
+          <div class="p-6 bg-gradient-to-br from-emerald-50 to-transparent dark:from-emerald-900/10
+                      flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+            <div class="min-w-0">
+              <div class="text-4xl mb-2" aria-hidden="true">🕋</div>
+              <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100">${T('learn_hajj_title')}</h2>
+              <p class="text-gray-500 dark:text-gray-400 mt-1 text-sm">${L({ en: 'Pilgrimage to Makkah — one of the five pillars of Islam.', bn: 'মক্কায় হজ — ইসলামের পঞ্চস্তম্ভের একটি।' })}</p>
+            </div>
+            <!-- Companion app: the step-by-step Hajj guide. It is a separate site, so it
+                 opens in a new tab and says so, rather than looking like an in-app tab. -->
+            <a href="https://hajj-guide-bn.web.app/" target="_blank" rel="noopener noreferrer"
+               class="shrink-0 inline-flex items-center gap-2 px-4 py-2.5 rounded-xl
+                      bg-emerald-600 text-white text-sm font-medium shadow-sm
+                      hover:bg-emerald-700 focus:outline-none focus-visible:ring-2
+                      focus-visible:ring-emerald-500 focus-visible:ring-offset-2
+                      dark:focus-visible:ring-offset-gray-800 transition-colors">
+              <span aria-hidden="true">🧭</span>
+              <span>${L({ en: 'Step-by-step Hajj guide', bn: 'ধাপে ধাপে হজ গাইড' })}</span>
+              <span aria-hidden="true">↗</span>
+              <span class="sr-only">${L({ en: '(opens hajj-guide-bn.web.app in a new tab)', bn: '(নতুন ট্যাবে hajj-guide-bn.web.app খুলবে)' })}</span>
+            </a>
           </div>
         </div>
 
