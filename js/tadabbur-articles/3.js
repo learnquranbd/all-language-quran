@@ -1513,7 +1513,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "16:123 then tells the Prophet ﷺ to follow the religion of Ibrahim, inclining toward truth, which is the bond our passage names when it counts this Prophet among the nearest to him. 22:78 calls the believers' religion the religion of your father Ibrahim and says that Allah named you Muslims before and in this revelation. And 3:95, later in this same surah, closes the argument with a command: say, Allah has told the truth, so follow the religion of Ibrahim, inclining toward truth.",
-            "bn": "১৬:১২৩ আয়াতে নবী ﷺ-কে ওহি করে বলা হয়, একনিষ্ঠ ইবরাহীমের পথ অনুসরণ করুন। আমাদের অংশটি যখন এই নবীকে ইবরাহীমের সবচেয়ে কাছের মানুষদের মধ্যে গোনে, তখন এই বন্ধনের কথাই বলে। ২২:৭৮ আয়াত মুমিনদের দ্বীনকে বলে তোমাদের পিতা ইবরাহীমের দ্বীন, আর জানায় আল্লাহ আগেও তোমাদের নাম রেখেছেন মুসলিম, এই কিতাবেও। একই সূরার পরের দিকে ৩:৯৫ আয়াত তর্কের ইতি টানে একটি হুকুম দিয়ে: বলুন, আল্লাহ সত্য বলেছেন, তাই একনিষ্ঠভাবে ইবরাহীমের অনুসরণ করো।"
+            "bn": "১৬:১২৩ আয়াতে নবী ﷺ-কে ওহি করে বলা হয়, একনিষ্ঠ ইবরাহীমের পথ অনুসরণ করুন। আমাদের অংশটি যখন এই নবী ﷺ-কে ইবরাহীমের সবচেয়ে কাছের মানুষদের মধ্যে গোনে, তখন এই বন্ধনের কথাই বলে। ২২:৭৮ আয়াত মুমিনদের দ্বীনকে বলে তোমাদের পিতা ইবরাহীমের দ্বীন, আর জানায় আল্লাহ আগেও তোমাদের নাম রেখেছেন মুসলিম, এই কিতাবেও। একই সূরার পরের দিকে ৩:৯৫ আয়াত তর্কের ইতি টানে একটি হুকুম দিয়ে: বলুন, আল্লাহ সত্য বলেছেন, তাই একনিষ্ঠভাবে ইবরাহীমের অনুসরণ করো।"
           }
         ]
       },
