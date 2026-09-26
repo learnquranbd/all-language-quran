@@ -3003,6 +3003,310 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:188": {
+    "sections": [
+      {
+        "h": {
+          "en": "Following the Hour's Question",
+          "bn": "ক্বিয়ামাতের প্রশ্নের পরেই"
+        },
+        "p": [
+          {
+            "en": "Surah al-A'raf is Makkan, and this verse belongs to the long closing stretch where the surah turns from the ruined nations to the men listening in Makkah. 7:187 has just recorded their question about the Hour and the answer given to it, that its knowledge is only with my Lord. 7:188 is the next sentence from the same mouth, and it widens the denial from one piece of knowledge to the whole question of power. Having said he does not know when, he now says he does not own what happens to himself.",
+            "bn": "সূরা আল-আ'রাফ মাক্কী, আর এ আয়াত সূরার শেষ দিকের সেই লম্বা অংশে, যেখানে ধ্বংস হয়ে যাওয়া জাতিগুলোর কথা ছেড়ে আলোচনা ফিরে আসে মাক্কার শ্রোতাদের দিকে। ৭:১৮৭ আয়াতে তাদের প্রশ্ন আর তার জবাব সদ্য এসেছে: ক্বিয়ামাতের খবর কেবল আমার প্রতিপালকের কাছে। ৭:১৮৮ একই মুখ থেকে বেরোনো পরের বাক্য, আর এখানে অস্বীকারটা কেবল একটা জ্ঞানের বিষয় ছাড়িয়ে ক্ষমতার গোটা প্রশ্নে পৌঁছে যায়। কখন হবে তা জানি না বলার পর এবার বলছেন, নিজের সাথে যা ঘটে তারও মালিক আমি নই।"
+          },
+          {
+            "en": "al-Qurtubi reads the two verses as one movement. I do not own the drawing of good to myself nor the repelling of evil from myself, he glosses, so how would I own the knowledge of the Hour? The argument runs from the small thing to the large. A man who cannot secure his own morning is not the man holding the calendar of the world. The order of the surah makes that point without having to state it.",
+            "bn": "কুরতুবী দুই আয়াতকে একই টানের অংশ হিসেবে পড়েন। তাঁর ব্যাখ্যা এমন: নিজের দিকে ভালো টেনে আনা বা নিজের থেকে মন্দ সরানো, কোনোটার মালিকই আমি নই; তাহলে ক্বিয়ামাতের জ্ঞানের মালিক হব কী করে? যুক্তিটা ছোট থেকে বড়র দিকে চলে। যে লোক নিজের সকালটুকুই নিরাপদ করতে পারে না, দুনিয়ার সময়সূচি তার হাতে থাকে না। সূরার সাজানো ক্রমই কথাটা বুঝিয়ে দেয়, আলাদা করে বলার দরকার পড়ে না।"
+          },
+          {
+            "en": "The commentators record no established occasion of revelation for this verse, and none is needed, because its placement does the work. Four verses earlier, in 7:184, the same audience had called him mad. Three verses later the surah turns on the idols in 7:191 and strips them of every power they were credited with. Between the insult and the idols stands one man saying plainly what he does not have, and the plainness is the argument.",
+            "bn": "মুফাসসিরগণ এ আয়াতের জন্য কোনো প্রমাণিত শানে নুযূল উল্লেখ করেননি, আর দরকারও নেই; আয়াতের অবস্থানই কাজটা করে দিচ্ছে। চার আয়াত আগে ৭:১৮৪ আয়াতে এই শ্রোতারাই তাঁকে ﷺ উম্মাদ বলেছিল। তিন আয়াত পরে ৭:১৯১ আয়াতে সূরা মূর্তিগুলোর দিকে ঘোরে এবং তাদের নামে চালু থাকা সব ক্ষমতা খুলে নেয়। গালি আর মূর্তির মাঝখানে একজন মানুষ দাঁড়িয়ে সোজা কথায় বলছেন তাঁর হাতে কী নেই। এই সোজা কথাটাই যুক্তি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Verb That Means Owning",
+          "bn": "মালিক হওয়ার ক্রিয়াপদ"
+        },
+        "p": [
+          {
+            "en": "The verse opens with qul, say, and then la amliku. The verb comes from the root m-l-k, ownership and control, and not from a verb of mere ability. He is not only saying that he cannot; he is saying that he does not hold the thing. Two objects follow, naf'an and darran, a benefit and a harm, both without the definite article, so the denial reaches any benefit and any harm whatever. And both are denied li-nafsi, for myself, before anyone thinks to ask about other people.",
+            "bn": "আয়াত শুরু হয় কুল দিয়ে, অর্থাৎ বল, এরপর লা আমলিকু। ক্রিয়াপদটি মীম-লাম-কাফ মূল থেকে, যার অর্থ মালিকানা ও নিয়ন্ত্রণ, নিছক সামর্থ্যের কোনো শব্দ নয়। তিনি ﷺ শুধু বলছেন না যে পারি না; বলছেন, জিনিসটা আমার হাতেই নেই। এরপর দুটো কর্ম আসে, নাফ'আন আর দাররান, ভালো আর মন্দ, দুটোই নির্দিষ্টতাবাচক আলিফ-লাম ছাড়া, তাই অস্বীকারটা যেকোনো ভালো আর যেকোনো মন্দ পর্যন্ত পৌঁছে যায়। আর দুটোই অস্বীকার করা হচ্ছে লিনাফসী অর্থাৎ নিজের জন্য, অন্যদের কথা কারও মাথায় আসার আগেই।"
+          },
+          {
+            "en": "Then the exception: illa ma sha'a Allah, except what Allah has willed. at-Tabari fills it in exactly. It means except what Allah wills that I should own of that, by strengthening me for it and aiding me in it. The clause does not soften the denial at all. It moves the whole capacity back to its owner and leaves the speaker holding it on loan, and only for as long as it is lent to him.",
+            "bn": "এরপর ব্যতিক্রমটি: ইল্লা মা শা-আল্লাহ, আল্লাহ যা চান তা ছাড়া। তাবারী কথাটা পুরো করে দেন। অর্থ হল, আল্লাহ আমাকে যতটুকুর মালিক করতে চান তা ছাড়া, আর সেটা এভাবে যে তিনি আমাকে তার জন্য শক্তি দেন এবং সাহায্য করেন। এ অংশটুকু অস্বীকারকে হালকা করে না। পুরো ক্ষমতাটা আসল মালিকের হাতে ফিরিয়ে দেয়, আর বক্তার হাতে থাকে ধার হিসেবে, যতক্ষণ ধার দেওয়া থাকে ততক্ষণই।"
+          },
+          {
+            "en": "The middle of the verse is a conditional in the contrary-to-fact form: law kuntu a'lamu al-ghayb, had I been one who knows the unseen. Arabic law presents its condition as unreal, so the sentence denies the knowledge in the very act of imagining it. Two results hang on it, one gained and one avoided: lastakthartu mina al-khayr, I would have amassed much good, and wa ma massaniya as-su', and no harm would have touched me.",
+            "bn": "আয়াতের মাঝখানে শর্তবাক্যটি এমন ভঙ্গিতে, যা বাস্তবে ঘটেনি: লাও কুনতু আ'লামুল গায়ব, যদি আমি অদৃশ্যের জ্ঞানী হতাম। আরবিতে লাও শর্তটিকে অবাস্তব ধরেই পেশ করে, তাই কল্পনা করার মুহূর্তেই বাক্যটি জ্ঞানটাকে নাকচ করে দেয়। এর উপর দুটো ফল ঝুলছে, একটা পাওয়ার আর একটা এড়ানোর: লাসতাকসারতু মিনাল খায়র, আমি অনেক কল্যাণ জমিয়ে নিতাম, আর ওয়ামা মাসসানিয়াস সূ, আর কোনো অকল্যাণ আমাকে ছুঁত না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Readings of the Good",
+          "bn": "খায়র নিয়ে তিন পাঠ"
+        },
+        "p": [
+          {
+            "en": "at-Tabari records that the commentators divided over what al-khayr means here. One group, and he names Ibn Jurayj and Mujahid, read it as righteous deeds: had I known when I would die, I would have stored up much good work. Ibn Zayd took the sentence from its other end, reading the clause about harm: I would have kept away from the evil that was coming and guarded myself against it. A third group read the word materially, as worldly provision.",
+            "bn": "তাবারী জানাচ্ছেন, এখানে খায়র শব্দের অর্থ নিয়ে মুফাসসিরদের মধ্যে মতভেদ হয়েছে। এক দল, যাঁদের মধ্যে তিনি ইবনু জুরায়জ ও মুজাহিদের নাম নেন, এর অর্থ নিয়েছেন নেক আমল: কখন মরব জানা থাকলে আমি অনেক নেক আমল জমিয়ে রাখতাম। ইবনু যায়দ বাক্যটি ধরেছেন অন্য প্রান্ত থেকে, ক্ষতির অংশটি ব্যাখ্যা করে: সামনে যে মন্দ আসছিল তা থেকে দূরে থাকতাম আর নিজেকে বাঁচিয়ে রাখতাম। তৃতীয় দল শব্দটিকে দুনিয়ার রিযিকের অর্থে পড়েছেন।"
+          },
+          {
+            "en": "That third reading is the plainest of them. Had he known the unseen, he would have prepared in the year of plenty for the year of drought, and known the dear price from the cheap one, and laid in stock while things were cheap. al-Qurtubi reports it from Ibn Abbas in nearly those words and adds two more: had I known when victory in a battle would come, I would have fought and not been beaten; and had I known which goods would sell, I would have bought them when trade was slack.",
+            "bn": "এই তৃতীয় পাঠটাই সবচেয়ে সহজ। অদৃশ্য জানা থাকলে তিনি ﷺ সচ্ছল বছরেই দুর্ভিক্ষের বছরের ব্যবস্থা করে রাখতেন, চড়া দাম আর সস্তা দামের খবর আগেই পেতেন, সস্তার সময় মাল তুলে রাখতেন। কুরতুবী ইবনু আব্বাস (রাঃ) থেকে প্রায় এ কথাই এনেছেন, সাথে আরও দুটো যোগ করেছেন: যুদ্ধে কখন জয় আসবে জানা থাকলে আমি লড়তাম আর হারতাম না; আর কোন মাল চলবে জানা থাকলে বাজার মন্দার সময়েই তা কিনে রাখতাম।"
+          },
+          {
+            "en": "as-Sa'di does not choose between the readings; he gathers them into one principle. His opening gloss is blunt: I am poor and governed, no good reaches me except from Allah, and I have no knowledge except what Allah has taught me. Had I known things before they were, he continues, I would have taken the means I knew produced benefit and avoided all that ends in harm; and since I do not, harm reaches me and worldly goods pass me by. That, he says, is the clearest proof that I have no knowledge of the unseen.",
+            "bn": "সা'দী কোনো এক পাঠ বেছে নেন না; সবগুলোকে একটা নীতিতে জড়ো করেন। তাঁর শুরুর ব্যাখ্যাটা খোলাখুলি: আমি ফকির আর পরিচালিত, আল্লাহর কাছ থেকে ছাড়া আমার কাছে কোনো ভালো আসে না, আর আল্লাহ যা শিখিয়েছেন তা ছাড়া আমার কোনো জ্ঞান নেই। তিনি বলে চলেন, জিনিস ঘটার আগেই জানা থাকলে আমি সেই উপায়গুলোই ধরতাম যা উপকার আনে বলে জানতাম, আর যা মন্দে গিয়ে ঠেকে সব এড়িয়ে চলতাম; যেহেতু জানি না, তাই ক্ষতি আমাকে ছোঁয় আর দুনিয়ার লাভ হাত ফসকে যায়। সা'দীর ভাষায় এটাই সবচেয়ে বড় প্রমাণ যে অদৃশ্যের জ্ঞান আমার নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Said to His Own Daughter",
+          "bn": "নিজের মেয়েকেও একই কথা"
+        },
+        "p": [
+          {
+            "en": "The tafsir at this verse quotes no narration of the Prophet ﷺ on the verse itself. What stands beside it is a hadith the collections place at 26:214, where the same denial is made to his own household. Sahih al-Bukhari 2753, from Abu Hurayrah (RA): when the verse commanding him to warn his closest kindred came down, he ﷺ stood and said, O people of Quraysh, buy yourselves, for I cannot save you from Allah in anything.",
+            "bn": "এ আয়াতের তাফসীরে নবী ﷺ-এর কোনো বর্ণনা উদ্ধৃত হয়নি। এর পাশে যা রাখা যায় তা হাদীসগ্রন্থে ২৬:২১৪ আয়াতের সাথে আসে, যেখানে একই অস্বীকার তিনি নিজের পরিবারের সামনে করেছেন। সহীহ বুখারী ২৭৫৩, আবূ হুরাইরা (রাঃ) থেকে: যখন নিকটাত্মীয় স্বজনদের সতর্ক করার হুকুম নামল, তিনি ﷺ দাঁড়িয়ে বললেন, হে কুরাইশ সম্প্রদায়, নিজেদেরকে কিনে নাও, আল্লাহর কাছে আমি তোমাদের কোনো কাজে আসব না।"
+          },
+          {
+            "en": "He went down the list by name, his uncle al-Abbas, his aunt Safiyyah, and then his daughter: O Fatimah bint Muhammad, ask me what you wish of my wealth, but I cannot save you from Allah in anything. The offer and the refusal sit inside one sentence. What he had, he gave away freely. What he did not have he would not pretend to, not even for her. 7:188 is that same sentence turned on himself.",
+            "bn": "তিনি ﷺ নাম ধরে ধরে বলে গেলেন, চাচা আব্বাস, ফুপু সাফিয়্যা, তারপর নিজের মেয়ে: হে মুহাম্মাদের কন্যা ফাতিমা, আমার সম্পদ থেকে যা চাও চেয়ে নাও, কিন্তু আল্লাহর কাছে আমি তোমার কোনো কাজে আসব না। একই বাক্যের ভেতরে দান আর অস্বীকার দুটোই আছে। যা তাঁর কাছে ছিল, খোলা হাতে দিয়েছেন। যা ছিল না, তার ভান করেননি, নিজের মেয়ের জন্যও না। ৭:১৮৮ সেই একই কথা, এবার নিজের দিকেই ফেরানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Places He Says It",
+          "bn": "আরও যেখানে এ কথা"
+        },
+        "p": [
+          {
+            "en": "10:49 repeats the clause almost word for word, I possess not for myself any harm or benefit except what Allah should will, and then attaches it to the appointed term of every nation, so the denial answers a question about timing again. 6:50 gives the fuller version: he does not claim the treasuries of Allah, nor knowledge of the unseen, nor to be an angel, and follows only what is revealed to him.",
+            "bn": "১০:৪৯ আয়াতে কথাটা প্রায় হুবহু ফিরে আসে, আল্লাহর ইচ্ছে ছাড়া নিজের কোনো ক্ষতি বা লাভ করার ক্ষমতা আমার নেই, আর তারপর তা জুড়ে দেওয়া হয় প্রত্যেক জাতির নির্দিষ্ট মেয়াদের সাথে; ফলে অস্বীকারটা আবারও সময় নিয়ে করা প্রশ্নের জবাব হয়ে দাঁড়ায়। ৬:৫০ আয়াতে পুরো তালিকাটা আসে: তিনি ﷺ আল্লাহর ধনভাণ্ডারের দাবি করেন না, অদৃশ্যের জ্ঞানেরও নয়, ফেরেশতা হওয়ারও নয়, আর কেবল সেটুকুই অনুসরণ করেন যা তাঁর প্রতি ওয়াহী করা হয়।"
+          },
+          {
+            "en": "11:31 puts those same three denials in the mouth of Nuh (AS) and adds a fourth of its own, which shows they were never a concession squeezed out of one prophet but the standing description of the office. 46:9 pushes further: nor do I know what will be done with me or with you. And 27:65 states the rule the whole set rests on, that none in the heavens and the earth knows the unseen except Allah.",
+            "bn": "১১:৩১ আয়াতে ঠিক এই তিনটি অস্বীকার নূহ (আ)-এর মুখে বসানো হয়েছে, সাথে নিজের একটা চতুর্থ কথাও যোগ হয়েছে; এতে বোঝা যায় এগুলো কোনো এক নবীর কাছ থেকে আদায় করে নেওয়া স্বীকারোক্তি নয়, বরং নবুওয়াতের পদটির স্থায়ী বর্ণনা। ৪৬:৯ আয়াত আরও এগোয়: আমার সাথে বা তোমাদের সাথে কী করা হবে, তাও আমি জানি না। আর ২৭:৬৫ আয়াত সেই মূল নীতি বলে দেয় যার উপর গোটা কথাটা দাঁড়িয়ে আছে, আসমান-যমীনে আল্লাহ ছাড়া কেউ অদৃশ্য জানে না।"
+          },
+          {
+            "en": "72:26-27 completes the picture without contradicting it. Allah does not disclose His unseen to anyone except a messenger He has approved, which is exactly how revelation reaches a man who has just denied knowing the unseen. What he has is given, in measure, and on the Sender's terms. 3:128 draws the same line inside a battle, telling him plainly that the decision is not his to make.",
+            "bn": "৭২:২৬-২৭ আয়াত ছবিটা পূর্ণ করে, কোনো বিরোধ তৈরি না করেই। আল্লাহ তাঁর অদৃশ্যের জ্ঞান কারও কাছে খোলেন না, কেবল তাঁর মনোনীত রসূল ছাড়া; আর ঠিক এভাবেই ওয়াহী এসে পৌঁছায় সেই মানুষের কাছে, যিনি সদ্য অদৃশ্য জানা অস্বীকার করেছেন। তাঁর কাছে যা আছে তা দেওয়া হয়েছে, মাপমতো, আর দাতার শর্তে। ৩:১২৮ আয়াত যুদ্ধের ভেতরে একই সীমা টেনে দেয়, সোজা বলে দেয় যে সিদ্ধান্ত তাঁর হাতে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Requests Actually Go",
+          "bn": "আবেদন আসলে কোথায় যায়"
+        },
+        "p": [
+          {
+            "en": "as-Sa'di draws the practical conclusion at this verse and does not soften it. These verses, he writes, make plain the ignorance of anyone who heads for the Prophet ﷺ and calls upon him to obtain a benefit or to have a harm removed, for nothing of the matter is in his hand. He cannot benefit one whom Allah has not benefited, and he cannot ward off harm from one from whom Allah has not warded it.",
+            "bn": "সা'দী এ আয়াত থেকেই কাজের কথাটা বের করে আনেন, আর কিছুমাত্র নরম করেন না। তিনি লেখেন, এ আয়াতগুলো সেই লোকের অজ্ঞতা খুলে দেয় যে নবী ﷺ-এর কাছে গিয়ে কোনো ফায়দা পাওয়ার বা কোনো ক্ষতি সরানোর জন্য তাঁকে ডাকে, কারণ এ বিষয়ের কিছুই তাঁর হাতে নেই। আল্লাহ যাকে উপকার দেননি তিনি তাকে উপকার দিতে পারেন না, আর আল্লাহ যার থেকে ক্ষতি সরাননি তার থেকে তিনি ক্ষতি সরাতে পারেন না।"
+          },
+          {
+            "en": "as-Sa'di's same passage then says what he does have, and says it in the largest terms available. His benefit to us surpassed the benefit of fathers and mothers and closest friends, because he urged the servants of Allah toward every good and warned them away from every evil and made it as clear as it could be made. Love him, learn from him, follow what he brought: that is the traffic the verse leaves wide open.",
+            "bn": "এরপর একই আলোচনায় সা'দী বলেন তাঁর ﷺ কাছে আসলে কী আছে, আর বলেন সবচেয়ে বড় ভাষায়। আমাদের প্রতি তাঁর উপকার বাপ-মা আর সবচেয়ে ঘনিষ্ঠ বন্ধুদের উপকারকেও ছাড়িয়ে গেছে, কারণ তিনি বান্দাদের প্রতিটি ভালো কাজের দিকে তাগিদ দিয়েছেন, প্রতিটি মন্দ থেকে সাবধান করেছেন, আর যতটা পরিষ্কার করে বলা যায় ততটাই করেছেন। তাঁকে ভালোবাসুন, তাঁর কাছে শিখুন, তিনি যা এনেছেন তা মেনে চলুন; আয়াত এই পথটাই পুরো খোলা রেখে দিয়েছে।"
+          },
+          {
+            "en": "There is a second application, quieter and closer to home. If the one who received revelation did not know his own tomorrow, then the habit of planning as though you should know yours is misplaced anxiety. Take the means, as as-Sa'di says. Prepare in the cheap year for the dear one, as the commentators read the verse. Then stop demanding of yourself a certainty that was withheld from the best of creation.",
+            "bn": "দ্বিতীয় একটা প্রয়োগ আছে, আরও চুপচাপ আর আরও কাছের। যাঁর কাছে ওয়াহী আসত তিনিই যদি নিজের আগামীকাল না জানতেন, তাহলে নিজের আগামীকাল জানা উচিত ধরে নিয়ে পরিকল্পনা করার অভ্যাসটা অকারণ দুশ্চিন্তা। সা'দী যেমন বলেন, উপায়গুলো ধরুন। মুফাসসিরগণ আয়াতটি যেভাবে পড়েছেন, সস্তার বছরেই চড়া বছরের ব্যবস্থা করুন। তারপর নিজের কাছ থেকে এমন নিশ্চয়তা দাবি করা ছেড়ে দিন, যা সৃষ্টির সেরা মানুষটিকেও দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking the One Who Owns",
+          "bn": "যিনি মালিক তাঁর কাছেই চাওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse hands the reader a supplication by handing him its vocabulary. Turn the denial into a request and it prays itself: O Allah, I own for myself neither benefit nor harm, so bring me the good You have decreed for me and keep from me the harm I cannot see coming. You know the unseen and I do not. Do not leave me to the little I know. That is the verse's own wording made into asking, and not a narration.",
+            "bn": "আয়াতটি নিজের শব্দভাণ্ডার ধরিয়ে দিয়েই পাঠকের হাতে একটা দোয়া তুলে দেয়। অস্বীকারটাকে আবেদনে বদলে দিলে সেটা নিজে থেকেই দোয়া হয়ে যায়: হে আল্লাহ, নিজের ভালো বা মন্দ কোনোটার মালিক আমি নই; আপনি আমার জন্য যে কল্যাণ লিখে রেখেছেন তা এনে দিন, আর যে ক্ষতি আমি আসতে দেখি না তা আমার থেকে সরিয়ে রাখুন। আপনি অদৃশ্য জানেন, আমি জানি না। আমার সামান্য জানার উপর আমাকে ছেড়ে দেবেন না। এটা আয়াতের শব্দ দিয়েই গড়া চাওয়া, কোনো বর্ণনা নয়।"
+          },
+          {
+            "en": "A Sunnah supplication carries the same content with authority behind it. Sahih al-Bukhari 1166, from Jabir ibn Abdullah (RA), gives the du'a of istikharah: O Allah, I ask guidance from Your knowledge and power from Your Might, and I ask of Your great bounty; for You are able and I am not, and You know and I do not, and You are the Knower of the unseen. Read 7:188 first and that du'a stops sounding like a method for reading the future.",
+            "bn": "সুন্নাহর একটি দোয়া একই কথা বহন করে, পেছনে প্রমাণসহ। সহীহ বুখারী ১১৬৬, জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে, ইসতিখারার দোয়া দেয়: হে আল্লাহ, আমি আপনার জ্ঞানের মাধ্যমে কল্যাণ চাই, আপনার কুদরতের মাধ্যমে সামর্থ্য চাই, আর আপনার বিপুল অনুগ্রহ প্রার্থনা করি; কারণ আপনি পারেন, আমি পারি না, আপনি জানেন, আমি জানি না, আর আপনিই অদৃশ্যের জ্ঞানী। আগে ৭:১৮৮ পড়ে নিলে এ দোয়াকে আর ভবিষ্যত পড়ার কোনো কৌশল বলে মনে হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Way You Turn First",
+          "bn": "কার দিকে ফিরছেন"
+        },
+        "p": [
+          {
+            "en": "Where do you first take a harm you cannot see the shape of? Is it to Allah, or to a person, a plan, a habit that has stood in for Him before? And when you finally do ask Him, are you asking, or are you negotiating from a position you imagine you hold? The verse removes a position from the Prophet ﷺ himself. It is worth noticing how reluctant you are to let it be removed from you.",
+            "bn": "যে ক্ষতির আকারটাই আপনি দেখতে পান না, তা নিয়ে সবার আগে কোথায় যান? আল্লাহর কাছে, নাকি কোনো মানুষ, কোনো পরিকল্পনা, কিংবা এমন কোনো অভ্যাসের কাছে যা আগেও তাঁর জায়গা দখল করেছে? আর শেষে যখন তাঁর কাছেই চান, তখন কি সত্যিই চান, নাকি নিজের কল্পিত কোনো অবস্থান থেকে দরাদরি করেন? আয়াতটি নবী ﷺ-এর কাছ থেকেই একটা অবস্থান সরিয়ে দিচ্ছে। আপনার কাছ থেকে সরাতে আপনার কতটা আপত্তি, সেটা খেয়াল করার মতো।"
+          },
+          {
+            "en": "What are you doing today only because you assume you will be here for the result of it? And what have you left undone for the same reason? One reading of al-khayr in this verse is the righteous deed a man would stockpile if he knew his date. You do not know it, which is the whole point, and the deed is available anyway. Which one would you do this week if the date were next month?",
+            "bn": "আজ আপনি এমন কী করছেন, যা করছেন কেবল এই ধরে নিয়ে যে এর ফল দেখার সময় আপনি থাকবেন? আর একই কারণে কী কী কাজ ফেলে রেখেছেন? এ আয়াতে খায়র শব্দের একটা পাঠ হল সেই নেক আমল, যা তারিখটা জানা থাকলে মানুষ জমিয়ে রাখত। আপনি তারিখ জানেন না, আর সেটাই আসল কথা, অথচ আমলটা এখনো হাতের কাছেই আছে। তারিখ যদি আগামী মাসেই হত, এ সপ্তাহে আপনি কোন আমলটা করে ফেলতেন?"
+          }
+        ]
+      }
+    ]
+  },
+  "7:195": {
+    "sections": [
+      {
+        "h": {
+          "en": "The End of a Long Argument",
+          "bn": "দীর্ঘ যুক্তির শেষ ধাপ"
+        },
+        "p": [
+          {
+            "en": "Al-A'raf is Makkan, and its closing pages turn from the destroyed nations to what the people of Makkah were worshipping. The stretch that names them directly runs five verses. 7:191 says they associate with Him those who create nothing and are themselves created. 7:192 says they can help neither their worshippers nor themselves. 7:193 tells the believers that inviting them to guidance changes nothing. 7:194 calls them servants like you and sets a test: call them, and let them answer you if you are truthful. 7:195 is the reason the test will fail.",
+            "bn": "সূরা আল-আ'রাফ মাক্কী, আর তার শেষ পাতাগুলো ধ্বংস হওয়া জাতিগুলো ছেড়ে ফিরে আসে মাক্কার লোকেরা যাদের পূজা করত তাদের দিকে। যে অংশে সোজা তাদেরই কথা, তা পাঁচ আয়াত জুড়ে। ৭:১৯১ বলে, তারা এমন কিছুকে শরীক করে যারা কিছুই সৃষ্টি করে না, বরং নিজেরাই সৃষ্ট। ৭:১৯২ বলে, তারা পূজারিদেরও সাহায্য করতে পারে না, নিজেদেরও না। ৭:১৯৩ মু'মিনদের জানায়, তাদেরকে সত্যপথে ডাকলেও কিছু বদলায় না। ৭:১৯৪ তাদেরকে বলে তোমাদের মতই বান্দা, আর একটা পরীক্ষা রাখে: ডাক তাদেরকে, সত্যবাদী হলে তারা সাড়া দিক। ৭:১৯৫ বলে দেয় কেন সে পরীক্ষায় তারা ফেল করবে।"
+          },
+          {
+            "en": "So the four questions are not a fresh attack. They are the diagnosis behind a challenge already issued. 7:194 said call them and let them respond; anyone who has tried it knows the result, and 7:195 explains the result by naming what is missing. The Quran could have said simply that they are inanimate. Instead it asks, and lets the listener supply the answer out of his own observation, which is a harder thing to argue with afterwards.",
+            "bn": "তাই চারটি প্রশ্ন নতুন কোনো আক্রমণ নয়। আগেই ছুড়ে দেওয়া চ্যালেঞ্জের পেছনের কারণ ব্যাখ্যা। ৭:১৯৪ বলেছিল, ডাক তাদেরকে, তারা সাড়া দিক; যে একবার চেষ্টা করেছে সে ফলটা জানে, আর ৭:১৯৫ কী নেই তা নাম ধরে বলে ফলটার কারণ দেখায়। কুরআন সোজা বলে দিতে পারত যে ওগুলো প্রাণহীন। তার বদলে প্রশ্ন করে, আর জবাবটা শ্রোতাকেই তার নিজের চোখে দেখা থেকে জোগাড় করতে দেয়। পরে এ জবাব নিয়ে তর্ক করা অনেক কঠিন।"
+          },
+          {
+            "en": "What follows matters as much. 7:196 has the speaker name his own protector, Allah who sent down the Book, and 7:197 returns to the idols with one change: it is no longer that they cannot help them, as 7:192 had it, but that they cannot help you. The pronoun swings around to face the audience directly. The passage ends where it began, with incapacity, but by then the reader has been moved from watching an argument to standing inside it.",
+            "bn": "এরপর যা আসে তাও সমান গুরুত্বের। ৭:১৯৬ আয়াতে বক্তা নিজের অভিভাবকের নাম বলেন, আল্লাহ, যিনি কিতাব নামিয়েছেন। আর ৭:১৯৭ আবার মূর্তির কথায় ফেরে, একটা বদল নিয়ে: এবার আর ৭:১৯২ আয়াতের মতো 'তাদের সাহায্য করতে পারে না' নয়, বরং 'তোমাদের সাহায্য করতে পারে না'। সর্বনাম ঘুরে সোজা শ্রোতার মুখোমুখি দাঁড়ায়। অংশটা যেখানে শুরু হয়েছিল সেখানেই শেষ হয়, অক্ষমতার কথায়; কিন্তু ততক্ষণে পাঠক তর্ক দেখার জায়গা থেকে তর্কের ভেতরে এসে দাঁড়িয়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Faculties, Four Questions",
+          "bn": "চার অঙ্গ, চার প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The Arabic names four faculties and no more: arjul, feet; ayd, hands; a'yun, eyes; adhan, ears. Each is given its own verb. Feet to walk with, yamshun; hands to grip with, yabtishun; eyes to see with, yubsirun; ears to hear with, yasma'un. The first question opens with a-lahum, do they have, and the next three with am lahum, the particle of alternative questioning, so the chain reads as one question offered in four forms and refused in all four.",
+            "bn": "আরবিতে চারটি অঙ্গের নাম আসে, এর বেশি নয়: আরজুল অর্থাৎ পা, আয়দ অর্থাৎ হাত, আ'য়ুন অর্থাৎ চোখ, আযান অর্থাৎ কান। প্রত্যেকটির সাথে আলাদা ক্রিয়া জুড়ে দেওয়া হয়েছে। পা, যা দিয়ে চলে, ইয়ামশূন; হাত, যা দিয়ে ধরে, ইয়াবতিশূন; চোখ, যা দিয়ে দেখে, ইউবসিরূন; কান, যা দিয়ে শোনে, ইয়াসমাউন। প্রথম প্রশ্ন শুরু হয় আলাহুম দিয়ে অর্থাৎ তাদের কি আছে, আর পরের তিনটি আম লাহুম দিয়ে; আম হল বিকল্প জিজ্ঞাসার শব্দ। ফলে গোটা শিকলটা এক প্রশ্নের চার রূপ, আর চার জায়গাতেই জবাব না।"
+          },
+          {
+            "en": "The verb chosen for the hands repays attention. The root b-t-sh is not a neutral word for taking; it means to seize violently, to grip and to strike. al-Qurtubi notes a reading in which it is yabtushun, with a damma on the ta, and calls it a dialectal form. Either way the hands are named at their most forceful use, so the question is not whether the idol can hold a cup but whether it can defend anybody.",
+            "bn": "হাতের জন্য বাছা ক্রিয়াপদটি খেয়াল করার মতো। বা-তা-শীন মূল নিছক নেওয়ার নিরপেক্ষ শব্দ নয়; এর অর্থ জোরে চেপে ধরা, খামচে ধরা ও আঘাত করা। কুরতুবী একটা পাঠ উল্লেখ করেন যেখানে শব্দটি ইয়াবতুশূন, তা অক্ষরে যের নয় বরং পেশ দিয়ে, আর তিনি তাকে একটি আঞ্চলিক রূপ বলেন। দুই পাঠেই হাতের সবচেয়ে জোরালো ব্যবহারের কথা আসে। তাই প্রশ্নটা এই নয় যে মূর্তি একটা পেয়ালা ধরতে পারে কি না, প্রশ্নটা হল সে কাউকে বাঁচাতে পারে কি না।"
+          },
+          {
+            "en": "The four divide neatly into two pairs, two of action and two of perception: feet and hands do, eyes and ears receive. Then the verse turns to the challenge and it carries two commands and one prohibition. Call your partners, id'u. Then plot against me, kiduni. And do not give me any respite, fala tunziruni, which al-Qurtubi glosses simply as do not delay it. The dare is for everything at once, and immediately.",
+            "bn": "চারটি অঙ্গ পরিষ্কার দুই জোড়ায় ভাগ হয়ে যায়, দুটো কাজের আর দুটো ধরার: পা আর হাত করে, চোখ আর কান গ্রহণ করে। এরপর আয়াত চ্যালেঞ্জের দিকে ঘোরে, আর সেখানে দুটো আদেশ আর একটা নিষেধ। তোমাদের শরীকদের ডাক, ইদউ। তারপর আমার বিরুদ্ধে ষড়যন্ত্র কর, কীদূনি। আর আমাকে কোনো অবকাশ দিও না, ফালা তুনযিরূনি; কুরতুবী এর ব্যাখ্যায় সোজা বলেন, দেরি করো না। আহ্বানটা সবকিছু একসাথে করার, আর এখনই করার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rebuke or Comparison of Rank",
+          "bn": "ধমক নাকি মর্যাদার তুলনা"
+        },
+        "p": [
+          {
+            "en": "at-Tabari reads each faculty as a service a patron would be expected to render. Feet, so that they might walk with you and for you in your needs. Hands, so that they might push harm away from you and help you when someone comes at you with evil. Eyes, so that they might tell you what they have seen of what is hidden from you. Ears, so that they might inform you of what they have heard and you did not. Then his rule: what is venerated is venerated only for the benefit hoped from it.",
+            "bn": "তাবারী প্রত্যেকটি অঙ্গকে পড়েন এমন সেবা হিসেবে, যা অভিভাবকের কাছ থেকে আশা করা যায়। পা, যাতে তারা তোমাদের সাথে আর তোমাদের প্রয়োজনে চলাফেরা করতে পারে। হাত, যাতে তারা তোমাদের থেকে ক্ষতি সরাতে পারে আর কেউ মন্দ নিয়ে এলে তোমাদের সাহায্য করতে পারে। চোখ, যাতে তোমাদের আড়ালে থাকা জিনিস দেখে তারা তোমাদের জানাতে পারে। কান, যাতে তোমরা শোনোনি এমন কথা শুনে তারা তোমাদের খবর দিতে পারে। এরপর তাঁর নীতি: যাকে বড় করা হয়, তাকে বড় করা হয় কেবল তার কাছ থেকে আশা করা উপকারের জন্যই।"
+          },
+          {
+            "en": "al-Qurtubi takes the verse as rebuke. Allah reproached them and declared their reasoning foolish, he writes, and the meaning is that you are better than they are, so how do you worship them; the purpose is to expose their ignorance, since one who is worshipped ought to possess such faculties. as-Sa'di argues along the same line and says it needs no explaining, because the very shape of the thing shows it holds no benefit, lacking every instrument and power present in a human being.",
+            "bn": "কুরতুবী আয়াতটিকে ধমক হিসেবে নেন। তিনি লেখেন, আল্লাহ তাদের ভর্ৎসনা করলেন আর তাদের বুদ্ধিকে বোকামি বলে দেখালেন; অর্থ হল, তোমরা তাদের চেয়ে ভালো, তাহলে তাদের পূজা কর কেন। উদ্দেশ্য তাদের অজ্ঞতা খুলে দেখানো, কারণ যার ইবাদাত করা হয় তার তো এসব অঙ্গ থাকা উচিত। সা'দী একই পথে চলেন, আর বলেন এ কথা ব্যাখ্যার দরকার পড়ে না; জিনিসটার চেহারাই দেখিয়ে দেয় তার কাছে কোনো উপকার নেই, কারণ মানুষের মধ্যে থাকা সব যন্ত্র আর শক্তি তার নেই।"
+          },
+          {
+            "en": "The two readings are not the same reading. at-Tabari turns the four questions into a checklist of services a patron cannot perform; al-Qurtubi and as-Sa'di turn them into a comparison of rank, in which the worshipper is plainly the more capable party. On the closing dare they converge. at-Tabari says Allah is informing him that they will never harm him because He has protected him from them; as-Sa'di reads it as gather, you and your partners, to do me harm without delay, for you will reach none of it.",
+            "bn": "দুটো পাঠ কিন্তু একই পাঠ নয়। তাবারী চারটি প্রশ্নকে বানিয়ে তোলেন সেই সেবার তালিকা, যা এই অভিভাবকরা করতে অক্ষম; কুরতুবী আর সা'দী বানান মর্যাদার তুলনা, যেখানে পূজারিই স্পষ্টভাবে বেশি সক্ষম পক্ষ। শেষের চ্যালেঞ্জে এসে দুই ধারা মিলে যায়। তাবারী বলেন, আল্লাহ তাঁকে ﷺ জানিয়ে দিচ্ছেন যে তারা কখনো তাঁর ক্ষতি করতে পারবে না, কারণ তিনি তাঁকে তাদের থেকে হেফাজত করেছেন। সা'দীর পাঠ এমন: তোমরা আর তোমাদের শরীকরা মিলে দেরি না করে আমার ক্ষতি করতে আস, তার কিছুই তোমরা পারবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Narration Stands Here",
+          "bn": "এখানে কোনো হাদীস নেই"
+        },
+        "p": [
+          {
+            "en": "There is no sound narration of the Prophet ﷺ that the classical tafsir attaches to this verse. at-Tabari, al-Qurtubi and as-Sa'di all pass through it without quoting one, and it is better to say so than to fill the place with something weak. The Quran here is arguing from what anyone can see, and an argument built on ordinary observation does not need a report to carry it.",
+            "bn": "এ আয়াতের সাথে শাস্ত্রীয় তাফসীর নবী ﷺ-এর কোনো সহীহ বর্ণনা জুড়ে দেয় না। তাবারী, কুরতুবী ও সা'দী তিনজনই কোনো হাদীস উদ্ধৃত না করেই আয়াতটি পার হন, আর জায়গাটা দুর্বল কিছু দিয়ে ভরে ফেলার চেয়ে কথাটা বলে দেওয়াই ভালো। কুরআন এখানে যুক্তি দিচ্ছে এমন জিনিস থেকে যা যে কেউ দেখতে পায়, আর চোখে দেখা সাধারণ জিনিসের উপর গড়া যুক্তি বহন করার জন্য কোনো বর্ণনার দরকার হয় না।"
+          },
+          {
+            "en": "What at-Tabari puts in that place is a statement about safety rather than a report. Allah is letting His Prophet ﷺ know that they will not harm him, because He has protected him from them, and He is letting the disbelievers know how incapable their idols are of helping anyone who moves against the friends of Allah. The surah's own answer arrives in the next verse instead of in a narration: my protector is Allah, who sent down the Book, 7:196.",
+            "bn": "সেই জায়গায় তাবারী কোনো বর্ণনা নয়, বরং নিরাপত্তার একটা ঘোষণা রাখেন। আল্লাহ তাঁর নবী ﷺ-কে জানিয়ে দিচ্ছেন যে তারা তাঁর ক্ষতি করতে পারবে না, কারণ তিনি তাঁকে তাদের থেকে হেফাজত করেছেন। আর কাফিরদেরও জানিয়ে দিচ্ছেন, আল্লাহর বন্ধুদের বিরুদ্ধে যে ওঠে তাকে সাহায্য করার সাধ্য তাদের মূর্তির কতটুকু। সূরার নিজের জবাবটা কোনো বর্ণনায় নয়, পরের আয়াতেই আসে: আমার অভিভাবক আল্লাহ, যিনি কিতাব নামিয়েছেন, ৭:১৯৬।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Fly and the Dead",
+          "bn": "মাছি আর মৃত মা'বুদ"
+        },
+        "p": [
+          {
+            "en": "22:73 runs the same audit as a parable. Those you invoke besides Allah will never create so much as a fly even if they gathered for it, and if the fly should steal a thing from them they could not recover it from him; weak are the pursuer and the pursued. 7:195 asks whether the idol has hands; 22:73 shows the hands losing a contest with an insect. The move from question to picture makes the same point twice.",
+            "bn": "২২:৭৩ আয়াত একই হিসাব চালায়, উপমার ভাষায়। আল্লাহ ছাড়া যাদেরকে তোমরা ডাক, সবাই মিলে চেষ্টা করলেও তারা একটা মাছিও বানাতে পারবে না; আর মাছি যদি তাদের কাছ থেকে কিছু ছিনিয়ে নেয়, তা তারা ফিরিয়ে নিতে পারবে না। দুর্বল সেই প্রার্থী, দুর্বল সেই প্রার্থিত। ৭:১৯৫ জিজ্ঞেস করে মূর্তির হাত আছে কি না; ২২:৭৩ দেখিয়ে দেয়, সে হাত একটা পোকার সাথে লড়াইয়ে হেরে যায়। প্রশ্ন থেকে ছবিতে যাওয়ায় কথাটা দুবার বলা হয়ে যায়।"
+          },
+          {
+            "en": "16:20-21 answers the question about faculties without asking it: they create nothing and are themselves created, they are dead and not alive, and they do not perceive when they will be resurrected. 25:3 adds the exact phrase that 7:188 had denied of the Prophet ﷺ, that they possess for themselves neither harm nor benefit, and extends it to death and life and resurrection. 13:16 puts the same clause as a question: have you taken allies who possess nothing of the kind?",
+            "bn": "১৬:২০-২১ আয়াত অঙ্গ নিয়ে প্রশ্নটা না করেই জবাব দিয়ে দেয়: তারা কিছুই সৃষ্টি করে না, বরং নিজেরাই সৃষ্ট; তারা মৃত, জীবিত নয়, আর কখন তাদের উঠানো হবে তাও তারা জানে না। ২৫:৩ আয়াত ঠিক সেই কথাটা যোগ করে, যা ৭:১৮৮ আয়াতে নবী ﷺ-এর বেলায় অস্বীকার করা হয়েছিল; সেখানে বলা হয় তারা নিজেদের ভালো বা মন্দ কোনোটার মালিক নয়, আর তা বাড়িয়ে মৃত্যু, জীবন ও পুনরুত্থান পর্যন্ত নেওয়া হয়। ১৩:১৬ একই কথা প্রশ্ন করে রাখে: তোমরা কি এমন অভিভাবক নিয়েছ যাদের এসবের কিছুই নেই?"
+          },
+          {
+            "en": "The faculty argument is older than this surah. 19:42 records Ibrahim (AS) asking his father why he worships what does not hear and does not see and will not benefit him at all, and 21:66-67 has him ask the same people whether they worship, instead of Allah, what neither benefits nor harms them. Two prophets, centuries apart, reach for the same four senses, because the argument is available to anybody with a pair of eyes.",
+            "bn": "অঙ্গ নিয়ে এই যুক্তি এ সূরার চেয়েও পুরনো। ১৯:৪২ আয়াতে ইবরাহীম (আ) তাঁর বাবাকে জিজ্ঞেস করেন, যা শোনে না, দেখে না আর কোনো উপকারেই আসে না, তার ইবাদাত কেন করছেন। আর ২১:৬৬-৬৭ আয়াতে তিনি একই লোকদের জিজ্ঞেস করেন, আল্লাহকে বাদ দিয়ে তোমরা এমন কিছুর পূজা কর যা তোমাদের উপকারও করে না, ক্ষতিও করে না? শতাব্দীর দূরত্বে দুজন নবী একই চার ইন্দ্রিয়ের দিকে হাত বাড়ান, কারণ এ যুক্তি চোখ আছে এমন যে কারও হাতের কাছেই আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When Your Refuge Is Examined",
+          "bn": "আপনার আশ্রয় যাচাই হলে"
+        },
+        "p": [
+          {
+            "en": "The four questions are portable. Take whatever you actually lean on when a hard week arrives and put them to it. Does it walk toward you when you need it? Can it grip, and hold something off? Does it see what you cannot see coming? Does it hear you at two in the morning? A salary, a name, a contact, a clever plan, a person who has always been there: each one will answer some of the four and fail the rest.",
+            "bn": "চারটি প্রশ্ন সাথে নিয়ে ঘোরা যায়। কঠিন কোনো সপ্তাহ এলে যার উপর আপনি আসলে ভর দেন, তাকেই এ প্রশ্নগুলো করুন। দরকারের সময় সে কি আপনার দিকে হেঁটে আসে? সে কি ধরতে পারে, কিছু আটকে রাখতে পারে? আপনি যা আসতে দেখেন না, সে কি দেখে? রাত দুটোয় সে কি আপনার কথা শোনে? বেতন, পদবি, পরিচিত কোনো লোক, চতুর কোনো পরিকল্পনা, কিংবা সবসময় পাশে থাকা মানুষ; প্রত্যেকে চারটির কয়েকটির জবাব দেবে, বাকিগুলোয় ফেল করবে।"
+          },
+          {
+            "en": "The point is not to despise means. as-Sa'di's comparison keeps the proportion straight: you are the more capable party, so use what you have been given and refuse to bow to it. A doctor is a means and a savings account is a means; neither hears you and neither sees ahead. The disorder the verse is naming begins the moment a means quietly becomes a guarantee, and the shift usually happens without a decision.",
+            "bn": "উদ্দেশ্য উপায়কে তুচ্ছ করা নয়। সা'দীর তুলনাটা মাপ ঠিক রাখে: সক্ষম পক্ষ আপনিই, তাই যা দেওয়া হয়েছে তা কাজে লাগান, আর তার সামনে মাথা নোয়াতে অস্বীকার করুন। ডাক্তার একটা উপায়, জমানো টাকাও একটা উপায়; কেউ আপনার কথা শোনে না, কেউ সামনের দিন দেখে না। আয়াত যে গোলমালের নাম নিচ্ছে, তা শুরু হয় ঠিক সেই মুহূর্তে যখন উপায় চুপচাপ নিশ্চয়তা হয়ে যায়। আর এ বদলটা সাধারণত কোনো সিদ্ধান্ত ছাড়াই ঘটে।"
+          },
+          {
+            "en": "So the practice is small and repeatable. Notice which name comes to your mouth first when bad news lands, and move the first call to Allah before you make the second call to anyone else. Then take the means properly, without apology. And keep the four questions ready for anything that starts being spoken about as though it could not fail, including the things you are proud of arranging.",
+            "bn": "তাই আমলটা ছোট আর বারবার করার মতো। খারাপ খবর এলে সবার আগে কার নাম আপনার মুখে আসে খেয়াল করুন, আর অন্য কাউকে ফোন করার আগে প্রথম ডাকটা আল্লাহর দিকে সরিয়ে নিন। এরপর উপায়গুলো ঠিকভাবেই ধরুন, কোনো সংকোচ ছাড়া। আর যে জিনিস নিয়ে এমনভাবে কথা বলা শুরু হয় যেন তা ব্যর্থ হতেই পারে না, তার জন্য চারটি প্রশ্ন হাতের কাছে রাখুন; নিজের গোছানো ব্যবস্থাগুলোও তার বাইরে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Borrowing the Verse's Own Words",
+          "bn": "আয়াতের শব্দ ধার করে"
+        },
+        "p": [
+          {
+            "en": "The verse and the one after it supply a supplication if you turn their vocabulary around. This is not a narration, only the verse's own words made into asking: O Allah, You gave me feet and hands and eyes and ears, and every one of them is a loan from You. Nothing I could call upon walks toward me or hears me. You are my protector, You who sent down the Book, so hold me by what You sent down.",
+            "bn": "এ আয়াত আর তার পরের আয়াতের শব্দগুলো ঘুরিয়ে নিলে একটা দোয়া তৈরি হয়। এটা কোনো বর্ণনা নয়, কেবল আয়াতের নিজের শব্দ দিয়ে গড়া চাওয়া: হে আল্লাহ, আপনি আমাকে পা দিয়েছেন, হাত দিয়েছেন, চোখ আর কান দিয়েছেন, আর প্রত্যেকটাই আপনার কাছ থেকে ধার। আমি ডাকতে পারি এমন কিছুই আমার দিকে হেঁটে আসে না, আমার কথা শোনে না। আপনিই আমার অভিভাবক, যিনি কিতাব নামিয়েছেন; যা নামিয়েছেন তা দিয়েই আমাকে ধরে রাখুন।"
+          },
+          {
+            "en": "For a supplication with authority behind it, the surah itself gives one five verses later. 7:200 commands that when an evil suggestion comes to you from Satan you seek refuge in Allah, who is Hearing and Knowing. Notice which two attributes close that verse. They are two of the four faculties 7:195 could not find in the idols, and here they are affirmed of the One the verse tells you to run to.",
+            "bn": "প্রমাণসহ দোয়া চাইলে সূরা নিজেই পাঁচ আয়াত পরে একটা দিয়ে দেয়। ৭:২০০ আয়াতের হুকুম, শয়তান কোনো কুমন্ত্রণা দিলে আল্লাহর আশ্রয় নাও; তিনি সর্বশ্রোতা, সর্বজ্ঞ। খেয়াল করুন সেই আয়াত কোন দুই গুণ দিয়ে শেষ হচ্ছে। ৭:১৯৫ আয়াতে মূর্তিদের মধ্যে যে চারটি অঙ্গ খুঁজে পাওয়া যায়নি, তার দুটোরই কাজ এখানে স্বীকার করা হচ্ছে সেই সত্তার জন্য, যাঁর দিকে ছুটে যেতে আয়াত বলছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About What You Call",
+          "bn": "যাকে ডাকেন তাকে নিয়ে"
+        },
+        "p": [
+          {
+            "en": "If you wrote down the three things you count on most for your safety this year, would any of them hear you say their names? Which of the four questions does each of them fail? And if the honest answer is that you know they fail and lean on them anyway, what is that leaning made of, habit or belief?",
+            "bn": "এ বছর নিজের নিরাপত্তার জন্য আপনি যে তিনটি জিনিসের উপর সবচেয়ে বেশি ভরসা করেন, তা লিখে ফেললে তাদের কেউ কি আপনার মুখে নিজের নাম শুনতে পাবে? চারটি প্রশ্নের কোনটিতে কে ফেল করে? আর সৎ জবাব যদি এই হয় যে আপনি জানেন তারা ফেল করে, তবু ভর দেন, তাহলে সেই ভর দেওয়াটা কী দিয়ে গড়া, অভ্যাস নাকি বিশ্বাস?"
+          },
+          {
+            "en": "The verse ends by inviting the worst that a whole coalition can do. What would have to be true in your own heart before you could say a sentence like that and mean it? And in the meantime, what is one thing you could stop treating as unbreakable this month, so that the four questions are not just an argument you agree with on paper?",
+            "bn": "আয়াত শেষ হয় গোটা এক দলের সর্বোচ্চ ক্ষতি করার ক্ষমতাকে ডেকে এনে। এমন একটা কথা মুখে বলে তা সত্যিই বিশ্বাস করতে পারার জন্য আপনার দিলে আগে কী থাকা দরকার? আর এর মধ্যে এ মাসে এমন একটা জিনিস কী, যাকে আপনি আর অটুট ধরে নেওয়া ছেড়ে দিতে পারেন, যাতে চারটি প্রশ্ন কেবল কাগজে মেনে নেওয়া যুক্তি হয়ে না থাকে?"
+          }
+        ]
+      }
+    ]
+  },
   "7:205": {
     "sections": [
       {

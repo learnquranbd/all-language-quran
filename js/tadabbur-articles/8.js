@@ -107,6 +107,314 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:11": {
+    "sections": [
+      {
+        "h": {
+          "en": "Between the Angels and the Order",
+          "bn": "ফেরেশতা আর হুকুমের মাঝখানে"
+        },
+        "p": [
+          {
+            "en": "Surah al-Anfal is Madinan and came down about the battle at Badr, in Ramadan of the second year after the Hijra. The surah opens on a dispute about the spoils, 8:1, and then defines the believers in 8:2-4 before settling who gets what. From 8:5 it turns back to the march out. So the recital that 8:11 belongs to is addressed to people who had just been quarrelling over what they had gained.",
+            "bn": "সূরা আল-আনফাল মাদানী, আর নেমেছে বদরের যুদ্ধ নিয়ে, হিজরতের দ্বিতীয় বছরের রমযানে। সূরা শুরু হয় যুদ্ধলব্ধ সম্পদ নিয়ে মতবিরোধ দিয়ে, ৮:১ আয়াতে; এরপর কে কী পাবে সে হিসাব করার আগে ৮:২-৪ আয়াত মু'মিন কারা তা ঠিক করে দেয়। ৮:৫ থেকে আবার ফেরে বেরিয়ে পড়ার ঘটনায়। তাই ৮:১১ যে বর্ণনার অংশ, তা এমন লোকদের উদ্দেশ্যে বলা, যারা সদ্য নিজেদের প্রাপ্তি নিয়ে ঝগড়া করছিল।"
+          },
+          {
+            "en": "The immediate neighbours matter. 8:9 recalls them calling on their Lord for help and the answer that a thousand angels would be sent, one following another. 8:10 says the reinforcement was only good tidings and a means of settling their hearts, and that victory comes from nowhere but Allah. 8:11 continues the same chain of idh clauses, remember when, with a help of a completely different kind. Then 8:12 returns to the angels and the command given to them.",
+            "bn": "পাশের আয়াতগুলো গুরুত্বপূর্ণ। ৮:৯ স্মরণ করায় যে তারা প্রতিপালকের কাছে সাহায্য চাইছিল, আর জবাব এল এক হাজার ফেরেশতা পাঠানোর, যারা পর পর আসবে। ৮:১০ বলে, এ সাহায্য ছিল কেবল সুসংবাদ আর দিল শান্ত করার উপায়, আর জয় আল্লাহ ছাড়া কোথাও থেকে আসে না। ৮:১১ একই ইয 'স্মরণ কর' ধারায় চলতে থাকে, তবে একেবারে অন্য ধরনের সাহায্য নিয়ে। এরপর ৮:১২ আবার ফেরেশতাদের কথায় ফেরে আর তাঁদের দেওয়া হুকুম শোনায়।"
+          },
+          {
+            "en": "The occasion is established rather than guessed. The tafsir and the sirah agree that the verse describes the night before the fighting. al-Qurtubi transmits from az-Zajjaj that the rain fell on the night of Badr, named there as the seventeenth of Ramadan, until the valleys ran; and he reports the further view that these events happened before the Muslims reached Badr itself, calling that more correct and crediting it to what Ibn Ishaq recorded in his Sirah.",
+            "bn": "শানে নুযূল এখানে অনুমান নয়, প্রমাণিত। তাফসীর আর সীরাত একমত যে আয়াতটি যুদ্ধের আগের রাতের বর্ণনা। কুরতুবী যাজ্জাজ থেকে আনেন যে বৃষ্টি নেমেছিল বদরের রাতে, সেখানে সে রাতকে রমযানের সতেরো তারিখ বলা হয়েছে, আর বৃষ্টি এমন হয়েছিল যে উপত্যকা দিয়ে পানি বয়ে গিয়েছিল। তিনি আরেকটি মতও জানান, এ ঘটনাগুলো ঘটেছিল মুসলিমরা বদরে পৌঁছার আগেই; এ মতকেই তিনি বেশি সঠিক বলেন আর ইবনু ইসহাকের সীরাতের বর্ণনার সাথে মেলান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nu'as, Amanah, Rijz",
+          "bn": "নু'আস, আমানাহ, রিজয"
+        },
+        "p": [
+          {
+            "en": "The word for the sleep is nu'as, the first heaviness that comes over the eyes, not nawm, full sleep. It is described as amanatan minhu, a security from Him. at-Tabari glosses the phrase as a safety from Allah for you, that your enemy should not overcome you, and adds a general remark: drowsiness in war is a security from Allah. al-Qurtubi puts it from the other side, saying that nu'as is the condition of one who is safe and not afraid.",
+            "bn": "ঘুমের জন্য ব্যবহৃত শব্দ নু'আস, অর্থাৎ চোখে নেমে আসা প্রথম ভার, পুরো ঘুম বোঝানো নাওম নয়। এটাকে বলা হয়েছে আমানাতাম মিনহু, তাঁর কাছ থেকে আসা নিরাপত্তা। তাবারীর ব্যাখ্যা, এ হল আল্লাহর কাছ থেকে তোমাদের জন্য নিরাপত্তা, যাতে শত্রু তোমাদের উপর জয়ী না হয়; আর তিনি একটা সাধারণ কথাও যোগ করেন, যুদ্ধের মধ্যে তন্দ্রা আল্লাহর কাছ থেকে আসা নিরাপত্তা। কুরতুবী কথাটা অন্য দিক থেকে বলেন, নু'আস হল সেই লোকের অবস্থা যে নিরাপদ আর ভয় পাচ্ছে না।"
+          },
+          {
+            "en": "The verb has recognised variant readings, and both commentators reason about them the same way. The Madinans read yughshikum, the Kufans yughashshikum with the doubled shin, and some readers of Makkah and Basra read yaghshakum an-nu'asu, with the drowsiness as the subject. at-Tabari prefers the Kufan form because every reader agrees that and He sent down upon you water is Allah's own act, so the verb coupled to it should be Allah's act too and the sentence run evenly.",
+            "bn": "ক্রিয়াপদটির স্বীকৃত কিরাআতভেদ আছে, আর দুই মুফাসসিরই সেগুলো নিয়ে একই ধরনের যুক্তি দেন। মাদীনাবাসীরা পড়েন ইউগশীকুম, কূফাবাসীরা শীন অক্ষরে তাশদীদ দিয়ে ইউগাশশীকুম, আর মাক্কা ও বাসরার কিছু কারী পড়েন ইয়াগশাকুমুন নু'আসু, যেখানে তন্দ্রাই কর্তা। তাবারী কূফী পাঠটি বেছে নেন, কারণ 'আর তিনি তোমাদের উপর পানি নামালেন' অংশটি আল্লাহরই কাজ, এ নিয়ে সব কারী একমত; তাই তার সাথে জোড়া ক্রিয়াপদটিও আল্লাহর কাজ হওয়াই উচিত, যাতে বাক্য একই তালে চলে।"
+          },
+          {
+            "en": "al-Qurtubi calls the Madinan reading a good one on exactly that ground, that the act should be attributed to Allah because what follows is and He sends down upon you, and he cites Makki as choosing the doubled form for the same reason. The disagreement is about vocalisation; the reasoning on both sides is identical, and it puts the sleep firmly in the hand of the One who sent the rain.",
+            "bn": "কুরতুবী মাদীনী পাঠটিকে উত্তম বলেন ঠিক এই কারণেই, যে কাজটি আল্লাহর দিকেই সম্বন্ধ করা উচিত, কারণ পরেই আসছে 'আর তিনি তোমাদের উপর নামান'; আর তিনি জানান, মাক্কী একই কারণে তাশদীদযুক্ত রূপটি বেছেছেন। মতভেদটা কেবল হরকত নিয়ে; দুই পক্ষের যুক্তি অবিকল একই, আর সে যুক্তি ঘুমটাকেও সেই সত্তার হাতেই তুলে দেয়, যিনি বৃষ্টি পাঠিয়েছেন।"
+          },
+          {
+            "en": "Then rijz ash-shaytan. The word rijz carries filth, punishment and agitation together, and the two app translations reach for different halves of it, the English for the evil suggestions of Satan and the Bengali for satanic defilement. Both senses are in the tafsir, because the rain both washed them and silenced a whisper. After that comes liyarbita ala qulubikum, from rabt, to tie something fast; as-Sa'di says it means He steadies the hearts, since the firmness of the heart is the root of the firmness of the body.",
+            "bn": "এরপর আসে রিজযুশ শায়তান। রিজয শব্দটি একসাথে বহন করে নাপাকি, শাস্তি আর অস্থিরতা; আর অ্যাপের দুই অনুবাদ এর দুই দিক ধরেছে, ইংরেজিটি শয়তানের কুমন্ত্রণা আর বাংলাটি শয়তানী পংকিলতা। দুটো অর্থই তাফসীরে আছে, কারণ বৃষ্টি তাদের ধুয়েও দিয়েছে আর একটা কুমন্ত্রণাও থামিয়ে দিয়েছে। তারপর আসে লিইয়ারবিতা আলা কুলূবিকুম, রাবত মূল থেকে, যার অর্থ শক্ত করে বেঁধে দেওয়া; সা'দী বলেন এর মানে তিনি দিলগুলো মজবুত করে দেন, কারণ দিলের দৃঢ়তাই শরীরের দৃঢ়তার গোড়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which Came First, Sleep or Rain",
+          "bn": "আগে তন্দ্রা নাকি বৃষ্টি"
+        },
+        "p": [
+          {
+            "en": "al-Qurtubi records a genuine disagreement about the order of the two gifts and does not force it shut. The apparent sense of the Quran, he says, indicates that the drowsiness came before the rain, since the verse mentions it first. But Ibn Abi Najih held that the rain came before the drowsiness. Nothing in the verse settles it, and al-Qurtubi leaves both on the page, which is how a careful commentator handles a detail that the wording does not decide.",
+            "bn": "দুই দানের ক্রম নিয়ে কুরতুবী সত্যিকারের একটা মতভেদ লিখে রাখেন, আর জোর করে তা মিটিয়ে দেন না। তিনি বলেন, কুরআনের বাহ্যিক ভাষা বলছে তন্দ্রা এসেছিল বৃষ্টির আগে, কারণ আয়াত আগে তারই উল্লেখ করে। কিন্তু ইবনু আবী নাজীহের মত ছিল, বৃষ্টি এসেছিল তন্দ্রার আগে। আয়াতের ভাষায় বিষয়টা মীমাংসা হয় না, আর কুরতুবী দুটো মতই রেখে দেন। শব্দে যা মীমাংসা হয় না, সতর্ক মুফাসসির তা এভাবেই সামলান।"
+          },
+          {
+            "en": "al-Qurtubi also quotes al-Mawardi on why sleep was a favour that night, and he gives two aspects of it. The first is that rest strengthened them for the fighting the next day. The second is that it made them safe by taking dread out of their hearts, for as the saying goes, safety puts a man to sleep and fear keeps him awake. A third view that al-Qurtubi mentions is that the drowsiness came over them at the moment the two lines met, as at Uhud.",
+            "bn": "সেই রাতে ঘুম কেন অনুগ্রহ ছিল, তা নিয়ে কুরতুবী মাওয়ারদীর কথাও তুলে আনেন, আর দুটি দিক দেখান। প্রথম দিক, বিশ্রাম তাদের পরদিনের লড়াইয়ের জন্য শক্তি জুগিয়েছে। দ্বিতীয় দিক, ঘুম তাদের দিল থেকে আতঙ্ক সরিয়ে নিরাপদ করেছে; কথায় আছে, নিরাপত্তা ঘুম আনে আর ভয় জাগিয়ে রাখে। কুরতুবী তৃতীয় একটা মতও উল্লেখ করেন, তন্দ্রা তাদের উপর নেমেছিল দুই সারি মুখোমুখি হওয়ার মুহূর্তে, যেমন উহুদের দিন হয়েছিল।"
+          },
+          {
+            "en": "at-Tabari explains the water with the same care. It was rain Allah sent down that the believers might purify themselves for their prayer, because they had risen that morning in a state of major impurity with no water. Satan had whispered to them about exactly that and left them grieving, and Allah took it away from their hearts with the rain. That, at-Tabari says, is His binding of their hearts; and the feet held because the sand they had met the enemy on was soft, and the rain packed it so that feet no longer sank.",
+            "bn": "পানির ব্যাখ্যায় তাবারী একই সতর্কতা রাখেন। এ ছিল আল্লাহর নামানো বৃষ্টি, যাতে মু'মিনরা নামাযের জন্য পাক হতে পারে; কারণ সেদিন সকালে তারা জেগেছিল বড় নাপাকির অবস্থায়, আর পানি ছিল না। শয়তান ঠিক এ কথাটাই তাদের কানে দিয়েছিল আর তাদের মন ভারী করে রেখেছিল, আর আল্লাহ বৃষ্টি দিয়ে তা তাদের দিল থেকে সরিয়ে দিলেন। তাবারীর ভাষায় এটাই তাদের দিল বেঁধে দেওয়া; আর পা টিকে গিয়েছিল কারণ শত্রুর মুখোমুখি হওয়া জায়গাটার বালু ছিল নরম, আর বৃষ্টি তা চেপে দিয়েছিল, ফলে পা আর দেবে যায়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Night Under the Trees",
+          "bn": "গাছের নিচে সেই রাত"
+        },
+        "p": [
+          {
+            "en": "at-Tabari transmits the scene from Ali (RA), through Abu Ishaq from Harithah. A light rain fell on us in the night, he said, meaning the night whose morning was Badr, so we went under the trees and the shields to shelter from it. And the Messenger of Allah ﷺ spent the night calling on his Lord: O Allah, if You destroy this band, You will not be worshipped on the earth. When the dawn rose he called out, the prayer, servants of Allah, and the people came out from under the trees and the shields, and he ﷺ prayed with us and urged them to the fighting.",
+            "bn": "তাবারী দৃশ্যটি এনেছেন আলী (রাঃ) থেকে, আবূ ইসহাক হারিসা থেকে যেভাবে বর্ণনা করেছেন। তিনি বলেন, রাতে আমাদের উপর হালকা বৃষ্টি পড়ল, অর্থাৎ যে রাতের সকালেই ছিল বদর; তাই আমরা বৃষ্টি থেকে বাঁচতে গাছ আর ঢালের নিচে গিয়ে বসলাম। আর আল্লাহর রসূল ﷺ সারা রাত তাঁর প্রতিপালককে ডেকে কাটালেন: হে আল্লাহ, আপনি যদি এ দলটিকে ধ্বংস করে দেন, তবে যমীনে আপনার ইবাদাত করা হবে না। ভোর হতেই তিনি ডাক দিলেন, নামায, হে আল্লাহর বান্দারা; লোকেরা গাছ আর ঢালের নিচ থেকে বেরিয়ে এল, আর তিনি ﷺ আমাদের নিয়ে নামায পড়লেন আর যুদ্ধে উৎসাহ দিলেন।"
+          },
+          {
+            "en": "A du'a of that day is in the Sahih with its own wording, which should not be mixed with the wording above. Sahih al-Bukhari 3953, from Ibn Abbas (RA): on the day of Badr the Prophet ﷺ said, O Allah, I appeal to You by Your covenant and Your promise; O Allah, if You will, You will not be worshipped. Abu Bakr (RA) took him by the hand and said, this is enough for you. Then he ﷺ came out saying the words of 54:45, their assembly will be defeated and they will turn their backs.",
+            "bn": "সেদিনের একটি দোয়া সহীহ গ্রন্থে নিজের আলাদা শব্দে আছে, আর তা উপরের বর্ণনার শব্দের সাথে মিশিয়ে ফেলা চলবে না। সহীহ বুখারী ৩৯৫৩, ইবনু আব্বাস (রাঃ) থেকে: বদরের দিন নবী ﷺ বললেন, হে আল্লাহ, আপনার অঙ্গীকার আর আপনার ওয়াদার দোহাই দিয়ে চাইছি; হে আল্লাহ, আপনি চাইলে আপনার ইবাদাত করা হবে না। আবূ বাকর (রাঃ) তাঁর হাত ধরে বললেন, আপনার জন্য এতটুকুই যথেষ্ট। এরপর তিনি ﷺ বেরিয়ে এলেন এবং ৫৪:৪৫ আয়াতের কথা বলতে বলতে এলেন, এ দল পরাজিত হবে আর তারা পিঠ ফিরিয়ে পালাবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Feet Planted in Other Battles",
+          "bn": "অন্য যুদ্ধেও পা শক্ত"
+        },
+        "p": [
+          {
+            "en": "3:154 uses the very same pair of words about Uhud: then after distress He sent down upon you security in the form of drowsiness. That verse adds something 8:11 does not, that the gift reached one faction while another lay awake worrying about themselves, so the same mercy was not distributed evenly. at-Tabari records Ibn Zayd reading the drowsiness of this verse against that one, and it is worth hearing the two together.",
+            "bn": "৩:১৫৪ আয়াত উহুদ নিয়ে ঠিক একই শব্দজোড়া ব্যবহার করে: এরপর দুশ্চিন্তার পর তিনি তোমাদের উপর প্রশান্তি হিসেবে তন্দ্রা নামিয়ে দিলেন। সেখানে এমন একটা কথাও আছে যা ৮:১১ আয়াতে নেই, দানটা এক দলের কাছে পৌঁছেছিল, আর অন্য দল জেগে থেকে নিজেদের নিয়ে দুশ্চিন্তায় কাটাচ্ছিল; একই রহমত সবার ভাগে সমানভাবে পড়েনি। তাবারী জানাচ্ছেন, ইবনু যায়দ এ আয়াতের তন্দ্রাকে সেই আয়াতের পাশে রেখেই পড়েছেন, আর দুটো একসাথে শোনাই ভালো।"
+          },
+          {
+            "en": "2:250 is the prayer of Talut's soldiers as they went out: our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people. The planting of feet is asked for there and granted here, by rain. al-Qurtubi notices the link from the other end, citing a report of al-Bara ibn Azib (RA) in which the Companions at Badr were compared in number to Talut's men who crossed the river with him.",
+            "bn": "২:২৫০ হল তালুতের সৈনিকদের দোয়া, বেরোনোর সময় তারা বলেছিল: হে আমাদের প্রতিপালক, আমাদের উপর ধৈর্য ঢেলে দিন, আমাদের পা মজবুত করুন আর কাফির সম্প্রদায়ের উপর আমাদের জয় দিন। পা মজবুত করার আবেদন সেখানে, আর এখানে সেটাই দেওয়া হচ্ছে, বৃষ্টি দিয়ে। কুরতুবী সম্পর্কটা অন্য প্রান্ত থেকে ধরেন, বারা ইবনু আযিব (রাঃ)-এর বর্ণনা এনে, যেখানে বদরের সাহাবীদের সংখ্যাকে তালুতের সেই লোকদের সংখ্যার সাথে মেলানো হয়েছে যারা তাঁর সাথে নদী পার হয়েছিল।"
+          },
+          {
+            "en": "The same gift appears elsewhere under another name. 9:40 and 48:4 both speak of sakinah, tranquility sent down into the heart, once into the heart of the Prophet ﷺ in the cave and once into the hearts of the believers so that their faith would increase. 33:9 recalls a wind and unseen armies at a later siege. And 3:126 repeats 8:10 almost word for word, that the reinforcement was good tidings and a settling of hearts, and that victory is from Allah alone.",
+            "bn": "একই দান অন্য নামেও অন্যত্র আসে। ৯:৪০ আর ৪৮:৪ দুটোতেই সাকীনার কথা, দিলের ভেতরে নামানো প্রশান্তি; একবার গুহায় নবী ﷺ-এর দিলে, আরেকবার মু'মিনদের দিলে, যাতে তাদের ঈমান বাড়ে। ৩৩:৯ পরের এক অবরোধে বাতাস আর অদৃশ্য বাহিনীর কথা স্মরণ করায়। আর ৩:১২৬ প্রায় হুবহু ৮:১০ আয়াতের কথাই বলে, এ সাহায্য ছিল সুসংবাদ আর দিল শান্ত করার জন্য, আর জয় কেবল আল্লাহর কাছ থেকেই আসে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Small Mercies in a Hard Season",
+          "bn": "কঠিন সময়ের ছোট রহমত"
+        },
+        "p": [
+          {
+            "en": "Notice how unimpressive the help in this verse is. A nap and a shower of rain. No wall came down and no enemy was struck; that comes a verse later. What the believers were given on the worst night of their lives so far was rest and water, and the Quran preserves both in the record of the battle as though they were the decisive thing. Much of what actually holds a person up looks like this.",
+            "bn": "খেয়াল করুন, এ আয়াতের সাহায্যটা দেখতে কত সাধারণ। একটুখানি ঘুম আর এক পশলা বৃষ্টি। কোনো দেয়াল ভাঙেনি, কোনো শত্রুও আঘাত পায়নি; সে কথা আসে পরের আয়াতে। জীবনের সবচেয়ে কঠিন রাতে তাদেরকে দেওয়া হল বিশ্রাম আর পানি, আর কুরআন যুদ্ধের বিবরণে দুটোকেই এমনভাবে রেখে দিল যেন এগুলোই আসল নির্ণায়ক। মানুষকে সত্যিই যা দাঁড় করিয়ে রাখে, তার অনেকটাই এমন চেহারার।"
+          },
+          {
+            "en": "The rain did several jobs at once, and the verse names them in order: it washed them, it took the evil of Satan from them, it bound their hearts, and it steadied their feet. One small mercy can be carrying four loads. That is worth turning into a habit at the end of a hard day: not a general thanks, but a list of what actually held you up, named one by one the way the verse names its four purposes.",
+            "bn": "বৃষ্টি একসাথে কয়েকটা কাজ করেছে, আর আয়াত সেগুলো ক্রমে নাম ধরে বলে: তাদের ধুয়ে দিল, শয়তানের কুপ্রভাব সরিয়ে দিল, দিল বেঁধে দিল আর পা মজবুত করল। ছোট একটা রহমত চারটে বোঝা একসাথে বইতে পারে। কঠিন কোনো দিনের শেষে এটাকে অভ্যাসে বদলে নেওয়া যায়: গোটাগুটি শুকরিয়া নয়, বরং আজ সত্যিই কী আপনাকে ধরে রেখেছিল তার তালিকা, আয়াত যেভাবে চারটি উদ্দেশ্য নাম ধরে বলে সেভাবে একটা একটা করে।"
+          },
+          {
+            "en": "The clause about the whisper is the most practical of the four. Some of what presses on a believer in a hard season is not a fact at all but a suggestion, and at Badr the suggestion attacked their standing with Allah: you claim to be His allies and here you are, praying in this state. The answer was not a debate. It was water, a wash, and a prayer at dawn. When a whisper goes for your standing, purify yourself and pray, and do not argue with it.",
+            "bn": "চারটির মধ্যে কুমন্ত্রণার কথাটাই সবচেয়ে কাজের। কঠিন সময়ে মু'মিনের উপর যা চাপ দেয়, তার কিছু আসলে কোনো ঘটনাই নয়, নিছক প্ররোচনা; আর বদরে সেই প্ররোচনা হামলা করেছিল আল্লাহর সাথে তাদের সম্পর্কের উপর: দাবি কর তাঁর বন্ধু, অথচ এই অবস্থায় নামায পড়ছ। জবাবটা কোনো তর্ক ছিল না। জবাব ছিল পানি, গোসল আর ভোরের নামায। কুমন্ত্রণা যখন আপনার সম্পর্কের উপর হাত দেয়, পাক হয়ে নামাযে দাঁড়ান, তার সাথে তর্কে নামবেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for Steady Feet",
+          "bn": "পা মজবুত রাখার দোয়া"
+        },
+        "p": [
+          {
+            "en": "The Quran has already put this verse's content into a supplication, so the shortest route is to borrow it. 2:250: our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people. 8:11 is that request answered from an unexpected direction, and saying the words of 2:250 on a night you cannot sleep puts you in the same posture as the men who said them first.",
+            "bn": "এ আয়াতের বিষয়বস্তু কুরআন আগেই একটা দোয়ায় বসিয়ে দিয়েছে, তাই সবচেয়ে সহজ পথ সেটাই ধার করা। ২:২৫০: হে আমাদের প্রতিপালক, আমাদের উপর ধৈর্য ঢেলে দিন, আমাদের পা মজবুত করুন আর কাফির সম্প্রদায়ের উপর আমাদের জয় দিন। ৮:১১ হল সেই আবেদনের জবাব, আসছে অপ্রত্যাশিত দিক থেকে। যে রাতে ঘুম আসে না, সে রাতে ২:২৫০ আয়াতের কথাগুলো বলা আপনাকে ঠিক তাঁদের অবস্থানেই দাঁড় করিয়ে দেয়, যাঁরা প্রথমে এ কথা বলেছিলেন।"
+          },
+          {
+            "en": "Or ask for the verse's own four things in their own order, clearly as words of your own and not as a narration: O Allah, purify me, take the enemy's whisper away from me, bind my heart firm, and plant my feet. Then give me from Yourself a security that lets me sleep tonight. Four requests, and the verse has already shown that He answers them with things a person might otherwise walk past without noticing.",
+            "bn": "কিংবা আয়াতের নিজের চারটি বিষয়ই নিজের ক্রমে চেয়ে নিন, আর পরিষ্কারভাবেই নিজের কথা হিসেবে, কোনো বর্ণনা হিসেবে নয়: হে আল্লাহ, আমাকে পাক করুন, শত্রুর কুমন্ত্রণা আমার থেকে সরিয়ে দিন, আমার দিল মজবুত করে বেঁধে দিন আর আমার পা শক্ত করুন। এরপর আপনার কাছ থেকে এমন নিরাপত্তা দিন, যা আজ রাতে আমাকে ঘুমাতে দেয়। চারটি আবেদন; আর আয়াত আগেই দেখিয়ে দিয়েছে যে তিনি এগুলোর জবাব দেন এমন জিনিস দিয়ে, যা মানুষ খেয়ালই না করে পাশ কাটিয়ে চলে যেতে পারত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions for a Sleepless Night",
+          "bn": "নিদ্রাহীন রাতের কিছু প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "What did you get through last month on, if you list it honestly? How much of that list would you have called help at the time? And on the night before something you were dreading, did you let yourself sleep, or did you treat being awake as a form of loyalty that the Quran does not seem to ask for?",
+            "bn": "গত মাসটা আপনি কী দিয়ে পার করলেন, সৎভাবে তালিকা করলে কী দাঁড়ায়? সেই তালিকার কতটুকুকে আপনি সেই সময় সাহায্য বলে ডেকেছিলেন? আর যে জিনিসটা নিয়ে আপনার ভয় ছিল, তার আগের রাতে কি নিজেকে ঘুমাতে দিয়েছিলেন, নাকি জেগে থাকাটাকেই এক ধরনের বিশ্বস্ততা ধরে নিয়েছিলেন, যা কুরআন চাইছে বলে মনে হয় না?"
+          },
+          {
+            "en": "Which of the worries you are carrying right now would collapse if you asked whether it is a fact or a whisper? And when a whisper reaches for your standing with Allah, what do you usually do first, argue or wash and pray? The believers at Badr were handed water. What has He handed you that you have been using without calling it by its name?",
+            "bn": "এখন যে দুশ্চিন্তাগুলো বয়ে বেড়াচ্ছেন, তার কোনটা ভেঙে পড়বে যদি জিজ্ঞেস করেন, এটা আসল ঘটনা নাকি কুমন্ত্রণা? আর কুমন্ত্রণা যখন আল্লাহর সাথে আপনার সম্পর্কের দিকে হাত বাড়ায়, আপনি সাধারণত আগে কী করেন, তর্ক করেন নাকি পাক হয়ে নামাযে দাঁড়ান? বদরের মু'মিনদের হাতে পানি তুলে দেওয়া হয়েছিল। তিনি আপনার হাতে কী তুলে দিয়েছেন, যা আপনি ব্যবহার করে যাচ্ছেন কিন্তু নাম ধরে ডাকেননি?"
+          }
+        ]
+      }
+    ]
+  },
+  "8:15": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Angels Were Sent",
+          "bn": "ফেরেশতা পাঠানোর পরের হুকুম"
+        },
+        "p": [
+          {
+            "en": "Al-Anfal is Madinan and came down about Badr. The verses just before this one are pure narration: 8:12 records what the Lord inspired to the angels, 8:13 gives the reason for it, and 8:14 closes that passage. Then 8:15 changes register entirely. It stops recounting and starts commanding, opening with the address to those who have believed, and 8:16 follows at once with the exception and the consequence before 8:17 returns to the account of the day.",
+            "bn": "সূরা আল-আনফাল মাদানী, আর নেমেছে বদর নিয়ে। এর ঠিক আগের আয়াতগুলো নিখাদ বর্ণনা: ৮:১২ জানায় প্রতিপালক ফেরেশতাদের কী ওয়াহী করলেন, ৮:১৩ তার কারণ বলে, আর ৮:১৪ সেই অংশ শেষ করে। এরপর ৮:১৫ একেবারে সুর বদলে ফেলে। বর্ণনা থামিয়ে হুকুম শুরু হয়, আর শুরুটা হয় ঈমানদারদের সম্বোধন দিয়ে। তারপরই ৮:১৬ আসে ব্যতিক্রম আর পরিণাম নিয়ে, আর ৮:১৭ আবার সেদিনের বিবরণে ফিরে যায়।"
+          },
+          {
+            "en": "al-Qurtubi makes a point of when the verse arrived, and it turns out to matter for the law. The majority of scholars, he reports, argued that the verse came down after the fighting, after the war had ended and the day itself had passed. That timing is part of their case that the ruling is not tied to Badr alone, and it is one of the places where a question about chronology decides a question about obligation.",
+            "bn": "আয়াতটি কখন নেমেছে, কুরতুবী সে কথায় জোর দেন, আর দেখা যায় বিষয়টা ফিকহের জন্যও গুরুত্বপূর্ণ। তিনি জানান, অধিকাংশ আলিম বলেছেন আয়াতটি নেমেছে যুদ্ধ শেষ হওয়ার পর, লড়াই মিটে যাওয়ার এবং সেই দিনটা পার হয়ে যাওয়ার পর। এ সময়টাই তাঁদের যুক্তির অংশ যে হুকুমটি কেবল বদরের সাথে বাঁধা নয়। কখন নেমেছে সেই প্রশ্নই এখানে দায়িত্বের প্রশ্নটার মীমাংসা করে দেয়।"
+          },
+          {
+            "en": "Later in the same surah the positive form of the same instruction arrives. 8:45 says that when you encounter a company, stand firm and remember Allah much, and 8:46 adds obedience and the warning that disputing will cost you your courage and your strength will depart. The existing reflection on 8:46 reads it exactly that way, tying internal quarrels to lost nerve. 8:15 states the prohibition; 8:45-46 name the means by which it is kept.",
+            "bn": "একই সূরার পরের দিকে এসে একই নির্দেশের সদর্থক রূপটিও আসে। ৮:৪৫ বলে, কোনো দলের মুখোমুখি হলে অবিচল থাক আর আল্লাহকে বেশি বেশি স্মরণ কর; আর ৮:৪৬ তার সাথে যোগ করে আনুগত্য এবং এই সতর্কবাণী যে বাদানুবাদ করলে সাহস ফুরিয়ে যাবে আর শক্তি চলে যাবে। ৮:৪৬ আয়াতের উপর যে ভাবনাটি আগেই আছে, সেটিও ঠিক এভাবেই পড়ে, ঘরের ঝগড়াকে মনোবল হারানোর সাথে বেঁধে দেয়। ৮:১৫ নিষেধটা বলে; ৮:৪৫-৪৬ বলে সে নিষেধ রক্ষার উপায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Zahf: Closing the Distance",
+          "bn": "যাহফ: দূরত্ব কমে আসা"
+        },
+        "p": [
+          {
+            "en": "The word that fixes the situation is zahfan. al-Qurtubi traces it: az-zahf is drawing near little by little, and its original sense is dragging oneself along on the ground, after which anyone walking in war toward another came to be called zahif. At-tazahuf is two sides approaching each other. at-Tabari glosses the word the same way, as some of you advancing toward others, and defines at-tazahuf as drawing close and coming near.",
+            "bn": "যে শব্দটি অবস্থা ঠিক করে দেয় সেটি যাহফান। কুরতুবী তার শিকড় দেখান: যাহফ মানে অল্প অল্প করে এগিয়ে আসা, আর মূল অর্থ মাটিতে নিজেকে টেনে টেনে চলা; এরপর থেকে যুদ্ধে একজনের দিকে হেঁটে আসা যে কাউকেই যাহিফ বলা হতে থাকে। তাযাহুফ মানে দুই পক্ষের পরস্পরের দিকে এগোনো। তাবারীও শব্দটির একই ব্যাখ্যা দেন, তোমাদের কেউ কারও দিকে এগিয়ে আসা, আর তাযাহুফের অর্থ বলেন কাছে আসা ও নিকটবর্তী হওয়া।"
+          },
+          {
+            "en": "So the word narrows the verse to a moment. This is not any meeting with people who disbelieve; it is the point at which two lines are closing on one another. al-Qurtubi's own paraphrase makes it plain: when you have drawn near and come within sight of each other, do not flee from them and do not give them your backs. Take the word away and the prohibition would float free of the situation it was given for.",
+            "bn": "শব্দটি তাই আয়াতটিকে এক মুহূর্তে সীমিত করে দেয়। এটা কাফিরদের সাথে যেকোনো সাক্ষাৎ নয়; এটা সেই বিন্দু, যেখানে দুই সারি পরস্পরের দিকে এগিয়ে আসছে। কুরতুবীর নিজের ব্যাখ্যাই কথাটা পরিষ্কার করে: যখন কাছাকাছি এসে গেছ আর একে অন্যকে দেখতে পাচ্ছ, তখন তাদের থেকে পালাবে না আর তাদের দিকে পিঠ দেখাবে না। শব্দটা সরিয়ে দিলে নিষেধটা তার নির্দিষ্ট অবস্থা থেকে ছুটে গিয়ে ভেসে বেড়াবে।"
+          },
+          {
+            "en": "The object of the prohibition is chosen as carefully. al-Qurtubi quotes Ibn Atiyyah, who notes that al-adbar is the plural of dubur and that naming the back in this verse is eloquently placed, because the word is ugly for the one who flees and carries blame against him. The Quran does not merely say do not flee. It names the part of a man that would be presented, which is why the phrase still stings when it is read aloud.",
+            "bn": "নিষেধের কর্মটিও সমান সতর্কতায় বাছা। কুরতুবী ইবনু আতিয়্যার কথা তুলে আনেন, যিনি বলেন আল-আদবার হল দুবুর শব্দের বহুবচন, আর এ আয়াতে পিঠের নাম নেওয়াটা ভাষার দিক থেকে ঠিক জায়গায় বসেছে; কারণ শব্দটা পলাতকের জন্য কুৎসিত আর তার প্রতি ভর্ৎসনা বহন করে। কুরআন কেবল বলে না যে পালাবে না। সে মানুষের শরীরের সেই অংশটার নাম নেয়, যা দেখানো হবে; আর তাই উচ্চস্বরে পড়লে কথাটা এখনো বেঁধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Badr Only, or Every Battle",
+          "bn": "শুধু বদর, নাকি সব যুদ্ধ"
+        },
+        "p": [
+          {
+            "en": "al-Qurtubi lays out a real disagreement here and names both sides. It is reported from Abu Sa'id al-Khudri (RA) that the prohibition was specific to the day of Badr, and Nafi', al-Hasan, Qatadah, Yazid ibn Abi Habib and ad-Dahhak said the same, and Abu Hanifah held it. Their reasoning is historical: the people of Badr had no company to withdraw to, there were no other Muslims on the earth that day, and the Muslims had no band except the Prophet ﷺ himself.",
+            "bn": "কুরতুবী এখানে সত্যিকারের এক মতভেদ সাজিয়ে দেন আর দুই পক্ষের নামই বলেন। আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণিত যে নিষেধটি ছিল কেবল বদরের দিনের জন্য; নাফি', হাসান, কাতাদা, ইয়াযীদ ইবনু আবী হাবীব ও দাহহাকও একই কথা বলেছেন, আর আবূ হানীফা এ মতই নিয়েছেন। তাঁদের যুক্তিটা ঐতিহাসিক: বদরের লোকদের ফিরে যাওয়ার মতো কোনো দল ছিল না, সেদিন যমীনে আর কোনো মুসলিম ছিল না, আর মুসলিমদের কোনো বাহিনীই ছিল না, ছিলেন কেবল নবী ﷺ নিজে।"
+          },
+          {
+            "en": "Their textual argument is the word yawma'idhin, on such a day, in 8:16, which they read as pointing at Badr, and they hold that the ruling was afterwards lightened by the verse of weakness. al-Qurtubi records an objection from al-Kiya to the historical premise: there were many of the Ansar still in Madinah whom the Prophet ﷺ had not ordered out, since the people did not think there would be a battle and believed it was the caravan.",
+            "bn": "তাঁদের শাব্দিক যুক্তি ৮:১৬ আয়াতের ইয়াওমায়িযিন শব্দ, অর্থাৎ 'এমন দিনে', যাকে তাঁরা বদরের দিকে ইশারা হিসেবে পড়েন; আর তাঁদের মত, পরে দুর্বলতার আয়াত এসে হুকুমটি হালকা করে দিয়েছে। কুরতুবী এ ঐতিহাসিক ভিত্তির বিরুদ্ধে কিয়ার আপত্তিটিও লিখে রাখেন: মাদীনায় আনসারদের অনেকেই তখনো রয়ে গিয়েছিলেন, যাঁদের নবী ﷺ বেরোনোর আদেশ দেননি; কারণ লোকেরা ভাবেনি যুদ্ধ হবে, তারা ধরে নিয়েছিল ব্যাপারটা বাণিজ্য কাফেলার।"
+          },
+          {
+            "en": "The other position is reported from Ibn Abbas (RA) and, al-Qurtubi says, from the rest of the scholars: the verse stands until the Day of Resurrection, subject to the condition of numbers that Allah set out in another verse, and there is no abrogation in it at all. Their proof is the one about timing, that the verse came down after the war was over. Malik, ash-Shafi'i and most of the scholars held this, and al-Qurtubi treats the hadith of the seven destructive sins as decisive for it.",
+            "bn": "অন্য মতটি বর্ণিত ইবনু আব্বাস (রাঃ) থেকে, আর কুরতুবীর ভাষায় বাকি আলিমদের থেকেও: আয়াতের হুকুম ক্বিয়ামাত পর্যন্ত বহাল, তবে সংখ্যার সেই শর্ত মেনে যা আল্লাহ অন্য আয়াতে বলে দিয়েছেন; আর এতে কোনো নাসখ নেই। তাঁদের দলিল সেই সময়ের কথাটাই, আয়াতটি নেমেছে যুদ্ধ শেষ হওয়ার পর। মালিক, শাফিঈ ও অধিকাংশ আলিম এ মতেই ছিলেন, আর কুরতুবী সাত ধ্বংসকারী গুনাহের হাদীসটিকে এ পক্ষে চূড়ান্ত দলিল ধরেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Sixth in a List of Seven",
+          "bn": "সাত গুনাহের ষষ্ঠটি"
+        },
+        "p": [
+          {
+            "en": "Sahih al-Bukhari 2766, from Abu Hurayrah (RA): the Prophet ﷺ said, avoid the seven great destructive sins. The people asked, Messenger of Allah, what are they? He said: associating others with Allah, sorcery, killing the soul Allah has forbidden except by right, consuming interest, consuming an orphan's wealth, fleeing on the day of battle, and slandering chaste believing women. Fleeing is the sixth of the seven. al-Qurtubi cites the same hadith from Sahih Muslim, also through Abu Hurayrah (RA), and calls it decisive.",
+            "bn": "সহীহ বুখারী ২৭৬৬, আবূ হুরাইরা (রাঃ) থেকে: নবী ﷺ বললেন, সাতটি ধ্বংসকারী গুনাহ থেকে বেঁচে থাক। লোকেরা জিজ্ঞেস করল, হে আল্লাহর রসূল, সেগুলো কী? তিনি বললেন: আল্লাহর সাথে শরীক করা, জাদু, আল্লাহ যে প্রাণ হত্যা হারাম করেছেন তাকে অন্যায়ভাবে হত্যা করা, সুদ খাওয়া, এতীমের মাল খাওয়া, যুদ্ধের দিনে পিঠ ফিরিয়ে পালানো, আর সচ্চরিত্রা মু'মিন নারীদের প্রতি অপবাদ দেওয়া। সাতটির মধ্যে পালানোটা ষষ্ঠ। কুরতুবী একই হাদীস সহীহ মুসলিম থেকে আনেন, আবূ হুরাইরা (রাঃ)-এর সূত্রেই, আর তাকে চূড়ান্ত দলিল বলেন।"
+          },
+          {
+            "en": "Notice what the hadith settles and what it leaves alone. It places the act among the gravest of sins, and al-Qurtubi reports that fleeing is a destructive major sin by the apparent sense of the Quran and the agreement of most of the imams. What the hadith does not do is define the situation. 8:15 does that with one word, 8:16 supplies the two exceptions, and 8:66 sets the numbers. A ruling this heavy is the one a reader is least entitled to handle loosely.",
+            "bn": "খেয়াল করুন হাদীসটি কী মীমাংসা করে আর কী ছেড়ে দেয়। হাদীসটি কাজটিকে সবচেয়ে বড় গুনাহের কাতারে বসায়, আর কুরতুবী জানান, কুরআনের বাহ্যিক অর্থ আর অধিকাংশ ইমামের একমত অনুসারে যুদ্ধ থেকে পালানো ধ্বংসকারী কবীরা গুনাহ। কিন্তু হাদীসটি অবস্থার সীমা বেঁধে দেয় না। সেটা ৮:১৫ করে একটি শব্দ দিয়ে, ৮:১৬ দুটো ব্যতিক্রম জোগায়, আর ৮:৬৬ সংখ্যা ঠিক করে দেয়। এত ভারী হুকুম নিয়েই পাঠকের ঢিলেঢালা কথা বলার অধিকার সবচেয়ে কম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Verse That Lightened It",
+          "bn": "যে আয়াত ভার হালকা করল"
+        },
+        "p": [
+          {
+            "en": "Fifty verses on, in the same surah, the numbers are set. 8:65 gives the first standard: twenty steadfast among you will overcome two hundred, and a hundred will overcome a thousand of those who disbelieve, because they are a people who do not understand. That is a ratio of ten to one, and it is stated as an instruction to urge the believers rather than as a description of what any group happens to feel capable of.",
+            "bn": "একই সূরায় আরও পঞ্চাশ আয়াত এগিয়ে গিয়ে সংখ্যাগুলো ঠিক করে দেওয়া হয়। ৮:৬৫ প্রথম মাপটা দেয়: তোমাদের মধ্যে কুড়িজন অবিচল থাকলে তারা দুইশ জনের উপর জয়ী হবে, আর একশ জন জয়ী হবে কাফিরদের এক হাজারের উপর, কারণ তারা এমন সম্প্রদায় যারা বোঝে না। অনুপাতটা দশে এক, আর কথাটা বলা হয়েছে মু'মিনদের উৎসাহ দেওয়ার নির্দেশ হিসেবে, কোনো দল নিজেকে কতটা সক্ষম মনে করে তার বর্ণনা হিসেবে নয়।"
+          },
+          {
+            "en": "8:66 then lowers it. Now Allah has lightened it for you, and He knows that among you is weakness; so a hundred steadfast will overcome two hundred, and a thousand will overcome two thousand by the permission of Allah, and Allah is with the steadfast. al-Qurtubi calls this the verse of weakness, and it is the condition he attaches to 8:15. The prohibition on turning back is read against a stated ratio, not against any odds whatever.",
+            "bn": "এরপর ৮:৬৬ সেটা নামিয়ে আনে। এখন আল্লাহ তোমাদের ভার হালকা করেছেন, আর তিনি জানেন তোমাদের মধ্যে দুর্বলতা আছে; তাই একশ জন অবিচল থাকলে তারা দুইশ জনের উপর জয়ী হবে, আর এক হাজার আল্লাহর অনুমতিতে দুই হাজারের উপর জয়ী হবে; আর আল্লাহ অবিচলদের সাথেই আছেন। কুরতুবী এ আয়াতকে দুর্বলতার আয়াত বলেন, আর এটাই সেই শর্ত যা তিনি ৮:১৫ আয়াতের সাথে জুড়ে দেন। পিঠ ফেরানোর নিষেধ পড়া হয় একটা বলে দেওয়া অনুপাতের বিপরীতে, যেকোনো বৈষম্যের বিপরীতে নয়।"
+          },
+          {
+            "en": "From that al-Qurtubi derives the working rule. Whoever flees from two is a fleer from the zahf; whoever flees from three is not, and the threat does not fall on him. On the view of the majority it is not lawful for a hundred to flee except from more than two hundred, and wherever more than two stand against one Muslim, withdrawal is permitted, though patience is better. He also records a minority, among them Ibn al-Majishun in al-Wadihah, who weigh equipment and strength rather than headcount alone.",
+            "bn": "এ থেকেই কুরতুবী কাজের নিয়মটা বের করেন। যে দুইজনের সামনে থেকে পালায় সে যাহফ থেকে পলাতক; যে তিনজনের সামনে থেকে পালায় সে নয়, আর তার উপর ধমকিটা পড়ে না। অধিকাংশের মতে একশ জনের পালানো বৈধ নয়, কেবল দুইশর বেশি সংখ্যার সামনে থেকে ছাড়া; আর একজন মুসলিমের বিপরীতে দুইয়ের বেশি দাঁড়ালে সরে আসা জায়েয, যদিও ধৈর্যই উত্তম। তিনি সংখ্যালঘু এক মতও লিখে রাখেন, যাঁদের মধ্যে আল-ওয়াদিহায় ইবনুল মাজিশূন; তাঁরা কেবল মাথা গোনার বদলে সরঞ্জাম আর শক্তির হিসাবও ধরেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Holding a Post You Took",
+          "bn": "নেওয়া দায়িত্বে টিকে থাকা"
+        },
+        "p": [
+          {
+            "en": "The first thing this verse asks of a reader who is not standing in a battle line is restraint. It is a ruling of war with a defined moment, two named exceptions and a numerical condition set in another verse, and the people entitled to apply it are the people in that situation with knowledge of the law. Learning it as law, in the shape the commentators give it, and not lifting it out as a slogan, is itself part of obeying it.",
+            "bn": "যুদ্ধের সারিতে দাঁড়িয়ে নেই এমন পাঠকের কাছে এ আয়াত প্রথমে যা চায় তা হল সংযম। এ হুকুম যুদ্ধের হুকুম, যার নির্দিষ্ট এক মুহূর্ত আছে, দুটি বলে দেওয়া ব্যতিক্রম আছে, আর অন্য আয়াতে বসানো সংখ্যার শর্ত আছে; আর তা প্রয়োগ করার অধিকার সেই লোকদের, যাঁরা সেই অবস্থায় আছেন আর শরীয়তের জ্ঞান রাখেন। মুফাসসিরগণ যে আকারে দিয়েছেন সেভাবেই একে হুকুম হিসেবে শেখা, আর স্লোগান বানিয়ে তুলে না নেওয়া, এ আয়াত মানারই একটা অংশ।"
+          },
+          {
+            "en": "What does carry across is the thing the verse protects: the trust of a man who is standing where he agreed to stand, and who knows that others are counting on his standing there. as-Sa'di reads the prohibition as a command to a courage that comes from faith, and to seeking out the means that strengthen hearts and bodies, since standing firm is help given to the religion of Allah. 8:46 in this same surah shows the mechanism from the other end, quarrelling first and courage leaving afterwards, so unity and patience and discipline arrive as one package rather than three separate virtues.",
+            "bn": "যা সবসময়ের জন্য থেকে যায় তা হল আয়াত যা পাহারা দিচ্ছে: যে মানুষ দাঁড়াতে রাজি হয়েছিল সেখানেই দাঁড়িয়ে আছে তার আমানতদারি, আর সে জানে তার ওই দাঁড়িয়ে থাকার উপর আরও অনেকে ভরসা করছে। সা'দী এ নিষেধকে পড়েন ঈমান থেকে আসা সাহসের হুকুম হিসেবে, আর দিল ও শরীর মজবুত করে এমন উপায় খুঁজে নেওয়ার হুকুম হিসেবে; কারণ অবিচল থাকাটাই আল্লাহর দীনের সাহায্য। একই সূরার ৮:৪৬ আয়াত ব্যাপারটা অন্য প্রান্ত থেকে দেখায়, প্রথমে ঝগড়া আর তারপর সাহস চলে যাওয়া। ফলে ঐক্য, ধৈর্য আর শৃঙ্খলা তিনটি আলাদা গুণ হিসেবে আসে না, একসাথেই আসে।"
+          },
+          {
+            "en": "And notice that the two exceptions in 8:16 are not escapes. Swerving as a manoeuvre for the fighting, and moving to join another company: both of them leave a man facing the same fight, and both of them are about getting back into it. Where stepping back is allowed at all, it is a step toward the work and not away from it. A pause to regroup and a departure are two different acts, whatever a man tells himself.",
+            "bn": "আর খেয়াল করুন, ৮:১৬ আয়াতের দুটি ব্যতিক্রম পালানোর পথ নয়। লড়াইয়ের কৌশল হিসেবে সরে যাওয়া, আর নিজের দলের সাথে গিয়ে মেশা; দুটোতেই মানুষের মুখ একই লড়াইয়ের দিকেই থাকে, আর দুটোই সেই লড়াইয়ে ফিরে আসার জন্য। পিছিয়ে আসা যেখানে আদৌ জায়েয, সেখানেও পা পড়ে কাজের দিকেই, কাজ থেকে দূরে নয়। গুছিয়ে নেওয়ার জন্য থামা আর ছেড়ে চলে যাওয়া দুটো আলাদা কাজ, মানুষ নিজেকে যা-ই বোঝাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Du'a Against Turning Back",
+          "bn": "পিঠ না ফেরানোর প্রার্থনা"
+        },
+        "p": [
+          {
+            "en": "The Quran has already supplied the prayer for the moment this verse legislates. 2:250 is what Talut's soldiers said as they went out: our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people. And 8:45 gives the practice to go with it, inside the encounter itself: stand firm, and remember Allah much, that you may be successful. Patience asked for, and remembrance as the thing that carries it.",
+            "bn": "এ আয়াত যে মুহূর্তের হুকুম দিচ্ছে, সে মুহূর্তের দোয়াও কুরআন আগেই জোগাড় করে দিয়েছে। ২:২৫০ হল তালুতের সৈনিকদের বেরোনোর সময়ের কথা: হে আমাদের প্রতিপালক, আমাদের উপর ধৈর্য ঢেলে দিন, আমাদের পা মজবুত করুন আর কাফির সম্প্রদায়ের উপর আমাদের জয় দিন। আর ৮:৪৫ তার সাথে মুখোমুখি হওয়ার ভেতরের আমলটা দেয়: অবিচল থাক আর আল্লাহকে বেশি বেশি স্মরণ কর, যাতে তোমরা সফল হও। ধৈর্য চাওয়া হল, আর যিকিরই সে ধৈর্য বহন করে।"
+          },
+          {
+            "en": "A supplication in this verse's own vocabulary, offered as words of your own and not as a narration, would run: O Allah, do not let me show my back to what You have put in front of me, and do not let me leave a place You stood me in. Make me firm where I am, and if I must move, let it be toward the work and not away from it. Allah is with the steadfast, as 8:66 ends.",
+            "bn": "এ আয়াতের নিজের শব্দভাণ্ডার দিয়ে গড়া একটা দোয়া, নিজের কথা হিসেবেই, কোনো বর্ণনা হিসেবে নয়, এমন দাঁড়াতে পারে: হে আল্লাহ, আপনি আমার সামনে যা রেখেছেন তার দিকে আমাকে পিঠ দেখাতে দেবেন না, আর আপনি যে জায়গায় আমাকে দাঁড় করিয়েছেন সে জায়গা ছাড়তে দেবেন না। যেখানে আছি সেখানেই আমাকে মজবুত রাখুন, আর সরতে হলে যেন কাজের দিকেই সরি, কাজ ছেড়ে নয়। ৮:৬৬ আয়াত যেভাবে শেষ হয়, আল্লাহ অবিচলদের সাথেই আছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Own Ground",
+          "bn": "নিজের জায়গা নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Where did you agree to stand, and are you still there? Think of the places nobody is watching: a responsibility you took on quietly, a person who depends on you, a duty that has stopped being interesting. And when you last stepped back from one of them, which of the two exceptions did you tell yourself you were using?",
+            "bn": "কোথায় দাঁড়াবেন বলে কথা দিয়েছিলেন, আর এখনো সেখানে আছেন কি? সেই জায়গাগুলোর কথা ভাবুন যেগুলোর দিকে কেউ তাকিয়ে নেই: চুপচাপ কাঁধে তুলে নেওয়া কোনো দায়িত্ব, আপনার উপর নির্ভর করে থাকা কোনো মানুষ, কিংবা এমন কোনো কাজ যা আর আকর্ষণীয় লাগে না। আর শেষবার যখন এর কোনোটা থেকে পিছিয়ে এসেছিলেন, নিজেকে বলেছিলেন দুটো ব্যতিক্রমের কোনটা ব্যবহার করছেন?"
+          },
+          {
+            "en": "This verse comes with named exceptions rather than none at all. What does that tell you about how commands are given to people whom Allah knows to be weak, and does 8:66 change how you hear the demand in 8:15? And when you next read a ruling of the Quran that you are not in a position to be asked to carry out, what will you do with it?",
+            "bn": "এ আয়াতের সাথে ব্যতিক্রম বলে দেওয়া হয়েছে, একটাও রাখা হয়নি এমন নয়। আল্লাহ যাদের দুর্বলতা জানেন, তাদের কীভাবে হুকুম দেওয়া হয়, এ থেকে আপনি কী বুঝলেন? আর ৮:৬৬ আয়াত কি ৮:১৫ আয়াতের দাবিটা আপনার কানে বদলে দেয়? এরপর কুরআনের এমন কোনো হুকুম পড়লে, যা পালন করার অবস্থাতেই আপনি নেই, তা নিয়ে আপনি কী করবেন?"
+          }
+        ]
+      }
+    ]
+  },
   "8:24": {
     "sections": [
       {

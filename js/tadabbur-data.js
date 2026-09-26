@@ -6423,6 +6423,86 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When the threat cannot be removed, ask for patience to be poured over you and for a death in submission, and leave the rest with Him.",
     "lessonBn": "বিপদটা যখন সরানো যায় না, তখন চান আপনার উপর ধৈর্য ঢেলে দেওয়া হোক আর আত্মসমর্পণের অবস্থায় মৃত্যু হোক। বাকিটা তাঁর হাতেই ছেড়ে দিন।"
+  },
+  "7:188": {
+    "reflectionEn": "He has just been asked when the Hour will come, and the answer was that its knowledge rests with his Lord alone. Now he is made to say something larger. I hold no benefit and no harm for myself, except what Allah has willed. Then comes the proof, and it is an ordinary one: if I knew the unseen I would have gathered much good, and no harm would have touched me. The losses of his own life are offered as evidence that the future was never handed to him. What he ﷺ does claim is exactly two things, a warner and a bringer of good news, and that only for a people who believe.",
+    "reflectionBn": "ক্বিয়ামাত কখন আসবে, এ প্রশ্নের জবাব ছিল আগের আয়াতে: সে খবর একমাত্র তাঁর প্রতিপালকের কাছে। এবার তার চেয়েও বড় কথা বলানো হচ্ছে। আল্লাহ যা চান তা ছাড়া নিজের ভালো বা মন্দ করার ক্ষমতাও আমার নেই। এরপর প্রমাণটাও একেবারে সাধারণ। অদৃশ্যের খবর জানা থাকলে আমি অনেক কল্যাণ জমিয়ে নিতাম, কোনো অকল্যাণ আমাকে ছুঁতেও পারত না। নিজের জীবনের ক্ষতিগুলোই সাক্ষী, ভবিষ্যতের চাবি তাঁকে দেওয়া হয়নি। তিনি ﷺ দাবি করছেন ঠিক দুটো কাজ, সতর্ক করা আর সুসংবাদ দেওয়া, আর তা-ও ঈমান আনে এমন লোকদের জন্য।",
+    "pointsEn": [
+      "What do I quietly expect myself to know about my own tomorrow?",
+      "When I plan, am I taking the means left to me, or demanding a certainty that was never given?",
+      "Whom do I turn to first when a harm I cannot see is close?",
+      "If he ﷺ was told to say he holds nothing for himself, what should change in the way I ask?",
+      "Of the two things he claims here, warning and good news, which one do I pass on to the people near me?"
+    ],
+    "pointsBn": [
+      "নিজের আগামী দিন সম্পর্কে আমি চুপচাপ কতটা জানার আশা রাখি?",
+      "পরিকল্পনা করার সময় আমি হাতে থাকা উপায়গুলো কাজে লাগাই, নাকি এমন নিশ্চয়তা চাই যা কখনো দেওয়াই হয়নি?",
+      "চোখে পড়ে না এমন কোনো ক্ষতি ঘনিয়ে এলে আমি সবার আগে কার দিকে ফিরি?",
+      "তাঁকে ﷺ যখন বলতে বলা হল নিজের জন্যও তাঁর হাতে কিছু নেই, তখন আমার চাওয়ার ঢঙে কী বদলানো উচিত?",
+      "এ আয়াতে তিনি দুটো কাজের দাবি করছেন, সতর্ক করা আর সুসংবাদ দেওয়া; আমি কাছের মানুষদের কাছে কোনটা পৌঁছে দিই?"
+    ],
+    "lessonEn": "He was given revelation, not the future; take the means you have, and ask the One who actually owns the benefit and the harm.",
+    "lessonBn": "তাঁকে ﷺ ওয়াহী দেওয়া হয়েছে, ভবিষ্যতের খবর নয়; হাতে থাকা উপায় কাজে লাগান, আর যিনি ভালো-মন্দের আসল মালিক তাঁর কাছেই চান।"
+  },
+  "7:195": {
+    "reflectionEn": "The surah has been pressing the same point for several verses, and now it asks four questions in a row. Do they have feet to walk with? Hands to grip with? Eyes to see with? Ears to hear with? Every question names a faculty the questioner plainly has and the thing he bows to plainly does not. Nothing is argued; the listener is only asked to look. Then the challenge: call your partners, plot against me together, and give me no respite. He ﷺ is made to invite the worst they can manage, because he knows who is actually holding him.",
+    "reflectionBn": "সূরা কয়েক আয়াত ধরে একই কথায় চাপ দিয়ে যাচ্ছে, আর এখানে এসে পরপর চারটি প্রশ্ন করে। তাদের কি পা আছে, যা দিয়ে চলে? হাত আছে, যা দিয়ে ধরে? চোখ আছে, যা দিয়ে দেখে? কান আছে, যা দিয়ে শোনে? প্রতিটি প্রশ্নে এমন এক অঙ্গের নাম, যা প্রশ্নকর্তার স্পষ্টতই আছে আর যার সামনে সে মাথা নোয়ায় তার স্পষ্টতই নেই। কোনো তর্ক নেই; শ্রোতাকে কেবল তাকিয়ে দেখতে বলা হচ্ছে। এরপর চ্যালেঞ্জ: তোমাদের শরীকদের ডাক, সবাই মিলে আমার বিরুদ্ধে ষড়যন্ত্র কর, আমাকে একটুও সময় দিও না। তাঁকে ﷺ দিয়েই তাদের সর্বোচ্চ চেষ্টাটা ডেকে আনানো হচ্ছে, কারণ তিনি জানেন তাঁকে আসলে কে ধরে রেখেছেন।",
+    "pointsEn": [
+      "What do I actually lean on when the news is bad, before I lean on Allah?",
+      "Would the thing I lean on pass these four questions if I asked them of it honestly?",
+      "Which of my own faculties, feet or hands or eyes or ears, am I using today as though I made them myself?",
+      "What would it take for me to invite the worst outcome the way this verse does, because of who is holding me?",
+      "Where have I quietly turned a means Allah gave me into a guarantee?"
+    ],
+    "pointsBn": [
+      "খারাপ খবর এলে আল্লাহর উপর ভরসা করার আগে আমি আসলে কার উপর ভর দিই?",
+      "যার উপর ভর দিই, সৎভাবে এই চারটি প্রশ্ন করলে সে কি টিকবে?",
+      "পা, হাত, চোখ, কান; আমার নিজের কোন অঙ্গটা আজ আমি এমনভাবে চালাচ্ছি যেন সেটা আমারই বানানো?",
+      "এ আয়াতের মতো সবচেয়ে খারাপ পরিণতিকেও ডেকে আনতে আমার কী দরকার, আর কার উপর ভরসা থাকলে তা সম্ভব?",
+      "আল্লাহ দেওয়া কোন উপায়কে আমি চুপচাপ নিশ্চয়তা বানিয়ে ফেলেছি?"
+    ],
+    "lessonEn": "Ask of whatever you lean on whether it can walk, grip, see or hear; then take your means as means and keep your worship for Allah alone.",
+    "lessonBn": "যার উপর ভর দিচ্ছেন তাকে জিজ্ঞেস করুন সে চলতে, ধরতে, দেখতে বা শুনতে পারে কি না; এরপর উপায়কে উপায়ই রাখুন আর ইবাদাত কেবল আল্লাহর জন্যই রাখুন।"
+  },
+  "8:11": {
+    "reflectionEn": "The verse recalls two gifts on the night before a battle, and neither of them is an army. Drowsiness came over them, a security from Him, on a night when sleep should have been impossible. Then water came down from the sky, and four purposes are named in one breath: to purify them, to take from them the evil of Satan, to bind their hearts firm, and to plant their feet. The rain washed them, packed the loose ground under them, and answered a worry that had been eating at them. The help that steadied the day arrived as weather and as sleep.",
+    "reflectionBn": "আয়াতটি যুদ্ধের আগের রাতের দুটি দান স্মরণ করায়, আর কোনোটাই কোনো বাহিনী নয়। তাঁর কাছ থেকে প্রশান্তি হিসেবে তাদের উপর নেমে এল তন্দ্রা, এমন এক রাতে যখন ঘুম আসারই কথা ছিল না। এরপর আকাশ থেকে নামল পানি, আর এক টানে চারটি উদ্দেশ্য বলা হল: তাদেরকে পবিত্র করা, তাদের থেকে শয়তানের নাপাকি ও কুমন্ত্রণা সরানো, তাদের দিল মজবুত করা, আর তাদের পায়ের ভিত শক্ত করা। বৃষ্টি তাদের গোসল করাল, পায়ের নিচের নরম মাটি চেপে দিল, আর যে দুশ্চিন্তা তাদের কুরে কুরে খাচ্ছিল তার জবাব দিল। সেদিনকে দাঁড় করিয়ে দেওয়া সাহায্যটা এসেছিল আবহাওয়া আর ঘুমের চেহারায়।",
+    "pointsEn": [
+      "What help have I received lately that was too ordinary for me to call it help?",
+      "When I am most afraid, do I let myself rest, or do I treat sleeplessness as loyalty?",
+      "Which of my present worries is a whisper rather than a fact?",
+      "When something makes me doubt my standing with Allah, do I argue with it or do I go and purify myself and pray?",
+      "What has been holding my feet steady this year that I have never once thanked Him for?"
+    ],
+    "pointsBn": [
+      "সম্প্রতি এমন কী সাহায্য পেয়েছি, যা এত সাধারণ যে সাহায্য বলেই মনে হয়নি?",
+      "সবচেয়ে বেশি ভয়ের সময় আমি কি নিজেকে বিশ্রাম নিতে দিই, নাকি না ঘুমানোটাকেই বিশ্বস্ততা মনে করি?",
+      "আমার এখনকার দুশ্চিন্তাগুলোর কোনটা আসল ঘটনা নয়, কেবল কুমন্ত্রণা?",
+      "কোনো কিছু যখন আল্লাহর সাথে আমার সম্পর্ক নিয়ে সন্দেহ ঢুকিয়ে দেয়, আমি তার সাথে তর্ক করি, নাকি গিয়ে পাক-পবিত্র হয়ে নামাযে দাঁড়াই?",
+      "এ বছর কী আমার পা শক্ত করে ধরে রেখেছে, যার জন্য আমি একবারও তাঁকে শুকরিয়া জানাইনি?"
+    ],
+    "lessonEn": "Allah's help often arrives looking like nothing much; count the sleep, the water and the quiet as the answer they were.",
+    "lessonBn": "আল্লাহর সাহায্য প্রায়ই এমন চেহারায় আসে যা দেখতে সাধারণ; ঘুম, পানি আর মনের শান্তিকে জবাব হিসেবেই গুনুন, কারণ সেগুলো জবাবই ছিল।"
+  },
+  "8:15": {
+    "reflectionEn": "The address is to the believers, and the situation is precise: when you meet those who disbelieve advancing, closing the distance for battle. In that moment, do not turn your backs to them. The prohibition is not about what a man feels but about one movement of the body at one point in a fight. The next verse supplies the exceptions and the weight: whoever turns, unless he is manoeuvring for battle or joining another company, has come back with anger from Allah. Two ways out are named, and both of them still face the fight. What the verse guards is a man holding the place he agreed to stand in.",
+    "reflectionBn": "সম্বোধন মু'মিনদের, আর অবস্থাটা নির্দিষ্ট: যুদ্ধের জন্য এগিয়ে আসা কাফিরদের সাথে যখন মুখোমুখি হবে। সেই মুহূর্তে তাদের দিকে পিঠ ফেরাবে না। নিষেধটা মানুষ কী অনুভব করছে তা নিয়ে নয়, বরং লড়াইয়ের এক বিন্দুতে শরীরের একটা নড়াচড়া নিয়ে। পরের আয়াত ব্যতিক্রম আর ভার দুটোই জানায়: যুদ্ধের কৌশল হিসেবে সরে যাওয়া বা নিজের দলের সাথে মিলে যাওয়া ছাড়া যে পিঠ ফেরাল, সে আল্লাহর গজব নিয়েই ফিরল। দুটো বেরোনোর পথ বলা হয়েছে, আর দুটোতেই মুখ লড়াইয়ের দিকেই থাকে। আয়াত যা পাহারা দিচ্ছে তা হল, মানুষ যে জায়গায় দাঁড়াতে রাজি হয়েছিল সেখানেই দাঁড়িয়ে থাকা।",
+    "pointsEn": [
+      "Where have I agreed to stand, and how honestly am I still standing there?",
+      "When I step back from something, is it to regroup and return, or is it to be gone?",
+      "What do I learn from the fact that this ruling comes with named exceptions rather than none?",
+      "How do I treat a command of Allah that I am not in a position to be asked to carry out?",
+      "Which of my retreats have I described to myself as strategy?"
+    ],
+    "pointsBn": [
+      "আমি কোথায় দাঁড়াব বলে কথা দিয়েছিলাম, আর সৎভাবে বললে এখনো কতটা সেখানে দাঁড়িয়ে আছি?",
+      "কোনো কিছু থেকে যখন পিছিয়ে আসি, তা কি আবার গুছিয়ে ফিরে আসার জন্য, নাকি চলে যাওয়ার জন্য?",
+      "এ হুকুমের সাথে ব্যতিক্রমও বলে দেওয়া হয়েছে, একটাও রাখা হয়নি এমন নয়; এ থেকে আমি কী শিখি?",
+      "আল্লাহর এমন হুকুম, যা পালন করার অবস্থাতেই আমি নেই, তার সাথে আমার ব্যবহার কেমন?",
+      "আমার কোন পিছু হটাকে আমি নিজের কাছে কৌশল বলে চালিয়ে দিয়েছি?"
+    ],
+    "lessonEn": "Standing firm in the place you took is weighty business; note that both exceptions the next verse allows still keep a man facing the fight.",
+    "lessonBn": "যে জায়গায় দাঁড়িয়েছেন সেখানে টিকে থাকা হালকা কথা নয়; খেয়াল করুন, পরের আয়াত যে দুটো ব্যতিক্রম রাখে, দুটোতেই মুখ লড়াইয়ের দিকেই থাকে।"
   }
 };
 
