@@ -6263,6 +6263,166 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The capacity that lets you build is the same capacity that can wreck, and the verse hands you the gift and the limit in one sentence.",
     "lessonBn": "যে সামর্থ্য দিয়ে গড়া যায় সেই সামর্থ্য দিয়েই ভাঙা যায়; আয়াতটি এক বাক্যেই আপনার হাতে নিয়ামত আর সীমা দুটোই তুলে দেয়।"
+  },
+  "7:79": {
+    "reflectionEn": "The quake has already happened. 7:78 leaves Thamud lying prone inside their dwelling, and then the last line of the passage is Salih's. I had certainly conveyed to you the message of my Lord and advised you. The she-camel is not mentioned again, and he says nothing about himself. Then the sentence turns, and it does not say you did not listen to me. It says you do not like advisors, in the present tense, a settled taste rather than one refusal. A people can disagree with the truth and still stand. What finished this one was a dislike of anybody who brought it. The file closes with the messenger clear and the complaint still standing.",
+    "reflectionBn": "কম্পন ঘটে যাওয়ার পর। ৭:৭৮ সামূদকে তাদের ঘরের ভেতর উপুড় হয়ে পড়ে থাকা অবস্থায় রেখে যায়, আর তারপর পর্বটির শেষ কথাটা সালিহ (আঃ)-এর মুখে। আমি আমার প্রতিপালকের বাণী তোমাদের কাছে পৌঁছে দিয়েছি, আর তোমাদেরকে নাসীহাত করেছি। উটনীর কথা আর একবারও ওঠে না, নিজের কথাও তিনি বলেন না। তারপর বাক্যটা মোড় নেয়, আর সেখানে বলা হয় না যে তোমরা আমার কথা শোননি। বলা হয়, তোমরা নাসীহাতকারীদের পছন্দ কর না। এটা এক দিনের অস্বীকার নয়, এ এক পাকা রুচি। সত্যের সঙ্গে দ্বিমত করেও একটা জাতি দাঁড়িয়ে থাকতে পারে। এই জাতিকে শেষ করেছে সত্য যে আনে তাকে অপছন্দ করার স্বভাবটা। ফাইল বন্ধ হয় রসূল দায়মুক্ত, আর অভিযোগটা দাঁড়ানো অবস্থায়।",
+    "pointsEn": [
+      "Who is the last person who told me something about myself that I did not want to hear, and what did I do with it?",
+      "When advice lands badly, do I start weighing the point, or start weighing the person who made it?",
+      "Is there someone whose corrections I routinely discount for a reason I could not say out loud?",
+      "Salih (AS) claimed delivery and sincerity and claimed nothing about results. What am I refusing to deliver because I doubt it will work?",
+      "If my own account were read out today, would conveyed and advised be true of me for the people closest to me?"
+    ],
+    "pointsBn": [
+      "সবশেষে কে আমাকে আমার নিজের সম্পর্কে এমন কিছু বলেছিল যা আমি শুনতে চাইনি, আর সেই কথাটা নিয়ে আমি কী করেছি?",
+      "নাসীহাত গায়ে লাগলে আমি কথাটার ওজন মাপতে বসি, না যে বলল তার ওজন মাপতে বসি?",
+      "এমন কেউ আছে যার শুধরে দেওয়াটা আমি নিয়ম করে উড়িয়ে দিই, অথচ কারণটা মুখে বলতে পারব না?",
+      "সালিহ (আঃ) দাবি করেছেন পৌঁছে দেওয়া আর আন্তরিকতা, ফলের কোনো দাবি করেননি। ফল হবে না ভেবে আমি কোন কাজটা পৌঁছে দিতে চাইছি না?",
+      "আজ যদি আমার হিসাবটা পড়ে শোনানো হয়, আমার সবচেয়ে কাছের মানুষদের বেলায় পৌঁছে দিয়েছি আর নাসীহাত করেছি কথাটা কি সত্যি হবে?"
+    ],
+    "lessonEn": "A people can disagree with the truth and still stand; what ruins them is a settled dislike of anyone who brings it.",
+    "lessonBn": "সত্যের সঙ্গে দ্বিমত করেও একটা জাতি দাঁড়িয়ে থাকতে পারে; যা তাদের শেষ করে দেয় তা হলো সত্য যে আনে তাকে অপছন্দ করার পাকা স্বভাব।"
+  },
+  "7:85": {
+    "reflectionEn": "The call opens like the other three in this stretch: worship Allah, you have no deity other than Him. Then it goes where none of the others go. Fulfil the measure and the weight, do not deprive people of their things, and do not corrupt the earth after it has been set right. Notice that the command is positive. Not merely stop cutting, but fill it. And the object is the widest word available, their things rather than their wealth, which takes in anything owed to anybody. Then the whole of it is fastened to something the hearers thought was already settled. That is better for you, if you should be believers.",
+    "reflectionBn": "এই অংশের বাকি তিনটি ডাকের মতোই শুরু: তোমরা আল্লাহর ইবাদত কর, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। তারপর কথাটা যেখানে যায়, বাকি কেউ সেখানে যায় না। মাপ ও ওজন পূর্ণ কর, লোকের প্রাপ্য জিনিস কম দিও না, আর পৃথিবী সংশোধনের পর তাতে ফাসাদ ছড়িও না। খেয়াল করুন, হুকুমটা ইতিবাচক। কম দেওয়া বন্ধ কর নয়, পূর্ণ করে দাও। আর কর্মপদটি সবচেয়ে চওড়া শব্দ, তাদের জিনিস, তাদের সম্পদ নয়; এতে কারও কাছে কারও যা পাওনা সবই ঢুকে যায়। তারপর গোটা কথাটা বাঁধা হয় এমন এক জিনিসের সঙ্গে যা শ্রোতারা ভেবেছিল অনেক আগেই মিটে গেছে। এটাই তোমাদের জন্য ভালো, যদি তোমরা মু'মিন হয়ে থাক।",
+    "pointsEn": [
+      "Where in my work is the measure habitually short, and how long have I known about it?",
+      "If the other side could see everything I can see about what I am selling or promising, would the deal still stand on these terms?",
+      "Their things is wider than their money. What of somebody else's time, turn, reputation or trust is in my hands right now?",
+      "The verse makes honest weighing a test of faith rather than a separate decency. Which of my dealings would I not want read out as evidence of what I believe?",
+      "What is the one short measure I could make full this week, before anybody complains and while it still costs me something?"
+    ],
+    "pointsBn": [
+      "আমার কাজের কোন জায়গায় মাপ নিয়ম করেই কম পড়ে, আর কতদিন ধরে আমি তা জানি?",
+      "আমি যা বেচছি বা যার ওয়াদা করছি, সে সম্পর্কে আমি যা যা দেখছি অন্য পক্ষও সবটা দেখতে পেলে কারবারটা কি এই শর্তেই টিকত?",
+      "তাদের জিনিস কথাটা তাদের টাকার চেয়ে চওড়া। এই মুহূর্তে অন্য কারও সময়, পালা, সুনাম বা বিশ্বাসের কোনটা আমার হাতে আছে?",
+      "আয়াতটি সঠিক ওজনকে আলাদা কোনো ভদ্রতা নয়, ঈমানের পরীক্ষা বানিয়ে দেয়। আমার কোন কারবারটা আমি চাইব না যে আমার ঈমানের প্রমাণ হিসেবে পড়ে শোনানো হোক?",
+      "কোন একটা কম মাপ আমি এ সপ্তাহেই পূর্ণ করে দিতে পারি, কেউ নালিশ করার আগে আর যখন এতে আমার কিছু খরচ হচ্ছে তখনই?"
+    ],
+    "lessonEn": "Fill the measure rather than merely stop cutting it, and remember that the verse makes that a test of the faith you already claim.",
+    "lessonBn": "মাপে কম দেওয়া বন্ধ করা নয়, মাপ পূর্ণ করে দিন; আর মনে রাখুন, আয়াতটি এটাকেই আপনার দাবি করা ঈমানের পরীক্ষা বানিয়ে দেয়।"
+  },
+  "7:91": {
+    "reflectionEn": "This line is not new. Word for word it is 7:78, where Thamud ended, and the Quran reuses it without altering a syllable. Two peoples, two prophets, two different last acts, one sentence. Thamud had hamstrung the camel and demanded the punishment outright. Madyan had done nothing so dramatic: in 7:90 the chiefs are still working on their own townsmen, warning them that following Shu'ayb will make them losers. Then there is no interval at all. The next line is the quake, and the verb places it at a morning, inside the houses, with everyone caught where they stood. Nothing further was announced, because nothing further was owed.",
+    "reflectionBn": "এই লাইনটা নতুন নয়। শব্দে শব্দে এটি ৭:৭৮, যেখানে সামূদের শেষ হয়েছিল, আর কুরআন একটি অক্ষরও না বদলে সেটাই আবার ব্যবহার করে। দুই জাতি, দুই নবী, শেষ কাজ দুই রকম, বাক্য একটাই। সামূদ উটনী মেরে ফেলে সোজা শাস্তি চেয়ে বসেছিল। মাদইয়ান তেমন কড়া কিছু করেনি: ৭:৯০ এ সর্দাররা তখনো নিজেদের লোকদের বোঝাচ্ছে, শু'আয়বের পথ ধরলে তারা ক্ষতিগ্রস্ত হবে। আর তারপর কোনো বিরতিই নেই। পরের লাইনেই কম্পন, আর ক্রিয়াটি তা বসিয়ে দেয় ভোরবেলায়, ঘরের ভেতরে, যে যেখানে ছিল সেখানেই ধরা পড়ে। আর কিছু ঘোষণা করা হয়নি, কারণ আর কিছু পাওনাও ছিল না।",
+    "pointsEn": [
+      "What am I currently doing that I would stop today if the consequence were scheduled for next Tuesday?",
+      "Where have I read the absence of trouble as a sign that nothing is wrong?",
+      "The chiefs were still campaigning in the last line they were given. What argument have I been running for so long that arguing has become the activity?",
+      "If the quiet I am living in is an interval rather than a verdict, what is it for, and what am I spending it on?",
+      "What could I return, repair or say this week while it is still my own decision rather than somebody else's ruling?"
+    ],
+    "pointsBn": [
+      "এই মুহূর্তে আমি কোন কাজটা করছি, যা আগামী মঙ্গলবার ফল ভোগ করতে হবে জানলে আজই থামিয়ে দিতাম?",
+      "কোথায় আমি ঝামেলা না হওয়াটাকে পড়েছি এই মানে করে যে কোনো দোষই নেই?",
+      "সর্দাররা তাদের দেওয়া শেষ লাইনটাতেও প্রচার চালিয়ে যাচ্ছিল। কোন তর্কটা আমি এত দিন ধরে চালিয়ে আসছি যে তর্ক করাটাই আসল কাজ হয়ে গেছে?",
+      "আমি যে নীরবতার ভেতরে আছি, সেটা যদি রায় না হয়ে বিরতি হয়, তবে তা কী কাজের জন্য, আর আমি তা কোন কাজে খরচ করছি?",
+      "এ সপ্তাহে কোন জিনিসটা আমি ফিরিয়ে দিতে, সারিয়ে তুলতে বা বলে ফেলতে পারি, যতক্ষণ এটা অন্য কারও রায় নয়, আমার নিজের সিদ্ধান্ত?"
+    ],
+    "lessonEn": "The quiet after a wrong is an interval, not an acquittal; Madyan spent theirs organising opinion against the man who had told them the truth.",
+    "lessonBn": "অন্যায়ের পরের নীরবতা রেহাই নয়, বিরতি; মাদইয়ান তাদের বিরতিটা খরচ করেছিল যিনি সত্যি কথাটা বলেছিলেন তাঁর বিরুদ্ধে জনমত গোছাতে।"
+  },
+  "7:100": {
+    "reflectionEn": "The stories of the ruined towns stop here and the question turns on whoever is standing on their land. Has it not become clear to those who inherit the earth after its people that if We willed, We could strike them for their sins? The evidence is not new information. It is under their feet. Then comes the half that is heavier than the strike: a seal set over their hearts, so they do not hear. The ears keep working. What stops is the sort of hearing that moves anything. The lesson was available and the conclusion was never drawn, and the verse puts that to the present occupant rather than to the ones already gone.",
+    "reflectionBn": "ধ্বংস হওয়া জনপদের কাহিনি এখানে থামে, আর প্রশ্নটা ঘুরে যায় তাদের দিকে যারা এখন ওই জমিতে দাঁড়িয়ে। যারা সেখানকার অধিবাসীদের পরে যমীনের উত্তরাধিকার পেয়েছে, তারা কি এ শিক্ষা পায় না যে আমি চাইলে তাদের গুনাহের কারণে তাদের পাকড়াও করতে পারি? প্রমাণটা নতুন কোনো খবর নয়। ওটা তাদের পায়ের নিচেই। তারপর আসে আঘাতের চেয়েও ভারী অর্ধেকটা: তাদের অন্তরের উপর সীল, ফলে তারা শোনে না। কান কাজ করেই যায়। বন্ধ হয় সেই শোনাটা, যাতে কিছু নড়ে। শিক্ষাটা হাতের কাছেই ছিল, আর সিদ্ধান্তটা কখনো টানা হয়নি; আর আয়াত কথাটা তোলে আজকের বাসিন্দার কাছে, যারা চলে গেছে তাদের কাছে নয়।",
+    "pointsEn": [
+      "What did I inherit that I have never once asked about, and who lost it before me?",
+      "What have I heard so often that it no longer moves anything in me, and when did that start?",
+      "Is there a correction I have been given more than twice, in the same words, by different people?",
+      "What am I treating as settled simply because nothing has happened yet?",
+      "What would I want the next person in my place to know about how I held it?"
+    ],
+    "pointsBn": [
+      "উত্তরাধিকারে আমি কী পেয়েছি, যা নিয়ে একবারও জিজ্ঞেস করিনি, আর আমার আগে কে তা হারিয়েছিল?",
+      "কোন কথাটা আমি এত বেশি শুনে ফেলেছি যে তা আর আমার ভেতরে কিছুই নাড়ায় না, আর সেটা কখন থেকে শুরু হলো?",
+      "এমন কোনো শুধরে দেওয়ার কথা কি আছে, যা একই ভাষায় দুইবারের বেশি আলাদা আলাদা মানুষের মুখে আমি শুনেছি?",
+      "কোন জিনিসটাকে আমি মিটে গেছে ধরে নিয়েছি, কেবল এই কারণে যে এখনো কিছু ঘটেনি?",
+      "আমার জায়গায় যে পরে আসবে, আমি কেমন করে জায়গাটা ধরে রেখেছিলাম তার কোন কথাটা আমি চাইব সে জানুক?"
+    ],
+    "lessonEn": "You inherited the ground and the record with it; the danger named here is not the strike but a hearing that no longer changes anything.",
+    "lessonBn": "জমিটার সঙ্গে নথিটাও আপনি উত্তরাধিকারে পেয়েছেন; এখানে যে বিপদের নাম বলা হয়েছে তা আঘাত নয়, এমন শোনা যাতে আর কিছুই বদলায় না।"
+  },
+  "7:105": {
+    "reflectionEn": "Musa (AS) has just told Pharaoh who sent him. The next thing he says is not about his mission but about his own mouth: I am bound to say nothing about Allah except the truth. Before any miracle and before any demand, he puts a limit on his own speech, and the limit is owed upward, to the One who sent him, not to the court that is listening. Only then comes the evidence, and only then the request: send with me the Children of Israel. Three moves in one verse, in that order. A man who will not lie about Allah is the only kind of man whose proof and whose asking are worth hearing.",
+    "reflectionBn": "মূসা (আঃ) সদ্যই ফিরআউনকে জানিয়েছেন, কে তাঁকে পাঠিয়েছেন। এরপর তিনি যা বলেন সেটা তাঁর কাজ নিয়ে নয়, নিজের মুখ নিয়ে: আল্লাহর ব্যাপারে খাঁটি সত্য ছাড়া কিছু বলা আমার জন্য চলে না। কোনো মুজিজা দেখানোর আগে, কোনো দাবি তোলার আগে তিনি নিজের কথার উপর সীমা টেনে দেন। সীমাটা যে দরবার শুনছে তার কাছে দেওয়া কোনো কথা নয়, যিনি পাঠিয়েছেন তাঁর কাছে দেওয়া। তারপর আসে প্রমাণ, আর সবার শেষে দাবি: বানী ইসরাঈলকে আমার সঙ্গে পাঠিয়ে দাও। এক আয়াতে তিনটি ধাপ, এই ক্রমেই। যে লোক আল্লাহর নামে মিথ্যা বলবে না, কেবল তারই প্রমাণ আর তারই দাবি শোনার মতো।",
+    "pointsEn": [
+      "When I speak for the religion, am I as careful as this verse is about saying only what I actually know?",
+      "Is there a claim about what Allah loves or hates that I repeat because it is useful to me rather than because I have checked it?",
+      "Musa put the limit on his own speech before he asked Pharaoh for anything. What would I have to stop saying before my own asking became clean?",
+      "Who in my life would be safe telling me I do not know, and have I made that answer safe for myself?",
+      "When I am disbelieved, do I reach for a better proof or for a looser claim?"
+    ],
+    "pointsBn": [
+      "দ্বীনের কথা বলার সময় আমি কি এই আয়াতের মতো সতর্ক থাকি, যেন কেবল যা সত্যিই জানি তাই বলি?",
+      "আল্লাহ কী পছন্দ করেন বা অপছন্দ করেন নিয়ে এমন কোনো কথা কি আমি চালিয়ে যাচ্ছি, যা যাচাই করিনি, শুধু আমার কাজে লাগে বলে বলি?",
+      "ফিরআউনের কাছে কিছু চাওয়ার আগে মূসা নিজের কথার উপর সীমা টেনেছিলেন। আমার চাওয়া পরিষ্কার হওয়ার আগে কোন কথাগুলো আমার বন্ধ করা দরকার?",
+      "আমার কাছে কে নিরাপদে বলতে পারে, আমি জানি না? আর আমি নিজের জন্য এই জবাবটা নিরাপদ করে রেখেছি কি?",
+      "আমাকে যখন কেউ বিশ্বাস করে না, তখন আমি ভালো প্রমাণের দিকে হাত বাড়াই, নাকি ঢিলেঢালা দাবির দিকে?"
+    ],
+    "lessonEn": "Say nothing about Allah but the truth; that limit on your own tongue is what makes your evidence and your asking worth anything.",
+    "lessonBn": "আল্লাহর ব্যাপারে সত্য ছাড়া কিছু বলবেন না। নিজের জিহ্বার উপর টানা এই সীমাটাই আপনার প্রমাণ আর আপনার দাবিকে দাম দেয়।"
+  },
+  "7:111": {
+    "reflectionEn": "These are the chiefs of Pharaoh's people speaking, not Pharaoh himself. They have just called Musa a learned magician and asked what is to be done, and this is their counsel: hold him and his brother back, and send collectors out through the cities. Two instructions, both addressed to the one man who could carry them out, and neither of them touches a word of what Musa actually said. A staff has become a serpent in front of them and their answer is scheduling and recruitment. That is how a threatening truth is usually handled. Nobody denies it outright. It is postponed, and in the meantime a crowd is assembled that will make the denial look like agreement.",
+    "reflectionBn": "এখানে কথা বলছে ফিরআউনের গোষ্ঠীর প্রধানরা, ফিরআউন নিজে নয়। তারা সদ্য মূসাকে বিজ্ঞ যাদুকর বলেছে আর জিজ্ঞেস করেছে এখন কী করা যায়। এটাই তাদের পরামর্শ: তাকে আর তার ভাইকে আটকে রাখুন, আর নগরে নগরে সংগ্রাহক পাঠিয়ে দিন। দুটি নির্দেশ, দুটোই এমন একজনকে দেওয়া যে সেগুলো কার্যকর করতে পারে। অথচ মূসা যা বলেছিলেন তার একটি কথাও এই পরামর্শে স্পর্শ করা হয়নি। তাদের চোখের সামনে লাঠি অজগর হয়ে গেছে, আর তাদের জবাব সময় নেওয়া আর লোক জোগাড় করা। ভয় জাগানো সত্যের সঙ্গে সাধারণত এমনই করা হয়। কেউ মুখে অস্বীকার করে না। সত্যটাকে পিছিয়ে দেওয়া হয়, আর সেই ফাঁকে ভিড় জমানো হয়, যাতে অস্বীকারটাকে সবার মত বলে মনে হয়।",
+    "pointsEn": [
+      "Is there a truth in my life that I have never denied and never acted on, only postponed?",
+      "When I ask people for advice, am I asking to find out what is right, or to hear my own preference in someone else's voice?",
+      "Whose numbers do I gather around a decision so that it stops feeling like my decision?",
+      "The chiefs answered a sign with logistics. What questions am I answering with busyness instead of an answer?",
+      "If I acted today on the thing I keep deferring, what exactly would it cost me?"
+    ],
+    "pointsBn": [
+      "আমার জীবনে এমন কোনো সত্য আছে কি, যেটা আমি কখনো অস্বীকারও করিনি, মানিওনি, শুধু পিছিয়ে দিয়েছি?",
+      "কারও কাছে পরামর্শ চাইলে আমি কি সত্যিই জানতে চাই কোনটা ঠিক, নাকি নিজের পছন্দটাই অন্যের মুখে শুনতে চাই?",
+      "কোন সিদ্ধান্তের চারপাশে আমি লোকবল জোগাড় করি, যাতে সেটাকে আর আমার সিদ্ধান্ত মনে না হয়?",
+      "প্রধানরা একটি নিদর্শনের জবাব দিয়েছিল আয়োজন দিয়ে। কোন প্রশ্নগুলোর জবাব আমি জবাব দিয়ে নয়, ব্যস্ততা দিয়ে দিচ্ছি?",
+      "যে কাজটা আমি বারবার পিছিয়ে দিচ্ছি, আজ যদি সেটা করে ফেলি, ঠিক কী মূল্য দিতে হবে?"
+    ],
+    "lessonEn": "Truth is rarely refused outright; it is postponed while support is gathered, and the postponement is the refusal.",
+    "lessonBn": "সত্যকে সাধারণত মুখের উপর না বলা হয় না। সমর্থন জোগাড় হতে হতে সেটাকে পিছিয়ে দেওয়া হয়, আর সেই পিছিয়ে দেওয়াটাই আসলে অস্বীকার।"
+  },
+  "7:116": {
+    "reflectionEn": "Musa lets them go first. They throw, and what happens next is reported with great precision: they bewitched the eyes of the people. Not the ropes, not the ground, not what was actually there. The eyes. Terror followed, and the verse grants them their achievement without grudging it, a great feat of magic. Then the truth arrives and swallows the whole display. The order matters. Falsehood was given the floor, given the crowd, allowed to be impressive and allowed to frighten people, and none of that changed what it was. What it had was the eyes of the onlookers. What it never had was the thing itself.",
+    "reflectionBn": "মূসা তাদেরই আগে ছুঁড়তে দেন। তারা ছুঁড়ল, আর এরপর যা হলো তা বলা হয়েছে অসাধারণ নিখুঁতভাবে: তারা লোকজনের চোখে যাদু করল। রশি নয়, মাটি নয়, সামনে যা সত্যিই ছিল তা নয়। চোখ। এরপর এল ভয়, আর আয়াত তাদের কৃতিত্বটা কুণ্ঠা ছাড়াই মেনে নেয়, বড়ই সাংঘাতিক এক যাদু। তারপর সত্য এসে গোটা আয়োজনটা গিলে ফেলে। ক্রমটাই আসল কথা। মিথ্যাকে মঞ্চ দেওয়া হলো, ভিড় দেওয়া হলো, চমকপ্রদ হওয়ার সুযোগ দেওয়া হলো, মানুষকে ভয় পাওয়ানোর সুযোগও দেওয়া হলো। তাতে সে যা ছিল তার কিছুই বদলায়নি। তার হাতে ছিল দর্শকদের চোখ। যা কখনোই তার হাতে ছিল না, তা হলো জিনিসটা নিজেই।",
+    "pointsEn": [
+      "What have I believed lately because of how it looked rather than because I checked what it was?",
+      "The magic reached only the eyes. Where in my life am I reacting to an appearance as though it were the thing itself?",
+      "Falsehood was allowed to be impressive first and truth answered second. Can I bear that order, or do I need to win the first exchange?",
+      "What frightens me that has no actual power over me?",
+      "Musa said throw, and waited. What am I too anxious to let run its course in front of me?"
+    ],
+    "pointsBn": [
+      "শেষ কিছুদিনে কোন জিনিসটা আমি বিশ্বাস করেছি দেখতে কেমন লাগছে বলে, যাচাই করে দেখেছি বলে নয়?",
+      "যাদু পৌঁছেছিল কেবল চোখ পর্যন্ত। আমার জীবনে কোথায় আমি চেহারাটাকেই আসল জিনিস ধরে নিয়ে ব্যবস্থা নিচ্ছি?",
+      "মিথ্যাকে আগে চমক দেখানোর সুযোগ দেওয়া হলো, সত্য জবাব দিল পরে। এই ক্রমটা আমি সহ্য করতে পারি, নাকি আমার প্রথম চালেই জিততে হবে?",
+      "কোন জিনিসটা আমাকে ভয় দেখায়, যার আমার উপর আসলে কোনো ক্ষমতাই নেই?",
+      "মূসা বললেন ছুঁড়, তারপর অপেক্ষা করলেন। কোন জিনিসটা আমার সামনে নিজের মতো শেষ হতে দিতে আমি অস্থিরতায় পারি না?"
+    ],
+    "lessonEn": "Falsehood can be genuinely impressive and genuinely frightening and still reach no further than your eyes; let the truth answer second.",
+    "lessonBn": "মিথ্যা সত্যিই চমকপ্রদ হতে পারে, সত্যিই ভয় জাগাতে পারে, তারপরও আপনার চোখের চেয়ে বেশি দূর সে যেতে পারে না। সত্যকে পরে জবাব দিতে দিন।"
+  },
+  "7:126": {
+    "reflectionEn": "They have just been threatened with mutilation and crucifixion, and this is their reply. First one sentence to Pharaoh: you hold nothing against us except that we believed in the signs of our Lord when they came to us. Then, in the middle of the verse, they stop speaking to him altogether and turn: our Lord, pour upon us patience, and let us die as Muslims. Two requests, and neither one is rescue. They do not ask to be spared, they ask to be held. That morning they had come for a prize and a place near the throne. By evening they are asking only that their faith outlast their bodies.",
+    "reflectionBn": "সদ্যই তাদের হাত পা কেটে শূলে চড়ানোর ভয় দেখানো হয়েছে, আর এটাই তাদের জবাব। প্রথমে ফিরআউনকে একটি কথা: আমাদের বিরুদ্ধে তোমার আর কিছুই নেই, কেবল এই যে আমাদের প্রতিপালকের নিদর্শন আসার পর আমরা বিশ্বাস করেছি। তারপর আয়াতের মাঝখানেই তারা তার সঙ্গে কথা বলা বন্ধ করে দিয়ে ফিরে দাঁড়ায়: হে আমাদের প্রতিপালক, আমাদের উপর ধৈর্য ঢেলে দাও, আর মুসলমান হিসেবে আমাদের মৃত্যু দাও। দুটি চাওয়া, আর একটিও উদ্ধারের চাওয়া নয়। তারা রেহাই চায় না, চায় ধরে রাখা হোক। সেই সকালেই তারা এসেছিল পুরস্কার আর সিংহাসনের কাছের জায়গার লোভে। সন্ধ্যায় তারা শুধু চাইছে, তাদের ঈমান যেন তাদের শরীরের চেয়ে বেশি দিন টেকে।",
+    "pointsEn": [
+      "When I am in a hard place, what do I actually ask for first: that it be removed, or that I be held steady inside it?",
+      "They asked to be taken while still submitting. Is that how I would want tonight to end if it were my last?",
+      "What am I being resented or excluded for, and is it in fact my faith, or something about my manner that I could fix?",
+      "These men changed their whole lives inside one afternoon. What am I telling myself needs years?",
+      "Have I ever asked Allah for patience, in those words, before a hard thing rather than after it?"
+    ],
+    "pointsBn": [
+      "কঠিন সময়ে আমি আসলে প্রথমে কী চাই: বিপদটা সরে যাক, নাকি বিপদের ভেতরে আমাকে দাঁড়িয়ে রাখা হোক?",
+      "তারা চেয়েছিল আত্মসমর্পণের অবস্থাতেই তাদের নিয়ে নেওয়া হোক। আজ রাতই যদি আমার শেষ রাত হয়, আমি কি এভাবেই শেষ চাইতাম?",
+      "কোন কারণে মানুষ আমার উপর বিরক্ত হয় বা আমাকে দূরে রাখে? সেটা কি সত্যিই আমার ঈমান, নাকি আমার আচরণের এমন কিছু যা আমি ঠিক করতে পারতাম?",
+      "এই লোকগুলো এক বিকেলের ভেতর নিজেদের গোটা জীবন বদলে ফেলেছিল। কোন কাজটার জন্য আমি নিজেকে বছরের হিসাব শোনাচ্ছি?",
+      "কঠিন কিছু ঘটে যাওয়ার পরে নয়, তার আগে আমি কি কখনো এই শব্দগুলো দিয়েই আল্লাহর কাছে ধৈর্য চেয়েছি?"
+    ],
+    "lessonEn": "When the threat cannot be removed, ask for patience to be poured over you and for a death in submission, and leave the rest with Him.",
+    "lessonBn": "বিপদটা যখন সরানো যায় না, তখন চান আপনার উপর ধৈর্য ঢেলে দেওয়া হোক আর আত্মসমর্পণের অবস্থায় মৃত্যু হোক। বাকিটা তাঁর হাতেই ছেড়ে দিন।"
   }
 };
 

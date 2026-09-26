@@ -1623,6 +1623,1202 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "7:79": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Last Line of the Panel",
+          "bn": "পর্বটির শেষ লাইন"
+        },
+        "p": [
+          {
+            "en": "Al-A'raf is Makkan, and 7:73 to 7:79 is its Thamud panel. 7:73 sends Salih (AS) with the call to worship Allah alone and with the she-camel as a sign. 7:74 recalls the favours and forbids corruption. 7:75 and 7:76 set the arrogant chiefs against the believers they had kept weak. 7:77 has the camel hamstrung and the threatened punishment demanded. 7:78 says the earthquake seized them and left them prone where they lived. Our verse is the line after that, and 7:80 leaves Thamud for Lut (AS).",
+            "bn": "আ'রাফ মাক্কী সূরা, আর ৭:৭৩ থেকে ৭:৭৯ তার সামূদ পর্ব। ৭:৭৩ সালিহ (আঃ)-কে পাঠায় এক আল্লাহর ইবাদতের ডাক নিয়ে আর নিদর্শন হিসেবে সেই উটনী নিয়ে। ৭:৭৪ নিয়ামতগুলো মনে করিয়ে দেয় আর ফাসাদ করতে নিষেধ করে। ৭:৭৫ আর ৭:৭৬ গর্বিত সর্দারদের দাঁড় করায় তাদেরই দুর্বল করে রাখা মুমিনদের মুখোমুখি। ৭:৭৭ এ উটনী মারা হয় আর শাস্তিটা চেয়ে বসা হয়। ৭:৭৮ বলে, ভূমিকম্প তাদের পাকড়াও করল আর তারা নিজেদের বাসস্থানেই উপুড় হয়ে পড়ে রইল। আমাদের আয়াতটি তার পরের লাইন, আর ৭:৮০ সামূদ ছেড়ে লূত (আঃ)-এর দিকে চলে যায়।"
+          },
+          {
+            "en": "Notice where the panel stops. The account of Nuh (AS) ends at 7:64 with the ship, the drowning, and a verdict on a blind people. The account of Ad ends at 7:72 with Hud (AS) and those with him saved and the deniers wiped out. The last two accounts in the sequence do not end on the outcome at all. Thamud's ends here on Salih's own sentence, and Madyan's ends at 7:93 on Shu'ayb's. In both, the closing word belongs to the man nobody listened to.",
+            "bn": "পর্বটা কোথায় গিয়ে থামে, সেটা খেয়াল করার মতো। নূহ (আঃ)-এর বিবরণ শেষ হয় ৭:৬৪ এ নৌকা, ডুবে মরা আর একটা অন্ধ জাতির রায় দিয়ে। আদের বিবরণ শেষ হয় ৭:৭২ এ, হূদ (আঃ) আর তাঁর সঙ্গীরা রক্ষা পান আর অস্বীকারকারীরা নিঃশেষ হয়। ধারাটির শেষ দুটি বিবরণ কিন্তু পরিণতিতে শেষ হয় না। সামূদের বিবরণ এখানেই শেষ হয় সালিহ (আঃ)-এর নিজের বাক্যে, আর মাদইয়ানের শেষ হয় ৭:৯৩ এ শু'আয়ব (আঃ)-এর বাক্যে। দুই জায়গাতেই শেষ কথাটা তাঁরই, যাঁর কথা কেউ শোনেনি।"
+          },
+          {
+            "en": "That placement is the verse's difficulty and also its point. The earthquake in 7:78 has already done its work, so there is nobody left in those houses to be persuaded. A reader has to decide what a speech is for once it can no longer change anything. The Quran keeps it, gives it the last line of the passage, and lets it stand as a record rather than as an appeal. Thamud's file closes with the messenger's account of his own conduct in it.",
+            "bn": "এই জায়গাটাই আয়াতের কঠিন দিক, আর এটাই এর কথা। ৭:৭৮ এর ভূমিকম্প কাজ সেরে ফেলেছে, ওই ঘরগুলোতে বোঝানোর মতো আর কেউ নেই। তাহলে যে কথায় আর কিছুই বদলাবে না, সে কথা বলার মানে কী, পাঠককে সেটা ভাবতে হয়। কুরআন কথাটা রেখে দেয়, পর্বের শেষ লাইনটা তাকেই দেয়, আর তাকে আবেদন নয় বরং দস্তাবেজ হিসেবে দাঁড়াতে দেয়। সামূদের ফাইল বন্ধ হয় রসূলের নিজের কাজের হিসাব দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Conveyed, and Advised",
+          "bn": "পৌঁছে দিয়েছি, নাসীহাত করেছি"
+        },
+        "p": [
+          {
+            "en": "Fatawalla 'anhum. The verb tawalla is from w-l-y, and with the preposition 'an it is a turning of the back and a going away from. It is the word the Quran uses of people who turn away from a message, used here of a prophet turning away from people. Nothing in it is sulking. At-Tabari takes it as a physical departure out of their land, which means the reading of the whole verse depends on when the sentence was spoken, and that is exactly where the commentators divide.",
+            "bn": "ফাতাওয়াল্লা আনহুম। তাওয়াল্লা ক্রিয়াটি ওয়া-লা-ইয়া মূল থেকে, আর আন শব্দটির সঙ্গে এলে তা হয় পিঠ ফিরিয়ে সরে যাওয়া। কুরআন এই শব্দ ব্যবহার করে তাদের জন্য যারা বাণী থেকে মুখ ফিরিয়ে নেয়; এখানে ব্যবহার হলো এক নবীর জন্য, যিনি মানুষ থেকে মুখ ফিরিয়ে নিচ্ছেন। এর ভেতরে অভিমান নেই। তাবারী এটাকে ধরেন তাদের দেশ ছেড়ে সশরীরে বেরিয়ে যাওয়া হিসেবে, অর্থাৎ গোটা আয়াতের পাঠ নির্ভর করছে কথাটা কখন বলা হলো তার উপর। মুফাসসিরদের মতভেদটা ঠিক সেখানেই।"
+          },
+          {
+            "en": "Laqad ablaghtukum risalata rabbi wa nasahtu lakum. Both verbs are perfect, finished action, and laqad puts the weight of an oath on the first. Set that against the mission while it was still running. In 7:62 Nuh (AS) says ublighukum, I am conveying, and in 7:68 Hud (AS) says the same, both in the imperfect, with the work still open. Salih (AS) speaks in the closed tense of a man handing in an account of something already completed.",
+            "bn": "লাকাদ আবলাগতুকুম রিসালাতা রাব্বী ওয়া নাসাহতু লাকুম। দুটি ক্রিয়াই অতীতের পূর্ণ রূপে, কাজ শেষ, আর লাকাদ প্রথমটির উপর কসমের ওজন বসিয়ে দেয়। এর পাশে চলতি মিশনের ভাষাটা রাখুন। ৭:৬২ এ নূহ (আঃ) বলছেন উবলিগুকুম, আমি পৌঁছে দিচ্ছি; ৭:৬৮ এ হূদ (আঃ) একই কথা বলছেন, দুজনেই চলমান কালে, কাজ তখনো খোলা। সালিহ (আঃ) বলছেন শেষ হয়ে যাওয়া কালে, যেন হাতের কাজ বুঝিয়ে দিয়ে হিসাব জমা দিচ্ছেন।"
+          },
+          {
+            "en": "Three details remain. Risalata rabbi is singular here, the message; 7:62, 7:68 and 7:93 all have risalati, the messages, so Salih's is the only one of the four in the singular. Nasahtu comes with a preposition, lakum, advised for you, pointing the advice at their benefit rather than at his own defence. And then the ending: la tuhibbuna an-nasihin. The verb is imperfect and the noun is a definite plural. Not you did not accept me, but you do not like the advisers.",
+            "bn": "আরও তিনটি খুঁটিনাটি। এখানে রিসালাতা রাব্বী একবচন, বাণী; আর ৭:৬২, ৭:৬৮ ও ৭:৯৩ সব জায়গায় রিসালাতি, বহুবচন, কাজেই চারজনের মধ্যে কেবল সালিহ (আঃ)-এর মুখেই একবচনটি। নাসাহতু এসেছে লাকুম অব্যয়ের সঙ্গে, অর্থাৎ তোমাদের জন্য নাসীহাত, উপদেশের মুখ তাদের ভালোর দিকে, নিজের সাফাইয়ের দিকে নয়। আর শেষটা: লা তুহিব্বূনান নাসিহীন। ক্রিয়াটি চলমান কালে, আর বিশেষ্যটি নির্দিষ্ট বহুবচন। তোমরা আমাকে মানলে না নয়, বরং তোমরা নাসীহাতকারীদের পছন্দ কর না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before the Quake, or After",
+          "bn": "কম্পনের আগে, নাকি পরে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the turning away as an exit. Salih (AS) went out from among his people once they had hamstrung the camel and demanded the punishment, because Allah had revealed to him that He would destroy them after three; and at-Tabari adds the saying that no nation was destroyed while its prophet was still in its midst. On that reading the speech in our verse is a parting address delivered to living men who had three days left to them.",
+            "bn": "তাবারী মুখ ফিরিয়ে নেওয়াটাকে পড়েন বেরিয়ে যাওয়া হিসেবে। উটনী মেরে ফেলার পর আর শাস্তি চেয়ে বসার পর সালিহ (আঃ) নিজ জাতির মধ্য থেকে বেরিয়ে যান, কারণ আল্লাহ তাঁকে জানিয়ে দিয়েছিলেন যে তিন দিন পর তিনি তাদের ধ্বংস করবেন; তাবারী সঙ্গে এ কথাও আনেন যে নবী জাতির মধ্যে থাকা অবস্থায় কোনো জাতি ধ্বংস হয়নি। এই পাঠে আমাদের আয়াতের কথাটা বিদায়ী ভাষণ, আর শ্রোতারা তখনো জীবিত, হাতে তিন দিন।"
+          },
+          {
+            "en": "Ibn Kathir reads it the other way. He calls the verse taqri', a rebuke, and says plainly that Salih (AS) said this to them after Allah had destroyed them, as reproof and reproach, and that they were hearing it. As-Sa'di reads it the same way, glossing the speech as tawbikh wa 'itab, censure and reproach, spoken after Allah had destroyed them. The disagreement is not about the words. It is about whether the audience was alive, and it puts the two readings on opposite sides of 7:78.",
+            "bn": "ইবনু কাসীর পড়েন উল্টোভাবে। তিনি আয়াতটিকে বলেন তাকরী, অর্থাৎ ভর্ৎসনা, আর সোজাসুজি বলেন যে আল্লাহ তাদের ধ্বংস করার পরেই সালিহ (আঃ) এ কথা বলেছেন, তিরস্কার আর ধিক্কার হিসেবে, আর তারা তা শুনছিল। সা'দীও একইভাবে পড়েন; তিনি কথাটার ব্যাখ্যায় লেখেন তাওবীখ ওয়া ইতাব, অর্থাৎ ভর্ৎসনা আর অনুযোগ, আল্লাহ তাদের ধ্বংস করার পর বলা। মতভেদটা শব্দ নিয়ে নয়। মতভেদটা হলো শ্রোতারা জীবিত ছিল কি না, আর তাতে দুই পাঠ ৭:৭৮ এর দুই পাশে গিয়ে দাঁড়ায়।"
+          },
+          {
+            "en": "As-Sa'di does something else in this passage that is worth reporting. He lists what many commentators transmit about Thamud: the camel emerging from a smooth rock, its calf crying out three times, the people's faces turning yellow, then red, then black over the three days. He calls all of it israiliyyat with no place in the tafsir of the Book of Allah, argues that Allah would have told it had it been true, and holds that part of it is contradicted by what Salih (AS) actually says in 11:65. None of it appears below.",
+            "bn": "সা'দী এই প্রসঙ্গে আরও একটা কাজ করেন, যা বলে রাখা দরকার। তিনি সামূদ নিয়ে অনেক মুফাসসিরের বর্ণনাগুলো সাজিয়ে দেন: মসৃণ পাথর থেকে উটনী বেরিয়ে আসা, তার বাচ্চার তিনবার ডেকে ওঠা, তিন দিনে জাতির চেহারা প্রথমে হলুদ, পরে লাল, শেষে কালো হয়ে যাওয়া। এসবকে তিনি বলেন ইসরাঈলী বর্ণনা, আল্লাহর কিতাবের তাফসীরে যার জায়গা নেই; তিনি বলেন সত্যি হলে আল্লাহ নিজেই তা বলে দিতেন, আর এর একাংশ ১১:৬৫ এ সালিহ (আঃ)-এর নিজের কথার সঙ্গেই খাপ খায় না। নিচে এর কিছুই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Well at Badr",
+          "bn": "বদরের কুয়া"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir supports his reading with a narration. Al-Bukhari records from Abu Talha (RA) that on the day of Badr the Prophet ﷺ ordered twenty-four of the chiefs of Quraysh thrown into one of the foul dry wells there; that he used to stay three nights on a field he had prevailed on; and that on the third day he had his camel saddled, walked out with his companions following him, stood at the edge of the well, and called the dead by their names and their fathers' names.",
+            "bn": "ইবনু কাসীর নিজের পাঠের পক্ষে একটি হাদীস আনেন। বুখারী আবূ তালহা (রাঃ) থেকে বর্ণনা করেন যে বদরের দিন নবী ﷺ কুরাইশের চব্বিশজন সর্দারকে বদরের একটি নোংরা শুকনো কুয়ায় ফেলে দেওয়ার হুকুম দিয়েছিলেন; কোনো জাতির উপর বিজয়ী হলে তিনি সেই মাঠে তিন রাত থাকতেন; আর তৃতীয় দিন তিনি নিজের উটে জিন বাঁধার হুকুম দিয়ে হেঁটে বেরিয়ে যান, সাহাবীরা পিছু নেন, তিনি কুয়ার কিনারে দাঁড়িয়ে মৃতদের নাম ধরে আর তাদের বাপের নাম ধরে ডাকতে থাকেন।"
+          },
+          {
+            "en": "Then the address. Would it have pleased you if you had obeyed Allah and His Messenger? We have found true what our Lord promised us; have you too found true what your Lord promised you? Umar (RA) objected that he was speaking to bodies that have no souls, and the answer came: by Him in whose hand is Muhammad's soul, you do not hear what I say better than they do. The objection is Umar's and the reply is the Prophet's. Ibn Kathir quotes the episode in other phrasing, and the two wordings should not be mixed.",
+            "bn": "তারপর সেই সম্বোধন। আল্লাহ আর তাঁর রসূলের আনুগত্য করলে তোমাদের কি ভালো হতো না? আমাদের প্রতিপালক আমাদের যা ওয়াদা করেছিলেন তা আমরা সত্য পেয়েছি; তোমাদের প্রতিপালক তোমাদের যা ওয়াদা করেছিলেন, তোমরাও কি তা সত্য পেয়েছ? উমর (রাঃ) আপত্তি করলেন, আপনি তো প্রাণহীন দেহের সঙ্গে কথা বলছেন। জবাব এলো, যাঁর হাতে মুহাম্মাদের প্রাণ তাঁর কসম, আমি যা বলছি তা তোমরা তাদের চেয়ে বেশি শুনতে পাচ্ছ না। আপত্তিটা উমর (রাঃ)-এর, আর জবাবটা নবী ﷺ-এর। ইবনু কাসীর ঘটনাটি অন্য শব্দে উদ্ধৃত করেন, আর দুই বর্ণনার শব্দ মিলিয়ে ফেলা চলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Claim, Four Mouths",
+          "bn": "একই দাবি, চারটি মুখে"
+        },
+        "p": [
+          {
+            "en": "7:62 has Nuh (AS) saying that he conveys the messages of his Lord and advises them, and adding that he knows from Allah what they do not. 7:68 has Hud (AS) saying it and then describing himself as nasih amin, a trustworthy adviser to them. Both are spoken while the mission is still open and the audience can still move. Our verse says the same two things in the finished tense, after the door has shut, and that is what turns them from an appeal into an account.",
+            "bn": "৭:৬২ এ নূহ (আঃ) বলছেন, তিনি তাঁর প্রতিপালকের বাণী পৌঁছে দিচ্ছেন আর তাদের নাসীহাত করছেন, আর সঙ্গে বলছেন আল্লাহর কাছ থেকে তিনি এমন কিছু জানেন যা তারা জানে না। ৭:৬৮ এ হূদ (আঃ) একই কথা বলে নিজেকে বলছেন নাসিহ আমীন, তাদের বিশ্বস্ত কল্যাণকামী। দুটোই বলা হচ্ছে মিশন খোলা থাকতে, শ্রোতা তখনো নড়তে পারে। আমাদের আয়াত একই দুটি কথা বলে শেষ হয়ে যাওয়া কালে, দরজা বন্ধ হওয়ার পর, আর তাতেই তা আবেদন থেকে হিসাবে বদলে যায়।"
+          },
+          {
+            "en": "7:93 is the closest sister, and its ending measures the distance between two prophets' last lines. Shu'ayb (AS) says the same two things and then asks how he could grieve for a disbelieving people, where Salih (AS) names what was wrong with his. 11:57 has Hud (AS) telling Ad in advance that if they turn away he has already conveyed what he was sent with, and his Lord will bring another people in their place. And 43:78 puts our verse's complaint to the deniers directly: We brought you the truth, but most of you were averse to it.",
+            "bn": "সবচেয়ে কাছের সহোদর আয়াত ৭:৯৩, আর তার শেষটা দুই নবীর শেষ বাক্যের দূরত্ব মেপে দেয়। শু'আয়ব (আঃ) একই দুটি কথা বলে জিজ্ঞেস করেন, কাফির জাতির জন্য তিনি আক্ষেপ করবেন কী করে; আর সালিহ (আঃ) বলে দেন তাঁর জাতির দোষটা কোথায় ছিল। ১১:৫৭ এ হূদ (আঃ) আদকে আগেভাগেই বলছেন, তারা মুখ ফিরিয়ে নিলেও তিনি যা নিয়ে পাঠানো হয়েছেন তা পৌঁছে দিয়েছেন, আর তাঁর প্রতিপালক তাদের জায়গায় অন্য জাতি নিয়ে আসবেন। আর ৪৩:৭৮ আমাদের আয়াতের অভিযোগটাই সোজা অস্বীকারকারীদের মুখের উপর রাখে: আমি তোমাদের কাছে সত্য নিয়ে গিয়েছিলাম, কিন্তু তোমাদের অধিকাংশই সত্যকে অপছন্দ করেছিলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The People Who Correct You",
+          "bn": "যারা আপনাকে শুধরে দেয়"
+        },
+        "p": [
+          {
+            "en": "Read the ending as a diagnosis and it stops being about Thamud. Nobody in that town was short of information. Salih (AS) had conveyed the message, a sign had been given, and 7:75 shows that some of them did believe. What the verse names is a taste: they did not like the kind of person who gives advice. That is a disposition a reader can check in himself inside a week, because it shows itself long before any doctrine does.",
+            "bn": "শেষ কথাটাকে রোগের নাম হিসেবে পড়ুন, তাহলে আয়াতটা আর কেবল সামূদের থাকে না। ওই জনপদে তথ্যের অভাব কারও ছিল না। সালিহ (আঃ) বাণী পৌঁছে দিয়েছেন, নিদর্শনও এসেছে, আর ৭:৭৫ দেখায় তাদের কেউ কেউ ঈমান এনেছিলও। আয়াতটি যা ধরিয়ে দেয় তা একটা রুচি: নাসীহাত দেয় যে ধরনের মানুষ, তাকেই তাদের ভালো লাগত না। এই স্বভাবটা এক সপ্তাহের মধ্যেই নিজের ভেতরে পরীক্ষা করে দেখা যায়, কারণ কোনো আকীদার আগেই সে মুখ দেখায়।"
+          },
+          {
+            "en": "The test is not whether you accept correction once you know it is right. It is what happens in the first two seconds, before you know. Do you start weighing the point, or start weighing the person who made it? Thamud's chiefs went for the person. In 7:75 they ask the believers among them whether they really know that Salih was sent from his Lord, and in 7:76 they simply announce that they reject what those believers accepted. The content was never examined at all.",
+            "bn": "পরীক্ষা এটা নয় যে কথাটা ঠিক জানার পর আপনি শুধরানো মেনে নেন কি না। পরীক্ষা হলো প্রথম দুই সেকেন্ড, জানার আগে। আপনি কথাটার ওজন মাপতে বসেন, না যে বলল তার ওজন মাপতে বসেন? সামূদের সর্দাররা মানুষটাকেই ধরেছিল। ৭:৭৫ এ তারা নিজেদের মধ্যের মুমিনদের জিজ্ঞেস করে, তারা কি সত্যিই জানে যে সালিহ তাঁর প্রতিপালকের পক্ষ থেকে প্রেরিত; আর ৭:৭৬ এ তারা কেবল ঘোষণা দেয় যে ওরা যা মেনেছে তা এরা অস্বীকার করছে। কথার বিষয়টা একবারও যাচাই হলো না।"
+          },
+          {
+            "en": "So the practical work here is small and specific. Name the one person whose corrections you routinely discount, and ask whether you discount them for a reason you could say out loud. Thank the next person who tells you something you did not want to hear, on the spot, before you have decided whether they were right. And if you are the one giving the advice, notice what Salih (AS) claimed at the end: delivery and sincerity, and nothing at all about results.",
+            "bn": "কাজেই এখানকার কাজটা ছোট আর সোজা। যার শুধরে দেওয়াটা আপনি নিয়ম করে উড়িয়ে দেন, তার নামটা মনে মনে বলুন, তারপর দেখুন কারণটা মুখে বলা যায় কি না। পরের বার যে আপনাকে না চাওয়া কথাটা বলবে, তখনই তাকে ধন্যবাদ দিন, সে ঠিক ছিল কি না সেটা ঠিক করার আগেই। আর নাসীহাত যদি আপনিই দিচ্ছেন, তবে দেখুন শেষে সালিহ (আঃ) কী দাবি করলেন: পৌঁছে দেওয়া আর আন্তরিকতা, ফল নিয়ে একটা কথাও নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "O Allah, Be Witness",
+          "bn": "হে আল্লাহ, সাক্ষী থাকুন"
+        },
+        "p": [
+          {
+            "en": "No transmitted supplication is tied to this verse, but the Sunnah puts its two verbs into one. Muslim records from Jabir ibn Abdullah (RA) the sermon at Arafah, in which the Prophet ﷺ told the people that they would be asked about him and then asked them what they would say. They answered that they would bear witness that he had conveyed the message, discharged it, and given sincere counsel. He then raised his forefinger to the sky and said, O Allah, be witness, saying it three times.",
+            "bn": "এই আয়াতের সঙ্গে বাঁধা কোনো বর্ণিত দুআ নেই, তবে সুন্নাহ এর দুটি ক্রিয়াকে একটি দুআর ভেতরে বসিয়ে দেয়। মুসলিম জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে আরাফার খুতবা বর্ণনা করেন, যেখানে নবী ﷺ লোকদের বলেন যে তাঁর ব্যাপারে তাদের জিজ্ঞেস করা হবে, তারপর জিজ্ঞেস করেন তারা কী বলবে। তারা বলল, তারা সাক্ষ্য দেবে যে তিনি বাণী পৌঁছে দিয়েছেন, দায়িত্ব আদায় করেছেন আর আন্তরিক নাসীহাত করেছেন। তখন তিনি আকাশের দিকে শাহাদাত আঙুল তুলে বলেন, হে আল্লাহ, সাক্ষী থাকুন, আর কথাটা তিনবার বলেন।"
+          },
+          {
+            "en": "Those are the two words of our verse, laid over the one mission in the sequence that ended in acceptance. Conveyed and counselled: the same pair Salih (AS) claimed over a town that had just been destroyed. A short supplication can be built in the verse's own vocabulary, offered as that and not as a transmitted wording. O Allah, make me one who loves the adviser before the adviser is proved right. Let me deliver what I owe to the people You have placed me among. And when my part is done, be You the witness that I conveyed it.",
+            "bn": "ওই দুটি শব্দই আমাদের আয়াতের শব্দ, আর সেগুলো এখানে বসেছে সেই একটি মিশনের উপর যা গ্রহণে গিয়ে শেষ হয়েছে। পৌঁছে দেওয়া আর নাসীহাত: সালিহ (আঃ) এই দুটিই দাবি করেছিলেন সদ্য ধ্বংস হওয়া এক জনপদের সামনে। আয়াতের নিজের শব্দ দিয়ে ছোট একটা দুআও গড়া যায়, বর্ণিত দুআ হিসেবে নয়, নিজের কথা হিসেবেই। হে আল্লাহ, নাসীহাতকারীর কথা ঠিক প্রমাণ হওয়ার আগেই তাকে ভালোবাসার তাওফীক দিন। আপনি আমাকে যাদের মধ্যে রেখেছেন, তাদের কাছে আমার পাওনাটা পৌঁছে দেওয়ার শক্তি দিন। আর আমার অংশটা শেষ হলে আপনিই সাক্ষী থাকুন যে আমি তা পৌঁছে দিয়েছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions to Carry Out",
+          "bn": "সঙ্গে নিয়ে যাওয়ার প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse ends on a taste rather than on an argument, so the questions have to be about taste. Who is the last person who told me something about myself that I did not want to hear, and what did I do with it? Can I name one correction I accepted in the past year that cost me something? And when a piece of advice irritates me, how often is the real reason the tone, the timing, or the person, rather than the content?",
+            "bn": "আয়াতটি শেষ হয় যুক্তিতে নয়, রুচিতে; কাজেই প্রশ্নগুলোও রুচি নিয়েই হতে হবে। সবশেষে কে আমাকে আমার নিজের সম্পর্কে এমন কথা বলেছিল যা আমি শুনতে চাইনি, আর সেটা নিয়ে আমি কী করেছি? গত এক বছরে এমন একটা শুধরে দেওয়ার কথা কি বলতে পারি যা আমি মেনেছি আর যাতে আমার কিছু খরচ হয়েছে? আর নাসীহাত গায়ে লাগলে আসল কারণটা কতবার ছিল বলার ঢং, সময় বা মানুষটা, কথাটার বিষয় নয়?"
+          },
+          {
+            "en": "Salih (AS) claimed delivery and sincerity and claimed nothing about outcome. Where am I measuring myself by results that were never mine to produce, and where am I using that as cover for not delivering at all? The chiefs in 7:75 examined the messenger instead of the message. Whose message have I filed away unread because of who sent it? And if my account were read out today, would conveyed and advised be true of me for the people closest to me?",
+            "bn": "সালিহ (আঃ) দাবি করলেন পৌঁছে দেওয়া আর আন্তরিকতা, পরিণতি নিয়ে কোনো দাবি করলেন না। আমি কোথায় নিজেকে মাপছি এমন ফল দিয়ে যা তৈরি করা কখনোই আমার হাতে ছিল না, আর কোথায় সেই অজুহাতে একেবারেই কিছু পৌঁছে দিচ্ছি না? ৭:৭৫ এর সর্দাররা বাণী না দেখে বাহককে যাচাই করেছিল। কে পাঠিয়েছে দেখে আমি কার কথা না পড়েই তুলে রেখেছি? আর আজ যদি আমার হিসাব পড়ে শোনানো হয়, আমার সবচেয়ে কাছের মানুষদের বেলায় পৌঁছে দিয়েছি আর নাসীহাত করেছি কথাটা কি সত্যি হবে?"
+          }
+        ]
+      }
+    ]
+  },
+  "7:85": {
+    "sections": [
+      {
+        "h": {
+          "en": "Madyan's Turn",
+          "bn": "মাদইয়ানের পালা"
+        },
+        "p": [
+          {
+            "en": "Al-A'raf runs a series of ruined peoples, and this verse opens the last of them before Musa (AS). 7:80 to 7:84 is the account of Lut (AS) and the rain that fell on his people. 7:85 turns to Madyan. Shu'ayb's speech continues through 7:86 and 7:87, the eminent men answer him from 7:88, and the passage closes at 7:93. Then 7:94 to 7:102 draws the lesson of all of the towns together, and 7:103 sends Musa (AS) to Pharaoh.",
+            "bn": "আ'রাফ একের পর এক ধ্বংস হওয়া জাতির বিবরণ দেয়, আর মূসা (আঃ)-এর আগে তার শেষটি শুরু হয় এই আয়াত দিয়ে। ৭:৮০ থেকে ৭:৮৪ পর্যন্ত লূত (আঃ)-এর বিবরণ আর তাঁর জাতির উপর নেমে আসা বৃষ্টি। ৭:৮৫ মোড় নেয় মাদইয়ানের দিকে। শু'আয়ব (আঃ)-এর বক্তব্য চলে ৭:৮৬ আর ৭:৮৭ জুড়ে, ৭:৮৮ থেকে সর্দাররা জবাব দিতে শুরু করে, আর পর্বটি শেষ হয় ৭:৯৩ এ। তারপর ৭:৯৪ থেকে ৭:১০২ সব জনপদের শিক্ষা এক জায়গায় জড়ো করে, আর ৭:১০৩ মূসা (আঃ)-কে ফিরআউনের কাছে পাঠায়।"
+          },
+          {
+            "en": "On who Madyan were, the commentators work from transmitted genealogy rather than from the Quran, which names neither a father nor a city. At-Tabari transmits from Ibn Ishaq that they were the children of Madyan son of Ibrahim (AS), so that Madyan is a tribal name like Tamim, and that Shu'ayb (AS) was Shu'ayb son of Mikil son of Yashjur, called Yathrun in Syriac. Ibn Kathir adds that the name is used of the tribe and of the town alike, a town near Ma'an on the road of the Hijaz, and cites 28:23, where Musa (AS) arrives at the water of Madyan.",
+            "bn": "মাদইয়ানবাসী কারা, এ প্রশ্নে মুফাসসিররা কুরআনের বদলে বর্ণিত বংশপরিচয়ের উপর ভরসা করেন; কুরআন এখানে কোনো পিতার নামও বলে না, শহরের নামও বলে না। তাবারী ইবনু ইসহাক থেকে আনেন যে তারা ইবরাহীম (আঃ)-এর পুত্র মাদইয়ানের বংশধর, কাজেই মাদইয়ান তামীমের মতোই একটি গোত্রের নাম, আর শু'আয়ব (আঃ) ছিলেন মীকীলের পুত্র, তাঁর পিতা ইয়াশজুর, আর সুরিয়ানী ভাষায় তাঁর নাম ইয়াসরূন। ইবনু কাসীর যোগ করেন, নামটি গোত্র আর শহর দুটোর জন্যই চলে; শহরটি হিজাযের পথে মাআনের কাছে, আর তিনি ২৮:২৩ আয়াতের কথা তোলেন, যেখানে মূসা (আঃ) মাদইয়ানের পানির কাছে গিয়ে পৌঁছান।"
+          },
+          {
+            "en": "What is distinctive here is what follows the opening sentence. All four missions in this stretch begin with worship Allah, you have no deity other than Him. Nuh (AS) continues in 7:59 with the fear of a tremendous Day. Hud (AS) continues in 7:65 with a question about fearing Allah. Salih (AS) continues in 7:73 with a sign, the she-camel. Shu'ayb (AS) alone continues into a market. Fulfil the measure and the weight, and do not deprive people of their things: tawhid and trading standards in one breath.",
+            "bn": "এখানে আলাদা করে চোখে পড়ে খোলা বাক্যটির পরের অংশ। এই অংশের চারটি মিশনই শুরু হয় একই কথায়, তোমরা আল্লাহর ইবাদত কর, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। নূহ (আঃ) ৭:৫৯ এ এরপর আনেন এক মহাদিনের শাস্তির ভয়। হূদ (আঃ) ৭:৬৫ এ আনেন আল্লাহকে ভয় করা নিয়ে একটি প্রশ্ন। সালিহ (আঃ) ৭:৭৩ এ আনেন একটি নিদর্শন, সেই উটনী। কেবল শু'আয়ব (আঃ)-এর কথা গিয়ে ঢোকে বাজারের ভেতর। মাপ ও ওজন পূর্ণ কর, আর লোকের প্রাপ্য জিনিস কম দিও না: এক শ্বাসেই তাওহীদ আর কারবারের নিয়ম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fill It, Do Not Shave It",
+          "bn": "পূর্ণ করে দাও, ছেঁটে দিও না"
+        },
+        "p": [
+          {
+            "en": "Fa awfu al-kayla wal-mizan. Awfa is the fourth form of w-f-y, the root of fulfilment and discharge in full: not merely do not cut, but complete. The command is positive, and it sets a floor that a careful cheat cannot stand on. The same prophet is given the negative form to the same people in 11:84, do not decrease the measure and the scale. Between the two verses the duty is stated from both ends, and neither end leaves room for the other to be ignored.",
+            "bn": "ফা আওফুল কাইলা ওয়াল মীযান। আওফা এসেছে ওয়া-ফা-ইয়া মূলের চতুর্থ রূপ থেকে, আর এই মূলের অর্থ পূর্ণ করা, পুরোপুরি আদায় করা: কম না দেওয়া নয়, বরং পূর্ণ করে দেওয়া। হুকুমটি ইতিবাচক, আর এটি এমন একটা মেঝে বেঁধে দেয় যার উপর সাবধানী ঠকবাজও দাঁড়াতে পারে না। একই নবীর মুখে একই জাতির উদ্দেশে ১১:৮৪ এ আসে নিষেধের রূপটি, মাপে ও ওজনে কম দিও না। দুই আয়াতে দায়িত্বটা দুই দিক থেকেই বলা হয়ে গেল, আর কোনো দিকই অন্যটিকে এড়ানোর জায়গা রাখে না।"
+          },
+          {
+            "en": "The two nouns are not a pair of synonyms. Kayl is the measuring out of what is poured or heaped, grain and dates and oil, and mizan is the balance itself, the instrument of weighing. At-Tabari glosses the command as completing people's rights by the measure you measure with and by the weight you weigh with. So the verse covers measuring and weighing alike and closes the gap between them, which is where a trader who is scrupulous with one and careless with the other prefers to live.",
+            "bn": "দুটি শব্দ সমার্থক নয়। কাইল হলো ঢালা বা গাদা করা জিনিস মেপে দেওয়া, যেমন দানা, খেজুর, তেল; আর মীযান হলো পাল্লাটাই, ওজন করার যন্ত্র। তাবারী হুকুমটির ব্যাখ্যায় লেখেন, যে মাপে তুমি মাপো আর যে ওজনে তুমি ওজন করো, তা দিয়ে লোকের হক পুরোপুরি আদায় করো। অর্থাৎ মাপা আর ওজন করা, দুটোকেই আয়াত নাম ধরে ডাকে আর মাঝখানের ফাঁকটা বন্ধ করে দেয়; একদিকে খুঁতখুঁতে আর অন্যদিকে ঢিলে ব্যবসায়ী ঠিক ওই ফাঁকেই বাস করতে চায়।"
+          },
+          {
+            "en": "Then wa la tabkhasu an-nasa ashya'ahum. Bakhs is from b-kh-s, to diminish a thing and so to wrong its owner. At-Tabari glosses it as wronging people of their rights and cutting them short, and points to the same root in 12:20, where Yusuf (AS) is sold for a thaman bakhs, a reduced price. Ibn Kathir glosses bakhs as shorting the measure and the weight khufyatan wa tadlisan, in secret and by dressing a thing up. And the object is the widest word available: ashya'ahum, their things, not their wealth.",
+            "bn": "তারপর ওয়ালা তাবখাসুন নাসা আশইয়াআহুম। বাখস এসেছে বা-খা-সীন মূল থেকে, অর্থ কোনো জিনিস কমিয়ে দেওয়া আর তাতে তার মালিকের উপর যুলম করা। তাবারী এর ব্যাখ্যায় লেখেন, লোকের হকের উপর যুলম করা আর তাদের প্রাপ্য কমিয়ে দেওয়া; আর তিনি ১২:২০ আয়াতে একই মূলের দিকে আঙুল তোলেন, যেখানে ইউসুফ (আঃ)-কে বিক্রি করা হয় সামানে বাখস, অর্থাৎ স্বল্প মূল্যে। ইবনু কাসীর বাখসের ব্যাখ্যা দেন খুফইয়াতান ওয়া তাদলীসান, অর্থাৎ গোপনে আর জিনিস সাজিয়ে মাপ ও ওজনে কম দেওয়া। আর কর্মপদটি সবচেয়ে চওড়া শব্দ: আশইয়াআহুম, তাদের জিনিস, তাদের সম্পদ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "After It Was Set Right",
+          "bn": "সংশোধনের পর"
+        },
+        "p": [
+          {
+            "en": "Wa la tufsidu fi'l-ardi ba'da islahiha. At-Tabari's reading of the last three words is worth pausing over. He takes the setting right of the earth to be the sending of the prophet among them: Allah set the land right by raising up a prophet in it who forbids them what is not lawful for them and what Allah dislikes for them. On that reading the arrival of the message is itself the repair, and to go on shorting the measure afterwards is to break something that had just been mended.",
+            "bn": "ওয়ালা তুফসিদূ ফিল আরদি বা'দা ইসলাহিহা। শেষ তিনটি শব্দের উপর তাবারীর পাঠটা একবার থেমে দেখার মতো। যমীন ঠিক হওয়াটাকে তিনি ধরেন তাদের মধ্যে নবী পাঠানো হিসেবে: আল্লাহ তোমাদের মধ্যে নবী দাঁড় করিয়ে যমীনকে ঠিক করেছেন, যিনি তোমাদের হারাম কাজ থেকে আর আল্লাহ যা অপছন্দ করেন তা থেকে নিষেধ করেন। এই পাঠে বাণী এসে পৌঁছানোটাই মেরামত, আর তার পরেও মাপে কম দিয়ে চলা মানে সদ্য সারানো জিনিস আবার ভেঙে ফেলা।"
+          },
+          {
+            "en": "As-Sa'di reads the prohibition from the other side, taking the corruption to be the piling up of acts of disobedience, and he reads the verse's closing clause as its argument: leaving sins in obedience to Allah's command and to draw near to Him is better and more useful for the servant than committing them and earning the anger of the Almighty and the punishment of the Fire. So at-Tabari locates the repair in the coming of the prophet, and as-Sa'di locates the ruin in an accumulating habit. The two readings sit on the same sentence without colliding.",
+            "bn": "সা'দী নিষেধটিকে দেখেন অন্য পাশ থেকে; ফাসাদ মানে তিনি ধরেন নাফরমানির কাজ জমতে থাকা, আর আয়াতের শেষ বাক্যটিকেই ধরেন তার যুক্তি হিসেবে: আল্লাহর হুকুম মেনে আর তাঁর নৈকট্যের আশায় গুনাহ ছেড়ে দেওয়া বান্দার জন্য ভালো আর বেশি লাভজনক, বনাম গুনাহ করে মহাপরাক্রমশালীর ক্রোধ আর জাহান্নামের আযাব কামাই করা। অর্থাৎ তাবারী মেরামতটা খুঁজে পান নবীর আসায়, আর সা'দী ধ্বংসটা খুঁজে পান জমতে থাকা অভ্যাসে। দুটি পাঠ একই বাক্যের উপর বসে, অথচ একটি অন্যটির সঙ্গে ঠোকাঠুকি করে না।"
+          },
+          {
+            "en": "The last clause decides where the whole verse belongs. That is better for you, if you should be believers. Honest weighing is not set beside faith as a separate decency; it is made the test of the faith already claimed. Nothing in the sentence promises a better margin. The better is stated flatly and then tied to a condition about the hearer, so that a man who shorts a measure has not merely wronged a customer. He has answered a question about himself that he thought he had already answered.",
+            "bn": "শেষ বাক্যটাই ঠিক করে দেয় গোটা আয়াত কোন ঘরে পড়ে। এটাই তোমাদের জন্য ভালো, যদি তোমরা মু'মিন হয়ে থাক। সঠিক ওজনকে ঈমানের পাশে আলাদা একটা ভদ্রতা হিসেবে বসানো হয়নি; যে ঈমানের দাবি আগেই করা হয়েছে, এটিকে তারই পরীক্ষা বানানো হয়েছে। বাক্যে বেশি মুনাফার কোনো ওয়াদা নেই। ভালো কথাটা সাফ বলা হয়, তারপর তা শ্রোতার নিজের সম্পর্কে একটা শর্তে বেঁধে দেওয়া হয়। কাজেই যে মাপে কম দেয় সে কেবল খরিদ্দারের উপর যুলম করেনি। নিজের সম্পর্কে যে প্রশ্নের জবাব সে দিয়ে ফেলেছে ভেবেছিল, সেটির জবাব সে আবার দিয়ে ফেলেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Damp Under the Grain",
+          "bn": "দানার নিচে ভেজা"
+        },
+        "p": [
+          {
+            "en": "Muslim records from Abu Hurayrah (RA) that the Messenger of Allah ﷺ happened to pass by a heap of eatables. He thrust his hand into it and his fingers were moistened. He said to the owner of the heap: what is this? The man replied: Messenger of Allah, these have been drenched by rainfall. He remarked: why did you not place this over the other eatables so that the people could see it? He who deceives is not of me.",
+            "bn": "মুসলিম আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন যে আল্লাহর রসূল ﷺ একবার খাদ্যের একটি গাদার পাশ দিয়ে যাচ্ছিলেন। তিনি তার ভেতরে হাত ঢোকালেন আর তাঁর আঙুলে ভেজা লাগল। তিনি গাদার মালিককে বললেন, এটা কী? লোকটি বলল, হে আল্লাহর রসূল, এতে বৃষ্টির পানি লেগেছে। তিনি বললেন, তুমি এটা উপরের দিকে রাখলে না কেন, যাতে লোকেরা দেখতে পায়? যে ধোঁকা দেয় সে আমার দলের নয়।"
+          },
+          {
+            "en": "That narration is the practical face of Ibn Kathir's gloss on bakhs, which named secrecy and dressing a thing up as the method. Nobody had been given a short measure in that market. The weight was honest and the price was agreed, and the whole wrong lay in one fact left below the surface where a buyer's hand would not reach it. The verse forbids depriving people of their things; the narration shows that it can be done without touching the scales at all.",
+            "bn": "এই হাদীসটাই বাখস নিয়ে ইবনু কাসীরের ব্যাখ্যার হাতে-কলমে চেহারা, যেখানে তিনি পদ্ধতি হিসেবে বলেছিলেন গোপন করা আর জিনিস সাজিয়ে রাখা। ওই বাজারে কারও মাপে কম দেওয়া হয়নি। ওজন ঠিক ছিল, দামও ঠিক ছিল, আর গোটা অন্যায়টা ছিল একটি তথ্যে, যা এমন জায়গায় রেখে দেওয়া হয়েছিল যেখানে ক্রেতার হাত পৌঁছায় না। আয়াত নিষেধ করে লোকের প্রাপ্য জিনিস কম দিতে; আর হাদীস দেখিয়ে দেয়, পাল্লা না ছুঁয়েও কাজটা সারা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Balance Elsewhere",
+          "bn": "পাল্লা অন্যান্য আয়াতে"
+        },
+        "p": [
+          {
+            "en": "26:181 to 26:183 is the same command to the same people in a different surah, and it runs in three steps: give full measure, weigh with an even balance, and do not deprive people of their due or spread corruption on the earth. 17:35 gives the command to the Muslims directly and attaches a reason our verse leaves unstated, that this is best and best in result. Between them they show that the instruction was never particular to one town's market.",
+            "bn": "২৬:১৮১ থেকে ২৬:১৮৩ একই জাতিকে দেওয়া একই হুকুম, তবে অন্য সূরায়, আর সেখানে তা তিন ধাপে চলে: মাপে পূর্ণ দাও, সঠিক পাল্লায় ওজন কর, আর লোকের প্রাপ্য কম দিও না ও পৃথিবীতে ফাসাদ ছড়িও না। ১৭:৩৫ একই হুকুম সোজা মুসলিমদের দেয় আর সঙ্গে এমন একটি কারণ জুড়ে দেয় যা আমাদের আয়াত বলেনি, অর্থাৎ এটাই উত্তম নীতি আর পরিণামেও উৎকৃষ্ট। দুই আয়াত মিলে দেখায়, হুকুমটি কোনো একটা জনপদের বাজারের জন্য ছিল না।"
+          },
+          {
+            "en": "83:1 to 83:3 supplies the anatomy of the offence: woe to those who give less, who take in full from people and cause loss when they measure out to them. Ibn Kathir brings those verses into his comment on our verse and calls them a severe threat. 55:9 sets the balance inside the order of creation, and 6:152 places full measure and weight in a list of commands that also covers the orphan's property, just speech and the covenant of Allah.",
+            "bn": "৮৩:১ থেকে ৮৩:৩ অপরাধটির কাঠামো খুলে দেখায়: দুর্ভোগ ঠকবাজদের জন্য, যারা লোকের কাছ থেকে নেওয়ার সময় পুরোপুরি নেয় আর মেপে দেওয়ার সময় কম দেয়। ইবনু কাসীর আমাদের আয়াতের ব্যাখ্যায় ওই আয়াতগুলো টেনে আনেন আর সেগুলোকে বলেন কঠিন হুঁশিয়ারি। ৫৫:৯ পাল্লাটিকে বসিয়ে দেয় সৃষ্টির বিন্যাসের ভেতরে, আর ৬:১৫২ পূর্ণ মাপ ও ওজনকে রাখে এমন একটি হুকুমের তালিকায় যেখানে ইয়াতীমের সম্পত্তি, ইনসাফের কথা আর আল্লাহর সঙ্গে ওয়াদাও আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Your Measure Runs Short",
+          "bn": "আপনার মাপ কোথায় কম পড়ে"
+        },
+        "p": [
+          {
+            "en": "Very few readers pour grain for a living, and the verse is not narrowed by that. Its object is ashya'ahum, their things, the widest word it could have used, and the commentators gloss it as people's rights rather than only their goods. An hour billed and forty minutes worked is a short measure. So is a repair finished to the level that will pass a glance. So is a reference written warmly about someone you would not hire, which takes something from whoever reads it.",
+            "bn": "পাঠকদের খুব কম জনই দানা মেপে জীবিকা চালান, আর আয়াত তাতে ছোট হয়ে যায় না। এর কর্মপদ আশইয়াআহুম, তাদের জিনিস, সবচেয়ে চওড়া শব্দটাই বেছে নেওয়া হয়েছে, আর মুফাসসিররা এর ব্যাখ্যা দেন কেবল পণ্য নয়, মানুষের হক হিসেবে। এক ঘণ্টার বিল নিয়ে চল্লিশ মিনিট কাজ করা মাপে কম দেওয়া। এক নজর দেখে পার পেয়ে যাওয়ার মতো করে সারানো কাজও তাই। যাকে আপনি নিজে কাজে নিতেন না তার সম্পর্কে উষ্ণ সুপারিশ লেখাও তাই, কারণ তাতে যে পড়বে তার কাছ থেকে কিছু কমে যায়।"
+          },
+          {
+            "en": "The narration about the wet grain names the harder half. The usual failure is not a doctored scale, which is a decision, but a fact left where the other side cannot see it. The mark on the car nobody asked about. The condition in the contract that is true but unmentioned. Ibn Kathir's two words, secrecy and dressing up, cover both, and the test they suggest is simple: if the other party could see everything I can see, would this transaction still go through on these terms?",
+            "bn": "ভেজা দানার হাদীসটি কঠিন অর্ধেকটার নাম বলে দেয়। সাধারণ গলদটা পাল্লায় কারসাজি নয়, ওটা তো একটা সিদ্ধান্ত; সাধারণ গলদ হলো এমন একটা তথ্য যা অন্য পক্ষের চোখের আড়ালে রেখে দেওয়া হয়। গাড়ির যে দাগটার কথা কেউ জিজ্ঞেস করেনি। চুক্তির যে শর্তটা সত্যি, কিন্তু মুখে আনা হয়নি। ইবনু কাসীরের দুটি শব্দ, গোপন করা আর সাজিয়ে রাখা, দুটোকেই ধরে ফেলে; আর তা থেকে পরীক্ষাটা সোজা: আমি যা যা দেখছি অন্য পক্ষও যদি সবটা দেখতে পেত, এই কারবারটা কি তবু এই শর্তেই হতো?"
+          },
+          {
+            "en": "The closing condition changes the timing of all of this. That is better for you, if you should be believers, means the correction is not owed at the end of a career when there is enough margin to be generous with. It is owed on the next transaction, because that is where the claim of faith is being tested. One practical version: pick the one place in your work where you know the measure is habitually short, and make it full this week, before anybody complains and while it still costs you something.",
+            "bn": "শেষের শর্তটা এই সবের সময়টাই বদলে দেয়। এটাই তোমাদের জন্য ভালো, যদি তোমরা মু'মিন হয়ে থাক, মানে শোধরানোটা কর্মজীবনের শেষে পাওনা নয়, যখন উদার হওয়ার মতো যথেষ্ট লাভ জমে গেছে। এটা পাওনা পরের কারবারেই, কারণ ঈমানের দাবিটা ওখানেই পরীক্ষা হচ্ছে। হাতে-কলমে একটা রূপ: কাজের মধ্যে যে একটা জায়গায় আপনি জানেন মাপ নিয়ম করেই কম পড়ে, এ সপ্তাহেই সেটা পূর্ণ করে দিন, কেউ নালিশ করার আগে আর যখন এতে আপনার কিছু খরচ হচ্ছে তখনই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Barakah in the Measure",
+          "bn": "মাপে বরকত"
+        },
+        "p": [
+          {
+            "en": "The Sunnah has a supplication over exactly these words. Al-Bukhari records from Anas ibn Malik (RA) that the Messenger of Allah ﷺ said: O Allah, bestow Your blessings on their measure, and bless their mudd and their sa'. The narration adds that he meant the people of Madinah. The mudd and the sa' are the units of the kayl our verse commands, and the prayer asks for barakah in them rather than for more of them, which is a different request from the one a short measure is trying to answer.",
+            "bn": "ঠিক এই শব্দগুলোর উপরেই সুন্নাহর একটি দুআ আছে। বুখারী আনাস ইবনু মালিক (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: হে আল্লাহ, তাদের মাপে বরকত দিন, আর তাদের মুদ ও সা'য়ে বরকত দিন। বর্ণনায় বলা হয়েছে, তিনি মাদীনাবাসীদের কথা বলছিলেন। মুদ আর সা' হলো আমাদের আয়াতে হুকুম করা সেই কাইলের একক, আর দুআটি তাতে বেশি চায় না, বরকত চায়। মাপে কম দিয়ে যে প্রশ্নের জবাব দেওয়া হচ্ছে, এ চাওয়াটা তার থেকে আলাদা।"
+          },
+          {
+            "en": "A short supplication can also be built from the verse's own vocabulary, offered as that and not as a transmitted wording. O Allah, You know what I owe and what I have handed over, and the difference between the two. Fill my measure where I have been keeping it short. Keep my hands off what belongs to people who cannot check me. And put barakah in the little I earn honestly, so that I never need what I would have to take from someone else.",
+            "bn": "আয়াতের নিজের শব্দ দিয়েও ছোট একটা দুআ গড়া যায়, বর্ণিত দুআ হিসেবে নয়, নিজের কথা হিসেবেই। হে আল্লাহ, আমার কী দেনা আর আমি কতটা বুঝিয়ে দিয়েছি, আর দুটোর মধ্যে ফারাক কতটুকু, আপনি জানেন। যেখানে আমি মাপ কম রেখে এসেছি সেখানে আমার মাপ পূর্ণ করে দিন। যারা আমাকে যাচাই করতে পারে না, তাদের জিনিসের উপর থেকে আমার হাত সরিয়ে রাখুন। আর খাঁটি পথে যা কামাই তার সামান্যতেই বরকত দিন, যাতে অন্যের কাছ থেকে কেটে নিতে হয় এমন কিছু আমার কখনো দরকার না হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About What You Weigh",
+          "bn": "যা আপনি ওজন করেন তা নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse ties the measure to the claim of faith, so the questions have to reach that far. Where in my work is the measure habitually short, and how long have I known? If the other side could see everything I can see about what I am selling or promising, would the deal still stand? And is there a fact I am keeping below the surface of the heap, true but unmentioned, on the calculation that nobody will put a hand in?",
+            "bn": "আয়াতটি মাপকে ঈমানের দাবির সঙ্গে বেঁধে দেয়, কাজেই প্রশ্নগুলোকেও ততদূর যেতে হবে। আমার কাজের কোন জায়গায় মাপ নিয়ম করেই কম পড়ে, আর কতদিন ধরে আমি তা জানি? আমি যা বেচছি বা যার ওয়াদা করছি, সে সম্পর্কে আমি যা যা দেখছি অন্য পক্ষও সবটা দেখলে কারবারটা কি টিকত? আর গাদার নিচে এমন কোনো তথ্য কি আমি চাপা রেখেছি, যা সত্যি কিন্তু বলা হয়নি, এই হিসাবে যে কেউ ওখানে হাত ঢোকাবে না?"
+          },
+          {
+            "en": "Ashya'ahum is the widest word the verse could have used, so what of other people's is in my hands right now besides money: their time, their reputation, their turn, their trust? Shu'ayb (AS) was told to say all of this to his own town, where he had to keep trading afterwards. Who would find it hardest to hear this from me, and what does that tell me? And what would change tomorrow if better for you meant better for my faith rather than better for my margin?",
+            "bn": "আশইয়াআহুম আয়াতের হাতে থাকা সবচেয়ে চওড়া শব্দ; কাজেই টাকার বাইরে এই মুহূর্তে অন্যের কী কী আমার হাতে আছে: তার সময়, তার সুনাম, তার পালা, তার বিশ্বাস? শু'আয়ব (আঃ)-কে এই সব কথা বলতে হয়েছিল নিজের জনপদেই, যেখানে এর পরেও তাঁকে কারবার চালিয়ে যেতে হতো। আমার মুখে এই কথা শোনা কার সবচেয়ে কষ্ট হতো, আর তা থেকে আমি নিজের সম্পর্কে কী বুঝি? আর তোমাদের জন্য ভালো কথাটার মানে যদি হয় আমার ঈমানের জন্য ভালো, মুনাফার জন্য ভালো নয়, তবে কালই কী বদলাত?"
+          }
+        ]
+      }
+    ]
+  },
+  "7:91": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Sentence Falls",
+          "bn": "রায়টা কোথায় নামে"
+        },
+        "p": [
+          {
+            "en": "The last exchange in Madyan is short and it is about force. In 7:88 the eminent men promise to drive Shu'ayb (AS) and the believers out of the town unless they come back to the old religion. 7:89 is his refusal and his prayer that Allah decide between them in truth. 7:90 has the chiefs turning to their own people with a warning that following Shu'ayb will make them losers. Then this verse. 7:92 says it was as though the deniers had never lived there, and 7:93 has Shu'ayb (AS) turn away.",
+            "bn": "মাদইয়ানে শেষ কথা-কাটাকাটিটা ছোট, আর তা জোর খাটানো নিয়ে। ৭:৮৮ এ সর্দাররা কথা দেয় যে পুরনো ধর্মে ফিরে না এলে শু'আয়ব (আঃ) আর মুমিনদের তারা জনপদ থেকে বের করে দেবে। ৭:৮৯ তাঁর অস্বীকার, আর সেই সঙ্গে দুআ যে আল্লাহ তাদের মধ্যে সঠিকভাবে ফায়সালা করে দিন। ৭:৯০ এ সর্দাররা নিজেদের লোকদের দিকে ফিরে হুঁশিয়ারি দেয়, শু'আয়বের পথ ধরলে তারা ক্ষতিগ্রস্ত হবে। তারপর এই আয়াত। ৭:৯২ বলে, যেন অস্বীকারকারীরা সেখানে কোনোদিন বসবাসই করেনি, আর ৭:৯৩ এ শু'আয়ব (আঃ) মুখ ফিরিয়ে নেন।"
+          },
+          {
+            "en": "The first thing to see about this verse is that it is not new. Word for word, letter for letter, it is 7:78, the end of Thamud thirteen verses earlier. Two peoples, two prophets, two different last crimes, and the Quran uses one sentence for both endings without altering a syllable. The surah has been building an argument out of repetition since 7:59, and here the repetition reaches the level of the sentence itself.",
+            "bn": "এই আয়াত নিয়ে প্রথম যা দেখার, তা হলো আয়াতটি নতুন নয়। শব্দে শব্দে, হরফে হরফে এটি ৭:৭৮, তেরো আয়াত আগে সামূদের শেষ। দুই জাতি, দুই নবী, শেষ অপরাধ দুই রকম, আর কুরআন দুই পরিণতির জন্যই একটি বাক্য ব্যবহার করে, একটি অক্ষরও বদলায় না। ৭:৫৯ থেকে সূরাটি পুনরাবৃত্তি দিয়ে একটা যুক্তি দাঁড় করাচ্ছে, আর এখানে সেই পুনরাবৃত্তি বাক্যের স্তরে গিয়ে পৌঁছায়।"
+          },
+          {
+            "en": "What differs is only what each sentence answers. In Thamud's panel the identical words come after 7:77, where the she-camel is hamstrung and the punishment demanded outright. Here they come after 7:90, where nobody has demanded anything; the chiefs are simply running a campaign to keep their townsmen away from a man. One people dared the punishment and one people lobbied against a messenger, and the two arrived at the same line.",
+            "bn": "তফাত কেবল এই, কোন কাজের জবাবে বাক্যটি আসছে। সামূদের পর্বে হুবহু এই কথাগুলো আসে ৭:৭৭ এর পরে, যেখানে উটনী মেরে ফেলা হয় আর শাস্তি সোজা চেয়ে বসা হয়। এখানে আসে ৭:৯০ এর পরে, যেখানে কেউ কিছু চায়নি; সর্দাররা কেবল নিজেদের লোকদের একজন মানুষের কাছ থেকে দূরে রাখার প্রচার চালাচ্ছে। এক জাতি শাস্তিকে ডেকে এনেছিল, আর এক জাতি এক রসূলের বিরুদ্ধে দল পাকিয়েছিল, আর দুই দল গিয়ে থেমেছে একই লাইনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Quake and the Crouching",
+          "bn": "কম্পন আর উপুড় হয়ে পড়া"
+        },
+        "p": [
+          {
+            "en": "Fa akhadhat-humu ar-rajfah. Rajfah is from r-j-f, a root of violent trembling and shaking, and the noun is built on the pattern that names a single occurrence rather than a state. At-Tabari glosses it as az-zalzalah, the quake that moves for the punishment of Allah, and as-Sa'di as the severe earthquake. Al-Qurtubi glosses it briefly: it means the earthquake, and it is said, the cry.",
+            "bn": "ফা আখাযাতহুমুর রাজফা। রাজফা এসেছে রা-জীম-ফা মূল থেকে, যার অর্থ প্রচণ্ড কেঁপে ওঠা, আর শব্দটির গড়ন এমন ছাঁদে যা অবস্থা নয়, একবারের ঘটনা বোঝায়। তাবারী এর ব্যাখ্যা দেন যালযালা, অর্থাৎ আল্লাহর শাস্তির জন্য নড়ে ওঠা ভূমিকম্প; আর সা'দী বলেন প্রচণ্ড ভূকম্পন। কুরতুবী সংক্ষেপে ব্যাখ্যা দেন: অর্থ ভূমিকম্প, আর বলা হয়েছে, বিকট শব্দ।"
+          },
+          {
+            "en": "Ibn Kathir hears the root twice. He says that the rajfah took them just as they had arjafu Shu'ayb and his companions, unsettling them and threatening them with expulsion, which is the threat recorded in 7:88. On his reading the punishment is named after the crime in the same letters: people who spent their strength shaking a man out of his town were shaken out of the earth. That is a claim about this word and this passage, and Ibn Kathir is the one making it.",
+            "bn": "ইবনু কাসীর মূলটিকে দুবার শোনেন। তিনি বলেন, রাজফা তাদের পাকড়াও করল ঠিক যেমন তারা শু'আয়ব (আঃ) আর তাঁর সঙ্গীদের আরজাফূ করেছিল, অর্থাৎ কাঁপিয়ে তুলেছিল, ভয় দেখিয়ে আর বের করে দেওয়ার হুমকি দিয়ে; সেই হুমকিটাই লেখা আছে ৭:৮৮ এ। তাঁর পাঠে শাস্তির নাম রাখা হয়েছে অপরাধের হরফেই: যারা নিজেদের জোর খাটিয়েছিল একজন মানুষকে তার জনপদ থেকে কাঁপিয়ে বের করতে, তারাই যমীন থেকে কেঁপে সরে গেল। এটি এই শব্দ আর এই পর্ব নিয়ে একটি দাবি, আর দাবিটি ইবনু কাসীরের।"
+          },
+          {
+            "en": "Then fa asbahu fi darihim jathimin. Asbahu is built on subh, the morning: the verb's base sense is to enter upon morning, and it is used more widely for coming to be in a state. Jathimin is from j-th-m, to crouch low and settle on a place. At-Tabari glosses it as upon their knees, dead and destroyed; as-Sa'di as fallen, dead and still. The picture is not of bodies flung about but of a whole town caught in position and left there.",
+            "bn": "তারপর ফা আসবাহূ ফী দারিহিম জাসিমীন। আসবাহূ গড়া হয়েছে সুবহ থেকে, অর্থাৎ ভোর; ক্রিয়াটির মূল অর্থ ভোরে প্রবেশ করা, আর তা আরও চওড়াভাবে কোনো অবস্থায় গিয়ে দাঁড়ানো বোঝাতেও চলে। জাসিমীন এসেছে জীম-সা-মীম মূল থেকে, অর্থ নিচু হয়ে বসে পড়া আর সেখানেই জমে থাকা। তাবারী এর ব্যাখ্যা দেন হাঁটুর উপর, মৃত ও ধ্বংস; সা'দী বলেন লুটিয়ে পড়া, মৃত, নিস্তব্ধ। ছবিটা ছিটকে পড়া লাশের নয়, গোটা একটা জনপদ যে অবস্থায় ছিল সেই অবস্থাতেই ধরা পড়ে থেকে যাওয়ার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Names for One End",
+          "bn": "এক পরিণতির তিনটি নাম"
+        },
+        "p": [
+          {
+            "en": "Madyan's end is named three different ways in the Quran, and the commentators take the difference seriously rather than smoothing it over. Here it is the rajfah, the quake. In 11:94 it is the shriek that seizes those who had wronged. In 26:189 it is the punishment of the day of the black cloud, and the verse adds that it was the punishment of a terrible day. Al-Qurtubi notes the two readings of our word and then says that the people of al-Aykah were destroyed by the zullah, the cloud that overshadowed them.",
+            "bn": "মাদইয়ানের পরিণতিকে কুরআন তিনভাবে নাম দেয়, আর মুফাসসিররা তফাতটা চাপা দেন না, গুরুত্ব দিয়ে ধরেন। এখানে তা রাজফা, ভূমিকম্প। ১১:৯৪ এ তা প্রচণ্ড শব্দ, যা যালিমদের আঘাত হানে। ২৬:১৮৯ এ তা এক মেঘাচ্ছন্ন দিবসের শাস্তি, আর আয়াত যোগ করে, তা ছিল এক মহা দিবসের আযাব। কুরতুবী আমাদের শব্দটির দুই পাঠ উল্লেখ করে বলেন, আইকাবাসীদের ধ্বংস করা হয়েছিল যুল্লা দিয়ে, অর্থাৎ যে মেঘ তাদের ছায়ায় ঢেকে ফেলেছিল।"
+          },
+          {
+            "en": "Ibn Kathir's answer is that each name is fitted to what the people had done. The quake, because they had shaken Shu'ayb (AS) with threats. The shriek, because they had mocked him with the sneer recorded in 11:87, so a cry from the sky silenced them. The black cloud, because in 26:187 they had told him to drop fragments of the sky on them if he was truthful. He then holds that all of it came together: a cloud that shadowed them with sparks and flame and a great heat, then a cry from above and a violent quake from below.",
+            "bn": "ইবনু কাসীরের জবাব হলো, প্রতিটি নাম তাদের কাজের সঙ্গে মিলিয়ে বসানো। ভূমিকম্প, কারণ তারা হুমকি দিয়ে শু'আয়ব (আঃ)-কে কাঁপিয়েছিল। বিকট শব্দ, কারণ ১১:৮৭ এ লেখা বিদ্রূপ দিয়ে তারা তাঁকে ঠাট্টা করেছিল, কাজেই আকাশের এক চিৎকার তাদের চুপ করিয়ে দিল। মেঘের ছায়া, কারণ ২৬:১৮৭ এ তারা তাঁকে বলেছিল সত্যবাদী হলে আকাশের টুকরো তাদের উপর ফেলে দিতে। এরপর তিনি বলেন, সবটাই একসঙ্গে এসেছিল: আগুনের ফুলকি, লেলিহান শিখা আর প্রচণ্ড উত্তাপ নিয়ে এক মেঘ তাদের ছায়া দিল, তারপর উপর থেকে চিৎকার আর নিচ থেকে প্রবল কম্পন।"
+          },
+          {
+            "en": "At-Tabari fills the same gap from transmitted reports rather than from the Quran. He carries an account from as-Suddi, and another from Ibn Ishaq, in which heat was loosed on Madyan until no shade and no water helped them, a cloud then appeared carrying a cool sweet wind, they called to one another to get under it, and when they had gathered beneath it with their women and children it closed over them. These are reports from a tabi'i and from a compiler of sirah, not narrations from the Prophet ﷺ, and that is how they are being reported here.",
+            "bn": "তাবারী একই ফাঁক ভরান কুরআনের বদলে বর্ণিত রেওয়ায়েত দিয়ে। তিনি সুদ্দী থেকে একটি আর ইবনু ইসহাক থেকে আরেকটি বিবরণ আনেন, যেখানে মাদইয়ানের উপর গরম ছেড়ে দেওয়া হয়, ছায়া আর পানি কিছুই তাদের কাজে আসে না; তারপর ঠান্ডা মিষ্টি হাওয়া নিয়ে একটি মেঘ দেখা যায়, তারা একে অন্যকে ডেকে বলে ওটার নিচে চলো, আর নারী ও শিশুসহ সবাই যখন তার নিচে জড়ো হয়, মেঘটি তাদের উপর বন্ধ হয়ে যায়। এগুলো একজন তাবিঈ আর একজন সীরাত-সংকলকের বর্ণনা, নবী ﷺ থেকে হাদীস নয়, আর এখানে সেভাবেই বলা হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Sunnah Adds",
+          "bn": "সুন্নাহ যা যোগ করে"
+        },
+        "p": [
+          {
+            "en": "The classical tafsir attaches no sound narration to this verse in particular; Ibn Kathir works the whole comment out of the Quran's own parallels. One sound narration does bear on the situation. Al-Bukhari records from Ibn Umar (RA) that the Messenger of Allah ﷺ said: if Allah sends punishment upon a nation then it befalls upon the whole population indiscriminately, and then they will be resurrected and judged according to their deeds. It is a statement about what a descending punishment does not distinguish.",
+            "bn": "ক্লাসিক্যাল তাফসীর এই আয়াতের সঙ্গে আলাদা করে কোনো সহীহ হাদীস জোড়ে না; ইবনু কাসীর গোটা ব্যাখ্যাটাই দাঁড় করান কুরআনের নিজের সমান্তরাল আয়াত থেকে। তবে একটি সহীহ হাদীস পরিস্থিতিটির সঙ্গে খাপ খায়। বুখারী ইবনু উমর (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: আল্লাহ যখন কোনো জাতির উপর আযাব নামান, তখন সে আযাব তাদের মধ্যে যারা থাকে সবাইকেই পায়, তারপর তাদের নিজ নিজ আমল অনুযায়ী উঠানো হবে। কথাটা এই যে, নেমে আসা আযাব কোন জিনিস আলাদা করে দেখে না।"
+          },
+          {
+            "en": "Madyan's own record keeps the other half in view: 11:94 says that when the command came, Shu'ayb (AS) and those who believed with him were saved by mercy, and only then that the shriek seized those who had wronged. The believers here are not described as swept up with the town, and what the narration adds is the principle behind the sorting, which happens at the raising and by deeds. One more thing should be said plainly. Shu'ayb (AS) is often called the orator of the prophets, but at-Tabari's wording for that comes through Ibn Ishaq without a connected chain, so it is not quoted here as a hadith.",
+            "bn": "মাদইয়ানের নিজের বিবরণ অন্য অর্ধেকটাও চোখের সামনে রাখে: ১১:৯৪ বলে, আমার হুকুম যখন এলো, শু'আয়ব (আঃ) আর তাঁর সঙ্গে যারা ঈমান এনেছিল তাদের দয়া করে বাঁচিয়ে দেওয়া হলো, আর তারপরই যালিমদের প্রচণ্ড শব্দ আঘাত হানল। কাজেই এখানে মুমিনদের জনপদের সঙ্গে ভেসে যেতে দেখানো হয়নি। হাদীসটি যা যোগ করে তা হলো বাছাইয়ের নীতি, আর সে বাছাই হয় উঠানোর দিন, আমল অনুযায়ী। এই পর্ব নিয়ে আরেকটি কথা সোজাসুজি বলে রাখা ভালো। শু'আয়ব (আঃ)-কে প্রায়ই বলা হয় নবীদের বক্তা; তাবারী এর যে বর্ণনা আনেন তা ইবনু ইসহাকের সূত্রে, সংযুক্ত সনদ ছাড়া, কাজেই এখানে সেটি হাদীস হিসেবে উদ্ধৃত হচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Line Elsewhere",
+          "bn": "একই লাইন অন্য জায়গায়"
+        },
+        "p": [
+          {
+            "en": "7:78 is the twin, and it closes Thamud. 29:37 gives Madyan's ending a third time, with one clause added in front: they denied him, so the earthquake seized them, and they became in their dwelling fallen prone. Reading the three together shows how little the Quran spends on the mechanics of a destruction and how much on the denial that preceded it. The sentence for the end is stock; the case that earned it is told at length each time.",
+            "bn": "৭:৭৮ এর জোড়া আয়াত, আর তা সামূদের পর্ব শেষ করে। ২৯:৩৭ মাদইয়ানের পরিণতি তৃতীয়বার দেয়, সামনে একটি বাক্যাংশ জুড়ে: তারা তাকে অস্বীকার করল, অতঃপর কম্পন তাদের পাকড়াও করল আর তারা নিজেদের বাসস্থানে উপুড় হয়ে পড়ে রইল। তিনটি একসঙ্গে পড়লে বোঝা যায়, ধ্বংসের কায়দা নিয়ে কুরআন কত কম খরচ করে আর তার আগের অস্বীকার নিয়ে কত বেশি। পরিণতির বাক্যটি বাঁধা; আর যে মামলা তা আদায় করল, সেটি প্রতিবার বিস্তারে বলা হয়।"
+          },
+          {
+            "en": "Two small differences repay attention. Our verse and 29:37 both have fi darihim, in their dwelling, singular, as though the town were one house; 11:94 has fi diyarihim, in their dwellings, plural. And 7:92 stands where the reader expects a lament and gives an observation instead: those who denied Shu'ayb, it was as though they had never resided there. The sentence removes them from the place rather than mourning them in it, and 11:94 has already recorded who was taken out of it first.",
+            "bn": "দুটি ছোট তফাত খেয়াল করার মতো। আমাদের আয়াত আর ২৯:৩৭ দুটোতেই আছে ফী দারিহিম, তাদের বাসস্থানে, একবচন, যেন গোটা জনপদটাই একটি ঘর; আর ১১:৯৪ এ আছে ফী দিয়ারিহিম, তাদের ঘরগুলোতে, বহুবচন। আর ৭:৯২ এমন জায়গায় দাঁড়িয়ে যেখানে পাঠক শোকগাথা আশা করে, অথচ সেখানে আসে একটি পর্যবেক্ষণ: যারা শু'আয়বকে অস্বীকার করেছিল, যেন তারা সেখানে কোনোদিন বসবাসই করেনি। বাক্যটি তাদের জায়গা থেকে মুছে দেয়, সেখানে বসে কাঁদে না; আর কাকে আগে সেখান থেকে বের করে আনা হয়েছিল, ১১:৯৪ তা লিখে রেখেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Interval Was Given",
+          "bn": "কোনো বিরতি দেওয়া হয়নি"
+        },
+        "p": [
+          {
+            "en": "The most unsettling thing in the verse is what the Quran leaves out. Between 7:90 and 7:91 there is no interval at all. The chiefs were in the middle of a campaign, briefing their own townsmen about the losses that following Shu'ayb (AS) would bring. They were not warned again, and they were not given a last scene. The sentence simply arrives in the next line, and the word asbahu puts it at a morning, which is when a town is least braced for anything.",
+            "bn": "আয়াতের সবচেয়ে অস্বস্তিকর জিনিসটা হলো কুরআন যা বলে না। ৭:৯০ আর ৭:৯১ এর মাঝে কোনো বিরতিই নেই। সর্দাররা তখন প্রচারের মধ্যিখানে, নিজেদের লোকদের বোঝাচ্ছে শু'আয়ব (আঃ)-এর পথ ধরলে কী কী লোকসান হবে। তাদের আবার সতর্ক করা হয়নি, শেষ কোনো দৃশ্যও দেওয়া হয়নি। রায়টা পরের লাইনেই এসে পড়ে, আর আসবাহূ শব্দ তা বসিয়ে দেয় ভোরবেলায়, যখন কোনো জনপদ সবচেয়ে কম তৈরি থাকে।"
+          },
+          {
+            "en": "That absence is the verse's use. Most people read the quiet that follows a wrong as a verdict on the wrong. Nothing happened, so nothing was wrong, or at least nothing serious. Madyan had that quiet right up to the last line, and they were spending it on organising opinion against a man rather than on checking what he had said about their scales. The quiet was the interval, and it was the only thing they were actually given.",
+            "bn": "এই না-থাকাটাই আয়াতের কাজে লাগার জায়গা। অন্যায় করার পর যে নীরবতা আসে, বেশির ভাগ মানুষ সেটাকেই অন্যায়ের উপর রায় হিসেবে পড়ে। কিছু তো হলো না, তার মানে দোষ ছিল না, অন্তত বড় কিছু ছিল না। মাদইয়ানের কাছে সেই নীরবতা ছিল একেবারে শেষ লাইন পর্যন্ত, আর তারা সেই সময়টা খরচ করছিল একজন মানুষের বিরুদ্ধে জনমত গোছাতে, নিজেদের পাল্লা নিয়ে তাঁর কথাটা যাচাই করতে নয়। নীরবতাটাই ছিল বিরতি, আর সত্যিকারে তাদের ওটুকুই দেওয়া হয়েছিল।"
+          },
+          {
+            "en": "So the practical reading is not about earthquakes. It is about what you do with an unpunished wrong of your own. Name one thing you have been continuing because there have been no consequences, and treat the absence of consequences as time rather than as permission. Then do the smaller thing first: return what is not yours, or say the sentence you have been avoiding, this week, while the quiet still holds and while it is still your own decision rather than somebody else's verdict.",
+            "bn": "কাজেই হাতে-কলমে পাঠটা ভূমিকম্প নিয়ে নয়। এটা নিয়ে যে, নিজের কোনো শাস্তি-না-পাওয়া অন্যায় নিয়ে আপনি কী করছেন। এমন একটা কাজের নাম বলুন যা আপনি চালিয়ে যাচ্ছেন কেবল কোনো ফল ভোগ করতে হয়নি বলে, আর ফল না হওয়াটাকে অনুমতি নয়, সময় হিসেবে ধরুন। তারপর ছোট কাজটা আগে করুন: যা আপনার নয় তা ফিরিয়ে দিন, বা যে কথাটা এড়িয়ে যাচ্ছেন তা বলে ফেলুন, এ সপ্তাহেই, যতক্ষণ নীরবতা টিকে আছে আর যতক্ষণ এটা অন্য কারও রায় নয়, আপনার নিজের সিদ্ধান্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seeking Refuge From the Sudden",
+          "bn": "আকস্মিকতা থেকে আশ্রয়"
+        },
+        "p": [
+          {
+            "en": "The Sunnah has a supplication that names this verse's problem directly. Muslim records from Abdullah ibn Umar (RA) that among the supplications of the Messenger of Allah ﷺ was: O Allah, I seek refuge in You from the withdrawal of Your blessing, and the change of Your protection, and from Your sudden wrath, and from every displeasure of Yours. Four things are asked against there, and the third of them is the word Madyan needed: fuja'ah, suddenness, a punishment arriving without an announcement.",
+            "bn": "সুন্নাহয় এমন একটি দুআ আছে যা এই আয়াতের সমস্যাটির নাম সোজা বলে দেয়। মুসলিম আবদুল্লাহ ইবনু উমর (রাঃ) থেকে বর্ণনা করেন যে আল্লাহর রসূল ﷺ-এর দুআগুলোর মধ্যে ছিল: হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই আপনার নিয়ামত সরে যাওয়া থেকে, আপনার দেওয়া নিরাপত্তা বদলে যাওয়া থেকে, আপনার আকস্মিক পাকড়াও থেকে আর আপনার সমস্ত অসন্তুষ্টি থেকে। ওখানে চারটি জিনিস থেকে আশ্রয় চাওয়া হয়, আর তার তৃতীয়টি ঠিক সেই শব্দ যা মাদইয়ানের দরকার ছিল: ফুজাআ, আকস্মিকতা, ঘোষণা ছাড়া নেমে আসা শাস্তি।"
+          },
+          {
+            "en": "A short supplication can also be built from the verse's own vocabulary, offered as that and not as a transmitted wording. O Allah, do not let my safety be the thing that keeps me careless. Whatever You are giving me time over, let me use the time for that and not for defending myself. Do not let a morning find me settled in a wrong I could have left the night before. And whatever is standing between me and You right now, deal with me over it while I can still act.",
+            "bn": "আয়াতের নিজের শব্দ দিয়েও ছোট একটা দুআ গড়া যায়, বর্ণিত দুআ হিসেবে নয়, নিজের কথা হিসেবেই। হে আল্লাহ, আমার নিরাপত্তাটাই যেন আমার বেপরোয়া থাকার কারণ না হয়। যে ব্যাপারে আপনি আমাকে সময় দিচ্ছেন, সেই সময়টা যেন সেই কাজেই লাগাই, নিজের সাফাই গাইতে নয়। কোনো ভোর যেন আমাকে এমন অন্যায়ে জমে থাকা অবস্থায় না পায় যা আমি আগের রাতেই ছেড়ে দিতে পারতাম। আর এই মুহূর্তে আমার আর আপনার মাঝে যা দাঁড়িয়ে আছে, যতক্ষণ আমি কিছু করতে পারি ততক্ষণেই সেটা নিয়ে আমার সঙ্গে মীমাংসা করে নিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions From a Repeated Verse",
+          "bn": "পুনরাবৃত্ত আয়াত থেকে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The same sentence ended two peoples who had done different things, which is worth turning on oneself. What am I currently doing that I would not do if the consequence were scheduled for next Tuesday? Where have I read the absence of trouble as a sign of approval? And is there a correction I have been arguing against for so long that arguing has become the activity, the way the chiefs in 7:90 were still campaigning in the last line they were given?",
+            "bn": "একই বাক্য দুটি জাতিকে শেষ করেছে, যারা আলাদা আলাদা কাজ করেছিল; কথাটা নিজের দিকে ঘুরিয়ে নেওয়ার মতো। এই মুহূর্তে আমি কোন কাজটা করছি যা আগামী মঙ্গলবার ফল ভোগ করতে হবে জানলে করতাম না? কোথায় আমি ঝামেলা না হওয়াটাকে সম্মতির চিহ্ন হিসেবে পড়েছি? আর এমন কোনো শুধরে দেওয়ার বিরুদ্ধে কি আমি এত দিন ধরে তর্ক করে যাচ্ছি যে তর্কটাই আসল কাজ হয়ে গেছে, ঠিক যেমন ৭:৯০ এর সর্দাররা নিজেদের শেষ লাইনটাতেও প্রচার চালিয়ে যাচ্ছিল?"
+          },
+          {
+            "en": "7:92 says it was as though they had never resided there, which is a strange thing to feel about a place one lives in. If my street were spoken of that way in a hundred years, what would have been worth recording about my part of it? Shu'ayb (AS) was saved with those who believed with him according to 11:94, so who is standing with me, and on what? And which of the things I am waiting on am I really only waiting to be forced into?",
+            "bn": "৭:৯২ বলে, যেন তারা সেখানে কোনোদিন বসবাসই করেনি; নিজের বাসস্থান নিয়ে এ কথা ভাবা অদ্ভুত। একশো বছর পর আমার পাড়ার কথা যদি এভাবে বলা হয়, তবে তার মধ্যে আমার অংশটা নিয়ে লিখে রাখার মতো কী থাকত? ১১:৯৪ অনুযায়ী শু'আয়ব (আঃ) রক্ষা পেয়েছিলেন তাঁর সঙ্গে ঈমান আনা লোকদের নিয়ে; তাহলে আমার সঙ্গে কে দাঁড়িয়ে আছে, আর কোন জিনিসে? আর যে কাজগুলোর জন্য আমি অপেক্ষা করছি, তার কোনটার জন্য আসলে আমি কেবল বাধ্য হওয়ার অপেক্ষা করছি?"
+          }
+        ]
+      }
+    ]
+  },
+  "7:100": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Question Lands",
+          "bn": "প্রশ্নটা কার উপর পড়ে"
+        },
+        "p": [
+          {
+            "en": "The stories stop at 7:93 and the reckoning begins. 7:94 says no prophet was sent to a town without its people being seized by poverty and hardship, so that they might humble themselves. 7:95 has the hardship exchanged for good until they grew prosperous and said that their fathers too had known hard times and easy ones, and then were seized suddenly. 7:96 states what belief would have opened for them. 7:97 and 7:98 ask whether they feel safe from a punishment at night or in the morning, and 7:99 asks whether they have felt secure from the plan of Allah at all.",
+            "bn": "৭:৯৩ এ কাহিনি থামে, আর হিসাব শুরু হয়। ৭:৯৪ বলে, কোনো জনপদে এমন নবী পাঠানো হয়নি যেখানকার লোকদের অভাব আর দুঃখ-কষ্ট ছুঁয়ে যায়নি, যাতে তারা কাতর হয়। ৭:৯৫ এ সেই দুরবস্থা বদলে সচ্ছলতা আসে, তারা প্রাচুর্যে বেড়ে যায় আর বলে, তাদের বাপ-দাদার উপরও সুখ-দুঃখের দিন আসত; তারপর হঠাৎ তাদের পাকড়াও করা হয়। ৭:৯৬ বলে দেয়, ঈমান আনলে তাদের জন্য কী খুলে যেত। ৭:৯৭ আর ৭:৯৮ জিজ্ঞেস করে, রাতে ঘুমের মধ্যে বা সকালে খেলার মধ্যে শাস্তি আসা থেকে তারা কি নিজেদের নিরাপদ ভাবছে; আর ৭:৯৯ জিজ্ঞেস করে, আল্লাহর কৌশল থেকে তারা কি একেবারেই নির্ভয় হয়ে গেছে।"
+          },
+          {
+            "en": "Our verse is the next step and it changes the address. It no longer speaks about the ruined towns. It speaks to whoever is living on the ground those towns used to hold. At-Tabari transmits from as-Suddi that these are the mushrikun, and al-Qurtubi says that the verse means the disbelievers of Makkah and those around them. As-Sa'di reads it more widely, as Allah alerting the later nations after the passing of the earlier ones. Then 7:101 turns to the Prophet ﷺ and says that those towns are the ones whose news is being related to him.",
+            "bn": "আমাদের আয়াত তার পরের ধাপ, আর সম্বোধন বদলে যায়। এটি আর ধ্বংস হওয়া জনপদগুলোর কথা বলে না। এটি কথা বলে তাদের সঙ্গে, যারা এখন সেই জমিতে বাস করছে যা ওই জনপদগুলোর ছিল। তাবারী সুদ্দী থেকে আনেন যে এরা মুশরিকরা, আর কুরতুবী বলেন আয়াতটি বোঝাচ্ছে মাক্কার কাফিরদের আর তাদের আশপাশের লোকদের। সা'দী আরও চওড়াভাবে পড়েন, আগের জাতিগুলো চলে যাওয়ার পর আল্লাহ পরের জাতিগুলোকে সাবধান করছেন। তারপর ৭:১০১ নবী ﷺ-এর দিকে ফিরে বলে, ওই জনপদগুলোরই খবর তাঁকে শোনানো হচ্ছে।"
+          },
+          {
+            "en": "Two words in the opening decide the tone. Yarithuna is imperfect, inheriting, an act still in progress rather than a completed handover; the reader is inside it while reading. And the former holders are not called the destroyed or the wrongdoers here. They are ahliha, its people, the earth's own folk. The land is spoken of as having had people before, and as having people now, which quietly makes the present occupants one entry in a list rather than the point the list was heading for.",
+            "bn": "শুরুর দুটি শব্দ সুরটা ঠিক করে দেয়। ইয়ারিসূনা চলমান কালে, উত্তরাধিকার পাচ্ছে, কাজটা এখনো চলছে, হাতবদল শেষ হয়ে যাওয়া কিছু নয়; পড়তে পড়তে পাঠক তার ভেতরেই আছেন। আর আগের মালিকদের এখানে ধ্বংস হওয়া বা যালিম বলা হয়নি। বলা হয়েছে আহলিহা, তার অধিবাসী, যমীনের নিজের লোক। জমিটার কথা বলা হচ্ছে এমনভাবে যে আগেও তার লোক ছিল, এখনো তার লোক আছে; আর তাতে চুপচাপ আজকের বাসিন্দারা একটা তালিকার একটি সারি হয়ে যায়, তালিকা যেখানে গিয়ে থামবে সেই লক্ষ্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Has It Not Made Plain",
+          "bn": "স্পষ্ট হয়ে যায়নি কি"
+        },
+        "p": [
+          {
+            "en": "Awalam yahdi. The hamza of questioning sits over the wa, and the verb hada stands here without an object, so the sentence is not asking whether somebody guided them. At-Tabari glosses the phrase awalam yabin, has it not become clear, and he stacks up the transmissions: Mujahid says yubayyan, Ibn Abbas says has it not been made plain to them, as-Suddi the same. Ibn Zayd adds that the guidance in question is the making plain itself, since without it they would not have come to know.",
+            "bn": "আওয়ালাম ইয়াহদি। প্রশ্নের হামযা বসেছে ওয়া-র উপরে, আর হাদা ক্রিয়াটি এখানে কোনো কর্মপদ ছাড়া দাঁড়িয়ে; কাজেই বাক্যটি জিজ্ঞেস করছে না, কেউ তাদের পথ দেখিয়েছে কি না। তাবারী কথাটির ব্যাখ্যা দেন আওয়ালাম ইয়াবিন, অর্থাৎ স্পষ্ট হয়ে যায়নি কি; আর তিনি বর্ণনাগুলো সাজিয়ে দেন: মুজাহিদ বলেন ইউবাইয়ান, ইবনু আব্বাস বলেন তাদের কাছে স্পষ্ট করে দেওয়া হয়নি কি, সুদ্দীও একই কথা বলেন। ইবনু যায়দ যোগ করেন, এখানে হিদায়াত মানে স্পষ্ট করে দেওয়াটাই, কারণ তা ছাড়া তারা জানতেই পারত না।"
+          },
+          {
+            "en": "Al-Qurtubi gives the same gloss in a single phrase, yahdi means yubayyin, and then names the audience. So the question is not about information reaching them. The evidence is standing on the ground they walk over. What the verse asks is whether it has registered, and the grammar leaves the failure unassigned: no agent is blamed for not teaching them. The lesson was available and the conclusion was not drawn, and that gap is the whole subject of the sentence.",
+            "bn": "কুরতুবী এক কথায় একই ব্যাখ্যা দেন, ইয়াহদি মানে ইউবাইয়িন, তারপর বলে দেন শ্রোতারা কারা। কাজেই প্রশ্নটা তথ্য তাদের কাছে পৌঁছানো নিয়ে নয়। প্রমাণ দাঁড়িয়ে আছে সেই জমিতেই, যার উপর দিয়ে তারা হেঁটে যায়। আয়াত জিজ্ঞেস করছে, সেটা মনে গেঁথেছে কি না; আর ব্যাকরণ দোষটা কারও ঘাড়ে চাপায় না, তাদের শেখায়নি বলে কাউকে দায়ী করা হয় না। শিক্ষাটা হাতের কাছেই ছিল, আর সিদ্ধান্তটা টানা হয়নি; ওই ফাঁকটাই গোটা বাক্যের বিষয়।"
+          },
+          {
+            "en": "An law nasha'u asabnahum bi dhunubihim. Asaba is to hit a thing aimed at, so the clause is not a general threat of ruin but a strike answering a named cause, their sins. At-Tabari reads it as: if We willed We would do with them as We did with those before them, seizing them for their sins and hastening Our punishment as We hastened it for the people from whom they inherited the land. The condition is stated and left unfulfilled, which is the only reason the addressee is alive to read it.",
+            "bn": "আন লাও নাশাউ আসাবনাহুম বিযুনূবিহিম। আসাবা মানে লক্ষ্য করা জিনিসে গিয়ে লাগা; কাজেই কথাটা ধ্বংসের কোনো ঢালাও হুমকি নয়, বরং একটি নাম-ধরা কারণের জবাবে আঘাত, আর কারণটা তাদের গুনাহ। তাবারী পড়েন এভাবে: আমি ইচ্ছা করলে তাদের সঙ্গে তাই করতাম যা তাদের আগের লোকদের সঙ্গে করেছি, তাদের গুনাহের জন্য পাকড়াও করতাম আর শাস্তি তাড়াতাড়ি এনে দিতাম, যেমন যাদের কাছ থেকে তারা জমি পেয়েছে তাদের বেলায় এনেছিলাম। শর্তটা বলা হয়, আর পূরণ করা হয় না; একমাত্র সেই কারণেই যাকে বলা হচ্ছে সে এটা পড়ার জন্য বেঁচে আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "And We Seal Their Hearts",
+          "bn": "আর তাদের অন্তরে সীল"
+        },
+        "p": [
+          {
+            "en": "Wa natba'u 'ala qulubihim. Tab' is the pressing of a seal onto a thing so that it is closed and marked at once, and at-Tabari glosses the verb with nakhtim, We set a seal. Al-Qurtubi raises a grammatical question about it. Either wa natba'u begins a new sentence, and We do seal their hearts, or it is joined to asabnahum, in which case the perfect tense stands in the place of the future and the sealing sits inside the unfulfilled condition. Translations divide along exactly that line.",
+            "bn": "ওয়া নাতবাউ আলা কুলূবিহিম। তাব হলো কোনো জিনিসের উপর সীল চেপে দেওয়া, যাতে একই সঙ্গে তা বন্ধ হয় আর তাতে ছাপ পড়ে; তাবারী ক্রিয়াটির ব্যাখ্যা দেন নাখতিম, আমি সীল লাগিয়ে দিই। কুরতুবী এ নিয়ে একটি ব্যাকরণের প্রশ্ন তোলেন। হয় ওয়া নাতবাউ নতুন বাক্য শুরু করছে, অর্থাৎ আর আমি তাদের অন্তরে সীল লাগিয়ে দিই; নয়তো তা আসাবনাহুমের সঙ্গে জোড়া, আর সে ক্ষেত্রে অতীত কাল ভবিষ্যতের জায়গায় বসেছে আর সীল লাগানোটা অপূর্ণ শর্তের ভেতরেই পড়ছে। অনুবাদগুলো ঠিক এই রেখা ধরেই ভাগ হয়ে যায়।"
+          },
+          {
+            "en": "As-Sa'di supplies an order of events. When Allah alerts them and they take no notice, reminds them and they do not remember, guides them by signs and lessons and they are not guided, then He punishes them and seals their hearts, so that a stain and a grime rise over them until the heart is stamped shut, and no truth enters it and no good reaches it, and they hear only what establishes the case against them. On that reading the seal is the last item in a sequence of refusals, not the first move made against them.",
+            "bn": "সা'দী ঘটনার ক্রমটা সাজিয়ে দেন। আল্লাহ যখন তাদের সাবধান করেন আর তারা কান দেয় না, মনে করিয়ে দেন আর তারা মনে রাখে না, নিদর্শন আর শিক্ষা দিয়ে পথ দেখান আর তারা পথ পায় না, তখন তিনি তাদের শাস্তি দেন আর তাদের অন্তরে সীল লাগিয়ে দেন; তাতে জং আর ময়লা জমে উঠতে থাকে, শেষে অন্তর সীল হয়ে বন্ধ হয়ে যায়, তাতে সত্য ঢোকে না, কোনো কল্যাণ পৌঁছায় না, আর তারা কেবল ততটুকু শোনে যতটুকুতে তাদের বিরুদ্ধে দলিল দাঁড়িয়ে যায়। এই পাঠে সীল হলো একের পর এক অস্বীকারের শেষ ধাপ, তাদের বিরুদ্ধে প্রথম পদক্ষেপ নয়।"
+          },
+          {
+            "en": "At-Tabari defines the loss rather than the sequence. He glosses fahum la yasma'un as their not hearing an admonition or a reminder with the hearing of one who benefits from it. That is the precise claim: the ears keep working. A sealed heart still registers the words, attends the gathering, follows the argument, and takes nothing away. So the two commentators are answering different questions about the same clause, as-Sa'di how a heart arrives there and at-Tabari what exactly stops working when it does.",
+            "bn": "তাবারী ক্রম নয়, ক্ষতিটার সংজ্ঞা দেন। ফাহুম লা ইয়াসমাঊনের ব্যাখ্যায় তিনি লেখেন, উপদেশ বা নাসীহাত তারা এমনভাবে শোনে না যেভাবে শোনে সে, যে তা থেকে লাভ পায়। দাবিটা ঠিক এই: কান কাজ করেই যায়। সীল লাগা অন্তরও শব্দগুলো ধরে, মজলিসে বসে, যুক্তির পিছু নেয়, আর সঙ্গে কিছুই নেয় না। অর্থাৎ দুই মুফাসসির একই বাক্যাংশ নিয়ে দুটি আলাদা প্রশ্নের জবাব দিচ্ছেন; সা'দী বলছেন অন্তর ওখানে গিয়ে পৌঁছায় কীভাবে, আর তাবারী বলছেন পৌঁছানোর পর ঠিক কোন জিনিসটা আর চলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Respite Is Not Acquittal",
+          "bn": "সময় দেওয়া মানে রেহাই নয়"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records from Abu Musa (RA) that the Messenger of Allah ﷺ said: Allah gives respite to the oppressor, but when He takes him over, He never releases him. Then he recited: such is the seizure of your Lord when He seizes the towns in the midst of their wrong; painful indeed and severe is His seizure. The verse he recited is 11:102, and al-Bukhari places the narration in his commentary on that surah.",
+            "bn": "বুখারী আবূ মূসা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রসূল ﷺ বলেছেন: আল্লাহ যালিমকে সময় দিয়ে যান, কিন্তু যখন তিনি তাকে পাকড়াও করেন, তখন আর ছাড়েন না। তারপর তিনি তিলাওয়াত করলেন: তোমার প্রতিপালকের পাকড়াও এ রকমই হয়ে থাকে যখন তিনি যুলমে লিপ্ত জনপদকে পাকড়াও করেন; অবশ্যই তাঁর পাকড়াও ভয়াবহ, বড়ই কঠিন। যে আয়াত তিনি পড়লেন তা ১১:১০২, আর বুখারী হাদীসটি রাখেন ওই সূরার তাফসীরের অধ্যায়ে।"
+          },
+          {
+            "en": "That narration is the exact answer to the reading a reader is tempted to give our verse. If We willed, We could strike them for their sins sounds, on a quiet day, like a threat that was not carried out. The narration says what the quiet is: imla, the letting out of a rope, time granted and not a case dropped. Nothing in it says the respite is short, and nothing says it is an indulgence. It says only that the grip, when it closes, does not open.",
+            "bn": "পাঠকের মন যে পাঠটা দিতে চায়, এই হাদীস তার সোজা জবাব। আমি ইচ্ছা করলে তাদের গুনাহের জন্য পাকড়াও করতে পারতাম কথাটা শান্ত কোনো দিনে শোনায় এমন এক হুমকির মতো, যা শেষে কার্যকর হয়নি। হাদীস বলে দেয় এই শান্ত সময়টা আসলে কী: ইমলা, অর্থাৎ দড়ি ছেড়ে দেওয়া, সময় দেওয়া হচ্ছে, মামলা তুলে নেওয়া হচ্ছে না। এতে বলা নেই যে সময়টা অল্প, আর বলা নেই যে এটা প্রশ্রয়। কেবল এটাই বলা আছে, মুঠি একবার বন্ধ হলে আর খোলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Question Elsewhere",
+          "bn": "একই প্রশ্ন অন্যত্র"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir gathers the sisters himself at this verse. 20:128 puts the same question about how many generations were destroyed before them, while they walk among their dwellings, and calls that a sign for those of intelligence. 32:26 asks the same and ends on our verse's own last word, then do they not hear. The two verses put the evidence under the reader's feet and the failure in his hearing, which is exactly the pairing 7:100 makes.",
+            "bn": "ইবনু কাসীর এই আয়াতেই সহোদর আয়াতগুলো জড়ো করেন। ২০:১২৮ একই প্রশ্ন তোলে, তাদের আগে কত মানববংশ ধ্বংস করা হয়েছে, অথচ তারা সেই বাসস্থানের ভেতর দিয়েই চলাচল করে; আর সেটিকে বলে বুদ্ধিমানদের জন্য নিদর্শন। ৩২:২৬ একই প্রশ্ন করে আর শেষ করে আমাদের আয়াতের শেষ কথাটিতেই, তবুও কি তারা শুনবে না। দুই আয়াত প্রমাণটা রাখে পাঠকের পায়ের নিচে আর গলদটা রাখে তার শোনার ভেতরে; ৭:১০০ ঠিক এই দুটোকেই জোড়া বাঁধে।"
+          },
+          {
+            "en": "Three more fill it out. 6:6 says the destroyed generations had been established in the land as the listeners have not been, with rain sent down and rivers running beneath them, and then were destroyed for their sins and replaced. 14:45 tells the wrongdoers that they lived in the dwellings of those who had wronged themselves and that it had become clear to them how Allah dealt with them. And 19:98 asks whether you perceive of them anyone or hear from them a sound.",
+            "bn": "আরও তিনটি ছবিটা পূর্ণ করে। ৬:৬ বলে, ধ্বংস হওয়া জনগোষ্ঠীগুলোকে যমীনে এমনভাবে প্রতিষ্ঠিত করা হয়েছিল যেভাবে শ্রোতাদের করা হয়নি, তাদের জন্য প্রচুর বৃষ্টি নামত আর নিচে দিয়ে নদী বইত, তারপর গুনাহের কারণে তাদের ধ্বংস করে তাদের জায়গায় অন্যদের আনা হলো। ১৪:৪৫ যালিমদের বলে, তারা তাদেরই বাসভূমিতে বাস করছিল যারা নিজেদের প্রতি যুলম করেছিল, আর আল্লাহ তাদের সঙ্গে কী করেছিলেন তা তাদের স্পষ্ট করে দেখানো হয়েছিল। আর ১৯:৯৮ জিজ্ঞেস করে, তাদের একজনকেও কি তুমি দেখতে পাও, বা তাদের ক্ষীণতম আওয়াজও কি শুনতে পাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living on Somebody Else's Ground",
+          "bn": "অন্যের জমিতে বাস"
+        },
+        "p": [
+          {
+            "en": "The first use of the verse is a habit of reading. Everything a person holds was held by somebody else, and most of those handovers have a record attached that nobody looks up. The job, the house, the organisation, the family business, the country. The verse does not ask the heir to feel guilty about the inheritance. It asks him to find out how the last holders lost it, on the assumption that this is information rather than history.",
+            "bn": "আয়াতের প্রথম কাজটা পড়ার একটা অভ্যাস। মানুষ যা যা ধরে আছে, তার সবই আগে অন্য কারও হাতে ছিল, আর ওই হাতবদলগুলোর বেশির ভাগেরই একটা নথি থাকে যা কেউ খুলে দেখে না। চাকরি, বাড়ি, প্রতিষ্ঠান, পারিবারিক ব্যবসা, দেশ। আয়াত উত্তরাধিকারীকে বলছে না যে উত্তরাধিকার নিয়ে সে অপরাধবোধে ভুগুক। আয়াত বলছে, আগের মালিকরা এটা কীভাবে হারাল সেটা খুঁজে বের করতে, এই ধরে নিয়ে যে এটা ইতিহাস নয়, কাজের তথ্য।"
+          },
+          {
+            "en": "The second use is the seal. On as-Sa'di's reading it is built by a sequence: alerted and not noticing, reminded and not remembering, guided and not guided. Nobody experiences that as a closing door. It feels like being busy, or like having heard this before. The symptom worth watching is therefore not doubt but familiarity, the point at which a verse you know produces no motion at all, and at-Tabari's gloss names the loss exactly: hearing that no longer benefits the hearer.",
+            "bn": "দ্বিতীয় কাজটা সীল নিয়ে। সা'দীর পাঠে সীল গড়ে ওঠে একটা ক্রম ধরে: সাবধান করা হলো, কান দেওয়া হলো না; মনে করিয়ে দেওয়া হলো, মনে রাখা হলো না; পথ দেখানো হলো, পথ পাওয়া হলো না। দরজা বন্ধ হচ্ছে বলে এটা কারও গায়ে লাগে না। লাগে ব্যস্ত থাকার মতো, বা এ কথা তো আগেই শুনেছি বলার মতো। কাজেই যা খেয়াল রাখার, তা সন্দেহ নয়, পরিচিতি; ঠিক সেই মুহূর্তটা যখন চেনা আয়াত পড়েও ভেতরে কিছুই নড়ে না। আর তাবারীর ব্যাখ্যা ক্ষতিটার নাম সোজা বলে দেয়: এমন শোনা, যাতে শ্রোতার কোনো লাভ হয় না।"
+          },
+          {
+            "en": "So the work is testable. Take one thing you heard in a khutbah or read in the Quran in the last month that you agreed with and did nothing about, and do the smallest version of it this week; that is the difference between hearing and the hearing at-Tabari means. And ask an older member of your family what the person before you actually struggled with in the thing you now run. Inheritance comes with a case file, and reading it is the whole of what this verse asks.",
+            "bn": "কাজেই কাজটা যাচাই করা যায়। গত এক মাসে খুতবায় শোনা বা কুরআনে পড়া এমন একটা কথা নিন যার সঙ্গে আপনি একমত হয়েছেন কিন্তু কিছুই করেননি, আর এ সপ্তাহে তার সবচেয়ে ছোট রূপটা করে ফেলুন; শোনা আর তাবারীর বলা সেই শোনার তফাত ঠিক এটাই। আর পরিবারের বয়োজ্যেষ্ঠ কারও কাছে জিজ্ঞেস করুন, আপনি এখন যা চালাচ্ছেন তাতে আপনার আগের মানুষটা আসলে কোন জিনিসে হিমশিম খেয়েছিল। উত্তরাধিকারের সঙ্গে একটা নথি আসে, আর সেটি পড়াই এই আয়াতের গোটা দাবি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for a Heart Held Steady",
+          "bn": "অন্তর স্থির রাখার আর্জি"
+        },
+        "p": [
+          {
+            "en": "Since the verse's danger is a sealed heart, the supplication that answers it is about the heart. At-Tirmidhi records from Anas (RA) that the Messenger of Allah ﷺ would often say: O Changer of the hearts, strengthen my heart upon Your religion. Anas (RA) said: Prophet of Allah, we believe in you and in what you have come with, but do you fear for us? He said: yes, the hearts are between two of Allah's fingers, He changes them as He wills. At-Tirmidhi graded the report hasan.",
+            "bn": "আয়াতের ভয়টা যেহেতু অন্তরে সীল পড়া, তাই তার জবাবের দুআও অন্তর নিয়ে। তিরমিযী আনাস (রাঃ) থেকে বর্ণনা করেন, আল্লাহর রসূল ﷺ প্রায়ই বলতেন: হে অন্তরসমূহের পরিবর্তনকারী, আমার অন্তরকে আপনার দীনের উপর অবিচল রাখুন। আনাস (রাঃ) বললেন, হে আল্লাহর নবী, আমরা আপনার প্রতি আর আপনি যা নিয়ে এসেছেন তার প্রতি ঈমান এনেছি, তবু আপনি আমাদের জন্য আশঙ্কা করেন? তিনি বললেন, হ্যাঁ, অন্তরগুলো আল্লাহর দুই আঙুলের মাঝে, তিনি যেভাবে চান সেভাবে সেগুলো বদলে দেন। তিরমিযী বর্ণনাটিকে হাসান বলেছেন।"
+          },
+          {
+            "en": "That exchange is the right frame for this verse, because the people asking the question were believers and the answer was still yes. A short supplication can be built from the verse's own vocabulary too, offered as that and not as a transmitted wording. O Allah, do not let me walk over other people's ruins and take nothing from them. Keep my hearing the kind that benefits me. And whatever You are giving me time over, do not let me mistake the time for a verdict in my favour.",
+            "bn": "এই কথাবার্তাটাই এই আয়াতের সঠিক কাঠামো, কারণ প্রশ্নটা করেছিলেন মুমিনরাই, আর জবাবটা তবু ছিল হ্যাঁ। আয়াতের নিজের শব্দ দিয়েও ছোট একটা দুআ গড়া যায়, বর্ণিত দুআ হিসেবে নয়, নিজের কথা হিসেবেই। হে আল্লাহ, অন্যের ভাঙা বসতির উপর দিয়ে হেঁটে গিয়ে সেখান থেকে কিছুই না নিয়ে ফেরা যেন আমার না হয়। আমার শোনাটা এমন রাখুন যাতে আমার লাভ হয়। আর যে ব্যাপারে আপনি আমাকে সময় দিচ্ছেন, সেই সময়টাকে আমি যেন আমার পক্ষে রায় বলে ভুল না করি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions for an Heir",
+          "bn": "উত্তরাধিকারীর জন্য প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The verse is a question, so the honest response is more questions. What did I inherit that I have never once asked about, and who lost it before me? What have I heard often enough that it no longer moves anything in me, and when did that happen? And is there a correction I have been given more than twice, in the same words, by different people?",
+            "bn": "আয়াতটি নিজেই একটি প্রশ্ন, কাজেই সৎ জবাব আরও কিছু প্রশ্ন। আমি কী পেয়েছি উত্তরাধিকারে, যা নিয়ে একবারও জিজ্ঞেস করিনি, আর আমার আগে কে তা হারিয়েছিল? কোন কথাটা আমি এত বেশি শুনে ফেলেছি যে তা আর আমার ভেতরে কিছুই নাড়ায় না, আর সেটা কখন থেকে হলো? আর এমন কোনো শুধরে দেওয়ার কথা কি আছে, যা একই ভাষায় দুইবারের বেশি আলাদা আলাদা মানুষের মুখে আমি শুনেছি?"
+          },
+          {
+            "en": "The narration says that respite is time granted and not a case dropped. So what am I treating as settled simply because nothing has happened yet? 7:95 describes people who read their own good fortune as a family pattern rather than a gift, and were seized while not perceiving. Where does my own explanation of why things are going well leave Allah out of the account? And what would I want the next occupant of my place to know about how I held it?",
+            "bn": "হাদীস বলে, সময় দেওয়া মানে সময় দেওয়াই, মামলা তুলে নেওয়া নয়। তাহলে কোন জিনিসটাকে আমি মিটে গেছে ধরে নিয়েছি কেবল এই কারণে যে এখনো কিছু ঘটেনি? ৭:৯৫ এমন লোকদের কথা বলে যারা নিজেদের সচ্ছলতাকে নিয়ামত নয়, বংশের চেনা ধারা বলে পড়েছিল, আর টের না পেতেই পাকড়াও হয়েছিল। আমার ভালো চলার যে ব্যাখ্যা আমি নিজেকে দিই, সেখানে আল্লাহ কোথায় হিসাবের বাইরে পড়ে যান? আর আমার জায়গায় যে পরে আসবে, আমি কেমন করে জায়গাটা ধরে রেখেছিলাম তার কোন কথাটা আমি চাইব সে জানুক?"
+          }
+        ]
+      }
+    ]
+  },
+  "7:105": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where Musa Begins",
+          "bn": "মূসা কোথা থেকে শুরু করেন"
+        },
+        "p": [
+          {
+            "en": "Surah al-A'raf is Makkan, and much of its second half is a procession of messengers. Nuh, Hud, Salih, Lut and Shu'ayb each come to a people who had every advantage and refused the one thing asked of them. The surah then pauses over those towns and over the hearts Allah seals so that they do not hear (7:100), and only after that pause does it say that Musa was sent after them, with signs, to Pharaoh and his chiefs (7:103).",
+            "bn": "সূরা আরাফ মাক্কী, আর এর দ্বিতীয়ার্ধের অনেকটাই একের পর এক রাসূলের কথা। নূহ, হূদ, সালিহ, লূত ও শুআইব (আঃ) প্রত্যেকে এমন জাতির কাছে গেছেন যাদের হাতে সব সুযোগ ছিল, অথচ একটিমাত্র কথা তাদের বলা হয়েছিল আর সেটাই তারা মানেনি। তারপর সূরা একটু থামে সেই জনপদগুলোর উপর, আর সেই অন্তরগুলোর উপর যেগুলোতে আল্লাহ সীল লাগিয়ে দেন বলে কিছু শোনে না (৭:১০০)। এই থামার পরেই বলা হয়, তাদের পরে মূসাকে নিদর্শনসহ ফিরআউন ও তার প্রধানদের কাছে পাঠানো হয়েছিল (৭:১০৩)।"
+          },
+          {
+            "en": "In 7:104 he names his sender before he says anything about himself: O Pharaoh, I am a messenger from the Lord of the worlds. 7:105 finishes that speech, and the instant it ends Pharaoh answers by demanding the sign (7:106). So this verse holds everything Musa (AS) chose to say before a single miracle was produced. No sound report fixes an occasion of revelation for it. Its meaning is carried by its position, wedged between a title claimed and a proof demanded.",
+            "bn": "৭:১০৪ আয়াতে তিনি নিজের কথা বলার আগে জানান কে তাঁকে পাঠিয়েছেন: হে ফিরআউন, আমি বিশ্বজগতের প্রতিপালকের পক্ষ থেকে পাঠানো রাসূল। ৭:১০৫ সেই কথাটাই শেষ করে, আর শেষ হওয়ামাত্র ফিরআউন নিদর্শন দেখতে চায় (৭:১০৬)। অর্থাৎ একটিও মুজিজা দেখানোর আগে মূসা (আঃ) যা যা বলার বেছে নিয়েছিলেন, সবটাই এই আয়াতের ভেতরে। এর জন্য কোনো নির্ভরযোগ্য শানে নুযূল পাওয়া যায় না। অর্থটা আসে জায়গা থেকেই, দাবি করা পরিচয় আর চাওয়া প্রমাণের মাঝখানে বসানো একটি বাক্য।"
+          },
+          {
+            "en": "Set it beside the other messengers in this surah. Hud opens with the sentence the surah keeps repeating, worship Allah, you have no deity other than Him (7:65), and Salih and Shu'ayb open the same way. Musa's first words to Pharaoh are shaped differently. Across the two verses he gives his sender, his honesty, his evidence, and one concrete demand about a nation held in forced labour. The message underneath has not changed. The door he is knocking on has.",
+            "bn": "এই সূরার অন্য রাসূলদের পাশে রেখে দেখুন। হূদ (আঃ) শুরু করেন সেই কথাটা দিয়ে যা সূরা বারবার ফিরিয়ে আনে, আল্লাহর ইবাদত কর, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই (৭:৬৫)। সালিহ আর শুআইব (আঃ) একই কথায় শুরু করেন। ফিরআউনের কাছে মূসার প্রথম কথাগুলোর ছাঁদ আলাদা। দুই আয়াত মিলিয়ে তিনি বলেন কে পাঠিয়েছেন, বলেন নিজের সত্যনিষ্ঠার কথা, পেশ করেন প্রমাণ, আর তোলেন একটি সুনির্দিষ্ট দাবি, বেগার খাটতে বাধ্য একটি জাতিকে নিয়ে। ভেতরের বার্তা বদলায়নি। বদলেছে তিনি কোন দরজায় ধাক্কা দিচ্ছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Root Behind Two Words",
+          "bn": "দুই শব্দের পেছনে এক ধাতু"
+        },
+        "p": [
+          {
+            "en": "The verse opens on haqiq, from the root h-q-q, and its first clause closes on al-haqq, from that same root. The word for what is owed and the word for the truth are cut from one stem, so the Arabic carries in its sound what the sentence carries in its sense: to be bound is to be bound to what is real. Between the two stands a negation with a single exception, la aqula illa al-haqq, the structure Arabic uses when it means to shut every door but one.",
+            "bn": "আয়াত শুরু হয় হাকীক শব্দে, ধাতু হ-ক-ক। আর এর প্রথম বাক্যাংশ শেষ হয় আল-হাক্ক শব্দে, ধাতু একই। যা করতে বাধ্য, আর যা সত্য, দুটো শব্দ একই মূল থেকে কাটা। তাই আরবি নিজের ধ্বনিতেই বলে দেয় যা বাক্যটি অর্থে বলছে: বাধ্য থাকা মানে সত্যের কাছে বাধ্য থাকা। দুইয়ের মাঝখানে বসে আছে একটি নাকারাত্মক বাক্য আর তার একটিমাত্র ব্যতিক্রম, লা আকূলা ইল্লাল হাক্ক। আরবি এই গড়নটা ব্যবহার করে যখন একটি দরজা ছাড়া বাকি সব বন্ধ করতে চায়।"
+          },
+          {
+            "en": "at-Tabari records two well-known readings of that opening. Reciters of Makkah, Madinah, Basra and Kufa read haqiqun ala an la aqula, with ala doing the work of the preposition bi, so the sense is that he is fitted for saying nothing about Allah but the truth. A group of Madinans read haqiqun alayya alla aqula, it is owed by me. at-Tabari's own verdict is that both are famous, close in meaning, and whoever recites either has recited correctly.",
+            "bn": "ইমাম তাবারী এই শুরুর দুটি প্রসিদ্ধ কিরাআত তুলে ধরেন। মক্কা, মদীনা, বসরা ও কূফার কারীগণ পড়েছেন হাকীকুন আলা আল্লা আকূল, এখানে আলা কাজ করছে বা বর্ণের অর্থে, অর্থাৎ আল্লাহর ব্যাপারে সত্য ছাড়া কিছু না বলার জন্যই আমি উপযুক্ত। মদীনার একটি দল পড়েছেন হাকীকুন আলাইয়া আল্লা আকূল, অর্থাৎ এটা আমার উপর পাওনা। তাবারীর নিজের রায়, দুটোই প্রসিদ্ধ, অর্থে কাছাকাছি, আর যে কেউ যেটাই পড়ুক, তার পড়া সহিহ।"
+          },
+          {
+            "en": "Two further words do quiet work. The proof is a bayyinah, from b-y-n, indefinite and singular: not a stack of arguments but one thing that makes itself plain. And the demand is arsil, form four of r-s-l, the root of rasul in the verse before. I am one who was sent, therefore you send. Musa asks Pharaoh to perform on the Children of Israel the very verb Allah performed on him, and the wording will not let the king hear the two as unrelated.",
+            "bn": "আরও দুটি শব্দ নিঃশব্দে কাজ করে। প্রমাণটিকে বলা হয়েছে বাইয়্যিনাহ, ধাতু ব-য়-ন, এবং তা একবচন ও অনির্দিষ্ট। যুক্তির স্তূপ নয়, একটি জিনিস যা নিজেই নিজেকে স্পষ্ট করে দেয়। আর দাবিটির ক্রিয়া আরসিল, র-স-ল ধাতুর চতুর্থ বাবের আদেশ, আগের আয়াতের রাসূল শব্দের ঠিক সেই ধাতু। আমাকে পাঠানো হয়েছে, কাজেই তুমি পাঠিয়ে দাও। আল্লাহ যে কাজটা মূসার উপর করেছেন, সেই একই ক্রিয়া বানী ইসরাঈলের উপর করতে বলা হচ্ছে ফিরআউনকে। শব্দ দুটোকে আলাদা করে শোনার সুযোগ সে পাচ্ছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why He Could Not Lie",
+          "bn": "কেন তিনি মিথ্যা বলতে পারতেন না"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir reads the clause as a duty accepted with open eyes. It is incumbent upon me, he has Musa saying, to convey nothing from Him but the truth, and the reason he supplies is knowledge: because of what I know of His might and His power. On the closing demand he is equally concrete. Release them from your slavery and your subjugation, he glosses, and he reminds the reader whose children they are, the offspring of Isra'il, who is Ya'qub son of Ishaq son of Ibrahim.",
+            "bn": "ইবনু কাসীর এই অংশটাকে পড়েন চোখ খোলা রেখে মেনে নেওয়া এক দায়িত্ব হিসেবে। মূসার কথার ব্যাখ্যায় তিনি বলেন, তাঁর পক্ষ থেকে সত্য ছাড়া কিছু পৌঁছে দেওয়া আমার উপর ফরজ। আর কারণটা তিনি রাখেন ইলমের উপর: তাঁর ক্ষমতা আর প্রতাপ সম্পর্কে আমি যা জানি, সেই কারণেই। শেষ দাবিটার ব্যাখ্যাতেও তিনি সমান সরাসরি। তিনি বলেন, তোমার গোলামি আর তোমার দমননীতি থেকে তাদের ছেড়ে দাও। আর পাঠককে মনে করিয়ে দেন এরা কার সন্তান, ইসরাঈলের বংশ, অর্থাৎ ইয়াকুব ইবনু ইসহাক ইবনু ইবরাহীমের সন্তান।"
+          },
+          {
+            "en": "as-Sa'di works from the same place and pushes it further. Since this is His station, and He chose and selected me for His message, it is binding upon me not to lie about Him. Then the sharp line: had I said anything else, He would have hastened the punishment upon me and seized me with the seizing of One Mighty and Able. as-Sa'di also counts what the mission is for, and finds two great aims in it, their belief in Musa and their following of him, and the sending out of the Children of Israel.",
+            "bn": "শাইখ সাদী একই জায়গা থেকে শুরু করে আরও এগিয়ে যান। তাঁর মর্যাদা যখন এই, আর তিনি যখন নিজের রিসালাতের জন্য আমাকেই বেছে নিয়েছেন, তখন তাঁর নামে মিথ্যা না বলা আমার উপর অবশ্য কর্তব্য। তারপর কড়া কথাটা: আমি যদি এর বিপরীত কিছু বলতাম, তিনি সঙ্গে সঙ্গে শাস্তি এগিয়ে আনতেন আর পরাক্রমশালী সক্ষমের পাকড়াও দিয়ে আমাকে ধরতেন। সাদী এই রিসালাতের উদ্দেশ্যও গুনে দেখান, আর সেখানে পান দুটি বড় উদ্দেশ্য: তারা মূসার উপর ঈমান আনবে ও তাঁকে অনুসরণ করবে, এবং বানী ইসরাঈলকে ছেড়ে দেওয়া হবে।"
+          },
+          {
+            "en": "al-Qurtubi's interest is the grammar. On the reading with alayya he gives one word, wajib, obligatory; he records a reading transmitted from Abdullah (RA) that drops ala altogether, and one from Ubayy (RA) and al-A'mash that reads bi-alla aqula. On the last clause he is blunt: khallihim, let them go, and he adds that Pharaoh had been using them for the hard labour. So the difference between these readings is one of angle. Ibn Kathir and as-Sa'di ground the obligation in the fear of Allah; al-Qurtubi and at-Tabari locate it in what the words themselves will bear.",
+            "bn": "কুরতুবীর আগ্রহ ব্যাকরণে। আলাইয়া পড়ার ক্ষেত্রে তিনি এক শব্দে অর্থ দেন, ওয়াজিব। তিনি লিখে রাখেন আবদুল্লাহ (রাঃ) থেকে বর্ণিত একটি পড়ায় আলা শব্দটিই নেই, আর উবাই (রাঃ) ও আমাশ থেকে বর্ণিত পড়ায় আছে বি-আল্লা আকূল। শেষ বাক্যাংশে তিনি একেবারে সোজা: খাল্লিহুম, ওদের ছেড়ে দাও। সঙ্গে যোগ করেন, ফিরআউন তাদের দিয়ে কঠিন খাটুনি করাত। তাই পড়াগুলোর পার্থক্য আসলে দৃষ্টিকোণের পার্থক্য। ইবনু কাসীর আর সাদী দায়িত্বটার ভিত্তি রাখেন আল্লাহর ভয়ে। কুরতুবী আর তাবারী খোঁজেন শব্দগুলো নিজেরা কতটুকু বহন করতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Word Before a Tyrant",
+          "bn": "জালিম শাসকের সামনে একটি কথা"
+        },
+        "p": [
+          {
+            "en": "The four tafsirs read for this verse carry no narration from the Prophet Muhammad ﷺ on it. at-Tabari's entry is a discussion of the readings and a gloss on the proof; Ibn Kathir, as-Sa'di and al-Qurtubi all stay with the wording. That absence is worth reporting rather than filling, because a verse does not become weightier by having a hadith attached to it that the commentators never attached. What the Sunnah supplies instead is a sentence about the situation Musa was standing in.",
+            "bn": "এই আয়াতের জন্য যে চারটি তাফসীর দেখা হয়েছে, তার কোনোটিতে নবী ﷺ থেকে বর্ণিত কোনো হাদীস এই আয়াতের সঙ্গে জোড়া নেই। তাবারীর আলোচনা কিরাআত আর প্রমাণের অর্থ নিয়ে। ইবনু কাসীর, সাদী আর কুরতুবী তিনজনই শব্দের মধ্যেই থাকেন। ফাঁকটা ঢেকে দেওয়ার চেয়ে বলে দেওয়াই ভালো। মুফাসসিরগণ যে হাদীস আয়াতের সঙ্গে জোড়েননি, সেটা জুড়ে দিলে আয়াতের ওজন বাড়ে না। বদলে সুন্নাহ যা দেয়, তা হলো মূসা যে পরিস্থিতিতে দাঁড়িয়ে ছিলেন সেই পরিস্থিতি নিয়ে একটি কথা।"
+          },
+          {
+            "en": "Sunan Abu Dawud 4344 records from Abu Sa'id al-Khudri (RA) that the Messenger of Allah ﷺ said: the best fighting in the path of Allah is a word of justice to an oppressive ruler. Abu Dawud gives no grading of his own alongside it. It is quoted here for the scene and not as a comment on the verse, because 7:105 is what that sentence looks like when a man actually does it, and it is worth noticing that the word spoken here is first of all a word about Allah.",
+            "bn": "সুনানে আবূ দাঊদের ৪৩৪৪ নম্বর হাদীসে আবূ সাঈদ খুদরী (রাঃ) থেকে এসেছে, রাসূলুল্লাহ ﷺ বলেছেন, আল্লাহর পথে সর্বশ্রেষ্ঠ জিহাদ হলো জালিম শাসকের সামনে ইনসাফের একটি কথা। আবূ দাঊদ এর সঙ্গে নিজের কোনো মান উল্লেখ করেননি। এটা এখানে আনা হলো দৃশ্যটার জন্য, আয়াতের ব্যাখ্যা হিসেবে নয়। কারণ কেউ যখন সত্যিই কথাটা বলে, তখন সেটা দেখতে ঠিক ৭:১০৫ আয়াতের মতোই লাগে। আর খেয়াল করার মতো ব্যাপার হলো, এখানে যে কথাটা বলা হচ্ছে, সেটা সবার আগে আল্লাহকে নিয়েই একটি কথা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Else This Limit Appears",
+          "bn": "এই সীমা আর কোথায় আসে"
+        },
+        "p": [
+          {
+            "en": "Three verses sharpen the first half. 7:33 is this same surah's list of what the Lord has forbidden, and the list ends on exactly this, that you say about Allah what you do not know. 6:93 asks who is more unjust than one who invents a lie about Allah, and then follows the question all the way to the hour of death. 2:169 names where the pressure comes from, since it is Satan who orders people to say about Allah what they do not know.",
+            "bn": "তিনটি আয়াত প্রথম অর্ধেকটাকে ধারালো করে তোলে। ৭:৩৩ এই একই সূরায় প্রতিপালক যা যা হারাম করেছেন তার তালিকা, আর তালিকাটি ঠিক এই কথাতেই শেষ হয়: আল্লাহ সম্পর্কে না জেনে কথা বলা। ৬:৯৩ প্রশ্ন তোলে, আল্লাহর নামে মিথ্যা বানায় তার চেয়ে বড় জালিম আর কে, আর প্রশ্নটাকে টেনে নিয়ে যায় একেবারে মৃত্যুর মুহূর্ত পর্যন্ত। ২:১৬৯ বলে দেয় চাপটা কোথা থেকে আসে, কারণ আল্লাহ সম্পর্কে না জেনে কথা বলার হুকুম দেয় শয়তান।"
+          },
+          {
+            "en": "Two more sharpen the second half. 26:16-17 has the same commission in the plural, both brothers commanded to tell Pharaoh that they are messengers of the Lord of the worlds and to say, send with us the Children of Israel. 20:47 adds a clause this verse leaves out, and do not torment them, then closes with peace upon whoever follows the guidance. Read alongside 20:44, where both men are told to speak to Pharaoh a gentle word, the demand turns out to have been delivered softly.",
+            "bn": "আরও দুটি আয়াত দ্বিতীয় অর্ধেকটাকে ধারালো করে। ২৬:১৬ আয়াতে একই দায়িত্ব এসেছে বহুবচনে, দুই ভাইকেই হুকুম দেওয়া হচ্ছে ফিরআউনকে বলতে যে তাঁরা বিশ্বজগতের প্রতিপালকের রাসূল। আর ২৬:১৭ আয়াতে বলতে বলা হচ্ছে, বানী ইসরাঈলকে আমাদের সঙ্গে পাঠিয়ে দাও। ২০:৪৭ এমন একটি কথা যোগ করে যা এখানে নেই, তাদের উপর উৎপীড়ন করো না, আর শেষ হয় হেদায়েত অনুসরণকারীদের প্রতি শান্তির কথা দিয়ে। ২০:৪৪ আয়াতের সঙ্গে মিলিয়ে পড়ুন, যেখানে দুজনকেই বলা হচ্ছে ফিরআউনের সঙ্গে নম্রভাবে কথা বলতে। তখন বোঝা যায়, দাবিটা নরম গলাতেই পৌঁছে দেওয়া হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living Inside the Limit",
+          "bn": "সীমার ভেতরে থাকা"
+        },
+        "p": [
+          {
+            "en": "The first thing this verse asks for is not courage but restraint. Most of us will never address a tyrant; all of us talk about Allah. We say He wants this, He is pleased with that, this is what the religion says. The verse puts a gate in front of every one of those sentences, and the gate opens only for what you actually know. A useful claim is not thereby a true one, and the claim that helps your argument most is exactly the one to check first.",
+            "bn": "এই আয়াত প্রথমে সাহস চায় না, সংযম চায়। আমাদের অধিকাংশই কোনো জালিম শাসকের সামনে দাঁড়াব না। কিন্তু আমরা সবাই আল্লাহকে নিয়ে কথা বলি। বলি, তিনি এটা চান, তিনি ওটাতে খুশি, দ্বীনে এটাই আছে। আয়াতটি এই প্রত্যেক বাক্যের সামনে একটা গেট বসিয়ে দেয়, আর সেই গেট খোলে কেবল যা আপনি সত্যিই জানেন তার জন্য। কাজে লাগে বলেই কোনো দাবি সত্য হয়ে যায় না। বরং যে দাবিটা আপনার যুক্তিকে সবচেয়ে বেশি সাহায্য করে, সেটাই আগে যাচাই করা দরকার।"
+          },
+          {
+            "en": "The order inside the verse is the second lesson. Honesty comes before evidence, and evidence comes before the ask. Reverse it and you have a man who makes a demand, then reaches for a proof, then trims his account of Allah until the proof fits. Musa gives his audience no reason to suspect that third step, because he settled the first one out loud before he began. In a disagreement this means establishing what you will not say before you say what you want.",
+            "bn": "দ্বিতীয় শিক্ষা আয়াতের ভেতরের ক্রমে। সত্যনিষ্ঠা আগে, প্রমাণ তারপর, দাবি সবার শেষে। ক্রমটা উল্টে দিলে যা দাঁড়ায় তা হলো এমন একজন, যে আগে দাবি তোলে, তারপর প্রমাণ হাতড়ায়, তারপর প্রমাণের সঙ্গে মিলিয়ে আল্লাহর ব্যাপারে নিজের কথাটাকে কাটছাঁট করে। মূসা তাঁর শ্রোতাদের এই তৃতীয় ধাপ নিয়ে সন্দেহ করার কোনো সুযোগ দেননি, কারণ শুরু করার আগেই প্রথম ধাপটা তিনি মুখে বলে মিটিয়ে নিয়েছেন। মতভেদের সময় এর মানে, কী চান বলার আগে ঠিক করে ফেলুন কী আপনি বলবেন না।"
+          },
+          {
+            "en": "There is a practical version of this for anyone who teaches or answers questions. Learn the sentence I do not know and use it without embarrassment, because it is the direct application of this verse. Learn to separate what a text says from what you have concluded from it, and hand the second over as yours. And when you quote, quote; when you summarise, say that you are summarising. Every one of those habits is a small refusal to say about Allah more than the truth.",
+            "bn": "যাঁরা পড়ান বা প্রশ্নের জবাব দেন, তাঁদের জন্য এর একটা হাতে-কলমে রূপ আছে। আমি জানি না, এই বাক্যটা শিখে নিন আর লজ্জা ছাড়াই ব্যবহার করুন, কারণ এটাই এই আয়াতের সোজা প্রয়োগ। দলীলে যা আছে আর দলীল থেকে আপনি যা বুঝেছেন, দুটোকে আলাদা করতে শিখুন, আর দ্বিতীয়টা নিজের বোঝা বলেই দিন। উদ্ধৃতি দেওয়ার সময় হুবহু দিন, আর সারমর্ম বললে বলুন যে সারমর্ম বলছেন। এই প্রতিটি অভ্যাস আসলে ছোট করে বলা, আল্লাহর ব্যাপারে সত্যের চেয়ে বেশি কিছু বলব না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Du'a for Your Speech",
+          "bn": "নিজের কথার জন্য দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse is a declaration to a king rather than a supplication, so nothing in it is transmitted as a du'a. What the Quran does give in this same vocabulary is Musa's own prayer at the start of the same mission, in 20:25-28, where he asks for his chest to be expanded, his task to be eased, and the knot to be untied from his tongue so that his words will be understood. A man about to speak the truth to power asked first for the capacity to speak at all.",
+            "bn": "এই আয়াত এক রাজার উদ্দেশে বলা ঘোষণা, দোয়া নয়। তাই এর ভেতরের কিছুই দোয়া হিসেবে বর্ণিত হয়নি। এই একই শব্দভান্ডারে কুরআন যা দেয় তা হলো এই একই দায়িত্বের শুরুতে মূসার নিজের দোয়া, ২০:২৫ থেকে ২০:২৮ আয়াতে। তিনি চান তাঁর বুক প্রশস্ত হোক, তাঁর কাজ সহজ হোক, আর তাঁর জিহ্বার জট খুলে যাক যাতে তাঁর কথা মানুষ বুঝতে পারে। ক্ষমতার সামনে সত্য বলতে যাচ্ছেন যিনি, তিনি সবার আগে চেয়েছেন কথা বলার সামর্থ্যটাই।"
+          },
+          {
+            "en": "A short supplication in the verse's own words may be offered as that and nothing more. O Allah, You are the Lord of the worlds and I am small in front of what I say about You. Hold my tongue to the truth about You, and let me say nothing of You that I have not been given. Make what I bring people a bayyinah and not merely a confidence, and when I ask anyone for anything, let me have earned the right to ask it.",
+            "bn": "আয়াতের নিজের শব্দ দিয়ে গড়া ছোট একটি মুনাজাত এখানে দেওয়া যায়, তবে সেটাকে বর্ণিত দোয়া বলা যাবে না। হে আল্লাহ, আপনি বিশ্বজগতের প্রতিপালক, আর আপনাকে নিয়ে যা বলি তার সামনে আমি নগণ্য। আমার জিহ্বাকে আপনার ব্যাপারে সত্যের মধ্যে বেঁধে রাখুন, আর আপনার সম্পর্কে যা আমাকে দেওয়া হয়নি তা যেন আমি না বলি। মানুষের কাছে আমি যা নিয়ে যাই তা আত্মবিশ্বাস নয়, বাইয়্যিনাহ বানিয়ে দিন। আর কারও কাছে যখন কিছু চাই, চাওয়ার অধিকারটা যেন আগে অর্জন করে নিই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Own Mouth",
+          "bn": "নিজের মুখ নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "When did I last say something about Allah, or about His religion, because it settled an argument rather than because I had checked it? Is there a sentence I repeat about what Allah loves or hates that I inherited whole and never traced? Musa fixed the limit on his own speech before he asked Pharaoh for anything at all. What would I have to stop saying before my own asking became clean enough to be heard?",
+            "bn": "শেষ কবে আমি আল্লাহকে নিয়ে বা তাঁর দ্বীনকে নিয়ে এমন কিছু বলেছি, যা যাচাই করেছিলাম বলে নয়, তর্কটা মিটে যাচ্ছিল বলে? আল্লাহ কী পছন্দ করেন বা অপছন্দ করেন নিয়ে এমন কোনো বাক্য কি আমি বলে যাচ্ছি, যেটা পুরোপুরি শোনা কথা আর যার উৎস আমি কখনো খুঁজিনি? ফিরআউনের কাছে কিছুই চাওয়ার আগে মূসা নিজের কথার উপর সীমা টেনে নিয়েছিলেন। আমার চাওয়া শোনার মতো পরিষ্কার হওয়ার আগে কোন কথাগুলো আমার থামানো দরকার?"
+          },
+          {
+            "en": "Who in my life would be safe telling me that I do not know, and have I made that answer safe for myself? When I am the one being disbelieved, do I reach for a better proof or for a looser claim? And if someone held me tonight to only what I actually know about Allah, how much of my ordinary religious talk would survive being held to it?",
+            "bn": "আমার জীবনে কে নিরাপদে আমাকে বলতে পারে, তুমি জানো না? আর আমি নিজের জন্য এই জবাবটা নিরাপদ করে রেখেছি কি? আমাকে যখন কেউ বিশ্বাস করে না, তখন আমি ভালো প্রমাণের দিকে হাত বাড়াই, নাকি আরও ঢিলে দাবির দিকে? আর আজ রাতে কেউ যদি আমাকে কেবল ততটুকুতেই বেঁধে দেয় যতটুকু আল্লাহ সম্পর্কে আমি সত্যিই জানি, তাহলে আমার রোজকার দ্বীনি কথাবার্তার কতটুকু টিকে থাকবে?"
+          }
+        ]
+      }
+    ]
+  },
+  "7:111": {
+    "sections": [
+      {
+        "h": {
+          "en": "Whose Voice This Is",
+          "bn": "কথা বলছে কারা"
+        },
+        "p": [
+          {
+            "en": "In 7:109 the chiefs of Pharaoh's people say that this is a learned magician, and 7:110 continues in the same speech: he wants to expel you from your land, so what do you instruct? 7:111 is the answer, and its verb is qalu, they said, in the plural. This is the assembly, not the king. The sentence does not even end inside the verse. 7:112 completes it, who will bring you every learned magician, and then 7:113 has the magicians arriving to negotiate their fee.",
+            "bn": "৭:১০৯ আয়াতে ফিরআউনের গোষ্ঠীর প্রধানরা বলে, এ তো বিজ্ঞ যাদুকর। ৭:১১০ আয়াত একই কথার ধারাবাহিকতা: সে চায় তোমাদের দেশ থেকে তোমাদের বের করে দিতে, এখন তোমাদের পরামর্শ কী? ৭:১১১ সেই প্রশ্নের জবাব, আর এর ক্রিয়া কালূ, অর্থাৎ তারা বলল, বহুবচনে। কথা বলছে সভা, রাজা নয়। বাক্যটা এই আয়াতের ভেতরে শেষও হয় না। ৭:১১২ এসে শেষ করে, তারা তোমার কাছে প্রত্যেক বিজ্ঞ যাদুকরকে নিয়ে আসবে। তারপর ৭:১১৩ আয়াতে যাদুকররা এসে নিজেদের পুরস্কারের দরকষাকষি করে।"
+          },
+          {
+            "en": "The other telling distributes the same lines differently, and it is worth being exact about it. In 26:34-35 it is Pharaoh who says to the chiefs around him that this is a learned magician who wants to drive them out of their land, and Pharaoh who asks them what they advise. In 26:36-37 the chiefs answer with the counsel that stands here. So surah 7 puts the accusation in the mouths of the chiefs and surah 26 puts it in Pharaoh's, while the counsel belongs to the chiefs in both.",
+            "bn": "অন্য বর্ণনায় এই একই কথাগুলো ভাগ করা হয়েছে অন্যভাবে, আর এখানে নির্ভুল থাকাটা জরুরি। ২৬:৩৪ আয়াতে ফিরআউন নিজেই তার আশপাশের প্রধানদের বলে, এ তো বিজ্ঞ যাদুকর। ২৬:৩৫ আয়াতে সে বলে, সে তার যাদু দিয়ে তোমাদের দেশ থেকে তোমাদের বের করে দিতে চায়, এখন তোমাদের পরামর্শ কী? আর ২৬:৩৬ আয়াতে প্রধানরাই জবাব দেয় সেই পরামর্শ, যা এখানে আছে। অর্থাৎ সূরা আরাফ অভিযোগটা প্রধানদের মুখে রাখে, সূরা শুআরা রাখে ফিরআউনের মুখে। পরামর্শটা দুই সূরাতেই প্রধানদের।"
+          },
+          {
+            "en": "By this point two signs have already been given. The staff has become a serpent in the open (7:107) and the hand has come out white for everyone watching (7:108). Nothing in the counsel touches either of them. The surah is Makkan and no sound report fixes an occasion of revelation for the verse; it belongs to the passage that runs on without a break from 7:103, and what it is doing there is showing how a court answered evidence it could not answer.",
+            "bn": "এই জায়গায় পৌঁছে দুটি নিদর্শন ইতিমধ্যেই দেখানো হয়ে গেছে। সবার সামনে লাঠি অজগর হয়ে গেছে (৭:১০৭), আর হাত বের করা হয়েছে যা দর্শকদের চোখে সাদা উজ্জ্বল (৭:১০৮)। পরামর্শের ভেতর এই দুটির একটিও স্পর্শ করা হয়নি। সূরাটি মাক্কী, আর এই আয়াতের জন্য কোনো নির্ভরযোগ্য শানে নুযূল নেই। এটি ৭:১০৩ থেকে অবিরাম চলে আসা অংশেরই একটি টুকরো। আর সেখানে এর কাজ একটাই, দেখিয়ে দেওয়া যে যে প্রমাণের জবাব ছিল না, একটি দরবার তার জবাব কীভাবে দিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Orders, One Man",
+          "bn": "দুই হুকুম, এক লোক"
+        },
+        "p": [
+          {
+            "en": "The grammar carries the politics. Qalu is plural, so several men are speaking, but both commands that follow are singular. Arjih, put him off, and arsil, send, are each addressed to one person, and that person is the only one in the room who can order a detention or dispatch officers. A committee has spoken and a king has been handed his instructions. There are two imperatives here, not three; his brother is added as an object of the first, not as a separate order.",
+            "bn": "ব্যাকরণই রাজনীতিটা বহন করছে। কালূ বহুবচন, অর্থাৎ কথা বলছে কয়েকজন। কিন্তু এরপরের দুটি হুকুম একবচন। আরজিহ, অর্থাৎ তাকে পিছিয়ে দাও, আর আরসিল, অর্থাৎ পাঠিয়ে দাও, দুটোই একজনকে বলা। আর সেই একজনই ঘরের ভেতর একমাত্র লোক যে আটক করার হুকুম দিতে পারে বা কর্মচারী পাঠাতে পারে। একটি পরিষদ কথা বলেছে, আর একজন রাজার হাতে নির্দেশ ধরিয়ে দেওয়া হয়েছে। এখানে হুকুম দুটি, তিনটি নয়। তার ভাইকে জুড়ে দেওয়া হয়েছে প্রথম হুকুমের সঙ্গেই, আলাদা হুকুম হিসেবে নয়।"
+          },
+          {
+            "en": "Arjih is a form of the verb that also appears in 33:51 as turji, and at-Tabari cites that very verse to establish the meaning: al-irja in the speech of the Arabs is at-takhir, putting a thing back. He also records the dialects, noting that the pronunciation with the hamza belongs to some clans of Qays while dropping it is the tongue of Tamim and Asad, and he judges the unhamzated reading the more eloquent while allowing the other.",
+            "bn": "আরজিহ ক্রিয়ার যে রূপ, সেটিই ৩৩:৫১ আয়াতে এসেছে তুরজী হিসেবে, আর ইমাম তাবারী অর্থ প্রতিষ্ঠা করতে ঠিক সেই আয়াতটিই উদ্ধৃত করেন। আরবের কথায় ইরজা মানে তাখীর, অর্থাৎ কোনো বিষয়কে পিছিয়ে দেওয়া। তিনি উচ্চারণের ভিন্নতাও লিখে রাখেন। হামজাসহ উচ্চারণটি কায়স গোত্রের কয়েকটি শাখার, আর হামজা ছাড়া উচ্চারণ তামীম ও আসাদের ভাষা। তাবারীর রায়, হামজা ছাড়া পড়াটিই আরবি ভাষায় বেশি বিশুদ্ধ, যদিও অন্যটিও জায়েজ।"
+          },
+          {
+            "en": "The last word is the one to hold on to. Hashirin is an active participle in the plural from the root h-sh-r, the root of al-hashr, the Gathering, and al-Qurtubi notes that it stands in the accusative as a circumstantial description. Al-madain is a plural too: not the capital but every town in the kingdom. Then comes the turn nobody planned. In 20:59 Musa answers Pharaoh's proposed appointment by naming the day of the festival, when the people are gathered at mid-morning, using that same root. They wanted a crowd. He fixed the hour for it.",
+            "bn": "শেষ শব্দটাই ধরে রাখার মতো। হাশিরীন বহুবচনে কর্তৃবাচক বিশেষ্য, ধাতু হ-শ-র, যেটি আল-হাশর অর্থাৎ হাশরের ধাতু। কুরতুবী উল্লেখ করেন, শব্দটি এখানে অবস্থাজ্ঞাপক হিসেবে কর্মকারকে বসেছে। আল-মাদাইন শব্দটিও বহুবচন, অর্থাৎ শুধু রাজধানী নয়, রাজ্যের প্রতিটি শহর। এরপর আসে সেই মোড়, যার পরিকল্পনা কেউ করেনি। ২০:৫৯ আয়াতে ফিরআউনের প্রস্তাবিত সময়ের জবাবে মূসা নাম নেন উৎসবের দিনের, যেদিন দিনের প্রথম প্রহরে লোকজন একত্র হয়। ব্যবহার করেন সেই একই ধাতু। তারা ভিড় চেয়েছিল। তিনি ভিড়ের সময়টা ঠিক করে দিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Delay, Detention, or Hope",
+          "bn": "পিছিয়ে দেওয়া, আটক, নাকি আশা"
+        },
+        "p": [
+          {
+            "en": "at-Tabari opens by naming the speakers outright: the chiefs of Pharaoh's people said to Pharaoh, arjih, that is, delay him. He then records a real disagreement among the early authorities about how far that goes. Ibn Abbas (RA), through Ata al-Khurasani, gives one word, akhkhirhu, put him off. Qatadah gives a harder one, ahbishu wa akhah, imprison him and his brother. Both are in at-Tabari's entry, set side by side, and he does not collapse them into each other.",
+            "bn": "ইমাম তাবারী শুরুতেই বক্তাদের নাম বলে দেন: ফিরআউনের গোষ্ঠীর প্রধানরা ফিরআউনকে বলল, আরজিহ, অর্থাৎ তাকে পিছিয়ে দাও। তারপর তিনি লিখে রাখেন পূর্ববর্তী ইমামদের ভেতর একটি সত্যিকারের মতভেদ, শব্দটি কতদূর যায় তা নিয়ে। ইবনু আব্বাস (রাঃ) আতা খুরাসানীর সূত্রে এক শব্দে বলেন, আখখিরহু, অর্থাৎ তাকে পিছিয়ে দাও। কাতাদাহ বলেন আরও কড়া কথা, আহবিসহু ওয়া আখাহ, অর্থাৎ তাকে আর তার ভাইকে বন্দী কর। দুটোই তাবারীর আলোচনায় পাশাপাশি রাখা, আর তিনি একটাকে অন্যটার ভেতর মিশিয়ে দেন না।"
+          },
+          {
+            "en": "al-Qurtubi keeps a third possibility alive. He reports from an-Nahhas, on the authority of Muhammad ibn Yazid, that arjih may be taken from raja yarju, so that it means give him hope and leave him hoping. He also lays out who read the word with the hamza and who without it, and which reciters lengthened the vowel on the pronoun. Between the three readings the options are these: delay the man, jail the man, or keep the man expectant. None of them is an answer to what the man said.",
+            "bn": "কুরতুবী তৃতীয় একটি সম্ভাবনাও বাঁচিয়ে রাখেন। তিনি নাহহাসের সূত্রে মুহাম্মাদ ইবনু ইয়াযীদ থেকে বর্ণনা করেন, আরজিহ শব্দটি রাজা ইয়ারজূ থেকেও নেওয়া যায়, তখন অর্থ হয় তাকে আশা দাও আর আশার মধ্যেই রেখে দাও। কোন কারী হামজাসহ পড়েছেন, কে হামজা ছাড়া, আর কারা সর্বনামের স্বর টেনে পড়েছেন, সবই তিনি সাজিয়ে দেন। তিনটি পড়া মিলিয়ে সম্ভাবনা দাঁড়ায় তিনটি: লোকটাকে পিছিয়ে দাও, লোকটাকে বন্দী কর, নয়তো লোকটাকে আশায় ঝুলিয়ে রাখো। এর একটিও লোকটার কথার জবাব নয়।"
+          },
+          {
+            "en": "as-Sa'di takes two of the senses together: their view settled on telling Pharaoh to imprison the two of them and grant them respite, and to send men into the cities to gather the people of the kingdom. Ibn Kathir reads arjih as delay him for a time and then explains the plan behind it. In that age, he says, magic was the going trade, widespread and popular, and they assumed that what Musa brought was magic of the same kind. On that wrong assumption they sent for every magician they could find, to defeat what he had shown them.",
+            "bn": "শাইখ সাদী দুটি অর্থ একসঙ্গে নেন। তাঁর ভাষায়, তাদের মত এসে দাঁড়াল এখানে যে ফিরআউনকে বলা হবে দুজনকে বন্দী করে অবকাশ দিতে, আর নগরে নগরে লোক পাঠিয়ে রাজ্যের মানুষ জড়ো করতে। ইবনু কাসীর আরজিহ পড়েন কিছু সময়ের জন্য পিছিয়ে দেওয়া অর্থে, তারপর পেছনের পরিকল্পনাটা খুলে বলেন। তিনি বলেন, সেই যুগে যাদুই ছিল চালু পেশা, ছড়িয়ে থাকা আর জনপ্রিয়। তারা ধরে নিয়েছিল মূসা যা এনেছেন সেটাও সেই একই জাতের যাদু। এই ভুল ধারণার উপর ভর করেই তারা যত যাদুকর পাওয়া যায় ডেকে পাঠাল, তাঁর দেখানো জিনিসটাকে হারিয়ে দিতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Is Attached, What Is Not",
+          "bn": "কী জোড়া আছে, কী নেই"
+        },
+        "p": [
+          {
+            "en": "The four tafsirs read for this verse carry no narration from the Prophet Muhammad ﷺ on it, and that is worth stating plainly instead of reaching for a report from elsewhere. The verse is a piece of reported speech inside a narrative, and the commentators treat it as such: they explain a verb, settle a reading, and describe a plan. Nothing in this passage needs a hadith to be understood, and attaching one that the mufassirun never attached would be a loan, not a support.",
+            "bn": "এই আয়াতের জন্য যে চারটি তাফসীর দেখা হয়েছে, তার কোনোটিতেই নবী ﷺ থেকে কোনো হাদীস এই আয়াতের সঙ্গে জোড়া নেই। অন্য কোথাও হাত না বাড়িয়ে কথাটা সোজা বলে দেওয়াই ভালো। আয়াতটি একটি কাহিনির ভেতরে বলা কথার টুকরো, আর মুফাসসিরগণ সেটাকে সেভাবেই নেন। তাঁরা একটি ক্রিয়ার অর্থ খোলেন, একটি কিরাআত নির্ধারণ করেন, আর একটি পরিকল্পনার বর্ণনা দেন। এই অংশ বুঝতে কোনো হাদীসের দরকার পড়ে না। মুফাসসিরগণ যা জোড়েননি তা জুড়ে দিলে সেটা ধার হবে, ভিত্তি হবে না।"
+          },
+          {
+            "en": "What at-Tabari does record is early comment on the last word. He glosses hashirin as those who gather the magicians and bring them to you, and then reports, through several chains from Ibn Abbas (RA) and also from Mujahid and as-Suddi, a single word for who they were: al-shurta, the state's own enforcers. These are tafsir reports from a Companion and from those who came after him, not narrations from the Prophet ﷺ, and they matter for one reason. The talent search was run by the police.",
+            "bn": "তাবারী যা লিখে রাখেন তা হলো শেষ শব্দটি নিয়ে পূর্ববর্তীদের মন্তব্য। তিনি হাশিরীনের অর্থ দেন, যারা যাদুকরদের জড়ো করে তোমার কাছে এনে হাজির করে। তারপর ইবনু আব্বাস (রাঃ) থেকে কয়েকটি সূত্রে, আর মুজাহিদ ও সুদ্দী থেকেও, এরা কারা সে প্রশ্নের জবাবে একটি শব্দ বর্ণনা করেন: আশ-শুরতা, অর্থাৎ রাষ্ট্রের নিজের বাহিনী। এগুলো একজন সাহাবী ও পরবর্তীদের তাফসীরি বক্তব্য, নবী ﷺ থেকে বর্ণিত হাদীস নয়। এগুলোর গুরুত্ব একটাই। লোক খোঁজার কাজটা চালিয়েছিল পুলিশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Same Plan Elsewhere",
+          "bn": "একই ফন্দি অন্য জায়গায়"
+        },
+        "p": [
+          {
+            "en": "26:36-37 is the same counsel in another surah, almost word for word, which is how a reader can tell it is being quoted rather than summarised. 10:79 shortens the whole plan into one command from Pharaoh's own mouth, bring to me every learned magician, with no assembly mentioned at all. 20:58 has Pharaoh promising to produce magic like it and asking for an appointment in a fair open place, which is where Musa's answer in 20:59 comes from.",
+            "bn": "২৬:৩৬ আয়াতে একই পরামর্শ আরেক সূরায়, প্রায় শব্দে শব্দে মিলে যায়। এতেই বোঝা যায় কথাটা উদ্ধৃত হচ্ছে, সারমর্ম করা হচ্ছে না। ১০:৭৯ পুরো পরিকল্পনাটাকে ছোট করে এনে ফিরআউনের নিজের মুখে একটি হুকুমে দাঁড় করায়, সব পারদর্শী যাদুকরকে আমার কাছে নিয়ে এসো, আর সেখানে কোনো সভার কথাই নেই। ২০:৫৮ আয়াতে ফিরআউন বলে সে অনুরূপ যাদু হাজির করবে আর মধ্যবর্তী কোনো খোলা জায়গায় সময় ঠিক করতে বলে। ২০:৫৯ আয়াতে মূসার জবাব আসে ঠিক সেই প্রস্তাবের উত্তরে।"
+          },
+          {
+            "en": "Two more show the pattern rather than the event. 43:54 says of Pharaoh that he bluffed his people and they obeyed him, which is the mechanism this counsel is built to operate. And 7:127 brings the same chiefs back at the end of the episode with the same technique, asking Pharaoh whether he will leave Musa and his people to spread corruption in the land, which is the accusation of 7:110 recycled after it has already failed once.",
+            "bn": "আরও দুটি আয়াত ঘটনা নয়, ছাঁদটা দেখায়। ৪৩:৫৪ আয়াত ফিরআউন সম্পর্কে বলে, সে তার জাতির লোকদের বোকা বানিয়ে দিল আর তারা তার কথা মেনে নিল। এই পরামর্শ চালু হওয়ার কলকাঠিটা এটাই। আর ৭:১২৭ আয়াতে ঘটনার শেষে সেই একই প্রধানরা একই কৌশল নিয়ে ফিরে আসে। তারা ফিরআউনকে জিজ্ঞেস করে, আপনি কি মূসা আর তার জাতিকে যমীনে বিপর্যয় ছড়াতে ছেড়ে দেবেন? এ তো ৭:১১০ আয়াতের অভিযোগটাই, একবার ব্যর্থ হওয়ার পরেও আবার চালানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Refusal Actually Works",
+          "bn": "অস্বীকার আসলে যেভাবে চলে"
+        },
+        "p": [
+          {
+            "en": "Almost nobody refuses a truth by saying no to it. The chiefs did not argue that the staff had not changed, and they did not say Musa was lying about his sender. They asked for time and for numbers. Delay is the most respectable form of refusal available, because it never has to state a position, and it can be renewed indefinitely without anyone having to admit that a decision was taken. The decision was taken in this verse. It simply was not announced.",
+            "bn": "সত্যকে না বলে খুব কম লোকই অস্বীকার করে। প্রধানরা এ কথা বলেনি যে লাঠি বদলায়নি, আর এ কথাও বলেনি যে মূসা তাঁর প্রেরকের ব্যাপারে মিথ্যা বলছেন। তারা চেয়েছিল সময় আর সংখ্যা। পিছিয়ে দেওয়াই অস্বীকারের সবচেয়ে ভদ্র চেহারা, কারণ এতে কখনো নিজের অবস্থান বলতে হয় না, আর কাউকে স্বীকার করতে না হয়েই এটা বারবার নবায়ন করা যায় যে সিদ্ধান্ত একটা নেওয়া হয়ে গেছে। সিদ্ধান্তটা এই আয়াতেই নেওয়া হয়েছিল। শুধু ঘোষণা করা হয়নি।"
+          },
+          {
+            "en": "The second move is the crowd. Send through the cities and bring every learned magician means, in practice, surround the claim with enough expert opposition that it looks settled. It is the oldest substitute for an argument there is, and it works on everyone in the square except the experts themselves, who can tell the difference between their craft and something else. That is why the men gathered to bury this were the first to prostrate when 7:120 arrives.",
+            "bn": "দ্বিতীয় চালটা ভিড়। নগরে নগরে পাঠাও আর প্রত্যেক বিজ্ঞ যাদুকরকে নিয়ে এসো, এর কাজের অর্থ হলো দাবিটার চারপাশে এত বিশেষজ্ঞ বিরোধিতা জমিয়ে দাও যেন বিষয়টা মিটে গেছে বলে মনে হয়। যুক্তির বদলি হিসেবে এটাই সবচেয়ে পুরনো জিনিস, আর ময়দানের সবার উপর এটা কাজ করে, কেবল বিশেষজ্ঞদের ছাড়া। তাঁরা নিজেদের কারিগরি আর অন্য কিছুর ভেতরের তফাত ধরতে পারেন। এ কারণেই যাঁদের জড়ো করা হয়েছিল বিষয়টা চাপা দিতে, ৭:১২০ আয়াতে তাঁরাই সবার আগে সাজদায় পড়ে গেলেন।"
+          },
+          {
+            "en": "For a reader the application is narrow and uncomfortable. Find the thing you have neither denied nor obeyed, and notice how long the postponement has been running. Notice too whom you consult about it, because a court that already knows the answer it wants asks its advisers a different question from a man who wants the truth. What do you instruct is a real question in some mouths and a request for cover in others.",
+            "bn": "পাঠকের জন্য প্রয়োগটা সংকীর্ণ আর অস্বস্তিকর। খুঁজে বের করুন সেই জিনিসটা, যা আপনি অস্বীকারও করেননি, মানেনওনি। তারপর খেয়াল করুন পেছিয়ে দেওয়াটা কত দিন ধরে চলছে। আরও খেয়াল করুন এ নিয়ে আপনি কার কাছে পরামর্শ চান। যে দরবার আগেই জানে সে কোন জবাবটা চায়, সে তার উপদেষ্টাদের যা জিজ্ঞেস করে, সত্য জানতে চাওয়া লোকের প্রশ্ন তার থেকে আলাদা। তোমাদের পরামর্শ কী, এই কথাটা কারও মুখে সত্যিকারের প্রশ্ন, আর কারও মুখে আড়াল চাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Du'a Against Delay",
+          "bn": "দেরি করার বিরুদ্ধে দোয়া"
+        },
+        "p": [
+          {
+            "en": "This verse is the speech of men opposing a prophet, so there is nothing in it to pray and no transmitted du'a is tied to it. What the passage supplies a few verses later is the instruction Musa gave his own people when the same court turned violent: seek help through Allah and be patient, for the earth belongs to Allah and the best outcome is for the righteous (7:128). That is the answer to a delay you cannot shorten.",
+            "bn": "এই আয়াত এক নবীর বিরোধিতা করা লোকদের কথা। তাই এর ভেতরে চাওয়ার কিছু নেই, আর এর সঙ্গে জোড়া কোনো বর্ণিত দোয়াও নেই। এই অংশ কয়েক আয়াত পরে যা দেয়, তা হলো একই দরবার যখন সহিংস হয়ে উঠল তখন মূসা নিজের জাতিকে যে নির্দেশ দিয়েছিলেন: আল্লাহর সাহায্য চাও আর ধৈর্য ধরো, যমীনের মালিক আল্লাহ, আর শেষ ভালোটা মুত্তাকীদের জন্য (৭:১২৮)। যে দেরি আপনি কমাতে পারেন না, তার জবাব এটাই।"
+          },
+          {
+            "en": "A short supplication in the vocabulary of the scene may be offered as exactly that, a composition and not a transmitted wording. O Allah, do not let me be one who postpones what he already knows. Do not let my advisers be chosen for their agreement. If a matter of mine is being delayed by people, hold me steady until You open it, and if I am the one delaying, take the excuse out of my hands before the habit hardens.",
+            "bn": "এই দৃশ্যের শব্দ দিয়ে ছোট একটি মুনাজাত এখানে দেওয়া যায়, তবে স্পষ্ট করেই বলা দরকার যে এটি রচনা, বর্ণিত কোনো দোয়া নয়। হে আল্লাহ, যা জেনে ফেলেছি তা পিছিয়ে দেওয়া লোকদের ভেতর আমাকে রাখবেন না। আমার পরামর্শদাতারা যেন সায় দেওয়ার যোগ্যতায় বেছে নেওয়া না হয়। মানুষ যদি আমার কোনো কাজ আটকে রাখে, আপনি খুলে দেওয়া পর্যন্ত আমাকে দাঁড়িয়ে থাকার শক্তি দিন। আর আমি নিজেই যদি আটকে রাখি, অভ্যাস শক্ত হওয়ার আগেই অজুহাতটা আমার হাত থেকে কেড়ে নিন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Own Delays",
+          "bn": "নিজের দেরি নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "What have I been postponing for so long that the postponement now feels like a decision I never made? When I ask for advice, am I trying to find out what is right, or to hear my own preference in somebody else's voice? Whose numbers do I gather around a choice so that it stops feeling like mine?",
+            "bn": "কোন কাজটা আমি এত দিন ধরে পিছিয়ে দিয়ে আসছি যে এখন সেই পিছিয়ে দেওয়াটাকেই আমার না-নেওয়া কোনো সিদ্ধান্ত বলে মনে হয়? পরামর্শ চাওয়ার সময় আমি কি সত্যিই জানতে চাই কোনটা ঠিক, নাকি নিজের পছন্দটাই অন্যের মুখে শুনতে চাই? কোন সিদ্ধান্তের চারপাশে আমি লোকবল জোগাড় করি, যাতে সেটাকে আর নিজের সিদ্ধান্ত মনে না হয়?"
+          },
+          {
+            "en": "The chiefs answered a sign with logistics, and logistics are easy to mistake for seriousness. Which of the questions actually put to me am I answering with activity instead of an answer? Have I ever called something a matter still under consideration when I had already decided against it? And if I acted this week on the one thing I keep deferring, what exactly is the cost I have been unwilling to name out loud, even to myself?",
+            "bn": "প্রধানরা একটি নিদর্শনের জবাব দিয়েছিল আয়োজন দিয়ে, আর আয়োজনকে আন্তরিকতা ভেবে ফেলা খুব সহজ। আমার কাছে সত্যিই যে প্রশ্নগুলো রাখা হয়েছে, তার কোনগুলোর জবাব আমি জবাব দিয়ে নয়, দৌড়াদৌড়ি দিয়ে দিচ্ছি? এমন কি হয়েছে যে ভেতরে ভেতরে না করে দিয়েছি, অথচ মুখে বলেছি বিষয়টা এখনো বিবেচনাধীন? আর যে একটা কাজ আমি বারবার পিছিয়ে দিচ্ছি, সেটা যদি এই সপ্তাহেই করে ফেলি, তাহলে ঠিক কোন মূল্যটা দিতে হবে, যার নাম আমি নিজের কাছেও মুখে আনতে চাইনি?"
+          }
+        ]
+      }
+    ]
+  },
+  "7:116": {
+    "sections": [
+      {
+        "h": {
+          "en": "Who Threw First",
+          "bn": "কে আগে ছুঁড়ল"
+        },
+        "p": [
+          {
+            "en": "The magicians have arrived, settled their fee with Pharaoh (7:113-114) and then turned to Musa with a choice: either you throw, or we will be the ones to throw (7:115). 7:116 is his one-word answer and its consequence. The next verse is the revelation that answers them, throw your staff, and at once it devoured what they were falsifying (7:117), and 7:118 states the verdict, the truth was established and what they were doing was abolished.",
+            "bn": "যাদুকররা এসে গেছে, ফিরআউনের সঙ্গে পুরস্কারের হিসাব মিটিয়ে নিয়েছে (৭:১১৩), আর তাদের নৈকট্যের প্রতিশ্রুতিও পেয়েছে (৭:১১৪)। এরপর তারা মূসার দিকে ফিরে একটি বাছাই দেয়: তুমি ছুঁড়বে, না আমরা ছুঁড়ব (৭:১১৫)? ৭:১১৬ তাঁর এক শব্দের জবাব আর তার পরিণাম। পরের আয়াতে আসে সেই ওহী যা তাদের জবাব দেয়, তোমার লাঠি ছুঁড়ে দাও, আর তা তাদের সাজানো জিনিসগুলো গ্রাস করতে শুরু করল (৭:১১৭)। ৭:১১৮ রায় ঘোষণা করে, সত্য প্রকাশ হয়ে গেল আর তারা যা করছিল তা নিষ্ফল হয়ে গেল।"
+          },
+          {
+            "en": "Two signs had already been given privately to the court, the staff that became a serpent in the open and the hand drawn out white for the onlookers (7:107-108). This is different. This is a public contest on an announced day, and 20:59 records how the day was chosen: Musa named the day of the festival, when the people are gathered at mid-morning. The chiefs had asked for gatherers to be sent through the cities (7:111). The crowd they wanted is the crowd that watched this.",
+            "bn": "দরবারের সামনে দুটি নিদর্শন আগেই দেখানো হয়েছে, সবার সামনে লাঠি অজগর হয়ে যাওয়া আর হাত বের করা যা দর্শকদের চোখে সাদা উজ্জ্বল (৭:১০৭ ও ৭:১০৮)। এবারের ব্যাপারটা আলাদা। এবার ঘোষিত দিনে প্রকাশ্য প্রতিযোগিতা, আর ২০:৫৯ আয়াতে আছে দিনটা কীভাবে বাছা হয়েছিল। মূসা নাম নিয়েছিলেন উৎসবের দিনের, যেদিন দিনের প্রথম প্রহরে লোকজন একত্র হয়। প্রধানরা চেয়েছিল নগরে নগরে সংগ্রাহক পাঠানো হোক (৭:১১১)। তারা যে ভিড় চেয়েছিল, সেই ভিড়টাই এই দৃশ্য দেখল।"
+          },
+          {
+            "en": "No sound report fixes an occasion of revelation for this verse. It sits inside the longest sustained narrative in a Makkan surah whose subject is what happens to people who are shown proof and refuse it, and its particular job in that narrative is to let the opposition have its best moment. The surah does not hurry past the magicians' success. It reports it, describes what it reached, and only then answers it.",
+            "bn": "এই আয়াতের জন্য কোনো নির্ভরযোগ্য শানে নুযূল নেই। এটি বসে আছে একটি মাক্কী সূরার দীর্ঘতম টানা কাহিনির ভেতরে, যে সূরার বিষয় হলো প্রমাণ দেখিয়ে দেওয়ার পরেও যারা অস্বীকার করে তাদের পরিণাম কী। সেই কাহিনিতে এই আয়াতের নির্দিষ্ট কাজ হলো বিরোধী পক্ষকে তার সেরা মুহূর্তটা দিয়ে দেওয়া। সূরা যাদুকরদের সাফল্যের পাশ দিয়ে দৌড়ে চলে যায় না। সেটা জানায়, কতদূর পৌঁছেছিল তা বর্ণনা করে, আর তারপরই জবাব দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Eyes, Not the Thing",
+          "bn": "চোখ, জিনিসটা নয়"
+        },
+        "p": [
+          {
+            "en": "The precision of the Arabic is the whole point of the verse. Saharu ayuna an-nas: the direct object of the verb is ayun, the plural of ayn, eyes. The magic is not reported as reaching the ropes, or the ground, or anything that was actually lying there. Its object is the seeing. The parallel account keeps the same limit and states it even more plainly: in 20:66 their ropes and staffs only seemed to him, from their magic, to be moving.",
+            "bn": "আরবির নিখুঁত শব্দচয়নই এই আয়াতের গোটা বক্তব্য। সাহারূ আ'য়ুনান নাস, এখানে ক্রিয়ার কর্ম হলো আ'য়ুন, অর্থাৎ আইন শব্দের বহুবচন, চোখ। যাদু রশি পর্যন্ত পৌঁছেছে বলা হয়নি, মাটি পর্যন্তও নয়, সেখানে সত্যিই যা পড়ে ছিল তার কিছু পর্যন্তও নয়। যাদুর কর্ম হলো দেখা। সমান্তরাল বর্ণনাও সেই সীমাটাই ধরে রাখে, বরং আরও খোলাখুলি বলে দেয়। ২০:৬৬ আয়াতে তাদের যাদুর কারণে মূসার কেবল মনে হয়েছিল যে রশি আর লাঠিগুলো ছুটোছুটি করছে।"
+          },
+          {
+            "en": "The second verb is built for the effect rather than the cause. Istarhabuhum is form ten from the root r-h-b, a root of dread, and at-Tabari explains the clause as a consequence of the first one: they made the people afraid by what they had bewitched in their eyes, until they feared the staffs and the ropes, thinking them to be snakes. The fear was real and the snakes were not. That gap is where this whole episode lives.",
+            "bn": "দ্বিতীয় ক্রিয়াটি গড়া হয়েছে ফলাফলের জন্য, কারণের জন্য নয়। ইসতারহাবূহুম হলো র-হ-ব ধাতুর দশম বাবের রূপ, আর এই ধাতু ভয়ের। ইমাম তাবারী এই অংশটিকে আগের অংশের ফল হিসেবেই ব্যাখ্যা করেন: তারা মানুষের চোখে যা যাদু করেছিল তার দ্বারাই মানুষকে ভয় পাওয়াল, এমনকি লোকজন লাঠি আর রশিগুলোকেই ভয় পেতে লাগল, ওগুলোকে সাপ মনে করে। ভয়টা সত্যি ছিল, সাপগুলো ছিল না। এই ফাঁকটাতেই গোটা ঘটনা বাস করে।"
+          },
+          {
+            "en": "The last two words are as honest as the first two are exact. Bi-sihrin azim, with a great magic, and the noun stands indefinite, with no comparison and no qualification attached to it anywhere in the verse. The Quran does not belittle what they achieved in order to defeat it. It lets the skill stand, records that the crowd was overwhelmed, and puts its answer in the next verse instead of in this one.",
+            "bn": "শেষ দুটি শব্দ যতটা সৎ, প্রথম দুটি ততটাই নিখুঁত। বি-সিহরিন আজীম, অর্থাৎ বড় এক যাদু নিয়ে, আর বিশেষ্যটি অনির্দিষ্ট অবস্থায় দাঁড়িয়ে আছে। আয়াতের কোথাও এর সঙ্গে কোনো তুলনা জোড়া হয়নি, কোনো শর্তও বসানো হয়নি। কুরআন তাদের অর্জনকে ছোট করে দেখিয়ে হারায় না। দক্ষতাটাকে সে দাঁড়াতে দেয়, ভিড়ের হতভম্ব হওয়ার কথা লিখে রাখে, আর নিজের জবাবটা রাখে এই আয়াতে নয়, পরের আয়াতে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Illusion, and How Great",
+          "bn": "ধোঁকা, আর কতটা বড়"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir asks why Musa let them throw first, and answers with a hedge that is worth keeping: Allah knows best, but it was so that the people would witness the magicians' sorcery first. When the magicians had cast their spell and captured the eyes, the clear and unequivocal truth came at the very moment everyone was waiting for it, and that made the truth more impressive to their hearts. On the same verse he records from Ibn Abbas (RA) what was thrown: thick ropes and long sticks, which appeared to be crawling.",
+            "bn": "ইবনু কাসীর প্রশ্ন তোলেন, মূসা কেন তাদেরই আগে ছুঁড়তে দিলেন, আর জবাব দেন এমন এক সতর্কতা দিয়ে যা ধরে রাখার মতো: আল্লাহই ভালো জানেন, তবে এর কারণ ছিল যেন মানুষ আগে যাদুকরদের যাদুটা দেখে নেয়। যাদুকররা যখন যাদু ছুঁড়ে চোখগুলো দখল করে নিয়েছে, ঠিক সেই মুহূর্তে এল স্পষ্ট ও নিঃসন্দেহ সত্য, যখন সবাই তার জন্য অপেক্ষা করছিল। এতে সত্যটা তাদের অন্তরে আরও গভীরভাবে বসল। একই আয়াতে তিনি ইবনু আব্বাস (রাঃ) থেকে বর্ণনা করেন কী ছোঁড়া হয়েছিল: মোটা রশি আর লম্বা কাঠ, যেগুলো দেখে মনে হচ্ছিল বুকে হেঁটে চলছে।"
+          },
+          {
+            "en": "at-Tabari glosses each clause in the same direction. On the first he says that they made it appear to the eyes of the people, by the illusion and the trickery they produced, that these things were running. On the second, that they made the people dread what had been bewitched in their eyes until they were afraid of the staffs and the ropes, taking them for snakes. And on the last, that the great magic was a great and large piece of illusion and deception. In the first and the last the word he reaches for is takhyil, illusion.",
+            "bn": "ইমাম তাবারী প্রতিটি বাক্যাংশের অর্থ একই দিকে খোলেন। প্রথমটি নিয়ে তিনি বলেন, তারা যে ভ্রম আর ছলনা তৈরি করেছিল তার দ্বারা মানুষের চোখে এমন দেখাল যেন ওগুলো ছুটছে। দ্বিতীয়টি নিয়ে বলেন, চোখে যা যাদু করা হয়েছিল তার দ্বারাই মানুষকে ভয়ে ফেলল, এমনকি তারা লাঠি আর রশিগুলোকেই ভয় পেতে লাগল, সাপ মনে করে। আর শেষটি নিয়ে বলেন, সেই বড় যাদু ছিল ভ্রম আর ছলনার এক বড় ও বিশাল কারিগরি। প্রথম আর শেষ বাক্যাংশে তিনি যে শব্দটি হাতে তুলে নেন সেটি তাখয়ীল, অর্থাৎ ভ্রম।"
+          },
+          {
+            "en": "On the word azim al-Qurtubi and as-Sa'di part company, and the difference is worth stating as one. al-Qurtubi holds that it means great in their estimation, because there was a lot of it, and not great in reality. as-Sa'di reads it as a magic for which no equal was found. al-Qurtubi also collects three explanations of the command to throw. Al-Farra saw an ellipsis, Musa's full meaning being that they would not overcome their Lord nor nullify His signs. Others read it as a threat, or as a deliberate exposure of their fraud, since it is not permissible for a prophet to command magic.",
+            "bn": "আজীম শব্দটি নিয়ে কুরতুবী আর সাদীর পথ আলাদা হয়ে যায়, আর এই পার্থক্যটা পার্থক্য হিসেবেই বলা দরকার। কুরতুবীর মত, অর্থ হলো তাদের বিচারে বড়, কারণ পরিমাণে অনেক ছিল, বাস্তবে বড় নয়। সাদী পড়েন, এমন যাদু যার সমান কিছু পাওয়া যায়নি। কুরতুবী ছুঁড়তে বলার হুকুমটির তিনটি ব্যাখ্যাও জমা করেন। ফাররা এখানে একটি উহ্য অংশ দেখেছেন, মূসার পূর্ণ বক্তব্য ছিল যে তোমরা তোমাদের প্রতিপালককে হারাতে পারবে না আর তাঁর নিদর্শনও বাতিল করতে পারবে না। অন্যরা এটাকে পড়েছেন হুমকি হিসেবে, কিংবা তাদের ধোঁকা ফাঁস করে দেওয়ার জন্য দেওয়া হুকুম হিসেবে, কারণ কোনো নবীর পক্ষে যাদুর হুকুম দেওয়া জায়েজ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Sunnah Places This Craft",
+          "bn": "সুন্নাহ এই কারিগরিকে কোথায় রাখে"
+        },
+        "p": [
+          {
+            "en": "The commentators on this verse do not attach a narration from the Prophet Muhammad ﷺ to it, and the honest thing is to say so before quoting anything. What the Sunnah supplies is not a comment on the scene but a ruling on the craft, and the ruling is severe. Sahih al-Bukhari 2766 has it from Abu Hurayrah (RA), in a short exchange in which the Companions asked the Prophet ﷺ to name what he had warned them against.",
+            "bn": "এই আয়াতের মুফাসসিরগণ এর সঙ্গে নবী ﷺ থেকে বর্ণিত কোনো হাদীস জোড়েননি, আর কিছু উদ্ধৃত করার আগে সৎ কাজটা হলো সেটা বলে দেওয়া। সুন্নাহ যা দেয় তা এই দৃশ্যের ব্যাখ্যা নয়, বরং এই কারিগরির হুকুম, আর হুকুমটা কঠোর। সহীহ বুখারীর ২৭৬৬ নম্বর হাদীসে আবূ হুরায়রা (রাঃ) থেকে এটি এসেছে, একটি ছোট কথোপকথনের ভেতরে, যেখানে সাহাবীগণ নবী ﷺ কে জিজ্ঞেস করেছিলেন তিনি কোন জিনিসগুলো থেকে সতর্ক করছেন।"
+          },
+          {
+            "en": "The Prophet ﷺ said: avoid the seven great destructive sins. They asked, O Messenger of Allah, what are they? He said: to join others in worship along with Allah, to practise sorcery, to kill the life which Allah has forbidden except for a just cause, to eat up riba, to eat up an orphan's wealth, to turn away and flee from the battlefield at the time of fighting, and to accuse chaste believing women. Sorcery is second on that list, directly after associating partners with Allah, and it is second in this verse too in the sense that it is what the opposition had instead of a god.",
+            "bn": "নবী ﷺ বলেছেন, সাতটি ধ্বংসকারী কবীরা গুনাহ থেকে বেঁচে থাকো। সাহাবীগণ জিজ্ঞেস করলেন, হে আল্লাহর রাসূল, সেগুলো কী? তিনি বললেন, আল্লাহর সঙ্গে শরীক করা, যাদু করা, আল্লাহ যে প্রাণ হারাম করেছেন তা অন্যায়ভাবে হত্যা করা, সুদ খাওয়া, এতীমের সম্পদ খাওয়া, যুদ্ধের দিনে পিঠ ফিরিয়ে পালানো, আর সচ্চরিত্রা মু'মিন নারীদের প্রতি অপবাদ দেওয়া। সেই তালিকায় যাদু দ্বিতীয়, ঠিক শিরকের পরেই। আর এই আয়াতেও সেটা এক অর্থে দ্বিতীয়, কারণ বিরোধী পক্ষের হাতে ইলাহর বদলে ছিল এই জিনিসটাই।"
+          },
+          {
+            "en": "One thing should be left out on purpose. at-Tabari collects early reports on how many magicians were present and they do not agree with each other: as-Suddi gives a little over thirty thousand men, Ibn Ishaq fifteen thousand, and al-Qasim ibn Abi Bazza says Pharaoh gathered seventy thousand. When transmitted figures differ this widely the right move is to write the account without a number at all, and that is why none is given here.",
+            "bn": "একটি জিনিস ইচ্ছে করেই বাদ রাখা দরকার। ইমাম তাবারী কত যাদুকর উপস্থিত ছিল তা নিয়ে পূর্ববর্তীদের বর্ণনা জমা করেন, আর সেগুলো একটার সঙ্গে আরেকটা মেলে না। সুদ্দী বলেন ত্রিশ হাজারের কিছু বেশি লোক, ইবনু ইসহাক বলেন পনেরো হাজার, আর কাসিম ইবনু আবী বাযযাহ বলেন ফিরআউন সত্তর হাজার জড়ো করেছিল। বর্ণিত সংখ্যা যখন এত দূরে দূরে, তখন ঠিক কাজ হলো কোনো সংখ্যা ছাড়াই ঘটনাটা লেখা। এখানে তাই কোনো সংখ্যা দেওয়া হলো না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How Magic Ends Elsewhere",
+          "bn": "যাদুর পরিণতি অন্য জায়গায়"
+        },
+        "p": [
+          {
+            "en": "20:66 is the same moment told with the limit built into the verb: their ropes and staffs seemed to him, from their magic, to be moving. 20:69 gives the assessment in Allah's own words, that what they crafted is but the trick of a magician, and that the magician will not succeed wherever he is. 10:81 puts a matching assessment into Musa's mouth on the day itself: what you have brought is magic, Allah will expose its worthlessness, and Allah does not amend the work of corrupters.",
+            "bn": "২০:৬৬ একই মুহূর্তের বর্ণনা, তবে সীমাটা ক্রিয়ার ভেতরেই গাঁথা: তাদের যাদুর কারণে মূসার মনে হল রশি আর লাঠিগুলো ছুটোছুটি করছে। ২০:৬৯ আয়াতে আল্লাহ নিজের ভাষায় মূল্যায়ন দেন, তারা যা করেছে তা কেবল যাদুকরের কলাকৌশল, আর যাদুকর যে রূপেই আসুক সফল হবে না। ১০:৮১ আয়াতে সেই দিনেই মূসার মুখে অনুরূপ মূল্যায়ন বসানো হয়েছে: তোমরা যা এনেছ তা যাদু, আল্লাহ তা ব্যর্থ করে দেবেন, আর আল্লাহ বিশৃঙ্খলাকারীদের কাজ সংশোধন করেন না।"
+          },
+          {
+            "en": "Two more widen the frame. 2:102 is the Quran's fullest statement on sorcery, and the sentence to hold from it is that they do not harm anyone through it except by permission of Allah, which is exactly the ceiling this verse illustrates. And 21:18 gives the pattern behind 7:117 in a single image: rather, We dash the truth upon falsehood, and it destroys it, and thereupon it departs.",
+            "bn": "আরও দুটি আয়াত পরিধিটা বড় করে দেয়। ২:১০২ যাদু নিয়ে কুরআনের সবচেয়ে পূর্ণ বক্তব্য, আর সেখান থেকে যে কথাটা ধরে রাখার, সেটা হলো আল্লাহর অনুমতি ছাড়া তারা এর দ্বারা কারও কোনো ক্ষতি করতে পারত না। এই আয়াতটি ঠিক সেই ছাদটাই দেখিয়ে দেয়। আর ২১:১৮ একটি ছবিতে ৭:১১৭ আয়াতের পেছনের নিয়মটা দিয়ে দেয়: বরং আমি সত্যকে মিথ্যার উপর নিক্ষেপ করি, তা মিথ্যার মাথা চূর্ণ করে দেয়, আর তৎক্ষণাৎ মিথ্যা নিশ্চিহ্ন হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living With a Second Turn",
+          "bn": "দ্বিতীয় পালার সঙ্গে বাঁচা"
+        },
+        "p": [
+          {
+            "en": "The hardest instruction in this verse is one word: throw. Musa handed the opening to the other side and then stood there while a stadium filled with fear. Most of us cannot do that. We interrupt, we pre-empt, we answer before the false thing has finished being said, because letting it finish feels like conceding. This verse is evidence that it is not. Truth that arrives second, into a crowd that has already been frightened, lands harder than truth that arrives first.",
+            "bn": "এই আয়াতের সবচেয়ে কঠিন নির্দেশটা এক শব্দের: ছুঁড়। মূসা শুরুর পালাটা অন্য পক্ষের হাতে তুলে দিলেন, তারপর দাঁড়িয়ে রইলেন যখন গোটা ময়দান ভয়ে ভরে যাচ্ছে। আমাদের অধিকাংশই এটা পারি না। আমরা কথার মাঝে ঢুকে পড়ি, আগে থেকে ঠেকিয়ে দিই, মিথ্যা কথাটা শেষ হওয়ার আগেই জবাব দিয়ে ফেলি, কারণ শেষ হতে দেওয়াটাকে হার মানা মনে হয়। এই আয়াত প্রমাণ যে তা হার নয়। ভয় পেয়ে বসে থাকা ভিড়ের ভেতরে সত্য যখন পরে এসে পৌঁছায়, সে আগে পৌঁছানো সত্যের চেয়ে জোরে লাগে।"
+          },
+          {
+            "en": "The second application is a habit of asking what a frightening thing actually has hold of. The magic here had the eyes and nothing else. A great deal of what presses on a believer works the same way: a rumour, a market panic, a threatening message, an account of the future that somebody needs you to accept. It is worth asking, in those hours, what is actually moving, and then asking who has permission to move it.",
+            "bn": "দ্বিতীয় প্রয়োগটা একটা অভ্যাস, ভয় জাগানো জিনিসটা আসলে কী দখল করে আছে সেই প্রশ্ন করার অভ্যাস। এখানে যাদুর হাতে ছিল চোখ, আর কিছুই না। একজন মু'মিনের উপর যে অনেক জিনিস চাপ দেয়, সেগুলো এভাবেই কাজ করে। একটা গুজব, বাজারের আতঙ্ক, ভয় দেখানো একটা বার্তা, ভবিষ্যৎ নিয়ে এমন এক হিসাব যেটা কেউ চায় আপনি মেনে নিন। এমন সময়ে জিজ্ঞেস করা দরকার, আসলে নড়ছে কোন জিনিসটা। তারপর জিজ্ঞেস করা দরকার, নড়ানোর অনুমতি কার হাতে আছে।"
+          },
+          {
+            "en": "There is a third thing, quieter and easy to miss. The men who threw were the men who, a few verses later, are the first to prostrate (7:120). They were the only people in the square who knew for certain that what they had done was craft, so they were the only people who knew for certain that what Musa did was not. Expertise misused is still expertise, and it can recognise the truth faster than innocence can.",
+            "bn": "তৃতীয় একটা জিনিস আছে, আরও চুপচাপ, সহজে চোখ এড়িয়ে যায়। যারা ছুঁড়েছিল, কয়েক আয়াত পরেই তারাই সবার আগে সাজদায় পড়ে যায় (৭:১২০)। ময়দানে তারাই একমাত্র লোক যারা নিশ্চিতভাবে জানত তাদের নিজেদের কাজটা কারিগরি ছাড়া কিছু নয়। তাই তারাই একমাত্র লোক যারা নিশ্চিতভাবে জানত, মূসা যা করলেন সেটা কারিগরি নয়। ভুল কাজে লাগানো দক্ষতাও দক্ষতা, আর সে সত্যকে সরলতার চেয়েও দ্রুত চিনতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Seeking Refuge From This",
+          "bn": "এ থেকে আশ্রয় চাওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse is narration, so nothing in it is transmitted as a supplication. What the Quran gives for exactly this danger is a surah: 113:1-5 is the seeking of refuge in the Lord of daybreak from the evil of what He created, from the evil of darkness when it settles, from the blowers in knots, and from the envier when he envies. The fourth of those is the craft this verse describes, and the refuge named against it is not a counter-technique but a Lord.",
+            "bn": "এই আয়াত কাহিনির বর্ণনা, তাই এর ভেতরের কিছুই দোয়া হিসেবে বর্ণিত হয়নি। ঠিক এই বিপদের জন্য কুরআন যা দেয় তা একটি গোটা সূরা। ১১৩:১ থেকে ১১৩:৫ পর্যন্ত আশ্রয় চাওয়া হয়েছে সকালবেলার প্রতিপালকের কাছে, তাঁর সৃষ্টির অনিষ্ট থেকে, অন্ধকার যখন নেমে আসে তার অনিষ্ট থেকে, গিরায় ফুৎকারকারিণীদের অনিষ্ট থেকে, আর হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে। এর চতুর্থটি এই আয়াতে বর্ণিত সেই কারিগরিই। আর তার বিরুদ্ধে যে আশ্রয়ের নাম বলা হয়েছে, সেটা পাল্টা কোনো কৌশল নয়, একজন প্রতিপালক।"
+          },
+          {
+            "en": "A short supplication in the vocabulary of the scene may be offered as a composition and nothing more. O Allah, keep my eyes from being bought by what is not there. Do not let me fear what You have not given power, and do not let me admire what You are about to abolish. When falsehood is given the first turn in front of me, hold me still until Your answer comes, and let me be among those who recognise it when it does.",
+            "bn": "এই দৃশ্যের শব্দ দিয়ে ছোট একটি মুনাজাত এখানে দেওয়া যায়, তবে সেটা রচনা, বর্ণিত দোয়া নয়। হে আল্লাহ, যা নেই তা দিয়ে আমার চোখ কিনে নেওয়া থেকে বাঁচান। আপনি যাকে ক্ষমতা দেননি তাকে ভয় পাওয়া থেকে আমাকে রক্ষা করুন, আর আপনি যা এখনই মুছে দেবেন তাতে মুগ্ধ হওয়া থেকেও। আমার সামনে মিথ্যাকে যখন প্রথম পালা দেওয়া হয়, আপনার জবাব আসা পর্যন্ত আমাকে স্থির রাখুন। আর জবাব এলে যারা তা চিনে নেয়, আমাকে তাদের ভেতরেই রাখুন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About What You Saw",
+          "bn": "আপনি যা দেখেছেন তা নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "What have I believed in the last month because of how it looked, rather than because I checked what it was? The magic in this verse reached the eyes and stopped there. Where am I currently treating an appearance as though it were the thing itself, and what would it cost me to test it? Is there something I am genuinely afraid of that has no actual permission over me?",
+            "bn": "গত এক মাসে কোন জিনিসটা আমি বিশ্বাস করেছি শুধু দেখতে কেমন লাগছিল বলে, যাচাই করে দেখেছি বলে নয়? এই আয়াতের যাদু চোখ পর্যন্ত এসে থেমে গিয়েছিল। এখন কোথায় আমি চেহারাটাকেই আসল জিনিস ধরে ব্যবস্থা নিচ্ছি, আর সেটা পরখ করে দেখতে গেলে আমার কী খরচ হবে? এমন কিছু কি আছে যাকে আমি সত্যিই ভয় পাই, অথচ আমার উপর তার কোনো অনুমতিই নেই?"
+          },
+          {
+            "en": "Falsehood was allowed to go first here and truth answered second. Can I bear that order in an argument, at work, inside my own family, or do I need to win the opening exchange? And when I am the one who knows a craft from the inside, does that knowledge make me quicker to recognise the truth, as it did for the magicians, or only better at defending my own trade?",
+            "bn": "এখানে মিথ্যাকে আগে যেতে দেওয়া হয়েছে, সত্য জবাব দিয়েছে পরে। তর্কে, কাজের জায়গায়, নিজের পরিবারের ভেতরে আমি কি এই ক্রমটা সহ্য করতে পারি, নাকি প্রথম চালেই আমার জিততে হবে? আর কোনো কাজ আমি যখন ভেতর থেকে জানি, সেই জানাটা কি যাদুকরদের মতো আমাকে সত্য চেনার ব্যাপারে দ্রুত করে তোলে, নাকি কেবল নিজের পেশাকে আড়াল করার ব্যাপারে দক্ষ করে?"
+          }
+        ]
+      }
+    ]
+  },
+  "7:126": {
+    "sections": [
+      {
+        "h": {
+          "en": "The End of Their Speech",
+          "bn": "তাদের কথার শেষ"
+        },
+        "p": [
+          {
+            "en": "The magicians have thrown, lost, and fallen in prostration (7:120), declaring faith in the Lord of the worlds, the Lord of Musa and Harun (7:121-122). Pharaoh then accuses them of a conspiracy hatched in the city and promises them mutilation on opposite sides and crucifixion (7:123-124). Their answer begins in 7:125, to our Lord we will return, and finishes here. The next verse turns to the chiefs of Pharaoh's people (7:127), so their speech ends at 7:126 and nowhere later.",
+            "bn": "যাদুকররা ছুঁড়েছে, হেরেছে, আর সাজদায় লুটিয়ে পড়েছে (৭:১২০)। তারা ঈমান এনেছে বিশ্বজগতের প্রতিপালকের প্রতি, মূসা আর হারূনের প্রতিপালকের প্রতি (৭:১২১ ও ৭:১২২)। এরপর ফিরআউন তাদের বিরুদ্ধে নগরে বসে ষড়যন্ত্র পাকানোর অভিযোগ তোলে, আর বিপরীত দিক থেকে হাত পা কেটে শূলে চড়ানোর প্রতিশ্রুতি দেয় (৭:১২৩ ও ৭:১২৪)। তাদের জবাব শুরু হয় ৭:১২৫ আয়াতে, আমরা আমাদের প্রতিপালকের দিকেই ফিরে যাব, আর শেষ হয় এখানে। এর পরের আয়াত ফিরে যায় ফিরআউনের গোষ্ঠীর প্রধানদের দিকে (৭:১২৭)। তাই তাদের কথা ৭:১২৬ আয়াতেই শেষ, এর পরে আর নয়।"
+          },
+          {
+            "en": "The same reply is preserved elsewhere with an extra line at the front. 26:50 has them saying, no harm, indeed to our Lord we will return, and 26:51 adds a hope this surah does not record: indeed we aspire that our Lord will forgive us our sins because we were the first of the believers. Read together, the two accounts give a full answer to a death sentence: it does us no harm, we are going back anyway, forgive us, hold us steady, and take us like this.",
+            "bn": "এই একই জবাব আরেক জায়গায় রাখা হয়েছে, সামনে একটি বাড়তি কথা নিয়ে। ২৬:৫০ আয়াতে তারা বলে, কোনো ক্ষতি নেই, আমরা আমাদের প্রতিপালকের দিকেই ফিরে যাব। আর ২৬:৫১ আয়াতে যোগ হয় এমন একটি আশা, যা এই সূরায় নেই: আমাদের আশা এই যে আমাদের প্রতিপালক আমাদের ত্রুটি ক্ষমা করবেন, কারণ আমরাই প্রথম ঈমান আনলাম। দুটি বর্ণনা একসঙ্গে পড়লে মৃত্যুদণ্ডের একটি পূর্ণ জবাব দাঁড়িয়ে যায়: এতে আমাদের ক্ষতি নেই, আমরা তো ফিরেই যাচ্ছি, আমাদের মাফ করুন, আমাদের দাঁড়িয়ে রাখুন, আর এই অবস্থাতেই নিয়ে নিন।"
+          },
+          {
+            "en": "There is no established occasion of revelation for the verse; it is narrative inside a Makkan surah. What can be said about its place is that the whole story turns here. Everything before this point is a contest between a prophet and a court. From here on, the ones who have to be dealt with are ordinary people who believed, and the rest of the surah follows what Pharaoh does to a population rather than to a messenger.",
+            "bn": "এই আয়াতের কোনো প্রতিষ্ঠিত শানে নুযূল নেই। এটি একটি মাক্কী সূরার ভেতরে কাহিনির বর্ণনা। এর জায়গা নিয়ে যা বলা যায়, তা হলো গোটা কাহিনি এখানেই মোড় নেয়। এই জায়গার আগে যা আছে সবটাই একজন নবী আর একটি দরবারের মধ্যে লড়াই। এখান থেকে যাদের সঙ্গে বোঝাপড়া করতে হবে তারা সাধারণ মানুষ, যারা ঈমান এনেছে। সূরার বাকি অংশ দেখায় ফিরআউন একজন রাসূলের সঙ্গে নয়, একটি জনগোষ্ঠীর সঙ্গে কী করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Address, Then Another",
+          "bn": "একজনকে, তারপর আরেকজনকে"
+        },
+        "p": [
+          {
+            "en": "The verse is in two halves and the halves are spoken to two different listeners. Tanqimu is addressed to one person, and that person is Pharaoh: you find nothing in us to punish except our faith. Then afrigh and tawaffana address one person too, and that person is Allah. The verbs keep the same shape across the verse and turn to the imperative in the second half, while the listener changes completely, with nothing marking the turn but the word Rabbana. A man was being answered; now he is not addressed at all.",
+            "bn": "আয়াতটি দুই ভাগে, আর দুই ভাগ দুই শ্রোতাকে বলা। তানকিমু ক্রিয়াটি একজনকে সম্বোধন করে, আর সেই একজন ফিরআউন: আমাদের ভেতর শাস্তি দেওয়ার মতো কিছুই তুমি পাচ্ছ না, কেবল আমাদের ঈমান ছাড়া। এরপর আফরিগ আর তাওয়াফফানাও একজনকেই সম্বোধন করে, আর সেই সম্বোধন এখন আল্লাহর উদ্দেশে। আয়াতের দুই পাশে ক্রিয়ার রূপ একই থাকে, দ্বিতীয় ভাগে সেটা আদেশের ভঙ্গি নেয়, অথচ শ্রোতা পুরো বদলে যায়। মোড় ঘোরার চিহ্ন একটিই, রাব্বানা শব্দটি। একজনকে জবাব দেওয়া হচ্ছিল, এখন তাকে আর সম্বোধনই করা হচ্ছে না।"
+          },
+          {
+            "en": "Tanqimu is from n-q-m, and the first half is again built as a negation with one exception: nothing except that we believed. al-Qurtubi records that al-Hasan read the verb with a different vowel on the qaf, and cites al-Akhfash that both forms are used and both mean disapproval, so the sense is that Pharaoh dislikes nothing in them but their faith in Allah. The same construction with the same root closes the account of another persecution in 85:8, where the tormentors resented the believers for nothing but their belief.",
+            "bn": "তানকিমু শব্দের ধাতু ন-ক-ম, আর প্রথম ভাগটিও গড়া হয়েছে একটিমাত্র ব্যতিক্রমসহ নাকারাত্মক বাক্য হিসেবে: আমরা ঈমান এনেছি, এ ছাড়া আর কিছুই নয়। কুরতুবী লিখে রাখেন, হাসান ক্রিয়াটির কাফ বর্ণে ভিন্ন স্বর দিয়ে পড়েছেন। তিনি আখফাশের কথা তুলে বলেন, দুই রূপই চলে আর দুটোরই অর্থ অপছন্দ করা। অর্থাৎ ফিরআউন তাদের ভেতর কিছুই অপছন্দ করছে না, কেবল আল্লাহর প্রতি তাদের ঈমান ছাড়া। ৮৫:৮ আয়াতে আরেক নির্যাতনের বর্ণনা একই ধাতু আর একই গড়নে শেষ হয়, যেখানে নির্যাতনকারীরা মু'মিনদের উপর চটেছিল কেবল তাদের ঈমানের কারণেই।"
+          },
+          {
+            "en": "Afrigh is form four from f-r-gh, and al-Qurtubi gives its sense in one word, as-sabb, pouring, adding that they wanted it poured on them at the moment of the cutting and the crucifixion. Sabran is indefinite, and as-Sa'di reads the indefiniteness as size: a great patience, because this is a great trial that ends in the loss of life and therefore needs a great deal. Tawaffana asks for the taking of a soul, and muslimin is the state they want to be in when it happens.",
+            "bn": "আফরিগ হলো ফ-র-গ ধাতুর চতুর্থ বাবের আদেশ, আর কুরতুবী এর অর্থ দেন এক শব্দে, আস-সাব্ব, অর্থাৎ ঢালা। তিনি যোগ করেন, তারা চেয়েছিল হাত পা কাটা আর শূলে চড়ানোর ঠিক সেই মুহূর্তে এটা তাদের উপর ঢেলে দেওয়া হোক। সাবরান শব্দটি অনির্দিষ্ট, আর শাইখ সাদী এই অনির্দিষ্টতাকে পড়েন পরিমাণ হিসেবে: বিরাট এক ধৈর্য, কারণ এ এমন এক বিরাট পরীক্ষা যার শেষ প্রাণ যাওয়ায়, তাই এতে অনেকটা ধৈর্য লাগে। তাওয়াফফানা মানে জান নিয়ে নেওয়ার আবেদন, আর মুসলিমীন সেই অবস্থা যেটাতে থাকতে চায় তারা সেই মুহূর্তে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Restraint or an Outpouring",
+          "bn": "বাঁধ, নাকি বর্ষণ"
+        },
+        "p": [
+          {
+            "en": "at-Tabari paraphrases the first half in Pharaoh's hearing: what do you find blameworthy in us, and what do you hold against us, except that we affirmed the signs of our Lord, proofs the like of which nobody besides Allah can produce. Then, he says, they fled to Allah, asking Him for patience under Pharaoh's torture and for their souls to be taken in Islam. His gloss on tawaffana is specific: take us to You upon Islam, the religion of Your khalil Ibrahim, not upon associating anything with You.",
+            "bn": "ইমাম তাবারী প্রথম ভাগটিকে ফিরআউনের উদ্দেশেই এভাবে খোলেন: আমাদের ভেতর তুমি দোষের কী পাচ্ছ, আমাদের বিরুদ্ধে তোমার কী আছে, কেবল এটা ছাড়া যে আমরা আমাদের প্রতিপালকের নিদর্শনগুলোকে সত্য বলে মেনেছি? এমন প্রমাণ, যার মতো কিছু আনার সাধ্য তোমার নেই, আল্লাহ ছাড়া আর কারও নেই। তারপর তিনি বলেন, তারা আল্লাহর দিকে ছুটে গেল, ফিরআউনের নির্যাতনের উপর ধৈর্য চাইল আর চাইল ইসলামের উপরই তাদের জান নেওয়া হোক। তাওয়াফফানার ব্যাখ্যায় তিনি নির্দিষ্ট: আমাদের ইসলামের উপরই তুলে নাও, তোমার খলীল ইবরাহীমের দ্বীনের উপর, তোমার সঙ্গে শরীক করা অবস্থায় নয়।"
+          },
+          {
+            "en": "On the word for patience at-Tabari does something the others do not. He explains afrigh alayna sabran as a request that Allah send down upon them a habs, a holding that would keep them from disbelieving in Him while Pharaoh tortured them. On that reading patience is a restraint, something that stops a man from moving in the wrong direction. al-Qurtubi and as-Sa'di read it the other way, as a supply poured in, and as-Sa'di uses the verb afid, pour out abundantly. Both are in the verse, and the difference is worth keeping.",
+            "bn": "ধৈর্য শব্দটি নিয়ে তাবারী এমন কিছু করেন যা অন্যরা করেন না। আফরিগ আলাইনা সাবরান তিনি ব্যাখ্যা করেন এভাবে, আল্লাহ যেন তাদের উপর এমন একটি হাবস অর্থাৎ বাঁধ নামিয়ে দেন, যা ফিরআউনের নির্যাতনের সময় তাদেরকে তাঁর সঙ্গে কুফরি করা থেকে আটকে রাখে। এই পড়ায় ধৈর্য হলো একটি বাঁধ, যা মানুষকে ভুল দিকে যেতে দেয় না। কুরতুবী আর সাদী পড়েন উল্টো দিক থেকে, ঢেলে দেওয়া একটি জোগান হিসেবে, আর সাদী ব্যবহার করেন আফিদ ক্রিয়াটি, অর্থাৎ প্রচুর করে ঢেলে দাও। দুটোই আয়াতের ভেতরে আছে, আর পার্থক্যটা ধরে রাখার মতো।"
+          },
+          {
+            "en": "Ibn Kathir reconstructs the reasoning behind the request. They had become sure they were going back to Allah, and that His punishment is more severe than Pharaoh's, so they would be patient under his punishment that day to be saved from Allah's. He reads the patience as patience with Allah's religion and firmness in it, and the dying as Muslims as dying followers of His Prophet Musa (AS). as-Sa'di closes with a judgement, not a report: apparently Pharaoh did what he had threatened, and Allah made them firm upon faith.",
+            "bn": "ইবনু কাসীর এই চাওয়ার পেছনের হিসাবটা সাজিয়ে দেন। তারা নিশ্চিত হয়ে গিয়েছিল যে তারা আল্লাহর কাছেই ফিরে যাচ্ছে, আর আল্লাহর শাস্তি ফিরআউনের শাস্তির চেয়ে অনেক কঠিন। তাই আল্লাহর শাস্তি থেকে বাঁচার জন্য সেদিন তারা ফিরআউনের শাস্তির উপর ধৈর্য ধরবে। ধৈর্যটাকে তিনি পড়েন আল্লাহর দ্বীনের উপর ধৈর্য আর তাতে অবিচল থাকা হিসেবে, আর মুসলমান হয়ে মরাটাকে পড়েন তাঁর নবী মূসা (আঃ) এর অনুসারী হয়ে মরা হিসেবে। সাদী শেষ করেন বর্ণনা দিয়ে নয়, একটি রায় দিয়ে: বাহ্যত ফিরআউন যা ভয় দেখিয়েছিল তা করেই ছিল, আর আল্লাহ তাদের ঈমানের উপর অবিচল রেখেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Given to Those Who Asked",
+          "bn": "যারা চেয়েছিল তাদের যা দেওয়া হলো"
+        },
+        "p": [
+          {
+            "en": "The commentators on this verse do not attach a narration from the Prophet Muhammad ﷺ to it. What the Sunnah supplies is the promise that answers the request. Sahih al-Bukhari 1469 records from Abu Sa'id al-Khudri (RA) that some men of the Ansar asked the Messenger of Allah ﷺ for something and he gave them, and they asked again and he gave again, until everything he had was gone.",
+            "bn": "এই আয়াতের মুফাসসিরগণ এর সঙ্গে নবী ﷺ থেকে কোনো হাদীস জোড়েননি। সুন্নাহ যা দেয় তা হলো এই চাওয়ার জবাবে দেওয়া প্রতিশ্রুতিটি। সহীহ বুখারীর ১৪৬৯ নম্বর হাদীসে আবূ সাঈদ খুদরী (রাঃ) থেকে এসেছে, আনসারদের কিছু লোক রাসূলুল্লাহ ﷺ এর কাছে কিছু চাইলেন আর তিনি দিলেন। তাঁরা আবার চাইলেন, তিনি আবার দিলেন। এভাবে তাঁর কাছে যা ছিল সবই শেষ হয়ে গেল।"
+          },
+          {
+            "en": "Then he said: whatever good I have I will not withhold from you, and whoever abstains from asking others, Allah will make him contented, and whoever tries to make himself self-sufficient, Allah will make him self-sufficient, and whoever remains patient, Allah will make him patient. Nobody can be given a blessing better and greater than patience. The magicians asked for exactly the thing this narration names as the best gift, and they asked for it in the hour when there was nothing else left to ask for.",
+            "bn": "তারপর তিনি বললেন, আমার কাছে যে ভালো জিনিস থাকে তা আমি তোমাদের থেকে আটকে রাখি না। আর যে মানুষের কাছে চাওয়া থেকে বিরত থাকে, আল্লাহ তাকে অভাবমুক্ত করেন। যে নিজেকে স্বনির্ভর রাখতে চায়, আল্লাহ তাকে স্বনির্ভর করেন। আর যে ধৈর্য ধরার চেষ্টা করে, আল্লাহ তাকে ধৈর্য দেন। ধৈর্যের চেয়ে উত্তম আর প্রশস্ত কোনো দান কাউকে দেওয়া হয়নি। যাদুকররা ঠিক সেই জিনিসটাই চেয়েছিল, যেটাকে এই হাদীস সবচেয়ে বড় দান বলছে। আর চেয়েছিল সেই মুহূর্তে, যখন চাওয়ার মতো আর কিছুই বাকি ছিল না।"
+          },
+          {
+            "en": "at-Tabari preserves one more line on this verse, and it is a tafsir report rather than a hadith. Abdullah ibn Abbas (RA) said of these men that they were magicians at the beginning of the day and martyrs at the end of it, and at-Tabari carries the same sentence from Ubayd ibn Umayr, from Qatadah and from Mujahid. It is not a narration from the Prophet ﷺ and should not be quoted as one, but it is the shortest accurate summary of this verse.",
+            "bn": "এই আয়াত নিয়ে তাবারী আরও একটি কথা রেখে গেছেন, আর সেটি হাদীস নয়, তাফসীরি বক্তব্য। আবদুল্লাহ ইবনু আব্বাস (রাঃ) এই লোকদের সম্পর্কে বলেছেন, দিনের শুরুতে তারা ছিল যাদুকর, আর দিনের শেষে শহীদ। একই কথা তাবারী বর্ণনা করেছেন উবাইদ ইবনু উমাইর থেকে, কাতাদাহ থেকে আর মুজাহিদ থেকেও। এটি নবী ﷺ থেকে বর্ণিত হাদীস নয়, তাই হাদীস হিসেবে উদ্ধৃত করা যাবে না। তবে এই আয়াত যা লিখে রাখছে, তার সবচেয়ে ছোট আর সবচেয়ে নিখুঁত সারকথা এটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Others Who Asked This",
+          "bn": "আর যারা এটাই চেয়েছিল"
+        },
+        "p": [
+          {
+            "en": "2:250 carries the same four Arabic words, rabbana afrigh alayna sabran, on the lips of Talut's soldiers facing Goliath, and it adds two more requests that this verse does not make: plant our feet firmly, and give us victory over the disbelieving people. The magicians ask for no victory. Set the two side by side and you can see what a man asks for when there is still a battle to win, and what he asks for when there is not.",
+            "bn": "২:২৫০ আয়াতে ঠিক একই চারটি আরবি শব্দ, রাব্বানা আফরিগ আলাইনা সাবরান, জালুতের মুখোমুখি হওয়া তালুতের সৈনিকদের মুখে। সঙ্গে তারা আরও দুটি জিনিস চায়, যা এই আয়াতে নেই: আমাদের পা দৃঢ় রাখো, আর কাফির দলের উপর আমাদের জয় দাও। যাদুকররা কোনো জয় চায় না। দুটি আয়াত পাশাপাশি রাখলে দেখা যায়, জেতার মতো লড়াই যখন সামনে থাকে মানুষ কী চায়, আর যখন থাকে না তখন কী চায়।"
+          },
+          {
+            "en": "85:8 says of another set of persecutors that they resented the believers for nothing except that they believed in Allah, the Exalted in Might, the Praiseworthy, which is the first half of this verse in other words. 12:101 is Yusuf (AS) at the height of his fortune asking to be caused to die a Muslim and joined with the righteous, and 3:193 is the believers asking to die among the righteous. The request here is therefore not a crisis prayer only. It is what a believer wants in prosperity too.",
+            "bn": "৮৫:৮ আয়াত আরেক দল নির্যাতনকারী সম্পর্কে বলে, তারা মু'মিনদের উপর চটেছিল কেবল এই কারণে যে তারা মহাপরাক্রমশালী প্রশংসিত আল্লাহর প্রতি ঈমান এনেছিল। এ তো ভিন্ন শব্দে এই আয়াতের প্রথম ভাগটাই। ১২:১০১ আয়াতে ইউসুফ (আঃ) নিজের সৌভাগ্যের চূড়ায় দাঁড়িয়ে চাইছেন মুসলিম অবস্থায় তাঁর মৃত্যু হোক আর তাঁকে সৎকর্মশীলদের সঙ্গে শামিল করা হোক। ৩:১৯৩ আয়াতে মু'মিনরা চাইছে নেক বান্দাদের সঙ্গে তাদের মৃত্যু হোক। তাই এই আয়াতের চাওয়াটা কেবল বিপদের দোয়া নয়। সচ্ছল অবস্থাতেও মু'মিন এটাই চায়।"
+          },
+          {
+            "en": "One more belongs here because it comes from inside Pharaoh's own house. 40:28 has a believing man of Pharaoh's family, concealing his faith, asking whether they will kill a man merely for saying my Lord is Allah when he has brought clear proofs from your Lord. That is the question this verse answers from the other end. The magicians already know that the answer is yes, and they do not spend their last words arguing about it.",
+            "bn": "আরও একটি আয়াত এখানে জায়গা পায়, কারণ সেটি আসে ফিরআউনের নিজের ঘরের ভেতর থেকে। ৪০:২৮ আয়াতে ফিরআউনের পরিবারের এক মু'মিন, যে নিজের ঈমান গোপন রেখেছিল, জিজ্ঞেস করে, তোমরা কি একজনকে শুধু এজন্য মেরে ফেলবে যে সে বলে আল্লাহ আমার প্রতিপালক, অথচ সে তোমাদের প্রতিপালকের পক্ষ থেকে স্পষ্ট প্রমাণ এনেছে? এই আয়াত সেই প্রশ্নের জবাবটা দেয় অন্য প্রান্ত থেকে। যাদুকররা আগেই জানে জবাবটা হ্যাঁ, আর নিজেদের শেষ কথাগুলো তারা এ নিয়ে তর্কে খরচ করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking to Be Held",
+          "bn": "ধরে রাখার আবেদন"
+        },
+        "p": [
+          {
+            "en": "The practical weight of this verse is in what the two requests leave out. Nobody asks to be spared. There is no plea for the sentence to be lifted, no offer to recant, no bargaining. They ask for the capacity to go through it and for the condition they want to be in at the end. That is a different prayer from the one most of us say in trouble, and saying it once, deliberately, changes what we are actually hoping for.",
+            "bn": "এই আয়াতের কাজের ওজনটা লুকিয়ে আছে দুটি চাওয়া যা যা বাদ দিয়েছে তার ভেতরে। কেউ রেহাই চায় না। শাস্তি তুলে নেওয়ার আবেদন নেই, কথা ফিরিয়ে নেওয়ার প্রস্তাব নেই, দরকষাকষি নেই। তারা চায় এর ভেতর দিয়ে যাওয়ার সামর্থ্য, আর শেষে যে অবস্থায় থাকতে চায় সেই অবস্থা। বিপদে আমরা অধিকাংশই যে দোয়াটা করি, এ তার থেকে আলাদা। আর একবার ইচ্ছে করে এটা বলে দেখলে, আমরা আসলে কী আশা করছি সেটাই বদলে যায়।"
+          },
+          {
+            "en": "The timing is the second lesson. They ask for patience before the punishment begins, not in the middle of it. al-Qurtubi makes the point exactly: they wanted it poured on them at the moment of the cutting and the crucifixion. Patience requested in advance is a different thing from patience scraped together under pressure, and there is a simple habit in it. Before the hospital appointment, before the meeting, before the conversation you have been dreading, ask for it in these words.",
+            "bn": "দ্বিতীয় শিক্ষা সময় নিয়ে। শাস্তি শুরু হওয়ার আগেই তারা ধৈর্য চাইছে, মাঝখানে নয়। কুরতুবী কথাটা ঠিকভাবেই ধরেন: তারা চেয়েছিল কাটা আর শূলে চড়ানোর মুহূর্তেই এটা তাদের উপর ঢেলে দেওয়া হোক। আগেই চেয়ে রাখা ধৈর্য আর চাপে পড়ে কষ্টে জোগাড় করা ধৈর্য এক জিনিস নয়। আর এর ভেতরে একটা সহজ অভ্যাস আছে। হাসপাতালে যাওয়ার আগে, বৈঠকে ঢোকার আগে, যে কথাটা বলতে ভয় পাচ্ছেন সেই কথার আগে, এই শব্দগুলো দিয়েই চেয়ে নিন।"
+          },
+          {
+            "en": "The third lesson is the speed. These men arrived that morning negotiating a fee and a place near the throne (7:113-114), and before the day was out they were asking to die in submission. Nothing in the account suggests years of preparation. They saw one thing clearly and acted the same afternoon, and that is worth remembering by anyone who has been telling himself that the change he owes will take a long time to make.",
+            "bn": "তৃতীয় শিক্ষা গতি নিয়ে। এই লোকগুলো সেই সকালে এসেছিল পুরস্কার আর সিংহাসনের কাছের জায়গা নিয়ে দরকষাকষি করতে (৭:১১৩ ও ৭:১১৪)। দিন শেষ হওয়ার আগেই তারা চাইছে আত্মসমর্পণের অবস্থায় মরতে। বর্ণনার কোথাও বছরের পর বছর প্রস্তুতির কথা নেই। তারা একটা জিনিস পরিষ্কার দেখল আর সেই বিকেলেই কাজে নেমে গেল। যিনি নিজেকে বলে আসছেন যে তাঁর বদলটা হতে অনেক সময় লাগবে, তাঁর এটা মনে রাখা দরকার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Du'a Itself",
+          "bn": "দোয়াটিই"
+        },
+        "p": [
+          {
+            "en": "This verse does not need a supplication supplied to it, because half of it is one. Rabbana afrigh alayna sabran wa tawaffana muslimin: our Lord, pour upon us patience, and cause us to die as Muslims. It is Quranic wording, it is short enough to memorise in one sitting, and it is addressed to the only listener in the scene who could grant either half of it. Taking it as a du'a is not an interpretation; it is what the men who said it were doing.",
+            "bn": "এই আয়াতের সঙ্গে বাইরে থেকে কোনো দোয়া জুড়ে দেওয়ার দরকার নেই, কারণ এর অর্ধেকটাই দোয়া। রাব্বানা আফরিগ আলাইনা সাবরান ওয়া তাওয়াফফানা মুসলিমীন, অর্থাৎ হে আমাদের প্রতিপালক, আমাদের উপর ধৈর্য ঢেলে দাও আর মুসলমান হিসেবে আমাদের মৃত্যু দাও। কথাগুলো কুরআনের, একবার বসেই মুখস্থ করা যায়, আর বলা হয়েছে সেই দৃশ্যের একমাত্র শ্রোতাকে যিনি এর দুই অর্ধেকের যেটাই চান দিতে পারেন। এটাকে দোয়া হিসেবে নেওয়া কোনো ব্যাখ্যা নয়। যারা বলেছিল, তারা এটাই করছিল।"
+          },
+          {
+            "en": "If a longer form is wanted, 2:250 gives the same opening with two additions, and thabbit aqdamana, plant our feet firmly. Joining the two is a matter of choosing one of the two Quranic wordings, not of blending them, so recite whichever fits the hour: the fuller one when there is still something to be won, and the shorter one when what is left to ask for is steadiness and a good ending.",
+            "bn": "আরও লম্বা রূপ চাইলে ২:২৫০ আয়াতে একই শুরু, সঙ্গে দুটি বাড়তি চাওয়া, যার একটি ওয়া সাব্বিত আকদামানা, অর্থাৎ আমাদের পা দৃঢ় রাখো। দুটোকে মেশানো নয়, কুরআনের দুই রূপের একটিকে বেছে নেওয়াই কাজ। তাই যে মুহূর্তের সঙ্গে যেটি মেলে সেটিই পড়ুন। যখন জেতার মতো কিছু বাকি আছে তখন লম্বাটি, আর যখন চাওয়ার মতো কেবল অবিচলতা আর সুন্দর পরিণতি বাকি, তখন ছোটটি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions to Carry",
+          "bn": "সঙ্গে নেওয়ার প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "When I am in a hard place, what do I actually ask for first: that it be taken away, or that I be held steady inside it? Have I ever asked for patience in these words before a difficulty rather than in the middle of one? And if tonight were the last night, would the state I am in now be the state I asked to be taken in?",
+            "bn": "কঠিন সময়ে আমি আসলে প্রথমে কী চাই: বিপদটা সরিয়ে নেওয়া হোক, নাকি বিপদের ভেতরে আমাকে দাঁড়িয়ে রাখা হোক? কষ্টের মাঝখানে নয়, কষ্ট শুরু হওয়ার আগে আমি কি কখনো এই শব্দগুলো দিয়ে ধৈর্য চেয়েছি? আর আজ রাতই যদি শেষ রাত হয়, এখন আমি যে অবস্থায় আছি, সেই অবস্থাতেই কি আমাকে নেওয়া হোক বলে চাইতাম?"
+          },
+          {
+            "en": "What am I resented or shut out for, and is it honestly my faith, or something about my manner that I could repair without giving anything up? These men rebuilt their whole lives inside one afternoon. What have I been telling myself needs years, and what would it actually take to start it before this week is out?",
+            "bn": "কোন কারণে মানুষ আমার উপর চটে আছে বা আমাকে দূরে রেখেছে? সেটা সত্যিই আমার ঈমান, নাকি আমার আচরণের এমন কিছু, যা কিছু ছাড়তে না হয়েই আমি ঠিক করে নিতে পারতাম? এই লোকগুলো এক বিকেলের ভেতর নিজেদের গোটা জীবন নতুন করে গড়ে নিয়েছিল। কোন কাজটার জন্য আমি নিজেকে বছরের হিসাব শোনাচ্ছি, আর এই সপ্তাহ শেষ হওয়ার আগেই সেটা শুরু করতে আসলে কী দরকার?"
+          }
+        ]
+      }
+    ]
+  },
   "7:156": {
     "sections": [
       {
