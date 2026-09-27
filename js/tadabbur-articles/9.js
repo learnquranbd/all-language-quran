@@ -11,6 +11,154 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "9:5": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Passage, Not the Line",
+          "bn": "এক লাইন নয়, গোটা অংশ"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan and this verse sits inside a single declaration that begins at 9:1. That verse announces a dissociation from Allah and His Messenger ﷺ to those of the idolaters with whom a treaty had been made. 9:2 gives them four months to travel the land freely. 9:3 has the announcement made to the people on the day of the greater pilgrimage, and it includes an offer: so if you repent, that is best for you. Only after all of that does our verse name what follows the four months.",
+            "bn": "সূরা তাওবা মাদানী, আর এ আয়াতটি বসে আছে এমন একটি ঘোষণার ভেতরে, যা শুরু হয় ৯:১ আয়াতে। ওই আয়াত ঘোষণা করে আল্লাহ আর তাঁর রাসূলের ﷺ পক্ষ থেকে সম্পর্কচ্ছেদ, মুশরিকদের মধ্যে যাদের সঙ্গে চুক্তি হয়েছিল তাদের উদ্দেশে। ৯:২ আয়াত তাদের চার মাস সময় দেয় জমিনে স্বাধীনভাবে চলাচল করার। ৯:৩ আয়াতে ঘোষণাটি করা হয় বড় হজের দিনে মানুষের সামনে, আর তার ভেতরে একটি প্রস্তাবও থাকে: কাজেই তোমরা যদি তওবা কর, তা তোমাদের জন্যই ভালো। এ সবের পরেই আমাদের আয়াত বলে, চার মাসের পরে কী।"
+          },
+          {
+            "en": "And the verse immediately before ours is the one most often left out. 9:4 excepts those of the idolaters who had a treaty and had not been deficient toward the Muslims in anything nor supported anyone against them: complete for them their treaty until their term has ended, indeed Allah loves those who fear Him. So before the command comes, a whole category has already been removed from it by name, and the removal is sealed with a statement about what Allah loves.",
+            "bn": "আর আমাদের আয়াতের ঠিক আগের আয়াতটিই সবচেয়ে বেশি বাদ দেওয়া হয়। ৯:৪ আয়াত আলাদা করে রাখে মুশরিকদের সেই লোকদের, যাদের চুক্তি ছিল আর যারা মুসলিমদের প্রতি বিন্দুমাত্র ত্রুটি করেনি আর তাদের বিরুদ্ধে কাউকে সাহায্যও করেনি: তাদের জন্য তাদের চুক্তি সময় শেষ হওয়া পর্যন্ত পূর্ণ কর, নিশ্চয়ই আল্লাহ মুত্তাকীদের ভালোবাসেন। অর্থাৎ হুকুম আসার আগেই একটি গোটা শ্রেণিকে নাম ধরে সেটার বাইরে সরিয়ে রাখা হয়েছে, আর সেই সরিয়ে রাখার উপর সিল মারা হয়েছে আল্লাহ কী ভালোবাসেন সে কথা দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whom the Command Names",
+          "bn": "হুকুম কাদের নাম নেয়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari is explicit about who is left once 9:4 has done its work, and his sentence is the most important one in this article. The meaning, he writes, is: when the three sacred months have passed, concerning those who have no covenant, or those who had a covenant and then broke it by backing the enemies against the Messenger of Allah ﷺ and his companions, or those whose covenant ran to no stated term. Three descriptions, each of them about conduct, and a treaty kept is in none of them.",
+            "bn": "৯:৪ আয়াত নিজের কাজ সেরে ফেলার পর কারা বাকি থাকে, তাবারী সে ব্যাপারে স্পষ্ট, আর এ লেখায় তাঁর ওই বাক্যটিই সবচেয়ে জরুরি। তিনি লেখেন, অর্থ হলো: তিনটি হারাম মাস পার হয়ে গেলে, তাদের ব্যাপারে যাদের কোনো চুক্তি নেই, কিংবা তাদের যাদের চুক্তি ছিল আর তারা রাসূলুল্লাহর ﷺ ও তাঁর সঙ্গীদের বিরুদ্ধে শত্রুদের পিঠে হাত রেখে সেটা ভেঙেছে, কিংবা তাদের যাদের চুক্তির কোনো নির্দিষ্ট সময় বলা ছিল না। তিনটি বর্ণনা, প্রতিটিই আচরণ নিয়ে, আর রক্ষা করা চুক্তি এর কোনোটিতেই নেই।"
+          },
+          {
+            "en": "As-Sa'di reads the opening clause the same way and adds the term. The sacred months here, he says, are the months in which fighting the treatied idolaters was forbidden, the four months of safe passage, and the completion of the term for whoever had a term longer than those. Ibn Kathir names the chain on that point: Mujahid, Amr ibn Shu'ayb, Muhammad ibn Ishaq, Qatadah, as-Suddi and Abd ar-Rahman ibn Zayd ibn Aslam all read the months of this verse as the grace period of 9:2.",
+            "bn": "সা'দী শুরুর কথাটি একইভাবে পড়েন, আর সঙ্গে সময়ের কথাটা যোগ করেন। তিনি বলেন, এখানে হারাম মাস মানে সেই মাসগুলো যেগুলোতে চুক্তিতে থাকা মুশরিকদের সঙ্গে লড়া নিষিদ্ধ ছিল, অর্থাৎ নিরাপদে চলাচলের চার মাস, আর যার চুক্তির সময় এর চেয়ে লম্বা ছিল তার সেই সময় পূর্ণ হওয়া। এ কথাটির সূত্র ইবনু কাসীর নাম ধরে দেন: মুজাহিদ, আমর ইবনু শুআইব, মুহাম্মাদ ইবনু ইসহাক, কাতাদা, সুদ্দী ও আবদুর রহমান ইবনু যায়দ ইবনু আসলাম, সবাই এ আয়াতের মাসগুলোকে পড়েন ৯:২ আয়াতের সেই অবকাশ হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Commands, Then a Fifth",
+          "bn": "চারটি হুকুম, তারপর পঞ্চমটি"
+        },
+        "p": [
+          {
+            "en": "The Arabic carries five imperatives and the fifth undoes the other four. Kill, capture, besiege, sit in wait at every place of watch; then, if they repent and establish the prayer and give the zakah, let them go on their way. At-Tabari glosses the middle three: khudhuhum is take them captive, uhsuruhum is prevent them from moving in the lands of Islam and from entering Makkah, and marsad, from rasada, to watch, means every road and lookout.",
+            "bn": "আরবিতে পাঁচটি আদেশ আছে, আর পঞ্চমটি বাকি চারটিকে খুলে দেয়। হত্যা কর, পাকড়াও কর, ঘেরাও কর, প্রতিটি পাহারার জায়গায় ওৎ পেতে বস; তারপর, তারা যদি তওবা করে, নামায কায়িম করে আর যাকাত দেয়, তবে তাদের পথ ছেড়ে দাও। তাবারী মাঝের তিনটির ব্যাখ্যা দেন: খুযূহুম মানে তাদের বন্দী কর, উহসুরূহুম মানে ইসলামের দেশগুলোতে তাদের চলাচল আর মক্কায় ঢোকা আটকে দাও, আর মারসাদ, রাসাদা অর্থাৎ পাহারা দেওয়া থেকে, মানে প্রতিটি রাস্তা আর পাহারার জায়গা।"
+          },
+          {
+            "en": "The opening verb is worth a moment too. Insalakha is used of a period coming to its end, and at-Tabari takes it to its root: from salakh, the stripping of a hide, so that a sheep stripped of its skin is maslukhah. A term does not merely lapse in this word; it is peeled away. He also settles a small question: the sacred months named are Dhu'l-Qa'dah, Dhu'l-Hijjah and Muharram, and what is intended here is the passing of Muharram, the three being named together because they run on from one another.",
+            "bn": "শুরুর ক্রিয়াটিও একবার থেমে দেখার মতো। ইনসালাখা ব্যবহৃত হয় কোনো সময় শেষ হয়ে আসা বোঝাতে, আর তাবারী সেটাকে নিয়ে যান তার ধাতুতে: সালখ, অর্থাৎ চামড়া ছাড়ানো; আর সে কারণেই চামড়া ছাড়ানো ভেড়াকে বলা হয় মাসলূখা। এ শব্দে সময় কেবল ফুরিয়ে যায় না; সেটাকে ছিলে তুলে নেওয়া হয়। তিনি একটি ছোট প্রশ্নেরও ফয়সালা করেন: নাম নেওয়া হারাম মাসগুলো জিলকদ, জিলহজ আর মুহাররম, আর এখানে উদ্দেশ্য মুহাররম শেষ হওয়া; তিনটির নাম একসঙ্গে এসেছে কারণ তারা একটির পর একটি লাগোয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Difference About the Haram",
+          "bn": "হারাম নিয়ে এক মতভেদ"
+        },
+        "p": [
+          {
+            "en": "Wherever you find them is read two ways and the difference is real. At-Tabari takes it at its widest: wherever you meet them of the land, inside the Haram and outside it, in the sacred months and outside them. Ibn Kathir reads the same clause as meaning the earth in general except for the Sacred Area, and gives his reason from another verse, 2:191, which forbids fighting them at al-Masjid al-Haram unless they fight you there, and then permits it.",
+            "bn": "যেখানে পাও কথাটি দুভাবে পড়া হয়, আর মতভেদটি আসল। তাবারী এটিকে ধরেন সবচেয়ে চওড়া অর্থে: জমিনের যেখানেই তাদের পাও, হারামের ভেতরে আর বাইরে, হারাম মাসগুলোতে আর তার বাইরে। ইবনু কাসীর একই কথাটি পড়েন এভাবে যে সাধারণভাবে গোটা জমিন, তবে হারাম এলাকা ছাড়া; আর তিনি নিজের কারণ দেন আরেকটি আয়াত থেকে, ২:১৯১, যা মাসজিদুল হারামের কাছে তাদের সঙ্গে লড়তে নিষেধ করে, যতক্ষণ না তারা সেখানে তোমাদের সঙ্গে লড়ে, আর তারপর অনুমতি দেয়।"
+          },
+          {
+            "en": "Neither man is being careless; they are weighing this verse against a different one, and the difference is worth stating as a difference rather than resolving it here. What both agree on is that the clause is about where a fight may be pressed once it is lawful, not about who may be fought, since that had already been settled two verses earlier. A reader who takes the clause as an instruction to look for people has read it without at-Tabari's sentence about who is meant.",
+            "bn": "দুজনের কেউই অসতর্ক নন; তাঁরা এ আয়াতকে ওজন করছেন অন্য একটি আয়াতের বিপরীতে, আর মতভেদটিকে এখানে মিটিয়ে ফেলার চেয়ে মতভেদ হিসেবেই বলে রাখা উচিত। দুজনেই যেখানে একমত, তা হলো এ কথাটি কোথায় লড়াই চালানো যাবে তা নিয়ে, একবার সেটা বৈধ হয়ে গেলে; কার সঙ্গে লড়া যাবে তা নিয়ে নয়, কারণ সেটার ফয়সালা দুই আয়াত আগেই হয়ে গেছে। যে পাঠক এ কথাটিকে লোক খুঁজে বেড়ানোর নির্দেশ বলে ধরেন, তিনি কাদের কথা বলা হচ্ছে সে ব্যাপারে তাবারীর বাক্যটি না পড়েই পড়েছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Clause That Ends It",
+          "bn": "যে কথাটি সব থামিয়ে দেয়"
+        },
+        "p": [
+          {
+            "en": "The condition for release is not surrender and not tribute. At-Tabari spells out each part: they repent, meaning they return from the shirk and the denial of the prophethood of Muhammad ﷺ to the oneness of Allah and sincerity of worship; they establish the prayer, meaning they perform what Allah obliged within its limits; they give the zakah that Allah made obligatory in their wealth to those entitled to it. Then let them go on their way.",
+            "bn": "ছেড়ে দেওয়ার শর্ত আত্মসমর্পণ নয়, করও নয়। তাবারী প্রতিটি অংশ খুলে বলেন: তারা তওবা করে, অর্থাৎ শিরক আর মুহাম্মাদের ﷺ নবুওয়াত অস্বীকার থেকে ফিরে আসে আল্লাহর একত্ব আর ইবাদতে একনিষ্ঠতার দিকে; তারা নামায কায়িম করে, অর্থাৎ আল্লাহ যা ফরজ করেছেন তা তার সীমার ভেতরে আদায় করে; তারা যাকাত দেয়, যা আল্লাহ তাদের সম্পদে ফরজ করেছেন, তার হকদারদের। এরপর তাদের পথ ছেড়ে দাও।"
+          },
+          {
+            "en": "As-Sa'di states what the release actually means, and it is more than a ceasefire: leave them, and let them be like you, they have what you have and upon them is what is upon you. The same equality returns two verses later at 9:11, where the identical condition is met with the words then they are your brothers in religion. As-Sa'di also notes, with Ibn Kathir, that Abu Bakr as-Siddiq (RA) used this verse among his proofs on the question of those who withheld the zakah, which is a matter of fiqh belonging to that history and to those who ruled on it.",
+            "bn": "ছেড়ে দেওয়ার মানে আসলে কী, সা'দী সেটা বলে দেন, আর তা যুদ্ধবিরতির চেয়ে বেশি কিছু: তাদের ছেড়ে দাও, আর তারা হোক তোমাদের মতোই, তোমাদের যা আছে তাদেরও তা আছে, তোমাদের উপর যা আছে তাদের উপরও তা। এ একই সমতা দুই আয়াত পরে ৯:১১ আয়াতে ফিরে আসে, যেখানে একই শর্ত পূরণ হলে বলা হয়, তবে তারা তোমাদের দীনী ভাই। সা'দী আর ইবনু কাসীর দুজনেই এটাও লিখে রাখেন যে যাকাত আটকে রাখা লোকদের প্রশ্নে আবূ বাকর সিদ্দীক (রাঃ) নিজের দলিলগুলোর মধ্যে এ আয়াতটিও ব্যবহার করেছিলেন; আর সেটি ফিকহের বিষয়, যা ওই ইতিহাসের আর যাঁরা সে ফয়সালা দিয়েছেন তাঁদেরই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Next Verse Orders",
+          "bn": "পরের আয়াত যা হুকুম দেয়"
+        },
+        "p": [
+          {
+            "en": "The verse after the command is the one that shows what kind of command it was. 9:6 says that if any one of the idolaters seeks your protection, grant him protection so that he may hear the words of Allah, then deliver him to his place of safety, and it gives the reason: because they are a people who do not know. So in the middle of a declaration of hostilities, an individual who asks is to be given safe conduct, a hearing, and an escort home.",
+            "bn": "হুকুমের পরের আয়াতটিই দেখিয়ে দেয় হুকুমটা কোন ধরনের ছিল। ৯:৬ আয়াত বলে, মুশরিকদের কেউ যদি তোমার কাছে আশ্রয় চায়, তবে তাকে আশ্রয় দাও, যাতে সে আল্লাহর বাণী শুনতে পায়, তারপর তাকে তার নিরাপদ জায়গায় পৌঁছে দাও; আর কারণটাও বলে দেয়: কারণ তারা এমন এক সম্প্রদায় যারা জানে না। অর্থাৎ যুদ্ধ ঘোষণার মাঝখানেই, যে একজন চেয়ে বসে তাকে দিতে হবে নিরাপদ চলার সুযোগ, শোনার সুযোগ, আর ঘরে পৌঁছে দেওয়ার ব্যবস্থা।"
+          },
+          {
+            "en": "9:7 closes the frame from the other side, asking how the idolaters could have a treaty in the sight of Allah and with His Messenger ﷺ, then excepting those with whom a treaty was made at al-Masjid al-Haram, and ruling: so as long as they are upright toward you, be upright toward them, indeed Allah loves those who fear Him. The passage thus ends where 9:4 began. A line taken from between them, with both ends cut off, is made to say the opposite of what the ends say.",
+            "bn": "৯:৭ আয়াত অন্য দিক থেকে কাঠামোটা বন্ধ করে দেয়; সে জিজ্ঞেস করে, আল্লাহ আর তাঁর রাসূলের ﷺ কাছে মুশরিকদের চুক্তি কীভাবে টিকে থাকতে পারে, তারপর আলাদা করে রাখে তাদের, যাদের সঙ্গে মাসজিদুল হারামের কাছে চুক্তি হয়েছিল, আর বিধান দেয়: তারা যতক্ষণ তোমাদের সঙ্গে সোজা থাকে, তোমরাও তাদের সঙ্গে সোজা থাক, নিশ্চয়ই আল্লাহ মুত্তাকীদের ভালোবাসেন। অর্থাৎ অংশটি শেষ হয় সেখানেই, যেখান থেকে ৯:৪ আয়াত শুরু করেছিল। এ দুয়ের মাঝখান থেকে তুলে আনা একটি লাইন, দুই মাথা কেটে দিলে, ঠিক সেটাই বলতে বাধ্য হয় যার উল্টো কথা ওই দুই মাথা বলছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What It Does Not License",
+          "bn": "এটি যার অনুমতি দেয় না"
+        },
+        "p": [
+          {
+            "en": "This has to be said plainly. The verse belongs to one declaration, made once, against named categories of people who had either no treaty or a treaty they had broken by joining an attack, in one peninsula, announced publicly with four months' notice. The commentators consulted here are the ones who put those limits on it: at-Tabari by naming who is meant, as-Sa'di by preserving the longer terms, Ibn Kathir by tying the months to the notice period. None of them hands it forward to any later reader as a general permission.",
+            "bn": "কথাটা সোজাসুজি বলে দেওয়া দরকার। আয়াতটি একটি ঘোষণার অংশ, যা একবারই দেওয়া হয়েছে, নাম ধরে বলা শ্রেণির লোকদের বিরুদ্ধে, যাদের হয় কোনো চুক্তিই ছিল না, নয় যে চুক্তি ছিল তা তারা আক্রমণে শরিক হয়ে ভেঙেছিল; এক উপদ্বীপে, চার মাসের নোটিশসহ প্রকাশ্যে ঘোষণা করা। এখানে দেখা মুফাসসিরগণই এর উপর সেই সীমাগুলো বসিয়েছেন: তাবারী কাদের কথা বলা হচ্ছে তার নাম দিয়ে, সা'দী লম্বা সময়ের চুক্তিগুলো রক্ষা করে, আর ইবনু কাসীর মাসগুলোকে নোটিশের সময়ের সঙ্গে বেঁধে দিয়ে। তাঁদের কেউই এটিকে পরের কোনো পাঠকের হাতে সাধারণ অনুমতি হিসেবে তুলে দেন না।"
+          },
+          {
+            "en": "Matters of war belong to the authority the commentators address, and this article makes no application of the verse to any present situation, group or person. What a reader can take from it is a discipline of reading. This is the verse most often quoted with its neighbours removed, and the removal is what does the work. The habit it should teach is the opposite one: when a line about other people is put in front of you, read what stood on either side of it before you accept what it seems to say.",
+            "bn": "যুদ্ধের বিষয়গুলো সেই কর্তৃপক্ষেরই, মুফাসসিরগণ যাঁদের উদ্দেশে কথা বলেন; আর এ লেখা আয়াতটিকে বর্তমানের কোনো পরিস্থিতি, কোনো দল বা কোনো ব্যক্তির উপর প্রয়োগ করছে না। পাঠকের এখান থেকে নেওয়ার মতো জিনিসটা হলো পড়ার একটা নিয়ম। পাশের আয়াতগুলো সরিয়ে দিয়ে উদ্ধৃত করা হয় সবচেয়ে বেশি এ আয়াতটিকেই, আর কাজটা করে ওই সরিয়ে দেওয়াই। এ থেকে যে অভ্যাসটা শেখা উচিত তা উল্টো: অন্য মানুষদের নিয়ে কোনো লাইন যখন আপনার সামনে রাখা হয়, সেটা যা বলছে বলে মনে হয় তা মেনে নেওয়ার আগে পড়ে নিন তার দুপাশে কী ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer From the Next Verse",
+          "bn": "পরের আয়াত থেকে এক দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse itself carries no supplication, and the nearest thing to one in the passage is the purpose 9:6 gives for granting protection: so that he may hear the words of Allah. That is a thing to want for people, and it is what the Quran wants for them in the middle of a declared hostility. 9:3's offer runs the same way, so if you repent, that is best for you, spoken to the very people the declaration was against.",
+            "bn": "আয়াতটিতে নিজে কোনো দোয়া নেই, আর এ অংশে দোয়ার সবচেয়ে কাছের জিনিসটা হলো আশ্রয় দেওয়ার পেছনে ৯:৬ আয়াত যে উদ্দেশ্য দেয়: যাতে সে আল্লাহর বাণী শুনতে পায়। মানুষের জন্য এটা চাওয়ার মতো জিনিস, আর ঘোষিত শত্রুতার মাঝখানেই কুরআন তাদের জন্য এটাই চায়। ৯:৩ আয়াতের প্রস্তাবটাও একই পথে চলে, কাজেই তোমরা যদি তওবা কর, তা তোমাদের জন্যই ভালো; আর কথাটা বলা হচ্ছে ঠিক সেই লোকদেরই, যাদের বিরুদ্ধে ঘোষণাটি ছিল।"
+          },
+          {
+            "en": "A sentence in the passage's own vocabulary can be said and claimed as no more than that: O Allah, let those who do not know hear Your words, and do not let me be the reason anybody is kept from hearing them. That is assembled from 9:6 and from 9:3, and it is not a Sunnah du'a. What makes it fit this verse is that the passage names ignorance as the condition of the other side, and treats being given a hearing as the remedy for it.",
+            "bn": "এ অংশের নিজের শব্দে একটা বাক্য বলা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, যারা জানে না তাদের আপনার বাণী শোনান, আর আমাকে এমন কারণ বানাবেন না যার জন্য কেউ সেটা শোনা থেকে বঞ্চিত থাকে। এটি ৯:৬ আর ৯:৩ আয়াত জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। এটি এ আয়াতের সঙ্গে মানায় এ কারণে যে অংশটি অন্য পক্ষের অবস্থার নাম দেয় না জানা হিসেবে, আর তার দাওয়াই হিসেবে ধরে শোনার সুযোগ পাওয়াকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About How You Read",
+          "bn": "কীভাবে পড়েন তা নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "This is the verse most often handed on without its neighbours. Have I ever accepted a line about somebody's faith or somebody's people without reading what stood on either side of it? The fifth command undoes the other four, so what in my own dealings would stop the moment the other party changed course, and what would carry on out of habit?",
+            "bn": "পাশের আয়াতগুলো ছাড়া সবচেয়ে বেশি হাতে হাতে যায় এ আয়াতটিই। কারও ঈমান নিয়ে বা কারও জাতি নিয়ে বলা কোনো লাইন আমি কি কখনো মেনে নিয়েছি, তার দুপাশে কী ছিল তা না পড়েই? পঞ্চম হুকুমটি বাকি চারটিকে খুলে দেয়; তাহলে আমার নিজের লেনদেনে কোন জিনিসটা থেমে যেত যে মুহূর্তে অন্য পক্ষ পথ বদলাত, আর কোন জিনিসটা কেবল অভ্যাসের জোরে চলতেই থাকত?"
+          },
+          {
+            "en": "Two more. The next verse orders that a man who asks for protection be given a hearing and then escorted to safety: when somebody on the other side of a quarrel asks me for safe passage, what do I actually do? And the verse of the sword ends on Forgiving and Merciful, so where have I privately decided that a particular person is past the point of being forgiven?",
+            "bn": "আরও দুটি। পরের আয়াত হুকুম দেয়, যে লোক আশ্রয় চায় তাকে শোনার সুযোগ দিতে আর তারপর নিরাপদ জায়গায় পৌঁছে দিতে: ঝগড়ার উল্টো পাশের কেউ আমার কাছে নিরাপদে যাওয়ার সুযোগ চাইলে আমি আসলে কী করি? আর তলোয়ারের আয়াত শেষ হয় ক্ষমাশীল আর দয়ালু দিয়ে; তাহলে কোথায় আমি মনে মনে ঠিক করে রেখেছি যে অমুক লোককে আর মাফ করার সময় নেই?"
+          }
+        ]
+      }
+    ]
+  },
   "9:40": {
     "sections": [
       {

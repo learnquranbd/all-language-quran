@@ -6823,6 +6823,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Alliance is built from what people did together, and even a true call for help does not license breaking a pledge you have already given.",
     "lessonBn": "বন্ধুত্ব গড়ে ওঠে মানুষ একসঙ্গে যা করেছে তা দিয়ে। আর সাহায্যের ডাক সত্যি হলেও আগে দেওয়া কথা ভাঙার অনুমতি তা দেয় না।"
+  },
+  "9:5": {
+    "reflectionEn": "Count the commands. Four of them are war: kill, capture, besiege, lie in wait. Then a fifth arrives and cancels all four — but if they repent and establish prayer and give zakah, let them go on their way. The verse also does not stand by itself. 9:4 has just excepted those who kept their treaty and ordered it completed to its term, and 9:6 will order that any one of them who asks for protection be given it, made to hear the words of Allah, and then escorted to safety. Read with those, the passage is narrower than the one line.",
+    "reflectionBn": "হুকুমগুলো গুনে দেখুন। চারটি যুদ্ধের: হত্যা কর, পাকড়াও কর, ঘেরাও কর, ওৎ পেতে বসে থাক। এরপর আসে পঞ্চমটি, আর সেটি চারটিকেই বাতিল করে দেয়, তারা যদি তওবা করে, নামায কায়িম করে আর যাকাত দেয়, তবে তাদের পথ ছেড়ে দাও। আর আয়াতটি একা দাঁড়িয়েও নেই। ৯:৪ আয়াত সদ্য আলাদা করে রেখেছে তাদের, যারা নিজেদের চুক্তি রক্ষা করেছে, আর হুকুম দিয়েছে সেটা সময় শেষ হওয়া পর্যন্ত পূর্ণ করতে; আর ৯:৬ আয়াত হুকুম দেবে, তাদের কেউ আশ্রয় চাইলে তাকে আশ্রয় দিতে, আল্লাহর বাণী শোনাতে, তারপর তাকে নিরাপদ জায়গায় পৌঁছে দিতে। ওগুলোর সঙ্গে পড়লে অংশটা এই এক লাইনের চেয়ে অনেক সংকীর্ণ।",
+    "pointsEn": [
+      "This verse is quoted more often without its neighbours than with them. Have I ever accepted a line about anyone's faith without reading what stood on either side of it?",
+      "The fifth command undoes the other four. What in my own dealings would stop the moment the other party changed course?",
+      "The condition for release is prayer and zakah, not surrender or tribute. What does that say about what was actually being fought over?",
+      "The next verse orders that a man who asks for protection be escorted to safety. When someone on the other side of a quarrel asks me for safe passage, what do I do?",
+      "Allah is named Forgiving and Merciful at the end of a verse of war. Where have I decided somebody is past the point of being forgiven?"
+    ],
+    "pointsBn": [
+      "এ আয়াতটি তার পাশের আয়াতগুলো ছাড়াই বেশি উদ্ধৃত হয়। কারও ঈমান নিয়ে বলা কোনো লাইন আমি কি কখনো মেনে নিয়েছি, তার দুপাশে কী ছিল তা না পড়েই?",
+      "পঞ্চম হুকুমটি বাকি চারটিকে বাতিল করে দেয়। আমার নিজের লেনদেনে কোন জিনিসটা থেমে যেত, যে মুহূর্তে অন্য পক্ষ পথ বদলাত?",
+      "ছেড়ে দেওয়ার শর্ত নামায আর যাকাত, আত্মসমর্পণ বা কর নয়। আসলে কী নিয়ে লড়াই হচ্ছিল, এটা সে সম্পর্কে কী বলে?",
+      "পরের আয়াত হুকুম দেয়, যে লোক আশ্রয় চায় তাকে নিরাপদ জায়গায় পৌঁছে দিতে। ঝগড়ার উল্টো পাশের কেউ আমার কাছে নিরাপদে যাওয়ার সুযোগ চাইলে আমি কী করি?",
+      "যুদ্ধের এক আয়াতের শেষে আল্লাহর নাম আসে ক্ষমাশীল আর দয়ালু হিসেবে। কোথায় আমি ঠিক করে রেখেছি যে অমুক লোককে আর মাফ করা চলে না?"
+    ],
+    "lessonEn": "Four commands of war are cancelled by a fifth, and the verses either side except the faithful and shelter whoever asks; a line lifted out says what the passage refuses.",
+    "lessonBn": "যুদ্ধের চারটি হুকুম বাতিল করে দেয় পঞ্চম একটি হুকুম, আর দুপাশের আয়াত আলাদা করে রাখে চুক্তি রক্ষাকারীদের আর আশ্রয় চাওয়া যে কাউকে নিরাপত্তা দেয়। এ অংশ থেকে তুলে নেওয়া একটি লাইন সেটাই বলে, যা অংশটি নিজেই নাকচ করে।"
   }
 };
 
