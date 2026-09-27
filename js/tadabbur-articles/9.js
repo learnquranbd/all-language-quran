@@ -1223,6 +1223,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:60": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Answer to a Complaint",
+          "bn": "এক অভিযোগের জবাব"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan and this verse answers a grievance recorded two verses earlier. 9:58 says that among them are some who criticise you concerning the charities: if they are given from them they approve, and if they are not given from them they are angry at once. 9:59 answers with what they should have said instead, that Allah is sufficient for us and He will give us of His bounty. Then our verse settles the matter by publishing the list, and 9:61 moves on to those who abuse the Prophet ﷺ.",
+            "bn": "সূরা তাওবা মাদানী, আর এ আয়াত জবাব দেয় দুই আয়াত আগে লিখে রাখা একটি অভিযোগের। ৯:৫৮ আয়াত বলে, তাদের মধ্যে এমন লোক আছে যারা সদকা নিয়ে তোমার প্রতি দোষারোপ করে: তা থেকে দেওয়া হলে তারা খুশি, আর না দেওয়া হলে সঙ্গে সঙ্গেই ক্ষুব্ধ। ৯:৫৯ আয়াত জবাব দেয় এ কথা বলে যে তাদের বদলে কী বলা উচিত ছিল, আমাদের জন্য আল্লাহই যথেষ্ট, আর তিনি নিজের অনুগ্রহ থেকে আমাদের দেবেন। এরপর আমাদের আয়াত তালিকাটা প্রকাশ করে দিয়ে বিষয়টার ফয়সালা করে, আর ৯:৬১ আয়াত এগিয়ে যায় তাদের দিকে যারা নবীকে ﷺ কষ্ট দেয়।"
+          },
+          {
+            "en": "Ibn Kathir states the logic of that sequence in a sentence: after Allah mentioned the protest the hypocrites made to the Prophet ﷺ about the distribution of the alms, He stated that it is He who divided them, explained their rulings and decided their division, and did not delegate this to anyone else. So the answer to a complaint about who decides is not an argument but a schedule, and the schedule comes with a stamp at the end of it, an obligation from Allah.",
+            "bn": "ওই ধারাবাহিকতার যুক্তিটা ইবনু কাসীর বলে দেন এক বাক্যে: সদকা বণ্টন নিয়ে মুনাফিকরা নবীর ﷺ কাছে যে আপত্তি তুলেছিল, আল্লাহ সেটার উল্লেখ করার পর জানিয়ে দিলেন যে তিনিই সেগুলো ভাগ করেছেন, তার বিধান বলে দিয়েছেন আর তার বণ্টনের ফয়সালা করেছেন, আর এ কাজ তিনি আর কারও হাতে দেননি। অর্থাৎ কে ঠিক করবে সে নিয়ে অভিযোগের জবাব কোনো তর্ক নয়, একটি তালিকা; আর তালিকাটির শেষে একটা সিলও আছে, আল্লাহর পক্ষ থেকে ফরজ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eight Shares, and No More",
+          "bn": "আটটি ভাগ, বেশি নয়"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di begins by narrowing the word itself: the charities here mean the obligatory zakah, and his evidence is that voluntary charity is for anyone and nobody is singled out for it. Then the restriction: the alms are for these mentioned and no others, because He confined them to them, and they are eight kinds. The particle at the head of the verse does that work, and the closing clause seals it as an obligation He apportioned, following His knowledge and His wisdom.",
+            "bn": "সা'দী শুরু করেন শব্দটিকেই সংকুচিত করে: এখানে সদকা মানে ফরজ যাকাত, আর তাঁর দলিল এই যে নফল সদকা সবার জন্যই, তাতে কাউকে আলাদা করা হয় না। এরপর সেই সীমা: সদকা এ উল্লেখ করা লোকদের জন্যই, অন্য কারও জন্য নয়, কারণ তিনি সেটা এদের মধ্যেই আটকে দিয়েছেন; আর এরা আট শ্রেণি। আয়াতের মাথার শব্দটিই এ কাজটা করে, আর শেষ কথাটি এতে সিল মেরে দেয় এ বলে যে এ ফরজ তিনিই নির্ধারণ করেছেন, আর সেটা তাঁর জানা আর তাঁর হিকমতের অনুসারী।"
+          },
+          {
+            "en": "The eight, in the order the verse gives them: the poor, the needy, those employed to collect it, those whose hearts are to be won, the freeing of necks, the debtors, the path of Allah, and the traveller cut off from home. Two are named for what they lack, one for work done, one for a diplomatic purpose, one for a legal status, one for a liability, one for a cause, one for a circumstance. Only the first two are what most readers picture when they hear the word.",
+            "bn": "আয়াত যে ক্রমে দেয়, সে ক্রমেই আটটি: ফকীর, মিসকীন, যারা এটি আদায়ের কাজে নিয়োজিত, যাদের অন্তর জয় করা দরকার, গর্দান মুক্ত করা, ঋণগ্রস্তরা, আল্লাহর পথ, আর ঘর থেকে বিচ্ছিন্ন মুসাফির। দুজনের নাম আসে তাদের যা নেই সে কারণে, একজনের করা কাজের জন্য, একজনের একটি কূটনৈতিক উদ্দেশ্যে, একজনের একটি আইনি অবস্থার জন্য, একজনের একটি দায়ের জন্য, একজনের একটি উদ্দেশ্যের জন্য, আর একজনের একটি পরিস্থিতির জন্য। শব্দটা শুনলে অধিকাংশ পাঠকের চোখে যা ভাসে, তা কেবল প্রথম দুটিই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Faqir, and Miskin",
+          "bn": "ফকীর, আর মিসকীন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports that the exegetes differed over how the first two differ, and the reports he gathers turn on asking. Some said the faqir is the needy man who restrains himself from asking and the miskin is the needy man who asks. Al-Hasan drew it physically: the faqir is the one sitting in his house, the miskin the one who goes about. Ibn Abbas (RA) is reported saying the masakin are those who go around and the fuqara' are the poor of the Muslims, and Jabir ibn Zayd and az-Zuhri are carried to similar effect.",
+            "bn": "তাবারী জানান, প্রথম দুটির ফারাক নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে, আর তিনি যে বর্ণনাগুলো জমা করেন সেগুলো ঘোরে চাওয়া নিয়ে। কেউ বলেছেন, ফকীর সেই অভাবী যে চাওয়া থেকে নিজেকে বিরত রাখে, আর মিসকীন সেই অভাবী যে চায়। হাসান কথাটা টানেন শরীরের দিক থেকে: ফকীর সে যে নিজের ঘরে বসে থাকে, মিসকীন সে যে ঘুরে বেড়ায়। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত, মিসকীনরা তারাই যারা ঘুরে বেড়ায় আর ফকীররা মুসলিমদের অভাবীরা; আর জাবির ইবনু যায়দ ও যুহরী থেকেও একই ধরনের কথা আনা হয়।"
+          },
+          {
+            "en": "Ibn Kathir lists the same division and names Ibn Abbas (RA), Mujahid, al-Hasan al-Basri and Ibn Zayd for it, that the faqir is graceful and does not ask while the miskin follows after people begging, and he adds Qatadah's different cut, that the faqir is the ill person and the miskin the physically fit. As-Sa'di replaces the whole question with a measure: the faqir finds nothing, or finds part of his sufficiency short of half of it; the miskin finds half or more but not the whole of it, since if he found it he would be rich.",
+            "bn": "ইবনু কাসীর একই ভাগটি তালিকা করেন আর এর জন্য নাম নেন ইবনু আব্বাস (রাঃ), মুজাহিদ, হাসান বসরী ও ইবনু যায়দের, যে ফকীর আত্মসম্মান রেখে চলে আর চায় না, আর মিসকীন মানুষের পিছনে পিছনে চেয়ে বেড়ায়; আর তিনি যোগ করেন কাতাদার আলাদা দাগটি, ফকীর অসুস্থ লোক আর মিসকীন শরীরে সক্ষম। সা'দী গোটা প্রশ্নটার জায়গায় বসিয়ে দেন একটি মাপ: ফকীর কিছুই পায় না, কিংবা নিজের প্রয়োজনের এমন অংশ পায় যা অর্ধেকেরও কম; মিসকীন অর্ধেক বা তার বেশি পায়, তবে পুরোটা নয়, কারণ পুরোটা পেলে সে তো ধনীই হয়ে যেত।"
+          },
+          {
+            "en": "As-Sa'di also explains why the poor come first, and the reason is a rule about lists: Allah began with them, and one begins only with the most important. Both are to be given, he says, what removes their poverty and their neediness. A hadith belongs here too, brought by Ibn Kathir among those for this category. Jami at-Tirmidhi 652 preserves from Abdullah ibn Amr (RA) that charity is not lawful for the rich nor for one who is physically fit, and at-Tirmidhi's grading of it is hasan.",
+            "bn": "ফকীররা কেন আগে আসে, সা'দী সেটাও বুঝিয়ে দেন, আর কারণটা তালিকা নিয়ে একটি নিয়ম: আল্লাহ শুরু করেছেন তাদের দিয়ে, আর শুরু করা হয় কেবল সবচেয়ে জরুরিটা দিয়েই। তিনি বলেন, দুজনকেই দিতে হবে এমন পরিমাণ যা তাদের ফকীরি আর মিসকীনি দূর করে দেয়। একটি হাদীসও এখানেই বসে, যেটি ইবনু কাসীর এ শ্রেণির জন্য আনা হাদীসগুলোর মধ্যে রাখেন। জামি আত-তিরমিযীর ৬৫২ নম্বরে আবদুল্লাহ ইবনু আমর (রাঃ) থেকে রক্ষিত আছে, সদকা ধনীর জন্য হালাল নয়, আর শরীরে সক্ষম লোকের জন্যও নয়; আর তিরমিযী এটির মান দিয়েছেন হাসান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wages, and Hearts",
+          "bn": "মজুরি, আর অন্তর"
+        },
+        "p": [
+          {
+            "en": "The third share is not charity at all. As-Sa'di defines the workers on the zakah as everyone who has work and occupation in it, a keeper of it, a collector from those who owe it, a herdsman, a carrier, a scribe or the like, and he is careful about what they receive: they are given for their labour, and it is a wage for their work in it. A man may therefore take from the zakah without being poor, because what he is being paid for is the administering of it.",
+            "bn": "তৃতীয় ভাগটি আসলে দানই নয়। সা'দী যাকাতের কর্মীদের সংজ্ঞা দেন এভাবে, যার এতে কাজ আর ব্যস্ততা আছে সে-ই, তার রক্ষক, যাদের কাছে পাওনা তাদের থেকে আদায়কারী, রাখাল, বাহক, লেখক বা এ ধরনের কেউ; আর তারা কী পায় সে ব্যাপারে তিনি সতর্ক: তাদের দেওয়া হয় তাদের শ্রমের জন্য, আর সেটা এতে তাদের কাজের মজুরি। অর্থাৎ কোনো লোক ফকীর না হয়েও যাকাত থেকে নিতে পারে, কারণ তাকে যে জিনিসের দাম দেওয়া হচ্ছে তা হলো এটি পরিচালনা করা।"
+          },
+          {
+            "en": "The fourth is stranger to modern ears and as-Sa'di spells out its cases. Those whose hearts are to be won, he writes, is the chief obeyed among his people: one whose Islam is hoped for, or whose harm is feared, or whose faith is hoped to be strengthened by the gift, or through whom the Islam of his like is hoped for, or through whom the zakah may be collected from one who withholds it. He is given what achieves the winning over and the benefit. The share exists, that is, for a public purpose rather than for a private need.",
+            "bn": "চতুর্থটি আধুনিক কানে আরও অন্যরকম শোনায়, আর সা'দী এর ঘটনাগুলো খুলে বলেন। তিনি লেখেন, যাদের অন্তর জয় করা দরকার মানে নিজের জাতির মধ্যে মান্য সেই সর্দার: যার ইসলাম গ্রহণের আশা করা হয়, কিংবা যার ক্ষতির ভয় করা হয়, কিংবা এ দান দিয়ে যার ঈমান মজবুত হওয়ার আশা করা হয়, কিংবা যার মাধ্যমে তার মতো লোকদের ইসলাম গ্রহণের আশা করা হয়, কিংবা যার মাধ্যমে যাকাত আদায় করা যায় এমন কারও কাছ থেকে যে দিতে চায় না। তাকে দেওয়া হয় এমন পরিমাণ যা দিয়ে জয় করা আর কল্যাণটা হাসিল হয়। অর্থাৎ এ ভাগটি আছে ব্যক্তিগত অভাবের জন্য নয়, একটি সামগ্রিক উদ্দেশ্যের জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Necks, and Debts",
+          "bn": "গর্দান, আর ঋণ"
+        },
+        "p": [
+          {
+            "en": "The fifth share is the freeing of necks. As-Sa'di reads it first of the mukatabun, those who have contracted to buy themselves from their masters and are striving to obtain what frees their necks, so they are helped with it from the zakah. Then he widens it twice: the ransoming of a Muslim captive held by disbelievers enters into this, indeed with more right, and it is permissible to free slaves from it outright, since that too falls under the words in the freeing of necks.",
+            "bn": "পঞ্চম ভাগটি গর্দান মুক্ত করা। সা'দী এটিকে প্রথমে পড়েন মুকাতাবদের ব্যাপারে, যারা নিজেদের মালিকদের কাছ থেকে নিজেদের কিনে নেওয়ার চুক্তি করেছে আর নিজেদের গর্দান মুক্ত করার মতো অর্থ জোগাড়ের চেষ্টা করছে; কাজেই যাকাত থেকে তাদের এ কাজে সাহায্য করা হয়। এরপর তিনি এটিকে দুবার চওড়া করেন: কাফিরদের হাতে বন্দী মুসলিমকে মুক্ত করাও এর ভেতরে পড়ে, বরং আরও বেশি হকের সঙ্গে; আর এ থেকে সরাসরি দাস মুক্ত করাও জায়েজ, কারণ সেটাও গর্দান মুক্ত করা কথাটির ভেতরেই পড়ে।"
+          },
+          {
+            "en": "The sixth he divides in two, and the first half is easy to miss. One kind of debtor is the man indebted for reconciling between people: when there is strife and discord between two groups and a man steps in between them with wealth he pays out to one side or to all of them, a share of the zakah is made his, so that he may be more energetic and firmer in his resolve — and, as-Sa'di says, he is given even if he is rich. The second kind borrowed for himself and then became unable to pay, and he is given what discharges his debt.",
+            "bn": "ষষ্ঠটিকে তিনি দুই ভাগ করেন, আর প্রথম অর্ধেকটা সহজেই চোখ এড়ায়। এক ধরনের ঋণগ্রস্ত সেই লোক, যে মানুষের মধ্যে মিলমিশ করাতে গিয়ে ঋণে পড়েছে: দুই দলের মধ্যে যখন অশান্তি আর বিরোধ, আর কোনো লোক নিজের সম্পদ দিয়ে এক পক্ষকে বা সব পক্ষকে দিয়ে মাঝখানে দাঁড়ায়, তখন যাকাতের একটি ভাগ তার জন্য রাখা হয়, যাতে সে আরও উদ্যমী হয় আর তার সংকল্প আরও মজবুত হয়; আর সা'দী বলেন, তাকে দেওয়া হয় সে ধনী হলেও। দ্বিতীয় ধরনটি নিজের জন্য ঋণ নিয়েছিল, তারপর অপারগ হয়ে পড়েছে; তাকে দেওয়া হয় এমন পরিমাণ যা দিয়ে তার ঋণ শোধ হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Path, and the Road",
+          "bn": "পথ, আর রাস্তা"
+        },
+        "p": [
+          {
+            "en": "The seventh, in as-Sa'di's reading, is the volunteer: the fighters in the path of Allah who have no register and no stipend, given from the zakah what helps them, the price of a weapon or a mount, or provision for himself and his dependants, so that he may devote himself to the striving and his heart be at rest. The last clause is the reason the share exists at all, since a man worrying about his family at home is not free for anything.",
+            "bn": "সা'দীর পাঠে সপ্তমটি স্বেচ্ছাসেবীর: আল্লাহর পথে সেই যোদ্ধারা যাদের কোনো তালিকা নেই আর কোনো ভাতাও নেই, যাদের যাকাত থেকে দেওয়া হয় তাদের কাজে লাগার মতো জিনিস, হাতিয়ারের দাম বা বাহনের দাম, কিংবা নিজের আর নিজের পরিবারের খরচ, যাতে সে জিহাদে নিজেকে সঁপে দিতে পারে আর তার অন্তর নিশ্চিন্ত থাকে। শেষ কথাটিই এ ভাগটি থাকার আসল কারণ, কারণ যে লোক ঘরে ফেলে আসা পরিবারের চিন্তায় থাকে সে কোনো কিছুর জন্যই মুক্ত নয়।"
+          },
+          {
+            "en": "He then reports a wider application from the jurists and marks his own hesitation about one of them. Many of the jurists said that if a man able to earn devotes himself to seeking knowledge he is given from the zakah, because knowledge enters into striving in the path of Allah. They also said that a poor man may be given from it for his obligatory hajj, and as-Sa'di adds a bracketed reservation of his own about that second case. The eighth is the simplest: the stranger cut off in a land not his own, given what brings him to his town.",
+            "bn": "এরপর তিনি ফকীহদের কাছ থেকে আরও চওড়া একটি প্রয়োগ জানান, আর তার একটির ব্যাপারে নিজের দ্বিধার কথাও লিখে রাখেন। অনেক ফকীহ বলেছেন, উপার্জনে সক্ষম কোনো লোক যদি ইলম অন্বেষণে নিজেকে সঁপে দেয় তবে তাকে যাকাত থেকে দেওয়া হবে, কারণ ইলম আল্লাহর পথে জিহাদের ভেতরেই পড়ে। তাঁরা এটাও বলেছেন যে ফরজ হজের জন্য কোনো ফকীরকে এ থেকে দেওয়া যেতে পারে; আর সা'দী দ্বিতীয় কথাটির ব্যাপারে নিজের একটি দ্বিধা বন্ধনীতে যোগ করে দেন। অষ্টমটি সবচেয়ে সহজ: নিজের দেশ নয় এমন জায়গায় আটকে পড়া অপরিচিত লোক, যাকে দেওয়া হয় এমন পরিমাণ যা তাকে তার শহরে পৌঁছে দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Reasons Behind Eight",
+          "bn": "আটটির পেছনে দুই কারণ"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di closes with the structure under the list, and it is the most useful thing in his entry. Know, he writes, that these eight kinds come back to two matters: one is whoever is given for his own need and benefit, like the poor and the needy and their like; the other is whoever is given because of the need for him and the benefit Islam takes through him. Read that way the workers, the hearts to be won, the mediator and the fighter all belong to one column and the poor to the other.",
+            "bn": "সা'দী শেষ করেন তালিকাটির নিচের গড়নটা দিয়ে, আর তাঁর আলোচনায় সেটাই সবচেয়ে কাজের। তিনি লেখেন, জেনে রাখুন, এ আট শ্রেণি ফিরে যায় দুটি ব্যাপারে: একটি হলো তাকে দেওয়া হয় তার নিজের প্রয়োজন আর উপকারের জন্য, যেমন ফকীর আর মিসকীন আর তাদের মতো লোকেরা; অন্যটি হলো তাকে দেওয়া হয় তার প্রয়োজন পড়ার কারণে আর তার মাধ্যমে ইসলাম যে উপকার পায় সে কারণে। এভাবে পড়লে কর্মীরা, যাদের অন্তর জয় করা দরকার, মধ্যস্থতাকারী আর যোদ্ধা সবাই পড়ে এক কলামে, আর ফকীররা পড়ে অন্যটিতে।"
+          },
+          {
+            "en": "Then his claim about what the system would do if it ran: Allah made this share obligatory in the wealth of the rich to close the particular and the general needs of Islam and the Muslims, and if the rich paid the zakah of their wealth in the lawful manner, no poor Muslim would remain, and there would be from the wealth what guards the frontiers and by which all the religious interests are achieved. It is stated as a consequence of the design rather than as a hope.",
+            "bn": "এরপর তাঁর সেই দাবিটা, ব্যবস্থাটা সত্যিই চললে কী হতো: আল্লাহ ধনীদের সম্পদে এ ভাগটি ফরজ করেছেন ইসলাম আর মুসলিমদের বিশেষ আর সাধারণ প্রয়োজনগুলো মেটাতে; আর ধনীরা যদি নিজেদের সম্পদের যাকাত শরীয়তের নিয়মে আদায় করত, তবে মুসলিমদের মধ্যে কোনো ফকীরই বাকি থাকত না, আর সেই সম্পদ থেকেই পাওয়া যেত যা সীমান্ত পাহারা দেয় আর যা দিয়ে দীনের সব কল্যাণ হাসিল হয়। কথাটা বলা হচ্ছে কোনো আশা হিসেবে নয়, এ গড়নের ফল হিসেবে।"
+          },
+          {
+            "en": "Beside the verse stand others that fill in its first column. 2:273 describes those to be given as poor restricted for the cause of Allah, unable to move about, whom an ignorant person would think self-sufficient because of their restraint. 51:19 puts a right in the wealth of the righteous for the petitioner and the deprived. 59:7 lists shares of a different kind of wealth so that it would not circulate only among the rich. And 2:177 places giving wealth, in spite of love for it, inside the definition of righteousness itself.",
+            "bn": "আয়াতের পাশে দাঁড়ায় আরও কিছু আয়াত, যারা এর প্রথম কলামটা পূরণ করে। ২:২৭৩ আয়াত যাদের দিতে হবে তাদের বর্ণনা দেয় এমন অভাবী হিসেবে যারা আল্লাহর পথে আবদ্ধ, ঘুরে বেড়াতে পারে না, আর আত্মসংযমের কারণে অজ্ঞ লোক যাদের স্বাবলম্বী ভাবে। ৫১:১৯ আয়াত সৎ লোকদের সম্পদে একটি হক রাখে যাঞ্চাকারী আর বঞ্চিতের জন্য। ৫৯:৭ আয়াত অন্য এক ধরনের সম্পদের ভাগগুলো তালিকা করে, যাতে সেটা কেবল ধনীদের মধ্যেই ঘুরপাক না খায়। আর ২:১৭৭ আয়াত ভালোবাসা সত্ত্বেও সম্পদ দেওয়াকে বসিয়ে দেয় নেকির সংজ্ঞার ভেতরেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer Over the Share",
+          "bn": "ভাগটির উপর এক দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse gives no supplication; it gives a schedule and a stamp. What the Quran puts next to it is 9:59, the sentence the complainers should have said and did not: sufficient for us is Allah, Allah will give us of His bounty, and so will His Messenger ﷺ, indeed we are desirous toward Allah. It is the prayer of someone who has just been left out of a distribution, which is exactly the situation this passage was addressing.",
+            "bn": "আয়াতে কোনো দোয়া নেই; আছে একটি তালিকা আর একটি সিল। কুরআন এর পাশে যা রাখে তা ৯:৫৯ আয়াত, সেই বাক্যটি যা অভিযোগকারীদের বলা উচিত ছিল আর তারা বলেনি: আমাদের জন্য আল্লাহই যথেষ্ট, আল্লাহ নিজের অনুগ্রহ থেকে আমাদের দেবেন, আর তাঁর রাসূলও ﷺ; নিশ্চয়ই আমরা আল্লাহর দিকেই চেয়ে আছি। এটি এমন কারও দোয়া, যাকে সদ্য একটি বণ্টন থেকে বাদ রাখা হয়েছে; আর এ অংশ ঠিক ওই পরিস্থিতিটাই সামলাচ্ছিল।"
+          },
+          {
+            "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, put my wealth where You named and not where I would have chosen, and keep me from resenting a share You gave to somebody else. It is assembled from the verse's list and from 9:58's complaint, and it is not a Sunnah du'a. The wording of 9:59 is the safer of the two and was supplied for precisely this use.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আমার সম্পদ সেখানেই রাখুন যেখানে আপনি নাম করেছেন, আমি নিজে যেখানে বাছতাম সেখানে নয়; আর আপনি অন্য কাউকে যে ভাগ দিয়েছেন তা নিয়ে আমাকে হিংসা করতে দেবেন না। এটি আয়াতের তালিকা আর ৯:৫৮ আয়াতের অভিযোগ জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। ৯:৫৯ আয়াতের শব্দগুলোই দুটোর মধ্যে বেশি নিরাপদ, আর সেগুলো দেওয়াই হয়েছিল ঠিক এ কাজে লাগানোর জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Eight Doors",
+          "bn": "আট দরজা নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Eight doors are named and most of us know one. Which of the eight have I actually thought about since the last time I paid? One share is a wage for administering it and one is for a mediator's debt, so does my idea of charity have room for anything that is not simply feeding a hungry person? And the list is closed by the word it opens with: have I ever sent zakah somewhere because it felt worthy rather than because it was named?",
+            "bn": "আটটি দরজার নাম আসে, আর আমাদের অধিকাংশই একটা চেনে। শেষ যেবার যাকাত দিয়েছি, তার পর থেকে আটটির কোনটি নিয়ে আমি আসলে ভেবেছি? একটি ভাগ এটি পরিচালনার মজুরি আর একটি মধ্যস্থতাকারীর ঋণের জন্য; তাহলে দান নিয়ে আমার ধারণায় কেবল ক্ষুধার্তকে খাওয়ানো ছাড়া আর কিছুর জায়গা আছে কি? আর তালিকাটি বন্ধ করে দেয় যে শব্দ দিয়ে সেটি শুরু, সেটাই: আমি কি কখনো এমন কোথাও যাকাত পাঠিয়েছি, নাম করা ছিল বলে নয়, বরং যোগ্য মনে হয়েছিল বলে?"
+          },
+          {
+            "en": "Two more. The verse ends on His knowledge and His wisdom rather than on anyone's satisfaction, so what in the distribution of resources around me am I quietly certain I could arrange better? And the complaint that occasioned all of this came from men who wanted a share: when I object to how something has been divided, what am I actually objecting to?",
+            "bn": "আরও দুটি। আয়াত শেষ হয় কারও সন্তুষ্টিতে নয়, তাঁর জানা আর তাঁর হিকমতে; তাহলে আমার আশপাশের সম্পদ বণ্টনের কোন জায়গাটা আমি চুপচাপ নিশ্চিত যে আমি আরও ভালো সাজাতে পারতাম? আর এ সবের উপলক্ষ যে অভিযোগ, তা এসেছিল এমন লোকদের কাছ থেকে যারা নিজেদের ভাগ চাইছিল: কোনো কিছুর বণ্টন নিয়ে আমি যখন আপত্তি করি, আসলে আমার আপত্তিটা কী নিয়ে?"
+          }
+        ]
+      }
+    ]
+  },
   "9:105": {
     "sections": [
       {

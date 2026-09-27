@@ -6963,6 +6963,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Do not read comfort as approval; a thing can be charging its owner the whole time it is being envied, and the owner is the last to know.",
     "lessonBn": "আরামকে সন্তুষ্টির চিহ্ন বলে পড়বেন না। কোনো জিনিস যতক্ষণ ধরে হিংসা কুড়োয়, ততক্ষণ সে তার মালিকের কাছ থেকে দাম নিতেই থাকতে পারে; আর মালিকই সেটা জানে সবার শেষে।"
+  },
+  "9:60": {
+    "reflectionEn": "Eight shares are named and the list is closed by the word it opens with: zakah is only for these. Two are named for their poverty, one for the work of collecting it, one for hearts that need winning, one for necks that need freeing, one for debts, one for the path of Allah, and one for the traveller stranded away from home. Then the verse stamps it, an obligation from Allah, and closes on His knowledge and wisdom. Nobody's opinion was asked, which is exactly the point: the people complaining about the distribution were told who had drawn it up.",
+    "reflectionBn": "আটটি ভাগের নাম আসে, আর তালিকাটি বন্ধ করে দেয় যে শব্দ দিয়ে সেটি শুরু, সেটাই: যাকাত কেবল এদেরই জন্য। দুজনের নাম আসে তাদের অভাবের জন্য, একজনের যাকাত আদায়ের কাজের জন্য, একজনের সেই অন্তরগুলোর জন্য যা জয় করা দরকার, একজনের সেই গর্দানগুলোর জন্য যা মুক্ত করা দরকার, একজনের ঋণের জন্য, একজনের আল্লাহর পথের জন্য, আর একজনের সেই মুসাফিরের জন্য যে ঘর থেকে দূরে আটকে গেছে। এরপর আয়াত এতে সিল মেরে দেয়, আল্লাহর পক্ষ থেকে ফরজ, আর শেষ হয় তাঁর জানা আর হিকমতে। কারও মত চাওয়া হয়নি, আর ওটাই আসল কথা: বণ্টন নিয়ে যারা অভিযোগ করছিল, তাদের জানিয়ে দেওয়া হলো তালিকাটা কে বানিয়েছেন।",
+    "pointsEn": [
+      "Eight doors are named and I probably know one. Which of the eight have I actually thought about since the last time I paid?",
+      "One share is for winning hearts and one is for a mediator's debt. Does my idea of charity have room for anything that is not simply feeding the hungry?",
+      "The list is closed. Have I ever given zakah somewhere because it felt worthy rather than because it was named?",
+      "It ends on His knowledge and wisdom, not on our satisfaction. What in the distribution of resources around me am I quietly sure I could arrange better?",
+      "The complaint that occasioned it came from people who wanted a share. When I object to how something was divided, what am I actually objecting to?"
+    ],
+    "pointsBn": [
+      "আটটি দরজার নাম আসে, আর আমি হয়তো একটাই চিনি। শেষ যেবার যাকাত দিয়েছি, তার পর থেকে আটটির কোনটি নিয়ে আমি আসলে ভেবেছি?",
+      "একটি ভাগ অন্তর জয় করার জন্য, আর একটি মধ্যস্থতাকারীর ঋণের জন্য। দান নিয়ে আমার ধারণায় ক্ষুধার্তকে খাওয়ানো ছাড়া আর কিছুর জায়গা আছে কি?",
+      "তালিকাটি বন্ধ। আমি কি কখনো এমন কোথাও যাকাত দিয়েছি, যেটা নাম করা ছিল বলে নয়, বরং যোগ্য মনে হয়েছিল বলে?",
+      "আয়াত শেষ হয় তাঁর জানা আর হিকমতে, আমাদের সন্তুষ্টিতে নয়। আমার আশপাশের সম্পদ বণ্টনের কোন জায়গাটা আমি চুপচাপ ভাবি যে আমি আরও ভালো সাজাতে পারতাম?",
+      "এর উপলক্ষ যে অভিযোগ, তা এসেছিল এমন লোকদের কাছ থেকে যারা নিজেদের ভাগ চাইছিল। কোনো কিছুর বণ্টন নিয়ে আমি যখন আপত্তি করি, আসলে আমার আপত্তিটা কী নিয়ে?"
+    ],
+    "lessonEn": "The eight shares were fixed by the One who knows, not by whoever is most persuasive about needing them; learn the list before deciding where your zakah goes.",
+    "lessonBn": "আটটি ভাগ ঠিক করেছেন যিনি জানেন তিনিই, দরকারের কথা সবচেয়ে ভালো বোঝাতে পারে এমন কেউ নয়। যাকাত কোথায় যাবে ঠিক করার আগে তালিকাটা শিখে নিন।"
   }
 };
 
