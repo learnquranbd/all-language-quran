@@ -415,6 +415,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:19": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Last Word to the Beaten",
+          "bn": "পরাজিতদের উদ্দেশে শেষ কথা"
+        },
+        "p": [
+          {
+            "en": "Al-Anfal is Madinan, and this stretch of it is the debriefing of Badr. Two verses earlier the believers are told that they did not kill the enemy, Allah did, and that the throw was not the Prophet's own throw; 8:18 adds that Allah weakens the plot of those who disbelieve. Then the surah turns its face and speaks to the defeated side directly. This is the last thing said to them before 8:20 turns back to the believers with a command to obey.",
+            "bn": "সূরা আনফাল মাদানী, আর এর এই অংশটা বদরের পর্যালোচনা। দুই আয়াত আগে মু'মিনদের বলা হয়েছে, তারা শত্রুকে হত্যা করেনি, আল্লাহই করেছেন, আর নিক্ষেপটাও নবীর ﷺ নিজের নিক্ষেপ ছিল না। ৮:১৮ আয়াত যোগ করে, আল্লাহ কাফিরদের ষড়যন্ত্র অকেজো করে দেন। এরপর সূরা মুখ ফিরিয়ে সরাসরি পরাজিত পক্ষের সঙ্গে কথা বলে। ৮:২০ আয়াতে আবার মু'মিনদের দিকে ফিরে আনুগত্যের হুকুম আসার আগে এটাই তাদের উদ্দেশে শেষ কথা।"
+          },
+          {
+            "en": "The occasion is established and it is unusual, because the verse answers a prayer that the losing side had made. Ibn Kathir traces it through az-Zuhri from Abdullah ibn Tha'laba ibn Su'ayr: on the day of Badr Abu Jahl said, O Allah, whichever of us severed the ties of the womb and brought what is not known, destroy him this day. As-Suddi adds an earlier scene. Before leaving Makkah the idolaters held the coverings of the Ka'ba and asked Allah to give victory to the mightier of the two armies.",
+            "bn": "এ আয়াতের শানে নুযূল প্রতিষ্ঠিত, আর ব্যাপারটা অন্যরকম, কারণ আয়াতটি জবাব দিচ্ছে পরাজিত পক্ষেরই এক দোয়ার। ইবনু কাসীর এর সূত্র টানেন যুহরী থেকে, আবদুল্লাহ ইবনু সা'লাবা ইবনু সুআইর থেকে: বদরের দিন আবূ জাহল বলেছিল, হে আল্লাহ, আমাদের মধ্যে যে আত্মীয়তার বন্ধন ছিঁড়েছে আর অচেনা জিনিস নিয়ে এসেছে, আজ তাকেই ধ্বংস করুন। সুদ্দী এর আগের আরেকটি দৃশ্য যোগ করেন। মক্কা ছাড়ার আগে মুশরিকরা কা'বার গিলাফ ধরে আল্লাহর কাছে চেয়েছিল, দুই বাহিনীর মধ্যে যেটি বেশি শক্তিশালী আর দুই দলের মধ্যে যেটি বেশি সম্মানিত, তাকেই জয় দিন।"
+          },
+          {
+            "en": "Al-Qurtubi records both accounts and declines to choose between them, writing that there is no contradiction, since they may have done both. That is the state of the evidence and this article leaves it there. What matters for reading the verse is the shape of what they asked for. It was not a request for their own side to win. It was a request for judgment, staked on the confidence that the other man was the wrongdoer and that heaven would say so.",
+            "bn": "কুরতুবী দুটি বর্ণনাই রাখেন, আর কোনোটি বাছাই করতে যান না। তিনি লেখেন, এতে বিরোধ নেই, কারণ তারা দুটোই করে থাকতে পারে। দলিলের অবস্থা এটাই, আর এ লেখাও সেখানেই রেখে দিচ্ছে। আয়াত বুঝতে আসল কথা হলো তারা কী চেয়েছিল তার ধরনটা। এটা নিজের পক্ষের জয় চাওয়া ছিল না। এটা ছিল রায় চাওয়া, আর সেই চাওয়ার ভরসা ছিল এই বিশ্বাসে যে অন্যায়টা অন্য লোকটার, আর আসমান সেটাই বলে দেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Root, Two Outcomes",
+          "bn": "এক ধাতু, দুই পরিণতি"
+        },
+        "p": [
+          {
+            "en": "The verb and the noun are cut from one root. Istaftahu and al-fath both come from f-t-h, to open, and in this vocabulary the opening runs two ways at once: a verdict handed down and a victory handed over. English cannot hold both in one word, so the translation says decision twice and lets the brackets carry the difference between the decision they wanted and the decision that came. Ad-Dahhak and Ikrimah gloss the clause by swapping in another root altogether: if you sought a judgment, the judgment has come to you.",
+            "bn": "ক্রিয়া আর বিশেষ্য দুটোই এক ধাতু থেকে কাটা। ইসতাফতিহূ আর আল-ফাত্হ, দুটোরই মূল ফ-ত-হ, অর্থ খোলা। এ শব্দভাণ্ডারে সেই খোলা একসঙ্গে দুদিকে যায়: এক দিকে নেমে আসা রায়, অন্য দিকে হাতে তুলে দেওয়া জয়। ইংরেজি এক শব্দে দুটো ধরে রাখতে পারে না, তাই সেখানে দুবার মীমাংসা শব্দটি আসে, আর তারা যে মীমাংসা চেয়েছিল আর যে মীমাংসা এসেছে, এ দুইয়ের ফারাক বোঝাতে বন্ধনী লাগে। দাহহাক আর ইকরিমা এ অংশটির ব্যাখ্যায় একেবারে অন্য ধাতু বসিয়ে দেন: তোমরা ফয়সালা চেয়েছিলে, ফয়সালা তোমাদের কাছে এসে গেছে।"
+          },
+          {
+            "en": "Then fi'atukum, your company. A fi'ah is a band, a body of men who stand together, and the word itself says nothing about size; the verse has to add wa law kathurat, even if it should grow numerous, to cover the thing they had been relying on. The clause does not claim their numbers were small, and it does not deny that numbers matter in a fight. It says the numbers will not make them independent of Allah, which is what the verb tughni carries.",
+            "bn": "এরপর ফিআতুকুম, তোমাদের দল। ফিআ মানে একদল লোক যারা একসঙ্গে দাঁড়ায়, আর শব্দটি নিজে সংখ্যার কথা কিছুই বলে না। তাই আয়াতকে যোগ করতে হয় ওয়া লাও কাসুরাত, সংখ্যায় বেড়ে গেলেও, যাতে তারা যার উপর ভরসা করছিল সেটাও ধরা পড়ে। এ অংশ বলছে না যে তাদের সংখ্যা কম ছিল, আর যুদ্ধে সংখ্যার কোনো দাম নেই তাও অস্বীকার করছে না। এটা বলছে, সংখ্যা তাদের আল্লাহর মুখাপেক্ষিতা থেকে মুক্ত করবে না। তুগনী ক্রিয়াটি এ কথাই বহন করে।"
+          },
+          {
+            "en": "The condition and its answer are built to mirror each other. In ta'udu na'ud, if you return We return, the same verb twice, the second in the form that answers a condition, and neither one is given an object. Whatever they come back to, He comes back to. Al-Qurtubi also notes the two readings of the closing clause: with a fatha it reads as a reason and hangs on what 8:18 says about the plot being weakened, and with a kasra it begins a fresh sentence.",
+            "bn": "শর্ত আর তার জবাব একে অন্যের আয়নার মতো গড়া। ইন তাঊদূ নাউদ, তোমরা ফিরে এলে আমিও ফিরে আসব। একই ক্রিয়া দুবার, দ্বিতীয়টি শর্তের জবাবের রূপে, আর কোনোটির সঙ্গেই কোনো কর্ম বসানো হয়নি। তারা যার দিকে ফিরবে, তিনিও তার দিকেই ফিরবেন। কুরতুবী শেষ অংশটির দুটি কিরাআতও তুলে ধরেন: যবরসহ পড়লে এটা কারণ বোঝায় আর ৮:১৮ আয়াতের ষড়যন্ত্র অকেজো করার কথার সঙ্গে ঝুলে থাকে, আর যেরসহ পড়লে এটা নতুন বাক্য শুরু করে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Is Being Addressed",
+          "bn": "কথাটা কাকে বলা হচ্ছে"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reads the address as spoken to the idolaters who fought at Badr, and he unpacks the request they had made: if you seek Allah's ruling against whichever of the two parties is more severing of kinship and more unjust, then Allah's ruling has come, His giving victory to the wronged over the wronger and to the truthful over the false. He transmits the same reading from ad-Dahhak, Ikrimah, Mujahid and Qatadah, and Qatadah's sentence is the shortest of them: Badr was a verdict, and a lesson for whoever takes lessons.",
+            "bn": "তাবারী এ সম্বোধনকে পড়েন বদরে যুদ্ধ করা মুশরিকদের উদ্দেশে বলা কথা হিসেবে, আর তারা কী চেয়েছিল সেটা তিনি খুলে দেন: দুই দলের মধ্যে যে বেশি আত্মীয়তা ছিন্নকারী আর বেশি জালিম, তার বিরুদ্ধে যদি তোমরা আল্লাহর রায় চাও, তবে আল্লাহর রায় এসে গেছে, মজলুমকে জালিমের উপর আর সত্যপন্থীকে মিথ্যাপন্থীর উপর তাঁর জয় দেওয়া। এই একই পাঠ তিনি দাহহাক, ইকরিমা, মুজাহিদ ও কাতাদা থেকে বর্ণনা করেন, আর কাতাদার কথাটাই সবচেয়ে ছোট: বদর ছিল এক ফয়সালা, আর যে শিক্ষা নেয় তার জন্য শিক্ষা।"
+          },
+          {
+            "en": "From Ibn Abbas (RA) at-Tabari carries two glosses, one taking the clause as a request for a verdict and the other as a request for reinforcement, and he records that when Ibn Abbas (RA) was asked whether the address was to the idolaters he answered that he knew it only as that. As-Sa'di works in the same direction and states the irony plainly: they asked Allah to bring His might and His punishment down on the transgressing wrongdoers, and it came down on them.",
+            "bn": "ইবনু আব্বাস (রাঃ) থেকে তাবারী দুটি ব্যাখ্যা আনেন। একটিতে এ অংশ রায় চাওয়া, অন্যটিতে সাহায্য চাওয়া। তিনি এটাও লিখে রাখেন, ইবনু আব্বাসকে (রাঃ) যখন জিজ্ঞেস করা হলো সম্বোধনটা মুশরিকদের কি না, তিনি বলেছিলেন, এ ছাড়া অন্য কিছু আমার জানা নেই। সা'দী একই দিকে এগোন, আর ব্যাপারটার মোচড় সোজা কথায় বলে দেন: তারা আল্লাহর কাছে চেয়েছিল সীমালঙ্ঘনকারী জালিমদের উপর তাঁর শক্তি আর শাস্তি নেমে আসুক, আর সেটা নেমে এসেছিল তাদেরই উপর।"
+          },
+          {
+            "en": "Al-Qurtubi is the one who lays out a real disagreement, and he gives three positions. That the address is to the disbelievers, which he attributes to al-Hasan, Mujahid and others. That it is to the believers, so that desisting means desisting from what some of them did in taking spoils and captives before permission, and We will return means We will return to rebuking you. And that the opening clause speaks to the believers while the rest speaks to the disbelievers. He then quotes al-Qushayri: the correct view is that it addresses the disbelievers.",
+            "bn": "আসল মতভেদটা সাজিয়ে দেন কুরতুবী, আর তিনি তিনটি মত দেন। এক, সম্বোধন কাফিরদের; এ মত তিনি হাসান, মুজাহিদ ও অন্যদের দিকে নিসবত করেন। দুই, সম্বোধন মু'মিনদের, তাহলে বিরত হওয়া মানে অনুমতির আগে গনীমত আর বন্দী নেওয়ার যে কাজ তাদের কেউ করেছিল তা থেকে বিরত হওয়া, আর আমিও ফিরে আসব মানে তোমাদের ধমক দেওয়ায় ফিরে আসব। তিন, শুরুর অংশ মু'মিনদের উদ্দেশে আর বাকিটা কাফিরদের উদ্দেশে। এরপর তিনি কুশাইরীর কথা তুলে দেন: সহীহ মত হলো, এটা কাফিরদের উদ্দেশেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Report Actually Is",
+          "bn": "বর্ণনাটি আসলে কী"
+        },
+        "p": [
+          {
+            "en": "The four tafsirs consulted for this verse attach no saying of the Prophet ﷺ to it, and that is worth stating rather than filling with something borrowed. What they do attach is a report about a man's speech. Ibn Kathir names the chain, Ibn Ishaq and others through az-Zuhri from Abdullah ibn Tha'laba ibn Su'ayr, and then says where it is collected: Imam Ahmad recorded it in his Musnad, an-Nasa'i in the tafsir section of his Sunan, and al-Hakim brought it in the Mustadrak.",
+            "bn": "এ আয়াতের জন্য দেখা চারটি তাফসীরের কোনোটি এ আয়াতের সঙ্গে নবীর ﷺ কোনো বাণী জুড়ে দেয় না। কথাটা বলে দেওয়াই ভালো, বাইরে থেকে কিছু এনে জায়গা ভরাটের চেয়ে। তারা যা জোড়েন তা একজন মানুষের কথার বর্ণনা। ইবনু কাসীর সনদটি বলে দেন, ইবনু ইসহাক ও অন্যরা যুহরী থেকে, আবদুল্লাহ ইবনু সা'লাবা ইবনু সুআইর থেকে। তারপর কোথায় এটি সংকলিত তাও বলেন: ইমাম আহমাদ নিজের মুসনাদে, নাসাঈ নিজের সুনানের তাফসীর অংশে, আর হাকিম তাঁর মুসতাদরাকে।"
+          },
+          {
+            "en": "Al-Hakim's verdict is worth quoting as his own and not as anyone else's: sahih by the criteria of the two Shaykhs, though the two of them did not record it. That second half is the part a reader should keep, because it says exactly where the report stands. It is in neither Sahih, it is graded by a later collector, and what it preserves is not a ruling or a promise but the sentence a man shouted in a battle line. The weight of the verse does not rest on it.",
+            "bn": "হাকিমের রায়টি তাঁরই রায় হিসেবে তুলে ধরাই ঠিক, অন্য কারও হিসেবে নয়: দুই শাইখের শর্ত অনুযায়ী সহীহ, যদিও তাঁরা দুজন এটি সংকলন করেননি। শেষ অর্ধেকটাই পাঠকের মনে রাখার মতো, কারণ ওটাই বলে দেয় বর্ণনাটির অবস্থান ঠিক কোথায়। এটি কোনো সহীহ গ্রন্থে নেই, এর মান দিয়েছেন পরের যুগের এক সংকলক, আর এতে যা রক্ষা পেয়েছে তা কোনো বিধান বা ওয়াদা নয়, যুদ্ধের কাতারে দাঁড়িয়ে এক লোকের চিৎকার করে বলা একটি বাক্য। আয়াতের ভার এর উপর দাঁড়িয়ে নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses That Answer Back",
+          "bn": "যে আয়াতগুলো জবাব দেয়"
+        },
+        "p": [
+          {
+            "en": "8:32 belongs beside this verse and the commentators put it there. It records another of their prayers: O Allah, if this should be the truth from You, then rain down upon us stones from the sky. Set next to our verse it turns an incident into a habit, a settled readiness to dare Allah to close the matter. 8:36 shows the same confidence spent in another currency, wealth poured out to turn people from the way of Allah, and ending in regret.",
+            "bn": "৮:৩২ আয়াত এ আয়াতের পাশেই বসে, আর মুফাসসিরগণ সেখানেই বসিয়েছেন। ওটি তাদের আরেকটি দোয়া লিখে রাখে: হে আল্লাহ, এটা যদি তোমার কাছ থেকে আসা সত্য হয়, তবে আমাদের উপর আসমান থেকে পাথর বর্ষণ কর। আমাদের আয়াতের পাশে রাখলে এটা একটা ঘটনাকে স্বভাবে বদলে দেয়, আল্লাহকে চ্যালেঞ্জ করে বিষয়টা মিটিয়ে ফেলতে বলার এক পাকা অভ্যাসে। ৮:৩৬ আয়াত সেই একই আত্মবিশ্বাস দেখায় অন্য মুদ্রায় খরচ হতে, আল্লাহর পথ থেকে লোক ফেরাতে ঢালা সম্পদ, যার শেষ আফসোসে।"
+          },
+          {
+            "en": "17:8 carries the same clause almost word for word, spoken about the Children of Israel: but if you return, We will return. That makes the sentence a standing rule rather than a threat aimed at Quraysh alone. 9:25 is the sharpest of the sisters, because it turns the warning toward the believers themselves: on the day of Hunayn your great numbers pleased you, and they did not avail you at all. The verb about availing is the one our verse uses.",
+            "bn": "১৭:৮ আয়াত প্রায় হুবহু একই কথা বহন করে, তবে বলা হয়েছে বানী ইসরাঈল সম্পর্কে: তোমরা যদি আবার কর, আমিও আবার করব। এতে বাক্যটি কুরাইশের দিকে ছোঁড়া কোনো হুমকি না থেকে দাঁড়িয়ে যাওয়া নিয়মে পরিণত হয়। বোনদের মধ্যে সবচেয়ে ধারালো ৯:২৫ আয়াত, কারণ ওটি হুঁশিয়ারিটা মু'মিনদের নিজেদের দিকেই ঘুরিয়ে দেয়: হুনায়নের দিন তোমাদের সংখ্যাধিক্য তোমাদের মাতোয়ারা করেছিল, আর তা তোমাদের কোনো কাজেই আসেনি। কাজে আসা নিয়ে যে ক্রিয়া, আমাদের আয়াতও সেটাই ব্যবহার করে।"
+          },
+          {
+            "en": "8:12 supplies the closing clause from the other side, where Allah tells the angels I am with you, so strengthen those who have believed; al-Qurtubi's reading with a fatha ties our clause into that neighbourhood. 3:13 stands a little further off and looks back at the same field, calling the two armies a sign for those with eyes, one fighting in the cause of Allah and the other of disbelievers, with the count looking one way and the outcome going the other.",
+            "bn": "৮:১২ আয়াত শেষ অংশটাকে অন্য দিক থেকে ধরিয়ে দেয়। সেখানে আল্লাহ ফেরেশতাদের বলেন, আমি তোমাদের সঙ্গে আছি, সুতরাং মু'মিনদের দৃঢ় রাখ। কুরতুবীর যবরসহ পাঠ আমাদের অংশটিকে ওই পাড়ার সঙ্গেই বেঁধে দেয়। ৩:১৩ আয়াত একটু দূরে দাঁড়িয়ে একই মাঠের দিকে ফিরে তাকায়, আর দুই বাহিনীকে বলে চোখ আছে যাদের তাদের জন্য নিদর্শন, এক দল লড়ছে আল্লাহর পথে আর অন্য দল কুফরের পথে, যেখানে সংখ্যা এক কথা বলে আর ফলাফল যায় উল্টো দিকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Door in the Middle",
+          "bn": "মাঝখানের দরজা"
+        },
+        "p": [
+          {
+            "en": "The first thing to take from the verse is a caution about the prayer itself. Asking for a matter to be settled sounds pious and can be the least examined thing a person does all year. They asked for the more kin-severing of the two parties to be destroyed, and the request was granted precisely, which is the risk built into that kind of asking. Before praying for a settlement, it is worth saying out loud which side of the settlement you expect to be standing on.",
+            "bn": "এ আয়াত থেকে প্রথম যা নেওয়ার, তা এই দোয়া নিয়েই একটা সতর্কতা। কোনো বিষয়ের ফয়সালা চাওয়া শুনতে দীনদারির মতো লাগে, অথচ সারা বছরে মানুষ যা যা করে তার মধ্যে এটাই হতে পারে সবচেয়ে কম যাচাই করা কাজ। তারা চেয়েছিল দুই দলের মধ্যে যে বেশি আত্মীয়তা ছিন্নকারী সে ধ্বংস হোক, আর চাওয়াটা অক্ষরে অক্ষরে কবুল হয়েছিল। এ ধরনের চাওয়ার ভেতরেই ঝুঁকিটা গাঁথা। ফয়সালা চাওয়ার আগে মুখে বলে নেওয়া ভালো, সেই ফয়সালায় আপনি কোন পাশে থাকার আশা করছেন।"
+          },
+          {
+            "en": "The second is the door standing in the middle of the verse. And if you desist, it is best for you, spoken to men who had just been beaten in the field, and worded as their benefit rather than as terms handed to a loser. The Quran does not close the account here. It names an exit and recommends it in the same breath as the warning. Anyone carrying a grievance against people who tried to harm them has a model in that clause.",
+            "bn": "দ্বিতীয়টি আয়াতের মাঝখানে দাঁড়িয়ে থাকা দরজা। আর যদি তোমরা বিরত হও, তবে তা তোমাদের জন্যই ভালো। কথাটা বলা হচ্ছে সদ্য মাঠে মার খাওয়া লোকদের, আর বলা হচ্ছে তাদের লাভ হিসেবে, পরাজিতের হাতে ধরিয়ে দেওয়া শর্ত হিসেবে নয়। কুরআন এখানে হিসাব বন্ধ করে দেয় না। হুঁশিয়ারির সঙ্গে একই শ্বাসে সে বেরিয়ে আসার পথ দেখায় আর সেটারই পরামর্শ দেয়। যারা তার ক্ষতি করতে চেয়েছিল তাদের বিরুদ্ধে মনে ক্ষোভ পুষে রাখা যে কারও জন্য এ অংশে একটা নমুনা আছে, আর সেটা দেখতে যতটা সহজ লাগে, করতে ততটা নয়।"
+          },
+          {
+            "en": "The third comes from as-Sa'di and it changes how the last clause is heard. Whoever has Allah with him is the one given victory, he writes, even if he is weak and few in number; then he adds that this accompaniment is according to the deeds of faith the believers actually carry out. So when an enemy prevails over them at some times, that is from their own shortcoming and not a failure in the promise. Read that way the clause is a standard to be met rather than a guarantee to be held.",
+            "bn": "তৃতীয়টি আসে সা'দীর কাছ থেকে, আর তা শেষ অংশটা শোনার ধরনই বদলে দেয়। তিনি লেখেন, আল্লাহ যার সঙ্গে আছেন সে-ই জয়ী, সে দুর্বল হোক আর সংখ্যায় কম হোক। এরপর তিনি যোগ করেন, এই সঙ্গে থাকাটা মু'মিনরা ঈমানের যেসব আমল সত্যিই আদায় করে তার মাপেই হয়। তাই কোনো সময় শত্রু তাদের উপর প্রবল হলে সেটা তাদের নিজেদের ঘাটতি থেকেই, ওয়াদার কোনো ত্রুটি থেকে নয়। এভাবে পড়লে এ অংশ হাতে ধরে রাখার নিশ্চয়তা নয়, পূরণ করার মতো এক মান।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking Without Daring",
+          "bn": "চাওয়া, তবে চ্যালেঞ্জ নয়"
+        },
+        "p": [
+          {
+            "en": "This verse is not a supplication and will not become one; it is a warning with an opening left inside it. The Quran supplies the prayer that belongs on the other side of this scene at 3:147, where the people who held their ground are quoted as saying only this: our Lord, forgive us our sins and the excess committed in our affairs, and plant our feet firmly, and give us victory over the disbelieving people. The order of the three requests is the lesson.",
+            "bn": "এ আয়াত কোনো দোয়া নয় আর হবেও না; এটি হুঁশিয়ারি, যার ভেতরে একটা ফাঁক খোলা রাখা আছে। এ দৃশ্যের উল্টো পাশে যে দোয়া মানায়, কুরআন তা দেয় ৩:১৪৭ আয়াতে। যারা নিজেদের জায়গায় টিকে ছিল, তাদের মুখ থেকে কেবল এ কথাই উদ্ধৃত হয়েছে: হে আমাদের রব, আমাদের গুনাহ আর আমাদের কাজে বাড়াবাড়িগুলো মাফ করে দাও, আমাদের পা মজবুত রাখ, আর কাফির দলের উপর আমাদের সাহায্য কর। তিনটি চাওয়ার ক্রমটাই এখানে শিক্ষা।"
+          },
+          {
+            "en": "If you want this verse's caution in a sentence of your own, it can be said in the verse's own vocabulary and offered as nothing more than that: O Allah, do not let me ask You for a verdict I have not first weighed against myself, and if a verdict falls against me, make me one who desists rather than one who returns. That is a supplication put together from the words of the verse. It is not a Sunnah du'a and must not be passed on as one.",
+            "bn": "এ আয়াতের সতর্কতাটুকু যদি নিজের একটা বাক্যে চান, তবে আয়াতের শব্দ দিয়েই বলা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, এমন কোনো ফয়সালা আপনার কাছে চাইতে দেবেন না যা আগে নিজের উপর মেপে দেখিনি; আর ফয়সালা যদি আমার বিপক্ষেই আসে, আমাকে বানান তাদের একজন যারা বিরত হয়, তাদের নয় যারা আবার ফিরে আসে। এটি আয়াতের শব্দ জুড়ে বানানো একটি দোয়া। এটি সুন্নাহর দোয়া নয়, আর সুন্নাহর দোয়া বলে চালানোও যাবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Own Asking",
+          "bn": "নিজের চাওয়া নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "When did I last ask for a matter to be settled without first asking myself which side of the settlement I would be standing on? If something I pushed hard for turned out badly, did I read that outcome as an answer, or file it away as bad luck and keep pushing? And is there anything in my life right now that I have been calling a defeat, when this verse would call it an opening and tell me to take it?",
+            "bn": "শেষ কবে আমি কোনো বিষয়ের ফয়সালা চেয়েছি, অথচ আগে নিজেকে জিজ্ঞেস করিনি সেই ফয়সালায় আমি কোন পাশে দাঁড়িয়ে থাকব? যে কাজের পেছনে জোর দিয়ে লেগে ছিলাম সেটা খারাপ হলে আমি কি সেই পরিণামকে জবাব হিসেবে পড়েছি, নাকি কপাল বলে সরিয়ে রেখে আবার একই জোর দিয়েছি? আর আমার জীবনে এখন এমন কিছু আছে কি, যাকে আমি হার বলে ডাকছি, অথচ এ আয়াত তাকে বলত খোলা পথ আর বলত সেটা ধরে নাও?"
+          },
+          {
+            "en": "Two more, closer to the bone. What is the company I am actually leaning on, the backing or the group or the numbers whose size quietly settles my nerves, and what would be left standing if it were taken away tomorrow? And if Allah's being with the believers is measured by what they actually do, then what in this week of mine would be counted on that side of it?",
+            "bn": "আরও দুটি, একটু বেশি গায়ে লাগার মতো। আমি আসলে কোন দলের উপর হেলান দিয়ে আছি? সেই সমর্থন, সেই জমায়েত, সেই সংখ্যা, যার আকার চুপচাপ আমার স্নায়ু ঠান্ডা রাখে। কাল যদি ওটা সরে যায়, দাঁড়িয়ে থাকবে কী? আর মু'মিনদের সঙ্গে আল্লাহর থাকার মাপ যদি তাদের আমলই হয়, তবে আমার এই সপ্তাহের কোন কাজটা ওই পাশে গোনা হবে?"
+          }
+        ]
+      }
+    ]
+  },
   "8:24": {
     "sections": [
       {

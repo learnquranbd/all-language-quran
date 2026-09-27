@@ -6663,6 +6663,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Their evidence was the man they had lived with; the verse asks only that they think, and describes the Prophet ﷺ as nothing more than a clear warner.",
     "lessonBn": "তাদের প্রমাণ ছিল সেই মানুষটিই যার সঙ্গে তারা থেকেছে; আয়াত কেবল ভাবতে বলে, আর নবী ﷺ-এর পরিচয় দেয় স্পষ্ট এক সতর্ককারী হিসেবেই।"
+  },
+  "8:19": {
+    "reflectionEn": "Four sentences, and each one is an offer or a warning. You wanted a decision; the decision has arrived, and it did not fall the way you asked for it. Stop here, and stopping is better for you. Come back, and We come back. Bring more men next time and the count will settle nothing, because a count is not what settled this. Then the reason, put last: Allah is with the believers. Notice what the verse does not do. It does not gloat and it does not pass a final sentence. In the middle of an address to people who have just lost, it names a way out and words it as their own good.",
+    "reflectionBn": "চারটি বাক্য, আর প্রতিটিই হয় সুযোগ, নয় হুঁশিয়ারি। তোমরা মীমাংসা চেয়েছিলে; মীমাংসা এসে গেছে, তবে তোমরা যেভাবে চেয়েছিলে সেভাবে নয়। এখানেই থেমে যাও, থেমে যাওয়াটাই তোমাদের জন্য ভালো। আবার এলে আমিও আবার আসব। পরের বার আরও লোক জোগাড় করলেও সংখ্যা কিছুই মেটাবে না, কারণ সংখ্যা দিয়ে এ ফয়সালা হয়নি। কারণটা আয়াত রাখে সবার শেষে: আল্লাহ মু'মিনদের সঙ্গে আছেন। আয়াতটি যা করে না সেটাও খেয়াল করার মতো। এতে বিজয়ের অহংকার নেই, শেষ রায়ও শোনানো হয়নি। যারা সদ্য হেরেছে তাদের উদ্দেশেই কথা বলতে বলতে আয়াত একটা বেরিয়ে আসার পথ দেখিয়ে দেয়, আর সেটাকে বলে তাদেরই কল্যাণ।",
+    "pointsEn": [
+      "When did I last ask for a matter to be settled without asking myself which side of the settlement I would be standing on?",
+      "Something I pushed hard for went badly. Did I read that as an answer, or file it away as bad luck?",
+      "What is the company I am quietly relying on — the backing, the numbers, the group whose size reassures me — and what would be left if it were taken?",
+      "Is there an open door in my life right now that I have been treating as a defeat?",
+      "If being with the believers is measured by what they actually do, what in this week of mine would be counted on that side?"
+    ],
+    "pointsBn": [
+      "শেষ কবে কোনো বিষয়ের ফয়সালা চেয়েছি, অথচ নিজেকে জিজ্ঞেস করিনি সেই ফয়সালায় আমি কোন পাশে দাঁড়িয়ে থাকব?",
+      "যে কাজটার পেছনে জোর দিয়ে লেগেছিলাম, সেটা খারাপ হলো। আমি কি সেটাকে জবাব হিসেবে পড়েছি, নাকি কপাল বলে সরিয়ে রেখেছি?",
+      "আমি চুপচাপ কোন দলের উপর ভরসা করে আছি? পেছনের সমর্থন, সংখ্যা, যে জমায়েতের আকার আমাকে আশ্বস্ত রাখে। ওটা সরে গেলে হাতে কী থাকে?",
+      "আমার জীবনে এখন এমন কোনো খোলা দরজা আছে কি, যাকে আমি হার বলে ধরে নিয়েছি?",
+      "মু'মিনদের সঙ্গে থাকার মাপ যদি তাদের আমল হয়, তবে আমার এই সপ্তাহের কোন কাজটা ওই পাশে গোনা হবে?"
+    ],
+    "lessonEn": "Ask for a verdict only if you are willing to receive it; and when one lands against you, the verse's next clause is still an open door.",
+    "lessonBn": "ফয়সালা চাইবেন কেবল তখনই, যখন সেটা নিজের উপর নিতে রাজি আছেন। আর ফয়সালা যদি আপনার বিপক্ষেই আসে, আয়াতের পরের কথাটা তখনো খোলা দরজা।"
   }
 };
 
