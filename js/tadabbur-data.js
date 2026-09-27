@@ -7103,6 +7103,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Two men give the same amount; one has paid a fine and the other has drawn nearer. The reckoning separates them, and this verse confirms only one of them.",
     "lessonBn": "দুইজন সমান পরিমাণ দিল, একজনের কাছে তা জরিমানা, আরেকজনের কাছে নৈকট্য। তফাতটা হিসাবের, আর আল্লাহ তাদের একজনের হিসাবকেই কবুল বলে জানিয়ে দেন।"
+  },
+  "9:111-112": {
+    "reflectionEn": "Allah says He has already purchased something from the believers, and the verb is past tense: the sale is done. What He bought is their lives and their properties, and the price He set is Paradise. Then the next verse says who these sellers are, and the list is not made of battlefields. It is nine ordinary descriptions: turning back to Allah, worshipping, praising, journeying, bowing, prostrating, calling to good, warning against wrong, keeping inside the limits Allah drew. So the great transaction is paid in instalments a person can actually manage today. And the verse does not ask you to hope the deal is good; it tells you to be glad about a contract already signed.",
+    "reflectionBn": "আল্লাহ বলছেন, মু'মিনদের কাছ থেকে তিনি তাদের জান আর মাল কিনে নিয়েছেন। ক্রিয়াটা অতীত কালের, অর্থাৎ সওদা হয়ে গেছে। দাম তিনি ঠিক করেছেন জান্নাত। পরের আয়াত বলে দেয় এই বিক্রেতারা কারা, আর সেই তালিকায় যুদ্ধের ময়দান নেই। আছে নয়টি সাধারণ পরিচয়: তওবা করা, ইবাদত করা, প্রশংসা করা, পথ চলা, রুকু করা, সিজদা করা, ভালো কাজের আদেশ দেওয়া, মন্দ থেকে ফেরানো, আর আল্লাহর টেনে দেওয়া সীমার ভিতরে থাকা। এত বড় লেনদেনের দাম তাই শোধ হয় এমন কিস্তিতে, যা আজই দেওয়া সম্ভব। আয়াত আপনাকে সওদাটা ভালো কি না তা ভেবে দেখতে বলছে না, বলছে খুশি হতে, কারণ দস্তখত হয়ে গেছে।",
+    "pointsEn": [
+      "The purchase is already made: do I live like someone who has been paid, or like someone still haggling over the price?",
+      "Of my life and my property, which do I hand over more easily, and what does that answer expose about me?",
+      "Nine descriptions are given and most of them fit an ordinary day: which of them is missing from mine?",
+      "The verse tells me to be glad about the deal: when did I last feel gladness about it rather than worry?",
+      "Keeping inside the limits Allah drew comes last on the list: which limit have I quietly started treating as advice?"
+    ],
+    "pointsBn": [
+      "সওদা তো হয়েই গেছে; আমি কি এমনভাবে চলি যে দাম পেয়ে গেছি, নাকি এখনো দাম নিয়ে দরাদরি করছি?",
+      "জান আর মালের মধ্যে কোনটা আমি সহজে ছাড়তে পারি, আর এই উত্তরটা আমার সম্পর্কে কী ফাঁস করে দেয়?",
+      "নয়টি পরিচয় দেওয়া হয়েছে, যার বেশিরভাগই সাধারণ দিনেই খাটে; এর কোনটা আমার মধ্যে নেই?",
+      "আয়াত সওদা নিয়ে খুশি হতে বলছে; শেষ কবে এ নিয়ে আমার দুশ্চিন্তা নয়, আনন্দ হয়েছিল?",
+      "তালিকার শেষে আছে আল্লাহর সীমার ভিতরে থাকা; কোন্ সীমাটাকে আমি চুপচাপ নিছক পরামর্শ ধরে নিয়েছি?"
+    ],
+    "lessonEn": "The sale is already concluded; the nine ordinary acts of the next verse are how the price actually gets paid.",
+    "lessonBn": "সওদা হয়ে গেছে; পরের আয়াতের নয়টি সাধারণ আমলই সেই দামের কিস্তি।"
   }
 };
 

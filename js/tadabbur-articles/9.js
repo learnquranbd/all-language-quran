@@ -2335,6 +2335,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:111-112": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Crumbling Edge",
+          "bn": "ধসের কিনারার পরে"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan, and the verses standing just before these two are about a building. 9:107 describes a mosque taken up for harm, for disbelief, and for division among the believers; 9:108 forbids the Prophet ﷺ to stand in it ever; 9:109 asks which is better, a man who laid his foundation on righteousness and the seeking of Allah's approval, or a man who built on the edge of a bank about to collapse; and 9:110 says the thing they built will keep breeding doubt in their hearts. Then 9:111 opens with a purchase.",
+            "bn": "সূরা তাওবা মাদীনায় নাযিল, আর এই দুই আয়াতের ঠিক আগের আয়াতগুলোতে কথা চলছে ইমারত নিয়ে। ৯:১০৭ বলছে, ক্ষতি, কুফরি আর মু'মিনদের মধ্যে বিভেদের উদ্দেশ্যেই সেই মাসজিদ গড়া হয়েছিল। ৯:১০৮ নবী ﷺ-কে নিষেধ করছে, তিনি যেন সেখানে কখনো না দাঁড়ান। ৯:১০৯ প্রশ্ন তোলে, কে ভালো, যে তাকওয়া আর আল্লাহর সন্তুষ্টির উপর ভিত গেড়েছে সে, না যে ধসে পড়ার মুখে থাকা কিনারায় ভিত গেড়েছে সে। ৯:১১০ বলে, তাদের গড়া ঘরটি তাদের অন্তরে সন্দেহ জাগিয়ে যেতেই থাকবে। এরপর ৯:১১১ শুরু হয় এক ক্রয়ের কথা দিয়ে।"
+          },
+          {
+            "en": "At-Tabari and al-Qurtubi both carry a report from Muhammad ibn Ka'b al-Qurazi that the words came down after a pledge at al-Aqabah, where Abdullah ibn Rawahah (RA) asked the Messenger ﷺ to stipulate for his Lord and for himself whatever he wished. The terms given were that they worship Allah and associate nothing with Him, and that they protect him ﷺ as they protect their own selves and their wealth; the return was Paradise; and the Ansar answered that the sale was profitable and they would not rescind it. The chain does not reach the Prophet ﷺ, so the placement is the safer ground here.",
+            "bn": "আত-তাবারী আর আল-কুরতুবী দুজনেই মুহাম্মাদ ইবনু কা'ব আল-কুরাযী থেকে একটি বর্ণনা এনেছেন, যাতে বলা হয়েছে আয়াতটি নেমেছিল আকাবার বাই'আতের পর। আবদুল্লাহ ইবনু রাওয়াহা (রাঃ) রাসূল ﷺ-কে বলেছিলেন, আপনার রবের জন্য আর নিজের জন্য যা শর্ত চান রাখুন। শর্ত দাঁড়াল, তাঁরা আল্লাহর ইবাদত করবেন, তাঁর সঙ্গে কাউকে শরিক করবেন না, আর নিজেদের জান-মাল যেভাবে বাঁচান সেভাবেই তাঁকে ﷺ বাঁচাবেন। বিনিময় জান্নাত। আনসারদের জবাব ছিল, লাভজনক সওদা, আমরা এ সওদা ফিরিয়ে দেব না। বর্ণনার সনদ নবী ﷺ পর্যন্ত পৌঁছায় না, তাই এখানে আয়াতের অবস্থানই বেশি নিরাপদ ভরসা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Sale in Past Tense",
+          "bn": "অতীত কালে সম্পন্ন ক্রয়"
+        },
+        "p": [
+          {
+            "en": "The verb is ishtara, the eighth form of the root sh-r-y, and it is perfect tense: has purchased, not will purchase. At-Tabari glosses it without ornament, that Allah bought from the believers their selves and their wealth for Paradise, and promised them that in His revealed Books whenever they kept their side of it. Al-Qurtubi calls the whole sentence a figure, and sets it beside 2:16, where deniers purchased error in exchange for guidance and their transaction brought no profit. The same commercial vocabulary runs both ways in the Quran; what differs is what a person carried to the counter.",
+            "bn": "ক্রিয়াটি ইশতারা, শ-র-য় ধাতুর অষ্টম বাবের, আর তা অতীত কালের। কিনে নিয়েছেন, কিনবেন নয়। আত-তাবারী কোনো অলংকার ছাড়াই অর্থ করেন, আল্লাহ মু'মিনদের কাছ থেকে তাদের জান আর মাল জান্নাতের বিনিময়ে কিনে নিয়েছেন, আর নিজের নাযিলকৃত কিতাবগুলোতে সে ওয়াদা করেছেন, যদি তারা নিজেদের দিকটা রাখে। আল-কুরতুবী গোটা বাক্যটিকে বলেন উপমা, আর পাশে রাখেন ২:১৬, যেখানে অস্বীকারকারীরা হিদায়াতের বিনিময়ে গোমরাহি কিনেছে আর তাদের ব্যবসায় কোনো লাভ হয়নি। কুরআনে ব্যবসার এই শব্দভাণ্ডার দুদিকেই চলে। তফাত শুধু এই, মানুষ কী নিয়ে দাঁড়িয়েছে সওদার সামনে।"
+          },
+          {
+            "en": "The middle of the verse shows the transaction being carried out: they fight in the cause of Allah, so they kill and are killed. Ibn Kathir reads that clause as covering every outcome, saying that whether they are killed, or kill the enemy, or both, Paradise will be theirs. Al-Qurtubi records a reading that puts the passive verb first, so that they are killed and they kill, and names an-Nakha'i, al-A'mash, Hamzah, al-Kisa'i and Khalaf for it, while the remaining readers keep the active verb first; al-Baghawi names Hamzah and al-Kisa'i for the same reading.",
+            "bn": "আয়াতের মাঝখানে সওদাটা কাজে পরিণত হতে দেখা যায়, তারা আল্লাহর পথে যুদ্ধ করে, অতঃপর হত্যা করে আর নিহত হয়। ইবনু কাসীর এই অংশকে পড়েন সব পরিণতি ঢেকে নেওয়া কথা হিসেবে। তারা নিহত হোক, শত্রুকে হত্যা করুক, কিংবা দুটোই ঘটুক, জান্নাত তাদেরই। আল-কুরতুবী এমন এক কিরাআত তুলে ধরেন যেখানে কর্মবাচ্যের ক্রিয়াটি আগে আসে, অর্থাৎ তারা নিহত হয় আর হত্যা করে, আর এ পাঠের জন্য নাম নেন আন-নাখাঈ, আল-আমাশ, হামযা, আল-কিসাঈ ও খালাফের। বাকি কারীরা কর্তৃবাচ্যের ক্রিয়াই আগে রাখেন। আল-বাগাভী এই একই পাঠের জন্য হামযা ও আল-কিসাঈর নাম দেন।"
+          },
+          {
+            "en": "The closing command turns the word over again. Rejoice in your bay', your sale, which you contracted, bayya'tum, in the third form of the root b-y-', the form of a dealing struck between parties, and the form behind the noun bay'ah, a pledge. Al-Qurtubi reads wa'dan and haqqan as verbal nouns set there for emphasis, a promise binding upon Him, truly; and he glosses istabshiru from bisharah, which is joy showing in the bashrah, the skin. Then 9:112 ends on bashshir, the same root in the second form, ordered to the Prophet ﷺ while the earlier command was to the believers together.",
+            "bn": "শেষ আদেশে শব্দটি আবার ঘুরে যায়। তোমাদের সম্পন্ন করা বাই', অর্থাৎ সওদা, নিয়ে খুশি হও; আর সম্পন্ন করার ক্রিয়াটি বায়া'তুম, ব-য়-' ধাতুর তৃতীয় বাব, যে বাব দুই পক্ষের মধ্যে চুক্তি বোঝায়, আর যা থেকেই আসে বাই'আত শব্দটি। আল-কুরতুবী ওয়া'দান ও হাক্কান দুটিকে পড়েন জোর দেওয়ার জন্য বসানো মাসদার হিসেবে, তাঁর উপর অবশ্যপালনীয় সত্য ওয়াদা। আর ইসতাবশিরুর ব্যাখ্যায় তিনি বলেন, বিশারাহ মানে আনন্দ যা বাশরাহ অর্থাৎ চামড়ায় ফুটে ওঠে। এরপর ৯:১১২ শেষ হয় বাশশির দিয়ে, একই ধাতুর দ্বিতীয় বাব, যার আদেশ নবী ﷺ-কে, আগের আদেশটি ছিল সব মু'মিনকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nine Names and a Waw",
+          "bn": "নয়টি নাম, একটি ওয়াও"
+        },
+        "p": [
+          {
+            "en": "9:112 gives nine descriptions, and they are carried in fourteen Arabic words before the closing command: at-ta'ibun, al-'abidun, al-hamidun, as-sa'ihun, ar-raki'un, as-sajidun, al-amirun bil-ma'ruf, an-nahun 'an al-munkar, al-hafizun li-hudud Allah. Each is a definite plural participle, a name and not a verb, so the verse is not issuing orders here; it is reading out a roll. Because the seventh and eighth stand as the settled pair of enjoining right and forbidding wrong, a reader who takes that pair as a single item counts eight.",
+            "bn": "৯:১১২ নয়টি পরিচয় দেয়, আর শেষ আদেশের আগে সেগুলো ধরা আছে চৌদ্দটি আরবি শব্দে: আত-তাইবূন, আল-আবিদূন, আল-হামিদূন, আস-সাইহূন, আর-রাকিঊন, আস-সাজিদূন, আল-আমিরূন বিল-মা'রূফ, আন-নাহূন আনিল-মুনকার, আল-হাফিযূন লিহুদূদিল্লাহ। প্রতিটিই নির্দিষ্ট বহুবচন কর্তৃবাচক বিশেষ্য, নাম, ক্রিয়া নয়। তাই আয়াত এখানে হুকুম দিচ্ছে না, নাম ডাকছে। সপ্তম আর অষ্টম পরিচয় দুটি সৎকাজের আদেশ আর মন্দ থেকে নিষেধের বাঁধা জোড়া, তাই যে পাঠক ওই জোড়াকে একটি বিষয় ধরেন তিনি আটটি গোনেন।"
+          },
+          {
+            "en": "Something happens to the conjunction partway down. The first seven names run on with no waw at all; it appears at the eighth, an-nahun, and again at the ninth. Al-Qurtubi gathers the explanations offered for that. Arabic simply does this, as in the Arabic of 40:3, where the second of the divine names carries a waw and the others do not. The forbidder of wrong is almost never named apart from the enjoiner of right, so the bound pair pulls the conjunction in. And this is the waw of the eighth, seven being a complete number among the Arabs, which al-Qurtubi calls the dialect of Quraysh.",
+            "bn": "তালিকার মাঝপথে সংযোজকটি নিয়ে একটা ঘটনা ঘটে। প্রথম সাতটি নাম চলে যায় কোনো ওয়াও ছাড়াই। ওয়াও আসে অষ্টমটিতে, আন-নাহূন-এ, তারপর আবার নবমটিতে। আল-কুরতুবী এ নিয়ে দেওয়া ব্যাখ্যাগুলো একত্র করেন। এক, আরবি ভাষায় এমন হয়েই থাকে, যেমন ৪০:৩ আয়াতের আরবিতে আল্লাহর গুণগুলোর মধ্যে কেবল দ্বিতীয়টিতে ওয়াও আছে, বাকিগুলোতে নেই। দুই, মন্দ থেকে নিষেধকারীর নাম সৎকাজের আদেশকারী থেকে আলাদা করে প্রায় বলাই হয় না, তাই বাঁধা জোড়াটিই সংযোজক টেনে আনে। আর তিন, এটি অষ্টমের ওয়াও, কারণ আরবদের কাছে সাতটি সংখ্যাই পূর্ণ; আল-কুরতুবী এটিকে বলেন কুরাইশের ভাষা।"
+          },
+          {
+            "en": "As-sa'ihun is the name that divided the commentators. At-Tabari settles on the fasting ones and fills his page with reports to that effect, from Ibn Mas'ud (RA), Ibn Abbas (RA), Mujahid, al-Hasan and ad-Dahhak, and from A'ishah (RA), whose words he gives with a chain: the siyahah of this ummah is fasting. Ibn Kathir reads it the same way, calling fasting among the best of actions because it abstains from the delights of food, drink and intercourse, and pointing to 66:5, where the same participle stands among the qualities named there. Sufyan ibn 'Uyaynah, quoted by al-Qurtubi and al-Baghawi, gives that very reason for the name.",
+            "bn": "আস-সাইহূন নামটিই তাফসীরকারদের ভাগ করে দিয়েছে। আত-তাবারী রোযাদারদের কথাতেই স্থির হন, আর নিজের পাতা ভরে ফেলেন সেই মর্মের বর্ণনায়, যেগুলো এসেছে ইবনু মাসঊদ (রাঃ), ইবনু আব্বাস (রাঃ), মুজাহিদ, আল-হাসান ও আদ-দাহহাক থেকে, আর আয়িশা (রাঃ) থেকে, যাঁর কথাটি তিনি সনদসহ দেন, এই উম্মতের সিয়াহা হলো রোযা। ইবনু কাসীরও একই পাঠ নেন; তিনি বলেন রোযা সর্বোত্তম আমলগুলোর একটি, কারণ এতে খাদ্য, পানীয় আর সহবাসের স্বাদ ছেড়ে থাকা হয়। তিনি ইঙ্গিত করেন ৬৬:৫ আয়াতের দিকে, যেখানে একই শব্দটি সেখানকার গুণাবলির মধ্যেই আছে। সুফিয়ান ইবনু উয়াইনা, যাঁকে আল-কুরতুবী ও আল-বাগাভী উদ্ধৃত করেন, নামটির এই কারণই দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where As-Sa'di Parts",
+          "bn": "সা'দী যেখানে আলাদা হন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di does not take the fasting reading and he says so outright. Siyahah has been interpreted as fasting, he writes, or as travelling in search of knowledge, and it has been interpreted as the journeying of the heart in knowing Allah and loving Him and turning to Him always. Then comes his own verdict, that the correct view is that what is meant by siyahah is travel in acts of nearness, such as hajj, umrah, striving, seeking knowledge, joining ties with relatives and the like.",
+            "bn": "সা'দী রোযার পাঠটি নেন না, আর সেটা তিনি সোজাসুজিই বলেন। তিনি লেখেন, সিয়াহার ব্যাখ্যা করা হয়েছে রোযা হিসেবে, কিংবা ইলম অন্বেষণে সফর হিসেবে; আর ব্যাখ্যা করা হয়েছে আল্লাহকে জানা, তাঁকে ভালোবাসা আর সর্বদা তাঁর দিকে ফিরে থাকায় অন্তরের সফর হিসেবেও। এরপর আসে তাঁর নিজের রায়, সহীহ কথা হলো সিয়াহা মানে নৈকট্যের কাজে সফর, যেমন হজ, উমরা, জিহাদ, ইলম অন্বেষণ, আত্মীয়দের সঙ্গে সম্পর্ক রাখা আর এ ধরনের কাজ।"
+          },
+          {
+            "en": "On the ninth name as-Sa'di asks more than the translation suggests. Those who observe the limits of Allah do it, he says, by learning the limits of what Allah sent down upon His Messenger ﷺ, and what falls inside the commands and the prohibitions. Observing a boundary, on that reading, begins as study rather than as restraint, because nobody keeps inside a line whose position he has never troubled to find out.",
+            "bn": "নবম নামটির ব্যাপারে সা'দী অনুবাদ যা বোঝায় তার চেয়ে বেশি চান। তিনি বলেন, আল্লাহর সীমা রক্ষাকারীরা সেটা করে আল্লাহ তাঁর রাসূলের ﷺ উপর যা নামিয়েছেন তার সীমা শিখে নিয়ে, আর আদেশ-নিষেধের ভেতরে কী কী পড়ে তা জেনে নিয়ে। এ পাঠে সীমা রক্ষা করা শুরু হয় নিজেকে সামলানো দিয়ে নয়, পড়াশোনা দিয়ে; কারণ যে দাগের জায়গাটা কোথায় তা জানার কষ্টই কেউ কখনো করেনি, সে ওই দাগের ভেতরে থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "He Bought What He Owns",
+          "bn": "তিনি কিনলেন নিজেরই জিনিস"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir names the strangest feature of the transaction and does not soften it. This demonstrates Allah's favour, generosity and bounty, he writes, for He has accepted the good that He already owns and bestowed, as a price from His faithful servants. The seller hands the buyer back the buyer's own property, and the buyer sets the price. Al-Hasan al-Basri and Qatadah are quoted on what that does to the seller: by Allah, Allah has purchased them and raised their worth.",
+            "bn": "এ লেনদেনের সবচেয়ে অন্যরকম দিকটার নাম নেন ইবনু কাসীর, আর সেটা তিনি নরম করেন না। তিনি লেখেন, এতে প্রকাশ পায় আল্লাহর অনুগ্রহ, উদারতা আর দান; কারণ যা তাঁরই মালিকানার আর তাঁরই দেওয়া, সেই ভালো জিনিসটাকেই তিনি নিজের বিশ্বস্ত বান্দাদের কাছ থেকে দাম হিসেবে কবুল করেছেন। বিক্রেতা ক্রেতার হাতে ফিরিয়ে দেয় ক্রেতার নিজেরই সম্পত্তি, আর দাম ঠিক করেন ক্রেতাই। বিক্রেতার উপর এর কী প্রভাব পড়ে, সে ব্যাপারে হাসান বসরী আর কাতাদা থেকে উদ্ধৃত হয়: আল্লাহর কসম, আল্লাহ তাদের কিনে নিয়েছেন আর তাদের দাম বাড়িয়ে দিয়েছেন।"
+          },
+          {
+            "en": "Ibn Kathir then carries a line from Shimr ibn Atiyyah that turns the verse from a description of fighters into a statement about everybody. There is not a Muslim, he said, but has upon his neck a sale that he must conduct with Allah; he either fulfils its terms or dies without doing so, and he recited this verse after saying it. On that reading the contract is not being offered to volunteers. It is already on the neck, and the only open question is whether it gets discharged.",
+            "bn": "এরপর ইবনু কাসীর আনেন শিমর ইবনু আতিয়্যার একটি কথা, যা আয়াতটিকে যোদ্ধাদের বর্ণনা থেকে বদলে দেয় সবার সম্পর্কে একটি বক্তব্যে। তিনি বলেছেন, এমন কোনো মুসলিম নেই যার গর্দানে আল্লাহর সঙ্গে সম্পন্ন করার মতো একটি সওদা নেই; সে হয় তার শর্ত পূরণ করে, নয় সেটা না করেই মরে যায়; আর কথাটা বলার পর তিনি এ আয়াতটিই তিলাওয়াত করেছিলেন। এ পাঠে চুক্তিটি স্বেচ্ছাসেবীদের কাছে প্রস্তাব করা হচ্ছে না। সেটা গর্দানে আগেই আছে, আর খোলা প্রশ্ন কেবল একটাই, সেটা শোধ হচ্ছে কি না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Undertaking in Bukhari",
+          "bn": "বুখারীতে সেই জিম্মাদারি"
+        },
+        "p": [
+          {
+            "en": "The hadith the commentators attach here answers the question a buyer's promise raises, which is what happens if the seller lives. Sahih al-Bukhari 36 has from Abu Hurayrah (RA) that Allah has undertaken for whoever goes out in His path, nothing making him go out but striving in His cause and belief in His messengers, that He will admit him to Paradise if He takes his soul, or return him to the home he left with a reward or with booty. Ibn Kathir cites it as standing in the Two Sahihs.",
+            "bn": "মুফাসসিরগণ এখানে যে হাদীসটি জোড়েন, সেটি জবাব দেয় ক্রেতার ওয়াদা থেকে যে প্রশ্ন ওঠে তার, অর্থাৎ বিক্রেতা বেঁচে গেলে কী হবে। সহীহ বুখারীর ৩৬ নম্বরে আবূ হুরাইরা (রাঃ) থেকে আছে, আল্লাহ জিম্মাদারি নিয়েছেন তার, যে তাঁর পথে বেরিয়েছে আর যাকে বের করেছে কেবল তাঁর পথে জিহাদ আর তাঁর রাসূলদের প্রতি বিশ্বাস; তিনি তার জান নিয়ে নিলে তাকে জান্নাতে ঢোকাবেন, নয়তো যে ঘর থেকে সে বেরিয়েছিল সেখানেই তাকে ফিরিয়ে দেবেন প্রতিদান নিয়ে বা গনীমত নিয়ে। ইবনু কাসীর এটিকে উদ্ধৃত করেন দুই সহীহতে থাকা হাদীস হিসেবে।"
+          },
+          {
+            "en": "The narration matters for the shape of the deal rather than the size of the reward. A sale paid only at death would leave a survivor holding nothing; the hadith says he is sent home with something in hand either way. And it states the condition the verse leaves implicit, that nothing drove him out except the striving and the belief, which puts the motive inside the contract rather than alongside it.",
+            "bn": "বর্ণনাটির দাম পুরস্কারের আকারের জন্য নয়, চুক্তির আকারের জন্য। কেবল মরণের সময় দাম মেলে এমন সওদায় বেঁচে যাওয়া লোকের হাতে কিছুই থাকত না; হাদীস বলে, দুই অবস্থাতেই তাকে হাতে কিছু নিয়েই ঘরে পাঠানো হয়। আর সেটি সেই শর্তটিও বলে দেয় যা আয়াত না বলেই রাখে, তাকে বের করেছে কেবল ওই জিহাদ আর ওই বিশ্বাস; আর এতে নিয়তটা চুক্তির পাশে নয়, চুক্তির ভেতরেই বসে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Books, One Promise",
+          "bn": "তিন কিতাব, এক ওয়াদা"
+        },
+        "p": [
+          {
+            "en": "The verse does not leave its promise resting on one revelation. It is a promise binding upon Him, truly, in the Torah and the Gospel and the Quran. As-Sa'di reads that list as an argument rather than as decoration: these are the noblest of the Books that have come to the world, and the most complete of the messengers brought them, those of firm resolve, and all of them agreed upon this truthful promise. The point being made is corroboration.",
+            "bn": "আয়াত নিজের ওয়াদাকে একটিমাত্র ওহীর উপর দাঁড়িয়ে থাকতে দেয় না। এটি তাঁর উপর বর্তানো সত্য ওয়াদা, তাওরাতে, ইনজীলে আর কুরআনে। সা'দী ওই তালিকাটিকে পড়েন সাজসজ্জা হিসেবে নয়, একটি দলিল হিসেবে: এগুলোই দুনিয়ায় আসা কিতাবগুলোর মধ্যে সবচেয়ে সম্মানিত; আর এগুলো এনেছেন রাসূলদের মধ্যে সবচেয়ে পূর্ণ যাঁরা, দৃঢ় সংকল্পের অধিকারীরা; আর সবগুলোই এ সত্য ওয়াদার উপর একমত হয়েছে। যে কথাটা এখানে বলা হচ্ছে তা হলো সাক্ষ্যের মিল।"
+          },
+          {
+            "en": "Then the question that follows it: and who is truer to his covenant than Allah. As-Sa'di reads the command after it as addressed to people already holding up their end, so rejoice, O believers who are fulfilling what Allah promised you, in your sale that you contracted. And he draws a second purpose out of the wording, that you rejoice at it and that some of you give the good tidings to others and urge one another on. The gladness is meant to travel.",
+            "bn": "এরপর আসে তার পরের প্রশ্নটি: আর আল্লাহর চেয়ে বেশি নিজের অঙ্গীকার পূরণকারী কে। সা'দী এর পরের হুকুমটিকে পড়েন এমন লোকদের উদ্দেশে বলা কথা হিসেবে যাঁরা ইতিমধ্যেই নিজেদের দিকটা রক্ষা করছেন, কাজেই আনন্দিত হও, হে সেই মু'মিনগণ যাঁরা আল্লাহ তোমাদের যা ওয়াদা করেছেন তা পূরণ করছ, তোমাদের সম্পন্ন করা সওদার জন্য। আর তিনি শব্দগুলোর ভেতর থেকে দ্বিতীয় একটি উদ্দেশ্যও বের করেন, যাতে তোমরা এতে খুশি হও আর যাতে তোমাদের একজন অন্যজনকে সুসংবাদ দেয় আর একজন অন্যজনকে উৎসাহ দেয়। এ আনন্দ ছড়িয়ে পড়ারই জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses on the Same Sale",
+          "bn": "একই সওদা নিয়ে আয়াত"
+        },
+        "p": [
+          {
+            "en": "61:10-11 puts the identical transaction as a question and then answers it in terms anybody can act on: shall I guide you to a trade that will save you from a painful punishment — that you believe in Allah and His Messenger ﷺ and strive in the cause of Allah with your wealth and your lives. The same two goods are named, the same word for trade is used, and the price there is rescue rather than a garden. 48:10 gives the pledge from the other end, that those who pledge to him are pledging to Allah.",
+            "bn": "৬১:১০-১১ আয়াত এই একই লেনদেনকে রাখে প্রশ্ন হিসেবে, তারপর জবাব দেয় এমন কথায় যা নিয়ে যে কেউ কাজ করতে পারে: আমি কি তোমাদের এমন এক ব্যবসার সন্ধান দেব যা তোমাদের যন্ত্রণাদায়ক শাস্তি থেকে বাঁচাবে; তা এই যে তোমরা আল্লাহ আর তাঁর রাসূলের ﷺ প্রতি ঈমান আনবে আর নিজেদের মাল আর জান দিয়ে আল্লাহর পথে জিহাদ করবে। একই দুটি পণ্যের নাম আসে, ব্যবসার একই শব্দ ব্যবহার হয়, আর ওখানে দামটা কোনো জান্নাত নয়, বাঁচানো। ৪৮:১০ আয়াত অঙ্গীকারটা দেয় অন্য প্রান্ত থেকে, যারা তাঁর কাছে বাইআত করে তারা আসলে আল্লাহর কাছেই বাইআত করে।"
+          },
+          {
+            "en": "66:5 carries the same participle the third section weighed, listed among the qualities of women better than the ones being addressed, which is where Ibn Kathir goes for his reading of it. And 9:100 stands earlier in this same surah, promising the forerunners of the Muhajireen and the Ansar gardens beneath which rivers flow and calling that the great attainment, the very phrase 9:111 ends on. The surah pays the same wage twice, once to the first-comers and once to anyone who closes this sale.",
+            "bn": "৬৬:৫ আয়াত সেই একই শব্দটি বহন করে যেটি তৃতীয় অংশে ওজন করা হয়েছে, আর সেটি আসে যাদের সম্বোধন করা হচ্ছে তাদের চেয়ে উত্তম নারীদের গুণাবলির তালিকায়; ইবনু কাসীর নিজের পাঠের জন্য ওখানেই যান। আর ৯:১০০ আয়াত দাঁড়িয়ে আছে এই একই সূরার আগের দিকে, যা মুহাজির আর আনসারদের অগ্রগামীদের ওয়াদা দেয় জান্নাতের, যার নিচে দিয়ে নদী বয়ে যায়, আর সেটাকেই বলে মহাসফলতা; আর এ কথাটিতেই ৯:১১১ আয়াত শেষ হয়। সূরা একই মজুরি দেয় দুবার, একবার প্রথমে আসা লোকদের, আর একবার যে কেউ এ সওদাটা সম্পন্ন করে তাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Paying in Instalments",
+          "bn": "কিস্তিতে দাম শোধ"
+        },
+        "p": [
+          {
+            "en": "The practical force of the pair is in the order the two verses come in. A reader who meets 9:111 alone is left with a transaction he may feel he has no way of entering, since the middle of the verse is about killing and being killed. Then 9:112 names the sellers, and not one of the nine names is a battlefield. Repenting, worshipping, praising, journeying for a good purpose, bowing, prostrating, calling to good, warning against wrong, and keeping inside what Allah drew.",
+            "bn": "এ জোড়াটির কাজের জোর দুটি আয়াত যে ক্রমে আসে তার ভেতরেই। যে পাঠক ৯:১১১ আয়াতকে একা পান, তাঁর হাতে থাকে এমন এক লেনদেন যেখানে ঢোকার পথ তিনি নিজের জন্য দেখতে না-ও পারেন, কারণ আয়াতের মাঝখানটা হত্যা করা আর নিহত হওয়া নিয়ে। এরপর ৯:১১২ আয়াত বিক্রেতাদের নাম বলে দেয়, আর নয়টি নামের একটিও যুদ্ধের মাঠ নয়। তওবা করা, ইবাদত করা, প্রশংসা করা, ভালো উদ্দেশ্যে সফর করা, রুকু করা, সিজদা করা, ভালোর দিকে ডাকা, মন্দ থেকে সাবধান করা, আর আল্লাহ যে দাগ টেনেছেন তার ভেতরে থাকা।"
+          },
+          {
+            "en": "Shimr ibn Atiyyah's line is the one to carry away, because it removes the option of treating this as somebody else's contract. The sale is already on the neck; what the second verse supplies is the schedule of payments. And as-Sa'di's gloss of the first name keeps the schedule open at every point, since the repentant are those who cling to repentance at all times and from all evil deeds, which is a description of a person who keeps returning rather than one who never left.",
+            "bn": "সঙ্গে নেওয়ার মতো কথাটি শিমর ইবনু আতিয়্যারই, কারণ সেটি এ চুক্তিকে অন্য কারও চুক্তি ভেবে সরিয়ে রাখার সুযোগটা কেড়ে নেয়। সওদা গর্দানে আগেই আছে; দ্বিতীয় আয়াত যা দেয় তা হলো কিস্তির তালিকা। আর প্রথম নামটির উপর সা'দীর ব্যাখ্যা সেই তালিকাটা প্রতিটি জায়গায় খোলা রেখে দেয়, কারণ তওবাকারীরা তারাই যারা সব সময়েই আর সব গুনাহ থেকেই তওবা আঁকড়ে থাকে; আর এ বর্ণনা এমন লোকের, যে বারবার ফিরে আসে, এমন লোকের নয় যে কখনো সরেই যায়নি।"
+          }
+        ]
+      }
+    ]
+  },
   "9:119": {
     "sections": [
       {
