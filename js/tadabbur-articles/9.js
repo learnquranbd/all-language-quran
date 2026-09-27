@@ -1379,6 +1379,142 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:70": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question, Not a Story",
+          "bn": "প্রশ্ন, গল্প নয়"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan and this verse is put as a question to people who already have the answer. At-Tabari names them: has there not come to these hypocrites, who conceal disbelief in Allah and forbid faith in Him and in His Messenger ﷺ, the news of the nations before them, when they disobeyed Our messengers and opposed Our command, and what befell them of Our punishment? 9:69 has just told them their own conduct resembles the conduct of those people, and 9:71 will turn to the believers instead.",
+            "bn": "সূরা তাওবা মাদানী, আর এ আয়াতটি প্রশ্ন হিসেবে রাখা হয় এমন লোকদের সামনে, যাদের হাতে জবাবটা আগেই আছে। তাবারী তাদের নাম বলে দেন: এ মুনাফিকদের কাছে কি পৌঁছায়নি, যারা আল্লাহর সঙ্গে কুফরী গোপন রাখে আর তাঁর ও তাঁর রাসূলের ﷺ প্রতি ঈমান আনতে নিষেধ করে, তাদের আগের জাতিগুলোর খবর, যখন তারা আমার রাসূলদের অবাধ্য হলো আর আমার হুকুমের বিরোধিতা করল, আর আমার শাস্তির কী নেমে এল তাদের উপর? ৯:৬৯ আয়াত সদ্যই তাদের বলেছে, তাদের নিজেদের আচরণ ওই লোকদের আচরণেরই মতো; আর ৯:৭১ আয়াত মুখ ফেরাবে মু'মিনদের দিকে।"
+          },
+          {
+            "en": "At-Tabari then reads the list as Allah's own rhetorical questions, supplying for each people the punishment the Quran records elsewhere. The people of Nuh, when they belied My messenger and opposed My command, did I not drown them in the flood? And Ad, when they disobeyed My messenger Hud, did I not destroy them with a furious howling wind? And Thamud, when they disobeyed My messenger Salih, did I not destroy them with the earthquake and leave them lifeless in their courtyards? And the people of Ibrahim, did I not strip them of the blessing and destroy their king?",
+            "bn": "এরপর তাবারী তালিকাটি পড়েন আল্লাহর নিজের প্রশ্নের ধরনে, আর প্রতিটি জাতির জন্য কুরআন অন্য জায়গায় যে শাস্তি লিখে রেখেছে সেটাই জুড়ে দেন। নূহের জাতি, যখন তারা আমার রাসূলকে মিথ্যা বলল আর আমার হুকুমের বিরোধিতা করল, আমি কি তাদের প্লাবনে ডুবিয়ে দিইনি? আর আদ, যখন তারা আমার রাসূল হূদের অবাধ্য হলো, আমি কি তাদের প্রচণ্ড গর্জনশীল ঝড়ে ধ্বংস করিনি? আর সামূদ, যখন তারা আমার রাসূল সালিহের অবাধ্য হলো, আমি কি তাদের ভূমিকম্পে ধ্বংস করে তাদের উঠানে নিষ্প্রাণ ফেলে রাখিনি? আর ইবরাহীমের জাতি, আমি কি তাদের নিয়ামত কেড়ে নিইনি আর তাদের রাজাকে ধ্বংস করিনি?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Six Peoples, One Charge",
+          "bn": "ছয় জাতি, এক অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "The six are the people of Nuh (AS), Ad, Thamud, the people of Ibrahim (AS), the dwellers of Madyan and the overturned towns, which as-Sa'di identifies as the towns of the people of Lut (AS). Ibn Kathir goes through the same list with the same events, adding that Ad perished with the barren wind when they rejected Hud (AS), that Thamud were overtaken when they denied Salih (AS) and killed the camel, and that the dwellers of Madyan were the people of Shu'ayb (AS).",
+            "bn": "ছয়টি হলো নূহের (আঃ) জাতি, আদ, সামূদ, ইবরাহীমের (আঃ) জাতি, মাদয়্যানের অধিবাসীরা আর উল্টে দেওয়া নগরগুলো; আর সা'দী শেষটিকে চিহ্নিত করেন লূতের (আঃ) জাতির নগরগুলো হিসেবে। ইবনু কাসীর একই তালিকা ধরে একই ঘটনাগুলোই বলেন, আর যোগ করেন যে আদ ধ্বংস হলো বন্ধ্যা ঝড়ে যখন তারা হূদকে (আঃ) অস্বীকার করল, সামূদকে পাকড়াও করা হলো যখন তারা সালিহকে (আঃ) মিথ্যা বলল আর উষ্ট্রীটিকে মেরে ফেলল, আর মাদয়্যানের অধিবাসীরা ছিল শুআইবের (আঃ) জাতি।"
+          },
+          {
+            "en": "A small difference of wording sits inside that agreement. At-Tabari names the earthquake for Thamud, which is what 7:78 records, while Ibn Kathir names the cry, which is what 11:67 records of the same people. Both words are in the Quran of them, so neither commentator has strayed; each has reached for a different verse. The article notes it rather than resolving it, because the difference is a reminder that these accounts are distributed across surahs and are meant to be read together.",
+            "bn": "ওই একমত হওয়ার ভেতরেই শব্দের একটি ছোট ফারাক আছে। তাবারী সামূদের জন্য নাম নেন ভূমিকম্পের, যা ৭:৭৮ আয়াত লিখে রাখে; আর ইবনু কাসীর নাম নেন সেই প্রচণ্ড শব্দের, যা একই জাতির ব্যাপারে ১১:৬৭ আয়াত লিখে রাখে। দুটি শব্দই কুরআনে তাদের ব্যাপারেই আছে, কাজেই কোনো মুফাসসিরই পথ হারাননি; দুজনে হাত বাড়িয়েছেন দুটি আলাদা আয়াতের দিকে। এ লেখা এটিকে মিটিয়ে না দিয়ে কেবল খেয়াল করিয়ে দিচ্ছে, কারণ ফারাকটা মনে করিয়ে দেয় যে এ বিবরণগুলো সূরায় সূরায় ছড়িয়ে আছে আর সেগুলো একসঙ্গে পড়ার জন্যই।"
+          },
+          {
+            "en": "Then one clause covers all six: their messengers came to them with clear proofs. As-Sa'di glosses the proofs as the truth made plain and evident, clarifying the realities of things, and says simply that they denied them, so what Allah has related to us came upon them. The indictment is not that nobody told them. It is that the telling arrived, with evidence attached, and was refused, and the punishment followed the refusal rather than the ignorance.",
+            "bn": "এরপর একটি কথাই ঢেকে দেয় ছয়টিকে: তাদের রাসূলগণ তাদের কাছে স্পষ্ট প্রমাণ নিয়ে এসেছিলেন। সা'দী এ প্রমাণগুলোর ব্যাখ্যা দেন খোলা আর ঝকঝকে সত্য হিসেবে, যা জিনিসের আসল চেহারা পরিষ্কার করে দেয়; আর তিনি সোজা বলেন, তারা সেগুলো মিথ্যা বলল, তাই আল্লাহ আমাদের যা জানিয়েছেন তা-ই তাদের উপর নেমে এল। অভিযোগটা এ নয় যে তাদের কেউ বলেনি। অভিযোগটা এই যে বলাটা পৌঁছেছিল, সঙ্গে দলিলও ছিল, আর সেটা নাকচ করা হয়েছিল; আর শাস্তি এসেছিল না জানার পিছনে নয়, ওই নাকচ করার পিছনে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enjoyment, and Plunging",
+          "bn": "ভোগ, আর ডুবে থাকা"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di treats 9:69 and our verse as one unit and reads the resemblance in detail. Your deeds resemble their deeds, he writes: you enjoyed your portion of the world, taking it by way of pleasure and appetite while turning away from what was intended by it, and you used it to help you to disobey Allah, and your aspiration and your will did not travel beyond the blessings you were given. Then the second half of the resemblance: and you plunged into falsehood and argued with falsehood in order to refute the truth with it.",
+            "bn": "সা'দী ৯:৬৯ আর আমাদের আয়াতকে এক অংশ হিসেবেই ধরেন, আর মিলটা খুঁটিয়ে পড়েন। তিনি লেখেন, তোমাদের কাজ তাদের কাজেরই মতো: তোমরা দুনিয়ার নিজেদের ভাগ ভোগ করেছ, আর নিয়েছ ভোগ আর খেয়ালের ধরনে, অথচ এর দ্বারা যা উদ্দেশ্য ছিল তা থেকে মুখ ফিরিয়ে; আর সেটা তোমরা কাজে লাগিয়েছ আল্লাহর নাফরমানিতে সাহায্য নিতে, আর তোমাদের আকাঙ্ক্ষা আর ইচ্ছা যে নিয়ামত তোমাদের দেওয়া হয়েছিল সেটা ছাড়িয়ে আর কোথাও যায়নি। এরপর মিলের দ্বিতীয় অর্ধেকটা: আর তোমরা বাতিলে ডুবে থেকেছ আর বাতিল দিয়ে তর্ক করেছ, যাতে তা দিয়ে সত্যকে নাকচ করা যায়।"
+          },
+          {
+            "en": "He sums those two into a description of a whole civilisation: so these are their deeds and their knowledge, enjoyment of a portion and plunging into falsehood. Then he draws the believers' version of both, which is the useful half. They too enjoy their portion of what they were given, but by way of using it to help them to Allah's obedience; and their knowledge is the knowledge of the messengers, which is arriving at certainty in the high objectives, and arguing with the truth in order to refute falsehood.",
+            "bn": "এ দুটিকে তিনি মিলিয়ে একটি গোটা সভ্যতার বর্ণনা বানান: অর্থাৎ এগুলোই তাদের আমল আর তাদের ইলম, ভাগটা ভোগ করা আর বাতিলে ডুবে থাকা। এরপর তিনি দুটোরই মু'মিনদের রূপটা টানেন, আর কাজের অর্ধেকটা ওটাই। তারাও নিজেদের যা দেওয়া হয়েছে তার ভাগ ভোগ করে, তবে সেটা করে আল্লাহর আনুগত্যে সাহায্য নেওয়ার ধরনে; আর তাদের ইলম হলো রাসূলদের ইলম, অর্থাৎ উঁচু লক্ষ্যগুলোতে নিশ্চিত জ্ঞানে পৌঁছানো, আর সত্য দিয়ে তর্ক করা যাতে বাতিল নাকচ হয়ে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Wronged Whom",
+          "bn": "কে কার উপর যুলম করল"
+        },
+        "p": [
+          {
+            "en": "The last clause closes the only exit left, and it closes it from the wrong side. Allah would never have wronged them, but they were wronging themselves. As-Sa'di ties the first half to the punishment: it was not injustice when He brought upon them what He brought. The sentence does not soften the destruction; it reassigns the authorship of it, and it does so in the imperfect tense, so that the wronging of themselves is described as something they kept doing rather than something they did once.",
+            "bn": "শেষ কথাটি বাকি থাকা একমাত্র বেরোনোর পথটা বন্ধ করে দেয়, আর বন্ধ করে ভুল দিক থেকে। আল্লাহ তাদের প্রতি যুলম করার মতো নন, বরং তারাই নিজেদের প্রতি যুলম করছিল। সা'দী প্রথম অর্ধেকটা বেঁধে দেন শাস্তির সঙ্গে: তিনি তাদের উপর যা এনেছিলেন তা কোনো অন্যায় ছিল না। বাক্যটি ধ্বংসটাকে নরম করে না; সে ধ্বংসটার দায় কার, সেটাই বদলে দেয়; আর করে মুদারি কালে, যাতে নিজেদের উপর যুলম করাটা একবারের কাজ নয়, চলতেই থাকা কাজ হিসেবে বর্ণিত হয়।"
+          },
+          {
+            "en": "10:44 states the same principle without a single name attached to it: indeed Allah does not wrong the people at all, but it is the people who are wronging themselves. Putting the general rule beside the roll-call is what makes the verse usable, because the six were not chosen for being worse than everyone. They were chosen for being known. 30:9 makes the same move with travel instead of news, telling them to go and look at how the end of those before them was.",
+            "bn": "১০:৪৪ আয়াত একই নীতি বলে, তবে সঙ্গে কোনো নাম জুড়ে দেয় না: নিশ্চয়ই আল্লাহ মানুষের প্রতি কোনো যুলম করেন না, বরং মানুষই নিজেদের প্রতি যুলম করে। সাধারণ নিয়মটাকে ওই নামের তালিকার পাশে রাখাই আয়াতটাকে কাজে লাগানোর মতো করে তোলে, কারণ ওই ছয়টিকে বাছা হয়নি তারা সবার চেয়ে খারাপ ছিল বলে। তাদের বাছা হয়েছিল তারা পরিচিত ছিল বলে। ৩০:৯ আয়াত একই কাজ করে খবরের বদলে ভ্রমণ দিয়ে, তাদের বলে গিয়ে দেখে আসতে তাদের আগের লোকদের শেষটা কেমন হয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Module's Own Index",
+          "bn": "এ মডিউলেরই সূচিপত্র"
+        },
+        "p": [
+          {
+            "en": "Four of the six peoples have their own entries in this module, and the verse works as an index to them. Hud (AS) addressing Ad stands at 7:65; Salih (AS) addressing Thamud at 7:69 and 7:74, with his parting words at 7:79; Shu'ayb (AS) sent to Madyan at 7:85, and the earthquake that seized his people at 7:91. Read in that order, our verse is a list of chapter headings for accounts a reader of this module has already been given in full.",
+            "bn": "ছয়টি জাতির চারটির নিজেদের এন্ট্রি এ মডিউলেই আছে, আর আয়াতটি কাজ করে সেগুলোর সূচিপত্র হিসেবে। হূদ (আঃ) আদের উদ্দেশে দাঁড়িয়ে আছেন ৭:৬৫ আয়াতে; সালিহ (আঃ) সামূদের উদ্দেশে ৭:৬৯ আর ৭:৭৪ আয়াতে, আর তাঁর বিদায়ের কথা ৭:৭৯ আয়াতে; শুআইব (আঃ) মাদয়্যানে পাঠানো হয়েছেন ৭:৮৫ আয়াতে, আর তাঁর জাতিকে পাকড়াও করা ভূমিকম্প ৭:৯১ আয়াতে। এ ক্রমে পড়লে আমাদের আয়াত হয়ে দাঁড়ায় এমন কিছু অধ্যায়ের শিরোনামের তালিকা, যেগুলোর পূর্ণ বিবরণ এ মডিউলের পাঠক আগেই পেয়ে গেছেন।"
+          },
+          {
+            "en": "That is not a coincidence of arrangement but the verse's own method. It does not retell any of the six stories; it assumes them and asks a question about what was done with them. A reader who has the accounts and draws nothing from them is in exactly the position the verse describes, which is a more uncomfortable place to stand than ignorance would be. The hypocrites of Madinah were not short of information either, and that is what the question at the head of the verse is for.",
+            "bn": "এটা সাজানোর কোনো কাকতাল নয়, আয়াতের নিজের পদ্ধতিই। সে ছয়টি কাহিনির একটিও আবার বলে না; সে ওগুলো ধরে নেয়, আর প্রশ্ন করে ওগুলো নিয়ে কী করা হলো তা নিয়ে। যে পাঠকের কাছে বিবরণগুলো আছে আর তিনি সেগুলো থেকে কিছুই নেন না, তিনি ঠিক সেই জায়গাটাতেই দাঁড়িয়ে আছেন যেটা আয়াত বর্ণনা করে; আর না জানার চেয়ে ওই জায়গায় দাঁড়ানো অনেক বেশি অস্বস্তিকর। মাদীনার মুনাফিকদেরও খবরের অভাব ছিল না, আর আয়াতের মাথায় বসা প্রশ্নটার কাজ ঠিক সেটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading Ruins Properly",
+          "bn": "ধ্বংস ঠিকভাবে পড়া"
+        },
+        "p": [
+          {
+            "en": "The practical use of a verse like this is narrow and it is not the obvious one. It is not an invitation to identify which modern people resemble Ad or Thamud; the verse is addressed to men who were being warned, not equipped to warn others, and its final clause puts the wronging inside the people themselves rather than in a category anybody can assign from outside.",
+            "bn": "এ ধরনের আয়াতের কাজের ব্যবহারটা সংকীর্ণ, আর সেটা যেটা প্রথমে মনে আসে সেটা নয়। এটা এমন কোনো আমন্ত্রণ নয় যে আজকের কোন জাতি আদ বা সামূদের মতো তা চিহ্নিত করতে হবে; আয়াতটি বলা হচ্ছে এমন লোকদের, যাদের হুঁশিয়ার করা হচ্ছিল, অন্যদের হুঁশিয়ার করার হাতিয়ার দেওয়া হচ্ছিল না; আর এর শেষ কথাটি যুলমটা রাখে মানুষের নিজের ভেতরেই, বাইরে থেকে কেউ বসিয়ে দিতে পারে এমন কোনো ঘরে নয়।"
+          },
+          {
+            "en": "What it does hand over is a test for reading. As-Sa'di's two columns, enjoyment of a portion and plunging into falsehood against using a portion for obedience and arguing with the truth, can be applied to a week without naming a nation. And the question the verse actually asks is answerable: what have I been told clearly enough that not knowing is no longer available to me, and what have I done since I was told?",
+            "bn": "সে যা হাতে তুলে দেয় তা হলো পড়ার একটা যাচাই। সা'দীর সেই দুই কলাম, ভাগটা ভোগ করা আর বাতিলে ডুবে থাকা, তার বিপরীতে ভাগটা আনুগত্যে লাগানো আর সত্য দিয়ে তর্ক করা, কোনো জাতির নাম না নিয়েই এক সপ্তাহের উপর কষে দেখা যায়। আর আয়াত আসলে যে প্রশ্নটা করে, তার জবাব দেওয়া সম্ভব: এমন কী আমাকে এত পরিষ্কারভাবে বলা হয়েছে যে না জানার সুযোগ আর আমার হাতে নেই, আর বলার পর থেকে আমি কী করেছি?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer Against Repeating It",
+          "bn": "একই ভুল না করার দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse carries no supplication and its closing clause is a verdict, so what belongs here is the thing the verse leaves a reader wanting: not to be among those who had the news. The Quran's nearest wording for that is in the general rule at 10:44, said as a reminder rather than a request, that Allah does not wrong people at all, which turns every complaint about one's own situation back to its source.",
+            "bn": "আয়াতে কোনো দোয়া নেই, আর এর শেষ কথাটি একটি রায়; কাজেই এখানে যা মানায় তা হলো আয়াত পাঠকের মনে যে চাওয়াটা রেখে যায় সেটাই: তাদের দলে না থাকা যাদের কাছে খবর পৌঁছেছিল। এর সবচেয়ে কাছের কুরআনী শব্দ ১০:৪৪ আয়াতের সেই সাধারণ নিয়মে, আর সেটা বলা হবে অনুরোধ হিসেবে নয়, মনে করিয়ে দেওয়া হিসেবে, যে আল্লাহ মানুষের প্রতি কোনো যুলমই করেন না; আর এতে নিজের অবস্থা নিয়ে প্রতিটি অভিযোগ ফিরে যায় তার উৎসের দিকেই।"
+          },
+          {
+            "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, You sent their messengers with clear proofs and the news reached me too, so do not let me be counted among those who had it and did nothing. It is assembled from the verse's middle clause and its closing one, and it is not a Sunnah du'a. The wording of 10:44 is the safer of the two and shorter to keep.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আপনি তাদের রাসূলদের স্পষ্ট প্রমাণ নিয়ে পাঠিয়েছিলেন, আর সেই খবর আমার কাছেও পৌঁছেছে; কাজেই আমাকে তাদের মধ্যে গোনা হতে দেবেন না যাদের কাছে সেটা ছিল আর যারা কিছুই করেনি। এটি আয়াতের মাঝের কথা আর শেষের কথা জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। ১০:৪৪ আয়াতের শব্দগুলোই দুটোর মধ্যে বেশি নিরাপদ আর মনে রাখার জন্য ছোট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About the News",
+          "bn": "খবরটি নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The charge here is not ignorance but refusal after evidence, so what have I been told clearly enough that not knowing is no longer available to me? Six histories are listed as though reading them were the point: which account of somebody else's ruin have I read and filed away without applying a single thing from it? And the verse says Allah did not wrong them, so when something goes badly for me, where does my mind go first to place the blame?",
+            "bn": "এখানকার অভিযোগ না জানা নিয়ে নয়, দলিল আসার পর নাকচ করা নিয়ে; তাহলে এমন কী আমাকে এত পরিষ্কারভাবে বলা হয়েছে যে না জানার সুযোগ আর আমার হাতে নেই? ছয়টি ইতিহাসের তালিকা দেওয়া হয়, যেন পড়াটাই আসল কাজ: অন্য কারও ধ্বংসের কোন বিবরণ আমি পড়ে তার থেকে একটা জিনিসও কাজে না লাগিয়ে তুলে রেখেছি? আর আয়াত বলে আল্লাহ তাদের প্রতি যুলম করেননি; তাহলে আমার কোনো কিছু খারাপ হলে দোষ রাখতে আমার মন প্রথমে কোথায় যায়?"
+          },
+          {
+            "en": "Two more. The six were stronger and wealthier than the people being warned with their story, so what am I counting on that they had more of? And these were people who had the news in their hands: what do I already know about the end of a road I am still walking along, and what would it take for me to treat that knowledge as news rather than as history?",
+            "bn": "আরও দুটি। যাদের এ কাহিনি দিয়ে হুঁশিয়ার করা হচ্ছিল, ছয়টি জাতি তাদের চেয়ে বেশি শক্তিশালী আর বেশি ধনী ছিল; তাহলে আমি কীসের উপর ভরসা করে আছি, যা তাদের কাছে আরও বেশি ছিল? আর এরা সেই লোক, যাদের হাতে খবরটা ছিল: যে রাস্তায় আমি এখনো হাঁটছি, তার শেষ সম্পর্কে আমি আগেই কী জানি, আর ওই জানাটাকে ইতিহাস নয়, খবর হিসেবে নিতে আমার কী লাগত?"
+          }
+        ]
+      }
+    ]
+  },
   "9:105": {
     "sections": [
       {

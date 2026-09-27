@@ -6983,6 +6983,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The eight shares were fixed by the One who knows, not by whoever is most persuasive about needing them; learn the list before deciding where your zakah goes.",
     "lessonBn": "আটটি ভাগ ঠিক করেছেন যিনি জানেন তিনিই, দরকারের কথা সবচেয়ে ভালো বোঝাতে পারে এমন কেউ নয়। যাকাত কোথায় যাবে ঠিক করার আগে তালিকাটা শিখে নিন।"
+  },
+  "9:70": {
+    "reflectionEn": "Six peoples are named in one breath and then one sentence covers all of them: their messengers came to them with clear proofs. That is the whole indictment. Not that they were never told, not that the evidence was thin, but that it arrived and was refused. The verse ends by removing the only excuse left, and it removes it from Allah's side rather than theirs: He would never have wronged them, but they were wronging themselves. A question is being put to people who have the histories and still expect a different ending.",
+    "reflectionBn": "এক শ্বাসে ছয়টি জাতির নাম আসে, তারপর একটি বাক্যই ঢেকে দেয় তাদের সবাইকে: তাদের রাসূলগণ তাদের কাছে স্পষ্ট প্রমাণ নিয়ে এসেছিলেন। গোটা অভিযোগ ওটাই। এমন নয় যে তাদের কখনো বলা হয়নি, এমনও নয় যে দলিল পাতলা ছিল; বরং দলিল এসেছিল আর তা নাকচ করা হয়েছিল। আয়াত শেষ হয় একমাত্র বাকি থাকা ওজরটা সরিয়ে দিয়ে, আর সেটা সরানো হয় তাদের দিক থেকে নয়, আল্লাহর দিক থেকে: তিনি তাদের প্রতি যুলম করার মতো নন, বরং তারাই নিজেদের প্রতি যুলম করছিল। প্রশ্নটা রাখা হচ্ছে এমন লোকদের সামনে, যাদের হাতে ইতিহাসগুলো আছে, তবু যারা আশা করে তাদের শেষটা আলাদা হবে।",
+    "pointsEn": [
+      "The charge is not ignorance but refusal after evidence. What have I been told clearly enough that ignorance is no longer available to me?",
+      "Six histories are listed as if reading them were the point. Which account of somebody else's ruin have I read and filed away without applying anything?",
+      "The verse says Allah did not wrong them. When something goes badly for me, where does my mind go first to place the blame?",
+      "They were stronger and wealthier than the people being warned. What am I counting on that those six had more of?",
+      "These are people who had the news. What do I know about the end of a road I am still walking down?"
+    ],
+    "pointsBn": [
+      "অভিযোগটা না জানা নিয়ে নয়, দলিল আসার পর নাকচ করা নিয়ে। এমন কী আমাকে এত পরিষ্কারভাবে বলা হয়েছে যে না জানার অজুহাত আর আমার হাতে নেই?",
+      "ছয়টি ইতিহাসের তালিকা দেওয়া হয়, যেন পড়াটাই আসল কাজ। অন্য কারও ধ্বংসের কোন বিবরণ আমি পড়ে কিছুই কাজে না লাগিয়ে তুলে রেখেছি?",
+      "আয়াত বলে, আল্লাহ তাদের প্রতি যুলম করেননি। আমার কোনো কিছু খারাপ হলে দোষ রাখতে আমার মন প্রথমে কোথায় যায়?",
+      "যাদের হুঁশিয়ার করা হচ্ছিল, এরা তাদের চেয়ে বেশি শক্তিশালী আর বেশি ধনী ছিল। আমি কীসের উপর ভরসা করে আছি, যা ওই ছয় জাতির কাছে আরও বেশি ছিল?",
+      "এরা সেই লোক, যাদের কাছে খবর পৌঁছেছিল। যে রাস্তায় আমি এখনো হাঁটছি, তার শেষটা সম্পর্কে আমি কী জানি?"
+    ],
+    "lessonEn": "The histories were not given so you would know them but so you would not need them; the charge in this verse is refusal after proof, not ignorance.",
+    "lessonBn": "ইতিহাসগুলো দেওয়া হয়নি আপনি জানবেন সে জন্য, দেওয়া হয়েছে যাতে আপনার সেগুলোর দরকারই না পড়ে। এ আয়াতের অভিযোগ না জানা নিয়ে নয়, প্রমাণ আসার পর নাকচ করা নিয়ে।"
   }
 };
 
