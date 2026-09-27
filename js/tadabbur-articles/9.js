@@ -1947,6 +1947,142 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:88": {
+    "sections": [
+      {
+        "h": {
+          "en": "One Word Turns the Page",
+          "bn": "একটি শব্দে পাতা ওল্টায়"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan and this verse is a hinge. For many verses the surah has been describing men who asked to be excused, were satisfied to sit with those who stay behind, and had their hearts sealed over, which is where 9:87 leaves them. Then comes lakin, but, and the sentence turns to the Messenger ﷺ and those who believed with him. 9:89 completes the turn with what Allah has prepared for them, gardens beneath which rivers flow.",
+            "bn": "সূরা তাওবা মাদানী, আর এ আয়াতটি একটি কবজা। অনেক আয়াত ধরে সূরা বর্ণনা করে আসছে এমন লোকদের, যারা অব্যাহতি চেয়েছে, পিছিয়ে থাকা লোকদের সঙ্গে বসে থাকাতেই খুশি হয়েছে, আর যাদের অন্তরে সীল মেরে দেওয়া হয়েছে; ৯:৮৭ আয়াত তাদের ওখানেই রেখে আসে। এরপর আসে লাকিন, অর্থাৎ কিন্তু; আর বাক্যটি ঘুরে যায় রাসূল ﷺ আর তাঁর সঙ্গে ঈমান আনা লোকদের দিকে। ৯:৮৯ আয়াত সেই ঘোরাটা পূর্ণ করে এ বলে যে আল্লাহ তাঁদের জন্য কী তৈরি করে রেখেছেন, জান্নাত যার নিচে দিয়ে নদী বয়ে যায়।"
+          },
+          {
+            "en": "At-Tabari makes the contrast explicit rather than leaving it to the particle. These hypocrites whose stories I have related, he writes, did not fight the idolaters; but the Messenger Muhammad ﷺ and those who affirmed Allah and His Messenger with him, they are the ones who fought the idolaters with their wealth and their selves, so they spent their wealth in their striving and wearied their selves in their fighting and gave them up. Two verbs are supplied where the verse has one: they spent, and they wearied.",
+            "bn": "তাবারী তুলনাটা স্পষ্ট করে দেন, শব্দকণার হাতে ছেড়ে দেন না। তিনি লেখেন, এ মুনাফিকরা, যাদের কাহিনি আমি বলেছি, তারা মুশরিকদের সঙ্গে লড়েনি; কিন্তু রাসূল মুহাম্মাদ ﷺ আর তাঁর সঙ্গে আল্লাহ ও তাঁর রাসূলকে সত্য বলে মানা লোকেরা, তাঁরাই মুশরিকদের সঙ্গে লড়েছেন নিজেদের মাল আর নিজেদের জান দিয়ে; তাই তাঁরা নিজেদের জিহাদে নিজেদের মাল খরচ করেছেন আর নিজেদের লড়াইয়ে নিজেদের জান ক্লান্ত করেছেন আর সেগুলো সঁপে দিয়েছেন। আয়াতে যেখানে একটি ক্রিয়া, সেখানে তিনি দেন দুটি: তাঁরা খরচ করেছেন, আর তাঁরা ক্লান্ত করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wealth and Selves Again",
+          "bn": "আবার মাল আর জান"
+        },
+        "p": [
+          {
+            "en": "The pair of nouns in this verse has been running through the surah from early on. 9:20 says those who believed and emigrated and strove with their wealth and their lives are greater in rank; 9:41 commands, go forth light or heavy and strive with your wealth and your lives; 9:44 says believers do not ask to be excused from striving with their wealth and their lives; 9:81 describes the ones who stayed disliking to strive with their wealth and their lives. The same two things are asked of everybody in the surah.",
+            "bn": "এ আয়াতের শব্দ জোড়াটি সূরার গোড়া থেকেই চলে আসছে। ৯:২০ আয়াত বলে, যারা ঈমান এনেছে আর হিজরত করেছে আর নিজেদের মাল আর জান দিয়ে জিহাদ করেছে, তাদের মর্যাদা বড়; ৯:৪১ আয়াত হুকুম দেয়, হালকা হও বা ভারী, বেরিয়ে পড় আর নিজেদের মাল আর জান দিয়ে জিহাদ কর; ৯:৪৪ আয়াত বলে, মু'মিনরা নিজেদের মাল আর জান দিয়ে জিহাদ থেকে অব্যাহতি চায় না; ৯:৮১ আয়াত বর্ণনা করে সেই লোকদের, যারা থেকে গিয়েছিল আর নিজেদের মাল আর জান দিয়ে জিহাদ করা অপছন্দ করেছিল। সূরাজুড়ে একই দুটি জিনিস চাওয়া হয় সবার কাছেই।"
+          },
+          {
+            "en": "That repetition is what makes the contrast in our verse land. The two groups were not distinguished by what they had at their disposal; several of the men who asked to stay were the ones with means, as 9:86 says of those of wealth among them. They were distinguished by what the same two things were used for. And 9:111 later states the transaction outright, that Allah has purchased from the believers their lives and their properties, with Paradise as the price.",
+            "bn": "এ পুনরাবৃত্তিই আমাদের আয়াতের তুলনাটাকে জায়গামতো বসিয়ে দেয়। দুই দলের ফারাক তাদের হাতে কী ছিল তা নিয়ে ছিল না; যারা থেকে যেতে চেয়েছিল তাদের কয়েকজনই ছিল সামর্থ্যবান, যেমন ৯:৮৬ আয়াত তাদের মধ্যে সম্পদশালীদের সম্পর্কে বলে। ফারাকটা ছিল একই দুটি জিনিস কী কাজে লাগানো হলো তা নিয়ে। আর পরে ৯:১১১ আয়াত লেনদেনটা সোজাসুজি বলে দেয়, আল্লাহ মু'মিনদের কাছ থেকে তাদের জান আর মাল কিনে নিয়েছেন, আর দাম জান্নাত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Sluggish, but Glad",
+          "bn": "গড়িমসি নয়, খুশি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the verse as an answer to a worry the previous verses could raise, namely what happens to the work when the unwilling stay home. If these hypocrites stay back from the striving, he writes, Allah will do without them, and Allah has servants and select ones among His creation whom He singled out with His favour, who undertake this matter. The verse's own subject is then named as the answer: the Messenger ﷺ and those who believed with him.",
+            "bn": "সা'দী আয়াতটিকে পড়েন এমন এক দুশ্চিন্তার জবাব হিসেবে, যা আগের আয়াতগুলো জাগাতে পারত; অর্থাৎ অনিচ্ছুকরা ঘরে থেকে গেলে কাজটার কী হবে। তিনি লেখেন, এ মুনাফিকরা যদি জিহাদ থেকে পিছিয়ে থাকে, আল্লাহ তাদের ছাড়াই চালিয়ে নেবেন; আর আল্লাহর এমন বান্দা আর সৃষ্টির মধ্যে এমন বাছাই করা লোক আছে যাদের তিনি নিজের অনুগ্রহে আলাদা করে নিয়েছেন, আর তারাই এ কাজ কাঁধে নেয়। এরপর আয়াতের নিজের বিষয়টিকেই সেই জবাব হিসেবে নাম দেওয়া হয়: রাসূল ﷺ আর তাঁর সঙ্গে ঈমান আনা লোকেরা।"
+          },
+          {
+            "en": "Then he adds the manner, which the verse itself does not state: they fought with their wealth and their selves, not sluggish and not lazy, but rather joyful and glad. That is the sharpest difference he draws between the two groups, and it is not about output. Both a reluctant man and a glad man may carry a load; as-Sa'di is pointing at what the carrying felt like from inside, and the surah has already shown the other side of that in men who called it a burden.",
+            "bn": "এরপর তিনি যোগ করেন ধরনটা, যা আয়াত নিজে বলে না: তাঁরা নিজেদের মাল আর জান দিয়ে লড়েছেন, গড়িমসি করে নয় আর অলসভাবেও নয়, বরং আনন্দিত আর উৎফুল্ল হয়ে। দুই দলের মধ্যে তিনি যে ফারাকটা টানেন এটাই সবচেয়ে ধারালো, আর সেটা উৎপাদন নিয়ে নয়। অনিচ্ছুক লোকও বোঝা টানতে পারে, খুশি লোকও পারে; সা'দী আঙুল তুলছেন ভেতর থেকে ওই টানাটা কেমন লাগত সেদিকে, আর সূরা এর উল্টো পাশটা আগেই দেখিয়েছে এমন লোকদের মধ্যে যারা সেটাকে বোঝা বলেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Good Things, Unlisted",
+          "bn": "যাবতীয় কল্যাণ, তালিকা ছাড়া"
+        },
+        "p": [
+          {
+            "en": "The first of the two promises is a plural with no inventory attached: for them are the khayrat, the good things. At-Tabari reads them as the good things of the hereafter and names three, its women, its gardens and its bliss, then notes the singular khayrah and glosses it as the excellent one of anything. Ibn Kathir puts them in the hereafter too, in the gardens of al-Firdaws and the high grades.",
+            "bn": "দুটি ওয়াদার প্রথমটি একটি বহুবচন, আর তার সঙ্গে কোনো তালিকা জোড়া নেই: তাঁদের জন্য খায়রাত, অর্থাৎ যাবতীয় কল্যাণ। তাবারী এগুলো পড়েন আখিরাতের কল্যাণ হিসেবে আর তিনটির নাম নেন, তার নারীরা, তার জান্নাত আর তার নিয়ামত; তারপর তিনি একবচন খায়রার কথা তুলে ধরেন আর ব্যাখ্যা দেন, যে কোনো জিনিসের সবচেয়ে উত্তমটি। ইবনু কাসীরও এগুলোকে রাখেন আখিরাতে, ফিরদাউসের জান্নাতে আর উঁচু স্তরে।"
+          },
+          {
+            "en": "As-Sa'di widens it in the other direction: the many good things in this world and the hereafter. Reading the two together, the plural is left open on purpose, and a reader is not being handed a catalogue to compare with what he wanted. The second promise is the one that carries the judgement. They are the muflihun, which at-Tabari glosses as those who abide for ever in the gardens, remaining in them, winning them, and as-Sa'di as those who triumphed with the highest objects of desire and the most complete of wishes.",
+            "bn": "সা'দী এটিকে চওড়া করেন অন্য দিকে: দুনিয়া আর আখিরাত দুই জায়গাতেই অনেক কল্যাণ। দুজনকে একসঙ্গে পড়লে বোঝা যায়, বহুবচনটি খোলা রাখা হয়েছে ইচ্ছে করেই, আর পাঠকের হাতে এমন কোনো তালিকা তুলে দেওয়া হচ্ছে না যেটা তিনি নিজের চাওয়ার সঙ্গে মিলিয়ে দেখবেন। দ্বিতীয় ওয়াদাটিই বহন করে রায়টা। তাঁরাই মুফলিহূন, যার ব্যাখ্যায় তাবারী বলেন, যাঁরা জান্নাতে চিরকাল থাকবেন, সেখানে টিকে থাকবেন, সেটা জিতে নেবেন; আর সা'দী বলেন, যাঁরা সবচেয়ে উঁচু কামনা আর সবচেয়ে পূর্ণ আকাঙ্ক্ষা জিতে নিয়েছেন।"
+          },
+          {
+            "en": "9:89 then itemises what was left unlisted, and it does so in the words this surah has used before: Allah has prepared for them gardens beneath which rivers flow, wherein they abide eternally, and that is the great attainment. The last phrase is the one 9:72 also ends on, and there it came after a clause saying that approval from Allah is greater than the gardens themselves. Read together, the two verses give the same reward twice, once itemised and once ranked.",
+            "bn": "এরপর ৯:৮৯ আয়াত যা তালিকা ছাড়া রাখা হয়েছিল তা একটা একটা করে গুনে দেয়, আর সেটা করে এ সূরার আগেও ব্যবহার করা শব্দেই: আল্লাহ তাঁদের জন্য তৈরি করে রেখেছেন জান্নাত, যার নিচে দিয়ে নদী বয়ে যায়, যেখানে তাঁরা চিরকাল থাকবেন, আর এটাই মহাসফলতা। শেষ কথাটিতেই ৯:৭২ আয়াতও শেষ হয়, আর ওখানে সেটা এসেছিল এমন এক কথার পরে যা বলে আল্লাহর সন্তুষ্টি জান্নাতগুলোর চেয়েও বড়। দুটি আয়াত একসঙ্গে পড়লে একই পুরস্কার দুবার পাওয়া যায়, একবার গুনে গুনে আর একবার সারিতে বসিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Named With the Messenger",
+          "bn": "রাসূলের ﷺ সঙ্গে নাম"
+        },
+        "p": [
+          {
+            "en": "The subject of the verse is not the believers alone. It is the Messenger ﷺ and those who believed with him, in that order, and the two promises are made to the pair of them together. Nothing is divided out: the good things and the success are stated for the whole company. In a surah that has spent dozens of verses separating one group from another, this sentence puts a set of ordinary people in the same clause as the Prophet ﷺ.",
+            "bn": "আয়াতের বিষয় কেবল মু'মিনরা নয়। বিষয় হলো রাসূল ﷺ আর তাঁর সঙ্গে ঈমান আনা লোকেরা, এই ক্রমেই; আর দুটি ওয়াদা করা হয় তাঁদের দুইকে একসঙ্গেই। কিছুই ভাগ করে দেওয়া হয় না: যাবতীয় কল্যাণ আর সফলতার কথা বলা হয় গোটা দলটির জন্যই। যে সূরা ডজন ডজন আয়াত খরচ করেছে এক দলকে আরেক দল থেকে আলাদা করতে, সেই সূরার এ বাক্যটি সাধারণ কিছু মানুষকে বসিয়ে দেয় নবীর ﷺ সঙ্গে একই বাক্যাংশে।"
+          },
+          {
+            "en": "That is worth noticing for what it says about company. The men described are not solitary strivers; they are those who believed with him and fought with him, and the verse's grammar keeps them attached to the person they followed. Set against 9:87, where the other group is satisfied to sit with those who stay behind, the surah has put the same structure on both sides: in each case people ended up doing what the company they chose was doing.",
+            "bn": "সঙ্গ নিয়ে এটা কী বলে, সে জন্য এটা খেয়াল করার মতো। যাদের বর্ণনা দেওয়া হচ্ছে তাঁরা একলা সংগ্রামী নন; তাঁরা তাঁরাই যাঁরা তাঁর সঙ্গে ঈমান এনেছেন আর তাঁর সঙ্গে লড়েছেন, আর আয়াতের ব্যাকরণ তাঁদের জুড়ে রাখে সেই ব্যক্তির সঙ্গেই যাঁকে তাঁরা অনুসরণ করেছেন। ৯:৮৭ আয়াতের বিপরীতে রাখলে, যেখানে অন্য দলটি পিছিয়ে থাকা লোকদের সঙ্গে বসে থাকাতেই খুশি, দেখা যায় সূরা দুই পাশেই একই গড়ন বসিয়ে দিয়েছে: দুই বেলাতেই মানুষ শেষে সেটাই করেছে, যা তাদের বেছে নেওয়া সঙ্গীরা করছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which One You Give",
+          "bn": "দুটোর কোনটা দেন"
+        },
+        "p": [
+          {
+            "en": "The practical question the verse puts is simple and it is answerable. Of the two things named, wealth and self, which does a person find easier to give? Money without time, or time without money, is the ordinary compromise, and the surah keeps naming both together so that neither can stand in for the other. At-Tabari's two verbs are the test taken together, and neither of them settles for the other: they spent their wealth, and they wearied their selves.",
+            "bn": "আয়াত যে কাজের প্রশ্নটা রাখে তা সহজ, আর তার জবাব দেওয়া যায়। নাম নেওয়া দুটি জিনিসের মধ্যে, মাল আর জান, কোনটা দিতে মানুষের সহজ লাগে? সময় ছাড়া টাকা, কিংবা টাকা ছাড়া সময়, এটাই সাধারণ আপস; আর সূরা দুটোকে বারবার একসঙ্গেই নাম দেয়, যাতে একটি অন্যটির জায়গায় দাঁড়াতে না পারে। তাবারীর দুটি ক্রিয়া একসঙ্গেই এখানে যাচাই, আর একটি অন্যটির বদলে দাঁড়ায় না: তাঁরা নিজেদের মাল খরচ করেছেন, আর তাঁরা নিজেদের জান ক্লান্ত করেছেন।"
+          },
+          {
+            "en": "As-Sa'di's addition gives the harder half of the test. If the work is being done sluggishly and unwillingly, it is still being done, and the verse would still count the output; but his description of the same people as joyful and glad marks a difference a person can feel in himself long before anybody else could see it. And his opening remark removes the last excuse: if the unwilling stay home, Allah will do without them, so nobody is indispensable except to his own account.",
+            "bn": "যাচাইয়ের কঠিন অর্ধেকটা দেয় সা'দীর সেই যোগ করা কথাটি। কাজটা যদি গড়িমসি করে আর অনিচ্ছায় হয়, তবু সেটা হচ্ছে, আর আয়াত উৎপাদনটা গুনতও; কিন্তু একই লোকদের আনন্দিত আর উৎফুল্ল বলে তাঁর বর্ণনাটি এমন এক ফারাকের দাগ টানে, যা মানুষ নিজের ভেতরে টের পায় অন্য কারও চোখে পড়ার অনেক আগেই। আর তাঁর শুরুর কথাটি শেষ ওজরটাও সরিয়ে দেয়: অনিচ্ছুকরা ঘরে থেকে গেলে আল্লাহ তাদের ছাড়াই চালিয়ে নেবেন; কাজেই নিজের হিসাব ছাড়া আর কোথাও কেউ অপরিহার্য নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer to Be Counted In",
+          "bn": "দলে গোনা হওয়ার দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse is a description and a promise rather than a supplication, and what a reader is left wanting is to be inside its subject: among those who believed with him and gave both things. The Quran's nearest wording for that wish is 9:111, which states the exchange as already transacted, that Allah has purchased from the believers their lives and their properties, with Paradise as the price, and calls it a true promise binding upon Him.",
+            "bn": "আয়াতটি দোয়া নয়, একটি বর্ণনা আর একটি ওয়াদা; আর পাঠকের মনে যে চাওয়া থেকে যায় তা হলো এর বিষয়ের ভেতরে থাকা: তাঁর সঙ্গে ঈমান আনা আর দুটো জিনিসই দেওয়া লোকদের মধ্যে থাকা। এ চাওয়ার সবচেয়ে কাছের কুরআনী শব্দ ৯:১১১ আয়াত, যা লেনদেনটাকে ইতিমধ্যেই সম্পন্ন বলে জানায়, আল্লাহ মু'মিনদের কাছ থেকে তাদের জান আর মাল কিনে নিয়েছেন, আর দাম জান্নাত; আর সেটাকে বলে তাঁর উপর বর্তানো সত্য ওয়াদা।"
+          },
+          {
+            "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, count me among those who believed with him, and take from my wealth and from my self before You have to ask. It is assembled from the verse's subject and its pair of nouns, and it is not a Sunnah du'a. The wording of 9:111 is the safer of the two and has the advantage of being a statement, which needs no sincerity to be true.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আমাকে তাঁর সঙ্গে ঈমান আনা লোকদের মধ্যে গুনে নিন; আর আপনাকে চাইতে হওয়ার আগেই আমার মাল থেকে আর আমার জান থেকে নিয়ে নিন। এটি আয়াতের বিষয় আর তার শব্দ জোড়া জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। ৯:১১১ আয়াতের শব্দগুলোই দুটোর মধ্যে বেশি নিরাপদ, আর তার সুবিধা এই যে সেটি একটি বক্তব্য, আর সেটি সত্য হতে কোনো নিষ্ঠার দরকার পড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About the Pair",
+          "bn": "সেই জোড়া নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The same two things were asked of both groups, so of my wealth and my self, which do I find easier to give, and what does that answer expose? The verse promises the good things without listing them: what would I put on that list, and how much of my version is about this world? And the contrast is drawn with a single word, but: who is on the other side of that word in my own life?",
+            "bn": "একই দুটি জিনিস চাওয়া হয়েছিল দুই দলের কাছেই; তাহলে আমার মাল আর আমার জান, কোনটা দিতে আমার সহজ লাগে, আর সেই জবাব আমার কী ফাঁস করে? আয়াত যাবতীয় কল্যাণের ওয়াদা করে, তালিকা দেয় না: ওই তালিকায় আমি কী রাখতাম, আর আমার বানানো তালিকার কতটা এ দুনিয়া নিয়ে? আর তুলনাটা টানা হয় একটিমাত্র শব্দে, কিন্তু: আমার নিজের জীবনে ওই শব্দের উল্টো পাশে কে আছে?"
+          },
+          {
+            "en": "Two more. They are called the successful for what they spent rather than for what they got: what would my own definition of a successful year be, and whose definition is it? And the verse keeps them attached to the person they followed, while the other group was satisfied to sit with those who sat: am I trying to do good near people who are doing it, or alone and at a distance from anyone who would notice either way?",
+            "bn": "আরও দুটি। তাঁদের সফলকাম বলা হয় তাঁরা যা খরচ করেছেন সে কারণে, যা পেয়েছেন সে কারণে নয়: সফল এক বছরের আমার নিজের সংজ্ঞা কী হতো, আর সেটা আসলে কার সংজ্ঞা? আর আয়াত তাঁদের জুড়ে রাখে সেই ব্যক্তির সঙ্গে যাঁকে তাঁরা অনুসরণ করেছেন, অথচ অন্য দলটি খুশি ছিল বসে থাকা লোকদের সঙ্গে বসে থাকতেই: আমি কি ভালো কাজ করছি এমন লোকদের কাছাকাছি থেকে, নাকি একা, এমন সবার থেকে দূরে যারা যেভাবেই হোক খেয়াল করত?"
+          }
+        ]
+      }
+    ]
+  },
   "9:105": {
     "sections": [
       {

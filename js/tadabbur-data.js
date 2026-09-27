@@ -7063,6 +7063,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "An estate is not a verdict; the verse removes the impression at the one place it is hardest to resist, beside a grave.",
     "lessonBn": "রেখে যাওয়া সম্পদ কোনো রায় নয়। আয়াত সেই মুগ্ধতাটা সরিয়ে দেয় ঠিক সেই জায়গায়, যেখানে সেটা সামলানো সবচেয়ে কঠিন, একটি কবরের পাশে।"
+  },
+  "9:88": {
+    "reflectionEn": "One word turns the page. But — and after a long stretch about men who asked to stay home, the sentence goes to the Messenger and those who believed with him, who fought with their wealth and their lives. Two things are promised and neither is modest: for them are the good things, and they are the successful. Notice that the same pair of nouns has run through this whole surah, wealth and selves, asked of everybody. The difference between the two groups was never what they had. It was what they did with the same two things.",
+    "reflectionBn": "একটি শব্দই পাতা উল্টে দেয়। কিন্তু; আর ঘরে থেকে যাওয়ার অনুমতি চাওয়া লোকদের নিয়ে লম্বা এক অংশের পর বাক্যটি চলে যায় রাসূল ﷺ আর তাঁর সঙ্গে ঈমান আনা লোকদের দিকে, যাঁরা নিজেদের মাল আর জান দিয়ে লড়েছেন। দুটি জিনিসের ওয়াদা করা হয়, আর কোনোটিই ছোট নয়: তাঁদের জন্য যাবতীয় কল্যাণ, আর তাঁরাই সফলকাম। খেয়াল করুন, একই শব্দ জোড়াটি গোটা সূরাজুড়ে চলে এসেছে, মাল আর জান, আর চাওয়া হয়েছে সবার কাছেই। দুই দলের ফারাক কখনোই ছিল না তাদের কী ছিল তা নিয়ে। ফারাকটা ছিল একই দুটি জিনিস নিয়ে তারা কী করল তা নিয়ে।",
+    "pointsEn": [
+      "The same two things were asked of both groups. Of my wealth and my self, which one do I find easier to give, and which one does that answer expose?",
+      "The verse promises the good things without listing them. What would I put on that list, and how much of my list is about this world?",
+      "The contrast is drawn with one word. Who is on the other side of that word in my own life, and would I notice if I crossed over?",
+      "They are called successful for what they spent rather than for what they gained. What would my definition of a successful year be?",
+      "The Messenger is named first and then those with him. Am I trying to do good near people who are doing it, or alone at a distance?"
+    ],
+    "pointsBn": [
+      "একই দুটি জিনিস চাওয়া হয়েছিল দুই দলের কাছেই। আমার মাল আর আমার জান, এ দুটোর কোনটা দিতে আমার সহজ লাগে, আর সেই জবাবটা আমার কী ফাঁস করে দেয়?",
+      "আয়াত যাবতীয় কল্যাণের ওয়াদা করে, তালিকা দেয় না। ওই তালিকায় আমি কী রাখতাম, আর আমার তালিকার কতটা এ দুনিয়া নিয়ে?",
+      "তুলনাটা টানা হয় একটি শব্দ দিয়ে। আমার নিজের জীবনে ওই শব্দের উল্টো পাশে কে আছে, আর আমি পার হয়ে গেলে কি টের পেতাম?",
+      "তাঁদের সফল বলা হয় তাঁরা যা খরচ করেছেন সে কারণে, যা পেয়েছেন সে কারণে নয়। সফল এক বছরের আমার সংজ্ঞাটা কী হতো?",
+      "রাসূলের ﷺ নাম আগে আসে, তারপর তাঁর সঙ্গীদের। আমি কি ভালো কাজ করছি এমন লোকদের কাছাকাছি থেকে, নাকি একা দূরে বসে?"
+    ],
+    "lessonEn": "Both groups were asked for wealth and self; what separated them was not means but use, and the verse calls the spenders the successful ones.",
+    "lessonBn": "দুই দলের কাছেই চাওয়া হয়েছিল মাল আর জান; তাদের আলাদা করেছে সামর্থ্য নয়, ব্যবহার। আর আয়াত সফলকাম বলে তাদেরই, যারা খরচ করেছে।"
   }
 };
 
