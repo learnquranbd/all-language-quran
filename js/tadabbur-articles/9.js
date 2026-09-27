@@ -851,6 +851,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:44": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Reproach That Opens With Pardon",
+          "bn": "যে ভর্ৎসনা শুরু হয় মাফ দিয়ে"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan and this stretch of it examines an expedition nobody wanted to make in the heat. 9:42 says that had it been an easy gain and a short trip they would have followed, but the journey was far for them. 9:43 then turns to the Prophet ﷺ himself with a reproach, and the order of its words is what the commentators notice: may Allah pardon you, why did you give them leave, before it was clear to you who told the truth and you knew the liars.",
+            "bn": "সূরা তাওবা মাদানী, আর এর এ অংশটি পরীক্ষা করে এমন এক অভিযান, গরমের ভেতরে যেটাতে কেউ যেতে চায়নি। ৯:৪২ আয়াত বলে, লাভটা সহজ আর পথটা ছোট হলে তারা অবশ্যই পিছে পিছে যেত, কিন্তু যাত্রা তাদের কাছে ছিল দূরের। এরপর ৯:৪৩ আয়াত ফেরে নবীর ﷺ নিজের দিকেই এক ভর্ৎসনা নিয়ে, আর তার শব্দের ক্রমটাই মুফাসসিরগণ খেয়াল করেন: আল্লাহ আপনাকে মাফ করুন, আপনি কেন তাদের অনুমতি দিলেন, কারা সত্য বলেছে তা আপনার কাছে স্পষ্ট হওয়ার আগে আর মিথ্যাবাদীদের চেনার আগে।"
+          },
+          {
+            "en": "Ibn Kathir collects what the early commentators made of that order. Awn said: have you heard criticism softer than this, beginning with the pardon before the criticism; Muwarriq al-Ijli and others said the like. Qatadah added the sequel, that Allah criticised him here and later revealed the permission to let them lag behind if he wished, in 24:62; Ata' al-Khurasani said the same. And Mujahid reports that the verse came down about people who had said: ask the Messenger of Allah ﷺ for permission, and whether he agrees or not, stay behind.",
+            "bn": "ওই ক্রম নিয়ে আগের মুফাসসিরগণ কী বলেছেন, ইবনু কাসীর তা জমা করেন। আওন বলেছেন: এর চেয়ে নরম সমালোচনা কি কখনো শুনেছ, যা শুরু হয় সমালোচনার আগে মাফ দিয়ে? মুওয়ার্রিক আল-ইজলী আর অন্যরাও একই কথা বলেছেন। কাতাদা যোগ করেন এর পরের ধাপটা, আল্লাহ এখানে তাঁকে সমালোচনা করলেন, আর পরে ২৪:৬২ আয়াতে তাঁকে অনুমতি দিলেন যে তিনি চাইলে তাদের পিছিয়ে থাকতে দিতে পারেন; আতা আল-খুরাসানীও একই কথা বলেছেন। আর মুজাহিদ জানান, আয়াতটি নেমেছিল এমন লোকদের সম্পর্কে যারা বলেছিল: রাসূলুল্লাহর ﷺ কাছে অনুমতি চাও, তিনি রাজি হন বা না হন, পিছিয়েই থাক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Described by an Absence",
+          "bn": "না-করা দিয়ে বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Our verse then identifies the believers by something they do not do. They do not ask your leave to be excused from striving with their wealth and their lives. It is a negative description, and an unusual test, because it does not look at how a person performs once the work has begun. It looks at who arrives beforehand with a request. The pair of nouns is the one this surah keeps using for what a man can put in, his wealth and his self.",
+            "bn": "এরপর আমাদের আয়াত মু'মিনদের চেনায় এমন কিছু দিয়ে যা তারা করে না। তারা নিজেদের মাল আর জান দিয়ে জিহাদ থেকে অব্যাহতি পেতে তোমার অনুমতি চায় না। এটা না-বাচক বর্ণনা, আর অন্যরকম এক পরীক্ষা, কারণ কাজ শুরু হওয়ার পর কেউ কীভাবে করে সেদিকে সে তাকায় না। সে তাকায় কে আগেই অনুরোধ নিয়ে হাজির হয় সেদিকে। আর বিশেষ্য জোড়াটি সেই একই, যেটা এ সূরা মানুষের দেওয়ার মতো জিনিস বোঝাতে বারবার ব্যবহার করে, তার মাল আর তার নিজের জান।"
+          },
+          {
+            "en": "At-Tabari reads the verse as an act of disclosure: this is Allah informing His prophet ﷺ of the marks of the hypocrites, that among the signs by which they are known is their staying back from striving in the path of Allah by asking the Messenger of Allah ﷺ for leave to stay when the call went out, with lying excuses. He then puts the practical instruction in the Prophet's ﷺ mouth as its consequence: do not give leave to stay behind to one who asks it without an excuse.",
+            "bn": "তাবারী আয়াতটিকে পড়েন ফাঁস করে দেওয়ার একটি কাজ হিসেবে: এটি আল্লাহর পক্ষ থেকে তাঁর নবীকে ﷺ মুনাফিকদের চিহ্ন জানিয়ে দেওয়া, যে তাদের যে আলামতগুলো দিয়ে তাদের চেনা যায় তার একটি হলো আল্লাহর পথে জিহাদ থেকে পিছিয়ে থাকা, আর সেটা করা হয় ডাক পড়লে মিথ্যা ওজর দেখিয়ে রাসূলুল্লাহর ﷺ কাছে থেকে যাওয়ার অনুমতি চেয়ে। এরপর তিনি এর ফল হিসেবে কাজের নির্দেশটি নবীর ﷺ মুখে বসান: যে কোনো ওজর ছাড়াই থেকে যাওয়ার অনুমতি চায়, তাকে অনুমতি দেবেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Nobody Had to Push Them",
+          "bn": "কাউকে ঠেলতে হয়নি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di explains the absence rather than merely noting it, and his reason is about appetite. The believers do not ask leave to abandon striving with their wealth and their lives, he writes, because what is with them of desire for good and of faith carries them to it without anyone urging them on, let alone that they should ask leave to abandon it without an excuse. So the verse is not describing men who forced themselves. It is describing men for whom the thing had already become wanted.",
+            "bn": "সা'দী এই না-থাকাটাকে কেবল খেয়াল করেই ছাড়েন না, তিনি এর কারণও বলেন, আর কারণটা রুচি নিয়ে। তিনি লেখেন, মু'মিনরা নিজেদের মাল আর জান দিয়ে জিহাদ ছেড়ে দেওয়ার অনুমতি চায় না, কারণ ভালোর প্রতি টান আর ঈমান তাদের ভেতরে যা আছে তা-ই তাদের ওই দিকে নিয়ে যায়, কারও ঠেলার দরকার হয় না; আর ওজর ছাড়া সেটা ছেড়ে দেওয়ার অনুমতি চাওয়া তো আরও দূরের কথা। অর্থাৎ আয়াত এমন লোকদের বর্ণনা দিচ্ছে না যারা নিজেদের জোর করে রাজি করিয়েছে। সে বর্ণনা দিচ্ছে এমন লোকদের, যাদের কাছে জিনিসটা ততক্ষণে চাওয়ার জিনিস হয়ে গেছে।"
+          },
+          {
+            "en": "The closing clause is knowledge and not reward: and Allah is Knowing of those who fear Him. At-Tabari glosses it as knowledge of whoever feared Him and so guarded against Him by discharging His obligations, avoiding His disobedience, and hastening to His obedience. As-Sa'di turns it back on the verse itself, noting that part of His knowing the God-fearing is that He told us one of their signs: they do not ask leave to abandon the striving.",
+            "bn": "শেষ কথাটি প্রতিদান নয়, জানা: আর আল্লাহ মুত্তাকীদের সম্পর্কে জানেন। তাবারী এর ব্যাখ্যা দেন, তাঁর জানা আছে কে তাঁকে ভয় করেছে আর তাই তাঁর ফরজ আদায় করে, তাঁর নাফরমানি থেকে দূরে থেকে আর তাঁর আনুগত্যের দিকে দৌড়ে গিয়ে নিজেকে বাঁচিয়ে রেখেছে। সা'দী কথাটা আয়াতের দিকেই ঘুরিয়ে দেন, লিখে রাখেন যে মুত্তাকীদের সম্পর্কে তাঁর জানার একটা দিক এই যে তিনি আমাদের তাঁদের একটি আলামত জানিয়ে দিলেন: তাঁরা জিহাদ ছেড়ে দেওয়ার অনুমতি চান না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Verse After It",
+          "bn": "এর পরের আয়াত"
+        },
+        "p": [
+          {
+            "en": "9:45 completes the sentence by naming who does ask: only those ask your leave who do not believe in Allah and the Last Day and whose hearts have doubted, so they waver in their doubt. The two verses together make a pair of descriptions rather than a rule, and the second is careful about the mechanism. It does not say they are cowards or that they love comfort; it says their hearts are in doubt, and that the doubting is what the wavering is made of.",
+            "bn": "৯:৪৫ আয়াত বাক্যটি পূর্ণ করে, নাম নিয়ে বলে কারা চায়: তোমার কাছে অনুমতি কেবল তারাই চায় যারা আল্লাহ আর শেষ দিনে ঈমান রাখে না আর যাদের অন্তর সন্দেহে পড়েছে, তাই তারা নিজেদের সন্দেহেই দোল খায়। দুটি আয়াত মিলে হয়ে ওঠে দুটি বর্ণনার জোড়া, কোনো বিধান নয়; আর দ্বিতীয়টি যন্ত্রটার ব্যাপারে সতর্ক। সে বলে না যে তারা ভীরু বা আরামপ্রিয়; সে বলে তাদের অন্তর সন্দেহে আছে, আর ওই সন্দেহ দিয়েই তৈরি হয়েছে তাদের দোল খাওয়া।"
+          },
+          {
+            "en": "9:46 then gives the evidence, that had they intended to go forth they would have prepared some preparation for it, which is a test anybody can apply to himself: the gap between what a person says he intends and what he has actually got ready. And 9:81 shows the same people afterwards, rejoicing in having stayed behind and saying to each other, do not go forth in the heat.",
+            "bn": "এরপর ৯:৪৬ আয়াত দলিলটা দেয়, তাদের যদি বেরোনোর ইচ্ছেই থাকত তবে তারা সেজন্য কিছু প্রস্তুতি নিত; আর এ যাচাই যে কেউ নিজের উপর চালাতে পারে: মানুষ যা করার ইচ্ছে বলে আর যা সে সত্যিই তৈরি করে রেখেছে, এ দুয়ের মাঝের ফাঁকটা। আর ৯:৮১ আয়াত ওই একই লোকদের দেখায় পরে, পিছিয়ে থাকায় খুশি হয়ে একে অন্যকে বলছে, গরমের মধ্যে বেরোবেন না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where No Blame Lies",
+          "bn": "যেখানে কোনো দোষ নেই"
+        },
+        "p": [
+          {
+            "en": "A verse that praises people for not asking to be excused could easily be turned into a weapon against the genuinely unable, and the surah itself forbids that. 9:91 states it: there is no discomfort upon the weak, nor upon the ill, nor upon those who find nothing to spend, when they are sincere to Allah and His Messenger ﷺ, and there is no cause for blame against the doers of good. Three categories are named and cleared, and the condition attached to them is sincerity rather than capacity.",
+            "bn": "যে আয়াত অব্যাহতি না চাওয়ার জন্য মানুষের প্রশংসা করে, সেটাকে সহজেই সত্যিকারের অক্ষম লোকদের বিরুদ্ধে হাতিয়ার বানিয়ে ফেলা যায়; আর সূরা নিজেই সেটা নিষেধ করে। ৯:৯১ আয়াত বলে দেয়: দুর্বলের উপর, পীড়িতের উপর আর খরচ করার মতো কিছু যারা পায় না তাদের উপর কোনো অভিযোগ নেই, যদি তারা আল্লাহ আর তাঁর রাসূলের ﷺ প্রতি বিশ্বস্ত হয়; আর সৎকর্মশীলদের বিরুদ্ধে অভিযোগের কোনো কারণ নেই। তিনটি শ্রেণির নাম নিয়ে তাদের মুক্ত করা হয়, আর তাদের সঙ্গে জোড়া শর্তটি সামর্থ্য নয়, নিষ্ঠা।"
+          },
+          {
+            "en": "Read with 9:91, our verse stops being about ability at all. A weak man who wishes he could go is on the far side of it from a strong man who asks to be let off, and the verse's own test sorts them correctly, because what it examines is where the request comes from. At-Tabari's qualification carries the same weight in the other direction: he restricts the instruction to one who asks without an excuse.",
+            "bn": "৯:৯১ আয়াতের সঙ্গে পড়লে আমাদের আয়াত সামর্থ্য নিয়ে আর কিছুই বলে না। যে দুর্বল লোক যেতে পারলে বাঁচতেন, তিনি আর যে সবল লোক অব্যাহতি চান, তাঁরা এ আয়াতের দুই বিপরীত পাশে; আর আয়াতের নিজের যাচাই তাঁদের ঠিকভাবেই আলাদা করে, কারণ সে দেখে অনুরোধটা আসছে কোথা থেকে। তাবারীর শর্তটিও উল্টো দিক থেকে একই ওজন বহন করে: তিনি নির্দেশটিকে সীমাবদ্ধ রাখেন তার ব্যাপারে, যে কোনো ওজর ছাড়াই চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking to Be Let Off",
+          "bn": "ছাড় চাইতে যাওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse transfers easily because the situation is universal: a call goes out, and some people arrive with reasons before it has even been organised. The useful version of its test is not whether a person ever seeks exemption, since the Quran itself grants exemptions, but whether the exemptions he has sought this year would together describe somebody who wanted the work or somebody who wanted out of it.",
+            "bn": "আয়াতটি সহজেই এক জায়গা থেকে আরেক জায়গায় যায়, কারণ পরিস্থিতিটা সর্বজনীন: একটা ডাক পড়ে, আর কাজটা গোছানোর আগেই কিছু লোক কারণ নিয়ে হাজির হয়। এর যাচাইটার কাজের চেহারা এই নয় যে লোকটি কখনো ছাড় চায় কি না, কারণ কুরআন নিজেই ছাড় দেয়; বরং এই যে এ বছর সে যেসব ছাড় চেয়েছে সেগুলো একসঙ্গে এমন কারও বর্ণনা দেয় কি না যে কাজটা চেয়েছিল, নাকি এমন কারও যে কাজটা থেকে বেরিয়ে আসতে চেয়েছিল।"
+          },
+          {
+            "en": "As-Sa'di's reason is the part worth working on, because it is the only part a person can change. He locates the difference not in courage but in desire for good, the appetite that carries a man to a thing without being urged. That suggests the repair is upstream of the decision: what a person reads, keeps company with and asks for shapes what he wants, and what he wants decides whether he is the one with the request or the one already getting ready.",
+            "bn": "কাজ করার মতো অংশটা সা'দীর সেই কারণটাই, কারণ কেবল ওই অংশটাই মানুষ বদলাতে পারে। তিনি ফারাকটা রাখেন সাহসে নয়, ভালোর প্রতি টানে; সেই রুচিতে, যা ঠেলা ছাড়াই মানুষকে কোনো জিনিসের দিকে নিয়ে যায়। এতে বোঝা যায় মেরামতের জায়গাটা সিদ্ধান্তের আগে: মানুষ কী পড়ে, কার সঙ্গে চলে আর কী চায়, সেটাই ঠিক করে দেয় সে কী চাইবে; আর সে কী চায় তা-ই ঠিক করে দেয় সে অনুরোধ হাতে দাঁড়ানো লোক, নাকি আগেই প্রস্তুতি নিতে শুরু করা লোক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer Before the Asking",
+          "bn": "চাওয়ার আগের দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse carries no supplication, and what it describes is a state rather than an act, so the thing to ask for is the state. The Quran's nearest wording is in 9:91's condition, that those excused were sincere to Allah and His Messenger ﷺ, since sincerity is what makes an excuse honest and its absence is what the verse is exposing.",
+            "bn": "আয়াতে কোনো দোয়া নেই, আর সে যা বর্ণনা করে তা কোনো কাজ নয়, একটি অবস্থা; কাজেই চাওয়ার জিনিসটাও ওই অবস্থাটাই। এর সবচেয়ে কাছের কুরআনী শব্দ ৯:৯১ আয়াতের সেই শর্তে, যাদের ছাড় দেওয়া হলো তারা আল্লাহ আর তাঁর রাসূলের ﷺ প্রতি বিশ্বস্ত ছিল; কারণ নিষ্ঠাই কোনো ওজরকে সৎ করে, আর তার অনুপস্থিতিই এ আয়াত ফাঁস করে দিচ্ছে।"
+          },
+          {
+            "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, do not let me be of those who come asking to be excused, and if I have a real excuse, keep me sincere in it. It is assembled from this verse and from 9:91, and it is not a Sunnah du'a. The safer thing to carry is the verse's own closing clause, said as a reminder rather than a request: Allah is Knowing of those who fear Him.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আমাকে তাদের একজন করবেন না যারা অব্যাহতি চাইতে আসে; আর আমার সত্যিকারের ওজর থাকলে সেটাতে আমাকে নিষ্ঠাবান রাখুন। এটি এ আয়াত আর ৯:৯১ আয়াত জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। বহন করার জন্য বেশি নিরাপদ জিনিসটা আয়াতের নিজের শেষ কথাটাই, আর সেটা বলা হবে অনুরোধ হিসেবে নয়, মনে করিয়ে দেওয়া হিসেবে: আল্লাহ মুত্তাকীদের সম্পর্কে জানেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Excuses",
+          "bn": "নিজের ওজর নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "What am I currently trying to get excused from, and whom have I been asking? The verse examines the request rather than the performance, so if somebody listed every exemption I have sought this year, what would the list say about what I wanted? And asking to be let off is not always wrong, since the surah itself clears the weak and the ill and those with nothing to spend: do I actually know which of my requests had reasons of that kind?",
+            "bn": "এখন আমি কী থেকে অব্যাহতি পেতে চাইছি, আর চাইছি কার কাছে? আয়াত পরীক্ষা করে অনুরোধকে, কাজকে নয়; তাহলে এ বছর আমি যতগুলো ছাড় চেয়েছি কেউ যদি তার সবের তালিকা করে, সে তালিকা আমি কী চেয়েছিলাম সে সম্পর্কে কী বলবে? আর ছাড় চাওয়া সবসময় ভুল নয়, কারণ সূরা নিজেই দুর্বল, পীড়িত আর খরচের সামর্থ্য নেই এমন লোকদের মুক্ত করে দেয়: আমার কোন অনুরোধগুলোর পেছনে ওই ধরনের কারণ ছিল, তা কি আমি সত্যিই জানি?"
+          },
+          {
+            "en": "Two more. The mark of these people is that nobody had to urge them, so what good thing do I only ever do after being pushed into it? And the verse ends on Allah knowing the God-fearing rather than on praising them in front of anyone: how much of what I do is arranged so that somebody will notice it?",
+            "bn": "আরও দুটি। এ লোকদের চিহ্ন হলো, কাউকে তাদের ঠেলতে হয়নি; তাহলে কোন ভালো কাজটা আমি কেবল ঠেলা খাওয়ার পরেই করি? আর আয়াত শেষ হয় কারও সামনে তাদের প্রশংসা দিয়ে নয়, আল্লাহ মুত্তাকীদের জানেন এ কথা দিয়ে: আমার কাজের কতটা এমনভাবে সাজানো থাকে যাতে কেউ সেটা খেয়াল করে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Mark Among Many",
+          "bn": "অনেক আলামতের একটি"
+        },
+        "p": [
+          {
+            "en": "One caution belongs at the end. At-Tabari calls this one of the signs by which the hypocrites of that moment were known, and the verse is describing a specific call to a specific expedition. A sign is not a verdict, and a person who asks to be excused from a task today has not been placed by this verse in the company 9:45 describes. The commentators use it to explain what happened at Tabuk, not to hand anyone a method for reading hearts.",
+            "bn": "শেষে একটি সতর্কতা রাখা দরকার। তাবারী এটিকে বলেন সেই সময়ের মুনাফিকদের চেনার আলামতগুলোর একটি, আর আয়াত বর্ণনা করছে একটি নির্দিষ্ট অভিযানের একটি নির্দিষ্ট ডাক। আলামত কোনো রায় নয়; আর আজ কোনো কাজ থেকে অব্যাহতি চাওয়া মানুষকে এ আয়াত ৯:৪৫ আয়াতের বর্ণনা করা দলে বসিয়ে দেয় না। মুফাসসিরগণ এটি ব্যবহার করেন তাবুকে যা ঘটেছিল তা বোঝাতে, কারও হাতে অন্তর পড়ার কোনো পদ্ধতি তুলে দিতে নয়।"
+          },
+          {
+            "en": "The useful direction is inward, which is where the verse's own gentleness points. It begins in a passage where Allah corrects His Prophet ﷺ by pardoning him first, and it ends by saying that Allah knows those who fear Him. Between a reproach that opens with a pardon and a conclusion that rests on His knowledge rather than on anyone's report, there is not much room left for a reader to use this verse on his neighbour.",
+            "bn": "কাজের দিকটা ভেতরের দিকে, আর আয়াতের নিজের কোমলতাও সেদিকেই আঙুল তোলে। এর শুরু এমন এক অংশে যেখানে আল্লাহ তাঁর নবীকে ﷺ শুধরে দেন আগে মাফ করে দিয়ে, আর শেষ হয় এ কথায় যে আল্লাহ মুত্তাকীদের জানেন। যে ভর্ৎসনা শুরু হয় মাফ দিয়ে আর যে সমাপ্তি দাঁড়িয়ে থাকে কারও রিপোর্টের উপর নয়, তাঁর জানার উপর, এ দুয়ের মাঝখানে পাঠকের জন্য এ আয়াত পাশের বাড়ির লোকের উপর চালানোর জায়গা বেশি থাকে না।"
+          }
+        ]
+      }
+    ]
+  },
   "9:51": {
     "sections": [
       {

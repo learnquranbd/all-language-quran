@@ -6923,6 +6923,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Lordship can be handed over without a single act of worship; watch where the right to call things lawful and unlawful actually sits in your life.",
     "lessonBn": "একটি ইবাদতের কাজ ছাড়াই রবের আসন অন্যের হাতে তুলে দেওয়া যায়। খেয়াল রাখুন, হালাল আর হারাম বলার অধিকারটা আপনার জীবনে আসলে কার হাতে বসে আছে।"
+  },
+  "9:44": {
+    "reflectionEn": "The verse describes believers by something they do not do: they do not come asking to be let off. It is a strange way to identify people, and a searching one, because it looks at who arrives with a request rather than at who performs well once the work has started. The mark is not enthusiasm and not strength; the verse simply notes where the asking comes from. Then it closes on knowledge rather than reward, and Allah is Knowing of those who fear Him, which is the quiet part: the sorting was already done before anyone spoke.",
+    "reflectionBn": "আয়াত মু'মিনদের চেনায় এমন একটা কাজ দিয়ে যা তারা করে না: তারা অব্যাহতি চাইতে আসে না। মানুষ চেনার এটা অন্যরকম পথ, আর গভীরও, কারণ এটা তাকায় কে অনুরোধ নিয়ে হাজির হয় সেদিকে, কাজ শুরু হওয়ার পর কে ভালো করে সেদিকে নয়। চিহ্নটা উৎসাহ নয়, শক্তিও নয়; আয়াত কেবল খেয়াল করে অনুরোধটা আসে কোথা থেকে। এরপর সে শেষ হয় প্রতিদানের কথায় নয়, জানার কথায়: আর আল্লাহ মুত্তাকীদের সম্পর্কে জানেন। ওটাই চুপচাপ অংশ: কেউ মুখ খোলার আগেই ভাগ করা হয়ে গেছে।",
+    "pointsEn": [
+      "What am I currently trying to get excused from, and whom have I been asking?",
+      "The verse looks at the request rather than the performance. If somebody listed the exemptions I have sought this year, what would the list say about me?",
+      "Asking to be let off is not always wrong; the verse is about asking without a reason. Do I know which of mine had reasons?",
+      "The mark of these people is that nobody had to urge them. What good thing do I only ever do after being pushed?",
+      "It ends on Allah knowing the God-fearing, not on praising them. How much of what I do is arranged for someone to notice?"
+    ],
+    "pointsBn": [
+      "এখন আমি কী থেকে অব্যাহতি পেতে চাইছি, আর চাইছি কার কাছে?",
+      "আয়াত তাকায় অনুরোধের দিকে, কাজের দিকে নয়। এ বছর আমি যেসব ছাড় চেয়েছি কেউ যদি তার তালিকা করে, সে তালিকা আমার সম্পর্কে কী বলবে?",
+      "অব্যাহতি চাওয়া সবসময় ভুল নয়; আয়াতের কথা কারণ ছাড়া চাওয়া নিয়ে। আমার কোনগুলোর পেছনে কারণ ছিল, তা কি আমি জানি?",
+      "এ লোকদের চিহ্ন হলো, কাউকে তাদের ঠেলতে হয়নি। কোন ভালো কাজটা আমি কেবল ঠেলা খেয়েই করি?",
+      "আয়াত শেষ হয় আল্লাহ মুত্তাকীদের জানেন এ কথায়, তাদের প্রশংসায় নয়। আমার কাজের কতটা সাজানো থাকে কারও চোখে পড়ার জন্য?"
+    ],
+    "lessonEn": "Faith shows in who does not come asking to be excused; the sorting happens at the request, before any of the work is done.",
+    "lessonBn": "ঈমান ধরা পড়ে এতে যে কে অব্যাহতি চাইতে আসে না। ভাগটা হয়ে যায় অনুরোধের জায়গাতেই, কাজের কিছু শুরু হওয়ার আগেই।"
   }
 };
 
