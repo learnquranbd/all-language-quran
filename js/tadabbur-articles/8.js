@@ -1514,5 +1514,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "8:67": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Reproach Falls",
+          "bn": "ভর্ৎসনাটা পড়ে কোথায়"
+        },
+        "p": [
+          {
+            "en": "Al-Anfal is Madinan and this is the end of its review of Badr. 8:65 sets a ratio for steadfast men against many, 8:66 lowers it because Allah knows there is weakness among them, and then our verse turns to what was done with the men who had been taken alive. 8:68 says a decree from Allah had already gone ahead of them, 8:69 declares what they took lawful and good, and 8:70 has the Prophet ﷺ address the captives themselves with an offer. The passage moves from reproach to permission to an open door.",
+            "bn": "সূরা আনফাল মাদানী, আর এখানেই শেষ হচ্ছে বদরের পর্যালোচনা। ৮:৬৫ আয়াত অবিচল লোকদের বিপরীতে সংখ্যার একটা অনুপাত ঠিক করে দেয়, ৮:৬৬ আয়াত সেটা কমিয়ে দেয়, কারণ আল্লাহ জানেন তাদের মধ্যে দুর্বলতা আছে; আর এরপর আমাদের আয়াত ফেরে সেই লোকদের দিকে, যাদের জীবিত ধরা হয়েছিল, তাদের নিয়ে কী করা হলো সেদিকে। ৮:৬৮ আয়াত বলে, আল্লাহর একটি লেখন আগেই তাদের আগে আগে চলে গিয়েছিল, ৮:৬৯ আয়াত তারা যা নিয়েছে তা হালাল ও পবিত্র ঘোষণা করে, আর ৮:৭০ আয়াতে নবী ﷺ বন্দীদের সঙ্গেই কথা বলেন একটি প্রস্তাব নিয়ে। অংশটি চলে ভর্ৎসনা থেকে অনুমতিতে, আর সেখান থেকে একটি খোলা দরজায়।"
+          },
+          {
+            "en": "As-Sa'di states plainly whose verse it is: this is a reproach from Allah to His Messenger ﷺ and to the believers on the day of Badr, when they took the idolaters captive and kept them alive for the sake of the ransom. That is how the commentators read it and it is how this article reads it, with the adab the subject requires. The people being corrected here are the Prophet ﷺ and the Companions who had just fought beside him, and the correction was published in the Book they were carrying.",
+            "bn": "আয়াতটি কার, সা'দী তা সোজাসুজি বলে দেন: এটি আল্লাহর পক্ষ থেকে তাঁর রাসূলের ﷺ প্রতি আর বদরের দিনে মু'মিনদের প্রতি এক ভর্ৎসনা, যখন তাঁরা মুশরিকদের বন্দী করলেন আর মুক্তিপণের জন্য তাদের জীবিত রাখলেন। মুফাসসিরগণ এভাবেই পড়েন, আর এ লেখাও এভাবেই পড়ে, বিষয়টি যে আদব দাবি করে তা নিয়েই। এখানে যাঁদের শুধরে দেওয়া হচ্ছে তাঁরা নবী ﷺ আর সেই সাহাবীগণ যাঁরা সদ্য তাঁর পাশে লড়েছেন, আর শুধরে দেওয়ার কথাটা প্রকাশ করা হলো সেই কিতাবেই, যা তাঁরা বহন করছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asra, and to Subdue",
+          "bn": "আসরা, আর পুরোপুরি পরাভূত করা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari begins with the plain sense of the noun: al-asr in the speech of the Arabs is confinement, and a man held is ma'sur, a prisoner. He renders the opening clause as meaning that it is not for a prophet to hold back an idolater he has overpowered, for ransom or for pardon. The verb in the clause that follows is yuthkhin, from a root for thickness and weight, and at-Tabari glosses it as going to the utmost in the matter until they are subdued by force.",
+            "bn": "তাবারী শুরু করেন শব্দটির সোজা অর্থ থেকে: আরবদের ভাষায় আসর মানে আটকে রাখা, আর ধরা লোককে বলা হয় মাসূর, বন্দী। শুরুর কথাটির অর্থ তিনি দেন এভাবে, কোনো নবীর জন্য এটা নয় যে সে নিজের কাবু করা মুশরিককে আটকে রাখবে, মুক্তিপণের জন্য বা ক্ষমা করার জন্য। এর পরের কথাটিতে যে ক্রিয়া, ইউসখিন, তার ধাতুর অর্থ ঘনত্ব আর ভার; তাবারী এর ব্যাখ্যা দেন, বিষয়টিতে শেষ পর্যন্ত যাওয়া, যতক্ষণ না তারা শক্তি দিয়ে পুরোপুরি পরাভূত হয়।"
+          },
+          {
+            "en": "The word for what they wanted is the sharpest thing in the verse. Arad ad-dunya, which at-Tabari glosses as whatever of it presents itself to a man of wealth and goods. The root is about something turning up rather than being sought, so the noun names a gain that happens to be lying there. Set against it is al-akhirah, named without qualification. The verse does not contrast a small profit with a big one. It contrasts a thing that appears and passes with the thing that remains.",
+            "bn": "তারা যা চেয়েছিল তার শব্দটিই আয়াতের সবচেয়ে ধারালো জিনিস। আরাদুদ দুনিয়া, যার ব্যাখ্যায় তাবারী বলেন, দুনিয়ার যা কিছু মানুষের সামনে এসে পড়ে সম্পদ আর আসবাবের আকারে। ধাতুটি খোঁজা নিয়ে নয়, সামনে এসে পড়া নিয়ে; কাজেই শব্দটি এমন লাভের নাম দেয় যা এমনিতেই পড়ে ছিল। এর বিপরীতে রাখা হয়েছে আল-আখিরা, আর কোনো শর্ত ছাড়াই নাম নেওয়া হয়েছে। আয়াত ছোট লাভের সঙ্গে বড় লাভের তুলনা করছে না। তুলনা করছে এমন জিনিসের সঙ্গে যা আসে আর চলে যায়, আর এমন জিনিসের যা থেকে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Day They Were Consulted",
+          "bn": "যেদিন পরামর্শ চাওয়া হলো"
+        },
+        "p": [
+          {
+            "en": "The narration behind the verse is in Sahih Muslim 1763, which preserves it from Umar ibn al-Khattab (RA) himself. The Prophet ﷺ consulted them about the captives. Abu Bakr (RA) said: they are our kith and kin; I think you should release them after getting from them a ransom. Umar (RA) said: I am of the opinion that you should hand them over to us so that we may cut off their heads. The ransom was taken, and afterwards the Prophet ﷺ was found weeping, saying, I weep for what has happened to your companions for taking ransom.",
+            "bn": "আয়াতের পেছনের বর্ণনাটি আছে সহীহ মুসলিমের ১৭৬৩ নম্বরে, আর সেখানে এটি রক্ষিত আছে উমার ইবনুল খাত্তাব (রাঃ) নিজের সূত্রেই। নবী ﷺ বন্দীদের ব্যাপারে তাঁদের পরামর্শ চাইলেন। আবূ বাকর (রাঃ) বললেন: এরা তো আমাদের আত্মীয়স্বজন; আমার মত, আপনি তাদের কাছ থেকে মুক্তিপণ নিয়ে তাদের ছেড়ে দিন। উমার (রাঃ) বললেন: আমার মত, আপনি তাদের আমাদের হাতে তুলে দিন, যাতে আমরা তাদের গর্দান উড়িয়ে দিই। মুক্তিপণ নেওয়া হলো, আর এরপর নবীকে ﷺ পাওয়া গেল কাঁদতে, তিনি বলছিলেন, মুক্তিপণ নেওয়ার কারণে তোমার সঙ্গীদের যা হলো, আমি তার জন্য কাঁদছি।"
+          },
+          {
+            "en": "Ibn Kathir carries a second telling through Imam Ahmad from Anas (RA), and its wording is different, so the two are kept apart here rather than merged. In that one the Prophet ﷺ puts the question to the people twice, saying that Allah has made them prevail, and adding, only yesterday they were your brothers. Both counsels were given when counsel had been asked for, by two men whose sincerity is not in question, and it was the Book that settled the matter afterwards. That is the whole shape of the episode and it should not be told as a quarrel.",
+            "bn": "ইবনু কাসীর দ্বিতীয় একটি বর্ণনা আনেন ইমাম আহমাদের সূত্রে আনাস (রাঃ) থেকে, আর তার শব্দ আলাদা; কাজেই এখানে দুটিকে মিলিয়ে না দিয়ে আলাদাই রাখা হচ্ছে। ওই বর্ণনায় নবী ﷺ প্রশ্নটি লোকদের সামনে দুবার রাখেন, বলেন, আল্লাহ তোমাদের তাদের উপর ক্ষমতা দিয়েছেন, আর যোগ করেন, গতকালই তো তারা তোমাদের ভাই ছিল। দুটি পরামর্শই দেওয়া হয়েছিল তখন, যখন পরামর্শ চাওয়া হয়েছিল, আর দিয়েছিলেন এমন দুজন যাঁদের নিষ্ঠা নিয়ে প্রশ্নই ওঠে না; আর বিষয়টার ফয়সালা পরে করে দিয়েছে কিতাবই। ঘটনাটির গোটা চেহারা এটাই, আর এটাকে কোনো ঝগড়ার গল্প হিসেবে বলা চলে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Is Actually Blamed",
+          "bn": "দোষ আসলে কোথায়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari states the correction without softening it: Allah was informing His prophet ﷺ that killing the idolaters he had taken at Badr would have been closer to what was correct than taking the ransom and releasing them. As-Sa'di explains why in terms of the situation rather than of cruelty: as long as such an enemy still has power and force, the fitting thing is that they not be taken captive at all; once they have been subdued and their power has collapsed, there is no harm in captives being taken and kept alive.",
+            "bn": "তাবারী সংশোধনটা বলেন নরম না করেই: আল্লাহ তাঁর নবীকে ﷺ জানাচ্ছিলেন, বদরে তিনি যে মুশরিকদের বন্দী করেছিলেন, তাদের হত্যা করাই বেশি সঠিকের কাছাকাছি ছিল, মুক্তিপণ নিয়ে তাদের ছেড়ে দেওয়ার চেয়ে। সা'দী কারণটা বোঝান নিষ্ঠুরতার ভাষায় নয়, পরিস্থিতির ভাষায়: এমন শত্রুর হাতে যতক্ষণ শক্তি আর দাপট আছে, ততক্ষণ মানানসই হলো তাদের বন্দীই না করা; আর একবার তারা পরাভূত হয়ে গেলে আর তাদের শক্তি ধসে পড়লে, বন্দী করা আর জীবিত রাখায় কোনো দোষ নেই।"
+          },
+          {
+            "en": "So the blame is about timing and about what was being weighed, not about mercy as such. The verse then shifts person: you want, in the plural, which at-Tabari says is addressed to the believers among the Companions of the Messenger ﷺ. And as-Sa'di reads the object of their wanting exactly: not a benefit returning to your religion. Nothing in either commentator makes the ransom a sin of greed; what they make it is a price accepted while the work it belonged to was still unfinished.",
+            "bn": "অর্থাৎ দোষটা সময় নিয়ে আর কী ওজন করা হচ্ছিল তা নিয়ে, দয়া নিয়ে নয়। এরপর আয়াত পুরুষ বদলায়: তোমরা চাও, বহুবচনে; আর তাবারী বলেন, এটি বলা হচ্ছে রাসূলের ﷺ সাহাবীদের মধ্যে মু'মিনদের উদ্দেশে। আর তাঁদের চাওয়ার বিষয়টা সা'দী নিখুঁতভাবে পড়েন: এমন কোনো লাভ নয় যা তোমাদের দীনের দিকে ফিরে আসে। দুই মুফাসসিরের কেউই মুক্তিপণকে লোভের গুনাহ বানান না; তাঁরা সেটাকে বানান এমন এক দাম, যা মেনে নেওয়া হয়েছিল তখন, যখন সে দাম যে কাজের সঙ্গে জড়িত সে কাজটাই শেষ হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Wants in One Verse",
+          "bn": "এক আয়াতে দুই চাওয়া"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the second half as a statement about what Allah wants for them, which is a different thing from what He wants from them. He wants the Hereafter for you, he writes, by honouring His religion and helping His friends and making their word high above others, so He commands you with what leads to that. The reproach is therefore not a withdrawal of favour. It is a correction issued by the One who wanted the larger thing on their behalf while they were settling for the smaller.",
+            "bn": "সা'দী দ্বিতীয় অর্ধেকটা পড়েন এমন কথা হিসেবে যা বলে আল্লাহ তাঁদের জন্য কী চান, আর সেটা তাঁদের কাছ থেকে তিনি কী চান তার থেকে আলাদা জিনিস। তিনি লেখেন, তিনি তোমাদের জন্য আখিরাত চান, আর তা তাঁর দীনকে সম্মানিত করে, তাঁর বন্ধুদের সাহায্য করে, আর তাঁদের কথাকে অন্যদের কথার উপরে তুলে; তাই তিনি তোমাদের সেটাই আদেশ করেন যা ওই দিকে নিয়ে যায়। কাজেই এ ভর্ৎসনা অনুগ্রহ তুলে নেওয়া নয়। এটি এমন একজনের দেওয়া সংশোধন, যিনি তাঁদের হয়ে বড় জিনিসটাই চাইছিলেন, আর তাঁরা তখন ছোটটা নিয়েই রাজি হয়ে যাচ্ছিলেন।"
+          },
+          {
+            "en": "The closing names carry as-Sa'di's last point. Allah is Aziz, perfect in might, and had He wished to take victory from the disbelievers without any fighting at all He would have done it; but He is Hakim, and He tests some of you by means of others. At-Tabari reads the same name as an assurance to them: if you want the Hereafter, no enemy will overcome you, because Allah is not subdued nor overcome. The verse closes, that is, by removing the fear that acting on the correction would cost them anything.",
+            "bn": "শেষের নামগুলো বহন করে সা'দীর শেষ কথাটা। আল্লাহ আযীয, ক্ষমতায় পরিপূর্ণ, আর তিনি চাইলে কোনো যুদ্ধ ছাড়াই কাফিরদের থেকে জয় নিয়ে নিতে পারতেন; কিন্তু তিনি হাকীম, আর তিনি তোমাদের কাউকে কারও দ্বারা পরীক্ষা করেন। তাবারী একই নামটি পড়েন তাঁদের জন্য এক আশ্বাস হিসেবে: তোমরা যদি আখিরাত চাও, কোনো শত্রু তোমাদের উপর জয়ী হবে না, কারণ আল্লাহ পরাভূত হন না, পরাজিতও হন না। অর্থাৎ আয়াত শেষ হয় সেই ভয়টা সরিয়ে দিয়ে, যে সংশোধনটা মেনে চললে তাঁদের কিছু খোয়াতে হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Came After This",
+          "bn": "এরপর যা এল"
+        },
+        "p": [
+          {
+            "en": "The verse did not stay the last word on captives, and at-Tabari preserves the report that says so. From Ibn Abbas (RA), through Ali and Mu'awiyah: that was on the day of Badr, when the Muslims were few; and when they became many and their authority grew strong, Allah sent down afterwards, concerning captives, either a favour afterwards or ransom, which is 47:4. So the choice the verse withheld at Badr was given later, and the restriction belonged to a condition rather than to all time.",
+            "bn": "বন্দীদের ব্যাপারে এ আয়াতই শেষ কথা হয়ে থাকেনি, আর তাবারী সেই বর্ণনাটি রক্ষা করেন যা এ কথাই বলে। ইবনু আব্বাস (রাঃ) থেকে, আলী আর মুআবিয়ার সূত্রে: ওটা ছিল বদরের দিন, যখন মুসলিমরা সংখ্যায় কম ছিলেন; আর যখন তাঁরা সংখ্যায় বাড়লেন আর তাঁদের ক্ষমতা মজবুত হলো, তখন আল্লাহ বন্দীদের ব্যাপারে পরে নামালেন, হয় অনুগ্রহ, নয় মুক্তিপণ, আর সেটি ৪৭:৪ আয়াত। অর্থাৎ বদরে যে বাছাই আটকে রাখা হয়েছিল, পরে সেটি দিয়ে দেওয়া হলো, আর নিষেধটা ছিল একটি অবস্থার সঙ্গে জড়িত, সব কালের জন্য নয়।"
+          },
+          {
+            "en": "Two verses later the same passage settles what had already been taken. 8:68 says that but for a decree from Allah that had gone before, a great punishment would have touched them for what they took; Ibn Kathir reports from Ibn Abbas (RA) that the decree was that spoils and captives would be made lawful for them, and he lists Abu Hurayrah (RA), Ibn Mas'ud (RA), Sa'id ibn Jubayr, Ata', al-Hasan al-Basri, Qatadah and al-A'mash as saying the like. Then 8:69 makes it lawful and good, and 8:70 turns to the captives with an offer of something better than what was taken from them.",
+            "bn": "দুই আয়াত পরেই একই অংশ যা নেওয়া হয়ে গেছে তার ফয়সালা করে দেয়। ৮:৬৮ আয়াত বলে, আল্লাহর একটি লেখন আগেই চলে না গেলে তারা যা নিয়েছে তার জন্য তাদের উপর মহাশাস্তি নেমে আসত; ইবনু কাসীর ইবনু আব্বাস (রাঃ) থেকে জানান, সেই লেখন ছিল এই যে গনীমত আর বন্দী তাদের জন্য হালাল করা হবে। আর তিনি একই কথা বলা লোকদের নাম দেন: আবূ হুরাইরা (রাঃ), ইবনু মাসঊদ (রাঃ), সাঈদ ইবনু জুবাইর, আতা, হাসান বাসরী, কাতাদা ও আমাশ। এরপর ৮:৬৯ আয়াত সেটিকে হালাল ও পবিত্র করে দেয়, আর ৮:৭০ আয়াত বন্দীদের দিকে ফিরে তাদের কাছ থেকে যা নেওয়া হয়েছে তার চেয়ে ভালো কিছুর প্রস্তাব দেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Decision This Was",
+          "bn": "সিদ্ধান্তটা কার ছিল"
+        },
+        "p": [
+          {
+            "en": "A boundary belongs here, as it does with every ruling of war in this surah. What is being discussed is a decision taken in a battle by the Prophet ﷺ after consulting those with him, corrected by revelation, and then settled for the future in 47:4, which names the two courses of favour and ransom and ties them to the war laying down its burdens. It is a matter for those who carry that responsibility, and this article makes no application of it to any present situation.",
+            "bn": "এখানে একটা সীমা টানা দরকার, যেমন এ সূরার যুদ্ধসংক্রান্ত প্রতিটি বিধানেই দরকার। আলোচনা হচ্ছে এমন এক সিদ্ধান্ত নিয়ে, যা এক যুদ্ধে নবী ﷺ তাঁর সঙ্গীদের সঙ্গে পরামর্শ করে নিয়েছিলেন, যা ওহী এসে শুধরে দিয়েছে, আর ভবিষ্যতের জন্য যার ফয়সালা হয়েছে ৪৭:৪ আয়াতে, যেখানে অনুগ্রহ আর মুক্তিপণ, এ দুই পথের নাম নেওয়া হয়েছে আর যুদ্ধ তার বোঝা নামিয়ে রাখা পর্যন্ত সেগুলোকে বাঁধা হয়েছে। এটি তাঁদেরই বিষয় যাঁদের কাঁধে সেই দায়িত্ব, আর এ লেখা এটিকে বর্তমানের কোনো পরিস্থিতিতে প্রয়োগ করছে না।"
+          },
+          {
+            "en": "What a reader can take is the part the verse itself makes general, and the verse is unusually generous about that, because the two middle clauses say nothing about war at all. You want the passing gain and Allah wants the Hereafter for you. 3:152 uses the same measure about a different day, where some who fought at Uhud are described as desiring this world and others the Hereafter, with the loss of the field between them. The pattern in both places is the same: a good thing taken early, before the matter it belonged to was finished.",
+            "bn": "পাঠকের নেওয়ার মতো জিনিসটা হলো আয়াত নিজে যেটাকে সাধারণ করে রাখে, আর এ ব্যাপারে আয়াত অসাধারণ উদার, কারণ মাঝের দুটি কথায় যুদ্ধের কথাই নেই। তোমরা চাও ক্ষণিক লাভ, আর আল্লাহ তোমাদের জন্য চান আখিরাত। ৩:১৫২ আয়াত একই মাপকাঠি ব্যবহার করে অন্য একটি দিন নিয়ে, যেখানে উহুদে লড়া কারও কারও সম্পর্কে বলা হয় তারা চাইছিল দুনিয়া আর অন্যরা আখিরাত, আর এ দুয়ের মাঝখানে মাঠটাই হাতছাড়া হয়ে গেল। দুই জায়গার ধরনটা একই: ভালো একটা জিনিস আগেভাগে নিয়ে ফেলা, যে কাজের সঙ্গে তা জড়িত সে কাজ শেষ হওয়ার আগেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for Both Halves",
+          "bn": "দুই অর্ধেকই চেয়ে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse gives no supplication, and it would be a misreading to take from it that this world must not be asked for at all. The prayer the Quran praises at 2:201 asks for both and keeps them in order: our Lord, give us good in this world and good in the Hereafter, and protect us from the punishment of the Fire. The Hereafter is named second and the protection last, which is the sequence our verse is correcting when it says what you wanted and what He wanted for you.",
+            "bn": "আয়াতে কোনো দোয়া নেই, আর এ থেকে এটা বুঝে নেওয়া ভুল হবে যে দুনিয়া একেবারেই চাওয়া যাবে না। কুরআন ২:২০১ আয়াতে যে দোয়ার প্রশংসা করে, সেটি দুটোই চায় আর ক্রমটা ঠিক রাখে: হে আমাদের রব, আমাদের দুনিয়াতেও কল্যাণ দিন, আখিরাতেও কল্যাণ দিন, আর আমাদের জাহান্নামের আযাব থেকে রক্ষা করুন। আখিরাতের নাম আসে দ্বিতীয়ে আর রক্ষার কথা সবার শেষে; আর আমাদের আয়াত যখন বলে তোমরা কী চেয়েছিলে আর তিনি তোমাদের জন্য কী চেয়েছিলেন, তখন সে এই ক্রমটাই শুধরে দিচ্ছে।"
+          },
+          {
+            "en": "A sentence in this verse's own words can be added and claimed as no more than that: O Allah, make me want what You want for me, and do not let me take the first thing that presents itself in place of what You were preparing. That is assembled from the verse's own two clauses and from as-Sa'di's gloss on them. It is not a Sunnah du'a. The wording of 2:201 is the safer thing to memorise, and it is short enough to say at the end of every prayer.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আপনি আমার জন্য যা চান আমাকে সেটাই চাইতে দিন, আর আপনি যা তৈরি করে রাখছিলেন তার বদলে সামনে এসে পড়া প্রথম জিনিসটা আমাকে নিতে দেবেন না। এটি আয়াতের নিজের দুটি কথা আর তার উপর সা'দীর ব্যাখ্যা জুড়ে বানানো। এটি সুন্নাহর দোয়া নয়। ২:২০১ আয়াতের শব্দগুলোই মুখস্থ করার জন্য বেশি নিরাপদ, আর সেটা এত ছোট যে প্রতিটি নামাযের শেষেই বলা যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Early Profit",
+          "bn": "আগেভাগে লাভ নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Where have I begun counting the benefit of something before the thing itself was finished? The word the verse uses means a gain that merely turns up, so what have I taken lately only because it happened to be lying there? And the people corrected here were not doing anything that looked wrong: which decision of mine looks entirely reasonable and is simply premature?",
+            "bn": "কোথায় আমি কোনো কাজের লাভ গোনা শুরু করেছি, অথচ কাজটাই তখনো শেষ হয়নি? আয়াত যে শব্দটি ব্যবহার করে তার অর্থ এমন লাভ যা কেবল সামনে এসে পড়ে; তাহলে সম্প্রতি এমন কী নিয়েছি, যা কেবল হাতের কাছে পড়ে ছিল বলেই নিয়েছি? আর এখানে যাঁদের শুধরে দেওয়া হচ্ছে, তাঁরা এমন কিছুই করছিলেন না যা দেখতে ভুল লাগে: আমার কোন সিদ্ধান্তটা পুরোপুরি যুক্তিসঙ্গত দেখায়, অথচ আসলে সময়ের আগে নেওয়া?"
+          },
+          {
+            "en": "Two more. Allah is described here as wanting the Hereafter for them, not merely from them: if somebody read a week of my life, what would they say I want for myself? And when a matter of mine is half settled, do I finish it, or do I start collecting from it while the rest is still standing open?",
+            "bn": "আরও দুটি। এখানে আল্লাহ সম্পর্কে বলা হচ্ছে, তিনি তাঁদের জন্য আখিরাত চান, কেবল তাঁদের কাছ থেকে নয়: কেউ যদি আমার জীবনের একটা সপ্তাহ পড়ে, সে বলবে আমি নিজের জন্য কী চাই? আর আমার কোনো বিষয় যখন অর্ধেক মিটেছে, আমি কি সেটা শেষ করি, নাকি বাকিটা খোলা রেখেই সেখান থেকে আদায় করতে বসি?"
+          }
+        ]
+      }
+    ]
   }
 });

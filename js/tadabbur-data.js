@@ -6783,6 +6783,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "You may end an agreement you fear is being betrayed, but not quietly; make the other side as informed as you are before you act on it.",
     "lessonBn": "যে চুক্তিতে খিয়ানতের আশঙ্কা করছেন সেটা শেষ করতে পারেন, তবে চুপচাপ নয়। সেটার উপর কিছু করার আগে অন্য পক্ষকে নিজের মতোই জানিয়ে দিন।"
+  },
+  "8:67": {
+    "reflectionEn": "The two middle clauses are the ones to sit with. You want the passing gain of this world, and Allah wants the Hereafter for you. The word for what they wanted means whatever happens to present itself, something that turns up and does not stay. Notice that the verse does not accuse anyone of cowardice or of greed for its own sake; the decision under discussion was a merciful one, taken by people who had just won and who had relatives among the defeated. What it corrects is the order of things: a matter was still being settled, and profit was counted before it had been.",
+    "reflectionBn": "মাঝের দুটি কথার সঙ্গেই বসে থাকার মতো। তোমরা চাও দুনিয়ার ক্ষণিক লাভ, আর আল্লাহ তোমাদের জন্য চান আখিরাত। তারা যা চেয়েছিল তার শব্দটির অর্থ এমন কিছু যা সামনে এসে পড়ে, যা হাজির হয় আর থাকে না। খেয়াল করুন, আয়াত কাউকে ভীরুতার দায়ে ধরে না, লোভের দায়েও ধরে না; যে সিদ্ধান্তটা নিয়ে কথা হচ্ছে সেটা ছিল দয়ার সিদ্ধান্ত, আর নিয়েছিল এমন লোকেরা যারা সদ্য জিতেছে আর পরাজিতদের মধ্যে যাদের আত্মীয়ও ছিল। আয়াত যেটা ঠিক করে দেয় তা হলো ক্রম: একটা বিষয় তখনো ফয়সালা হয়নি, আর তার আগেই লাভের হিসাব গুনে ফেলা হয়েছিল।",
+    "pointsEn": [
+      "Where have I started counting the benefit of something before the thing itself was finished?",
+      "The word used means a gain that merely turns up. What have I taken lately only because it happened to be there?",
+      "The people corrected here were not doing anything obviously wrong. What decision of mine looks reasonable and is simply premature?",
+      "Allah is described as wanting the Hereafter for them. If someone read my week, what would they say I want for myself?",
+      "When a matter of mine is half settled, do I finish it, or do I start collecting from it?"
+    ],
+    "pointsBn": [
+      "কোথায় আমি কোনো কাজের লাভ গোনা শুরু করেছি, অথচ কাজটাই তখনো শেষ হয়নি?",
+      "ব্যবহৃত শব্দটির অর্থ এমন লাভ যা কেবল সামনে এসে পড়ে। সম্প্রতি এমন কী নিয়েছি, যা কেবল হাতের কাছে ছিল বলেই নিয়েছি?",
+      "এখানে যাদের শুধরে দেওয়া হচ্ছে, তারা স্পষ্টভাবে খারাপ কিছুই করছিল না। আমার কোন সিদ্ধান্তটা যুক্তিসঙ্গত দেখায়, অথচ আসলে সময়ের আগে নেওয়া?",
+      "আল্লাহ সম্পর্কে বলা হচ্ছে, তিনি তাদের জন্য আখিরাত চান। কেউ যদি আমার সপ্তাহটা পড়ে, সে বলবে আমি নিজের জন্য কী চাই?",
+      "আমার কোনো কাজ যখন অর্ধেক মিটেছে, আমি কি সেটা শেষ করি, নাকি সেখান থেকে আদায় করতে বসি?"
+    ],
+    "lessonEn": "Finish the matter before you price it; what presents itself early is usually the smaller half of what was on offer.",
+    "lessonBn": "দাম ঠিক করার আগে কাজটা শেষ করুন। আগেভাগে যা সামনে এসে পড়ে, সেটা সাধারণত যা পাওয়ার ছিল তার ছোট অংশটাই।"
   }
 };
 
