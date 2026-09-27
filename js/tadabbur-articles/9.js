@@ -603,6 +603,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:31": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Charge After the Claim",
+          "bn": "দাবির পরে অভিযোগ"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan and this verse follows directly on a quoted claim. 9:30 reports what was said about Uzayr and about the Messiah, calls it their saying with their mouths, and notes that in it they imitate the saying of those who disbelieved before. Ibn Kathir reads that clause as meaning they have no proof for the claim beyond what they have made up. Then our verse moves from a statement they made to a practice they had, and 9:32 and 9:33 close the passage with the light that will not be put out.",
+            "bn": "সূরা তাওবা মাদানী, আর এ আয়াত আসে উদ্ধৃত করা একটি দাবির ঠিক পরেই। ৯:৩০ আয়াত জানায় উযাইর আর মাসীহ সম্পর্কে কী বলা হয়েছিল, সেটাকে বলে তাদের মুখের কথা, আর লিখে রাখে যে এতে তারা তাদের আগের কাফিরদের কথারই নকল করে। ইবনু কাসীর ওই কথাটিকে পড়েন এভাবে যে নিজেদের বানানো কথা ছাড়া এ দাবির পক্ষে তাদের কোনো দলিল নেই। এরপর আমাদের আয়াত সরে যায় তাদের বলা একটি কথা থেকে তাদের একটি চালু অভ্যাসের দিকে, আর ৯:৩২ ও ৯:৩৩ আয়াত অংশটি শেষ করে সেই আলো দিয়ে যা নেভানো যাবে না।"
+          },
+          {
+            "en": "The charge in our verse is heavier than the one before it, and stranger. 9:30 reports words; 9:31 reports a relationship, and calls it lordship. What makes it stranger is that nothing in the description looks like worship: no image, no prayer addressed to the men named, no claim that they created anything. As-Sa'di introduces it as the cause underneath the claim, so that the extraordinary thing said in 9:30 became sayable because of the ordinary thing done in 9:31.",
+            "bn": "আমাদের আয়াতের অভিযোগ আগেরটির চেয়ে ভারী, আর অন্যরকমও। ৯:৩০ আয়াত জানায় কিছু কথা; ৯:৩১ আয়াত জানায় একটি সম্পর্ক, আর তাকে বলে রব বানানো। অন্যরকম লাগার কারণ, এ বর্ণনার কিছুই ইবাদতের মতো দেখায় না: কোনো মূর্তি নেই, নাম নেওয়া লোকদের উদ্দেশে কোনো নামাযও নেই, তারা কিছু সৃষ্টি করেছে এমন দাবিও নেই। সা'দী এটিকে সামনে আনেন ওই দাবির নিচে থাকা কারণ হিসেবে; অর্থাৎ ৯:৩০ আয়াতে বলা অসাধারণ কথাটা বলা সম্ভব হয়েছিল ৯:৩১ আয়াতে করা সাধারণ কাজটার কারণেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ahbar, and Ink",
+          "bn": "আহবার, আর কালি"
+        },
+        "p": [
+          {
+            "en": "At-Tabari begins with the two words for the men. Ahbar he glosses simply as the scholars, and he records a small dispute about how the singular is pronounced: habr with a fatha or hibr with a kasra. Yunus al-Jarmi is reported as saying he had heard only hibr, and arguing from ordinary usage, since people say this is the ink of a hibr meaning the ink of a scholar; al-Farra' said he had heard it both ways. The word for a learned man and the word for ink sit in the same shape.",
+            "bn": "তাবারী শুরু করেন লোকদের বোঝানো দুটি শব্দ দিয়ে। আহবারের ব্যাখ্যায় তিনি সোজাসুজি বলেন আলিমগণ, আর একবচনের উচ্চারণ নিয়ে একটি ছোট মতভেদও লিখে রাখেন: যবরসহ হাবর, নাকি যেরসহ হিবর। ইউনুস আল-জারমী থেকে বর্ণিত, তিনি বলতেন কেবল হিবরই শুনেছেন, আর দলিল দিতেন সাধারণ ব্যবহার থেকে, কারণ লোকে বলে এটা হিবরের কালি, অর্থাৎ আলিমের কালি; ফাররা বলেছেন তিনি দুভাবেই শুনেছেন। আলিম বোঝানো শব্দ আর কালি বোঝানো শব্দ একই ছাঁচে বসে।"
+          },
+          {
+            "en": "Ruhban he glosses as the people of the cells and those among them who strive hard in their religion, and he carries from ad-Dahhak the shorter pairing, their reciters and their scholars. As-Sa'di describes the second group as the devotees given wholly to worship. Neither commentator treats these men as frauds. They are the learned and the ascetic, the two kinds of people a religious community naturally trusts most, which is what makes the verse's charge land where it does.",
+            "bn": "রুহবানের ব্যাখ্যায় তিনি বলেন কুঠুরির লোকেরা আর তাদের মধ্যে যারা নিজেদের দীনে কঠোর সাধনা করে; আর দাহহাক থেকে আনেন ছোট জোড়াটি, তাদের কারীগণ আর তাদের আলিমগণ। সা'দী দ্বিতীয় দলটির বর্ণনা দেন ইবাদতে পুরোপুরি নিজেকে সঁপে দেওয়া সাধক হিসেবে। দুই মুফাসসিরের কেউই এ লোকদের ঠগ হিসেবে দেখান না। এরা আলিম আর সাধক, অর্থাৎ ধর্মীয় সমাজ স্বভাবতই যে দুই ধরনের মানুষকে সবচেয়ে বেশি ভরসা করে; আর এ কারণেই আয়াতের অভিযোগ গিয়ে পড়ে ঠিক সেখানেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Lordship Meant Here",
+          "bn": "এখানে রব মানে কী"
+        },
+        "p": [
+          {
+            "en": "At-Tabari defines the phrase exactly, and the definition is the whole verse: lords for them besides Allah means chiefs whom they obey in disobedience to Allah, so that they make lawful what those men made lawful for them of what Allah had forbidden them, and they forbid what those men forbade them of what Allah had made lawful for them. Lordship, on that reading, is not a title anyone claimed. It is what happens when a verdict of lawful or unlawful is accepted from a man against what Allah had said.",
+            "bn": "তাবারী কথাটির সংজ্ঞা দেন নিখুঁতভাবে, আর ওই সংজ্ঞাই গোটা আয়াত: আল্লাহকে বাদ দিয়ে তাদের রব মানে এমন সর্দার, যাদের তারা আল্লাহর নাফরমানিতে মানে; তাই ওই লোকেরা আল্লাহর হারাম করা জিনিস তাদের জন্য হালাল করলে তারা সেটা হালাল মানে, আর আল্লাহর হালাল করা জিনিস তাদের জন্য হারাম করলে তারা সেটা হারাম মানে। এ পাঠে রব বানানো এমন কোনো পদবি নয়, যা কেউ দাবি করেছিল। সেটা তখনই ঘটে, যখন আল্লাহ যা বলেছেন তার বিপরীতে কোনো মানুষের কাছ থেকে হালাল বা হারামের রায় মেনে নেওয়া হয়।"
+          },
+          {
+            "en": "As-Sa'di gives the same definition and adds a third element to it, that they legislate for them laws and statements contrary to the religion of the messengers, and they follow them in it. He then names a further practice as his own observation of those communities: that they went to excess concerning their shaykhs and devotees and venerated them, and took their graves as idols worshipped besides Allah, sought with sacrifices and supplication and calls for help. The first charge is about rulings; the second is about graves.",
+            "bn": "সা'দী একই সংজ্ঞা দেন, আর তাতে তৃতীয় একটি উপাদান যোগ করেন, তারা তাদের জন্য এমন বিধান আর কথা বানায় যা রাসূলদের দীনের বিপরীত, আর তারা সেটাতে তাদের অনুসরণ করে। এরপর তিনি ওই সমাজগুলোর ব্যাপারে নিজের দেখা আরেকটি চর্চার নাম নেন: তারা নিজেদের শাইখ আর সাধকদের নিয়ে বাড়াবাড়ি করত আর তাঁদের বড় করে দেখত, আর তাঁদের কবরগুলোকে বানিয়ে নিত মূর্তি, যেগুলোর ইবাদত হতো আল্লাহকে বাদ দিয়ে, যেগুলোর উদ্দেশে কুরবানি দেওয়া হতো আর দোয়া আর সাহায্য চাওয়া হতো। প্রথম অভিযোগ বিধান নিয়ে; দ্বিতীয়টি কবর নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Hadith That Defines It",
+          "bn": "যে হাদীস এর মানে ঠিক করে দেয়"
+        },
+        "p": [
+          {
+            "en": "The commentators do not leave the definition to themselves. At-Tabari records, with its chain, that Adi ibn Hatim (RA) came to the Prophet ﷺ while he was reciting in Surah Bara'ah the words about taking scholars and monks as lords, and that the Prophet ﷺ said: they did not worship them, but they used to make lawful for them and they would accept it as lawful. The whole difficulty of the verse is answered in that one sentence, and it is answered by lowering the bar, not raising it.",
+            "bn": "সংজ্ঞাটা মুফাসসিরগণ নিজেদের হাতে রেখে দেন না। তাবারী সনদসহ লিখে রাখেন, আদী ইবনু হাতিম (রাঃ) নবীর ﷺ কাছে এলেন, তখন তিনি সূরা বারাআতে আলিম আর দরবেশদের রব বানানোর কথাগুলো পড়ছিলেন; আর নবী ﷺ বললেন: তারা তাদের ইবাদত করত না, তবে ওরা তাদের জন্য হালাল করে দিত আর তারা সেটাকে হালাল বলে মেনে নিত। আয়াতটির গোটা কাঠিন্যের জবাব ওই এক বাক্যেই, আর জবাবটা আসে মাপ নিচে নামিয়ে, উপরে তুলে নয়।"
+          },
+          {
+            "en": "Ibn Kathir notes that Imam Ahmad, at-Tirmidhi and Ibn Jarir at-Tabari all recorded the hadith. Jami at-Tirmidhi 3095 preserves it from Adi ibn Hatim (RA), where it opens with the Prophet ﷺ telling him to remove the cross he was wearing before explaining the verse to him. The scene matters: a man who had come to the Prophet ﷺ was told first about an object and then about a habit, and it was the habit the verse had called lordship.",
+            "bn": "ইবনু কাসীর লিখে রাখেন, ইমাম আহমাদ, তিরমিযী আর ইবনু জারীর তাবারী সবাই হাদীসটি সংকলন করেছেন। জামি আত-তিরমিযীর ৩০৯৫ নম্বরে এটি রক্ষিত আছে আদী ইবনু হাতিম (রাঃ) থেকে, যেখানে শুরুতেই নবী ﷺ তাঁকে বলেন গলার ক্রুশটি খুলে ফেলতে, তারপর তাঁকে আয়াতটি বুঝিয়ে দেন। দৃশ্যটার দাম আছে: নবীর ﷺ কাছে আসা এক লোককে প্রথমে বলা হলো একটি জিনিস নিয়ে, তারপর একটি অভ্যাস নিয়ে; আর আয়াত রব বানানো বলেছিল সেই অভ্যাসটাকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Only One Was Commanded",
+          "bn": "হুকুম ছিল কেবল একজনেরই"
+        },
+        "p": [
+          {
+            "en": "The verse does not stop at the charge; it states the original instruction against which the charge is measured. They were not commanded except to worship one God, there is no deity except Him. As-Sa'di reads the clause as covering more than ritual: that they devote worship and obedience to Him alone, and single Him out for love and supplication. Obedience and love are placed inside the same command as worship, which is why a transfer of obedience could be called a transfer of lordship.",
+            "bn": "আয়াত অভিযোগেই থেমে যায় না; সে বলে দেয় সেই আসল নির্দেশটি, যার বিপরীতে অভিযোগটা মাপা হচ্ছে। তাদের হুকুম দেওয়া হয়েছিল কেবল এক ইলাহের ইবাদত করতে, তিনি ছাড়া কোনো ইলাহ নেই। সা'দী এ কথাটি পড়েন কেবল আচার-অনুষ্ঠানের চেয়ে বেশি কিছু হিসেবে: তারা ইবাদত আর আনুগত্য কেবল তাঁরই জন্য খাঁটি করবে, আর ভালোবাসা আর দোয়ায় কেবল তাঁকেই আলাদা করে নেবে। আনুগত্য আর ভালোবাসাকে বসানো হয়েছে ইবাদতের সেই একই হুকুমের ভেতরেই; আর সে কারণেই আনুগত্য হাতবদল হওয়াকে বলা যায় রবের আসন হাতবদল হওয়া।"
+          },
+          {
+            "en": "Then the closing formula, exalted is He above whatever they associate with Him. As-Sa'di reads it as a statement about their claim rather than only about His majesty: in that they diminish Him and describe Him with what does not befit His majesty, and Allah is high in His attributes and His acts above everything ascribed to Him that contradicts His holy perfection. The verse ends, that is, by defending Him against a description rather than by threatening them.",
+            "bn": "এরপর শেষের সূত্রটি, তারা যা শরীক করে তার সব কিছুর অনেক উপরে তিনি। সা'দী এটিকে পড়েন কেবল তাঁর মহিমা নিয়ে কথা হিসেবে নয়, তাদের দাবি নিয়ে কথা হিসেবেও: এ কাজে তারা তাঁকে ছোট করে, আর তাঁর মহিমার সঙ্গে যা মানায় না তা দিয়ে তাঁর বর্ণনা দেয়; আর আল্লাহ তাঁর গুণে আর কাজে অনেক উঁচুতে, তাঁর পবিত্র পূর্ণতার বিপরীত যা কিছু তাঁর দিকে নিসবত করা হয় তার সবের উপরে। অর্থাৎ আয়াত শেষ হয় তাদের হুমকি দিয়ে নয়, একটি বর্ণনার বিরুদ্ধে তাঁর পক্ষ নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses on One Authority",
+          "bn": "এক কর্তৃত্ব নিয়ে আয়াত"
+        },
+        "p": [
+          {
+            "en": "3:64 is the verse that puts our verse's charge into an invitation, calling the People of the Scripture to a word that is equitable between us and you, that we will worship none but Allah, associate nothing with Him, and not take one another as lords instead of Allah. The last clause is the same phrase our verse uses, offered as common ground rather than as an accusation, which tells a reader that the fault named here is one any community can fall into.",
+            "bn": "আমাদের আয়াতের অভিযোগটিকে আহ্বানে বদলে দেয় ৩:৬৪ আয়াত, যা আহলে কিতাবকে ডাকে এমন এক কথার দিকে যা আমাদের আর তোমাদের মধ্যে সমান, তা এই যে আমরা আল্লাহ ছাড়া কারও ইবাদত করব না, তাঁর সঙ্গে কিছু শরীক করব না, আর একে অন্যকে আল্লাহর বদলে রব বানাব না। শেষ কথাটি আমাদের আয়াতের সেই একই কথা, আর সেটা এখানে অভিযোগ হিসেবে নয়, অভিন্ন ভিত্তি হিসেবে সামনে রাখা হয়েছে; আর এতে পাঠক বুঝে নেন, এখানে নাম নেওয়া দোষটা যে কোনো সমাজেই ঘটতে পারে।"
+          },
+          {
+            "en": "42:21 states the same thing as a question: or have they partners who have ordained for them a religion to which Allah has not consented? That is as-Sa'di's third element in the form of a rebuke. 5:77 addresses the excess itself, telling the People of the Scripture not to exceed limits in their religion beyond the truth and not to follow the inclinations of a people who had gone astray before, which is where the practice in our verse comes from.",
+            "bn": "৪২:২১ আয়াত একই কথা বলে প্রশ্নের আকারে: কী, তাদের কি এমন শরীক আছে যারা তাদের জন্য এমন দীনের বিধান দিয়েছে যার অনুমতি আল্লাহ দেননি? এটাই সা'দীর তৃতীয় উপাদান, তবে ভর্ৎসনার চেহারায়। ৫:৭৭ আয়াত বাড়াবাড়িটাকেই সম্বোধন করে, আহলে কিতাবকে বলে নিজেদের দীনে সত্যের সীমা ছাড়িয়ে বাড়াবাড়ি না করতে আর আগে পথভ্রষ্ট হয়ে যাওয়া লোকদের খেয়াল-খুশির পিছনে না চলতে; আর আমাদের আয়াতের সেই চর্চার জন্মও ওখানেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where Your Verdicts Come From",
+          "bn": "আপনার রায় আসে কোথা থেকে"
+        },
+        "p": [
+          {
+            "en": "The verse is uncomfortable precisely because the hadith lowers its bar. If lordship required an altar, almost nobody would be at risk. If it requires only accepting a verdict of lawful or unlawful from a man against what Allah has said, then the exposure is ordinary and it belongs to religious people rather than to anyone else, because it is religious people who take such verdicts at all.",
+            "bn": "আয়াতটি অস্বস্তিকর ঠিক এ কারণেই যে হাদীস এর মাপ নিচে নামিয়ে দেয়। রব বানানোর জন্য যদি কোনো বেদি লাগত, তবে প্রায় কেউই ঝুঁকিতে থাকত না। আর যদি কেবল এটুকুই লাগে যে আল্লাহ যা বলেছেন তার বিপরীতে কোনো মানুষের কাছ থেকে হালাল বা হারামের রায় মেনে নেওয়া, তবে ঝুঁকিটা একেবারে সাধারণ, আর সেটা অন্য কারও নয়, দীনদার মানুষেরই; কারণ এ ধরনের রায় তো নেয় দীনদার মানুষই।"
+          },
+          {
+            "en": "The useful test is not whether a person follows scholars, which the religion requires of anyone who cannot examine a matter himself, but what happens at the point of conflict: when a ruling he has been given turns out to sit against something the Book or the Sunnah says plainly, does he look again, or does he keep the ruling because of who gave it? At-Tabari's definition turns on exactly that word, in disobedience to Allah, and it is the only part of this that a reader can check in himself.",
+            "bn": "কাজের যাচাইটা এই নয় যে লোকটি আলিমদের অনুসরণ করে কি না, কারণ যে নিজে কোনো বিষয় যাচাই করতে পারে না তার জন্য দীন সেটাই দাবি করে; বরং যাচাইটা সংঘাতের জায়গায়: তাকে দেওয়া কোনো রায় যখন দেখা যায় কিতাব বা সুন্নাহর স্পষ্ট কথার বিপরীতে বসে আছে, তখন সে কি আবার তাকায়, নাকি কে দিয়েছে সেই কারণেই রায়টা ধরে রাখে? তাবারীর সংজ্ঞা ঘোরে ঠিক ওই কথাটার উপরেই, আল্লাহর নাফরমানিতে; আর এ গোটা বিষয়ের মধ্যে কেবল এ অংশটাই পাঠক নিজের ভেতরে যাচাই করতে পারেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for One Master",
+          "bn": "এক মালিক চেয়ে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse carries no supplication, and what stands in its place is the sentence it quotes as the original command: to worship one God, there is no deity except Him. That clause is already the shortest prayer in the language of this passage, and a believer who says it is asserting exactly what the verse says was asked of them and of everyone before them.",
+            "bn": "আয়াতে কোনো দোয়া নেই, আর এর জায়গায় দাঁড়িয়ে আছে সেই বাক্যটি, যা সে আসল হুকুম হিসেবে উদ্ধৃত করে: এক ইলাহের ইবাদত করা, তিনি ছাড়া কোনো ইলাহ নেই। এ অংশের ভাষায় ওই কথাটিই সবচেয়ে ছোট দোয়া; আর যে মু'মিন সেটা বলেন, তিনি ঠিক সেই জিনিসটাই ঘোষণা করেন, যা আয়াত বলে তাদের কাছে আর তাদের আগের সবার কাছে চাওয়া হয়েছিল।"
+          },
+          {
+            "en": "A sentence in the verse's own vocabulary can be added and claimed as no more than that: O Allah, let no one hold over me the right that is Yours alone, to call a thing lawful or unlawful, and keep my respect for the learned from turning into obedience against You. It is assembled from at-Tabari's definition and the verse's closing declaration, and it is not a Sunnah du'a. The hadith of Adi ibn Hatim (RA) quoted above is an explanation rather than a prayer.",
+            "bn": "আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, যে অধিকার কেবল আপনারই, কোনো জিনিসকে হালাল বা হারাম বলার, সেটা আমার উপর আর কারও হাতে দেবেন না; আর আলিমদের প্রতি আমার শ্রদ্ধাকে আপনার বিরুদ্ধে আনুগত্যে বদলে যেতে দেবেন না। এটি তাবারীর সংজ্ঞা আর আয়াতের শেষ ঘোষণা জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। উপরে তোলা আদী ইবনু হাতিমের (রাঃ) হাদীসটি দোয়া নয়, ব্যাখ্যা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Deference",
+          "bn": "মেনে নেওয়া নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Whose permission do I actually wait for before deciding that something is fine? Is there a ruling I follow because of who said it rather than because of what it rests on, and have I ever gone back to check? And the verse says they were commanded only to worship one God: what have I added to that, in practice, which now feels as binding as the thing itself?",
+            "bn": "কোনো কিছু ঠিক আছে বলে সিদ্ধান্ত নেওয়ার আগে আমি আসলে কার অনুমতির অপেক্ষা করি? এমন কোনো বিধান আমি মানি কি, যা মানি কে বলেছে সে কারণে, সেটা কীসের উপর দাঁড়িয়ে সে কারণে নয়; আর আমি কি কখনো ফিরে গিয়ে যাচাই করেছি? আর আয়াত বলে, তাদের হুকুম ছিল কেবল এক ইলাহের ইবাদত করা: কাজে-কর্মে এর সঙ্গে আমি কী জুড়েছি, যা এখন আসল জিনিসটার মতোই বাধ্যতামূলক মনে হয়?"
+          },
+          {
+            "en": "Two more. Deference is easy to confuse with respect, so where would disagreeing with somebody I admire cost me something, and does that cost quietly shape what I end up concluding? And if a stranger described my habits without using any religious words at all, would lordship be a fair name for anything in them?",
+            "bn": "আরও দুটি। মেনে নেওয়াকে সম্মানের সঙ্গে গুলিয়ে ফেলা সহজ; তাহলে যাকে আমি শ্রদ্ধা করি তার সঙ্গে দ্বিমত করতে গেলে কোথায় আমার কিছু খরচ হবে, আর সেই খরচ কি চুপচাপ ঠিক করে দেয় আমি শেষে কী সিদ্ধান্তে পৌঁছাব? আর কোনো অপরিচিত লোক যদি ধর্মের একটি শব্দও ব্যবহার না করে আমার অভ্যাসগুলোর বর্ণনা দেয়, তার কোনো কিছুকে রব বানানো বলা কি সঠিক হবে?"
+          }
+        ]
+      }
+    ]
+  },
   "9:40": {
     "sections": [
       {

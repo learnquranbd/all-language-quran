@@ -6903,6 +6903,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The test is not whether you love what you love, but what happens on the day it pulls against Allah and His Messenger; put the eight in order and keep the affection.",
     "lessonBn": "পরীক্ষা এই নয় যে আপনি যা ভালোবাসেন তা ভালোবাসেন কি না; পরীক্ষা হলো, যেদিন সেটা আল্লাহ আর তাঁর রাসূলের ﷺ বিপরীতে টানবে সেদিন কী হবে। আটটিকে সারিতে বসান, আর টানটা রেখে দিন।"
+  },
+  "9:31": {
+    "reflectionEn": "The charge is lordship, and the thing being described does not look like worship at all. They took their scholars and their monks as lords besides Allah — no statues, no prayers to them, no claim that they made the world. What made it lordship was that the right to decide lawful and unlawful had quietly moved. The verse then states what the command had always been, to worship one God, and closes by declaring Him far above what they associate with Him. The danger it names is not a temple. It is a habit of deference.",
+    "reflectionBn": "অভিযোগটা রব বানানোর, আর যা বর্ণনা করা হচ্ছে তা দেখতে ইবাদতের মতোই নয়। তারা নিজেদের আলিম আর দরবেশদের আল্লাহকে বাদ দিয়ে রব বানিয়ে নিয়েছে; কোনো মূর্তি নেই, তাদের উদ্দেশে কোনো নামাযও নেই, দুনিয়া তারা বানিয়েছে এমন দাবিও নেই। যা এটাকে রব বানানো করে তুলল তা হলো, হালাল আর হারাম ঠিক করার অধিকারটা চুপচাপ জায়গা বদলে ফেলেছিল। এরপর আয়াত বলে দেয় হুকুম আসলে কী ছিল, এক ইলাহের ইবাদত করা; আর শেষ হয় তিনি তাদের শরীক করা সব কিছুর অনেক উপরে, এ ঘোষণা দিয়ে। আয়াত যে বিপদের নাম নেয় তা কোনো মন্দির নয়। সেটা মেনে নেওয়ার একটা অভ্যাস।",
+    "pointsEn": [
+      "Whose permission do I actually wait for before I decide something is fine?",
+      "Is there a ruling I follow because of who said it rather than because of what it rests on, and have I ever checked?",
+      "The verse says they were commanded only to worship one God. What have I added to that which now feels compulsory?",
+      "Deference is easy to confuse with respect. Where would disagreeing with someone I admire cost me something, and does that cost shape what I conclude?",
+      "If somebody described my habits without using religious words, would lordship be a fair description of anything in them?"
+    ],
+    "pointsBn": [
+      "কোনো কিছু ঠিক আছে বলে সিদ্ধান্ত নেওয়ার আগে আমি আসলে কার অনুমতির অপেক্ষা করি?",
+      "এমন কোনো বিধান আমি মানি কি, যা মানি কে বলেছে সে কারণে, সেটা কীসের উপর দাঁড়িয়ে সে কারণে নয়? আর আমি কি কখনো যাচাই করেছি?",
+      "আয়াত বলে, তাদের হুকুম ছিল কেবল এক ইলাহের ইবাদত করা। এর সঙ্গে আমি কী জুড়েছি, যা এখন ফরজের মতো লাগে?",
+      "মেনে নেওয়াকে সম্মানের সঙ্গে গুলিয়ে ফেলা সহজ। যাকে আমি শ্রদ্ধা করি তার সঙ্গে দ্বিমত করতে গেলে কোথায় আমার কিছু খরচ হবে, আর সেই খরচটাই কি ঠিক করে দেয় আমি কী সিদ্ধান্তে পৌঁছাব?",
+      "কেউ যদি ধর্মের কোনো শব্দ ছাড়াই আমার অভ্যাসগুলোর বর্ণনা দেয়, তার কোনো কিছুকে কি রব বানানো বলা সঠিক হবে?"
+    ],
+    "lessonEn": "Lordship can be handed over without a single act of worship; watch where the right to call things lawful and unlawful actually sits in your life.",
+    "lessonBn": "একটি ইবাদতের কাজ ছাড়াই রবের আসন অন্যের হাতে তুলে দেওয়া যায়। খেয়াল রাখুন, হালাল আর হারাম বলার অধিকারটা আপনার জীবনে আসলে কার হাতে বসে আছে।"
   }
 };
 
