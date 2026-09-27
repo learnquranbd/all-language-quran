@@ -6683,6 +6683,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Ask for a verdict only if you are willing to receive it; and when one lands against you, the verse's next clause is still an open door.",
     "lessonBn": "ফয়সালা চাইবেন কেবল তখনই, যখন সেটা নিজের উপর নিতে রাজি আছেন। আর ফয়সালা যদি আপনার বিপক্ষেই আসে, আয়াতের পরের কথাটা তখনো খোলা দরজা।"
+  },
+  "8:29": {
+    "reflectionEn": "The verse is built as a bargain, and the order of it matters. Fear Allah, and three things follow: He makes for you a furqan, He removes your misdeeds, He forgives you. Then a sentence that is not part of the bargain at all, that Allah is the possessor of great bounty, as though the three were already more than anything was paid for them. Notice what the first gift is. Not ease, not victory, not relief, but something to tell things apart with. The verse treats seeing a situation clearly as a wage, and it makes that wage follow conduct rather than cleverness.",
+    "reflectionBn": "আয়াতটি গড়া হয়েছে একটা লেনদেনের ধরনে, আর এর ক্রমটাই আসল কথা। আল্লাহকে ভয় কর, তাহলে তিনটি জিনিস আসে: তিনি তোমাদের জন্য ফুরকান রাখেন, তোমাদের দোষ মুছে দেন, তোমাদের মাফ করেন। তারপর আসে এমন একটি বাক্য যা এ লেনদেনের অংশই নয়, আল্লাহ মহা অনুগ্রহের মালিক। যেন বলা হচ্ছে, ওই তিনটিই এর দাম হিসেবে যা দেওয়া হয়েছে তার চেয়ে বেশি। প্রথম দানটা কী, সেটা খেয়াল করার মতো। আরাম নয়, জয় নয়, বিপদ থেকে মুক্তিও নয়, বরং জিনিস আলাদা করে চেনার মতো কিছু। পরিস্থিতি পরিষ্কার দেখতে পারাকে আয়াত মজুরি হিসেবে দেখে, আর সে মজুরি আসে বুদ্ধির পেছনে নয়, আমলের পেছনে।",
+    "pointsEn": [
+      "What decision am I stuck on, and have I been treating it as a thinking problem when this verse treats clarity as something taqwa earns?",
+      "The last time something came clear to me, what had I been doing in the weeks before it did?",
+      "The verse puts fearing Allah before discernment. Which of the two am I trying to get hold of first?",
+      "If my misdeeds were removed and then covered, whose opinion of me would I stop managing?",
+      "What would actually change in my week if I acted as though clarity follows obedience rather than more information?"
+    ],
+    "pointsBn": [
+      "কোন সিদ্ধান্তে আমি আটকে আছি? আমি কি সেটাকে ভাবনার সমস্যা ধরে নিয়েছি, অথচ এ আয়াত পরিষ্কার দেখাকে তাকওয়ার কামাই বলে?",
+      "শেষ যেবার কোনো বিষয় আমার কাছে পরিষ্কার হয়ে গেল, তার আগের সপ্তাহগুলোতে আমি কী করছিলাম?",
+      "আয়াত আল্লাহভীতিকে রাখে বোঝার আগে। এ দুটোর মধ্যে আমি কোনটা আগে ধরতে চাইছি?",
+      "আমার দোষগুলো যদি মুছে দেওয়া হয়, তারপর ঢেকেও দেওয়া হয়, তবে কার মতামত সামলানো আমি ছেড়ে দিতে পারব?",
+      "পরিষ্কার দেখা যদি আরও তথ্যের পেছনে না এসে আনুগত্যের পেছনে আসে, এটা মেনে চললে আমার সপ্তাহে আসলে কী বদলাবে?"
+    ],
+    "lessonEn": "The first thing taqwa buys is not ease but the power to tell things apart; conduct comes before clarity, not after it.",
+    "lessonBn": "তাকওয়া দিয়ে প্রথমে যা কেনা হয় তা আরাম নয়, জিনিস আলাদা করে চেনার শক্তি। আমল আসে পরিষ্কার দেখার আগে, পরে নয়।"
   }
 };
 

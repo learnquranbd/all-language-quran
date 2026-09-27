@@ -663,6 +663,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:29": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Promise Sits",
+          "bn": "ওয়াদাটা কোথায় বসে আছে"
+        },
+        "p": [
+          {
+            "en": "Al-Anfal is Madinan and this passage is still the debriefing of Badr, but it has turned inward. 8:27 forbids the believers to betray Allah and the Messenger or to betray their trusts; 8:28 warns that their wealth and their children are a trial. Then comes this offer. At-Tabari reads the taqwa of our verse as including exactly what was just forbidden: obeying Him, discharging His obligations, avoiding His disobedience, and leaving off betraying Him, His Messenger and your trusts. The verse is the other side of the warning, not a general exhortation dropped into the surah.",
+            "bn": "সূরা আনফাল মাদানী, আর এ অংশটাও বদরের পর্যালোচনা, তবে মুখ এখন ভেতরের দিকে ফেরানো। ৮:২৭ আয়াত মু'মিনদের নিষেধ করে আল্লাহ ও রাসূলের ﷺ সঙ্গে আর নিজেদের আমানতে খিয়ানত করতে; ৮:২৮ আয়াত হুঁশিয়ার করে, তাদের সম্পদ আর সন্তান পরীক্ষার সামগ্রী। এরপরই আসে এই প্রস্তাব। তাবারী আমাদের আয়াতের তাকওয়াকে পড়েন ঠিক সদ্য নিষিদ্ধ করা জিনিসগুলোসহ: তাঁর আনুগত্য করা, তাঁর ফরজ আদায় করা, তাঁর নাফরমানি থেকে দূরে থাকা, আর তাঁর সঙ্গে, তাঁর রাসূলের ﷺ সঙ্গে ও নিজেদের আমানতে খিয়ানত ছেড়ে দেওয়া। আয়াতটি সূরার মধ্যে এমনি এমনি রাখা কোনো নসীহত নয়, এটি ওই হুঁশিয়ারিরই উল্টো পিঠ।"
+          },
+          {
+            "en": "No occasion of revelation is established for the verse, so its placement is what tells you how to read it: a warning about betrayal, a warning about wealth and children, and then wages named for the opposite conduct. 8:30 turns away again to the plot that was laid against the Prophet ﷺ in Makkah. Al-Qurtubi adds a note about the grammar that is easy to miss. Allah knew whether they would fear Him or not, and He put it as a condition because He addresses His servants in the way they address one another.",
+            "bn": "এ আয়াতের কোনো শানে নুযূল প্রতিষ্ঠিত নয়, তাই কীভাবে পড়তে হবে তা বলে দেয় এর অবস্থানই: খিয়ানত নিয়ে হুঁশিয়ারি, সম্পদ আর সন্তান নিয়ে হুঁশিয়ারি, তারপর উল্টো আচরণের জন্য ঘোষিত মজুরি। ৮:৩০ আয়াতে আবার মুখ ঘোরে মক্কায় নবীর ﷺ বিরুদ্ধে পাতা ষড়যন্ত্রের দিকে। কুরতুবী ব্যাকরণ নিয়ে একটা কথা যোগ করেন, যা সহজেই চোখ এড়ায়। আল্লাহ জানতেন তারা তাঁকে ভয় করবে কি না, আর তিনি কথাটা শর্তের আকারে রেখেছেন, কারণ বান্দাদের সঙ্গে তিনি সেভাবেই কথা বলেন যেভাবে তারা একে অন্যের সঙ্গে বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Furqan and Its Range",
+          "bn": "ফুরকান আর তার পরিসর"
+        },
+        "p": [
+          {
+            "en": "Furqan comes from f-r-q, to separate, and the form carries both the act of separating and the thing that does it. The apodosis holds three verbs, not one: yaj'al, He makes; yukaffir, He effaces; yaghfir, He forgives. At-Tabari keeps the last two apart rather than treating them as a pair of synonyms. Yukaffir, he says, means He wipes away what has already passed of your sins between you and Him; yaghfir means He covers them over and veils them, so that He does not take you to task for them.",
+            "bn": "ফুরকান শব্দটি এসেছে ফ-র-ক ধাতু থেকে, অর্থ আলাদা করা, আর এ গঠন একসঙ্গে ধরে রাখে আলাদা করার কাজটা আর যা দিয়ে আলাদা করা হয় সেটাও। শর্তের জবাবে ক্রিয়া একটি নয়, তিনটি: ইয়াজআল, তিনি রাখেন; ইউকাফফির, তিনি মুছে দেন; ইয়াগফির, তিনি মাফ করেন। তাবারী শেষ দুটিকে সমার্থক জোড়া ধরে না নিয়ে আলাদাই রাখেন। ইউকাফফির মানে, তাঁর আর তোমাদের মাঝে যে গুনাহ হয়ে গেছে তা তিনি মুছে দেন। ইয়াগফির মানে, তিনি সেগুলো ঢেকে দেন আর পর্দা টেনে দেন, যাতে সেগুলোর জন্য তোমাদের পাকড়াও না করেন।"
+          },
+          {
+            "en": "The same surah uses the word again twelve verses later. 8:41 dates the ruling on spoils to the day of the furqan, the day when the two armies met, which the app renders as the day of criterion and the day of decisive decision. So inside one surah the word names both what taqwa earns and the day the whole matter was settled in a field. The Book itself carries the name at 25:1, and 2:185 calls what came down in Ramadan a guidance and a furqan.",
+            "bn": "এই একই সূরা বারো আয়াত পরে শব্দটি আবার ব্যবহার করে। ৮:৪১ আয়াত গনীমতের বিধানকে বেঁধে দেয় ফুরকানের দিনের সঙ্গে, যেদিন দুই বাহিনী মুখোমুখি হয়েছিল, আর অ্যাপ সেটাকে বলে চূড়ান্ত ফায়সালার দিন। অর্থাৎ এক সূরার ভেতরেই শব্দটি নাম দেয় দুটো জিনিসের: তাকওয়া দিয়ে যা কামাই হয়, আর যেদিন গোটা বিষয়টা মাঠে ফয়সালা হয়ে গেল। কিতাব নিজেই এ নাম বহন করে ২৫:১ আয়াতে, আর ২:১৮৫ আয়াত রমাদানে নেমে আসা জিনিসটিকে বলে হিদায়াত আর ফুরকান।"
+          },
+          {
+            "en": "The two renderings a reader of this app will meet are both inside the commentators' range rather than at odds with it. The English gives criterion and leaves the sense open. The Bengali gives the power to tell good from evil, which is the reading the same app uses for the word at 25:1 and 2:185. Which point in that range each commentator settled on is the subject of the next section, and the range is wider than either rendering can show on its own.",
+            "bn": "এ অ্যাপের পাঠক যে দুটি অনুবাদের মুখোমুখি হবেন, দুটিই মুফাসসিরদের পরিসরের ভেতরেই পড়ে, বাইরে নয়। ইংরেজি দেয় মানদণ্ড, আর অর্থটা খোলা রেখে দেয়। বাংলা দেয় ভাল আর মন্দের মধ্যে পার্থক্য করার শক্তি, আর এই একই অ্যাপ ২৫:১ ও ২:১৮৫ আয়াতেও শব্দটির এই অর্থই নেয়। সেই পরিসরের কোন জায়গায় কে থেমেছেন, তা পরের অংশের বিষয়। আর পরিসরটা এত চওড়া যে কোনো একটি অনুবাদ একা তা দেখাতে পারে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Way Out, or a Verdict",
+          "bn": "বেরিয়ে আসার পথ, নাকি রায়"
+        },
+        "p": [
+          {
+            "en": "At-Tabari reports that the exegetes differed in how they expressed the meaning. Some said makhraj, a way out; some said najah, deliverance; some said fasl, a separation. He then says the thing that keeps the disagreement in proportion: all of these are close in meaning, though the wordings differ. Mujahid is the name carried most often for makhraj, and through Ibn Abi Najih he adds two words that widen it, a way out in this world and in the hereafter. Ibn Abbas (RA) and ad-Dahhak are given the same; Ikrimah is given both makhraj and najah.",
+            "bn": "তাবারী জানান, অর্থ প্রকাশের ভাষায় মুফাসসিরগণ ভিন্ন ভিন্ন পথে গেছেন। কেউ বলেছেন মাখরাজ, বেরিয়ে আসার পথ; কেউ বলেছেন নাজাত, মুক্তি; কেউ বলেছেন ফাসল, আলাদা করা। এরপর তিনি এমন একটি কথা বলেন যা মতভেদটাকে মাপে রাখে: এগুলো সবই অর্থে কাছাকাছি, যদিও প্রকাশের ভাষা আলাদা। মাখরাজের জন্য সবচেয়ে বেশি যে নামটি আসে তা মুজাহিদের, আর ইবনু আবী নাজীহর সূত্রে তিনি দুটি শব্দ যোগ করে অর্থটা চওড়া করে দেন, দুনিয়া আর আখিরাত দুই জায়গাতেই বেরিয়ে আসার পথ। ইবনু আব্বাস (রাঃ) ও দাহহাক থেকেও একই কথা আসে; ইকরিমা থেকে আসে মাখরাজ আর নাজাত দুটোই।"
+          },
+          {
+            "en": "At-Tabari's own gloss is the most concrete of them and it keeps the battlefield in view: He will make for you a separation and a distinction between your right and the falsehood of those enemies who seek your harm, by granting you victory over them. Al-Farra reads the word as an opening and a victory, which sits in the same place. Ibn Ishaq reads it as a separation between truth and falsehood, and Ibn Kathir judges that reading the most general of them, one wide enough to include all the others.",
+            "bn": "তাবারীর নিজের ব্যাখ্যাই এদের মধ্যে সবচেয়ে বাস্তব, আর তা যুদ্ধের মাঠকে চোখের সামনে রাখে: তিনি তোমাদের জন্য রাখবেন আলাদা করা আর পার্থক্য, তোমাদের হকের আর যে শত্রুরা তোমাদের ক্ষতি চায় তাদের বাতিলের মধ্যে, আর সেটা তোমাদের তাদের উপর জয় দিয়ে। ফাররা শব্দটিকে পড়েন উন্মোচন আর জয় হিসেবে, যা একই জায়গায় বসে। ইবনু ইসহাক পড়েন হক আর বাতিলের মধ্যে আলাদা করা হিসেবে, আর ইবনু কাসীর এ পাঠটিকেই বলেন সবচেয়ে ব্যাপক, যা এত চওড়া যে বাকি সবগুলোকে নিজের ভেতরে ধরে রাখে।"
+          },
+          {
+            "en": "Al-Qurtubi preserves the most useful single report on the word. Ibn Wahb said: I asked Malik about if you fear Allah He will make for you a furqan, and he said, a way out; then he recited the clause that closes 65:2, and whoever fears Allah, He will make for him a way out. Ibn al-Qasim and Ashhab related the same from Malik, and al-Qurtubi notes that Mujahid had said it before him. He also carries deliverance from Ibn Zayd and as-Suddi, and a view that refers the whole promise to the hereafter.",
+            "bn": "শব্দটি নিয়ে সবচেয়ে কাজের বর্ণনাটি রক্ষা করেন কুরতুবী। ইবনু ওয়াহব বলেন: আমি মালিককে জিজ্ঞেস করলাম, তোমরা যদি আল্লাহকে ভয় কর তবে তিনি তোমাদের জন্য ফুরকান রাখবেন, এর অর্থ কী। তিনি বললেন, বেরিয়ে আসার পথ। তারপর তিনি তিলাওয়াত করলেন ৬৫:২ আয়াতের শেষ কথাটি, আর যে আল্লাহকে ভয় করে তিনি তার জন্য বেরিয়ে আসার পথ করে দেন। ইবনুল কাসিম ও আশহাব মালিক থেকে একই কথা বর্ণনা করেন, আর কুরতুবী লিখে রাখেন, মুজাহিদ তাঁর আগেই কথাটা বলেছিলেন। তিনি ইবনু যায়দ ও সুদ্দী থেকে মুক্তির অর্থও আনেন, আর একটি মত আনেন যা গোটা ওয়াদাটিকেই আখিরাতের দিকে ফেরায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As-Sa'di Counts Four",
+          "bn": "সা'দী গোনেন চারটি"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di opens by calling compliance with the taqwa of one's Lord the title of happiness and the mark of success, then counts what the God-fearing man receives here, and his count is four while the verbs are three. The furqan is the first. The effacing of misdeeds is the second and the forgiving of sins the third. The fourth he takes from the closing clause: the great reward and the abundant recompense for whoever fears Him and prefers His pleasure over his own desire. So the fourth gift is not a fourth verb but the bounty the verse ends on.",
+            "bn": "সা'দী শুরু করেন নিজের রবের তাকওয়া মেনে চলাকে সৌভাগ্যের শিরোনাম আর সফলতার চিহ্ন বলে, তারপর গোনেন আল্লাহভীরু লোক এখানে কী কী পায়। তাঁর গোনা চারটি, অথচ ক্রিয়া তিনটি। প্রথম ফুরকান। দ্বিতীয় দোষ মুছে দেওয়া, তৃতীয় গুনাহ মাফ করা। চতুর্থটি তিনি নেন শেষ কথাটি থেকে: যে তাঁকে ভয় করে আর নিজের খেয়ালের উপর তাঁর সন্তুষ্টিকে এগিয়ে রাখে, তার জন্য মহা প্রতিদান আর ভরপুর সওয়াব। অর্থাৎ চতুর্থ দানটি কোনো চতুর্থ ক্রিয়া নয়, আয়াত যে অনুগ্রহের কথায় শেষ হয় সেটাই।"
+          },
+          {
+            "en": "His definition of the first is the fullest any of them gives: the furqan is the knowledge and the guidance by which its possessor separates guidance from misguidance, truth from falsehood, the lawful from the forbidden, and the people of happiness from the people of wretchedness. On the two middle gifts he makes a distinction worth keeping. Either one includes the other when it is mentioned alone; when they are named together, as they are here, the effacing is explained of the smaller sins and the forgiving of the great ones.",
+            "bn": "প্রথমটির সংজ্ঞা তিনিই দেন সবচেয়ে পূর্ণভাবে: ফুরকান হলো সেই ইলম আর হিদায়াত, যা দিয়ে তার মালিক আলাদা করে হিদায়াত আর গুমরাহি, হক আর বাতিল, হালাল আর হারাম, আর সৌভাগ্যবানদের আর দুর্ভাগাদের। মাঝের দুটি দান নিয়ে তিনি একটি পার্থক্য টানেন, যা মনে রাখার মতো। দুটির যেকোনো একটি আলাদা করে বললে সেটি অন্যটিকেও নিজের ভেতরে নেয়; আর দুটি যখন একসঙ্গে আসে, যেমন এখানে এসেছে, তখন মুছে দেওয়া বোঝানো হয় ছোট গুনাহ আর মাফ করা বোঝানো হয় বড় গুনাহ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What No Tafsir Attaches",
+          "bn": "কোনো তাফসীর যা জোড়ে না"
+        },
+        "p": [
+          {
+            "en": "None of the four tafsirs read for this verse attaches a saying of the Prophet ﷺ to it. What Ibn Kathir reaches for instead is another verse: 57:28, where the same condition, taqwa of Allah and belief in His Messenger, is answered with a double portion of mercy, a light to walk by, and forgiveness. Putting a verse next to a verse is the move the commentators make here, and it is worth reporting that rather than filling the slot with a narration nobody attached.",
+            "bn": "এ আয়াতের জন্য দেখা চারটি তাফসীরের কোনোটিই এর সঙ্গে নবীর ﷺ কোনো বাণী জোড়ে না। ইবনু কাসীর বদলে হাত বাড়ান আরেকটি আয়াতের দিকে: ৫৭:২৮, যেখানে একই শর্ত, আল্লাহর তাকওয়া আর তাঁর রাসূলের ﷺ প্রতি ঈমান, আর তার জবাব দ্বিগুণ রহমত, চলার জন্য এক আলো, আর মাগফিরাত। আয়াতের পাশে আয়াত বসানোই এখানে মুফাসসিরদের কাজ, আর সেটা জানিয়ে দেওয়াই ভালো, কেউ জোড়েননি এমন কোনো বর্ণনা দিয়ে জায়গা ভরাটের চেয়ে।"
+          },
+          {
+            "en": "One sound narration belongs near the idea even though no commentator ties it to this verse, and it is offered on that footing. Jami' at-Tirmidhi 2516 carries from Ibn Abbas (RA) the counsel the Prophet ﷺ gave him as a boy: be mindful of Allah and He will protect you, and know that if the whole creation gathered to benefit you, you would gain nothing but what Allah had written for you. At-Tirmidhi's own grading of it is hasan sahih. It states the principle the verse turns into a promise.",
+            "bn": "একটি সহীহ বর্ণনা এ ভাবনার কাছাকাছি বসে, যদিও কোনো মুফাসসির সেটিকে এ আয়াতের সঙ্গে বাঁধেন না, আর সেটি এখানে সেই শর্তেই আনা হচ্ছে। জামি' আত-তিরমিযীর ২৫১৬ নম্বরে ইবনু আব্বাস (রাঃ) থেকে আছে সেই নসীহত, যা নবী ﷺ তাঁকে বালক বয়সে দিয়েছিলেন: আল্লাহর হক খেয়াল রেখো, তিনি তোমাকে হেফাজত করবেন; আর জেনে রেখো, গোটা সৃষ্টি যদি তোমার উপকার করতে জমা হয়, আল্লাহ তোমার জন্য যা লিখে রেখেছেন তার বাইরে কিছুই তুমি পাবে না। তিরমিযী নিজে এটির মান দিয়েছেন হাসান সহীহ। আয়াত যে কথাটাকে ওয়াদায় বদলে দেয়, এ বর্ণনা সেটাই নীতি হিসেবে বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses That Pay Alike",
+          "bn": "একই মজুরি দেয় যে আয়াতগুলো"
+        },
+        "p": [
+          {
+            "en": "65:2 is the verse Malik recited when he was asked about this one, and the clause that closes it is the reason: whoever fears Allah, He will make for him a way out. 65:3 continues the payment into places the man was not watching, and will provide for him from where he does not expect. Read together with our verse they make taqwa the condition of three different kinds of relief: a way out, a provision, and the sight to tell one road from another.",
+            "bn": "এ আয়াত নিয়ে জিজ্ঞেস করা হলে মালিক যে আয়াতটি তিলাওয়াত করেছিলেন সেটি ৬৫:২, আর কারণ হলো এর শেষ কথাটি: যে আল্লাহকে ভয় করে, তিনি তার জন্য বেরিয়ে আসার পথ করে দেন। ৬৫:৩ আয়াত সেই দেওয়াটা টেনে নিয়ে যায় এমন জায়গায় যেদিকে লোকটার চোখই ছিল না, আর তাকে রিযক দেবেন এমন জায়গা থেকে যা সে ভাবতেও পারে না। আমাদের আয়াতের সঙ্গে একসঙ্গে পড়লে এরা তাকওয়াকে বানিয়ে দেয় তিন ধরনের উপকারের শর্ত: বেরিয়ে আসার পথ, রিযক, আর এক রাস্তা থেকে আরেক রাস্তা চিনে নেওয়ার দৃষ্টি।"
+          },
+          {
+            "en": "57:28 is the closest sister of all, because it answers the same condition with a light to walk by, which is what a furqan does in the dark. 8:41 is the in-surah echo, naming the day of Badr itself by this word. 25:1 gives the name to the revelation, and 2:185 puts guidance and furqan side by side in describing what came down in Ramadan. The word travels between the Book, the day, and the believer's own eyes.",
+            "bn": "সবচেয়ে কাছের বোন ৫৭:২৮, কারণ ওটি একই শর্তের জবাব দেয় চলার মতো এক আলো দিয়ে, আর অন্ধকারে ফুরকান তো সেই কাজটাই করে। ৮:৪১ আয়াত একই সূরার ভেতরের প্রতিধ্বনি, যা এই শব্দ দিয়েই বদরের দিনটার নাম রাখে। ২৫:১ আয়াত নামটি দেয় ওহীকে, আর ২:১৮৫ আয়াত রমাদানে নেমে আসা জিনিসটির বর্ণনায় হিদায়াত আর ফুরকান পাশাপাশি রাখে। শব্দটি ঘুরে বেড়ায় কিতাব, দিন আর মু'মিনের নিজের চোখের মধ্যে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What Taqwa Buys Today",
+          "bn": "তাকওয়া আজ যা কিনে দেয়"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi does not leave taqwa as a word. He lists it out: following what Allah commanded and avoiding what He forbade, leaving the doubtful thing alone for fear of falling into the forbidden, filling the heart with sincere intention and the limbs with righteous deeds, guarding against shirk both hidden and open, and holding back from leaning on the world. Then, he says, Allah makes for such a man a furqan between truth and falsehood, and gives him the ability to do the good he intends.",
+            "bn": "কুরতুবী তাকওয়াকে কেবল একটা শব্দ হিসেবে ছেড়ে দেন না। তিনি খুলে খুলে বলেন: আল্লাহ যা আদেশ করেছেন তা মানা আর যা নিষেধ করেছেন তা থেকে দূরে থাকা, হারামে পড়ে যাওয়ার ভয়ে সন্দেহের জিনিসটাও ছেড়ে দেওয়া, অন্তর ভরে নেওয়া খাঁটি নিয়তে আর অঙ্গগুলো নেক আমলে, গোপন ও প্রকাশ্য দুই শিরক থেকেই নিজেকে বাঁচিয়ে রাখা, আর দুনিয়ার উপর হেলান দেওয়া থেকে হাত গুটিয়ে রাখা। তারপর, তিনি বলেন, আল্লাহ এমন লোকের জন্য হক আর বাতিলের মধ্যে ফুরকান রাখেন, আর সে যে ভালো কাজের ইচ্ছা করে তা করার সামর্থ্যও দেন।"
+          },
+          {
+            "en": "That inverts how most of us handle confusion. We treat a muddle as an information problem and answer it with more reading, more asking, more weighing. This verse treats one kind of clarity as wages, paid for conduct. It does not make study useless, and nothing here says a God-fearing man never misjudges a situation. It says that if a matter will not come clear, the honest place to look first is the week just gone, not the next opinion.",
+            "bn": "এটা আমাদের অধিকাংশের গোলমাল সামলানোর ধরনটাই উল্টে দেয়। আমরা জট পাকানো অবস্থাকে তথ্যের সমস্যা ধরে নিই, আর জবাব দিই আরও পড়ে, আরও জিজ্ঞেস করে, আরও ওজন করে। এ আয়াত এক ধরনের পরিষ্কার দেখাকে দেখে মজুরি হিসেবে, যা দেওয়া হয় আমলের বিনিময়ে। এতে পড়াশোনা অকেজো হয়ে যায় না, আর এখানে এমন কথাও নেই যে আল্লাহভীরু লোক কোনো পরিস্থিতি কখনো ভুল বোঝেন না। কথাটা হলো, কোনো বিষয় যদি পরিষ্কার না হয়, তবে সৎভাবে প্রথমে তাকানোর জায়গা পরের মতামত নয়, সদ্য কেটে যাওয়া সপ্তাহটা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for the Furqan",
+          "bn": "ফুরকান চেয়ে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "This verse is a promise rather than a supplication, but the Book supplies a prayer that sits exactly on it. 20:114 has the Prophet ﷺ himself taught to say, my Lord, increase me in knowledge. As-Sa'di defines the furqan as knowledge and guidance, which makes that short sentence the most direct request a reader can make for what this verse offers, and it has the advantage of being Quranic wording that anyone can memorise in a single sitting.",
+            "bn": "এ আয়াত দোয়া নয়, ওয়াদা। তবু কিতাব এমন একটি দোয়া দেয় যা ঠিক এর উপরেই বসে। ২০:১১৪ আয়াতে নবীকে ﷺ নিজেই শেখানো হয় বলতে, হে আমার রব, আমাকে জ্ঞানে বাড়িয়ে দিন। সা'দী ফুরকানের সংজ্ঞা দেন ইলম আর হিদায়াত হিসেবে, আর তাতে এই ছোট বাক্যটিই হয়ে ওঠে এ আয়াত যা দেয় তা চাওয়ার সবচেয়ে সোজা পথ। সুবিধা আরও একটা, এটি কুরআনের শব্দ, আর একবার বসেই যে কেউ মুখস্থ করে নিতে পারে।"
+          },
+          {
+            "en": "If a longer sentence is wanted it can be built from this verse's own vocabulary and offered as nothing more than that: O Allah, give me taqwa of You, and from it give me a furqan I can see this matter by, and efface and cover what I have already done. That is a supplication assembled from the words of the verse, not a Sunnah du'a, and it should not be passed to anyone as one.",
+            "bn": "আরেকটু লম্বা বাক্য চাইলে সেটা এ আয়াতের শব্দ দিয়েই গড়া যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আমাকে আপনার তাকওয়া দিন, আর সেই তাকওয়া থেকে দিন এমন ফুরকান যা দিয়ে এ বিষয়টা আমি দেখতে পাই, আর আমি যা করে ফেলেছি তা মুছে দিন আর ঢেকে দিন। এটি আয়াতের শব্দ জুড়ে বানানো দোয়া, সুন্নাহর দোয়া নয়, আর কাউকে সুন্নাহর দোয়া বলে দেওয়াও যাবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Own Clarity",
+          "bn": "নিজের পরিষ্কার দেখা নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "What decision am I stuck on, and have I been treating it as a thinking problem when this verse treats clarity as something taqwa earns? The last time something genuinely came clear to me, what had I been doing in the weeks before it did? And the verse puts fearing Allah before discernment: which of the two have I been trying to get hold of first?",
+            "bn": "কোন সিদ্ধান্তে আমি আটকে আছি, আর আমি কি সেটাকে ভাবনার সমস্যা ধরে নিয়েছি, অথচ এ আয়াত পরিষ্কার দেখাকে তাকওয়ার কামাই বলে গোনে? শেষ যেবার সত্যিকার অর্থে কোনো বিষয় আমার কাছে পরিষ্কার হয়ে গেল, তার আগের সপ্তাহগুলোতে আমি কী করছিলাম? আর আয়াত আল্লাহভীতিকে রাখে বোঝার আগে, তাহলে এ দুটোর মধ্যে আমি কোনটা আগে ধরতে চাইছি?"
+          },
+          {
+            "en": "Two that cost more to answer. If my misdeeds were really effaced and then covered, whose opinion of me would I stop working so hard to manage? And if I acted for one week as though clear sight follows obedience rather than more information, what would I actually do differently on the days nothing feels resolved?",
+            "bn": "আরও দুটি, যার জবাব দিতে বেশি খরচ হয়। আমার দোষগুলো যদি সত্যিই মুছে দেওয়া হয় আর তারপর ঢেকেও দেওয়া হয়, তবে কার মতামত সামলাতে আমি আর এত খাটব না? আর এক সপ্তাহ যদি আমি এভাবে চলি যে পরিষ্কার দৃষ্টি আসে আনুগত্যের পেছনে, আরও তথ্যের পেছনে নয়, তাহলে যেসব দিনে কিছুই মিটমাট হয় না, সেসব দিনে আমি আসলে কী আলাদা করব?"
+          }
+        ]
+      }
+    ]
+  },
   "8:46": {
     "sections": [
       {
