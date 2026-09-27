@@ -7043,6 +7043,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "When no amount would have satisfied the objection, the objection was never about the amount; and the verse takes the side of whoever has already given.",
     "lessonBn": "যখন কোনো পরিমাণেই আপত্তি মিটত না, তখন আপত্তিটা কখনোই পরিমাণ নিয়ে ছিল না। আর আয়াত পক্ষ নেয় তার, যে ইতিমধ্যেই দিয়ে দিয়েছে।"
+  },
+  "9:85": {
+    "reflectionEn": "The same sentence stood thirty verses earlier, and here it does a different job. The verse just before it forbade praying over them and standing at their graves; this one removes the thing that would have made somebody want to. Do not let their wealth and their children impress you. A funeral is exactly where that impression does its work, at the graveside of a man whose estate everyone can see. The verse says the estate was never a mark of favour, and it names the ending it was leading to instead.",
+    "reflectionBn": "এই একই বাক্য দাঁড়িয়ে ছিল ত্রিশ আয়াত আগেও, আর এখানে সে করছে অন্য এক কাজ। এর ঠিক আগের আয়াত নিষেধ করেছে তাদের জন্য নামায পড়া আর তাদের কবরের পাশে দাঁড়ানো; আর এ আয়াত সরিয়ে দেয় সেই জিনিসটাকেই, যা কারও মনে ওই ইচ্ছেটা জাগাত। তাদের ধন-সম্পদ আর সন্তান আপনার চোখ ধাঁধিয়ে না দিক। জানাযাই ঠিক সেই জায়গা, যেখানে ওই মুগ্ধতা নিজের কাজটা করে; এমন লোকের কবরের পাশে, যার রেখে যাওয়া সম্পদ সবাই দেখতে পাচ্ছে। আয়াত বলে, ওই সম্পদ কখনোই অনুগ্রহের চিহ্ন ছিল না; আর সে বলে দেয় ওটা বদলে কোন পরিণতির দিকে নিয়ে যাচ্ছিল।",
+    "pointsEn": [
+      "A graveside is where wealth speaks loudest. Have I ever adjusted my respect for somebody according to what he left behind?",
+      "The verse says the giving was not a mark of honour. Where have I read somebody's comfort as a sign that Allah approves of him?",
+      "It repeats a sentence said thirty verses earlier. What is it about this particular mistake that I need telling twice?",
+      "The punishment described includes the anxiety of holding on. What am I holding that is charging me in exactly that currency?",
+      "The verse ends where the man ends. If my own account closed this year, what would the closing state of my heart be attached to?"
+    ],
+    "pointsBn": [
+      "কবরের পাশেই সম্পদ সবচেয়ে জোরে কথা বলে। কেউ কী রেখে গেল তা দেখে আমি কি কখনো তার প্রতি নিজের শ্রদ্ধা কমিয়ে-বাড়িয়ে নিয়েছি?",
+      "আয়াত বলে, ওই দেওয়াটা সম্মানের চিহ্ন ছিল না। কারও আরামকে আমি কোথায় এমন চিহ্ন হিসেবে পড়েছি যে আল্লাহ তার প্রতি সন্তুষ্ট?",
+      "ত্রিশ আয়াত আগে বলা একটি বাক্য সে আবার বলে। এই বিশেষ ভুলটার মধ্যে কী আছে যে আমাকে দুবার বলতে হয়?",
+      "বর্ণনা করা শাস্তির মধ্যে আছে ধরে রাখার দুশ্চিন্তাও। আমি কী ধরে আছি, যা ঠিক ওই মুদ্রাতেই আমার কাছ থেকে দাম নিচ্ছে?",
+      "আয়াত শেষ হয় লোকটি যেখানে শেষ হয় সেখানেই। এ বছরই আমার হিসাব বন্ধ হলে, শেষ মুহূর্তে আমার অন্তর কীসের সঙ্গে জড়িয়ে থাকত?"
+    ],
+    "lessonEn": "An estate is not a verdict; the verse removes the impression at the one place it is hardest to resist, beside a grave.",
+    "lessonBn": "রেখে যাওয়া সম্পদ কোনো রায় নয়। আয়াত সেই মুগ্ধতাটা সরিয়ে দেয় ঠিক সেই জায়গায়, যেখানে সেটা সামলানো সবচেয়ে কঠিন, একটি কবরের পাশে।"
   }
 };
 

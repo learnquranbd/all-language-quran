@@ -1799,6 +1799,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:85": {
+    "sections": [
+      {
+        "h": {
+          "en": "Said Beside a Grave",
+          "bn": "কবরের পাশে বলা"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan and this verse takes its force from the one immediately before it. 9:84 forbids the Prophet ﷺ to pray over any of them who dies, ever, or to stand at his grave, giving the reason that they disbelieved and died defiantly disobedient. Our verse then removes the motive that might still have pulled at someone standing there, and 9:86 shows the same men asking to be left behind when a surah came down enjoining faith and fighting.",
+            "bn": "সূরা তাওবা মাদানী, আর এ আয়াত নিজের জোর পায় ঠিক তার আগের আয়াতটি থেকে। ৯:৮৪ আয়াত নবীকে ﷺ নিষেধ করে তাদের কেউ মারা গেলে কখনোই তার জন্য নামায পড়তে, কিংবা তার কবরের পাশে দাঁড়াতে; আর কারণ দেয় এই যে তারা কুফরী করেছে আর নাফরমান অবস্থাতেই মরেছে। এরপর আমাদের আয়াত সরিয়ে দেয় সেই টানটাকেই, যা ওখানে দাঁড়ানো কারও মনে তখনো কাজ করতে পারত; আর ৯:৮৬ আয়াত দেখায় ওই একই লোকদের, যারা ঈমান আর জিহাদের হুকুম নিয়ে সূরা নামলে পিছিয়ে থাকার অনুমতি চায়।"
+          },
+          {
+            "en": "At-Tabari joins the two verses explicitly, and his paraphrase is the key to why this sentence stands here at all: do not let the wealth of these hypocrites and their children impress you, O Muhammad ﷺ, so that you pray over one of them when he dies and stand at his grave on account of the abundance of his wealth and his children. The impression is not being warned against in the abstract. It is being warned against at the one place where an estate speaks loudest.",
+            "bn": "তাবারী দুটি আয়াতকে স্পষ্টভাবেই জুড়ে দেন, আর এ বাক্যটি এখানে কেন দাঁড়িয়ে আছে তার চাবিটা তাঁর ভাষান্তরেই: এ মুনাফিকদের সম্পদ আর তাদের সন্তান তোমার চোখ ধাঁধিয়ে না দিক, হে মুহাম্মাদ ﷺ, যাতে তাদের কেউ মারা গেলে তুমি তার সম্পদ আর সন্তানের আধিক্যের কারণে তার জন্য নামায পড়ে ফেলো আর তার কবরের পাশে দাঁড়াও। মুগ্ধতার ব্যাপারে হুঁশিয়ার করা হচ্ছে না ভাসাভাসাভাবে। হুঁশিয়ার করা হচ্ছে ঠিক সেই জায়গার ব্যাপারে, যেখানে রেখে যাওয়া সম্পদ সবচেয়ে জোরে কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sentence Said Twice",
+          "bn": "দুবার বলা বাক্য"
+        },
+        "p": [
+          {
+            "en": "This is almost word for word what 9:55 said thirty verses earlier, and the repetition is not an accident of compilation. There the sentence followed the refusal of their charity, so the warning was about admiring the wealth of men whose spending had just been declined. Here it follows a prohibition on funeral prayer, so the warning is about a graveside. One sentence, two situations, and in both of them the same mistake was available.",
+            "bn": "৯:৫৫ আয়াত ত্রিশ আয়াত আগে যা বলেছিল, এটি প্রায় অক্ষরে অক্ষরে তাই; আর এ পুনরাবৃত্তি সংকলনের কোনো দুর্ঘটনা নয়। ওখানে বাক্যটি এসেছিল তাদের দান ফিরিয়ে দেওয়ার পরে, কাজেই হুঁশিয়ারিটা ছিল এমন লোকদের সম্পদ দেখে মুগ্ধ হওয়া নিয়ে যাদের খরচ সদ্য নাকচ করা হয়েছে। এখানে এটি আসে জানাযার নামাযের নিষেধের পরে, কাজেই হুঁশিয়ারিটা কবরের পাশ নিয়ে। একটি বাক্য, দুটি পরিস্থিতি, আর দুটোতেই একই ভুল করার সুযোগ ছিল।"
+          },
+          {
+            "en": "The wording differs in one small place. At 9:55 the clause reads that Allah intends to punish them with it in the life of this world, and at-Tabari records a disagreement there about whether the phrase belongs earlier in the sentence and the punishment is in the hereafter. Here the phrase is simply in this world, with no room left for the transposition, and as-Suddi is carried in at-Tabari's entry glossing the departing of their souls as being in the life of this world. The second telling settles what the first left open.",
+            "bn": "শব্দে ফারাক আছে একটি ছোট জায়গায়। ৯:৫৫ আয়াতে কথাটি আসে এভাবে যে আল্লাহ দুনিয়ার জীবনে সেগুলো দিয়ে তাদের শাস্তি দিতে চান, আর সেখানে তাবারী একটি মতভেদ লিখে রাখেন, কথাটি বাক্যের আগের অংশের সঙ্গে যায় কি না আর শাস্তি আখিরাতে কি না তা নিয়ে। এখানে কথাটি কেবল দুনিয়াতেই, আর স্থান বদলের কোনো জায়গাই থাকে না; আর তাবারীর আলোচনায় সুদ্দী থেকে আনা হয় তাদের প্রাণ বেরিয়ে যাওয়ার ব্যাখ্যা, দুনিয়ার জীবনেই। দ্বিতীয় বলাটা ফয়সালা করে দেয় প্রথমটা যা খোলা রেখেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Not Honour but Humiliation",
+          "bn": "সম্মান নয়, অপমান"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di opens with the inference the verse exists to block: do not be deceived by what Allah gave them in this world of wealth and children, for that is not because of their honour with Him. Then the reversal, stated flatly: rather it is a humiliation from Him toward them. That is a harder claim than saying the wealth is neutral or that it is a test. It reads the giving itself as a move against them, and the rest of his entry explains how a gift can work that way.",
+            "bn": "সা'দী শুরু করেন সেই সিদ্ধান্তটি আটকে দিয়ে, যা আটকানোর জন্যই আয়াতটি আছে: আল্লাহ দুনিয়াতে তাদের যে সম্পদ আর সন্তান দিয়েছেন তাতে ধোঁকা খাবেন না, কারণ ওটা তাঁর কাছে তাদের সম্মানের কারণে নয়। এরপর আসে উল্টো কথাটি, সোজাসুজি বলা: বরং ওটা তাঁর পক্ষ থেকে তাদের প্রতি এক অপমান। সম্পদ নিরপেক্ষ বা সম্পদ পরীক্ষা বলার চেয়ে এ দাবি অনেক কঠিন। সে দেওয়াটাকেই পড়ে তাদের বিরুদ্ধে একটা চাল হিসেবে, আর তাঁর বাকি আলোচনা বুঝিয়ে দেয় কোনো দান কীভাবে এ কাজ করতে পারে।"
+          },
+          {
+            "en": "His mechanism has four moving parts and they run in sequence: they toil in obtaining it, they fear its loss, they are not at ease with it, and they keep meeting hardships and difficulties in it. Then the part that matters most, that it distracts them from Allah and the abode of the hereafter until they depart from this world. The punishment, on this reading, is not an event scheduled later. It is the shape of the whole arrangement while it lasts.",
+            "bn": "তাঁর ব্যাখ্যায় চারটি চলমান অংশ আছে, আর সেগুলো চলে একের পর এক: সেটা জোগাড় করতে তারা খাটে, সেটা হারানোর ভয় পায়, সেটা নিয়ে তারা নিশ্চিন্ত থাকে না, আর সেটার ভেতরে তারা বারবার কষ্ট আর ঝামেলার মুখোমুখি হয়। এরপর আসে সবচেয়ে জরুরি অংশটা, সেটা তাদের আল্লাহ আর আখিরাতের ঘর থেকে সরিয়ে রাখে, যতক্ষণ না তারা দুনিয়া থেকে বিদায় নেয়। এ পাঠে শাস্তি পরে সময় ঠিক করে রাখা কোনো ঘটনা নয়। ওটা গোটা বন্দোবস্তটা যতদিন চলে ততদিনের চেহারাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Ways It Charges",
+          "bn": "তিন পথে দাম নেওয়া"
+        },
+        "p": [
+          {
+            "en": "At-Tabari puts the mechanism in one long clause, and it names three different charges rather than one. I only gave him what I gave, he has Allah say, in order to punish him with it in this world: with griefs and anxieties; by what I obliged him in it of costs and expenditures and zakah; and by what befalls him in it of losses and calamities. So the same wealth bills him three times over, in worry, in obligation and in accident.",
+            "bn": "তাবারী গোটা ব্যাখ্যাটা রাখেন একটি লম্বা কথায়, আর সেটি একটি নয়, তিনটি আলাদা দামের নাম নেয়। তিনি আল্লাহর মুখে বসান, আমি তাকে যা দিয়েছি তা দিয়েছি কেবল দুনিয়াতে সেটার মাধ্যমেই তাকে শাস্তি দিতে: দুঃখ আর দুশ্চিন্তা দিয়ে; এতে আমি তার উপর যে খরচ, ব্যয় আর যাকাত ফরজ করেছি তা দিয়ে; আর এতে তার উপর যে ক্ষতি আর বিপদ নেমে আসে তা দিয়ে। অর্থাৎ একই সম্পদ তার কাছে দাম নেয় তিনবার, দুশ্চিন্তায়, দায়িত্বে আর দুর্ঘটনায়।"
+          },
+          {
+            "en": "His reading of the closing clause then ties the whole thing to the grave the previous verse had forbidden standing at. And that he should die, so his soul leaves his body, and he parts from what I gave him of wealth and children, so that becomes a regret for him at his death, and a bane upon him then, and a bane upon him in the hereafter, by his dying while denying the oneness of Allah and the prophethood of His prophet ﷺ. The estate and the man separate at exactly the place where an onlooker was most likely to be impressed.",
+            "bn": "এরপর শেষ কথাটির তাঁর পাঠ গোটা ব্যাপারটাকে বেঁধে দেয় সেই কবরের সঙ্গেই, যার পাশে দাঁড়াতে আগের আয়াত নিষেধ করেছিল। আর সে যেন মরে যায়, তাই তার প্রাণ তার শরীর থেকে বেরিয়ে যায়, আর আমি তাকে যে সম্পদ আর সন্তান দিয়েছিলাম তার থেকে সে আলাদা হয়ে যায়; তাই সেটা তার মরণের সময় তার জন্য হয়ে দাঁড়ায় আফসোস, আর তখন তার উপর বিপদ, আর আখিরাতেও তার উপর বিপদ, কারণ সে মরেছে আল্লাহর একত্ব আর তাঁর নবীর ﷺ নবুওয়াত অস্বীকার করা অবস্থায়। সম্পদ আর লোকটি আলাদা হয়ে যায় ঠিক সেই জায়গাতেই, যেখানে কোনো দর্শকের মুগ্ধ হওয়ার সম্ভাবনা ছিল সবচেয়ে বেশি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Hearts Still Attached",
+          "bn": "অন্তর তখনো জড়ানো"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di's closing sentence is the most vivid thing either commentator says here: the love of it had stripped them of everything, so they died with their hearts attached to it and their hearts burning over it. The verb for the departing of the soul is the same one 9:55 used, of a soul going out under pressure, and he puts the pressure inside the man rather than around him. What is being described is not a deathbed scene but a final state of attachment.",
+            "bn": "এখানে দুই মুফাসসিরের মধ্যে সবচেয়ে জীবন্ত কথাটা সা'দীর শেষ বাক্যেই: সেটার ভালোবাসা তাদের সব কিছু থেকে খালি করে দিয়েছিল, তাই তারা মরেছে অন্তর সেটার সঙ্গে জড়ানো অবস্থায় আর অন্তর সেটার জন্য পুড়তে পুড়তে। প্রাণ বেরিয়ে যাওয়ার ক্রিয়াটি সেটাই, যেটা ৯:৫৫ আয়াত ব্যবহার করেছিল, চাপের মুখে প্রাণ বেরিয়ে যাওয়া বোঝাতে; আর তিনি চাপটা রাখেন লোকটার চারপাশে নয়, তার ভেতরেই। যা বর্ণনা করা হচ্ছে তা মরণশয্যার কোনো দৃশ্য নয়, জড়িয়ে থাকার একটি শেষ অবস্থা।"
+          },
+          {
+            "en": "Read beside 9:84 the sequence is complete: a man is buried, the prayer is withheld, the estate is standing there in plain view, and the verse says what the estate had been doing to him all along. Nothing is said about what the mourners owed him or about how the wealth should now be divided. The verse is interested only in correcting what the living are about to conclude from what they can see.",
+            "bn": "৯:৮৪ আয়াতের পাশে রেখে পড়লে ধারাটা পূর্ণ হয়: একজনকে দাফন করা হচ্ছে, নামায আটকে রাখা হয়েছে, রেখে যাওয়া সম্পদ সবার চোখের সামনেই দাঁড়িয়ে আছে, আর আয়াত বলে দেয় ওই সম্পদ এতকাল তার সঙ্গে কী করে আসছিল। শোককারীরা তার কাছে কী পাওনা ছিল, বা সম্পদটা এখন কীভাবে ভাগ হবে, সে নিয়ে কিছুই বলা হয় না। আয়াতের আগ্রহ কেবল একটাতেই, জীবিতরা যা দেখতে পাচ্ছে তা থেকে তারা যা সিদ্ধান্ত নিতে যাচ্ছে সেটা শুধরে দেওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses on the Same Reading",
+          "bn": "একই পাঠের আয়াত"
+        },
+        "p": [
+          {
+            "en": "9:55 is the twin and the article on it carries the fuller discussion of the readings, including at-Tabari's three and as-Sa'di's account of the hardship of acquiring. 9:69 sets the same men beside the nations before them, who were stronger in power and more abundant in wealth and children, and had their portion. 3:178 states the general rule in the same shape, that the extension of time is not better for them.",
+            "bn": "৯:৫৫ আয়াতই এর জোড়া, আর সেটির উপর লেখাটিতেই আছে পাঠগুলোর পূর্ণ আলোচনা, তাবারীর তিনটি আর জোগাড় করার কষ্ট নিয়ে সা'দীর বিবরণসহ। ৯:৬৯ আয়াত এ একই লোকদের দাঁড় করায় তাদের আগের জাতিগুলোর পাশে, যারা শক্তিতে ছিল বেশি প্রবল আর সম্পদ আর সন্তানে ছিল বেশি সমৃদ্ধ, আর নিজেদের ভাগটা পেয়েও গিয়েছিল। ৩:১৭৮ আয়াত একই আকারে বলে দেয় সাধারণ নিয়মটি, অবকাশ দেওয়া তাদের জন্য ভালো নয়।"
+          },
+          {
+            "en": "8:28 and 63:9 supply the believer's version of the same two nouns. The first names wealth and children as a trial with a great reward kept with Allah; the second warns the believers themselves not to let wealth and children divert them from the remembrance of Allah, and calls those who allow it the losers. The same two things, then, are a trial for one man and a punishment for another, and what decides which is not the amount but the attachment.",
+            "bn": "৮:২৮ আর ৬৩:৯ আয়াত ওই একই দুটি শব্দের মু'মিন-রূপটা এনে দেয়। প্রথমটি সম্পদ আর সন্তানের নাম দেয় পরীক্ষা হিসেবে, আর আল্লাহর কাছে রাখা মহা প্রতিদানসহ; দ্বিতীয়টি মু'মিনদেরই হুঁশিয়ার করে, সম্পদ আর সন্তান যেন তাদের আল্লাহর স্মরণ থেকে সরিয়ে না দেয়, আর যারা সেটা হতে দেয় তাদের নাম দেয় ক্ষতিগ্রস্ত। অর্থাৎ একই দুটি জিনিস একজনের জন্য পরীক্ষা আর আরেকজনের জন্য শাস্তি; আর কোনটা হবে তা ঠিক করে পরিমাণ নয়, জড়িয়ে পড়াটা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What a Funeral Tells You",
+          "bn": "জানাযা আপনাকে কী বলে"
+        },
+        "p": [
+          {
+            "en": "The practical setting of this verse is worth keeping, because it is the setting where the mistake is hardest to resist. At a graveside the estate is visible, the standing of the family is visible, and a verdict about a life is being formed quickly by everyone present. At-Tabari's paraphrase says the danger plainly, that the abundance of a man's wealth and children could move even the Prophet ﷺ to stand there, and the verse was sent to remove that pull rather than to reproach anyone for feeling it.",
+            "bn": "এ আয়াতের কাজের পরিবেশটা মনে রাখার মতো, কারণ ওটাই সেই পরিবেশ যেখানে ভুলটা সামলানো সবচেয়ে কঠিন। কবরের পাশে রেখে যাওয়া সম্পদ চোখের সামনে, পরিবারের অবস্থানও চোখের সামনে, আর উপস্থিত সবাই মিলে একটি জীবন নিয়ে দ্রুত একটা রায় বানিয়ে ফেলছে। তাবারীর ভাষান্তর বিপদটা সোজা বলে দেয়, যে কোনো লোকের সম্পদ আর সন্তানের আধিক্য এমনকি নবীকেও ﷺ ওখানে দাঁড়াতে নাড়া দিতে পারত; আর আয়াত এসেছিল ওই টানটা সরিয়ে দিতে, কারও মনে সেটা জাগার জন্য তাকে ভর্ৎসনা করতে নয়।"
+          },
+          {
+            "en": "Turned toward the reader it produces one plain question with an answer he can check. If somebody's standing in my eyes rises with what he leaves behind, then I am doing at a distance what this verse was sent to stop at a graveside. And as-Sa'di's four parts are a test that runs the other way too: whatever I am holding, do I toil for it, fear losing it, fail to rest in it, and find that it keeps arranging my attention away from Allah?",
+            "bn": "পাঠকের দিকে ফিরিয়ে দিলে এ থেকে একটি সোজা প্রশ্ন আসে, যার জবাব তিনি নিজেই যাচাই করতে পারেন। কেউ কী রেখে যায় তার সঙ্গে সঙ্গে যদি আমার চোখে তার মান বাড়ে, তবে এ আয়াত কবরের পাশে যা থামাতে এসেছিল, আমি দূরে বসে সেটাই করছি। আর সা'দীর চারটি অংশ উল্টো দিকেও একটা যাচাই: আমি যা ধরে আছি, তার জন্য কি আমি খাটি, হারানোর ভয় পাই, তাতে নিশ্চিন্ত হতে পারি না, আর দেখি সেটা বারবার আমার মনোযোগ আল্লাহর দিক থেকে সরিয়ে সাজিয়ে দিচ্ছে?"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer at a Burial",
+          "bn": "দাফনের সময় এক দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse carries no supplication, and the passage around it is about a prayer being withheld rather than offered, so nothing here can be turned into a form of words for a funeral. What it does leave a believer wanting is the opposite of the state it describes: not to die with the heart attached to what is being left behind. 63:9's warning is the nearest thing to a prayer in the same vocabulary, said as a reminder rather than a request.",
+            "bn": "আয়াতে কোনো দোয়া নেই, আর এর আশপাশের অংশ একটি নামায পড়া নিয়ে নয়, আটকে রাখা নিয়ে; কাজেই এখানকার কিছুকেই জানাযার জন্য কোনো বাঁধা বুলিতে বদলে ফেলা যাবে না। যা এটি মু'মিনের মনে চাওয়া হিসেবে রেখে যায়, তা হলো সে যে অবস্থার বর্ণনা দেয় তার উল্টোটা: রেখে যাওয়া জিনিসের সঙ্গে অন্তর জড়ানো অবস্থায় না মরা। একই শব্দভাণ্ডারে দোয়ার সবচেয়ে কাছের জিনিস ৬৩:৯ আয়াতের সেই হুঁশিয়ারি, আর সেটা বলা হবে অনুরোধ হিসেবে নয়, মনে করিয়ে দেওয়া হিসেবে।"
+          },
+          {
+            "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, when my soul goes out, do not let it go out attached to what I am leaving, and do not let what You gave me be what You punish me with. It is assembled from the verse's closing clause and from as-Sa'di's last sentence on it, and it is not a Sunnah du'a.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আমার প্রাণ যখন বেরিয়ে যায়, তখন যা আমি রেখে যাচ্ছি তার সঙ্গে জড়ানো অবস্থায় সেটা বেরিয়ে যেতে দেবেন না; আর আপনি আমাকে যা দিয়েছেন, সেটাকেই আমার শাস্তির জিনিস হতে দেবেন না। এটি আয়াতের শেষ কথা আর তার উপর সা'দীর শেষ বাক্য জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions Beside a Grave",
+          "bn": "কবরের পাশে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "A graveside is where wealth speaks loudest, so have I ever adjusted my respect for a man according to what he left behind? The verse says the giving was never a mark of honour with Allah, so where have I read somebody's comfort as a sign that Allah approves of him? And the sentence is repeated thirty verses after the first time: what is it about this particular mistake that needs telling twice?",
+            "bn": "কবরের পাশেই সম্পদ সবচেয়ে জোরে কথা বলে; তাহলে কেউ কী রেখে গেল তা দেখে আমি কি কখনো তার প্রতি নিজের শ্রদ্ধা কমিয়ে-বাড়িয়ে নিয়েছি? আয়াত বলে, ওই দেওয়াটা আল্লাহর কাছে কখনোই সম্মানের চিহ্ন ছিল না; তাহলে কারও আরামকে আমি কোথায় এমন চিহ্ন হিসেবে পড়েছি যে আল্লাহ তার প্রতি সন্তুষ্ট? আর প্রথমবারের ত্রিশ আয়াত পরে বাক্যটি আবার বলা হয়: এই বিশেষ ভুলটার মধ্যে কী আছে যে দুবার বলতে হয়?"
+          },
+          {
+            "en": "Two more. The punishment described includes the anxiety of holding on, the obligations that come attached, and the accidents that arrive anyway: what am I holding that is charging me in all three currencies at once? And the verse ends where the man ends, so if my own account closed this year, what would the last state of my heart have been attached to?",
+            "bn": "আরও দুটি। বর্ণনা করা শাস্তির মধ্যে আছে ধরে রাখার দুশ্চিন্তা, সঙ্গে জুড়ে আসা দায়িত্ব, আর যা-ই হোক এসে পড়া দুর্ঘটনা: আমি কী ধরে আছি, যা একই সঙ্গে তিনটি মুদ্রাতেই আমার কাছ থেকে দাম নিচ্ছে? আর আয়াত শেষ হয় লোকটি যেখানে শেষ হয় সেখানেই; তাহলে এ বছরই আমার হিসাব বন্ধ হলে, আমার অন্তরের শেষ অবস্থা কীসের সঙ্গে জড়ানো থাকত?"
+          }
+        ]
+      }
+    ]
+  },
   "9:105": {
     "sections": [
       {
