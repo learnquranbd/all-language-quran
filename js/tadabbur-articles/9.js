@@ -307,6 +307,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:18": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Answer to a Boast",
+          "bn": "এক বড়াইয়ের জবাব"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan, and this verse answers the one before it. 9:17 says it is not for the idolaters to maintain the mosques of Allah while they witness against themselves with disbelief. Ibn Kathir, commenting there, notes that those who read the phrase as the Masjid of Allah take it of al-Masjid al-Haram, built from the first day for the worship of Allah alone, and he quotes as-Suddi's dry remark that if you ask a man of any religion what he is, he will tell you plainly.",
+            "bn": "সূরা তাওবা মাদানী, আর এ আয়াত জবাব দেয় তার আগের আয়াতটির। ৯:১৭ আয়াত বলে, মুশরিকদের কাজ এটা নয় যে তারা আল্লাহর মাসজিদের রক্ষণাবেক্ষণ করবে, অথচ তারা নিজেদের কুফরীর সাক্ষ্য নিজেরাই দিচ্ছে। ইবনু কাসীর সেখানে আলোচনা করতে গিয়ে লিখে রাখেন, যাঁরা কথাটি আল্লাহর মাসজিদ হিসেবে পড়েন তাঁরা এর দ্বারা মাসজিদুল হারাম বোঝেন, যা প্রথম দিন থেকেই বানানো হয়েছিল একমাত্র আল্লাহর ইবাদতের জন্য; আর তিনি সুদ্দীর সেই শুকনো কথাটিও তুলে আনেন, কোনো ধর্মের লোককে জিজ্ঞেস করলে সে সোজাসুজি বলে দেবে সে কী।"
+          },
+          {
+            "en": "At-Tabari preserves what the verse was answering, from Ibn Ishaq: then He mentioned the saying of Quraysh, that we are the people of the Haram, the waterers of the pilgrim, the maintainers of this House, and no one is better than us. So the verse is a reply to a claim of custodianship, and the reply is a list. 9:19 then puts the same claim on scales, asking whether providing water for the pilgrim and maintaining the Sacred Mosque are equal to believing and striving, and answering that they are not equal in the sight of Allah.",
+            "bn": "আয়াতটি কার জবাব দিচ্ছিল, তা তাবারী রক্ষা করেন ইবনু ইসহাকের সূত্রে: এরপর তিনি কুরাইশের সেই কথাটির উল্লেখ করলেন, আমরা হারামের লোক, হাজীদের পানি পান করানেওয়ালা, এ ঘরের রক্ষণাবেক্ষণকারী, আর আমাদের চেয়ে ভালো কেউ নেই। অর্থাৎ আয়াতটি তত্ত্বাবধানের এক দাবির জবাব, আর জবাবটা একটি তালিকা। ৯:১৯ আয়াত এরপর সেই একই দাবিকে পাল্লায় তোলে, জিজ্ঞেস করে হাজীদের পানি পান করানো আর মাসজিদুল হারামের দেখাশোনা করা কি ঈমান আনা আর জিহাদ করার সমান, আর জবাব দেয়, আল্লাহর কাছে এরা সমান নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ya'muru: To Keep Alive",
+          "bn": "ইয়া'মুরু: বাঁচিয়ে রাখা"
+        },
+        "p": [
+          {
+            "en": "The verb is ya'muru, from a root that carries building, inhabiting and long life together, and the app's Bengali reaches for abad, the keeping of a place populated and in use. That range matters here, because the boast being answered was about upkeep in the narrowest sense, water carried and a building maintained. The verse does not deny that such work is work. It says who the maintainers are, and it answers with people rather than with services.",
+            "bn": "ক্রিয়াটি ইয়া'মুরু, আর এর ধাতু একসঙ্গে বহন করে গড়া, বসবাস আর দীর্ঘ আয়ু; আর অ্যাপের বাংলা হাত বাড়ায় আবাদ শব্দটির দিকে, অর্থাৎ কোনো জায়গাকে মানুষে ভরা আর চালু রাখা। এখানে এ পরিসরটার দাম আছে, কারণ যে বড়াইয়ের জবাব দেওয়া হচ্ছে তা ছিল সবচেয়ে সংকীর্ণ অর্থে দেখাশোনা নিয়েই, পানি বহন করা আর একটা দালান ঠিক রাখা। আয়াত অস্বীকার করে না যে ওই কাজও কাজ। সে বলে দেয় রক্ষণাবেক্ষণকারীরা কারা, আর জবাব দেয় সেবার নাম নিয়ে নয়, মানুষের নাম নিয়ে।"
+          },
+          {
+            "en": "Then innama, the particle of restriction, which is why the English reads only to be maintained by. The list it restricts them to has four conditions, the first of them double, and at-Tabari glosses each part: the one who affirms Allah's oneness and is sincere to Him in worship; who affirms that Allah will raise the dead alive from their graves; who performs the obligatory prayer within its limits; who pays the obligatory zakah of his wealth to those Allah appointed it for; and who dreads the punishment of nothing for his disobedience except Allah.",
+            "bn": "এরপর আসে ইন্নামা, সীমাবদ্ধ করার শব্দ, আর সে কারণেই ইংরেজিতে পড়া হয় কেবল তারাই রক্ষণাবেক্ষণ করবে। যে তালিকায় তাদের সীমাবদ্ধ করা হচ্ছে তাতে চারটি শর্ত, যার প্রথমটি জোড়া, আর তাবারী প্রতিটি অংশের ব্যাখ্যা দেন: যে আল্লাহর একত্ব স্বীকার করে আর ইবাদতে তাঁর জন্য একনিষ্ঠ; যে স্বীকার করে আল্লাহ মৃতদের কবর থেকে জীবিত করে তুলবেন; যে ফরজ নামায তার সীমার ভেতরে আদায় করে; যে নিজের সম্পদের ফরজ যাকাত আল্লাহ যাদের জন্য ঠিক করেছেন তাদের দেয়; আর যে নিজের নাফরমানির শাস্তি নিয়ে আল্লাহ ছাড়া আর কারও ভয় করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fearing No One Else",
+          "bn": "আর কাউকে ভয় না করা"
+        },
+        "p": [
+          {
+            "en": "The fourth item is the one that changes the list. As-Sa'di glosses it as a man restricting his fear to his Lord, so that he holds back from what Allah forbade and does not fall short in the rights Allah made obligatory. Read that way it is not an emotional state but a working condition: fear of anyone else is what makes a man cut a corner or stay silent, and the verse puts its absence beside prayer and zakah as though it were the same kind of duty.",
+            "bn": "তালিকাটার চেহারা বদলে দেয় চতুর্থ জিনিসটাই। সা'দী এর ব্যাখ্যা দেন, লোকটি নিজের ভয়কে সীমাবদ্ধ রাখে নিজের রবের মধ্যে, আর তাই আল্লাহ যা হারাম করেছেন তা থেকে সে হাত গুটিয়ে রাখে আর আল্লাহর ফরজ করা হকগুলোতে ঘাটতি করে না। এভাবে পড়লে এটা কোনো মনের অবস্থা নয়, কাজের শর্ত: অন্য কারও ভয়ই মানুষকে কোনো কোনায় ছাড় দিতে বা চুপ থাকতে বাধ্য করে, আর আয়াত সেই ভয়ের অনুপস্থিতিকে নামায আর যাকাতের পাশেই রাখে, যেন সেটাও একই ধরনের দায়িত্ব।"
+          },
+          {
+            "en": "As-Sa'di then sums the four as a portrait: He described them with beneficial faith, with the performance of righteous deeds whose mother is the prayer and the zakah, and with the fear of Allah, which is the root of every good. These, he says, are the maintainers of the mosques in reality and its people who are truly its people. And he closes the other side of it without softening: whoever does not believe in Allah or the Last Day and has no fear of Allah is not one of them, even if he claims it and asserts it.",
+            "bn": "এরপর সা'দী চারটিকে মিলিয়ে একটা ছবি বানান: তিনি তাঁদের বর্ণনা দিয়েছেন কাজে আসা ঈমান দিয়ে, নেক আমল আদায় করা দিয়ে, যার মা নামায আর যাকাত, আর আল্লাহর ভয় দিয়ে, যা সব ভালোর মূল। তিনি বলেন, এঁরাই প্রকৃত অর্থে মাসজিদের রক্ষণাবেক্ষণকারী আর এঁরাই এর সেই লোক যাঁরা সত্যিই এর লোক। আর উল্টো দিকটাও তিনি নরম না করেই শেষ করেন: যে আল্লাহ বা শেষ দিনে ঈমান রাখে না আর যার আল্লাহর কোনো ভয় নেই, সে এঁদের একজন নয়, সে যতই দাবি করুক আর যতই বলুক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Every Asa Is Binding",
+          "bn": "প্রতিটি আসা পাকা কথা"
+        },
+        "p": [
+          {
+            "en": "The verse ends on a hope rather than a verdict: it is to be hoped that those will be among the guided. At-Tabari reads the clause as meaning it is fitting for people of that description to be, with Allah, among those He has guided to the truth. But he also records something larger from Ibn Abbas (RA), who read the same words as a certainty: indeed those are the successful, and who supported it by the way the word is used of the Prophet ﷺ in 17:79, that perhaps your Lord will raise you to a praised station.",
+            "bn": "আয়াত শেষ হয় রায় দিয়ে নয়, আশা দিয়ে: আশা করা যায় তারা হবে হিদায়াতপ্রাপ্তদের অন্তর্ভুক্ত। তাবারী এ কথাটির অর্থ ধরেন, এমন বর্ণনার লোকদের জন্য এটাই মানানসই যে তারা আল্লাহর কাছে সেই লোকদের মধ্যে গণ্য হবে যাদের তিনি সত্যের দিকে হিদায়াত দিয়েছেন। তবে তিনি ইবনু আব্বাস (রাঃ) থেকে আরও বড় একটি কথাও লিখে রাখেন; তিনি একই শব্দগুলো পড়েন নিশ্চয়তা হিসেবে: নিশ্চয়ই এরাই সফলকাম। আর এর সমর্থনে তিনি দেখান ১৭:৭৯ আয়াতে নবীর ﷺ ব্যাপারে শব্দটির ব্যবহার, আশা করা যায় তোমার রব তোমাকে প্রশংসিত স্থানে উন্নীত করবেন।"
+          },
+          {
+            "en": "Ibn Abbas (RA) draws the rule out plainly, that Allah's words there mean your Lord will surely raise you, and that station is the intercession, and then states it generally: every asa in the Quran is binding. As-Sa'di reaches the same conclusion in four words, that asa from Allah is binding. So the softness of the ending is a courtesy of expression rather than an uncertainty, and the reader who meets the four conditions is being promised guidance in the gentlest available grammar.",
+            "bn": "ইবনু আব্বাস (রাঃ) নিয়মটা খুলে বলে দেন, ওখানে আল্লাহর কথার অর্থ তোমার রব অবশ্যই তোমাকে উন্নীত করবেন, আর ওই স্থান মানে শাফাআত; তারপর কথাটা তিনি সাধারণভাবেই বলে দেন: কুরআনের প্রতিটি আসা পাকা কথা। সা'দী একই সিদ্ধান্তে পৌঁছান কয়েকটি শব্দে, আল্লাহর পক্ষ থেকে আসা মানে পাকা কথা। অর্থাৎ শেষটার নরম ভাবটা অনিশ্চয়তা নয়, প্রকাশের ভদ্রতা; আর যে পাঠক চারটি শর্ত পূরণ করেন, তাঁকে হিদায়াতের ওয়াদা দেওয়া হচ্ছে সবচেয়ে নরম ব্যাকরণে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whoever Builds One",
+          "bn": "যে একটি বানায়"
+        },
+        "p": [
+          {
+            "en": "The Sunnah puts a reward on the narrow work the verse declined to count as ownership, which is worth noticing. Sahih al-Bukhari 450 preserves, in the report of Ubaydullah al-Khawlani, Uthman ibn Affan (RA) citing the Prophet ﷺ: whoever built a mosque, Allah would build for him a similar place in Paradise. So building is not belittled anywhere in this passage; it is simply not what the verse was asked about. The question was who the mosque belongs to, and a builder who fails the four conditions has still built.",
+            "bn": "যে সংকীর্ণ কাজটিকে আয়াত মালিকানা বলে গুনতে রাজি হয়নি, সুন্নাহ সেটার উপর পুরস্কার রাখে, আর এটা খেয়াল করার মতো। সহীহ বুখারীর ৪৫০ নম্বরে উবাইদুল্লাহ আল-খাওলানীর বর্ণনায় রক্ষিত আছে, উসমান ইবনু আফফান (রাঃ) নবীর ﷺ কথা তুলে ধরছেন: যে মাসজিদ বানাল, আল্লাহ তার জন্য জান্নাতে সেরকম একটি জায়গা বানাবেন। অর্থাৎ এ অংশের কোথাওই বানানোকে ছোট করা হচ্ছে না; কথা হলো আয়াতকে সে প্রশ্নটা করা হয়নি। প্রশ্নটা ছিল মাসজিদ কার, আর যে নির্মাতা চারটি শর্তে উতরায় না, সে তবু বানিয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir, on the verse before ours, brings 8:34 to the same point: and why should Allah not punish them while they obstruct people from al-Masjid al-Haram and they were not its guardians; its guardians are none but the righteous, but most of them do not know. The last clause is the one that stings, because it says the people making the claim did not know that the claim was empty. A title held in good faith can still be a title nobody granted.",
+            "bn": "আমাদের আয়াতের আগের আয়াতটি নিয়ে আলোচনায় ইবনু কাসীর একই কথায় টেনে আনেন ৮:৩৪ আয়াত: আল্লাহ তাদের শাস্তি দেবেন না কেন, যখন তারা মানুষকে মাসজিদুল হারামের পথে বাধা দিচ্ছে আর তারা তার তত্ত্বাবধায়কও নয়; মুত্তাকীরা ছাড়া কেউ তার তত্ত্বাবধায়ক নয়, কিন্তু তাদের অধিকাংশই জানে না। শেষ কথাটাই বেশি লাগে, কারণ সেটা বলে দেয়, যারা দাবিটা করছিল তারা জানতই না যে দাবিটা ফাঁকা। সরল মনে ধরে রাখা পদবিও এমন পদবি হতে পারে, যা কেউ কখনো দেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses About the Houses",
+          "bn": "ঘরগুলো নিয়ে আয়াত"
+        },
+        "p": [
+          {
+            "en": "72:18 states the ownership the whole passage rests on in a few words: the masjids are for Allah, so do not invoke anyone with Allah. 2:114 takes the opposite case, asking who is more unjust than one who prevents Allah's name from being mentioned in His mosques and strives toward their ruin. Between them our verse sits as the positive statement, naming who may be said to keep such a place.",
+            "bn": "গোটা অংশটি যে মালিকানার উপর দাঁড়িয়ে, ৭২:১৮ আয়াত সেটা কয়েকটি শব্দে বলে দেয়: মাসজিদগুলো আল্লাহরই, কাজেই আল্লাহর সঙ্গে আর কাউকে ডেকো না। ২:১১৪ আয়াত ধরে উল্টো দিকটা, জিজ্ঞেস করে, তার চেয়ে বড় জালিম কে, যে আল্লাহর মাসজিদগুলোতে তাঁর নাম নিতে বাধা দেয় আর সেগুলো ধ্বংস করার চেষ্টা করে। এ দুয়ের মাঝখানে আমাদের আয়াত বসে থাকে ইতিবাচক বক্তব্য হিসেবে, নাম নিয়ে বলে দেয় এমন জায়গা ধরে রাখে বলা যায় কাদের।"
+          },
+          {
+            "en": "24:36-37 is the closest portrait of the same people: in houses which Allah has ordered to be raised and His name mentioned in them, men whom neither commerce nor sale distracts from the remembrance of Allah and the prayer and the zakah, who fear a Day when hearts and eyes will turn about. The two verses name the same three acts as ours and add the one thing ours implies, that what such men are not distracted by is business. And 9:19 with 9:20 finish the comparison our verse opened.",
+            "bn": "একই লোকদের সবচেয়ে কাছের ছবি ২৪:৩৬-৩৭ আয়াত: সেসব ঘরে, যেগুলোকে উঁচু রাখতে আর যেগুলোতে তাঁর নাম স্মরণ করতে আল্লাহ হুকুম দিয়েছেন; এমন লোকেরা, যাদের ব্যবসা আর কেনাবেচা আল্লাহর স্মরণ, নামায আর যাকাত থেকে সরিয়ে দিতে পারে না, যারা ভয় করে সেই দিনকে যেদিন অন্তর আর চোখ উল্টে যাবে। ওই দুই আয়াত আমাদের আয়াতের সেই তিনটি কাজেরই নাম নেয়, আর যোগ করে সেই জিনিসটা যা আমাদের আয়াত ইশারায় বলে, এমন লোকদের যা সরিয়ে দিতে পারে না তা হলো কাজকারবার। আর ৯:১৯ আর ৯:২০ আয়াত শেষ করে সেই তুলনা, যা আমাদের আয়াত শুরু করেছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who Holds Your Mosque",
+          "bn": "আপনার মাসজিদ ধরে রাখে কে"
+        },
+        "p": [
+          {
+            "en": "The verse is unusually practical for a committee-minded reader, because it lists no committee. Whatever is decided about a building, the people who hold it are the ones who believe, pray, pay and fear nobody but Allah. That cuts in two directions at once. It relieves a person with no standing and no money of the idea that the place is not his, and it relieves a person with both of the idea that it is.",
+            "bn": "কমিটির চোখে দেখা পাঠকের জন্য আয়াতটি অসাধারণভাবে কাজের, কারণ এতে কোনো কমিটির তালিকা নেই। দালানটা নিয়ে যা-ই ঠিক হোক, যারা সেটা ধরে রাখে তারা সেই লোক, যারা ঈমান রাখে, নামায পড়ে, যাকাত দেয়, আর আল্লাহ ছাড়া কাউকে ভয় করে না। এটা একসঙ্গে দুদিকেই কাটে। যার কোনো পদ নেই আর টাকা নেই, তাকে এ কথা মুক্তি দেয় সেই ধারণা থেকে যে জায়গাটা তার নয়; আর যার দুটোই আছে, তাকে মুক্তি দেয় সেই ধারণা থেকে যে জায়গাটা তার।"
+          },
+          {
+            "en": "The fourth condition is where most of the work is, because fear of people is the ordinary reason a community's affairs go wrong quietly: the thing nobody says at the meeting, the wrong left standing because of who would be offended. As-Sa'di's gloss makes that measurable — he holds back from what Allah forbade and does not fall short in Allah's obligatory rights — and the honest question it puts is not whether a person is brave in general but whom, in particular, he is presently afraid of.",
+            "bn": "কাজের বড় অংশটা চতুর্থ শর্তেই, কারণ মানুষের ভয়ই সেই সাধারণ কারণ, যার জন্য কোনো সমাজের কাজকর্ম চুপচাপ বিগড়ে যায়: বৈঠকে যে কথাটা কেউ বলে না, যে অন্যায়টা দাঁড়িয়ে থাকে কারণ কে চটে যাবে তা ভেবে। সা'দীর ব্যাখ্যা সেটাকে মাপার মতো করে দেয়, সে আল্লাহর হারাম করা জিনিস থেকে হাত গুটিয়ে রাখে আর আল্লাহর ফরজ হকগুলোতে ঘাটতি করে না; আর এ থেকে যে সৎ প্রশ্নটা আসে তা এই নয় যে লোকটি সাধারণভাবে সাহসী কি না, বরং এই যে সে এখন ঠিক কাকে ভয় পাচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer to Be Counted",
+          "bn": "গোনা হওয়ার জন্য দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse gives no supplication, but it hands a reader the exact thing to ask for, since it ends by hoping such people will be among the guided and Ibn Abbas (RA) reads that hope as a promise. The Quranic prayer nearest to it is the one every believer already says several times a day, guide us to the straight path, which asks for the very thing this verse holds out to those who meet its four conditions.",
+            "bn": "আয়াতে কোনো দোয়া নেই, তবে কী চাইতে হবে সেটা ঠিক ধরিয়ে দেয়, কারণ শেষে সে আশা করে এমন লোকেরা হিদায়াতপ্রাপ্তদের অন্তর্ভুক্ত হবে, আর ইবনু আব্বাস (রাঃ) ওই আশাকে পড়েন ওয়াদা হিসেবে। এর সবচেয়ে কাছের কুরআনী দোয়া সেটাই, যা প্রতিটি মু'মিন দিনে কয়েকবার এমনিতেই বলেন, আমাদের সরল পথ দেখাও; আর এ আয়াত নিজের চারটি শর্ত পূরণ করা লোকদের দিকে যা বাড়িয়ে দেয়, এ দোয়া ঠিক সেটাই চায়।"
+          },
+          {
+            "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, make me one of the people of Your houses by what You listed and not by what I can show, and let me fear nobody in them but You. It is assembled from the verse's four conditions and from as-Sa'di's gloss on the last of them, and it is not a Sunnah du'a. The hadith quoted above is a promise about building rather than a prayer, and should be carried as that.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আপনি যা তালিকা করেছেন তা দিয়েই আমাকে আপনার ঘরগুলোর লোক বানান, আমি যা দেখাতে পারি তা দিয়ে নয়; আর সেখানে আপনাকে ছাড়া আর কাউকে আমাকে ভয় করতে দেবেন না। এটি আয়াতের চারটি শর্ত আর তার শেষটির উপর সা'দীর ব্যাখ্যা জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। উপরে তোলা হাদীসটি দোয়া নয়, বানানো নিয়ে একটি ওয়াদা, আর সেভাবেই সেটা বহন করা উচিত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About the List",
+          "bn": "তালিকাটি নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "There is no donation on this list. If a mosque were held by the four things named here, would my name be among those holding it? Fearing nobody but Allah is set beside prayer and zakah as though it were the same sort of obligation, so whom am I actually afraid of, and what has that fear cost the people around me?",
+            "bn": "এ তালিকায় কোনো দানের কথা নেই। এখানে নাম নেওয়া চারটি জিনিস দিয়েই যদি মাসজিদ ধরা হয়, তবে যারা সেটা ধরে রাখে তাদের মধ্যে আমার নাম থাকত? আল্লাহ ছাড়া কাউকে ভয় না করাকে নামায আর যাকাতের পাশে রাখা হয়েছে, যেন সেটাও একই ধরনের দায়িত্ব; তাহলে আমি আসলে কাকে ভয় পাই, আর সেই ভয় আমার আশপাশের মানুষের কী খরচ করিয়েছে?"
+          },
+          {
+            "en": "Two more. The verse does not declare them guided, only that it is hoped, and even that hope is read as a promise by those who knew the language best: what claim about myself have I been making more confidently than this verse makes about them? And the first three conditions are visible to everyone while the fourth is not, so which of the four is weakest in me when nobody is watching?",
+            "bn": "আরও দুটি। আয়াত তাদের হিদায়াতপ্রাপ্ত ঘোষণা করে না, কেবল বলে আশা করা যায়; আর ভাষাটা যাঁরা সবচেয়ে ভালো জানতেন তাঁরা ওই আশাকেও পড়েন ওয়াদা হিসেবে: নিজের সম্পর্কে এমন কোন দাবি আমি করছি, যা এ আয়াত তাদের সম্পর্কে করার চেয়েও বেশি জোর দিয়ে? আর প্রথম তিনটি শর্ত সবার চোখে পড়ে, চতুর্থটি পড়ে না; তাহলে কেউ না দেখলে এ চারটির কোনটি আমার মধ্যে সবচেয়ে দুর্বল?"
+          }
+        ]
+      }
+    ]
+  },
   "9:40": {
     "sections": [
       {

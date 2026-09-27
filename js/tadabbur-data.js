@@ -6863,6 +6863,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Both the door to brotherhood and the door to conflict open on conduct, and the second one is opened in order to make somebody stop, not to finish him.",
     "lessonBn": "ভাই হওয়ার দরজা আর বিরোধের দরজা, দুটোই খোলে আচরণের উপর; আর দ্বিতীয়টি খোলা হয় কাউকে থামানোর জন্য, তাকে শেষ করার জন্য নয়।"
+  },
+  "9:18": {
+    "reflectionEn": "The verse answers a question about who a place of worship belongs to, and it answers with a list of four things, none of which is a deed, a title, or a family name. Belief in Allah and the Last Day, the prayer kept up, the zakah paid, and fearing no one but Allah. That last item is the surprise. A mosque is held, on this reckoning, by people who are not afraid of anybody, and the verse ends softly, that it is to be hoped such people will be among the guided — not a boast, a hope.",
+    "reflectionBn": "কোনো ইবাদতের জায়গা কার, এ প্রশ্নের জবাব দেয় আয়াতটি, আর জবাব দেয় চারটি জিনিসের তালিকা দিয়ে; যার একটিও দানপত্র নয়, পদবি নয়, বংশের নামও নয়। আল্লাহ আর শেষ দিনের প্রতি ঈমান, নামায কায়িম রাখা, যাকাত আদায় করা, আর আল্লাহ ছাড়া আর কাউকে ভয় না করা। শেষ জিনিসটাই চমক। এ হিসাবে মাসজিদ ধরে রাখে এমন লোকেরা, যারা কাউকে ভয় পায় না; আর আয়াত শেষ হয় নরম সুরে, আশা করা যায় এমন লোকেরাই হবে হিদায়াতপ্রাপ্তদের অন্তর্ভুক্ত; এটা বড়াই নয়, আশা।",
+    "pointsEn": [
+      "The list has no donation in it. If a mosque were held by the four things this verse names, would my name be on it?",
+      "Fearing nobody but Allah is put beside prayer and zakah as if it were the same kind of obligation. Whom am I actually afraid of?",
+      "The verse does not say they are guided, only that it is hoped. What claim about myself have I been making more firmly than this verse makes about them?",
+      "A place of worship can be kept up by people who do not belong to it. Where am I busy maintaining something I have no share in?",
+      "The first three are things anyone can see. The fourth is not. Which of the four is weakest in me when nobody is watching?"
+    ],
+    "pointsBn": [
+      "তালিকায় কোনো দানের কথা নেই। এ আয়াত যে চারটি জিনিসের নাম নেয় তা দিয়েই যদি মাসজিদ ধরা হয়, আমার নাম কি তাতে উঠত?",
+      "আল্লাহ ছাড়া কাউকে ভয় না করাকে নামায আর যাকাতের পাশে রাখা হয়েছে, যেন সেটাও একই ধরনের দায়িত্ব। আমি আসলে কাকে ভয় পাই?",
+      "আয়াত বলে না যে তারা হিদায়াতপ্রাপ্ত, বলে কেবল আশা করা যায়। নিজের সম্পর্কে এমন কোন দাবি আমি করছি, যা এ আয়াত তাদের সম্পর্কে করার চেয়েও জোরালো?",
+      "ইবাদতের জায়গার দেখাশোনা এমন লোকেরাও করতে পারে, যাদের সেখানে কোনো ভাগ নেই। কোথায় আমি এমন কিছুর দেখাশোনায় ব্যস্ত, যাতে আমার কোনো ভাগই নেই?",
+      "প্রথম তিনটি জিনিসই এমন যা যে কেউ দেখতে পায়। চতুর্থটি তা নয়। কেউ না দেখলে এ চারটির কোনটি আমার মধ্যে সবচেয়ে দুর্বল?"
+    ],
+    "lessonEn": "A mosque is held by faith, prayer, zakah and fearing no one but Allah; the list names no donor, and even those who meet it are given a hope rather than a verdict.",
+    "lessonBn": "মাসজিদ ধরে রাখে ঈমান, নামায, যাকাত আর আল্লাহ ছাড়া কাউকে ভয় না করা। তালিকায় কোনো দাতার নাম নেই, আর যারা এ শর্ত পূরণ করে তাদেরও দেওয়া হয় রায় নয়, আশা।"
   }
 };
 
