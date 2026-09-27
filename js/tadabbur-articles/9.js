@@ -1515,6 +1515,142 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:72": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Promise After the Portrait",
+          "bn": "ছবির পরে ওয়াদা"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan, and this verse pays out what the verse before it described. 9:71 had named the believing men and the believing women as allies of one another and listed what they do: enjoin right, forbid wrong, establish the prayer, give the zakah, obey Allah and His Messenger ﷺ, and it closed by saying Allah will have mercy upon them. Our verse then states what the mercy consists of, and 9:73 turns away to a different address altogether.",
+            "bn": "সূরা তাওবা মাদানী, আর এ আয়াত সেই জিনিসটা হাতে তুলে দেয় যার বর্ণনা তার আগের আয়াত দিয়েছিল। ৯:৭১ আয়াত মু'মিন পুরুষ আর মু'মিন নারীদের নাম নিয়েছিল একে অন্যের বন্ধু হিসেবে, আর তালিকা দিয়েছিল তারা কী করে: ভালো কাজের আদেশ, মন্দ কাজে নিষেধ, নামায কায়িম, যাকাত আদায়, আল্লাহ আর তাঁর রাসূলের ﷺ আনুগত্য; আর শেষ করেছিল এ বলে যে আল্লাহ তাদের প্রতি রহমত করবেন। এরপর আমাদের আয়াত বলে দেয় সেই রহমতটা কী কী নিয়ে, আর ৯:৭৩ আয়াত মুখ ফিরিয়ে নেয় সম্পূর্ণ অন্য এক সম্বোধনের দিকে।"
+          },
+          {
+            "en": "Both verses name the two groups separately, so within two verses the believing men and the believing women are addressed twice by name, once for what they do and once for what they are promised. At-Tabari glosses the opening without drawing attention to it, that Allah promised those who affirmed Allah and His Messenger ﷺ and acknowledged Him and what came with him, of the men and the women. Nothing in the reward is differentiated between them, and no separate promise is made to either, which is worth noticing in a surah otherwise busy with distinguishing one group of people from another.",
+            "bn": "দুটি আয়াতই দুটি দলের নাম আলাদা করে নেয়, কাজেই দুই আয়াতের ভেতরেই মু'মিন পুরুষ আর মু'মিন নারীদের নাম ধরে সম্বোধন করা হয় দুবার, একবার তারা কী করে তার জন্য আর একবার তাদের কী ওয়াদা দেওয়া হয়েছে তার জন্য। তাবারী শুরুর কথাটির ব্যাখ্যা দেন এর দিকে আলাদা করে আঙুল না তুলেই, যে আল্লাহ ওয়াদা করেছেন তাদের, যারা আল্লাহ আর তাঁর রাসূলকে ﷺ সত্য বলে মেনেছে আর তাঁকে আর তাঁর সঙ্গে আসা জিনিসকে স্বীকার করেছে, পুরুষদের মধ্য থেকে আর নারীদের মধ্য থেকে। পুরস্কারের কিছুই তাদের মধ্যে আলাদা করা হয়নি, আর কারও জন্য আলাদা কোনো ওয়াদাও করা হয়নি; আর এমন এক সূরায় এটা খেয়াল করার মতো, যে সূরা বাকি সময়টা এক দলকে আরেক দল থেকে আলাদা করা নিয়েই ব্যস্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rivers, Dwellings, and Adn",
+          "bn": "নদী, বাসগৃহ, আর আদন"
+        },
+        "p": [
+          {
+            "en": "At-Tabari takes the three promises in order. Gardens beneath which rivers flow he renders as orchards with the rivers running beneath their trees. Abiding therein he glosses as remaining in them for ever, settled, their bliss neither departing from them nor perishing. And good dwellings he reads plainly as houses which they inhabit, good ones. The adjective is the one worth noticing, since the verse does not say large or many.",
+            "bn": "তাবারী তিনটি ওয়াদা নেন ক্রমে। জান্নাত, যার নিচে দিয়ে নদী বয়ে যায়, এর অর্থ তিনি দেন এমন বাগান যার গাছগুলোর নিচ দিয়ে নদী বয়ে চলে। তাতে চিরদিন থাকার ব্যাখ্যায় তিনি বলেন, তারা সেখানে থাকবে চিরকাল, থিতু হয়ে, আর সেখানকার নিয়ামত তাদের কাছ থেকে সরেও যাবে না, ধ্বংসও হবে না। আর উত্তম বাসগৃহের ব্যাখ্যা তিনি দেন সোজাভাবে, এমন ঘর যেখানে তারা বাস করবে, উত্তম ঘর। বিশেষণটাই খেয়াল করার মতো, কারণ আয়াত বলে না বড় বা অনেক।"
+          },
+          {
+            "en": "As-Sa'di supplies what the goodness consists of, and his description is of an interior rather than a landscape: they have been adorned and beautified and prepared for Allah's God-fearing servants, their sight is good and their lodging and resting place are good, and they gather what no wisher could wish beyond. He adds that Allah has prepared chambers of the utmost purity and beauty, whose outside is seen from within and whose inside is seen from without, and then names the effect: dwellings such that souls settle to them, hearts incline to them and spirits long for them.",
+            "bn": "এ উত্তম হওয়াটা কী কী নিয়ে, সেটা দেন সা'দী; আর তাঁর বর্ণনা কোনো দৃশ্যপটের নয়, ঘরের ভেতরের। সেগুলো সাজানো হয়েছে, সুন্দর করা হয়েছে আর তৈরি করা হয়েছে আল্লাহর মুত্তাকী বান্দাদের জন্য; সেগুলোর দেখা ভালো, সেগুলোর বাসা আর বিশ্রামের জায়গাও ভালো, আর সেগুলোতে জমা আছে এমন সব কিছু যার চেয়ে বেশি কেউ চাইতেও পারে না। তিনি যোগ করেন, আল্লাহ তাদের জন্য তৈরি করে রেখেছেন চূড়ান্ত স্বচ্ছ আর সুন্দর কামরা, যার বাইরেটা ভেতর থেকে দেখা যায় আর ভেতরটা বাইরে থেকে; তারপর তিনি ফলটার নাম নেন: এমন বাসগৃহ, যেগুলোর দিকে প্রাণ থিতু হয়, অন্তর ঝুঁকে পড়ে আর রুহ আকুল হয়।"
+          },
+          {
+            "en": "The last phrase of the promise is a place-name that is also a condition. Gardens of Adn, as-Sa'di says, means a residence they do not depart from and do not move away from. Set beside the abiding already promised earlier in the verse, the repetition is doing something: first the people are said not to leave, then the place is described as one nobody leaves. The permanence is stated from both ends.",
+            "bn": "ওয়াদার শেষ কথাটি একটি জায়গার নাম, আর সেটাই একটি শর্তও। জান্নাতু আদন, সা'দী বলেন, মানে এমন এক বাসস্থান যা থেকে তারা বেরোয় না আর সরেও যায় না। আয়াতের আগেই ওয়াদা করা সেই চিরকাল থাকার পাশে রাখলে এ পুনরাবৃত্তি একটা কাজ করে: প্রথমে বলা হয় লোকেরা বেরোবে না, তারপর জায়গাটার বর্ণনা দেওয়া হয় এমন জায়গা হিসেবে যেখান থেকে কেউ বেরোয় না। স্থায়িত্বের কথাটা বলা হয় দুই প্রান্ত থেকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two of Silver, Two of Gold",
+          "bn": "দুটি রুপার, দুটি সোনার"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir brings the Sahih material for the dwellings, and the hadith he chooses ends where this verse ends. Sahih al-Bukhari 4878 preserves from Abdullah ibn Qays (RA) that the Prophet ﷺ said: two gardens whose utensils and contents are of silver, and two other gardens whose utensils and contents are of gold. The narration then adds that nothing stands between the people and looking at their Lord except the curtain of Majesty over His Face, in the garden of Adn, which is the place our verse has just named.",
+            "bn": "বাসগৃহগুলোর জন্য সহীহ উপাদান আনেন ইবনু কাসীর, আর তিনি যে হাদীসটি বাছেন সেটি শেষ হয় ঠিক সেখানেই যেখানে এ আয়াত শেষ হয়। সহীহ বুখারীর ৪৮৭৮ নম্বরে আবদুল্লাহ ইবনু কায়স (রাঃ) থেকে রক্ষিত আছে, নবী ﷺ বলেছেন: দুটি জান্নাত, যার পাত্র আর ভেতরের সব কিছু রুপার; আর আরও দুটি জান্নাত, যার পাত্র আর ভেতরের সব কিছু সোনার। বর্ণনাটি এরপর যোগ করে, লোকদের আর তাদের রবকে দেখার মাঝখানে আর কিছুই নেই, কেবল তাঁর চেহারার উপর মহিমার পর্দা, আদন জান্নাতে; আর এ জায়গাটির নামই আমাদের আয়াত সদ্য নিয়েছে।"
+          },
+          {
+            "en": "Ibn Kathir also narrates from the same Companion a description of a tent of one hollowed pearl, and that material is left here as his citation without a number, since it was not checked. At-Tabari carries a longer description of the dwellings too, from al-Hasan from Imran ibn Husayn (RA) and Abu Hurayrah (RA), but its chain runs through Jasr, and since its grading could not be confirmed it is left aside rather than passed on. The Sahih wording says enough on its own, and it says it in the direction the verse is already going, which the longer descriptions do not.",
+            "bn": "ইবনু কাসীর একই সাহাবী থেকে ভেতর খোদাই করা একটি মুক্তার তাঁবুর বর্ণনাও আনেন, আর সে উপাদানটি এখানে রাখা হচ্ছে তাঁর উদ্ধৃতি হিসেবেই, কোনো নম্বর ছাড়া, কারণ সেটি যাচাই করা হয়নি। তাবারীও বাসগৃহগুলোর আরও লম্বা একটি বর্ণনা আনেন, হাসান থেকে, ইমরান ইবনু হুসাইন (রাঃ) আর আবূ হুরাইরা (রাঃ) থেকে; তবে তার সনদ যায় জাসরের ভেতর দিয়ে, আর এর মান নিশ্চিত করা যায়নি বলে সেটা এগিয়ে না দিয়ে সরিয়ে রাখা হলো। সহীহ শব্দগুলোই নিজে থেকেই যথেষ্ট বলে, আর সেগুলো বলেও আয়াত যে দিকে আগে থেকেই যাচ্ছে সেদিকেই; লম্বা বর্ণনাগুলো সেটা করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Greater Than All of It",
+          "bn": "এ সবের চেয়ে বড়"
+        },
+        "p": [
+          {
+            "en": "The clause that reorders the verse is four words long: and approval from Allah is greater. As-Sa'di reads greater as greater than the delight they are already in, and gives two reasons for it. The first is that their delight itself is not made sweet except by the sight of their Lord and His approval upon them. The second is that this was the goal the worshippers were aiming at all along and the end toward which those who loved Him were travelling.",
+            "bn": "যে কথাটি আয়াতের ক্রম বদলে দেয় তা চার শব্দের: আর আল্লাহর পক্ষ থেকে সন্তুষ্টি তার চেয়েও বড়। সা'দী বড় কথাটি পড়েন এভাবে, তারা যে নিয়ামতের ভেতরে আছে তার চেয়েও বড়; আর এর জন্য তিনি দুটি কারণ দেন। প্রথমটি, তাদের সেই নিয়ামত নিজেই মধুর হয় না, যতক্ষণ না তারা নিজেদের রবকে দেখে আর তাঁর সন্তুষ্টি তাদের উপর নামে। দ্বিতীয়টি, এটাই ছিল সেই লক্ষ্য যেদিকে ইবাদতকারীরা গোড়া থেকেই মুখ করে ছিল, আর সেই শেষ, যেদিকে তাঁকে ভালোবাসা লোকেরা হেঁটে যাচ্ছিল।"
+          },
+          {
+            "en": "His conclusion is put as a comparison of two things that are not usually compared: so the good pleasure of the Lord of the earth and the heavens is greater than the delight of the Gardens. And the verse's own last words agree, calling that, and not the gardens listed before it, the great attainment. As-Sa'di explains the phrase as their having obtained every sought thing and had every feared thing removed from them, so that all their affairs turned out good.",
+            "bn": "তাঁর সিদ্ধান্ত রাখা হয় এমন দুটি জিনিসের তুলনা হিসেবে যেগুলোর তুলনা সাধারণত করা হয় না: অর্থাৎ জমিন আর আসমানের রবের সন্তুষ্টি জান্নাতের নিয়ামতের চেয়েও বড়। আর আয়াতের নিজের শেষ কথাগুলোও একই কথা বলে, ওটাকেই মহাসফলতা বলে, তার আগে গোনা জান্নাতগুলোকে নয়। সা'দী কথাটির ব্যাখ্যা দেন, তারা চাওয়ার সব কিছুই পেয়ে গেছে আর ভয়ের সব কিছু তাদের থেকে সরিয়ে দেওয়া হয়েছে, তাই তাদের সব ব্যাপারই ভালো হয়ে দাঁড়িয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses With the Same Promise",
+          "bn": "একই ওয়াদার আয়াত"
+        },
+        "p": [
+          {
+            "en": "61:12 carries almost this verse's own words, forgiveness and gardens beneath which rivers flow and pleasant dwellings in gardens of perpetual residence, and ends on the same phrase, that is the great attainment. What it does not carry is the clause about approval, which is what makes our verse the fuller of the two. 98:8 supplies the other half from the other side: Allah being pleased with them and they with Him, so that the approval is described as mutual.",
+            "bn": "৬১:১২ আয়াত প্রায় এ আয়াতেরই শব্দগুলো বহন করে, মাগফিরাত আর জান্নাত যার নিচে দিয়ে নদী বয়ে যায় আর চিরস্থায়ী জান্নাতে উত্তম বাসগৃহ; আর শেষও হয় একই কথায়, এটাই মহাসফলতা। যা সে বহন করে না তা হলো সন্তুষ্টির কথাটি, আর ওটাই দুটোর মধ্যে আমাদের আয়াতকে পূর্ণতর করে। ৯৮:৮ আয়াত অন্য দিক থেকে বাকি অর্ধেকটা এনে দেয়: আল্লাহ তাদের প্রতি সন্তুষ্ট আর তারা তাঁর প্রতি; অর্থাৎ সন্তুষ্টিটাকে বর্ণনা করা হয় দুদিকেরই বলে।"
+          },
+          {
+            "en": "5:119 says the same of the truthful on the Day when their truthfulness benefits them, and 57:12 shows the believing men and the believing women again, their light going before them, being given the good tidings of gardens in which they abide. Read across the four, the promise is always the same two things in the same order: a place described in detail, and then a relationship named as the greater part of it.",
+            "bn": "৫:১১৯ আয়াত একই কথা বলে সত্যবাদীদের সম্পর্কে, সেদিন যেদিন তাদের সত্যবাদিতা তাদের কাজে আসবে; আর ৫৭:১২ আয়াত আবার দেখায় মু'মিন পুরুষ আর মু'মিন নারীদের, তাদের সামনে সামনে চলছে তাদের নূর, আর তাদের দেওয়া হচ্ছে জান্নাতের সুসংবাদ যেখানে তারা থাকবে। চারটি একসঙ্গে পড়লে ওয়াদাটা সবসময় একই দুটি জিনিস একই ক্রমে: খুঁটিয়ে বর্ণনা করা একটি জায়গা, আর তারপর নাম নেওয়া একটি সম্পর্ক, যেটাকে বলা হয় এর বড় অংশ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "How You Picture Reward",
+          "bn": "পুরস্কারের ছবি যেমন আঁকেন"
+        },
+        "p": [
+          {
+            "en": "The practical work of this verse is on the imagination rather than on the behaviour, because what a person is working toward shapes how he works. If the picture is only a place, then obedience becomes a price paid for an amenity, and the verse says plainly that the best of what is promised is not an amenity. As-Sa'di's reason is the useful one: the delight itself is not made sweet except by the sight of the Lord and His approval, so approval is not an extra on top of the gardens but the thing that makes them worth having.",
+            "bn": "এ আয়াতের কাজের জায়গাটা আচরণের চেয়ে কল্পনার উপরেই, কারণ মানুষ কোন জিনিসের দিকে খাটছে সেটাই ঠিক করে দেয় সে কীভাবে খাটবে। ছবিটা যদি কেবল একটা জায়গা হয়, তবে আনুগত্য হয়ে দাঁড়ায় কোনো সুবিধার জন্য দেওয়া দাম; আর আয়াত সোজা বলে দেয়, যা ওয়াদা করা হয়েছে তার সবচেয়ে ভালো জিনিসটা কোনো সুবিধা নয়। সা'দীর কারণটাই কাজের: সেই নিয়ামত নিজেই মধুর হয় না, যতক্ষণ না রবকে দেখা যায় আর তাঁর সন্তুষ্টি নামে; অর্থাৎ সন্তুষ্টি জান্নাতের উপরে বসানো কোনো বাড়তি জিনিস নয়, বরং ওটাই জান্নাতকে পাওয়ার মতো করে তোলে।"
+          },
+          {
+            "en": "The other thing to take is who is being promised. The believing men and the believing women are named separately in 9:71 and again in our verse, and nothing in the reward is divided between them; 57:12 does the same. It is worth noticing whom a reader leaves out when he pictures the people this promise is for, because the verse itself has already refused to leave anybody out.",
+            "bn": "নেওয়ার মতো অন্য জিনিসটা হলো ওয়াদা কাদের দেওয়া হচ্ছে। মু'মিন পুরুষ আর মু'মিন নারীদের নাম আলাদা করে নেওয়া হয় ৯:৭১ আয়াতে, আর আবার আমাদের আয়াতে; আর পুরস্কারের কিছুই তাদের মধ্যে ভাগ করা হয় না; ৫৭:১২ আয়াতও একই কাজ করে। এ ওয়াদা যাদের জন্য, সেই লোকদের ছবি আঁকতে গিয়ে পাঠক কাদের বাদ দিয়ে দেন, সেটা খেয়াল করার মতো; কারণ আয়াত নিজেই কাউকে বাদ দিতে রাজি হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for the Greater Part",
+          "bn": "বড় অংশটাই চেয়ে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse is a promise rather than a supplication, and the prayer that fits it is one that asks for the part the verse calls greater. 98:8 gives the wording of that outcome, Allah being pleased with them and they with Him, and it attaches it to whoever feared his Lord. A believer who wants this verse's best gift is asking to be among the people that sentence describes, which is a different request from asking to be admitted.",
+            "bn": "আয়াতটি দোয়া নয়, ওয়াদা; আর এর সঙ্গে যে দোয়া মানায় তা এমন একটি, যা আয়াত যেটাকে বড় বলে সেই অংশটাই চায়। ৯৮:৮ আয়াত সেই পরিণামের শব্দগুলো দেয়, আল্লাহ তাদের প্রতি সন্তুষ্ট আর তারা তাঁর প্রতি; আর সেটা জুড়ে দেয় তার সঙ্গে যে নিজের রবকে ভয় করেছে। এ আয়াতের সবচেয়ে ভালো দানটা যে মু'মিন চান, তিনি চাইছেন ওই বাক্যটি যাদের বর্ণনা করে তাদের মধ্যে থাকতে; আর সেটা ভেতরে ঢুকতে দেওয়ার আবেদনের চেয়ে আলাদা এক আবেদন।"
+          },
+          {
+            "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, give me the gardens if You will, but give me Your approval, which You called greater. It is assembled from the verse's list and its own comparison, and it is not a Sunnah du'a. The wording of 98:8 is the safer of the two to carry, and it has the advantage of naming both sides of the pleasure rather than only the one being asked for.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আপনি চাইলে আমাকে জান্নাত দিন, তবে আমাকে দিন আপনার সন্তুষ্টি, যেটাকে আপনি বলেছেন বড়। এটি আয়াতের তালিকা আর তার নিজের তুলনা জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। ৯৮:৮ আয়াতের শব্দগুলোই দুটোর মধ্যে বহন করার জন্য বেশি নিরাপদ, আর তার সুবিধা এই যে সেটা সন্তুষ্টির কেবল যে দিকটা চাওয়া হচ্ছে তা নয়, দুটি দিকেরই নাম নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About the Greater",
+          "bn": "বড় জিনিসটি নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "If I am honest, which part of this promise actually moves me, and which part does the verse call greater? The dwellings are described as good rather than as large, so what do I picture when I imagine being rewarded, and where did that picture come from? And approval is a relationship rather than a place: do I want Allah to be pleased with me, or do I mainly want to be let in?",
+            "bn": "সৎভাবে বললে, এ ওয়াদার কোন অংশটা আমাকে সত্যিই নাড়া দেয়, আর কোন অংশটাকে আয়াত বলে বড়? বাসগৃহগুলোর বর্ণনা দেওয়া হয় বড় হিসেবে নয়, উত্তম হিসেবে; তাহলে পুরস্কার পাওয়ার কথা ভাবলে আমার চোখে কী ভাসে, আর সেই ছবিটা এল কোথা থেকে? আর সন্তুষ্টি কোনো জায়গা নয়, একটা সম্পর্ক: আমি কি চাই আল্লাহ আমার প্রতি সন্তুষ্ট হোন, নাকি মূলত চাই ভেতরে ঢুকতে দেওয়া হোক?"
+          },
+          {
+            "en": "Two more. Both believing men and believing women are named, twice across two verses, with nothing in the reward divided between them: whom do I quietly leave out when I picture the people this promise is for? And the verse calls this the great attainment, so what am I currently calling success, and what would happen if I set my list beside this one?",
+            "bn": "আরও দুটি। মু'মিন পুরুষ আর মু'মিন নারী দুজনেরই নাম আসে, দুই আয়াতে দুবার, আর পুরস্কারের কিছুই তাদের মধ্যে ভাগ করা হয় না: এ ওয়াদা যাদের জন্য, সে লোকদের ছবি আঁকতে গিয়ে আমি চুপচাপ কাদের বাদ দিই? আর আয়াত এটিকে বলে মহাসফলতা; তাহলে আমি এখন কাকে সফলতা বলি, আর নিজের তালিকাটা এটার পাশে রাখলে কী হতো?"
+          }
+        ]
+      }
+    ]
+  },
   "9:105": {
     "sections": [
       {

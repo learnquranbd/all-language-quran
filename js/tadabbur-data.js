@@ -7003,6 +7003,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The histories were not given so you would know them but so you would not need them; the charge in this verse is refusal after proof, not ignorance.",
     "lessonBn": "ইতিহাসগুলো দেওয়া হয়নি আপনি জানবেন সে জন্য, দেওয়া হয়েছে যাতে আপনার সেগুলোর দরকারই না পড়ে। এ আয়াতের অভিযোগ না জানা নিয়ে নয়, প্রমাণ আসার পর নাকচ করা নিয়ে।"
+  },
+  "9:72": {
+    "reflectionEn": "The promise is itemised and then outranked by its own last line. Gardens with rivers running under them, a stay that does not end, good dwellings in gardens of perpetual residence — and then, with everything already granted, a short clause changes the order of the whole list: and approval from Allah is greater. Greater than the gardens just described. Whatever the rivers and the dwellings are worth, the verse says the best thing on offer is not an amenity at all but His being pleased, and it calls that the great attainment.",
+    "reflectionBn": "ওয়াদাটা একটা একটা করে গোনা হয়, তারপর নিজের শেষ লাইনটাই সবটাকে ছাপিয়ে যায়। জান্নাত, যার নিচে দিয়ে নদী বয়ে যায়, এমন থাকা যা শেষ হয় না, চিরস্থায়ী জান্নাতে উত্তম বাসগৃহ; আর তারপর, সব দিয়ে দেওয়ার পরেই, ছোট একটি কথা গোটা তালিকার ক্রমটাই বদলে দেয়: আর আল্লাহর সন্তুষ্টি তার চেয়েও বড়। সদ্য বর্ণনা করা ওই জান্নাতগুলোর চেয়েও বড়। নদী আর বাসগৃহের দাম যা-ই হোক, আয়াত বলে, দেওয়ার মধ্যে সবচেয়ে ভালো জিনিসটা কোনো সুবিধাই নয়, বরং তাঁর সন্তুষ্ট হওয়া; আর সেটাকেই সে বলে মহাসফলতা।",
+    "pointsEn": [
+      "If I am honest, which part of the promise moves me most, and which part does this verse say is greater?",
+      "The dwellings are described as good, not merely as large. What do I actually picture when I imagine being rewarded?",
+      "Approval is a relationship rather than a place. Do I want Allah to be pleased with me, or mainly to be let in?",
+      "Both believing men and believing women are named, twice in two verses. Whom do I quietly leave out when I picture the people this promise is for?",
+      "The verse calls this the great attainment. What am I currently calling success, and how would the two lists compare?"
+    ],
+    "pointsBn": [
+      "সৎভাবে বললে, ওয়াদার কোন অংশটা আমাকে সবচেয়ে বেশি নাড়া দেয়, আর কোন অংশটাকে এ আয়াত বলে বড়?",
+      "বাসগৃহগুলোর বর্ণনা দেওয়া হয় উত্তম হিসেবে, কেবল বড় হিসেবে নয়। পুরস্কার পাওয়ার কথা ভাবলে আমার চোখে আসলে কী ভাসে?",
+      "সন্তুষ্টি কোনো জায়গা নয়, একটা সম্পর্ক। আমি কি চাই আল্লাহ আমার প্রতি সন্তুষ্ট হোন, নাকি মূলত চাই ভেতরে ঢুকতে দেওয়া হোক?",
+      "মু'মিন পুরুষ আর মু'মিন নারী দুজনেরই নাম আসে, দুই আয়াতে দুবার। এ ওয়াদা যাদের জন্য, সে লোকদের ছবি আঁকতে গিয়ে আমি চুপচাপ কাদের বাদ দিই?",
+      "আয়াত এটিকে বলে মহাসফলতা। আমি এখন কাকে সফলতা বলি, আর দুটো তালিকা পাশে রাখলে কেমন দেখাত?"
+    ],
+    "lessonEn": "Everything in the promise is listed and then outranked by His approval; if Paradise is pictured only as a place, the best thing in it has been left out.",
+    "lessonBn": "ওয়াদার সবটাই গোনা হয়, তারপর তাঁর সন্তুষ্টি সেটাকে ছাপিয়ে যায়। জান্নাতকে যদি কেবল একটা জায়গা হিসেবে ভাবা হয়, তবে তার সবচেয়ে ভালো জিনিসটাই বাদ পড়ে গেছে।"
   }
 };
 
