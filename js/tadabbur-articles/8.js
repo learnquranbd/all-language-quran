@@ -1066,5 +1066,157 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "8:47": {
+    "sections": [
+      {
+        "h": {
+          "en": "An Order About Motive",
+          "bn": "নিয়ত নিয়ে একটি হুকুম"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir sets the verse in its sequence in one sentence: after Allah commanded the believers to fight in His cause sincerely and to be mindful of Him, He commanded them not to imitate the idolaters. The orders in 8:45 and 8:46 are about what a man does under pressure. This one is about the question asked before any of that, which is why he left the house. 8:48 will then show the same men being flattered by Satan on the way, so the passage runs from motive to self-image to collapse.",
+            "bn": "ইবনু কাসীর এক বাক্যে আয়াতটিকে তার ধারাবাহিকতায় বসিয়ে দেন: আল্লাহ মু'মিনদের হুকুম দিলেন তাঁর পথে খাঁটি নিয়তে লড়তে আর তাঁকে খেয়াল রাখতে, এরপর হুকুম দিলেন মুশরিকদের নকল না করতে। ৮:৪৫ আর ৮:৪৬ আয়াতের হুকুমগুলো চাপের মুখে মানুষ কী করে তা নিয়ে। এ আয়াতটি তার আগের প্রশ্ন নিয়ে, অর্থাৎ সে ঘর থেকে বেরিয়েছিল কেন। ৮:৪৮ আয়াত এরপর দেখাবে ওই একই লোকদের পথে শয়তান কীভাবে তোষামোদ করছে। অর্থাৎ অংশটা চলে নিয়ত থেকে নিজের সম্পর্কে গড়া ছবিতে, আর সেখান থেকে ধসে পড়ায়।"
+          },
+          {
+            "en": "The occasion is reported with names and a place. At-Tabari carries from Hisham ibn Urwah, from Urwah, that riders sent by Abu Sufyan reached Quraysh at al-Juhfah telling them the caravan was safe and they should turn back. They refused, and their words are preserved: by Allah, we will not return until we camp at Badr and stay three nights, so that whoever of the people of the Hijaz passes by us sees us, for no Arab will see us and the force we have gathered and then fight us. At-Tabari says these are the ones Allah meant.",
+            "bn": "শানে নুযূল বর্ণিত হয়েছে নাম আর জায়গাসহ। তাবারী আনেন হিশাম ইবনু উরওয়া থেকে, উরওয়া থেকে, যে আবূ সুফিয়ানের পাঠানো আরোহীরা কুরাইশের কাছে পৌঁছেছিল জুহফায়, আর জানিয়েছিল কাফেলা নিরাপদ, তারা ফিরে যেতে পারে। তারা রাজি হয়নি, আর তাদের কথাটা রক্ষিত আছে: আল্লাহর কসম, আমরা ফিরব না যতক্ষণ বদরে না নামি আর সেখানে তিন রাত না কাটাই, যাতে হিজাযের লোকদের যারা আমাদের পাশ দিয়ে যায় তারা আমাদের দেখে নেয়; কারণ আরবের কেউ আমাদের আর আমাদের জমানো বাহিনী দেখে নিলে আর আমাদের সঙ্গে লড়তে আসবে না। তাবারী বলেন, আল্লাহ এদেরই কথা বলেছেন।"
+          },
+          {
+            "en": "Ibn Kathir preserves Abu Jahl's version of the same refusal: no, by Allah, we will not go back until we proceed to the well of Badr, slaughter camels, drink wine and have the singing girls sing to us, so that the Arabs will always talk about our stance and what we did that day. Muhammad ibn Ka'b adds that they took singers and drums with them out of Makkah. Ibn Abbas (RA), Mujahid, Qatadah, ad-Dahhak and as-Suddi are all reported saying the same short thing about who the verse describes: the idolaters who fought the Messenger of Allah ﷺ at Badr.",
+            "bn": "ইবনু কাসীর একই প্রত্যাখ্যানের আবূ জাহলের ভাষ্যটি রক্ষা করেন: না, আল্লাহর কসম, আমরা ফিরব না যতক্ষণ বদরের কুয়ার কাছে না পৌঁছাই, উট জবাই না করি, মদ না খাই আর গায়িকারা আমাদের গান না শোনায়; যাতে আরবরা চিরকাল আমাদের অবস্থান আর সেদিন আমরা যা করলাম তা নিয়ে কথা বলে। মুহাম্মাদ ইবনু কা'ব যোগ করেন, তারা মক্কা থেকে সঙ্গে নিয়েছিল গায়িকা আর ঢোল। ইবনু আব্বাস (রাঃ), মুজাহিদ, কাতাদা, দাহহাক ও সুদ্দী, সবার থেকেই একই ছোট কথাটি বর্ণিত আয়াত কাদের বর্ণনা করছে সে ব্যাপারে: বদরে রাসূলুল্লাহর ﷺ সঙ্গে যারা লড়েছিল সেই মুশরিকরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Batar, and Being Seen",
+          "bn": "বাতার, আর লোক দেখানো"
+        },
+        "p": [
+          {
+            "en": "Two motives are named with two different words and they are not the same disease. Batar is the insolence that comes of ease and plenty, a swagger that faces inward and needs no audience to exist. Ri'a' an-nas faces outward and is nothing without one: the root gives ru'yah, seeing, and this is the word from which riya' comes, the showing off that later writers treat as a sickness of worship. A man can have either without the other, and Quraysh on that march had both.",
+            "bn": "দুটি উদ্দেশ্যের নাম আসে দুটি আলাদা শব্দে, আর এ দুটি একই রোগ নয়। বাতার হলো সুখ আর প্রাচুর্য থেকে জন্মানো ঔদ্ধত্য, এমন দেমাগ যা ভেতরের দিকে মুখ করে থাকে আর টিকে থাকতে কোনো দর্শক লাগে না। রিআউন নাস মুখ করে বাইরের দিকে, আর দর্শক ছাড়া সেটা কিছুই নয়: এ ধাতু থেকেই আসে রুইয়া অর্থাৎ দেখা, আর এ শব্দ থেকেই আসে রিয়া, যাকে পরের যুগের লেখকরা ইবাদতের রোগ হিসেবে আলোচনা করেন। একজন লোকের একটি থাকতে পারে অন্যটি ছাড়াই, আর সেই যাত্রায় কুরাইশের ছিল দুটোই।"
+          },
+          {
+            "en": "The third motive is put in a different tense from the first, and the shift carries weight. They came out, kharaju, in the perfect: one act, finished. But they go on averting people from the way of Allah, yasuddun, in the imperfect, the form for what continues. The march ended; the blocking did not. And the verse closes on one word about Allah, muhit, encompassing what they do, which says more than watching. As-Sa'di draws the practical point from it: He told you their aims, and warned you against resembling them.",
+            "bn": "তৃতীয় উদ্দেশ্যটি বসেছে প্রথমটির চেয়ে অন্য কালে, আর এই বদলটার ওজন আছে। তারা বেরিয়েছিল, খারাজূ, অতীত কালে: একটি কাজ, শেষ হয়ে গেছে। কিন্তু তারা মানুষকে আল্লাহর পথ থেকে আটকে রাখতেই থাকে, ইয়াসুদ্দূন, বর্তমান কালে, যে গঠন চলতে থাকা কাজের। যাত্রা শেষ হয়েছিল; আটকে রাখা শেষ হয়নি। আর আয়াত শেষ হয় আল্লাহ সম্পর্কে একটি শব্দে, মুহীত, তারা যা করে তা ঘিরে আছেন, আর এ কথা দেখার চেয়ে বেশি কিছু বলে। সা'দী এ থেকে কাজের কথাটা বের করেন: তিনি তোমাদের তাদের উদ্দেশ্য জানিয়ে দিলেন, আর তাদের মতো হওয়া থেকে সতর্ক করলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Cups They Were Given",
+          "bn": "তাদের হাতে যে পেয়ালা এল"
+        },
+        "p": [
+          {
+            "en": "At-Tabari's own summary of the verse is the sharpest statement of it anywhere in the tafsir: this is an instruction given in advance by Allah to those who believe in Him and His Messenger, that they do no deed except for Allah alone, seeking what is with Him, not to be seen by people, as the idolaters did on their march to Badr. He treats the verse as a rule about every deed, and the battle as the case that illustrates it rather than the limit of it.",
+            "bn": "আয়াতটির সবচেয়ে ধারালো সারকথা তাফসীরের ভেতরে তাবারীর নিজের কথাতেই: এটি আল্লাহর পক্ষ থেকে আগেভাগে দেওয়া এক নির্দেশ, তাঁর ও তাঁর রাসূলের ﷺ প্রতি ঈমান আনা লোকদের জন্য, যেন তারা কোনো আমলই না করে কেবল আল্লাহর জন্য ছাড়া, তাঁর কাছে যা আছে তা চেয়ে, লোককে দেখানোর জন্য নয়, যেমনটি মুশরিকরা করেছিল বদরের দিকে তাদের যাত্রায়। তিনি আয়াতটিকে ধরেন প্রতিটি আমলের নিয়ম হিসেবে, আর যুদ্ধটাকে ধরেন সেই নিয়ম বোঝানোর উদাহরণ হিসেবে, আয়াতের সীমা হিসেবে নয়।"
+          },
+          {
+            "en": "Then he writes the line that stays with a reader. They had said they would come to Badr and drink wine there and have the singing girls play for them and have the Arabs talk about them; and instead of wine, at-Tabari says, they were given the cups of death to drink. It is his sentence and not a narration, and the contrast is the one the occasion supplies by itself: an itinerary of three nights' entertainment, kept to the letter as far as the place, and nothing of it delivered.",
+            "bn": "এরপর তিনি লেখেন সেই বাক্যটি, যা পাঠকের সঙ্গে থেকে যায়। তারা বলেছিল, বদরে গিয়ে মদ খাবে, গায়িকারা গান শোনাবে, আর আরবরা তাদের নিয়ে কথা বলবে; আর মদের বদলে, তাবারী বলেন, তাদের পান করানো হলো মৃত্যুর পেয়ালা। এটি তাঁর বাক্য, কোনো বর্ণনা নয়, আর তুলনাটা শানে নুযূল নিজেই হাতে তুলে দেয়: তিন রাতের ফুর্তির এক তালিকা, জায়গার দিক থেকে অক্ষরে অক্ষরে পালন করা, আর তার কিছুই হাতে আসেনি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As-Sa'di Turns It Around",
+          "bn": "সা'দী কথাটা ঘুরিয়ে দেন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the three motives as one aim with three faces: this is what brought them out of their homes, to seek wantonness and insolence in the land, and so that people might see them and they might boast before them; and the greatest aim of all, he says, was that they came out to turn back from the path of Allah anyone who wanted to walk it. He then gives the reason the verse was addressed to believers at all: He informed you of their aims and warned you against resembling them, for He will punish them for it most severely.",
+            "bn": "সা'দী তিনটি উদ্দেশ্যকে পড়েন এক লক্ষ্যের তিনটি মুখ হিসেবে: এটাই তাদের ঘর থেকে বের করে এনেছিল, দুনিয়ায় দেমাগ আর ঔদ্ধত্য খোঁজা, আর যাতে মানুষ তাদের দেখে আর তাদের সামনে তারা বড়াই করতে পারে; আর সবচেয়ে বড় লক্ষ্য, তিনি বলেন, এই যে তারা বেরিয়েছিল আল্লাহর পথে চলতে চাওয়া যে কাউকে সে পথ থেকে ফিরিয়ে দিতে। এরপর তিনি বলেন আয়াতটি মু'মিনদের উদ্দেশে কেন এল: তিনি তোমাদের তাদের উদ্দেশ্য জানিয়ে দিলেন আর তাদের মতো হওয়া থেকে সতর্ক করলেন, কারণ এর জন্য তিনি তাদের কঠিনতম শাস্তি দেবেন।"
+          },
+          {
+            "en": "What he does next is the best thing in his entry, because he does not stop at the prohibition. Let your aim in going out, he writes, be the Face of Allah and the raising of Allah's religion, and the turning of people away from the roads that lead to Allah's anger and His punishment, and the drawing of people to the straight path of Allah that leads to the gardens of bliss. The verb they used for blocking he hands back to the believers pointed the other way: they blocked the road to Allah, you block the road to His wrath.",
+            "bn": "এরপর তিনি যা করেন তাঁর আলোচনায় সেটাই সবচেয়ে ভালো, কারণ তিনি নিষেধেই থেমে যান না। তিনি লেখেন, বেরিয়ে যাওয়ায় তোমাদের লক্ষ্য হোক আল্লাহর সন্তুষ্টি আর আল্লাহর দীনকে উঁচু করা, আর মানুষকে সেসব রাস্তা থেকে ফিরিয়ে রাখা যেগুলো আল্লাহর গজব আর শাস্তির দিকে নিয়ে যায়, আর মানুষকে টেনে আনা আল্লাহর সোজা পথে যা নিয়ে যায় নিয়ামতের জান্নাতের দিকে। আটকে রাখার যে ক্রিয়া তারা ব্যবহার করেছিল, সেটাই তিনি মু'মিনদের হাতে ফিরিয়ে দেন উল্টো দিকে মুখ করে: তারা আটকেছিল আল্লাহর দিকের রাস্তা, তোমরা আটকাও তাঁর গজবের দিকের রাস্তা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Wage He Asked For",
+          "bn": "সে যে মজুরি চেয়েছিল"
+        },
+        "p": [
+          {
+            "en": "No tafsir consulted for this verse attaches a saying of the Prophet ﷺ to it; what the commentators attach is the account of the march. One sound narration states the verse's principle at the sharpest possible point, and it is offered on that footing rather than as a comment on the verse. Sahih Muslim 1905 preserves, in the report of Sulayman ibn Yasar, the judgement of a man who had fought and been killed, and the sentence spoken to him: you fought that you might be called a brave warrior, and you were called so.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীরই এর সঙ্গে নবীর ﷺ কোনো বাণী জোড়ে না; মুফাসসিরগণ যা জোড়েন তা সেই যাত্রার বিবরণ। একটি সহীহ বর্ণনা আয়াতের নীতিটিকে সবচেয়ে ধারালো জায়গায় দাঁড় করিয়ে দেয়, আর সেটি এখানে সেই শর্তেই আনা হচ্ছে, আয়াতের ব্যাখ্যা হিসেবে নয়। সহীহ মুসলিমের ১৯০৫ নম্বরে সুলাইমান ইবনু ইয়াসারের বর্ণনায় রক্ষিত আছে এমন এক লোকের বিচার যে লড়েছিল আর নিহত হয়েছিল, আর তাকে শোনানো কথাটি: তুমি লড়েছিলে যাতে তোমাকে বীর বলা হয়, আর তোমাকে বীর বলাও হয়েছে।"
+          },
+          {
+            "en": "The force of it is that the wage was paid. He wanted to be called brave and he was called brave, and the account closed there. Set beside our verse it explains what the three named motives actually purchase. Quraysh wanted the Arabs to talk about them, and the Arabs did talk about them; the talk was the whole of the return. A motive is not only a moral matter in this reading, it is a decision about which currency you are being paid in.",
+            "bn": "এর জোরটা এখানে যে মজুরি দিয়ে দেওয়া হয়েছে। সে চেয়েছিল তাকে বীর বলা হোক, তাকে বীর বলাও হলো, আর হিসাব ওখানেই বন্ধ। আমাদের আয়াতের পাশে রাখলে এটা বুঝিয়ে দেয় ওই তিনটি উদ্দেশ্য আসলে কী কিনে দেয়। কুরাইশ চেয়েছিল আরবরা তাদের নিয়ে কথা বলুক, আর আরবরা তাদের নিয়ে কথা বলেছেও; ওই কথাটুকুই ছিল গোটা লাভ। এ পাঠে নিয়ত কেবল নৈতিক ব্যাপার নয়, এটা এই সিদ্ধান্ত যে আপনাকে কোন মুদ্রায় মজুরি দেওয়া হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses About the Audience",
+          "bn": "দর্শক নিয়ে আয়াত"
+        },
+        "p": [
+          {
+            "en": "2:264 uses this verse's own phrase of a different act entirely: do not invalidate your charities by reminders and injury, as one does who spends his wealth to be seen by the people. 4:38 names the same spender among those the passage is warning about, and adds that Satan is his companion. Between them they move the disease off the battlefield and into an ordinary donation, which is where most readers will actually meet it.",
+            "bn": "২:২৬৪ আয়াত এ আয়াতের শব্দটিই ব্যবহার করে সম্পূর্ণ অন্য এক কাজের বেলায়: খোঁটা আর কষ্ট দিয়ে নিজেদের দান নষ্ট করো না, যেমন করে সেই লোক যে নিজের সম্পদ খরচ করে লোককে দেখাতে। ৪:৩৮ আয়াত একই খরচকারীর নাম নেয় সেই লোকদের মধ্যে যাদের নিয়ে ওই অংশটি হুঁশিয়ার করছে, আর যোগ করে, শয়তান তার সঙ্গী। এ দুটি মিলে রোগটাকে যুদ্ধের মাঠ থেকে তুলে এনে বসিয়ে দেয় সাধারণ এক দানের ভেতরে, আর অধিকাংশ পাঠক আসলে ওখানেই এর মুখোমুখি হবেন।"
+          },
+          {
+            "en": "107:6 is the shortest of them, three words in the Arabic about those who make a show of their deeds, and it is said of people who pray. 18:110 gives the standard in the positive form: whoever hopes for the meeting with his Lord, let him do righteous work and associate no one in the worship of his Lord. And 8:48, the next verse, shows the other half of the mechanism, Satan making their deeds look good to them until the two armies came in sight and he turned on his heels.",
+            "bn": "এদের মধ্যে সবচেয়ে ছোট ১০৭:৬ আয়াত, আরবিতে তিনটি শব্দ, যারা নিজেদের আমল লোক দেখানোর জন্য করে তাদের নিয়ে; আর কথাটা বলা হয়েছে নামায পড়া লোকদের সম্পর্কে। ১৮:১১০ আয়াত মানটা দেয় সোজা ভাষায়: যে তার রবের সাক্ষাতের আশা করে, সে নেক আমল করুক আর তার রবের ইবাদতে কাউকে শরীক না করুক। আর পরের আয়াত ৮:৪৮, যন্ত্রটার বাকি অর্ধেকটা দেখায়, শয়তান তাদের কাজ তাদের চোখে সুন্দর করে দেখাচ্ছে, যতক্ষণ না দুই বাহিনী চোখে পড়ল আর সে পিঠ ফিরিয়ে চলে গেল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Checking Why You Set Out",
+          "bn": "কেন বেরিয়েছেন তা যাচাই"
+        },
+        "p": [
+          {
+            "en": "The verse is unusually practical because it examines a decision that has already been made well. Quraysh marched in good order, funded, provisioned, and brave enough to refuse a safe way home. Nothing in their conduct on the road was the problem. The problem was answered before they left the house, in a conversation about what people would say. Any work a reader is currently busy with can be tested the same way, by asking what would survive if the audience for it were removed.",
+            "bn": "আয়াতটি অসাধারণভাবে কাজের, কারণ এটি এমন এক সিদ্ধান্তকে যাচাই করে যা ইতিমধ্যেই ভালোভাবে নেওয়া হয়ে গেছে। কুরাইশ বেরিয়েছিল সাজানো দলে, টাকা নিয়ে, রসদ নিয়ে, আর এত সাহস নিয়ে যে নিরাপদে ঘরে ফেরার পথও তারা নাকচ করে দিয়েছিল। পথে তাদের আচরণে কোনো সমস্যা ছিল না। সমস্যাটার ফয়সালা হয়ে গিয়েছিল ঘর থেকে বেরোনোর আগেই, লোকে কী বলবে সেই আলোচনায়। পাঠক এখন যে কাজ নিয়ে ব্যস্ত, সেটাও একইভাবে যাচাই করা যায়, এই প্রশ্ন করে যে দর্শক সরিয়ে নিলে কাজটার কতটুকু টিকে থাকে।"
+          },
+          {
+            "en": "As-Sa'di's inversion gives the second test, and it is the harder one. He asks the believer to go out in order to keep people off the roads that end in Allah's anger and to draw them onto the one that does not. That turns a private question about sincerity into a public one about effect. A man may set out with a clean intention and still stand, by what he says and funds and repeats, squarely in somebody's way. The verse names that blocking as a motive; it can also be an outcome nobody chose.",
+            "bn": "সা'দীর সেই উল্টো করে দেখানো দেয় দ্বিতীয় যাচাইটা, আর সেটাই কঠিন। তিনি মু'মিনকে বলেন বেরোতে, যাতে মানুষকে সেসব রাস্তা থেকে আটকানো যায় যেগুলোর শেষ আল্লাহর গজবে, আর যাতে তাদের টেনে আনা যায় সেই রাস্তায় যার শেষ তা নয়। এতে ইখলাস নিয়ে একটা ব্যক্তিগত প্রশ্ন বদলে যায় ফলাফল নিয়ে একটা খোলা প্রশ্নে। একজন লোক পরিষ্কার নিয়তে বেরিয়েও, নিজের কথায়, টাকায় আর বারবার বলা কথায়, ঠিক কারও পথের উপরেই দাঁড়িয়ে থাকতে পারে। আয়াত এই আটকে রাখাকে উদ্দেশ্য হিসেবে নাম দেয়; এটা এমন পরিণামও হতে পারে যা কেউ বেছে নেয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer for a Sound Heart",
+          "bn": "বিশুদ্ধ অন্তরের জন্য দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse gives no supplication, and the prayer that belongs opposite it is Ibrahim's (AS) in 26:87-89: do not disgrace me on the Day they are resurrected, the Day when neither wealth nor children will benefit anyone, but only one who comes to Allah with a sound heart. It is the exact counterweight. Quraysh went out for what people would say on a day that ended in a well; the prayer asks about standing on a day when nothing carried and nothing spent will count, except the state of the heart that brought it.",
+            "bn": "আয়াতে কোনো দোয়া নেই, আর এর উল্টো পাশে যে দোয়া বসে তা ইবরাহীমের (আঃ), ২৬:৮৭-৮৯ আয়াতে: পুনরুত্থানের দিন আমাকে অপমানিত করবেন না, যেদিন কারও সম্পদ আর সন্তান কোনো কাজে আসবে না, কেবল সে ছাড়া যে আল্লাহর কাছে আসবে বিশুদ্ধ অন্তর নিয়ে। এটাই ঠিক পাল্টা ওজন। কুরাইশ বেরিয়েছিল লোকে কী বলবে তার জন্য, আর সে দিনটার শেষ হয়েছিল এক কুয়ায়; আর এ দোয়া জিজ্ঞেস করে সেদিন দাঁড়ানো নিয়ে, যেদিন বহন করা বা খরচ করা কিছুই গোনা হবে না, কেবল যে অন্তর সেটা নিয়ে এসেছে তার হাল ছাড়া।"
+          },
+          {
+            "en": "A sentence in this verse's own words can be added and claimed as nothing more: O Allah, do not let me go out for anything except Your Face, and do not let me stand in the way of anyone walking toward You; You encompass what I do. That is assembled from the verse and from 26:89, and it is not a Sunnah du'a. The Quranic wording above is the safer thing to memorise and the shorter one to say.",
+            "bn": "এ আয়াতের শব্দ দিয়ে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আপনার সন্তুষ্টি ছাড়া আর কিছুর জন্য আমাকে বেরোতে দেবেন না, আর আপনার দিকে হেঁটে আসা কারও পথে আমাকে দাঁড়াতে দেবেন না; আমি যা করি তা আপনি ঘিরে আছেন। এটি আয়াত আর ২৬:৮৯ আয়াতের শব্দ জুড়ে বানানো, সুন্নাহর দোয়া নয়। উপরের কুরআনী শব্দগুলোই মুখস্থ করার জন্য বেশি নিরাপদ আর বলার জন্য ছোট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Own Reasons",
+          "bn": "নিজের কারণ নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Why did I actually take on the thing I am busiest with right now, and would I keep it if nobody ever heard that it was mine? The verse names swagger and being seen as two separate diseases: which of them is mine, and which one do I keep mistaking for the other? And is there a place where I am standing in somebody's way toward something good, without having admitted to myself that this is what I am doing?",
+            "bn": "এখন যে কাজটা নিয়ে সবচেয়ে ব্যস্ত, সেটা আমি আসলে কেন ধরেছিলাম, আর কেউ কোনোদিন জানবে না যে কাজটা আমার, তাহলেও কি সেটা রাখতাম? আয়াত দেমাগ আর লোক দেখানোকে দুটি আলাদা রোগের নাম দেয়: এ দুটোর কোনটা আমার, আর কোনটাকে আমি বারবার অন্যটা ভেবে ভুল করি? আর এমন কোনো জায়গা আছে কি যেখানে আমি কারও ভালো কিছুর পথে দাঁড়িয়ে আছি, অথচ নিজের কাছেই স্বীকার করিনি যে কাজটা আমি এটাই করছি?"
+          },
+          {
+            "en": "Two more, and they are the ones worth writing down. If my motive is encompassed rather than merely seen from outside, which of today's tasks would I do differently before the day is out? And what good work have I quietly dropped because doing it without credit meant that it would never be counted to my name by anybody at all except Allah?",
+            "bn": "আরও দুটি। আমার নিয়ত যদি বাইরে থেকে কেবল দেখা না হয়ে ঘিরে রাখা হয়, তবে দিন শেষ হওয়ার আগেই আজকের কোন কাজটা আমি অন্যভাবে করতাম? আর কোন ভালো কাজ আমি চুপচাপ ছেড়ে দিয়েছি এ কারণে যে নাম ছাড়া করলে আল্লাহ ছাড়া আর কেউ সেটা আমার নামে লিখত না?"
+          }
+        ]
+      }
+    ]
   }
 });

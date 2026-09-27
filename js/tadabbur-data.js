@@ -6723,6 +6723,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Money buys what it is spent on, and then keeps a longer account; follow an expense to the end of its life before you sign for it.",
     "lessonBn": "টাকা যা কিনতে যায় তা কিনেই দেয়, তারপর আরও লম্বা এক হিসাব রেখে চলে। কোনো খরচে সই করার আগে সেটার আয়ুর শেষ পর্যন্ত গিয়ে দেখে নিন।"
+  },
+  "8:47": {
+    "reflectionEn": "The orders just before this one were about conduct: stand firm, remember Allah, obey, do not quarrel, be patient. This one is about why you came. Do not be like those who marched out of their homes in swagger, and to be seen by people, and to keep others off the road to Allah. Three motives are named and not one of them is cowardice or weakness; a man could carry all three and still look brave from the outside. The verse closes on a single word about Allah: He is encompassing what they do. Not watching it from a distance. Around it.",
+    "reflectionBn": "এর ঠিক আগের হুকুমগুলো ছিল আচরণ নিয়ে: অবিচল থাক, আল্লাহকে স্মরণ কর, আনুগত্য কর, ঝগড়া করো না, ধৈর্য ধর। এ আয়াতটি কেন বেরিয়েছ তা নিয়ে। তাদের মতো হয়ো না যারা নিজেদের ঘর থেকে বেরিয়েছিল দেমাগ নিয়ে, লোককে দেখাতে, আর মানুষকে আল্লাহর পথ থেকে আটকে রাখতে। তিনটি উদ্দেশ্যের নাম আসে, আর এর একটিও ভীরুতা বা দুর্বলতা নয়; একজন লোক তিনটিই বুকে নিয়ে চলতে পারে, আর বাইরে থেকে তাকে দেখাবে সাহসী। আয়াত শেষ হয় আল্লাহ সম্পর্কে একটি শব্দে: তারা যা করে তিনি তা ঘিরে আছেন। দূর থেকে দেখছেন না। চারপাশ থেকে ঘিরে।",
+    "pointsEn": [
+      "Why did I actually take on the thing I am currently busy with, and would I keep it if nobody ever heard about it?",
+      "The verse names swagger and being seen as separate diseases. Which of the two is mine?",
+      "Where am I standing in someone's way toward something good, without having admitted that is what I am doing?",
+      "If my motive were encompassed rather than merely observed, which of today's tasks would I do differently?",
+      "What good work have I abandoned because doing it quietly meant nobody would credit it to me?"
+    ],
+    "pointsBn": [
+      "এখন যে কাজটা নিয়ে ব্যস্ত, সেটা আসলে কেন ধরেছিলাম? কেউ কোনোদিন জানবে না জানলেও কি কাজটা রাখতাম?",
+      "আয়াত দেমাগ আর লোক দেখানোকে আলাদা দুই রোগের নাম দেয়। এ দুটোর কোনটা আমার?",
+      "কোথায় আমি কারও ভালো কিছুর পথে দাঁড়িয়ে আছি, অথচ নিজের কাছে স্বীকারই করিনি যে কাজটা আমি এটাই করছি?",
+      "আমার নিয়ত যদি কেবল দেখা না হয়ে ঘিরে রাখা হয়, তবে আজকের কোন কাজটা আমি অন্যভাবে করতাম?",
+      "কোন ভালো কাজ আমি ছেড়ে দিয়েছি এ কারণে যে চুপচাপ করলে কেউ সেটা আমার নামে লিখত না?"
+    ],
+    "lessonEn": "Check why you set out, not only how well you march; swagger and an audience can carry a man the whole way and leave him with nothing at the end.",
+    "lessonBn": "কেবল কত ভালোভাবে চলছেন তা নয়, কেন বেরিয়েছেন সেটাও যাচাই করুন। দেমাগ আর দর্শক একজন লোককে গোটা পথ টেনে নিতে পারে, আর শেষে তার হাতে কিছুই রাখে না।"
   }
 };
 
