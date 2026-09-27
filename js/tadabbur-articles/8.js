@@ -1366,5 +1366,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "8:58": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Rule for the Next Time",
+          "bn": "পরের বারের জন্য নিয়ম"
+        },
+        "p": [
+          {
+            "en": "Al-Anfal is Madinan, and by this point the surah has moved from reviewing a battle to legislating. 8:56 described people who break their pledge every time one is made, 8:57 gave a ruling for war, and our verse turns to a case that has not happened yet: a pact still standing, and a fear that it is about to be broken. 8:59 and 8:60 continue forward, with the warning that no one escapes and the command to prepare, so the verse sits inside a stretch of instructions rather than a story.",
+            "bn": "সূরা আনফাল মাদানী, আর এ জায়গায় এসে সূরাটি যুদ্ধের পর্যালোচনা থেকে সরে গিয়ে বিধান দেওয়ায় ঢুকে পড়েছে। ৮:৫৬ আয়াত বর্ণনা করেছে সেই লোকদের যারা প্রতিবার চুক্তি করে প্রতিবারই ভাঙে, ৮:৫৭ আয়াত দিয়েছে যুদ্ধের একটি বিধান, আর আমাদের আয়াত ফেরে এমন এক অবস্থার দিকে যা এখনো ঘটেনি: চুক্তি এখনো টিকে আছে, আর আশঙ্কা এই যে সেটা ভাঙতে যাচ্ছে। ৮:৫৯ আর ৮:৬০ আয়াত সামনে এগোয়, কেউ পালাতে পারবে না সেই হুঁশিয়ারি আর প্রস্তুতি নেওয়ার হুকুম নিয়ে। অর্থাৎ আয়াতটি বসে আছে নির্দেশের এক ধারার ভেতরে, কোনো কাহিনির ভেতরে নয়।"
+          },
+          {
+            "en": "There is a genuine disagreement about whether the verse looks back or forward. Al-Qurtubi reports that it came down about Banu Qurayza and Banu an-Nadir, and notes that at-Tabari relates that from Mujahid. Ibn Atiyyah reads the wording against that: what appears from the words of the Quran is that the matter of Banu Qurayza ended at 8:57, and that Allah then began, in this verse, His command about what to do in future with one whose treachery is feared. His reason is exact: Qurayza were not in the category of those whose treachery is feared, because their treachery was open and well known.",
+            "bn": "আয়াতটি পিছনে তাকায় নাকি সামনে, তা নিয়ে আসল মতভেদ আছে। কুরতুবী জানান, এটি নেমেছে বানূ কুরাইযা আর বানূ নাযীর সম্পর্কে, আর লিখে রাখেন যে তাবারী এ কথা মুজাহিদ থেকে বর্ণনা করেন। ইবনু আতিয়্যা শব্দ ধরে এর বিপরীত পড়েন: কুরআনের শব্দ থেকে যা বোঝা যায় তা হলো বানূ কুরাইযার বিষয়টি ৮:৫৭ আয়াতেই শেষ হয়েছে, আর এরপর আল্লাহ এ আয়াতে শুরু করেছেন তাঁর সেই হুকুম, ভবিষ্যতে যার কাছ থেকে খিয়ানতের আশঙ্কা হয় তার সঙ্গে কী করতে হবে। তাঁর কারণটা নিখুঁত: কুরাইযা তাদের দলে পড়ত না যাদের খিয়ানতের আশঙ্কা করা হয়, কারণ তাদের খিয়ানত ছিল খোলা আর সবার জানা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "To Throw It Back",
+          "bn": "ছুঁড়ে ফিরিয়ে দেওয়া"
+        },
+        "p": [
+          {
+            "en": "Nabdh, al-Qurtubi says, is throwing and rejecting: not a negotiation and not a lapse, but an act. What is thrown is the pact itself, and as-Sa'di supplies the sentence that goes with the act, that you inform them there is no covenant between you and them. The verb is addressed to one person, and at-Tabari treats the addressee as the one who holds the authority to make war at all, saying the duty falls on the imam of the Muslims when the signs appear.",
+            "bn": "নাবয, কুরতুবী বলেন, মানে ছুঁড়ে ফেলা আর নাকচ করা: এটা দরকষাকষি নয়, নিজে নিজে ঝুলে পড়াও নয়, এটা একটা কাজ। যা ছোঁড়া হয় তা চুক্তিটাই, আর কাজটার সঙ্গে যে কথাটা যায় সেটা দেন সা'দী, অর্থাৎ তাদের জানিয়ে দেবে যে তোমার আর তাদের মধ্যে আর কোনো চুক্তি নেই। ক্রিয়াটি একজনকে সম্বোধন করে, আর তাবারী সম্বোধিত ব্যক্তিকে ধরেন সেই লোক হিসেবে যার হাতে যুদ্ধের সিদ্ধান্তের অধিকারই আছে; তিনি বলেন, আলামত দেখা গেলে দায়িত্বটা বর্তায় মুসলিমদের ইমামের উপর।"
+          },
+          {
+            "en": "The two words that decide the verse are ala sawa. At-Tabari glosses them: until your knowledge and their knowledge are equal that each party is at war with the other and not at peace. He adds the practical consequence, that they may take up their weapons, and you are clear of treachery. Al-Azhari puts it as a prohibition first: do not fall upon them ahead of the breach, until you cast to them that you have broken the agreement, so that they are equal in knowing it; then act. An-Nahhas calls the verse's brevity beside the abundance of its meanings one of the miraculous things in the Quran.",
+            "bn": "আয়াতের ফয়সালা করে দেয় দুটি শব্দ, আলা সাওয়া। তাবারী এর ব্যাখ্যা দেন: যতক্ষণ না তোমার জানা আর তাদের জানা এক সমান হয় যে দুই পক্ষের প্রত্যেকেই অন্যের সঙ্গে যুদ্ধে, শান্তিতে নয়। তিনি কাজের ফলটাও যোগ করেন, যাতে তারা নিজেদের হাতিয়ার তুলে নিতে পারে, আর তুমি খিয়ানত থেকে মুক্ত থাক। আযহারী কথাটা প্রথমে নিষেধ হিসেবে বলেন: চুক্তি ভাঙায় তুমি তাদের আগে গিয়ে ঝাঁপিয়ে পড়ো না, যতক্ষণ না তাদের কাছে ছুঁড়ে দাও যে তুমি চুক্তি ভেঙেছ, যাতে সেটা জানায় তারা সমান হয়; তারপর কাজ কর। নাহহাস আয়াতটির সংক্ষিপ্ততা আর তার ভেতরের অর্থের প্রাচুর্যকে বলেন কুরআনের মুজিযার একটি দিক।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Fear That Is Not a Guess",
+          "bn": "আশঙ্কা, যা অনুমান নয়"
+        },
+        "p": [
+          {
+            "en": "Both at-Tabari and al-Qurtubi raise the same objection before a reader can: how can a covenant be undone on fear, when fear is supposition and not certainty? At-Tabari answers that the verse does not mean a suspicion at all. Its sense is that when the signs of treachery have appeared from your enemy and you fear they will fall upon you, then you throw back the keys of peace and announce war. The trigger is evidence that has surfaced, not a feeling that has been entertained.",
+            "bn": "পাঠকের মুখে আসার আগেই একই আপত্তি তোলেন তাবারী আর কুরতুবী দুজনেই: আশঙ্কার উপর ভিত্তি করে চুক্তি খোলা যায় কীভাবে, যখন আশঙ্কা তো অনুমান, নিশ্চিত জ্ঞান নয়? তাবারী জবাব দেন, আয়াত কোনো সন্দেহের কথাই বলছে না। এর অর্থ হলো, শত্রুর কাছ থেকে খিয়ানতের আলামত যখন দেখা দিয়েছে আর তুমি ভয় পাচ্ছ তারা তোমার উপর ঝাঁপিয়ে পড়বে, তখন তুমি শান্তির চাবি ফিরিয়ে দাও আর যুদ্ধ ঘোষণা কর। কারণটা হলো সামনে এসে পড়া দলিল, মনে পুষে রাখা কোনো অনুভূতি নয়।"
+          },
+          {
+            "en": "Al-Qurtubi hands the same question to Ibn al-Arabi, who gives two answers. The first is linguistic: fear sometimes carries the sense of certainty, as hoping sometimes carries the sense of knowing, and he cites 71:13 for it, where the app renders the clause by its sense rather than by the verb. The second is legal: once the effects of treachery appear and its evidence is established, throwing the pact back becomes obligatory, lest holding on to it lead to ruin. He then notes the other end of the scale, that where treachery is already certain there is no need to throw the pact back at all.",
+            "bn": "কুরতুবী একই প্রশ্ন তুলে দেন ইবনুল আরাবীর হাতে, আর তিনি দুটি জবাব দেন। প্রথমটি ভাষার: আশঙ্কা কখনো নিশ্চিত জ্ঞানের অর্থ বহন করে, যেমন আশা করা কখনো জানার অর্থ বহন করে; আর এর জন্য তিনি ৭১:১৩ আয়াত দেখান, যেখানে অ্যাপ অংশটি আনে ক্রিয়াটি ধরে নয়, অর্থ ধরে। দ্বিতীয়টি বিধানের: খিয়ানতের ছাপ দেখা দিয়ে তার দলিল প্রতিষ্ঠিত হয়ে গেলে চুক্তি ফিরিয়ে দেওয়া ওয়াজিব হয়ে যায়, যাতে সেটা ধরে বসে থাকা ধ্বংসে না নিয়ে যায়। এরপর তিনি অন্য প্রান্তটাও বলেন, যেখানে খিয়ানত ইতিমধ্যেই নিশ্চিত, সেখানে চুক্তি ফিরিয়ে দেওয়ার কোনো দরকারই নেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Do Not Tighten the Knot",
+          "bn": "গিঁট আঁটো করো না"
+        },
+        "p": [
+          {
+            "en": "Here the commentators do attach a narration, and Ibn Kathir brings it with its scene. Mu'awiyah was leading an army in Roman territory while a treaty was still in force, and he wanted to move closer so that he could invade the moment it expired. An old man riding alongside called out, Allahu akbar, Allahu akbar, keep faith and do not betray. He then reported the words of the Messenger of Allah ﷺ: whoever has a pact with a people, let him not loosen a knot of it nor tie it tighter until its term has run out, or throw it back to them on equal terms.",
+            "bn": "এখানে মুফাসসিরগণ সত্যিই একটি বর্ণনা জুড়ে দেন, আর ইবনু কাসীর সেটি আনেন ঘটনাসহ। মুআবিয়া রোমান এলাকায় এক বাহিনীর নেতৃত্বে ছিলেন, আর তখনো চুক্তি বহাল; তিনি চাইলেন আরও কাছে গিয়ে অবস্থান নিতে, যাতে চুক্তির সময় শেষ হওয়ার মুহূর্তেই আক্রমণ করতে পারেন। পাশে বাহনে চড়া এক বৃদ্ধ ডেকে উঠলেন, আল্লাহু আকবার, আল্লাহু আকবার, চুক্তি রক্ষা কর, খিয়ানত করো না। তারপর তিনি শোনালেন রাসূলুল্লাহর ﷺ কথা: যার সঙ্গে কোনো জাতির চুক্তি আছে, সে যেন সেটার কোনো গিঁট আলগাও না করে, আঁটোও না করে, যতক্ষণ না সেটার সময় শেষ হয়, অথবা সমান সমান অবস্থায় সেটা তাদের দিকে ছুঁড়ে দেয়।"
+          },
+          {
+            "en": "Ibn Kathir names the speaker as the Companion Amr ibn Abasah (RA) and reports that Mu'awiyah withdrew when he heard it. Jami at-Tirmidhi 1580 preserves the same hadith through Sulaym ibn Amir, and at-Tirmidhi's own grading of it is hasan sahih. The phrase Ibn Kathir draws out of it before quoting is worth keeping: this even includes treachery against the disbelievers. The prohibition is not a courtesy extended to allies; it is owed to whoever holds a pact.",
+            "bn": "ইবনু কাসীর কথা বলা লোকটির নাম দেন সাহাবী আমর ইবনু আবাসা (রাঃ) হিসেবে, আর জানান, শোনার পর মুআবিয়া পিছিয়ে এসেছিলেন। জামি আত-তিরমিযীর ১৫৮০ নম্বরে একই হাদীস রক্ষিত আছে সুলাইম ইবনু আমিরের সূত্রে, আর তিরমিযী নিজে এটির মান দিয়েছেন হাসান সহীহ। উদ্ধৃতির আগে ইবনু কাসীর যে কথাটা টেনে বের করেন সেটা মনে রাখার মতো: এর মধ্যে কাফিরদের সঙ্গে খিয়ানতও পড়ে। নিষেধটা মিত্রদের জন্য দেখানো কোনো ভদ্রতা নয়; যার হাতে চুক্তি আছে তার প্রতিই এটা পাওনা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As-Sa'di Reads Both Ends",
+          "bn": "সা'দী দুই প্রান্তই পড়েন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di states the prohibition inside the permission, and it is the sharpest line on the verse: it is not lawful for you to betray them, nor to strive in anything the covenant forbade, until you inform them of that. So the window between deciding and announcing is closed. A man who has resolved to end a pact is still bound by every clause of it until the other side has been told, which is the only way the words on equal terms can mean anything.",
+            "bn": "সা'দী অনুমতির ভেতরেই নিষেধটা বসিয়ে দেন, আর এ আয়াতের উপর ওটাই সবচেয়ে ধারালো কথা: তাদের সঙ্গে খিয়ানত করা তোমার জন্য হালাল নয়, আর চুক্তি যা নিষেধ করেছে তার কোনো কিছুতে হাত দেওয়াও হালাল নয়, যতক্ষণ না তুমি তাদের সেটা জানিয়ে দাও। অর্থাৎ সিদ্ধান্ত নেওয়া আর জানিয়ে দেওয়ার মাঝের জানালাটা বন্ধ। যে লোক চুক্তি শেষ করার সিদ্ধান্ত নিয়ে ফেলেছে, অন্য পক্ষকে জানানো পর্যন্ত সে চুক্তির প্রতিটি শর্তেই বাঁধা, আর কেবল এভাবেই সমান সমান কথাটার কোনো অর্থ থাকে।"
+          },
+          {
+            "en": "He then reads the verse from both ends. Where treachery is not merely feared but verified, he says, there is no need to throw the pact back, because the man did not fear it, he knew it, and because on equal terms has nothing left to accomplish when the breach is known to everyone. And the converse: where no treachery is feared, because nothing has appeared to indicate it, throwing the pact back is not permitted at all, and fulfilling it to the end of its term is obligatory. The verse turns out to protect the pact more often than it dissolves it.",
+            "bn": "এরপর তিনি আয়াতটি দুই প্রান্ত থেকেই পড়েন। যেখানে খিয়ানত কেবল আশঙ্কা নয়, প্রমাণিত, সেখানে চুক্তি ফিরিয়ে দেওয়ার দরকার নেই, তিনি বলেন, কারণ লোকটি সেটা আশঙ্কা করেনি, জেনে গেছে; আর ভাঙাটা যখন সবারই জানা, তখন সমান সমান কথাটার আর কিছু করার থাকে না। আর উল্টো দিকটা: যেখানে খিয়ানতের কোনো আশঙ্কা নেই, কারণ তা বোঝানোর মতো কিছুই দেখা যায়নি, সেখানে চুক্তি ফিরিয়ে দেওয়া একেবারেই জায়েজ নয়, আর সময় শেষ হওয়া পর্যন্ত সেটা পূর্ণ করা ওয়াজিব। দেখা যাচ্ছে, আয়াতটি চুক্তি ভাঙার চেয়ে চুক্তি রক্ষা করে বেশিবার।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses About Keeping a Pact",
+          "bn": "চুক্তি রক্ষা নিয়ে আয়াত"
+        },
+        "p": [
+          {
+            "en": "5:1 opens its surah with the shortest form of the command, fulfil the contracts. 17:34 adds the reason a believer cannot treat one as private business: fulfil every commitment, for the commitment is ever that about which one will be questioned. 16:91 closes the gap this verse is worried about, telling those who have taken a covenant of Allah not to break oaths after confirming them, while they have made Allah a witness over themselves.",
+            "bn": "৫:১ আয়াত নিজের সূরার শুরুতেই হুকুমটির সবচেয়ে ছোট রূপ রাখে, চুক্তিগুলো পূর্ণ কর। ১৭:৩৪ আয়াত যোগ করে সেই কারণ, যার জন্য মু'মিন চুক্তিকে নিজের একলার ব্যাপার ভাবতে পারে না: প্রতিটি ওয়াদা পূর্ণ কর, কারণ ওয়াদা নিয়ে অবশ্যই জিজ্ঞেস করা হবে। ১৬:৯১ আয়াত বন্ধ করে দেয় সেই ফাঁকটা, যা নিয়ে আমাদের আয়াত চিন্তিত; সেখানে আল্লাহর অঙ্গীকার নেওয়া লোকদের বলা হচ্ছে, পাকা করার পর কসম ভেঙে ফেলো না, যখন তোমরা আল্লাহকেই নিজেদের উপর সাক্ষী রেখেছ।"
+          },
+          {
+            "en": "9:4 is the closest of them in subject, because it handles the same situation from the other side: those of the polytheists who had not been deficient toward you in anything nor supported anyone against you, complete for them their treaty to its term. Read with our verse the pair covers both cases a state can be in. Where nothing has appeared, the pact runs to its end; where signs have appeared, it is ended openly and on the record. Neither case leaves room for a quiet advantage.",
+            "bn": "বিষয়ের দিক থেকে এদের মধ্যে সবচেয়ে কাছের ৯:৪ আয়াত, কারণ ওটি একই অবস্থাকে সামলায় অন্য দিক থেকে: মুশরিকদের মধ্যে যারা তোমাদের প্রতি কোনো ত্রুটি করেনি আর তোমাদের বিরুদ্ধে কাউকে সাহায্যও করেনি, তাদের চুক্তি তাদের জন্য সময় শেষ হওয়া পর্যন্ত পূর্ণ কর। আমাদের আয়াতের সঙ্গে পড়লে এ জোড়াটি দুটো অবস্থাই ঢেকে দেয়। যেখানে কিছুই দেখা যায়নি, সেখানে চুক্তি চলে শেষ পর্যন্ত; যেখানে আলামত দেখা গেছে, সেখানে সেটা শেষ হয় খোলাখুলি আর জানিয়ে। কোনো অবস্থাতেই চুপচাপ সুবিধা নেওয়ার জায়গা থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Whose Ruling This Is",
+          "bn": "এ বিধান কার"
+        },
+        "p": [
+          {
+            "en": "One boundary has to be drawn before the verse is taken home. At-Tabari reads it as an instruction to the one who has authority to make war, and says in so many words that the duty falls upon the imam of the Muslims when such signs appear from a people who have a truce. That is a matter of state, decided by those who carry that responsibility, and this article makes no application of it to any present situation or to anyone's private judgement about a community.",
+            "bn": "আয়াতটি ঘরে নিয়ে যাওয়ার আগে একটা সীমা টেনে দেওয়া দরকার। তাবারী এটিকে পড়েন এমন লোকের উদ্দেশে দেওয়া নির্দেশ হিসেবে যার হাতে যুদ্ধের সিদ্ধান্তের অধিকার আছে, আর স্পষ্ট ভাষায় বলেন, চুক্তিতে থাকা কোনো জাতির কাছ থেকে এমন আলামত দেখা দিলে দায়িত্বটা বর্তায় মুসলিমদের ইমামের উপর। এটা রাষ্ট্রের বিষয়, আর যাঁদের কাঁধে সেই দায়িত্ব তাঁরাই এর ফয়সালা করেন। এ লেখা এটিকে বর্তমানের কোনো পরিস্থিতিতে বা কোনো জনগোষ্ঠী নিয়ে কারও ব্যক্তিগত বিচারে প্রয়োগ করছে না।"
+          },
+          {
+            "en": "What does transfer is the ethic the ruling is built on, and it transfers exactly because the ruling is so demanding at the level where lives are at stake. If a state may not gain a single step of advantage from a pact it has decided to end, a man may not either. The ordinary version of this verse is the agreement someone has stopped honouring inwardly while the other party still plans around it: a partner, an employer, a landlord, a spouse. The verse does not forbid ending it. It forbids ending it in private.",
+            "bn": "যা সত্যিই এক জায়গা থেকে আরেক জায়গায় যায়, তা হলো বিধানটির নিচে যে নীতি আছে সেটি; আর সেটা যায় ঠিক এ কারণেই যে জীবন-মরণের স্তরে বিধানটা এত কঠিন। যদি কোনো রাষ্ট্র শেষ করার সিদ্ধান্ত নেওয়া চুক্তি থেকে এক কদমও সুবিধা নিতে না পারে, তবে একজন মানুষও পারে না। এ আয়াতের সাধারণ চেহারাটা হলো সেই চুক্তি, যেটা কেউ মনে মনে আর মানছে না, অথচ অন্য পক্ষ এখনো সেটাকে ধরে হিসাব সাজাচ্ছে: কোনো শরিক, কোনো মালিক, বাড়িওয়ালা, কিংবা জীবনসঙ্গী। আয়াত সেটা শেষ করা নিষেধ করে না। নিষেধ করে চুপিচুপি শেষ করা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking to Be Kept Honest",
+          "bn": "সৎ থাকার তাওফীক চাওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse gives no supplication; it gives a reason, that Allah does not love the treacherous, and as-Sa'di sharpens it into a rule of practice: there must be a clear act that clears you of treachery. The standard the Quran sets next to it is 17:34, that a commitment is a thing one will be questioned about, which turns every arrangement into something with a witness. A believer who wants a prayer for this is asking to be kept on the side the verse says Allah loves.",
+            "bn": "আয়াতে কোনো দোয়া নেই; আছে একটি কারণ, আল্লাহ খিয়ানতকারীদের পছন্দ করেন না, আর সা'দী সেটাকে ধার দিয়ে বানান আমলের নিয়ম: এমন একটি স্পষ্ট কাজ থাকতেই হবে যা তোমাকে খিয়ানত থেকে মুক্ত করে। কুরআন এর পাশে যে মান রাখে তা ১৭:৩৪ আয়াত, ওয়াদা এমন জিনিস যা নিয়ে জিজ্ঞেস করা হবে, আর তাতে প্রতিটি বন্দোবস্তই হয়ে যায় সাক্ষীওয়ালা জিনিস। এ ব্যাপারে যে মু'মিন দোয়া চান, তিনি আসলে চাইছেন আয়াত যে পাশটাকে আল্লাহর পছন্দের বলে, সেই পাশে রাখা হোক।"
+          },
+          {
+            "en": "A sentence in the verse's own vocabulary can be said and claimed as no more than that: O Allah, do not make me one of the treacherous, and if I must end something, let me end it out in the open where the other side can see it as clearly as I do. That is assembled from this verse and from as-Sa'di's gloss on it. It is not a Sunnah du'a, and the hadith quoted above is a command rather than a prayer, so it should be carried as a rule and not recited as one.",
+            "bn": "আয়াতের নিজের শব্দে একটা বাক্য বলা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আমাকে খিয়ানতকারীদের একজন বানাবেন না; আর কিছু যদি শেষ করতেই হয়, তবে সেটা খোলা জায়গায় শেষ করার তাওফীক দিন, যেখানে অন্য পক্ষ সেটা আমার মতোই পরিষ্কার দেখতে পায়। এটি এ আয়াত আর এর উপর সা'দীর ব্যাখ্যা জুড়ে বানানো। এটি সুন্নাহর দোয়া নয়, আর উপরে তোলা হাদীসটি দোয়া নয়, হুকুম; কাজেই সেটাকে নিয়ম হিসেবে বহন করতে হবে, দোয়া হিসেবে পড়তে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Agreements",
+          "bn": "নিজের চুক্তি নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Is there an agreement I have privately stopped honouring without telling the other side that I have stopped? The verse levels knowledge before anything is done, so where am I acting on information the other party does not know I have? And when I decide to end something, do I announce it, or do I let it lapse in silence and call the silence kindness?",
+            "bn": "এমন কোনো চুক্তি আছে কি, যেটা আমি মনে মনে আর মানছি না, অথচ অন্য পক্ষকে জানাইনি যে আমি আর মানছি না? আয়াত কিছু করার আগে জানাটা সমান করে নেয়; তাহলে আমি কোথায় এমন খবরের উপর কাজ করছি, যা আমার হাতে আছে সেটাই অন্য পক্ষ জানে না? আর কিছু শেষ করার সিদ্ধান্ত নিলে আমি কি সেটা জানিয়ে দিই, নাকি চুপচাপ ঝুলে থাকতে দিই আর সেই চুপ থাকাটাকেই ভদ্রতা বলে ডাকি?"
+          },
+          {
+            "en": "Two that cost more. The reason the verse gives is that Allah does not love the treacherous: which of my current arrangements would look treacherous if the other side could see all of it at once? And if I suspect somebody is about to betray me, is my first move to protect myself quietly, or to say plainly what I fear and where the two of us now stand?",
+            "bn": "আরও দুটি, যাতে খরচ বেশি। আয়াত কারণ হিসেবে বলে, আল্লাহ খিয়ানতকারীদের পছন্দ করেন না: আমার এখনকার কোন বন্দোবস্তটা খিয়ানতের মতো দেখাত, যদি অন্য পক্ষ একবারে পুরোটা দেখতে পেত? আর কেউ আমার সঙ্গে বিশ্বাসঘাতকতা করতে যাচ্ছে বলে সন্দেহ হলে আমার প্রথম কাজ কী, চুপচাপ নিজেকে বাঁচানো, নাকি সোজা বলে দেওয়া যে আমি কী আশঙ্কা করছি আর আমরা দুজন এখন কোথায় দাঁড়িয়ে?"
+          }
+        ]
+      }
+    ]
   }
 });

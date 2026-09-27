@@ -6763,6 +6763,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The ranking in this verse is Allah's to make and the next verse identifies by conduct, not by name; read it as a warning about a habit rather than a label to hand out.",
     "lessonBn": "এ আয়াতের অবস্থান ঠিক করার ভার আল্লাহর, আর পরের আয়াত চেনায় আচরণ দিয়ে, নাম দিয়ে নয়। এটাকে পড়ুন অভ্যাস নিয়ে হুঁশিয়ারি হিসেবে, অন্যের গায়ে লাগানো তকমা হিসেবে নয়।"
+  },
+  "8:58": {
+    "reflectionEn": "A verse about ending an agreement honourably. If you fear treachery from a people you have a pact with, throw the pact back to them on equal terms. The last two words carry the whole weight. You may end it, but they have to know it has ended before anything else happens, so that your knowledge and theirs are level and neither side is still trusting a paper the other has torn. Then the reason: Allah does not love the treacherous. The verse is not permission to strike first under cover of suspicion. It is the opposite, an obligation to say so out loud.",
+    "reflectionBn": "চুক্তি ভাঙার সময় সম্মান রক্ষা করা নিয়ে আয়াত। যাদের সঙ্গে চুক্তি আছে তাদের কাছ থেকে খিয়ানতের আশঙ্কা করলে চুক্তিটা তাদের দিকে ছুঁড়ে দাও, সমান সমান অবস্থায়। শেষ দুটি শব্দই গোটা ভারটা বহন করে। আপনি শেষ করতে পারেন, তবে আর কিছু ঘটার আগে তাদের জানতে হবে যে শেষ হয়ে গেছে; যাতে আপনার জানা আর তাদের জানা এক সমান থাকে, আর কোনো পক্ষই এমন কাগজে ভরসা করে বসে না থাকে যা অন্য পক্ষ ছিঁড়ে ফেলেছে। তারপর কারণটা: আল্লাহ খিয়ানতকারীদের পছন্দ করেন না। আয়াতটি সন্দেহের আড়ালে আগে আঘাত করার অনুমতি নয়। বরং উল্টো, মুখ ফুটে বলে দেওয়ার দায়িত্ব।",
+    "pointsEn": [
+      "Is there an agreement I have privately stopped honouring without telling the other side that I have stopped?",
+      "The verse makes knowledge level before anything is done. Where am I acting on information the other party does not know I have?",
+      "When I decide to end something, do I announce it or do I let it lapse in silence and call that kindness?",
+      "The reason given is that Allah does not love the treacherous. Which of my current arrangements would look treacherous if the other side saw all of it?",
+      "If I fear somebody is about to betray me, is my first move to protect myself quietly, or to say plainly what I fear and where we now stand?"
+    ],
+    "pointsBn": [
+      "এমন কোনো চুক্তি আছে কি, যেটা আমি মনে মনে আর মানছি না, অথচ অন্য পক্ষকে জানাইনি যে আমি আর মানছি না?",
+      "আয়াত কিছু করার আগে জানাটা সমান করে নেয়। আমি কোথায় এমন খবরের উপর কাজ করছি, যা আমার কাছে আছে সেটাই অন্য পক্ষ জানে না?",
+      "কোনো কিছু শেষ করার সিদ্ধান্ত নিলে আমি কি সেটা জানিয়ে দিই, নাকি চুপচাপ ঝুলে থাকতে দিই আর সেটাকেই ভদ্রতা বলি?",
+      "কারণ হিসেবে বলা হয়েছে, আল্লাহ খিয়ানতকারীদের পছন্দ করেন না। আমার এখনকার কোন বন্দোবস্তটা খিয়ানতের মতো দেখাত, যদি অন্য পক্ষ পুরোটা দেখতে পেত?",
+      "কেউ আমার সঙ্গে বিশ্বাসঘাতকতা করতে যাচ্ছে বলে ভয় পেলে আমার প্রথম কাজ কী, চুপচাপ নিজেকে বাঁচানো, নাকি সোজা বলে দেওয়া যে আমি কী আশঙ্কা করছি আর আমরা এখন কোথায় দাঁড়িয়ে?"
+    ],
+    "lessonEn": "You may end an agreement you fear is being betrayed, but not quietly; make the other side as informed as you are before you act on it.",
+    "lessonBn": "যে চুক্তিতে খিয়ানতের আশঙ্কা করছেন সেটা শেষ করতে পারেন, তবে চুপচাপ নয়। সেটার উপর কিছু করার আগে অন্য পক্ষকে নিজের মতোই জানিয়ে দিন।"
   }
 };
 
