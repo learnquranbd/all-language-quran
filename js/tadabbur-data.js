@@ -6883,6 +6883,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "A mosque is held by faith, prayer, zakah and fearing no one but Allah; the list names no donor, and even those who meet it are given a hope rather than a verdict.",
     "lessonBn": "মাসজিদ ধরে রাখে ঈমান, নামায, যাকাত আর আল্লাহ ছাড়া কাউকে ভয় না করা। তালিকায় কোনো দাতার নাম নেই, আর যারা এ শর্ত পূরণ করে তাদেরও দেওয়া হয় রায় নয়, আশা।"
+  },
+  "9:24": {
+    "reflectionEn": "Eight things are put on one side of a scale: fathers, sons, brothers, wives, kin, wealth you earned, a trade whose decline you fear, and houses you are pleased with. On the other side, three: Allah, His Messenger, and striving in His way. Not one of the eight is a sin. Every one of them is a thing a decent person is supposed to love, and several are things he is obliged to look after. The verse does not ask you to stop loving them. It asks which side would win if the two ever pulled in opposite directions, and it warns those who already know the answer.",
+    "reflectionBn": "পাল্লার এক পাশে রাখা হয় আটটি জিনিস: পিতারা, সন্তানেরা, ভাইয়েরা, স্ত্রীরা, গোষ্ঠীর লোকেরা, নিজের কামাই করা সম্পদ, যে ব্যবসার মন্দা নিয়ে ভয় হয়, আর যে বাড়িঘর পছন্দ। অন্য পাশে তিনটি: আল্লাহ, তাঁর রাসূল ﷺ, আর তাঁর পথে জিহাদ। আটটির একটিও গুনাহ নয়। প্রতিটিই এমন জিনিস, যা একজন ভদ্র মানুষের ভালোবাসাই উচিত, আর কয়েকটির দেখাশোনা তার উপর ফরজ। আয়াত আপনাকে ওগুলো ভালোবাসা ছাড়তে বলে না। সে জিজ্ঞেস করে, দুই পাশ যদি কখনো উল্টো দিকে টানে তবে কোন পাশটা জিতবে; আর যারা জবাবটা আগেই জানে, তাদের সে হুঁশিয়ার করে।",
+    "pointsEn": [
+      "Of the eight, which one is mine? Not which one I would defend in an argument, but which one actually decides my week.",
+      "Every item on the list is legitimate. Have I been judging my attachments by whether they are permitted rather than by where they rank?",
+      "A trade whose decline you fear is named, not a trade that failed. What am I afraid of losing, and what does that fear already make me do?",
+      "The verse tells those who fail the test to wait. What am I waiting for, and would I recognise it if it came as a loss?",
+      "Nothing is said about feeling less for anyone. What would change tomorrow if the order were right and the affection unchanged?"
+    ],
+    "pointsBn": [
+      "এ আটটির মধ্যে কোনটি আমার? তর্কে আমি কোনটির পক্ষ নিতাম তা নয়, বরং আমার সপ্তাহটা আসলে কোনটি ঠিক করে দেয়।",
+      "তালিকার প্রতিটি জিনিসই বৈধ। আমি কি নিজের টানগুলোকে বিচার করেছি সেগুলো জায়েজ কি না তা দিয়ে, কে কোন সারিতে আছে তা দিয়ে নয়?",
+      "যে ব্যবসার মন্দার ভয় হয়, তার নাম আসে; যে ব্যবসা ডুবে গেছে তার নয়। আমি কী হারানোর ভয় পাই, আর সেই ভয় এখনই আমাকে কী করায়?",
+      "যারা এ পরীক্ষায় হারে, আয়াত তাদের অপেক্ষা করতে বলে। আমি কীসের অপেক্ষায় আছি, আর সেটা যদি ক্ষতি হয়ে আসে আমি কি চিনতে পারব?",
+      "কারও প্রতি কম ভালোবাসার কথা কোথাও বলা হয়নি। ক্রম ঠিক থাকলে আর টান একই থাকলে কাল কী বদলাত?"
+    ],
+    "lessonEn": "The test is not whether you love what you love, but what happens on the day it pulls against Allah and His Messenger; put the eight in order and keep the affection.",
+    "lessonBn": "পরীক্ষা এই নয় যে আপনি যা ভালোবাসেন তা ভালোবাসেন কি না; পরীক্ষা হলো, যেদিন সেটা আল্লাহ আর তাঁর রাসূলের ﷺ বিপরীতে টানবে সেদিন কী হবে। আটটিকে সারিতে বসান, আর টানটা রেখে দিন।"
   }
 };
 

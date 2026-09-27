@@ -455,6 +455,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:24": {
+    "sections": [
+      {
+        "h": {
+          "en": "Said to Those Who Stayed",
+          "bn": "যারা রয়ে গেল তাদের বলা"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan, and this verse follows a hard prohibition. 9:23 tells the believers not to take their fathers or brothers as allies if those men preferred disbelief over belief, and calls whoever does so a wrongdoer. Ibn Kathir, on that verse, brings 58:22 alongside it, that you will not find people who believe in Allah and the Last Day having affection for those who oppose Allah and His Messenger ﷺ even if they were their fathers or their sons. Our verse then supplies the reason underneath both.",
+            "bn": "সূরা তাওবা মাদানী, আর এ আয়াত আসে একটি কঠিন নিষেধের পরে। ৯:২৩ আয়াত মু'মিনদের বলে, নিজেদের পিতা আর ভাইদের বন্ধু হিসেবে না নিতে, যদি তারা ঈমানের চেয়ে কুফরীকেই এগিয়ে রাখে; আর যে তা করে তাকে বলে জালিম। ইবনু কাসীর ওই আয়াতে এর পাশে এনে রাখেন ৫৮:২২ আয়াত, তুমি এমন কোনো সম্প্রদায় পাবে না যারা আল্লাহ আর শেষ দিনে ঈমান রাখে আর আল্লাহ ও তাঁর রাসূলের ﷺ বিরোধিতাকারীদের ভালোবাসে, তারা তাদের পিতা বা সন্তান হলেও। এরপর আমাদের আয়াত দেয় সেই কারণ, যা এ দুটোরই নিচে আছে।"
+          },
+          {
+            "en": "At-Tabari reads the address narrowly and it changes the scene. He takes it as spoken to those who had stayed behind from the emigration to the abode of Islam and remained in the abode of shirk: if remaining with your fathers and sons and brothers and wives and kin, and wealth you have earned, and a trade whose decline you fear through leaving your town, and dwellings you are pleased with and so have settled in, is more beloved to you than emigrating to Allah and His Messenger ﷺ. On that reading the eight things are not abstractions. They are the furniture of a life somebody would not leave.",
+            "bn": "তাবারী সম্বোধনটি পড়েন সংকীর্ণ অর্থে, আর তাতে দৃশ্যটাই বদলে যায়। তিনি এটিকে ধরেন তাদের উদ্দেশে বলা কথা হিসেবে, যারা ইসলামের দেশে হিজরত থেকে পিছিয়ে থেকে গিয়েছিল আর শিরকের দেশেই রয়ে গিয়েছিল: যদি তোমাদের পিতা, সন্তান, ভাই, স্ত্রী আর গোষ্ঠীর সঙ্গে থেকে যাওয়া, আর তোমাদের কামাই করা সম্পদ, আর নিজের শহর ছাড়ার কারণে যে ব্যবসার মন্দার ভয় হয়, আর যে বাসস্থান তোমাদের পছন্দ আর তাই তোমরা সেখানে থিতু হয়েছ, এসব তোমাদের কাছে আল্লাহ আর তাঁর রাসূলের ﷺ দিকে হিজরত করার চেয়ে বেশি প্রিয় হয়। এ পাঠে আটটি জিনিস কোনো ভাবনা-কল্পনা নয়। ওগুলো এমন এক জীবনের আসবাব, যা কেউ ছাড়তে চায় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Eight Against Three",
+          "bn": "আটের বিপরীতে তিন"
+        },
+        "p": [
+          {
+            "en": "The scale is built plainly. Eight things on one side: fathers, sons, brothers, wives, kin, wealth, trade, dwellings. Three on the other: Allah, His Messenger ﷺ, and striving in His way. Not one of the eight is unlawful, and several are things a man is obliged to provide for and protect, which is what makes the verse difficult. It does not oppose good things to bad ones. It orders good things against better ones and asks what happens when they pull apart.",
+            "bn": "পাল্লাটা সাজানো হয়েছে সোজাভাবে। এক পাশে আটটি জিনিস: পিতা, সন্তান, ভাই, স্ত্রী, গোষ্ঠী, সম্পদ, ব্যবসা, বাসস্থান। অন্য পাশে তিনটি: আল্লাহ, তাঁর রাসূল ﷺ, আর তাঁর পথে জিহাদ। আটটির একটিও হারাম নয়, আর কয়েকটির ভরণপোষণ আর হেফাজত মানুষের উপর ফরজ; আর এ কারণেই আয়াতটি কঠিন। সে ভালো জিনিসকে খারাপ জিনিসের বিপরীতে দাঁড় করায় না। সে ভালো জিনিসকে সারিতে বসায় আরও ভালো জিনিসের বিপরীতে, আর জিজ্ঞেস করে, এরা যখন দুদিকে টানে তখন কী হয়।"
+          },
+          {
+            "en": "Two of the eight carry their own reasons in their wording. At-Tabari glosses iqtaraftumuha as wealth you have earned, and as-Sa'di draws the point out: He singled it out for mention because such wealth is more desired by its owner, and its owner is more attached to it than one to whom wealth comes without toil or effort. And a trade whose decline you fear names a fear rather than a loss. Nothing has failed yet; it is the possibility that is doing the holding.",
+            "bn": "আটটির দুটি নিজের শব্দের ভেতরেই নিজের কারণ বহন করে। তাবারী ইকতারাফতুমূহার ব্যাখ্যা দেন তোমাদের কামাই করা সম্পদ হিসেবে, আর সা'দী কথাটা টেনে বের করেন: তিনি এটির নাম আলাদা করে নিয়েছেন, কারণ এমন সম্পদের প্রতি মালিকের টান বেশি, আর যে সম্পদ পরিশ্রম আর কষ্ট ছাড়াই হাতে আসে তার মালিকের চেয়ে এ মালিক অনেক বেশি আঁকড়ে থাকে। আর যে ব্যবসার মন্দার ভয় হয়, সেটি নাম নেয় একটি ভয়ের, কোনো ক্ষতির নয়। এখনো কিছুই ডোবেনি; ধরে রাখার কাজটা করছে কেবল সম্ভাবনাটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As-Sa'di Widens the List",
+          "bn": "সা'দী তালিকা চওড়া করেন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di will not let the eight be read as a closed inventory. Fathers, he notes, and the mothers are like them; brothers in lineage and in company; kin meaning your relatives generally. On the trade he opens it as wide as it will go: this includes all kinds of trades and earnings, goods of trade, prices, vessels, weapons, wares, grains, crops, cattle and other than that. And dwellings you are pleased with, he says, for their beauty and their ornament and their agreeing with your desires.",
+            "bn": "সা'দী আটটিকে বন্ধ একটা তালিকা হিসেবে পড়তে দেন না। তিনি লিখে রাখেন, পিতারা, আর মায়েরাও তাঁদের মতোই; ভাইয়েরা বংশে আর সঙ্গে; আর গোষ্ঠী মানে সাধারণভাবে তোমাদের আত্মীয়রা। ব্যবসার কথাটা তিনি যত চওড়া করা যায় তত চওড়া করেন: এর মধ্যে পড়ে সব ধরনের ব্যবসা আর কামাই, ব্যবসার পণ্য, দাম, পাত্র, হাতিয়ার, আসবাব, শস্য, ফসল, গবাদি পশু আর এর বাইরেও। আর যে বাসস্থান তোমাদের পছন্দ, তিনি বলেন, তার সৌন্দর্যের জন্য, তার সাজের জন্য, আর তোমাদের খেয়ালের সঙ্গে মিলে যাওয়ার জন্য।"
+          },
+          {
+            "en": "Then he states the verdict in three words where the verse takes a clause: if these things are more beloved to you than Allah and His Messenger and striving in His way, then you are transgressors, wrongdoers. And he reads the imperative to wait as waiting for something specific, the punishment that will befall you, until Allah brings His command, which has no averting. The closing clause he takes as a definition of the fasiq: those who leave Allah's obedience, who put something of these mentioned things ahead of the love of Allah.",
+            "bn": "এরপর আয়াত যেখানে একটা বাক্যাংশ নেয়, তিনি সেখানে রায়টা দেন তিন শব্দে: এসব জিনিস যদি তোমাদের কাছে আল্লাহ আর তাঁর রাসূল ﷺ আর তাঁর পথে জিহাদের চেয়ে বেশি প্রিয় হয়, তবে তোমরা ফাসিক, জালিম। আর অপেক্ষা করার হুকুমটিকে তিনি পড়েন নির্দিষ্ট কিছুর অপেক্ষা হিসেবে, তোমাদের উপর যে শাস্তি নেমে আসবে তার অপেক্ষা, যতক্ষণ না আল্লাহ তাঁর হুকুম নিয়ে আসেন, যা ফেরানোর কিছু নেই। শেষ কথাটিকে তিনি ধরেন ফাসিকের সংজ্ঞা হিসেবে: যারা আল্লাহর আনুগত্য ছেড়ে বেরিয়ে যায়, যারা এসব উল্লেখ করা জিনিসের কিছু একটাকে আল্লাহর ভালোবাসার আগে রাখে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Until Allah Brings It",
+          "bn": "যতক্ষণ না তিনি তা আনেন"
+        },
+        "p": [
+          {
+            "en": "On what the command was, at-Tabari is concrete where as-Sa'di is general. His gloss of wait until Allah brings His command is: until Allah brings the conquest of Makkah, and he carries the same from Mujahid through two chains, the conquest, the conquest of Makkah. So the thing the delayers were told to sit and wait for turned out to be the removal of the very reason they had given for staying: the city they did not want to leave was opened, and the trade they feared for was no longer in enemy hands.",
+            "bn": "হুকুমটা কী ছিল, সে ব্যাপারে সা'দী যেখানে সাধারণ, তাবারী সেখানে নির্দিষ্ট। অপেক্ষা কর যতক্ষণ না আল্লাহ তাঁর হুকুম নিয়ে আসেন, এর ব্যাখ্যায় তিনি বলেন: যতক্ষণ না আল্লাহ মক্কা বিজয় নিয়ে আসেন; আর একই কথা তিনি মুজাহিদ থেকে দুটি সূত্রে আনেন, সেই বিজয়, মক্কা বিজয়। অর্থাৎ পিছিয়ে থাকা লোকদের বসে যে জিনিসটার অপেক্ষা করতে বলা হলো, সেটা হয়ে দাঁড়াল তাদের থেকে যাওয়ার কারণটাই সরিয়ে দেওয়া: যে শহর তারা ছাড়তে চায়নি সেটাই খুলে গেল, আর যে ব্যবসার ভয় তারা করছিল সেটা আর শত্রুর হাতে রইল না।"
+          },
+          {
+            "en": "At-Tabari's gloss of the last clause keeps it practical rather than metaphysical: Allah does not grant success to good to those who leave His obedience and are in disobedience to Him. The sentence is not about a door being shut on them for ever; it is about what guidance is not given to a man for as long as he is in that state. And the verse's own imperative leaves the state open, because waiting is something a person can stop doing.",
+            "bn": "শেষ কথাটির ব্যাখ্যায় তাবারী সেটিকে রাখেন দর্শনের জায়গায় নয়, কাজের জায়গায়: আল্লাহ ভালোর তাওফীক দেন না তাদের, যারা তাঁর আনুগত্য ছেড়ে বেরিয়ে যায় আর তাঁর নাফরমানিতে থাকে। বাক্যটি এ কথা বলছে না যে তাদের উপর দরজা চিরতরে বন্ধ; বলছে, লোকটি যতক্ষণ ওই অবস্থায় থাকে ততক্ষণ তাকে কোন হিদায়াত দেওয়া হয় না। আর আয়াতের নিজের হুকুমটাই অবস্থাটা খোলা রেখে দেয়, কারণ অপেক্ষা করা এমন জিনিস যা মানুষ থামিয়ে দিতে পারে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Measure in a Hadith",
+          "bn": "হাদীসে সেই মাপ"
+        },
+        "p": [
+          {
+            "en": "The Sunnah states the same measure in one line and makes it a condition of faith rather than a counsel of excellence. Sahih al-Bukhari 15 has from Anas (RA) that the Prophet ﷺ said: none of you will have faith until he loves me more than his father, his children and all mankind. Two of the eight items in our verse appear there by name and a third phrase covers everyone else, and the standard is put where the verse puts it, not at the level of feeling but at the level of ranking.",
+            "bn": "সুন্নাহ একই মাপটা বলে দেয় এক লাইনে, আর সেটাকে বানায় ঈমানের শর্ত, উঁচু দরজার কোনো উপদেশ নয়। সহীহ বুখারীর ১৫ নম্বরে আনাস (রাঃ) থেকে আছে, নবী ﷺ বলেছেন: তোমাদের কারও ঈমান হবে না, যতক্ষণ না আমি তার কাছে তার পিতা, তার সন্তান আর সব মানুষের চেয়ে বেশি প্রিয় হই। আমাদের আয়াতের আটটি জিনিসের দুটি ওখানে নাম ধরে আসে, আর তৃতীয় কথাটি বাকি সবাইকে ঢেকে দেয়; আর মানটা রাখা হয় সেখানেই যেখানে আয়াত রাখে, অনুভবের স্তরে নয়, সারি ঠিক করার স্তরে।"
+          },
+          {
+            "en": "As-Sa'di draws the conclusion for both texts together, and it is the largest claim he makes anywhere on this verse: this noble verse is the greatest proof of the obligation of loving Allah and His Messenger ﷺ, and of giving that love precedence over the love of everything, and of the severe threat against whoever has any of these mentioned things more beloved to him than Allah and His Messenger and striving in His way. Love, in that reading, is a duty with an order in it and not only a feeling that visits.",
+            "bn": "সা'দী দুটি পাঠ একসঙ্গে নিয়ে সিদ্ধান্তটা টানেন, আর এ আয়াতের উপর তাঁর সবচেয়ে বড় দাবিটাই এটি: এ মর্যাদাবান আয়াতটি সবচেয়ে বড় দলিল, আল্লাহ আর তাঁর রাসূলকে ﷺ ভালোবাসা যে ওয়াজিব তার, আর সব কিছুর ভালোবাসার আগে সেই ভালোবাসাকে রাখা যে ওয়াজিব তার, আর যার কাছে এসব উল্লেখ করা জিনিসের কিছু একটা আল্লাহ, তাঁর রাসূল ﷺ আর তাঁর পথে জিহাদের চেয়ে বেশি প্রিয়, তার বিরুদ্ধে কঠিন হুঁশিয়ারির। এ পাঠে ভালোবাসা কেবল মাঝেমধ্যে এসে যাওয়া অনুভব নয়, এমন এক দায়িত্ব যার ভেতরে একটা সারি আছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses on Ranking Love",
+          "bn": "ভালোবাসার সারি নিয়ে আয়াত"
+        },
+        "p": [
+          {
+            "en": "2:165 states the principle the verse is testing: among people are those who take others as equals to Allah and love them as Allah should be loved, but those who believe are stronger in love for Allah. 3:14 lists the same pull with different furniture, women and sons and heaped-up gold and silver and branded horses and cattle and tilled land, and calls it the enjoyment of worldly life. The two together show that the Quran treats this as a matter of degree and direction rather than of permission.",
+            "bn": "আয়াত যে নীতিটি পরীক্ষা করছে, সেটি বলে দেয় ২:১৬৫: মানুষের মধ্যে এমনও আছে যারা আল্লাহ ছাড়া অন্যদের তাঁর সমকক্ষ বানায় আর আল্লাহকে যেভাবে ভালোবাসা উচিত সেভাবে তাদের ভালোবাসে; কিন্তু যারা ঈমান রাখে তারা আল্লাহর প্রতি ভালোবাসায় আরও দৃঢ়। ৩:১৪ আয়াত একই টানের তালিকা দেয় অন্য আসবাব দিয়ে, নারী, সন্তান, স্তূপ করা সোনা-রুপা, চিহ্নিত ঘোড়া, গবাদি পশু আর ফসলের জমি, আর সেটাকে বলে দুনিয়ার জীবনের ভোগ। দুটো মিলে দেখায়, কুরআন এটিকে অনুমতির বিষয় হিসেবে নয়, মাত্রা আর মুখের দিকের বিষয় হিসেবেই দেখে।"
+          },
+          {
+            "en": "63:9 turns it into an instruction, that your wealth and your children must not divert you from the remembrance of Allah, and names the ones who let that happen the losers. 64:15 gives the same two items their status, that your wealth and your children are but a trial, with a great reward kept with Allah. And 58:22, which Ibn Kathir brings to the verse before ours, describes the people who passed this test with faith written in their hearts.",
+            "bn": "৬৩:৯ আয়াত এটিকে বানিয়ে দেয় নির্দেশ, তোমাদের সম্পদ আর সন্তান যেন তোমাদের আল্লাহর স্মরণ থেকে সরিয়ে না দেয়; আর যারা সেটা হতে দেয় তাদের নাম দেয় ক্ষতিগ্রস্ত। ৬৪:১৫ আয়াত ওই দুটি জিনিসের অবস্থান বলে দেয়, তোমাদের সম্পদ আর সন্তান কেবলই পরীক্ষা, আর আল্লাহর কাছে রাখা আছে মহা প্রতিদান। আর ৫৮:২২ আয়াত, যেটি ইবনু কাসীর আমাদের আগের আয়াতের সঙ্গে আনেন, বর্ণনা করে সেই লোকদের যারা এ পরীক্ষায় উতরেছে, যাদের অন্তরে ঈমান লিখে দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ordering What You Love",
+          "bn": "যা ভালোবাসেন তা সারিতে বসানো"
+        },
+        "p": [
+          {
+            "en": "The practical force of the verse is that it never asks anyone to love less. It asks for an order, and an order only shows itself when two loves pull in different directions, which is rarely and not on an ordinary day. That is why the honest way to use this verse is not to search one's feelings but to look at decisions already made: the job kept, the move refused, the silence held at a family table, the prayer that lost its slot in a week that had room for everything else.",
+            "bn": "আয়াতের কাজের জোরটা এই যে সে কখনো কাউকে কম ভালোবাসতে বলে না। সে চায় একটা সারি, আর সারি নিজেকে দেখায় কেবল তখনই, যখন দুটি ভালোবাসা দুদিকে টানে; আর সেটা হয় কম, রোজকার দিনে হয় না। এ কারণেই এ আয়াত কাজে লাগানোর সৎ পথটা নিজের অনুভব খুঁজে বেড়ানো নয়, বরং আগেই নেওয়া সিদ্ধান্তগুলোর দিকে তাকানো: যে চাকরিটা রাখা হলো, যে বদলিটা নাকচ করা হলো, পরিবারের আসরে যে চুপ থাকাটা ধরে রাখা হলো, আর যে নামাযটা এমন এক সপ্তাহে জায়গা হারাল যে সপ্তাহে বাকি সবের জন্যই জায়গা ছিল।"
+          },
+          {
+            "en": "The trade clause is the most modern-sounding thing in the list, because it names a fear about the future rather than a present loss. Nothing had gone wrong for the people it describes; they were holding on because something might. Anyone who has stayed in a wrong arrangement because of what leaving might cost has met the verse at exactly that point, and the verse's own answer to it is the one at-Tabari records: what they were told to wait for arrived, and it took their reason away.",
+            "bn": "তালিকার মধ্যে সবচেয়ে আধুনিক শোনায় ব্যবসার কথাটাই, কারণ সে নাম নেয় ভবিষ্যৎ নিয়ে একটি ভয়ের, বর্তমানের কোনো ক্ষতির নয়। যাদের কথা বলা হচ্ছে তাদের কিছুই বিগড়ায়নি; তারা আঁকড়ে ছিল কারণ কিছু বিগড়াতে পারে। ছেড়ে দিলে কী খরচ হবে সেই ভয়ে কোনো ভুল বন্দোবস্তে যিনি থেকে গেছেন, তিনি আয়াতের সঙ্গে ঠিক এ জায়গাতেই মিলেছেন; আর আয়াতের নিজের জবাবটা সেটাই, যা তাবারী লিখে রাখেন: যার অপেক্ষা করতে বলা হয়েছিল সেটা এসেছিল, আর এসে তাদের কারণটাই কেড়ে নিয়েছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking for the Right Order",
+          "bn": "ঠিক সারিটা চেয়ে নেওয়া"
+        },
+        "p": [
+          {
+            "en": "The verse gives no supplication and its imperative is a warning rather than a prayer, so what belongs here is the thing the Quran does put in a believer's mouth about love. 2:165 names the mark of those who pass, stronger in love for Allah, and it is that strength, not the removal of any other affection, that a person would ask for. The eight things on the scale are meant to be kept, provided for and enjoyed; only their order is at issue.",
+            "bn": "আয়াতে কোনো দোয়া নেই, আর এর হুকুমটাও দোয়া নয়, হুঁশিয়ারি; কাজেই এখানে যা মানায় তা হলো ভালোবাসা নিয়ে কুরআন মু'মিনের মুখে যা তুলে দেয়। ২:১৬৫ আয়াত যারা উতরায় তাদের চিহ্নের নাম দেয়, আল্লাহর প্রতি ভালোবাসায় আরও দৃঢ়; আর মানুষ চাইবে সেই দৃঢ়তাটাই, অন্য কোনো টান সরিয়ে দেওয়া নয়। পাল্লার ওই আটটি জিনিস রাখারই জন্য, দেখাশোনা করার জন্য আর ভোগ করার জন্য; প্রশ্ন কেবল ওগুলোর সারি নিয়ে।"
+          },
+          {
+            "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, make Yourself and Your Messenger ﷺ more beloved to me than the eight things You named, without taking one of them from me. It is assembled from the verse's own scale, and it is not a Sunnah du'a. The hadith quoted above is a statement about faith rather than a prayer, and is to be carried as a measure.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আপনি যে আটটি জিনিসের নাম নিয়েছেন তার চেয়ে আপনাকে আর আপনার রাসূলকে ﷺ আমার কাছে বেশি প্রিয় করে দিন, আর ওগুলোর একটিও আমার কাছ থেকে নিয়ে না নিয়েই। এটি আয়াতের নিজের পাল্লা থেকে গড়া, আর এটি সুন্নাহর দোয়া নয়। উপরে তোলা হাদীসটি দোয়া নয়, ঈমান নিয়ে একটি কথা, আর সেটাকে বহন করতে হবে মাপ হিসেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About the Eight",
+          "bn": "আটটি নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Of the eight, which one is mine? Not the one I would defend in an argument, but the one that actually decides how my week is spent. Every item on the list is legitimate, so have I been judging my attachments by whether they are permitted rather than by where they stand in the order? And the verse names a trade whose decline is feared rather than one that failed: what am I afraid of losing, and what is that fear already making me do?",
+            "bn": "আটটির মধ্যে কোনটি আমার? তর্কে আমি কোনটির পক্ষ নিতাম তা নয়, বরং আমার সপ্তাহ কীভাবে খরচ হবে তা আসলে কোনটি ঠিক করে দেয়। তালিকার প্রতিটি জিনিসই বৈধ; তাহলে আমি কি নিজের টানগুলোকে বিচার করেছি সেগুলো জায়েজ কি না তা দিয়ে, সারিতে কে কোথায় আছে তা দিয়ে নয়? আর আয়াত নাম নেয় এমন ব্যবসার, যার মন্দার ভয় হয়, ডুবে যাওয়া ব্যবসার নয়: আমি কী হারানোর ভয় পাই, আর সেই ভয় এখনই আমাকে কী করাচ্ছে?"
+          },
+          {
+            "en": "Two more. Those who fail the test are told to wait, and what they were waiting for arrived as the loss of the thing they had stayed for: what am I waiting for, and would I recognise it if it came in that shape? And nothing in the verse asks me to feel less for anyone, so what would change tomorrow if the order were put right and every affection left exactly as it is?",
+            "bn": "আরও দুটি। যারা পরীক্ষায় হারে তাদের অপেক্ষা করতে বলা হয়, আর তারা যার অপেক্ষা করছিল সেটা এসেছিল তারা যার জন্য থেকে গিয়েছিল সেটাই হারানোর চেহারায়: আমি কীসের অপেক্ষায় আছি, আর সেটা যদি ওই চেহারায় আসে আমি কি চিনতে পারব? আর আয়াতের কোথাও আমাকে কারও প্রতি কম অনুভব করতে বলা হয়নি; তাহলে সারিটা ঠিক করে দিলে আর প্রতিটি টান ঠিক যেমন আছে তেমন রেখে দিলে কাল কী বদলাত?"
+          }
+        ]
+      }
+    ]
+  },
   "9:40": {
     "sections": [
       {
