@@ -6503,6 +6503,166 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Standing firm in the place you took is weighty business; note that both exceptions the next verse allows still keep a man facing the fight.",
     "lessonBn": "যে জায়গায় দাঁড়িয়েছেন সেখানে টিকে থাকা হালকা কথা নয়; খেয়াল করুন, পরের আয়াত যে দুটো ব্যতিক্রম রাখে, দুটোতেই মুখ লড়াইয়ের দিকেই থাকে।"
+  },
+  "7:128": {
+    "reflectionEn": "Pharaoh has just announced that the killing of the sons will resume. Musa's entire answer to his people is three words in Arabic: seek help through Allah, and be patient. Then, in place of a plan, he states a fact about ownership. The earth belongs to Allah, and He causes whom He wills of His servants to inherit it. That does not deny that Pharaoh runs the land today. It denies that he owns it. And the closing words do not promise them the land at all. They say the outcome belongs to those who keep their duty, which leaves who will be standing at the end unnamed, and puts taqwa rather than survival in front of the listener as the thing to work on.",
+    "reflectionBn": "ফিরআউন সদ্যই ঘোষণা দিয়েছে, ছেলেসন্তান হত্যা আবার শুরু হবে। মূসা (আঃ) নিজের লোকদের যা বললেন, আরবিতে তা মাত্র তিনটি শব্দ: আল্লাহর কাছে সাহায্য চাও, আর ধৈর্য ধরো। এরপর কোনো পরিকল্পনা নয়, তিনি মালিকানার একটা কথা জানিয়ে দেন। যমীন আল্লাহর, আর বান্দাদের মধ্যে যাকে চান তাকেই তিনি এর উত্তরাধিকারী বানান। আজ ফিরআউনের হাতে দেশ চলছে, কথাটা তা অস্বীকার করছে না। অস্বীকার করছে এটাই যে দেশটা তার নিজের। আর শেষ কথাগুলো তাদের যমীনের ওয়াদাই দিচ্ছে না। বলছে, শুভ পরিণাম তাদের যারা তাকওয়া নিয়ে চলে। শেষে কে দাঁড়িয়ে থাকবে তা নাম ধরে বলা হয়নি। শোনার লোকের সামনে কাজ হিসেবে রাখা হয়েছে টিকে থাকা নয়, তাকওয়া।",
+    "pointsEn": [
+      "Where am I holding on right now without having actually asked Allah for help in words?",
+      "When I do ask, am I asking Him, or am I telling Him about the people I want moved?",
+      "Musa gave his people no date and no plan. Could I live with an instruction that came with neither?",
+      "The verse promises the outcome to the God-fearing, not to the wronged. Which of those two am I working on?",
+      "What am I treating as somebody's permanent property that the verse says is only on loan to him?"
+    ],
+    "pointsBn": [
+      "এখন কোথায় আমি শুধু কষ্ট করে টিকে আছি, কিন্তু মুখ ফুটে আল্লাহর কাছে সাহায্য চাইনি?",
+      "যখন চাই, তখন কি আমি তাঁর কাছেই চাই, নাকি যাদের নড়ানো দরকার তাদের কথা তাঁকে শোনাই?",
+      "মূসা (আঃ) তাদের কোনো তারিখ দেননি, কোনো পরিকল্পনাও দেননি। এ দুটোর একটাও ছাড়া আসা হুকুম নিয়ে কি আমি চলতে পারতাম?",
+      "আয়াতটি শুভ পরিণামের ওয়াদা দিচ্ছে মুত্তাকীদের, মজলুমদের নয়। এ দুইয়ের কোনটা নিয়ে আমি কাজ করছি?",
+      "কার কোন জিনিসকে আমি তার চিরস্থায়ী সম্পত্তি ধরে নিয়েছি, যেটা আয়াত বলছে তার কাছে কেবল ধার দেওয়া আছে?"
+    ],
+    "lessonEn": "Go and get your help from the One who owns the ground, hold on while He decides who inherits it, and remember the end was promised to taqwa rather than to survival.",
+    "lessonBn": "যিনি এ মাটির মালিক তাঁর কাছ থেকেই সাহায্য নিয়ে আসুন, উত্তরাধিকার কার হবে তা তিনি ঠিক করা পর্যন্ত ধরে থাকুন, আর মনে রাখুন শুভ পরিণামের ওয়াদা টিকে থাকার নয়, তাকওয়ার।"
+  },
+  "7:137": {
+    "reflectionEn": "The sea has closed over Pharaoh and the next sentence is a handover. The people who had been kept weak are made to inherit the easts and the wests of the land that Allah had blessed, and the good word of their Lord was completed for them. The reason given is their patience and nothing else. Then the verse turns and demolishes the other side of the ledger, the works and the buildings Pharaoh and his people had raised. Two estates change hands in one verse, one by inheritance and one by ruin. And the deed is not issued for suffering. It is issued against the thing they did while they suffered.",
+    "reflectionBn": "সমুদ্র ফিরআউনের উপর বন্ধ হয়ে গেছে, আর পরের বাক্যটাই হাতবদলের। যাদের দুর্বল করে রাখা হয়েছিল তাদের উত্তরাধিকারী বানানো হলো সেই যমীনের পূর্ব আর পশ্চিমের, যাতে আল্লাহ কল্যাণ রেখেছিলেন, আর তাদের রবের কল্যাণময় অঙ্গীকার পূর্ণ হলো। কারণ হিসেবে বলা হলো একটাই কথা, তাদের ধৈর্য। এরপর আয়াত ঘুরে দাঁড়িয়ে হিসাবের অন্য দিকটা গুঁড়িয়ে দেয়, ফিরআউন আর তার লোকজন যা গড়েছিল আর যা তুলেছিল সবটা। এক আয়াতের ভেতরে দুটো সম্পত্তি হাতবদল হয়, একটা উত্তরাধিকারে, একটা ধ্বংসে। আর দলিলটা কষ্ট পাওয়ার জন্য লেখা হয়নি। লেখা হয়েছে কষ্টের ভেতরে তারা যা করেছিল তার জন্য।",
+    "pointsEn": [
+      "What do I hold today that somebody before me was patient for, and do I know their name?",
+      "Which of my two patiences is weaker: the one under pressure, or the one under instruction when the pressure is gone?",
+      "The verse names patience as the reason, not suffering. Which of the two have I been counting on?",
+      "If what I am building were listed the way Pharaoh's works were listed, what would be on the list?",
+      "What did I ask for as soon as a hard season ended, and would I ask for the same thing today?"
+    ],
+    "pointsBn": [
+      "আজ আমার হাতে যা আছে, তার জন্য আমার আগে কে ধৈর্য ধরেছিল, আর তার নামটা কি আমি জানি?",
+      "আমার দুই ধৈর্যের কোনটা দুর্বল: চাপের নিচের ধৈর্য, নাকি চাপ চলে যাওয়ার পর হুকুম মানার ধৈর্য?",
+      "আয়াত কারণ হিসেবে বলছে ধৈর্যকে, কষ্টকে নয়। আমি এ দুইয়ের কোনটার উপর ভরসা করে আছি?",
+      "ফিরআউনের গড়া জিনিসের যেভাবে তালিকা হলো, আমি যা গড়ছি তারও যদি সেভাবে তালিকা হয়, তাতে কী কী থাকবে?",
+      "কঠিন সময়টা শেষ হওয়ার সঙ্গে সঙ্গে আমি কী চেয়ে বসেছিলাম, আর আজও কি সেটাই চাইতাম?"
+    ],
+    "lessonEn": "The land changed hands because of what the oppressed did under the oppression, not because of the oppression, and the patience that counted most was the patience after the pressure lifted.",
+    "lessonBn": "যমীন হাতবদল হয়েছিল জুলুমের কারণে নয়, জুলুমের নিচে মজলুমরা যা করেছিল তার কারণে। আর সবচেয়ে বেশি গোনা হয়েছিল সেই ধৈর্য, যা চাপ সরে যাওয়ার পরের ধৈর্য।"
+  },
+  "7:141": {
+    "reflectionEn": "Musa's people have just asked him for an idol of their own, and this is the sentence the Quran sets against the request. Remember when We saved you from the people of Pharaoh, who were loading you with the worst of torment, killing your sons and keeping your women alive. Nothing is argued. A memory is produced, and it is a memory of what had been done inside their own households. Then the last clause refuses to call it only a cruelty. In that, it says, was a great trial from your Lord. The rescue and the years before it are put on one bill and handed to people who had forgotten both almost as soon as they were across.",
+    "reflectionBn": "মূসার (আঃ) লোকেরা সদ্যই তাঁর কাছে নিজেদের জন্য দেবতা চেয়ে বসেছে, আর এ আর্জির বিপরীতে কুরআন যে বাক্যটি রাখে তা এটাই। স্মরণ করো, আমি তোমাদের ফিরআউনী গোষ্ঠী থেকে রক্ষা করেছিলাম, যারা তোমাদের কঠিনতম আযাবে ডুবিয়ে রেখেছিল, তোমাদের ছেলেদের হত্যা করছিল আর নারীদের জীবিত রাখছিল। কোনো তর্ক করা হয় না। একটা স্মৃতি সামনে আনা হয়, আর সেটা তাদের নিজেদের ঘরের ভেতরে যা ঘটেছিল তারই স্মৃতি। এরপর শেষ অংশটি এটাকে শুধু নিষ্ঠুরতা বলতে রাজি হয় না। বলে, এতে ছিল তোমাদের রবের পক্ষ থেকে এক কঠিন পরীক্ষা। উদ্ধার আর তার আগের বছরগুলো এক হিসাবে তোলা হয়, আর ধরিয়ে দেওয়া হয় এমন লোকদের হাতে, যারা সমুদ্র পার হওয়ার প্রায় সঙ্গে সঙ্গেই দুটোই ভুলে গিয়েছিল।",
+    "pointsEn": [
+      "What was I brought out of that I could not have come out of by myself, and when did I last say so in words?",
+      "Can I hold the rescue and the hard years before it in one sentence, or have I kept only one of the two?",
+      "What do I go looking for when I see other people's arrangements appearing to work?",
+      "The verse calls the whole thing a trial from my Lord. Which part of my own history have I refused to file under that?",
+      "If a rescue I have already been given were read back to me as a bill, what would I find I still owed on it?"
+    ],
+    "pointsBn": [
+      "কোন জিনিস থেকে আমাকে বের করে আনা হয়েছে, যেখান থেকে নিজে কখনো বের হতে পারতাম না? আর শেষ কবে মুখে তা বলেছি?",
+      "উদ্ধার আর তার আগের কঠিন বছরগুলো কি আমি এক বাক্যে ধরে রাখতে পারি, নাকি দুইয়ের একটাই রেখেছি?",
+      "অন্যের ব্যবস্থাপত্র কাজ করছে দেখলে আমি কী খুঁজতে বেরিয়ে পড়ি?",
+      "আয়াত গোটা ব্যাপারটাকে আমার রবের পক্ষ থেকে পরীক্ষা বলছে। নিজের ইতিহাসের কোন অংশটা আমি এ ঘরে তুলতে রাজি হইনি?",
+      "আমাকে যে উদ্ধার আগেই দেওয়া হয়েছে, সেটা যদি হিসাবের কাগজ হিসেবে আমার সামনে পড়া হয়, তাতে আমার কী বাকি আছে বলে দেখতাম?"
+    ],
+    "lessonEn": "Keep the rescue and the cost of the years before it in the same sentence; a memory that carries only one of the two will not hold you when somebody else's god looks convenient.",
+    "lessonBn": "উদ্ধার আর তার আগের বছরগুলোর দামটা একই বাক্যে ধরে রাখুন। যে স্মৃতি দুইয়ের একটাই বহন করে, অন্য কারো মাবুদকে সুবিধাজনক মনে হওয়ার দিনে সেটা আপনাকে ধরে রাখতে পারবে না।"
+  },
+  "7:150": {
+    "reflectionEn": "He already knew. Allah had told him that his people had been tested and the Samiri had led them astray, so the anger in this verse is not surprise. It is what a man feels arriving at a thing he has been warned about. He speaks first to the people, seven Arabic words of rebuke. Then he throws the tablets and takes hold of his brother's head. Harun (AS) gets the longer speech, and it is a defence rather than an excuse: the people overpowered me and were about to kill me, so do not let the enemies rejoice over me, and do not place me among the wrongdoing people. The Quran keeps the whole scene, the grip and the answer both.",
+    "reflectionBn": "তিনি আগেই জানতেন। আল্লাহ তাঁকে জানিয়ে দিয়েছিলেন যে তাঁর জাতিকে পরীক্ষায় ফেলা হয়েছে আর সামিরী তাদের গুমরাহ করেছে। কাজেই এ আয়াতের ক্রোধ বিস্ময় নয়। যে জিনিসের কথা আগে থেকে জানিয়ে দেওয়া হয়েছে, সেটার সামনে এসে পড়লে মানুষের যা হয়, এটা তাই। তিনি প্রথমে কথা বলেন লোকদের সঙ্গে, আরবিতে সাত শব্দের ভর্ৎসনা। এরপর ফলকগুলো ছুঁড়ে ফেলেন আর ভাইয়ের মাথা ধরে টানেন। লম্বা কথাটা পান হারূন (আঃ), আর তা কোনো অজুহাত নয়, আত্মপক্ষ: লোকেরা আমাকে দুর্বল করে দিয়েছিল আর আমাকে হত্যা করতে উদ্যত হয়েছিল, কাজেই আমার ব্যাপারে দুশমনদের আনন্দিত হওয়ার সুযোগ দিও না, আর আমাকে যালিম সম্প্রদায়ের মধ্যে গণ্য করো না। কুরআন গোটা দৃশ্যটাই রেখে দেয়, ধরে টানাটাও, জবাবটাও।",
+    "pointsEn": [
+      "When I come home to something that has gone wrong in my absence, who gets the first of it: the people who did it, or the person I left in charge?",
+      "Harun (AS) asked not to be counted with the wrongdoers. Whom have I lumped in with a group they did not belong to?",
+      "What was the last thing I said or broke in anger that I then had to ask forgiveness for?",
+      "He asked forgiveness for himself and for his brother in one breath. Which of those two do I find harder to say out loud?",
+      "Being told in advance did not cool this arrival. What am I walking towards already knowing, and how do I want to arrive?"
+    ],
+    "pointsBn": [
+      "আমার অনুপস্থিতিতে কিছু গড়বড় হয়ে গেছে, এমন জায়গায় ফিরে এসে প্রথম ধাক্কাটা কে পায়: যারা কাজটা করেছে, নাকি যাকে আমি দায়িত্বে রেখে গিয়েছিলাম?",
+      "হারূন (আঃ) চেয়েছিলেন তাঁকে যালিমদের সঙ্গে গোনা না হোক। কাকে আমি এমন দলের সঙ্গে গুনে ফেলেছি, যে দলের সে ছিল না?",
+      "রাগের মাথায় শেষ কোন কথাটা বলেছিলাম বা কোন জিনিসটা ভেঙেছিলাম, যার জন্য পরে ক্ষমা চাইতে হয়েছে?",
+      "তিনি এক নিঃশ্বাসে নিজের জন্য আর ভাইয়ের জন্য মাফ চেয়েছিলেন। এ দুটোর কোনটা মুখে বলা আমার বেশি কঠিন লাগে?",
+      "আগে থেকে জানা থাকা এ ফেরাটাকে ঠান্ডা করেনি। কোন জিনিসের দিকে আমি জেনেশুনেই হেঁটে যাচ্ছি, আর সেখানে পৌঁছাতে চাই কীভাবে?"
+    ],
+    "lessonEn": "Speak to the people who did it before you reach for the one you left in charge, and when the anger has spoken, ask forgiveness for yourself and for him in one sentence.",
+    "lessonBn": "যাকে দায়িত্বে রেখে গিয়েছিলেন তার দিকে হাত বাড়ানোর আগে যারা কাজটা করেছে তাদের সঙ্গে কথা বলুন। আর রাগ তার কথা বলে ফেলার পর একই বাক্যে নিজের জন্য আর তার জন্য মাফ চান।"
+  },
+  "7:160": {
+    "reflectionEn": "Twelve tribes, and twelve springs. The verse opens by naming an arrangement: they were cut into twelve peoples, each one with its own edges. Then water is needed, a staff strikes a stone, and twelve springs come out of it, one for each. Every people knew its watering place, so nobody had to fight for a drink. After the water come the cloud that shaded them, the manna and the quails, and a command that is really a permission: eat of the good things We have provided you. Then the verse ends where nobody expects. They did not wrong Us, but they were wronging themselves. Everything listed had been arranged, and the only damage anyone did was to himself.",
+    "reflectionBn": "বারোটি গোত্র, আর বারোটি ঝর্ণা। আয়াতের শুরুতেই একটা বন্দোবস্ত: তাদের বারো ভাগে ভাগ করা হয়েছিল, প্রত্যেক দলের নিজের সীমানা। এরপর পানির দরকার পড়ল। লাঠির আঘাত পড়ল পাথরে, আর তাত্থেকে বারোটি ঝর্ণা বেরিয়ে এল, প্রতি গোত্রের জন্য একটি। প্রত্যেকে নিজের পানের জায়গা চিনে নিল, তাই এক ঢোক পানির জন্য কারও কাড়াকাড়ি করতে হল না। পানির পরে এল মেঘের ছায়া, মান্না আর সালওয়া, আর এমন এক হুকুম যা আসলে অনুমতি: আমি যে ভালো জিনিস দিয়েছি তা খাও। তারপর আয়াতটি শেষ হয় এমন জায়গায় যা কেউ ভাবেনি। তারা আমার উপর যুলম করেনি, যুলম করেছে নিজেদের উপরই। সবটাই সাজানো ছিল, আর ক্ষতি যা হয়েছে তা কেবল নিজেরই।",
+    "pointsEn": [
+      "Which of the things arranged in my day have I stopped seeing, only because it arrives on time?",
+      "Where am I jostling for something that has already been portioned out to me?",
+      "When provision comes easily, do I thank the One who arranged it, or only admire the arrangement?",
+      "What have I been calling a loss to God when this verse would call it a loss to me?",
+      "If the good things come with a command to use them, am I actually eating them?"
+    ],
+    "pointsBn": [
+      "আমার দিনের সাজানো জিনিসগুলোর কোনটা আমি আর চোখেই দেখি না, কেবল সময়মতো আসে বলে?",
+      "কোন জিনিসের জন্য আমি ঠেলাঠেলি করছি, যা আগেই আমার ভাগে লিখে দেওয়া হয়েছে?",
+      "রিযিক সহজে এলে আমি কি যিনি সাজিয়েছেন তাঁর শুকরিয়া করি, নাকি কেবল সাজানোটার তারিফ করি?",
+      "কোন ক্ষতিটাকে আমি আল্লাহর ক্ষতি ভাবছি, যাকে এই আয়াত বলবে আমার নিজেরই ক্ষতি?",
+      "ভালো জিনিসগুলো যদি ব্যবহারের হুকুমের সঙ্গেই আসে, আমি কি সত্যিই সেগুলো খাচ্ছি?"
+    ],
+    "lessonEn": "Your share was portioned out before you were thirsty; ingratitude never reaches Him, it only reaches you.",
+    "lessonBn": "তৃষ্ণা পাওয়ার আগেই আপনার ভাগ লেখা হয়ে গেছে; নাশোকরি আল্লাহর গায়ে লাগে না, লাগে আপনার নিজের গায়ে।"
+  },
+  "7:166": {
+    "reflectionEn": "This is the shortest verse in the sabbath passage, and by the time it arrives the sin has already been named twice. 7:163 says they transgressed in the matter of the sabbath. 7:165 says they forgot the reminder given to them, that those who forbade the evil were saved, and that the wrongdoers were seized. Only then comes this: so when they were insolent about that which they had been forbidden, We said to them, Be apes, despised. The forbidding had already happened, and been repeated, and been ignored. What the verse punishes is not a first slip but a settled insolence toward a limit that was perfectly well known.",
+    "reflectionBn": "শনিবারের পর্বে এটিই সবচেয়ে ছোট আয়াত, আর এটি আসার আগেই গুনাহটির নাম দুবার বলা হয়ে গেছে। ৭:১৬৩ বলে, তারা শনিবারের সীমা লঙ্ঘন করেছিল। ৭:১৬৫ বলে, তাদের দেওয়া উপদেশ তারা ভুলে গেল, যারা মন্দ কাজে নিষেধ করত তারা রক্ষা পেল, আর যালিমদের পাকড়াও করা হলো। এরপরই আসে এই কথা: যখন তারা ধৃষ্টতা দেখিয়ে সেই কাজই করতে থাকল যা করতে তাদের নিষেধ করা হয়েছিল, তখন তাদের বললাম, ঘৃণিত বানর হয়ে যাও। নিষেধ আগেই এসেছিল, বারবার এসেছিল, আর কানে তোলা হয়নি। আয়াতটি প্রথম ভুলের শাস্তি দেয় না; শাস্তি দেয় ভালোভাবে জানা এক সীমার প্রতি জেদি ধৃষ্টতাকে।",
+    "pointsEn": [
+      "Which limit do I already know about and step over anyway, telling myself each time that it is small?",
+      "When someone reminds me of something I already know, does the reminder soften me or make me defend myself?",
+      "Am I in the group that forbids the wrong, the group that does it, or the group that watches and says nothing?",
+      "What would have to change for me to hear a warning the first time it is given?",
+      "When I read about a punished people, do I point the verse at myself or at somebody else?"
+    ],
+    "pointsBn": [
+      "কোন সীমাটা আমি জেনেও পার হই, আর প্রতিবার নিজেকে বলি এ তো ছোট ব্যাপার?",
+      "জানা কথা কেউ মনে করিয়ে দিলে সেই মনে করানো আমাকে নরম করে, নাকি আত্মপক্ষে দাঁড় করিয়ে দেয়?",
+      "আমি কোন দলে, যারা মন্দে নিষেধ করে, যারা মন্দ কাজটা করে, নাকি যারা দেখে আর চুপ থাকে?",
+      "সতর্কবাণী প্রথমবারেই কানে তোলার জন্য আমার ভেতরে কী বদলাতে হবে?",
+      "শাস্তিপ্রাপ্ত জাতির কথা পড়লে আয়াতটি আমি নিজের দিকে তাক করি, নাকি অন্য কারও দিকে?"
+    ],
+    "lessonEn": "What this verse punishes is hardened insolence toward a limit you already knew, not a first mistake; read it as a warning aimed at yourself.",
+    "lessonBn": "আপনার জানা সীমার প্রতি জেদি ধৃষ্টতাকেই আয়াতটি শাস্তি দেয়, প্রথম ভুলকে নয়; এটি পড়ুন নিজের দিকে তাক করা সতর্কবাণী হিসেবে।"
+  },
+  "7:170": {
+    "reflectionEn": "7:169 has just described the generation that inherited the Book and took the cheap goods of this lower life, telling themselves it will be forgiven for us, and it ends by asking whether they will not use reason. Then comes this verse, one line long, and it gives the other kind of heir. But those who hold fast to the Book and establish prayer: indeed, We will not allow to be lost the reward of the reformers. Two things are named, one a grip and one a standing, and the reward at the end is promised not to the merely righteous but to the reformers, the people who leave something better than they found it.",
+    "reflectionBn": "৭:১৬৯ সদ্য বলে গেল সেই বংশের কথা, যারা কিতাবের উত্তরাধিকারী হয়ে দুনিয়ার সস্তা স্বার্থ তুলে নিল আর নিজেদের বলল, আমাদের তো মাফ করে দেওয়া হবে; আয়াতটি শেষ হয় এই প্রশ্নে, তোমরা কি বুঝবে না। এরপর আসে এই আয়াত, মাত্র এক লাইনের, আর এটি দেখায় আরেক রকম উত্তরাধিকারী। যারা কিতাবকে শক্তভাবে আঁকড়ে ধরে আর নামায কায়েম করে, আমি সৎকর্মশীলদের কর্মফল কখনো বিনষ্ট করি না। দুটি জিনিসের নাম এখানে, একটি ধরে থাকা আর একটি দাঁড়ানো; আর শেষের প্রতিশ্রুতি কেবল ভালো মানুষের জন্য নয়, তাদের জন্য যারা জিনিসটাকে যেমন পেয়েছিল তার চেয়ে ভালো করে রেখে যায়।",
+    "pointsEn": [
+      "Am I holding the Book with both hands, or keeping it near me and rarely opening it?",
+      "Which of today's prayers did I establish, and which one did I only get through?",
+      "Where does my life leave something better than it was, and where does it only leave no damage?",
+      "What good work have I stopped doing because I could not see it producing anything?",
+      "If inheriting a Book is not enough, what would actually count as holding it?"
+    ],
+    "pointsBn": [
+      "আমি কি কিতাবকে দুই হাতে ধরে আছি, নাকি কাছে রেখে দিয়েছি আর খুলি কম?",
+      "আজকের কোন নামাযটা আমি কায়েম করলাম, আর কোনটা কেবল কাটিয়ে দিলাম?",
+      "আমার জীবন কোথায় কিছু জিনিস আগের চেয়ে ভালো করে রাখে, আর কোথায় কেবল ক্ষতি না করেই শেষ হয়?",
+      "কোন ভালো কাজটা আমি ছেড়ে দিয়েছি, কারণ তার কোনো ফল চোখে পড়ছিল না?",
+      "কিতাবের উত্তরাধিকারী হওয়াই যদি যথেষ্ট না হয়, তবে ধরে থাকা বলতে আসলে কী বোঝায়?"
+    ],
+    "lessonEn": "Hold the Book with both hands and stand up in prayer; the reward of those who put things right is never allowed to be lost.",
+    "lessonBn": "কিতাবকে দুই হাতে ধরুন আর নামাযে দাঁড়ান; যারা জিনিসটা ঠিক করে রেখে যায়, তাদের কর্মফল কখনো নষ্ট হতে দেওয়া হয় না।"
+  },
+  "7:184": {
+    "reflectionEn": "Two verses earlier the surah said it would lead the deniers on step by step, and 7:183 added that He gives them time. Then the line turns on them with a question. Then do they not give thought? There is in their companion no madness. He is not but a clear warner. Notice which word the verse picks for the Prophet ﷺ: their companion, the man who has lived among them. The evidence they need is not new information, it is the person they already know. And the charge is not answered with an argument about prophethood but with a plain statement of what he ﷺ is doing, which is warning them, clearly.",
+    "reflectionBn": "দুই আয়াত আগে সূরা বলেছিল, অস্বীকারকারীদের ধাপে ধাপে টেনে নেওয়া হবে, আর ৭:১৮৩ যোগ করেছিল, তিনি তাদের সময় দেন। তারপর কথাটা তাদের দিকে ঘুরে দাঁড়ায় এক প্রশ্ন নিয়ে। তারা কি চিন্তা-ভাবনা করে না? তাদের সঙ্গীর ভেতরে উন্মাদনার কিছুই নেই। সে তো প্রকাশ্য এক সতর্ককারী। খেয়াল করুন, নবী ﷺ-এর জন্য আয়াত কোন শব্দটা বাছল: তাদের সঙ্গী, যে লোক তাদের মধ্যেই থেকেছে। তাদের যে প্রমাণ দরকার তা নতুন কোনো খবর নয়, তা সেই মানুষটিই যাকে তারা আগে থেকেই চেনে। আর অপবাদের জবাব দেওয়া হচ্ছে নবুওয়াত নিয়ে তর্ক দিয়ে নয়, বরং তিনি ﷺ কী করছেন সেই সোজা কথাটা দিয়ে, অর্থাৎ স্পষ্ট করে সতর্ক করছেন।",
+    "pointsEn": [
+      "What do I already know about the Prophet ﷺ that I have never actually sat down and thought about?",
+      "When something uncomfortable is said to me, do I examine the claim or look for a reason to dismiss the person?",
+      "Where am I reading the time I have been given as proof that nothing is coming?",
+      "If someone watched my ordinary week closely, would it argue for what I say I believe?",
+      "What would change today if I heard a clear warning as a kindness rather than an insult?"
+    ],
+    "pointsBn": [
+      "নবী ﷺ সম্পর্কে এমন কী আমি আগেই জানি, যা নিয়ে কখনো বসে ভাবিইনি?",
+      "অস্বস্তিকর কোনো কথা শুনলে আমি কি কথাটা পরখ করি, নাকি বক্তাকে উড়িয়ে দেওয়ার কারণ খুঁজি?",
+      "আমাকে যে সময় দেওয়া হয়েছে, কোথায় আমি তাকে পড়ছি এই প্রমাণ হিসেবে যে কিছুই আসছে না?",
+      "আমার সাধারণ একটা সপ্তাহ কেউ কাছ থেকে দেখলে তা কি আমার দাবি করা বিশ্বাসের পক্ষে দাঁড়াত?",
+      "স্পষ্ট সতর্কবাণীকে অপমান নয়, বরং দয়া হিসেবে শুনলে আজ কী বদলাত?"
+    ],
+    "lessonEn": "Their evidence was the man they had lived with; the verse asks only that they think, and describes the Prophet ﷺ as nothing more than a clear warner.",
+    "lessonBn": "তাদের প্রমাণ ছিল সেই মানুষটিই যার সঙ্গে তারা থেকেছে; আয়াত কেবল ভাবতে বলে, আর নবী ﷺ-এর পরিচয় দেয় স্পষ্ট এক সতর্ককারী হিসেবেই।"
   }
 };
 
