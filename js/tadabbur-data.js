@@ -7023,6 +7023,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Everything in the promise is listed and then outranked by His approval; if Paradise is pictured only as a place, the best thing in it has been left out.",
     "lessonBn": "ওয়াদার সবটাই গোনা হয়, তারপর তাঁর সন্তুষ্টি সেটাকে ছাপিয়ে যায়। জান্নাতকে যদি কেবল একটা জায়গা হিসেবে ভাবা হয়, তবে তার সবচেয়ে ভালো জিনিসটাই বাদ পড়ে গেছে।"
+  },
+  "9:79": {
+    "reflectionEn": "Two kinds of giver are mocked here and the mockery works both ways. The one who gives generously is accused of showing off; the one who has nothing but his own effort to give is told his contribution was not needed. No amount is safe, which is the giveaway: the objection was never really about the amount. Then the verse answers in kind and says Allah mocks them, and adds a painful punishment. Notice who is defended. Not the rich man's reputation, but two people who had already handed over what they had.",
+    "reflectionBn": "এখানে দুই ধরনের দাতাকে বিদ্রূপ করা হয়, আর বিদ্রূপটা কাজ করে দুদিকেই। যে খোলা হাতে দেয় তার নামে অভিযোগ ওঠে লোক দেখানোর; আর যার দেওয়ার মতো নিজের পরিশ্রম ছাড়া কিছুই নেই, তাকে বলা হয় তার দানের দরকারই ছিল না। কোনো পরিমাণই নিরাপদ নয়, আর এতেই আসল কথাটা ধরা পড়ে: আপত্তিটা কখনোই পরিমাণ নিয়ে ছিল না। এরপর আয়াত জবাব দেয় একই ভাষায়, বলে আল্লাহ তাদের বিদ্রূপ করেন, আর যোগ করে যন্ত্রণাদায়ক শাস্তি। খেয়াল করুন কাদের পক্ষ নেওয়া হলো। ধনী লোকের সুনামের নয়, বরং এমন দুজনের, যারা নিজেদের যা ছিল তা ততক্ষণে হাতে তুলে দিয়ে ফেলেছে।",
+    "pointsEn": [
+      "Have I ever explained somebody else's good deed by a motive I could not possibly know?",
+      "No amount escaped the objection here. When I find fault with how somebody gives, is the amount really what I am reacting to?",
+      "The small giver was told his gift was not needed. Have I ever made someone feel that what they could manage was not worth bringing?",
+      "The mockery required watching other people closely. How much of my attention goes to auditing what others do for Allah?",
+      "The verse defends people who had already given. What would I have to give away before this verse was defending me?"
+    ],
+    "pointsBn": [
+      "অন্য কারও ভালো কাজের ব্যাখ্যা আমি কি কখনো এমন নিয়ত দিয়ে দিয়েছি, যা আমার জানার কোনো উপায়ই ছিল না?",
+      "এখানে কোনো পরিমাণই আপত্তি থেকে বাঁচেনি। কেউ কীভাবে দেয় তা নিয়ে আমি দোষ ধরতে গেলে, পরিমাণটাই কি সত্যিই আমার প্রতিক্রিয়ার কারণ?",
+      "ছোট দাতাকে বলা হয়েছিল তার দানের দরকার ছিল না। কাউকে কি আমি কখনো এমন বোধ করিয়েছি যে সে যতটা পারল তা আনার মতোই নয়?",
+      "এ বিদ্রূপ করতে অন্য মানুষদের খুব কাছ থেকে নজরে রাখা লাগত। আল্লাহর জন্য অন্যরা কী করছে তা যাচাই করায় আমার মনোযোগের কতটা যায়?",
+      "আয়াত পক্ষ নেয় এমন লোকদের, যারা ইতিমধ্যেই দিয়ে দিয়েছে। এ আয়াত আমার পক্ষ নেওয়ার আগে আমাকে কী দিয়ে দিতে হতো?"
+    ],
+    "lessonEn": "When no amount would have satisfied the objection, the objection was never about the amount; and the verse takes the side of whoever has already given.",
+    "lessonBn": "যখন কোনো পরিমাণেই আপত্তি মিটত না, তখন আপত্তিটা কখনোই পরিমাণ নিয়ে ছিল না। আর আয়াত পক্ষ নেয় তার, যে ইতিমধ্যেই দিয়ে দিয়েছে।"
   }
 };
 

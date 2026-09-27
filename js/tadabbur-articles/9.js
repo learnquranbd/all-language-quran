@@ -1651,6 +1651,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:79": {
+    "sections": [
+      {
+        "h": {
+          "en": "Both Givers, Both Mocked",
+          "bn": "দুই দাতা, দুজনেই বিদ্রূপের শিকার"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan and this verse names a habit rather than an incident. 9:78 has just asked whether they did not know that Allah knows their secrets and their private conversations, and 9:80 will tell the Prophet ﷺ that asking forgiveness for them seventy times would change nothing. Between those two our verse records what they had been saying about other people's charity, and it records both halves of it, because the same mouths objected to generosity and to poverty.",
+            "bn": "সূরা তাওবা মাদানী, আর এ আয়াত নাম নেয় একটি অভ্যাসের, কোনো একটি ঘটনার নয়। ৯:৭৮ আয়াত সদ্য জিজ্ঞেস করেছে, তারা কি জানে না যে আল্লাহ তাদের গোপন কথা আর গোপন পরামর্শ জানেন; আর ৯:৮০ আয়াত নবীকে ﷺ বলবে, তাদের জন্য সত্তরবার ক্ষমা চাইলেও কিছু বদলাবে না। এ দুয়ের মাঝখানে আমাদের আয়াত লিখে রাখে অন্য মানুষের দান নিয়ে তারা কী বলত, আর লিখে রাখে তার দুই অর্ধেকই; কারণ একই মুখগুলো আপত্তি তুলত উদারতা নিয়েও, দারিদ্র্য নিয়েও।"
+          },
+          {
+            "en": "At-Tabari sets out the two objections in their own words. Of the volunteers who gave to the poor and needy beyond what Allah had made obligatory in their wealth, they said: they only gave it for show and reputation, and did not intend the Face of Allah. And of those who found nothing to give except their effort, which at-Tabari glosses as their capacity, they belittled them and said: Allah was not in need of these people's charity. Two sentences, and between them no amount is left that would have passed.",
+            "bn": "তাবারী দুটি আপত্তিই তাদের নিজেদের ভাষায় সাজিয়ে দেন। যে স্বেচ্ছাদাতারা আল্লাহ তাদের সম্পদে যা ফরজ করেননি তার বাইরেও অভাবী আর মিসকীনদের দিয়েছিল, তাদের সম্পর্কে তারা বলত: এরা কেবল লোক দেখানো আর নাম কেনার জন্যই দিয়েছে, আল্লাহর সন্তুষ্টি চায়নি। আর যারা নিজেদের পরিশ্রম ছাড়া দেওয়ার মতো কিছুই পায়নি, যেটার ব্যাখ্যায় তাবারী বলেন তাদের সামর্থ্য, তাদের তারা ছোট করত আর বলত: এদের দানের জন্য আল্লাহর কোনো দরকার ছিল না। দুটি বাক্য, আর এ দুয়ের মাঝখানে এমন কোনো পরিমাণ থাকে না যা পাস করত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Scene in Bukhari",
+          "bn": "বুখারীতে সেই দৃশ্য"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir brings the occasion from the Sahih and it is the whole verse in miniature. Sahih al-Bukhari 1415 preserves from Abu Mas'ud (RA): when the verses of charity were revealed, we used to work as porters. A man came and distributed charity in abundance, and they said, he is showing off. Another man came and gave a sa', a small measure of grain, and they said, Allah is not in need of this small amount of charity. Then the verse was revealed. Ibn Kathir notes that Muslim collected it too.",
+            "bn": "ইবনু কাসীর শানে নুযূলটি আনেন সহীহ থেকে, আর সেটি গোটা আয়াতেরই ছোট্ট চেহারা। সহীহ বুখারীর ১৪১৫ নম্বরে আবূ মাসঊদ (রাঃ) থেকে রক্ষিত আছে: দান নিয়ে আয়াত নামল যখন, আমরা তখন মুটের কাজ করতাম। একজন এসে খোলা হাতে দান বিলিয়ে দিল, আর তারা বলল, এ লোক লোক দেখাচ্ছে। আরেকজন এসে দিল এক সা', শস্যের ছোট এক মাপ, আর তারা বলল, এই সামান্য দানের জন্য আল্লাহর কোনো দরকার নেই। এরপর আয়াতটি নামল। ইবনু কাসীর লিখে রাখেন, মুসলিমও এটি সংকলন করেছেন।"
+          },
+          {
+            "en": "The detail that carries the most weight is the one the narrator gives about himself, not about the mockers: we used to work as porters. The man who gave a single measure of grain had carried loads to get it, and the narration is told by one of those carriers. What the objection called negligible had been earned on somebody's back, which is also what at-Tabari's gloss of effort means when he renders it as capacity.",
+            "bn": "সবচেয়ে বেশি ওজন বহন করে যে খুঁটিনাটিটা, তা বর্ণনাকারী নিজের সম্পর্কে বলেন, বিদ্রূপকারীদের সম্পর্কে নয়: আমরা তখন মুটের কাজ করতাম। যে লোক এক মাপ শস্য দিয়েছিল, সেটা জোগাড় করতে তাকে বোঝা টানতে হয়েছিল; আর বর্ণনাটি বলছেন সেই বোঝা টানা লোকদেরই একজন। আপত্তিটা যাকে তুচ্ছ বলল, সেটা কামানো হয়েছিল কারও পিঠের উপর; আর তাবারী পরিশ্রমের ব্যাখ্যায় যখন সামর্থ্য বলেন, তখন তিনিও এ কথাই বলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Names in the Reports",
+          "bn": "বর্ণনায় আসা নামগুলো"
+        },
+        "p": [
+          {
+            "en": "At-Tabari carries reports naming the people on the other side of the mockery. The volunteers are said to be Abd ar-Rahman ibn Awf (RA) and Asim ibn Adi al-Ansari (RA), and the one who found nothing but his effort is named as Abu Aqil al-Arashi, of the brothers of Banu Unayf. The chain for it runs from Ibn Abbas (RA) through Ali and Mu'awiyah, and it begins with Abd ar-Rahman ibn Awf (RA) coming to the Prophet ﷺ with forty uqiyah of gold.",
+            "bn": "তাবারী এমন বর্ণনা আনেন যেগুলো বিদ্রূপের উল্টো পাশের লোকদের নাম নেয়। স্বেচ্ছাদাতা হিসেবে বলা হয় আবদুর রহমান ইবনু আউফ (রাঃ) আর আসিম ইবনু আদী আল-আনসারীর (রাঃ) নাম; আর যে নিজের পরিশ্রম ছাড়া কিছুই পায়নি, তার নাম আসে আবূ আকীল আল-আরাশী, বানূ উনাইফের ভাইদের একজন। এর সনদ যায় ইবনু আব্বাস (রাঃ) থেকে আলী আর মুআবিয়ার সূত্রে, আর সেটি শুরু হয় আবদুর রহমান ইবনু আউফের (রাঃ) নবীর ﷺ কাছে চল্লিশ উকিয়া সোনা নিয়ে আসা দিয়ে।"
+          },
+          {
+            "en": "The names are worth having for one reason: they make the mockery concrete. It was not a general suspicion about anonymous donors but a remark made about identifiable men, one of them among the wealthiest Companions and one of them a man with nothing to bring but a day's carrying. A verse came down about it, which is the measure of how seriously the matter was taken.",
+            "bn": "নামগুলো জেনে রাখার একটাই কারণ: এগুলো বিদ্রূপটাকে বাস্তব করে তোলে। এটা নাম না জানা কোনো দাতাদের নিয়ে সাধারণ কোনো সন্দেহ ছিল না, বরং চেনা লোকদের নিয়ে বলা কথা; যাদের একজন সাহাবীদের মধ্যে সবচেয়ে ধনীদের একজন, আর একজন এমন লোক যার আনার মতো কিছুই ছিল না, ছিল কেবল এক দিনের বোঝা টানা। এ নিয়ে একটি আয়াত নেমেছিল, আর ব্যাপারটা কত গুরুত্ব দিয়ে নেওয়া হয়েছিল তার মাপ ওটাই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What They Gathered in One Remark",
+          "bn": "এক কথায় তারা যা জমা করল"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di frames it as one of the disgraces of the hypocrites and describes the pattern without softening it: when Allah and His Messenger ﷺ urged charity, the Muslims hastened to it and gave of their wealth each according to his state, some much and some little; so they found fault with the one who gave much, saying his aim was display, and said to the poor man who gave little that Allah had no need of his charity. Then he says Allah met them for their deed, which is how he reads the clause about mockery.",
+            "bn": "সা'দী এটিকে সাজান মুনাফিকদের লজ্জাগুলোর একটি হিসেবে, আর ধরনটার বর্ণনা দেন নরম না করেই: আল্লাহ আর তাঁর রাসূল ﷺ দানের তাগিদ দিলে মুসলিমরা সেদিকে ছুটল আর যার যেমন অবস্থা সে তেমন দিল, কেউ বেশি কেউ কম; তাই যে বেশি দিল তার দোষ ধরল এ বলে যে তার উদ্দেশ্য লোক দেখানো, আর যে গরিব লোকটি কম দিল তাকে বলল, তার দানের জন্য আল্লাহর কোনো দরকার নেই। এরপর তিনি বলেন, আল্লাহ তাদের কাজের জবাব তাদেরই ধরনে দিলেন; বিদ্রূপের কথাটি তিনি এভাবেই পড়েন।"
+          },
+          {
+            "en": "He then itemises what a single remark of that kind contains. It involves following up the states of the believers and being eager to find something to say about them, and for that he cites 24:19, that those who love immorality to be spread among the believers will have a painful punishment. It involves impugning believers on account of their faith, which he calls disbelief and hatred of the religion. And it involves lamz, fault-finding, which he says is among the major sins in worldly matters and is fouler still when the thing being mocked is an act of obedience.",
+            "bn": "এরপর তিনি খুলে বলেন, এ ধরনের একটি কথার ভেতরে কী কী থাকে। এতে থাকে মু'মিনদের অবস্থার পিছে পিছে লেগে থাকা আর তাদের নিয়ে বলার মতো কিছু পাওয়ার জন্য উদগ্রীব থাকা; আর এর জন্য তিনি দেখান ২৪:১৯ আয়াত, যারা চায় মু'মিনদের মধ্যে অশ্লীলতা ছড়িয়ে পড়ুক তাদের জন্য যন্ত্রণাদায়ক শাস্তি। এতে থাকে মু'মিনদের তাদের ঈমানের কারণে খোঁচা দেওয়া, আর সেটাকে তিনি বলেন কুফরী আর দীনের প্রতি বিদ্বেষ। আর এতে থাকে লাময, অর্থাৎ দোষ ধরা; তিনি বলেন, দুনিয়াবি বিষয়েও এটি কবীরা গুনাহগুলোর একটি, আর যে জিনিসটা নিয়ে বিদ্রূপ করা হচ্ছে সেটা যদি আনুগত্যের কাজ হয় তবে তা আরও জঘন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Mocked in Kind",
+          "bn": "একই ধরনে জবাব"
+        },
+        "p": [
+          {
+            "en": "The verse's answer uses their own verb: so they ridicule them, Allah ridicules them. At-Tabari notes that he has explained elsewhere the manner in which Allah mocks those of His creation who mock, and does not repeat it here, which is a discipline worth copying. The clause is not elaborated, and the verse moves straight to consequence: and for them is a painful punishment, which at-Tabari glosses as a punishment from Allah on the Day of Resurrection, aching and painful.",
+            "bn": "আয়াতের জবাব ব্যবহার করে তাদেরই ক্রিয়া: তারা তাদের বিদ্রূপ করে, আল্লাহ তাদের বিদ্রূপ করেন। তাবারী লিখে রাখেন, নিজের সৃষ্টির মধ্যে যারা বিদ্রূপ করে তাদের সঙ্গে আল্লাহর বিদ্রূপের ধরনটা তিনি অন্য জায়গায় বুঝিয়ে দিয়েছেন, আর এখানে সেটা আর পুনরাবৃত্তি করছেন না; আর এ সংযমটা নকল করার মতো। কথাটি নিয়ে আর বিস্তার করা হয় না, আর আয়াত সোজা চলে যায় পরিণামে: আর তাদের জন্য যন্ত্রণাদায়ক শাস্তি, যার ব্যাখ্যায় তাবারী বলেন, কিয়ামতের দিন আল্লাহর পক্ষ থেকে ব্যথা দেওয়া কষ্টকর শাস্তি।"
+          },
+          {
+            "en": "What the verse does not do is defend the givers by proving their sincerity. It does not say the generous man was not showing off, and it does not say the poor man's measure of grain was needed. It moves the question away from the gift altogether and puts it on the people who were watching, which is the only place where anything could be established.",
+            "bn": "আয়াত যা করে না তা হলো দাতাদের নিয়ত প্রমাণ করে তাদের পক্ষ নেওয়া। সে বলে না যে উদার লোকটি লোক দেখাচ্ছিল না, আর বলে না যে গরিব লোকটির ওই এক মাপ শস্যের দরকার ছিল। সে প্রশ্নটাকে দান থেকে সরিয়েই নিয়ে যায়, আর বসিয়ে দেয় যারা তাকিয়ে দেখছিল তাদের উপর; আর কেবল ওই এক জায়গাতেই কিছু প্রমাণ করা সম্ভব ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses on Ridicule",
+          "bn": "বিদ্রূপ নিয়ে আয়াত"
+        },
+        "p": [
+          {
+            "en": "49:11 states the general prohibition and gives the reason inside it: let not a people ridicule another people, perhaps they may be better than them, nor let women ridicule other women, perhaps they may be better than them. The clause about perhaps is the answer to the mockery in our verse, since neither objection could have been made by anyone who took seriously that the person being mocked might be the better of the two.",
+            "bn": "৪৯:১১ আয়াত সাধারণ নিষেধটি বলে দেয়, আর কারণটাও তার ভেতরেই রাখে: কোনো সম্প্রদায় যেন অন্য সম্প্রদায়কে ঠাট্টা না করে, হতে পারে তারা তাদের চেয়ে উত্তম; আর নারীরা যেন অন্য নারীদের ঠাট্টা না করে, হতে পারে তারা তাদের চেয়ে উত্তম। হতে পারে কথাটিই আমাদের আয়াতের বিদ্রূপের জবাব, কারণ যে লোক সত্যিই আমলে নেয় যে যাকে বিদ্রূপ করা হচ্ছে সে দুজনের মধ্যে উত্তম হতে পারে, সে এ দুটি আপত্তির কোনোটিই তুলতে পারত না।"
+          },
+          {
+            "en": "9:58 shows the same people complaining about the distribution of the charities rather than about the giving, so the surah has them on both ends of the same transaction. 2:271 answers the first objection from another direction, that disclosing charity is good and concealing it is better, which grants that visibility carries a risk without granting that it settles a motive. And 24:19 is the verse as-Sa'di brought against the eagerness to find something to say.",
+            "bn": "৯:৫৮ আয়াত একই লোকদের দেখায় সদকা বণ্টন নিয়ে অভিযোগ করতে, দান করা নিয়ে নয়; অর্থাৎ সূরা তাদের একই লেনদেনের দুই প্রান্তেই দাঁড় করিয়ে দেয়। ২:২৭১ আয়াত প্রথম আপত্তিটার জবাব দেয় অন্য দিক থেকে, দান প্রকাশ করা ভালো আর গোপন করা আরও ভালো; এতে মেনে নেওয়া হয় যে প্রকাশে একটা ঝুঁকি আছে, তবে এটা মেনে নেওয়া হয় না যে তাতে নিয়তের ফয়সালা হয়ে যায়। আর ২৪:১৯ সেই আয়াত, যা সা'দী এনেছিলেন বলার মতো কিছু খোঁজার আগ্রহের বিরুদ্ধে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Auditing Other People's Deeds",
+          "bn": "অন্যের আমল যাচাই করা"
+        },
+        "p": [
+          {
+            "en": "The verse is practical in a narrow and uncomfortable way, because the behaviour it describes requires attention. Someone had to be watching who put what in, and comparing, and then explaining other people's motives from outside. As-Sa'di names that as the first item in the list: following up the states of the believers and being eager to find something to say. It is a use of attention rather than a slip of the tongue, and it can be measured by how much of a person's noticing goes that way.",
+            "bn": "আয়াতটি কাজের, তবে সংকীর্ণ আর অস্বস্তিকরভাবে; কারণ সে যে আচরণের বর্ণনা দেয় তাতে মনোযোগ লাগে। কাউকে তাকিয়ে দেখতে হয়েছে কে কী দিল, তুলনা করতে হয়েছে, তারপর বাইরে থেকে অন্য মানুষের নিয়তের ব্যাখ্যা দিতে হয়েছে। সা'দী তালিকার প্রথম জিনিস হিসেবে এটারই নাম নেন: মু'মিনদের অবস্থার পিছে লেগে থাকা আর বলার মতো কিছু পাওয়ার জন্য উদগ্রীব থাকা। এটা জিহ্বার পিছলে যাওয়া নয়, মনোযোগের একটা ব্যবহার; আর এটা মাপা যায় এ দিয়ে যে মানুষের খেয়াল করার কতটা ওই দিকে যায়।"
+          },
+          {
+            "en": "The second use is for the person being watched. The verse defends two givers without establishing anything about either of their intentions, which means a giver has no obligation to prove his sincerity to the people commenting on it. And the man with a single measure of grain is defended in the same sentence as the man with forty uqiyah of gold, so the smallness of what somebody can manage is not a reason to keep it at home.",
+            "bn": "দ্বিতীয় ব্যবহারটা যাকে দেখা হচ্ছে তার জন্য। আয়াত দুই দাতার পক্ষ নেয়, তবে তাদের কারও নিয়ত সম্পর্কে কিছুই প্রমাণ করে না; মানে যারা মন্তব্য করছে তাদের কাছে নিজের নিষ্ঠা প্রমাণ করার কোনো দায় দাতার নেই। আর এক মাপ শস্যের লোকটির পক্ষ নেওয়া হয় চল্লিশ উকিয়া সোনার লোকটির সঙ্গে একই বাক্যেই; কাজেই কেউ যতটা পারে সেটা ছোট হওয়া তা ঘরে রেখে দেওয়ার কোনো কারণ নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer Before You Comment",
+          "bn": "মন্তব্য করার আগে এক দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse gives no supplication; it gives a warning to onlookers. The nearest thing the Quran puts beside it is the clause in 49:11, perhaps they may be better than them, which is not a prayer either but functions as one if a person says it before speaking. Held in mind it removes the ground the two objections in this verse were standing on.",
+            "bn": "আয়াতে কোনো দোয়া নেই; আছে দর্শকদের উদ্দেশে একটি হুঁশিয়ারি। কুরআন এর পাশে যা রাখে তা ৪৯:১১ আয়াতের সেই কথাটি, হতে পারে তারা তাদের চেয়ে উত্তম; সেটাও দোয়া নয়, তবে কেউ মুখ খোলার আগে সেটা বলে নিলে দোয়ার কাজই করে। মনে ধরে রাখলে সেটা এ আয়াতের দুটি আপত্তি যে জমিনের উপর দাঁড়িয়ে ছিল, সেই জমিনটাই সরিয়ে নেয়।"
+          },
+          {
+            "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, do not let me find fault with anyone for what he gave You, whether it was much or all he had. It is assembled from the verse's two objections, and it is not a Sunnah du'a. The wording of 49:11 is the safer of the two to carry, and it has the advantage of being a command, which does not need to be believed in order to be obeyed.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, কেউ আপনাকে যা দিয়েছে তার জন্য তার দোষ ধরতে আমাকে দেবেন না, সেটা অনেক হোক আর তার সর্বস্ব হোক। এটি আয়াতের দুটি আপত্তি জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। ৪৯:১১ আয়াতের শব্দগুলোই দুটোর মধ্যে বহন করার জন্য বেশি নিরাপদ, আর তার সুবিধা এই যে সেটা একটি হুকুম, আর হুকুম মানতে সেটা বিশ্বাস করার দরকার পড়ে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Commentary",
+          "bn": "নিজের মন্তব্য নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Have I ever explained somebody else's good deed by a motive I had no way of knowing? No amount escaped the objection in this verse, so when I find fault with how somebody gives, is the amount really what I am reacting to? And the small giver was told his gift was not needed: have I ever made a person feel that what they could manage was not worth bringing?",
+            "bn": "অন্য কারও ভালো কাজের ব্যাখ্যা আমি কি কখনো এমন নিয়ত দিয়ে দিয়েছি, যা জানার কোনো উপায়ই আমার ছিল না? এ আয়াতে কোনো পরিমাণই আপত্তি থেকে বাঁচেনি; তাহলে কেউ কীভাবে দেয় তা নিয়ে আমি দোষ ধরতে গেলে পরিমাণটাই কি সত্যিই আমার প্রতিক্রিয়ার কারণ? আর ছোট দাতাকে বলা হয়েছিল তার দানের দরকার ছিল না: কাউকে কি আমি কখনো এমন বোধ করিয়েছি যে সে যতটা পারল তা আনার মতোই নয়?"
+          },
+          {
+            "en": "Two more. The mockery took attention to keep up, since somebody had to notice who gave what: how much of my noticing goes to auditing what other people do for Allah? And the verse takes the side of people who had already handed over what they had: what would I have to give away before this verse was on my side rather than describing me?",
+            "bn": "আরও দুটি। এ বিদ্রূপ চালিয়ে যেতে মনোযোগ লাগত, কারণ কাউকে খেয়াল রাখতে হয়েছে কে কী দিল: আল্লাহর জন্য অন্যরা কী করছে তা যাচাই করায় আমার খেয়াল করার কতটা যায়? আর আয়াত পক্ষ নেয় সেই লোকদের, যারা নিজেদের যা ছিল তা ততক্ষণে হাতে তুলে দিয়েছে: এ আয়াত আমার বর্ণনা না দিয়ে আমার পক্ষ নেওয়ার আগে আমাকে কী দিয়ে দিতে হতো?"
+          }
+        ]
+      }
+    ]
+  },
   "9:105": {
     "sections": [
       {
