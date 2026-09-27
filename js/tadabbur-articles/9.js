@@ -1083,6 +1083,146 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:55": {
+    "sections": [
+      {
+        "h": {
+          "en": "After the Refused Charity",
+          "bn": "ফিরিয়ে দেওয়া দানের পরে"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan and this verse comes after a refusal. 9:53 tells them to spend willingly or unwillingly, it will never be accepted from them; 9:54 gives the reasons, that they disbelieved in Allah and His Messenger ﷺ, that they come to prayer only lazily, and that they spend only unwillingly. Then our verse turns from their money to the Prophet's ﷺ eye, and 9:56 shows them swearing they are of you while they are not, a people afraid.",
+            "bn": "সূরা তাওবা মাদানী, আর এ আয়াত আসে একটি প্রত্যাখ্যানের পরে। ৯:৫৩ আয়াত তাদের বলে, খুশিমনে দাও বা অনিচ্ছায়, তোমাদের থেকে তা কখনো কবুল হবে না; ৯:৫৪ আয়াত কারণগুলো দেয়, তারা আল্লাহ আর তাঁর রাসূলকে ﷺ অস্বীকার করেছে, নামাযে আসে কেবল শৈথিল্য নিয়ে, আর দান করে কেবল অনিচ্ছা নিয়ে। এরপর আমাদের আয়াত তাদের টাকা থেকে মুখ ফেরায় নবীর ﷺ চোখের দিকে, আর ৯:৫৬ আয়াত দেখায় তারা কসম করে বলছে তারা তোমাদেরই লোক, অথচ তারা নয়; আসলে তারা ভীত এক দল।"
+          },
+          {
+            "en": "The instruction itself is about looking rather than about them. Let not their wealth or their children impress you: an imperative addressed to the observer. Ibn Kathir reads it alongside two verses that do the same work, 20:131, do not extend your eyes toward what We have given various groups for enjoyment, the splendour of worldly life by which We test them; and 23:55-56, do they think that what We extend to them of wealth and children is because We hasten good things for them, rather they do not perceive.",
+            "bn": "নির্দেশটা নিজেই তাদের নিয়ে নয়, তাকানো নিয়ে। তাদের ধন-সম্পদ আর সন্তান তোমার চোখ ধাঁধিয়ে না দিক: হুকুমটা দর্শকের উদ্দেশে। ইবনু কাসীর এটিকে পড়েন এমন দুটি আয়াতের পাশে রেখে যারা একই কাজ করে; ২০:১৩১, তুমি চোখ বাড়িয়ে দিও না ওই সবের দিকে যা আমি তাদের বিভিন্ন দলকে ভোগের জন্য দিয়েছি, দুনিয়ার জীবনের সৌন্দর্য, যা দিয়ে আমি তাদের পরীক্ষা করি; আর ২৩:৫৫-৫৬, তারা কি ভাবে আমি তাদের যে সম্পদ আর সন্তান দিয়ে বাড়িয়ে দিই তা তাদের জন্য কল্যাণ ত্বরান্বিত করা, না, তারা বুঝে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Three Readings of One Clause",
+          "bn": "এক কথার তিন পাঠ"
+        },
+        "p": [
+          {
+            "en": "At-Tabari opens by saying plainly that the exegetes differed about the interpretation, and the difference is about when the punishment happens. On the first reading the clause in the life of this world belongs earlier in the sentence and the punishment is in the hereafter: let not their wealth or their children impress you in the life of this world, for Allah only intends to punish them with it in the hereafter. Qatadah calls it one of the transpositions of speech, and Ibn Abbas (RA) is reported to the same effect.",
+            "bn": "তাবারী শুরুতেই সোজাসুজি বলেন যে ব্যাখ্যা নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে, আর মতভেদটি শাস্তি কখন হবে তা নিয়ে। প্রথম পাঠে দুনিয়ার জীবনে কথাটি বাক্যের আগের অংশের সঙ্গে যায় আর শাস্তি হয় আখিরাতে: দুনিয়ার জীবনে তাদের ধন-সম্পদ আর সন্তান তোমার চোখ ধাঁধিয়ে না দিক, কারণ আল্লাহ কেবল চান আখিরাতে সেগুলো দিয়ে তাদের শাস্তি দিতে। কাতাদা এটিকে বলেন কথার স্থান বদলের একটি রূপ, আর ইবনু আব্বাস (রাঃ) থেকেও একই অর্থে বর্ণিত আছে।"
+          },
+          {
+            "en": "On the second reading the punishment is here, and it comes through the obligations. Al-Hasan is reported as glossing it: by the taking of the zakah and the expenditure in the path of Allah. Ibn Kathir gives the same meaning and attributes it to al-Hasan al-Basri. On that reading what looks like a tax to them is the punishment itself, because they part with what their hearts are attached to and get no reward for the parting.",
+            "bn": "দ্বিতীয় পাঠে শাস্তি এখানেই, আর সেটা আসে ফরজ দায়িত্বের ভেতর দিয়ে। হাসান থেকে বর্ণিত, তিনি এর ব্যাখ্যায় বলেন: যাকাত নেওয়া আর আল্লাহর পথে খরচ করার মাধ্যমে। ইবনু কাসীর একই অর্থ দেন আর সেটা হাসান বসরীর দিকে নিসবত করেন। এ পাঠে তাদের কাছে যা কর বলে মনে হয় সেটাই শাস্তি, কারণ যে জিনিসের সঙ্গে তাদের অন্তর জড়ানো সেটা তারা হাত থেকে দেয়, আর দেওয়ার কোনো প্রতিদানও পায় না।"
+          },
+          {
+            "en": "The third reading is Ibn Zayd's, and at-Tabari records it in one line that changes the subject: by the calamities in it, which are punishment for them and, for the believers, reward. The same event, the same loss, sorted by whose it is. None of the three readings is dismissed by at-Tabari, and a reader who holds all three at once has the verse's range: a settlement that may fall due later, or already be running through what is owed, or already be arriving as trouble.",
+            "bn": "তৃতীয় পাঠটি ইবনু যায়দের, আর তাবারী সেটি লিখে রাখেন এক লাইনে, যা প্রসঙ্গটাই বদলে দেয়: এর ভেতরের বিপদ-আপদ দিয়ে, যা তাদের জন্য শাস্তি, আর মু'মিনদের জন্য প্রতিদান। একই ঘটনা, একই ক্ষতি, ভাগ হয়ে যায় সেটা কার তা দিয়ে। তিনটি পাঠের একটিকেও তাবারী উড়িয়ে দেন না; আর যে পাঠক তিনটিই একসঙ্গে ধরে রাখেন, তাঁর হাতে থাকে আয়াতের গোটা পরিসর: এমন এক হিসাব, যা পরে দেনা হয়ে দাঁড়াতে পারে, কিংবা যা এখনই চলছে পাওনা জিনিসের ভেতর দিয়ে, কিংবা যা এখনই আসছে ঝামেলার চেহারায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What It Cost to Get",
+          "bn": "পেতে গিয়ে কী খরচ হলো"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di supplies a fourth account of the punishment, and it is the one a modern reader will recognise fastest. What is meant by the punishment here, he writes, is what reaches them of hardship in acquiring it and the intense striving for that, and the heart's preoccupation with it, and the body's fatigue. Then he weighs it: if you set their pleasures in it against their hardships in it, there would be no comparison between them.",
+            "bn": "শাস্তির চতুর্থ একটি ব্যাখ্যা দেন সা'দী, আর আধুনিক পাঠক সবচেয়ে দ্রুত চিনবেন এটিকেই। তিনি লেখেন, এখানে শাস্তি বলতে বোঝানো হচ্ছে সেটা জোগাড় করতে গিয়ে তাদের যে কষ্ট হয় আর সেজন্য যে কঠিন দৌড়াদৌড়ি, আর সেটা নিয়ে অন্তরের দুশ্চিন্তা, আর শরীরের ক্লান্তি। এরপর তিনি ওজন করেন: এতে তাদের যে সুখ আর এতে তাদের যে কষ্ট, দুটোকে পাশে রাখলে এদের মধ্যে কোনো তুলনাই হয় না।"
+          },
+          {
+            "en": "His conclusion follows from the arithmetic rather than from the threat: since it distracted them from Allah and His remembrance, it became a bane upon them even in this world. And the greatest of its banes, he says, is that their hearts become attached to it and their will does not travel beyond it, so it becomes the end of what they seek and the limit of what they want, and no share for the hereafter is left in their hearts. The verse's last clause is then not a separate punishment but the destination of that attachment.",
+            "bn": "তাঁর সিদ্ধান্তটা আসে হুমকি থেকে নয়, ওই হিসাব থেকেই: যেহেতু সেটা তাদের আল্লাহ আর তাঁর স্মরণ থেকে সরিয়ে রাখল, তাই সেটা দুনিয়াতেও তাদের জন্য বিপদ হয়ে দাঁড়াল। আর এর সবচেয়ে বড় বিপদ, তিনি বলেন, এই যে তাদের অন্তর সেটার সঙ্গে জড়িয়ে যায় আর তাদের ইচ্ছা সেটা ছাড়িয়ে আর কোথাও যায় না; তাই সেটাই হয়ে দাঁড়ায় তাদের চাওয়ার শেষ আর তাদের আকাঙ্ক্ষার সীমা, আর অন্তরে আখিরাতের জন্য কোনো ভাগই আর থাকে না। তাহলে আয়াতের শেষ কথাটি আলাদা কোনো শাস্তি নয়, ওই জড়িয়ে যাওয়ার গন্তব্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Souls That Depart Refusing",
+          "bn": "অস্বীকার নিয়েই বেরিয়ে যাওয়া প্রাণ"
+        },
+        "p": [
+          {
+            "en": "The verb in the closing clause is tazhaq, used of a soul going out under pressure, and the state named with it is unbelief. As-Sa'di ends his entry on it with a question rather than a statement: what punishment is greater than this one, which entails lasting wretchedness and a clinging regret? The wealth and children of the opening are not mentioned again, which is the point. They have done their work by then and the verse has followed them to where they led.",
+            "bn": "শেষ কথাটির ক্রিয়া তাযহাক, যা ব্যবহৃত হয় চাপের মুখে প্রাণ বেরিয়ে যাওয়া বোঝাতে; আর তার সঙ্গে যে অবস্থার নাম আসে তা কুফর। সা'দী নিজের আলোচনা এখানে শেষ করেন কোনো বক্তব্য দিয়ে নয়, একটি প্রশ্ন দিয়ে: এ শাস্তির চেয়ে বড় শাস্তি আর কী, যার সঙ্গে জড়িয়ে আছে চিরস্থায়ী দুর্ভাগ্য আর লেগে থাকা আফসোস? শুরুর সেই ধন-সম্পদ আর সন্তানের কথা আর একবারও আসে না, আর ওটাই আসল কথা। ততক্ষণে ওরা নিজেদের কাজ সেরে ফেলেছে, আর আয়াত ওদের পিছু পিছু গিয়ে পৌঁছেছে ওরা যেখানে নিয়ে গেছে সেখানেই।"
+          },
+          {
+            "en": "The whole sentence is repeated almost exactly at 9:85, thirty verses later, which is worth noticing for what it says about the surah's method rather than about the verse. A warning about admiring the comfortable is issued twice in one surah, in two different contexts, in nearly identical words. Whatever else it is, the repetition is a measure of how easily the mistake is made.",
+            "bn": "গোটা বাক্যটি প্রায় হুবহু আবার আসে ৯:৮৫ আয়াতে, ত্রিশ আয়াত পরে; আর এটা খেয়াল করার মতো, তবে আয়াতটার সম্পর্কে নয়, সূরার পদ্ধতির সম্পর্কে। আরামে থাকা লোকদের দেখে মুগ্ধ হওয়া নিয়ে হুঁশিয়ারি এক সূরাতেই দুবার দেওয়া হয়, দুটি আলাদা প্রসঙ্গে, প্রায় একই শব্দে। এ পুনরাবৃত্তি আর যা-ই হোক, এটা অন্তত এ ভুলটা কত সহজে হয় তার একটা মাপ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses About Being Given",
+          "bn": "দেওয়া হওয়া নিয়ে আয়াত"
+        },
+        "p": [
+          {
+            "en": "3:178 states the principle underneath all of this: let not those who disbelieve think that Our extending their time is better for them; We extend it only that they may increase in sin. That is the same structure as our verse, a gift read as favour and functioning as something else. 23:55-56 puts it as a question about perception, and ends by saying they do not perceive it, which is the detail that should make a reader cautious about his own case.",
+            "bn": "এ সবের নিচের নীতিটি বলে দেয় ৩:১৭৮ আয়াত: যারা কুফরী করে তারা যেন না ভাবে আমি তাদের অবকাশ দিচ্ছি বলে সেটা তাদের জন্য ভালো; আমি অবকাশ দিই কেবল যাতে তারা গুনাহে বাড়ে। এ গড়নটা আমাদের আয়াতেরই মতো, দান পড়া হচ্ছে অনুগ্রহ হিসেবে আর কাজ করছে অন্য কিছু হিসেবে। ২৩:৫৫-৫৬ আয়াত কথাটা রাখে বোঝা নিয়ে এক প্রশ্ন হিসেবে, আর শেষ করে এ কথা বলে যে তারা সেটা বুঝে না; আর এ খুঁটিনাটিটাই পাঠককে নিজের বেলায় সাবধান করে দেওয়া উচিত।"
+          },
+          {
+            "en": "20:131 gives the instruction in its gentlest form, addressed to the Prophet ﷺ himself, and adds the comparison our verse leaves out: the provision of your Lord is better and more enduring. And 8:28 with 64:15 give the same two nouns, wealth and children, their settled status in this vocabulary, that they are a trial, with a great reward kept elsewhere.",
+            "bn": "নির্দেশটির সবচেয়ে কোমল রূপ দেয় ২০:১৩১ আয়াত, আর সেটা বলা হয় নবীকে ﷺ নিজেকেই; আর সে যোগ করে সেই তুলনাটা, যা আমাদের আয়াত বলে না: তোমার রবের দেওয়া রিযক উত্তম আর বেশি টেকসই। আর ৮:২৮ আর ৬৪:১৫ আয়াত সেই একই দুটি শব্দ, সম্পদ আর সন্তান, তাদের এ শব্দভাণ্ডারে থিতু হওয়া অবস্থানটা দিয়ে দেয়, ওরা পরীক্ষা, আর মহা প্রতিদান রাখা আছে অন্য কোথাও।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reading Other People's Lives",
+          "bn": "অন্যের জীবন পড়া"
+        },
+        "p": [
+          {
+            "en": "The verse corrects the observer, which is the only person a reader can do anything about. It does not say the comfortable are hated or that comfort is a sign of anything; it forbids being impressed, and it gives a reason that has nothing to do with envy: the thing being admired is doing work its owner cannot see. Whether that work is the hardship of acquiring it, or the obligations it brings, or trouble that arrives as trouble, the mistake is the same mistake, reading a life from outside and calling it a verdict.",
+            "bn": "আয়াত শুধরে দেয় দর্শককে, আর পাঠক কেবল ওই একজনকে নিয়েই কিছু করতে পারেন। সে বলে না যে আরামে থাকা লোকদের ঘৃণা করা হয়, বা আরাম কোনো কিছুর চিহ্ন; সে নিষেধ করে মুগ্ধ হওয়া, আর কারণ দেয় এমন একটা, যার সঙ্গে হিংসার কোনো সম্পর্ক নেই: যে জিনিসটা দেখে মুগ্ধ হওয়া হচ্ছে, সেটা এমন কাজ করে চলেছে যা তার মালিক দেখতে পায় না। সে কাজ যদি হয় জোগাড় করার কষ্ট, কিংবা তার সঙ্গে আসা দায়িত্ব, কিংবা ঝামেলা হয়ে আসা ঝামেলা, ভুলটা একই ভুল, বাইরে থেকে একটা জীবন পড়ে সেটাকে রায় বলে ডাকা।"
+          },
+          {
+            "en": "Turned inward it is sharper. As-Sa'di's arithmetic can be run on one's own year: set what a pursuit has given against what it has taken in sleep, temper, attention and time that was owed elsewhere. And his warning about the will that does not travel beyond the thing is testable too, because a person can ask what he would still want if this one matter were settled tomorrow, and notice how little comes to mind.",
+            "bn": "নিজের দিকে ফিরিয়ে দিলে এটা আরও ধারালো। সা'দীর সেই হিসাবটা নিজের এক বছরের উপরেই কষে দেখা যায়: কোনো দৌড় যা দিয়েছে আর যা নিয়েছে, ঘুম, মেজাজ, মনোযোগ আর অন্য কোথাও পাওনা ছিল এমন সময়ের হিসাবে, দুটোকে পাশে রাখুন। আর ইচ্ছা যে জিনিসটা ছাড়িয়ে আর কোথাও যায় না, তাঁর সেই হুঁশিয়ারিটাও যাচাই করা যায়; কারণ মানুষ নিজেকে জিজ্ঞেস করতে পারে, এ একটা বিষয় কাল মিটে গেলে সে তখনো কী চাইত, আর খেয়াল করতে পারে কত অল্প কিছুই মনে আসে।"
+          },
+          {
+            "en": "Ibn Zayd's reading has the most immediate use of the three, because it applies to a day rather than to a life. The same loss, he says, is punishment for one man and reward for another, which means the event itself settles nothing and the sorting happens in how it is received. That is worth remembering in both directions: a hard week is not evidence of anyone's standing, mine or my neighbour's, and the only part of it I can affect is which of the two things it turns into in my hands.",
+            "bn": "তিনটির মধ্যে সবচেয়ে হাতের কাছের কাজটা ইবনু যায়দের পাঠেই, কারণ সেটা খাটে একটা গোটা জীবনের উপর নয়, একটা দিনের উপর। তিনি বলেন, একই ক্ষতি একজনের জন্য শাস্তি আর আরেকজনের জন্য প্রতিদান; অর্থাৎ ঘটনাটা নিজে কিছুই ঠিক করে দেয় না, ভাগটা হয় সেটা কীভাবে নেওয়া হলো তার ভেতরে। এটা দুদিকেই মনে রাখার মতো: কঠিন একটা সপ্তাহ কারও অবস্থানের দলিল নয়, আমার নয়, পাশের বাড়ির লোকেরও নয়; আর এর যে অংশটার উপর আমার হাত আছে তা কেবল এই, আমার হাতে সেটা ওই দুটোর কোনটা হয়ে দাঁড়ায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer About Your Eyes",
+          "bn": "নিজের চোখ নিয়ে দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse gives no supplication, and the nearest thing the Quran puts beside it is the sentence 20:131 adds after the same instruction: the provision of your Lord is better and more enduring. Said as a reminder rather than a request, it is the exact counterweight to being impressed, because it does not deny that what the other man has is good; it says only that something else is better and lasts longer.",
+            "bn": "আয়াতে কোনো দোয়া নেই, আর কুরআন এর পাশে যা রাখে তা ২০:১৩১ আয়াতের সেই বাক্যটি, যা একই নির্দেশের পরে যোগ করা হয়: তোমার রবের দেওয়া রিযক উত্তম আর বেশি টেকসই। অনুরোধ হিসেবে নয়, মনে করিয়ে দেওয়া হিসেবে বললে এটাই মুগ্ধ হওয়ার ঠিক পাল্টা ওজন; কারণ সে অস্বীকার করে না যে অন্য লোকটির কাছে যা আছে তা ভালো; সে কেবল বলে, অন্য একটা জিনিস তার চেয়ে ভালো আর বেশি দিন থাকে।"
+          },
+          {
+            "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, do not let my eyes settle on what You have given somebody else, and do not let what You have given me become the thing I am punished by. It is assembled from the verse's opening imperative and as-Sa'di's gloss on its middle clause, and it is not a Sunnah du'a. The wording of 20:131 is the safer of the two to carry.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আপনি অন্য কাউকে যা দিয়েছেন তার উপর আমার চোখ থিতু হতে দেবেন না; আর আপনি আমাকে যা দিয়েছেন, সেটাকে সেই জিনিস হয়ে যেতে দেবেন না যা দিয়ে আমাকে শাস্তি দেওয়া হয়। এটি আয়াতের শুরুর হুকুম আর তার মাঝের কথাটির উপর সা'দীর ব্যাখ্যা জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। ২০:১৩১ আয়াতের শব্দগুলোই দুটোর মধ্যে বহন করার জন্য বেশি নিরাপদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About What Impresses You",
+          "bn": "কী আপনাকে মুগ্ধ করে তা নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Whose life impresses me at the moment, and what exactly is it that impresses me about it? The verse corrects the admiration rather than the other person's situation, so what would change in a week if I stopped ranking people by their circumstances? And something I am chasing may already be charging me: what has this year's pursuit taken from my sleep, my temper and my attention?",
+            "bn": "এখন কার জীবন আমার চোখ ধাঁধিয়ে দেয়, আর ঠিক কোন জিনিসটা আমাকে সেখানে মুগ্ধ করে? আয়াত শুধরে দেয় মুগ্ধতাকে, অন্য লোকের অবস্থাকে নয়; তাহলে মানুষকে তাদের অবস্থা দিয়ে সারিতে বসানো ছেড়ে দিলে এক সপ্তাহে কী বদলাত? আর যে জিনিসের পেছনে আমি দৌড়াচ্ছি সেটা হয়তো এখনই আমার কাছ থেকে দাম নিচ্ছে: এ বছরের দৌড় আমার ঘুম, আমার মেজাজ আর আমার মনোযোগ থেকে কী নিয়েছে?"
+          },
+          {
+            "en": "Two more. The end the verse names is a soul departing while still refusing, so what in my life is pleasant enough that I would rather not examine where it is taking me? And the people described cannot see this while they are holding it: who is close enough to me to say something like it about my own hands, and would I actually listen if they did?",
+            "bn": "আরও দুটি। আয়াত যে শেষের নাম নেয় তা অস্বীকারের অবস্থাতেই প্রাণ বেরিয়ে যাওয়া; তাহলে আমার জীবনে এমন কী আছে যা এত আরামের যে সেটা আমাকে কোথায় নিয়ে যাচ্ছে তা আমি বরং যাচাই করতেই চাই না? আর যাদের কথা বলা হচ্ছে, ধরে থাকা অবস্থায় তারা এটা দেখতে পায় না: আমার নিজের হাতের ব্যাপারে এ ধরনের কথা বলার মতো ঘনিষ্ঠ কে আছে, আর তিনি বললে আমি কি সত্যিই শুনব?"
+          }
+        ]
+      }
+    ]
+  },
   "9:105": {
     "sections": [
       {

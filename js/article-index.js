@@ -619,7 +619,8 @@ var LQ_ARTICLE_IDS = {
     "9:40",
     "9:44",
     "9:5",
-    "9:51"
+    "9:51",
+    "9:55"
   ],
   "seerah": [
     "abdurrahman_conversion",

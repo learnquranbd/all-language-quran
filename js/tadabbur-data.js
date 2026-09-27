@@ -6943,6 +6943,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Faith shows in who does not come asking to be excused; the sorting happens at the request, before any of the work is done.",
     "lessonBn": "ঈমান ধরা পড়ে এতে যে কে অব্যাহতি চাইতে আসে না। ভাগটা হয়ে যায় অনুরোধের জায়গাতেই, কাজের কিছু শুরু হওয়ার আগেই।"
+  },
+  "9:55": {
+    "reflectionEn": "The instruction is about your eyes, not about their money. Do not let their wealth or their children impress you. Then the reason, and it is the part that unsettles: those very things are the punishment, working in this life, and the end named is that their souls leave them while they refuse. So the verse is not promising that the comfortable will get theirs later. It says the settlement has already begun, inside the thing that looked like a reward, and that the people holding it cannot see this while they hold it.",
+    "reflectionBn": "নির্দেশটা আপনার চোখ নিয়ে, তাদের টাকা নিয়ে নয়। তাদের ধন-সম্পদ আর সন্তান আপনার চোখ ধাঁধিয়ে না দিক। এরপর আসে কারণ, আর ওই অংশটাই অস্বস্তিতে ফেলে: ওই জিনিসগুলোই শাস্তি, আর তা কাজ করছে এ জীবনেই; আর শেষ যা বলা হয় তা এই যে তারা অস্বীকারের অবস্থাতেই তাদের জান বেরিয়ে যাবে। অর্থাৎ আয়াত এ ওয়াদা করছে না যে আরামে থাকা লোকেরা পরে পাবে। সে বলছে, হিসাব শুরু হয়ে গেছে আগেই, আর সেটা চলছে যে জিনিসটাকে পুরস্কার মনে হচ্ছিল তার ভেতরেই; আর যারা সেটা ধরে আছে, ধরে থাকা অবস্থায় তারা এটা দেখতে পায় না।",
+    "pointsEn": [
+      "Whose life impresses me at the moment, and what exactly am I impressed by?",
+      "The verse treats admiration as the thing to correct, not the other person's situation. What would change if I stopped ranking people by their circumstances?",
+      "Something I am chasing may already be charging me. What has this year's pursuit cost me in sleep, temper and attention?",
+      "The end named is dying while refusing. What in my life is pleasant enough that I would rather not examine where it is taking me?",
+      "They cannot see it while they hold it. Who is close enough to me to say this about my own hands, and would I listen?"
+    ],
+    "pointsBn": [
+      "এখন কার জীবন আমার চোখ ধাঁধিয়ে দেয়, আর ঠিক কোন জিনিসটা আমাকে মুগ্ধ করে?",
+      "আয়াত শুধরে দেওয়ার জিনিস হিসেবে ধরে মুগ্ধতাকে, অন্য লোকের অবস্থাকে নয়। মানুষকে তাদের অবস্থা দিয়ে সারিতে বসানো ছেড়ে দিলে কী বদলাত?",
+      "যে জিনিসের পেছনে আমি দৌড়াচ্ছি, সেটা হয়তো এখনই আমার কাছ থেকে দাম নিচ্ছে। এ বছরের দৌড় আমার ঘুম, মেজাজ আর মনোযোগে কী খরচ করিয়েছে?",
+      "শেষ যা বলা হয় তা অস্বীকারের অবস্থাতেই মরে যাওয়া। আমার জীবনে এমন কী আছে যা এত আরামের যে সেটা আমাকে কোথায় নিয়ে যাচ্ছে তা আমি বরং যাচাই করতেই চাই না?",
+      "ধরে থাকা অবস্থায় তারা এটা দেখতে পায় না। আমার নিজের হাতের ব্যাপারে এ কথা বলার মতো ঘনিষ্ঠ কে আছে, আর আমি কি শুনব?"
+    ],
+    "lessonEn": "Do not read comfort as approval; a thing can be charging its owner the whole time it is being envied, and the owner is the last to know.",
+    "lessonBn": "আরামকে সন্তুষ্টির চিহ্ন বলে পড়বেন না। কোনো জিনিস যতক্ষণ ধরে হিংসা কুড়োয়, ততক্ষণ সে তার মালিকের কাছ থেকে দাম নিতেই থাকতে পারে; আর মালিকই সেটা জানে সবার শেষে।"
   }
 };
 
