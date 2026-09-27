@@ -1218,5 +1218,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "8:55": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Same Opening, Twice",
+          "bn": "একই শুরু, দুবার"
+        },
+        "p": [
+          {
+            "en": "Al-Anfal is Madinan, and the verses before this one are about how nations lose what they were given. 8:52 and 8:54 both invoke the pattern of Pharaoh's people and of those before them, and between them 8:53 states the principle: Allah does not change a favour He has bestowed upon a people until they change what is within themselves. Our verse then gives a ranking, 8:56 identifies who is meant by their conduct, and 8:57 turns to a ruling of war that belongs to its own verse rather than to this one.",
+            "bn": "সূরা আনফাল মাদানী, আর এ আয়াতের আগের আয়াতগুলো জাতিগুলো কীভাবে পাওয়া জিনিস হারায় তা নিয়ে। ৮:৫২ আর ৮:৫৪ আয়াত দুটোই টেনে আনে ফিরআউনের লোকদের আর তাদের আগের লোকদের ধরনটা, আর এ দুয়ের মাঝখানে ৮:৫৩ আয়াত নীতিটা বলে দেয়: আল্লাহ কোনো জাতিকে দেওয়া অনুগ্রহ বদলান না, যতক্ষণ না তারা নিজেদের ভেতরের জিনিসটা বদলায়। এরপর আমাদের আয়াত একটি অবস্থান জানায়, ৮:৫৬ আয়াত আচরণ দিয়ে চিনিয়ে দেয় কাদের কথা বলা হচ্ছে, আর ৮:৫৭ আয়াত যায় যুদ্ধের এক বিধানের দিকে, যা এ আয়াতের নয়, ওই আয়াতেরই বিষয়।"
+          },
+          {
+            "en": "Something unusual has happened inside one surah. At 8:22 the same sentence opens and ends differently: indeed the worst of moving creatures in the sight of Allah are the deaf, the dumb, who do not reason. The Arabic opening of the two verses is word for word the same as far as in the sight of Allah, and then one names faculties that have stopped working while the other names a state and its continuation. Al-Qurtubi makes the link himself when he comes to our verse, writing that its counterpart is the deaf, the dumb, who do not reason.",
+            "bn": "এক সূরার ভেতরেই অন্যরকম একটা ব্যাপার ঘটেছে। ৮:২২ আয়াতে একই বাক্য শুরু হয়, আর শেষ হয় অন্যভাবে: নিশ্চয়ই আল্লাহর কাছে চলাচল করা সৃষ্টির মধ্যে নিকৃষ্টতম তারা যারা বধির, বোবা, যারা বোঝে না। দুই আয়াতের আরবি শুরুটা আল্লাহর কাছে পর্যন্ত অক্ষরে অক্ষরে এক, তারপর একটি নাম নেয় বন্ধ হয়ে যাওয়া শক্তিগুলোর, আর অন্যটি নাম নেয় একটি অবস্থার আর তার চলতে থাকার। কুরতুবী আমাদের আয়াতে এসে নিজেই যোগসূত্রটা টেনে দেন, লেখেন, এর সমান্তরাল হলো সেই বধির, বোবা, যারা বোঝে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Word for What Moves",
+          "bn": "যা চলে তার শব্দ"
+        },
+        "p": [
+          {
+            "en": "Dawabb is the plural of dabbah, from d-b-b, and it does not mean animal in the narrow sense. At-Tabari glosses the phrase as the worst of what crawls upon the earth, and al-Qurtubi as those who crawl upon the face of the earth. The category the verse reaches for is everything that moves, which is why the ranking can be made at all: these men are being placed inside the widest class they belong to rather than being compared with their own kind.",
+            "bn": "দাওয়াব্ব হলো দাব্বার বহুবচন, ধাতু দ-ব-ব, আর এর অর্থ সংকীর্ণ অর্থে পশু নয়। তাবারী এ কথাটির ব্যাখ্যা দেন, জমিনের উপর যা চলাচল করে তাদের মধ্যে নিকৃষ্টতম, আর কুরতুবী বলেন, যারা জমিনের বুকে চলাচল করে। আয়াত যে শ্রেণিটা বেছে নেয় তা হলো যা কিছু চলে তার সবটাই, আর এ কারণেই এ অবস্থান নির্ধারণ সম্ভব হয়: এ লোকদের রাখা হচ্ছে তারা যে সবচেয়ে চওড়া শ্রেণির অন্তর্গত সেটির ভেতরে, নিজেদের জাতের সঙ্গে তুলনা করা হচ্ছে না।"
+          },
+          {
+            "en": "Two more words carry weight. In the sight of Allah, inda Allah, makes the ranking a report of His judgement rather than an appraisal anyone else is invited to make; al-Qurtubi glosses it as being in Allah's knowledge and His ruling. And the closing clause is imperfect in the Arabic, the form that holds a present state together with its continuing, which is why the app renders it as a future while at-Tabari glosses it in the present: they do not believe the messengers of Allah, nor acknowledge His revelation.",
+            "bn": "আরও দুটি শব্দের ওজন আছে। ইনদাল্লাহ অর্থাৎ আল্লাহর কাছে, এতে অবস্থানটা হয়ে যায় তাঁর রায়ের খবর, অন্য কারও মূল্যায়ন নয়, যার জন্য কাউকে ডাকা হচ্ছে; কুরতুবী এর ব্যাখ্যা দেন, তা আল্লাহর ইলম আর তাঁর হুকুমে। আর শেষ অংশটি আরবিতে মুদারি রূপে, যে গঠন বর্তমান অবস্থাকে আর তার চলতে থাকাকে একসঙ্গে ধরে রাখে। এ কারণেই অ্যাপ এটাকে ভবিষ্যৎ কালে আনে, আর তাবারী ব্যাখ্যা দেন বর্তমান কালে: তারা আল্লাহর রাসূলদের মানে না, তাঁর ওহী আর তা নেমে আসাও স্বীকার করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Identified by a Habit",
+          "bn": "অভ্যাস দিয়ে চেনানো"
+        },
+        "p": [
+          {
+            "en": "The verse does not stand alone, and the commentators do not read it alone. 8:56 continues the sentence: the ones with whom you made a treaty, then they break their pledge every time, and they do not fear Allah. So the identification is by conduct that repeats, not by lineage, not by a name, and not by a label a reader could pick up and apply. Ibn Kathir reads the two verses as one description and then moves on to the ruling in 8:57, which is a matter for that verse.",
+            "bn": "আয়াতটি একা দাঁড়িয়ে নেই, আর মুফাসসিরগণও এটিকে একা পড়েন না। ৮:৫৬ আয়াত বাক্যটি টেনে নিয়ে যায়: তাদের সঙ্গে তুমি চুক্তি করেছ, তারপর তারা প্রতিবারই নিজেদের কথা ভাঙে, আর তারা আল্লাহকে ভয় করে না। অর্থাৎ চেনানোটা হচ্ছে বারবার ঘটতে থাকা আচরণ দিয়ে, বংশ দিয়ে নয়, নাম দিয়ে নয়, আর এমন কোনো তকমা দিয়েও নয় যা পাঠক হাতে তুলে নিয়ে কারও গায়ে লাগিয়ে দিতে পারে। ইবনু কাসীর দুই আয়াতকে এক বর্ণনা হিসেবেই পড়েন, তারপর এগিয়ে যান ৮:৫৭ আয়াতের বিধানের দিকে, আর সেটা ওই আয়াতেরই বিষয়।"
+          },
+          {
+            "en": "That is worth stating plainly because the verse is the kind that gets borrowed. Read with its neighbour it describes a specific conduct in a specific hostility, in a surah reviewing a battle that had already been fought; and the ranking in it is expressly said to be in the sight of Allah. It does not hand any reader a category to place a living community in, and nothing in the commentators consulted here does that either. What it does hand over is a mirror for the habit it names.",
+            "bn": "কথাটা সোজাসুজি বলে দেওয়া দরকার, কারণ এ ধরনের আয়াত ধার করা হয়। পাশের আয়াতের সঙ্গে পড়লে এটি বর্ণনা করে একটি নির্দিষ্ট শত্রুতার ভেতরের একটি নির্দিষ্ট আচরণ, আর সূরাটি সদ্য লড়া হয়ে যাওয়া এক যুদ্ধের পর্যালোচনা করছে; আর এর অবস্থান নির্ধারণটা স্পষ্ট ভাষায় বলা হয়েছে আল্লাহর কাছে হিসেবে। এটি কোনো পাঠকের হাতে এমন কোনো ঘর তুলে দেয় না যাতে কোনো জীবিত জনগোষ্ঠীকে বসিয়ে দেওয়া যায়, আর এখানে দেখা মুফাসসিরদের কেউও তা করেন না। এটি যা হাতে তুলে দেয় তা হলো আয়াত যে অভ্যাসের নাম নেয় তার জন্য একটি আয়না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "As-Sa'di's Three Traits",
+          "bn": "সা'দীর সেই তিন স্বভাব"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads our verse and the next as one portrait and counts the traits in it: three, he says, gathered in the same people. Disbelief. The absence of faith. And treachery, in the sense that they hold to no covenant they have made and no word they have said. It is worth noticing that only the third of the three is about other human beings, and that it is the one the next verse spends its whole length on.",
+            "bn": "সা'দী আমাদের আয়াত আর পরের আয়াতকে একই ছবি হিসেবে পড়েন, আর সেই ছবির স্বভাবগুলো গুনে দেখান: তিনটি, তিনি বলেন, একই লোকদের মধ্যে জমা হয়েছে। কুফর। ঈমানের অনুপস্থিতি। আর খিয়ানত, এই অর্থে যে তারা নিজেদের করা কোনো চুক্তিতেও টেকে না, নিজেদের বলা কোনো কথাতেও টেকে না। খেয়াল করার মতো ব্যাপার, এ তিনটির কেবল তৃতীয়টিই অন্য মানুষদের নিয়ে, আর পরের আয়াত নিজের গোটা দৈর্ঘ্য সেটার উপরেই খরচ করে।"
+          },
+          {
+            "en": "Then he supplies the comparison the verse leaves implicit. They are worse than donkeys and dogs and the rest, he writes, and he gives his reason rather than leaving the insult bare: because good is absent from them and evil is expected of them. The verse itself names no animal. As-Sa'di's addition is a gloss on the category, and the logic of it is about what can be hoped for from a creature, which is why an animal that does its own work comes out ahead of a man who does not.",
+            "bn": "এরপর তিনি সেই তুলনাটা এনে দেন, যা আয়াত না বলেই ছেড়ে রাখে। তিনি লেখেন, তারা গাধা আর কুকুর আর বাকি সবের চেয়েও খারাপ, আর গালিটা খালি হাতে ছেড়ে না দিয়ে তিনি নিজের কারণটাও দেন: কারণ তাদের কাছ থেকে ভালো কিছু নেই, আর মন্দটাই তাদের কাছ থেকে আশা করা যায়। আয়াত নিজে কোনো পশুর নাম নেয় না। সা'দীর এ কথা শ্রেণিটির উপর একটি ব্যাখ্যা, আর এর যুক্তিটা এই যে কোনো সৃষ্টির কাছ থেকে কী আশা করা যায়। আর সে কারণেই নিজের কাজটা করে যাওয়া পশু এগিয়ে থাকে এমন মানুষের চেয়ে যে তা করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Sunnah on a Broken Pledge",
+          "bn": "কথা ভাঙা নিয়ে সুন্নাহ"
+        },
+        "p": [
+          {
+            "en": "No tafsir consulted for this verse attaches a saying of the Prophet ﷺ to it; the entries are short and stay with the wording. One sound narration names the same cluster of conduct and is brought on that footing alone. Sahih al-Bukhari 33 has from Abu Hurayrah (RA) that the signs are three: when he speaks he lies, when he promises he breaks it, and when he is trusted he betrays the trust. The third and the second are exactly what 8:56 describes as happening every time a treaty is made.",
+            "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীরই এর সঙ্গে নবীর ﷺ কোনো বাণী জোড়ে না; আলোচনাগুলো ছোট, আর শব্দের কাছেই থেকে যায়। একটি সহীহ বর্ণনা একই ধরনের আচরণগুলোর নাম নেয়, আর সেটি এখানে কেবল সেই শর্তেই আনা হচ্ছে। সহীহ বুখারীর ৩৩ নম্বরে আবূ হুরাইরা (রাঃ) থেকে আছে, আলামত তিনটি: কথা বললে মিথ্যা বলে, ওয়াদা করলে ভাঙে, আর আমানত দিলে খিয়ানত করে। এর তৃতীয় আর দ্বিতীয়টি ঠিক সেই জিনিস, যা ৮:৫৬ আয়াত বলছে প্রতিবার চুক্তি হওয়ার সঙ্গেই ঘটে।"
+          },
+          {
+            "en": "The narration is quoted here for the conduct it lists and not as a verdict to be pronounced on anybody, which is how the commentators handle the verse too. A reader who finds one of those three habits in himself has been given something to repair. A reader who finds it in a neighbour has been given nothing at all, because the ranking this verse makes is stated to be in the sight of Allah, and the knowledge that would be needed to apply it is not on offer.",
+            "bn": "বর্ণনাটি এখানে তোলা হচ্ছে সে যে আচরণগুলোর তালিকা দেয় তার জন্য, কারও উপর ঘোষণা করার মতো কোনো রায় হিসেবে নয়; মুফাসসিরগণও আয়াতটিকে এভাবেই সামলান। যে পাঠক ওই তিন অভ্যাসের একটি নিজের ভেতরে পান, তাঁর হাতে মেরামত করার মতো কিছু এল। যে পাঠক সেটা পাশের বাড়ির লোকের ভেতরে পান, তাঁর হাতে কিছুই এল না, কারণ এ আয়াত যে অবস্থান ঠিক করে তা বলা হয়েছে আল্লাহর কাছে হিসেবে, আর সেটা কারও উপর চালাতে যে ইলম দরকার তা আমাদের দেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses That Rank Creatures",
+          "bn": "সৃষ্টির অবস্থান নিয়ে আয়াত"
+        },
+        "p": [
+          {
+            "en": "98:6 makes a ranking of the same shape with a different word: those are the worst of created beings, sharr al-bariyyah, not sharr ad-dawabb. The two words are not interchangeable even though the app renders both with worst, and the reason 98:6 matters here is 98:7, which completes the pair: those who believed and did righteous deeds, those are the best of created beings. Our verse gives only the lower half of a comparison whose upper half is written elsewhere.",
+            "bn": "৯৮:৬ আয়াত একই আকারের অবস্থান জানায় অন্য একটি শব্দ দিয়ে: তারাই সৃষ্টির অধম, শাররুল বারিয়্যাহ, শাররুদ দাওয়াব্ব নয়। অ্যাপ দুটোকেই নিকৃষ্ট দিয়ে আনলেও শব্দ দুটি একটির বদলে অন্যটি বসানোর মতো নয়। আর এখানে ৯৮:৬ আয়াত জরুরি হওয়ার কারণ ৯৮:৭ আয়াত, যা জোড়াটা পূর্ণ করে: যারা ঈমান এনেছে আর নেক আমল করেছে, তারাই সৃষ্টির উত্তম। আমাদের আয়াত একটি তুলনার কেবল নিচের অর্ধেকটা দেয়, যার উপরের অর্ধেকটা লেখা আছে অন্য জায়গায়।"
+          },
+          {
+            "en": "7:179 is the fullest statement of the theme: hearts that do not understand, eyes that do not see, ears that do not hear, and then the comparison, those are like livestock, rather they are more astray. 25:44 puts it as a question, whether most of them hear or reason, and answers it the same way. 2:171 gives the image behind 8:22, one who shouts at what hears nothing but a call. Read together they show that the Quran's comparison is never about worth of creation but about faculties left unused.",
+            "bn": "এ বিষয়ের সবচেয়ে পূর্ণ বক্তব্য ৭:১৭৯ আয়াতে: অন্তর আছে অথচ বোঝে না, চোখ আছে অথচ দেখে না, কান আছে অথচ শোনে না, আর তারপর সেই তুলনা, তারা পশুর মতো, বরং আরও বেশি পথহারা। ২৫:৪৪ আয়াত কথাটা প্রশ্ন করে রাখে, তাদের অধিকাংশ কি শোনে বা বোঝে, আর জবাবও দেয় একইভাবে। ২:১৭১ আয়াত দেয় ৮:২২ আয়াতের পেছনের ছবিটা, এমন লোক যে এমন কিছুকে হাঁক দেয় যা ডাক ছাড়া কিছুই শোনে না। একসঙ্গে পড়লে বোঝা যায়, কুরআনের এ তুলনা কখনোই সৃষ্টির মর্যাদা নিয়ে নয়, বরং কাজে না লাগানো শক্তিগুলো নিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Change Begins",
+          "bn": "বদলটা শুরু হয় যেখানে"
+        },
+        "p": [
+          {
+            "en": "The practical use of a verse like this is not to find someone who fits it. It is the hinge two verses earlier: Allah does not change a favour He gave a people until they change what is within themselves. That makes the direction of travel the thing to watch, and this verse describes the far end of a road rather than an accident. The habit 8:56 names, breaking a pledge every time one is made, is not exotic. It is the ordinary shape of a man who means it each time and keeps not doing it.",
+            "bn": "এ ধরনের আয়াতের কাজের ব্যবহার এই নয় যে এতে খাপ খায় এমন কাউকে খুঁজে বের করা। কাজের জিনিসটা দুই আয়াত আগের সেই কেন্দ্র: আল্লাহ কোনো জাতিকে দেওয়া অনুগ্রহ বদলান না, যতক্ষণ না তারা নিজেদের ভেতরের জিনিসটা বদলায়। এতে দেখার বিষয় হয়ে যায় চলার মুখটা কোন দিকে, আর এ আয়াত বর্ণনা করে একটা রাস্তার শেষ প্রান্ত, কোনো দুর্ঘটনা নয়। ৮:৫৬ আয়াত যে অভ্যাসের নাম নেয়, প্রতিবার চুক্তি করে প্রতিবার ভাঙা, সেটা বিরল কিছু নয়। ওটা এমন লোকের সাধারণ চেহারা, যে প্রতিবারই সত্যি বলেই বলে, আর প্রতিবারই করে না।"
+          },
+          {
+            "en": "There is also a test in the wording that costs something to apply. The verse says they will not believe, a refusal rather than an incapacity, which means the door is being described as shut from the inside. Everyone has some matter they have quietly decided to go on refusing, and the honest work of this verse is to name that one thing rather than to survey the neighbourhood. 8:53 says the change begins within; that is the only place a reader has any authority at all.",
+            "bn": "শব্দের ভেতরে আরেকটি যাচাইও আছে, যা কাজে লাগাতে গেলে কিছু খরচ হয়। আয়াত বলে তারা ঈমান আনবে না, অর্থাৎ অস্বীকার, অক্ষমতা নয়। মানে দরজাটা বন্ধ বলা হচ্ছে ভেতর থেকেই। প্রত্যেকের এমন কিছু বিষয় থাকে যা সে চুপচাপ ঠিক করে রেখেছে অস্বীকার করেই যাবে, আর এ আয়াতের সৎ কাজটা হলো ওই একটা জিনিসের নাম নেওয়া, পাড়া জরিপ করা নয়। ৮:৫৩ আয়াত বলে, বদলটা শুরু হয় ভেতরে; আর পাঠকের কোনো অধিকার যদি কোথাও থাকে, তা কেবল ওই এক জায়গাতেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking Not to Be Counted There",
+          "bn": "ওই দলে গোনা না হওয়ার আবেদন"
+        },
+        "p": [
+          {
+            "en": "The verse carries no supplication; it is a verdict being reported. The prayer that belongs opposite it is in 66:8, where a call to sincere repentance closes with the words of those whose light goes before them: our Lord, perfect for us our light and forgive us. Against a verse about faculties that have stopped and a door shut from inside, asking for light to be completed rather than merely granted is the request that fits.",
+            "bn": "আয়াতে কোনো দোয়া নেই; এটি জানিয়ে দেওয়া এক রায়। এর উল্টো পাশে যে দোয়া বসে তা ৬৬:৮ আয়াতে, যেখানে খাঁটি তওবার ডাক শেষ হয় তাদের কথা দিয়ে যাদের সামনে সামনে চলে তাদের নূর: হে আমাদের রব, আমাদের জন্য আমাদের নূর পূর্ণ করে দিন আর আমাদের মাফ করুন। বন্ধ হয়ে যাওয়া শক্তি আর ভেতর থেকে আটকানো দরজা নিয়ে এক আয়াতের সামনে, নূর কেবল দেওয়া হোক নয়, পূর্ণ করা হোক, এ চাওয়াটাই মানায়।"
+          },
+          {
+            "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, do not let me be of those who will not believe, keep my hearing and my sight and my heart at work, and make me one who keeps a pledge he has given. It is assembled from this verse, from 8:56 and from 7:179, and it is not a Sunnah du'a. The Quranic wording above is the safer of the two to carry.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আমাকে তাদের একজন করবেন না যারা ঈমান আনবে না, আমার কান আর চোখ আর অন্তর কাজে লাগানো অবস্থায় রাখুন, আর আমাকে বানান এমন একজন যে দেওয়া কথা রক্ষা করে। এটি এ আয়াত, ৮:৫৬ আর ৭:১৭৯ আয়াতের শব্দ জুড়ে বানানো, সুন্নাহর দোয়া নয়। উপরের কুরআনী শব্দগুলোই দুটোর মধ্যে বহন করার জন্য বেশি নিরাপদ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Own Refusals",
+          "bn": "নিজের অস্বীকার নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The measure in this verse is stated to be His and not mine, so where have I been handing out its verdict on people it was never given to me to weigh? The next verse identifies by a habit rather than a label, so what habit of mine would identify me if somebody used that same method on me? And is there a promise I have now broken more than once with the same person, telling myself each time that this time the circumstances were different?",
+            "bn": "এ আয়াতে মাপকাঠি বলা হয়েছে তাঁর, আমার নয়; তাহলে এ আয়াতের রায়টা আমি কোথায় কোথায় এমন লোকদের উপর চালিয়ে দিয়েছি, যাদের ওজন করার ভার আমাকে কখনো দেওয়াই হয়নি? পরের আয়াত চেনায় তকমা দিয়ে নয়, অভ্যাস দিয়ে; তাহলে কেউ যদি আমার উপর ওই একই পদ্ধতি চালায়, আমার কোন অভ্যাসটা আমাকে চিনিয়ে দিত? আর একই মানুষের কাছে দেওয়া কথা কি আমি এখন একবারের বেশি ভেঙেছি, আর প্রতিবারই নিজেকে বলেছি এবারের পরিস্থিতিটা আলাদা?"
+          },
+          {
+            "en": "Two that are heavier. The verse describes people who will not believe rather than people who cannot, so what is the one matter I have privately decided to go on refusing, whatever comes? And if a favour is only withdrawn after people change what is within themselves, what is changing inside me at the moment that I would rather not say out loud?",
+            "bn": "আরও দুটি, একটু ভারী। আয়াত বর্ণনা করে এমন লোকদের যারা ঈমান আনবে না, এমন লোকদের নয় যারা পারে না; তাহলে এমন কোন একটি বিষয় আছে যা আমি মনে মনে ঠিক করে রেখেছি, যা-ই আসুক, অস্বীকার করেই যাব? আর অনুগ্রহ যদি কেবল তখনই সরে যায় যখন মানুষ নিজের ভেতরের জিনিস বদলে ফেলে, তবে এ মুহূর্তে আমার ভেতরে কী বদলাচ্ছে, যেটা মুখে বলতে আমি চাই না?"
+          }
+        ]
+      }
+    ]
   }
 });

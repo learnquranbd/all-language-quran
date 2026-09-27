@@ -6743,6 +6743,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Check why you set out, not only how well you march; swagger and an audience can carry a man the whole way and leave him with nothing at the end.",
     "lessonBn": "কেবল কত ভালোভাবে চলছেন তা নয়, কেন বেরিয়েছেন সেটাও যাচাই করুন। দেমাগ আর দর্শক একজন লোককে গোটা পথ টেনে নিতে পারে, আর শেষে তার হাতে কিছুই রাখে না।"
+  },
+  "8:55": {
+    "reflectionEn": "The surah says this twice. Earlier it said the worst of moving creatures in the sight of Allah are the deaf and dumb who do not reason; here it says they are those who have disbelieved, and they will not believe. The same opening, a different ending. Two things are worth holding on to. The measure is His, not ours: the verse says in the sight of Allah, and it is a judgement being reported rather than an opinion being formed. And the sentence does not stop at the state; the next verse identifies them by what they keep doing, breaking a pledge every time one is made.",
+    "reflectionBn": "সূরাটি কথাটা দুবার বলে। আগে বলেছিল, আল্লাহর কাছে চলাচল করা সৃষ্টির মধ্যে নিকৃষ্টতম তারা যারা বধির আর বোবা, যারা বোঝে না; এখানে বলছে, তারা যারা কুফরী করেছে, আর তারা ঈমান আনবে না। শুরুটা একই, শেষটা আলাদা। দুটো জিনিস ধরে রাখার মতো। মাপকাঠি তাঁর, আমাদের নয়: আয়াত বলে আল্লাহর কাছে, অর্থাৎ এটা কোনো মত তৈরি হওয়া নয়, একটি রায় জানিয়ে দেওয়া। আর বাক্যটি কেবল অবস্থাতেই থামে না; পরের আয়াত তাদের চিনিয়ে দেয় তারা যা করেই চলে তা দিয়ে, প্রতিবারই চুক্তি করে আর প্রতিবারই ভাঙে।",
+    "pointsEn": [
+      "The measure here is His and not mine. Where have I been handing out this verse's verdict on people it was never given to me to weigh?",
+      "The next verse identifies them by a habit, not a label. What habit of mine would identify me if somebody used the same method?",
+      "Is there a promise I have broken more than once with the same person, and told myself each time that the circumstances were different?",
+      "The verse names people who will not believe rather than cannot. What am I refusing that I have privately decided to keep refusing?",
+      "If a favour is only withdrawn after people change what is in themselves, what is changing in me right now that I would rather not name?"
+    ],
+    "pointsBn": [
+      "এখানে মাপকাঠি তাঁর, আমার নয়। এ আয়াতের রায়টা আমি কোথায় কোথায় এমন লোকদের উপর চালিয়ে দিয়েছি, যাদের ওজন করার ভার আমাকে কখনো দেওয়াই হয়নি?",
+      "পরের আয়াত তাদের চেনায় অভ্যাস দিয়ে, কোনো তকমা দিয়ে নয়। একই পদ্ধতিতে কেউ চেনাতে গেলে আমার কোন অভ্যাসটা আমাকে চিনিয়ে দিত?",
+      "একই মানুষের কাছে দেওয়া কথা কি আমি একবারের বেশি ভেঙেছি, আর প্রতিবারই নিজেকে বলেছি এবারের পরিস্থিতিটা আলাদা?",
+      "আয়াত বলে তারা ঈমান আনবে না, বলে না তারা পারে না। আমি কী মানতে অস্বীকার করছি, যেটা মনে মনে ঠিক করে রেখেছি অস্বীকার করেই যাব?",
+      "মানুষ নিজের ভেতরের জিনিস বদলে ফেলার পরই যদি অনুগ্রহ সরে যায়, তবে এখন আমার ভেতরে কী বদলাচ্ছে, যার নাম আমি নিতে চাই না?"
+    ],
+    "lessonEn": "The ranking in this verse is Allah's to make and the next verse identifies by conduct, not by name; read it as a warning about a habit rather than a label to hand out.",
+    "lessonBn": "এ আয়াতের অবস্থান ঠিক করার ভার আল্লাহর, আর পরের আয়াত চেনায় আচরণ দিয়ে, নাম দিয়ে নয়। এটাকে পড়ুন অভ্যাস নিয়ে হুঁশিয়ারি হিসেবে, অন্যের গায়ে লাগানো তকমা হিসেবে নয়।"
   }
 };
 
