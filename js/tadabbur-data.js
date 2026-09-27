@@ -6843,6 +6843,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Four commands of war are cancelled by a fifth, and the verses either side except the faithful and shelter whoever asks; a line lifted out says what the passage refuses.",
     "lessonBn": "যুদ্ধের চারটি হুকুম বাতিল করে দেয় পঞ্চম একটি হুকুম, আর দুপাশের আয়াত আলাদা করে রাখে চুক্তি রক্ষাকারীদের আর আশ্রয় চাওয়া যে কাউকে নিরাপত্তা দেয়। এ অংশ থেকে তুলে নেওয়া একটি লাইন সেটাই বলে, যা অংশটি নিজেই নাকচ করে।"
+  },
+  "9:11-12": {
+    "reflectionEn": "Two verses, two doors, and the same people standing in front of both. If they repent and establish prayer and give zakah, then they are your brothers in religion — not tolerated, not resident aliens, brothers. And if they break their oaths after their treaty and attack your religion, then the fighting is with the leaders of disbelief, because oaths mean nothing to them, so that they may cease. Notice that both doors turn on what people do rather than on who they are, and that the second one names an aim: not their destruction, but that they stop.",
+    "reflectionBn": "দুটি আয়াত, দুটি দরজা, আর দুটোর সামনেই দাঁড়িয়ে আছে একই লোকেরা। তারা যদি তওবা করে, নামায কায়িম করে আর যাকাত দেয়, তবে তারা তোমাদের দীনী ভাই; সহ্য করে নেওয়া কেউ নয়, বাইরের বাসিন্দাও নয়, ভাই। আর তারা যদি চুক্তির পর নিজেদের শপথ ভাঙে আর তোমাদের দীনের উপর আঘাত হানে, তবে লড়াই কুফরের নেতাদের সঙ্গে, কারণ শপথ জিনিসটার কোনো দাম তাদের কাছে নেই, যাতে তারা থামে। খেয়াল করুন, দুটি দরজাই খোলে মানুষ কী করে তার উপর, তারা কে তার উপর নয়; আর দ্বিতীয়টি একটা লক্ষ্যের নামও বলে দেয়: তাদের ধ্বংস নয়, বরং তারা যেন থেমে যায়।",
+    "pointsEn": [
+      "The first verse makes former enemies brothers, with no waiting period named. Do I let people cross that fast, or do I keep them on probation?",
+      "Both doors turn on conduct. Where have I been sorting people by what they are instead of what they are doing now?",
+      "The stated aim of the second verse is that they cease, not that they be finished. When I am in conflict, what am I actually aiming at?",
+      "Oaths meant nothing to the ones described. What have I promised recently that I treated as meaning nothing?",
+      "The verses are detailed for a people who know. What have I refused to learn properly because a rough version of it suits me better?"
+    ],
+    "pointsBn": [
+      "প্রথম আয়াত আগের শত্রুদের ভাই বানিয়ে দেয়, আর কোনো অপেক্ষার সময়ের কথা বলে না। আমি কি মানুষকে এত দ্রুত পার হতে দিই, নাকি তাদের পরীক্ষার উপর ঝুলিয়ে রাখি?",
+      "দুটি দরজাই খোলে আচরণের উপর। কোথায় আমি মানুষকে ভাগ করছি তারা কী, সেটা দিয়ে, আর এখন তারা কী করছে সেটা দিয়ে নয়?",
+      "দ্বিতীয় আয়াতের ঘোষিত লক্ষ্য তারা থেমে যাক, তারা শেষ হয়ে যাক নয়। কোনো বিরোধে থাকার সময় আমার লক্ষ্যটা আসলে কী থাকে?",
+      "যাদের কথা বলা হচ্ছে তাদের কাছে শপথের কোনো দাম ছিল না। সম্প্রতি আমি কী কথা দিয়েছি, যেটাকে আমি নিজেই দামহীন ধরে নিয়েছি?",
+      "আয়াতগুলো খোলাসা করা হয় এমন লোকদের জন্য যারা জানে। কোন জিনিসটা আমি ঠিকভাবে শিখতে চাইনি, কারণ তার একটা মোটা দাগের চেহারাই আমার জন্য বেশি সুবিধার?"
+    ],
+    "lessonEn": "Both the door to brotherhood and the door to conflict open on conduct, and the second one is opened in order to make somebody stop, not to finish him.",
+    "lessonBn": "ভাই হওয়ার দরজা আর বিরোধের দরজা, দুটোই খোলে আচরণের উপর; আর দ্বিতীয়টি খোলা হয় কাউকে থামানোর জন্য, তাকে শেষ করার জন্য নয়।"
   }
 };
 

@@ -159,6 +159,154 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:11-12": {
+    "sections": [
+      {
+        "h": {
+          "en": "Two Doors, One Crowd",
+          "bn": "দুই দরজা, এক ভিড়"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan, and these two verses come at the end of the declaration that opened the surah. 9:8 asks how a treaty could hold with people who observe no tie of kinship and no covenant if they gain the upper hand, who satisfy you with their mouths while their hearts refuse. 9:9 and 9:10 add that they sold the signs of Allah for a small price and observe nothing toward a believer. Then, with those men still in view, 9:11 offers them brotherhood and 9:12 names what would bring fighting instead.",
+            "bn": "সূরা তাওবা মাদানী, আর এ দুটি আয়াত আসে সেই ঘোষণার শেষে, যা দিয়ে সূরাটি শুরু হয়েছিল। ৯:৮ আয়াত জিজ্ঞেস করে, এমন লোকদের সঙ্গে চুক্তি কীভাবে টিকে থাকতে পারে, যারা উপরে উঠে গেলে আত্মীয়তার কোনো বন্ধনও মানে না, কোনো অঙ্গীকারও মানে না, যারা মুখের কথায় তোমাদের খুশি করে আর অন্তর রাজি হয় না। ৯:৯ আর ৯:১০ আয়াত যোগ করে, তারা আল্লাহর আয়াতগুলো তুচ্ছ দামে বেচে দিয়েছে আর কোনো মু'মিনের ব্যাপারে কিছুই মানে না। এরপর, ওই লোকেরা তখনো চোখের সামনে থাকতেই, ৯:১১ আয়াত তাদের ভাই হওয়ার প্রস্তাব দেয় আর ৯:১২ আয়াত বলে দেয় কী হলে বদলে লড়াই আসবে।"
+          },
+          {
+            "en": "As-Sa'di reads the second of the two as following directly from what preceded: after it was said that the treatied idolaters, if they stay straight on their covenant, are to be met with straightness in fulfilling it, the verse turns to what happens if they break it. So the pair is not a threat followed by an afterthought, nor mercy followed by a correction. They are the two outcomes of one situation, laid side by side, and the same people are standing in front of both.",
+            "bn": "সা'দী এ দুটির দ্বিতীয়টিকে পড়েন আগের কথারই সোজা ধারাবাহিকতা হিসেবে: যখন বলা হলো চুক্তিতে থাকা মুশরিকরা নিজেদের অঙ্গীকারে সোজা থাকলে তাদের সঙ্গে চুক্তি পূরণে সোজা থাকতে হবে, তখনই আয়াত ফেরে সেদিকে, তারা যদি সেটা ভাঙে তবে কী হবে। অর্থাৎ এ জোড়াটি হুমকির পরে যোগ করা কোনো কথা নয়, দয়ার পরে দেওয়া কোনো সংশোধনও নয়। এরা একই পরিস্থিতির দুটি পরিণাম, পাশাপাশি রাখা, আর দুটোর সামনেই দাঁড়িয়ে আছে একই লোকেরা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Brothers in Religion",
+          "bn": "দীনের ভাই"
+        },
+        "p": [
+          {
+            "en": "The condition in 9:11 is the same one 9:5 set, word for word: they repent, they establish the prayer, they give the zakah. What changes is the sentence it earns. There it was let them go on their way; here it is then they are your brothers in religion. Nothing is said about a probation, a lesser status, or a memory of what they had just been doing to the people who are now their brothers. The word is ikhwan, and it is put in the religion rather than in blood.",
+            "bn": "৯:১১ আয়াতের শর্ত সেই একই শর্ত যা ৯:৫ আয়াত রেখেছিল, অক্ষরে অক্ষরে: তারা তওবা করে, নামায কায়িম করে, যাকাত দেয়। যা বদলায় তা হলো এতে যে রায় পাওয়া যায়। ওখানে ছিল তাদের পথ ছেড়ে দাও; এখানে হলো তবে তারা তোমাদের দীনী ভাই। পরীক্ষার কোনো সময়, কোনো নিচু দরজার কথা, কিংবা সদ্য তারা যা করছিল তার কোনো স্মৃতির কথা এখানে নেই, আর করছিল তো তাদেরই সঙ্গে যারা এখন তাদের ভাই। শব্দটি ইখওয়ান, আর সেটা বসানো হয়েছে দীনের ভেতরে, রক্তের ভেতরে নয়।"
+          },
+          {
+            "en": "The verse then closes on a clause about the reader rather than about them: and We detail the verses for a people who know. The detailing is the thing being offered, and the audience is named by a verb. It suggests that the distinctions this passage draws, between a treaty kept and a treaty broken, between what a man was and what he now does, are only usable by someone willing to learn them in detail rather than in outline.",
+            "bn": "এরপর আয়াত শেষ হয় এমন একটি কথায়, যা তাদের নিয়ে নয়, পাঠককে নিয়ে: আর আমি আয়াতগুলো খোলাসা করে দিই এমন লোকদের জন্য যারা জানে। খোলাসা করাটাই এখানে যা দেওয়া হচ্ছে, আর শ্রোতাদের নাম বলা হচ্ছে একটি ক্রিয়া দিয়ে। এতে বোঝা যায়, এ অংশ যে ফারাকগুলো টানে, রক্ষা করা চুক্তি আর ভাঙা চুক্তির মধ্যে, একজন লোক যা ছিল আর এখন যা করে তার মধ্যে, সেগুলো কাজে লাগাতে পারে কেবল সেই লোক, যে সেগুলো মোটা দাগে নয়, খুঁটিয়ে শিখতে রাজি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Untying, and Stabbing",
+          "bn": "গিঁট খোলা, আর আঘাত"
+        },
+        "p": [
+          {
+            "en": "Both verbs in 9:12 are physical before they are moral. Nakathu is the undoing of something that had been tied, the same image 8:58 uses when it forbids loosening or tightening a knot of a pact, so an oath in this vocabulary is a thing with knots in it. And ta'anu is to pierce or to stab; at-Tabari renders the clause as meaning they disparaged your religion Islam, so they reviled it and found fault with it, which is what the image becomes when the target is a religion rather than a body.",
+            "bn": "৯:১২ আয়াতের দুটি ক্রিয়াই নৈতিক হওয়ার আগে শারীরিক। নাকাসূ মানে বেঁধে রাখা কোনো জিনিস খুলে ফেলা, আর এ একই ছবিই ৮:৫৮ আয়াত ব্যবহার করে যখন চুক্তির গিঁট আলগা বা আঁটো করা নিষেধ করে; অর্থাৎ এ শব্দভাণ্ডারে শপথ এমন এক জিনিস যার ভেতরে গিঁট আছে। আর তাআনূ মানে ছিদ্র করা বা আঘাত হানা; তাবারী এ অংশটির অর্থ দেন, তারা তোমাদের দীন ইসলামকে হেয় করেছে, তাকে গালি দিয়েছে আর তার দোষ ধরেছে; দেহের বদলে লক্ষ্য যখন কোনো দীন হয়, ছবিটা তখন এই চেহারাই নেয়।"
+          },
+          {
+            "en": "Then a'immat al-kufr, the leaders of disbelief, where the word for leaders is the plural of imam, the one walked behind. At-Tabari glosses the following clause simply: the chiefs of disbelief have no covenant. As-Sa'di reads the same words as a verdict on their reliability rather than on their theology, that they have no pacts they keep to, but remain treacherous and breaking, not to be trusted. The purpose clause at the end is the one to hold: so that they may cease.",
+            "bn": "এরপর আসে আইম্মাতুল কুফর, কুফরের নেতারা; আর নেতা বোঝানো শব্দটি ইমামের বহুবচন, অর্থাৎ যার পিছনে হাঁটা হয়। তাবারী পরের কথাটির ব্যাখ্যা দেন সোজাভাবে: কুফরের প্রধানদের কোনো অঙ্গীকার নেই। সা'দী একই শব্দগুলো পড়েন তাদের আকীদা নিয়ে রায় হিসেবে নয়, তাদের ভরসাযোগ্যতা নিয়ে রায় হিসেবে; তাদের এমন কোনো চুক্তি নেই যা তারা মেনে চলে, বরং তারা খিয়ানত করেই চলে, ভেঙেই চলে, তাদের উপর ভরসা করা যায় না। শেষের উদ্দেশ্যের কথাটাই ধরে রাখার মতো: যাতে তারা থেমে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Leaders",
+          "bn": "নেতাদেরই কেন"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di explains why the verse names the leaders and not the crowd, and gives three reasons: because of the enormity of their offence, because the others follow them, and to show that whoever attacks the religion and sets himself up to refute it is of the leaders of disbelief. The third reason is a definition rather than a headcount, and it moves the category from rank to activity. Ibn Kathir draws the same line from the verse, that one who curses the Messenger ﷺ or attacks the religion by way of criticism is meant by it.",
+            "bn": "আয়াত কেন নেতাদের নাম নেয় আর ভিড়ের নয়, সা'দী তা বুঝিয়ে দেন, আর তিনটি কারণ দেন: তাদের অপরাধের বিশালতার কারণে, বাকিরা তাদেরই পিছনে চলে সে কারণে, আর এটা দেখাতে যে যে কেউ দীনের উপর আঘাত হানে আর তার জবাব দিতে নিজেকে দাঁড় করায়, সে কুফরের নেতাদের একজন। তৃতীয় কারণটি মাথা গোনা নয়, একটি সংজ্ঞা, আর তা শ্রেণিটিকে সরিয়ে নেয় পদ থেকে কাজের দিকে। ইবনু কাসীর আয়াত থেকে একই দাগ টানেন, যে লোক রাসূলকে ﷺ গালি দেয় বা সমালোচনার ভঙ্গিতে দীনের উপর আঘাত হানে, তাকেই এখানে বোঝানো হয়েছে।"
+          },
+          {
+            "en": "As-Sa'di also widens the offence itself: all kinds of attack directed at the religion or at the Quran enter into this. But he keeps the aim where the verse puts it. His gloss on the last words is that they may cease from attacking your religion, and then he adds the possibility the verse does not state and he does not withhold: and perhaps they may even enter it. The end being sought is a mouth closed or a heart changed, not a population reduced.",
+            "bn": "সা'দী অপরাধটিকেও চওড়া করেন: দীনের উপর বা কুরআনের উপর ছোঁড়া সব ধরনের আঘাতই এর ভেতরে পড়ে। কিন্তু লক্ষ্যটা তিনি রাখেন ঠিক সেখানেই, যেখানে আয়াত রেখেছে। শেষ শব্দগুলোর ব্যাখ্যায় তিনি বলেন, যাতে তারা তোমাদের দীনের উপর আঘাত হানা থেকে থেমে যায়; আর এরপর যোগ করেন সেই সম্ভাবনাটি, যা আয়াত বলেনি আর তিনি চেপেও রাখেননি: আর হতে পারে তারা সেটাতে ঢুকেও পড়বে। যা চাওয়া হচ্ছে তা একটি মুখ বন্ধ হওয়া বা একটি অন্তর বদলে যাওয়া, কোনো জনসংখ্যা কমে যাওয়া নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Who These Leaders Were",
+          "bn": "এ নেতারা কারা ছিল"
+        },
+        "p": [
+          {
+            "en": "On the identity of the leaders the commentators differ, and the difference is preserved rather than settled. At-Tabari reports that some said they are Abu Jahl ibn Hisham, Utbah ibn Rabi'ah, Abu Sufyan ibn Harb and their like; Ibn Kathir carries a similar list from Qatadah and others, adding Shaybah and Umayyah ibn Khalaf. Ibn Abbas (RA) is reported as reading them as the people of the covenant among the idolaters, whom He named the leaders of disbelief.",
+            "bn": "নেতারা কারা, এ ব্যাপারে মুফাসসিরদের মধ্যে মতভেদ আছে, আর মতভেদটিকে মিটিয়ে না দিয়ে রেখে দেওয়া হচ্ছে। তাবারী জানান, কেউ কেউ বলেছেন তারা আবূ জাহল ইবনু হিশাম, উতবা ইবনু রাবীআ, আবূ সুফিয়ান ইবনু হারব আর তাদের মতো লোকেরা; ইবনু কাসীর কাতাদা আর অন্যদের থেকে একই ধরনের একটি তালিকা আনেন, আর যোগ করেন শাইবা আর উমাইয়া ইবনু খালাফের নাম। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত আছে, তিনি এদের পড়েন মুশরিকদের মধ্যে চুক্তিতে থাকা লোক হিসেবে, যাদের তিনি নাম দিয়েছেন কুফরের নেতা।"
+          },
+          {
+            "en": "Two remarks from Companions are the reason this section exists. At-Tabari records that Hudhayfah (RA) used to say of this verse that its people had not yet come. Ibn Kathir carries, through al-A'mash from Zayd ibn Wahb from Hudhayfah (RA), the statement that the people of this verse were never fought again, and reports the like from Ali ibn Abi Talib (RA). The two reports are not worded the same and are not merged here. Ibn Kathir then gives his own ruling, that the verse is general even though the occasion of its revelation was specific.",
+            "bn": "সাহাবীদের দুটি কথার কারণেই এ অংশটি আছে। তাবারী লিখে রাখেন, হুযাইফা (রাঃ) এ আয়াত সম্পর্কে বলতেন, এর লোকেরা এখনো আসেনি। ইবনু কাসীর আনেন আমাশের সূত্রে, যায়দ ইবনু ওয়াহব থেকে, হুযাইফা (রাঃ) থেকে সেই কথাটি, যে এ আয়াতের লোকদের সঙ্গে আর কখনো লড়া হয়নি; আর একই ধরনের কথা তিনি আলী ইবনু আবী তালিব (রাঃ) থেকেও জানান। দুটি বর্ণনার শব্দ এক নয়, আর এখানে সেগুলো মিলিয়েও দেওয়া হচ্ছে না। এরপর ইবনু কাসীর নিজের ফয়সালা দেন, আয়াতটি ব্যাপক, যদিও এর নাযিল হওয়ার উপলক্ষ ছিল নির্দিষ্ট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Ruling Belongs",
+          "bn": "বিধানটা কার হাতে"
+        },
+        "p": [
+          {
+            "en": "This is a verse of war, and everything the surah has already said about that applies. The command is addressed to a community that had made the treaties in question, published a notice, and excepted by name at 9:4 those who had kept faith; 9:7 had just told them to be upright toward whoever was upright toward them. A ruling of this kind is for those who carry that responsibility, and this article makes no application of it to any present situation, group or person, and none to any individual's judgement about anyone.",
+            "bn": "এটি যুদ্ধের আয়াত, আর সূরাটি সে ব্যাপারে আগে যা যা বলেছে তার সবই এখানে খাটে। হুকুমটি দেওয়া হচ্ছে এমন এক সমাজকে, যারা আলোচ্য চুক্তিগুলো করেছিল, নোটিশ প্রকাশ করেছিল, আর ৯:৪ আয়াতে নাম ধরে আলাদা করে রেখেছিল তাদের, যারা কথা রেখেছিল; ৯:৭ আয়াত সদ্যই তাদের বলেছে, যারা তোমাদের সঙ্গে সোজা থাকে তাদের সঙ্গে সোজা থাক। এ ধরনের বিধান তাঁদেরই, যাঁদের কাঁধে সেই দায়িত্ব; আর এ লেখা এটিকে বর্তমানের কোনো পরিস্থিতি, দল বা ব্যক্তির উপর প্রয়োগ করছে না, কারও ব্যাপারে কোনো ব্যক্তির নিজের বিচারের উপরও নয়।"
+          },
+          {
+            "en": "What the passage does put in a reader's hands is the shape of its own reasoning. Both doors are opened by conduct: three acts open the first, two acts open the second, and neither is opened by ancestry or by name. The aim of the harder door is stated in the verse itself, that they may cease. And the softer door is opened all the way, to brotherhood, with no waiting period attached to men who had been described a verse earlier as keeping no covenant toward a believer at all.",
+            "bn": "অংশটি পাঠকের হাতে যা তুলে দেয় তা হলো নিজের যুক্তির আকারটি। দুটি দরজাই খোলে আচরণ দিয়ে: প্রথমটি খোলে তিনটি কাজে, দ্বিতীয়টি খোলে দুটি কাজে, আর কোনোটিই খোলে না বংশ দিয়ে বা নাম দিয়ে। কঠিন দরজাটির লক্ষ্য আয়াত নিজেই বলে দেয়, যাতে তারা থেমে যায়। আর সহজ দরজাটি খোলা হয় একেবারে শেষ পর্যন্ত, ভাই হওয়া পর্যন্ত, আর তাতে কোনো অপেক্ষার সময় জোড়া হয়নি; অথচ এ লোকদের ঠিক এক আয়াত আগেই বর্ণনা করা হয়েছিল এমন লোক হিসেবে যারা কোনো মু'মিনের ব্যাপারে কোনো অঙ্গীকারই মানে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses Either Side",
+          "bn": "দুপাশের আয়াত"
+        },
+        "p": [
+          {
+            "en": "9:5 sets the identical three conditions and answers them with release rather than brotherhood, so the pair shows the same door opening wider as the surah goes on. 9:7 supplies the rule these two verses hang from, be upright toward them as long as they are upright toward you. 9:8 and 9:10 give the description that makes 9:11's offer startling, men who observe no tie and no covenant toward a believer.",
+            "bn": "৯:৫ আয়াত একই তিনটি শর্ত রাখে, আর তার জবাব দেয় ভাই হওয়া দিয়ে নয়, ছেড়ে দেওয়া দিয়ে; অর্থাৎ জোড়াটি দেখায়, সূরা যত এগোয় সেই একই দরজা তত চওড়া হয়ে খোলে। ৯:৭ আয়াত দেয় সেই নিয়ম, যার সঙ্গে এ দুটি আয়াত ঝুলে আছে, তারা যতক্ষণ তোমাদের সঙ্গে সোজা থাকে তোমরাও তাদের সঙ্গে সোজা থাক। ৯:৮ আর ৯:১০ আয়াত দেয় সেই বর্ণনা, যা ৯:১১ আয়াতের প্রস্তাবটিকে চমকে দেওয়ার মতো করে তোলে, এমন লোক যারা কোনো মু'মিনের ব্যাপারে কোনো বন্ধনও মানে না, কোনো অঙ্গীকারও মানে না।"
+          },
+          {
+            "en": "8:58 is the verse behind the image of the untied oath, and it is where the surah before this one required that a pact be thrown back openly rather than quietly broken. 9:13 continues our second verse by asking whether they would not fight a people who broke their oaths and had begun the attack first. And 60:7 is the verse that keeps the whole subject from hardening: perhaps Allah will put affection between you and those to whom you have been enemies among them.",
+            "bn": "খোলা শপথের ছবিটির পেছনের আয়াত ৮:৫৮, আর ওখানেই আগের সূরা দাবি করেছিল, চুক্তি চুপচাপ ভাঙা নয়, খোলাখুলি ফিরিয়ে দিতে হবে। ৯:১৩ আয়াত আমাদের দ্বিতীয় আয়াতটির কথা টেনে নিয়ে জিজ্ঞেস করে, তোমরা কি এমন এক সম্প্রদায়ের সঙ্গে লড়বে না যারা নিজেদের শপথ ভেঙেছে আর প্রথমে আক্রমণ শুরু করেছে? আর ৬০:৭ আয়াতই গোটা বিষয়টাকে শক্ত হয়ে যাওয়া থেকে বাঁচায়: হতে পারে আল্লাহ তোমাদের আর তাদের মধ্যেকার যাদের তোমরা শত্রু বানিয়েছ, তাদের মধ্যে বন্ধুত্ব দিয়ে দেবেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer for the Other Side",
+          "bn": "উল্টো পাশের জন্য দোয়া"
+        },
+        "p": [
+          {
+            "en": "Neither verse is a supplication, but the passage leaves an opening for one, and as-Sa'di is the one who walks through it when he adds that perhaps they may even enter the religion. The Quran's own prayer for that outcome is 60:7, which does not ask for an enemy's defeat but for affection to be put between the two sides, and which closes on the same two names our previous verse closed on, Forgiving and Merciful.",
+            "bn": "দুটি আয়াতের কোনোটিই দোয়া নয়, তবে অংশটি একটা ফাঁক খোলা রেখে যায়, আর সে ফাঁক দিয়ে হেঁটে যান সা'দীই, যখন তিনি যোগ করেন, হতে পারে তারা দীনে ঢুকেও পড়বে। এ পরিণামের জন্য কুরআনের নিজের দোয়া ৬০:৭ আয়াত, যা শত্রুর পরাজয় চায় না, চায় দুই পাশের মধ্যে বন্ধুত্ব দিয়ে দেওয়া হোক; আর সেটি শেষও হয় সেই দুটি নাম দিয়েই, যেগুলো দিয়ে আমাদের আগের আয়াতটি শেষ হয়েছিল, ক্ষমাশীল আর দয়ালু।"
+          },
+          {
+            "en": "A sentence in these verses' own vocabulary can be added and claimed as no more than that: O Allah, make those who attack this religion cease, and if You will, make them brothers in it instead. That is assembled from 9:12's closing purpose and 9:11's own word for what repentance makes of a former enemy. It is not a Sunnah du'a. The wording of 60:7 is the safer of the two and asks for the larger thing.",
+            "bn": "এ আয়াতগুলোর নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, যারা এ দীনের উপর আঘাত হানে তাদের থামিয়ে দিন, আর আপনি চাইলে তাদের বদলে এ দীনেরই ভাই বানিয়ে দিন। এটি ৯:১২ আয়াতের শেষের উদ্দেশ্য আর ৯:১১ আয়াতের নিজের সেই শব্দ জুড়ে বানানো, তওবা একজন আগের শত্রুকে যা বানিয়ে দেয়। এটি সুন্নাহর দোয়া নয়। ৬০:৭ আয়াতের শব্দগুলোই দুটোর মধ্যে বেশি নিরাপদ, আর সেটিই বড় জিনিসটা চায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Doors",
+          "bn": "নিজের দরজা নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The first verse makes former enemies brothers with no waiting period named: do I let people cross that quickly, or do I keep them on probation long after they have changed? Both doors turn on conduct, so where have I been sorting people by what they are rather than by what they are doing now? And the stated aim of the harder verse is that they cease, not that they be finished: when I am in a conflict, what am I actually aiming at?",
+            "bn": "প্রথম আয়াত আগের শত্রুদের ভাই বানিয়ে দেয়, আর কোনো অপেক্ষার সময়ের নাম নেয় না: আমি কি মানুষকে এত দ্রুত পার হতে দিই, নাকি তারা বদলে যাওয়ার অনেক পরেও তাদের পরীক্ষার উপর ঝুলিয়ে রাখি? দুটি দরজাই খোলে আচরণের উপর; তাহলে কোথায় আমি মানুষকে ভাগ করছি তারা কী সেটা দিয়ে, এখন তারা কী করছে সেটা দিয়ে নয়? আর কঠিন আয়াতটির ঘোষিত লক্ষ্য তারা থেমে যাক, তারা শেষ হয়ে যাক নয়: কোনো বিরোধে থাকার সময় আমার লক্ষ্যটা আসলে কী?"
+          },
+          {
+            "en": "Two more. Oaths meant nothing to the men described here, so what have I promised recently and then treated as meaning nothing? And the verses are said to be detailed for a people who know: what have I refused to learn properly, because a rough version of it is more useful to the argument I want to win?",
+            "bn": "আরও দুটি। এখানে যাদের কথা বলা হচ্ছে তাদের কাছে শপথের কোনো দাম ছিল না; তাহলে সম্প্রতি আমি কী কথা দিয়েছি আর তারপর সেটাকে দামহীন ধরে নিয়েছি? আর বলা হয়েছে, আয়াতগুলো খোলাসা করা হয় এমন লোকদের জন্য যারা জানে: কোন জিনিসটা আমি ঠিকভাবে শিখতে চাইনি, কারণ যে তর্কটা আমি জিততে চাই তার জন্য সেটার মোটা দাগের চেহারাটাই বেশি কাজের?"
+          }
+        ]
+      }
+    ]
+  },
   "9:40": {
     "sections": [
       {
