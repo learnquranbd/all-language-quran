@@ -9,8 +9,13 @@ The standing working agreement for this module. Follow it without asking.
 
 ## Pacing — the part that has been corrected most
 
-- **One ayah at a time, and do not stop between them.** Finish an ayah, commit it,
-  start the next in the same turn. Keep going until the user says stop.
+- **Two drafter agents at a time, one ayah each** (user, 2026-09-27: "from now on,
+  run 2 agents for 2 ayahs at a time"). Launch both, let them draft in parallel into
+  `tools/wip/round<N>/`, then merge, gate, bump, verify and commit each ayah yourself
+  — one commit per ayah, not one per wave. Then launch the next pair.
+- **Do not stop between waves.** Keep going until the user says stop. Working the
+  ayat yourself instead of through agents is also fine when they are unavailable; the
+  pipeline below is identical either way.
 - **Do not report after each ayah.** No "Next: 9:5", no summary of what the verse
   gave, no asking whether to continue. The user reads the commits. A closing line
   belongs only at the end of a batch of ten, or when something actually blocks.
@@ -25,6 +30,18 @@ The standing working agreement for this module. Follow it without asking.
 `tools/tadabbur-targets.json` holds the ordered target list. Next target = first
 entry in `order` whose verses are not already covered by a key in
 `TADABBUR_NOTES` (expand ranges before comparing).
+
+## What the drafter agents own, and what you own
+
+Agents draft and self-audit only: the two files for their ayah under
+`tools/wip/round<N>/`, the validators, and a report with the SOURCES ledger. You own
+every merge, the article index rebuild, the version bump, `npm test`, the browser
+check and the commit. Never let an agent write under `js/` or pass `--write`.
+
+Give each agent the skill file, the specs, the round's SOURCE-GATE.md and
+HEADINGS.md, and the hard numbers: 1,400-1,800 English words (coming in under 1,400
+is the failure they make most), 7-9 sections, 55-110 words a paragraph, headings 2-6
+words and unique against every shipped article, and `lessonEn` under 35 words.
 
 ## Per-ayah pipeline
 

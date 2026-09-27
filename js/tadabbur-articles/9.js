@@ -2083,6 +2083,158 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "9:99": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Exception After the Verdict",
+          "bn": "রায়ের পরে ব্যতিক্রম"
+        },
+        "p": [
+          {
+            "en": "At-Tawbah is Madinan, and this stretch belongs to the aftermath of the expedition to Tabuk. 9:97 states a general verdict on the desert Arabs: stronger in disbelief and hypocrisy, and likelier not to know the limits of what Allah has revealed to His Messenger. 9:98 gives one kind among them, men who count what they spend a loss and wait for misfortunes to strike the believers. Our verse gives the other kind. Then 9:100 leaves the bedouins for the forerunners among the Muhajireen and the Ansar, and 9:101 returns to name hypocrites around Madinah and inside it.",
+            "bn": "সূরা তাওবা মাদীনায় নামা সূরা, আর এই অংশটা তাবুক অভিযানের পরের কথা। ৯:৯৭ আয়াতে মরুবাসী আরবদের নিয়ে একটা সাধারণ রায় এসেছে। তারা কুফুরি আর মুনাফিকিতে কঠোরতর, আর আল্লাহ তাঁর রসূলের প্রতি যা নামিয়েছেন তার সীমারেখা না জানার ব্যাপারে তারাই বেশি উপযুক্ত। ৯:৯৮ আয়াতে তাদের এক দলের ছবি, যারা খরচকে জরিমানা গোনে আর মু'মিনদের উপর বিপদের চাকা ঘুরে আসার অপেক্ষা করে। আমাদের আয়াত আনে অন্য দলটিকে। এরপর ৯:১০০ আয়াত বেদুঈনদের ছেড়ে মুহাজির ও আনসারদের অগ্রগামীদের দিকে যায়, আর ৯:১০১ আয়াত ফিরে এসে বলে, মাদীনার চারপাশে এবং মাদীনার ভেতরেও মুনাফিক আছে।"
+          },
+          {
+            "en": "At-Tabari preserves the shape of the sequence in Ibn Jurayj's words. The statement that the bedouins are stronger in disbelief and hypocrisy was made, he says, and then Allah made an exception and said, and among the bedouins are some who believe in Allah and the Last Day. Qatada's comment, also in at-Tabari, calls the verse Allah's exception from among the bedouins. So the earlier verdict is not withdrawn. A group is lifted out of it, and the reader is told plainly that both sentences are true at once, and that neither is a verdict on any people alive now.",
+            "bn": "ইবনু জুরাইজের ভাষায় এই ধারাটাই তাবারী ধরে রেখেছেন। তিনি বলছেন, প্রথমে বলা হল বেদুঈনরা কুফুরি আর মুনাফিকিতে কঠোরতর, তারপর আল্লাহ ব্যতিক্রম করলেন এবং বললেন, বেদুঈনদের মধ্যে এমনও আছে যে আল্লাহ ও শেষ দিনে ঈমান রাখে। তাবারীর বর্ণনায় কাতাদার মন্তব্যও আছে, তিনি এই আয়াতকে বলছেন বেদুঈনদের মধ্য থেকে আল্লাহর ব্যতিক্রম। মানে আগের রায় তুলে নেওয়া হয়নি। একটা দলকে নাম ধরে সেখান থেকে আলাদা করা হয়েছে, আর পাঠককে জানিয়ে দেওয়া হচ্ছে যে দুই কথাই একসাথে সত্য। এর কোনোটিই আজকের কোনো জনগোষ্ঠীর উপর রায় নয়।"
+          },
+          {
+            "en": "As-Sa'di draws the conclusion out. Not all the bedouins are blameworthy, he writes; the verse is proof that they are like the settled people, among them the praised and among them the blamed, and that Allah did not blame them for their desert life as such but for leaving His commands and for being the sort who are likely to. He adds that disbelief and hypocrisy grow and shrink, thicken and thin, with circumstances. 49:14 keeps the same honesty from the other side, where bedouins who said they believed were told to say instead that they had submitted.",
+            "bn": "সা'দী কথাটা খুলে বলেন। সব বেদুঈন নিন্দিত নয়, তিনি লিখছেন। এই আয়াতই দলিল যে তারা শহরবাসীর মতোই, তাদের ভেতরে প্রশংসিত লোকও আছে, নিন্দিতও আছে। আল্লাহ তাদের মরুজীবনের জন্য দোষ দেননি, দোষ দিয়েছেন তাঁর হুকুম ছেড়ে দেওয়ার জন্য আর সেই ছেড়ে দেওয়ার ঝুঁকিতে থাকার জন্য। তিনি আরও বলেন, অবস্থার সঙ্গে সঙ্গে কুফুরি আর মুনাফিকি বাড়ে কমে, ঘন হয় পাতলা হয়। ৪৯:১৪ আয়াত উল্টো দিক থেকে একই সততা রাখে, যেখানে ঈমানের দাবি করা বেদুঈনদের বলা হল, বলো যে আমরা আনুগত্য মেনে নিয়েছি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Verb, Two Objects",
+          "bn": "একই ক্রিয়া, দুই হিসাব"
+        },
+        "p": [
+          {
+            "en": "9:98 and 9:99 open on the same three Arabic words, wa min al-A'rabi man, and among the bedouins is one who. Both then reach for the same verb, yattakhidhu, he takes this to be that, a verb which needs two objects and reports a man's own reckoning rather than an event. The first object is the same in both: ma yunfiqu, what he spends. Only the second object changes. In 9:98 it is maghraman, from the root gh-r-m, a fine or an indemnity, money handed over under compulsion for nothing in return.",
+            "bn": "৯:৯৮ আর ৯:৯৯ আয়াত শুরু হয় হুবহু একই ৩ শব্দে, ওয়া মিনাল আ'রাবি মান, বেদুঈনদের মধ্যে এমনও আছে যে। তারপর দুই জায়গাতেই আসে একই ক্রিয়া, ইয়াত্তাখিযু, সে এটাকে ওটা বলে ধরে নেয়। এই ক্রিয়ার ২ কর্ম লাগে, আর তা দুনিয়ার কোনো ঘটনা নয়, মানুষের নিজের হিসাবটাই জানায়। প্রথম কর্ম দুই জায়গায় এক, মা ইউনফিকু, সে যা খরচ করে। বদলায় শুধু দ্বিতীয়টি। ৯:৯৮ আয়াতে তা মাগরামান, গ-র-ম মূল থেকে, অর্থ জরিমানা বা খেসারত, বিনিময়হীন বাধ্য হয়ে দেওয়া টাকা।"
+          },
+          {
+            "en": "In our verse the second object is qurubat. At-Tabari glosses it as the plural of qurbah, and qurbah as whatever brings a man near to the pleasure of Allah and His love. He reads the spending concretely, as what a man lays out in striving against the idolaters and on his journey with the Messenger of Allah ﷺ, and says the verse is about his intention. The hand does the same thing in both verses. Ibn Kathir names the second group directly as the praiseworthy type of bedouins, who give in Allah's cause seeking nearness to Allah and the Messenger's invocation for their benefit.",
+            "bn": "আমাদের আয়াতে দ্বিতীয় কর্ম কুরুবাত। তাবারী বলছেন, এটি কুরবার বহুবচন, আর কুরবা হল যা মানুষকে আল্লাহর সন্তুষ্টি ও তাঁর ভালোবাসার কাছে নিয়ে আসে। খরচটাকে তিনি খুব বাস্তব অর্থে পড়েন, মুশরিকদের বিরুদ্ধে জিহাদে আর আল্লাহর রসূল ﷺ এর সঙ্গে সফরে যা একজন খরচ করে। তাঁর মতে আয়াতের আলোচনা লোকটির নিয়ত নিয়ে। দুই আয়াতেই হাত একই কাজ করছে। ইবনু কাসীর দ্বিতীয় দলটিকে সরাসরি প্রশংসিত ধরনের বেদুঈন বলে চিহ্নিত করেন, যারা আল্লাহর পথে দেয় আল্লাহর নৈকট্য আর নিজেদের জন্য রসূলের দু'আ চেয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Qurubat and the Waterskin",
+          "bn": "কুরবাত আর কিরবার তফাত"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi works the word out. Qurubat is the plural of qurbah, what a person draws near to Allah with, and on al-Jawhari's authority he notes that every noun of its shape allows the same vowellings in the plural. Then he separates two words that share the same three consonants: qurbah, with a damma on the qaf, is the nearness, while qirbah, with a kasra, is the skin you carry water in. He also records that Nafi', in Warsh's riwayah, reads qurbatun with a damma on the ra' where the rest read a sukun, and that nobody disagrees over qurubat itself.",
+            "bn": "কুরতুবী শব্দটা খুলে দেখেন। কুরুবাত হল কুরবার বহুবচন, অর্থাৎ যা দিয়ে বান্দা আল্লাহর নৈকট্যে যায়। জাওহারীর সূত্রে তিনি বলেন, এই কাঠামোর প্রতিটি শব্দ বহুবচনে একই রকম হরকত নেয়। তারপর তিনি এমন ২টি শব্দ আলাদা করে দেন যেগুলোর একই ৩ বর্ণ। কাফের উপর পেশ দিয়ে কুরবা মানে নৈকট্য, আর যের দিয়ে কিরবা মানে পানি বহনের চামড়ার মশক। তিনি এটাও তুলে রাখেন যে ওয়ারশের রেওয়ায়াতে নাফি পড়েছেন রা-এর উপর পেশ দিয়ে কুরবাতুন, বাকিরা পড়েছেন সাকিন দিয়ে, আর কুরুবাত নিয়ে কারও দ্বিমত নেই।"
+          },
+          {
+            "en": "On salawat ar-Rasul he separates the senses of salah as well. From Allah it is mercy, good and blessing, and he cites 33:43, that it is He who confers blessing upon you; from the angels it is supplication, and so it is from the Prophet ﷺ too, as 9:103 says, invoke blessings upon them, for your invocations are reassurance for them. At-Tabari reports Ibn Abbas glossing the Messenger's salawat here as the Prophet's istighfar for him, and Qatada as the Messenger's du'a. Al-Baghawi gives both, and relays from Ata that they wanted the du'a of the Prophet.",
+            "bn": "সালাওয়াতুর রসূল নিয়েও তিনি সালাতের অর্থগুলো আলাদা করেন। আল্লাহর পক্ষ থেকে সালাত মানে রহমত, কল্যাণ ও বরকত, আর এর দলিলে তিনি আনেন ৩৩:৪৩ আয়াত, তিনিই তোমাদের প্রতি অনুগ্রহ বর্ষণ করেন। ফেরেশতাদের পক্ষ থেকে সালাত মানে দু'আ, আর নবীর ﷺ পক্ষ থেকেও তাই, যেমন ৯:১০৩ আয়াত বলছে, তুমি তাদের জন্য দু'আ করো, তোমার দু'আ তাদের জন্য স্বস্তি। তাবারী ইবনু আব্বাসের ব্যাখ্যা আনেন, এখানে রসূলের সালাওয়াত মানে নবীর ﷺ তার জন্য ইস্তিগফার করা, আর কাতাদার ব্যাখ্যায় তা রসূলের দু'আ। বাগাভী দুটোই বলেন, তাঁর দু'আ আর তাঁর ইস্তিগফার, এবং আতা থেকে আনেন যে তারা নবীর ﷺ দু'আ পেতে চাইত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Pronoun Refers To",
+          "bn": "সর্বনামটি কার দিকে ফেরে"
+        },
+        "p": [
+          {
+            "en": "The number of the word shifts inside the verse. What they reckon their spending to be is plural, qurubat, approaches; what Allah then affirms is singular, unquestionably it is a qurbah for them. The affirmation opens on ala, the particle that makes a listener look up, then inna. The verse is not politely agreeing with their accounting; it announces a verdict on it. But the pronoun in innaha has to refer to something. At-Tabari reads it first as the Messenger's invocations being a nearness for them from Allah, then says it may mean the expenditure itself is such a nearness.",
+            "bn": "আয়াতের ভেতরে শব্দের বচন বদলে যায়। খরচকে তারা যা মনে করছে তা বহুবচন, কুরুবাত, অর্থাৎ কাছে যাওয়ার নানা পথ। আর আল্লাহ যা নিশ্চিত করেন তা একবচন, সত্যিই তা তাদের জন্য কুরবা। এই নিশ্চয়তা শুরু হয় আলা দিয়ে, যে কণাটি শ্রোতাকে মুখ তুলে তাকাতে বাধ্য করে, তারপর আসে ইন্না। আয়াতটি ভদ্রতা করে তাদের হিসাবে সায় দিচ্ছে না, হিসাবটার উপর রায় ঘোষণা করছে। তবে ইন্নাহা-র সর্বনামটি কোনো কিছুকে ফেরাতেই হবে। তাবারী প্রথমে পড়েন, রসূলের দু'আই আল্লাহর পক্ষ থেকে তাদের নৈকট্য, তারপর বলেন, এমনও হতে পারে যে খরচটাই আল্লাহর কাছে তাদের নৈকট্য।"
+          },
+          {
+            "en": "Al-Qurtubi decides where at-Tabari leaves it open. On the same clause he writes that it brings them near to the mercy of Allah, and then names the referent: he means their expenditures. The difference is real and both state their reading plainly, though neither changes what the giver must do. As-Sa'di ties the halves together instead. The man reckons his spending, intends by it the face of Allah and nearness to Him, and makes it a means to the invocations of the Messenger ﷺ; then Allah explains what those invocations do, bringing them near, growing their wealth and settling blessing in it.",
+            "bn": "তাবারী যেখানে দুই সম্ভাবনা খোলা রাখেন, কুরতুবী সেখানে সিদ্ধান্ত নেন। একই বাক্যাংশের ব্যাখ্যায় তিনি লিখছেন, তা তাদের আল্লাহর রহমতের কাছে নিয়ে আসে, আর সর্বনামের লক্ষ্যটাও বলে দেন, তিনি বোঝাচ্ছেন তাদের খরচগুলোকে। দ্বিমতটা আসল, দুজনই নিজের পাঠ খোলাখুলি বলেছেন, যদিও দাতার করণীয় কোনো পাঠেই বদলায় না। সা'দী বরং দুই দিককে একসূত্রে বাঁধেন। লোকটি খরচের হিসাব রাখে, তা দিয়ে আল্লাহর সন্তুষ্টি আর তাঁর নৈকট্য চায়, আর সেটাকেই বানায় রসূল ﷺ এর দু'আ পাওয়ার উপায়। তারপর আল্লাহ জানিয়ে দেন সেই দু'আ কী করে, তা তাদের কাছে নিয়ে আসে, তাদের মাল বাড়ায় আর তাতে বরকত বসায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Aslam, Ghifar and Muzaynah",
+          "bn": "আসলাম, গিফার আর মুযায়না"
+        },
+        "p": [
+          {
+            "en": "Who were they? At-Tabari transmits from Mujahid that they are Banu Muqarrin, of Muzaynah, and that they are the very people of 9:92, who came asking to be carried, were told nothing could be found to carry them on, and turned back with their eyes overflowing with tears. He also transmits Abd ar-Rahman ibn Maqil saying, we were ten sons of Muqarrin, and this was revealed about us. Al-Baghawi carries Mujahid's identification too and adds al-Kalbi's, that the verse means Aslam, Ghifar and Juhaynah. None of this is a settled occasion of revelation, and the verse stands without it.",
+            "bn": "এরা কারা ছিল? তাবারী মুজাহিদ থেকে আনেন যে এরা মুযায়নার বনু মুকাররিন, আর এরাই ৯:৯২ আয়াতের সেই লোক, যারা বাহন চাইতে এসেছিল, শুনল যে বাহন মেলেনি, আর চোখ থেকে পানি ঝরতে ঝরতে ফিরে গেল। তিনি আব্দুর রহমান ইবনু মাকিলের কথাও আনেন, আমরা ছিলাম মুকাররিনের ১০ ছেলে, আর আমাদের নিয়েই এটি নেমেছে। বাগাভীও মুজাহিদের এই পরিচয় দেন, সঙ্গে কালবীর কথা যোগ করেন, আয়াতটি আসলাম, গিফার আর জুহাইনাকে বোঝাচ্ছে। এর কোনোটিই শানে নুযুল হিসেবে চূড়ান্ত নয়, আর এসব ছাড়াও আয়াত নিজের পায়ে দাঁড়ায়।"
+          },
+          {
+            "en": "Al-Baghawi then brings a narration al-Bukhari records by the same line, his own chain running through Ayyub from Ibn Sirin from Abu Hurayrah (RA). The wording quoted is al-Bukhari's alone: the Prophet ﷺ said, (The people of) Aslam, Ghifar and some people of Muzaina and Juhaina or said (some people of Juhaina or Muzaina) are better with Allah or said (on the Day of resurrection) than the tribe of Asad, Tamim, Hawazin and Ghatafan. That is Sahih al-Bukhari 3523 in the Dar-us-Salam numbering, with the narrator's own hesitations left inside it. Sahih Muslim carries it with other tribes named, and those wordings are not mixed in.",
+            "bn": "এরপর বাগাভী নিজের সনদে, আইয়ুব থেকে ইবনু সীরীন থেকে আবু হুরাইরা (রাঃ) সূত্রে একটি হাদীস আনেন, যা বুখারীও ঠিক এই সূত্রেই এনেছেন। এখানে যে শব্দগুলো তুলে দেওয়া হল সেগুলো কেবল বুখারীর, নবী ﷺ বলেছেন, আসলাম, গিফার আর মুযায়না ও জুহাইনার কিছু লোক, কিংবা তিনি বলেছেন জুহাইনা বা মুযায়নার কিছু লোক, আসাদ, তামীম, হাওয়াযিন আর গাতাফানের চেয়ে আল্লাহর কাছে উত্তম, কিংবা তিনি বলেছেন কিয়ামতের দিনে উত্তম। এটি দারুসসালাম সংখ্যায় সহীহ বুখারী ৩৫২৩, আর বর্ণনাকারীর নিজের সংশয়টুকু গুছিয়ে সরিয়ে দেওয়া হয়নি, ভেতরেই রাখা হয়েছে। সহীহ মুসলিমে অন্য গোত্রের নামসহ বর্ণনাটি আছে, সেই শব্দগুলো এখানে মেশানো হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses on the Same Reckoning",
+          "bn": "একই হিসাবের অন্য আয়াত"
+        },
+        "p": [
+          {
+            "en": "9:103 is where the Messenger's invocations come from, a few verses later: take from their wealth a charity by which you purify them and cause them increase, and invoke blessings upon them, for your invocations are reassurance for them. 9:104 then puts the receiving end of a charity exactly where our verse puts the nearness, asking whether they do not know that it is Allah who accepts repentance from His servants and who receives the charities, and that He is the Accepting of Repentance, the Merciful. The gift does not stop at the collector.",
+            "bn": "রসূলের দু'আর কথা আসে ৯:১০৩ আয়াত থেকে, যা আমাদের আয়াতের অল্প কয়েক আয়াত পরেই। তাদের সম্পদ থেকে সদাকা নাও, তা দিয়ে তাদের পবিত্র করো ও বাড়িয়ে দাও, আর তাদের জন্য দু'আ করো, তোমার দু'আ তাদের জন্য স্বস্তি। এরপর ৯:১০৪ আয়াত সদাকা গ্রহণের জায়গাটা ঠিক সেখানেই রাখে যেখানে আমাদের আয়াত নৈকট্য রাখে। আয়াতটি জিজ্ঞেস করে, তারা কি জানে না যে আল্লাহই বান্দাদের তওবা কবুল করেন আর সদাকা গ্রহণ করেন, আর তিনিই তওবা কবুলকারী, পরম দয়ালু। দান তাই আদায়কারীর হাতে এসে থামে না।"
+          },
+          {
+            "en": "2:265 gives the same reckoning as a picture: those who spend their wealth seeking means to the approval of Allah and assuring reward for themselves are like a garden on high ground, doubling its fruit when the downpour hits it and served by a drizzle when it does not. 2:262 closes the other way of losing the deed, promising reward to those who spend and then do not follow it with reminders or injury. And 9:121 registers the small amounts, saying that no expenditure, little or large, and no valley crossed, goes unwritten for them.",
+            "bn": "২:২৬৫ আয়াত একই হিসাবকে ছবিতে দেখায়। যারা আল্লাহর সন্তুষ্টি খুঁজতে আর নিজেদের মনে জোর আনতে সম্পদ খরচ করে, তারা উঁচু জমির বাগানের মতো। মুষলধারে বৃষ্টি পড়লে সে বাগান দ্বিগুণ ফল দেয়, বৃষ্টি না পড়লে শিশিরেই তার কাজ চলে। ২:২৬২ আয়াত আমল হারানোর অন্য পথটা বন্ধ করে, যারা খরচ করে এবং পরে দানের কথা তুলে খোঁটা দেয় না বা কষ্ট দেয় না, তাদের প্রতিদান তাদের রবের কাছে। আর ৯:১২১ আয়াত ছোট অঙ্কগুলোও খাতায় তোলে, কম বা বেশি কোনো খরচ আর পার হওয়া কোনো উপত্যকা তাদের নামে না লিখে থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Turning a Fine Into Nearness",
+          "bn": "জরিমানাকে নৈকট্যে বদলানো"
+        },
+        "p": [
+          {
+            "en": "The test the verse sets is not the amount. As-Sa'di puts the practical conclusion plainly: the believer should discharge the dues that are upon him with an open chest and a settled soul, and should be eager that it be a gain for him and not a fine. The obligation itself does not move with the mood. What moves is whether the transfer feels like an approach or a deduction, and that is the part a person can work on before the money goes.",
+            "bn": "আয়াত যে পরীক্ষা সামনে রাখে, তা পরিমাণের পরীক্ষা নয়। সা'দী কাজের কথাটা সোজা বলে দেন। মু'মিনের উপর যে হক আছে তা সে আদায় করবে খোলা মনে আর শান্ত অন্তরে, আর চাইবে যেন তা তার জন্য লাভ হয়, জরিমানা না হয়। হুকুম নিজে মনের অবস্থার সঙ্গে বদলায় না। বদলায় এটাই, হাত থেকে জিনিসটা যাওয়াকে এগিয়ে যাওয়া মনে হচ্ছে নাকি কেটে নেওয়া মনে হচ্ছে। টাকা বেরোনোর আগে মানুষ এই জায়গাটাতেই কাজ করতে পারে।"
+          },
+          {
+            "en": "Two things in the verse move it. Belief in Allah and the Last Day is named before the reckoning of the spending, so a man who cannot feel his giving as nearness is usually short on the hereafter rather than on generosity. And these men wanted somebody's du'a over what they handed over. Naming the amount before the month begins rather than at the end, giving part of it where nobody whose opinion matters will hear, and then refusing to revisit the figure, are the ordinary forms of the same reckoning.",
+            "bn": "আয়াতের ভেতরে ২ জিনিস এই হিসাব নাড়ায়। খরচের হিসাবের আগে বলা হয়েছে আল্লাহ ও শেষ দিনে ঈমানের কথা। তাই যে মানুষ নিজের দানকে নৈকট্য বলে অনুভব করতে পারে না, তার ঘাটতি সাধারণত দানশীলতায় নয়, আখিরাতে। আর এই লোকেরা নিজেদের দেওয়া জিনিসের উপর কারও দু'আ চেয়েছিল। মাস শেষ হওয়ার পরে নয়, মাস শুরুর আগে অঙ্কটা ঠিক করে ফেলা, তার কিছু অংশ এমন জায়গায় দেওয়া যেখানে আপনার কাছে দামি কেউ শুনবে না, আর দেওয়ার পর অঙ্কটা নিয়ে আর ফিরে না তাকানো, এই একই হিসাবের সাধারণ চেহারা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking Him to Confirm It",
+          "bn": "আপনার দানের উপর দু'আ"
+        },
+        "p": [
+          {
+            "en": "The verse is a statement rather than a supplication, but what it confirms is exactly what a giver wants confirmed, and the Quran supplies the asking. 2:127 has Ibrahim (AS) and Ismail (AS) raising the foundations of the House and saying, our Lord, accept from us, indeed You are the Hearing, the Knowing. It is the shortest request a person can make over work his own hands have already finished, and it asks for the one thing no amount of effort can secure by itself.",
+            "bn": "আয়াতটি দু'আ নয়, ঘোষণা। তবু যে জিনিসটা সে কবুল বলে জানিয়ে দেয়, দাতা ঠিক সেটাই চায়, আর চাওয়ার ভাষাটাও কুরআন দিয়ে দিয়েছে। ২:১২৭ আয়াতে ইবরাহীম (আঃ) আর ইসমাঈল (আঃ) কাবার ভিত তুলতে তুলতে বলছেন, হে আমাদের রব, আমাদের পক্ষ থেকে কবুল করো, নিশ্চয়ই তুমি সর্বশ্রোতা ও সর্বজ্ঞ। নিজের হাতে শেষ করা কাজের উপর এর চেয়ে ছোট আবেদন আর নেই, আর এতে চাওয়া হচ্ছে সেই একটি জিনিস, যা কেবল পরিশ্রম দিয়ে কেউ নিশ্চিত করতে পারে না।"
+          },
+          {
+            "en": "A supplication in the verse's own words can be added, claiming no more than that: O Allah, make what leaves my hand a nearness to You and not a loss against me, and admit me into Your mercy. It is assembled from qurubat, from the fine of the verse before, and from this verse's closing clause, and it is not a Sunnah du'a. The invocations these men wanted came from the Prophet ﷺ himself, and 9:103 names who was commanded to give them; a reader's part is to ask upright people to pray for him.",
+            "bn": "আয়াতের নিজের শব্দ দিয়ে একটা দু'আ বানিয়ে নেওয়া যায়, আর তার দাবি এর বেশি কিছু নয়। হে আল্লাহ, আমার হাত থেকে যা বেরোয় তাকে তোমার নৈকট্য বানাও, আমার বিরুদ্ধে জরিমানা বানিও না, আর আমাকে তোমার রহমতের ভেতরে ঢুকিয়ে নাও। এটি গড়া হয়েছে কুরুবাত থেকে, আগের আয়াতের জরিমানা থেকে আর এই আয়াতের শেষ বাক্য থেকে, আর এটি সুন্নাহর দু'আ নয়। এই লোকেরা যে দু'আ চেয়েছিল তা ছিল নবীর ﷺ নিজের দু'আ, আর ৯:১০৩ আয়াত বলে দেয় সেটা দেওয়ার হুকুম কাকে হয়েছিল। পাঠকের জন্য যা থাকে তা হল নেককার মানুষদের কাছে দু'আ চাওয়া।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Reckoning",
+          "bn": "নিজের হিসাব নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "When something leaves my hand this week, which of the two verses is describing me, and could I tell the difference from the inside? The verse names belief in the Last Day before it names the spending, so how much of my own giving is arranged so that somebody in this world will notice it? And these men wanted a du'a said over what they gave: whose du'a would I want, and have I ever actually asked for it?",
+            "bn": "এই সপ্তাহে যখন আমার হাত থেকে কিছু বেরিয়ে যাবে, এই ২ আয়াতের কোনটা তখন আমার কথা বলছে, আর ভেতর থেকে আমি কি তফাতটা ধরতে পারব? আয়াত খরচের কথা বলার আগে শেষ দিনে ঈমানের কথা বলে, তাহলে আমার দান কতটা এমনভাবে সাজানো যাতে দুনিয়ার কেউ তা দেখে ফেলে? আর এই লোকেরা নিজেদের দানের উপর দু'আ চেয়েছিল, আমি কার দু'আ চাইব, আর কখনো কি সত্যিই কারও কাছে চেয়েছি?"
+          },
+          {
+            "en": "Two more. Allah confirmed their accounting out loud instead of leaving it to them, so which part of my own accounting am I quietly hoping He will confirm, and what part would I rather He did not look at? And the blame in the verses just before fell on leaving His commands rather than on where anybody happened to live: what am I putting down to my circumstances that really belongs to my own choices?",
+            "bn": "আরও ২টি প্রশ্ন। তাদের হিসাবটা আল্লাহ তাদের হাতে ছেড়ে না দিয়ে নিজে মুখে কবুল বলে জানিয়ে দিলেন। তাহলে আমার হিসাবের কোন অংশটা তিনি কবুল করবেন বলে আমি চুপচাপ আশা করি, আর কোন অংশটার দিকে তিনি না তাকালেই আমি খুশি হতাম? আর ঠিক আগের আয়াতগুলোর দোষারোপ পড়েছিল আল্লাহর হুকুম ছেড়ে দেওয়ার উপর, কেউ কোথায় থাকে তার উপর নয়। আমি কোন জিনিসটা পরিস্থিতির ঘাড়ে চাপাই, যা আসলে আমার নিজের বাছাই?"
+          }
+        ]
+      }
+    ]
+  },
   "9:105": {
     "sections": [
       {

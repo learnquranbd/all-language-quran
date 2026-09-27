@@ -7083,6 +7083,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Both groups were asked for wealth and self; what separated them was not means but use, and the verse calls the spenders the successful ones.",
     "lessonBn": "দুই দলের কাছেই চাওয়া হয়েছিল মাল আর জান; তাদের আলাদা করেছে সামর্থ্য নয়, ব্যবহার। আর আয়াত সফলকাম বলে তাদেরই, যারা খরচ করেছে।"
+  },
+  "9:99": {
+    "reflectionEn": "The verse just before this one described bedouins who treat what they spend as a loss. This one opens with exactly the same words, keeps the same verb of reckoning, and changes only what the spending is reckoned to be: a means of nearness to Allah, and a way of obtaining the Messenger's invocations. The act is identical in both verses. Two men hand over the same amount, and one has paid a fine while the other has moved closer. Then the verse does something it did not have to do. It confirms the second man's accounting out loud, says that it truly is a means of nearness for them, and ends not with a wage but with a mercy He will admit them into.",
+    "reflectionBn": "ঠিক আগের আয়াতে কতক বেদুঈনের কথা এসেছে, যারা আল্লাহর পথে খরচ করাটাকে জরিমানা মনে করে। এই আয়াত শুরু হয় হুবহু একই কথা দিয়ে, হিসাব কষার ক্রিয়াটাও একই থাকে, বদলায় শুধু হিসাবের ফলটা। এখানে সেই খরচ আল্লাহর নৈকট্য, আর রসূল ﷺ এর দু'আ পাওয়ার পথ। কাজটা দুই আয়াতেই এক। দুইজন সমান পরিমাণ দিল, একজনের ঘর থেকে জরিমানা গেল, আরেকজন এক কদম কাছে গেল। তারপর আয়াতটি এমন কিছু করে যা করার কোনো দরকার ছিল না। বান্দার এই হিসাবটা আল্লাহ নিজে স্বীকার করে নেন, বলেন যে সত্যিই তা তাদের নৈকট্যের মাধ্যম। আর শেষটা মজুরির কথায় নয়, সেই রহমতের কথায়, যার ভেতরে তিনি তাদের ঢুকিয়ে নেবেন।",
+    "pointsEn": [
+      "When I hand something over, which of these two verses is describing me?",
+      "Do I feel the amount leaving my hand, or do I feel myself moving toward Allah?",
+      "Whose du'a would I want said over what I give, and have I ever asked anyone for it?",
+      "What would be different about my giving if I expected nothing back from anybody in this world?",
+      "Allah confirmed their reckoning out loud; which part of my own accounting am I quietly hoping He will confirm?"
+    ],
+    "pointsBn": [
+      "হাত থেকে কিছু বেরিয়ে যাওয়ার সময় এই দুই আয়াতের কোনটা আমার কথা বলছে?",
+      "টাকাটা যাচ্ছে বলে টানটা টের পাই, নাকি নিজে আল্লাহর দিকে এগোচ্ছি বলে টের পাই?",
+      "আমার দেওয়া জিনিসের উপর কার দু'আ চাই, আর কখনো কারো কাছে সেই দু'আ চেয়েছি কি?",
+      "দুনিয়ায় কারো কাছ থেকে কিছুই ফেরত আশা না করলে আমার দান কেমন হত?",
+      "তাদের হিসাবটা আল্লাহ নিজে কবুল বলে জানিয়ে দিলেন; আমার হিসাবের কোন অংশটা তিনি কবুল করবেন বলে চুপচাপ আশা করি?"
+    ],
+    "lessonEn": "Two men give the same amount; one has paid a fine and the other has drawn nearer. The reckoning separates them, and this verse confirms only one of them.",
+    "lessonBn": "দুইজন সমান পরিমাণ দিল, একজনের কাছে তা জরিমানা, আরেকজনের কাছে নৈকট্য। তফাতটা হিসাবের, আর আল্লাহ তাদের একজনের হিসাবকেই কবুল বলে জানিয়ে দেন।"
   }
 };
 

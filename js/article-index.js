@@ -626,7 +626,8 @@ var LQ_ARTICLE_IDS = {
     "9:72",
     "9:79",
     "9:85",
-    "9:88"
+    "9:88",
+    "9:99"
   ],
   "seerah": [
     "abdurrahman_conversion",
