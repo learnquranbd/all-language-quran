@@ -819,6 +819,162 @@ Object.assign(TADABBUR_ARTICLES, {
       }
     ]
   },
+  "8:36": {
+    "sections": [
+      {
+        "h": {
+          "en": "Where the Money Came From",
+          "bn": "টাকাটা এসেছিল কোথা থেকে"
+        },
+        "p": [
+          {
+            "en": "Al-Anfal is Madinan, and the verses just before this one are about Makkah rather than about money. 8:30 recalls the plot to restrain or kill or expel the Prophet ﷺ, 8:31 their line that the revelation is legends of the ancients, 8:32 their prayer for stones from the sky, and 8:34 their claim to be guardians of the Sacred Mosque. Then the subject turns to their treasury. 8:37 will give the purpose behind what this verse describes, and 8:38 will repeat the offer that 8:19 already made: if they cease, what is past is forgiven.",
+            "bn": "সূরা আনফাল মাদানী, আর এ আয়াতের ঠিক আগের আয়াতগুলো টাকার কথা নয়, মক্কার কথা। ৮:৩০ আয়াত মনে করায় নবীকে ﷺ বন্দী করা, হত্যা করা বা বের করে দেওয়ার ষড়যন্ত্র, ৮:৩১ আয়াত তাদের কথা যে ওহী পুরনো কালের কিসসা, ৮:৩২ আয়াত আসমান থেকে পাথর চেয়ে তাদের দোয়া, আর ৮:৩৪ আয়াত মাসজিদুল হারামের মুতাওয়াল্লী বলে তাদের দাবি। এরপর কথা ঘুরে যায় তাদের কোষাগারের দিকে। ৮:৩৭ আয়াত বলবে এ আয়াত যা বর্ণনা করছে তার পেছনের উদ্দেশ্য, আর ৮:৩৮ আয়াত আবার সেই প্রস্তাবই দেবে যা ৮:১৯ আয়াত একবার দিয়েছে: তারা বিরত হলে যা হয়ে গেছে তা মাফ।"
+          },
+          {
+            "en": "Three different occasions are reported for the verse and they are worth keeping apart. Ibn Kathir carries Ibn Ishaq's account through az-Zuhri and others: after Badr, Quraysh who had lost fathers, sons and brothers, among them Abdullah ibn Abi Rabi'ah, Ikrimah ibn Abi Jahl and Safwan ibn Umayyah, went to Abu Sufyan and to those whose wealth was in the caravan and asked them to fund a fight, and they agreed. Ibn Ishaq says the verse came down about them, and reports that from Ibn Abbas (RA).",
+            "bn": "এ আয়াতের জন্য তিনটি আলাদা শানে নুযূল বর্ণিত, আর সেগুলো আলাদা রাখাই ঠিক। ইবনু কাসীর আনেন ইবনু ইসহাকের বর্ণনা যুহরী ও অন্যদের সূত্রে: বদরের পর কুরাইশের যারা বাপ, ছেলে আর ভাই হারিয়েছিল, তাদের মধ্যে আবদুল্লাহ ইবনু আবী রাবীআ, ইকরিমা ইবনু আবী জাহল ও সাফওয়ান ইবনু উমাইয়া, তারা আবূ সুফিয়ানের কাছে আর যাদের সম্পদ কাফেলায় ছিল তাদের কাছে গিয়ে যুদ্ধের খরচ চাইল, আর তারা রাজি হলো। ইবনু ইসহাক বলেন, আয়াত তাদের সম্পর্কেই নেমেছে, আর এ কথা তিনি ইবনু আব্বাস (রাঃ) থেকে বর্ণনা করেন।"
+          },
+          {
+            "en": "The second names Uhud. Mujahid, Sa'id ibn Jubayr, al-Hakam, Qatadah, as-Suddi and Ibn Abza all read the verse of Abu Sufyan's spending there; at-Tabari carries from Sa'id ibn Jubayr and Ibn Abza that he hired two thousand of the Ahabish of Banu Kinanah, and from al-Hakam that he spent forty uqiyah, with at-Tabari adding that an uqiyah in those days was forty-two mithqal. The third is ad-Dahhak's, that it came down about the idolaters of Badr. Ibn Kathir then settles the matter in one line: in any case the verse is general, even though a specific incident accompanied its revelation.",
+            "bn": "দ্বিতীয়টি নাম নেয় উহুদের। মুজাহিদ, সাঈদ ইবনু জুবাইর, হাকাম, কাতাদা, সুদ্দী ও ইবনু আবযা সবাই আয়াতটি পড়েন সেখানে আবূ সুফিয়ানের খরচ নিয়ে। তাবারী সাঈদ ইবনু জুবাইর ও ইবনু আবযা থেকে আনেন, সে বানূ কিনানার আহাবীশদের দুই হাজার লোক ভাড়া করেছিল, আর হাকাম থেকে আনেন, সে চল্লিশ উকিয়া খরচ করেছিল; তাবারী যোগ করেন, তখনকার এক উকিয়া ছিল বিয়াল্লিশ মিসকাল। তৃতীয়টি দাহহাকের কথা, আয়াত নেমেছে বদরের মুশরিকদের সম্পর্কে। এরপর ইবনু কাসীর এক কথায় বিষয়টা মিটিয়ে দেন: যা-ই হোক, আয়াত ব্যাপক, যদিও এর নাযিল হওয়ার সঙ্গে একটি নির্দিষ্ট ঘটনা জড়িয়ে ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Wealth, and What It Buys",
+          "bn": "সম্পদ, আর তা যা কিনে দেয়"
+        },
+        "p": [
+          {
+            "en": "The first verb is in the present tense, yunfiqun, the form that reports a habit rather than an episode: spending is what they do. The purpose is marked by a lam, li-yasuddu, so that they may turn people away. At-Tabari fills in the mechanics: they hand it to their own kind among the idolaters so that those men may be strengthened by it against the Messenger ﷺ and the believers. Money is not described here as an idol but as a supply line.",
+            "bn": "প্রথম ক্রিয়াটি বর্তমান কালে, ইউনফিকূন, যে গঠন কোনো এক ঘটনা নয়, স্বভাব জানায়: খরচ করাটাই তাদের কাজ। উদ্দেশ্য বোঝাতে বসেছে লাম, লিয়াসুদ্দূ, যাতে তারা মানুষকে ফিরিয়ে রাখতে পারে। তাবারী কাজের ধরনটা ধরিয়ে দেন: তারা সেটা তুলে দেয় মুশরিকদের মধ্যে নিজেদেরই মতো লোকদের হাতে, যাতে ওরা তা দিয়ে রাসূলের ﷺ আর মু'মিনদের বিরুদ্ধে শক্তি পায়। টাকাকে এখানে মূর্তি বলা হচ্ছে না, বলা হচ্ছে রসদের সরবরাহপথ।"
+          },
+          {
+            "en": "Then the sequence, and it runs in three steps joined by thumma, then. They will certainly spend it, the emphatic future doing that work. Then it becomes a hasrah upon them, from a root for the kind of regret that strips a person bare. Then they are overcome. The last two steps are passive, and no agent is named in either: they are not told who will overcome them or who will gather them. The verse ends on the second passive, to Hell they will be gathered.",
+            "bn": "এরপর আসে ধারাবাহিকতা, আর সেটা চলে তিন ধাপে, ছুম্মা অর্থাৎ তারপর দিয়ে জোড়া। তারা অবশ্যই খরচ করবে, আর জোরালো ভবিষ্যৎ কালই এ কাজটা করে দেয়। তারপর সেটা তাদের উপর হাসরাত হয়ে দাঁড়ায়, আর এ ধাতুর অর্থ সেই ধরনের আফসোস যা মানুষকে খালি করে দেয়। তারপর তারা পরাজিত হয়। শেষ দুই ধাপ কর্মবাচ্যে, আর কোনোটিতেই কর্তার নাম নেই: তাদের বলা হচ্ছে না কে তাদের পরাজিত করবে বা কে তাদের একত্র করবে। আয়াত শেষও হয় দ্বিতীয় কর্মবাচ্যেই, জাহান্নামের দিকে তাদের একত্র করা হবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Regret as the Return",
+          "bn": "লাভের জায়গায় আফসোস"
+        },
+        "p": [
+          {
+            "en": "At-Tabari explains why the spending turns: their wealth goes and they do not get what they were hoping and reaching for, the putting out of Allah's light and the raising of the word of unbelief above the word of Allah, because it is Allah who raises His own word and makes the word of unbelief lowest. Then the believers overcome them. The loss is double on his reading, the money and the object both, and the second loss is the one the buyer had not priced.",
+            "bn": "খরচটা কেন উল্টো দিকে ঘুরে যায়, তাবারী তা খুলে বলেন: তাদের সম্পদ চলে যায়, আর যা তারা আশা করছিল আর যার দিকে হাত বাড়িয়েছিল তা তারা পায় না, অর্থাৎ আল্লাহর নূর নিভিয়ে দেওয়া আর কুফরের কথাকে আল্লাহর কথার উপরে তোলা। কারণ আল্লাহই নিজের কথাকে উপরে তোলেন আর কুফরের কথাকে রাখেন সবচেয়ে নিচে। তারপর মু'মিনরা তাদের উপর জয়ী হয়। তাঁর পাঠে ক্ষতি দুটো, টাকা আর উদ্দেশ্য দুটোই যায়, আর দ্বিতীয় ক্ষতিটার দাম ক্রেতা হিসাবেই ধরেনি।"
+          },
+          {
+            "en": "At-Tabari then draws up the account in two columns. For the man who lived, his wealth was raided out of his hands and went for nothing with no benefit reached, and he came home overcome, subdued, stripped. For the man who died, he was killed and stripped and hurried on to the Fire. It is the plainest statement in the tafsir of what the verse means by regret, and it is worth noticing that the living man and the dead man arrive at the same word.",
+            "bn": "এরপর তাবারী হিসাবটা দুই কলামে সাজান। যে লোক বেঁচে রইল, তার সম্পদ হাত থেকে লুট হয়ে গেল, কোনো লাভ হাতে না এসে বৃথা গেল, আর সে ফিরে এল পরাজিত, দমে যাওয়া, সর্বস্বহারা হয়ে। যে লোক মরে গেল, সে নিহত হলো, তার সব খোয়া গেল, আর তাকে তাড়িয়ে নেওয়া হলো আগুনের দিকে। আয়াত আফসোস বলতে কী বোঝায়, তাফসীরে এর চেয়ে সোজা কথা আর নেই। আর খেয়াল করার মতো ব্যাপার হলো, বেঁচে থাকা লোক আর মরে যাওয়া লোক, দুজনেই গিয়ে ঠেকে একই শব্দে।"
+          },
+          {
+            "en": "As-Sa'di adds the part that happens inside the spender. The money will go out easily, he says, and it will feel light to them, because of how firmly they hold to what is false and how deeply they hate the truth. That is the observation a reader should take personally. A wrong expense is not usually signed with a heavy hand; conviction makes it feel cheap. The regret he names afterwards is not only financial: he calls it remorse and disgrace and humiliation, and then they are overcome.",
+            "bn": "সা'দী যোগ করেন খরচকারীর ভেতরে যা ঘটে সেটুকু। তিনি বলেন, টাকা বেরিয়ে যাবে সহজেই, আর তাদের কাছে ভারই লাগবে না, কারণ তারা বাতিলকে ধরে আছে শক্ত হাতে আর হককে ঘৃণা করে গভীরভাবে। এ কথাটাই পাঠকের নিজের গায়ে নেওয়ার মতো। ভুল খরচে সাধারণত ভারী হাতে সই করা হয় না; বিশ্বাস জিনিসটাকে সস্তা করে দেয়। এরপর যে আফসোসের নাম তিনি নেন, সেটা কেবল টাকার আফসোস নয়: তিনি বলেন অনুতাপ, অপমান আর লাঞ্ছনা, আর তারপর তারা পরাজিত হয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Last Clause Narrows",
+          "bn": "শেষ কথাটা সংকুচিত হয় কেন"
+        },
+        "p": [
+          {
+            "en": "Al-Baghawi carries a fourth report of the occasion, from al-Kalbi and Muqatil: that it came down about the men who fed the army at Badr, twelve of Quraysh, each one feeding ten camels a day. The list he gives includes men who did not die on that side. Al-Abbas ibn Abd al-Muttalib (RA) is in it, and so is Hakim ibn Hizam (RA), and both of them became Muslim. A reader who knows that will want to know what the verse does with them.",
+            "bn": "শানে নুযূলের চতুর্থ একটি বর্ণনা আনেন বাগভী, কালবী ও মুকাতিল থেকে: আয়াত নেমেছে বদরে সৈন্যদের খাওয়ানো লোকদের সম্পর্কে, কুরাইশের বারোজন, যাদের প্রত্যেকে দিনে দশটি উট খাওয়াত। তিনি যে তালিকা দেন তাতে এমন লোকও আছেন যাঁরা ওই পক্ষে মরেননি। আব্বাস ইবনু আবদুল মুত্তালিব (রাঃ) সে তালিকায় আছেন, হাকীম ইবনু হিযামও (রাঃ) আছেন, আর দুজনেই পরে মুসলিম হয়েছেন। যে পাঠক এটা জানেন, তিনি জানতে চাইবেন আয়াত তাঁদের নিয়ে কী করে।"
+          },
+          {
+            "en": "Al-Baghawi answers it in his closing line, and it is the sharpest thing in his entry. The verse's first clause is about those who disbelieve and spend; its last clause says that those who disbelieve will be gathered to Hell. He notes that the disbelievers are specified in that last clause because among them were men who accepted Islam. The wording narrows on purpose. A verse can describe what a man is funding today without closing the file on where he ends, and this one leaves that door where 8:38 will open it.",
+            "bn": "বাগভী এর জবাব দেন নিজের শেষ কথায়, আর তাঁর আলোচনায় ওটাই সবচেয়ে ধারালো। আয়াতের প্রথম কথা তাদের নিয়ে যারা কুফরী করে আর খরচ করে; শেষ কথা বলে, যারা কুফরী করে তাদের জাহান্নামের দিকে একত্র করা হবে। তিনি ধরিয়ে দেন, শেষ কথায় কাফিরদের আলাদা করে বলা হয়েছে, কারণ তাদের মধ্যে এমন লোকও ছিল যারা ইসলাম গ্রহণ করেছে। শব্দ বেছে নিয়েই সংকুচিত করা হয়েছে। কোনো আয়াত একজন লোক আজ কিসে টাকা ঢালছে তা বলতে পারে, অথচ সে শেষে কোথায় গিয়ে দাঁড়াবে সে ফাইল বন্ধ না করেই; আর এ আয়াত সেই দরজাটা ঠিক সেখানেই রেখে যায় যেখানে ৮:৩৮ আয়াত তা খুলে দেবে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What the Sunnah Says About Motive",
+          "bn": "নিয়ত নিয়ে সুন্নাহ যা বলে"
+        },
+        "p": [
+          {
+            "en": "None of the tafsirs consulted attaches a saying of the Prophet ﷺ to this verse. What they attach is sirah: the meeting after Badr, the hire of the Ahabish, the feeding of the army, the weight of an uqiyah. Those are reports about an occasion, transmitted by exegetes from their teachers, and they are useful for seeing the scene rather than for settling a ruling. The verse needs no narration to be understood, and none is borrowed here to fill the slot.",
+            "bn": "দেখা তাফসীরগুলোর কোনোটিই এ আয়াতের সঙ্গে নবীর ﷺ কোনো বাণী জোড়ে না। তারা যা জোড়ে তা সীরাত: বদরের পরের সেই বৈঠক, আহাবীশদের ভাড়া করা, সৈন্যদের খাওয়ানো, এক উকিয়ার ওজন। এগুলো শানে নুযূল নিয়ে বর্ণনা, মুফাসসিরগণ নিজেদের উস্তাদদের থেকে এনেছেন, আর এগুলোর কাজ দৃশ্যটা দেখতে সাহায্য করা, কোনো বিধান ঠিক করা নয়। আয়াত বুঝতে কোনো বর্ণনার দরকার নেই, আর জায়গা ভরাতে এখানে ধার করা হাদীসও আনা হচ্ছে না।"
+          },
+          {
+            "en": "One sound narration stands beside the idea without being tied to the verse, and it is offered on that footing. Sahih al-Bukhari 2887 has from Abu Hurayrah (RA) that the Prophet ﷺ said, perish the slave of the dinar and the dirham, pleased if he is given and displeased if he is not. It sits in Bukhari's chapter on fighting, which is where this verse lives too, and it names the thing the verse is describing from the inside: a man whose money has been given a master.",
+            "bn": "একটি সহীহ বর্ণনা এ ভাবনার পাশে দাঁড়ায়, যদিও আয়াতের সঙ্গে বাঁধা নয়, আর সেই শর্তেই এখানে আনা হচ্ছে। সহীহ বুখারীর ২৮৮৭ নম্বরে আবূ হুরাইরা (রাঃ) থেকে আছে, নবী ﷺ বলেছেন, ধ্বংস হোক দীনার আর দিরহামের গোলাম, দেওয়া হলে খুশি আর না দিলে নারাজ। বর্ণনাটি বুখারীর জিহাদ অধ্যায়ে, আর এ আয়াতও সেখানেই বাস করে। আয়াত যা বর্ণনা করছে, এ বর্ণনা তার নাম দেয় ভেতর থেকে: এমন লোক, যার টাকার একজন মালিক ঠিক করে দেওয়া হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses on the Same Spending",
+          "bn": "একই খরচ নিয়ে আয়াত"
+        },
+        "p": [
+          {
+            "en": "3:117 gives the picture this verse states as a forecast: what they spend in this worldly life is like a wind carrying frost that strikes a harvest and destroys it. The crop was real and the labour was real; the wind decided what the season was worth. 3:10 says plainly that neither wealth nor children will avail such men anything against Allah, which is the same conclusion our verse reaches by following the money rather than by declaring it.",
+            "bn": "এ আয়াত যা পূর্বাভাস হিসেবে বলে, ৩:১১৭ আয়াত তার ছবিটা দেয়: দুনিয়ার এ জীবনে তারা যা খরচ করে তা হিমশীতল বাতাসের মতো, যা শস্যক্ষেত্রে আঘাত করে আর তা নষ্ট করে দেয়। ফসল সত্যি ছিল, খাটুনিও সত্যি ছিল; মওসুমের দাম কত, সেটা ঠিক করে দিল বাতাস। ৩:১০ আয়াত সোজা বলে দেয়, এমন লোকদের সম্পদ আর সন্তান আল্লাহর সামনে তাদের কোনো কাজেই আসবে না। আমাদের আয়াত একই সিদ্ধান্তে পৌঁছায়, তবে ঘোষণা দিয়ে নয়, টাকার পেছনে পেছনে হেঁটে।"
+          },
+          {
+            "en": "47:32 is the closest in wording, joining those who disbelieved and turned people from the path of Allah with the verdict that they will never harm Allah at all and that He will render their deeds worthless. 9:34 turns the same lens on a different crowd, those who take people's wealth wrongly and turn them from the way of Allah. And 8:38, two verses on from ours, says what the money could still buy: if they cease, what has already passed is forgiven them.",
+            "bn": "শব্দের দিক থেকে সবচেয়ে কাছের ৪৭:৩২ আয়াত, যা কুফরী করা আর আল্লাহর পথ থেকে মানুষ ফিরিয়ে রাখা লোকদের সঙ্গে জুড়ে দেয় এই রায়: তারা আল্লাহর কোনোই ক্ষতি করতে পারবে না, আর তিনি তাদের আমল ব্যর্থ করে দেবেন। ৯:৩৪ আয়াত একই চশমা ঘুরিয়ে ধরে অন্য এক দলের দিকে, যারা অন্যায়ভাবে মানুষের সম্পদ নেয় আর তাদের আল্লাহর পথ থেকে ফিরিয়ে রাখে। আর আমাদের আয়াতের দুই আয়াত পরেই ৮:৩৮ আয়াত বলে দেয়, টাকা দিয়ে তখনো কী কেনা যেত: তারা বিরত হলে যা হয়ে গেছে তা তাদের মাফ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Money With a Direction",
+          "bn": "টাকার একটা মুখ থাকে"
+        },
+        "p": [
+          {
+            "en": "The practical force of the verse is that it treats an expense as having a life, not a moment. At the moment of payment their money worked: hires were made, an army was fed, a campaign was mounted. The verse does not dispute any of that. It follows the payment forward, past the campaign, past the defeat, to where the payer stands holding nothing. Anyone can do the same arithmetic on a subscription, a habit, a business, or a quarrel being funded month after month.",
+            "bn": "আয়াতের কাজের দিকটা হলো, এটা খরচকে দেখে একটা মুহূর্ত হিসেবে নয়, একটা আয়ু হিসেবে। টাকা দেওয়ার মুহূর্তে তাদের টাকা কাজ করেছিল: লোক ভাড়া হয়েছে, সৈন্য খেয়েছে, অভিযান দাঁড়িয়েছে। আয়াত এর কোনোটাই অস্বীকার করে না। সে টাকাটার পেছনে সামনের দিকে হাঁটে, অভিযান পেরিয়ে, পরাজয় পেরিয়ে, সেখানে গিয়ে পৌঁছায় যেখানে দাতা দাঁড়িয়ে আছে খালি হাতে। যে কেউ একই হিসাব কষতে পারে নিজের কোনো সাবস্ক্রিপশন, অভ্যাস, ব্যবসা, বা মাসের পর মাস টাকা গিলে চলা কোনো ঝগড়ার উপর।"
+          },
+          {
+            "en": "The other half of it is as-Sa'di's note about lightness. If an expense feels easy to approve, that ease is not evidence that it is right; conviction about the cause is exactly what makes the signature light. The useful test the verse suggests is not how the payment feels now but where it arrives. A believer has the same choice in the opposite direction, because the verse's own logic works for good spending too: the money goes, and the account stays open.",
+            "bn": "এর বাকি অর্ধেকটা সা'দীর সেই হালকা লাগার কথা। কোনো খরচে সায় দিতে যদি সহজ লাগে, সেই সহজ লাগাটা প্রমাণ নয় যে কাজটা ঠিক; বরং উদ্দেশ্য নিয়ে দৃঢ় বিশ্বাসই সইটাকে হালকা করে দেয়। আয়াত যে যাচাইটা হাতে দেয় তা এই নয় যে খরচটা এখন কেমন লাগছে, বরং এই যে সেটা গিয়ে কোথায় পৌঁছায়। মু'মিনের সামনেও একই বাছাই আছে, তবে উল্টো দিকে, কারণ আয়াতের নিজের যুক্তি ভালো খরচের বেলায়ও খাটে: টাকা চলে যায়, আর হিসাবটা খোলা থেকে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer Over What You Give",
+          "bn": "যা দিচ্ছেন তার উপর এক দোয়া"
+        },
+        "p": [
+          {
+            "en": "This verse carries no supplication, and the honest thing is to say so and then point to where the Book keeps the prayer that answers it. 2:127 has Ibrahim (AS) and Isma'il (AS) raising the foundations of the House and saying only, our Lord, accept from us; indeed You are the Hearing, the Knowing. Set beside our verse the fit is exact. There, men spent on building His House and asked for the spending to be accepted. Here, men spent against it and the spending came back as regret.",
+            "bn": "এ আয়াতে কোনো দোয়া নেই, আর সৎ কথাটা হলো সেটা বলে দিয়ে দেখিয়ে দেওয়া, এর জবাব দেওয়া দোয়াটা কিতাব কোথায় রেখেছে। ২:১২৭ আয়াতে ইবরাহীম (আঃ) ও ইসমাঈল (আঃ) কা'বাঘরের ভিত তুলছেন, আর বলছেন কেবল এটুকুই, হে আমাদের রব, আমাদের পক্ষ থেকে কবুল করুন; নিশ্চয়ই আপনি সর্বশ্রোতা, সর্বজ্ঞ। আমাদের আয়াতের পাশে রাখলে মিলটা নিখুঁত। ওখানে মানুষ খরচ করছে তাঁর ঘর বানাতে, আর চাইছে খরচটা কবুল হোক। এখানে মানুষ খরচ করল সেটার বিরুদ্ধে, আর খরচটা ফিরে এল আফসোস হয়ে।"
+          },
+          {
+            "en": "If a sentence in this verse's own vocabulary is wanted, it can be said and claimed as nothing more: O Allah, do not let my wealth go out for anything that turns people from Your way, and do not let what I give become a regret on my hands; accept from me instead. That is a supplication assembled from the words of the verse and of 2:127, and it is not a Sunnah du'a.",
+            "bn": "এ আয়াতের নিজের শব্দে গড়া একটা বাক্য চাইলে সেটা বলা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আমার সম্পদ এমন কিছুতে যেতে দেবেন না যা মানুষকে আপনার পথ থেকে ফিরিয়ে রাখে, আর আমি যা দিই তা আমার হাতে আফসোস হয়ে যেতে দেবেন না; বদলে আমার পক্ষ থেকে কবুল করুন। এটি আয়াতের আর ২:১২৭ আয়াতের শব্দ জুড়ে বানানো দোয়া, সুন্নাহর দোয়া নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Own Spending",
+          "bn": "নিজের খরচ নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "Is there money leaving my hands every month toward something I would not want to be holding at the end of its life? The verse calls their spending a regret before they had felt it as one, so what am I funding now that my older self will read that way? And their giving felt light to them: what is it that makes a wrong expense easy to sign off?",
+            "bn": "প্রতি মাসে আমার হাত থেকে কি এমন কিছুতে টাকা বেরিয়ে যাচ্ছে, যার আয়ুর শেষে সেটা হাতে থাকা আমি চাইব না? তারা আফসোস বলে টের পাওয়ার আগেই আয়াত তাদের খরচকে আফসোস বলে দিয়েছে; তাহলে এখন আমি কিসে টাকা ঢালছি, যাকে আমার বুড়ো বয়সের আমি ওভাবেই পড়বে? আর তাদের দেওয়াটা তাদের কাছে হালকা লেগেছিল: ভুল খরচে সই করা সহজ করে দেয় কোন জিনিসটা?"
+          },
+          {
+            "en": "Two that are harder. If somebody followed my spending to the end of its life, the way this verse follows theirs, where would it arrive and what would be standing there? And what is the one thing I could fund this month that I would still be glad about on the day the verse ends on, when people are gathered?",
+            "bn": "আরও দুটি, একটু কঠিন। এ আয়াত যেভাবে তাদের খরচের পেছনে গেছে, সেভাবে কেউ যদি আমার খরচের পেছনে তার আয়ুর শেষ পর্যন্ত যায়, তবে সেটা গিয়ে কোথায় পৌঁছাবে আর সেখানে কী দাঁড়িয়ে থাকবে? আর এ মাসে এমন কোন একটা জিনিসে আমি টাকা দিতে পারি, আয়াত যে দিনের কথায় শেষ হয়, মানুষকে একত্র করার সেই দিনেও যা নিয়ে আমি খুশি থাকব?"
+          }
+        ]
+      }
+    ]
+  },
   "8:46": {
     "sections": [
       {

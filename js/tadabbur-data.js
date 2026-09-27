@@ -6703,6 +6703,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The first thing taqwa buys is not ease but the power to tell things apart; conduct comes before clarity, not after it.",
     "lessonBn": "তাকওয়া দিয়ে প্রথমে যা কেনা হয় তা আরাম নয়, জিনিস আলাদা করে চেনার শক্তি। আমল আসে পরিষ্কার দেখার আগে, পরে নয়।"
+  },
+  "8:36": {
+    "reflectionEn": "A verse about money, and it reads like a forecast. They spend their wealth to keep people off the road to Allah. They will go on spending it. Then the spending turns into regret. Then they are overcome. Three steps, in that order, and the last two are put in the passive so that nobody is named as doing it to them. What is striking is that the spending is not called a waste at the time it happens. It works, it buys what it was meant to buy, it hires what it meant to hire. The verse simply follows the money to the end of its life and reports what is left.",
+    "reflectionBn": "টাকা নিয়ে আয়াত, আর পড়তে গিয়ে মনে হয় যেন পূর্বাভাস। তারা নিজেদের সম্পদ খরচ করে মানুষকে আল্লাহর পথ থেকে আটকে রাখতে। তারা খরচ করেই যাবে। তারপর সেই খরচটাই হয়ে যায় আফসোস। তারপর তারা পরাজিত হয়। তিনটি ধাপ, এই ক্রমেই, আর শেষ দুটি রাখা হয়েছে কর্মবাচ্যে, যাতে কে তাদের এ অবস্থায় ফেলছে তার নাম উঠে না আসে। অবাক করার মতো কথা হলো, খরচের সময় খরচটাকে অপচয় বলা হচ্ছে না। ওটা কাজ করে, যা কিনতে চাওয়া হয়েছিল তা কিনেও দেয়, যাকে ভাড়া করতে চাওয়া হয়েছিল তাকে ভাড়াও করে দেয়। আয়াত শুধু টাকাটার পেছনে পেছনে তার আয়ুর শেষ পর্যন্ত যায়, আর জানায় শেষে কী পড়ে রইল।",
+    "pointsEn": [
+      "Is there money going out of my hands every month toward something I would not want to be holding at the end?",
+      "The verse calls their spending a regret before they felt it as one. What am I spending on now that my older self will read that way?",
+      "They gave generously and it felt light to them. What makes a wrong expense feel easy to sign off?",
+      "If my spending were followed to the end of its life, as this verse follows theirs, where would it arrive?",
+      "What one thing could I fund this month that I would still be glad of on the day I am gathered?"
+    ],
+    "pointsBn": [
+      "প্রতি মাসে আমার হাত থেকে কি এমন কিছুতে টাকা যাচ্ছে, শেষ বেলায় যেটা হাতে থাকা আমি চাইব না?",
+      "তারা আফসোস বলে টের পাওয়ার আগেই আয়াত তাদের খরচকে আফসোস বলে দিয়েছে। এখন আমি কিসে খরচ করছি, যাকে আমার বুড়ো বয়সের আমি ওভাবেই পড়বে?",
+      "তারা দিল খোলা হাতে, আর তাদের কাছে ব্যাপারটা হালকাই লেগেছিল। ভুল খরচে সই করা সহজ হয়ে যায় কেন?",
+      "আমার খরচের পেছনে পেছনে যদি তার আয়ুর শেষ পর্যন্ত যাওয়া হয়, যেভাবে এ আয়াত তাদের খরচের পেছনে গেছে, তবে সেটা গিয়ে কোথায় পৌঁছাবে?",
+      "এ মাসে এমন কোন একটা কাজে আমি টাকা দিতে পারি, যেদিন আমাকে একত্র করা হবে সেদিনও যা নিয়ে আমি খুশি থাকব?"
+    ],
+    "lessonEn": "Money buys what it is spent on, and then keeps a longer account; follow an expense to the end of its life before you sign for it.",
+    "lessonBn": "টাকা যা কিনতে যায় তা কিনেই দেয়, তারপর আরও লম্বা এক হিসাব রেখে চলে। কোনো খরচে সই করার আগে সেটার আয়ুর শেষ পর্যন্ত গিয়ে দেখে নিন।"
   }
 };
 
