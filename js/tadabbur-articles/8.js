@@ -1662,5 +1662,157 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "8:72": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Contract Allah Made",
+          "bn": "আল্লাহর করা এক চুক্তি"
+        },
+        "p": [
+          {
+            "en": "Al-Anfal is Madinan, and its closing verses turn from the battlefield to the community that fought there. Our verse names two groups and binds them; 8:73 says that those who disbelieve are allies of one another too, and that failing in this will leave fitnah and great corruption on the earth; 8:74 calls the same two groups the believers in truth; and 8:75 adds those who believed and emigrated later, then gives blood relatives their precedence in the decree of Allah.",
+            "bn": "সূরা আনফাল মাদানী, আর এর শেষ আয়াতগুলো যুদ্ধের মাঠ থেকে মুখ ফিরিয়ে তাকায় সেই সমাজের দিকে, যারা ওখানে লড়েছে। আমাদের আয়াত দুটি দলের নাম নেয় আর তাদের বেঁধে দেয়; ৮:৭৩ আয়াত বলে, যারা কুফরী করে তারাও একে অন্যের বন্ধু, আর এ কাজে ঘাটতি হলে জমিনে ফিতনা আর মহাবিপর্যয় থেকে যাবে; ৮:৭৪ আয়াত এ দুটি দলকেই বলে প্রকৃত মু'মিন; আর ৮:৭৫ আয়াত যোগ করে তাদের, যারা পরে ঈমান এনেছে আর হিজরত করেছে, তারপর আল্লাহর বিধানে রক্তের আত্মীয়দের অগ্রাধিকার দিয়ে দেয়।"
+          },
+          {
+            "en": "As-Sa'di reads the verse as an instrument rather than a description: this is a contract of alliance and love, which Allah contracted between the Muhajirun who believed and emigrated in His path and left their homelands for Him, and the Ansar who sheltered the Messenger of Allah ﷺ and his companions and aided them with their homes and their wealth and themselves. His reason for the bond is worth keeping: for the completeness of their faith and the completeness of the connection between them.",
+            "bn": "সা'দী আয়াতটিকে পড়েন বর্ণনা হিসেবে নয়, দস্তুরি দলিল হিসেবে: এটি বন্ধুত্ব আর ভালোবাসার এক চুক্তি, যা আল্লাহ সম্পাদন করেছেন মুহাজিরদের মধ্যে, যাঁরা ঈমান এনেছেন আর তাঁর পথে হিজরত করেছেন আর তাঁর জন্য নিজেদের দেশ ছেড়েছেন, আর আনসারদের মধ্যে, যাঁরা রাসূলুল্লাহকে ﷺ আর তাঁর সঙ্গীদের আশ্রয় দিয়েছেন আর নিজেদের ঘর, নিজেদের সম্পদ আর নিজেদের জান দিয়ে তাঁদের সাহায্য করেছেন। বন্ধনের কারণ হিসেবে তিনি যা বলেন তা মনে রাখার মতো: তাঁদের ঈমানের পূর্ণতা আর তাঁদের পরস্পরের সংযোগের পূর্ণতা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Four Verbs, Then Two",
+          "bn": "চারটি ক্রিয়া, তারপর দুটি"
+        },
+        "p": [
+          {
+            "en": "The first group is given four verbs: they believed, they emigrated, and they fought with their wealth and their lives in the path of Allah. At-Tabari unpacks the second and third. Hajaru means they left their people and their kin and their houses, and that their people and kin left them; jahadu means they went to the utmost in wearing out their own selves in war against the enemies of Allah; and in the path of Allah he glosses as in the religion of Allah, which He made a road to His mercy and to safety from His punishment.",
+            "bn": "প্রথম দলটিকে দেওয়া হয় চারটি ক্রিয়া: তারা ঈমান এনেছে, হিজরত করেছে, আর নিজেদের সম্পদ আর নিজেদের জান দিয়ে আল্লাহর পথে লড়েছে। তাবারী দ্বিতীয় আর তৃতীয়টি খুলে দেন। হাজারূ মানে তারা নিজেদের লোক, নিজেদের আত্মীয় আর নিজেদের ঘর ছেড়েছে, আর তাদের লোক আর আত্মীয়রাও তাদের ছেড়েছে; জাহাদূ মানে তারা আল্লাহর শত্রুদের বিরুদ্ধে যুদ্ধে নিজেদেরকে ক্লান্ত করার শেষ সীমা পর্যন্ত গেছে; আর আল্লাহর পথে কথাটির ব্যাখ্যায় তিনি বলেন, আল্লাহর দীনে, যাকে তিনি বানিয়েছেন তাঁর রহমত আর তাঁর শাস্তি থেকে বাঁচার রাস্তা।"
+          },
+          {
+            "en": "The second group is given two verbs and no more: they sheltered and they helped. At-Tabari explains the first with the noun inside it, that they made for them a ma'wa, a place to come home to, settling them and turning rooms of their own houses into dwellings for them when their people had driven them out of their houses. The economy of it is the point. One group is described by everything it gave up, the other by two things it did, and the verse then says of both that some of them are the allies of others.",
+            "bn": "দ্বিতীয় দলটিকে দেওয়া হয় দুটি ক্রিয়া, বেশি নয়: তারা আশ্রয় দিয়েছে আর সাহায্য করেছে। তাবারী প্রথমটির ব্যাখ্যা দেন এর ভেতরের বিশেষ্য দিয়ে, তারা তাঁদের জন্য বানিয়েছিল মাওয়া, ফিরে আসার মতো এক জায়গা; তারা তাঁদের বসিয়েছিল, আর নিজেদের ঘরের কামরাগুলোকেই তাঁদের বাসস্থান করে দিয়েছিল, যখন তাঁদের নিজেদের লোকেরা তাঁদের ঘর থেকে বের করে দিয়েছিল। এর হিসাবের কম-বেশিটাই আসল কথা। এক দলকে বর্ণনা করা হয় তারা যা কিছু ছেড়ে দিয়েছে তা দিয়ে, অন্য দলকে দুটি কাজ দিয়ে; আর আয়াত এরপর দুই দল সম্পর্কেই বলে, তাদের একে অন্যের বন্ধু।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Allies, or Also Heirs",
+          "bn": "বন্ধু, নাকি ওয়ারিশও"
+        },
+        "p": [
+          {
+            "en": "At-Tabari gives his own reading first: the two parties, the Muhajirun and the Ansar, are each other's helpers and supporters against everyone else among the idolaters, their hands as one against whoever disbelieves in Allah, and brothers to one another rather than to their disbelieving relatives. That is alliance in the plain sense, and it is the reading the following verses support when they call the same people the believers in truth.",
+            "bn": "তাবারী প্রথমে দেন নিজের পাঠটি: দুই দল, মুহাজির আর আনসার, একে অন্যের সাহায্যকারী আর সহযোগী মুশরিকদের মধ্যে বাকি সবার বিরুদ্ধে, আল্লাহর সঙ্গে কুফরী করা যে কারও বিরুদ্ধে তাঁদের হাত এক, আর তাঁরা একে অন্যের ভাই, নিজেদের কাফির আত্মীয়দের নয়। এটাই সোজা অর্থে বন্ধুত্ব, আর পরের আয়াতগুলো যখন এ একই লোকদের প্রকৃত মু'মিন বলে, তখন তারা এ পাঠকেই সমর্থন করে।"
+          },
+          {
+            "en": "He then records a second reading, that what was meant is that some of them were closer to inheriting from others, and that Allah made them inherit from one another by emigration and by support rather than by kinship, and that He abrogated that afterwards with His words that those of blood relationship are closer to one another in the decree of Allah, which is 8:75 and again 33:6. He carries that from Ibn Abbas (RA), through Ali and Mu'awiyah. Ibn Kathir reports the same history and attributes the record of the brotherhood the Prophet ﷺ forged between the two groups to al-Bukhari, from Ibn Abbas (RA).",
+            "bn": "এরপর তিনি দ্বিতীয় একটি পাঠ লিখে রাখেন, অর্থ হলো তাঁদের কেউ কেউ অন্যদের ওয়ারিশ হওয়ার ব্যাপারে বেশি হকদার ছিলেন, আর আল্লাহ তাঁদের একে অন্যের ওয়ারিশ বানিয়েছিলেন হিজরত আর সাহায্য দিয়ে, আত্মীয়তা দিয়ে নয়; আর পরে তিনি সেটা রহিত করে দিয়েছেন তাঁর সেই কথায়, আল্লাহর বিধানে রক্তের আত্মীয়রাই একে অন্যের বেশি নিকটবর্তী, আর সেটি ৮:৭৫ আয়াত আর আবার ৩৩:৬ আয়াত। এ কথা তিনি আনেন ইবনু আব্বাস (রাঃ) থেকে, আলী আর মুআবিয়ার সূত্রে। ইবনু কাসীর একই ইতিহাস জানান, আর নবী ﷺ দুই দলের মধ্যে যে ভ্রাতৃত্ব গড়ে দিয়েছিলেন তার বর্ণনাটি তিনি বুখারীর দিকে নিসবত করেন, ইবনু আব্বাস (রাঃ) থেকে।"
+          },
+          {
+            "en": "Ibn Kathir attaches a narration to the phrase about alliance, reporting from Imam Ahmad, from Jarir ibn Abdullah al-Bajali (RA), that the Messenger of Allah ﷺ said that the Muhajirun and the Ansar are allies of one another, and that the freed ones of Quraysh and the freed ones of Thaqif are allies of one another until the Day of Resurrection. What the hadith adds to the verse is time: the verse states the bond, and the hadith extends the same word to groups who entered later and carries it to the end.",
+            "bn": "বন্ধুত্বের কথাটির সঙ্গে ইবনু কাসীর একটি বর্ণনা জুড়ে দেন, ইমাম আহমাদের সূত্রে, জারীর ইবনু আবদুল্লাহ আল-বাজালী (রাঃ) থেকে, যে রাসূলুল্লাহ ﷺ বলেছেন, মুহাজির আর আনসার একে অন্যের বন্ধু, আর কুরাইশের মুক্তিপ্রাপ্তরা আর সাকীফের মুক্তিপ্রাপ্তরা একে অন্যের বন্ধু কিয়ামতের দিন পর্যন্ত। হাদীসটি আয়াতের সঙ্গে যা যোগ করে তা হলো সময়: আয়াত বন্ধনটির কথা বলে, আর হাদীস একই শব্দ বাড়িয়ে দেয় পরে আসা দলগুলোর দিকে আর সেটাকে টেনে নিয়ে যায় শেষ পর্যন্ত।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Those Who Stayed Behind",
+          "bn": "যারা রয়ে গেল"
+        },
+        "p": [
+          {
+            "en": "The second half of the verse is harder than the first. Those who believed and did not emigrate: you have no walayah of theirs at all until they emigrate. As-Sa'di puts the reason in one sentence, that they cut off your alliance by separating themselves from you at the very time of severe need for men, so since they did not emigrate they had no share of the believers' walayah. The verse is not doubting their faith. It is declining to extend a specific bond to people who had not shared what built it.",
+            "bn": "আয়াতের দ্বিতীয় অর্ধেকটা প্রথমটার চেয়ে কঠিন। যারা ঈমান এনেছে কিন্তু হিজরত করেনি: তারা হিজরত না করা পর্যন্ত তাদের ওয়ালায়াতের কোনো কিছুই তোমাদের উপর নেই। সা'দী কারণটা এক বাক্যে বসিয়ে দেন, তারা তোমাদের সঙ্গে তোমাদের বন্ধুত্ব কেটে দিয়েছে ঠিক সেই সময়ে নিজেদের আলাদা করে রেখে, যখন লোকের প্রচণ্ড দরকার ছিল; কাজেই যেহেতু তারা হিজরত করেনি, মু'মিনদের ওয়ালায়াতের কোনো অংশ তাদের রইল না। আয়াত তাদের ঈমান নিয়ে সন্দেহ করছে না। সে কেবল একটি নির্দিষ্ট বন্ধন তাদের দিকে বাড়িয়ে দিতে রাজি হচ্ছে না, যারা সেই বন্ধন গড়ে তোলার কাজটায় শরিক হয়নি।"
+          },
+          {
+            "en": "And then, immediately, the duty that survives the withheld alliance. If they seek your help in the religion, the help is upon you. As-Sa'di narrows it exactly: that is, for the sake of fighting whoever fought them because of their religion; but as for those who fought them for other aims, their help is not upon you. So a claim was denied in the same breath as an obligation was confirmed, and the obligation is triggered by the reason for the attack rather than by the closeness of the tie.",
+            "bn": "আর এরপরই, সঙ্গে সঙ্গেই, আসে সেই দায়িত্ব যা আটকে রাখা বন্ধুত্বকেও টপকে টিকে থাকে। তারা দীনের ব্যাপারে তোমাদের সাহায্য চাইলে সাহায্য করা তোমাদের উপর। সা'দী এটিকে নিখুঁতভাবে সংকুচিত করেন: অর্থাৎ যারা তাদের দীনের কারণে তাদের সঙ্গে লড়েছে, তাদের সঙ্গে লড়ার জন্য; আর যারা অন্য কোনো উদ্দেশ্যে তাদের সঙ্গে লড়েছে, তাদের ব্যাপারে সাহায্য করা তোমাদের উপর নয়। অর্থাৎ একই শ্বাসে একটি দাবি নাকচ হলো আর একটি দায়িত্ব পাকা হলো, আর দায়িত্বটা চালু হয় আক্রমণের কারণ দিয়ে, সম্পর্কের ঘনিষ্ঠতা দিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Exception That Holds",
+          "bn": "যে ব্যতিক্রম টিকে থাকে"
+        },
+        "p": [
+          {
+            "en": "Then the clause that decides the character of the whole verse: except against a people between yourselves and whom there is a treaty. As-Sa'di reads mithaq here as a covenant to leave off fighting, and states the consequence without softening it. If those believers who did not emigrate want to fight such a people, do not aid them against them, because of the covenant between you and them. A call for help that the verse has just called a duty is stopped by a pledge already given.",
+            "bn": "এরপর আসে সেই কথাটি, যা গোটা আয়াতের চরিত্র ঠিক করে দেয়: তবে এমন কোনো জাতির বিরুদ্ধে নয়, যাদের সঙ্গে তোমাদের চুক্তি আছে। সা'দী এখানে মীসাককে পড়েন যুদ্ধ বন্ধ রাখার অঙ্গীকার হিসেবে, আর ফলাফলটা বলেন নরম না করেই। হিজরত না করা ওই মু'মিনরা যদি এমন কোনো জাতির সঙ্গে লড়তে চায়, তবে তাদের বিরুদ্ধে ওদের সাহায্য করো না, কারণ তোমাদের আর তাদের মাঝে যে অঙ্গীকার আছে। যে সাহায্যের ডাককে আয়াত সদ্য দায়িত্ব বলেছে, সেটাকে থামিয়ে দেয় আগে দিয়ে রাখা একটি কথা।"
+          },
+          {
+            "en": "Read beside 8:58, which forbids acting on a pact you have decided to end until the other side has been told, the surah is consistent to an unusual degree. There a suspicion of treachery did not license a quiet advantage; here the appeal of fellow believers does not license a broken pledge. The verse then closes with Allah is Seeing of what you do, which as-Sa'di takes as the reason the rulings are shaped as they are: He knows the states you are in, and legislates for you what suits them.",
+            "bn": "৮:৫৮ আয়াতের পাশে রেখে পড়লে, যেটি শেষ করার সিদ্ধান্ত নেওয়া চুক্তির উপর কাজ করা নিষেধ করে যতক্ষণ না অন্য পক্ষকে জানানো হয়, সূরাটির সঙ্গতি অসাধারণ। ওখানে খিয়ানতের সন্দেহ চুপচাপ সুবিধা নেওয়ার অনুমতি দেয়নি; এখানে সহ-মু'মিনদের আবেদন কথা ভাঙার অনুমতি দেয় না। এরপর আয়াত শেষ হয়, আর আল্লাহ তোমরা যা কর তা দেখেন; সা'দী এটিকে ধরেন বিধানগুলো কেন এভাবে গড়া তার কারণ হিসেবে: তোমরা যে অবস্থায় আছ তিনি তা জানেন, আর তোমাদের জন্য সেটির সঙ্গে মানানসই বিধানই দেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Verses on Mutual Loyalty",
+          "bn": "পরস্পরের বন্ধুত্ব নিয়ে আয়াত"
+        },
+        "p": [
+          {
+            "en": "9:71 states the bond in its widest form, the believing men and the believing women are allies of one another, and then lists what the alliance consists of: enjoining right, forbidding wrong, prayer, zakah, obedience. 59:9 shows the Ansar's half of our verse from the inside, loving those who emigrated to them, finding no want in their breasts for what the others were given, and preferring them over themselves even in their own need.",
+            "bn": "৯:৭১ আয়াত বন্ধনটির কথা বলে সবচেয়ে চওড়া রূপে, মু'মিন পুরুষ আর মু'মিন নারী একে অন্যের বন্ধু, আর তারপর তালিকা দেয় বন্ধুত্বটা আসলে কী কী নিয়ে: ভালো কাজের আদেশ, মন্দ কাজে নিষেধ, নামায, যাকাত, আনুগত্য। ৫৯:৯ আয়াত আমাদের আয়াতের আনসারদের অর্ধেকটা দেখায় ভেতর থেকে, যারা তাদের কাছে হিজরত করে আসা লোকদের ভালোবাসে, অন্যদের যা দেওয়া হয়েছে তার জন্য নিজেদের বুকে কোনো টান অনুভব করে না, আর নিজেদের অভাবের মধ্যেও তাদেরই এগিয়ে রাখে।"
+          },
+          {
+            "en": "33:6 is the verse at-Tabari and Ibn Kathir both name for the change: the Prophet ﷺ is more worthy of the believers than themselves, and those of blood relationship are more entitled in the decree of Allah. 8:74 and 8:75 finish our verse's own work, the first calling these two groups the believers in truth with forgiveness and noble provision, the second admitting the later emigrants into the same company.",
+            "bn": "বদলটার জন্য তাবারী আর ইবনু কাসীর দুজনেই যে আয়াতের নাম নেন সেটি ৩৩:৬: নবী ﷺ মু'মিনদের কাছে তাদের নিজেদের চেয়েও ঘনিষ্ঠ, আর আল্লাহর বিধানে রক্তের আত্মীয়রাই বেশি হকদার। ৮:৭৪ আর ৮:৭৫ আয়াত আমাদের আয়াতের নিজের কাজটাই শেষ করে দেয়; প্রথমটি এ দুই দলকে বলে প্রকৃত মু'মিন, যাদের জন্য মাগফিরাত আর সম্মানজনক রিযক, আর দ্বিতীয়টি পরে হিজরত করা লোকদেরও একই দলে ঢুকিয়ে নেয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Loyalty You Have Paid For",
+          "bn": "যে বন্ধুত্বের দাম দিয়েছেন"
+        },
+        "p": [
+          {
+            "en": "The verse builds alliance out of what people did together, which is an uncomfortable measure. One group had left everything and the other had opened its houses, and the bond is declared between those two and withheld, for that purpose, from believers who had done neither. Nobody's faith is questioned and nobody is excluded from the religion. What is refused is a claim of closeness that no shared cost stands behind, and most of us have a few of those.",
+            "bn": "আয়াত বন্ধুত্ব গড়ে তোলে মানুষ একসঙ্গে যা করেছে তা দিয়ে, আর এ মাপকাঠিটা অস্বস্তিকর। এক দল সব ছেড়ে এসেছিল, অন্য দল নিজেদের ঘর খুলে দিয়েছিল, আর বন্ধনটা ঘোষণা করা হলো এ দুজনের মধ্যে; আর ওই নির্দিষ্ট কাজের জন্য সেটা আটকে রাখা হলো এমন মু'মিনদের কাছ থেকে যারা দুটোর একটিও করেনি। কারও ঈমান নিয়ে প্রশ্ন তোলা হচ্ছে না, কাউকে দীন থেকেও বের করা হচ্ছে না। যা নাকচ করা হচ্ছে তা হলো ঘনিষ্ঠতার এমন দাবি, যার পেছনে ভাগ করে নেওয়া কোনো খরচ নেই; আর আমাদের অধিকাংশেরই এমন কয়েকটা দাবি আছে।"
+          },
+          {
+            "en": "The exception is the harder half to live. A pledge you have given outranks an appeal from your own side, which means the test arrives exactly when refusing looks disloyal. The verse has already agreed that helping is a duty and still stops it at the treaty line. Anyone who has been asked by a friend to break a commitment in the friend's favour has met the small version of this, and the verse's answer is not to weigh the friendship but to look at what was already promised.",
+            "bn": "কঠিন অর্ধেকটা হলো এ ব্যতিক্রম নিয়ে বাঁচা। আপনার দেওয়া কথা নিজের পক্ষের আবেদনের চেয়েও আগে, মানে পরীক্ষাটা আসে ঠিক তখনই, যখন না বলাটা বিশ্বাসঘাতকতার মতো দেখায়। আয়াত আগেই মেনে নিয়েছে সাহায্য করা দায়িত্ব, তবু সেটাকে সে থামিয়ে দেয় চুক্তির দাগে এসে। বন্ধুর পক্ষে কোনো কথা ভাঙতে বলার অনুরোধ যিনি পেয়েছেন, তিনি এ জিনিসটার ছোট চেহারাটা দেখেছেন; আর আয়াতের জবাব বন্ধুত্বের ওজন করা নয়, বরং আগে কী কথা দেওয়া হয়েছিল সেদিকে তাকানো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Prayer for Your Own Side",
+          "bn": "নিজের লোকদের জন্য দোয়া"
+        },
+        "p": [
+          {
+            "en": "The verse carries no supplication, and the prayer the Quran puts closest to it is in 59:10, on the lips of those who came after the two groups this verse names: our Lord, forgive us and our brothers who preceded us in faith, and put not in our hearts any resentment toward those who have believed. It is the natural prayer of anyone reading a verse that ranks people by what they gave, because the first thing such a verse can stir is resentment.",
+            "bn": "আয়াতে কোনো দোয়া নেই, আর কুরআন এর সবচেয়ে কাছে যে দোয়া রাখে তা ৫৯:১০ আয়াতে, আর সেটা তাঁদের মুখে যাঁরা এসেছেন এ আয়াতের নাম নেওয়া দুই দলের পরে: হে আমাদের রব, আমাদের আর আমাদের সেই ভাইদের মাফ করুন যাঁরা ঈমানে আমাদের আগে গেছেন, আর যারা ঈমান এনেছে তাদের প্রতি আমাদের অন্তরে কোনো বিদ্বেষ রাখবেন না। যে আয়াত মানুষকে তাদের দেওয়া জিনিস দিয়ে সাজায়, সে আয়াত পড়ে প্রথমে যা জাগতে পারে তা হলো বিদ্বেষ; কাজেই এটাই স্বাভাবিক দোয়া।"
+          },
+          {
+            "en": "A sentence in this verse's own vocabulary can be added and claimed as no more than that: O Allah, make me one who shelters and helps rather than one who watches, and do not let me be asked to break a pledge by anyone I love. That is assembled from the verse's two verbs for the Ansar and from its closing exception, and it is not a Sunnah du'a. The wording of 59:10 is the safer of the two to carry and the shorter to say.",
+            "bn": "এ আয়াতের নিজের শব্দে একটা বাক্য যোগ করা যায়, আর এর বেশি দাবি না করেই: হে আল্লাহ, আমাকে বানান তাদের একজন যারা আশ্রয় দেয় আর সাহায্য করে, তাদের একজন নয় যারা কেবল তাকিয়ে দেখে; আর আমি যাদের ভালোবাসি তাদের কেউ যেন আমাকে কথা ভাঙতে না বলে। এটি আয়াতের আনসারদের জন্য ব্যবহৃত দুটি ক্রিয়া আর এর শেষের ব্যতিক্রম জুড়ে বানানো, আর এটি সুন্নাহর দোয়া নয়। ৫৯:১০ আয়াতের শব্দগুলোই দুটোর মধ্যে বহন করার জন্য বেশি নিরাপদ আর বলার জন্য ছোট।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Questions About Your Own Ties",
+          "bn": "নিজের সম্পর্ক নিয়ে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The bond here is mutual and not a debt one side owes: which of my relationships have I quietly filed as somebody owing me something? The verse ties alliance to what people did together, so what have I actually done alongside the people I call my closest? And those who stayed behind were believers still, and still outside this particular bond: where am I claiming a closeness whose cost I never shared?",
+            "bn": "এখানকার বন্ধন দুদিকেরই, এক পক্ষের পাওনা ঋণ নয়: আমার কোন সম্পর্কগুলোকে আমি চুপচাপ এমন খাতায় তুলে রেখেছি যে ওরা আমার কাছে কিছু পাওনা রেখেছে? আয়াত বন্ধুত্ব বাঁধে মানুষ একসঙ্গে কী করেছে তার সঙ্গে; তাহলে যাদের আমি সবচেয়ে কাছের বলি, তাদের পাশে থেকে আমি আসলে কী করেছি? আর যারা রয়ে গিয়েছিল তারা তখনো মু'মিন, তবু এ নির্দিষ্ট বন্ধনের বাইরে: কোথায় আমি এমন ঘনিষ্ঠতার দাবি করছি, যার খরচে আমি কখনো ভাগ বসাইনি?"
+          },
+          {
+            "en": "Two that cost more. A treaty outranks a call for help from my own side, so which of my commitments would I break first if somebody I love asked me to, and what does that order say about me? And the help was owed for the religion and not for every quarrel: when I am asked to take a side, is the reason the one this verse names, or is it only that the person asking is mine?",
+            "bn": "আরও দুটি, যাতে খরচ বেশি। চুক্তি নিজের পক্ষের সাহায্যের ডাকের চেয়েও আগে; তাহলে আমার ভালোবাসার কেউ বললে আমার কোন কথাটা আমি সবার আগে ভাঙতাম, আর সেই ক্রমটা আমার সম্পর্কে কী বলে? আর সাহায্য পাওনা ছিল দীনের জন্য, প্রতিটি ঝগড়ার জন্য নয়: আমাকে যখন কোনো পক্ষ নিতে বলা হয়, কারণটা কি এ আয়াত যেটার নাম নেয় সেটাই, নাকি কেবল এটাই যে যে বলছে সে আমার লোক?"
+          }
+        ]
+      }
+    ]
   }
 });

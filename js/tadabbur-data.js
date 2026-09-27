@@ -6803,6 +6803,26 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "Finish the matter before you price it; what presents itself early is usually the smaller half of what was on offer.",
     "lessonBn": "দাম ঠিক করার আগে কাজটা শেষ করুন। আগেভাগে যা সামনে এসে পড়ে, সেটা সাধারণত যা পাওয়ার ছিল তার ছোট অংশটাই।"
+  },
+  "8:72": {
+    "reflectionEn": "Two groups are named and then tied together: those who left their homes and fought with their wealth and their lives, and those who took them in and helped them. They are allies of one another, and the bond is stated as mutual rather than as gratitude owed in one direction. Then a limit and an exception, both surprising. Believers who stayed behind are outside that particular alliance until they move. And if they ask for help in the matter of religion, help is a duty upon you, except against a people you have a treaty with. A standing agreement outranks even a call for help from your own.",
+    "reflectionBn": "দুটি দলের নাম আসে, তারপর তাদের একসঙ্গে বেঁধে দেওয়া হয়: যারা নিজেদের ঘর ছেড়েছে আর নিজেদের মাল আর জান দিয়ে লড়েছে, আর যারা তাদের আশ্রয় দিয়েছে আর সাহায্য করেছে। তারা পরস্পরের বন্ধু, আর বন্ধনটা বলা হয়েছে দুদিক থেকেই, এক দিক থেকে পাওনা কৃতজ্ঞতা হিসেবে নয়। এরপর আসে একটি সীমা আর একটি ব্যতিক্রম, দুটোই অবাক করার মতো। যে মু'মিনরা পিছিয়ে রইল, তারা ওই নির্দিষ্ট বন্ধনের বাইরে, যতক্ষণ না তারা বেরিয়ে আসে। আর দীনের ব্যাপারে তারা সাহায্য চাইলে সাহায্য করা তোমাদের উপর দায়িত্ব, তবে এমন কোনো জাতির বিরুদ্ধে নয় যাদের সঙ্গে তোমাদের চুক্তি আছে। দাঁড়িয়ে থাকা চুক্তি নিজের লোকের সাহায্যের ডাকের চেয়েও আগে।",
+    "pointsEn": [
+      "The bond here is mutual, not a debt one side owes. Which of my relationships have I quietly filed as somebody owing me?",
+      "The verse ties alliance to what people actually did together. What have I actually done alongside the people I call my closest?",
+      "A treaty outranks a call for help from my own side. Which of my commitments would I break first if a friend asked me to?",
+      "Those who stayed behind were still believers, and still outside this alliance. Where am I claiming a closeness I have not paid for?",
+      "Help was owed for the religion and not for every quarrel. Am I being asked to take sides in something, and is the reason the one the verse names?"
+    ],
+    "pointsBn": [
+      "এখানকার বন্ধন দুদিকেরই, এক পক্ষের পাওনা ঋণ নয়। আমার কোন সম্পর্কগুলোকে আমি চুপচাপ এমন খাতায় তুলে রেখেছি যে ওরা আমার কাছে ঋণী?",
+      "আয়াত বন্ধুত্ব বাঁধে মানুষ আসলে একসঙ্গে কী করেছে তার সঙ্গে। যাদের আমি সবচেয়ে কাছের বলি, তাদের পাশে থেকে আমি আসলে কী করেছি?",
+      "চুক্তি নিজের পক্ষের সাহায্যের ডাকের চেয়েও আগে। বন্ধু বললে আমার কোন কথাটা আমি সবার আগে ভাঙতাম?",
+      "যারা পিছিয়ে রইল তারা তখনো মু'মিন, তবু এ বন্ধনের বাইরে। কোথায় আমি এমন ঘনিষ্ঠতার দাবি করছি যার দাম আমি দিইনি?",
+      "সাহায্য পাওনা ছিল দীনের জন্য, প্রতিটি ঝগড়ার জন্য নয়। কেউ কি আমাকে কোনো পক্ষ নিতে বলছে, আর কারণটা কি আয়াত যেটার নাম নেয় সেটাই?"
+    ],
+    "lessonEn": "Alliance is built from what people did together, and even a true call for help does not license breaking a pledge you have already given.",
+    "lessonBn": "বন্ধুত্ব গড়ে ওঠে মানুষ একসঙ্গে যা করেছে তা দিয়ে। আর সাহায্যের ডাক সত্যি হলেও আগে দেওয়া কথা ভাঙার অনুমতি তা দেয় না।"
   }
 };
 
