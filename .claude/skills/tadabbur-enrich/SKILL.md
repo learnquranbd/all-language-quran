@@ -25,6 +25,15 @@ The standing working agreement for this module. Follow it without asking.
   `git push origin main`, then `firebase deploy --only hosting`, then verify the
   live site serves the new version.
 
+## Log every stage in CLAUDE-LOG.md
+
+Sessions end without warning on the usage limit (user, 2026-09-29). Keep the
+LIVE STATE table in `CLAUDE-LOG.md` current: update it when a drafter is
+launched, when its report lands, after each merge+test, after each commit, and
+after push/deploy. A new session resumes from that table plus `git status`.
+Drafters write their files the moment they have content so a dead agent still
+leaves a draft to finish rather than restart.
+
 ## Which ayah is next
 
 `tools/tadabbur-targets.json` holds the ordered target list. Next target = first
