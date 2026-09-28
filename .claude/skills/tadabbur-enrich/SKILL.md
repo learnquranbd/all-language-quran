@@ -25,6 +25,29 @@ The standing working agreement for this module. Follow it without asking.
   `git push origin main`, then `firebase deploy --only hosting`, then verify the
   live site serves the new version.
 
+## Lean workflow — use the scripts, not model tokens (user, 2026-09-29)
+
+The usage limit is the binding constraint. Everything mechanical is scripted in
+`tools/wip/round11/`:
+
+| Step | Command | Who |
+|---|---|---|
+| Pre-fetch verses, word counts, neighbours, all 8 tafsirs | `node tools/wip/round11/prep.js <key>` | orchestrator, before launching |
+| Hadith text (ref, EN, AR only) | `node tools/wip/round11/hadith.js Bukhari 660 --save <auditdir>` | drafter |
+| Every self-gate in one call | `node tools/wip/round11/gate.js <key>` | drafter, and orchestrator to confirm |
+| Merge, index, bump, test, headless bn check, log | `tools/wip/round11/ship.sh <key>` | orchestrator |
+
+- **Drafter prompt = about 10 lines:** "Read tools/wip/round11/BRIEF.md and follow it.
+  Key: X." followed by the verse-specific watch-points. BRIEF.md carries every standing
+  rule, so don't repeat them in the prompt.
+- **Drafter reply is at most 12 lines.** The ledger goes to `audit/<key>/LEDGER.md`, and
+  a commit-body draft to `audit/<key>/COMMIT.md`. Build the commit from COMMIT.md
+  plus ship.sh's browser numbers. Spot-check one or two claims in the draft (an Arabic
+  count, a sensitive paragraph) with grep instead of reading the whole ledger.
+- **Start a fresh session after each deploy** (every ten ayahs). The orchestrator's
+  own context grows with every report, and a long session re-reads it all on each
+  turn. The new session only needs to read the LIVE STATE table in `CLAUDE-LOG.md`.
+
 ## Log every stage in CLAUDE-LOG.md
 
 Sessions end without warning on the usage limit (user, 2026-09-29). Keep the
