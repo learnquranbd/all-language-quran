@@ -5,141 +5,79 @@ description: Add Tadabbur verses one ayah at a time — card plus deep bilingual
 
 # Tadabbur enrichment loop
 
-The standing working agreement for this module. Follow it without asking.
+The standing working agreement for this module. Follow it without asking. The
+user is on Claude Pro, so **plan usage is the binding constraint**. Every rule below
+serves getting the most ayat out of it.
 
-## Pacing — the part that has been corrected most
+## 1. Start of run: budget first
+Read `CLAUDE-LOG.md` (short; the state lives there), then run
+`node tools/wip/round11/budget.js`. It reads the plan usage the statusline saves
+(`~/.claude-personal/statusline-usage.sh` → `~/.claude-personal/state/statusline-last.json`).
+Obey its mode:
+- **NORMAL** (<65%): 2 drafters in parallel.
+- **LOW** (65–84%), or whenever the 7-day limit is the binding one: 1 drafter at a
+  time. Keep orchestrator turns minimal.
+- **STOP** (≥85%): launch nothing new. Finish and commit what is in flight, update
+  `CLAUDE-LOG.md`, and end with one line giving the reset time.
 
-- **Two drafter agents at a time, one ayah each** (user, 2026-09-27: "from now on,
-  run 2 agents for 2 ayahs at a time"). Launch both, let them draft in parallel into
-  `tools/wip/round<N>/`, then merge, gate, bump, verify and commit each ayah yourself
-  — one commit per ayah, not one per wave. Then launch the next pair.
-- **Do not stop between waves.** Keep going until the user says stop. Working the
-  ayat yourself instead of through agents is also fine when they are unavailable; the
-  pipeline below is identical either way.
-- **Do not report after each ayah.** No "Next: 9:5", no summary of what the verse
-  gave, no asking whether to continue. The user reads the commits. A closing line
-  belongs only at the end of a batch of ten, or when something actually blocks.
-- **Never hand the turn back for acknowledgement.** Saying what comes next and
-  waiting is the failure mode; the user has twice had to repeat the instruction.
-- **Commit locally per ayah. Push and deploy only after every tenth ayah.**
-  `git push origin main`, then `firebase deploy --only hosting`, then verify the
-  live site serves the new version.
+Re-run `budget.js` after every commit. The mode can change mid-run.
+If it prints CONTEXT HIGH, finish the current ayah, update the log, and tell the
+user to start a fresh session ("read CLAUDE-LOG.md and continue").
 
-## Lean workflow — use the scripts, not model tokens (user, 2026-09-29)
+## 2. Pacing
+- Keep going until budget STOP or the user says stop. Don't report after each
+  ayah, don't ask whether to continue, and don't hand the turn back for
+  acknowledgement.
+- One commit per ayah. Push both remotes (`git push origin main && git push pro
+  main`), deploy (`firebase deploy --only hosting`) and verify the live `lq-vN`
+  with a cache-buster after every tenth ayah, **or before stopping on budget** if
+  there are undeployed commits.
+- A closing summary only at a deploy or a stop, and keep it short.
 
-The usage limit is the binding constraint. Everything mechanical is scripted in
-`tools/wip/round11/`:
+## 3. The pipeline (all mechanics are scripts in `tools/wip/round11/`)
 
-| Step | Command | Who |
-|---|---|---|
-| Pre-fetch verses, word counts, neighbours, all 8 tafsirs | `node tools/wip/round11/prep.js <key>` | orchestrator, before launching |
-| Hadith text (ref, EN, AR only) | `node tools/wip/round11/hadith.js Bukhari 660 --save <auditdir>` | drafter |
-| Every self-gate in one call | `node tools/wip/round11/gate.js <key>` | drafter, and orchestrator to confirm |
-| Merge, index, bump, test, headless bn check, log | `tools/wip/round11/ship.sh <key>` | orchestrator |
+| Step | Command |
+|---|---|
+| Next targets | `node tools/wip/round11/queue.js` |
+| Pre-fetch verses, counts, neighbours, 8 tafsirs | `node tools/wip/round11/prep.js <key>` |
+| Launch drafter | Agent (opus, background). Prompt: "Read tools/wip/round11/BRIEF.md and follow it exactly. Key: X." plus 4-7 verse-specific watch-points |
+| Confirm the draft | `node tools/wip/round11/gate.js <key>` |
+| Merge, index, bump, test, headless bn check, log row | `tools/wip/round11/ship.sh <key>` |
+| Commit | title `vN: Tadabbur <key> — <phrase>` + `audit/<key>/COMMIT.md` + ship.sh's browser line + attribution |
 
-- **Drafter prompt = about 10 lines:** "Read tools/wip/round11/BRIEF.md and follow it.
-  Key: X." followed by the verse-specific watch-points. BRIEF.md carries every standing
-  rule, so don't repeat them in the prompt.
-- **Drafter reply is at most 12 lines.** The ledger goes to `audit/<key>/LEDGER.md`, and
-  a commit-body draft to `audit/<key>/COMMIT.md`. Build the commit from COMMIT.md
-  plus ship.sh's browser numbers. Spot-check one or two claims in the draft (an Arabic
-  count, a sensitive paragraph) with grep instead of reading the whole ledger.
-- **Start a fresh session after each deploy** (every ten ayahs). The orchestrator's
-  own context grows with every report, and a long session re-reads it all on each
-  turn. The new session only needs to read the LIVE STATE table in `CLAUDE-LOG.md`.
+`BRIEF.md` carries every standing drafter rule. Never repeat it in the prompt.
+Drafters reply in 12 lines or fewer. The ledger is `audit/<key>/LEDGER.md`.
 
-## Log every stage in CLAUDE-LOG.md
+**Your review of each draft costs tokens, so spend them where defects have
+actually been found:** grep the sensitive paragraph, one Arabic count, and any
+hadith grading or quote the drafter flags. Don't read whole articles or ledgers.
+Defects caught this way so far include a grading taken secondhand from a tafsir,
+a hadith clause quoted without explanation, and a transliteration that was ambiguous
+between two readings.
 
-Sessions end without warning on the usage limit (user, 2026-09-29). Keep the
-LIVE STATE table in `CLAUDE-LOG.md` current: update it when a drafter is
-launched, when its report lands, after each merge+test, after each commit, and
-after push/deploy. A new session resumes from that table plus `git status`.
-Drafters write their files the moment they have content so a dead agent still
-leaves a draft to finish rather than restart.
+Watch-points worth writing each time are the verse's genuine disputes (name the
+sides), what is future ground (neighbouring target verses), shipped overlap (look
+at PREP.md's neighbour headings), and the licensing sentence when the verse is
+about a condemned people, a wrongdoer, women or any group.
 
-## Which ayah is next
+## 4. Log every stage
+Keep the LIVE STATE table in `CLAUDE-LOG.md` current at every step: LAUNCHED,
+DRAFTED, MERGED+TESTED (ship.sh does this one), DONE, deploys. Update the usage
+line when budget.js is run. Sessions die without warning. The table plus
+`git status` is how the next run resumes.
 
-`tools/tadabbur-targets.json` holds the ordered target list. Next target = first
-entry in `order` whose verses are not already covered by a key in
-`TADABBUR_NOTES` (expand ranges before comparing).
-
-## What the drafter agents own, and what you own
-
-Agents draft and self-audit only: the two files for their ayah under
-`tools/wip/round<N>/`, the validators, and a report with the SOURCES ledger. You own
-every merge, the article index rebuild, the version bump, `npm test`, the browser
-check and the commit. Never let an agent write under `js/` or pass `--write`.
-
-Give each agent the skill file, the specs, the round's SOURCE-GATE.md and
-HEADINGS.md, and the hard numbers: 1,400-1,800 English words (coming in under 1,400
-is the failure they make most), 7-9 sections, 55-110 words a paragraph, headings 2-6
-words and unique against every shipped article, and `lessonEn` under 35 words.
-
-## Per-ayah pipeline
-
-1. **Read the verse and its neighbours** in `data/translations/en.json` and
-   `bn.json` (at least five either side), plus the Arabic in
-   `data/quran-json/<surah>.json`. Count Arabic words yourself when a count is
-   going into the prose.
-2. **Read the shipped neighbours.** Cards and articles already in the module for
-   nearby verses, via `tests/lib.js` (`loadTadabburArticles`). Never contradict or
-   repeat them. Check `js/seerah-articles.js` and the Prophets/Companions articles
-   when the verse touches events they cover.
-3. **Source gate — nothing cited from memory.**
-   - Tafsir: `curl -s "https://api.qurancdn.com/api/qdc/tafsirs/<ID>/by_ayah/<S:A>"`
-     then strip tags. IDs: `15` at-Tabari, `90` al-Qurtubi, `91` as-Sa'di,
-     `14` Ibn Kathir (ar), `169` Ibn Kathir (en abridged), `94` al-Baghawi,
-     `168` Ma'arif, `16` Muyassar. Attribute a reading only if it is in the text
-     fetched for that exact verse. Some verses have no entry for a given
-     mufassir — use another voice rather than inventing one.
-   - Hadith: confirm on a page actually fetched. `quranx.com/hadith/Bukhari/DarusSalam/Hadith-<N>`,
-     `quranx.com/hadith/Muslim/Hadith-<N>`, `.../AbuDawud/DarusSalam/Hadith-<N>`,
-     `.../Tirmidhi/Hadith-<N>`. **sunnah.com returns 403 here — do not try it.**
-     Numbering differs between editions: if a number shows the wrong hadith, try
-     the DarusSalam path before concluding anything.
-   - Report the collector's own grading, never upgraded. Quote one collection's
-     wording whole; never merge two variants.
-   - If no tafsir attaches a prophetic hadith, say so in a sentence and move on. A
-     sound narration may be brought as a general principle if it is marked as not
-     attached to the verse.
-4. **Write the card** (`tools/wip/round<N>/<s>_<a>-notes.js`): reflection 100-130
-   English words, 4-5 personal questions, one-line lesson, both languages, 0-2
-   `themes` keys from `PONDER_THEMES`. No scholar names, no hadith numbers, no
-   asbab in the card — those belong in the article.
-5. **Write the article** (`..._<a>-articles.js`): 7-9 sections, 1,400-1,800 English
-   words, every paragraph 55-110 English words, Bengali of equal substance written
-   from the idea, at most one em dash per Bengali paragraph, Bengali digits for
-   refs (ranges like `২৬:৮৭-৮৯` do link), bare verse refs, `tools/BANGLA-STYLE.md`
-   binding throughout.
-6. **Gate it.** `node tools/merge-tadabbur-notes.js <notes>` dry run; the
-   per-article word/section/dash check; `tools/wip/round7/sweep.js` (badRef, ref
-   parity, name parity, encoding, headings); `tools/wip/round9/nums.js` for
-   English-only numbers. Then headings: 2-6 words each, and **unique against every
-   heading already shipped** — `merge-articles.js` refuses a chunk that repeats one.
-7. **Merge, rebuild, bump, test, verify.** Notes `--write`, then articles
-   `--write --band 1200-2000`, then `node tools/build-article-index.js`, then bump
-   `lq-v<N>` and every `?v=<N>` in `sw.js` and `index.html`, then `node tests/run.js`,
-   then headless Chrome via `qa/run.js` in Bengali (load the article, check its
-   section count and Bengali word count, no console errors).
-8. **Commit** with a message that names what the sources gave, every defect fixed
-   before merge, and the verified browser numbers. Write the message after the
-   browser check, not before — its numbers have had to be amended twice.
-
-## Accuracy rules that have actually caught defects here
-
-- Never state an Arabic word count you have not counted in the data. `107:6` is
-  three words, not two; that one shipped as far as the draft.
-- Both languages must carry the same numbers, the same attributions and the same
-  verse refs. A proposition in one language only is the worst defect this module
-  has shipped.
-- Transliterate from the fetched Arabic: مأسور is `ma'sur`.
-- On a verse about a punished or condemned group, state plainly that it describes
-  what the text describes and licenses no application to any living community, and
-  leave rulings of war to the authority the commentators name.
-- Keep genuine disagreements as disagreements, with both names.
-- Drop what cannot be confirmed and say so, rather than softening it.
+## 5. Accuracy rules (binding; BRIEF.md gives drafters the full set)
+- Nothing from memory. Attribute a tafsir reading only if it is in the text
+  fetched for that verse. Confirm a hadith on a fetched quranx page
+  (`hadith.js`). Report the collector's own grading, never upgraded, and never
+  one taken secondhand. One collection's wording, quoted whole. sunnah.com gives 403.
+- Count Arabic words from the data (PREP.md does it). Both languages carry the
+  same numbers, attributions and refs.
+- Keep genuine disagreements as disagreements, with names. Never say in the
+  article's own voice that a prophet erred. Condemned or wrongdoer verses carry
+  the "licenses nothing against any living person or community" sentence.
+- Drop what cannot be confirmed and say so in the commit. Don't soften it.
 
 ## Files
-
-Drafts live in `tools/wip/round<N>/` (gitignored). Never in the session scratchpad
-— a whole wave was lost that way.
+Drafts, audit folders and every script live in `tools/wip/round11/` (gitignored,
+local only). Never put anything in the session scratchpad.
