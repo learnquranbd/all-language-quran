@@ -13,14 +13,18 @@ serves getting the most ayat out of it.
 Read `CLAUDE-LOG.md` (short; the state lives there), then run
 `node tools/wip/round11/budget.js`. It reads the plan usage the statusline saves
 (`~/.claude-personal/statusline-usage.sh` → `~/.claude-personal/state/statusline-last.json`).
-Obey its mode:
+Obey its mode. It projects one more ayah's cost, learned from past runs:
 - **NORMAL** (<65%): 2 drafters in parallel.
-- **LOW** (65–84%), or whenever the 7-day limit is the binding one: 1 drafter at a
-  time. Keep orchestrator turns minimal.
-- **STOP** (≥85%): launch nothing new. Finish and commit what is in flight, update
-  `CLAUDE-LOG.md`, and end with one line giving the reset time.
+- **LOW** (65–79%): 1 drafter at a time.
+- **WIND-DOWN** (≥80%, or one more ayah would pass 90%): **launch no new
+  drafter**, because a drafter costs about 100k tokens and would die mid-draft at the
+  limit. Finish only what is in flight (resume, gate, ship, commit), push and deploy
+  undeployed commits, then work through **SMALL TASKS** in `CLAUDE-LOG.md`.
+  Nothing is left half-done.
+- **STOP** (≥90%): launch nothing. Commit anything already merged, update the log
+  (usage line and reset time), and end with one line.
 
-Re-run `budget.js` after every commit. The mode can change mid-run.
+Re-run `budget.js` after every commit (`commit.sh` does it). The mode can change mid-run.
 If it prints CONTEXT HIGH, finish the current ayah, update the log, and tell the
 user to start a fresh session ("read CLAUDE-LOG.md and continue").
 
@@ -43,7 +47,7 @@ user to start a fresh session ("read CLAUDE-LOG.md and continue").
 | Launch drafter | Agent (opus, background). Prompt: "Read tools/wip/round11/BRIEF.md and follow it exactly. Key: X." plus 4-7 verse-specific watch-points |
 | Confirm the draft | `node tools/wip/round11/gate.js <key>` |
 | Merge, index, bump, test, headless bn check, log row | `tools/wip/round11/ship.sh <key>` |
-| Commit | title `vN: Tadabbur <key> — <phrase>` + `audit/<key>/COMMIT.md` + ship.sh's browser line + attribution |
+| Commit, mark log DONE, record usage | `tools/wip/round11/commit.sh <key> "<title phrase>"` (uses audit/<key>/COMMIT.md + BROWSER.txt). Edit COMMIT.md first to add any fix you made |
 
 `BRIEF.md` carries every standing drafter rule. Never repeat it in the prompt.
 Drafters reply in 12 lines or fewer. The ledger is `audit/<key>/LEDGER.md`.
