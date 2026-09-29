@@ -13,16 +13,16 @@ serves getting the most ayat out of it.
 Read `CLAUDE-LOG.md` (short; the state lives there), then run
 `node tools/wip/round11/budget.js`. It reads the plan usage the statusline saves
 (`~/.claude-personal/statusline-usage.sh` → `~/.claude-personal/state/statusline-last.json`).
-Obey its mode. It projects one more ayah's cost, learned from past runs:
-- **NORMAL** (<65%): 2 drafters in parallel.
-- **LOW** (65–79%): 1 drafter at a time.
-- **WIND-DOWN** (≥80%, or one more ayah would pass 90%): **launch no new
-  drafter**, because a drafter costs about 100k tokens and would die mid-draft at the
-  limit. Finish only what is in flight (resume, gate, ship, commit), push and deploy
-  undeployed commits, then work through **SMALL TASKS** in `CLAUDE-LOG.md`.
-  Nothing is left half-done.
-- **STOP** (≥90%): launch nothing. Commit anything already merged, update the log
-  (usage line and reset time), and end with one line.
+Obey its mode. It measures what each ayah actually cost: the usage change between
+consecutive Tadabbur commits, from the statusline's `usage-history.tsv`. It takes the
+worst of the last 5 × 1.2 as the safe cost and prints how many ayat fit under 95%:
+- **NORMAL** (2 or more fit, and usage under 65%): 2 drafters in parallel.
+- **LOW** (1 fits): 1 drafter at a time.
+- **WIND-DOWN** (0 fit): **launch no new drafter**, because it would die mid-draft
+  at the limit. Finish only what is in flight (resume, gate, ship, commit), push and
+  deploy undeployed commits, then work through **SMALL TASKS** in `CLAUDE-LOG.md`.
+- **STOP** (95% or more): launch nothing. Commit anything already merged, update the
+  log (usage and reset time), and end with one line.
 
 Re-run `budget.js` after every commit (`commit.sh` does it). The mode can change mid-run.
 If it prints CONTEXT HIGH, finish the current ayah, update the log, and tell the
