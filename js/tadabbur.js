@@ -183,11 +183,34 @@ class Tadabbur {
     return out.sort((a, b) => key(a) - key(b));
   }
 
-  /** Pool after the search filter. */
+  /** Parse a reference query into {s, a1, a2}, or null when it isn't one.
+   *  Surah and ayah may be separated by ':' or '--'; an ayah range uses '-'.
+   *  e.g. "18:94", "18--94", "18:90-94", "18--90-94". */
+  parseRefQuery(q) {
+    const m = String(q).trim().match(/^(\d{1,3})\s*(?::|--)\s*(\d{1,3})(?:\s*-\s*(\d{1,3}))?$/);
+    if (!m) return null;
+    const s = parseInt(m[1], 10);
+    let a1 = parseInt(m[2], 10), a2 = m[3] ? parseInt(m[3], 10) : a1;
+    if (!s || !a1) return null;
+    if (a2 < a1) { const t = a1; a1 = a2; a2 = t; }
+    return { s, a1, a2 };
+  }
+
+  /** Pool after the search filter. A reference query (surah ':' or '--' ayah,
+   *  with an optional '-' ayah range) matches every entry overlapping it; any
+   *  other query falls back to a substring / surah-name match. */
   filtered() {
     const q = this.query.trim().toLowerCase();
     if (!q) return this.pool();
+    const rq = this.parseRefQuery(q);
     return this.pool().filter(ref => {
+      if (rq) {
+        const m = String(ref).match(/^(\d+):(\d+)(?:-(\d+))?$/);
+        if (m && parseInt(m[1], 10) === rq.s) {
+          const a1 = parseInt(m[2], 10), a2 = m[3] ? parseInt(m[3], 10) : a1;
+          if (a1 <= rq.a2 && a2 >= rq.a1) return true;   // overlaps the queried range
+        }
+      }
       const first = String(ref).split('-')[0];
       const [s] = first.split(':');
       return String(ref).toLowerCase().includes(q) || this.surahName(s).toLowerCase().includes(q);
