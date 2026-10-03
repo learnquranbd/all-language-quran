@@ -40,3 +40,4 @@ firebase-debug.log
 .firebaserc.local
 qa/
 tools/wip/
+CLAUDE-LOG.md
