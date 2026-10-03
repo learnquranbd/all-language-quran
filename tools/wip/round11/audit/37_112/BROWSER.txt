@@ -1,0 +1,2 @@
+Browser (headless, bn): undefined sections, 0 rendered words, 0 Bengali
+characters, CHECK CONSOLE ERRORS. Tests pass.
