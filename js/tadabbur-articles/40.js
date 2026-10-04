@@ -1278,5 +1278,313 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "40:64": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Opening Comes Back",
+          "bn": "একই সূচনা আবার"
+        },
+        "p": [
+          {
+            "en": "Allahu lladhi ja'ala lakum: it is Allah who made for you. The words are not new here. 40:61 opens the same way and speaks of the night made for rest and the day made for seeing. Between them stands 40:62, which names who stands behind those gifts: your Lord, the Creator of all things, with no god but Him, and then asks how you are being turned away. Our verse returns to the same opening and lays out more of the evidence.",
+            "bn": "আল্লাহুল্লাযী জাআলা লাকুম: আল্লাহ, যিনি তোমাদের জন্য বানিয়েছেন। এই কথাগুলো এ অংশে প্রথম আসেনি। এর আগে ৪০:৬১ ঠিক এভাবেই শুরু হয়েছে, সেখানে বিশ্রামের জন্য রাত আর দেখার জন্য দিনের কথা। মাঝখানে ৪০:৬২ সেই দানগুলোর পেছনের সত্তার পরিচয় দেয়। তিনি তোমাদের রব, সব কিছুর স্রষ্টা, তিনি ছাড়া কোনো ইলাহ নেই। তারপর প্রশ্ন করে, তবু তোমাদের কীভাবে সত্য থেকে ফিরিয়ে নেওয়া হচ্ছে? আমাদের আয়াত আবার সেই সূচনায় ফিরে আসে এবং আরও প্রমাণ সামনে রাখে।"
+          },
+          {
+            "en": "Al-Qurtubi reads the return as deliberate. The verse, he says, adds to the emphasis of the making-known and of the proof: it makes Allah known and argues for Him again, through things no listener can miss. Just before this run of verses stands 40:60, already treated, where your Lord says call on Me and I will answer. What follows does not repeat the command. It shows who is being called, by pointing at the floor and ceiling of the listener's world.",
+            "bn": "কুরতুবীর মতে এই ফিরে আসা ইচ্ছাকৃত। তিনি বলেন, আয়াতটি পরিচয় করানো আর প্রমাণ দেওয়ার জোর আরও বাড়িয়ে দেয়। আল্লাহকে আবার চেনানো হচ্ছে, আবার তাঁর পক্ষে যুক্তি দেওয়া হচ্ছে, এমন সব জিনিস দিয়ে যা কোনো শ্রোতার চোখ এড়ায় না। এই ধারার ঠিক আগে আছে ৪০:৬০, যার আলোচনা আগেই হয়েছে: তোমাদের রব বলেন, আমাকে ডাকো, আমি সাড়া দেব। পরের আয়াতগুলো সেই আদেশ আর দোহরায় না। বরং দেখিয়ে দেয়, যাঁকে ডাকতে বলা হচ্ছে তিনি কে। দেখায় শ্রোতার নিজের দুনিয়ার মেঝে আর ছাদের দিকে আঙুল তুলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Ground That Stays Put",
+          "bn": "যে মাটি নড়ে না"
+        },
+        "p": [
+          {
+            "en": "Al-arda qararan: the earth as a qarar, from the root q-r-r, to settle and stay. At-Tabari glosses it as a place you settle on and dwell above, the earth on whose back you live. Ibn Kathir makes it a mustaqarr, a place of settling, then adds images: a spread carpet and a cradle on which you live, move about and walk across its shoulders. He also says Allah anchored it with the mountains so that it would not sway with you.",
+            "bn": "আল-আরদা কারারা: যমীনকে করেছেন কারার। শব্দটি ক-র-র ধাতু থেকে, যার অর্থ থিতু হওয়া, টিকে থাকা। তাবারীর ব্যাখ্যায় এ এমন জায়গা যার উপর তোমরা স্থির হয়ে থাকো আর বাস করো, যে মাটির পিঠে তোমাদের বসতি। ইবন কাসীর একে বলেন মুস্তাকার, থিতু হওয়ার স্থান। তারপর কয়েকটি ছবি যোগ করেন: বিছানো গালিচা, দোলনার মতো শয্যা, যার উপর তোমরা জীবন কাটাও, চলাফেরা করো, তার কাঁধে কাঁধে হাঁটো। তিনি আরও বলেন, আল্লাহ পাহাড় দিয়ে একে গেঁথে দিয়েছেন, যাতে তা তোমাদের নিয়ে দুলে না ওঠে।"
+          },
+          {
+            "en": "As-Sa'di's gloss leans on stillness and use. Qarar, he says, means settled and at rest, made ready for all your needs, so that you can till it, plant it, build on it, travel across it and stay in it. The Muyassar says the same in fewer words: made for you to settle on, with living on it made easy. Al-Baghawi gives the shortest gloss of all, a single word, firash, a spread or bed laid out beneath you.",
+            "bn": "সা'দীর ব্যাখ্যায় জোর পড়েছে স্থিরতা আর কাজে লাগার উপর। তাঁর মতে কারার মানে থেমে থাকা, শান্ত, তোমাদের সব প্রয়োজনের জন্য তৈরি করে রাখা। তাই তোমরা তাতে চাষ করতে পারো, গাছ লাগাতে পারো, ঘর তুলতে পারো, সফর করতে পারো, স্থায়ী হয়ে থাকতে পারো। মুয়াসসার অল্প কথায় একই কথা বলে: তোমাদের থিতু হওয়ার জন্য বানানো, আর তাতে বসবাস সহজ করে দেওয়া। বাগাভীর ব্যাখ্যা সবচেয়ে ছোট, একটিমাত্র শব্দ: ফিরাশ, অর্থাৎ পায়ের নিচে বিছিয়ে দেওয়া শয্যা।"
+          },
+          {
+            "en": "Al-Qurtubi adds a dimension the others leave unstated. The earth is a place of settling for you, he writes, in your lifetime and after death. The ground that carries the living also receives the dead, and the verse names it among the gifts without dividing the two. These are the commentators' readings of a word, reported as theirs and not offered here as statements of natural science.",
+            "bn": "কুরতুবী এমন একটি দিক যোগ করেন যা অন্যরা খুলে বলেননি। তিনি লেখেন, যমীন তোমাদের থিতু হওয়ার জায়গা, জীবদ্দশায়ও, মৃত্যুর পরেও। যে মাটি জীবিতদের বহন করে, মৃতদেরও সে-ই গ্রহণ করে। আয়াত এই দুইকে আলাদা না করেই যমীনকে নিয়ামতের তালিকায় রেখেছে। এগুলো একটি শব্দের ব্যাখ্যায় তাফসীরকারদের নিজস্ব বক্তব্য, তাঁদের নামেই বলা হলো। এ লেখা এগুলোকে প্রকৃতিবিজ্ঞানের দাবি হিসেবে পেশ করছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Ceiling Kept Safe",
+          "bn": "সুরক্ষিত এক ছাদ"
+        },
+        "p": [
+          {
+            "en": "Wa-s-sama'a bina'an: and the sky as a structure raised overhead. Ibn Kathir glosses it as a roof for the world, guarded. Al-Baghawi gives a picture: a roof like a dome. At-Tabari reads the noun through the verb behind it. Allah built the sky, he says, and raised it above you without pillars you can see, for your benefit and for the upkeep of your worldly life until you reach your appointed terms. On his reading the roof stays up as long as those beneath it must live.",
+            "bn": "ওয়াস সামাআ বিনাআ: আর আকাশকে করেছেন মাথার উপরে তোলা এক নির্মাণ। ইবন কাসীরের ব্যাখ্যায় এ গোটা জগতের জন্য সুরক্ষিত ছাদ। বাগাভী একটা ছবি দেন: গম্বুজের মতো ছাদ। তাবারী শব্দটিকে বোঝেন তার পেছনের ক্রিয়া দিয়ে। তিনি বলেন, আল্লাহ আকাশ নির্মাণ করেছেন এবং তোমাদের উপরে তুলে ধরেছেন, এমন কোনো খুঁটি ছাড়া যা তোমরা দেখতে পাও। তা তোমাদের কল্যাণের জন্য, তোমাদের দুনিয়ার জীবন টিকিয়ে রাখার জন্য, যতদিন না তোমরা নির্ধারিত সময়ে পৌঁছাও। তাঁর পাঠে ছাদটি ততদিন দাঁড়িয়ে, যতদিন তার নিচের মানুষদের বাঁচার মেয়াদ।"
+          },
+          {
+            "en": "As-Sa'di and the Muyassar both call the sky a roof for the earth, and both add what hangs from that roof. As-Sa'di says Allah placed in it lights and signs that you benefit from, by which people find their way in the darkness of land and sea. The Muyassar speaks of guiding signs spread across it. For them the sky is not only a cover but something to read, the place a traveller looks up at when the road below has gone dark.",
+            "bn": "সা'দী আর মুয়াসসার দুজনেই আকাশকে বলেন যমীনের ছাদ, আর দুজনেই জানান সেই ছাদে কী ঝুলিয়ে রাখা আছে। সা'দী বলেন, আল্লাহ তাতে রেখেছেন আলো আর নিশানা, যা তোমাদের কাজে আসে। স্থল আর সাগরের অন্ধকারে মানুষ সেগুলো দেখে পথ খুঁজে পায়। মুয়াসসার বলে, আকাশজুড়ে ছড়িয়ে দেওয়া হয়েছে পথ দেখানো নিশানা। তাঁদের চোখে আকাশ শুধু আচ্ছাদন নয়, পড়ার মতো এক পাতাও। নিচের রাস্তা অন্ধকার হয়ে গেলে মুসাফির উপরের দিকেই তাকায়।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse beside 2:22, which also says alladhi ja'ala lakumu l-arda and wa-s-sama'a bina'an, though there the earth is called firash, a spread. He quotes it together with the command just before it, to worship your Lord who created you. The pairing is his point: the Maker who laid the floor and raised the roof is the Lord to be worshipped, and 2:22 ends by forbidding anyone to set up rivals to Him while they know.",
+            "bn": "ইবন কাসীর এ আয়াতকে পাশাপাশি রাখেন ২:২২-এর সঙ্গে। সেখানেও আছে আল্লাযী জাআলা লাকুমুল আরদা আর ওয়াস সামাআ বিনাআ, তবে সেখানে যমীনকে বলা হয়েছে ফিরাশ, বিছানা। তিনি আয়াতটি উদ্ধৃত করেন তার ঠিক আগের আদেশসহ: তোমাদের রবের ইবাদাত করো, যিনি তোমাদের সৃষ্টি করেছেন। এই জোড়া মেলানোতেই তাঁর মূল কথা। যিনি মেঝে বিছিয়েছেন আর ছাদ তুলেছেন, ইবাদাত কেবল তাঁরই প্রাপ্য। আর ২:২২ শেষ হয় এই নিষেধে: জেনে-বুঝে কেউ যেন আল্লাহর সমকক্ষ দাঁড় না করায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Formed, Then Made Fair",
+          "bn": "আকৃতি দিলেন, সুন্দর করলেন"
+        },
+        "p": [
+          {
+            "en": "Wa-sawwarakum fa-ahsana suwarakum: and He formed you and made your forms good. Two verbs follow one another: first the giving of a form at all, then the making of that form beautiful. At-Tabari keeps his gloss plain: He created you and made your creation good. Al-Baghawi reports the same wording from Muqatil. Ibn Kathir goes further. He created you, he says, in the best of shapes, and granted you the most complete of forms, in the finest stature.",
+            "bn": "ওয়া সাওয়ারাকুম ফাআহসানা সুওয়ারাকুম: তিনি তোমাদের আকৃতি দিয়েছেন, তারপর তোমাদের আকৃতিকে সুন্দর করেছেন। দুটি ক্রিয়া পরপর এসেছে। প্রথমে আকৃতি দেওয়া, তারপর সেই আকৃতিকে সুন্দর করা। তাবারীর ব্যাখ্যা সাদামাটা: তিনি তোমাদের সৃষ্টি করেছেন এবং তোমাদের সৃষ্টিকে সুন্দর করেছেন। বাগাভী মুকাতিল থেকে হুবহু একই কথা বর্ণনা করেন। ইবন কাসীর আরেকটু এগোন। তাঁর ভাষায়, তিনি তোমাদের গড়েছেন সবচেয়ে সুন্দর গড়নে, দিয়েছেন সবচেয়ে পূর্ণাঙ্গ আকৃতি, সর্বোত্তম অবয়বে।"
+          },
+          {
+            "en": "As-Sa'di ties the clause to another verse. Among all kinds of living creatures, he writes, none has a better form than the children of Adam, as Allah said: laqad khalaqna l-insana fi ahsani taqwim, We have certainly created man in the best of stature (95:4). The Muyassar, without naming that verse, closes its gloss with the same words: He created you in the most complete shape and the best taqwim. Ibn Kathir's gloss, quoted above, ends with that phrase as well.",
+            "bn": "সা'দী এই অংশকে আরেকটি আয়াতের সঙ্গে জুড়ে দেন। তিনি লেখেন, প্রাণীজগতের কোনো শ্রেণিতেই আদমসন্তানের চেয়ে সুন্দর আকৃতি নেই। যেমন আল্লাহ বলেছেন: লাকাদ খালাকনাল ইনসানা ফী আহসানি তাকওয়ীম, নিশ্চয়ই আমি মানুষকে সৃষ্টি করেছি সর্বোত্তম গঠনে (৯৫:৪)। মুয়াসসার সে আয়াতের নাম নেয় না, তবে তার ব্যাখ্যাও শেষ হয় একই শব্দে: তিনি তোমাদের সৃষ্টি করেছেন সবচেয়ে পূর্ণাঙ্গ গড়নে, সর্বোত্তম তাকওয়ীমে। ইবন কাসীরের যে ব্যাখ্যা উপরে এসেছে, তার শেষেও আছে এই কথাটি।"
+          },
+          {
+            "en": "Al-Qurtubi records a variant reading of the noun. Abu Razin and al-Ashhab al-'Uqayli read siwarakum, with an i in place of the u, and he cites al-Jawhari that siwar is a dialect form of suwar, the plural of sura, form. He supports it with a line of poetry describing young women whose eyes resemble those of the wild cattle of al-Khalsa' and whose forms are lovelier than theirs. The meaning does not change; the detail shows how closely the word was weighed.",
+            "bn": "কুরতুবী শব্দটির একটি ভিন্ন পাঠ উল্লেখ করেন। আবু রাযীন আর আল-আশহাব আল-উকাইলী পড়েছেন সিওয়ারাকুম, স্বরধ্বনি উ-এর বদলে ই দিয়ে। তিনি জাওহারীর বরাতে বলেন, সুরা অর্থাৎ আকৃতি শব্দের বহুবচন সুওয়ার, আর সিওয়ার তারই একটি আঞ্চলিক রূপ। সমর্থনে তিনি একটি কবিতার চরণ আনেন। সেখানে তরুণীদের বর্ণনা: তাদের চোখ খালসার বুনো গরুর চোখের মতো, আর তাদের আকৃতি সেই পশুদের চেয়েও সুন্দর। অর্থ এতে বদলায় না। তবে বোঝা যায়, শব্দটিকে কত যত্ন নিয়ে ওজন করা হয়েছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Upright, With Hands Free",
+          "bn": "সোজা দেহ, মুক্ত দুই হাত"
+        },
+        "p": [
+          {
+            "en": "What makes the form the best? Al-Baghawi cites Ibn 'Abbas: He created the son of Adam standing upright and balanced, eating and taking things with his hand, while every other creature takes with its mouth. Ma'arif al-Qur'an develops the thought. It speaks of the most distinct and best-balanced form among animals, of reason, and of hands and feet that let a person gather materials and make what he needs. It adds that a human eats with his hands, where animals graze and drink directly with their mouths.",
+            "bn": "আকৃতিটি সর্বোত্তম কেন? বাগাভী ইবন আব্বাস (রাঃ)-এর বক্তব্য আনেন: আল্লাহ আদমসন্তানকে সৃষ্টি করেছেন সোজা হয়ে দাঁড়ানো, সুষম গড়নে। সে খায়, জিনিস ধরে নিজের হাতে। আর আদমসন্তান ছাড়া বাকি সবাই মুখ দিয়ে ধরে। মাআরিফুল কুরআন এই ভাবনাকে আরও বিস্তৃত করে। সেখানে আছে প্রাণীদের মধ্যে সবচেয়ে স্বতন্ত্র আর সবচেয়ে সুষম আকৃতির কথা, বুদ্ধির কথা, আর এমন হাত-পায়ের কথা যা দিয়ে মানুষ উপকরণ জোগাড় করে নিজের প্রয়োজনের জিনিস বানায়। সেখানে এ-ও আছে যে মানুষ খায় হাত দিয়ে, অথচ পশুরা চরে খায়, পান করে সরাসরি মুখ লাগিয়ে।"
+          },
+          {
+            "en": "As-Sa'di turns the claim into an exercise. If you want to know the beauty of the human being and the perfection of Allah's wisdom in him, he says, look at him limb by limb. Can you find a single limb that would suit him or serve him if it were set anywhere other than where it is? Then look, he continues, at the inclination that hearts have towards one another. Do you find that in anything other than human beings?",
+            "bn": "সা'দী দাবিটিকে একটি অনুশীলনে পরিণত করেন। তিনি বলেন, মানুষের সৌন্দর্য আর তার মধ্যে আল্লাহর হিকমতের পূর্ণতা যদি জানতে চান, তবে তাকে দেখুন এক অঙ্গ এক অঙ্গ করে। এমন একটি অঙ্গও কি খুঁজে পাবেন, যা নিজের জায়গা ছেড়ে অন্য কোথাও বসালে মানাত বা কাজে আসত? তারপর তিনি বলেন, এবার দেখুন মানুষের অন্তরগুলো একে অপরের দিকে কেমন ঝুঁকে থাকে। মানুষ ছাড়া আর কোথাও কি এমনটা পান?"
+          },
+          {
+            "en": "He ends with what lies inside the form. Allah singled the human out, as-Sa'di writes, with intellect and faith, love and knowledge, which are the finest traits, fitting for the most beautiful of forms. On this reading the good form is not only a matter of stature. In his words the inward gifts are the traits that fit the outward shape, so the two belong together. The verse itself says only fa-ahsana suwarakum; the details are the commentators' unpacking of those two words.",
+            "bn": "শেষে তিনি আসেন আকৃতির ভেতরের কথায়। সা'দী লেখেন, আল্লাহ মানুষকে বিশেষভাবে দিয়েছেন বুদ্ধি আর ঈমান, ভালোবাসা আর মারিফাত। এগুলোই সবচেয়ে উত্তম স্বভাব, সবচেয়ে সুন্দর আকৃতির সঙ্গে যা মানানসই। এই পাঠে সুন্দর আকৃতি মানে শুধু দেহের গড়ন নয়। তাঁর কথায় ভেতরের দানগুলোই বাইরের অবয়বের উপযুক্ত স্বভাব, তাই দুটো একসঙ্গেই মানায়। আয়াত নিজে শুধু বলে ফাআহসানা সুওয়ারাকুম। বাকি খুঁটিনাটি ওই দুটি শব্দের ভাঁজ খুলে তাফসীরকারদের ব্যাখ্যা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Lawful, Pleasant, or Both",
+          "bn": "হালাল, সুস্বাদু, নাকি দুটোই"
+        },
+        "p": [
+          {
+            "en": "Wa-razaqakum mina t-tayyibat: and He provided for you from the good things. What counts as tayyib? At-Tabari gives two descriptions side by side: He provided you from lawful provision, and from the pleasant things of food and drink. The Muyassar repeats his pairing almost word for word, lawful provision and delicious food and drink. Ibn Kathir's gloss is simpler and names only the category: food and drink in this world.",
+            "bn": "ওয়া রাযাকাকুম মিনাত তাইয়্যিবাত: আর তিনি তোমাদের রিজিক দিয়েছেন পবিত্র ও ভালো জিনিস থেকে। তাইয়্যিব বলতে কী বোঝায়? তাবারী পাশাপাশি দুটি বর্ণনা দেন: তিনি তোমাদের রিজিক দিয়েছেন হালাল জীবিকা থেকে, আর সুস্বাদু খাবার ও পানীয় থেকে। মুয়াসসার প্রায় হুবহু তাঁর এই জোড়া কথাই বলে: হালাল রিজিক আর মজাদার খাবার-পানীয়। ইবন কাসীরের ব্যাখ্যা আরও সরল। তিনি কেবল শ্রেণিটির নাম বলেন: দুনিয়ার খাবার আর পানীয়।"
+          },
+          {
+            "en": "As-Sa'di widens it. The phrase, he says, includes every good thing: food, drink, marriage, clothing, what is pleasing to see and to hear, and more, all the good things whose means Allah made easy for His servants. He adds the other side: Allah kept them from the foul things, al-khaba'ith, which are their opposite and harm bodies, hearts and religion. Al-Baghawi, introducing it with the words it is said, reports a different angle: provision other than the provision of animals.",
+            "bn": "সা'দী অর্থটিকে আরও প্রশস্ত করেন। তাঁর মতে এর মধ্যে আছে সব ভালো জিনিস: খাবার, পানীয়, বিয়ে, পোশাক, চোখ জুড়ানো দৃশ্য, কান জুড়ানো শব্দ, আরও কত কী। এসব ভালো জিনিসের উপায় আল্লাহ বান্দাদের জন্য সহজ করে দিয়েছেন। তিনি অন্য দিকটাও বলেন: আল্লাহ তাদের দূরে রেখেছেন খাবাইস থেকে, অর্থাৎ নোংরা জিনিস থেকে, যা এসবের বিপরীত এবং দেহ, অন্তর ও দ্বীনের ক্ষতি করে। বাগাভী 'বলা হয়' কথাটি দিয়ে ভিন্ন একটি দিক আনেন: পশুদের রিজিক ছাড়া অন্য রিজিক।"
+          },
+          {
+            "en": "So the fetched commentators read tayyibat in more than one direction: lawful, pleasant, broad enough to cover every good, or set apart from what animals eat. At-Tabari and the Muyassar hold lawful and pleasant together in one gloss, and the article leaves the word as wide as they do. Ma'arif al-Qur'an, on the human form, notes that people make their food taste good, mixing many ingredients and turning one fruit into many dishes. Read beside this verse, that is provision reaching well past bare need.",
+            "bn": "তাহলে তাফসীরকারেরা তাইয়্যিবাতকে পড়েছেন কয়েক দিক থেকে। হালাল, সুস্বাদু, সব ভালো জিনিসকে ঘিরে রাখার মতো প্রশস্ত, কিংবা পশুর খাবার থেকে আলাদা। তাবারী আর মুয়াসসার হালাল আর সুস্বাদু দুটোকে এক ব্যাখ্যায় একসঙ্গে ধরে রাখেন। এ লেখাও শব্দটিকে ততটাই প্রশস্ত রাখছে। মাআরিফুল কুরআন মানুষের আকৃতির আলোচনায় লক্ষ করে, মানুষ খাবারকে স্বাদু করে খায়। নানা উপকরণ মেশায়, একটি ফল থেকে বানায় নানা পদ। এ আয়াতের পাশে রেখে পড়লে বোঝা যায়, রিজিক নিছক প্রয়োজনের সীমা ছাড়িয়ে অনেক দূর গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Abode, Dweller and Provision",
+          "bn": "ঘর, ঘরের মানুষ, রিজিক"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir steps back from the list and names its shape. Allah mentions, he says, that He created the abode, the inhabitants and the provisions, and so He is the Creator and the Provider. The earth and sky are the house, the well-formed human beings are the people living in it, and the good things are what they live on. Then, once all this has been named, the verse says dhalikumu llahu rabbukum: that is Allah, your Lord.",
+            "bn": "ইবন কাসীর তালিকা থেকে একটু পিছিয়ে দাঁড়িয়ে তার গড়নটা চিনিয়ে দেন। তিনি বলেন, আল্লাহ জানাচ্ছেন যে তিনি সৃষ্টি করেছেন ঘর, ঘরের বাসিন্দা আর তাদের রিজিক। অতএব তিনিই স্রষ্টা, তিনিই রিজিকদাতা। যমীন আর আকাশ হলো ঘর, সুন্দর আকৃতির মানুষেরা সেই ঘরের বাসিন্দা, আর পবিত্র জিনিসগুলো তাদের জীবিকা। এসবের নাম নেওয়া শেষ হলে আয়াত বলে: যালিকুমুল্লাহু রাব্বুকুম, তিনিই আল্লাহ, তোমাদের রব।"
+          },
+          {
+            "en": "At-Tabari spells out what that sentence argues. He who did these things and gave you these favours, he says, is Allah, to whom alone divinity is fitting, and your Lord, for whom alone lordship is right; not something that neither benefits nor harms, neither creates nor provides. As-Sa'di describes Him as having arranged the affairs and favoured you with these gifts. No fetched tafsir attaches a hadith to this verse, so the article cites none.",
+            "bn": "এই বাক্য কী যুক্তি দাঁড় করায়, তাবারী তা খুলে বলেন। তাঁর ভাষায়, যিনি এসব কাজ করেছেন আর তোমাদের এসব নিয়ামত দিয়েছেন, তিনিই আল্লাহ। ইলাহ হওয়া কেবল তাঁকেই সাজে। তিনিই তোমাদের রব, রুবুবিয়্যাত আর কারও জন্য খাটে না। এমন কিছু নয়, যা না উপকার করতে পারে, না ক্ষতি, না সৃষ্টি করতে পারে, না রিজিক দিতে। সা'দী তাঁকে বলেন সেই সত্তা, যিনি সব বিষয়ের ব্যবস্থা করেছেন আর তোমাদের এসব নিয়ামত দিয়েছেন। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এ লেখাও কোনো হাদীস আনছে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Exalted, and Abounding in Good",
+          "bn": "সুমহান, কল্যাণে ভরপুর"
+        },
+        "p": [
+          {
+            "en": "The verse closes with fa-tabaraka llahu rabbu l-'alamin. The fetched glosses of tabaraka run along two lines. Ibn Kathir: He is exalted, sanctified and far above all. As-Sa'di: He is magnified, and His good and His kindness are abundant. The Muyassar holds both together: His good, His favour and His blessing are many, and He is free of whatever does not befit Him. One line stresses His height above everything, the other the overflow of good that comes from Him.",
+            "bn": "আয়াত শেষ হয় ফাতাবারাকাল্লাহু রাব্বুল আলামীন দিয়ে। তাবারাকা শব্দের যে ব্যাখ্যাগুলো সামনে আছে, সেগুলো দুই ধারায় চলে। ইবন কাসীর বলেন: তিনি সুউচ্চ, পবিত্র, সব কিছুর ঊর্ধ্বে। সা'দী বলেন: তিনি মহান, তাঁর কল্যাণ আর অনুগ্রহ প্রচুর। মুয়াসসার দুটোকে একসঙ্গে ধরে: তাঁর কল্যাণ, অনুগ্রহ আর বরকত অঢেল, আর যা তাঁর শান নয় তা থেকে তিনি পবিত্র। একটি ধারা জোর দেয় সব কিছুর উপরে তাঁর উচ্চতায়, অন্যটি তাঁর কাছ থেকে উপচে পড়া কল্যাণে।"
+          },
+          {
+            "en": "Rabbu l-'alamin, Lord of the worlds, is glossed as well. At-Tabari reads it as the Owner of all creation, its jinn and its humans and every other kind of creature. As-Sa'di uses the sense of nurture: He raises and tends all the worlds with His favours. The verse began with lakum, for you, and ends with all the worlds. The gifts named for the listener sit inside a care that reaches every creature.",
+            "bn": "রাব্বুল আলামীন, অর্থাৎ জগতসমূহের রব, এরও ব্যাখ্যা আছে। তাবারী একে পড়েন সমস্ত সৃষ্টির মালিক হিসেবে: জিন, মানুষ আর বাকি সব শ্রেণির সৃষ্টি। সা'দী নেন লালন-পালনের অর্থ: যিনি তাঁর নিয়ামত দিয়ে সব জগৎকে প্রতিপালন করেন, যত্নে বড় করে তোলেন। আয়াতের শুরু লাকুম দিয়ে, তোমাদের জন্য। আর শেষ সমস্ত জগতে গিয়ে। শ্রোতার জন্য যে দানগুলোর নাম নেওয়া হলো, সেগুলো এমন এক যত্নের ভেতরে আছে যা প্রতিটি সৃষ্টির কাছে পৌঁছে যায়।"
+          },
+          {
+            "en": "A reader can carry this verse through an ordinary day. Notice the floor before standing on it, the ceiling before sleeping under it, your hands as you eat with them, and the meal itself. Ask, with as-Sa'di, whether any limb is out of place. Ask whether what you eat is lawful as well as pleasant. Then say what the verse says, that this is Allah, your Lord, and let the noticing become thanks to the One who gave it.",
+            "bn": "একজন পাঠক এ আয়াতকে সঙ্গে নিয়ে একটা সাধারণ দিন কাটাতে পারেন। মেঝেতে পা রাখার আগে মেঝেটা খেয়াল করুন। ঘুমানোর আগে মাথার উপরের ছাদটা। খাওয়ার সময় নিজের হাত দুটো, আর খাবারটাও। সা'দীর মতো নিজেকে জিজ্ঞেস করুন, কোনো অঙ্গ কি বেমানান জায়গায় বসানো? জিজ্ঞেস করুন, যা খাচ্ছি তা কি সুস্বাদু হওয়ার পাশাপাশি হালালও? তারপর আয়াত যা বলে তা-ই বলুন: তিনিই আল্লাহ, আমার রব। আর এই খেয়াল করাটাই দাতার প্রতি শুকরিয়া হয়ে উঠুক।"
+          }
+        ]
+      }
+    ]
+  },
+  "40:67": {
+    "sections": [
+      {
+        "h": {
+          "en": "Whom the Submission Is To",
+          "bn": "আত্মসমর্পণ কার কাছে"
+        },
+        "p": [
+          {
+            "en": "The verse before this one gave the Prophet ﷺ words to say: he has been forbidden to worship those his people call upon besides Allah, now that clear proofs have come to him, and he has been commanded to submit to the Lord of the worlds (40:66). Then comes Huwa alladhi khalaqakum: it is He who created you. At-Tabari reads the two as one speech. The Prophet ﷺ is told to alert the idolaters of his people to Allah's proofs of His oneness, and to say: I have been commanded to submit to the Lord of the worlds whose description is this.",
+            "bn": "আগের আয়াতে নবী ﷺ-কে কয়েকটি কথা বলতে শেখানো হয়েছে। তাঁর রবের কাছ থেকে সুস্পষ্ট প্রমাণ আসার পর আল্লাহকে বাদ দিয়ে তাঁর কওম যাদের ডাকে, তাদের ইবাদত করতে তাঁকে নিষেধ করা হয়েছে। আর আদেশ দেওয়া হয়েছে বিশ্বজগতের প্রতিপালকের কাছে আত্মসমর্পণ করতে (৪০:৬৬)। তারপরই আসে হুয়াল্লাযী খালাকাকুম: তিনিই তোমাদের সৃষ্টি করেছেন। তাবারী দুটি আয়াতকে একই বক্তব্য হিসেবে পড়েন। তাঁর মতে নবী ﷺ-কে বলা হচ্ছে, নিজের কওমের মুশরিকদের সামনে আল্লাহর একত্বের প্রমাণগুলো তুলে ধরুন। বলুন, আমাকে আদেশ করা হয়েছে সেই রব্বুল আলামীনের কাছে আত্মসমর্পণ করতে, যাঁর পরিচয় এই।"
+          },
+          {
+            "en": "So the list of stages that follows is not offered as a lesson in biology. It is the description of the One to whom submission is owed. As-Sa'di puts the logic in a single line: Allah settles this tawhid by showing that He is your creator and the One who moves your creation through its stages, so just as He created you alone, worship Him alone. Ibn Kathir's abridged English opens the passage the same way: Allah explains that no one apart from Him is deserving of worship, and then gives the stages as the evidence.",
+            "bn": "কাজেই এরপর ধাপে ধাপে যে তালিকা আসছে, তা জীববিদ্যার পাঠ হিসেবে আসেনি। এ হলো সেই সত্তার পরিচয়, আত্মসমর্পণ যাঁর প্রাপ্য। সা'দী যুক্তিটা এক বাক্যে বলে দেন। আল্লাহ এই তাওহীদকে প্রতিষ্ঠা করছেন এ কথা দেখিয়ে যে তিনিই তোমাদের স্রষ্টা, তিনিই তোমাদের সৃষ্টিকে এক ধাপ থেকে আরেক ধাপে নিয়ে যান। তাই যেমন তিনি একাই তোমাদের সৃষ্টি করেছেন, তেমনি একমাত্র তাঁরই ইবাদত করো। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণও আলোচনা শুরু করে একইভাবে: আল্লাহ জানিয়ে দিচ্ছেন, তিনি ছাড়া আর কেউ ইবাদতের যোগ্য নয়। তারপর প্রমাণ হিসেবে তুলে ধরেন এই ধাপগুলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Dust, a Drop, a Clinging Thing",
+          "bn": "মাটি, ফোঁটা, ঝুলে থাকা টুকরো"
+        },
+        "p": [
+          {
+            "en": "Min turab: from dust. Three of the fetched commentators say whose creation this first stage describes. At-Tabari: He created your father Adam from dust. The Muyassar: He is Allah who created your father Adam from dust. As-Sa'di: that was by His creating your origin and your father, Adam (AS). The pronoun of khalaqakum is plural and takes in everyone, and as-Sa'di's word for Adam (AS) is asl, origin: the first stage of every listener, in his reading, is the creation of the one from whom all of them come.",
+            "bn": "মিন তুরাব: মাটি থেকে। প্রথম ধাপটি কার সৃষ্টির কথা বলছে, তিনজন তাফসীরকার তা স্পষ্ট করে বলেন। তাবারী: তিনি তোমাদের পিতা আদমকে মাটি থেকে সৃষ্টি করেছেন। মুয়াসসার: তিনিই আল্লাহ, যিনি তোমাদের পিতা আদমকে মাটি থেকে সৃষ্টি করেছেন। সা'দী: এটা হয়েছে তোমাদের মূল ও তোমাদের পিতা আদম (আঃ)-কে সৃষ্টির মাধ্যমে। খালাকাকুম শব্দের সর্বনাম বহুবচন, সবাই এর মধ্যে পড়ে। আর আদম (আঃ)-কে সা'দী বলছেন আসল, মানে মূল। তাঁর পাঠে প্রত্যেক শ্রোতার প্রথম ধাপ হলো সেই একজনের সৃষ্টি, যাঁর থেকে সবার শুরু।"
+          },
+          {
+            "en": "Thumma min nutfah: then from a nutfah. The Muyassar glosses it as al-mani, the seminal fluid, from which Allah brought you into being by His power. As-Sa'di marks the turn in the list: this is the beginning of the creation of the rest of humankind while in the mother's womb. He adds that by naming the beginning, the verse points to the stages after it: the 'alaqa, then the mudgha, then the bones, then the breathing in of the soul. Of those, only the first is named in this verse.",
+            "bn": "সুম্মা মিন নুতফা: তারপর নুতফা থেকে। মুয়াসসার এর ব্যাখ্যা দেয় আল-মানী, অর্থাৎ বীর্য। আল্লাহ নিজের কুদরতে তা থেকেই তোমাদের অস্তিত্বে এনেছেন। তালিকার মোড় ঘোরার জায়গাটা সা'দী দেখিয়ে দেন। তাঁর মতে এখান থেকে শুরু হয় বাকি সব মানুষের সৃষ্টি, মায়ের পেটে থাকা অবস্থায়। তিনি আরও বলেন, শুরুটার নাম নিয়ে আয়াত পরের ধাপগুলোর দিকেও ইশারা করেছে: আলাকা, তারপর মুদগা, তারপর হাড়, তারপর রূহ ফুঁকে দেওয়া। এগুলোর মধ্যে এ আয়াতে নাম এসেছে শুধু প্রথমটির।"
+          },
+          {
+            "en": "Thumma min 'alaqah: then from an 'alaqa. The Muyassar renders it as the stage of thick red blood, and Ibn Kathir's abridged English translates it as a clot, a piece of coagulated blood. At-Tabari says only that it came after you had been nutfahs. The fetched commentators stop at those glosses, and this article stops with them. It makes no claim of its own about what happens in the womb at each stage.",
+            "bn": "সুম্মা মিন আলাকা: তারপর আলাকা থেকে। মুয়াসসার একে বলে গাঢ় লাল রক্তের ধাপ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ অনুবাদ করে জমাট রক্ত, অর্থাৎ জমে যাওয়া রক্তের টুকরো। তাবারী শুধু এটুকু বলেন যে নুতফা হওয়ার পর এই ধাপ এসেছে। সংগৃহীত তাফসীরগুলো এই ব্যাখ্যাতেই থেমেছে, এ লেখাও সেখানেই থামছে। মায়ের পেটে কোন ধাপে কী ঘটে, সে বিষয়ে এ লেখা নিজের পক্ষ থেকে কোনো দাবি করে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Child Standing for Many",
+          "bn": "অনেকের হয়ে এক শিশু"
+        },
+        "p": [
+          {
+            "en": "Thumma yukhrijukum tiflan: then He brings you out as a child. At-Tabari: out of your mothers' bellies, small. The noun is singular, tifl, though the you is plural. Al-Baghawi and al-Qurtubi both gloss it as atfalan, children. Al-Qurtubi gives the reason for the singular: what is meant is each one of you, and the verse is content with the one because its purpose is to show the kind. Every reader of the verse was once that single child, brought out by Someone else.",
+            "bn": "সুম্মা ইউখরিজুকুম তিফলান: তারপর তিনি তোমাদের বের করে আনেন শিশু হিসেবে। তাবারী বলেন, মায়েদের পেট থেকে, ছোট্ট অবস্থায়। তোমাদের কথাটা বহুবচন, অথচ তিফল শব্দটা একবচন। বাগাভী আর কুরতুবী দুজনেই এর ব্যাখ্যা দেন আতফালান, মানে শিশুরা। একবচন কেন, কুরতুবী তার কারণও বলেন। উদ্দেশ্য তোমাদের প্রত্যেকে, আর আয়াত একজনের কথা বলেই থেমেছে, কারণ লক্ষ্য হলো জাতটা দেখানো। আয়াতের প্রত্যেক পাঠক একসময় ছিল সেই একক শিশু, যাকে বের করে এনেছেন অন্য কেউ।"
+          },
+          {
+            "en": "The verbs carry a quiet shift. The first stages are told with khalaqakum, a past tense: He created you. The bringing out is told with yukhrijukum, a present tense: He brings you out. The fetched commentators do not comment on the change, so it is noted here only as a feature of the wording. What they do stress is the agent. Ibn Kathir: He alone, with no partner, turns you through all these stages, and all of it comes about by His command, His management and His decree.",
+            "bn": "ক্রিয়াগুলোর মধ্যে একটা নিঃশব্দ বদল আছে। প্রথম ধাপগুলো বলা হয়েছে খালাকাকুম দিয়ে, অতীত কালে: তিনি তোমাদের সৃষ্টি করেছেন। বের করে আনার কথা এসেছে ইউখরিজুকুম দিয়ে, বর্তমান কালে: তিনি তোমাদের বের করে আনেন। সংগৃহীত তাফসীরগুলো এই বদল নিয়ে কিছু বলেনি, তাই এখানে কেবল শব্দের একটা বৈশিষ্ট্য হিসেবেই কথাটা রাখা হলো। তাঁরা জোর দেন কর্তার উপর। ইবন কাসীর বলেন, শরীকবিহীন তিনি একাই তোমাদের এই সব ধাপের মধ্য দিয়ে ঘুরিয়ে আনেন। আর এর সবই ঘটে তাঁর আদেশে, তাঁর ব্যবস্থাপনায়, তাঁর তাকদীরে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Full Strength, Then Grey Hair",
+          "bn": "পূর্ণ শক্তি, তারপর পাকা চুল"
+        },
+        "p": [
+          {
+            "en": "Thumma li-tablughu ashuddakum: then that you reach your ashudd. The fetched glosses describe it from different sides. At-Tabari: your powers become complete and your youth reaches its full extent. Al-Qurtubi: the state in which strength comes together and reason is complete; he refers the fuller discussion back to Surat al-An'am. As-Sa'di: strength of mind and of body, and all its powers, outward and inward. The Muyassar says simply that your frame grows strong, until you become elders.",
+            "bn": "সুম্মা লিতাবলুগূ আশুদ্দাকুম: তারপর যাতে তোমরা আশুদ্দে পৌঁছাও। সংগৃহীত ব্যাখ্যাগুলো একে দেখে ভিন্ন ভিন্ন দিক থেকে। তাবারী: তোমাদের সব শক্তি পূর্ণ হয়, আর যৌবন তার শেষ সীমায় পৌঁছায়। কুরতুবী: যে অবস্থায় শক্তি একত্র হয় আর বুদ্ধি পূর্ণতা পায়। বিস্তারিত আলোচনার জন্য তিনি সূরা আন'আমের দিকে ফিরিয়ে দেন। সা'দী: বুদ্ধি ও দেহের শক্তি, আর ভেতর-বাইরের সমস্ত সামর্থ্য। মুয়াসসার সোজা কথায় বলে, তোমাদের গড়ন মজবুত হয়, শেষে তোমরা বৃদ্ধ হও।"
+          },
+          {
+            "en": "None of these texts fixes a number of years for ashudd in this verse, and al-Qurtubi's own discussion of it sits under another surah that was not fetched for this one. So the article names no age. What the glosses share is a picture of completion: strength and understanding at their fullest. The verse places that peak in the middle of the list rather than at its end, and at-Tabari closes the same sentence by saying that your creation is completed as elders.",
+            "bn": "এ আয়াতে আশুদ্দের জন্য কোনো নির্দিষ্ট বয়স এই তাফসীরগুলোর কেউ ঠিক করে দেননি। কুরতুবীর নিজের আলোচনাটা আছে অন্য এক সূরায়, যা এ আয়াতের জন্য সংগ্রহ করা হয়নি। তাই এ লেখা কোনো বয়সের নাম বলছে না। ব্যাখ্যাগুলোর মিল একটা জায়গায়: পূর্ণতার ছবি, যেখানে শক্তি আর বোধ দুটোই সবচেয়ে বেশি। আয়াত এই চূড়াকে রেখেছে তালিকার মাঝখানে, শেষে নয়। আর তাবারী একই বাক্য শেষ করেন এ কথায় যে তোমাদের সৃষ্টির পূর্ণতা আসে বৃদ্ধ অবস্থায়।"
+          },
+          {
+            "en": "Thumma li-takunu shuyukhan: then that you become elders. Al-Qurtubi records two vowelings of the plural. Shuyukh, with damma, is the reading of Nafi', Ibn Muhaysin, Hafs, Hisham, Ya'qub and Abu 'Amr; shiyukh, with kasra, is the reading of the rest, and both are plurals of abundance. A singular reading, shaykhan, is also reported, on the pattern of tiflan before it. In his lexical note he adds that a shaykh is a man who has passed forty years.",
+            "bn": "সুম্মা লিতাকূনূ শুয়ূখান: তারপর যাতে তোমরা বৃদ্ধ হও। বহুবচন শব্দটির দুই রকম উচ্চারণ কুরতুবী উল্লেখ করেন। শীনে পেশ দিয়ে শুয়ূখ পড়েছেন নাফি', ইবন মুহাইসিন, হাফস, হিশাম, ইয়াকূব ও আবূ আমর। বাকিরা পড়েছেন শীনে যের দিয়ে, শিয়ূখ। দুটোই বহুসংখ্যা বোঝানো বহুবচন। একবচনে শাইখান পাঠও বর্ণিত আছে, আগের তিফলান শব্দের ধাঁচে। শব্দের আলোচনায় তিনি আরও বলেন, শাইখ হলো সে, যে চল্লিশ বছর পেরিয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Before Which Stage?",
+          "bn": "কোন ধাপের আগে?"
+        },
+        "p": [
+          {
+            "en": "Wa minkum man yutawaffa min qablu: and among you is someone who is taken in death before. The verse does not say before what, and the commentators supply it differently. At-Tabari: before he reaches old age. Al-Baghawi: before he becomes a shaykh. Al-Qurtubi reports Mujahid with two possibilities side by side: before being a shaykh, or before all of these states, when the child comes out miscarried. As-Sa'di sets the line earlier in the list: before reaching ashudd, full strength.",
+            "bn": "ওয়া মিনকুম মাই ইউতাওয়াফফা মিন কাবলু: আর তোমাদের কাউকে আগেই মৃত্যু দেওয়া হয়। কিসের আগে, আয়াত তা বলেনি। তাফসীরকারেরা শূন্যস্থানটা ভরেছেন ভিন্ন ভিন্নভাবে। তাবারী: বার্ধক্যে পৌঁছানোর আগে। বাগাভী: শাইখ হওয়ার আগে। কুরতুবী মুজাহিদের মত আনেন, যেখানে দুটি সম্ভাবনা পাশাপাশি রাখা: শাইখ হওয়ার আগে, অথবা এই সব অবস্থার আগেই, যখন শিশু গর্ভপাত হয়ে বেরিয়ে আসে। সা'দী সীমারেখা টানেন তালিকার আরও আগে: আশুদ্দে, মানে পূর্ণ শক্তিতে পৌঁছানোর আগে।"
+          },
+          {
+            "en": "Ibn Kathir takes the widest view. Before, for him, begins before the child exists and comes out into this world, when the mother miscarries; and some of them die young, or as youths, or in middle age before old age. He supports it with 22:5: We settle in the wombs whom We will for a specified term. The Muyassar keeps the verse's own openness: and among you is someone who dies before that.",
+            "bn": "ইবন কাসীরের দৃষ্টি সবচেয়ে বিস্তৃত। তাঁর কাছে এই আগে শুরু হয় শিশুর অস্তিত্বে আসা আর এই দুনিয়ায় বেরিয়ে আসার আগ থেকেই, যখন মা গর্ভপাতের শিকার হন। তারপর তাদের কেউ মারা যায় শৈশবে, কেউ যৌবনে, কেউ মাঝবয়সে, বার্ধক্যের আগে। এর সমর্থনে তিনি আনেন ২২:৫ আয়াত: আর আমি যাকে ইচ্ছা নির্দিষ্ট মেয়াদ পর্যন্ত গর্ভে স্থির রাখি। মুয়াসসার আয়াতের নিজস্ব খোলা ভাবটাই রেখে দেয়: তোমাদের কেউ এর আগেই মারা যায়।"
+          },
+          {
+            "en": "These are not one reading in different words. One line is drawn at old age, another at full strength, and a third reaches back before birth. The article leaves them side by side and takes no position. What they share is the verse's own pause: in the middle of a list of stages, it stops to say that not everyone completes the list. A pregnancy that ended early, a child who died, a young person who never grew old: each falls under min qablu in at least one of these readings.",
+            "bn": "এগুলো একই কথা ভিন্ন শব্দে বলা নয়। একজন সীমা টানেন বার্ধক্যে, আরেকজন পূর্ণ শক্তিতে, আর তৃতীয়জন পিছিয়ে যান জন্মেরও আগে। এ লেখা মতগুলো পাশাপাশি রেখে দিচ্ছে, কোনোটির পক্ষ নিচ্ছে না। তবে সবার মধ্যে একটা মিল আছে, আর তা আয়াতেরই থমকে দাঁড়ানো। ধাপের তালিকার মাঝপথে আয়াত থেমে জানিয়ে দেয়, সবাই তালিকা শেষ করে না। সময়ের আগে শেষ হয়ে যাওয়া গর্ভ, মারা যাওয়া শিশু, বুড়ো হওয়ার আগেই চলে যাওয়া তরুণ: এই মতগুলোর অন্তত একটিতে প্রত্যেকেই মিন কাবলুর মধ্যে পড়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Neither Later Nor Sooner",
+          "bn": "দেরিতেও না, আগেও না"
+        },
+        "p": [
+          {
+            "en": "Wa li-tablughu ajalan musamma: and that you reach a named term. At-Tabari: an appointed time fixed for your lives, a limited term that you do not pass beyond and do not come before. Al-Baghawi adds jami'an, all of you, and says the meaning is the term of life until death. Al-Qurtubi reports Mujahid in a short phrase: death, for everyone. As-Sa'di and the Muyassar read it together with the stages: by these decreed stages you reach a named term, at which your lives end.",
+            "bn": "ওয়া লিতাবলুগূ আজালাম মুসাম্মা: আর যাতে তোমরা নির্ধারিত এক মেয়াদে পৌঁছাও। তাবারী: তোমাদের জীবনের জন্য বেঁধে দেওয়া এক সময়, এক সীমিত মেয়াদ, যা তোমরা পেরিয়ে যেতে পারো না, যার আগেও পৌঁছাতে পারো না। বাগাভী জুড়ে দেন জামী'আন, মানে তোমরা সবাই। তাঁর মতে এর অর্থ জীবনের মেয়াদ, মৃত্যু পর্যন্ত। কুরতুবী মুজাহিদের কথা আনেন অল্প কথায়: সবার জন্য মৃত্যু। সা'দী আর মুয়াসসার একে পড়েন ধাপগুলোর সঙ্গে মিলিয়ে: তাকদীরে বাঁধা এই ধাপগুলো পেরিয়ে তোমরা এমন এক মেয়াদে পৌঁছাও, যেখানে তোমাদের আয়ু শেষ হয়।"
+          },
+          {
+            "en": "Al-Qurtubi also names the grammar of the li in li-tablughu: it is lam al-'aqiba, the lam of outcome, which tells where a course ends. Read that way, the one who dies before old age and the one who reaches it are not under different rules. Both arrive at a term that was already named, the first sooner and the second later, and at-Tabari's gloss rules out the idea that either arrived early or late.",
+            "bn": "লিতাবলুগূ শব্দের লাম নিয়েও কুরতুবী কথা বলেন। এটা লামুল আকিবা, পরিণতির লাম, যা জানায় পথ কোথায় গিয়ে শেষ হয়। এভাবে পড়লে বার্ধক্যের আগে যে মারা যায় আর যে বার্ধক্যে পৌঁছায়, দুজনের জন্য আলাদা নিয়ম নেই। দুজনেই পৌঁছায় আগে থেকে নাম দেওয়া এক মেয়াদে, একজন আগে, আরেকজন পরে। আর তাবারীর ব্যাখ্যা এই ধারণা নাকচ করে দেয় যে তাদের কেউ সময়ের আগে বা পরে পৌঁছেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Written Before the Breath",
+          "bn": "রূহ ফুঁকে দেওয়ার আগেই লেখা"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries fetched for this verse attaches a hadith to it. One sound narration, which none of them links to the verse, speaks of the same 'alaqa and the same ajal. Al-Bukhari records it in his Sahih (3208) from 'Abdullah ibn Mas'ud: Allah's Messenger ﷺ, the true and truly inspired, said: \"(The matter of the Creation of) a human being is put together in the womb of the mother in forty days, and then he becomes a clot of thick blood for a similar period, and then a piece of flesh for a similar period.\"",
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো হাদীস যুক্ত করেনি। একটি সহীহ বর্ণনা আছে, যা তাঁদের কেউ এ আয়াতের সঙ্গে জোড়েননি, তবে তাতে সেই একই আলাকা আর একই আজালের কথা আছে। বুখারী তাঁর সহীহ গ্রন্থে (৩২০৮) আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে এটি বর্ণনা করেছেন। সত্যবাদী ও সত্যায়িত রাসূলুল্লাহ ﷺ আমাদের বলেছেন: \"তোমাদের প্রত্যেকের সৃষ্টি তার মায়ের পেটে চল্লিশ দিন ধরে একত্র করা হয়। তারপর সমপরিমাণ সময় সে আলাকা অবস্থায় থাকে, তারপর সমপরিমাণ সময় মুদগা অবস্থায়।\""
+          },
+          {
+            "en": "The narration continues: \"Then Allah sends an angel who is ordered to write four things. He is ordered to write down his (i.e. the new creature's) deeds, his livelihood, his (date of) death, and whether he will be blessed or wretched (in religion). Then the soul is breathed into him.\" The word rendered his date of death is ajalahu, his term, the same noun as the ajal of this verse. Al-Bukhari gives the report no grading beyond placing it in his Sahih.",
+            "bn": "বর্ণনাটি এগিয়ে চলে: \"তারপর আল্লাহ একজন ফেরেশতা পাঠান, তাঁকে চারটি বিষয় লেখার আদেশ দেওয়া হয়। তাঁকে বলা হয়, লেখো তার আমল, তার রিযিক, তার আজাল, আর সে হতভাগা না সৌভাগ্যবান। তারপর তার মধ্যে রূহ ফুঁকে দেওয়া হয়।\" ইংরেজি অনুবাদে যে শব্দকে মৃত্যুর সময় বলা হয়েছে, আরবিতে তা আজালাহু, তার মেয়াদ। এ আয়াতের আজাল শব্দটিও ঠিক এটাই। বুখারী বর্ণনাটিকে তাঁর সহীহ গ্রন্থে রেখেছেন, এর বাইরে আলাদা কোনো মান উল্লেখ করেননি।"
+          },
+          {
+            "en": "And it ends: \"So, a man amongst you may do (good deeds till there is only a cubit between him and Paradise and then what has been written for him decides his behavior and he starts doing (evil) deeds characteristic of the people of the (Hell) Fire. And similarly a man amongst you may do (evil) deeds till there is only a cubit between him and the (Hell) Fire, and then what has been written for him decides his behavior, and he starts doing deeds characteristic of the people of Paradise.\"",
+            "bn": "আর বর্ণনাটি শেষ হয় এভাবে: \"তোমাদের মধ্যে কেউ আমল করতে থাকে, শেষে তার আর জান্নাতের মাঝে মাত্র এক হাতের ব্যবধান থাকে। তখন তার লেখা তাকে ছাড়িয়ে যায়, আর সে জাহান্নামীদের আমল করে বসে। আবার কেউ আমল করতে থাকে, শেষে তার আর জাহান্নামের মাঝে মাত্র এক হাতের ব্যবধান থাকে। তখন লেখা তাকে ছাড়িয়ে যায়, আর সে জান্নাতীদের আমল করে।\""
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Why the Verse Ends on Reason",
+          "bn": "শেষ কথা কেন বুঝে দেখা"
+        },
+        "p": [
+          {
+            "en": "Wa la'allakum ta'qilun: and perhaps you will use reason. Ibn Kathir reports Ibn Jurayj: that you may remember the resurrection. At-Tabari: so that you understand Allah's proofs against you through this and reflect on His signs, and know by them that no god but He did it. Al-Baghawi: so that you understand the oneness of your Lord and His power. Al-Qurtubi: so that you understand this, and know that there is no god besides Him.",
+            "bn": "ওয়া লা'আল্লাকুম তা'কিলূন: আর যাতে তোমরা বুঝে দেখো। ইবন কাসীর ইবন জুরাইজের কথা আনেন: যাতে তোমরা পুনরুত্থানের কথা স্মরণ করো। তাবারী: যাতে এর মাধ্যমে তোমাদের সামনে রাখা আল্লাহর প্রমাণগুলো বোঝো, তাঁর নিদর্শন নিয়ে ভাবো, আর তা থেকে জানতে পারো যে তিনি ছাড়া কোনো ইলাহ এ কাজ করেনি। বাগাভী: যাতে তোমাদের রবের তাওহীদ ও কুদরত বুঝতে পারো। কুরতুবী: যাতে তোমরা এ বিষয়টি বোঝো, আর জানো যে তিনি ছাড়া কোনো ইলাহ নেই।"
+          },
+          {
+            "en": "So two lines of reasoning run from the same list. Ibn Jurayj ties it to the resurrection; at-Tabari, al-Baghawi and al-Qurtubi tie it to tawhid and to Allah's power. The fetched texts give both, and the article keeps both without ranking them. Neither cancels the other, and a reader can hold them together: the list is evidence about who alone deserves worship, and, for Ibn Jurayj, a reminder of the resurrection.",
+            "bn": "তাহলে একই তালিকা থেকে যুক্তির দুটি ধারা বের হয়। ইবন জুরাইজ একে জোড়েন পুনরুত্থানের সঙ্গে। তাবারী, বাগাভী আর কুরতুবী জোড়েন তাওহীদ আর আল্লাহর কুদরতের সঙ্গে। সংগৃহীত তাফসীরে দুটোই আছে, এ লেখাও দুটোই রাখছে, কোনোটিকে আগে-পিছে না করে। একটি অন্যটিকে বাতিল করে না, পাঠক দুটোকে একসঙ্গে ধরে রাখতে পারেন। তালিকাটি জানিয়ে দেয় ইবাদত একমাত্র কার প্রাপ্য। আর ইবন জুরাইজের ব্যাখ্যায় এটি পুনরুত্থানের স্মারক।"
+          },
+          {
+            "en": "As-Sa'di turns the reasoning back on the reader. Understand your own states, he says, and you will know that He who moves you through these stages is perfect in power, that worship is fitting for none but Him, and that you are deficient in every respect. That last clause is the mirror the verse holds up. None of the stages was an achievement. Nobody made himself a child, or strong, or old, and nobody moves his own term, which at-Tabari says is neither passed nor reached early.",
+            "bn": "সা'দী যুক্তিটা ঘুরিয়ে দেন পাঠকের দিকেই। তিনি বলেন, নিজের অবস্থাগুলো বুঝে দেখো, তাহলে জানবে যে যিনি তোমাদের এই ধাপগুলোর মধ্য দিয়ে নিয়ে যান, তাঁর কুদরত পরিপূর্ণ। ইবাদত তিনি ছাড়া আর কারও জন্য শোভা পায় না। আর তোমরা সব দিক থেকেই অপূর্ণ। শেষ কথাটিই আয়াতের ধরা আয়না। কোনো ধাপই কারও নিজের অর্জন নয়। কেউ নিজেকে শিশু বানায়নি, শক্তিশালী বা বৃদ্ধও বানায়নি। নিজের মেয়াদও কেউ সরাতে পারে না। তাবারীর ভাষায়, সেই মেয়াদ পেরোনো যায় না, তার আগে পৌঁছানোও যায় না।"
+          }
+        ]
+      }
+    ]
   }
 });

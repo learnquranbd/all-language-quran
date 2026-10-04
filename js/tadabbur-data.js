@@ -14259,6 +14259,46 @@ const TADABBUR_NOTES = {
     ],
     "lessonEn": "The Qur'an has set out its verses clearly; bring to it the knowing it asks for: of its language, of its meaning, and a will to reflect.",
     "lessonBn": "কুরআন তার আয়াতগুলো স্পষ্ট করে খুলে বলেছে। আপনিও তার কাছে সেই জানা নিয়ে যান, যা সে চায়: তার ভাষার জানা, তার অর্থের জানা, আর ভেবে দেখার ইচ্ছা।"
+  },
+  "40:64": {
+    "reflectionEn": "Before this verse asks anything of you, it points at what you are standing on. The ground under your feet holds still enough to build on, to walk on and to sleep on. The sky above is set over you like a roof. Your own body was given a shape, and then the shape was made good. Your food and drink come from what is good. All of this was given before you asked for any of it, and then one short sentence names the Giver: that is Allah, your Lord. When did I last notice the floor, the ceiling, my own two hands or the taste of a meal as something given? And when I noticed, did the noticing lead me back to Him?",
+    "reflectionBn": "এ আয়াত আপনার কাছে কিছু চাওয়ার আগে আঙুল তোলে আপনার পায়ের নিচের দিকে। যে মাটির উপর আপনি দাঁড়িয়ে আছেন, তা এতটাই স্থির যে তার উপর ঘর তোলা যায়, হাঁটা যায়, ঘুমানো যায়। মাথার উপরের আকাশ যেন ছাদ হয়ে আছে। আপনার নিজের দেহকে আকৃতি দেওয়া হয়েছে, তারপর সেই আকৃতিকে সুন্দর করা হয়েছে। আপনার খাবার আর পানীয় আসে ভালো আর পবিত্র জিনিস থেকে। এর কোনোটাই আপনি চেয়ে নেননি, চাওয়ার আগেই পেয়েছেন। তারপর ছোট্ট একটি বাক্য দাতার নাম বলে দেয়: তিনিই আল্লাহ, তোমাদের রব। শেষ কবে মেঝে, ছাদ, নিজের দুই হাত বা এক বেলার খাবারের স্বাদকে দান হিসেবে খেয়াল করেছি? আর খেয়াল যখন করেছি, সেই খেয়াল কি আমাকে তাঁর কাছে ফিরিয়ে নিয়ে গেছে?",
+    "pointsEn": [
+      "What did I stand on, sleep under, eat or use with my own hands today without once thinking of who gave it?",
+      "When I look in the mirror, do I see a form that was made well, or only the flaws I keep a list of?",
+      "Is the provision I live on both lawful and good, and do I care about the first as much as the second?",
+      "Which ordinary blessing could I name to Allah tonight, specifically, instead of thanking Him in general?",
+      "If the earth was made steady for me to live on, what am I building on it?"
+    ],
+    "pointsBn": [
+      "আজ কোন জিনিসের উপর দাঁড়িয়েছি, কিসের নিচে ঘুমিয়েছি, কী খেয়েছি বা নিজের হাতে কী ব্যবহার করেছি, অথচ একবারও ভাবিনি কে তা দিয়েছেন?",
+      "আয়নায় তাকালে আমি কি সুন্দর করে গড়া একটি আকৃতি দেখি, নাকি শুধু নিজের খুঁতের তালিকা মেলাই?",
+      "যে রিজিকের উপর আমি বেঁচে আছি, তা কি হালালও আর ভালোও? দ্বিতীয়টার মতো প্রথমটা নিয়েও কি আমি ততটাই ভাবি?",
+      "আজ রাতে আল্লাহর কাছে কোন সাধারণ নিয়ামতটির নাম ধরে শুকরিয়া জানাতে পারি, ঢালাও শুকরিয়ার বদলে?",
+      "যে মাটিকে আমার বসবাসের জন্য স্থির করে দেওয়া হয়েছে, তার উপর আমি কী গড়ে তুলছি?"
+    ],
+    "lessonEn": "The ground that holds you, the sky above you, your well-made form and your good provision all point to one Lord. Notice them, and let them lead you to Him.",
+    "lessonBn": "যে মাটি আপনাকে ধরে রাখে, মাথার উপরের আকাশ, আপনার সুগঠিত দেহ আর আপনার পবিত্র রিজিক, সবই এক রবের দিকে ইশারা করে। এগুলো খেয়াল করুন, আর এগুলোই আপনাকে তাঁর কাছে পৌঁছে দিক।"
+  },
+  "40:67": {
+    "reflectionEn": "Read the verse as a whole life told in a handful of words: dust, a drop, a clinging thing, a child, full strength, old age, and a term already named. Most of it happened to me before I could choose anything. I did not ask to be formed, or to be brought out, or to grow strong. Some never reach the stages I have passed, and the verse names them too, so that no one reads the list as a promise. Every stage was His work, and the verse closes by asking me to think. If He carried me this far without my help, whom else should I worship? And since my term is already named, how am I spending the stage I am in now?",
+    "reflectionBn": "আয়াতটিকে পড়ুন অল্প কয়েকটি শব্দে বলা গোটা এক জীবন হিসেবে: মাটি, এক ফোঁটা, ঝুলে থাকা এক টুকরো, শিশু, পূর্ণ শক্তি, বার্ধক্য, আর আগে থেকেই ঠিক করা এক মেয়াদ। এর বেশিরভাগই আমার উপর দিয়ে গেছে তখন, যখন বেছে নেওয়ার কোনো ক্ষমতাই আমার ছিল না। আমাকে গড়ে তোলার জন্য, বের করে আনার জন্য, শক্ত-সমর্থ করার জন্য আমি কিছুই চাইনি। অনেকে আমার পেরিয়ে আসা ধাপগুলোতেও পৌঁছায় না। আয়াত তাদের কথাও বলে, যাতে কেউ এই তালিকাকে প্রতিশ্রুতি না ভাবে। প্রতিটি ধাপ তাঁরই কাজ, আর আয়াত শেষ হয় ভেবে দেখার আহ্বানে। আমার কোনো সাহায্য ছাড়াই তিনি যদি আমাকে এতদূর এনে থাকেন, তবে আর কার ইবাদত করব? আর আমার মেয়াদ যখন আগেই ঠিক হয়ে আছে, এখন যে ধাপে আছি, সেটা কীভাবে কাটাচ্ছি?",
+    "pointsEn": [
+      "Which stage of this verse am I living in now, and what is that stage asking of me?",
+      "What did I receive in the stages before I could choose anything, and have I ever thanked Allah for those gifts by name?",
+      "When I hear of someone taken young, do I let it remind me that my own term is already named?",
+      "If my strength is a stage that passes, what am I building with it before it turns?",
+      "When I look at the old people around me, do I see where I am heading, and do I treat them as I would want to be treated then?"
+    ],
+    "pointsBn": [
+      "এ আয়াতের কোন ধাপে আমি এখন আছি, আর এই ধাপ আমার কাছে কী চাইছে?",
+      "বেছে নেওয়ার ক্ষমতা আসার আগের ধাপগুলোতে আমি কী কী পেয়েছি? সেই দানগুলোর জন্য কি কখনো নাম ধরে আল্লাহর শুকরিয়া আদায় করেছি?",
+      "অল্প বয়সে কারও চলে যাওয়ার খবর শুনলে কি মনে পড়ে যে আমার নিজের মেয়াদও আগেই ঠিক হয়ে আছে?",
+      "আমার শক্তি যদি পেরিয়ে যাওয়ার মতো একটা ধাপ হয়, তবে তা ফুরিয়ে যাওয়ার আগে এ দিয়ে আমি কী গড়ছি?",
+      "চারপাশের বয়স্ক মানুষদের দিকে তাকালে কি দেখি আমি কোন দিকে যাচ্ছি? আর সেই বয়সে নিজে যেমন আচরণ চাইব, তাঁদের সঙ্গে কি তেমন আচরণ করি?"
+    ],
+    "lessonEn": "The One who brought you from dust through every stage of life alone deserves your worship; live your present stage knowing that your term is already named.",
+    "lessonBn": "যিনি আপনাকে মাটি থেকে জীবনের প্রতিটি ধাপ পার করিয়ে এনেছেন, ইবাদত কেবল তাঁরই প্রাপ্য। আপনার মেয়াদ আগেই ঠিক হয়ে আছে, এ কথা মনে রেখে বর্তমান ধাপটি কাটান।"
   }
 };
 
