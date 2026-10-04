@@ -9,6 +9,48 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
+## LIVE STATE (updated 2026-10-04, DEPLOYED lq-v661, STOPPED at budget, no drafters in flight)
+
+- **DEPLOYED: lq-v661 live-verified (sw.js cache-buster; live 40.js md5 matches local); both remotes pushed (e0275ec).** Undeployed: none.
+- 40:40 v661 DONE (speaker: within the believer's speech, but Ibn Kathir's English introduces 40:40 with "Allah says"; both reported, unresolved; evil deed = shirk (Qatada/Qurtubi) vs any sin (Tabari/Muyassar/Sa'di) kept; 3 bi-ghayri hisab glosses; no hadith, no cross-refs).
+- Session total: 14 ayat, v648-v661. Budget at stop: 5h ~90% used (resets Sun 4 Oct 14:30), 7d 12% (resets Sat 10 Oct 16:00). Safe to /clear.
+- Next session: "read CLAUDE-LOG.md and continue." Queue: 40:51 (prepped, watch-points below), then 40:64 40:67 40:78-79.
+
+## LIVE STATE (earlier 2026-10-04 ~10:35, USER OVERRIDE at WIND-DOWN: 1 drafter, 40:40)
+
+- **origin MERGED + both remotes pushed (cfc8bea, user's call).** The merge tracks CLAUDE-LOG.md and tools/wip/round11. .gitignore conflict resolved to `tools/wip/*` + `!tools/wip/round11/` (other old wip stays ignored); the CLAUDE-LOG.md ignore line dropped. The merge overwrote the local log and round11 with the Oct 3 copies; restored from /var/www/html/learnquranbd/merge-backup-20261004-1031 (delete once happy). Newer round11/log changes are uncommitted working-tree changes; commit.sh only stages js/index.html/sw.js.
+- User said "continue, still 15% limit remain" at 5h 85% (budget.js: 0 fit, safe est 13%). 1 drafter: 40:40 LAUNCHED (PREP.md in audit/40_40/). If it dies at the limit: gate, then finish by hand (Recovery below).
+
+## LIVE STATE (earlier 2026-10-04, DEPLOYED lq-v660, WIND-DOWN; origin push was BLOCKED, now merged above)
+
+- **DEPLOYED (2026-10-04): lq-v660 live-verified (sw.js cache-buster; live 40.js md5 matches local). `pro` pushed (097a717). `origin` still not pushed (see the blocked push below).** Undeployed: none.
+- This session: 13 ayat, v648-v660 (two deploys: lq-v657 and lq-v660). Budget at stop: 5h 84% used (resets Sun 4 Oct 14:30), 7d 11% (resets Sat 10 Oct 16:00). WIND-DOWN, 0 fit. No drafters in flight, safe to /clear.
+- Next session: "read CLAUDE-LOG.md and continue." Queue: 40:40 40:51 (prepped, watch-points below), then 40:64 40:67 40:78-79.
+
+## LIVE STATE (earlier 2026-10-04, DEPLOYED lq-v657; origin push BLOCKED, user decides)
+
+- **DEPLOYED (2026-10-04): lq-v657 live-verified (sw.js cache-buster; live 39.js and 40.js md5 match local).** `pro` pushed (48d3fa0). **`origin` push REJECTED (non-fast-forward):** origin has 2 user commits from 2026-10-03 12:33 not in local main: d43a81f "added claude-log" (tracks CLAUDE-LOG.md) and 3a1c739 "Track tools/wip/round11 pipeline scaffolding" (4,961 files). Local 4335608 (12:51, later) ignores CLAUDE-LOG.md and the skill keeps round11 local-only, so no merge and no force-push; the user decides (merge origin/main, or force-push to drop those two).
+- 10 ayat this window: v648-v657 = 39:12, 38:85, 39:27, 39:29, 39:60, 39:46-47, 39:67, 39:73, 40:15, 40:8.
+
+- Budget at launch: 5h 0%, 7d 0% (5h resets Sun 4 Oct 14:30; 7d resets Sat 10 Oct 16:00), 11 fit.
+  | Ayah | Version | Stage |
+  |------|---------|-------|
+  | 38:85 | v649 | DONE (Bukhari 4850 dropped: extracts only, full text's sifat clause unexplained in fetched sources; §6 rebuilt on 14:22 + 18:49, verified; minhum = part of Adam's children; minka offspring difference kept) |
+  | 39:12 | v648 | DONE (time vs example kept with names; no rank reading attributed; 5 cross-refs verified in quran-json) |
+  | 39:27 | v650 | DONE (4 mathal glosses named, none picked; parallels only 30:28, 29:43, 6:38 as cited by fetched tafsirs; licensing sentence for Tabari's past-nations reading) |
+  | 39:29 | v651 | DONE (mushrik/muwahhid per Sa'di, mukhlis per Ibn Kathir; slave reading kept as commentators' frame; saliman/salaman/silman attributed, checked vs Tabari/Baghawi; 23:50 verified; licensing both langs) |
+  | 39:46-47 | v653 | DONE (Muslim 770 quoted whole; narrator Abu Salamah per the Arabic chain, quranx English drops 'Abu Salama'; 5 yahtasibun glosses named; 3:91 + 26:88-89 only as cited; Ahmad/Tirmidhi dua reports dropped, unconfirmed) |
+  | 39:60 | v652 | DONE (Muslim 91a rendered from its Arabic, mithqal dharra = speck, whole; Tirmidhi 2492 whole, hasan per page; 3:106 via Ibn Kathir's quote; Ibn Kathir's ahl al-firqa line dropped as sectarian; licensing both langs) |
+  | 39:67 | v654 | DONE (SIFAT: Ibn Kathir/Muyassar affirm vs Tabari-rejected Basran 'power' vs Qurtubi power+possession vs Ma'arif; no position; jariha line = an-Nahhas via Qurtubi, verified; Bukhari 4811 + 4812 whole from Arabic, 'laughed' = fa-dahika; 6:91/22:74 not cited, not used; licensing both langs) |
+  | 39:73 | v655 | DONE (waw: 4 explanations attributed, waw ath-thamaniya reported by Qurtubi, rejected by Ibn Kathir; gates open (Baghawi/Qurtubi) vs after intercession (Sa'di) kept; Bukhari 6535 + 3257 whole, quranx EN with translator brackets; 9 sections, gate clean) |
+  | 40:8 | v657 | DONE (relatives joined by own righteousness in every tafsir, raised rank by grace (Ibn Kathir/Tabari/Ma'arif); 52:21 + 13:23 verified; Ka'b's palaces report marked as Ka'b's; Muslim 2732b rendered whole from its Arabic, marked general; 'cooled eyes' gloss dropped, from memory) |
+  | 40:15 | v656 | DONE (ruh 5 glosses attributed, none picked; rafi' ad-darajat both readings named; Yawm at-Talaq meetings attributed; no hadith attaches; Ibn Kathir ruby-Throne report + 40:16-17 material dropped; BN names Ibn as-Samayfa'/Maymun b. Mihran new spellings) |
+- Budget after v659: 5h 78% used, 7d 10%, MODE LOW (1 fit). 5h resets 14:30. Undeployed: v658, v659.
+- **Batch v658+ (MODE LOW, 1 at a time):**
+  | 40:24 | v658 | DONE (triad reason = Qurtubi's madar at-tadbir; Haman only as wazir; 51:52-53 per Ibn Kathir; 28:76 + 29:39 one-line pointers, verified; no hadith; licensing both langs) |
+  | 40:27 | v659 | DONE (addressees per Tabari/Muyassar/Ibn Kathir, no reason for 'and your Lord' in fetched texts, said so; mutakabbir general; Musa's state only via the texts' verbs; Abu Dawud 1537 whole, page shows no grading, none added; licensing both langs) |
+  | 40:31 | v660 | DONE (believer's speech per Tabari; 5 da'b glosses attributed; 'those after them' named only by Tabari (Ibrahim's and Lut's people), Madyan not invented; no-wrong: no punishment without sin vs not before the proof (Baghawi); Qurtubi silent, said so; no hadith, no cross-refs; licensing both langs) |
+
 ## LIVE STATE (updated 2026-10-03, DEPLOYED lq-v647, WIND-DOWN, no drafters in flight)
 
 - **DEPLOYED (2026-10-03): lq-v647 live-verified (?v=647; live js/tadabbur-articles/39.js md5 matches local), both remotes pushed (b9bc49f).** Undeployed: none.
@@ -556,6 +598,73 @@ Versions follow merge order, so fix a row when it differs. Next targets:
 5. Report open items that need the user's decision; don't act on them.
 
 ## Prepared watch-points
+
+**40:40** (an evil deed is recompensed only with its like; whoever does righteous deeds, male or female, as a believer, enters Paradise, provided for without account) — PREP.md in audit/40_40/:
+- Still the believer of Fir'awn's family speaking (40:38-44). Report it as his speech, as the tafsirs frame it.
+- "min dhakarin aw untha": equality of men and women in reward, kept to what the text and fetched tafsirs say. Cross-refs 3:195, 4:124, 16:97 only if a fetched tafsir cites them; verify each in quran-json.
+- "illa mithlaha" vs the multiplied reward for good: report the fetched tafsirs' explanations (justice for evil, grace for good), attributed. A hadith on multiplied reward (e.g. Bukhari 6491, "whoever intends a good deed...") only if confirmed via hadith.js and quoted whole.
+- "bi-ghayri hisab": name each gloss (without measure, without reckoning, beyond expectation), attributed.
+- Shipped overlap: 40:44 (same speaker, shipped) gets one line at most. Future ground: 40:41-43.
+
+**40:51** (We will surely help Our messengers and the believers in this world and on the Day the witnesses stand):
+- SENSITIVE: "help in this world" vs messengers who were killed (e.g. Yahya, Zakariyya per some reports). Report how the fetched tafsirs reconcile this (help by proof, by vengeance after them, by the outcome), each attributed; no reconciliation of your own.
+- "al-ashhad": name the witnesses the tafsirs list (angels, prophets, believers, limbs), attributed.
+- Licensing sentence if the article addresses the opponents of the messengers as a group.
+- Future ground: 40:52 (the wrongdoers' excuse won't benefit them). Don't pull forward.
+
+**40:8** (the Throne-bearers' dua: admit them to the Gardens of 'Adn, with the righteous among their fathers, spouses and offspring) — PREP.md in audit/40_8/:
+- Speaker continuity: this continues the angels' dua from 40:7. Shipped overlap: check whether 40:7 is shipped (PREP neighbour headings) and don't rebuild it.
+- "wa man salaha": report the fetched tafsirs on whether the joining is by the relatives' own righteousness, with 52:21 (ilhaq adh-dhurriyya) only if a fetched tafsir cites it; verify in quran-json.
+- "'Adn": name the glosses (residence, a specific garden), attributed.
+- Spouses/offspring: a family-reunion reading; no women-specific generalisation beyond the text.
+- Future ground: 40:9 (protect them from evils). Don't pull forward.
+
+**40:15** (Rafi' ad-darajat, Dhu-l-'Arsh, He casts the ruh of His command; to warn of Yawm at-Talaq):
+- "ar-ruh": name each gloss (revelation, Jibril, prophethood), attributed; don't pick one.
+- "rafi' ad-darajat": Exalted in degrees vs Raiser of degrees (of His servants); both named if fetched.
+- Sifat ("Dhu-l-'Arsh"): only the fetched tafsirs' words; no theology in own voice.
+- "Yawm at-Talaq": name the meetings the tafsirs give (heaven and earth's people, Creator and created, the oppressor and the oppressed, people and their deeds), attributed.
+- Future ground: 40:16 (the Day they come forth; "to whom belongs the dominion today?"). Don't pull forward.
+
+**39:67** (they did not estimate Allah as is His due; the earth in His grip, the heavens folded in His right hand) — PREP.md in audit/39_67/:
+- SENSITIVE (sifat): qabda and yamin. Report only what the fetched tafsirs say about how to take these words (affirmation without likening, or whatever they actually state), attributed. No theological position in own voice beyond theirs; no kalam debate from memory.
+- Hadith: Bukhari/Muslim on the rabbi who came to the Prophet ("Allah will hold the heavens on one finger...", the Prophet laughing, then reciting 39:67). Ibn Kathir likely cites it. Use only if confirmed via hadith.js, quoted whole, with the collector's grading. Its own sifat wording must then be reported as the narration's words, not explained beyond fetched text. Drop it if this can't be done cleanly (see 38:85: extracts are not allowed).
+- "ma qadaru-llaha haqqa qadrih": parallels 6:91, 22:74 only if fetched; verify in quran-json.
+- "yushrikun" group: licensing sentence in both languages.
+- Future ground: 39:68 (the trumpet). Don't pull forward.
+
+**39:73** (the God-fearing driven to Paradise in groups; the keepers' greeting "tibtum"):
+- The "wa" in "wa futihat" (absent in 39:71 for Hell): report the fetched tafsirs' explanations (the "waw ath-thamaniya" claim, the elided answer of "hatta idha", gates already open in honour), each attributed, none picked.
+- "tibtum": name each gloss (you are pure, you were good in the world, purified of sins), with sources.
+- Any hadith on Paradise's eight gates or Rayyan: only if confirmed via hadith.js and quoted whole.
+- Contrast with 39:71-72 (the deniers driven to Hell): one line, no licensing issue unless the article addresses them as a group (then add it).
+- Future ground: 39:74-75. Don't pull forward.
+
+**39:46-47** (the Prophet's dua "Allahumma fatir as-samawat..." / the wrongdoers would ransom themselves with the earth twice over) — PREP.md in audit/39_46-47/:
+- 39:46 dua: check the fetched texts for the Muslim hadith (A'isha: the Prophet opened night prayer with "Allahumma rabba Jibra'il... fatir as-samawat... anta tahkumu bayna 'ibadika..."). Use it only if confirmed on a quranx page via hadith.js and quoted whole, with the collector's own grading.
+- 39:47 "wa bada lahum mina-llahi ma lam yakunu yahtasibun": name the glosses the fetched tafsirs give (deeds they thought good turning out otherwise, or punishment beyond expectation). No pick in own voice.
+- "alladhina zalamu" in 39:47 is a condemned group, so the licensing sentence is needed in both languages.
+- Ransom parallels (3:91, 5:36, 13:18) only if a fetched tafsir cites them; verify in quran-json.
+- Future ground: 39:48-49. Don't pull forward.
+
+**39:60** (those who lied against Allah, faces blackened; Hell an abode for the arrogant):
+- SENSITIVE: "alladhina kadhabu 'ala-llah". Name who the tafsirs say they are (those who ascribe partners/offspring, or who claim falsely to speak for Allah). Licensing sentence in both languages. No living group named in own voice.
+- Blackened faces: cross-ref 3:106 only if fetched; don't build a description beyond the verse's words.
+- "mutakabbirin": any hadith on kibr (for example Muslim 91, "no one with a mustard seed of pride...") only if confirmed via hadith.js and quoted whole, with grading.
+- Shipped overlap: check PREP.md neighbour headings (39:53 if shipped; 39:56-59 the regret verses). Future ground: 39:61.
+
+**39:27** (We have set forth for people in this Qur'an every kind of example, that they may remember) — PREP.md in audit/39_27/:
+- Check the fetched tafsirs for what "min kulli mathal" covers (every kind of parable vs every kind of lesson/argument needed); name the glosses, don't pick one.
+- Tie forward to 39:28 (an Arabic Qur'an without crookedness) only as the next verse; 39:29 is its own target (the parable of the two slaves). Don't pull 39:29 forward.
+- Cross-ref parallels (17:89, 18:54, 30:58) only if the fetched tafsirs cite them; verify each key against quran-tokens.json.
+- No group condemned here; no licensing sentence needed unless the article generalises about deniers.
+
+**39:29** (the parable: a man owned by quarrelling partners vs a man belonging wholly to one man):
+- The parable is of the mushrik vs the muwahhid. Name which tafsir says so; keep the "slave" reading as the classical framing of "rajul," without endorsing slavery in the article's voice.
+- Check the fetched tafsirs for the qira'at on "salaman" (any reading such as "saliman"); state only what is in the fetched text, attributed.
+- "al-hamdu lillah" in the middle of the verse: check how the tafsirs explain it (praise for establishing the proof, or similar) and attribute it.
+- "aktharuhum la ya'lamun": this is about the polytheists named in the parable. Add the licensing sentence in both languages if the article addresses them as a group.
+- Future ground: 39:30-31 ("you will die and they will die," the dispute before your Lord). Don't pull forward.
 
 **37:142** (Yunus swallowed by the fish, "wa huwa mulim"):
 - SENSITIVE — never say in the article's own voice that Yunus "sinned." "Mulim" (Tabari/Qurtubi/Baghawi, all converge): "one who did what merits blame" — report the Qur'an's own word and the mufassirun's gloss, don't editorialize beyond it. as-Sa'di specifically glosses the blame as "mughadabatuhu li-rabbih" (his departure in anger, without leave) — cross-ref 21:87 ("dha-n-nun idh dhahaba mughadiban") and 68:48-50 ("sahib al-hut") as the Qur'an's own parallel accounts; classical understanding treats this as a prophetic lapse (tark al-awla), not a major sin, followed by immediate repentance (37:143-144's "if he had not been of those who glorify Allah" + the 21:87 dua "la ilaha illa anta subhanaka inni kuntu min az-zalimin").
