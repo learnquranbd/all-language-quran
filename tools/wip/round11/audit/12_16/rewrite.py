@@ -1,0 +1,41 @@
+import sys
+p = '/var/www/html/learnquranbd/all-language-quran/tools/wip/round11/12_16-articles.js'
+s = open(p, encoding='utf8').read()
+
+def rep(prefix, en, bn):
+    global s
+    i = s.index('en: "' + prefix)
+    j = s.index('bn: "', i)
+    k = s.index('"\n', j + 5)
+    s = s[:i] + 'en: "' + en + '",\n            bn: "' + bn + s[k:]
+
+R = [
+("Surah Yusuf is Makkan",
+ "Surah Yusuf is Makkan, and 12:16 falls on the evening of the day the story turns. In 12:8 and 12:9 the brothers resent their father's love for Yusuf (AS) and his brother, and weigh killing him or casting him away; in 12:10 one of them proposes the well instead. In 12:11 to 12:14 they talk their father round, answering his fear of a wolf with a boast that they are a strong band. In 12:15 they agree to put him in the depths of the well.",
+ "সূরা ইউসুফ মাক্কী। যেদিন কাহিনির মোড় ঘুরে যায়, ১২:১৬ আয়াত পড়ে সেই দিনের সন্ধ্যায়। ১২:৮ ও ১২:৯ আয়াতে ভাইয়েরা ক্ষুব্ধ, কারণ বাবা ইউসুফ (আঃ) আর তাঁর ভাইকে বেশি ভালোবাসেন। তারা ভাবে, তাঁকে মেরে ফেলবে, নাকি দূরে কোথাও ফেলে আসবে। ১২:১০ আয়াতে তাদেরই একজন প্রস্তাব দেয়, বরং কূপে ফেলে দাও। ১২:১১ থেকে ১২:১৪ আয়াতে তারা বাবাকে রাজি করায়। বাবা নেকড়ের ভয় করছিলেন, জবাবে তারা বড়াই করে, আমরা এত শক্তিশালী দল থাকতে তা হবে কেন। ১২:১৫ আয়াতে তারা তাঁকে কূপের গভীরে ফেলার ব্যাপারে একমত হয়।"),
+("In that same verse Allah reveals",
+ "In that same verse Allah reveals to the boy in the pit that he will one day tell them of this deed of theirs while they do not perceive. So when our verse opens, the reader knows more than anyone in the house. After its four words, 12:17 gives the story the brothers told and 12:18 the shirt they brought, which has its own article in this module; this one stays with the arrival. No commentary fetched for the verse records an occasion of revelation.",
+ "ওই আয়াতেই আল্লাহ কূপের ভেতরের বালককে ওহি পাঠান: একদিন তুমি তাদের এই কাজের কথা তাদের জানাবে, আর তারা টেরও পাবে না। কাজেই আমাদের আয়াত যখন শুরু হয়, ঘরের যে কারো চেয়ে পাঠক বেশি জানেন। এর ৪টি শব্দের পরে ১২:১৭ আয়াতে আসে ভাইদের বানানো গল্প, আর ১২:১৮ আয়াতে তাদের নিয়ে আসা জামা। ১২:১৮ আয়াতের আলাদা প্রবন্ধ এই মডিউলেই আছে, এই লেখা থাকবে শুধু ফিরে আসার মুহূর্তটুকু নিয়ে। এ আয়াতের জন্য দেখা কোনো তাফসীরে শানে নুযূল নেই।"),
+("Al-Qurtubi draws a principle",
+ "Al-Qurtubi draws a principle from the verse in the name of 'our scholars': this verse is evidence that a person's weeping does not show that what he says is true, because it may be put on; some people can do that and some cannot. Then, introduced only as something said: manufactured tears do not stay hidden. He quotes a line of poetry for it: when tears mingle on the cheeks, it becomes clear who wept, baka, and who made a show of weeping, tabaka. One root gives both words, and he leaves the two remarks side by side.",
+ "এ আয়াত থেকে কুরতুবী একটি নীতি বের করেন, 'আমাদের আলেমগণ' বলে: এই আয়াত প্রমাণ করে, কারো কান্না তার কথার সত্যতার দলিল নয়, কারণ কান্না বানানোও হতে পারে। কিছু মানুষ তা পারে, কিছু মানুষ পারে না। তারপর কেবল 'বলা হয়েছে' বলে আনেন আরেকটি কথা: বানানো কান্না লুকানো থাকে না। এর পক্ষে তিনি একটি কবিতার চরণ আনেন: গালে গালে অশ্রু মিশে গেলে বোঝা যায় কে কেঁদেছে, বাকা, আর কে কান্নার ভান করেছে, তাবাকা। দুটো শব্দই একই মূল থেকে। আর দুটো কথা তিনি পাশাপাশি রেখে দেন, মিলিয়ে দেওয়ার চেষ্টা করেন না।"),
+("The report is small and human",
+ "Ibn Kathir's wording for the arrival is a string of display: they came in the darkness of the night, weeping, showing sorrow and distress over Yusuf (AS) and putting on grief before their father, then excusing themselves fima za'amu, in what they claimed. The account is marked as a claim before it is given. Al-Qurtubi goes further, relaying longer narrations from as-Suddi, Ibn Hibban and Wahb that name individual brothers and describe the father fainting until the cool before dawn. Those details come from reports, not from the Quran, and are left aside here.",
+ "ইবনে কাসীরের ভাষায় এই ফিরে আসা যেন প্রদর্শনীর সারি: তারা রাতের অন্ধকারে কাঁদতে কাঁদতে এল, ইউসুফ (আঃ)-এর জন্য আফসোস আর অস্থিরতা দেখাতে লাগল, বাবার সামনে দুঃখের ভাব ধরল। তারপর কৈফিয়ত দিতে লাগল, ফীমা যাআমূ, তাদের দাবিমতো। বিবরণ আসার আগেই তা দাবি বলে চিহ্নিত। কুরতুবী আরও এগিয়ে সুদ্দী, ইবনে হিব্বান আর ওয়াহবের বরাতে লম্বা বর্ণনা আনেন। সেগুলোতে ভাইদের আলাদা আলাদা নাম আছে, আর আছে বাবার বেহুঁশ হয়ে ভোরের ঠান্ডা নামা পর্যন্ত পড়ে থাকার কাহিনি। এসব বিবরণের উৎস বর্ণনা, কুরআন নয়, তাই এখানে সেগুলো বাদ রাখা হলো।"),
+("Set beside the story",
+ "Set beside the story, the narration's second half takes a visible shape. The deed at the well needed the dark, the dark needed tears, the tears needed the story of 12:17, and the story needed the stained shirt of 12:18, a verse that opens with the same wa-ja'u, and they came. Each step protected the one before. Nor did the concealment end that night; it lasted until 12:89, when a ruler in Egypt asked them whether they knew what they had done to Yusuf and his brother. The hadith says a man keeps on; the surah shows the cost.",
+ "কাহিনির পাশে রাখলে হাদীসের দ্বিতীয় অর্ধেক চোখের সামনে রূপ নেয়। কূপের কাজটা ঢাকতে দরকার হলো অন্ধকার, অন্ধকারের সঙ্গে কান্না, কান্নার জন্য ১২:১৭ আয়াতের গল্প, আর গল্পের জন্য ১২:১৮ আয়াতের রক্তমাখা জামা। ওই আয়াতও শুরু হয় একই ওয়া জাউ দিয়ে, আর তারা এল। প্রতিটি ধাপ আগের ধাপটিকে বাঁচাতে। লুকোচুরি সেই রাতেই শেষ হয়নি। তা চলেছে ১২:৮৯ আয়াত পর্যন্ত, যেদিন মিসরের এক শাসক তাদের জিজ্ঞেস করলেন, ইউসুফ আর তার ভাইয়ের সঙ্গে তোমরা কী করেছিলে, জানো? হাদীস বলে, মানুষ মিথ্যা বলতেই থাকে। সূরা দেখায় তার দাম।"),
+("In each of those places",
+ "In each of those places Allah Himself testifies to what the tears meant, and tears are His gift, which is why their use at 12:16 lands as it does. 4:108 describes those who hide from people but cannot hide from Allah, who is with them when they spend the night plotting words He does not accept. The dark hid faces from an old man at a door, and nothing from Him. And 12:58 brings the verb back: the brothers of Yusuf came and entered upon him, and he knew them while they did not know him.",
+ "ওই প্রতিটি জায়গায় কান্নার মানে কী ছিল, আল্লাহ নিজেই তার সাক্ষী। কান্না তাঁরই দেওয়া নিয়ামত, তাই ১২:১৬ আয়াতে এর ব্যবহার পাঠকের মনে এমন করে বাজে। ৪:১০৮ আয়াত বলে এমন লোকদের কথা, যারা মানুষের কাছ থেকে লুকায়, কিন্তু আল্লাহর কাছ থেকে পারে না। রাতে যখন তারা তাঁর অপছন্দের কথার পরামর্শ করে, তখনও তিনি তাদের সঙ্গে থাকেন। অন্ধকার দরজার এক বৃদ্ধের কাছ থেকে চেহারা আড়াল করেছিল, তাঁর কাছ থেকে কিছুই নয়। আর ১২:৫৮ আয়াতে একই ক্রিয়া ফিরে আসে: ইউসুফের ভাইয়েরা এল, তাঁর সামনে হাজির হলো। তিনি তাদের চিনলেন, তারা তাঁকে চিনল না।"),
+("The verse is about other people's tears",
+ "The verse is about other people's tears only in the second place. First it is a mirror. Most people who have done wrong have felt the pull to arrange the setting: to explain by message rather than face to face, late rather than early, with a catch in the voice doing work the facts cannot. If a wrong is hard to admit by day, that difficulty is modesty doing its work. The honest course is to admit it anyway, in the light, looking at the person.",
+ "আয়াতটি অন্যের কান্না নিয়ে, তবে সেটা দ্বিতীয় কথা। প্রথমে এটি একটা আয়না। অন্যায় করে ফেলা প্রায় সব মানুষই পরিবেশটা সাজিয়ে নেওয়ার টান অনুভব করেছেন। সামনাসামনি না বলে মেসেজে জানানো, সময় থাকতে না বলে দেরিতে বলা, গলায় এমন কাঁপুনি আনা যা ঘটনার সত্য দিয়ে সম্ভব নয়। দিনের আলোয় অপরাধ স্বীকার করতে কষ্ট হলে বুঝতে হবে, লজ্জা তার কাজ করছে। সৎ পথ হলো তবুও স্বীকার করা, আলোয় দাঁড়িয়ে, মানুষটার চোখে চোখ রেখে।"),
+("No commentary fetched ties a supplication",
+ "No commentary fetched ties a supplication to this verse. What follows is composed from its themes and offered only as that. O Allah, make my tears before You sincere and my words before people true. Do not let me hide a wrong in the dark, or dress it in a grief I do not feel. When I do wrong, give me the courage to say so plainly and soon, and make me gentle with the grief of others.",
+ "দেখা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো দোয়া যুক্ত করেনি। নিচের দোয়াটি আয়াতের বিষয় থেকে সাজানো, শুধু সেভাবেই পেশ করা হলো। হে আল্লাহ, আপনার সামনে আমার চোখের পানি খাঁটি করে দিন, মানুষের সামনে আমার কথা সত্য করে দিন। কোনো অন্যায় অন্ধকারে লুকাতে দেবেন না, যে শোক মনে নেই তার পোশাক পরিয়ে ঢাকতে দেবেন না। অন্যায় করে ফেললে সোজাসুজি আর দেরি না করে তা বলার সাহস দিন, আর অন্যের শোকের প্রতি আমাকে কোমল করুন।"),
+]
+for r in R:
+    rep(*r)
+open(p, 'w', encoding='utf8').write(s)
+print('ok')

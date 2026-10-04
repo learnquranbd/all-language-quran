@@ -1,0 +1,2 @@
+Browser (headless, bn): 8 sections, 1,533 rendered words, 7,175 Bengali
+characters, CHECK CONSOLE ERRORS. Tests pass.

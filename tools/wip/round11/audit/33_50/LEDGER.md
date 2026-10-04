@@ -1,0 +1,23 @@
+# SOURCES ledger — 33:50
+
+## Tafsir fetched (all pre-fetched in this dir, covering 33:50)
+- **at-Tabari (15)** — NAMED. Rests on: أحللنا لك أزواجك اللاتي آتيت أجورهن = اللاتي تزوجتهن بصداق مسمى (Mujahid: صدقاتهن); وما ملكت يمينك = الإماء اللواتي سبيتهن … من الفيء; "اللاتي هاجرن معك … دون من لم يهاجر" + Umm Hani' report (as-Suddi←Abu Salih); خالصة لك = لا يحل لأحد من أمتك أن يقرب امرأة وهبت نفسها له (Qatadah); Ibn ʿAbbas/Mujahid: he had no wife by hiba; others name Maymunah/Umm Sharik/Zaynab bint Khuzaymah; قد علمنا ما فرضنا = لا نكاح إلا بولي وشهود، ولا أكثر من أربع (Qatadah, Mujahid); "could marry any woman he wished then restricted" (Ubayy b. Kaʿb, Ibn ʿAbbas).
+- **al-Qurtubi (90)** — NAMED. Rests on: masʾala 2 — الإحلال يقتضي تقدم حظر + Ibn ʿAbbas (he could marry whom he wished, wives distressed then pleased) + "this verse later in revelation than the abrogated one, like the two ʿidda verses in al-Baqarah"; masʾala 3 — مما أفاء الله = رده عليك من الكفار; masʾala 5 — two readings of اللاتي هاجرن (hijrah to Medina / aslamna); masʾala 8 — dispute on the mawhuba, Sahihayn support, Zamakhshari's four names (Maymunah, Zaynab bint Khuzaymah, Umm Sharik, Khawla bint Hakim); masʾala 16 — long list of the Prophet's khasaʾis, nikah by hiba/without walī/without sadaq among the 16 made lawful, far more made obligatory/forbidden; masʾala 19 — لكيلا يكون عليك حرج = ضيق.
+  - Note recorded but NOT asserted: Qurtubi reports the Umm Hani' hadith but cites Ibn al-ʿArabi grading it "ضعيف جدا … ولم يأت من طريق صحيح." I therefore did NOT state the Umm Hani' report in the article.
+- **as-Saʿdi (91)** — NAMED. Rests on: mushtarak vs khāṣṣ framing; اللاتي هاجرن معك = قيد لحل هؤلاء للرسول، كما هو الصواب من القولين (used for "the sounder of two views" + "not a condition of validity for others"); خالصة لك = إباحة الموهبة … أما المؤمنون فلا يحل لهم; closing هذا من زيادة اعتناء الله برسوله + غفورا رحيما.
+- **Ibn Kathir (14 ar / 169 en abridged)** — NAMED (quoted the en-abridged for wording). Rests on: ujur = mahr (Mujahid); Safiyyah (Khaybar captive) freed, manumission = her dowry; Juwayriyah freed then married; cousin-marriage = "justice avoiding two extremes" (Christians/Jews); Ikrimah & Qatadah on خالصة (no woman may offer herself to any man without walī/dower except the Prophet); قد علمنا = four free women + walī/dower/witnesses for the Umma, exemption for him.
+- **al-Baghawi (94)** — NAMED. Rests on: ما ملكت يمينك = سبي مثل صفية وجويرية، ومارية; بنات عمك = نساء قريش، بنات خالك = نساء بني زهرة; اللاتي هاجرن = إلى المدينة، من لم تهاجر لم يجز; "then the hijrah condition was abrogated" (ثم نسخ شرط الهجرة); the proposed mawhuba names (Zaynab bint Khuzaymah/Maymunah/Umm Sharik/Khawla bint Hakim); قد علمنا = لا أكثر من أربع ولا إلا بولي وشهود ومهر.
+- **Ma'arif al-Qur'an (168 en)** — NAMED. Rests on: "seven injunctions specific to the Prophet"; اللاتي آتيت أجورهن is a statement of fact (paid promptly, not a precondition), the special point being he had >4 wives; dower essential for all others, even a waiver void → customary dower due; believing-woman condition (no kitābiyya for him); wisdom of the migration condition; likayla yakūn ḥaraj covers both the eases and the added restrictions.
+- **al-Muyassar (16)** — NAMED (closing). Rests on: رخصنا لك … ووسعنا عليك ما لم يوسع على غيره + غفورا لذنوب عباده المؤمنين رحيما بالتوسعة عليهم.
+
+## Hadith (one, quoted whole)
+- **Sahih al-Bukhari 5113** — URL fetched: https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-5113 (via tools/wip/round11/hadith.js, saved in this dir). First ten words of wording used: "Khawla bint Hakim was one of those ladies who presented…". Grading: in Sahih al-Bukhari (collection sahih; no separate grading claimed or upgraded). Used in §7, quoted whole; the embedded verse ref is 33:51.
+
+## Asbab an-nuzul
+- NOT used as a sabab. The Umm Hani' proposal report (Tabari/Baghawi/Qurtubi) touches the hijrah clause but Qurtubi relays Ibn al-ʿArabi grading it very weak, so it was dropped. Verse placement in al-Ahzab's Prophet-specific run (after 33:49, before 33:51–52) written instead.
+
+## Dropped / not asserted
+- Umm Hani' report — dropped (weak per Ibn al-ʿArabi in Qurtubi).
+- Any single named woman as "the" gifting woman — deliberately NOT asserted; disagreement kept open with both camps named (Ibn ʿAbbas/Mujahid: none; others + Zamakhshari's four).
+- Ibn Kathir's exact mahr figures (12½ uqiyah / 400 dinars for Umm Habibah) — omitted; the qualitative point (paid each wife promptly and in full, per Ma'arif) kept instead.
+- Disputes named without a position: scope of اللاتي هاجرن معك (Medina-hijrah vs. Islam — Qurtubi; as-Saʿdi's "sounder of two views"; Baghawi's abrogation report); whether the gifting clause was ever acted upon.

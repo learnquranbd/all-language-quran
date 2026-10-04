@@ -1,0 +1,24 @@
+# SOURCES ledger — 26:214 (وأنذر عشيرتك الأقربين)
+
+## Tafsir fetched (all pre-fetched in PREP, re-read here)
+- **at-Tabari (15)** — NAMED. Rests on: "وأنذر عشيرتك من قومك الأقربين إليك قرابة, وحذّرهم من عذابنا أن ينـزل بهم بكفرهم" (meaning: warn the kin closest to you in relation, of Our punishment lest it fall on them for disbelief) → §1.1. "بدأ ببني جده عبد المطلب وولده" and Ibn ʿAbbas "أمر محمد أن ينذر قومه, ويبدأ بأهل بيته وفصيلته" (he began with Banū ʿAbd al-Muṭṭalib / his household) → §3.1.
+- **al-Muyassar (16)** — NAMED. "وحذِّر الأقرب فالأقرب مِن قومك، مِن عذابنا أن ينزل بهم" (warn the nearest then the nearest, of Our punishment) → §1.1.
+- **as-Saʿdi (91)** — NAMED. "ولما أمره بما فيه كمال نفسه, أمره بتكميل غيره" (after perfecting self, perfect others) → §1.2. "أقرب الناس إليك, وأحقهم بإحسانك الديني والدنيوي" and the "أحسن إلى قرابتك" parallel showing specification not contradiction → §1.2, §2.3. "فدعا سائر بطون قريش, فعمم وخصص … فاهتدى من اهتدى, وأعرض من أعرض" (called all branches, general and particular; some guided, some turned away) → §7.1.
+- **Ibn Kathir (14 ar / 169 en)** — NAMED. "لا يخلص أحدا منهم إلا إيمانه بربه" (nothing saves any of them but faith in his Lord) → §5.2. "وهذه النذارة الخاصة لا تنافي العامة، بل هي فرد من أجزائها" with cross-refs 42:7, 36:6 → §2.3.
+- **al-Qurtubi (90)** — NAMED. "خص عشيرته الأقربين بالإنذار لتنحسم أطماع سائر عشيرته … في مفارقته إياهم على الشرك" (singled out near kin so none could claim he spared his own on shirk) → §7.2. Lesson 1: "أن القرب في الأنساب لا ينفع مع البعد في الأسباب" (lineage-nearness useless with distance in deeds) → §5.1. Lesson 2: "جواز صلة المؤمن الكافر وإرشاده ونصيحته … إن لكم رحما سأبلها ببلالها" (believer may keep ties with / guide / counsel a disbelieving relative; the "moist kinship-tie" image) → §6.1, §6.2. Abū Hurayra wording "أنقذوا أنفسكم من النار … يا فاطمة أنقذي نفسك" → §5.1.
+- **Ma'arif al-Qur'an (168 en)** — NAMED. Wisdom of singling out family (they know you, false claim exposed, reputation, unity, small sincere nucleus) → §2.1. Cross-ref 66:6 "قوا أنفسكم وأهليكم نارا" and the favourable-environment point → §2.2. "they did not accept at first … gradually converted … Hamza's conversion gave the mission great strength" → §7.1.
+- **al-Baghawi (94)** — READ, NOT separately named. Its content (Ṣafā narration via Ibn ʿAbbas; the ʿAlī feast narration) duplicates Bukhari/Ibn Kathir and adds nothing cited.
+
+## Hadith
+- **PRIMARY — Ṣaḥīḥ al-Bukhārī, Abū Hurayra.** URL fetched: https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-4771 (Dar-us-Salam 4771; USC-MSA Vol 6, Book 60, Hadith 294). First ten words (EN used): "Allah's Messenger stood up when the Verse — And warn…". Arabic opening: "قَامَ رَسُولُ اللَّهِ ﷺ حِينَ أَنْزَلَ اللَّهُ {وَأَنْذِرْ عَشِيرَتَكَ الأَقْرَبِينَ}…". Quoted whole in §4.1 (names Quraysh, Banū ʿAbd Manāf, ʿAbbās, Ṣafiyya the aunt, Fāṭima; "ask of my wealth … I cannot avail you anything against Allah"). Grading: recorded by al-Bukhārī in his Ṣaḥīḥ — authentic by the collection's standard; no grading upgraded.
+- **COMPANION — Ṣaḥīḥ al-Bukhārī, Ibn ʿAbbas.** URL fetched: https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-4770 (Dar-us-Salam 4770; USC-MSA Vol 6, Book 60, Hadith 293). First ten words (EN): "When the Verse — And warn your tribe of near-kindred — was revealed…". The Ṣafā climb, calling clan by clan, the cavalry-raid test, "I am a warner to you before a severe punishment," Abū Lahab's retort, revelation of Sūra 111. Described (not hybridised) in §3.1–3.2. Also in Ṣaḥīḥ al-Bukhārī; no grading upgraded.
+- Both confirmed via tools/wip/round11/hadith.js (saved: hadith_Bukhari_4770.txt, hadith_Bukhari_4771.txt). sunnah.com not attempted (403).
+
+## Asbāb
+- CONFIRMED and used. The Ṣafā gathering is the occasion of revelation, attested in the fetched tafsir (at-Tabari, al-Baghawi) and in the two Ṣaḥīḥ al-Bukhārī narrations, each opening "when this verse was revealed." Grounded in §3; nothing taken from memory.
+
+## Dropped (could not confirm / not used, by choice)
+- **The ʿAlī feast / "which of you will be my brother, heir and successor" narration** (in al-Baghawi and Ibn Kathir via Ibn Isḥāq ← ʿAbd al-Ghaffār b. al-Qāsim Abī Maryam). Ibn Kathir himself marks that chain "متروك كذاب شيعي" (abandoned, a liar). Dropped entirely; not cited.
+- **Abū al-Dardāʾ narration "أزهد الناس في الدنيا الأنبياء, وأشدهم عليهم الأقربون"** (Ibn Kathir via Ibn ʿAsākir). Not in the Ṣaḥīḥayn, general in import; dropped.
+- **The variant reading "ورهطك منهم المخلصين"** (al-Qurtubi, al-Baghawi, at-Tabari). al-Qurtubi concludes it is not established by transmission or in the muṣḥaf; sensitive textual-variant point; dropped to keep the article focused.
+- **Ibn Kathir's gloss tying the passage to "be gentle to the believers who follow / disown those who disobey"** — that is 26:215–216 ground; deliberately not developed here per the watch-point.

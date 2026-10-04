@@ -39,5 +39,5 @@ opencode.json
 firebase-debug.log
 .firebaserc.local
 qa/
-tools/wip/
-CLAUDE-LOG.md
+tools/wip/*
+!tools/wip/round11/

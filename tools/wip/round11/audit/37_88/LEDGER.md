@@ -1,0 +1,30 @@
+# LEDGER 37:88
+
+## Tafsir fetched vs. named
+
+- **t14 Ibn Kathir (ar)** — fetched, named throughout (sections 1–9). Arabic clauses relied on:
+  "أحب أن يختلي بآلهتهم ليكسرها" (alibi, §1); "فقال لهم كلاما هو حق في نفس الأمر، فهموا منه أنه سقيم على مقتضى ما يعتقدونه" (true-statement framing, §2); Qatada's "والعرب تقول لمن تفكر: نظر في النجوم" (§4); Sufyan's "يعني: طعين" and the Awfi/Ibn 'Abbas "فتركوه مخافة الطاعون" (§5); the Qatada/Sa'id-b.-al-Musayyab "كابد نبي الله عن دينه" report and the "بالنسبة إلى ما يستقبل" future-sickness gloss (§6); the "مريض القلب من عبادتكم الأوثان" gloss and al-Hasan al-Basri's lying-down narration via Ibn Abi Hatim (§7); the Abu Hurayrah three-lies hadith text and Ibn Kathir's own "ليس هذا من باب الكذب الحقيقي... وإنما هو من المعاريض" reconciliation plus "إن في المعاريض لمندوحة عن الكذب" (§8–9); and the Abu Sa'id/'Ali-ibn-Zayd-ibn-Jud'an report "ما منها كلمة إلا ماحل بها عن دين الله" (§9).
+- **t15 at-Tabari** — fetched, named (§3, §6). Clauses: the Ibn Zayd "فنظر إلى نجم لم يطلع قط إلا طلع بسقم لي" report (§3); the Sa'id-b.-al-Musayyab "رأى نجما طلع" report (§6).
+- **t16 al-Muyassar** — fetched, named (§1, §2, §9). Clause: "وهذا تعريض منه" (ta'rid, directly supports the ma'aridh framing).
+- **t90 al-Qurtubi** — fetched, named (§3, §4). Clauses: "أهل رعاية وفلاحة"; "أوهمهم هو من تلك الجهة"; Ibn Zayd's rising-star report; Ibn 'Abbas on star-knowledge as prophetic knowledge nullified after Yusha' bin Nun; al-Hasan's "نظر فيما نجم له من الرأي... فعلم أن كل حي يسقم"; al-Khalil/al-Mubarrid's grammar gloss "يقال للرجل إذا فكر في الشيء يدبره: نظر في النجوم."
+- **t91 as-Sa'di** — fetched, **not separately cited**. Its 261-char text only re-quotes the same three-lies hadith and the one-line "ليتم له الكيد بآلهتهم," both already sourced to Ibn Kathir/Ma'arif; naming as-Sa'di again would have been redundant, not an added reading.
+- **t94 al-Baghawi** — fetched, **dropped**. Only 24 chars returned (""فنظر نظرةً في النجوم""), no actual commentary — nothing to attribute.
+- **t168 Ma'arif al-Qur'an (en)** — fetched (grouped 37:88–97), named (§1, §2, §6, §9). Used: the festival/alibi background; the nazara-fi vs. nazara-ila grammatical argument against the "chance glance" reading; the 39:30 grammar parallel for the future-sickness reading; the tauriyah/iham terminology and the permissibility ruling. **Dropped from this fetch**: the Shari'ah-of-astrology digression (Ibn Mas'ud's "idha dhukira al-qadar..." hadith, graded hasan by al-'Iraqi, and 'Umar's saying) — tangential to this verse's event; the supporting tauriyah examples (Abu Bakr's "huwa hadin yahdini" during the hijrah, Ka'b ibn Malik's route-changing, the "old woman" hadith from Shama'il of Tirmidhi) — kept the ruling, dropped the extra examples for space; all 37:89–97 narrative content (idol-breaking, "do you not eat," the blow, Hudhayfah's hadith on Allah creating every doer and his deed) — future ground.
+- **t169 Ibn Kathir (en, abridged)** — fetched (grouped 37:88–97), cross-checked against t14 for the English wording of the hadith and Qatada/al-Hasan al-Basri reports; not cited as a separate source since t14 (ar) is the primary citation. 37:89–97 content left as future ground.
+
+## Hadith
+
+1. **Sahih Muslim, hadith 2371** — confirmed live via `hadith.js Muslim 2371`, fetched from quranx.com. Chain: Jarir ibn Hazim, from Ayyub as-Sakhtiyani, from Muhammad ibn Sirin, from Abu Hurayrah (RA). First ten words of the English used: "Prophet Ibrahim (peace be upon him) never told a lie but..." Quoted whole in §8, in the article's own paraphrase (not Muslim's translation verbatim, but matching its content and listing all three sayings). No formal grading given beyond inclusion in Sahih Muslim; the article states this plainly rather than inventing a grade.
+2. **Sahih al-Bukhari, hadith 3357** — confirmed live via `hadith.js Bukhari 3357`. Dar-us-Salam ref 3357 / USC-MSA Vol. 4, Book 55, Hadith 577. Chain: Jarir ibn Hazim, from Ayyub, from Muhammad [ibn Sirin], from Abu Hurayrah (RA). The fetched page's English text is truncated to "Abraham did not tell a lie except on three occasions" — no further detail given on that page, so the article states only that much for Bukhari's wording (§8), and does not borrow Muslim's detail and attribute it to Bukhari.
+3. **Abu Sa'id al-Khudri (RA) report, via Ibn Abi Hatim** — sourced only from Ibn Kathir's ar tafsir (t14), chain: Sufyan, from 'Ali ibn Zayd ibn Jud'an, from Abu Nadrah, from Abu Sa'id. **Not independently confirmable** via hadith.js/quranx (not a Bukhari/Muslim/Sunan-numbered hadith covered by that tool). Used in §9 with the chain and its weaker narrator ('Ali ibn Zayd ibn Jud'an) named explicitly, flagged as weaker than the Abu Hurayrah chain, per the brief's instruction.
+
+## Asbab an-nuzul
+
+Not separately confirmed from al-Wahidi (quranx.com/Tafsirs/37.88 was not fetched; not required since the tafsirs fetched via the qdc API already supply the festival-invitation narrative). The festival context in §1 is drawn directly from Ma'arif al-Qur'an and Ibn Kathir's own tafsir narrative, not from a formal asbab citation — this is noted here rather than mislabeled as asbab.
+
+## Standing rules applied
+
+- No sentence in the article's own voice calls Ibrahim (AS) a liar; §8 reports the hadith's own wording ("never told a lie except...") as the hadith's wording, and §9 immediately gives Ibn Kathir's and Ma'arif's own reconciliation (ma'aridh / ta'rid / tauriyah) in their own terms.
+- §1 states plainly, in both languages, that the verse describes one people's idol-worship in that moment and licenses no verdict on any living community.
+- All five glosses on "inni saqim" named in the brief are kept as a genuine range (plague-stricken, rising-star/hardship-borne, future sickness, heart-sickness, Hasan al-Basri's no-stars narration) — no single position is picked.
+- The Qurtubi astrology-knowledge material (farmers/herders, Ibn 'Abbas on prophetic star-knowledge, al-Hasan/Khalil/Mubarrid idiom reading) is kept as a named range, not collapsed to one view.
