@@ -374,7 +374,7 @@ class Tadabbur {
         })
         : '';
       return `
-        <div class="mt-3 pt-3 border-t border-gray-100 dark:border-gray-700/60 text-start">
+        <div data-tad-scope="${this.esc(ref)}" class="mt-3 pt-3 border-t border-gray-100 dark:border-gray-700/60 text-start">
           <p class="text-[11px] uppercase tracking-wide font-semibold text-primary/80 mb-1">🧭 ${this.esc(this.L('tad_reflection'))}</p>
           <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(refl)}</p>
           ${points}

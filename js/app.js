@@ -803,6 +803,7 @@ class QuranApp {
           onLoad: () => this.renderInlineTadabbur(card),
         })
       : '';
+    section.setAttribute('data-tad-scope', k);
     section.innerHTML = `
       ${k !== card.getAttribute('data-key') ? `<p class="text-xs text-amber-700 dark:text-amber-300">${esc(t('ayah_tad_btn', lang))} · ${esc(k)}</p>` : ''}
       ${refl ? `<p dir="auto">🧭 ${esc(refl)}</p>` : ''}

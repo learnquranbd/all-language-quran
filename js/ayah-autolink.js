@@ -101,10 +101,31 @@
     return true;
   }
 
-  function openRef(ref) {
+  /* Inside Tadabbur content (any [data-tad-scope]: the tab, the reader's inline
+   * panel, the verse modal) a reference is a way into another Tadabbur, so it
+   * links only where that verse has one, and opens it there. A verse with no
+   * Tadabbur stays plain text; so does the passage's own reference. */
+  let tadMap = null;
+  function tadKeyFor(s, a, b) {
+    if (typeof TADABBUR_NOTES === 'undefined' || !TADABBUR_NOTES) return null;
+    if (!tadMap) {
+      tadMap = {};
+      for (const k in TADABBUR_NOTES) {
+        const m = /^(\d+):(\d+)(?:-(\d+))?$/.exec(k);
+        if (!m) continue;
+        for (let x = +m[2], end = m[3] ? +m[3] : +m[2]; x <= end; x++) tadMap[m[1] + ':' + x] = k;
+      }
+    }
+    for (let x = a, end = b != null ? b : a; x <= end; x++) {
+      if (tadMap[s + ':' + x]) return { key: tadMap[s + ':' + x], ref: s + ':' + x };
+    }
+    return null;
+  }
+
+  function openRef(ref, tad) {
     try {
       if (typeof ayahModal !== 'undefined' && ayahModal && typeof ayahModal.open === 'function') {
-        ayahModal.open(ref);
+        if (tad) ayahModal.open(ref, { tadabbur: true }); else ayahModal.open(ref);
         return;
       }
     } catch (e) { /* fall through */ }
@@ -136,21 +157,28 @@
     if (!REF_RE.test(text)) return 0;
     REF_RE.lastIndex = 0;
 
+    const scope = node.parentElement && node.parentElement.closest('[data-tad-scope]');
     const frag = document.createDocumentFragment();
     let last = 0, made = 0, m;
     while ((m = REF_RE.exec(text)) !== null) {
       const s = num(m[1]), a = num(m[2]), b = m[3] != null ? num(m[3]) : null;
       if (s == null || a == null) continue;
       if (!isRealRef(s, a, b)) continue;
+      let tad = null;
+      if (scope) {
+        tad = tadKeyFor(s, a, b);
+        if (!tad || tad.key === scope.getAttribute('data-tad-scope')) continue;
+      }
       if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
 
       const btn = document.createElement('button');
       btn.type = 'button';
       btn.className = 'lq-ayah-link';
       // Ranges open at their first verse — the modal navigates from there.
-      btn.setAttribute('data-ayah-ref', s + ':' + a);
-      btn.setAttribute('title', 'Open ' + m[0]);
-      btn.setAttribute('aria-label', 'Open verse ' + m[0]);
+      btn.setAttribute('data-ayah-ref', tad ? tad.ref : s + ':' + a);
+      if (tad) btn.setAttribute('data-ayah-tad', '1');
+      btn.setAttribute('title', (tad ? 'Open the Tadabbur of ' : 'Open ') + m[0]);
+      btn.setAttribute('aria-label', (tad ? 'Open the Tadabbur of verse ' : 'Open verse ') + m[0]);
       btn.textContent = m[0];
       frag.appendChild(btn);
 
@@ -194,7 +222,7 @@
     if (!btn) return;
     e.preventDefault();
     e.stopPropagation();
-    openRef(btn.getAttribute('data-ayah-ref'));
+    openRef(btn.getAttribute('data-ayah-ref'), btn.hasAttribute('data-ayah-tad'));
   });
 
   /* Sweep after a tab renders, and after lazily-loaded modules paint. Debounced

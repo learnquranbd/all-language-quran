@@ -252,7 +252,17 @@ class AyahModal {
     try {
       if (!this._open || !this._st || !this.overlay || this.overlay.classList.contains('hidden')) return;
       this.renderBody();
+      this._showTad();
     } catch (_) { /* the verse is already on screen; the note is optional */ }
+  }
+
+  /** open(ref, {tadabbur:true}) — a reference followed from inside a Tadabbur
+   *  reflection or article lands on that verse's own Tadabbur, expanded. */
+  _showTad() {
+    if (!this._st || !this._st.tad || !this.tadabburKeyFor(this._st.v.key)) return;
+    this.toggleTadabbur(this._st.v.key, true);
+    const box = this.overlay && this.overlay.querySelector('#sam-tadabbur');
+    if (box && box.scrollIntoView) { try { box.scrollIntoView({ block: 'start' }); } catch (_) { /* ignore */ } }
   }
 
   async open(ref, opts) {
@@ -292,9 +302,10 @@ class AyahModal {
       let hl = { start: -1, len: 0 };
       if (opts.phrase) hl = this.matchPhrase(v.words || [], opts.phrase) || hl;
 
-      this._st = { ref, s, a, v, lang, surahName, ayahCount, curIdx, hlStart: hl.start, hlLen: hl.len };
+      this._st = { ref, s, a, v, lang, surahName, ayahCount, curIdx, hlStart: hl.start, hlLen: hl.len, tad: !!opts.tadabbur };
       this.titleEl.textContent = `${surahName} ${v.key}`;
       this.renderBody();
+      this._showTad();
       try { this.dialogEl.focus(); } catch (e) { /* ignore */ }
       this.loadMorph();
     } catch (e) {
@@ -663,6 +674,7 @@ class AyahModal {
           onLoad: () => { const b = this.overlay && this.overlay.querySelector('#sam-tadabbur'); if (b && !b.classList.contains('hidden')) this.toggleTadabbur(ref, true); },
         })
       : '';
+    box.setAttribute('data-tad-scope', k);
     box.innerHTML = `
       ${refl ? `<p>🧭 ${this.esc(refl)}</p>` : ''}
       ${pts.length ? `<ul class="list-disc ms-5 space-y-1">${pts.map(p => `<li>💭 ${this.esc(p)}</li>`).join('')}</ul>` : ''}
