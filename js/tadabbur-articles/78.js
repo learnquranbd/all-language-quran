@@ -11,6 +11,146 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "78:3": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Question Answered at Once",
+          "bn": "প্রশ্নের পরেই জবাব"
+        },
+        "p": [
+          {
+            "en": "Surah an-Naba, revealed in Makkah, opens with a question: 'amma yatasa'alun, about what are they asking one another? It does not wait for a reply. 78:2 answers, 'an an-naba' al-'azim, about the great news, and 78:3 completes the answer in four Arabic words: alladhi hum fihi mukhtalifun, the one over which they are in disagreement. The verse is therefore not a fresh statement. It is the description that tells the hearer which great news is meant: the one already dividing the very people who are asking about it.",
+            "bn": "সূরা আন-নাবা মক্কায় নাযিল হয়েছে, আর তার শুরু একটা প্রশ্ন দিয়ে: আম্মা ইয়াতাসাআলূন, তারা একে অন্যকে কী নিয়ে জিজ্ঞেস করছে? জবাবের জন্য অপেক্ষা করতে হয় না। ৭৮:২ বলে দেয়, আনিন নাবায়িল আযীম, মহাসংবাদ নিয়ে। আর ৭৮:৩ আরবি চারটি শব্দে জবাবটা পূর্ণ করে: আল্লাযী হুম ফীহি মুখতালিফূন, যে বিষয়ে তাদের মধ্যে মতভেদ। তাই আয়াতটি নতুন কোনো ঘোষণা নয়। শ্রোতা যেন বুঝতে পারে কোন মহাসংবাদের কথা হচ্ছে, এ তারই পরিচয়। সেই সংবাদ, যা প্রশ্নকারীদের নিজেদেরকেই ইতিমধ্যে ভাগ করে ফেলেছে।"
+          },
+          {
+            "en": "What follows is a warning given twice, in 78:4 and 78:5: kalla sa-ya'lamun, no, they are going to know, then the same words again after thumma, then. Ibn Kathir calls it a severe threat and a direct warning, and reads 78:6 onward as Allah setting out His power as proof that He can do whatever He wills concerning the Hereafter. So 78:3 sits at a hinge. It names the dispute, and everything after it answers the dispute: first a warning, then evidence taken from the earth, the mountains, human pairs and sleep.",
+            "bn": "এরপর ৭৮:৪ ও ৭৮:৫ আয়াতে দুবার সতর্কবাণী: কাল্লা সাইয়া'লামূন, কক্ষনো না, তারা শীঘ্রই জানবে। তারপর ছুম্মা, অর্থাৎ আবার, জুড়ে দিয়ে একই কথা। ইবন কাসীর একে বলেন কঠোর হুমকি ও সরাসরি সতর্কবার্তা। ৭৮:৬ থেকে পরের আয়াতগুলোকে তিনি পড়েন আল্লাহর কুদরতের বর্ণনা হিসেবে, যা প্রমাণ করে আখিরাতের ব্যাপারে তিনি যা চান তা-ই করতে পারেন। ফলে ৭৮:৩ দাঁড়িয়ে আছে একটা কবজার জায়গায়। এ আয়াত বিবাদটার নাম বলে দেয়, আর এর পরের সবকিছু সেই বিবাদের জবাব। প্রথমে সতর্কবাণী, তারপর প্রমাণ: যমীন, পাহাড়, জোড়ায় জোড়ায় মানুষ আর ঘুম।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Weighty News, Divided Hearers",
+          "bn": "ভারী সংবাদ, বিভক্ত শ্রোতা"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an notes that naba' means news, but not every piece of news is a naba'; the word is kept for momentous news of a great event. Ibn Kathir, in his Arabic, glosses an-naba' al-'azim as al-khabar al-ha'il al-mufzi' al-bahir: the dreadful, alarming, overwhelming report. The adjective 'azim, great, then adds to that weight. Whatever the news turns out to be, both commentators agree on how heavy it is. This is not idle talk passed around a town; it is the kind of report that changes everything for whoever believes it.",
+            "bn": "মাআরিফুল কুরআন বলে, নাবা মানে সংবাদ, তবে সব সংবাদ নাবা নয়। শব্দটা রাখা হয় কোনো বড় ঘটনার গুরুতর সংবাদের জন্য। ইবন কাসীর তাঁর আরবি তাফসীরে আন-নাবাউল আযীমের ব্যাখ্যা দেন আল-খাবারুল হায়িলুল মুফযিউল বাহির বলে: ভয়ংকর, আতঙ্ক জাগানো, অভিভূত করে দেওয়া খবর। তার ওপর বিশেষণ আযীম, মহা, ভারটা আরও বাড়িয়ে দেয়। সংবাদটা শেষ পর্যন্ত যা-ই হোক, এর ওজন নিয়ে দুই তাফসীরকারই একমত। শহরের অলস গালগল্প এটা নয়। এ এমন খবর, যে বিশ্বাস করে তার জীবনের সবকিছুই বদলে দেয়।"
+          },
+          {
+            "en": "Mukhtalifun is a participle from the root kh-l-f, here carrying the sense of differing and taking opposite sides. At-Tabari glosses the clause with a verb of becoming: the thing over which they became two parties, one party affirming it and one party denying it. Al-Qurtubi gives the mutual sense: yukhalifu fihi ba'duhum ba'dan, some of them oppose others over it, so that one affirms and another denies. The relative word alladhi ties the whole verse back to the news, so that the news is identified by the quarrel that has gathered around it.",
+            "bn": "মুখতালিফূন শব্দটি খ-ল-ফ ধাতু থেকে আসা কর্তাবাচক রূপ। এখানে এর অর্থ মতভেদ, দুই বিপরীত পক্ষে ভাগ হয়ে যাওয়া। তাবারী বাক্যটির ব্যাখ্যায় 'হয়ে যাওয়া' অর্থের একটি ক্রিয়া আনেন: যে বিষয়ে তারা দুই দলে ভাগ হয়ে গেছে, এক দল তা সত্য বলে মানে, আরেক দল মিথ্যা বলে। কুরতুবী পারস্পরিক অর্থটা সামনে আনেন: ইউখালিফু ফীহি বা'দুহুম বা'দান, তাদের একদল অন্যদলের বিরোধিতা করে, একজন সত্য বলে তো আরেকজন মিথ্যা বলে। আল্লাযী শব্দটি গোটা আয়াতকে সংবাদের সঙ্গে বেঁধে দেয়। ফলে সংবাদটার পরিচয় মেলে তাকে ঘিরে জমে ওঠা বিবাদ দিয়েই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Which News Is Meant",
+          "bn": "কোন সংবাদের কথা"
+        },
+        "p": [
+          {
+            "en": "The commentators do not agree on what the great news is, and at-Tabari, on 78:2, opens the question with the words: the people of interpretation differed. One group said the Qur'an, and he reports it from Mujahid. Al-Qurtubi, on 78:3, reports the same from Ibn Abbas (RA) through Abu Salih, and gives the proof text 38:67 and 38:68: say, it is great news from which you turn away. The Qur'an, he says, is naba', report and story, and a report of great standing. Al-Baghawi says this is the view of Mujahid and of most commentators.",
+            "bn": "মহাসংবাদ বলতে কী বোঝানো হয়েছে, সে বিষয়ে তাফসীরকারেরা একমত নন। তাবারী ৭৮:২ আয়াতে প্রশ্নটা শুরুই করেন এ কথা বলে: ব্যাখ্যাকারেরা এখানে মতভেদ করেছেন। একদল বলেছেন, এ হলো কুরআন। তাবারী মতটি বর্ণনা করেন মুজাহিদ থেকে। কুরতুবী ৭৮:৩ আয়াতে একই কথা আনেন ইবন আব্বাস (রাঃ) থেকে, আবু সালিহের সূত্রে। প্রমাণ হিসেবে তিনি দেখান ৩৮:৬৭ ও ৩৮:৬৮: বলো, এ এক মহাসংবাদ, যা থেকে তোমরা মুখ ফিরিয়ে নিচ্ছ। তাঁর কথায়, কুরআন নিজেই নাবা, খবর আর কাহিনি, আর তা অতি মর্যাদাপূর্ণ খবর। বাগাভী বলেন, এটি মুজাহিদ এবং অধিকাংশ তাফসীরকারের মত।"
+          },
+          {
+            "en": "A second group said the resurrection after death. At-Tabari reports it from Qatada by two chains, and from Ibn Zayd in the form Yawm al-Qiyama, the Day of Resurrection. Ibn Kathir's Arabic names Qatada and Ibn Zayd for the resurrection and Mujahid for the Qur'an, side by side, and does not rank them there. His abridged English and Ma'arif al-Qur'an both take the news to be the Day of Judgement. Al-Qurtubi then adds a third view under qila, it was said: the matter of the Prophet ﷺ, with no name attached to it.",
+            "bn": "আরেক দল বলেছেন, এ হলো মৃত্যুর পরের পুনরুত্থান। তাবারী মতটি কাতাদা থেকে দুটি সনদে বর্ণনা করেন, আর ইবন যায়দ থেকে আনেন ইয়াওমুল কিয়ামাহ, কিয়ামতের দিন, এই শব্দে। ইবন কাসীর আরবি তাফসীরে পাশাপাশি দুটো মতই রাখেন: পুনরুত্থানের পক্ষে কাতাদা ও ইবন যায়দ, কুরআনের পক্ষে মুজাহিদ। সেখানে তিনি কোনোটিকে অগ্রাধিকার দেন না। তবে তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণ এবং মাআরিফুল কুরআন দুটোই সংবাদটিকে বিচার দিবস বলে ধরেছে। কুরতুবী এরপর 'কীলা', অর্থাৎ বলা হয়েছে, শব্দ দিয়ে তৃতীয় একটি মত আনেন: নবী ﷺ-এর বিষয়। এ মতের সঙ্গে কারও নাম জোড়া নেই।"
+          },
+          {
+            "en": "Al-Muyassar joins the first two: the great news is the Qur'an, which brings word of the resurrection that the disbelievers of Quraysh doubted and denied. At-Tabari lists both groups with their chains and states no preference between them. Al-Qurtubi also preserves a different report, from ad-Dahhak from Ibn Abbas (RA): that the Jews asked the Prophet ﷺ about many things, and Allah informed him of their disagreement. None of these readings is set aside here. The verse itself names the news by its effect, and every reading keeps that effect: people split over it.",
+            "bn": "মুয়াসসার প্রথম দুটো মতকে এক জায়গায় আনে: মহাসংবাদ হলো কুরআন, যা সেই পুনরুত্থানের খবর দেয়, যাতে কুরাইশের কাফিররা সন্দেহ করেছিল এবং যাকে তারা মিথ্যা বলেছিল। তাবারী সনদসহ দুই দলের মতই তুলে ধরেন, কোনোটির পক্ষে নিজের রায় দেন না। কুরতুবী আরেকটি ভিন্ন বর্ণনাও রেখে দেন, দাহহাকের সূত্রে ইবন আব্বাস (রাঃ) থেকে: ইহুদিরা নবী ﷺ-কে অনেক বিষয়ে প্রশ্ন করেছিল, আর আল্লাহ তাঁকে তাদের মতভেদের খবর জানিয়ে দেন। এখানে কোনো মতকেই বাদ দেওয়া হচ্ছে না। আয়াত নিজেই সংবাদটাকে চিনিয়েছে তার ফল দিয়ে, আর প্রতিটি ব্যাখ্যাতেই সেই ফল অটুট: মানুষ এ নিয়ে ভাগ হয়ে গেছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Kinds of Disagreement",
+          "bn": "মতভেদের দুই চেহারা"
+        },
+        "p": [
+          {
+            "en": "The second question is who was disagreeing with whom. Most of the commentators read mukhtalifun as a split between those who believed and those who denied. Ibn Kathir's Arabic is brief: the people hold two positions on it, believer and disbeliever. Al-Baghawi says only: so one affirms and one denies. At-Tabari reports Qatada with a sharp observation. The people became two men over it, an affirmer and a denier. As for death, they all acknowledged it, because they had seen it with their own eyes; they differed over the rising after death.",
+            "bn": "দ্বিতীয় প্রশ্ন: মতভেদটা কার সঙ্গে কার? বেশিরভাগ তাফসীরকার মুখতালিফূন পড়েছেন বিশ্বাসী আর অস্বীকারকারীর মধ্যকার বিভক্তি হিসেবে। ইবন কাসীরের আরবি তাফসীর এখানে সংক্ষিপ্ত: এ বিষয়ে মানুষের দুটো অবস্থান, কেউ মুমিন, কেউ কাফির। বাগাভী শুধু এটুকু বলেন: একজন সত্য বলে মানে, আরেকজন মিথ্যা বলে। তাবারী কাতাদার একটি তীক্ষ্ণ পর্যবেক্ষণ বর্ণনা করেন। এ বিষয়ে মানুষ দুই রকম হয়ে গেল, একজন বিশ্বাস করে, আরেকজন অস্বীকার করে। মৃত্যুকে অবশ্য সবাই মেনে নিয়েছিল, কারণ নিজের চোখে তা দেখেছিল। তাদের মতভেদ ছিল মৃত্যুর পরে আবার জীবিত হওয়া নিয়ে।"
+          },
+          {
+            "en": "Another strand places the differing among those who did not believe. Ibn Zayd, in at-Tabari on 78:2, has them say: this is the day you claim we and our fathers will live again; and they are in disagreement over it, not believing in it. As-Sa'di describes a dispute that grew long and a disagreement that spread by way of takdhib and istib'ad, denial and dismissing it as far-fetched. Al-Muyassar pairs doubt and denial in one sentence. Ma'arif al-Qur'an reports that some commentators saw the asking as half mockery and half doubt.",
+            "bn": "আরেকটি ধারা মতভেদকে রাখে যারা বিশ্বাস করেনি তাদের ভেতরেই। তাবারী ৭৮:২ আয়াতে ইবন যায়দের যে কথা আনেন, তাতে তারা বলে: এই সেই দিন, যেদিন নাকি তোমাদের দাবি অনুযায়ী আমরা আর আমাদের বাপদাদারা আবার জীবিত হব। তারা এ নিয়ে মতভেদে আছে, আর তাতে বিশ্বাস করে না। সা'দী বলেন, বিবাদটা দীর্ঘ হয়েছিল, আর মতভেদ ছড়িয়ে পড়েছিল তাকযীব ও ইস্তিব'আদের পথে, অর্থাৎ মিথ্যা বলা আর অসম্ভব ভেবে উড়িয়ে দেওয়া। মুয়াসসার একটি বাক্যেই সন্দেহ আর অস্বীকার পাশাপাশি রাখে। মাআরিফুল কুরআন জানায়, কিছু তাফসীরকারের মতে তাদের প্রশ্নটা ছিল অর্ধেক ঠাট্টা, অর্ধেক সন্দেহ।"
+          },
+          {
+            "en": "These are two different claims, and they are kept apart here with the names of those who hold them. The identification of the questioners with Quraysh or with the people of Makkah comes from al-Muyassar, from Ma'arif al-Qur'an and from the scholars of Arabic whom at-Tabari cites. The verse describes what those listeners did with the news in their own time. It licenses nothing against any living person or community, and it hands no reader a label to fix on anyone today, whether a neighbour, a relative or a whole people.",
+            "bn": "এ দুটি আলাদা দাবি। তাই এখানে দুটিকে আলাদা রাখা হলো, যাঁরা যে মত দিয়েছেন তাঁদের নামসহ। প্রশ্নকারীরা কুরাইশ বা মক্কার লোক, এই পরিচয় এসেছে মুয়াসসার, মাআরিফুল কুরআন আর তাবারীর উদ্ধৃত কয়েকজন আরবি ভাষাবিদের কাছ থেকে। আয়াতটি বর্ণনা করছে, সেই শ্রোতারা তাদের নিজেদের সময়ে সংবাদটার সঙ্গে কী আচরণ করেছিল। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। প্রতিবেশী, আত্মীয় বা গোটা কোনো জাতির গায়ে সেঁটে দেওয়ার মতো কোনো তকমাও এ আয়াত পাঠকের হাতে তুলে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Narration on the Verse",
+          "bn": "আয়াতের সঙ্গে জোড়া হাদীস নেই"
+        },
+        "p": [
+          {
+            "en": "None of the commentaries consulted here attaches a sound hadith to 78:3. Ma'arif al-Qur'an relates from Ibn Abbas (RA), without giving a chain, that when the revelation began the pagan Arabs would sit in circles discussing and criticising it, above all its talk of resurrection and judgement, which they held to be impossible. That describes the setting, offered as a report. It is not treated here as an established occasion of revelation, and al-Qurtubi's report from ad-Dahhak, mentioned above, stands beside it as one more view.",
+            "bn": "এখানে যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ৭৮:৩ আয়াতের সঙ্গে কোনো সহীহ হাদীস জুড়ে দেয়নি। মাআরিফুল কুরআন সনদ উল্লেখ না করে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করে: ওহী নাযিল শুরু হলে মুশরিক আরবরা গোল হয়ে বসে তা নিয়ে আলোচনা আর সমালোচনা করত। বিশেষ করে পুনরুত্থান আর বিচারের কথা তাদের কাছে অসম্ভব মনে হতো। এ বর্ণনা পরিবেশের একটা ছবি দেয়, একটা খবর হিসেবেই। এখানে একে নাযিলের প্রতিষ্ঠিত প্রেক্ষাপট বলে ধরা হচ্ছে না। আগে উল্লেখ করা দাহহাকের সূত্রে কুরতুবীর বর্ণনাও এর পাশে আরেকটি মত হিসেবেই থাকছে।"
+          },
+          {
+            "en": "There is a general narration about the surah, not attached to this verse. At-Tirmidhi narrates from Ibn Abbas (RA): Abu Bakr (RA) said, 'O Messenger of Allah! You have become grey.' He said: 'I have gone grey from Hud, al-Waqi'ah, al-Mursalat, 'Amma yatasa'alun and Idha ash-shamsu kuwwirat.' At-Tirmidhi grades it hasan gharib, saying it is known from Ibn Abbas only by this route, and he notes other versions of it, one of them mursal. It speaks of the surah as a whole, a surah that opens on this dispute.",
+            "bn": "সূরা সম্পর্কে একটি সাধারণ বর্ণনা আছে, যা এ আয়াতের সঙ্গে জোড়া নয়। তিরমিযী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন: আবু বকর (রাঃ) বললেন, 'হে আল্লাহর রাসূল! আপনার চুল তো পেকে গেছে।' তিনি বললেন: 'আমার চুল পাকিয়ে দিয়েছে হূদ, আল-ওয়াকিআ, আল-মুরসালাত, আম্মা ইয়াতাসাআলূন আর ইযাশ শামসু কুওভিরাত।' তিরমিযী একে হাসান গরীব বলেছেন। তাঁর কথায়, ইবন আব্বাস থেকে এটি কেবল এই সূত্রেই জানা যায়। এর অন্য কয়েকটি বর্ণনার কথাও তিনি উল্লেখ করেন, যার একটি মুরসাল। বর্ণনাটি পুরো সূরা নিয়ে, আর সে সূরার শুরুই এই বিবাদ দিয়ে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Other Verses on the Dispute",
+          "bn": "একই বিবাদ, অন্য আয়াতে"
+        },
+        "p": [
+          {
+            "en": "38:67 and 38:68 are the verses al-Qurtubi and al-Baghawi cite for the Qur'an reading: say, it is great news from which you turn away. Ibn Zayd, in at-Tabari, cites the same passage for the Day of Resurrection. 16:38 and 16:39 use almost the wording of 78:3. The deniers swear that Allah will not raise the dead; the reply is that He will, so as to make clear to them alladhi yakhtalifuna fihi, that over which they differ. There the differing is plainly about the resurrection, and the answer is that the rising itself will settle it.",
+            "bn": "৩৮:৬৭ ও ৩৮:৬৮ আয়াতকে কুরতুবী ও বাগাভী কুরআন-মতের দলীল হিসেবে আনেন: বলো, এ এক মহাসংবাদ, যা থেকে তোমরা মুখ ফিরিয়ে নিচ্ছ। আবার তাবারীর বর্ণনায় ইবন যায়দ একই আয়াত টেনে আনেন কিয়ামতের দিন প্রসঙ্গে। ১৬:৩৮ ও ১৬:৩৯ আয়াতের শব্দ প্রায় ৭৮:৩ আয়াতের মতোই। অস্বীকারকারীরা কসম খেয়ে বলে, যে মরে আল্লাহ তাকে আর জীবিত করবেন না। জবাব আসে, অবশ্যই করবেন, যাতে তিনি তাদের সামনে স্পষ্ট করে দেন আল্লাযী ইয়াখতালিফূনা ফীহ, যা নিয়ে তারা মতভেদ করে। সেখানে মতভেদটা যে পুনরুত্থান নিয়ে, তা পরিষ্কার। আর জবাব হলো, পুনরুত্থান নিজেই এর মীমাংসা করে দেবে।"
+          },
+          {
+            "en": "51:8 and 51:9 tell the deniers they are in qawl mukhtalif, differing speech, and that whoever is turned from it has been turned away. 27:66 traces their knowledge of the Hereafter running out, then doubt, then blindness, a sequence close to al-Muyassar's pairing of doubt with denial. 39:46 carries the question to its final court: You will judge between Your servants concerning that over which they used to differ. And within an-Naba itself, 78:17 names the Day of Decision as an appointed time, the date the dispute was always heading towards.",
+            "bn": "৫১:৮ ও ৫১:৯ আয়াত অস্বীকারকারীদের বলে, তোমরা কাওলিম মুখতালিফ, পরস্পরবিরোধী কথার মধ্যে আছ। আর এ থেকে যে ফিরে যায়, তাকে আসলে ফিরিয়ে দেওয়া হয়েছে। ২৭:৬৬ আয়াত দেখায়, আখিরাত নিয়ে তাদের জ্ঞান ফুরিয়ে গেছে, তারপর এসেছে সন্দেহ, তারপর অন্ধত্ব। মুয়াসসার সন্দেহ আর অস্বীকারকে যেভাবে পাশাপাশি রেখেছে, এ ধাপগুলো তার কাছাকাছি। ৩৯:৪৬ প্রশ্নটাকে শেষ আদালতে নিয়ে যায়: তুমিই তোমার বান্দাদের মধ্যে ফয়সালা করবে, যে বিষয়ে তারা মতভেদ করত। আর আন-নাবা সূরাতেই ৭৮:১৭ আয়াত বিচারের দিনকে বলে নির্ধারিত সময়। বিবাদটা শুরু থেকেই সেই তারিখের দিকে এগোচ্ছিল।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Living as if It Were Settled",
+          "bn": "মীমাংসিত বিষয়ের মতো জীবন"
+        },
+        "p": [
+          {
+            "en": "Qatada's remark is the place to begin. No one in Makkah argued about death, because everyone had watched it happen; the quarrel began at what comes after. Many people today hold the same line in practice. Death is certain and planned for, with wills, savings and burial plots arranged in advance, while the rising is left as something to discuss. A believer can test himself here. Which of my plans assume that the news is true? Which of them would look exactly the same if I were one of those still arguing?",
+            "bn": "শুরু করা যায় কাতাদার কথাটা দিয়ে। মক্কায় কেউ মৃত্যু নিয়ে তর্ক করেনি, কারণ সবাই তা ঘটতে দেখেছে। ঝগড়া শুরু হয়েছে তার পরের অংশ নিয়ে। আজও অনেক মানুষ কাজেকর্মে ঠিক এই সীমারেখাই মেনে চলে। মৃত্যু নিশ্চিত, তাই তার প্রস্তুতিও আছে: ওসিয়ত, সঞ্চয়, কবরের জায়গা আগেভাগে ঠিক করা। অথচ পুনরুত্থান থেকে যায় আলোচনার বিষয় হয়ে। একজন মুমিন এখানে নিজেকে যাচাই করতে পারেন। আমার কোন পরিকল্পনাগুলো ধরে নেয় যে সংবাদটা সত্য? আর কোনগুলো হুবহু একই থাকত, যদি আমিও তর্ক করতে থাকা লোকদের একজন হতাম?"
+          },
+          {
+            "en": "The verse also describes a kind of talk. They were asking one another, and as-Sa'di calls it a dispute that grew long. Talk about the Hereafter can become a substitute for preparing for it: debates about signs, timetables and details, with no change in prayer, debts or speech. A practical week might look like this. Settle one debt or one wrong you owe someone. Pray one prayer as a person who will be raised and asked about it. And when the subject comes up among friends, close the conversation with something to do rather than something to argue over.",
+            "bn": "আয়াতটি এক ধরনের আলাপেরও ছবি আঁকে। তারা একে অন্যকে জিজ্ঞেস করছিল, আর সা'দী বলেন, সে বিবাদ দীর্ঘ হয়ে গিয়েছিল। আখিরাত নিয়ে কথা বলাটা কখনো কখনো তার প্রস্তুতির বদলি হয়ে দাঁড়ায়। আলামত, সময়সূচি আর খুঁটিনাটি নিয়ে বিতর্ক চলে, অথচ নামায, দেনা বা মুখের কথায় কোনো বদল আসে না। একটা বাস্তব সপ্তাহ হতে পারে এরকম। কারও কাছে একটা দেনা বা একটা অন্যায়ের দায় থাকলে তা মিটিয়ে দিন। এক ওয়াক্ত নামায পড়ুন এমন মানুষ হিসেবে, যাকে আবার ওঠানো হবে আর এ নামায সম্পর্কে জিজ্ঞেস করা হবে। আর বন্ধুদের মধ্যে প্রসঙ্গটা উঠলে আলাপ শেষ করুন করণীয় কিছু দিয়ে, তর্কের নতুন বিষয় দিয়ে নয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asking to Be Guided Through",
+          "bn": "মতভেদের মাঝে পথ চাওয়া"
+        },
+        "p": [
+          {
+            "en": "Muslim narrates that Abu Salama ibn Abd ar-Rahman asked A'isha (RA) how the Prophet ﷺ opened his prayer when he rose at night. She said he would open it with: 'O Allah, Lord of Jibril, Mika'il and Israfil, Originator of the heavens and the earth, Knower of the unseen and the seen, You judge between Your servants in what they used to differ over. Guide me, by Your leave, to the truth in what has been differed over, for You guide whom You will to a straight path.' It is not attached to 78:3, but it turns the verse's word for differing into a request.",
+            "bn": "মুসলিম বর্ণনা করেন, আবু সালামা ইবন আবদির রহমান আয়িশা (রাঃ)-কে জিজ্ঞেস করেছিলেন, রাতে উঠে নবী ﷺ কী দিয়ে নামায শুরু করতেন। তিনি বললেন, তিনি শুরু করতেন এভাবে: 'হে আল্লাহ, জিবরীল, মীকাঈল ও ইসরাফীলের রব, আসমান ও যমীনের স্রষ্টা, গায়েব ও প্রকাশ্যের জ্ঞানী! তোমার বান্দারা যে বিষয়ে মতভেদ করত, তুমিই তার ফয়সালা করো। যে সত্য নিয়ে মতভেদ হয়েছে, তোমার অনুমতিতে আমাকে সেদিকে পথ দেখাও। নিশ্চয়ই তুমি যাকে চাও সরল পথে পরিচালিত করো।' এ দুআ ৭৮:৩ আয়াতের সঙ্গে জোড়া নয়। তবে আয়াতে মতভেদের যে শব্দ, এ দুআ সেটাকেই একটা প্রার্থনায় বদলে দেয়।"
+          },
+          {
+            "en": "Some questions to carry from the verse. What part of the great news do I affirm in words while my week argues the other side? When I hear people quarrel over the truth, does their quarrel become my excuse for standing aside? Do I come to the Qur'an expecting news meant for me, or a subject to have views about? And if Qatada is right that no one disputes the death they have seen, what would I change if I held what follows it with the same certainty?",
+            "bn": "আয়াত থেকে সঙ্গে নেওয়ার মতো কয়েকটি প্রশ্ন। মহাসংবাদের কোন অংশ আমি মুখে স্বীকার করি, অথচ আমার পুরো সপ্তাহ উল্টো পক্ষের হয়ে কথা বলে? সত্য নিয়ে মানুষকে ঝগড়া করতে শুনলে কি সেই ঝগড়াই আমার দূরে সরে থাকার অজুহাত হয়ে যায়? কুরআনের কাছে আমি কি যাই আমার জন্য পাঠানো খবরের আশায়, নাকি মতামত দেওয়ার মতো একটা বিষয় হিসেবে? আর কাতাদার কথাই যদি ঠিক হয় যে চোখে দেখা মৃত্যু নিয়ে কেউ তর্ক করে না, তবে তার পরের অংশকেও একই নিশ্চয়তায় ধরলে আমি কী বদলাতাম?"
+          }
+        ]
+      }
+    ]
+  },
   "78:9": {
     "sections": [
       {
