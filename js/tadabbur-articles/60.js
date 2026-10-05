@@ -11,6 +11,154 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "60:1": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Letter Bound for Makkah",
+          "bn": "মক্কার পথে একটি চিঠি"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir names the story behind the opening of al-Mumtahanah: the account of Hatib ibn Abi Balta'ah (RA), one of the early Emigrants and a man who fought at Badr. He had children and wealth in Makkah but was not of Quraysh by descent. When the Messenger of Allah ﷺ resolved to march on Makkah after its people broke the treaty, he ordered the Muslims to prepare and prayed: O Allah, keep our news hidden from them.",
+            "bn": "সূরা মুমতাহিনার শুরুর পেছনের ঘটনাটি কার, ইবন কাসীর নাম ধরে বলেন: এটি হাতিব ইবনে আবি বালতাআ (রাঃ)-এর ঘটনা। তিনি প্রথম দিকের মুহাজিরদের একজন, বদরের যুদ্ধেও ছিলেন। মক্কায় তাঁর সন্তান ও সম্পদ ছিল, কিন্তু বংশে তিনি কুরাইশ ছিলেন না। মক্কাবাসী চুক্তি ভঙ্গ করার পর রাসূলুল্লাহ ﷺ যখন মক্কা অভিযানের সিদ্ধান্ত নিলেন, মুসলিমদের প্রস্তুত হতে বললেন। আর দোয়া করলেন: হে আল্লাহ, আমাদের খবর তাদের কাছ থেকে গোপন রাখুন।"
+          },
+          {
+            "en": "Hatib wrote to the people of Makkah telling them what the Prophet ﷺ intended, and sent the letter with a woman. His aim, Ibn Kathir says, was to have a favour owed to him there, so that they would keep his family safe, and Allah informed His Messenger in answer to that prayer. The reports differ on the woman. In Ibn Ishaq's account, which at-Tabari carries, one narrator made her a woman of Muzaynah and another named her Sarah, a freedwoman of one of the Banu Abd al-Muttalib; al-Qurtubi and al-Baghawi call her Sarah.",
+            "bn": "হাতিব মক্কাবাসীর কাছে চিঠি লিখে নবী ﷺ-এর পরিকল্পনার কথা জানিয়ে দিলেন, আর চিঠিটা পাঠালেন এক মহিলার হাতে। ইবন কাসীর তাঁর উদ্দেশ্যও বলে দেন: সেখানকার লোকদের উপর একটা অনুগ্রহ রেখে দেওয়া, যাতে তারা তাঁর পরিবারকে নিরাপদে রাখে। ইবন কাসীর আরও বলেন, সেই দোয়া কবুল করেই আল্লাহ তাঁর রাসূলকে বিষয়টা জানিয়ে দেন। মহিলার পরিচয় নিয়ে বর্ণনা এক রকম নয়। তাবারী ইবনে ইসহাকের যে বর্ণনা আনেন, তাতে একজন বর্ণনাকারী তাকে মুযাইনা গোত্রের বলেছেন, আরেকজন বলেছেন বনু আবদুল মুত্তালিবের একজনের আযাদকৃত দাসী সারা। কুরতুবী ও বাগাভী তার নাম বলেন সারা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Narration from Ali",
+          "bn": "আলী (রাঃ)-এর বর্ণনা"
+        },
+        "p": [
+          {
+            "en": "Al-Bukhari records the event in the tafsir chapter of his Sahih (4890), from Ali (RA), and this is its wording. Ali said: The Messenger of Allah ﷺ sent me, al-Zubayr and al-Miqdad, and said: Go until you reach Rawdat Khakh, for there is a woman travelling there who has a letter; take it from her. So we went, our horses racing with us, until we reached the Rawdah, and there was the woman. We said: Bring out the letter. She said: I have no letter with me.",
+            "bn": "সহীহ বুখারীর তাফসীর অধ্যায়ে (৪৮৯০) ঘটনাটি আলী (রাঃ) থেকে বর্ণিত হয়েছে। তার ভাষ্য এই। আলী (রাঃ) বলেন: রাসূলুল্লাহ ﷺ আমাকে, যুবাইর ও মিকদাদকে পাঠালেন। বললেন: তোমরা চলতে থাকো, রওযা খাখ পর্যন্ত পৌঁছাও। সেখানে এক সফরকারী মহিলা আছে, তার কাছে একটি চিঠি আছে। চিঠিটা তার কাছ থেকে নিয়ে নাও। আমরা রওনা হলাম, ঘোড়াগুলো আমাদের নিয়ে ছুটে চলল। রওযায় পৌঁছে দেখি, মহিলাটি সেখানে। আমরা বললাম: চিঠিটা বের করো। সে বলল: আমার কাছে কোনো চিঠি নেই।"
+          },
+          {
+            "en": "We said: You will bring out the letter, or we will strip off the clothes. So she brought it out from her braided hair, and we brought it to the Prophet ﷺ. In it was: from Hatib ibn Abi Balta'ah to some of the polytheists in Makkah, informing them of part of the Prophet's ﷺ affair. The Prophet ﷺ said: What is this, O Hatib? He said: Do not be hasty with me, O Messenger of Allah. I was a man among Quraysh but not of them by descent. This is rendered from the Arabic; the quranx English has an Ansari man here.",
+            "bn": "আমরা বললাম: হয় চিঠি বের করবে, নয়তো কাপড় খুলে ফেলতে হবে। তখন সে চুলের বেণি থেকে চিঠিটা বের করে দিল। আমরা সেটা নবী ﷺ-এর কাছে নিয়ে এলাম। তাতে লেখা ছিল: হাতিব ইবনে আবি বালতাআর পক্ষ থেকে মক্কার কিছু মুশরিকের প্রতি। তাতে তিনি নবী ﷺ-এর কিছু বিষয় তাদের জানিয়েছিলেন। নবী ﷺ বললেন: হাতিব, এটা কী? তিনি বললেন: হে আল্লাহর রাসূল, আমার ব্যাপারে তাড়াহুড়া করবেন না। আমি কুরাইশের মধ্যে থাকতাম, কিন্তু বংশে তাদের কেউ ছিলাম না। এটি আরবি থেকে অনুবাদ; কুরআনএক্সের ইংরেজি পাঠে এখানে আনসারী ব্যক্তি আছে।"
+          },
+          {
+            "en": "And the Emigrants with you have relatives through whom they protect their families and their wealth in Makkah. Since I lacked that kinship among them, I wanted to do them a favour by which they would protect my relatives. I did not do it out of disbelief, nor out of turning back from my religion. The Prophet ﷺ said: He has told you the truth. Umar said: O Messenger of Allah, let me strike his neck. He said: He was present at Badr, and what makes you know? Perhaps Allah, Mighty and Majestic, looked upon the people of Badr and said: Do as you will, for I have forgiven you.",
+            "bn": "আপনার সঙ্গে যে মুহাজিররা আছেন, মক্কায় তাঁদের আত্মীয়স্বজন আছে, যাদের মাধ্যমে তাঁরা নিজেদের পরিবার ও সম্পদ রক্ষা করেন। তাদের মধ্যে আমার সেই বংশের সম্পর্ক নেই। তাই চাইলাম তাদের উপর এমন একটা অনুগ্রহ করে রাখি, যার বদলে তারা আমার আত্মীয়দের রক্ষা করবে। কুফরির কারণে এ কাজ করিনি, নিজের দ্বীন থেকে ফিরে যাওয়ার জন্যও না। নবী ﷺ বললেন: সে তোমাদের সত্য কথা বলেছে। উমর বললেন: হে আল্লাহর রাসূল, আমাকে অনুমতি দিন, তার গর্দান উড়িয়ে দিই। তিনি বললেন: সে বদরে উপস্থিত ছিল। তুমি কী করে জানবে? হয়তো আল্লাহ বদরের লোকদের দিকে তাকিয়ে বলেছেন: যা ইচ্ছা করো, আমি তোমাদের ক্ষমা করে দিয়েছি।"
+          },
+          {
+            "en": "The narration ends: Amr said, and about him was revealed, O you who believe, do not take My enemy and your enemy. A narrator adds: I do not know whether the verse is in the hadith or is Amr's own statement. Asked about it, Sufyan said it is in what people narrate, and that he had memorised the hadith from Amr without leaving out a letter. Ibn Kathir notes that al-Bukhari's chapter on the battles reads: then Allah revealed the surah. At-Tabari adds that reports from a number of the Companions and others say the same.",
+            "bn": "বর্ণনার শেষে আছে: আমর বলেন, তাঁর ব্যাপারেই নাযিল হয়েছে: হে ঈমানদারগণ, আমার শত্রু ও তোমাদের শত্রুকে বন্ধু বানিয়ো না। একজন বর্ণনাকারী যোগ করেন: আমি জানি না আয়াতটি হাদীসের অংশ, নাকি আমরের নিজের কথা। এ বিষয়ে সুফিয়ানকে জিজ্ঞেস করা হলে তিনি বলেন, এটা লোকদের বর্ণনায় আছে, আর তিনি নিজে আমরের কাছ থেকে হাদীসটি একটি অক্ষরও না ছেড়ে মুখস্থ করেছেন। ইবন কাসীর জানান, বুখারীর যুদ্ধ-অভিযান অধ্যায়ের বর্ণনায় আছে: তখন আল্লাহ সূরাটি নাযিল করলেন। তাবারী যোগ করেন, একদল সাহাবি ও অন্যদের থেকে আসা বর্ণনাও একই কথা বলে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Asked Before Being Judged",
+          "bn": "রায়ের আগে প্রশ্ন"
+        },
+        "p": [
+          {
+            "en": "The Prophet ﷺ opened not with a verdict but with a question, what is this, O Hatib, and let the man speak in full. Then he judged the answer: he has told you the truth. When Umar (RA) asked leave to kill him, he refused and named Badr. In the wordings al-Qurtubi, al-Baghawi and Ibn Kathir quote, Umar's request went further and called Hatib a hypocrite; the Prophet's ﷺ reply is the same in each. At-Tabari carries another report from Ali (RA) in which the Prophet ﷺ says: Hatib has spoken the truth, so say nothing of Hatib but good.",
+            "bn": "নবী ﷺ রায় দিয়ে শুরু করেননি, শুরু করেছেন প্রশ্ন দিয়ে: হাতিব, এটা কী? তারপর মানুষটাকে পুরো কথা বলতে দিয়েছেন। এরপর জবাবটার বিচার করেছেন: সে তোমাদের সত্য বলেছে। উমর (রাঃ) তাঁকে হত্যার অনুমতি চাইলে তিনি রাজি হননি, বদরের কথা তুলেছেন। কুরতুবী, বাগাভী ও ইবন কাসীর যে ভাষ্যগুলো উদ্ধৃত করেন, তাতে উমরের কথা আরও কড়া, সেখানে তিনি হাতিবকে মুনাফিক বলেছেন। কিন্তু প্রতিটিতে নবী ﷺ-এর জবাব একই। তাবারী আলী (রাঃ) থেকে আরেকটি বর্ণনা আনেন, যাতে নবী ﷺ বলেন: হাতিব সত্য বলেছে, তাই হাতিবের ব্যাপারে ভালো ছাড়া কিছু বোলো না।"
+          },
+          {
+            "en": "The commentators draw the consequence. Ibn Kathir says the Messenger of Allah ﷺ accepted Hatib's excuse when he explained that he had acted only to placate Quraysh for the wealth and children he had among them. As-Sa'di says Hatib wrote to gain a favour with them, not out of doubt or hypocrisy, and offered an excuse the Prophet ﷺ accepted. Al-Qurtubi calls the whole verse a mu'ataba, a reproach to Hatib, and says it shows his standing and the truth of his faith, because reproach comes only from a lover to his beloved.",
+            "bn": "তাফসীরকারেরা এখান থেকে সিদ্ধান্ত টানেন। ইবন কাসীর বলেন, হাতিব যখন জানালেন যে কুরাইশের মধ্যে থাকা সম্পদ ও সন্তানের খাতিরেই তিনি শুধু তাদের মন রাখতে চেয়েছিলেন, তখন রাসূলুল্লাহ ﷺ তাঁর ওজর কবুল করেন। সা'দী বলেন, সন্দেহ বা মুনাফেকি থেকে নয়, তাদের উপর অনুগ্রহ রাখতেই হাতিব চিঠি লিখেছিলেন, আর এমন ওজর পেশ করেছিলেন যা নবী ﷺ গ্রহণ করেন। কুরতুবী গোটা আয়াতকে বলেন মুআতাবা, অর্থাৎ হাতিবের প্রতি স্নেহের অনুযোগ। তাঁর মতে এতে হাতিবের মর্যাদা আর ঈমানের সত্যতাই প্রকাশ পায়, কারণ অনুযোগ আসে কেবল ভালোবাসার মানুষের কাছ থেকে, ভালোবাসার মানুষের প্রতি।"
+          },
+          {
+            "en": "Ma'arif al-Qur'an is sterner about his reasoning: the position Hatib took was inappropriate, it says, because hoping that enemies of the faith would repay a favour by guarding his family was illusory. That is a judgement on his calculation. This article goes no further than its sources. The verse names the act and calls it straying from the right way; the Prophet ﷺ, who heard the man out, gave the verdict on the man.",
+            "bn": "মাআরিফুল কুরআন তাঁর হিসাবটার ব্যাপারে আরও কঠোর। সেখানে বলা হয়েছে, হাতিবের অবস্থান যথাযথ ছিল না। কারণ দ্বীনের শত্রুরা একটা উপকারের বদলে তাঁর পরিবারকে আগলে রাখবে, এমন আশা ছিল অলীক। এটা তাঁর হিসাবের উপর মন্তব্য। এ লেখা তার উৎসগুলোর চেয়ে এক পা-ও বেশি এগোবে না। আয়াত কাজটার নাম বলেছে, একে সঠিক পথ থেকে বিচ্যুতি বলেছে। আর মানুষটার ব্যাপারে রায় দিয়েছেন নবী ﷺ, যিনি তাঁর পুরো কথা শুনেছিলেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Rebuked Under the Name of Faith",
+          "bn": "ঈমানের নামেই তিরস্কার"
+        },
+        "p": [
+          {
+            "en": "The verse is addressed to ya ayyuha alladhina amanu, O you who have believed, and the rebuke is delivered inside that name. Al-Qurtubi reports, with the word dhukira, it is mentioned, that when Hatib heard O you who have believed, he fainted for joy at being addressed with faith. He also reads tulquna ilayhim bil-mawadda as describing the outward act only, because Hatib's heart was sound, and he takes the Prophet's ﷺ words, as for your companion, he has spoken the truth, as explicit proof of it.",
+            "bn": "আয়াতের সম্বোধন ইয়া আইয়ুহাল্লাযীনা আমানূ, হে ঈমানদারগণ। তিরস্কারটা আসে এই নামের ভেতরেই। কুরতুবী 'যুকিরা', অর্থাৎ 'বলা হয়ে থাকে' শব্দ দিয়ে একটি কথা আনেন: হাতিব যখন 'হে ঈমানদারগণ' সম্বোধন শুনলেন, ঈমানের নামে ডাক পাওয়ার আনন্দে তিনি অজ্ঞান হয়ে পড়েছিলেন। কুরতুবী আরও বলেন, তুলকূনা ইলাইহিম বিল-মাওয়াদ্দাহ কথাটি শুধু বাইরের কাজের বর্ণনা, কারণ হাতিবের অন্তর নিষ্কলুষ ছিল। এর স্পষ্ট প্রমাণ হিসেবে তিনি নবী ﷺ-এর কথা আনেন: তোমাদের এই সাথী সত্য বলেছে।"
+          },
+          {
+            "en": "From the case al-Qurtubi draws a ruling: whoever tells the enemy the Muslims' news and weak points does not become a disbeliever by that, if he acted for a worldly aim with sound belief, as Hatib did when he sought a favour and intended no apostasy. The verse holds both at once. It calls the deed straying from the right way, yet it never withdraws the name of faith from those it corrects.",
+            "bn": "এই ঘটনা থেকে কুরতুবী একটি বিধান বের করেন। কেউ যদি মুসলিমদের খবর আর দুর্বল দিকগুলো শত্রুকে জানিয়ে দেয়, তবু শুধু এ কারণে সে কাফির হয়ে যায় না, যদি সে দুনিয়াবি কোনো উদ্দেশ্যে তা করে আর তার আকীদা ঠিক থাকে। হাতিব ঠিক তা-ই করেছিলেন। তিনি অনুগ্রহ রাখতে চেয়েছিলেন, দ্বীন ত্যাগের নিয়ত তাঁর ছিল না। আয়াত দুটি দিক একসঙ্গে ধরে রাখে। কাজটাকে সে সঠিক পথ থেকে বিচ্যুতি বলে, অথচ যাদের সংশোধন করছে, তাদের কাছ থেকে ঈমানের নাম কেড়ে নেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Enemies Named by Their Deeds",
+          "bn": "কাজ দিয়েই শত্রুর পরিচয়"
+        },
+        "p": [
+          {
+            "en": "The verse says My enemy and your enemy, then gives its reasons in its own words: they disbelieved in the truth that came to you, and they drive out the Messenger and you because you believe in Allah, your Lord. At-Tabari identifies them as the polytheists of Quraysh, who expelled the Messenger ﷺ and his Companions from Makkah. Ibn Kathir describes them as those at war with Allah, His Messenger and the believers. Ma'arif al-Qur'an suggests the phrase My enemy and your enemy points to the cause of the command.",
+            "bn": "আয়াতটি বলে: আমার শত্রু ও তোমাদের শত্রু। তারপর নিজের ভাষাতেই কারণ জানায়: তোমাদের কাছে যে সত্য এসেছে, তারা তা অস্বীকার করেছে, আর তোমরা তোমাদের রব আল্লাহর উপর ঈমান এনেছ বলে তারা রাসূলকে ও তোমাদের বের করে দেয়। তাবারী তাদের চিনিয়ে দেন: কুরাইশের মুশরিকরা, যারা রাসূলুল্লাহ ﷺ ও তাঁর সাহাবিদের মক্কা থেকে বের করে দিয়েছিল। ইবন কাসীর তাদের বলেন আল্লাহ, তাঁর রাসূল ও মুমিনদের বিরুদ্ধে যুদ্ধরত লোক। মাআরিফুল কুরআনের ধারণা, 'আমার শত্রু ও তোমাদের শত্রু' কথাটি সম্ভবত এ নির্দেশের কারণের দিকে ইঙ্গিত করে।"
+          },
+          {
+            "en": "Al-Qurtubi reads yukhrijuna al-rasula wa iyyakum as a clause explaining their disbelief and defiance, and an tu'minu as its cause: for the sake of your belief in Allah. Ibn Kathir sets beside it 85:8, where a people resented the believers for nothing but their faith. As-Sa'di puts it bluntly: in their eyes you had no fault in this except that you believed in Allah your Lord.",
+            "bn": "কুরতুবীর মতে ইউখরিজূনার রাসূলা ওয়া ইয়্যাকুম বাক্যাংশটি তাদের কুফর ও ঔদ্ধত্যের ব্যাখ্যা। আর আন তু'মিনূ তার কারণ: তোমরা আল্লাহর উপর ঈমান এনেছ, সেজন্যই। ইবন কাসীর এর পাশে রাখেন ৮৫:৮, যেখানে এক জাতি মুমিনদের উপর ক্ষুব্ধ ছিল কেবল তাদের ঈমানের জন্য। সা'দী কথাটা সোজাসুজি বলেন: তাদের চোখে এ ব্যাপারে তোমাদের কোনো দোষ ছিল না, দোষ শুধু এটুকু যে তোমরা তোমাদের রব আল্লাহর উপর ঈমান এনেছ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Affection Cast, Then Whispered",
+          "bn": "বন্ধুত্ব পাঠানো, তারপর কানে কানে"
+        },
+        "p": [
+          {
+            "en": "Tulquna ilayhim bil-mawadda: you cast affection towards them. At-Tabari says the ba changes nothing in the meaning: you extend your affection to them. Al-Zajjaj, cited by al-Baghawi and al-Qurtubi, reads: you pass them the Prophet's ﷺ news and his secret, because of the affection between you. The Muyassar joins both readings: you open your affection to them, and so tell them the news of the Messenger ﷺ and the rest of the Muslims. As-Sa'di hears haste in it, a rush towards their affection, and warns that once affection takes hold, support and alliance follow.",
+            "bn": "তুলকূনা ইলাইহিম বিল-মাওয়াদ্দাহ: তোমরা তাদের দিকে বন্ধুত্ব ছুড়ে দাও। তাবারী বলেন, এখানে 'বা' অক্ষরটি থাকা না থাকায় অর্থে কোনো তফাত হয় না: তোমরা তাদের প্রতি তোমাদের বন্ধুত্ব বাড়িয়ে দাও। বাগাভী ও কুরতুবী যাজ্জাজের ব্যাখ্যা আনেন: তোমাদের মধ্যকার বন্ধুত্বের কারণে তোমরা নবী ﷺ-এর খবর ও গোপন কথা তাদের কাছে পৌঁছে দাও। মুয়াসসার দুটোকে মিলিয়ে বলে: তোমরা তাদের কাছে মন খুলে দাও, ফলে রাসূল ﷺ ও অন্য মুসলিমদের খবর তাদের জানিয়ে দাও। সা'দী এতে তাড়াহুড়ার সুর শোনেন, তাদের বন্ধুত্বের দিকে ছুটে যাওয়া। তিনি সতর্ক করেন, বন্ধুত্ব একবার জেঁকে বসলে সাহায্য আর মিত্রতা তার পেছনে পেছনে আসে।"
+          },
+          {
+            "en": "Then the verse repeats itself with a closer verb: tusirruna ilayhim bil-mawadda, you confide affection to them in secret. Al-Baghawi cites Muqatil that the affection here is nasiha, counsel. Against that secrecy comes wa ana a'lamu bima akhfaytum wa ma a'lantum: I know best what you concealed and what you declared. Al-Qurtubi cites Ibn Abbas: what you hid in your breasts and what you showed on your tongues. As-Sa'di says that though it was hidden from the believers, it is not hidden from Allah.",
+            "bn": "তারপর আয়াতটি আরও কাছের একটি ক্রিয়া দিয়ে কথাটা আবার বলে: তুসিররূনা ইলাইহিম বিল-মাওয়াদ্দাহ, তোমরা গোপনে তাদের সঙ্গে বন্ধুত্বের কথা বলো। বাগাভী মুকাতিলের কথা আনেন যে, এখানে বন্ধুত্ব মানে নাসীহা, অর্থাৎ শুভকামনার পরামর্শ। এই গোপনীয়তার মুখোমুখি দাঁড়ায় ওয়া আনা আ'লামু বিমা আখফাইতুম ওয়া মা আ'লানতুম: তোমরা যা গোপন করেছ আর যা প্রকাশ করেছ, আমি তা সবচেয়ে ভালো জানি। কুরতুবী ইবনে আব্বাসের কথা আনেন: যা তোমরা বুকে লুকিয়েছ আর যা মুখে প্রকাশ করেছ। সা'দী বলেন, মুমিনদের কাছে তা লুকানো থাকলেও আল্লাহর কাছে লুকানো থাকে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Condition That Comes Late",
+          "bn": "পরে আসা শর্ত"
+        },
+        "p": [
+          {
+            "en": "In kuntum kharajtum jihadan fi sabili wa-btigha'a mardati: if you have come out striving in My path and seeking My pleasure. It has no answer clause of its own. At-Tabari says it is placed late but belongs first in meaning: the condition attaches to the opening prohibition, so the sense is, do not take My enemies as allies if you went out for My sake. He glosses the going out as leaving your homes and emigrating for striving in My path. Al-Baghawi says the same: a condition whose answer comes before it.",
+            "bn": "ইন কুনতুম খারাজতুম জিহাদান ফী সাবীলী ওয়াবতিগাআ মারদাতী: তোমরা যদি আমার পথে জিহাদের জন্য আর আমার সন্তুষ্টির খোঁজে বেরিয়ে থাকো। এই শর্তের নিজস্ব কোনো জবাব-বাক্য নেই। তাবারীর মতে শর্তটি বাক্যে পরে এসেছে, কিন্তু অর্থে তার জায়গা আগে। এটি শুরুর নিষেধের সঙ্গে যুক্ত। অর্থ দাঁড়ায়: তোমরা যদি আমার জন্য বেরিয়ে থাকো, তবে আমার শত্রুদের বন্ধু বানিয়ো না। বেরিয়ে পড়ার ব্যাখ্যা তিনি দেন এভাবে: আমার পথে জিহাদের জন্য ঘরবাড়ি ছেড়ে হিজরত করা। বাগাভীও একই কথা বলেন: এমন শর্ত, যার জবাব আগেই এসে গেছে।"
+          },
+          {
+            "en": "Ibn Kathir gives the plain sense: if that is what you are, do not take them as allies. As-Sa'di turns the condition into a test of sincerity: if your going out was for jihad, to raise Allah's word and to seek His pleasure, act on what that requires. Ma'arif al-Qur'an adds that if the hijra truly was for Allah, an enemy of Allah could never look after Allah's friend. The verse then closes: wa man yaf'alhu minkum fa-qad dalla sawa'a al-sabil, whoever of you does it has strayed from the evenness of the way.",
+            "bn": "ইবন কাসীর সরল অর্থটা দেন: তোমরা যদি এমনই হও, তবে তাদের বন্ধু বানিয়ো না। সা'দী শর্তটাকে আন্তরিকতার পরীক্ষা বানিয়ে দেন: আল্লাহর কালেমা উঁচু করতে আর তাঁর সন্তুষ্টি পেতে যদি জিহাদের জন্য বেরিয়ে থাকো, তবে সেই দাবি অনুযায়ী কাজ করো। মাআরিফুল কুরআন যোগ করে, হিজরত যদি সত্যিই আল্লাহর জন্য হয়ে থাকে, তবে আল্লাহর শত্রু কখনো আল্লাহর বন্ধুর দেখাশোনা করবে না। তারপর আয়াতের শেষ কথা: ওয়া মাই ইয়াফ'আলহু মিনকুম ফাকাদ দাল্লা সাওয়াআস সাবীল, তোমাদের মধ্যে যে এমন করে, সে সোজা পথ থেকে সরে গেছে।"
+          },
+          {
+            "en": "At-Tabari says such a person has turned from the straight course of the path Allah made a road to Paradise. Al-Qurtubi and al-Baghawi say he has missed the way, its true aim or the road of guidance. As-Sa'di says he took a course against the Shariah, against reason and against human decency. Every gloss is an image of a road and of losing it. What such allies would actually do is left to the verses that follow.",
+            "bn": "তাবারী বলেন, এমন লোক সেই পথের সোজা গতিপথ থেকে সরে গেছে, যে পথকে আল্লাহ জান্নাতের রাস্তা বানিয়েছেন। কুরতুবী ও বাগাভী বলেন, সে পথ হারিয়েছে, পথের আসল লক্ষ্য কিংবা হিদায়াতের রাস্তা। সা'দী বলেন, সে এমন পথ ধরেছে যা শরীয়ত, বিবেক আর মানুষের ভদ্রতা, সবকিছুর বিপরীত। প্রতিটি ব্যাখ্যাতেই আছে একটা পথের ছবি, আর সেই পথ হারানোর কথা। এমন বন্ধুরা আসলে কী করত, সে কথা রেখে দেওয়া হয়েছে পরের আয়াতগুলোর জন্য।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "No Warrant for Today's Enmities",
+          "bn": "আজকের শত্রুতার সনদ নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes one hostile party at one moment: the Quraysh of Makkah, who had rejected the message and driven the Prophet ﷺ and the believers from their homes for their faith. It licenses nothing against any living person or community, and My enemies and your enemies is not an instruction to treat any present-day people as enemies, or to suspect a neighbour, colleague or relative of another faith. Later in this surah, 60:8 and 60:9 draw that line by conduct.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি এক বিশেষ সময়ের একটি শত্রুপক্ষের বর্ণনা দেয়: মক্কার কুরাইশ, যারা বার্তাটিকে প্রত্যাখ্যান করেছিল আর ঈমানের কারণে নবী ﷺ ও মুমিনদের ঘরছাড়া করেছিল। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এতে নেই। 'আমার শত্রু ও তোমাদের শত্রু' কথাটি বর্তমান কালের কোনো মানুষকে শত্রু গণ্য করার নির্দেশ নয়। ভিন্ন ধর্মের প্রতিবেশী, সহকর্মী বা আত্মীয়কে সন্দেহ করার নির্দেশও নয়। এই সূরারই পরের দিকে ৬০:৮ ও ৬০:৯ আয়াত আচরণ দিয়ে সেই সীমারেখা টানে।"
+          },
+          {
+            "en": "What the verse does reach today is the inner ground Hatib stood on: a frightened man with no clan to shield his family, reaching for a hidden favour that, in al-Baghawi's longer report, he was sure would avail them nothing. The verse answers that private reasoning with two facts: Allah knows what was concealed, and going out for His sake has its own demands. The Prophet ﷺ answered the man with a question, a hearing and mercy. The standard does not bend, and whoever slips is still asked before he is judged.",
+            "bn": "আজকের পাঠকের কাছে আয়াতটি যেখানে পৌঁছায়, তা হলো হাতিবের মনের সেই জায়গা। ভয় পাওয়া একজন মানুষ, পরিবারকে আগলে রাখার মতো গোত্র যাঁর নেই, তিনি গোপন একটা অনুগ্রহের আশ্রয় নিলেন। বাগাভীর দীর্ঘ বর্ণনায় আছে, তিনি নিশ্চিত ছিলেন তাঁর চিঠি তাদের কোনো কাজে আসবে না। আয়াতটি সেই একান্ত যুক্তির জবাব দেয় দুটি সত্য দিয়ে: যা গোপন রাখা হয়েছিল, আল্লাহ তা জানেন। আর তাঁর জন্য বেরিয়ে পড়ার নিজস্ব দাবি আছে। নবী ﷺ মানুষটার জবাব দিয়েছেন প্রশ্ন দিয়ে, মন দিয়ে শুনে, দয়া দিয়ে। মানদণ্ড নড়ে না, আর যে পা ফসকায়, রায়ের আগে তাকেও জিজ্ঞেস করা হয়।"
+          }
+        ]
+      }
+    ]
+  },
   "60:8": {
     "sections": [
       {
