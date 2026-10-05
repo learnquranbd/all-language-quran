@@ -11,6 +11,146 @@
 var TADABBUR_ARTICLES = window.TADABBUR_ARTICLES = (window.TADABBUR_ARTICLES || {});
 
 Object.assign(TADABBUR_ARTICLES, {
+  "69:13": {
+    "sections": [
+      {
+        "h": {
+          "en": "From Memory to the Horn",
+          "bn": "স্মৃতি থেকে সিঙ্গার দিকে"
+        },
+        "p": [
+          {
+            "en": "Fa-idha nufikha fi al-suri nafkhatun wahida: then when the Horn is blown with one blast. Six Arabic words open a new movement in Surah al-Haqqah. The verses before them looked back at what had already happened on earth, and they ended at 69:12 with a reminder that a conscious ear would hold on to. With the small particle fa, then, the surah turns from what has been to what will be. There is no oath here and no description of the hour, only a sound.",
+            "bn": "ফা-ইযা নুফিখা ফিস সূরি নাফখাতুন ওয়াহিদা: অতঃপর যখন সিঙ্গায় ফুঁ দেওয়া হবে, একটিমাত্র ফুঁ। আরবিতে ছয়টি শব্দ, আর এখান থেকেই সূরা আল-হাক্কায় নতুন এক পর্ব শুরু। আগের আয়াতগুলো ফিরে তাকিয়েছিল দুনিয়ায় যা ঘটে গেছে তার দিকে। সেগুলো থেমেছে ৬৯:১২ আয়াতে, এমন এক স্মারকের কথা বলে, যা সজাগ কান ধরে রাখবে। ছোট্ট অব্যয় ফা দিয়ে সূরাটি এবার যা ঘটে গেছে তা ছেড়ে যা ঘটবে তার দিকে মুখ ফেরায়। এখানে কোনো শপথ নেই, সেই মুহূর্তের কোনো বর্ণনাও নেই। আছে শুধু একটা আওয়াজ।"
+          },
+          {
+            "en": "As-Sa'di reads the turn as deliberate. Once the surah has told what Allah did in this world, how He repaid and hastened the penalty there, and how He saved the messengers and those who followed them, this verse becomes, in his words, a prelude to the recompense of the Hereafter, when deeds are paid back in full on the Day of Resurrection. He then sets out the terrifying events that come before that Day, and the first of them is the blowing of the Horn. The stories just told were not the whole account; this is where the rest of it begins.",
+            "bn": "সা'দীর চোখে এই মোড় পরিকল্পিত। দুনিয়াতে আল্লাহ কী করেছেন, সেখানে কীভাবে প্রতিফল দিয়েছেন আর শাস্তি তাড়াতাড়ি এনেছেন, আর কীভাবে রসূলদের ও তাঁদের অনুসারীদের রক্ষা করেছেন, সূরাটি তা বলে শেষ করেছে। তাঁর ভাষায়, এবার এই আয়াত আখিরাতের প্রতিফলের ভূমিকা, যেদিন কিয়ামতের দিনে আমলের পুরো বদলা চুকিয়ে দেওয়া হবে। এরপর তিনি সেই দিনের আগের ভয়াবহ ঘটনাগুলো গুনিয়ে যান, আর তার প্রথমটিই সিঙ্গায় ফুঁ। এইমাত্র যে কাহিনিগুলো শোনা হলো, সেগুলোই পুরো হিসাব নয়। বাকিটা শুরু হচ্ছে এখান থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Horn Made to Sound",
+          "bn": "শিং, যাতে ফুঁ দেওয়া হয়"
+        },
+        "p": [
+          {
+            "en": "What is al-sur? The Muyassar answers with a plainer word: the angel blows into al-qarn, the horn. Ma'arif al-Qur'an gives the same gloss, a horn-like object to be blown on the Last Day, and points to a narration in at-Tirmidhi. On the collection's page it comes from Abdullah ibn 'Amr ibn al-'As: a Bedouin came to the Prophet ﷺ and said, What is the Sur? He said: A horn that is blown into. At-Tirmidhi's own verdict, in the Arabic, is hasan. Ma'arif names the companion as Ibn Umar; the chain in the collection names Abdullah ibn 'Amr.",
+            "bn": "আস-সূর কী? মুয়াসসার জবাব দেয় আরও সহজ একটি শব্দে: ফেরেশতা ফুঁ দেবেন আল-কারনে, অর্থাৎ শিংয়ে। মাআরিফুল কুরআনও একই ব্যাখ্যা দেয়: শিংয়ের মতো এক বস্তু, যাতে কিয়ামতের দিন ফুঁ দেওয়া হবে। সঙ্গে উল্লেখ করে তিরমিযীর একটি বর্ণনা। সংকলনের পাতায় বর্ণনাটি এসেছে আবদুল্লাহ ইবন আমর ইবনুল আস (রাঃ) থেকে: এক বেদুইন নবী ﷺ-এর কাছে এসে জিজ্ঞেস করল, সূর কী? তিনি বললেন, একটি শিং, যাতে ফুঁ দেওয়া হয়। আরবি পাঠে তিরমিযী নিজে একে হাসান বলেছেন। মাআরিফ সাহাবির নাম লিখেছে ইবন উমর, কিন্তু সংকলনের সনদে নাম আছে আবদুল্লাহ ইবন আমরের।"
+          },
+          {
+            "en": "The verse does not say who blows. Nufikha is passive, and al-Qurtubi records al-Zajjaj's note that the phrase fi al-sur, in the Horn, stands in the place of the doer the verb leaves unnamed. The commentators fill that place differently. At-Tabari writes the name into his paraphrase: when Israfil blows into the Horn. As-Sa'di also names Israfil. The Muyassar says only the angel. None of the commentaries fetched for this verse attaches any further narration about the Horn or the one who holds it, so the article stops at the single report above.",
+            "bn": "কে ফুঁ দেবেন, আয়াত তা বলে না। নুফিখা কর্মবাচ্য ক্রিয়া। কুরতুবী যাজ্জাজের মন্তব্য উদ্ধৃত করেছেন: ফিস সূর, অর্থাৎ সিঙ্গায়, কথাটিই সেই কর্তার জায়গা নিয়েছে, যার নাম ক্রিয়াটি উল্লেখ করেনি। সেই খালি জায়গা তাফসীরকারেরা ভরেছেন ভিন্ন ভিন্নভাবে। তাবারী ব্যাখ্যার ভেতরেই নামটি বসিয়ে দেন: যখন ইসরাফীল সিঙ্গায় ফুঁ দেবেন। সা'দীও ইসরাফীলের নাম নেন। মুয়াসসার বলে শুধু ফেরেশতা। এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই সিঙ্গা বা তার ধারকের ব্যাপারে আর কোনো বর্ণনা জুড়ে দেয়নি। তাই এ লেখা ওপরের একটি বর্ণনাতেই থামছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Blast That Ends Life",
+          "bn": "যে ফুঁতে প্রাণ থেমে যায়"
+        },
+        "p": [
+          {
+            "en": "Which blast is this? Here the commentators divide, and the division is worth seeing whole. At-Tabari is brief and firm: nafkhatun wahida, and it is the first blast. Al-Baghawi's entire comment on the verse is the same clause, three words in Arabic: and it is the first blast. The Muyassar spells out what that first blast does. It is, in its words, the first blast, at which the world perishes. On this reading the verse describes the moment when the world as a whole is brought to its end by a single sound, with nothing said yet about anyone rising.",
+            "bn": "এটা কোন ফুঁ? এখানে এসে তাফসীরকারেরা দুই ভাগ হয়ে যান, আর পুরো ভাগটা দেখে নেওয়াই ভালো। তাবারী সংক্ষেপে ও দৃঢ়ভাবে বলেন: নাফখাতুন ওয়াহিদা, আর এটা প্রথম ফুঁ। এই আয়াতে বাগাভীর পুরো মন্তব্য ঠিক এই কথাটুকুই, আরবিতে তিনটি শব্দ: আর এটা প্রথম ফুঁ। প্রথম ফুঁ কী ঘটায়, মুয়াসসার তা খুলে বলে। তার ভাষায়, এটা সেই প্রথম ফুঁ, যার সঙ্গে সঙ্গে জগৎ ধ্বংস হয়ে যাবে। এই পাঠ অনুযায়ী আয়াতটি সেই মুহূর্তের ছবি, যখন একটিমাত্র আওয়াজে গোটা জগতের অবসান ঘটবে। কারও উঠে দাঁড়ানোর কথা তখনো আসেনি।"
+          },
+          {
+            "en": "Al-Qurtubi opens his comment with the same view and gives it a name. Ibn Abbas said: it is the first blast, for the coming of the Hour, and no one remained but died. Ma'arif al-Qur'an stands with this reading too. Its English renders the verse as the Trumpet blown for the first time, and it explains nafkhatun wahida as a sudden, single sound that continues until all have died. So at-Tabari, al-Baghawi, the Muyassar, Ibn Abbas as al-Qurtubi reports him, and Ma'arif all take this to be the blast of death.",
+            "bn": "কুরতুবী তাঁর আলোচনা শুরু করেন এই মত দিয়েই, আর মতটির সঙ্গে একটি নামও জুড়ে দেন। ইবন আব্বাস (রাঃ) বলেছেন: এটা প্রথম ফুঁ, কিয়ামত কায়েম হওয়ার জন্য। তখন এমন কেউ বাকি থাকবে না, যে মারা যায়নি। মাআরিফুল কুরআনও এই পাঠের পক্ষে। তার ইংরেজি অনুবাদে আয়াতের অর্থ, সিঙ্গায় প্রথমবার ফুঁ দেওয়া হবে। নাফখাতুন ওয়াহিদার ব্যাখ্যায় সে বলে: আচমকা একটিমাত্র আওয়াজ, যা চলতে থাকবে সবাই মারা যাওয়া পর্যন্ত। তাহলে তাবারী, বাগাভী, মুয়াসসার, কুরতুবীর উদ্ধৃতিতে ইবন আব্বাস (রাঃ) আর মাআরিফ, সবার কাছে এটা মৃত্যুর ফুঁ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "When the Dead Stand Up",
+          "bn": "যখন মৃতেরা উঠে দাঁড়ায়"
+        },
+        "p": [
+          {
+            "en": "The other reading appears in al-Qurtubi straight after Ibn Abbas, introduced without a name: it has been said that this blast is the last. As-Sa'di gives that reading its full picture. Israfil blows into the Horn, he writes, when the bodies have grown and are complete. Then comes nafkhatun wahida, the one blast, and the souls go out, each soul entering its own body, and all at once the people are standing before the Lord of the worlds. In his account the single sound is the blast of rising, not of death.",
+            "bn": "অন্য পাঠটি কুরতুবীতে আসে ইবন আব্বাসের (রাঃ) মতের ঠিক পরেই, কোনো নাম ছাড়া: বলা হয়েছে, এই ফুঁ শেষ ফুঁ। সা'দী এই পাঠের পুরো ছবি আঁকেন। তিনি লেখেন, দেহগুলো যখন গজিয়ে উঠে পূর্ণ হবে, তখন ইসরাফীল সিঙ্গায় ফুঁ দেবেন। তারপর আসবে নাফখাতুন ওয়াহিদা, একটিমাত্র ফুঁ। রূহগুলো বেরিয়ে আসবে, প্রতিটি রূহ ঢুকবে নিজ নিজ দেহে, আর হঠাৎই মানুষ দাঁড়িয়ে যাবে রব্বুল আলামীনের সামনে। তাঁর বর্ণনায় এই একক আওয়াজ মৃত্যুর নয়, জেগে ওঠার ফুঁ।"
+          },
+          {
+            "en": "Ibn Kathir sets the verse inside a sequence of three blasts. First comes the blast of terror; it is followed by the blast of stunning, when all in the heavens and the earth are struck down except whom Allah wills; after it comes the blast of standing before the Lord of the worlds, the raising and the gathering. Then he writes: and it is this blast. In the Arabic as fetched those words follow the third, and the abridged English reads them the same way. He then records al-Rabi': it is the last blast, and adds that the apparent meaning is what he has said.",
+            "bn": "ইবন কাসীর আয়াতটিকে বসান তিনটি ফুঁয়ের এক ধারায়। প্রথমে আতঙ্কের ফুঁ। তারপর বেহুঁশ করে দেওয়ার ফুঁ, যখন আল্লাহ যাকে চান সে ছাড়া আসমান ও জমিনের সবাই লুটিয়ে পড়বে। এরপর রব্বুল আলামীনের সামনে দাঁড়ানোর ফুঁ, পুনরুত্থান আর সমবেত হওয়ার ফুঁ। তারপর তিনি লেখেন: আর এটাই সেই ফুঁ। যে আরবি পাঠ দেখা হয়েছে, তাতে কথাটি এসেছে তৃতীয়টির পরে, আর সংক্ষিপ্ত ইংরেজি সংস্করণও একইভাবে পড়ে। এরপর তিনি রাবী'-র মত উদ্ধৃত করেন: এটা শেষ ফুঁ। সঙ্গে যোগ করেন, বাহ্যিক অর্থ সেটাই, যা তিনি বলেছেন।"
+          },
+          {
+            "en": "So the sides are clear. At-Tabari, al-Baghawi, the Muyassar, Ibn Abbas in al-Qurtubi, and Ma'arif al-Qur'an read the blast as the first, the one of death. As-Sa'di, the unnamed view in al-Qurtubi, and al-Rabi' read it as the last, the one of raising, and Ibn Kathir's sentence, in the order it is written, places it there as well. This article does not choose between them. Both readings keep what the verse itself says outright: one blast, and the state of all creation changes with it.",
+            "bn": "তাহলে দুই পক্ষ পরিষ্কার। তাবারী, বাগাভী, মুয়াসসার, কুরতুবীর উদ্ধৃতিতে ইবন আব্বাস (রাঃ) আর মাআরিফুল কুরআন একে প্রথম ফুঁ বলে পড়েন, মৃত্যুর ফুঁ। সা'দী, কুরতুবীতে আসা নামহীন মতটি আর রাবী' একে পড়েন শেষ ফুঁ হিসেবে, জেগে ওঠার ফুঁ। ইবন কাসীরের বাক্যও যে ক্রমে লেখা, সেই ক্রমে একে ওখানেই বসায়। এ লেখা দুই মতের কোনোটিকে বেছে নিচ্ছে না। আয়াত নিজে যা স্পষ্ট বলে, দুই পাঠেই তা অটুট থাকে: ফুঁ একটিই, আর তাতেই গোটা সৃষ্টির অবস্থা বদলে যায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Sounds or Three",
+          "bn": "দুই আওয়াজ, নাকি তিন"
+        },
+        "p": [
+          {
+            "en": "Ma'arif al-Qur'an steps back to count. The texts of the Qur'an and the Sunnah, it says, show that the Horn will be blown twice. The first is nafkhat al-sa'aq, the blast of swooning, and it quotes 39:68: and the Horn will be blown, and whoever is in the heavens and whoever is on the earth will fall dead, except whom Allah wills. The second is nafkhat al-ba'th, the blast of raising, from the same verse: then it will be blown again, and at once they will be standing, looking on.",
+            "bn": "মাআরিফুল কুরআন এখানে একটু পিছিয়ে এসে গোনে। তার কথা, কুরআন ও সুন্নাহর ভাষ্য দেখায় যে সিঙ্গায় ফুঁ দেওয়া হবে দুইবার। প্রথমটি নাফখাতুস সা'আক, বেহুঁশ হওয়ার ফুঁ। এর প্রমাণে সে ৩৯:৬৮ আয়াত উদ্ধৃত করে: আর সিঙ্গায় ফুঁ দেওয়া হবে, তখন আসমানে যারা আছে আর জমিনে যারা আছে সবাই মূর্ছিত হয়ে পড়বে, আল্লাহ যাকে চান সে ছাড়া। দ্বিতীয়টি নাফখাতুল বা'স, পুনরুত্থানের ফুঁ, একই আয়াত থেকে: তারপর আবার ফুঁ দেওয়া হবে, আর তখনই তারা উঠে দাঁড়িয়ে তাকাতে থাকবে।"
+          },
+          {
+            "en": "With the first, Ma'arif explains, the angels in the heavens and the jinn, humans and animals on earth will fall unconscious, and in that state they will die. It then notes that some narrations mention a third blast before these two, nafkhat al-faza', the blast of terror. Its answer, credited to Mazhari, is that the first blast in its opening stage is the blast of terror and in its final stage becomes the blast of swooning and death. Ibn Kathir, as we saw, names the three in sequence.",
+            "bn": "মাআরিফ ব্যাখ্যা করে, প্রথম ফুঁতে আসমানের ফেরেশতারা আর জমিনের জিন, মানুষ ও প্রাণী অচেতন হয়ে পড়বে, আর সেই অচেতন অবস্থাতেই মারা যাবে। এরপর সে উল্লেখ করে, কিছু বর্ণনায় এই দুটির আগে তৃতীয় আরেকটি ফুঁর কথাও আছে, নাফখাতুল ফাযা', আতঙ্কের ফুঁ। মাযহারীর বরাতে তার সমাধান: প্রথম ফুঁ শুরুর পর্যায়ে আতঙ্কের ফুঁ, আর শেষ পর্যায়ে তা-ই হয়ে যায় বেহুঁশ হওয়া ও মৃত্যুর ফুঁ। আর ইবন কাসীর, যেমন আগে দেখা গেল, তিনটির নাম পরপর আলাদা করে বলেন।"
+          },
+          {
+            "en": "The sources therefore agree on the two sounds named in 39:68, one that strikes down and one that raises, and differ on how to describe terror: a stage within the first blast, in Ma'arif's account, or a blast of its own, in Ibn Kathir's list. That is a difference in counting, not in the event. It also explains why the question of which blast 69:13 means could arise at all: the Qur'an speaks of more than one, and this verse names only one.",
+            "bn": "অর্থাৎ ৩৯:৬৮ আয়াতে যে দুটি আওয়াজের কথা, একটি লুটিয়ে দেয় আর একটি জাগিয়ে তোলে, সে ব্যাপারে উৎসগুলো একমত। মতভেদ শুধু আতঙ্কের ফুঁকে কীভাবে দেখা হবে তা নিয়ে। মাআরিফের বর্ণনায় তা প্রথম ফুঁয়েরই একটি পর্যায়, ইবন কাসীরের তালিকায় আলাদা একটি ফুঁ। এ পার্থক্য গোনার ধরনে, ঘটনায় নয়। আর এ থেকেই বোঝা যায়, ৬৯:১৩ আয়াতে কোন ফুঁর কথা, এ প্রশ্ন উঠল কেন। কুরআন একাধিক ফুঁর কথা বলে, অথচ এই আয়াত নাম নেয় মাত্র একটির।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Command Not Repeated",
+          "bn": "যে হুকুম দ্বিতীয়বার লাগে না"
+        },
+        "p": [
+          {
+            "en": "Why add wahida, one, when nafkha already means a single blowing? Ibn Kathir answers directly. The verse stresses here that it is one blast, he says, because the command of Allah is not opposed and cannot be held back, and it needs no repeating and no reinforcing. Al-Qurtubi's gloss is shorter: nafkhatun wahida, that is, it is not doubled. The word is not there to count for the reader's benefit. It tells the reader what kind of command this is: one that is obeyed the first time.",
+            "bn": "নাফখা শব্দেই তো একবার ফুঁ দেওয়ার অর্থ আছে, তাহলে ওয়াহিদা, অর্থাৎ একটি, আলাদা করে বলা কেন? ইবন কাসীর সরাসরি জবাব দেন। তাঁর কথা, এখানে জোর দিয়ে বলা হয়েছে যে ফুঁ একটিই, কারণ আল্লাহর হুকুমের বিরোধিতা চলে না, তা ঠেকিয়ে রাখাও যায় না। তা আবার বলার দরকার পড়ে না, বাড়তি জোর দেওয়ারও দরকার পড়ে না। কুরতুবীর ব্যাখ্যা আরও ছোট: নাফখাতুন ওয়াহিদা, মানে তা দ্বিতীয়বার দেওয়া হবে না। শব্দটি পাঠকের জন্য গুনে দেওয়ার উদ্দেশ্যে আসেনি। এটা জানিয়ে দেয় হুকুমটি কোন জাতের: প্রথমবারেই যা পালিত হয়।"
+          },
+          {
+            "en": "Al-Qurtubi also pauses on the grammar. The verb nufikha is masculine although nafkha is feminine, and he explains that this is allowed because the word's gender is grammatical, not real. Al-Akhfash, he notes, says the verb falls on nafkha because no nominative noun stands before it. Nafkhatan in the accusative, as a verbal noun, is also permitted, and Abu al-Sammal recited it so. Or, al-Qurtubi adds, the verse simply reports the act, as Arabic says he struck a striking. Whichever way the grammar runs, wahida stays attached to the blast.",
+            "bn": "কুরতুবী ব্যাকরণেও একটু থামেন। নাফখা শব্দটি স্ত্রীলিঙ্গ, অথচ ক্রিয়া নুফিখা পুংলিঙ্গ। তিনি বলেন, এটা চলে, কারণ শব্দটির স্ত্রীলিঙ্গ শুধু ব্যাকরণের, আসল নয়। তিনি জানান, আখফাশের মতে ক্রিয়াটি নাফখার ওপরই পড়েছে, কারণ তার আগে কর্তা হিসেবে আর কোনো বিশেষ্য নেই। ক্রিয়াবাচক বিশেষ্য হিসেবে যবরসহ নাফখাতান পড়াও বৈধ, আর আবুস সাম্মাল এভাবেই পড়েছেন। কুরতুবী আরেকটি সম্ভাবনাও রাখেন: আয়াতটি হয়তো শুধু কাজটির খবর দিচ্ছে, যেমন বলা হয়, সে মারল এক মার। ব্যাকরণ যেদিকেই যাক, ওয়াহিদা শব্দটি ফুঁয়ের সঙ্গেই লেগে থাকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "One Sentence Running On",
+          "bn": "যে বাক্য থামে না"
+        },
+        "p": [
+          {
+            "en": "The verse opens with when and does not finish its sentence: then when the Horn is blown. The commentators do not stop at it either. At-Tabari carries his paraphrase straight into 69:14, where the earth and the mountains are lifted and crushed, and glosses that crushing as a single quake. Ibn Kathir ends his remark on this verse with the words: and for this reason He says here, and goes on to 69:14. The Muyassar reads the blast, the lifting of the earth and the mountains, and then, at that time, the coming of the Resurrection in 69:15, as one scene.",
+            "bn": "আয়াতটি শুরু হয় যখন দিয়ে, কিন্তু বাক্যটি এখানে শেষ হয় না: অতঃপর যখন সিঙ্গায় ফুঁ দেওয়া হবে। তাফসীরকারেরাও এখানে থামেন না। তাবারী তাঁর ব্যাখ্যা সোজা টেনে নেন ৬৯:১৪ আয়াতে, যেখানে পৃথিবী আর পাহাড়গুলোকে তুলে চূর্ণ করা হবে। সেই চূর্ণ করাকে তিনি ব্যাখ্যা করেন একটিমাত্র কম্পন বলে। ইবন কাসীর এই আয়াতের আলোচনা শেষ করেন এ কথায়: আর এ কারণেই তিনি এখানে বলেছেন। তারপর চলে যান ৬৯:১৪ আয়াতে। মুয়াসসার ফুঁ, পৃথিবী ও পাহাড়ের উত্থান, আর তারপর সেই মুহূর্তে ৬৯:১৫ আয়াতের কিয়ামত সংঘটিত হওয়া, সবটাকে পড়ে একটিই দৃশ্য হিসেবে।"
+          },
+          {
+            "en": "Those verses have their own place, and their detail belongs there. For this verse it is enough to see what the sources see: the blast is not an event standing alone but the first link of a chain, and the word wahida returns at the close of 69:14, a single crushing after a single blast. The surah lets the sentence run on because what the sound begins does not pause either. The reader is not given a breath between the call and what follows it.",
+            "bn": "সেই আয়াতগুলোর নিজস্ব জায়গা আছে, তাদের খুঁটিনাটি সেখানেই আলোচনার বিষয়। এই আয়াতের জন্য এটুকু দেখাই যথেষ্ট, যা উৎসগুলো দেখে: ফুঁ আলাদা কোনো ঘটনা নয়, বরং এক শিকলের প্রথম কড়া। ৬৯:১৪ আয়াতের শেষে ওয়াহিদা শব্দটি আবার ফিরে আসে। একটিমাত্র ফুঁয়ের পর একটিমাত্র চূর্ণ করা। আওয়াজ যা শুরু করে, তা-ও থামে না, তাই সূরাটিও বাক্যটিকে থামতে দেয় না। ডাক আর তার পরের ঘটনার মাঝখানে পাঠককে দম নেওয়ার সুযোগ দেওয়া হয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Many Reminders, One Call",
+          "bn": "স্মরণ বহুবার, ডাক একবার"
+        },
+        "p": [
+          {
+            "en": "Set this verse beside the one before it. In 69:12 the surah hopes for an ear that holds on to what it hears. Such an ear is needed because, in this life, the reminder comes again and again. The Qur'an returns to the same Day in surah after surah, and the deaths of people we knew repeat the lesson in our own streets. Ibn Kathir said the command behind the Horn needs no repeating. The repeating, then, belongs to now, and it is given for our sake.",
+            "bn": "এই আয়াতটিকে তার আগেরটির পাশে রেখে দেখুন। ৬৯:১২ আয়াতে সূরাটি এমন কানের আশা করে, যা শোনা কথা ধরে রাখে। এমন কানের দরকার এ জন্য যে, এই জীবনে স্মরণ আসে বারবার। কুরআন সূরার পর সূরায় সেই একই দিনের কথায় ফিরে আসে। চেনা মানুষদের মৃত্যু আমাদের নিজেদের পাড়াতেই সেই শিক্ষা আবার শোনায়। ইবন কাসীর বলেছেন, সিঙ্গার পেছনের হুকুম দ্বিতীয়বার বলার দরকার পড়ে না। তাহলে বারবার বলাটা এই সময়েরই জিনিস, আর তা দেওয়া হচ্ছে আমাদেরই খাতিরে।"
+          },
+          {
+            "en": "The danger is to mistake that mercy for a guarantee. Because the reminder has come many times, it begins to feel as though it always will, and each hearing is filed away to be acted on at the next. The verse ends that habit with one word. The Horn is blown once, whichever blast it is, and the verse promises no second call to anyone who was not ready for the first. What it asks of today is modest: take the reminder already heard this week and act on it this week, before the sound that does not repeat.",
+            "bn": "বিপদ হলো সেই রহমতকে নিশ্চয়তা ভেবে বসা। স্মরণ বহুবার এসেছে বলে মনে হতে থাকে, তা সবসময়ই আসবে। আর প্রতিবার শোনার পর কাজটা তুলে রাখা হয় পরের বারের জন্য। আয়াত একটি শব্দে এই অভ্যাসের ইতি টানে। সিঙ্গায় ফুঁ হবে একবার, সেটা যে ফুঁ-ই হোক। প্রথমটির জন্য যে তৈরি ছিল না, তার জন্য আয়াত দ্বিতীয় কোনো ডাকের কথা দেয় না। আজকের জন্য আয়াতের দাবি সামান্য: এ সপ্তাহে যে স্মরণটা কানে এসেছে, এ সপ্তাহেই তার ওপর আমল করুন, সেই আওয়াজের আগে, যা আর ফিরে আসে না।"
+          }
+        ]
+      }
+    ]
+  },
   "69:19": {
     "sections": [
       {
