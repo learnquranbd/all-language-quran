@@ -230,6 +230,8 @@
  "islam_mustahabb_grade": "درجه و اصل",
  "view_full_ayah": "مشاهده کامل آیه ←",
  "tadabbur_title": "تدبر",
+ "ayah_tad_btn": "تدبر",
+ "ayah_tad_none": "برای این آیه تدبری یافت نشد.",
  "hope_title": "امید و اخلاق نیکو",
  "mt_group_verses_label": "آیات",
  "kids_stories": "داستان‌ها",

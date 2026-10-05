@@ -230,6 +230,8 @@
  "islam_mustahabb_grade": "Derece ve ilke",
  "view_full_ayah": "Ayetin tamamını gör →",
  "tadabbur_title": "Tedebbür (Tefekkür)",
+ "ayah_tad_btn": "Tedebbür",
+ "ayah_tad_none": "Bu ayet için tedebbür bulunamadı.",
  "hope_title": "Ümit ve Güzel Ahlak",
  "mt_group_verses_label": "Ayetler",
  "kids_stories": "Hikâyeler",

@@ -116,6 +116,7 @@ class QuranApp {
         if (e.target.closest('.toggle-wbw')) return this.toggleWbw(card);
         if (e.target.closest('.toggle-tafsir')) return this.toggleInlineTafsir(card);
         if (e.target.closest('.toggle-grammar')) return this.toggleInlineGrammar(card);
+        if (e.target.closest('.toggle-tadabbur')) return this.toggleInlineTadabbur(card);
         if (e.target.closest('.toggle-tajweed')) {
           const section = card.querySelector('.tajweed-view');
           return this.setTajweed(card, section && section.classList.contains('hidden'));
@@ -577,6 +578,8 @@ class QuranApp {
           ${this.tajweedAvailable ? `
           <button class="toggle-tajweed px-2 py-1 text-xs rounded-full border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
                   title="${t('tajweed_label', lang)}">🎨 ${t('tajweed_label', lang)}</button>` : ''}
+          <button class="toggle-tadabbur px-2 py-1 text-xs rounded-full border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+                  title="${t('ayah_tad_btn', lang)}">💭 ${t('ayah_tad_btn', lang)}</button>
           <span class="ml-auto text-sm text-gray-500 dark:text-gray-400">
             ${ayah.surahName} (${ayah.surahArabicName}) ${ayah.key} · ${t('juz', lang)} ${ayah.juz}
           </span>
@@ -592,6 +595,7 @@ class QuranApp {
           <div class="tajweed-view hidden mt-2"></div>
           <div class="inline-tafsir hidden mt-3 space-y-2"></div>
           <div class="inline-grammar hidden mt-3 space-y-3"></div>
+          <div class="inline-tadabbur hidden mt-3 p-4 rounded-xl bg-amber-50 dark:bg-amber-500/10 border border-amber-200 dark:border-amber-500/30 text-sm text-gray-700 dark:text-gray-200 space-y-2"></div>
         </div>
       </div>
     `;
@@ -733,6 +737,81 @@ class QuranApp {
     } catch (err) {
       section.innerHTML = `<p class="text-sm text-gray-400">${t('grammar_unavailable', lang)}</p>`;
     }
+  }
+
+  /**
+   * Toggle the inline Tadabbur box for one ayah card. The notes and the article
+   * index live in the lazily loaded Tadabbur bundle, so it is pulled in on the
+   * first click; the article itself is fetched only when it exists.
+   */
+  async toggleInlineTadabbur(card) {
+    const section = card.querySelector('.inline-tadabbur');
+    if (!section) return;
+    const show = section.classList.contains('hidden');
+    section.classList.toggle('hidden', !show);
+    if (!show || section.dataset.loaded) return;
+
+    const lang = this.language;
+    section.innerHTML = `<p class="text-sm text-gray-400">${t('loading', lang)}</p>`;
+    try {
+      if (typeof TADABBUR_NOTES === 'undefined' && window.LQ && LQ.Modules && LQ.Modules.load) {
+        await LQ.Modules.load('tadabbur');
+      }
+    } catch (err) { /* falls through to the "none found" message */ }
+    section.dataset.loaded = '1';
+    this.renderInlineTadabbur(card);
+  }
+
+  /** Which Tadabbur note (single ref or range key like 43:11-12) covers this ayah? */
+  tadabburKeyFor(ref) {
+    if (typeof TADABBUR_NOTES === 'undefined' || !TADABBUR_NOTES) return null;
+    if (!this._tadMap) {
+      this._tadMap = {};
+      for (const k in TADABBUR_NOTES) {
+        const m = /^(\d+):(\d+)(?:-(\d+))?$/.exec(k);
+        if (!m) continue;
+        const b = m[3] ? +m[3] : +m[2];
+        for (let x = +m[2]; x <= b; x++) this._tadMap[`${m[1]}:${x}`] = k;
+      }
+    }
+    return this._tadMap[ref] || null;
+  }
+
+  renderInlineTadabbur(card) {
+    const section = card.querySelector('.inline-tadabbur');
+    if (!section) return;
+    const lang = this.language;
+    const esc = (s) => String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    const k = this.tadabburKeyFor(card.getAttribute('data-key'));
+    const n = k ? TADABBUR_NOTES[k] : null;
+    if (!n) {
+      section.innerHTML = `<p class="text-gray-500 dark:text-gray-400">💭 ${esc(t('ayah_tad_none', lang))}</p>`;
+      return;
+    }
+    // Notes and articles are written in English and Bengali; other languages read English.
+    const bn = lang === 'bn';
+    const refl = (bn && n.reflectionBn) || n.reflectionEn || '';
+    const pts = (bn && n.pointsBn && n.pointsBn.length ? n.pointsBn : (n.pointsEn || []));
+    const lesson = (bn && n.lessonBn) || n.lessonEn || '';
+    const art = (typeof LQArticle !== 'undefined' && LQArticle && LQArticle.has('tadabbur', k))
+      ? LQArticle.html('tadabbur', k, {
+          lc: (x) => (bn && x && x.bn) || (x && x.en) || '',
+          esc,
+          title: t('tad_article', lang),
+          open: false,
+          onLoad: () => this.renderInlineTadabbur(card),
+        })
+      : '';
+    section.innerHTML = `
+      ${k !== card.getAttribute('data-key') ? `<p class="text-xs text-amber-700 dark:text-amber-300">${esc(t('ayah_tad_btn', lang))} · ${esc(k)}</p>` : ''}
+      ${refl ? `<p dir="auto">🧭 ${esc(refl)}</p>` : ''}
+      ${pts.length ? `<ul class="list-disc ms-5 space-y-1" dir="auto">${pts.map(p => `<li>💭 ${esc(p)}</li>`).join('')}</ul>` : ''}
+      ${lesson ? `<p class="font-medium" dir="auto">🎯 ${esc(lesson)}</p>` : ''}
+      ${art}`;
+    try {
+      if (window.LQAyahAutolink && window.LQAyahAutolink.sweepNode) window.LQAyahAutolink.sweepNode(section);
+    } catch (e) { /* references just stay plain */ }
   }
 
   /**

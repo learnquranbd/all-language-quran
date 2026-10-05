@@ -230,6 +230,8 @@
  "islam_mustahabb_grade": "درجہ اور اصول",
  "view_full_ayah": "مکمل آیت دیکھیں ←",
  "tadabbur_title": "تدبر",
+ "ayah_tad_btn": "تدبر",
+ "ayah_tad_none": "اس آیت کے لیے کوئی تدبر نہیں ملا۔",
  "hope_title": "اُمید اور حسنِ اخلاق",
  "mt_group_verses_label": "آیات",
  "kids_stories": "کہانیاں",

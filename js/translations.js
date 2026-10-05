@@ -1569,6 +1569,8 @@ const TRANSLATIONS = {
    "islam_mustahabb_grade": "Grade & Principle",
    "view_full_ayah": "Open full view →",
    "tadabbur_title": "Tadabbur (Reflection)",
+   "ayah_tad_btn": "Tadabbur",
+   "ayah_tad_none": "No Tadabbur found for this ayah.",
    "hope_title": "Hope & Character",
    "mt_group_verses_label": "Verses",
    "wbw_quiz_me": "Quiz me on this word",

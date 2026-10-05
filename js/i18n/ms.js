@@ -230,6 +230,8 @@
  "islam_mustahabb_grade": "Darjat & prinsip",
  "view_full_ayah": "Lihat ayat penuh →",
  "tadabbur_title": "Tadabbur (Renungan)",
+ "ayah_tad_btn": "Tadabbur",
+ "ayah_tad_none": "Tiada tadabbur ditemui untuk ayat ini.",
  "hope_title": "Harapan & Akhlak",
  "mt_group_verses_label": "Ayat",
  "kids_stories": "Cerita",

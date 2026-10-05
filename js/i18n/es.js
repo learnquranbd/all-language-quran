@@ -230,6 +230,8 @@
  "islam_mustahabb_grade": "Grado y principio",
  "view_full_ayah": "Ver el versículo completo →",
  "tadabbur_title": "Tadabbur (Reflexión)",
+ "ayah_tad_btn": "Tadabbur",
+ "ayah_tad_none": "No se encontró tadabbur para este versículo.",
  "hope_title": "Esperanza y carácter",
  "mt_group_verses_label": "Versículos",
  "kids_stories": "Historias",

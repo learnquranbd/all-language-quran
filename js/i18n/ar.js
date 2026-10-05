@@ -230,6 +230,8 @@
  "islam_mustahabb_grade": "الدرجة والمبدأ",
  "view_full_ayah": "عرض الآية كاملة ←",
  "tadabbur_title": "التدبر",
+ "ayah_tad_btn": "التدبر",
+ "ayah_tad_none": "لا يوجد تدبر لهذه الآية.",
  "hope_title": "الرجاء وحسن الخلق",
  "mt_group_verses_label": "الآيات",
  "kids_stories": "قصص",

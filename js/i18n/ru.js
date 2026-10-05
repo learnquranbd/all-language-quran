@@ -230,6 +230,8 @@
  "islam_mustahabb_grade": "Степень и принцип",
  "view_full_ayah": "Открыть полный вид →",
  "tadabbur_title": "Тадаббур (Размышление)",
+ "ayah_tad_btn": "Тадаббур",
+ "ayah_tad_none": "Для этого аята тадаббур не найден.",
  "hope_title": "Надежда и нрав",
  "mt_group_verses_label": "Аяты",
  "kids_stories": "Истории",

@@ -230,6 +230,8 @@
  "islam_mustahabb_grade": "等级与原则",
  "view_full_ayah": "查看完整经文 →",
  "tadabbur_title": "深思 (Tadabbur)",
+ "ayah_tad_btn": "深思",
+ "ayah_tad_none": "此节经文暂无深思内容。",
  "hope_title": "希望与品格",
  "mt_group_verses_label": "经文",
  "kids_stories": "故事",

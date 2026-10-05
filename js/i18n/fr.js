@@ -230,6 +230,8 @@
  "islam_mustahabb_grade": "Degré et principe",
  "view_full_ayah": "Voir le verset complet →",
  "tadabbur_title": "Tadabbur (Méditation)",
+ "ayah_tad_btn": "Tadabbur",
+ "ayah_tad_none": "Aucun tadabbur trouvé pour ce verset.",
  "hope_title": "Espoir et caractère",
  "mt_group_verses_label": "Versets",
  "kids_stories": "Histoires",
