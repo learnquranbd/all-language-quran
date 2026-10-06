@@ -98,5 +98,149 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "104:8": {
+    "sections": [
+      {
+        "h": {
+          "en": "A Door Shut in Three Words",
+          "bn": "তিন শব্দে বন্ধ দরজা"
+        },
+        "p": [
+          {
+            "en": "Innaha 'alayhim mu'sadah: indeed, it will be closed over them. The Arabic has three words. Innaha joins inna, indeed, to -ha, it; 'alayhim means upon them, or over them; and mu'sadah is the word the commentators gloss as shut, closed over, covering. The verse stands between 104:7, the fire that mounts up over the hearts, and 104:9, in columns stretched out. Those neighbours are named here only to place the verse; 104:9 has its own reading and is not treated in this article.",
+            "bn": "ইন্নাহা আলাইহিম মু'সাদাহ: নিশ্চয়ই তা তাদের উপর বন্ধ করে দেওয়া হবে। আরবিতে শব্দ মাত্র তিনটি। ইন্নাহা গঠিত ইন্না (নিশ্চয়ই) আর -হা (তা) মিলে। আলাইহিম মানে তাদের উপর। আর মু'সাদাহ সেই শব্দ, তাফসীরকারেরা যার ব্যাখ্যা করেন বন্ধ, উপর থেকে ঢাকা, ঢেকে রাখা বলে। আয়াতটির আগে আছে ১০৪:৭, যে আগুন হৃদয় পর্যন্ত চড়ে যায়। পরে আছে ১০৪:৯, লম্বা লম্বা স্তম্ভে। প্রতিবেশী আয়াত দুটির কথা এখানে শুধু জায়গা চেনানোর জন্য। ১০৪:৯ আয়াতের নিজস্ব আলোচনা আছে, এ প্রবন্ধে তা ধরা হয়নি।"
+          },
+          {
+            "en": "Short as it is, the verse carries the weight of the whole passage. From 104:4 the surah has been describing al-Hutamah: what it is, whose fire it is, how far it reaches. Here the description stops moving inward and closes. The commentators fetched for this verse spend nearly all their words on the single term mu'sadah, and they do not agree on exactly which picture it draws. That disagreement, and the small linguistic evidence they bring for it, is the matter of most of what follows.",
+            "bn": "আয়াতটি ছোট, তবু গোটা অংশের ভার এর উপর। ১০৪:৪ থেকে সূরাটি আল-হুতামার বর্ণনা দিয়ে আসছে: সেটা কী, কার আগুন, কতদূর পৌঁছায়। এখানে এসে বর্ণনা আর ভেতরের দিকে এগোয় না, বন্ধ হয়ে যায়। এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, সেগুলোর প্রায় সব কথাই মু'সাদাহ শব্দটিকে ঘিরে। শব্দটি ঠিক কোন ছবি আঁকে, তা নিয়ে তাঁরা পুরোপুরি একমত নন। সেই মতভেদ, আর তার পক্ষে তাঁরা ভাষার যে ছোট ছোট সাক্ষ্য আনেন, সেটাই সামনের বেশিরভাগ আলোচনার বিষয়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "What It Is, Who They Are",
+          "bn": "কী সেটা, কারা তারা"
+        },
+        "p": [
+          {
+            "en": "At-Tabari settles both pronouns in a single sentence. Inna al-Hutamata allati wusifat sifatuha, he writes: the -ha is al-Hutamah, whose description has just been given in 104:4 to 104:7. And 'alayhim, upon them, he explains as upon these hammazin and lammazin, the people who mock and slander that 104:1 opened with. The Muyassar keeps the plain pronoun: it is closed over them. Ibn Kathir's English abridgement reads the verse in the same run, straight on from the fire that leaps up over the hearts.",
+            "bn": "দুটো সর্বনামের মীমাংসা তাবারী এক বাক্যেই করে দেন। তিনি লেখেন, ইন্নাল হুতামাতাল্লাতী উসিফাত সিফাতুহা: অর্থাৎ -হা মানে আল-হুতামা, যার বর্ণনা এইমাত্র ১০৪:৪ থেকে ১০৪:৭ আয়াতে দেওয়া হলো। আর আলাইহিম, তাদের উপর, এর ব্যাখ্যায় তিনি বলেন, এই হাম্মাযীন ও লাম্মাযীনদের উপর, অর্থাৎ যারা খোঁটা দেয় আর আড়ালে নিন্দা করে, যাদের কথা দিয়ে ১০৪:১ শুরু হয়েছিল। মুয়াসসার সর্বনামটিকে সাদামাটাই রাখে: তা তাদের উপর বন্ধ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণও আয়াতটিকে পড়ে একই ধারায়, হৃদয় পর্যন্ত চড়ে যাওয়া আগুনের ঠিক পরের কথা হিসেবে।"
+          },
+          {
+            "en": "That reading keeps the surah in a single line. The woe of 104:1 falls on a character drawn in conduct: the mocker, the slanderer, the man of 104:2 and 104:3 who gathers wealth, counts it and supposes it will keep him forever. The fire is then named, described, and at last shut. The meaning of the name al-Hutamah, and its fit with a life spent breaking others, has already been drawn out in the shipped reflection on 104:1, so it is not rebuilt here. This verse adds only the closing.",
+            "bn": "এভাবে পড়লে গোটা সূরা একটানা এক রেখায় চলে। ১০৪:১ আয়াতের ধ্বংসের ঘোষণা পড়েছে আচরণ দিয়ে আঁকা এক চরিত্রের উপর: যে খোঁটা দেয়, যে আড়ালে নিন্দা করে, আর ১০৪:২ ও ১০৪:৩ আয়াতের সেই লোক, যে সম্পদ জমায়, গুনে রাখে, আর ভাবে এই সম্পদই তাকে চিরকাল টিকিয়ে রাখবে। এরপর আগুনের নাম আসে, বর্ণনা আসে, শেষে আসে বন্ধ হয়ে যাওয়া। আল-হুতামা নামের অর্থ, আর অন্যকে ভেঙে দেওয়া জীবনের সঙ্গে তার মিল, ১০৪:১ আয়াতের প্রকাশিত আলোচনায় আগেই এসেছে। তাই এখানে তা আবার গড়া হলো না। এ আয়াত শুধু যোগ করে বন্ধ হওয়ার কথাটা।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Closed Over, or Shut Fast",
+          "bn": "উপর থেকে ঢাকা, নাকি তালাবদ্ধ"
+        },
+        "p": [
+          {
+            "en": "Two Arabic words carry most of the glossing. The first is mutbaqah, closed over or covered. At-Tabari gives it as his own explanation, and then lists those he says held the same: Ibn Abbas (RA) through Abu Malik, Atiyyah, al-Hasan, ad-Dahhak, Qatadah and Ibn Zayd, each quoted with the single word mutbaqah. Al-Qurtubi opens with the same gloss and credits it to al-Hasan and ad-Dahhak. The Arabic Ibn Kathir gives mutbaqah too, and says it was already explained under Surat al-Balad.",
+            "bn": "ব্যাখ্যার বেশিরভাগ ভার বহন করে আরবি দুটি শব্দ। প্রথমটি মুতবাকাহ, অর্থাৎ উপর থেকে বন্ধ, ঢেকে দেওয়া। তাবারী এটিকে নিজের ব্যাখ্যা হিসেবে দেন, তারপর তাঁদের নাম আনেন যাঁরা তাঁর কথায় একই মত দিয়েছেন: আবু মালিকের সূত্রে ইবন আব্বাস (রাঃ), আতিয়্যা, আল-হাসান, যাহহাক, কাতাদা ও ইবন যায়দ। তাঁদের প্রত্যেকের কথা উদ্ধৃত হয়েছে ওই এক শব্দে, মুতবাকাহ। কুরতুবীও এই ব্যাখ্যা দিয়েই শুরু করেন এবং তা আল-হাসান ও যাহহাকের কথা বলে উল্লেখ করেন। আরবি ইবন কাসীরও মুতবাকাহ বলেন, আর জানান যে সূরা আল-বালাদে এর ব্যাখ্যা আগেই এসেছে।"
+          },
+          {
+            "en": "The second word is mughlaqah, shut, as a door is shut. At-Tabari records it from Ibn Abbas (RA) as well, through a different chain: 'alayhim mughlaqah, shut upon them. Al-Qurtubi gives it as a further reading, introduced with qila, it has been said, and ties it to the speech of Quraysh, closing the note with the words: Mujahid said it. As-Sa'di uses mughlaqah alone. Al-Baghawi sets the two words side by side without choosing, mutbaqah mughlaqah, closed over and shut. Ibn Kathir's English abridgement renders the gloss as covering.",
+            "bn": "দ্বিতীয় শব্দটি মুগলাকাহ, অর্থাৎ বন্ধ, যেভাবে দরজা বন্ধ করা হয়। তাবারী এটিও ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, তবে ভিন্ন এক সূত্রে: আলাইহিম মুগলাকাহ, তাদের উপর বন্ধ। কুরতুবী একে আনেন আরেকটি মত হিসেবে, 'কীলা' বা 'বলা হয়েছে' দিয়ে শুরু করে, আর একে কুরাইশের ভাষার সঙ্গে যুক্ত করেন। নোটটি তিনি শেষ করেন এই কথায়: মুজাহিদ এটি বলেছেন। সা'দী শুধু মুগলাকাহ শব্দটিই ব্যবহার করেন। বাগাভী কোনোটা বেছে না নিয়ে দুটি শব্দ পাশাপাশি রাখেন: মুতবাকাহ মুগলাকাহ, উপর থেকে ঢাকা এবং বন্ধ। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ব্যাখ্যাটিকে অনুবাদ করে covering, অর্থাৎ ঢেকে রাখা।"
+          },
+          {
+            "en": "The two glosses are close, and none of these commentators sets them against each other; but they are not the same picture. Mutbaqah draws something laid over the people inside, closing them in from above. Mughlaqah draws an exit that has been shut. This article does not choose between them. What is worth noticing is that Ibn Abbas (RA) appears in at-Tabari's list under both words, by two separate chains, so in at-Tabari's own record both readings reach back to a Companion.",
+            "bn": "ব্যাখ্যা দুটি কাছাকাছি, আর এই তাফসীরকারদের কেউ একটিকে অন্যটির বিপরীতে দাঁড় করান না। তবু দুটো ছবি এক নয়। মুতবাকাহ আঁকে এমন কিছু, যা ভেতরের লোকদের উপর বিছিয়ে দেওয়া, উপর থেকে তাদের আটকে রাখে। মুগলাকাহ আঁকে বেরোনোর এমন পথ, যা বন্ধ করে দেওয়া হয়েছে। এ প্রবন্ধ এর কোনোটিকেই বেছে নেয় না। তবে লক্ষ করার মতো ব্যাপার হলো, তাবারীর তালিকায় ইবন আব্বাস (রাঃ)-এর নাম দুটো শব্দের নিচেই আছে, দুটি আলাদা সূত্রে। অর্থাৎ তাবারীর নিজের বর্ণনাতেই দুটো ব্যাখ্যা একজন সাহাবি পর্যন্ত পৌঁছায়।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "The Language of Doors",
+          "bn": "দরজার ভাষা"
+        },
+        "p": [
+          {
+            "en": "The commentators also bring the evidence of ordinary speech. At-Tabari closes his list with Ibn Zayd, who after giving mutbaqah adds: the Arabs say awsada al-bab, meaning aghlaqa, he shut the door. Al-Qurtubi reports a second form of the verb from the people of Quraysh: asadtu al-bab, I shut the door. Both notes put the word in the doorway of a house before it is ever applied to the fire. That everyday sense is what lets the verse be heard as a door closing.",
+            "bn": "তাফসীরকারেরা সাধারণ কথাবার্তার সাক্ষ্যও হাজির করেন। তাবারী তাঁর তালিকা শেষ করেন ইবন যায়দকে দিয়ে। মুতবাকাহ বলার পর ইবন যায়দ যোগ করেন: আরবরা বলে আওসাদাল বাবা, মানে আগলাকা, সে দরজা বন্ধ করল। কুরতুবী কুরাইশের লোকদের থেকে ক্রিয়াটির আরেকটি রূপ জানান: আসাদতুল বাবা, আমি দরজা বন্ধ করলাম। দুটো কথাই শব্দটিকে আগুনের প্রসঙ্গে আনার আগে ঘরের দরজায় দাঁড় করায়। প্রতিদিনের এই অর্থের কারণেই আয়াতটি কানে বাজে দরজা বন্ধ হওয়ার মতো।"
+          },
+          {
+            "en": "Al-Qurtubi then cites a line of poetry by Ubaydullah ibn Qays ar-Ruqayyat. It speaks of a gazelle within a palace, if only we could enter, with the curtain mu'sad 'alayhi, closed over it. The pairing is the verse's own: the word for shut, joined to 'ala, over, with a pronoun for whoever is kept inside. In the poem the barrier keeps the speaker out; in the verse the same kind of barrier keeps those inside from leaving. The commentators let the parallel stand and draw no further lesson from it.",
+            "bn": "এরপর কুরতুবী উবাইদুল্লাহ ইবন কাইস আর-রুকাইয়াতের একটি কবিতার চরণ উদ্ধৃত করেন। চরণটি এক প্রাসাদের ভেতরের এক হরিণীর কথা বলে, আহা, যদি আমরা ভেতরে ঢুকতে পারতাম! কিন্তু পর্দা তার উপর মু'সাদ আলাইহি, বন্ধ করে দেওয়া। জোড়টা আয়াতেরই: বন্ধ বোঝানোর শব্দ, তার সঙ্গে আলা, উপর, আর ভেতরে যে আটকে আছে তার জন্য একটি সর্বনাম। কবিতায় পর্দা বক্তাকে বাইরে আটকে রাখে। আয়াতে একই রকম বাধা ভেতরের লোকদের বেরোতে দেয় না। তাফসীরকারেরা মিলটা রেখে দেন, এর বেশি কোনো শিক্ষা টানেন না।"
+          },
+          {
+            "en": "At-Tabari adds a note on how the word is pronounced. Wa-hiya tuhmaz wa-la tuhmaz, he says: it is read with the hamzah and without it, and both have been recited. So the word may be heard as mu'sadah, or with the glottal stop softened. He names no reciters for either and does not prefer one, and nothing in the fetched texts says the meaning changes between them. Both forms of the verb reported above, awsada and asada, keep the same sense of shutting.",
+            "bn": "শব্দটির উচ্চারণ নিয়ে তাবারী একটি কথা যোগ করেন। ওয়া হিয়া তুহমাযু ওয়া লা তুহমায, তিনি বলেন: শব্দটি হামযাসহ পড়া হয়, হামযা ছাড়াও পড়া হয়, আর দুভাবেই তিলাওয়াত হয়েছে। অর্থাৎ শব্দটি শোনা যেতে পারে মু'সাদাহ হিসেবে, আবার হামযার ধাক্কা নরম করেও। কোন কারী কীভাবে পড়েছেন, তিনি তা বলেন না, কোনোটিকে প্রাধান্যও দেন না। আনা তাফসীরগুলোর কোথাও বলা নেই যে দুই উচ্চারণে অর্থ বদলায়। উপরে ক্রিয়াটির যে দুই রূপ এসেছে, আওসাদা ও আসাদা, দুটোতেই বন্ধ করার একই অর্থ।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Reports Carried, Not Graded Up",
+          "bn": "যে বর্ণনা যেমন এসেছে"
+        },
+        "p": [
+          {
+            "en": "Ibn Kathir adds a report through Ibn Marduyah, with a chain running from Abu Salih to Abu Hurayrah (RA) and on to the Prophet ﷺ, in which the gloss on innaha 'alayhim mu'sadah is the same single word: mutbaqah. In the next breath Ibn Kathir records that Abu Bakr ibn Abi Shaybah narrated it through another chain as the words of Abu Salih himself, wa-lam yarfa'hu, without raising it to the Prophet ﷺ. Ibn Kathir gives no grading of his own.",
+            "bn": "ইবন কাসীর ইবন মারদুয়াহর সূত্রে একটি বর্ণনা যোগ করেন। এর সনদ আবু সালিহ থেকে আবু হুরায়রা (রাঃ) হয়ে নবী ﷺ পর্যন্ত গেছে, আর তাতে ইন্নাহা আলাইহিম মু'সাদাহর ব্যাখ্যা সেই এক শব্দ: মুতবাকাহ। পরের বাক্যেই ইবন কাসীর জানান, আবু বকর ইবন আবী শাইবা অন্য এক সনদে এটি বর্ণনা করেছেন আবু সালিহের নিজের কথা হিসেবে, ওয়া লাম ইয়ারফা'হু, অর্থাৎ নবী ﷺ পর্যন্ত পৌঁছাননি। ইবন কাসীর নিজে এর কোনো মান নির্ণয় করেননি।"
+          },
+          {
+            "en": "That report reaches Ibn Kathir through Ibn Marduyah, outside the hadith collections this article confirms against, so it is not quoted here as a hadith. No fetched tafsir attaches to this verse a narration from those collections. That is a sound outcome, not a gap to be filled. The gloss itself does not depend on the report, since at-Tabari has the word mutbaqah from Ibn Abbas (RA), Qatadah and the others without it.",
+            "bn": "বর্ণনাটি ইবন কাসীরের কাছে এসেছে ইবন মারদুয়াহর মাধ্যমে, এ প্রবন্ধ যে হাদীস-সংকলনগুলোর সঙ্গে মিলিয়ে দেখে তার বাইরে থেকে। তাই এখানে একে হাদীস হিসেবে উদ্ধৃত করা হলো না। আনা তাফসীরগুলোর কোনোটিই ওই সংকলনগুলো থেকে কোনো বর্ণনা এ আয়াতের সঙ্গে জুড়ে দেয়নি। এটা একটা সঠিক ফলাফল, পূরণ করার মতো কোনো ফাঁক নয়। ব্যাখ্যাটি এ বর্ণনার উপর নির্ভরও করে না। কারণ মুতবাকাহ শব্দটি তাবারী এটি ছাড়াই পেয়েছেন ইবন আব্বাস (রাঃ), কাতাদা ও অন্যদের কাছ থেকে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Heat With No Way Out",
+          "bn": "তাপের ভেতর, বেরোনোর পথ নেই"
+        },
+        "p": [
+          {
+            "en": "As-Sa'di reads the verse as the next step after 104:7. Wa-ma'a hadhihi al-hararah al-balighah, he writes: and along with this extreme heat, they are confined within it and have despaired of leaving it; that is why He said, innaha 'alayhim mu'sadah, meaning shut. On his reading the verse adds something to what came before. The fire has been described by what it does; this verse describes what it withholds, which is any way out. He says no more than that about the fire.",
+            "bn": "সা'দী আয়াতটিকে পড়েন ১০৪:৭ আয়াতের পরের ধাপ হিসেবে। তিনি লেখেন, ওয়া মাআ হাযিহিল হারারাতিল বালিগাহ: এই তীব্র তাপের সঙ্গে সঙ্গে তারা সেখানে আটকে থাকবে, বেরোনোর আশা তারা হারিয়ে ফেলেছে। সে কারণেই আল্লাহ বলেছেন, ইন্নাহা আলাইহিম মু'সাদাহ, অর্থাৎ বন্ধ। তাঁর পাঠে আয়াতটি আগের কথার সঙ্গে নতুন কিছু যোগ করে। আগুন কী করে, তা আগে বলা হয়েছে। এ আয়াত বলে আগুন কী দেয় না, আর তা হলো বেরোনোর পথ। আগুন নিয়ে সা'দী এর বেশি কিছু বলেন না।"
+          },
+          {
+            "en": "The Muyassar files this verse together with 104:9 and glosses both at once: it is closed over them, in long chains and fetters, so that they do not come out. The chains belong to its reading of the next verse, and are left there. Ma'arif al-Qur'an likewise groups 104:7 to 104:9, but its comment speaks only of the fire reaching the hearts, and it has nothing separate on this verse. So the reading of the closing comes from the Arabic commentators above.",
+            "bn": "মুয়াসসার এ আয়াতকে ১০৪:৯ আয়াতের সঙ্গে এক করে দুটোর ব্যাখ্যা একসঙ্গে দেয়: তা তাদের উপর বন্ধ, লম্বা লম্বা শিকল আর বেড়ির মধ্যে, যাতে তারা বেরিয়ে আসতে না পারে। শিকলের কথাটা পরের আয়াতের পাঠের অংশ, তাই সেটা সেখানেই রাখা হলো। মাআরিফুল কুরআনও ১০৪:৭ থেকে ১০৪:৯ পর্যন্ত একসঙ্গে রাখে, তবে তার আলোচনা শুধু হৃদয় পর্যন্ত আগুন পৌঁছানো নিয়ে। এ আয়াত নিয়ে আলাদা কিছু সেখানে নেই। তাই বন্ধ হওয়ার ব্যাখ্যা আসে উপরের আরবি তাফসীরগুলো থেকেই।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "An Echo From al-Balad",
+          "bn": "সূরা আল-বালাদের প্রতিধ্বনি"
+        },
+        "p": [
+          {
+            "en": "Both Ibn Kathir and al-Qurtubi send the reader back to Surat al-Balad, and the English abridgement of Ibn Kathir names the verse: 90:20, 'alayhim narun mu'sadah, upon them is a fire closed over. The same two words meet there, 'alayhim and mu'sadah, at the close of another surah. Those commentators explained the word at that earlier point and here only point back to it. Their discussion at 90:20 was not among the texts fetched for this article, so it is not reported here, and that verse is left to its own reading.",
+            "bn": "ইবন কাসীর ও কুরতুবী দুজনেই পাঠককে ফেরত পাঠান সূরা আল-বালাদে, আর ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ আয়াতটির নম্বরও দেয়: ৯০:২০, আলাইহিম নারুম মু'সাদাহ, তাদের উপর থাকবে বন্ধ করে দেওয়া আগুন। সেখানেও এই দুটো শব্দ একসঙ্গে, আলাইহিম আর মু'সাদাহ, আরেকটি সূরার শেষে। এই তাফসীরকারেরা শব্দটির ব্যাখ্যা সেখানেই দিয়েছেন, এখানে শুধু সেদিকে ইশারা করেন। ৯০:২০ আয়াতে তাঁদের আলোচনা এ প্রবন্ধের জন্য আনা লেখার মধ্যে ছিল না। তাই তা এখানে জানানো হলো না, আর সে আয়াতকে তার নিজের আলোচনার জন্য রেখে দেওয়া হলো।"
+          },
+          {
+            "en": "The translations in this app show how wide the word can be heard. The English renders the verse as closed down upon them, which sits near mutbaqah. The Bengali renders it as surrounding them from every side, an enclosure rather than a lid or a locked door. None of the fetched commentators uses the word surrounding, but each rendering keeps the sense that matters to all of them: those inside cannot get out. A reader comparing translations is meeting, in small, the same range the commentators recorded.",
+            "bn": "এ অ্যাপের অনুবাদগুলো দেখায়, শব্দটিকে কত ভাবে শোনা যায়। ইংরেজি অনুবাদে আছে closed down upon them, উপর থেকে বন্ধ করে দেওয়া, যা মুতবাকাহর কাছাকাছি। বাংলা অনুবাদে আছে, তা তাদেরকে চতুর্দিক থেকে পরিবেষ্টন করে রাখবে, অর্থাৎ ঢাকনা বা তালাবদ্ধ দরজা নয়, চারদিকের ঘেরাও। আনা তাফসীরগুলোর কেউ পরিবেষ্টনের শব্দ ব্যবহার করেননি। তবু দুটো অনুবাদেই সেই অর্থটুকু আছে, যা সব তাফসীরকারের কাছেই মূল: ভেতরের লোকেরা বেরোতে পারে না। অনুবাদ মিলিয়ে পড়া পাঠক ছোট পরিসরে সেই বিস্তারই দেখেন, যা তাফসীরকারেরা লিপিবদ্ধ করেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Portrait, Not a Target List",
+          "bn": "ছবি আঁকা, নিশানা নয়"
+        },
+        "p": [
+          {
+            "en": "This needs saying plainly. The verse describes what the text describes, a fire closed over those whom 104:1 to 104:3 portray by their conduct, and it licenses nothing against any living person or community. It names no tribe, no faction and no neighbour. At-Tabari's 'alayhim points to the mockers and slanderers of the opening verse, a description of deeds, and the article passes no verdict on anyone's end. Judgement over any soul belongs to Allah, and not to a reader of this verse.",
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি তা-ই বর্ণনা করে, যা পাঠে আছে: এমন আগুন, যা তাদের উপর বন্ধ, ১০৪:১ থেকে ১০৪:৩ আয়াত যাদের ছবি এঁকেছে তাদের আচরণ দিয়ে। কোনো জীবিত ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে কিছুরই অনুমতি এ আয়াত দেয় না। এতে কোনো গোত্র, দল বা প্রতিবেশীর নাম নেই। তাবারীর ব্যাখ্যায় আলাইহিম ইঙ্গিত করে প্রথম আয়াতের খোঁটাদাতা আর নিন্দুকদের দিকে, আর সেটা কাজের বর্ণনা। কারও পরিণতি নিয়ে এ প্রবন্ধ কোনো রায় দেয় না। কোনো মানুষের ব্যাপারে ফয়সালা আল্লাহর, এ আয়াতের পাঠকের নয়।"
+          },
+          {
+            "en": "There is a sharper reason for restraint. The conduct the surah condemns is the mocking look and the slanderous word. A reader who takes this verse and fastens it on a rival, a relative or a group has done with the tongue the very thing 104:1 opened against. The verse is easy to aim outward and hard to aim inward, and only the inward aim fits the surah. The question it leaves is not who is inside, but whether the reader recognises any of the portrait.",
+            "bn": "সংযমের পেছনে আরও তীক্ষ্ণ একটা কারণ আছে। সূরাটি যে আচরণের নিন্দা করে, তা হলো খোঁটা দেওয়া দৃষ্টি আর অপবাদের কথা। কোনো পাঠক যদি এ আয়াত তুলে কোনো প্রতিদ্বন্দ্বী, আত্মীয় বা দলের গায়ে সেঁটে দেয়, তবে ১০৪:১ আয়াত যার বিরুদ্ধে শুরু হয়েছিল, জিহ্বা দিয়ে সে ঠিক সেই কাজটাই করল। আয়াতটিকে বাইরের দিকে তাক করা সহজ, নিজের দিকে ফেরানো কঠিন। অথচ সূরার সঙ্গে মেলে কেবল নিজের দিকে ফেরানো। আয়াত যে প্রশ্ন রেখে যায় তা এই নয় যে ভেতরে কারা। প্রশ্ন হলো, ছবিটার কোনো অংশে পাঠক নিজেকে চিনতে পারেন কি না।"
+          },
+          {
+            "en": "Read that way, the image of a shut door turns back on the reader's present. The man of 104:3 thought his wealth would keep him forever; the surah's answer ends here, with a door that does not open. Every habit the portrait describes is still, for the reader, a door that can be walked through the other way: a remark withdrawn, a name restored, wealth spent rather than counted. The verse speaks of a closing. The reader, while reading it, is still among doors that open.",
+            "bn": "এভাবে পড়লে বন্ধ দরজার ছবিটা পাঠকের বর্তমানের দিকে ফিরে আসে। ১০৪:৩ আয়াতের লোকটি ভেবেছিল তার সম্পদ তাকে চিরকাল টিকিয়ে রাখবে। সূরার জবাব শেষ হয় এখানে, এমন এক দরজায়, যা আর খোলে না। ছবিতে যে অভ্যাসগুলোর কথা আছে, পাঠকের জন্য সেগুলোর প্রতিটি এখনো এমন দরজা, যা দিয়ে উল্টো দিকে হেঁটে বেরোনো যায়: ফিরিয়ে নেওয়া একটা কথা, ফিরিয়ে দেওয়া কারও সুনাম, গুনে না রেখে খরচ করা সম্পদ। আয়াতটি বন্ধ হওয়ার কথা বলে। আর পাঠক, যতক্ষণ তা পড়ছেন, ততক্ষণ এখনো খোলা দরজার মাঝেই আছেন।"
+          }
+        ]
+      }
+    ]
   }
 });
