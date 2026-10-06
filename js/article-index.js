@@ -167,6 +167,7 @@ var LQ_ARTICLE_IDS = {
     "zaynab_bint_muhammad"
   ],
   "tadabbur": [
+    "100:2",
     "100:6",
     "101:5",
     "102:1-2",
