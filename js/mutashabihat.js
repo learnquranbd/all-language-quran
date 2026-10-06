@@ -42,7 +42,12 @@ class Mutashabihat {
     this.words = null;    // { "s:a": [diacritized words] }
     this.loaded = false;
 
-    this.mode = 'browse'; // 'browse' | 'tricky' | 'practice' | 'groups'
+    this.mode = 'browse'; // 'browse' | 'find' | 'tricky' | 'practice' | 'groups'
+    /* Find mode: query = an ayah (whole, or the word range sel = [i, j]) or
+     * typed Arabic text, matched against every verse of the Quran. */
+    this.find = { surah: 2, ayah: 2, sel: null, pick: null, text: '', match: 'shared', shown: 50 };
+    this.normWords = null; // { "s:a": [normalized tokens] } — built on first find
+    this.skelWords = null; // { "s:a": [skeleton tokens] } — built on first typed find
     this.query = '';
     this.sort = 'ayah';   // 'ayah' | 'most'
     this.flashKey = null;
@@ -136,9 +141,16 @@ class Mutashabihat {
       }
       else if (e.target.id === 'mt-scope') { this.scope = e.target.value; this.query = ''; this.render(); }
       else if (e.target.id === 'mt-sort') { this.sort = e.target.value; this.updateResults(); }
+      else if (e.target.id === 'mt-f-surah') { this.setFindAyah(parseInt(e.target.value), 1); }
+      else if (e.target.id === 'mt-f-ayah') { this.setFindAyah(this.find.surah, parseInt(e.target.value)); }
     });
     this.container.addEventListener('input', (e) => {
       if (e.target.id === 'mt-search') { this.query = e.target.value; this.updateResults(); }
+      else if (e.target.id === 'mt-f-text') {
+        this.find.text = e.target.value;
+        clearTimeout(this._findTimer);
+        this._findTimer = setTimeout(() => { this.find.match = this.defaultMatch(); this.find.shown = 50; this.updateFind(); }, 250);
+      }
     });
     this.container.addEventListener('click', (e) => {
       if (e.target.closest('[data-mt-toggle-intro]')) {
@@ -153,6 +165,33 @@ class Mutashabihat {
 
       const gv = e.target.closest('[data-mt-group-view]');
       if (gv) { this.openGroupViewer(gv.getAttribute('data-mt-group-view')); return; }
+
+      /* --- find mode --- */
+      const fstart = e.target.closest('[data-mt-find]');
+      if (fstart) {
+        const [s, a] = fstart.getAttribute('data-mt-find').split(':').map(Number);
+        this.find.text = '';
+        this.mode = 'find';
+        this.setFindAyah(s, a, true);
+        this.render();
+        window.scrollTo({ top: this.container.getBoundingClientRect().top + window.scrollY - 80, behavior: 'smooth' });
+        return;
+      }
+      const fw = e.target.closest('[data-mt-fw]');
+      if (fw) { this.pickWord(parseInt(fw.getAttribute('data-mt-fw'))); return; }
+      if (e.target.closest('[data-mt-f-whole]')) {
+        this.find.sel = null; this.find.pick = null; this.find.match = this.defaultMatch(); this.find.shown = 50;
+        this.updateFind(); return;
+      }
+      if (e.target.closest('[data-mt-f-clear]')) {
+        this.find.text = ''; this.find.match = this.defaultMatch(); this.find.shown = 50;
+        const ti = this.container.querySelector('#mt-f-text'); if (ti) ti.value = '';
+        this.updateFind(); return;
+      }
+      const fm = e.target.closest('[data-mt-f-match]');
+      if (fm) { this.find.match = fm.getAttribute('data-mt-f-match'); this.find.shown = 50; this.updateFind(); return; }
+      if (e.target.closest('[data-mt-f-more]')) { this.find.shown += 50; this.updateFind(); return; }
+      if (e.target.closest('[data-mt-f-timeline]')) { this.openFindTimeline(); return; }
 
       const chip = e.target.closest('[data-mt-ref]');
       if (chip && typeof ayahModal !== 'undefined' && ayahModal) {
@@ -519,9 +558,289 @@ class Mutashabihat {
       </div>`;
   }
 
+  /* ---------- find similar (whole Quran) ----------
+   * The browse index only holds precomputed runs of >= 4 identical words.
+   * Find searches live, over all 6236 verses, for any query: a whole ayah, a
+   * part of one (tap its first and last word), or typed Arabic. Three ways to
+   * match, each with its count shown:
+   *   exact  — the query appears word for word;
+   *   close  — the query appears with a few words different (token edit
+   *            distance, Sellers' approximate substring match);
+   *   shared — the verse shares a run of >= 3 consecutive words with it.
+   * An ayah query compares normalized tokens (the same rule as
+   * quran-tokens.json). Typed text compares a looser skeleton (no alef,
+   * hamza seats folded, ة→ه, ى→ي) so plain spelling still finds the Uthmani
+   * rasm (العالمين finds ٱلْعَٰلَمِينَ). */
+
+  normTok(w) {
+    return (typeof QuranData !== 'undefined' && QuranData.normalizeWord)
+      ? QuranData.normalizeWord(w)
+      : String(w).replace(/[ً-ٰٟۖ-ۭ࣓-ࣿـ]/g, '').replace(/[آأإٱ]/g, 'ا');
+  }
+  skelTok(w) {
+    return this.normTok(w).replace(/ة/g, 'ه').replace(/ى/g, 'ي')
+      .replace(/ؤ/g, 'و').replace(/ئ/g, 'ي').replace(/[ءا]/g, '')
+      .replace(/[^ء-ي]/g, '');
+  }
+  ensureFindData(skel) {
+    if (!this.normWords) {
+      this.normWords = {};
+      for (const k in this.words) this.normWords[k] = this.words[k].map(w => this.normTok(w));
+    }
+    if (skel && !this.skelWords) {
+      this.skelWords = {};
+      for (const k in this.words) this.skelWords[k] = this.words[k].map(w => this.skelTok(w));
+    }
+  }
+
+  setFindAyah(s, a, keepMatch) {
+    const info = SURAH_DATA.find(x => x.number === s);
+    this.find.surah = s;
+    this.find.ayah = Math.min(Math.max(1, a || 1), info ? info.ayahCount : 1);
+    this.find.sel = null; this.find.pick = null; this.find.shown = 50;
+    if (!keepMatch || !this.find.text) this.find.match = this.defaultMatch();
+    const as = this.container.querySelector('#mt-f-ayah');
+    if (as && as.getAttribute('data-surah') !== String(s)) { this.render(); return; }
+    if (as) as.value = String(this.find.ayah);
+    this.updateFind();
+  }
+
+  /** Tap 1 marks a word, tap 2 closes the range (either direction). */
+  pickWord(i) {
+    const f = this.find;
+    if (f.pick === null) { f.sel = [i, i]; f.pick = i; }
+    else { f.sel = [Math.min(f.pick, i), Math.max(f.pick, i)]; f.pick = null; }
+    f.match = this.defaultMatch(); f.shown = 50;
+    this.updateFind();
+  }
+
+  /** The current query: { key, tokens, typed } or null. */
+  findQuery() {
+    const f = this.find;
+    const typed = (f.text || '').trim();
+    if (typed) {
+      const tokens = typed.split(/\s+/).map(w => this.skelTok(w)).filter(Boolean);
+      return { key: null, tokens, typed: true };
+    }
+    const key = f.surah + ':' + f.ayah;
+    this.ensureFindData(false);
+    const all = this.normWords[key] || [];
+    const tokens = f.sel ? all.slice(f.sel[0], f.sel[1] + 1) : all;
+    return { key, tokens, typed: false };
+  }
+
+  /** Short query → exact; a long one (a whole ayah) → shared runs. */
+  defaultMatch() {
+    const q = this.findQuery();
+    return q && q.tokens.length >= 8 ? 'shared' : 'exact';
+  }
+
+  /** Allowed differing words for a close match of an n-word query. */
+  closeK(n) { return n < 4 ? 0 : n < 8 ? 1 : n < 15 ? 2 : Math.floor(n / 6); }
+
+  /** First exact occurrence of Q in V, or -1. */
+  exactAt(Q, V) {
+    outer: for (let j = 0; j + Q.length <= V.length; j++) {
+      for (let i = 0; i < Q.length; i++) if (V[j + i] !== Q[i]) continue outer;
+      return j;
+    }
+    return -1;
+  }
+
+  /** Best approximate occurrence of Q in V within k edits: {start, end, dist} or null. */
+  approxAt(Q, V, k) {
+    const n = Q.length, m = V.length;
+    let prev = new Array(m + 1).fill(0), prevS = Array.from({ length: m + 1 }, (_, j) => j);
+    let cur = new Array(m + 1), curS = new Array(m + 1);
+    for (let i = 1; i <= n; i++) {
+      cur[0] = i; curS[0] = 0;
+      let rowMin = i;
+      for (let j = 1; j <= m; j++) {
+        let d = prev[j - 1] + (Q[i - 1] === V[j - 1] ? 0 : 1), s = prevS[j - 1];
+        if (prev[j] + 1 < d) { d = prev[j] + 1; s = prevS[j]; }
+        if (cur[j - 1] + 1 < d) { d = cur[j - 1] + 1; s = curS[j - 1]; }
+        cur[j] = d; curS[j] = s;
+        if (d < rowMin) rowMin = d;
+      }
+      if (rowMin > k) return null; // the row minimum never decreases
+      [prev, cur] = [cur, prev]; [prevS, curS] = [curS, prevS];
+    }
+    let best = -1;
+    for (let j = 1; j <= m; j++) if (prev[j] <= k && (best < 0 || prev[j] < prev[best])) best = j;
+    return best < 0 ? null : { start: prevS[best], end: best, dist: prev[best] };
+  }
+
+  /** Longest run of consecutive words shared by Q and V: {start, len} (start in V). */
+  sharedRun(Q, V) {
+    let best = 0, at = 0;
+    let prev = new Array(V.length + 1).fill(0), cur = new Array(V.length + 1).fill(0);
+    for (let i = 1; i <= Q.length; i++) {
+      for (let j = 1; j <= V.length; j++) {
+        cur[j] = Q[i - 1] === V[j - 1] ? prev[j - 1] + 1 : 0;
+        if (cur[j] > best) { best = cur[j]; at = j - best; }
+      }
+      [prev, cur] = [cur, prev]; cur.fill(0);
+    }
+    return { start: at, len: best };
+  }
+
+  /** All three result lists for the current query (cached per query). */
+  findResults() {
+    const q = this.findQuery();
+    if (!q || q.tokens.length < 2) return null;
+    const sig = (q.typed ? 't|' : 'a|' + q.key + '|') + q.tokens.join(' ');
+    if (this._findCache && this._findCache.sig === sig) return this._findCache;
+    this.ensureFindData(q.typed);
+    const src = q.typed ? this.skelWords : this.normWords;
+    const Q = q.tokens, n = Q.length, k = this.closeK(n), minRun = Math.min(3, n);
+    const exact = [], close = [], shared = [];
+    for (const key in src) {
+      if (key === q.key) continue;
+      const V = src[key];
+      if (!V.length) continue;
+      const e = this.exactAt(Q, V);
+      if (e >= 0) exact.push({ key, start: e, len: n, dist: 0 });
+      const a = e >= 0 ? { start: e, end: e + n, dist: 0 } : (k ? this.approxAt(Q, V, k) : null);
+      if (a) close.push({ key, start: a.start, len: a.end - a.start, dist: a.dist });
+      const r = this.sharedRun(Q, V);
+      if (r.len >= minRun) shared.push({ key, start: r.start, len: r.len, dist: n - r.len });
+    }
+    close.sort((x, y) => x.dist - y.dist);           // stable: mushaf order within a distance
+    shared.sort((x, y) => y.len - x.len);
+    this._findCache = { sig, q, k, exact, close, shared, qset: new Set(Q) };
+    return this._findCache;
+  }
+
+  /** Verse HTML for a result: the matched span amber; in a close match, the
+   * span's words not in the query are rose (the differing words). */
+  findVerseHtml(r, res) {
+    const w = this.words[r.key] || [];
+    const toks = (res.q.typed ? this.skelWords : this.normWords)[r.key] || [];
+    return w.map((word, i) => {
+      if (i < r.start || i >= r.start + r.len) return this.esc(word);
+      const differs = r.dist > 0 && !res.qset.has(toks[i]);
+      return differs
+        ? `<span class="bg-rose-200 dark:bg-rose-500/30 rounded px-0.5">${this.esc(word)}</span>`
+        : `<span class="bg-amber-200 dark:bg-amber-500/30 rounded px-0.5">${this.esc(word)}</span>`;
+    }).join(' ');
+  }
+
+  findPickerHtml() {
+    const f = this.find;
+    if ((f.text || '').trim()) {
+      return `<div class="flex items-center justify-center gap-2 text-xs text-gray-500 dark:text-gray-400 mb-3">
+        <span>${this.tt('mt_find_typed')}</span>
+        <button data-mt-f-clear class="px-2 py-1 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">✕ ${this.tt('mt_find_clear')}</button>
+      </div>`;
+    }
+    const key = f.surah + ':' + f.ayah;
+    const w = this.words[key] || [];
+    const [a, b] = f.sel || [0, w.length - 1];
+    const words = w.map((word, i) => {
+      const on = i >= a && i <= b;
+      const pending = f.pick === i;
+      return `<button data-mt-fw="${i}" class="px-1 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-primary ${pending ? 'ring-2 ring-primary ' : ''}${on && f.sel ? 'bg-amber-200 dark:bg-amber-500/30' : 'hover:bg-gray-100 dark:hover:bg-gray-700'}">${this.esc(word)}</button>`;
+    }).join(' ');
+    return `
+      <div class="bg-white dark:bg-gray-800 rounded-xl shadow p-4 mb-3">
+        <div class="flex items-center gap-2 mb-2 text-xs text-gray-500 dark:text-gray-400">
+          <span>${this.esc(this.surahName(f.surah))} ${key}</span>
+          ${f.sel ? `<button data-mt-f-whole class="ms-auto px-2 py-1 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">${this.tt('mt_find_whole')}</button>` : ''}
+        </div>
+        <div class="ayah-arabic !text-2xl !leading-[2.4] !border-b-0 !pb-0" dir="rtl">${words}</div>
+        <p class="text-xs text-gray-400 dark:text-gray-500 mt-2">${f.pick !== null ? this.tt('mt_find_tap_end') : this.tt('mt_find_tap_hint')}</p>
+      </div>`;
+  }
+
+  findHtml() {
+    const res = this.findResults();
+    const picker = this.findPickerHtml();
+    if (!res) return picker + `<div class="text-center py-8 text-gray-400">${this.tt('mt_find_min')}</div>`;
+    const f = this.find;
+    const n = res.q.tokens.length;
+    const btn = (m, label, count) => `
+      <button data-mt-f-match="${m}" class="px-3 py-1.5 rounded-lg text-sm border transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-primary ${f.match === m ? 'bg-primary text-white border-primary' : 'border-gray-200 dark:border-gray-700 hover:border-primary'}">${label} <span class="opacity-70">${count}</span></button>`;
+    if (f.match === 'close' && !res.k) f.match = 'exact';
+    const list = res[f.match] || [];
+    const shown = list.slice(0, f.shown);
+    const cards = shown.map(r => {
+      const [s, a] = r.key.split(':');
+      const badge = f.match === 'shared'
+        ? `${r.len} ${this.tt('mt_words')}`
+        : (r.dist ? `${r.dist} ${this.tt('mt_find_diff')}` : this.tt('mt_find_exact'));
+      const phrase = (this.words[r.key] || []).slice(r.start, r.start + r.len).join(' ');
+      return `
+        <div class="bg-white dark:bg-gray-800 rounded-xl shadow p-4">
+          <div class="flex items-center gap-2 mb-2 text-sm text-gray-500 dark:text-gray-400">
+            <span class="ayah-number">${a}</span>
+            <span>${this.esc(this.surahName(s))} · ${r.key}</span>
+            <span class="text-[0.7rem] text-amber-600 dark:text-amber-400">${badge}</span>
+            <div class="ms-auto flex items-center gap-1">
+              <button data-mt-find="${r.key}" title="${this.tt('mt_find')}" class="px-2 py-1.5 rounded-lg text-xs text-gray-400 hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🔍</button>
+              <button data-mt-ref="${r.key}" data-mt-phrase="${this.esc(phrase)}" class="px-2 py-1.5 -me-2 rounded-lg text-xs text-primary dark:text-blue-400 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">${this.tt('preview')} ↗</button>
+            </div>
+          </div>
+          <div class="ayah-arabic !text-2xl !leading-[2.4] !border-b-0 !pb-0" dir="rtl">${this.findVerseHtml(r, res)}</div>
+        </div>`;
+    }).join('');
+    return `${picker}
+      <div class="flex flex-wrap items-center justify-center gap-2 mb-1">
+        ${btn('exact', this.tt('mt_find_exact'), res.exact.length)}
+        ${res.k ? btn('close', this.tt('mt_find_close'), res.close.length) : ''}
+        ${btn('shared', this.tt('mt_find_shared'), res.shared.length)}
+      </div>
+      <p class="text-xs text-gray-400 dark:text-gray-500 text-center mb-3">${
+        f.match === 'close' ? this.tt('mt_find_close_d').replace('{k}', res.k)
+        : f.match === 'shared' ? this.tt('mt_find_shared_d') : this.tt('mt_find_exact_d')} · ${n} ${this.tt('mt_words')}</p>
+      ${list.length ? `<div class="flex justify-center mb-3"><button data-mt-f-timeline class="px-3 py-1.5 rounded-lg bg-primary/10 text-primary dark:bg-primary/20 text-xs font-medium hover:bg-primary/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🕐 ${this.tt('mt_group_open_all')} · ${list.length}</button></div>` : ''}
+      <div class="space-y-3">${cards || `<div class="text-center py-8 text-gray-400">${this.tt('mt_no_match')}</div>`}</div>
+      ${list.length > f.shown ? `<div class="flex justify-center mt-3"><button data-mt-f-more class="px-4 py-2 rounded-lg border border-gray-200 dark:border-gray-700 text-sm hover:border-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">${this.tt('mt_find_more')} (${list.length - f.shown})</button></div>` : ''}`;
+  }
+
+  /** Static find controls (kept out of #mt-results so typing keeps focus). */
+  findToolsHtml() {
+    const f = this.find, lang = this.language;
+    const info = SURAH_DATA.find(x => x.number === f.surah);
+    const ayahOpts = Array.from({ length: info ? info.ayahCount : 1 }, (_, i) =>
+      `<option value="${i + 1}" ${i + 1 === f.ayah ? 'selected' : ''}>${this.tt('ayah')} ${i + 1}</option>`).join('');
+    return `
+      <p class="text-xs text-gray-500 dark:text-gray-400 text-center mb-2">${this.tt('mt_find_desc')}</p>
+      <div class="flex flex-wrap items-center justify-center gap-2 mb-3">
+        <select id="mt-f-surah" aria-label="${this.tt('select_surah')}" class="px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm max-w-[14rem]">
+          ${SURAH_DATA.map(s => `<option value="${s.number}" ${s.number === f.surah ? 'selected' : ''}>${this.esc(formatSurahOption(s, lang))}</option>`).join('')}
+        </select>
+        <select id="mt-f-ayah" data-surah="${f.surah}" aria-label="${this.tt('ayah')}" class="px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm">${ayahOpts}</select>
+        <input id="mt-f-text" type="search" dir="rtl" lang="ar" value="${this.esc(f.text)}" placeholder="${this.tt('mt_find_type_ph')}" aria-label="${this.tt('mt_find_type_ph')}"
+          class="px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm w-56">
+      </div>`;
+  }
+
+  updateFind() { if (this.mode === 'find') this.updateResults(); }
+
+  /** The query verse (when an ayah) + every result, matched spans marked. */
+  openFindTimeline() {
+    const res = this.findResults();
+    if (!res || typeof ayahTimeline === 'undefined') return;
+    const list = res[this.find.match] || [];
+    const marks = {};
+    for (const r of list) marks[r.key] = Array.from({ length: r.len }, (_, i) => r.start + i + 1);
+    const refs = list.map(r => r.key);
+    if (res.q.key) {
+      const all = this.words[res.q.key] || [];
+      const [a, b] = this.find.sel || [0, all.length - 1];
+      marks[res.q.key] = Array.from({ length: b - a + 1 }, (_, i) => a + i + 1);
+      refs.unshift(res.q.key);
+    }
+    const title = res.q.key
+      ? `${this.surahName(this.find.surah)} ${res.q.key} — ${this.tt('mt_find')}`
+      : `${this.tt('mt_find')}: ${this.find.text.trim()}`;
+    ayahTimeline.open({ title, refs, marks });
+  }
+
   /* ---------- browse / tricky results ---------- */
   resultsHtml() {
     if (this.mode === 'practice') return this.practiceHtml();
+    if (this.mode === 'find') return this.findHtml();
     if (this.mode === 'groups') return this.curatedGroupsHtml();
     if (this.mode === 'tricky') {
       const keys = [...this.tricky].filter(k => (this.index || {})[k])
@@ -596,11 +915,13 @@ class Mutashabihat {
         ${this.introHtml()}
         <div class="flex flex-wrap items-center justify-center gap-2 mb-3">
           ${tab('browse', this.tt('mt_browse'))}
+          ${tab('find', '🔍 ' + this.tt('mt_find'))}
           ${tab('groups', '📚 ' + this.tt('mt_groups'))}
           ${tab('practice', '🎯 ' + this.tt('mt_practice'))}
           ${tab('tricky', '⭐ ' + this.tt('mt_review_tricky'), trickyN || '')}
         </div>
         ${browseTools}
+        ${this.mode === 'find' ? this.findToolsHtml() : ''}
         ${this.mode === 'browse' ? `<p class="text-xs text-gray-400 dark:text-gray-500 text-center mb-4">${this.tt('mutashabihat_hint')}</p>` : ''}
         <div id="mt-results" class="space-y-3">${this.resultsHtml()}</div>
       </div>`;
@@ -643,6 +964,8 @@ class Mutashabihat {
           <div class="ms-auto flex items-center gap-1">
             <button data-mt-tricky="${key}" title="${this.tt('mt_tricky')}" aria-pressed="${tricky}"
               class="px-2 py-1.5 rounded-lg text-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-primary ${tricky ? 'text-amber-500' : 'text-gray-300 dark:text-gray-600 hover:text-amber-400'}">${tricky ? '★' : '☆'}</button>
+            <button data-mt-find="${key}" title="${this.tt('mt_find')}"
+              class="px-2 py-1.5 rounded-lg text-xs text-gray-400 hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">🔍</button>
             <button data-mt-copy="${key}" data-label="⧉" title="${this.tt('copy')}"
               class="px-2 py-1.5 rounded-lg text-xs text-gray-400 hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">⧉</button>
             <button data-mt-open="${key}" class="px-2 py-1.5 -me-2 rounded-lg text-xs text-primary dark:text-blue-400 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">${this.tt('preview')} ↗</button>
