@@ -106,5 +106,153 @@ Object.assign(TADABBUR_ARTICLES, {
         ]
       }
     ]
+  },
+  "86:6": {
+    "sections": [
+      {
+        "h": {
+          "en": "The Reply in Four Words",
+          "bn": "চার শব্দের জবাব"
+        },
+        "p": [
+          {
+            "en": "Khuliqa min ma'in dafiq: he was created from a fluid, gushing. Four Arabic words. The verse before ends on a question, mimma khuliq, from what was he created, and this verse is the reply. Al-Qurtubi says so in as many words: khuliqa, he writes, is the answer to the question. As-Sa'di opens his comment with fa-innahu makhluq, for he is created, a small 'for' that leans back on the command to look, and then names the fluid in one word: al-mani.",
+            "bn": "খুলিকা মিন মা-ইন দাফিক: তাকে সৃষ্টি করা হয়েছে সবেগে বের হওয়া পানি থেকে। আরবিতে মাত্র চারটি শব্দ। আগের আয়াত শেষ হয়েছিল একটা প্রশ্নে, মিম্মা খুলিক, কী থেকে তাকে সৃষ্টি করা হয়েছে? এ আয়াত সেই প্রশ্নেরই জবাব। কুরতুবী কথাটা সরাসরি বলেন: খুলিকা হলো প্রশ্নের উত্তর। সা'দী তাঁর ব্যাখ্যা শুরু করেন ফা-ইন্নাহু মাখলূক দিয়ে, অর্থাৎ কারণ সে সৃষ্ট। এই ছোট্ট 'কারণ' শব্দটা পেছনের আয়াতের দেখার আদেশের সঙ্গে জোড়া লাগে। তারপর তিনি এক শব্দে পানিটার নাম বলেন: আল-মানী, বীর্য।"
+          },
+          {
+            "en": "The verb khuliqa is passive: he was created, with the doer left unnamed, and the subject of the sentence is the one acted upon. Dafiq is an active participle describing the water. English renderings already part ways over it. The app's English translation has a fluid, ejected; the abridged English of Ibn Kathir has a water gushing forth; Ma'arif al-Qur'an has a spouting water. Those differences are not careless. They reflect a question of grammar that the commentators raise themselves, and the article returns to it below.",
+            "bn": "খুলিকা ক্রিয়াটি কর্মবাচ্যে: তাকে সৃষ্টি করা হয়েছে, কে করেছেন তা এখানে বলা হয়নি। বাক্যের কর্তা যে, সে আসলে কাজটা গ্রহণকারী। দাফিক কর্তৃবাচক বিশেষণ, পানির গুণ বলছে। ইংরেজি অনুবাদগুলো এখানেই আলাদা হয়ে যায়। এই অ্যাপের ইংরেজি অনুবাদে আছে বের করে দেওয়া পানি, ইবন কাসীরের সংক্ষিপ্ত ইংরেজিতে সবেগে বেরিয়ে আসা পানি, মাআরিফুল কুরআনে ছিটকে বের হওয়া পানি। এ পার্থক্য অসাবধানতার ফল নয়। এর পেছনে ব্যাকরণের একটা প্রশ্ন আছে, যা মুফাসসিররা নিজেরাই তুলেছেন। লেখার সামনের অংশে সে প্রশ্নে আবার ফিরব।"
+          },
+          {
+            "en": "The companion article on 86:5 has already set this verse beside 32:8 and 77:20, discussed the plain register in which the Qur'an names this beginning, and followed the argument forward to the return promised in 86:8. None of that is repeated here. This article stays with the four words themselves: what the commentators fetched for this verse say the water is, whose it is, and what kind of word dafiq is, with each reading kept under its own name.",
+            "bn": "৮৬:৫ আয়াতের সঙ্গী লেখায় এ আয়াতকে ৩২:৮ ও ৭৭:২০ আয়াতের পাশে রেখে দেখা হয়েছে। মানুষের শুরুর কথা কুরআন যে সাদামাটা ভাষায় বলে, সেটা নিয়েও কথা হয়েছে, আর যুক্তিটাকে অনুসরণ করা হয়েছে ৮৬:৮ আয়াতের ফিরিয়ে আনার প্রতিশ্রুতি পর্যন্ত। সেসব এখানে আর বলা হবে না। এই লেখা থাকবে চারটি শব্দের ভেতরেই। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, সেগুলো পানিটাকে কী বলে, পানিটা কার, আর দাফিক কেমন শব্দ, সেটুকুই। প্রতিটি মত থাকবে যাঁর মত, তাঁর নামে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Naming the Fluid Plainly",
+          "bn": "পানিটার সোজা নাম"
+        },
+        "p": [
+          {
+            "en": "What is the water? As-Sa'di, al-Baghawi, al-Qurtubi and Ibn Kathir all answer with the same word, al-mani. As-Sa'di stops there. Al-Baghawi adds masbub fi al-rahim, poured into the womb, and al-Qurtubi reports that same gloss from al-Farra' and al-Akhfash. The Muyassar, which paraphrases 86:5 to 86:8 as one passage, writes of mani poured swiftly into the womb. Ibn Kathir describes it as coming out dafqan, in a gush, which is simply the verbal noun of the verse's own word.",
+            "bn": "পানিটা কী? সা'দী, বাগাভী, কুরতুবী ও ইবন কাসীর সবাই একই শব্দে উত্তর দেন: আল-মানী। সা'দী সেখানেই থামেন। বাগাভী যোগ করেন মাসবূব ফির রাহিম, অর্থাৎ জরায়ুতে ঢেলে দেওয়া। কুরতুবী এই একই ব্যাখ্যা উদ্ধৃত করেন ফাররা ও আখফাশ থেকে। মুয়াসসার ৮৬:৫ থেকে ৮৬:৮ পর্যন্ত আয়াতগুলোকে এক টানা অংশ হিসেবে ব্যাখ্যা করে। সেখানে আছে দ্রুত বেগে জরায়ুতে ঢেলে দেওয়া বীর্যের কথা। ইবন কাসীর বলেন, তা বের হয় দাফকান, অর্থাৎ সবেগে। শব্দটা আয়াতের নিজের শব্দেরই ক্রিয়াবিশেষ্য।"
+          },
+          {
+            "en": "At-Tabari, in the text filed under this verse, does not name the substance at all. He restates the phrase as min ma'in madfuq, from a water poured, and spends the rest of his comment on grammar. What stands out across all of them is how little they say. Each gives a line or two, in ordinary words, and moves on. Nobody dwells, and nobody turns coy. This article follows the same discipline: what the commentators say, in the words they use, and nothing added.",
+            "bn": "তাবারীর যে লেখাটা এ আয়াতের ঘরে রাখা আছে, সেখানে তিনি জিনিসটার নামই নেন না। বাক্যাংশটাকে নতুন করে বলেন মিন মা-ইন মাদফূক, ঢেলে দেওয়া পানি থেকে। বাকি আলোচনা পুরোটাই ব্যাকরণ নিয়ে। সবার লেখায় একটা জিনিস চোখে পড়ে: তাঁরা কত কম বলেন। প্রত্যেকে এক-দুই লাইন লেখেন, সাধারণ ভাষায়, তারপর এগিয়ে যান। কেউ বিষয়টা টেনে লম্বা করেন না, আবার লজ্জায় এড়িয়েও যান না। এই লেখাও সেই নিয়ম মেনে চলবে। মুফাসসিররা যা বলেন, যে ভাষায় বলেন, ততটুকুই। নিজের থেকে কিছু যোগ হবে না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Two Waters, Named as One",
+          "bn": "দুই পানি, এক নামে"
+        },
+        "p": [
+          {
+            "en": "Whose water is it? Ibn Kathir's Arabic answers in one sentence: it comes out in a gush from the man and from the woman, and the child is generated from the two of them bi-idhni Allah, by the permission of Allah, mighty and majestic is He. The abridged English keeps the sense: the child is produced from both of them by the permission of Allah. The closing words matter. Both parents are named, and the outcome is still placed under His leave.",
+            "bn": "পানিটা কার? ইবন কাসীরের আরবি এক বাক্যে উত্তর দেয়: তা সবেগে বের হয় পুরুষ থেকে এবং নারী থেকে, আর দুজনের কাছ থেকে সন্তান জন্ম নেয় বি-ইযনিল্লাহ, মহান ও প্রতাপশালী আল্লাহর অনুমতিতে। সংক্ষিপ্ত ইংরেজিতেও কথাটা একই থাকে: দুজন থেকেই সন্তান তৈরি হয় আল্লাহর অনুমতিতে। শেষ কথাগুলোর ওজন আছে। বাবা-মা দুজনের নামই এসেছে, তবু ফলটা রাখা হয়েছে তাঁর অনুমতির অধীনে।"
+          },
+          {
+            "en": "Al-Qurtubi and al-Baghawi say the same and then explain why the verse uses a singular noun. Al-Qurtubi: arada ma'ayn, He meant two waters, the water of the man and the water of the woman, because the human being is created from both, but He made them one water li-mtizajihima, because the two mix. Al-Baghawi says it in nearly the same words: the child is created from both, and He made it one because they mix. The singular, on their reading, describes a joining.",
+            "bn": "কুরতুবী ও বাগাভীও একই কথা বলেন, তারপর ব্যাখ্যা দেন আয়াতে একবচন কেন। কুরতুবী লেখেন: আরাদা মা-আইন, আল্লাহ দুই পানি বুঝিয়েছেন, পুরুষের পানি ও নারীর পানি, কারণ মানুষ দুটো থেকেই সৃষ্টি। তবে দুটোকে এক পানি বলেছেন লি-ইমতিযাজিহিমা, কারণ দুটো মিশে যায়। বাগাভীও প্রায় একই ভাষায় বলেন: সন্তান দুজন থেকেই সৃষ্টি, মিশে যায় বলে তাকে এক বলা হয়েছে। তাঁদের পাঠে একবচন শব্দটা আসলে একটা মিলনের ছবি।"
+          },
+          {
+            "en": "One gloss is absent. None of the texts fetched for this verse limits the water to the man's alone. As-Sa'di names al-mani without saying whose it is, and at-Tabari's comment here does not take the question up. So the reading of both waters is stated by Ibn Kathir, al-Qurtubi and al-Baghawi, and where a commentator is silent this article leaves him silent rather than guessing what he would have said.",
+            "bn": "একটা ব্যাখ্যা এখানে নেই। এ আয়াতের জন্য যে লেখাগুলো আনা হয়েছে, তার কোনোটাই পানিটাকে শুধু পুরুষের বলে সীমিত করে না। সা'দী আল-মানী বলেছেন, কার তা বলেননি। তাবারীর এখানকার লেখা এ প্রশ্নে যায়ইনি। কাজেই দুই পানির কথা স্পষ্ট করে বলেছেন ইবন কাসীর, কুরতুবী ও বাগাভী। যেখানে কোনো মুফাসসির চুপ, এ লেখা তাঁকে চুপই থাকতে দেয়। তিনি কী বলতেন, তা আন্দাজ করে বসিয়ে দেয় না।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "A Doer's Form, a Receiver's Sense",
+          "bn": "রূপে কর্তা, অর্থে কর্ম"
+        },
+        "p": [
+          {
+            "en": "Now the word itself. Dafiq has the pattern fa'il, the form Arabic uses for the doer of an action. Yet the water does not obviously pour itself. At-Tabari meets this directly. He glosses dafiq as madfuq, poured, and says it is among the words the Arabs bring out in the form of fa'il while it carries the meaning of maf'ul, the thing acted upon. He adds, under 'it is said', that the people of the Hijaz use this most, when the word serves as a description.",
+            "bn": "এবার শব্দটা নিজেই। দাফিক এসেছে ফা'ইল ছাঁচে, আরবিতে যে ছাঁচ কাজটা যে করে তার জন্য। অথচ পানি নিজে নিজেকে ঢালে, এমন তো সহজে বলা যায় না। তাবারী সমস্যাটার মুখোমুখি হন সরাসরি। তিনি দাফিকের অর্থ করেন মাদফূক, ঢেলে দেওয়া। তাঁর কথায়, আরবরা কিছু শব্দ ফা'ইল রূপে বলে, কিন্তু অর্থ থাকে মাফ'ঊলের, অর্থাৎ যার উপর কাজটা ঘটে। 'বলা হয়' কথাটি জুড়ে তিনি যোগ করেন, হিজাযের লোকেরাই এর ব্যবহার সবচেয়ে বেশি করে, যখন শব্দটা গুণবাচক হিসেবে আসে।"
+          },
+          {
+            "en": "His examples are sirrun katim and hammun nasib, phrases built the same way. Al-Qurtubi uses the first of them and spells it out: sirrun katim means maktum, a secret that is kept, not one that keeps. He defines al-dafq as the pouring of water, gives the verb in the first person, dafaqtu al-ma'a, I poured the water, and so ma'un dafiq means madfuq. He traces it to the verb used in the form whose doer is not named.",
+            "bn": "তাবারীর উদাহরণ সিররুন কাতিম ও হাম্মুন নাসিব, একই ধাঁচে গড়া দুটি কথা। কুরতুবী প্রথমটি ব্যবহার করে খুলে বলেন: সিররুন কাতিম মানে মাকতূম, গোপন রাখা রহস্য, যে রহস্য নিজে কিছু গোপন রাখে তা নয়। তিনি আদ-দাফককে সংজ্ঞায়িত করেন পানি ঢালা হিসেবে। ক্রিয়াটা দেন উত্তম পুরুষে, দাফাকতুল মা-আ, আমি পানি ঢাললাম। কাজেই মা-উন দাফিক মানে মাদফূক। শব্দটার মূল তিনি খোঁজেন সেই ক্রিয়ায়, যার কর্তার নাম নেওয়া হয় না।"
+          },
+          {
+            "en": "Al-Baghawi reaches the same place with an example from the Qur'an. He writes madfuq, poured into the womb, and then: fa'il bi-ma'na maf'ul, an active form with a passive sense, ka-qawlihi, like His words 'ishatin radiyah in 69:21, meaning mardiyyah. Read that way, the life in 69:21 is not itself pleased; it is a life found pleasing. So too, on this reading, the water in 86:6 is not doing the pouring. It is poured.",
+            "bn": "বাগাভী একই জায়গায় পৌঁছান কুরআনের একটা উদাহরণ দিয়ে। তিনি লেখেন মাদফূক, জরায়ুতে ঢেলে দেওয়া। তারপর বলেন: ফা'ইল বি-মা'না মাফ'ঊল, রূপে কর্তৃবাচক, অর্থে কর্মবাচক। যেমন আল্লাহর বাণী ৬৯:২১ আয়াতে 'ঈশাতির রাদিয়াহ, যার মানে মারদিয়্যাহ। এভাবে পড়লে ৬৯:২১ আয়াতের জীবনটা নিজে সন্তুষ্ট নয়, বরং এমন জীবন যা পছন্দনীয়। এই পাঠ অনুযায়ী ৮৬:৬ আয়াতের পানিও ঢালছে না, তাকে ঢালা হচ্ছে।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Or Water With Its Own Rush",
+          "bn": "নাকি নিজের বেগে ছোটা পানি"
+        },
+        "p": [
+          {
+            "en": "Al-Qurtubi does not leave it there. He reports a second account from az-Zajjaj: min ma'in dhi indifaq, from a water possessed of a gushing. The model is a set of words like dari', faris and nabil, which mean the man with armour, the man with a horse, the man with arrows. The pattern names someone who has a thing, not someone who does it. Al-Qurtubi calls this the school of Sibawayh, and draws the conclusion: the dafiq is what gushes out by the force of its strength.",
+            "bn": "কুরতুবী এখানেই থামেন না। তিনি যাজ্জাজ থেকে দ্বিতীয় একটা ব্যাখ্যা আনেন: মিন মা-ইন যী ইনদিফাক, এমন পানি থেকে যার মধ্যে বেগ আছে। নমুনা হিসেবে আছে দারি', ফারিস ও নাবিলের মতো শব্দ। এদের মানে বর্মওয়ালা, ঘোড়াওয়ালা, তীরওয়ালা। এখানে ছাঁচটা বোঝায় যার কাছে জিনিসটা আছে, যে কাজটা করছে তাকে নয়। কুরতুবী একে সিবাওয়াইহির মত বলে উল্লেখ করেন। তারপর সিদ্ধান্ত টানেন: দাফিক হলো যা নিজের শক্তির জোরে সবেগে বেরিয়ে আসে।"
+          },
+          {
+            "en": "So the commentators give two grammars for one word. On the first, from at-Tabari and al-Baghawi, and from al-Farra' and al-Akhfash as al-Qurtubi reports them, dafiq is active in form and passive in sense: poured. On the second, from az-Zajjaj in the school of Sibawayh, it describes water that has a rush of its own. Al-Qurtubi records both. This article keeps both and chooses neither. The difference is about how the word works; on what the water is, they agree.",
+            "bn": "তাহলে একটি শব্দের জন্য দুই রকম ব্যাকরণ। প্রথম মতে দাফিক রূপে কর্তৃবাচক, অর্থে কর্মবাচক, মানে ঢেলে দেওয়া। এ মত তাবারী ও বাগাভীর, আর কুরতুবীর বর্ণনায় ফাররা ও আখফাশেরও। দ্বিতীয় মত যাজ্জাজের, সিবাওয়াইহির ধারায়। সেখানে শব্দটা বোঝায় এমন পানি, যার নিজেরই বেগ আছে। কুরতুবী দুটোই লিখে রেখেছেন। এই লেখাও দুটোই রাখে, কোনোটা বেছে নেয় না। মতভেদ শব্দটা কীভাবে কাজ করে তা নিয়ে। পানিটা কী, সে বিষয়ে তাঁরা একমত।"
+          },
+          {
+            "en": "Al-Qurtubi closes with two smaller notes. People say dafaqa Allahu ruhahu, may Allah pour out his soul, when praying for someone's death, which shows the verb at work outside this verse. And by way of 'Ikrimah from Ibn 'Abbas (RA) he records a single-word gloss of dafiq: lazij, thick or viscous. That gloss speaks of texture rather than motion. Al-Qurtubi gives it with those two names only and adds no comment, and it is reported here exactly as he gives it.",
+            "bn": "কুরতুবী শেষ করেন দুটি ছোট কথা দিয়ে। কারও মৃত্যু কামনা করে বদদোয়া দিতে লোকে বলে দাফাকাল্লাহু রূহাহু, অর্থাৎ আল্লাহ তার প্রাণ ঢেলে দিন। এতে বোঝা যায়, এ আয়াতের বাইরেও ক্রিয়াটা কীভাবে চলে। আর ইকরিমার সূত্রে ইবন আব্বাস (রাঃ) থেকে তিনি দাফিকের এক শব্দের ব্যাখ্যা উল্লেখ করেন: লাযিজ, ঘন বা আঠালো। এ ব্যাখ্যা নড়াচড়ার কথা বলে না, বলে গঠনের কথা। কুরতুবী শুধু এই দুই নাম দিয়ে কথাটা আনেন, কোনো মন্তব্য যোগ করেন না। এখানেও তা ঠিক সেভাবেই রাখা হলো।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Where the Four Words End",
+          "bn": "চার শব্দ যেখানে শেষ"
+        },
+        "p": [
+          {
+            "en": "The verse that follows, 86:7, says the water comes out from between the backbone and the ribs. That is its own verse, with its own questions, and here it is only named. Ma'arif al-Qur'an comments on 86:6 and 86:7 together, and nearly all of that comment, including what it reports from embryological research, concerns the place named in 86:7. It belongs with that verse and is left there, as is the Muyassar's and the abridged Ibn Kathir's reading of where the water comes from.",
+            "bn": "পরের আয়াত ৮৬:৭ বলে, পানিটা বের হয় মেরুদণ্ড ও পাঁজরের মাঝখান থেকে। সেটা আলাদা আয়াত, তার প্রশ্নও আলাদা। এখানে শুধু তার নাম নেওয়া হলো। মাআরিফুল কুরআন ৮৬:৬ ও ৮৬:৭ আয়াতের ব্যাখ্যা একসঙ্গে দেয়। সেই আলোচনার প্রায় পুরোটাই, ভ্রূণবিদ্যার গবেষণা থেকে সে যা উদ্ধৃত করে তা-সহ, ৮৬:৭ আয়াতে বলা জায়গাটা নিয়ে। ওটা সেই আয়াতেরই বিষয়, তাই সেখানেই রইল। পানিটা কোথা থেকে আসে, এ নিয়ে মুয়াসসার ও সংক্ষিপ্ত ইবন কাসীরের কথাও সেখানেই থাকল।"
+          },
+          {
+            "en": "None of the commentators fetched for 86:6 itself draws a scientific claim out of these four words, and this article adds none of its own. They explain a word, its grammar and whose water it is, in a line or two each, and stop. Nor does any of them attach a hadith of the Prophet ﷺ to this verse. The narrations in Ibn Kathir's grouped comment concern reciting the surah, the word tariq and the Day of 86:9, not this verse, and none is used here.",
+            "bn": "৮৬:৬ আয়াতের জন্য যে মুফাসসিরদের লেখা আনা হয়েছে, তাঁদের কেউ এই চার শব্দ থেকে কোনো বৈজ্ঞানিক দাবি বের করেন না। এ লেখাও নিজের থেকে তেমন কিছু যোগ করে না। তাঁরা এই চারটি শব্দের একটির অর্থ, তার ব্যাকরণ আর পানিটা কার, এটুকু এক-দুই লাইনে বলেন, তারপর থামেন। এ আয়াতের সঙ্গে তাঁদের কেউ নবী ﷺ-এর কোনো হাদীসও জুড়ে দেননি। ইবন কাসীরের সম্মিলিত আলোচনায় যে বর্ণনাগুলো আছে, সেগুলো সূরাটি তিলাওয়াত, তারিক শব্দটি আর ৮৬:৯ আয়াতের দিনটি নিয়ে, এ আয়াত নিয়ে নয়। তাই এখানে কোনোটাই নেওয়া হয়নি।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Created, and Not Consulted",
+          "bn": "সৃষ্ট, অথচ জিজ্ঞাসিত নয়"
+        },
+        "p": [
+          {
+            "en": "Set the grammar dispute beside the verb and something stands out. Whether dafiq means poured or rushing with its own force, khuliqa is passive. The person this verse describes is not the one acting. He did not choose his beginning, arrange it or agree to it. On the first reading even the water is acted upon; on the second it has force, but the force is not his. Either way, the sentence about his origin has him only as its object.",
+            "bn": "ব্যাকরণের মতভেদটাকে ক্রিয়াপদের পাশে রাখলে একটা জিনিস চোখে পড়ে। দাফিক মানে ঢেলে দেওয়া হোক বা নিজের জোরে ছোটা, খুলিকা কর্মবাচ্যেই থাকে। আয়াত যে মানুষের কথা বলছে, কাজটা সে করছে না। নিজের শুরু সে বাছেনি, সাজায়নি, তাতে সম্মতিও দেয়নি। প্রথম পাঠে পানিটার উপরও কাজ ঘটছে। দ্বিতীয় পাঠে পানির নিজের বেগ আছে, কিন্তু সে বেগ মানুষটার নয়। যেভাবেই পড়ুন, নিজের উৎসের কথা যে বাক্যে, সেখানে সে কেবল কর্ম, কর্তা নয়।"
+          },
+          {
+            "en": "Ibn Kathir's sentence adds the other half. The child comes from both parents, and it comes bi-idhni Allah, by the permission of Allah. The parents' part is real and both of them are named, yet the outcome rests on His leave. A reader who takes this in has a reason for two kinds of gratitude at once: to the Maker who permitted his existence, and to the two people through whom it came.",
+            "bn": "ইবন কাসীরের বাক্য বাকি অর্ধেকটা যোগ করে। সন্তান আসে বাবা-মা দুজনের কাছ থেকে, আর আসে বি-ইযনিল্লাহ, আল্লাহর অনুমতিতে। বাবা-মায়ের ভূমিকা সত্য, দুজনের কথাই বলা হয়েছে। তবু ফলটা নির্ভর করে তাঁর অনুমতির উপর। যে পাঠক কথাটা মনে গেঁথে নেন, তাঁর কাছে একসঙ্গে দুই রকম শোকরের কারণ থাকে। একটা সেই স্রষ্টার প্রতি, যিনি তাঁর অস্তিত্বের অনুমতি দিয়েছেন। আরেকটা সেই দুজন মানুষের প্রতি, যাঁদের মধ্য দিয়ে তিনি এসেছেন।"
+          }
+        ]
+      },
+      {
+        "h": {
+          "en": "Plain Speech About the Body",
+          "bn": "শরীর নিয়ে সাদা কথা"
+        },
+        "p": [
+          {
+            "en": "There is a lesson in the commentators' manner as well as their content. They speak of the human beginning without embarrassment and without excess. As-Sa'di needs one word. The others name the fluid, the womb and the two parents, and then turn to grammar. That is a model for speaking of the body at all: plainly, briefly and honestly, neither coarse nor evasive. The verse is Allah's own speech, recited in prayer, and nothing in it is shameful to say aloud.",
+            "bn": "মুফাসসিররা কী বলেন, তাতে যেমন শিক্ষা আছে, কীভাবে বলেন, তাতেও আছে। মানুষের শুরুর কথা তাঁরা বলেন লজ্জা ছাড়া, বাড়াবাড়িও ছাড়া। সা'দীর লেগেছে একটিমাত্র শব্দ। অন্যরা পানি, জরায়ু আর বাবা-মা দুজনের কথা বলে ব্যাকরণে চলে যান। শরীর নিয়ে কথা বলার এটাই নমুনা: সোজাসুজি, সংক্ষেপে, সততার সঙ্গে। অশালীনও নয়, এড়িয়ে যাওয়াও নয়। আয়াতটা আল্লাহর নিজের কালাম, নামাযে তিলাওয়াত হয়। এর কোনো কথাই মুখে আনতে লজ্জার নয়।"
+          },
+          {
+            "en": "And the verse still answers pride. Whatever a person has since made of himself, the honest answer to 'from what?' is these four words, given without ornament. The fitting response is not shame, since the Qur'an itself names this beginning, but a quieter estimate of oneself. Whoever was poured, or came in a rush he did not command, is in no position to call himself self-made. What remains is thanks to the Maker who formed him.",
+            "bn": "তবু আয়াতটা অহংকারের জবাব দেয়। পরে মানুষ নিজেকে যত কিছুই বানিয়ে থাকুক, 'কী থেকে?' প্রশ্নের সৎ উত্তর এই চারটি শব্দ, কোনো সাজসজ্জা ছাড়া। এর উপযুক্ত প্রতিক্রিয়া লজ্জা নয়, কারণ কুরআন নিজেই এই শুরুর নাম নিয়েছে। উপযুক্ত প্রতিক্রিয়া হলো নিজের সম্পর্কে একটু নরম হিসাব। যাকে ঢেলে দেওয়া হয়েছে, কিংবা যে এসেছে এমন বেগে যার উপর তার কোনো হুকুম ছিল না, সে নিজেকে স্বয়ম্ভূ বলতে পারে না। বাকি থাকে শুধু তাঁর শোকর, যিনি তাকে বানিয়েছেন।"
+          }
+        ]
+      }
+    ]
   }
 });
