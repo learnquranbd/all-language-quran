@@ -1,17 +1,404 @@
 {
  "id": "th-patience",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "Patience",
   "bn": "ধৈর্য ও সবর"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "What the Quran means by sabr, where it asks for it, how the prophets carried it, and what it holds for the patient.",
+  "bn": "কুরআন সবর বলতে কী বোঝায়, কোথায় তা চেয়েছে, নবীগণ কীভাবে তা বহন করেছেন, আর ধৈর্যশীলদের জন্য কী রাখা আছে।"
+ },
+ "intro": [
+  {
+   "en": "Sabr is one of the words the Quran returns to most often when it speaks of the inner life, and the ayat gathered here show how far it reaches. As-Sa‘di, on 2:153, defines it as holding the self back from what it dislikes, and divides it into three: patience upon obedience until it is done, patience away from sin until it is left, and patience under painful decrees without resentment. Ibn Kathir gives the same three on the same ayah, and adds that patience in worship carries more reward than patience in avoiding sin.",
+   "bn": "মনের ভেতরের জীবন নিয়ে কথা বলতে গিয়ে কুরআন যে শব্দগুলোতে বারবার ফিরে আসে, সবর তার একটি। এ পাতার আয়াতগুলো দেখায়, শব্দটার পরিধি কত বড়। আস-সাদি ২:১৫৩-এর ব্যাখ্যায় সবরের সংজ্ঞা দিয়েছেন: অপছন্দের জিনিসের সামনে নিজেকে আটকে রাখা। তারপর একে তিন ভাগ করেছেন: আল্লাহর আনুগত্যে সবর, যতক্ষণ না কাজটা আদায় হয়; গুনাহ থেকে সবর, যতক্ষণ না তা ছাড়া হয়; আর আল্লাহর কষ্টদায়ক ফয়সালায় সবর, যাতে মনে অসন্তোষ না জাগে। ইবনে কাসিরও একই আয়াতে এই তিন ভাগ এনেছেন, আর যোগ করেছেন: গুনাহ থেকে বাঁচার সবরের চেয়ে ইবাদতে লেগে থাকার সবরের সওয়াব বেশি।"
+  },
+  {
+   "en": "That definition rules out two misreadings. Patience is not passivity: the same word describes believers who did not weaken in battle, a father who saw through a lie, and a son who offered himself to a command. Nor is it only private: the Quran tells believers to counsel one another to it, and calls bearing harm with forgiveness one of the matters of resolve.",
+   "bn": "এই সংজ্ঞা দুটো ভুল ধারণাকে বাতিল করে দেয়। প্রথমত, সবর মানে হাত গুটিয়ে বসে থাকা নয়। একই শব্দে কুরআন বর্ণনা করেছে যুদ্ধে দুর্বল না হওয়া মুমিনদের, মিথ্যা ধরে ফেলা এক বাবাকে, আর আল্লাহর হুকুমের সামনে নিজেকে পেশ করা এক ছেলেকে। দ্বিতীয়ত, সবর শুধু একার ব্যাপার নয়। কুরআন মুমিনদের বলেছে একে অপরকে সবরের উপদেশ দিতে, আর কষ্ট সয়ে মাফ করে দেওয়াকে বলেছে দৃঢ় সংকল্পের কাজ।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "seek-help",
+   "title": {
+    "en": "Help sought through patience and prayer",
+    "bn": "সবর ও নামাজে সাহায্য চাওয়া"
+   },
+   "body": [
+    {
+     "en": "Twice in al-Baqarah the command comes to seek help through patience and prayer: first in a passage addressed to the Children of Israel (2:40-46), then to the believers at 2:153. Patience here is a means as well as an endurance; you lean on it to get somewhere. As-Sa‘di says on 2:45 that it helps in every affair, and uses the Prophet’s own words: whoever seeks to be patient, Allah makes him patient. Two later ayat, addressed to the Prophet ﷺ himself, show what that means in practice: patience comes from Allah, and glorifying Him is what makes it bearable.",
+     "bn": "আল-বাকারায় দুবার হুকুম এসেছে: সবর আর নামাজের মাধ্যমে সাহায্য চাও। প্রথমবার বনি ইসরাইলকে সম্বোধন করা অংশে (২:৪০ থেকে ৪৬), দ্বিতীয়বার মুমিনদের প্রতি, ২:১৫৩-তে। এখানে সবর শুধু সয়ে যাওয়া নয়, একটা অবলম্বনও; এর ওপর ভর দিয়েই মানুষ সামনে এগোয়। আস-সাদি ২:৪৫-এ বলেছেন, সবর সব কাজেই সাহায্য করে, আর সেখানে নবী ﷺ-এর কথাটা এনেছেন: যে সবর করার চেষ্টা করে, আল্লাহ তাকে সবর দান করেন। পরের দুটো আয়াত নবী ﷺ-কে সরাসরি বলা, আর সেগুলো কথাটাকে কাজের ভাষায় খুলে দেয়: সবর আসে আল্লাহর কাছ থেকে, আর তাঁর তাসবিহই সবরকে সহনীয় করে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:45",
+     "note": {
+      "en": "The ayah ends with a warning: it is heavy except for the humble. Ibn Kathir reports that Mujahid and Ibn Jarir took “it” to mean the prayer, and allows that it may mean the whole advice, patience and prayer together. As-Sa‘di explains why it is light for the humble: khushu‘, fear of Allah and hope in what He holds make the prayer something they want to do.",
+      "bn": "আয়াতের শেষে একটা সতর্কবাণী: এটা কঠিন, তবে বিনয়ীদের জন্য নয়। ইবনে কাসির জানিয়েছেন, মুজাহিদ ও ইবনে জারির ‘এটা’ বলতে নামাজ বুঝেছেন; আবার এমনও হতে পারে যে সবর আর নামাজ মিলিয়ে পুরো উপদেশটাই উদ্দেশ্য। বিনয়ীদের কাছে কেন হালকা, আস-সাদি তার কারণ বলেছেন: খুশু, আল্লাহর ভয় আর তাঁর কাছে যা আছে তার আশা নামাজকে তাদের কাছে আগ্রহের জিনিস বানিয়ে দেয়।"
+     }
+    },
+    {
+     "ref": "2:153",
+     "note": {
+      "en": "The same command, now to the believers, closes with: Allah is with the patient. As-Sa‘di separates two kinds of “with”. One is general, of knowledge and power, and covers every creature (57:4). The other is special: love, help, support and nearness, and this is what the patient are promised here. Had the patient no other merit, he says, this alone would be honour enough.",
+      "bn": "এবার একই হুকুম মুমিনদের প্রতি, শেষে ঘোষণা: আল্লাহ ধৈর্যশীলদের সঙ্গে আছেন। আস-সাদি ‘সঙ্গে থাকা’কে দুই ভাগ করেছেন। একটা সাধারণ, জ্ঞান আর ক্ষমতার সঙ্গ; তা সব সৃষ্টির জন্যই (৫৭:৪)। আরেকটা বিশেষ: ভালোবাসা, সাহায্য, সমর্থন আর নৈকট্য। ধৈর্যশীলদের এখানে এটাই দেওয়া হয়েছে। তাঁর কথায়, ধৈর্যশীলদের আর কোনো মর্যাদা না থাকলেও শুধু এটুকুই যথেষ্ট সম্মান।"
+     }
+    },
+    {
+     "ref": "16:127",
+     "note": {
+      "en": "At the close of an-Nahl the Prophet ﷺ is told: be patient, and your patience is only through Allah. Ibn Kathir reads it as a reminder that patience cannot be acquired except by Allah’s will, help and decree. As-Sa‘di adds the other half: do not rely on yourself, and do not grieve when your call meets no response, for grief achieves nothing.",
+      "bn": "সূরা আন-নাহলের শেষে নবী ﷺ-কে বলা হচ্ছে: সবর করুন, আর আপনার সবর তো আল্লাহরই সাহায্যে। ইবনে কাসির একে স্মরণ করিয়ে দেওয়া হিসেবে পড়েছেন: আল্লাহর ইচ্ছা, সাহায্য আর ফয়সালা ছাড়া সবর অর্জন করা যায় না। আস-সাদি বাকি অর্ধেকটা যোগ করেছেন: নিজের ওপর ভরসা করবেন না, আর দাওয়াতে সাড়া না পেলে দুঃখে ভেঙে পড়বেন না; দুঃখ কোনো কাজে আসে না।"
+     }
+    },
+    {
+     "ref": "20:130",
+     "note": {
+      "en": "Be patient over what they say, then glorify your Lord with praise before sunrise, before sunset, in the hours of the night and at the ends of the day, “so that you may be content”. As-Sa‘di reads the sequence as a remedy: glorification at these times consoles the heart for the insults, and then patience itself becomes lighter.",
+      "bn": "তারা যা বলে তাতে সবর করুন, তারপর রবের প্রশংসাসহ তাসবিহ করুন সূর্য ওঠার আগে, ডোবার আগে, রাতের প্রহরে আর দিনের দুই প্রান্তে, ‘যাতে আপনি সন্তুষ্ট হন’। আস-সাদি এই ক্রমটাকে দেখেছেন ওষুধ হিসেবে: এই সময়গুলোর তাসবিহ গালমন্দের কষ্টে মনকে সান্ত্বনা দেয়, তখন সবর নিজেই হালকা হয়ে আসে।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 1469",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-1469",
+     "text": {
+      "en": "Abu Sa‘id al-Khudri narrated that some people of the Ansar asked the Messenger of Allah ﷺ and he gave them; then they asked him and he gave them, until all that he had was finished. Then he said: “Whatever good I have, I will not store it away from you. Whoever seeks to refrain from asking, Allah makes him refrain; whoever seeks to be self-sufficient, Allah makes him self-sufficient; and whoever seeks to be patient, Allah makes him patient. No one has been given a gift better and more ample than patience.”",
+      "bn": "আবু সাঈদ খুদরি (রাঃ) বর্ণনা করেন, আনসারদের কিছু লোক আল্লাহর রাসূল ﷺ-এর কাছে চাইলেন, তিনি তাদের দিলেন। তারা আবার চাইলেন, তিনি আবার দিলেন, শেষে তাঁর কাছে যা ছিল সব ফুরিয়ে গেল। তখন তিনি বললেন: “আমার কাছে যে কল্যাণই থাকে, তা আমি তোমাদের থেকে জমিয়ে রাখব না। যে চাওয়া থেকে বাঁচতে চায়, আল্লাহ তাকে বাঁচিয়ে রাখেন; যে অমুখাপেক্ষী হতে চায়, আল্লাহ তাকে অমুখাপেক্ষী করেন; আর যে সবর করার চেষ্টা করে, আল্লাহ তাকে সবর দান করেন। সবরের চেয়ে উত্তম ও প্রশস্ত কোনো দান কাউকে দেওয়া হয়নি।”"
+     },
+     "note": {
+      "en": "The verb is yatasabbar: to make oneself patient, to try. The effort is answered with a gift, the thought of 16:127 seen from the other side. And the Prophet ﷺ said it just after giving away everything he had to people who kept asking.",
+      "bn": "ক্রিয়াটা ইয়াতাসাব্বার: নিজেকে ধৈর্যশীল বানানোর চেষ্টা। চেষ্টার জবাবে আসে দান; ১৬:১২৭-এর কথাটাই অন্য দিক থেকে। আর কথাটা নবী ﷺ বলেছিলেন এমন মুহূর্তে, যখন বারবার চাইতে থাকা মানুষদের তিনি নিজের সবকিছু দিয়ে শেষ করেছেন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-test",
+   "title": {
+    "en": "Tested, then given glad tidings",
+    "bn": "পরীক্ষা, তারপর সুসংবাদ"
+   },
+   "body": [
+    {
+     "en": "The Quran announces trial in advance: “We will surely test you” opens both 2:155 and 47:31. As-Sa‘di gives the reason on 2:155: if ease continued unbroken, the truthful and the false would stay mixed, and Allah’s wisdom requires that they be told apart. He adds that trials refine and do not destroy, which is why the ayah says “something of” fear and hunger, not all of it. On 3:186 he finds a mercy in the warning itself: a soul told beforehand settles itself, and the trial weighs less when it comes.",
+     "bn": "পরীক্ষার ঘোষণা কুরআন আগেভাগেই দিয়ে রেখেছে: ‘অবশ্যই আমি তোমাদের পরীক্ষা করব’, ২:১৫৫ আর ৪৭:৩১ দুটোই এভাবে শুরু। আস-সাদি ২:১৫৫-এ কারণটা বলেছেন: সুখ যদি একটানা চলত, সত্যবাদী আর মিথ্যাবাদী মিশেই থাকত, অথচ আল্লাহর হিকমত চায় দুই দল আলাদা হোক। তিনি এটাও বলেছেন, বিপদ মানুষকে খাঁটি করে, ধ্বংস করে না; তাই আয়াতে আছে ভয় আর ক্ষুধার ‘কিছু অংশ’, পুরোটা নয়। ৩:১৮৬-এ তিনি সতর্কবাণীর ভেতরেই রহমত দেখেছেন: আগে থেকে জানা থাকলে মন তৈরি হয়ে থাকে, বিপদ এলে বোঝা হালকা লাগে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:155",
+     "note": {
+      "en": "The list is everyday: fear, hunger, money lost, people lost, crops that fail. Ibn Kathir reads “something of” as a little of each, and “lives” as the death of friends, relatives and loved ones. As-Sa‘di notes that when such things come, people divide in two. The one who panics loses twice: once the thing he loved, and again the reward that patience would have earned.",
+      "bn": "তালিকাটা রোজকার জীবনের: ভয়, ক্ষুধা, সম্পদের ক্ষতি, প্রিয় মানুষ হারানো, ফসল না হওয়া। ইবনে কাসির ‘কিছু’ বলতে বুঝেছেন প্রত্যেকটার সামান্য, আর ‘জীবন’ বলতে বন্ধু, আত্মীয় ও প্রিয়জনের মৃত্যু। আস-সাদি বলেন, এসব এলে মানুষ দুই দলে ভাগ হয়ে যায়। যে অধৈর্য হয়, সে দুবার হারায়: একবার প্রিয় জিনিসটা, আরেকবার সেই সওয়াব, যা সবর করলে পেত।"
+     }
+    },
+    {
+     "ref": "2:156",
+     "note": {
+      "en": "Who are the patient? Those who, when struck, say: to Allah we belong and to Him we return. As-Sa‘di unpacks both halves. We are owned by Him, so the Most Merciful has acted in what is His; and we return to Him, where the reward of patience waits. Belonging and returning, he says, are among the strongest causes of patience.",
+      "bn": "ধৈর্যশীল কারা? যারা বিপদে পড়লে বলে: আমরা আল্লাহরই, আর তাঁর কাছেই ফিরে যাব। আস-সাদি দুটো অংশই খুলে বলেছেন। আমরা তাঁর মালিকানায়, তাই পরম দয়ালু যা করেছেন, নিজের জিনিসেই করেছেন। আর আমরা তাঁর কাছেই ফিরব, যেখানে সবরের প্রতিদান অপেক্ষা করছে। তাঁর মতে, আল্লাহর হওয়া আর তাঁর কাছে ফেরা সবরের সবচেয়ে শক্ত কারণগুলোর মধ্যে পড়ে।"
+     }
+    },
+    {
+     "ref": "3:186",
+     "note": {
+      "en": "Here the test includes words: much hurtful speech from others. The answer is patience joined to taqwa. As-Sa‘di explains the pairing: taqwa within patience means seeking Allah by it, and not stretching patience past its lawful bounds into places where simply bearing it is not allowed. Patience has edges, and taqwa keeps them.",
+      "bn": "এখানে পরীক্ষার মধ্যে কথাও আছে: অন্যদের কাছ থেকে অনেক কষ্টদায়ক কথা শুনতে হবে। জবাব হলো সবর, সঙ্গে তাকওয়া। আস-সাদি এই জোড়ার ব্যাখ্যা দিয়েছেন: সবরের ভেতরে তাকওয়া মানে সবর দিয়ে আল্লাহর সন্তুষ্টি চাওয়া, আর সবরকে শরিয়তের সীমা পেরিয়ে এমন জায়গায় না নেওয়া, যেখানে শুধু সয়ে যাওয়া বৈধ নয়। সবরেরও কিনারা আছে, তাকওয়া সেই কিনারা পাহারা দেয়।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 918b",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-918",
+     "text": {
+      "en": "Umm Salamah, wife of the Prophet ﷺ, said: I heard the Messenger of Allah ﷺ say: “There is no servant struck by a calamity who says, ‘We belong to Allah and to Him we return; O Allah, reward me in my calamity and give me something better than it in its place,’ except that Allah rewards him in his calamity and gives him something better than it in its place.” She said: When Abu Salamah died, I said it as the Messenger of Allah ﷺ had told me, and Allah gave me in his place someone better than him: the Messenger of Allah ﷺ.",
+      "bn": "নবী ﷺ-এর স্ত্রী উম্মে সালামা (রাঃ) বলেন, আমি আল্লাহর রাসূল ﷺ-কে বলতে শুনেছি: “যে বান্দা কোনো বিপদে পড়ে বলে, ‘ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন; হে আল্লাহ, আমার বিপদে আমাকে প্রতিদান দিন এবং এর বদলে এর চেয়ে উত্তম কিছু দিন’, আল্লাহ তাকে তার বিপদের প্রতিদান দেন এবং এর বদলে এর চেয়ে উত্তম কিছু দেন।” তিনি বলেন, আবু সালামা মারা গেলে আল্লাহর রাসূল ﷺ যেমন বলতে বলেছিলেন, আমি তেমনই বললাম। আর আল্লাহ আমাকে তাঁর চেয়ে উত্তম একজনকে দিলেন: আল্লাহর রাসূল ﷺ-কে।"
+     },
+     "note": {
+      "en": "In the first version of this hadith in Muslim, she said: what Muslim is better than Abu Salamah? Then she said the words anyway, before she could see the answer.",
+      "bn": "মুসলিমের প্রথম বর্ণনায় আছে, তিনি বলেছিলেন: আবু সালামার চেয়ে ভালো মুসলিম আর কে আছে? তবু দোয়াটা পড়েছিলেন, উত্তর চোখে দেখার আগেই।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "beautiful-patience",
+   "title": {
+    "en": "Ya‘qub’s beautiful patience",
+    "bn": "ইয়াকুব (আঃ)-এর সুন্দর সবর"
+   },
+   "body": [
+    {
+     "en": "Twice Ya‘qub (AS) hears that a son is lost, and twice he answers with the same two words: fa-sabrun jamil: so, beautiful patience. The phrase returns as a command to the Prophet ﷺ in 70:5, and its twin, “beautiful avoidance”, in 73:10. What makes patience beautiful? As-Sa‘di gives the same answer on both Yusuf ayat: patience with no discontent in it and no complaint to people. On 12:18 he adds, from 12:86, that complaint to Allah does not spoil it: “I only complain of my grief and sorrow to Allah.”",
+     "bn": "দুবার ইয়াকুব (আঃ) শোনেন, এক ছেলে হারিয়ে গেছে, আর দুবারই একই দুটো শব্দে জবাব দেন: ফাসাবরুন জামিল, অতএব সুন্দর সবর। কথাটা ৭০:৫-এ নবী ﷺ-এর প্রতি হুকুম হয়ে ফিরে আসে, আর ৭৩:১০-এ আসে তার জোড়া, ‘সুন্দরভাবে এড়িয়ে চলা’। সবরকে সুন্দর করে কী? ইউসুফ (আঃ)-এর কাহিনির দুটো আয়াতেই আস-সাদির উত্তর এক: যে সবরে অসন্তোষ নেই, মানুষের কাছে নালিশ নেই। ১২:১৮-এ তিনি ১২:৮৬ থেকে যোগ করেছেন, আল্লাহর কাছে নালিশ এই সৌন্দর্য নষ্ট করে না: ‘আমি আমার দুঃখ-বেদনার নালিশ শুধু আল্লাহর কাছেই করি।’"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "12:18",
+     "note": {
+      "en": "Ya‘qub does not believe the blood on the shirt; Ibn Kathir notes that the brothers had forgotten to tear it. He names the lie and still does not rage. As-Sa‘di puts his answer in his own voice: my duty is to bear this with a beautiful patience, free of discontent and of complaint to people, and I seek Allah’s help for it, not my own strength. Patience and seeking help come in one breath.",
+      "bn": "শার্টের রক্ত ইয়াকুব (আঃ) বিশ্বাস করেননি; ইবনে কাসির লক্ষ করেছেন, ভাইয়েরা শার্টটা ছিঁড়তেই ভুলে গিয়েছিল। তিনি মিথ্যাটা ধরিয়ে দিলেন, তবু রাগে ফেটে পড়লেন না। আস-সাদি জবাবটা তাঁর নিজের মুখে বসিয়েছেন: আমার কাজ হলো এ বিপদ সুন্দর সবরে বহন করা, অসন্তোষ ছাড়া, মানুষের কাছে নালিশ ছাড়া; আর এর জন্য আল্লাহর সাহায্য চাই, নিজের শক্তির ওপর ভরসা করি না। সবর আর সাহায্য চাওয়া এখানে একই নিঃশ্বাসে।"
+     }
+    },
+    {
+     "ref": "12:83",
+     "note": {
+      "en": "Later, the same words over a second son, and now a third who had stayed behind in Egypt. As-Sa‘di says the grief had doubled, yet the patience is the same, and it opens straight into hope: perhaps Allah will bring them all back to me. Ibn Kathir records Qatadah on the ayat that follow: Ya‘qub held his sorrow in and did not complain to any created being.",
+      "bn": "পরে দ্বিতীয় ছেলের বেলায় সেই একই কথা, আর এবার সঙ্গে তৃতীয়জনও, যে মিসরে থেকে গিয়েছিল। আস-সাদি বলেন, দুঃখ তখন দ্বিগুণ, অথচ সবর সেই একই, আর তা সোজা আশায় গিয়ে খোলে: হয়তো আল্লাহ তাদের সবাইকে আমার কাছে ফিরিয়ে আনবেন। পরের আয়াতগুলোর ব্যাখ্যায় ইবনে কাসির কাতাদার কথা এনেছেন: ইয়াকুব (আঃ) দুঃখ বুকে চেপে রেখেছিলেন, কোনো সৃষ্টির কাছে নালিশ করেননি।"
+     }
+    },
+    {
+     "ref": "70:5",
+     "note": {
+      "en": "The same two words, now as a command: so be patient with a beautiful patience. Ibn Kathir sets it against people who rejected the Prophet ﷺ and asked for the punishment to hurry, thinking it would never come. As-Sa‘di adds his own gloss on “beautiful”: patience without irritation or weariness, which keeps calling people and is not stopped by their refusal.",
+      "bn": "সেই একই দুটো শব্দ, এবার হুকুম হয়ে: অতএব সুন্দর সবর করুন। ইবনে কাসির একে বসিয়েছেন সেই লোকদের বিপরীতে, যারা নবী ﷺ-কে অস্বীকার করত আর শাস্তি তাড়াতাড়ি চাইত, ভাবত তা কখনো আসবে না। আস-সাদি ‘সুন্দর’ শব্দের নিজস্ব একটা ব্যাখ্যা দিয়েছেন: বিরক্তি আর ক্লান্তিহীন সবর, যা মানুষকে ডেকেই চলে, তাদের অনাগ্রহ দেখে থেমে যায় না।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "prophets-patience",
+   "title": {
+    "en": "Patience of the prophets",
+    "bn": "নবীগণের সবর"
+   },
+   "body": [
+    {
+     "en": "The Quran names patience as a quality of its prophets more than once. Isma‘il, Idris and Dhul-Kifl “were all of the patient” (21:85). Of Ayyub (AS) Allah says, “We found him patient.” Isma‘il (AS) promises his patience to his father before the knife. Yusuf (AS), at the moment of reunion, sums up his whole story in one rule. And the Prophet ﷺ is told to be patient as the messengers of firm resolve were. The Sunnah adds that this is no accident: the most severely tested of people are the prophets.",
+     "bn": "কুরআন একাধিকবার সবরকে নবীদের গুণ বলে উল্লেখ করেছে। ইসমাইল, ইদরিস আর জুলকিফল (আঃ), ‘সবাই ছিলেন ধৈর্যশীল’ (২১:৮৫)। আইয়ুব (আঃ) সম্পর্কে আল্লাহ বলেছেন, ‘আমি তাকে পেয়েছি ধৈর্যশীল’। ছুরির সামনে ইসমাইল (আঃ) বাবাকে নিজের সবরের কথা দিয়েছেন। ইউসুফ (আঃ) মিলনের মুহূর্তে পুরো জীবনের গল্প একটা নিয়মে বলে দিয়েছেন। আর নবী ﷺ-কে বলা হয়েছে দৃঢ় সংকল্পের রাসূলদের মতো সবর করতে। সুন্নাহ জানিয়ে দেয়, এটা কাকতালীয় নয়: মানুষের মধ্যে সবচেয়ে কঠিন পরীক্ষা নবীদেরই।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "38:44",
+     "note": {
+      "en": "Ayyub’s trial, Ibn Kathir writes, struck his body, his wealth and his children. The same story records his call, “adversity has touched me” (21:83), and still Allah says: We found him patient. As-Sa‘di explains the praise: an excellent servant who completed servitude in hardship and in ease; awwab, turning back to Allah again and again with his needs, his dhikr and his du‘a. As with Ya‘qub, telling Allah of the pain sits inside the patience.",
+      "bn": "ইবনে কাসির লিখেছেন, আইয়ুব (আঃ)-এর পরীক্ষা এসেছিল তাঁর শরীর, সম্পদ আর সন্তানের ওপর। একই কাহিনিতে তাঁর ডাকও আছে, ‘আমাকে কষ্ট স্পর্শ করেছে’ (২১:৮৩), তবু আল্লাহ বলছেন: আমি তাকে ধৈর্যশীল পেয়েছি। আস-সাদি প্রশংসাটা খুলে বলেছেন: কত উত্তম বান্দা, যিনি সুখে-দুঃখে বন্দেগির সব স্তর পূর্ণ করেছেন; আওয়াব, নিজের প্রয়োজন, জিকির আর দোয়া নিয়ে বারবার আল্লাহর দিকে ফেরেন। ইয়াকুব (আঃ)-এর মতো এখানেও আল্লাহকে কষ্টের কথা জানানো সবরেরই অংশ।"
+     }
+    },
+    {
+     "ref": "37:102",
+     "note": {
+      "en": "The son, Isma‘il as both Ibn Kathir and as-Sa‘di name him, answers: do as you are commanded; you will find me, if Allah wills, of the patient. Ibn Kathir says Ibrahim (AS) told him in order to ease it for him and to test his patience while young. As-Sa‘di draws out the “if Allah wills”: he had readied himself for patience, yet tied it to Allah’s will. Even resolve is asked for, not assumed.",
+      "bn": "ছেলেটি, ইবনে কাসির আর আস-সাদি দুজনই যাঁকে ইসমাইল (আঃ) বলেছেন, জবাব দেন: আপনাকে যা হুকুম করা হয়েছে তা করুন; ইনশাআল্লাহ আমাকে ধৈর্যশীলদের মধ্যে পাবেন। ইবনে কাসির বলেন, ইবরাহিম (আঃ) কথাটা তাকে জানিয়েছিলেন যাতে তাঁর জন্য সহজ হয়, আর অল্প বয়সেই তাঁর সবর যাচাই হয়। আস-সাদি ‘ইনশাআল্লাহ’ অংশটা তুলে ধরেছেন: তিনি নিজেকে সবরের জন্য প্রস্তুত করেছিলেন, তবু তা আল্লাহর ইচ্ছার সঙ্গে বেঁধে দিয়েছেন। দৃঢ়তাও চেয়ে নিতে হয়, ধরে নেওয়া যায় না।"
+     }
+    },
+    {
+     "ref": "12:90",
+     "note": {
+      "en": "Recognised at last by his brothers, Yusuf (AS) sums up the story: whoever fears Allah and is patient, Allah does not let the reward of the good-doers be lost. As-Sa‘di reads taqwa here as avoiding what Allah forbade, and patience as bearing pain and carrying out commands, and he counts the pair as part of ihsan. Ibn Kathir notes that relief came when the affliction grew harder, as 94:5 says ease comes with hardship.",
+      "bn": "শেষে ভাইয়েরা যখন তাঁকে চিনল, ইউসুফ (আঃ) পুরো কাহিনি এক কথায় বললেন: যে তাকওয়া অবলম্বন করে আর সবর করে, আল্লাহ সৎকর্মশীলদের প্রতিদান নষ্ট করেন না। আস-সাদির ব্যাখ্যায় তাকওয়া মানে আল্লাহর নিষেধ থেকে বাঁচা, আর সবর মানে কষ্ট-বিপদ সয়ে যাওয়া ও হুকুম পালন করা; এ দুটোকে তিনি ইহসানের অংশ বলেছেন। ইবনে কাসির লক্ষ করেছেন, স্বস্তি এল কষ্ট যখন আরও কঠিন হলো, যেমন ৯৪:৫ বলে, কষ্টের সঙ্গেই স্বস্তি।"
+     }
+    },
+    {
+     "ref": "46:35",
+     "note": {
+      "en": "Be patient as those of firm resolve among the messengers were patient. Ibn Kathir names them: Nuh, Ibrahim, Musa, ‘Isa and Muhammad ﷺ, mentioned together in 33:7 and 42:13. As-Sa‘di reads “do not seek to hasten it for them” as: do not let their demand for the punishment push you into praying for it against them. The ayah’s close puts the wait in proportion: on that Day, life will seem an hour of a day.",
+      "bn": "সবর করুন, যেমন সবর করেছিলেন দৃঢ় সংকল্পের রাসূলগণ। ইবনে কাসির তাঁদের নাম বলেছেন: নূহ, ইবরাহিম, মূসা, ঈসা (আঃ) আর মুহাম্মাদ ﷺ; ৩৩:৭ আর ৪২:১৩-এ তাঁদের একসঙ্গে উল্লেখ আছে। আস-সাদি ‘তাদের জন্য তাড়াহুড়া করবেন না’ অংশের অর্থ করেছেন: তারা যে শাস্তি তাড়াতাড়ি চাইছে, সেই চাওয়া যেন আপনাকে তাদের বিরুদ্ধে বদদোয়ার দিকে ঠেলে না দেয়। আয়াতের শেষটা অপেক্ষাকে মাপমতো করে দেয়: সেদিন দুনিয়ার জীবন মনে হবে দিনের এক ঘড়ি মাত্র।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Jami‘ at-Tirmidhi 2398",
+     "url": "https://quranx.com/hadith/Tirmidhi/Hadith-2398",
+     "grade": {
+      "en": "hasan sahih",
+      "bn": "হাসান সহিহ"
+     },
+     "text": {
+      "en": "Mus‘ab ibn Sa‘d narrated from his father, who said: I said, “O Messenger of Allah, which people are most severely tested?” He said: “The prophets, then the best, then the next best. A man is tested according to his religion: if his religion is firm, his trial is severe, and if there is weakness in his religion, he is tested according to his religion. Trial does not leave the servant until it leaves him walking on the earth with no sin upon him.”",
+      "bn": "মুসআব ইবনে সাদ তাঁর বাবার সূত্রে বর্ণনা করেন, তিনি বলেন: আমি জিজ্ঞেস করলাম, হে আল্লাহর রাসূল, মানুষের মধ্যে সবচেয়ে কঠিন পরীক্ষা কাদের? তিনি বললেন: “নবীদের, তারপর যারা সবচেয়ে উত্তম, তারপর যারা তাদের পরে উত্তম। মানুষকে পরীক্ষা করা হয় তার দ্বীন অনুযায়ী: দ্বীন মজবুত হলে পরীক্ষাও কঠিন হয়, আর দ্বীনে দুর্বলতা থাকলে দ্বীন অনুযায়ীই পরীক্ষা হয়। বান্দার ওপর পরীক্ষা আসতেই থাকে, শেষে তাকে এমন অবস্থায় ছাড়ে যে সে পৃথিবীতে হেঁটে বেড়ায়, অথচ তার ওপর কোনো গুনাহ নেই।”"
+     },
+     "note": {
+      "en": "This is why the stories above are stories of prophets. Severe trial is not presented as a sign of displeasure: the hadith measures its weight by the firmness of one’s religion, and names its end as sins removed.",
+      "bn": "এ কারণেই ওপরের কাহিনিগুলো নবীদের কাহিনি। কঠিন পরীক্ষাকে এখানে অসন্তুষ্টির চিহ্ন বলা হয়নি। হাদিস তার ভার মেপেছে দ্বীনের মজবুতি দিয়ে, আর তার শেষ বলেছে গুনাহ মুছে যাওয়া।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "steadfast-not-passive",
+   "title": {
+    "en": "Steadfast, not passive",
+    "bn": "অটল থাকা, হাল ছাড়া নয়"
+   },
+   "body": [
+    {
+     "en": "Several ayat on the list come from battle and resistance, and they correct the idea that sabr means doing nothing. As-Sa‘di states the rule on 7:128: when the servant is able, he takes whatever means he can to repel harm; when he is not, he is patient, seeks Allah’s help and waits for relief. In these ayat patience stands beside obedience, unity and holding one’s ground. And 3:200, the last ayah of Al ‘Imran, opens the word into three commands: be patient, persevere, and stay posted.",
+     "bn": "তালিকার বেশ কিছু আয়াত যুদ্ধ আর প্রতিরোধের প্রেক্ষাপট থেকে, আর সেগুলো ‘সবর মানে কিছু না করা’ ধারণাটা শুধরে দেয়। আস-সাদি ৭:১২৮-এ নিয়মটা বলে দিয়েছেন: সামর্থ্য থাকলে বান্দা ক্ষতি ঠেকাতে যতটা উপায় নেওয়া যায় নেবে; সামর্থ্য না থাকলে সবর করবে, আল্লাহর সাহায্য চাইবে, আর মুক্তির অপেক্ষা করবে। এই আয়াতগুলোতে সবর দাঁড়িয়ে আছে আনুগত্য, ঐক্য আর নিজের জায়গায় অটল থাকার পাশে। আর আলে ইমরানের শেষ আয়াত ৩:২০০ শব্দটাকে তিনটি হুকুমে মেলে ধরে: সবর করো, সবরে টিকে থাকো, পাহারায় থাকো।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "3:146",
+     "note": {
+      "en": "Ibn Kathir sets this against a moment at Uhud: a rumour spread that the Prophet ﷺ had been killed, and some Muslims’ resolve weakened. He reports Qatadah and ar-Rabi‘ reading “nor did they weaken” as after their own prophet was killed; rather, they fought on along the path he had fought on. As-Sa‘di adds a phrase that rules out passivity: they heartened themselves.",
+      "bn": "ইবনে কাসির আয়াতটিকে রেখেছেন উহুদের এক মুহূর্তের সামনে: গুজব ছড়াল যে নবী ﷺ নিহত হয়েছেন, আর কিছু মুসলিমের মনোবল ভেঙে পড়ল। তিনি কাতাদা ও রাবির ব্যাখ্যা এনেছেন: ‘তারা দুর্বল হয়নি’ মানে নিজেদের নবী নিহত হওয়ার পরও দুর্বল হয়নি; বরং নবী যে পথে লড়েছিলেন, সেই পথেই লড়ে গেছে। আস-সাদি এমন একটি কথা যোগ করেছেন, যা হাত গুটিয়ে বসে থাকার ধারণা বাতিল করে দেয়: তারা নিজেরাই নিজেদের সাহস জুগিয়েছে।"
+     }
+    },
+    {
+     "ref": "7:128",
+     "note": {
+      "en": "Musa (AS) speaks to a people who, as as-Sa‘di notes, had no power at that moment to resist Pharaoh. His counsel has two parts, seek help through Allah and be patient, and a reason: the earth belongs to Allah, and the outcome is for the God-fearing. As-Sa‘di reads the patience as holding on while waiting for relief. 7:137 later records that the promise was fulfilled “because of what they had patiently endured”.",
+      "bn": "মূসা (আঃ) কথা বলছেন এমন এক জাতির সঙ্গে, আস-সাদির ভাষায় যাদের তখন ফেরাউনকে ঠেকানোর কোনো ক্ষমতা ছিল না। তাঁর উপদেশের দুটো অংশ, আল্লাহর কাছে সাহায্য চাও আর সবর করো, সঙ্গে একটা কারণ: পৃথিবী আল্লাহর, আর শেষ পরিণাম মুত্তাকিদের। আস-সাদি এখানে সবরকে পড়েছেন মুক্তির অপেক্ষায় লেগে থাকা হিসেবে। পরে ৭:১৩৭ জানায়, প্রতিশ্রুতি পূর্ণ হয়েছিল ‘তারা যে সবর করেছিল তার কারণে’।"
+     }
+    },
+    {
+     "ref": "8:46",
+     "note": {
+      "en": "Patience is set against quarrelling: do not dispute, or you will lose heart and your strength (literally, your wind) will go. As-Sa‘di explains that disputes scatter hearts, so resolve dissolves. Ibn Kathir cites from the two Sahihs the Prophet’s counsel before a battle: do not wish to meet the enemy, ask Allah for well-being, but if you meet them, be patient.",
+      "bn": "এখানে সবরকে দাঁড় করানো হয়েছে ঝগড়ার বিপরীতে: পরস্পর বিবাদ কোরো না, তাহলে সাহস হারাবে আর তোমাদের শক্তি চলে যাবে; শব্দটার আক্ষরিক অর্থ ‘বাতাস’। আস-সাদি ব্যাখ্যা করেছেন, বিবাদ মনগুলোকে ছড়িয়ে-ছিটিয়ে দেয়, ফলে সংকল্প ভেঙে পড়ে। ইবনে কাসির দুই সহিহ গ্রন্থ থেকে যুদ্ধের আগে নবী ﷺ-এর উপদেশ এনেছেন: শত্রুর মুখোমুখি হওয়ার কামনা কোরো না, আল্লাহর কাছে নিরাপত্তা চাও; কিন্তু মুখোমুখি হলে সবর করো।"
+     }
+    },
+    {
+     "ref": "3:200",
+     "note": {
+      "en": "Three commands: isbiru, be patient; sabiru, persevere; rabitu, stay posted. As-Sa‘di reads sabiru as keeping patience up without end and resisting the enemy in every state, and rabitu as holding the place from which the enemy might come. Ibn Kathir adds a quieter reading from Ibn ‘Abbas and others: murabatah is waiting for prayer after prayer. As-Sa‘di’s conclusion: no one reaches success without these three.",
+      "bn": "তিনটি হুকুম: ইসবিরু, সবর করো; সাবিরু, সবরে টিকে থাকো; রাবিতু, পাহারায় থাকো। আস-সাদি সাবিরু-র অর্থ করেছেন সবরকে স্থায়ীভাবে ধরে রাখা আর সব অবস্থায় শত্রুর মোকাবিলা করা; রাবিতু-র অর্থ, যেদিক দিয়ে শত্রু আসার আশঙ্কা, সেখানে অবস্থান নেওয়া। ইবনে কাসির ইবনে আব্বাস (রাঃ) ও অন্যদের সূত্রে আরেকটু নিরিবিলি একটা অর্থও এনেছেন: মুরাবাতা মানে এক নামাজের পর আরেক নামাজের অপেক্ষা। আস-সাদির উপসংহার: এই তিনটি ছাড়া কেউ সফলতায় পৌঁছায় না।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 251a",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-251",
+     "text": {
+      "en": "Abu Hurayrah reported that the Messenger of Allah ﷺ said: “Shall I not point you to that by which Allah erases sins and raises ranks?” They said: Yes, O Messenger of Allah. He said: “Completing the wudu‘ well when it is hard, many steps to the mosques, and waiting for the prayer after the prayer. That is ar-ribat.”",
+      "bn": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, আল্লাহর রাসূল ﷺ বললেন: “আমি কি তোমাদের এমন জিনিসের কথা বলব না, যা দিয়ে আল্লাহ গুনাহ মুছে দেন আর মর্যাদা বাড়িয়ে দেন?” তাঁরা বললেন: অবশ্যই, হে আল্লাহর রাসূল। তিনি বললেন: “কষ্টের সময়েও পরিপূর্ণভাবে অজু করা, মসজিদের দিকে বেশি বেশি পা ফেলা, আর এক নামাজের পর আরেক নামাজের অপেক্ষা করা। এটাই রিবাত।”"
+     },
+     "note": {
+      "en": "Ibn Kathir cites this hadith under 3:200. It brings rabitu home from the frontier: the person sitting in the mosque until the next prayer, holding himself to worship, is inside the same word.",
+      "bn": "ইবনে কাসির ৩:২০০-এর ব্যাখ্যায় হাদিসটি এনেছেন। রাবিতু শব্দটাকে এটা সীমান্ত থেকে ঘরে ফিরিয়ে আনে: পরের নামাজের অপেক্ষায় মসজিদে বসে থাকা মানুষটিও এই শব্দের ভেতরেই পড়েন, কারণ তিনিও ইবাদতে নিজেকে বেঁধে রেখেছেন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "among-people",
+   "title": {
+    "en": "Patience with people",
+    "bn": "মানুষের সঙ্গে সবর"
+   },
+   "body": [
+    {
+     "en": "One phrase ties several ayat together: min ‘azm al-umur, of the matters of resolve. It is said of patience under hurtful speech (3:186), of Luqman’s counsel to his son (31:17), and of the one who is patient and forgives (42:43). In each, the trouble comes from other people. As-Sa‘di explains on 42:43 why this is so hard: giving up self-defence in word or deed is among the hardest things for a soul, and meeting harm with kindness is harder still. Yet it becomes easy for one whom Allah makes it easy for, and who strives for it and seeks His help.",
+     "bn": "একটি বাক্যাংশ কয়েকটি আয়াতকে এক সুতোয় বাঁধে: মিন আজমিল উমুর, দৃঢ় সংকল্পের কাজ। কথাটা এসেছে কষ্টদায়ক কথায় সবরের বেলায় (৩:১৮৬), ছেলের প্রতি লুকমানের উপদেশে (৩১:১৭), আর যে সবর করে ও মাফ করে দেয় তার বেলায় (৪২:৪৩)। প্রতিটিতেই কষ্ট আসে মানুষের কাছ থেকে। আস-সাদি ৪২:৪৩-এ বলেছেন কেন তা এত কঠিন: কথায় বা কাজে নিজের হয়ে বদলা না নেওয়া মনের কাছে সবচেয়ে কষ্টকর কাজগুলোর একটি, আর মন্দের জবাবে ভালো করা আরও কষ্টকর। তবু আল্লাহ যার জন্য সহজ করেন, আর যে এর জন্য নিজের সঙ্গে লড়ে ও আল্লাহর সাহায্য চায়, তার কাছে তা সহজ হয়ে যায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "103:3",
+     "note": {
+      "en": "Ibn Kathir names the patience meant here: with the plots and harm of people who strike back when told to do good and leave evil. As-Sa‘di widens it to all three kinds: obedience, sin and painful decree. In the ayah, counsel to truth comes first, and whoever gives it will soon need counsel in patience.",
+      "bn": "ইবনে কাসির বলে দিয়েছেন এখানে কোন সবরের কথা: সেই লোকদের চক্রান্ত আর কষ্ট সহ্য করা, যারা ভালোর আদেশ আর মন্দের নিষেধ শুনে উল্টো আঘাত করে। আস-সাদি একে তিন ধরনের সবরেই ছড়িয়ে দিয়েছেন: আনুগত্য, গুনাহ আর কষ্টদায়ক ফয়সালা। আয়াতে সত্যের উপদেশ আগে এসেছে, আর যে তা দেয়, শিগগিরই তার নিজেরও সবরের উপদেশ দরকার হয়।"
+     }
+    },
+    {
+     "ref": "90:17",
+     "note": {
+      "en": "The steep path of al-Balad ends in a pair: counsel to patience and counsel to marhamah, compassion. Where 103:3 pairs patience with truth, this pairs it with mercy. Ibn Kathir reads it as being patient with people’s harm and merciful toward them at once. As-Sa‘di gives the mercy hands: giving to the needy, teaching the ignorant, and wanting for others what one wants for oneself.",
+      "bn": "আল-বালাদের দুর্গম গিরিপথের বর্ণনা শেষ হয় একটি জোড়ায়: সবরের উপদেশ আর মারহামা, দয়ার উপদেশ। ১০৩:৩ সবরকে জুড়েছে সত্যের সঙ্গে, এখানে জুড়েছে দয়ার সঙ্গে। ইবনে কাসির পড়েছেন: মানুষের দেওয়া কষ্টে সবর করা, আর একই সঙ্গে তাদের প্রতি দয়ালু থাকা। আস-সাদি দয়াকে কাজে নামিয়েছেন: অভাবীকে দেওয়া, অজ্ঞকে শেখানো, আর নিজের জন্য যা চাই অন্যের জন্যও তা চাওয়া।"
+     }
+    },
+    {
+     "ref": "31:17",
+     "note": {
+      "en": "Luqman’s counsel moves from prayer to enjoining good and forbidding evil, then straight to patience over what befalls you. Ibn Kathir explains the link: whoever commands good will inevitably meet harm and annoyance from people. As-Sa‘di lists what commanding good needs to be complete: knowledge of right and wrong, gentleness, patience, and doing what one tells others to do.",
+      "bn": "লুকমানের উপদেশ নামাজ থেকে যায় ভালো কাজের আদেশ আর মন্দ থেকে নিষেধে, তারপর সোজা সবরে: তোমার ওপর যা আসে তাতে সবর করো। ইবনে কাসির যোগসূত্রটা বলেছেন: যে ভালোর আদেশ করে, মানুষের কাছ থেকে কষ্ট আর বিরক্তি তার কাছে আসবেই। আস-সাদি তালিকা দিয়েছেন, ভালোর আদেশ পূর্ণ হতে কী লাগে: ভালো-মন্দের জ্ঞান, কোমলতা, সবর, আর অন্যকে যা বলা হয় নিজে তা করা।"
+     }
+    },
+    {
+     "ref": "41:35",
+     "note": {
+      "en": "Repel the bad with what is better, and an enemy becomes like a close friend; but none is granted this except the patient. As-Sa‘di says why: souls are made to answer harm with harm, and answering it with kindness takes patience against the self. Ibn Kathir records Ibn ‘Abbas: be patient when angry, forbearing in the face of ignorance, and forgiving when wronged.",
+      "bn": "মন্দকে প্রতিহত করো যা উত্তম তা দিয়ে, তখন শত্রুও হয়ে যাবে অন্তরঙ্গ বন্ধুর মতো; কিন্তু এটা কেবল ধৈর্যশীলদেরই দেওয়া হয়। আস-সাদি কারণটা বলেছেন: মানুষের মন এমনভাবে গড়া যে কষ্টের জবাব কষ্ট দিয়েই দিতে চায়; দয়া দিয়ে জবাব দিতে নিজের বিরুদ্ধে সবর লাগে। ইবনে কাসির ইবনে আব্বাস (রাঃ)-এর কথা এনেছেন: রাগের সময় সবর, অজ্ঞতার সামনে সহনশীলতা, আর অন্যায়ের শিকার হলে মাফ করে দেওয়া।"
+     }
+    },
+    {
+     "ref": "42:43",
+     "note": {
+      "en": "This follows ayat that allow the wronged to answer in kind and declare no blame on them (42:40-41). Ibn Kathir notes the order: having prescribed just retribution, Allah encourages forgiveness, and this patience means bearing the insult and covering the wrong. Retaliation stays blameless; patience with forgiveness is placed above it.",
+      "bn": "আয়াতটি আসে সেই আয়াতগুলোর পরে, যেখানে অন্যায়ের শিকারকে সমান বদলা নেওয়ার অনুমতি দেওয়া হয়েছে, আর বলা হয়েছে তাতে কোনো দোষ নেই (৪২:৪০ ও ৪১)। ইবনে কাসির ক্রমটা লক্ষ করেছেন: ন্যায্য কিসাসের বিধান দেওয়ার পর আল্লাহ মাফ করে দিতে উৎসাহ দিয়েছেন। তাঁর ব্যাখ্যায় এখানে সবর মানে অপমান সয়ে নেওয়া আর মন্দ কাজটা ঢেকে রাখা। বদলায় দোষ নেই, তবে সবরসহ মাফকে রাখা হয়েছে তার ওপরে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-reward",
+   "title": {
+    "en": "What the patient are given",
+    "bn": "ধৈর্যশীলদের প্রতিদান"
+   },
+   "body": [
+    {
+     "en": "The Quran describes the reward of the patient in many forms. It is a reward “without account” (39:10), a reward given twice (28:54), success declared on the Day by Allah Himself (23:111), a garden and silk (76:12), and the angels’ greeting as they enter from every gate: peace be upon you for what you patiently endured (13:24). 16:96 adds that the patient will be paid by the best of what they did. Several of these ayat give the cause in the same short phrase: bima sabaru, because they were patient.",
+     "bn": "ধৈর্যশীলদের প্রতিদান কুরআন নানা রূপে বর্ণনা করেছে। তা ‘হিসাব ছাড়া’ প্রতিদান (৩৯:১০), দুবার দেওয়া প্রতিদান (২৮:৫৪), কিয়ামতের দিন স্বয়ং আল্লাহর ঘোষিত সফলতা (২৩:১১১), জান্নাত আর রেশম (৭৬:১২), আর প্রতিটি দরজা দিয়ে ঢুকে ফেরেশতাদের সালাম: তোমরা যে সবর করেছ তার জন্য তোমাদের ওপর শান্তি (১৩:২৪)। ১৬:৯৬ যোগ করে, তাদের প্রতিদান দেওয়া হবে তাদের শ্রেষ্ঠ আমলের মাপে। এর কয়েকটি আয়াতে কারণটা একই ছোট্ট বাক্যাংশে বলা: বিমা সাবারু, কারণ তারা সবর করেছিল।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "39:10",
+     "note": {
+      "en": "The ayah joins two things that seem unrelated: “the earth of Allah is spacious” and the reward without account. Ibn Kathir reports that Mujahid read the first as a call to emigrate. As-Sa‘di explains: if you are prevented from worshipping Him in one land, move to another; and he says the reward without measure covers all three kinds of patience. Leaving home for one’s faith is one such patience.",
+      "bn": "আয়াতটি দুটো আপাত-অসম্পর্কিত কথা জুড়েছে: ‘আল্লাহর জমিন প্রশস্ত’, আর হিসাবহীন প্রতিদান। ইবনে কাসির জানিয়েছেন, মুজাহিদ প্রথম কথাটিকে হিজরতের ডাক হিসেবে পড়েছেন। আস-সাদি ব্যাখ্যা করেছেন: এক দেশে আল্লাহর ইবাদতে বাধা পেলে অন্য দেশে চলে যাও; আর বলেছেন, অপরিমেয় প্রতিদান তিন ধরনের সবরকেই ঘিরে আছে। দ্বীনের জন্য ঘর ছেড়ে যাওয়াও তেমনই এক সবর।"
+     }
+    },
+    {
+     "ref": "28:54",
+     "note": {
+      "en": "Those given their reward twice are believers from among the People of the Book who believed in their own scripture and then in the Quran (28:52-53). Ibn Kathir: “because they were patient” means in holding to the truth, which is not easy for people. As-Sa‘di: no doubt shook them, and neither rank nor desire turned them back. Their patience also faces outward: they repel evil with good.",
+      "bn": "দুবার প্রতিদান যাঁরা পাবেন, তাঁরা আহলে কিতাবের সেই মুমিনরা, যাঁরা নিজেদের কিতাবে বিশ্বাস রেখেছিলেন, তারপর কুরআনেও ঈমান এনেছেন (২৮:৫২ ও ৫৩)। ইবনে কাসিরের মতে ‘কারণ তারা সবর করেছে’ মানে সত্যকে আঁকড়ে থাকায় সবর, যা মানুষের জন্য সহজ নয়। আস-সাদি বলেন, কোনো সংশয় তাঁদের নাড়াতে পারেনি, পদমর্যাদা বা প্রবৃত্তিও তাঁদের ফেরাতে পারেনি। তাঁদের সবরের একটা বাইরের দিকও আছে: তাঁরা মন্দকে ঠেকান ভালো দিয়ে।"
+     }
+    },
+    {
+     "ref": "76:12",
+     "note": {
+      "en": "In al-Insan this reward follows people who fed the needy, the orphan and the captive for Allah’s sake alone (76:8-9). As-Sa‘di again applies the three kinds of patience, and suggests silk is singled out because outer clothing shows the state of the one who wears it. Ibn Kathir reads the reward as a spacious home, a pleasant life and fine clothing.",
+      "bn": "সূরা আল-ইনসানে এই প্রতিদান আসে সেই মানুষদের পরে, যারা শুধু আল্লাহর সন্তুষ্টির জন্য অভাবী, এতিম আর বন্দিকে খাওয়াত (৭৬:৮ ও ৯)। আস-সাদি এখানেও তিন ধরনের সবরের কথা বলেছেন, আর অনুমান করেছেন, রেশমকে আলাদা করে বলা হয়েছে হয়তো এ কারণে যে বাইরের পোশাক মানুষের অবস্থা প্রকাশ করে। ইবনে কাসির প্রতিদানটিকে পড়েছেন প্রশস্ত ঘর, আনন্দময় জীবন আর সুন্দর পোশাক হিসেবে।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "When news of a loss reaches you, say inna lillahi wa inna ilayhi raji‘un, then the du‘a Umm Salamah learned: Allahumma’jurni fi musibati wa akhlif li khayran minha (Muslim 918).",
+   "bn": "কোনো ক্ষতির খবর এলে বলুন ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন, তারপর উম্মে সালামা (রাঃ)-এর শেখা দোয়াটি: আল্লাহুম্মা আজুরনি ফি মুসিবাতি ওয়া আখলিফ লি খাইরান মিনহা (মুসলিম ৯১৮)।"
+  },
+  {
+   "en": "When something weighs on you, go to prayer before you react or decide; 2:45 and 2:153 name prayer beside patience as the help to seek.",
+   "bn": "কোনো কিছু মনের ওপর চেপে বসলে প্রতিক্রিয়া দেখানো বা সিদ্ধান্ত নেওয়ার আগে নামাজে দাঁড়ান। ২:৪৫ আর ২:১৫৩ সবরের পাশে নামাজকেই সাহায্যের উপায় বলেছে।"
+  },
+  {
+   "en": "Measure yourself against the three kinds this week: one duty you are holding to, one sin you are holding back from, one decree you are bearing.",
+   "bn": "এ সপ্তাহে তিন ধরনের সবর দিয়ে নিজেকে মেপে দেখুন: একটা দায়িত্ব যা ধরে রেখেছেন, একটা গুনাহ যা থেকে নিজেকে আটকে রেখেছেন, আর একটা ফয়সালা যা বহন করছেন।"
+  },
+  {
+   "en": "Take your grief to Allah in du‘a, as Ya‘qub did in 12:86, and keep resentment out of what you say to people.",
+   "bn": "দুঃখের কথা দোয়ায় আল্লাহকে বলুন, যেমন ইয়াকুব (আঃ) বলেছিলেন (১২:৮৬), আর মানুষের সঙ্গে কথায় অসন্তোষ আসতে দেবেন না।"
+  },
+  {
+   "en": "The next time someone wrongs you in words, answer once with something better, as 41:34 asks, and ask Allah for the patience it takes.",
+   "bn": "এরপর কেউ কথা দিয়ে কষ্ট দিলে অন্তত একবার ৪১:৩৪-এর মতো উত্তম কিছু দিয়ে জবাব দিন, আর এর জন্য যে সবর লাগে, তা আল্লাহর কাছে চেয়ে নিন।"
+  },
+  {
+   "en": "Once a week, stay in the mosque after one prayer waiting for the next: one of the three deeds the Prophet ﷺ called ar-ribat (Muslim 251).",
+   "bn": "সপ্তাহে অন্তত একবার এক নামাজের পর পরের নামাজের অপেক্ষায় মসজিদে থেকে যান। নবী ﷺ যে তিনটি আমলকে রিবাত বলেছেন, এটি তার একটি (মুসলিম ২৫১)।"
+  }
+ ],
  "refs": [
+  "2:45",
   "2:153",
   "2:155",
+  "2:156",
   "2:177",
   "2:250",
   "3:17",
@@ -64,8 +451,54 @@
   "90:17",
   "103:3"
  ],
+ "refsDropped": [],
  "videos": [],
- "reading": [],
- "sources": [],
- "related": []
+ "reading": [
+  {
+   "title": {
+    "en": "What Are the Virtues of Patience in Islam?",
+    "bn": "ইসলামে সবরের ফজিলত"
+   },
+   "url": "https://islamqa.info/en/answers/35869/what-are-the-virtues-of-patience-in-islam",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "When Our Worlds Are Shaken: Finding Strength in ‘Beautiful Patience’",
+    "bn": "যখন জগৎ কেঁপে ওঠে: ‘সুন্দর সবরে’ শক্তি খোঁজা"
+   },
+   "url": "https://yaqeeninstitute.org/read/paper/when-our-worlds-are-shaken-finding-strength-in-beautiful-patience",
+   "site": "yaqeeninstitute.org",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "Hadith: Whoever tries to be patient, Allah will make him patient",
+    "bn": "হাদীস: যে ধৈর্য ধারণের চেষ্টা করবে, আল্লাহ তাকে ধৈর্য দান করবেন"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/4967",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Hadith: O Allah, reward me in my calamity and replace it with something better",
+    "bn": "হাদীস: হে আল্লাহ, আমার মুসীবতে আমাকে সওয়াব দিন এবং এর চেয়ে উত্তম বিনিময় দিন"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/65772",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir (abridged English)",
+  "Tafsir as-Sa‘di"
+ ],
+ "related": [
+  "allah-gratitude",
+  "th-o-believers",
+  "th-paradise",
+  "th-repentance"
+ ]
 }

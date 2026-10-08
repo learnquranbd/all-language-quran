@@ -1,14 +1,412 @@
 {
  "id": "th-hell",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "Hell and Its People",
   "bn": "জাহান্নাম ও এর অধিবাসী"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "What the Quran says of the Fire, its names, keepers, food and speech, and the door still open to those who turn back.",
+  "bn": "আগুনের কথা কুরআন কী বলেছে: এর নাম, প্রহরী, খাবার, অধিবাসীদের কথাবার্তা। আর ফিরে আসতে চাইলে যে দরজা এখনো খোলা।"
+ },
+ "intro": [
+  {
+   "en": "More than two hundred ayat are listed under this heading. The Quran describes the Fire often, and says plainly what for. After layers of fire above and below (39:16), the ayah turns to the reader: “By that Allah warns His servants. O My servants, then fear Me.” In 74:31 the account of Saqar ends, “it is nothing but a reminder to humanity.” The Fire is described to people who can still act on the description.",
+   "bn": "এই শিরোনামের নিচে দুই শতাধিক আয়াত রাখা হয়েছে। কুরআনে আগুনের বর্ণনা এসেছে বারবার, আর কেন এই বর্ণনা, তা-ও সোজাসুজি বলা আছে। ৩৯:১৬-তে ওপরে-নিচে আগুনের স্তরের কথা বলার পরই আয়াতটি পাঠকের দিকে ফেরে: “এ দিয়ে আল্লাহ তাঁর বান্দাদের সতর্ক করেন। হে আমার বান্দারা, আমাকেই ভয় করো।” ৭৪:৩১-এ সাকারের বিবরণ শেষ হয় এই কথায়: “এটা মানুষের জন্য উপদেশ ছাড়া কিছু নয়।” অর্থাৎ বর্ণনাটা শোনানো হচ্ছে এমন মানুষদের, যারা এখনো সেই অনুযায়ী কাজ করতে পারে।"
+  },
+  {
+   "en": "This page reads the ayat in seven steps: the Fire's names, its gates and keepers, its fuel, food and drink, what its people say, the deeds its people name, the plea to be sent back, and the question of eternity. Two things run through all of them. The people of faith in the Quran ask protection from it in their own voice, “protect us”, “avert from us” (2:201, 25:65), rather than pointing at others. And beside one of the gravest lists of sins on this page stands the exception: “except whoever repents” (25:70).",
+   "bn": "এই পাতায় আয়াতগুলো পড়া হয়েছে সাতটি ধাপে: আগুনের নাম, এর দরজা ও প্রহরী, এর জ্বালানি, খাবার ও পানীয়, এর অধিবাসীদের কথাবার্তা, তারা নিজেরা যে আমলগুলোর কথা বলে, ফিরে যাওয়ার আকুতি, আর চিরস্থায়িত্বের প্রশ্ন। সব ধাপে দুটি কথা মনে রাখার মতো। কুরআনে ঈমানদাররা এ থেকে আশ্রয় চায় নিজেদের মুখে, “আমাদের রক্ষা করুন”, “আমাদের থেকে সরিয়ে দিন” বলে (২:২০১, ২৫:৬৫), অন্যের দিকে আঙুল তুলে নয়। আর এ পাতার গুনাহের সবচেয়ে কঠিন তালিকাগুলোর একটির পাশেই এসেছে ব্যতিক্রম: “তবে যে তওবা করে” (২৫:৭০)।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "its-names",
+   "title": {
+    "en": "Its Names in the Quran",
+    "bn": "কুরআনে এর নামগুলো"
+   },
+   "body": [
+    {
+     "en": "The Quran calls it an-Nar, the Fire, and Jahannam most often, and also al-Jahim (2:119), as-Sa'ir, the Blaze (67:5), Saqar (74:26), Laza (70:15), al-Hutamah (104:4) and al-Hawiyah (101:9). Ibn Kathir calls al-Hutamah “one of the descriptive names” of the Fire, named for what it does: it crushes. On one reading he reports, al-Hawiyah too is “one of the names of the Hellfire”. Three of them come with the question “and what can make you know what it is?” (74:27, 101:10, 104:5).",
+     "bn": "কুরআন একে সবচেয়ে বেশি বলেছে ‘আন-নার’, অর্থাৎ আগুন, আর ‘জাহান্নাম’। এ ছাড়া এসেছে জাহিম (২:১১৯), সাঈর বা লেলিহান আগুন (৬৭:৫), সাকার (৭৪:২৬), লাযা (৭০:১৫), হুতামা (১০৪:৪) আর হাবিয়া (১০১:৯)। ইবনে কাসির হুতামাকে বলেছেন আগুনের ‘বর্ণনামূলক নামগুলোর একটি’। নামটা এসেছে এর কাজ থেকে: এটা চূর্ণ করে। তাঁর উল্লেখ করা এক মতে হাবিয়াও ‘জাহান্নামের নামগুলোর একটি’। এর তিনটির সঙ্গে প্রশ্ন এসেছে, “তুমি কী জানো সেটা কী?” (৭৪:২৭, ১০১:১০, ১০৪:৫)।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "74:27",
+     "note": {
+      "en": "Saqar is named, then the question, then the answer: it spares nothing and leaves nothing (74:28), it scorches the skin (74:29). Ibn Kathir: it eats flesh, sinews and skin, then their organs are changed into something else. As-Sa'di: there is no degree of severity it does not reach. The passage concerns a man who heard the Quran and called it “magic imitated from others” (74:24).",
+      "bn": "আগে নাম, সাকার। তারপর প্রশ্ন। তারপর জবাব: এটা কিছুই বাকি রাখে না, কিছুই ছেড়ে দেয় না (৭৪:২৮), চামড়া ঝলসে দেয় (৭৪:২৯)। ইবনে কাসির বলেন, এটা গোশত, শিরা আর চামড়া খেয়ে ফেলে, তারপর অঙ্গপ্রত্যঙ্গ বদলে অন্য কিছু করে দেওয়া হয়। আস-সা'দীর ব্যাখ্যায়, কষ্টের এমন কোনো মাত্রা নেই যেখানে এটা পৌঁছায় না। প্রসঙ্গ এক লোকের, যে কুরআন শুনে বলেছিল, “এ তো অন্যদের থেকে পাওয়া জাদু” (৭৪:২৪)।"
+     }
+    },
+    {
+     "ref": "70:15",
+     "note": {
+      "en": "Laza answers a wish. In 70:11-14 the criminal would ransom himself with his children, wife, brother, kin and everyone on earth; 70:15 opens, “No!” As-Sa'di: no trick and no escape. Al-Qurtubi derives Laza from talazzi, the flaring of fire, and links it to 92:14, “a Fire that blazes”.",
+      "bn": "লাযা নামটি এসেছে একটা আকাঙ্ক্ষার জবাবে। ৭০:১১-১৪ বলছে, অপরাধী সেদিন নিজেকে বাঁচাতে সন্তান, স্ত্রী, ভাই, গোষ্ঠী, এমনকি দুনিয়ার সবাইকে মুক্তিপণ দিতে চাইবে। ৭০:১৫ শুরু হয় এক কথায়: “কখনো না!” আস-সা'দী বলেন, কোনো কৌশল নেই, পালানোর পথও নেই। আল-কুরতুবী শব্দটির মূল ধরেছেন ‘তালাজ্জি’, আগুন দাউদাউ করে জ্বলে ওঠা, আর মিলিয়েছেন ৯২:১৪-এর সঙ্গে, “লেলিহান আগুন”।"
+     }
+    },
+    {
+     "ref": "104:6",
+     "note": {
+      "en": "Al-Hutamah, Ibn Kathir says, is so called because it crushes whoever is in it. It is “the fire of Allah, kindled, which rises over the hearts” (104:6-7). He quotes Muhammad ibn Ka'b: it consumes the body until it reaches the heart. The surah began with the scorner who gathered wealth, counted it, and thought it would make him last (104:1-3).",
+      "bn": "ইবনে কাসির বলেন, হুতামা নাম হয়েছে কারণ এর ভেতরে যে থাকে তাকে এটা চূর্ণ করে দেয়। এটা “আল্লাহর প্রজ্বলিত আগুন, যা হৃদয় পর্যন্ত চড়ে ওঠে” (১০৪:৬-৭)। তিনি মুহাম্মাদ ইবনে কাবের কথা এনেছেন: আগুন দেহ খেতে খেতে হৃদয় পর্যন্ত পৌঁছে যায়। সূরার শুরুতে আছে সেই নিন্দুক, যে সম্পদ জমিয়েছে, গুনে গুনে রেখেছে, আর ভেবেছে এই সম্পদ তাকে চিরকাল টিকিয়ে রাখবে (১০৪:১-৩)।"
+     }
+    },
+    {
+     "ref": "101:9",
+     "note": {
+      "en": "“His mother will be Hawiyah,” said of the one whose scales are light (101:8). Ibn Kathir records two readings: he falls headfirst into the Fire, “mother” meaning his brain, the “mother” of his head (Qatadah, Abu Salih and others); or Hawiyah is a name of the Fire, called his mother because, as Ibn Jarir puts it, he has no other abode. As-Sa'di gives both, the second first.",
+      "bn": "“তার মা হবে হাবিয়া।” কথাটা তার সম্পর্কে, যার পাল্লা হালকা হবে (১০১:৮)। ইবনে কাসির দুটি ব্যাখ্যা উল্লেখ করেছেন। এক, সে মাথা নিচে দিয়ে আগুনে পড়বে, ‘মা’ বলতে তার মগজ, যাকে মাথার ‘মা’ বলা হয় (কাতাদা, আবু সালিহ প্রমুখ)। দুই, হাবিয়া আগুনেরই এক নাম, আর তাকে ‘মা’ বলা হয়েছে কারণ ইবনে জারিরের ভাষায়, তার আর কোনো ঠিকানা থাকবে না। আস-সা'দী দুটোই এনেছেন, দ্বিতীয়টি আগে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "gates-and-keepers",
+   "title": {
+    "en": "Seven Gates and the Keepers",
+    "bn": "সাত দরজা ও প্রহরীরা"
+   },
+   "body": [
+    {
+     "en": "Hell has gates (15:44, 39:71, 40:76), keepers (39:71, 67:8, 40:49) and a stated number over it (74:30). The details are few and sober, and the Quran itself explains why the number was given (74:31). What stands out is what the keepers say. Every time a company is thrown in, they ask the same question: did no warner come to you? Ibn Kathir reads it as Allah's justice: He does not punish until proof has been established and a messenger sent (17:15). The question also means that the warning is being given now, to the one who reads it.",
+     "bn": "জাহান্নামের দরজা আছে (১৫:৪৪, ৩৯:৭১, ৪০:৭৬), প্রহরী আছে (৩৯:৭১, ৬৭:৮, ৪০:৪৯), আর এর ওপর নিযুক্তদের একটা সংখ্যাও বলা হয়েছে (৭৪:৩০)। বিবরণ অল্প, সংযত। সংখ্যাটা কেন জানানো হলো, তা-ও কুরআন নিজেই বলেছে (৭৪:৩১)। চোখে পড়ার মতো হলো প্রহরীদের কথা। প্রতিবার একদলকে ছুড়ে ফেলা হলে তারা একই প্রশ্ন করে: তোমাদের কাছে কি কোনো সতর্ককারী আসেনি? ইবনে কাসির একে আল্লাহর ইনসাফ হিসেবে পড়েছেন। রাসূল পাঠিয়ে প্রমাণ কায়েম না করে তিনি শাস্তি দেন না (১৭:১৫)। প্রশ্নটার আরেক মানে, সতর্কবাণী এখনই দেওয়া হচ্ছে, যিনি পড়ছেন তাঁকেই।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "15:44",
+     "note": {
+      "en": "Seven gates, “for every gate a portion of them assigned”. Ibn Kathir: each will enter by a gate, and settle at a level, according to his deeds. As-Sa'di: each gate lies lower than the one before. Two ayat earlier (15:42) it has already said Iblis has no authority over Allah's servants except those who follow him.",
+      "bn": "সাতটি দরজা, “প্রতিটি দরজার জন্য তাদের একেকটি নির্দিষ্ট অংশ।” ইবনে কাসির বলেন, প্রত্যেকে নিজের আমল অনুযায়ী একটা দরজা দিয়ে ঢুকবে, আর আমল অনুযায়ী একটা স্তরে থাকবে। আস-সা'দী বলেন, প্রতিটি দরজা আগেরটির চেয়ে নিচে। দুই আয়াত আগেই (১৫:৪২) বলা হয়ে গেছে, আল্লাহর বান্দাদের ওপর ইবলিসের কোনো ক্ষমতা নেই, শুধু তারা ছাড়া যারা তার অনুসরণ করে।"
+     }
+    },
+    {
+     "ref": "39:71",
+     "note": {
+      "en": "Driven “in groups”. As-Sa'di: each group with those whose deeds resemble its own, cursing and disowning one another. The gates open as they arrive; Ibn Kathir says quickly, to hasten the punishment. The keepers ask whether messengers came “from among yourselves”, and the answer is “Yes.” As-Sa'di: they confess their sin and that Allah's proof stood against them.",
+      "bn": "তাদের হাঁকিয়ে নেওয়া হবে “দলে দলে”। আস-সা'দী বলেন, প্রতিটি দল থাকবে নিজের মতো আমলওয়ালাদের সঙ্গে, একে অন্যকে অভিশাপ দেবে, একে অন্যের দায় অস্বীকার করবে। তারা পৌঁছানো মাত্র দরজা খুলে যাবে। ইবনে কাসির বলেন, দ্রুত খুলবে, যাতে শাস্তি তাড়াতাড়ি শুরু হয়। প্রহরীরা জিজ্ঞেস করবে, তোমাদের মধ্য থেকেই কি রাসূলরা আসেননি? জবাব: “হ্যাঁ।” আস-সা'দীর ব্যাখ্যায়, তারা নিজেদের গুনাহ মেনে নেবে, আর মেনে নেবে যে আল্লাহর প্রমাণ তাদের বিরুদ্ধে কায়েম হয়েছিল।"
+     }
+    },
+    {
+     "ref": "66:6",
+     "note": {
+      "en": "Addressed to believers: protect yourselves and your families. As-Sa'di: protecting oneself means keeping Allah's command, avoiding what He forbids, and repenting from what angers Him; protecting family means teaching and raising them. Ibn Kathir: its angels obey without delay. Two ayat later (66:8) comes the call to sincere repentance, which, he says, erases the sins before it.",
+      "bn": "কথাটা ঈমানদারদের উদ্দেশে: নিজেদের আর পরিবার-পরিজনকে বাঁচাও। আস-সা'দী বলেন, নিজেকে বাঁচানো মানে আল্লাহর হুকুম মেনে চলা, নিষেধ থেকে দূরে থাকা, আর যা তাঁকে অসন্তুষ্ট করে তা থেকে তওবা করা। পরিবারকে বাঁচানো মানে তাদের শেখানো ও গড়ে তোলা। ইবনে কাসির বলেন, এর ফেরেশতারা হুকুম পালনে এক মুহূর্তও দেরি করে না। দুই আয়াত পরেই (৬৬:৮) খাঁটি তওবার ডাক। তাঁর ব্যাখ্যায়, এমন তওবা আগের গুনাহ মুছে দেয়।"
+     }
+    },
+    {
+     "ref": "74:31",
+     "note": {
+      "en": "The keepers are angels, and their number is “a trial”. As-Sa'di gives two readings: a trial meaning punishment, or the number was told to sift believer from denier, which the rest of the ayah supports: the People of the Book gain certainty, believers grow in faith. Ibn Kathir adds that “none knows the soldiers of your Lord but He”, so no one should think they are only nineteen.",
+      "bn": "প্রহরীরা ফেরেশতা, আর তাদের সংখ্যা “একটি পরীক্ষা”। আস-সা'দী দুটি অর্থ দিয়েছেন। এক, পরীক্ষা মানে শাস্তি। দুই, সংখ্যাটা জানানো হয়েছে কে বিশ্বাস করে আর কে অস্বীকার করে তা আলাদা করতে। আয়াতের বাকি অংশ এ অর্থকে সমর্থন করে: আহলে কিতাব নিশ্চিত হবে, ঈমানদারদের ঈমান বাড়বে। ইবনে কাসির আরও বলেন, “তোমার রবের বাহিনী তিনি ছাড়া কেউ জানে না”, তাই কেউ যেন না ভাবে তারা মোটে উনিশজন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fuel-food-drink",
+   "title": {
+    "en": "Its Fuel, Food and Drink",
+    "bn": "এর জ্বালানি, খাবার ও পানীয়"
+   },
+   "body": [
+    {
+     "en": "The Quran describes the Fire in things everyone knows: fuel, food, drink, clothing, skin. Each is turned against its purpose. Its fuel is people and stones (2:24, 66:6). Its food is zaqqum (44:43) and dari' (88:6). Its drink is festering water (14:16) and water like murky oil that scalds the face (18:29). There are garments cut of fire (22:19), and skins replaced each time they are burnt through, “so they may taste the punishment” (4:56). As-Sa'di puts the logic in a line on 88:7: food exists to end hunger or to nourish, and this food does neither.",
+     "bn": "কুরআন আগুনের বর্ণনা দিয়েছে এমন সব জিনিস দিয়ে যা সবাই চেনে: জ্বালানি, খাবার, পানীয়, পোশাক, চামড়া। প্রতিটিকে উল্টে দেওয়া হয়েছে তার আসল কাজের বিপরীতে। এর জ্বালানি মানুষ আর পাথর (২:২৪, ৬৬:৬)। খাবার যাক্কুম (৪৪:৪৩) আর দারি (৮৮:৬)। পানীয় পুঁজমিশ্রিত পানি (১৪:১৬) আর তেলের গাদের মতো পানি, যা মুখ ঝলসে দেয় (১৮:২৯)। আছে আগুনের তৈরি পোশাক (২২:১৯), আর চামড়া পুড়ে গেলেই নতুন চামড়া, “যাতে তারা শাস্তির স্বাদ পায়” (৪:৫৬)। আস-সা'দী ৮৮:৭-এর ব্যাখ্যায় পুরো কথাটা এক লাইনে বলেছেন: খাবার হয় ক্ষুধা মেটায়, নয় শরীরে পুষ্টি দেয়। এই খাবার কোনোটাই করে না।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:24",
+     "note": {
+      "en": "Spoken inside the challenge to produce a surah like the Quran: “and you will never be able to”, so fear the Fire. Ibn Kathir: the stones are huge black sulphurous stones, hottest when heated, or, in another report, the idols that were worshipped (21:98). As-Sa'di draws the conclusion: so beware of rejecting the Messenger once the truth has become clear.",
+      "bn": "আয়াতটি এসেছে কুরআনের মতো একটি সূরা বানিয়ে আনার চ্যালেঞ্জের ভেতরে: “তোমরা কখনো পারবে না”, অতএব আগুনকে ভয় করো। ইবনে কাসির বলেন, পাথরগুলো বিশাল কালো গন্ধকের পাথর, যা তাপে সবচেয়ে বেশি গরম হয়। আরেক বর্ণনায়, যেসব মূর্তির পূজা করা হতো (২১:৯৮)। আস-সা'দী উপসংহার টেনেছেন: তাই সত্য স্পষ্ট হওয়ার পর রাসূলকে অস্বীকার করা থেকে সাবধান হও।"
+     }
+    },
+    {
+     "ref": "14:16",
+     "note": {
+      "en": "Said of the obstinate tyrant (14:15). “Before him is Hell”: Ibn Kathir, awaiting him. The drink is sadid; Mujahid and 'Ikrimah say pus and blood. In 14:17 he sips it and can hardly swallow, and death comes at him from every side, yet he does not die. As-Sa'di: every kind of torment there reaches the severity of death, but Allah has decreed they will not die.",
+      "bn": "কথাটা উদ্ধত স্বৈরাচারীর সম্পর্কে (১৪:১৫)। “তার সামনে জাহান্নাম।” ইবনে কাসিরের ব্যাখ্যায়, জাহান্নাম তার অপেক্ষায় আছে। তার পানীয় ‘সাদীদ’, মুজাহিদ ও ইকরিমার মতে পুঁজ আর রক্ত। ১৪:১৭ বলছে, সে তা ঢোক ঢোক করে গিলতে চাইবে, কিন্তু প্রায় গিলতেই পারবে না। চারদিক থেকে মৃত্যু আসবে, অথচ সে মরবে না। আস-সা'দী বলেন, সেখানকার প্রতিটি শাস্তিই মৃত্যুর সমান কষ্টের, কিন্তু আল্লাহ ফয়সালা করে রেখেছেন যে তারা মরবে না।"
+     }
+    },
+    {
+     "ref": "44:43",
+     "note": {
+      "en": "Zaqqum, “the food of the sinner”. Ibn Kathir notes that more than one commentator applied it to Abu Jahl, and says he is included though it is not about him alone. Like molten dregs, it boils in the belly (44:45-46); as-Sa'di: like foul, scalding pus. Then comes the taunt, “Taste! You are the mighty, the noble” (44:49); Ibn 'Abbas, via Ibn Kathir: meaning you are neither.",
+      "bn": "যাক্কুম, “পাপীর খাবার”। ইবনে কাসির জানান, একাধিক মুফাসসির আয়াতটি আবু জাহলের ব্যাপারে বলেছেন। তাঁর মত, সে এর অন্তর্ভুক্ত, তবে আয়াত শুধু তাকে নিয়ে নয়। গলিত তেলের তলানির মতো, পেটে টগবগ করে ফুটবে (৪৪:৪৫-৪৬)। আস-সা'দীর ভাষায়, দুর্গন্ধময় ফুটন্ত পুঁজের মতো। তারপর বিদ্রূপ: “স্বাদ নাও! তুমি তো মহাসম্মানিত, অভিজাত!” (৪৪:৪৯)। ইবনে কাসির ইবনে আব্বাসের (রাঃ) কথা এনেছেন: অর্থাৎ তুমি এর কোনোটাই নও।"
+     }
+    },
+    {
+     "ref": "88:6",
+     "note": {
+      "en": "“No food for them except dari'.” Ibn Kathir: Ibn 'Abbas, Mujahid, 'Ikrimah and Qatadah identify it as shibriq, a plant; 'Ikrimah calls it thorny, and Mujahid adds that it is called dari' when dry, and is poisonous. Qatadah: of the worst and most loathsome of foods. Then 88:7: it neither nourishes nor relieves hunger. As-Sa'di: bitter, putrid and vile; “we ask Allah for well-being.”",
+      "bn": "“দারি ছাড়া তাদের আর কোনো খাবার থাকবে না।” ইবনে কাসির জানান, ইবনে আব্বাস (রাঃ), মুজাহিদ, ইকরিমা ও কাতাদা একে বলেছেন ‘শিবরিক’, এক রকম গাছ। ইকরিমা বলেছেন, তা কাঁটাওয়ালা। মুজাহিদ যোগ করেছেন, শুকিয়ে গেলে একে দারি বলা হয়, আর তা বিষাক্ত। কাতাদা বলেন, খাবারের মধ্যে এটা সবচেয়ে নিকৃষ্ট ও ঘৃণ্য। এরপর ৮৮:৭: এটা পুষ্টিও দেয় না, ক্ষুধাও মেটায় না। আস-সা'দী বলেন, তা চরম তেতো, দুর্গন্ধময়, হীন। “আমরা আল্লাহর কাছে নিরাপত্তা চাই।”"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 3265",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-3265",
+     "text": {
+      "en": "Abu Hurayrah narrated that the Messenger of Allah ﷺ said: “Your fire is one of seventy parts of the fire of Jahannam.” It was said: “O Messenger of Allah, this fire would have been enough.” He said: “It has been made greater than it by sixty-nine parts, each of them as hot as this fire.”",
+      "bn": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: “তোমাদের এই আগুন জাহান্নামের আগুনের সত্তর ভাগের এক ভাগ।” বলা হলো, “হে আল্লাহর রাসূল, এটুকুই তো যথেষ্ট ছিল।” তিনি বললেন: “ওটাকে এর চেয়ে আরও উনসত্তর ভাগ বাড়িয়ে দেওয়া হয়েছে, যার প্রতিটি ভাগ এরই মতো উত্তপ্ত।”"
+     },
+     "note": {
+      "en": "Ibn Kathir cites this under 101:11, “a Fire intensely hot”. The Companion's remark is the reader's own reaction, and the answer does not argue with it. It only gives the measure.",
+      "bn": "ইবনে কাসির হাদিসটি এনেছেন ১০১:১১-এর ব্যাখ্যায়, “প্রচণ্ড উত্তপ্ত আগুন”। সাহাবির কথাটা আসলে পাঠকের মনেরই কথা। জবাবে কোনো তর্ক নেই, শুধু মাপটা জানিয়ে দেওয়া হয়েছে।"
+     }
+    },
+    {
+     "src": "Sahih al-Bukhari 6561",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-6561",
+     "text": {
+      "en": "An-Nu'man narrated: I heard the Prophet ﷺ say: “The least punished of the people of the Fire on the Day of Resurrection is a man under the arches of whose feet an ember is placed, from which his brain boils.”",
+      "bn": "নুমান (রাঃ) বলেন, আমি নবী ﷺ-কে বলতে শুনেছি: “কিয়ামতের দিন জাহান্নামিদের মধ্যে সবচেয়ে হালকা শাস্তি পাবে সেই ব্যক্তি, যার দুই পায়ের তালুর নিচে একটি জ্বলন্ত অঙ্গার রাখা হবে, আর তাতে তার মগজ টগবগ করে ফুটবে।”"
+     },
+     "note": {
+      "en": "This is the lightest degree, not the worst. It confirms that punishment there differs in degree, as Ibn Kathir reads 15:44, and that even the lightest is past bearing.",
+      "bn": "এটা সবচেয়ে হালকা স্তর, সবচেয়ে কঠিনটা নয়। ইবনে কাসির ১৫:৪৪-এর যে ব্যাখ্যা দিয়েছেন, সে অনুযায়ী সেখানে শাস্তির মাত্রা ভিন্ন ভিন্ন। হাদিসটি তা নিশ্চিত করে, আর দেখায় যে সবচেয়ে হালকাটাও সহ্যের বাইরে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "what-its-people-say",
+   "title": {
+    "en": "What Its People Say",
+    "bn": "এর অধিবাসীরা যা বলে"
+   },
+   "body": [
+    {
+     "en": "Much of what the Quran says about the Fire is speech. Its people argue with each other, plead with the keepers, call to the people of Paradise for water (7:50), and hear Satan disown them. Each nation that enters curses the one before it (7:38; see Those Allah Has Cursed). In almost every exchange someone confesses: we followed you; yes, a warner came; if only we had listened. The confessions are true; only the time in which they could help has gone. They are told to us now, while saying them still changes something.",
+     "bn": "আগুন নিয়ে কুরআনের অনেকটা জুড়েই কথাবার্তা। এর অধিবাসীরা নিজেদের মধ্যে ঝগড়া করে, প্রহরীদের কাছে কাকুতি-মিনতি করে, জান্নাতবাসীদের কাছে পানি চায় (৭:৫০), আর শুনতে পায় শয়তান তাদের দায় ঝেড়ে ফেলছে। প্রতিটি জাতি ঢুকেই আগের জাতিকে অভিশাপ দেয় (৭:৩৮; দেখুন ‘যাদের আল্লাহ লানত করেছেন’)। প্রায় প্রতিটি কথোপকথনে কেউ না কেউ স্বীকার করে: আমরা তোমাদের অনুসরণ করেছিলাম; হ্যাঁ, সতর্ককারী এসেছিল; যদি শুনতাম! স্বীকারোক্তিগুলো সত্য। হারিয়ে গেছে শুধু সেই সময়, যখন এগুলো কাজে আসত। কথাগুলো আমাদের আগেই শোনানো হলো, এখন বললে যখন কিছু বদলায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "40:47",
+     "note": {
+      "en": "The weak say to the arrogant: we were your followers, so will you take some share of the Fire off us? As-Sa'di: the followers argue they were misled, and the followed disown them. In 40:48 the arrogant answer, “We are all in it”, and Ibn Kathir explains that Allah has shared out the punishment as each deserves.",
+      "bn": "দুর্বলরা অহংকারীদের বলবে: আমরা তো তোমাদের অনুসারী ছিলাম, আগুনের কিছু অংশ কি আমাদের থেকে সরিয়ে নেবে? আস-সা'দী বলেন, অনুসারীরা যুক্তি দেবে যে তাদের বিপথে নেওয়া হয়েছিল, আর নেতারা তাদের দায় অস্বীকার করবে। ৪০:৪৮-এ অহংকারীদের জবাব: “আমরা সবাই এর মধ্যে আছি।” ইবনে কাসিরের ব্যাখ্যায়, আল্লাহ প্রত্যেকের প্রাপ্য অনুযায়ী শাস্তি ভাগ করে দিয়েছেন।"
+     }
+    },
+    {
+     "ref": "40:49",
+     "note": {
+      "en": "They ask the keepers to pray for one day's relief. Ibn Kathir: they know Allah will not answer them, because He has said “do not speak to Me” (23:108), so they turn to the keepers. The keepers ask whether messengers came with clear proofs; “Yes.” “Then call.” As-Sa'di: the keepers refuse to pray or intercede for them.",
+      "bn": "তারা প্রহরীদের অনুরোধ করবে, আমাদের জন্য দোয়া করো, যেন মাত্র একটা দিন শাস্তি হালকা হয়। ইবনে কাসির বলেন, তারা জানে আল্লাহ তাদের জবাব দেবেন না, কারণ তিনি বলে দিয়েছেন “আমার সঙ্গে কথা বোলো না” (২৩:১০৮)। তাই তারা প্রহরীদের কাছে যায়। প্রহরীরা জিজ্ঞেস করবে, রাসূলরা কি স্পষ্ট প্রমাণ নিয়ে আসেননি? “হ্যাঁ।” “তাহলে তোমরাই ডাকো।” আস-সা'দী বলেন, প্রহরীরা তাদের জন্য দোয়া বা সুপারিশ করতে অস্বীকার করবে।"
+     }
+    },
+    {
+     "ref": "14:22",
+     "note": {
+      "en": "Satan speaks once the matter is decided: Allah's promise was true, mine was false; I had no authority over you except that I called and you answered, so do not blame me, blame yourselves. As-Sa'di: the authority he denies is that of proof; his only hold is over those who take him as ally. And it is Allah's kindness, he adds, to have told us this in advance.",
+      "bn": "ফয়সালা হয়ে যাওয়ার পর শয়তান বলবে: আল্লাহর ওয়াদা ছিল সত্য, আমার ওয়াদা ছিল মিথ্যা। তোমাদের ওপর আমার কোনো ক্ষমতা ছিল না, আমি শুধু ডেকেছি আর তোমরা সাড়া দিয়েছ। তাই আমাকে দোষ দিয়ো না, নিজেদের দোষ দাও। আস-সা'দী বলেন, সে যে ক্ষমতা অস্বীকার করছে তা হলো যুক্তি-প্রমাণের ক্ষমতা। তার দখল শুধু তাদের ওপর, যারা তাকে বন্ধু বানায়। তিনি আরও বলেন, এ কথা আগেভাগে জানিয়ে দেওয়া বান্দাদের প্রতি আল্লাহর দয়া।"
+     }
+    },
+    {
+     "ref": "67:10",
+     "note": {
+      "en": "“If only we had listened or reasoned, we would not be among the companions of the Blaze.” As-Sa'di: they deny themselves both roads to guidance, hearing what Allah sent down and the reason that benefits its owner. In 67:11 they confess their sin. Ibn Kathir: they blame themselves and feel remorse when remorse no longer helps.",
+      "bn": "“আমরা যদি শুনতাম বা বুদ্ধি খাটাতাম, তাহলে লেলিহান আগুনের বাসিন্দা হতাম না।” আস-সা'দী বলেন, তারা নিজেদের ব্যাপারে হিদায়াতের দুটো পথই অস্বীকার করছে: আল্লাহ যা নাজিল করেছেন তা শোনা, আর এমন বুদ্ধি যা মানুষের কাজে লাগে। ৬৭:১১-তে তারা নিজেদের গুনাহ স্বীকার করবে। ইবনে কাসির বলেন, তারা নিজেদের দোষ দেবে, আর অনুতপ্ত হবে এমন সময়ে যখন অনুতাপে আর লাভ নেই।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "what-led-you-there",
+   "title": {
+    "en": "“What Put You into Saqar?”",
+    "bn": "“কিসে তোমাদের সাকারে ঢোকাল?”"
+   },
+   "body": [
+    {
+     "en": "The plainest list of what leads there is spoken by the people inside, answering the people of Paradise (74:40-47). Elsewhere the ayat name arrogance toward the truth (39:72, 40:60), hoarding wealth and withholding its due (9:34-35), deliberately killing a believer (4:93), and leaning toward wrongdoers (11:113). Ibn Kathir and as-Sa'di read the lists in 74:43-46 and 69:33-34 along two lines: the right of Allah, and the right of His creatures. Then 25:68-70, after naming three of the gravest sins and the doubled punishment, turns at once: “except whoever repents”.",
+     "bn": "আগুনের দিকে কী নিয়ে যায়, তার সবচেয়ে সোজা তালিকাটা এসেছে ভেতরের লোকদের মুখেই, জান্নাতবাসীদের প্রশ্নের জবাবে (৭৪:৪০-৪৭)। অন্য আয়াতে এসেছে সত্যের প্রতি অহংকার (৩৯:৭২, ৪০:৬০), সম্পদ জমিয়ে তার হক আদায় না করা (৯:৩৪-৩৫), জেনেবুঝে কোনো মুমিনকে হত্যা করা (৪:৯৩), আর জালিমদের দিকে ঝুঁকে পড়া (১১:১১৩)। ইবনে কাসির ও আস-সা'দী ৭৪:৪৩-৪৬ আর ৬৯:৩৩-৩৪-এর তালিকা পড়েছেন দুই দিক থেকে: আল্লাহর হক, আর তাঁর সৃষ্টির হক। আর ২৫:৬৮-৭০ সবচেয়ে বড় তিনটি গুনাহ আর দ্বিগুণ শাস্তির কথা বলেই সঙ্গে সঙ্গে মোড় নেয়: “তবে যে তওবা করে।”"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "74:42",
+     "note": {
+      "en": "Ibn Kathir: those in the lofty rooms ask the criminals in the lowest levels. Four answers follow: we did not pray, we did not feed the poor, we talked falsehood with those who talked, we denied the Day of Recompense until death came (74:43-47). As-Sa'di: no sincerity toward the One worshipped, and no benefit to creatures in need.",
+      "bn": "ইবনে কাসির বলেন, সুউচ্চ প্রাসাদের বাসিন্দারা সবচেয়ে নিচের স্তরের অপরাধীদের জিজ্ঞেস করবে। তারপর চারটি জবাব: আমরা নামাজ পড়তাম না, মিসকিনকে খাওয়াতাম না, বাজে আলাপকারীদের সঙ্গে বাজে আলাপে মেতে থাকতাম, আর প্রতিদান দিবসকে মিথ্যা বলতাম, যতক্ষণ না মৃত্যু এসে গেল (৭৪:৪৩-৪৭)। আস-সা'দী বলেন, না ছিল মাবুদের প্রতি ইখলাস, না ছিল অভাবী সৃষ্টির কোনো উপকার।"
+     }
+    },
+    {
+     "ref": "69:33",
+     "note": {
+      "en": "The reason given for the chain of 69:32: he did not believe in Allah the Most Great, and did not urge the feeding of the poor (69:34). Not even urge. As-Sa'di: happiness turns on two things, sincerity to Allah rooted in faith, and doing good to creation, the greatest form of which is feeding the needy. Ibn Kathir: he gave neither Allah's right nor people's.",
+      "bn": "৬৯:৩২-এর শিকলের কারণ এখানে: সে মহান আল্লাহর প্রতি ঈমান আনত না, আর মিসকিনকে খাবার দিতে উৎসাহও দিত না (৬৯:৩৪)। নিজে খাওয়ানো তো দূরের কথা, অন্যকে বলতও না। আস-সা'দী বলেন, সৌভাগ্যের মূল দুটি: ঈমানের ওপর দাঁড়ানো আল্লাহর প্রতি ইখলাস, আর সৃষ্টির প্রতি ইহসান, যার সবচেয়ে বড় রূপ অভাবীকে খাওয়ানো। ইবনে কাসির বলেন, সে আল্লাহর হকও দেয়নি, মানুষের হকও না।"
+     }
+    },
+    {
+     "ref": "25:68",
+     "note": {
+      "en": "Three sins are named together: shirk, unlawful killing and zina. As-Sa'di, on the next ayah, explains why these three are named together: they are among the greatest sins; shirk corrupts religion, killing corrupts lives, zina corrupts honour. For whoever does them, 25:69 promises a doubled punishment.",
+      "bn": "এখানে তিনটি গুনাহ একসঙ্গে এসেছে: শিরক, অন্যায় হত্যা আর জিনা। পরের আয়াতের ব্যাখ্যায় আস-সা'দী বলেছেন কেন এই তিনটি একসঙ্গে এসেছে: এগুলো সবচেয়ে বড় গুনাহগুলোর অন্যতম। শিরক দ্বীনকে নষ্ট করে, হত্যা জীবনকে, জিনা ইজ্জতকে। যে এগুলো করে, ২৫:৬৯ তার জন্য দ্বিগুণ শাস্তির কথা বলেছে।"
+     }
+    },
+    {
+     "ref": "25:70",
+     "note": {
+      "en": "“Except whoever repents, believes and does righteous work: for them Allah will replace their evil deeds with good.” Ibn Kathir: this proves the repentance of a killer is accepted, and he cites the man who killed a hundred. As-Sa'di: repentance means quitting now, regret for the past, firm resolve not to return; and, as the ayah's apparent meaning, each sin followed by repentance is itself turned into a good deed.",
+      "bn": "“তবে যে তওবা করে, ঈমান আনে আর নেক আমল করে, আল্লাহ তাদের গুনাহগুলোকে নেকিতে বদলে দেবেন।” ইবনে কাসির বলেন, এ আয়াত প্রমাণ করে হত্যাকারীর তওবাও কবুল হয়। তিনি সেই লোকের ঘটনা উল্লেখ করেছেন, যে একশজনকে হত্যা করেছিল। আস-সা'দী বলেন, তওবা মানে এখনই ছেড়ে দেওয়া, অতীতের জন্য অনুতাপ, আর না ফেরার পাকা সংকল্প। তাঁর মতে আয়াতের বাহ্যিক অর্থ এই যে, যে গুনাহর পরে তওবা এসেছে, সেই গুনাহটাই নেকিতে বদলে যায়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "send-me-back",
+   "title": {
+    "en": "“My Lord, Send Me Back”",
+    "bn": "“হে আমার রব, আমাকে ফেরত পাঠান”"
+   },
+   "body": [
+    {
+     "en": "The request to return is made more than once. Ibn Kathir, on 23:99, gathers the moments: at death, at the gathering for judgement, and in the agony of the Fire; none is answered. He quotes Qatadah on the dying man: he will not wish to go back to family or wealth, only to obedience. “May Allah have mercy on a man who does what the disbeliever will wish he had done when he sees the punishment.” The reader is still living in the time that will be wished for.",
+     "bn": "ফিরে যাওয়ার আবেদন একবার নয়, কয়েকবার আসে। ইবনে কাসির ২৩:৯৯-এর ব্যাখ্যায় মুহূর্তগুলো একসঙ্গে এনেছেন: মৃত্যুর সময়, বিচারের জন্য জড়ো হওয়ার সময়, আর আগুনের যন্ত্রণার মধ্যে। কোনোবারই আবেদন মঞ্জুর হবে না। তিনি মৃত্যুপথযাত্রী সম্পর্কে কাতাদার কথা এনেছেন: সে পরিবার বা সম্পদের কাছে ফিরতে চাইবে না, চাইবে শুধু আনুগত্যের কাজ করতে। “আল্লাহ সেই লোকের ওপর রহম করুন, যে আজ সেই কাজ করে, যা কাফির আজাব দেখে করতে চাইবে।” পাঠক এখনো সেই সময়ের ভেতরে আছেন, যে সময় ফিরে পাওয়ার জন্য একদিন আকুতি উঠবে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "23:99",
+     "note": {
+      "en": "“My Lord, send me back, that I may do righteousness in what I left.” Ibn Kathir: said by the disbeliever, or by one who was negligent of Allah's commands. As-Sa'di: he asks not for pleasures but for righteous work, and “No! It is only a word he says” (23:100) means mere speech that brings only regret. Then the barzakh, and as-Sa'di's conclusion: so let them prepare for it.",
+      "bn": "“হে আমার রব, আমাকে ফেরত পাঠান, যা ছেড়ে এসেছি তাতে যেন নেক আমল করতে পারি।” ইবনে কাসির বলেন, কথাটা কাফিরের, অথবা এমন লোকের যে আল্লাহর হুকুম পালনে অবহেলা করেছে। আস-সা'দী বলেন, সে ভোগ-বিলাস চাইছে না, চাইছে নেক আমলের সুযোগ। আর “কখনো না! এ তো শুধু একটা কথা, যা সে বলছে” (২৩:১০০), মানে মুখের বুলি, যা আফসোস ছাড়া কিছু দেয় না। তারপর বারযাখ। আস-সা'দীর শেষ কথা: অতএব এর জন্য প্রস্তুতি নিয়ে রাখো।"
+     }
+    },
+    {
+     "ref": "6:27",
+     "note": {
+      "en": "Made to stand before the Fire, they say: would that we were returned, and would not deny our Lord's signs. The next ayah answers: even if returned, they would go back to what they were forbidden (6:28). As-Sa'di: they had known inwardly that they were lying, and the wish now is only to push the punishment away.",
+      "bn": "আগুনের সামনে দাঁড় করানো হলে তারা বলবে: হায়, আমাদের যদি ফেরত পাঠানো হতো, আমরা রবের নিদর্শন অস্বীকার করতাম না! পরের আয়াত জবাব দেয়: ফেরত পাঠালেও তারা আবার নিষিদ্ধ কাজেই ফিরে যেত (৬:২৮)। আস-সা'দী বলেন, নিজেরা যে মিথ্যার ওপর আছে, তা তারা ভেতরে ভেতরে জানত। এখনকার এই আকাঙ্ক্ষাও কেবল শাস্তি এড়ানোর জন্য।"
+     }
+    },
+    {
+     "ref": "35:37",
+     "note": {
+      "en": "They scream, “Bring us out, we will do righteousness other than what we did.” The reply: were you not given life enough to take heed, and did the warner not come? Ibn Kathir: Ibn 'Abbas, 'Ikrimah and Qatadah said the warner is grey hair; as-Suddi and Ibn Zayd said the Messenger. He calls the second the apparent meaning, favoured by Ibn Jarir. As-Sa'di: all of it was given “so that you would turn back to Us”.",
+      "bn": "তারা চিৎকার করবে, “আমাদের বের করুন, আমরা আগের আমলের বদলে নেক আমল করব।” জবাব: আমি কি তোমাদের এতটা আয়ু দিইনি, যাতে কেউ উপদেশ নিতে চাইলে নিতে পারত? আর তোমাদের কাছে সতর্ককারীও এসেছিল। ইবনে কাসির জানান, ইবনে আব্বাস (রাঃ), ইকরিমা ও কাতাদার মতে সতর্ককারী হলো পাকা চুল। আস-সুদ্দি ও ইবনে যায়দের মতে রাসূল ﷺ। ইবনে কাসির দ্বিতীয়টিকে আয়াতের বাহ্যিক অর্থ বলেছেন, ইবনে জারিরও এটাই পছন্দ করেছেন। আস-সা'দী বলেন, এ সবই দেওয়া হয়েছিল “যাতে তোমরা আমার দিকে ফিরে আসো।”"
+     }
+    },
+    {
+     "ref": "23:107",
+     "note": {
+      "en": "“Our Lord, bring us out; if we return, we are wrongdoers.” Ibn Kathir: they admit the proof was established against them. The answer in 23:108 is “Remain in it despised, and do not speak to Me.” As-Sa'di calls this the most crushing word the criminals will ever hear, and says this anger of the Merciful Lord is harder on them than the punishment of the Fire itself.",
+      "bn": "“হে আমাদের রব, আমাদের এখান থেকে বের করুন। আবার যদি করি, তাহলে আমরা অবশ্যই জালিম।” ইবনে কাসির বলেন, তারা মেনে নিচ্ছে যে তাদের বিরুদ্ধে প্রমাণ কায়েম হয়েছিল। জবাব এসেছে ২৩:১০৮-এ: “লাঞ্ছিত অবস্থায় এখানেই পড়ে থাকো, আমার সঙ্গে কথা বোলো না।” আস-সা'দী বলেন, অপরাধীরা যত কথা শুনবে, এটা তার মধ্যে সবচেয়ে ভয়ংকর। দয়াময় রবের এই ক্রোধ তাদের কাছে জাহান্নামের আজাবের চেয়েও কঠিন।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 6419",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-6419",
+     "text": {
+      "en": "Abu Hurayrah narrated that the Prophet ﷺ said: “Allah has left no excuse for a man whose term He delayed until He brought him to sixty years.”",
+      "bn": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: “আল্লাহ যে ব্যক্তির মৃত্যু পিছিয়ে দিয়ে তাকে ষাট বছর বয়সে পৌঁছে দিয়েছেন, তার জন্য আর কোনো অজুহাত বাকি রাখেননি।”"
+     },
+     "note": {
+      "en": "Ibn Kathir brings this hadith under 35:37 to explain “did We not give you a life long enough?” A long life is itself counted as removing every excuse.",
+      "bn": "ইবনে কাসির এই হাদিস এনেছেন ৩৫:৩৭-এর ব্যাখ্যায়, “আমি কি তোমাদের যথেষ্ট আয়ু দিইনি?” দীর্ঘ জীবনটাই এখানে সব অজুহাত শেষ করে দেওয়া হিসেবে গোনা হয়েছে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "forever-and-brought-out",
+   "title": {
+    "en": "Forever, and Those Brought Out",
+    "bn": "চিরকাল, আর যাদের বের করে আনা হবে"
+   },
+   "body": [
+    {
+     "en": "Two things are stated side by side, and both have to be held. The ayat say the disbelievers abide in it forever (4:169, 72:23, 98:6), neither dying nor living (20:74, 87:13), wanting to leave and never leaving (5:37, 22:22). And the Sunnah confirms that some who enter for their sins are brought out. As-Sa'di, on 25:69, draws the line: the threat of eternity holds for shirk, but not for a believer who killed or committed zina, because the Quran and Sunnah show that all believers will come out and no believer remains in it forever, whatever sins he committed. That line is the subject of 4:48.",
+     "bn": "পাশাপাশি দুটি কথা এসেছে, আর দুটোই মানতে হবে। আয়াতগুলো বলছে, কাফিররা সেখানে চিরকাল থাকবে (৪:১৬৯, ৭২:২৩, ৯৮:৬)। সেখানে তারা মরবেও না, বাঁচবেও না (২০:৭৪, ৮৭:১৩)। বের হতে চাইবে, কিন্তু কখনো বের হতে পারবে না (৫:৩৭, ২২:২২)। আবার সুন্নাহ নিশ্চিত করে যে গুনাহর কারণে যারা ঢুকবে, তাদের কাউকে কাউকে বের করে আনা হবে। আস-সা'দী ২৫:৬৯-এর ব্যাখ্যায় সীমারেখাটা টেনেছেন। চিরকাল থাকার হুমকি শিরকের জন্য অটল। কিন্তু যে মুমিন হত্যা বা জিনা করেছে, তার জন্য নয়। কারণ কুরআন ও সুন্নাহ দেখায়, সব মুমিন বের হয়ে আসবে, কোনো মুমিন সেখানে চিরকাল থাকবে না, সে যা-ই করে থাকুক। এই সীমারেখাই ৪:৪৮-এর বিষয়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "35:36",
+     "note": {
+      "en": "“Death is not decreed for them so that they die, nor is its torment lightened for them.” Ibn Kathir sets it beside 20:74, “he will neither die therein nor live”, and 43:77, where they ask Malik to have their Lord finish them and are told “you will remain.” As-Sa'di: the severity of the punishment continues upon them in every instant and moment.",
+      "bn": "“তাদের মৃত্যুর ফয়সালা দেওয়া হবে না যে তারা মরে যাবে, আর তাদের আজাবও হালকা করা হবে না।” ইবনে কাসির এর পাশে রেখেছেন ২০:৭৪, “সেখানে সে মরবেও না, বাঁচবেও না”, আর ৪৩:৭৭, যেখানে তারা মালিককে বলবে, তোমার রব যেন আমাদের শেষ করে দেন, আর জবাব আসবে, “তোমরা এখানেই থাকবে।” আস-সা'দী বলেন, আজাবের তীব্রতা প্রতিটি মুহূর্তে, প্রতিটি পলকে তাদের ওপর চলতেই থাকবে।"
+     }
+    },
+    {
+     "ref": "11:107",
+     "note": {
+      "en": "“Abiding therein as long as the heavens and earth endure, except what your Lord wills.” Ibn Kathir cites Ibn Jarir: the phrase is Arab idiom for permanence. On the exception, he reports the view of many scholars that it means sinners among the people of tawhid, brought out by intercession. As-Sa'di: most commentators take it as the time before entry. Both affirm the disbelievers' permanence.",
+      "bn": "“আসমান ও জমিন যতদিন থাকবে ততদিন সেখানে থাকবে, তবে তোমার রব যা চান।” ইবনে কাসির ইবনে জারিরের কথা এনেছেন: এটা চিরস্থায়িত্ব বোঝাতে আরবদের পরিচিত বাকরীতি। ব্যতিক্রমটা নিয়ে তিনি অনেক আলেমের মত উল্লেখ করেছেন: এর মানে তাওহিদপন্থীদের মধ্যে যারা গুনাহগার, যাদের শাফাআতের মাধ্যমে বের করে আনা হবে। আস-সা'দী বলেন, অধিকাংশ মুফাসসিরের মতে ব্যতিক্রম হলো প্রবেশের আগের সময়টুকু। দুই মতেই কাফিরদের চিরকাল থাকা সাব্যস্ত।"
+     }
+    },
+    {
+     "ref": "4:48",
+     "note": {
+      "en": "Allah does not forgive that partners be ascribed to Him, and forgives what is below that for whom He wills. As-Sa'di: that means the sins below shirk, minor and major. He lists the many means by which such sins are forgiven: good deeds that wipe out sins, afflictions, the barzakh, the Day itself, believers' prayers for one another, intercession. Shirk closes those doors. He adds that the ayah concerns one who does not repent; the one who repents is forgiven even shirk (39:53).",
+      "bn": "আল্লাহ তাঁর সঙ্গে শরিক করা মাফ করেন না, এর নিচের গুনাহ যাকে ইচ্ছা মাফ করেন। আস-সা'দী বলেন, এর মানে শিরকের চেয়ে নিচের গুনাহ, ছোট হোক বা বড়। তিনি গুনিয়ে দিয়েছেন এসব গুনাহ মাফ হওয়ার কত পথ: গুনাহ মোছা নেক আমল, দুনিয়ার বিপদ-আপদ, বারযাখ, কিয়ামতের দিন, মুমিনদের একে অন্যের জন্য দোয়া, সুপারিশকারীদের সুপারিশ। শিরক এই সব দরজা বন্ধ করে দেয়। তিনি আরও বলেন, আয়াতটি তওবা না করা ব্যক্তির ব্যাপারে। যে তওবা করে, তার শিরকও মাফ হয় (৩৯:৫৩)।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 185",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-185",
+     "text": {
+      "en": "Abu Sa'id narrated that the Messenger of Allah ﷺ said: “As for the people of the Fire who are its people, they will neither die in it nor live. But people whom the Fire afflicts because of their sins (or he said: because of their misdeeds), He will cause them to die, until when they have become charcoal, intercession will be permitted. They will be brought in groups upon groups and spread over the rivers of Paradise. Then it will be said: People of Paradise, pour water over them. And they will sprout as a seed sprouts in the silt carried by a flood.”",
+      "bn": "আবু সাঈদ (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: “জাহান্নামের যারা আসল বাসিন্দা, তারা সেখানে মরবেও না, বাঁচবেও না। কিন্তু কিছু মানুষ, যাদের গুনাহের কারণে (অথবা তিনি বলেছেন, তাদের অপরাধের কারণে) আগুন তাদের স্পর্শ করবে, আল্লাহ তাদের এক রকম মৃত্যু দেবেন। যখন তারা কয়লা হয়ে যাবে, তখন শাফাআতের অনুমতি দেওয়া হবে। তাদের দলে দলে আনা হবে, জান্নাতের নহরগুলোর ওপর ছড়িয়ে দেওয়া হবে। তারপর বলা হবে: হে জান্নাতবাসীরা, এদের ওপর পানি ঢালো। তখন তারা গজিয়ে উঠবে, যেভাবে বানের পানিতে ভেসে আসা পলিতে বীজ গজায়।”"
+     },
+     "note": {
+      "en": "The hadith separates “its people” from those afflicted for their sins. Ibn Kathir, on 11:107, says such reports come from Anas, Jabir, Abu Sa'id, Abu Hurayrah and other Companions. They are brought out only after becoming charcoal; this is no licence to sin.",
+      "bn": "হাদিসটি ‘আসল বাসিন্দা’ আর গুনাহের কারণে আগুনে পড়া লোকদের আলাদা করেছে। ইবনে কাসির ১১:১০৭-এর ব্যাখ্যায় বলেন, এ ধরনের বর্ণনা এসেছে আনাস, জাবির, আবু সাঈদ, আবু হুরায়রা (রাঃ) ও অন্য সাহাবিদের থেকে। তবে বের করা হবে কয়লা হয়ে যাওয়ার পর। গুনাহকে হালকা ভাবার সুযোগ এতে নেই।"
+     }
+    },
+    {
+     "src": "Sahih al-Bukhari 44",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-44",
+     "text": {
+      "en": "Anas narrated that the Prophet ﷺ said: “Whoever says ‘None has the right to be worshipped but Allah’ and has in his heart good the weight of a barley grain will come out of the Fire. Whoever says ‘None has the right to be worshipped but Allah’ and has in his heart good the weight of a grain of wheat will come out of the Fire. And whoever says ‘None has the right to be worshipped but Allah’ and has in his heart good the weight of an atom will come out of the Fire.”",
+      "bn": "আনাস (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: “যে ‘লা ইলাহা ইল্লাল্লাহ’ বলেছে আর তার অন্তরে যবের দানা পরিমাণ কল্যাণ আছে, সে আগুন থেকে বের হবে। যে ‘লা ইলাহা ইল্লাল্লাহ’ বলেছে আর তার অন্তরে গমের দানা পরিমাণ কল্যাণ আছে, সে আগুন থেকে বের হবে। আর যে ‘লা ইলাহা ইল্লাল্লাহ’ বলেছে আর তার অন্তরে অণু পরিমাণ কল্যাণ আছে, সে আগুন থেকে বের হবে।”"
+     },
+     "note": {
+      "en": "Al-Bukhari adds Aban's narration, which has “of faith” in place of “of good”. The condition is twofold: the testimony on the tongue, and something of faith in the heart.",
+      "bn": "ইমাম বুখারি এর সঙ্গে আবানের বর্ণনাও যোগ করেছেন, যেখানে ‘কল্যাণ’-এর জায়গায় আছে ‘ঈমান’। শর্ত দুটি: মুখে সাক্ষ্য, আর অন্তরে অন্তত কিছুটা ঈমান।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "Make the dua of 2:201 and 25:65-66 your own: ask, every day, for protection from the Fire for yourself and those you love.",
+   "bn": "২:২০১ আর ২৫:৬৫-৬৬-এর দোয়াকে নিজের দোয়া বানিয়ে নিন। প্রতিদিন নিজের আর প্রিয়জনদের জন্য আগুন থেকে আশ্রয় চান।"
+  },
+  {
+   "en": "Put the four answers of 74:43-46 to yourself: do I pray, do I feed the needy, whose idle talk do I join, do I live as one who believes in the Day?",
+   "bn": "৭৪:৪৩-৪৬-এর চারটি জবাবকে নিজের দিকে প্রশ্ন বানিয়ে ধরুন। আমি কি নামাজ পড়ি? অভাবীকে খাওয়াই? কাদের বাজে আলাপে শামিল হই? প্রতিদান দিবসে বিশ্বাসী মানুষের মতো চলি তো?"
+  },
+  {
+   "en": "Feed someone in need this week, or urge others to; 69:34 counts even failing to encourage it.",
+   "bn": "এই সপ্তাহে কোনো অভাবীকে খাওয়ান, অথবা অন্যকে খাওয়াতে উৎসাহ দিন। ৬৯:৩৪ উৎসাহ না দেওয়াটাকেও হিসাবে ধরেছে।"
+  },
+  {
+   "en": "Protect your family as 66:6 asks: teach them prayer and what Allah has forbidden, by word and by example.",
+   "bn": "৬৬:৬-এর কথামতো পরিবারকে বাঁচান। কথায় আর নিজের আচরণে তাদের নামাজ শেখান, আর আল্লাহ কী হারাম করেছেন তা জানান।"
+  },
+  {
+   "en": "When you catch yourself thinking “one day I will change”, remember 23:99 and Qatadah's words: do now what the dying will wish they had done.",
+   "bn": "মনে যখন আসে “একদিন বদলে যাব”, তখন ২৩:৯৯ আর কাতাদার কথাটা মনে করুন: মৃত্যুর সময় মানুষ যা করে আসতে চাইবে, তা আজই করুন।"
+  },
+  {
+   "en": "Read these ayat about yourself before anyone else. The question “what put you into Saqar?” is asked of each soul about its own deeds.",
+   "bn": "এই আয়াতগুলো অন্য কারও আগে নিজের ব্যাপারে পড়ুন। “কিসে তোমাদের সাকারে ঢোকাল?” প্রশ্নটা প্রত্যেককে করা হবে তার নিজের আমল নিয়েই।"
+  }
+ ],
  "refs": [
   "2:24",
   "2:119",
@@ -22,11 +420,11 @@
   "3:151",
   "3:162",
   "3:192",
+  "4:48",
   "4:55",
   "4:56",
   "4:93",
   "4:97",
-  "4:114",
   "4:121",
   "4:169",
   "5:10",
@@ -61,14 +459,17 @@
   "11:17",
   "11:98",
   "11:106",
+  "11:107",
   "11:113",
   "11:119",
   "13:5",
   "13:18",
   "13:35",
   "14:16",
+  "14:22",
   "14:49",
   "15:43",
+  "15:44",
   "16:29",
   "16:62",
   "17:8",
@@ -94,14 +495,18 @@
   "22:22",
   "22:51",
   "22:72",
+  "23:99",
   "23:103",
   "23:104",
+  "23:107",
   "24:57",
   "25:11",
   "25:12",
   "25:13",
   "25:34",
   "25:65",
+  "25:68",
+  "25:70",
   "26:91",
   "26:94",
   "27:90",
@@ -118,8 +523,8 @@
   "34:42",
   "35:6",
   "35:36",
+  "35:37",
   "36:63",
-  "37:10",
   "37:23",
   "37:55",
   "37:63",
@@ -154,6 +559,7 @@
   "41:40",
   "42:7",
   "43:74",
+  "44:43",
   "44:47",
   "44:48",
   "44:49",
@@ -197,6 +603,7 @@
   "67:10",
   "69:31",
   "69:32",
+  "69:33",
   "70:15",
   "71:25",
   "72:15",
@@ -224,6 +631,7 @@
   "87:12",
   "87:13",
   "88:4",
+  "88:6",
   "89:23",
   "90:20",
   "92:14",
@@ -239,6 +647,16 @@
   "104:9",
   "111:3"
  ],
+ "refsDropped": [
+  {
+   "ref": "4:114",
+   "reason": "About private counsel that enjoins charity and reconciliation, ending in a promise of great reward; the Fire is in 4:115, not this ayah."
+  },
+  {
+   "ref": "37:10",
+   "reason": "The burning flame here is the piercing star that pursues devils who eavesdrop on heaven, not the Fire of the Hereafter."
+  }
+ ],
  "videos": [
   {
    "title": "Heaven & Hell - Wahaj Tarin",
@@ -248,7 +666,55 @@
    "watch": "https://www.youtube.com/watch?v=TlVwgthVLTU"
   }
  ],
- "reading": [],
- "sources": [],
- "related": []
+ "reading": [
+  {
+   "title": {
+    "en": "Your fire is one-seventieth of the fire of Hell",
+    "bn": "তোমাদের আগুন জাহান্নামের আগুনের সত্তর ভাগের এক ভাগ"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/65036",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Hell is surrounded by desires, Paradise by hardships",
+    "bn": "জাহান্নাম প্রবৃত্তি দিয়ে বেষ্টিত, জান্নাত দুঃখ-ক্লেশ দিয়ে"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/3702",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "The people of Hell will abide therein forever",
+    "bn": "জাহান্নামিরা সেখানে চিরকাল থাকবে"
+   },
+   "url": "https://islamqa.info/en/answers/45804",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "Degrees and levels of Paradise and Hell",
+    "bn": "জান্নাত ও জাহান্নামের স্তর"
+   },
+   "url": "https://islamqa.info/en/answers/27075",
+   "site": "islamqa.info",
+   "lang": "en"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir",
+  "Tafsir as-Sa'di",
+  "Tafsir al-Qurtubi",
+  "Sahih al-Bukhari",
+  "Sahih Muslim"
+ ],
+ "related": [
+  "th-paradise",
+  "th-judgement",
+  "th-repentance",
+  "th-wrongdoers"
+ ]
 }

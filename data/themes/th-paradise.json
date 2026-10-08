@@ -1,14 +1,395 @@
 {
  "id": "th-paradise",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "Paradise and Its People",
   "bn": "জান্নাত ও এর অধিবাসী"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "What the Quran says of Paradise: its gardens and grades, its peace, the sight of Allah, and who will enter it.",
+  "bn": "জান্নাত নিয়ে কুরআন কী বলে: তার বাগান ও স্তর, তার শান্তি, আল্লাহর দর্শন, আর কারা সেখানে যাবে।"
+ },
+ "intro": [
+  {
+   "en": "The Quran does not mention Paradise in passing. It names it, describes it, and says who will live there and why. As-Sa'di explains the word jannah as a garden so dense with trees that it covers whoever enters it. The first picture is the simplest: gardens beneath which rivers flow. From there it deepens, into ranks and names, into a peace with no rancour or fatigue in it, and finally into something greater than the gardens: the pleasure of Allah, and the sight of Him.",
+   "bn": "জান্নাতের কথা কুরআন দায়সারাভাবে বলেনি। এর নাম বলেছে, ছবি এঁকেছে, আর জানিয়েছে কারা সেখানে থাকবে এবং কেন। আস-সাদি শব্দটির ব্যাখ্যা দিয়েছেন এভাবে: এমন বাগান, গাছপালায় এত ঘন যে ভেতরে যে ঢোকে তাকে ঢেকে নেয়। কুরআনের প্রথম ছবিটাও সবচেয়ে সরল: বাগান, যার তলদেশ দিয়ে নদী বয়ে যায়। সেখান থেকে ছবিটা গভীর হতে থাকে। আসে স্তর ও নাম, আসে এমন শান্তি যেখানে বিদ্বেষ নেই, ক্লান্তি নেই। আর শেষে আসে বাগানের চেয়েও বড় কিছু: আল্লাহর সন্তুষ্টি, আর তাঁকে দেখা।"
+  },
+  {
+   "en": "This page reads the ayat in seven steps: the gardens and their grades; what the Quran describes in them; the peace of their people; the greatest bliss; who the people are, by their deeds; the arrival at the gates, with families joined; and the balance between Allah's mercy and human deeds. Descriptions stay within the words of the ayat and what Ibn Kathir and as-Sa'di say under them, and the four hadith are from al-Bukhari and Muslim.",
+   "bn": "এই পাতা আয়াতগুলো পড়েছে সাত ধাপে: বাগান ও তার স্তর; কুরআন সেখানে কী কী বর্ণনা করেছে; জান্নাতবাসীদের শান্তি; সবচেয়ে বড় নিয়ামত; আমল দিয়ে চেনা জান্নাতবাসী; দরজায় অভ্যর্থনা আর পরিবারের মিলন; এবং আল্লাহর রহমত ও মানুষের আমলের ভারসাম্য। বর্ণনা আমরা রেখেছি আয়াতের শব্দ আর সেগুলোর ব্যাখ্যায় ইবনে কাসির ও আস-সাদি যা বলেছেন তার মধ্যেই। চারটি হাদিসই বুখারি ও মুসলিম থেকে নেওয়া।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "gardens-and-grades",
+   "title": {
+    "en": "Gardens, Grades and Names",
+    "bn": "বাগান, স্তর ও নাম"
+   },
+   "body": [
+    {
+     "en": "Paradise is not described as one uniform place. The Quran gives it several names: Jannat 'Adn, gardens of perpetual residence (9:72, 13:23); al-Firdaws (18:107, 23:11); the home of duration (35:35). It also speaks of degrees. Surah ar-Rahman promises two gardens to whoever fears standing before his Lord, then two more “below them” (55:46, 55:62), and Surah al-Waqi'ah sorts people into three groups, of whom the forerunners are brought nearest (56:10-11). The hadith below speaks of a hundred grades prepared for those who strive in Allah's cause, and tells the believer what to ask for.",
+     "bn": "কুরআন জান্নাতকে একই রকম এক জায়গা হিসেবে দেখায়নি। এর কয়েকটি নাম আছে: জান্নাতু আদন, মানে স্থায়ী বসবাসের বাগান (৯:৭২, ১৩:২৩); আল-ফিরদাউস (১৮:১০৭, ২৩:১১); স্থায়ী আবাস (৩৫:৩৫)। স্তরের কথাও আছে। সূরা আর-রহমান বলছে, যে নিজের রবের সামনে দাঁড়ানোর ভয় রাখে, তার জন্য দুটি বাগান, তারপর এদের “নিচে” আরও দুটি (৫৫:৪৬, ৫৫:৬২)। সূরা আল-ওয়াকিয়া মানুষকে তিন দলে ভাগ করেছে, তাদের মধ্যে অগ্রগামীরাই সবচেয়ে নৈকট্যপ্রাপ্ত (৫৬:১০-১১)। নিচের হাদিস আল্লাহর পথে সংগ্রামকারীদের জন্য প্রস্তুত একশটি স্তরের কথা বলে, আর বলে দেয় মুমিন কী চাইবে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "18:107",
+     "note": {
+      "en": "Firdaws here is offered as nuzul, the hospitality laid out for an honoured guest. As-Sa'di weighs two readings: the highest, central part of Paradise, for those most complete in faith and deeds, or the whole of it, with every believer at his own rank. He prefers the second, partly because “gardens” is plural and joined to al-Firdaws. Ibn Kathir points to 18:108: staying for ever, they never wish to move.",
+      "bn": "এখানে ফিরদাউসকে বলা হয়েছে “নুযুল”, সম্মানিত মেহমানের জন্য সাজানো আপ্যায়ন। আস-সাদি দুটো ব্যাখ্যা পাশাপাশি রেখেছেন। এক, জান্নাতের সবচেয়ে উঁচু ও মাঝের অংশ, যা ঈমান ও আমলে সবচেয়ে পূর্ণ মানুষদের জন্য। দুই, গোটা জান্নাত, যেখানে প্রত্যেক মুমিন নিজের স্তরে। তিনি দ্বিতীয়টিকেই বেশি উপযুক্ত মনে করেন, তার একটি কারণ, “বাগানসমূহ” শব্দটি বহুবচন আর তা ফিরদাউসের সঙ্গে যুক্ত। ইবনে কাসির পরের আয়াতের (১৮:১০৮) দিকে দৃষ্টি দিয়েছেন: চিরকাল থেকেও তারা সেখান থেকে সরে যেতে চাইবে না।"
+     }
+    },
+    {
+     "ref": "55:46",
+     "note": {
+      "en": "Ibn Kathir explains “the position of his Lord” as standing before Him on the Day of Resurrection, and reads it with 79:40: such a person restrains himself from desire. As-Sa'di gives each garden its own reason: one for leaving what Allah forbade, one for doing what He commanded. Ibn Kathir adds that the surah addresses jinn as well as humans, so believing jinn who fear Allah are promised Paradise too.",
+      "bn": "ইবনে কাসির “রবের সামনে দাঁড়ানো” বলতে বুঝিয়েছেন কিয়ামতের দিন তাঁর সামনে হাজির হওয়া। তিনি আয়াতটিকে ৭৯:৪০-এর সঙ্গে মিলিয়ে পড়েছেন: এমন মানুষ নিজেকে প্রবৃত্তি থেকে ফিরিয়ে রাখে। আস-সাদি দুই বাগানের দুটো আলাদা কারণ বলেছেন: একটি আল্লাহর নিষেধ ছেড়ে দেওয়ার প্রতিদান, অন্যটি তাঁর হুকুম পালনের। ইবনে কাসির আরও বলেছেন, সূরাটি মানুষ ও জিন দুই দলকেই সম্বোধন করছে, তাই আল্লাহকে ভয় করা ঈমানদার জিনদের জন্যও জান্নাতের প্রতিশ্রুতি আছে।"
+     }
+    },
+    {
+     "ref": "55:62",
+     "note": {
+      "en": "“Below them both” is a ranking, and Ibn Kathir shows it from the wording: the first pair have spreading branches, flowing springs and every fruit in pairs; the second are dark green with water, with gushing springs, fruit, palms and pomegranates. He reads it with a hadith in al-Bukhari (4878) of two gardens of silver and two of gold. As-Sa'di: the silver pair is for the people of the right.",
+      "bn": "“এ দুটির নিচে” মানে মর্যাদায় নিচে। ইবনে কাসির শব্দ থেকেই তা দেখিয়েছেন। প্রথম জোড়া বাগানের ডালপালা ছড়ানো, ঝরনা বয়ে চলে, সব ফল সেখানে জোড়ায় জোড়ায়। দ্বিতীয় জোড়া পানির প্রাচুর্যে গাঢ় সবুজ, ঝরনা উথলে ওঠে, আর আছে ফল, খেজুর ও ডালিম। তিনি এর সঙ্গে বুখারির একটি হাদিস (৪৮৭৮) মিলিয়ে পড়েছেন: দুটি বাগান রুপার, দুটি সোনার। আস-সাদি বলেছেন, রুপার জোড়াটি ডান দিকের লোকদের জন্য।"
+     }
+    },
+    {
+     "ref": "56:10",
+     "note": {
+      "en": "The repetition is the point: the forerunners are the forerunners. As-Sa'di: those who raced to good in this world are first into Paradise. Ibn Kathir reports who they are: the prophets, according to Muhammad ibn Ka'b; the people of the highest ranks, according to as-Suddi. He ties the word to the commands to hasten and race (3:133, 57:21): the reward follows the kind of deed.",
+      "bn": "পুনরাবৃত্তিটাই এখানে আসল কথা: অগ্রগামীরাই অগ্রগামী। আস-সাদি বলেছেন, দুনিয়ায় যারা ভালো কাজে আগে ছুটেছে, জান্নাতে ঢোকার বেলাতেও তারাই আগে। এরা কারা, ইবনে কাসির সে বিষয়ে মত এনেছেন। মুহাম্মাদ ইবনে কা‘বের মতে নবীগণ, আস-সুদ্দির মতে জান্নাতের সর্বোচ্চ স্তরের লোকেরা। তিনি শব্দটিকে দ্রুত ছুটে যাওয়া ও প্রতিযোগিতার হুকুমের সঙ্গে জুড়েছেন (৩:১৩৩, ৫৭:২১): প্রতিদান আমলের ধরন অনুযায়ীই হয়।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 2790",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-2790",
+     "text": {
+      "en": "The Messenger of Allah ﷺ said: “Whoever believes in Allah and His Messenger, establishes the prayer and fasts Ramadan, it is a right upon Allah to admit him to Paradise, whether he strove in the cause of Allah or stayed in the land where he was born.” They said: “O Messenger of Allah, shall we not give the people this good news?” He said: “In Paradise there are a hundred grades which Allah has prepared for those who strive in His cause; between every two grades is as much as between the heaven and the earth. So when you ask Allah, ask Him for al-Firdaws, for it is the middle of Paradise and the highest of Paradise. (I think he said:) Above it is the Throne of the Most Merciful, and from it the rivers of Paradise burst forth.”",
+      "bn": "রাসূলুল্লাহ ﷺ বলেছেন: “যে আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান আনে, নামাজ কায়েম করে এবং রমজানের রোজা রাখে, আল্লাহর ওপর হক হয়ে যায় যে তিনি তাকে জান্নাতে প্রবেশ করাবেন, সে আল্লাহর পথে জিহাদ করুক বা যে দেশে জন্মেছে সেখানেই বসে থাকুক।” সাহাবিরা বললেন: “হে আল্লাহর রাসূল, আমরা কি মানুষকে এই সুসংবাদ দেব না?” তিনি বললেন: “জান্নাতে একশটি স্তর আছে, আল্লাহ সেগুলো তাঁর পথে জিহাদকারীদের জন্য প্রস্তুত করে রেখেছেন। প্রতি দুই স্তরের মাঝে আসমান ও জমিনের মাঝের সমান দূরত্ব। তাই যখন আল্লাহর কাছে চাইবে, ফিরদাউস চাইবে। কারণ তা জান্নাতের মধ্যভাগ আর জান্নাতের সবচেয়ে উঁচু অংশ। (বর্ণনাকারী বলেন, আমার মনে হয় তিনি বলেছেন:) এর ওপরে রহমানের আরশ, আর সেখান থেকেই জান্নাতের নদীগুলো বের হয়।”"
+     },
+     "note": {
+      "en": "Read with 18:107: of a hundred grades prepared for those who strive, the Prophet ﷺ tells his listeners to ask for the highest, al-Firdaws. Its first half guards against the opposite error: Paradise itself is promised on faith, prayer and fasting.",
+      "bn": "১৮:১০৭-এর সঙ্গে মিলিয়ে পড়ুন: সংগ্রামকারীদের জন্য প্রস্তুত একশটি স্তরের মধ্যে নবী ﷺ শ্রোতাদের বলছেন সবচেয়ে উঁচুটা, আল-ফিরদাউস চাইতে। হাদিসের প্রথম অংশ উল্টো ভুলটাও আটকে দেয়। জান্নাতের প্রতিশ্রুতি তো ঈমান, নামাজ আর রোজার ওপরই।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "what-the-quran-describes",
+   "title": {
+    "en": "Rivers, Fruit, Garments, Spouses",
+    "bn": "নদী, ফল, পোশাক ও সঙ্গী"
+   },
+   "body": [
+    {
+     "en": "The Quran describes Paradise in things people already know: rivers, fruit, shade, couches, bracelets, silk, cups passed round. Its people and their spouses recline in shade (36:56), and there is neither scorching sun nor bitter cold (76:13). Ibn Kathir, under 2:25, records Ibn Abbas setting the limit of the comparison: nothing in Paradise resembles this world except in name. Of companions the ayat use a few set phrases: purified spouses (2:25), hur 'in, fair ones with large eyes (44:54, 52:20, 56:22), women limiting their glances (55:56). As-Sa'di explains hur 'in by the beauty of the eyes; this page keeps to those words.",
+     "bn": "জান্নাতের বর্ণনা কুরআন দিয়েছে মানুষের চেনা জিনিস দিয়ে: নদী, ফল, ছায়া, আসন, কঙ্কন, রেশম, ঘুরে ঘুরে পরিবেশন করা পেয়ালা। জান্নাতবাসী ও তাদের সঙ্গীরা ছায়ায় হেলান দিয়ে বসবে (৩৬:৫৬), সেখানে না আছে প্রখর রোদ, না কনকনে শীত (৭৬:১৩)। তবে তুলনার একটা সীমা আছে। ইবনে কাসির ২:২৫-এর ব্যাখ্যায় ইবনে আব্বাস (রাঃ)-এর কথা এনেছেন: দুনিয়ার কোনো কিছুর সঙ্গে জান্নাতের মিল কেবল নামে। সঙ্গিনীদের কথা আয়াতগুলো বলেছে কয়েকটি নির্দিষ্ট শব্দে: পবিত্র সঙ্গী (২:২৫), হুর ঈন বা ডাগর চোখের সুন্দরী (৪৪:৫৪, ৫২:২০, ৫৬:২২), দৃষ্টি সংযতকারিণী নারী (৫৫:৫৬)। আস-সাদি “হুর ঈন”-এর ব্যাখ্যা দিয়েছেন চোখের সৌন্দর্য দিয়ে। এই পাতা এই শব্দগুলোর বাইরে যায়নি।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "47:15",
+     "note": {
+      "en": "Each river is named with the flaw of its worldly counterpart removed: water that does not turn stale, milk whose taste does not change, wine that is a delight, honey purified. As-Sa'di: unlike the wine of this world, it does not ache the head or take the mind (compare 37:47). He also notes the closing pair: fruit, the beloved thing obtained, and forgiveness, the feared thing removed.",
+      "bn": "প্রতিটি নদীর নাম এসেছে তার দুনিয়ার রূপের দোষটুকু বাদ দিয়ে। পানি, যা বাসি হয় না; দুধ, যার স্বাদ বদলায় না; শরাব, যা পানকারীর জন্য আনন্দ; আর মধু, যা পরিশোধিত। আস-সাদি বলেছেন, সেই শরাব দুনিয়ার শরাবের মতো মাথা ধরায় না, বুদ্ধিও কেড়ে নেয় না (তুলনা করুন ৩৭:৪৭)। আয়াতের শেষের জোড়াটাও তিনি দেখিয়েছেন: ফলমূলে মেলে প্রিয় জিনিস, আর রবের মাগফিরাতে দূর হয় ভয়ের জিনিস।"
+     }
+    },
+    {
+     "ref": "2:25",
+     "note": {
+      "en": "“Given to them in likeness”: Ibn Kathir records Abu al-'Aliyah saying the fruits look alike but taste different; as-Sa'di lists the views and leans to a third, that they resemble one another in goodness and delight. “Purified spouses”: as-Sa'di observes that the ayah names no single impurity, so that the purity is complete, in character, body, speech and gaze.",
+      "bn": "“তাদের দেওয়া হবে একই রকম”: ইবনে কাসির আবুল আলিয়ার কথা এনেছেন, ফলগুলো দেখতে একরকম, কিন্তু স্বাদ আলাদা। আস-সাদি কয়েকটি মত উল্লেখ করে তৃতীয় একটি মতের দিকে ঝুঁকেছেন: উৎকর্ষ আর আনন্দে ফলগুলো একে অপরের মতো। “পবিত্র সঙ্গী”: আস-সাদি খেয়াল করেছেন, আয়াতটি নির্দিষ্ট কোনো দোষের নাম নেয়নি, যাতে সব রকমের পবিত্রতা এর মধ্যে এসে যায়: চরিত্রে, দেহে, কথায় ও দৃষ্টিতে।"
+     }
+    },
+    {
+     "ref": "35:33",
+     "note": {
+      "en": "Gardens of 'Adn: as-Sa'di explains 'adn as residence, a name given because staying for ever marks both the place and its people. Gold, pearls and silk follow. Ibn Kathir recalls that silk is forbidden to men in this world and permitted to them there; as-Sa'di adds that in Paradise men and women are alike in adornment.",
+      "bn": "জান্নাতু আদন: আস-সাদি বলেছেন, “আদন” মানে স্থায়ী বসবাস। এই নাম দেওয়া হয়েছে, কারণ চিরকাল থাকাটাই এই জায়গা আর এর বাসিন্দাদের পরিচয়। এরপর আসে সোনা, মুক্তা আর রেশম। ইবনে কাসির মনে করিয়ে দিয়েছেন, রেশম দুনিয়াতে পুরুষদের জন্য হারাম, সেখানে তাদের জন্য হালাল। আস-সাদি যোগ করেছেন, জান্নাতে অলংকারে নারী-পুরুষ সমান।"
+     }
+    },
+    {
+     "ref": "32:17",
+     "note": {
+      "en": "Read it with 32:16: people who leave their beds to call on their Lord in fear and hope, and who spend. As-Sa'di notes that “no soul” is general and takes in every creature, and draws the link the commentators repeat: they prayed at night and kept their deeds hidden, so their reward was hidden in kind. Ibn Kathir reports the same from al-Hasan al-Basri.",
+      "bn": "আয়াতটি পড়ুন ৩২:১৬-এর সঙ্গে মিলিয়ে: যারা বিছানা ছেড়ে ভয় ও আশা নিয়ে রবকে ডাকে, আর দান করে। আস-সাদি বলেছেন, “কোনো প্রাণ জানে না” কথাটি সাধারণ, সব সৃষ্টিই এর মধ্যে পড়ে। তিনি সেই যোগসূত্রও দেখিয়েছেন যা মুফাসসিররা বারবার বলেছেন: তারা রাতে নামাজ পড়েছে, আমল গোপন রেখেছে, তাই তাদের প্রতিদানও গোপন রাখা হয়েছে, আমলের মতোই। ইবনে কাসির হাসান বসরি থেকেও একই কথা এনেছেন।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 3244",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-3244",
+     "text": {
+      "en": "The Messenger of Allah ﷺ said: “Allah said: I have prepared for My righteous servants what no eye has seen, no ear has heard, and has never occurred to a human heart. So recite, if you wish: ‘No soul knows what has been hidden for them of comfort for eyes.’”",
+      "bn": "রাসূলুল্লাহ ﷺ বলেছেন: “আল্লাহ বলেন: আমি আমার নেক বান্দাদের জন্য এমন জিনিস প্রস্তুত করে রেখেছি, যা কোনো চোখ দেখেনি, কোনো কান শোনেনি, কোনো মানুষের মনে যার কল্পনাও আসেনি। চাইলে তোমরা পড়ো: ‘কোনো প্রাণ জানে না, তাদের জন্য চোখজুড়ানো কী লুকিয়ে রাখা হয়েছে।’”"
+     },
+     "note": {
+      "en": "After rivers and silk, this is the correction: whatever the ayat describe, the reality has not entered a human imagination. The hadith points straight back to 32:17, so the ayah and the saying explain one another.",
+      "bn": "নদী আর রেশমের বর্ণনার পর এ হাদিস মনে করিয়ে দেয়: আয়াত যা-ই বর্ণনা করুক, আসল জিনিসটা কোনো মানুষের কল্পনায় ঢোকেনি। হাদিসটি সরাসরি ৩২:১৭-এর দিকে ইঙ্গিত করে, ফলে আয়াত আর হাদিস একে অপরকে ব্যাখ্যা করে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hearts-at-rest",
+   "title": {
+    "en": "No Rancour, No Idle Talk, No Fatigue",
+    "bn": "বিদ্বেষ নেই, বাজে কথা নেই, ক্লান্তি নেই"
+   },
+   "body": [
+    {
+     "en": "Much of what the Quran says about Paradise is said by negation. Rancour is removed from the breasts (7:43, 15:47). No fatigue touches its people, and they are never sent out (15:48, 35:35). They hear no idle or sinful speech, only “peace, peace” (19:62, 56:25-26). Sorrow is lifted (35:34). Each of these names something that spoils even the best gathering in this world: an old grudge, a tired body, a cruel word, the fear that it will end. The ayat take them away one by one.",
+     "bn": "জান্নাত নিয়ে কুরআনের অনেক কথাই এসেছে “নেই” দিয়ে। বুক থেকে বিদ্বেষ তুলে নেওয়া হবে (৭:৪৩, ১৫:৪৭)। জান্নাতবাসীকে কোনো ক্লান্তি ছোঁবে না, আর সেখান থেকে তাদের কখনো বের করে দেওয়া হবে না (১৫:৪৮, ৩৫:৩৫)। সেখানে তারা কোনো বাজে বা গুনাহের কথা শুনবে না, শুধু “সালাম, সালাম” (১৯:৬২, ৫৬:২৫-২৬)। দুঃখ সরিয়ে নেওয়া হবে (৩৫:৩৪)। দুনিয়ার সবচেয়ে ভালো মজলিসও যেসব জিনিসে নষ্ট হয়, এগুলো ঠিক তাই: পুরোনো রাগ, ক্লান্ত শরীর, কড়া কথা, আর শেষ হয়ে যাওয়ার ভয়। আয়াতগুলো একটা একটা করে সেগুলো সরিয়ে নেয়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "15:47",
+     "note": {
+      "en": "Ibn Kathir links the removal of rancour to a report in the Sahih: believers saved from the Fire are held on a bridge between it and Paradise until the wrongs between them are settled and they are cleansed; only then are they admitted. As-Sa'di reads “facing each other” as a picture of their manners: they visit and gather, and none turns his back on another.",
+      "bn": "বিদ্বেষ তুলে নেওয়ার কথাটিকে ইবনে কাসির সহিহ গ্রন্থের একটি বর্ণনার সঙ্গে মিলিয়েছেন: জাহান্নাম থেকে মুক্তি পাওয়া মুমিনদের জান্নাত ও জাহান্নামের মাঝে এক সেতুর ওপর আটকে রাখা হবে, যতক্ষণ না তাদের পরস্পরের অন্যায়ের মীমাংসা হয় আর তারা পরিষ্কার হয়। তারপরই প্রবেশের অনুমতি। আস-সাদি “মুখোমুখি” কথাটিকে তাদের আদবের ছবি হিসেবে পড়েছেন: তারা একে অন্যের কাছে যায়, একসঙ্গে বসে, কেউ কারও দিকে পিঠ ফিরিয়ে থাকে না।"
+     }
+    },
+    {
+     "ref": "15:48",
+     "note": {
+      "en": "Two promises in one ayah: no fatigue, and no expulsion. As-Sa'di says the fatigue denied is both outward and inward, because Allah raises them in a complete form of life that admits no defect. For the first clause Ibn Kathir recalls the house promised to Khadijah, recorded in the two Sahihs: a house in Paradise with no clamour in it and no toil.",
+      "bn": "এক আয়াতে দুটি প্রতিশ্রুতি: ক্লান্তি নেই, আর বের করে দেওয়া নেই। আস-সাদি বলেছেন, আয়াতটি বাইরের ও ভেতরের দুই রকম ক্লান্তিই নাকচ করেছে, কারণ আল্লাহ তাদের এমন পূর্ণ জীবন দিয়ে গড়বেন যাতে কোনো ত্রুটি ঢোকে না। প্রথম অংশের ব্যাখ্যায় ইবনে কাসির খাদিজা (রাঃ)-কে দেওয়া সুসংবাদের কথা এনেছেন, যা দুই সহিহ গ্রন্থে আছে: জান্নাতে এমন এক ঘর, যেখানে কোনো হট্টগোল নেই, কোনো ক্লান্তি নেই।"
+     }
+    },
+    {
+     "ref": "19:62",
+     "note": {
+      "en": "As-Sa'di explains laghw as useless speech and widens the denial: no insult, no fault-finding, nothing that disobeys Allah or clouds the heart. What remains is salam, speech free of every fault: remembrance, greeting, glad news, good talk among brothers. Ibn Kathir adds a careful point on “morning and afternoon”: times like them, not a literal night and day in Paradise.",
+      "bn": "আস-সাদি “লাগউ” বলতে বুঝিয়েছেন অর্থহীন কথা, আর নিষেধটাকে আরও বিস্তৃত করেছেন: গালি নেই, দোষ ধরা নেই, আল্লাহর নাফরমানির কোনো কথা নেই, মন খারাপ করে দেওয়ার মতো কিছু নেই। থাকে শুধু সালাম, মানে সব দোষমুক্ত কথা: জিকির, অভিবাদন, সুসংবাদ, ভাইদের মধ্যে ভালো আলাপ। “সকাল-সন্ধ্যা” নিয়ে ইবনে কাসির সাবধানী একটা কথা বলেছেন: এর মানে সকাল-সন্ধ্যার মতো সময়, জান্নাতে আক্ষরিক রাত-দিন নয়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-greatest-bliss",
+   "title": {
+    "en": "Greater Than the Gardens",
+    "bn": "বাগানের চেয়েও বড়"
+   },
+   "body": [
+    {
+     "en": "Three ayat end a list of rewards with something beyond the list. 9:72 names gardens, rivers and pleasant dwellings, then: “approval from Allah is greater.” 10:26 promises al-husna, the best, “and extra.” 50:35 gives them whatever they wish, “and with Us is more.” Ibn Kathir and as-Sa'di both explain this extra as the sight of Allah's Face, and 75:22-23 says it outright: faces radiant that Day, looking at their Lord. The hadith below gives the scene in the Prophet's ﷺ own words.",
+     "bn": "তিনটি আয়াত প্রতিদানের তালিকা শেষ করেছে তালিকার বাইরের কিছু দিয়ে। ৯:৭২ বাগান, নদী আর সুন্দর আবাসের কথা বলে, তারপর বলে: “আর আল্লাহর সন্তুষ্টিই সবচেয়ে বড়।” ১০:২৬ প্রতিশ্রুতি দেয় “আল-হুসনা”, সর্বোত্তম প্রতিদান, “এবং আরও বেশি।” ৫০:৩৫ বলে, তারা যা চাইবে তা-ই পাবে, “আর আমার কাছে আছে আরও।” ইবনে কাসির ও আস-সাদি দুজনেই এই “আরও”-কে ব্যাখ্যা করেছেন আল্লাহর চেহারা দেখা দিয়ে। ৭৫:২২-২৩ কথাটা সরাসরিই বলেছে: সেদিন কিছু চেহারা হবে উজ্জ্বল, তাদের রবের দিকে তাকিয়ে থাকবে। নিচের হাদিসটি দৃশ্যটি তুলে ধরে নবী ﷺ-এর নিজের ভাষায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "9:72",
+     "note": {
+      "en": "The ayah names believing women alongside believing men, then places one thing above all of Paradise. As-Sa'di explains why approval is greater: their bliss is only sweet through seeing their Lord and His pleasure upon them. Ibn Kathir cites a hadith of the Two Sahihs: Allah tells the people of Paradise that He will let His pleasure descend on them and never be displeased with them after it.",
+      "bn": "আয়াতটি মুমিন পুরুষের পাশাপাশি মুমিন নারীর নামও নিয়েছে, তারপর গোটা জান্নাতের ওপরে একটি জিনিসকে রেখেছে। সন্তুষ্টি কেন বড়, আস-সাদি তা বলেছেন: তাদের সব নিয়ামত মধুর হয় কেবল রবকে দেখা আর তাঁর সন্তুষ্টির কারণেই। ইবনে কাসির দুই সহিহ গ্রন্থের একটি হাদিস এনেছেন: আল্লাহ জান্নাতবাসীদের বলবেন, তিনি তাদের ওপর নিজের সন্তুষ্টি নাজিল করবেন, এরপর আর কখনো তাদের ওপর অসন্তুষ্ট হবেন না।"
+     }
+    },
+    {
+     "ref": "10:26",
+     "note": {
+      "en": "Al-husna, as-Sa'di says, is Paradise perfect in its goodness; ziyadah is looking at the noble Face of Allah, hearing His speech and winning His pleasure. Ibn Kathir names those who explained ziyadah as the sight: Abu Bakr, Hudhayfah, Ibn Abbas, Mujahid, al-Hasan, Qatadah and others. He adds that they will not have earned it by their deeds; it comes by Allah's grace and mercy.",
+      "bn": "আস-সাদি বলেছেন, “আল-হুসনা” হলো সৌন্দর্যে পরিপূর্ণ জান্নাত, আর “যিয়াদাহ” মানে আল্লাহর মহান চেহারার দিকে তাকানো, তাঁর কথা শোনা, তাঁর সন্তুষ্টি লাভ করা। ইবনে কাসির তাদের নাম দিয়েছেন যারা “যিয়াদাহ”-কে দর্শন বলে ব্যাখ্যা করেছেন: আবু বকর, হুযাইফা ও ইবনে আব্বাস (রাঃ), তারপর মুজাহিদ, হাসান, কাতাদা এবং আরও অনেকে। তিনি যোগ করেছেন, এটা তারা আমল দিয়ে অর্জন করবে না, পাবে আল্লাহর অনুগ্রহ ও রহমতে।"
+     }
+    },
+    {
+     "ref": "75:23",
+     "note": {
+      "en": "Read the pair together: nadirah, radiant, then nazirah, looking. Ibn Kathir: they will see Him with their own eyes, and the believers' seeing of Allah in the Hereafter is established in authentic hadith through many routes, agreed on by the Companions, the Successors and the Salaf. As-Sa'di adds that they see Him according to their ranks, and that when they see Him they forget the bliss they are in.",
+      "bn": "দুটি শব্দ একসঙ্গে পড়ুন: “নাদিরাহ”, উজ্জ্বল; তারপর “নাযিরাহ”, তাকিয়ে আছে। ইবনে কাসির বলেছেন, তারা তাঁকে নিজের চোখে দেখবে। তিনি আরও বলেছেন, আখিরাতে মুমিনদের আল্লাহকে দেখা বহু সূত্রে আসা সহিহ হাদিসে প্রমাণিত, আর সাহাবি, তাবেয়ি ও সালাফ এ ব্যাপারে একমত। আস-সাদি যোগ করেছেন, তারা তাঁকে দেখবে নিজ নিজ স্তর অনুযায়ী, আর যখন দেখবে, তখন যে নিয়ামতের মধ্যে আছে তা-ও ভুলে যাবে।"
+     }
+    },
+    {
+     "ref": "50:35",
+     "note": {
+      "en": "“Whatever they wish” sounds like the ceiling; the ayah goes past it. As-Sa'di: everything their will reaches for is there, and above it is more, from what no eye has seen, the greatest of it being the sight of Allah's Face. Ibn Kathir pairs it with 10:26 and cites Muslim's report from Suhayb that “more” refers to looking at Allah's Face.",
+      "bn": "“যা চাইবে তা-ই” শুনলে মনে হয়, এর ওপরে আর কিছু নেই। আয়াত সেটাও ছাড়িয়ে গেছে। আস-সাদি বলেছেন, তাদের ইচ্ছা যা কিছু ছুঁতে চায়, সবই সেখানে আছে। আর তার ওপরে আছে আরও, যা কোনো চোখ দেখেনি, আর তার মধ্যে সবচেয়ে বড় হলো আল্লাহর চেহারা দেখা। ইবনে কাসির একে ১০:২৬-এর সঙ্গে মিলিয়েছেন, আর মুসলিমে বর্ণিত সুহাইব (রাঃ)-এর বক্তব্য এনেছেন যে “আরও” মানে আল্লাহর চেহারার দিকে তাকানো।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 181",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-181",
+     "text": {
+      "en": "The Prophet ﷺ said: “When the people of Paradise enter Paradise, Allah, Blessed and Exalted, will say: Do you want anything more, that I may give you? They will say: Have You not brightened our faces? Have You not admitted us to Paradise and saved us from the Fire? Then He will remove the veil, and they will not have been given anything dearer to them than looking at their Lord, Mighty and Majestic.”",
+      "bn": "নবী ﷺ বলেছেন: “জান্নাতবাসীরা যখন জান্নাতে প্রবেশ করবে, বরকতময় ও মহান আল্লাহ বলবেন: তোমরা কি আরও কিছু চাও, আমি তোমাদের বাড়িয়ে দিই? তারা বলবে: আপনি কি আমাদের চেহারা উজ্জ্বল করেননি? আপনি কি আমাদের জান্নাতে প্রবেশ করাননি, জাহান্নাম থেকে বাঁচাননি? তখন তিনি পর্দা সরিয়ে দেবেন। তাদের যা কিছু দেওয়া হয়েছে, তার কোনোটিই তাদের কাছে মহিমান্বিত রবের দিকে তাকানোর চেয়ে প্রিয় হবে না।”"
+     },
+     "note": {
+      "en": "Notice the people's answer: they cannot imagine what is left to give. In a second chain on the same page, Muslim records that the Prophet ﷺ then recited 10:26, “for those who have done good is the best, and extra”, tying the ayah to this scene.",
+      "bn": "জান্নাতবাসীদের জবাবটা খেয়াল করুন: আর কী দেওয়ার বাকি থাকতে পারে, তারা ভেবেই পায় না। একই জায়গায় আরেকটি সনদে মুসলিম উল্লেখ করেছেন, এরপর নবী ﷺ ১০:২৬ তিলাওয়াত করেন: “যারা সৎকাজ করেছে তাদের জন্য সর্বোত্তম প্রতিদান, এবং আরও বেশি।” এভাবে আয়াতটি এই দৃশ্যের সঙ্গে জুড়ে যায়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "its-people",
+   "title": {
+    "en": "Who Its People Are",
+    "bn": "জান্নাতবাসী কারা"
+   },
+   "body": [
+    {
+     "en": "The Quran seldom describes Paradise without describing those who will enter it, and it does so in lists of deeds. 23:1-11 names humble prayer, turning from idle talk, zakah, chastity, keeping trusts and promises, and guarding the prayers. 25:63-76 describes the servants of the Most Merciful: they walk humbly, answer the ignorant with peace, stand at night, spend in moderation, and repent. 3:133-136 and 13:20-24 add spending, restraining anger, pardon and patience. None of these lists describes people who never sin: 3:135 counts among the God-fearing those who sin, then remember Allah and seek forgiveness.",
+     "bn": "জান্নাতের বর্ণনা দিতে গিয়ে কুরআন প্রায় সবসময় সেখানে যারা যাবে তাদের বর্ণনাও দিয়েছে, আর দিয়েছে আমলের তালিকা ধরে। ২৩:১-১১ বলছে বিনয়ী নামাজ, বাজে কথা থেকে দূরে থাকা, জাকাত, লজ্জাস্থানের হেফাজত, আমানত ও ওয়াদা রক্ষা আর নামাজের যত্নের কথা। ২৫:৬৩-৭৬ রহমানের বান্দাদের ছবি এঁকেছে: তারা নম্রভাবে চলে, অজ্ঞদের কথার জবাবে সালাম বলে, রাতে নামাজে দাঁড়ায়, মাঝামাঝি পথে খরচ করে, আর তওবা করে। ৩:১৩৩-১৩৬ ও ১৩:২০-২৪ যোগ করেছে দান, রাগ সংবরণ, ক্ষমা আর সবর। এসব তালিকার কোনোটিই নিষ্পাপ মানুষের ছবি নয়। ৩:১৩৫ মুত্তাকিদের মধ্যেই গণ্য করেছে তাদের, যারা গুনাহ করে ফেলে, তারপর আল্লাহকে স্মরণ করে মাফ চায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "3:133",
+     "note": {
+      "en": "The command is to hasten, and the goal is forgiveness first, then a garden. As-Sa'di: if its width is the heavens and the earth, what then of its length? It is prepared for the God-fearing, and the deeds of taqwa are what lead to it. On 3:135 Ibn Kathir says that when they commit an error, they follow it with repentance and ask forgiveness.",
+      "bn": "হুকুম হলো দ্রুত ছুটে যাওয়া, আর লক্ষ্য প্রথমে মাগফিরাত, তারপর বাগান। আস-সাদি বলেছেন, যার প্রস্থই আসমান ও জমিন, তার দৈর্ঘ্য তাহলে কত! তা প্রস্তুত মুত্তাকিদের জন্য, আর তাকওয়ার আমলই সেখানে পৌঁছে দেয়। ৩:১৩৫-এর ব্যাখ্যায় ইবনে কাসির বলেছেন, ভুল হয়ে গেলে তারা তারপরই তওবা করে আর মাফ চায়।"
+     }
+    },
+    {
+     "ref": "23:11",
+     "note": {
+      "en": "The list in 23:1-9 opens and closes with prayer, which Ibn Kathir reads as a sign of its rank. Then the word “inherit”: Ibn Kathir cites Mujahid that the believers inherit the places the disbelievers would have had. As-Sa'di explains why Firdaws is named: they reached the summit of good qualities, so they are given its summit; or the word means all of Paradise, each believer at his own rank.",
+      "bn": "২৩:১-৯-এর তালিকা শুরু হয়েছে নামাজ দিয়ে, শেষও হয়েছে নামাজ দিয়ে। ইবনে কাসিরের মতে এটা নামাজের মর্যাদার ইঙ্গিত। তারপর “উত্তরাধিকার” শব্দটি। ইবনে কাসির মুজাহিদের কথা এনেছেন: কাফিরদের যে জায়গা পাওয়ার কথা ছিল, মুমিনরা তার উত্তরাধিকারী হবে। ফিরদাউসের নাম কেন এল, আস-সাদি তা বলেছেন: ভালো গুণের চূড়ায় তারা পৌঁছেছে, তাই জান্নাতের চূড়াটিই তারা পাবে। অথবা শব্দটি দিয়ে গোটা জান্নাত বোঝানো হয়েছে, যেখানে প্রত্যেক মুমিন নিজের স্তরে।"
+     }
+    },
+    {
+     "ref": "25:75",
+     "note": {
+      "en": "Al-ghurfah, the high chamber, is the reward for the long portrait in 25:63-74, and the reason is given in a single phrase: “for what they patiently endured.” Ibn Kathir reports that it was so called for its height. As-Sa'di: their aims were high, so the reward matched the deed with lofty dwellings, and patience was the cause.",
+      "bn": "“আল-গুরফাহ”, উঁচু কক্ষ। ২৫:৬৩-৭৪-এর দীর্ঘ বর্ণনার প্রতিদান এটাই, আর কারণ বলা হয়েছে এক কথায়: “তারা সবর করেছিল বলে।” ইবনে কাসির উল্লেখ করেছেন, উচ্চতার কারণেই একে এই নাম দেওয়া হয়েছে। আস-সাদি বলেছেন, তাদের লক্ষ্য ছিল উঁচু, তাই প্রতিদানও আমলের মতো: উঁচু আবাস। আর এর কারণ ছিল সবর।"
+     }
+    },
+    {
+     "ref": "79:40",
+     "note": {
+      "en": "The same phrase as 55:46, “feared the position of his Lord”, now with its practical half: he forbade the soul its desire. As-Sa'di describes the inner movement: the fear works on the heart, so he restrains the desire that holds him back from obeying Allah, until his desire follows what the Messenger ﷺ brought. Ibn Kathir: he compels the soul to obey its Master.",
+      "bn": "৫৫:৪৬-এর সেই একই কথা, “রবের সামনে দাঁড়ানোর ভয়”, এবার তার বাস্তব অংশসহ: সে নিজের নফসকে খেয়ালখুশি থেকে বিরত রেখেছে। আস-সাদি ভেতরের ব্যাপারটা খুলে বলেছেন। ভয়টা অন্তরে কাজ করে, ফলে সে সেই খেয়ালখুশিকে থামায় যা তাকে আল্লাহর আনুগত্য থেকে আটকে রাখে, শেষে তার ইচ্ছাই রাসূল ﷺ-এর আনা পথের অনুগামী হয়ে যায়। ইবনে কাসির বলেছেন, সে নফসকে তার মালিকের আনুগত্যে বাধ্য করে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "at-the-gates",
+   "title": {
+    "en": "At the Gates, With Family",
+    "bn": "দরজায় অভ্যর্থনা, পরিবারের সঙ্গে মিলন"
+   },
+   "body": [
+    {
+     "en": "The Quran narrates the arrival. The God-fearing are driven to Paradise in groups, its gates are opened, and its keepers greet them (39:73). The angels come in on them from every gate: “Peace be upon you for what you patiently endured” (13:24). At death, too, the angels greet the good with peace (16:32), and in Paradise itself comes “peace, a word from a Merciful Lord” (36:58). The arrival is not solitary. The righteous among their parents, spouses and children enter with them (13:23), and believing offspring are raised to join their parents (52:21).",
+     "bn": "কুরআন পৌঁছানোর দৃশ্যটাও বর্ণনা করেছে। মুত্তাকিদের দলে দলে জান্নাতের দিকে নিয়ে যাওয়া হবে, দরজাগুলো খুলে দেওয়া হবে, আর রক্ষীরা তাদের অভ্যর্থনা জানাবে (৩৯:৭৩)। ফেরেশতারা প্রতিটি দরজা দিয়ে তাদের কাছে আসবে: “তোমাদের ওপর শান্তি, কারণ তোমরা সবর করেছিলে” (১৩:২৪)। মৃত্যুর সময়ও ফেরেশতারা নেককারদের সালাম দেয় (১৬:৩২), আর জান্নাতে আসবে “সালাম, দয়াময় রবের পক্ষ থেকে বাণী” (৩৬:৫৮)। এই আগমন একার নয়। বাবা-মা, স্ত্রী ও সন্তানদের মধ্যে যারা নেককার, তারা সঙ্গে প্রবেশ করবে (১৩:২৩), আর ঈমানদার সন্তানদের মর্যাদা বাড়িয়ে বাবা-মায়ের সঙ্গে মিলিয়ে দেওয়া হবে (৫২:২১)।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "39:73",
+     "note": {
+      "en": "As-Sa'di notices a single letter. Of Hell, 39:71 says “its gates were opened”; here it is “and its gates were opened”, with an added “and”. His reading: the Fire's gates open the moment its people arrive, while the people of Paradise seek intercession through Muhammad ﷺ before theirs open. On tibtum, “you have become pure”, he says: good in heart, tongue and limbs, so enter, for this home suits only the good.",
+      "bn": "আস-সাদি এখানে একটি মাত্র অক্ষর খেয়াল করেছেন। জাহান্নাম সম্পর্কে ৩৯:৭১ বলেছে “ফুতিহাত”, দরজা খুলে দেওয়া হলো; আর এখানে বলেছে “ওয়া ফুতিহাত”, সঙ্গে বাড়তি “ওয়া”। তাঁর ব্যাখ্যা: জাহান্নামের দরজা খোলে তার বাসিন্দারা পৌঁছানো মাত্র, আর জান্নাতবাসীরা মুহাম্মাদ ﷺ-এর সুপারিশ চায়, তারপর তাদের দরজা খোলে। “তিবতুম”, তোমরা পবিত্র হয়েছ: এর মানে তিনি বলেছেন অন্তর, জবান ও অঙ্গপ্রত্যঙ্গে ভালো হওয়া। তাই প্রবেশ করো, কারণ এ ঘর কেবল ভালো মানুষদেরই মানায়।"
+     }
+    },
+    {
+     "ref": "13:23",
+     "note": {
+      "en": "One phrase sets the condition: “whoever were righteous” among their forefathers, spouses and descendants. Ibn Kathir: Allah gathers them with their loved ones so their eyes are comforted, raising the lower to the rank of the higher without lowering the higher. As-Sa'di includes male and female forebears, and says the angels enter “from every gate” to congratulate them on their safety and on Allah's honour.",
+      "bn": "শর্তটা একটি কথাতেই: বাবা-দাদা, স্ত্রী ও সন্তানদের মধ্যে “যারা নেককার”। ইবনে কাসির বলেছেন, আল্লাহ তাদের প্রিয়জনদের সঙ্গে একত্র করবেন, যাতে চোখ জুড়ায়। নিচের স্তরের জনকে উঁচু স্তরে তুলে আনবেন, উঁচু স্তরের জনের মর্যাদা একটুও না কমিয়ে। আস-সাদি বলেছেন, পূর্বপুরুষদের মধ্যে নারী-পুরুষ দুই-ই আছেন। আর “প্রতিটি দরজা দিয়ে” ফেরেশতাদের প্রবেশ হলো তাদের নিরাপত্তা আর আল্লাহর দেওয়া সম্মানের জন্য অভিনন্দন।"
+     }
+    },
+    {
+     "ref": "52:21",
+     "note": {
+      "en": "Two clauses guard against two misreadings. The offspring are raised to their parents' rank, even if they did less, Ibn Kathir reports from Ibn Abbas, so that the parents' eyes are comforted; yet the parents lose nothing of their deeds. Then “every person, for what he earned, is retained”. As-Sa'di: this is so no one imagines the Fire works the same way; it is the abode of justice.",
+      "bn": "দুটি কথা দুই রকম ভুল বোঝা আটকায়। সন্তানদের বাবা-মায়ের স্তরে তুলে নেওয়া হবে, তারা অত ভালো আমল না করলেও, যাতে বাবা-মায়ের চোখ জুড়ায়। ইবনে কাসির এ কথা ইবনে আব্বাস (রাঃ) থেকে এনেছেন। অথচ বাবা-মায়ের আমল থেকে কিছুই কমানো হবে না। তারপর বলা হয়েছে, “প্রত্যেকে নিজের উপার্জনের কাছে দায়বদ্ধ।” আস-সাদি বলেছেন, কথাটা এখানে এসেছে যাতে কেউ না ভাবে জাহান্নামেও এভাবেই হবে। জাহান্নাম ন্যায়বিচারের ঘর।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "mercy-and-deeds",
+   "title": {
+    "en": "By His Mercy, For What They Did",
+    "bn": "তাঁর রহমতে, তাদের আমলের কারণে"
+   },
+   "body": [
+    {
+     "en": "Two kinds of statement run through these ayat. Some tie Paradise to deeds: “enter Paradise for what you used to do” (16:32), “a reward for what they used to do” (32:17, 56:24). Others tie it to Allah alone: the people of Paradise say He settled them there “out of His bounty” (35:35), and 57:21 calls it “the bounty of Allah which He gives to whom He wills”. The hadith below seems at first to deny the first kind. The commentators read them together, and 7:43 holds both in a single ayah.",
+     "bn": "এই আয়াতগুলোতে দুই ধরনের কথা পাশাপাশি চলেছে। কিছু আয়াত জান্নাতকে আমলের সঙ্গে জুড়েছে: “তোমরা যা করতে তার কারণে জান্নাতে প্রবেশ করো” (১৬:৩২), “তারা যা করত তার প্রতিদান” (৩২:১৭, ৫৬:২৪)। আবার কিছু আয়াত তা জুড়েছে কেবল আল্লাহর সঙ্গে। জান্নাতবাসীরা নিজেরাই বলবে, তিনি “নিজ অনুগ্রহে” তাদের সেখানে থাকতে দিয়েছেন (৩৫:৩৫), আর ৫৭:২১ একে বলেছে “আল্লাহর অনুগ্রহ, তিনি যাকে চান দেন।” নিচের হাদিসটি প্রথম দেখায় মনে হয় প্রথম ধরনটিকে নাকচ করছে। মুফাসসিররা দুটোকে একসঙ্গে পড়েছেন, আর ৭:৪৩ একই আয়াতে দুটোকেই ধরে রেখেছে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "7:43",
+     "note": {
+      "en": "The people of Paradise say: “we would never have been guided had Allah not guided us.” Then they are told: “you have been made to inherit it for what you used to do.” Ibn Kathir: by your deeds you received Allah's mercy, and so entered. As-Sa'di quotes some of the Salaf: saved from the Fire by His pardon, admitted by His mercy, ranks divided by deeds, which are themselves of His mercy.",
+      "bn": "জান্নাতবাসীরা বলবে: “আল্লাহ পথ না দেখালে আমরা কখনো পথ পেতাম না।” তারপর তাদের ডেকে বলা হবে: “তোমরা যা করতে, তার কারণে তোমাদের এর উত্তরাধিকারী করা হয়েছে।” ইবনে কাসির বলেছেন, আমলের কারণে তোমরা আল্লাহর রহমত পেয়েছ, আর সেভাবেই প্রবেশ করেছ। আস-সাদি পূর্বসূরি কয়েকজন আলেমের কথা এনেছেন: জাহান্নাম থেকে মুক্তি তাঁর ক্ষমায়, জান্নাতে প্রবেশ তাঁর রহমতে, আর স্তর ভাগ হয় নেক আমল দিয়ে, যে আমলও তাঁরই রহমত।"
+     }
+    },
+    {
+     "ref": "16:32",
+     "note": {
+      "en": "The angels' words at death are explicit: “for what you used to do.” As-Sa'di does not soften them: deeds are the cause, the substance and the basis of entering Paradise and escaping the Fire. Then he adds where the deed came from: it was granted to them by Allah's mercy and favour, not by their own strength and power.",
+      "bn": "মৃত্যুর সময় ফেরেশতাদের কথা খুব স্পষ্ট: “তোমরা যা করতে তার কারণে।” আস-সাদি কথাটাকে হালকা করেননি। তিনি বলেছেন, জান্নাতে প্রবেশ আর জাহান্নাম থেকে মুক্তির কারণ, উপাদান ও ভিত্তি হলো আমল। তারপর যোগ করেছেন, সেই আমল এসেছে কোথা থেকে: আল্লাহর রহমত ও অনুগ্রহে তারা তা পেয়েছে, নিজেদের শক্তি-সামর্থ্যে নয়।"
+     }
+    },
+    {
+     "ref": "35:35",
+     "note": {
+      "en": "These are the people of Paradise speaking about themselves, and the key phrase is “out of His bounty”. As-Sa'di: by His bounty and generosity, not by our deeds; had it not been for His bounty we would not have reached it. Ibn Kathir: our deeds are not equal to this, and he cites the Sahih hadith here.",
+      "bn": "এগুলো জান্নাতবাসীদের নিজেদের সম্পর্কে নিজেদের কথা, আর মূল কথাটা হলো “নিজ অনুগ্রহে”। আস-সাদি বলেছেন: তাঁর অনুগ্রহ ও দয়ায়, আমাদের আমলের কারণে নয়; তাঁর অনুগ্রহ না থাকলে আমরা এখানে পৌঁছাতাম না। ইবনে কাসির বলেছেন, আমাদের আমল এর সমান নয়, আর এখানে তিনি সহিহ হাদিসটি এনেছেন।"
+     }
+    },
+    {
+     "ref": "57:21",
+     "note": {
+      "en": "Compare 3:133: there the command is to hasten, here to race, and the garden is prepared for those who believe in Allah and His messengers. As-Sa'di explains the race: toward forgiveness by sincere repentance and turning from sin, toward His pleasure by righteous deeds. Then the ayah closes the account on grace: “That is the bounty of Allah.” Ibn Kathir: all of it, including what qualified them, is His favour.",
+      "bn": "৩:১৩৩-এর সঙ্গে মিলিয়ে দেখুন। সেখানে হুকুম দ্রুত ছুটে যাওয়ার, এখানে প্রতিযোগিতার। আর বাগান প্রস্তুত তাদের জন্য, যারা আল্লাহ ও তাঁর রাসূলদের প্রতি ঈমান এনেছে। আস-সাদি প্রতিযোগিতার মানে বলেছেন: মাগফিরাতের দিকে খাঁটি তওবা আর গুনাহ থেকে দূরে থেকে, আল্লাহর সন্তুষ্টির দিকে নেক আমল দিয়ে। তারপর আয়াত হিসাবটা শেষ করেছে অনুগ্রহ দিয়ে: “এ আল্লাহর অনুগ্রহ।” ইবনে কাসির বলেছেন, তাদের যে যোগ্য করে তোলা হয়েছে, সেটাসহ সবই তাঁর দান।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 6463",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-6463",
+     "text": {
+      "en": "The Messenger of Allah ﷺ said: “His deeds will never save any one of you.” They said: “Not even you, O Messenger of Allah?” He said: “Not even me, unless Allah covers me with mercy. So aim for what is right and keep close to it; set out in the morning and in the evening, and something of the night; and moderation, moderation, and you will arrive.”",
+      "bn": "রাসূলুল্লাহ ﷺ বলেছেন: “তোমাদের কাউকেই তার আমল কখনো বাঁচাতে পারবে না।” সাহাবিরা বললেন: “আপনাকেও না, হে আল্লাহর রাসূল?” তিনি বললেন: “আমাকেও না, যদি না আল্লাহ আমাকে রহমত দিয়ে ঢেকে নেন। তাই ঠিক পথে চলো, তার কাছাকাছি থাকো; সকালে চলো, বিকেলে চলো, আর রাতেরও কিছু অংশে। মাঝামাঝি পথ, মাঝামাঝি পথ, তাহলেই পৌঁছে যাবে।”"
+     },
+     "note": {
+      "en": "The wording here is “will never save”; under 7:43 Ibn Kathir cites the Two Sahihs' version, “will not admit him into Paradise”. He does not set it against the ayat: deeds are the reason the mercy reaches a person. And the hadith ends not in passivity but in instructions: steady, moderate, regular deeds.",
+      "bn": "এখানে শব্দটা “বাঁচাতে পারবে না”। ইবনে কাসির ৭:৪৩-এর ব্যাখ্যায় দুই সহিহ গ্রন্থের বর্ণনা এনেছেন: “তাকে জান্নাতে প্রবেশ করাবে না।” তবে তিনি একে আয়াতের বিপরীতে দাঁড় করাননি। আমলই সেই কারণ, যার মাধ্যমে রহমত মানুষের কাছে পৌঁছায়। আর হাদিসটি নিজেই শেষ হয়েছে বসে থাকার কথা বলে নয়, নির্দেশ দিয়ে: স্থির, পরিমিত, নিয়মিত আমল।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "When you ask Allah for Paradise, ask for al-Firdaws by name, as the Prophet ﷺ instructed (Bukhari 2790).",
+   "bn": "আল্লাহর কাছে জান্নাত চাইলে নাম ধরে ফিরদাউস চান, যেমন নবী ﷺ শিখিয়েছেন (বুখারি ২৭৯০)।"
+  },
+  {
+   "en": "Choose one list, 23:1-11 or 25:63-75, and check yourself against it one quality at a time, starting with the one you most often miss.",
+   "bn": "একটি তালিকা বেছে নিন, ২৩:১-১১ অথবা ২৫:৬৩-৭৫, আর একটা একটা গুণ ধরে নিজেকে মিলিয়ে দেখুন। শুরু করুন সেটা দিয়ে, যেটা সবচেয়ে বেশি বাদ পড়ে।"
+  },
+  {
+   "en": "Keep at least one good deed hidden, such as a prayer at night or a private charity, mindful of the hidden reward in 32:17.",
+   "bn": "অন্তত একটি নেক আমল গোপন রাখুন, যেমন রাতের নামাজ বা কারও অজান্তে দান। ৩২:১৭-এর গোপন প্রতিদানের কথা মনে রাখুন।"
+  },
+  {
+   "en": "Settle a grudge, or a wrong you owe someone, while you still can; the wrongs between believers are settled before they enter Paradise.",
+   "bn": "যে রাগ পুষে রেখেছেন, বা কারও প্রতি যে অন্যায়ের দায় আপনার ঘাড়ে, সুযোগ থাকতেই মিটিয়ে ফেলুন। জান্নাতে প্রবেশের আগেই মুমিনদের পারস্পরিক অন্যায়ের মীমাংসা হবে।"
+  },
+  {
+   "en": "Pray for the faith of your spouse and children in the words of 25:74; 13:23 and 52:21 join families through righteousness and faith.",
+   "bn": "২৫:৭৪-এর ভাষায় স্ত্রী ও সন্তানদের ঈমানের জন্য দোয়া করুন। ১৩:২৩ ও ৫২:২১ পরিবারকে একত্র করে নেক আমল আর ঈমানের সূত্রে।"
+  },
+  {
+   "en": "Work for Paradise and still ask for it as a mercy: keep your deeds steady and moderate, and never treat them as a price paid.",
+   "bn": "জান্নাতের জন্য আমল করুন, তবু তা চান রহমত হিসেবে। আমল করুন নিয়মিত ও পরিমিতভাবে, কিন্তু কখনো একে দাম পরিশোধ মনে করবেন না।"
+  }
+ ],
  "refs": [
   "2:25",
   "2:35",
@@ -74,14 +455,16 @@
   "22:14",
   "22:23",
   "22:56",
-  "25:10",
+  "23:11",
   "25:15",
   "25:16",
   "25:24",
+  "25:75",
   "26:90",
   "29:58",
   "31:8",
   "31:9",
+  "32:17",
   "32:19",
   "35:33",
   "35:35",
@@ -197,38 +580,9 @@
   "56:53",
   "56:54",
   "56:55",
-  "56:57",
-  "56:58",
-  "56:59",
-  "56:60",
-  "56:61",
-  "56:62",
-  "56:63",
-  "56:64",
-  "56:65",
-  "56:66",
-  "56:67",
-  "56:68",
-  "56:69",
-  "56:70",
-  "56:71",
-  "56:72",
-  "56:73",
-  "56:74",
-  "56:75",
-  "56:76",
-  "56:77",
-  "56:78",
-  "56:79",
-  "56:80",
-  "56:81",
-  "56:82",
-  "56:83",
-  "56:84",
-  "56:85",
-  "56:86",
-  "56:87",
   "56:88",
+  "56:89",
+  "56:90",
   "56:91",
   "57:12",
   "57:21",
@@ -251,7 +605,8 @@
   "70:34",
   "70:35",
   "70:38",
-  "72:8",
+  "75:22",
+  "75:23",
   "76:11",
   "76:12",
   "76:13",
@@ -292,6 +647,140 @@
   "98:7",
   "98:8"
  ],
+ "refsDropped": [
+  {
+   "ref": "25:10",
+   "reason": "Worldly gardens Allah could have given the Prophet ﷺ, answering the demand in 25:8 (Ibn Kathir, Mujahid: 'in this world'); not Paradise."
+  },
+  {
+   "ref": "56:57",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:58",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:59",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:60",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:61",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:62",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:63",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:64",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:65",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:66",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:67",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:68",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:69",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:70",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:71",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:72",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:73",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:74",
+   "reason": "Part of 56:57-74, the signs of creation (seed, crops, water, fire); not about Paradise."
+  },
+  {
+   "ref": "56:75",
+   "reason": "Part of 56:75-82, the oath by the stars and the nobility of the Quran; not about Paradise."
+  },
+  {
+   "ref": "56:76",
+   "reason": "Part of 56:75-82, the oath by the stars and the nobility of the Quran; not about Paradise."
+  },
+  {
+   "ref": "56:77",
+   "reason": "Part of 56:75-82, the oath by the stars and the nobility of the Quran; not about Paradise."
+  },
+  {
+   "ref": "56:78",
+   "reason": "Part of 56:75-82, the oath by the stars and the nobility of the Quran; not about Paradise."
+  },
+  {
+   "ref": "56:79",
+   "reason": "Part of 56:75-82, the oath by the stars and the nobility of the Quran; not about Paradise."
+  },
+  {
+   "ref": "56:80",
+   "reason": "Part of 56:75-82, the oath by the stars and the nobility of the Quran; not about Paradise."
+  },
+  {
+   "ref": "56:81",
+   "reason": "Part of 56:75-82, the oath by the stars and the nobility of the Quran; not about Paradise."
+  },
+  {
+   "ref": "56:82",
+   "reason": "Part of 56:75-82, the oath by the stars and the nobility of the Quran; not about Paradise."
+  },
+  {
+   "ref": "56:83",
+   "reason": "Part of 56:83-87, the deathbed challenge to the deniers; not about Paradise."
+  },
+  {
+   "ref": "56:84",
+   "reason": "Part of 56:83-87, the deathbed challenge to the deniers; not about Paradise."
+  },
+  {
+   "ref": "56:85",
+   "reason": "Part of 56:83-87, the deathbed challenge to the deniers; not about Paradise."
+  },
+  {
+   "ref": "56:86",
+   "reason": "Part of 56:83-87, the deathbed challenge to the deniers; not about Paradise."
+  },
+  {
+   "ref": "56:87",
+   "reason": "Part of 56:83-87, the deathbed challenge to the deniers; not about Paradise."
+  },
+  {
+   "ref": "72:8",
+   "reason": "The jinn reaching for the sky (as-samā’) and finding it guarded; about the heavens, not Paradise."
+  }
+ ],
  "videos": [
   {
    "title": "Heaven & Hell - Wahaj Tarin",
@@ -301,7 +790,52 @@
    "watch": "https://www.youtube.com/watch?v=TlVwgthVLTU"
   }
  ],
- "reading": [],
- "sources": [],
- "related": []
+ "reading": [
+  {
+   "title": {
+    "en": "Will the believers see their Lord in Paradise? (Bengali)",
+    "bn": "মুমিনরা কি জান্নাতে তাদের রবকে দেখবে?"
+   },
+   "url": "https://islamqa.info/bn/answers/14525",
+   "site": "islamqa.info",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Hadith: When the people of Paradise enter Paradise, Allah will say: Do you want anything more? (Bengali)",
+    "bn": "হাদিস: জান্নাতীরা জান্নাতে প্রবেশ করলে আল্লাহ বলবেন, তোমরা কি আরও কিছু চাও?"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/8344",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Explanation of the verse “And that is Paradise which you are made to inherit for what you used to do”",
+    "bn": "“এই সেই জান্নাত, তোমাদের আমলের কারণে যার উত্তরাধিকারী করা হয়েছে” আয়াতের ব্যাখ্যা (ইংরেজি)"
+   },
+   "url": "https://islamqa.info/en/answers/310063",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "Will We See Allah in Jannah?",
+    "bn": "আমরা কি জান্নাতে আল্লাহকে দেখব? (ইংরেজি)"
+   },
+   "url": "https://islamqa.info/en/answers/14525",
+   "site": "islamqa.info",
+   "lang": "en"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir",
+  "Tafsir as-Sa'di"
+ ],
+ "related": [
+  "th-hell",
+  "th-hereafter",
+  "th-judgement",
+  "allah-loves"
+ ]
 }

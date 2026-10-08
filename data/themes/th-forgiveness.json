@@ -1,14 +1,359 @@
 {
  "id": "th-forgiveness",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "Forgiveness",
   "bn": "ক্ষমা"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "How the Quran describes Allah's forgiveness, how to ask for it, what erases sins, and why we are told to forgive each other.",
+  "bn": "আল্লাহর ক্ষমা কুরআনে কেমন, কীভাবে তা চাইতে হয়, কোন আমল গুনাহ মুছে দেয়, আর আল্লাহ কেন মানুষকে একে অপরকে মাফ করতে বলেন।"
+ },
+ "intro": [
+  {
+   "en": "The Quran speaks of forgiveness in two directions. Allah forgives His servants, and He tells His servants to forgive one another. The two are never kept far apart. 64:14 asks believers to pardon, overlook and forgive within their own households, and closes by naming Allah the Forgiving, the Merciful. As-Sa‘di draws one rule from it and from 42:40: the recompense is of the same kind as the deed, so whoever pardons is pardoned.",
+   "bn": "কুরআনে ক্ষমার কথা এসেছে দুই দিক থেকে। আল্লাহ তাঁর বান্দাদের মাফ করেন, আবার বান্দাদের বলেন একে অপরকে মাফ করতে। এই দুটোকে কুরআন কখনো বেশি দূরে রাখেনি। ৬৪:১৪ মুমিনদের বলছে নিজের ঘরের মানুষদের মার্জনা করতে, উপেক্ষা করতে, মাফ করে দিতে, আর আয়াত শেষ করছে আল্লাহকে ক্ষমাশীল, দয়ালু বলে। আস-সাদি এই আয়াত আর ৪২:৪০ থেকে একটাই নিয়ম বের করেছেন: প্রতিদান আমলের জাত মেনেই আসে। যে মাফ করে, সে মাফ পায়।"
+  },
+  {
+   "en": "Repentance, tawbah, has a page of its own, and the Hope module speaks to those who despair. This page covers what lies around them: the names by which Allah describes His forgiveness, istighfar and what the Quran attaches to it, the one sin that is not forgiven to a person who dies upon it, the deeds that wipe out bad deeds, and then the human side: restraining anger, pardoning, overlooking, and not forgetting graciousness even where only rights are at stake.",
+   "bn": "তওবার জন্য আলাদা পাতা আছে, আর নিরাশ মানুষের কথা বলে আশার অধ্যায়গুলো। এই পাতার কাজ তার আশপাশের বিষয়গুলো। আল্লাহ কোন কোন নামে নিজের ক্ষমার পরিচয় দিয়েছেন, ইস্তিগফারের সঙ্গে কুরআন কী কী জুড়ে দিয়েছে, কোন একটি গুনাহ নিয়ে মারা গেলে আর মাফ মেলে না, কোন আমল মন্দ আমলকে মুছে দেয়। তারপর মানুষের দিক: রাগ চেপে রাখা, মাফ করা, দোষ উপেক্ষা করা, আর যেখানে শুধু হকের হিসাব, সেখানেও উদারতা ভুলে না যাওয়া।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "names-of-forgiveness",
+   "title": {
+    "en": "The Names of His Forgiveness",
+    "bn": "তাঁর ক্ষমার নামগুলো"
+   },
+   "body": [
+    {
+     "en": "The Quran rarely mentions forgiveness without naming the One who forgives. Al-Ghafur, the Forgiving, closes dozens of ayat on this list, usually beside ar-Rahim. Al-Ghaffar appears in 20:82, 38:66, 39:5, 40:42 and 71:10, where as-Sa‘di glosses it as abundant in forgiveness. Al-‘Afuww, the Pardoner, closes 4:43, 4:99, 4:149, 22:60 and 58:2. And 40:3 describes Him by the act itself: Ghafir adh-dhanb, Forgiver of sin. The ayat below show what the commentators read in these names, and how Ibn Kathir reads pardon and forgiveness apart in one short du‘a.",
+     "bn": "কুরআন ক্ষমার কথা বললে প্রায় সব সময় ক্ষমাকারীর নামও নেয়। এই তালিকার অসংখ্য আয়াত শেষ হয়েছে আল-গাফুর নামে, সাধারণত আর-রাহিমের পাশে। আল-গাফফার এসেছে ২০:৮২, ৩৮:৬৬, ৩৯:৫, ৪০:৪২ আর ৭১:১০-এ। আস-সাদি ৭১:১০-এ এর অর্থ করেছেন, যিনি অনেক বেশি মাফ করেন। আল-আফুউ, মার্জনাকারী, এসেছে ৪:৪৩, ৪:৯৯, ৪:১৪৯, ২২:৬০ আর ৫৮:২-এর শেষে। আর ৪০:৩ তাঁর পরিচয় দিয়েছে কাজটি দিয়েই: গাফিরুয যাম্ব, গুনাহ মাফকারী। নিচের আয়াতগুলোতে দেখা যাবে, মুফাসসিররা এই নামগুলোয় কী পড়েছেন, আর ছোট্ট একটি দোয়ায় ইবনে কাসির কীভাবে মার্জনা আর মাগফিরাতকে আলাদা করে পড়েছেন।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "40:3",
+     "note": {
+      "en": "Four descriptions in a row: Forgiver of sin, Acceptor of repentance, Severe in punishment, Owner of abundance. As-Sa‘di reads the first three together as the Quran's call to sinners to repent, turn back and seek forgiveness. Ibn Kathir notes that mercy and punishment are often named together in the Quran so that people stay between hope and fear.",
+      "bn": "পরপর চারটি গুণ: গুনাহ মাফকারী, তওবা কবুলকারী, কঠিন শাস্তিদাতা, অঢেল অনুগ্রহের মালিক। আস-সাদি প্রথম তিনটিকে একসঙ্গে পড়েছেন গুনাহগারদের প্রতি কুরআনের ডাক হিসেবে: তওবা করো, ফিরে এসো, মাফ চাও। ইবনে কাসির বলেছেন, কুরআনে রহমত আর শাস্তির কথা প্রায়ই একসঙ্গে আসে, যাতে মানুষ আশা আর ভয়ের মাঝখানে থাকে।"
+     }
+    },
+    {
+     "ref": "38:66",
+     "note": {
+      "en": "Al-‘Aziz al-Ghaffar: the Almighty, the Perpetual Forgiver. Ibn Kathir's gloss keeps the two together: He forgives, and He is at the same time mighty and able. As-Sa‘di says al-Ghaffar forgives all sins, small and great, for whoever repents to Him and quits them, and sets Him against the false gods, in whose hands is no forgiveness of sins at all.",
+      "bn": "আল-আযিয আল-গাফফার: মহাপরাক্রমশালী, বারবার ক্ষমাকারী। ইবনে কাসির দুটো নাম একসঙ্গেই ব্যাখ্যা করেছেন। তিনি মাফ করেন, অথচ একই সঙ্গে তিনি পরাক্রমশালী, সব কিছুর ক্ষমতা রাখেন। আস-সাদি বলেছেন, যে তাঁর কাছে তওবা করে আর গুনাহ ছেড়ে দেয়, আল-গাফফার তার ছোট-বড় সব গুনাহ মাফ করেন। এর বিপরীতে তিনি দাঁড় করিয়েছেন মিথ্যা উপাস্যদের, যাদের হাতে গুনাহ মাফের কোনো ক্ষমতাই নেই।"
+     }
+    },
+    {
+     "ref": "4:149",
+     "note": {
+      "en": "Three good deeds, showing good, hiding it, or pardoning a wrong, and the ayah closes not with a stated reward but with two names: Pardoning, Competent. Ibn Kathir: He pardons although He is able to punish. As-Sa‘di says the ayah sends us to learn His names, because the recompense matches the deed: whoever pardons for Allah's sake is pardoned by Him. In his wording, the Pardoner also lowers His covering over His servants' slips.",
+      "bn": "তিনটি ভালো কাজ: ভালো কাজ প্রকাশ করা, গোপন রাখা, কিংবা কারও অন্যায় মাফ করা। আয়াত শেষ হয়েছে কোনো পুরস্কারের কথা বলে নয়, দুটি নাম দিয়ে: মার্জনাকারী, ক্ষমতাবান। ইবনে কাসির বলেন, শাস্তি দেওয়ার ক্ষমতা থাকা সত্ত্বেও তিনি মাফ করেন। আস-সাদির মতে আয়াতটি আমাদের পাঠিয়ে দিচ্ছে তাঁর নামগুলো চেনার দিকে, কারণ প্রতিদান আমলের মতোই হয়। যে আল্লাহর জন্য মাফ করে, আল্লাহ তাকে মাফ করেন। তাঁর ভাষায়, মার্জনাকারী বান্দার ভুলত্রুটির ওপর নিজের পর্দাও টেনে দেন।"
+     }
+    },
+    {
+     "ref": "2:286",
+     "note": {
+      "en": "The closing du‘a of al-Baqarah asks three things in a row: pardon us, forgive us, have mercy on us. Ibn Kathir gives each its own field. Pardon, ‘afw, concerns what is between the servant and Allah: the shortcomings He knows. Forgiveness, maghfirah, concerns what is between the servant and other people: do not expose our faults to them. Mercy looks ahead: do not let us fall into another error. The lines are not rigid; as-Sa‘di, on 4:149, ties covering to pardon as well.",
+      "bn": "সূরা বাকারার শেষ দোয়ায় বান্দা পরপর তিনটি জিনিস চায়: আমাদের মার্জনা করুন, আমাদের মাফ করুন, আমাদের ওপর রহম করুন। ইবনে কাসির প্রতিটির আলাদা ক্ষেত্র দেখিয়েছেন। মার্জনা বা আফও বান্দা আর আল্লাহর মাঝের বিষয়, আমাদের যেসব ত্রুটি তিনি জানেন। মাগফিরাত বান্দা আর অন্য মানুষের মাঝের বিষয়: আমাদের দোষ তাদের সামনে খুলে দেবেন না। আর রহমত সামনের দিকে তাকায়: আবার কোনো ভুলে পড়তে দেবেন না। তবে এই ভাগ একেবারে বাঁধা নয়। আস-সাদি ৪:১৪৯-এ ঢেকে রাখার কথাটা মার্জনার সঙ্গেও জুড়েছেন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "asking-forgiveness",
+   "title": {
+    "en": "Istighfar and What It Brings",
+    "bn": "ইস্তিগফার ও তার ফল"
+   },
+   "body": [
+    {
+     "en": "Istighfar is asking Allah for forgiveness, and the Quran attaches more to it than forgiveness alone. In 8:33 it is named as a shelter from punishment, even for people who opposed the Prophet ﷺ. In 4:110 it is the whole condition of the promise, and as-Sa‘di explains what complete istighfar covers and what follows it.",
+     "bn": "ইস্তিগফার মানে আল্লাহর কাছে মাফ চাওয়া। কুরআন এর সঙ্গে শুধু মাফ নয়, আরও কিছু জুড়ে দিয়েছে। ৮:৩৩ ইস্তিগফারকে আযাব থেকে আড়াল বলেছে, এমনকি নবী ﷺ-এর বিরোধীদের বেলায়ও। ৪:১১০-এ প্রতিশ্রুতির পুরো শর্তই ইস্তিগফার। পূর্ণ ইস্তিগফারের মধ্যে কী পড়ে আর তারপর কী আসে, আস-সাদি তা বুঝিয়েছেন।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "71:10-12",
+     "note": {
+      "en": "As-Sa‘di names two motives Nuh offered: forgiveness and what follows it, reward gained and punishment averted; and also the immediate good of this world, rain that revives land and people. Ibn Kathir reports it narrated of ‘Umar (RA) that he climbed the minbar to pray for rain and did no more than seek forgiveness and recite the ayat of istighfar, these among them.",
+      "bn": "আস-সাদি দেখিয়েছেন, নূহ (আঃ) তাদের দুইভাবে আগ্রহী করেছেন: মাফ আর মাফের পর যা আসে, সওয়াব পাওয়া আর আযাব সরে যাওয়া; সঙ্গে দুনিয়ার নগদ কল্যাণও, এমন বৃষ্টি যা দেশ আর মানুষকে বাঁচিয়ে তোলে। ইবনে কাসির উমর (রাঃ) সম্পর্কে বর্ণনা এনেছেন: বৃষ্টির নামাজের জন্য তিনি মিম্বারে উঠে শুধু ইস্তিগফার করলেন আর ইস্তিগফারের আয়াতগুলো পড়লেন, যার মধ্যে এগুলোও ছিল।"
+     }
+    },
+    {
+     "ref": "8:33",
+     "note": {
+      "en": "Spoken about the Makkan opponents who had just dared Allah to rain stones on them. Two things held the punishment back: the Prophet ﷺ being among them, and their seeking forgiveness. Ibn Kathir records Ibn ‘Abbas: they had two safeguards, the Prophet ﷺ and istighfar; the Prophet ﷺ departed, and istighfar remained.",
+      "bn": "আয়াতটি মক্কার সেই বিরোধীদের নিয়ে, যারা একটু আগেই আল্লাহকে বলেছিল আকাশ থেকে পাথর বর্ষাতে। দুটি জিনিস আযাব ঠেকিয়ে রেখেছিল: তাদের মাঝে নবী ﷺ-এর উপস্থিতি, আর তাদের মাফ চাওয়া। ইবনে কাসির ইবনে আব্বাস (রাঃ)-এর কথা এনেছেন: তাদের নিরাপত্তা ছিল দুটি, নবী ﷺ আর ইস্তিগফার। নবী ﷺ চলে গেছেন, ইস্তিগফার রয়ে গেছে।"
+     }
+    },
+    {
+     "ref": "4:110",
+     "note": {
+      "en": "As-Sa‘di separates the two acts the ayah names: doing evil is read here as wrongs against people, in their lives, wealth and honour, and wronging oneself as the sins between the servant and Allah. For either, complete istighfar is met with more than pardon: Allah removes the sin's effects, restores the good deeds that came before it, and does not let it stand between the servant and His help for the rest of his life.",
+      "bn": "আয়াতে দুটি কাজের নাম আছে, আস-সাদি সে দুটোকে আলাদা করেছেন। মন্দ কাজ এখানে মানুষের ওপর জুলুম, তাদের জান, মাল আর ইজ্জতে। নিজের ওপর জুলুম হলো বান্দা আর আল্লাহর মাঝের গুনাহ। দুটোর যেকোনোটির পর পূর্ণ ইস্তিগফার শুধু মাফ পায় না। আল্লাহ গুনাহের কুফলও দূর করেন, আগের নেক আমলগুলো ফিরিয়ে দেন, আর বাকি জীবনে সেই গুনাহকে বান্দা ও তাঁর তাওফিকের মাঝে দেয়াল হতে দেন না।"
+     }
+    },
+    {
+     "ref": "3:17",
+     "note": {
+      "en": "As-Sa‘di notes the order: after the fine qualities of the righteous, the ayah shows how little they think of themselves. They see themselves as sinners who fall short, so they ask forgiveness before dawn, the hour when prayers are answered. He quotes al-Hasan: they stretched their prayer into the pre-dawn, then sat asking their Lord's forgiveness.",
+      "bn": "আস-সাদি ক্রমটা খেয়াল করতে বলেছেন। মুত্তাকিদের সুন্দর গুণগুলোর পর আয়াত দেখাচ্ছে, নিজেদের তারা কত ছোট মনে করে। নিজেদের তারা দেখে গুনাহগার আর কমতিওয়ালা হিসেবে, তাই ভোররাতে, দোয়া কবুলের সময়টায়, মাফ চায়। তিনি হাসানের কথা এনেছেন: তারা নামাজ টেনে নিয়ে যেত ভোররাত পর্যন্ত, তারপর বসে রবের কাছে মাফ চাইত।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 7507",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-7507",
+     "text": {
+      "en": "Abu Hurayrah said he heard the Prophet ﷺ say: “A servant committed a sin and said, ‘My Lord, I have sinned, so forgive me.’ His Lord said, ‘Does My servant know that he has a Lord who forgives sin and takes to account for it? I have forgiven My servant.’ Then he stayed as long as Allah willed, then committed another sin and said, ‘My Lord, I have committed another, so forgive it.’ He said, ‘Does My servant know that he has a Lord who forgives sin and takes to account for it? I have forgiven My servant.’ Then he stayed as long as Allah willed, then committed a sin and said, ‘My Lord, I have committed another, so forgive me.’ He said, ‘Does My servant know that he has a Lord who forgives sin and takes to account for it? I have forgiven My servant’ (three times), ‘so let him do as he wishes.’”",
+      "bn": "আবু হুরায়রা (রাঃ) বলেন, তিনি নবী ﷺ-কে বলতে শুনেছেন: “এক বান্দা একটি গুনাহ করল, তারপর বলল, ‘হে আমার রব, আমি গুনাহ করে ফেলেছি, আমাকে মাফ করুন।’ তার রব বললেন, ‘আমার বান্দা কি জানে যে তার একজন রব আছেন, যিনি গুনাহ মাফ করেন আবার গুনাহের জন্য পাকড়াও করেন? আমি আমার বান্দাকে মাফ করে দিলাম।’ তারপর আল্লাহ যতদিন চাইলেন সে থাকল, এরপর আরেকটি গুনাহ করে বলল, ‘হে আমার রব, আমি আরেকটি গুনাহ করে ফেলেছি, ওটা মাফ করুন।’ তিনি বললেন, ‘আমার বান্দা কি জানে যে তার একজন রব আছেন, যিনি গুনাহ মাফ করেন আবার গুনাহের জন্য পাকড়াও করেন? আমি আমার বান্দাকে মাফ করে দিলাম।’ তারপর আল্লাহ যতদিন চাইলেন সে থাকল, এরপর আবার গুনাহ করে বলল, ‘হে আমার রব, আমি আরেকটি গুনাহ করে ফেলেছি, আমাকে মাফ করুন।’ তিনি বললেন, ‘আমার বান্দা কি জানে যে তার একজন রব আছেন, যিনি গুনাহ মাফ করেন আবার গুনাহের জন্য পাকড়াও করেন? আমি আমার বান্দাকে মাফ করে দিলাম’ (তিনবার), ‘সে যা চায় করুক।’”"
+     },
+     "note": {
+      "en": "Each time, the forgiveness answers a servant who asks and who knows he has a Lord who forgives and also holds to account. The explanation on hadeethenc.com reads the closing words as conditional on his giving up each sin as he commits it; the repentance page covers those conditions.",
+      "bn": "প্রতিবার মাফ আসছে এমন বান্দার জন্য, যে মাফ চায়, আর জানে তার রব মাফ করেন, আবার হিসাবও নেন। হাদিসটির যে ব্যাখ্যা হাদিসএনসি ওয়েবসাইটে আছে, তা শেষ কথাটিকে শর্তসহ পড়েছে: প্রতিটি গুনাহ হয়ে গেলে সে তা ছেড়ে দেয়। সেই শর্তগুলোর আলোচনা তওবার পাতায়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "shirk-and-below",
+   "title": {
+    "en": "Shirk and What Lies Below It",
+    "bn": "শিরক ও তার নিচের গুনাহ"
+   },
+   "body": [
+    {
+     "en": "As-Sa‘di, on 4:48, lists the routes by which the sins below shirk are forgiven: deeds that erase, afflictions that expiate in this world, in the barzakh and on the Day of Resurrection, the prayers of believers for one another, intercession, and above all His mercy. The one who associates partners with Allah, he says, has shut these doors on himself. The ayat below add the ending of each Nisa ayah, the degrees of the warning before 4:116, and the condition 47:34 states outright.",
+     "bn": "আস-সাদি ৪:৪৮-এ শিরকের নিচের গুনাহ মাফ হওয়ার পথগুলো গুনে দেখিয়েছেন: গুনাহ মুছে দেওয়া নেক আমল, দুনিয়াতে, বারযাখে আর কিয়ামতের দিনে কাফফারা হয়ে যাওয়া কষ্ট, মুমিনদের একে অপরের জন্য দোয়া, শাফাআত, আর সবার ওপরে তাঁর রহমত। তাঁর কথায়, যে আল্লাহর সঙ্গে শরিক করে, সে নিজেই নিজের জন্য এই দরজাগুলো বন্ধ করে দিয়েছে। নিচের আয়াতগুলো দেখায় সূরা নিসার দুই আয়াতের দুই রকম সমাপ্তি, ৪:১১৬-এর আগের হুঁশিয়ারির স্তর, আর ৪৭:৩৪-এর খোলাখুলি শর্ত।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "4:48",
+     "note": {
+      "en": "Ibn Kathir explains the first half as meeting Allah while associating partners with Him. The ayah places the second half under His will: sins less than shirk, small and great, are forgiven when He wills, or as as-Sa‘di puts it, when His wisdom calls for it. This ayah ends: he has fabricated a tremendous sin. As-Sa‘di asks what wrong could be greater than making the created, who owns nothing, equal to the Creator.",
+      "bn": "ইবনে কাসির প্রথম অংশের ব্যাখ্যা করেছেন এভাবে: শিরক নিয়ে আল্লাহর সঙ্গে সাক্ষাৎ করা। দ্বিতীয় অংশ আয়াত রেখেছে তাঁর ইচ্ছার অধীনে। শিরকের চেয়ে ছোট গুনাহ, ছোট হোক বা বড়, তিনি চাইলে মাফ করেন। আস-সাদির ভাষায়, যখন তাঁর হিকমত তা দাবি করে। এই আয়াতের শেষ কথা: সে এক বিরাট গুনাহ বানিয়ে নিয়েছে। আস-সাদি প্রশ্ন তুলেছেন, যে সৃষ্টি নিজের কিছুরই মালিক নয়, তাকে স্রষ্টার সমান করার চেয়ে বড় জুলুম আর কী হতে পারে?"
+     }
+    },
+    {
+     "ref": "4:116",
+     "note": {
+      "en": "The same sentence returns with a different ending: he has gone far astray. As-Sa‘di reads it with the ayah before it, about opposing the Messenger ﷺ and leaving the believers' way. That warning comes in degrees, and, he suggests, 4:116 spells them out: shirk is never forgiven, and the rest is under Allah's will, forgiven by His mercy or punished by His justice.",
+      "bn": "একই বাক্য ফিরে এসেছে ভিন্ন সমাপ্তি নিয়ে: সে পথ হারিয়ে বহু দূরে চলে গেছে। আস-সাদি আয়াতটি পড়েছেন আগের আয়াতের সঙ্গে মিলিয়ে, যেখানে রাসূল ﷺ-এর বিরোধিতা আর মুমিনদের পথ ছেড়ে দেওয়ার কথা আছে। সেই হুঁশিয়ারির কয়েকটি স্তর আছে, আর তাঁর ধারণা, ৪:১১৬ সেই স্তরগুলো খুলে বলেছে। শিরক কখনো মাফ হয় না। বাকিটা আল্লাহর ইচ্ছার অধীনে: চাইলে রহমতে মাফ করবেন, চাইলে ইনসাফের সঙ্গে শাস্তি দেবেন।"
+     }
+    },
+    {
+     "ref": "47:34",
+     "note": {
+      "en": "Here the condition is spelled out: those who disbelieved, turned others from Allah's path, then died as disbelievers, will never be forgiven. As-Sa‘di says this ayah, with 2:217, restricts every unqualified text about disbelief voiding a person's deeds: they apply to one who dies upon it. “Never be forgiven” he glosses as: not by intercession nor by anything else. So the routes this section began with, intercession among them, do not reach one who dies in that state.",
+      "bn": "এখানে আয়াত শর্তটা স্পষ্ট করে বলেছে: যারা কুফরি করেছে, মানুষকে আল্লাহর পথ থেকে ফিরিয়েছে, তারপর কাফির অবস্থায় মারা গেছে, আল্লাহ তাদের কখনো মাফ করবেন না। আস-সাদি বলেছেন, এই আয়াত আর ২:২১৭ মিলে কুফরির কারণে আমল নষ্ট হওয়ার প্রতিটি শর্তহীন বক্তব্যকে সীমিত করে দেয়: কথাটা খাটে তার বেলায়, যে কুফরি নিয়েই মারা যায়। “কখনো মাফ করবেন না” কথাটার ব্যাখ্যায় তিনি বলেছেন: শাফাআত দিয়েও না, অন্য কিছু দিয়েও না। ফলে এই অংশের শুরুতে যে পথগুলোর কথা এসেছে, শাফাআতসহ, সেগুলো এমন অবস্থায় মারা যাওয়া মানুষের কাছে পৌঁছায় না।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "what-erases-sins",
+   "title": {
+    "en": "What Wipes Sins Away",
+    "bn": "যা গুনাহ মুছে দেয়"
+   },
+   "body": [
+    {
+     "en": "The Quran names deeds that remove sins: prayer at the two ends of the day and in the hours of the night, avoiding the major sins, taqwa. How far each one reaches is where the commentators are precise. As-Sa‘di, on 11:114, limits the erasing done by the prayers to the minor sins. He cites the hadith that the five prayers, Friday to Friday and Ramadan to Ramadan expiate what lies between them so long as the major sins are avoided, and he cites 4:31 as the ayah that sets the same limit. Repentance, the main route for the major sins, has its own page; 8:29 below and the routes in the section above show it is not the only one.",
+     "bn": "কুরআন এমন কিছু আমলের নাম বলেছে, যা গুনাহ সরিয়ে দেয়: দিনের দুই প্রান্তে আর রাতের কিছু অংশে নামাজ, কবিরা গুনাহ থেকে বেঁচে থাকা, তাকওয়া। কোনটা কতদূর পৌঁছায়, মুফাসসিররা সেখানেই খুব মেপে কথা বলেছেন। আস-সাদি ১১:১১৪-এ বলেছেন, নামাজ যে গুনাহ মুছে দেয়, তা ছোট গুনাহ। প্রমাণ হিসেবে তিনি সেই হাদিস এনেছেন, যেখানে আছে পাঁচ ওয়াক্ত নামাজ, এক জুমা থেকে আরেক জুমা, এক রমজান থেকে আরেক রমজান মাঝের গুনাহগুলোর কাফফারা হয়, যতক্ষণ মানুষ কবিরা গুনাহ এড়িয়ে চলে। একই সীমা টানা আয়াত হিসেবে তিনি ৪:৩১-ও উল্লেখ করেছেন। কবিরা গুনাহ থেকে মুক্তির প্রধান পথ তওবা, তার জন্য আলাদা পাতা আছে। তবে নিচের ৮:২৯ আর আগের অংশের পথগুলো দেখায়, সেটাই একমাত্র পথ নয়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "11:114",
+     "note": {
+      "en": "Which prayers “the two ends of the day” means is a difference Ibn Kathir records: the morning prayer and Maghrib for Ibn ‘Abbas, the morning prayer with Zuhr and ‘Asr for Mujahid. As-Sa‘di takes the two ends as Fajr, Zuhr and ‘Asr, as Mujahid does, and the hours of the night as Maghrib and ‘Isha', with the night prayer (qiyam al-layl) included.",
+      "bn": "“দিনের দুই প্রান্ত” বলতে কোন নামাজ, এ নিয়ে ইবনে কাসির মতভেদ উল্লেখ করেছেন। ইবনে আব্বাস (রাঃ)-এর মতে ফজর আর মাগরিব, মুজাহিদের মতে ফজর, জোহর আর আসর। আস-সাদি মুজাহিদের মতোই দুই প্রান্ত বলতে ফজর, জোহর আর আসর ধরেছেন। “রাতের কিছু অংশে” তাঁর মতে মাগরিব আর এশা, সঙ্গে কিয়ামুল লাইলও।"
+     }
+    },
+    {
+     "ref": "4:31",
+     "note": {
+      "en": "A promise in conditional form: avoid the major sins you are forbidden and We will remove your misdeeds. As-Sa‘di adds that avoiding the major sins includes doing the obligations whose neglect is itself a major sin, such as the five prayers, Friday prayer and the Ramadan fast. His definition of a major sin: one that carries a set penalty in this world, a threat in the next, a denial of faith, a curse, or Allah's anger.",
+      "bn": "শর্ত জুড়ে দেওয়া প্রতিশ্রুতি: নিষিদ্ধ বড় গুনাহগুলো থেকে বেঁচে থাকলে আমি তোমাদের মন্দ কাজগুলো মুছে দেব। আস-সাদি যোগ করেছেন, কবিরা থেকে বাঁচার মধ্যে সেই ফরজগুলো পালন করাও পড়ে, যা ছেড়ে দেওয়াটাই কবিরা গুনাহ, যেমন পাঁচ ওয়াক্ত নামাজ, জুমা, রমজানের রোজা। কবিরা গুনাহের সংজ্ঞাও তিনি দিয়েছেন: যার জন্য দুনিয়াতে নির্ধারিত শাস্তি আছে, বা আখিরাতে শাস্তির হুমকি, বা ঈমান না থাকার ঘোষণা, বা লানত, বা আল্লাহর গজব।"
+     }
+    },
+    {
+     "ref": "53:32",
+     "note": {
+      "en": "Those who avoid the major sins and indecencies, except al-lamam. As-Sa‘di gives two readings of lamam: small sins a person does not persist in, or slips that come only now and then. The ayah then gives a reason: He knew you when He produced you from the earth and when you were hidden in your mothers' wombs. As-Sa‘di reads this as His knowledge of the weakness built into people, which is why His wisdom covers them with forgiveness.",
+      "bn": "যারা বড় গুনাহ আর অশ্লীল কাজ থেকে বেঁচে থাকে, শুধু ‘লামাম’ ছাড়া। আস-সাদি লামামের দুটি ব্যাখ্যা দিয়েছেন: এমন ছোট গুনাহ, যার ওপর মানুষ জেদ ধরে থাকে না, অথবা এমন পদস্খলন, যা কালেভদ্রে ঘটে যায়। তারপর আয়াত একটা কারণ দেখিয়েছে: তিনি তোমাদের জানতেন, যখন মাটি থেকে তোমাদের সৃষ্টি করেছেন, আর যখন তোমরা মায়ের পেটে ভ্রূণ ছিলে। আস-সাদির মতে এ হলো মানুষের ভেতরে গড়া দুর্বলতা সম্পর্কে তাঁর জ্ঞান। সেই কারণেই তাঁর হিকমত মানুষকে মাগফিরাতে ঢেকে নেয়।"
+     }
+    },
+    {
+     "ref": "8:29",
+     "note": {
+      "en": "Taqwa brings four things, as-Sa‘di counts them: a criterion to tell truth from falsehood, the removal of misdeeds, the forgiveness of sins, and a great reward. He separates the middle two only when they appear together. Alone, each includes the other; paired, as here, removing misdeeds refers to the minor sins and forgiveness to the major. He makes the same kind of distinction in 4:110, between doing evil and wronging oneself.",
+      "bn": "আস-সাদি গুনে দেখিয়েছেন, তাকওয়া চারটি জিনিস এনে দেয়: সত্য-মিথ্যা আলাদা করার মাপকাঠি, মন্দ কাজ মুছে দেওয়া, গুনাহ মাফ, আর বড় প্রতিদান। মাঝের দুটোকে তিনি আলাদা করেছেন শুধু তখন, যখন দুটো একসঙ্গে আসে। একা এলে একটার মধ্যে অন্যটাও পড়ে। এখানের মতো জোড়ায় এলে মুছে দেওয়া মানে ছোট গুনাহ, আর মাফ মানে বড় গুনাহ। ৪:১১০-এ মন্দ কাজ করা আর নিজের ওপর জুলুম করার মধ্যেও তিনি একই রকম পার্থক্য টেনেছেন।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 526",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-526",
+     "text": {
+      "en": "Ibn Mas‘ud narrated that a man kissed a woman, then came to the Prophet ﷺ and told him. So Allah revealed: “And establish prayer at the two ends of the day and in some hours of the night. Indeed, good deeds do away with bad deeds” (11:114). The man said, “O Messenger of Allah, is this for me?” He said, “For all of my Ummah, every one of them.”",
+      "bn": "ইবনে মাসউদ (রাঃ) বর্ণনা করেন, এক লোক এক নারীকে চুমু খেয়ে ফেলল। তারপর নবী ﷺ-এর কাছে এসে ঘটনাটা জানাল। তখন আল্লাহ নাজিল করলেন: “আর নামাজ কায়েম করো দিনের দুই প্রান্তে এবং রাতের কিছু অংশে। নিশ্চয়ই নেক আমল মন্দ আমলকে দূর করে দেয়” (১১:১১৪)। লোকটি বলল, “হে আল্লাহর রাসূল, এটা কি শুধু আমার জন্য?” তিনি বললেন, “আমার উম্মতের সবার জন্য, প্রত্যেকের জন্য।”"
+     },
+     "note": {
+      "en": "The man asked whether the ayah was a private concession for him, and the answer widened it to everyone in the Ummah.",
+      "bn": "লোকটি জানতে চেয়েছিল, এটা কি শুধু তার জন্য বিশেষ ছাড়? জবাবে নবী ﷺ তা পুরো উম্মতের জন্য খুলে দিলেন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pardon-close-to-home",
+   "title": {
+    "en": "Pardoning Those Close to You",
+    "bn": "কাছের মানুষকে মাফ করা"
+   },
+   "body": [
+    {
+     "en": "The hardest wrongs to forgive often come from the nearest: a relative one supports, a spouse, a child. Three ayat on this page speak to exactly that circle. 24:22 came down about Abu Bakr (RA) and a poor relative he supported who had joined in the slander against ‘A’ishah (RA). 64:14 warns that some spouses and children are enemies, and in the same ayah asks for pardon. 2:237, in the middle of divorce rulings, tells a couple parting before consummation not to forget graciousness between them. In 24:22 and 64:14 the wrong is real; in 2:237 there is no wrong at all, only a right that may be waived, and graciousness is asked even there.",
+     "bn": "যে অন্যায় মাফ করা সবচেয়ে কঠিন, তা অনেক সময় আসে সবচেয়ে কাছের মানুষের কাছ থেকে: যে আত্মীয়ের খরচ নিজে চালান, স্বামী বা স্ত্রী, সন্তান। এই পাতার তিনটি আয়াত ঠিক এই গণ্ডির কথাই বলে। ২৪:২২ নাজিল হয়েছিল আবু বকর (রাঃ) আর তাঁর এক গরিব আত্মীয়কে নিয়ে, যার খরচ তিনি চালাতেন, অথচ সে আয়েশা (রাঃ)-এর বিরুদ্ধে অপবাদে শামিল হয়েছিল। ৬৪:১৪ সতর্ক করে, কিছু স্ত্রী ও সন্তান শত্রু। আর একই আয়াতে মাফ করতে বলে। ২:২৩৭ তালাকের বিধানের মাঝখানে, সহবাসের আগেই আলাদা হয়ে যাওয়া দম্পতিকে বলে, নিজেদের মধ্যে উদারতা ভুলে যেয়ো না। ২৪:২২ আর ৬৪:১৪-তে অন্যায়টা সত্যিই ঘটেছে। ২:২৩৭-এ কোনো অন্যায়ই নেই, আছে শুধু ছেড়ে দেওয়া যায় এমন একটা হক। আল্লাহ সেখানেও উদারতা চেয়েছেন।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "24:22",
+     "note": {
+      "en": "Mistah ibn Uthathah was, as as-Sa‘di and Ibn Kathir describe him, Abu Bakr's poor relative and an emigrant, living on his support. The ayah forbids the oath to cut that support and asks for two things, pardon and overlooking. As-Sa‘di draws a ruling from it: support for a relative is not dropped because of his sin, and pardon is urged whatever wrong was done.",
+      "bn": "আস-সাদি আর ইবনে কাসির দুজনেই মিসতাহ ইবনে উসাসার পরিচয় দিয়েছেন: আবু বকর (রাঃ)-এর গরিব আত্মীয়, মুহাজির, তাঁর দেওয়া খরচেই চলত। আয়াতটি সেই খরচ বন্ধ করার কসম খেতে নিষেধ করেছে, আর দুটি জিনিস চেয়েছে: মাফ করা আর উপেক্ষা করা। এখান থেকে আস-সাদি একটা বিধানও বের করেছেন। আত্মীয়ের গুনাহের কারণে তার খরচ বন্ধ করা যায় না। আর অন্যায় যত বড়ই হোক, মাফ করার প্রতি উৎসাহ রয়ে যায়।"
+     }
+    },
+    {
+     "ref": "64:14",
+     "note": {
+      "en": "Ibn Kathir records Ibn ‘Abbas on the occasion: men in Makkah who wanted to emigrate were held back by their wives and children. When they later reached the Prophet ﷺ and saw how much the others had learned, they were about to punish their families, and this ayah came. As-Sa‘di notes that the warning might seem to call for harshness, so pardon follows at once.",
+      "bn": "ইবনে কাসির এর প্রেক্ষাপট নিয়ে ইবনে আব্বাস (রাঃ)-এর কথা এনেছেন। মক্কার কিছু লোক হিজরত করতে চেয়েছিল, কিন্তু স্ত্রী-সন্তানরা তাদের আটকে রেখেছিল। পরে যখন তারা নবী ﷺ-এর কাছে পৌঁছল আর দেখল অন্যরা দ্বীনের কত কিছু শিখে ফেলেছে, তখন পরিবারকে শাস্তি দিতে উদ্যত হলো। তখনই এই আয়াত নাজিল হয়। আস-সাদি বলেছেন, সতর্কবাণী শুনে মনে হতে পারত কঠোর হতে বলা হচ্ছে। তাই সঙ্গে সঙ্গে মাফের কথা এসেছে।"
+     }
+    },
+    {
+     "ref": "2:237",
+     "note": {
+      "en": "In a ruling about half the dowry, the ayah stops to say that remitting is nearer to taqwa, and do not forget graciousness, al-fadl, between you. As-Sa‘di explains that dealings between people run on two levels: justice, which is taking and giving what is owed, and grace, which is giving what is not owed and letting rights go. Do not forget the second, he says, especially with those you deal and live with.",
+      "bn": "অর্ধেক মোহরের বিধানের মাঝখানে আয়াত থেমে বলে: ছেড়ে দেওয়াই তাকওয়ার বেশি কাছাকাছি, আর নিজেদের মধ্যে উদারতা, আল-ফাদল, ভুলে যেয়ো না। আস-সাদি বুঝিয়েছেন, মানুষের লেনদেনের দুটি স্তর। একটি ইনসাফ: যা পাওনা তা নেওয়া, যা দেনা তা দেওয়া। আরেকটি উদারতা: যা দেনা নয় তাও দেওয়া, নিজের হক ছেড়ে দেওয়া। তাঁর কথা, দ্বিতীয়টি ভুলে যাবেন না, বিশেষ করে যাদের সঙ্গে আপনার লেনদেন আর ওঠাবসা।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 4750",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-4750",
+     "text": {
+      "en": "From ‘A’ishah's long account of the slander: When Allah revealed this declaring my innocence, Abu Bakr as-Siddiq, who used to provide for Mistah ibn Uthathah because of his kinship and his poverty, said: “By Allah, I will never provide anything for Mistah after what he has said about ‘A’ishah.” So Allah revealed: “And let not those of virtue among you and wealth swear not to give [aid] to their relatives and the needy and the emigrants for the cause of Allah, and let them pardon and overlook. Would you not like that Allah should forgive you? And Allah is Forgiving and Merciful” (24:22). Abu Bakr said: “Yes, by Allah, I would love Allah to forgive me.” So he restored to Mistah the support he used to give him, and said: “By Allah, I will never withhold it from him.”",
+      "bn": "অপবাদের ঘটনা নিয়ে আয়েশা (রাঃ)-এর দীর্ঘ বর্ণনা থেকে: আল্লাহ যখন আমার নির্দোষিতা ঘোষণা করে আয়াত নাজিল করলেন, তখন আবু বকর সিদ্দিক (রাঃ), যিনি আত্মীয়তা আর অভাবের কারণে মিসতাহ ইবনে উসাসার খরচ চালাতেন, বললেন: “আল্লাহর কসম, আয়েশার ব্যাপারে মিসতাহ যা বলেছে, এরপর আমি আর কখনো তার জন্য কিছু খরচ করব না।” তখন আল্লাহ নাজিল করলেন: “তোমাদের মধ্যে যারা মর্যাদা ও সচ্ছলতার অধিকারী, তারা যেন কসম না খায় যে আত্মীয়-স্বজন, মিসকিন আর আল্লাহর পথে হিজরতকারীদের সাহায্য করবে না। তারা যেন মাফ করে আর উপেক্ষা করে। তোমরা কি চাও না আল্লাহ তোমাদের মাফ করুন? আল্লাহ বড়ই ক্ষমাশীল, বড়ই দয়ালু” (২৪:২২)। আবু বকর (রাঃ) বললেন: “হ্যাঁ, আল্লাহর কসম, আমি চাই আল্লাহ আমাকে মাফ করুন।” এরপর তিনি মিসতাহকে আগের মতো খরচ দেওয়া আবার শুরু করলেন, আর বললেন: “আল্লাহর কসম, আমি আর কখনো এটা বন্ধ করব না।”"
+     },
+     "note": {
+      "en": "Ibn Kathir places this pardon at the end of a sequence: the innocence was revealed, those who had spoken repented, and the prescribed punishment was carried out on those it applied to; only then did Allah soften Abu Bakr's heart toward Mistah. In Ibn Kathir's order, the pardon follows the accountability.",
+      "bn": "ইবনে কাসির এই মাফকে একটা ধারাবাহিকতার শেষে রেখেছেন। আগে নির্দোষিতার ঘোষণা এল, যারা কথা ছড়িয়েছিল তারা তওবা করল, যাদের ওপর নির্ধারিত শাস্তি প্রযোজ্য ছিল তাদের ওপর তা কার্যকর হলো। এরপরই আল্লাহ মিসতাহর প্রতি আবু বকর (রাঃ)-এর মন নরম করে দিলেন। ইবনে কাসিরের বর্ণনার ক্রমে মাফ এসেছে জবাবদিহির পরে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "anger-pardon-justice",
+   "title": {
+    "en": "Anger, Pardon and Justice",
+    "bn": "রাগ, মাফ আর ইনসাফ"
+   },
+   "body": [
+    {
+     "en": "As-Sa‘di reads 42:40 as setting out three levels of response to harm. Justice repays an evil with its like, no more and no less. Grace is pardon and reconciliation. Wrongdoing is starting the harm, or returning more than was received. 42:41 then confirms that whoever takes his due after being wronged is not to blame.",
+     "bn": "আস-সাদি ৪২:৪০-এ কষ্টের জবাবের তিনটি স্তর দেখেছেন। ইনসাফ হলো মন্দের বদলে ঠিক ততটুকু মন্দ, বেশিও না, কমও না। উদারতা হলো মাফ করা আর মীমাংসা করা। আর জুলুম হলো আগ বাড়িয়ে কষ্ট দেওয়া, কিংবা যতটুকু পেয়েছে তার চেয়ে বেশি ফিরিয়ে দেওয়া। এরপর ৪২:৪১ নিশ্চিত করেছে, অন্যায়ের শিকার হয়ে যে নিজের হক আদায় করে নেয়, তাকে দোষ দেওয়া যায় না।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "3:134",
+     "note": {
+      "en": "As-Sa‘di defines the anger being restrained: the heart filling with rage that pushes toward revenge in word and deed. Restraining it is holding it in and not acting on it; pardon, he says, reaches further, dropping the claim altogether with generosity toward the one who did wrong. He describes the pardoner as someone trading with Allah, forgiving His servants out of mercy for them, and so that Allah may forgive him.",
+      "bn": "আস-সাদি বুঝিয়েছেন, এখানে কোন রাগ চেপে রাখার কথা: অন্তর ক্রোধে ভরে ওঠা, যা কথায় আর কাজে প্রতিশোধের দিকে ঠেলে দেয়। চেপে রাখা মানে তা আটকে রাখা, সেই মতো কিছু না করা। তাঁর মতে মাফ করা আরও এক ধাপ ওপরে: পাকড়াও করার দাবিটাই ছেড়ে দেওয়া, যে অন্যায় করেছে তার প্রতি উদার থেকে। তাঁর ভাষায়, মাফকারী আল্লাহর সঙ্গে ব্যবসা করে। সে আল্লাহর বান্দাদের মাফ করে তাদের প্রতি দয়া থেকে, আর এই আশায় যে আল্লাহও তাকে মাফ করবেন।"
+     }
+    },
+    {
+     "ref": "42:37",
+     "note": {
+      "en": "Among the qualities of believers: when they are angry, they forgive. As-Sa‘di describes a character so practised that forbearance has become second nature: provoked by word or deed, they hold in the anger and answer with kindness. He also separates the two kinds of grave sin the ayah names: fawahish are those the self has a pull toward, such as zina, and kaba'ir are the rest. The distinction holds only when both words appear together.",
+      "bn": "মুমিনদের একটি গুণ: রেগে গেলে তারা মাফ করে দেয়। আস-সাদি এমন এক চরিত্রের কথা বলেছেন, যেখানে অনুশীলনে অনুশীলনে সহনশীলতা স্বভাব হয়ে গেছে। কথায় বা কাজে কেউ রাগিয়ে দিলে তারা রাগ চেপে রাখে, জবাব দেয় সদাচরণে। আয়াতে দুই ধরনের বড় গুনাহের নাম আছে, সেগুলোও তিনি আলাদা করেছেন। ফাওয়াহিশ হলো সেই গুনাহ, যার দিকে নফসের টান থাকে, যেমন জিনা। কাবায়ির বাকিগুলো। এই পার্থক্য খাটে কেবল তখন, যখন দুটি শব্দ একসঙ্গে আসে।"
+     }
+    },
+    {
+     "ref": "42:40",
+     "note": {
+      "en": "The pardon praised here carries a condition that is easy to miss: whoever pardons and makes reconciliation, aslaha. As-Sa‘di reads it as a limit: where the offender is not fit to be pardoned and the lawful interest calls for punishment, pardon is not what is being asked for. The ayah places the pardoner's reward on Allah Himself. Ibn Kathir explains the closing words, He does not like the wrongdoers, as those who start the aggression.",
+      "bn": "এখানে যে মাফের প্রশংসা, তার সঙ্গে একটা শর্ত আছে, যা সহজে চোখ এড়িয়ে যায়: যে মাফ করে আর সংশোধন করে, আসলাহা। আস-সাদি একে সীমারেখা হিসেবে পড়েছেন। অপরাধী যদি মাফ পাওয়ার উপযুক্ত না হয়, আর শরিয়তের কল্যাণ যদি তার শাস্তি দাবি করে, তবে সে অবস্থায় মাফ করার হুকুম নেই। আয়াত মাফকারীর প্রতিদান রেখেছে আল্লাহর নিজের দায়িত্বে। শেষ কথাটি, তিনি জালিমদের ভালোবাসেন না, ইবনে কাসিরের ব্যাখ্যায় তাদের কথা, যারা আগ বাড়িয়ে অন্যায় শুরু করে।"
+     }
+    },
+    {
+     "ref": "42:43",
+     "note": {
+      "en": "Patience and forgiveness together are called ‘azm al-umur, among the matters of resolve. As-Sa‘di explains why: not taking revenge for oneself, by word or deed, is among the hardest things for the self, and bearing harm, overlooking it and answering it with kindness is harder still. Yet, he adds, it becomes easy for the one Allah makes it easy for, and once its sweetness is tasted it is met with an open heart.",
+      "bn": "ধৈর্য আর মাফ, দুটোকে মিলিয়ে আয়াত বলছে আযমুল উমুর, দৃঢ় সংকল্পের কাজ। আস-সাদি বুঝিয়েছেন কেন। কথায় বা কাজে নিজের জন্য প্রতিশোধ না নেওয়া নফসের কাছে সবচেয়ে কঠিন কাজগুলোর একটি। আর কষ্ট সহ্য করা, উপেক্ষা করা, উল্টো ভালো ব্যবহার করা তার চেয়েও কঠিন। তবু তিনি বলেছেন, আল্লাহ যার জন্য সহজ করে দেন, তার জন্য তা সহজ। আর একবার এর মিষ্টতা পেয়ে গেলে মানুষ খোলা মনেই তা গ্রহণ করে।"
+     }
+    },
+    {
+     "ref": "7:199",
+     "note": {
+      "en": "Take al-‘afw, enjoin what is good, turn away from the ignorant. As-Sa‘di closes his explanation by spelling out what meeting the ignorant without ignorance means: whoever harms you, do not harm him; whoever deprives you, do not deprive him; whoever cuts you off, join him; whoever wrongs you, be just with him. Ibn Kathir records from al-Bukhari that ‘Abdullah ibn az-Zubayr said this ayah was revealed only about people's character.",
+      "bn": "আল-আফও গ্রহণ করো, ভালো কাজের আদেশ দাও, অজ্ঞদের এড়িয়ে চলো। অজ্ঞের জবাব অজ্ঞতা দিয়ে না দেওয়ার মানে কী, আস-সাদি তাঁর ব্যাখ্যার শেষে তা খুলে বলেছেন: যে আপনাকে কষ্ট দেয়, তাকে কষ্ট দেবেন না। যে আপনাকে বঞ্চিত করে, তাকে বঞ্চিত করবেন না। যে সম্পর্ক ছিন্ন করে, তার সঙ্গে সম্পর্ক জুড়ুন। যে আপনার ওপর জুলুম করে, তার ব্যাপারে ইনসাফ করুন। ইবনে কাসির বুখারির সূত্রে এনেছেন, আবদুল্লাহ ইবনে যুবায়ের (রাঃ) বলেছেন, এই আয়াত নাজিল হয়েছে কেবল মানুষের আচার-আচরণ নিয়ে।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 4642",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-4642",
+     "text": {
+      "en": "Ibn ‘Abbas said: ‘Uyaynah ibn Hisn ibn Hudhayfah arrived and stayed with his nephew al-Hurr ibn Qays, one of those ‘Umar kept close, for the Quran reciters were the people of ‘Umar's gatherings and his counsel, old or young. ‘Uyaynah said: “Son of my brother, you have standing with this leader, so ask permission for me to see him.” Al-Hurr said: “I will ask permission for you.” Ibn ‘Abbas said: Al-Hurr asked permission for ‘Uyaynah, and ‘Umar admitted him. When he entered he said: “Listen, son of al-Khattab! By Allah, you do not give us much, and you do not judge between us with justice.” ‘Umar became so angry that he was about to act against him. Al-Hurr said: “O Commander of the Believers, Allah said to His Prophet ﷺ: ‘Take what is given freely, enjoin what is good, and turn away from the ignorant’ (7:199), and this man is one of the ignorant.” By Allah, ‘Umar did not go past it when it was recited to him; he would stop at the Book of Allah.",
+      "bn": "ইবনে আব্বাস (রাঃ) বলেন: উয়াইনা ইবনে হিসন ইবনে হুযায়ফা এসে তার ভাতিজা হুর ইবনে কায়সের কাছে উঠল। হুর ছিলেন উমর (রাঃ)-এর কাছের লোকদের একজন। কুরআনের কারিরাই ছিলেন উমরের মজলিস আর পরামর্শের সঙ্গী, বয়সে প্রবীণ হোন বা তরুণ। উয়াইনা বলল: “ভাতিজা, এই আমিরের কাছে তোমার খাতির আছে। আমার জন্য দেখা করার অনুমতি চেয়ে দাও।” হুর বললেন: “আমি তোমার জন্য অনুমতি চেয়ে দেব।” ইবনে আব্বাস (রাঃ) বলেন: হুর উয়াইনার জন্য অনুমতি চাইলেন, আর উমর (রাঃ) তাকে আসতে দিলেন। ভেতরে ঢুকে সে বলল: “শোনো, খাত্তাবের ছেলে! আল্লাহর কসম, তুমি আমাদের বেশি কিছু দাও না, আর আমাদের মধ্যে ইনসাফের সঙ্গে বিচারও করো না।” উমর (রাঃ) এত রেগে গেলেন যে তাকে কিছু একটা করতে উদ্যত হলেন। তখন হুর বললেন: “হে আমিরুল মুমিনিন, আল্লাহ তাঁর নবী ﷺ-কে বলেছেন: ‘সহজে যা আসে তা গ্রহণ করো, ভালো কাজের আদেশ দাও, আর অজ্ঞদের এড়িয়ে চলো’ (৭:১৯৯)। আর এ লোক অজ্ঞদেরই একজন।” আল্লাহর কসম, আয়াতটি পড়ে শোনানোর পর উমর (রাঃ) আর এক পা-ও এগোলেন না। আল্লাহর কিতাবের সামনে তিনি থেমে যেতেন।"
+     },
+     "note": {
+      "en": "The ayah did its work in the middle of an insult. ‘Umar (RA) was angry enough to act, and one recited line stopped him. Ibn ‘Abbas's closing words name the habit behind it: he would stop at the Book of Allah.",
+      "bn": "অপমানের ঠিক মাঝখানে আয়াতটি নিজের কাজ করেছে। উমর (রাঃ) এতটা রেগেছিলেন যে কিছু একটা করে ফেলতেন, অথচ পড়ে শোনানো এক আয়াতেই তিনি থেমে গেলেন। ইবনে আব্বাস (রাঃ)-এর শেষ কথায় এর পেছনের অভ্যাসটা ধরা পড়ে: আল্লাহর কিতাবের সামনে তিনি থেমে যেতেন।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "Include other believers when you ask forgiveness, as in the du‘a of 59:10; as-Sa‘di counts their prayers for one another among the routes to forgiveness (4:48).",
+   "bn": "মাফ চাওয়ার সময় অন্য মুমিনদেরও শামিল করুন, যেমন ৫৯:১০-এর দোয়ায় আছে। আস-সাদি মুমিনদের একে অপরের জন্য দোয়াকে মাফ পাওয়ার পথগুলোর একটি গণ্য করেছেন (৪:৪৮)।"
+  },
+  {
+   "en": "Check the obligations whose neglect is itself a major sin, the five prayers, Jumu‘ah and the Ramadan fast; avoiding the major sins includes keeping them (4:31).",
+   "bn": "যেসব ফরজ ছেড়ে দেওয়াটাই কবিরা গুনাহ, সেগুলো ঠিক আছে কি না দেখে নিন: পাঁচ ওয়াক্ত নামাজ, জুমা, রমজানের রোজা। কবিরা থেকে বাঁচার মধ্যে এগুলো পালন করাও পড়ে (৪:৩১)।"
+  },
+  {
+   "en": "Do not cut off the support and kindness you give a relative because of his wrong; as-Sa‘di draws this from 24:22.",
+   "bn": "কোনো আত্মীয় অন্যায় করলেও তাকে যে খরচ আর সদাচরণ দিয়ে আসছেন, তা বন্ধ করবেন না। আস-সাদি ২৪:২২ থেকে এই কথা বের করেছেন।"
+  },
+  {
+   "en": "When anger rises, hold back the word or act it is pushing for, and forgive while it is still there, as 42:37 describes (3:134, 42:37).",
+   "bn": "রাগ উঠলে যে কথা বা কাজের দিকে সে ঠেলছে, তা থেকে নিজেকে আটকান। রাগ থাকতেই মাফ করে দিন, যেমনটা ৪২:৩৭ বলছে (৩:১৩৪, ৪২:৩৭)।"
+  },
+  {
+   "en": "In family disputes over money and rights, give a little more than is owed: do not forget graciousness between you (2:237).",
+   "bn": "পরিবারে টাকাপয়সা আর হক নিয়ে বিরোধ হলে পাওনার চেয়ে একটু বেশি দিন। ২:২৩৭ বলেছে, নিজেদের মধ্যে উদারতা ভুলে যেয়ো না।"
+  },
+  {
+   "en": "Learn the du‘a at the end of 2:286, pardon us, forgive us, have mercy on us, and say it with Ibn Kathir's reading of each part in mind.",
+   "bn": "২:২৮৬-এর শেষের দোয়াটা শিখে নিন: আমাদের মার্জনা করুন, মাফ করুন, রহম করুন। প্রতিটি অংশের যে ব্যাখ্যা ইবনে কাসির দিয়েছেন, তা মনে রেখে পড়ুন।"
+  }
+ ],
  "refs": [
   "2:52",
   "2:58",
@@ -21,6 +366,7 @@
   "2:225",
   "2:226",
   "2:235",
+  "2:237",
   "2:263",
   "2:268",
   "2:284",
@@ -43,6 +389,7 @@
   "3:193",
   "4:23",
   "4:25",
+  "4:31",
   "4:43",
   "4:48",
   "4:64",
@@ -102,6 +449,7 @@
   "11:52",
   "11:61",
   "11:90",
+  "11:114",
   "12:29",
   "12:92",
   "12:97",
@@ -221,8 +569,54 @@
   "85:14",
   "110:3"
  ],
+ "refsDropped": [],
  "videos": [],
- "reading": [],
- "sources": [],
- "related": []
+ "reading": [
+  {
+   "title": {
+    "en": "Hadith: A servant committed a sin and said, “O Allah, forgive my sin” (Bengali)",
+    "bn": "হাদিস: জনৈক বান্দা পাপ করে বলল, হে আমার রব! আমার পাপ মার্জনা করে দাও"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/4817",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Hadith: A servant committed a sin and said: 'O Allah, forgive my sin'",
+    "bn": "হাদিস: এক বান্দা গুনাহ করে বলল, হে আল্লাহ, আমার গুনাহ মাফ করুন (ইংরেজি)"
+   },
+   "url": "https://hadeethenc.com/en/browse/hadith/4817",
+   "site": "hadeethenc.com",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "Virtue of Forgiving Others in Islam",
+    "bn": "মানুষকে মাফ করার ফজিলত (ইংরেজি)"
+   },
+   "url": "https://islamqa.info/en/answers/178255/virtue-of-forgiving-others-in-islam",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "Is Shirk Forgivable?",
+    "bn": "শিরক কি মাফ হয়? (ইংরেজি)"
+   },
+   "url": "https://islamqa.info/en/answers/34171/will-allaah-forgive-someone-who-commits-shirk-how-can-he-strengthen-his-faith",
+   "site": "islamqa.info",
+   "lang": "en"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir",
+  "Tafsir as-Sa'di"
+ ],
+ "related": [
+  "th-repentance",
+  "allah-good-opinion",
+  "allah-loves",
+  "th-patience"
+ ]
 }

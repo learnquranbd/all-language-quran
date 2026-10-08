@@ -1,14 +1,363 @@
 {
  "id": "th-parables",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "Parables of the Quran",
   "bn": "উপমা ও দৃষ্টান্ত"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "A fire that goes out, a spider’s web, a garden burnt overnight: what each picture stands for, as the commentators read it.",
+  "bn": "নিভে যাওয়া আগুন, মাকড়সার জাল, এক রাতে পুড়ে যাওয়া বাগান: মুফাসসিররা প্রতিটি ছবির কোন অংশকে কী অর্থে পড়েছেন।"
+ },
+ "intro": [
+  {
+   "en": "A mathal is a likeness: something you have seen, set beside something you have not, so that the second becomes visible. The Quran strikes them constantly. A man lights a fire and it goes out. A spider builds a house. A donkey walks under a load of books. As-Sa‘di gives the reason in one line: parables bring what the mind grasps close by means of what the senses grasp. The pictures are ordinary on purpose; anyone who has watched rain on a field already holds them.",
+   "bn": "মাসাল মানে উপমা। চোখে দেখা একটা জিনিসকে না-দেখা একটা বিষয়ের পাশে রাখা হয়, যাতে দ্বিতীয়টাও চোখে পড়ে। কুরআন এমন উপমা দেয় বারবার। কেউ আগুন জ্বালায়, আর তা নিভে যায়। মাকড়সা ঘর বানায়। গাধা বইয়ের বোঝা পিঠে নিয়ে হাঁটে। সা‘দি এক বাক্যে এর কারণ বলেছেন: বুদ্ধি দিয়ে যা বুঝতে হয়, উপমা তাকে কাছে নিয়ে আসে চোখে দেখা জিনিসের মাধ্যমে। ছবিগুলো ইচ্ছা করেই সাধারণ। মাঠে বৃষ্টি পড়তে দেখেছেন এমন যে-কেউ ছবিগুলো আগে থেকেই চেনেন।"
+  },
+  {
+   "en": "This page reads the parables by what they illustrate, not in the order of the mushaf. First, what the Quran says about its own parables. Then the hypocrite’s light that comes and goes; the lamp in the niche and the darkness on the sea; spending that grows or blows away; protectors that cannot protect; knowledge carried but not lived; and the world as a season of rain. Each verse note asks the question the commentators ask: what does each part of the picture stand for? Where they read a detail differently, both readings are given, with names.",
+   "bn": "এই পাতা উপমাগুলো সাজিয়েছে মুসহাফের ক্রমে নয়, কোন উপমা কী বোঝায় সেই হিসাবে। প্রথমে নিজের উপমা নিয়ে কুরআনের নিজের কথা। তারপর মুনাফিকের আলো, যা জ্বলে আর নেভে; তাকের প্রদীপ আর সাগরের অন্ধকার; যে দান বাড়ে আর যে দান উড়ে যায়; যে অভিভাবক রক্ষা করতে পারে না; যে জ্ঞান বহন করা হয় কিন্তু জীবনে নামে না; আর বৃষ্টির এক মৌসুমের মতো দুনিয়া। প্রতিটি টীকা মুফাসসিরদের প্রশ্নটাই তোলে: ছবির কোন অংশ কীসের প্রতীক? কোনো খুঁটিনাটি তাঁরা ভিন্নভাবে পড়লে দুটো ব্যাখ্যাই নাম ধরে এসেছে।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "parables-about-parables",
+   "title": {
+    "en": "How the Quran Speaks of Its Parables",
+    "bn": "নিজের উপমা নিয়ে কুরআন কী বলে"
+   },
+   "body": [
+    {
+     "en": "Four verses tell the reader how to treat the parables before any one of them is read. They are not ornament, and they are not beneath the dignity of revelation. Allah ‘strikes’ them (daraba, the Quran’s verb for setting out a likeness) so that people may remember (39:27) and reflect (59:21), and only those who know truly grasp them (29:43). They also sort their hearers. The same image that increases one person in faith leaves another asking what Allah could possibly mean by it (2:26). So a parable puts a question to the listener as well as making a point.",
+     "bn": "কোনো উপমা পড়ার আগেই চারটি আয়াত বলে দেয়, উপমাগুলোকে কীভাবে নিতে হবে। এগুলো সাজসজ্জা নয়, ওহির মর্যাদার নিচের কিছুও নয়। আল্লাহ এগুলো ‘দারাবা’ করেন, অর্থাৎ উপমা দাঁড় করান, যাতে মানুষ মনে রাখে (৩৯:২৭) আর চিন্তা করে (৫৯:২১); আর জ্ঞানীরাই কেবল এগুলো ঠিকঠাক বোঝে (২৯:৪৩)। উপমা শ্রোতাদের আলাদাও করে দেয়। যে ছবি একজনের ঈমান বাড়ায়, সেই ছবি দেখেই আরেকজন বলে, আল্লাহ এ দিয়ে কী বোঝাতে চান (২:২৬)? তাই উপমা একটা কথা বোঝানোর পাশাপাশি শ্রোতাকেও একটা প্রশ্নের সামনে দাঁড় করায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:26",
+     "note": {
+      "en": "Ibn Kathir cites as-Suddi’s report from Ibn ‘Abbas and Ibn Mas‘ud: the hypocrites, hearing the two parables of 2:17-20, said Allah was too exalted to strike such examples, and this verse answered them: Allah is not shy of the truth. On fa-mā fawqahā Ibn Kathir reports two readings: ‘smaller still’, held by al-Kisa’i and Abu ‘Ubaydah; and ‘bigger’, Qatadah’s view and Ibn Jarir’s choice.",
+      "bn": "ইবনে কাসির সুদ্দির বর্ণনা উদ্ধৃত করেছেন, ইবনে আব্বাস (রাঃ) ও ইবনে মাসউদ (রাঃ) থেকে: ২:১৭ থেকে ২:২০ পর্যন্ত মুনাফিকদের দুটো উপমা শুনে তারা বলেছিল, আল্লাহ এমন উপমা দেওয়ার চেয়ে অনেক ঊর্ধ্বে। এই আয়াত তার জবাব: সত্য বলতে আল্লাহ সংকোচ করেন না। ‘ফামা ফাওকাহা’ নিয়ে ইবনে কাসির দুটো মত এনেছেন। কিসায়ি ও আবু উবাইদার মতে এর অর্থ ‘তার চেয়েও ক্ষুদ্র’; কাতাদার মতে ‘তার চেয়ে বড়’, আর ইবনে জারির এটাই বেছে নিয়েছেন।"
+     }
+    },
+    {
+     "ref": "29:43",
+     "note": {
+      "en": "‘None understand them except those who know.’ As-Sa‘di draws the consequence: grasping the parables is a sign of real knowledge, because Allah strikes them for the weightiest matters, most of all the foundations of the religion. Ibn Kathir records that ‘Amr ibn Murrah grieved whenever he reached a verse of the Book he did not understand, because he had heard this one.",
+      "bn": "‘জ্ঞানীরাই কেবল এগুলো বোঝে।’ সা‘দি এখান থেকে সিদ্ধান্ত টেনেছেন: উপমা বুঝতে পারা প্রকৃত জ্ঞানের আলামত। কারণ আল্লাহ উপমা দেন সবচেয়ে ভারী বিষয়গুলোতে, বেশির ভাগই দ্বীনের মূল ভিত্তি নিয়ে। ইবনে কাসির লিখেছেন, আমর ইবনে মুররা কুরআনের কোনো আয়াত না বুঝলে কষ্ট পেতেন, কারণ তিনি এই আয়াতটা শুনেছিলেন।"
+     }
+    },
+    {
+     "ref": "39:27",
+     "note": {
+      "en": "Every kind of parable, with the purpose given in one word: that they may remember. Ibn Kathir’s reason is that parables bring the meaning closer to people’s minds. As-Sa‘di lists the range: likenesses of the people of good and the people of evil, of tawhid and of shirk. Two verses later (39:29) one of them follows: the slave owned by quarrelling partners.",
+      "bn": "সব ধরনের উপমা দেওয়া হয়েছে, আর উদ্দেশ্য একটি শব্দে: যাতে তারা উপদেশ নেয়। ইবনে কাসির কারণ বলেছেন, উপমা অর্থটাকে মানুষের বোধের কাছে নিয়ে আসে। সা‘দি তালিকা দিয়েছেন: ভালো মানুষ আর মন্দ মানুষের উপমা, তাওহিদ আর শিরকের উপমা। দুই আয়াত পরেই (৩৯:২৯) তার একটি এসেছে: ঝগড়াটে কয়েক মনিবের মালিকানায় থাকা এক গোলাম।"
+     }
+    },
+    {
+     "ref": "59:21",
+     "note": {
+      "en": "A parable that turns on the reader. Had this Quran come down on a mountain, you would see it humbled, split apart from fear of Allah. Ibn Kathir draws out the question: if hard rock would crumble once it understood, why do human hearts that hear and understand it stay unmoved? The verse closes by naming its own method, and as-Sa‘di adds that reflecting on the Quran opens the treasuries of knowledge.",
+      "bn": "এই উপমা পাঠকের দিকেই ফিরে আসে। এই কুরআন পাহাড়ের ওপর নাজিল হলে আপনি দেখতেন, আল্লাহর ভয়ে সে বিনীত হয়ে ফেটে চৌচির। ইবনে কাসির প্রশ্নটা বের করে আনেন: শক্ত পাথরও বুঝতে পারলে ভেঙে পড়ত, তাহলে মানুষের হৃদয় শুনে-বুঝেও নরম হয় না কেন? আয়াতের শেষে আল্লাহ নিজেই পদ্ধতিটার নাম বলেছেন। সা‘দি যোগ করেছেন, কুরআন নিয়ে চিন্তা বান্দার সামনে জ্ঞানের ভান্ডার খুলে দেয়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fire-and-storm",
+   "title": {
+    "en": "The Fire and the Storm",
+    "bn": "আগুন আর ঝড়"
+   },
+   "body": [
+    {
+     "en": "Al-Baqarah opens by describing believers, open disbelievers and hypocrites, and gives the hypocrites two parables back to back, one of fire and one of rain. The first parable shows light gained and then taken away. The second shows a man caught in a storm at night who walks when the lightning flashes and stands still when it goes dark. Both describe a heart that has seen the truth and does not hold on to it.",
+     "bn": "সূরা আল-বাকারার শুরুতে তিন দল মানুষের বর্ণনা: মুমিন, প্রকাশ্য কাফির আর মুনাফিক। মুনাফিকদের জন্য পরপর দুটো উপমা এসেছে, একটা আগুনের, একটা বৃষ্টির। প্রথম উপমায় আলো পাওয়া, তারপর তা কেড়ে নেওয়া। দ্বিতীয়টায় রাতের ঝড়ে আটকে পড়া এক লোক, বিদ্যুৎ চমকালে হাঁটে, অন্ধকার হলে থমকে দাঁড়ায়। দুটোই এমন হৃদয়ের ছবি, যে সত্য দেখেছে কিন্তু আঁকড়ে ধরেনি।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:17",
+     "note": {
+      "en": "Ibn Kathir: the man lit a fire, benefited and felt safe, then it went out; so the hypocrites, he says, first believed and then disbelieved. As-Sa‘di reads closer. The fire was kindled from someone else’s; it was never his. They took the light of faith from the believers, kept life and property safe by it, then lost it at death, left with the burning and none of the brightness.",
+      "bn": "ইবনে কাসির বলেন, লোকটা আগুন জ্বালাল, উপকার পেল, নিরাপদ বোধ করল, তারপর আগুন নিভে গেল। মুনাফিকরাও তেমনি আগে ঈমান এনেছিল, পরে কুফরি করেছে। সা‘দি আরও কাছ থেকে পড়েছেন। আগুনটা জ্বালানো হয়েছিল অন্যের আগুন থেকে, তার নিজের কখনো ছিল না। মুনাফিকরা ঈমানের আলো নিয়েছিল মুমিনদের কাছ থেকে, তা দিয়ে জান-মাল বাঁচিয়েছিল। মৃত্যুতে সেটা হারাল। রইল শুধু আগুনের দাহ, আলোটুকু আর নেই।"
+     }
+    },
+    {
+     "ref": "2:19",
+     "note": {
+      "en": "The second picture. The sayyib is rain, according to Ibn Mas‘ud, Ibn ‘Abbas and many after them (ad-Dahhak said cloud). In Ibn Kathir’s reading the darkness is doubt and hypocrisy, the thunder is the fear that shakes their hearts, and the lightning is the light of faith that sometimes flashes in them. As-Sa‘di: fingers pushed into ears is how they meet the Quran’s warnings. But Allah encompasses them, so the caution saves nothing.",
+      "bn": "দ্বিতীয় ছবি। ‘সাইয়িব’ মানে বৃষ্টি, বলেছেন ইবনে মাসউদ (রাঃ), ইবনে আব্বাস (রাঃ) ও পরের অনেকে; দাহহাকের মতে মেঘ। ইবনে কাসিরের ব্যাখ্যায় অন্ধকার হলো সংশয় আর নিফাক, বজ্র হলো সেই ভয় যা তাদের অন্তর কাঁপিয়ে দেয়, আর বিদ্যুৎ হলো ঈমানের আলো, যা মাঝে মাঝে তাদের মনে ঝলকে ওঠে। সা‘দি বলেন, কানে আঙুল ঢোকানো হলো কুরআনের সতর্কবাণীর সামনে তাদের আচরণ। কিন্তু আল্লাহ তাদের ঘিরে আছেন, তাই এই সাবধানতা কোনো কাজে আসে না।"
+     }
+    },
+    {
+     "ref": "2:20",
+     "note": {
+      "en": "‘Whenever it lights the way for them they walk; when darkness comes they stand.’ Ibn Kathir gives two reports from Ibn ‘Abbas: they speak the truth when they recognise it and fall back into confusion when they revert; and when Islam gains they are content with their share, when it suffers they are ready to turn back. He calls the first the most correct view. The trait is faith that moves only while the way is lit.",
+      "bn": "‘যখনই আলো দেখায়, তারা হাঁটে; অন্ধকার নামলে দাঁড়িয়ে পড়ে।’ ইবনে কাসির ইবনে আব্বাস (রাঃ) থেকে দুটো বর্ণনা দিয়েছেন। এক: সত্য চিনলে তারা সত্য কথা বলে, ফিরে গেলে আবার দিশেহারা হয়। দুই: ইসলামের জয় হলে নিজেদের ভাগ পেয়ে খুশি থাকে, বিপদ এলে ফিরে যেতে তৈরি। প্রথমটাকে তিনি সবচেয়ে সঠিক মত বলেছেন। দোষটা এই: পথ আলোকিত থাকলেই কেবল ঈমান চলে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "light-and-darkness",
+   "title": {
+    "en": "Light upon Light, Darkness upon Darkness",
+    "bn": "আলোর ওপর আলো, অন্ধকারের ওপর অন্ধকার"
+   },
+   "body": [
+    {
+     "en": "Surat an-Nur strikes the best-known parable in the Quran, the niche and its lamp, and four verses later answers it with two parables of darkness. Surah Ibrahim does the same with words: a good word like a good tree, a corrupt word like a tree torn out. The arrangement teaches by itself. Light here is layered, rooted and fed from a pure source. Darkness is layered too, and what looked like water turns out to be a shimmer on bare ground.",
+     "bn": "সূরা আন-নূরে কুরআনের সবচেয়ে পরিচিত উপমা, তাক আর তার প্রদীপ। চার আয়াত পরেই এর জবাবে এসেছে অন্ধকারের দুটো উপমা। সূরা ইবরাহিম একই কাজ করেছে কথা নিয়ে: পবিত্র কথা পবিত্র গাছের মতো, খারাপ কথা উপড়ে ফেলা গাছের মতো। সাজানোর ধরনটাই শিক্ষা দেয়। এখানে আলো স্তরে স্তরে, শিকড়ে গাঁথা, খাঁটি উৎস থেকে জ্বালানি পায়। অন্ধকারও স্তরে স্তরে, আর যাকে পানি মনে হয়েছিল তা ফাঁকা মাঠে মরীচিকা মাত্র।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "24:35",
+     "note": {
+      "en": "Whose light is ‘His light’? At-Tabari gives, among other views: the light of the believer (Ubayy ibn Ka‘b), Muhammad ﷺ (Ka‘b al-Ahbar and Sa‘id ibn Jubayr), or His guidance, the Quran, in the believer’s heart (Ibn ‘Abbas, al-Hasan). He prefers this last. Ibn Kathir reports Ubayy: the glass is the believer’s heart. As-Sa‘di maps it: the pure oil is the fitrah, the flame is knowledge and faith reaching it, and ‘light upon light’ is both together.",
+      "bn": "‘তাঁর নূর’ বলতে কার নূর? তাবারির আনা মতগুলোর মধ্যে আছে: মুমিনের নূর (উবাই ইবনে কা‘ব), মুহাম্মাদ ﷺ (কা‘ব আল-আহবার ও সাঈদ ইবনে জুবাইর), কিংবা মুমিনের অন্তরে আল্লাহর হিদায়াত, অর্থাৎ কুরআন (ইবনে আব্বাস, হাসান)। তাবারি এই শেষ মতটাই পছন্দ করেছেন। ইবনে কাসির উবাই (রাঃ) থেকে এনেছেন, কাচের পাত্রটি মুমিনের হৃদয়। সা‘দি প্রতিটি অংশ মিলিয়েছেন: খাঁটি তেল হলো ফিতরাত, শিখা হলো তাতে এসে পৌঁছানো ইলম ও ঈমান, আর ‘আলোর ওপর আলো’ দুটো একসঙ্গে।"
+     }
+    },
+    {
+     "ref": "14:24",
+     "note": {
+      "en": "Ibn Kathir reports Ibn ‘Abbas: the good word is the testimony that there is no god but Allah, and the good tree is the believer, its root firm in his heart, its branches carrying his deeds up to heaven. As-Sa‘di names the tree as the date palm. The corrupt word two verses later is, for Ibn Kathir, disbelief: a tree uprooted from the surface of the earth, with nothing to stand on.",
+      "bn": "ইবনে কাসির ইবনে আব্বাস (রাঃ) থেকে এনেছেন: পবিত্র কথা হলো ‘লা ইলাহা ইল্লাল্লাহ’-র সাক্ষ্য, আর পবিত্র গাছ হলো মুমিন। তার শিকড় অন্তরে মজবুত, আর ডালপালা তার আমল বয়ে নিয়ে যায় আসমানে। সা‘দি গাছটার নাম বলেছেন খেজুর গাছ। দুই আয়াত পরের খারাপ কথা ইবনে কাসিরের মতে কুফর: মাটির ওপর থেকে উপড়ে ফেলা গাছ, দাঁড়িয়ে থাকার কোনো ভিত নেই।"
+     }
+    },
+    {
+     "ref": "24:39",
+     "note": {
+      "en": "Ibn Kathir reads the two parables as two kinds of disbeliever. The mirage is the one who thinks his deeds and beliefs are good and calls others to them. A thirsty man walks towards the shimmer and finds nothing, ‘but finds Allah there’, who pays him his account in full. As-Sa‘di dwells on qī‘ah: a bare plain without tree or plant, which he calls a picture of a heart where no good grows.",
+      "bn": "ইবনে কাসির দুটো উপমাকে দুই ধরনের কাফিরের ছবি হিসেবে পড়েছেন। মরীচিকা তার ছবি, যে নিজের আমল আর বিশ্বাসকে ভালো মনে করে, অন্যদেরও সেদিকে ডাকে। পিপাসার্ত লোক ঝিকমিক দেখে এগিয়ে যায়, গিয়ে কিছুই পায় না, ‘পায় সেখানে আল্লাহকে’, যিনি তার পুরো হিসাব চুকিয়ে দেন। সা‘দি ‘কী‘আহ’ শব্দে থেমেছেন: গাছপালাহীন খোলা মাঠ। তাঁর মতে এটি এমন হৃদয়ের ছবি, যেখানে কোনো ভালো জিনিস জন্মায় না।"
+     }
+    },
+    {
+     "ref": "24:40",
+     "note": {
+      "en": "The second picture: darkness on a deep sea, wave over wave, cloud over all, until a man can hardly see his own hand. For Ibn Kathir this is the follower whose ignorance is simple, who goes along ‘with them’ without knowing where. As-Sa‘di stacks the layers: a nature without good, then disbelief, then ignorance, then the deeds born of them. He allows two readings: both parables describe all such deeds, or the first fits those who are followed and the second their followers.",
+      "bn": "দ্বিতীয় ছবি: গভীর সাগরের অন্ধকার, ঢেউয়ের ওপর ঢেউ, তার ওপর মেঘ, এমনকি নিজের হাতটাও প্রায় দেখা যায় না। ইবনে কাসিরের মতে এটি সেই অনুসারীর ছবি, যার অজ্ঞতা সরল; কোথায় যাচ্ছে না জেনে ‘ওদের সঙ্গে’ চলে। সা‘দি স্তরগুলো সাজিয়েছেন: কল্যাণহীন স্বভাব, তার ওপর কুফর, তার ওপর অজ্ঞতা, তার ওপর এসব থেকে জন্ম নেওয়া আমল। তিনি দুটো ব্যাখ্যাই সম্ভব বলেছেন: দুটো উপমাই এমন সব আমলের ছবি, অথবা প্রথমটি যাদের অনুসরণ করা হয় তাদের, আর দ্বিতীয়টি অনুসারীদের।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 61",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-61",
+     "text": {
+      "en": "Ibn ‘Umar narrated that the Messenger of Allah ﷺ said: “Among the trees there is a tree whose leaves do not fall, and it is like the Muslim. Tell me which it is.” The people’s thoughts went to the trees of the desert. ‘Abdullah said: It came to my mind that it was the date palm, but I felt shy. Then they said, “Tell us what it is, O Messenger of Allah.” He said: “It is the date palm.”",
+      "bn": "ইবনে উমর (রাঃ) বর্ণনা করেন, আল্লাহর রাসূল ﷺ বললেন: “গাছের মধ্যে এমন এক গাছ আছে, যার পাতা ঝরে না, আর সে মুসলিমের মতো। বলো তো সেটা কোন গাছ?” লোকেরা মরুভূমির গাছগুলোর কথা ভাবতে লাগল। আবদুল্লাহ (রাঃ) বলেন: আমার মনে হলো সেটা খেজুর গাছ, কিন্তু আমি লজ্জা পেলাম। তারপর তাঁরা বললেন, “হে আল্লাহর রাসূল, আপনিই বলে দিন সেটা কী।” তিনি বললেন: “সেটা খেজুর গাছ।”"
+     },
+     "note": {
+      "en": "Ibn Kathir cites a longer wording of this hadith under 14:24. The Prophet ﷺ taught by a likeness of his own, and put it as a question so that his Companions would think before they heard the answer.",
+      "bn": "ইবনে কাসির ১৪:২৪-এর ব্যাখ্যায় এই হাদিসের একটি দীর্ঘতর বর্ণনা এনেছেন। নবী ﷺ নিজেও উপমা দিয়ে শিখিয়েছেন, আর উপমাটা প্রশ্নের আকারে রেখেছেন, যাতে উত্তর শোনার আগে সাহাবিরা ভাবেন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "deeds-that-grow-or-scatter",
+   "title": {
+    "en": "Deeds That Grow, Deeds That Scatter",
+    "bn": "যে আমল বাড়ে, যে আমল উড়ে যায়"
+   },
+   "body": [
+    {
+     "en": "A run of four parables sits in al-Baqarah, around charity. One grain becomes seven hundred. A rock loses its film of soil in the first downpour. A garden on a hill gives double. An old man’s orchard burns when he is too weak to plant another. Ibn Kathir sets the ashes of 14:18 and the frost wind of 3:117 beside the rock of 2:264: deeds lost exactly when they are needed. The lesson is about intention, and about guarding a good deed after it is done.",
+     "bn": "আল-বাকারায় দানের প্রসঙ্গে পরপর চারটি উপমা এসেছে। একটা দানা হয়ে যায় সাতশো। প্রথম মুষলধারেই পাথরের ওপরের পাতলা মাটি ধুয়ে যায়। টিলার ওপরের বাগান দ্বিগুণ ফল দেয়। এক বুড়োর বাগান পুড়ে যায় এমন সময়ে, যখন নতুন করে লাগানোর শক্তি তার নেই। ইবনে কাসির ১৪:১৮-এর ছাই আর ৩:১১৭-এর হিমেল বাতাসকে ২:২৬৪-এর পাথরের পাশে রেখেছেন: এমন আমল, যা হারিয়ে যায় ঠিক যখন তার সবচেয়ে বেশি দরকার। শিক্ষাটা নিয়তের, আর ভালো কাজ করার পরেও তাকে আগলে রাখার।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:261",
+     "note": {
+      "en": "One grain, seven ears, a hundred grains in each. Ibn Kathir notes that the picture works on the heart more than the bare number seven hundred would, and that the increase follows the giver’s sincerity. As-Sa‘di says the same about the method: the eye watches the plant multiply, faith sees the reward multiply, and the soul gives willingly. ‘Allah multiplies for whom He wills’: by the giver’s sincerity and the gift’s lawfulness, as-Sa‘di adds.",
+      "bn": "একটা দানা, সাতটা শীষ, প্রতিটিতে একশো দানা। ইবনে কাসির বলেন, শুধু ‘সাতশো’ সংখ্যাটা যতটা নাড়া দিত, ছবিটা অন্তরে তার চেয়ে বেশি নাড়া দেয়; আর বৃদ্ধি হয় দাতার ইখলাস অনুযায়ী। সা‘দিও পদ্ধতি নিয়ে একই কথা বলেন: চোখ দেখে চারাটা বাড়ছে, ঈমান দেখে সওয়াব বাড়ছে, আর মন খুশি হয়ে দান করে। ‘আল্লাহ যাকে চান বাড়িয়ে দেন’: সা‘দির ভাষায়, দাতার ইখলাস আর দানের হালাল হওয়া অনুযায়ী।"
+     }
+    },
+    {
+     "ref": "2:264",
+     "note": {
+      "en": "Reminding people of a favour (mann) and hurting them (adhā) cancel charity. The likeness: a smooth rock, safwān, with a little dust on it; heavy rain falls and leaves it bare. As-Sa‘di unpacks it. The hard heart is the rock and the charity is the dust, which an onlooker mistakes for good soil. When the truth appears, the dust is washed away. He draws a general rule from it: bad deeds can cancel good ones.",
+      "bn": "খোঁটা দেওয়া (মান্ন) আর কষ্ট দেওয়া (আযা) দানকে বাতিল করে দেয়। উপমাটা: মসৃণ পাথর, ‘সাফওয়ান’, তার ওপর সামান্য মাটি; ভারী বৃষ্টি এসে পাথরটা ন্যাড়া করে দিল। সা‘দি খুলে বলেছেন। কঠিন হৃদয় হলো পাথর, আর দান হলো সেই মাটি, যাকে দূর থেকে দেখে মনে হয় উর্বর জমি। আসল অবস্থা প্রকাশ পেলে মাটিটুকু ধুয়ে যায়। এখান থেকে তিনি একটা সাধারণ নিয়ম বের করেছেন: মন্দ আমল ভালো আমলকে নষ্ট করে দিতে পারে।"
+     }
+    },
+    {
+     "ref": "2:265",
+     "note": {
+      "en": "The opposite garden, on a rabwah: raised ground where, as-Sa‘di says, the sun reaches it at the start, middle and end of the day. Heavy rain doubles its yield, and even a drizzle is enough. Heavy rain and drizzle, for as-Sa‘di, are the large and the small spender, each made to grow by his state. As-Sa‘di names the two defects this giving is free of: spending for people’s praise, and spending with a hesitant, weak resolve. ‘Firmness from themselves’ answers the second.",
+      "bn": "উল্টো বাগানটা ‘রাবওয়া’-তে, মানে উঁচু জমিতে। সা‘দি বলেন, সেখানে দিনের শুরু, মাঝ আর শেষে রোদ পৌঁছায়। ভারী বৃষ্টিতে ফল দ্বিগুণ হয়, আর হালকা ঝিরঝিরে বৃষ্টিও যথেষ্ট। সা‘দির মতে ভারী বৃষ্টি আর ঝিরঝিরে বৃষ্টি হলো বেশি আর কম খরচকারী; প্রত্যেকের দান বাড়ে তার অবস্থা অনুযায়ী। সা‘দি দুটো দোষের নাম বলেছেন, যা থেকে এই দান মুক্ত: মানুষের প্রশংসার জন্য খরচ করা, আর দ্বিধা ও দুর্বল মনে খরচ করা। ‘নিজেদের অন্তরের দৃঢ়তা’ কথাটা দ্বিতীয় দোষের জবাব।"
+     }
+    },
+    {
+     "ref": "2:266",
+     "note": {
+      "en": "‘Would any of you like…?’ The question puts the reader inside the parable. As-Sa‘di: deeds are seeds that grow into a garden, and whatever spoils them is the fiery whirlwind; a person needs his deeds most at death, when he can no longer work. In al-Bukhari (4538) ‘Umar puts this verse to the Companions, and the reading given is a rich man who obeys Allah, then sins until his deeds are drowned.",
+      "bn": "‘তোমাদের কেউ কি চাইবে…?’ প্রশ্নটা পাঠককেই উপমার ভেতরে দাঁড় করিয়ে দেয়। সা‘দি বলেন, আমল হলো বীজ, যা বেড়ে বাগান হয়; আর যা আমল নষ্ট করে তা ওই আগুনভরা ঘূর্ণিঝড়। মানুষের আমলের সবচেয়ে বেশি দরকার মৃত্যুর সময়, যখন আর কাজ করার উপায় থাকে না। বুখারির বর্ণনায় (৪৫৩৮) উমর (রাঃ) এই আয়াত নিয়ে সাহাবিদের প্রশ্ন করেন, আর সেখানে ব্যাখ্যা আসে: এক ধনী লোক, যে আল্লাহর আনুগত্য করত, তারপর গুনাহ করতে করতে নিজের সব আমল ডুবিয়ে দিল।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "weak-protectors",
+   "title": {
+    "en": "The Fly, the Spider, Two Slaves",
+    "bn": "মাছি, মাকড়সা আর দুই গোলাম"
+   },
+   "body": [
+    {
+     "en": "A cluster of parables measures what people rely on besides Allah. The method is to take the smallest and flimsiest things in creation and let them carry the argument: a fly that no false god could create or chase away, a web that is the weakest of houses. Then come two human pictures: a slave pulled between quarrelling masters set against one who belongs to a single master, and a man falling from the sky. The commentators read them as parables of shirk and tawhid, and as-Sa‘di presses one point: the reliance itself weakens the one who relies.",
+     "bn": "একগুচ্ছ উপমা মেপে দেখায়, আল্লাহকে ছেড়ে মানুষ কীসের ওপর ভরসা করে। পদ্ধতিটা হলো সৃষ্টির সবচেয়ে ছোট আর পলকা জিনিস বেছে নিয়ে তাদের দিয়েই যুক্তিটা দাঁড় করানো: এমন মাছি, যা কোনো মিথ্যা উপাস্য বানাতেও পারে না, তাড়াতেও পারে না; এমন জাল, যা সব ঘরের মধ্যে দুর্বলতম। তারপর মানুষের দুটো ছবি। এক গোলাম, যাকে কয়েকজন ঝগড়াটে মনিব টানাটানি করে; তার পাশে আরেক গোলাম, যে একজন মনিবেরই। আর আকাশ থেকে পড়ে যাওয়া এক মানুষ। মুফাসসিররা এগুলোকে শিরক আর তাওহিদের উপমা হিসেবে পড়েছেন। সা‘দি একটা কথায় জোর দেন: এমন ভরসাই ভরসাকারীকে আরও দুর্বল করে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "22:73",
+     "note": {
+      "en": "‘O people, a parable is struck, so listen to it.’ As-Sa‘di: the call goes to believer and disbeliever alike, so bring your hearing and your heart to it. Everything invoked besides Allah could not create a fly even working together, nor take back what a fly steals. On ‘weak are the seeker and the sought’, Ibn Kathir reports Ibn ‘Abbas (the idol and the fly), which he says at-Tabari favoured, and as-Suddi (the worshipper and the idol).",
+      "bn": "‘হে মানুষ, একটা উপমা দেওয়া হচ্ছে, মন দিয়ে শোনো।’ সা‘দি বলেন, ডাকটা মুমিন-কাফির সবার প্রতি, তাই কান আর মন দুটোই এদিকে দিন। আল্লাহকে ছেড়ে যাদের ডাকা হয়, তারা সবাই মিলেও একটা মাছি বানাতে পারবে না, মাছি কিছু ছিনিয়ে নিলে তা ফেরতও আনতে পারবে না। ‘প্রার্থী ও প্রার্থিত দুজনই দুর্বল’ কথাটায় ইবনে কাসির দুটো মত এনেছেন। ইবনে আব্বাস (রাঃ): মূর্তি আর মাছি; তাঁর ভাষায় তাবারি এই মতটাই পছন্দ করেছেন। সুদ্দি: উপাসক আর মূর্তি।"
+     }
+    },
+    {
+     "ref": "29:41",
+     "note": {
+      "en": "A spider builds a house to shield it from heat, cold and harm, says as-Sa‘di, and it is among the weakest of houses. So whoever takes protectors besides Allah to grow strong only adds weakness to weakness: they hand their affairs to those protectors, who let them down. Ibn Kathir sets against it the believer who has grasped ‘the most trustworthy handle’. Notice the closing words: ‘if they only knew.’",
+      "bn": "সা‘দি বলেন, মাকড়সা ঘর বানায় গরম, ঠান্ডা আর বিপদ থেকে বাঁচতে, অথচ সেটাই সবচেয়ে দুর্বল ঘরগুলোর একটা। তেমনি যে শক্তি পাওয়ার আশায় আল্লাহকে ছেড়ে অন্য অভিভাবক ধরে, তার দুর্বলতার ওপর দুর্বলতাই বাড়ে। নিজের কাজের ভার সে তাদের হাতে তুলে দেয়, আর তারা তাকে ডুবিয়ে দেয়। ইবনে কাসির এর বিপরীতে রেখেছেন সেই মুমিনকে, যে ‘সবচেয়ে মজবুত হাতল’ আঁকড়ে ধরেছে। আয়াতের শেষ কথাটা খেয়াল করুন: ‘যদি তারা জানত।’"
+     }
+    },
+    {
+     "ref": "39:29",
+     "note": {
+      "en": "A slave owned by partners who quarrel over him, and a slave who belongs wholly to one man. Ibn Kathir reports Ibn ‘Abbas and Mujahid: this is the parable of the idolater and the sincere believer. As-Sa‘di describes the first man’s life. Each master wants something different, so he never rests and his heart never settles. The second knows what his master wants and is at ease.",
+      "bn": "এক গোলামের কয়েকজন শরিক-মালিক, যারা তাকে নিয়ে ঝগড়া করে; আরেক গোলাম পুরোপুরি এক মানুষের। ইবনে কাসির ইবনে আব্বাস (রাঃ) আর মুজাহিদ থেকে এনেছেন: এটি মুশরিক আর একনিষ্ঠ মুমিনের উপমা। সা‘দি প্রথম লোকটার জীবন এঁকেছেন। প্রত্যেক মনিব আলাদা কিছু চায়, তাই তার বিশ্রাম নেই, মনও কোথাও স্থির হয় না। দ্বিতীয়জন জানে তার মনিব কী চান, তাই সে নিশ্চিন্ত।"
+     }
+    },
+    {
+     "ref": "22:31",
+     "note": {
+      "en": "The verse first commands: be devoted to Allah alone, associating nothing with Him. Then comes the fall. As-Sa‘di: faith is like the sky, raised and guarded, and whoever leaves it is like a man fallen from it. Birds snatch him, as devils tear at the one who lets go of faith; or the wind flings him into a distant place. Ibn Kathir describes that place as remote, desolate and dangerous.",
+      "bn": "আয়াতটা আগে হুকুম দেয়: একনিষ্ঠভাবে আল্লাহর দিকে ঝুঁকে থাকো, তাঁর সঙ্গে কিছু শরিক কোরো না। তারপর আসে পতনের ছবি। সা‘দি বলেন, ঈমান হলো আসমানের মতো, উঁচু আর সুরক্ষিত; যে তা ছেড়ে দেয় সে যেন সেখান থেকে পড়ে গেল। পাখিরা তাকে ছোঁ মেরে নেয়, যেমন ঈমান ছেড়ে দেওয়া মানুষকে শয়তানেরা চারদিক থেকে ছিঁড়ে খায়; নয়তো বাতাস তাকে দূরে কোথাও ছুড়ে ফেলে। ইবনে কাসির সেই জায়গাকে বলেছেন দূরের, জনশূন্য আর বিপজ্জনক।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "knowledge-not-lived",
+   "title": {
+    "en": "Knowledge Carried but Not Lived",
+    "bn": "বহন করা জ্ঞান, জীবনে নামেনি"
+   },
+   "body": [
+    {
+     "en": "Two of the sharpest images in the Quran concern people who were given revelation and knowledge: a donkey loaded with books, and a dog that pants whether chased or left alone. Both were struck about specific people of the past, and the commentators name them. What the parables warn against is a trait open to anyone who holds knowledge of Allah’s signs: carrying it without acting on it, or trading it for the pull of the earth. Al-Qurtubi says outright that the first is a warning to whoever carries the Book.",
+     "bn": "কুরআনের সবচেয়ে ধারালো দুটো ছবি এমন মানুষদের নিয়ে, যাদের ওহি আর ইলম দেওয়া হয়েছিল: বইয়ের বোঝা পিঠে এক গাধা, আর এক কুকুর, যাকে তাড়ালেও হাঁপায়, ছেড়ে দিলেও হাঁপায়। দুটো উপমাই এসেছে অতীতের নির্দিষ্ট কিছু মানুষকে নিয়ে, মুফাসসিররা তাদের নামও বলেছেন। কিন্তু উপমা দুটো যে স্বভাব থেকে সাবধান করে, তা আল্লাহর আয়াতের জ্ঞান রাখা যে-কারও মধ্যে আসতে পারে: জ্ঞান বয়ে বেড়ানো অথচ সে অনুযায়ী না চলা, কিংবা মাটির টানে তা বেচে দেওয়া। কুরতুবি পরিষ্কার বলেছেন, প্রথম উপমাটি কিতাব বহনকারী প্রত্যেকের জন্য সতর্কবাণী।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "62:5",
+     "note": {
+      "en": "‘Entrusted with the Torah’ means charged with acting on it, Ibn ‘Abbas says in al-Qurtubi; ‘then did not carry it’, al-Qurtubi adds, means did not act on it. The donkey gets the weight of the load and none of its benefit; Maymun ibn Mihran said it cannot tell whether it carries books or a basket. Al-Qurtubi adds that this is a warning from Allah to whoever carries the Book to learn its meanings and know what is in it, lest the same blame reach him.",
+      "bn": "কুরতুবিতে ইবনে আব্বাস (রাঃ)-এর ব্যাখ্যা: ‘তাওরাত বহন করতে দেওয়া হয়েছিল’ মানে সে অনুযায়ী আমলের দায়িত্ব দেওয়া হয়েছিল। আর কুরতুবির নিজের ব্যাখ্যায়, ‘তারপর বহন করেনি’ মানে আমল করেনি। গাধা বোঝার ভার পায়, উপকার কিছুই পায় না। মাইমুন ইবনে মিহরান বলেছেন, তার পিঠে বই না ঝুড়ি, গাধা তা টেরও পায় না। কুরতুবি যোগ করেছেন: যে-ই কিতাব বহন করে, তার জন্য এটি আল্লাহর সতর্কবাণী: সে যেন এর অর্থ শেখে আর এতে কী আছে জানে, নইলে একই নিন্দা তার ওপরও আসবে।"
+     }
+    },
+    {
+     "ref": "7:175",
+     "note": {
+      "en": "‘Recite to them the news of him to whom We gave Our signs, but he slipped out of them.’ Ibn Kathir reports from Ibn Mas‘ud, Ibn ‘Abbas and others that he was a man of earlier times, most often named Bal‘am ibn Ba‘ura, given knowledge of Allah’s signs. As-Sa‘di reads the verb: he stripped off what that knowledge should have produced in character, as one takes off a garment, and Satan then caught up with him.",
+      "bn": "‘তাদের শুনিয়ে দাও সেই লোকের খবর, যাকে আমি আমার আয়াত দিয়েছিলাম, কিন্তু সে তা থেকে বেরিয়ে গেল।’ ইবনে কাসির ইবনে মাসউদ (রাঃ), ইবনে আব্বাস (রাঃ) ও অন্যদের সূত্রে এনেছেন, সে ছিল আগের যুগের এক লোক, বেশির ভাগ বর্ণনায় নাম বাল‘আম ইবনে বাঊরা, যাকে আল্লাহর আয়াতের জ্ঞান দেওয়া হয়েছিল। সা‘দি ক্রিয়াপদটা এভাবে পড়েছেন: ইলম চরিত্রে যা গড়ে তোলার কথা, সে তা খুলে ফেলল, যেমন কেউ পোশাক খুলে ফেলে। তখন শয়তান তার পিছু নিল।"
+     }
+    },
+    {
+     "ref": "7:176",
+     "note": {
+      "en": "‘Had We willed, We would have raised him by them, but he clung to the earth and followed his desire.’ The dog pants whether chased or left. Ibn Kathir gives three readings: Bal‘am’s lolling tongue in the story; a man unchanged whether warned or not; or, from al-Hasan al-Basri, a heart empty of guidance that keeps faltering. As-Sa‘di: a greed for the world that nothing fills. The verse ends with its purpose: tell the stories, so they may reflect.",
+      "bn": "‘আমি চাইলে এগুলো দিয়ে তাকে উঁচু করতাম, কিন্তু সে মাটির দিকে ঝুঁকে পড়ল আর নিজের খেয়ালখুশির পেছনে চলল।’ কুকুর তাড়ালেও হাঁপায়, ছেড়ে দিলেও হাঁপায়। ইবনে কাসির তিনটি ব্যাখ্যা দিয়েছেন: ঘটনায় বর্ণিত বাল‘আমের বেরিয়ে আসা জিভ; এমন মানুষ, যাকে সতর্ক করা হোক বা না হোক, কিছুই বদলায় না; কিংবা হাসান বসরির মতে হিদায়াতশূন্য অন্তর, যা কেবল টলতে থাকে। সা‘দি বলেন, দুনিয়ার এমন লোভ, যা কিছুতেই মেটে না। আয়াত শেষ হয় উদ্দেশ্য বলে: ঘটনাগুলো শোনাও, যাতে তারা ভাবে।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 79",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-79",
+     "text": {
+      "en": "Abu Musa narrated that the Prophet ﷺ said: “The likeness of the guidance and knowledge with which Allah has sent me is that of abundant rain falling on land. Part of it was good soil that took in the water and brought forth plants and grass in plenty. Part of it was hard ground that held the water, and Allah benefited people by it: they drank, gave their animals to drink, and watered their crops. And it fell on another part that was only bare plain, which neither holds water nor grows plants. That is the likeness of one who gains understanding in Allah’s religion and benefits from what Allah sent me with, so he learns and teaches; and the likeness of one who does not raise his head for it and does not accept Allah’s guidance with which I was sent.”",
+      "bn": "আবু মূসা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: “আল্লাহ আমাকে যে হিদায়াত ও ইলম দিয়ে পাঠিয়েছেন, তার উপমা মুষলধারে বৃষ্টির মতো, যা জমিতে পড়ল। জমির একটা অংশ ছিল ভালো মাটি, পানি শুষে নিয়ে প্রচুর ঘাস আর লতাপাতা জন্মাল। একটা অংশ ছিল শক্ত মাটি, যা পানি ধরে রাখল, আর আল্লাহ তা দিয়ে মানুষের উপকার করলেন: তারা পান করল, পশুকে পান করাল, খেতে সেচ দিল। আর বৃষ্টি পড়ল আরেক অংশে, যা ছিল কেবল ন্যাড়া সমতল, পানিও ধরে না, ঘাসও জন্মায় না। এই হলো সেই লোকের উপমা, যে আল্লাহর দ্বীনের বুঝ পেয়েছে আর আমাকে যা দিয়ে পাঠানো হয়েছে তা থেকে উপকৃত হয়েছে, ফলে সে শিখেছে ও শিখিয়েছে; আর সেই লোকের উপমা, যে এর দিকে মাথা তুলেও তাকায়নি, আর আমাকে দিয়ে পাঠানো আল্লাহর হিদায়াত গ্রহণ করেনি।”"
+     },
+     "note": {
+      "en": "The Prophet ﷺ gives his own parable for how revelation is received. The same rain falls on all three grounds; the difference is in the ground. The commentary on hadeethenc.com reads the middle ground as one who gathers and preserves knowledge that others benefit from.",
+      "bn": "ওহি কীভাবে গ্রহণ করা হয়, তা নিয়ে নবী ﷺ নিজেই একটা উপমা দিয়েছেন। তিন ধরনের জমিতেই একই বৃষ্টি পড়ে; পার্থক্যটা জমিতে। ‘নববী হাদীসের অনুবাদ বিশ্বকোষ’-এর ব্যাখ্যায় মাঝের জমি সেই লোক, যে ইলম সংগ্রহ করে ধরে রাখে, আর অন্যরা তা থেকে উপকৃত হয়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "world-as-rain",
+   "title": {
+    "en": "The World as Rain and Harvest",
+    "bn": "দুনিয়া: বৃষ্টি আর ফসলের মৌসুম"
+   },
+   "body": [
+    {
+     "en": "Three times the Quran gives the life of this world a single picture (10:24, 18:45, 57:20): rain falls, plants mingle and flourish, then dry, yellow and blow away. Twice it makes the same point through people: the man who stood in his two gardens and said they would never perish, and the town whose provision came from every direction until it denied the favours. Read together, they do not call the world worthless. They call it brief, and warn its owner not to mistake a season for a possession.",
+     "bn": "দুনিয়ার জীবনের জন্য কুরআন তিন জায়গায় একই ছবি দিয়েছে (১০:২৪, ১৮:৪৫, ৫৭:২০): বৃষ্টি নামে, গাছপালা মিলেমিশে বেড়ে ওঠে, তারপর শুকিয়ে হলুদ হয়, শেষে বাতাসে উড়ে যায়। একই কথা দুবার এসেছে মানুষের গল্পে: এক লোক তার দুই বাগানে দাঁড়িয়ে বলেছিল, এ কখনো ধ্বংস হবে না; আর এক জনপদ, যেখানে চারদিক থেকে রিজিক আসত, যতদিন না তারা নিয়ামত অস্বীকার করল। একসঙ্গে পড়লে বোঝা যায়, এগুলো দুনিয়াকে মূল্যহীন বলে না। বলে, দুনিয়া ক্ষণিকের। যার হাতে আছে, সে যেন এক মৌসুমকে চিরস্থায়ী মালিকানা না ভাবে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "10:24",
+     "note": {
+      "en": "The clause to notice is ‘its people suppose that they have power over it’. As-Sa‘di: they hoped it would last, because their wishes stopped there. Then the command comes by night or by day, as if it had not flourished yesterday; Qatadah, in Ibn Kathir: as if it had never been blessed. As-Sa‘di: its pleasures bloom briefly, then leave their owner, or he leaves them.",
+      "bn": "খেয়াল করার মতো কথাটা: ‘এর অধিবাসীরা ভাবে, তারা এর ওপর পুরো ক্ষমতা রাখে।’ সা‘দি বলেন, তারা আশা করেছিল এটা টিকে থাকবে, কারণ তাদের চাওয়া এখানেই এসে থেমে গিয়েছিল। তারপর রাতে বা দিনে হুকুম আসে, যেন গতকাল এখানে কিছুই ছিল না। ইবনে কাসিরে কাতাদার কথা: যেন কখনো এতে বরকতই ছিল না। সা‘দির ভাষায়, দুনিয়ার মজা অল্প সময় ঝলমল করে, তারপর মালিককে ছেড়ে যায়, নয়তো মালিকই একে ছেড়ে যায়।"
+     }
+    },
+    {
+     "ref": "57:20",
+     "note": {
+      "en": "Here the parable follows a list: play, distraction, adornment, boasting, rivalry in wealth and children. The rain is ghayth, which Ibn Kathir explains as rain that comes after people have despaired. The tillers admire the growth, then it yellows and crumbles. Ibn Kathir adds that as farmers admire their crop, the disbelievers admire this life; and he reads the stages as a human life too: young, then grown, then old and feeble.",
+      "bn": "এখানে উপমাটা এসেছে একটা তালিকার পরে: খেলা, তামাশা, সাজসজ্জা, পরস্পর বড়াই, আর সম্পদ ও সন্তানে প্রতিযোগিতা। বৃষ্টির শব্দটা ‘গাইস’; ইবনে কাসিরের ব্যাখ্যায়, মানুষ নিরাশ হয়ে পড়ার পর যে বৃষ্টি আসে। চাষিরা ফসল দেখে মুগ্ধ হয়, তারপর তা হলুদ হয়ে ভেঙে গুঁড়িয়ে যায়। ইবনে কাসির যোগ করেছেন, চাষি যেমন ফসলে মুগ্ধ হয়, কাফিররাও তেমনি এই জীবনে মুগ্ধ। ধাপগুলোকে তিনি মানুষের জীবন হিসেবেও পড়েছেন: তারুণ্য, পরিণত বয়স, তারপর বার্ধক্য আর দুর্বলতা।"
+     }
+    },
+    {
+     "ref": "18:42",
+     "note": {
+      "en": "The end of the parable of the two men (18:32-44). The owner had entered his garden ‘wronging himself’, sure it would never perish (18:35); his companion asked why he had not said, ‘What Allah willed; there is no power except in Allah’ (18:39). Now the fruit is ruined and he wrings his hands over what he spent. As-Sa‘di: he regrets the spending and his shirk alike.",
+      "bn": "দুই ব্যক্তির উপমার শেষ দৃশ্য (১৮:৩২ থেকে ১৮:৪৪)। বাগানের মালিক ‘নিজের ওপর জুলুম করে’ বাগানে ঢুকেছিল, ভেবেছিল এ কখনো ধ্বংস হবে না (১৮:৩৫)। তার সঙ্গী জিজ্ঞেস করেছিল, কেন সে বলল না, ‘আল্লাহ যা চেয়েছেন, আল্লাহ ছাড়া কোনো শক্তি নেই’ (১৮:৩৯)। এখন ফল ধ্বংস, আর খরচের কথা ভেবে সে হাত কচলায়। সা‘দি বলেন, খরচ আর শিরক, দুটো নিয়েই তার আফসোস।"
+     }
+    },
+    {
+     "ref": "16:112",
+     "note": {
+      "en": "A town safe and at rest, its provision arriving in plenty from every place, which denied Allah’s favours; so He made it taste hunger and fear. As-Sa‘di’s wording is that He clothed them in the garment of hunger in place of plenty, and fear in place of safety. Ibn Kathir, with Ibn ‘Abbas, Mujahid and Qatadah, says it refers to Makkah after it rejected the Messenger sent from among its own people (16:113).",
+      "bn": "এক জনপদ, নিরাপদ আর নিশ্চিন্ত, চারদিক থেকে অঢেল রিজিক আসত; তারা আল্লাহর নিয়ামত অস্বীকার করল, ফলে আল্লাহ তাদের ক্ষুধা আর ভয়ের স্বাদ দিলেন। সা‘দির ভাষায়, আল্লাহ তাদের পরিয়ে দিলেন ক্ষুধার পোশাক, প্রাচুর্যের জায়গায়, আর ভয়ের পোশাক, নিরাপত্তার জায়গায়। ইবনে কাসির, ইবনে আব্বাস (রাঃ), মুজাহিদ ও কাতাদার সঙ্গে একমত হয়ে বলেছেন, এটি মক্কার কথা, তাদেরই মধ্য থেকে পাঠানো রাসূলকে প্রত্যাখ্যান করার পর (১৬:১১৩)।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "When your recitation reaches a parable, pause and ask the commentators’ question: what does each part stand for? Then ask where you stand in the picture.",
+   "bn": "তিলাওয়াতে কোনো উপমা এলে একটু থামুন, মুফাসসিরদের প্রশ্নটা করুন: ছবির কোন অংশ কীসের প্রতীক? তারপর নিজেকে জিজ্ঞেস করুন, এই ছবিতে আপনি কোথায়।"
+  },
+  {
+   "en": "Check the intention before you give; guard the gift after it. No reminders and no hurt to the one who received it (2:264).",
+   "bn": "দানের আগে নিয়ত যাচাই করুন, দানের পরে তাকে আগলে রাখুন। যাকে দিয়েছেন, তাকে খোঁটাও দেবেন না, কষ্টও দেবেন না (২:২৬৪)।"
+  },
+  {
+   "en": "When something you own pleases you and feels permanent, say what the companion advised: mā shā’ Allāh, lā quwwata illā billāh (18:39).",
+   "bn": "নিজের কোনো জিনিস দেখে ভালো লাগলে আর তা চিরস্থায়ী মনে হলে, সেই সঙ্গীর পরামর্শমতো বলুন: মা শা আল্লাহ, লা কুওয়াতা ইল্লা বিল্লাহ (১৮:৩৯)।"
+  },
+  {
+   "en": "Name what you lean on for safety besides Allah: a person, a post, a reputation. Ask honestly whether it is a spider’s house (29:41).",
+   "bn": "আল্লাহকে ছাড়া নিরাপত্তার জন্য আপনি কীসের ওপর ভর দেন, নাম ধরে ভাবুন: কোনো মানুষ, কোনো পদ, কোনো সুনাম। সৎভাবে জিজ্ঞেস করুন, এটা মাকড়সার ঘর কি না (২৯:৪১)।"
+  },
+  {
+   "en": "Take one thing you already know from the Quran and act on it this week, so that you carry it the way 62:5 means, not only on your back.",
+   "bn": "কুরআন থেকে যা আগেই জানেন, তার একটা কিছু বেছে নিয়ে এ সপ্তাহে আমল করুন, যাতে ৬২:৫-এর অর্থে তা বহন করেন, কেবল পিঠে নয়।"
+  }
+ ],
  "refs": [
   "2:17",
   "2:18",
@@ -16,6 +365,8 @@
   "2:20",
   "2:26",
   "2:259",
+  "2:261",
+  "2:264",
   "2:265",
   "2:266",
   "3:103",
@@ -28,6 +379,7 @@
   "10:24",
   "11:24",
   "14:18",
+  "14:24",
   "16:75",
   "16:76",
   "16:112",
@@ -49,18 +401,63 @@
   "18:46",
   "22:31",
   "22:73",
+  "24:35",
+  "24:39",
+  "24:40",
   "29:41",
   "29:42",
   "29:43",
   "39:21",
+  "39:27",
   "39:29",
   "47:15",
   "48:29",
   "57:20",
+  "59:21",
   "62:5"
  ],
+ "refsDropped": [],
  "videos": [],
- "reading": [],
- "sources": [],
- "related": []
+ "reading": [
+  {
+   "title": {
+    "en": "The benefit of the parables in the Qur’aan",
+    "bn": "কুরআনে উপমার উপকারিতা"
+   },
+   "url": "https://islamqa.info/en/answers/22298/the-benefit-of-the-parables-in-the-quraan",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "The Light of Sincerity and the Fire of Hypocrisy | Qur’anic Parables Episode 1",
+    "bn": "ইখলাসের আলো ও নিফাকের আগুন | কুরআনের উপমা, পর্ব ১"
+   },
+   "url": "https://yaqeeninstitute.org/watch/series/keeping-connected-with-the-quran/the-light-of-sincerity-and-the-fire-of-hypocrisy-quranic-parables-episode-1",
+   "site": "yaqeeninstitute.org",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "Hadith: The guidance and knowledge with which Allah has sent me are like abundant rain",
+    "bn": "হাদীস: যে সরল পথ ও ইলম দিয়ে আমাকে পাঠানো হয়েছে তা ঐ বৃষ্টি সদৃশ যা যমীনে পৌঁছে"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/4233",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir (abridged English)",
+  "Tafsir Ibn Kathir (Arabic)",
+  "Tafsir as-Sa‘di",
+  "Tafsir at-Tabari",
+  "Tafsir al-Qurtubi"
+ ],
+ "related": [
+  "th-o-mankind",
+  "th-hereafter",
+  "allah-remembrance",
+  "th-wrongdoers"
+ ]
 }

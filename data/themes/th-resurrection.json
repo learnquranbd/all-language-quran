@@ -1,14 +1,392 @@
 {
  "id": "th-resurrection",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "The Resurrection",
   "bn": "কিয়ামত (পুনরুত্থান দিবস)"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "The Hour's hidden time, the trumpet, the rising from the graves, and the Quran's own arguments that the dead will live again.",
+  "bn": "কিয়ামতের গোপন সময়, শিঙ্গার ফুঁ, কবর থেকে উঠে আসা, আর মৃতরা যে আবার জীবিত হবে তার পক্ষে কুরআনের নিজস্ব যুক্তি।"
+ },
+ "intro": [
+  {
+   "en": "The Quran gives the Day many names: the Hour, al-Qāri‘ah (the Striking Calamity), al-Ḥāqqah (the Inevitable), al-Wāqi‘ah (the Occurrence). In the hadith of Jibril recorded by al-Bukhari (no. 50), the Prophet ﷺ places belief in the resurrection inside his definition of faith. This page follows the Quran's account of the event itself: the Hour whose time is hidden, the unmaking of sky and earth, the trumpet, and the rising of the dead. The reckoning and the scales belong to the Day of Judgement page; Paradise and Hell have pages of their own.",
+   "bn": "কুরআন এই দিনটিকে অনেক নামে ডেকেছে: আস-সাআহ (মহাক্ষণ), আল-কারিআহ (মহাআঘাত), আল-হাক্কাহ (অবধারিত সত্য), আল-ওয়াকিআহ (যা ঘটবেই)। সহিহ বুখারির ৫০ নম্বর হাদিসে জিবরিল (আঃ)-এর প্রশ্নের জবাবে নবী ﷺ ঈমানের সংজ্ঞার ভেতরেই পুনরুত্থানে বিশ্বাসকে রেখেছেন। এই পাতায় আমরা দেখব ঘটনাটি নিজে কেমন: যে মুহূর্তের সময় গোপন, আকাশ আর পৃথিবীর ভেঙে পড়া, শিঙ্গার ফুঁ, আর মৃতদের জেগে ওঠা। হিসাব আর মিজানের কথা আছে ‘বিচারের দিন’ পাতায়। জান্নাত ও জাহান্নামের জন্য রয়েছে আলাদা পাতা।"
+  },
+  {
+   "en": "In Makkah this was the point of fiercest resistance. Ibn Kathir notes that the Quraysh asked about the Hour because they denied it, and the same objection returns across the Makkan surahs: when we are bones and dust, shall we really be raised? The Quran answers not only by assertion but by argument, drawn from what any listener can see: the person he once was not, the dry ground that greens after rain, the sky above him.",
+   "bn": "মক্কায় সবচেয়ে কঠিন বাধাটা এসেছিল এখানেই। ইবনে কাসির উল্লেখ করেছেন, কুরাইশরা কিয়ামতের সময় জানতে চাইত, কারণ তারা কিয়ামতকেই অস্বীকার করত। মক্কি সূরাগুলোতে একই আপত্তি বারবার ফিরে আসে: হাড় আর মাটি হয়ে যাওয়ার পর আমাদের কি সত্যিই আবার ওঠানো হবে? কুরআন শুধু ঘোষণা দিয়ে জবাব দেয়নি, যুক্তিও দিয়েছে। আর সে যুক্তি নেওয়া এমন সব জিনিস থেকে, যা যেকোনো শ্রোতা নিজের চোখে দেখে: একসময় যে মানুষটির অস্তিত্বই ছিল না, বৃষ্টির পর সবুজ হয়ে ওঠা শুকনো মাটি, মাথার ওপরের আকাশ।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "hour-only-he-knows",
+   "title": {
+    "en": "The Hour Only He Knows",
+    "bn": "যে সময় শুধু তিনিই জানেন"
+   },
+   "body": [
+    {
+     "en": "Asked when the Hour will come, the Prophet ﷺ is told again and again to say that its knowledge is with Allah alone. The answer comes in a Makkan surah (7:187) and again in a Madinan one (33:63), and 31:34 places the Hour first among five things He has kept to Himself. Two qualities are joined to its hiddenness: it will come suddenly, baghtatan, and it may be near. The hidden date is never a reason to relax but a reason to be ready, because, as 20:15 says, the Hour comes so that every soul is repaid for its striving.",
+     "bn": "কিয়ামত কবে, এ প্রশ্নের জবাবে নবী ﷺ-কে বারবার বলতে বলা হয়েছে: এর জ্ঞান কেবল আল্লাহর কাছে। এই উত্তর এসেছে মক্কি সূরায় (৭:১৮৭), আবার মাদানি সূরাতেও (৩৩:৬৩)। আর ৩১:৩৪ কিয়ামতকে রেখেছে সেই পাঁচটি বিষয়ের প্রথমে, যার জ্ঞান তিনি নিজের কাছে রেখে দিয়েছেন। গোপনীয়তার সঙ্গে আরও দুটি কথা জোড়া: কিয়ামত আসবে আচমকা, ‘বাগতাতান’, আর তা হয়তো কাছেই। তারিখ গোপন বলে নিশ্চিন্ত থাকা যায় না, বরং প্রস্তুত থাকতে হয়। কারণ ২০:১৫ অনুযায়ী কিয়ামত আসবে, যাতে প্রত্যেক প্রাণ তার চেষ্টার প্রতিদান পায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "7:187",
+     "note": {
+      "en": "Between the two answers the ayah adds that they ask “as if you were eager to know it.” As-Sa'di reads this as a rebuke: the Prophet ﷺ, knowing his Lord, did not chase the question, so why do they not follow him and drop a question that brings no benefit? He explains thaqulat both ways: its knowledge is hidden from the heavens and the earth, and its event weighs heavily on them.",
+      "bn": "দুটি উত্তরের মাঝখানে আয়াতটি জানাচ্ছে, তারা এমনভাবে জিজ্ঞেস করে, যেন নবী ﷺ এ বিষয়ে জানতে খুব উদগ্রীব। আস-সা'দী একে তিরস্কার হিসেবে পড়েছেন। নবী ﷺ তাঁর রবকে চিনতেন বলেই এই প্রশ্নের পেছনে ছোটেননি। তাহলে তারা কেন তাঁকে অনুসরণ করে এমন প্রশ্ন ছেড়ে দেয় না, যার কোনো ফায়দা নেই? ‘সাকুলাত’ শব্দের দুটি অর্থই তিনি নিয়েছেন: এর জ্ঞান আসমান-জমিনের কাছে গোপন, আর এর ঘটনাও তাদের ওপর ভারী।"
+     }
+    },
+    {
+     "ref": "31:34",
+     "note": {
+      "en": "The ayah closes on two things that touch every reader: no soul knows what it will earn tomorrow, nor in what land it will die. As-Sa'di says Allah has folded the knowledge of these five away from all creatures; no sent prophet and no angel brought near knows them. Ibn Kathir notes that the Sunnah calls them the keys of the Unseen, linking the ayah to 6:59.",
+      "bn": "আয়াতটি শেষ হয়েছে এমন দুটি কথায়, যা প্রত্যেক পাঠককে ছুঁয়ে যায়: কেউ জানে না কাল সে কী অর্জন করবে, কেউ জানে না কোন মাটিতে তার মৃত্যু হবে। আস-সা'দী বলেন, এই পাঁচটির জ্ঞান আল্লাহ সমস্ত সৃষ্টির কাছ থেকে গুটিয়ে রেখেছেন। কোনো প্রেরিত নবী বা নিকটতম ফেরেশতাও তা জানেন না। ইবনে কাসির উল্লেখ করেছেন, সুন্নাহে এগুলোকে বলা হয়েছে গায়েবের চাবি, আর আয়াতটিকে তিনি ৬:৫৯-এর সঙ্গে মিলিয়েছেন।"
+     }
+    },
+    {
+     "ref": "33:63",
+     "note": {
+      "en": "The same instruction as 7:187, but Ibn Kathir points out that this surah is Madinan while al-A‘raf is Makkan: years apart, the answer did not change. What is added is the closing line, “perhaps the Hour is near.” As-Sa'di says some asked to hurry it and some to deny it, and that its nearness or distance carries no result in itself. The real question, he says, is whether a servant deserves punishment or reward.",
+      "bn": "নির্দেশটা ৭:১৮৭-এর মতোই। তবে ইবনে কাসির দেখিয়েছেন, এই সূরা মাদানি আর আল-আ'রাফ মক্কি। বহু বছরের ব্যবধানেও উত্তর বদলায়নি। নতুন যা যোগ হয়েছে তা শেষ বাক্যটি: “হয়তো কিয়ামত কাছেই।” আস-সা'দী বলেন, কেউ প্রশ্ন করত তাড়াতাড়ি চেয়ে, কেউ অস্বীকার করে। কিয়ামত কাছে না দূরে, তাতে নিজে থেকে কোনো ফল নেই। তাঁর মতে আসল প্রশ্ন হলো, বান্দা শাস্তির যোগ্য, না পুরস্কারের।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 6506",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-6506",
+     "text": {
+      "en": "Abu Hurayrah narrated that the Messenger of Allah ﷺ said: “The Hour will not be established until the sun rises from the west. When it rises and the people see it, they will all believe; and that is when no good will it do a soul to believe if it had not believed before or earned some good through its faith. The Hour will be established while two men have spread a garment between them, and they will neither complete the sale nor fold it up. The Hour will be established while a man has gone off with the milk of his she-camel, and he will not drink it. The Hour will be established while he is plastering his water-trough, and he will not water from it. And the Hour will be established while one has raised his morsel to his mouth, and he will not eat it.”",
+      "bn": "আবু হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: “সূর্য পশ্চিম দিক থেকে না ওঠা পর্যন্ত কিয়ামত হবে না। যখন তা উঠবে আর মানুষ তা দেখবে, তখন সবাই ঈমান আনবে। কিন্তু সেটাই সেই সময়, যখন কোনো প্রাণের ঈমান তার কাজে আসবে না, যদি সে আগে ঈমান না এনে থাকে বা ঈমান অবস্থায় কোনো নেক কাজ না করে থাকে। কিয়ামত এমন অবস্থায় হবে যে দুজন লোক নিজেদের মাঝে কাপড় মেলে ধরেছে, অথচ বেচাকেনাও শেষ করতে পারবে না, কাপড়টা ভাঁজও করতে পারবে না। কিয়ামত এমন অবস্থায় হবে যে একজন তার উটনীর দুধ নিয়ে ফিরেছে, অথচ তা পান করতে পারবে না। কিয়ামত এমন অবস্থায় হবে যে সে তার পানির হাউজ লেপে ঠিক করছে, অথচ তা থেকে পশুকে পানি খাওয়াতে পারবে না। আর কিয়ামত এমন অবস্থায় হবে যে কেউ লোকমা মুখের কাছে তুলেছে, অথচ তা খেতে পারবে না।”"
+     }
+    }
+   ]
+  },
+  {
+   "id": "when-the-sky-splits",
+   "title": {
+    "en": "When the Sky Splits Open",
+    "bn": "যখন আকাশ ফেটে যাবে"
+   },
+   "body": [
+    {
+     "en": "Five short surahs open with the world coming apart: 81 with the sun wrapped up, 82 and 84 with the sky splitting, 99 with the earth's final quake, while 101 names the Day the Striking Calamity. Most pile up “when” clauses and then give a single answer: a soul will know what it has brought (81:14), what it sent ahead and left behind (82:5). The scale is cosmic, but the answer is personal. 39:67 frames the whole scene: the earth in His grip and the heavens folded in His right hand.",
+     "bn": "পাঁচটি ছোট সূরা শুরু হয়েছে বিশ্বজগৎ ভেঙে পড়ার দৃশ্য দিয়ে। সূরা তাকভিরে সূর্যকে গুটিয়ে নেওয়া, ইনফিতার আর ইনশিকাকে আকাশ ফেটে যাওয়া, যিলযালে পৃথিবীর শেষ কম্পন। আর সূরা কারিআহ দিনটির নামই রেখেছে মহাআঘাত। বেশিরভাগ সূরা একের পর এক “যখন” সাজিয়ে শেষে একটি মাত্র উত্তর দেয়: প্রত্যেক প্রাণ জানবে সে কী নিয়ে এসেছে (৮১:১৪), কী আগে পাঠিয়েছে আর কী পেছনে রেখে গেছে (৮২:৫)। দৃশ্যটা মহাজাগতিক, অথচ উত্তরটা একান্ত ব্যক্তিগত। পুরো দৃশ্যটাকে ঘিরে রেখেছে ৩৯:৬৭: পৃথিবী থাকবে তাঁর মুঠোয়, আকাশমণ্ডলী গুটানো থাকবে তাঁর ডান হাতে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "81:1",
+     "note": {
+      "en": "Takwīr, Ibn Kathir explains, is folding one part of a thing onto another, as a turban is wound; the sun is rolled up and cast away, and its light goes. As-Sa'di gives the sense of the whole passage at its start: when these terrifying things happen, creation is sorted out, and each person knows what he put forward for his hereafter. The “when” clauses wait for one answer, and it comes in 81:14.",
+      "bn": "ইবনে কাসির বলেন, ‘তাকভির’ মানে কোনো জিনিসের এক অংশ আরেক অংশের ওপর জড়িয়ে গুটিয়ে নেওয়া, যেভাবে পাগড়ি প্যাঁচানো হয়। সূর্যকে গুটিয়ে ছুড়ে ফেলা হবে, তার আলো চলে যাবে। আস-সা'দী শুরুতেই পুরো অংশটির মর্ম বলে দিয়েছেন: এই ভয়ংকর ঘটনাগুলো যখন ঘটবে, সৃষ্টিকুল আলাদা আলাদা হয়ে যাবে, আর প্রত্যেকে জানবে আখিরাতের জন্য সে কী পাঠিয়েছে। “যখন”-গুলো একটি উত্তরের অপেক্ষায় থাকে, আর সেটি আসে ৮১:১৪-তে।"
+     }
+    },
+    {
+     "ref": "84:2",
+     "note": {
+      "en": "The sky does not merely split; it “listens to its Lord, and it must.” As-Sa'di: it gives its hearing to His command, and this is its due, since it is subjugated under a mighty King whose command is not disobeyed. Ibn Kathir reads it the same way, and on 84:4 records from Mujahid, Sa‘id and Qatadah that the earth casts out its dead and is emptied of them.",
+      "bn": "আকাশ শুধু ফেটেই যাবে না, “সে তার রবের হুকুম শুনবে, আর এটাই তার কর্তব্য।” আস-সা'দী বলেন, সে তাঁর হুকুমে কান পেতে দেবে। আর এটাই তার প্রাপ্য, কারণ সে এক মহান বাদশাহর অধীন, যাঁর হুকুম অমান্য করা যায় না। ইবনে কাসিরও একইভাবে পড়েছেন। ৮৪:৪ প্রসঙ্গে তিনি মুজাহিদ, সাঈদ ও কাতাদা থেকে উল্লেখ করেছেন, পৃথিবী তার ভেতরের মৃতদের বাইরে ফেলে দিয়ে খালি হয়ে যাবে।"
+     }
+    },
+    {
+     "ref": "99:2",
+     "note": {
+      "en": "As-Sa'di glosses the earth's “burdens” as what lies in its belly: the dead, and its treasures. Ibn Kathir says more than one of the early scholars took the burdens to be the dead, and he reads the next ayah as man's bewilderment: the ground that was settled and firm beneath him is now moving. The earth then tells its news (99:4-5), a testimony taken up on the Day of Judgement page.",
+      "bn": "আস-সা'দী পৃথিবীর ‘বোঝা’-র ব্যাখ্যা দিয়েছেন এভাবে: তার পেটের ভেতরে যা আছে, মৃতরা আর গুপ্তধন। ইবনে কাসির বলেন, পূর্বসূরিদের একাধিকজন এই বোঝা বলতে মৃতদেরই বুঝেছেন। পরের আয়াতকে তিনি মানুষের হতভম্ব দশা হিসেবে পড়েছেন: যে মাটি তার পায়ের নিচে স্থির আর মজবুত ছিল, তা এখন দুলছে। এরপর পৃথিবী তার খবর বলবে (৯৯:৪-৫)। সেই সাক্ষ্যের আলোচনা আছে ‘বিচারের দিন’ পাতায়।"
+     }
+    },
+    {
+     "ref": "101:4",
+     "note": {
+      "en": "Ibn Kathir explains the simile by people's scattering, coming and going in bewilderment at what is happening to them. As-Sa'di sharpens it: moths are night creatures that surge into one another not knowing where to turn, and when a fire is lit they rush into it from weak perception. Such, he says, will be the state of people who had intellects. Ibn Kathir pairs the image with 54:7, where they emerge like spreading locusts.",
+      "bn": "ইবনে কাসির উপমাটির ব্যাখ্যা দিয়েছেন মানুষের ছড়িয়ে পড়া আর দিশেহারা হয়ে ছোটাছুটি দিয়ে। আস-সা'দী আরও স্পষ্ট করেছেন। পতঙ্গ রাতের প্রাণী, একটা আরেকটার ওপর আছড়ে পড়ে, জানে না কোন দিকে যাবে। আগুন জ্বালালে বোধের দুর্বলতায় তাতেই ঝাঁপ দেয়। তিনি বলেন, বুদ্ধিমান মানুষদের দশাও সেদিন এমনই হবে। ইবনে কাসির এই ছবিটিকে মিলিয়েছেন ৫৪:৭-এর সঙ্গে, যেখানে তারা বের হয় ছড়ানো পঙ্গপালের মতো।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Jami‘ at-Tirmidhi 3333",
+     "url": "https://quranx.com/hadith/Tirmidhi/Hadith-3333",
+     "grade": {
+      "en": "hasan gharib",
+      "bn": "হাসান গরিব"
+     },
+     "text": {
+      "en": "Ibn ‘Umar narrated that the Messenger of Allah ﷺ said: “Whoever would like to look at the Day of Resurrection as if he were seeing it with his own eye, let him recite: ‘When the sun is wrapped up’, ‘When the sky breaks apart’, and ‘When the sky has split open’.”",
+      "bn": "ইবনে উমর (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: “কেউ যদি কিয়ামতের দিনটিকে এমনভাবে দেখতে চায়, যেন নিজের চোখে দেখছে, তবে সে যেন পড়ে: ‘যখন সূর্যকে গুটিয়ে নেওয়া হবে’, ‘যখন আকাশ ফেটে যাবে’ এবং ‘যখন আকাশ বিদীর্ণ হবে’।”"
+     },
+     "note": {
+      "en": "At-Tirmidhi grades it hasan gharib and adds that some narrators mention only the first surah. The three openings named are 81:1, 82:1 and 84:1, the surahs this section began with.",
+      "bn": "ইমাম তিরমিজি হাদিসটিকে হাসান গরিব বলেছেন, আর জানিয়েছেন, কোনো কোনো বর্ণনাকারী শুধু প্রথম সূরাটির কথা বলেছেন। যে তিনটি সূচনার কথা এসেছে সেগুলো হলো ৮১:১, ৮২:১ ও ৮৪:১, এই অংশ যে সূরাগুলো দিয়ে শুরু হয়েছিল।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "blast-of-the-horn",
+   "title": {
+    "en": "The Blast of the Horn",
+    "bn": "শিঙ্গার ফুঁ"
+   },
+   "body": [
+    {
+     "en": "The Quran names the instrument aṣ-ṣūr, the Horn, and describes its sounding with a few fixed words: a blowing, a shout (ṣayḥah), a single cry (zajrah). As-Sa'di describes it as a vast horn whose greatness only its Creator knows, and those of His creation whom He tells, and names the angel who blows it as Israfil. The Quran stresses the word “one”: one blast (69:13), one shout (36:53). After it, people are standing and looking on (39:68), already on the open earth (79:13-14).",
+     "bn": "কুরআন যন্ত্রটির নাম বলেছে আস-সূর, অর্থাৎ শিঙ্গা। আর এর আওয়াজ বোঝাতে কয়েকটি নির্দিষ্ট শব্দ ব্যবহার করেছে: ফুঁ, ‘সাইহাহ’ বা বিকট শব্দ, ‘যাজরাহ’ বা একটিমাত্র ধমক। আস-সা'দী বলেন, এটি এক বিশাল শিঙ্গা, যার বিশালতা কেবল এর স্রষ্টা জানেন, আর সৃষ্টির মধ্যে যাকে তিনি জানিয়েছেন। যিনি এতে ফুঁ দেবেন, তাঁর নাম তিনি বলেছেন ইসরাফিল (আঃ)। কুরআন “একটি” শব্দের ওপর জোর দিয়েছে: একটি ফুঁ (৬৯:১৩), একটি বিকট শব্দ (৩৬:৫৩)। তারপরই মানুষ দাঁড়িয়ে তাকিয়ে থাকবে (৩৯:৬৮), খোলা ময়দানে হাজির (৭৯:১৩-১৪)।"
+    },
+    {
+     "en": "How many blasts? The commentaries differ. Ibn Kathir counts three: terror, swooning in which the living die, and resurrection, citing what he calls the well-known Hadith of the Trumpet; yet on 6:73 he calls that hadith very gharib, with munkar wording, narrated by Isma'il ibn Rafi' alone, whom several imams criticised. Al-Qurtubi, on 39:68, says they are only two: creation dies in the first and lives in the second. As-Sa'di also counts two, treating the swooning and the terror as one first blast. All agree on what matters: death, then rising, each at a single command.",
+     "bn": "ফুঁ কয়টি? এই পাতার জন্য যেসব তাফসির দেখা হয়েছে, সেগুলোতে মতভেদ আছে। ইবনে কাসির তিনটি গুনেছেন: ভীতির ফুঁ, বেহুঁশ হওয়ার ফুঁ যাতে জীবিতরা মারা যাবে, আর পুনরুত্থানের ফুঁ। এর পক্ষে তিনি উল্লেখ করেছেন, তাঁর ভাষায়, শিঙ্গার প্রসিদ্ধ হাদিস। তবে ৬:৭৩-এর তাফসিরে তিনি নিজেই বলেছেন, হাদিসটি খুবই গরিব, এর কিছু শব্দ মুনকার, আর এটি একা বর্ণনা করেছেন ইসমাইল ইবনে রাফে, যাঁর সমালোচনা করেছেন একাধিক ইমাম। আল-কুরতুবি ৩৯:৬৮-এর তাফসিরে বলেছেন, ফুঁ কেবল দুটি: প্রথমটিতে সৃষ্টিকুল মারা যাবে, দ্বিতীয়টিতে জীবিত হবে। আস-সা'দীও দুটি গুনেছেন। বেহুঁশ হওয়া আর ভীতিকে তিনি প্রথম ফুঁয়েরই অংশ ধরেছেন। আসল কথায় সবাই একমত: মৃত্যু, তারপর জেগে ওঠা, আর দুটোই একটিমাত্র হুকুমে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "39:68",
+     "note": {
+      "en": "Ṣa‘iqa, as-Sa'di notes, has been read two ways: they swoon, or they die. On who is excepted, he mentions those Allah keeps firm, such as the martyrs or some of them. Al-Qurtubi records several opinions, among them the martyrs, or Jibril, Mika'il, Israfil and the Angel of Death, then quotes Qatadah: Allah knows best whom He excepted.",
+      "bn": "আস-সা'দী জানিয়েছেন, ‘সাইকা’ শব্দটি দুইভাবে বোঝা হয়েছে: বেহুঁশ হয়ে পড়বে, অথবা মারা যাবে। কারা এর বাইরে থাকবে, সে প্রসঙ্গে তিনি বলেছেন তাদের কথা, যাদের আল্লাহ অবিচল রাখবেন, যেমন শহিদরা বা তাদের কেউ কেউ। আল-কুরতুবি কয়েকটি মত উল্লেখ করেছেন: শহিদরা, অথবা জিবরিল, মিকাইল, ইসরাফিল ও মৃত্যুর ফেরেশতা, এবং আরও কিছু মত। তারপর কাতাদার কথা এনেছেন: কাদের তিনি বাদ রেখেছেন, আল্লাহই ভালো জানেন।"
+     }
+    },
+    {
+     "ref": "69:13",
+     "note": {
+      "en": "Ibn Kathir explains why “one” is stressed: Allah's command cannot be opposed or prevented and needs no repeating. He takes this to be the blast of standing before the Lord of the worlds. As-Sa'di agrees and describes it: when the bodies have grown complete, Israfil blows, the souls go out and each enters its own body. The next ayah applies the same word to the earth and mountains, crushed with one stroke.",
+      "bn": "“একটি” শব্দে কেন জোর, ইবনে কাসির তা বুঝিয়েছেন: আল্লাহর হুকুম ঠেকানো যায় না, বাধা দেওয়া যায় না, দ্বিতীয়বার বলারও দরকার পড়ে না। তাঁর মতে এটি বিশ্বজগতের রবের সামনে দাঁড়ানোর ফুঁ। আস-সা'দীও তাই বলেছেন, আর বর্ণনা দিয়েছেন: দেহগুলো পূর্ণ হয়ে গজিয়ে উঠলে ইসরাফিল (আঃ) ফুঁ দেবেন, রূহগুলো বেরিয়ে প্রত্যেকটি নিজের দেহে ঢুকে যাবে। পরের আয়াতে একই শব্দ এসেছে পৃথিবী আর পাহাড়ের বেলায়: একটিমাত্র আঘাতে চূর্ণ।"
+     }
+    },
+    {
+     "ref": "36:53",
+     "note": {
+      "en": "As-Sa'di reads this as the raising from the graves: it is nothing but one shout, the bodies live, and all of them, first and last, humans and jinn, are brought present. Ibn Kathir sets it beside 79:13-14 and 16:77, where the matter of the Hour is like the twinkling of an eye. What the deniers called impossible takes a single sound.",
+      "bn": "আস-সা'দী এটিকে কবর থেকে ওঠানোর কথা হিসেবে পড়েছেন: একটিমাত্র বিকট শব্দ, তাতেই দেহগুলো জীবিত হবে। আগের ও পরের সবাই, মানুষ ও জিন, সবাইকে হাজির করা হবে। ইবনে কাসির একে মিলিয়েছেন ৭৯:১৩-১৪ আর ১৬:৭৭-এর সঙ্গে, যেখানে কিয়ামতের ব্যাপারটি চোখের পলকের মতো। অস্বীকারকারীরা যাকে অসম্ভব বলত, তার জন্য লাগবে একটিমাত্র আওয়াজ।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 4935",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-4935",
+     "text": {
+      "en": "Abu Hurayrah narrated that the Messenger of Allah ﷺ said: “Between the two blasts there are forty.” Someone asked, “Forty days?” Abu Hurayrah said, “I decline to say.” “Forty months?” He said, “I decline to say.” “Forty years?” He said, “I decline to say.” And he [the Prophet ﷺ] said: “Then Allah will send down water from the sky, and they will sprout as green herbs sprout. There is nothing of the human being that does not decay except one bone, the tip of the coccyx, and from it the creation will be assembled on the Day of Resurrection.”",
+      "bn": "আবু হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: “দুই ফুঁয়ের মাঝে চল্লিশ।” একজন জিজ্ঞেস করল, “চল্লিশ দিন?” আবু হুরায়রা বললেন, “আমি বলতে অস্বীকার করছি।” “চল্লিশ মাস?” তিনি বললেন, “আমি বলতে অস্বীকার করছি।” “চল্লিশ বছর?” তিনি বললেন, “আমি বলতে অস্বীকার করছি।” আর নবী ﷺ বললেন: “তারপর আল্লাহ আকাশ থেকে পানি বর্ষণ করবেন, আর তারা গজিয়ে উঠবে যেভাবে শাকসবজি গজায়। মানুষের শরীরের সবকিছুই পচে যায়, শুধু একটি হাড় ছাড়া, তা হলো মেরুদণ্ডের একেবারে নিচের ছোট হাড়টি। কিয়ামতের দিন সেটি থেকেই সৃষ্টিকে আবার জোড়া লাগানো হবে।”"
+     },
+     "note": {
+      "en": "Its narrator declined to say whether the forty were days, months or years, a model for any talk of the Hour's timing. The dead then grow as plants grow after rain, the image of the last section.",
+      "bn": "এর বর্ণনাকারী নিজেই বলতে রাজি হননি, চল্লিশ মানে দিন, মাস না বছর। কিয়ামতের সময় নিয়ে যেকোনো আলোচনায় এই সংযমই আদর্শ। এরপর বৃষ্টির পর গাছের মতো মৃতদের গজিয়ে ওঠার কথা, যা এই পাতার শেষ অংশের ছবি।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "rising-from-the-graves",
+   "title": {
+    "en": "Rising from the Graves",
+    "bn": "কবর থেকে উঠে আসা"
+   },
+   "body": [
+    {
+     "en": "A handful of verbs carry the scene. The dead come out (yakhrujūn), they hurry (yansilūn), the graves are overturned (bu‘thira) and the earth splits away from them. The Quran calls it the Day of Emergence (50:42) and a gathering easy for Us (50:44). The pictures are crowds: locusts spreading (54:7), people racing toward a Caller (54:8). The first words spoken are a question, “Who has raised us from our sleeping place?” (36:52).",
+     "bn": "কয়েকটি ক্রিয়াপদেই পুরো দৃশ্যটা ধরা আছে। মৃতরা বের হবে (ইয়াখরুজুন), ছুটে আসবে (ইয়ানসিলুন), কবরগুলো উল্টে দেওয়া হবে (বু'সিরা), আর মাটি ফেটে তাদের ছেড়ে দেবে। কুরআন দিনটিকে বলেছে বের হওয়ার দিন (৫০:৪২), আর বলেছে এই সমাবেশ আমার জন্য সহজ (৫০:৪৪)। ছবিগুলো সব ভিড়ের: ছড়িয়ে পড়া পঙ্গপাল (৫৪:৭), আহ্বানকারীর দিকে ছুটে চলা মানুষ (৫৪:৮)। প্রথম যে কথাটি মুখে আসবে তা একটা প্রশ্ন: “আমাদের ঘুমের জায়গা থেকে কে ওঠাল?” (৩৬:৫২)।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "36:52",
+     "note": {
+      "en": "“Our sleeping place” is the grave. Ibn Kathir explains that this does not deny punishment in the grave: beside what follows, that time will seem like a nap. He reports from Ubayy ibn Ka‘b, Mujahid, al-Hasan and Qatadah a sleep before the resurrection, Qatadah placing it between the two blasts. As-Sa'di: the name ar-Raḥmān here signals that they will see of His mercy what no one imagined.",
+      "bn": "“ঘুমের জায়গা” মানে কবর। ইবনে কাসির বুঝিয়েছেন, এতে কবরের আজাব অস্বীকার করা হচ্ছে না। সামনে যা আসছে তার তুলনায় সেই সময়টা মনে হবে একটুখানি তন্দ্রার মতো। তিনি উবাই ইবনে কা'ব (রাঃ), মুজাহিদ, আল-হাসান ও কাতাদা থেকে পুনরুত্থানের আগে একটা ঘুমের কথা এনেছেন। কাতাদা বলেছেন, সেটা দুই ফুঁয়ের মাঝখানে। আস-সা'দী বলেন, এখানে ‘আর-রহমান’ নামটি জানিয়ে দেয়, সেদিন তারা তাঁর রহমতের এমন কিছু দেখবে, যা কেউ কল্পনাও করেনি।"
+     }
+    },
+    {
+     "ref": "54:7",
+     "note": {
+      "en": "As-Sa'di explains the humbled eyes by the terror that has reached their hearts, and the locusts by their sheer number and their surging into one another. Ibn Kathir adds what the next ayah says: they hasten toward the Caller, unable to hesitate or slow down. Ibn Kathir and as-Sa'di both read this image and the moths of 101:4 as one picture: a vast crowd surging into itself.",
+      "bn": "আস-সা'দী বলেন, চোখ নত হবে সেই আতঙ্কে, যা তাদের অন্তরে পৌঁছে গেছে। আর পঙ্গপালের উপমা তাদের বিপুল সংখ্যা আর একে অপরের ওপর ঢেউয়ের মতো আছড়ে পড়ার কারণে। ইবনে কাসির পরের আয়াতের কথাটা যোগ করেছেন: তারা আহ্বানকারীর দিকে ছুটবে, থামতে বা গতি কমাতে পারবে না। ইবনে কাসির আর আস-সা'দী দুজনেই এই ছবি আর ১০১:৪-এর পতঙ্গকে একই দৃশ্য হিসেবে পড়েছেন: বিশাল এক ভিড়, যা নিজের ভেতরেই ঢেউয়ের মতো আছড়ে পড়ছে।"
+     }
+    },
+    {
+     "ref": "100:9",
+     "note": {
+      "en": "The question comes at the end of a surah about man's ingratitude and his love of wealth. As-Sa'di calls him “this deluded one” and explains bu‘thira as Allah bringing the dead out of their graves for their gathering. Ibn Kathir pairs it with the next ayah, which he explains from Ibn ‘Abbas: what was in their souls is exposed. The graves give up bodies; the chests give up secrets.",
+      "bn": "প্রশ্নটি এসেছে এমন এক সূরার শেষে, যা মানুষের অকৃতজ্ঞতা আর সম্পদের প্রতি তার মোহ নিয়ে। আস-সা'দী তাকে বলেছেন “এই প্রতারিত লোকটি”, আর ‘বু'সিরা’-র ব্যাখ্যা দিয়েছেন: আল্লাহ মৃতদের কবর থেকে বের করে আনবেন, তাদের একত্র করার জন্য। ইবনে কাসির একে পরের আয়াতের সঙ্গে মিলিয়েছেন, যার ব্যাখ্যা তিনি ইবনে আব্বাস (রাঃ) থেকে এনেছেন: মনের ভেতরে যা ছিল তা প্রকাশ পাবে। কবর বের করে দেবে দেহ, আর বুক বের করে দেবে গোপন কথা।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 2878a",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-2878a",
+     "text": {
+      "en": "Jabir said: I heard the Prophet ﷺ say: “Every servant will be raised upon what he died upon.”",
+      "bn": "জাবির (রাঃ) বলেন, আমি নবী ﷺ-কে বলতে শুনেছি: “প্রত্যেক বান্দাকে সেই অবস্থার ওপর ওঠানো হবে, যে অবস্থায় সে মারা গেছে।”"
+     },
+     "note": {
+      "en": "It turns the question “when will I be raised?” into “upon what will I be raised?”, and that question is answered by how a person lives now.",
+      "bn": "হাদিসটি “আমাকে কবে ওঠানো হবে?” প্রশ্নটাকে বদলে দেয় “আমাকে কী অবস্থায় ওঠানো হবে?” প্রশ্নে। আর এর উত্তর ঠিক হয় মানুষ এখন কীভাবে বাঁচছে তা দিয়ে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "bones-and-dust",
+   "title": {
+    "en": "When We Are Bones and Dust",
+    "bn": "হাড় আর মাটি হয়ে গেলেও"
+   },
+   "body": [
+    {
+     "en": "The objection recurs in nearly the same words: “When we are bones and crumbled particles…” (17:49), “When we are dust…” (13:5), “That is a distant return” (50:3), “Who will give life to bones while they are disintegrated?” (36:78). It is an objection from decay: what has rotted cannot be rebuilt. The replies gathered here meet the doubt head on, with an oath and by naming the One who will do it. The arguments follow in the next two sections.",
+     "bn": "আপত্তিটা কুরআনে বারবার এসেছে, প্রায় একই ভাষায়: “আমরা যখন হাড় আর চূর্ণ ধুলো হয়ে যাব…” (১৭:৪৯), “আমরা যখন মাটি হয়ে যাব…” (১৩:৫), “এ ফিরে আসা তো বহু দূরের কথা” (৫০:৩), “পচে গলে যাওয়া হাড়ে কে প্রাণ দেবে?” (৩৬:৭৮)। আপত্তিটা পচন থেকে: যা পচে গেছে, তা আর গড়া যায় না। এখানে জড়ো করা জবাবগুলো সরাসরি সন্দেহের মুখোমুখি হয়েছে, কসম খেয়ে আর কে এ কাজ করবেন তাঁর নাম বলে দিয়ে। যুক্তিগুলো আসছে পরের দুটি অংশে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "17:51",
+     "note": {
+      "en": "“Be stones or iron” (17:50) goes beyond bones; Ibn Kathir notes these are harder to restore. For “something greater in your breasts” he records Ibn ‘Abbas: death itself; and Mujahid: the heavens, the earth and the mountains. As-Sa'di reads “When is it?” as no admission at all: fixing its time has no benefit, what matters is affirming it, and all that is coming is near.",
+      "bn": "“পাথর বা লোহা হয়ে যাও” (১৭:৫০) কথাটা হাড়ের চেয়েও এক ধাপ এগিয়ে। ইবনে কাসির বলেন, এগুলোকে ফিরিয়ে আনা আরও কঠিন। “তোমাদের মনে যা আরও বড়” কথাটির ব্যাখ্যায় তিনি এনেছেন ইবনে আব্বাস (রাঃ)-এর মত: খোদ মৃত্যু। আর মুজাহিদের মত: আকাশ, পৃথিবী আর পাহাড়। আস-সা'দী বলেন, “সেটা কবে?” প্রশ্নে কোনো স্বীকারোক্তি নেই। সময় নির্দিষ্ট করায় লাভ নেই, লাভ একে মেনে নেওয়ায়। আর যা আসছে, তা সবই কাছে।"
+     }
+    },
+    {
+     "ref": "75:4",
+     "note": {
+      "en": "Balā, “yes”, answers the doubt before the ayah is over. Ibn Kathir: Our power is able to gather and recreate them, even to his fingertips. As-Sa'di explains why the fingertips are named: if the fingers and their tips are formed, the body's creation is complete. He adds that the denial does not come from any weakness in the evidence; as the next ayah says, man wants to deny what lies ahead of him.",
+      "bn": "‘বালা’, অর্থাৎ “অবশ্যই”, আয়াত শেষ হওয়ার আগেই সন্দেহের জবাব দিয়ে দেয়। ইবনে কাসির বলেন, হাড়গুলো জড়ো করে আবার গড়ার ক্ষমতা আমার আছে, আঙুলের ডগা পর্যন্ত। আঙুলের ডগার কথা কেন, আস-সা'দী তা বুঝিয়েছেন: আঙুল আর তার ডগা তৈরি হয়ে গেলে দেহের সৃষ্টি পূর্ণ হয়ে যায়। তিনি আরও বলেন, এই অস্বীকার প্রমাণের দুর্বলতা থেকে আসেনি। পরের আয়াত যেমন বলছে, মানুষ সামনে যা আছে তা অস্বীকারই করতে চায়।"
+     }
+    },
+    {
+     "ref": "64:7",
+     "note": {
+      "en": "Ibn Kathir notes this is one of three ayat in which the Prophet ﷺ is commanded to swear by his Lord that the resurrection is real; the others are 10:53 and 34:3. As-Sa'di explains “that is easy for Allah”: if the strength of all creatures were joined to revive one dead person, they could not, but when Allah wills a thing He says to it “Be”, and it is.",
+      "bn": "ইবনে কাসির উল্লেখ করেছেন, এটি সেই তিনটি আয়াতের একটি, যেখানে নবী ﷺ-কে তাঁর রবের কসম খেয়ে পুনরুত্থানের সত্যতা ঘোষণা করতে বলা হয়েছে। বাকি দুটি ১০:৫৩ ও ৩৪:৩। “এটা আল্লাহর জন্য সহজ” কথাটি আস-সা'দী বুঝিয়েছেন এভাবে: সমস্ত সৃষ্টির শক্তি এক করলেও একজন মৃতকে জীবিত করা যাবে না। কিন্তু আল্লাহ কোনো কিছু চাইলে শুধু বলেন “হও”, আর তা হয়ে যায়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "he-who-made-it-first",
+   "title": {
+    "en": "He Who Made It First",
+    "bn": "যিনি প্রথমবার বানিয়েছেন"
+   },
+   "body": [
+    {
+     "en": "The first argument is the one the Quran uses most: the One who began you can return you. It comes as a reply (36:79), as a principle (30:27), and as a question put to a man who knows his own beginnings (75:40). 22:5 sets it out in full, from dust to drop to clot to infant to old age, for those “in doubt about the Resurrection.” The argument asks nothing exotic of the listener. It asks him to remember that he once did not exist, and that he did not bring himself into being.",
+     "bn": "প্রথম যুক্তিটাই কুরআন সবচেয়ে বেশি ব্যবহার করেছে: যিনি আপনাকে শুরু করেছেন, তিনি আপনাকে ফিরিয়েও আনতে পারেন। কথাটা এসেছে জবাব হিসেবে (৩৬:৭৯), মূলনীতি হিসেবে (৩০:২৭), আর এমন এক মানুষের প্রতি প্রশ্ন হিসেবে, যে নিজের শুরুর কথা জানে (৭৫:৪০)। ২২:৫ পুরো ধাপগুলো সাজিয়ে দিয়েছে: মাটি, শুক্রবিন্দু, জমাট রক্ত, শিশু, বার্ধক্য। আর তা বলা হয়েছে তাদের জন্য, যারা “পুনরুত্থান নিয়ে সন্দেহে আছে।” এই যুক্তি শ্রোতার কাছে অচেনা কিছু দাবি করে না। শুধু মনে করিয়ে দেয়, একসময় সে ছিল না, আর নিজেকে সে নিজে বানায়নি।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "36:79",
+     "note": {
+      "en": "Ibn Kathir records from Mujahid, Qatadah and others that Ubayy ibn Khalaf came crumbling a decayed bone into the air; another report names al-‘As ibn Wa'il. Either way, he says, the ayat apply to every denier of the resurrection. As-Sa'di finds two proofs in the reply: the One who made it first can make it again, and He knows every creation, even what the earth has consumed of the dead and what remains.",
+      "bn": "ইবনে কাসির মুজাহিদ, কাতাদা প্রমুখ থেকে উল্লেখ করেছেন, উবাই ইবনে খালাফ একটা পচা হাড় গুঁড়িয়ে বাতাসে উড়িয়ে দিচ্ছিল। আরেক বর্ণনায় আস ইবনে ওয়াইলের নাম আছে। তিনি বলেন, যে-ই হোক, আয়াতগুলো পুনরুত্থান অস্বীকারকারী সবার জন্য। আস-সা'দী জবাবটিতে দুটি প্রমাণ দেখেছেন। যিনি প্রথমবার বানিয়েছেন, তিনি আবারও বানাতে পারেন। আর তিনি প্রতিটি সৃষ্টি সম্পর্কে জানেন, মাটি মৃতদের দেহের কতটুকু খেয়েছে আর কতটুকু বাকি, তাও।"
+     }
+    },
+    {
+     "ref": "30:27",
+     "note": {
+      "en": "“Easier for Him” is spoken to human reckoning. Ibn Kathir records Mujahid: repeating it is easier for Him than originating it, and originating it is easy for Him. As-Sa'di says the comparison is in relation to human minds: if He could begin, which you accept, He is all the more able to repeat. He notes that scholars use the same “all the more so” reasoning for the Creator's attributes.",
+      "bn": "“তাঁর জন্য আরও সহজ” কথাটা বলা হয়েছে মানুষের হিসাবের ভাষায়। ইবনে কাসির মুজাহিদের কথা এনেছেন: শুরু করার চেয়ে আবার বানানো তাঁর জন্য সহজ, আর শুরু করাও তাঁর জন্য সহজ। আস-সা'দী বলেন, তুলনাটা মানুষের বুদ্ধির বিচারে। প্রথমবার বানানোর ক্ষমতা তো আপনারা মানেন, তাহলে আবার বানানোর ক্ষমতা আরও বেশি করে মানার কথা। তিনি জানান, স্রষ্টার গুণাবলির ব্যাপারেও আলেমরা এই “আরও বেশি করে” নীতিতে যুক্তি দেন।"
+     }
+    },
+    {
+     "ref": "75:40",
+     "note": {
+      "en": "The surah closes on this question after tracing man from an emitted drop to a clot to a formed body, male and female. Ibn Kathir reads 75:36, “left neglected”, both ways he finds in the early scholars: not resurrected (as-Suddi), and not commanded and forbidden (Mujahid, ash-Shafi‘i, Ibn Zayd); the ayah, he says, includes both. Then, he says, Allah uses the beginning of creation as proof of its repetition.",
+      "bn": "সূরাটি শেষ হয়েছে এই প্রশ্নে, তার আগে মানুষকে দেখানো হয়েছে স্খলিত শুক্রবিন্দু থেকে জমাট রক্ত, তারপর গঠিত দেহ, পুরুষ ও নারী। ৭৫:৩৬-এর “এমনি ছেড়ে দেওয়া” কথাটির দুটি ব্যাখ্যাই ইবনে কাসির পূর্বসূরিদের কাছে পেয়েছেন। আস-সুদ্দি বলেছেন, পুনরুত্থান হবে না। মুজাহিদ, ইমাম শাফেয়ি ও ইবনে যায়দ বলেছেন, আদেশ-নিষেধ থাকবে না। তাঁর মতে আয়াতে দুটোই আছে। তারপর, তিনি বলেন, আল্লাহ সৃষ্টির সূচনাকেই তার পুনরাবৃত্তির প্রমাণ বানিয়েছেন।"
+     }
+    },
+    {
+     "ref": "22:5",
+     "note": {
+      "en": "As-Sa'di notes the conditional: the duty was to believe Allah and His messengers, but if you insist on doubt, here are two proofs you witness: your own creation in stages, and the barren earth stirred by rain. Allah could complete a creation in a single moment, he adds, but the stages show His wisdom, power and mercy.",
+      "bn": "আস-সা'দী শর্তটার দিকে নজর দিয়েছেন। কর্তব্য ছিল আল্লাহ ও তাঁর রাসূলদের কথা বিশ্বাস করা। তবু যদি সন্দেহেই অটল থাকেন, তাহলে চোখের সামনে দুটি প্রমাণ আছে: ধাপে ধাপে আপনার নিজের সৃষ্টি, আর বৃষ্টিতে জেগে ওঠা মরা মাটি। তিনি যোগ করেন, আল্লাহ চাইলে এক মুহূর্তেই সৃষ্টি পূর্ণ করতে পারতেন। কিন্তু ধাপগুলো তাঁর হিকমত, কুদরত আর রহমত দেখিয়ে দেয়।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 4974",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-4974",
+     "text": {
+      "en": "Abu Hurayrah narrated that the Prophet ﷺ said: “Allah said: The son of Adam belies Me, and he has no right to do so; and he reviles Me, and he has no right to do so. As for his belying Me, it is his saying that I will not recreate him as I created him the first time, though the first creation is not easier for Me than recreating him. As for his reviling Me, it is his saying that Allah has taken a son, while I am the One, the Self-Sufficient; I neither beget nor was I begotten, and there is none equal to Me.”",
+      "bn": "আবু হুরায়রা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: “আল্লাহ বলেছেন: আদম সন্তান আমাকে মিথ্যাবাদী বলে, অথচ তার এ অধিকার নেই। সে আমাকে গালি দেয়, অথচ তার এ অধিকারও নেই। আমাকে মিথ্যাবাদী বলা হলো তার এই কথা যে, আমি তাকে প্রথমবার যেভাবে সৃষ্টি করেছি, সেভাবে আর ফিরিয়ে আনব না। অথচ প্রথম সৃষ্টি আমার কাছে আবার সৃষ্টির চেয়ে সহজ নয়। আর আমাকে গালি দেওয়া হলো তার এই কথা যে, আল্লাহ সন্তান গ্রহণ করেছেন। অথচ আমি এক, অমুখাপেক্ষী। আমি কাউকে জন্ম দিইনি, আমাকেও জন্ম দেওয়া হয়নি, আর আমার সমকক্ষ কেউ নেই।”"
+     },
+     "note": {
+      "en": "Denying the resurrection is set beside ascribing a son to Allah. The middle sentence meets 30:27 from the other side: the first creation was not easier for Him than the second.",
+      "bn": "এখানে পুনরুত্থান অস্বীকার করাকে রাখা হয়েছে আল্লাহর প্রতি সন্তান আরোপের পাশে। মাঝের বাক্যটি ৩০:২৭-এর কথাকে উল্টো দিক থেকে বলে: প্রথম সৃষ্টি তাঁর কাছে দ্বিতীয়টির চেয়ে সহজ ছিল না।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "dead-earth-vast-heavens",
+   "title": {
+    "en": "Dead Earth, Vast Heavens",
+    "bn": "মরা মাটি, বিশাল আকাশ"
+   },
+   "body": [
+    {
+     "en": "The second argument is visible every rainy season. Ground that looked dead greens and swells, and the Quran draws the conclusion itself: “thus is the resurrection” (35:9), “thus is the emergence” (50:11). The third is the heavens and the earth: whoever made something that vast without being wearied by it is not defeated by restoring a human being (46:33, 36:81). Together with the first, these give the doubter three things to look at: himself, the ground beneath him, and the sky above him.",
+     "bn": "দ্বিতীয় যুক্তিটা প্রতি বর্ষায় চোখের সামনে ঘটে। যে মাটিকে মৃত মনে হচ্ছিল, তা সবুজ হয়ে ফুলে ওঠে। আর সিদ্ধান্তটা কুরআন নিজেই টেনেছে: “এভাবেই হবে পুনরুত্থান” (৩৫:৯), “এভাবেই হবে বের হওয়া” (৫০:১১)। তৃতীয় যুক্তি আকাশ আর পৃথিবী। এত বিশাল জিনিস যিনি বানিয়েছেন অথচ ক্লান্ত হননি, একজন মানুষকে ফিরিয়ে আনতে তিনি অক্ষম হবেন না (৪৬:৩৩, ৩৬:৮১)। প্রথম যুক্তির সঙ্গে মিলিয়ে সন্দেহকারীর সামনে দেখার মতো তিনটি জিনিস: সে নিজে, তার পায়ের নিচের মাটি, আর মাথার ওপরের আকাশ।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "41:39",
+     "note": {
+      "en": "Ibn Kathir reads “among His signs” as signs of His ability to bring the dead back to life. Khāshi‘ah, the word for the still, lifeless ground, shares its root with the humbled eyes of 54:7. As-Sa'di draws the conclusion the ayah itself states: just as His power did not fail to revive the earth after its death, it will not fail to revive the dead.",
+      "bn": "ইবনে কাসির “তাঁর নিদর্শনগুলোর মধ্যে” কথাটিকে পড়েছেন মৃতকে জীবিত করার ক্ষমতার নিদর্শন হিসেবে। নিথর, প্রাণহীন মাটির জন্য যে শব্দটি এসেছে, ‘খাশিআহ’, তার মূল ধাতু আর ৫৪:৭-এ নত চোখের শব্দটির মূল ধাতু একই। আস-সা'দী সেই সিদ্ধান্তটাই টেনেছেন, যা আয়াত নিজেই বলেছে: মরা মাটিকে জীবিত করতে যাঁর কুদরত অক্ষম হয়নি, মৃতদের জীবিত করতেও তা অক্ষম হবে না।"
+     }
+    },
+    {
+     "ref": "35:9",
+     "note": {
+      "en": "Ibn Kathir says the Quran often refers to the resurrection through the earth revived after its death, and points to the opening of al-Hajj (22:5). He describes the resurrection on this pattern: rain is sent upon the dead, and their bodies grow in their graves as seeds grow. As-Sa'di says the rain is driven to them as it was driven to the dead land, and bodies and souls come to life from the graves.",
+      "bn": "ইবনে কাসির বলেন, কুরআন প্রায়ই পুনরুত্থানের কথা বলেছে মৃত্যুর পর মাটির জেগে ওঠার উপমা দিয়ে, আর তিনি সূরা হজের শুরুর দিকে (২২:৫) ইঙ্গিত করেছেন। তিনি পুনরুত্থানকে এই ছাঁচেই বর্ণনা করেছেন: মৃতদের ওপর বৃষ্টি পাঠানো হবে, আর কবরে তাদের দেহ গজিয়ে উঠবে যেভাবে বীজ গজায়। আস-সা'দী বলেন, মরা জমিনের দিকে যেভাবে বৃষ্টি চালিয়ে নেওয়া হয়, তাদের দিকেও সেভাবে চালিয়ে নেওয়া হবে, আর কবর থেকে দেহ ও রূহ জীবিত হয়ে উঠবে।"
+     }
+    },
+    {
+     "ref": "46:33",
+     "note": {
+      "en": "Ibn Kathir says it is addressed to those who deny the raising of bodies, and explains “did not fail” as: their creation did not burden Him; He said “Be” and they were, obedient and responsive. He cites 40:57: the creation of the heavens and earth is greater than the creation of mankind. As-Sa'di calls this an argument from what is greater: how could returning you after death be beyond Him?",
+      "bn": "ইবনে কাসির বলেন, আয়াতটি তাদের উদ্দেশে, যারা দেহের পুনরুত্থান অস্বীকার করে। “ক্লান্ত হননি” কথাটির ব্যাখ্যা তিনি দিয়েছেন: এগুলো সৃষ্টি করা তাঁর জন্য কোনো ভার ছিল না। তিনি বলেছেন “হও”, আর এগুলো অনুগত হয়ে সাড়া দিয়ে অস্তিত্বে এসেছে। তিনি ৪০:৫৭ উল্লেখ করেছেন: মানুষ সৃষ্টির চেয়ে আকাশ ও পৃথিবীর সৃষ্টি বড়। আস-সা'দী একে বলেছেন বড়টি দিয়ে ছোটটির প্রমাণ: মৃত্যুর পর আপনাদের ফিরিয়ে আনা তাঁর সাধ্যের বাইরে হয় কী করে?"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "When someone asks when the Hour will come, answer as the Prophet ﷺ was told to: its knowledge is with Allah. Then ask what you are bringing to it.",
+   "bn": "কেউ কিয়ামতের সময় জানতে চাইলে সেভাবেই উত্তর দিন, যেভাবে নবী ﷺ-কে বলতে বলা হয়েছিল: এর জ্ঞান আল্লাহর কাছে। তারপর নিজেকে জিজ্ঞেস করুন, সেদিনের জন্য আপনি কী নিয়ে যাচ্ছেন।"
+  },
+  {
+   "en": "Treat any claimed date or countdown for the Hour with Abu Hurayrah's restraint: he declined even to say whether the forty were days, months or years.",
+   "bn": "কিয়ামতের কোনো দাবি করা তারিখ বা গোনা দিনের হিসাব শুনলে আবু হুরায়রা (রাঃ)-এর সংযম মনে রাখুন। চল্লিশ মানে দিন, মাস না বছর, এটুকুও তিনি বলতে রাজি হননি।"
+  },
+  {
+   "en": "Read Surahs 81, 82 and 84 slowly, as the hadith in at-Tirmidhi invites, letting each “when” land before the answer comes.",
+   "bn": "তিরমিজির হাদিস যেমন ডাকছে, সেভাবে সূরা তাকভির, ইনফিতার আর ইনশিকাক ধীরে ধীরে পড়ুন। উত্তর আসার আগে প্রতিটি “যখন” মনের ভেতর বসতে দিন।"
+  },
+  {
+   "en": "When rain greens a dry field, recall 35:9, “thus is the resurrection,” and let an ordinary sight become a reminder.",
+   "bn": "বৃষ্টিতে শুকনো মাঠ সবুজ হতে দেখলে ৩৫:৯ মনে করুন, “এভাবেই হবে পুনরুত্থান।” রোজকার একটা দৃশ্যই তখন হয়ে উঠবে উপদেশ।"
+  },
+  {
+   "en": "If doubt about the resurrection troubles you or someone close to you, use the Quran's own arguments: your first creation, the revived earth, and the heavens (36:79, 30:27, 46:33).",
+   "bn": "পুনরুত্থান নিয়ে সন্দেহ যদি আপনাকে বা আপনার কাছের কাউকে পীড়া দেয়, কুরআনের নিজের যুক্তিগুলোই কাজে লাগান: প্রথম সৃষ্টি, জেগে ওঠা মাটি আর আকাশমণ্ডলী (৩৬:৭৯, ৩০:২৭, ৪৬:৩৩)।"
+  },
+  {
+   "en": "Since every servant will be raised upon what he died upon, live each day in the state you would want to rise in.",
+   "bn": "প্রত্যেক বান্দাকে যেহেতু সেই অবস্থায় ওঠানো হবে যে অবস্থায় সে মারা গেছে, তাই প্রতিটি দিন এমনভাবে কাটান, যে অবস্থায় আপনি জেগে উঠতে চান।"
+  }
+ ],
  "refs": [
   "2:28",
   "2:113",
@@ -27,10 +405,13 @@
   "5:36",
   "5:64",
   "6:12",
+  "6:59",
   "6:73",
   "7:32",
   "7:53",
   "7:167",
+  "7:187",
+  "10:53",
   "10:93",
   "11:59",
   "11:60",
@@ -43,6 +424,7 @@
   "16:38",
   "16:39",
   "16:40",
+  "16:77",
   "16:92",
   "16:124",
   "17:13",
@@ -65,6 +447,7 @@
   "19:71",
   "19:72",
   "19:95",
+  "20:15",
   "20:55",
   "20:100",
   "20:101",
@@ -87,15 +470,8 @@
   "28:61",
   "28:71",
   "28:72",
-  "28:73",
   "28:74",
   "28:75",
-  "28:76",
-  "28:77",
-  "28:78",
-  "28:79",
-  "28:80",
-  "28:81",
   "28:85",
   "29:13",
   "29:20",
@@ -108,10 +484,17 @@
   "31:28",
   "31:34",
   "32:25",
+  "33:63",
+  "34:3",
   "34:7",
+  "35:9",
   "35:14",
   "36:12",
+  "36:52",
+  "36:53",
+  "36:78",
   "36:79",
+  "36:81",
   "38:79",
   "39:15",
   "39:24",
@@ -128,6 +511,7 @@
   "39:74",
   "39:75",
   "40:46",
+  "40:57",
   "41:39",
   "41:40",
   "41:47",
@@ -142,6 +526,7 @@
   "46:33",
   "46:34",
   "50:3",
+  "50:11",
   "50:20",
   "50:21",
   "50:22",
@@ -165,8 +550,9 @@
   "58:7",
   "58:18",
   "60:3",
-  "63:7",
+  "64:7",
   "68:39",
+  "69:13",
   "71:18",
   "75:1",
   "75:2",
@@ -183,10 +569,14 @@
   "75:13",
   "75:14",
   "75:15",
+  "75:36",
+  "75:40",
   "78:18",
   "79:10",
   "79:11",
   "79:12",
+  "79:13",
+  "79:14",
   "80:22",
   "80:33",
   "80:34",
@@ -198,17 +588,103 @@
   "80:40",
   "80:41",
   "80:42",
+  "81:1",
+  "81:14",
+  "82:1",
+  "82:5",
   "83:4",
+  "84:1",
+  "84:2",
+  "84:4",
   "85:2",
   "85:13",
   "86:5",
   "86:6",
   "86:7",
   "86:8",
-  "88:1"
+  "88:1",
+  "99:2",
+  "99:4",
+  "99:5",
+  "100:9",
+  "101:4"
+ ],
+ "refsDropped": [
+  {
+   "ref": "28:73",
+   "reason": "Night and day as a mercy in this world; no reference to the resurrection."
+  },
+  {
+   "ref": "28:76",
+   "reason": "Qarun's wealth and arrogance; the Qarun narrative (28:76-81) does not speak of the resurrection."
+  },
+  {
+   "ref": "28:77",
+   "reason": "Advice given to Qarun by his people; part of the Qarun narrative, not about the resurrection."
+  },
+  {
+   "ref": "28:78",
+   "reason": "Qarun's claim that his wealth came from his knowledge; Qarun narrative."
+  },
+  {
+   "ref": "28:79",
+   "reason": "Qarun parading before his people; Qarun narrative."
+  },
+  {
+   "ref": "28:80",
+   "reason": "The people of knowledge answering those dazzled by Qarun; Qarun narrative."
+  },
+  {
+   "ref": "28:81",
+   "reason": "The earth swallowing Qarun in this world; a worldly punishment, not the resurrection."
+  },
+  {
+   "ref": "63:7",
+   "reason": "The hypocrites urging others not to spend on the Prophet's companions; no reference to the resurrection or the Hour."
+  }
  ],
  "videos": [],
- "reading": [],
- "sources": [],
- "related": []
+ "reading": [
+  {
+   "title": {
+    "en": "Resurrection after death",
+    "bn": "মৃত্যুর পর পুনরুত্থান"
+   },
+   "url": "https://islamqa.info/en/answers/6974",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "How many times will the Trumpet be blown?",
+    "bn": "শিঙ্গায় কতবার ফুঁ দেওয়া হবে?"
+   },
+   "url": "https://islamqa.info/en/answers/49009",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "The horrors of the Day of Resurrection and what comes after",
+    "bn": "কেয়ামতের ভয়াবহতা ও তারপর"
+   },
+   "url": "https://islamhouse.com/read/bn/%E0%A6%95%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AC%E0%A6%B9%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A6%B0-262011",
+   "site": "islamhouse.com",
+   "lang": "bn"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir",
+  "Tafsir as-Sa'di",
+  "Tafsir al-Qurtubi",
+  "Sahih al-Bukhari",
+  "Sahih Muslim",
+  "Jami' at-Tirmidhi"
+ ],
+ "related": [
+  "th-judgement",
+  "th-hereafter",
+  "th-hell",
+  "th-paradise"
+ ]
 }

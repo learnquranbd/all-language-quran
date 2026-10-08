@@ -1,14 +1,352 @@
 {
  "id": "th-hereafter",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "The Hereafter",
   "bn": "আখিরাত"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "This life is the first of two, and the shorter; the Quran asks you to live it knowing that.",
+  "bn": "এই জীবন দুটোর প্রথমটা, আর ছোটটা। কুরআন চায়, আপনি সেটা জেনেই বাঁচুন।"
+ },
+ "intro": [
+  {
+   "en": "Al-ākhirah means, at root, “the last”: the home that comes after this one. As-Sa‘di, under 2:4, defines it as the name for everything that comes after death, and Ibn Kathir lists what it gathers: the resurrection, the standing, the reckoning, the Scale, Paradise and the Fire. Those events have their own pages here (The Resurrection, The Day of Judgement, Paradise, Hell). This page asks something prior to them: what does it do to a person’s days now to be certain that this life is the first of two, and the shorter?",
+   "bn": "আখিরাত শব্দের মূল অর্থ “শেষেরটা”, অর্থাৎ এই জীবনের পরে যে ঘর। ২:৪-এর ব্যাখ্যায় আস-সাদি বলেছেন, মৃত্যুর পরে যা কিছু আছে, তার সবকিছুর নামই আখিরাত। ইবনে কাসির এর ভেতরের বিষয়গুলো গুনে দেখিয়েছেন: পুনরুত্থান, হাশরের ময়দানে দাঁড়ানো, হিসাব, মিজান, জান্নাত আর জাহান্নাম। এসবের জন্য এখানে আলাদা পাতা আছে (পুনরুত্থান, বিচার দিবস, জান্নাত, জাহান্নাম)। এই পাতার প্রশ্ন তার আগের: এই জীবন যে দুটোর প্রথমটা, আর ছোটটা, এ কথায় যে নিশ্চিত, তার আজকের দিনগুলো কেমন হয়?"
+  },
+  {
+   "en": "The Quran rarely mentions the Hereafter on its own. It sets it beside ad-dunyā, the near life, and asks the reader to compare: in worth, in length, in what each is for. The ayat gathered here follow that comparison: certainty as part of faith, the real weight of this world, the two kinds of wanting, what denial does to conduct, and the barzakh that lies between death and rising. They end on a practical question: how does someone who knows the lasting home is the next one hold his wealth and his ambitions?",
+   "bn": "কুরআন আখিরাতের কথা একা খুব কমই বলে। প্রায় সবসময় পাশে রাখে দুনিয়াকে, মানে কাছের জীবনটাকে, তারপর পাঠককে মিলিয়ে দেখতে বলে: কোনটার দাম কত, কোনটা কতদিনের, কোনটা কীসের জন্য। এখানে জড়ো করা আয়াতগুলো সেই তুলনার পথ ধরে এগোয়। ঈমানের অংশ হিসেবে ইয়াকিন, দুনিয়ার আসল ওজন, দুই রকম চাওয়া, অস্বীকার মানুষের আচরণে কী করে, আর মৃত্যু ও পুনরুত্থানের মাঝের বারজাখ। শেষে একেবারে কাজের প্রশ্ন: যে জানে স্থায়ী ঘরটা ওপারে, সে নিজের সম্পদ আর উচ্চাশা কীভাবে সামলায়?"
+  }
+ ],
+ "sections": [
+  {
+   "id": "certainty-not-opinion",
+   "title": {
+    "en": "Certainty, Not Opinion",
+    "bn": "ধারণা নয়, ইয়াকিন"
+   },
+   "body": [
+    {
+     "en": "The opening of al-Baqarah describes the God-fearing through a run of deeds: they believe in the unseen, pray, spend, and believe in what was revealed. Then the Hereafter gets its own clause and a stronger verb: of the Hereafter they are certain. Belief in it is one of the pillars of faith, and the Quran asks for more than assent. As-Sa‘di defines yaqīn as complete knowledge without the least doubt, of the kind that obliges action. The ayat below show what that certainty is expected to produce: acceptance of the Book, guarded prayer, and a heart that holds fear and hope together.",
+     "bn": "সূরা বাকারার শুরুতে মুত্তাকিদের পরিচয় এসেছে কয়েকটা কাজের তালিকায়: তারা গায়েবে ঈমান আনে, নামাজ কায়েম করে, খরচ করে, নাজিল হওয়া কিতাবে ঈমান আনে। তারপর আখিরাতের জন্য আলাদা একটা বাক্যাংশ, আর ক্রিয়াটাও জোরালো: আখিরাতের ব্যাপারে তারা ইয়াকিন রাখে। আখিরাতে ঈমান ঈমানের রুকনগুলোর একটা, আর কুরআন এখানে শুধু মেনে নেওয়াতেই সন্তুষ্ট নয়। আস-সাদির সংজ্ঞায় ইয়াকিন এমন পূর্ণ জ্ঞান, যাতে বিন্দুমাত্র সন্দেহ নেই, আর যা মানুষকে আমলে টেনে নেয়। নিচের আয়াতগুলো দেখায়, এই ইয়াকিন থেকে কী জন্মানোর কথা: কিতাবকে গ্রহণ করা, নামাজের হেফাজত, আর এমন অন্তর, যেখানে ভয় ও আশা একসঙ্গে থাকে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:4",
+     "note": {
+      "en": "Why name the Hereafter separately, after “what was revealed to you,” which already speaks of it? As-Sa‘di gives two reasons: belief in the Last Day is one of the pillars of faith, and it is the strongest motive there is for longing, fear and action. Ibn Kathir notes that it is called al-ākhirah because it comes after this worldly life, and that the believer’s qualities here require one another: certainty in the Hereafter is not sound without the rest.",
+      "bn": "“তোমার প্রতি যা নাজিল হয়েছে” তাতে তো আখিরাতের কথাও আছে। তবু আলাদা করে আখিরাতের নাম কেন? আস-সাদি দুটো কারণ বলেছেন। শেষ দিবসে ঈমান ঈমানের রুকনগুলোর একটা। আর আগ্রহ, ভয় ও আমলের পেছনে এর চেয়ে বড় চালিকাশক্তি নেই। ইবনে কাসির বলেন, দুনিয়ার জীবনের পরে আসে বলেই এর নাম আখিরাত। তিনি এটাও বলেন, এখানে মুমিনের গুণগুলো একটা আরেকটাকে দাবি করে; বাকিগুলো ছাড়া আখিরাতের ইয়াকিন ঠিক থাকে না।"
+     }
+    },
+    {
+     "ref": "27:3",
+     "note": {
+      "en": "Almost the same words close another description: here those who establish prayer and give zakāh are the ones certain of the Hereafter (31:4 repeats it). As-Sa‘di reads it as faith that has reached the rank of certainty, knowledge that reaches the heart and calls to action. He draws the consequence: certainty in the Hereafter requires full effort for it and wariness of whatever brings punishment. That, he says, is the root of all good.",
+      "bn": "প্রায় একই কথা দিয়ে শেষ হয়েছে আরেকটা বর্ণনা। এখানে যারা নামাজ কায়েম করে আর জাকাত দেয়, তারাই আখিরাতে ইয়াকিন রাখে (৩১:৪-এ কথাটা আবার এসেছে)। আস-সাদির ব্যাখ্যায়, এদের ঈমান ইয়াকিনের স্তরে পৌঁছে গেছে: এমন জ্ঞান, যা অন্তরে গিয়ে বসে এবং আমলের দিকে ডাকে। ফলটাও তিনি বলে দিয়েছেন। আখিরাতে ইয়াকিন থাকলে তার জন্য পুরো চেষ্টা থাকবে, আর শাস্তি ডেকে আনে এমন সবকিছু থেকে সাবধানতা থাকবে। তাঁর ভাষায়, এটাই সব কল্যাণের মূল।"
+     }
+    },
+    {
+     "ref": "6:92",
+     "note": {
+      "en": "This ayah ties belief in the Hereafter to belief in the Quran itself: those who believe in the Hereafter believe in this Book, and they guard their prayers. As-Sa‘di explains the link through fear: when fear is in the heart, it fills every corner of it, and the person yields to what pleases Allah. Ibn Kathir reads it as those who believe in Allah and the Last Day believing in the blessed Book revealed to Muhammad ﷺ.",
+      "bn": "এই আয়াত আখিরাতের ঈমানকে কুরআনের ঈমানের সঙ্গে বেঁধে দিয়েছে: যারা আখিরাতে ঈমান রাখে, তারা এই কিতাবে ঈমান আনে, আর নিজেদের নামাজের হেফাজত করে। দুটোর যোগসূত্র আস-সাদি দেখিয়েছেন ভয় দিয়ে। অন্তরে ভয় থাকলে তা অন্তরের প্রতিটি কোণ ভরে দেয়, আর মানুষ আল্লাহর পছন্দের কাজে নিজেকে সঁপে দেয়। ইবনে কাসিরের পাঠে, যারা আল্লাহ ও শেষ দিবসে ঈমান রাখে, তারা মুহাম্মাদ ﷺ-এর ওপর নাজিল হওয়া এই বরকতময় কিতাবেও ঈমান আনে।"
+     }
+    },
+    {
+     "ref": "39:9",
+     "note": {
+      "en": "Certainty does not mean feeling secure about one’s own end. The one praised here stands and prostrates at night, “fearing the Hereafter and hoping for the mercy of his Lord.” As-Sa‘di names what each attaches to: the fear is of the Hereafter’s punishment for past sins, the hope is for Allah’s mercy. Ibn Kathir says both are essential in worship, with fear meant to be the stronger during one’s lifetime and hope uppermost at the time of death.",
+      "bn": "ইয়াকিন মানে নিজের পরিণতি নিয়ে নিশ্চিন্ত থাকা নয়। এখানে যার প্রশংসা, সে রাতে দাঁড়ায় আর সিজদা করে, “আখিরাতকে ভয় করে এবং রবের রহমতের আশা রাখে।” আস-সাদি দুটোর লক্ষ্য আলাদা করে দেখিয়েছেন: ভয়টা অতীত গুনাহের জন্য আখিরাতের শাস্তির, আশাটা আল্লাহর রহমতের। ইবনে কাসির বলেন, ইবাদতে দুটোই জরুরি। জীবদ্দশায় ভয়টা বেশি থাকা উচিত, আর মৃত্যুর সময় আশাটাই ওপরে থাকে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-true-life",
+   "title": {
+    "en": "The Life That Is Truly Life",
+    "bn": "যে জীবন আসল জীবন"
+   },
+   "body": [
+    {
+     "en": "The Quran’s comparisons of the two lives are blunt, and meant to be. This world is play and diversion (6:32); it moves through adornment, boasting and rivalry in wealth and children, and ends like a field turned to straw (57:20); it is the enjoyment of delusion (3:185). Against it, the home of the Hereafter is called al-ḥayawān, life in its full sense (29:64), and “better and more lasting” (87:17). The same Book tells a rich man not to forget his share of the world (28:77; on the two readings of that “share”, see the last section).",
+     "bn": "দুই জীবনের তুলনায় কুরআন খুব সোজা ভাষা ব্যবহার করে, আর সেটা ইচ্ছা করেই। দুনিয়া খেলা আর তামাশা (৬:৩২)। এর ধাপগুলো হলো সাজসজ্জা, বড়াই, সম্পদ আর সন্তানে পাল্লা, তারপর সব শুকিয়ে খড়কুটো (৫৭:২০)। এ এক ধোঁকার সামগ্রী (৩:১৮৫)। উল্টো দিকে আখিরাতের ঘরকে বলা হয়েছে আল-হায়াওয়ান, পূর্ণ অর্থে জীবন (২৯:৬৪), আর “উত্তম ও বেশি স্থায়ী” (৮৭:১৭)। একই কিতাব এক ধনী লোককে বলছে, দুনিয়ার ভাগটা ভুলে যেয়ো না (২৮:৭৭; এই “ভাগ”-এর দুই রকম পাঠ শেষ অংশে দেখুন)।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "6:32",
+     "note": {
+      "en": "As-Sa‘di separates the two words: la‘ib, play, is of the body, and lahw, diversion, is of the heart; hearts are absorbed in the world, and being busy with it is like children at play. Ibn Kathir limits the scope: most of it is play and diversion. The closing “will you not reason?” makes the choice a matter of sense, and as-Sa‘di adds a qualifier: the better home is not for everyone, but for those who fear Allah.",
+      "bn": "আস-সাদি শব্দ দুটো আলাদা করেছেন। লাইব, খেলা, শরীরের ব্যাপার; লাহব, মত্ত থাকা, অন্তরের ব্যাপার। অন্তর দুনিয়ায় ডুবে থাকে, আর দুনিয়া নিয়ে ব্যস্ততা যেন বাচ্চাদের খেলা। ইবনে কাসির পরিধিটা সীমিত করেছেন: এর বেশির ভাগটাই খেলা আর তামাশা। আয়াতের শেষ প্রশ্ন, “তবুও কি তোমরা বুঝবে না?”, বাছাইটাকে বুদ্ধির প্রশ্ন বানিয়ে দেয়। আস-সাদি একটা শর্তও মনে করিয়ে দেন: উত্তম ঘরটা সবার জন্য নয়, তাকওয়াওয়ালাদের জন্য।"
+     }
+    },
+    {
+     "ref": "29:64",
+     "note": {
+      "en": "The same pair returns in the Arabic, reversed: lahw then la‘ib. What is new is the word for the next life, al-ḥayawān, an intensive form of “life.” Ibn Kathir explains it as the true, everlasting life that never ends. As-Sa‘di reads it as complete life: bodies and strengths created for living, with nothing missing that makes life whole. On “if only they knew,” both reach the same conclusion: whoever truly knows would prefer what lasts.",
+      "bn": "আরবিতে শব্দ দুটো এখানে উল্টো ক্রমে ফিরে এসেছে: আগে লাহব, তারপর লাইব। নতুন যা, তা হলো পরের জীবনের নাম, আল-হায়াওয়ান, “জীবন” শব্দের জোরালো রূপ। ইবনে কাসিরের ব্যাখ্যায়, এ সেই আসল চিরস্থায়ী জীবন, যা কখনো শেষ হয় না। আস-সাদি বলেন পূর্ণ জীবন: সেখানকার শরীর ও শক্তি তৈরিই হয়েছে বেঁচে থাকার জন্য, জীবনকে পূর্ণ করে এমন কিছুই সেখানে বাদ নেই। “যদি তারা জানত” অংশে দুজনই এক কথায় পৌঁছান: যে সত্যিই জানে, সে স্থায়ীটাকেই বেছে নেবে।"
+     }
+    },
+    {
+     "ref": "57:20",
+     "note": {
+      "en": "Five stages — play, diversion, adornment, boasting, rivalry in wealth and children — then a parable of rain, growth, yellowing and straw. Ibn Kathir also reads the parable as a person’s life: young and strong, then old and feeble. As-Sa‘di draws the practical line: whoever knows the world makes it a crossing, not a residence, and answers those who outdo him in wealth by outdoing them in good deeds. The ayah then leaves two outcomes only: severe punishment, or forgiveness and good pleasure.",
+      "bn": "পাঁচটা ধাপ: খেলা, তামাশা, সাজসজ্জা, পরস্পরে বড়াই, সম্পদ আর সন্তানে পাল্লা। তারপর এক উপমা: বৃষ্টি, ফসল, হলুদ হয়ে যাওয়া, খড়কুটো। ইবনে কাসির উপমাটাকে মানুষের জীবন হিসেবেও পড়েছেন: শুরুতে তরুণ ও শক্ত, তারপর বুড়ো ও দুর্বল। আস-সাদি কাজের কথাটা টেনেছেন। দুনিয়াকে যে চেনে, সে একে পারাপারের পথ বানায়, বসবাসের জায়গা নয়। কেউ সম্পদে তাকে ছাড়িয়ে যেতে চাইলে সে নেক আমলে পাল্লা দেয়। আয়াতটা শেষে দুটো পরিণতিই রাখে: কঠিন শাস্তি, নয়তো মাগফিরাত আর সন্তুষ্টি।"
+     }
+    },
+    {
+     "ref": "87:16-17",
+     "note": {
+      "en": "“But you prefer the worldly life, while the Hereafter is better and more lasting.” As-Sa‘di: better in every quality one could seek, and more lasting because it is the home of permanence; the sensible believer does not sell an hour’s pleasure for lasting grief. Then he calls love of the world, and preferring it over the Hereafter, the head of every sin. Ibn Kathir asks how an intelligent person could prefer what will soon pass over what remains.",
+      "bn": "“বরং তোমরা দুনিয়ার জীবনকেই প্রাধান্য দাও, অথচ আখিরাত উত্তম ও বেশি স্থায়ী।” আস-সাদি বলেন, মানুষ যে গুণ চায় তার প্রতিটিতে আখিরাত উত্তম, আর বেশি স্থায়ী কারণ সেটা চিরকাল থাকার ঘর। বুদ্ধিমান মুমিন এক ঘণ্টার মজার বদলে চিরকালের দুঃখ কেনে না। তারপর তিনি বলেন, দুনিয়ার মোহ আর আখিরাতের ওপর একে প্রাধান্য দেওয়াই সব গুনাহের মাথা। ইবনে কাসিরের প্রশ্ন: যা শিগগির চলে যাবে, তাকে যা থাকবে তার ওপর একজন বুদ্ধিমান মানুষ কীভাবে বেছে নেয়?"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 2858",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-2858",
+     "text": {
+      "en": "Al-Mustawrid, of Banu Fihr, reported that the Messenger of Allah ﷺ said: “By Allah, this world compared with the Hereafter is only like what one of you gets when he puts this finger of his (the narrator Yahya pointed with his forefinger) into the sea: let him see what it comes back with.”",
+      "bn": "বনু ফিহরের মুস্তাওরিদ (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: “আল্লাহর কসম, আখিরাতের তুলনায় দুনিয়া কেবল এতটুকু, যেমন তোমাদের কেউ তার এই আঙুলটা (বর্ণনাকারী ইয়াহইয়া তর্জনী দিয়ে ইশারা করলেন) সমুদ্রে ডোবায়। তারপর সে দেখুক, আঙুলটা কী নিয়ে ফেরে।”"
+     },
+     "note": {
+      "en": "Ibn Kathir quotes this hadith under 3:185, beside “the life of this world is only the enjoyment of delusion.” The image does not call the drop worthless; it shows what proportion it bears to the sea. That is the comparison the ayat of this section keep making.",
+      "bn": "ইবনে কাসির এই হাদিসটা এনেছেন ৩:১৮৫-এর ব্যাখ্যায়, “দুনিয়ার জীবন ধোঁকার সামগ্রী ছাড়া কিছু নয়” কথাটার পাশে। ছবিটা ফোঁটাকে মূল্যহীন বলছে না, দেখাচ্ছে সমুদ্রের তুলনায় তার পরিমাণ কতটুকু। এই অংশের আয়াতগুলো বারবার ঠিক এই তুলনাটাই করে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "two-harvests",
+   "title": {
+    "en": "Two Wants, Two Harvests",
+    "bn": "দুই চাওয়া, দুই ফসল"
+   },
+   "body": [
+    {
+     "en": "Several ayat sort people not by what they have but by what they want: man kāna yurīdu, whoever wants. The pattern holds each time. Wanting this world is answered, but conditionally and only here. Wanting the Hereafter is answered there, with increase, and without losing what was written for one here. The difference lies in intention more than in activity: two people can farm the same field, trade in the same market and pray in the same row, and want different things from it. The du‘ā of 2:201 shows wanting in its balanced form: good in both.",
+     "bn": "কয়েকটা আয়াত মানুষকে ভাগ করেছে তার কী আছে তা দিয়ে নয়, সে কী চায় তা দিয়ে: মান কানা ইউরিদু, যে চায়। ধারাটা প্রতিবার একই। দুনিয়া চাইলে পাওয়া যায়, তবে শর্তসাপেক্ষে, আর শুধু এখানেই। আখিরাত চাইলে সেখানে পাওয়া যায়, বাড়িয়ে, আর এখানকার লেখা ভাগটাও হারাতে হয় না। তফাতটা কাজের চেয়ে নিয়তে বেশি। দুজন মানুষ একই জমি চাষ করে, একই বাজারে কেনাবেচা করে, একই কাতারে নামাজ পড়ে, অথচ চায় আলাদা জিনিস। ২:২০১-এর দোয়া চাওয়ার ভারসাম্যপূর্ণ রূপটা দেখায়: দুই জায়গাতেই কল্যাণ।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "17:18-19",
+     "note": {
+      "en": "The first ayah carries two limits: “what We will, for whom We intend.” Ibn Kathir notes that not everyone who wants the world gets what he wants; this ayah narrows the general statements elsewhere. The second sets three conditions: wanting the Hereafter, striving for it with the effort due to it, and being a believer. Ibn Kathir explains the due effort as seeking it the right way, by following the Messenger ﷺ; as-Sa‘di glosses “appreciated” as accepted, multiplied and stored with their Lord.",
+      "bn": "প্রথম আয়াতে দুটো সীমা: “আমি যা চাই, যার জন্য চাই।” ইবনে কাসির বলেন, দুনিয়া চাইলেই সবাই তা পায় না; এই আয়াত অন্য জায়গার সাধারণ কথাগুলোকে সীমিত করে দেয়। দ্বিতীয় আয়াতে তিনটা শর্ত: আখিরাত চাওয়া, তার উপযুক্ত চেষ্টা করা, আর মুমিন হওয়া। উপযুক্ত চেষ্টা মানে, ইবনে কাসিরের ভাষায়, ঠিক পথে তা খোঁজা, অর্থাৎ রাসূল ﷺ-এর অনুসরণ। আস-সাদির ব্যাখ্যায় “মূল্যায়িত” চেষ্টা মানে কবুল হওয়া, বেড়ে যাওয়া, আর রবের কাছে জমা থাকা।"
+     }
+    },
+    {
+     "ref": "42:20",
+     "note": {
+      "en": "Here both aims are a ḥarth, a crop one sows. For the Hereafter’s crop the promise is increase; Ibn Kathir explains it as help to do what one intends, and each good deed multiplied from ten to seven hundred, as Allah wills. As-Sa‘di adds that this person’s share of the world will still reach him. The one who sows only for this world is given “of it,” and Ibn Kathir notes that even this depends on Allah’s will.",
+      "bn": "এখানে দুই লক্ষ্যকেই বলা হয়েছে হারস, মানে বোনা ফসল। আখিরাতের ফসলের জন্য ওয়াদা হলো বাড়িয়ে দেওয়া। ইবনে কাসিরের ব্যাখ্যায়, মানুষ যা করতে চায় তাতে সাহায্য পাওয়া, আর প্রতিটি নেকি দশ থেকে সাতশো গুণ, আল্লাহ যত চান তত বেড়ে যাওয়া। আস-সাদি যোগ করেন, এমন মানুষের দুনিয়ার ভাগও তার কাছে পৌঁছাবেই। যে শুধু দুনিয়ার জন্য বোনে, তাকে “তা থেকে কিছু” দেওয়া হয়। ইবনে কাসির মনে করিয়ে দেন, সেটুকুও আল্লাহর ইচ্ছার ওপর নির্ভর করে।"
+     }
+    },
+    {
+     "ref": "3:145",
+     "note": {
+      "en": "This belongs to the passage on Uhud, after the rumour that the Prophet ﷺ had been killed (Ibn Kathir). It opens with death’s appointed term, then turns to what people want: each is given from what he seeks. Ibn Kathir explains that whoever works for the Hereafter receives it, along with what is decreed for him in this life. As-Sa‘di notes that “We will reward the grateful” leaves the reward unstated to show how great it is, and that it comes in proportion to gratitude.",
+      "bn": "আয়াতটা উহুদের প্রসঙ্গে, যখন গুজব ছড়িয়েছিল যে নবী ﷺ নিহত হয়েছেন (ইবনে কাসির)। শুরু হয়েছে মৃত্যুর নির্ধারিত সময়ের কথা দিয়ে, তারপর এসেছে মানুষ কী চায় সেই প্রসঙ্গ: যে যা চায়, তাকে তা থেকে দেওয়া হয়। ইবনে কাসির বলেন, যে আখিরাতের জন্য কাজ করে, সে আখিরাত পায়, সঙ্গে এই জীবনে তার জন্য যা নির্ধারিত তাও। আস-সাদি লক্ষ করেছেন, “শোকরগুজারদের আমি প্রতিদান দেব” বলে প্রতিদানের পরিমাণ বলা হয়নি, যাতে তার বিশালতা বোঝা যায়; আর প্রতিদান আসে শোকরের মাপে।"
+     }
+    },
+    {
+     "ref": "2:201",
+     "note": {
+      "en": "Its neighbour 2:200 describes those who ask only for this world; Ibn Kathir reports from Ibn ‘Abbas that some bedouins at the standing asked for rain and fertile years and nothing of the Hereafter. As-Sa‘di lists the good of this world: lawful provision, a righteous spouse, children, beneficial knowledge, good deeds. The good of the Hereafter: safety in the grave, at the standing and from the Fire, and Allah’s pleasure. The Prophet ﷺ, he notes, made this du‘ā often.",
+      "bn": "পাশের আয়াত ২:২০০-তে আছে তাদের কথা, যারা শুধু দুনিয়াই চায়। ইবনে কাসির ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, কিছু বেদুইন আরাফায় দাঁড়িয়ে বৃষ্টি আর ভালো ফসলের বছর চাইত, আখিরাতের কিছুই চাইত না। আস-সাদি দুনিয়ার কল্যাণের তালিকা দিয়েছেন: হালাল রিজিক, নেক জীবনসঙ্গী, সন্তান, উপকারী ইলম, নেক আমল। আখিরাতের কল্যাণ হলো কবরে, হাশরের ময়দানে আর জাহান্নাম থেকে নিরাপত্তা, আর আল্লাহর সন্তুষ্টি। তিনি বলেন, নবী ﷺ এই দোয়া খুব বেশি করতেন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "what-denial-does",
+   "title": {
+    "en": "What Denial Does to a Life",
+    "bn": "অস্বীকার জীবনকে কোথায় নিয়ে যায়"
+   },
+   "body": [
+    {
+     "en": "The Quran does not treat disbelief in the Hereafter as a private opinion without effects. Again and again it ties the denial to a pattern of conduct: arrogance, a warped sense of good and bad, attention fixed on the visible surface of things, and a love of whatever comes now. The ayat below speak of those who reject it, and the warning is theirs. But the mechanisms they describe are a mirror for any believer whose certainty has grown thin. When the Hereafter drops out of view, the way a person sees everything else changes too.",
+     "bn": "কুরআন আখিরাত অস্বীকারকে প্রভাবহীন কোনো ব্যক্তিগত মত হিসেবে দেখে না। বারবার সে এই অস্বীকারকে জুড়ে দেয় একটা আচরণের ধাঁচের সঙ্গে: অহংকার, ভালো-মন্দের বিকৃত বোধ, শুধু চোখে দেখা বাইরের দিকে আটকে থাকা নজর, আর হাতের কাছের জিনিসের প্রতি ভালোবাসা। নিচের আয়াতগুলো অস্বীকারকারীদের নিয়ে, হুঁশিয়ারিটাও তাদের। তবে যে মুমিনের ইয়াকিন পাতলা হয়ে এসেছে, তার জন্য এগুলো আয়নার কাজ করে। আখিরাত চোখের আড়াল হলে বাকি সবকিছু দেখার চোখও বদলে যায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "16:22",
+     "note": {
+      "en": "The ayah puts tawḥīd and the Hereafter in one breath: your god is one God, and those who do not believe in the Hereafter have hearts that deny it, and they are arrogant. As-Sa‘di says what their hearts deny is this great matter, the oneness of Allah, and that their arrogance is against worshipping Him. Ibn Kathir sets 39:45 beside it: when Allah alone is mentioned, the hearts of those who do not believe in the Hereafter shrink with aversion.",
+      "bn": "আয়াতটা তাওহিদ আর আখিরাতকে এক নিঃশ্বাসে এনেছে: তোমাদের ইলাহ এক ইলাহ, আর যারা আখিরাতে ঈমান রাখে না, তাদের অন্তর তা অস্বীকার করে, আর তারা অহংকারী। আস-সাদি বলেন, তাদের অন্তর যা অস্বীকার করে তা এই মহান বিষয়, আল্লাহর একত্ব; আর তাদের অহংকার তাঁর ইবাদতের বিরুদ্ধে। ইবনে কাসির পাশে এনেছেন ৩৯:৪৫: শুধু আল্লাহর কথা বলা হলে আখিরাতে অবিশ্বাসীদের অন্তর বিতৃষ্ণায় সংকুচিত হয়ে যায়।"
+     }
+    },
+    {
+     "ref": "27:4",
+     "note": {
+      "en": "The consequence here is internal: their own deeds are made to look good to them, so they wander blindly. Ibn Kathir calls this the recompense for their disbelief in the Hereafter: they are left in their error, lost and confused. As-Sa‘di describes the end state: realities have been turned upside down for them, so they see falsehood as truth and truth as falsehood, and prefer Allah’s displeasure to His pleasure.",
+      "bn": "এখানে পরিণতিটা ভেতরের: তাদের নিজেদের আমলই তাদের চোখে সুন্দর করে দেওয়া হয়েছে, ফলে তারা অন্ধের মতো ঘুরে বেড়ায়। ইবনে কাসির একে বলেছেন আখিরাত অস্বীকারের প্রতিদান: তাদের নিজেদের গোমরাহিতে ছেড়ে রাখা হয়, তারা দিশাহারা হয়ে থাকে। আস-সাদি শেষ অবস্থাটা বর্ণনা করেছেন: তাদের কাছে সত্যগুলো উল্টে গেছে। বাতিলকে তারা হক দেখে, হককে বাতিল, আর আল্লাহর সন্তুষ্টির চেয়ে তাঁর অসন্তুষ্টিকেই বেছে নেয়।"
+     }
+    },
+    {
+     "ref": "30:7",
+     "note": {
+      "en": "“They know what is apparent of the worldly life.” As-Sa‘di shows where that knowledge stops: they look at causes and halt there, without looking to the One who directs them. Of their heedlessness of the Hereafter he says their hearts and wills have turned wholly to the world, so that Paradise does not draw them, the Fire does not frighten them, and standing before Allah does not unsettle them.",
+      "bn": "“তারা দুনিয়ার জীবনের বাইরের দিকটা জানে।” এই জানার সীমা কোথায়, আস-সাদি দেখিয়েছেন। তারা কার্যকারণ দেখে, সেখানেই থেমে যায়; যিনি কারণগুলো চালান, তাঁর দিকে তাকায় না। আখিরাত থেকে তাদের গাফিলতি নিয়ে তিনি বলেন, তাদের অন্তর আর ইচ্ছা পুরোপুরি দুনিয়ার দিকে ঘুরে গেছে। জান্নাত তাদের টানে না, জাহান্নাম ভয় দেখায় না, আল্লাহর সামনে দাঁড়ানোর কথাও তাদের নাড়া দেয় না।"
+     }
+    },
+    {
+     "ref": "74:53",
+     "note": {
+      "en": "A short sentence that explains a long passage: behind their demands and excuses is one thing, they do not fear the Hereafter. As-Sa‘di: had they feared it, what came from them would not have happened. Ibn Kathir: they were corrupted only by their lack of faith in it and their denial that it would come. In this reading, conduct follows from what a person expects to meet.",
+      "bn": "ছোট্ট একটা বাক্য, অথচ একটা লম্বা অংশের ব্যাখ্যা দিয়ে দেয়: তাদের সব দাবি আর অজুহাতের মূলে একটাই কথা, তারা আখিরাতকে ভয় করে না। আস-সাদি বলেন, ভয় থাকলে তাদের কাছ থেকে যা ঘটেছে তা ঘটত না। ইবনে কাসিরের ভাষায়, আখিরাতে ঈমান না থাকা আর তা ঘটবে বলে না মানাই তাদের নষ্ট করেছে। এই পাঠে মানুষ সামনে কী দেখবে বলে আশা করে, তার আচরণ সেটারই পিছু নেয়।"
+     }
+    },
+    {
+     "ref": "75:20-21",
+     "note": {
+      "en": "“No! You love the immediate, and you leave the Hereafter.” Ibn Kathir says the one thing that led them to reject the Day of Judgement was that their only concern was the present life. As-Sa‘di names the weakness beneath it: the world’s pleasures come now, the Hereafter’s are deferred, and man is fond of what is quick. So people live, he says, as if they were not created for it, and as if this were the lasting home.",
+      "bn": "“কখনো না, বরং তোমরা নগদটাকে ভালোবাসো, আর আখিরাতকে ছেড়ে দাও।” ইবনে কাসির বলেন, বিচার দিবস অস্বীকারের পেছনে একটাই কারণ: তাদের সব চিন্তা এই হাতের কাছের জীবন নিয়ে। আস-সাদি এর তলার দুর্বলতাটা ধরিয়ে দিয়েছেন। দুনিয়ার মজা আসে এখনই, আখিরাতেরটা পরে; আর মানুষ নগদের প্রতি দুর্বল। ফলে মানুষ এমনভাবে বাঁচে, যেন তাকে আখিরাতের জন্য বানানোই হয়নি, যেন এটাই স্থায়ী ঘর।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-barzakh",
+   "title": {
+    "en": "The Barzakh: Between Death and Rising",
+    "bn": "বারজাখ: মৃত্যু ও পুনরুত্থানের মাঝে"
+   },
+   "body": [
+    {
+     "en": "Between a person’s death and the resurrection lies a stage the Quran calls barzakh, a barrier. The word appears in 23:100, and the commentators and the Sunnah draw on several ayat to say what it holds. As-Sa‘di says that in it the obedient are blessed and the disobedient punished, from their death until they are raised; Ibn Kathir calls 40:46 one of the major proofs of the punishment of the grave. The barzakh matters to this page for one reason: the Hereafter does not begin at some distant date. For each person, it begins at death.",
+     "bn": "মৃত্যু আর পুনরুত্থানের মাঝখানে একটা পর্ব আছে, কুরআন যার নাম দিয়েছে বারজাখ, অর্থাৎ আড়াল। শব্দটা এসেছে ২৩:১০০-তে। মুফাসসিররা আর সুন্নাহ আরও কয়েকটা আয়াত থেকে বলেছেন এর ভেতরে কী আছে। আস-সাদির কথায়, সেখানে মৃত্যু থেকে পুনরুত্থান পর্যন্ত অনুগতরা নিয়ামতে থাকে, আর নাফরমানরা শাস্তিতে। ইবনে কাসির ৪০:৪৬-কে কবরের আজাবের বড় দলিলগুলোর একটা বলেছেন। এই পাতার জন্য বারজাখের গুরুত্ব একটাই: আখিরাত কোনো দূরের তারিখে শুরু হয় না। প্রত্যেকের জন্য তা শুরু হয় তার মৃত্যুতেই।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "23:99-100",
+     "note": {
+      "en": "The dying man asks to go back, and his reason is the point: “that I might do righteous deeds in what I left.” Ibn Kathir quotes Qatadah: he will not ask for family, tribe or wealth, only for obedience, “so may Allah have mercy on a man who does what the disbeliever will wish he had done when he sees the punishment.” Mujahid called the barzakh a barrier between this world and the Hereafter; Abu Sakhr said it means the graves. As-Sa‘di adds: so let them prepare for it.",
+      "bn": "মৃত্যুপথযাত্রী ফিরে যেতে চায়, আর আসল কথা তার কারণটা: “যাতে আমি যা ছেড়ে এসেছি তাতে নেক আমল করতে পারি।” ইবনে কাসির কাতাদার কথা এনেছেন: সে পরিবার, গোত্র বা সম্পদের জন্য ফিরতে চাইবে না, চাইবে শুধু আনুগত্যের জন্য। “আল্লাহ রহম করুন সেই মানুষের ওপর, যে সেই কাজ করে, যা কাফির শাস্তি দেখে করতে চাইবে।” মুজাহিদ বারজাখকে বলেছেন দুনিয়া আর আখিরাতের মাঝের আড়াল; আবু সাখর বলেছেন, এর মানে কবর। আস-সাদি যোগ করেন: অতএব এর জন্য প্রস্তুতি নাও।"
+     }
+    },
+    {
+     "ref": "40:46",
+     "note": {
+      "en": "Said of Pharaoh’s people: “the Fire, they are exposed to it morning and evening,” and then, when the Hour comes, the severest punishment. Ibn Kathir calls this one of the major proofs used by Ahl as-Sunnah for the punishment of the grave in the barzakh. He also notes that the wording speaks of their souls being exposed to the Fire; the effect on bodies in the barzakh, he says, is shown in the Sunnah.",
+      "bn": "কথাটা ফিরআউনের লোকদের নিয়ে: “আগুন, সকাল-সন্ধ্যা তাদের তার সামনে পেশ করা হয়,” আর কিয়ামত এলে সবচেয়ে কঠিন শাস্তি। ইবনে কাসির বলেন, বারজাখে কবরের আজাব প্রমাণে আহলুস সুন্নাহ যেসব দলিল আনে, এই আয়াত তার বড়গুলোর একটা। তিনি এটাও লক্ষ করেছেন, আয়াতের শব্দ বলছে তাদের রুহকে আগুনের সামনে পেশ করার কথা; বারজাখে শরীরের ওপর এর প্রভাবের কথা, তাঁর ভাষায়, এসেছে সুন্নাহয়।"
+     }
+    },
+    {
+     "ref": "3:185",
+     "note": {
+      "en": "“Every soul will taste death, and you will only be paid your wages in full on the Day of Resurrection.” As-Sa‘di sees a subtle pointer to the barzakh in the words “in full”: complete recompense comes on the Day of Resurrection, while some of it comes before, in the barzakh, and at times even in this world. The ayah ends by defining success: whoever is moved away from the Fire and admitted to Paradise has won.",
+      "bn": "“প্রত্যেক প্রাণ মৃত্যুর স্বাদ নেবে, আর কিয়ামতের দিনই তোমাদের প্রতিদান পুরোপুরি দেওয়া হবে।” আস-সাদি “পুরোপুরি” কথাটায় বারজাখের দিকে একটা সূক্ষ্ম ইশারা দেখেছেন। পূর্ণ প্রতিদান আসবে কিয়ামতের দিন; তার কিছু অংশ আগেই আসে বারজাখে, কখনো দুনিয়াতেই। আয়াত শেষ হয়েছে সফলতার সংজ্ঞা দিয়ে: যাকে জাহান্নাম থেকে সরিয়ে জান্নাতে প্রবেশ করানো হলো, সে-ই সফল।"
+     }
+    },
+    {
+     "ref": "14:27",
+     "note": {
+      "en": "Allah keeps the believers firm with the firm word “in the worldly life and in the Hereafter.” As-Sa‘di opens both halves. In this life: guidance to certainty when doubts arise, and resolve to put what Allah loves first when desires pull. In the Hereafter: firmness at death and a good ending, and in the grave, when the two angels ask, “Who is your Lord? What is your religion? Who is your Prophet?” The hadith below ties the ayah to that questioning.",
+      "bn": "আল্লাহ মুমিনদের মজবুত কথার ওপর অটল রাখেন, “দুনিয়ার জীবনে ও আখিরাতে।” আস-সাদি দুই অংশই খুলে বলেছেন। দুনিয়ায় অটল রাখা মানে সংশয় এলে ইয়াকিনের পথ দেখানো, আর প্রবৃত্তির টান এলে আল্লাহর পছন্দকে আগে রাখার দৃঢ় ইচ্ছা। আখিরাতে মানে মৃত্যুর সময় দ্বীনের ওপর অটল থাকা ও ভালো শেষ, আর কবরে, যখন দুই ফেরেশতা জিজ্ঞেস করে: তোমার রব কে, তোমার দ্বীন কী, তোমার নবী কে? নিচের হাদিসটা আয়াতকে সেই প্রশ্নের সঙ্গে জুড়ে দেয়।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 1369",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-1369",
+     "text": {
+      "en": "Al-Bara’ ibn ‘Azib reported that the Prophet ﷺ said: “When the believer is made to sit up in his grave, (the angels) come to him; then he testifies that there is no god but Allah and that Muhammad is the Messenger of Allah. That is His saying: ‘Allah keeps firm those who believe with the firm word.’” Through another chain, Shu‘bah added: “‘Allah keeps firm those who believe’ was revealed about the punishment of the grave.”",
+      "bn": "বারা ইবনে আজিব (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: “মুমিনকে যখন তার কবরে বসানো হয়, তার কাছে (ফেরেশতারা) আসে। তখন সে সাক্ষ্য দেয় যে আল্লাহ ছাড়া কোনো ইলাহ নেই এবং মুহাম্মাদ আল্লাহর রাসূল। এটাই আল্লাহর বাণী: ‘আল্লাহ মুমিনদের মজবুত কথার ওপর অটল রাখেন।’” আরেক সনদে শু‘বা যোগ করেছেন: “‘আল্লাহ মুমিনদের অটল রাখেন’ আয়াতটি কবরের আজাব সম্পর্কে নাজিল হয়েছে।”"
+     },
+     "note": {
+      "en": "In this hadith the firm word is the testimony of faith, spoken when the believer is questioned in the grave. As-Sa‘di says the ayah points to the trial of the grave, its punishment and its bliss, and that the texts from the Prophet ﷺ on these are mutawātir, widely transmitted.",
+      "bn": "এই হাদিসে মজবুত কথা হলো ঈমানের সাক্ষ্য, যা মুমিন কবরে প্রশ্নের সময় উচ্চারণ করে। আস-সাদি বলেন, আয়াতটি কবরের পরীক্ষা, তার আজাব ও তার নিয়ামতের দিকে ইঙ্গিত করে, আর এ বিষয়ে নবী ﷺ থেকে আসা বর্ণনাগুলো মুতাওয়াতির, অর্থাৎ বহু সূত্রে বর্ণিত।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "seeking-the-home",
+   "title": {
+    "en": "Seeking the Home of the Hereafter",
+    "bn": "আখিরাতের ঘর খোঁজা"
+   },
+   "body": [
+    {
+     "en": "If the Hereafter is real and lasting, how should a believer hold wealth, work and ambition now? The clearest answer comes in the story of a rich man. Qarun’s people tell him to seek the home of the Hereafter through what Allah has given him, not to forget his share of the world, to do good as Allah has done good to him, and not to seek corruption in the land. After his fall, 28:83 promises that home to those who want neither exaltation on earth nor corruption; as-Sa‘di reads it as the close of Qarun’s story.",
+     "bn": "আখিরাত যদি সত্য আর স্থায়ী হয়, তাহলে আজ একজন মুমিন সম্পদ, কাজ আর উচ্চাশাকে কীভাবে ধরে রাখবে? কুরআনের সবচেয়ে পরিষ্কার জবাবটা এসেছে এক ধনী লোকের ঘটনায়। কারুনকে তার সম্প্রদায় বলেছিল: আল্লাহ যা দিয়েছেন তা দিয়ে আখিরাতের ঘর খোঁজো, দুনিয়ার ভাগটা ভুলে যেয়ো না, আল্লাহ যেমন তোমার প্রতি অনুগ্রহ করেছেন তুমিও তেমনি অনুগ্রহ করো, আর জমিনে ফাসাদ চেয়ো না। তার পতনের পর ২৮:৮৩ সেই ঘরের ওয়াদা দিয়েছে তাদের, যারা জমিনে বড়ত্বও চায় না, ফাসাদও না। আস-সাদি একে কারুনের ঘটনার উপসংহার হিসেবে পড়েছেন।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "28:77",
+     "note": {
+      "en": "“Do not forget your share of the world” is read two ways. At-Tabari: do not neglect to work in the world for your Hereafter, which he reports from Ibn ‘Abbas, Mujahid and Ibn Zayd. Others he records, Qatadah, Ibn Jurayj and al-Hasan, read it as the world’s lawful things; al-Hasan said, “Send ahead the surplus and keep what suffices you.” Ibn Kathir and as-Sa‘di take the second: enjoy what is lawful. As-Sa‘di adds: you are not told to give away all your wealth and be left with nothing.",
+      "bn": "“দুনিয়ার ভাগটা ভুলে যেয়ো না”, এই কথার দুই রকম পাঠ আছে। আত-তাবারির মতে এর মানে: দুনিয়াতে থেকে নিজের আখিরাতের জন্য কাজ করতে ভুলো না। এই মত তিনি এনেছেন ইবনে আব্বাস (রাঃ), মুজাহিদ ও ইবনে জায়েদ থেকে। যাঁরা এর মানে দুনিয়ার হালাল জিনিস বলেছেন, তাঁদের কথাও তিনি লিখেছেন: কাতাদা, ইবনে জুরাইজ, আর আল-হাসান। আল-হাসানের কথা: বাড়তিটা আগে পাঠিয়ে দাও, যতটুকুতে চলে ততটুকু রাখো। ইবনে কাসির ও আস-সাদি দ্বিতীয় পাঠ নিয়েছেন: হালাল ভোগ করো। আস-সাদি যোগ করেন, তোমাকে সব সম্পদ দান করে নিঃস্ব হয়ে যেতে বলা হচ্ছে না।"
+     }
+    },
+    {
+     "ref": "28:83",
+     "note": {
+      "en": "The ayah says not “those who do not seek exaltation” but “those who do not want it.” As-Sa‘di: they have no wish for it, let alone act on it, and “corruption” covers every sin. Ibn Kathir cites, from at-Tabari, a saying attributed to ‘Ali: wanting one’s sandal-strap to be better than a companion’s falls under this ayah, then draws the line: blame attaches to showing off over others; liking to look good is not arrogance, since, in the hadith he cites (Muslim 91), Allah is beautiful and loves beauty.",
+      "bn": "আয়াত বলছে না “যারা বড়ত্বের পেছনে ছোটে না”; বলছে “যারা তা চায়ই না।” আস-সাদি কথাটা ধরেছেন: তাদের এর ইচ্ছাই নেই, কাজ তো দূরের কথা। আর “ফাসাদ” শব্দে সব গুনাহ এসে যায়। ইবনে কাসির আত-তাবারির সূত্রে আলী (রাঃ)-এর নামে বর্ণিত একটি উক্তি এনেছেন: কেউ যদি চায় তার জুতার ফিতা সঙ্গীর ফিতার চেয়ে ভালো হোক, সেও এই আয়াতের আওতায় পড়ে। তারপর তিনি সীমাটা টেনে দেন: উদ্দেশ্য যদি অন্যের ওপর বড়াই হয়, তবেই তা নিন্দনীয়। সুন্দর দেখাতে ভালো লাগা অহংকার নয়; তিনি হাদিস এনেছেন (মুসলিম ৯১), আল্লাহ সুন্দর, তিনি সৌন্দর্য ভালোবাসেন।"
+     }
+    },
+    {
+     "ref": "93:4",
+     "note": {
+      "en": "Addressed to the Prophet ﷺ, and read two ways. Ibn Kathir: the abode of the Hereafter is better for you than this one, which is why he was the most detached of people from worldly things, and at the end chose what is with Allah. As-Sa‘di reads ākhirah here as every later stage of his affairs, each better than the one before, so that he kept rising until his death. In the first reading, this page’s comparison takes its most personal form.",
+      "bn": "কথাটা নবী ﷺ-কে বলা, আর এর দুই রকম পাঠ আছে। ইবনে কাসির: আখিরাতের ঘর তোমার জন্য এই ঘরের চেয়ে উত্তম। এ কারণেই তিনি দুনিয়ার ব্যাপারে মানুষের মধ্যে সবচেয়ে নির্লিপ্ত ছিলেন, আর জীবনের শেষে আল্লাহর কাছে যা আছে সেটাই বেছে নিয়েছিলেন। আস-সাদি এখানে আখিরাতকে পড়েছেন তাঁর প্রতিটি পরের অবস্থা হিসেবে, যা আগেরটার চেয়ে উত্তম; ফলে মৃত্যু পর্যন্ত তিনি কেবল ওপরেই উঠেছেন। প্রথম পাঠে এই পাতার তুলনাটা সবচেয়ে ব্যক্তিগত রূপ নেয়।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 6416",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-6416",
+     "text": {
+      "en": "Mujahid narrated that ‘Abdullah ibn ‘Umar said: “The Messenger of Allah ﷺ took hold of my shoulder and said: ‘Be in this world as if you were a stranger or a traveller passing through.’” And Ibn ‘Umar used to say: “When evening comes, do not wait for the morning, and when morning comes, do not wait for the evening. Take from your health for your sickness, and from your life for your death.”",
+      "bn": "মুজাহিদ বর্ণনা করেন, আবদুল্লাহ ইবনে উমর (রাঃ) বলেছেন: “রাসূলুল্লাহ ﷺ আমার কাঁধ ধরে বললেন: ‘দুনিয়াতে এমনভাবে থাকো, যেন তুমি একজন প্রবাসী, কিংবা পথ পেরিয়ে যাওয়া মুসাফির।’” আর ইবনে উমর (রাঃ) বলতেন: “সন্ধ্যা হলে সকালের অপেক্ষা কোরো না, সকাল হলে সন্ধ্যার অপেক্ষা কোরো না। সুস্থতা থেকে অসুস্থতার জন্য নিয়ে রাখো, আর জীবন থেকে মৃত্যুর জন্য।”"
+     },
+     "note": {
+      "en": "A stranger lives in a place without settling into it; a traveller passing through does not stop at all. Ibn ‘Umar’s own words turn the image into a daily habit: do not count on the morning or evening, and take from life for death.",
+      "bn": "প্রবাসী কোনো জায়গায় থাকে, কিন্তু সেখানে শিকড় গাড়ে না; পথ পেরিয়ে যাওয়া মুসাফির থামেই না। ইবনে উমর (রাঃ)-এর নিজের কথাগুলো ছবিটাকে রোজকার অভ্যাসে পরিণত করে: সকাল বা সন্ধ্যার ভরসা না করা, আর জীবন থেকে মৃত্যুর জন্য নিয়ে রাখা।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "Before a large decision about money or work, ask which harvest it sows (42:20), and whether it can be made to sow both.",
+   "bn": "টাকা বা কাজ নিয়ে বড় কোনো সিদ্ধান্তের আগে ভাবুন, এটা কোন ফসল বুনছে (৪২:২০), আর একে দুটো ফসলের জন্যই কাজে লাগানো যায় কি না।"
+  },
+  {
+   "en": "Make the du‘ā of 2:201 a regular one, as the Prophet ﷺ did, and mean both halves of it.",
+   "bn": "২:২০১-এর দোয়াটা নিয়মিত পড়ুন, যেমন নবী ﷺ পড়তেন, আর দুই অংশই মন থেকে চান।"
+  },
+  {
+   "en": "When the urge comes to outdo someone in possessions, turn it, as as-Sa‘di advises under 57:20, into competing with them in good deeds.",
+   "bn": "কাউকে সম্পদে ছাড়িয়ে যাওয়ার তাড়না এলে, ৫৭:২০-এর ব্যাখ্যায় আস-সাদির পরামর্শমতো, সেটাকে নেক আমলের প্রতিযোগিতায় ঘুরিয়ে দিন।"
+  },
+  {
+   "en": "Keep Ibn ‘Umar’s habit from Bukhari 6416: in the evening, do not count on the morning. Do today the good you would not want left undone.",
+   "bn": "বুখারি ৬৪১৬-তে ইবনে উমর (রাঃ)-এর অভ্যাসটা ধরে রাখুন: সন্ধ্যায় সকালের ভরসা করবেন না। যে ভালো কাজটা বাকি থেকে যাক আপনি চান না, সেটা আজই করুন।"
+  },
+  {
+   "en": "Recall the dying man’s request in 23:99-100. Whatever deed he will ask to go back for can still be done now.",
+   "bn": "২৩:৯৯-১০০-এ মৃত্যুপথযাত্রীর আবেদনটা মনে রাখুন। যে আমলের জন্য সে ফিরে আসতে চাইবে, সেটা এখনো করা যায়।"
+  },
+  {
+   "en": "Seek the Hereafter with what you have been given (28:77). Any lawful share you take, on Ibn Kathir’s and as-Sa‘di’s reading, must not harm your religion. Shun wanting to rise over others (28:83).",
+   "bn": "যা পেয়েছেন তা দিয়ে আখিরাত খুঁজুন (২৮:৭৭)। ইবনে কাসির ও আস-সাদির পাঠমতো যে হালাল ভাগ নেবেন, তা যেন দ্বীনের ক্ষতি না করে। অন্যের ওপর বড় হওয়ার ইচ্ছা থেকে দূরে থাকুন (২৮:৮৩)।"
+  }
+ ],
  "refs": [
   "2:4",
   "2:86",
@@ -29,6 +367,7 @@
   "3:148",
   "3:152",
   "3:176",
+  "3:185",
   "4:74",
   "4:77",
   "4:134",
@@ -37,7 +376,6 @@
   "5:41",
   "6:32",
   "6:92",
-  "6:112",
   "6:113",
   "6:150",
   "7:45",
@@ -69,6 +407,7 @@
   "16:109",
   "16:122",
   "17:10",
+  "17:18",
   "17:19",
   "17:21",
   "17:45",
@@ -79,6 +418,8 @@
   "22:15",
   "23:33",
   "23:74",
+  "23:99",
+  "23:100",
   "24:14",
   "24:19",
   "24:23",
@@ -105,6 +446,7 @@
   "39:45",
   "40:39",
   "40:43",
+  "40:46",
   "41:7",
   "41:16",
   "41:31",
@@ -122,10 +464,54 @@
   "75:21",
   "79:25",
   "87:16",
-  "87:17"
+  "87:17",
+  "93:4"
+ ],
+ "refsDropped": [
+  {
+   "ref": "6:112",
+   "reason": "Lead-in to 6:113, which carries the Hereafter clause; about the enemies of the prophets and their deceptive speech, nothing on the Hereafter by itself."
+  }
  ],
  "videos": [],
- "reading": [],
- "sources": [],
- "related": []
+ "reading": [
+  {
+   "title": {
+    "en": "Hadith: Be in this world as if you are a stranger or a wayfarer (Bengali)",
+    "bn": "হাদিস: দুনিয়াতে থাকো যেন তুমি প্রবাসী অথবা পথচারী"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/4704",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Hadith: This world compared with the Hereafter is like a finger dipped in the sea (Bengali)",
+    "bn": "হাদিস: আখিরাতের তুলনায় দুনিয়া, যেন সমুদ্রে ডোবানো আঙুল"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/3876",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "What Is al-Barzakh?",
+    "bn": "বারজাখ কী? (ইংরেজি)"
+   },
+   "url": "https://islamqa.info/en/answers/11110",
+   "site": "islamqa.info",
+   "lang": "en"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir",
+  "Tafsir as-Sa'di",
+  "Tafsir at-Tabari"
+ ],
+ "related": [
+  "th-resurrection",
+  "th-judgement",
+  "th-paradise",
+  "th-hell"
+ ]
 }

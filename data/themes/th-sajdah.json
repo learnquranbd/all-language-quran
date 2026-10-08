@@ -1,14 +1,329 @@
 {
  "id": "th-sajdah",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "Verses of Prostration",
   "bn": "সেজদার আয়াত"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "Where reciters stop and prostrate: fourteen ayat plus the disputed 22:77, what each says, where the schools differ, and how it is done.",
+  "bn": "যেখানে তিলাওয়াতকারী থেমে সিজদা করেন: চৌদ্দটি আয়াত, সঙ্গে মতভেদপূর্ণ ২২:৭৭। প্রতিটি আয়াত কী বলে, মাযহাবগুলোর মতভেদ কোথায়, আর সিজদাটা কীভাবে আদায় হয়।"
+ },
+ "intro": [
+  {
+   "en": "The fourteen ayat of the old app’s list each carry a small sign in the mushaf, ۩, and a reciter who reaches one stops and prostrates. The app’s text marks a fifteenth, 22:77, which this page adds because the schools differ on it. Every one of them, or the passage it closes, speaks of prostration: who does it, who is told to, who refuses. Ibn Kathir calls 7:206 the first place in the Quran where prostration is legislated for reciter and listener, “according to the agreement of the scholars”. Ibn ‘Umar recalls the Prophet ﷺ prostrating at such ayat with a crowd so dense that some could not find room for their foreheads (Sahih al-Bukhari 1075).",
+   "bn": "পুরোনো অ্যাপের তালিকার চৌদ্দটি আয়াতের পাশে মুসহাফে ছোট্ট একটা চিহ্ন থাকে: ۩। এমন আয়াতে পৌঁছালে পাঠক থামেন, সিজদা করেন। এই অ্যাপের আরবি পাঠে চিহ্নটি আরও এক আয়াতে আছে, ২২:৭৭। এ নিয়ে মাযহাবগুলোর মতভেদ আছে বলে পাতাটি সেটাও যোগ করেছে। প্রতিটি আয়াতে, কিংবা যে অংশ সেটি শেষ করে তাতে, সিজদার কথা আছে: কে সিজদা করে, কাকে করতে বলা হয়, কে অস্বীকার করে। ইবনে কাসির লিখেছেন, ৭:২০৬ কুরআনের প্রথম জায়গা যেখানে পাঠক ও শ্রোতা দুজনের জন্যই সিজদা বিধিবদ্ধ, আর এতে আলেমরা একমত। ইবনে উমর (রাঃ) বলেন, নবী ﷺ এমন আয়াতে সিজদা করতেন, তাঁরাও সঙ্গে করতেন, আর ভিড় এত হতো যে কেউ কেউ কপাল রাখার জায়গাও পেতেন না (সহিহ বুখারি ১০৭৫)।"
+  },
+  {
+   "en": "Which ayat count is itself a question the schools answer differently. The old list includes Dawud’s prostration in Sad (38:24), leaves out the second command to prostrate in al-Hajj (22:77), and keeps the three in the short surahs. Those are the Hanafi positions as Ma’arif al-Qur’an reports them, and al-Qurtubi attributes a count of fourteen without 22:77 to the aṣḥāb ar-ra’y (the people of opinion). Ash-Shafi‘i, he reports, kept both in al-Hajj and dropped Sad; the well-known position of Malik counts eleven. This page adds 22:77 so the disputed ayah is read with the rest, and a section below sets these out, together with the question of whether the prostration is obligatory at all.",
+   "bn": "কোন কোন আয়াত এই তালিকায় পড়বে, সে প্রশ্নেও মাযহাবগুলো এক নয়। পুরোনো তালিকায় সূরা সোয়াদে দাউদ (আঃ)-এর সিজদা (৩৮:২৪) আছে, সূরা হজের দ্বিতীয় সিজদার হুকুম (২২:৭৭) নেই, আর ছোট সূরাগুলোর তিনটি সিজদা রাখা হয়েছে। মাআরিফুল কুরআন হানাফি মত যেভাবে বর্ণনা করেছে, তার সঙ্গে এটা মেলে। কুরতুবিও ২২:৭৭ বাদ দিয়ে চৌদ্দ গোনার মতটিকে আসহাবুর রায়ের মত বলেছেন। তাঁর বর্ণনায় ইমাম শাফেয়ি হজের দুটো সিজদাই রেখেছেন, সোয়াদেরটা বাদ দিয়েছেন। আর ইমাম মালিকের প্রসিদ্ধ মতে সিজদা এগারোটি। মতভেদের আয়াতটিও যাতে বাকিগুলোর সঙ্গে পড়া যায়, তাই পাতাটি ২২:৭৭ যোগ করেছে। নিচের এক অংশে এসব মত আলাদা করে দেখানো আছে, সঙ্গে আছে আরেক প্রশ্ন: সিজদাটা আদৌ বাধ্যতামূলক কি না।"
+  },
+  {
+   "en": "The ayat are read here by what they say prostrates: all of creation, the angels near their Lord, the prophets and people of knowledge, then the command itself and those who turn it down. The last two sections are practical: where the schools differ, and what is done and said in the prostration, using reports confirmed in the hadith collections or cited by the mufassirun named. Where a ruling is disputed, the page names who holds what and leaves the choice to the reader’s school and teachers.",
+   "bn": "আয়াতগুলো এখানে সাজানো হয়েছে কে সিজদা করছে সেই হিসেবে: গোটা সৃষ্টি, রবের নিকটবর্তী ফেরেশতারা, নবীগণ ও জ্ঞানপ্রাপ্তরা, তারপর সিজদার সরাসরি হুকুম আর যারা তা ফিরিয়ে দেয়। শেষ দুটো অংশ হাতে-কলমে কাজের জন্য: মাযহাবগুলোর মতভেদ কোথায়, আর সিজদায় কী করা ও কী বলা হয়। সেখানে নেওয়া হয়েছে হাদিসগ্রন্থে যাচাই করা বর্ণনা, কিংবা নাম উল্লেখ করা মুফাসসিরদের উদ্ধৃত বর্ণনা। যে বিধানে মতভেদ আছে, সেখানে পাতাটি শুধু জানিয়েছে কে কী বলেছেন। কোনটা মানবেন, তা পাঠক ঠিক করবেন নিজের মাযহাব ও আলেমদের পরামর্শে।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "everything-bows",
+   "title": {
+    "en": "Everything in Creation Bows",
+    "bn": "সৃষ্টির সবকিছু সিজদায়"
+   },
+   "body": [
+    {
+     "en": "Three of the prostration ayat look outward. They describe a prostration that is already happening, in the heavens and on the earth, in shadows that lengthen morning and evening, in the sun and the stars. Ibn Kathir’s phrase is that everything prostrates “in a manner that befits its nature”, and as-Sa‘di says the same in his own words: each thing prostrates according to its state. The reader who prostrates at these ayat joins something that has never stopped. What the ayat add is the one place in all of this where creation divides, and that place is among people.",
+     "bn": "সিজদার তিনটি আয়াত চোখ ফেরায় বাইরের দিকে। এগুলো এমন এক সিজদার কথা বলে যা চলছেই: আসমানে, জমিনে, সকাল-সন্ধ্যার লম্বা হয়ে আসা ছায়ায়, সূর্যে আর তারায়। ইবনে কাসির বলেছেন, সবকিছু সিজদা করে যার যার স্বভাবের উপযোগী ভঙ্গিতে। আস-সা‘দিও একই কথা বলেছেন: প্রত্যেক জিনিসের সিজদা তার অবস্থা অনুযায়ী। তাই এসব আয়াতে যিনি সিজদা করেন, তিনি এমন এক সিজদায় শামিল হন যা কখনো থামেনি। আয়াতগুলো এর সঙ্গে আরেকটা কথা যোগ করে। গোটা সৃষ্টির মধ্যে ভাগাভাগি শুধু এক জায়গায়, মানুষের মধ্যে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "13:15",
+     "note": {
+      "en": "The key words are ṭaw‘an wa karhan, willingly or unwillingly. As-Sa‘di explains the willing as the believers, who prostrate by choice, and the unwilling as the one too proud to worship his Lord, whose own state and nature contradict him. Then come the shadows, at the start of the day and its end; Ibn Kathir reads them with 16:48, where shadows incline right and left in prostration. Even the one who refuses is not left out: the ayah names his shadow too.",
+      "bn": "মূল শব্দ দুটো: তাওআন ওয়া কারহান, ইচ্ছায় বা অনিচ্ছায়। আস-সা‘দির ব্যাখ্যায় ইচ্ছায় সিজদা করে মুমিনরা, নিজের পছন্দে। অনিচ্ছায় করে সে, যে রবের ইবাদতে অহংকার করে, অথচ তার নিজের অবস্থা আর ফিতরাতই তাকে মিথ্যা প্রমাণ করে। তারপর আসে ছায়ার কথা, দিনের শুরুতে আর শেষে। ইবনে কাসির এটা পড়েছেন ১৬:৪৮-এর সঙ্গে মিলিয়ে, যেখানে ছায়া ডানে-বাঁয়ে ঝুঁকে সিজদা করে। যে অস্বীকার করে, সেও বাদ পড়েনি। আয়াতটি তার ছায়ার কথাও বলেছে।"
+     }
+    },
+    {
+     "ref": "22:18",
+     "note": {
+      "en": "The fullest list in the Quran: whoever is in the heavens and on earth, the sun, moon, stars, mountains, trees and moving creatures. Ibn Kathir notes that the sun, moon and stars are named because they were worshipped besides Allah, so the ayah shows them bowing to their Creator. Then the list breaks: “many of the people”, and many on whom the punishment is justified, whom Ibn Kathir describes as those who refuse prostration, stubborn and arrogant. Of everything named, only people are split.",
+      "bn": "কুরআনের সবচেয়ে পূর্ণ তালিকা এটাই: আসমান ও জমিনের সবাই, সূর্য, চাঁদ, তারা, পাহাড়, গাছ, জীবজন্তু। ইবনে কাসির বলেছেন, সূর্য, চাঁদ আর তারার নাম আলাদা করে এসেছে কারণ আল্লাহকে বাদ দিয়ে এদের পূজা করা হতো। আয়াতটি দেখিয়ে দেয়, এরাও নিজের স্রষ্টাকে সিজদা করে। তারপর তালিকাটা ভেঙে যায়: “মানুষের মধ্যে অনেকে”, আর অনেকের ওপর শাস্তি অবধারিত। ইবনে কাসিরের ভাষায় এরা সেই লোক, যারা জেদ আর অহংকারে সিজদা করতে অস্বীকার করে। তালিকার সবকিছুর মধ্যে ভাগ হয়েছে কেবল মানুষ।"
+     }
+    },
+    {
+     "ref": "27:26",
+     "note": {
+      "en": "Spoken by the hoopoe, reporting to Sulayman (AS) on a queen and her people who prostrated to the sun (27:24). The bird’s complaint is that they do not prostrate to Allah, and the prostration falls on his answer: Allah, no god but Him, Lord of the Great Throne. As-Sa‘di calls the Throne the roof of all created things, and says this King of great dominion is the one before whom one humbles oneself, prostrates and bows. A queen had a great throne (27:23); this is the Great Throne.",
+      "bn": "কথাটা হুদহুদ পাখির। সে সুলাইমান (আঃ)-কে খবর দিচ্ছে এক রানি আর তার কওমের, যারা সূর্যকে সিজদা করত (২৭:২৪)। পাখিটির আপত্তি, তারা আল্লাহকে সিজদা করে না। আর সিজদা পড়েছে তার জবাবে: আল্লাহ, তিনি ছাড়া কোনো ইলাহ নেই, তিনি মহান আরশের রব। আস-সা‘দি বলেছেন, আরশ সমস্ত সৃষ্টির ছাদ। এমন বিশাল রাজত্বের মালিকের সামনেই মাথা নত করা হয়, সিজদা ও রুকু করা হয়। রানিরও ছিল বিরাট সিংহাসন (২৭:২৩)। আর এটা সেই মহান আরশ।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "near-your-lord",
+   "title": {
+    "en": "The Angels Near Your Lord",
+    "bn": "রবের নিকটবর্তী ফেরেশতারা"
+   },
+   "body": [
+    {
+     "en": "Three of the ayat turn to the angels, and two of them use the same phrase: alladhīna ‘inda rabbik, those who are near your Lord. Al-Qurtubi records that this means the angels by consensus, and lists what “near” has been taken to mean: near to His mercy, or near in honour rather than in distance. All three set the angels beside a refusal: they are not too proud (7:206, 16:49), they do not tire though others are arrogant (41:38). As-Sa‘di draws the point on 7:206: Allah does not seek more through anyone’s worship, as if from scarcity; He wants the worshipper’s own good.",
+     "bn": "তিনটি আয়াত কথা বলে ফেরেশতাদের নিয়ে। দুটোতে একই শব্দবন্ধ: আল্লাযিনা ইনদা রাব্বিক, যারা তোমার রবের কাছে আছে। কুরতুবি লিখেছেন, এরা যে ফেরেশতা, তাতে ইজমা আছে। “কাছে” মানে কী, তারও কয়েকটা ব্যাখ্যা তিনি এনেছেন: তাঁর রহমতের কাছে, কিংবা দূরত্বে নয়, মর্যাদায় কাছে। তিনটি আয়াতেই ফেরেশতাদের পাশে রাখা হয়েছে কোনো না কোনো অস্বীকারকে। তারা অহংকার করে না (৭:২০৬, ১৬:৪৯), অন্যরা অহংকার করলেও তারা ক্লান্ত হয় না (৪১:৩৮)। ৭:২০৬-এর তাফসিরে আস-সা‘দি কথাটা খুলে বলেছেন: আল্লাহর কোনো কমতি নেই যে কারও ইবাদত দিয়ে তা পূরণ হবে। তিনি চান বান্দার নিজের কল্যাণ।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "7:206",
+     "note": {
+      "en": "The last ayah of al-A‘raf, and the first prostration in the mushaf. The order runs: they are not too proud to worship Him, they glorify Him, and to Him they prostrate. As-Sa‘di reads the fronted wa lahu as “to Him alone, without partner”, and draws the lesson directly: let the servants follow these noble angels and keep to the worship of the King. Ibn Kathir says the reason the angels are mentioned is so that people imitate them in tireless obedience.",
+      "bn": "সূরা আ‘রাফের শেষ আয়াত, মুসহাফের প্রথম সিজদা। ক্রমটা এমন: তারা তাঁর ইবাদতে অহংকার করে না, তাঁর তাসবিহ করে, আর তাঁকেই সিজদা করে। “ওয়া লাহু” শব্দটা আগে এসেছে। আস-সা‘দি এর অর্থ করেছেন: শুধু তাঁকেই, কোনো শরিক ছাড়া। আর শিক্ষাটা তিনি সরাসরি বলেছেন: বান্দারা যেন এই সম্মানিত ফেরেশতাদের অনুসরণ করে, মহান মালিকের ইবাদতে লেগে থাকে। ইবনে কাসিরের মতে ফেরেশতাদের কথা আনা হয়েছে, যাতে মানুষ তাদের মতো ক্লান্তিহীন আনুগত্য শেখে।"
+     }
+    },
+    {
+     "ref": "16:50",
+     "note": {
+      "en": "The ayah completes 16:49: everything in the heavens and earth prostrates, and the angels, “and they are not arrogant”. As-Sa‘di uses the pair to name two prostrations. One is of compulsion, by which every creature, believer or disbeliever, animal or human, points to Allah’s perfection. The other is of choice, and belongs only to His friends among the angels and the believers. This is also the prostration ‘Umar (RA) reached when he recited an-Nahl from the minbar (Sahih al-Bukhari 1077, below).",
+      "bn": "আয়াতটি ১৬:৪৯-এর বাকি অংশ: আসমান-জমিনের সবকিছু সিজদা করে, ফেরেশতারাও, “আর তারা অহংকার করে না”। এই দুই আয়াত থেকে আস-সা‘দি দুই রকম সিজদার কথা বলেছেন। একটা বাধ্যতার সিজদা। প্রত্যেক সৃষ্টি, মুমিন হোক বা কাফির, মানুষ হোক বা পশু, এর মাধ্যমে আল্লাহর পরিপূর্ণতার সাক্ষ্য দেয়। আরেকটা স্বেচ্ছার সিজদা, যা কেবল তাঁর ওলিদের, ফেরেশতা ও মুমিনদের। উমর (রাঃ) মিম্বারে সূরা নাহল পড়তে পড়তে এই সিজদাতেই পৌঁছেছিলেন (সহিহ বুখারি ১০৭৭, নিচে দেখুন)।"
+     }
+    },
+    {
+     "ref": "41:38",
+     "note": {
+      "en": "It follows 41:37, which forbids prostrating to the sun and the moon. “If they are arrogant”: al-Qurtubi says this means the disbelievers, too proud to prostrate to Allah. The reply is not a threat but a fact: those near your Lord glorify Him night and day and never tire. As-Sa‘di adds that their refusal does Allah no harm; He has no need of them. Ibn Kathir compares 6:89: if these disbelieve in it, others have been entrusted with it.",
+      "bn": "আয়াতটির ঠিক আগে ৪১:৩৭, যা সূর্য আর চাঁদকে সিজদা করতে নিষেধ করে। “যদি তারা অহংকার করে”: কুরতুবি বলেছেন, এখানে কাফিরদের কথা, যারা আল্লাহকে সিজদা করতে অহংকার করে। জবাবে কোনো হুমকি নেই, আছে একটা বাস্তবতা: তোমার রবের কাছে যারা আছে, তারা দিনরাত তাঁর তাসবিহ করে, কখনো ক্লান্ত হয় না। আস-সা‘দি যোগ করেছেন, তাদের অস্বীকারে আল্লাহর কোনো ক্ষতি নেই, তিনি তাদের মুখাপেক্ষী নন। ইবনে কাসির এর সঙ্গে ৬:৮৯ মিলিয়েছেন: এরা অস্বীকার করলে অন্যদের হাতে এর দায়িত্ব দেওয়া আছে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "prophets-and-the-knowing",
+   "title": {
+    "en": "Prophets and People of Knowledge",
+    "bn": "নবীগণ ও জ্ঞানপ্রাপ্তরা"
+   },
+   "body": [
+    {
+     "en": "Two ayat describe people falling into prostration the moment revelation reaches them, and both join it to weeping. In 19:58 they are the prophets; in 17:109, those given knowledge before the Quran. The verb in both is kharra, to fall down. Ibn Kathir draws the practical consequence on 19:58: because of this ayah, he says, the scholars agree that prostration is legislated at it, “in following them and adhering to their manner of worship”. Read this way, the prostration of recitation is a copy of what the prophets did when they heard the words of their Lord, and the weeping is part of the picture the Quran draws, not an extra.",
+     "bn": "দুটি আয়াতে দেখা যায়, ওহি কানে পৌঁছামাত্র মানুষ সিজদায় লুটিয়ে পড়ছে, আর দুই জায়গাতেই সঙ্গে আছে কান্না। ১৯:৫৮-তে এরা নবীগণ। ১৭:১০৯-এ তারা, যাদের কুরআনের আগেই জ্ঞান দেওয়া হয়েছিল। দুই আয়াতেই ক্রিয়াটা খাররা, লুটিয়ে পড়া। ১৯:৫৮-এর তাফসিরে ইবনে কাসির এর বাস্তব ফল টেনেছেন। তিনি বলেন, এই আয়াতের কারণেই আলেমরা একমত যে এখানে সিজদা বিধিবদ্ধ, নবীদের অনুসরণে আর তাঁদের ইবাদতের ধারা ধরে রাখতে। এভাবে দেখলে তিলাওয়াতের সিজদা মানে রবের কালাম শুনে নবীরা যা করতেন, তারই অনুকরণ। আর কান্নাটা বাড়তি কিছু নয়, কুরআনের আঁকা ছবিরই অংশ।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "19:58",
+     "note": {
+      "en": "The ayah closes the surah’s roll of prophets, from Zakariyya to Idris. As-Sa‘di notes that what is recited to them is called “the verses of ar-Rahman”, the Most Merciful: a sign that His ayat are His mercy to His servants, by which He guides them to the truth, gives them sight after blindness and teaches them after ignorance. Their response, he says, was humility, weeping and turning to Allah, and they were not like those who fall upon Allah’s ayat deaf and blind.",
+      "bn": "সূরাটিতে জাকারিয়া (আঃ) থেকে ইদরিস (আঃ) পর্যন্ত নবীদের যে তালিকা, এই আয়াতে তা শেষ হয়েছে। আস-সা‘দি খেয়াল করিয়েছেন, তাঁদের সামনে যা পড়া হতো তাকে বলা হয়েছে “রহমানের আয়াত”। এতেই বোঝা যায়, তাঁর আয়াত বান্দাদের প্রতি তাঁর রহমত। এর মাধ্যমে তিনি বান্দাদের সত্যের পথ দেখান, অন্ধত্ব থেকে দৃষ্টি দেন, অজ্ঞতা থেকে শিক্ষা দেন। আস-সা‘দি বলেন, তাঁদের সাড়া ছিল বিনয়, কান্না আর আল্লাহর দিকে ফেরা। আল্লাহর আয়াত শুনে যারা বধির ও অন্ধের মতো পড়ে থাকে, তাঁরা তেমন ছিলেন না।"
+     }
+    },
+    {
+     "ref": "17:109",
+     "note": {
+      "en": "The subject is in 17:107: those given knowledge before the Quran. Ibn Kathir identifies them as the righteous among the People of the Book, and as-Sa‘di gives ‘Abdullah ibn Salam (RA) as an example. Ibn Kathir says they prostrated in gratitude for living to meet this Messenger. The ayah repeats “they fall upon their faces”; he explains it as a further description of their humility, not a second prostration. What the recitation leaves behind is named: it increases them in khushu‘.",
+      "bn": "কারা লুটিয়ে পড়ছে, তা বলা আছে ১৭:১০৭-এ: কুরআনের আগে যাদের জ্ঞান দেওয়া হয়েছিল। ইবনে কাসিরের মতে এরা আহলে কিতাবের নেককার লোকেরা। আস-সা‘দি উদাহরণ দিয়েছেন আব্দুল্লাহ ইবনে সালাম (রাঃ)-এর। ইবনে কাসির বলেন, এই রাসূলের দেখা পাওয়া পর্যন্ত বেঁচে থাকার নিয়ামতের শুকরিয়ায় তারা সিজদা করেছিল। “তারা মুখ থুবড়ে পড়ে” কথাটা আয়াতে আবার এসেছে। তাঁর ব্যাখ্যায় এটা তাদের বিনয়ের আরেকটু বর্ণনা, দ্বিতীয় কোনো সিজদা নয়। আর তিলাওয়াত তাদের মধ্যে কী রেখে যায়, তাও বলা আছে: খুশু বাড়িয়ে দেয়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "command-and-refusal",
+   "title": {
+    "en": "The Command, and Those Who Refuse",
+    "bn": "হুকুম, আর যারা তা ফিরিয়ে দেয়"
+   },
+   "body": [
+    {
+     "en": "Three ayat put the prostration as a demand. An-Najm ends with a bare imperative: so prostrate to Allah and worship. Al-Furqan and al-Inshiqaq show the demand being made and turned down: “prostrate to the Most Merciful”, answered with “and what is the Most Merciful?”; the Quran recited, and no prostration. Read as a set, they make the reader’s prostration at 25:60 and 84:21 a pointed act: at the very words of the refusal, the reader does what was refused. The public prostration at an-Najm in Makkah, in the hadith below, already had its one refuser.",
+     "bn": "তিনটি আয়াতে সিজদা এসেছে দাবি হিসেবে। সূরা নাজম শেষ হয়েছে সোজা হুকুমে: আল্লাহকে সিজদা করো, তাঁর ইবাদত করো। সূরা ফুরকান আর ইনশিকাকে দেখা যায়, দাবিটা পেশ করা হলো আর ফিরিয়ে দেওয়া হলো। বলা হলো “রহমানকে সিজদা করো”, জবাব এলো “রহমান আবার কী?” কুরআন পড়ে শোনানো হলো, তবু সিজদা নেই। তিনটি একসঙ্গে পড়লে ২৫:৬০ আর ৮৪:২১-এ পাঠকের সিজদার একটা আলাদা অর্থ দাঁড়ায়। যে কথায় অস্বীকারের বর্ণনা, ঠিক সেখানেই পাঠক সেই কাজটা করেন যা তারা করেনি। মক্কায় নাজমের প্রকাশ্য সিজদাতেও একজন অস্বীকারকারী ছিল, নিচের হাদিসে তার কথা আছে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "53:62",
+     "note": {
+      "en": "As-Sa‘di asks why prostration is named before worship in general, and answers that it is the core of worship. Worship’s heart is humility, and prostration is the servant’s greatest humbling, of heart and body, laying the noblest of his limbs on the ground where feet tread. Al-Qurtubi records two readings: Ibn Mas‘ud, followed by Abu Hanifa and ash-Shafi‘i, took it as the prostration of recitation; Ibn ‘Umar, followed by Malik, as that of the prayer. Al-Qurtubi calls the first more correct.",
+      "bn": "সাধারণ ইবাদতের আগে সিজদার কথা আলাদা করে কেন এলো? আস-সা‘দির জবাব, সিজদাই ইবাদতের মর্ম। ইবাদতের প্রাণ হলো বিনয়, আর বান্দার সবচেয়ে বড় বিনয় সিজদায়। তখন অন্তর আর দেহ দুটোই নত হয়, শরীরের সবচেয়ে সম্মানিত অঙ্গটি সে রাখে পায়ে মাড়ানো মাটিতে। কুরতুবি দুটো মত এনেছেন। ইবনে মাসউদ (রাঃ) একে তিলাওয়াতের সিজদা ধরেছেন, আবু হানিফা ও শাফেয়ি তাঁর পক্ষে। ইবনে উমর (রাঃ) ধরেছেন নামাজের সিজদা, ইমাম মালিক তাঁর পক্ষে। কুরতুবির মতে প্রথমটাই বেশি সঠিক।"
+     }
+    },
+    {
+     "ref": "25:60",
+     "note": {
+      "en": "The ayah reports a sneer. As-Sa‘di explains “and what is ar-Rahman?” as a pretence of not knowing: they claimed not to know the name, and faulted the Prophet ﷺ for calling on another god when he said “O Rahman”. Ibn Kathir compares their objection to “ar-Rahman ar-Rahim” at al-Hudaybiyyah. “Should we prostrate to whatever you order us?” As-Sa‘di reads it as “merely because you command it”, built on denial and pride. The call to prostrate only increased their aversion.",
+      "bn": "আয়াতে ধরা আছে একটা বিদ্রূপ। আস-সা‘দি বলেন, “রহমান আবার কী?” প্রশ্নটা ছিল না-জানার ভান। তারা দাবি করত নামটা চেনে না। আবার নবী ﷺ “ইয়া রহমান” বললে তাঁকে দোষ দিত যে তিনি আরেক ইলাহকে ডাকছেন। ইবনে কাসির এর সঙ্গে হুদাইবিয়ার ঘটনা মিলিয়েছেন, যেখানে তারা “আর-রহমানির রহিম” লিখতে আপত্তি করেছিল। “তুমি বললেই কি আমরা সিজদা করব?” আস-সা‘দির ব্যাখ্যায় কথাটার গোড়ায় ছিল রাসূলকে অস্বীকার আর অহংকার। সিজদার ডাক তাদের বিমুখতাই শুধু বাড়িয়েছে।"
+     }
+    },
+    {
+     "ref": "84:21",
+     "note": {
+      "en": "The Quran recited, and they do not prostrate. As-Sa‘di reads the prostration here as submission: they do not yield to its commands and prohibitions. For that reason, al-Qurtubi reports, Malik in one narration did not count it among the emphasised (‘azā’im) prostrations; Ibn al-‘Arabi says the correct view, which the Medinans narrate from Malik, is that it is one, supported by Quran and Sunnah. Abu Hurayrah (RA) prostrated here in the ‘Isha prayer and said he had prostrated at it behind the Prophet ﷺ (Sahih Muslim 578).",
+      "bn": "কুরআন পড়ে শোনানো হয়, তবু তারা সিজদা করে না। আস-সা‘দি এখানে সিজদার অর্থ নিয়েছেন আনুগত্য: তারা কুরআনের আদেশ-নিষেধের সামনে নত হয় না। কুরতুবির বর্ণনায়, এই অর্থের কারণেই এক বর্ণনায় ইমাম মালিক একে জোর দেওয়া (আজাইম) সিজদাগুলোর মধ্যে ধরেননি। ইবনুল আরাবি বলেছেন, সঠিক কথা হলো এটা সেগুলোর একটি, আর মদিনাবাসীরা মালিক থেকে এটাই বর্ণনা করেছেন। কুরআন ও সুন্নাহ দুটোই এর পক্ষে। আবু হুরাইরা (রাঃ) এশার নামাজে এখানে সিজদা করে বলেছিলেন, তিনি নবী ﷺ-এর পেছনে এই আয়াতে সিজদা করেছেন (সহিহ মুসলিম ৫৭৮)।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 1067",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-1067",
+     "text": {
+      "en": "‘Abdullah [ibn Mas‘ud] said: The Prophet ﷺ recited an-Najm in Makkah and prostrated in it, and those who were with him prostrated, except an old man who took a handful of pebbles or earth, raised it to his forehead and said, “This is enough for me.” Later I saw him killed as a disbeliever.",
+      "bn": "আব্দুল্লাহ ইবনে মাসউদ (রাঃ) বলেন: নবী ﷺ মক্কায় সূরা নাজম তিলাওয়াত করলেন এবং এতে সিজদা করলেন। তাঁর সঙ্গে যারা ছিল তারাও সিজদা করল, কেবল এক বৃদ্ধ ছাড়া। সে এক মুঠো কাঁকর বা মাটি তুলে কপালে ঠেকিয়ে বলল, “আমার জন্য এটুকুই যথেষ্ট।” পরে আমি তাকে কাফির অবস্থায় নিহত হতে দেখেছি।"
+     },
+     "note": {
+      "en": "The prostration at 53:62 in Makkah was made in a crowd that was not all Muslim: Ibn ‘Abbas’s report in al-Bukhari (1071) says the Muslims, the idolaters, jinn and men prostrated with him. The one man who held back would not put his forehead down, only lift the dust up to it.",
+      "bn": "মক্কায় ৫৩:৬২-এর সিজদা হয়েছিল এমন এক ভিড়ে, যেখানে সবাই মুসলিম ছিল না। বুখারিতে (১০৭১) ইবনে আব্বাস (রাঃ)-এর বর্ণনা, মুসলিম, মুশরিক, জিন ও মানুষ সবাই তাঁর সঙ্গে সিজদা করেছিল। যে একজন বিরত থাকল, সে কপাল মাটিতে নামাল না। মাটিটাই তুলে কপালে ঠেকাল।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "how-many-and-how-binding",
+   "title": {
+    "en": "How Many, and How Binding",
+    "bn": "সংখ্যা কত, বিধান কী"
+   },
+   "body": [
+    {
+     "en": "Al-Qurtubi, at the end of al-A‘raf, gives the full range. The usual maximum is fifteen: the view of Ibn Habib, Ibn Wahb in one narration, and Ishaq; some added a sixteenth in al-Hijr. Fourteen, dropping the second prostration of al-Hajj, is Ibn Wahb’s other narration and the view of the aṣḥāb ar-ra’y (the people of opinion). Ash-Shafi‘i kept both in al-Hajj and dropped Sad. The well-known position of Malik is eleven, dropping the second of al-Hajj and the three in the mufassal. The cause, al-Qurtubi says, is that the hadiths and the practice were transmitted differently, and that they differ over whether a bare command to prostrate means the prostration of recitation or that of the prayer.",
+     "bn": "সূরা আ‘রাফের শেষে কুরতুবি পুরো চিত্রটা দিয়েছেন। সাধারণত সর্বোচ্চ ধরা হয় পনেরো। এটা ইবনে হাবিব, এক বর্ণনায় ইবনে ওয়াহব, আর ইসহাকের মত। কেউ কেউ সূরা হিজরে ষোলোতম আরেকটা ধরেছেন। হজের দ্বিতীয় সিজদা বাদ দিয়ে চৌদ্দ, এটা ইবনে ওয়াহবের অপর বর্ণনা, আর আসহাবুর রায়ের মত। ইমাম শাফেয়ি হজের দুটোই রেখেছেন, সোয়াদেরটা বাদ দিয়েছেন। ইমাম মালিকের প্রসিদ্ধ মতে এগারো: হজের দ্বিতীয়টা আর মুফাসসালের তিনটি বাদ। কুরতুবি বলেন, মতভেদের কারণ দুটো: হাদিস আর আমল ভিন্ন ভিন্নভাবে বর্ণিত হয়েছে, আর কুরআনে সিজদার শর্তহীন হুকুম বলতে তিলাওয়াতের সিজদা বোঝায় নাকি নামাজের ফরজ সিজদা, তা নিয়েও মত আলাদা।"
+    },
+    {
+     "en": "Whether the prostration is required divides them too. Al-Qurtubi reports that Malik and ash-Shafi‘i held it is not wajib, and Abu Hanifa that it is: an unqualified command to prostrate binds, the Prophet ﷺ kept to it, and Iblis weeps when it is done. The Malikis rested on ‘Umar’s sermon below, given before Muhajirun and Ansar with no one objecting; al-Qurtubi concludes the Prophet’s persistence shows it is recommended. Ma’arif al-Qur’an gives the Hanafi view: wajib on reciter and listener. On 41:37-38 it records ‘Ali and Ibn Mas‘ud prostrating after 41:37, which Malik adopted, and Ibn ‘Abbas after 41:38, followed by most jurists and the Hanafis.",
+     "bn": "সিজদাটা বাধ্যতামূলক কি না, তা নিয়েও মত আলাদা। কুরতুবির বর্ণনায় ইমাম মালিক ও শাফেয়ির মতে এটা ওয়াজিব নয়। আবু হানিফার মতে ওয়াজিব। তাঁর দলিল: সিজদার শর্তহীন হুকুম মানেই আবশ্যকতা, নবী ﷺ নিয়মিত এটা করতেন, আর সিজদা হলে ইবলিস কাঁদে। মালিকিরা নির্ভর করেছেন নিচের হাদিসে উমর (রাঃ)-এর খুতবার ওপর। তিনি কথাটা বলেছিলেন মুহাজির ও আনসারদের সামনে, কেউ আপত্তি করেনি। কুরতুবির সিদ্ধান্ত, নবী ﷺ-এর নিয়মিত আমল এটা মুস্তাহাব হওয়াই বোঝায়। মাআরিফুল কুরআন হানাফি মত দিয়েছে: পাঠক ও শ্রোতা দুজনের ওপরই ওয়াজিব। ৪১:৩৭ ও ৪১:৩৮ নিয়ে সেখানে আছে, আলী ও ইবনে মাসউদ (রাঃ) সিজদা করতেন ৪১:৩৭-এর পর, ইমাম মালিক এটাই নিয়েছেন। ইবনে আব্বাস (রাঃ) করতেন ৪১:৩৮-এর পর, অধিকাংশ ফকিহ আর হানাফিরা এই মতের।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "38:24",
+     "note": {
+      "en": "Dawud (AS) “fell down raki‘an”, bowing, yet as-Sa‘di glosses it as prostrating, and al-Qurtubi quotes Ibn al-‘Arabi that the scholars do not differ that ruku‘ here means sujud. Ibn Kathir warns that the stories told about this trial come mostly from Isra’iliyyat, with nothing authentic from the Prophet ﷺ, and keeps to the text. Its status is disputed: the Hanafis count it as wajib (Ma’arif al-Qur’an), ash-Shafi‘i left it out (al-Qurtubi), and Ibn ‘Abbas said it is not among the ‘azā’im, yet saw the Prophet ﷺ prostrate there.",
+      "bn": "দাউদ (আঃ) “খাররা রাকিআন”, রুকুতে লুটিয়ে পড়লেন। কিন্তু আস-সা‘দি এর অর্থ করেছেন সিজদা, আর কুরতুবি ইবনুল আরাবির কথা এনেছেন: এখানে রুকু মানে সিজদা, এ নিয়ে আলেমদের দ্বিমত নেই। ইবনে কাসির সতর্ক করেছেন, এই পরীক্ষা নিয়ে যত কাহিনি বলা হয় তার বেশির ভাগ ইসরাইলি বর্ণনা, নবী ﷺ থেকে সহিহ কিছু আসেনি। তাই তিনি আয়াতের শব্দেই থেকেছেন। এই সিজদা নিয়েও মতভেদ আছে। হানাফিদের মতে এটা ওয়াজিব (মাআরিফুল কুরআন), শাফেয়ি একে গণনা থেকে বাদ দিয়েছেন (কুরতুবি)। আর ইবনে আব্বাস (রাঃ) একে আজাইমের মধ্যে ধরেননি, তবু নবী ﷺ-কে এখানে সিজদা করতে দেখেছেন।"
+     }
+    },
+    {
+     "ref": "22:77",
+     "note": {
+      "en": "“Bow and prostrate and worship your Lord.” Al-Qurtubi reports that Malik and Abu Hanifa did not count it among the emphasised (‘azā’im) prostrations: bowing is paired with prostrating, so the prayer is meant. Ma’arif al-Qur’an adds Sufyan ath-Thawri to them, and gives ash-Shafi‘i and Ahmad as holding the opposite, on a hadith that al-Hajj is favoured with two prostrations, whose authenticity Abu Hanifa questioned. Al-Qurtubi, on 7:206, prefers dropping it, as the hadith for it is not sound.",
+      "bn": "“রুকু করো, সিজদা করো, তোমাদের রবের ইবাদত করো।” কুরতুবির বর্ণনায় ইমাম মালিক ও আবু হানিফা একে জোর দেওয়া (আজাইম) সিজদাগুলোর মধ্যে গোনেননি। কারণ এখানে সিজদার সঙ্গে রুকু জোড়া লেগে এসেছে, তাই উদ্দেশ্য নামাজ। মাআরিফুল কুরআন এই দলে সুফিয়ান সাওরিকেও রেখেছে। আর বলেছে, ইমাম শাফেয়ি ও আহমাদের মত উল্টো। তাঁদের দলিল একটা হাদিস, যাতে আছে সূরা হজ দুই সিজদার কারণে বিশেষ মর্যাদা পেয়েছে। আবু হানিফা সেই হাদিসের বিশুদ্ধতা নিয়ে প্রশ্ন তুলেছেন। কুরতুবি ৭:২০৬-এর তাফসিরে এটা বাদ দেওয়াকেই সঠিক বলেছেন, কারণ এর পক্ষের হাদিস সহিহ নয়।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 1077",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-1077",
+     "text": {
+      "en": "Rabi‘ah ibn ‘Abdullah ibn al-Hudayr related that ‘Umar ibn al-Khattab recited Surat an-Nahl on the minbar on a Friday. When he reached the prostration he came down and prostrated, and the people prostrated. On the following Friday he recited it, and when he reached the prostration he said: “O people, we pass by prostrations. Whoever prostrates has done right, and whoever does not prostrate, there is no sin on him.” And ‘Umar did not prostrate. Nafi‘ added from Ibn ‘Umar: “Allah has not made the prostration obligatory, unless we wish.”",
+      "bn": "রবিআ ইবনে আব্দুল্লাহ ইবনে হুদাইর বর্ণনা করেন: উমর ইবনুল খাত্তাব (রাঃ) এক জুমার দিন মিম্বারে সূরা নাহল তিলাওয়াত করলেন। সিজদার আয়াতে পৌঁছে তিনি নেমে এসে সিজদা করলেন, লোকেরাও সিজদা করল। পরের জুমায় আবার সেটা পড়লেন। সিজদার আয়াতে পৌঁছে বললেন: “হে লোকসকল, আমরা সিজদার আয়াত অতিক্রম করি। যে সিজদা করে সে ঠিক কাজ করে, আর যে করে না তার কোনো গুনাহ নেই।” সেদিন উমর (রাঃ) সিজদা করেননি। নাফে ইবনে উমর (রাঃ) থেকে আরও বর্ণনা করেছেন: “আল্লাহ সিজদা ফরজ করেননি, তবে আমরা চাইলে করতে পারি।”"
+     },
+     "note": {
+      "en": "This is the report al-Qurtubi says the Maliki scholars relied on. Ma’arif al-Qur’an, giving the Hanafi side, reads a related report, Zayd ibn Thabit reciting an-Najm without the Prophet ﷺ prostrating (al-Bukhari 1073), as no proof that it is optional: he may have lacked wudu, and the prostration can be delayed.",
+      "bn": "কুরতুবি বলেছেন, মালিকি আলেমরা এই বর্ণনার ওপরই নির্ভর করেছেন। মাআরিফুল কুরআন হানাফি দিক থেকে আরেকটা বর্ণনা আলোচনা করেছে। জায়েদ ইবনে সাবিত (রাঃ) নবী ﷺ-এর সামনে সূরা নাজম পড়েছিলেন, কিন্তু তিনি সিজদা করেননি (বুখারি ১০৭৩)। মাআরিফের মতে এতে প্রমাণ হয় না যে সিজদা ঐচ্ছিক। হয়তো তখন তাঁর অজু ছিল না, আর সিজদা পরে আদায় করা যায়।"
+     }
+    },
+    {
+     "src": "Sahih al-Bukhari 1069",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-1069",
+     "text": {
+      "en": "Ibn ‘Abbas said: Sad is not one of the emphasised (‘azā’im) prostrations, and I have seen the Prophet ﷺ prostrate in it.",
+      "bn": "ইবনে আব্বাস (রাঃ) বলেন: সূরা সোয়াদের সিজদা জোর দেওয়া (আজাইম) সিজদাগুলোর মধ্যে পড়ে না। তবে আমি নবী ﷺ-কে এতে সিজদা করতে দেখেছি।"
+     },
+     "note": {
+      "en": "The phrase is ‘azā’im as-sujud, the emphasised prostrations. Ibn Kathir calls the prostration in Sad one of thanks, citing an-Nasa’i’s report from Ibn ‘Abbas, whose narrators he calls reliable, that the Prophet ﷺ said: “Dawud prostrated it in repentance, and we prostrate it in thanks.”",
+      "bn": "মূল শব্দ আজাইমুস সুজুদ, অর্থাৎ জোর দেওয়া সিজদাগুলো। ইবনে কাসির সোয়াদের সিজদাকে শুকরিয়ার সিজদা বলেছেন। দলিল হিসেবে এনেছেন নাসায়িতে ইবনে আব্বাস (রাঃ)-এর বর্ণনা, যার বর্ণনাকারীদের তিনি নির্ভরযোগ্য বলেছেন। সেখানে নবী ﷺ বলেছেন: “দাউদ (আঃ) এই সিজদা করেছিলেন তওবা হিসেবে, আর আমরা করি শুকরিয়া হিসেবে।”"
+     }
+    }
+   ]
+  },
+  {
+   "id": "in-the-prostration",
+   "title": {
+    "en": "What Is Done and Said",
+    "bn": "সিজদায় কী করা হয়, কী বলা হয়"
+   },
+   "body": [
+    {
+     "en": "Al-Qurtubi, on 7:206, states that the prostration of recitation needs what the prayer needs: purity, intention, facing the qiblah, and a proper time. He then records the exception al-Bukhari mentions, that Ibn ‘Umar prostrated without purity. On the takbir, he reports ash-Shafi‘i, Ahmad and Ishaq saying takbir with raised hands; Malik’s known view is takbir going down and rising within the prayer, and most jurists say takbir for it outside the prayer as well. Most, he says, close it with no salam; Ishaq and a group of the Salaf close it with salam, and al-Qurtubi, with Ibn al-‘Arabi, prefers that. On timing, ash-Shafi‘i allowed it at any hour, since it is a prayer with a cause.",
+     "bn": "৭:২০৬-এর তাফসিরে কুরতুবি লিখেছেন, নামাজের জন্য যা লাগে তিলাওয়াতের সিজদার জন্যও তাই লাগে: পবিত্রতা, নিয়ত, কিবলামুখী হওয়া, আর উপযুক্ত সময়। তারপর তিনি একটা ব্যতিক্রমও উল্লেখ করেছেন, যা বুখারিতে আছে: ইবনে উমর (রাঃ) পবিত্রতা ছাড়াই সিজদা করতেন। তাকবির প্রসঙ্গে তাঁর বর্ণনা, শাফেয়ি, আহমাদ ও ইসহাকের মতে হাত তুলে তাকবির বলা হবে। ইমাম মালিকের প্রসিদ্ধ মত, নামাজের ভেতরে নামার সময় ও ওঠার সময় তাকবির। নামাজের বাইরেও তাকবির বলার কথা বলেছেন অধিকাংশ ফকিহ। অধিকাংশের মতে এতে সালাম নেই। তবে ইসহাক ও সালাফের একদল সালাম ফেরানোর পক্ষে, আর কুরতুবি ইবনুল আরাবির সঙ্গে এই মতটাকেই উত্তম বলেছেন। সময়ের ব্যাপারে শাফেয়ি যেকোনো সময় অনুমতি দিয়েছেন, কারণ এটা কারণযুক্ত নামাজ।"
+    },
+    {
+     "en": "Inside the prayer, Ma’arif al-Qur’an gives a Hanafi detail drawn from 38:24, where bowing stands for prostration: the bowing of the prayer can discharge the prostration of recitation if it comes soon after the ayah with that intention, though the preferred way is a separate prostration, then rising, reciting a verse or two, and bowing. 32:15 describes believers glorifying with the praise of their Lord as they fall. The Prophet’s own words in the prostration are recorded by at-Tirmidhi below, and Ibn Kathir, on 96:19, cites Muslim: the nearest a servant is to his Lord is in prostration.",
+     "bn": "নামাজের ভেতরের নিয়মে মাআরিফুল কুরআন হানাফি একটা খুঁটিনাটি দিয়েছে, যা ৩৮:২৪ থেকে নেওয়া। সেখানে রুকু শব্দটা সিজদার জায়গায় এসেছে। তাই সিজদার আয়াতের অল্প পরেই নিয়ত করে রুকুতে গেলে নামাজের রুকু দিয়েই তিলাওয়াতের সিজদা আদায় হতে পারে। তবে উত্তম পদ্ধতি হলো আলাদা সিজদা করা, তারপর উঠে এক-দুই আয়াত পড়ে রুকুতে যাওয়া। ৩২:১৫ মুমিনদের বর্ণনা দেয়: লুটিয়ে পড়ার সময় তারা প্রশংসার সঙ্গে রবের তাসবিহ করে। নবী ﷺ-এর নিজের দোয়া তিরমিজি বর্ণনা করেছেন, নিচে আছে। আর ৯৬:১৯-এর তাফসিরে ইবনে কাসির মুসলিমের হাদিস এনেছেন: বান্দা তার রবের সবচেয়ে কাছে থাকে সিজদায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "96:19",
+     "note": {
+      "en": "The last ayah of al-‘Alaq. As-Sa‘di says it came about Abu Jahl forbidding the Prophet ﷺ to pray, yet applies to everyone who forbids good. “Prostrate and draw near”: Ibn Kathir joins it to the hadith in Sahih Muslim on closeness in prostration. Al-Qurtubi quotes Ibn al-‘Arabi that the plain sense is the prayer’s prostration, were it not for Abu Hurayrah’s report of prostrating here with the Prophet ﷺ, which settles it as a prostration of recitation.",
+      "bn": "সূরা আলাকের শেষ আয়াত। আস-সা‘দি বলেন, নবী ﷺ-কে নামাজে বাধা দেওয়া আবু জাহলকে কেন্দ্র করে আয়াতটি নাজিল হলেও এটা প্রযোজ্য প্রত্যেক এমন লোকের বেলায়, যে ভালো কাজে বাধা দেয়। “সিজদা করো, কাছে এসো”: ইবনে কাসির এর সঙ্গে সহিহ মুসলিমের সেই হাদিস মিলিয়েছেন, যেখানে সিজদায় রবের নৈকট্যের কথা আছে। কুরতুবি ইবনুল আরাবির কথা এনেছেন: বাহ্যিক অর্থে এটা নামাজের সিজদা। কিন্তু আবু হুরাইরা (রাঃ) এখানে নবী ﷺ-এর সঙ্গে সিজদা করেছেন বলে যে বর্ণনা আছে, তাতে এটা তিলাওয়াতের সিজদা হিসেবেই সাব্যস্ত।"
+     }
+    },
+    {
+     "ref": "32:15",
+     "note": {
+      "en": "A definition by exclusion: “only those believe in Our verses who…”. As-Sa‘di reads it as true faith, marked by its evidence. When reminded, they fall in prostration, humbled before the ayat with the humility of remembrance and joy at knowing Allah, and they are not arrogant, neither in heart nor in body. Ibn Kathir sets them against 40:60, those too proud to worship.",
+      "bn": "সংজ্ঞাটা এসেছে বাদ দেওয়ার ভঙ্গিতে: “আমার আয়াতে কেবল তারাই ঈমান আনে, যারা…”। আস-সা‘দির মতে এখানে প্রকৃত ঈমানের কথা, যার আলামত চোখে দেখা যায়। উপদেশ দেওয়া হলে তারা সিজদায় লুটিয়ে পড়ে। আয়াতের সামনে তারা নত হয় জিকিরের বিনয় আর আল্লাহকে চেনার আনন্দ নিয়ে। অহংকার তাদের নেই, না অন্তরে, না দেহে। ইবনে কাসির এদের বিপরীতে রেখেছেন ৪০:৬০-এর লোকদের, যারা ইবাদতে অহংকার করে।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Jami‘ at-Tirmidhi 580",
+     "url": "https://quranx.com/hadith/Tirmidhi/Hadith-580",
+     "grade": {
+      "en": "hasan sahih",
+      "bn": "হাসান সহিহ"
+     },
+     "text": {
+      "en": "‘A’ishah said: In the prostrations of the Quran at night, the Messenger of Allah ﷺ would say: “Sajada wajhiya lilladhi khalaqahu wa shaqqa sam‘ahu wa basarahu bi-hawlihi wa quwwatih: my face has prostrated to the One who created it and brought forth its hearing and its sight, by His might and His power.”",
+      "bn": "আয়েশা (রাঃ) বলেন: রাতে কুরআনের সিজদাগুলোতে রাসূলুল্লাহ ﷺ বলতেন: “সাজাদা ওয়াজহিয়া লিল্লাযি খালাকাহু ওয়া শাক্কা সাম‘আহু ওয়া বাসারাহু বিহাওলিহি ওয়া কুওয়াতিহ: আমার মুখমণ্ডল সিজদা করল তাঁকে, যিনি একে সৃষ্টি করেছেন, নিজের শক্তি ও ক্ষমতায় এতে শ্রবণ ও দৃষ্টি খুলে দিয়েছেন।”"
+     },
+     "note": {
+      "en": "At-Tirmidhi grades it hasan sahih. ‘A’ishah (RA) gives the setting: the prostrations of the Quran at night. The words fit the moment: the face is on the ground, and the servant names the One who gave it hearing and sight.",
+      "bn": "তিরমিজি একে হাসান সহিহ বলেছেন। আয়েশা (রাঃ) প্রেক্ষাপটও জানিয়েছেন: রাতে কুরআনের সিজদা। কথাগুলো ওই মুহূর্তের সঙ্গে মিলে যায়। মুখ তখন মাটিতে, আর বান্দা স্মরণ করছে তাঁকে, যিনি এই মুখকে শোনার ও দেখার শক্তি দিয়েছেন।"
+     }
+    },
+    {
+     "src": "Sahih Muslim 81",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-81",
+     "text": {
+      "en": "Abu Hurayrah reported that the Messenger of Allah ﷺ said: “When the son of Adam recites the prostration and prostrates, Satan withdraws, weeping, and says: Woe to him! The son of Adam was commanded to prostrate, and he prostrated, so Paradise is his; I was commanded to prostrate, and I refused, so the Fire is mine.”",
+      "bn": "আবু হুরাইরা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: “আদম সন্তান যখন সিজদার আয়াত পড়ে সিজদা করে, শয়তান তখন কাঁদতে কাঁদতে সরে যায় আর বলে: হায়, তার সর্বনাশ! আদম সন্তানকে সিজদার হুকুম দেওয়া হলো, সে সিজদা করল, তাই তার জন্য জান্নাত। আমাকে সিজদার হুকুম দেওয়া হয়েছিল, আমি অস্বীকার করলাম, তাই আমার জন্য জাহান্নাম।”"
+     },
+     "note": {
+      "en": "Al-Qurtubi records that Abu Hanifa cited this hadith among his proofs that the prostration of recitation is wajib, and replies that “the son of Adam was commanded to prostrate” speaks of the obligatory prostration, so it does not make this one obligatory. Either way, the hadith sets each prostration at these ayat against the first refusal.",
+      "bn": "কুরতুবি জানিয়েছেন, তিলাওয়াতের সিজদা ওয়াজিব হওয়ার পক্ষে আবু হানিফা যেসব দলিল দিয়েছেন, এই হাদিস তার একটি। কুরতুবির জবাব, “আদম সন্তানকে সিজদার হুকুম দেওয়া হলো” কথাটা ফরজ সিজদার খবর, তাই এ থেকে তিলাওয়াতের সিজদা ওয়াজিব প্রমাণ হয় না। যেভাবেই পড়া হোক, হাদিসটি এসব আয়াতের প্রতিটি সিজদাকে দাঁড় করায় প্রথম অস্বীকারের মুখোমুখি।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "When you reach a verse marked ۩, recall that the Prophet ﷺ prostrated at such verses and his Companions prostrated with him (Sahih al-Bukhari 1075).",
+   "bn": "۩ চিহ্নিত আয়াতে পৌঁছালে মনে রাখুন, নবী ﷺ এমন আয়াতে সিজদা করতেন, সাহাবিরাও তাঁর সঙ্গে করতেন (সহিহ বুখারি ১০৭৫)।"
+  },
+  {
+   "en": "Know your school’s position: Ma’arif al-Qur’an gives the Hanafi view that it is wajib on reciter and listener; al-Qurtubi reports Malik and ash-Shafi‘i holding it is not obligatory.",
+   "bn": "নিজের মাযহাবের মত জেনে নিন। মাআরিফুল কুরআনে হানাফি মত: পাঠক ও শ্রোতা দুজনের ওপরই ওয়াজিব। কুরতুবির বর্ণনায় মালিক ও শাফেয়ির মতে এটা বাধ্যতামূলক নয়।"
+  },
+  {
+   "en": "Learn the words ‘A’ishah (RA) reports for the prostration of recitation: sajada wajhiya lilladhi khalaqahu wa shaqqa sam‘ahu wa basarahu bi-hawlihi wa quwwatih (at-Tirmidhi 580).",
+   "bn": "তিলাওয়াতের সিজদার জন্য আয়েশা (রাঃ)-এর বর্ণিত দোয়াটি মুখস্থ করুন: সাজাদা ওয়াজহিয়া লিল্লাযি খালাকাহু ওয়া শাক্কা সাম‘আহু ওয়া বাসারাহু বিহাওলিহি ওয়া কুওয়াতিহ (তিরমিজি ৫৮০)।"
+  },
+  {
+   "en": "In Fussilat, note the two places Ma’arif al-Qur’an reports: after 41:37, from ‘Ali and Ibn Mas‘ud, adopted by Malik; or after 41:38, from Ibn ‘Abbas, followed by most jurists and the Hanafis.",
+   "bn": "সূরা ফুসসিলাতে মাআরিফুল কুরআন দুটো জায়গার কথা জানিয়েছে, খেয়াল রাখুন। ৪১:৩৭-এর পরে, আলী ও ইবনে মাসউদ (রাঃ) থেকে, ইমাম মালিক এটা নিয়েছেন। অথবা ৪১:৩৮-এর পরে, ইবনে আব্বাস (রাঃ) থেকে, অধিকাংশ ফকিহ ও হানাফিরা এটা অনুসরণ করেন।"
+  },
+  {
+   "en": "Inside a prayer, Ma’arif al-Qur’an gives the preferred Hanafi way: a separate prostration, then rising, reciting a verse or two, and going into ruku‘.",
+   "bn": "নামাজের ভেতরে মাআরিফুল কুরআনে বর্ণিত হানাফি উত্তম পদ্ধতি: আলাদা সিজদা, তারপর উঠে এক-দুই আয়াত পড়ে রুকুতে যাওয়া।"
+  },
+  {
+   "en": "Before prostrating at 25:60 or 84:21, read the refusal the ayah describes; your prostration is the answer those people would not give.",
+   "bn": "২৫:৬০ বা ৮৪:২১-এ সিজদার আগে আয়াতে বর্ণিত অস্বীকারটা খেয়াল করে পড়ুন। আপনার সিজদা সেই জবাব, যা ওই লোকেরা দিতে রাজি হয়নি।"
+  }
+ ],
  "refs": [
   "7:206",
   "13:15",
@@ -16,6 +331,7 @@
   "17:109",
   "19:58",
   "22:18",
+  "22:77",
   "25:60",
   "27:26",
   "32:15",
@@ -26,7 +342,44 @@
   "96:19"
  ],
  "videos": [],
- "reading": [],
- "sources": [],
- "related": []
+ "reading": [
+  {
+   "title": {
+    "en": "How to do the prostration of recitation, and purity for it (Bengali)",
+    "bn": "তেলাওয়াতের সিজদার পদ্ধতি ও এর জন্য পবিত্রতা"
+   },
+   "url": "https://islamqa.info/bn/answers/22650",
+   "site": "islamqa.info",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Verses of Sujud al-Tilawah in the Quran",
+    "bn": "কুরআনে তিলাওয়াতের সিজদার আয়াতগুলো"
+   },
+   "url": "https://islamqa.info/en/answers/5126",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "Is Sujud at-Tilawah obligatory?",
+    "bn": "তিলাওয়াতের সিজদা কি বাধ্যতামূলক?"
+   },
+   "url": "https://islamqa.info/en/answers/73402",
+   "site": "islamqa.info",
+   "lang": "en"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir",
+  "Tafsir as-Sa'di",
+  "Tafsir al-Qurtubi",
+  "Ma'arif al-Qur'an"
+ ],
+ "related": [
+  "allah-remembrance",
+  "th-o-believers",
+  "allah-gratitude"
+ ]
 }

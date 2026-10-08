@@ -1,14 +1,378 @@
 {
  "id": "th-o-mankind",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "O Mankind",
   "bn": "হে মানুষ"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "When the Quran calls out to every human being at once, what does it ask of all of us?",
+  "bn": "কুরআন যখন একসঙ্গে সব মানুষকে ডাকে, তখন আমাদের সবার কাছে সে কী চায়?"
+ },
+ "intro": [
+  {
+   "en": "Yā ayyuha an-nās, “O mankind”, is the Quran’s widest call, and it does not wait for the listener to believe first. Al-Qurtubi, on 2:21, records two views of who is meant: the disbelievers only, or all people, so that believers are told to keep up their worship and disbelievers to begin it. He calls the second view good. IslamQA counts the call in twenty places: two in al-Baqarah, four in an-Nisa’, one in al-A‘raf, four in Yunus, four in al-Hajj, one in Luqman, three in Fatir and one in al-Hujurat. This page’s list has exactly that many from each of those surahs.",
+   "bn": "ইয়া আইয়ুহান নাস, “হে মানুষ”, কুরআনের সবচেয়ে বড় পরিসরের ডাক। শ্রোতা আগে ঈমান আনবে, তারপর ডাক আসবে, ব্যাপারটা এমন নয়। ২:২১-এর তাফসিরে আল-কুরতুবি দুটি মত এনেছেন: ডাকা হচ্ছে কেবল কাফিরদের, অথবা সব মানুষকে। দ্বিতীয় মতে মুমিনকে বলা হচ্ছে ইবাদত ধরে রাখতে, কাফিরকে বলা হচ্ছে শুরু করতে। এই মতটিকেই তিনি ভালো বলেছেন। ইসলামকিউএ হিসাব করে দেখিয়েছে, এই ডাক এসেছে বিশ জায়গায়: আল-বাকারায় দুই, আন-নিসায় চার, আল-আরাফে এক, ইউনুসে চার, আল-হজ্জে চার, লুকমানে এক, ফাতিরে তিন আর আল-হুজুরাতে এক। এই পাতার তালিকায় ওই সূরাগুলো থেকে ঠিক ততগুলো আয়াতই আছে।"
+  },
+  {
+   "en": "The old list also carried four ayat outside that count. In 27:16 the same words are spoken by Sulayman (AS) to people, about a favour he had been given. In 82:6 and 84:6 the call narrows to yā ayyuha al-insān, “O man”, in the singular; the page keeps them because they say to one person what the plural says to all. 48:9 contains no call at all and is set aside.",
+   "bn": "পুরোনো তালিকায় ওই হিসাবের বাইরেও চারটি আয়াত ছিল। ২৭:১৬-তে একই শব্দে ডাক দিয়েছেন সুলাইমান (আঃ), নিজের পাওয়া এক নিয়ামতের কথা জানাতে। ৮২:৬ আর ৮৪:৬-এ ডাকটা ছোট হয়ে এসেছে একবচনে: ইয়া আইয়ুহাল ইনসান, “হে মানুষ”, অর্থাৎ একজনকে। বহুবচনের ডাক সবাইকে যা বলে, এ দুটি তা-ই বলে প্রত্যেককে আলাদা করে। তাই পাতায় এগুলো রাখা হলো। ৪৮:৯-এ কোনো ডাকই নেই, তাই সেটি বাদ গেছে।"
+  },
+  {
+   "en": "On where these calls came down, al-Qurtubi, on 2:21, records from ‘Alqamah and Mujahid that every ayah opening with “O mankind” was revealed in Makkah and every one opening with “O you who believe” in Madinah. He accepts the second half and rejects the first, because al-Baqarah and an-Nisa’ are Madinan and contain “O mankind”. IslamQA calls the pattern what is usually the case, naming al-Baqarah and an-Nisa’ as exceptions one way, and al-Hajj, which it counts as Makkan, the other.",
+   "bn": "এই ডাকগুলো কোথায় নাজিল হয়েছে, সে প্রসঙ্গে ২:২১-এর তাফসিরে আল-কুরতুবি আলকামা ও মুজাহিদের কথা এনেছেন: যে আয়াতের শুরুতে “হে মানুষ”, তা নাজিল হয়েছে মক্কায়; আর যার শুরুতে “হে মুমিনগণ”, তা মদিনায়। কথার দ্বিতীয় অংশ তিনি মেনেছেন, প্রথম অংশ মানেননি। কারণ আল-বাকারা আর আন-নিসা মাদানি সূরা, অথচ দুটিতেই “হে মানুষ” আছে। ইসলামকিউএ বলেছে, সাধারণত এমনটাই হয়। তবে ব্যতিক্রম হিসেবে এক দিকে দেখিয়েছে আল-বাকারা ও আন-নিসা, অন্য দিকে আল-হজ্জ, যাকে তারা মাক্কি ধরেছে।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "worship-your-lord",
+   "title": {
+    "en": "Worship the One Who Created You",
+    "bn": "যিনি সৃষ্টি করেছেন, ইবাদত তাঁরই"
+   },
+   "body": [
+    {
+     "en": "The first “O mankind” in the order of the mushaf, 2:21, is a command to worship, and it gives its reason in the same breath: your Lord created you and those before you. Al-Qurtubi notes why creation is the attribute named: the Arabs already admitted that Allah had created them, so the argument starts from what they granted. 22:73 makes the same point from the other side: what is worshipped besides Him cannot create even a fly. As-Sa‘di reads the refusal in 10:104 the same way: those objects create nothing.",
+     "bn": "মুসহাফের ক্রমে প্রথম “হে মানুষ” আসে ২:২১-এ, আর সেটা ইবাদতের হুকুম। কারণটাও একই নিঃশ্বাসে বলে দেওয়া: তোমাদের রব তোমাদের সৃষ্টি করেছেন, তোমাদের আগের লোকদেরও। এত গুণের মধ্যে সৃষ্টির কথাই কেন, আল-কুরতুবি তা-ও ধরিয়ে দিয়েছেন। আরবরা নিজেরাই মানত যে আল্লাহ তাদের সৃষ্টি করেছেন। তাই যুক্তি শুরু হয়েছে তাদের মেনে নেওয়া কথা থেকে। ২২:৭৩ একই কথা বলে উল্টো দিক থেকে: আল্লাহকে ছেড়ে যাদের ইবাদত হয়, তারা একটা মাছিও সৃষ্টি করতে পারে না। ১০:১০৪-এর অস্বীকৃতিও আস-সাদি এভাবেই পড়েছেন: ওরা কিছুই সৃষ্টি করে না।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:21",
+     "note": {
+      "en": "The ayah ends with la‘allakum tattaqūn, “that you may become righteous”. As-Sa‘di gives two readings: by worshipping Allah alone you guard yourselves against His anger and punishment, or by worshipping Him you become people of taqwa. Both are correct, he says, and each implies the other. Al-Qurtubi adds that “those before you” are mentioned so that people think of those who have passed: the One who made them die will make you die too.",
+      "bn": "আয়াতের শেষে আছে লাআল্লাকুম তাত্তাকুন, “যাতে তোমরা মুত্তাকি হতে পারো”। আস-সাদি এর দুটি অর্থ বলেছেন। এক, একমাত্র আল্লাহর ইবাদত করলে তোমরা তাঁর অসন্তোষ আর শাস্তি থেকে বাঁচবে। দুই, তাঁর ইবাদত করতে করতে তোমরা তাকওয়াওয়ালাদের দলে ঢুকবে। তাঁর মতে দুটোই ঠিক, আর একটা অন্যটাকে টেনে আনে। আল-কুরতুবি যোগ করেছেন, “তোমাদের আগের লোকদের” কথা এসেছে যাতে মানুষ চলে যাওয়া লোকদের কথা ভাবে। যিনি তাদের মৃত্যু দিয়েছেন, তিনি তোমাদেরও মৃত্যু দেবেন।"
+     }
+    },
+    {
+     "ref": "10:104",
+     "note": {
+      "en": "Here the Prophet ﷺ is told to say “O people” to those in doubt about his religion. As-Sa‘di: whatever their doubt, he has none; he has certain knowledge that it is the truth. So he states where he stands: I do not worship what you worship besides Allah, but Allah, “who causes your death”. As-Sa‘di unpacks the phrase: He created you, makes you die and raises you to repay your deeds, so He alone deserves worship.",
+      "bn": "এখানে নবী ﷺ-কে বলা হচ্ছে, যারা তাঁর দ্বীন নিয়ে সন্দেহে আছে, তাদের “হে মানুষ” বলে ডাকতে। আস-সাদি বলেন, তাদের যত সন্দেহই থাক, তাঁর কোনো সন্দেহ নেই; এটাই যে সত্য, সে ব্যাপারে তাঁর জ্ঞান নিশ্চিত। তাই তিনি নিজের অবস্থান জানিয়ে দেন: আল্লাহকে ছেড়ে তোমরা যাদের ইবাদত করো, আমি তাদের ইবাদত করি না; আমি ইবাদত করি আল্লাহর, “যিনি তোমাদের মৃত্যু ঘটান”। আস-সাদি কথাটা খুলে বলেছেন: তিনিই তোমাদের সৃষ্টি করেছেন, তিনিই মৃত্যু দেন, আবার তিনিই তুলবেন আমলের প্রতিদান দিতে। তাই ইবাদতের হকদার কেবল তিনি।"
+     }
+    },
+    {
+     "ref": "22:73",
+     "note": {
+      "en": "A parable announced as a parable, with an order to listen: those invoked besides Allah could not create even a fly. As-Sa‘di says the call is to believers and disbelievers alike: the believers grow in knowledge and insight, and the proof is established against the disbelievers. On “weak are the pursuer and pursued”, Ibn Kathir reports Ibn ‘Abbas (the idol and the fly), the view Ibn Jarir favoured, and as-Suddi (the worshipper and the idol).",
+      "bn": "উপমাটা আসছে উপমা বলেই, সঙ্গে শোনার হুকুম: আল্লাহকে ছেড়ে যাদের ডাকা হয়, তারা একটা মাছিও বানাতে পারবে না। আস-সাদি বলেন, এ ডাক মুমিন-কাফির দুজনের প্রতিই। মুমিনের জ্ঞান আর অন্তর্দৃষ্টি বাড়ে, আর কাফিরের বিরুদ্ধে দলিল কায়েম হয়ে যায়। “প্রার্থনাকারী আর যার কাছে প্রার্থনা, দুজনই দুর্বল”, এর ব্যাখ্যায় ইবনে কাসির দুটি মত এনেছেন। ইবনে আব্বাস (রাঃ) বলেছেন, এরা হলো মূর্তি আর মাছি; ইবনে জারির এই মতটিকেই অগ্রাধিকার দিয়েছেন। আস-সুদ্দি বলেছেন, উপাসক আর মূর্তি।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 4477",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-4477",
+     "text": {
+      "en": "‘Abdullah (RA) said: I asked the Prophet ﷺ, “Which sin is the greatest with Allah?” He said, “That you set up a rival to Allah while He created you.” I said, “That is indeed great.” I said, “Then which?” He said, “That you kill your child for fear that he will eat with you.” I said, “Then which?” He said, “That you commit adultery with your neighbour’s wife.”",
+      "bn": "আবদুল্লাহ (রাঃ) বলেন, আমি নবী ﷺ-কে জিজ্ঞেস করলাম, “আল্লাহর কাছে সবচেয়ে বড় গুনাহ কোনটি?” তিনি বললেন, “আল্লাহর সমকক্ষ দাঁড় করানো, অথচ তিনিই তোমাকে সৃষ্টি করেছেন।” আমি বললাম, “এটা তো সত্যিই গুরুতর।” আবার বললাম, “তারপর কোনটি?” তিনি বললেন, “তোমার সন্তান তোমার সঙ্গে খাবে, এই ভয়ে তাকে হত্যা করা।” আমি বললাম, “তারপর কোনটি?” তিনি বললেন, “প্রতিবেশীর স্ত্রীর সঙ্গে ব্যভিচার করা।”"
+     },
+     "note": {
+      "en": "Ibn Kathir cites this report from the Two Sahihs under 2:21-22. The first answer carries the ayah’s own reasoning.",
+      "bn": "ইবনে কাসির ২:২১-২২-এর তাফসিরে বুখারি ও মুসলিমের বরাতে এই বর্ণনা এনেছেন। প্রথম জবাবটিতে আয়াতের যুক্তিটাই আছে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "one-soul",
+   "title": {
+    "en": "One Soul, Many Peoples",
+    "bn": "এক প্রাণ থেকে বহু জাতি"
+   },
+   "body": [
+    {
+     "en": "Two ayat in this list tell the whole of humanity where it came from. 4:1 opens Surat an-Nisa’ with taqwa and goes straight to kinship: one soul, its mate, and from the two of them many men and women. 49:13 says it with a male and a female, then names the purpose of the divisions that followed: peoples and tribes, so that you may know one another. As-Sa‘di draws the moral from 4:1: Allah tells people they go back to a single origin so that they feel for one another and are gentle with each other. In 49:13 the one standard of rank is stated outright, and it is not lineage.",
+     "bn": "এই তালিকার দুটি আয়াত গোটা মানবজাতিকে জানিয়ে দেয়, তারা কোথা থেকে এসেছে। ৪:১ দিয়ে সূরা আন-নিসা শুরু, প্রথমে তাকওয়ার কথা, তারপর সোজা আত্মীয়তার কথা: এক প্রাণ, তার জোড়া, আর সেই দুজন থেকে অসংখ্য নারী-পুরুষ। ৪৯:১৩ একই কথা বলে এক পুরুষ আর এক নারীর কথা দিয়ে। তারপর জানায়, পরে যে ভাগাভাগি হলো, তার উদ্দেশ্য কী: জাতি আর গোত্র, যাতে তোমরা একে অপরকে চিনতে পারো। ৪:১ থেকে আস-সাদি শিক্ষাটা বের করেছেন। আল্লাহ মানুষকে জানাচ্ছেন যে সবার শিকড় এক, যাতে তারা একে অপরের প্রতি মমতা রাখে, নরম হয়। আর ৪৯:১৩ মর্যাদার একমাত্র মাপকাঠি খোলাখুলি বলে দিয়েছে। সেটা বংশ নয়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "4:1",
+     "note": {
+      "en": "As-Sa‘di observes that the surah opens with taqwa and with the ties of kinship and marriage, then spends the rest of its length setting out those rights in detail. Ibn Kathir cites Muslim’s report that when a destitute party from Mudar arrived, the Prophet ﷺ recited this ayah in a sermon and urged people to give charity.",
+      "bn": "আস-সাদি লক্ষ করেছেন, সূরাটা শুরু হয়েছে তাকওয়া আর আত্মীয়তা ও দাম্পত্যের বাঁধন দিয়ে, তারপর গোটা সূরা জুড়ে এই হকগুলোর খুঁটিনাটি খুলে বলেছে। ইবনে কাসির মুসলিমের এক বর্ণনা এনেছেন। মুদার গোত্রের একদল অভাবী মানুষ এলে নবী ﷺ খুতবায় এই আয়াত পড়েন এবং সবাইকে সদকা দিতে উৎসাহ দেন।"
+     }
+    },
+    {
+     "ref": "49:13",
+     "note": {
+      "en": "“The most noble of you in the sight of Allah is the most righteous of you.” Ibn Kathir: all people share equally the honour of descending from Adam and Hawwa’, and honour with Allah is earned through taqwa, not lineage. As-Sa‘di adds a balance that is easy to miss: knowing one’s lineage is itself lawful and wanted, since that is why peoples and tribes were made. What he denies is lineage as the measure of worth. And Allah knows who has taqwa inwardly as well as outwardly.",
+      "bn": "“তোমাদের মধ্যে আল্লাহর কাছে সবচেয়ে সম্মানিত সে, যে সবচেয়ে বেশি তাকওয়াবান।” ইবনে কাসির বলেন, আদম আর হাওয়ার সন্তান হওয়ার সম্মানে সব মানুষ সমান। আল্লাহর কাছে সম্মান মেলে তাকওয়া দিয়ে, বংশ দিয়ে নয়। আস-সাদি এমন একটা ভারসাম্যের কথা যোগ করেছেন, যা সহজেই চোখ এড়িয়ে যায়: বংশ-পরিচয় জানা নিজে বৈধ, কাম্যও বটে, কারণ জাতি আর গোত্র বানানোই হয়েছে সে জন্য। তিনি নাকচ করেছেন কেবল বংশকে মানুষের মূল্যের মাপকাঠি বানানো। আর কার তাকওয়া ভেতরে-বাইরে দুই জায়গাতেই আছে, তা আল্লাহই জানেন।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 2564c",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-2564",
+     "text": {
+      "en": "Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: “Allah does not look at your forms and your wealth, but He looks at your hearts and your deeds.”",
+      "bn": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, আল্লাহর রসূল ﷺ বলেছেন: “আল্লাহ তোমাদের চেহারা আর সম্পদের দিকে তাকান না, তিনি তাকান তোমাদের অন্তর আর আমলের দিকে।”"
+     },
+     "note": {
+      "en": "Ibn Kathir quotes this narration under 49:13. It names what the ayah leaves out of the reckoning, appearance and wealth, and what it keeps: the heart and the deed.",
+      "bn": "ইবনে কাসির ৪৯:১৩-এর তাফসিরে এই বর্ণনা এনেছেন। আয়াত হিসাব থেকে কী বাদ দিল, হাদিসটা তার নাম বলে দেয়: চেহারা আর সম্পদ। আর কী রাখল: অন্তর আর আমল।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "messenger-and-light",
+   "title": {
+    "en": "A Messenger and a Light for All",
+    "bn": "সবার জন্য এক রসূল, এক নূর"
+   },
+   "body": [
+    {
+     "en": "Several of the calls announce something that has arrived: a Messenger with the truth (4:170), a conclusive proof and a clear light (4:174), an instruction and a healing (10:57). In two more, the Prophet ﷺ is told to make the call himself: I am the Messenger of Allah to you all (7:158), and I am only a clear warner to you (22:49). The universality sits in the wording, jamī‘an, “all of you”. As-Sa‘di notes that 7:158 comes right after the call to the people of the Torah, so that no one would imagine the message was limited to them.",
+     "bn": "কয়েকটি ডাক কোনো কিছুর এসে পৌঁছানোর ঘোষণা: সত্য নিয়ে এক রসূল (৪:১৭০), অকাট্য প্রমাণ আর স্পষ্ট নূর (৪:১৭৪), উপদেশ আর আরোগ্য (১০:৫৭)। আরও দুটিতে নবী ﷺ-কে বলা হচ্ছে নিজেই ডাক দিতে: আমি তোমাদের সবার প্রতি আল্লাহর রসূল (৭:১৫৮), আর আমি তোমাদের জন্য কেবল এক স্পষ্ট সতর্ককারী (২২:৪৯)। সবার জন্য হওয়ার কথাটা শব্দেই আছে: জামিআন, “তোমাদের সবার”। আস-সাদি লক্ষ করেছেন, ৭:১৫৮ এসেছে তাওরাতের অনুসারীদের ডাকার ঠিক পরেই, যাতে কেউ ভেবে না বসে যে বার্তাটা কেবল তাদের জন্য।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "7:158",
+     "note": {
+      "en": "Ibn Kathir: directed to mankind “red and black, Arabs and non-Arabs alike”, and it is well known in the religion that the Prophet ﷺ was sent to all mankind and the jinn. He also brings al-Bukhari’s report in which the Prophet ﷺ, defending Abu Bakr (RA), quoted this very call: I said, “O people, I am the Messenger of Allah to you all”, and you said, “You lie”, and Abu Bakr said, “You have spoken the truth.”",
+      "bn": "ইবনে কাসির বলেন, এ ডাক লাল-কালো, আরব-অনারব সব মানুষের প্রতি। দ্বীনের সুপরিচিত কথা হলো, নবী ﷺ প্রেরিত হয়েছেন সব মানুষ আর জিনের কাছে। তিনি বুখারির এক বর্ণনাও এনেছেন। সেখানে নবী ﷺ আবু বকরের (রাঃ) পক্ষ নিয়ে ঠিক এই ডাকটাই উদ্ধৃত করেন: আমি বলেছিলাম, “হে মানুষ, আমি তোমাদের সবার প্রতি আল্লাহর রসূল”। তোমরা বলেছিলে, “মিথ্যা বলছ”, আর আবু বকর বলেছিলেন, “সত্য বলেছেন।”"
+     }
+    },
+    {
+     "ref": "22:49",
+     "note": {
+      "en": "Said, according to Ibn Kathir, when the disbelievers asked him to hasten the punishment. The answer narrows his role: a warner, with nothing to do with their reckoning. Their case rests with Allah, who may hasten it or delay it, and accept the repentance of whoever turns to Him. As-Sa‘di reads mubīn as a warning made plain, because he set out clear proofs for what he warned of.",
+      "bn": "ইবনে কাসির বলেন, কাফিররা যখন শাস্তি তাড়াতাড়ি নিয়ে আসার দাবি তুলল, তখন এ কথা বলতে বলা হয়। জবাবটা নবীর ভূমিকা স্পষ্ট করে সীমা টেনে দেয়: তিনি সতর্ককারী, তাদের হিসাব-নিকাশের দায় তাঁর নয়। তাদের ব্যাপার আল্লাহর হাতে। তিনি চাইলে শাস্তি এগিয়ে আনবেন, চাইলে পিছিয়ে দেবেন, আর যে তাঁর দিকে ফেরে, তার তওবা কবুল করবেন। আস-সাদি মুবিন শব্দের অর্থ করেছেন খোলাখুলি সতর্ক করা, কারণ যে বিষয়ে তিনি সাবধান করেছেন, তার পক্ষে উজ্জ্বল প্রমাণও পেশ করেছেন।"
+     }
+    },
+    {
+     "ref": "4:170",
+     "note": {
+      "en": "“So believe; it is better for you.” As-Sa‘di reads the ayah as giving three things: the reason to believe (he has come with the truth), the benefit (it is better for you, in body, heart, this world and the next), and the harm of refusing, which falls on no one but the one who refuses.",
+      "bn": "“কাজেই ঈমান আনো, এটা তোমাদের জন্যই ভালো।” আস-সাদির মতে আয়াতটি তিনটি জিনিস জানায়। ঈমানের কারণ: তিনি সত্য নিয়ে এসেছেন। ঈমানের লাভ: তা তোমাদের জন্য ভালো, দেহে, অন্তরে, দুনিয়ায় আর আখিরাতে। আর ঈমান না আনার ক্ষতি, যা গিয়ে পড়ে কেবল অস্বীকারকারীর নিজের ঘাড়ে।"
+     }
+    },
+    {
+     "ref": "4:174",
+     "note": {
+      "en": "Of this burhān, Ibn Kathir says it removes every possibility of an excuse or of falling to doubts, and he reports from Ibn Jurayj and others that the clear light is the Quran. As-Sa‘di widens the proof to cover rational and transmitted evidence, the signs in the horizons and in the self. The clear light, he says, is the Quran, and people stay in darkness unless they take light from it.",
+      "bn": "এই বুরহান সম্পর্কে ইবনে কাসির বলেন, এটা অজুহাতের আর সন্দেহে পড়ার সব পথ বন্ধ করে দেয়। ইবনে জুরাইজ ও অন্যদের সূত্রে তিনি জানান, স্পষ্ট নূর মানে কুরআন। আস-সাদি প্রমাণের পরিধি বাড়িয়েছেন: যুক্তির দলিল আর বর্ণনার দলিল, দিগন্তের নিদর্শন আর নিজের ভেতরের নিদর্শন, সবই এর মধ্যে। আর স্পষ্ট নূর হলো এই কুরআন; তাঁর মতে, এর আলো না নিলে মানুষ অন্ধকারেই থেকে যায়।"
+     }
+    },
+    {
+     "ref": "10:57",
+     "note": {
+      "en": "Four gifts; the ayah ties the last two, guidance and mercy, to “the believers”. As-Sa‘di explains the healing as a cure for two diseases of the heart: desires that turn a person from obeying the law, and doubts that damage certainty. Guidance and mercy, he adds, come only to the believers, since only they are guided by it.",
+      "bn": "চারটি দান; শেষ দুটি, হিদায়াত আর রহমত, আয়াত জুড়ে দিয়েছে “মুমিনদের” সঙ্গে। আস-সাদি আরোগ্যের ব্যাখ্যা করেছেন অন্তরের দুই রোগের ওষুধ হিসেবে। একটি প্রবৃত্তির রোগ, যা শরিয়ত মানা থেকে ফিরিয়ে রাখে; অন্যটি সংশয়ের রোগ, যা নিশ্চিত বিশ্বাসে চিড় ধরায়। তিনি যোগ করেন, হিদায়াত আর রহমত কেবল মুমিনদের ভাগ্যেই জোটে, কারণ এ থেকে পথ পায় কেবল তারাই।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 335",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-335",
+     "text": {
+      "en": "Jabir ibn ‘Abdullah (RA) narrated that the Prophet ﷺ said: “I have been given five things that were not given to anyone before me. I have been given victory through awe, at the distance of a month’s journey. The earth has been made for me a place of prayer and a means of purification, so any man of my Ummah whom the prayer overtakes should pray. The spoils of war have been made lawful for me, and they were not lawful for anyone before me. I have been given intercession. And a prophet used to be sent to his own people only, while I have been sent to all people.”",
+      "bn": "জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: “আমাকে এমন পাঁচটি জিনিস দেওয়া হয়েছে, যা আমার আগে কাউকে দেওয়া হয়নি। এক মাসের পথের দূরত্ব পর্যন্ত ভীতি দিয়ে আমাকে বিজয় দেওয়া হয়েছে। জমিনকে আমার জন্য সালাতের জায়গা আর পবিত্রতা অর্জনের উপকরণ বানানো হয়েছে; তাই আমার উম্মতের যে কেউ যেখানে সালাতের সময় পাবে, সেখানেই সালাত আদায় করবে। গনিমতের মাল আমার জন্য হালাল করা হয়েছে, যা আমার আগে কারও জন্য হালাল ছিল না। আমাকে শাফাআত দেওয়া হয়েছে। আর আগে নবীকে পাঠানো হতো কেবল তাঁর নিজের কওমের কাছে, আমাকে পাঠানো হয়েছে সব মানুষের কাছে।”"
+     },
+     "note": {
+      "en": "The last of the five is the point here: earlier prophets were sent to their own people, and he ﷺ to all people.",
+      "bn": "এখানে মূল কথা পাঁচটির শেষটি: আগের নবীরা প্রেরিত হতেন নিজ নিজ কওমের কাছে, আর তিনি ﷺ সব মানুষের কাছে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "provision-and-favour",
+   "title": {
+    "en": "Eat the Good, Remember the Giver",
+    "bn": "পবিত্র খান, দাতাকে মনে রাখুন"
+   },
+   "body": [
+    {
+     "en": "Some of the calls are about ordinary life: food, provision, the good things one has been given. 2:168 grants all people what is on earth, lawful and good, and in the same ayah names the enemy who would spoil it. 35:3 tells people to remember Allah’s favour and asks whether any creator besides Him provides for them from the sky and the earth. In 27:16 the same words come from Sulayman (AS), declaring a favour he had been given. Taken together, the call does not ask anyone to renounce the world. It asks them to take it from the right source and to know whom to thank.",
+     "bn": "কিছু ডাক একেবারে রোজকার জীবনের: খাবার, রিজিক, যে ভালো জিনিসগুলো হাতে এসেছে। ২:১৬৮ সব মানুষের জন্য জমিনের হালাল ও পবিত্র জিনিস বৈধ করে দিয়েছে। একই আয়াতে সেই শত্রুর নামও বলে দিয়েছে, যে এগুলো নষ্ট করতে চায়। ৩৫:৩ বলছে, আল্লাহর নিয়ামতের কথা মনে করো; তারপর প্রশ্ন রাখছে, আসমান-জমিন থেকে তোমাদের রিজিক দেয়, এমন কোনো স্রষ্টা কি আল্লাহ ছাড়া আছে? ২৭:১৬-তে একই শব্দে ডাক দিয়েছেন সুলাইমান (আঃ), নিজের পাওয়া নিয়ামতের ঘোষণা দিতে। তিনটি মিলিয়ে দেখলে বোঝা যায়, এ ডাক দুনিয়া ছেড়ে দিতে বলে না। বলে, ঠিক উৎস থেকে নিন, আর জেনে রাখুন শোকর কার প্রাপ্য।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:168",
+     "note": {
+      "en": "As-Sa‘di: this is addressed to all people, believer and disbeliever, as a favour. Ḥalāl and ṭayyib are two separate conditions: lawful in how it was obtained (not seized, stolen or gained by a forbidden dealing) and good in itself (not foul, like carrion or blood). He draws from the ayah that things are permitted by default. Qatadah and as-Suddi, quoted by Ibn Kathir, say every act of disobedience to Allah is one of Satan’s footsteps.",
+      "bn": "আস-সাদি বলেন, এ সম্বোধন মুমিন-কাফির সব মানুষের প্রতি, অনুগ্রহ হিসেবে। হালাল আর তাইয়্যিব দুটি আলাদা শর্ত। হালাল মানে পাওয়ার পথ বৈধ: জোর করে কেড়ে নেওয়া নয়, চুরি নয়, হারাম লেনদেনে কামানো নয়। তাইয়্যিব মানে জিনিসটা নিজে পবিত্র, মরা প্রাণী বা রক্তের মতো নোংরা নয়। এই আয়াত থেকে তিনি বের করেছেন, জিনিসপত্রের মূল বিধান হলো বৈধতা। ইবনে কাসির কাতাদা আর আস-সুদ্দির কথা এনেছেন: আল্লাহর প্রতিটি নাফরমানিই শয়তানের পদাঙ্ক।"
+     }
+    },
+    {
+     "ref": "35:3",
+     "note": {
+      "en": "As-Sa‘di says remembering the favour is done with the heart by acknowledging it, with the tongue by praise and with the limbs by obedience, and that it leads to gratitude. The question that follows points to the roots of every favour, creation and provision. Since no one creates and provides but Allah, the conclusion follows: no god but Him. So how are you turned from worshipping the Creator and Provider to worshipping what is created and provided for?",
+      "bn": "আস-সাদি বলেন, নিয়ামত স্মরণ হয় তিনভাবে: অন্তরে স্বীকার করে, মুখে প্রশংসা করে, আর অঙ্গপ্রত্যঙ্গ দিয়ে আনুগত্য করে। এই স্মরণই মানুষকে শোকরের দিকে নিয়ে যায়। পরের প্রশ্নটা সব নিয়ামতের শিকড় দেখিয়ে দেয়: সৃষ্টি আর রিজিক। আল্লাহ ছাড়া কেউ সৃষ্টিও করে না, রিজিকও দেয় না। তাই সিদ্ধান্ত আপনিই এসে যায়: তিনি ছাড়া কোনো ইলাহ নেই। তাহলে স্রষ্টা আর রিজিকদাতার ইবাদত ছেড়ে সৃষ্ট আর রিজিকপ্রাপ্তের ইবাদতে তোমরা কীভাবে ফিরে যাচ্ছ?"
+     }
+    },
+    {
+     "ref": "27:16",
+     "note": {
+      "en": "Not the Quran’s own call to mankind but Sulayman (AS) addressing people, and it is not among IslamQA’s twenty. As-Sa‘di says he spoke in thanks to Allah, rejoicing in His kindness and telling of His favour: we have been taught the language of birds and given from everything. The ayah ends by naming it evident bounty, and as-Sa‘di says he acknowledged Allah’s favour as fully as it can be acknowledged.",
+      "bn": "এটা মানবজাতির প্রতি কুরআনের নিজের ডাক নয়; মানুষকে সম্বোধন করছেন সুলাইমান (আঃ)। ইসলামকিউএর বিশটির মধ্যেও এটি নেই। আস-সাদি বলেন, তিনি কথাটা বলেছিলেন আল্লাহর শোকর আদায় করতে, তাঁর অনুগ্রহে আনন্দিত হয়ে, তাঁর নিয়ামতের কথা জানাতে: আমাদের পাখির ভাষা শেখানো হয়েছে, আর সব কিছু থেকে দেওয়া হয়েছে। আয়াতের শেষে একে বলা হয়েছে সুস্পষ্ট অনুগ্রহ। আস-সাদির ভাষায়, আল্লাহর নিয়ামতকে তিনি স্বীকার করেছেন পূর্ণতম স্বীকৃতিতে।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 1015",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-1015",
+     "text": {
+      "en": "Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: “O people, Allah is good and accepts only what is good. Allah has commanded the believers with what He commanded the Messengers. He said: ‘O Messengers, eat of the good things and do righteous deeds; indeed I know well what you do’ (23:51). And He said: ‘O you who believe, eat of the good things We have provided you’ (2:172).” Then he mentioned a man who travels far, dishevelled and dusty, stretching his hands toward the sky: “O Lord, O Lord,” while his food is unlawful, his drink is unlawful, his clothing is unlawful and he has been nourished on the unlawful. So how can he be answered?",
+      "bn": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, আল্লাহর রসূল ﷺ বলেছেন: “হে লোকসকল, আল্লাহ পবিত্র, তিনি পবিত্র ছাড়া কিছু কবুল করেন না। আল্লাহ মুমিনদের সেই হুকুমই দিয়েছেন, যা দিয়েছেন রসূলদের। তিনি বলেছেন: ‘হে রসূলগণ, পবিত্র জিনিস থেকে খাও আর নেক আমল করো; তোমরা যা করো, আমি তা ভালোভাবেই জানি’ (২৩:৫১)। তিনি আরও বলেছেন: ‘হে মুমিনগণ, আমি তোমাদের যে রিজিক দিয়েছি, তার পবিত্রগুলো থেকে খাও’ (২:১৭২)।” তারপর তিনি এক লোকের কথা বললেন, যে দীর্ঘ সফর করে, চুল এলোমেলো, গায়ে ধুলো। আকাশের দিকে দুই হাত তুলে বলে, “হে রব, হে রব”, অথচ তার খাবার হারাম, পানীয় হারাম, পোশাক হারাম, আর হারাম দিয়েই তার দেহ বেড়ে উঠেছে। তাহলে তার দোয়া কীভাবে কবুল হবে?"
+     },
+     "note": {
+      "en": "The Prophet ﷺ opens with the same call, “O people”, and ties the lawful and the good to whether a prayer is answered.",
+      "bn": "নবী ﷺ শুরুই করেছেন সেই একই ডাক দিয়ে, “হে লোকসকল”। আর হালাল-পবিত্র রিজিকের সঙ্গে জুড়ে দিয়েছেন দোয়া কবুল হওয়ার প্রশ্ন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "do-not-be-deluded",
+   "title": {
+    "en": "Let Nothing Delude You",
+    "bn": "কিছুই যেন ধোঁকা না দেয়"
+   },
+   "body": [
+    {
+     "en": "Three of these calls share one Arabic root, gh-r-r, the root of deluding and being deluded. 35:5 and 31:33 say: let not the worldly life delude you (lā taghurrannakum), and let not the Deluder (al-gharūr) delude you about Allah. 82:6 turns it into a question put to one person: what has deluded you (mā gharraka) about your Lord, the Generous? Ibn Kathir reports from Ibn ‘Abbas that the Deluder is Satan. So two deceivers are named, the world and Satan, and as-Sa‘di counts them among the greatest obstacles between a servant and the Day he must prepare for. 10:23 shows the delusion at work.",
+     "bn": "এর তিনটি ডাকের মূলে একই আরবি ধাতু: গাইন-রা-রা, যার অর্থ ধোঁকা দেওয়া, ধোঁকায় পড়া। ৩৫:৫ আর ৩১:৩৩ বলছে: দুনিয়ার জীবন যেন তোমাদের ধোঁকায় না ফেলে (লা তাগুররান্নাকুম), আর মহাপ্রতারক (আল-গারুর) যেন আল্লাহর ব্যাপারে তোমাদের ধোঁকা না দেয়। ৮২:৬ একই কথাকে প্রশ্ন বানিয়ে একজনের সামনে রাখে: কিসে তোমাকে তোমার মহান রবের ব্যাপারে ধোঁকায় ফেলল (মা গাররাকা)? ইবনে কাসির ইবনে আব্বাসের (রাঃ) সূত্রে জানান, মহাপ্রতারক হলো শয়তান। তাহলে প্রতারক দুটি: দুনিয়া আর শয়তান। আস-সাদির মতে, যে দিনের জন্য বান্দার প্রস্তুতি নেওয়ার কথা, তার পথে সবচেয়ে বড় বাধাগুলোর মধ্যে এ দুটি অন্যতম। ১০:২৩ দেখায়, এই ধোঁকা কাজ করে কীভাবে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "35:5",
+     "note": {
+      "en": "As-Sa‘di: the promise is of resurrection and recompense, beyond doubt, shown by revelation and by reason. So prepare for it with good deeds, and let nothing cut you off. Ibn Kathir notes that it mirrors the end of Luqman (31:33), and explains: this life is nothing beside the good Allah has promised, so do not let what passes distract you from what lasts.",
+      "bn": "আস-সাদি বলেন, ওয়াদাটা পুনরুত্থান আর আমলের প্রতিদানের, যাতে কোনো সন্দেহ নেই। ওহির দলিল আর যুক্তির প্রমাণ দুটোই তা দেখিয়েছে। তাই এর জন্য প্রস্তুত হোন, নেক আমল করুন, কিছুই যেন আপনাকে আটকে না রাখে। ইবনে কাসির দেখিয়েছেন, আয়াতটি সূরা লুকমানের শেষের আয়াতের (৩১:৩৩) মতোই। সতর্কবাণীর ব্যাখ্যায় তিনি বলেন, আল্লাহ যে কল্যাণের ওয়াদা দিয়েছেন, তার পাশে এ জীবন কিছুই নয়। তাই যা চলে যাবে, তা যেন যা থাকবে তার থেকে আপনাকে ভুলিয়ে না রাখে।"
+     }
+    },
+    {
+     "ref": "31:33",
+     "note": {
+      "en": "This version adds the Day when no father can avail his son and no son his father. Ibn Kathir explains: even if one offered himself as ransom for the other, it would not be accepted. As-Sa‘di calls the reminder of that Day a mercy in itself, because it strengthens a servant and makes taqwa easier for him, and says Satan never stops deceiving a person and is never off guard.",
+      "bn": "এখানে বাড়তি আছে সেই দিনের কথা, যেদিন বাবা ছেলের কোনো কাজে আসবে না, ছেলেও বাবার নয়। ইবনে কাসির বলেন, একজন অন্যজনের বদলে নিজেকে বিলিয়ে দিতে চাইলেও তা গ্রহণ হবে না। আস-সাদি বলেন, সেই দিনের কথা মনে করিয়ে দেওয়াটাই আল্লাহর রহমত, কারণ এতে বান্দা শক্তি পায়, তাকওয়া তার জন্য সহজ হয়। তিনি আরও বলেন, শয়তান মানুষকে ধোঁকা দিতে কখনো থামে না, কখনো অমনোযোগীও হয় না।"
+     }
+    },
+    {
+     "ref": "10:23",
+     "note": {
+      "en": "The scene just before is a ship in a storm: people call on Allah sincerely, then once on land go back to wrongdoing. The call comes at that moment: your injustice is only against yourselves. Ibn Kathir: you will taste its evil consequence yourselves and harm no one else by it. As-Sa‘di: the most you hope to gain by it is a little of the world’s debris and standing, which will soon pass, and then you return to Allah.",
+      "bn": "ঠিক আগের দৃশ্যটা ঝড়ের মুখে এক জাহাজের। মানুষ খাঁটি মনে আল্লাহকে ডাকে, তারপর ডাঙায় উঠেই আবার জুলুমে ফিরে যায়। ডাকটা আসে ঠিক তখন: তোমাদের সীমালঙ্ঘন তো কেবল তোমাদের নিজেদেরই বিরুদ্ধে। ইবনে কাসির বলেন, এর মন্দ ফল তোমরা নিজেরাই ভোগ করবে, এতে আর কারও ক্ষতি হবে না। আস-সাদি বলেন, এই সীমালঙ্ঘন থেকে বড়জোর মেলে দুনিয়ার সামান্য ভাঙাচোরা সম্পদ আর মর্যাদা। তা-ও খুব শিগগির ফুরিয়ে যাবে, তারপর ফিরতে হবে আল্লাহর কাছে।"
+     }
+    },
+    {
+     "ref": "82:6",
+     "note": {
+      "en": "Yā ayyuha al-insān, in the singular. Ibn Kathir insists it is a threat, not a prompt for the answer “His generosity deluded me”: the sense is, what deceived you about your Lord, the Most Generous, so that you went on disobeying Him? As-Sa‘di lists the possible answers as a rebuke: was it taking His rights lightly, belittling His punishment, or not believing in His recompense?",
+      "bn": "ইয়া আইয়ুহাল ইনসান, একবচনে ডাক। ইবনে কাসির জোর দিয়ে বলেন, এটা হুমকি। “তাঁর দয়াই আমাকে ধোঁকায় ফেলেছে”, এমন উত্তর বের করে আনার জন্য প্রশ্নটা করা হয়নি। অর্থ হলো: কিসে তোমাকে তোমার মহান রবের ব্যাপারে ধোঁকায় ফেলল যে তুমি তাঁর নাফরমানি করেই চললে? আস-সাদি ভর্ৎসনার সুরে সম্ভাব্য উত্তরগুলো সাজিয়েছেন: তাঁর হককে হালকা ভেবেছ? তাঁর শাস্তিকে তুচ্ছ ভেবেছ? নাকি তাঁর প্রতিদানে বিশ্বাসই করোনি?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "in-need-of-allah",
+   "title": {
+    "en": "You Are the Ones in Need",
+    "bn": "মুখাপেক্ষী তো আপনারাই"
+   },
+   "body": [
+    {
+     "en": "Several calls turn the relationship around. People may feel they do Allah a favour by believing; these ayat say the opposite. 35:15 states it as a fact: you are the poor, al-fuqarā’, before Allah, and He is the Free of need. 4:133 adds that He could remove a whole people and bring others. 10:108 draws the consequence: guidance benefits only the one guided, and straying harms only the one who strays. The point is not to belittle humanity. It is to place the benefit of the call where it belongs, with the people being called.",
+     "bn": "কয়েকটি ডাক সম্পর্কটাকে উল্টে দেখায়। মানুষের মনে হতে পারে, ঈমান এনে সে আল্লাহর ওপর কোনো উপকার করছে। এই আয়াতগুলো বলে ঠিক তার উল্টো। ৩৫:১৫ কথাটা বলে সোজা বাস্তবতা হিসেবে: আল্লাহর কাছে তোমরাই অভাবী, আল-ফুকারা, আর তিনি অভাবমুক্ত। ৪:১৩৩ যোগ করে, তিনি চাইলে গোটা এক জাতিকে সরিয়ে অন্যদের নিয়ে আসতে পারেন। ১০:১০৮ এর ফল টেনে বলে: হিদায়াতের লাভ কেবল হিদায়াতপ্রাপ্তের, আর পথ হারানোর ক্ষতি কেবল যে পথ হারায় তার। উদ্দেশ্য মানুষকে ছোট করা নয়। উদ্দেশ্য ডাকের লাভটা যার পাওনা, তার ঘরেই পৌঁছে দেওয়া: যাদের ডাকা হচ্ছে, তাদের।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "35:15",
+     "note": {
+      "en": "As-Sa‘di lists the ways people need Allah: for coming into existence, for their faculties and limbs, for provision, for having harm turned away, for being nurtured, for being able to worship and love Him, and for learning what they do not know. They are needy whether or not they feel it. The one granted success, he says, keeps seeing his need in every state and asks Allah not to leave him to himself for the blink of an eye.",
+      "bn": "আস-সাদি গুনে দেখিয়েছেন, মানুষ কোন কোন দিক থেকে আল্লাহর মুখাপেক্ষী: অস্তিত্বে আসার জন্য, শক্তি আর অঙ্গপ্রত্যঙ্গের জন্য, রিজিকের জন্য, বিপদ দূর হওয়ার জন্য, লালনপালনের জন্য, তাঁকে ভালোবাসা আর তাঁর ইবাদত করতে পারার জন্য, আর যা জানে না তা শেখার জন্য। টের পাক বা না পাক, এই অভাব থেকেই যায়। তাঁর ভাষায়, তাওফিকপ্রাপ্ত বান্দা সেই, যে প্রতিটি অবস্থায় নিজের অভাব দেখতে পায়, আর আল্লাহর কাছে চায় তিনি যেন তাকে এক পলকের জন্যও তার নিজের হাতে ছেড়ে না দেন।"
+     }
+    },
+    {
+     "ref": "4:133",
+     "note": {
+      "en": "Here the call sits in the middle of the sentence, without the particle yā: if He wills, He can remove you, O people, and bring others. As-Sa‘di reads it as a warning to people who persist in disbelief and turn from their Lord, and adds a qualifier: Allah gives respite and extends it, but does not neglect. Ibn Kathir reads it the same way: He is able to replace you with other people if you disobey Him.",
+      "bn": "এখানে ডাকটা এসেছে বাক্যের মাঝখানে, ইয়া অব্যয় ছাড়া: তিনি চাইলে, হে মানুষ, তোমাদের সরিয়ে দিয়ে অন্যদের আনতে পারেন। আস-সাদি একে পড়েছেন সতর্কবাণী হিসেবে, তাদের জন্য যারা কুফরিতে অটল থাকে আর নিজের রব থেকে মুখ ফিরিয়ে রাখে। সঙ্গে একটা শর্তও জুড়েছেন: আল্লাহ অবকাশ দেন, ঢিল দেন, কিন্তু ছেড়ে দেন না। ইবনে কাসিরের ব্যাখ্যাও একই: তোমরা তাঁর নাফরমানি করলে তিনি তোমাদের বদলে অন্য লোক আনতে সক্ষম।"
+     }
+    },
+    {
+     "ref": "10:108",
+     "note": {
+      "en": "Said by the Prophet ﷺ: the truth has come to you from your Lord. Then the account is settled person by person, and he adds, “I am not over you a manager.” Ibn Kathir: not a guardian to make you believers, only a warner; guidance belongs to Allah. As-Sa‘di: Allah is free of need of His servants and the fruit of their deeds returns to them, so look to yourselves while the respite lasts.",
+      "bn": "নবী ﷺ-এর মুখে ঘোষণা: তোমাদের রবের কাছ থেকে তোমাদের কাছে সত্য এসে গেছে। তারপর হিসাব মিটে যায় প্রত্যেকের নিজের ঘরে, আর তিনি বলেন, “আমি তোমাদের ওপর কর্মবিধায়ক নই।” ইবনে কাসির বলেন, অর্থাৎ তোমাদের মুমিন বানানোর দায় নিয়ে আমি পাহারাদার নই, আমি কেবল সতর্ককারী; হিদায়াত আল্লাহর হাতে। আস-সাদি বলেন, আল্লাহ বান্দাদের মুখাপেক্ষী নন, তাদের আমলের ফল তাদের কাছেই ফেরে। তাই অবকাশ যতক্ষণ আছে, নিজেদের দিকে তাকাও।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-hour-and-the-meeting",
+   "title": {
+    "en": "The Hour and the Meeting",
+    "bn": "কিয়ামত আর সাক্ষাৎ"
+   },
+   "body": [
+    {
+     "en": "The call also looks forward. Surat al-Hajj opens with “O mankind, fear your Lord” and the convulsion of the Hour, and a few ayat later answers anyone in doubt about the resurrection. 84:6 speaks to each person singly: you are labouring toward your Lord and will meet it. As-Sa‘di says of 22:1 that Allah mentions the terrors of the Hour because they help people to taqwa and warn them against abandoning it. The call to all humanity therefore ends where each person ends: before Allah, with what they did.",
+     "bn": "এ ডাক সামনের দিকেও তাকায়। সূরা আল-হজ্জ শুরু হয় “হে মানুষ, তোমাদের রবকে ভয় করো” আর কিয়ামতের কম্পনের কথা দিয়ে। কয়েক আয়াত পরেই জবাব দেওয়া হয় তাদের, যারা পুনরুত্থান নিয়ে সন্দেহে আছে। ৮৪:৬ কথা বলে প্রত্যেকের সঙ্গে আলাদা করে: তুমি কষ্ট করে চলেছ তোমার রবের দিকে, আর তার সাক্ষাৎ পাবে। ২২:১ সম্পর্কে আস-সাদি বলেন, আল্লাহ কিয়ামতের বিভীষিকার কথা তুলেছেন, কারণ তা তাকওয়ায় সাহায্য করে আর তাকওয়া ছেড়ে দেওয়া থেকে সাবধান করে। তাই সব মানুষের প্রতি এই ডাক শেষ হয় সেখানে, যেখানে প্রত্যেক মানুষের পথ শেষ: আল্লাহর সামনে, নিজের আমল সঙ্গে নিয়ে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "22:1",
+     "note": {
+      "en": "Al-Qurtubi explains zalzala as violent motion, a word used to convey how dreadful a thing is, and records the view, which he calls the majority’s, that this is the known earthquake among the signs of the Hour, in this world before the Day of Resurrection. Ibn Kathir describes it as the shaking that seizes people when they are filled with terror, citing 33:11.",
+      "bn": "আল-কুরতুবি বলেন, জালজালা মানে প্রচণ্ড নড়াচড়া, আর কোনো কিছুর ভয়াবহতা বোঝাতে শব্দটা ব্যবহার হয়। তিনি এমন এক মত উল্লেখ করে বলেছেন, এটাই অধিকাংশের মত: এ হলো কিয়ামতের আলামতগুলোর একটি, সেই পরিচিত ভূমিকম্প, যা হবে দুনিয়াতেই, কিয়ামত দিবসের আগে। ইবনে কাসির একে বর্ণনা করেছেন সেই কাঁপুনি হিসেবে, যা মানুষ আতঙ্কে ভরে গেলে তাদের পেয়ে বসে; এর পক্ষে তিনি ৩৩:১১ এনেছেন।"
+     }
+    },
+    {
+     "ref": "22:5",
+     "note": {
+      "en": "Addressed to anyone in doubt about the resurrection. As-Sa‘di says the ayah then gives two rational proofs that can be seen: the beginning of human creation, from dust to drop to clot to lump, since the One who began it will bring it back; and the dead earth that stirs and swells when the rain falls. Ibn Kathir reads “from dust” as the creation of Adam (AS).",
+      "bn": "সম্বোধন তাদের প্রতি, যারা পুনরুত্থান নিয়ে সন্দেহে আছে। আস-সাদি বলেন, এরপর আয়াত চোখে দেখা যায় এমন দুটি যুক্তির প্রমাণ দেয়। প্রথমটি মানুষের সৃষ্টির শুরু: মাটি, তারপর শুক্রবিন্দু, তারপর জমাট রক্ত, তারপর মাংসপিণ্ড। যিনি শুরু করেছেন, তিনিই আবার ফিরিয়ে আনবেন। দ্বিতীয়টি মরা জমিন, বৃষ্টি পড়লেই যা নড়ে ওঠে, ফুলে ওঠে। ইবনে কাসির “মাটি থেকে” কথাটির ব্যাখ্যা করেছেন আদমের (আঃ) সৃষ্টি হিসেবে।"
+     }
+    },
+    {
+     "ref": "84:6",
+     "note": {
+      "en": "As-Sa‘di: you are striving toward Allah, drawing near to Him by good or by evil, and you will meet Him on the Day of Resurrection, to be repaid by His grace if you are among the happy or His justice if among the wretched. Ibn Kathir records two readings of “and will meet it”: you will meet your deeds, or you will meet your Lord, and he says the two are connected.",
+      "bn": "আস-সাদি বলেন, তুমি আল্লাহর দিকেই ছুটছ, ভালো দিয়ে হোক বা মন্দ দিয়ে, তাঁর দিকেই এগোচ্ছ। তারপর কিয়ামতের দিন তাঁর সাক্ষাৎ পাবে। সৌভাগ্যবান হলে প্রতিদান পাবে তাঁর অনুগ্রহে, হতভাগা হলে তাঁর ইনসাফে। “আর তার সাক্ষাৎ পাবে”, এর দুটি ব্যাখ্যা ইবনে কাসির উল্লেখ করেছেন: তুমি নিজের আমলের সাক্ষাৎ পাবে, অথবা তোমার রবের। তাঁর মতে দুটি ব্যাখ্যা একটি আরেকটির সঙ্গে জড়ানো।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "When you read “O mankind” in recitation, take it as addressed to you by name, whatever the state of your faith that day.",
+   "bn": "তিলাওয়াতে “হে মানুষ” পড়লে ধরে নিন, ডাকটা আপনাকেই, নাম ধরে। সেদিন আপনার ঈমানের অবস্থা যেমনই হোক।"
+  },
+  {
+   "en": "Check one source of income or one regular meal against both conditions of 2:168: lawful in how it was obtained, and good in itself.",
+   "bn": "নিজের একটা আয়ের উৎস বা নিয়মিত একটা খাবার ২:১৬৮-এর দুই শর্তে মিলিয়ে দেখুন: পাওয়ার পথটা হালাল কি না, আর জিনিসটা নিজে পবিত্র কি না।"
+  },
+  {
+   "en": "Measure no one, and no family or people, by lineage or wealth. 49:13 leaves taqwa as the only rank, and only Allah sees it fully.",
+   "bn": "কোনো মানুষকে, কোনো পরিবার বা জাতিকে বংশ বা সম্পদ দিয়ে মাপবেন না। ৪৯:১৩ মর্যাদার একটাই মাপকাঠি রেখেছে, তাকওয়া, আর তা পুরোপুরি দেখেন কেবল আল্লাহ।"
+  },
+  {
+   "en": "When comfort makes you feel safe from Allah’s reckoning, ask yourself the question of 82:6: what has deluded me about my Generous Lord?",
+   "bn": "আরাম-আয়েশে যখন আল্লাহর হিসাব থেকে নিজেকে নিরাপদ মনে হবে, ৮২:৬-এর প্রশ্নটা নিজেকে করুন: কিসে আমাকে আমার মহান রবের ব্যাপারে ধোঁকায় ফেলল?"
+  },
+  {
+   "en": "Ask Allah, as as-Sa‘di describes the servant who sees his need, not to leave you to yourself for the blink of an eye.",
+   "bn": "আস-সাদি যে বান্দার কথা বলেছেন, যে নিজের অভাব দেখতে পায়, তার মতো আল্লাহর কাছে চান: তিনি যেন আপনাকে এক পলকের জন্যও নিজের হাতে ছেড়ে না দেন।"
+  },
+  {
+   "en": "When speaking to someone about Islam, start where 2:21 starts: the Lord who created them and those before them.",
+   "bn": "কারও সঙ্গে ইসলাম নিয়ে কথা বললে শুরু করুন সেখান থেকে, যেখান থেকে ২:২১ শুরু করেছে: সেই রব, যিনি তাঁকে আর তাঁর আগের মানুষদের সৃষ্টি করেছেন।"
+  }
+ ],
  "refs": [
   "2:21",
   "2:168",
@@ -30,10 +394,15 @@
   "35:3",
   "35:5",
   "35:15",
-  "48:9",
   "49:13",
   "82:6",
   "84:6"
+ ],
+ "refsDropped": [
+  {
+   "ref": "48:9",
+   "reason": "Contains no vocative call at all (neither yā ayyuha an-nās nor yā ayyuha al-insān); the ‘O people’ appears only in the translators’ brackets. As-Sa‘di reads it as the purpose of sending the Messenger (48:8)."
+  }
  ],
  "videos": [
   {
@@ -51,7 +420,45 @@
    "watch": "https://www.youtube.com/watch?v=TYydcEZe0VA"
   }
  ],
- "reading": [],
- "sources": [],
- "related": []
+ "reading": [
+  {
+   "title": {
+    "en": "One of the characteristics of Makkan verses is that they are addressed to all of mankind",
+    "bn": "মাক্কি আয়াতের একটি বৈশিষ্ট্য: সব মানুষকে সম্বোধন"
+   },
+   "url": "https://islamqa.info/en/answers/131433",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "Tafsir Abu Bakr Zakaria on al-Hujurat 49:13",
+    "bn": "তাফসির আবু বকর জাকারিয়া: সূরা আল-হুজুরাত ৪৯:১৩"
+   },
+   "url": "https://quran.com/bn/al-hujurat/13/tafsirs/bn-tafsir-abu-bakr-zakaria",
+   "site": "quran.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Ibn Kathir (abridged) on al-A‘raf 7:158: Muhammad’s ﷺ message is universal",
+    "bn": "ইবনে কাসির (সংক্ষিপ্ত): আল-আরাফ ৭:১৫৮, মুহাম্মাদ ﷺ-এর বার্তা সবার জন্য"
+   },
+   "url": "https://quran.com/al-araf/158/tafsirs/en-tafisr-ibn-kathir",
+   "site": "quran.com",
+   "lang": "en"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir (abridged English)",
+  "Tafsir as-Sa‘di",
+  "Tafsir al-Qurtubi",
+  "IslamQA, answer 131433"
+ ],
+ "related": [
+  "th-o-believers",
+  "th-resurrection",
+  "th-parables",
+  "allah-gratitude"
+ ]
 }

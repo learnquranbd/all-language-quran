@@ -1,17 +1,406 @@
 {
  "id": "th-wrongdoers",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "The Wrongdoers",
   "bn": "অন্যায়কারী"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "What the Quran calls zulm, from shirk to a sin against oneself to a wrong done to another, and where each one leads.",
+  "bn": "কুরআন কাকে জুলুম বলে: শিরক থেকে নিজের ওপর করা গুনাহ, অন্যের হক নষ্ট করা পর্যন্ত। আর কোনটার শেষ কোথায়।"
+ },
+ "intro": [
+  {
+   "en": "Zulm is one of the Quran's most frequent words for evil, and it is wider than its usual English rendering, “oppression”. Al-Qurtubi, commenting on the warning to Adam in 2:35, gives its root meaning: putting a thing in other than its place. Worship given to a creature, a soul spent on what ruins it, a right taken from its owner: each is something put where it does not belong. That is why one word can describe a tyrant, a polytheist and a believer who has slipped, and why the Quran's wrongdoers are never only other people.",
+   "bn": "মন্দ বোঝাতে কুরআন যে শব্দগুলো বারবার ব্যবহার করে, জুলুম তার একটি। শব্দটা শুধু “অত্যাচার” নয়, তার চেয়ে অনেক চওড়া। আদম (আঃ)-কে দেওয়া সতর্কবাণীর (২:৩৫) ব্যাখ্যায় আল-কুরতুবি এর মূল অর্থ বলেছেন: কোনো জিনিসকে তার জায়গা থেকে সরিয়ে অন্য জায়গায় রাখা। ইবাদত সৃষ্টির দিকে চলে গেলে, নিজের জীবন ধ্বংসের কাজে খরচ হলে, কারও হক তার হাত থেকে কেড়ে নিলে, প্রতিটিতেই জিনিস তার জায়গা হারায়। তাই একই শব্দ জালিম শাসকের বেলায়ও খাটে, মুশরিকের বেলায়ও, আবার পা পিছলে যাওয়া মুমিনের বেলায়ও। কুরআনের জালিম তাই কখনো শুধু অন্য লোক নয়।"
+  },
+  {
+   "en": "As-Sa'di, on 2:229, sorts zulm into three kinds: the greatest, which is shirk; a servant's wrong in what lies between him and his Lord, below shirk; and a servant's wrong against other people. Shirk, he says, Allah forgives only through repentance; of people's rights Allah leaves nothing; and what lies between a servant and his Lord below shirk is under His will and wisdom. This page follows that map, adds the truth that holds it up, that Allah Himself wrongs no one, and closes with the respite, the seizure and the regret.",
+   "bn": "২:২২৯-এর ব্যাখ্যায় আস-সা'দী জুলুমকে তিন ভাগে ভাগ করেছেন। সবচেয়ে বড়টি শিরক। দ্বিতীয়টি বান্দা ও তার রবের মাঝখানের জুলুম, যা শিরকের চেয়ে নিচে। তৃতীয়টি মানুষের ওপর মানুষের জুলুম। তাঁর কথায়, শিরক আল্লাহ মাফ করেন কেবল তওবার মাধ্যমে। বান্দার হক থেকে আল্লাহ কিছুই ছাড়েন না। আর শিরকের নিচে বান্দা ও রবের মাঝখানের জুলুম তাঁর ইচ্ছা ও হিকমতের অধীন। এই পাতা সেই নকশা ধরেই এগিয়েছে। সঙ্গে আছে সেই সত্য, যার ওপর পুরো বিষয়টা দাঁড়িয়ে: আল্লাহ নিজে কারও ওপর জুলুম করেন না। শেষে আছে অবকাশ, পাকড়াও আর আফসোসের কথা।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "the-greatest-wrong",
+   "title": {
+    "en": "Shirk, the Greatest Wrong",
+    "bn": "শিরক: সবচেয়ে বড় জুলুম"
+   },
+   "body": [
+    {
+     "en": "The Quran's sharpest use of the word comes in Luqman's advice to his son: association with Allah is a great zulm. The Companions met the word in 6:82, which promises security to those who do not mix their faith with zulm, and they were alarmed, since none of them was free of wrong. The Prophet ﷺ answered by pointing them to Luqman's words. The zulm that cancels security is shirk. Around this centre the Quran gathers the other wrongs against Allah's truth: lying about Him and denying His signs.",
+     "bn": "শব্দটার সবচেয়ে কঠিন ব্যবহার এসেছে ছেলের প্রতি লুকমানের উপদেশে: আল্লাহর সঙ্গে শরিক করা বিরাট জুলুম। সাহাবিরা শব্দটা নিয়ে বিপাকে পড়েছিলেন ৬:৮২-তে। সেখানে নিরাপত্তার প্রতিশ্রুতি তাদের জন্য, যারা ঈমানকে জুলুমের সঙ্গে মেশায়নি। তাঁরা ঘাবড়ে গেলেন, কারণ জুলুম থেকে একেবারে মুক্ত কে? নবী ﷺ তাঁদের লুকমানের কথার দিকে ফিরিয়ে দিলেন। যে জুলুম নিরাপত্তা কেড়ে নেয়, তা শিরক। এই কেন্দ্রের চারপাশে কুরআন আল্লাহর সত্যের বিরুদ্ধে অন্য জুলুমগুলোও এনেছে: তাঁর নামে মিথ্যা বলা আর তাঁর আয়াত অস্বীকার করা।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "31:13",
+     "note": {
+      "en": "As-Sa'di asks why this wrong is called great and answers with a row of false equations: shirk makes the creature of dust equal to the Owner of all necks, the one who owns nothing equal to the One who owns every matter. It is also, he adds, a great wrong against oneself: a soul created to worship Him is made to worship what is worth nothing.",
+      "bn": "আস-সা'দী প্রশ্ন তুলেছেন, এই জুলুমকে বিরাট বলা হলো কেন। উত্তরে তিনি কয়েকটা উল্টো সমীকরণ দেখিয়েছেন। শিরক মাটির তৈরি সৃষ্টিকে সব কিছুর মালিকের সমান বানায়। যার হাতে কিছুই নেই, তাকে বানায় তাঁর সমান, যাঁর হাতে সব কিছু। তিনি আরও বলেন, এটা নিজের ওপরও বড় জুলুম। যে প্রাণ সৃষ্টি হয়েছিল আল্লাহর ইবাদতের জন্য, তাকে লাগানো হলো মূল্যহীন জিনিসের ইবাদতে।"
+     }
+    },
+    {
+     "ref": "6:82",
+     "note": {
+      "en": "As-Sa'di calls this ayah Allah's verdict between the two parties in Ibrahim's dispute with his people, and reads it in degrees. Those who mixed their faith with no zulm at all, neither shirk nor sins, have complete security and complete guidance. Those free of shirk who still commit sins have the root of security and guidance, without its fullness. The Prophet's explanation narrowed the threat; it did not make lesser wrongs harmless.",
+      "bn": "আস-সা'দী বলেন, কওমের সঙ্গে ইবরাহিম (আঃ)-এর বিতর্কে দুই পক্ষের মাঝে এ আয়াত আল্লাহর ফয়সালা। তিনি একে স্তরে স্তরে পড়েছেন। যারা ঈমানের সঙ্গে কোনো জুলুমই মেশায়নি, না শিরক, না গুনাহ, তারা পাবে পূর্ণ নিরাপত্তা ও পূর্ণ হিদায়াত। যারা শিরক থেকে মুক্ত কিন্তু গুনাহে জড়ায়, তারা পাবে নিরাপত্তা ও হিদায়াতের মূলটুকু, পূর্ণতা নয়। নবী ﷺ-এর ব্যাখ্যা হুমকির পরিধি ছোট করেছে, ছোট জুলুমকে নির্দোষ বানায়নি।"
+     }
+    },
+    {
+     "ref": "10:106",
+     "note": {
+      "en": "The command is addressed to the Prophet ﷺ himself: if you call on what neither benefits nor harms you, you would then be among the wrongdoers. As-Sa'di identifies this zulm as shirk, citing 31:13, and draws the conclusion: if the best of creation would be a wrongdoer for calling on another beside Allah, how much more anyone else.",
+      "bn": "হুকুমটা সরাসরি নবী ﷺ-কে: যা উপকারও করতে পারে না, ক্ষতিও না, তাকে ডাকলে তুমি জালিমদের দলে পড়বে। আস-সা'দী ৩১:১৩ উল্লেখ করে বলেছেন, এখানে জুলুম মানে শিরক। তারপর তাঁর সিদ্ধান্ত: সৃষ্টির সেরা মানুষটিও যদি আল্লাহর সঙ্গে অন্যকে ডাকলে জালিম হতেন, তাহলে বাকিদের কথা আর কী বলার আছে?"
+     }
+    },
+    {
+     "ref": "6:21",
+     "note": {
+      "en": "“Who is more unjust than one who invents a lie about Allah or denies His signs?” As-Sa'di says no one is greater in wrong than a person with either trait, let alone both. Under the lie he places claiming a partner or a son for Allah; under the denial, rejecting the truth the messengers brought. Ibn Kathir names the one who falsely claims Allah sent him.",
+      "bn": "“যে আল্লাহর নামে মিথ্যা বানায় অথবা তাঁর আয়াত অস্বীকার করে, তার চেয়ে বড় জালিম আর কে?” আস-সা'দী বলেন, দুটোর যেকোনো একটা যার মধ্যে আছে, তার চেয়ে বড় জালিম কেউ নেই। দুটো একসঙ্গে থাকলে তো কথাই নেই। মিথ্যার মধ্যে তিনি ধরেছেন আল্লাহর শরিক বা সন্তান দাবি করা। অস্বীকারের মধ্যে ধরেছেন রাসূলদের আনা সত্য ফিরিয়ে দেওয়া। ইবনে কাসির উল্লেখ করেছেন তার কথা, যে মিথ্যা দাবি করে যে আল্লাহ তাকে পাঠিয়েছেন।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 3360",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-3360",
+     "text": {
+      "en": "‘Abdullah said: When the verse “Those who believe and do not mix their faith with zulm” was revealed, we said: “O Messenger of Allah, which of us does not wrong himself?” He said: “It is not as you say. ‘Do not mix their faith with zulm’ means with shirk. Have you not heard what Luqman said to his son: ‘O my son, do not associate anything with Allah; indeed, shirk is a great zulm’?”",
+      "bn": "আবদুল্লাহ (রাঃ) বলেন: যখন এই আয়াত নাজিল হলো, “যারা ঈমান এনেছে এবং ঈমানকে জুলুমের সঙ্গে মেশায়নি”, আমরা বললাম: “হে আল্লাহর রাসূল, আমাদের মধ্যে কে আছে যে নিজের ওপর জুলুম করে না?” তিনি বললেন: “ব্যাপারটা তোমরা যেমন বলছ তেমন নয়। ‘ঈমানকে জুলুমের সঙ্গে মেশায়নি’ মানে শিরকের সঙ্গে। তোমরা কি শোনোনি লুকমান তার ছেলেকে কী বলেছিলেন: ‘হে আমার ছেলে, আল্লাহর সঙ্গে কিছুকে শরিক কোরো না, নিশ্চয়ই শিরক বিরাট জুলুম’?”"
+     },
+     "note": {
+      "en": "Al-Bukhari also records the same report from ‘Abdullah at no. 32, where the Companions ask “Which of us has not done wrong?” and the answer is that Allah revealed 31:13. Either way, the fear was settled by reading the Quran through the Quran.",
+      "bn": "আল-বুখারি একই বর্ণনা আবদুল্লাহ (রাঃ) থেকে ৩২ নম্বরেও এনেছেন। সেখানে সাহাবিরা জিজ্ঞেস করেন, “আমাদের কে জুলুম করেনি?” আর জবাবে আল্লাহ ৩১:১৩ নাজিল করেন। যেভাবেই হোক, ভয়টা দূর হয়েছিল কুরআন দিয়ে কুরআন বুঝে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "wronging-oneself",
+   "title": {
+    "en": "Wronging One's Own Soul",
+    "bn": "নিজের ওপর জুলুম"
+   },
+   "body": [
+    {
+     "en": "Most of the zulm in a believer's life is of the second kind: a sin whose damage falls on the one who commits it. Of the Children of Israel the Quran says, “they wronged Us not, but they were wronging themselves” (2:57), and the phrase becomes the language of repentance. Adam, Yunus and the du'a the Prophet ﷺ taught Abu Bakr all use the word zulm of oneself. To call one's sin a wrong against oneself is not self-contempt. It puts the harm where it actually lands, since Allah is not harmed by it, and it is the first step of the way back.",
+     "bn": "মুমিনের জীবনে বেশির ভাগ জুলুম দ্বিতীয় ধরনের: এমন গুনাহ, যার ক্ষতি গিয়ে পড়ে যে করে তার নিজের ঘাড়েই। বনি ইসরাইল সম্পর্কে কুরআন বলেছে, “তারা আমার ওপর জুলুম করেনি, বরং নিজেদের ওপরই জুলুম করছিল” (২:৫৭)। এই কথাটাই পরে তওবার ভাষা হয়ে গেছে। আদম (আঃ), ইউনুস (আঃ), আর আবু বকর (রাঃ)-কে শেখানো নবী ﷺ-এর দোয়া, সবখানেই নিজের সম্পর্কে জুলুম শব্দটা এসেছে। নিজের গুনাহকে নিজের ওপর জুলুম বলা নিজেকে তুচ্ছ করা নয়। এতে ক্ষতিটাকে ঠিক জায়গায় দেখা হয়, কারণ আল্লাহর তাতে কোনো ক্ষতি নেই। আর এখান থেকেই ফেরার পথ শুরু।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "7:23",
+     "note": {
+      "en": "Adam and his wife had been warned that approaching the tree would make them “among the wrongdoers” (2:35). Their du'a takes up that very word and turns it into a confession. As-Sa'di sets Adam beside Iblis: whoever resembles Adam when he sins, admitting it, asking forgiveness, regretting and leaving it, his Lord chooses and guides him; whoever resembles Iblis, adding sin to sin, only grows more distant from Allah.",
+      "bn": "আদম (আঃ) ও তাঁর স্ত্রীকে সাবধান করা হয়েছিল, গাছের কাছে গেলে তাঁরা “জালিমদের অন্তর্ভুক্ত” হবেন (২:৩৫)। তাঁদের দোয়া ঠিক সেই শব্দটা তুলে নিয়ে স্বীকারোক্তিতে বদলে দিয়েছে। আস-সা'দী আদম (আঃ)-কে ইবলিসের পাশে রেখে দেখিয়েছেন। গুনাহ হয়ে গেলে যে আদমের মতো করে, স্বীকার করে, মাফ চায়, অনুতপ্ত হয়, গুনাহ ছেড়ে দেয়, তার রব তাকে বেছে নেন, পথ দেখান। আর যে ইবলিসের মতো গুনাহের ওপর গুনাহ চাপায়, সে আল্লাহর কাছ থেকে শুধু দূরেই সরে।"
+     }
+    },
+    {
+     "ref": "21:87",
+     "note": {
+      "en": "Yunus (AS) called out within the darknesses, which Ibn Kathir reports from Ibn Mas‘ud as the darkness of the fish's belly, of the sea and of the night. His call has three parts: there is no god but You, glory be to You, I have been of the wrongdoers. As-Sa'di says he affirmed Allah's perfect divinity, declared Him free of every flaw, and confessed his wrong against himself.",
+      "bn": "ইউনুস (আঃ) ডেকেছিলেন অন্ধকারের ভেতর থেকে। ইবনে কাসির ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেছেন: মাছের পেটের অন্ধকার, সাগরের অন্ধকার আর রাতের অন্ধকার। তাঁর ডাকে তিনটি অংশ: আপনি ছাড়া কোনো ইলাহ নেই, আপনি পবিত্র, আমি জালিমদের একজন ছিলাম। আস-সা'দী বলেন, এতে তিনি আল্লাহর পূর্ণ উলুহিয়াত স্বীকার করেছেন, তাঁকে সব ত্রুটি থেকে পবিত্র ঘোষণা করেছেন, আর নিজের ওপর জুলুমের কথা মেনে নিয়েছেন।"
+     }
+    },
+    {
+     "ref": "35:32",
+     "note": {
+      "en": "The striking detail is where “the one who wrongs himself” stands: among those Allah chose to inherit the Book. As-Sa'di explains his wrong as sins below disbelief, and says even he has a share of the inheritance through the faith he holds. Ibn Kathir describes him as one careless about some obligations who commits some forbidden things. The ayah names his fault without putting him outside.",
+      "bn": "চোখে পড়ার মতো ব্যাপার হলো, “যে নিজের ওপর জুলুম করে” তার জায়গাটা কোথায়: আল্লাহ যাদের কিতাবের উত্তরাধিকারের জন্য বেছে নিয়েছেন, তাদেরই মধ্যে। আস-সা'দী বলেন, তার জুলুম কুফরের নিচের গুনাহ। তার কাছে যে ঈমান আছে, তার সুবাদে উত্তরাধিকারে তারও ভাগ আছে। ইবনে কাসিরের বর্ণনায় সে এমন লোক, যে কিছু ফরজে গাফিলতি করে আর কিছু হারামে জড়ায়। আয়াত তার দোষের নাম বলে দেয়, কিন্তু তাকে বাইরে ঠেলে দেয় না।"
+     }
+    },
+    {
+     "ref": "3:135",
+     "note": {
+      "en": "Two kinds of fall are named, a fāhishah or a wrong against oneself, then the responses: they remember Allah, ask forgiveness, know that none forgives but He, and do not persist knowingly. As-Sa'di reads the two as major evil deeds and what is below them, and stresses that the asking comes together with leaving the sin and regretting it.",
+      "bn": "এখানে দুই রকম পতনের কথা: অশ্লীল কাজ, অথবা নিজের ওপর জুলুম। তারপর সাড়া: তারা আল্লাহকে স্মরণ করে, মাফ চায়, জানে যে তিনি ছাড়া কেউ মাফ করে না, আর জেনেশুনে গুনাহে অটল থাকে না। আস-সা'দী দুটোকে পড়েছেন বড় গুনাহ ও তার চেয়ে ছোট গুনাহ হিসেবে। তিনি জোর দিয়েছেন, মাফ চাওয়ার সঙ্গে থাকে গুনাহ ছেড়ে দেওয়া আর অনুতাপ।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 834",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-834",
+     "text": {
+      "en": "Abu Bakr as-Siddiq said to the Messenger of Allah ﷺ: “Teach me a supplication to make in my prayer.” He said: “Say: O Allah, I have wronged myself greatly, and none forgives sins but You, so forgive me with forgiveness from You and have mercy on me. You are the Forgiving, the Merciful.”",
+      "bn": "আবু বকর সিদ্দিক (রাঃ) রাসূলুল্লাহ ﷺ-কে বললেন: “আমাকে একটা দোয়া শিখিয়ে দিন, যা আমি নামাজে পড়ব।” তিনি বললেন: “বলো: হে আল্লাহ, আমি নিজের ওপর অনেক জুলুম করেছি, আর আপনি ছাড়া কেউ গুনাহ মাফ করে না। তাই আপনার পক্ষ থেকে আমাকে মাফ করে দিন, আমার ওপর রহম করুন। নিশ্চয়ই আপনি পরম ক্ষমাশীল, পরম দয়ালু।”"
+     },
+     "note": {
+      "en": "The du'a was taught to Abu Bakr, and its word is “greatly”. If the foremost of the Companions was told to describe his own wrong this way, no one else need feel ashamed to.",
+      "bn": "দোয়াটা শেখানো হয়েছিল আবু বকর (রাঃ)-কে, আর তাতে শব্দটা হলো “অনেক”। সাহাবিদের মধ্যে যিনি সবার আগে, তাঁকেই যদি নিজের জুলুম এভাবে বলতে শেখানো হয়, তাহলে আর কারও লজ্জা পাওয়ার কারণ নেই।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "wronging-others",
+   "title": {
+    "en": "Wronging Other People",
+    "bn": "মানুষের ওপর জুলুম"
+   },
+   "body": [
+    {
+     "en": "The third kind is the one the Quran treats as a debt. As-Sa'di's remark on 2:229, that Allah leaves nothing of people's rights, means a wrong done to another is not settled between the wrongdoer and his Lord alone: the person wronged has a claim. The Quran names its forms: aggression against people, devouring the wealth of the weak, hurting the innocent with words. And in 42:41-42 it draws the line carefully. The one who answers a wrong done to him is cleared; the blame is placed on those who start it.",
+     "bn": "তৃতীয় ধরনের জুলুমকে কুরআন দেখে দেনার মতো করে। ২:২২৯-এ আস-সা'দী বলেছেন, বান্দার হক থেকে আল্লাহ কিছুই ছাড়েন না। এর মানে, অন্যের ওপর করা জুলুম শুধু জালিম আর তার রবের মধ্যে মিটে যায় না। যার ওপর জুলুম হয়েছে, তার দাবি থেকে যায়। কুরআন এর চেহারাগুলো চিনিয়ে দিয়েছে: মানুষের ওপর বাড়াবাড়ি, দুর্বলের সম্পদ গ্রাস করা, নির্দোষকে কথায় কষ্ট দেওয়া। আর ৪২:৪১-৪২-এ সীমারেখা টেনেছে খুব সাবধানে। জুলুমের শিকার হয়ে যে জবাব দেয়, তার দোষ নেই। দায় তাদের, যারা শুরু করে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "42:42",
+     "note": {
+      "en": "The ayah follows permission for the wronged to answer the wrong done to them, then places “the way”, the blame, on those who wrong people and transgress without right. Ibn Kathir explains them as those who start the wrongful action, and cites the hadith that when two people trade insults the blame is on the one who began, unless the wronged one exceeds the measure. As-Sa'di says it covers wrong against people's lives, wealth and honour.",
+      "bn": "এর আগের আয়াতে জুলুমের শিকারকে জবাব দেওয়ার অনুমতি দেওয়া হয়েছে। তারপর এ আয়াত “পথ”, অর্থাৎ দোষের দায়, চাপিয়েছে তাদের ওপর, যারা মানুষের ওপর জুলুম করে আর অন্যায়ভাবে বাড়াবাড়ি করে। ইবনে কাসির বলেন, এরা তারা, যারা অন্যায়ের সূচনা করে। সঙ্গে তিনি হাদিস এনেছেন: দুজন পরস্পরকে গালি দিলে দায় যে শুরু করেছে তার, যদি না মজলুম সীমা ছাড়িয়ে যায়। আস-সা'দী বলেন, মানুষের জান, মাল ও সম্মান, সবকিছুর ওপর জুলুম এর মধ্যে পড়ে।"
+     }
+    },
+    {
+     "ref": "4:10",
+     "note": {
+      "en": "The word zulman, “unjustly”, is the qualifier that matters. As-Sa'di notes that it excludes what the preceding ayat allowed: a poor guardian eating within what is fair, and mixing the orphans' food with one's own. What is eaten wrongly is fire in the belly. He calls this the gravest threat that has come concerning any sin; Ibn Kathir cites the hadith listing “consuming an orphan's property” among the seven destroyers.",
+      "bn": "এখানে আসল শর্তটা “জুলমান” শব্দে, মানে অন্যায়ভাবে। আস-সা'দী বলেন, এ শব্দ আগের আয়াতগুলোতে দেওয়া অনুমতিগুলোকে আলাদা করে দেয়: গরিব অভিভাবক ন্যায্য পরিমাণে খেতে পারে, ইয়াতিমের খাবার নিজের খাবারের সঙ্গে মেশাতে পারে। কিন্তু অন্যায়ভাবে যা খাওয়া হয়, তা পেটে আগুন। তাঁর মতে, গুনাহের ব্যাপারে যত হুমকি এসেছে, এটা তার মধ্যে সবচেয়ে কঠিন। ইবনে কাসির সেই হাদিস এনেছেন, যেখানে সাতটি ধ্বংসকারী গুনাহের মধ্যে “ইয়াতিমের মাল খাওয়া” গোনা হয়েছে।"
+     }
+    },
+    {
+     "ref": "33:58",
+     "note": {
+      "en": "Here the wrong is done to believing men and women “for other than what they have earned”. As-Sa'di explains the phrase as harm without any offence of theirs that would call for it. The offenders carry slander on their backs, he says, because the harm had no cause, and a manifest sin, because they trespassed on a sanctity Allah commanded them to respect.",
+      "bn": "এখানে জুলুম হচ্ছে মুমিন নারী-পুরুষের ওপর, “তারা যা করেনি তার জন্য”। আস-সা'দী ব্যাখ্যা করেছেন: তাদের এমন কোনো অপরাধ ছিল না, যার জন্য কষ্ট দেওয়া চলে। তাঁর ভাষায়, এরা পিঠে তুলে নিয়েছে অপবাদের বোঝা, কারণ কষ্ট দেওয়ার কোনো কারণ ছিল না। আর বয়ে বেড়াচ্ছে স্পষ্ট গুনাহ, কারণ যে মর্যাদা রক্ষার হুকুম আল্লাহ দিয়েছিলেন, তারা তা লঙ্ঘন করেছে।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 2447",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-2447",
+     "text": {
+      "en": "Ibn ‘Umar narrated that the Prophet ﷺ said: “Zulm will be darknesses on the Day of Resurrection.”",
+      "bn": "ইবনে উমর (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: “জুলুম কিয়ামতের দিন অন্ধকাররাশি হয়ে দেখা দেবে।”"
+     },
+     "note": {
+      "en": "In Arabic the two key words share their letters: al-ẓulm, wrong, and ẓulumāt, darknesses. The wrong done in this world is met on the Day as darkness.",
+      "bn": "আরবিতে মূল দুটি শব্দ একই অক্ষরে গড়া: আজ-জুলম, মানে অন্যায়, আর জুলুমাত, মানে অন্ধকাররাশি। দুনিয়াতে করা জুলুম কিয়ামতের দিন সামনে আসে অন্ধকার হয়ে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "judgement-and-limits",
+   "title": {
+    "en": "Judgement and Allah's Limits",
+    "bn": "বিচার ও আল্লাহর সীমা"
+   },
+   "body": [
+    {
+     "en": "Zulm also names wrongs in judgement and in law: overstepping the limits Allah set, punishing the wrong person, setting aside what He revealed in a matter He has ruled on. The Quran uses the same verdict, “those are the wrongdoers”, for a husband who abuses the rules of divorce and for one who does not judge by what Allah revealed. Their meaning is given here as the commentators explain it. The reader's own task is closer to home: to keep within the limits in his dealings and judgements, in the family, in trade and in any authority he holds.",
+     "bn": "বিচার আর বিধানের ক্ষেত্রেও কুরআন জুলুম শব্দ ব্যবহার করেছে: আল্লাহর বেঁধে দেওয়া সীমা পার হওয়া, ভুল লোককে শাস্তি দেওয়া, যে বিষয়ে আল্লাহ বিধান দিয়েছেন সেখানে তাঁর নাজিল করা বিধান সরিয়ে রাখা। তালাকের নিয়ম অপব্যবহারকারী স্বামী আর আল্লাহর নাজিল করা বিধান অনুযায়ী বিচার না করা ব্যক্তি, দুজনের বেলায় কুরআনের রায় একই: “তারাই জালিম।” এ আয়াতগুলোর অর্থ এখানে দেওয়া হলো মুফাসসিরদের ব্যাখ্যা অনুযায়ী, তাঁদের নামে। পাঠকের নিজের কাজটা ঘরের কাছেই: নিজের লেনদেনে, নিজের ফয়সালায় সীমার ভেতরে থাকা। পরিবারে, ব্যবসায়, আর হাতে যতটুকু দায়িত্ব আছে তার সবখানে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "5:45",
+     "note": {
+      "en": "The Torah's law of retaliation closes: “whoever does not judge by what Allah has revealed, those are the wrongdoers.” Ibn Kathir explains the word here: those given this law did not take the wronged person's right from the one who wronged him, in a matter Allah commanded be treated equally. As-Sa'di quotes Ibn ‘Abbas, “kufr below kufr, zulm below zulm”, and explains: it is the major zulm when the person holds it permissible, and a great major sin when he does it without holding it so.",
+      "bn": "তাওরাতে দেওয়া কিসাসের বিধানের শেষে বলা হয়েছে: “আল্লাহ যা নাজিল করেছেন সে অনুযায়ী যারা বিচার করে না, তারাই জালিম।” ইবনে কাসির এখানে শব্দটার ব্যাখ্যা দিয়েছেন: যে বিষয়ে আল্লাহ সবাইকে সমানভাবে দেখার হুকুম দিয়েছিলেন, সেখানে যাদের এ বিধান দেওয়া হয়েছিল, তারা জালিমের কাছ থেকে মজলুমের হক আদায় করে দেয়নি। আস-সা'দী ইবনে আব্বাস (রাঃ)-এর কথা এনেছেন: “কুফরের নিচে কুফর, জুলুমের নিচে জুলুম।” তাঁর ব্যাখ্যায়, কেউ একে বৈধ মনে করলে তা জুলুমে আকবর, অর্থাৎ বড় স্তরের জুলুম। বৈধ মনে না করে করলে তা ভয়াবহ কবিরা গুনাহ।"
+     }
+    },
+    {
+     "ref": "2:229",
+     "note": {
+      "en": "After the rules of divorce comes: “These are the limits of Allah, so do not transgress them; whoever transgresses the limits of Allah, those are the wrongdoers.” As-Sa'di links it to the harm the ayah ended: a man would divorce and take back his wife without limit, only to hurt her. He asks what wrong is greater than leaving the wide lawful for the forbidden, and it is here that he sets out the three kinds of zulm.",
+      "bn": "তালাকের বিধানের পর এসেছে: “এগুলো আল্লাহর সীমা, এগুলো লঙ্ঘন কোরো না। যারা আল্লাহর সীমা লঙ্ঘন করে, তারাই জালিম।” আস-সা'দী একে যুক্ত করেছেন সেই কষ্টের সঙ্গে, যা এ আয়াত বন্ধ করেছে। স্বামী তালাক দিত, আবার ফিরিয়ে নিত, এর কোনো সীমা ছিল না, উদ্দেশ্য শুধু স্ত্রীকে কষ্ট দেওয়া। তিনি প্রশ্ন করেন, হালালের প্রশস্ত জায়গা ছেড়ে যে হারামে ঢুকে পড়ে, তার চেয়ে বড় জুলুম আর কী? জুলুমের তিন ভাগের কথা তিনি এখানেই বলেছেন।"
+     }
+    },
+    {
+     "ref": "12:79",
+     "note": {
+      "en": "Yusuf (AS) refuses to take one of the brothers in Binyamin's place: “we would then be wrongdoers.” Ibn Kathir explains: if we took an innocent man instead of the guilty one. As-Sa'di notes his careful wording, “the one with whom we found our property” rather than “the one who stole”, to guard against a lie, and says the wrong would have been putting the punishment in other than its place.",
+      "bn": "বিনইয়ামিনের বদলে ভাইদের একজনকে রেখে দিতে ইউসুফ (আঃ) রাজি হননি: “তাহলে তো আমরা জালিম হয়ে যাব।” ইবনে কাসিরের ব্যাখ্যা: দোষীর বদলে নির্দোষকে ধরলে। আস-সা'দী তাঁর শব্দ বাছাইয়ের দিকে দৃষ্টি দিয়েছেন। তিনি “যে চুরি করেছে” বলেননি, বলেছেন “যার কাছে আমাদের মাল পেয়েছি”, যাতে মিথ্যা না হয়। আর জুলুমটা হতো শাস্তিকে তার জায়গা থেকে সরিয়ে অন্য জায়গায় দেওয়া।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "allah-wrongs-no-one",
+   "title": {
+    "en": "Allah Wrongs No One",
+    "bn": "আল্লাহ কারও ওপর জুলুম করেন না"
+   },
+   "body": [
+    {
+     "en": "Against all this human wrong the Quran sets one fixed point: Allah does not wrong anyone, not by an atom's weight. The ayat say it in different settings: the weighing of deeds, the destruction of past nations, the opening of the record. The hadith qudsi adds that He has forbidden zulm to Himself. If He wrongs no one, then the loss a person finds in his record on the Day is, as 10:44 says, his own doing. That “Allah does not love the wrongdoers” (3:57) is treated on the sibling page on whom Allah does not love.",
+     "bn": "মানুষের এত জুলুমের বিপরীতে কুরআন একটা অটল সত্য দাঁড় করিয়েছে: আল্লাহ কারও ওপর জুলুম করেন না, এক কণা পরিমাণও না। নানা প্রসঙ্গে কথাটা এসেছে: আমল ওজনের সময়, আগের জাতিগুলোর ধ্বংসের বর্ণনায়, আমলনামা খোলার মুহূর্তে। হাদিসে কুদসি যোগ করেছে, তিনি জুলুমকে নিজের জন্য হারাম করেছেন। তিনি যখন কারও ওপর জুলুম করেন না, তখন কিয়ামতের দিন আমলনামায় যে লোকসান কেউ দেখবে, ১০:৪৪-এর ভাষায় তা তার নিজেরই করা। “আল্লাহ জালিমদের ভালোবাসেন না” (৩:৫৭) কথাটির আলোচনা আছে “আল্লাহ যাদের ভালোবাসেন না” পাতায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "4:40",
+     "note": {
+      "en": "As-Sa'di explains what the negation covers: Allah does not reduce a servant's good deeds by an atom, nor add to his evil ones. Then the ayah turns the other way: a good deed He multiplies, and gives a great reward from Himself besides. The multiplying, as-Sa'di says, runs to ten times and beyond, according to the deed's sincerity and benefit. Justice is the floor of His dealing, not the ceiling.",
+      "bn": "আস-সা'দী ব্যাখ্যা করেছেন, এ না-বাচক কথার আওতা কতটুকু: আল্লাহ বান্দার নেকি থেকে এক কণাও কমান না, তার গুনাহে এক কণাও বাড়ান না। তারপর আয়াত উল্টো দিকে মোড় নেয়: নেকি হলে তিনি তা বহুগুণ করেন। আস-সা'দীর ভাষায়, দশগুণ থেকে আরও বেশি, আমলের ইখলাস আর উপকার অনুযায়ী। সঙ্গে নিজের পক্ষ থেকে দেন বিরাট প্রতিদান। ইনসাফ তাঁর আচরণের সর্বনিম্ন মাপ, সর্বোচ্চ নয়।"
+     }
+    },
+    {
+     "ref": "10:44",
+     "note": {
+      "en": "Two statements side by side: Allah does not wrong people at all, but people wrong themselves. As-Sa'di describes the second: the truth comes to them and they do not accept it, and Allah afterwards punishes them by sealing their hearts. Ibn Kathir explains the ayah by quoting the hadith qudsi, “O My servants, I have forbidden zulm for Myself.”",
+      "bn": "দুটি কথা পাশাপাশি: আল্লাহ মানুষের ওপর একটুও জুলুম করেন না, বরং মানুষই নিজেদের ওপর জুলুম করে। দ্বিতীয় কথাটার ব্যাখ্যায় আস-সা'দী বলেন, সত্য তাদের কাছে আসে, তারা গ্রহণ করে না। তারপর আল্লাহ শাস্তি হিসেবে তাদের অন্তরে মোহর মেরে দেন। ইবনে কাসির এ আয়াতের ব্যাখ্যায় হাদিসে কুদসিটি এনেছেন: “হে আমার বান্দারা, আমি জুলুমকে নিজের জন্য হারাম করেছি।”"
+     }
+    },
+    {
+     "ref": "18:49",
+     "note": {
+      "en": "The record is laid open and the criminals ask what book this is that leaves nothing small or great. As-Sa'di notes that nothing done in secret or in public, by night or by day, is forgotten in it. The closing words, “your Lord wrongs no one”, mean they are recompensed by what is written and made to admit it, and they do not step outside His justice and His grace.",
+      "bn": "আমলনামা খুলে রাখা হয়, আর অপরাধীরা বলে, এ কেমন কিতাব, যা ছোট-বড় কিছুই বাদ দেয়নি! আস-সা'দী বলেন, গোপনে বা প্রকাশ্যে, রাতে বা দিনে, কোনো আমলই এতে ভুলে যাওয়া হয়নি। শেষ কথা, “তোমার রব কারও ওপর জুলুম করেন না”, এর অর্থ তাঁর ব্যাখ্যায়: লেখা অনুযায়ীই তাদের প্রতিদান হবে, তাদের দিয়েই তা স্বীকার করানো হবে, আর তারা তাঁর ইনসাফ ও অনুগ্রহের বাইরে যাবে না।"
+     }
+    },
+    {
+     "ref": "11:101",
+     "note": {
+      "en": "Said after the stories of the prophets and their peoples in this sūrah: “We did not wrong them, but they wronged themselves.” Ibn Kathir explains their self-wrong as rejecting their messengers; as-Sa'di as shirk, disbelief and stubbornness. Their gods availed them nothing and added only ruin. As-Sa'di says the same holds for anyone who takes refuge in other than Allah: it does not help him when hardship comes.",
+      "bn": "এ সূরায় নবীগণ ও তাঁদের কওমের কাহিনিগুলোর পর বলা হয়েছে: “আমি তাদের ওপর জুলুম করিনি, বরং তারা নিজেরাই নিজেদের ওপর জুলুম করেছে।” ইবনে কাসিরের মতে, তাদের নিজের ওপর জুলুম হলো রাসূলদের প্রত্যাখ্যান করা। আস-সা'দীর মতে, শিরক, কুফর আর একগুঁয়েমি। যাদের তারা ডাকত, সেই উপাস্যরা তাদের কোনো কাজে আসেনি, ধ্বংস ছাড়া কিছুই বাড়ায়নি। আস-সা'দী বলেন, আল্লাহ ছাড়া অন্যের আশ্রয় যে নেয়, সবার বেলায় একই কথা: বিপদের সময় তা তার কোনো কাজে আসে না।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 2577d",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-2577",
+     "text": {
+      "en": "Abu Dharr reported that the Messenger of Allah ﷺ said, relating it from his Lord, the Blessed and Exalted: “I have made zulm unlawful for Myself and for My servants, so do not wrong one another.”",
+      "bn": "আবু জর (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ তাঁর বরকতময় ও মহান রবের পক্ষ থেকে বর্ণনা করেছেন: “আমি জুলুমকে নিজের ওপর এবং আমার বান্দাদের ওপর হারাম করেছি। অতএব তোমরা একে অপরের ওপর জুলুম কোরো না।”"
+     },
+     "note": {
+      "en": "Muslim's fuller narration of the same hadith (the first narration under no. 2577) runs on through guidance, food, clothing and forgiveness, and ends: “It is but your deeds that I record for you and then recompense you for. So let him who finds good praise Allah, and let him who finds other than that blame no one but himself.”",
+      "bn": "মুসলিমে একই হাদিসের পূর্ণ বর্ণনা (২৫৭৭-এর প্রথম বর্ণনা) হিদায়াত, খাবার, কাপড় আর মাগফিরাতের কথা পেরিয়ে শেষ হয়েছে এভাবে: “এগুলো তোমাদেরই আমল, যা আমি তোমাদের জন্য গুনে রাখি, তারপর তার পুরো প্রতিদান দিই। কাজেই যে কল্যাণ পায়, সে যেন আল্লাহর প্রশংসা করে। আর যে অন্য কিছু পায়, সে যেন নিজেকে ছাড়া আর কাউকে দোষ না দেয়।”"
+     }
+    }
+   ]
+  },
+  {
+   "id": "respite-and-seizure",
+   "title": {
+    "en": "Respite, Then the Seizure",
+    "bn": "অবকাশ, তারপর পাকড়াও"
+   },
+   "body": [
+    {
+     "en": "The hardest thing to watch is a wrongdoer who prospers. The Quran answers it directly: do not think Allah unaware. Respite is not neglect; it is a term with an end, in this world for many towns and in the next for all. As-Sa'di calls 14:42 a severe threat to the wrongdoers and a consolation to the wronged. The same chapter of Hud that describes the seizure tells the believer what to avoid meanwhile: inclining toward those who do wrong. The Prophet ﷺ put the respite and the seizure into one sentence, then recited 11:102.",
+     "bn": "সবচেয়ে কষ্টের দৃশ্য হলো জালিমের সমৃদ্ধি। কুরআন এর জবাব দিয়েছে সরাসরি: আল্লাহকে গাফেল মনে কোরো না। অবকাশ মানে উপেক্ষা নয়। এর একটা নির্দিষ্ট সময় আছে, যার শেষ আছে। অনেক জনপদের জন্য সে শেষ এসেছে দুনিয়াতেই, আর সবার জন্য আসবে আখিরাতে। আস-সা'দী ১৪:৪২-কে বলেছেন জালিমদের জন্য কঠিন হুমকি, আর মজলুমদের জন্য সান্ত্বনা। সূরা হুদ, যেখানে পাকড়াওয়ের বর্ণনা, সেখানেই মুমিনকে বলে দেওয়া হয়েছে এর মধ্যে কী করা যাবে না: জালিমদের দিকে ঝুঁকে পড়া। নবী ﷺ অবকাশ আর পাকড়াওকে এক বাক্যে বেঁধেছেন, তারপর ১১:১০২ তিলাওয়াত করেছেন।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "14:42",
+     "note": {
+      "en": "As-Sa'di explains that the respite, the provision and the freedom to move about in safety are no sign of a wrongdoer's good standing, for Allah gives the wrongdoer respite so that he increases in sin, until, when He seizes him, He does not let him go. Zulm here, he adds, covers both the wrong between a servant and his Lord and the wrong done to Allah's servants.",
+      "bn": "আস-সা'দী বলেন, অবকাশ, রিজিকের প্রাচুর্য, নিরাপদে দেশে দেশে ঘুরে বেড়ানো, এর কোনোটাই জালিমের ভালো অবস্থার প্রমাণ নয়। আল্লাহ জালিমকে ঢিল দেন, যাতে তার গুনাহ আরও বাড়ে, তারপর যখন ধরেন, আর ছাড়েন না। তিনি আরও বলেন, এখানে জুলুম বলতে দুটোই বোঝায়: বান্দা ও রবের মাঝখানের জুলুম, আর আল্লাহর বান্দাদের ওপর জুলুম।"
+     }
+    },
+    {
+     "ref": "22:48",
+     "note": {
+      "en": "Spoken in the first person: “how many a town I gave respite while it was doing wrong; then I seized it.” As-Sa'di draws the lesson from the order of events: their haste in wrongdoing did not bring haste in punishment, and after the punishment in this world they still return to Allah. So, he concludes, let the wrongdoers beware and not be deceived by the delay.",
+      "bn": "আল্লাহ এখানে নিজেই বলছেন: “কত জনপদকে আমি অবকাশ দিয়েছি, অথচ তারা জুলুমে লিপ্ত ছিল। তারপর তাদের ধরেছি।” আস-সা'দী ঘটনার ক্রম থেকে শিক্ষা নিয়েছেন। তারা জুলুমে তাড়াহুড়া করেছে বলে শাস্তিতে তাড়াহুড়া হয়নি। আর দুনিয়ার শাস্তির পরও তাদের ফিরতে হবে আল্লাহর কাছে। তাই তাঁর উপসংহার: জালিমরা যেন সাবধান হয়, অবকাশ দেখে যেন ধোঁকা না খায়।"
+     }
+    },
+    {
+     "ref": "11:102",
+     "note": {
+      "en": "Ibn Kathir explains this ayah with the hadith of Abu Musa from the Two Sahihs, quoted below. The towns are seized “while they are doing wrong”. Fifteen ayat later the sūrah states the other side: your Lord would not destroy the towns unjustly while their people were setting things right (11:117).",
+      "bn": "ইবনে কাসির এ আয়াতের ব্যাখ্যা দিয়েছেন বুখারি ও মুসলিমে বর্ণিত আবু মুসা (রাঃ)-এর হাদিস দিয়ে, যা নিচে আছে। জনপদগুলো ধরা পড়ে “জুলুমে লিপ্ত থাকা অবস্থায়”। পনেরো আয়াত পরে সূরাটি অন্য দিকটাও বলেছে: জনপদের লোকেরা সংশোধনে নিয়োজিত থাকলে তোমার রব অন্যায়ভাবে তা ধ্বংস করেন না (১১:১১৭)।"
+     }
+    },
+    {
+     "ref": "11:113",
+     "note": {
+      "en": "The verb is tarkanū, to lean or incline. As-Sa'di defines it as leaning toward a wrongdoer in his wrong: agreeing with it, or being pleased with what he is doing. Then he asks: if this is the threat for those who lean toward wrongdoers, what of the wrongdoers themselves? Ibn Kathir reports from Ibn ‘Abbas: do not side with those who do wrong.",
+      "bn": "ক্রিয়াপদটি “তারকানু”, মানে ঝুঁকে পড়া, হেলে পড়া। আস-সা'দীর সংজ্ঞায় এর মানে জালিমের জুলুমে তার দিকে হেলে পড়া: জুলুমে সায় দেওয়া, কিংবা সে যা করছে তাতে খুশি থাকা। তারপর তাঁর প্রশ্ন: জালিমের দিকে যে ঝোঁকে, তার জন্যই যদি এই হুমকি, তাহলে খোদ জালিমের অবস্থা কী হবে? ইবনে কাসির ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেছেন: যারা জুলুম করে, তাদের পক্ষ নিয়ো না।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 4686",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-4686",
+     "text": {
+      "en": "Abu Musa narrated that the Messenger of Allah ﷺ said: “Allah gives the wrongdoer respite, but when He seizes him, He does not let him escape.” Then he recited: “And thus is the seizure of your Lord when He seizes the towns while they are doing wrong. Indeed, His seizure is painful and severe” (11:102).",
+      "bn": "আবু মুসা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: “আল্লাহ জালিমকে অবকাশ দেন। কিন্তু যখন তাকে পাকড়াও করেন, তখন আর ছাড়েন না।” তারপর তিনি তিলাওয়াত করলেন: “তোমার রবের পাকড়াও এমনই, যখন তিনি জনপদগুলোকে ধরেন তাদের জুলুমে লিপ্ত থাকা অবস্থায়। নিশ্চয়ই তাঁর পাকড়াও যন্ত্রণাদায়ক, কঠোর” (১১:১০২)।"
+     },
+     "note": {
+      "en": "The hadith puts the respite and the seizure into one sentence, so that neither is heard without the other: the delay is real, and so is its end.",
+      "bn": "হাদিসটি অবকাশ আর পাকড়াওকে এক বাক্যে রেখেছে, যাতে একটা শুনলে অন্যটাও কানে আসে। দেরি সত্যি, আর দেরির শেষও সত্যি।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-wrongdoers-regret",
+   "title": {
+    "en": "Regret: Too Late or in Time",
+    "bn": "আফসোস: দেরিতে, না সময়মতো"
+   },
+   "body": [
+    {
+     "en": "The Quran's last picture of the wrongdoer is regret: biting the hands, asking for a way back, confessing “we were wrongdoers”. Many of these confessions come after the punishment has arrived, on a Day when, as 40:52 says, the wrongdoers' excuse will not benefit them. The page ends with them because the confession itself is what a believer is taught to say now. What separates Adam's “we have wronged ourselves” from the regret of the Day is not the wording. It is when the words are said.",
+     "bn": "জালিমের শেষ যে ছবি কুরআন আঁকে, তা আফসোসের: হাত কামড়ানো, ফেরার পথ খোঁজা, আর স্বীকার করা “আমরাই জালিম ছিলাম”। এর অনেকগুলো স্বীকারোক্তি আসে শাস্তি এসে পড়ার পর, এমন দিনে, যেদিন ৪০:৫২-এর ভাষায় জালিমদের অজুহাত কোনো কাজে আসবে না। পাতাটা এখানে শেষ হচ্ছে, কারণ এই স্বীকারোক্তিটাই মুমিনকে এখন বলতে শেখানো হয়েছে। আদম (আঃ)-এর “আমরা নিজেদের ওপর জুলুম করেছি” আর কিয়ামতের আফসোসের মধ্যে তফাত শব্দে নয়। তফাত সময়ে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "25:27",
+     "note": {
+      "en": "The wrongdoer bites his hands and wishes he had taken “a way with the Messenger”; in the next ayah he wishes he had not taken a certain person as a close friend. Ibn Kathir mentions that it may have been revealed about ‘Uqbah ibn Abi Mu‘ayt or another of the doomed, and says it applies to every wrongdoer. As-Sa'di reads “the wrongdoer” here as one who wronged by shirk, disbelief and denying the messengers.",
+      "bn": "জালিম নিজের হাত কামড়াবে আর বলবে, হায়, যদি “রাসূলের সঙ্গে পথ ধরতাম”! পরের আয়াতে সে আফসোস করবে, অমুককে যদি অন্তরঙ্গ বন্ধু না বানাতাম! ইবনে কাসির উল্লেখ করেছেন, আয়াতটি উকবা ইবনে আবি মুআইত বা অন্য কোনো হতভাগার ব্যাপারে নাজিল হয়ে থাকতে পারে, তবে এটা প্রত্যেক জালিমের বেলায় খাটে। আস-সা'দী এখানে “জালিম” বলতে বুঝেছেন তাকে, যে শিরক, কুফর আর রাসূলদের মিথ্যা বলে জুলুম করেছে।"
+     }
+    },
+    {
+     "ref": "42:44",
+     "note": {
+      "en": "Seeing the punishment, the wrongdoers ask: “Is there any way back?” As-Sa'di describes them showing great regret and grief for what they did, and calls the request a demand for the impossible: a return to the world to act otherwise. Ibn Kathir ties the ayah to 6:27-28, where those held over the Fire wish to be sent back, and Allah says that if they were returned they would go back to what they were forbidden.",
+      "bn": "শাস্তি দেখে জালিমরা জিজ্ঞেস করবে: “ফিরে যাওয়ার কোনো পথ আছে কি?” আস-সা'দীর বর্ণনায়, তারা আগে যা করেছে তার জন্য প্রচণ্ড অনুতাপ আর দুঃখ প্রকাশ করবে। তিনি এই চাওয়াকে বলেছেন অসম্ভবের আবদার: দুনিয়ায় ফিরে গিয়ে অন্যভাবে আমল করা। ইবনে কাসির আয়াতটিকে ৬:২৭-২৮-এর সঙ্গে মিলিয়েছেন। সেখানে আগুনের সামনে দাঁড় করানো লোকেরা ফেরত যেতে চায়, আর আল্লাহ বলেন, ফেরত পাঠালেও তারা আবার নিষিদ্ধ কাজেই ফিরে যেত।"
+     }
+    },
+    {
+     "ref": "68:29",
+     "note": {
+      "en": "The owners of the garden had resolved, in Ibn Kathir's words, on preventing the poor from their right in the harvest. Finding it destroyed, they said: “Glory be to our Lord; we were wrongdoers.” The two commentators differ here. Ibn Kathir says they confessed when it was of no use. As-Sa'di agrees it came after a punishment on the garden that would not be lifted, but allows that their glorifying and admitting their wrong may still have lightened the sin and counted as repentance.",
+      "bn": "ইবনে কাসিরের ভাষায়, বাগানের মালিকরা ঠিক করেছিল ফসলে গরিবদের যে হক, তা থেকে তাদের বঞ্চিত করবে। বাগান ধ্বংস দেখে তারা বলল: “আমাদের রব পবিত্র, আমরাই জালিম ছিলাম।” এখানে দুই মুফাসসিরের মত আলাদা। ইবনে কাসির বলেন, তারা স্বীকার করেছে এমন সময়ে, যখন তাতে আর লাভ ছিল না। আস-সা'দীও মানেন, বাগানের ওপর যে শাস্তি এসেছে তা আর ফিরবে না। তবু তিনি সম্ভাবনা রেখেছেন, তাদের এই তাসবিহ আর নিজের জুলুমের স্বীকারোক্তি হয়তো গুনাহ হালকা করেছে, তওবা হিসেবে গণ্য হয়েছে।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "Check your worship first: call on Allah alone, in need and in fear, since 31:13 calls shirk a great wrong.",
+   "bn": "সবার আগে নিজের ইবাদত যাচাই করুন। প্রয়োজনে আর ভয়ে শুধু আল্লাহকে ডাকুন, কারণ ৩১:১৩ শিরককে বিরাট জুলুম বলেছে।"
+  },
+  {
+   "en": "When you sin, name it as Adam did, “we have wronged ourselves”, ask forgiveness, and do not persist knowingly (3:135). Learn the du'a taught to Abu Bakr for your prayer.",
+   "bn": "গুনাহ হয়ে গেলে আদম (আঃ)-এর মতো সোজাসুজি বলুন, “আমরা নিজেদের ওপর জুলুম করেছি”, মাফ চান, আর জেনেশুনে তাতে অটল থাকবেন না (৩:১৩৫)। আবু বকর (রাঃ)-কে শেখানো দোয়াটি মুখস্থ করে নামাজে পড়ুন।"
+  },
+  {
+   "en": "If you hold someone's right, in money, honour or anything else, settle it or ask their pardon today, before the Day when there is no dinar or dirham (al-Bukhari 2449).",
+   "bn": "কারও হক যদি আপনার কাছে আটকে থাকে, টাকা-পয়সায়, সম্মানে বা অন্য কিছুতে, আজই তা মিটিয়ে দিন বা তার কাছে মাফ চেয়ে নিন। সেই দিনের আগে, যেদিন দিনার-দিরহাম বলে কিছু থাকবে না (বুখারি ২৪৪৯)।"
+  },
+  {
+   "en": "When you are wronged, answer only within the measure, or pardon (42:40-42). Going beyond the measure moves the blame onto you.",
+   "bn": "আপনার ওপর জুলুম হলে জবাব দিন মাপের ভেতরে থেকে, অথবা মাফ করে দিন (৪২:৪০-৪২)। মাপ ছাড়িয়ে গেলে দোষ আপনার ঘাড়েই এসে পড়ে।"
+  },
+  {
+   "en": "Do not lean toward wrongdoing by approving it, helping it or being pleased with it (11:113), even when the wrongdoer seems to prosper (14:42).",
+   "bn": "জুলুমে সায় দিয়ে, সাহায্য করে বা তাতে খুশি থেকে জালিমের দিকে ঝুঁকবেন না (১১:১১৩), জালিমকে যতই সফল দেখাক (১৪:৪২)।"
+  },
+  {
+   "en": "Choose close friends with 25:27-29 in mind: the regret of that Day includes a friend who led one away from the reminder.",
+   "bn": "অন্তরঙ্গ বন্ধু বাছাইয়ের সময় ২৫:২৭-২৯ মনে রাখুন। সেদিনের আফসোসের মধ্যে আছে এমন বন্ধুও, যে উপদেশ থেকে দূরে সরিয়ে নিয়েছিল।"
+  }
+ ],
  "refs": [
   "2:35",
   "2:51",
+  "2:57",
   "2:59",
   "2:85",
   "2:92",
@@ -23,10 +412,8 @@
   "2:150",
   "2:165",
   "2:182",
-  "2:203",
   "2:219",
   "2:229",
-  "2:230",
   "2:246",
   "2:254",
   "2:258",
@@ -38,16 +425,18 @@
   "3:86",
   "3:94",
   "3:128",
+  "3:135",
   "3:140",
   "3:151",
   "3:192",
+  "4:10",
   "4:30",
   "4:31",
+  "4:40",
   "4:75",
   "4:112",
   "4:168",
   "5:2",
-  "5:3",
   "5:29",
   "5:45",
   "5:49",
@@ -62,6 +451,7 @@
   "6:52",
   "6:58",
   "6:68",
+  "6:82",
   "6:93",
   "6:120",
   "6:123",
@@ -71,6 +461,7 @@
   "6:157",
   "7:5",
   "7:19",
+  "7:23",
   "7:37",
   "7:41",
   "7:44",
@@ -89,6 +480,7 @@
   "10:13",
   "10:17",
   "10:39",
+  "10:44",
   "10:52",
   "10:85",
   "10:106",
@@ -127,6 +519,7 @@
   "17:99",
   "18:15",
   "18:29",
+  "18:49",
   "18:50",
   "18:57",
   "18:59",
@@ -142,7 +535,6 @@
   "21:59",
   "21:64",
   "21:87",
-  "21:96",
   "21:97",
   "22:25",
   "22:45",
@@ -157,15 +549,14 @@
   "23:106",
   "23:107",
   "24:50",
-  "24:61",
   "25:8",
   "25:19",
+  "25:27",
   "25:37",
   "25:58",
   "25:69",
   "25:70",
   "26:10",
-  "27:10",
   "27:11",
   "27:52",
   "27:85",
@@ -183,12 +574,14 @@
   "30:29",
   "30:57",
   "31:11",
+  "31:13",
   "32:22",
   "33:58",
   "33:71",
   "33:72",
   "34:31",
   "34:42",
+  "35:32",
   "35:40",
   "37:22",
   "39:24",
@@ -205,6 +598,8 @@
   "42:22",
   "42:37",
   "42:40",
+  "42:41",
+  "42:42",
   "42:44",
   "42:45",
   "43:39",
@@ -216,10 +611,8 @@
   "47:19",
   "49:11",
   "51:59",
-  "52:23",
   "52:47",
   "53:32",
-  "56:25",
   "56:45",
   "56:46",
   "58:8",
@@ -236,8 +629,79 @@
   "71:28",
   "76:31"
  ],
+ "refsDropped": [
+  {
+   "ref": "2:203",
+   "reason": "Rules for the days of Mina on Hajj ('no sin upon him' who hastens or delays); no wrongdoing is in view."
+  },
+  {
+   "ref": "2:230",
+   "reason": "Remarriage after a third divorce; the ayah's 'if they think' (zannā) is not zulm and the ayah does not speak of wrongdoing."
+  },
+  {
+   "ref": "5:3",
+   "reason": "Dietary prohibitions; the only 'sin' word is the hunger exemption ('not inclining to sin'), the same pattern as 2:203; no wrongdoing is in view."
+  },
+  {
+   "ref": "21:96",
+   "reason": "The release of Gog and Magog before the Hour; nothing about wrongdoing (the confession 'we were wrongdoers' is in 21:97, which stays)."
+  },
+  {
+   "ref": "24:61",
+   "reason": "No blame on the blind, lame or sick, and permission to eat in relatives' houses; unrelated to wrongdoing."
+  },
+  {
+   "ref": "27:10",
+   "reason": "Musa told to throw his staff and not fear; the ayah on 'one who wrongs, then substitutes good' is 27:11, which stays."
+  },
+  {
+   "ref": "52:23",
+   "reason": "Describes the cup of Paradise free of idle talk and sin; not about wrongdoers."
+  },
+  {
+   "ref": "56:25",
+   "reason": "Describes Paradise as free of idle talk and sinful speech; not about wrongdoers."
+  }
+ ],
  "videos": [],
- "reading": [],
- "sources": [],
- "related": []
+ "reading": [
+  {
+   "title": {
+    "en": "O My servants, I have made oppression forbidden for Myself (hadith with explanation)",
+    "bn": "হে আমার বান্দারা! আমি নিজের ওপর জুলুম হারাম করেছি (হাদিস ও ব্যাখ্যা)"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/4810",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Whoever has wronged his brother, let him seek his pardon today (hadith with explanation)",
+    "bn": "যে ভাইয়ের ওপর জুলুম করেছে, সে যেন আজই তার কাছ থেকে মাফ করিয়ে নেয় (হাদিস ও ব্যাখ্যা)"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/5438",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Can we say that a person has wronged his Lord?",
+    "bn": "কাউকে কি বলা যায় যে সে তার রবের ওপর জুলুম করেছে?"
+   },
+   "url": "https://islamqa.info/en/answers/170723",
+   "site": "islamqa.info",
+   "lang": "en"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir (abridged, English)",
+  "Tafsir as-Sa'di",
+  "Tafsir al-Qurtubi"
+ ],
+ "related": [
+  "allah-dislikes",
+  "th-judgement",
+  "th-hell",
+  "th-repentance"
+ ]
 }

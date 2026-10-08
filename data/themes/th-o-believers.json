@@ -1,14 +1,392 @@
 {
  "id": "th-o-believers",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "O You Who Believe",
   "bn": "হে ঈমানদারগণ"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "The call that comes before a command: what the Quran asks of believers in worship, speech, justice, wealth, brotherhood and the home.",
+  "bn": "হুকুমের আগে আসে একটা ডাক। ইবাদত, কথা, ন্যায়বিচার, সম্পদ, ভ্রাতৃত্ব আর পরিবার নিয়ে কুরআন মুমিনদের কাছে কী চায়, তা-ই এখানে।"
+ },
+ "intro": [
+  {
+   "en": "The ayat gathered on this page all carry one call: yā ayyuhā alladhīna āmanū, “O you who have believed.” The list holds 89 of them, from al-Baqarah to at-Tahrim. The verb is in the past tense. The people addressed have already said yes, and what follows each call is part of what that yes contains. As-Sa‘di says as much again and again in these ayat: Allah commands His believing servants with what their faith requires of them.",
+   "bn": "এই পাতার সব আয়াতে একটাই ডাক: ইয়া আইয়ুহাল্লাযিনা আমানু, “হে যারা ঈমান এনেছ।” তালিকায় এমন আয়াত ৮৯টি, সূরা আল-বাকারা থেকে আত-তাহরিম পর্যন্ত। ক্রিয়াটা অতীত কালের। যাদের ডাকা হচ্ছে, তারা আগেই হ্যাঁ বলে দিয়েছে। প্রতিটি ডাকের পর যা আসে, তা ওই হ্যাঁ-এর ভেতরে থাকা কোনো দায়। আস-সা‘দি এসব আয়াতে বারবার এ কথাই বলেছেন: আল্লাহ তাঁর মুমিন বান্দাদের সেই হুকুম দিচ্ছেন, যা তাদের ঈমান দাবি করে।"
+  },
+  {
+   "en": "Ibn Kathir, commenting on 2:104 and again at the opening of al-Ma’idah, records from Ibn Abi Hatim that a man came to ‘Abdullah ibn Mas‘ud and asked for advice. He answered: “When you hear Allah say ‘O you who believe’, lend it your ear, for it is either a good He is commanding or an evil He is forbidding.” This page reads the ayat in that spirit. Rather than go through them in order, it groups them by the kind of command the call introduces, and looks closely at a few in each group.",
+   "bn": "ইবনে কাসির ২:১০৪-এর তাফসিরে, আবার সূরা আল-মায়িদার শুরুতেও, ইবনে আবি হাতিমের সূত্রে একটি ঘটনা এনেছেন। এক ব্যক্তি আবদুল্লাহ ইবনে মাসউদ (রাঃ)-এর কাছে এসে উপদেশ চাইলেন। তিনি বললেন: “যখন শুনবে আল্লাহ বলছেন ‘হে যারা ঈমান এনেছ’, তখন কান পেতে দাও। কারণ সেটা হয় কোনো কল্যাণ, যার তিনি আদেশ দিচ্ছেন, নয়তো কোনো মন্দ, যা থেকে তিনি নিষেধ করছেন।” এই পাতা আয়াতগুলো সেই মন নিয়েই পড়ে। ক্রমানুসারে না গিয়ে আমরা এগুলো ভাগ করেছি ডাকের পরের হুকুমের ধরন দেখে, আর প্রতিটি ভাগের কয়েকটি আয়াত কাছ থেকে দেখেছি।"
+  },
+  {
+   "en": "A fatwa on IslamQA notes that some scholars observed that “O mankind” comes in the Makkan surahs and “O you who believe” in the Madinan ones, with exceptions both ways. The commands here fit that: they address a community that has accepted the message and must now live by it, in the mosque, the market, the witness stand and the home. The other call has its own page, and so does remembrance of Allah, commanded under this call in 33:41.",
+   "bn": "ইসলামকিউএ-র একটি ফতোয়ায় আছে, কিছু আলেম লক্ষ করেছেন: “হে মানুষ” ডাকটা আসে মক্কি সূরায়, আর “হে যারা ঈমান এনেছ” মাদানি সূরায়; দুই দিকেই ব্যতিক্রম আছে। এখানকার হুকুমগুলোও তার সঙ্গে মেলে। এগুলো এমন এক সমাজের প্রতি, যারা দাওয়াত কবুল করেছে, এখন তা নিয়ে বাঁচতে হবে: মসজিদে, বাজারে, সাক্ষ্যের জায়গায়, ঘরে। অন্য ডাকটির আলাদা পাতা আছে। আল্লাহর জিকিরেরও আছে, যার হুকুম এই ডাকের পরেই এসেছে ৩৩:৪১-এ।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "listening-before-speaking",
+   "title": {
+    "en": "Listening Before Speaking",
+    "bn": "আগে শোনা, তারপর বলা"
+   },
+   "body": [
+    {
+     "en": "The first thing the call teaches is how to stand before revelation. Several commands under it are not about what to do but about manner: which word to use when addressing the Messenger ﷺ, how loudly to speak to him, whether to run ahead of him with an opinion, how quickly to answer when he calls. As-Sa‘di reads 49:1 as the substance of the courtesy owed to Allah and His Messenger: not to speak until he has spoken, not to command until he has commanded.",
+     "bn": "এই ডাক প্রথমে শেখায় ওহির সামনে কীভাবে দাঁড়াতে হয়। এর অধীনে কয়েকটি হুকুম কী করতে হবে তা নিয়ে নয়, আদব নিয়ে। রাসুল ﷺ-কে ডাকতে কোন শব্দ বলবেন, তাঁর সামনে কত জোরে কথা বলবেন, নিজের মত নিয়ে তাঁর আগে এগিয়ে যাবেন কি না, তিনি ডাকলে কত তাড়াতাড়ি সাড়া দেবেন। আস-সা‘দি ৪৯:১-কে আল্লাহ ও তাঁর রাসুলের প্রতি আদবের মূল কথা বলেছেন: তিনি বলার আগে না বলা, তিনি আদেশ দেওয়ার আগে আদেশ না দেওয়া।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:104",
+     "note": {
+      "en": "The Muslims used to say rā‘inā, “look after us”, meaning well; as-Sa‘di explains that the Jews who addressed the Prophet ﷺ at the time seized on it, meaning a corrupt sense, so Allah forbade it to close that door. His lessons: a permitted thing can be forbidden when it becomes a route to the forbidden, and a believer picks words that can carry only a good meaning. “And listen” names no object, so it covers the Quran and the Sunnah alike.",
+      "bn": "মুসলমানরা ভালো উদ্দেশ্যেই বলতেন রাইনা, অর্থাৎ “আমাদের দিকে খেয়াল রাখুন।” আস-সা‘দি ব্যাখ্যা করেছেন, সে সময় যে ইহুদিরা নবী ﷺ-কে সম্বোধন করত, তারা সুযোগ নিয়ে এই শব্দে খারাপ অর্থ বোঝাত, তাই আল্লাহ ওই দরজাটাই বন্ধ করে দিলেন। তিনি এখান থেকে দুটো শিক্ষা নিয়েছেন। জায়েজ জিনিসও নিষিদ্ধ হতে পারে, যখন তা হারামের দিকে যাওয়ার রাস্তা হয়ে দাঁড়ায়। আর মুমিন এমন শব্দ বেছে নেয়, যার ভালো ছাড়া অন্য অর্থ হয় না। তিনি আরও বলেছেন, “আর শোনো” বলে কী শুনতে হবে তা বলা হয়নি, তাই কুরআন আর সুন্নাহ দুটোই এর ভেতরে পড়ে।"
+     }
+    },
+    {
+     "ref": "8:24",
+     "note": {
+      "en": "The call is to “that which gives you life”; as-Sa‘di takes this as true of everything Allah and His Messenger call to, since the heart lives by servitude to Allah. Ibn Kathir records from al-Bukhari that Abu Sa‘id ibn al-Mu‘alla answered the Prophet ﷺ only after finishing his prayer, and was reminded of this ayah. Because Allah comes between a man and his heart, as-Sa‘di warns against turning a command away when it first arrives.",
+      "bn": "ডাকটা “যা তোমাদের জীবন দেয়” তার দিকে। আস-সা‘দি একে আল্লাহ ও রাসুলের প্রতিটি ডাকের বৈশিষ্ট্য বলে ধরেছেন, কারণ অন্তরের জীবন আল্লাহর দাসত্বেই। ইবনে কাসির বুখারির সূত্রে এনেছেন, আবু সাঈদ ইবনুল মুআল্লা (রাঃ) নবী ﷺ-এর ডাকে সাড়া দিয়েছিলেন নামাজ শেষ করার পর, আর নবী ﷺ তাঁকে এই আয়াতটাই মনে করিয়ে দিলেন। আয়াতের শেষে সতর্কবাণী: আল্লাহ মানুষ আর তার অন্তরের মাঝে আড়াল হয়ে দাঁড়ান। আস-সা‘দি এ থেকেই বলেছেন, প্রথমবার হুকুম এলে তা ফিরিয়ে দেবেন না।"
+     }
+    },
+    {
+     "ref": "49:1",
+     "note": {
+      "en": "Literally, “do not go ahead between the hands of Allah and His Messenger.” Ibn Kathir explains: do not rush to decide before him, follow his lead in all matters. He records Ibn ‘Abbas: do not say anything contrary to the Quran and the Sunnah. From Qatadah he records that some people used to say revelation should come down on such a matter, or such a practice should be made lawful, and Allah disliked it.",
+      "bn": "শাব্দিক অর্থ: “আল্লাহ ও তাঁর রাসুলের সামনে এগিয়ে যেয়ো না।” ইবনে কাসির ব্যাখ্যা করেছেন, তাঁর আগে তাড়াহুড়ো করে সিদ্ধান্ত নেবেন না, সব বিষয়ে তাঁকে অনুসরণ করবেন। তিনি ইবনে আব্বাস (রাঃ)-এর কথা এনেছেন: কুরআন ও সুন্নাহর বিপরীত কিছু বলবে না। কাতাদা থেকে এনেছেন, কিছু লোক বলত অমুক বিষয়ে ওহি আসা উচিত, অমুক কাজ হালাল করা উচিত; আল্লাহ তা অপছন্দ করলেন।"
+     }
+    },
+    {
+     "ref": "49:2",
+     "note": {
+      "en": "Ibn Kathir records from al-Bukhari that this came after Abu Bakr and ‘Umar raised their voices before the Prophet ﷺ while disagreeing over who should lead the delegation of Banu Tamim. Afterwards, ‘Umar spoke so softly that he had to be asked to repeat himself. The stake is unusual: deeds lost “while you perceive not.” As-Sa‘di reads the other side of it too: courtesy toward the Prophet ﷺ is among the causes of deeds being accepted.",
+      "bn": "ইবনে কাসির বুখারির সূত্রে এনেছেন, বনু তামিমের প্রতিনিধিদলের নেতা কে হবেন, তা নিয়ে মতভেদে আবু বকর (রাঃ) ও উমর (রাঃ)-এর গলা নবী ﷺ-এর সামনে চড়ে গিয়েছিল, তখন আয়াতটি নাজিল হয়। এরপর উমর (রাঃ) এত আস্তে কথা বলতেন যে নবী ﷺ-কে আবার জিজ্ঞেস করে বুঝে নিতে হতো। এখানে ঝুঁকিটা অস্বাভাবিক: আমল নষ্ট হয়ে যেতে পারে, “অথচ তোমরা টেরও পাবে না।” আস-সা‘দি উল্টো দিকটাও বলেছেন: নবী ﷺ-এর প্রতি আদব আমল কবুল হওয়ার একটি কারণ।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "taqwa-and-the-straight-word",
+   "title": {
+    "en": "Taqwa and the Straight Word",
+    "bn": "তাকওয়া আর সঠিক কথা"
+   },
+   "body": [
+    {
+     "en": "One command keeps returning with the call: ittaqū Allāh, “be mindful of Allah”, found in 17 of the 89 ayat on this list. It is seldom left on its own. Usually it sits beside something concrete, such as giving up interest, judging fairly or avoiding suspicion, and the pairings show what taqwa looks like in practice. The four ayat here give its definition and three of its forms: speech that is straight, company that is truthful, and an honest look at what one has sent ahead.",
+     "bn": "এই ডাকের সঙ্গে একটা হুকুম বারবার ফিরে আসে: ইত্তাকুল্লাহ, “আল্লাহকে ভয় করো।” এই তালিকার ৮৯টি আয়াতের ১৭টিতেই তা আছে। হুকুমটা প্রায় কখনো একা আসে না। সাধারণত তার পাশে থাকে কোনো নির্দিষ্ট কাজ: সুদ ছেড়ে দেওয়া, ইনসাফ করা, খারাপ ধারণা থেকে বাঁচা। এই জোড়াগুলোই দেখায় বাস্তবে তাকওয়া দেখতে কেমন। এখানকার চারটি আয়াতে আছে তাকওয়ার সংজ্ঞা আর তার তিনটি রূপ: সোজা কথা, সত্যবাদীদের সঙ্গ, আর আগামীর জন্য কী পাঠালাম তার সৎ হিসাব।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "3:102",
+     "note": {
+      "en": "“As He should be feared”: Ibn Kathir records Ibn Mas‘ud’s explanation, through an authentic chain to him: that He is obeyed and not disobeyed, remembered and not forgotten, thanked and not denied. As-Sa‘di adds that this is what Allah deserves, while what the servant owes is set by “as much as you are able” (64:16). “Die only as Muslims” he reads as a command to live that way now, since one dies on what one lived on.",
+      "bn": "“যেভাবে তাঁকে ভয় করা উচিত”: ইবনে কাসির এর ব্যাখ্যায় ইবনে মাসউদ (রাঃ)-এর কথা এনেছেন, যার সনদ তাঁর পর্যন্ত বিশুদ্ধ। তাঁর আনুগত্য করা হবে, নাফরমানি নয়; তাঁকে মনে রাখা হবে, ভোলা নয়; তাঁর শুকরিয়া আদায় হবে, অকৃতজ্ঞতা নয়। আস-সা‘দি যোগ করেছেন, এটা আল্লাহর প্রাপ্য কতটা তার বর্ণনা। বান্দার ওপর কতটা দায়, তা ঠিক করে দিয়েছে ৬৪:১৬, “যতটা তোমাদের সাধ্যে কুলায়।” “মুসলিম না হয়ে মরো না”, এ কথা তাঁর কাছে এখনই সেভাবে বাঁচার হুকুম। মানুষ যার ওপর বাঁচে, তার ওপরই মরে।"
+     }
+    },
+    {
+     "ref": "33:70",
+     "note": {
+      "en": "Qawl sadīd is speech that hits the mark. Ibn Kathir glosses it as speech that is straightforward, without crookedness or distortion. As-Sa‘di widens it to anything that aims at what is right: recitation, remembrance, enjoining good, learning and teaching, and also gentle, kind words to people and sincere advice. The next ayah gives the reward, and Ibn Kathir spells it out: Allah will set your deeds right and forgive your sins.",
+      "bn": "কাওলান সাদিদা মানে লক্ষ্যভেদী কথা, যে কথা ঠিক জায়গায় গিয়ে লাগে। ইবনে কাসির বলেছেন, সোজা কথা, যাতে বাঁক নেই, বিকৃতি নেই। আস-সা‘দি অর্থটা আরও ছড়িয়ে দিয়েছেন: সঠিকটায় পৌঁছানোর চেষ্টা আছে এমন সব কথা। তিলাওয়াত, জিকির, সৎ কাজের আদেশ, ইলম শেখা ও শেখানো। মানুষের সঙ্গে নরম, ভদ্র কথা আর আন্তরিক পরামর্শও এর মধ্যে পড়ে। পরের আয়াতে পুরস্কারের কথা, ইবনে কাসির তা খুলে বলেছেন: আল্লাহ আপনার আমল সংশোধন করে দেবেন, গুনাহ মাফ করবেন।"
+     }
+    },
+    {
+     "ref": "9:119",
+     "note": {
+      "en": "The ayah closes the account of the three Companions who stayed behind from Tabuk and then told the Prophet ﷺ the plain truth: they had no excuse. Ibn Kathir notes that truthfulness turned out better for them, since they were forgiven. As-Sa‘di defines “the truthful” broadly: those whose words, deeds and states are all true, free of laziness and of bad intention, and full of sincerity.",
+      "bn": "তাবুক অভিযানে না গিয়ে পিছিয়ে থাকা তিন সাহাবির ঘটনা এই আয়াতে এসে শেষ হয়েছে। তাঁরা নবী ﷺ-কে সোজা সত্যটাই বলেছিলেন: তাঁদের কোনো অজুহাত ছিল না। ইবনে কাসির লিখেছেন, সত্য বলার ফল শেষে তাঁদের জন্য ভালোই হয়েছিল, তাঁরা মাফ পেয়েছিলেন। “সত্যবাদী” কারা, আস-সা‘দি তা বড় করে বলেছেন: যাদের কথা, কাজ আর অবস্থা সবই সত্য। তাতে অলসতা নেই, খারাপ উদ্দেশ্য নেই, আছে ইখলাস।"
+     }
+    },
+    {
+     "ref": "59:18",
+     "note": {
+      "en": "“Let every soul look to what it has sent ahead for tomorrow”, framed by the command to taqwa on both sides. As-Sa‘di calls the ayah a foundation for holding oneself to account: find a slip and correct it with repentance; find a shortfall and ask your Lord’s help to complete it.",
+      "bn": "“প্রত্যেকে যেন দেখে, আগামীকালের জন্য সে কী পাঠিয়েছে।” কথাটার দুই পাশে তাকওয়ার হুকুম। আস-সা‘দি আয়াতটিকে নিজের হিসাব নিজে নেওয়ার মূল ভিত্তি বলেছেন। ভুল পেলে তওবা করে শুধরে নিন। কোনো হুকুমে ঘাটতি পেলে রবের সাহায্য চেয়ে তা পূর্ণ করুন।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 6094",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-6094",
+     "text": {
+      "en": "‘Abdullah reported that the Prophet ﷺ said: “Truthfulness leads to righteousness, and righteousness leads to Paradise. A man keeps telling the truth until he becomes a truthful person (siddīq). Falsehood leads to wickedness, and wickedness leads to the Fire. A man keeps telling lies until he is written before Allah as a liar.”",
+      "bn": "আবদুল্লাহ (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: “সত্য নেকির পথ দেখায়, আর নেকি জান্নাতের পথ দেখায়। মানুষ সত্য বলতে থাকে, শেষে সে সিদ্দিক হয়ে যায়। মিথ্যা পাপাচারের পথ দেখায়, আর পাপাচার জাহান্নামের পথ দেখায়। মানুষ মিথ্যা বলতে থাকে, শেষে আল্লাহর কাছে তাকে মিথ্যুক বলে লিখে দেওয়া হয়।”"
+     },
+     "note": {
+      "en": "The ayah tells believers to be with the truthful; the hadith shows how one becomes one of them, by persisting in it until he becomes truthful. Ibn Kathir cites a version of it under 9:119.",
+      "bn": "আয়াত বলছে সত্যবাদীদের সঙ্গে থাকতে। হাদিস দেখাচ্ছে তাদের একজন হওয়া যায় কীভাবে: লেগে থেকে, যতক্ষণ না সে নিজেই সত্যবাদী হয়ে ওঠে। ইবনে কাসির ৯:১১৯-এর তাফসিরে এর একটি বর্ণনা এনেছেন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "patience-prayer-fasting",
+   "title": {
+    "en": "Patience, Prayer and Fasting",
+    "bn": "সবর, সালাত আর সিয়াম"
+   },
+   "body": [
+    {
+     "en": "When the call turns to worship, it seldom presents an act as an end in itself. Patience and prayer are what you seek help through (2:153); fasting is prescribed so that you may become mindful (2:183); patience, endurance and standing guard are so that you may succeed (3:200), and so are bowing, prostration and doing good (22:77). What the call itself stresses is what these acts are for.",
+     "bn": "ডাকটা যখন ইবাদতের দিকে যায়, তখন কোনো আমলকে প্রায় কখনোই নিছক আমল হিসেবে রাখে না। সবর আর সালাত দিয়ে সাহায্য চাইতে হবে (২:১৫৩)। সিয়াম ফরজ হয়েছে, যাতে তাকওয়া আসে (২:১৮৩)। সবর, দৃঢ়তা আর পাহারায় থাকা, যাতে সফল হও (৩:২০০)। রুকু, সিজদা আর ভালো কাজও সেই সফলতার জন্য (২২:৭৭)। ডাকটা নিজে জোর দিচ্ছে একটা কথায়: এসব আমল কীসের জন্য।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:153",
+     "note": {
+      "en": "Ibn Kathir reads the placement: the ayah before commands gratitude, and this one turns to the other state a believer is always in, since he is either in a blessing to thank Allah for or a trial to bear. As-Sa‘di explains why prayer is named beside patience: it is the pillar of the religion and the link between the servant and his Lord, and a prayer offered with presence of heart is among the greatest helps in every affair.",
+      "bn": "ইবনে কাসির আয়াতের অবস্থানটা ধরিয়ে দিয়েছেন। আগের আয়াতে শুকরিয়ার হুকুম, এই আয়াতে সবর আর সালাতের। কারণ বান্দা সব সময় দুই অবস্থার একটিতে থাকে: হয় নিয়ামতে, যার জন্য শুকরিয়া চাই, নয়তো বিপদে, যার জন্য সবর চাই। সবরের পাশে সালাতের নাম কেন, আস-সা‘দি তা বুঝিয়েছেন: সালাত দ্বীনের খুঁটি, বান্দা আর রবের মাঝে সংযোগ। মন হাজির রেখে পড়া সালাত সব কাজে সবচেয়ে বড় সাহায্যগুলোর একটি।"
+     }
+    },
+    {
+     "ref": "2:183",
+     "note": {
+      "en": "“As it was prescribed for those before you”: Ibn Kathir and as-Sa‘di both read this as encouragement. The duty is not a burden laid on this community alone, so compete to carry it out more fully than those before did. As-Sa‘di lists how fasting builds taqwa: leaving what the self wants for Allah’s sake, training oneself to remember that He sees, narrowing Satan’s paths, and letting the well-off taste the hunger of the poor.",
+      "bn": "“যেমন তোমাদের আগের লোকদের ওপর ফরজ করা হয়েছিল”: ইবনে কাসির আর আস-সা‘দি দুজনেই এতে উৎসাহ দেখেছেন। এ দায় শুধু এই উম্মতের কাঁধে চাপানো কোনো বোঝা নয়। তাই আগের উম্মতদের চেয়েও পূর্ণভাবে পালনে প্রতিযোগিতা করা চাই। রোজা কীভাবে তাকওয়া গড়ে, আস-সা‘দি তার তালিকা দিয়েছেন। মন যা চায় তা আল্লাহর জন্য ছেড়ে দেওয়া। তিনি দেখছেন, এই সচেতনতায় নিজেকে অভ্যস্ত করা। শয়তানের চলার পথ সরু করা। আর সচ্ছল মানুষ ক্ষুধার কষ্ট টের পেয়ে গরিবের দুঃখ বোঝে।"
+     }
+    },
+    {
+     "ref": "3:200",
+     "note": {
+      "en": "The call closes Al ‘Imran, and Ibn Kathir records al-Hasan al-Basri on what it asks: to be patient in the religion Allah chose for them, never leaving it in comfort or hardship, ease or calamity, until they die as Muslims. That echoes 3:102 in the same surah. The ayah then adds taqwa, which Ibn Kathir explains with Muhammad ibn Ka‘b: fear Me in what is between you and Me, so that you succeed when you meet Me.",
+      "bn": "এই ডাক দিয়েই সূরা আলে ইমরান শেষ হয়েছে। ইবনে কাসির হাসান বসরির কথা এনেছেন: মুমিনদের হুকুম দেওয়া হয়েছে আল্লাহর বেছে দেওয়া দ্বীনের ওপর সবর করতে। সুখে-দুঃখে, সচ্ছলতায়-বিপদে কখনো তা ছাড়বে না, যতক্ষণ না মুসলিম হয়ে মৃত্যু আসে। একই সূরার ৩:১০২-এর কথাই এখানে আবার ফিরে এসেছে। এরপর আয়াতে তাকওয়ার হুকুম। ইবনে কাসির তা বুঝিয়েছেন মুহাম্মাদ ইবনে কা‘ব আল-কুরাজির কথায়: আমার আর তোমাদের মাঝে যা আছে, তাতে আমাকে ভয় করো, যাতে আমার সাক্ষাতের দিন সফল হও।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 1903",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-1903",
+     "text": {
+      "en": "Abu Hurairah reported that the Prophet ﷺ said: “Whoever does not give up false speech and acting upon it, Allah has no need of his giving up his food and drink.”",
+      "bn": "আবু হুরাইরা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: “যে ব্যক্তি মিথ্যা কথা আর সে অনুযায়ী কাজ ছাড়ল না, তার খাবার আর পানীয় ছেড়ে দেওয়ায় আল্লাহর কোনো প্রয়োজন নেই।”"
+     },
+     "note": {
+      "en": "Fasting is prescribed “that you may become mindful” (2:183). The hadith shows the same logic from the other side: a fast that leaves the tongue and conduct untouched has kept the hunger and missed the purpose.",
+      "bn": "রোজা ফরজ হয়েছে “যাতে তোমরা তাকওয়া অর্জন করো” (২:১৮৩)। হাদিস একই কথা বলছে উল্টো দিক থেকে। যে রোজায় জবান আর আচরণ বদলায় না, তাতে ক্ষুধাটুকু থাকে, উদ্দেশ্যটা হারিয়ে যায়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "justice-testimony-contracts",
+   "title": {
+    "en": "Justice, Testimony and Contracts",
+    "bn": "ন্যায়, সাক্ষ্য আর চুক্তি"
+   },
+   "body": [
+    {
+     "en": "Four ayat under the call deal with the believer’s word given to others: as a witness, as a judge of people he dislikes, as a party to agreements, and as a lender or borrower. The two justice ayat use nearly the same phrases in reverse order, and between them they cover the two pulls that most often bend testimony: love of one’s own and hatred of an opponent. The contract ayat then make fairness a matter of record, written and witnessed, not only of good intention.",
+     "bn": "এই ডাকের অধীনে চারটি আয়াত মুমিনের সেই কথা নিয়ে, যা সে অন্যের কাছে দেয়: সাক্ষী হিসেবে, অপছন্দের মানুষের বিচারক হিসেবে, চুক্তির পক্ষ হিসেবে, ঋণদাতা বা ঋণগ্রহীতা হিসেবে। ন্যায়বিচারের দুই আয়াতে প্রায় একই শব্দ, শুধু ক্রম উল্টো। দুটো মিলে সেই দুই টানকে ধরে, যা সাক্ষ্যকে সবচেয়ে বেশি বাঁকিয়ে দেয়: আপনজনের প্রতি ভালোবাসা আর প্রতিপক্ষের প্রতি ঘৃণা। চুক্তির আয়াতগুলো এরপর ইনসাফকে শুধু ভালো নিয়তের ব্যাপার রাখে না, লিখে আর সাক্ষী রেখে পাকা করতে বলে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "4:135",
+     "note": {
+      "en": "Qawwāmīna bil-qisṭ: as-Sa‘di notes the intensive form, constantly upholding justice in every state, in Allah’s rights and in people’s. The ayah names the hardest cases: yourselves, parents, relatives, rich and poor. Ibn Kathir explains: do not favour someone for his wealth or pity him for his poverty, for Allah is a better guardian of both. As-Sa‘di names the chief obstacle the ayah clears away: following one’s own desire.",
+      "bn": "কাওয়ামিনা বিল-কিস্ত: আস-সা‘দি লক্ষ করেছেন, শব্দের গঠনটা আধিক্য বোঝায়। অর্থাৎ সব অবস্থায়, আল্লাহর হকে আর বান্দার হকে, সারাক্ষণ ইনসাফের ওপর দাঁড়িয়ে থাকা। আয়াতটি সবচেয়ে কঠিন জায়গাগুলোর নাম নিয়েছে: নিজে, বাবা-মা, আত্মীয়, ধনী আর গরিব। ইবনে কাসির ব্যাখ্যা করেছেন, ধনীর পক্ষ নেবেন না তার সম্পদের জন্য, গরিবের পক্ষ নেবেন না দয়া করে; দুজনের অভিভাবক আল্লাহই ভালো। আস-সা‘দি বলেছেন, আয়াত যে সবচেয়ে বড় বাধা সরাতে বলছে, তা হলো প্রবৃত্তির অনুসরণ।"
+     }
+    },
+    {
+     "ref": "5:8",
+     "note": {
+      "en": "The phrases of 4:135 in reverse: here “upholders for Allah, witnesses in justice.” The pull this time is hatred: do not let enmity toward a people lead you away from justice. As-Sa‘di: as you would testify for a friend, testify against him; as you would testify against an enemy, testify for him. Ibn Kathir illustrates with an-Nu‘man ibn Bashir’s father, whom the Prophet ﷺ declined to witness a gift to one child only: “I shall not be witness to injustice.”",
+      "bn": "৪:১৩৫-এর শব্দগুলোই এখানে উল্টো ক্রমে: “আল্লাহর জন্য দৃঢ়ভাবে দাঁড়িয়ে থাকা, ইনসাফের সাক্ষী।” এবারের টান ঘৃণা: কোনো সম্প্রদায়ের প্রতি শত্রুতা যেন আপনাকে ইনসাফ থেকে সরিয়ে না দেয়। আস-সা‘দির কথা: বন্ধুর পক্ষে যেমন সাক্ষ্য দেন, দরকারে তার বিরুদ্ধেও দিন; শত্রুর বিরুদ্ধে যেমন দেন, দরকারে তার পক্ষেও দিন। ইবনে কাসির উদাহরণ দিয়েছেন নুমান ইবনে বাশির (রাঃ)-এর বাবার ঘটনা দিয়ে। তিনি এক সন্তানকে উপহার দিয়ে নবী ﷺ-কে সাক্ষী রাখতে চাইলে নবী ﷺ রাজি হননি: “আমি অন্যায়ের সাক্ষী হব না।”"
+     }
+    },
+    {
+     "ref": "5:1",
+     "note": {
+      "en": "Al-Ma’idah opens with “fulfil the contracts.” Ibn Kathir records Ibn ‘Abbas: the covenants, meaning what Allah has made lawful and unlawful and the limits He set, so do not betray them. As-Sa‘di reads the word as widely as it will go: the bond with one’s Lord, obedience to the Messenger, ties to parents and relatives, the rights of friendship, sales, hires and gifts, and the brotherhood Allah tied between believers.",
+      "bn": "সূরা আল-মায়িদা শুরু হয়েছে “চুক্তিগুলো পূর্ণ করো” দিয়ে। ইবনে কাসির ইবনে আব্বাস (রাঃ)-এর ব্যাখ্যা এনেছেন: এগুলো অঙ্গীকার, অর্থাৎ আল্লাহ যা হালাল করেছেন, যা হারাম করেছেন, যে সীমা টেনে দিয়েছেন; এসব ভাঙবে না। আস-সা‘দি শব্দটাকে যতদূর যায় ততদূর ছড়িয়ে পড়েছেন। রবের সঙ্গে বান্দার বন্ধন, রাসুলের আনুগত্য, বাবা-মা ও আত্মীয়ের হক, বন্ধুত্বের হক, বেচাকেনা, ভাড়া, উপহার, এমনকি মুমিনদের মাঝে আল্লাহর বেঁধে দেওয়া ভ্রাতৃত্ব।"
+     }
+    },
+    {
+     "ref": "2:282",
+     "note": {
+      "en": "The longest ayah in the Quran, Ibn Kathir notes, and its subject is recording a debt. The commentators differ on the force of “write it down.” Ibn Kathir reports from Abu Sa‘id, ash-Sha‘bi, al-Hasan and others that writing was once required and then abrogated by the next ayah, “if one of you entrusts another.” As-Sa‘di says writing may be obligatory, as where orphans’ wealth is involved, or close to it, and at times nearer to recommended, depending on the case.",
+      "bn": "ইবনে কাসির জানিয়েছেন, এটি কুরআনের সবচেয়ে দীর্ঘ আয়াত, আর এর বিষয় ঋণ লিখে রাখা। “লিখে রাখো” হুকুমটা কতটা বাধ্যতামূলক, তা নিয়ে মুফাসসিরদের মত আলাদা। ইবনে কাসির আবু সাঈদ, আশ-শাবি, আল-হাসান প্রমুখের মত এনেছেন: একসময় লেখা জরুরি ছিল, পরে পরের আয়াতের “তোমাদের কেউ কাউকে বিশ্বাস করলে” কথাটা দিয়ে সেই হুকুম রহিত হয়েছে। আস-সা‘দি বলেছেন, অবস্থাভেদে লেখা কখনো ওয়াজিব, যেমন এতিমের সম্পদের বেলায়, কখনো ওয়াজিবের কাছাকাছি, আবার কখনো মুস্তাহাবের দিকেই বেশি।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "clean-earning-clean-giving",
+   "title": {
+    "en": "Clean Earning, Clean Giving",
+    "bn": "হালাল উপার্জন, খাঁটি দান"
+   },
+   "body": [
+    {
+     "en": "Money draws the call again and again: how it is taken, how it is spent, and what spoils the spending. The ayat here move in a clear line. Do not take one another’s wealth by falsehood; give up what remains of interest; spend from the good of what you have earned, not the scraps; and do not cancel the gift afterwards with reminders and hurt. The first two guard how wealth comes into a believer’s hands, the last two how it leaves them.",
+     "bn": "সম্পদের প্রসঙ্গে এই ডাক বারবার এসেছে: কীভাবে নেওয়া হয়, কীভাবে খরচ হয়, আর কী সেই খরচকে নষ্ট করে। এখানকার আয়াতগুলো একটা পরিষ্কার ধারায় চলে। একে অন্যের সম্পদ অন্যায়ভাবে খেয়ো না। সুদের যা বাকি আছে, ছেড়ে দাও। দান করো নিজের উপার্জনের ভালোটা থেকে, ফেলনা থেকে নয়। আর দান করার পর খোঁটা দিয়ে, কষ্ট দিয়ে তা বরবাদ কোরো না। প্রথম দুটো পাহারা দেয় সম্পদ কীভাবে মুমিনের হাতে আসে, শেষ দুটো কীভাবে হাত থেকে যায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "4:29",
+     "note": {
+      "en": "The ayah forbids devouring wealth by falsehood and in the same breath names the lawful door: trade by mutual consent. As-Sa‘di points to the wording “your wealth” and “yourselves”: one short phrase covers another’s property and your own, killing another and killing yourself, and joining wealth and lives to all believers together shows them as one body.",
+      "bn": "আয়াতটি অন্যায়ভাবে সম্পদ খাওয়া নিষেধ করছে, আর একই নিঃশ্বাসে হালাল দরজাটাও দেখিয়ে দিচ্ছে: পারস্পরিক সম্মতিতে ব্যবসা। আস-সা‘দি শব্দ দুটোর দিকে নজর টেনেছেন, “তোমাদের সম্পদ” আর “তোমাদের নিজেদের”। এক ছোট বাক্যে এসে গেছে অন্যের সম্পদ আর নিজের সম্পদ, অন্যকে হত্যা আর আত্মহত্যা। সম্পদ আর প্রাণকে সব মুমিনের সঙ্গে একসঙ্গে জুড়ে দেওয়ায় বোঝা যায়, তারা এক দেহের মতো।"
+     }
+    },
+    {
+     "ref": "2:278",
+     "note": {
+      "en": "“If you are believers”: the condition is tied to the command itself. As-Sa‘di notes the placement: after describing those who consume interest, Allah turns to the believers and addresses them by their faith. He also marks the command’s reach: the outstanding dealings, while what is past is pardoned for whoever heeds the warning. The next ayah returns the principal, so that you neither wrong nor are wronged.",
+      "bn": "“যদি তোমরা মুমিন হও”: শর্তটা হুকুমের সঙ্গেই বাঁধা। আস-সা‘দি আয়াতের অবস্থানটা দেখিয়েছেন: সুদখোরদের কথা বলার পর আল্লাহ মুমিনদের দিকে ফিরেছেন, ডেকেছেন তাদের ঈমানের নাম ধরে। হুকুমটা কতদূর যায়, তাও তিনি দেখিয়েছেন: চলমান লেনদেনগুলো ছাড়তে হবে, আর যে উপদেশ মানে, তার অতীতেরটা মাফ। পরের আয়াত আসল মূলধন ফিরিয়ে দেয়, যাতে আপনি জুলুম না করেন, আপনার ওপরও জুলুম না হয়।"
+     }
+    },
+    {
+     "ref": "2:267",
+     "note": {
+      "en": "Spend “from the good things you have earned”, and do not aim for the bad to give away when you would only take it yourself with your eyes half shut. The reports on its occasion differ. Ibn Kathir and al-Wahidi record from al-Bara’ ibn ‘Azib that some of the Ansar slipped poor dates among the branches hung in the mosque for the needy Emigrants; al-Wahidi also records from Jabir that a man brought poor dates for Zakat al-Fitr.",
+      "bn": "দান করো “তোমাদের উপার্জনের ভালো জিনিস থেকে।” আর খারাপটা বেছে দান করতে যেয়ো না, যা নিজে নিতে হলে চোখ বুজে নিতে। আয়াতটি কোন প্রসঙ্গে নাজিল হয়েছে, সে বিষয়ে বর্ণনা একাধিক। ইবনে কাসির ও আল-ওয়াহিদি বারা ইবনে আযিব (রাঃ)-এর সূত্রে এনেছেন, আনসারদের কেউ কেউ গরিব মুহাজিরদের জন্য মসজিদে ঝোলানো খেজুরের ছড়ার ফাঁকে নিম্নমানের খেজুর গুঁজে দিতেন। আল-ওয়াহিদি জাবির (রাঃ)-এর সূত্রে আরেকটি বর্ণনাও এনেছেন: এক ব্যক্তি সদকাতুল ফিতরে নিম্নমানের খেজুর এনেছিল।"
+     }
+    },
+    {
+     "ref": "2:264",
+     "note": {
+      "en": "Reminding the recipient (mann) and hurting him (adhā) cancel the charity. As-Sa‘di draws a general lesson: as good deeds remove bad ones, bad deeds can void the good ones they meet, and he cites 49:2 as a parallel. The simile is a smooth rock with a little soil on it; heavy rain comes and leaves it bare. That, he says, is the deed done to be seen.",
+      "bn": "দান করে খোঁটা দেওয়া (মান্ন) আর কষ্ট দেওয়া (আযা) দানটাকেই বাতিল করে দেয়। আস-সা‘দি এখান থেকে একটা সাধারণ নীতি টেনেছেন। নেকি যেমন গুনাহ মুছে দেয়, তেমনি গুনাহও তার মুখোমুখি নেকিকে নষ্ট করতে পারে। এর সমর্থনে তিনি ৪৯:২ এনেছেন। উপমাটা মসৃণ পাথরের, যার ওপর পাতলা মাটির আস্তর। ভারী বৃষ্টি এসে সব ধুয়ে পাথরটাকে খালি করে দেয়। তাঁর কথায়, লোক দেখানো আমলের অবস্থা এটাই।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "guarding-a-brothers-honour",
+   "title": {
+    "en": "Guarding a Brother’s Honour",
+    "bn": "ভাইয়ের সম্মান রক্ষা"
+   },
+   "body": [
+    {
+     "en": "Surat al-Hujurat uses the call five times in its first twelve ayat. After the courtesy owed to the Prophet ﷺ, it turns to what believers owe one another, and the list is specific: check what you hear, do not mock, do not defame, do not use hurtful nicknames, avoid much suspicion, do not spy, do not backbite. It runs from open ridicule to what happens in the heart and behind a person’s back.",
+     "bn": "সূরা আল-হুজুরাতের প্রথম বারো আয়াতে এই ডাক এসেছে পাঁচবার। নবী ﷺ-এর প্রতি আদবের পর সূরাটা যায় মুমিনদের পরস্পরের হকের দিকে, আর তালিকাটা একদম নির্দিষ্ট। যা শোনেন যাচাই করুন, ঠাট্টা করবেন না, দোষ ধরে বেড়াবেন না, খারাপ নামে ডাকবেন না, বেশি ধারণা থেকে বাঁচুন, গোয়েন্দাগিরি করবেন না, গিবত করবেন না। তালিকাটা শুরু হয় প্রকাশ্য বিদ্রূপ থেকে, শেষ হয় মনের ভেতরে আর মানুষের আড়ালে যা ঘটে তাতে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "49:6",
+     "note": {
+      "en": "Investigate when a fāsiq brings news, “lest you harm a people out of ignorance.” Ibn Kathir notes that this is why many hadith scholars refused narrations from people of unknown reliability. As-Sa‘di sets out the rule: the report of a truthful person is accepted, a liar’s is rejected, and a fāsiq’s is held back until the evidence shows which it is.",
+      "bn": "কোনো ফাসিক খবর আনলে যাচাই করো, “যাতে না জেনে কোনো সম্প্রদায়ের ক্ষতি করে না বসো।” ইবনে কাসির লিখেছেন, এ কারণেই অনেক মুহাদ্দিস অপরিচিত বর্ণনাকারীর বর্ণনা গ্রহণ করতেন না। আস-সা‘দি নিয়মটা গুছিয়ে বলেছেন: সত্যবাদীর খবর গ্রহণযোগ্য, মিথ্যাবাদীর খবর প্রত্যাখ্যাত, আর ফাসিকের খবর আটকে থাকবে, যতক্ষণ না প্রমাণ দেখায় সেটা কোন দিকে।"
+     }
+    },
+    {
+     "ref": "49:11",
+     "note": {
+      "en": "Men and women are named separately, and both times the reason is the same: they may be better than you. Ibn Kathir and as-Sa‘di both explain lā talmizū anfusakum, literally “do not defame yourselves”, as “one another”. As-Sa‘di gives two reasons for the wording: believers are like one body, so a brother is your own self; and whoever defames another invites the same back on himself.",
+      "bn": "পুরুষ আর নারীর কথা আলাদা করে বলা হয়েছে, আর দুবারই কারণ একই: হতে পারে তারা তোমাদের চেয়ে ভালো। লা তালমিযু আনফুসাকুম, শাব্দিক অর্থ “নিজেদের দোষ ধরো না।” ইবনে কাসির ও আস-সা‘দি দুজনেই এর মানে করেছেন “একে অন্যের।” এমন শব্দ কেন, আস-সা‘দি তার দুটো কারণ বলেছেন। মুমিনরা এক দেহের মতো, তাই ভাই আপনারই নিজের মতো। আর যে অন্যের দোষ ধরে, সে নিজের দিকেই সেই খোঁচা ডেকে আনে।"
+     }
+    },
+    {
+     "ref": "49:12",
+     "note": {
+      "en": "Not all suspicion but “much” of it, because “some suspicion is sin.” As-Sa‘di explains the danger: an ill thought left in the heart does not stay there, it leads to words and deeds. Then come spying and backbiting, with the image of eating a dead brother’s flesh, which as-Sa‘di takes as evidence that backbiting is a major sin. The ayah closes on Allah as at-Tawwab, the One who accepts repentance.",
+      "bn": "সব ধারণা নয়, “অনেক ধারণা” থেকে বাঁচতে বলা হয়েছে, কারণ “কিছু ধারণা গুনাহ।” আস-সা‘দি বিপদটা বুঝিয়েছেন: মনে খারাপ ধারণা জমে থাকলে তা সেখানে থেমে থাকে না, কথা আর কাজে বেরিয়ে আসে। এরপর আসে গোয়েন্দাগিরি আর গিবত, সঙ্গে মৃত ভাইয়ের গোশত খাওয়ার ছবি। আস-সা‘দি এই উপমা থেকেই প্রমাণ নিয়েছেন যে গিবত কবিরা গুনাহ। আয়াত শেষ হয়েছে আল্লাহর নাম আত-তাওয়াব দিয়ে, যিনি তওবা কবুল করেন।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 2589",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-2589",
+     "text": {
+      "en": "Abu Hurairah reported that the Messenger of Allah ﷺ said: “Do you know what backbiting is?” They said: “Allah and His Messenger know best.” He said: “It is your mentioning your brother in a way he dislikes.” It was said: “What if what I say is actually in my brother?” He said: “If what you say is in him, you have backbitten him; and if it is not in him, you have slandered him.”",
+      "bn": "আবু হুরাইরা (রাঃ) বর্ণনা করেন, রাসুলুল্লাহ ﷺ বললেন: “তোমরা কি জানো গিবত কী?” তাঁরা বললেন: “আল্লাহ ও তাঁর রাসুলই ভালো জানেন।” তিনি বললেন: “তোমার ভাইয়ের এমন আলোচনা করা, যা সে অপছন্দ করে।” বলা হলো: “আমি যা বলছি, তা যদি সত্যিই আমার ভাইয়ের মধ্যে থাকে?” তিনি বললেন: “তুমি যা বলছ তা যদি তার মধ্যে থাকে, তবে তুমি তার গিবত করলে। আর যদি না থাকে, তবে তুমি তাকে অপবাদ দিলে।”"
+     },
+     "note": {
+      "en": "The ayah forbids backbiting through an image; the hadith gives the definition and closes the obvious loophole. Truth is no defence: if the fault is really there, it is backbiting; if not, it is slander.",
+      "bn": "আয়াত গিবত নিষেধ করেছে একটা ছবি দিয়ে। হাদিস দিচ্ছে সংজ্ঞা, আর বন্ধ করে দিচ্ছে চেনা ফাঁকটা। কথাটা সত্য হলেও রেহাই নেই: দোষ সত্যিই থাকলে গিবত, না থাকলে অপবাদ।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-household-and-turning-back",
+   "title": {
+    "en": "The Household and Turning Back",
+    "bn": "পরিবার আর আল্লাহর দিকে ফেরা"
+   },
+   "body": [
+    {
+     "en": "The call reaches into the home. A believer is told to shield not only himself but his family from the Fire, and two ayat later to turn to Allah in sincere repentance. Between those two commands stands an address to the disbelievers on the Day itself, telling them that excuses are over (66:7). The placement makes the point: the time for turning back is now. Surat at-Taghabun adds the other side of family life: love that can pull a believer away, and the forgiveness still asked of him.",
+     "bn": "এই ডাক ঘরের ভেতরেও পৌঁছায়। মুমিনকে বলা হচ্ছে শুধু নিজেকে নয়, পরিবারকেও আগুন থেকে বাঁচাতে। দুই আয়াত পরে বলা হচ্ছে আল্লাহর কাছে খাঁটি তওবা করতে। এ দুই হুকুমের মাঝখানে আছে কিয়ামতের দিনে কাফিরদের প্রতি এক ডাক: আজ আর কোনো অজুহাত নয় (৬৬:৭)। আয়াতগুলোর বিন্যাসই কথাটা বলে দেয়, ফেরার সময় এখনই। সূরা আত-তাগাবুন পারিবারিক জীবনের অন্য দিকটাও দেখায়: যে ভালোবাসা মুমিনকে টেনে সরিয়ে নিতে পারে, আর তবু তার কাছে যে ক্ষমা চাওয়া হচ্ছে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "66:6",
+     "note": {
+      "en": "Qū anfusakum wa ahlīkum: protect yourselves and your families. Ibn Kathir records Ibn ‘Abbas: act in obedience to Allah, avoid disobeying Him, and order your families to remember Him. From Qatadah: a man helps his family act on Allah’s commands and stops them when he sees disobedience. As-Sa‘di: a servant is not safe until he carries out Allah’s command in himself and in those under his care.",
+      "bn": "কু আনফুসাকুম ওয়া আহলিকুম: নিজেদের আর পরিবারকে বাঁচাও। ইবনে কাসির ইবনে আব্বাস (রাঃ)-এর ব্যাখ্যা এনেছেন: আল্লাহর আনুগত্যে আমল করো, নাফরমানি থেকে দূরে থাকো, আর পরিবারকে আল্লাহর জিকিরের আদেশ দাও। কাতাদা থেকে এনেছেন: মানুষ তার পরিবারকে আল্লাহর হুকুম মানতে সাহায্য করবে, আর নাফরমানি দেখলে থামাবে। আস-সা‘দির কথা: বান্দা ততক্ষণ নিরাপদ নয়, যতক্ষণ না সে নিজের ব্যাপারে আর নিজের দায়িত্বে থাকা মানুষের ব্যাপারে আল্লাহর হুকুম পালন করে।"
+     }
+    },
+    {
+     "ref": "64:14",
+     "note": {
+      "en": "Among spouses and children there may be an enemy to you. Ibn Kathir explains that they may keep a man busy from good deeds; Mujahid, he records, adds that they may lead him to cut ties or disobey. He records from Ibn ‘Abbas, in a report at-Tirmidhi graded hasan sahih, that some Muslims in Makkah were held back from emigrating by their families and later meant to punish them; the ayah’s second half answered: pardon, overlook and forgive.",
+      "bn": "স্ত্রী আর সন্তানদের মধ্যে কেউ কেউ তোমাদের শত্রু হতে পারে। ইবনে কাসির ব্যাখ্যা করেছেন, তারা মানুষকে নেক আমল থেকে ব্যস্ত করে রাখতে পারে। তিনি মুজাহিদের কথাও এনেছেন: তারা আত্মীয়তা ছিন্ন করতে বা রবের নাফরমানি করতে প্ররোচিত করতে পারে। ইবনে আব্বাস (রাঃ)-এর সূত্রে তিনি এনেছেন, তিরমিজি যাকে হাসান সহিহ বলেছেন: মক্কায় ইসলাম গ্রহণ করা কিছু মানুষ হিজরত করতে চাইলে স্ত্রী-সন্তানেরা বাধা দিয়েছিল, পরে তাঁরা তাদের শাস্তি দিতে চাইলেন। তখন আয়াতের দ্বিতীয় অংশ এল: মাফ করো, এড়িয়ে যাও, ক্ষমা করো।"
+     }
+    },
+    {
+     "ref": "66:8",
+     "note": {
+      "en": "Tawbah naṣūḥ: Ibn Kathir explains it as a true, firm repentance that wipes out the sins before it and mends the one who repents. As-Sa‘di adds that it covers all sins, is made for Allah alone, and is kept up in every state. Ibn Kathir also notes that ‘asā, “perhaps”, when Allah says it, means He will. Among the rewards named, after expiation and the Gardens, is light running ahead of the believers on the Day.",
+      "bn": "তাওবাতান নাসুহা: ইবনে কাসির বলেছেন, এমন খাঁটি ও দৃঢ় তওবা, যা আগের গুনাহ মুছে দেয় আর তওবাকারীর ঘাটতি পূরণ করে। আস-সা‘দি যোগ করেছেন, এ তওবা সব গুনাহকে ঘিরে নেয়, করা হয় শুধু আল্লাহর জন্য, আর সব অবস্থায় তাতে অটল থাকা হয়। ইবনে কাসির আরও লিখেছেন, আল্লাহ যখন “আসা”, অর্থাৎ “হয়তো” বলেন, তার মানে তিনি তা করবেনই। পুরস্কারের তালিকায় গুনাহ মোচন আর জান্নাতের পরে আছে সেই দিনের আলো, যা মুমিনদের সামনে ছুটে চলবে।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 7138",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-7138",
+     "text": {
+      "en": "‘Abdullah ibn ‘Umar reported that the Messenger of Allah ﷺ said: “Indeed, every one of you is a guardian and is responsible for his charge. The ruler over the people is a guardian and is responsible for his subjects; a man is the guardian of his household and is responsible for them; a woman is the guardian of her husband’s home and his children and is responsible for them; and a man’s slave is the guardian of his master’s property and is responsible for it. Indeed, every one of you is a guardian and is responsible for his charge.”",
+      "bn": "আবদুল্লাহ ইবনে উমর (রাঃ) বর্ণনা করেন, রাসুলুল্লাহ ﷺ বলেছেন: “শোনো, তোমাদের প্রত্যেকেই দায়িত্বশীল, আর প্রত্যেককেই তার দায়িত্ব সম্পর্কে জিজ্ঞেস করা হবে। মানুষের ওপর যে শাসক, সে দায়িত্বশীল, তাকে তার প্রজাদের সম্পর্কে জিজ্ঞেস করা হবে। পুরুষ তার পরিবারের দায়িত্বশীল, তাকে তাদের সম্পর্কে জিজ্ঞেস করা হবে। নারী তার স্বামীর ঘর আর সন্তানদের দায়িত্বশীল, তাকে তাদের সম্পর্কে জিজ্ঞেস করা হবে। কারও গোলাম তার মনিবের সম্পদের দায়িত্বশীল, তাকে সে সম্পর্কে জিজ্ঞেস করা হবে। শোনো, তোমাদের প্রত্যেকেই দায়িত্বশীল, আর প্রত্যেককেই তার দায়িত্ব সম্পর্কে জিজ্ঞেস করা হবে।”"
+     },
+     "note": {
+      "en": "The ayah says “your families”; the hadith says who answers for whom. Each person named is a guardian over something specific and will be asked about it.",
+      "bn": "আয়াত বলছে “তোমাদের পরিবার।” হাদিস বলছে কে কার জন্য জবাবদিহি করবে। এখানে যার কথাই এসেছে, সে নির্দিষ্ট কিছুর দায়িত্বে আছে, আর সে সম্পর্কে তাকে জিজ্ঞেস করা হবে।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "When you read “O you who believe” in the mushaf, pause and name the command or prohibition that follows before reading on, as Ibn Mas‘ud is reported to have advised.",
+   "bn": "মুসহাফে “হে যারা ঈমান এনেছ” পড়লে একটু থামুন। পরে কোন আদেশ বা নিষেধ আসছে, তা নিজের কাছে স্পষ্ট করে তারপর এগোন, যেমনটা ইবনে মাসউদ (রাঃ) উপদেশ দিয়েছিলেন বলে বর্ণিত আছে।"
+  },
+  {
+   "en": "Before you repeat or forward a report about a person, ask where it came from and whether it has been checked (49:6).",
+   "bn": "কারও সম্পর্কে কোনো খবর আরেকজনকে বলার বা পাঠানোর আগে জিজ্ঞেস করুন, খবরটা কোথা থেকে এল আর তা যাচাই হয়েছে কি না (৪৯:৬)।"
+  },
+  {
+   "en": "Write down a loan or a deferred payment with its term, as 2:282 directs.",
+   "bn": "ঋণ বা বাকির লেনদেন মেয়াদসহ লিখে রাখুন, যেমনটা ২:২৮২ বলেছে।"
+  },
+  {
+   "en": "Give in charity what you would gladly accept yourself, and never mention the gift to the one who received it (2:264, 2:267).",
+   "bn": "দান করুন এমন জিনিস, যা আপনি নিজে খুশি মনে নিতেন। আর যাকে দিলেন, তাকে কখনো সেই দানের কথা মনে করিয়ে দেবেন না (২:২৬৪, ২:২৬৭)।"
+  },
+  {
+   "en": "Each night, take a minute to ask what you sent ahead today for tomorrow, and fix one slip with repentance (59:18).",
+   "bn": "প্রতি রাতে এক মিনিট নিজেকে জিজ্ঞেস করুন, আজ আগামীকালের জন্য কী পাঠালাম। একটা ভুল পেলে তওবা করে শুধরে নিন (৫৯:১৮)।"
+  },
+  {
+   "en": "Teach your household one thing about prayer or one of Allah’s commands this week, and help them act on it (66:6).",
+   "bn": "এই সপ্তাহে পরিবারের মানুষদের নামাজ বা আল্লাহর কোনো একটি হুকুম নিয়ে একটা কথা শেখান, আর তা মানতে সাহায্য করুন (৬৬:৬)।"
+  }
+ ],
  "refs": [
   "2:104",
   "2:153",
@@ -100,6 +478,7 @@
   "66:6",
   "66:8"
  ],
+ "refsDropped": [],
  "videos": [
   {
    "title": "Oh you who believe",
@@ -122,8 +501,44 @@
    "url": "https://bn.mtnews24.com/islam/342231/%E2%80%98%E0%A6%B9%E0%A7%87-%E0%A6%88%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A6%B0%E0%A6%BE--%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A6%A7%E0%A7%88%E0%A6%B0%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%8B-",
    "site": "bn.mtnews24.com",
    "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "How can we feel, when reading the Quran, that Allah is addressing us? (Bengali)",
+    "bn": "কুরআন তেলাওয়াতের সময় কীভাবে অনুভব করব যে আল্লাহ আমাদের সম্বোধন করছেন?"
+   },
+   "url": "https://islamqa.info/bn/answers/241709",
+   "site": "islamqa.info",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "One of the characteristics of Makkan verses is that they are addressed to all of mankind",
+    "bn": "মক্কি আয়াতের একটি বৈশিষ্ট্য: সেগুলো গোটা মানবজাতিকে সম্বোধন করে (ইংরেজি)"
+   },
+   "url": "https://islamqa.info/en/answers/131433",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "Hadith: Do you know what backbiting is? (Bengali)",
+    "bn": "হাদিস: তোমরা কি জানো, গিবত কী?"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/5326",
+   "site": "hadeethenc.com",
+   "lang": "bn"
   }
  ],
- "sources": [],
- "related": []
+ "sources": [
+  "Tafsir Ibn Kathir",
+  "Tafsir as-Sa'di",
+  "Asbab an-Nuzul of al-Wahidi"
+ ],
+ "related": [
+  "th-o-mankind",
+  "th-patience",
+  "th-repentance",
+  "allah-remembrance"
+ ]
 }

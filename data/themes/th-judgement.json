@@ -1,38 +1,443 @@
 {
  "id": "th-judgement",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "The Day of Judgement",
   "bn": "বিচারের দিন"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "The reckoning as the Quran describes it: the book, the scales, the witnesses, and a Judge who wrongs no one.",
+  "bn": "কুরআনের বর্ণনায় সেই হিসাবের দিন: আমলনামা, মিযান, সাক্ষী, আর এমন বিচারক যিনি কারও ওপর জুলুম করেন না।"
+ },
+ "intro": [
+  {
+   "en": "The first surah a Muslim learns calls Allah “Master of the Day of Recompense” before asking Him for anything, and it is recited in every rak‘ah of every prayer. The worshipper keeps affirming a Day on which each deed returns to its doer. This page reads what the Quran says about the reckoning itself: who presides over it, how people stand before Him, the book each is handed, the scales, the witnesses, and why no relative or ransom changes the outcome, and no intercessor except by His leave.",
+   "bn": "মুসলমান যে সুরাটা সবার আগে শেখে, সেখানে আল্লাহর কাছে কিছু চাওয়ার আগেই তাঁকে বলা হয় “প্রতিফল দিবসের মালিক”। আর এই সুরা পড়া হয় প্রতিটি নামাজের প্রতিটি রাকাতে। মানে, নামাজি বারবার স্বীকার করে চলেছে এমন এক দিনের কথা, যেদিন প্রত্যেকের আমল তার নিজের কাছেই ফিরে আসবে। এই পাতায় সেই হিসাবটা নিয়েই কুরআনের কথা পড়া হবে। কে বিচার করবেন, মানুষ কীভাবে তাঁর সামনে দাঁড়াবে, কার হাতে কোন আমলনামা যাবে, মিযান, কারা সাক্ষী দেবে, আর কেন আত্মীয় বা মুক্তিপণ ফল বদলাতে পারবে না, আর সুপারিশও চলবে কেবল তাঁর অনুমতিতে।"
+  },
+  {
+   "en": "Two threads run through every ayah below. One is exactness: a mustard seed's weight is brought forth, an atom's weight is seen, and the book “leaves nothing small or great.” The other is justice: “No injustice today” (40:17), “your Lord does injustice to no one” (18:49). The Quran describes the Day this precisely so it can be prepared for now, while wrongs can still be put right. The Hour's upheaval and resurrection have their own page, as do Paradise and Hell.",
+   "bn": "নিচের প্রতিটি আয়াতে দুটো কথা বারবার ফিরে আসে। এক, নিখুঁত হিসাব। সরিষার দানা পরিমাণ আমলও হাজির করা হবে, অণু পরিমাণ আমলও মানুষ দেখবে, আর আমলনামা “ছোট বড় কিছুই” বাদ দেবে না। দুই, ইনসাফ। “আজ কোনো জুলুম নেই” (৪০:১৭), “তোমার রব কারও ওপর জুলুম করেন না” (১৮:৪৯)। দিনটার বর্ণনা কুরআন এত খুঁটিয়ে দিয়েছে যাতে প্রস্তুতিটা এখনই নেওয়া যায়, যখনও অন্যায়ের প্রতিকার করা যায়। কিয়ামতের প্রলয় আর পুনরুত্থান নিয়ে আলাদা পাতা আছে, জান্নাত ও জাহান্নাম নিয়েও।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "master-of-the-day",
+   "title": {
+    "en": "Master of the Day of Recompense",
+    "bn": "প্রতিফল দিবসের মালিক"
+   },
+   "body": [
+    {
+     "en": "Allah owns every day, so why does al-Fatihah tie His ownership to this one? The commentators answer that on this Day His sovereignty becomes plain to everyone, because every other claim to own, decide or protect has ended. Rulers and subjects stand as equals. Nobody speaks except by His permission. The ayat in this section build the frame for everything that follows: a single Judge, nothing hidden from Him, every soul receiving what it earned, and an explicit promise that no injustice will be done.",
+     "bn": "সব দিনই তো আল্লাহর, তাহলে সুরা ফাতিহা তাঁর মালিকানাকে বিশেষ করে এই দিনের সঙ্গে জুড়ল কেন? মুফাসসিরদের জবাব: সেদিন তাঁর রাজত্ব সবার চোখে পুরোপুরি স্পষ্ট হয়ে যাবে, কারণ মালিকানা, হুকুম বা আশ্রয় দেওয়ার আর কোনো দাবি তখন টিকে থাকবে না। রাজা আর প্রজা দাঁড়াবে এক কাতারে। তাঁর অনুমতি ছাড়া কেউ মুখ খুলবে না। এই অংশের আয়াতগুলো পরের সব কথার কাঠামো তৈরি করে দেয়। বিচারক একজনই, তাঁর কাছে কিছুই লুকানো নেই, প্রত্যেকে নিজের কামাই পুরোপুরি পাবে, আর জুলুম হবে না, এ কথা স্পষ্ট করে বলে দেওয়া আছে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "1:4",
+     "note": {
+      "en": "As-Sa‘di explains why this Day is singled out: on it Allah's kingship, justice and wisdom become fully manifest and every ownership held by creatures ends, so that kings and subjects stand alike awaiting His recompense. Ibn Kathir records Ibn ‘Abbas: Yawm ad-Din is the Day Allah reckons the creation for their deeds.",
+      "bn": "এই দিনটাকে আলাদা করে কেন বলা হলো, আস-সাদি তা ব্যাখ্যা করেছেন। সেদিন আল্লাহর রাজত্ব, ইনসাফ আর হিকমত পুরোপুরি প্রকাশ পাবে, সৃষ্টির সব মালিকানা ফুরিয়ে যাবে। রাজা আর প্রজা তখন সমান, সবাই তাঁর প্রতিদানের অপেক্ষায়। ইবনে কাসির ইবনে আব্বাসের (রাঃ) কথা উল্লেখ করেছেন: ইয়াওমুদ্দিন সেই দিন, যেদিন আল্লাহ সৃষ্টির আমলের হিসাব নেবেন।"
+     }
+    },
+    {
+     "ref": "82:17-19",
+     "note": {
+      "en": "The question is asked twice before it is answered, which Ibn Kathir reads as magnifying the Day. The answer describes helplessness, not terror: no soul will possess anything for another. As-Sa‘di adds: even a relative or close friend, since each is occupied with himself. The command is Allah's alone, and He takes the wronged person's right from the wrongdoer.",
+      "bn": "প্রশ্নটা জবাবের আগে দুবার এসেছে। ইবনে কাসিরের মতে, এভাবে আল্লাহ দিনটার গুরুত্ব বোঝাচ্ছেন। জবাবে ভয়ের দৃশ্য নেই, আছে অসহায়ত্ব: কেউ কারও জন্য কিছুই করার ক্ষমতা রাখবে না। আস-সাদি যোগ করেন, নিকটাত্মীয় বা প্রাণের বন্ধু হলেও না, কারণ প্রত্যেকে নিজেকে নিয়ে ব্যস্ত। হুকুম শুধু আল্লাহর, আর তিনিই মজলুমের হক জালিমের কাছ থেকে আদায় করে দেবেন।"
+     }
+    },
+    {
+     "ref": "40:16",
+     "note": {
+      "en": "As-Sa‘di pictures everyone on one level plain, where the caller's voice reaches all and every eye takes them in. Nothing about them is hidden: not their persons, their deeds, or what those deeds deserve. Then: “To whom belongs sovereignty this Day? To Allah, the One, the Prevailing,” with every partnership in dominion ended.",
+      "bn": "আস-সাদি ছবিটা এভাবে আঁকেন: সবাই এক সমতল প্রান্তরে, আহ্বানকারীর ডাক সবার কানে পৌঁছায়, দৃষ্টি সবাইকে ছুঁয়ে যায়। তাদের কিছুই গোপন নেই, না সত্তা, না আমল, না সেই আমলের প্রতিদান। তারপর প্রশ্ন: “আজ রাজত্ব কার?” উত্তর: “এক, পরাক্রমশালী আল্লাহর।” রাজত্বে কারও অংশীদারি সেদিন আর থাকবে না।"
+     }
+    },
+    {
+     "ref": "40:17",
+     "note": {
+      "en": "Three short clauses: every soul is repaid for what it earned, there is no injustice today, and Allah is swift in account. As-Sa‘di defines the injustice ruled out: adding to anyone's bad deeds or taking from their good ones. Ibn Kathir explains the swiftness: He brings the whole of creation to account as easily as one person, citing 31:28.",
+      "bn": "তিনটি ছোট বাক্য। প্রত্যেকে নিজের কামাইয়ের প্রতিদান পাবে, আজ কোনো জুলুম নেই, আর আল্লাহ দ্রুত হিসাব গ্রহণকারী। কোন জুলুম নাকচ করা হলো, আস-সাদি তা বলে দিয়েছেন: কারও গুনাহ বাড়িয়ে দেওয়া, কিংবা নেকি কমিয়ে দেওয়া। দ্রুততার ব্যাখ্যায় ইবনে কাসির ৩১:২৮ উল্লেখ করে বলেন, গোটা সৃষ্টির হিসাব তিনি এমনভাবে নেবেন, যেন একজন মানুষের হিসাব নিচ্ছেন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "gathered-and-standing",
+   "title": {
+    "en": "Gathered, None Left Behind",
+    "bn": "সবাই জড়ো, কেউ বাদ নেই"
+   },
+   "body": [
+    {
+     "en": "Before anything is weighed, everyone is brought. The Quran stresses two things about this gathering. It is complete: “We will not leave behind from them anyone.” And it is individual: each person comes “alone,” as he was first created, without the wealth, family and followers that stood around him in this life. The scene is a standing before “the Lord of the worlds,” and the ayat use it to question how people behave now, cheating a little on a scale, assuming no appointment awaits them.",
+     "bn": "ওজন করার আগে সবাইকে হাজির করা হবে। এই সমাবেশ নিয়ে কুরআন দুটো কথার ওপর জোর দেয়। প্রথমত, কেউ বাদ যাবে না: “তাদের কাউকেই আমি ছেড়ে দেব না।” দ্বিতীয়ত, প্রত্যেকে আসবে “একা”, যেভাবে প্রথমবার তাকে বানানো হয়েছিল। দুনিয়ায় যে সম্পদ, পরিবার আর দলবল তাকে ঘিরে থাকত, তার কিছুই সঙ্গে থাকবে না। দৃশ্যটা “জগতসমূহের রবের” সামনে দাঁড়ানোর। আর আয়াতগুলো এই দৃশ্য দেখিয়ে আজকের আচরণ নিয়ে প্রশ্ন তোলে: মাপে একটু কম দেওয়া, কিংবা এই ভেবে চলা যে কোনো সাক্ষাতের দিন ঠিক করা নেই।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "18:47-48",
+     "note": {
+      "en": "The earth laid bare, the gathering total, people presented “in rows,” then: “You have come to Us just as We created you the first time.” As-Sa‘di: without wealth, family or clan, carrying only their deeds. Ibn Kathir calls the closing words a rebuke, before all creation, of those who claimed no appointment would ever be set.",
+      "bn": "পৃথিবী খোলা প্রান্তর, সমাবেশ পূর্ণ, মানুষকে হাজির করা হচ্ছে “সারি বেঁধে”। তারপর: “তোমরা আমার কাছে এসেছ ঠিক যেভাবে প্রথমবার তোমাদের সৃষ্টি করেছিলাম।” আস-সাদির ব্যাখ্যা: সম্পদ নেই, পরিবার নেই, গোত্র নেই, সঙ্গে শুধু নিজের আমল। শেষের কথাগুলোকে ইবনে কাসির বলেছেন গোটা সৃষ্টির সামনে তিরস্কার, তাদের প্রতি যারা দাবি করত সাক্ষাতের কোনো দিন কখনো ঠিক হবে না।"
+     }
+    },
+    {
+     "ref": "83:4-6",
+     "note": {
+      "en": "Addressed to those who give short measure; as-Sa‘di: what emboldened them was their lack of belief in the Last Day; had they believed in it and known they would stand before Allah, reckoned for little and much, they would have stopped. Ibn Kathir cites the hadith, recorded he says by al-Bukhari and Muslim, of people standing that Day until some sink in sweat up to the middle of their ears.",
+      "bn": "আয়াতগুলোর লক্ষ্য তারা, যারা মাপে কম দেয়। আস-সাদি বলেন, তাদের এই সাহসের উৎস আখিরাতের প্রতি ঈমান না থাকা। যদি ঈমান আনত আর জানত আল্লাহর সামনে দাঁড়িয়ে কম-বেশি সবকিছুর হিসাব দিতে হবে, তারা থেমে যেত। ইবনে কাসির এখানে একটা হাদিস এনেছেন, যা তাঁর ভাষ্যমতে বুখারি ও মুসলিম বর্ণনা করেছেন: সেদিন মানুষ দাঁড়িয়ে থাকবে, কারও ঘাম কানের মাঝ বরাবর উঠে যাবে।"
+     }
+    },
+    {
+     "ref": "19:95",
+     "note": {
+      "en": "Fardan, “alone,” closes a passage stating that everyone in the heavens and earth comes to the Most Merciful as a servant, counted and numbered. As-Sa‘di: no children, no wealth, no helpers, only his deed, for which Allah repays him in full. Ibn Kathir: no one to save him except Allah, who does not wrong anyone by an atom's weight.",
+      "bn": "ফারদান, অর্থাৎ “একা”। শব্দটি এসেছে এমন এক আয়াতগুচ্ছের শেষে, যেখানে বলা হয়েছে আসমান-জমিনের সবাই দয়াময়ের কাছে বান্দা হয়েই আসবে, সবাই গোনা আছে। আস-সাদি বলেন: সন্তান নেই, সম্পদ নেই, সাহায্যকারী নেই, সঙ্গে শুধু আমল, আর আল্লাহ তার পুরো প্রতিদান দেবেন। ইবনে কাসির বলেন: আল্লাহ ছাড়া তাকে বাঁচানোর কেউ থাকবে না, আর তিনি অণু পরিমাণও জুলুম করেন না।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 6539",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-6539",
+     "text": {
+      "en": "‘Adi ibn Hatim narrated that the Prophet ﷺ said: “There is none among you but Allah will speak to him on the Day of Resurrection, with no interpreter between Allah and him. Then he will look and see nothing ahead of him; then he will look in front of him and the Fire will meet him. So whoever among you is able to shield himself from the Fire, even with half a date, let him do so.”",
+      "bn": "আদি ইবনে হাতিম (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: “তোমাদের প্রত্যেকের সঙ্গেই কিয়ামতের দিন আল্লাহ কথা বলবেন, তাঁর ও তার মাঝে কোনো দোভাষী থাকবে না। তারপর সে তাকাবে, সামনে কিছুই দেখবে না। আবার সামনে তাকাবে, আর আগুন তার মুখোমুখি হবে। কাজেই তোমাদের মধ্যে যে আগুন থেকে বাঁচতে পারে, অর্ধেক খেজুর দিয়ে হলেও, সে যেন তা করে।”"
+     },
+     "note": {
+      "en": "The gathering is vast, yet each person is spoken to directly, with no intermediary. And the remedy named is deliberately small, half a date; the scales section below explains why.",
+      "bn": "সমাবেশ বিশাল, তবু প্রত্যেকের সঙ্গে কথা হবে সরাসরি, মাঝে কেউ নেই। আর বাঁচার যে উপায় বলা হলো, তা ইচ্ছে করেই খুব ছোট: অর্ধেক খেজুর। কেন, তা নিচে মিযানের অংশে স্পষ্ট হবে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "book-of-deeds",
+   "title": {
+    "en": "The Book That Leaves Nothing",
+    "bn": "যে আমলনামা কিছুই ছাড়ে না"
+   },
+   "body": [
+    {
+     "en": "Every person is handed a written record, and the Quran describes both how complete it is and how it is received. It is found “spread open,” it has counted everything small and great, and its owner is told he himself is enough as accountant. Then the hand that takes it sorts people: the right hand for one who believed he would meet his account, the left, or behind the back, for one who wishes he had never been given it.",
+     "bn": "প্রত্যেকের হাতে একটা লিখিত দলিল দেওয়া হবে। কুরআন এর দুই দিক দেখিয়েছে: দলিলটা কত পূর্ণ, আর কে কীভাবে তা হাতে নেয়। মানুষ সেটা পাবে “খোলা অবস্থায়”। ছোট বড় সবকিছু তাতে গোনা আছে। আর তাকে বলা হবে, নিজের হিসাব নেওয়ার জন্য আজ তুমি নিজেই যথেষ্ট। এরপর ভাগ হয়ে যায়, কোন হাতে আমলনামা উঠল তা দিয়ে। ডান হাত তার, যে বিশ্বাস করত হিসাবের মুখোমুখি হতে হবে। বাম হাত, কিংবা পিঠের পেছন দিক, তার, যে আফসোস করে বলবে, এটা যদি আমাকে দেওয়াই না হতো।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "17:13-14",
+     "note": {
+      "en": "Ta’ir, literally “what flies,” is explained by Ibn Kathir, from Ibn ‘Abbas and Mujahid, as a person's deeds, fastened to the neck where there is no escape. As-Sa‘di draws the justice from it: no one is reckoned for another's deed. Ibn Kathir closes with al-Hasan al-Basri: the One who makes you accountable for your own deeds has been perfectly just.",
+      "bn": "তায়ির শব্দের আক্ষরিক অর্থ “যা উড়ে যায়”। ইবনে কাসির, ইবনে আব্বাস (রাঃ) ও মুজাহিদের সূত্রে, এর অর্থ করেছেন মানুষের আমল। তা বেঁধে দেওয়া হয়েছে গলায়, যেখান থেকে পালানোর পথ নেই। আস-সাদি এখান থেকে ইনসাফের কথাটা বের করেন: অন্যের আমলের জন্য কারও হিসাব হবে না। ইবনে কাসির শেষ করেছেন হাসান বসরির কথা দিয়ে: যিনি তোমাকে তোমার নিজের আমলের জন্যই দায়ী করলেন, তিনি পুরো ইনসাফ করেছেন।"
+     }
+    },
+    {
+     "ref": "18:49",
+     "note": {
+      "en": "The criminals do not cry “this is false” but “what is this book that leaves nothing small or great?” As-Sa‘di: the record the noble angels wrote, with no deed forgotten, secret or open, by night or day. They find it all present, with no room to deny. And the ayah ends on the Judge: “your Lord does injustice to no one.”",
+      "bn": "অপরাধীরা বলবে না এসব মিথ্যা। বলবে: “এ কেমন কিতাব, ছোট বড় কিছুই বাদ দেয়নি?” আস-সাদির ব্যাখ্যা: সম্মানিত ফেরেশতাদের লেখা দলিল, গোপন বা প্রকাশ্য, রাতের বা দিনের, কোনো আমলই তাতে বাদ পড়েনি। সবকিছু তারা সামনে হাজির পাবে, অস্বীকারের পথ নেই। আর আয়াতটি শেষ হয়েছে বিচারককে দিয়ে: “তোমার রব কারও ওপর জুলুম করেন না।”"
+     }
+    },
+    {
+     "ref": "69:19-20",
+     "note": {
+      "en": "“Here, read my record!” As-Sa‘di describes a joy that wants all creation to see how Allah has honoured him. The reason given is striking: “I was certain that I would meet my account.” Ibn Kathir reads zanantu here as certainty, as in 2:46. The right-hand book belongs to one who lived expecting it.",
+      "bn": "“এই নাও, আমার আমলনামা পড়ে দেখো!” আস-সাদি এমন আনন্দের কথা বলেছেন, যেখানে মানুষ চায় আল্লাহ তাকে যে সম্মান দিয়েছেন তা গোটা সৃষ্টি দেখুক। আর সে কারণ যা বলছে, তা লক্ষ করার মতো: “আমি নিশ্চিত জানতাম, আমাকে আমার হিসাবের মুখোমুখি হতে হবে।” ইবনে কাসির ২:৪৬ এর সঙ্গে মিলিয়ে বলেন, এখানে জানানতু মানে দৃঢ় বিশ্বাস। ডান হাতের আমলনামা তার, যে এই দিনের অপেক্ষা নিয়েই বেঁচেছিল।"
+     }
+    },
+    {
+     "ref": "84:7-12",
+     "note": {
+      "en": "The right hand brings “an easy account” and a happy return. The other book comes “behind his back,” where 69:25 says “in his left hand”; Ibn Kathir joins them: the left hand, bent behind the back. As-Sa‘di, on 69:25, calls it a mark of disgrace and exposure, and 84:11 has its owner crying out for destruction.",
+      "bn": "ডান হাতে আমলনামা মানে “সহজ হিসাব” আর হাসিমুখে ফেরা। অন্যটি আসবে “পিঠের পেছন দিক থেকে”, অথচ ৬৯:২৫ বলছে “বাম হাতে”। ইবনে কাসির দুটো মিলিয়েছেন: বাম হাতেই, তবে হাতটা পিঠের পেছনে মোচড়ানো। ৬৯:২৫ এর ব্যাখ্যায় আস-সাদি একে বলেছেন লাঞ্ছনা আর অপমানের চিহ্ন। আর ৮৪:১১ বলছে, তার মালিক তখন ধ্বংস ডেকে চিৎকার করবে।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 6537",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-6537",
+     "text": {
+      "en": "‘A’ishah narrated that the Messenger of Allah ﷺ said: “No one is called to account on the Day of Resurrection except that he is ruined.” I said: “O Messenger of Allah, has Allah not said: ‘Then as for he who is given his record in his right hand, he will be judged with an easy account’?” The Messenger of Allah ﷺ said: “That is only the presentation. No one whose account is scrutinised on the Day of Resurrection but will be punished.”",
+      "bn": "আয়িশা (রাঃ) বর্ণনা করেন, রাসুলুল্লাহ ﷺ বলেছেন: “কিয়ামতের দিন যার হিসাব নেওয়া হবে, সে-ই ধ্বংস হবে।” আমি বললাম: “হে আল্লাহর রাসুল, আল্লাহ কি বলেননি, ‘যার আমলনামা ডান হাতে দেওয়া হবে, তার হিসাব নেওয়া হবে সহজভাবে’?” রাসুলুল্লাহ ﷺ বললেন: “ওটা তো কেবল আমল সামনে পেশ করা। কিয়ামতের দিন যার হিসাব খুঁটিয়ে দেখা হবে, তাকে শাস্তি পেতেই হবে।”"
+     },
+     "note": {
+      "en": "The “easy account” of 84:8 is a presentation of deeds, not an audit of each. As-Sa‘di: Allah has the servant acknowledge his sins, then tells him He concealed them in the world and conceals them today.",
+      "bn": "৮৪:৮ এর “সহজ হিসাব” মানে আমল সামনে পেশ করা, প্রতিটি খুঁটিয়ে যাচাই নয়। আস-সাদি বলেন: আল্লাহ বান্দাকে দিয়ে গুনাহ স্বীকার করাবেন, তারপর বলবেন, দুনিয়ায় এগুলো ঢেকে রেখেছিলাম, আজও ঢেকে দিলাম।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-scales",
+   "title": {
+    "en": "Scales Down to an Atom",
+    "bn": "অণু পর্যন্ত মাপা মিযান"
+   },
+   "body": [
+    {
+     "en": "The Quran speaks of scales set up for the Day, a weighing that is “the truth,” and a balance either heavy or light. Their exact nature is a tafsir matter. Ibn Kathir notes that most scholars hold it is one Balance, the plural reflecting the multitude of deeds, and reports three views on what is placed in it: the deeds given weight, the scrolls recording them, or the doers. He suggests all three may occur, and adds: Allah knows best.",
+     "bn": "কুরআন বলছে, সেদিন দাঁড়িপাল্লা বসানো হবে, সেদিনের ওজন হবে “যথার্থ”, আর পাল্লা হয় ভারী হবে, নয় হালকা। এই মিযানের ধরন ঠিক কেমন, তা নিয়ে মুফাসসিররা সাবধানে আলোচনা করেছেন। ইবনে কাসির জানান, অধিকাংশ আলেমের মতে মিযান একটাই, বহুবচন এসেছে ওজন হওয়া আমলের বিপুল সংখ্যার কারণে। পাল্লায় কী রাখা হবে, সে বিষয়ে তিনি তিনটি মত উল্লেখ করেছেন: আমলকেই ওজন দেওয়া হবে, কিংবা আমলের দলিলগুলো, কিংবা আমলকারী নিজে। তাঁর প্রস্তাব, তিনটিই ঘটতে পারে। শেষে বলেছেন: আল্লাহই ভালো জানেন।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "21:47",
+     "note": {
+      "en": "The scales are “of justice,” and the result comes first: no soul is wronged at all. As-Sa‘di: whether Muslim or not, and the wrong would be taking from good deeds or adding to bad. Even a mustard seed, among the smallest things, is brought. “Sufficient are We as accountant”: He knows every deed and what it deserves.",
+      "bn": "মিযানগুলো “ইনসাফের”, আর ফলটা আগেই বলা হলো: কারও প্রতি এতটুকুও জুলুম হবে না। আস-সাদি বলেন, মানুষটি মুসলিম হোক বা না হোক। আর জুলুম মানে নেকি কমানো বা গুনাহ বাড়ানো। সরিষার দানা, সবচেয়ে ছোট জিনিসগুলোর একটি, তাও হাজির করা হবে। “হিসাব নেওয়ার জন্য আমিই যথেষ্ট”: প্রতিটি আমল আর তার প্রাপ্য তিনি জানেন।"
+     }
+    },
+    {
+     "ref": "7:8-9",
+     "note": {
+      "en": "“The weighing that Day is the truth”: as-Sa‘di reads justice without wrong in any respect, and heavy scales as good deeds outweighing bad; Ibn Kathir explains 101:6-9 the same way. Note what lightens the scale in 7:9: “the injustice they were doing toward Our verses.” The loss is called losing one's own self.",
+      "bn": "“সেদিনের ওজন যথার্থ”: আস-সাদির ব্যাখ্যায় এমন ইনসাফ, যাতে কোনো দিক থেকে জুলুম নেই। আর পাল্লা ভারী মানে নেকি গুনাহকে ছাপিয়ে যাওয়া। ১০১:৬-৯ এর ব্যাখ্যায় ইবনে কাসিরও একই কথা বলেছেন। ৭:৯-এ পাল্লা হালকা হওয়ার কারণটা লক্ষ করুন: “আমার আয়াতের প্রতি তারা যে জুলুম করত”। ক্ষতিটাকে বলা হয়েছে নিজেকেই হারানো।"
+     }
+    },
+    {
+     "ref": "99:7-8",
+     "note": {
+      "en": "Mithqal dharrah: an atom's or a speck's weight. As-Sa‘di reasons that if the smallest thing is seen and repaid, everything above it more so; the ayah is the strongest urging to good, however little, and warning against evil, however slight. Ibn Kathir cites here the Prophet's ﷺ words in al-Bukhari: guard against the Fire even with half a date.",
+      "bn": "মিসকালা যাররাহ: অণু বা ধূলিকণা পরিমাণ। আস-সাদির যুক্তি, সবচেয়ে ছোট জিনিসটাও যদি দেখা যায় আর তার প্রতিদান মেলে, তাহলে এর চেয়ে বড় সবকিছু তো আরও বেশি। তাই আয়াতটি অল্প হলেও ভালো কাজের সবচেয়ে বড় উৎসাহ, তুচ্ছ হলেও মন্দ কাজ থেকে সবচেয়ে বড় সতর্কবাণী। ইবনে কাসির এখানে বুখারির বর্ণনায় নবী ﷺ এর কথা এনেছেন: অর্ধেক খেজুর দিয়ে হলেও আগুন থেকে বাঁচো।"
+     }
+    },
+    {
+     "ref": "4:40",
+     "note": {
+      "en": "The same unit, an atom's weight, now applied to Allah: He wrongs no one by even that much. But the scale is not symmetrical. A good deed is multiplied, which as-Sa‘di says may be tenfold or more according to its sincerity and benefit, and “from Himself” He adds a great reward beyond the deed itself.",
+      "bn": "একই মাপ, অণু পরিমাণ, এবার আল্লাহর ক্ষেত্রে: এতটুকুও জুলুম তিনি করেন না। তবে পাল্লা দুই দিকে সমান নয়। নেক কাজকে তিনি বহুগুণ করেন। আস-সাদি বলেন, তা দশগুণ বা তারও বেশি হতে পারে, আমলের ইখলাস আর উপকার অনুযায়ী। আর “নিজের পক্ষ থেকে” তিনি আমলের প্রাপ্যের ওপরে আরও বিরাট প্রতিদান দেন।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 2581",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-2581",
+     "text": {
+      "en": "Abu Hurayrah reported that the Messenger of Allah ﷺ said: “Do you know who the bankrupt is?” They said: “The bankrupt among us is one who has neither dirham nor goods.” He said: “The bankrupt of my Ummah is one who comes on the Day of Resurrection with prayer, fasting and zakah, but comes having insulted this one, slandered that one, consumed the wealth of this one, shed the blood of that one and beaten this one. So this one is given from his good deeds and that one from his good deeds. If his good deeds run out before what he owes is settled, their sins are taken and thrown upon him, then he is thrown into the Fire.”",
+      "bn": "আবু হুরায়রা (রাঃ) বর্ণনা করেন, রাসুলুল্লাহ ﷺ বললেন: “তোমরা কি জানো, দেউলিয়া কে?” তাঁরা বললেন: “আমাদের মধ্যে দেউলিয়া সে, যার কাছে টাকাপয়সা নেই, জিনিসপত্রও নেই।” তিনি বললেন: “আমার উম্মতের দেউলিয়া সে, যে কিয়ামতের দিন নামাজ, রোজা আর জাকাত নিয়ে আসবে। কিন্তু সে এসেছে এমন অবস্থায় যে একে গালি দিয়েছে, ওকে অপবাদ দিয়েছে, এর সম্পদ খেয়েছে, ওর রক্ত ঝরিয়েছে, একে মেরেছে। তখন এ পাবে তার নেকি থেকে, ও পাবে তার নেকি থেকে। পাওনা মেটানোর আগেই যদি তার নেকি ফুরিয়ে যায়, তাহলে ওদের গুনাহ নিয়ে তার ওপর চাপানো হবে, তারপর তাকে আগুনে ফেলা হবে।”"
+     },
+     "note": {
+      "en": "This is 21:47 between people. Prayer and fasting are weighed, and so are others' rights, settled in good deeds rather than money. The safest place to settle a wrong is here, with an apology or a repayment.",
+      "bn": "মানুষে মানুষে ২১:৪৭ কীভাবে কাজ করে, হাদিসটি তা দেখায়। নামাজ-রোজা ওজন হবে, অন্যের হকও। পাওনা মেটানো হবে নেকি দিয়ে, টাকা দিয়ে নয়। অন্যায়ের মীমাংসার সবচেয়ে নিরাপদ জায়গা এই দুনিয়া, ক্ষমা চেয়ে বা পাওনা ফিরিয়ে দিয়ে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-witnesses",
+   "title": {
+    "en": "Witnesses From One's Own Self",
+    "bn": "নিজের শরীরই যখন সাক্ষী"
+   },
+   "body": [
+    {
+     "en": "A court needs witnesses, and the Quran names them. The limbs are the closest: hands, feet, tongue, hearing, eyes and skin. Then the earth, which reports what was done on its surface. Then the prophets, each brought as witness over his people, with the Prophet ﷺ over his. As-Sa‘di remarks that it is perfect justice for Allah to make a person's witnesses come from his own self. The mouth that would deny is sealed, and the parts that did the deed speak.",
+     "bn": "বিচারে সাক্ষী লাগে, আর কুরআন সাক্ষীদের নাম বলে দিয়েছে। সবচেয়ে কাছের সাক্ষী নিজের অঙ্গপ্রত্যঙ্গ: হাত, পা, জিহ্বা, কান, চোখ, চামড়া। তারপর পৃথিবী, যার বুকে যা ঘটেছে সে তা বলে দেবে। তারপর নবীরা, প্রত্যেকে নিজের উম্মতের সাক্ষী, আর নবী ﷺ তাঁর উম্মতের। আস-সাদির মন্তব্য: মানুষের সাক্ষী তার নিজের ভেতর থেকেই দাঁড় করানো, এ হলো আল্লাহর পূর্ণ ইনসাফ। যে মুখ অস্বীকার করতে চাইত, তা বন্ধ করে দেওয়া হবে। কথা বলবে সেই অঙ্গগুলো, যারা কাজটা করেছিল।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "36:65",
+     "note": {
+      "en": "“That Day We will seal over their mouths.” Ibn Kathir describes this as the state of disbelievers and hypocrites when they deny their sins and swear they never committed them. As-Sa‘di: they are made unable to deny, and the limbs speak, made to speak by the One who makes all things speak. Hands “speak to Us,” feet “testify.”",
+      "bn": "“সেদিন আমি তাদের মুখে মোহর মেরে দেব।” ইবনে কাসিরের মতে, এ হলো কাফির ও মুনাফিকদের অবস্থা, যখন তারা নিজেদের গুনাহ অস্বীকার করবে আর কসম খেয়ে বলবে, এসব করেনি। আস-সাদি বলেন, অস্বীকারের ক্ষমতা তাদের থেকে কেড়ে নেওয়া হবে, আর অঙ্গপ্রত্যঙ্গ কথা বলবে। তাদের কথা বলাবেন তিনি, যিনি সবকিছুকে কথা বলান। হাত “আমার সঙ্গে কথা বলবে”, পা “সাক্ষ্য দেবে”।"
+     }
+    },
+    {
+     "ref": "24:24",
+     "note": {
+      "en": "This ayah adds the tongue, and it follows 24:23's warning against those who accuse chaste believing women: the tongue that spread the accusation testifies against its owner. As-Sa‘di: every limb testifies to what it did, so denial is impossible, and the One who made a person's witnesses come from his own self has been just.",
+      "bn": "এই আয়াতে জিহ্বাও যুক্ত হলো, আর প্রসঙ্গটা গুরুত্বপূর্ণ। এর আগে ২৪:২৩-এ সতী মুমিন নারীদের অপবাদ দেওয়ার ব্যাপারে কঠিন সতর্কবাণী এসেছে। যে জিহ্বা অপবাদ ছড়িয়েছিল, সেই জিহ্বাই তার মালিকের বিরুদ্ধে সাক্ষী হবে। আস-সাদি বলেন, প্রতিটি অঙ্গ নিজের করা কাজের সাক্ষ্য দেবে, অস্বীকারের পথ থাকবে না। আর যিনি মানুষের সাক্ষী তার নিজের ভেতর থেকেই দাঁড় করান, তিনি ইনসাফই করেছেন।"
+     }
+    },
+    {
+     "ref": "41:20-21",
+     "note": {
+      "en": "Hearing, eyes and skin testify, and people argue with their own skins: “Why have you testified against us?” As-Sa‘di: as if saying, we were defending you. The skins could not refuse: “Allah made us speak, who made everything speak.” The next ayah names the error behind the sins: thinking Allah does not know much of what they do.",
+      "bn": "কান, চোখ আর চামড়া সাক্ষ্য দেবে, আর মানুষ নিজের চামড়ার সঙ্গেই তর্ক করবে: “আমাদের বিরুদ্ধে সাক্ষ্য দিলে কেন?” আস-সাদির ভাষায়, যেন তারা বলছে, আমরা তো তোমাদের পক্ষেই লড়ছিলাম। চামড়ার অস্বীকার করার সাধ্য ছিল না: “আল্লাহ আমাদের কথা বলিয়েছেন, যিনি সবকিছুকে কথা বলান।” পরের আয়াত গুনাহের পেছনের ভুলটা ধরিয়ে দেয়: এই ধারণা যে, তারা যা করে তার অনেক কিছুই আল্লাহ জানেন না।"
+     }
+    },
+    {
+     "ref": "99:4-5",
+     "note": {
+      "en": "The ground itself becomes a witness. As-Sa‘di: the earth will testify against those who acted on its surface, good and evil alike, because the earth is among the witnesses over the servants. It speaks “because your Lord has inspired it,” which Ibn Kathir reports Mujahid explaining as: He commands it.",
+      "bn": "মাটিও সাক্ষী হয়ে দাঁড়াবে। আস-সাদি বলেন, পৃথিবী তার বুকে যারা ভালো-মন্দ কাজ করেছে, তাদের বিষয়ে সাক্ষ্য দেবে, কারণ বান্দাদের আমলের সাক্ষীদের মধ্যে পৃথিবীও আছে। সে কথা বলবে “কারণ তোমার রব তাকে নির্দেশ দেবেন”। ইবনে কাসির জানান, মুজাহিদ এর ব্যাখ্যা করেছেন: তিনি তাকে আদেশ করবেন।"
+     }
+    },
+    {
+     "ref": "4:41",
+     "note": {
+      "en": "A witness from every nation, its prophet as Ibn Kathir explains, and the Prophet ﷺ over this one. As-Sa‘di calls it the most just of judgements: a Judge of complete knowledge, the purest of creation as witnesses, and the confession of the one judged. When Ibn Mas‘ud recited an-Nisa’ to him and reached this ayah, al-Bukhari reports, the Prophet ﷺ said “Stop,” his eyes overflowing.",
+      "bn": "প্রত্যেক জাতি থেকে একজন সাক্ষী, ইবনে কাসিরের ব্যাখ্যায় সেই জাতির নবী। আর এই উম্মতের সাক্ষী নবী ﷺ। আস-সাদি একে বলেছেন সবচেয়ে ন্যায়ের বিচার: বিচারক পূর্ণ জ্ঞানের অধিকারী, সাক্ষী সৃষ্টির সবচেয়ে পবিত্র মানুষেরা, আর যার বিচার সে নিজেই স্বীকার করছে। বুখারির বর্ণনায়, ইবনে মাসউদ (রাঃ) এই আয়াত পর্যন্ত পড়ে শোনালে নবী ﷺ বললেন, “থামো।” তাঁর দুচোখ তখন অশ্রুতে ভেসে যাচ্ছিল।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 2969",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-2969",
+     "text": {
+      "en": "Anas ibn Malik reported: We were with the Messenger of Allah ﷺ when he laughed and said: “Do you know what I am laughing at?” We said: “Allah and His Messenger know best.” He said: “At the servant's speaking to his Lord. He will say: ‘My Lord, have You not granted me protection from injustice?’ He will say: ‘Yes.’ The servant will say: ‘Then I will not accept any witness against me except one from myself.’ He will say: ‘Your own self is sufficient as a witness against you today, and the noble scribes as witnesses.’ Then his mouth will be sealed and it will be said to his limbs: ‘Speak.’ They will speak of his deeds. Then he will be left free to speak, and he will say: ‘Away with you, may you be ruined! It was for you that I was pleading.’”",
+      "bn": "আনাস ইবনে মালিক (রাঃ) বর্ণনা করেন: আমরা রাসুলুল্লাহ ﷺ এর কাছে ছিলাম। তিনি হেসে বললেন: “তোমরা কি জানো, আমি কেন হাসছি?” আমরা বললাম: “আল্লাহ ও তাঁর রাসুলই ভালো জানেন।” তিনি বললেন: “রবের সঙ্গে বান্দার কথোপকথন মনে করে। সে বলবে: ‘হে আমার রব, আপনি কি আমাকে জুলুম থেকে নিরাপত্তা দেননি?’ তিনি বলবেন: ‘হ্যাঁ।’ বান্দা বলবে: ‘তাহলে আমার বিরুদ্ধে আমার নিজের ভেতরের সাক্ষী ছাড়া আর কারও সাক্ষ্য আমি মানব না।’ তিনি বলবেন: ‘আজ তোমার বিরুদ্ধে সাক্ষী হিসেবে তুমি নিজেই যথেষ্ট, আর সাক্ষী হিসেবে আছেন সম্মানিত লেখক ফেরেশতারা।’ তারপর তার মুখে মোহর মেরে দেওয়া হবে, আর তার অঙ্গগুলোকে বলা হবে: ‘বলো।’ তারা তার আমলের কথা বলে দেবে। এরপর তাকে কথা বলতে ছেড়ে দেওয়া হবে। তখন সে বলবে: ‘দূর হও, ধ্বংস হও তোমরা! তোমাদের বাঁচাতেই তো আমি তর্ক করছিলাম।’”"
+     },
+     "note": {
+      "en": "The servant appeals to Allah's own promise of no injustice, and the appeal is granted on his own terms. The witness he asks for is the one that convicts him. Ibn Kathir cites this narration under both 36:65 and 24:24.",
+      "bn": "বান্দা দোহাই দেয় আল্লাহরই প্রতিশ্রুতির, জুলুম না করার প্রতিশ্রুতি। আর তার শর্তেই তার আবেদন মেনে নেওয়া হয়। যে সাক্ষী সে নিজে চাইল, সেই সাক্ষীই তাকে দোষী সাব্যস্ত করল। ইবনে কাসির এই বর্ণনা ৩৬:৬৫ ও ২৪:২৪ দুই জায়গাতেই উল্লেখ করেছেন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "no-bearer-of-burdens",
+   "title": {
+    "en": "No One Carries Another's Load",
+    "bn": "কেউ কারও বোঝা বইবে না"
+   },
+   "body": [
+    {
+     "en": "In this world people lean on each other: a parent pays a debt, a friend vouches, a family absorbs a loss. The Quran states plainly that none of this carries into the reckoning. No bearer of burdens bears another's, even when asked, even by close kin, and no compensation is accepted. People even flee those they loved most. Ibn Kathir calls the rule a sign of Allah's perfect justice: no one is made to carry another's evil deeds.",
+     "bn": "দুনিয়ায় মানুষ একে অন্যের ওপর ভর করে চলে। বাবা-মা ঋণ শোধ করে দেন, বন্ধু জামিন হয়, পরিবার ক্ষতিটা সামলে নেয়। কুরআন সোজা কথায় জানিয়ে দেয়, এর কিছুই হিসাবের দিনে চলবে না। কোনো বোঝা বহনকারী অন্যের বোঝা বইবে না, অনুরোধ করলেও না, আপন আত্মীয় হলেও না। কোনো বিনিময়ও নেওয়া হবে না। আয়াতগুলো আরও এগিয়ে বলে, মানুষ তার সবচেয়ে প্রিয়জনদের কাছ থেকেও পালাবে। ইবনে কাসির এই নিয়মকে আল্লাহর পূর্ণ ইনসাফের প্রমাণ বলেছেন: অন্যের গুনাহের বোঝা কারও ঘাড়ে চাপানো হবে না।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "6:164",
+     "note": {
+      "en": "“Every soul earns not except against itself.” As-Sa‘di adds a qualification worth knowing: if someone caused another person's misguidance, he carries the burden of having caused it, without anything being reduced from the burden of the one who did it. The rule removes transferred guilt; it does not excuse leading others astray.",
+      "bn": "“প্রত্যেকে যা কামাই করে, তার দায় তার নিজেরই।” আস-সাদি এখানে একটা শর্ত যোগ করেছেন, যা জানা দরকার। কেউ যদি অন্যকে পথভ্রষ্ট করার কারণ হয়, তাহলে কারণ হওয়ার গুনাহ তার ঘাড়ে চাপবে। আর যে নিজে কাজটা করেছে, তার গুনাহ থেকেও কিছু কমবে না। অর্থাৎ নিয়মটা অন্যের গুনাহ চাপানো বন্ধ করে, অন্যকে ভুল পথে টানার অজুহাত দেয় না।"
+     }
+    },
+    {
+     "ref": "35:18",
+     "note": {
+      "en": "A soul so weighed down that it calls for someone to take part of its load, and nothing is lifted, “even if he should be a close relative.” As-Sa‘di contrasts the two worlds: here friend helps friend, but that Day a servant will wish someone owed him a right, even his own parents.",
+      "bn": "বোঝার ভারে নুয়ে পড়া একজন ডাকছে, কেউ যেন একটু ভার নেয়। কিছুই তুলে নেওয়া হবে না, “সে নিকটাত্মীয় হলেও”। আস-সাদি দুই জগতের তফাত দেখিয়েছেন। এখানে বন্ধু বন্ধুকে সাহায্য করে। কিন্তু সেদিন বান্দা কামনা করবে, কারও কাছে যদি তার কোনো পাওনা থাকত, নিজের বাবা-মায়ের কাছে হলেও।"
+     }
+    },
+    {
+     "ref": "80:34-37",
+     "note": {
+      "en": "The list moves inward: brother, parents, then spouse and children. Ibn Kathir records Qatadah: the most beloved, then the next, the closest kin, then the next, from the terror of that Day. The reason is not hatred but preoccupation: each will have a concern sufficient to occupy him.",
+      "bn": "তালিকাটা ক্রমেই ভেতরের দিকে আসে: ভাই, তারপর মা-বাবা, তারপর স্ত্রী আর সন্তান। ইবনে কাসির কাতাদার কথা উল্লেখ করেছেন: আগে সবচেয়ে প্রিয়জন, তারপর তার পরের জন, সবচেয়ে কাছের আত্মীয়, তারপর তার পরের জন, সেদিনের আতঙ্কের কারণে। পালানোর কারণ ঘৃণা নয়, ব্যস্ততা। প্রত্যেকের এমন এক চিন্তা থাকবে, যা তাকে পুরোপুরি ডুবিয়ে রাখবে।"
+     }
+    },
+    {
+     "ref": "2:48",
+     "note": {
+      "en": "Four doors closed in one ayah; 2:123 repeats them in another order. As-Sa‘di sorts them: no soul avails another and none is aided, so creatures bring neither benefit nor protection; ransom and intercession are shut too, intercession except by Allah's permission. His conclusion: let the heart stop depending on creatures and depend on Allah.",
+      "bn": "এক আয়াতে চারটি দরজা বন্ধ। ২:১২৩ একই কথা বলেছে, ভিন্ন ক্রমে। আস-সাদি এগুলো ভাগ করে দেখিয়েছেন। কেউ কারও কাজে আসবে না, কেউ সাহায্যও পাবে না: সৃষ্টির কাছ থেকে উপকারও নয়, রক্ষাও নয়। মুক্তিপণ আর সুপারিশের পথও বন্ধ, সুপারিশ চলবে কেবল আল্লাহর অনুমতিতে। তাঁর উপসংহার: অন্তর সৃষ্টির ওপর ভরসা ছেড়ে আল্লাহর ওপর ভরসা করুক।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "intercession-by-his-leave",
+   "title": {
+    "en": "Intercession Only by His Leave",
+    "bn": "সুপারিশ কেবল তাঁর অনুমতিতে"
+   },
+   "body": [
+    {
+     "en": "Some ayat deny intercession on that Day; others make an exception. Read together, they draw a clear line. What is denied is intercession people count on independently of Allah: a patron, a bargain, a relationship that will force a result. What is affirmed is intercession that begins with Allah, who gives the intercessor permission and is pleased with the one interceded for. As-Sa‘di states it under 2:48: no intercession is accepted for anyone without Allah's permission and His pleasure with the one for whom it is made.",
+     "bn": "কিছু আয়াত বলছে সেদিন কোনো সুপারিশ চলবে না, আবার কিছু আয়াত ব্যতিক্রমের কথা বলছে। দুটো মিলিয়ে পড়লে সীমারেখাটা পরিষ্কার হয়। কুরআন যা নাকচ করে, তা হলো আল্লাহকে বাদ দিয়ে মানুষ যে সুপারিশের ভরসা করে: কোনো মুরুব্বি, কোনো লেনদেন, কোনো সম্পর্ক যা জোর করে ফল আদায় করে নেবে। আর যা মেনে নেয়, সে সুপারিশের শুরু আল্লাহর কাছ থেকে। তিনি সুপারিশকারীকে অনুমতি দেন, আর যার জন্য সুপারিশ, তার প্রতি সন্তুষ্ট থাকেন। আস-সাদি ২:৪৮ এর ব্যাখ্যায় কথাটা বলেছেন: আল্লাহর অনুমতি আর যার জন্য সুপারিশ তার প্রতি তাঁর সন্তুষ্টি ছাড়া কারও সুপারিশ কবুল হবে না।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:255",
+     "note": {
+      "en": "Inside Ayat al-Kursi, between His ownership and His knowledge of everything, stands the question: “Who is it that can intercede with Him except by His permission?” As-Sa‘di: all intercession belongs to Allah; when He wills mercy for someone, He permits whom He wishes to honour to intercede for him, and no intercessor begins before permission.",
+      "bn": "আয়াতুল কুরসির ভেতরে, সবকিছুর ওপর তাঁর মালিকানা আর সবকিছু নিয়ে তাঁর জ্ঞানের কথার মাঝখানে, একটা প্রশ্ন: “কে আছে যে তাঁর অনুমতি ছাড়া তাঁর কাছে সুপারিশ করবে?” আস-সাদির ব্যাখ্যা: সব সুপারিশের মালিক আল্লাহ। কারও প্রতি রহম করতে চাইলে তিনি যাকে সম্মানিত করতে চান, তাকে তার জন্য সুপারিশের অনুমতি দেন। অনুমতির আগে কোনো সুপারিশকারী শুরুই করতে পারে না।"
+     }
+    },
+    {
+     "ref": "20:109",
+     "note": {
+      "en": "Two conditions in one sentence: the Most Merciful “has given permission,” and He “has accepted his word.” As-Sa‘di: He permits prophets, messengers and those near to Him, for those whose word and deed He is pleased with, namely the sincere believer. If any of these is missing, there is no way to anyone's intercession.",
+      "bn": "এক বাক্যে দুটো শর্ত: দয়াময় “অনুমতি দিয়েছেন”, আর “তার কথায় সন্তুষ্ট হয়েছেন”। আস-সাদির ব্যাখ্যা: তিনি অনুমতি দেবেন নবী, রাসুল আর তাঁর নৈকট্যপ্রাপ্ত বান্দাদের, তাদের জন্য যাদের কথা ও আমলে তিনি সন্তুষ্ট, অর্থাৎ ইখলাসওয়ালা মুমিন। এর কোনো একটা না থাকলে কারও সুপারিশ পাওয়ার কোনো পথ নেই।"
+     }
+    },
+    {
+     "ref": "21:28",
+     "note": {
+      "en": "Spoken of the angels: they intercede only for one He approves, and they are apprehensive out of fear of Him. As-Sa‘di calls the ayah a proof that the angels do intercede, then adds the limit: Allah approves only of words and deeds done sincerely for Him and following the Messenger. Even the intercessors stand in awe.",
+      "bn": "কথাটা ফেরেশতাদের নিয়ে। তারা কেবল তার জন্যই সুপারিশ করে, যার প্রতি তিনি সন্তুষ্ট, আর তাঁর ভয়ে তারা সন্ত্রস্ত। আস-সাদি বলেন, আয়াতটি প্রমাণ করে যে ফেরেশতারা সুপারিশ করবেন। তারপর সীমাটাও বলে দেন: আল্লাহ সেই কথা ও আমলেই সন্তুষ্ট, যা খাঁটিভাবে তাঁর জন্য আর রাসুলের অনুসরণে করা। সুপারিশকারীরাও ভয়ে কাঁপছে।"
+     }
+    },
+    {
+     "ref": "2:254",
+     "note": {
+      "en": "The ayah just before Ayat al-Kursi: spend now, before a Day with no trade, friendship or intercession. Ibn Kathir: no one can ransom himself even with the earth's fill of gold. As-Sa‘di sees the command as a kindness: what is given now is stored for a Day when people need even an atom's weight of good.",
+      "bn": "আয়াতুল কুরসির ঠিক আগের আয়াত: এখনই খরচ করো, এমন দিন আসার আগে যেদিন বেচাকেনা, বন্ধুত্ব বা সুপারিশ কিছুই নেই। ইবনে কাসির বলেন, সেদিন পৃথিবী ভরা সোনা দিয়েও কেউ নিজেকে ছাড়াতে পারবে না। আস-সাদি এই হুকুমকে দেখেছেন দয়া হিসেবে। আজ যা দেওয়া হলো, তা জমা থাকবে সেই দিনের জন্য, যেদিন অণু পরিমাণ নেকিরও দরকার হবে।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 99",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-99",
+     "text": {
+      "en": "Abu Hurayrah narrated: It was said, “O Messenger of Allah, who will be the most fortunate of people with your intercession on the Day of Resurrection?” The Messenger of Allah ﷺ said: “I had thought, Abu Hurayrah, that no one would ask me about this before you, because of what I have seen of your eagerness for hadith. The most fortunate of people with my intercession on the Day of Resurrection is the one who said ‘There is no god but Allah’ sincerely from his heart, or from himself.”",
+      "bn": "আবু হুরায়রা (রাঃ) বর্ণনা করেন: জিজ্ঞেস করা হলো, “হে আল্লাহর রাসুল, কিয়ামতের দিন আপনার সুপারিশ পেয়ে সবচেয়ে সৌভাগ্যবান কে হবে?” রাসুলুল্লাহ ﷺ বললেন: “আবু হুরায়রা, আমি ভেবেছিলাম তোমার আগে কেউ আমাকে এ কথা জিজ্ঞেস করবে না, কারণ হাদিসের প্রতি তোমার আগ্রহ আমি দেখেছি। কিয়ামতের দিন আমার সুপারিশ পেয়ে সবচেয়ে সৌভাগ্যবান সে, যে খাঁটি অন্তরে, বা খাঁটি মনে, বলেছে: আল্লাহ ছাড়া কোনো ইলাহ নেই।”"
+     },
+     "note": {
+      "en": "This matches what as-Sa‘di draws from 20:109: the one Allah is pleased with is the sincere believer. What a person can do now is make tawhid sincere.",
+      "bn": "আস-সাদি ২০:১০৯ থেকে যা বের করেছেন, তার সঙ্গে এটা মেলে: আল্লাহ যার প্রতি সন্তুষ্ট, সে ইখলাসওয়ালা মুমিন। আজ মানুষ যা করতে পারে, তা হলো তাওহিদকে খাঁটি করা।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "Before sleeping, review the day as if reading your own record: what would you want removed, and what can still be repaired tomorrow?",
+   "bn": "ঘুমানোর আগে দিনটা এমনভাবে মনে করুন, যেন নিজের আমলনামা পড়ছেন। কোন কাজটা মুছে ফেলতে চাইতেন, আর কোনটা কাল এখনও শুধরে নেওয়া যায়?"
+  },
+  {
+   "en": "Settle wrongs against people now: return what you owe, ask pardon for an insult or slander. The bankrupt one paid these debts in good deeds.",
+   "bn": "মানুষের প্রতি অন্যায়ের মীমাংসা এখনই করুন। যা পাওনা আছে ফিরিয়ে দিন, গালি বা অপবাদের জন্য মাফ চেয়ে নিন। দেউলিয়া লোকটি এই দেনা শোধ করেছিল নিজের নেকি দিয়ে।"
+  },
+  {
+   "en": "Do not dismiss a small good deed. Half a date, a kind word, a cup of water: the scales are calibrated to an atom.",
+   "bn": "ছোট নেক কাজকে তুচ্ছ ভাববেন না। অর্ধেক খেজুর, একটা ভালো কথা, এক গ্লাস পানি। মিযান মাপে অণু পর্যন্ত।"
+  },
+  {
+   "en": "Use your hands, tongue, eyes and ears as if each will be asked to speak about you, because the Quran says they will.",
+   "bn": "হাত, জিহ্বা, চোখ আর কান এমনভাবে ব্যবহার করুন, যেন প্রত্যেকটিকে আপনার ব্যাপারে কথা বলতে বলা হবে। কুরআন বলছে, সত্যিই বলা হবে।"
+  },
+  {
+   "en": "Do not rely on family, lineage or a righteous friend to carry you. Work on your own record, and on sincere tawhid, which the Prophet ﷺ tied to his intercession.",
+   "bn": "পরিবার, বংশ বা কোনো নেককার বন্ধু আপনাকে পার করে দেবে, এই ভরসায় থাকবেন না। নিজের আমলনামার কাজ নিজে করুন, আর তাওহিদকে খাঁটি করুন। নবী ﷺ তাঁর সুপারিশকে এর সঙ্গেই যুক্ত করেছেন।"
+  }
+ ],
  "refs": [
+  "1:4",
+  "2:48",
   "2:123",
   "2:177",
   "2:254",
+  "2:255",
   "3:9",
   "3:25",
   "3:106",
   "3:114",
+  "4:40",
   "4:41",
-  "4:58",
   "4:59",
   "4:136",
-  "5:8",
-  "5:42",
   "5:69",
   "5:119",
   "6:15",
   "6:16",
   "6:40",
-  "6:89",
   "6:128",
-  "6:151",
-  "6:152",
+  "6:164",
   "7:8",
+  "7:9",
   "7:53",
   "7:187",
   "9:29",
@@ -47,7 +452,6 @@
   "10:52",
   "11:3",
   "11:8",
-  "11:25",
   "11:84",
   "11:103",
   "11:105",
@@ -67,16 +471,21 @@
   "16:87",
   "16:89",
   "16:111",
+  "17:13",
+  "17:14",
   "17:71",
   "17:104",
+  "18:47",
+  "18:48",
+  "18:49",
   "18:99",
   "18:100",
-  "19:12",
   "19:37",
   "19:38",
   "19:39",
   "19:75",
   "19:85",
+  "19:95",
   "20:15",
   "20:105",
   "20:106",
@@ -86,26 +495,25 @@
   "20:110",
   "20:111",
   "20:112",
+  "21:28",
+  "21:47",
   "21:49",
   "21:103",
   "21:104",
   "22:2",
-  "22:3",
   "22:4",
   "22:5",
   "22:6",
   "22:7",
   "22:55",
   "22:56",
+  "24:23",
+  "24:24",
   "24:37",
-  "25:8",
   "25:11",
   "25:25",
-  "26:21",
   "26:82",
-  "26:83",
   "27:83",
-  "28:14",
   "30:12",
   "30:14",
   "30:55",
@@ -115,6 +523,8 @@
   "33:63",
   "33:66",
   "34:3",
+  "35:18",
+  "36:65",
   "37:20",
   "37:53",
   "38:16",
@@ -122,12 +532,17 @@
   "38:53",
   "39:13",
   "40:9",
+  "40:16",
+  "40:17",
   "40:27",
   "40:33",
   "40:51",
   "40:59",
   "40:78",
   "40:85",
+  "41:20",
+  "41:21",
+  "41:22",
   "42:7",
   "43:66",
   "43:83",
@@ -140,8 +555,6 @@
   "45:34",
   "45:35",
   "47:18",
-  "49:6",
-  "49:12",
   "50:20",
   "50:29",
   "50:44",
@@ -209,7 +622,6 @@
   "56:94",
   "58:22",
   "60:6",
-  "60:10",
   "64:9",
   "69:14",
   "69:16",
@@ -241,7 +653,6 @@
   "73:18",
   "74:46",
   "76:7",
-  "76:24",
   "77:8",
   "77:9",
   "77:10",
@@ -261,6 +672,10 @@
   "79:12",
   "79:13",
   "79:14",
+  "80:34",
+  "80:35",
+  "80:36",
+  "80:37",
   "81:1",
   "81:2",
   "81:3",
@@ -280,9 +695,21 @@
   "82:3",
   "82:9",
   "82:15",
+  "82:17",
+  "82:18",
+  "82:19",
+  "83:4",
+  "83:5",
+  "83:6",
   "83:11",
   "84:1",
   "84:3",
+  "84:7",
+  "84:8",
+  "84:9",
+  "84:10",
+  "84:11",
+  "84:12",
   "89:21",
   "95:8",
   "99:1",
@@ -294,10 +721,129 @@
   "99:7",
   "99:8",
   "101:1",
-  "101:5"
+  "101:5",
+  "101:6",
+  "101:7",
+  "101:8",
+  "101:9"
+ ],
+ "refsDropped": [
+  {
+   "ref": "4:58",
+   "reason": "Command to render trusts and judge justly between people; earthly adjudication, listed on the word 'judge'."
+  },
+  {
+   "ref": "5:8",
+   "reason": "Command to be just witnesses despite enmity; no reference to the Day of Judgement."
+  },
+  {
+   "ref": "5:42",
+   "reason": "Instruction on judging between those who come to the Prophet; earthly adjudication, listed on the word 'judge'."
+  },
+  {
+   "ref": "6:89",
+   "reason": "'Scripture and authority (hukm) and prophethood' given to prophets; hukm = wisdom/authority, not the Day."
+  },
+  {
+   "ref": "6:151",
+   "reason": "List of prohibitions (shirk, killing children, indecency); no reference to the reckoning."
+  },
+  {
+   "ref": "6:152",
+   "reason": "Orphans' property and full measure in trade; earthly weights, not the scales of the Day."
+  },
+  {
+   "ref": "11:25",
+   "reason": "Nuh sent as a clear warner; no reference to the Day (neighbouring-ayah listing)."
+  },
+  {
+   "ref": "19:12",
+   "reason": "Yahya given 'judgement' (wisdom) as a boy; the word means wisdom, not the Day."
+  },
+  {
+   "ref": "22:3",
+   "reason": "One who disputes about Allah without knowledge; no reference to the Day (neighbouring-ayah listing)."
+  },
+  {
+   "ref": "25:8",
+   "reason": "Deniers' demand for a treasure or garden; no reference to the Day (neighbouring-ayah listing)."
+  },
+  {
+   "ref": "26:21",
+   "reason": "Musa says his Lord granted him 'judgement' (wisdom/prophethood); not about the Day."
+  },
+  {
+   "ref": "26:83",
+   "reason": "Ibrahim asks 'grant me authority (hukm)'; hukm = wisdom/authority, not the Day."
+  },
+  {
+   "ref": "28:14",
+   "reason": "Musa given 'judgement and knowledge' at maturity; the word means wisdom, not the Day."
+  },
+  {
+   "ref": "49:6",
+   "reason": "Command to verify news from a disobedient person; no reference to the Day."
+  },
+  {
+   "ref": "49:12",
+   "reason": "Prohibition of suspicion, spying and backbiting; no reference to the Day."
+  },
+  {
+   "ref": "60:10",
+   "reason": "Examining emigrant believing women and marriage rulings; no reference to the Day."
+  },
+  {
+   "ref": "76:24",
+   "reason": "'Be patient for the decision (hukm) of your Lord'; worldly decree, no reference to the Day."
+  }
  ],
  "videos": [],
- "reading": [],
- "sources": [],
- "related": []
+ "reading": [
+  {
+   "title": {
+    "en": "The weighing of deeds and the distribution of the books of deeds",
+    "bn": "কিয়ামতের দিন আমল ওজন করা ও আমলনামা বণ্টন"
+   },
+   "url": "https://islamqa.info/en/answers/31805",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "The weighing of deeds and the distribution of the books of deeds (Bengali)",
+    "bn": "কিয়ামতের দিন আমল ওজন করা ও আমলনামা বণ্টন করা"
+   },
+   "url": "https://islamqa.info/bn/answers/31805",
+   "site": "islamqa.info",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Hadith: Do you know who the bankrupt is? (Bengali)",
+    "bn": "হাদিস: তোমরা কি জানো, নিঃস্ব কে?"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/6454",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "The horrors of the Day of Resurrection and what follows (Bengali)",
+    "bn": "কেয়ামতের ভয়াবহতা ও তারপর"
+   },
+   "url": "https://islamhouse.com/read/bn/%E0%A6%95%E0%A7%87%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B9%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A6%B0-262011",
+   "site": "islamhouse.com",
+   "lang": "bn"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir",
+  "Tafsir as-Sa'di"
+ ],
+ "related": [
+  "th-resurrection",
+  "th-hereafter",
+  "th-wrongdoers",
+  "th-hell"
+ ]
 }

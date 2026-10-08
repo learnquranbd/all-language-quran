@@ -1,21 +1,362 @@
 {
  "id": "th-repentance",
- "status": "seed",
+ "status": "full",
  "title": {
   "en": "Repentance",
   "bn": "তওবা"
  },
- "tagline": null,
- "intro": [],
- "sections": [],
- "practice": [],
+ "tagline": {
+  "en": "What the Quran says about turning back to Allah: who turns first, where the deadline falls, what the conditions are, and what sincere repentance changes.",
+  "bn": "আল্লাহর দিকে ফিরে আসা নিয়ে কুরআন কী বলে: কে আগে ফেরেন, সময়সীমা কোথায়, শর্ত কী, আর খাঁটি তওবা কী বদলে দেয়।"
+ },
+ "intro": [
+  {
+   "en": "Tawbah means to return. In the Quran the word runs in both directions: the servant turns to Allah, and Allah turns to the servant with acceptance. As-Sa‘di, on 24:31, defines the servant’s side as returning from what Allah dislikes, outwardly and inwardly, to what He loves, outwardly and inwardly. The same root gives Allah the name at-Tawwāb and gives the believers the name at-tā’ibūn, the first quality in the list of 9:112. This page reads those ayat closely: how they describe the return, what they attach to it, where they draw its limit, and how prophets and Companions lived it.",
+   "bn": "তওবা মানে ফিরে আসা। কুরআনে শব্দটা দুই দিকেই চলে: বান্দা ফেরে আল্লাহর দিকে, আর আল্লাহ কবুল নিয়ে ফেরেন বান্দার দিকে। আস-সাদি ২৪:৩১-এর ব্যাখ্যায় বান্দার দিকের সংজ্ঞা দিয়েছেন এভাবে: আল্লাহ যা অপছন্দ করেন, ভেতরে-বাইরে তা ছেড়ে, তিনি যা ভালোবাসেন, ভেতরে-বাইরে তার দিকে ফেরা। একই ধাতু থেকে আল্লাহর নাম আত-তাওয়াব, আর মুমিনদের নাম আত-তায়িবুন; ৯:১১২-এ মুমিনদের গুণের তালিকা এই শব্দ দিয়েই শুরু। এই পাতায় আমরা সেই আয়াতগুলো কাছ থেকে পড়ব: কুরআন এই ফিরে আসাকে কীভাবে বর্ণনা করে, এর সঙ্গে কী জুড়ে দেয়, শেষ সীমা কোথায় টানে, আর নবী ও সাহাবিরা কীভাবে তা জীবনে করে দেখিয়েছেন।"
+  },
+  {
+   "en": "One pattern recurs more than any other on this list. A grave warning is given, for concealing revealed guidance, for hypocrisy, for slander, for killing and fornication, and then comes the word illā: except those who repent. The exception is almost never the bare word. It is repent and reform, repent and make clear, repent, believe and do righteous work. The Quran treats repentance less as a feeling than as a turn that shows in what a person does next. Read that way, nearly every warning on this page carries its own way out.",
+   "bn": "এই তালিকায় একটা ধরন বারবার ফিরে আসে। প্রথমে কঠিন সতর্কবাণী: নাজিল করা হিদায়াত গোপন করার জন্য, মুনাফিকির জন্য, অপবাদের জন্য, হত্যা আর জিনার জন্য। তারপর আসে একটি শব্দ, ইল্লা: তবে যারা তওবা করে। এই ব্যতিক্রম প্রায় কখনোই শুধু ‘তওবা’ বলে থেমে যায় না। কোথাও তওবা করে শুধরে নেওয়া, কোথাও তওবা করে খোলাখুলি প্রকাশ করা, কোথাও তওবা, ঈমান আর নেক আমল একসঙ্গে। কুরআনের কাছে তওবা কেবল মনের অনুভূতি নয়; মানুষ এরপর কী করে, সেখানেই তার প্রমাণ। এভাবে পড়লে এই পাতার প্রায় প্রতিটি সতর্কবাণীর সঙ্গেই বেরোনোর পথটাও বলে দেওয়া আছে।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "he-turns-first",
+   "title": {
+    "en": "Two Turnings",
+    "bn": "দুই দিকের ফেরা"
+   },
+   "body": [
+    {
+     "en": "The Quran says that Allah turns to (tāba ‘alā) His servants and that the servant turns to (tāba ilā) Allah. As-Sa‘di, on 4:17 and again on 2:37, explains that Allah’s turning to His servants is of two kinds: first He enables them to repent, then He accepts the repentance once it exists. So whoever repents is already answering something given to him. The two Tabuk verses below show both turnings inside one story, and 9:104 names the One who receives the return.",
+     "bn": "কুরআন বলে, আল্লাহ বান্দার দিকে ফেরেন (তাবা আলা), আর বান্দা ফেরে আল্লাহর দিকে (তাবা ইলা)। আস-সাদি ৪:১৭-তে, আবার ২:৩৭-এ ব্যাখ্যা করেছেন: বান্দার প্রতি আল্লাহর তওবা দুই রকম। প্রথমে তিনি তওবার তাওফিক দেন, তারপর বান্দা তওবা করলে তা কবুল করেন। তাই যে তওবা করে, সে আসলে আগে পাওয়া একটা ডাকেরই জবাব দিচ্ছে। নিচে তাবুকের দুটি আয়াতে একই ঘটনার ভেতরে দুই ফেরাই দেখা যায়। আর ৯:১০৪ বলে দেয়, এই ফিরে আসা কে গ্রহণ করেন।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "9:117",
+     "note": {
+      "en": "The verse opens with Allah turning to the Prophet ﷺ, the Muhajirun and the Ansar who followed him in the hour of hardship: people who did not stay behind. As-Sa‘di reads this turning as forgiving their slips, adding to their good deeds and raising their rank because of the hard deeds they carried out. Tawbah here is not only rescue for the fallen. It is favour on those who held on, even as some hearts had nearly swerved.",
+      "bn": "আয়াতটি শুরু হয়েছে নবী ﷺ, মুহাজির আর আনসারদের প্রতি আল্লাহর তওবা দিয়ে, যাঁরা কঠিন সময়ে তাঁর সঙ্গে গিয়েছিলেন, পিছিয়ে থাকেননি। আস-সাদি এখানে তওবার অর্থ করেছেন: তাঁদের ছোটখাটো ভুল মাফ করা, নেকি বাড়িয়ে দেওয়া, আর কষ্টের আমলের কারণে মর্যাদা উঁচু করা। অর্থাৎ তওবা শুধু পড়ে যাওয়া মানুষকে টেনে তোলা নয়; যাঁরা অটল ছিলেন, তাঁদের প্রতিও অনুগ্রহ। অথচ তখন তাঁদের একদলের মন প্রায় টলে যাচ্ছিল।"
+     }
+    },
+    {
+     "ref": "9:118",
+     "note": {
+      "en": "On the three who were left behind from Tabuk, as-Sa‘di explains “He turned to them so that they might repent” this way: He permitted their repentance and enabled them to it, so that it would come from them and He would then accept it. He names Ka‘b ibn Malik and his two companions, says they endured about fifty nights, and notes the wording khullifū, they were left behind, not takhallafū, they held back: their staying behind was not from turning away from good.",
+      "bn": "তাবুক থেকে পিছিয়ে পড়া তিনজনের ব্যাপারে ‘তিনি তাঁদের দিকে ফিরলেন, যাতে তাঁরা তওবা করেন’ কথাটার ব্যাখ্যা আস-সাদি দিয়েছেন এভাবে: তিনি তাঁদের তওবার অনুমতি আর তাওফিক দিলেন, যাতে তওবা তাঁদের দিক থেকে ঘটে, তারপর তিনি তা কবুল করেন। তিনি তাঁদের নামও বলেছেন, কাব ইবনে মালিক (রাঃ) ও তাঁর দুই সঙ্গী; আর বলেছেন তাঁরা প্রায় পঞ্চাশ রাত এই কষ্টে কাটিয়েছেন। শব্দটাও তিনি লক্ষ করেছেন: খুল্লিফু, তাঁদের পেছনে রাখা হয়েছিল। তাখাল্লাফু, তাঁরা নিজেরা পিছিয়ে ছিলেন, এমন বলা হয়নি, কারণ তাঁদের পিছিয়ে থাকা ভালো কাজের প্রতি অনীহা থেকে ছিল না।"
+     }
+    },
+    {
+     "ref": "9:104",
+     "note": {
+      "en": "The question “Do they not know?” comes right after the command to take charity from the believers’ wealth. Ibn Kathir says the verse urges both repentance and charity, since each erases sins. As-Sa‘di explains at-Tawwāb as the One who turns to the repenter however often the sin recurs: Allah does not tire of turning to His servants until they tire, and insist on running from His door.",
+      "bn": "‘তারা কি জানে না?’ প্রশ্নটা এসেছে মুমিনদের সম্পদ থেকে সদকা নেওয়ার হুকুমের ঠিক পরে। ইবনে কাসির বলেন, আয়াতটি তওবা আর সদকা দুটোতেই উৎসাহ দেয়, কারণ দুটোই গুনাহ মুছে দেয়। আস-সাদি আত-তাওয়াবের ব্যাখ্যা দিয়েছেন: তওবাকারীর দিকে যিনি ফেরেন, গুনাহ যতবারই ফিরে আসুক। বান্দার তওবা কবুল করতে আল্লাহ ক্লান্ত হন না, যতক্ষণ না বান্দারা নিজেরাই ক্লান্ত হয়ে তাঁর দরজা থেকে পালিয়ে যায়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-window",
+   "title": {
+    "en": "Ignorance, and Soon After",
+    "bn": "অজ্ঞতা, আর অল্প পরেই"
+   },
+   "body": [
+    {
+     "en": "4:17-18 is the Quran’s most exact statement of whose repentance is accepted, and two of its phrases need the tafsir. “In ignorance” (bi-jahāla) does not mean only a sin done unknowingly, and “soon after” (min qarīb) has more than one reading. On the far side of the line stands the person who keeps doing evil until death is present and only then says, “I have repented now.” As-Sa‘di calls that a repentance of compulsion, which does not help its owner; only a repentance of choice does.",
+     "bn": "কার তওবা কবুল হয়, এ নিয়ে কুরআনের সবচেয়ে মাপা কথা ৪:১৭-১৮। এর দুটি শব্দ বুঝতে তাফসির লাগে। ‘অজ্ঞতাবশত’ (বিজাহালাহ) মানে শুধু না জেনে করা গুনাহ নয়। আর ‘অল্প পরেই’ (মিন কারিব) কথাটার একাধিক ব্যাখ্যা আছে। সীমার ওপারে সেই লোক, যে মৃত্যু হাজির হওয়া পর্যন্ত মন্দ কাজ করে যায়, তারপর বলে, ‘এখন আমি তওবা করলাম।’ আস-সাদি একে বলেছেন ঠেকায় পড়ে করা তওবা, যা তওবাকারীর কোনো কাজে আসে না। কাজে আসে কেবল নিজের ইচ্ছায় করা তওবা।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "4:17",
+     "note": {
+      "en": "Ibn Kathir records that the Companions held every sin, deliberate or not, to be done in ignorance, and Mujahid said the same. As-Sa‘di names the ignorance: of the sin’s outcome, of Allah watching, of what it does to faith; so every disobedient person is ignorant in this sense even when he knows the ruling. On “soon”, Ibn Kathir cites Ibn ‘Abbas, before he sees the angel of death, and ‘Ikrimah, all of this life is soon. As-Sa‘di adds a second reading: soon after the sin itself.",
+      "bn": "ইবনে কাসির লিখেছেন, সাহাবিরা মনে করতেন, জেনে-বুঝে হোক বা না জেনে, প্রতিটি গুনাহই হয় অজ্ঞতা থেকে; মুজাহিদও একই কথা বলেছেন। আস-সাদি অজ্ঞতাটা চিনিয়ে দিয়েছেন: গুনাহর পরিণাম সম্পর্কে, আল্লাহ যে দেখছেন সে সম্পর্কে, ঈমানের কী ক্ষতি হয় সে সম্পর্কে। তাই হুকুম জানা থাকলেও এই অর্থে প্রত্যেক নাফরমানই অজ্ঞ। ‘অল্প পরে’ কথাটায় ইবনে কাসির এনেছেন ইবনে আব্বাস (রাঃ)-এর কথা: মৃত্যুর ফেরেশতাকে দেখার আগ পর্যন্ত; আর ইকরিমার কথা: গোটা জীবনটাই ‘অল্প পরে’। আস-সাদি আরেকটি ব্যাখ্যা দেন: গুনাহ করার অল্প পরেই।"
+     }
+    },
+    {
+     "ref": "4:18",
+     "note": {
+      "en": "Two are excluded: whoever turns only once death is present, and whoever dies a disbeliever. Ibn Kathir describes the moment: when hope of living is gone, the angel of death has come and the soul reaches the throat and is being drawn out, no repentance is accepted. As-Sa‘di takes the evil deeds of the first group as sins short of disbelief. For the rule that once death is present neither a sinner’s repentance nor a disbeliever’s return is accepted, he cites Pharaoh, who declared belief only as he was drowning.",
+      "bn": "দুই দল বাদ পড়েছে: মৃত্যু হাজির হওয়ার পরেই যে ফিরতে চায়, আর যে কাফির অবস্থায় মারা যায়। ইবনে কাসির মুহূর্তটার বর্ণনা দিয়েছেন: বাঁচার আশা যখন ফুরিয়ে যায়, মৃত্যুর ফেরেশতা এসে পড়েন, প্রাণ কণ্ঠনালিতে পৌঁছে বেরিয়ে যেতে থাকে, তখন আর কোনো তওবা কবুল হয় না। আস-সাদি প্রথম দলের ‘মন্দ কাজ’ বলতে কুফরের নিচের গুনাহ বুঝিয়েছেন। আর মৃত্যু হাজির হওয়ার পরে গুনাহগারের তওবা বা কাফিরের ফিরে আসা কোনোটাই কবুল হয় না, এই সাধারণ নিয়মের দলিল হিসেবে তিনি এনেছেন ফিরআউনকে, যে ডুবতে ডুবতে ঈমানের ঘোষণা দিয়েছিল।"
+     }
+    },
+    {
+     "ref": "6:54",
+     "note": {
+      "en": "The same phrase, does wrong out of ignorance and then repents, but now framed as part of the mercy “your Lord has decreed upon Himself.” The Prophet ﷺ is told to greet with peace those who come to him. As-Sa‘di stresses the condition at the end, aṣlaḥa: alongside leaving the sin and regretting it, a person must set his deeds right, perform what Allah made obligatory, and repair what was spoiled, outwardly and inwardly.",
+      "bn": "একই কথা, ‘অজ্ঞতাবশত মন্দ কাজ করে তারপর তওবা করে’, কিন্তু এবার তা সেই রহমতের অংশ, যা ‘তোমাদের রব নিজের ওপর লিখে নিয়েছেন।’ নবী ﷺ-কে বলা হচ্ছে, যারা তাঁর কাছে আসে, তাদের সালাম দিয়ে স্বাগত জানাতে। আস-সাদি জোর দিয়েছেন শেষের শর্তে, আসলাহা: গুনাহ ছাড়া আর অনুতপ্ত হওয়ার সঙ্গে আমলও শুধরাতে হবে। আল্লাহ যা ফরজ করেছেন তা আদায় করতে হবে, আর ভেতরে-বাইরে যা নষ্ট হয়েছে তা মেরামত করতে হবে।"
+     }
+    },
+    {
+     "ref": "3:135",
+     "note": {
+      "en": "Those who, after an indecency or wronging themselves, remember Allah and ask forgiveness, “and do not persist in what they did while they know.” Ibn Kathir explains not persisting as quitting the sin rather than carrying on in it, and adds that even if the sin recurs, they repent from it again. As-Sa‘di, on 4:17, warns that someone who persists until sins become settled traits finds complete repentance hard, and is usually not helped to it, though Allah may still grant it.",
+      "bn": "যারা অশ্লীল কিছু করে ফেললে বা নিজের ওপর জুলুম করলে আল্লাহকে স্মরণ করে মাফ চায়, ‘আর জেনেশুনে নিজেদের কাজে অটল থাকে না।’ ইবনে কাসির অটল না থাকার অর্থ করেছেন: গুনাহ ছেড়ে দেওয়া, তাতে লেগে না থাকা। আর গুনাহ বারবার হয়ে গেলেও তারা বারবার তওবা করে। আস-সাদি ৪:১৭-এর ব্যাখ্যায় সতর্ক করেছেন: গুনাহয় লেগে থাকতে থাকতে যে তা স্বভাবে বসিয়ে ফেলে, পূর্ণ তওবা তার জন্য কঠিন হয়ে যায়, আর সাধারণত সে তাওফিকও পায় না। তবে আল্লাহ চাইলে তাকেও তা দিতে পারেন।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 2759a",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-2759",
+     "text": {
+      "en": "Abu Musa reported that the Prophet ﷺ said: “Allah, Mighty and Majestic, stretches out His hand by night so that the one who did wrong by day may repent, and stretches out His hand by day so that the one who did wrong by night may repent, until the sun rises from the place where it sets.”",
+      "bn": "আবু মুসা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: “মহান ও পরাক্রমশালী আল্লাহ রাতে তাঁর হাত প্রসারিত করেন, যাতে দিনের গুনাহগার তওবা করে; আর দিনে তাঁর হাত প্রসারিত করেন, যাতে রাতের গুনাহগার তওবা করে, যতদিন না সূর্য পশ্চিম দিক থেকে উদিত হয়।”"
+     },
+     "note": {
+      "en": "So there are two deadlines. 4:18 sets the limit for each person when death is present, which Ibn Kathir places at the soul reaching the throat; this hadith sets the limit for the world at the sun rising from the west, which Ibn Kathir, writing on 4:18, links to 6:158. Inside both limits the offer is renewed every night and every day.",
+      "bn": "তাহলে সময়সীমা দুটি। ৪:১৮ প্রত্যেক মানুষের সীমা টেনেছে মৃত্যু হাজির হওয়ার সময়ে, ইবনে কাসিরের ব্যাখ্যায় যখন প্রাণ কণ্ঠনালিতে পৌঁছে যায়; এই হাদিস গোটা দুনিয়ার সীমা টেনেছে পশ্চিম দিক থেকে সূর্য ওঠায়। ইবনে কাসির ৪:১৮-এর ব্যাখ্যায় এই দ্বিতীয় সীমাকে ৬:১৫৮-এর সঙ্গে মিলিয়েছেন। এই দুই সীমার ভেতরে প্রতি রাতে, প্রতি দিনে ডাকটা নতুন করে আসে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "repent-and-set-right",
+   "title": {
+    "en": "Repent, Then Set It Right",
+    "bn": "তওবা, তারপর শুধরে নেওয়া"
+   },
+   "body": [
+    {
+     "en": "Again and again, the exception after a warning attaches a second verb to the first. Those who conceal guidance must repent, reform and make clear (2:160). Hypocrites must repent, reform, hold fast to Allah and make their religion sincere for Him (4:146). The slanderer of 24:5 and the thief of 5:39 must repent and reform. As-Sa‘di states the rule plainly on 2:160: leaving the wrong is not enough until the good is done, and the one who concealed must also reveal. The repair is shaped like the sin, as the verses below show.",
+     "bn": "সতর্কবাণীর পরের ব্যতিক্রমে কুরআন বারবার প্রথম ক্রিয়ার সঙ্গে আরেকটা জুড়ে দেয়। হিদায়াত গোপনকারীদের তওবা করতে হবে, শুধরাতে হবে, আর খোলাখুলি বলে দিতে হবে (২:১৬০)। মুনাফিকদের তওবা করতে হবে, শুধরাতে হবে, আল্লাহকে আঁকড়ে ধরতে হবে, আর দ্বীনকে তাঁর জন্য খাঁটি করতে হবে (৪:১৪৬)। ২৪:৫-এর অপবাদকারী আর ৫:৩৯-এর চোরকেও তওবার সঙ্গে নিজেকে শুধরাতে হবে। আস-সাদি ২:১৬০-এ নিয়মটা সোজা কথায় বলেছেন: মন্দ ছাড়লেই হবে না, ভালোটাও করতে হবে; আর যে গোপন করেছিল, তাকে গোপন কথাটা প্রকাশও করতে হবে। মেরামতটা হয় গুনাহর মাপে মাপে, নিচের আয়াতগুলো তা দেখায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:160",
+     "note": {
+      "en": "The verse before it put those who conceal revealed guidance under the curse of Allah and of those who curse. The way out has three verbs: tābū, aṣlaḥū, bayyanū. As-Sa‘di defines the first as regret, quitting and resolving not to return, and says the concealer must make clear what he hid and show the opposite of what he hid. Ibn Kathir adds that the verse shows even one who called to innovation or disbelief is forgiven if he repents.",
+      "bn": "আগের আয়াতে নাজিল করা হিদায়াত গোপনকারীদের ওপর আল্লাহর আর অভিশাপকারীদের লানতের কথা এসেছে। বেরোনোর পথে তিনটি ক্রিয়া: তাবু, আসলাহু, বাইয়ানু। আস-সাদি প্রথমটির অর্থ করেছেন অনুতাপ, গুনাহ ছেড়ে দেওয়া আর কখনো না ফেরার সংকল্প। তিনি বলেছেন, গোপনকারীকে লুকানো কথাটা স্পষ্ট করতে হবে, যা লুকিয়েছিল তার উল্টোটা প্রকাশ করতে হবে। ইবনে কাসির যোগ করেন, এই আয়াত দেখায় যে বিদআত বা কুফরের দিকে ডাকত এমন লোকও তওবা করলে আল্লাহ তাকে মাফ করেন।"
+     }
+    },
+    {
+     "ref": "4:146",
+     "note": {
+      "en": "The verse before it placed the hypocrites in the lowest depth of the Fire. The exception lists four things: repent, reform, hold fast to Allah, and make their religion sincere for Him. As-Sa‘di asks why the last two are named when “reform” already includes them, and answers that hypocrisy is removed only by clinging hard to Allah, and sincerity is its exact opposite. Such people will be “with the believers”; he notes the reward is promised to the believers as a whole, so the repentant hypocrite shares it.",
+      "bn": "এর ঠিক আগের আয়াতে মুনাফিকদের জায়গা বলা হয়েছে জাহান্নামের সবচেয়ে নিচের স্তরে। ব্যতিক্রমে চারটি কাজ: তওবা, শুধরানো, আল্লাহকে আঁকড়ে ধরা, আর দ্বীনকে তাঁর জন্য খাঁটি করা। আস-সাদি প্রশ্ন তুলেছেন, ‘শুধরানো’র মধ্যেই তো শেষ দুটি পড়ে, তবু আলাদা করে বলা কেন? তাঁর জবাব: মুনাফিকি দূর হয় কেবল আল্লাহকে শক্ত করে আঁকড়ে ধরলে, আর ইখলাস মুনাফিকির একেবারে উল্টো। এরা থাকবে ‘মুমিনদের সঙ্গে’। তিনি লক্ষ করেছেন, পুরস্কারের ওয়াদা এসেছে মুমিনদের নামে, তাই তওবাকারী মুনাফিকও সেই পুরস্কারের ভাগ পায়।"
+     }
+    },
+    {
+     "ref": "2:279",
+     "note": {
+      "en": "Repentance from usury has an exact financial form: if you repent, you may have your principal; you do no wrong, nor are you wronged. As-Sa‘di explains the two halves: you do not wrong the borrower by taking the increase, and you are not wronged by losing any of your capital. Turning back here is not only a state of the heart. It is the sum on a contract, corrected.",
+      "bn": "সুদ থেকে তওবার চেহারাটা একেবারে হিসাবের: ‘যদি তওবা করো, তবে মূলধন তোমাদের; তোমরা জুলুম করবে না, তোমাদের ওপরও জুলুম হবে না।’ আস-সাদি দুই অংশের ব্যাখ্যা দিয়েছেন: বাড়তি নিয়ে যাকে ঋণ দিয়েছিলেন তার ওপর জুলুম হবে না, আর মূলধন কেটে আপনার ওপরও জুলুম হবে না। এখানে ফিরে আসা শুধু মনের ব্যাপার নয়; চুক্তির অঙ্কটাই ঠিক করে নেওয়া।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sincere-repentance",
+   "title": {
+    "en": "Sincere Repentance",
+    "bn": "খাঁটি তওবা"
+   },
+   "body": [
+    {
+     "en": "66:8 commands the believers to repent with tawbatan naṣūḥā. Ibn Kathir explains it as a true, firm repentance that wipes out the misdeeds before it, gathers the scattered state of the one who repents and holds him back from what he used to do. He records ‘Umar ibn al-Khattab’s definition: to repent from a sin and then not return to it; Ibn Mas‘ud said the same. Al-Hasan al-Basri said: to hate the sin as you once loved it, and to seek forgiveness whenever you remember it. Ibn Kathir then gives the scholars’ summary: quit the sin now, regret the past, resolve against it for the future, and return any right owed to a person.",
+     "bn": "৬৬:৮ মুমিনদের হুকুম দিয়েছে তাওবাতান নাসুহা করতে। ইবনে কাসির এর ব্যাখ্যা দিয়েছেন: সত্যিকারের দৃঢ় তওবা, যা আগের গুনাহ মুছে দেয়, তওবাকারীর এলোমেলো অবস্থা গুছিয়ে দেয়, আর আগে যে হীন কাজে সে জড়িয়ে ছিল তা থেকে তাকে আটকে রাখে। তিনি উমর ইবনুল খাত্তাব (রাঃ)-এর সংজ্ঞা এনেছেন: গুনাহ থেকে তওবা করা, তারপর আর তাতে না ফেরা। ইবনে মাসউদ (রাঃ)-ও একই কথা বলেছেন। হাসান বসরি বলেছেন: গুনাহকে যতটা ভালোবাসতেন, ততটাই ঘৃণা করা, আর যখনই মনে পড়ে তখনই ইস্তিগফার করা। এরপর ইবনে কাসির আলেমদের সারকথা দিয়েছেন: এখনই গুনাহ ছাড়া, অতীতের জন্য অনুতপ্ত হওয়া, সামনে আর না করার সংকল্প, আর কারও হক থাকলে তা ফিরিয়ে দেওয়া।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "66:8",
+     "note": {
+      "en": "Ibn Kathir raises an open question. Is it a condition of naṣūḥ repentance to keep from the sin until death, as “never” in earlier reports suggests? Or is the firm resolve enough, since repentance “wipes out what came before it”? For the first view he cites the Sahih hadith that whoever does evil in Islam is held to account for the earlier and the later, arguing that what holds for Islam, which is stronger than repentance, holds for repentance all the more. He closes: “Allah knows best.”",
+      "bn": "ইবনে কাসির একটা খোলা প্রশ্ন তুলেছেন। নাসুহা তওবার শর্ত কি মৃত্যু পর্যন্ত সেই গুনাহ থেকে দূরে থাকা, যেমনটা আগে উদ্ধৃত বর্ণনাগুলোর ‘কখনো না’ শব্দ ইঙ্গিত দেয়? নাকি দৃঢ় সংকল্পই যথেষ্ট, কারণ তওবা ‘আগের সব মুছে দেয়’? প্রথম মতের পক্ষে তিনি সহিহ হাদিস এনেছেন: ইসলামে এসে যে মন্দ কাজ করে, তাকে আগের আর পরের দুটোরই হিসাব দিতে হবে। তাঁর যুক্তি: তওবার চেয়ে শক্তিশালী ইসলামের বেলাতেই যদি এমন হয়, তবে তওবার বেলায় তো আরও বেশি। তারপর বলেছেন, আল্লাহই ভালো জানেন।"
+     }
+    },
+    {
+     "ref": "9:112",
+     "note": {
+      "en": "Those who repent head the list of believers whose lives and wealth Allah has purchased, ahead of the worshippers, those who praise Him, and those who bow and prostrate. As-Sa‘di explains at-tā’ibūn as those who keep to repentance at all times, from all misdeeds. In this list repentance is a standing quality of the believer, named before the acts of worship, not a single event.",
+      "bn": "যাদের জান-মাল আল্লাহ কিনে নিয়েছেন, সেই মুমিনদের গুণের তালিকায় সবার আগে তওবাকারীরা; ইবাদতকারী, প্রশংসাকারী আর রুকু-সিজদাকারীদেরও আগে। আস-সাদি আত-তায়িবুনের অর্থ করেছেন: যারা সব সময়, সব গুনাহ থেকে তওবায় লেগে থাকে। এই তালিকায় তওবা মুমিনের স্থায়ী গুণ, ইবাদতের আগেই যার নাম এসেছে; কোনো এক দিনের ঘটনা নয়।"
+     }
+    },
+    {
+     "ref": "20:82",
+     "note": {
+      "en": "Spoken to the Children of Israel. Ibn Kathir notes that Allah accepted the repentance even of those who had worshipped the calf. For the fourth condition, thumma ihtadā, “then continues in guidance”, he records several readings: Ibn ‘Abbas, then did not doubt; Sa‘id ibn Jubayr, kept firmly to the Sunnah and the community; Qatadah, held to Islam until death; Sufyan ath-Thawri, knew that there is a reward for it.",
+      "bn": "কথাটা বনি ইসরাইলকে বলা। ইবনে কাসির উল্লেখ করেছেন, যারা বাছুরের পূজা করেছিল, আল্লাহ তাদের তওবাও কবুল করেছেন। চতুর্থ শর্ত ‘সুম্মা ইহতাদা’, অর্থাৎ তারপর হিদায়াতে অবিচল থাকে, এর কয়েকটি ব্যাখ্যা তিনি এনেছেন। ইবনে আব্বাস (রাঃ): এরপর আর সন্দেহ করেনি। সাইদ ইবনে জুবাইর: সুন্নাহ ও জামাআতের ওপর অটল থেকেছে। কাতাদা: মৃত্যু পর্যন্ত ইসলাম আঁকড়ে থেকেছে। সুফিয়ান সাওরি: জেনেছে যে এর প্রতিদান আছে।"
+     }
+    },
+    {
+     "ref": "25:71",
+     "note": {
+      "en": "After the exception in 25:70 comes a general rule: whoever repents and does righteous work has truly turned to Allah, matāban. As-Sa‘di reads the emphasis as a call to make repentance complete and free of corrupt motives, since the reward matches its completeness. Commenting on 9:118 he gives a measure: Allah’s turning to a servant answers the depth of his regret, and whoever sins without caring has a flawed repentance, however much he claims it was accepted.",
+      "bn": "২৫:৭০-এর ব্যতিক্রমের পরে আসে একটা সাধারণ নিয়ম: যে তওবা করে আর নেক আমল করে, সে সত্যিই আল্লাহর দিকে ফিরে আসে, মাতাবা। আস-সাদি এই জোরকে পড়েছেন তওবা পূর্ণ করার ডাক হিসেবে: খারাপ উদ্দেশ্যের মিশেল থেকে তা পরিষ্কার রাখতে হবে, কারণ প্রতিদান মিলবে তওবা যতটা পূর্ণ, সেই মাপে। ৯:১১৮-এর ব্যাখ্যায় তিনি একটা মাপকাঠিও দিয়েছেন: বান্দার অনুতাপ যত গভীর, আল্লাহর ফিরে আসাও সেই অনুযায়ী। যে গুনাহ করে গায়ে লাগায় না, তার তওবায় খাদ আছে, যতই সে দাবি করুক তা কবুল হয়েছে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "evil-into-good",
+   "title": {
+    "en": "Evil Deeds Turned to Good",
+    "bn": "গুনাহ যখন নেকিতে বদলায়"
+   },
+   "body": [
+    {
+     "en": "Besides 20:82 above, three more ayat on the list repeat one formula: repent, believe and do righteous work. Each follows a severe description: those who call on another god, kill and commit fornication (25:68-69); a generation that neglected prayer and followed desires (19:59); and those who will be asked whom they worshipped and how they answered the messengers. The exception reaches even shirk and killing, and the promise in 25:70 goes beyond pardon: Allah will replace their evil deeds with good.",
+     "bn": "ওপরের ২০:৮২ ছাড়াও তালিকার আরও তিনটি আয়াতে একই সূত্র: তওবা, ঈমান আর নেক আমল। প্রতিটি এসেছে কঠিন এক বর্ণনার পরে। ২৫:৬৮-৬৯-এ তারা, যারা আল্লাহর সঙ্গে অন্য উপাস্যকে ডাকে, হত্যা করে, জিনা করে। ১৯:৫৯-এ এমন এক প্রজন্ম, যারা নামাজ নষ্ট করেছে আর প্রবৃত্তির পেছনে ছুটেছে। আর সূরা কাসাসে তারা, যাদের জিজ্ঞেস করা হবে কার ইবাদত করেছিল আর রাসুলদের কী জবাব দিয়েছিল। এই ব্যতিক্রম শিরক আর হত্যাকেও ছুঁয়ে যায়। আর ২৫:৭০-এর ওয়াদা মাফের চেয়েও বেশি: আল্লাহ তাদের গুনাহগুলো নেকিতে বদলে দেবেন।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "25:70",
+     "note": {
+      "en": "Ibn Kathir draws from this exception that a killer’s repentance is valid, and answers the objection from 4:93, which promises Hell to whoever kills a believer deliberately: that verse is unqualified, while this one is qualified by repentance, so 4:93 is taken to concern one who did not repent. He adds 4:48 and the Sunnah’s story of the man who killed a hundred and whose repentance was accepted. On the replacement itself, as-Sa‘di holds that both the deeds and the sins are changed, “as is apparent from the verse.”",
+      "bn": "এই ব্যতিক্রম থেকে ইবনে কাসির সিদ্ধান্ত টেনেছেন, হত্যাকারীর তওবাও সহিহ। তারপর ৪:৯৩-এর আপত্তির জবাব দিয়েছেন, যেখানে ইচ্ছাকৃতভাবে মুমিনকে হত্যাকারীর জন্য জাহান্নামের কথা আছে: ওই আয়াত শর্তহীন, আর এই আয়াত তওবার শর্তে বাঁধা। তাই ৪:৯৩-কে তিনি ধরেছেন তার ব্যাপারে, যে তওবা করেনি। সঙ্গে তিনি এনেছেন ৪:৪৮, আর সুন্নাহর সেই ঘটনা, যেখানে একশো মানুষের হত্যাকারী তওবা করে কবুল পেয়েছিল। বদলের ব্যাপারে আস-সাদি বলেন, আমলও বদলায়, গুনাহগুলোও বদলায়, ‘যেমনটা আয়াতের বাহ্যিক অর্থ।’"
+     }
+    },
+    {
+     "ref": "19:60",
+     "note": {
+      "en": "The generation of 19:59 neglected prayer and followed desires; the exception repeats the three-part formula and adds that they “will not be wronged at all.” As-Sa‘di defines the repentance here as quitting shirk, innovation and sins, regretting them and resolving firmly not to return. Those who join it to faith and righteous work, he says, will find their deeds complete, their reward in full and multiplied.",
+      "bn": "১৯:৫৯-এর প্রজন্ম নামাজ নষ্ট করেছিল আর প্রবৃত্তির অনুসরণ করেছিল। ব্যতিক্রমে আবার সেই তিন অংশের সূত্র, সঙ্গে যোগ হয়েছে: ‘তাদের প্রতি সামান্যতম জুলুমও করা হবে না।’ আস-সাদি এখানে তওবার অর্থ করেছেন শিরক, বিদআত আর গুনাহ ছেড়ে দেওয়া, অনুতপ্ত হওয়া আর দৃঢ়ভাবে না ফেরার সংকল্প করা। তাঁর ভাষায়, যারা এর সঙ্গে ঈমান আর নেক আমল মিলিয়েছে, তারা নিজেদের আমল পূর্ণ পাবে, প্রতিদান পুরো পাবে, বহুগুণে পাবে।"
+     }
+    },
+    {
+     "ref": "28:67",
+     "note": {
+      "en": "The same formula, now with ‘asā: such a one may well be among the successful. As-Sa‘di reads it after the questioning about whom people worshipped and how they answered the messengers, and draws the conclusion: no one is saved except by repentance from shirk and sins, faith, and righteous work that follows the messengers. “There is no route to success without these.”",
+      "bn": "একই সূত্র, এবার ‘আসা শব্দ দিয়ে: এমন ব্যক্তি সফলদের মধ্যে থাকবে বলে আশা করা যায়। আস-সাদি আয়াতটিকে পড়েছেন সেই জিজ্ঞাসাবাদের পরে, যেখানে মানুষকে জিজ্ঞেস করা হবে তারা কার ইবাদত করেছিল আর রাসুলদের কী জবাব দিয়েছিল। তাঁর সিদ্ধান্ত: শিরক ও গুনাহ থেকে তওবা, ঈমান, আর রাসুলদের অনুসরণে নেক আমল, এগুলো ছাড়া কেউ মুক্তি পাবে না। ‘এগুলো ছাড়া সফলতার কোনো পথ নেই।’"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 190a",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-190",
+     "text": {
+      "en": "Abu Dharr reported that the Messenger of Allah ﷺ said: “I know the last of the people of Paradise to enter it and the last of the people of the Fire to come out of it. He is a man who will be brought on the Day of Resurrection, and it will be said: Present his minor sins to him and keep his major sins away from him. His minor sins will be put before him, and it will be said: On such and such a day you did such and such, and on such and such a day you did such and such. He will say: Yes. He cannot deny it, and he fears that his major sins will be put before him. Then it will be said to him: In place of every evil deed you have a good deed. He will say: My Lord, I did things that I do not see here.” Abu Dharr said: I saw the Messenger of Allah ﷺ laugh until his back teeth showed.",
+      "bn": "আবু জর (রাঃ) বর্ণনা করেন, আল্লাহর রাসুল ﷺ বলেছেন: “জান্নাতে সবার শেষে যে প্রবেশ করবে আর জাহান্নাম থেকে সবার শেষে যে বের হবে, আমি তাকে চিনি। সে এমন এক লোক, যাকে কিয়ামতের দিন আনা হবে, আর বলা হবে: তার সামনে তার ছোট গুনাহগুলো পেশ করো, বড়গুলো সরিয়ে রাখো। তারপর তার সামনে ছোট গুনাহগুলো রাখা হবে আর বলা হবে: অমুক দিন তুমি এই এই করেছ, অমুক দিন এই এই করেছ। সে বলবে: হ্যাঁ। সে অস্বীকার করতে পারবে না, আর ভয় পেতে থাকবে, কখন বড় গুনাহগুলো সামনে আনা হয়। তখন তাকে বলা হবে: প্রতিটি গুনাহর বদলে তোমার জন্য একটি করে নেকি। সে বলবে: হে আমার রব, আমি তো আরও কিছু কাজ করেছিলাম, সেগুলো তো এখানে দেখছি না।” আবু জর (রাঃ) বলেন, আমি দেখলাম আল্লাহর রাসুল ﷺ এমনভাবে হাসলেন যে তাঁর মাড়ির দাঁত দেখা গেল।"
+     },
+     "note": {
+      "en": "Ibn Kathir and as-Sa‘di both cite this hadith on 25:70 for the view that the sins themselves are changed into good deeds. Notice whom it describes: not a model believer but the last man out of the Fire. And notice his request: once he sees the exchange, he asks after the very sins he had been dreading.",
+      "bn": "ইবনে কাসির আর আস-সাদি দুজনেই ২৫:৭০-এ এই হাদিস এনেছেন এই মতের পক্ষে যে, গুনাহগুলোই নেকিতে বদলে যায়। খেয়াল করুন, কথাটা কাকে নিয়ে: কোনো আদর্শ মুমিন নয়, জাহান্নাম থেকে সবার শেষে বের হওয়া লোক। আর খেয়াল করুন তার আবদার: বদলটা দেখার পর যে গুনাহগুলোর ভয়ে সে কাঁপছিল, এখন সেগুলোরই খোঁজ করছে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "prophets-turning",
+   "title": {
+    "en": "Prophets and the Righteous Turn Back",
+    "bn": "নবী ও নেককারদের তওবা"
+   },
+   "body": [
+    {
+     "en": "The Quran puts “I have repented to You” (tubtu ilayk) in the mouths of the best of people, and not always after a sin as we usually picture one. Adam (AS) receives words from his Lord and is forgiven. Musa (AS) repents after a request that came from longing for his Lord. The believer of 46:15 says it at forty, at the height of his strength, while thanking Allah for His favours on him and his parents. In these ayat repentance is a place the righteous keep returning to, not only a remedy for the fallen.",
+     "bn": "‘আমি আপনার কাছে তওবা করলাম’ (তুবতু ইলাইকা): কুরআন এই কথা তুলে দিয়েছে শ্রেষ্ঠ মানুষদের মুখে, আর সবসময় আমরা যাকে গুনাহ বলে ভাবি তার পরে নয়। আদম (আঃ) রবের কাছ থেকে কিছু বাক্য পেলেন, আর মাফ পেলেন। মুসা (আঃ) তওবা করলেন এমন এক আবদারের পরে, যা এসেছিল রবের প্রতি টান থেকে। ৪৬:১৫-এর মুমিন কথাটা বলেন চল্লিশে, শক্তির চূড়ায়, নিজের ও বাবা-মায়ের ওপর আল্লাহর নিয়ামতের শোকর আদায় করতে করতে। এই আয়াতগুলোতে তওবা শুধু পড়ে যাওয়া মানুষের ওষুধ নয়; নেককাররা বারবার যেখানে ফিরে আসেন, সেই ঠিকানা।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:37",
+     "note": {
+      "en": "The early scholars Ibn Kathir names, among them Mujahid, Sa‘id ibn Jubayr, al-Hasan and Qatadah, say the words Adam received are those of 7:23: “Our Lord, we have wronged ourselves.” As-Sa‘di says Allah inspired them in him, and repeats his rule that Allah’s turning has two steps: first enabling the servant to repent, then accepting it once its conditions are met. The verse closes with at-Tawwāb ar-Raḥīm, the same pair of names that closes 9:118.",
+      "bn": "ইবনে কাসির যে পূর্বসূরিদের নাম করেছেন, মুজাহিদ, সাইদ ইবনে জুবাইর, হাসান, কাতাদা ও আরও অনেকে, তাঁরা বলেন আদম (আঃ) যে বাক্যগুলো পেয়েছিলেন, সেগুলো ৭:২৩-এর: ‘হে আমাদের রব, আমরা নিজেদের ওপর জুলুম করেছি।’ আস-সাদি বলেন, আল্লাহ বাক্যগুলো তাঁর মনে ঢেলে দিয়েছিলেন। আর তিনি নিজের নিয়মটা আবার বলেন: আল্লাহর তওবার দুই ধাপ, প্রথমে তওবার তাওফিক, তারপর শর্ত পূরণ হলে কবুল। আয়াতটি শেষ হয়েছে আত-তাওয়াবুর রাহিম দিয়ে; ৯:১১৮-ও শেষ হয়েছে এই একই জোড়া নামে।"
+     }
+    },
+    {
+     "ref": "7:143",
+     "note": {
+      "en": "Musa (AS) asked to see his Lord; the mountain crumbled, he fell unconscious, and on waking said: “Exalted are You! I have repented to You.” Ibn Kathir reports Mujahid: he repented from asking to see Him. As-Sa‘di says the request came from love and longing to see his Lord, yet it did not fit its place, so he sought forgiveness for it and renewed his faith. Here a prophet repents from a request made in good faith.",
+      "bn": "মুসা (আঃ) রবকে দেখতে চাইলেন। পাহাড় ধসে গেল, তিনি বেহুঁশ হয়ে পড়লেন, আর হুঁশ ফিরলে বললেন: ‘আপনি পবিত্র! আমি আপনার কাছে তওবা করলাম।’ ইবনে কাসির মুজাহিদের কথা এনেছেন: তওবাটা ছিল তাঁকে দেখতে চাওয়ার আবদার থেকে। আস-সাদি বলেন, আবদারটা এসেছিল রবের প্রতি ভালোবাসা আর তাঁকে দেখার ব্যাকুলতা থেকে, তবু তা ঠিক জায়গায় পড়েনি। তাই তিনি তার জন্য মাফ চাইলেন আর ঈমান নতুন করে নিলেন। এখানে একজন নবী তওবা করছেন সরল মনে করা এক চাওয়া থেকে।"
+     }
+    },
+    {
+     "ref": "46:15",
+     "note": {
+      "en": "The man reaches his full strength and forty years and prays to be grateful, to do deeds Allah approves of, and for righteous offspring, then says: “I have repented to You, and I am of the Muslims.” Ibn Kathir calls this an instruction for anyone who reaches forty to renew repentance and turn to Allah with resolve. The next verse promises that from such people the best of their deeds is accepted and their misdeeds are passed over.",
+      "bn": "মানুষটি পূর্ণ শক্তিতে পৌঁছেছেন, বয়স চল্লিশ। তিনি দোয়া করছেন শোকরের তাওফিক চেয়ে, আল্লাহর পছন্দের আমল চেয়ে, নেক সন্তান চেয়ে, তারপর বলছেন: ‘আমি আপনার কাছে তওবা করলাম, আর আমি মুসলিমদের একজন।’ ইবনে কাসির বলেন, এতে চল্লিশে পৌঁছানো প্রত্যেকের জন্য নির্দেশনা আছে: তওবা নতুন করা আর দৃঢ় সংকল্প নিয়ে আল্লাহর দিকে ফেরা। পরের আয়াতের ওয়াদা: এমন লোকদের সেরা আমলগুলো কবুল করা হবে, আর তাদের ভুলগুলো ক্ষমা করে দেওয়া হবে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "call-to-all",
+   "title": {
+    "en": "The Call Goes to Everyone",
+    "bn": "ডাক সবার জন্য"
+   },
+   "body": [
+    {
+     "en": "The last group of ayat widens the circle. Prophet after prophet tells his people to seek forgiveness and then repent: Hud, Salih and Shu‘ayb (AS) in Surah Hud, a surah that opens with the same pair of commands in 11:3. All the believers together are told to repent. The offer reaches those at war with the Muslims (9:5, 9:11), those who spoke words of disbelief (9:74), and, as 85:10 shows, even those who tortured believers for their faith. In these ayat the warning falls on turning away, not on having sinned.",
+     "bn": "শেষ দলের আয়াতগুলো বৃত্তটা বড় করে দেয়। নবীর পর নবী নিজের কওমকে বলছেন, আগে মাফ চাও, তারপর তওবা করো: সূরা হুদে হুদ, সালিহ আর শুআইব (আঃ)। আর এই একই জোড়া হুকুম দিয়ে সূরাটি শুরুই হয়েছে, ১১:৩-এ। সব মুমিনকে একসঙ্গে তওবা করতে বলা হয়েছে। এই প্রস্তাব পৌঁছেছে মুসলমানদের বিরুদ্ধে যুদ্ধরতদের কাছে (৯:৫, ৯:১১), কুফরি কথা বলা লোকদের কাছে (৯:৭৪), আর ৮৫:১০ দেখায়, ঈমানের কারণে মুমিনদের নির্যাতনকারীদের কাছেও। এসব আয়াতে শাস্তির হুমকি আসে মুখ ফিরিয়ে নেওয়ার ওপর, গুনাহ করে ফেলার ওপর নয়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "11:3",
+     "note": {
+      "en": "Seek forgiveness, then repent: two commands joined by thumma. As-Sa‘di separates them by time: istighfār is for the sins already done, and tawbah is the return for the rest of one’s life. The promise attached reaches into this world too: good enjoyment until an appointed term, which he explains as until death, and every doer of good given the reward of his good.",
+      "bn": "মাফ চাও, তারপর তওবা করো: দুটি হুকুম, মাঝে ‘সুম্মা’। আস-সাদি দুটিকে সময় দিয়ে আলাদা করেছেন: ইস্তিগফার আগে করে ফেলা গুনাহর জন্য, আর তওবা বাকি জীবনের জন্য ফিরে আসা। সঙ্গের ওয়াদাটা এই দুনিয়ারও: নির্দিষ্ট সময় পর্যন্ত উত্তম ভোগ, যার অর্থ তিনি করেছেন মৃত্যু পর্যন্ত। আর প্রত্যেক সৎকর্মশীলকে তার সৎকর্মের প্রতিদান।"
+     }
+    },
+    {
+     "ref": "11:52",
+     "note": {
+      "en": "Hud (AS), speaking to ‘Ad, a people proud of their strength, repeats the same pair and attaches abundant rain and “strength added to your strength.” Ibn Kathir, like as-Sa‘di, reads the pair as forgiveness for past sins and repentance for what is to come. As-Sa‘di recalls that they used to say, “Who is stronger than us?”, so the promise is made in their own terms.",
+      "bn": "হুদ (আঃ) কথা বলছেন আদ জাতির সঙ্গে, যারা নিজেদের শক্তি নিয়ে গর্ব করত। একই জোড়া হুকুম, সঙ্গে ওয়াদা: আকাশ থেকে মুষলধারে বৃষ্টি, আর ‘তোমাদের শক্তির সঙ্গে আরও শক্তি’। ইবনে কাসির, আস-সাদির মতোই, জোড়াটাকে পড়েছেন অতীতের গুনাহর মাফ আর সামনের দিনের তওবা হিসেবে। আস-সাদি মনে করিয়ে দেন, এরা বলত, ‘আমাদের চেয়ে শক্তিশালী কে?’ তাই ওয়াদাটাও এসেছে তাদেরই ভাষায়।"
+     }
+    },
+    {
+     "ref": "24:31",
+     "note": {
+      "en": "At the end of the rulings on modesty comes: “Turn to Allah in repentance, all of you, O believers, that you might succeed.” As-Sa‘di observes that since some shortfall in such commands is certain, the call to repent follows; that addressing all believers shows every believer needs repentance; and that “to Allah” requires sincerity, not repenting for worldly safety or for show. Without repentance, he says, there is no way to success.",
+      "bn": "লজ্জা ও শালীনতার বিধানগুলোর শেষে এসেছে: ‘হে মুমিনগণ, তোমরা সবাই আল্লাহর কাছে তওবা করো, যাতে সফল হতে পারো।’ আস-সাদি লক্ষ করেছেন: এসব হুকুমে কিছু না কিছু ত্রুটি হবেই, তাই তওবার ডাক এসেছে ঠিক পরেই। সব মুমিনকে ডাকা হয়েছে, এতেই বোঝা যায় প্রত্যেক মুমিনের তওবা দরকার। আর ‘আল্লাহর কাছে’ কথাটা ইখলাস চায়: দুনিয়ার বিপদ থেকে বাঁচতে বা লোক দেখাতে তওবা নয়। তাঁর ভাষায়, তওবা ছাড়া সফলতার পথ নেই।"
+     }
+    },
+    {
+     "ref": "85:10",
+     "note": {
+      "en": "After the story of the people of the trench come those who persecuted the believing men and women “and then have not repented.” Ibn Kathir explains not repenting as not ceasing what they were doing and not regretting what they had done. Both he and as-Sa‘di quote al-Hasan al-Basri: look at this generosity; they killed His friends, and He still invites them to repent.",
+      "bn": "খন্দকওয়ালাদের ঘটনার পরে এসেছে তাদের কথা, যারা মুমিন নারী-পুরুষকে নির্যাতন করেছে, ‘তারপর তওবা করেনি।’ ইবনে কাসির তওবা না করার অর্থ করেছেন: যা করছিল তা থামায়নি, আর যা করেছিল তার জন্য অনুতপ্ত হয়নি। তিনি আর আস-সাদি দুজনেই হাসান বসরির কথা এনেছেন: এই উদারতা দেখো! তারা তাঁর প্রিয় বান্দাদের হত্যা করেছে, তবু তিনি তাদের তওবার দিকে ডাকছেন।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "When you slip, turn back the same day. 3:135 praises those who remember Allah and ask forgiveness, and do not knowingly persist in what they did.",
+   "bn": "পা ফসকালে সেদিনই ফিরে আসুন। ৩:১৩৫ প্রশংসা করেছে তাদের, যারা আল্লাহকে স্মরণ করে মাফ চায়, আর জেনেশুনে নিজের কাজে অটল থাকে না।"
+  },
+  {
+   "en": "For each sin, ask what setting it right means: return the money, make clear what you hid, as 2:160 and 2:279 require.",
+   "bn": "প্রতিটি গুনাহর বেলায় নিজেকে জিজ্ঞেস করুন, এখানে শুধরে নেওয়া মানে কী: টাকা ফেরত দেওয়া, লুকানো কথা স্পষ্ট করা। ২:১৬০ আর ২:২৭৯ ঠিক এটাই চায়।"
+  },
+  {
+   "en": "Do not save repentance for later. 4:18 refuses the repentance of one who carries on until death is present.",
+   "bn": "তওবা পরের জন্য তুলে রাখবেন না। মৃত্যু হাজির হওয়া পর্যন্ত যে গুনাহ চালিয়ে যায়, ৪:১৮ তার তওবা ফিরিয়ে দিয়েছে।"
+  },
+  {
+   "en": "Measure your repentance against ‘Umar’s definition, which Ibn Kathir records: leave the sin and do not return to it. If it recurs, repent again, as Ibn Kathir explains 3:135.",
+   "bn": "ইবনে কাসিরের উদ্ধৃত উমর (রাঃ)-এর সংজ্ঞায় নিজের তওবা মেপে দেখুন: গুনাহ ছাড়ুন, আর তাতে ফিরবেন না। আবার হয়ে গেলে আবার তওবা করুন, যেমনটা ইবনে কাসির ৩:১৩৫-এর ব্যাখ্যায় বলেছেন।"
+  },
+  {
+   "en": "Pair istighfār for the past with a concrete change for the days ahead, the order Hud (AS) gave his people in 11:52.",
+   "bn": "অতীতের জন্য ইস্তিগফার করুন, আর সামনের দিনের জন্য একটা নির্দিষ্ট বদল ঠিক করুন। ১১:৫২-তে হুদ (আঃ) নিজের কওমকে এই ক্রমেই বলেছিলেন।"
+  },
+  {
+   "en": "At a milestone such as forty, renew your repentance with the prayer of 46:15, asking also for gratitude, good deeds and righteous children.",
+   "bn": "চল্লিশের মতো কোনো মাইলফলকে পৌঁছালে ৪৬:১৫-এর দোয়া দিয়ে তওবা নতুন করুন; সঙ্গে শোকরের তাওফিক, নেক আমল আর নেক সন্তান চেয়ে নিন।"
+  }
+ ],
  "refs": [
+  "2:37",
   "2:159",
   "2:160",
   "2:278",
   "2:279",
   "3:89",
   "3:90",
+  "3:135",
   "4:16",
   "4:17",
   "4:18",
@@ -33,6 +374,8 @@
   "9:74",
   "9:104",
   "9:112",
+  "9:117",
+  "9:118",
   "11:3",
   "11:52",
   "11:61",
@@ -43,6 +386,7 @@
   "20:82",
   "24:4",
   "24:5",
+  "24:31",
   "25:69",
   "25:70",
   "25:71",
@@ -54,7 +398,42 @@
   "85:10"
  ],
  "videos": [],
- "reading": [],
- "sources": [],
- "related": []
+ "reading": [
+  {
+   "title": {
+    "en": "How to Repent in Islam",
+    "bn": "ইসলামে কীভাবে তওবা করবেন"
+   },
+   "url": "https://islamqa.info/en/answers/14289",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "A young man did all kinds of haraam actions, and he wants to repent",
+    "bn": "এক তরুণ নানা হারাম কাজ করেছে, এখন তওবা করতে চায়"
+   },
+   "url": "https://islamqa.info/en/answers/13990",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "Hadith: Allah extends His Hand by night so the sinner of the day may repent (Bengali)",
+    "bn": "হাদিস: আল্লাহ রাতে হাত প্রসারিত করেন, যেন দিনের অপরাধী তওবা করে"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/4318",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir",
+  "Tafsir as-Sa'di"
+ ],
+ "related": [
+  "th-forgiveness",
+  "allah-good-opinion",
+  "allah-loves"
+ ]
 }
