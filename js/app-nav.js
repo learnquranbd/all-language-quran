@@ -29,6 +29,7 @@ const APP_NAV_PRIMARY = [
       { tab: 'wordrepeat', emoji: '🔁', label: 'wr_title' },
       { tab: 'sarf', emoji: '🧬', label: 'sarf_title' },
       { tab: 'nuzul', emoji: '🌅', label: 'nuzul_title' },
+      { tab: 'surahnames', emoji: '📛', label: 'sn_title' },
       { tab: 'quiz', emoji: '❓', label: 'quiz' },
       { tab: 'audio', emoji: '🎧', label: 'audio' },
       { tab: 'khatmah', emoji: '📅', label: 'khatmah_title' },
@@ -72,8 +73,7 @@ const APP_NAV_PRIMARY = [
   { id: 'anbiya', emoji: '🕋', label: 'group_prophets', children: [
       { tab: 'prophets', emoji: '📜', label: 'prophets_title' },
       { tab: 'seerah',   emoji: '🌙', label: 'seerah_title' },
-      { tab: 'sahaba',   emoji: '🤝', label: 'sahaba_title' },
-      { tab: 'surahnames', emoji: '📛', label: 'sn_title' }
+      { tab: 'sahaba',   emoji: '🤝', label: 'sahaba_title' }
     ] },
   { id: 'islam', emoji: '💡', label: 'islam_group_title', children: [
       { tab: 'whyislam', emoji: '💡', label: 'whyislam_title' },
