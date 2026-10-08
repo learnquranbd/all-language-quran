@@ -25,6 +25,7 @@ const CHECKS = [
   'check-autolink.js',
   'check-encoding.js',
   'check-hope-index.js',
+  'check-themes.js',
   'check-sahaba-index.js',
   'check-seerah-index.js',
   'check-bn-digits.js',

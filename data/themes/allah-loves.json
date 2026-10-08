@@ -1,0 +1,507 @@
+{
+ "id": "allah-loves",
+ "status": "full",
+ "title": {
+  "en": "Whom Allah Loves",
+  "bn": "আল্লাহ যাদের ভালোবাসেন"
+ },
+ "tagline": {
+  "en": "The Quran names those Allah loves by what they do: twenty ayat on the qualities that draw His love.",
+  "bn": "আল্লাহ কাদের ভালোবাসেন, কুরআন তা জানিয়েছে তাদের কাজ দিয়ে। কোন গুণে তাঁর ভালোবাসা মেলে, তা নিয়ে বিশটি আয়াত।"
+ },
+ "intro": [
+  {
+   "en": "In the ayat gathered here, the Quran names the ones Allah loves by a quality, not by a name, a tribe or a lineage: the doers of good, those who keep repenting, those who purify themselves, the mindful, the patient, those who rely on Him, the just, and those who stand in ranks in His cause. Read together, the twenty ayat amount to a portrait. It is a portrait anyone can grow into, because every feature in it is something a person does, and keeps doing.",
+   "bn": "এখানে যে আয়াতগুলো একসঙ্গে রাখা হয়েছে, তাতে আল্লাহর প্রিয় মানুষদের পরিচয় এসেছে গুণ দিয়ে। নাম, গোত্র বা বংশ দিয়ে নয়। তারা সৎকর্মশীল, বারবার তওবাকারী, পবিত্রতা অবলম্বনকারী, মুত্তাকি, ধৈর্যশীল, আল্লাহর ওপর ভরসাকারী, ন্যায়পরায়ণ, আর তাঁর পথে সারিবদ্ধ হয়ে দাঁড়ানো মানুষ। বিশটি আয়াত পাশাপাশি পড়লে একটা পূর্ণ ছবি দাঁড়ায়। সে ছবির মতো হয়ে ওঠার পথ সবার জন্য খোলা, কারণ এর প্রতিটি রেখা মানুষের নিজের আমল, যা সে করে এবং করতে থাকে।"
+  },
+  {
+   "en": "Allah’s love is affirmed in these texts as His attribute, in plain words: “Allah will love you” (3:31), “a people He will love and who will love Him” (5:54). As-Sa'di, on 5:54, calls Allah’s love for a servant the greatest blessing He grants him and the highest favour, and says that when Allah loves a servant He makes the means easy for him, eases every hardship, and guides him to good deeds. This page takes such statements as they are given, without explaining them away and without asking how.",
+   "bn": "আল্লাহর ভালোবাসা তাঁর একটি গুণ। কুরআন সেটা সোজা ভাষায় বলেছে: “আল্লাহ তোমাদের ভালোবাসবেন” (৩:৩১), “এমন এক সম্প্রদায়, যাদের তিনি ভালোবাসবেন আর তারাও তাঁকে ভালোবাসবে” (৫:৫৪)। আস-সাদি ৫:৫৪-এর ব্যাখ্যায় লিখেছেন, বান্দার প্রতি আল্লাহর ভালোবাসাই তার ওপর তাঁর সবচেয়ে বড় নিয়ামত, সবচেয়ে বড় অনুগ্রহ। আল্লাহ কাউকে ভালোবাসলে তার জন্য উপায়-উপকরণ সহজ করে দেন, কঠিন কাজ হালকা করে দেন, ভালো কাজের তাওফিক দেন। এই পাতা কথাগুলো যেমন এসেছে তেমনই গ্রহণ করে। এর অন্য ব্যাখ্যা দাঁড় করায় না, ধরন নিয়েও প্রশ্ন তোলে না।"
+  },
+  {
+   "en": "The sections begin where 3:31 begins, with following the Messenger ﷺ, and then move through the qualities in the groupings the ayat themselves suggest: ihsan; repentance and purity; taqwa shown as keeping one’s word; patience, reliance and standing in ranks; and justice. The last section turns to what Allah’s love does for a servant once it is given. The Quran also names, in the same form, those Allah does not love; that list has its own page.",
+   "bn": "শুরু হয়েছে সেখান থেকে, যেখান থেকে ৩:৩১ শুরু করে: রাসূল ﷺ-এর অনুসরণ। এরপর গুণগুলো এসেছে সেই দলে ভাগ হয়ে, আয়াতগুলো নিজেরাই যেভাবে একটার সঙ্গে আরেকটাকে জুড়ে দেয়। প্রথমে ইহসান, তারপর তওবা ও পবিত্রতা, তারপর কথা রাখার তাকওয়া, তারপর ধৈর্য, তাওয়াক্কুল ও সারিবদ্ধতা, শেষে ন্যায়। শেষ অংশে দেখা হবে, আল্লাহ কাউকে ভালোবাসলে সেই ভালোবাসা বান্দার জীবনে কী করে। আল্লাহ যাদের ভালোবাসেন না, কুরআন একই ভঙ্গিতে তাদের কথাও বলেছে। সেই তালিকার জন্য আলাদা পাতা আছে।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "following-the-messenger",
+   "title": {
+    "en": "Love That Begins in Following",
+    "bn": "অনুসরণেই ভালোবাসার শুরু"
+   },
+   "body": [
+    {
+     "en": "Before the Quran names any single quality Allah loves, one ayah sets the terms for all of them. 3:31 answers people who claimed to love Allah: the proof is following the Messenger ﷺ, and the result is not only that their love is accepted but that Allah loves them. Ibn Kathir records al-Hasan al-Basri and other early scholars saying that this ayah was a test for those who made the claim. 5:54 then describes the people whom Allah loves and who love Him, and what they look like in practice.",
+     "bn": "কুরআন আলাদা আলাদা গুণের নাম নেওয়ার আগে একটি আয়াতে সবগুলোর শর্ত বেঁধে দিয়েছে। কিছু মানুষ দাবি করত, তারা আল্লাহকে ভালোবাসে। ৩:৩১ তাদের জবাব দিচ্ছে: প্রমাণ হলো রাসূল ﷺ-এর অনুসরণ। আর এর ফল শুধু এটুকু নয় যে তাদের ভালোবাসা কবুল হবে, বরং আল্লাহ নিজেই তাদের ভালোবাসবেন। ইবনে কাসির উল্লেখ করেছেন, হাসান বসরি ও পূর্বসূরি আলেমদের অনেকে বলেছেন, যারা এই দাবি করত, এই আয়াত দিয়ে আল্লাহ তাদের পরীক্ষা নিয়েছেন। এরপর ৫:৫৪ দেখায়, যাদের আল্লাহ ভালোবাসেন আর যারা তাঁকে ভালোবাসে, বাস্তবে তারা কেমন।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "3:31",
+     "note": {
+      "en": "As-Sa'di calls loving Allah a rank with no rank above it, and says a mere claim to it is not enough: its sign is following the Messenger ﷺ in word and deed, outwardly and inwardly. Notice how the ayah turns the request around. The listeners wanted to be counted as lovers of Allah; the answer promises that they will be loved, and forgiven. Ibn Kathir: what they gain is far more than what they sought.",
+      "bn": "আস-সাদি বলেছেন, আল্লাহকে ভালোবাসা এমন এক মর্যাদা, যার ওপরে আর কোনো মর্যাদা নেই। শুধু দাবি করলে এ মর্যাদা মেলে না। এর আলামত হলো কথায়, কাজে, বাইরে ও ভেতরে রাসূল ﷺ-এর অনুসরণ। আয়াতটি কীভাবে চাওয়াটাকে উল্টে দিয়েছে, খেয়াল করুন। শ্রোতারা চেয়েছিল আল্লাহর প্রেমিক হিসেবে গণ্য হতে। জবাবে প্রতিশ্রুতি এল, তারা নিজেরাই ভালোবাসা পাবে, সঙ্গে গুনাহের মাফও। ইবনে কাসিরের ভাষায়, তারা যা চেয়েছিল, পাবে তার চেয়ে অনেক বেশি।"
+     }
+    },
+    {
+     "ref": "5:54",
+     "note": {
+      "en": "Here the love runs both ways, describing a people: He loves them and they love Him. Its qualities follow: gentle with believers, firm against those who reject, striving, unafraid of blame. Al-Qurtubi derives adhillah from dhalul, a docile mount, “not from humiliation at all.” Who they were is a tafsir question: Ibn Kathir records al-Hasan al-Basri naming Abu Bakr and his companions, and others naming peoples of Yemen; al-Qurtubi, who calls the Yemen view the soundest on its revelation, also records that it covers everyone who strives until the Hour.",
+      "bn": "এখানে ভালোবাসা দুই দিক থেকেই এসেছে একটি সম্প্রদায়ের পরিচয় হিসেবে: তিনি তাদের ভালোবাসেন, তারাও তাঁকে ভালোবাসে। সঙ্গে সঙ্গে আয়াত তাদের গুণও বলে দেয়: মুমিনদের প্রতি কোমল, অস্বীকারকারীদের প্রতি কঠোর, আল্লাহর পথে সংগ্রামী, নিন্দুকের নিন্দায় নির্ভয়। আল-কুরতুবি বলেছেন, “আযিল্লাহ” শব্দটি এসেছে “যালুল” থেকে, মানে বাধ্য, সহজে বশ মানা বাহন। অপমান বা হীনতার সঙ্গে এর কোনো সম্পর্ক নেই। এই সম্প্রদায় কারা, সেটা তাফসিরের প্রশ্ন। ইবনে কাসির উল্লেখ করেছেন, হাসান বসরির মতে তারা আবু বকর (রাঃ) ও তাঁর সঙ্গীরা, আর অন্যদের মতে ইয়েমেনের কিছু গোত্র। আল-কুরতুবি নাজিলের ব্যাপারে ইয়েমেনের গোত্রদের মতকেই সবচেয়ে বিশুদ্ধ বলেছেন, তবে এ মতটিও এনেছেন যে আয়াতটি কিয়ামত পর্যন্ত আল্লাহর পথে সংগ্রামী সবার জন্য।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 6502",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-6502",
+     "text": {
+      "en": "The Messenger of Allah ﷺ said: “Allah said: ‘Whoever shows hostility to a wali (close friend) of Mine, I have declared war on him. My servant does not draw near to Me with anything more beloved to Me than what I have made obligatory upon him. And My servant keeps drawing near to Me with voluntary deeds until I love him. When I love him, I am his hearing with which he hears, his sight with which he sees, his hand with which he grips, and his foot with which he walks. If he asks Me, I will surely give him; and if he seeks My refuge, I will surely grant it. And I do not hesitate over anything I do as I hesitate over the soul of the believer: he dislikes death, and I dislike to hurt him.’”",
+      "bn": "রাসূলুল্লাহ ﷺ বলেছেন: “আল্লাহ বলেন, ‘যে আমার কোনো ওলির সঙ্গে শত্রুতা করে, আমি তার বিরুদ্ধে যুদ্ধ ঘোষণা করেছি। আমি বান্দার ওপর যা ফরজ করেছি, তার চেয়ে প্রিয় কিছু দিয়ে সে আমার নৈকট্য লাভ করে না। আর আমার বান্দা নফল আমলের মাধ্যমে আমার নিকটবর্তী হতেই থাকে, অবশেষে আমি তাকে ভালোবাসি। যখন আমি তাকে ভালোবাসি, তখন আমি তার কান হয়ে যাই, যা দিয়ে সে শোনে; তার চোখ, যা দিয়ে সে দেখে; তার হাত, যা দিয়ে সে ধরে; তার পা, যা দিয়ে সে চলে। সে আমার কাছে চাইলে আমি অবশ্যই তাকে দিই, আমার আশ্রয় চাইলে অবশ্যই আশ্রয় দিই। আমি যা করি, তার কোনো কিছুতে এতটা দ্বিধা করি না, যতটা দ্বিধা করি মুমিনের প্রাণের ব্যাপারে। সে মৃত্যুকে অপছন্দ করে, আর আমি তাকে কষ্ট দেওয়া অপছন্দ করি।’”"
+     },
+     "note": {
+      "en": "Two steps, in order. The obligations come first and are the dearest way to draw near; voluntary deeds, kept up, are what the hadith ties to “until I love him.” As-Sa'di quotes this hadith under 5:54 as part of what Allah’s love for a servant entails: that the servant draws near to Him often, through both the obligatory and the voluntary.",
+      "bn": "এখানে দুটি ধাপ, আর তাদের একটা ক্রম আছে। প্রথমে ফরজ, নৈকট্যের সবচেয়ে প্রিয় পথ সেটাই। তারপর নিয়মিত নফল, হাদিসটি যাকে জুড়ে দিয়েছে “অবশেষে আমি তাকে ভালোবাসি” কথাটির সঙ্গে। আস-সাদি ৫:৫৪-এর ব্যাখ্যায় এই হাদিস এনেছেন। তাঁর কথায়, আল্লাহ যাকে ভালোবাসেন, সে ফরজ ও নফল দুটো দিয়েই বেশি বেশি তাঁর নৈকট্য খোঁজে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "doers-of-good",
+   "title": {
+    "en": "Ihsan: Doing It Beautifully",
+    "bn": "ইহসান: সুন্দর করে করা"
+   },
+   "body": [
+    {
+     "en": "The quality most often attached to Allah’s love on this list is ihsan, and its doers, al-muhsinin, close five of these twenty ayat (2:195, 3:134, 3:148, 5:13, 5:93). As-Sa'di describes ihsan in two directions. Toward Allah, it is what the Prophet ﷺ defined: “that you worship Allah as though you see Him, and though you do not see Him, He sees you.” Toward people, it is bringing them benefit in religion and in life, and keeping harm from them. The four ayat below show ihsan in four settings: spending, anger, an opponent’s betrayal, and a past put right.",
+     "bn": "এই তালিকায় আল্লাহর ভালোবাসার সঙ্গে সবচেয়ে বেশিবার যে গুণ এসেছে, তা ইহসান। বিশটির মধ্যে পাঁচটি আয়াত (২:১৯৫, ৩:১৩৪, ৩:১৪৮, ৫:১৩, ৫:৯৩) শেষ হয়েছে মুহসিনদের প্রতি আল্লাহর ভালোবাসার ঘোষণা দিয়ে। আস-সাদি ইহসানকে দুই দিক থেকে দেখেছেন। আল্লাহর ইবাদতে ইহসান হলো নবী ﷺ যা বলেছেন: “এমনভাবে আল্লাহর ইবাদত করবে, যেন তুমি তাঁকে দেখছ; আর তুমি তাঁকে না দেখলেও তিনি তো তোমাকে দেখছেন।” মানুষের প্রতি ইহসান হলো তাদের দ্বীন ও দুনিয়ার উপকার করা, ক্ষতি সরিয়ে দেওয়া। নিচের চারটি আয়াতে ইহসান চার রকম পরিস্থিতিতে: খরচ করায়, রাগের মুহূর্তে, প্রতিপক্ষের বিশ্বাসঘাতকতার সামনে, আর অতীত শুধরে নেওয়ায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:195",
+     "note": {
+      "en": "“And do good” comes straight after spending and the warning against ruin. Ibn Kathir records Abu Ayyub al-Ansari explaining that the ruin meant was the Ansar’s wish to stay with their families and property and leave off jihad, not one fighter’s charge into enemy lines. As-Sa'di notes that the command to ihsan is left unqualified, so it covers wealth, influence used for others, teaching, meeting people’s needs, visiting the sick, and worship itself.",
+      "bn": "“আর সৎকর্ম করো” কথাটি এসেছে খরচের নির্দেশ আর ধ্বংসের সতর্কবাণীর ঠিক পরে। ইবনে কাসির আবু আইয়ুব আনসারি (রাঃ)-এর ব্যাখ্যা এনেছেন: এখানে ধ্বংস মানে শত্রুর সারিতে একা ঝাঁপিয়ে পড়া নয়। ধ্বংস হলো আনসারদের সেই ইচ্ছা, যখন তাঁরা ভেবেছিলেন পরিবার আর সম্পদ নিয়ে ঘরে থেকে যাবেন, জিহাদ ছেড়ে দেবেন। আস-সাদি বলেন, ইহসানের হুকুমটি কোনো শর্তে বাঁধা হয়নি। তাই এর মধ্যে পড়ে সম্পদ, অন্যের জন্য প্রভাব খাটানো, ইলম শেখানো, মানুষের প্রয়োজন মেটানো, রোগী দেখতে যাওয়া, এমনকি ইবাদতও।"
+     }
+    },
+    {
+     "ref": "3:134",
+     "note": {
+      "en": "Three acts, each harder than the last: spending in ease and in hardship, swallowing anger, and pardoning people. As-Sa'di points out that pardon goes further than restraint, because it drops the claim altogether and wishes the wrongdoer no harm. Ibn Kathir calls this conduct a kind of ihsan, which is why the ayah closes with Allah’s love for the muhsinin. As-Sa'di reads the ayah as part of the description of the muttaqin that begins in 3:133.",
+      "bn": "তিনটি কাজ, একটির চেয়ে পরেরটি কঠিন: সচ্ছলতায় ও অভাবে খরচ করা, রাগ গিলে ফেলা, আর মানুষকে মাফ করে দেওয়া। আস-সাদি দেখিয়েছেন, রাগ চেপে রাখার চেয়ে মাফ করা আরও এক ধাপ ওপরে। কারণ মাফ করলে পাওনার দাবিটাই ছেড়ে দেওয়া হয়, যে কষ্ট দিল তার অমঙ্গলও আর কামনা করা হয় না। ইবনে কাসির বলেন, এই আচরণ ইহসানেরই একটি রূপ, তাই আয়াতের শেষে মুহসিনদের প্রতি আল্লাহর ভালোবাসার কথা। আস-সাদির মতে আয়াতটি ৩:১৩৩-এ শুরু হওয়া মুত্তাকিদের বর্ণনারই অংশ।"
+     }
+    },
+    {
+     "ref": "5:13",
+     "note": {
+      "en": "The setting is hard: a people who broke their covenant, from whom treachery kept appearing. Yet the command is “pardon them and overlook,” and the reason given is that Allah loves the muhsinin. Ibn Kathir quotes one of the early scholars: you will never treat someone who disobeys Allah in your regard better than by obeying Allah in his regard.",
+      "bn": "প্রেক্ষাপট কঠিন। এক সম্প্রদায় অঙ্গীকার ভেঙেছে, তাদের দিক থেকে বারবার বিশ্বাসঘাতকতা আসছে। তবু হুকুম হলো, “তাদের মাফ করো, উপেক্ষা করো।” কারণ হিসেবে বলা হয়েছে, আল্লাহ মুহসিনদের ভালোবাসেন। ইবনে কাসির পূর্বসূরিদের একজনের কথা এনেছেন: কেউ তোমার ব্যাপারে আল্লাহর নাফরমানি করলে, তার ব্যাপারে তুমি আল্লাহর আনুগত্য করো, এর চেয়ে ভালো আচরণ তুমি তার সঙ্গে করতে পারবে না।"
+     }
+    },
+    {
+     "ref": "5:93",
+     "note": {
+      "en": "Revealed, as Ibn Kathir and as-Sa'di both relate, when people asked about believers who had died before wine was forbidden, while still drinking it. The answer climbs in three steps: taqwa with faith and good deeds, then taqwa with faith, then taqwa with ihsan. Ihsan is the top of the ladder, and the love is attached there. As-Sa'di adds that the condition is to stay on that path until death comes.",
+      "bn": "ইবনে কাসির ও আস-সাদি দুজনেই জানিয়েছেন, মদ হারাম হওয়ার পর কেউ কেউ প্রশ্ন তুলেছিলেন: যে মুমিনরা হারাম হওয়ার আগেই মারা গেছেন, অথচ তখনো মদ পান করতেন, তাঁদের কী হবে? এ আয়াত তারই জবাব। জবাবটি তিন ধাপে ওপরে ওঠে: ঈমান ও সৎকর্মের সঙ্গে তাকওয়া, তারপর ঈমানের সঙ্গে তাকওয়া, তারপর ইহসানের সঙ্গে তাকওয়া। সিঁড়ির সবার ওপরে ইহসান, আর আল্লাহর ভালোবাসার কথা এসেছে ঠিক সেখানেই। আস-সাদি যোগ করেছেন, শর্ত হলো মৃত্যু পর্যন্ত এ পথে টিকে থাকা।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "repent-and-purify",
+   "title": {
+    "en": "Turning Back and Keeping Clean",
+    "bn": "ফিরে আসা আর পবিত্র থাকা"
+   },
+   "body": [
+    {
+     "en": "Two ayat speak of Allah’s love for those who purify themselves, and the first pairs it with His love for those who repent. The word there, at-tawwabin, is an intensive form: not someone who repented once but someone who keeps returning. Ibn Kathir explains it as repenting “from the sin, even if it was repeated,” and as-Sa'di as repenting from their sins continually. As-Sa'di reads purification broadly in both ayat, covering the body, through washing and wudu, and the character, through leaving sins and ugly traits. The love is for the one who keeps washing, inside and out.",
+     "bn": "দুটি আয়াতে পবিত্রতা অবলম্বনকারীদের প্রতি আল্লাহর ভালোবাসার কথা আছে। প্রথমটিতে তার সঙ্গে জুড়ে আছে তওবাকারীদের প্রতি ভালোবাসা। শব্দটি “আত-তাওয়াবিন”, যার গঠনেই আধিক্য বোঝায়। একবার তওবা করে থেমে যাওয়া মানুষ নয়, বারবার ফিরে আসা মানুষ। ইবনে কাসির ব্যাখ্যা করেছেন, “গুনাহ থেকে তওবা, তা বারবার হয়ে গেলেও।” আস-সাদি বলেছেন, যারা সব সময় নিজেদের গুনাহ থেকে তওবা করে। দুটি আয়াতেই আস-সাদি পবিত্রতাকে বড় অর্থে নিয়েছেন: শরীরের পবিত্রতা গোসল ও অজু দিয়ে, চরিত্রের পবিত্রতা গুনাহ আর মন্দ স্বভাব ছেড়ে। ভালোবাসা তার জন্য, যে ভেতরে-বাইরে বারবার নিজেকে ধুয়ে নেয়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:222",
+     "note": {
+      "en": "A ruling on menstruation and marital relations that ends with love. As-Sa'di explains why: the restriction is a kindness from Allah that protects His servants from harm, so it closes by naming whom He loves. He reads al-mutatahhirin as those who keep clear of sins as well as of physical impurity, and draws from it that purity in general is beloved to Allah, which is why it is a condition for prayer and tawaf.",
+      "bn": "ঋতুস্রাব আর দাম্পত্য সম্পর্কের বিধান, অথচ শেষ হয়েছে ভালোবাসার কথায়। আস-সাদি এর কারণ বলেছেন: এই নিষেধ বান্দার প্রতি আল্লাহর দয়া, তাদের কষ্ট থেকে বাঁচানোর ব্যবস্থা। তাই আয়াত শেষে জানিয়ে দেয়, তিনি কাদের ভালোবাসেন। “আল-মুতাতাহহিরিন” বলতে তিনি বুঝেছেন তাদের, যারা শারীরিক নাপাকি থেকে যেমন দূরে থাকে, গুনাহ থেকেও তেমনি। এখান থেকে তিনি দেখিয়েছেন, পবিত্রতা মাত্রই আল্লাহর প্রিয়। এ কারণেই নামাজ ও তাওয়াফের জন্য পবিত্রতা শর্ত।"
+     }
+    },
+    {
+     "ref": "9:108",
+     "note": {
+      "en": "Said of the mosque at Quba, founded on taqwa from its first day, in contrast to a mosque built to cause harm and division. Its men “love to purify themselves,” and Allah loves those who purify themselves: love answered with love. Ibn Kathir and as-Sa'di both report that the Prophet ﷺ asked them about their purification, and they described washing with water after relieving themselves; as-Sa'di says they followed the stones with water.",
+      "bn": "কথাটি কুবার মসজিদ নিয়ে, যার ভিত প্রথম দিন থেকেই তাকওয়ার ওপর। তার বিপরীতে ছিল ক্ষতি আর বিভেদ ছড়ানোর জন্য বানানো এক মসজিদ। কুবার লোকেরা “পবিত্র হতে ভালোবাসে”, আর আল্লাহ পবিত্রতা অবলম্বনকারীদের ভালোবাসেন। তাদের ভালোবাসার জবাবে এসেছে আল্লাহর ভালোবাসা। ইবনে কাসির ও আস-সাদি দুজনেই জানিয়েছেন, নবী ﷺ তাদের পবিত্রতার পদ্ধতি জানতে চেয়েছিলেন। তারা বলেছিলেন, প্রাকৃতিক প্রয়োজন সেরে তারা পানি দিয়ে ধুয়ে নেন। আস-সাদির বর্ণনায়, ঢিলা ব্যবহারের পর তারা পানিও ব্যবহার করতেন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "keeping-the-word",
+   "title": {
+    "en": "Taqwa That Keeps Its Word",
+    "bn": "যে তাকওয়া কথা রাখে"
+   },
+   "body": [
+    {
+     "en": "All three ayat on this list that end with “Allah loves al-muttaqin” arise from promises and treaties. Taqwa is often imagined as a private fear felt in worship; these ayat show it in contracts, trusts and agreements, including agreements with people who are not Muslim. As-Sa'di, on 3:76, says the covenant meant includes both what a servant owes his Lord and what he has pledged to people, and that taqwa here means avoiding wrongs in both. On 9:4 he puts it plainly: Islam does not command treachery; it commands faithfulness.",
+     "bn": "এই তালিকায় যে তিনটি আয়াত “আল্লাহ মুত্তাকিদের ভালোবাসেন” বলে শেষ হয়েছে, তিনটিরই প্রেক্ষাপট প্রতিশ্রুতি আর চুক্তি। আমরা সাধারণত তাকওয়াকে ভাবি ইবাদতের সময়ের গোপন ভয় হিসেবে। এই আয়াতগুলো তাকওয়াকে দেখায় লেনদেনে, আমানতে, চুক্তিতে, এমনকি অমুসলিমদের সঙ্গে করা চুক্তিতেও। আস-সাদি ৩:৭৬-এর ব্যাখ্যায় বলেছেন, এখানে অঙ্গীকার মানে রবের প্রতি বান্দার দায়ও, মানুষকে দেওয়া কথাও। আর তাকওয়া মানে দুই জায়গাতেই অন্যায় থেকে বেঁচে থাকা। ৯:৪-এর ব্যাখ্যায় তিনি সোজা বলে দিয়েছেন: ইসলাম বিশ্বাসঘাতকতার হুকুম দেয় না, হুকুম দেয় কথা রাখার।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "3:76",
+     "note": {
+      "en": "It answers a claim quoted in 3:75: that there is no blame in taking the wealth of the unlettered. “Bala,” the ayah replies: yes, there is. Whoever fulfils his pledge and is mindful of Allah is loved. As-Sa'di observes that the love follows the quality, not the lineage: whoever keeps faith and fears Allah, unlettered or otherwise, is among those Allah loves, and whoever betrays is not.",
+      "bn": "৩:৭৫-এ একটি দাবি উদ্ধৃত হয়েছে: নিরক্ষর লোকদের সম্পদ মেরে দিলে কোনো দোষ নেই। এ আয়াত শুরুই হয়েছে “বালা” দিয়ে, মানে: অবশ্যই দোষ আছে। যে নিজের অঙ্গীকার পূর্ণ করে আর আল্লাহকে ভয় করে, আল্লাহ তাকেই ভালোবাসেন। আস-সাদি খেয়াল করিয়েছেন, ভালোবাসা এখানে গুণের সঙ্গে বাঁধা, বংশের সঙ্গে নয়। নিরক্ষর হোক বা অন্য কেউ, যে কথা রাখে আর আল্লাহকে ভয় করে, সে আল্লাহর প্রিয়। আর যে খেয়ানত করে, সে নয়।"
+     }
+    },
+    {
+     "ref": "9:4",
+     "note": {
+      "en": "This comes in the passage that opens Surat at-Tawbah by ending the treaties with the polytheists. The exception is precise: those who did not fall short toward you in anything and backed no one against you. For them, complete the treaty to its term. Ibn Kathir says Allah was encouraging the honouring of such treaties, and he explains the muttaqin at the end of the ayah as those who keep their promises.",
+      "bn": "আয়াতটি এসেছে সূরা তাওবার শুরুর সেই অংশে, যেখানে মুশরিকদের সঙ্গে চুক্তির অবসান ঘোষণা করা হচ্ছে। ব্যতিক্রমটি খুব মেপে বলা: যারা তোমাদের প্রতি কোনো ত্রুটি করেনি, তোমাদের বিরুদ্ধে কাউকে সাহায্যও করেনি। তাদের সঙ্গে চুক্তি পূর্ণ করো মেয়াদ শেষ হওয়া পর্যন্ত। ইবনে কাসির বলেন, আল্লাহ এখানে এমন চুক্তি রক্ষায় উৎসাহ দিয়েছেন। আয়াতের শেষে মুত্তাকি বলতে তিনি বুঝিয়েছেন তাদের, যারা কথা রাখে।"
+     }
+    },
+    {
+     "ref": "9:7",
+     "note": {
+      "en": "Here keeping faith is reciprocal and ongoing: as long as they stay upright toward you, stay upright toward them. Ibn Kathir identifies the treaty as the one made at al-Hudaybiyyah and records that the Muslims kept it until Quraysh broke it by helping their allies, Banu Bakr, against Khuza'ah, the allies of the Prophet ﷺ. The love is for the side that stays straight for as long as the other side does.",
+      "bn": "এখানে কথা রাখা দুই পক্ষের, আর তা চলমান: তারা যতদিন তোমাদের সঙ্গে ঠিক থাকে, তোমরাও তাদের সঙ্গে ঠিক থাকো। ইবনে কাসির জানিয়েছেন, এটি হুদাইবিয়ায় হওয়া চুক্তি। মুসলমানরা চুক্তিটি রক্ষা করেছিলেন, যতদিন না কুরাইশ তা ভাঙল। কুরাইশ তাদের মিত্র বনু বকরকে সাহায্য করেছিল নবী ﷺ-এর মিত্র খুযাআর বিরুদ্ধে। আল্লাহর ভালোবাসা সেই পক্ষের জন্য, যে অন্য পক্ষ যতদিন সোজা থাকে, ততদিন নিজেও সোজা থাকে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "steadfast-and-reliant",
+   "title": {
+    "en": "Steadfast, Reliant, Standing in Ranks",
+    "bn": "অবিচল, ভরসাকারী, সারিবদ্ধ"
+   },
+   "body": [
+    {
+     "en": "Four ayat come from times of fighting, three of them from the long passage of Al ‘Imran that follows the Battle of Uhud, when the Muslims had been badly shaken. They name three more qualities Allah loves: patience under loss, reliance on Him once a decision is made, and standing together in an unbroken line. The setting is battle, but what each ayah describes reaches past it: not losing heart, keeping one’s tongue on prayer, deciding with others and then trusting Allah, and not leaving a gap for someone else to fill.",
+     "bn": "চারটি আয়াতের প্রেক্ষাপট যুদ্ধ। তিনটি এসেছে সূরা আলে ইমরানের সেই দীর্ঘ অংশ থেকে, যা উহুদ যুদ্ধের পরে নাজিল হয়েছে, যখন মুসলমানরা প্রচণ্ড ধাক্কা খেয়েছিলেন। এগুলোতে আল্লাহর প্রিয় আরও তিনটি গুণের নাম আছে: ক্ষতির মুখে ধৈর্য, সিদ্ধান্ত নেওয়ার পর আল্লাহর ওপর ভরসা, আর ফাঁকহীন এক সারিতে একসঙ্গে দাঁড়ানো। প্রেক্ষাপট যুদ্ধের হলেও কথাগুলো তার বাইরেও খাটে। হিম্মত না হারানো, মুখে শুধু দোয়া রাখা, অন্যদের সঙ্গে পরামর্শ করে সিদ্ধান্ত নিয়ে আল্লাহর ওপর ভরসা করা, আর নিজের জায়গা ফাঁকা রেখে অন্যের ঘাড়ে না চাপানো।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "3:146",
+     "note": {
+      "en": "Ibn Kathir places this ayah as comfort for the believers after what they suffered at Uhud: many a prophet fought with large bands of followers beside him, and they did not lose heart, weaken or give in. Three verbs, three failures avoided. Ibn Kathir quotes Ibn Ishaq: “This is patience,” and the ayah ends that Allah loves the patient. As-Sa'di calls it consolation for the believers and a call to do as those followers did.",
+      "bn": "ইবনে কাসির বলেন, উহুদে মুমিনরা যে কষ্ট পেয়েছিলেন, তার পর তাঁদের সান্ত্বনা দিতে এ আয়াত। কত নবী যুদ্ধ করেছেন, তাঁদের সঙ্গে ছিল অনুসারীদের বড় বড় দল। তারা হিম্মত হারায়নি, দুর্বল হয়নি, মাথা নোয়ায়নি। তিনটি ক্রিয়া, তিনটি পতন থেকে বেঁচে থাকা। ইবনে কাসির ইবনে ইসহাকের কথা এনেছেন: “এরই নাম ধৈর্য।” আর আয়াত শেষ হয়েছে এ কথায় যে আল্লাহ ধৈর্যশীলদের ভালোবাসেন। আস-সাদির মতে এটি মুমিনদের জন্য সান্ত্বনা, সঙ্গে ওই অনুসারীদের মতো হওয়ার আহ্বান।"
+     }
+    },
+    {
+     "ref": "3:148",
+     "note": {
+      "en": "The ayah between (3:147) records what those followers said: only a prayer, for forgiveness of their sins and excesses, for firm feet and for help. This ayah gives the result: the reward of this world, and the good reward of the Hereafter. Only the second is called good. The closing word also changes, from the patient to the muhsinin; as-Sa'di says they were rewarded so because they did their deeds with ihsan.",
+      "bn": "মাঝের আয়াতটি (৩:১৪৭) জানায়, ওই অনুসারীরা মুখে কী বলেছিলেন: শুধু একটি দোয়া। গুনাহ আর বাড়াবাড়ির মাফ, পায়ের দৃঢ়তা আর সাহায্য চাওয়া। এ আয়াত দেখায় তার ফল: দুনিয়ার প্রতিদান, আর আখিরাতের উত্তম প্রতিদান। লক্ষ করুন, “উত্তম” বলা হয়েছে শুধু দ্বিতীয়টিকে। শেষ শব্দটিও বদলে গেছে, ধৈর্যশীল থেকে মুহসিন। আস-সাদি বলেন, তাঁরা আমল করেছিলেন ইহসানের সঙ্গে, তাই এমন প্রতিদান পেয়েছেন।"
+     }
+    },
+    {
+     "ref": "3:159",
+     "note": {
+      "en": "The order matters: leniency, which the ayah calls a mercy from Allah; pardon for what they owed you; asking forgiveness for them; consulting them; then, once decided, trusting Allah. Ibn Kathir explains: after the consultation is done and you have decided, rely on Allah in that decision. Reliance comes after counsel and resolve, not in place of them. As-Sa'di defines it as leaning on Allah’s power while disowning one’s own.",
+      "bn": "ক্রমটা খেয়াল করার মতো। প্রথমে কোমলতা, যাকে আয়াত বলছে আল্লাহর রহমত। তারপর তোমার প্রতি তাদের ত্রুটি মাফ করা, তাদের জন্য ইস্তিগফার, তাদের সঙ্গে পরামর্শ। আর সিদ্ধান্ত হয়ে গেলে আল্লাহর ওপর ভরসা। ইবনে কাসিরের ব্যাখ্যা: পরামর্শ সেরে সিদ্ধান্ত নেওয়ার পর সেই সিদ্ধান্তে আল্লাহর ওপর ভরসা করো। অর্থাৎ তাওয়াক্কুল আসে পরামর্শ আর দৃঢ় সংকল্পের পরে, তাদের বদলে নয়। আস-সাদির সংজ্ঞায় তাওয়াক্কুল হলো নিজের শক্তির ওপর থেকে ভরসা তুলে আল্লাহর শক্তির ওপর নির্ভর করা।"
+     }
+    },
+    {
+     "ref": "61:4",
+     "note": {
+      "en": "Ibn Kathir records Muqatil ibn Hayyan: believers had said that if they knew the deeds dearest to Allah they would do them, and this ayah told them; the surah opens by rebuking those who say what they do not do. Ibn ‘Abbas likened the ranks to a building whose parts are cemented together so that it does not move. As-Sa'di draws out that each group should hold its own post, so that no one leans on another.",
+      "bn": "ইবনে কাসির মুকাতিল ইবনে হাইয়ানের বর্ণনা এনেছেন: মুমিনরা বলেছিলেন, আল্লাহর কাছে সবচেয়ে প্রিয় আমল কোনগুলো জানলে তাঁরা তা-ই করতেন। এ আয়াত তাঁদের সেটা জানিয়ে দিল। আর সূরাটি শুরুই হয়েছে তাদের তিরস্কার দিয়ে, যারা যা বলে তা করে না। ইবনে আব্বাস (রাঃ) সারিটিকে তুলনা করেছেন এমন দালানের সঙ্গে, যার অংশগুলো এমনভাবে জোড়া যে তা নড়ে না। আস-সাদি এখান থেকে দেখিয়েছেন, প্রতিটি দল নিজের জায়গা আঁকড়ে থাকবে, কেউ অন্যের ওপর ভর দিয়ে বসে থাকবে না।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "justice",
+   "title": {
+    "en": "Justice, Even Toward Opponents",
+    "bn": "ন্যায়, প্রতিপক্ষের প্রতিও"
+   },
+   "body": [
+    {
+     "en": "Al-muqsitin, those who act with equity, appear three times on this list, and each time the justice is owed to someone easy to wrong: people who came only hoping for a ruling that suited them, a believing faction that started a fight, and non-Muslims who have not fought the believers. As-Sa'di, on 5:42, says the ayah shows the merit of justice in judging between people and that Allah loves it, even when the parties are wrongdoers and enemies. The hadith below widens the circle from the courtroom to the home.",
+     "bn": "এই তালিকায় “আল-মুকসিতিন”, অর্থাৎ ন্যায়পরায়ণদের কথা এসেছে তিনবার। প্রতিবারই ন্যায় করতে হচ্ছে এমন কারও সঙ্গে, যার প্রতি অন্যায় করা সহজ। এক দল এসেছিল শুধু নিজেদের মনমতো রায়ের আশায়। এক মুমিন দল নিজেরাই লড়াই বাধিয়েছে। আর আছে সেই অমুসলিমরা, যারা মুমিনদের সঙ্গে যুদ্ধ করেনি। আস-সাদি ৫:৪২-এর ব্যাখ্যায় বলেছেন, এ আয়াত দেখায় মানুষের মধ্যে বিচারে ন্যায়ের মর্যাদা কত বড়, আর আল্লাহ তা ভালোবাসেন, পক্ষগুলো জালিম ও শত্রু হলেও। নিচের হাদিসটি ন্যায়ের পরিধি বিচারালয় থেকে ঘর পর্যন্ত টেনে আনে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "5:42",
+     "note": {
+      "en": "The parties have just been described as eager listeners to lies who consume the unlawful. The Prophet ﷺ is given a choice, to judge or to turn away, but if he judges it must be with equity. The mufassirs differ on whether that choice still stands: Ibn Kathir records Ibn ‘Abbas, Mujahid, Qatadah and others saying it was abrogated by 5:49, while as-Sa'di holds that it is not abrogated. On the duty of equity there is no difference.",
+      "bn": "এই পক্ষগুলোর পরিচয় আগেই দেওয়া হয়েছে: মিথ্যা শুনতে আগ্রহী, হারাম ভক্ষণকারী। নবী ﷺ-কে স্বাধীনতা দেওয়া হয়েছে, চাইলে বিচার করবেন, চাইলে ফিরিয়ে দেবেন। তবে বিচার করলে করতে হবে ইনসাফের সঙ্গে। এই স্বাধীনতা এখনো বহাল কি না, তা নিয়ে মুফাসসিরদের মতভেদ আছে। ইবনে কাসির উল্লেখ করেছেন, ইবনে আব্বাস (রাঃ), মুজাহিদ, কাতাদা ও আরও অনেকের মতে ৫:৪৯ দিয়ে তা রহিত হয়েছে। আস-সাদির মতে রহিত হয়নি। কিন্তু বিচার করলে ইনসাফ করতেই হবে, এ নিয়ে কোনো মতভেদ নেই।"
+     }
+    },
+    {
+     "ref": "49:9",
+     "note": {
+      "en": "Ibn Kathir points out that Allah calls both fighting groups believers. The steps are exact: make peace; if one side transgresses, fight it until it returns to Allah’s command; then reconcile with justice. As-Sa'di warns that a settlement can exist without justice, tilted toward one side for kinship, homeland or some other interest, and that is not the settlement commanded here.",
+      "bn": "ইবনে কাসির খেয়াল করিয়েছেন, লড়াইয়ে জড়ানো দুই দলকেই আল্লাহ মুমিন বলেছেন। ধাপগুলো নিখুঁত: আগে মীমাংসা। এক পক্ষ বাড়াবাড়ি করলে তার বিরুদ্ধে লড়াই, যতক্ষণ না সে আল্লাহর হুকুমে ফিরে আসে। তারপর ইনসাফের সঙ্গে আপস। আস-সাদি সতর্ক করেছেন, ইনসাফ ছাড়াও আপস হতে পারে। আত্মীয়তা, এলাকা বা অন্য কোনো স্বার্থে এক পক্ষের দিকে হেলে পড়া আপস। কিন্তু সেটা এখানে আদেশ করা আপস নয়।"
+     }
+    },
+    {
+     "ref": "60:8",
+     "note": {
+      "en": "Allah does not forbid kindness and fairness toward non-Muslims who have not fought you over religion or driven you from your homes. As-Sa'di says some believers had felt guilty keeping ties with relatives who were idolaters, and this ayah lifted that worry. Ibn Kathir cites under it the report, which he says both Sahihs record, of Asma’ bint Abi Bakr: her mother came to her still an idolater, and the Prophet ﷺ told her, “Yes, keep ties with your mother.”",
+      "bn": "দ্বীনের কারণে যারা তোমাদের সঙ্গে যুদ্ধ করেনি, ঘর থেকে বের করে দেয়নি, এমন অমুসলিমদের প্রতি সদাচার আর ইনসাফ করতে আল্লাহ নিষেধ করেন না। আস-সাদি জানিয়েছেন, কিছু মুমিন মুশরিক আত্মীয়দের সঙ্গে সম্পর্ক রাখাকে গুনাহ মনে করে অস্বস্তিতে ছিলেন। এ আয়াত সেই দুশ্চিন্তা দূর করেছে। ইবনে কাসির এখানে আসমা বিনতে আবি বকর (রাঃ)-এর বর্ণনা এনেছেন, যা তাঁর কথায় বুখারি ও মুসলিম দুটিতেই আছে। আসমার মা তখনো মুশরিক অবস্থায় তাঁর কাছে এসেছিলেন। নবী ﷺ বলেছিলেন, “হ্যাঁ, তোমার মায়ের সঙ্গে সম্পর্ক রাখো।”"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 1827",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-1827",
+     "text": {
+      "en": "The Messenger of Allah ﷺ said: “Indeed, those who act justly will be with Allah on pulpits of light, at the right of the Most Merciful, Mighty and Majestic, and both His hands are right: those who are just in their judgement, with their families, and in whatever they are put in charge of.”",
+      "bn": "রাসূলুল্লাহ ﷺ বলেছেন: “ন্যায়পরায়ণরা আল্লাহর কাছে নূরের মিম্বারে থাকবে, মহামহিম পরম দয়াময়ের ডান পাশে, আর তাঁর দুই হাতই ডান। তারা সেই লোক, যারা নিজেদের বিচারে, নিজেদের পরিবারে, আর যা কিছুর দায়িত্ব পায় তাতে ন্যায় করে।”"
+     },
+     "note": {
+      "en": "Allah’s love for the muqsitin in the ayat is matched here by their place with Him. The last words set the scope: justice is owed in rulings, at home, and in any charge a person holds. As-Sa'di quotes this hadith under 49:9 to show that even a man’s justice toward his own family can fall within what the ayah means.",
+      "bn": "আয়াতে আছে ন্যায়পরায়ণদের প্রতি আল্লাহর ভালোবাসা, আর এখানে তাঁর কাছে তাদের মর্যাদা। হাদিসের শেষ কথাগুলো পরিধি ঠিক করে দেয়: বিচারে, ঘরে, আর যেকোনো দায়িত্বে ন্যায় করতে হবে। আস-সাদি ৪৯:৯-এর ব্যাখ্যায় এই হাদিস এনে দেখিয়েছেন, নিজের পরিবারের প্রতি ন্যায়ও আয়াতের অর্থের মধ্যে পড়তে পারে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "signs-of-his-love",
+   "title": {
+    "en": "When Allah Loves a Servant",
+    "bn": "আল্লাহ যখন কোনো বান্দাকে ভালোবাসেন"
+   },
+   "body": [
+    {
+     "en": "Two ayat on the list speak less of the quality Allah loves than of what His love does once it is given. 19:96 promises those who believe and do good that the Most Merciful will appoint for them affection. 20:39 tells Musa (AS) that Allah cast love upon him from Himself, so that he would be raised under His eye. In both, love from Allah shows itself in hearts turning toward a person. Ibn Kathir and as-Sa'di both explain 19:96 with the hadith of Jibril below.",
+     "bn": "তালিকার দুটি আয়াত আল্লাহর প্রিয় কোনো গুণের চেয়ে বেশি বলে তাঁর ভালোবাসা পাওয়ার পর কী ঘটে, সে কথা। ১৯:৯৬ প্রতিশ্রুতি দেয়, যারা ঈমান আনে ও সৎকর্ম করে, দয়াময় তাদের জন্য ভালোবাসা তৈরি করে দেবেন। ২০:৩৯-এ আল্লাহ মূসা (আঃ)-কে জানাচ্ছেন, তিনি নিজের পক্ষ থেকে তাঁর ওপর ভালোবাসা ঢেলে দিয়েছিলেন, যাতে তিনি আল্লাহর চোখের সামনে বেড়ে ওঠেন। দুই জায়গাতেই আল্লাহর ভালোবাসার প্রকাশ ঘটে মানুষের মন সেই ব্যক্তির দিকে ঝুঁকে পড়ায়। ইবনে কাসির ও আস-সাদি দুজনেই ১৯:৯৬ ব্যাখ্যা করেছেন নিচের জিবরিলের হাদিস দিয়ে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "19:96",
+     "note": {
+      "en": "The word is wudd, which as-Sa'di glosses as love and affection. He explains that Allah places it for them in the hearts of His friends and of the people of heaven and earth, and that with it much of their affairs become easy. He adds a reason: Allah made them loved because they loved Him. Ibn Kathir ties the promise to deeds that please Allah because they accord with the Sharia of Muhammad ﷺ.",
+      "bn": "শব্দটি “উদ্দ”। আস-সাদি এর অর্থ করেছেন ভালোবাসা ও অন্তরঙ্গতা। তিনি বলেন, আল্লাহ তাঁর ওলিদের অন্তরে এবং আসমান-জমিনের বাসিন্দাদের অন্তরে তাদের জন্য এই ভালোবাসা রেখে দেন। এতে তাদের বহু কাজ সহজ হয়ে যায়। তিনি একটা কারণও বলেছেন: তারা আল্লাহকে ভালোবেসেছিল, তাই আল্লাহ তাদের প্রিয় করে দিয়েছেন। ইবনে কাসির এই প্রতিশ্রুতিকে জুড়েছেন সেই আমলের সঙ্গে, যা মুহাম্মাদ ﷺ-এর শরিয়ত মেনে হয় বলে আল্লাহ পছন্দ করেন।"
+     }
+    },
+    {
+     "ref": "20:39",
+     "note": {
+      "en": "Said to Musa (AS) about his infancy, when his mother cast him into the river and an enemy of Allah picked him up. Ibn Kathir explains “love from Me” as Allah making even his enemy love him, so that he was raised in Pharaoh’s own house; as-Sa'di says that everyone who saw him loved him. As-Sa'di adds that he never passed from one stage to the next except as Allah arranged it for his good.",
+      "bn": "কথাটি মূসা (আঃ)-কে বলা হচ্ছে তাঁর শিশুকাল নিয়ে। মা তাঁকে নদীতে ভাসিয়ে দিয়েছিলেন, আর তুলে নিয়েছিল আল্লাহর এক শত্রু। ইবনে কাসির “আমার পক্ষ থেকে ভালোবাসা”-র ব্যাখ্যা করেছেন এভাবে: আল্লাহ তাঁর শত্রুর মনেও তাঁর প্রতি ভালোবাসা জাগিয়ে দিলেন, ফলে তিনি বড় হলেন ফিরআউনের নিজের ঘরে। আস-সাদির ভাষায়, যে-ই তাঁকে দেখত, সে-ই তাঁকে ভালোবাসত। আস-সাদি আরও বলেন, জীবনের প্রতিটি ধাপ তিনি পার হয়েছেন ঠিক যেভাবে আল্লাহ তাঁর কল্যাণের জন্য সাজিয়েছেন।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 3209",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-3209",
+     "text": {
+      "en": "The Prophet ﷺ said: “When Allah loves a servant, He calls Jibril: ‘Allah loves so-and-so, so love him.’ So Jibril loves him. Then Jibril calls out among the people of heaven: ‘Allah loves so-and-so, so love him.’ So the people of heaven love him, and then acceptance is placed for him on earth.”",
+      "bn": "নবী ﷺ বলেছেন: “আল্লাহ যখন কোনো বান্দাকে ভালোবাসেন, তখন জিবরিলকে ডেকে বলেন, ‘আল্লাহ অমুককে ভালোবাসেন, তুমিও তাকে ভালোবাসো।’ তখন জিবরিল তাকে ভালোবাসেন। এরপর জিবরিল আসমানবাসীদের মধ্যে ঘোষণা দেন, ‘আল্লাহ অমুককে ভালোবাসেন, তোমরাও তাকে ভালোবাসো।’ তখন আসমানবাসীরা তাকে ভালোবাসে। তারপর জমিনে তার জন্য গ্রহণযোগ্যতা রেখে দেওয়া হয়।”"
+     },
+     "note": {
+      "en": "The order runs from above: Allah’s love first, then Jibril’s, then the people of heaven, and only then acceptance on earth. Being well received among people is the last link in the chain, not its cause. Ibn Kathir cites this hadith to explain 19:96, including a version in which the Prophet ﷺ himself cites the ayah as its meaning.",
+      "bn": "ক্রমটা ওপর থেকে নিচে: আগে আল্লাহর ভালোবাসা, তারপর জিবরিলের, তারপর আসমানবাসীদের, আর সবশেষে জমিনে গ্রহণযোগ্যতা। মানুষের কাছে সমাদর এই শিকলের শেষ কড়া, শুরুর কড়া নয়। ইবনে কাসির ১৯:৯৬-এর ব্যাখ্যায় হাদিসটি এনেছেন। তাঁর আনা এক বর্ণনায় নবী ﷺ নিজেই এই আয়াতকে হাদিসের অর্থ বলে উল্লেখ করেছেন।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "Test the claim of love against 3:31: pick one Sunnah of the Prophet ﷺ that you know but neglect, and begin it this week.",
+   "bn": "৩:৩১ দিয়ে নিজের ভালোবাসার দাবি যাচাই করুন। নবী ﷺ-এর এমন একটি সুন্নাহ বেছে নিন, যা জানেন কিন্তু করেন না, আর এ সপ্তাহেই শুরু করুন।"
+  },
+  {
+   "en": "Guard the obligatory prayers first, then add one voluntary deed you can keep up daily, as the hadith of the wali describes.",
+   "bn": "আগে ফরজ নামাজ ঠিক রাখুন। তারপর এমন একটি নফল আমল যোগ করুন, যা প্রতিদিন ধরে রাখতে পারবেন, যেমনটা ওলির হাদিসে বলা হয়েছে।"
+  },
+  {
+   "en": "Next time you are angered, hold back, then go one step further and pardon (3:134). Decide in advance whom you will forgive.",
+   "bn": "পরের বার রাগ উঠলে আগে নিজেকে সামলান, তারপর আরেক ধাপ এগিয়ে মাফ করে দিন (৩:১৩৪)। কাকে মাফ করবেন, তা আগেই ঠিক করে রাখুন।"
+  },
+  {
+   "en": "Make tawbah a habit rather than an event, and pair it with care over wudu and cleanliness (2:222, 9:108).",
+   "bn": "তওবাকে মাঝেমধ্যের ঘটনা নয়, রোজকার অভ্যাস বানান। সঙ্গে অজু আর পরিচ্ছন্নতার দিকে যত্ন নিন (২:২২২, ৯:১০৮)।"
+  },
+  {
+   "en": "Keep your agreements, and be fair at home and at work, including with people you dislike or disagree with (3:76, 60:8).",
+   "bn": "দেওয়া কথা রাখুন। ঘরে ও কর্মস্থলে ইনসাফ করুন, যাদের অপছন্দ করেন বা যাদের সঙ্গে মতে মেলে না, তাদের সঙ্গেও (৩:৭৬, ৬০:৮)।"
+  },
+  {
+   "en": "Before a decision, consult; once it is made, rely on Allah and stop second-guessing it (3:159).",
+   "bn": "সিদ্ধান্তের আগে পরামর্শ করুন। সিদ্ধান্ত হয়ে গেলে আল্লাহর ওপর ভরসা করুন, বারবার দোটানায় পড়বেন না (৩:১৫৯)।"
+  }
+ ],
+ "refs": [
+  "2:195",
+  "2:222",
+  "3:31",
+  "3:76",
+  "3:134",
+  "3:146",
+  "3:148",
+  "3:159",
+  "5:13",
+  "5:42",
+  "5:54",
+  "5:93",
+  "9:4",
+  "9:7",
+  "9:108",
+  "19:96",
+  "20:39",
+  "49:9",
+  "60:8",
+  "61:4"
+ ],
+ "refsDropped": [],
+ "videos": [
+  {
+   "title": "আল্লাহর সবচেয়ে প্রিয় বান্দা",
+   "ytId": "xuOA1A2cdEM",
+   "list": null,
+   "channel": "Dr. Khandaker Abdullah Jahangir Rh Official",
+   "watch": "https://www.youtube.com/watch?v=xuOA1A2cdEM"
+  },
+  {
+   "title": "Allah Loves...",
+   "ytId": null,
+   "list": "PLQ02IYL5pmhHLgbkpUu1a5igh6Hsff0eY",
+   "thumb": "https://i.ytimg.com/vi/u_VDvY0v-bo/hqdefault.jpg",
+   "channel": "Yaqeen Institute",
+   "watch": "https://www.youtube.com/playlist?list=PLQ02IYL5pmhHLgbkpUu1a5igh6Hsff0eY"
+  },
+  {
+   "title": "আল্লাহ কাদেরকে ভালবাসেন , জানেন কি",
+   "ytId": "qcCdU2YPbHQ",
+   "list": null,
+   "channel": "Be Better Production বাংলা ",
+   "watch": "https://www.youtube.com/watch?v=qcCdU2YPbHQ"
+  },
+  {
+   "title": "আল্লাহ্‌ যাদের বেশি পরীক্ষা করেন...",
+   "ytId": "vJ-GCT7doKY",
+   "list": null,
+   "channel": "Wafilife",
+   "watch": "https://www.youtube.com/watch?v=vJ-GCT7doKY"
+  },
+  {
+   "title": "দেখে নিন আল্লাহর পছন্দের বান্দা কারা এবং কেন??",
+   "ytId": "SRoEObUlEJo",
+   "list": null,
+   "channel": "SAIF KHAN",
+   "watch": "https://www.youtube.com/watch?v=SRoEObUlEJo"
+  },
+  {
+   "title": "আল্লাহ ক্ষমাশীল। ক্ষমা করাকে তিনি পছন্দ করেন..",
+   "ytId": "S2G79suT_gI",
+   "list": null,
+   "channel": "Islam Nipa",
+   "watch": "https://www.youtube.com/watch?v=S2G79suT_gI"
+  },
+  {
+   "title": "আল্লাহ যাকে ভালোবাসেন, তাদের পরীক্ষা করেন",
+   "ytId": "B7U31qj2WnQ",
+   "list": null,
+   "channel": "Hussain Jaamil",
+   "watch": "https://www.youtube.com/watch?v=B7U31qj2WnQ"
+  },
+  {
+   "title": "নিশ্চয় ধৈর্য্যশীলকে আল্লাহ পছন্দ করেন",
+   "ytId": "8-DKZ51B3G8",
+   "list": null,
+   "channel": "masud rana",
+   "watch": "https://www.youtube.com/watch?v=8-DKZ51B3G8"
+  },
+  {
+   "title": "Allah Smiles At Such A Person",
+   "ytId": "7qDlNhgDvmA",
+   "list": null,
+   "channel": "iLovUAllah™",
+   "watch": "https://www.youtube.com/watch?v=7qDlNhgDvmA"
+  },
+  {
+   "title": "Allah Loves This Type of Sinner",
+   "ytId": "BC-Rcc4SneM",
+   "list": null,
+   "channel": "LoveAllah328",
+   "watch": "https://www.youtube.com/watch?v=BC-Rcc4SneM"
+  },
+  {
+   "title": "ALLAH SMILES AT THIS SINNER",
+   "ytId": "9-qkm3Wkq2E",
+   "list": null,
+   "channel": "iLovUAllah™",
+   "watch": "https://www.youtube.com/watch?v=9-qkm3Wkq2E"
+  },
+  {
+   "title": "তিন ধরনের ব্যাক্তিকে দেখে আল্লাহ হাসেন|Allah Smiles At Such a Person",
+   "ytId": "oiB8RymMPaY",
+   "list": null,
+   "channel": "Jubair Imtiaj",
+   "watch": "https://www.youtube.com/watch?v=oiB8RymMPaY"
+  },
+  {
+   "title": "যাদের দিকে তাকিয়ে মহান আল্লাহ হাসেন! শায়খ মুখতার আহমাদ",
+   "ytId": "pPu39FKwk6M",
+   "list": null,
+   "channel": "Ismail Bin Andul Goni",
+   "watch": "https://www.youtube.com/watch?v=pPu39FKwk6M"
+  }
+ ],
+ "reading": [
+  {
+   "title": {
+    "en": "Signs of Allah’s Love for a Person and Attaining It",
+    "bn": "আল্লাহর ভালোবাসার আলামত ও তা পাওয়ার উপায় (ইংরেজি)"
+   },
+   "url": "https://islamqa.info/en/answers/10117",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "Hadith of the wali: drawing near through obligations and voluntary deeds (Bengali)",
+    "bn": "হাদিস: যে আমার কোনো ওলির সাথে শত্রুতা করবে, আমি তার সাথে যুদ্ধের ঘোষণা দিয়েছি"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/6337",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Hadith: Whoever shows hostility to a pious worshipper of Mine, I declare war against him",
+    "bn": "হাদিস: যে আমার কোনো ওলির সাথে শত্রুতা করবে (ইংরেজি)"
+   },
+   "url": "https://hadeethenc.com/en/browse/hadith/6337",
+   "site": "hadeethenc.com",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "The Meaning of Allah's Name Al-Wadud: Seeking the Love of Allah",
+    "bn": "আল্লাহর নাম আল-ওয়াদুদের অর্থ: আল্লাহর ভালোবাসার সন্ধান (ইংরেজি)"
+   },
+   "url": "https://yaqeeninstitute.org/read/blog/the-meaning-of-allahs-name-al-wadud-seeking-the-love-of-allah",
+   "site": "yaqeeninstitute.org",
+   "lang": "en"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir",
+  "Tafsir as-Sa'di",
+  "Tafsir al-Qurtubi"
+ ],
+ "related": [
+  "allah-dislikes",
+  "th-repentance",
+  "th-patience",
+  "allah-remembrance"
+ ]
+}

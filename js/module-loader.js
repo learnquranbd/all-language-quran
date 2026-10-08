@@ -53,6 +53,9 @@ LQ.Modules = (function () {
     tadabbur:      ['js/tadabbur-data.js', 'js/article-index.js', 'js/article-view.js', 'js/tadabbur.js'],
     hope:          ['js/hope-data.js', 'js/hope.js'],
   };
+  /* Theme pages (the Allah and Quranic Themes groups): one view, many tabs. */
+  ['allah', 'themes', 'allah-remembrance', 'allah-loves', 'allah-dislikes', 'allah-woe', 'allah-curse', 'allah-gratitude', 'allah-good-opinion', 'th-o-mankind', 'th-o-believers', 'th-sajdah', 'th-parables', 'th-resurrection', 'th-hereafter', 'th-judgement', 'th-wrongdoers', 'th-hell', 'th-repentance', 'th-patience', 'th-forgiveness', 'th-paradise']
+    .forEach((id) => { BUNDLES[id] = ['js/theme-pages.js']; });
 
   const state = {};   // name -> Promise
 

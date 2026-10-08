@@ -1,0 +1,618 @@
+{
+ "id": "allah-remembrance",
+ "status": "full",
+ "title": {
+  "en": "Remembering Allah",
+  "bn": "আল্লাহর স্মরণ"
+ },
+ "tagline": {
+  "en": "What the Quran means by dhikr: the promise behind it, the rest it gives, the prayer built around it, and the cost of forgetting.",
+  "bn": "কুরআনে জিকির মানে কী: এর পেছনের প্রতিশ্রুতি, এর এনে দেওয়া প্রশান্তি, একে ঘিরে গড়া নামাজ, আর ভুলে যাওয়ার মাশুল।"
+ },
+ "intro": [
+  {
+   "en": "The Arabic root dh-k-r covers three things English keeps apart: to mention, to remember, and to be reminded. The ayat on this page use all three. Some command words of praise; others ask for remembrance at the moment it matters, after a sin or in front of an enemy; a dozen tell a people to “remember the favour of Allah upon you” (3:103, 5:11, 33:9, 35:3). As-Sa‘di, commenting on 7:205, says remembrance can be by the heart, by the tongue, or by both together, and that the last is the most complete.",
+   "bn": "আরবি ধাতু যাল-কাফ-রা একসঙ্গে তিনটা কাজ বোঝায়: মুখে উল্লেখ করা, মনে রাখা, আর মনে পড়া বা উপদেশ নেওয়া। এই পাতার আয়াতগুলোতে তিনটাই আছে। কোথাও প্রশংসার বাক্য উচ্চারণের হুকুম। কোথাও ঠিক সেই মুহূর্তে আল্লাহকে মনে করার কথা, যখন সেটা সবচেয়ে দরকার: গুনাহের পরপর, কিংবা শত্রুর মুখোমুখি। আবার এক ডজন আয়াত বলছে, “তোমাদের ওপর আল্লাহর নিয়ামত স্মরণ করো” (৩:১০৩, ৫:১১, ৩৩:৯, ৩৫:৩)। ৭:২০৫-এর তাফসিরে আস-সা‘দি বলেছেন, জিকির হয় অন্তরে, হয় জবানে, আবার দুটো মিলেও হয়, আর এই শেষটাই সবচেয়ে পূর্ণ।"
+  },
+  {
+   "en": "The same root also names the Quran itself, adh-Dhikr, and many ayat on the list use the verb for taking heed: “that perhaps they will be reminded”. This page keeps the senses apart where the commentators do. It reads the ayat in seven themes: the promise in 2:152, the rest of hearts, remembrance “much” and at every hour, prayer as remembrance, remembrance in the market and on the battlefield, the Quran as adh-Dhikr, and what forgetting Him costs.",
+   "bn": "এই একই ধাতু থেকে কুরআনের নিজের একটা নাম এসেছে: আয-যিকর। তালিকার অনেক আয়াতে ক্রিয়াটার অর্থ আবার উপদেশ গ্রহণ করা, যেমন “যাতে তারা উপদেশ নেয়”। মুফাসসিররা যেখানে অর্থগুলো আলাদা করেছেন, এই পাতাও সেখানে আলাদা রেখেছে। আয়াতগুলো সাজানো হয়েছে সাতটা বিষয়ে: ২:১৫২-এর প্রতিশ্রুতি, অন্তরের প্রশান্তি, বেশি বেশি ও সব সময় জিকির, জিকির হিসেবে নামাজ, বাজারে ও যুদ্ধের ময়দানে জিকির, আয-যিকর নামে কুরআন, আর তাঁকে ভুলে যাওয়ার মাশুল।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "remember-me-i-remember-you",
+   "title": {
+    "en": "Remember Me, I Will Remember You",
+    "bn": "আমাকে স্মরণ করো, আমি তোমাদের স্মরণ করব"
+   },
+   "body": [
+    {
+     "en": "The shortest sentence on remembrance in the Quran is also its boldest: fadhkurūnī adhkurkum, “so remember Me; I will remember you” (2:152). The servant’s act is answered by an act of Allah with the same name. The commentators cited here do not settle on one gloss for either half, and their range is worth keeping: remembrance by tongue, by obedience, by gratitude. The two verses beside it show remembrance doing its work where it is hardest: just after a sin, and in the middle of a temptation.",
+     "bn": "জিকির নিয়ে কুরআনের সবচেয়ে ছোট বাক্যটাই সবচেয়ে সাহসী: ফাযকুরুনি আযকুরকুম, “অতএব আমাকে স্মরণ করো, আমি তোমাদের স্মরণ করব” (২:১৫২)। বান্দা যে কাজ করে, আল্লাহ তার জবাব দেন একই নামের কাজ দিয়ে। এখানে উদ্ধৃত মুফাসসিররা দুই অংশের কোনোটারই একটিমাত্র ব্যাখ্যায় থামেনি। জবানের জিকির, আনুগত্যের জিকির, শুকরিয়ার জিকির, এই বিস্তারটুকু মনে রাখার মতো। পাশের দুটো আয়াত দেখায়, জিকির সবচেয়ে কঠিন জায়গায় কীভাবে কাজ করে: গুনাহের ঠিক পরে, আর প্রলোভনের মাঝখানে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:152",
+     "note": {
+      "en": "The verse opens with “so”: it follows 2:151, the favour of sending the Messenger, and Ibn Kathir reads the command as the fitting response to that gift. At-Tabari explains it as “remember Me through obedience, I will remember you with mercy and forgiveness”, the reading of Sa‘id ibn Jubayr, and records as-Suddi: no servant remembers Allah without Allah remembering him. As-Sa‘di calls dhikr “the head of gratitude”, which is why it is commanded before thanks.",
+      "bn": "আয়াতের শুরু “অতএব” দিয়ে। এর আগের আয়াত ২:১৫১-তে রাসুল পাঠানোর নিয়ামতের কথা, আর ইবনে কাসির হুকুমটাকে পড়েছেন সেই দানের যথাযথ জবাব হিসেবে। আত-তাবারি ব্যাখ্যা দিয়েছেন সাঈদ ইবনে জুবাইরের কথায়: আনুগত্য দিয়ে আমাকে স্মরণ করো, আমি রহমত ও মাগফিরাত দিয়ে তোমাদের স্মরণ করব। তিনি আস-সুদ্দির কথাও এনেছেন: যে বান্দা আল্লাহকে স্মরণ করে, আল্লাহ তাকে স্মরণ করেন না, এমন হয় না। আস-সা‘দি জিকিরকে বলেছেন শুকরিয়ার মাথা। এ কারণেই শুকরিয়ার হুকুমের আগে এসেছে জিকিরের হুকুম।"
+     }
+    },
+    {
+     "ref": "3:135",
+     "note": {
+      "en": "Remembrance here is not a set phrase but a turning: those who commit an indecency or wrong themselves “remember Allah” and at once seek forgiveness. As-Sa‘di says what they remember: their Lord, and what He has threatened the disobedient with and promised the God-fearing; then they ask forgiveness while quitting the sin and regretting it. The verse closes on its condition: they do not persist in it knowingly.",
+      "bn": "এখানে জিকির কোনো নির্দিষ্ট বাক্য নয়, একটা ফিরে দাঁড়ানো। যারা অশ্লীল কাজ করে ফেলে বা নিজের ওপর জুলুম করে, তারা “আল্লাহকে স্মরণ করে” আর সঙ্গে সঙ্গে মাফ চায়। কী মনে পড়ে তাদের, আস-সা‘দি তা বলেছেন: নিজের রব, নাফরমানদের জন্য তাঁর হুঁশিয়ারি আর মুত্তাকিদের জন্য তাঁর ওয়াদা। এরপর তারা গুনাহ ছেড়ে দিয়ে, অনুতপ্ত হয়ে মাগফিরাত চায়। আয়াতের শেষে শর্তটাও আছে: জেনেশুনে তারা গুনাহে অটল থাকে না।"
+     }
+    },
+    {
+     "ref": "7:201",
+     "note": {
+      "en": "The God-fearing are not described as untouched. A ṭā’if, a passing impulse from Satan, does touch them; the difference is what follows: tadhakkarū, they remember, and suddenly they see. Ibn Kathir says they remember Allah’s punishment and reward, His promise and threat, and turn back. As-Sa‘di adds a practical detail: the one who fears Allah recalls through which door Satan came in, and repairs it with repentance.",
+      "bn": "মুত্তাকিরা এখানে নিষ্পাপ বলে বর্ণিত নন। শয়তানের দিক থেকে একটা কুমন্ত্রণা তাদেরও ছুঁয়ে যায়। তফাত পরের ধাপে: তারা স্মরণ করে, আর তখনই তাদের চোখ খুলে যায়। ইবনে কাসির বলেন, তারা আল্লাহর শাস্তি ও পুরস্কার, তাঁর ওয়াদা ও হুঁশিয়ারি মনে করে, তারপর ফিরে আসে। আস-সা‘দি একটা কাজের কথা যোগ করেছেন: আল্লাহভীরু মানুষ খেয়াল করে শয়তান কোন দরজা দিয়ে ঢুকেছিল, তারপর তওবা দিয়ে সেই ক্ষতি পুষিয়ে নেয়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hearts-at-rest",
+   "title": {
+    "en": "Where Hearts Find Rest",
+    "bn": "যেখানে অন্তর প্রশান্তি পায়"
+   },
+   "body": [
+    {
+     "en": "13:28 is the verse most often quoted on this subject, and it states a rule about hearts in general: by the remembrance of Allah hearts find rest (taṭma’innu). The two verses beside it complete the picture. Rest is not the only response the Quran expects: the same people whose hearts soften also shiver (39:23), and believers are rebuked when their hearts are slow to humble themselves (57:16). In two of the three, as-Sa‘di allows or prefers the reading that “the remembrance of Allah” is the Quran itself.",
+     "bn": "এ বিষয়ে সবচেয়ে বেশি উদ্ধৃত আয়াত ১৩:২৮, আর তাতে অন্তর নিয়ে একটা সাধারণ নিয়ম বলা হয়েছে: আল্লাহর জিকিরেই অন্তর প্রশান্তি পায়। পাশের দুই আয়াত ছবিটা পুরো করে। কুরআন শুধু প্রশান্তিই চায় না। যাদের অন্তর নরম হয়, তাদের গা-ও শিউরে ওঠে (৩৯:২৩)। আবার মুমিনদের অন্তর বিনয়ী হতে দেরি করলে তাদের তিরস্কারও করা হয় (৫৭:১৬)। তিনটার দুটোতে আস-সা‘দি এমন ব্যাখ্যাও রেখেছেন বা সেটাকেই অগ্রাধিকার দিয়েছেন যে, “আল্লাহর জিকির” বলতে খোদ কুরআনকে বোঝানো হয়েছে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "13:28",
+     "note": {
+      "en": "Two statements, not one. The first describes believers whose hearts are at rest; the second, opened by alā, “unquestionably”, states a rule. As-Sa‘di reads it as: hearts are fit to rest in nothing but His remembrance, since nothing is sweeter to a heart than love of its Creator, and its remembrance grows with its knowledge of Him. He records a second reading: the dhikr is the Quran, whose certainty settles the heart. At-Tabari glosses the verb as becoming still and at ease.",
+      "bn": "একটা নয়, দুটো কথা। প্রথমটায় সেই মুমিনদের বর্ণনা, যাদের অন্তর প্রশান্ত। দ্বিতীয়টা শুরু হয়েছে “আলা” দিয়ে, মানে জেনে রাখো, আর সেটা একটা নিয়ম। আস-সা‘দির ব্যাখ্যায়, অন্তরের জন্য তাঁর জিকির ছাড়া আর কিছুতে স্থির হওয়া মানায় না। কারণ স্রষ্টার ভালোবাসার চেয়ে মিষ্টি কিছু অন্তরের কাছে নেই, আর তাঁকে যত চেনে, জিকিরও তত বাড়ে। তিনি দ্বিতীয় একটা ব্যাখ্যাও এনেছেন: জিকির মানে কুরআন, যার নিশ্চয়তায় অন্তর থিতু হয়। আত-তাবারি ক্রিয়াটার অর্থ করেছেন শান্ত হওয়া ও স্বস্তি পাওয়া।"
+     }
+    },
+    {
+     "ref": "39:23",
+     "note": {
+      "en": "The effect of the Quran on those who fear their Lord comes in two movements: their skins shiver, then their skins and hearts soften “to the remembrance of Allah”. As-Sa‘di explains the order: they shiver at its warnings and soften at its mention of hope and encouragement. Ibn Kathir quotes Qatadah: this is the description of Allah’s friends; their skin shivers, their eyes weep and their hearts find rest in the remembrance of Allah.",
+      "bn": "যারা নিজের রবকে ভয় করে, তাদের ওপর কুরআনের প্রভাব আসে দুই ধাপে। প্রথমে গায়ের চামড়া শিউরে ওঠে, তারপর চামড়া আর অন্তর দুটোই নরম হয়ে আসে “আল্লাহর জিকিরের দিকে”। আস-সা‘দি এই ক্রমটা বুঝিয়েছেন: সতর্কবাণীতে তারা কেঁপে ওঠে, আর আশা ও উৎসাহের কথায় নরম হয়। ইবনে কাসির কাতাদার কথা এনেছেন: আল্লাহর বন্ধুদের পরিচয় এটাই। তাদের গা শিউরে ওঠে, চোখে পানি আসে, আর অন্তর আল্লাহর জিকিরে প্রশান্তি পায়।"
+     }
+    },
+    {
+     "ref": "57:16",
+     "note": {
+      "en": "A question with an edge: has the time not come? Muslim records that Ibn Mas‘ud said only four years separated their acceptance of Islam from this verse reproaching them (Sahih Muslim 3027). As-Sa‘di takes “the remembrance of Allah” here to be the Quran, and draws the lesson of the second half: hearts left long without being reminded harden, as happened to those given the Scripture before when “the period grew long” over them.",
+      "bn": "প্রশ্নটায় খোঁচা আছে: সময় কি এখনো আসেনি? মুসলিম বর্ণনা করেছেন, ইবনে মাসউদ (রাঃ) বলেছেন, তাঁদের ইসলাম গ্রহণ আর এই তিরস্কারের আয়াত নাজিলের মাঝে ব্যবধান ছিল মাত্র চার বছর (সহিহ মুসলিম ৩০২৭)। আস-সা‘দি এখানে “আল্লাহর জিকির” বলতে কুরআনই বুঝেছেন। আয়াতের দ্বিতীয় অংশ থেকে তিনি শিক্ষাটা টেনেছেন: যে অন্তরকে অনেক দিন মনে করিয়ে দেওয়া হয় না, তা শক্ত হয়ে যায়। আগে যাদের কিতাব দেওয়া হয়েছিল, দীর্ঘ সময় পেরোলে তাদের বেলায় এমনটাই ঘটেছিল।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "much-and-at-every-hour",
+   "title": {
+    "en": "Much, and at Every Hour",
+    "bn": "বেশি বেশি, সব সময়"
+   },
+   "body": [
+    {
+     "en": "Almost every other act of worship has a measure: so many units of prayer, so many days of fasting, a fixed share of wealth. Remembrance is commanded with the word kathīr, “much”. Ibn Kathir records Ibn ‘Abbas on 33:41: Allah set known limits to every duty He imposed and accepted the excuse of those with a valid excuse, except dhikr, for which He set no limit, and from which no one is excused unless forced. The verses below fill in the when and the how: morning and evening, quietly, and in every posture.",
+     "bn": "প্রায় সব ইবাদতেরই একটা মাপ আছে: নামাজের এত রাকাত, রোজার এত দিন, সম্পদের নির্দিষ্ট অংশ। জিকিরের হুকুম এসেছে “কাসির” শব্দ দিয়ে, মানে বেশি বেশি। ৩৩:৪১-এর তাফসিরে ইবনে কাসির ইবনে আব্বাস (রাঃ)-এর কথা এনেছেন: আল্লাহ বান্দার ওপর যা ফরজ করেছেন, সবকিছুর একটা জানা সীমা রেখেছেন, আর যার সঙ্গত ওজর আছে তার ওজর কবুল করেছেন। ব্যতিক্রম শুধু জিকির। এর কোনো সীমা নেই, আর জোর করে বাধা না দিলে এ থেকে কারও ওজর নেই। নিচের আয়াতগুলো বলে কখন আর কীভাবে: সকালে-সন্ধ্যায়, নিচু স্বরে, আর শরীরের সব অবস্থায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "33:41",
+     "note": {
+      "en": "The command is not only “remember Allah” but “remember Him with much remembrance” (dhikran kathīrā), followed in 33:42 by glorifying Him morning and evening. As-Sa‘di lists what it includes: tahlil, praise, glorification, takbir, and every word that brings one near to Allah. He sets a floor: at the least, keeping the morning and evening adhkar, those after the five prayers, and those tied to occasions. Dhikr, he adds, is worship by which a person gets ahead while at rest.",
+      "bn": "হুকুমটা শুধু “আল্লাহকে স্মরণ করো” নয়, “তাঁকে বেশি বেশি স্মরণ করো”। এর পরে ৩৩:৪২-এ আসে সকাল-সন্ধ্যায় তাঁর তাসবিহ। আস-সা‘দি গুনে দিয়েছেন এর ভেতরে কী কী পড়ে: তাহলিল, হামদ, তাসবিহ, তাকবির, আর এমন যেকোনো কথা যা আল্লাহর নৈকট্য আনে। একটা নিচের সীমাও বেঁধে দিয়েছেন: অন্তত সকাল-সন্ধ্যার জিকির, পাঁচ ওয়াক্ত নামাজের পরের জিকির, আর বিশেষ বিশেষ উপলক্ষের জিকির ধরে রাখা। তাঁর কথায়, জিকির এমন ইবাদত যা দিয়ে মানুষ আরামে থেকেও এগিয়ে যায়।"
+     }
+    },
+    {
+     "ref": "33:35",
+     "note": {
+      "en": "Ten qualities, each named for men and for women side by side, and the last is the only one qualified with “much”: those who remember Allah much. As-Sa‘di explains “much” as most of their time, especially the set times for adhkar: morning, evening and after the obligatory prayers. The same pairing of men and women, and the same words, return in the hadith below.",
+      "bn": "দশটা গুণ, প্রতিটা পুরুষ ও নারীর জন্য পাশাপাশি উল্লেখ করা। শেষ গুণটাই একমাত্র, যার সঙ্গে “বেশি” শব্দটা জুড়ে আছে: যারা আল্লাহকে বেশি বেশি স্মরণ করে। আস-সা‘দি “বেশি”-র ব্যাখ্যা দিয়েছেন জীবনের বেশির ভাগ সময়, বিশেষ করে জিকিরের নির্ধারিত সময়গুলো: সকাল, সন্ধ্যা আর ফরজ নামাজের পর। নারী-পুরুষের এই জোড় আর হুবহু এই শব্দগুলো নিচের হাদিসেও ফিরে এসেছে।"
+     }
+    },
+    {
+     "ref": "7:205",
+     "note": {
+      "en": "This verse supplies the manner: within yourself, humbly and in fear, below a loud voice, at the two ends of the day. Its last words name the opposite of remembrance: ghafla, heedlessness. As-Sa‘di says dhikr can be by the heart, by the tongue, or by both, the most complete form. Ibn Kathir notes that this Makkan verse came before the five prayers were ordained, and that dhikr is recommended without a raised voice.",
+      "bn": "এই আয়াত বলে দেয় জিকিরের ধরন: মনে মনে, বিনয় আর ভয় নিয়ে, উঁচু আওয়াজ ছাড়া, দিনের দুই প্রান্তে। শেষ কথায় জিকিরের উল্টোটার নাম এসেছে: গাফলত, মানে উদাসীনতা। আস-সা‘দি বলেন, জিকির হয় অন্তরে, জবানে, কিংবা দুটো মিলে, আর মিলিতটাই সবচেয়ে পূর্ণ। ইবনে কাসির জানিয়েছেন, মক্কায় নাজিল হওয়া এ আয়াত এসেছিল পাঁচ ওয়াক্ত নামাজ ফরজ হওয়ার আগে, আর জিকির উঁচু আওয়াজে না করাই মুস্তাহাব।"
+     }
+    },
+    {
+     "ref": "3:191",
+     "note": {
+      "en": "Here remembrance is what defines “people of understanding” (3:190): they remember Allah standing, sitting and on their sides, and reflect on the creation of the heavens and the earth. As-Sa‘di says the phrase covers every kind of dhikr by word and heart, and includes prayer itself: standing, or sitting if one cannot, or on one’s side. The verse joins remembrance with reflection, and the reflection ends in a supplication.",
+      "bn": "এখানে জিকিরই “বোধসম্পন্ন মানুষ”-এর পরিচয় (৩:১৯০)। তারা দাঁড়িয়ে, বসে, কাত হয়ে শুয়ে আল্লাহকে স্মরণ করে, আর আসমান-জমিনের সৃষ্টি নিয়ে চিন্তা করে। আস-সা‘দির মতে, কথাটা মুখের আর অন্তরের সব রকম জিকিরকে শামিল করে, নামাজকেও: দাঁড়িয়ে, না পারলে বসে, তাও না পারলে কাত হয়ে। আয়াতটা জিকিরের সঙ্গে চিন্তাকে জুড়ে দিয়েছে, আর সেই চিন্তা গিয়ে শেষ হয়েছে দোয়ায়।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 2676",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-2676",
+     "text": {
+      "en": "Abu Hurairah reported that the Messenger of Allah ﷺ was travelling on the road to Makkah and passed by a mountain called Jumdan. He said: “Go on; this is Jumdan. The mufarridūn have gone ahead.” They said: “And who are the mufarridūn, Messenger of Allah?” He said: “The men and the women who remember Allah much.”",
+      "bn": "আবু হুরাইরা (রাঃ) বর্ণনা করেন, রাসুলুল্লাহ ﷺ মক্কার পথে চলছিলেন। জুমদান নামের এক পাহাড়ের পাশ দিয়ে যাওয়ার সময় তিনি বললেন: “চলো, এ হলো জুমদান। মুফাররিদরা এগিয়ে গেছে।” সাহাবিরা জিজ্ঞেস করলেন: “হে আল্লাহর রাসুল, মুফাররিদ কারা?” তিনি বললেন: “যে পুরুষেরা আল্লাহকে বেশি বেশি স্মরণ করে, আর যে নারীরা বেশি বেশি স্মরণ করে।”"
+     },
+     "note": {
+      "en": "The answer repeats the last quality named in 33:35 almost exactly: adh-dhākirūna Allāha kathīran wa-dh-dhākirāt. Those who have “gone ahead” (sabaqa) are defined by nothing but the frequency of their remembrance, which matches as-Sa‘di’s remark on 33:41, using the same verb, that dhikr lets a person get ahead while at rest.",
+      "bn": "জবাবটা ৩৩:৩৫-এ উল্লেখ করা শেষ গুণটাই, প্রায় হুবহু: আয-যাকিরুনাল্লাহা কাসিরাও ওয়ায-যাকিরাত। যারা “এগিয়ে গেছে”, তাদের পরিচয় দেওয়া হয়েছে শুধু জিকিরের আধিক্য দিয়ে। ৩৩:৪১-এর তাফসিরে আস-সা‘দিও একই ক্রিয়া ব্যবহার করে বলেছেন, জিকিরে মানুষ আরামে থেকেও এগিয়ে যায়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "prayer-as-remembrance",
+   "title": {
+    "en": "Prayer: Remembrance at the Centre",
+    "bn": "নামাজ: জিকিরের কেন্দ্র"
+   },
+   "body": [
+    {
+     "en": "If dhikr is meant to be constant, prayer is where the Quran fixes it in time. In 20:14, among the first commands given to Musa (AS), prayer is established “for My remembrance”; in 29:45 the remembrance of Allah is called “greater”. Both phrases are short and grammatically open, and the commentators read them in more than one way. The readings are given below as each mufassir has them, not merged into one, because the difference changes what the verse asks of you.",
+     "bn": "জিকির যদি সার্বক্ষণিক হওয়ার কথা হয়, তবে নামাজ হলো সেই জায়গা যেখানে কুরআন একে সময়ের সঙ্গে বেঁধে দিয়েছে। ২০:১৪-তে মুসা (আঃ)-কে দেওয়া প্রথম দিকের হুকুমগুলোর একটা হলো, নামাজ কায়েম করো “আমার স্মরণের জন্য”। ২৯:৪৫-এ বলা হয়েছে, আল্লাহর জিকির “আরও বড়”। দুটো কথাই ছোট, আর ব্যাকরণে একাধিক অর্থের সুযোগ আছে, তাই মুফাসসিররা নানাভাবে পড়েছেন। নিচে প্রত্যেকের ব্যাখ্যা তাঁর নিজের মতো করেই রাখা হয়েছে, এক করে মেশানো হয়নি। কারণ পার্থক্যটা বদলে দেয় আয়াত আপনার কাছে কী চায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "20:14",
+     "note": {
+      "en": "Li-dhikrī can be read two ways, and at-Tabari records both: Mujahid, “when he prays, he remembers his Lord”; Ibrahim an-Nakha‘i, “he prays it when he remembers it”, meaning a forgotten prayer. Ibn Kathir cites for the second a hadith in Ahmad: whoever sleeps through a prayer or neglects it should pray it when he remembers it, “for Allah said: establish prayer for My remembrance”. At-Tabari prefers the first, since the wording is “My remembrance”, not “its remembrance”; as-Sa‘di too reads it as purpose.",
+      "bn": "“লি-যিকরি” দুইভাবে পড়া যায়, আর আত-তাবারি দুটোই এনেছেন। মুজাহিদের মতে, নামাজ পড়লে বান্দা তার রবকে স্মরণ করে। ইবরাহিম আন-নাখায়ির মতে, যখন মনে পড়বে তখন পড়ে নেবে, অর্থাৎ ভুলে যাওয়া নামাজ। দ্বিতীয় মতের পক্ষে ইবনে কাসির আহমাদের হাদিস এনেছেন: কেউ নামাজের সময় ঘুমিয়ে থাকলে বা গাফেল থাকলে, মনে পড়লেই যেন পড়ে নেয়, কারণ আল্লাহ বলেছেন, আমার স্মরণের জন্য নামাজ কায়েম করো। আত-তাবারি প্রথম মতটাকে অগ্রাধিকার দিয়েছেন, কারণ শব্দটা “আমার স্মরণ”, “তার স্মরণ” নয়। আস-সা‘দিও এটাকে উদ্দেশ্য অর্থেই পড়েছেন।"
+     }
+    },
+    {
+     "ref": "29:45",
+     "note": {
+      "en": "Ibn Kathir reads it as two goods within prayer: it restrains from indecency, and it contains the remembrance of Allah, the higher aim. As-Sa‘di agrees, noting that most commentators read it instead as dhikr outside prayer being greater than prayer, a view he finds weaker, since prayer is itself among the greatest dhikr. At-Tabari lists several readings and prefers the one reported from Ibn ‘Abbas and others: Allah’s remembrance of you is greater than your remembrance of Him, which returns the reader to 2:152.",
+      "bn": "ইবনে কাসিরের পাঠে নামাজের ভেতরে দুটো কল্যাণ: নামাজ অশ্লীলতা থেকে ফেরায়, আর তাতে আছে আল্লাহর জিকির, যা এর চেয়েও বড় লক্ষ্য। আস-সা‘দিও তা-ই বলেছেন। তবে তিনি জানিয়েছেন, অধিকাংশ মুফাসসির আয়াতটা পড়েছেন অন্যভাবে: নামাজের বাইরের জিকির নামাজের চেয়ে বড়। এই মতকে তিনি দুর্বল মনে করেন, কারণ নামাজ নিজেই সবচেয়ে বড় জিকিরগুলোর একটা। আত-তাবারি কয়েকটা ব্যাখ্যা উল্লেখ করে ইবনে আব্বাস (রাঃ) ও অন্যদের থেকে বর্ণিত মতটা বেছে নিয়েছেন: তোমরা আল্লাহকে যে স্মরণ করো, তার চেয়ে বড় হলো তোমাদের প্রতি আল্লাহর স্মরণ। কথাটা পাঠককে ফিরিয়ে নেয় ২:১৫২-তে।"
+     }
+    },
+    {
+     "ref": "4:103",
+     "note": {
+      "en": "Even after the fear prayer, shortened and performed on the move, the command is to remember Allah standing, sitting and lying on your sides. Ibn Kathir notes that dhikr after prayer is encouraged in general, and more strongly here because the prayer itself was reduced. As-Sa‘di gives reasons: fear keeps the prayer from yielding its full fruit, so remembrance after it makes up the gap, and remembrance is among the greatest strengtheners of a frightened heart.",
+      "bn": "ভয়ের নামাজ, যা সংক্ষিপ্ত আর চলতে চলতে আদায় করা হয়, তার পরেও হুকুম হলো দাঁড়িয়ে, বসে, শুয়ে আল্লাহকে স্মরণ করো। ইবনে কাসির বলেন, নামাজের পর জিকির সাধারণভাবেই উৎসাহিত, আর এখানে আরও জোর দিয়ে, কারণ নামাজটাই কাটছাঁট হয়েছে। আস-সা‘দি কারণ বুঝিয়েছেন: ভয়ের কারণে নামাজের পূর্ণ ফল মেলে না, তাই পরের জিকির সেই ঘাটতি পূরণ করে। আর ভীত অন্তরকে শক্ত করার সবচেয়ে বড় উপায়গুলোর একটা হলো জিকির।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "market-and-battlefield",
+   "title": {
+    "en": "In the Market and the Battle",
+    "bn": "বাজারে ও যুদ্ধের ময়দানে"
+   },
+   "body": [
+    {
+     "en": "The Quran does not place remembrance in a retreat from ordinary life. It sets it in the two places where it is easiest to lose: the market and the battlefield. The Friday verses send believers from trade to remembrance and back to trade with remembrance; 24:37 praises traders whom trade does not distract; and the order to remember Allah much in battle ends with the same words as the order after Friday prayer. 63:9 names what does the distracting: not trade alone, but wealth and children.",
+     "bn": "কুরআন জিকিরকে সাধারণ জীবন থেকে সরে গিয়ে নির্জনে বসার জিনিস বানায়নি। বরং রেখেছে সেই দুই জায়গায়, যেখানে একে হারানো সবচেয়ে সহজ: বাজার আর যুদ্ধের ময়দান। জুমার আয়াত মুমিনদের ব্যবসা থেকে জিকিরে পাঠায়, তারপর জিকির সঙ্গে নিয়ে আবার ব্যবসায় ফেরায়। ২৪:৩৭ এমন ব্যবসায়ীদের প্রশংসা করে, যাদের ব্যবসা তাদের ভুলিয়ে রাখে না। আর যুদ্ধে বেশি বেশি জিকিরের হুকুম যে কথায় শেষ হয়, জুমার পরের হুকুমও শেষ হয় হুবহু সেই কথায়। ৬৩:৯ বলে দেয় কী ভুলিয়ে রাখে: শুধু ব্যবসা নয়, সম্পদ আর সন্তানও।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "62:9",
+     "note": {
+      "en": "“Proceed to the remembrance of Allah” here is the Friday sermon and prayer; Ibn Kathir heads his comment “by attending the Khutbah and the Prayer”. The verb fas‘aw does not mean running: Ibn Kathir notes that ‘Umar and Ibn Mas‘ud recited it “proceed”, and as-Sa‘di explains it as giving the prayer priority over every other business. The ban on selling, he adds, lasts only for the time of the prayer.",
+      "bn": "এখানে “আল্লাহর জিকিরের দিকে ধাবিত হও” মানে জুমার খুতবা আর নামাজ। ইবনে কাসির তাঁর আলোচনার শিরোনামই দিয়েছেন: খুতবা ও নামাজে হাজির হওয়ার মাধ্যমে। “ফাসআও” মানে দৌড়ানো নয়। ইবনে কাসির জানিয়েছেন, উমর ও ইবনে মাসউদ (রাঃ) এটা পড়তেন “চলে যাও” শব্দে। আস-সা‘দির ব্যাখ্যায়, এর মানে নামাজকে সব কাজের আগে রাখা। তিনি এটাও বলেছেন, কেনাবেচার নিষেধ কেবল নামাজের সময়টুকুর জন্য।"
+     }
+    },
+    {
+     "ref": "62:10",
+     "note": {
+      "en": "Once the prayer ends, the believers are sent back into the land to seek Allah’s bounty, with remembrance still attached: “and remember Allah much”. As-Sa‘di gives the reason for the pairing: trade is a likely place for heedlessness, so the command to remember much comes with it. Ibn Kathir quotes Mujahid: a servant is not among those who remember Allah much until he remembers Him standing, sitting and lying down.",
+      "bn": "নামাজ শেষ হলে মুমিনদের আবার জমিনে ছড়িয়ে পড়তে বলা হয়েছে আল্লাহর অনুগ্রহ খুঁজতে, তবে জিকির সঙ্গে রেখেই: “আর আল্লাহকে বেশি বেশি স্মরণ করো”। দুটো কেন একসঙ্গে, আস-সা‘দি তা বলেছেন: ব্যবসায় ডুবে থাকলে জিকির থেকে গাফেল হয়ে পড়ার আশঙ্কা থাকে, তাই এর সঙ্গেই এসেছে বেশি জিকিরের হুকুম। ইবনে কাসির মুজাহিদের কথা এনেছেন: দাঁড়িয়ে, বসে, শুয়ে আল্লাহকে স্মরণ না করা পর্যন্ত কোনো বান্দা বেশি জিকিরকারীদের দলে গণ্য হয় না।"
+     }
+    },
+    {
+     "ref": "24:37",
+     "note": {
+      "en": "The verse does not praise men who gave up commerce. As-Sa‘di points out that they do trade, buy and sell, and that there is no harm in it; what is praised is that it does not distract them from the remembrance of Allah, prayer and zakah. Ibn Kathir records from Ibn ‘Abbas that the remembrance meant here is the obligatory prayers, and from as-Suddi that it is prayer in congregation.",
+      "bn": "আয়াতটা ব্যবসা ছেড়ে দেওয়া মানুষের প্রশংসা করছে না। আস-সা‘দি মনে করিয়ে দিয়েছেন, তারা ব্যবসা করে, কেনাবেচা করে, আর তাতে দোষ নেই। প্রশংসা এই কারণে যে, এসব তাদের আল্লাহর জিকির, নামাজ আর জাকাত থেকে ভুলিয়ে রাখে না। ইবনে কাসির ইবনে আব্বাস (রাঃ) থেকে এনেছেন, এখানে জিকির মানে ফরজ নামাজ, আর আস-সুদ্দি থেকে, জামাতে নামাজ।"
+     }
+    },
+    {
+     "ref": "63:9",
+     "note": {
+      "en": "The verb is the same as in 24:37, lā tulhikum, “let them not distract you”, but the distractions now are wealth and children, things loved for good reasons. As-Sa‘di says most souls are made to love them, and so come to put them before the love of Allah; those who let them, he says, are the losers, because they preferred what passes over what lasts.",
+      "bn": "ক্রিয়াটা ২৪:৩৭-এর মতোই, “তোমাদের যেন ভুলিয়ে না রাখে”। তবে এবার যা ভুলিয়ে রাখে তা সম্পদ আর সন্তান, যাদের ভালোবাসার সঙ্গত কারণও আছে। আস-সা‘দি বলেন, বেশির ভাগ মানুষের স্বভাবেই এদের প্রতি টান রাখা আছে, ফলে তারা এগুলোকে আল্লাহর ভালোবাসার আগে বসিয়ে দেয়। যারা তা করে, তাঁর কথায় তারাই ক্ষতিগ্রস্ত, কারণ তারা স্থায়ী জিনিসের বদলে বেছে নিয়েছে যা ফুরিয়ে যায়।"
+     }
+    },
+    {
+     "ref": "8:45",
+     "note": {
+      "en": "Facing an enemy, the order is to stand firm and to remember Allah much, ending in la‘allakum tufliḥūn, “that you may succeed”, the same words that close 62:10. As-Sa‘di counts patience, steadfastness and much remembrance among the greatest causes of victory, and on 4:103 he cites this very verse to show that remembrance, joined to patience and steadfastness, is a cause of success against an enemy.",
+      "bn": "শত্রুর মুখোমুখি হলে হুকুম হলো অটল থাকো আর আল্লাহকে বেশি বেশি স্মরণ করো, আর শেষ কথা “যাতে তোমরা সফল হও”। ৬২:১০-ও শেষ হয়েছে হুবহু এই কথায়। আস-সা‘দি সবর, অটলতা আর বেশি জিকিরকে বিজয়ের সবচেয়ে বড় উপায়গুলোর মধ্যে গুনেছেন। ৪:১০৩-এর তাফসিরেও তিনি এই আয়াতটা এনেছেন এটা দেখাতে যে, সবর আর অটলতার সঙ্গে জিকির শত্রুর বিরুদ্ধে সফলতার উপায়।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-quran-as-adh-dhikr",
+   "title": {
+    "en": "The Quran Called adh-Dhikr",
+    "bn": "কুরআনের নাম আয-যিকর"
+   },
+   "body": [
+    {
+     "en": "Not every dhikr on this page’s list is a person remembering Allah. The same root names the Quran, adh-Dhikr, and many verses use the verb for taking heed. The refrain of Surat al-Qamar (54:17, 22, 32, 40) asks “is there any who will remember?”; 74:54 calls the Quran a reminder; 21:48 uses the word for what was given to Musa and Harun (AS). This matters for reading: the commentators cited here read several well-known “remembrance” verses (13:28, 57:16, 20:124) partly or wholly as being about the Quran.",
+     "bn": "এই পাতার তালিকায় যত জায়গায় জিকির শব্দ এসেছে, সবখানে মানুষের আল্লাহকে স্মরণ করার কথা নয়। একই ধাতু থেকে কুরআনের নাম আয-যিকর, আর অনেক আয়াতে ক্রিয়াটার মানে উপদেশ গ্রহণ। সূরা আল-কামারের বারবার ফিরে আসা প্রশ্ন (৫৪:১৭, ২২, ৩২, ৪০): “আছে কি কেউ উপদেশ নেওয়ার?” ৭৪:৫৪ কুরআনকে বলেছে উপদেশ। ২১:৪৮ শব্দটা ব্যবহার করেছে মুসা ও হারুন (আঃ)-কে দেওয়া কিতাবের জন্য। পড়ার সময় এটা মাথায় রাখা জরুরি। এখানে উদ্ধৃত মুফাসসিররা জিকিরের কয়েকটা পরিচিত আয়াতকে (১৩:২৮, ৫৭:১৬, ২০:১২৪) আংশিক বা পুরোপুরি কুরআনের কথা হিসেবে পড়েছে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "15:9",
+     "note": {
+      "en": "The Quran names itself here with the noun: “We sent down adh-Dhikr”. Ibn Kathir identifies it as the Quran, which Allah protects from being changed or altered. As-Sa‘di explains the name: it contains a reminder (dhikrā) of every matter, and whoever wants to be reminded is reminded by it. The name tells the reader what the Book is for.",
+      "bn": "এখানে কুরআন নিজের নাম বলেছে বিশেষ্য দিয়ে: “আমিই আয-যিকর নাজিল করেছি”। ইবনে কাসির বলেন, এ হলো কুরআন, যাকে আল্লাহ পরিবর্তন ও বিকৃতি থেকে রক্ষা করেন। আস-সা‘দি নামটার ব্যাখ্যা দিয়েছেন: এতে প্রতিটা বিষয়ের উপদেশ আছে, আর যে উপদেশ নিতে চায়, সে এর থেকে উপদেশ পায়। কিতাবটা কীসের জন্য, নামেই তা বলা আছে।"
+     }
+    },
+    {
+     "ref": "54:17",
+     "note": {
+      "en": "Repeated four times in Surat al-Qamar, after the stories of destroyed peoples. As-Sa‘di explains the ease: its words are made easy to memorise and recite, its meanings to understand; and the dhikr covers everything one takes heed of, the lawful and unlawful, commands, warnings and lessons. He quotes one of the early scholars at this verse: is there a seeker of knowledge, so that he may be helped?",
+      "bn": "সূরা আল-কামারে ধ্বংস হওয়া জাতিগুলোর ঘটনার পর পর চারবার এসেছে। আস-সা‘দি সহজ করার ব্যাখ্যা দিয়েছেন: এর শব্দ মুখস্থ ও তিলাওয়াতের জন্য সহজ, আর এর অর্থ বোঝার জন্য সহজ। এখানে জিকির বলতে সেই সবকিছু, যা থেকে মানুষ উপদেশ নেয়: হালাল-হারাম, আদেশ-নিষেধ, সতর্কবাণী আর শিক্ষা। তিনি এ আয়াতে পূর্বসূরিদের একজনের কথা এনেছেন: জ্ঞানের কোনো সন্ধানী আছে কি, যাকে সাহায্য করা হবে?"
+     }
+    },
+    {
+     "ref": "38:29",
+     "note": {
+      "en": "This verse gives the order of things: the Book was sent “that they might reflect upon its verses and that those of understanding would be reminded”. Reflection comes first, being reminded follows. As-Sa‘di concludes that reading with reflection is better than fast recitation that does not reach this aim, and that each person is reminded in proportion to his understanding.",
+      "bn": "এই আয়াত ধাপগুলোর ক্রম বলে দেয়: কিতাব নাজিল হয়েছে “যাতে তারা এর আয়াত নিয়ে চিন্তা করে, আর বোধসম্পন্নরা উপদেশ নেয়”। আগে চিন্তা, পরে উপদেশ। আস-সা‘দি এখান থেকে সিদ্ধান্ত টেনেছেন: চিন্তা করে পড়া সেই দ্রুত তিলাওয়াতের চেয়ে উত্তম, যা এই লক্ষ্যে পৌঁছায় না। আর প্রত্যেকে উপদেশ পায় তার বোঝার ক্ষমতা অনুযায়ী।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "the-cost-of-forgetting",
+   "title": {
+    "en": "What Forgetting Him Costs",
+    "bn": "তাঁকে ভুলে যাওয়ার মাশুল"
+   },
+   "body": [
+    {
+     "en": "The Quran describes the opposite of remembrance with several verbs: turning away (a‘raḍa), going blind to it (ya‘shu), forgetting (nasiya), being made to forget. Some of these verses speak of deniers or hypocrites; they are read here for the deed they describe, not to label anyone. Taken together they describe a sequence: the one who turns from remembrance is given a companion who turns him further, and the end is losing the very thing he was busy protecting, his own self.",
+     "bn": "জিকিরের উল্টোটা বোঝাতে কুরআন কয়েকটা ক্রিয়া ব্যবহার করেছে: মুখ ফিরিয়ে নেওয়া, এ থেকে অন্ধ হয়ে থাকা, ভুলে যাওয়া, আর ভুলিয়ে দেওয়া। কয়েকটা আয়াতের কথা অস্বীকারকারী বা মুনাফিকদের নিয়ে। এখানে সেগুলো পড়া হয়েছে কাজটা চেনার জন্য, কারও গায়ে তকমা লাগানোর জন্য নয়। একসঙ্গে পড়লে একটা ধারা চোখে পড়ে। যে জিকির থেকে সরে যায়, তাকে এমন সঙ্গী দেওয়া হয় যে তাকে আরও সরিয়ে নেয়। শেষে সে হারায় ঠিক সেটাই, যা আগলে রাখতে সে ব্যস্ত ছিল: নিজেকেই।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "20:124",
+     "note": {
+      "en": "Both commentators read dhikrī here as the revelation: Ibn Kathir explains turning away as opposing Allah’s command and what He revealed to His Messenger; as-Sa‘di says “My Book”. The “depressed life” (ma‘īshatan ḍankā) Ibn Kathir describes as a constricted heart in this world, even amid outward comfort. As-Sa‘di reports that some early scholars took it as the punishment of the grave, while other commentators took it generally: this world, the grave and the Hereafter.",
+      "bn": "দুই মুফাসসিরই এখানে “যিকরি”-কে ওহি হিসেবে পড়েছেন। ইবনে কাসিরের ব্যাখ্যায় মুখ ফেরানো মানে আল্লাহর হুকুম আর রাসুলের ওপর নাজিল হওয়া বাণীর বিরোধিতা। আস-সা‘দি সরাসরি বলেছেন, “আমার কিতাব”। “সংকীর্ণ জীবন” বলতে ইবনে কাসির বুঝিয়েছেন দুনিয়াতেই সংকুচিত অন্তর, বাইরে যত আরামই থাকুক। আস-সা‘দি জানিয়েছেন, পূর্বসূরিদের কেউ কেউ একে কবরের আজাব বলেছেন, আর অন্য মুফাসসিররা একে ব্যাপক অর্থে নিয়েছেন: দুনিয়া, কবর আর আখিরাত সবখানে।"
+     }
+    },
+    {
+     "ref": "59:19",
+     "note": {
+      "en": "The verse names a strange consequence: those who forgot Allah were made to forget themselves. Ibn Kathir explains it as: do not forget the remembrance of Allah, or He will make you forget the good deeds that would benefit you, for the recompense matches the deed. As-Sa‘di describes them as people who turned to their own desires and came back having lost both worlds.",
+      "bn": "আয়াতটা এক অদ্ভুত পরিণতির কথা বলে: যারা আল্লাহকে ভুলে গেছে, তাদের নিজেদেরকেই ভুলিয়ে দেওয়া হয়েছে। ইবনে কাসিরের ব্যাখ্যা: আল্লাহর জিকির ভুলে যেয়ো না, নইলে তিনি তোমাকে সেই নেক আমলগুলো ভুলিয়ে দেবেন যা তোমার কাজে আসত, কারণ প্রতিদান হয় কাজের মাপে। আস-সা‘দির বর্ণনায় এরা নিজেদের খেয়ালখুশির পেছনে ছুটেছিল, আর ফিরেছে দুনিয়া ও আখিরাত দুটোই খুইয়ে।"
+     }
+    },
+    {
+     "ref": "43:36",
+     "note": {
+      "en": "Ya‘shu comes from ‘ashā, weak sight; Ibn Kathir says the meaning here is weakness of insight, a willful turning away from the remembrance of the Most Merciful. The consequence is a devil as companion, who bars him from the path while he thinks himself guided (43:37). As-Sa‘di says this gives him no excuse, since his ignorance came from turning away when guidance was within reach.",
+      "bn": "“ইয়া‘শু” এসেছে দৃষ্টিশক্তির দুর্বলতা থেকে। ইবনে কাসির বলেন, এখানে উদ্দেশ্য অন্তর্দৃষ্টির দুর্বলতা, দয়াময়ের জিকির থেকে জেনেবুঝে মুখ ফিরিয়ে নেওয়া। পরিণতি হলো সঙ্গী হিসেবে এক শয়তান, যে তাকে পথ থেকে আটকে রাখে, অথচ সে ভাবে সে সঠিক পথেই আছে (৪৩:৩৭)। আস-সা‘দি বলেন, এতে তার কোনো ওজর থাকে না, কারণ হিদায়াত হাতের নাগালে থাকতেও সে মুখ ফিরিয়েছিল, আর তার অজ্ঞতার উৎস সেটাই।"
+     }
+    },
+    {
+     "ref": "58:19",
+     "note": {
+      "en": "The same pattern seen from the other side: Satan “overcame” them (istaḥwadha) and made them forget the remembrance of Allah. The passage (58:14-19) describes people who took as allies a people with whom Allah was angry and swore false oaths. Ibn Kathir says Satan takes over their hearts until he makes them forget Allah. As-Sa‘di says they lost their religion, their world, themselves and their families.",
+      "bn": "একই ধারা, তবে অন্য দিক থেকে দেখা: শয়তান তাদের ওপর চেপে বসেছে আর আল্লাহর জিকির ভুলিয়ে দিয়েছে। এই অংশে (৫৮:১৪ থেকে ১৯) বলা হয়েছে এমন লোকদের কথা, যারা আল্লাহর গজবপ্রাপ্ত এক সম্প্রদায়কে বন্ধু বানিয়েছিল আর মিথ্যা কসম খেত। ইবনে কাসির বলেন, শয়তান তাদের অন্তর দখল করে নেয়, শেষে আল্লাহকেই ভুলিয়ে দেয়। আস-সা‘দির কথায়, তারা দীন, দুনিয়া, নিজেদের আর পরিবার সবই হারিয়েছে।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 6407",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-6407",
+     "text": {
+      "en": "Abu Musa reported that the Prophet ﷺ said: “The example of the one who remembers his Lord and the one who does not remember Him is that of the living and the dead.”",
+      "bn": "আবু মুসা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: “যে তার রবকে স্মরণ করে আর যে স্মরণ করে না, তাদের উদাহরণ জীবিত আর মৃতের মতো।”"
+     },
+     "note": {
+      "en": "The verb is yadhkuru, the same as in the verses above. The image is not of a sinner and a saint but of the living and the dead: what the verses describe as loss, the hadith describes as an absence of life.",
+      "bn": "ক্রিয়াটা “ইয়াযকুরু”, ওপরের আয়াতগুলোর সেই একই শব্দ। তুলনাটা পাপী আর পুণ্যবানের নয়, জীবিত আর মৃতের। আয়াতগুলো যাকে ক্ষতি বলেছে, হাদিস তাকে বলছে প্রাণহীনতা।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "Keep the morning and evening adhkar and the remembrance after each obligatory prayer: as-Sa‘di names these as the minimum of the “much remembrance” of 33:41.",
+   "bn": "সকাল-সন্ধ্যার জিকির আর প্রতিটা ফরজ নামাজের পরের জিকির ধরে রাখুন। আস-সা‘দি এগুলোকেই ৩৩:৪১-এর “বেশি জিকির”-এর ন্যূনতম বলেছেন।"
+  },
+  {
+   "en": "When you slip, make 3:135 your reflex: remember Allah, ask His forgiveness, and do not stay on the sin.",
+   "bn": "পা পিছলে গেলে ৩:১৩৫-কে অভ্যাস বানিয়ে ফেলুন: আল্লাহকে মনে করুন, মাফ চান, আর গুনাহে আটকে থাকবেন না।"
+  },
+  {
+   "en": "Carry dhikr into ordinary work, at the shop, on the commute, at the desk; 62:10 attaches “remember Allah much” to seeking a living.",
+   "bn": "দোকানে, যাতায়াতের পথে, কাজের টেবিলে, দৈনন্দিন কাজের মধ্যেই জিকির চালু রাখুন। ৬২:১০ রুজি খোঁজার সঙ্গেই জুড়ে দিয়েছে “আল্লাহকে বেশি বেশি স্মরণ করো”।"
+  },
+  {
+   "en": "On Friday, leave the work when the adhan is called and go to the khutbah and prayer (62:9).",
+   "bn": "জুমার দিন আজান হলে কাজ রেখে খুতবা আর নামাজের দিকে রওনা দিন (৬২:৯)।"
+  },
+  {
+   "en": "Read some Quran each day slowly enough to think about it; 38:29 puts reflection before being reminded.",
+   "bn": "প্রতিদিন কিছুটা কুরআন পড়ুন, এমন ধীরে যাতে ভাবার সুযোগ থাকে। ৩৮:২৯ উপদেশ পাওয়ার আগে রেখেছে চিন্তাকে।"
+  },
+  {
+   "en": "Aim for heart and tongue together when you make dhikr; as-Sa‘di calls that the most complete form (7:205).",
+   "bn": "জিকিরের সময় অন্তর আর জবান একসঙ্গে রাখার চেষ্টা করুন। আস-সা‘দি এটাকেই সবচেয়ে পূর্ণ জিকির বলেছেন (৭:২০৫)।"
+  }
+ ],
+ "refs": [
+  "2:152",
+  "2:198",
+  "2:200",
+  "2:203",
+  "2:221",
+  "2:231",
+  "2:239",
+  "2:269",
+  "3:7",
+  "3:41",
+  "3:103",
+  "3:135",
+  "3:191",
+  "4:103",
+  "4:142",
+  "5:7",
+  "5:11",
+  "5:20",
+  "5:91",
+  "5:110",
+  "6:80",
+  "6:152",
+  "7:3",
+  "7:26",
+  "7:69",
+  "7:74",
+  "7:130",
+  "7:201",
+  "7:205",
+  "8:45",
+  "9:126",
+  "10:3",
+  "11:24",
+  "11:114",
+  "13:19",
+  "13:27",
+  "13:28",
+  "14:6",
+  "14:25",
+  "14:52",
+  "15:9",
+  "16:13",
+  "16:17",
+  "16:90",
+  "17:41",
+  "18:23",
+  "18:24",
+  "18:28",
+  "18:101",
+  "19:2",
+  "20:14",
+  "20:31",
+  "20:32",
+  "20:33",
+  "20:34",
+  "20:42",
+  "20:44",
+  "20:124",
+  "21:42",
+  "21:48",
+  "22:37",
+  "23:84",
+  "23:85",
+  "23:110",
+  "24:1",
+  "24:27",
+  "24:36",
+  "24:37",
+  "25:50",
+  "25:62",
+  "26:225",
+  "26:226",
+  "26:227",
+  "27:62",
+  "28:43",
+  "28:46",
+  "28:51",
+  "29:45",
+  "33:9",
+  "33:21",
+  "33:34",
+  "33:35",
+  "33:41",
+  "35:3",
+  "35:37",
+  "37:13",
+  "37:155",
+  "38:1",
+  "38:17",
+  "38:29",
+  "38:45",
+  "38:48",
+  "39:9",
+  "39:22",
+  "39:23",
+  "39:27",
+  "40:13",
+  "40:58",
+  "41:41",
+  "43:12",
+  "43:13",
+  "43:36",
+  "44:58",
+  "45:23",
+  "48:26",
+  "51:49",
+  "53:29",
+  "54:15",
+  "54:17",
+  "54:22",
+  "54:32",
+  "54:40",
+  "54:51",
+  "56:62",
+  "57:16",
+  "58:19",
+  "59:19",
+  "62:9",
+  "62:10",
+  "63:9",
+  "69:41",
+  "69:42",
+  "69:48",
+  "72:16",
+  "72:17",
+  "73:8",
+  "74:54",
+  "74:55",
+  "74:56",
+  "76:25"
+ ],
+ "refsDropped": [
+  {
+   "ref": "2:237",
+   "reason": "Half the mahr on divorce before consummation; “do not forget graciousness” is between spouses, not remembrance of Allah."
+  },
+  {
+   "ref": "5:2",
+   "reason": "Rites of Hajj, hunting after ihram and cooperation in righteousness; no dhikr wording or theme."
+  },
+  {
+   "ref": "5:8",
+   "reason": "Command to stand firm for justice even toward a hated people; not about remembrance."
+  },
+  {
+   "ref": "22:32",
+   "reason": "Honouring the rites (sha‘a’ir) of Allah, the same subject as the dropped 5:2; no dhikr wording."
+  },
+  {
+   "ref": "49:3",
+   "reason": "Lowering voices before the Messenger; no dhikr wording or theme."
+  },
+  {
+   "ref": "50:31",
+   "reason": "Paradise brought near to the righteous; no dhikr wording or theme."
+  },
+  {
+   "ref": "51:15",
+   "reason": "The righteous among gardens and springs; no dhikr wording or theme."
+  },
+  {
+   "ref": "77:41",
+   "reason": "The righteous among shades and springs; no dhikr wording or theme."
+  },
+  {
+   "ref": "96:11",
+   "reason": "Question about the one forbidden from praying being on guidance; no dhikr wording."
+  },
+  {
+   "ref": "96:12",
+   "reason": "Continuation of 96:11 (enjoining righteousness); no dhikr wording."
+  }
+ ],
+ "videos": [
+  {
+   "title": "Remembrance of Allah - Mufti Menk",
+   "ytId": "PRLWnmxxoLQ",
+   "list": null,
+   "channel": "Mufti Menk",
+   "watch": "https://www.youtube.com/watch?v=PRLWnmxxoLQ"
+  },
+  {
+   "title": "আল্লাহর স্মরণ",
+   "ytId": "jxtHjMJ8GOU",
+   "list": null,
+   "channel": "IslamHouseBn",
+   "watch": "https://www.youtube.com/watch?v=jxtHjMJ8GOU"
+  },
+  {
+   "title": "Purification by the Remembrance of Allah | REALLY EMOTIONAL | Sh. Riad Ouarzazi",
+   "ytId": "znnAtt6ye0A",
+   "list": null,
+   "channel": "Islam Net",
+   "watch": "https://www.youtube.com/watch?v=znnAtt6ye0A"
+  },
+  {
+   "title": "Remembrance Of Allah ᴴᴰ | Featuring Mohamed Hoblos",
+   "ytId": "IyOe-19q3bA",
+   "list": null,
+   "channel": "Reminders From Mohamed Hoblos",
+   "watch": "https://www.youtube.com/watch?v=IyOe-19q3bA"
+  },
+  {
+   "title": "Remembrance Of Allah  Part 1 - Dr. Bilal Philips",
+   "ytId": "Oi8Y0rpiaEk",
+   "list": null,
+   "channel": "Bilal Philips",
+   "watch": "https://www.youtube.com/watch?v=Oi8Y0rpiaEk"
+  }
+ ],
+ "reading": [
+  {
+   "title": {
+    "en": "Hadith: the one who remembers his Lord and the one who does not are like the living and the dead (Bengali)",
+    "bn": "হাদিস: যে তার রবের জিকির করে আর যে করে না, তাদের উপমা জীবিত ও মৃত"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/4177",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Hadith: al-Mufarridun have gone ahead (Bengali)",
+    "bn": "হাদিস: মুফাররিদরা এগিয়ে গেছে"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/3719",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Virtues of Dhikr",
+    "bn": "জিকিরের ফজিলত (ইংরেজি)"
+   },
+   "url": "https://islamqa.info/en/answers/253005",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "Will he be rewarded for dhikr of the tongue when his heart is not focused?",
+    "bn": "অন্তর মনোযোগী না থাকলে মুখের জিকিরে সওয়াব হবে কি? (ইংরেজি)"
+   },
+   "url": "https://islamqa.info/en/answers/72826",
+   "site": "islamqa.info",
+   "lang": "en"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir",
+  "Tafsir as-Sa'di",
+  "Tafsir at-Tabari"
+ ],
+ "related": [
+  "allah-gratitude",
+  "allah-good-opinion",
+  "th-o-believers",
+  "th-repentance"
+ ]
+}

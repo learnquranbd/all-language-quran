@@ -45,7 +45,29 @@ const TAB_META = {
   hajj:         { emoji: '🕋', key: 'learn_hajj_title' },
   zakat:        { emoji: '💰', key: 'learn_zakat_title' },
   namaz:        { emoji: '🕌', key: 'learn_salah_title' },
-  names:        { emoji: '✨', key: 'learn_names_title' }
+  names:        { emoji: '✨', key: 'learn_names_title' },
+  'allah': { emoji: '☝️', key: 'th_group_allah' },
+  'themes': { emoji: '🧭', key: 'th_group_themes' },
+  'allah-remembrance': { emoji: '📿', key: 'th_allah_remembrance' },
+  'allah-loves': { emoji: '💚', key: 'th_allah_loves' },
+  'allah-dislikes': { emoji: '🚫', key: 'th_allah_dislikes' },
+  'allah-woe': { emoji: '⚠️', key: 'th_allah_woe' },
+  'allah-curse': { emoji: '⛔', key: 'th_allah_curse' },
+  'allah-gratitude': { emoji: '🤲', key: 'th_allah_gratitude' },
+  'allah-good-opinion': { emoji: '🌤️', key: 'th_allah_good_opinion' },
+  'th-o-mankind': { emoji: '🌍', key: 'th_th_o_mankind' },
+  'th-o-believers': { emoji: '🤝', key: 'th_th_o_believers' },
+  'th-sajdah': { emoji: '🙇', key: 'th_th_sajdah' },
+  'th-parables': { emoji: '🌳', key: 'th_th_parables' },
+  'th-resurrection': { emoji: '🌅', key: 'th_th_resurrection' },
+  'th-hereafter': { emoji: '♾️', key: 'th_th_hereafter' },
+  'th-judgement': { emoji: '⚖️', key: 'th_th_judgement' },
+  'th-wrongdoers': { emoji: '✋', key: 'th_th_wrongdoers' },
+  'th-hell': { emoji: '🔥', key: 'th_th_hell' },
+  'th-repentance': { emoji: '↩️', key: 'th_th_repentance' },
+  'th-patience': { emoji: '⛰️', key: 'th_th_patience' },
+  'th-forgiveness': { emoji: '🕊️', key: 'th_th_forgiveness' },
+  'th-paradise': { emoji: '🌿', key: 'th_th_paradise' }
 };
 
 class TabSystem {

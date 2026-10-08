@@ -38,8 +38,32 @@ const APP_NAV_PRIMARY = [
       { module: 'handwriting', emoji: '✍️', label: 'hw_title' },
       { tab: 'tajweedlearn', emoji: '🎨', label: 'tj_learn_title' }
     ] },
+  { id: 'allah', emoji: '☝️', label: 'th_group_allah', children: [
+      { tab: 'names', emoji: '✨', label: 'learn_names_title' },
+      { tab: 'allah-remembrance', emoji: '📿', label: 'th_allah_remembrance' },
+      { tab: 'allah-loves', emoji: '💚', label: 'th_allah_loves' },
+      { tab: 'allah-dislikes', emoji: '🚫', label: 'th_allah_dislikes' },
+      { tab: 'allah-woe', emoji: '⚠️', label: 'th_allah_woe' },
+      { tab: 'allah-curse', emoji: '⛔', label: 'th_allah_curse' },
+      { tab: 'allah-gratitude', emoji: '🤲', label: 'th_allah_gratitude' },
+      { tab: 'allah-good-opinion', emoji: '🌤️', label: 'th_allah_good_opinion' }
+    ] },
+  { id: 'themes', emoji: '🧭', label: 'th_group_themes', children: [
+      { tab: 'th-o-mankind', emoji: '🌍', label: 'th_th_o_mankind' },
+      { tab: 'th-o-believers', emoji: '🤝', label: 'th_th_o_believers' },
+      { tab: 'th-sajdah', emoji: '🙇', label: 'th_th_sajdah' },
+      { tab: 'th-parables', emoji: '🌳', label: 'th_th_parables' },
+      { tab: 'th-resurrection', emoji: '🌅', label: 'th_th_resurrection' },
+      { tab: 'th-hereafter', emoji: '♾️', label: 'th_th_hereafter' },
+      { tab: 'th-judgement', emoji: '⚖️', label: 'th_th_judgement' },
+      { tab: 'th-wrongdoers', emoji: '✋', label: 'th_th_wrongdoers' },
+      { tab: 'th-hell', emoji: '🔥', label: 'th_th_hell' },
+      { tab: 'th-repentance', emoji: '↩️', label: 'th_th_repentance' },
+      { tab: 'th-patience', emoji: '⛰️', label: 'th_th_patience' },
+      { tab: 'th-forgiveness', emoji: '🕊️', label: 'th_th_forgiveness' },
+      { tab: 'th-paradise', emoji: '🌿', label: 'th_th_paradise' }
+    ] },
   { id: 'quranicarabic', emoji: '🔤', label: 'qa_title', tab: 'quranicarabic' },
-  { id: 'names', emoji: '✨', label: 'learn_names_title', tab: 'names' },
   { id: 'amal', emoji: '📿', label: 'amal_title', tab: 'amal' },
   { id: 'sawm', emoji: '🌅', label: 'learn_sawm_title', tab: 'sawm' },
   { id: 'hajj', emoji: '🕋', label: 'learn_hajj_title', tab: 'hajj' },
@@ -430,6 +454,7 @@ class AppNav {
   _ownsTab(p, tab) {
     if (!p) return false;
     if (p.tab === tab) return true;
+    if (p.children && p.id === tab) return true;   // a group's own hub tab (Allah, Themes)
     if (p.modes && tab === 'memorize') return true;
     const walk = (kids) => (kids || []).some(c => c.tab === tab || walk(c.children));
     return walk(p.children);

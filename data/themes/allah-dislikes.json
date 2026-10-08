@@ -1,0 +1,486 @@
+{
+ "id": "allah-dislikes",
+ "status": "full",
+ "title": {
+  "en": "Whom Allah Does Not Love",
+  "bn": "আল্লাহ যাদের ভালোবাসেন না"
+ },
+ "tagline": {
+  "en": "Qualities the Quran says Allah does not love, read as a mirror for one's own heart rather than a list of other people.",
+  "bn": "যেসব স্বভাব আল্লাহ ভালোবাসেন না বলে কুরআন জানিয়েছে। পড়ুন নিজের দিকে তাকিয়ে, অন্যের দিকে আঙুল তুলে নয়।"
+ },
+ "intro": [
+  {
+   "en": "Again and again the Quran uses one short sentence: inna Allaha la yuhibbu, Allah does not love. Each time the sentence itself names a quality, not a people, even where the ayah speaks of a particular people or person: the transgressors, the wrongdoers, the corrupters, the treacherous, the wasteful, the self-admiring and boastful, the exultant, the disbelievers. Very often the sentence closes a command that permits something first. Fight, but do not transgress. Eat and drink, but do not waste. Call on your Lord, but humbly. It marks the edge of what is allowed.",
+   "bn": "কুরআনে একটা ছোট বাক্য বারবার ফিরে আসে: ইন্নাল্লাহা লা ইউহিব্বু, আল্লাহ ভালোবাসেন না। প্রতিবার বাক্যটা নিজে একটা স্বভাবের নাম নেয়, কোনো জাতির নয়, যদিও কোনো কোনো আয়াতের প্রসঙ্গে নির্দিষ্ট সম্প্রদায় বা ব্যক্তির কথা আছে। সীমালঙ্ঘনকারী, জালিম, ফাসাদকারী, খিয়ানতকারী, অপচয়কারী, দাম্ভিক অহংকারী, দম্ভভরে উল্লসিত, কাফির। অনেক সময় বাক্যটা আসে এমন হুকুমের শেষে, যেখানে আগে কিছু একটার অনুমতি দেওয়া হয়েছে। লড়াই করো, কিন্তু সীমা ছাড়িও না। খাও, পান করো, কিন্তু অপচয় করো না। রবকে ডাকো, তবে বিনয়ের সঙ্গে। বাক্যটা যেন বৈধের সীমানায় পোঁতা খুঁটি।"
+  },
+  {
+   "en": "The commentators do not soften the phrase. On 4:107 as-Sa'di writes that when love is denied, its opposite is affirmed, which is hatred. Yet most of these qualities are ones a practising Muslim can slide into without noticing: taking a little more than one's due in a quarrel, a raised voice in du'a, a boast about what one owns, a promise quietly broken. So this page is best read as a mirror. The question each ayah puts is not who those people are, but how much of this is in me.",
+   "bn": "মুফাসসিররা কথাটাকে হালকা করেননি। ৪:১০৭-এর ব্যাখ্যায় আস-সা'দী লিখেছেন, ভালোবাসা যখন নাকচ হয়, তখন তার উল্টোটা সাব্যস্ত হয়, আর তা হলো ঘৃণা। অথচ এই স্বভাবগুলোর বেশির ভাগেই একজন নামাজি মুসলমান টের না পেয়েই ঢুকে পড়তে পারেন। ঝগড়ায় নিজের পাওনার চেয়ে একটু বেশি আদায় করে নেওয়া, দোয়ায় গলা চড়ানো, নিজের সম্পদ নিয়ে বড়াই, চুপচাপ ভেঙে ফেলা একটা ওয়াদা। তাই এ পাতা পড়ুন আয়নার মতো করে। প্রতিটি আয়াত জিজ্ঞেস করছে না ওরা কারা। জিজ্ঞেস করছে, এর কতটুকু আমার ভেতরে আছে।"
+  },
+  {
+   "en": "The ayat are grouped here by the kind of fault. First, faults against Allah: turning away from Him and overstepping His limits. Then faults against people: wronging them, betraying their trust, spreading corruption and harmful speech. Last, faults of the self: pride and boasting, and the swelling of the self around wealth and food. The sibling page, Whom Allah Loves, describes the opposite qualities, and the two are best read side by side.",
+   "bn": "আয়াতগুলো এখানে সাজানো হয়েছে দোষের ধরন অনুযায়ী। প্রথমে আল্লাহর সঙ্গে সম্পর্কের দোষ: তাঁর থেকে মুখ ফিরিয়ে নেওয়া আর তাঁর বেঁধে দেওয়া সীমা পেরিয়ে যাওয়া। তারপর মানুষের সঙ্গে দোষ: জুলুম, আমানতের খিয়ানত, ফাসাদ আর কষ্টদায়ক কথা। শেষে নিজের ভেতরের দোষ: অহংকার ও বড়াই, আর সম্পদ ও খাবারকে ঘিরে নিজেকে ফুলিয়ে তোলা। এর উল্টো গুণগুলোর কথা আছে পাশের পাতা “আল্লাহ যাদের ভালোবাসেন”-এ। দুটো পাতা পাশাপাশি পড়লেই ছবিটা পুরো হয়।"
+  }
+ ],
+ "sections": [
+  {
+   "id": "turning-away",
+   "title": {
+    "en": "Turning Away from Him",
+    "bn": "তাঁর থেকে মুখ ফিরিয়ে নেওয়া"
+   },
+   "body": [
+    {
+     "en": "The widest fault on the list is the root of the others: hearing the call and turning away. Two ayat close with “He does not love the disbelievers,” and both set it beside its opposite, obedience to Allah and His Messenger in 3:32 and faith joined to righteous deeds in 30:45. Then 4:18 and 47:34 add the hard edge: a door that stays open all of one's life closes at death. A believer should not assume these ayat are only about others. Turning away has a small daily form too: hearing a clear command and quietly deciding it does not apply to you.",
+     "bn": "এ তালিকার সবচেয়ে বড় দোষটাই বাকিগুলোর শিকড়: ডাক শুনেও মুখ ফিরিয়ে নেওয়া। দুটো আয়াত শেষ হয়েছে “তিনি কাফিরদের ভালোবাসেন না” বলে। দুটোতেই পাশে রাখা হয়েছে উল্টো ছবিটা। ৩:৩২-এ আল্লাহ ও রাসূলের আনুগত্য, ৩০:৪৫-এ ঈমানের সঙ্গে নেক আমল। এরপর ৪:১৮ আর ৪৭:৩৪ কঠিন দিকটা জানিয়ে দেয়: যে দরজা গোটা জীবন খোলা থাকে, মৃত্যুতে তা বন্ধ হয়ে যায়। একজন মুমিনের ধরে নেওয়া ঠিক নয় যে এসব আয়াত কেবল অন্যদের নিয়ে। মুখ ফেরানোর একটা ছোট, রোজকার চেহারাও আছে। স্পষ্ট একটা হুকুম শুনে চুপচাপ ঠিক করে ফেলা যে এটা আমার জন্য নয়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "3:32",
+     "note": {
+      "en": "It follows 3:31: if you love Allah, follow me, and Allah will love you. Ibn Kathir reads 3:32 as testifying that defying the Messenger's way is kufr, and says Allah does not love whoever does this “even if he claims that he loves Allah.” As-Sa'di adds that obedience includes avoiding what was forbidden. A claim of love is tested by following, not by feeling.",
+      "bn": "আয়াতটি এসেছে ৩:৩১-এর ঠিক পরে, যেখানে বলা হয়েছে: আল্লাহকে ভালোবাসলে আমার অনুসরণ করো, আল্লাহ তোমাদের ভালোবাসবেন। ইবনে কাসির বলেন, রাসূলের পথ অমান্য করা যে কুফর, ৩:৩২ তার সাক্ষ্য দেয়। এমন লোক নিজেকে আল্লাহপ্রেমী দাবি করলেও আল্লাহ তাকে ভালোবাসেন না। আস-সা'দী যোগ করেন, যা নিষেধ করা হয়েছে তা থেকে বেঁচে থাকাও আনুগত্যের অংশ। ভালোবাসার দাবি যাচাই হয় অনুসরণে, অনুভূতিতে নয়।"
+     }
+    },
+    {
+     "ref": "30:45",
+     "note": {
+      "en": "The believers are rewarded “out of His bounty.” As-Sa'di says their reward is not limited to their deeds; Allah gives from His bounty what their deeds could never reach. Of the disbelievers, Ibn Kathir notes that Allah “is still just with them and does not oppress them.” The contrast is bounty against bare justice. Not being loved does not mean being wronged; as-Sa'di adds that Allah, hating them, punishes them and does not increase them as He increases the believers.",
+      "bn": "মুমিনদের প্রতিদান দেওয়া হবে “তাঁর অনুগ্রহ থেকে”। আস-সা'দী বলেন, তাদের পুরস্কার আমলের মাপে সীমিত নয়। আমল যতদূর পৌঁছাতে পারে না, আল্লাহ নিজের অনুগ্রহ থেকে ততটাও দেন। কাফিরদের প্রসঙ্গে ইবনে কাসির লিখেছেন, তবু আল্লাহ তাদের সঙ্গে ইনসাফই করেন, জুলুম করেন না। তফাতটা তাই অনুগ্রহ আর নিছক ইনসাফের। ভালোবাসা না পাওয়া মানে জুলুমের শিকার হওয়া নয়। তবে আস-সা'দী বলেন, আল্লাহ তাদের ঘৃণা করেন, শাস্তি দেন, আর মুমিনদের যেমন বাড়িয়ে দেন তেমন বাড়িয়ে দেন না।"
+     }
+    },
+    {
+     "ref": "4:18",
+     "note": {
+      "en": "This ayah explains why the list is urgent. Ibn Kathir: once the soul reaches the throat there is no accepted repentance. As-Sa'di calls repentance at that moment a repentance of compulsion, which does not benefit; only repentance by choice does. The time to choose is now, while choosing is still possible.",
+      "bn": "এই তালিকা নিয়ে কেন দেরি করা চলে না, আয়াতটি তা বুঝিয়ে দেয়। ইবনে কাসির বলেন, প্রাণ কণ্ঠনালিতে পৌঁছে গেলে আর তওবা কবুল হয় না। আস-সা'দী বলেন, সে মুহূর্তের তওবা বাধ্য হয়ে করা তওবা, তাতে কাজ হয় না। কাজে আসে স্বেচ্ছায় করা তওবা। বেছে নেওয়ার সময় তাই এখনই, যতক্ষণ বেছে নেওয়ার সুযোগ আছে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "overstepping-limits",
+   "title": {
+    "en": "Overstepping the Limits",
+    "bn": "সীমা পেরিয়ে যাওয়া"
+   },
+   "body": [
+    {
+     "en": "Three times the Quran says Allah does not love al-mu'tadin, those who overstep. What is striking is where the phrase falls: on the battlefield (2:190), at the table and in personal piety (5:87), and inside du'a itself (7:55). Overstepping is not only aggression against others. It is crossing any line Allah has drawn, and that includes crossing it in the direction of severity. On 5:87 Ibn Kathir says Allah legislated a middle way that allows neither excess nor falling short. The thing to watch for in oneself is zeal that writes its own rules, whether harsh on others or harsh on oneself.",
+     "bn": "তিনবার কুরআন বলেছে, আল্লাহ মু'তাদিন অর্থাৎ সীমালঙ্ঘনকারীদের ভালোবাসেন না। লক্ষ করার মতো হলো কথাটা কোথায় কোথায় এসেছে। যুদ্ধের ময়দানে (২:১৯০), খাবারের দস্তরখানে ও ব্যক্তিগত তাকওয়ায় (৫:৮৭), আর খোদ দোয়ার ভেতরে (৭:৫৫)। সীমালঙ্ঘন মানে শুধু অন্যের ওপর চড়াও হওয়া নয়। আল্লাহর টানা যেকোনো রেখা পার হওয়াই সীমালঙ্ঘন, কড়াকড়ির দিকে পার হলেও। ৫:৮৭-এর ব্যাখ্যায় ইবনে কাসির বলেন, আল্লাহ একটা মাঝামাঝি পথ দিয়েছেন, যেখানে বাড়াবাড়িও নেই, কমতিও নেই। নিজের ভেতরে খুঁজে দেখার বিষয় হলো এমন উৎসাহ, যা নিজেই নিয়ম বানিয়ে নেয়। অন্যের ওপর কঠোর হোক বা নিজের ওপর।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:190",
+     "note": {
+      "en": "The permission to fight and its limit arrive in one breath. Ibn Kathir cites al-Hasan al-Basri: transgression here includes mutilating the dead, stealing from the spoils, and killing women, children and old people who take no part in fighting. As-Sa'di's list likewise includes killing animals and cutting trees without benefit. If there is a line even with an armed enemy, there is certainly one in a quarrel at home.",
+      "bn": "লড়াইয়ের অনুমতি আর তার সীমা এসেছে একই নিঃশ্বাসে। ইবনে কাসির হাসান বসরীর কথা উদ্ধৃত করেছেন: এখানে সীমালঙ্ঘনের মধ্যে পড়ে লাশ বিকৃত করা, গনিমত থেকে চুরি, আর যুদ্ধে অংশ নেয় না এমন নারী, শিশু ও বৃদ্ধদের হত্যা। আস-সা'দীর তালিকাতেও আছে প্রয়োজন ছাড়া পশু মারা ও গাছ কাটা। অস্ত্রধারী শত্রুর বেলাতেও যদি সীমা থাকে, তাহলে ঘরের ঝগড়ায় তো থাকবেই।"
+     }
+    },
+    {
+     "ref": "5:87",
+     "note": {
+      "en": "Ibn Kathir reports from Ibn Abbas that it came down about Companions who wanted to renounce the desires of this life as monks do. The transgression here is piety pushed past its limit. As-Sa'di says that treating the lawful as forbidden combines three faults at once: saying about Allah what is false, ingratitude for His gift, and calling the good impure.",
+      "bn": "ইবনে কাসির ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেছেন, আয়াতটি নাজিল হয়েছিল কয়েকজন সাহাবিকে কেন্দ্র করে, যাঁরা সন্ন্যাসীদের মতো দুনিয়ার চাহিদা ছেড়ে দিতে চেয়েছিলেন। এখানে সীমালঙ্ঘন মানে তাকওয়াকে সীমার বাইরে ঠেলে নেওয়া। আস-সা'দী বলেন, হালালকে হারাম বানানোয় একসঙ্গে তিনটি দোষ জমা হয়। আল্লাহর নামে মিথ্যা বলা, তাঁর নিয়ামতের নাশুকরি, আর পবিত্র জিনিসকে নাপাক গণ্য করা।"
+     }
+    },
+    {
+     "ref": "7:55",
+     "note": {
+      "en": "Even worship has a manner. Ibn Kathir records Ibn Abbas on the closing phrase: “in the du'a and otherwise,” and Abu Mijlaz: such as asking to reach the rank of the prophets. As-Sa'di lists the forms: asking for what does not suit one, affectation in asking, and raising the voice excessively. Humility and privacy are the two conditions the ayah itself names.",
+      "bn": "ইবাদতেরও আদব আছে। আয়াতের শেষ অংশ নিয়ে ইবনে কাসির ইবনে আব্বাস (রাঃ)-এর কথা এনেছেন: “দোয়ায় এবং অন্য সব কিছুতে।” আবু মিজলাযের কথাও এনেছেন: যেমন নবীদের মর্যাদা চেয়ে বসা। আস-সা'দী এর কয়েকটি রূপ গুনিয়েছেন। নিজের জন্য যা মানানসই নয় তা চাওয়া, চাওয়ায় কৃত্রিম কসরত, আর দোয়ায় মাত্রাছাড়া গলা চড়ানো। আয়াত নিজেই দুটো শর্ত বলে দিয়েছে: বিনয় আর গোপনীয়তা।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "wronging-others",
+   "title": {
+    "en": "Wrongdoing and Its Limits",
+    "bn": "জুলুম ও তার সীমা"
+   },
+   "body": [
+    {
+     "en": "“Allah does not love the wrongdoers” closes ayat in very different settings: after the promise of full reward (3:57), in the consolation given after the losses at Uhud (3:140), and in the law of retaliation (42:40). The commentators read the word in more than one direction. On 3:140 as-Sa'di takes it as those who wronged themselves by holding back; on 42:40 he takes it as those who wrong others. The second reading holds the sharpest lesson for the reader: everyone is wronged at some point, and the test is what one does next, since a single step too far turns the wronged into the wrongdoer.",
+     "bn": "“আল্লাহ জালিমদের ভালোবাসেন না” কথাটা এসেছে একেবারে ভিন্ন ভিন্ন প্রেক্ষাপটে। পূর্ণ প্রতিদানের প্রতিশ্রুতির পর (৩:৫৭), উহুদের ক্ষয়ক্ষতির পর সান্ত্বনার মাঝখানে (৩:১৪০), আর বদলা নেওয়ার বিধানে (৪২:৪০)। মুফাসসিররা শব্দটা একাধিক দিকে পড়েছেন। ৩:১৪০-এ আস-সা'দী এর মানে করেছেন তারা, যারা পিছিয়ে থেকে নিজেদের ওপর জুলুম করেছে। ৪২:৪০-এ মানে করেছেন তারা, যারা অন্যের ওপর জুলুম করে। পাঠকের জন্য সবচেয়ে ধারালো শিক্ষা দ্বিতীয়টিতে। জীবনে কখনো না কখনো সবাই জুলুমের শিকার হয়। পরীক্ষা হলো তারপর কী করা হয়। এক কদম বেশি গেলেই মজলুম নিজেই জালিম হয়ে যায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "3:57",
+     "note": {
+      "en": "The closing line sits right after “He will give them their rewards in full.” As-Sa'di notes that the believers receive part of that reward in this world, as honour, help and a good life, and the full payment on the Day of Resurrection. Wrongdoing is set directly against faith joined to deeds, as the other column of the same ledger.",
+      "bn": "শেষ বাক্যটি বসেছে ঠিক “তিনি তাদের প্রতিদান পুরোপুরি দেবেন” কথার পরে। আস-সা'দী বলেন, মুমিনরা সে প্রতিদানের কিছুটা দুনিয়াতেই পায়, সম্মান, সাহায্য আর সুন্দর জীবনের রূপে। পুরোটা মিলবে কিয়ামতের দিন। জুলুমকে এখানে রাখা হয়েছে ঈমান ও নেক আমলের ঠিক বিপরীতে। একই খাতার উল্টো পাতা।"
+     }
+    },
+    {
+     "ref": "3:140",
+     "note": {
+      "en": "Ibn Kathir sets the passage after Uhud, where the Muslims lost seventy dead. The days are rotated so that Allah may make evident who believes. As-Sa'di reads “the wrongdoers” here as those who wronged themselves and stayed back from the fighting, an allusion to the hypocrites. A setback sorts people. The question it puts is whether one stays when the cause begins to cost something.",
+      "bn": "ইবনে কাসির এ অংশকে রেখেছেন উহুদের প্রেক্ষাপটে, যেখানে মুসলমানদের সত্তরজন শহিদ হয়েছিলেন। দিনগুলো পালাক্রমে ঘোরানো হয়, যাতে আল্লাহ প্রকাশ করে দেন কে ঈমানদার। আস-সা'দী এখানে “জালিম” বলতে বুঝেছেন তাদের, যারা নিজেদের ওপর জুলুম করে যুদ্ধ থেকে পিছিয়ে ছিল। এতে মুনাফিকদের দিকে ইঙ্গিত আছে। বিপর্যয় মানুষকে আলাদা করে ফেলে। প্রশ্ন একটাই: কাজটার দাম দিতে হলে আমি কি টিকে থাকি?"
+     }
+    },
+    {
+     "ref": "42:40",
+     "note": {
+      "en": "As-Sa'di finds three levels here. Justice: an evil answered by its like, no more and no less. Grace: to pardon and set things right, with the reward due from Allah. Wrongdoing: to start the harm, or to answer it with more than was done, for “the excess is wrongdoing.” Ibn Kathir likewise reads the wrongdoers here as the aggressors who begin the evil.",
+      "bn": "আস-সা'দী এখানে তিনটি স্তর দেখিয়েছেন। ইনসাফ: মন্দের জবাব সমান মন্দে, কমও নয়, বেশিও নয়। অনুগ্রহ: মাফ করে দেওয়া ও মীমাংসা করা, যার প্রতিদান আল্লাহর জিম্মায়। জুলুম: নিজে আগে ক্ষতি করা, কিংবা যতটুকু করা হয়েছে তার চেয়ে বেশি ফিরিয়ে দেওয়া। তাঁর ভাষায়, বাড়তি অংশটুকুই জুলুম। ইবনে কাসিরও এখানে জালিম বলতে বুঝেছেন সেই আক্রমণকারীদের, যারা মন্দের সূচনা করে।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 2588",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-2588",
+     "text": {
+      "en": "Abu Hurayrah reported that the Messenger of Allah ﷺ said: “Charity does not decrease wealth, Allah does not increase a servant who pardons except in honour, and no one humbles himself for Allah except that Allah raises him.”",
+      "bn": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ ﷺ বলেছেন: “সদকা সম্পদ কমায় না। যে বান্দা মাফ করে, আল্লাহ তার সম্মানই কেবল বাড়িয়ে দেন। আর যে আল্লাহর জন্য বিনয়ী হয়, আল্লাহ তাকে উঁচু করে দেন।”"
+     },
+     "note": {
+      "en": "Ibn Kathir cites its middle clause under 42:40 for the tier of grace. What stops most people from pardoning is the fear of losing face, and the hadith answers exactly that fear: the honour one fears losing by forgiving is exactly what Allah promises to increase.",
+      "bn": "৪২:৪০-এর ব্যাখ্যায় অনুগ্রহের স্তর বোঝাতে ইবনে কাসির এই হাদিসের মাঝের অংশটি এনেছেন। মাফ করতে বেশির ভাগ মানুষকে আটকায় মান খোয়ানোর ভয়। হাদিসটি ঠিক সেই ভয়ের জবাব দেয়: মাফ করলে যে সম্মান হারানোর আশঙ্কা, আল্লাহ সেটাই বাড়িয়ে দেওয়ার ওয়াদা করেছেন।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "betraying-trust",
+   "title": {
+    "en": "Betraying a Trust",
+    "bn": "আমানতের খিয়ানত"
+   },
+   "body": [
+    {
+     "en": "Three ayat name the betrayer. Two use the intensive form khawwan (4:107, 22:38), which as-Sa'di glosses as one of much betrayal; the third says al-kha'inin, the treacherous (8:58). As-Sa'di widens the word on 22:38: betraying the trust Allah placed on a person, shortchanging His rights, and betraying people. Ibn Kathir defines it there as treachery in covenants and promises, where a person does not do what he says. That makes it a fault of ordinary days: a loan, a secret, a promise, an hour of work paid for. The trust to check first is the small one.",
+     "bn": "তিনটি আয়াতে খিয়ানতকারীর কথা এসেছে। দুটিতে শব্দটা খাওয়ান (৪:১০৭, ২২:৩৮), আস-সা'দী যার অর্থ করেছেন অতিমাত্রায় খিয়ানতকারী। তৃতীয়টিতে খা-ইনীন, খিয়ানতকারীরা (৮:৫৮)। ২২:৩৮-এ আস-সা'দী শব্দটার পরিধি বাড়িয়ে দিয়েছেন। আল্লাহ মানুষের কাঁধে যে আমানত দিয়েছেন তাতে খিয়ানত, তাঁর হকে কমতি করা, আর মানুষের সঙ্গে খিয়ানত। ইবনে কাসির সেখানে বলেছেন, এ হলো চুক্তি ও ওয়াদায় বিশ্বাসভঙ্গ, যেখানে মানুষ যা বলে তা করে না। তাহলে এ দোষ রোজকার জীবনের। একটা ধার, একটা গোপন কথা, একটা ওয়াদা, বেতনের বিনিময়ে দেওয়া একটা ঘণ্টা। যাচাই শুরু করুন ছোট আমানত দিয়ে।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "4:107",
+     "note": {
+      "en": "The phrase is “those who betray themselves,” and the Prophet ﷺ is told not to argue on their behalf. As-Sa'di says this covers arguing to shield a wrongdoer from what he did or from its lawful penalty. Ibn Kathir, on the passage's continuation (4:109), adds that such people may win a verdict in this world, since judges rule on what appears, but no one will plead for them before Allah. The mirror is defending one's own side, or oneself, when in the wrong.",
+      "bn": "আয়াতের ভাষা হলো “যারা নিজেদের সঙ্গে খিয়ানত করে”। নবী ﷺ-কে বলা হচ্ছে, তাদের পক্ষ নিয়ে তর্ক করবেন না। আস-সা'দী বলেন, অপরাধীকে তার কাজের দায় থেকে বা শরিয়তসম্মত শাস্তি থেকে বাঁচাতে তর্ক করাও এর মধ্যে পড়ে। এ অংশের পরের আয়াতের (৪:১০৯) ব্যাখ্যায় ইবনে কাসির যোগ করেন, বিচারক বাহ্যিক দেখে রায় দেন বলে দুনিয়ায় তারা জিতে যেতে পারে, কিন্তু আল্লাহর সামনে তাদের হয়ে কেউ দাঁড়াবে না। আয়নাটা এখানে: নিজের দল বা নিজে অন্যায়ে থাকলে তার পক্ষে সাফাই গাওয়া।"
+     }
+    },
+    {
+     "ref": "8:58",
+     "note": {
+      "en": "A treaty is in force and betrayal is feared. The ayah does not allow a surprise strike: the treaty must be openly thrown back so both sides know equally. Ibn Kathir: this “even includes treachery against the disbelievers.” As-Sa'di adds that where no sign of betrayal appears, the treaty must be kept to its term. Honesty is owed even to an adversary one suspects.",
+      "bn": "চুক্তি বহাল আছে, অথচ খিয়ানতের আশঙ্কা দেখা দিয়েছে। আয়াত তখনও হঠাৎ আঘাতের অনুমতি দেয় না। চুক্তি প্রকাশ্যে ফিরিয়ে দিতে হবে, যাতে দুই পক্ষই সমানভাবে জানে। ইবনে কাসির বলেন, এ নিষেধ কাফিরদের সঙ্গে খিয়ানতকেও শামিল করে। আস-সা'দী যোগ করেন, খিয়ানতের কোনো লক্ষণ দেখা না দিলে মেয়াদ শেষ হওয়া পর্যন্ত চুক্তি রক্ষা করা ওয়াজিব। সন্দেহের পাত্র প্রতিপক্ষের সঙ্গেও সততা পাওনা থাকে।"
+     }
+    },
+    {
+     "ref": "22:38",
+     "note": {
+      "en": "It opens with a promise: Allah defends those who believe. As-Sa'di says each believer receives that defence in proportion to his faith. Kafur he glosses as one on whom kindness keeps arriving while disobedience keeps coming from him. He draws the converse too: Allah loves everyone trustworthy who keeps his trust and is grateful to his Lord.",
+      "bn": "আয়াত শুরু হয়েছে একটা প্রতিশ্রুতি দিয়ে: আল্লাহ মুমিনদের রক্ষা করেন। আস-সা'দী বলেন, প্রত্যেক মুমিন এ সুরক্ষা পায় তার ঈমানের অনুপাতে। কাফূর শব্দের ব্যাখ্যায় তিনি বলেন, এমন লোক যার কাছে একের পর এক অনুগ্রহ আসে, আর তার কাছ থেকে একের পর এক নাফরমানি যায়। উল্টো দিকটাও তিনি টেনেছেন: আমানত রক্ষাকারী, রবের প্রতি কৃতজ্ঞ প্রত্যেককে আল্লাহ ভালোবাসেন।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih al-Bukhari 33",
+     "url": "https://quranx.com/hadith/Bukhari/DarusSalam/Hadith-33",
+     "text": {
+      "en": "Abu Hurayrah reported that the Prophet ﷺ said: “The signs of the hypocrite are three: when he speaks, he lies; when he promises, he breaks it; and when he is trusted, he betrays.”",
+      "bn": "আবু হুরায়রা (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: “মুনাফিকের আলামত তিনটি: যখন কথা বলে, মিথ্যা বলে; যখন ওয়াদা করে, ভঙ্গ করে; আর যখন তার কাছে আমানত রাখা হয়, খিয়ানত করে।”"
+     },
+     "note": {
+      "en": "The third sign uses the same root as khawwan in 4:107 and 22:38. These are signs in conduct, which is why the hadith is most useful as a test one runs on oneself: one's speech, one's promises, what one holds for others.",
+      "bn": "তৃতীয় আলামতের শব্দটা ৪:১০৭ ও ২২:৩৮-এর খাওয়ান শব্দের একই মূল থেকে। এগুলো আচরণের আলামত। তাই হাদিসটি সবচেয়ে কাজে আসে নিজের ওপর চালানো পরীক্ষা হিসেবে: আমার কথা, আমার ওয়াদা, আর অন্যের যা আমার হাতে রাখা আছে।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "corruption-and-speech",
+   "title": {
+    "en": "Corruption and Harmful Speech",
+    "bn": "ফাসাদ ও কষ্টদায়ক কথা"
+   },
+   "body": [
+    {
+     "en": "Corruption in the land is named as hated in 2:205 (“Allah does not love corruption”) and 28:77 (“the corrupters”), and again in 5:64. The commentators read fasad broadly. On 2:205 as-Sa'di calls acts of disobedience themselves corruption in the land, and says crops and livestock lose their blessing because of sins. On 28:77 he names arrogance, disobedience and being busied with the blessings instead of the One who gave them. Harm also spreads through words, and 4:148 says Allah does not love evil words spoken openly, with one exception. The gap to watch in oneself is between a pleasing tongue and what one actually does.",
+     "bn": "দুনিয়ায় ফাসাদ ছড়ানোকে অপছন্দনীয় বলা হয়েছে ২:২০৫-এ (“আল্লাহ ফাসাদ ভালোবাসেন না”), ২৮:৭৭-এ (“ফাসাদকারীদের”), আর ৫:৬৪-তেও। মুফাসসিররা ফাসাদকে বড় পরিসরে বুঝেছেন। ২:২০৫-এ আস-সা'দী গুনাহের কাজকেই দুনিয়ায় ফাসাদ বলেছেন। তাঁর মতে গুনাহের কারণেই ফসল আর গবাদিপশু থেকে বরকত উঠে যায়। ২৮:৭৭-এ তিনি গুনিয়েছেন অহংকার, নাফরমানি, আর নিয়ামতদাতাকে ভুলে নিয়ামতেই ডুবে থাকা। ক্ষতি ছড়ায় কথার মাধ্যমেও। ৪:১৪৮ বলছে, খারাপ কথা প্রকাশ্যে বলা আল্লাহ পছন্দ করেন না, তবে একটা ব্যতিক্রম আছে। নিজের ভেতরে যে ফাঁকটা খেয়াল রাখতে হবে: মিষ্টি জবান আর আসল কাজের মধ্যকার দূরত্ব।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "2:205",
+     "note": {
+      "en": "The previous ayah describes a man whose speech impresses. Ibn Kathir reports that some tied it to one named person, and that Qatadah, Mujahid and others took it of hypocrites and believers in general, which he calls correct. As-Sa'di draws the lesson: a person's words prove neither truthfulness nor righteousness until deeds confirm them, so do not be taken in by people's praise of themselves. The same test applies to one's own.",
+      "bn": "আগের আয়াতে এমন এক লোকের কথা, যার কথাবার্তা মুগ্ধ করে। ইবনে কাসির জানান, কেউ কেউ আয়াতটিকে নির্দিষ্ট এক ব্যক্তির সঙ্গে যুক্ত করেছেন। কাতাদা, মুজাহিদ ও অন্যরা একে সাধারণভাবে মুনাফিক ও মুমিনদের বিষয়ে ধরেছেন, আর ইবনে কাসির এ মতকেই সঠিক বলেছেন। আস-সা'দী শিক্ষাটা বের করে আনেন: আমল সত্যায়ন না করা পর্যন্ত কারও কথা তার সততা বা নেককারির প্রমাণ নয়। তাই মানুষের আত্মপ্রশংসায় ভুলবেন না। একই কষ্টিপাথরে নিজেকেও যাচাই করুন।"
+     }
+    },
+    {
+     "ref": "28:77",
+     "note": {
+      "en": "This is the advice Qarun's people gave him. As-Sa'di explains “do not forget your share of the world”: we are not telling you to give away all your wealth and be left stranded; enjoy the world in a way that does not damage your religion. Ibn Kathir reads “do good as Allah has done good to you” as kindness to His creatures. Wealth itself is not the corruption.",
+      "bn": "এ উপদেশ কারূনকে দিয়েছিল তার নিজের সম্প্রদায়। “দুনিয়ায় তোমার অংশ ভুলো না” কথাটার ব্যাখ্যায় আস-সা'দী বলেন: আমরা বলছি না সব সম্পদ দান করে নিঃস্ব হয়ে যাও। দুনিয়া ভোগ করো এমনভাবে, যাতে দ্বীনের ক্ষতি না হয়। “আল্লাহ যেমন তোমার প্রতি অনুগ্রহ করেছেন, তুমিও অনুগ্রহ করো” কথাটিকে ইবনে কাসির পড়েছেন তাঁর সৃষ্টির প্রতি সদাচরণ হিসেবে। সম্পদ নিজে ফাসাদ নয়।"
+     }
+    },
+    {
+     "ref": "4:148",
+     "note": {
+      "en": "As-Sa'di: the ayah covers every hurtful word, such as insult, slander and abuse. The exception is real: the wronged may pray against the one who wronged him and complain of him, without lying about him, without exceeding the wrong, and without insulting anyone else, though pardoning is better. Ibn Kathir cites Ibn Abbas to the same effect: permitted for the wronged, yet patience is better.",
+      "bn": "আস-সা'দী বলেন, কষ্ট দেয় এমন সব কথাই এ আয়াতের আওতায়, যেমন গালি, অপবাদ, নিন্দা। তবে ব্যতিক্রমটা সত্যিকারের। মজলুম তার ওপর জুলুমকারীর বিরুদ্ধে দোয়া করতে পারে, তার বিষয়ে অভিযোগ জানাতে পারে। শর্ত হলো তার নামে মিথ্যা বলা যাবে না, জুলুমের চেয়ে বেশি বলা যাবে না, আর জালিম ছাড়া অন্য কাউকে গালি দেওয়া যাবে না। তবু মাফ করাই উত্তম। ইবনে কাসির ইবনে আব্বাস (রাঃ)-এর একই কথা এনেছেন: মজলুমের জন্য জায়েজ, তবে ধৈর্য ধরা উত্তম।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pride-and-boasting",
+   "title": {
+    "en": "Pride and Boasting",
+    "bn": "অহংকার ও বড়াই"
+   },
+   "body": [
+    {
+     "en": "The most repeated pair on the list is mukhtal fakhur, the self-admiring and boastful (4:36, 31:18, 57:23), joined by al-mustakbirin, the arrogant, in 16:23. On 31:18 as-Sa'di separates the pair: mukhtal is pride in oneself, one's bearing and self-importance; fakhur is pride in one's speech. One is carried in the body, the other spoken aloud. Ibn Kathir on 4:36 describes the man who thinks he is better than others while he is insignificant to Allah. The Prophet ﷺ measured this fault in the smallest unit there is. What to watch for is the silent comparison that ends with oneself on top.",
+     "bn": "এ তালিকায় সবচেয়ে বেশি এসেছে একটা জোড়া শব্দ: মুখতাল ফাখূর, আত্মমুগ্ধ ও বড়াইকারী (৪:৩৬, ৩১:১৮, ৫৭:২৩)। ১৬:২৩-এ এর সঙ্গে যোগ হয়েছে মুস্তাকবিরীন, অহংকারীরা। ৩১:১৮-এ আস-সা'দী জোড়াটা আলাদা করে দেখিয়েছেন। মুখতাল হলো নিজের ব্যাপারে, নিজের চালচলন ও নিজেকে বড় ভাবায় অহংকার। ফাখূর হলো কথায় অহংকার। একটা বয়ে বেড়ানো হয় শরীরে, অন্যটা উচ্চারিত হয় মুখে। ৪:৩৬-এ ইবনে কাসির এমন লোকের বর্ণনা দেন, যে নিজেকে অন্যদের চেয়ে ভালো ভাবে, অথচ আল্লাহর কাছে সে তুচ্ছ। নবী ﷺ এ দোষ মেপেছেন সবচেয়ে ছোট এককে। খেয়াল রাখার বিষয় হলো সেই নীরব তুলনা, যার শেষে নিজেকেই ওপরে দেখা যায়।"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "4:36",
+     "note": {
+      "en": "The ayah lists rights: parents, relatives, orphans, the needy, near and far neighbours, the companion at one's side, the traveller, those under one's hand. Then it ends on the boastful. As-Sa'di explains the link: whoever neglects these is arrogant toward Allah's servants, and “their self-admiration and boasting prevent them from fulfilling the rights.” Pride appears here as the thing that blocks kindness.",
+      "bn": "আয়াতটি একের পর এক হক গুনিয়েছে: মা-বাবা, আত্মীয়, এতিম, অভাবী, কাছের ও দূরের প্রতিবেশী, পাশের সঙ্গী, মুসাফির, অধীনস্থ মানুষ। তারপর শেষ করেছে বড়াইকারীর কথা দিয়ে। আস-সা'দী যোগসূত্রটা বুঝিয়েছেন। যে এসব হক আদায় করে না, সে আল্লাহর বান্দাদের ওপর অহংকারী। তাদের আত্মমুগ্ধতা আর বড়াই-ই তাদের হক আদায় থেকে আটকে রাখে। অহংকার এখানে দয়ার পথের বাধা।"
+     }
+    },
+    {
+     "ref": "31:18",
+     "note": {
+      "en": "Luqman's advice to his son. On “do not turn your cheek” as-Sa'di says: do not tilt it and frown at people out of arrogance. Ibn Kathir: do not turn your face away when you speak to people or they speak to you, looking down on them. On walking marahan, as-Sa'di: exulting in blessings while forgetting the One who gave them, pleased with oneself. Pride shows first in the face and the walk.",
+      "bn": "ছেলের প্রতি লুকমানের উপদেশ। “গাল ফিরিয়ে নিও না” কথার ব্যাখ্যায় আস-সা'দী বলেন, অহংকারবশে মানুষের দিক থেকে গাল বাঁকিয়ে মুখ গোমড়া কোরো না। ইবনে কাসির বলেন, মানুষ কথা বললে বা তুমি তাদের সঙ্গে কথা বললে তুচ্ছ করে মুখ ফিরিয়ে নিও না। আর মারাহান চলা প্রসঙ্গে আস-সা'দী বলেন, নিয়ামত নিয়ে দম্ভ করা, নিয়ামতদাতাকে ভুলে যাওয়া, নিজেকে নিয়ে মুগ্ধ থাকা। অহংকার প্রথম ধরা পড়ে চেহারায় আর চলনে।"
+     }
+    },
+    {
+     "ref": "16:23",
+     "note": {
+      "en": "The ayah opens with Allah's knowledge of “what they conceal and what they declare,” so pride is first something hidden. Ibn Kathir places it among hearts that recoil from the oneness of Allah; their pride is being too proud to worship Him. As-Sa'di links it to 40:60, where those who disdain His worship are warned. At root, arrogance is refusing to bow.",
+      "bn": "আয়াত শুরু হয়েছে আল্লাহর জ্ঞান দিয়ে: তারা যা গোপন করে আর যা প্রকাশ করে, সবই তিনি জানেন। অর্থাৎ অহংকার আগে থাকে লুকানো। ইবনে কাসির একে রেখেছেন সেই অন্তরগুলোর প্রসঙ্গে, যারা আল্লাহর একত্বের কথা শুনে বিমুখ হয়। তাদের অহংকার হলো আল্লাহর ইবাদত করতে নিজেদের বড় মনে করা। আস-সা'দী একে মিলিয়েছেন ৪০:৬০-এর সঙ্গে, যেখানে তাঁর ইবাদতকে তুচ্ছ করা লোকদের সতর্ক করা হয়েছে। অহংকারের মূলে আছে মাথা নত করতে অস্বীকার।"
+     }
+    },
+    {
+     "ref": "57:23",
+     "note": {
+      "en": "It follows 57:22: every hardship is written before it happens. As-Sa'di: the joy forbidden is joy of insolence and wantonness, since they know they gained it by Allah's grace, not their own power; the boaster is one who credits Allah's blessings to himself. Ibn Kathir quotes Ikrimah: everyone feels happiness and grief, so make your joy gratitude and your grief patience.",
+      "bn": "আয়াতটি এসেছে ৫৭:২২-এর পরে, যেখানে বলা হয়েছে প্রতিটি বিপদ ঘটার আগেই লেখা আছে। আস-সা'দী বলেন, এখানে যে খুশি নিষেধ, তা ঔদ্ধত্য আর বেপরোয়া দম্ভের খুশি। কারণ মুমিন জানে, যা পেয়েছে তা নিজের শক্তিতে নয়, আল্লাহর অনুগ্রহে পেয়েছে। আর বড়াইকারী হলো সে, যে আল্লাহর নিয়ামতকে নিজের কৃতিত্ব বলে চালায়। ইবনে কাসির ইকরিমার কথা এনেছেন: খুশি আর দুঃখ সবারই আসে। খুশিকে শোকর বানাও, দুঃখকে সবর।"
+     }
+    }
+   ],
+   "hadith": [
+    {
+     "src": "Sahih Muslim 91a",
+     "url": "https://quranx.com/hadith/Muslim/Hadith-91",
+     "text": {
+      "en": "Abdullah ibn Mas'ud reported that the Prophet ﷺ said: “No one will enter Paradise who has an atom's weight of pride in his heart.” A man said: “A man likes his garment to be fine and his sandals to be fine.” He said: “Allah is beautiful and loves beauty. Pride is rejecting the truth and looking down on people.”",
+      "bn": "আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণিত, নবী ﷺ বলেছেন: “যার অন্তরে অণু পরিমাণ অহংকার আছে, সে জান্নাতে প্রবেশ করবে না।” এক ব্যক্তি বলল: “মানুষ তো চায় তার পোশাক সুন্দর হোক, তার জুতা সুন্দর হোক।” তিনি বললেন: “আল্লাহ সুন্দর, তিনি সৌন্দর্য ভালোবাসেন। অহংকার হলো সত্যকে প্রত্যাখ্যান করা আর মানুষকে তুচ্ছ জ্ঞান করা।”"
+     },
+     "note": {
+      "en": "The man's question is the reader's question, and the answer separates pride from good appearance. Its two halves match the ayat above: rejecting the truth is the refusal of 16:23, and looking down on people is the turned cheek of 31:18.",
+      "bn": "লোকটির প্রশ্ন আসলে পাঠকেরই প্রশ্ন, আর উত্তরটা সুন্দর চেহারা-পোশাককে অহংকার থেকে আলাদা করে দেয়। সংজ্ঞার দুই অংশ ওপরের আয়াতের সঙ্গে মিলে যায়। সত্য প্রত্যাখ্যান হলো ১৬:২৩-এর অস্বীকার, আর মানুষকে তুচ্ছ করা হলো ৩১:১৮-এর ফিরিয়ে নেওয়া গাল।"
+     }
+    }
+   ]
+  },
+  {
+   "id": "wealth-and-excess",
+   "title": {
+    "en": "Exultance, Waste and Greed",
+    "bn": "দম্ভ, অপচয় ও লোভ"
+   },
+   "body": [
+    {
+     "en": "The last group concerns what a person does with what he has been given. Qarun's people tell him “do not exult” (28:76). Two ayat say eat, but do not be excessive, for He does not love al-musrifin (6:141, 7:31). The ayah on usury ends with “Allah does not love every sinful ingrate” (2:276). None of these condemns wealth, food, adornment or joy; 7:31 actually commands adornment, eating and drinking. What is disliked is the self that swells around the gift. The question for oneself is whether a blessing has made one more grateful, or more full of oneself.",
+     "bn": "শেষ দলটা হলো, মানুষকে যা দেওয়া হয়েছে তা নিয়ে সে কী করে। কারূনকে তার সম্প্রদায় বলেছিল, “দম্ভ কোরো না” (২৮:৭৬)। দুটো আয়াত বলছে, খাও, কিন্তু অপচয় কোরো না, তিনি মুসরিফীন অর্থাৎ অপচয়কারীদের ভালোবাসেন না (৬:১৪১, ৭:৩১)। সুদের আয়াত শেষ হয়েছে এ কথায়: আল্লাহ কোনো অকৃতজ্ঞ পাপীকে ভালোবাসেন না (২:২৭৬)। এর একটিও সম্পদ, খাবার, সাজসজ্জা বা আনন্দকে দোষ দেয় না। বরং ৭:৩১ সাজসজ্জা নিতে আর খেতে-পান করতে হুকুমই দিচ্ছে। অপছন্দ সেই আমিত্ব, যা দানকে ঘিরে ফুলে ওঠে। নিজেকে জিজ্ঞেস করুন: নিয়ামতটা আমাকে আরও কৃতজ্ঞ বানিয়েছে, নাকি নিজেকে নিয়ে আরও ভরপুর?"
+    }
+   ],
+   "verses": [
+    {
+     "ref": "28:76",
+     "note": {
+      "en": "The farah forbidden is not joy itself. Ibn Kathir: “do not exult in what you have” means do not be arrogant and proud of your wealth; Mujahid: those who are insolent and do not thank Allah for what He gave. As-Sa'di: do not rejoice in this world, boasting of it and letting it distract you from the Hereafter. Elsewhere the Quran commands rejoicing in Allah's bounty and mercy (10:58).",
+      "bn": "এখানে যে ফারাহ নিষেধ, তা খুশি নিজে নয়। ইবনে কাসির বলেন, “যা আছে তা নিয়ে দম্ভ কোরো না” মানে সম্পদ নিয়ে অহংকার ও গর্ব কোরো না। মুজাহিদের মতে, তারা উদ্ধত, আল্লাহ যা দিয়েছেন তার শোকর করে না। আস-সা'দী বলেন, দুনিয়া নিয়ে এমন খুশি হয়ো না যে তা নিয়ে বড়াই করো আর তা তোমাকে আখিরাত থেকে ভুলিয়ে রাখে। অথচ আল্লাহর অনুগ্রহ ও রহমতে খুশি হতে কুরআন অন্যত্র হুকুমই দিয়েছে (১০:৫৮)।"
+     }
+    },
+    {
+     "ref": "6:141",
+     "note": {
+      "en": "Ibn Kathir reports two readings. Ibn Jurayj said it came down about a Companion who gave away his whole date harvest in one day and was left with nothing, so the excess would be in giving. Ibn Kathir himself prefers that it concerns eating. As-Sa'di joins them: excess in eating that harms the zakah, and giving beyond the due in a way that harms oneself, one's family or creditors.",
+      "bn": "ইবনে কাসির দুটো ব্যাখ্যা এনেছেন। ইবনে জুরাইজ বলেছেন, আয়াতটি নাজিল হয়েছিল এমন এক সাহাবিকে নিয়ে, যিনি এক দিনেই খেজুরের পুরো ফসল বিলিয়ে দিয়ে খালি হাতে রয়ে গিয়েছিলেন। সে হিসেবে বাড়াবাড়িটা দানে। ইবনে কাসির নিজে খাওয়ার অর্থটাকেই অগ্রাধিকার দিয়েছেন। আস-সা'দী দুটোকে একসঙ্গে ধরেছেন: এমনভাবে খাওয়া যাতে জাকাতের ক্ষতি হয়, আর ওয়াজিবের চেয়ে এত বেশি দেওয়া যাতে নিজের, পরিবারের বা পাওনাদারের ক্ষতি হয়।"
+     }
+    },
+    {
+     "ref": "7:31",
+     "note": {
+      "en": "As-Sa'di defines israf three ways: going beyond sufficiency with a greed for food that harms the body; excess of luxury and fussiness in food, drink and clothing; and crossing from the lawful to the forbidden. He adds that the ayah also forbids giving up eating and drinking. Ibn Kathir cites Ibn Abbas: eat and wear what you wish, as long as you avoid two things, extravagance and arrogance.",
+      "bn": "আস-সা'দী ইসরাফ বা অপচয়ের তিনটি রূপ দেখিয়েছেন। প্রয়োজনের বেশি খাওয়া আর এমন লোভ যা শরীরের ক্ষতি করে। খাবার, পানীয় ও পোশাকে মাত্রাছাড়া বিলাস আর বাছবিচার। আর হালাল থেকে হারামে পা দেওয়া। তিনি আরও বলেন, আয়াতটি খাওয়া-পান করা ছেড়ে দিতেও নিষেধ করে। ইবনে কাসির ইবনে আব্বাস (রাঃ)-এর কথা এনেছেন: যা ইচ্ছা খাও, যা ইচ্ছা পরো, শুধু দুটো জিনিস এড়িয়ে চলো, অপচয় আর অহংকার।"
+     }
+    },
+    {
+     "ref": "2:276",
+     "note": {
+      "en": "Ibn Kathir explains the link between usury and the ayah's ending: those who consume it are not content with the lawful provision Allah gave them and take people's money by evil means, which shows their lack of appreciation for His bounty. As-Sa'di glosses kaffar as ungrateful for Allah's blessings, one who does not pay the charity due and from whose harm people are not safe.",
+      "bn": "সুদ আর আয়াতের শেষ বাক্যের মধ্যে যোগসূত্রটা ইবনে কাসির বুঝিয়েছেন। সুদখোর আল্লাহর দেওয়া হালাল রিজিকে সন্তুষ্ট থাকে না, অন্যায় পথে মানুষের সম্পদ হাতিয়ে নেয়। এতেই প্রকাশ পায় তাঁর অনুগ্রহের প্রতি তার অকৃতজ্ঞতা। আস-সা'দী কাফফার শব্দের অর্থ করেছেন আল্লাহর নিয়ামতের প্রতি অকৃতজ্ঞ, যে ওয়াজিব সদকা আদায় করে না, আর যার অনিষ্ট থেকে মানুষ নিরাপদ থাকে না।"
+     }
+    }
+   ]
+  }
+ ],
+ "practice": [
+  {
+   "en": "Name one clear command you have been quietly excusing yourself from, and start on it this week; love for Allah is shown by following (3:32).",
+   "bn": "যে স্পষ্ট হুকুমটা থেকে চুপচাপ নিজেকে রেহাই দিয়ে আসছেন, সেটার নাম লিখুন, আর এ সপ্তাহেই শুরু করুন। আল্লাহর প্রতি ভালোবাসা প্রমাণ হয় অনুসরণে (৩:৩২)।"
+  },
+  {
+   "en": "When you are wronged, take no more than the wrong, say nothing false about the one who did it, and pardon where it mends things (42:40, 4:148).",
+   "bn": "কেউ আপনার ওপর অন্যায় করলে তার চেয়ে বেশি ফিরিয়ে দেবেন না, তার নামে মিথ্যা বলবেন না, আর যেখানে মাফ করলে সম্পর্ক জোড়া লাগে সেখানে মাফ করুন (৪২:৪০, ৪:১৪৮)।"
+  },
+  {
+   "en": "Audit your small trusts: return what you borrowed, keep what was told in confidence, and if you cannot keep a promise, say so openly instead of letting it lapse.",
+   "bn": "ছোট আমানতগুলোর হিসাব নিন। ধার করা জিনিস ফিরিয়ে দিন, গোপন কথা গোপন রাখুন। কোনো ওয়াদা রাখতে না পারলে চুপ করে ফেলে না রেখে খোলাখুলি জানিয়ে দিন।"
+  },
+  {
+   "en": "Make du'a humbly and quietly, and ask for what suits a servant rather than for ranks beyond you (7:55).",
+   "bn": "দোয়া করুন বিনয়ের সঙ্গে, নিচু স্বরে। চান এমন কিছু যা একজন বান্দার জন্য মানানসই, নিজের নাগালের বাইরের মর্যাদা নয় (৭:৫৫)।"
+  },
+  {
+   "en": "Catch the silent comparison: when you feel better than someone, recall that pride is rejecting the truth and looking down on people.",
+   "bn": "নীরব তুলনাটা ধরে ফেলুন। কারও চেয়ে নিজেকে ভালো মনে হলেই মনে করুন, অহংকার মানে সত্যকে প্রত্যাখ্যান করা আর মানুষকে তুচ্ছ জ্ঞান করা।"
+  },
+  {
+   "en": "When a blessing arrives, thank Allah before you mention it to anyone; eat and dress well, but without waste or display (7:31, 57:23).",
+   "bn": "কোনো নিয়ামত পেলে কাউকে বলার আগে আল্লাহর শোকর আদায় করুন। ভালো খান, ভালো পরুন, তবে অপচয় আর লোক দেখানো ছাড়া (৭:৩১, ৫৭:২৩)।"
+  }
+ ],
+ "refs": [
+  "2:190",
+  "2:205",
+  "2:276",
+  "3:32",
+  "3:57",
+  "3:140",
+  "4:18",
+  "4:36",
+  "4:107",
+  "4:148",
+  "5:64",
+  "5:87",
+  "6:141",
+  "7:31",
+  "7:55",
+  "8:58",
+  "16:23",
+  "22:38",
+  "28:76",
+  "28:77",
+  "30:45",
+  "31:18",
+  "42:40",
+  "47:34",
+  "57:23"
+ ],
+ "refsDropped": [
+  {
+   "ref": "3:119",
+   "reason": "The 'not loving' in this ayah is the hypocrites' lack of love for the believers (tuhibbunahum wa la yuhibbunakum), not a statement that Allah does not love a quality; it does not belong to this topic."
+  }
+ ],
+ "videos": [
+  {
+   "title": "আল্লাহ অপছন্দ যে জিনিস [কী করা উচিত না]",
+   "ytId": "qOcXuZYWo6k",
+   "list": null,
+   "channel": "Islamic Guidance",
+   "watch": "https://www.youtube.com/watch?v=qOcXuZYWo6k"
+  },
+  {
+   "title": "আল্লাহ তা'আলা যেসব ব্যক্তিদের পছন্দ করেন না তারা হলেন...",
+   "ytId": "8cvfisOpm-c",
+   "list": null,
+   "channel": "Islamic Way Of Life",
+   "watch": "https://www.youtube.com/watch?v=8cvfisOpm-c"
+  },
+  {
+   "title": "আল্লাহ অহংকারীদের পছন্দ করেন না || শক্তিশালী ইসলামী ভিডিও ᴴᴰ",
+   "ytId": "wHQTJVw_Q-g",
+   "list": null,
+   "channel": "MercifulServant",
+   "watch": "https://www.youtube.com/watch?v=wHQTJVw_Q-g"
+  },
+  {
+   "title": "This Sin Can DELETE All Your Good Deeds",
+   "ytId": "fNN7szZzCx0",
+   "list": null,
+   "channel": "iLovUAllah™",
+   "watch": "https://www.youtube.com/watch?v=fNN7szZzCx0"
+  },
+  {
+   "title": "Allah does not Love Them!",
+   "ytId": "KeIZyMjEgtk",
+   "list": null,
+   "channel": "TheIslamRevival",
+   "watch": "https://www.youtube.com/watch?v=KeIZyMjEgtk"
+  },
+  {
+   "title": "Be careful of Arrogance and Pride.. Ustad Wahaj Tarin",
+   "ytId": "EG0QONq57-o",
+   "list": null,
+   "channel": "The Deen show islamic videos",
+   "watch": "https://www.youtube.com/watch?v=EG0QONq57-o"
+  }
+ ],
+ "reading": [
+  {
+   "title": {
+    "en": "How to get rid of arrogance",
+    "bn": "অহংকার থেকে মুক্তির উপায়"
+   },
+   "url": "https://islamqa.info/bn/answers/9229",
+   "site": "islamqa.info",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Anyone with an atom's weight of arrogance in his heart will not enter Paradise",
+    "bn": "যার অন্তরে অণু পরিমাণও অহংকার থাকবে, সে জান্নাতে প্রবেশ করবে না"
+   },
+   "url": "https://hadeethenc.com/bn/browse/hadith/6209",
+   "site": "hadeethenc.com",
+   "lang": "bn"
+  },
+  {
+   "title": {
+    "en": "Is buying expensive items regarded as extravagance or excess?",
+    "bn": "দামী দামী জিনিস কেনা কি অপচয় হিসেবে গণ্য?"
+   },
+   "url": "https://islamqa.info/en/answers/137954",
+   "site": "islamqa.info",
+   "lang": "en"
+  },
+  {
+   "title": {
+    "en": "How to get rid of arrogance",
+    "bn": "অহংকার থেকে মুক্তির উপায়"
+   },
+   "url": "https://islamqa.info/en/answers/9229",
+   "site": "islamqa.info",
+   "lang": "en"
+  }
+ ],
+ "sources": [
+  "Tafsir Ibn Kathir (abridged, English)",
+  "Tafsir as-Sa'di"
+ ],
+ "related": [
+  "allah-loves",
+  "th-wrongdoers",
+  "allah-curse"
+ ]
+}
