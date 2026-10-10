@@ -117,5 +117,12 @@
   "word": "نَبَاتًا",
   "tag": "N F INDEF ACC",
   "correct": "N M INDEF ACC: nabāt is masculine (3:37 نَبَاتًا حَسَنًا, masculine adjective). The same correction was confirmed at 78:15. The draft's role states no gender, so the lesson needs no change."
+ },
+ {
+  "batch": "U1",
+  "ref": "67:23",
+  "word": "مَّا",
+  "tag": "N REL",
+  "correct": "P SUP (extra mā, zāʾida, stressing the littleness; a minority reads maṣdariyya). قَلِيلًا is accusative, the naʿt of an omitted maṣdar, so a relative mā has no slot. The corpus tags the identical قَلِيلًا مَّا تَشْكُرُونَ as P SUP at 7:3 and 7:10."
  }
 ]
