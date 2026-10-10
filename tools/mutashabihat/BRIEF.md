@@ -50,6 +50,10 @@ One key per group id in your batch; one note for **every** ayah listed under it.
   no claims about scholars. Description and memory aids only.
 - **Every Arabic word you quote must be in that ayah** (for a tip: in one of the group's
   ayat). Copy it from PREP.md. `validate.js` enforces this.
+- A word from a neighbouring ayah outside the group (a common anchor: "the ayah just
+  before ends in …") may be cited **in transliteration**, after you check it in
+  `data/quran-words.json`. Refrain groups (one ayah repeated word for word) get notes that
+  anchor each occurrence by what comes just before it.
 - Surah references by English name and number (al-Baqarah 2:35). Bengali uses Bengali
   digits (২:৩৫) and the module's Bengali surah names.
 - Lengths: note en ≤ 260 chars, tip en ≤ 420 chars (Bengali ≤ 1.3×). No HTML, at most
