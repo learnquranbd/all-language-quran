@@ -439,5 +439,33 @@
   "word": "نَجْوَىٰكُمْ",
   "tag": "N ACC",
   "correct": "N GEN (muḍāf ilayh of yaday)"
+ },
+ {
+  "batch": "V5",
+  "ref": "63:4",
+  "word": "تُعْجِبُكَ",
+  "tag": "IMPF VF:4 2MS MOOD:IND",
+  "correct": "IMPF VF:4 3FS MOOD:IND (subject is the following nominative أَجْسَامُهُمْ, a broken plural of things; -ka is the object, so 'you' cannot also be the subject)"
+ },
+ {
+  "batch": "V5",
+  "ref": "63:9",
+  "word": "تُلْهِكُمْ",
+  "tag": "IMPF VF:4 2MS MOOD:JUS",
+  "correct": "IMPF VF:4 3FS MOOD:JUS (subject is the following nominative أَمْوَٰلُكُمْ, joined by wa-lā to أَوْلَٰدُكُمْ; -kum is the object)"
+ },
+ {
+  "batch": "V5",
+  "ref": "63:5",
+  "word": "تَعَالَوْا۟",
+  "tag": "IMPV VF:4 2MP",
+  "correct": "IMPV VF:6 2MP (taʿālaw is tafāʿalū, the frozen imperative of taʿālā; the lesson states no form, so no lesson change)"
+ },
+ {
+  "batch": "V5",
+  "ref": "64:11",
+  "word": "قَلْبَهُۥ",
+  "tag": "N FS ACC",
+  "correct": "N MS ACC (qalb is masculine, e.g. qalbin salīm; the lesson states no gender, so no lesson change)"
  }
 ]
