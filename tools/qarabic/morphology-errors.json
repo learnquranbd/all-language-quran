@@ -320,5 +320,19 @@
   "word": "فَرْقًا",
   "tag": "N M INDEF ACC (no VN feature)",
   "correct": "N VN VF:1 M INDEF ACC: maṣdar of faraqa, cognate with al-fāriqāti, same frame as 77:2. Missing feature only; no lesson change"
+ },
+ {
+  "batch": "V4",
+  "ref": "62:3",
+  "word": "يَلْحَقُوا۟",
+  "tag": "IMPF VF:1 3MP MOOD:SUBJ",
+  "correct": "IMPF VF:1 3MP MOOD:JUS: lammā (w3, 'not yet') makes the verb jussive like lam; no nāṣib particle precedes it, and the dropped -na fits either mood, so the particle decides"
+ },
+ {
+  "batch": "V4",
+  "ref": "62:2",
+  "word": "وَإِن",
+  "tag": "CIRC wa + P COND",
+  "correct": "wāw of ḥāl + in mukhaffafa (lightened inna), not conditional: la-fī (w19) carries the lām fāriqa that marks the lightened inna, and there is no answer clause for a condition"
  }
 ]
