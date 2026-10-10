@@ -124,5 +124,19 @@
   "word": "مَّا",
   "tag": "N REL",
   "correct": "P SUP (extra mā, zāʾida, stressing the littleness; a minority reads maṣdariyya). قَلِيلًا is accusative, the naʿt of an omitted maṣdar, so a relative mā has no slot. The corpus tags the identical قَلِيلًا مَّا تَشْكُرُونَ as P SUP at 7:3 and 7:10."
+ },
+ {
+  "batch": "U2",
+  "ref": "68:21",
+  "word": "فَتَنَادَوْا۟",
+  "tag": "V PERF VF:1 3MP (lemma تَنادَ)",
+  "correct": "V PERF VF:6 3MP (tanādā, tafāʿala; prefixed ta- and long ā after the first radical; reciprocal 'called one another'; cf. VF:6 يَتَخَٰفَتُونَ 68:23, يَتَلَٰوَمُونَ 68:30)"
+ },
+ {
+  "batch": "U2",
+  "ref": "68:35",
+  "word": "ٱلْمُسْلِمِينَ",
+  "tag": "PN ACT_PCPL VF:4 MP ACC (i'rab اسم علم منصوب)",
+  "correct": "common noun: ACT_PCPL VF:4 MP ACC, no PN (definite sound masculine plural participle, parallel to كَٱلْمُجْرِمِينَ; it is the object of najʿalu)"
  }
 ]
