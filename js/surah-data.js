@@ -172,7 +172,10 @@ function getSurahByNumber(surahNumber) {
 function getSurahName(surahNumber, lang = 'en') {
   const surah = getSurahByNumber(surahNumber);
   if (!surah) return '';
-  return surah.names[lang] || surah.names.en;
+  if (surah.names[lang]) return surah.names[lang];
+  // Arabic and Persian readers know the surahs by their Arabic names
+  if ((lang === 'ar' || lang === 'fa') && surah.arabicName) return surah.arabicName;
+  return surah.names.en;
 }
 
 /**

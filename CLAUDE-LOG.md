@@ -20,10 +20,11 @@ Code: CI18N.tr(lang, en, ns) namespace files (js/content-i18n.js); tadabbur.js c
 |---|---|
 | BN review | ALL DONE + APPLIED: C1 500, C2 402, C3 295, C4 70, C5 130, C6 166, C7 200, sample 83 (C8-C10 left as is). v945 shipped C1-C4+C6; C5+C7 not yet released. EN fixed by hand: 23:20, 23:38, 11:88 |
 | ur | COMPLETE 6,778/6,778, DEPLOYED v946 (cost ≈3% of 7d) |
-| ar | C1 merged; C2 C3 RUNNING (Quran quotes via {Q:s:a:from-to} placeholders, STYLE-ar.md; check-tr gates ﴿﴾ against quran-words) |
-| id | C1 merged; C2 RUNNING (STYLE-id.md) |
-| hi | C1 pilot RUNNING |
-| EN fixed by hand (with bn/ur) | 23:20, 23:38, 11:88, 6:152 (weak misattributed report removed), 26:186, 31:34, 37:88, 39:67, 37:55 |
+| ar | COMPLETE 6,778, DEPLOYED v947 (every ﴿﴾ quote filled from quran-words via placeholders) |
+| id | C1-C5 merged; C6 C7 RUNNING |
+| hi | C1-C5 merged; C6 C7 RUNNING |
+| EN fixed by hand (with bn + translated langs) | 23:20, 23:38, 11:88, 6:152 (weak misattributed report removed), 26:186, 31:34, 37:88, 39:67, 37:55, 34:13, 17:78-79, 4:78, 26:157, 26:208, 34:21, 37:45, 37:166, 38:78 |
+| getSurahName | ar/fa now use arabicName (was English) |
 | Theme chip labels (14) | DONE in all 13 shared dicts |
 | Other languages | order ur, ar, hi, id, ms, tr, fa, fr, es, de, ru, zh, ja; size waves with budget.js |
 
