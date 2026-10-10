@@ -285,5 +285,12 @@
   "word": "ٱلتَّقْوَىٰ",
   "tag": "N M GEN",
   "correct": "F GEN: the alif maqṣūra of faʿlā is the feminine ending (taqwā is feminine and a diptote); no role states its gender"
+ },
+ {
+  "batch": "U9",
+  "ref": "76:15",
+  "word": "بِـَٔانِيَةٍ",
+  "tag": "N ACT_PCPL VF:1 F INDEF GEN, lemma آنِيَة",
+  "correct": "N FP INDEF GEN: āniya here is the broken plural (pattern afʿila) of ināʾ 'vessel', not the active participle āniya 'boiling' of 88:5. It is joined by wa to the plural akwābin, the gloss is 'vessels', and silver vessels passed round make no sense as 'boiling'. The role already says 'genitive noun \"vessels\"' with no participle or number; no lesson change."
  }
 ]
