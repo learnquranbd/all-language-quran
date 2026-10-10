@@ -19,5 +19,26 @@
   "word": "شَقًّا",
   "tag": "N M INDEF ACC (no VN feature)",
   "correct": "N VN VF:1 M INDEF ACC: the maṣdar of shaqqa and the cognate object of شَقَقْنَا, parallel to صَبًّا in 80:25, which the corpus does tag VN. (This is a missing feature; the case and POS are right.)"
+ },
+ {
+  "batch": "T1",
+  "ref": "78:37",
+  "word": "وَمَا",
+  "tag": "wa: REM PREF (resumption)",
+  "correct": "CONJ (ʿaṭf): mā is joined to as-samāwāti wa-l-arḍi and is genitive in position under rabbi; the fixed formula rabbi s-samāwāti wa-l-arḍi wa-mā baynahumā (cf. 37:5, 38:66) runs on into genitive ar-raḥmāni, and a resumptive wa would leave mā baynahumā with no predicate"
+ },
+ {
+  "batch": "T1",
+  "ref": "78:35",
+  "word": "كِذَّٰبًا",
+  "tag": "VN VF:2 F INDEF ACC",
+  "correct": "VN VF:2 M INDEF ACC: the same masculine verbal noun kidhdhāb (fiʿʿāl, maṣdar of kadhdhaba) is tagged M at 78:28; nothing in 78:35 makes it feminine. Draft role states no gender, so no lesson change needed"
+ },
+ {
+  "batch": "T1",
+  "ref": "78:15",
+  "word": "وَنَبَاتًا",
+  "tag": "N F INDEF ACC",
+  "correct": "N M INDEF ACC: nabāt is masculine (18:45 nabātu l-arḍi fa-aṣbaḥa hashīman, masculine verb). Draft role states no gender, so no lesson change needed"
  }
 ]

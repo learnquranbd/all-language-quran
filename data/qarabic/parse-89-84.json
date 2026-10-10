@@ -3737,6 +3737,467 @@
    }
   },
   {
+   "id": "read-86-3",
+   "unit": "read-86",
+   "icon": "📖",
+   "title": {
+    "en": "aṭ-Ṭāriq 8-10: inna ... la-, a double emphasis",
+    "bn": "আত-তারিক ৮-১০: ইন্না ... লা, দ্বিগুণ জোর"
+   },
+   "concept": {
+    "en": "<b>inna</b> already means \"indeed\". Arabic can add a second emphasis, the <b>lām</b> of emphasis, on inna's predicate: <b>innahu ... la-qādirun</b> \"indeed He is surely able\". Here the lām sits on the predicate because inna's noun is the attached -hu; when the predicate comes first, the lām can join inna's noun instead. It does not change the case: qādirun stays nominative.",
+    "bn": "<b>ইন্না</b> নিজেই \"নিশ্চয়ই\" বোঝায়। আরবি এর সঙ্গে আরেকটি জোর যোগ করতে পারে: ইন্নার খবরের শুরুতে জোরারোপক <b>লাম</b>। যেমন <b>ইন্নাহু ... লাকাদিরুন</b>, \"নিশ্চয়ই তিনি অবশ্যই সক্ষম\"। এখানে লাম বসেছে খবরের গায়ে, কারণ ইন্নার ইসম হলো যুক্ত সর্বনাম -হু। খবর আগে এলে লাম ইন্নার ইসমের গায়েও বসতে পারে। লাম কারক বদলায় না: কাদিরুন মারফুই থাকে।"
+   },
+   "examples": [
+    {
+     "ref": "86:8",
+     "trans": {
+      "en": "Indeed, He [i.e., Allāh], to return him [to life], is Able.",
+      "bn": "তিনি মানুষকে আবার (জীবনে) ফিরিয়ে আনতে অবশ্যই সক্ষম।"
+     },
+     "note": {
+      "en": "The -hu of innahu is inna's noun, \"He\". Its predicate qādirun comes last, nominative, with the emphatic la- attached: two emphases in one sentence, inna and la-.",
+      "bn": "ইন্নাহু-র -হু হলো ইন্নার ইসম, \"তিনি\"। এর খবর কাদিরুন বসেছে শেষে, মারফু, গায়ে জোরারোপক লা। এক বাক্যে দুটি জোর: ইন্না আর লা।"
+     },
+     "words": [
+      {
+       "ar": "إِنَّهُۥ",
+       "en": "Indeed, He",
+       "bn": "নিশ্চয়ই তিনি",
+       "role": {
+        "en": "inna + 'He' (inna's noun)",
+        "bn": "ইন্না + 'তিনি' (ইন্নার ইসম)"
+       },
+       "hl": true
+      },
+      {
+       "ar": "عَلَىٰ",
+       "en": "to",
+       "bn": "ব্যাপারে",
+       "role": {
+        "en": "preposition (ḥarf jarr) ʿalā",
+        "bn": "অব্যয় (হারফ জার্র) আলা"
+       }
+      },
+      {
+       "ar": "رَجْعِهِۦ",
+       "en": "return him",
+       "bn": "তার প্রত্যাবর্তনে",
+       "role": {
+        "en": "genitive noun 'return' + pronoun 'him'",
+        "bn": "মাজরুর বিশেষ্য 'ফিরিয়ে আনা' + সর্বনাম 'তাকে'"
+       }
+      },
+      {
+       "ar": "لَقَادِرٌ",
+       "en": "(is) Able",
+       "bn": "অবশ্যই সক্ষম",
+       "role": {
+        "en": "emphatic la- + nominative participle (khabar)",
+        "bn": "জোরারোপক লা + মারফু কর্তাবাচক বিশেষ্য (খবর)"
+       },
+       "hl": true
+      }
+     ]
+    },
+    {
+     "ref": "86:9",
+     "trans": {
+      "en": "The Day when secrets will be put on trial,",
+      "bn": "যেদিন (কাজকর্ম আকীদা বিশ্বাস ও নিয়্যাত সম্পর্কিত) গোপন বিষয়াদি যাচাই পরখ করা হবে।"
+     },
+     "note": {
+      "en": "yawma is a time adverb, accusative, saying when: \"the Day when secrets are tested\". After the passive verb tublā, as-sarāʾiru is nominative and stands in the subject's place (nāʾib fāʿil).",
+      "bn": "ইয়াওমা কালবাচক শব্দ, মানসুব, জানায় কখন: \"যেদিন গোপন বিষয় পরীক্ষা করা হবে\"। কর্মবাচ্য ক্রিয়া তুবলা-র পরে আস-সারাইরু মারফু, বসেছে কর্তার জায়গায় (নায়েবে ফা'য়িল)।"
+     },
+     "words": [
+      {
+       "ar": "يَوْمَ",
+       "en": "(The) Day",
+       "bn": "সেদিন",
+       "role": {
+        "en": "accusative time adverb 'the Day'",
+        "bn": "মানসুব কালবাচক শব্দ 'সেদিন'"
+       },
+       "hl": true
+      },
+      {
+       "ar": "تُبْلَى",
+       "en": "will be tested",
+       "bn": "পরীক্ষা করা হবে",
+       "role": {
+        "en": "passive present verb (fem.) 'will be tested'",
+        "bn": "কর্মবাচ্য বর্তমান ক্রিয়া (স্ত্রীলিঙ্গ) 'পরীক্ষা করা হবে'"
+       }
+      },
+      {
+       "ar": "ٱلسَّرَآئِرُ",
+       "en": "the secrets",
+       "bn": "গোপন বিষয়াবলী",
+       "role": {
+        "en": "def. nominative plural noun (nāʾib fāʿil)",
+        "bn": "আল + মারফু বহুবচন বিশেষ্য (নায়েবে ফা'য়িল)"
+       },
+       "hl": true
+      }
+     ]
+    },
+    {
+     "ref": "86:10",
+     "trans": {
+      "en": "Then he [i.e., man] will have no power or any helper.",
+      "bn": "সেদিন মানুষের না থাকবে নিজের কোন সামর্থ্য, আর না থাকবে কোন সাহায্যকারী।"
+     },
+     "note": {
+      "en": "Here the emphasis is inside a negation: min before quwwatin makes it \"any power\" and puts it in the genitive. wa-lā carries the negation on to nāṣirin, genitive like it.",
+      "bn": "এখানে জোর এসেছে না-বোধক বাক্যের ভেতরে। কুওয়াতিন-এর আগে মিন বসে মানে করেছে \"কোনো শক্তি\", আর শব্দটিকে মাজরুর করেছে। ওয়ালা সেই নাকচ টেনে নিয়েছে নাসিরিন পর্যন্ত, যা একইভাবে মাজরুর।"
+     },
+     "words": [
+      {
+       "ar": "فَمَا",
+       "en": "Then not",
+       "bn": "অতঃপর না",
+       "role": {
+        "en": "fa + negative particle mā",
+        "bn": "ফা + নেতিবাচক অব্যয় মা"
+       }
+      },
+      {
+       "ar": "لَهُۥ",
+       "en": "(is) for him",
+       "bn": "তার জন্য (থাকবে)",
+       "role": {
+        "en": "li- 'for' + pronoun 'him'",
+        "bn": "অব্যয় লি 'জন্য' + সর্বনাম 'তার'"
+       }
+      },
+      {
+       "ar": "مِن",
+       "en": "any",
+       "bn": "কোন",
+       "role": {
+        "en": "preposition min, 'any' after a negative",
+        "bn": "অব্যয় মিন, না-বোধক বাক্যে 'কোনো'"
+       },
+       "hl": true
+      },
+      {
+       "ar": "قُوَّةٍ",
+       "en": "power",
+       "bn": "শক্তি",
+       "role": {
+        "en": "indef. genitive noun 'power'",
+        "bn": "অনির্দিষ্ট মাজরুর বিশেষ্য 'শক্তি'"
+       },
+       "hl": true
+      },
+      {
+       "ar": "وَلَا",
+       "en": "and not",
+       "bn": "আর না",
+       "role": {
+        "en": "and + negative particle lā",
+        "bn": "এবং + নেতিবাচক অব্যয় লা"
+       }
+      },
+      {
+       "ar": "نَاصِرٍ",
+       "en": "any helper",
+       "bn": "কোনো সাহায্যকারী",
+       "role": {
+        "en": "indef. genitive participle 'helper'",
+        "bn": "অনির্দিষ্ট মাজরুর কর্তাবাচক বিশেষ্য 'সাহায্যকারী'"
+       },
+       "hl": true
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "In إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ (86:8), what is the la- of لَقَادِرٌ?",
+     "bn": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ (৮৬:৮)-এ لَقَادِرٌ-এর লা কী?"
+    },
+    "options": [
+     {
+      "en": "The preposition li- \"for\", so qādir is genitive",
+      "bn": "অব্যয় লি (\"জন্য\"), তাই কাদির মাজরুর"
+     },
+     {
+      "en": "The lām of purpose, \"so that\"",
+      "bn": "উদ্দেশ্যবাচক লাম, \"যাতে\""
+     },
+     {
+      "en": "The lām of command, \"let\"",
+      "bn": "আদেশবাচক লাম, \"যেন ... করে\""
+     },
+     {
+      "en": "The lām of emphasis on inna's predicate",
+      "bn": "ইন্নার খবরের গায়ে জোরারোপক লাম"
+     }
+    ],
+    "answer": 3,
+    "explain": {
+     "en": "qādirun is nominative, so the la- is not a preposition; it sits on a noun, so it is not the lām of purpose or command. It is the lām of emphasis on inna's predicate.",
+     "bn": "কাদিরুন মারফু, তাই লা এখানে অব্যয় নয়। এটি বিশেষ্যের গায়ে বসেছে, তাই উদ্দেশ্য বা আদেশের লামও নয়। এটি ইন্নার খবরের গায়ে বসা জোরারোপক লাম।"
+    }
+   }
+  },
+  {
+   "id": "read-86-4",
+   "unit": "read-86",
+   "icon": "📖",
+   "title": {
+    "en": "aṭ-Ṭāriq 13-17: kaydan, a verb's own noun",
+    "bn": "আত-তারিক ১৩-১৭: কাইদান, ক্রিয়ার নিজস্ব বিশেষ্য"
+   },
+   "concept": {
+    "en": "A verb can be followed by a noun built from its own root, in the accusative: the <b>mafʿūl muṭlaq</b>. <b>yakīdūna kaydan</b> \"they are plotting a plot\" and <b>akīdu kaydan</b> \"I am planning a plan\" use the same noun after the same verb. Only the verb's person changes: <b>ya-...-ūna</b> \"they\", <b>a-</b> \"I\".",
+    "bn": "ক্রিয়ার পরে অনেক সময় তারই ধাতু থেকে গড়া একটি বিশেষ্য মানসুব হয়ে বসে। একে বলে <b>মাফ'উল মুতলাক</b> (সমধাতুজ কর্ম)। <b>ইয়াকীদূনা কাইদান</b> (\"তারা ষড়যন্ত্র করছে\") আর <b>আকীদু কাইদান</b> (\"আমিও কৌশল করছি\")-তে একই ক্রিয়ার পরে একই বিশেষ্য এসেছে। বদলেছে শুধু ক্রিয়ার কর্তা-বোঝানো অংশ: <b>ইয়া-...-ঊনা</b> \"তারা\", <b>আ-</b> \"আমি\"।"
+   },
+   "examples": [
+    {
+     "ref": "86:13",
+     "trans": {
+      "en": "Indeed, it [i.e., the Qur’ān] is a decisive statement,",
+      "bn": "কুরআন (সত্য-মিথ্যার পার্থক্যকারী) চূড়ান্ত সিদ্ধান্তকারী বাণী,"
+     },
+     "note": {
+      "en": "As in 86:8, inna and the emphatic la- frame the sentence. qawlun is the predicate, and faṣlun is its adjective, nominative and indefinite like it.",
+      "bn": "৮৬:৮-এর মতো এখানেও বাক্যকে ঘিরে আছে ইন্না আর জোরারোপক লা। কাওলুন হলো খবর, আর ফাসলুন তার বিশেষণ, তার মতোই মারফু ও অনির্দিষ্ট।"
+     },
+     "words": [
+      {
+       "ar": "إِنَّهُۥ",
+       "en": "Indeed, it",
+       "bn": "নিশ্চয় তা",
+       "role": {
+        "en": "inna + 'it' (inna's noun)",
+        "bn": "ইন্না + 'তা' (ইন্নার ইসম)"
+       }
+      },
+      {
+       "ar": "لَقَوْلٌ",
+       "en": "(is) surely a Word",
+       "bn": "অবশ্যই বাণী",
+       "role": {
+        "en": "emphatic la- + nominative verbal noun (khabar)",
+        "bn": "জোরারোপক লা + মারফু ক্রিয়াবাচক বিশেষ্য (খবর)"
+       },
+       "hl": true
+      },
+      {
+       "ar": "فَصْلٌ",
+       "en": "decisive",
+       "bn": "মীমাংসাকারী",
+       "role": {
+        "en": "nominative adjective (naʿt) 'decisive'",
+        "bn": "মারফু বিশেষণ (না'ত) 'মীমাংসাকারী'"
+       },
+       "hl": true
+      }
+     ]
+    },
+    {
+     "ref": "86:14",
+     "trans": {
+      "en": "And it is not amusement.",
+      "bn": "এবং তা কোন হাসি-ঠাট্টামূলক কথা নয়।"
+     },
+     "note": {
+      "en": "mā here works like laysa \"is not\", and its predicate takes bi-: bi-l-hazli \"amusement\". The bi- adds emphasis, which is why al-hazli is genitive in form.",
+      "bn": "এখানে মা কাজ করছে লাইসা (\"নয়\")-এর মতো, আর এর খবরের আগে বসেছে বি: বিল-হাযলি, \"ঠাট্টা\"। এই বি জোর বাড়ায়, তাই আল-হাযলি রূপে মাজরুর।"
+     },
+     "words": [
+      {
+       "ar": "وَمَا",
+       "en": "And not",
+       "bn": "এবং না",
+       "role": {
+        "en": "and + negative particle mā (like laysa)",
+        "bn": "এবং + নেতিবাচক অব্যয় মা (লাইসা-র মতো)"
+       },
+       "hl": true
+      },
+      {
+       "ar": "هُوَ",
+       "en": "it",
+       "bn": "তা",
+       "role": {
+        "en": "pronoun 'it' (mā's noun)",
+        "bn": "সর্বনাম 'তা' (মা-র ইসম)"
+       }
+      },
+      {
+       "ar": "بِٱلْهَزْلِ",
+       "en": "(is) for amusement",
+       "bn": "হাসি-ঠাট্টার কথা",
+       "role": {
+        "en": "bi- + def. genitive noun (khabar)",
+        "bn": "অব্যয় বি + আল + মাজরুর বিশেষ্য (খবর)"
+       },
+       "hl": true
+      }
+     ]
+    },
+    {
+     "ref": "86:15",
+     "trans": {
+      "en": "Indeed, they are planning a plan,",
+      "bn": "এবং তারা (সত্যের বিরুদ্ধে) ষড়যন্ত্র করছে,"
+     },
+     "note": {
+      "en": "kaydan shares the root k-y-d with yakīdūna and follows it in the accusative: this is the mafʿūl muṭlaq, \"they are plotting a plot\".",
+      "bn": "কাইদান আর ইয়াকীদূনা-র ধাতু একই (কাফ-ইয়া-দাল), আর কাইদান ক্রিয়ার পরে মানসুব হয়ে বসেছে। এটাই মাফ'উল মুতলাক: \"তারা ষড়যন্ত্র করছে\"।"
+     },
+     "words": [
+      {
+       "ar": "إِنَّهُمْ",
+       "en": "Indeed, they",
+       "bn": "নিশ্চয়ই তারা",
+       "role": {
+        "en": "inna + 'they' (inna's noun)",
+        "bn": "ইন্না + 'তারা' (ইন্নার ইসম)"
+       }
+      },
+      {
+       "ar": "يَكِيدُونَ",
+       "en": "are plotting",
+       "bn": "ষড়যন্ত্র করছে",
+       "role": {
+        "en": "present verb + subject 'they'",
+        "bn": "বর্তমান ক্রিয়া + কর্তা 'তারা'"
+       },
+       "hl": true
+      },
+      {
+       "ar": "كَيْدًا",
+       "en": "a plot",
+       "bn": "ভীষণ ষড়যন্ত্র",
+       "role": {
+        "en": "accusative noun (mafʿūl muṭlaq)",
+        "bn": "মানসুব বিশেষ্য (মাফ'উল মুতলাক)"
+       },
+       "hl": true
+      }
+     ]
+    },
+    {
+     "ref": "86:16",
+     "trans": {
+      "en": "But I am planning a plan.",
+      "bn": "আর আমিও (তাদের অন্যায় ধ্বংসাত্মক ষড়যন্ত্র ভন্ডুল করার) কৌশল করছি।"
+     },
+     "note": {
+      "en": "The same pair again with a different subject: the prefix a- in akīdu means \"I\". kaydan comes back unchanged as the mafʿūl muṭlaq.",
+      "bn": "আবার সেই একই জোড়া, শুধু কর্তা আলাদা। আকীদু-র শুরুর আ- মানে \"আমি\"। কাইদান অপরিবর্তিত রূপে আবার এসেছে মাফ'উল মুতলাক হয়ে।"
+     },
+     "words": [
+      {
+       "ar": "وَأَكِيدُ",
+       "en": "But I am planning",
+       "bn": "এবং আমি কৌশল করছি",
+       "role": {
+        "en": "and + present verb, subject 'I' (a-)",
+        "bn": "এবং + বর্তমান ক্রিয়া, কর্তা 'আমি' (আ-)"
+       },
+       "hl": true
+      },
+      {
+       "ar": "كَيْدًا",
+       "en": "a plan",
+       "bn": "ভীষণ কৌশল",
+       "role": {
+        "en": "accusative noun (mafʿūl muṭlaq)",
+        "bn": "মানসুব বিশেষ্য (মাফ'উল মুতলাক)"
+       },
+       "hl": true
+      }
+     ]
+    },
+    {
+     "ref": "86:17",
+     "trans": {
+      "en": "So allow time for the disbelievers. Leave them awhile.",
+      "bn": "কাজেই (এই ষড়যন্ত্রকারী) কাফিরদেরকে অবকাশ দাও, তাদেরকে কিছু সময়ের জন্য অবকাশ দাও।"
+     },
+     "note": {
+      "en": "mahhil (Form II) and amhil (Form IV) come from the same root m-h-l, and both are glossed \"give respite\". The second repeats the first, adding -hum \"them\" as its object.",
+      "bn": "মাহহিল (দ্বিতীয় রূপ) আর আমহিল (চতুর্থ রূপ) একই ধাতু মীম-হা-লাম থেকে, আর দুটোরই অর্থ \"অবকাশ দাও\"। দ্বিতীয়টি প্রথমটিকেই আবার বলেছে, সঙ্গে কর্ম হিসেবে যোগ করেছে -হুম (\"তাদের\")।"
+     },
+     "words": [
+      {
+       "ar": "فَمَهِّلِ",
+       "en": "So give respite",
+       "bn": "তাই অবকাশ দাও",
+       "role": {
+        "en": "fa 'so' + Form II imperative 'give respite'",
+        "bn": "ফা 'তাই' + দ্বিতীয় রূপের আদেশসূচক ক্রিয়া 'অবকাশ দাও'"
+       },
+       "hl": true
+      },
+      {
+       "ar": "ٱلْكَٰفِرِينَ",
+       "en": "(to) the disbelievers",
+       "bn": "কাফেরদেরকে",
+       "role": {
+        "en": "def. accusative pl. participle (object)",
+        "bn": "আল + মানসুব বহুবচন কর্তাবাচক বিশেষ্য (কর্ম)"
+       }
+      },
+      {
+       "ar": "أَمْهِلْهُمْ",
+       "en": "Give respite to them",
+       "bn": "তাদের অবকাশ দাও",
+       "role": {
+        "en": "Form IV imperative + object 'them'",
+        "bn": "চতুর্থ রূপের আদেশসূচক ক্রিয়া + কর্ম 'তাদের'"
+       },
+       "hl": true
+      },
+      {
+       "ar": "رُوَيْدًۢا",
+       "en": "little",
+       "bn": "কিছুক্ষণের",
+       "role": {
+        "en": "accusative noun 'a little while'",
+        "bn": "মানসুব বিশেষ্য 'কিছুক্ষণ'"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "In وَأَكِيدُ كَيْدًا (86:16), what is كَيْدًا?",
+     "bn": "وَأَكِيدُ كَيْدًا (৮৬:১৬)-এ كَيْدًا কী?"
+    },
+    "options": [
+     {
+      "en": "The subject of akīdu, \"I\"",
+      "bn": "আকীদু-র কর্তা, \"আমি\""
+     },
+     {
+      "en": "A ḥāl describing the speaker's state",
+      "bn": "হাল, বক্তার অবস্থা জানায়"
+     },
+     {
+      "en": "The mafʿūl muṭlaq, from the verb's own root",
+      "bn": "মাফ'উল মুতলাক, ক্রিয়ার নিজের ধাতু থেকে"
+     },
+     {
+      "en": "A time adverb, \"for a while\"",
+      "bn": "কালবাচক শব্দ, \"কিছুক্ষণ\""
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "kaydan is accusative and shares the root k-y-d with akīdu, so it is the mafʿūl muṭlaq. The subject \"I\" is in the verb's prefix a-.",
+     "bn": "কাইদান মানসুব, আর আকীদু-র সঙ্গে এর ধাতু একই (কাফ-ইয়া-দাল), তাই এটি মাফ'উল মুতলাক। কর্তা \"আমি\" আছে ক্রিয়ার শুরুর আ- অংশে।"
+    }
+   }
+  },
+  {
    "id": "read-85-1",
    "unit": "read-85",
    "icon": "📖",
