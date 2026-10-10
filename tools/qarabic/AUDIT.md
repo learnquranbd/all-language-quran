@@ -21,7 +21,9 @@ Write only `tools/qarabic/work/<batch>/audit.json`. Touch no other file.
    word's form or function. Check each role against the morphology column word by word:
    POS, tense, person/number, voice, case. Check each stated function (subject, object,
    ḥāl, tamyīz, khabar, badal, naʿt, mafʿūl muṭlaq...) against the i'rab column where
-   shown, and against standard i'rab where it is not. A function stated where the i'rab
+   shown, and against standard i'rab where it is not. The morphology file has some tagging
+   errors: where the Arabic itself proves a tag wrong, the lesson must teach the correct
+   analysis. List each confirmed error under `morphology_errors` in audit.json. A function stated where the i'rab
    is absent and the grammar is genuinely disputed is a major: it should be form-only.
 2. **Practice question broken** (blocker). The marked answer is wrong, a second option is
    also defensible, or the question can't be answered from the lesson.
@@ -54,6 +56,7 @@ drop it. Grammar findings need the specific segment/feature that contradicts the
       "problem": "what is wrong, citing the morphology/i'rab evidence",
       "fix": { "en": "exact replacement text", "bn": "exact replacement text" } }
   ],
+  "morphology_errors": [ { "ref": "80:10", "word": "تَلَهَّىٰ", "tag": "PERF VF:1 3MS", "correct": "IMPF VF:5 2MS (one ta elided)" } ],
   "refuted": [ "one line each: candidate finding and why it fell" ],
   "summary": "counts by severity; overall verdict" }
 ```

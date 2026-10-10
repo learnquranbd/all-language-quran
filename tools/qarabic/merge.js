@@ -49,4 +49,15 @@ for (const [f, add] of Object.entries(byFile)) {
   console.log(`${f}: ${before} → ${data.lessons.length} lessons, ${(out.length / 1024).toFixed(0)} KB`);
   if (write) save(f, data);
 }
+// Confirmed tagging errors in data/morphology/ (from the batch audit) go to one tracked
+// list, so they can be reported upstream or fixed in the local data later.
+const AU = path.join(dir, 'audit.json');
+if (write && fs.existsSync(AU)) {
+  const LOG = path.join(__dirname, 'morphology-errors.json');
+  const have = fs.existsSync(LOG) ? JSON.parse(fs.readFileSync(LOG, 'utf8')) : [];
+  const add = (JSON.parse(fs.readFileSync(AU, 'utf8')).morphology_errors || [])
+    .filter(e => !have.some(h => h.ref === e.ref && h.word === e.word)).map(e => Object.assign({ batch }, e));
+  if (add.length) fs.writeFileSync(LOG, JSON.stringify(have.concat(add), null, 1) + '\n');
+  console.log(`morphology errors logged: +${add.length} (total ${have.length + add.length})`);
+}
 console.log(write ? 'merged' : '(dry run; pass --write)');

@@ -1,0 +1,23 @@
+[
+ {
+  "batch": "T3",
+  "ref": "80:10",
+  "word": "تَلَهَّىٰ",
+  "tag": "V PERF VF:1 3MS (i'rab: فعل ماض)",
+  "correct": "V IMPF VF:5 2MS MOOD:IND: tatalahhā with one ta- elided. It is the khabar of the explicit anta, so it must be 2MS, matching 80:6 تَصَدَّىٰ (IMPF VF:5 2MS) in the same frame. al-Bazzī's reading tallahhā (the ta- assimilated, not dropped) shows the same imperfect."
+ },
+ {
+  "batch": "T3",
+  "ref": "80:18",
+  "word": "أَىِّ",
+  "tag": "N INTG NOM (i'rab: اسم استفهام مرفوع)",
+  "correct": "N INTG GEN: majrūr by مِنْ (visible kasra), and muḍāf to شَىْءٍ."
+ },
+ {
+  "batch": "T3",
+  "ref": "80:26",
+  "word": "شَقًّا",
+  "tag": "N M INDEF ACC (no VN feature)",
+  "correct": "N VN VF:1 M INDEF ACC: the maṣdar of shaqqa and the cognate object of شَقَقْنَا, parallel to صَبًّا in 80:25, which the corpus does tag VN. (This is a missing feature; the case and POS are right.)"
+ }
+]

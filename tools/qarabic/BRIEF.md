@@ -66,7 +66,11 @@ bundled data at merge time. You do not write them, and you must not contradict t
   prefix, core word, suffix. Keep it short: **en ≤ 48 chars**. Abbreviate the obvious
   ("and +", "obj. 'you'") rather than drop information.
 - **The morphology column is authoritative for form**: POS, past/present/imperative,
-  person, voice (PASS), case (NOM/ACC/GEN), definiteness. Never contradict it.
+  person, voice (PASS), case (NOM/ACC/GEN), definiteness. The one exception: the local
+  file has some tagging errors (80:10 تَلَهَّىٰ is tagged past Form I, but with *anta* it is
+  present Form V with one ta elided). Where the Arabic itself proves a tag wrong
+  (vowelling, agreement with an explicit pronoun, a preposition before it), teach the
+  correct analysis and record it in `FLAGS.md` as `ref word: tag → correct, evidence`.
 - **Function** (subject, object, predicate, *ḥāl*, *tamyīz*, *mafʿūl muṭlaq*, *badal*,
   *naʿt*, *muḍāf ilayh*...): take it from the i'rab column when shown. When there is
   no i'rab, give the function only when the grammar is unambiguous, otherwise give the

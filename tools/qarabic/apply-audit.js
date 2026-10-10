@@ -15,7 +15,8 @@ let ok = 0, miss = 0;
 A.findings.forEach((f, i) => {
   if (skip.has(i)) return console.log(`skip  #${i} ${f.where}`);
   const fix = f.fix && typeof f.fix.en === 'string' && typeof f.fix.bn === 'string' ? { en: f.fix.en, bn: f.fix.bn } : null;
-  const t = f.where.replace(/\s+(en|bn)$/, '').split(/\s+/);
+  const hlw = (f.where.match(/\(and w(\d+) hl\)/) || [])[1];   // "note (and w3 hl)": also highlight word 3
+  const t = f.where.replace(/\s*\(and w\d+ hl\)/, '').replace(/\s+(en|bn)$/, '').split(/\s+/);
   const L = lessons.find(l => l.id === t[0]);
   const ex = L && /^\d+:\d+$/.test(t[1] || '') ? L.examples.find(e => e.ref === t[1]) : null;
   const rest = (ex ? t.slice(2) : t.slice(1)).join(' ');
@@ -29,6 +30,7 @@ A.findings.forEach((f, i) => {
   }
   if (!target || target[key] == null) { miss++; return console.log(`MANUAL #${i} ${f.where}: ${f.problem.slice(0, 120)}`); }
   target[key] = fix; ok++;
+  if (hlw && ex && ex.words[hlw - 1]) ex.words[hlw - 1].hl = true;
   console.log(`fixed #${i} ${f.severity} ${f.where}`);
 });
 if (write) fs.writeFileSync(path.join(dir, 'draft.json'), JSON.stringify(D, null, 1));
