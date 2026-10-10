@@ -70,7 +70,8 @@ not top-level `const`. Articles never rendered until v255 because of this.
 | Hope | `hope*.js` | 33 chapters, 12 names |
 | Word Repeat | `word-repeat.js` | Juz + whole-Quran word lists (v909) |
 | Sarf, Nuzul/Asbab | `sarf.js`, `nuzul-timeline.js`, `data/nuzul/` | 358 occasions of revelation |
-| Places in the Quran | `quran-places.js`, `data/places/` | SVG map (Natural Earth) + 34 audited places with certainty badges (v941); pipeline `tools/places/` |
+| Places in the Quran | `quran-places.js`, `data/places/` | SVG map (Natural Earth), 53 audited places with certainty badges, 12 journeys drawn as routes (`journeys.json`), region labels, drag/pinch/Ctrl+wheel zoom (v941, v943-v944); pipeline `tools/places/` (BRIEF, JOURNEYS, validate[-journeys], merge[-journeys]) |
+| Quranic Duas | `quran-duas.js`, `data/quran-duas.json` | 89 duas (exact word spans, word by word, word counts, tap-to-hear) + virtues of 18 surahs/ayat from graded hadith (v943); pipeline `tools/duas/` + `tools/virtues/` (hadith.js = hadith-api with gradings) |
 | Surah Names | `surah-names*.js` | "Why this name?" for every surah (moved here v912) |
 | Quiz, Audio, Khatmah, Learn (Vocab, Kids, Handwriting, Tajweed lessons) | `quiz-center.js`, `khatmah.js`, `learn*.js` | Tools / courses |
 | **Allah group** (99 Names + 7 pages) and **Quranic Themes group** (13 pages) | `theme-pages.js`, `data/themes/*.json` | 20 rich pages (v910-v911) |
@@ -118,6 +119,9 @@ in parallel on claude-max, 2 on claude-pro. Run `budget.js` first.
   ready; it is blocked only on the user accepting emerald as the dark-mode accent.
 
 ## Open items (user decides; don't act unasked)
+
+- Virtues: al-Kahf on Friday is absent (not in the six books; an-Nasāʾī al-Kubrā/al-Ḥākim). Tirmidhi 2921 (Musabbiḥāt) excluded for conflicting grades. Rejected list: `tools/virtues/work/V1/rejected.json` (gitignored work dir).
+- Duas: "word by word count" was read as glosses + per-dua word counts; confirm with the user.
 
 - `data/morphology/` has 73 confirmed tagging errors (`tools/qarabic/morphology-errors.json`); word grammar popups still show them.
 - `data/wbw/en.json` 76:20 glosses ثَمَّ as "then" (should be "there").
