@@ -2,6 +2,7 @@
 // to verify (not authoritative: the drafter confirms each ref in data/quran-words.json and
 // drops any that don't name or clearly refer to the place). Batches P1-P3.
 // kind: city | sanctuary | mountain | valley | land | battle | sea | ruin
+// group: the module section a place is listed under when it differs from its batch
 const PLACES = [
   // P1: the Sanctuary and the Prophet's ﷺ lifetime
   { id: 'makkah', batch: 'P1', kind: 'city', en: 'Makkah (Bakkah)', ar: 'مكة / بكة', refs: ['3:96', '48:24', '6:92', '42:7', '95:3', '90:1-2'] },
@@ -40,5 +41,26 @@ const PLACES = [
   { id: 'fil', batch: 'P3', kind: 'battle', en: 'The Elephant army\'s approach to Makkah', ar: 'أصحاب الفيل', refs: ['105:1-5'] },
   { id: 'kahf', batch: 'P3', kind: 'mountain', en: 'The Cave of the Sleepers (location unknown)', ar: 'الكهف', refs: ['18:9-10', '18:17', '18:25'] },
   { id: 'rass', batch: 'P3', kind: 'land', en: 'The People of ar-Rass (location unknown)', ar: 'أصحاب الرس', refs: ['25:38', '50:12'] },
+  // P4: more of the Prophet's ﷺ time (added 2026-10-10)
+  { id: 'taif', batch: 'P4', group: 'P1', kind: 'city', en: 'aṭ-Ṭāʾif, the second of "the two towns"', ar: 'الطائف', refs: ['43:31'] },
+  { id: 'mina', batch: 'P4', group: 'P1', kind: 'sanctuary', en: 'Minā and the counted days', ar: 'منى', refs: ['2:203'] },
+  { id: 'khandaq', batch: 'P4', group: 'P1', kind: 'battle', en: 'The Trench (al-Aḥzāb)', ar: 'الخندق / الأحزاب', refs: ['33:9-13', '33:20', '33:22', '33:25'] },
+  { id: 'quba', batch: 'P4', group: 'P1', kind: 'sanctuary', en: 'The mosque founded on taqwā, and the mosque of harm', ar: 'مسجد قباء / مسجد الضرار', refs: ['9:107-110'] },
+  { id: 'nadir', batch: 'P4', group: 'P1', kind: 'ruin', en: 'The fortresses of Banū an-Naḍīr', ar: 'بنو النضير', refs: ['59:2-6'] },
+  { id: 'khaybar', batch: 'P4', group: 'P1', kind: 'battle', en: 'Khaybar, the spoils promised after al-Ḥudaybiyah', ar: 'خيبر', refs: ['48:15', '48:18-21'] },
+  { id: 'tabuk', batch: 'P4', group: 'P1', kind: 'battle', en: 'Tabūk, "the hour of hardship"', ar: 'تبوك', refs: ['9:38-42', '9:81', '9:117-118'] },
+  // P5: prophets and nations, more places (added 2026-10-10)
+  { id: 'yusuf-well', batch: 'P5', group: 'P2', kind: 'valley', en: 'The well of Yūsuf', ar: 'غيابة الجب', refs: ['12:10', '12:15', '12:19'] },
+  { id: 'kanaan', batch: 'P5', group: 'P2', kind: 'land', en: 'Yaʿqūb\'s home in the desert (al-badw)', ar: 'البدو', refs: ['12:93', '12:100'] },
+  { id: 'aylah', batch: 'P5', group: 'P2', kind: 'city', en: 'The town by the sea (the Sabbath)', ar: 'القرية التي كانت حاضرة البحر', refs: ['7:163-166', '2:65'] },
+  { id: 'tih', batch: 'P5', group: 'P2', kind: 'land', en: 'The forty years of wandering', ar: 'التيه', refs: ['5:26'] },
+  { id: 'talut-river', batch: 'P5', group: 'P2', kind: 'sea', en: 'Ṭālūt\'s river test', ar: 'نهر طالوت', refs: ['2:249-251'] },
+  { id: 'bethlehem', batch: 'P5', group: 'P2', kind: 'city', en: 'Where Maryam gave birth', ar: 'مكانا قصيا', refs: ['19:16', '19:22-26'] },
+  { id: 'rabwah', batch: 'P5', group: 'P2', kind: 'land', en: 'The high ground of Maryam and her son', ar: 'ربوة ذات قرار ومعين', refs: ['23:50'] },
+  { id: 'majma-bahrayn', batch: 'P5', group: 'P2', kind: 'sea', en: 'The meeting of the two seas (Mūsā and al-Khiḍr)', ar: 'مجمع البحرين', refs: ['18:60-61'] },
+  { id: 'ninawa', batch: 'P5', group: 'P3', kind: 'city', en: 'The people of Yūnus (Nineveh)', ar: 'نينوى', refs: ['10:98', '37:147-148'] },
+  { id: 'qaryah-yasin', batch: 'P5', group: 'P3', kind: 'city', en: 'The town of the three messengers (Yā Sīn)', ar: 'أصحاب القرية', refs: ['36:13-27'] },
+  { id: 'ibrahim-fire', batch: 'P5', group: 'P3', kind: 'city', en: 'Ibrāhīm\'s people and the fire', ar: 'قوم إبراهيم', refs: ['21:68-71', '29:24-26', '37:97-99'] },
+  { id: 'sadd', batch: 'P5', group: 'P3', kind: 'mountain', en: 'The barrier of Dhū al-Qarnayn (location unknown)', ar: 'سد ذي القرنين', refs: ['18:93-98'] },
 ];
 module.exports = { PLACES };

@@ -400,6 +400,7 @@
  "tad_article": "الشرح الكامل",
  "sn_title": "لماذا هذا الاسم؟",
  "places_title": "أماكن في القرآن",
+ "qduas_title": "أدعية القرآن",
  "sahaba_label_article": "المقال الكامل",
  "seerah_label_article": "المقال الكامل",
  "prophets_mark_read": "وضع علامة مقروء",

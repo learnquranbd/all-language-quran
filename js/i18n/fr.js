@@ -400,6 +400,7 @@
  "tad_article": "Explication complète",
  "sn_title": "Pourquoi ce nom ?",
  "places_title": "Les lieux du Coran",
+ "qduas_title": "Les invocations du Coran",
  "sahaba_label_article": "Article complet",
  "seerah_label_article": "Article complet",
  "prophets_mark_read": "Marquer comme lu",

@@ -57,3 +57,23 @@ says there, and the ayat. Readers are Bengali first, English second.
 `node tools/places/validate.js <batch>` prints CLEAN; every ref re-checked against the
 Arabic; every attributed claim matches its quote. Report: places done, refs added or
 dropped, and every location you marked traditional/uncertain/unknown and why.
+
+## Batches P4-P5 (added 2026-10-10)
+
+Many of these places are not named in the ayah: the ayah describes an event or a place
+and the tafsir identify it (Khaybar for 48:20, Tabūk for 9:117, Aylah for 7:163, Nineveh
+for Yūnus's people, Antioch for the town in Yā Sīn). For these:
+- `about` says what the ayat say, in their own terms ("the town that stood by the sea").
+  It must not name the identification as if the Quran said it.
+- `location` opens by saying the Quran does not name the place, then gives each tafsir's
+  identification, attributed, with a `sources` quote. Where the tafsir differ (the mosque
+  of 9:108: Qubāʾ or the Prophet's ﷺ mosque; ar-rabwah of 23:50: Damascus, Ramlah,
+  Jerusalem or Egypt; majmaʿ al-baḥrayn), give the views and choose `loc` honestly:
+  `traditional` only when one identification clearly dominates, else `uncertain` with
+  a radius covering the candidates, or `unknown`.
+- `loc: known` is only for a site that is itself undisputed (aṭ-Ṭāʾif, Minā, Khaybar,
+  Tabūk as towns), and even then the link from the ayah to the site is attributed.
+- Coordinates: aṭ-Ṭāʾif 21.27 40.42; Minā 21.41 39.89; the Trench lay along the north of
+  al-Madīnah (≈24.48 39.59); Qubāʾ mosque 24.44 39.62; Khaybar 25.70 39.29; Tabūk 28.38
+  36.57; Aylah (al-ʿAqabah) 29.53 35.00; Bethlehem 31.70 35.20; Nineveh (Mosul) 36.36
+  43.15; Antioch 36.20 36.16. Check every number yourself; these are hints.

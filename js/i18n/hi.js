@@ -400,6 +400,7 @@
  "tad_article": "पूरी व्याख्या",
  "sn_title": "यह नाम क्यों?",
  "places_title": "क़ुरआन के स्थान",
+ "qduas_title": "क़ुरआन की दुआएँ",
  "sahaba_label_article": "पूरा लेख",
  "seerah_label_article": "पूरा लेख",
  "prophets_mark_read": "पढ़ा हुआ चिह्नित करें",

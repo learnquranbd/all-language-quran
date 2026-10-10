@@ -50,6 +50,7 @@ LQ.Modules = (function () {
     prophets:      ['js/prophets-data.js', 'js/article-index.js', 'js/article-view.js', 'js/prophets.js'],
     surahnames:    ['js/surah-names-data.js', 'js/surah-names.js'],
     places:        ['js/quran-places.js'],
+    'quran-duas':  ['js/quran-duas.js'],
     quranicarabic: ['js/learn-quranic-arabic-data.js', 'js/learn-quranic-arabic.js'],
     tadabbur:      ['js/tadabbur-data.js', 'js/article-index.js', 'js/article-view.js', 'js/tadabbur.js'],
     hope:          ['js/hope-data.js', 'js/hope.js'],

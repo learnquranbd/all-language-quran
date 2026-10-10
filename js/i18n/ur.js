@@ -400,6 +400,7 @@
  "tad_article": "مکمل تشریح",
  "sn_title": "یہ نام کیوں؟",
  "places_title": "قرآن کے مقامات",
+ "qduas_title": "قرآنی دعائیں",
  "sahaba_label_article": "مکمل مضمون",
  "seerah_label_article": "مکمل مضمون",
  "prophets_mark_read": "پڑھا ہوا نشان زد کریں",

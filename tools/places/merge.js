@@ -31,7 +31,8 @@ const D = JSON.parse(fs.readFileSync(P, 'utf8'));
 const have = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, 'utf8')) : [];
 const keep = ['id', 'kind', 'name', 'label', 'loc', 'lat', 'lon', 'radiusKm', 'refs', 'about', 'location', 'sources'];
 const byId = Object.fromEntries(have.map(p => [p.id, p]));
-for (const p of D) byId[p.id] = Object.assign({ group: batch }, Object.fromEntries(keep.filter(k => k in p).map(k => [k, p[k]])));
+const groupOf = id => { const r = PLACES.find(x => x.id === id); return (r && r.group) || batch; };
+for (const p of D) byId[p.id] = Object.assign({ group: groupOf(p.id) }, Object.fromEntries(keep.filter(k => k in p).map(k => [k, p[k]])));
 // sources ship without the long quote: the card names tafsir + ayah; the quote stays in the work file
 const out = PLACES.map(r => byId[r.id]).filter(Boolean).map(p => Object.assign({}, p, { sources: (p.sources || []).map(s => ({ tafsir: s.tafsir, ref: s.ref })) }));
 console.log(`${D.length} places → ${out.length} in places.json`);

@@ -400,6 +400,7 @@
  "tad_article": "شرح کامل",
  "sn_title": "چرا این نام؟",
  "places_title": "مکان‌های قرآن",
+ "qduas_title": "دعاهای قرآنی",
  "sahaba_label_article": "مقاله کامل",
  "seerah_label_article": "مقاله کامل",
  "prophets_mark_read": "علامت‌گذاری به‌عنوان خوانده‌شده",

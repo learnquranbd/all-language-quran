@@ -400,6 +400,7 @@
  "tad_article": "Tam açıklama",
  "sn_title": "Bu isim neden?",
  "places_title": "Kur'an'daki Yerler",
+ "qduas_title": "Kur'an'daki Dualar",
  "sahaba_label_article": "Tam makale",
  "seerah_label_article": "Tam makale",
  "prophets_mark_read": "Okundu olarak işaretle",

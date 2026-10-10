@@ -41,6 +41,7 @@ const TAB_META = {
   sahaba:       { emoji: '🤝', key: 'sahaba_title' },
   surahnames:   { emoji: '📛', key: 'sn_title' },
   places:       { emoji: '📍', key: 'places_title' },
+  'quran-duas': { emoji: '🤲', key: 'qduas_title' },
   nuzul:        { emoji: '🌅', key: 'nuzul_title' },
   sawm:         { emoji: '🌅', key: 'learn_sawm_title' },
   hajj:         { emoji: '🕋', key: 'learn_hajj_title' },

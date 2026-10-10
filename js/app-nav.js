@@ -30,6 +30,7 @@ const APP_NAV_PRIMARY = [
       { tab: 'sarf', emoji: '🧬', label: 'sarf_title' },
       { tab: 'nuzul', emoji: '🌅', label: 'nuzul_title' },
       { tab: 'places', emoji: '📍', label: 'places_title' },
+      { tab: 'quran-duas', emoji: '🤲', label: 'qduas_title' },
       { tab: 'surahnames', emoji: '📛', label: 'sn_title' },
       { tab: 'quiz', emoji: '❓', label: 'quiz' },
       { tab: 'audio', emoji: '🎧', label: 'audio' },

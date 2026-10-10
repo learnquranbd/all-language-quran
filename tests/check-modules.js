@@ -30,6 +30,7 @@ const MODULES = [
   { name: 'prayer', files: ['js/learn-prayer-data.js', 'js/learn-prayer.js'], cls: 'SalahModule' },
   { name: 'hope', files: ['js/hope-data.js', 'js/hope.js'], cls: 'HopeView', ci18n: true },
   { name: 'places', files: ['js/quran-places.js'], cls: 'QuranPlacesView', ci18n: true },
+  { name: 'quran-duas', files: ['js/quran-duas.js'], cls: 'QuranDuasView', ci18n: true },
 ];
 
 const BASE = ['js/translations.js', 'js/content-i18n.js', 'js/surah-data.js'];

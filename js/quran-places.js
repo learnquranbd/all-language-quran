@@ -12,6 +12,13 @@
  * kilometres of each other). A place whose location is only a region is a dashed area,
  * and one with no known location is listed but not drawn.
  *
+ * Journeys (data/places/journeys.json, built by tools/places/merge-journeys.js) are drawn
+ * one at a time as a curved, arrowed route through their stops; the stops are place ids
+ * (coordinates come from places.json) or free points. Seas, rivers and regions carry
+ * faint labels for orientation. The map pans by dragging and zooms by wheel, pinch or the
+ * +/− buttons; while a gesture runs only the viewBox changes, and the pins are redrawn
+ * for the new zoom when it ends.
+ *
  * Renders into #places-container (tab "places").
  */
 /* eslint-disable no-unused-vars */
@@ -34,7 +41,39 @@ const PLACES_UI = {
   pl_group_P3:    { en: 'Earlier nations and other lands', bn: 'পূর্ববর্তী জাতি ও অন্যান্য ভূখণ্ড' },
   pl_same_spot:   { en: 'These places are at the same spot:', bn: 'এই স্থানগুলো একই জায়গায়:' },
   pl_zoom_hint:   { en: 'Numbered circles are several places close together: tap to zoom in.', bn: 'সংখ্যাযুক্ত বৃত্তে কাছাকাছি কয়েকটি স্থান আছে: চাপ দিলে কাছে যাবে।' },
+  pl_pan_hint:    { en: 'Drag to move the map; pinch, Ctrl + scroll or + and − to zoom.', bn: 'মানচিত্র টেনে সরান; দুই আঙুলে, Ctrl চেপে স্ক্রল করে বা + ও − দিয়ে ছোট-বড় করুন।' },
+  pl_zoom_in:     { en: 'Zoom in', bn: 'বড় করুন' },
+  pl_zoom_out:    { en: 'Zoom out', bn: 'ছোট করুন' },
+  pl_journeys:    { en: 'Journeys', bn: 'যাত্রাপথ' },
+  pl_journeys_hint: { en: 'Tap a journey to draw its route on the map.', bn: 'কোনো যাত্রায় চাপ দিলে মানচিত্রে তার পথ আঁকা হবে।' },
+  pl_route:       { en: 'The route', bn: 'পথটি' },
+  pl_stops:       { en: 'Along the way', bn: 'পথের স্থানগুলো' },
+  pl_sketch:      { en: 'The line only sketches the direction; it is not the road that was taken.', bn: 'রেখাটি কেবল দিক বোঝায়; এটি আসলে চলা পথ নয়।' },
+  pl_through:     { en: 'Journeys through this place', bn: 'এই স্থান ছুঁয়ে যাওয়া যাত্রা' },
+  pl_close:       { en: 'Close', bn: 'বন্ধ করুন' },
 };
+/** Faint orientation labels: seas, rivers, regions. `w` = largest view width (map units) at which it shows. */
+const PLACES_REGIONS = [
+  { kind: 'sea', lat: 33.6, lon: 27.5, en: 'Mediterranean Sea', bn: 'ভূমধ্যসাগর', w: 999 },
+  { kind: 'sea', lat: 20.6, lon: 38.4, en: 'Red Sea', bn: 'লোহিত সাগর', w: 999, rot: 58 },
+  { kind: 'sea', lat: 27.0, lon: 50.9, en: 'Persian Gulf', bn: 'পারস্য উপসাগর', w: 999, rot: 35 },
+  { kind: 'sea', lat: 14.2, lon: 57.0, en: 'Arabian Sea', bn: 'আরব সাগর', w: 999 },
+  { kind: 'sea', lat: 12.4, lon: 47.6, en: 'Gulf of Aden', bn: 'এডেন উপসাগর', w: 400, rot: -12 },
+  { kind: 'river', lat: 26.3, lon: 32.2, en: 'Nile', bn: 'নীলনদ', w: 400, rot: 75 },
+  { kind: 'river', lat: 34.6, lon: 41.6, en: 'Euphrates', bn: 'ফোরাত', w: 400, rot: -38 },
+  { kind: 'river', lat: 34.9, lon: 43.9, en: 'Tigris', bn: 'দজলা', w: 400, rot: -60 },
+  { kind: 'land', lat: 22.6, lon: 46.4, en: 'ARABIAN PENINSULA', bn: 'আরব উপদ্বীপ', w: 999 },
+  { kind: 'land', lat: 25.6, lon: 38.0, en: 'al-Ḥijāz', bn: 'হিজাজ', w: 300, rot: 58 },
+  { kind: 'land', lat: 25.0, lon: 44.6, en: 'Najd', bn: 'নজদ', w: 300 },
+  { kind: 'land', lat: 15.0, lon: 45.2, en: 'Yemen', bn: 'ইয়েমেন', w: 999 },
+  { kind: 'land', lat: 34.6, lon: 37.6, en: 'ash-Shām', bn: 'শাম', w: 999 },
+  { kind: 'land', lat: 32.0, lon: 45.6, en: 'Iraq', bn: 'ইরাক', w: 999 },
+  { kind: 'land', lat: 32.6, lon: 53.6, en: 'Persia', bn: 'পারস্য', w: 999 },
+  { kind: 'land', lat: 39.2, lon: 33.0, en: 'Anatolia', bn: 'আনাতোলিয়া', w: 999 },
+  { kind: 'land', lat: 25.0, lon: 29.0, en: 'Egypt', bn: 'মিসর', w: 999 },
+  { kind: 'land', lat: 13.6, lon: 37.4, en: 'Abyssinia', bn: 'হাবশা', w: 999 },
+  { kind: 'land', lat: 29.4, lon: 33.6, en: 'Sinai', bn: 'সিনাই', w: 300 },
+];
 const PLACES_TAFSIR = { 169: 'Ibn Kathīr', 14: 'Ibn Kathīr', 91: 'as-Saʿdī', 15: 'aṭ-Ṭabarī', 90: 'al-Qurṭubī', 94: 'al-Baghawī', 16: 'al-Muyassar', 168: 'Maʿārif al-Qurʾān' };
 const PLACES_KIND = { city: '🏙️', sanctuary: '🕋', mountain: '⛰️', valley: '🏜️', land: '🗺️', battle: '⚔️', sea: '🌊', ruin: '🏛️' };
 
@@ -46,6 +85,9 @@ class QuranPlacesView {
     this.map = null; this.places = null; this.failed = false;
     this.view = null;        // current viewBox {x, y, w, h}
     this.selected = null;    // place id
+    this.journey = null;     // journey id whose route is drawn
+    this.journeys = [];
+    this.gesture = null;     // pointers of a drag or pinch in progress
     this.chooser = null;     // ids of places that share one spot (a cluster zoom can't split)
     window.addEventListener('tabChanged', (e) => {
       try { if (e && e.detail && e.detail.tabId === 'places') this.render(); } catch (_) { /* ignore */ }
@@ -56,6 +98,11 @@ class QuranPlacesView {
       } catch (_) { /* ignore */ }
     });
     this.container.addEventListener('click', (e) => this.onClick(e));
+    this.container.addEventListener('pointerdown', (e) => this.onPointerDown(e));
+    this.container.addEventListener('pointermove', (e) => this.onPointerMove(e));
+    this.container.addEventListener('pointerup', (e) => this.onPointerUp(e));
+    this.container.addEventListener('pointercancel', (e) => this.onPointerUp(e));
+    this.container.addEventListener('wheel', (e) => this.onWheel(e), { passive: false });
   }
 
   // ── helpers ──────────────────────────────────────────────────────────
@@ -88,8 +135,8 @@ class QuranPlacesView {
     if (this._loading) return this._loading;
     if (typeof fetch !== 'function') { this.failed = true; return (this._loading = Promise.resolve()); }
     const get = u => fetch(u).then(r => { if (!r.ok) throw new Error(u); return r.json(); });
-    this._loading = Promise.all([get('data/places/basemap.json'), get('data/places/places.json')])
-      .then(([m, p]) => { this.map = m; this.places = Array.isArray(p) ? p : []; this.view = this.full(); })
+    this._loading = Promise.all([get('data/places/basemap.json'), get('data/places/places.json'), get('data/places/journeys.json').catch(() => [])])
+      .then(([m, p, j]) => { this.map = m; this.places = Array.isArray(p) ? p : []; this.journeys = Array.isArray(j) ? j : []; this.view = this.full(); })
       .catch(() => { this.failed = true; });
     return this._loading;
   }
@@ -144,7 +191,66 @@ class QuranPlacesView {
         <text x="${(c.x + r * 1.6).toFixed(1)}" y="${(c.y + fs * 0.35).toFixed(1)}" font-size="${fs.toFixed(1)}" class="fill-gray-800 dark:fill-gray-100" font-weight="${sel ? 700 : 500}" style="paint-order:stroke" stroke="white" stroke-opacity="0.75" stroke-width="${(fs * 0.25).toFixed(2)}">${this.esc(this.lc(p.label))}</text>
       </g>`;
     }).join('');
-    return this.svg(v, areas + pins, 'w-full h-auto block select-none', this.tt('places_title'));
+    return this.svg(v, this.regionLabels(v) + areas + pins + this.routeLayer(v), 'w-full h-auto block select-none touch-none', this.tt('places_title'));
+  }
+
+  /** Faint sea, river and region names; small regions only once zoomed in. */
+  regionLabels(v) {
+    const base = v.w * 0.026;
+    return PLACES_REGIONS.filter(r => v.w <= r.w).map(r => {
+      const [x, y] = this.xy(r);
+      if (x < v.x || x > v.x + v.w || y < v.y || y > v.y + v.h) return '';
+      const fs = base * (r.kind === 'river' ? 0.85 : r.kind === 'sea' ? 1 : 1.05);
+      const cls = r.kind === 'land' ? 'fill-stone-500/70 dark:fill-slate-400/70' : 'fill-sky-700/70 dark:fill-sky-300/60';
+      const label = this.language === 'bn' ? r.bn : (this.language === 'en' ? r.en : this.lc({ en: r.en }));
+      return `<text x="${x.toFixed(1)}" y="${y.toFixed(1)}" font-size="${fs.toFixed(2)}" text-anchor="middle" class="${cls}" font-style="${r.kind === 'land' ? 'normal' : 'italic'}" letter-spacing="${r.kind === 'land' ? (fs * 0.12).toFixed(2) : 0}" pointer-events="none"${r.rot ? ` transform="rotate(${r.rot} ${x.toFixed(1)} ${y.toFixed(1)})"` : ''}>${this.esc(label)}</text>`;
+    }).join('');
+  }
+
+  journeyById(id) { return (this.journeys || []).find(j => j.id === id); }
+  stopPoint(s) {
+    if (s && s.place) { const p = this.byId(s.place); return p && p.lat != null ? { lat: p.lat, lon: p.lon, place: p } : null; }
+    return s && s.lat != null ? { lat: s.lat, lon: s.lon, label: s.label } : null;
+  }
+  /** A journey's distinct stops in travel order, each with its number. */
+  journeyStops(j) {
+    const out = [], key = q => (q.place ? q.place.id : `${q.lat},${q.lon}`);
+    for (const leg of j.legs || []) for (const s of leg) {
+      const q = this.stopPoint(s);
+      if (q && !out.some(o => key(o) === key(q))) out.push(q);
+    }
+    return out;
+  }
+
+  /** The selected journey: curved dashed legs with a mid-arrow, numbered stops. */
+  routeLayer(v) {
+    const j = this.journey && this.journeyById(this.journey);
+    if (!j) return '';
+    const sw = v.w * 0.004, stops = this.journeyStops(j);
+    const still = typeof matchMedia === 'function' && matchMedia('(prefers-reduced-motion: reduce)').matches;
+    let paths = '', arrows = '';
+    for (const leg of j.legs || []) {
+      const pts = leg.map(s => this.stopPoint(s)).filter(Boolean).map(q => this.xy(q));
+      for (let i = 1; i < pts.length; i++) {
+        const [ax, ay] = pts[i - 1], [bx, by] = pts[i], len = Math.hypot(bx - ax, by - ay);
+        if (len < 1e-6) continue;
+        const cx = (ax + bx) / 2 - (by - ay) * 0.18, cy = (ay + by) / 2 + (bx - ax) * 0.18;
+        const d = `M${ax.toFixed(2)} ${ay.toFixed(2)} Q${cx.toFixed(2)} ${cy.toFixed(2)} ${bx.toFixed(2)} ${by.toFixed(2)}`;
+        paths += `<path d="${d}" fill="none" stroke="white" stroke-opacity="0.8" stroke-width="${(sw * 2.4).toFixed(2)}" stroke-linecap="round"/>
+          <path d="${d}" fill="none" class="stroke-rose-600 dark:stroke-rose-400" stroke-width="${sw.toFixed(2)}" stroke-linecap="round" stroke-dasharray="${(sw * 4).toFixed(2)} ${(sw * 2.5).toFixed(2)}">${still ? '' : `<animate attributeName="stroke-dashoffset" from="${(sw * 13).toFixed(2)}" to="0" dur="1.2s" repeatCount="indefinite"/>`}</path>`;
+        // the point and direction of a quadratic curve at t = 0.5
+        const mx = ax / 4 + cx / 2 + bx / 4, my = ay / 4 + cy / 2 + by / 4, ang = Math.atan2(by - ay, bx - ax) * 180 / Math.PI, a = sw * 3.2;
+        arrows += `<path d="M${a} 0 L${-a} ${a * 0.8} L${-a * 0.4} 0 L${-a} ${-a * 0.8} Z" transform="translate(${mx.toFixed(2)} ${my.toFixed(2)}) rotate(${ang.toFixed(1)})" class="fill-rose-600 dark:fill-rose-400" stroke="white" stroke-width="${(sw * 0.4).toFixed(2)}"/>`;
+      }
+    }
+    const r = v.w * 0.016, fs = v.w * 0.022;
+    const nums = stops.map((q, i) => {
+      const [x, y] = this.xy(q), at = q.place ? `data-pl-pin="${this.esc(q.place.id)}" class="cursor-pointer"` : 'pointer-events="none"';
+      const lbl = q.place ? '' : `<text x="${(x + r * 1.4).toFixed(2)}" y="${(y + fs * 0.35).toFixed(2)}" font-size="${(fs * 1.15).toFixed(2)}" font-weight="600" class="fill-rose-800 dark:fill-rose-200" style="paint-order:stroke" stroke="white" stroke-opacity="0.8" stroke-width="${(fs * 0.3).toFixed(2)}">${this.esc(this.lc(q.label))}</text>`;
+      return `<g ${at}><circle cx="${x.toFixed(2)}" cy="${y.toFixed(2)}" r="${r.toFixed(2)}" class="fill-rose-600 dark:fill-rose-500" stroke="white" stroke-width="${(sw * 0.6).toFixed(2)}"/>
+        <text x="${x.toFixed(2)}" y="${(y + fs * 0.36).toFixed(2)}" font-size="${fs.toFixed(2)}" text-anchor="middle" fill="white" font-weight="700">${i + 1}</text>${lbl}</g>`;
+    }).join('');
+    return `<g data-pl-route>${paths}${arrows}${nums}</g>`;
   }
 
   /** The per-place graphic: a close crop of the map around the place. */
@@ -197,8 +303,61 @@ class QuranPlacesView {
           <button type="button" data-pl-read="${this.esc(p.id)}" class="ms-auto px-3 py-1.5 rounded-full text-xs font-semibold bg-primary/10 text-primary hover:bg-primary/20">📖 ${this.esc(this.tt('pl_read'))}</button>
         </div>
         ${src.length ? `<p class="mt-3 text-[0.7rem] text-gray-400 dark:text-gray-500">${this.esc(this.tt('pl_sources'))}: ${src.join(' · ')}</p>` : ''}
+        ${this.journeysThrough(p)}
       </div>
     </article>`;
+  }
+
+  journeyChip(j) {
+    const on = j.id === this.journey;
+    return `<button type="button" data-pl-journey="${this.esc(j.id)}" class="shrink-0 px-2.5 py-1 rounded-full text-xs font-semibold border ${on ? 'border-rose-600 bg-rose-600 text-white' : 'border-rose-200 dark:border-rose-900 bg-white dark:bg-gray-800 text-rose-700 dark:text-rose-300 hover:border-rose-500'}">🧭 ${this.esc(this.lc(j.label))}</button>`;
+  }
+
+  journeysThrough(p) {
+    const js = (this.journeys || []).filter(j => (j.legs || []).some(leg => leg.some(s => s.place === p.id)));
+    if (!js.length) return '';
+    return `<h4 class="mt-3 mb-1.5 text-xs font-bold uppercase tracking-wide text-gray-500 dark:text-gray-400">${this.esc(this.tt('pl_through'))}</h4>
+      <div class="flex flex-wrap gap-1.5">${js.map(j => this.journeyChip(j)).join('')}</div>`;
+  }
+
+  /** The card of the selected journey: what the ayat say, its stops, and what the route rests on. */
+  journeyCard(j) {
+    const refs = (j.refs || []).map(r => `<button type="button" data-pl-ref="${this.esc(r)}" class="px-2 py-0.5 rounded-md bg-gray-100 dark:bg-gray-700 text-xs font-medium text-gray-700 dark:text-gray-200 hover:bg-primary/10 hover:text-primary">${this.esc(r)}</button>`).join(' ');
+    const stops = this.journeyStops(j).map((q, i) => {
+      const n = `<span class="inline-flex items-center justify-center w-4 h-4 rounded-full bg-rose-600 text-white text-[0.6rem] font-bold">${i + 1}</span>`;
+      return q.place
+        ? `<button type="button" data-pl-place="${this.esc(q.place.id)}" data-pl-keep-journey="1" class="inline-flex items-center gap-1 px-2 py-0.5 rounded-full border border-gray-200 dark:border-gray-600 text-xs text-gray-700 dark:text-gray-200 hover:border-primary">${n} ${this.esc(this.lc(q.place.label))}</button>`
+        : `<span class="inline-flex items-center gap-1 px-2 py-0.5 rounded-full border border-dashed border-gray-300 dark:border-gray-600 text-xs text-gray-600 dark:text-gray-300">${n} ${this.esc(this.lc(q.label))}</span>`;
+    }).join(' ');
+    const src = [...new Set((j.sources || []).map(s => `${this.esc(PLACES_TAFSIR[s.tafsir] || ('#' + s.tafsir))} · ${this.esc(s.ref)}`))];
+    return `<article class="mt-4 rounded-2xl border border-rose-200 dark:border-rose-900/60 bg-white dark:bg-gray-800 p-4" data-pl-journey-detail data-lq-autolink>
+      <div class="flex items-start justify-between gap-2">
+        <h3 class="text-lg font-bold text-gray-800 dark:text-gray-100" dir="auto">🧭 ${this.esc(this.lc(j.name))}</h3>
+        <button type="button" data-pl-journey-close class="shrink-0 px-2 py-1 rounded-full text-xs text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700" aria-label="${this.esc(this.tt('pl_close'))}">✕</button>
+      </div>
+      <h4 class="mt-2 text-xs font-bold uppercase tracking-wide text-gray-500 dark:text-gray-400">${this.esc(this.tt('pl_quran'))}</h4>
+      <p class="text-sm leading-relaxed text-gray-700 dark:text-gray-300 mb-2" dir="auto">${this.esc(this.lc(j.about))}</p>
+      <div class="flex flex-wrap items-center gap-1.5">${refs}
+        <button type="button" data-pl-jread="${this.esc(j.id)}" class="ms-auto px-3 py-1.5 rounded-full text-xs font-semibold bg-primary/10 text-primary hover:bg-primary/20">📖 ${this.esc(this.tt('pl_read'))}</button>
+      </div>
+      <h4 class="mt-3 mb-1.5 text-xs font-bold uppercase tracking-wide text-gray-500 dark:text-gray-400">${this.esc(this.tt('pl_stops'))}</h4>
+      <div class="flex flex-wrap gap-1.5">${stops}</div>
+      <h4 class="mt-3 text-xs font-bold uppercase tracking-wide text-gray-500 dark:text-gray-400">${this.esc(this.tt('pl_route'))}</h4>
+      <p class="text-sm leading-relaxed text-gray-700 dark:text-gray-300" dir="auto">${this.esc(this.lc(j.route))}</p>
+      <p class="mt-1 text-xs italic text-gray-500 dark:text-gray-400">${this.esc(this.tt('pl_sketch'))}</p>
+      ${src.length ? `<p class="mt-3 text-[0.7rem] text-gray-400 dark:text-gray-500">${this.esc(this.tt('pl_sources'))}: ${src.join(' · ')}</p>` : ''}
+    </article>`;
+  }
+
+  /** Zoom buttons, plus "whole map" once zoomed in. */
+  controls() {
+    const zoomed = this.view.w < this.map.width * 0.98;
+    const b = 'w-8 h-8 rounded-full bg-white/90 dark:bg-gray-800/90 shadow text-base font-bold text-gray-700 dark:text-gray-200 flex items-center justify-center';
+    return `<div class="absolute top-2 end-2 flex flex-col items-end gap-1.5">
+      ${zoomed ? `<button type="button" data-pl-reset class="px-3 py-1.5 rounded-full text-xs font-semibold bg-white/90 dark:bg-gray-800/90 shadow text-gray-700 dark:text-gray-200">⤢ ${this.esc(this.tt('pl_reset'))}</button>` : ''}
+      <button type="button" data-pl-zoom="in" class="${b}" aria-label="${this.esc(this.tt('pl_zoom_in'))}">+</button>
+      <button type="button" data-pl-zoom="out" class="${b}" aria-label="${this.esc(this.tt('pl_zoom_out'))}">−</button>
+    </div>`;
   }
 
   list() {
@@ -224,8 +383,12 @@ class QuranPlacesView {
       return;
     }
     if (this.failed) { this.container.innerHTML = `<p class="py-10 text-center text-gray-400">${this.esc(this.tt('pl_failed'))}</p>`; return; }
-    const zoomed = this.view.w < this.map.width * 0.98;
     const sel = this.selected && this.byId(this.selected);
+    const jsel = this.journey && this.journeyById(this.journey);
+    const jrow = (this.journeys || []).length ? `<div class="mb-2">
+        <div class="flex items-center gap-2 mb-1"><span class="text-xs font-bold text-gray-700 dark:text-gray-200">${this.esc(this.tt('pl_journeys'))}</span><span class="text-[0.7rem] text-gray-400 dark:text-gray-500">${this.esc(this.tt('pl_journeys_hint'))}</span></div>
+        <div class="flex gap-1.5 overflow-x-auto pb-1">${this.journeys.map(j => this.journeyChip(j)).join('')}</div>
+      </div>` : '';
     this.container.innerHTML = `<div class="max-w-4xl mx-auto px-1">
       <p class="mt-1 mb-3 text-sm text-gray-600 dark:text-gray-300">${this.esc(this.tt('pl_intro'))}</p>
       <div class="flex flex-wrap items-center gap-3 mb-2 text-xs text-gray-600 dark:text-gray-300">
@@ -233,15 +396,17 @@ class QuranPlacesView {
         <span class="inline-flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-amber-500"></span>${this.esc(this.tt('pl_traditional'))}</span>
         <span class="inline-flex items-center gap-1"><span class="w-3 h-3 rounded-full border border-dashed border-sky-600 bg-sky-500/15"></span>${this.esc(this.tt('pl_uncertain'))}</span>
       </div>
+      ${jrow}
       <div class="relative rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-700" data-pl-map>
         ${this.mainMap()}
-        ${zoomed ? `<button type="button" data-pl-reset class="absolute top-2 end-2 px-3 py-1.5 rounded-full text-xs font-semibold bg-white/90 dark:bg-gray-800/90 shadow text-gray-700 dark:text-gray-200">⤢ ${this.esc(this.tt('pl_reset'))}</button>` : ''}
+        <div data-pl-ctrl>${this.controls()}</div>
       </div>
-      <p class="mt-1.5 text-[0.7rem] text-gray-400 dark:text-gray-500">${this.esc(this.tt('pl_zoom_hint'))} · Natural Earth</p>
+      <p class="mt-1.5 text-[0.7rem] text-gray-400 dark:text-gray-500">${this.esc(this.tt('pl_zoom_hint'))} ${this.esc(this.tt('pl_pan_hint'))} · Natural Earth</p>
       ${this.chooser ? `<div data-pl-chooser class="mt-3 p-3 rounded-xl bg-primary/5 border border-primary/20">
         <p class="text-xs text-gray-600 dark:text-gray-300 mb-2">${this.esc(this.tt('pl_same_spot'))}</p>
         <div class="flex flex-wrap gap-1.5">${this.chooser.map(id => this.byId(id)).filter(Boolean).map(p => `<button type="button" data-pl-place="${this.esc(p.id)}" class="px-2.5 py-1 rounded-full text-xs font-semibold border ${p.id === this.selected ? 'border-primary bg-primary text-white' : 'border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-200'}">${PLACES_KIND[p.kind] || '📍'} ${this.esc(this.lc(p.label))}</button>`).join('')}</div>
       </div>` : ''}
+      ${jsel ? this.journeyCard(jsel) : ''}
       ${sel ? this.detail(sel) : ''}
       ${this.list()}
     </div>`;
@@ -263,6 +428,22 @@ class QuranPlacesView {
     const t0 = e.target;
     const at = sel => (t0.closest ? t0.closest(sel) : null);
     let el;
+    // the click that ends a drag is not a tap
+    if (Date.now() - (this._dragEnd || 0) < 350 && at('[data-pl-map] svg')) return;
+    if ((el = at('[data-pl-zoom]'))) { this.zoomBy(el.getAttribute('data-pl-zoom') === 'in' ? 1 / 1.6 : 1.6, 0.5, 0.5); this.redrawMap(); return; }
+    if ((el = at('[data-pl-journey]'))) {
+      const id = el.getAttribute('data-pl-journey'), j = this.journeyById(id);
+      if (!j || this.journey === id) { this.journey = null; this.render(); return; }
+      this.journey = id; this.selected = null; this.chooser = null;
+      this.zoomTo(this.journeyStops(j), 20);
+      this.render(); this.scrollTo('[data-pl-map]'); return;
+    }
+    if (at('[data-pl-journey-close]')) { this.journey = null; this.render(); return; }
+    if ((el = at('[data-pl-jread]'))) {
+      const j = this.journeyById(el.getAttribute('data-pl-jread'));
+      if (j && typeof ayahTimeline !== 'undefined' && ayahTimeline) ayahTimeline.open({ title: this.lc(j.name), refs: j.refs });
+      return;
+    }
     if ((el = at('[data-pl-cluster]'))) {
       const ps = el.getAttribute('data-pl-cluster').split(',').map(id => this.byId(id)).filter(Boolean);
       const pts = ps.map(p => this.xy(p)), spread = Math.max(...pts.map(q => q[0])) - Math.min(...pts.map(q => q[0])) + Math.max(...pts.map(q => q[1])) - Math.min(...pts.map(q => q[1]));
@@ -275,6 +456,7 @@ class QuranPlacesView {
       const p = this.byId(el.getAttribute('data-pl-place'));
       if (!p) return;
       this.selected = p.id;
+      if (!el.hasAttribute('data-pl-keep-journey')) this.journey = null;
       if (p.lat != null) this.zoomTo([p], p.loc === 'uncertain' ? this.kmPx(p.radiusKm || 150) * 6 : 60);
       this.render(); this.scrollTo('[data-pl-map]'); return;
     }
@@ -288,6 +470,83 @@ class QuranPlacesView {
       const p = this.byId(el.getAttribute('data-pl-read'));
       if (p && typeof ayahTimeline !== 'undefined' && ayahTimeline) ayahTimeline.open({ title: this.lc(p.name), titleAr: p.name.ar, refs: p.refs });
     }
+  }
+
+  // ── pan and zoom ─────────────────────────────────────────────────────
+  /** Keep the view within the map, between a close zoom and the whole map. */
+  clampView(v) {
+    const W = this.map.width, H = this.map.height, ratio = H / W;
+    const w = Math.min(Math.max(v.w, 1.5), W), h = w * ratio;
+    const x = Math.min(Math.max(v.x, -w * 0.25), W - w * 0.75), y = Math.min(Math.max(v.y, -h * 0.25), H - h * 0.75);
+    return { x, y, w, h };
+  }
+  /** Zoom by factor f (<1 zooms in) keeping the point at fraction (fx, fy) of the view still. */
+  zoomBy(f, fx, fy) {
+    const v = this.view, w = Math.min(Math.max(v.w * f, 1.5), this.map.width), h = w * this.map.height / this.map.width;
+    this.view = this.clampView({ x: v.x + v.w * fx - w * fx, y: v.y + v.h * fy - h * fy, w, h });
+  }
+  mapSvg() { return this.container.querySelector('[data-pl-map] svg'); }
+  setViewBox() {
+    const svg = this.mapSvg(), v = this.view;
+    if (svg) svg.setAttribute('viewBox', `${v.x.toFixed(1)} ${v.y.toFixed(1)} ${v.w.toFixed(1)} ${v.h.toFixed(1)}`);
+  }
+  /** Redraw only the map and its buttons (pins, labels and strokes depend on the zoom). */
+  redrawMap() {
+    const svg = this.mapSvg(), ctrl = this.container.querySelector('[data-pl-ctrl]');
+    if (!svg) { this.render(); return; }
+    svg.outerHTML = this.mainMap();
+    if (ctrl) ctrl.innerHTML = this.controls();
+  }
+
+  onPointerDown(e) {
+    const svg = e.target && e.target.closest ? e.target.closest('[data-pl-map] svg') : null;
+    if (!svg || (e.pointerType === 'mouse' && e.button !== 0)) return;
+    const g = this.gesture || (this.gesture = { pts: new Map(), moved: false });
+    g.pts.set(e.pointerId, { x: e.clientX, y: e.clientY });
+    // every change in the number of fingers restarts the gesture from the current view
+    g.start = { view: Object.assign({}, this.view), pts: new Map([...g.pts].map(([k, q]) => [k, Object.assign({}, q)])), rect: svg.getBoundingClientRect() };
+  }
+  onPointerMove(e) {
+    const g = this.gesture;
+    if (!g || !g.pts.has(e.pointerId)) return;
+    g.pts.set(e.pointerId, { x: e.clientX, y: e.clientY });
+    const st = g.start, sv = st.view, rect = st.rect, k0 = sv.w / rect.width;
+    const cur = [...g.pts.values()], ini = [...g.pts.keys()].map(id => st.pts.get(id)).filter(Boolean);
+    if (cur.length === 1 && ini.length === 1) {
+      const dx = cur[0].x - ini[0].x, dy = cur[0].y - ini[0].y;
+      if (!g.moved && Math.hypot(dx, dy) < 6) return;
+      if (!g.moved) { g.moved = true; try { e.target.setPointerCapture(e.pointerId); } catch (_) { /* ignore */ } }
+      this.view = this.clampView({ x: sv.x - dx * k0, y: sv.y - dy * k0, w: sv.w, h: sv.h });
+    } else if (cur.length >= 2 && ini.length >= 2) {
+      g.moved = true;
+      const d0 = Math.hypot(ini[0].x - ini[1].x, ini[0].y - ini[1].y), d1 = Math.hypot(cur[0].x - cur[1].x, cur[0].y - cur[1].y);
+      if (d0 < 1 || d1 < 1) return;
+      const m0 = { x: (ini[0].x + ini[1].x) / 2 - rect.left, y: (ini[0].y + ini[1].y) / 2 - rect.top };
+      const m1 = { x: (cur[0].x + cur[1].x) / 2 - rect.left, y: (cur[0].y + cur[1].y) / 2 - rect.top };
+      const w = Math.min(Math.max(sv.w * d0 / d1, 1.5), this.map.width), k1 = w / rect.width;
+      this.view = this.clampView({ x: sv.x + m0.x * k0 - m1.x * k1, y: sv.y + m0.y * k0 - m1.y * k1, w, h: w * this.map.height / this.map.width });
+    } else return;
+    e.preventDefault();
+    this.setViewBox();
+  }
+  onPointerUp(e) {
+    const g = this.gesture;
+    if (!g || !g.pts.has(e.pointerId)) return;
+    g.pts.delete(e.pointerId);
+    if (g.pts.size) { g.start = { view: Object.assign({}, this.view), pts: new Map([...g.pts].map(([k, q]) => [k, Object.assign({}, q)])), rect: g.start.rect }; return; }
+    this.gesture = null;
+    if (g.moved) { this._dragEnd = Date.now(); this.redrawMap(); }
+  }
+  /** Ctrl + wheel (and a trackpad pinch, which arrives as one) zooms; a plain wheel scrolls the page. */
+  onWheel(e) {
+    const svg = e.target && e.target.closest ? e.target.closest('[data-pl-map] svg') : null;
+    if (!svg || !(e.ctrlKey || e.metaKey)) return;
+    e.preventDefault();
+    const r = svg.getBoundingClientRect();
+    this.zoomBy(Math.exp(e.deltaY * 0.01), (e.clientX - r.left) / r.width, (e.clientY - r.top) / r.height);
+    this.setViewBox();
+    clearTimeout(this._wheelT);
+    this._wheelT = setTimeout(() => this.redrawMap(), 150);
   }
 
   scrollTo(sel) {
