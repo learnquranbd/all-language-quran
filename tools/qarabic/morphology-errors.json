@@ -334,5 +334,33 @@
   "word": "وَإِن",
   "tag": "CIRC wa + P COND",
   "correct": "wāw of ḥāl + in mukhaffafa (lightened inna), not conditional: la-fī (w19) carries the lām fāriqa that marks the lightened inna, and there is no answer clause for a condition"
+ },
+ {
+  "batch": "V2",
+  "ref": "59:7",
+  "word": "نَهَىٰكُمْ",
+  "tag": "IMPF VF:1 3MS MOOD:IND",
+  "correct": "PERF VF:1 3MS (nahā) + obj. -kum: no imperfect prefix (present would be yanhākum), parallel to past ātākum, translation 'has forbidden'"
+ },
+ {
+  "batch": "V2",
+  "ref": "59:9",
+  "word": "تَبَوَّءُو",
+  "tag": "IMPV VF:5 2MP + 2MP suffix",
+  "correct": "PERF VF:5 3MP (tabawwaʾū) + 3MP subject: ṣila of wa-lladhīna, which needs a statement, and the clause continues in the 3rd person (qablihim, yuḥibbūna)"
+ },
+ {
+  "batch": "V2",
+  "ref": "59:14",
+  "word": "شَتَّىٰ",
+  "tag": "MS",
+  "correct": "plural (of shatīt), describing plural qulūbuhum; no masc. singular"
+ },
+ {
+  "batch": "V2",
+  "ref": "59:23",
+  "word": "ٱلْمُهَيْمِنُ",
+  "tag": "ACT_PCPL VF:2",
+  "correct": "participle of haymana (mufayʿil, quadriliteral-like pattern), not Form II (which would be muhammin)"
  }
 ]
