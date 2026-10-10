@@ -18,11 +18,12 @@ Tooling tools/tadabbur-i18n/ (lib, extract → work/C1..C10, BN-REVIEW.md + appl
 Code: CI18N.tr(lang, en, ns) namespace files (js/content-i18n.js); tadabbur.js ci() uses ns 'tadabbur'. Not yet released.
 | Work | Stage |
 |---|---|
-| BN review C1 | RUNNING |
-| BN C2 / C3 / C6 | APPLIED (402 / 295 / 166 strings); C6 had ~25 meaning errors fixed; EN 23:20 + 23:38 corrected by hand |
-| BN sample C4-C10 | APPLIED (83). C7 full + C4, C5 light passes RUNNING; C8-C10 left as is |
-| ur C1 | DONE, merged → data/content-i18n/tadabbur/ur.json (523); conventions in tools/tadabbur-i18n/STYLE-ur.md |
-| ur C2 | RUNNING |
+| BN review | ALL DONE + APPLIED: C1 500, C2 402, C3 295, C4 70, C5 130, C6 166, C7 200, sample 83 (C8-C10 left as is). v945 shipped C1-C4+C6; C5+C7 not yet released. EN fixed by hand: 23:20, 23:38, 11:88 |
+| ur | COMPLETE 6,778/6,778, DEPLOYED v946 (cost ≈3% of 7d) |
+| ar | C1 merged; C2 C3 RUNNING (Quran quotes via {Q:s:a:from-to} placeholders, STYLE-ar.md; check-tr gates ﴿﴾ against quran-words) |
+| id | C1 merged; C2 RUNNING (STYLE-id.md) |
+| hi | C1 pilot RUNNING |
+| EN fixed by hand (with bn/ur) | 23:20, 23:38, 11:88, 6:152 (weak misattributed report removed), 26:186, 31:34, 37:88, 39:67, 37:55 |
 | Theme chip labels (14) | DONE in all 13 shared dicts |
 | Other languages | order ur, ar, hi, id, ms, tr, fa, fr, es, de, ru, zh, ja; size waves with budget.js |
 

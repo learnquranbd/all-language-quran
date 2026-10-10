@@ -6045,8 +6045,8 @@ const TADABBUR_NOTES = {
     "lessonBn": "একসময় যা হালাল ছিল, গুনাহ তাকেও সংকীর্ণ করে দিতে পারে। তাই এই আয়াতকে অন্যের বিচার ভাবার আগে নিজের জন্য সতর্কবাণী হিসেবে পড়ুন।"
   },
   "6:152": {
-    "reflectionEn": "This is the middle verse of the three that Abdullah ibn Abbas (RA) called the will of Muhammad ﷺ. It moves through four places where a decent person quietly bends. Do not come near the orphan's property except in the way that is best, until he is grown. Fill up the measure and the balance with equity, and inside that very command comes the relief that no soul is charged beyond its capacity. When you speak, be just, even when the person concerned is a relative. And fulfil the covenant of Allah. None of the four is about a stranger you will never meet. Each is about the ledger, the scale, the family room and the promise nobody witnessed. The verse closes by asking us to remember.",
-    "reflectionBn": "আবদুল্লাহ ইবনে আব্বাস (রাঃ) যে তিনটি আয়াতকে মুহাম্মাদ ﷺ-এর ওসিয়ত বলেছেন, এটি তার মাঝেরটি। ভালো মানুষও চুপচাপ যেখানে বাঁকা হয়ে যায়, আয়াত সেই চারটি জায়গা ধরে ধরে যায়। ইয়াতীম বড় না হওয়া পর্যন্ত তার সম্পদের কাছেও যেয়ো না, গেলে কেবল সবচেয়ে ভালো পথেই। মাপ ও ওজন ইনসাফের সঙ্গে পূর্ণ করো; আর এই হুকুমের ভেতরেই স্বস্তির কথাটা রাখা আছে, কারো উপর তার সাধ্যের বেশি চাপানো হয় না। কথা বললে ন্যায্য কথা বলো, নিকটাত্মীয়ের বেলায়ও। আর আল্লাহকে দেওয়া কথা রক্ষা করো। চারটির একটিও অচেনা কারো ব্যাপার নয়। হিসাবের খাতা, দাঁড়িপাল্লা, ঘরের ভেতরের আলাপ আর সাক্ষীহীন ওয়াদা, এই তো। শেষে আয়াত বলে, যাতে তোমরা মনে রাখো।",
+    "reflectionEn": "This is the middle verse of three (6:151-153) in which Allah sets out, one by one, what He has made binding. It moves through four places where a decent person quietly bends. Do not come near the orphan's property except in the way that is best, until he is grown. Fill up the measure and the balance with equity, and inside that very command comes the relief that no soul is charged beyond its capacity. When you speak, be just, even when the person concerned is a relative. And fulfil the covenant of Allah. None of the four is about a stranger you will never meet. Each is about the ledger, the scale, the family room and the promise nobody witnessed. The verse closes by asking us to remember.",
+    "reflectionBn": "৬:১৫১-১৫৩, এই তিনটি আয়াতে আল্লাহ একে একে জানিয়েছেন কী কী তিনি অবশ্যপালনীয় করেছেন; এটি তার মাঝেরটি। ভালো মানুষও চুপচাপ যেখানে বাঁকা হয়ে যায়, আয়াত সেই চারটি জায়গা ধরে ধরে যায়। ইয়াতীম বড় না হওয়া পর্যন্ত তার সম্পদের কাছেও যেয়ো না, গেলে কেবল সবচেয়ে ভালো পথেই। মাপ ও ওজন ইনসাফের সঙ্গে পূর্ণ করো; আর এই হুকুমের ভেতরেই স্বস্তির কথাটা রাখা আছে, কারো উপর তার সাধ্যের বেশি চাপানো হয় না। কথা বললে ন্যায্য কথা বলো, নিকটাত্মীয়ের বেলায়ও। আর আল্লাহকে দেওয়া কথা রক্ষা করো। চারটির একটিও অচেনা কারো ব্যাপার নয়। হিসাবের খাতা, দাঁড়িপাল্লা, ঘরের ভেতরের আলাপ আর সাক্ষীহীন ওয়াদা, এই তো। শেষে আয়াত বলে, যাতে তোমরা মনে রাখো।",
     "pointsEn": [
       "Whose money or property is in my hands that is not mine, and would its owner be content with the way I handle it?",
       "Where do I take the full measure and give a short one, in goods, in hours of work, or in effort?",
@@ -6466,7 +6466,7 @@ const TADABBUR_NOTES = {
   },
   "8:11": {
     "reflectionEn": "The verse recalls two gifts on the night before a battle, and neither of them is an army. Drowsiness came over them, a security from Him, on a night when sleep should have been impossible. Then water came down from the sky, and four purposes are named in one breath: to purify them, to take from them the evil of Satan, to bind their hearts firm, and to plant their feet. The rain washed them, packed the loose ground under them, and answered a worry that had been eating at them. The help that steadied the day arrived as weather and as sleep.",
-    "reflectionBn": "আয়াতটি যুদ্ধের আগের রাতের দুটি দান স্মরণ করায়, আর কোনোটাই কোনো বাহিনী নয়। তাঁর কাছ থেকে প্রশান্তি হিসেবে তাদের উপর নেমে এল তন্দ্রা, এমন এক রাতে যখন ঘুম আসারই কথা ছিল না। এরপর আকাশ থেকে নামল পানি, আর এক টানে চারটি উদ্দেশ্য বলা হল: তাদেরকে পবিত্র করা, তাদের থেকে শয়তানের নাপাকি ও কুমন্ত্রণা সরানো, তাদের দিল মজবুত করা, আর তাদের পায়ের ভিত শক্ত করা। বৃষ্টি তাদের গোসল করাল, পায়ের নিচের নরম মাটি চেপে দিল, আর যে দুশ্চিন্তা তাদের কুরে কুরে খাচ্ছিল তার জবাব দিল। সেদিনকে দাঁড় করিয়ে দেওয়া সাহায্যটা এসেছিল আবহাওয়া আর ঘুমের চেহারায়।",
+    "reflectionBn": "আয়াতটি যুদ্ধের আগের রাতের দুটি দান স্মরণ করায়, আর কোনোটাই কোনো বাহিনী নয়। তাঁর কাছ থেকে প্রশান্তি হিসেবে তাদের উপর নেমে এল তন্দ্রা, এমন এক রাতে যখন ঘুম আসারই কথা ছিল না। এরপর আকাশ থেকে নামল পানি, আর এক টানে চারটি উদ্দেশ্য বলা হল: তাদেরকে পবিত্র করা, তাদের থেকে শয়তানের নাপাকি ও কুমন্ত্রণা সরানো, তাদের দিল মজবুত করা, আর তাদের পায়ের ভিত শক্ত করা। বৃষ্টি তাদের গোসল করাল, পায়ের নিচের নরম মাটি চেপে দিল, আর যে দুশ্চিন্তা তাদের কুরে কুরে খাচ্ছিল তার জবাব দিল। যে সাহায্য সেদিনটাকে সামলে দিল, তা এসেছিল আবহাওয়া আর ঘুমের রূপ ধরে।",
     "pointsEn": [
       "What help have I received lately that was too ordinary for me to call it help?",
       "When I am most afraid, do I let myself rest, or do I treat sleeplessness as loyalty?",
@@ -6482,11 +6482,11 @@ const TADABBUR_NOTES = {
       "এ বছর কী আমার পা শক্ত করে ধরে রেখেছে, যার জন্য আমি একবারও তাঁকে শুকরিয়া জানাইনি?"
     ],
     "lessonEn": "Allah's help often arrives looking like nothing much; count the sleep, the water and the quiet as the answer they were.",
-    "lessonBn": "আল্লাহর সাহায্য প্রায়ই এমন চেহারায় আসে যা দেখতে সাধারণ; ঘুম, পানি আর মনের শান্তিকে জবাব হিসেবেই গুনুন, কারণ সেগুলো জবাবই ছিল।"
+    "lessonBn": "আল্লাহর সাহায্য প্রায়ই এত সাধারণ চেহারায় আসে যে চোখেই পড়ে না; ঘুম, পানি আর মনের শান্তিকে জবাব হিসেবেই গুনুন, কারণ সেগুলো জবাবই ছিল।"
   },
   "8:15": {
     "reflectionEn": "The address is to the believers, and the situation is precise: when you meet those who disbelieve advancing, closing the distance for battle. In that moment, do not turn your backs to them. The prohibition is not about what a man feels but about one movement of the body at one point in a fight. The next verse supplies the exceptions and the weight: whoever turns, unless he is manoeuvring for battle or joining another company, has come back with anger from Allah. Two ways out are named, and both of them still face the fight. What the verse guards is a man holding the place he agreed to stand in.",
-    "reflectionBn": "সম্বোধন মু'মিনদের, আর অবস্থাটা নির্দিষ্ট: যুদ্ধের জন্য এগিয়ে আসা কাফিরদের সাথে যখন মুখোমুখি হবে। সেই মুহূর্তে তাদের দিকে পিঠ ফেরাবে না। নিষেধটা মানুষ কী অনুভব করছে তা নিয়ে নয়, বরং লড়াইয়ের এক বিন্দুতে শরীরের একটা নড়াচড়া নিয়ে। পরের আয়াত ব্যতিক্রম আর ভার দুটোই জানায়: যুদ্ধের কৌশল হিসেবে সরে যাওয়া বা নিজের দলের সাথে মিলে যাওয়া ছাড়া যে পিঠ ফেরাল, সে আল্লাহর গজব নিয়েই ফিরল। দুটো বেরোনোর পথ বলা হয়েছে, আর দুটোতেই মুখ লড়াইয়ের দিকেই থাকে। আয়াত যা পাহারা দিচ্ছে তা হল, মানুষ যে জায়গায় দাঁড়াতে রাজি হয়েছিল সেখানেই দাঁড়িয়ে থাকা।",
+    "reflectionBn": "সম্বোধন মু'মিনদের, আর অবস্থাটা নির্দিষ্ট: যুদ্ধের জন্য এগিয়ে আসা কাফিরদের সাথে যখন মুখোমুখি হবে। সেই মুহূর্তে তাদের দিকে পিঠ ফেরাবে না। নিষেধটা মানুষ কী অনুভব করছে তা নিয়ে নয়, বরং লড়াইয়ের একটা নির্দিষ্ট মুহূর্তে শরীরের একটা নড়াচড়া নিয়ে। পরের আয়াত ব্যতিক্রম আর ভার দুটোই জানায়: যুদ্ধের কৌশল হিসেবে সরে যাওয়া বা নিজের দলের সাথে মিলে যাওয়া ছাড়া যে পিঠ ফেরাল, সে আল্লাহর গজব নিয়েই ফিরল। বেরোনোর দুটো পথ রাখা হয়েছে, আর দুটোতেই মুখ থাকে লড়াইয়ের দিকে। আয়াত আসলে আগলে রাখছে এটুকু: মানুষ যেখানে দাঁড়াবে বলে রাজি হয়েছিল, সেখানেই দাঁড়িয়ে থাকা।",
     "pointsEn": [
       "Where have I agreed to stand, and how honestly am I still standing there?",
       "When I step back from something, is it to regroup and return, or is it to be gone?",
@@ -6497,8 +6497,8 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "আমি কোথায় দাঁড়াব বলে কথা দিয়েছিলাম, আর সৎভাবে বললে এখনো কতটা সেখানে দাঁড়িয়ে আছি?",
       "কোনো কিছু থেকে যখন পিছিয়ে আসি, তা কি আবার গুছিয়ে ফিরে আসার জন্য, নাকি চলে যাওয়ার জন্য?",
-      "এ হুকুমের সাথে ব্যতিক্রমও বলে দেওয়া হয়েছে, একটাও রাখা হয়নি এমন নয়; এ থেকে আমি কী শিখি?",
-      "আল্লাহর এমন হুকুম, যা পালন করার অবস্থাতেই আমি নেই, তার সাথে আমার ব্যবহার কেমন?",
+      "এ হুকুমের সাথে ব্যতিক্রমগুলোও নাম ধরে বলে দেওয়া হয়েছে, হুকুমটা একেবারে ব্যতিক্রমহীন রাখা হয়নি। এ থেকে আমি কী শিখি?",
+      "আল্লাহর যে হুকুম পালনের দায় আমার উপর আসার মতো অবস্থাতেই আমি নেই, সেটাকে আমি কীভাবে দেখি?",
       "আমার কোন পিছু হটাকে আমি নিজের কাছে কৌশল বলে চালিয়ে দিয়েছি?"
     ],
     "lessonEn": "Standing firm in the place you took is weighty business; note that both exceptions the next verse allows still keep a man facing the fight.",
@@ -6506,7 +6506,7 @@ const TADABBUR_NOTES = {
   },
   "7:128": {
     "reflectionEn": "Pharaoh has just announced that the killing of the sons will resume. Musa's entire answer to his people is three words in Arabic: seek help through Allah, and be patient. Then, in place of a plan, he states a fact about ownership. The earth belongs to Allah, and He causes whom He wills of His servants to inherit it. That does not deny that Pharaoh runs the land today. It denies that he owns it. And the closing words do not promise them the land at all. They say the outcome belongs to those who keep their duty, which leaves who will be standing at the end unnamed, and puts taqwa rather than survival in front of the listener as the thing to work on.",
-    "reflectionBn": "ফিরআউন সদ্যই ঘোষণা দিয়েছে, ছেলেসন্তান হত্যা আবার শুরু হবে। মূসা (আঃ) নিজের লোকদের যা বললেন, আরবিতে তা মাত্র তিনটি শব্দ: আল্লাহর কাছে সাহায্য চাও, আর ধৈর্য ধরো। এরপর কোনো পরিকল্পনা নয়, তিনি মালিকানার একটা কথা জানিয়ে দেন। যমীন আল্লাহর, আর বান্দাদের মধ্যে যাকে চান তাকেই তিনি এর উত্তরাধিকারী বানান। আজ ফিরআউনের হাতে দেশ চলছে, কথাটা তা অস্বীকার করছে না। অস্বীকার করছে এটাই যে দেশটা তার নিজের। আর শেষ কথাগুলো তাদের যমীনের ওয়াদাই দিচ্ছে না। বলছে, শুভ পরিণাম তাদের যারা তাকওয়া নিয়ে চলে। শেষে কে দাঁড়িয়ে থাকবে তা নাম ধরে বলা হয়নি। শোনার লোকের সামনে কাজ হিসেবে রাখা হয়েছে টিকে থাকা নয়, তাকওয়া।",
+    "reflectionBn": "ফিরআউন সদ্যই ঘোষণা দিয়েছে, ছেলেসন্তান হত্যা আবার শুরু হবে। মূসা (আঃ) নিজের লোকদের যা বললেন, আরবিতে তা মাত্র তিনটি শব্দ: আল্লাহর কাছে সাহায্য চাও, আর ধৈর্য ধরো। এরপর কোনো পরিকল্পনা নয়, তিনি মালিকানার একটা কথা জানিয়ে দেন। যমীন আল্লাহর, আর বান্দাদের মধ্যে যাকে চান তাকেই তিনি এর উত্তরাধিকারী বানান। আজ ফিরআউনের হাতে দেশ চলছে, কথাটা তা অস্বীকার করছে না। অস্বীকার করছে এটাই যে দেশটা তার নিজের। আর শেষ কথাগুলো তাদের যমীনের ওয়াদাই দিচ্ছে না। বলছে, শুভ পরিণাম তাদের যারা তাকওয়া নিয়ে চলে। শেষে কে দাঁড়িয়ে থাকবে তা নাম ধরে বলা হয়নি। আর শ্রোতার সামনে করণীয় হিসেবে রাখা হয়েছে তাকওয়াকে, টিকে থাকাকে নয়।",
     "pointsEn": [
       "Where am I holding on right now without having actually asked Allah for help in words?",
       "When I do ask, am I asking Him, or am I telling Him about the people I want moved?",
@@ -6516,17 +6516,17 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "এখন কোথায় আমি শুধু কষ্ট করে টিকে আছি, কিন্তু মুখ ফুটে আল্লাহর কাছে সাহায্য চাইনি?",
-      "যখন চাই, তখন কি আমি তাঁর কাছেই চাই, নাকি যাদের নড়ানো দরকার তাদের কথা তাঁকে শোনাই?",
-      "মূসা (আঃ) তাদের কোনো তারিখ দেননি, কোনো পরিকল্পনাও দেননি। এ দুটোর একটাও ছাড়া আসা হুকুম নিয়ে কি আমি চলতে পারতাম?",
+      "যখন চাই, তখন কি আমি তাঁর কাছেই চাই, নাকি যাদের সরিয়ে দিতে চাই তাদের কথা তাঁকে শোনাই?",
+      "মূসা (আঃ) তাদের কোনো তারিখ দেননি, কোনো পরিকল্পনাও দেননি। যে নির্দেশে তারিখও নেই, পরিকল্পনাও নেই, তা নিয়ে কি আমি চলতে পারতাম?",
       "আয়াতটি শুভ পরিণামের ওয়াদা দিচ্ছে মুত্তাকীদের, মজলুমদের নয়। এ দুইয়ের কোনটা নিয়ে আমি কাজ করছি?",
       "কার কোন জিনিসকে আমি তার চিরস্থায়ী সম্পত্তি ধরে নিয়েছি, যেটা আয়াত বলছে তার কাছে কেবল ধার দেওয়া আছে?"
     ],
     "lessonEn": "Go and get your help from the One who owns the ground, hold on while He decides who inherits it, and remember the end was promised to taqwa rather than to survival.",
-    "lessonBn": "যিনি এ মাটির মালিক তাঁর কাছ থেকেই সাহায্য নিয়ে আসুন, উত্তরাধিকার কার হবে তা তিনি ঠিক করা পর্যন্ত ধরে থাকুন, আর মনে রাখুন শুভ পরিণামের ওয়াদা টিকে থাকার নয়, তাকওয়ার।"
+    "lessonBn": "যিনি এ মাটির মালিক, সাহায্য তাঁর কাছ থেকেই নিয়ে আসুন। কে উত্তরাধিকারী হবে, তা তিনি ঠিক না করা পর্যন্ত অবিচল থাকুন। আর মনে রাখুন, শুভ পরিণামের ওয়াদা টিকে থাকার নয়, তাকওয়ার।"
   },
   "7:137": {
     "reflectionEn": "The sea has closed over Pharaoh and the next sentence is a handover. The people who had been kept weak are made to inherit the easts and the wests of the land that Allah had blessed, and the good word of their Lord was completed for them. The reason given is their patience and nothing else. Then the verse turns and demolishes the other side of the ledger, the works and the buildings Pharaoh and his people had raised. Two estates change hands in one verse, one by inheritance and one by ruin. And the deed is not issued for suffering. It is issued against the thing they did while they suffered.",
-    "reflectionBn": "সমুদ্র ফিরআউনের উপর বন্ধ হয়ে গেছে, আর পরের বাক্যটাই হাতবদলের। যাদের দুর্বল করে রাখা হয়েছিল তাদের উত্তরাধিকারী বানানো হলো সেই যমীনের পূর্ব আর পশ্চিমের, যাতে আল্লাহ কল্যাণ রেখেছিলেন, আর তাদের রবের কল্যাণময় অঙ্গীকার পূর্ণ হলো। কারণ হিসেবে বলা হলো একটাই কথা, তাদের ধৈর্য। এরপর আয়াত ঘুরে দাঁড়িয়ে হিসাবের অন্য দিকটা গুঁড়িয়ে দেয়, ফিরআউন আর তার লোকজন যা গড়েছিল আর যা তুলেছিল সবটা। এক আয়াতের ভেতরে দুটো সম্পত্তি হাতবদল হয়, একটা উত্তরাধিকারে, একটা ধ্বংসে। আর দলিলটা কষ্ট পাওয়ার জন্য লেখা হয়নি। লেখা হয়েছে কষ্টের ভেতরে তারা যা করেছিল তার জন্য।",
+    "reflectionBn": "সমুদ্র ফিরআউনের উপর বন্ধ হয়ে গেছে, আর পরের বাক্যটাই হাতবদলের। যাদের দুর্বল করে রাখা হয়েছিল, আল্লাহ তাদেরকেই বানালেন সেই যমীনের পূর্ব আর পশ্চিমের উত্তরাধিকারী, যাতে তিনি বরকত রেখেছিলেন। তাদের ব্যাপারে রবের কল্যাণময় বাণী পূর্ণ হলো। কারণ হিসেবে বলা হলো একটাই কথা, তাদের ধৈর্য। এরপর আয়াত ঘুরে দাঁড়িয়ে হিসাবের অন্য দিকটা গুঁড়িয়ে দেয়, ফিরআউন আর তার লোকজন যা গড়েছিল আর যা তুলেছিল সবটা। এক আয়াতের ভেতরে দুটো সম্পত্তি হাতবদল হয়, একটা উত্তরাধিকারে, একটা ধ্বংসে। আর দলিলটা কষ্ট পাওয়ার জন্য লেখা হয়নি। লেখা হয়েছে কষ্টের ভেতরে তারা যা করেছিল তার জন্য।",
     "pointsEn": [
       "What do I hold today that somebody before me was patient for, and do I know their name?",
       "Which of my two patiences is weaker: the one under pressure, or the one under instruction when the pressure is gone?",
@@ -6542,11 +6542,11 @@ const TADABBUR_NOTES = {
       "কঠিন সময়টা শেষ হওয়ার সঙ্গে সঙ্গে আমি কী চেয়ে বসেছিলাম, আর আজও কি সেটাই চাইতাম?"
     ],
     "lessonEn": "The land changed hands because of what the oppressed did under the oppression, not because of the oppression, and the patience that counted most was the patience after the pressure lifted.",
-    "lessonBn": "যমীন হাতবদল হয়েছিল জুলুমের কারণে নয়, জুলুমের নিচে মজলুমরা যা করেছিল তার কারণে। আর সবচেয়ে বেশি গোনা হয়েছিল সেই ধৈর্য, যা চাপ সরে যাওয়ার পরের ধৈর্য।"
+    "lessonBn": "যমীন হাতবদল হয়েছিল জুলুমের কারণে নয়, জুলুমের নিচে মজলুমরা যা করেছিল তার কারণে। আর সবচেয়ে বেশি দাম পেয়েছিল চাপ সরে যাওয়ার পরের ধৈর্য।"
   },
   "7:141": {
     "reflectionEn": "Musa's people have just asked him for an idol of their own, and this is the sentence the Quran sets against the request. Remember when We saved you from the people of Pharaoh, who were loading you with the worst of torment, killing your sons and keeping your women alive. Nothing is argued. A memory is produced, and it is a memory of what had been done inside their own households. Then the last clause refuses to call it only a cruelty. In that, it says, was a great trial from your Lord. The rescue and the years before it are put on one bill and handed to people who had forgotten both almost as soon as they were across.",
-    "reflectionBn": "মূসার (আঃ) লোকেরা সদ্যই তাঁর কাছে নিজেদের জন্য দেবতা চেয়ে বসেছে, আর এ আর্জির বিপরীতে কুরআন যে বাক্যটি রাখে তা এটাই। স্মরণ করো, আমি তোমাদের ফিরআউনী গোষ্ঠী থেকে রক্ষা করেছিলাম, যারা তোমাদের কঠিনতম আযাবে ডুবিয়ে রেখেছিল, তোমাদের ছেলেদের হত্যা করছিল আর নারীদের জীবিত রাখছিল। কোনো তর্ক করা হয় না। একটা স্মৃতি সামনে আনা হয়, আর সেটা তাদের নিজেদের ঘরের ভেতরে যা ঘটেছিল তারই স্মৃতি। এরপর শেষ অংশটি এটাকে শুধু নিষ্ঠুরতা বলতে রাজি হয় না। বলে, এতে ছিল তোমাদের রবের পক্ষ থেকে এক কঠিন পরীক্ষা। উদ্ধার আর তার আগের বছরগুলো এক হিসাবে তোলা হয়, আর ধরিয়ে দেওয়া হয় এমন লোকদের হাতে, যারা সমুদ্র পার হওয়ার প্রায় সঙ্গে সঙ্গেই দুটোই ভুলে গিয়েছিল।",
+    "reflectionBn": "মূসার (আঃ) লোকেরা সদ্যই তাঁর কাছে নিজেদের জন্য দেবতা চেয়ে বসেছে, আর এ আর্জির বিপরীতে কুরআন যে বাক্যটি রাখে তা এটাই। স্মরণ করো, আমি তোমাদের ফিরআউনী গোষ্ঠী থেকে রক্ষা করেছিলাম, যারা তোমাদের কঠিনতম আযাবে ডুবিয়ে রেখেছিল, তোমাদের ছেলেদের হত্যা করছিল আর নারীদের জীবিত রাখছিল। কোনো তর্ক করা হয় না। একটা স্মৃতি সামনে আনা হয়, আর সেটা তাদের নিজেদের ঘরের ভেতরে যা ঘটেছিল তারই স্মৃতি। এরপর শেষ অংশটি এটাকে শুধু নিষ্ঠুরতা বলতে রাজি হয় না। বলে, এতে ছিল তোমাদের রবের পক্ষ থেকে এক কঠিন পরীক্ষা। উদ্ধার আর তার আগের বছরগুলো এক হিসাবের খাতায় তুলে ধরিয়ে দেওয়া হয় সেই লোকদের হাতে, যারা সমুদ্র পার হতে না হতেই দুটোই প্রায় ভুলে বসেছিল।",
     "pointsEn": [
       "What was I brought out of that I could not have come out of by myself, and when did I last say so in words?",
       "Can I hold the rescue and the hard years before it in one sentence, or have I kept only one of the two?",
@@ -6557,9 +6557,9 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "কোন জিনিস থেকে আমাকে বের করে আনা হয়েছে, যেখান থেকে নিজে কখনো বের হতে পারতাম না? আর শেষ কবে মুখে তা বলেছি?",
       "উদ্ধার আর তার আগের কঠিন বছরগুলো কি আমি এক বাক্যে ধরে রাখতে পারি, নাকি দুইয়ের একটাই রেখেছি?",
-      "অন্যের ব্যবস্থাপত্র কাজ করছে দেখলে আমি কী খুঁজতে বেরিয়ে পড়ি?",
+      "অন্যদের রীতি-ব্যবস্থা কাজে দিচ্ছে বলে মনে হলে আমি কী খুঁজতে বেরিয়ে পড়ি?",
       "আয়াত গোটা ব্যাপারটাকে আমার রবের পক্ষ থেকে পরীক্ষা বলছে। নিজের ইতিহাসের কোন অংশটা আমি এ ঘরে তুলতে রাজি হইনি?",
-      "আমাকে যে উদ্ধার আগেই দেওয়া হয়েছে, সেটা যদি হিসাবের কাগজ হিসেবে আমার সামনে পড়া হয়, তাতে আমার কী বাকি আছে বলে দেখতাম?"
+      "আগেই পাওয়া কোনো উদ্ধারকে যদি পাওনার হিসাব হিসেবে আমাকে পড়ে শোনানো হয়, দেখা যাবে তাতে এখনো আমার কী দেনা বাকি?"
     ],
     "lessonEn": "Keep the rescue and the cost of the years before it in the same sentence; a memory that carries only one of the two will not hold you when somebody else's god looks convenient.",
     "lessonBn": "উদ্ধার আর তার আগের বছরগুলোর দামটা একই বাক্যে ধরে রাখুন। যে স্মৃতি দুইয়ের একটাই বহন করে, অন্য কারো মাবুদকে সুবিধাজনক মনে হওয়ার দিনে সেটা আপনাকে ধরে রাখতে পারবে না।"
@@ -6579,14 +6579,14 @@ const TADABBUR_NOTES = {
       "হারূন (আঃ) চেয়েছিলেন তাঁকে যালিমদের সঙ্গে গোনা না হোক। কাকে আমি এমন দলের সঙ্গে গুনে ফেলেছি, যে দলের সে ছিল না?",
       "রাগের মাথায় শেষ কোন কথাটা বলেছিলাম বা কোন জিনিসটা ভেঙেছিলাম, যার জন্য পরে ক্ষমা চাইতে হয়েছে?",
       "তিনি এক নিঃশ্বাসে নিজের জন্য আর ভাইয়ের জন্য মাফ চেয়েছিলেন। এ দুটোর কোনটা মুখে বলা আমার বেশি কঠিন লাগে?",
-      "আগে থেকে জানা থাকা এ ফেরাটাকে ঠান্ডা করেনি। কোন জিনিসের দিকে আমি জেনেশুনেই হেঁটে যাচ্ছি, আর সেখানে পৌঁছাতে চাই কীভাবে?"
+      "আগে থেকে জানা ছিল, তবু ফেরার মুহূর্তে রাগ একটুও কমেনি। কোন জিনিসের দিকে আমি জেনেশুনেই হেঁটে যাচ্ছি, আর সেখানে পৌঁছাতে চাই কীভাবে?"
     ],
     "lessonEn": "Speak to the people who did it before you reach for the one you left in charge, and when the anger has spoken, ask forgiveness for yourself and for him in one sentence.",
-    "lessonBn": "যাকে দায়িত্বে রেখে গিয়েছিলেন তার দিকে হাত বাড়ানোর আগে যারা কাজটা করেছে তাদের সঙ্গে কথা বলুন। আর রাগ তার কথা বলে ফেলার পর একই বাক্যে নিজের জন্য আর তার জন্য মাফ চান।"
+    "lessonBn": "যাকে দায়িত্বে রেখে গিয়েছিলেন তার দিকে হাত বাড়ানোর আগে যারা কাজটা করেছে তাদের সঙ্গে কথা বলুন। আর রাগ ঝেড়ে ফেলার পর একই বাক্যে নিজের জন্য আর তার জন্য মাফ চান।"
   },
   "7:160": {
     "reflectionEn": "Twelve tribes, and twelve springs. The verse opens by naming an arrangement: they were cut into twelve peoples, each one with its own edges. Then water is needed, a staff strikes a stone, and twelve springs come out of it, one for each. Every people knew its watering place, so nobody had to fight for a drink. After the water come the cloud that shaded them, the manna and the quails, and a command that is really a permission: eat of the good things We have provided you. Then the verse ends where nobody expects. They did not wrong Us, but they were wronging themselves. Everything listed had been arranged, and the only damage anyone did was to himself.",
-    "reflectionBn": "বারোটি গোত্র, আর বারোটি ঝর্ণা। আয়াতের শুরুতেই একটা বন্দোবস্ত: তাদের বারো ভাগে ভাগ করা হয়েছিল, প্রত্যেক দলের নিজের সীমানা। এরপর পানির দরকার পড়ল। লাঠির আঘাত পড়ল পাথরে, আর তাত্থেকে বারোটি ঝর্ণা বেরিয়ে এল, প্রতি গোত্রের জন্য একটি। প্রত্যেকে নিজের পানের জায়গা চিনে নিল, তাই এক ঢোক পানির জন্য কারও কাড়াকাড়ি করতে হল না। পানির পরে এল মেঘের ছায়া, মান্না আর সালওয়া, আর এমন এক হুকুম যা আসলে অনুমতি: আমি যে ভালো জিনিস দিয়েছি তা খাও। তারপর আয়াতটি শেষ হয় এমন জায়গায় যা কেউ ভাবেনি। তারা আমার উপর যুলম করেনি, যুলম করেছে নিজেদের উপরই। সবটাই সাজানো ছিল, আর ক্ষতি যা হয়েছে তা কেবল নিজেরই।",
+    "reflectionBn": "বারোটি গোত্র, আর বারোটি ঝর্ণা। আয়াতের শুরুতেই একটা বন্দোবস্ত: তাদের বারো ভাগে ভাগ করা হয়েছিল, প্রত্যেক দলের নিজের সীমানা। এরপর পানির দরকার পড়ল। লাঠির আঘাত পড়ল পাথরে, আর তা থেকে বারোটি ঝর্ণা বেরিয়ে এল, প্রতি গোত্রের জন্য একটি। প্রত্যেকে নিজের পানের জায়গা চিনে নিল, তাই এক ঢোক পানির জন্য কারও কাড়াকাড়ি করতে হল না। পানির পরে এল মেঘের ছায়া, মান্না আর সালওয়া, আর এমন এক হুকুম যা আসলে অনুমতি: আমি যে ভালো জিনিস দিয়েছি তা খাও। তারপর আয়াত শেষ হয় এমন এক কথায়, যা কেউ আশা করে না। তারা আমার উপর যুলম করেনি, যুলম করেছে নিজেদের উপরই। যা কিছুর কথা বলা হলো, সবই আগে থেকে সাজানো ছিল। কেউ যদি ক্ষতি করে থাকে, করেছে কেবল নিজেরই।",
     "pointsEn": [
       "Which of the things arranged in my day have I stopped seeing, only because it arrives on time?",
       "Where am I jostling for something that has already been portioned out to me?",
@@ -6616,17 +6616,17 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "কোন সীমাটা আমি জেনেও পার হই, আর প্রতিবার নিজেকে বলি এ তো ছোট ব্যাপার?",
-      "জানা কথা কেউ মনে করিয়ে দিলে সেই মনে করানো আমাকে নরম করে, নাকি আত্মপক্ষে দাঁড় করিয়ে দেয়?",
+      "জানা কথা কেউ মনে করিয়ে দিলে তাতে আমার মন নরম হয়, নাকি আমি নিজের সাফাই গাইতে শুরু করি?",
       "আমি কোন দলে, যারা মন্দে নিষেধ করে, যারা মন্দ কাজটা করে, নাকি যারা দেখে আর চুপ থাকে?",
       "সতর্কবাণী প্রথমবারেই কানে তোলার জন্য আমার ভেতরে কী বদলাতে হবে?",
       "শাস্তিপ্রাপ্ত জাতির কথা পড়লে আয়াতটি আমি নিজের দিকে তাক করি, নাকি অন্য কারও দিকে?"
     ],
     "lessonEn": "What this verse punishes is hardened insolence toward a limit you already knew, not a first mistake; read it as a warning aimed at yourself.",
-    "lessonBn": "আপনার জানা সীমার প্রতি জেদি ধৃষ্টতাকেই আয়াতটি শাস্তি দেয়, প্রথম ভুলকে নয়; এটি পড়ুন নিজের দিকে তাক করা সতর্কবাণী হিসেবে।"
+    "lessonBn": "আয়াতটি প্রথম ভুলের শাস্তি দেয় না; শাস্তি দেয় আগে থেকেই জানা সীমার প্রতি জেদি ধৃষ্টতাকে। একে নিজের জন্যই সতর্কবাণী হিসেবে পড়ুন।"
   },
   "7:170": {
     "reflectionEn": "7:169 has just described the generation that inherited the Book and took the cheap goods of this lower life, telling themselves it will be forgiven for us, and it ends by asking whether they will not use reason. Then comes this verse, one line long, and it gives the other kind of heir. But those who hold fast to the Book and establish prayer: indeed, We will not allow to be lost the reward of the reformers. Two things are named, one a grip and one a standing, and the reward at the end is promised not to the merely righteous but to the reformers, the people who leave something better than they found it.",
-    "reflectionBn": "৭:১৬৯ সদ্য বলে গেল সেই বংশের কথা, যারা কিতাবের উত্তরাধিকারী হয়ে দুনিয়ার সস্তা স্বার্থ তুলে নিল আর নিজেদের বলল, আমাদের তো মাফ করে দেওয়া হবে; আয়াতটি শেষ হয় এই প্রশ্নে, তোমরা কি বুঝবে না। এরপর আসে এই আয়াত, মাত্র এক লাইনের, আর এটি দেখায় আরেক রকম উত্তরাধিকারী। যারা কিতাবকে শক্তভাবে আঁকড়ে ধরে আর নামায কায়েম করে, আমি সৎকর্মশীলদের কর্মফল কখনো বিনষ্ট করি না। দুটি জিনিসের নাম এখানে, একটি ধরে থাকা আর একটি দাঁড়ানো; আর শেষের প্রতিশ্রুতি কেবল ভালো মানুষের জন্য নয়, তাদের জন্য যারা জিনিসটাকে যেমন পেয়েছিল তার চেয়ে ভালো করে রেখে যায়।",
+    "reflectionBn": "৭:১৬৯ সদ্য বলে গেল সেই বংশের কথা, যারা কিতাবের উত্তরাধিকারী হয়ে দুনিয়ার সস্তা স্বার্থ তুলে নিল আর নিজেদের বলল, আমাদের তো মাফ করে দেওয়া হবে; আয়াতটি শেষ হয় এই প্রশ্নে, তোমরা কি বুঝবে না। এরপর আসে এই আয়াত, মাত্র এক লাইনের, আর এটি দেখায় আরেক রকম উত্তরাধিকারী। যারা কিতাবকে শক্তভাবে আঁকড়ে ধরে আর নামায কায়েম করে, আমি সংশোধনকারীদের প্রতিদান কখনো নষ্ট হতে দিই না। দুটি জিনিসের নাম এখানে, একটি ধরে থাকা আর একটি দাঁড়ানো; আর শেষের প্রতিশ্রুতি নিছক ভালো মানুষদের জন্য নয়, সংশোধনকারীদের জন্য, যারা কোনো কিছু যেমন পেয়েছিল তার চেয়ে ভালো করে রেখে যায়।",
     "pointsEn": [
       "Am I holding the Book with both hands, or keeping it near me and rarely opening it?",
       "Which of today's prayers did I establish, and which one did I only get through?",
@@ -6637,12 +6637,12 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "আমি কি কিতাবকে দুই হাতে ধরে আছি, নাকি কাছে রেখে দিয়েছি আর খুলি কম?",
       "আজকের কোন নামাযটা আমি কায়েম করলাম, আর কোনটা কেবল কাটিয়ে দিলাম?",
-      "আমার জীবন কোথায় কিছু জিনিস আগের চেয়ে ভালো করে রাখে, আর কোথায় কেবল ক্ষতি না করেই শেষ হয়?",
+      "আমার জীবন কোথায় কোনো কিছুকে আগের চেয়ে ভালো করে রেখে যায়, আর কোথায় শুধু এটুকুই যে ক্ষতি করেনি?",
       "কোন ভালো কাজটা আমি ছেড়ে দিয়েছি, কারণ তার কোনো ফল চোখে পড়ছিল না?",
       "কিতাবের উত্তরাধিকারী হওয়াই যদি যথেষ্ট না হয়, তবে ধরে থাকা বলতে আসলে কী বোঝায়?"
     ],
     "lessonEn": "Hold the Book with both hands and stand up in prayer; the reward of those who put things right is never allowed to be lost.",
-    "lessonBn": "কিতাবকে দুই হাতে ধরুন আর নামাযে দাঁড়ান; যারা জিনিসটা ঠিক করে রেখে যায়, তাদের কর্মফল কখনো নষ্ট হতে দেওয়া হয় না।"
+    "lessonBn": "কিতাবকে দুই হাতে ধরুন আর নামাযে দাঁড়ান; যারা সবকিছু শুধরে দিয়ে যায়, আল্লাহ তাদের প্রতিদান কখনো নষ্ট হতে দেন না।"
   },
   "7:184": {
     "reflectionEn": "Two verses earlier the surah said it would lead the deniers on step by step, and 7:183 added that He gives them time. Then the line turns on them with a question. Then do they not give thought? There is in their companion no madness. He is not but a clear warner. Notice which word the verse picks for the Prophet ﷺ: their companion, the man who has lived among them. The evidence they need is not new information, it is the person they already know. And the charge is not answered with an argument about prophethood but with a plain statement of what he ﷺ is doing, which is warning them, clearly.",
@@ -6666,7 +6666,7 @@ const TADABBUR_NOTES = {
   },
   "8:19": {
     "reflectionEn": "Four sentences, and each one is an offer or a warning. You wanted a decision; the decision has arrived, and it did not fall the way you asked for it. Stop here, and stopping is better for you. Come back, and We come back. Bring more men next time and the count will settle nothing, because a count is not what settled this. Then the reason, put last: Allah is with the believers. Notice what the verse does not do. It does not gloat and it does not pass a final sentence. In the middle of an address to people who have just lost, it names a way out and words it as their own good.",
-    "reflectionBn": "চারটি বাক্য, আর প্রতিটিই হয় সুযোগ, নয় হুঁশিয়ারি। তোমরা মীমাংসা চেয়েছিলে; মীমাংসা এসে গেছে, তবে তোমরা যেভাবে চেয়েছিলে সেভাবে নয়। এখানেই থেমে যাও, থেমে যাওয়াটাই তোমাদের জন্য ভালো। আবার এলে আমিও আবার আসব। পরের বার আরও লোক জোগাড় করলেও সংখ্যা কিছুই মেটাবে না, কারণ সংখ্যা দিয়ে এ ফয়সালা হয়নি। কারণটা আয়াত রাখে সবার শেষে: আল্লাহ মু'মিনদের সঙ্গে আছেন। আয়াতটি যা করে না সেটাও খেয়াল করার মতো। এতে বিজয়ের অহংকার নেই, শেষ রায়ও শোনানো হয়নি। যারা সদ্য হেরেছে তাদের উদ্দেশেই কথা বলতে বলতে আয়াত একটা বেরিয়ে আসার পথ দেখিয়ে দেয়, আর সেটাকে বলে তাদেরই কল্যাণ।",
+    "reflectionBn": "চারটি বাক্য, আর প্রতিটিই হয় সুযোগ, নয় হুঁশিয়ারি। তোমরা মীমাংসা চেয়েছিলে; মীমাংসা এসে গেছে, তবে তোমরা যেভাবে চেয়েছিলে সেভাবে নয়। এখানেই থেমে যাও, থেমে যাওয়াটাই তোমাদের জন্য ভালো। আবার এলে আমিও আবার আসব। পরের বার আরও লোক জোগাড় করলেও সংখ্যা দিয়ে কিছুই মীমাংসা হবে না, কারণ এবারের ফয়সালাও সংখ্যা দিয়ে হয়নি। কারণটা আয়াত রাখে সবার শেষে: আল্লাহ মু'মিনদের সঙ্গে আছেন। আয়াতটি যা করে না সেটাও খেয়াল করার মতো। এতে বিজয়ের অহংকার নেই, শেষ রায়ও শোনানো হয়নি। যারা সদ্য হেরেছে তাদের উদ্দেশেই কথা বলতে বলতে আয়াত একটা বেরিয়ে আসার পথ দেখিয়ে দেয়, আর সেটাকে বলে তাদেরই কল্যাণ।",
     "pointsEn": [
       "When did I last ask for a matter to be settled without asking myself which side of the settlement I would be standing on?",
       "Something I pushed hard for went badly. Did I read that as an answer, or file it away as bad luck?",
@@ -6686,7 +6686,7 @@ const TADABBUR_NOTES = {
   },
   "8:29": {
     "reflectionEn": "The verse is built as a bargain, and the order of it matters. Fear Allah, and three things follow: He makes for you a furqan, He removes your misdeeds, He forgives you. Then a sentence that is not part of the bargain at all, that Allah is the possessor of great bounty, as though the three were already more than anything was paid for them. Notice what the first gift is. Not ease, not victory, not relief, but something to tell things apart with. The verse treats seeing a situation clearly as a wage, and it makes that wage follow conduct rather than cleverness.",
-    "reflectionBn": "আয়াতটি গড়া হয়েছে একটা লেনদেনের ধরনে, আর এর ক্রমটাই আসল কথা। আল্লাহকে ভয় কর, তাহলে তিনটি জিনিস আসে: তিনি তোমাদের জন্য ফুরকান রাখেন, তোমাদের দোষ মুছে দেন, তোমাদের মাফ করেন। তারপর আসে এমন একটি বাক্য যা এ লেনদেনের অংশই নয়, আল্লাহ মহা অনুগ্রহের মালিক। যেন বলা হচ্ছে, ওই তিনটিই এর দাম হিসেবে যা দেওয়া হয়েছে তার চেয়ে বেশি। প্রথম দানটা কী, সেটা খেয়াল করার মতো। আরাম নয়, জয় নয়, বিপদ থেকে মুক্তিও নয়, বরং জিনিস আলাদা করে চেনার মতো কিছু। পরিস্থিতি পরিষ্কার দেখতে পারাকে আয়াত মজুরি হিসেবে দেখে, আর সে মজুরি আসে বুদ্ধির পেছনে নয়, আমলের পেছনে।",
+    "reflectionBn": "আয়াতটা যেন একটা লেনদেন, আর এর ক্রমটাই আসল কথা। আল্লাহকে ভয় কর, তাহলে তিনটি জিনিস আসে: তিনি তোমাদের জন্য ফুরকান রাখেন, তোমাদের দোষ মুছে দেন, তোমাদের মাফ করেন। তারপর আসে এমন একটি বাক্য যা এ লেনদেনের অংশই নয়, আল্লাহ মহা অনুগ্রহের মালিক। যেন বলা হচ্ছে, এর বিনিময়ে যা-ই দেওয়া হোক, ওই তিনটি দানই তার চেয়ে ঢের বেশি। প্রথম দানটা কী, সেটা খেয়াল করার মতো। আরাম নয়, জয় নয়, বিপদ থেকে মুক্তিও নয়, বরং জিনিস আলাদা করে চেনার মতো কিছু। পরিস্থিতি পরিষ্কার দেখতে পারাকে আয়াত মজুরি হিসেবে দেখে, আর সে মজুরি আসে বুদ্ধির পেছনে নয়, আমলের পেছনে।",
     "pointsEn": [
       "What decision am I stuck on, and have I been treating it as a thinking problem when this verse treats clarity as something taqwa earns?",
       "The last time something came clear to me, what had I been doing in the weeks before it did?",
@@ -6699,14 +6699,14 @@ const TADABBUR_NOTES = {
       "শেষ যেবার কোনো বিষয় আমার কাছে পরিষ্কার হয়ে গেল, তার আগের সপ্তাহগুলোতে আমি কী করছিলাম?",
       "আয়াত আল্লাহভীতিকে রাখে বোঝার আগে। এ দুটোর মধ্যে আমি কোনটা আগে ধরতে চাইছি?",
       "আমার দোষগুলো যদি মুছে দেওয়া হয়, তারপর ঢেকেও দেওয়া হয়, তবে কার মতামত সামলানো আমি ছেড়ে দিতে পারব?",
-      "পরিষ্কার দেখা যদি আরও তথ্যের পেছনে না এসে আনুগত্যের পেছনে আসে, এটা মেনে চললে আমার সপ্তাহে আসলে কী বদলাবে?"
+      "পরিষ্কার দেখা আসে আনুগত্যের পরে, আরও তথ্যের পরে নয়; এ কথা মেনে চললে আমার সপ্তাহে আসলে কী বদলাত?"
     ],
     "lessonEn": "The first thing taqwa buys is not ease but the power to tell things apart; conduct comes before clarity, not after it.",
-    "lessonBn": "তাকওয়া দিয়ে প্রথমে যা কেনা হয় তা আরাম নয়, জিনিস আলাদা করে চেনার শক্তি। আমল আসে পরিষ্কার দেখার আগে, পরে নয়।"
+    "lessonBn": "তাকওয়ার বিনিময়ে প্রথমে যা মেলে তা আরাম নয়, জিনিস আলাদা করে চেনার শক্তি। আমল আসে পরিষ্কার দেখার আগে, পরে নয়।"
   },
   "8:36": {
     "reflectionEn": "A verse about money, and it reads like a forecast. They spend their wealth to keep people off the road to Allah. They will go on spending it. Then the spending turns into regret. Then they are overcome. Three steps, in that order, and the last two are put in the passive so that nobody is named as doing it to them. What is striking is that the spending is not called a waste at the time it happens. It works, it buys what it was meant to buy, it hires what it meant to hire. The verse simply follows the money to the end of its life and reports what is left.",
-    "reflectionBn": "টাকা নিয়ে আয়াত, আর পড়তে গিয়ে মনে হয় যেন পূর্বাভাস। তারা নিজেদের সম্পদ খরচ করে মানুষকে আল্লাহর পথ থেকে আটকে রাখতে। তারা খরচ করেই যাবে। তারপর সেই খরচটাই হয়ে যায় আফসোস। তারপর তারা পরাজিত হয়। তিনটি ধাপ, এই ক্রমেই, আর শেষ দুটি রাখা হয়েছে কর্মবাচ্যে, যাতে কে তাদের এ অবস্থায় ফেলছে তার নাম উঠে না আসে। অবাক করার মতো কথা হলো, খরচের সময় খরচটাকে অপচয় বলা হচ্ছে না। ওটা কাজ করে, যা কিনতে চাওয়া হয়েছিল তা কিনেও দেয়, যাকে ভাড়া করতে চাওয়া হয়েছিল তাকে ভাড়াও করে দেয়। আয়াত শুধু টাকাটার পেছনে পেছনে তার আয়ুর শেষ পর্যন্ত যায়, আর জানায় শেষে কী পড়ে রইল।",
+    "reflectionBn": "টাকা নিয়ে আয়াত, আর পড়তে গিয়ে মনে হয় যেন পূর্বাভাস। তারা নিজেদের সম্পদ খরচ করে মানুষকে আল্লাহর পথ থেকে আটকে রাখতে। তারা খরচ করেই যাবে। তারপর সেই খরচটাই হয়ে যায় আফসোস। তারপর তারা পরাজিত হয়। তিনটি ধাপ, এই ক্রমেই। শেষ দুটিতে কর্তার নাম নেই, কে তাদের এ অবস্থায় ফেলছে তা বলাই হয়নি। অবাক করার মতো কথা হলো, খরচের সময় খরচটাকে অপচয় বলা হচ্ছে না। ওটা কাজ করে, যা কিনতে চাওয়া হয়েছিল তা কিনেও দেয়, যাকে ভাড়া করতে চাওয়া হয়েছিল তাকে ভাড়াও করে দেয়। আয়াত শুধু টাকাটার পেছনে পেছনে তার আয়ুর শেষ পর্যন্ত যায়, আর জানায় শেষে কী পড়ে রইল।",
     "pointsEn": [
       "Is there money going out of my hands every month toward something I would not want to be holding at the end?",
       "The verse calls their spending a regret before they felt it as one. What am I spending on now that my older self will read that way?",
@@ -6716,7 +6716,7 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "প্রতি মাসে আমার হাত থেকে কি এমন কিছুতে টাকা যাচ্ছে, শেষ বেলায় যেটা হাতে থাকা আমি চাইব না?",
-      "তারা আফসোস বলে টের পাওয়ার আগেই আয়াত তাদের খরচকে আফসোস বলে দিয়েছে। এখন আমি কিসে খরচ করছি, যাকে আমার বুড়ো বয়সের আমি ওভাবেই পড়বে?",
+      "তারা আফসোস বলে টের পাওয়ার আগেই আয়াত তাদের খরচকে আফসোস বলে দিয়েছে। এখন আমি কিসে খরচ করছি, যাকে বয়স বাড়লে আমি নিজেই আফসোস বলে চিনব?",
       "তারা দিল খোলা হাতে, আর তাদের কাছে ব্যাপারটা হালকাই লেগেছিল। ভুল খরচে সই করা সহজ হয়ে যায় কেন?",
       "আমার খরচের পেছনে পেছনে যদি তার আয়ুর শেষ পর্যন্ত যাওয়া হয়, যেভাবে এ আয়াত তাদের খরচের পেছনে গেছে, তবে সেটা গিয়ে কোথায় পৌঁছাবে?",
       "এ মাসে এমন কোন একটা কাজে আমি টাকা দিতে পারি, যেদিন আমাকে একত্র করা হবে সেদিনও যা নিয়ে আমি খুশি থাকব?"
@@ -6726,7 +6726,7 @@ const TADABBUR_NOTES = {
   },
   "8:47": {
     "reflectionEn": "The orders just before this one were about conduct: stand firm, remember Allah, obey, do not quarrel, be patient. This one is about why you came. Do not be like those who marched out of their homes in swagger, and to be seen by people, and to keep others off the road to Allah. Three motives are named and not one of them is cowardice or weakness; a man could carry all three and still look brave from the outside. The verse closes on a single word about Allah: He is encompassing what they do. Not watching it from a distance. Around it.",
-    "reflectionBn": "এর ঠিক আগের হুকুমগুলো ছিল আচরণ নিয়ে: অবিচল থাক, আল্লাহকে স্মরণ কর, আনুগত্য কর, ঝগড়া করো না, ধৈর্য ধর। এ আয়াতটি কেন বেরিয়েছ তা নিয়ে। তাদের মতো হয়ো না যারা নিজেদের ঘর থেকে বেরিয়েছিল দেমাগ নিয়ে, লোককে দেখাতে, আর মানুষকে আল্লাহর পথ থেকে আটকে রাখতে। তিনটি উদ্দেশ্যের নাম আসে, আর এর একটিও ভীরুতা বা দুর্বলতা নয়; একজন লোক তিনটিই বুকে নিয়ে চলতে পারে, আর বাইরে থেকে তাকে দেখাবে সাহসী। আয়াত শেষ হয় আল্লাহ সম্পর্কে একটি শব্দে: তারা যা করে তিনি তা ঘিরে আছেন। দূর থেকে দেখছেন না। চারপাশ থেকে ঘিরে।",
+    "reflectionBn": "এর ঠিক আগের হুকুমগুলো ছিল আচরণ নিয়ে: অবিচল থাক, আল্লাহকে স্মরণ কর, আনুগত্য কর, ঝগড়া করো না, ধৈর্য ধর। আর এ আয়াতের কথা হলো, কেন বেরিয়েছ। তাদের মতো হয়ো না যারা নিজেদের ঘর থেকে বেরিয়েছিল দেমাগ নিয়ে, লোককে দেখাতে, আর মানুষকে আল্লাহর পথ থেকে আটকে রাখতে। তিনটি উদ্দেশ্যের নাম আসে, আর এর একটিও ভীরুতা বা দুর্বলতা নয়; একজন লোক তিনটিই বুকে নিয়ে চলতে পারে, আর বাইরে থেকে তাকে দেখাবে সাহসী। আয়াত শেষ হয় আল্লাহ সম্পর্কে একটি শব্দে: তারা যা করে তিনি তা ঘিরে আছেন। দূর থেকে দেখছেন না। চারপাশ থেকে ঘিরে।",
     "pointsEn": [
       "Why did I actually take on the thing I am currently busy with, and would I keep it if nobody ever heard about it?",
       "The verse names swagger and being seen as separate diseases. Which of the two is mine?",
@@ -6735,10 +6735,10 @@ const TADABBUR_NOTES = {
       "What good work have I abandoned because doing it quietly meant nobody would credit it to me?"
     ],
     "pointsBn": [
-      "এখন যে কাজটা নিয়ে ব্যস্ত, সেটা আসলে কেন ধরেছিলাম? কেউ কোনোদিন জানবে না জানলেও কি কাজটা রাখতাম?",
+      "এখন যে কাজটা নিয়ে ব্যস্ত, সেটা আসলে কেন ধরেছিলাম? কেউ কোনোদিন না জানলেও কি কাজটা ধরে রাখতাম?",
       "আয়াত দেমাগ আর লোক দেখানোকে আলাদা দুই রোগের নাম দেয়। এ দুটোর কোনটা আমার?",
       "কোথায় আমি কারও ভালো কিছুর পথে দাঁড়িয়ে আছি, অথচ নিজের কাছে স্বীকারই করিনি যে কাজটা আমি এটাই করছি?",
-      "আমার নিয়ত যদি কেবল দেখা না হয়ে ঘিরে রাখা হয়, তবে আজকের কোন কাজটা আমি অন্যভাবে করতাম?",
+      "আল্লাহ যদি আমার নিয়তকে কেবল দূর থেকে না দেখে চারদিক থেকে ঘিরে রাখেন, তবে আজকের কোন কাজটা আমি অন্যভাবে করতাম?",
       "কোন ভালো কাজ আমি ছেড়ে দিয়েছি এ কারণে যে চুপচাপ করলে কেউ সেটা আমার নামে লিখত না?"
     ],
     "lessonEn": "Check why you set out, not only how well you march; swagger and an audience can carry a man the whole way and leave him with nothing at the end.",
@@ -6746,7 +6746,7 @@ const TADABBUR_NOTES = {
   },
   "8:55": {
     "reflectionEn": "The surah says this twice. Earlier it said the worst of moving creatures in the sight of Allah are the deaf and dumb who do not reason; here it says they are those who have disbelieved, and they will not believe. The same opening, a different ending. Two things are worth holding on to. The measure is His, not ours: the verse says in the sight of Allah, and it is a judgement being reported rather than an opinion being formed. And the sentence does not stop at the state; the next verse identifies them by what they keep doing, breaking a pledge every time one is made.",
-    "reflectionBn": "সূরাটি কথাটা দুবার বলে। আগে বলেছিল, আল্লাহর কাছে চলাচল করা সৃষ্টির মধ্যে নিকৃষ্টতম তারা যারা বধির আর বোবা, যারা বোঝে না; এখানে বলছে, তারা যারা কুফরী করেছে, আর তারা ঈমান আনবে না। শুরুটা একই, শেষটা আলাদা। দুটো জিনিস ধরে রাখার মতো। মাপকাঠি তাঁর, আমাদের নয়: আয়াত বলে আল্লাহর কাছে, অর্থাৎ এটা কোনো মত তৈরি হওয়া নয়, একটি রায় জানিয়ে দেওয়া। আর বাক্যটি কেবল অবস্থাতেই থামে না; পরের আয়াত তাদের চিনিয়ে দেয় তারা যা করেই চলে তা দিয়ে, প্রতিবারই চুক্তি করে আর প্রতিবারই ভাঙে।",
+    "reflectionBn": "সূরাটি কথাটা দুবার বলে। আগে বলেছিল, আল্লাহর কাছে চলাচল করা সৃষ্টির মধ্যে নিকৃষ্টতম তারা যারা বধির আর বোবা, যারা বোঝে না; এখানে বলছে, তারা যারা কুফরী করেছে, আর তারা ঈমান আনবে না। শুরুটা একই, শেষটা আলাদা। দুটো জিনিস ধরে রাখার মতো। মাপকাঠি তাঁর, আমাদের নয়: আয়াত বলে আল্লাহর কাছে, অর্থাৎ এখানে কেউ মত গড়ছে না, একটা রায় জানিয়ে দেওয়া হচ্ছে। আর বাক্যটি কেবল অবস্থাতেই থামে না; পরের আয়াত তাদের চিনিয়ে দেয় তারা যা করেই চলে তা দিয়ে, প্রতিবারই চুক্তি করে আর প্রতিবারই ভাঙে।",
     "pointsEn": [
       "The measure here is His and not mine. Where have I been handing out this verse's verdict on people it was never given to me to weigh?",
       "The next verse identifies them by a habit, not a label. What habit of mine would identify me if somebody used the same method?",
@@ -6762,11 +6762,11 @@ const TADABBUR_NOTES = {
       "মানুষ নিজের ভেতরের জিনিস বদলে ফেলার পরই যদি অনুগ্রহ সরে যায়, তবে এখন আমার ভেতরে কী বদলাচ্ছে, যার নাম আমি নিতে চাই না?"
     ],
     "lessonEn": "The ranking in this verse is Allah's to make and the next verse identifies by conduct, not by name; read it as a warning about a habit rather than a label to hand out.",
-    "lessonBn": "এ আয়াতের অবস্থান ঠিক করার ভার আল্লাহর, আর পরের আয়াত চেনায় আচরণ দিয়ে, নাম দিয়ে নয়। এটাকে পড়ুন অভ্যাস নিয়ে হুঁশিয়ারি হিসেবে, অন্যের গায়ে লাগানো তকমা হিসেবে নয়।"
+    "lessonBn": "এ আয়াতে কে নিকৃষ্ট তা ঠিক করার ভার আল্লাহর, আর পরের আয়াত চেনায় আচরণ দিয়ে, নাম দিয়ে নয়। এটাকে পড়ুন অভ্যাস নিয়ে হুঁশিয়ারি হিসেবে, অন্যের গায়ে লাগানো তকমা হিসেবে নয়।"
   },
   "8:58": {
     "reflectionEn": "A verse about ending an agreement honourably. If you fear treachery from a people you have a pact with, throw the pact back to them on equal terms. The last two words carry the whole weight. You may end it, but they have to know it has ended before anything else happens, so that your knowledge and theirs are level and neither side is still trusting a paper the other has torn. Then the reason: Allah does not love the treacherous. The verse is not permission to strike first under cover of suspicion. It is the opposite, an obligation to say so out loud.",
-    "reflectionBn": "চুক্তি ভাঙার সময় সম্মান রক্ষা করা নিয়ে আয়াত। যাদের সঙ্গে চুক্তি আছে তাদের কাছ থেকে খিয়ানতের আশঙ্কা করলে চুক্তিটা তাদের দিকে ছুঁড়ে দাও, সমান সমান অবস্থায়। শেষ দুটি শব্দই গোটা ভারটা বহন করে। আপনি শেষ করতে পারেন, তবে আর কিছু ঘটার আগে তাদের জানতে হবে যে শেষ হয়ে গেছে; যাতে আপনার জানা আর তাদের জানা এক সমান থাকে, আর কোনো পক্ষই এমন কাগজে ভরসা করে বসে না থাকে যা অন্য পক্ষ ছিঁড়ে ফেলেছে। তারপর কারণটা: আল্লাহ খিয়ানতকারীদের পছন্দ করেন না। আয়াতটি সন্দেহের আড়ালে আগে আঘাত করার অনুমতি নয়। বরং উল্টো, মুখ ফুটে বলে দেওয়ার দায়িত্ব।",
+    "reflectionBn": "সম্মানের সঙ্গে চুক্তি শেষ করার আয়াত। যাদের সঙ্গে চুক্তি আছে তাদের কাছ থেকে খিয়ানতের আশঙ্কা করলে চুক্তিটা তাদের দিকে ছুঁড়ে দাও, সমান সমান অবস্থায়। শেষ দুটি শব্দই গোটা ভারটা বহন করে। আপনি শেষ করতে পারেন, তবে আর কিছু ঘটার আগে তাদের জানতে হবে যে শেষ হয়ে গেছে; যাতে আপনার জানা আর তাদের জানা সমান থাকে, আর কোনো পক্ষই এমন কাগজে ভরসা করে বসে না থাকে যা অন্য পক্ষ ছিঁড়ে ফেলেছে। তারপর কারণটা: আল্লাহ খিয়ানতকারীদের পছন্দ করেন না। আয়াতটি সন্দেহের আড়ালে আগে আঘাত করার অনুমতি নয়। বরং উল্টো, মুখ ফুটে বলে দেওয়ার দায়িত্ব।",
     "pointsEn": [
       "Is there an agreement I have privately stopped honouring without telling the other side that I have stopped?",
       "The verse makes knowledge level before anything is done. Where am I acting on information the other party does not know I have?",
@@ -6776,17 +6776,17 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "এমন কোনো চুক্তি আছে কি, যেটা আমি মনে মনে আর মানছি না, অথচ অন্য পক্ষকে জানাইনি যে আমি আর মানছি না?",
-      "আয়াত কিছু করার আগে জানাটা সমান করে নেয়। আমি কোথায় এমন খবরের উপর কাজ করছি, যা আমার কাছে আছে সেটাই অন্য পক্ষ জানে না?",
+      "আয়াত কিছু করার আগে দুই পক্ষের জানাকে সমান করে নেয়। আমি কোথায় এমন খবরের ভিত্তিতে কাজ করছি, যা আমার হাতে আছে বলে অন্য পক্ষ জানেই না?",
       "কোনো কিছু শেষ করার সিদ্ধান্ত নিলে আমি কি সেটা জানিয়ে দিই, নাকি চুপচাপ ঝুলে থাকতে দিই আর সেটাকেই ভদ্রতা বলি?",
       "কারণ হিসেবে বলা হয়েছে, আল্লাহ খিয়ানতকারীদের পছন্দ করেন না। আমার এখনকার কোন বন্দোবস্তটা খিয়ানতের মতো দেখাত, যদি অন্য পক্ষ পুরোটা দেখতে পেত?",
       "কেউ আমার সঙ্গে বিশ্বাসঘাতকতা করতে যাচ্ছে বলে ভয় পেলে আমার প্রথম কাজ কী, চুপচাপ নিজেকে বাঁচানো, নাকি সোজা বলে দেওয়া যে আমি কী আশঙ্কা করছি আর আমরা এখন কোথায় দাঁড়িয়ে?"
     ],
     "lessonEn": "You may end an agreement you fear is being betrayed, but not quietly; make the other side as informed as you are before you act on it.",
-    "lessonBn": "যে চুক্তিতে খিয়ানতের আশঙ্কা করছেন সেটা শেষ করতে পারেন, তবে চুপচাপ নয়। সেটার উপর কিছু করার আগে অন্য পক্ষকে নিজের মতোই জানিয়ে দিন।"
+    "lessonBn": "যে চুক্তিতে খিয়ানতের আশঙ্কা করছেন সেটা শেষ করতে পারেন, তবে চুপচাপ নয়। সেই আশঙ্কা নিয়ে কিছু করার আগে অন্য পক্ষকেও আপনার সমান জানিয়ে দিন।"
   },
   "8:67": {
     "reflectionEn": "The two middle clauses are the ones to sit with. You want the passing gain of this world, and Allah wants the Hereafter for you. The word for what they wanted means whatever happens to present itself, something that turns up and does not stay. Notice that the verse does not accuse anyone of cowardice or of greed for its own sake; the decision under discussion was a merciful one, taken by people who had just won and who had relatives among the defeated. What it corrects is the order of things: a matter was still being settled, and profit was counted before it had been.",
-    "reflectionBn": "মাঝের দুটি কথার সঙ্গেই বসে থাকার মতো। তোমরা চাও দুনিয়ার ক্ষণিক লাভ, আর আল্লাহ তোমাদের জন্য চান আখিরাত। তারা যা চেয়েছিল তার শব্দটির অর্থ এমন কিছু যা সামনে এসে পড়ে, যা হাজির হয় আর থাকে না। খেয়াল করুন, আয়াত কাউকে ভীরুতার দায়ে ধরে না, লোভের দায়েও ধরে না; যে সিদ্ধান্তটা নিয়ে কথা হচ্ছে সেটা ছিল দয়ার সিদ্ধান্ত, আর নিয়েছিল এমন লোকেরা যারা সদ্য জিতেছে আর পরাজিতদের মধ্যে যাদের আত্মীয়ও ছিল। আয়াত যেটা ঠিক করে দেয় তা হলো ক্রম: একটা বিষয় তখনো ফয়সালা হয়নি, আর তার আগেই লাভের হিসাব গুনে ফেলা হয়েছিল।",
+    "reflectionBn": "আয়াতের মাঝের দুটি কথা নিয়েই থেমে ভাবার মতো। তোমরা চাও দুনিয়ার ক্ষণিক লাভ, আর আল্লাহ তোমাদের জন্য চান আখিরাত। তারা যা চেয়েছিল, তা বোঝাতে যে শব্দ এসেছে তার অর্থ এমন কিছু যা হঠাৎ সামনে এসে পড়ে, আসে কিন্তু থাকে না। খেয়াল করুন, আয়াত কাউকে ভীরুতার দায়ে ধরে না, লোভের দায়েও ধরে না; যে সিদ্ধান্তটা নিয়ে কথা হচ্ছে সেটা ছিল দয়ার সিদ্ধান্ত, আর নিয়েছিল এমন লোকেরা যারা সদ্য জিতেছে আর পরাজিতদের মধ্যে যাদের আত্মীয়ও ছিল। আয়াত যেটা ঠিক করে দেয় তা হলো ক্রম: একটা বিষয় তখনো ফয়সালা হয়নি, আর তার আগেই লাভের হিসাব গুনে ফেলা হয়েছিল।",
     "pointsEn": [
       "Where have I started counting the benefit of something before the thing itself was finished?",
       "The word used means a gain that merely turns up. What have I taken lately only because it happened to be there?",
@@ -6806,7 +6806,7 @@ const TADABBUR_NOTES = {
   },
   "8:72": {
     "reflectionEn": "Two groups are named and then tied together: those who left their homes and fought with their wealth and their lives, and those who took them in and helped them. They are allies of one another, and the bond is stated as mutual rather than as gratitude owed in one direction. Then a limit and an exception, both surprising. Believers who stayed behind are outside that particular alliance until they move. And if they ask for help in the matter of religion, help is a duty upon you, except against a people you have a treaty with. A standing agreement outranks even a call for help from your own.",
-    "reflectionBn": "দুটি দলের নাম আসে, তারপর তাদের একসঙ্গে বেঁধে দেওয়া হয়: যারা নিজেদের ঘর ছেড়েছে আর নিজেদের মাল আর জান দিয়ে লড়েছে, আর যারা তাদের আশ্রয় দিয়েছে আর সাহায্য করেছে। তারা পরস্পরের বন্ধু, আর বন্ধনটা বলা হয়েছে দুদিক থেকেই, এক দিক থেকে পাওনা কৃতজ্ঞতা হিসেবে নয়। এরপর আসে একটি সীমা আর একটি ব্যতিক্রম, দুটোই অবাক করার মতো। যে মু'মিনরা পিছিয়ে রইল, তারা ওই নির্দিষ্ট বন্ধনের বাইরে, যতক্ষণ না তারা বেরিয়ে আসে। আর দীনের ব্যাপারে তারা সাহায্য চাইলে সাহায্য করা তোমাদের উপর দায়িত্ব, তবে এমন কোনো জাতির বিরুদ্ধে নয় যাদের সঙ্গে তোমাদের চুক্তি আছে। দাঁড়িয়ে থাকা চুক্তি নিজের লোকের সাহায্যের ডাকের চেয়েও আগে।",
+    "reflectionBn": "দুটি দলের নাম আসে, তারপর তাদের একসঙ্গে বেঁধে দেওয়া হয়: যারা নিজেদের ঘর ছেড়েছে আর নিজেদের মাল আর জান দিয়ে লড়েছে, আর যারা তাদের আশ্রয় দিয়েছে আর সাহায্য করেছে। তারা পরস্পরের বন্ধু। বন্ধনটা দুদিকের, এক পক্ষের কাছে অন্য পক্ষের পাওনা কৃতজ্ঞতা নয়। এরপর আসে একটি সীমা আর একটি ব্যতিক্রম, দুটোই অবাক করার মতো। যে মু'মিনরা পিছিয়ে রইল, তারা ওই নির্দিষ্ট বন্ধনের বাইরে, যতক্ষণ না তারা বেরিয়ে আসে। আর দীনের ব্যাপারে তারা সাহায্য চাইলে সাহায্য করা তোমাদের উপর দায়িত্ব, তবে এমন কোনো জাতির বিরুদ্ধে নয় যাদের সঙ্গে তোমাদের চুক্তি আছে। চালু চুক্তির দাম নিজের লোকের সাহায্যের ডাকের চেয়েও বেশি।",
     "pointsEn": [
       "The bond here is mutual, not a debt one side owes. Which of my relationships have I quietly filed as somebody owing me?",
       "The verse ties alliance to what people actually did together. What have I actually done alongside the people I call my closest?",
@@ -6826,7 +6826,7 @@ const TADABBUR_NOTES = {
   },
   "9:5": {
     "reflectionEn": "Count the commands. Four of them are war: kill, capture, besiege, lie in wait. Then a fifth arrives and cancels all four — but if they repent and establish prayer and give zakah, let them go on their way. The verse also does not stand by itself. 9:4 has just excepted those who kept their treaty and ordered it completed to its term, and 9:6 will order that any one of them who asks for protection be given it, made to hear the words of Allah, and then escorted to safety. Read with those, the passage is narrower than the one line.",
-    "reflectionBn": "হুকুমগুলো গুনে দেখুন। চারটি যুদ্ধের: হত্যা কর, পাকড়াও কর, ঘেরাও কর, ওৎ পেতে বসে থাক। এরপর আসে পঞ্চমটি, আর সেটি চারটিকেই বাতিল করে দেয়, তারা যদি তওবা করে, নামায কায়িম করে আর যাকাত দেয়, তবে তাদের পথ ছেড়ে দাও। আর আয়াতটি একা দাঁড়িয়েও নেই। ৯:৪ আয়াত সদ্য আলাদা করে রেখেছে তাদের, যারা নিজেদের চুক্তি রক্ষা করেছে, আর হুকুম দিয়েছে সেটা সময় শেষ হওয়া পর্যন্ত পূর্ণ করতে; আর ৯:৬ আয়াত হুকুম দেবে, তাদের কেউ আশ্রয় চাইলে তাকে আশ্রয় দিতে, আল্লাহর বাণী শোনাতে, তারপর তাকে নিরাপদ জায়গায় পৌঁছে দিতে। ওগুলোর সঙ্গে পড়লে অংশটা এই এক লাইনের চেয়ে অনেক সংকীর্ণ।",
+    "reflectionBn": "হুকুমগুলো গুনে দেখুন। চারটি যুদ্ধের: হত্যা কর, পাকড়াও কর, ঘেরাও কর, ওৎ পেতে বসে থাক। এরপর আসে পঞ্চমটি, আর সেটি চারটিকেই বাতিল করে দেয়: তারা যদি তওবা করে, নামায কায়িম করে আর যাকাত দেয়, তবে তাদের পথ ছেড়ে দাও। আর আয়াতটি একা দাঁড়িয়েও নেই। ৯:৪ আয়াত সদ্য আলাদা করে রেখেছে তাদের, যারা নিজেদের চুক্তি রক্ষা করেছে, আর হুকুম দিয়েছে সেটা সময় শেষ হওয়া পর্যন্ত পূর্ণ করতে; আর ৯:৬ আয়াত হুকুম দেবে, তাদের কেউ আশ্রয় চাইলে তাকে আশ্রয় দিতে, আল্লাহর বাণী শোনাতে, তারপর তাকে নিরাপদ জায়গায় পৌঁছে দিতে। ওগুলোর সঙ্গে মিলিয়ে পড়লে দেখা যায়, পুরো অংশের হুকুম এই এক লাইন আলাদা করে পড়লে যতটা মনে হয় তার চেয়ে সংকীর্ণ।",
     "pointsEn": [
       "This verse is quoted more often without its neighbours than with them. Have I ever accepted a line about anyone's faith without reading what stood on either side of it?",
       "The fifth command undoes the other four. What in my own dealings would stop the moment the other party changed course?",
@@ -6837,7 +6837,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "এ আয়াতটি তার পাশের আয়াতগুলো ছাড়াই বেশি উদ্ধৃত হয়। কারও ঈমান নিয়ে বলা কোনো লাইন আমি কি কখনো মেনে নিয়েছি, তার দুপাশে কী ছিল তা না পড়েই?",
       "পঞ্চম হুকুমটি বাকি চারটিকে বাতিল করে দেয়। আমার নিজের লেনদেনে কোন জিনিসটা থেমে যেত, যে মুহূর্তে অন্য পক্ষ পথ বদলাত?",
-      "ছেড়ে দেওয়ার শর্ত নামায আর যাকাত, আত্মসমর্পণ বা কর নয়। আসলে কী নিয়ে লড়াই হচ্ছিল, এটা সে সম্পর্কে কী বলে?",
+      "ছেড়ে দেওয়ার শর্ত নামায আর যাকাত, আত্মসমর্পণ বা খাজনা নয়। এ থেকে কী বোঝা যায়, লড়াইটা আসলে কী নিয়ে ছিল?",
       "পরের আয়াত হুকুম দেয়, যে লোক আশ্রয় চায় তাকে নিরাপদ জায়গায় পৌঁছে দিতে। ঝগড়ার উল্টো পাশের কেউ আমার কাছে নিরাপদে যাওয়ার সুযোগ চাইলে আমি কী করি?",
       "যুদ্ধের এক আয়াতের শেষে আল্লাহর নাম আসে ক্ষমাশীল আর দয়ালু হিসেবে। কোথায় আমি ঠিক করে রেখেছি যে অমুক লোককে আর মাফ করা চলে না?"
     ],
@@ -6866,7 +6866,7 @@ const TADABBUR_NOTES = {
   },
   "9:18": {
     "reflectionEn": "The verse answers a question about who a place of worship belongs to, and it answers with a list of four things, none of which is a deed, a title, or a family name. Belief in Allah and the Last Day, the prayer kept up, the zakah paid, and fearing no one but Allah. That last item is the surprise. A mosque is held, on this reckoning, by people who are not afraid of anybody, and the verse ends softly, that it is to be hoped such people will be among the guided — not a boast, a hope.",
-    "reflectionBn": "কোনো ইবাদতের জায়গা কার, এ প্রশ্নের জবাব দেয় আয়াতটি, আর জবাব দেয় চারটি জিনিসের তালিকা দিয়ে; যার একটিও দানপত্র নয়, পদবি নয়, বংশের নামও নয়। আল্লাহ আর শেষ দিনের প্রতি ঈমান, নামায কায়িম রাখা, যাকাত আদায় করা, আর আল্লাহ ছাড়া আর কাউকে ভয় না করা। শেষ জিনিসটাই চমক। এ হিসাবে মাসজিদ ধরে রাখে এমন লোকেরা, যারা কাউকে ভয় পায় না; আর আয়াত শেষ হয় নরম সুরে, আশা করা যায় এমন লোকেরাই হবে হিদায়াতপ্রাপ্তদের অন্তর্ভুক্ত; এটা বড়াই নয়, আশা।",
+    "reflectionBn": "কোনো ইবাদতের জায়গা কার, এ প্রশ্নের জবাব দেয় আয়াতটি, আর জবাব দেয় চারটি জিনিসের তালিকা দিয়ে; যার একটিও দানপত্র নয়, পদবি নয়, বংশের নামও নয়। আল্লাহ আর শেষ দিনের প্রতি ঈমান, নামায কায়িম রাখা, যাকাত আদায় করা, আর আল্লাহ ছাড়া আর কাউকে ভয় না করা। শেষ জিনিসটাই চমক। এ হিসাবে মাসজিদ ধরে রাখে এমন লোকেরা, যারা কাউকে ভয় পায় না; আর আয়াত শেষ হয় নরম সুরে, আশা করা যায় এমন লোকেরাই হবে হিদায়াতপ্রাপ্তদের অন্তর্ভুক্ত। এটা বড়াই নয়, আশা।",
     "pointsEn": [
       "The list has no donation in it. If a mosque were held by the four things this verse names, would my name be on it?",
       "Fearing nobody but Allah is put beside prayer and zakah as if it were the same kind of obligation. Whom am I actually afraid of?",
@@ -6875,9 +6875,9 @@ const TADABBUR_NOTES = {
       "The first three are things anyone can see. The fourth is not. Which of the four is weakest in me when nobody is watching?"
     ],
     "pointsBn": [
-      "তালিকায় কোনো দানের কথা নেই। এ আয়াত যে চারটি জিনিসের নাম নেয় তা দিয়েই যদি মাসজিদ ধরা হয়, আমার নাম কি তাতে উঠত?",
+      "তালিকায় কোনো দানের কথা নেই। এ আয়াতের চারটি জিনিস দিয়েই যদি ঠিক হয় মাসজিদ কাদের হাতে থাকবে, তাতে কি আমার নাম উঠত?",
       "আল্লাহ ছাড়া কাউকে ভয় না করাকে নামায আর যাকাতের পাশে রাখা হয়েছে, যেন সেটাও একই ধরনের দায়িত্ব। আমি আসলে কাকে ভয় পাই?",
-      "আয়াত বলে না যে তারা হিদায়াতপ্রাপ্ত, বলে কেবল আশা করা যায়। নিজের সম্পর্কে এমন কোন দাবি আমি করছি, যা এ আয়াত তাদের সম্পর্কে করার চেয়েও জোরালো?",
+      "আয়াত বলে না যে তারা হিদায়াতপ্রাপ্ত, বলে কেবল আশা করা যায়। নিজের সম্পর্কে কোন দাবিটা আমি এমন জোর দিয়ে করছি, যতটা জোর দিয়ে এ আয়াত তাদের সম্পর্কেও বলে না?",
       "ইবাদতের জায়গার দেখাশোনা এমন লোকেরাও করতে পারে, যাদের সেখানে কোনো ভাগ নেই। কোথায় আমি এমন কিছুর দেখাশোনায় ব্যস্ত, যাতে আমার কোনো ভাগই নেই?",
       "প্রথম তিনটি জিনিসই এমন যা যে কেউ দেখতে পায়। চতুর্থটি তা নয়। কেউ না দেখলে এ চারটির কোনটি আমার মধ্যে সবচেয়ে দুর্বল?"
     ],
@@ -6886,7 +6886,7 @@ const TADABBUR_NOTES = {
   },
   "9:24": {
     "reflectionEn": "Eight things are put on one side of a scale: fathers, sons, brothers, wives, kin, wealth you earned, a trade whose decline you fear, and houses you are pleased with. On the other side, three: Allah, His Messenger, and striving in His way. Not one of the eight is a sin. Every one of them is a thing a decent person is supposed to love, and several are things he is obliged to look after. The verse does not ask you to stop loving them. It asks which side would win if the two ever pulled in opposite directions, and it warns those who already know the answer.",
-    "reflectionBn": "পাল্লার এক পাশে রাখা হয় আটটি জিনিস: পিতারা, সন্তানেরা, ভাইয়েরা, স্ত্রীরা, গোষ্ঠীর লোকেরা, নিজের কামাই করা সম্পদ, যে ব্যবসার মন্দা নিয়ে ভয় হয়, আর যে বাড়িঘর পছন্দ। অন্য পাশে তিনটি: আল্লাহ, তাঁর রাসূল ﷺ, আর তাঁর পথে জিহাদ। আটটির একটিও গুনাহ নয়। প্রতিটিই এমন জিনিস, যা একজন ভদ্র মানুষের ভালোবাসাই উচিত, আর কয়েকটির দেখাশোনা তার উপর ফরজ। আয়াত আপনাকে ওগুলো ভালোবাসা ছাড়তে বলে না। সে জিজ্ঞেস করে, দুই পাশ যদি কখনো উল্টো দিকে টানে তবে কোন পাশটা জিতবে; আর যারা জবাবটা আগেই জানে, তাদের সে হুঁশিয়ার করে।",
+    "reflectionBn": "পাল্লার এক পাশে রাখা হয় আটটি জিনিস: পিতারা, সন্তানেরা, ভাইয়েরা, স্ত্রীরা, গোষ্ঠীর লোকেরা, নিজের কামাই করা সম্পদ, যে ব্যবসার মন্দা নিয়ে ভয় হয়, আর যে ঘরবাড়ি নিয়ে মন খুশি। অন্য পাশে তিনটি: আল্লাহ, তাঁর রাসূল ﷺ, আর তাঁর পথে জিহাদ। আটটির একটিও গুনাহ নয়। প্রতিটিই এমন জিনিস, যা একজন ভালো মানুষের ভালোবাসারই কথা, আর কয়েকটির দেখাশোনা তার উপর ফরজ। আয়াত আপনাকে ওগুলো ভালোবাসা ছাড়তে বলে না। সে জিজ্ঞেস করে, দুই পাশ যদি কখনো উল্টো দিকে টানে তবে কোন পাশটা জিতবে; আর যারা জবাবটা আগেই জানে, তাদের সে হুঁশিয়ার করে।",
     "pointsEn": [
       "Of the eight, which one is mine? Not which one I would defend in an argument, but which one actually decides my week.",
       "Every item on the list is legitimate. Have I been judging my attachments by whether they are permitted rather than by where they rank?",
@@ -6902,11 +6902,11 @@ const TADABBUR_NOTES = {
       "কারও প্রতি কম ভালোবাসার কথা কোথাও বলা হয়নি। ক্রম ঠিক থাকলে আর টান একই থাকলে কাল কী বদলাত?"
     ],
     "lessonEn": "The test is not whether you love what you love, but what happens on the day it pulls against Allah and His Messenger; put the eight in order and keep the affection.",
-    "lessonBn": "পরীক্ষা এই নয় যে আপনি যা ভালোবাসেন তা ভালোবাসেন কি না; পরীক্ষা হলো, যেদিন সেটা আল্লাহ আর তাঁর রাসূলের ﷺ বিপরীতে টানবে সেদিন কী হবে। আটটিকে সারিতে বসান, আর টানটা রেখে দিন।"
+    "lessonBn": "পরীক্ষা এই নয় যে আপনি যা ভালোবাসেন তা ভালোবাসেন কি না; পরীক্ষা হলো, যেদিন সেটা আল্লাহ আর তাঁর রাসূলের ﷺ বিপরীতে টানবে সেদিন কী হবে। আটটিকে ঠিক ক্রমে সাজান, ভালোবাসাটা যেমন আছে থাকুক।"
   },
   "9:31": {
     "reflectionEn": "The charge is lordship, and the thing being described does not look like worship at all. They took their scholars and their monks as lords besides Allah — no statues, no prayers to them, no claim that they made the world. What made it lordship was that the right to decide lawful and unlawful had quietly moved. The verse then states what the command had always been, to worship one God, and closes by declaring Him far above what they associate with Him. The danger it names is not a temple. It is a habit of deference.",
-    "reflectionBn": "অভিযোগটা রব বানানোর, আর যা বর্ণনা করা হচ্ছে তা দেখতে ইবাদতের মতোই নয়। তারা নিজেদের আলিম আর দরবেশদের আল্লাহকে বাদ দিয়ে রব বানিয়ে নিয়েছে; কোনো মূর্তি নেই, তাদের উদ্দেশে কোনো নামাযও নেই, দুনিয়া তারা বানিয়েছে এমন দাবিও নেই। যা এটাকে রব বানানো করে তুলল তা হলো, হালাল আর হারাম ঠিক করার অধিকারটা চুপচাপ জায়গা বদলে ফেলেছিল। এরপর আয়াত বলে দেয় হুকুম আসলে কী ছিল, এক ইলাহের ইবাদত করা; আর শেষ হয় তিনি তাদের শরীক করা সব কিছুর অনেক উপরে, এ ঘোষণা দিয়ে। আয়াত যে বিপদের নাম নেয় তা কোনো মন্দির নয়। সেটা মেনে নেওয়ার একটা অভ্যাস।",
+    "reflectionBn": "অভিযোগটা রব বানানোর, আর যা বর্ণনা করা হচ্ছে তা দেখতে ইবাদতের মতোই নয়। তারা নিজেদের আলিম আর দরবেশদের আল্লাহকে বাদ দিয়ে রব বানিয়ে নিয়েছে; কোনো মূর্তি নেই, তাদের উদ্দেশে কোনো নামাযও নেই, দুনিয়া তারা বানিয়েছে এমন দাবিও নেই। তবু একে রব বানানো বলা হলো, কারণ হালাল আর হারাম ঠিক করার অধিকারটা চুপচাপ তাদের হাতে চলে গিয়েছিল। এরপর আয়াত বলে দেয় হুকুম আসলে কী ছিল, এক ইলাহের ইবাদত করা; আর শেষে ঘোষণা দেয়, তারা যাকে শরীক করে, তিনি সে সবকিছুর বহু ঊর্ধ্বে। আয়াত যে বিপদের কথা বলছে তা কোনো মন্দির নয়, অন্যের কথা বিনা প্রশ্নে মেনে চলার একটা অভ্যাস।",
     "pointsEn": [
       "Whose permission do I actually wait for before I decide something is fine?",
       "Is there a ruling I follow because of who said it rather than because of what it rests on, and have I ever checked?",
@@ -6916,17 +6916,17 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "কোনো কিছু ঠিক আছে বলে সিদ্ধান্ত নেওয়ার আগে আমি আসলে কার অনুমতির অপেক্ষা করি?",
-      "এমন কোনো বিধান আমি মানি কি, যা মানি কে বলেছে সে কারণে, সেটা কীসের উপর দাঁড়িয়ে সে কারণে নয়? আর আমি কি কখনো যাচাই করেছি?",
+      "এমন কোনো বিধান কি মানি, কে বলেছে সেটা দেখে, কোন দলিলের উপর দাঁড়িয়ে তা দেখে নয়? আর কখনো কি যাচাই করে দেখেছি?",
       "আয়াত বলে, তাদের হুকুম ছিল কেবল এক ইলাহের ইবাদত করা। এর সঙ্গে আমি কী জুড়েছি, যা এখন ফরজের মতো লাগে?",
       "মেনে নেওয়াকে সম্মানের সঙ্গে গুলিয়ে ফেলা সহজ। যাকে আমি শ্রদ্ধা করি তার সঙ্গে দ্বিমত করতে গেলে কোথায় আমার কিছু খরচ হবে, আর সেই খরচটাই কি ঠিক করে দেয় আমি কী সিদ্ধান্তে পৌঁছাব?",
       "কেউ যদি ধর্মের কোনো শব্দ ছাড়াই আমার অভ্যাসগুলোর বর্ণনা দেয়, তার কোনো কিছুকে কি রব বানানো বলা সঠিক হবে?"
     ],
     "lessonEn": "Lordship can be handed over without a single act of worship; watch where the right to call things lawful and unlawful actually sits in your life.",
-    "lessonBn": "একটি ইবাদতের কাজ ছাড়াই রবের আসন অন্যের হাতে তুলে দেওয়া যায়। খেয়াল রাখুন, হালাল আর হারাম বলার অধিকারটা আপনার জীবনে আসলে কার হাতে বসে আছে।"
+    "lessonBn": "একটিও ইবাদত না করেই রবের আসন অন্যের হাতে তুলে দেওয়া যায়। খেয়াল রাখুন, হালাল আর হারাম বলার অধিকারটা আপনার জীবনে আসলে কার হাতে।"
   },
   "9:44": {
     "reflectionEn": "The verse describes believers by something they do not do: they do not come asking to be let off. It is a strange way to identify people, and a searching one, because it looks at who arrives with a request rather than at who performs well once the work has started. The mark is not enthusiasm and not strength; the verse simply notes where the asking comes from. Then it closes on knowledge rather than reward, and Allah is Knowing of those who fear Him, which is the quiet part: the sorting was already done before anyone spoke.",
-    "reflectionBn": "আয়াত মু'মিনদের চেনায় এমন একটা কাজ দিয়ে যা তারা করে না: তারা অব্যাহতি চাইতে আসে না। মানুষ চেনার এটা অন্যরকম পথ, আর গভীরও, কারণ এটা তাকায় কে অনুরোধ নিয়ে হাজির হয় সেদিকে, কাজ শুরু হওয়ার পর কে ভালো করে সেদিকে নয়। চিহ্নটা উৎসাহ নয়, শক্তিও নয়; আয়াত কেবল খেয়াল করে অনুরোধটা আসে কোথা থেকে। এরপর সে শেষ হয় প্রতিদানের কথায় নয়, জানার কথায়: আর আল্লাহ মুত্তাকীদের সম্পর্কে জানেন। ওটাই চুপচাপ অংশ: কেউ মুখ খোলার আগেই ভাগ করা হয়ে গেছে।",
+    "reflectionBn": "আয়াত মু'মিনদের চেনায় এমন একটা কাজ দিয়ে যা তারা করে না: তারা অব্যাহতি চাইতে আসে না। মানুষ চেনার এটা অন্যরকম পথ, আর গভীরও, কারণ এটা তাকায় কে অনুরোধ নিয়ে হাজির হয় সেদিকে, কাজ শুরু হওয়ার পর কে ভালো করে সেদিকে নয়। চিহ্নটা উৎসাহ নয়, শক্তিও নয়; আয়াত কেবল খেয়াল করে অনুরোধটা আসে কোথা থেকে। এরপর সে শেষ হয় প্রতিদানের কথায় নয়, জানার কথায়: আর আল্লাহ মুত্তাকীদের সম্পর্কে জানেন। এখানেই নিঃশব্দ কথাটা: কেউ মুখ খোলার আগেই বাছাই হয়ে গেছে।",
     "pointsEn": [
       "What am I currently trying to get excused from, and whom have I been asking?",
       "The verse looks at the request rather than the performance. If somebody listed the exemptions I have sought this year, what would the list say about me?",
@@ -6942,11 +6942,11 @@ const TADABBUR_NOTES = {
       "আয়াত শেষ হয় আল্লাহ মুত্তাকীদের জানেন এ কথায়, তাদের প্রশংসায় নয়। আমার কাজের কতটা সাজানো থাকে কারও চোখে পড়ার জন্য?"
     ],
     "lessonEn": "Faith shows in who does not come asking to be excused; the sorting happens at the request, before any of the work is done.",
-    "lessonBn": "ঈমান ধরা পড়ে এতে যে কে অব্যাহতি চাইতে আসে না। ভাগটা হয়ে যায় অনুরোধের জায়গাতেই, কাজের কিছু শুরু হওয়ার আগেই।"
+    "lessonBn": "কে অব্যাহতি চাইতে আসে না, তাতেই ঈমান ধরা পড়ে। বাছাইটা হয়ে যায় অনুরোধের মুহূর্তেই, কাজের কিছু শুরু হওয়ার আগেই।"
   },
   "9:55": {
     "reflectionEn": "The instruction is about your eyes, not about their money. Do not let their wealth or their children impress you. Then the reason, and it is the part that unsettles: those very things are the punishment, working in this life, and the end named is that their souls leave them while they refuse. So the verse is not promising that the comfortable will get theirs later. It says the settlement has already begun, inside the thing that looked like a reward, and that the people holding it cannot see this while they hold it.",
-    "reflectionBn": "নির্দেশটা আপনার চোখ নিয়ে, তাদের টাকা নিয়ে নয়। তাদের ধন-সম্পদ আর সন্তান আপনার চোখ ধাঁধিয়ে না দিক। এরপর আসে কারণ, আর ওই অংশটাই অস্বস্তিতে ফেলে: ওই জিনিসগুলোই শাস্তি, আর তা কাজ করছে এ জীবনেই; আর শেষ যা বলা হয় তা এই যে তারা অস্বীকারের অবস্থাতেই তাদের জান বেরিয়ে যাবে। অর্থাৎ আয়াত এ ওয়াদা করছে না যে আরামে থাকা লোকেরা পরে পাবে। সে বলছে, হিসাব শুরু হয়ে গেছে আগেই, আর সেটা চলছে যে জিনিসটাকে পুরস্কার মনে হচ্ছিল তার ভেতরেই; আর যারা সেটা ধরে আছে, ধরে থাকা অবস্থায় তারা এটা দেখতে পায় না।",
+    "reflectionBn": "নির্দেশটা আপনার চোখ নিয়ে, তাদের টাকা নিয়ে নয়। তাদের ধন-সম্পদ আর সন্তান আপনার চোখ ধাঁধিয়ে না দিক। এরপর আসে কারণ, আর ওই অংশটাই অস্বস্তিতে ফেলে: ওই জিনিসগুলোই শাস্তি, আর তা কাজ করছে এ জীবনেই; আর শেষ পরিণতি হিসেবে বলা হয়, কুফরির অবস্থাতেই তাদের জান বেরিয়ে যাবে। অর্থাৎ আয়াত এ কথা বলছে না যে আরামে থাকা লোকেরা পরে উচিত সাজা পাবে। বলছে, হিসাব আগেই শুরু হয়ে গেছে, আর তা চলছে সেই জিনিসের ভেতরেই, যাকে পুরস্কার বলে মনে হচ্ছিল। যারা সেটা হাতে ধরে আছে, ধরে থাকা অবস্থায় তারা এটা দেখতে পায় না।",
     "pointsEn": [
       "Whose life impresses me at the moment, and what exactly am I impressed by?",
       "The verse treats admiration as the thing to correct, not the other person's situation. What would change if I stopped ranking people by their circumstances?",
@@ -6956,17 +6956,17 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "এখন কার জীবন আমার চোখ ধাঁধিয়ে দেয়, আর ঠিক কোন জিনিসটা আমাকে মুগ্ধ করে?",
-      "আয়াত শুধরে দেওয়ার জিনিস হিসেবে ধরে মুগ্ধতাকে, অন্য লোকের অবস্থাকে নয়। মানুষকে তাদের অবস্থা দিয়ে সারিতে বসানো ছেড়ে দিলে কী বদলাত?",
+      "আয়াত শুধরাতে বলে আমার মুগ্ধতাকে, অন্য লোকের অবস্থাকে নয়। মানুষকে তাদের অবস্থা দিয়ে ছোট-বড় মাপা ছেড়ে দিলে কী বদলাত?",
       "যে জিনিসের পেছনে আমি দৌড়াচ্ছি, সেটা হয়তো এখনই আমার কাছ থেকে দাম নিচ্ছে। এ বছরের দৌড় আমার ঘুম, মেজাজ আর মনোযোগে কী খরচ করিয়েছে?",
-      "শেষ যা বলা হয় তা অস্বীকারের অবস্থাতেই মরে যাওয়া। আমার জীবনে এমন কী আছে যা এত আরামের যে সেটা আমাকে কোথায় নিয়ে যাচ্ছে তা আমি বরং যাচাই করতেই চাই না?",
-      "ধরে থাকা অবস্থায় তারা এটা দেখতে পায় না। আমার নিজের হাতের ব্যাপারে এ কথা বলার মতো ঘনিষ্ঠ কে আছে, আর আমি কি শুনব?"
+      "শেষ যা বলা হয় তা অস্বীকারের অবস্থাতেই মরে যাওয়া। আমার জীবনের কোন জিনিসটা এত আরামের যে সেটা আমাকে কোথায় নিয়ে যাচ্ছে, তা যাচাই করতেই মন চায় না?",
+      "ধরে থাকা অবস্থায় তারা এটা দেখতে পায় না। আমার নিজের হাতে যা আছে, সে ব্যাপারে এ কথা আমাকে বলার মতো কাছের কেউ আছে কি, আর আমি কি শুনব?"
     ],
     "lessonEn": "Do not read comfort as approval; a thing can be charging its owner the whole time it is being envied, and the owner is the last to know.",
-    "lessonBn": "আরামকে সন্তুষ্টির চিহ্ন বলে পড়বেন না। কোনো জিনিস যতক্ষণ ধরে হিংসা কুড়োয়, ততক্ষণ সে তার মালিকের কাছ থেকে দাম নিতেই থাকতে পারে; আর মালিকই সেটা জানে সবার শেষে।"
+    "lessonBn": "আরামকে আল্লাহর সন্তুষ্টির চিহ্ন বলে পড়বেন না। কোনো জিনিস যতক্ষণ ধরে অন্যের ঈর্ষা কুড়োয়, ততক্ষণ সে তার মালিকের কাছ থেকে দাম আদায় করে যেতে পারে; আর মালিকই সেটা জানে সবার শেষে।"
   },
   "9:60": {
     "reflectionEn": "Eight shares are named and the list is closed by the word it opens with: zakah is only for these. Two are named for their poverty, one for the work of collecting it, one for hearts that need winning, one for necks that need freeing, one for debts, one for the path of Allah, and one for the traveller stranded away from home. Then the verse stamps it, an obligation from Allah, and closes on His knowledge and wisdom. Nobody's opinion was asked, which is exactly the point: the people complaining about the distribution were told who had drawn it up.",
-    "reflectionBn": "আটটি ভাগের নাম আসে, আর তালিকাটি বন্ধ করে দেয় যে শব্দ দিয়ে সেটি শুরু, সেটাই: যাকাত কেবল এদেরই জন্য। দুজনের নাম আসে তাদের অভাবের জন্য, একজনের যাকাত আদায়ের কাজের জন্য, একজনের সেই অন্তরগুলোর জন্য যা জয় করা দরকার, একজনের সেই গর্দানগুলোর জন্য যা মুক্ত করা দরকার, একজনের ঋণের জন্য, একজনের আল্লাহর পথের জন্য, আর একজনের সেই মুসাফিরের জন্য যে ঘর থেকে দূরে আটকে গেছে। এরপর আয়াত এতে সিল মেরে দেয়, আল্লাহর পক্ষ থেকে ফরজ, আর শেষ হয় তাঁর জানা আর হিকমতে। কারও মত চাওয়া হয়নি, আর ওটাই আসল কথা: বণ্টন নিয়ে যারা অভিযোগ করছিল, তাদের জানিয়ে দেওয়া হলো তালিকাটা কে বানিয়েছেন।",
+    "reflectionBn": "আটটি ভাগের নাম আসে, আর শুরুর শব্দটিই তালিকাটা বন্ধ করে দেয়: যাকাত কেবল এদেরই জন্য। দুটি ভাগ অভাবের কারণে, একটি যাকাত আদায়ের কাজের জন্য, একটি এমন অন্তরের জন্য যাকে জয় করা দরকার, একটি এমন গর্দানের জন্য যাকে মুক্ত করা দরকার, একটি ঋণের জন্য, একটি আল্লাহর পথের জন্য, আর একটি ঘর থেকে দূরে আটকে পড়া মুসাফিরের জন্য। এরপর আয়াত এতে সিল মেরে দেয়: আল্লাহর পক্ষ থেকে ফরজ, আর শেষ হয় তাঁর জানা আর হিকমতে। কারও মত চাওয়া হয়নি, আর ওটাই আসল কথা: বণ্টন নিয়ে যারা অভিযোগ করছিল, তাদের জানিয়ে দেওয়া হলো তালিকাটা কে বানিয়েছেন।",
     "pointsEn": [
       "Eight doors are named and I probably know one. Which of the eight have I actually thought about since the last time I paid?",
       "One share is for winning hearts and one is for a mediator's debt. Does my idea of charity have room for anything that is not simply feeding the hungry?",
@@ -6977,16 +6977,16 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "আটটি দরজার নাম আসে, আর আমি হয়তো একটাই চিনি। শেষ যেবার যাকাত দিয়েছি, তার পর থেকে আটটির কোনটি নিয়ে আমি আসলে ভেবেছি?",
       "একটি ভাগ অন্তর জয় করার জন্য, আর একটি মধ্যস্থতাকারীর ঋণের জন্য। দান নিয়ে আমার ধারণায় ক্ষুধার্তকে খাওয়ানো ছাড়া আর কিছুর জায়গা আছে কি?",
-      "তালিকাটি বন্ধ। আমি কি কখনো এমন কোথাও যাকাত দিয়েছি, যেটা নাম করা ছিল বলে নয়, বরং যোগ্য মনে হয়েছিল বলে?",
+      "তালিকাটি বন্ধ। আমি কি কখনো এমন কোথাও যাকাত দিয়েছি, তালিকায় নাম ছিল বলে নয়, যোগ্য মনে হয়েছিল বলে?",
       "আয়াত শেষ হয় তাঁর জানা আর হিকমতে, আমাদের সন্তুষ্টিতে নয়। আমার আশপাশের সম্পদ বণ্টনের কোন জায়গাটা আমি চুপচাপ ভাবি যে আমি আরও ভালো সাজাতে পারতাম?",
-      "এর উপলক্ষ যে অভিযোগ, তা এসেছিল এমন লোকদের কাছ থেকে যারা নিজেদের ভাগ চাইছিল। কোনো কিছুর বণ্টন নিয়ে আমি যখন আপত্তি করি, আসলে আমার আপত্তিটা কী নিয়ে?"
+      "যে অভিযোগকে কেন্দ্র করে আয়াতটি এসেছিল, তা তুলেছিল এমন লোকেরা যারা নিজেদের ভাগ চাইছিল। কোনো কিছুর বণ্টন নিয়ে আমি যখন আপত্তি করি, আসলে আমার আপত্তিটা কী নিয়ে?"
     ],
     "lessonEn": "The eight shares were fixed by the One who knows, not by whoever is most persuasive about needing them; learn the list before deciding where your zakah goes.",
     "lessonBn": "আটটি ভাগ ঠিক করেছেন যিনি জানেন তিনিই, দরকারের কথা সবচেয়ে ভালো বোঝাতে পারে এমন কেউ নয়। যাকাত কোথায় যাবে ঠিক করার আগে তালিকাটা শিখে নিন।"
   },
   "9:70": {
     "reflectionEn": "Six peoples are named in one breath and then one sentence covers all of them: their messengers came to them with clear proofs. That is the whole indictment. Not that they were never told, not that the evidence was thin, but that it arrived and was refused. The verse ends by removing the only excuse left, and it removes it from Allah's side rather than theirs: He would never have wronged them, but they were wronging themselves. A question is being put to people who have the histories and still expect a different ending.",
-    "reflectionBn": "এক শ্বাসে ছয়টি জাতির নাম আসে, তারপর একটি বাক্যই ঢেকে দেয় তাদের সবাইকে: তাদের রাসূলগণ তাদের কাছে স্পষ্ট প্রমাণ নিয়ে এসেছিলেন। গোটা অভিযোগ ওটাই। এমন নয় যে তাদের কখনো বলা হয়নি, এমনও নয় যে দলিল পাতলা ছিল; বরং দলিল এসেছিল আর তা নাকচ করা হয়েছিল। আয়াত শেষ হয় একমাত্র বাকি থাকা ওজরটা সরিয়ে দিয়ে, আর সেটা সরানো হয় তাদের দিক থেকে নয়, আল্লাহর দিক থেকে: তিনি তাদের প্রতি যুলম করার মতো নন, বরং তারাই নিজেদের প্রতি যুলম করছিল। প্রশ্নটা রাখা হচ্ছে এমন লোকদের সামনে, যাদের হাতে ইতিহাসগুলো আছে, তবু যারা আশা করে তাদের শেষটা আলাদা হবে।",
+    "reflectionBn": "এক শ্বাসে ছয়টি জাতির নাম আসে, তারপর একটি বাক্যই ঢেকে দেয় তাদের সবাইকে: তাদের রাসূলগণ তাদের কাছে স্পষ্ট প্রমাণ নিয়ে এসেছিলেন। গোটা অভিযোগ ওটাই। এমন নয় যে তাদের কখনো বলা হয়নি, এমনও নয় যে দলিল পাতলা ছিল; দলিল এসেছিল, আর তারা তা নাকচ করেছিল। আয়াত শেষ হয় একমাত্র বাকি থাকা ওজরটা সরিয়ে দিয়ে, আর সেটা সরানো হয় তাদের দিক থেকে নয়, আল্লাহর দিক থেকে: তিনি তাদের প্রতি যুলম করার মতো নন, বরং তারাই নিজেদের প্রতি যুলম করছিল। প্রশ্নটা রাখা হচ্ছে এমন লোকদের সামনে, যাদের হাতে ইতিহাসগুলো আছে, তবু যারা আশা করে তাদের শেষটা আলাদা হবে।",
     "pointsEn": [
       "The charge is not ignorance but refusal after evidence. What have I been told clearly enough that ignorance is no longer available to me?",
       "Six histories are listed as if reading them were the point. Which account of somebody else's ruin have I read and filed away without applying anything?",
@@ -7002,11 +7002,11 @@ const TADABBUR_NOTES = {
       "এরা সেই লোক, যাদের কাছে খবর পৌঁছেছিল। যে রাস্তায় আমি এখনো হাঁটছি, তার শেষটা সম্পর্কে আমি কী জানি?"
     ],
     "lessonEn": "The histories were not given so you would know them but so you would not need them; the charge in this verse is refusal after proof, not ignorance.",
-    "lessonBn": "ইতিহাসগুলো দেওয়া হয়নি আপনি জানবেন সে জন্য, দেওয়া হয়েছে যাতে আপনার সেগুলোর দরকারই না পড়ে। এ আয়াতের অভিযোগ না জানা নিয়ে নয়, প্রমাণ আসার পর নাকচ করা নিয়ে।"
+    "lessonBn": "ইতিহাসগুলো আপনাকে শোনানো হয়নি শুধু জানার জন্য, শোনানো হয়েছে যাতে সেগুলোর দরকারই আপনার না পড়ে। এ আয়াতের অভিযোগ না জানা নিয়ে নয়, প্রমাণ আসার পর নাকচ করা নিয়ে।"
   },
   "9:72": {
     "reflectionEn": "The promise is itemised and then outranked by its own last line. Gardens with rivers running under them, a stay that does not end, good dwellings in gardens of perpetual residence — and then, with everything already granted, a short clause changes the order of the whole list: and approval from Allah is greater. Greater than the gardens just described. Whatever the rivers and the dwellings are worth, the verse says the best thing on offer is not an amenity at all but His being pleased, and it calls that the great attainment.",
-    "reflectionBn": "ওয়াদাটা একটা একটা করে গোনা হয়, তারপর নিজের শেষ লাইনটাই সবটাকে ছাপিয়ে যায়। জান্নাত, যার নিচে দিয়ে নদী বয়ে যায়, এমন থাকা যা শেষ হয় না, চিরস্থায়ী জান্নাতে উত্তম বাসগৃহ; আর তারপর, সব দিয়ে দেওয়ার পরেই, ছোট একটি কথা গোটা তালিকার ক্রমটাই বদলে দেয়: আর আল্লাহর সন্তুষ্টি তার চেয়েও বড়। সদ্য বর্ণনা করা ওই জান্নাতগুলোর চেয়েও বড়। নদী আর বাসগৃহের দাম যা-ই হোক, আয়াত বলে, দেওয়ার মধ্যে সবচেয়ে ভালো জিনিসটা কোনো সুবিধাই নয়, বরং তাঁর সন্তুষ্ট হওয়া; আর সেটাকেই সে বলে মহাসফলতা।",
+    "reflectionBn": "ওয়াদাটা একটা একটা করে গোনা হয়, তারপর নিজের শেষ লাইনটাই সবটাকে ছাপিয়ে যায়। জান্নাত, যার তলদেশে নদী বয়ে যায়, এমন থাকা যা শেষ হয় না, চিরস্থায়ী জান্নাতে উত্তম বাসগৃহ; আর তারপর, সব দিয়ে দেওয়ার পরেই, ছোট একটি কথা গোটা তালিকার ক্রমটাই বদলে দেয়: আর আল্লাহর সন্তুষ্টি তার চেয়েও বড়। সদ্য বর্ণনা করা ওই জান্নাতগুলোর চেয়েও বড়। নদী আর বাসগৃহের দাম যা-ই হোক, আয়াত বলে, যা দেওয়া হচ্ছে তার মধ্যে সবচেয়ে ভালোটা কোনো আরাম-আয়েশের উপকরণই নয়, বরং তাঁর সন্তুষ্ট হওয়া; আর সেটাকেই সে বলে মহাসফলতা।",
     "pointsEn": [
       "If I am honest, which part of the promise moves me most, and which part does this verse say is greater?",
       "The dwellings are described as good, not merely as large. What do I actually picture when I imagine being rewarded?",
@@ -7015,10 +7015,10 @@ const TADABBUR_NOTES = {
       "The verse calls this the great attainment. What am I currently calling success, and how would the two lists compare?"
     ],
     "pointsBn": [
-      "সৎভাবে বললে, ওয়াদার কোন অংশটা আমাকে সবচেয়ে বেশি নাড়া দেয়, আর কোন অংশটাকে এ আয়াত বলে বড়?",
+      "সত্যি বলতে, ওয়াদার কোন অংশটা আমাকে সবচেয়ে বেশি নাড়া দেয়, আর কোন অংশটাকে এ আয়াত বলে বড়?",
       "বাসগৃহগুলোর বর্ণনা দেওয়া হয় উত্তম হিসেবে, কেবল বড় হিসেবে নয়। পুরস্কার পাওয়ার কথা ভাবলে আমার চোখে আসলে কী ভাসে?",
-      "সন্তুষ্টি কোনো জায়গা নয়, একটা সম্পর্ক। আমি কি চাই আল্লাহ আমার প্রতি সন্তুষ্ট হোন, নাকি মূলত চাই ভেতরে ঢুকতে দেওয়া হোক?",
-      "মু'মিন পুরুষ আর মু'মিন নারী দুজনেরই নাম আসে, দুই আয়াতে দুবার। এ ওয়াদা যাদের জন্য, সে লোকদের ছবি আঁকতে গিয়ে আমি চুপচাপ কাদের বাদ দিই?",
+      "সন্তুষ্টি কোনো জায়গা নয়, একটা সম্পর্ক। আমি কি চাই আল্লাহ আমার প্রতি সন্তুষ্ট হোন, নাকি আমার আসল চাওয়া শুধু ভেতরে ঢোকার অনুমতি?",
+      "মু'মিন পুরুষ আর মু'মিন নারী দুজনেরই নাম আসে, দুই আয়াতে দুবার। এ ওয়াদা কাদের জন্য, তা মনে মনে ভাবতে গিয়ে আমি চুপচাপ কাদের বাদ দিই?",
       "আয়াত এটিকে বলে মহাসফলতা। আমি এখন কাকে সফলতা বলি, আর দুটো তালিকা পাশে রাখলে কেমন দেখাত?"
     ],
     "lessonEn": "Everything in the promise is listed and then outranked by His approval; if Paradise is pictured only as a place, the best thing in it has been left out.",
@@ -7037,7 +7037,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "অন্য কারও ভালো কাজের ব্যাখ্যা আমি কি কখনো এমন নিয়ত দিয়ে দিয়েছি, যা আমার জানার কোনো উপায়ই ছিল না?",
       "এখানে কোনো পরিমাণই আপত্তি থেকে বাঁচেনি। কেউ কীভাবে দেয় তা নিয়ে আমি দোষ ধরতে গেলে, পরিমাণটাই কি সত্যিই আমার প্রতিক্রিয়ার কারণ?",
-      "ছোট দাতাকে বলা হয়েছিল তার দানের দরকার ছিল না। কাউকে কি আমি কখনো এমন বোধ করিয়েছি যে সে যতটা পারল তা আনার মতোই নয়?",
+      "ছোট দাতাকে বলা হয়েছিল তার দানের দরকার ছিল না। কাউকে কি আমি কখনো বুঝিয়ে দিয়েছি যে সে যতটুকু পেরেছে, তা নিয়ে আসার মতোই নয়?",
       "এ বিদ্রূপ করতে অন্য মানুষদের খুব কাছ থেকে নজরে রাখা লাগত। আল্লাহর জন্য অন্যরা কী করছে তা যাচাই করায় আমার মনোযোগের কতটা যায়?",
       "আয়াত পক্ষ নেয় এমন লোকদের, যারা ইতিমধ্যেই দিয়ে দিয়েছে। এ আয়াত আমার পক্ষ নেওয়ার আগে আমাকে কী দিয়ে দিতে হতো?"
     ],
@@ -7066,7 +7066,7 @@ const TADABBUR_NOTES = {
   },
   "9:88": {
     "reflectionEn": "One word turns the page. But — and after a long stretch about men who asked to stay home, the sentence goes to the Messenger and those who believed with him, who fought with their wealth and their lives. Two things are promised and neither is modest: for them are the good things, and they are the successful. Notice that the same pair of nouns has run through this whole surah, wealth and selves, asked of everybody. The difference between the two groups was never what they had. It was what they did with the same two things.",
-    "reflectionBn": "একটি শব্দই পাতা উল্টে দেয়। কিন্তু; আর ঘরে থেকে যাওয়ার অনুমতি চাওয়া লোকদের নিয়ে লম্বা এক অংশের পর বাক্যটি চলে যায় রাসূল ﷺ আর তাঁর সঙ্গে ঈমান আনা লোকদের দিকে, যাঁরা নিজেদের মাল আর জান দিয়ে লড়েছেন। দুটি জিনিসের ওয়াদা করা হয়, আর কোনোটিই ছোট নয়: তাঁদের জন্য যাবতীয় কল্যাণ, আর তাঁরাই সফলকাম। খেয়াল করুন, একই শব্দ জোড়াটি গোটা সূরাজুড়ে চলে এসেছে, মাল আর জান, আর চাওয়া হয়েছে সবার কাছেই। দুই দলের ফারাক কখনোই ছিল না তাদের কী ছিল তা নিয়ে। ফারাকটা ছিল একই দুটি জিনিস নিয়ে তারা কী করল তা নিয়ে।",
+    "reflectionBn": "একটি শব্দেই পাতা উল্টে যায়: ‘কিন্তু’। ঘরে থেকে যাওয়ার অনুমতি চাওয়া লোকদের নিয়ে লম্বা এক অংশের পর বাক্যটি চলে যায় রাসূল ﷺ আর তাঁর সঙ্গে ঈমান আনা লোকদের দিকে, যাঁরা নিজেদের মাল আর জান দিয়ে লড়েছেন। দুটি জিনিসের ওয়াদা করা হয়, আর কোনোটিই ছোট নয়: তাঁদের জন্য যাবতীয় কল্যাণ, আর তাঁরাই সফলকাম। খেয়াল করুন, একই জোড়া শব্দ গোটা সূরাজুড়ে চলে এসেছে, মাল আর জান, আর চাওয়া হয়েছে সবার কাছেই। দুই দলের ফারাক কখনোই ছিল না তাদের কী ছিল তা নিয়ে। ফারাকটা ছিল একই দুটি জিনিস নিয়ে তারা কী করল তা নিয়ে।",
     "pointsEn": [
       "The same two things were asked of both groups. Of my wealth and my self, which one do I find easier to give, and which one does that answer expose?",
       "The verse promises the good things without listing them. What would I put on that list, and how much of my list is about this world?",
@@ -7078,7 +7078,7 @@ const TADABBUR_NOTES = {
       "একই দুটি জিনিস চাওয়া হয়েছিল দুই দলের কাছেই। আমার মাল আর আমার জান, এ দুটোর কোনটা দিতে আমার সহজ লাগে, আর সেই জবাবটা আমার কী ফাঁস করে দেয়?",
       "আয়াত যাবতীয় কল্যাণের ওয়াদা করে, তালিকা দেয় না। ওই তালিকায় আমি কী রাখতাম, আর আমার তালিকার কতটা এ দুনিয়া নিয়ে?",
       "তুলনাটা টানা হয় একটি শব্দ দিয়ে। আমার নিজের জীবনে ওই শব্দের উল্টো পাশে কে আছে, আর আমি পার হয়ে গেলে কি টের পেতাম?",
-      "তাঁদের সফল বলা হয় তাঁরা যা খরচ করেছেন সে কারণে, যা পেয়েছেন সে কারণে নয়। সফল এক বছরের আমার সংজ্ঞাটা কী হতো?",
+      "তাঁদের সফল বলা হয় তাঁরা যা খরচ করেছেন সে কারণে, যা পেয়েছেন সে কারণে নয়। আমার চোখে সফল একটা বছর বলতে কী বোঝায়?",
       "রাসূলের ﷺ নাম আগে আসে, তারপর তাঁর সঙ্গীদের। আমি কি ভালো কাজ করছি এমন লোকদের কাছাকাছি থেকে, নাকি একা দূরে বসে?"
     ],
     "lessonEn": "Both groups were asked for wealth and self; what separated them was not means but use, and the verse calls the spenders the successful ones.",
@@ -7086,7 +7086,7 @@ const TADABBUR_NOTES = {
   },
   "9:99": {
     "reflectionEn": "The verse just before this one described bedouins who treat what they spend as a loss. This one opens with exactly the same words, keeps the same verb of reckoning, and changes only what the spending is reckoned to be: a means of nearness to Allah, and a way of obtaining the Messenger's invocations. The act is identical in both verses. Two men hand over the same amount, and one has paid a fine while the other has moved closer. Then the verse does something it did not have to do. It confirms the second man's accounting out loud, says that it truly is a means of nearness for them, and ends not with a wage but with a mercy He will admit them into.",
-    "reflectionBn": "ঠিক আগের আয়াতে কতক বেদুঈনের কথা এসেছে, যারা আল্লাহর পথে খরচ করাটাকে জরিমানা মনে করে। এই আয়াত শুরু হয় হুবহু একই কথা দিয়ে, হিসাব কষার ক্রিয়াটাও একই থাকে, বদলায় শুধু হিসাবের ফলটা। এখানে সেই খরচ আল্লাহর নৈকট্য, আর রসূল ﷺ এর দু'আ পাওয়ার পথ। কাজটা দুই আয়াতেই এক। দুইজন সমান পরিমাণ দিল, একজনের ঘর থেকে জরিমানা গেল, আরেকজন এক কদম কাছে গেল। তারপর আয়াতটি এমন কিছু করে যা করার কোনো দরকার ছিল না। বান্দার এই হিসাবটা আল্লাহ নিজে স্বীকার করে নেন, বলেন যে সত্যিই তা তাদের নৈকট্যের মাধ্যম। আর শেষটা মজুরির কথায় নয়, সেই রহমতের কথায়, যার ভেতরে তিনি তাদের ঢুকিয়ে নেবেন।",
+    "reflectionBn": "ঠিক আগের আয়াতে কতক বেদুঈনের কথা এসেছে, যারা আল্লাহর পথে খরচ করাটাকে জরিমানা মনে করে। এই আয়াত শুরু হয় হুবহু একই কথা দিয়ে, হিসাব কষার ক্রিয়াটাও একই থাকে, বদলায় শুধু হিসাবের ফলটা। এখানে সেই খরচ আল্লাহর নৈকট্য, আর রাসূল ﷺ-এর দু'আ পাওয়ার পথ। কাজটা দুই আয়াতেই এক। দুইজন সমান পরিমাণ দিল, একজনের ঘর থেকে জরিমানা গেল, আরেকজন এক কদম কাছে গেল। তারপর আয়াতটি এমন কিছু করে যা করার কোনো দরকার ছিল না। বান্দার এই হিসাবটা আল্লাহ নিজে স্বীকার করে নেন, বলেন যে সত্যিই তা তাদের নৈকট্যের মাধ্যম। আর শেষটা মজুরির কথায় নয়, সেই রহমতের কথায়, যার ভেতরে তিনি তাদের ঢুকিয়ে নেবেন।",
     "pointsEn": [
       "When I hand something over, which of these two verses is describing me?",
       "Do I feel the amount leaving my hand, or do I feel myself moving toward Allah?",
@@ -7096,7 +7096,7 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "হাত থেকে কিছু বেরিয়ে যাওয়ার সময় এই দুই আয়াতের কোনটা আমার কথা বলছে?",
-      "টাকাটা যাচ্ছে বলে টানটা টের পাই, নাকি নিজে আল্লাহর দিকে এগোচ্ছি বলে টের পাই?",
+      "দেওয়ার সময় আমি কি টের পাই টাকাটা হাত থেকে চলে যাচ্ছে, নাকি টের পাই আমি আল্লাহর দিকে এগোচ্ছি?",
       "আমার দেওয়া জিনিসের উপর কার দু'আ চাই, আর কখনো কারো কাছে সেই দু'আ চেয়েছি কি?",
       "দুনিয়ায় কারো কাছ থেকে কিছুই ফেরত আশা না করলে আমার দান কেমন হত?",
       "তাদের হিসাবটা আল্লাহ নিজে কবুল বলে জানিয়ে দিলেন; আমার হিসাবের কোন অংশটা তিনি কবুল করবেন বলে চুপচাপ আশা করি?"
@@ -7106,7 +7106,7 @@ const TADABBUR_NOTES = {
   },
   "9:111-112": {
     "reflectionEn": "Allah says He has already purchased something from the believers, and the verb is past tense: the sale is done. What He bought is their lives and their properties, and the price He set is Paradise. Then the next verse says who these sellers are, and the list is not made of battlefields. It is nine ordinary descriptions: turning back to Allah, worshipping, praising, journeying, bowing, prostrating, calling to good, warning against wrong, keeping inside the limits Allah drew. So the great transaction is paid in instalments a person can actually manage today. And the verse does not ask you to hope the deal is good; it tells you to be glad about a contract already signed.",
-    "reflectionBn": "আল্লাহ বলছেন, মু'মিনদের কাছ থেকে তিনি তাদের জান আর মাল কিনে নিয়েছেন। ক্রিয়াটা অতীত কালের, অর্থাৎ সওদা হয়ে গেছে। দাম তিনি ঠিক করেছেন জান্নাত। পরের আয়াত বলে দেয় এই বিক্রেতারা কারা, আর সেই তালিকায় যুদ্ধের ময়দান নেই। আছে নয়টি সাধারণ পরিচয়: তওবা করা, ইবাদত করা, প্রশংসা করা, পথ চলা, রুকু করা, সিজদা করা, ভালো কাজের আদেশ দেওয়া, মন্দ থেকে ফেরানো, আর আল্লাহর টেনে দেওয়া সীমার ভিতরে থাকা। এত বড় লেনদেনের দাম তাই শোধ হয় এমন কিস্তিতে, যা আজই দেওয়া সম্ভব। আয়াত আপনাকে সওদাটা ভালো কি না তা ভেবে দেখতে বলছে না, বলছে খুশি হতে, কারণ দস্তখত হয়ে গেছে।",
+    "reflectionBn": "আল্লাহ বলছেন, মু'মিনদের কাছ থেকে তিনি তাদের জান আর মাল কিনে নিয়েছেন। ক্রিয়াটা অতীত কালের, অর্থাৎ সওদা হয়ে গেছে। দাম তিনি ঠিক করেছেন জান্নাত। পরের আয়াত বলে দেয় এই বিক্রেতারা কারা, আর সেই তালিকায় যুদ্ধের ময়দান নেই। আছে নয়টি সাধারণ পরিচয়: তওবা করা, ইবাদত করা, প্রশংসা করা, পথ চলা, রুকু করা, সিজদা করা, ভালো কাজের আদেশ দেওয়া, মন্দ থেকে ফেরানো, আর আল্লাহর টেনে দেওয়া সীমার ভিতরে থাকা। এত বড় লেনদেনের দাম তাই শোধ হয় এমন কিস্তিতে, যা আজই দেওয়া সম্ভব। আয়াত আপনাকে আশায় বসে থাকতে বলছে না যে সওদাটা ভালো হবে; বলছে খুশি হতে, কারণ চুক্তিতে দস্তখত হয়ে গেছে।",
     "pointsEn": [
       "The purchase is already made: do I live like someone who has been paid, or like someone still haggling over the price?",
       "Of my life and my property, which do I hand over more easily, and what does that answer expose about me?",
@@ -7119,14 +7119,14 @@ const TADABBUR_NOTES = {
       "জান আর মালের মধ্যে কোনটা আমি সহজে ছাড়তে পারি, আর এই উত্তরটা আমার সম্পর্কে কী ফাঁস করে দেয়?",
       "নয়টি পরিচয় দেওয়া হয়েছে, যার বেশিরভাগই সাধারণ দিনেই খাটে; এর কোনটা আমার মধ্যে নেই?",
       "আয়াত সওদা নিয়ে খুশি হতে বলছে; শেষ কবে এ নিয়ে আমার দুশ্চিন্তা নয়, আনন্দ হয়েছিল?",
-      "তালিকার শেষে আছে আল্লাহর সীমার ভিতরে থাকা; কোন্ সীমাটাকে আমি চুপচাপ নিছক পরামর্শ ধরে নিয়েছি?"
+      "তালিকার শেষে আছে আল্লাহর সীমার ভিতরে থাকা; কোন সীমাটাকে আমি চুপচাপ নিছক পরামর্শ ধরে নিয়েছি?"
     ],
     "lessonEn": "The sale is already concluded; the nine ordinary acts of the next verse are how the price actually gets paid.",
     "lessonBn": "সওদা হয়ে গেছে; পরের আয়াতের নয়টি সাধারণ আমলই সেই দামের কিস্তি।"
   },
   "9:124": {
     "reflectionEn": "Whenever a surah came down, someone in the crowd would ask, with a sneer, which of you has this increased in faith? The question is built to be answered with nobody. Allah answers it instead of leaving it to the believers, and He answers using the questioner's own verb: as for those who believed, it increased them in faith. The same words that found nothing in one listener added something to another. Then the verse does not stop at the increase. It says they are rejoicing, glad out loud, while the people standing beside them watched a new surah arrive and found nothing in it worth mentioning.",
-    "reflectionBn": "যখনই কোনো সূরা নামত, ভিড়ের ভেতর থেকে কেউ বিদ্রূপ করে বলত, এতে তোমাদের কার ঈমান বাড়ল? প্রশ্নটা এমনভাবে সাজানো যেন জবাব আসে কারো না। জবাবটা মু'মিনদের হাতে ছেড়ে না দিয়ে আল্লাহ নিজে দেন, আর দেন সেই ঠাট্টাকারীর ব্যবহার করা ক্রিয়াটা দিয়েই। যারা ঈমান এনেছে, তা তাদের ঈমান বাড়িয়ে দিয়েছে। একই শব্দগুলো এক শ্রোতার ভেতরে কিছুই পেল না, আরেকজনের ভেতরে কিছু যোগ করে দিল। তারপর আয়াতটি শুধু বৃদ্ধির কথায় থামে না। বলে, তারা আনন্দিত হয়, খুশিটা মুখে প্রকাশ পায়। আর পাশে দাঁড়ানো লোকেরা নতুন সূরা নামতে দেখল, অথচ তাতে বলার মতো কিছুই পেল না।",
+    "reflectionBn": "যখনই কোনো সূরা নামত, ভিড়ের ভেতর থেকে কেউ বিদ্রূপ করে বলত, এতে তোমাদের কার ঈমান বাড়ল? প্রশ্নটা এমনভাবে সাজানো, যেন জবাব একটাই হয়: কারও না। জবাবটা মু'মিনদের হাতে ছেড়ে না দিয়ে আল্লাহ নিজে দেন, আর দেন প্রশ্নকারীর নিজের ক্রিয়াপদটা দিয়েই: যারা ঈমান এনেছে, তা তাদের ঈমান বাড়িয়ে দিয়েছে। একই শব্দগুলো এক শ্রোতার ভেতরে কিছুই পেল না, আরেকজনের ভেতরে কিছু যোগ করে দিল। তারপর আয়াতটি শুধু বৃদ্ধির কথায় থামে না। বলে, তারা আনন্দিত হয়, খুশিটা মুখে প্রকাশ পায়। আর পাশে দাঁড়ানো লোকেরা নতুন সূরা নামতে দেখল, অথচ তাতে বলার মতো কিছুই পেল না।",
     "pointsEn": [
       "When a passage of the Qur'an reaches me, what is different in the hour after it?",
       "If someone asked me honestly what the last surah I heard added to me, what could I answer?",
@@ -7157,7 +7157,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "রাগের মাথায় আমি কী কী চেয়ে ফেলেছি, যা সেই মুহূর্তেই পেয়ে গেলে আমার সর্বনাশ হয়ে যেত?",
       "কোন দু'আ কবুল না হওয়ার অভিমান আমি এখনো চুপচাপ বয়ে বেড়াচ্ছি, আর সত্যিই কি বলতে পারি ওটা আমার জন্য ভালো ছিল?",
-      "সন্তান, সম্পদ আর নিজের জীবন নিয়ে আমি যে ভাষায় কথা বলি, আল্লাহ সেই কথামতো চললে আমি রাজি থাকতাম?",
+      "সন্তান, সম্পদ আর নিজের জীবন নিয়ে আমি যে ভাষায় কথা বলি, আল্লাহ ঠিক সেই কথামতো কাজ করলে আমি কি রাজি থাকতাম?",
       "প্রথমবার যেদিন শাস্তি পাওয়ার মতো কাজ করেছিলাম, সেদিনই মেয়াদ শেষ হয়ে গেলে আমার জীবনের কতটুকু আর ঘটতই না?",
       "আয়াত বলছে, উদাসীনদের তিনি তাদের পাওয়া অবকাশেই ঘুরতে ছেড়ে দেন। আমাকে যে অবকাশটা দেওয়া হয়েছে, তা দিয়ে আমি কী করছি?"
     ],
@@ -7166,7 +7166,7 @@ const TADABBUR_NOTES = {
   },
   "10:28": {
     "reflectionEn": "Earlier in this surah the idolaters said of the things they worshipped: these are our intercessors with Allah. Here those intercessors are given a voice. Everyone is gathered, those who set up partners are told to stay where they are with their partners beside them, and then the two sides are parted. What the partners say is four words long: you were not worshipping us. The help that had been counted on for a lifetime does not merely fail on that Day. It denies that the relationship ever existed. Nothing a person leans on beside Allah will admit at the end to having been leaned on. That is worth knowing while the weight can still be moved.",
-    "reflectionBn": "এই সূরার শুরুর দিকেই মুশরিকরা নিজেদের মা'বুদদের নিয়ে বলেছিল, এরাই আল্লাহর কাছে আমাদের সুপারিশকারী। এখানে সেই সুপারিশকারীদের মুখ খোলার সুযোগ দেওয়া হচ্ছে। সবাইকে একত্র করা হবে, শরীক বানানো লোকদের বলা হবে নিজ জায়গায় দাঁড়িয়ে থাকতে, পাশে থাকবে তাদের শরীকরাও। তারপর দুই পক্ষকে আলাদা করে দেওয়া হবে। শরীকরা যা বলবে তা মাত্র চারটি শব্দ, তোমরা তো আমাদের ইবাদত করতে না। সারা জীবন যার উপর ভরসা করা হয়েছিল, সেদিন সে শুধু কাজে আসবে না তা-ই নয়। সে বলবে, সম্পর্কটাই কখনো ছিল না। আল্লাহকে ছেড়ে বান্দা যার উপর ভর দেয়, শেষ বেলায় কেউই স্বীকার করবে না যে তার উপর ভর দেওয়া হয়েছিল। ভরটা সরানোর সুযোগ থাকতেই এটা জেনে রাখা দরকার।",
+    "reflectionBn": "এই সূরার শুরুর দিকেই মুশরিকরা নিজেদের মা'বুদদের নিয়ে বলেছিল, এরাই আল্লাহর কাছে আমাদের সুপারিশকারী। এখানে সেই সুপারিশকারীদের মুখ খোলার সুযোগ দেওয়া হচ্ছে। সবাইকে একত্র করা হবে, শরীক বানানো লোকদের বলা হবে নিজ জায়গায় দাঁড়িয়ে থাকতে, পাশে থাকবে তাদের শরীকরাও। তারপর দুই পক্ষকে আলাদা করে দেওয়া হবে। শরীকরা যা বলবে তা আরবিতে মাত্র চারটি শব্দ: তোমরা তো আমাদের ইবাদত করতে না। সারা জীবন যার উপর ভরসা করা হয়েছিল, সেদিন সে শুধু কাজে আসবে না তা-ই নয়। সে বলবে, সম্পর্কটাই কখনো ছিল না। আল্লাহকে ছেড়ে বান্দা যার উপর ভর দেয়, শেষ বেলায় কেউই স্বীকার করবে না যে তার উপর ভর দেওয়া হয়েছিল। ভরটা সরানোর সুযোগ থাকতেই এটা জেনে রাখা দরকার।",
     "pointsEn": [
       "What do I quietly expect to speak up for me on that Day, and is it able to?",
       "If the thing I rely on most after Allah were asked about me, what could it honestly say?",
@@ -7177,7 +7177,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "সেদিন কে আমার পক্ষে কথা বলবে বলে মনে মনে আশা করে আছি, আর সে কি আদৌ পারবে?",
       "আল্লাহর পর যার উপর সবচেয়ে বেশি ভরসা করি, তাকে যদি আমার ব্যাপারে জিজ্ঞেস করা হয়, সে সত্যি বলতে কী বলতে পারবে?",
-      "চাওয়ার বেলায় আমার আমলে কোথায় মধ্যস্থতাকারী ঢুকে পড়েছে?",
+      "নিজের দরকারের কথা চাইতে গিয়ে কোথায় কোথায় আমি অজান্তে মধ্যস্থতাকারী ঢুকিয়ে ফেলেছি?",
       "সেদিন যারা নিজেদের নিয়েই ব্যস্ত থাকবে, তাদের মন রাখতে আমার জীবনের কতটা সাজানো?",
       "যে সম্পর্কে আমি মন ঢেলে দিচ্ছি, সেটা সেদিন ছিঁড়ে যাবে; তাহলে আজ তাতে মনের কতটা দেওয়া উচিত?"
     ],
@@ -7206,7 +7206,7 @@ const TADABBUR_NOTES = {
   },
   "10:39": {
     "reflectionEn": "Two things are said about them here, and the second explains the first. They denied something they had not encompassed in knowledge, and whose ta'wil had not yet reached them. So the refusal came before the examining. Nobody had looked into what the Book actually says, and nobody had yet seen the outcome it warns of; the verdict was delivered anyway. Then the verse widens: this is how those before them denied, and you are invited to go and look at how their story ended. The warning is not only about the Qur'an. It is about the habit of settling a question you have not opened, which costs less at the start than it does later.",
-    "reflectionBn": "এখানে তাদের সম্পর্কে দুটো কথা বলা হয়েছে, আর দ্বিতীয়টাই প্রথমটার কারণ। যে জিনিসটা তারা জ্ঞানের ঘেরে আনতে পারেনি, সেটাকেই তারা মিথ্যা বলে উড়িয়ে দিয়েছে। আর কিতাব যে পরিণামের কথা বলছিল, সেটাও তখনো তাদের কাছে এসে পৌঁছায়নি। মানে, যাচাই করার আগেই রায় দেওয়া হয়ে গেছে। কিতাবে ঠিক কী আছে, কেউ খুলে দেখেনি। যে শেষটার কথা বলা হচ্ছিল, সেটাও কেউ চোখে দেখেনি। তবু রায় ঘোষণা হয়ে গেল। এরপর আয়াতটা পরিধি বাড়ায়: আগের লোকেরাও ঠিক এভাবেই অস্বীকার করেছিল, আর আপনাকে বলা হচ্ছে গিয়ে দেখে আসুন তাদের কাহিনি কোথায় গিয়ে ঠেকেছিল। সতর্কবাণীটা শুধু কুরআন নিয়ে নয়। যে প্রশ্নটা আপনি খুলেই দেখেননি, সেটার ফয়সালা করে ফেলার অভ্যাস নিয়েও। শুরুতে এই অভ্যাসের দাম কম, পরে অনেক বেশি।",
+    "reflectionBn": "এখানে তাদের সম্পর্কে দুটো কথা বলা হয়েছে, আর দ্বিতীয়টা প্রথমটাকে বুঝিয়ে দেয়। যে জিনিসটা তারা জ্ঞানের ঘেরে আনতে পারেনি, সেটাকেই তারা মিথ্যা বলে উড়িয়ে দিয়েছে। আর কিতাব যে পরিণামের কথা বলছিল, সেটাও তখনো তাদের কাছে এসে পৌঁছায়নি। মানে, যাচাই করার আগেই রায় দেওয়া হয়ে গেছে। কিতাবে ঠিক কী আছে, কেউ খুলে দেখেনি। যে শেষটার কথা বলা হচ্ছিল, সেটাও কেউ চোখে দেখেনি। তবু রায় ঘোষণা হয়ে গেল। এরপর আয়াত কথাটাকে আরও বড় পরিসরে নিয়ে যায়: আগের লোকেরাও ঠিক এভাবেই অস্বীকার করেছিল, আর আপনাকে বলা হচ্ছে গিয়ে দেখে আসুন তাদের কাহিনি কোথায় গিয়ে ঠেকেছিল। সতর্কবাণীটা শুধু কুরআন নিয়ে নয়। যে প্রশ্নটা আপনি খুলেই দেখেননি, সেটার ফয়সালা করে ফেলার অভ্যাস নিয়েও। শুরুতে এই অভ্যাসের দাম কম, পরে অনেক বেশি।",
     "pointsEn": [
       "What have I ruled out about my religion without ever reading what it actually says?",
       "When I dismiss something quickly, am I rejecting the thing itself or the version of it I happened to hear?",
@@ -7218,7 +7218,7 @@ const TADABBUR_NOTES = {
       "দীন সম্পর্কে এমন কী আমি নাকচ করে রেখেছি, যেটা আসলে কী বলে তা কখনো পড়েই দেখিনি?",
       "কোনো কথা চট করে উড়িয়ে দেওয়ার সময় আমি জিনিসটাকে নাকচ করি, নাকি কানে যে রূপে এসেছিল সেই রূপটাকে?",
       "কোন আয়াত বা হাদীস নিয়ে আমি তর্ক করেছি, অথচ জানতাম কেবল তার শিরোনামটুকু?",
-      "এমন কেউ ছিল না যাকে আমি সহজেই জিজ্ঞেস করতে পারতাম, তবু করিনি, কারণ জবাবটা আমার কাঁধে দায়িত্ব চাপিয়ে দিত?",
+      "এমন কেউ কি ছিল, যাকে সহজেই জিজ্ঞেস করতে পারতাম, অথচ করিনি, কারণ জবাবটা আমার কাঁধে দায় চাপিয়ে দিতে পারত?",
       "এই আয়াত যে পরিণামের কথা বলছে, সেটা কাল এসে গেলে আমার এই সপ্তাহের কোন কাজটা আমি অন্যভাবে করতে চাইতাম?"
     ],
     "lessonEn": "Denial that arrives before the examining is not knowledge; it is a habit. Find the thing out before you rule on it, because the outcome comes whether or not you looked.",
@@ -7266,7 +7266,7 @@ const TADABBUR_NOTES = {
   },
   "10:49": {
     "reflectionEn": "They wanted a date. When is this promise, if you are truthful? The answer does not argue with them and does not name a time. It starts somewhere else entirely: I do not own harm or benefit for myself, except what Allah wills. The man they were pressing could not arrange his own good or fend off his own trouble on his own authority, so the schedule they demanded was never his to hand over. Then the sentence widens past him. Every community has a term, and when it arrives nothing pushes it back an hour and nothing pulls it forward. The delay they were reading as proof that nothing was coming was the term itself, still running.",
-    "reflectionBn": "তারা একটা তারিখ চেয়েছিল। এই ওয়াদা কবে সত্য হয়ে দেখা দেবে, তোমরা সত্যবাদী হলে বলো? জবাবটা তাদের সঙ্গে তর্কে যায়নি, কোনো দিনক্ষণও বলেনি। জবাব শুরু হয়েছে একেবারে অন্য জায়গা থেকে। আল্লাহ যা চান তা ছাড়া নিজের ক্ষতি বা লাভের মালিকও আমি নই। যাঁকে তারা চেপে ধরেছিল, তিনি নিজের ভালোটুকু নিজের জোরে আনতে পারেন না, নিজের বিপদটুকু ঠেকাতেও পারেন না। তাহলে ওই সময়সূচি তাঁর হাতে ছিলই না। এরপর কথাটা তাঁকে ছাড়িয়ে আরও বড় হয়ে যায়। প্রত্যেক জাতির একটা নির্দিষ্ট সময় আছে। সেই সময় এসে গেলে এক মুহূর্ত পিছিয়ে দেওয়াও যায় না, এগিয়ে আনাও যায় না। যে দেরিটাকে তারা কিছুই আসছে না বলে পড়ছিল, সেটাই ছিল তাদের সেই সময়, তখনো চলছিল।",
+    "reflectionBn": "তারা একটা তারিখ চেয়েছিল। এই ওয়াদা কবে সত্য হয়ে দেখা দেবে, তোমরা সত্যবাদী হলে বলো? জবাবটা তাদের সঙ্গে তর্কে যায়নি, কোনো দিনক্ষণও বলেনি। জবাব শুরু হয়েছে একেবারে অন্য জায়গা থেকে। আল্লাহ যা চান তা ছাড়া নিজের ক্ষতি বা লাভের মালিকও আমি নই। যাঁকে তারা চেপে ধরেছিল, তিনি নিজের ভালোটুকু নিজের জোরে আনতে পারেন না, নিজের বিপদটুকু ঠেকাতেও পারেন না। তাহলে ওই সময়সূচি তাঁর হাতে ছিলই না। এরপর কথাটা তাঁকে ছাড়িয়ে আরও বড় হয়ে যায়। প্রত্যেক জাতির একটা নির্দিষ্ট সময় আছে। সেই সময় এসে গেলে এক মুহূর্ত পিছিয়ে দেওয়াও যায় না, এগিয়ে আনাও যায় না। যে দেরি দেখে তারা ভাবছিল কিছুই আসছে না, সেটা আসলে তাদের সেই নির্ধারিত সময়, যা তখনো ফুরোয়নি।",
     "pointsEn": [
       "When I want something badly, whose hand do I actually expect it to arrive from?",
       "Do I read a long delay in my life as a sign that nothing is coming, or as time I was given?",
@@ -7286,7 +7286,7 @@ const TADABBUR_NOTES = {
   },
   "10:81": {
     "reflectionEn": "The ropes and the staffs are on the ground and they are moving, and the whole square has just watched it happen. Musa does not argue about whether they saw what they saw. He names it. What you have brought is magic. Then, without pausing for effect, he says who will deal with it, and it is not him: Allah will expose its falsity. Then the reason, which reaches far past that afternoon. Allah does not amend the work of corrupters. Something can be real, impressive, expensively staffed and publicly winning, and still be work that Allah has no intention of setting right. The verse does not say the display was fake. It says the display has no future.",
-    "reflectionBn": "দড়ি আর লাঠিগুলো মাটিতে পড়ে আছে, আর সেগুলো নড়ছে। গোটা মাঠভর্তি লোক নিজের চোখে তা দেখল। মূসা (আঃ) এ নিয়ে তর্কে গেলেন না যে তারা যা দেখেছে সত্যিই দেখেছে কিনা। তিনি জিনিসটার নাম ধরে দিলেন। তোমরা যা এনেছ সেটাই যাদু। তারপর এক মুহূর্তও না থেমে বলে দিলেন, এর হিসাব কে নেবে, আর সে তিনি নন। আল্লাহ এটাকে ব্যর্থ করে দেবেন। এরপর কারণটা, যা সেই দুপুরের সীমা ছাড়িয়ে অনেক দূর যায়। আল্লাহ ফাসাদ সৃষ্টিকারীদের কাজ সুফলা করেন না। কোনো কাজ সত্যি হতে পারে, চোখধাঁধানো হতে পারে, বড় খরচ আর বড় লোকবল নিয়ে দাঁড়াতে পারে, লোকের সামনে জিতেও যেতে পারে, তবু সেটা এমন কাজ যাকে আল্লাহ দাঁড় করাবেন না। আয়াতটা বলছে না যে খেলাটা ভুয়া ছিল। বলছে, খেলাটার কোনো ভবিষ্যৎ নেই।",
+    "reflectionBn": "দড়ি আর লাঠিগুলো মাটিতে পড়ে আছে, আর সেগুলো নড়ছে। গোটা মাঠভর্তি লোক নিজের চোখে তা দেখল। মূসা (আঃ) এ নিয়ে তর্কে গেলেন না যে তারা যা দেখেছে সত্যিই দেখেছে কিনা। তিনি সোজা নাম ধরে বললেন। তোমরা যা এনেছ সেটাই যাদু। তারপর এক মুহূর্তও না থেমে বলে দিলেন, এর হিসাব কে নেবে, আর সে তিনি নন। আল্লাহ এটাকে ব্যর্থ করে দেবেন। এরপর কারণটা, যা সেই দুপুরের সীমা ছাড়িয়ে অনেক দূর যায়। আল্লাহ ফাসাদ সৃষ্টিকারীদের কাজ সফল করেন না। কোনো কাজ বাস্তব হতে পারে, চোখধাঁধানো হতে পারে, বড় খরচ আর বড় লোকবল নিয়ে দাঁড়াতে পারে, লোকের সামনে জিতেও যেতে পারে, তবু সেটা এমন কাজ যাকে আল্লাহ দাঁড় করাবেন না। আয়াতটা বলছে না যে খেলাটা ভুয়া ছিল। বলছে, খেলাটার কোনো ভবিষ্যৎ নেই।",
     "pointsEn": [
       "When something false is winning in front of me, do I feel I must be the one who brings it down, or can I name it and leave the ending where Musa left it?",
       "Is there work of mine getting attention right now that I would rather Allah did not look at too closely, because I already know what it rests on?",
@@ -7302,11 +7302,11 @@ const TADABBUR_NOTES = {
       "আমার গড়া কোনো জিনিস চুপচাপ ভেঙে পড়লে আমি কি সেটাকে কপাল বলব, নাকি আগে জিজ্ঞেস করব কাজটা আদৌ দাঁড় করানোর মতো ছিল কিনা?"
     ],
     "lessonEn": "Falsehood can be real, impressive and winning, and still have no future. Name it plainly, leave its collapse to Allah, and check that your own work is not the kind He refuses to mend.",
-    "lessonBn": "মিথ্যা সত্যি হতে পারে, চোখধাঁধানো হতে পারে, জিতেও যেতে পারে, তবু তার কোনো ভবিষ্যৎ নেই। নাম ধরে বলে দিন, ভাঙার কাজটা আল্লাহর উপর ছাড়ুন, আর দেখে নিন আপনার নিজের কাজটা এমন নয় তো যেটা তিনি দাঁড় করাতে চান না।"
+    "lessonBn": "মিথ্যা চোখের সামনে বাস্তব হয়ে দাঁড়াতে পারে, চোখধাঁধানো হতে পারে, জিতেও যেতে পারে, তবু তার কোনো ভবিষ্যৎ নেই। নাম ধরে বলে দিন, ভাঙার কাজটা আল্লাহর উপর ছাড়ুন, আর দেখে নিন আপনার নিজের কাজটা এমন নয় তো যেটা তিনি দাঁড় করাতে চান না।"
   },
   "10:78": {
     "reflectionEn": "Two defences arrive in one breath, and both are still in use. The first is the fathers: you have come to turn us away from what we found them upon. The second is the motive: and so that greatness in the land may be for you two. Neither one touches what Musa (AS) had actually said. One answers a claim with a family history; the other answers it with a guess about the speaker's ambition. Then the closing clause drops the pretence of arguing at all, and we are not believers in you. A man holding a proof produces it. A man holding none tells you what you are really after.",
-    "reflectionBn": "এক নিঃশ্বাসে দুটো ঢাল তুলে ধরা হল, আর দুটোই আজও চালু আছে। প্রথমটা বাপ-দাদা: আমরা তাদের যে পথে পেয়েছি, তুমি এসেছ সেখান থেকে আমাদের সরিয়ে দিতে। দ্বিতীয়টা উদ্দেশ্য: আর যাতে দেশে বড়ত্বটা হয় তোমাদের দুজনের। মূসা (আ) আসলে যা বলেছিলেন, এর একটাও সেই কথা ছোঁয় না। একটা দাবির জবাবে আসে বংশের ইতিহাস, আরেকটার জবাবে আসে বক্তার মতলব নিয়ে আন্দাজ। তারপর শেষ কথাটায় তর্কের ভানটুকুও আর থাকে না, আমরা তোমাদের মানব না। যার হাতে দলিল থাকে সে দলিলটা বের করে। যার হাতে কিছু নেই সে বলে দেয়, তুমি আসলে কী চাও।",
+    "reflectionBn": "এক নিঃশ্বাসে দুটো ঢাল তুলে ধরা হল, আর দুটোই আজও চালু আছে। প্রথমটা বাপ-দাদা: আমরা তাদের যে পথে পেয়েছি, তুমি এসেছ সেখান থেকে আমাদের সরিয়ে দিতে। দ্বিতীয়টা উদ্দেশ্য: আর যাতে দেশে বড়ত্বটা হয় তোমাদের দুজনের। মূসা (আঃ) আসলে যা বলেছিলেন, এর একটাও সেই কথা ছোঁয় না। একটা দাবির জবাবে আসে বংশের ইতিহাস, আরেকটার জবাবে আসে বক্তার মতলব নিয়ে আন্দাজ। তারপর শেষ কথাটায় তর্কের ভানটুকুও আর থাকে না, আমরা তোমাদের মানব না। যার হাতে দলিল থাকে সে দলিলটা বের করে। যার হাতে কিছু নেই সে বলে দেয়, তুমি আসলে কী চাও।",
     "pointsEn": [
       "Which of my religious habits do I keep because I can show it is right, and which because it is simply what my family did?",
       "When someone brings me evidence I do not like, how fast do I start explaining why they brought it?",
@@ -7315,7 +7315,7 @@ const TADABBUR_NOTES = {
       "Is there something I have already accepted in private and still argue against in front of people?"
     ],
     "pointsBn": [
-      "দীনের কোন অভ্যাসটা আমি ধরে রেখেছি এজন্য যে ঠিক প্রমাণ করে দেখাতে পারি, আর কোনটা শুধু এজন্য যে ঘরে এভাবেই চলে এসেছে?",
+      "দীনের কোন অভ্যাসটা আমি ধরে রেখেছি এজন্য যে সেটা ঠিক বলে প্রমাণ করে দেখাতে পারি, আর কোনটা শুধু এজন্য যে ঘরে এভাবেই চলে এসেছে?",
       "পছন্দ হয় না এমন কোনো দলিল কেউ সামনে আনলে কত তাড়াতাড়ি আমি বলতে শুরু করি, সে কেন এটা আনল?",
       "কেউ যদি বলে বসে, আমি দীন দিয়ে নিজের কদর বাড়াতে চাই, এই সপ্তাহের কোন কাজটা তার জবাব দেবে?",
       "এ বছর কোন কথাটা আমি উড়িয়ে দিয়েছি, অথচ একবারও দেখিনি সেখানে আসলে কী দাবি করা হয়েছে?",
@@ -7326,7 +7326,7 @@ const TADABBUR_NOTES = {
   },
   "10:92": {
     "reflectionEn": "The confession arrived while the water was closing over him, and the answer was: now? Then comes this. Today We save you in your body, so that you may be a sign to those who come after you. The verb here is the ordinary verb for rescue, and it is being used of a man already dead. He is lifted clear of the sea, and what is delivered is not him. It is the shape of him, set down where people can look. Belief that waits until the price of unbelief has been handed over is not belief; it is arithmetic. What he refused while it was still a choice, he offered once it was a receipt. The sea kept everything else.",
-    "reflectionBn": "পানি যখন গলা অবধি উঠে এসেছে তখন স্বীকারোক্তিটা এল, আর জবাব এল: এখন? এরপর আসে এই কথা। আজ আমি তোমার দেহটা বাঁচিয়ে রাখব, যাতে পরের লোকদের জন্য তুমি নিদর্শন হয়ে থাকো। উদ্ধারের কথা বলতে যে ক্রিয়াটা চলে, সেটাই এখানে বসেছে মরে যাওয়া মানুষটার বেলায়। তাকে সাগর থেকে তুলে আনা হল, অথচ যা উঠল তা সে নয়। সেটা তার আকৃতি, লোকের চোখের সামনে রেখে দেওয়া। কুফরের দামটা হাতে এসে পৌঁছানোর পর যে ঈমান আসে সেটা ঈমান নয়, সেটা হিসাব। সুযোগ থাকতে যা সে দেয়নি, রসিদ হাতে পেয়ে তা সে বাড়িয়ে দিল। বাকি সবটুকু সাগরই রেখে দিল।",
+    "reflectionBn": "পানি যখন গলা অবধি উঠে এসেছে তখন স্বীকারোক্তিটা এল, আর জবাব এল: এখন? এরপর আসে এই কথা। আজ আমি তোমার দেহটা বাঁচিয়ে রাখব, যাতে পরের লোকদের জন্য তুমি নিদর্শন হয়ে থাকো। উদ্ধার বোঝাতে সাধারণত যে ক্রিয়াপদ আসে, এখানে সেটাই বসেছে এমন একজনের বেলায়, যে ততক্ষণে মারা গেছে। তাকে সাগর থেকে তুলে আনা হল, অথচ যা উঠল তা সে নয়। সেটা তার আকৃতি, লোকের চোখের সামনে রেখে দেওয়া। কুফরের দামটা হাতে এসে পৌঁছানোর পর যে ঈমান আসে সেটা ঈমান নয়, নিছক হিসাব-নিকাশ। বেছে নেওয়ার সুযোগ থাকতে যা সে দেয়নি, সব চুকেবুকে যাওয়ার পর তা-ই এগিয়ে দিল। বাকি সবটুকু সাগরই রেখে দিল।",
     "pointsEn": [
       "What have I promised myself I will change, but only once a particular fear has actually arrived?",
       "Is there an act of obedience I am holding back until the day it costs me nothing?",
@@ -7336,13 +7336,13 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "কোন কাজটা বদলাব বলে নিজেকে কথা দিয়ে রেখেছি, অথচ শর্ত রেখেছি যে ভয়টা সত্যি সামনে এসে দাঁড়ালে তবেই?",
-      "এমন কোনো আমল কি আটকে রেখেছি, যেদিন সেটা করতে আর কিছুই খরচ হবে না সেদিনের জন্য?",
+      "এমন কোনো আমল কি ফেলে রেখেছি সেই দিনের জন্য, যেদিন তা করতে আমার আর কিছুই খরচ হবে না?",
       "শেষ কবে আমার সামনে সতর্কবার্তা হিসেবে কিছু রাখা হয়েছিল আর আমি পাশ কাটিয়ে গেছি, একবার তাকাইওনি?",
       "আমার জীবনটা যদি সবার সামনে খুলে রাখা হত শেখার জন্য, লোকে সেখান থেকে কী শিখত?",
       "তওবা করার আগে আমি আসলে কিসের অপেক্ষায় আছি, আর সেটা যে পাবই তার নিশ্চয়তা কোথায়?"
     ],
     "lessonEn": "Faith offered when the punishment is already in the room is not faith. Give now what you keep promising to give later, while it is still a choice and not a receipt.",
-    "lessonBn": "শাস্তি ঘরে ঢুকে পড়ার পর যে ঈমান আনা হয় সেটা ঈমান নয়। পরে দেব বলে যা বারবার সরিয়ে রাখছেন, এখনই দিন, যতক্ষণ সেটা আপনার পছন্দ, রসিদ নয়।"
+    "lessonBn": "শাস্তি ঘরে ঢুকে পড়ার পর যে ঈমান আনা হয় সেটা ঈমান নয়। পরে দেব বলে যা বারবার সরিয়ে রাখছেন, এখনই দিন, যতক্ষণ তা বেছে নেওয়ার সুযোগ আছে; সব চুকে যাওয়ার পর নয়।"
   },
   "10:87": {
     "reflectionEn": "The places of worship have been pulled down and the state is watching for anyone who prays. What comes back is neither a protest nor an escape plan. Settle your people in houses, make those houses face the prayer, keep the prayer standing, and tell the believers that good news is coming. Four commands, and the first of them is about where people will live. Worship needed somewhere to happen, so somewhere was to be made. The order matters too. The glad tidings come last, after the work, and they were to be announced while Pharaoh was still on his throne and the sea had not yet opened.",
@@ -7357,7 +7357,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "আমার আশেপাশের ইবাদতের জায়গাগুলো এ মাসেই যদি বন্ধ হয়ে যায়, ঘরের কোন জায়গাটায় নামায হবে, আর সেই কোণটা কি এখনই তৈরি আছে?",
       "পরিস্থিতি ভালো হওয়ার অপেক্ষায় আমি কোন কাজটা ফেলে রেখেছি, অথচ আয়াত বলছে যে অবস্থা আছে তার ভেতরেই গড়ে নিতে?",
-      "এ সপ্তাহে ঘরের কে আমাকে নামায পড়তে দেখেছে, শুধু জানে বলে নয়, চোখে দেখেছে বলে?",
+      "এ সপ্তাহে ঘরের কে আমাকে সত্যিই নামায পড়তে দেখেছে? আমি যে পড়ি, শুধু এটুকু জানে এমন নয়, নিজের চোখে দেখেছে?",
       "কোন ওয়াদাটার উপর আমি ভর দিতে রাজি হচ্ছি না, যতক্ষণ না তা সামনে এসে দাঁড়ায়?",
       "কিছু একটা হাতছাড়া হলে আমার প্রথম কাজটা কী, ক্ষতির কথা বলে বেড়ানো, নাকি সেটা যা বয়ে আনত তার জন্য নতুন জায়গা করে নেওয়া?"
     ],
@@ -7366,7 +7366,7 @@ const TADABBUR_NOTES = {
   },
   "10:99": {
     "reflectionEn": "Two things are said here, and only the second is put to you. Had your Lord willed, every person on earth would have believed, all of them together. He did not will it. Then the sentence turns: so will you compel people until they become believers? The question is asked of the man who wanted everyone to believe more than anyone ever has, and it is asked in a way that already carries its answer. He cannot, and he was never asked to. What is left to a caller is the calling. The result was never on his side of the ledger, and it is not on yours. That is not permission to stop calling. It is permission to stop crushing yourself over what the calling did not produce.",
-    "reflectionBn": "এক আয়াতেই দুটো কথা, আর তার দ্বিতীয়টাই আপনার দিকে ছোড়া। আল্লাহ চাইলে দুনিয়ার সব মানুষ ঈমান আনত, একজনও বাদ থাকত না। তিনি তা চাননি। এরপরই বাক্যটা ঘুরে যায়: তাহলে কি আপনি জোর করে মানুষকে মু'মিন বানাবেন? প্রশ্নটা করা হচ্ছে সেই মানুষটিকে, সবাই ঈমান আনুক এমন চাওয়া যাঁর চেয়ে বেশি আর কারও কোনোদিন ছিল না। আর প্রশ্নের ভেতরেই জবাবটা বসানো আছে। তিনি পারেন না, আর তাঁকে তা করতে বলাও হয়নি। দাঈর হাতে থাকে কেবল ডাকটুকু। ফল কোনোদিনই তাঁর খাতায় লেখা ছিল না, আপনার খাতাতেও নেই। এর মানে ডাকা ছেড়ে দেওয়া নয়। এর মানে হল, ডাক কাজে না লাগলে নিজেকে আর পিষে না ফেলা।",
+    "reflectionBn": "এক আয়াতেই দুটো কথা, আর প্রশ্ন হয়ে আপনার সামনে রাখা হয় কেবল দ্বিতীয়টা। আল্লাহ চাইলে দুনিয়ার সব মানুষ ঈমান আনত, একজনও বাদ থাকত না। তিনি তা চাননি। এরপরই বাক্যটা ঘুরে যায়: তাহলে কি আপনি জোর করে মানুষকে মু'মিন বানাবেন? প্রশ্নটা করা হচ্ছে সেই মানুষটিকে, সবাই ঈমান আনুক এমন চাওয়া যাঁর চেয়ে বেশি আর কারও কোনোদিন ছিল না। আর প্রশ্নের ভেতরেই জবাবটা বসানো আছে। তিনি পারেন না, আর তাঁকে তা করতে বলাও হয়নি। দাঈর হাতে থাকে কেবল ডাকটুকু। ফল কোনোদিনই তাঁর খাতায় লেখা ছিল না, আপনার খাতাতেও নেই। এর মানে ডাকা ছেড়ে দেওয়া নয়। এর মানে হল, ডাক কাজে না লাগলে নিজেকে আর পিষে না ফেলা।",
     "pointsEn": [
       "Whose faith have I started treating as my own project, as though the outcome depended on how hard I pushed?",
       "When the advice I gave is refused, what do I do next, and does it still look like calling or has it become pressure?",
@@ -7377,7 +7377,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "কার ঈমানটাকে আমি নিজের একটা প্রকল্প বানিয়ে ফেলেছি, যেন আমি কতটা চাপ দিলাম তার উপরই ফলটা ঝুলছে?",
       "আমার দেওয়া নসীহত কেউ না নিলে পরের কাজটা আমি কী করি, সেটা কি তখনো ডাকা থাকে, নাকি চাপ হয়ে যায়?",
-      "মানুষ সাড়া দিল কি না, তা দিয়ে নিজেকে মাপা বন্ধ করলে কথাগুলো কি তবু বলতাম?",
+      "মানুষ সাড়া দিল কি না, তা দিয়ে নিজেকে মাপা বন্ধ করলে তখনও কোন কথাগুলো বলতে রাজি থাকতাম?",
       "নিজের বুকের ভেতর ঈমানটা কি কখনো জোর করে আনতে চেয়েছি, চেয়ে নেওয়ার বদলে?",
       "যে ফলটা কোনোদিনই আমার হাতে ছিল না, সেটার জেদ ধরে কোন সম্পর্কটা নষ্ট করেছি?"
     ],
@@ -7386,7 +7386,7 @@ const TADABBUR_NOTES = {
   },
   "10:109": {
     "reflectionEn": "Surah Yunus ends without a settlement. Nothing has been resolved with the people who demanded a different Quran, and the last word to the Messenger is not a promise that they will come round. It is two jobs. Keep following what is being sent down to you, and hold out until Allah judges. Notice what is missing: no date, no sign that the verdict is close, no instruction to force the result. Yet the waiting is not open-ended. Until means the patience has an end already written into it by Someone else. And the sentence does not close on the waiting. It closes on who does the judging, and on the fact that nobody judges better.",
-    "reflectionBn": "সূরা ইউনুস শেষ হচ্ছে কোনো মীমাংসার খবর ছাড়াই। যারা অন্য কুরআন চেয়েছিল তাদের সঙ্গে হিসাব তখনো চোকেনি, আর রাসূল ﷺ-কে শেষ কথাটা এ নয় যে ওরা একদিন মেনে নেবে। শেষ কথা দুটি কাজ। তোমার কাছে যা নেমে আসছে তার পেছনে চলতে থাক, আর আল্লাহ ফায়সালা না দেওয়া পর্যন্ত টিকে থাক। কী নেই সেটাও দেখার মতো। কোনো তারিখ নেই, ফায়সালা কাছেই এমন ইঙ্গিত নেই, জোর করে ফল আদায়ের হুকুমও নেই। তবু অপেক্ষাটা সীমাহীন নয়। যতক্ষণ না কথাটাই বলে দেয়, সবরের শেষ সীমা আছে, আর সেই সীমা ঠিক করে রেখেছেন অন্য কেউ। আর বাক্যটা অপেক্ষার উপর শেষ হয় না। শেষ হয় কে ফায়সালা করছেন তার উপর, আর এই কথায় যে তাঁর চেয়ে ভালো ফায়সালা কেউ করে না।",
+    "reflectionBn": "সূরা ইউনুস শেষ হচ্ছে কোনো মীমাংসার খবর ছাড়াই। যারা অন্য কুরআন চেয়েছিল তাদের সঙ্গে হিসাব তখনো চোকেনি, আর রাসূল ﷺ-কে শেষ কথাটা এ নয় যে ওরা একদিন মেনে নেবে। শেষ কথা দুটি কাজ। তোমার কাছে যা নেমে আসছে তার পেছনে চলতে থাক, আর আল্লাহ ফায়সালা না দেওয়া পর্যন্ত টিকে থাক। কী নেই সেটাও দেখার মতো। কোনো তারিখ নেই, ফায়সালা কাছেই এমন ইঙ্গিত নেই, জোর করে ফল আদায়ের হুকুমও নেই। তবু অপেক্ষাটা সীমাহীন নয়। ‘পর্যন্ত’ শব্দটাই বলে দেয়, সবরের একটা শেষ আছে, আর সেই শেষটা আগেই লিখে রেখেছেন অন্য একজন। আর বাক্যটা অপেক্ষার উপর শেষ হয় না। শেষ হয় কে ফায়সালা করছেন তার উপর, আর এই কথায় যে তাঁর চেয়ে ভালো ফায়সালা কেউ করে না।",
     "pointsEn": [
       "What has already reached me from the Book that I understood and still have not started doing?",
       "When I call myself patient about something, am I waiting on Allah's decision or on one person changing their mind?",
@@ -7426,7 +7426,7 @@ const TADABBUR_NOTES = {
   },
   "11:12": {
     "reflectionEn": "The question is put to the one man who never did it. Would you leave out part of what is being sent down to you, because of what they say when they hear it? Notice the second half: or is your breast constrained by it. The Book does not pretend the mockery cost nothing. It names the tightening in his chest before it corrects anything. What they wanted was a treasure or an angel, proof on their own terms, arriving alongside the message so that nobody would have to weigh it. The answer is not an argument. It is a job description and a Name. You are only a warner. And Allah is Disposer of all things.",
-    "reflectionBn": "প্রশ্নটা করা হচ্ছে সেই মানুষটিকেই, যিনি কাজটা কখনো করেননি। তোমার কাছে যা নামছে তার কিছু অংশ কি তুমি বাদ দিয়ে দেবে, ওরা শুনে যা বলে সেই কারণে? দ্বিতীয় অংশটা খেয়াল করুন, নাকি তাতে তোমার বুক সংকুচিত হয়ে আসে। ঠাট্টায় কিছুই যায় আসেনি, কুরআন এমন ভান করে না। আগে বুকের ওই চাপটার কথা বলে, তারপর শোধরায়। ওরা চেয়েছিল ধনভান্ডার, নয়তো ফেরেশতা। নিজেদের শর্তে প্রমাণ, বার্তার সঙ্গেই এসে হাজির, যাতে কাউকে আর যাচাই করতে না হয়। জবাবে কোনো তর্ক নেই। জবাবে আছে কাজের একটা সীমা আর একটা নাম। তুমি তো কেবল ভয় প্রদর্শনকারী। আর যাবতীয় কাজের দায়িত্ব আল্লাহর।",
+    "reflectionBn": "প্রশ্নটা করা হচ্ছে সেই মানুষটিকেই, যিনি কাজটা কখনো করেননি। তোমার কাছে যা নামছে তার কিছু অংশ কি তুমি বাদ দিয়ে দেবে, ওরা শুনে যা বলে সেই কারণে? দ্বিতীয় অংশটা খেয়াল করুন: নাকি তাতে তোমার বুক সংকুচিত হয়ে আসে। ঠাট্টায় কিছুই যায় আসেনি, কুরআন এমন ভান করে না। আগে বুকের ওই চাপটার কথা বলে, তারপর শোধরায়। ওরা চেয়েছিল ধনভান্ডার, নয়তো ফেরেশতা। নিজেদের শর্তে প্রমাণ, বার্তার সঙ্গেই এসে হাজির, যাতে কাউকে আর যাচাই করতে না হয়। জবাবে কোনো তর্ক নেই। জবাবে আছে কাজের একটা সীমা আর একটা নাম। তুমি তো কেবল ভয় প্রদর্শনকারী। আর যাবতীয় কাজের দায়িত্ব আল্লাহর।",
     "pointsEn": [
       "Which part of what I know to be true do I leave out of the conversation because of how it will land?",
       "When my chest tightens at what people say about the deen, what do I change next, my words or my company?",
@@ -7466,7 +7466,7 @@ const TADABBUR_NOTES = {
   },
   "11:24": {
     "reflectionEn": "Four names, two people, one question. The verse does not argue. It stands two figures in front of you and asks whether they come to the same thing, and then the question turns and lands on you: will you not remember? Notice what is not said. Nobody is named, no community is pointed at, no living person is sorted into a party. The blindness here is to the truth and the deafness is to the call, and both are losses a person can carry with perfect eyes and perfect ears. You have sat through something true and taken none of it in. The verse asks which of the two you were that day.",
-    "reflectionBn": "চারটি নাম, দুজন মানুষ, একটি প্রশ্ন। আয়াতটি তর্ক করে না। সে দুটি ছবি আপনার সামনে দাঁড় করিয়ে জিজ্ঞেস করে, এরা কি এক জিনিস? তারপর প্রশ্নটা ঘুরে এসে আপনার গায়েই লাগে, তবুও কি তোমরা শিক্ষা নেবে না? খেয়াল করুন, কী বলা হয়নি। কারও নাম নেই, কোনো দলকে আঙুল দেখানো হয়নি, জীবিত কাউকে বাছাই করে কোনো পক্ষে বসানো হয়নি। এখানে অন্ধত্ব হকের প্রতি, বধিরতা ডাকের প্রতি। নিখুঁত চোখ আর নিখুঁত কান নিয়েও মানুষ এ দুটো বয়ে বেড়াতে পারে। আপনি এমন মজলিসে বসে থেকেছেন যেখানে সত্যি কথা হয়েছে, অথচ ভেতরে কিছুই ঢোকেনি। আয়াত জিজ্ঞেস করছে, সেদিন আপনি দুজনের কোনজন ছিলেন।",
+    "reflectionBn": "চারটি নাম, দুজন মানুষ, একটি প্রশ্ন। আয়াতটি তর্ক করে না। সে দুটি ছবি আপনার সামনে দাঁড় করিয়ে জিজ্ঞেস করে, এরা কি এক জিনিস? তারপর প্রশ্নটা ঘুরে এসে আপনার গায়েই লাগে: তবুও কি তোমরা শিক্ষা নেবে না? খেয়াল করুন, কী বলা হয়নি। কারও নাম নেই, কোনো দলকে আঙুল দেখানো হয়নি, জীবিত কাউকে বাছাই করে কোনো পক্ষে বসানো হয়নি। এখানে অন্ধত্ব হকের প্রতি, বধিরতা ডাকের প্রতি। নিখুঁত চোখ আর নিখুঁত কান নিয়েও মানুষ এ দুটো বয়ে বেড়াতে পারে। আপনি এমন মজলিসে বসে থেকেছেন যেখানে সত্যি কথা হয়েছে, অথচ ভেতরে কিছুই ঢোকেনি। আয়াত জিজ্ঞেস করছে, সেদিন আপনি দুজনের কোনজন ছিলেন।",
     "pointsEn": [
       "When something true reached me this week and I did nothing with it, what actually stopped me?",
       "Which subject do I go quiet on, because hearing it clearly would cost me money, a habit, or an apology?",
@@ -7476,7 +7476,7 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "এই সপ্তাহে সত্যি কথাটা আমার কানে এসেছিল অথচ আমি কিছুই করিনি, আসলে কীসে আটকাল?",
-      "কোন প্রসঙ্গে আমি চুপ করে যাই, কারণ স্পষ্ট শুনলে টাকা, অভ্যাস বা একটা ক্ষমা চাওয়া খরচ হয়ে যাবে?",
+      "কোন প্রসঙ্গে আমি চুপ করে যাই, কারণ পরিষ্কার শুনলে হয় টাকা ছাড়তে হবে, নয় কোনো অভ্যাস, নয়তো কারও কাছে মাফ চাইতে হবে?",
       "এমন আয়াত আমি কি আশপাশের মানুষের উপর খাটাই, নাকি যে তর্কে হারতে রাজি হইনি তার উপর?",
       "এই সপ্তাহে কুরআন পড়ে ভেতরে কী ঢুকল, আর তার ফলে কী বদলাল তা কি নাম ধরে বলতে পারি?",
       "আমার একটা গোটা দিনের শোনা যদি কেউ আবার চালিয়ে দেখত, কোন জায়গায় সে দেখত আমি মন দেওয়া বন্ধ করে দিয়েছি?"
@@ -7486,7 +7486,7 @@ const TADABBUR_NOTES = {
   },
   "11:40": {
     "reflectionEn": "The signal came, and the commentators still do not agree on what it was. Something ordinary overflowed, and a wait that had run for lifetimes ended inside a single moment. Then count what the man had to show for all of it: pairs of animals, a household with a gap in it, and a few people. The verse does not soften that last part. It closes on the smallness of the number rather than on the rescue, and the ship carries them anyway. Whatever you are keeping up with almost nobody beside you is not being weighed by the size of the company. It is being weighed by the One who set the signal.",
-    "reflectionBn": "সংকেত এসে গেল, আর সেই সংকেত আসলে কী ছিল তা নিয়ে মুফাসসিরদের মতভেদ আজও মেটেনি। সাধারণ একটা জিনিস উথলে উঠল, আর মানুষের গোটা জীবনের মাপে যে অপেক্ষা চলছিল তা একটি মুহূর্তেই ফুরিয়ে গেল। এবার হিসাব করুন, এত বছরের পর লোকটির হাতে কী রইল: জোড়া জোড়া প্রাণী, ফাঁক রয়ে যাওয়া একটি পরিবার, আর অল্প কজন মানুষ। আয়াত শেষ অংশটা নরম করে বলে না। উদ্ধারের কথায় নয়, সংখ্যাটা যে কত ছোট সেই কথাতেই সে শেষ হয়। তবু নৌকা তাদের নিয়ে ভেসে যায়। প্রায় কেউ পাশে নেই, তবু আপনি যা চালিয়ে যাচ্ছেন, সঙ্গীর সংখ্যা দিয়ে তার ওজন হচ্ছে না। ওজন করছেন তিনিই, যিনি সংকেতটা ঠিক করে রেখেছিলেন।",
+    "reflectionBn": "সংকেত এসে গেল, আর সেই সংকেত আসলে কী ছিল তা নিয়ে মুফাসসিরদের মতভেদ আজও মেটেনি। সাধারণ একটা জিনিস উথলে উঠল, আর কয়েক পুরুষ ধরে যে অপেক্ষা চলছিল, তা ফুরিয়ে গেল একটি মুহূর্তেই। এবার হিসাব করুন, এত বছরের পর লোকটির হাতে কী রইল: জোড়া জোড়া প্রাণী, ফাঁক রয়ে যাওয়া একটি পরিবার, আর অল্প কজন মানুষ। আয়াত শেষ অংশটা নরম করে বলে না। উদ্ধারের কথায় নয়, সংখ্যাটা যে কত ছোট সেই কথাতেই সে শেষ হয়। তবু নৌকা তাদের নিয়ে ভেসে যায়। পাশে প্রায় কাউকে না পেয়েও আপনি যা ধরে রেখেছেন, তা মাপা হচ্ছে না সঙ্গীর সংখ্যা দিয়ে। ওজন করছেন তিনিই, যিনি সংকেতটা ঠিক করে রেখেছিলেন।",
     "pointsEn": [
       "What have I been working at for years with almost nothing to show, and whose laughter is the part I actually mind?",
       "If the signal I keep saying I am waiting for arrived this morning, is the work far enough along to load?",
@@ -7496,7 +7496,7 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "বছরের পর বছর যে কাজটা করে যাচ্ছি অথচ দেখানোর মতো কিছুই নেই, তাতে আসলে কার হাসিটা আমার গায়ে লাগে?",
-      "যে সংকেতের অপেক্ষায় আছি বলে আমি বলে বেড়াই, সেটা যদি আজ সকালেই এসে যেত, কাজ কি এতটা এগিয়েছে যে তুলে নেওয়া যায়?",
+      "যে সংকেতের অপেক্ষায় আছি বলে আমি বলে বেড়াই, সেটা যদি আজ সকালেই এসে যেত, কাজ কি এতটা এগিয়েছে যে নৌকায় তোলা যায়?",
       "কোন ভালো অভ্যাসটাকে আমি চুপচাপ কম দামি ভাবি, কারণ আশপাশে খুব কম লোকই তা ধরে রেখেছে?",
       "কোন কোন জায়গায় ভিড়ের মাপটাই ঠিক করে দেয় যে কাজটা আমার করা উচিত কি না?",
       "নিজের ঘরের কাকে আমি ধরেই নিয়েছি যে সে এমনিতেই সঙ্গে আসবে, আর শেষ কবে বসে তাকে জিজ্ঞেস করেছি?"
@@ -7506,7 +7506,7 @@ const TADABBUR_NOTES = {
   },
   "11:44": {
     "reflectionEn": "Two commands, and neither one is spoken to a person. The earth is told to swallow its water and the sky is told to stop. There is no argument, no delay, no second call. Then the water goes down, the matter is finished, and the ship settles. Notice who is never named: it was said, the water subsided, the matter was accomplished. The speaker stays out of sight and everything obeys anyway. That is the hard part to sit with, because you have been inside something that felt endless and could not picture its ending. Here the ending takes four Arabic words, and the flood that swallowed a world is over.",
-    "reflectionBn": "দুটি হুকুম, আর কোনোটিই মানুষকে বলা হয়নি। যমীনকে বলা হল নিজের পানি গিলে ফেলতে, আকাশকে বলা হল থামতে। কোনো তর্ক নেই, দেরি নেই, দ্বিতীয়বার ডাকতে হয়নি। এরপর পানি নেমে গেল, কাজ শেষ হয়ে গেল, নৌকা থিতু হল। খেয়াল করুন, কার নাম একবারও আসেনি: বলা হল, পানি বসে গেল, কাজ চুকে গেল। বক্তা আড়ালেই রইলেন, অথচ সবকিছু মেনে নিল। এ জায়গাটাই বসে ভাবার মতো কঠিন, কারণ আপনি এমন কিছুর ভেতরে থেকেছেন যার শেষ আছে বলেই মনে হয়নি। এখানে শেষটুকু সারা হয়ে গেল চারটি আরবি শব্দে, আর গোটা দুনিয়া গিলে ফেলা সেই বান থেমে গেল।",
+    "reflectionBn": "দুটি হুকুম, আর কোনোটিই মানুষকে বলা হয়নি। যমীনকে বলা হল নিজের পানি গিলে ফেলতে, আকাশকে বলা হল থামতে। কোনো তর্ক নেই, দেরি নেই, দ্বিতীয়বার ডাকতে হয়নি। এরপর পানি নেমে গেল, কাজ শেষ হয়ে গেল, নৌকা থিতু হল। খেয়াল করুন, কার নাম একবারও আসেনি: বলা হল, পানি বসে গেল, কাজ চুকে গেল। বক্তা আড়ালেই রইলেন, অথচ সবকিছু মেনে নিল। এ কথাটা হজম করাই কঠিন, কারণ আপনি নিজেও এমন কিছুর ভেতর দিয়ে গেছেন, যা অন্তহীন মনে হয়েছিল, যার শেষটা কল্পনাও করতে পারেননি। এখানে শেষটুকু সারা হয়ে গেল চারটি আরবি শব্দে, আর গোটা দুনিয়া গিলে ফেলা সেই বান থেমে গেল।",
     "pointsEn": [
       "What in my life is actually finished, and where am I still rowing as though it is not?",
       "When a command reaches me and I find myself negotiating with it, what am I really protecting?",
@@ -7526,7 +7526,7 @@ const TADABBUR_NOTES = {
   },
   "11:56": {
     "reflectionEn": "One man tells an entire nation to do its worst, and then explains why he can say it. He does not claim to be strong. He says that his Lord and their Lord are the same Lord, and that nothing which moves is outside His grip. The picture is a hand at the front of the head, the hold you take on someone who has stopped being a threat. Notice what he leaves out: any promise to himself that he will be spared. He is not guaranteeing the outcome. He is saying the outcome belongs to One who never rules unjustly, and then he stands there. That is what reliance looks like when the people opposite are serious.",
-    "reflectionBn": "এক লোক গোটা একটা জাতিকে বলছে, যা পারো করে দেখাও, তারপর বলছে কোন জোরে সে কথাটা বলতে পারল। নিজের শক্তির কথা সে একবারও তোলে না। সে বলে, আমার রব আর তোমাদের রব একই জন, আর নড়েচড়ে এমন কিছুই তাঁর মুঠোর বাইরে নয়। ছবিটা হল মাথার সামনের চুলে ধরা একটা হাত, কাউকে এভাবে ধরা হয় তখনই যখন সে আর কোনো হুমকি নয়। খেয়াল করুন সে কী বলেনি: বেঁচে যাওয়ার কোনো ওয়াদা সে নিজেকে দেয়নি। শেষটা কী হবে তার দায়িত্ব সে নিচ্ছে না। সে বলছে, শেষটা এমন একজনের হাতে যাঁর ফয়সালায় কোনোদিন অবিচার থাকে না, আর এ কথা বলেই সে দাঁড়িয়ে থাকে। সামনের লোকগুলো যখন সত্যিই বিপজ্জনক, ভরসা তখন এই চেহারাতেই দাঁড়ায়।",
+    "reflectionBn": "একজন মানুষ গোটা একটা জাতিকে বলছেন, যা পারো করে দেখাও, তারপর জানাচ্ছেন কোন ভরসায় তিনি এ কথা বলতে পারলেন। নিজের শক্তির কথা তিনি একবারও তোলেন না। বলেন, আমার রব আর তোমাদের রব একই, আর নড়েচড়ে এমন কিছুই তাঁর মুঠোর বাইরে নয়। ছবিটা হলো কপালের সামনের চুল ধরে রাখা একটা হাত; কাউকে এভাবে ধরা হয় তখনই, যখন সে আর কোনো হুমকি নয়। খেয়াল করুন তিনি কী বলেননি: বেঁচে যাওয়ার কোনো ওয়াদা তিনি নিজেকে দেননি। শেষটা কী হবে, তার নিশ্চয়তা তিনি দিচ্ছেন না। বলছেন, শেষটা এমন একজনের হাতে, যাঁর ফয়সালায় কোনোদিন অবিচার থাকে না; আর এ কথা বলেই তিনি দাঁড়িয়ে থাকেন। সামনের লোকেরা যখন সত্যিই ক্ষতি করতে প্রস্তুত, ভরসা তখন এমনই দেখায়।",
     "pointsEn": [
       "When I say I rely on Allah, am I relying on Him, or on my own guess about how this will turn out?",
       "Who am I actually afraid of in a room, and what does that fear make me leave unsaid?",
@@ -7542,7 +7542,7 @@ const TADABBUR_NOTES = {
       "জেনেবুঝে শেষবার আমি কোথায় পিছিয়ে এসেছিলাম, আর কাল আবার একই পরিস্থিতি হলে কি আবারও পিছিয়ে আসতাম?"
     ],
     "lessonEn": "He does not promise himself safety. He says every moving thing is held by the front of its head, and that his Lord never judges unjustly, and then he stands there.",
-    "lessonBn": "নিজের নিরাপত্তার কোনো ওয়াদা তিনি করেন না। তিনি বলেন, চলাফেরা করে এমন প্রতিটি প্রাণীর মাথার সামনের চুল তাঁর হাতে, আর তাঁর ফয়সালায় অবিচার নেই, এটুকু বলেই তিনি দাঁড়িয়ে থাকেন।"
+    "lessonBn": "নিজের নিরাপত্তার কোনো ওয়াদা তিনি নিজেকে দেন না। বলেন, চলাফেরা করে এমন প্রতিটি প্রাণীর কপালের চুল আল্লাহর মুঠোয়, আর তাঁর রব কখনো অবিচারে ফয়সালা করেন না। এটুকু বলেই তিনি দাঁড়িয়ে থাকেন।"
   },
   "11:47": {
     "reflectionEn": "He has just been told not to ask for what he has no knowledge of. Watch what he does not do next. He does not explain himself, he does not bring the promise up again, and he does not mention the boy at all. He takes the words of the correction and turns them round: what you have no knowledge of becomes what I have no knowledge of. Then he asks for two things, and neither of them is his son. Cover me. Have mercy on me. Without those, he says, I would be one of the losers. A prophet, on the day the water went down, asking to be covered.",
@@ -7557,8 +7557,8 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "কেউ আমার ভুল ধরিয়ে দিলে, আমার পরের বাক্যটার কতটুকু মেনে নেওয়া আর কতটুকু সাফাই?",
       "এমন কিছু কি আছে যা আমি নিয়ম করে আল্লাহর কাছে চেয়ে যাচ্ছি, অথচ একবারও ভাবিনি সেটা আমার জন্য ভালো কিনা?",
-      "আমার যে দোয়াটা কবুল হয়নি বলে মনে হয়েছিল, সেটাকে কি না বলে দেওয়া ভেবেছিলাম, নাকি না-চাওয়া একটা জবাব বলে?",
-      "সংশোধন যে কথায় এসেছে ঠিক সেই কথায় তা মেনে নিতে গেলে আমার কী খরচ হয়, নাকি আগে একটু নরম করে নিতেই হয়?",
+      "আমার যে দোয়াটা কবুল হয়নি বলে মনে হয়েছিল, সেটাকে কি না বলে দেওয়া ভেবেছিলাম, নাকি এমন এক জবাব, যা আমি চাইনি?",
+      "আগে নরম করে না নিয়ে, সংশোধন যে ভাষায় এসেছে ঠিক সেই ভাষায় তা মেনে নিতে আমার কী খরচ হতো?",
       "আজ যদি মাগফিরাত আর রহমত আমার কাছ থেকে সরিয়ে নেওয়া হয়, আমার আমলনামায় আসলে কী দাঁড়িয়ে থাকে?"
     ],
     "lessonEn": "Nuh (AS) answers the correction in its own wording, turned onto himself. He asks for nothing he was refused, only to be covered and shown mercy, and names what he would be without them.",
@@ -7577,7 +7577,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "তিন দিনের ঘোষণা এসেছিল, তবু কেউ নড়ল না। আমাকে সোজাসুজি কী বলে দেওয়া হয়েছে, যেটাকে আমি এখনো হয়তো-হবে বলে ধরে রেখেছি?",
       "সতর্কবার্তার সঙ্গে একটা তারিখ জুড়ে দিলেই যদি আমার ভয় কেটে যায়, তাহলে নিজের দোষ নিয়ে আমার এই নিশ্চিন্ত ভাবটা আসলে কিসের উপর দাঁড়ানো?",
-      "আয়াতটি তাদের ঘরেই খুঁজে পায়। আমার সাধারণ সপ্তাহের কোন কাজটার মাঝখানে আমাকে পাওয়া যাক, সেটা আমি সবচেয়ে কম চাইব?",
+      "আয়াতটি তাদের ঘরেই খুঁজে পায়। আমার সাধারণ সপ্তাহের কোন কাজের মাঝখানে ধরা পড়তে আমি সবচেয়ে কম চাইব?",
       "এরপর আরো একটা সতর্কবার্তা আসবেই, চুপচাপ এটা ধরে নিয়ে আমি কোন কাজটা ফেলে রেখেছি?",
       "ধ্বংস হয়ে যাওয়া কোনো জাতির কথা পড়ার সময় আমি কি খুঁজি আজকের কারা তাদের মতো, নাকি খুঁজি আমার ভেতরের কোনটা তাদের মতো?"
     ],
@@ -7595,10 +7595,10 @@ const TADABBUR_NOTES = {
       "When something goes well for me, how long is it before the thought of thanking Him arrives?"
     ],
     "pointsBn": [
-      "এই মুহূর্তে আমার হাতে যা আছে, তার কোনটা আমি বানাইনি আর কোনটা আমার কাছে থেকেও যাবে না?",
+      "এই মুহূর্তে আমার হাতে এমন কী আছে, যা আমি বানাইনি, আর যা চিরকাল আমার কাছে থাকবেও না?",
       "কিছু বিগড়ে যাওয়ার আগেই তিনি তাদের চাইতে বলেছেন। আমি চাওয়ার আগে কিসের অপেক্ষা করছি?",
       "তিনি যদি কাছেই থাকেন আর সাড়াও দেন, তাহলে আমার দুশ্চিন্তা আগে অন্য কোথাও যায় কেন?",
-      "নির্দিষ্ট সময়ের জন্য আমাকে এখানে রাখা হয়েছে, এটা যদি সত্যিই মানতাম, তাহলে এই ঘর, এই কাজ, এই পরিবার কি পাওয়ার চেয়ে ভালো অবস্থায় রেখে যেতাম?",
+      "নির্দিষ্ট সময়ের জন্য আমাকে এখানে রাখা হয়েছে, এটা যদি সত্যিই মানতাম, তাহলে এই ঘর, এই কাজ, এই পরিবারকে কি যেমন পেয়েছিলাম তার চেয়ে ভালো অবস্থায় রেখে যেতাম?",
       "আমার কোনো কাজ ভালোভাবে হয়ে গেলে তাঁর শুকরিয়ার কথা মনে আসতে কতক্ষণ লাগে?"
     ],
     "lessonEn": "You were raised from this ground and left on it for a term. That is the reason to ask, not the reward for asking. And the One asked is near, and answers.",
@@ -7606,7 +7606,7 @@ const TADABBUR_NOTES = {
   },
   "11:73": {
     "reflectionEn": "She had just said it out loud. I am old, my husband is old, this is an amazing thing. The reply does not argue with the arithmetic. It asks one short question, four words long, and then stops asking. After that the sentence turns away from her surprise and becomes a greeting instead, six words of mercy and blessing laid over the whole house. Then it closes on two names, and neither of them is a name of power. He is Praiseworthy. He is Honourable. Whatever correction was inside the question, it is the shortest part of what she was given, and the blessing outlasts it.",
-    "reflectionBn": "কথাটা তিনি মুখে বলেই ফেলেছেন। আমি বুড়ি, আমার স্বামীও বুড়ো, এ তো আশ্চর্য ব্যাপার। জবাবটা এই হিসাব নিয়ে তর্ক করে না। ছোট্ট একটা প্রশ্ন করে, মাত্র চার শব্দের, তারপর আর প্রশ্ন করে না। এরপর বাক্যটা তাঁর বিস্ময়ের দিক থেকে সরে গিয়ে সালামের চেহারা নেয়, ছয় শব্দে রহমত আর বরকত গোটা ঘরের উপর বিছিয়ে দেয়। শেষ হয় দুটো নামে, আর দুটোর একটাও ক্ষমতার নাম নয়। তিনি প্রশংসিত। তিনি মহান। প্রশ্নটার ভেতরে যা সংশোধন ছিল, তিনি যা পেলেন তার মধ্যে সেটাই সবচেয়ে ছোট অংশ, আর বরকতটাই থেকে যায়।",
+    "reflectionBn": "কথাটা তিনি মুখে বলেই ফেলেছেন। আমি বুড়ি, আমার স্বামীও বুড়ো, এ তো আশ্চর্য ব্যাপার। জবাবটা এই হিসাব নিয়ে তর্ক করে না। ছোট্ট একটা প্রশ্ন করে, আরবিতে মাত্র চার শব্দের, তারপর আর প্রশ্ন করে না। এরপর বাক্যটা তাঁর বিস্ময়ের দিক থেকে সরে গিয়ে সালামের চেহারা নেয়, ছয় শব্দে রহমত আর বরকত গোটা ঘরের উপর বিছিয়ে দেয়। শেষ হয় দুটো নামে, আর দুটোর একটাও ক্ষমতার নাম নয়। তিনি প্রশংসিত। তিনি মহান। প্রশ্নটার ভেতরে যা সংশোধন ছিল, তিনি যা পেলেন তার মধ্যে সেটাই সবচেয়ে ছোট অংশ, আর বরকতটাই থেকে যায়।",
     "pointsEn": [
       "Something I have been promised looks unlikely to me right now. Which part of that is arithmetic, and which part is doubt wearing arithmetic's clothes?",
       "The question put to her was four words and the blessing that followed was six. When I correct somebody at home, what is my ratio?",
@@ -7619,14 +7619,14 @@ const TADABBUR_NOTES = {
       "তাঁকে করা প্রশ্নটা ছিল চার শব্দের, আর তার পরের দুআটা ছয় শব্দের। ঘরের কাউকে শুধরে দেওয়ার সময় আমার অনুপাতটা কেমন থাকে?",
       "সন্তান আসার আগেই সালামটা এসে গিয়েছিল। জিনিসটা হাতে না আসা পর্যন্ত আমি কিসের জন্য শুকরিয়া আটকে রেখেছি?",
       "প্রমাণ শেষ হওয়ার পরে নয়, ওয়াদা দেওয়ার মুহূর্তেই তাঁকে প্রশংসিত আর মহান বলা হল। আমি কি ফল পাওয়ার আগে তাঁর প্রশংসা করি, নাকি পাওয়ার পরেই কেবল?",
-      "এক ঘরের ভেতরে একজনের বলা কথার সূত্রে গোটা পরিবারের উপর সালাম নেমে এল। আমার ঘরে আমি যেভাবে কথা বলি, তাতে আর কারা টানে পড়ে যায়?"
+      "এক ঘরের ভেতরে একজনের বলা কথার সূত্রে গোটা পরিবারের উপর সালাম নেমে এল। আমার ঘরে আমি যেভাবে কথা বলি, তার প্রভাব আর কাদের উপর গিয়ে পড়ে?"
     ],
     "lessonEn": "Amazement at a promise is answered with a blessing, not a rebuke. The question runs four words; the mercy laid over the house runs six, and it arrives before the child does.",
-    "lessonBn": "ওয়াদা শুনে অবাক হওয়ার জবাবে ধমক আসেনি, এসেছে বরকত। প্রশ্নটা চার শব্দের, আর ঘরের উপর বিছিয়ে দেওয়া রহমত ছয় শব্দের, আর সন্তান আসার আগেই সেটা এসে গেছে।"
+    "lessonBn": "ওয়াদা শুনে অবাক হওয়ার জবাবে ধমক আসেনি, এসেছে বরকত। প্রশ্নটা চার শব্দের; ঘরের উপর বিছিয়ে দেওয়া রহমত ছয় শব্দের, আর তা এসে গেছে সন্তান আসারও আগে।"
   },
   "11:81": {
     "reflectionEn": "He had just said out loud that he had no strength and no clan to shelter behind. The sentence was barely finished when the guests he had been trying to protect turned out to be his protection. They will never reach you. Then, before he can sit with the relief, an order arrives: gather your household, walk out while it is still dark, and do not turn your head. Rescue comes here as instruction, not as rest. The night is short and the walking has to start now. And the last thing said to him is a question rather than a promise, a question that measures how little time is left. Is not the morning near.",
-    "reflectionBn": "একটু আগেই তিনি মুখে বলে ফেলেছেন, তাঁর শক্তি নেই, পিছনে দাঁড়ানোর মতো কোনো গোষ্ঠীও নেই। কথাটা শেষ হতে না হতেই দেখা গেল, যাদের বাঁচাতে তিনি দরজা আগলে দাঁড়িয়ে ছিলেন, আসল আশ্রয় তো তাঁরাই। ওরা তোমার কাছে পৌঁছতেই পারবে না। স্বস্তিটুকু নিয়ে বসার আগেই হুকুম এসে গেল, পরিবার নিয়ে অন্ধকার থাকতেই বেরিয়ে পড়ুন, আর পিছনে ফিরে তাকাবেন না। এখানে উদ্ধার এসেছে বিশ্রাম হয়ে নয়, কাজ হয়ে। রাত ছোট, হাঁটা শুরু করতে হবে এক্ষুনি। আর শেষ কথাটা কোনো প্রতিশ্রুতি নয়, প্রশ্ন, যা মেপে দেয় হাতে কত অল্প সময় বাকি। সকাল কি নিকটবর্তী নয়?",
+    "reflectionBn": "একটু আগেই তিনি মুখে বলে ফেলেছেন, তাঁর শক্তি নেই, পিছনে দাঁড়ানোর মতো কোনো গোষ্ঠীও নেই। কথাটা শেষ হতে না হতেই দেখা গেল, যাদের বাঁচাতে তিনি দরজা আগলে দাঁড়িয়ে ছিলেন, আসল আশ্রয় তো তাঁরাই। ওরা তোমার কাছে পৌঁছতেই পারবে না। স্বস্তিটুকু নিয়ে বসার আগেই হুকুম এসে গেল, পরিবার নিয়ে অন্ধকার থাকতেই বেরিয়ে পড়ো, আর কেউ পিছনে ফিরে তাকিয়ো না। এখানে উদ্ধার এসেছে বিশ্রাম হয়ে নয়, হুকুম হয়ে। রাত ছোট, হাঁটা শুরু করতে হবে এক্ষুনি। আর শেষ কথাটা কোনো প্রতিশ্রুতি নয়, প্রশ্ন, যা মেপে দেয় হাতে কত অল্প সময় বাকি। সকাল কি নিকটবর্তী নয়?",
     "pointsEn": [
       "The help was standing in the room while he was wishing for help he did not have. Whose support am I overlooking because it does not look like support?",
       "The rescue came with a task attached and a deadline on it. What have I been waiting to feel safe before starting?",
@@ -7638,15 +7638,15 @@ const TADABBUR_NOTES = {
       "যে সাহায্যের জন্য তিনি আফসোস করছিলেন, সেই সাহায্য তখন ঘরের ভেতরেই দাঁড়িয়ে। কার সহায়তা আমি চোখেই দেখছি না, শুধু সেটা দেখতে সহায়তার মতো নয় বলে?",
       "উদ্ধারের সঙ্গে কাজ জুড়ে এল, আর সেই কাজের সময়ও বেঁধে দেওয়া হল। নিরাপদ বোধ করার অপেক্ষায় আমি কোন কাজটা শুরু করছি না?",
       "তোমাদের কেউ যেন পিছনে না তাকায়। কোন জিনিসটা ছেড়ে আসতে গেলে আমাকে আরেকবার ফিরে গিয়ে দেখে আসতেই হয়?",
-      "তিনি চেয়েছিলেন ব্যাপারটা এই মুহূর্তেই শেষ হোক, আর তাঁকে জিজ্ঞেস করা হল সকাল কি কাছে নয়। আমার তাড়াহুড়ো আসলে কোথায় গিয়ে আল্লাহর সময়জ্ঞানের উপর অসন্তোষ হয়ে দাঁড়ায়?",
+      "তিনি চেয়েছিলেন ব্যাপারটা এই মুহূর্তেই শেষ হোক, আর তাঁকে জিজ্ঞেস করা হল সকাল কি কাছে নয়। কোথায় আমার তাড়াহুড়ো আসলে আল্লাহর ঠিক করা সময়ের প্রতি অধৈর্য?",
       "পরিবারের ভেতরে থাকাটাই কাউকে বাঁচিয়ে দেয়নি। শুধু আমার কাছাকাছি আছে বলেই কোন জিনিসটা আপনাআপনি সঙ্গে চলে আসবে বলে আমি ধরে রেখেছি?"
     ],
     "lessonEn": "Rescue can arrive as an order. The angels name themselves, close the danger, and in the same breath send him walking into the dark before a morning that is already near.",
-    "lessonBn": "উদ্ধার হুকুম হয়েও আসতে পারে। ফেরেশতারা নিজেদের পরিচয় দিলেন, বিপদের দরজা বন্ধ করলেন, আর একই নিঃশ্বাসে তাঁকে পাঠিয়ে দিলেন অন্ধকারে হাঁটতে, এমন সকালের আগে যা ইতিমধ্যেই কাছে।"
+    "lessonBn": "উদ্ধার হুকুম হয়েও আসতে পারে। ফেরেশতারা নিজেদের পরিচয় দিলেন, বিপদের দরজা বন্ধ করলেন, আর একই নিঃশ্বাসে তাঁকে অন্ধকারে হাঁটতে পাঠিয়ে দিলেন; সকাল তখন একেবারে কাছে।"
   },
   "11:100": {
     "reflectionEn": "Six peoples have just been named and buried. Now the surah stops telling and starts summing up. That is from the news of the cities, which We relate to you. Then the whole aftermath is handed over in three words: of them some standing, some mown down. Not every ruin looks like a ruin. Some places still have walls, a shape on the ground, a name that outlived the people. Others have nothing left to point at. Both are inside one sentence and both are finished. The verse does not send you looking for the sites. It asks you to notice that a thing can look upright long after whatever held it up is gone.",
-    "reflectionBn": "ছয়টি জাতির নাম বলা হল, তারপর তাদের কবরও দেওয়া হয়ে গেল। এবার সূরা কাহিনি বলা থামিয়ে হিসাব মেলাতে বসেছে। এ হল জনপদগুলোর কিছু খবর, যা আমি তোমাকে শোনাচ্ছি। এরপর পুরো পরিণতিটা তুলে দেওয়া হল মাত্র তিনটি শব্দে, কতক দাঁড়িয়ে আছে আর কতক কাটা ফসল। সব ধ্বংসস্তূপ দেখতে ধ্বংসস্তূপের মতো হয় না। কোথাও দেয়াল আছে, মাটির উপর আকৃতি আছে, মানুষ ফুরিয়ে গেলেও নামটা টিকে আছে। কোথাও আঙুল তুলে দেখানোর মতো কিছুই বাকি নেই। দুটোই এক বাক্যের ভেতরে, আর দুটোরই গল্প শেষ। আয়াতটি আপনাকে জায়গা খুঁজতে পাঠাচ্ছে না। বলছে, যে জিনিসটা ভেতর থেকে ধরে রেখেছিল তা চলে যাওয়ার অনেক পরেও বাইরেটা সোজা দেখাতে পারে।",
+    "reflectionBn": "ছয়টি জাতির নাম বলা হল, তারপর তাদের কবরও দেওয়া হয়ে গেল। এবার সূরা কাহিনি বলা থামিয়ে হিসাব মেলাতে বসেছে। এ হল জনপদগুলোর কিছু খবর, যা আমি তোমাকে শোনাচ্ছি। এরপর পুরো পরিণতিটা তুলে দেওয়া হল আরবিতে মাত্র তিনটি শব্দে: কতক দাঁড়িয়ে আছে আর কতক কাটা ফসল। সব ধ্বংসস্তূপ দেখতে ধ্বংসস্তূপের মতো হয় না। কোথাও দেয়াল আছে, মাটির উপর আকৃতি আছে, মানুষ ফুরিয়ে গেলেও নামটা টিকে আছে। কোথাও আঙুল তুলে দেখানোর মতো কিছুই বাকি নেই। দুটোই এক বাক্যের ভেতরে, আর দুটোরই গল্প শেষ। আয়াতটি আপনাকে জায়গা খুঁজতে পাঠাচ্ছে না। বলছে, যে জিনিসটা ভেতর থেকে ধরে রেখেছিল তা চলে যাওয়ার অনেক পরেও বাইরেটা সোজা দেখাতে পারে।",
     "pointsEn": [
       "The stories stopped and a reckoning began. What am I still telling as a story because I do not want to add it up?",
       "Some of the cities still had walls. What is still standing in me only because nobody has looked behind the wall?",
@@ -7662,7 +7662,7 @@ const TADABBUR_NOTES = {
       "আয়াত জনপদগুলোর নাম নিচ্ছে, পাঠকের নয়। পাকড়াও হওয়া মানুষদের কথা পড়তে গিয়ে আমি নিজেকে দেখি, নাকি অপছন্দের কাউকে?"
     ],
     "lessonEn": "Ruins come in two kinds: the ones still standing and the ones swept flat. Both are over. The verse asks you to read an ending before you are inside one.",
-    "lessonBn": "ধ্বংস দুই রকম হয়, কিছু দাঁড়িয়ে থাকে আর কিছু মাটির সঙ্গে মিশে যায়। শেষ দুটোই। আয়াত বলছে, নিজে পরিণতির ভেতরে ঢুকে পড়ার আগেই অন্যের পরিণতিটা পড়ে নিন।"
+    "lessonBn": "ধ্বংস দুই রকম হয়, কিছু দাঁড়িয়ে থাকে আর কিছু মাটির সঙ্গে মিশে যায়। দুটোরই শেষ হয়ে গেছে। আয়াত বলছে, নিজে পরিণতির ভেতরে ঢুকে পড়ার আগেই অন্যের পরিণতিটা পড়ে নিন।"
   },
   "11:84": {
     "reflectionEn": "The stones have just fallen on Lut's people, and the line before this one says the punishment is never far from wrongdoers. Then the surah turns to a comfortable town. Shu'ayb says two things in one breath: worship Allah alone, and do not shave the measure and the scale. Faith and a shopkeeper's cup in the same sentence. Then comes the hardest line to hear. I see you in prosperity. He is not complimenting them. He is taking away their excuse. Nobody in Madyan was shorting a customer because there was nothing to eat. They did it because there was room to, and the room had begun to feel like permission. And the Day he fears closes in from every side.",
@@ -7697,7 +7697,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "সকালের কথা আগেই বলে দেওয়া হয়েছিল, আর ঠিক তখনই তা এল। কোন সতর্কবাণী আমি এত বার শুনেছি যে এখন ধরে নিয়েছি তার সময় কোনোদিন আসবে না?",
       "শেষ রাতটা দেখতে ছিল আর যেকোনো রাতের মতোই। আমার জীবনের কোন জিনিসটাকে আমি স্বাভাবিক বলছি শুধু এজন্য যে এখনো তার কিছু হয়নি?",
-      "আয়াতে দুবার এসেছে আমি শব্দটি: উল্টে দেওয়া আর বর্ষণ, দুটোই আল্লাহর কাজ, কোনো দৈব ঘটনা নয়। আমার চারপাশে কিছু ভেঙে পড়লে আমি আগে কার দিকে তাকাই, কার্যকারণের দিকে, নাকি যাঁর হুকুম তাঁর দিকে?",
+      "আয়াতে দুবারই কর্তা ‘আমি’, অর্থাৎ আল্লাহ: উল্টে দেওয়া আর বর্ষণ, দুটোই তাঁর কাজ, কোনো দৈব ঘটনা নয়। আমার চারপাশে কিছু ভেঙে পড়লে আমি আগে কার দিকে তাকাই, কার্যকারণের দিকে, নাকি যাঁর হুকুম তাঁর দিকে?",
       "হুকুম আসার আগেই লূত (আঃ)-কে হাঁটতে পাঠানো হয়েছিল, পরে নয়। সকালের আগে আমাকে কী ছেড়ে আসতে বলা হয়েছে, আর আমি কি সত্যিই রওনা দিয়েছি?",
       "আয়াতটি একটি জাতির আর আল্লাহর একটি কাজের কথা বলে, জীবিত কারও উপর রায় দেওয়ার অধিকার আমাকে দেয় না। কোন সতর্কবাণী আমি এমনভাবে পড়ি যেন তা অন্যদের নিয়ে লেখা, আমাকে নিয়ে নয়?"
     ],
@@ -7737,7 +7737,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "একই বিবরণ সবার কাছে পৌঁছেছিল, কিন্তু নিদর্শন ছিল কেবল যারা ভয় করে তাদের জন্য। কোনো জাতির পাকড়াও হওয়ার কথা শুনলে আমি কি কিছু শিখি, নাকি ঘণ্টাখানেক কিছু একটা অনুভব করি মাত্র?",
       "আখিরাতের ভয়ই কাহিনিকে শিক্ষায় বদলে দেয়। সেই ভয় কি আমার ভেতরে এখনো জীবিত, নাকি তা এমন এক বিশ্বাস হয়ে গেছে যা আমি মানি কিন্তু কখনো অনুভব করি না?",
-      "আগের আর পরের সব মানুষকে একটি দিনের জন্য একত্র করা হবে। সেখানে কার কার সঙ্গে দেখা হবে বলে আমি জানি, আর সেদিন আসার আগে তাদের সঙ্গে কোন হিসাবটা মিটিয়ে নিতে চাই?",
+      "আগের আর পরের সব মানুষকে একটি দিনের জন্য একত্র করা হবে। সেখানে কার কার সঙ্গে দেখা হবে বলে আমি মনে করি, আর সেদিন আসার আগে তাদের সঙ্গে কোন হিসাবটা মিটিয়ে নিতে চাই?",
       "সেদিন সবাই হাজির থাকবে, কেউ দূরে থাকবে না। আমার কোন কাজটা আমি এমনভাবে করেছি যেন তার কোনো সাক্ষী কোনোদিন থাকবে না?",
       "আয়াতটি এমন জনপদের কথা বলে যাদের ফয়সালা হয়ে গেছে, জীবিত কারও উপর রায় দেওয়ার অধিকার আমাকে দেয় না। সতর্কবাণী কি আমি নিজের চেয়ে অন্যদের জন্য বেশি সহজে পড়ি?"
     ],
@@ -7746,7 +7746,7 @@ const TADABBUR_NOTES = {
   },
   "11:108": {
     "reflectionEn": "The verse before this one described the Fire. This one turns to those who were made happy, and it closes on three Arabic words that settle the matter: a gift, not cut off. Almost everything I hold now is the opposite. Health thins, money is spent, people leave, and even a good day is over by night. The verse promises something that does not end, and it calls it a gift, not a wage, so the Giver's hand is still on it. That changes the arithmetic of what I am willing to let go of. To trade a gift that is never taken back for a pleasure finished by evening is a losing bargain. So what am I holding onto today that I would release if I truly believed this?",
-    "reflectionBn": "আগের আয়াতে ছিল জাহান্নামের বর্ণনা। এই আয়াত ফেরে তাদের দিকে, যাদের সৌভাগ্য দান করা হয়েছে, আর শেষ হয় আরবি তিনটি শব্দে, যাতে সব কথার মীমাংসা হয়ে যায়: এমন দান, যা কখনো কেটে নেওয়া হবে না। আজ আমার হাতে যা আছে, তার প্রায় সবই এর উল্টো। সুস্থতা ক্ষয়ে যায়, টাকা খরচ হয়ে যায়, মানুষ চলে যায়, সবচেয়ে ভালো দিনটাও রাত নামলে শেষ। আয়াতটি এমন কিছুর ওয়াদা দেয় যা ফুরায় না, আর তাকে বলে দান, মজুরি নয়। অর্থাৎ দাতার হাত এখনো তার উপরেই আছে। এতে বদলে যায় হিসাবটা, কী ছাড়তে আমি রাজি। সন্ধ্যার মধ্যে ফুরিয়ে যায় এমন মজার বদলে কখনো ফেরত না নেওয়া দান হাতছাড়া করা লোকসানের সওদা। তাহলে আজ কোন জিনিস আমি আঁকড়ে আছি, যা সত্যিই এ কথায় বিশ্বাস করলে ছেড়ে দিতাম?",
+    "reflectionBn": "আগের আয়াতে ছিল জাহান্নামের বর্ণনা। এই আয়াত ফেরে তাদের দিকে, যাদের সৌভাগ্য দান করা হয়েছে, আর শেষ হয় আরবি তিনটি শব্দে, যাতে সব কথার মীমাংসা হয়ে যায়: এমন দান, যা কখনো কেটে নেওয়া হবে না। আজ আমার হাতে যা আছে, তার প্রায় সবই এর উল্টো। সুস্থতা ক্ষয়ে যায়, টাকা খরচ হয়ে যায়, মানুষ চলে যায়, সবচেয়ে ভালো দিনটাও রাত নামলে শেষ। আয়াতটি এমন কিছুর ওয়াদা দেয় যা ফুরায় না, আর তাকে বলে দান, মজুরি নয়। অর্থাৎ দাতার হাত এখনো তার উপরেই আছে। এতে বদলে যায় আমার হিসাব: কী ছেড়ে দিতে আমি রাজি। সন্ধ্যার মধ্যে ফুরিয়ে যায় এমন মজার বদলে কখনো ফেরত না নেওয়া দান হাতছাড়া করা লোকসানের সওদা। তাহলে আজ কোন জিনিস আমি আঁকড়ে আছি, যা সত্যিই এ কথায় বিশ্বাস করলে ছেড়ে দিতাম?",
     "pointsEn": [
       "The verse calls Paradise a gift, not a wage. Do I think of what I hope for from Allah as something I have earned, or as something He gives?",
       "Almost everything I enjoy now ends by evening or by old age. Which of those passing things am I paying for with something that would have lasted?",
@@ -7766,7 +7766,7 @@ const TADABBUR_NOTES = {
   },
   "11:118": {
     "reflectionEn": "Had your Lord willed, all of mankind would have been one community. He did not will it, and the verse does not stop to argue the point. It states a fact about the world you live in: people will not cease to differ. Then the sentence is left open, and the next verse completes it with an exception, those on whom your Lord has mercy. So the verse is no permission to look down on anyone who differs from you, and no excuse to stop caring what is true. It sends you back to yourself. Everyone who differs is sure the truth sits in his own words. What would it take for you to be among those shown mercy, in what you hold and in how you hold it?",
-    "reflectionBn": "আপনার রব চাইলে সব মানুষকে এক উম্মত বানিয়ে দিতে পারতেন। তিনি তা চাননি, আর আয়াত এ নিয়ে কোনো তর্কে যায় না। সোজা জানিয়ে দেয়, আপনি যে দুনিয়ায় আছেন সেখানে মানুষ মতভেদ করতেই থাকবে। তারপর বাক্যটা খোলা রেখে দেওয়া হয়, আর পরের আয়াত একটা ব্যতিক্রম দিয়ে সেটা শেষ করে: যাদের উপর আপনার রব রহম করেন। কাজেই যে আপনার সঙ্গে দ্বিমত করে, তাকে তুচ্ছ করার অনুমতি এ আয়াতে নেই। আবার সত্য কী, তা নিয়ে মাথা ঘামানো ছেড়ে দেওয়ার অজুহাতও নেই। আয়াত আপনাকে নিজের দিকেই ফিরিয়ে দেয়। যে-ই মতভেদ করে, সে নিশ্চিত থাকে সত্যটা তার নিজের কথাতেই। তাহলে যাদের উপর রহম করা হয়, তাদের দলে থাকতে আপনার কী লাগবে, কী আঁকড়ে আছেন সেখানে, আর কীভাবে আঁকড়ে আছেন সেখানেও?",
+    "reflectionBn": "আপনার রব চাইলে সব মানুষকে এক উম্মত বানিয়ে দিতে পারতেন। তিনি তা চাননি, আর আয়াত এ নিয়ে কোনো তর্কে যায় না। সোজা জানিয়ে দেয়, আপনি যে দুনিয়ায় আছেন সেখানে মানুষ মতভেদ করতেই থাকবে। তারপর বাক্যটা খোলা রেখে দেওয়া হয়, আর পরের আয়াত একটা ব্যতিক্রম দিয়ে সেটা শেষ করে: যাদের উপর আপনার রব রহম করেন। কাজেই যে আপনার সঙ্গে দ্বিমত করে, তাকে তুচ্ছ করার অনুমতি এ আয়াতে নেই। আবার সত্য কী, তা নিয়ে মাথা ঘামানো ছেড়ে দেওয়ার অজুহাতও নেই। আয়াত আপনাকে নিজের দিকেই ফিরিয়ে দেয়। যে-ই মতভেদ করে, সে নিশ্চিত থাকে সত্যটা তার নিজের কথাতেই। তাহলে আপনি যা আঁকড়ে আছেন আর যেভাবে আঁকড়ে আছেন, দুই জায়গাতেই রহমতপ্রাপ্তদের একজন হতে আপনার কী লাগবে?",
     "pointsEn": [
       "Everyone who differs is sure the truth is on his side. When did I last test my certainty against the Book rather than against my pride?",
       "Do I use the fact that people will always differ as a reason to stop searching for what is true?",
@@ -7786,7 +7786,7 @@ const TADABBUR_NOTES = {
   },
   "12:5-6": {
     "reflectionEn": "A boy brings his father a dream of eleven stars, the sun and the moon bowing to him. The father answers in two movements. First a caution: do not tell this to your brothers, or they will plot against you, for Satan is to man a clear enemy. Then a reading: your Lord will choose you, teach you the meaning of what is told, and complete His favour on you as He completed it on Ibrahim and Ishaq before. The warning curses no one; it names the enemy who stands behind envy. And the joy is not taken from the boy, only kept from those it might provoke. A gift can be guarded without treating the people you love as enemies.",
-    "reflectionBn": "এক বালক বাবার কাছে এসে বলে, সে স্বপ্নে দেখেছে এগারোটি তারা আর সূর্য ও চাঁদ তাকে সাজদা করছে। বাবার জবাব দুই ধাপে। প্রথমে সাবধানবাণী: এ স্বপ্নের কথা তোমার ভাইদের বোলো না, বললে তারা তোমার বিরুদ্ধে চক্রান্ত করবে, শয়তান তো মানুষের প্রকাশ্য দুশমন। তারপর স্বপ্নের পাঠ: তোমার রব তোমাকে বেছে নেবেন, কথার আসল মর্ম বোঝার জ্ঞান দেবেন, আর তোমার উপর তাঁর নিয়ামত পূর্ণ করবেন, যেমন আগে পূর্ণ করেছিলেন ইবরাহীম ও ইসহাকের উপর। সাবধানবাণীতে কাউকে অভিশাপ দেওয়া হয়নি। হিংসার পেছনে যে শত্রু দাঁড়িয়ে, নাম নেওয়া হয়েছে তারই। ছেলের আনন্দও কেড়ে নেওয়া হয়নি, শুধু তাদের কাছ থেকে আড়ালে রাখা হয়েছে যাদের মনে তা আগুন জ্বালাতে পারে। প্রিয় মানুষদের শত্রু না বানিয়েও নিয়ামত আগলে রাখা যায়।",
+    "reflectionBn": "এক বালক বাবার কাছে এসে বলে, সে স্বপ্নে দেখেছে এগারোটি তারা আর সূর্য ও চাঁদ তাকে সাজদা করছে। বাবার জবাব দুই ধাপে। প্রথমে সাবধানবাণী: এ স্বপ্নের কথা তোমার ভাইদের বোলো না, বললে তারা তোমার বিরুদ্ধে চক্রান্ত করবে, শয়তান তো মানুষের প্রকাশ্য দুশমন। তারপর স্বপ্নের ব্যাখ্যা: তোমার রব তোমাকে বেছে নেবেন, কথার আসল মর্ম বোঝার জ্ঞান দেবেন, আর তোমার উপর তাঁর নিয়ামত পূর্ণ করবেন, যেমন আগে পূর্ণ করেছিলেন ইবরাহীম (আঃ) ও ইসহাক (আঃ)-এর উপর। সাবধানবাণীতে কাউকে অভিশাপ দেওয়া হয়নি। হিংসার পেছনে যে শত্রু দাঁড়িয়ে, নাম নেওয়া হয়েছে তারই। ছেলের আনন্দও কেড়ে নেওয়া হয়নি, শুধু তাদের কাছ থেকে আড়ালে রাখা হয়েছে যাদের মনে তা আগুন জ্বালাতে পারে। প্রিয় মানুষদের শত্রু না বানিয়েও নিয়ামত আগলে রাখা যায়।",
     "pointsEn": [
       "Who in my life is safe to hear my good news, and do I choose them for their love or only because they are near?",
       "When I sense envy around me, do I guard what I have quietly, or do I begin treating people as enemies?",
@@ -7806,7 +7806,7 @@ const TADABBUR_NOTES = {
   },
   "12:16": {
     "reflectionEn": "They came to their father at nightfall, weeping. The verse is four words long, and it tells you only what he could see and hear: his sons coming home late, in the dark, in tears. The rest of the surah tells you what the tears were covering. Weeping is a gift from Allah, and it can also be put on. That is no reason to doubt the grief of the people around you; it is a reason to look at your own. When you have done wrong, do you reach for a better hour, a softer story, a show of feeling, rather than the plain truth? A wrong that stays hidden asks for the next thing to hide it. Where is one still asking in your life?",
-    "reflectionBn": "রাতের শুরুতে তারা কাঁদতে কাঁদতে বাবার কাছে এল। আয়াতটি মাত্র ৪টি শব্দের, আর বাবা যা দেখতে ও শুনতে পেতেন, আয়াত শুধু সেটুকুই জানায়: ছেলেরা ঘরে ফিরছে দেরিতে, অন্ধকারে, চোখে পানি নিয়ে। সেই কান্না কী ঢেকে রাখছিল, তা জানায় সূরার বাকি অংশ। কান্না আল্লাহর দেওয়া নিয়ামত, আবার কান্না বানানোও যায়। এ কারণে আশপাশের মানুষের শোককে সন্দেহ করার কিছু নেই। বরং এ কারণে নিজের দিকে তাকানো দরকার। কোনো অন্যায় করে ফেলার পর আপনি কি সোজা সত্যটা বলেন? নাকি খোঁজেন সুবিধামতো সময়, নরম করে সাজানো গল্প, কিংবা আবেগের প্রদর্শনী? যে অন্যায় লুকিয়ে থাকে, সে তাকে ঢাকার জন্য আরও কিছু চায়। আপনার জীবনে কোনটি এখনো তেমন কিছু চেয়ে চলেছে?",
+    "reflectionBn": "রাতের শুরুতে তারা কাঁদতে কাঁদতে বাবার কাছে এল। আয়াতটি আরবিতে মাত্র চারটি শব্দের, আর বাবা যা দেখতে ও শুনতে পেতেন, আয়াত শুধু সেটুকুই জানায়: ছেলেরা ঘরে ফিরছে দেরিতে, অন্ধকারে, চোখে পানি নিয়ে। সেই কান্না কী ঢেকে রাখছিল, তা জানায় সূরার বাকি অংশ। কান্না আল্লাহর দেওয়া নিয়ামত, আবার কান্না বানানোও যায়। এ কারণে আশপাশের মানুষের শোককে সন্দেহ করার কিছু নেই। বরং এ কারণে নিজের দিকে তাকানো দরকার। কোনো অন্যায় করে ফেলার পর আপনি কি সোজা সত্যটা বলেন? নাকি খোঁজেন সুবিধামতো সময়, নরম করে সাজানো গল্প, কিংবা আবেগের প্রদর্শনী? যে অন্যায় লুকিয়ে থাকে, সে তাকে ঢাকার জন্য আরও কিছু চায়। আপনার জীবনে কোনটি এখনো তেমন কিছু চেয়ে চলেছে?",
     "pointsEn": [
       "When I last owed someone an explanation for a wrong, did I choose the hour or the setting so that I would be harder to read?",
       "Have my tears or my visible distress ever argued a case that my words could not honestly make?",
@@ -7886,7 +7886,7 @@ const TADABBUR_NOTES = {
   },
   "12:43": {
     "reflectionEn": "A man in prison asked for one favour: mention me to your master. The man went free and forgot, and the years went by. Then, with no one pleading for him, a king woke up shaken. Seven fat cows eaten by seven lean ones, green ears beside dry ones, and a court that could not say what it meant. The relief did not begin with the request that had been made. It began in another man's sleep. And the man who held the kingdom said, in front of his court, that he needed someone who knew. Where am I still standing at the one door I knocked on? And when I do not know, can I say so as plainly as a king did?",
-    "reflectionBn": "কারাগারে বসে একজন মানুষ শুধু একটা অনুরোধ করেছিলেন: তোমার মনিবের কাছে আমার কথা বলো। লোকটি মুক্তি পেল, ভুলে গেল, আর বছরের পর বছর কেটে গেল। তারপর একদিন, তাঁর হয়ে কেউ সুপারিশ করছে না, অথচ এক রাজা ঘুম থেকে উঠলেন অস্থির হয়ে। সাতটি মোটা গাভী খেয়ে ফেলছে সাতটি রোগা গাভী, সবুজ শীষের পাশে শুকনো শীষ, আর গোটা দরবারের কেউ বলতে পারছে না এর মানে কী। মুক্তির শুরুটা সেই অনুরোধ থেকে আসেনি। এসেছে আরেকজনের ঘুমের ভেতর থেকে। আর যাঁর হাতে গোটা রাজ্য, তিনি দরবারের সামনে স্বীকার করলেন, তাঁর এমন কাউকে দরকার যে জানে। আমি কি এখনো সেই একটা দরজার সামনেই দাঁড়িয়ে আছি, যেখানে আমি কড়া নেড়েছিলাম? আর যখন আমি জানি না, একজন রাজার মতো সোজাসুজি কি সেটা বলতে পারি?",
+    "reflectionBn": "কারাগারে বসে একজন মানুষ শুধু একটা অনুরোধ করেছিলেন: তোমার মনিবের কাছে আমার কথা বলো। লোকটি মুক্তি পেল, ভুলে গেল, আর বছরের পর বছর কেটে গেল। তারপর একদিন, তাঁর হয়ে কেউ সুপারিশ না করলেও, এক রাজা অস্থির হয়ে ঘুম থেকে জেগে উঠলেন। সাতটি মোটা গাভীকে খেয়ে ফেলছে সাতটি রোগা গাভী, সবুজ শীষের পাশে শুকনো শীষ, আর গোটা দরবারের কেউ বলতে পারছে না এর মানে কী। মুক্তির শুরুটা সেই অনুরোধ থেকে আসেনি। এসেছে আরেকজনের ঘুমের ভেতর থেকে। আর যাঁর হাতে গোটা রাজ্য, তিনি দরবারের সামনে স্বীকার করলেন, তাঁর এমন কাউকে দরকার যে জানে। আমি কি এখনো সেই একটা দরজার সামনেই দাঁড়িয়ে আছি, যেখানে আমি কড়া নেড়েছিলাম? আর যখন আমি জানি না, একজন রাজার মতো সোজাসুজি কি সেটা বলতে পারি?",
     "pointsEn": [
       "Which way out have I decided is the only one, so that I have stopped expecting help from anywhere else?",
       "When a plan of mine has stalled, have I read the stall as Allah having forgotten me?",
@@ -7916,7 +7916,7 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "আমার নামে এমন কোনো অভিযোগ কি আছে, যার জবাব সত্য দিয়ে না দিয়ে আমি হইচই দিয়ে চাপা দিতে চেয়েছি?",
-      "মুক্তির প্রস্তাব যদি এমন শর্তে আসে যে একটা অন্যায় অকথিত থেকে যায়, তাহলে অপেক্ষা করতে আমার কী খরচ হবে?",
+      "মুক্তির প্রস্তাব যদি এমন শর্তে আসে যে একটা অন্যায়ের কথা চাপাই পড়ে থাকবে, তাহলে অপেক্ষা করতে আমার কী খরচ হবে?",
       "নিজেকে নির্দোষ প্রমাণ করতে গিয়ে কার সম্মান আমি সাবধানে বাঁচিয়ে চলি, আর কারটা খরচ করতে দেরি করি না?",
       "আমার সঙ্গে যা করা হয়েছে, আমার রব তা আগেই জানেন, এই কথায় কি আমার মন সত্যিই স্থির হয়?",
       "এই মুহূর্তে আমার নিজের জীবনে, দয়া করে ছেড়ে দেওয়া আর নির্দোষ সাব্যস্ত হওয়ার মধ্যে তফাতটা কোথায়?"
@@ -7938,7 +7938,7 @@ const TADABBUR_NOTES = {
       "শেষবার কোনো বিবাদে আমি সঠিক প্রমাণিত হওয়ার পর নিজের সম্পর্কে কী বলেছিলাম? তার কোনো অংশ কি আমার জানার চেয়ে বেশি দাবি করেছিল?",
       "কোন দোষ আমি কখনো করব না বলে নিশ্চিত? সেই নিশ্চয়তার পেছনে আসলে কীসের উপর ভর করছি?",
       "নফস যখন কিছুর দিকে ঠেলে, আমি কি সেটাকে ঠেলা বলে চিনতে পারি, নাকি নিজের সুবিবেচনা ভেবে বসি?",
-      "অন্যায়ে নিজের ভাগটুকু স্বীকার করার পর আমি কি উল্টো দিকে গিয়ে নিজেকে একেবারে নিষ্কলঙ্ক ঘোষণা না করে থাকতে পারি?",
+      "অন্যায়ে নিজের ভাগটুকু কি আমি স্বীকার করতে পারি, উল্টো দিকে ঝুঁকে নিজেকে একেবারে নিষ্কলঙ্ক ঘোষণা না করে?",
       "নিজের ভালো আমলনামার কৃতিত্ব নিজেকে না দিয়ে রহমতকে দিলে অন্যদের বিচার করার ধরনে আমার কী বদলাত?"
     ],
     "lessonEn": "Do not declare yourself pure, even when you are cleared. The soul keeps urging what is bad, and whatever kept you safe was your Lord's mercy.",
@@ -7966,7 +7966,7 @@ const TADABBUR_NOTES = {
   },
   "12:72": {
     "reflectionEn": "The brothers ask what has gone missing, and the answer comes in three short pieces: the king's measure is lost, whoever brings it back gets a camel-load, and I stand surety for it. A man puts his own name behind a promise in front of a whole caravan. It is an ordinary sentence of business, and that is what makes it worth a pause. I make offers like that too: a reward for a small job, a word that I will cover what someone else owes, a line saying the thing will be paid. Do I say exactly what I am offering? And when the time comes to pay, am I the one people have to chase?",
-    "reflectionBn": "ভাইয়েরা জানতে চায়, কী হারিয়েছে। উত্তর আসে তিন টুকরো কথায়: রাজার মাপার পাত্রটি পাওয়া যাচ্ছে না, যে এনে দেবে সে পাবে এক উট-বোঝাই মাল, আর এর জামিন আমি নিজে। গোটা কাফেলার সামনে একজন মানুষ একটা প্রতিশ্রুতির পেছনে নিজের নাম দাঁড় করিয়ে দিল। কথাটা লেনদেনের সাধারণ কথা, আর থামার কারণও ঠিক সেখানেই। এমন প্রস্তাব আমিও দিই। ছোট একটা কাজের জন্য পুরস্কারের কথা বলি, কারও দেনার দায় নেব বলে কথা দিই, লিখে দিই যে টাকা শোধ হবে। যা দিচ্ছি, তা কি পরিষ্কার করে বলি? আর দেওয়ার সময় এলে, মানুষকে কি আমার পেছনে ঘুরতে হয়?",
+    "reflectionBn": "ভাইয়েরা জানতে চায়, কী হারিয়েছে। উত্তর আসে তিন টুকরো কথায়: রাজার মাপার পাত্রটি পাওয়া যাচ্ছে না, যে এনে দেবে সে পাবে এক উট-বোঝাই মাল, আর এর জামিন আমি নিজে। গোটা কাফেলার সামনে একজন মানুষ একটা প্রতিশ্রুতির পেছনে নিজের নাম দাঁড় করিয়ে দিল। কথাটা লেনদেনের সাধারণ কথা, আর একটু থেমে ভাবার কারণও ঠিক সেটাই। এমন প্রস্তাব আমিও দিই। ছোট একটা কাজের জন্য পুরস্কারের কথা বলি, কারও দেনার দায় নেব বলে কথা দিই, লিখে দিই যে টাকা শোধ হবে। যা দিচ্ছি, তা কি পরিষ্কার করে বলি? আর দেওয়ার সময় এলে, মানুষকে কি আমার পেছনে ঘুরতে হয়?",
     "pointsEn": [
       "Which promise have I guaranteed for someone else that is still waiting to be kept?",
       "When I last offered a reward or a payment, did I name it clearly enough that no one could argue about it later?",
@@ -7986,7 +7986,7 @@ const TADABBUR_NOTES = {
   },
   "12:76": {
     "reflectionEn": "One bag after another is opened and found clean, until only the youngest brother's is left. The cup comes out of it, and the Qur'an names whose planning this was: thus did We plan for Yusuf. The brothers had set the penalty themselves, never guessing where it would fall. Then the verse turns to knowledge. Allah raises in degrees whom He wills, and above everyone who knows is one who knows more, until knowledge reaches Him. So I am asked two things. When I know something, do I carry it as if I were the last word? And when events close in on me in ways I cannot explain, can I trust the One above all knowledge to see what I do not?",
-    "reflectionBn": "একটার পর একটা বস্তা খোলা হয়, কোনোটাতে কিছু মেলে না। শেষে বাকি থাকে শুধু সবচেয়ে ছোট ভাইয়ের বস্তা। পেয়ালাটা বের হয় সেখান থেকেই। আর কুরআন জানিয়ে দেয় পরিকল্পনাটা কার: এভাবেই আমি ইউসুফের জন্য ব্যবস্থা করেছিলাম। শাস্তির বিধান ভাইয়েরা নিজেরাই ঠিক করেছিল, কিন্তু সেটা কার ঘাড়ে গিয়ে পড়বে, তারা আন্দাজও করেনি। এরপর আয়াত ফেরে জ্ঞানের দিকে। আল্লাহ যাকে চান মর্যাদায় উঁচু করেন। প্রত্যেক জ্ঞানীর উপরে আছেন আরও বেশি জ্ঞানী, শেষে জ্ঞান গিয়ে পৌঁছায় তাঁর কাছে। তাই আমার সামনে দুটো প্রশ্ন। কিছু জানলে আমি কি এমনভাবে চলি, যেন আমার কথাই শেষ কথা? আর যখন চারপাশের ঘটনা এমনভাবে ঘিরে ধরে যার ব্যাখ্যা আমি পাই না, তখন কি ভরসা রাখতে পারি যে সব জ্ঞানের ঊর্ধ্বে যিনি, তিনি দেখছেন যা আমি দেখছি না?",
+    "reflectionBn": "একটার পর একটা বস্তা খোলা হয়, কোনোটাতে কিছু মেলে না। শেষে বাকি থাকে শুধু সবচেয়ে ছোট ভাইয়ের বস্তা। পেয়ালাটা বের হয় সেখান থেকেই। আর কুরআন জানিয়ে দেয় পরিকল্পনাটা কার: এভাবেই আমি ইউসুফ (আঃ)-এর জন্য ব্যবস্থা করেছিলাম। শাস্তির বিধান ভাইয়েরা নিজেরাই ঠিক করেছিল, কিন্তু সেটা কার ঘাড়ে গিয়ে পড়বে, তারা আন্দাজও করেনি। এরপর আয়াত ফেরে জ্ঞানের দিকে। আল্লাহ যাকে চান মর্যাদায় উঁচু করেন। প্রত্যেক জ্ঞানীর উপরে আছেন আরও বেশি জ্ঞানী, শেষে জ্ঞান গিয়ে পৌঁছায় তাঁর কাছে। তাই আমার সামনে দুটো প্রশ্ন। কিছু জানলে আমি কি এমনভাবে চলি, যেন আমার কথাই শেষ কথা? আর যখন চারপাশের ঘটনা এমনভাবে ঘিরে ধরে যার ব্যাখ্যা আমি পাই না, তখন কি ভরসা রাখতে পারি যে সব জ্ঞানের ঊর্ধ্বে যিনি, তিনি দেখছেন যা আমি দেখছি না?",
     "pointsEn": [
       "When did I last speak as though no one could know more than me on a subject, and who in fact did?",
       "Can I say I was mistaken and you were right as easily as I say I am right?",
@@ -8026,7 +8026,7 @@ const TADABBUR_NOTES = {
   },
   "12:109": {
     "reflectionEn": "Those who rejected the Prophet asked why no angel had been sent. The answer is that every messenger before him was a man, a human being to whom revelation came. That answer cuts both ways. It closes the objection, and it also closes my excuse. If the ones who carried the message ate, walked the markets and lived among people, then the path they walked was made for feet like mine. The verse then sends me out to look at what became of those who turned away, and asks me to weigh this life against the home that lasts. It ends with a question I cannot hand to anyone else: will you not use your reason?",
-    "reflectionBn": "যারা নবী ﷺ-কে মানেনি, তাদের প্রশ্ন ছিল: ফেরেশতা পাঠানো হলো না কেন? জবাব এল, তাঁর আগে যত রাসূল এসেছেন, সবাই ছিলেন মানুষ, পুরুষ, যাঁদের কাছে ওহী আসত। এ জবাব দুই দিকে কাটে। আপত্তিটা বন্ধ হয়, আবার আমার অজুহাতও বন্ধ হয়। বাণী যাঁরা বয়ে এনেছেন, তাঁরা খেতেন, বাজারে হাঁটতেন, মানুষের মাঝে থাকতেন। তাহলে তাঁদের পথ আমার মতো মানুষের পায়ের জন্যই বানানো। তারপর আয়াত আমাকে বের হয়ে দেখতে বলে, যারা মুখ ফিরিয়েছিল তাদের শেষটা কেমন হয়েছিল। বলে, এই জীবনকে চিরস্থায়ী ঘরের পাশে রেখে ওজন করে দেখুন। শেষে এমন এক প্রশ্ন রাখে যা আর কারও হাতে তুলে দেওয়া যায় না: তবুও কি বুঝবে না?",
+    "reflectionBn": "যারা নবী ﷺ-কে মানেনি, তাদের প্রশ্ন ছিল: ফেরেশতা পাঠানো হলো না কেন? জবাব এল, তাঁর আগে যত রাসূল এসেছেন, সবাই ছিলেন মানুষ, পুরুষ, যাঁদের কাছে ওহী আসত। এ জবাব দুটো কাজ করে: আপত্তিটা বন্ধ করে, আবার আমার অজুহাতও বন্ধ করে। বাণী যাঁরা বয়ে এনেছেন, তাঁরা খেতেন, বাজারে হাঁটতেন, মানুষের মাঝে থাকতেন। তাহলে তাঁদের পথ আমার মতো মানুষের পায়ের জন্যই বানানো। তারপর আয়াত আমাকে বের হয়ে দেখতে বলে, যারা মুখ ফিরিয়েছিল তাদের শেষটা কেমন হয়েছিল। বলে, এই জীবনকে চিরস্থায়ী ঘরের পাশে রেখে ওজন করে দেখুন। শেষে এমন এক প্রশ্ন রাখে যা আর কারও হাতে তুলে দেওয়া যায় না: তবুও কি বুঝবে না?",
     "pointsEn": [
       "Have I ever treated the prophets as so far above ordinary life that their example no longer seemed to ask anything of me?",
       "When I pass the remains of something that once seemed permanent, do I stop long enough to ask what it teaches?",
@@ -8086,7 +8086,7 @@ const TADABBUR_NOTES = {
   },
   "13:31": {
     "reflectionEn": "They asked for mountains to be moved, and the reply did not argue over whether it could be done. To Allah belongs the whole affair. The recitation they were already hearing was worth more than a moving mountain, and a spectacle would not have opened a closed heart. It is easy to hear this as a story about other people. Yet how often do I wait for a sign before acting on what I already know: a dream, a coincidence, a feeling that will finally settle it? Guidance was never short of evidence. It waits on a heart that turns. And when I long to see someone I love guided, the verse asks me to do my part and leave the whole affair with Him.",
-    "reflectionBn": "তারা দাবি করেছিল, পাহাড় সরিয়ে দেখাও। জবাবে এ তর্ক আসেনি যে কাজটা করা যায় কি না। জবাব এল: সব বিষয়ের মালিকানা আল্লাহর। যে তিলাওয়াত তারা রোজ শুনছিল, তার মূল্য সরে যাওয়া পাহাড়ের চেয়েও বেশি। আর বন্ধ দিল কোনো তামাশা দেখে খোলে না। কথাটা অন্যদের কাহিনি ভেবে শুনে ফেলা সহজ। কিন্তু যা ঠিক বলে আমি জানি, তা করার আগে আমিও কতবার একটা ইশারার অপেক্ষায় বসে থাকি? কোনো স্বপ্ন, কোনো কাকতালীয় ঘটনা, কিংবা এমন কোনো অনুভূতি, যা শেষমেশ সিদ্ধান্তটা করিয়ে দেবে। হিদায়াতের পক্ষে প্রমাণের কমতি কখনো ছিল না। হিদায়াত অপেক্ষা করে এমন দিলের জন্য, যে তাঁর দিকে ফেরে। আর প্রিয় কারও হিদায়াত দেখার জন্য মন যখন ছটফট করে, আয়াতটি বলে: নিজের কাজটুকু করুন, বাকি সবটা তাঁর হাতে ছেড়ে দিন।",
+    "reflectionBn": "তারা দাবি করেছিল, পাহাড় সরিয়ে দেখাও। জবাবে এ তর্ক আসেনি যে কাজটা করা যায় কি না। জবাব এল: সব বিষয়ের মালিকানা আল্লাহর। যে তিলাওয়াত তারা রোজ শুনছিল, তার মূল্য সরে যাওয়া পাহাড়ের চেয়েও বেশি। আর বন্ধ দিল কোনো চোখধাঁধানো দৃশ্য দেখে খোলে না। কথাটা অন্যদের কাহিনি ভেবে শুনে ফেলা সহজ। কিন্তু যা ঠিক বলে আমি জানি, তা করার আগে আমিও কতবার একটা ইশারার অপেক্ষায় বসে থাকি? কোনো স্বপ্ন, কোনো কাকতালীয় ঘটনা, কিংবা এমন কোনো অনুভূতি, যা শেষমেশ সিদ্ধান্তটা করিয়ে দেবে। হিদায়াতের পক্ষে প্রমাণের কমতি কখনো ছিল না। হিদায়াত অপেক্ষা করে এমন দিলের জন্য, যে তাঁর দিকে ফেরে। আর প্রিয় কারও হিদায়াত দেখার জন্য মন যখন ছটফট করে, আয়াতটি বলে: নিজের কাজটুকু করুন, বাকি সবটা তাঁর হাতে ছেড়ে দিন।",
     "pointsEn": [
       "What am I waiting to see before I act on something I already know is right?",
       "When I recite the Qur'an, do I expect it to move something in me, or do I read past it looking for something more striking?",
@@ -8099,10 +8099,10 @@ const TADABBUR_NOTES = {
       "কুরআন তিলাওয়াতের সময় আমি কি আশা করি যে তা আমার ভেতরে কিছু নাড়া দেবে? নাকি আরও চমকপ্রদ কিছুর খোঁজে পড়ে পার হয়ে যাই?",
       "কার হিদায়াতের ভার আমি এমনভাবে বয়ে বেড়াচ্ছি, যেন ফলাফল এনে দেওয়াটা আমার দায়িত্ব? আজ কি সেই ফলাফল আল্লাহর হাতে ছেড়ে দিতে পারি?",
       "কাছাকাছি কোথাও বিপদের খবর শুনলে আমি কি নিজের তওবার দিকে ফিরি, নাকি যাদের উপর বিপদ এল তাদের বিচার করতে বসি?",
-      "আমার কোনো দোয়া কি হিদায়াত চাওয়ার বদলে তামাশা দেখানোর দাবিতে পরিণত হয়েছে?"
+      "আমার কোনো দোয়া কি হিদায়াত চাওয়ার বদলে চোখধাঁধানো কোনো অলৌকিক দৃশ্যের দাবিতে পরিণত হয়েছে?"
     ],
     "lessonEn": "Stop waiting for a spectacle before acting on the guidance already in your hands, and leave the outcome of every heart, yours and others', with Allah.",
-    "lessonBn": "হাতের কাছে যে হিদায়াত আছে, তার উপর আমল করতে কোনো তামাশার অপেক্ষা করবেন না। আর নিজের ও অন্যের দিলের পরিণতি আল্লাহর হাতে ছেড়ে দিন।"
+    "lessonBn": "হাতের কাছে যে হিদায়াত আছে, তার উপর আমল করতে কোনো চোখধাঁধানো নিদর্শনের অপেক্ষা করবেন না। আর নিজের ও অন্যের দিলের পরিণতি আল্লাহর হাতে ছেড়ে দিন।"
   },
   "13:38": {
     "reflectionEn": "Some people had a picture of what a messenger ought to be: someone set apart, above appetite, too taken up with heaven to marry. The verse answers without apology. The messengers before him had wives and children too. Guidance reached humanity through men who ate, slept, married and raised families, so the life I lead at home is not the obstacle to nearness to Allah that I sometimes make it. Then the verse turns to my impatience. No messenger could bring a sign on demand, and every term has its writing. When I give Allah a deadline for an answer, a cure or a way out, am I asking for a sign on my schedule rather than His?",
@@ -8237,7 +8237,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "শেষবার যখন পানি পান করেছি, এক মুহূর্তের জন্যও কি মনে পড়েছে কে তা নামিয়েছেন, নাকি শুধু তৃষ্ণার কথাই মনে ছিল?",
       "আমার ঘরে, কাজে বা অজুতে কোথায় পানি দরকারের চেয়ে বেশি সময় ধরে পড়তে থাকে? কলটা বন্ধ করতে আসলে কী লাগবে?",
-      "যে কূপ বা ঝরনার উপর আমি নির্ভর করি, কাল তা শুকিয়ে গেলে ফিরিয়ে আনার কোনো ক্ষমতা কি আমার আছে?",
+      "যে কূপ বা ঝরনার উপর আমি নির্ভর করি, কাল তা শুকিয়ে গেলে ফিরিয়ে আনতে আমি কী করতে পারতাম?",
       "যা আমি শুধু হাতে পেয়েছি, পানি, সম্পদ বা সময়, সেগুলোকে কি এমনভাবে ব্যবহার করি যেন নিজেই জমিয়ে রেখেছি?",
       "আমার আশপাশে কার কাছে পরিষ্কার পানি আমার চেয়ে কম? এই দানের কতটুকু হক তার প্রাপ্য?"
     ],
@@ -8295,7 +8295,7 @@ const TADABBUR_NOTES = {
       "What is one thing I can set right this week, while the chance to repent is still open to me?"
     ],
     "pointsBn": [
-      "আজই যদি আমার সময় ফুরিয়ে যায়, কোন জিনিস থেকে আগেই ফিরে আসতে পারলে সবচেয়ে ভালো লাগত?",
+      "আজই যদি আমার সময় ফুরিয়ে যায়, কোন জিনিস থেকে আগেই ফিরে না আসার আফসোস সবচেয়ে বেশি হবে?",
       "এমন কোনো দোষ কি আছে, যা আমি কেবলই পিছিয়ে দিচ্ছি আর ভাবছি, আগে অন্য কাজটা মিটুক, তারপর তওবা করব?",
       "অন্যায় করেও যখন আমার দিন ভালো যায়, আমি কি সেটাকে আল্লাহর সন্তুষ্টি ধরে নিই, নাকি বুঝি যে আমাকে সময় দেওয়া হচ্ছে?",
       "ইবলীস ক্ষমা চায়নি, চেয়েছে আরও সময়। আমি যখন দু‘আ করি, এ দুটোর কোনটা বেশি চাই?",
@@ -8358,7 +8358,7 @@ const TADABBUR_NOTES = {
       "কুরআনের কোন অংশ আমি তাড়াতাড়ি পার হয়ে যাই, কারণ ধরে নিই ওখানে কী আছে তা আমার জানা?",
       "কোনো কাহিনি অন্য সূরায় ফিরে এলে আমি কি খুঁজি কী বদলেছে, নাকি শুধু মিলগুলোই চোখে পড়ে?",
       "সূরাটি ধ্বংসাবশেষকে বলছে চিহ্ন-পড়া মানুষের জন্য নিদর্শন। আমার নিজের জীবনের কোন চিহ্নগুলোর পাশ দিয়ে আমি না পড়েই হেঁটে গেছি?",
-      "ধ্বংসাবশেষের পাশের পথটা তখনো মানুষ চলাচল করত। কোন সতর্কবাণীর পাশ দিয়ে আমি রোজ যাই, অথচ একটুও গতি কমাই না?",
+      "ধ্বংসাবশেষের পাশের পথ দিয়ে তখনো মানুষ চলাচল করত। কোন সতর্কবাণীর পাশ দিয়ে আমি রোজ যাই, অথচ একটুও গতি কমাই না?",
       "কোনো ধ্বংস হওয়া জাতির কথা পড়লে আমি কি অন্য কারও দোষ খোঁজার আগে কাহিনিতে নিজের অভ্যাসগুলো খুঁজি?"
     ],
     "lessonEn": "Read a retold story as if for the first time. Repetition in the Qur'an is not filler but a second chance to notice what you missed.",
@@ -8426,7 +8426,7 @@ const TADABBUR_NOTES = {
   },
   "16:4": {
     "reflectionEn": "Eight Arabic words hold a whole life. He created man from a drop, and then, there he is, an open disputer. The verse skips everything in between: the months of being carried, the years of being fed, the slow gift of words. It shows only the two ends and lets me feel the distance. The tongue I argue with was not something I made. Every reason I can put into a sentence was put into me. So when I find myself building a case against what my Lord has asked of me, whose voice am I using? And what would that same voice sound like if it spent a day thanking the One who gave it?",
-    "reflectionBn": "আটটি আরবি শব্দে গোটা একটা জীবন। তিনি মানুষকে এক ফোঁটা থেকে সৃষ্টি করেছেন, তারপর দেখো, সে প্রকাশ্য ঝগড়াটে। মাঝখানের সবকিছু আয়াতটি বাদ দিয়ে যায়: গর্ভে বয়ে বেড়ানোর মাসগুলো, মুখে খাবার তুলে দেওয়ার বছরগুলো, ধীরে ধীরে কথা ফোটার নিয়ামত। শুধু দুই প্রান্ত দেখিয়ে দূরত্বটা পাঠকের হাতে ছেড়ে দেয়। যে জিভ দিয়ে আমি তর্ক করি, তা আমার বানানো নয়। যত যুক্তি আমি বাক্যে সাজাতে পারি, সবই আমার ভেতরে কেউ রেখে দিয়েছেন। তাহলে রব আমার কাছে যা চেয়েছেন, তার বিরুদ্ধে যখন মামলা সাজাই, তখন আমি কার দেওয়া কণ্ঠ ব্যবহার করছি? আর সেই কণ্ঠ যদি একটা দিন দাতার শুকরিয়ায় কাটায়, কেমন শোনাবে?",
+    "reflectionBn": "আটটি আরবি শব্দে গোটা একটা জীবন। তিনি মানুষকে এক ফোঁটা থেকে সৃষ্টি করেছেন, তারপর দেখো, সে প্রকাশ্য ঝগড়াটে। মাঝখানের সবকিছু আয়াতটি বাদ দিয়ে যায়: গর্ভে বয়ে বেড়ানোর মাসগুলো, মুখে খাবার তুলে দেওয়ার বছরগুলো, ধীরে ধীরে কথা ফোটার নিয়ামত। শুধু দুই প্রান্ত দেখায়, আর মাঝের দূরত্বটা আমাকে অনুভব করতে দেয়। যে জিভ দিয়ে আমি তর্ক করি, তা আমার বানানো নয়। যত যুক্তি আমি বাক্যে সাজাতে পারি, সবই আমার ভেতরে কেউ রেখে দিয়েছেন। তাহলে রব আমার কাছে যা চেয়েছেন, তার বিরুদ্ধে যখন মামলা সাজাই, তখন আমি কার দেওয়া কণ্ঠ ব্যবহার করছি? আর সেই কণ্ঠ যদি একটা দিন দাতার শুকরিয়ায় কাটায়, কেমন শোনাবে?",
     "pointsEn": [
       "Which command of Allah do I most often argue with inside my own head, and what does my case against it usually sound like?",
       "When did I last use my ability to explain and persuade to defend something I knew was wrong?",
@@ -8446,7 +8446,7 @@ const TADABBUR_NOTES = {
   },
   "16:8": {
     "reflectionEn": "The verse names three animals and gives them two purposes: to be ridden, and to be a pleasure to look at. For its first listeners these were simply how a person got anywhere. Then comes a line that looks past them: and He creates what you do not know. Whatever carried me today, my own feet included, came into my life without my ever asking where it came from. I used it the way people once used a mule, without a second thought. The verse asks for that second thought. What did I lean on today without noticing it? And how much of His creation is still out there that I have not even begun to know?",
-    "reflectionBn": "আয়াতটি তিনটি প্রাণীর নাম নেয়, আর তাদের দুটি কাজ বলে দেয়: পিঠে চড়া, আর চোখের শোভা। প্রথম শ্রোতাদের কাছে এরাই ছিল কোথাও যাওয়ার সাধারণ উপায়। তারপর আসে এমন এক বাক্য, যা এদের ছাড়িয়ে আরও দূরে তাকায়: আর তিনি সৃষ্টি করেন এমন কিছু, যা তোমরা জানো না। আজ আমাকে যা-ই বয়ে নিয়ে গেছে, আমার নিজের পা দুটোও, সবই আমার জীবনে এসেছে আমি কখনো জিজ্ঞেস না করতেই যে এল কোথা থেকে। মানুষ একসময় খচ্চর যেভাবে ব্যবহার করত, আমিও সেভাবেই ব্যবহার করেছি, দ্বিতীয়বার না ভেবে। আয়াতটি ঠিক সেই দ্বিতীয় ভাবনাটাই চায়। আজ কোন জিনিসের উপর ভর দিয়েছি, অথচ খেয়ালই করিনি? আর তাঁর সৃষ্টির কতটা এখনো রয়ে গেছে, যা জানা তো দূরের কথা, জানার শুরুও করিনি?",
+    "reflectionBn": "আয়াতটি তিনটি প্রাণীর নাম নেয়, আর তাদের দুটি কাজ বলে দেয়: পিঠে চড়া, আর চোখের শোভা। প্রথম শ্রোতাদের কাছে এরাই ছিল কোথাও যাওয়ার সাধারণ উপায়। তারপর আসে এমন এক বাক্য, যা এদের ছাড়িয়ে আরও দূরে তাকায়: আর তিনি সৃষ্টি করেন এমন কিছু, যা তোমরা জানো না। আজ আমাকে যা-ই বয়ে নিয়ে গেছে, আমার নিজের পা দুটোও, সবই আমার জীবনে এসেছে, অথচ কোথা থেকে এল, তা কখনো জিজ্ঞেস করিনি। মানুষ একসময় খচ্চর যেভাবে ব্যবহার করত, আমিও সেভাবেই ব্যবহার করেছি, দ্বিতীয়বার না ভেবে। আয়াতটি ঠিক সেই দ্বিতীয় ভাবনাটাই চায়। আজ কোন জিনিসের উপর ভর দিয়েছি, অথচ খেয়ালই করিনি? আর তাঁর সৃষ্টির কতটা এখনো রয়ে গেছে, যা জানা তো দূরের কথা, জানার শুরুও করিনি?",
     "pointsEn": [
       "What carried me or my loads today, and did I think of it even once as something given to me?",
       "Which thing I own that pleases my eye could I enjoy with thanks instead of with pride?",
@@ -10746,7 +10746,7 @@ const TADABBUR_NOTES = {
   },
   "24:50": {
     "reflectionEn": "A man says he believes and obeys, then is called to have his dispute settled by God's Messenger — and he turns aside. Yet let the ruling fall his way and he comes running. This verse holds up his refusal and asks three questions of it. Is there a sickness in the heart? Has doubt crept in? Or is he afraid the verdict will be unfair to him? Then it answers past all three: no, the fault is not in the ruling, it is in them. God's judgment is never unjust; the fear of it only exposes the heart. The mirror turns on me. When a clear ruling crosses what I want, do I submit, or look for another door?",
-    "reflectionBn": "একজন বলে সে ইমান এনেছে, মেনেও নিয়েছে। অথচ নিজের বিবাদ আল্লাহর রসূল ﷺ-এর কাছে ফয়সালার জন্য ডাকা হলে সে মুখ ফিরিয়ে নেয়। আবার রায় নিজের পক্ষে গেলে ছুটে আসে। আয়াতটি তার এই মুখ ফেরানোকে সামনে ধরে তিনটি প্রশ্ন করে। অন্তরে কি রোগ? নাকি সন্দেহ ঢুকে গেছে? নাকি ভয়, রায় তার প্রতি অন্যায় হয়ে যাবে? তারপর তিনটিকেই পেরিয়ে জবাব দেয়: না, দোষ রায়ের নয়, দোষ তাদের নিজেদের। আল্লাহর ফয়সালা কখনো অন্যায় হয় না, বরং সেই ভয়টাই অন্তরের রোগ ফাঁস করে দেয়। আয়নাটা এবার আমার দিকে। স্পষ্ট রায় যখন আমার চাওয়ার উল্টো যায়, আমি কি মেনে নিই, নাকি আরেকটা দরজা খুঁজি?",
+    "reflectionBn": "একজন বলে সে ইমান এনেছে, মেনেও নিয়েছে। অথচ বিবাদের ফয়সালার জন্য তাকে আল্লাহর রসূল ﷺ-এর কাছে ডাকা হলে সে মুখ ফিরিয়ে নেয়। আবার রায় নিজের পক্ষে যাবে জানলে ছুটে আসে। আয়াতটি তার এই মুখ ফেরানোকে সামনে ধরে তিনটি প্রশ্ন করে। অন্তরে কি রোগ? নাকি সন্দেহ ঢুকে গেছে? নাকি ভয়, রায় তার প্রতি অন্যায় হয়ে যাবে? তারপর তিনটিকেই পেরিয়ে জবাব দেয়: না, দোষ রায়ের নয়, দোষ তাদের নিজেদের। আল্লাহর ফয়সালা কখনো অন্যায় হয় না, সেই ভয়টাই বরং অন্তরের আসল চেহারা ফাঁস করে দেয়। আয়নাটা এবার আমার দিকে। স্পষ্ট রায় যখন আমার চাওয়ার উল্টো যায়, আমি কি মেনে নিই, নাকি আরেকটা দরজা খুঁজি?",
     "pointsEn": [
       "When a clear ruling crosses what I want, do I submit at once, or go looking for a judgment that suits me better?",
       "Is my \"I hear and obey\" only for the times the verdict happens to fall my way?",
@@ -10778,7 +10778,7 @@ const TADABBUR_NOTES = {
       "আমার আশপাশে কে দস্তরখান থেকে, আসর থেকে, সাধা সাহায্য থেকে পিছিয়ে থাকে বোঝা হয়ে যাওয়ার ভয়ে, আর আমি কীভাবে তাকে সহজ করে দিতে পারি?",
       "সাবধানতার নামে নিজের জন্য বানানো কোন নিয়ম আসলে আমাকে এমন কিছু থেকে বঞ্চিত করেছে, যা আল্লাহ সহজ করে দিয়েছিলেন?",
       "কার চাবি, কার আস্থা, কার খোলা দরজা আমি সংকোচে ব্যবহার করিনি? সেই সংকোচ কি সত্যিই ভদ্রতা ছিল, নাকি দূরত্ব?",
-      "আমি কি একা থাকার চেয়ে অন্যদের সঙ্গে বেশি খাই, বেশি বাঁচি, নাকি চুপচাপ সব একা করার দিকে সরে গেছি?",
+      "আমি কি একার চেয়ে অন্যদের সঙ্গেই বেশি খাই, বেশি জীবন কাটাই, নাকি নিজের অজান্তে সবকিছু আলাদা করে করার দিকে সরে গেছি?",
       "কোনো ঘরে ঢুকে সালামটাই কি আমার মুখের প্রথম কথা, নাকি পরে মনে পড়া একটা কথা?"
     ],
     "lessonEn": "God clears away the shame the blind, the lame and the ill felt at the table, opens the homes of kin and friends, and asks only that you enter with peace.",
@@ -10786,7 +10786,7 @@ const TADABBUR_NOTES = {
   },
   "25:25": {
     "reflectionEn": "Picture the sky you look up at every day, and then picture it tearing open. A white cloud breaks through, and out of every layer of heaven the angels come down, rank behind rank, until they ring the whole of creation. No one is missing from that gathering, and no one speaks without leave. This is the Day the Qur'an keeps setting before us, not a distant tale but the appointment none of us will miss. The scene is meant to reach the heart before the argument does. If that sky opened today, would it find me among the heedless, still putting off what I know, or among those who had been getting ready? The answer is being decided now, inside ordinary days.",
-    "reflectionBn": "প্রতিদিন যে আকাশের দিকে তাকান, একবার ভাবুন সেটাই ফেটে চৌচির হয়ে যাচ্ছে। সাদা মেঘ ভেদ করে বেরিয়ে আসছে, আর আসমানের প্রতিটি স্তর থেকে সারি সারি ফেরেশতা নেমে আসছে, শেষে গোটা সৃষ্টিকে ঘিরে ফেলছে। সেই সমাবেশে কেউ বাদ থাকবে না, অনুমতি ছাড়া কেউ মুখ খুলবে না। এই দিনটাই কুরআন বারবার আমাদের সামনে তুলে ধরে। এ দূরের কোনো গল্প নয়, এ এমন এক নির্ধারিত সময় যা কারও এড়ানোর উপায় নেই। দৃশ্যটা সাজানো হয়েছে যুক্তির আগেই হৃদয়ে গিয়ে বাজার জন্য। আজ যদি সেই আকাশ খুলে যেত, আমাকে কি পেত গাফেল অবস্থায়, জানা কাজ ফেলে রাখা লোক হিসেবে, নাকি প্রস্তুত হয়ে থাকা কারও কাতারে? জবাবটা তো এখনই ঠিক হচ্ছে, সাধারণ দিনগুলোর ভেতরেই।",
+    "reflectionBn": "প্রতিদিন যে আকাশের দিকে তাকান, ভাবুন সেটাই ফেটে চৌচির হয়ে যাচ্ছে। ফাটল দিয়ে বেরিয়ে আসছে সাদা মেঘ, আর আসমানের প্রতিটি স্তর থেকে সারির পর সারি ফেরেশতা নেমে এসে গোটা সৃষ্টিকে ঘিরে ফেলছে। সেই সমাবেশে কেউ বাদ থাকবে না, অনুমতি ছাড়া কেউ মুখ খুলবে না। কুরআন বারবার এই দিনটাই আমাদের সামনে তুলে ধরে। এ দূরের কোনো গল্প নয়, এমন এক নির্ধারিত সাক্ষাৎ, যা আমাদের কেউই এড়াতে পারবে না। যুক্তি বোঝার আগেই দৃশ্যটা যেন হৃদয়ে গিয়ে পৌঁছায়, সে জন্যই এভাবে বলা। আজ যদি সেই আকাশ খুলে যেত, আমাকে কোথায় পাওয়া যেত? গাফেলদের দলে, যারা জানা কাজটাও এখনো ফেলে রেখেছে, নাকি যারা প্রস্তুতি নিচ্ছিল তাদের কাতারে? এর জবাব এখনই ঠিক হচ্ছে, সাধারণ দিনগুলোর ভেতরেই।",
     "pointsEn": [
       "If the sky split open before me today, would it find me ready, or still meaning to begin?",
       "What have I kept putting off that I would give anything to have already done, once the angels are ranged around me?",
@@ -10796,7 +10796,7 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "আজ যদি আকাশ আমার সামনে ফেটে যেত, আমাকে কি পাওয়া যেত প্রস্তুত অবস্থায়, নাকি এখনো শুরু করব করব ভাবছি এমন অবস্থায়?",
-      "কোন কাজ ফেলে রেখেছি, যা সেরে ফেলার জন্য ফেরেশতারা ঘিরে ধরার দিন সবকিছু বিলিয়ে দিতে রাজি হব?",
+      "কোন কাজ আমি বারবার ফেলে রাখছি, যা আগেই সেরে রাখার জন্য সেদিন সবকিছু দিয়ে দিতে রাজি হব, যেদিন ফেরেশতারা আমার চারপাশে সারি বেঁধে দাঁড়াবে?",
       "আমি কি সত্যিই এই দিনটাকে বাস্তব ধরে জীবন কাটাই, নাকি শুধু মুখে বলি যে বিশ্বাস করি?",
       "এ সপ্তাহের সাধারণ দিনগুলোর কোনটা চুপচাপ আমাকে সেই দিনের জন্য তৈরি করছে?",
       "সেই দিনের ভার যখন মনে পড়ে, তা কি আমার কিছু বদলে দেয়, নাকি আর দশটা ভাবনার মতো মিলিয়ে যায়?"
@@ -10806,7 +10806,7 @@ const TADABBUR_NOTES = {
   },
   "25:15": {
     "reflectionEn": "The verse before this leaves the deniers of the Hour thrown into a narrow place in the Fire, bound in chains, crying out for a death that will not come. Then, without warning, a question: is that better, or the Garden that never ends, promised to those who kept their duty to God? It is not really asking which we prefer, for no one prefers the Fire. It names the two ends a life can arrive at and lets the naming do its work. Every day, in small things, I am choosing which way I face. And the Garden is not held over me as a threat; it is a promise already made, a homecoming left waiting. The only question is whether I am living toward it.",
-    "reflectionBn": "আগের আয়াত কিয়ামাত অস্বীকারকারীদের রেখে আসে জাহান্নামের সংকীর্ণ কোণে, শিকলে বাঁধা, এমন মৃত্যুকে ডাকতে ডাকতে যা আর আসবে না। তারপর হঠাৎ এক প্রশ্ন: এটা ভালো, না সেই জান্নাত যার শেষ নেই, মুত্তাকীদের যার ওয়াদা দেওয়া হয়েছে? প্রশ্নটা আসলে জানতে চায় না আমরা কোনটা পছন্দ করি, আগুন তো কেউ চায় না। এ জীবনের দুই পরিণতিকে নাম ধরে সামনে আনে, আর নামটাই কাজ করে। প্রতিদিন ছোট ছোট কাজে আমি ঠিক করছি কোন দিকে মুখ করে আছি। জান্নাত এখানে মাথার উপর ঝোলানো হুমকি নয়, আগেই দেওয়া এক ওয়াদা, ফেরার অপেক্ষায় থাকা এক ঠিকানা। প্রশ্ন কেবল একটাই, আমি কি সেদিকে মুখ করে বাঁচছি?",
+    "reflectionBn": "আগের আয়াতে কিয়ামত অস্বীকারকারীদের দেখা যায় জাহান্নামের এক সংকীর্ণ জায়গায় ছুড়ে ফেলা অবস্থায়, শিকলে বাঁধা, এমন মৃত্যুকে ডাকছে যা আর আসবে না। তারপর হঠাৎ এক প্রশ্ন: এটা ভালো, নাকি সেই চিরস্থায়ী জান্নাত, যার ওয়াদা মুত্তাকীদের দেওয়া হয়েছে? আমরা কোনটা পছন্দ করি, প্রশ্নটা আসলে তা জানতে চায় না, আগুন তো কেউ পছন্দ করে না। জীবন যে দুই পরিণতিতে গিয়ে ঠেকতে পারে, আয়াত শুধু সে দুটোর নাম বলে দেয়, বাকি কাজ ওই নামই করে। প্রতিদিন ছোট ছোট কাজে আমি বেছে নিচ্ছি কোন দিকে মুখ করে থাকব। আর জান্নাতকে আমার মাথার উপর হুমকির মতো ঝুলিয়ে রাখা হয়নি। এ আগেই দেওয়া এক ওয়াদা, ঘরে ফেরার মতো এক ঠিকানা, যা অপেক্ষা করে আছে। প্রশ্ন একটাই, আমি কি সেদিকে মুখ করে বাঁচছি?",
     "pointsEn": [
       "If my life kept walking in exactly the direction it is walking today, which of the two ends would it be moving toward?",
       "When I picture the reward promised to the God-conscious, does it feel like a real destination, or only a phrase I repeat?",
@@ -10818,7 +10818,7 @@ const TADABBUR_NOTES = {
       "আজ জীবন যেদিকে হাঁটছে, ঠিক সেভাবেই হাঁটতে থাকলে দুই পরিণতির কোনটার দিকে তা এগোচ্ছে?",
       "মুত্তাকীদের যে প্রতিদানের ওয়াদা, তা কি আমার কাছে সত্যিকারের এক ঠিকানা মনে হয়, নাকি শুধু মুখে বলা একটা কথা?",
       "আগুন তো আমি কখনোই ইচ্ছে করে চাইব না, তবু এ সপ্তাহে কোন ছোট সিদ্ধান্ত চুপচাপ আমাকে ভুল দিকে টানছে?",
-      "জান্নাতকে আমি কি মাথার উপর ঝুলে থাকা হুমকি ভাবি, নাকি আগেই দেওয়া ওয়াদা, যেদিকে আমি বাঁচতে পারি?",
+      "জান্নাতকে আমি কি মাথার উপর ঝুলে থাকা হুমকি ভাবি, নাকি আগেই দেওয়া এক ওয়াদা, যার দিকে চোখ রেখে আমি জীবন সাজাতে পারি?",
       "আমার চারপাশে কার জীবন স্পষ্টভাবে সেই ঠিকানার দিকে মুখ করা, আর তাকে দেখে আমি কী শিখলাম?"
     ],
     "lessonEn": "God does not only warn of the Fire; He holds out the eternal Garden as a promise already made. Live toward the homecoming you say you want.",
@@ -10826,7 +10826,7 @@ const TADABBUR_NOTES = {
   },
   "25:35": {
     "reflectionEn": "Read the verse slowly and count what God hands Musa. First a Book, the truth to carry and recite; then, beside him, his own brother Harun, placed there to share the weight of the work. Revelation and a companion, named in a single breath. It says something about how God sends people to hard tasks. He does not give a man a heavy calling and leave him to shoulder it alone; He gives him guidance to hold and a shoulder to lean on. So when you are handed something good and hard, do not only ask whether the truth is on your side. Ask who God has placed beside you, and whether you ever thought to ask Him for them.",
-    "reflectionBn": "আয়াতটি ধীরে ধীরে পড়ুন আর দেখুন আল্লাহ মূসাকে কী কী দিলেন। প্রথমে একটি কিতাব, বহন করার আর তিলাওয়াত করার মতো সত্য। তারপর তাঁর পাশে দিলেন তাঁরই ভাই হারূনকে, কাজের ভার ভাগ করে নেওয়ার জন্য। এক নিঃশ্বাসে বলা হলো দুটি দান: ওহি আর এক সঙ্গী। কঠিন কাজে আল্লাহ কীভাবে মানুষ পাঠান, এ যেন তারই ইঙ্গিত। ভারী দায়িত্ব হাতে ধরিয়ে দিয়ে তিনি একা কাউকে তা কাঁধে বইতে ছেড়ে দেন না। ধরে রাখার মতো হেদায়েত দেন, আর ভর দেওয়ার মতো একটা কাঁধও দেন। তাই ভালো অথচ কঠিন কিছুর ভার আপনার উপর এলে শুধু এটুকু জিজ্ঞেস করবেন না যে সত্য আপনার পক্ষে আছে কিনা। জিজ্ঞেস করুন, আল্লাহ কাকে আপনার পাশে রেখেছেন, আর তাঁদের জন্য আপনি কি কখনো তাঁর কাছে চেয়েছেন।",
+    "reflectionBn": "আয়াতটি ধীরে ধীরে পড়ুন আর গুনে দেখুন আল্লাহ মূসা (আঃ)-কে কী কী দিলেন। প্রথমে একটি কিতাব, বহন করার আর তিলাওয়াত করার মতো সত্য। তারপর তাঁর পাশে দিলেন তাঁরই ভাই হারূন (আঃ)-কে, কাজের ভার ভাগ করে নেওয়ার জন্য। এক নিঃশ্বাসে দুটি দানের কথা: ওহি আর এক সঙ্গী। কঠিন কাজে আল্লাহ কীভাবে মানুষ পাঠান, এ যেন তারই ইঙ্গিত। ভারী দায়িত্ব হাতে তুলে দিয়ে তিনি কাউকে একা তা কাঁধে বইতে ছেড়ে দেন না। ধরে রাখার মতো হেদায়েত দেন, আর ভর দেওয়ার মতো একটা কাঁধও দেন। তাই ভালো অথচ কঠিন কোনো দায়িত্ব আপনার উপর এলে শুধু এটুকু জিজ্ঞেস করবেন না যে সত্য আপনার পক্ষে আছে কিনা। জিজ্ঞেস করুন, আল্লাহ কাকে আপনার পাশে রেখেছেন, আর তাদের জন্য আপনি কখনো তাঁর কাছে চেয়েছেন কি না।",
     "pointsEn": [
       "What good and heavy task am I trying to carry entirely on my own right now?",
       "Who has God already placed beside me as a helper, and have I ever thanked Him for them?",
@@ -10836,7 +10836,7 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "ভালো অথচ ভারী কোন কাজটি আমি এ মুহূর্তে একেবারে একা কাঁধে বইছি?",
-      "সাহায্যকারী হিসেবে আল্লাহ কাকে আগেই আমার পাশে রেখেছেন, আর তাঁদের জন্য আমি কি কখনো তাঁর শুকরিয়া করেছি?",
+      "সাহায্যকারী হিসেবে আল্লাহ কাকে আগেই আমার পাশে রেখেছেন, আর তাদের জন্য আমি কি কখনো তাঁর শুকরিয়া আদায় করেছি?",
       "শেষবার কবে আমি আল্লাহর কাছে শুধু হেদায়েত নয়, কাজ ভাগ করে নেওয়ার মতো ঠিক মানুষগুলোও চেয়েছি?",
       "এমন কোনো ভালো কাজ কি আছে যেখানে আমার ভূমিকা অন্যকে শক্তি জোগানো, আর আমি কি তাতে পুরো ভর দিচ্ছি?",
       "সাহায্যকারী হওয়াকে আমি কি ছোট কিছু মনে করি, নাকি এ আয়াত যে মর্যাদা তাকে দেয় সেভাবেই দেখি?"
@@ -10846,7 +10846,7 @@ const TADABBUR_NOTES = {
   },
   "25:38": {
     "reflectionEn": "After Nuh's people were drowned and made a sign, the verse keeps counting: Ad, Thamud, the people of the well, and many generations in between whom only God can number. Some of these ruins the deniers of Makka could see with their own eyes on their travels. The point is not the names but the pattern. Nation after nation heard a messenger, weighed the warning, and chose to reject it, and each was undone. Their punishment was God's alone; it hands no living person a warrant against anyone. The question this roll-call presses on me is simple. When I pass the wreckage of those who refused to listen, do I read it as a warning meant for me?",
-    "reflectionBn": "নূহের জাতিকে ডুবিয়ে নিদর্শন বানানোর পর আয়াত গোনা থামায় না। ‘আদ, সামূদ, কূপবাসী, আর এদের মাঝখানের অসংখ্য প্রজন্ম, যাদের সংখ্যা কেবল আল্লাহই জানেন। এদের কিছু ধ্বংসস্তূপ মক্কার অস্বীকারকারীরা নিজেদের সফরে চোখেই দেখতে পেত। আসল কথা নামগুলো নয়, নকশাটা। জাতির পর জাতি রসূলের ডাক শুনেছে, সতর্কবাণী মেপে দেখেছে, তারপর তা প্রত্যাখ্যান করেছে, আর প্রত্যেকেই নিশ্চিহ্ন হয়েছে। তাদের শাস্তি ছিল একমাত্র আল্লাহর, তা কোনো জীবিত মানুষের হাতে কারও বিরুদ্ধে কোনো সনদ তুলে দেয় না। এই তালিকা আমার সামনে সোজা এক প্রশ্ন রাখে। যারা শুনতে অস্বীকার করেছিল তাদের ধ্বংসাবশেষের পাশ দিয়ে যাওয়ার সময় আমি কি একে আমার জন্য পাঠানো সতর্কবার্তা বলে পড়ি?",
+    "reflectionBn": "নূহ (আঃ)-এর জাতিকে ডুবিয়ে নিদর্শন বানানোর পরও আয়াত গোনা থামায় না। ‘আদ, সামূদ, কূপবাসী, আর এদের মাঝখানের অসংখ্য প্রজন্ম, যাদের সংখ্যা কেবল আল্লাহই জানেন। এদের কিছু ধ্বংসস্তূপ মক্কার অস্বীকারকারীরা সফরের পথে নিজের চোখেই দেখত। আসল কথা নামগুলো নয়, ধারাটা। জাতির পর জাতি রসূলের ডাক শুনেছে, সতর্কবাণী মেপে দেখেছে, তারপর তা প্রত্যাখ্যান করেছে, আর প্রত্যেকেই নিশ্চিহ্ন হয়েছে। সেই শাস্তি দেওয়ার মালিক কেবল আল্লাহ। এ থেকে কোনো জীবিত মানুষ কারও বিরুদ্ধে হাত তোলার ছাড়পত্র পায় না। এই তালিকা আমার সামনে সোজা একটা প্রশ্ন রাখে। যারা শুনতে চায়নি তাদের ধ্বংসাবশেষের পাশ দিয়ে যাওয়ার সময় আমি কি একে আমার জন্য পাঠানো সতর্কবার্তা বলে পড়ি?",
     "pointsEn": [
       "When I pass a life or a habit that was clearly ruined by the same choice made again and again, do I slow down and take the lesson, or drive past?",
       "What warning have I heard clearly and kept choosing to weigh and set aside for another day?",
@@ -10859,14 +10859,14 @@ const TADABBUR_NOTES = {
       "কোন সতর্কবাণী আমি স্পষ্ট শুনেছি অথচ বারবার মেপে দেখে আরেক দিনের জন্য সরিয়ে রেখেছি?",
       "অন্যের পতনকে আমি কি নিজের দিকে তাক করা সতর্কবার্তা ধরি, নাকি শুধু তাদের নিয়ে একটা গল্প বলে ভাবি?",
       "অন্য কারও ধ্বংসকে নিজের নিরাপত্তার প্রমাণ ভেবে নিতে আমি কোথায় প্রলুব্ধ হই?",
-      "এমন এক তালিকায় যদি আমার নিজের বছরগুলোর নাম আসত, সেগুলো কী নকশা দেখাত?"
+      "এমন এক তালিকায় যদি আমার নিজের বছরগুলোর নাম উঠত, তাতে কোন ধারা চোখে পড়ত?"
     ],
     "lessonEn": "The ruins of nations who rejected their messengers are a warning, not a warrant; read them as a lesson meant for you, and do not turn away.",
-    "lessonBn": "যেসব জাতি রসূলদের প্রত্যাখ্যান করেছিল তাদের ধ্বংসস্তূপ সতর্কবার্তা, কারও বিরুদ্ধে সনদ নয়। একে নিজের জন্য পাঠানো শিক্ষা বলে পড়ুন, মুখ ফিরিয়ে নেবেন না।"
+    "lessonBn": "যেসব জাতি রসূলদের প্রত্যাখ্যান করেছিল, তাদের ধ্বংসস্তূপ সতর্কবার্তা, কারও বিরুদ্ধে ছাড়পত্র নয়। একে নিজের জন্য পাঠানো শিক্ষা বলে পড়ুন, মুখ ফিরিয়ে নেবেন না।"
   },
   "25:20": {
     "reflectionEn": "They complained that this messenger ate food and walked the markets, as if a man who had to earn his bread could not carry a message from God. The verse answers by pointing back: every messenger before him did the same. Then it turns the objection into a test. Some are made rich and some poor, some strong and some ill, some a prophet and some a follower, and each is a trial for the other. Will you be patient? The plain man standing in the market is himself part of the test: will I follow truth without a spectacle to dazzle me? And will I hold the station I was given without envy or scorn, knowing my Lord sees which of the two I choose?",
-    "reflectionBn": "তারা দোষ ধরল, এই রসূল তো খাবার খায়, হাটবাজারে ঘোরে, যেন যাকে নিজের রুটির জোগাড় করতে হয় সে আবার আল্লাহর বাণী বইতে পারে না। আয়াত জবাব দেয় পেছনে তাকিয়ে: তোমার আগের প্রত্যেক রসূলও তা-ই করতেন। এরপর সেই আপত্তিকেই বানিয়ে দেয় পরীক্ষা। কাউকে করা হয়েছে ধনী, কাউকে গরিব, কাউকে সবল, কাউকে রুগ্ণ, কাউকে নবী, কাউকে অনুসারী, আর একজন আরেকজনের জন্য পরীক্ষা। তোমরা কি ধৈর্য ধরবে? বাজারে দাঁড়ানো সাধারণ মানুষটাই পরীক্ষার অংশ। চোখধাঁধানো কিছু ছাড়াই কি আমি সত্য মানব? হিংসা বা তাচ্ছিল্য ছাড়া নিজের পাওয়া জায়গায় কি থাকব, জেনে যে আমার রব দেখছেন আমি দুটোর কোনটা বেছে নিই?",
+    "reflectionBn": "তারা দোষ ধরল, এই রসূল তো খাবার খায়, হাটবাজারে ঘোরে, যেন যাকে নিজের রুটি রোজগার করতে হয় সে আল্লাহর বাণী বইতে পারে না। আয়াত জবাব দেয় পেছনে তাকিয়ে: তোমার আগের প্রত্যেক রসূলও তা-ই করতেন। এরপর সেই আপত্তিকেই বানিয়ে দেয় পরীক্ষা। কাউকে করা হয়েছে ধনী, কাউকে গরিব, কাউকে সবল, কাউকে রুগ্ণ, কাউকে নবী, কাউকে অনুসারী, আর একজন আরেকজনের জন্য পরীক্ষা। তোমরা কি ধৈর্য ধরবে? বাজারে দাঁড়ানো সাদামাটা মানুষটাই পরীক্ষার অংশ। চোখধাঁধানো কিছু না দেখেও কি আমি সত্য মানব? আর আমাকে যে অবস্থানে রাখা হয়েছে, সেখানে কি হিংসা বা তাচ্ছিল্য ছাড়া থাকতে পারব? আমার রব তো দেখছেন, দুটোর কোনটা আমি বেছে নিই।",
     "pointsEn": [
       "What am I waiting for before I take a truth seriously — a sign, a status, a spectacle — that God never promised to send with it?",
       "Whom am I quietly measuring myself against, and would looking instead at those who have less turn my envy into thanks?",
@@ -10879,7 +10879,7 @@ const TADABBUR_NOTES = {
       "মনে মনে আমি কার সঙ্গে নিজেকে মাপি? যাদের কম আছে তাদের দিকে তাকালে কি সেই হিংসা কৃতজ্ঞতায় বদলে যেত?",
       "আল্লাহ আমাকে সত্যিকারভাবে যে জায়গায় রেখেছেন, আমার আয়, স্বাস্থ্য, সম্মান, তাতে আমি কি ধৈর্য ধরছি, নাকি অন্যেরটা পাইনি বলে নালিশ করছি?",
       "পাশের মানুষটার চেয়ে বেশি থাকলে আমি কি তাকে সান্ত্বনা দিই ও ভাগ করি, নাকি সেই বেশিটা দিয়ে তাকে ছোট করে দেখি?",
-      "যে ধৈর্য কেউ খেয়াল করে না তা আমার রব আগেই দেখছেন, এমনভাবে চললে এ সপ্তাহে কী বদলে যেত?"
+      "যে ধৈর্য কেউ খেয়াল করে না, আমার রব তা আগেই দেখছেন। এ কথা মনে রেখে চললে এ সপ্তাহে কী বদলে যেত?"
     ],
     "lessonEn": "Every prophet was an ordinary man who ate and worked; God tests us through one another's wealth, health and station, so hold your place with patience, not envy or scorn.",
     "lessonBn": "প্রত্যেক নবী ছিলেন সাধারণ মানুষ, খেতেন ও কাজ করতেন। আল্লাহ আমাদের একজনকে অন্যজনের ধন, স্বাস্থ্য ও মর্যাদা দিয়ে পরীক্ষা করেন। তাই হিংসা বা তাচ্ছিল্য নয়, নিজের জায়গা ধরে রাখুন ধৈর্যে।"
@@ -10899,14 +10899,14 @@ const TADABBUR_NOTES = {
       "ভয় জাগলে আমার প্রথম কাজ কী হয়, লুকানো, অজুহাত বানানো, নাকি মূসা (আঃ)-এর মতো তা আল্লাহর কাছে তুলে ধরা?",
       "মূসা (আঃ) নাম ধরে সাহায্য চেয়েছিলেন: সহজ জিহ্বা, পাশে ভাই। যে কাজটা আমি এড়িয়ে চলছি, তা করতে ঠিক কোন সাহায্যটা আমার দরকার?",
       "আমার সৎ ভয়ের জবাবে আমি কি আল্লাহর কাছ থেকে ধমক আশা করি, নাকি তাঁর সঙ্গ?",
-      "যে কাজটা আমি একা ভেবে ভয় পাই, তার জন্য আল্লাহ কার সঙ্গ ইতিমধ্যে আমার পাশে রেখে দিয়েছেন?"
+      "যে কাজের মুখোমুখি আমি বারবার একাই হচ্ছি, তার জন্য আল্লাহ কাকে আগে থেকেই আমার পাশে সঙ্গী করে রেখেছেন?"
     ],
     "lessonEn": "Bring your fear about doing what is right straight to God and ask for the help you need; His answer is His presence, not blame.",
     "lessonBn": "সঠিক কাজ করতে গিয়ে ভয় হলে তা সোজা আল্লাহর কাছে নিয়ে যান, আর যে সাহায্য দরকার চেয়ে নিন; তাঁর জবাব ধমক নয়, তাঁর সঙ্গ।"
   },
   "25:48": {
     "reflectionEn": "Before the rain, the wind. You feel it on your face and smell it in the air, and something in you knows water is coming. The Qur'an reads that ordinary sequence as a kindness with a design in it: the wind is sent as glad tidings, a herald walking ahead of God's mercy, so no one is caught unready when the rain falls. And the water itself is called pure, clean in itself and cleaning what it touches. So the weather is not only weather. It is an announcement made in advance, by One who wants His servants to see the gift coming and be glad of it before a single drop has landed.",
-    "reflectionBn": "বৃষ্টির আগে আসে বাতাস। মুখে তার ছোঁয়া লাগে, বাতাসে ভেসে আসে পানির গন্ধ, আর মন টের পায় বৃষ্টি আসছে। এই সাধারণ ঘটনাটাকেই কুরআন পড়ে এক পরিকল্পিত অনুগ্রহ হিসেবে। বাতাসকে পাঠানো হয় সুসংবাদ হয়ে, আল্লাহর রহমতের আগে আগে হেঁটে আসা অগ্রদূত হয়ে, যাতে বৃষ্টি নামলে কেউ অপ্রস্তুত না থাকে। কুরআন পানিকেও বলে বিশুদ্ধ, নিজে পরিষ্কার আর যা ছোঁয় তাকেও পরিষ্কার করে। তাই আবহাওয়া নিছক আবহাওয়া নয়, এ এক আগাম ঘোষণা। যিনি এই ঘোষণা পাঠান, তিনি চান তাঁর বান্দারা এক ফোঁটা পড়ার আগেই অনুগ্রহটা আসতে দেখুক, আর তাতে খুশি হোক।",
+    "reflectionBn": "বৃষ্টির আগে আসে বাতাস। মুখে তার ছোঁয়া লাগে, নাকে তার গন্ধ আসে, আর মন টের পায় পানি আসছে। চেনা এই ধারাটাকেই কুরআন দেখায় এক সাজানো দয়া হিসেবে। আল্লাহ বাতাস পাঠান সুসংবাদ করে, তাঁর রহমতের আগে আগে চলা অগ্রদূত করে, যাতে বৃষ্টি নামলে কেউ অপ্রস্তুত না থাকে। আর পানিকে কুরআন বলে পবিত্র, নিজে পরিষ্কার, যা ছোঁয় তাকেও পরিষ্কার করে। তাই আবহাওয়া নিছক আবহাওয়া নয়। এ এক আগাম ঘোষণা, তাঁর কাছ থেকে, যিনি চান তাঁর বান্দারা এক ফোঁটা পড়ার আগেই দানটা আসতে দেখুক আর খুশি হোক।",
     "pointsEn": [
       "When rain comes, do I read it as only weather, or as a kindness announced ahead of time?",
       "What mercy has God sent me a herald for that I failed to notice was on its way?",
@@ -10916,13 +10916,13 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "বৃষ্টি এলে আমি কি সেটাকে নিছক আবহাওয়া ভাবি, নাকি আগেভাগে জানিয়ে দেওয়া এক অনুগ্রহ হিসেবে দেখি?",
-      "রহমত যে আসছে, তার আগাম সংকেত কি আল্লাহ আমাকে দিয়েছিলেন, অথচ আমি খেয়াল করিনি?",
+      "কোন রহমতের আগাম খবর আল্লাহ আমাকে পাঠিয়েছিলেন, অথচ সেটা যে আসছে আমি খেয়ালই করিনি?",
       "শেষ কবে আমি পানির জন্য আল্লাহর শুকরিয়া আদায় করেছি, যে পানি রোজ পান করি আর যা দিয়ে অজু-গোসল করি?",
       "আল্লাহ যখন ভালো কিছুর ইঙ্গিত দেন, আমি কি তার জন্য প্রস্তুত হই, নাকি সেটা আমাকে অপ্রস্তুত অবস্থায় পেয়ে বসে?",
       "পানি শরীর পরিষ্কার রাখে; আমার অন্তরটা কী দিয়ে পরিষ্কার থাকে?"
     ],
     "lessonEn": "Read the ordinary signs of God's kindness, the wind before the rain and the water that cleans you, as mercy announced in advance, and meet it with gratitude.",
-    "lessonBn": "আল্লাহর অনুগ্রহের সাধারণ নিদর্শনগুলো, যেমন বৃষ্টির আগের বাতাস আর যে পানি আপনাকে পরিষ্কার করে, আগাম জানানো রহমত হিসেবে পড়ুন এবং কৃতজ্ঞতার সঙ্গে গ্রহণ করুন।"
+    "lessonBn": "বৃষ্টির আগের বাতাস, যে পানি আপনাকে পরিষ্কার করে, আল্লাহর দয়ার এসব সাধারণ নিদর্শনকে আগেভাগে জানিয়ে দেওয়া রহমত হিসেবে দেখুন, আর শুকরিয়ার সঙ্গে গ্রহণ করুন।"
   },
   "26:10": {
     "reflectionEn": "A voice calls a lone man by name in the desert, and the caller is his Lord. Before any comfort, before any promise, comes the assignment: go to the wrongdoing people. The next line names them, the household of a king who claimed to be a god and ground a nation into slave labour. One shepherd, unarmed, is sent to walk into that court and speak. Notice that the call came from above; he did not appoint himself. Most of us will never face a throne, but each of us is called toward some wrong we would rather not name. When the summons is clear, do I answer it, or find a reason the timing is wrong?",
@@ -10962,11 +10962,11 @@ const TADABBUR_NOTES = {
       "কোথায় এমন কোনো অন্যায় চলছে, যাকে ঢাকতে একটামাত্র দয়ার প্রদর্শনী কাজে লাগানো হচ্ছে?"
     ],
     "lessonEn": "A tyrant's one kindness cannot cancel the wrong he built it on; do not let a favour, real or claimed, buy your silence about injustice.",
-    "lessonBn": "জালিমের একটা দয়া সেই অন্যায়কে মুছে দিতে পারে না যার ওপর সে তা গড়েছে। অন্যায় নিয়ে আপনার মুখ বন্ধ করার দাম কোনো অনুগ্রহকে, তা সত্যি হোক বা কেবল দাবি, হতে দেবেন না।"
+    "lessonBn": "যে অন্যায়ের ওপর জালিম তার দয়া দাঁড় করিয়েছে, একটা দয়া দিয়ে সেই অন্যায় মুছে যায় না। অনুগ্রহ সত্যি হোক বা শুধু দাবি, তার বিনিময়ে অন্যায়ের ব্যাপারে চুপ থাকবেন না।"
   },
   "26:1": {
     "reflectionEn": "The whole verse is three letters: Ṭā, Sīn, Mīm. Not a sentence, not a command, just three sounds you already know how to say. Some of the earliest and greatest readers of the Book met these letters and stopped, saying their meaning rests with Allah alone. That is not a gap in the Book; it is a doorway. You are shown at the very opening of a sūrah that not everything here is a lock waiting for your key. Some of it is a place to bow. The letters are the same alphabet the Arabs spoke every day, yet no one has ever matched the Book built from them. What God knows and you do not is still a mercy to you.",
-    "reflectionBn": "গোটা আয়াতটা মাত্র তিনটি হরফ: ত্ব, সীন, মীম। কোনো বাক্য নয়, কোনো আদেশ নয়, শুধু তিনটি শব্দ যা আপনি বলতে জানেন। কুরআনের সবচেয়ে বড় পাঠকদের অনেকে এই হরফগুলোর সামনে এসে থেমে গেছেন, বলেছেন এর অর্থ কেবল আল্লাহই জানেন। এটা কিতাবের কোনো ফাঁক নয়, বরং একটা দরজা। সূরার একেবারে শুরুতেই আপনাকে দেখিয়ে দেওয়া হচ্ছে, এখানকার সবকিছু আপনার চাবির অপেক্ষায় থাকা তালা নয়। কিছু জায়গা মাথা নত করার জন্য। এই হরফগুলো সেই বর্ণমালারই অংশ, আরবরা যা রোজ বলত, তবু এ থেকে গড়া কিতাবের সমকক্ষ কেউ কোনোদিন আনতে পারেনি। আল্লাহ যা জানেন আর আপনি জানেন না, সেটাও আপনার জন্য এক রহমত।",
+    "reflectionBn": "গোটা আয়াতটা মাত্র তিনটি হরফ: ত্ব, সীন, মীম। কোনো বাক্য নয়, কোনো আদেশ নয়, শুধু তিনটি ধ্বনি, যা আপনি আগে থেকেই উচ্চারণ করতে জানেন। কুরআনের প্রথম যুগের শ্রেষ্ঠ পাঠকদের কেউ কেউ এই হরফগুলোর সামনে এসে থেমে গেছেন, বলেছেন এর অর্থ কেবল আল্লাহই জানেন। এটা কিতাবের কোনো ফাঁক নয়, বরং একটা দরজা। সূরার একেবারে শুরুতেই আপনাকে দেখিয়ে দেওয়া হচ্ছে, এখানকার সবকিছু আপনার চাবির অপেক্ষায় থাকা তালা নয়। কিছু জায়গা মাথা নত করার জন্য। আরবরা রোজ যে বর্ণমালায় কথা বলত, এই হরফগুলো তারই অংশ, তবু এ দিয়ে গড়া কিতাবের সমকক্ষ কিছু কেউ কোনোদিন আনতে পারেনি। আল্লাহ যা জানেন আর আপনি জানেন না, সেটাও আপনার জন্য রহমত।",
     "pointsEn": [
       "When I meet something in the Qur'an I cannot fully explain, is my first move to submit, or to force a meaning onto it?",
       "What have I decided God owes me an answer for, when He may simply be keeping that knowledge with Himself?",
@@ -10975,18 +10975,18 @@ const TADABBUR_NOTES = {
       "If these small letters were sent for a wisdom I cannot see, what small thing today am I dismissing as meaningless too soon?"
     ],
     "pointsBn": [
-      "কুরআনে এমন কিছু পেলে যা আমি পুরোপুরি বোঝাতে পারি না, আমার প্রথম কাজটা কি মাথা নত করা, নাকি জোর করে একটা অর্থ চাপিয়ে দেওয়া?",
+      "কুরআনে এমন কিছু পেলে যা আমি পুরোপুরি ব্যাখ্যা করতে পারি না, আমার প্রথম কাজটা কি মাথা নত করা, নাকি জোর করে একটা অর্থ চাপিয়ে দেওয়া?",
       "আল্লাহ আমাকে কোন কোন জিনিসের জবাব দিতে বাধ্য বলে আমি ধরে বসে আছি, অথচ সে জ্ঞান তিনি হয়তো নিজের কাছেই রেখেছেন?",
       "দ্বীনের যে অংশটুকু আমি বুঝি, তাকে কি আমি মানার ডাক হিসেবে নিই, নাকি শুধু জমা করা তথ্য হিসেবে?",
       "জীবনের কোথায় আমি এখনো হিসাব কষে সেই নিশ্চয়তা খুঁজছি, যা কেবল ভরসাই দিতে পারত?",
       "এই ছোট্ট হরফগুলো যদি এমন এক হিকমতের জন্য নাজিল হয় যা আমি দেখি না, তবে আজ কোন ছোট জিনিসকে আমি বড় তাড়াতাড়ি অর্থহীন বলে উড়িয়ে দিচ্ছি?"
     ],
     "lessonEn": "Some of what God reveals is meant to be trusted, not decoded. Meet it by bowing rather than forcing an answer, and let what you cannot explain teach you humility before the Book.",
-    "lessonBn": "আল্লাহ যা নাজিল করেন তার কিছু বোঝার জন্য নয়, ভরসা করার জন্য। জোর করে অর্থ বের করার বদলে মাথা নত করে তা মেনে নিন, আর যা বোঝাতে পারেন না তা আপনাকে কিতাবের সামনে বিনয় শেখাক।"
+    "lessonBn": "আল্লাহ যা নাজিল করেন, তার কিছু অংশ ভেঙে অর্থ বের করার জন্য নয়, আস্থা রেখে মেনে নেওয়ার জন্য। জোর করে অর্থ বের করার বদলে মাথা নত করুন, আর যা ব্যাখ্যা করতে পারেন না তা আপনাকে কিতাবের সামনে বিনয় শেখাক।"
   },
   "26:34": {
     "reflectionEn": "Pharaoh has just watched a staff become a serpent and a hand turn white — signs he cannot explain. So he does not argue with what he saw. He turns to the chiefs seated around him and hands them a word: a learned magician. Call it magic, call the man a skilled trickster, and the court is spared having to follow him. He even warns them the sign is a scheme to seize their land. The move is old and still in use: when the message cannot be answered, discredit the messenger. So the mirror turns to me. When truth reaches me and answering it would cost something, do I weigh it honestly, or reach for a label that lets me keep what I hold?",
-    "reflectionBn": "ফেরাউন এইমাত্র দেখল লাঠি অজগর হয়ে গেল, আর হাত বেরিয়ে এল ঝকঝকে সাদা হয়ে। যা সে দেখল, তা নিয়ে সে তর্ক করল না। বরং চারপাশে বসা প্রধানদের দিকে ফিরে একটা শব্দ ধরিয়ে দিল: এক দক্ষ যাদুকর। একে যাদু বলে দাও, লোকটিকে বলে দাও চতুর ভেলকিবাজ, তাহলে গোটা দরবারকে আর তার পেছনে যেতে হয় না। সে এমনকি ভয় দেখাল, এ নিদর্শন আসলে তাদের দেশ কেড়ে নেওয়ার ফন্দি। চালটা পুরনো, আজও চালু আছে। কথার জবাব দেওয়া না গেলে যে কথা আনল তাকে খাটো করে দাও। তাই আয়নাটা আমার দিকে ঘোরে। সত্য যখন আমার কাছে আসে আর তা মানতে গেলে কিছু হারাতে হয়, আমি কি সৎভাবে যাচাই করি, নাকি এমন এক তকমা খুঁজি যা আমাকে আমার হাতেরটা ধরে রাখতে দেয়?",
+    "reflectionBn": "ফেরাউন এইমাত্র দেখল লাঠি অজগর হয়ে গেল, আর হাত বেরিয়ে এল ঝকঝকে সাদা হয়ে। এমন নিদর্শন, যার কোনো ব্যাখ্যা তার কাছে নেই। তাই যা দেখল তা নিয়ে সে তর্কে গেল না। বরং চারপাশে বসা সভাসদদের দিকে ফিরে তাদের হাতে একটা শব্দ ধরিয়ে দিল: দক্ষ যাদুকর। একে যাদু বলে দাও, লোকটাকে চতুর ভেলকিবাজ বলে দাও, তাহলে দরবারকে আর তার পেছনে যেতে হয় না। সে এমনকি ভয়ও দেখাল, এই নিদর্শন আসলে তাদের দেশ কেড়ে নেওয়ার ফন্দি। চালটা পুরনো, আজও চালু। কথার জবাব দেওয়া না গেলে, যে কথা এনেছে তাকেই খাটো করো। এবার আয়নাটা আমার দিকে। সত্য যখন আমার কাছে আসে আর তা মানতে গেলে কিছু হারাতে হয়, আমি কি সৎভাবে যাচাই করি, নাকি এমন একটা তকমা খুঁজি, যা লাগিয়ে দিলে হাতের জিনিস ছাড়তে হয় না?",
     "pointsEn": [
       "When someone brings me a truth I would rather not act on, do I answer it, or look for a way to discredit the one who brought it?",
       "What label have I used to wave away something true, only because facing it would cost me?",
@@ -10999,14 +10999,14 @@ const TADABBUR_NOTES = {
       "কোন তকমা লাগিয়ে আমি কোনো সত্যকে উড়িয়ে দিয়েছি, শুধু কারণ তা মানতে গেলে আমার লোকসান হতো?",
       "ফেরাউন চারপাশের প্রধানদের সামলে কথা বলছিল। যা প্রায় ঠিক জানি তার বিরুদ্ধে তর্ক করার সময় আমি আসলে কার সায় ধরে রাখতে চাই?",
       "ন্যায্য কোনো প্রশ্নকে আমি কি কখনো নিছক রাজনীতি বা নিছক আক্রমণ বলে সরিয়ে দিয়েছি, যাতে তার জবাব দিতে না হয়?",
-      "যাকে বিরোধিতা করব বলে আগেই ঠিক করে রেখেছি, তাকে তুমি ঠিক বলেছ বলতে আমার কী লাগবে?"
+      "যার বিরোধিতা করব বলে আগেই ঠিক করে রেখেছি, তাকে ‘আপনি ঠিক বলেছেন’ বলতে আমার কী লাগবে?"
     ],
     "lessonEn": "When a truth would cost you something, it is easy to attack the one who brings it instead of facing the message; weigh what is true before you protect what you hold.",
     "lessonBn": "যে সত্য মানতে গেলে কিছু হারাতে হয়, সেই সত্যের জবাব না দিয়ে যে আনল তাকে আক্রমণ করা সহজ; নিজের হাতেরটা আঁকড়ে ধরার আগে সত্যটা যাচাই করুন।"
   },
   "26:51": {
     "reflectionEn": "By that morning they were Pharaoh's hired champions, brought to out-magic Moses in front of a watching nation. By midday they are face down in the dust, believers. Pharaoh answers their faith with a threat: hands and feet cut on opposite sides, then crucifixion for them all. They do not flinch. No harm, they say; to our Lord we return. And then this: we hope our Lord will forgive us our sins, because we are the first of the believers. Faith minutes old already outweighs the fear of death, and its first instinct is not defiance but hope in God's mercy for a life of magic and disbelief now behind them. What would my new resolve survive?",
-    "reflectionBn": "সেই সকালে তারা ছিল ফেরাউনের ভাড়া করা যাদুকর, গোটা জাতির সামনে মূসাকে হারানোর জন্য আনা। দুপুর গড়াতেই তারা মাটিতে লুটিয়ে পড়া ঈমানদার, মুখ ধুলোয়। তাদের ঈমানের জবাবে ফেরাউন দেয় হুমকি, বিপরীত দিক থেকে হাত-পা কেটে ফেলা, তারপর সবাইকে শূলে চড়ানো। তারা টলে না। তারা বলে, কোনো ক্ষতি নেই, আমরা তো আমাদের রবের কাছেই ফিরে যাচ্ছি। এরপর এই কথা, আমরা আশা রাখি আমাদের রব আমাদের গুনাহ মাফ করবেন, কারণ আমরাই প্রথম ঈমান আনলাম। মিনিট কয়েকের নতুন ঈমান মৃত্যুর ভয়কেও ছাড়িয়ে যায়। আর তার প্রথম টান প্রতিরোধ নয়, পেছনে ফেলে আসা যাদু আর কুফরের জীবনের জন্য আল্লাহর রহমতের আশা। আমার নতুন সিদ্ধান্ত কতটা টিকবে?",
+    "reflectionBn": "সেই সকালে তারা ছিল ফেরাউনের ভাড়া করা যাদুকর, গোটা জাতির সামনে মূসা (আঃ)-কে হারানোর জন্য আনা। দুপুর গড়াতেই তারা মাটিতে লুটিয়ে পড়া ঈমানদার, মুখ ধুলোয়। তাদের ঈমানের জবাবে ফেরাউন দেয় হুমকি, বিপরীত দিক থেকে হাত-পা কেটে ফেলা, তারপর সবাইকে শূলে চড়ানো। তারা টলে না। তারা বলে, কোনো ক্ষতি নেই, আমরা তো আমাদের রবের কাছেই ফিরে যাচ্ছি। এরপর এই কথা, আমরা আশা রাখি আমাদের রব আমাদের গুনাহ মাফ করবেন, কারণ আমরাই প্রথম ঈমান আনলাম। মিনিট কয়েকের নতুন ঈমান মৃত্যুর ভয়কেও ছাড়িয়ে যায়। আর তার প্রথম টান প্রতিরোধ নয়, পেছনে ফেলে আসা যাদু আর কুফরের জীবনের জন্য আল্লাহর রহমতের আশা। আমার নতুন সংকল্প কতটা ধাক্কা সইতে পারবে?",
     "pointsEn": [
       "When something true finally reaches me, how long do I let fear talk me out of acting on it?",
       "Is my first instinct after a wrong to defend myself, or to turn to God hoping He forgives?",
@@ -11026,7 +11026,7 @@ const TADABBUR_NOTES = {
   },
   "26:36": {
     "reflectionEn": "The proof has already been shown, the staff and the shining hand, and the court has seen it. Yet the chiefs do not weigh whether it is true; they set about managing it. Hold the man and his brother off, they tell Pharaoh, and send musterers through every city for the best magicians, so the whole land can watch our experts outmatch him. This is how a threatened establishment works: buy time, marshal your specialists, and stage a spectacle to bury an inconvenient truth under a crowd. What they cannot see is that the crowd they summon will become the witness of their own defeat. When something true unsettles what I have built, do I ask whether it is true, or only how to make it lose?",
-    "reflectionBn": "প্রমাণ তো দেখানো হয়ে গেছে। লাঠি সাপ হয়েছে, হাত ঝলমল করেছে, দরবার তা নিজের চোখে দেখেছে। তবু প্রধানেরা যাচাই করছে না কথাটা সত্য কিনা, তারা লেগে গেছে সামলানোর কাজে। ফেরাউনকে তারা বলছে : তাকে আর তার ভাইকে কিছু সময় আটকে রাখুন, আর ঘোষকদের নগরে নগরে পাঠিয়ে সেরা যাদুকরদের জড়ো করুন, যাতে গোটা দেশ দেখতে পায় আমাদের বিশেষজ্ঞরাই তাকে হারিয়ে দিচ্ছে। ভয় পাওয়া কর্তৃত্ব এভাবেই চলে। সময় কেনে, নিজের লোকদের সাজায়, আর ভিড়ের সামনে তামাশা বসিয়ে অসুবিধাজনক সত্যকে চাপা দিতে চায়। যা তারা দেখতে পায় না তা হলো, এই যে ভিড় জড়ো করছে, সেই ভিড়ই একদিন তাদের হারের সাক্ষী হবে। কোনো সত্য যখন আমার গড়া জিনিসকে নাড়িয়ে দেয়, আমি কি জিজ্ঞেস করি কথাটা সত্য কিনা, নাকি শুধু ভাবি কী করে একে হারানো যায়?",
+    "reflectionBn": "প্রমাণ তো দেখানো হয়ে গেছে। লাঠি সাপ হয়েছে, হাত ঝলমল করেছে, দরবার নিজের চোখে দেখেছে। তবু সভাসদেরা যাচাই করছে না কথাটা সত্য কিনা, তারা লেগে গেছে সামাল দেওয়ার কাজে। ফেরাউনকে তারা বলছে: তাকে আর তার ভাইকে কিছুদিন ঠেকিয়ে রাখুন, আর নগরে নগরে লোক পাঠিয়ে সেরা যাদুকরদের জড়ো করুন, যাতে গোটা দেশ দেখে আমাদের ওস্তাদরাই তাকে হারিয়ে দিচ্ছে। ক্ষমতাসীনেরা বিপদ টের পেলে এভাবেই চলে। সময় কেনে, নিজের বিশেষজ্ঞদের মাঠে নামায়, আর ভিড়ের সামনে তামাশা বসিয়ে অস্বস্তিকর সত্যকে চাপা দিতে চায়। তারা টের পায় না, যে ভিড় তারা ডেকে আনছে, সেই ভিড়ই হবে তাদের হারের সাক্ষী। কোনো সত্য যখন আমার গড়া কিছুকে নাড়িয়ে দেয়, আমি কি জিজ্ঞেস করি কথাটা সত্য কিনা, নাকি শুধু ভাবি কী করে একে হারানো যায়?",
     "pointsEn": [
       "When a fact threatens something I have invested in, is my first question whether it is true, or how to discredit it?",
       "Have I ever bought time against a truth I already knew, hoping the moment to face it would quietly pass?",
@@ -11035,18 +11035,18 @@ const TADABBUR_NOTES = {
       "Whose applause am I counting on, and would it survive the truth actually coming out?"
     ],
     "pointsBn": [
-      "কোনো তথ্য যখন আমার বিনিয়োগ করা কিছুকে হুমকিতে ফেলে, আমার প্রথম প্রশ্ন কি হয় কথাটা সত্য কিনা, নাকি একে কীভাবে মিথ্যা প্রমাণ করা যায়?",
+      "কোনো তথ্য যখন এমন কিছুকে হুমকিতে ফেলে, যার পেছনে আমি অনেক কিছু ঢেলেছি, আমার প্রথম প্রশ্ন কি হয় কথাটা সত্য কিনা, নাকি একে কীভাবে খাটো করা যায়?",
       "যে সত্য আমি আগেই জেনে ফেলেছি, তার মুখোমুখি হওয়া এড়াতে আমি কি কখনো সময় কিনেছি, এই আশায় যে মুহূর্তটা চুপচাপ পার হয়ে যাবে?",
       "আমার চারপাশে কোন বিশেষজ্ঞ বা সঙ্গীদের আমি জড়ো করি সঠিকটা খুঁজতে নয়, বরং তর্কে জিততে?",
       "ব্যক্তিগত মতভেদকে আমি কবে জনসমক্ষে এমন এক প্রতিযোগিতায় পরিণত করেছি, যেখানে জেতার ব্যাপারে আমি নিশ্চিত ছিলাম?",
       "আমি কার হাততালির উপর ভরসা করছি, আর সত্যটা সত্যিই বেরিয়ে এলে সেই হাততালি কি টিকবে?"
     ],
     "lessonEn": "Threatened power delays the truth, marshals its experts, and stages a contest to bury it, yet the very crowd it summons becomes the witness of its defeat.",
-    "lessonBn": "ভয় পাওয়া কর্তৃত্ব সত্যকে পিছিয়ে দেয়, নিজের বিশেষজ্ঞদের সাজায়, আর তামাশা বসিয়ে তা চাপা দিতে চায়, অথচ যে ভিড় জড়ো করে সেই ভিড়ই তার হারের সাক্ষী হয়।"
+    "lessonBn": "বিপদ টের পাওয়া ক্ষমতা সত্যকে ঠেকিয়ে রাখে, নিজের বিশেষজ্ঞদের মাঠে নামায়, আর প্রতিযোগিতার আয়োজন করে তা চাপা দিতে চায়। অথচ যে ভিড় সে ডেকে আনে, সেই ভিড়ই হয় তার হারের সাক্ষী।"
   },
   "26:26": {
     "reflectionEn": "Pharaoh had asked, half in scorn, what this Lord of the worlds even is. Mūsā answered with the heavens and the earth, and Pharaoh turned to his court as though the answer were a joke. So Mūsā says it more plainly: your Lord, and the Lord of your first forefathers. The fathers Pharaoh's people honoured are lying in their graves. Someone made them, someone will replace them, and a man with buried ancestors is no god. The argument turns their own pride of lineage back on them. It leaves me a question. What have I placed beyond asking because those before me never asked it? Whose lordship am I really living under?",
-    "reflectionBn": "ফেরাউন টিটকারি দিয়ে জিজ্ঞেস করেছিল, এই বিশ্বজগতের রব আবার কী। মূসা (আঃ) জবাব দিলেন আসমান-জমিনের কথা বলে, আর ফেরাউন তার দরবারের লোকদের দিকে ফিরে ব্যাপারটাকে হাসির খোরাক বানাতে চাইল। তখন মূসা (আঃ) আরও সোজা করে বললেন, তিনি তোমাদের রব, আবার তোমাদের বাপ-দাদারও রব। ফেরাউনের লোকেরা যাদের নিয়ে গর্ব করে, তারা তো কবরে শুয়ে আছে। কেউ তাদের গড়েছে, কেউ তাদের সরিয়ে দেবে। যার বাপ-দাদা কবরে, সে কখনো খোদা হতে পারে না। এ কথা তাদের বংশগর্বকেই তাদের বিরুদ্ধে ঘুরিয়ে দেয়। আমার জন্য থেকে যায় একটা প্রশ্ন। পূর্বপুরুষেরা প্রশ্ন করেননি বলে আমি কোন জিনিসকে প্রশ্নের বাইরে রেখে দিয়েছি? আসলে আমি কার প্রভুত্বের অধীনে বাস করছি?",
+    "reflectionBn": "ফেরাউন টিটকারি দিয়ে জিজ্ঞেস করেছিল, এই বিশ্বজগতের রব আবার কী। মূসা (আঃ) জবাব দিলেন আসমান-জমিনের কথা বলে, আর ফেরাউন তার দরবারের লোকদের দিকে ফিরে ব্যাপারটাকে হাসির খোরাক বানাতে চাইল। তখন মূসা (আঃ) আরও সোজা করে বললেন, তিনি তোমাদের রব, আবার তোমাদের আদি পিতৃপুরুষদেরও রব। ফেরাউনের লোকেরা যাদের নিয়ে গর্ব করে, তারা তো কবরে শুয়ে আছে। কেউ তাদের গড়েছেন, কেউ তাদের জায়গায় অন্যদের আনবেন। যার বাপ-দাদা কবরে, সে কখনো খোদা হতে পারে না। এ কথা তাদের বংশগর্বকেই তাদের বিরুদ্ধে ঘুরিয়ে দেয়। আমার জন্য থেকে যায় একটা প্রশ্ন। পূর্বপুরুষেরা প্রশ্ন করেননি বলে আমি কোন জিনিসকে প্রশ্নের বাইরে রেখে দিয়েছি? আসলে আমি কার প্রভুত্বের অধীনে বাস করছি?",
     "pointsEn": [
       "What do I treat as settled simply because my parents and their parents treated it so?",
       "Where has loyalty to those who came before me quietly taken the place that belongs to God alone?",
@@ -11055,7 +11055,7 @@ const TADABBUR_NOTES = {
       "What am I building my sense of self on that will one day lie in a grave, as Pharaoh's fathers do?"
     ],
     "pointsBn": [
-      "যা আমার বাপ-মা আর তাঁদের বাপ-মা মেনে এসেছেন, শুধু সেই কারণেই কোন জিনিসকে আমি মীমাংসিত ধরে নিই?",
+      "শুধু বাপ-মা আর তাঁদের বাপ-মা মেনে এসেছেন বলে কোন জিনিসকে আমি চূড়ান্ত বলে ধরে নিই?",
       "পূর্বপুরুষদের প্রতি টান কোথায় চুপচাপ সেই জায়গা দখল করেছে, যা কেবল আল্লাহরই প্রাপ্য?",
       "আমি যাকে সম্মান করি সে ভুল প্রমাণিত হলে আমি কি তা বলতে পারি, নাকি তার মর্যাদা প্রশ্নটাই বন্ধ করে দেয়?",
       "আমার সব পূর্বপুরুষ যদি একই রবের অধীনে দাঁড়িয়ে থাকেন, তবে বংশ নিয়ে আমার গর্বকে তা কী বদলে দেয়?",
@@ -11076,7 +11076,7 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "আমি যখন বলি জিতবই, আসলে কার শক্তির উপর ভর দিচ্ছি?",
-      "অভ্যাসে বা কথায় আমি কিসের কসম কাটি, যার উপর রাখা ভরসার ওজন সে নিতে পারে না?",
+      "অভ্যাসের বশে বা কথায় কথায় আমি কিসের কসম খাই, যা আমার চাপানো ভরসার ভার বইতে পারে না?",
       "কোনো পথকে আমি মাপি কিসে, কতটা শক্ত দেখাচ্ছে তা দিয়ে, নাকি তা সত্য কিনা তা দিয়ে?",
       "কার সম্মতি বা আশ্রয়ের উপর আমি ভরসা করছি, যা কাল ফুরিয়ে যেতে পারে?",
       "যে বিষয়ে নিশ্চিত ছিলাম তা ভেঙে পড়লে সেটা কি আমাকে আল্লাহর দিকে ফিরিয়েছিল, নাকি নতুন কোনো মিথ্যা নিশ্চয়তায়?"
@@ -11086,7 +11086,7 @@ const TADABBUR_NOTES = {
   },
   "26:57": {
     "reflectionEn": "Pharaoh's people set out at sunrise, sure of their cavalry and their treasuries, to run down the very people they had enslaved. And in the middle of the chase the verse reads the verdict over them: We drove them out of gardens and springs. Everything they rode out to defend, they had already begun to lose. The gardens of Egypt, its rivers and its wealth, were never theirs to keep. They were held on loan, and the loan was being called in. A power that hoards and oppresses can be stripped in a single night, and what it clutched handed to those it crushed. What am I holding today as if I owned it outright?",
-    "reflectionBn": "ফেরাউনের লোকেরা সূর্যোদয়ের সময় বেরিয়ে পড়ল, নিজেদের অশ্বারোহী আর ধনভান্ডারের উপর ভরসা করে, যাদের তারা দাস বানিয়ে রেখেছিল ঠিক তাদেরই ধরতে। আর তাড়া করার মাঝপথেই আয়াত তাদের উপর রায় পড়ে শোনায়: আমি তাদের উদ্যান আর ঝর্ণা থেকে বের করে দিলাম। যা রক্ষা করতে তারা ছুটে বেরিয়েছিল, তা হারাতে শুরু করেছিল আগেই। মিসরের বাগান, তার নদী আর ধনসম্পদ কোনোদিনই তাদের চিরস্থায়ী সম্পত্তি ছিল না। সবই ছিল ধারে পাওয়া, আর ধারের হিসাব চাওয়া হচ্ছিল তখনই। যে ক্ষমতা জমায় আর জুলুম করে, আল্লাহ তাকে এক রাতেই খালি করে দিতে পারেন, আর তার আঁকড়ে ধরা জিনিস তুলে দিতে পারেন যাদের সে পিষ্ট করেছিল তাদের হাতে। আজ আমি কোন জিনিসকে নিজের সম্পত্তি ভেবে আঁকড়ে আছি?",
+    "reflectionBn": "ফেরাউনের লোকেরা সূর্যোদয়ের সময় বেরিয়ে পড়ল, নিজেদের অশ্বারোহী আর ধনভান্ডারের উপর ভরসা করে, যাদের তারা দাস বানিয়ে রেখেছিল ঠিক তাদেরই ধরতে। আর তাড়া করার মাঝপথেই আয়াত তাদের উপর রায় পড়ে শোনায়: আমি তাদের উদ্যান আর ঝর্ণা থেকে বের করে দিলাম। যা রক্ষা করতে তারা ছুটে বেরিয়েছিল, তা হারাতে শুরু করেছিল আগেই। মিসরের বাগান, তার নদী আর ধনসম্পদ কোনোদিনই তাদের চিরস্থায়ী সম্পত্তি ছিল না। সবই ছিল ধারে পাওয়া, আর সেই ধার এখন ফেরত চাওয়া হচ্ছিল। যে ক্ষমতা জমায় আর জুলুম করে, আল্লাহ তাকে এক রাতেই খালি করে দিতে পারেন, আর সে যা আঁকড়ে ধরে ছিল, তা তুলে দিতে পারেন তারই পিষে রাখা মানুষদের হাতে। আজ আমি কোন জিনিসকে নিজের সম্পত্তি ভেবে আঁকড়ে আছি?",
     "pointsEn": [
       "What am I gripping as though I owned it outright, when it was only ever lent to me?",
       "If everything I have could change hands in a single night, would I hold it more loosely or more tightly?",
@@ -11102,7 +11102,7 @@ const TADABBUR_NOTES = {
       "আমি যে সুখ-স্বাচ্ছন্দ্য ভোগ করি, তা কি কারো কষ্টের উপর দাঁড়িয়ে, যেমন মিসরের বাগান দাঁড়িয়ে ছিল দাসদের উপর?"
     ],
     "lessonEn": "The gardens and wealth you defend are held on loan, never owned; a power that hoards and oppresses can be stripped in a night and handed to those it crushed.",
-    "lessonBn": "যে বাগান আর সম্পদ আপনি আগলে রাখছেন তা ধারে পাওয়া, নিজের নয়; যে ক্ষমতা জমায় আর জুলুম করে, আল্লাহ তাকে এক রাতেই খালি করে নিপীড়িতদের হাতে তুলে দিতে পারেন।"
+    "lessonBn": "যে বাগান আর সম্পদ আপনি আগলে রাখছেন তা ধারে পাওয়া, নিজের নয়। যে ক্ষমতা জমায় আর জুলুম করে, এক রাতেই তার সব কেড়ে নিয়ে তুলে দেওয়া হতে পারে তারই পিষে রাখা মানুষদের হাতে।"
   },
   "26:66": {
     "reflectionEn": "Three words end the chase. The sea that had opened as a dry road for Moses and everyone with him closes again, this time over the army behind them. Not one of the rescued was lost, and not one of the pursuers survived. The same water carried two verdicts, and the only thing that told them apart was which side of the truth a person had chosen to stand on. This is God's judgment on a tyrant who had refused every sign, not a story about the sea being cruel. It asks a quiet question of anyone reading long after Pharaoh: when the end of a matter finally arrives and sorts people out, which side will it find me on?",
@@ -11115,14 +11115,14 @@ const TADABBUR_NOTES = {
       "What small defiance of what I know is right am I still carrying, trusting the sea will stay open?"
     ],
     "pointsBn": [
-      "ফেরাউনের পরিণতির কথা পড়ার সময় আমি কি ভাবি সতর্কতাটা অন্য মানুষের জন্য, নাকি সেটাকে নিজের ভেতরে খুঁজতে দিই?",
+      "ফেরাউনের পরিণতির কথা পড়ার সময় আমি কি ভাবি সতর্কতাটা অন্য মানুষের জন্য, নাকি সেই সতর্কবার্তার আলোয় নিজেকে খুঁটিয়ে দেখি?",
       "যে সত্য আমি আগে থেকেই জানি, আজ আমি আসলে তার কোন পাশে দাঁড়িয়ে আছি?",
       "জীবনের কোথায় আমি শাস্তির দেরিকে শাস্তি থেকে রেহাই বলে ভুল করেছি?",
       "অন্যায়কে রমরমা হতে দেখে আমি কি কখনো চুপচাপ ধরে নিয়েছি যে এর কোনো হিসাব কোনোদিন হবে না?",
       "যা সঠিক জানি তার বিরুদ্ধে ছোট্ট কোন গোঁয়ার্তুমি আমি এখনো বয়ে বেড়াচ্ছি, এই ভরসায় যে সমুদ্র খোলাই থাকবে?"
     ],
     "lessonEn": "The same end that rescues those who stood with the truth undoes those who fought it; make sure the side you are on is the side you would want the end to find.",
-    "lessonBn": "যে পরিণতি সত্যের পাশে দাঁড়ানো লোকদের উদ্ধার করে, সেটাই সত্যের বিরুদ্ধে লড়া লোকদের ধ্বংস করে। খেয়াল রাখুন, আপনি যে পাশে আছেন সেই পাশেই যেন শেষটা আপনাকে খুঁজে পায়।"
+    "lessonBn": "যে পরিণতি সত্যের পাশে দাঁড়ানো লোকদের উদ্ধার করে, সেটাই সত্যের বিরুদ্ধে লড়া লোকদের ধ্বংস করে। শেষ মুহূর্ত আপনাকে যে পাশে দেখুক বলে চান, আজ যেন সেই পাশেই দাঁড়িয়ে থাকেন।"
   },
   "26:75": {
     "reflectionEn": "Ibrahim has been asking questions, not making speeches. What do you worship? Do these idols hear you, help you, or harm you? His people had only one answer: we found our fathers doing this. So he turns the question on the practice itself. Have you actually looked at what you and your oldest forefathers bow down to? Not glanced at it, but looked, the way you would examine anything before trusting your life to it. It is a summons to stop and see. A thing worshipped for generations does not become true by being old, and a habit's long age is no proof of its worth. The real question is never who did this before me, but what, exactly, am I bowing to.",
@@ -11146,7 +11146,7 @@ const TADABBUR_NOTES = {
   },
   "26:63": {
     "reflectionEn": "The people are pinned. The sea is in front, Pharaoh's army is closing from behind, and the cry goes up: we are overtaken. Then comes the answer that changes nothing on the ground and everything in the heart — no; my Lord is with me, He will guide me. And the guidance, when it arrives, is not an escape hatch lowered from the sky. It is a command to act: strike the sea with your staff. Only after the certain word, and after the obedient blow, does the water tear open into standing walls like mountains. The road appears at the dead end, right where there was none. When you are hemmed in, the question is whether you will still take the step you are told to take.",
-    "reflectionBn": "লোকগুলো আটকা পড়েছে। সামনে সমুদ্র, পেছন থেকে ধেয়ে আসছে ফেরাউনের বাহিনী, আর মুখ থেকে বেরিয়ে আসে একটাই কথা, ‘আমরা তো ধরা পড়েই গেলাম।’ তখন আসে সেই জবাব, যা মাটির উপর কিছুই বদলায় না অথচ বুকের ভেতর সব বদলে দেয়। কক্ষনো না, আমার রব আমার সঙ্গে আছেন, তিনি আমাকে পথ দেখাবেন। আর সেই পথনির্দেশ যখন এল, তা আকাশ থেকে নেমে আসা কোনো মই নয়। তা এক আদেশ, হাত নাড়ানোর আদেশ। লাঠি দিয়ে সমুদ্রে আঘাত কর। নিশ্চিত কথাটার পরে, আর মেনে নেওয়া আঘাতটার পরেই কেবল পানি চিরে গিয়ে পাহাড়ের মতো দেয়াল হয়ে দাঁড়াল। ঠিক যেখানে কোনো পথ ছিল না, সেখানেই ফুটে উঠল পথ। চারপাশ যখন বন্ধ, প্রশ্নটা তখন এই, যে পদক্ষেপ নিতে বলা হয়েছে আপনি কি তবুও তা নেবেন?",
+    "reflectionBn": "লোকগুলো আটকা পড়েছে। সামনে সমুদ্র, পেছন থেকে ধেয়ে আসছে ফেরাউনের বাহিনী, আর মুখ থেকে বেরিয়ে আসে একটাই কথা, ‘আমরা তো ধরা পড়েই গেলাম।’ তখন আসে সেই জবাব, যা মাটির উপর কিছুই বদলায় না অথচ বুকের ভেতর সব বদলে দেয়। কক্ষনো না, আমার রব আমার সঙ্গে আছেন, তিনি আমাকে পথ দেখাবেন। আর সেই পথনির্দেশ যখন এল, তা আকাশ থেকে নেমে আসা কোনো মই নয়। তা কাজে নামার আদেশ: লাঠি দিয়ে সমুদ্রে আঘাত কর। দৃঢ় বিশ্বাসের কথাটা বলার পর, আর হুকুম মেনে আঘাতটা করার পরই পানি দুভাগ হয়ে পাহাড়ের মতো দেয়াল হয়ে দাঁড়াল। ঠিক যেখানে কোনো পথ ছিল না, সেখানেই ফুটে উঠল পথ। চারপাশ যখন বন্ধ, প্রশ্নটা তখন এই, যে পদক্ষেপ নিতে বলা হয়েছে আপনি কি তবুও তা নেবেন?",
     "pointsEn": [
       "When I feel hemmed in with no way forward, do I keep waiting for rescue, or do I take the one step I have been told to take?",
       "When the pressure closes in, whose presence do I reach for first — a plan, a person, or my Lord?",
@@ -11162,11 +11162,11 @@ const TADABBUR_NOTES = {
       "আগে যখন উদ্ধার এসেছে, আমি কি তাকে ভাগ্য বলে ধরেছি, নাকি মনে রাখার মতো এক নিদর্শন বলে?"
     ],
     "lessonEn": "Certainty in God and an obedient step belong together; the road opens at the dead end, but only after you strike the water you were told to strike.",
-    "lessonBn": "আল্লাহর উপর নিশ্চিত ভরসা আর মেনে নেওয়া এক পদক্ষেপ একসঙ্গে চলে। যেখানে পথ নেই সেখানেই পথ খোলে, তবে যে পানিতে আঘাত করতে বলা হয়েছে তাতে আঘাত করার পরেই।"
+    "lessonBn": "আল্লাহর উপর দৃঢ় ভরসা আর হুকুম মেনে পা বাড়ানো, দুটো একসঙ্গে চলে। যেখানে পথ নেই সেখানেই পথ খোলে, তবে যে পানিতে আঘাত করতে বলা হয়েছে তাতে আঘাত করার পরেই।"
   },
   "26:95": {
     "reflectionEn": "The Fire is brought into open view, and the deviators are asked where the gods are that they served instead of God. Those gods cannot help them, and cannot even help themselves. Then everything the old allegiance was built on is tipped into one pit together: the false gods, the people who worshipped them, and the whole army of Iblis, not one of them left out. What felt in this life like a powerful partnership turns into a shared disaster, and inside the Fire the partners round on one another and quarrel. So the verse hands you a plain question about right now. Whose side am I really on, and where is that loyalty going to leave me in the end?",
-    "reflectionBn": "জাহান্নামকে সবার চোখের সামনে এনে দাঁড় করানো হয়। পথভ্রষ্টদের জিজ্ঞেস করা হয়, আল্লাহকে ছেড়ে যাদের পূজা করত সেই উপাস্যরা এখন কোথায়। তারা কোনো সাহায্য করতে পারে না, নিজেদেরকেই বাঁচাতে পারে না। এরপর পুরনো সেই দলবাজি যার উপর দাঁড়িয়ে ছিল সবকিছু একসঙ্গে এক গর্তে উল্টে ফেলা হয়। মিথ্যা উপাস্য, তাদের পূজারিরা, আর ইবলীসের গোটা বাহিনী, একজনও বাদ থাকে না। দুনিয়ায় যা মনে হতো শক্ত এক জোট, তা হয়ে দাঁড়ায় সবার ভাগের এক বিপর্যয়। আর জাহান্নামের ভেতরে সেই সঙ্গীরাই একে অপরের ঘাড়ে দোষ চাপিয়ে ঝগড়ায় নামে। তাই আয়াতটি এখনকার জন্য একটা সোজা প্রশ্ন হাতে ধরিয়ে দেয়। আমি আসলে কার পক্ষে, আর সেই পক্ষপাত শেষমেশ আমাকে কোথায় নিয়ে ফেলবে?",
+    "reflectionBn": "জাহান্নামকে সবার চোখের সামনে এনে হাজির করা হয়। পথভ্রষ্টদের জিজ্ঞেস করা হয়, আল্লাহকে ছেড়ে যাদের পূজা করতে, সেই উপাস্যরা এখন কোথায়? তারা কোনো সাহায্য করতে পারে না, নিজেদেরকেও বাঁচাতে পারে না। এরপর পুরনো সেই আনুগত্য যা কিছুর উপর দাঁড়িয়ে ছিল, সব একসঙ্গে এক গর্তে উল্টে ফেলা হয়: মিথ্যা উপাস্যরা, তাদের পূজারিরা, আর ইবলীসের গোটা বাহিনী, একজনও বাদ পড়ে না। দুনিয়ায় যাকে মনে হতো শক্তিশালী জোট, তা হয়ে দাঁড়ায় সবার মিলিত সর্বনাশ। আর জাহান্নামের ভেতরে সেই সঙ্গীরাই একে অপরের দিকে ফিরে ঝগড়ায় নামে। তাই আয়াতটি এই মুহূর্তের জন্য একটা সোজা প্রশ্ন হাতে ধরিয়ে দেয়। আমি আসলে কার পক্ষে, আর সেই আনুগত্য শেষমেশ আমাকে কোথায় নিয়ে ফেলবে?",
     "pointsEn": [
       "Whose approval am I quietly organising my life around, and where would that loyalty stand on the Day the Fire is brought into view?",
       "Is there a cause or a crowd I follow that I would not want to be gathered with when everything is finally weighed?",
@@ -11175,18 +11175,18 @@ const TADABBUR_NOTES = {
       "If partnership in falsehood ends in blame and quarrelling, what would a loyalty built for God's sake look like in my week?"
     ],
     "pointsBn": [
-      "কার সন্তুষ্টিকে ঘিরে চুপচাপ নিজের জীবনটা সাজাচ্ছি? জাহান্নাম যেদিন সামনে এসে দাঁড়াবে, সেই পক্ষপাত সেদিন কোথায় থাকবে?",
-      "এমন কোনো দল বা মতের পেছনে কি চলছি, যাদের সঙ্গে শেষ বিচারের দিন একত্র হতে আমার লজ্জা লাগবে?",
-      "যাদের উপর আর যেসবের উপর ভরসা করি, তারা যখন নিজেরাই অসহায়, তখন কি আমি সেই সত্তার উপর ভরসা রেখেছিলাম যিনি কখনো ব্যর্থ হন না?",
+      "কার সন্তুষ্টিকে ঘিরে চুপচাপ নিজের জীবনটা সাজাচ্ছি? জাহান্নাম যেদিন সামনে এসে দাঁড়াবে, সেই আনুগত্য সেদিন কোথায় থাকবে?",
+      "এমন কোনো দল বা মতের পেছনে কি চলছি, সব কিছু শেষবারের মতো ওজন করার দিন যাদের সঙ্গে একত্র হতে আমি চাইব না?",
+      "যাদের আর যেসবের উপর আমি ভর দিই, তারা যখন নিজেদেরকেও বাঁচাতে পারবে না, তখন কি দেখা যাবে আমি সেই সত্তার উপর ভর দিয়েছিলাম, যিনি কখনো ব্যর্থ হন না?",
       "আমার সবচেয়ে কাছের বন্ধুত্বগুলো কি আমাকে আল্লাহর দিকে টানে, নাকি ধীরে ধীরে তাঁর থেকে দূরে সরায়?",
-      "মিথ্যার জোট যদি শেষ হয় দোষারোপ আর ঝগড়ায়, তবে আল্লাহর জন্য গড়া বন্ধুত্ব আমার সপ্তাহে দেখতে কেমন হতো?"
+      "মিথ্যার জোট যদি শেষ হয় দোষারোপ আর ঝগড়ায়, তবে আল্লাহর জন্য গড়া একটা বন্ধন এ সপ্তাহে আমার জীবনে কেমন চেহারা নিত?"
     ],
     "lessonEn": "Choose your loyalty now with the end in sight: whatever people follow instead of God collapses into shared ruin, but a bond built for God's sake outlasts even the Fire.",
-    "lessonBn": "শেষটা চোখে রেখে এখনই ঠিক করুন কার পক্ষে থাকবেন। আল্লাহকে ছেড়ে মানুষ যার পেছনে চলে তা ভেঙে পড়ে সবার ভাগের ধ্বংসে, কিন্তু আল্লাহর জন্য গড়া বন্ধন জাহান্নামকেও পেরিয়ে টিকে থাকে।"
+    "lessonBn": "শেষটা চোখে রেখে এখনই ঠিক করুন কার পক্ষে থাকবেন। আল্লাহকে ছেড়ে মানুষ যার পেছনে চলে তা ভেঙে পড়ে সবার মিলিত ধ্বংসে, কিন্তু আল্লাহর জন্য গড়া বন্ধন জাহান্নামকেও পেরিয়ে টিকে থাকে।"
   },
   "26:115": {
     "reflectionEn": "The powerful set a condition: send the poor away, and then we will listen. Nuh will not pay that price. He answers that he is only a warner, sent to carry a message plainly, not to sort people by rank or guard the door against the ones the rich call lowest. Their account rests with his Lord, not with him; who is worth keeping is not his to decide. It is easy to want a room cleared of the people who make us look small, and to call that having standards. Whose presence do I quietly wish away before I will fully take part? And what have I mistaken for my task that was never mine to carry?",
-    "reflectionBn": "ক্ষমতাবানরা শর্ত দিল: গরিবদের সরিয়ে দাও, তাহলেই আমরা শুনব। নূহ (আঃ) এই দাম দিতে রাজি হলেন না। তিনি বললেন, তিনি তো কেবল একজন সতর্ককারী। বার্তাটা খোলাখুলি পৌঁছে দিতে তাঁকে পাঠানো হয়েছে, মানুষকে শ্রেণি অনুযায়ী বাছাই করতে নয়, ধনীদের চোখে যারা নিচু তাদের জন্য দরজা আগলাতেও নয়। তাদের হিসাব তাঁর রবের হাতে, তাঁর নিজের হাতে নয়। কে থাকার যোগ্য, সেই রায় দেওয়া তাঁর কাজ নয়। যারা আমাদের ছোট করে দেখায়, মনে মনে তাদের সরিয়ে দিতে চাই, আর একে নাম দিই মান বাঁচানো। পুরোপুরি শামিল হওয়ার আগে কার উপস্থিতি আমি চুপচাপ চাই না? আর কোন কাজটাকে নিজের দায়িত্ব ভেবেছি, যা আসলে কোনোদিন আমার ছিল না?",
+    "reflectionBn": "ক্ষমতাবানরা শর্ত দিল: গরিবদের সরিয়ে দাও, তাহলেই আমরা শুনব। নূহ (আঃ) এই দাম দিতে রাজি হলেন না। তিনি বললেন, তিনি তো কেবল একজন সতর্ককারী। বার্তাটা খোলাখুলি পৌঁছে দিতে তাঁকে পাঠানো হয়েছে, মানুষকে শ্রেণি অনুযায়ী বাছাই করতে নয়, ধনীদের চোখে যারা নিচু তাদের ঠেকাতে দরজা আগলাতেও নয়। তাদের হিসাব তাঁর রবের হাতে, তাঁর নিজের হাতে নয়। কে থাকার যোগ্য, সেই রায় দেওয়া তাঁর কাজ নয়। যাদের পাশে থাকলে নিজেকে ছোট দেখায়, তাদের সরিয়ে ঘরটা খালি করতে চাওয়া সহজ, আর একে নাম দেওয়া হয় মান বজায় রাখা। কে সরে গেলে তবেই আমি মন খুলে শামিল হব বলে মনে মনে চাই? আর কোন কাজটাকে নিজের দায়িত্ব ভেবেছি, যা আসলে কোনোদিন আমার ছিল না?",
     "pointsEn": [
       "Whom have I wanted removed from a room, a group, or a list before I would fully take part?",
       "Do I rank people by what they own or where they come from, and call that having standards?",
@@ -11206,7 +11206,7 @@ const TADABBUR_NOTES = {
   },
   "26:106": {
     "reflectionEn": "Noah's people have just been named as deniers. Then the verse turns back to the beginning and shows what he first said to them: a brother of theirs, one of their own blood, standing up not with a threat but with a question. Will you not fear Allah? Before any argument, before any proof, before any mention of reward, the opening is an invitation to take God seriously. It is the same first word every messenger in this chapter speaks. The question is not really about them. It is handed down the centuries and set in front of me. When someone calls me back to God, do I hear a brother, or only an interruption?",
-    "reflectionBn": "নূহের (আঃ) কওমকে মাত্রই অস্বীকারকারী বলা হলো। এরপর আয়াত আবার শুরুর দিকে ফিরে দেখায়, তিনি তাদের প্রথমে কী বলেছিলেন। তাদেরই একজন, তাদের রক্তের ভাই, দাঁড়ালেন কোনো হুমকি নিয়ে নয়, একটা প্রশ্ন নিয়ে। তোমরা কি আল্লাহকে ভয় করবে না? কোনো তর্ক শুরুর আগে, কোনো প্রমাণ হাজির করার আগে, কোনো পুরস্কারের কথা তোলার আগে, কথাটা আসলে আল্লাহকে গুরুত্ব দিয়ে নেওয়ার ডাক। এ সুরার প্রতিটি রাসুলের মুখের প্রথম কথাও ঠিক এটাই। প্রশ্নটা আসলে কেবল তাদের জন্য নয়। যুগ পেরিয়ে সেটা আজ আমার সামনে এসে দাঁড়ায়। কেউ যখন আমাকে আল্লাহর দিকে ডাকে, আমি কি তাতে একজন ভাইকে শুনি, নাকি শুধু একটা বিরক্তিকর বাধা?",
+    "reflectionBn": "নূহের (আঃ) কওমকে মাত্রই অস্বীকারকারী বলা হলো। এরপর আয়াত আবার শুরুর দিকে ফিরে দেখায়, তিনি তাদের প্রথমে কী বলেছিলেন। তাদেরই একজন, তাদের রক্তের ভাই, দাঁড়ালেন কোনো হুমকি নিয়ে নয়, একটা প্রশ্ন নিয়ে। তোমরা কি আল্লাহকে ভয় করবে না? কোনো তর্ক শুরুর আগে, কোনো প্রমাণ হাজির করার আগে, কোনো পুরস্কারের কথা তোলার আগে, কথাটা আসলে আল্লাহকে গুরুত্ব দিয়ে নেওয়ার ডাক। এ সূরার প্রতিটি রসূলের মুখের প্রথম কথাও ঠিক এটাই। প্রশ্নটা আসলে কেবল তাদের জন্য নয়। যুগ পেরিয়ে সেটা আজ আমার সামনে এসে দাঁড়ায়। কেউ যখন আমাকে আল্লাহর দিকে ডাকে, আমি কি তাতে একজন ভাইকে শুনি, নাকি শুধু একটা বিরক্তিকর বাধা?",
     "pointsEn": [
       "When someone calls me back toward God, do I weigh who is speaking before I weigh what they are saying?",
       "What would change in me this week if I treated 'will you not fear Allah' as a question addressed to me today?",
@@ -11215,7 +11215,7 @@ const TADABBUR_NOTES = {
       "When I carry a hard truth to someone, do I open with a question and gentleness, or with a verdict?"
     ],
     "pointsBn": [
-      "কেউ যখন আমাকে আল্লাহর দিকে ডাকে, কথাটা কী বলছে সেটা ওজন করার আগে আমি কি বক্তা কে সেটা ওজন করি?",
+      "কেউ যখন আমাকে আল্লাহর দিকে ডাকে, সে কী বলছে তা ওজন করার আগেই কি আমি মেপে দেখি কে বলছে?",
       "‘তোমরা কি আল্লাহকে ভয় করবে না’ কথাটাকে যদি আজ আমার উদ্দেশে বলা প্রশ্ন ধরি, এ সপ্তাহে আমার ভেতরে কী বদলাবে?",
       "জীবনের কোথায় আমি এমন প্রমাণের অপেক্ষায় বসে আছি যা আমার হাতে আগেই আছে, অথচ জানা সত্য অনুযায়ী কাজ করছি না?",
       "এমন কোনো নসিহত কি আছে যা আমি বারবার এড়িয়ে যাই, কারণ সেটা আসে খুব কাছের, খুব চেনা, আমার মতোই কারও কাছ থেকে?",
@@ -11226,7 +11226,7 @@ const TADABBUR_NOTES = {
   },
   "26:97": {
     "reflectionEn": "The ones who turned gods out of nothing are standing in the Fire, and now they swear by the very God they would not worship alone: By Allah, we were in manifest error. Every word of it is true. It is also too late. The error they finally name was never hidden; it was plain enough to see from the world, if they had looked. What makes the Fire unbearable here is not a fresh discovery but an old truth, arriving on the wrong side of the door. The confession that would have saved a living person saves no one now. So the question is not whether I will one day see my mistake clearly. It is whether I will say it while saying it still counts.",
-    "reflectionBn": "যারা নিজেরাই দেবতা বানিয়েছিল, তারা এখন আগুনের ভেতরে দাঁড়িয়ে। আর যে আল্লাহকে তারা একা মেনে নিতে চায়নি, তাঁরই নামে কসম খেয়ে বলছে: আল্লাহর কসম, আমরা স্পষ্ট গুমরাহীতে ছিলাম। কথাটা পুরো সত্য। কিন্তু বড় দেরিতে বলা। যে ভুলটা তারা এতক্ষণে মুখে আনল, তা কোনোকালেই লুকানো ছিল না। দুনিয়া থেকেই দেখা যেত, একটু চোখ খুললেই। আগুনটা এখানে অসহ্য হয় নতুন কোনো আবিষ্কারে নয়, পুরোনো সত্যটা ভুল দরজার ওপারে এসে পৌঁছানোয়। বেঁচে থাকতে যে স্বীকারোক্তি মানুষকে বাঁচাত, এখন তা কাউকে বাঁচায় না। তাই প্রশ্নটা এই নয় যে একদিন আমি নিজের ভুল স্পষ্ট দেখব কি না। প্রশ্ন হলো, কথাটা কি আমি তখন বলব, যখন বলাটা এখনো কাজে লাগে।",
+    "reflectionBn": "যারা নিজেরাই দেবতা বানিয়েছিল, তারা এখন আগুনের ভেতরে দাঁড়িয়ে। আর যে আল্লাহকে তারা একা মেনে নিতে চায়নি, তাঁরই নামে কসম খেয়ে বলছে: আল্লাহর কসম, আমরা স্পষ্ট গুমরাহীতে ছিলাম। কথাটা পুরো সত্য। কিন্তু বড় দেরিতে বলা। যে ভুলটা তারা এতক্ষণে মুখে আনল, তা কোনোকালেই লুকানো ছিল না। দুনিয়া থেকেই দেখা যেত, একটু চোখ খুললেই। এখানে আগুনকে অসহ্য করে তোলে কোনো নতুন আবিষ্কার নয়, বরং পুরোনো এক সত্য, যা এসে পৌঁছাল দরজার ভুল পাশে। বেঁচে থাকতে যে স্বীকারোক্তি মানুষকে বাঁচাত, এখন তা কাউকে বাঁচায় না। তাই প্রশ্নটা এই নয় যে একদিন আমি নিজের ভুল স্পষ্ট দেখব কি না। প্রশ্ন হলো, বলাটা যতক্ষণ কাজে লাগে, ততক্ষণের মধ্যে আমি কথাটা বলব কি না।",
     "pointsEn": [
       "What error of mine is already plain to everyone but me, waiting only for me to name it?",
       "When I finally admit I was wrong, is it usually while the admission can still change something, or after it no longer matters?",
@@ -11246,7 +11246,7 @@ const TADABBUR_NOTES = {
   },
   "26:109": {
     "reflectionEn": "Picture a man with nothing to sell. Nūḥ (AS) stands before people who worship what their own hands have carved, and he says plainly: I ask you for no payment. Not your money, not your gifts, not a seat at your table. Whatever this call costs me, my wage is kept with the Lord of the worlds, and I will collect it from no one else. That one sentence strips away the easiest suspicion a listener can raise, that the man is only after something. When the call costs the caller and asks the hearer for nothing, the message stands on its own. So I weigh my own good turns. When I advise, teach, or call to the truth, whose pocket am I watching, and whose approval?",
-    "reflectionBn": "ভাবুন এমন একজন মানুষের কথা, যার বিক্রি করার কিছু নেই। নূহ (আঃ) দাঁড়িয়ে আছেন এমন এক জাতির সামনে, যারা নিজ হাতে গড়া মূর্তির পূজা করে। তিনি সোজাসুজি বলেন, এর বিনিময়ে আমি তোমাদের কাছে কোনো প্রতিদান চাই না। তোমাদের টাকা নয়, উপহার নয়, তোমাদের মজলিসে একটা আসনও নয়। এ দাওয়াতে আমার যা খরচ হোক, আমার প্রতিদান রাখা আছে বিশ্বজগতের প্রতিপালকের কাছে, আর তা আমি আর কারও কাছ থেকে নেব না। এই একটি কথা শ্রোতার সবচেয়ে সহজ সন্দেহটাই কেটে দেয়, যে লোকটা আসলে কিছু একটা হাতাতে চায়। ডাক যখন ডাকওয়ালার পকেট থেকে খরচ করে, আর শ্রোতার কাছে কিছুই চায় না, তখন কথাটা নিজের পায়েই দাঁড়ায়। তাই নিজের ভালো কাজগুলো একটু মেপে দেখি। কাউকে উপদেশ দিই, শেখাই, বা সত্যের দিকে ডাকি, তখন আমার চোখ থাকে কার পকেটে, আর কার বাহবায়?",
+    "reflectionBn": "ভাবুন এমন একজন মানুষের কথা, যার বিক্রি করার কিছু নেই। নূহ (আঃ) দাঁড়িয়ে আছেন এমন এক জাতির সামনে, যারা নিজ হাতে গড়া মূর্তির পূজা করে। তিনি সোজাসুজি বলেন, এর বিনিময়ে আমি তোমাদের কাছে কোনো প্রতিদান চাই না। তোমাদের টাকা নয়, উপহার নয়, তোমাদের মজলিসে একটা আসনও নয়। এ দাওয়াতে আমার যা খরচ হোক, আমার প্রতিদান রাখা আছে বিশ্বজগতের প্রতিপালকের কাছে, আর তা আমি আর কারও কাছ থেকে নেব না। এই একটি কথা শ্রোতার সবচেয়ে সহজ সন্দেহটাই কেটে দেয়, যে লোকটা আসলে কিছু একটা হাতাতে চায়। দাওয়াতের খরচ যখন দাঈ নিজেই বহন করেন, আর শ্রোতার কাছে কিছুই চান না, তখন কথাটা নিজের জোরেই দাঁড়ায়। তাই নিজের ভালো কাজগুলো একটু মেপে দেখি। যখন কাউকে উপদেশ দিই, শেখাই, বা সত্যের দিকে ডাকি, তখন আমার চোখ থাকে কার পকেটে, আর কার বাহবায়?",
     "pointsEn": [
       "When I give advice or help, am I quietly keeping a tally of what it ought to earn me back?",
       "Whose approval am I really working for when I do a good turn, Allah's or the people watching?",
@@ -11257,7 +11257,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "কাউকে উপদেশ বা সাহায্য করার সময় মনে মনে কি হিসাব কষি, এর বদলে আমার কী পাওয়া উচিত?",
       "ভালো একটা কাজ করার সময় আমি আসলে কার সন্তুষ্টির জন্য খাটি, আল্লাহর নাকি যারা তাকিয়ে আছে তাদের?",
-      "এমন কোনো দয়া কি আটকে রেখেছি, যেহেতু লোকটা কখনো তা শোধ করতে বা ধন্যবাদটুকু দিতে পারত না?",
+      "এমন কোনো দয়া কি আটকে রেখেছি, শুধু এই কারণে যে মানুষটা কখনো তার প্রতিদান দিতে, এমনকি ধন্যবাদটুকুও দিতে পারবে না?",
       "মানুষের কাছ থেকে যে প্রতিদানের আশা রাখি, তা সব কাল বাতিল হয়ে গেলেও কি এই ভালো কাজটা করে যেতাম?",
       "আমার প্রতিদান আল্লাহর কাছেই জমা আছে, এটা সত্যিই বিশ্বাস করলে আমার শেখানো, দেওয়া আর কথা বলায় কী বদলে যেত?"
     ],
@@ -11266,7 +11266,7 @@ const TADABBUR_NOTES = {
   },
   "26:123": {
     "reflectionEn": "Three words open a people's whole story: ʿĀd denied the messengers. Not this messenger or that one, but the messengers — though only one man, Hūd, ever stood before them. The Qur'an counts the rejection of a single caller as the rejection of them all, because every messenger brought the same errand: worship God alone and turn from all besides Him. So the charge is not that ʿĀd argued one point of doctrine. It is that they turned their faces from a call that has reached every people in the same words. When a true summons comes to me — plain, and in my own tongue — do I weigh it, or do I file it away with everything else I have already decided to ignore?",
-    "reflectionBn": "তিনটি শব্দেই একটা জাতির গোটা পরিণতি লেখা হয়ে গেল: ‘আদ রসূলগণকে মিথ্যা সাব্যস্ত করল। এই নয় যে তারা কোনো একজন রসূলকে, বরং আয়াত বলছে রসূলগণকে—অথচ তাদের কাছে এসেছিলেন একজনই, হূদ (আঃ)। একজন আহ্বানকারীকে অস্বীকার করাকে কুরআন গোটা রসূলদলকে অস্বীকার করা বলেই গণে, কারণ প্রত্যেক রসূল একই কথা এনেছেন: এক আল্লাহর ইবাদত করো, তাঁকে ছাড়া বাকি সব ছাড়ো। তাই অভিযোগটা এই নয় যে ‘আদ কোনো মতের তর্কে জড়িয়েছিল। অভিযোগ হলো, তারা মুখ ফিরিয়ে নিয়েছিল এমন এক ডাক থেকে, যা একই ভাষায় পৌঁছেছে প্রতিটি জাতির কাছে। সত্যের ডাক যখন আমার কাছে আসে, সোজাসাপটা, আমার নিজের ভাষায়, আমি কি তা যাচাই করি, নাকি আগে থেকে যা উপেক্ষা করব ঠিক করে রেখেছি তার সঙ্গে একেও পাশে সরিয়ে রাখি?",
+    "reflectionBn": "তিনটি শব্দ দিয়ে শুরু হয় একটা জাতির গোটা কাহিনি: ‘আদ রসূলগণকে মিথ্যা সাব্যস্ত করল। এই বা সেই রসূলকে নয়, আয়াত বলছে রসূলগণকে, অথচ তাদের কাছে এসেছিলেন একজনই, হূদ (আঃ)। একজন আহ্বানকারীকে অস্বীকার করাকে কুরআন সব রসূলকে অস্বীকার করা বলেই গণ্য করে, কারণ প্রত্যেক রসূল একই কাজ নিয়ে এসেছেন: এক আল্লাহর ইবাদত করো, তাঁকে ছাড়া বাকি সব ছাড়ো। তাই অভিযোগটা এই নয় যে ‘আদ আকিদার কোনো একটা বিষয়ে তর্ক করেছিল। অভিযোগ হলো, তারা মুখ ফিরিয়ে নিয়েছিল এমন এক ডাক থেকে, যা একই কথায় পৌঁছেছে প্রতিটি জাতির কাছে। সত্যের ডাক যখন আমার কাছে আসে, সোজাসাপটা, আমার নিজের ভাষায়, আমি কি তা যাচাই করি, নাকি আগে থেকে যা উপেক্ষা করব বলে ঠিক করে রেখেছি, তার সঙ্গে একেও তুলে রাখি?",
     "pointsEn": [
       "When a message I know to be true reaches me, do I test it, or do I reach for a reason to set it aside?",
       "Am I ready to accept a messenger of God in full, or only on the points that already suit me?",
@@ -11278,15 +11278,15 @@ const TADABBUR_NOTES = {
       "সত্য বলে জানি এমন কোনো কথা যখন আমার কাছে আসে, আমি কি তা যাচাই করি, নাকি সরিয়ে রাখার একটা অজুহাত খুঁজি?",
       "আল্লাহর কোনো রসূলকে আমি কি পুরোপুরি মেনে নিতে প্রস্তুত, নাকি কেবল যেসব কথা আমার পছন্দ হয় সেটুকুই?",
       "কার কথা আমি উড়িয়ে দিই, সে কী বলছে তার জন্য নয়, বরং কে বলছে সেটা দেখে?",
-      "প্রত্যেক সত্য ডাক যদি একই হৃদয় বয়ে এনে থাকে, সেই ডাকের কোন অংশটা আমি চুপচাপ অস্বীকার করে আসছি?",
-      "স্পষ্ট এক আহ্বানকে সরিয়ে না রেখে যদি জবাব দেওয়ার মতো কিছু ভাবি, এ সপ্তাহে কী বদলাবে?"
+      "প্রত্যেক সত্য ডাকের প্রাণ যদি একই হয়ে থাকে, সেই ডাকের কোন অংশটা আমি চুপচাপ অস্বীকার করে আসছি?",
+      "স্পষ্ট কোনো ডাককে তুলে রাখার জিনিস না ভেবে যদি জবাব দেওয়ার জিনিস ভাবতাম, এ সপ্তাহে কী বদলাত?"
     ],
     "lessonEn": "To turn away from one true messenger is to turn away from them all, for every messenger carried the same call; so weigh the summons by its truth, not its messenger.",
     "lessonBn": "একজন সত্য রসূলকে অস্বীকার করা মানে সবাইকেই অস্বীকার করা, কারণ প্রত্যেকে এনেছেন একই ডাক; তাই ডাককে যাচাই করুন তার সত্যতা দিয়ে, রসূল কে তা দিয়ে নয়।"
   },
   "26:146": {
     "reflectionEn": "Ṣāliḥ puts one question to his people, and it is a question that springs only on the comfortable: will you be left here, secure, in the middle of all this? Here means the gardens and springs, the fields and date-palms, the houses they cut so skilfully into the rock. None of it was the problem. The problem was the quiet assumption underneath it, that plenty this solid would simply go on, that death and reckoning happened to other people. Nobody is ever told, in so many words, that they expect to stay forever. We just live as if we do. The question is still open, and if I answer it honestly, it changes what I am building.",
-    "reflectionBn": "সালিহ (আঃ) তাঁর জাতিকে একটাই প্রশ্ন করেন, আর সেই প্রশ্নের ফাঁদ শুধু আরামে থাকা মানুষের জন্য। তোমাদের কি এখানে, এই সবকিছুর ভেতরে নিরাপদে রেখে দেওয়া হবে? এখানে মানে বাগান আর ঝর্ণা, ফসলের খেত আর খেজুরের বাগান, পাহাড় কেটে বানানো নিপুণ ঘরবাড়ি। এর কোনোটাই দোষ ছিল না। দোষ ছিল নিচে লুকিয়ে থাকা চুপচাপ ধারণাটা, যে এত পোক্ত ভোগবিলাস এমনিই চলতে থাকবে, মৃত্যু আর হিসাব বুঝি অন্যদের বেলায় ঘটে। কাউকে কখনো মুখ ফুটে বলা হয় না যে সে চিরকাল থাকার আশা করছে। আমরা শুধু সেভাবেই বাঁচি। প্রশ্নটা এখনো খোলা, আর সৎভাবে উত্তর দিলে তা আমার গড়া সবকিছু বদলে দেয়।",
+    "reflectionBn": "সালিহ (আঃ) তাঁর জাতিকে একটাই প্রশ্ন করেন, আর সেই প্রশ্নের ফাঁদ শুধু আরামে থাকা মানুষের জন্য। তোমাদের কি এখানে, এই সবকিছুর ভেতরে নিরাপদে রেখে দেওয়া হবে? এখানে মানে বাগান আর ঝর্ণা, ফসলের খেত আর খেজুরের বাগান, পাহাড় কেটে বানানো নিপুণ ঘরবাড়ি। এর কোনোটাই দোষ ছিল না। দোষ ছিল নিচে লুকিয়ে থাকা চুপচাপ ধারণাটা, যে এমন মজবুত প্রাচুর্য এমনিই চলতে থাকবে, মৃত্যু আর হিসাব বুঝি অন্যদের বেলায় ঘটে। কাউকে কখনো মুখ ফুটে বলা হয় না যে সে চিরকাল থাকার আশা করছে। আমরা শুধু সেভাবেই বাঁচি। প্রশ্নটা এখনো খোলা, আর সৎভাবে এর উত্তর দিলে আমি যা গড়ছি তা-ই বদলে যায়।",
     "pointsEn": [
       "What have I quietly assumed will simply go on — a job, a body, a household — as if it were owed to me rather than lent?",
       "When did I last let the fact of my own death change a single decision I made that day?",
@@ -11295,18 +11295,18 @@ const TADABBUR_NOTES = {
       "What am I building so skilfully that I have stopped asking whether I will ever use it?"
     ],
     "pointsBn": [
-      "কোন জিনিসটা আমি চুপচাপ ধরে নিয়েছি যে এমনিই চলতে থাকবে, যেন চাকরি, শরীর বা সংসার আমার পাওনা, ধার দেওয়া কিছু নয়?",
+      "চাকরি, শরীর, সংসার, কোন জিনিসটা আমি চুপচাপ ধরে নিয়েছি যে এমনিই চলতে থাকবে, যেন তা আমার পাওনা, ধারে পাওয়া নয়?",
       "শেষ কবে নিজের মৃত্যুর কথাটা সেদিনের একটামাত্র সিদ্ধান্তও বদলে দিয়েছিল?",
       "কেউ যদি সোজাসুজি বলত আমাকে এখানে রেখে দেওয়া হবে না, আমার কোন পরিকল্পনাগুলো হঠাৎ আলাদা দেখাত?",
       "আমি কি যা পেয়েছি তার জন্য কৃতজ্ঞ, নাকি শুধু তাতে থিতু হয়ে দাতাকে ভুলে বসে আছি?",
-      "এমন কী নিপুণভাবে গড়ছি, যা আদৌ কাজে লাগবে কিনা সে প্রশ্নটাই আর করি না?"
+      "এমন কী আমি এত নিপুণভাবে গড়ছি যে, নিজে কোনোদিন তা কাজে লাগাতে পারব কি না, সে প্রশ্নটাই আর করি না?"
     ],
     "lessonEn": "No one is left here forever. The ease you stand in was given, not owed, and death comes to the comfortable too — so hold it lightly and stay awake.",
     "lessonBn": "কাউকে এখানে চিরকাল রাখা হয় না। যে আরামে আপনি দাঁড়িয়ে, তা দান, পাওনা নয়; আরামে থাকা মানুষের কাছেও মৃত্যু আসে। তাই একে হালকাভাবে ধরুন, জেগে থাকুন।"
   },
   "26:128": {
     "reflectionEn": "On every hilltop and every road, the people of ʿAd raised a landmark, huge and dazzling and built to be seen. Their prophet asks them one question: why? Not for shelter, not for need, but to amuse themselves, to show their strength, to look down on whoever passed below. The question is not against building. It is against building for nothing, against the hands and the years poured into a monument that feeds no hunger and answers no need, raised only so the world would look up and admire. I build too, in stone and in smaller ways. So the question turns on me. What am I raising only to be seen, and what good will it have done when I am gone?",
-    "reflectionBn": "প্রতিটি উঁচু জায়গায়, প্রতিটি পথের ধারে ‘আদ জাতি গড়ে তুলত একেকটা বিশাল নিদর্শন। চোখ ধাঁধানো, দূর থেকেই চোখে পড়ার মতো। তাদের নবী তাদের একটি প্রশ্ন করেন: কেন? বাসস্থানের জন্য নয়, প্রয়োজনেও নয়, কেবল খেলার ছলে, নিজেদের শক্তি দেখাতে, নিচ দিয়ে যে যায় তাকে তুচ্ছ করতে। প্রশ্নটা ইমারত গড়ার বিরুদ্ধে নয়। প্রশ্নটা অনর্থক গড়ার বিরুদ্ধে। যে সৌধে কারও ক্ষুধা মেটে না, কারও কোনো দরকার মেটে না, শুধু লোকে তাকিয়ে প্রশংসা করবে বলে তার পেছনে ঢালা হাত আর বছরগুলোর বিরুদ্ধে। আমিও তো গড়ি, পাথরে আর ছোট ছোট নানা কাজে। তাই প্রশ্নটা আমার দিকেই ফেরে। শুধু দেখানোর জন্য আমি কী গড়ছি, আর আমি চলে গেলে তার কী দাম থাকবে?",
+    "reflectionBn": "প্রতিটি উঁচু জায়গায়, প্রতিটি পথের ধারে ‘আদ জাতি গড়ে তুলত একেকটা বিশাল নিদর্শন। চোখ ধাঁধানো, দূর থেকেই চোখে পড়ার মতো। তাদের নবী তাদের একটি প্রশ্ন করেন: কেন? বাসস্থানের জন্য নয়, প্রয়োজনেও নয়, কেবল খেলার ছলে, নিজেদের শক্তি দেখাতে, নিচ দিয়ে যে যায় তাকে তুচ্ছ করতে। প্রশ্নটা ইমারত গড়ার বিরুদ্ধে নয়। প্রশ্নটা অনর্থক গড়ার বিরুদ্ধে। যে সৌধে কারও খিদে মেটে না, কোনো দরকার মেটে না, শুধু দুনিয়া মাথা তুলে তাকিয়ে বাহবা দেবে বলে খাড়া করা হয়, তার পেছনে এত হাত আর এত বছর ঢেলে দেওয়ার বিরুদ্ধে। আমিও তো গড়ি, পাথরে আর ছোট ছোট নানা কাজে। তাই প্রশ্নটা আমার দিকেই ফেরে। শুধু দেখানোর জন্য আমি কী গড়ছি, আর আমি চলে যাওয়ার পর তা কার কী উপকারে আসবে?",
     "pointsEn": [
       "What am I building right now mainly so that others will see it and think well of me?",
       "When I spend my time and effort, how much of it leaves nothing behind that anyone actually needed?",
@@ -11317,8 +11317,8 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "এই মুহূর্তে আমি এমন কী গড়ছি, যা মূলত অন্যরা দেখে আমার প্রশংসা করবে বলেই গড়ছি?",
       "আমার সময় আর শ্রম যখন খরচ করি, তার কতটা এমন কিছুর পেছনে যায় যা আসলে কারও কোনো কাজেই লাগে না?",
-      "আমার গড়া জিনিস, যেমন ঘর বা পদ বা সুনাম, কি কখনো আমার চেয়ে কম যাদের আছে তাদের তুচ্ছ করতে কাজে লাগাই?",
-      "আগামী বছরই যদি সব ছেড়ে চলে যেতে হবে জানতাম, আজ কোন জিনিসের পেছনে ঢালা বন্ধ করে দিতাম?",
+      "নিজের গড়া ঘর, পদ বা সুনাম দিয়ে আমি কি কখনো তাদের তুচ্ছ করি, যাদের আমার চেয়ে কম আছে?",
+      "যদি জানতাম আগামী বছরই সব ছেড়ে চলে যেতে হবে, আজ কোন জিনিসের পেছনে নিজেকে ঢালা বন্ধ করে দিতাম?",
       "এই মাসে এমন কী একটা গড়তে বা করতে পারি, যা আমার অহংকার নয়, সত্যিকারের কোনো প্রয়োজন মেটায়?"
     ],
     "lessonEn": "Build for need and for good, not to be seen or to feel you will last; measure what you make by whether it serves, not by who admires it.",
@@ -11346,7 +11346,7 @@ const TADABBUR_NOTES = {
   },
   "26:133": {
     "reflectionEn": "Hud stands before his people and names what they already own: the herds that fill their valleys, the sons who carry their name. He does not scold them for having these things. He points at them and asks who gave them. Livestock and children were the whole of a man's wealth and future in that world, and Hud calls both of them a gift from the very One they were busy denying. A blessing enjoyed while its Giver is forgotten slowly curdles into a reason for pride. The same herds and sons meant to bend a heart toward thankfulness can instead harden it into a feeling of being safe and needing no one. What has God handed me that I have quietly started to think I earned alone?",
-    "reflectionBn": "হূদ (আঃ) তাঁর জাতির সামনে দাঁড়িয়ে তাদের হাতে থাকা জিনিসগুলোই গুনে দেখান। উপত্যকা ভরা পশুর পাল, বংশের নাম বয়ে নেওয়া ছেলেরা। এগুলো থাকার জন্য তিনি তাদের ধমক দেন না। তিনি আঙুল তুলে জানতে চান, এসব কে দিল। সেই যুগে একজন মানুষের গোটা সম্পদ আর ভবিষ্যৎ ছিল এই গবাদি পশু আর সন্তান। হূদ (আঃ) দুটোকেই বলছেন সেই সত্তার দান, যাঁকে অস্বীকার করতেই তারা তখন ব্যস্ত। দাতাকে ভুলে নিয়ামত ভোগ করলে তা ধীরে ধীরে অহংকারের কারণ হয়ে দাঁড়ায়। যে পশু আর সন্তান হৃদয়কে শুকরিয়ার দিকে নোয়ানোর কথা, সেটাই উল্টো মনকে নিশ্চিন্ত আর কাউকে না-লাগার ভাবে শক্ত করে তোলে। আল্লাহ আমাকে কী দিয়েছেন, যা আমি চুপচাপ নিজের একার অর্জন ভাবতে শুরু করেছি?",
+    "reflectionBn": "হূদ (আঃ) তাঁর জাতির সামনে দাঁড়িয়ে তাদের হাতে থাকা জিনিসগুলোই গুনে দেখান। উপত্যকা ভরা পশুর পাল, বংশের নাম বয়ে নেওয়া ছেলেরা। এগুলো থাকার জন্য তিনি তাদের ধমক দেন না। তিনি আঙুল তুলে জানতে চান, এসব কে দিল। সেই যুগে একজন মানুষের গোটা সম্পদ আর ভবিষ্যৎ ছিল এই গবাদি পশু আর সন্তান। হূদ (আঃ) দুটোকেই বলছেন সেই সত্তার দান, যাঁকে অস্বীকার করতেই তারা তখন ব্যস্ত। দাতাকে ভুলে নিয়ামত ভোগ করলে তা ধীরে ধীরে অহংকারের কারণ হয়ে দাঁড়ায়। যে পশুপাল আর সন্তানের কাজ ছিল হৃদয়কে শুকরিয়ার দিকে নোয়ানো, সেগুলোই উল্টো হৃদয়কে শক্ত করে তোলে, এই ভাবনায় যে আমি নিরাপদ, কারও কাছে আমার কিছু চাওয়ার নেই। আল্লাহ আমাকে কী দিয়েছেন, যা আমি চুপচাপ নিজের একার অর্জন ভাবতে শুরু করেছি?",
     "pointsEn": [
       "When I count what I own this year, do I stop at the gift, or go back to the One who gave it?",
       "Which of my blessings have I quietly started to treat as something I produced by myself?",
@@ -11376,9 +11376,9 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "মানার আগে যখন আমি প্রমাণ চাই, আমি আসলে কিসের অপেক্ষায় থাকি, আর কোনো নিদর্শনই কি আমার জন্য যথেষ্ট হতো?",
-      "কোন ছোট্ট, সাফ দায়িত্বটা এখনই আমার সামনে পড়ে আছে, যা এমন কিছুর সঙ্গে জড়ানো যা নিয়ে আমি বলি এখনো বিশ্বাস হয়নি?",
+      "কোন ছোট্ট, সাফ দায়িত্ব এখনই আমার সামনে পড়ে আছে, অথচ যে বিষয়ের সঙ্গে তা জড়ানো, সেটা নিয়ে আমি বলে বেড়াই, এখনো নিশ্চিত হতে পারিনি?",
       "ভাগ করে নেওয়ার কথা ছিল এমন কিসের মধ্যে আমি নিজের পালার বেশি নিচ্ছি—পানি, সময়, মনোযোগ, না কৃতিত্ব?",
-      "যে জিনিসটা একদিন প্রমাণ চেয়ে আদায় করেছিলাম, তার সহজ শর্তগুলোও কি সেভাবেই যত্ন করে মানি?",
+      "কোনো জিনিস একসময় যতটা জোর দিয়ে দাবি করেছিলাম, তার সহজ শর্তগুলোও কি ততটাই যত্ন করে মানি?",
       "যে দিনটা কখনো আমার ছিল না, সেদিন আমি চুপচাপ কার ন্যায্য ভাগটা খরচ করে ফেলেছি?"
     ],
     "lessonEn": "A God who can bring a she-camel from rock asks in return only a simple fairness; the sign is the easy part, and living by its small terms is the test.",
@@ -11386,7 +11386,7 @@ const TADABBUR_NOTES = {
   },
   "26:157": {
     "reflectionEn": "The deed takes three words and the remorse takes one. They hamstrung the she-camel they had been told to leave alone, and then, the verse says, they became regretful. But the regret came in the wrong order: after the knife, once the punishment was already certain. The commentators are blunt that it did them no good. Sorrow that waits for the consequence to show its face is not the same as turning back. One is grief at being caught; the other is a changed heart while the door still stands open. The verse does not ask whether I will ever feel sorry, for everyone does in the end. It asks whether my sorrow comes before the cost or only after it.",
-    "reflectionBn": "তিন শব্দে কাজটা সারা, আর এক শব্দে অনুশোচনা। যে উটনিকে ছুঁতে মানা করা হয়েছিল, তারা তাকে বধ করল। তারপর আয়াত বলছে, তারা অনুতপ্ত হল। কিন্তু এই অনুতাপ এল উল্টো ক্রমে, বধের পরে, যখন শাস্তি নিশ্চিত হয়ে গেছে। তাফসীরকারেরা সোজা কথায় বলেন, তাদের এই অনুশোচনায় কোনো কাজ হয়নি। পরিণাম চোখের সামনে এসে পড়ার পর যে আফসোস জাগে, তা ফিরে আসা নয়। একটা হলো ধরা পড়ার দুঃখ, আরেকটা হলো দরজা খোলা থাকতেই মন বদলে ফেলা। আয়াত তাই জিজ্ঞেস করে না আমি কখনো আফসোস করব কিনা, সবাই তো একসময় করে। প্রশ্ন হলো, আমার আফসোস কি দাম চুকানোর আগে আসে, নাকি শুধু পরে।",
+    "reflectionBn": "তিন শব্দে কাজটা সারা, আর এক শব্দে অনুশোচনা। যে উটনিকে ছুঁতে মানা করা হয়েছিল, তারা তার পায়ের রগ কেটে দিল। তারপর আয়াত বলছে, তারা অনুতপ্ত হল। কিন্তু এই অনুতাপ এল উল্টো ক্রমে, ছুরি চালানোর পরে, যখন শাস্তি নিশ্চিত হয়ে গেছে। তাফসীরকারেরা সোজা কথায় বলেন, তাদের এই অনুশোচনায় কোনো কাজ হয়নি। পরিণাম চোখের সামনে এসে পড়ার পর যে আফসোস জাগে, তা ফিরে আসা নয়। একটা হলো ধরা পড়ার দুঃখ, আরেকটা হলো দরজা খোলা থাকতেই মন বদলে ফেলা। আয়াত তাই জিজ্ঞেস করে না আমি কখনো আফসোস করব কিনা, সবাই তো একসময় করে। প্রশ্ন হলো, আমার আফসোস কি দাম চুকানোর আগে আসে, নাকি শুধু পরে।",
     "pointsEn": [
       "What am I quietly doing that I already know I will regret, and what would it take to stop before the regret arrives?",
       "When I last felt remorse, was it sorrow for the wrong itself, or only for being caught and facing the cost?",
@@ -11395,7 +11395,7 @@ const TADABBUR_NOTES = {
       "If the door of return can close at a moment I cannot see, why am I living as though it will always stay open?"
     ],
     "pointsBn": [
-      "এমন কী কাজ আমি চুপচাপ করে যাচ্ছি, যার জন্য পরে আফসোস হবে তা জেনেও? থামতে হলে ঠিক কী করা দরকার, ক্ষতি হওয়ার আগেই?",
+      "এমন কী কাজ আমি চুপচাপ করে যাচ্ছি, যার জন্য পরে আফসোস হবে বলে আগেই জানি? আফসোস আসার আগেই থামতে হলে আমার কী লাগবে?",
       "শেষবার যখন অনুতপ্ত হয়েছি, সেটা কি অন্যায়টার জন্য দুঃখ ছিল, নাকি ধরা পড়া আর পরিণামের ভয়?",
       "মনের এমন কোনো বদল কি আছে, যা আমি কোনো পরিণাম ঘাড়ে না পড়া পর্যন্ত পিছিয়ে রাখছি?",
       "এই সম্প্রদায় যেমন তাদের কাছে পাঠানো সতর্ককারীকে উড়িয়ে দিয়েছিল, তেমন কার সাবধানবাণী আমি উড়িয়ে দিয়েছি?",
@@ -11406,7 +11406,7 @@ const TADABBUR_NOTES = {
   },
   "26:170": {
     "reflectionEn": "He had prayed, save me and my family, and the answer comes in the next breath: We saved him and his family, all. The word all sounds like a closed circle, nobody lost. Then it opens. All except an old woman who stayed behind, the wife at his side. The ones who answered his call walked out with him; the one who shared his house did not. Her nearness did not carry her. I like to think my address will save me, the mosque I pray in, the family I was born to. This verse asks something harder. When the morning comes to leave the wrong behind, am I among those who walk, or only among those who stood near?",
-    "reflectionBn": "তিনি দোয়া করেছিলেন, আমাকে আর আমার পরিবারকে রক্ষা করো। জবাব আসে ঠিক পরের নিঃশ্বাসেই: আমি তাকে ও তার পরিবারের সবাইকে রক্ষা করলাম। 'সবাই' শব্দটা শুনতে যেন বন্ধ এক বৃত্ত, কেউ বাদ পড়েনি। তারপর বৃত্তটা খুলে যায়। সবাই, কেবল এক বৃদ্ধা ছাড়া, যে পেছনেই থেকে গেল, লূত (আঃ)-এর পাশে থাকা মানুষটি। যারা তাঁর ডাকে সাড়া দিয়েছিল তারা তাঁর সঙ্গে বেরিয়ে এল, আর যে এক ছাদের নিচে ছিল সে এল না। নৈকট্য তাকে বাঁচাল না, এক ঘরে থাকাটা ঈমান হয়ে উঠল না। আমি ভাবি আমার ঠিকানাই আমাকে বাঁচাবে, আমার মসজিদ, যে পরিবারে জন্মেছি, যাঁর কাছে একদিন বসেছিলাম। আয়াত আরও কঠিন এক প্রশ্ন রাখে। সকাল যখন অন্যায় ছেড়ে বেরিয়ে পড়ার ডাক দেয়, আমি কি সত্যিই হাঁটি, নাকি শুধু কাছে দাঁড়িয়ে থাকা লোকদের একজন?",
+    "reflectionBn": "তিনি দোয়া করেছিলেন, আমাকে আর আমার পরিবারকে রক্ষা করো। জবাব আসে ঠিক পরের নিঃশ্বাসেই: আমি তাকে ও তার পরিবারের সবাইকে রক্ষা করলাম। ‘সবাই’ শব্দটা শুনতে যেন এক বন্ধ বৃত্ত, কেউ বাদ পড়েনি। তারপর বৃত্তটা খুলে যায়। সবাই, কেবল এক বৃদ্ধা ছাড়া, যে পেছনে থেকে গেল। সে লূত (আঃ)-এর পাশের মানুষটি, তাঁর নিজের স্ত্রী। যারা তাঁর ডাকে সাড়া দিয়েছিল তারা তাঁর সঙ্গে বেরিয়ে এল, আর যে তাঁর সঙ্গে এক ছাদের নিচে থাকত সে এল না। কাছে থাকাটা তাকে পার করাল না। আমি ভাবতে ভালোবাসি, আমার ঠিকানাই আমাকে বাঁচাবে, যে মসজিদে নামাজ পড়ি, যে পরিবারে জন্মেছি। আয়াত আরও কঠিন এক প্রশ্ন রাখে। যেদিন সকালে অন্যায় পেছনে ফেলে বেরিয়ে পড়তে হবে, আমি কি বেরিয়ে পড়া লোকদের একজন হব, নাকি শুধু কাছে দাঁড়িয়ে থাকা লোকদের?",
     "pointsEn": [
       "If nearness to good people were taken off my account, what faith of my own would be left standing?",
       "Whose house or circle am I quietly trusting to carry me, instead of my own answer to the call?",
@@ -11422,11 +11422,11 @@ const TADABBUR_NOTES = {
       "কোন স্পষ্ট হুকুম শুনেও আমি মানিনি, এই আশায় যে আমার সঙ্গের লোকেরাই আমার হয়ে দায় নেবে?"
     ],
     "lessonEn": "It is faith and response, not blood, marriage, or nearness to the righteous, that saves. A believing household was delivered; the wife who shared the house but not the faith was not.",
-    "lessonBn": "রক্ত, বিয়ে বা নেককারের সান্নিধ্য নয়, ঈমান আর সাড়া দেওয়াই রক্ষা করে। ঈমানদার পরিবার রক্ষা পেল, আর যে স্ত্রী ঘর ভাগ করেছিল কিন্তু ঈমান নয়, সে রক্ষা পায়নি।"
+    "lessonBn": "রক্ত, বিয়ে বা নেককারের সান্নিধ্য নয়, ঈমান আর সাড়া দেওয়াই রক্ষা করে। ঈমানদার পরিবার রক্ষা পেল, আর যে স্ত্রী তাঁর ঘরে ছিল কিন্তু ঈমানে ছিল না, সে রক্ষা পায়নি।"
   },
   "26:183": {
     "reflectionEn": "Shuʿayb stood among traders who had learned to shave a little off every measure, and told them to stop taking what was not theirs. Do not leave people short of what is owed them, he said, and do not roam the land as a wrecker. The first command names the small thefts that hide inside ordinary dealing: the weight that reads light, the hour not worked, the promise half kept. The second widens the frame. A life that takes from everyone it touches leaves the ground behind it poorer. The verse asks a plain question of any day's work. When I handed something over, did the other person get their full due, or did I keep back a sliver and still call the deal fair?",
-    "reflectionBn": "শু‘আয়ব (আঃ) দাঁড়িয়েছিলেন এমন ব্যবসায়ীদের সামনে, যারা প্রতিটি মাপ থেকে একটু করে কেটে নিতে শিখে গিয়েছিল। তিনি বললেন, মানুষের প্রাপ্য থেকে তাদের কম দিয়ো না, আর পৃথিবীতে বিপর্যয় ছড়িয়ে ঘুরে বেড়িয়ো না। প্রথম নির্দেশটা সেই ছোট ছোট চুরির কথা, যা সাধারণ লেনদেনের ভেতরেই লুকিয়ে থাকে। ওজন একটু কম পড়ে, কাজের সময়টা পুরো দেওয়া হয় না, কথা অর্ধেক রাখা হয়। দ্বিতীয় নির্দেশ ছবিটাকে আরও বড় করে দেখায়। যে জীবন ছোঁয়া সবকিছু থেকেই কিছু না কিছু নিয়ে নেয়, সে নিজের পেছনে জমিনটাকে আরও গরিব করে রেখে যায়। আয়াতটা দিনের যেকোনো কাজের সামনে সোজা এক প্রশ্ন রাখে। কাউকে কিছু বুঝিয়ে দেওয়ার সময় সে কি তার পুরো হক পেয়েছিল, নাকি আমি একটু সরিয়ে রেখে লেনদেনটাকে তবুও ন্যায্য বলে চালিয়ে দিয়েছি?",
+    "reflectionBn": "শু‘আয়ব (আঃ) দাঁড়িয়েছিলেন এমন ব্যবসায়ীদের সামনে, যারা প্রতিটি মাপ থেকে একটু করে কেটে নিতে শিখে গিয়েছিল। তিনি বললেন, মানুষের প্রাপ্য থেকে তাদের কম দিয়ো না, আর পৃথিবীতে বিপর্যয় ছড়িয়ে ঘুরে বেড়িয়ো না। প্রথম নির্দেশটা সেই ছোট ছোট চুরির কথা, যা সাধারণ লেনদেনের ভেতরেই লুকিয়ে থাকে। ওজন একটু কম পড়ে, কাজের সময়টা পুরো দেওয়া হয় না, কথা অর্ধেক রাখা হয়। দ্বিতীয় নির্দেশ ছবিটাকে আরও বড় করে দেখায়। যে জীবন যার সংস্পর্শে আসে তার কাছ থেকেই কিছু না কিছু নিয়ে নেয়, সে নিজের পেছনে জমিনটাকে আরও গরিব করে রেখে যায়। আয়াতটা দিনের যেকোনো কাজের সামনে সোজা এক প্রশ্ন রাখে। কাউকে কিছু বুঝিয়ে দেওয়ার সময় সে কি তার পুরো হক পেয়েছিল, নাকি আমি একটু সরিয়ে রেখে লেনদেনটাকে তবুও ন্যায্য বলে চালিয়ে দিয়েছি?",
     "pointsEn": [
       "Where in my ordinary dealing does a little quietly stay behind that belongs to someone else?",
       "When did I last give less than the full hour, effort or payment I had agreed to, and tell myself it was close enough?",
@@ -11435,18 +11435,18 @@ const TADABBUR_NOTES = {
       "If every measure I gave this week were weighed back into my own hand, would I want that same hand?"
     ],
     "pointsBn": [
-      "আমার সাধারণ লেনদেনের কোথায় অন্যের হক একটু করে চুপচাপ থেকে যায়?",
+      "আমার সাধারণ লেনদেনের কোথায় অন্যের হকের একটু অংশ চুপচাপ আমার কাছে থেকে যায়?",
       "শেষ কবে রাজি হওয়া পুরো সময়, শ্রম বা টাকা থেকে কম দিয়ে নিজেকে বুঝিয়েছি যে কাছাকাছিই তো হলো?",
       "যাদের কাছ থেকে কিনি, যাদের কাছে বেচি, যাদের হয়ে কাজ করি, তারা কি ঠিক ততটাই হাতে পায় যতটা তাদের পাওনা ছিল?",
       "আমার চারপাশে কী কী আমি আরও গরিব করে রেখেছি, আর সৎভাবে বললে তাকে গড়া বলব নাকি ভাঙা?",
-      "এ সপ্তাহে যে যে মাপ আমি দিয়েছি, তা যদি আমার নিজের হাতে ফিরে মাপা হতো, সেই একই হাত কি আমি চাইতাম?"
+      "এ সপ্তাহে যত মাপ আমি দিয়েছি, সেগুলো যদি ঠিক সেভাবেই মেপে আমার নিজের হাতে ফিরিয়ে দেওয়া হতো, আমি কি তাতে রাজি থাকতাম?"
     ],
     "lessonEn": "Give people the full measure of what you owe them, down to the last sliver, and do not leave the world around you poorer for your passing through it.",
     "lessonBn": "মানুষের প্রাপ্য তাদের পুরোপুরি বুঝিয়ে দিন, একটুও সরিয়ে না রেখে, আর নিজের চলার পথে চারপাশের দুনিয়াটাকে আরও গরিব করে রেখে যাবেন না।"
   },
   "26:165": {
     "reflectionEn": "A prophet stands before his own people and does not soften the matter into hints. He puts it as a question: of all the creatures in the worlds, do you go to the males and leave what your Lord made for you? A question is not only a verdict; it leaves a door ajar, inviting an answer, a turning back. He names a conduct, not a people to be hunted, and he names it because he came to warn, not to harm. The verse asks me, too, to keep what Allah made lawful and to meet a wrong with clear speech rather than cruelty. Do I confuse hating a wrong with despising a person? And do I leave the judging to the One who sees everything?",
-    "reflectionBn": "নবী দাঁড়িয়ে আছেন নিজের সম্প্রদায়ের সামনে, কথাটা তিনি আকার-ইঙ্গিতে নরম করে দেন না। প্রশ্ন করে বলেন, জগতের সব সৃষ্টির মধ্যে তোমরা কি পুরুষদের কাছে যাও, আর তোমাদের রব তোমাদের জন্য যা বানিয়েছেন তা ছেড়ে দাও? প্রশ্ন শুধু রায় নয়, প্রশ্ন একটা দরজা খোলা রাখে, জবাবের দিকে, ফিরে আসার দিকে ডাকে। তিনি একটা কাজকে চিহ্নিত করছেন, কোনো মানুষকে ধাওয়া করার জন্য নয়। তিনি এসেছেন সতর্ক করতে, ক্ষতি করতে নয়। আয়াতটি আমাকেও বলে, আল্লাহ যা হালাল করেছেন তা যেন আঁকড়ে ধরি, আর অন্যায়ের মোকাবিলা যেন করি স্পষ্ট কথায়, নিষ্ঠুরতায় নয়। অন্যায়কে ঘৃণা করা আর মানুষটিকে তুচ্ছ করা, এ দুটোকে কি আমি গুলিয়ে ফেলি? বিচারটা কি আমি তাঁর হাতেই ছাড়ি, যিনি সব দেখেন?",
+    "reflectionBn": "নবী দাঁড়িয়ে আছেন নিজের সম্প্রদায়ের সামনে, কথাটা তিনি আকার-ইঙ্গিতে নরম করে দেন না। প্রশ্ন করে বলেন, জগতের সব সৃষ্টির মধ্যে তোমরা কি পুরুষদের কাছে যাও, আর তোমাদের রব তোমাদের জন্য যা বানিয়েছেন তা ছেড়ে দাও? প্রশ্ন শুধু রায় নয়, প্রশ্ন একটা দরজা খোলা রাখে, জবাবের দিকে, ফিরে আসার দিকে ডাকে। তিনি নাম ধরছেন একটা আচরণের, তাড়া করে বেড়ানোর মতো কোনো জনগোষ্ঠীর নয়। আর নাম ধরছেন এ জন্য যে তিনি এসেছেন সতর্ক করতে, ক্ষতি করতে নয়। আয়াতটি আমাকেও বলে, আল্লাহ যা হালাল করেছেন তা যেন আঁকড়ে ধরি, আর অন্যায়ের মোকাবিলা যেন করি স্পষ্ট কথায়, নিষ্ঠুরতায় নয়। অন্যায়কে ঘৃণা করা আর মানুষটিকে তুচ্ছ করা, এ দুটোকে কি আমি গুলিয়ে ফেলি? বিচারটা কি আমি তাঁর হাতেই ছাড়ি, যিনি সব দেখেন?",
     "pointsEn": [
       "When I see something I know is wrong, do I name it plainly, or do I either stay silent or turn to cruelty?",
       "Is there a lawful good that Allah has set out for me that I am walking past for the sake of something He has forbidden?",
@@ -11462,11 +11462,11 @@ const TADABBUR_NOTES = {
       "নিজের লোকদের কঠিন সত্য বলতে হলে আমি কি তাদের ভালো চায় এমন কারও মতো বলি?"
     ],
     "lessonEn": "A prophet names the wrong plainly and points to the good Allah made lawful; he warns because he wants their rescue, and leaves the judging to Allah.",
-    "lessonBn": "নবী অন্যায়কে স্পষ্ট নাম ধরে বলেন আর আল্লাহর হালাল করা ভালোর দিকে ইশারা করেন। সতর্ক করেন কারণ তিনি তাদের বাঁচা চান, আর বিচারটা আল্লাহর হাতেই ছাড়েন।"
+    "lessonBn": "নবী অন্যায়কে স্পষ্ট নাম ধরে বলেন আর আল্লাহর হালাল করা ভালোর দিকে ইশারা করেন। সতর্ক করেন, কারণ তিনি চান তারা রক্ষা পাক, আর বিচারটা আল্লাহর হাতেই ছাড়েন।"
   },
   "26:178": {
     "reflectionEn": "He does not open with the demand. Before Shuʿayb (AS) asks anything of his people, he tells them who he has been among them: a messenger they can trust. The claim is not that his message is true because it is loud, or because he is many, but because his hands and his word have been safe for years. A caller is heard through the man who carries the call. So the verse turns a quiet question back on me. If I summoned the people closest to me to something good, would my past make them lean in, or look away? Is the thing I carry for others safe in my keeping?",
-    "reflectionBn": "শুআয়ব (আঃ) শুরুতেই কোনো দাবি তোলেন না। জাতির কাছে কিছু চাওয়ার আগে তিনি জানিয়ে দেন, তাদের মধ্যে তিনি কেমন মানুষ ছিলেন: এমন একজন রাসুল, যাঁকে তারা বিশ্বাস করতে পারে। কথাটা জোরে বলা হয়েছে বলে সত্য নয়, কিংবা তাঁর পেছনে লোক বেশি বলেও নয়। সত্য এ কারণে যে বছরের পর বছর তাঁর হাত আর তাঁর মুখের কথা নিরাপদ থেকেছে। ডাক মানুষ শোনে সেই মানুষকে দেখে, যে ডাক বয়ে আনে। তাই আয়াতটি চুপচাপ প্রশ্নটা আমার দিকেই ফিরিয়ে দেয়। কাছের মানুষদের যদি কোনো ভালো কাজে ডাকি, আমার অতীত কি তাদের এগিয়ে আসাবে, নাকি মুখ ফিরিয়ে নেবে? অন্যের যে জিনিস আমার হাতে, তা কি আমার কাছে নিরাপদ?",
+    "reflectionBn": "শুআয়ব (আঃ) শুরুতেই কোনো দাবি তোলেন না। জাতির কাছে কিছু চাওয়ার আগে তিনি জানিয়ে দেন, তাদের মধ্যে তিনি কেমন মানুষ ছিলেন: এমন একজন রসূল, যাঁকে তারা বিশ্বাস করতে পারে। কথাটা জোরে বলা হয়েছে বলে সত্য নয়, কিংবা তাঁর পেছনে লোক বেশি বলেও নয়। সত্য এ কারণে যে বছরের পর বছর তাঁর হাতে কারও কিছু খোয়া যায়নি, তাঁর কথায় কেউ ঠকেনি। ডাক মানুষ শোনে সেই মানুষকে দেখে, যে ডাক বয়ে আনে। তাই আয়াতটি চুপচাপ প্রশ্নটা আমার দিকেই ফিরিয়ে দেয়। কাছের মানুষদের যদি কোনো ভালো কাজে ডাকি, আমার অতীত দেখে তারা কি কাছে এগিয়ে আসবে, নাকি মুখ ফিরিয়ে নেবে? অন্যের যে জিনিস আমার হাতে, তা কি আমার কাছে নিরাপদ?",
     "pointsEn": [
       "Whose trust have I spent, and have I ever earned it back?",
       "If I called my family to something good tonight, would my record help me or argue against me?",
@@ -11475,18 +11475,18 @@ const TADABBUR_NOTES = {
       "What small dishonesty have I let myself keep, telling myself it is too small to matter?"
     ],
     "pointsBn": [
-      "কার বিশ্বাস আমি খরচ করেছি, আর কখনো কি তা আবার অর্জন করেছি?",
-      "আজ রাতে কাছের মানুষদের ভালো কিছুর দিকে ডাকলে আমার অতীত কি আমাকে সাহায্য করবে, নাকি আমার বিরুদ্ধে সাক্ষী দেবে?",
+      "কার আস্থা আমি খুইয়েছি, আর কখনো কি তা আবার ফিরিয়ে আনতে পেরেছি?",
+      "আজ রাতে পরিবারের মানুষদের ভালো কিছুর দিকে ডাকলে আমার অতীত কি আমাকে সাহায্য করবে, নাকি আমার বিরুদ্ধে সাক্ষী দেবে?",
       "এই মুহূর্তে কোনো কথা, গোপন বিষয় কিংবা দায়িত্ব কি আমার হাতে আছে, যা অটুট রাখার ভরসায় কেউ আমাকে দিয়েছে?",
       "সত্যের পক্ষে মুখ খুললে মানুষ কি কথাগুলো ওজন করে, নাকি আগে আমাকেই ওজন করে?",
       "কোন ছোট্ট অসততা আমি নিজের কাছে ধরে রেখেছি, নিজেকে বুঝিয়ে যে তা এত ছোট যে পাত্তা দেওয়ার দরকার নেই?"
     ],
     "lessonEn": "A call to good is believed through the one who carries it; guard your word and your trust, so that when you summon others, your life does not argue against your mouth.",
-    "lessonBn": "ভালোর দিকে ডাক মানুষ বিশ্বাস করে ডাকওয়ালাকে দেখে। নিজের কথা আর আমানত আগলে রাখুন, যেন অন্যকে ডাকার সময় আপনার জীবন আপনার মুখের বিরুদ্ধে সাক্ষী না দাঁড়ায়।"
+    "lessonBn": "ভালোর দিকে ডাক মানুষ বিশ্বাস করে, যে ডাকে তাকে দেখে। নিজের কথা আর আমানত আগলে রাখুন, যেন অন্যকে ডাকার সময় আপনার জীবন আপনার মুখের বিরুদ্ধে সাক্ষী না দাঁড়ায়।"
   },
   "26:186": {
     "reflectionEn": "The people of the Thicket give Shuʿayb their answer, and it comes in two moves. First, you are only a man like us, who eats and drinks as we do, so why should message come to you and not to us? Then the sting: and we think you a liar. Notice they do not say they know he lies. They say they think it. A suspicion, dressed up and sent out as a verdict. They wanted him ordinary because he was made of the same clay, and they condemned his truth on a hunch. How often do I let a guess about someone harden into a settled charge, while asking the world to be certain before it dares judge me?",
-    "reflectionBn": "আইকাবাসীরা শুআয়ব (আঃ)-কে জবাব দেয়, আর তা আসে দুটি ধাপে। প্রথমে বলে, তুমি আমাদেরই মতো একজন মানুষ, আমাদের মতোই খাও-দাও, তাহলে বার্তা তোমার কাছে আসবে কেন, আমাদের কাছে নয় কেন? এরপর বিষের কথাটা: আর আমরা তোমাকে মিথ্যাবাদী মনে করি। খেয়াল করুন, তারা বলছে না যে তারা জানে সে মিথ্যা বলে। তারা বলছে, মনে করে। এক সন্দেহ, সাজিয়ে-গুছিয়ে রায় বানিয়ে ছেড়ে দেওয়া হলো। তারা চেয়েছিল সে সাধারণ থাকুক, কারণ সে একই মাটির গড়া। আর তার সত্যকে তারা নাকচ করল নিছক আন্দাজে। কতবার আমি কারও সম্পর্কে একটা অনুমানকে পাকা অভিযোগে পরিণত করি, অথচ আমাকে বিচার করার আগে দুনিয়ার কাছে নিশ্চিত প্রমাণ দাবি করি?",
+    "reflectionBn": "আইকাবাসীরা শুআয়ব (আঃ)-কে জবাব দেয়, আর জবাবটা আসে দুই ধাপে। প্রথমে বলে, তুমি তো আমাদেরই মতো একজন মানুষ, আমাদের মতোই খাও-দাও, তাহলে বার্তা তোমার কাছে আসবে কেন, আমাদের কাছে নয় কেন? এরপর আসল খোঁচাটা: আর আমরা তো তোমাকে মিথ্যাবাদীই মনে করি। খেয়াল করুন, তারা বলছে না যে তারা জানে তিনি মিথ্যা বলছেন। তারা বলছে, তারা মনে করে। একটা সন্দেহকে সাজিয়ে-গুছিয়ে রায় বানিয়ে ছেড়ে দেওয়া হলো। তিনিও একই মাটির গড়া, তাই তারা তাঁকে নিছক সাধারণ বলেই রাখতে চাইল, আর তাঁর সত্যকে নাকচ করল নিছক আন্দাজে। কতবার আমি কারও সম্পর্কে একটা অনুমানকে পাকা অভিযোগ বানিয়ে ফেলি, অথচ আমাকে বিচার করার আগে দুনিয়ার কাছে নিশ্চিত হওয়ার দাবি করি?",
     "pointsEn": [
       "When did I last treat a suspicion about someone as though it were a settled fact?",
       "Do I demand proof before anyone may judge me, yet judge others on a mere guess?",
@@ -11501,12 +11501,12 @@ const TADABBUR_NOTES = {
       "কোন কথাকে আমি মিথ্যা বলে উড়িয়ে দিয়েছি, অথচ মনের গভীরে জানি সেটা মিথ্যা কিনা আমি নিশ্চিত নই?",
       "কার সুনাম আমি কোনো প্রমাণ ছাড়াই নিজের মনের ভেতর চুপচাপ নামিয়ে দিয়েছি?"
     ],
-    "lessonEn": "They condemned a truthful man as a liar on nothing but a hunch, while secretly sure of him. Do not let suspicion do the work that only knowledge should.",
-    "lessonBn": "তারা এক সত্যবাদী মানুষকে নিছক আন্দাজে মিথ্যাবাদী বানিয়ে দিল, অথচ ভেতরে ভেতরে তাকে নিয়ে নিশ্চিত ছিল। যে কাজ কেবল জ্ঞানের, সন্দেহকে তা করতে দেবেন না।"
+    "lessonEn": "They condemned a truthful man as a liar on nothing but a hunch. Do not let suspicion do the work that only knowledge should.",
+    "lessonBn": "তারা এক সত্যবাদী মানুষকে নিছক আন্দাজে মিথ্যাবাদী বানিয়ে দিল। যে কাজ কেবল জ্ঞানের, সন্দেহকে তা করতে দেবেন না।"
   },
   "26:198": {
     "reflectionEn": "Imagine the objection answered before it is spoken. They complained about the man who recited, about his tribe, about the words being too plain or not plain enough. So picture the opposite: the same message, carried by a stranger whose tongue they could barely follow, reciting it to them in flawless Arabic. Would they believe then? No. The verse strips away every excuse and leaves the one thing nobody wants to name: the refusal was never about the messenger or the language. It was about a heart that had already decided. It is easy to reject a truth and blame its packaging. Which truths have I waved away because of who carried them, or how they were said, when the real problem sat closer to home?",
-    "reflectionBn": "আপত্তিটা মুখে আসার আগেই যেন জবাব দেওয়া হয়ে গেছে। তারা দোষ ধরত যে পড়ছে তার, তার বংশের, কথাগুলো বড় বেশি সাদামাটা নাকি বড় বেশি কঠিন তা নিয়ে। তাই উল্টো ছবিটা ভাবুন। একই বার্তা, বয়ে আনছে এমন একজন অচেনা লোক যার ভাষা তারা ঠিকমতো বোঝেও না, অথচ সে তাদের সামনে নিখুঁত আরবিতে তা পড়ে শোনাচ্ছে। তখন কি তারা মানত? না। আয়াতটি সব অজুহাত কেড়ে নিয়ে সেই একটা কথাই রেখে দেয়, যা কেউ মুখে আনতে চায় না: অস্বীকারটা কখনোই বাহক বা ভাষার কারণে ছিল না। ছিল এমন এক অন্তরের কারণে, যে আগেই মন ঠিক করে ফেলেছে। সত্যকে নাকচ করে তার মোড়কের দোষ দেওয়া সহজ। কোন সত্যগুলো আমি উড়িয়ে দিয়েছি কে বলল বা কীভাবে বলল সেই অজুহাতে, যখন আসল সমস্যাটা ছিল আরও কাছে?",
+    "reflectionBn": "আপত্তিটা মুখে আসার আগেই যেন জবাব দেওয়া হয়ে গেছে। তারা দোষ ধরত তিলাওয়াতকারী মানুষটার, তাঁর গোত্রের, আবার কখনো বলত কথাগুলো বড্ড সাদামাটা, কখনো বলত যথেষ্ট স্পষ্ট নয়। তাই উল্টো ছবিটা ভাবুন। একই বার্তা, বয়ে আনছে এমন একজন অচেনা লোক যার ভাষা তারা ঠিকমতো বোঝেও না, অথচ সে তাদের সামনে নিখুঁত আরবিতে তা পড়ে শোনাচ্ছে। তখন কি তারা মানত? না। আয়াতটি সব অজুহাত কেড়ে নিয়ে সেই একটা কথাই রেখে দেয়, যা কেউ মুখে আনতে চায় না: অস্বীকারটা কখনোই বাহক বা ভাষার কারণে ছিল না। ছিল এমন এক অন্তরের কারণে, যে আগেই মন ঠিক করে ফেলেছে। সত্যকে নাকচ করে তার মোড়কের দোষ দেওয়া সহজ। কোন সত্যগুলো আমি উড়িয়ে দিয়েছি কে বলল বা কীভাবে বলল সেই অজুহাতে, অথচ আসল সমস্যাটা ছিল আমার নিজের ভেতরেই?",
     "pointsEn": [
       "When I dismiss a reminder, am I weighing what was said, or only who said it and how?",
       "What truth have I rejected lately by finding fault with the one who brought it?",
@@ -11518,7 +11518,7 @@ const TADABBUR_NOTES = {
       "কোনো উপদেশ উড়িয়ে দেওয়ার সময় আমি কি দেখি কী বলা হলো, নাকি শুধু কে বলল আর কীভাবে বলল?",
       "সম্প্রতি কোন সত্যকে আমি নাকচ করেছি শুধু বাহকের দোষ খুঁজে বের করে?",
       "কোন পরামর্শ আমি বারবার ফিরিয়ে দিই তার সুর বা উৎসের কারণে, অথচ ভেতরে ভেতরে জানি কথাটা ঠিক?",
-      "যে কথায় আমি বাধা দিই, তা যদি নিখুঁতভাবে এমন কারও মুখে আসত যাকে আমি দোষ দিতে পারি না, তখন কি মানতাম, নাকি নতুন অজুহাত খুঁজতাম?",
+      "যে কথা আমি মানতে চাই না, তা যদি নিখুঁতভাবে এমন কারও মুখে আসত যাকে আমি দোষ দিতে পারি না, তখন কি মানতাম, নাকি নতুন অজুহাত খুঁজতাম?",
       "কে বলছে তা জিজ্ঞেস করা ছেড়ে যদি জিজ্ঞেস করি কথাটা সত্য কিনা, তাহলে কী বদলে যেত?"
     ],
     "lessonEn": "When a truth meets resistance, the barrier is usually the heart, not the messenger or the words; stop faulting who carried it and ask honestly whether it is true.",
@@ -11546,7 +11546,7 @@ const TADABBUR_NOTES = {
   },
   "26:214": {
     "reflectionEn": "The command arrives in three words: warn your nearest kindred. Before the message goes out to the world, it is pointed inward, at the people who share your name and your table. That is a strange place to begin, because the nearest are the hardest to warn. We let closeness soften the truth; we assume the people we love are somehow already safe. This verse refuses that. The ones with the first claim on your love have the first claim on the warning, and warning them is not harshness but the purest form of care. So the question comes home. Who are my nearest? Have I let nearness become a reason to stay silent with them, or with myself, about what matters most?",
-    "reflectionBn": "হুকুমটা আসে মাত্র তিন শব্দে: তোমার নিকটতম স্বজনদের সতর্ক কর। বার্তা গোটা দুনিয়ায় ছড়িয়ে পড়ার আগে তা আগে তাক করা হয় ভেতরের দিকে, যারা আপনার নাম আর আপনার দস্তরখান ভাগ করে তাদের দিকে। শুরুর জন্য জায়গাটা অদ্ভুত, কারণ কাছের মানুষকেই সতর্ক করা সবচেয়ে কঠিন। কাছের বলে আমরা কথাটা নরম করে ফেলি, ধরে নিই যাদের ভালোবাসি তারা যেন এমনিতেই নিরাপদ। এ আয়াত সেটা মানে না। আপনার ভালোবাসার উপর যাদের প্রথম দাবি, সতর্কবার্তার উপরও তাদেরই প্রথম দাবি। আর তাদের সতর্ক করা কঠোরতা নয়, যত্নের সবচেয়ে খাঁটি রূপ। তাই প্রশ্নটা ঘুরে আসে নিজের ঘরে। আমার নিকটতম কারা? কাছের মানুষ বলেই কি আমি তাদের সঙ্গে, কিংবা নিজের সঙ্গে, সবচেয়ে জরুরি কথাটা নিয়ে চুপ করে থাকার অজুহাত বানিয়ে ফেলেছি?",
+    "reflectionBn": "হুকুমটা আসে মাত্র তিন শব্দে: তোমার নিকটতম স্বজনদের সতর্ক কর। বার্তা গোটা দুনিয়ায় ছড়িয়ে পড়ার আগে তার মুখ ফেরানো হয় ভেতরের দিকে, যারা আপনার নাম আর আপনার দস্তরখান ভাগ করে তাদের দিকে। শুরুর জন্য জায়গাটা অদ্ভুত, কারণ কাছের মানুষকেই সতর্ক করা সবচেয়ে কঠিন। কাছের বলে আমরা কথাটা নরম করে ফেলি, ধরে নিই যাদের ভালোবাসি তারা যেন এমনিতেই নিরাপদ। এ আয়াত সেটা মানে না। আপনার ভালোবাসার উপর যাদের প্রথম দাবি, সতর্কবার্তার উপরও তাদেরই প্রথম দাবি। আর তাদের সতর্ক করা কঠোরতা নয়, যত্নের সবচেয়ে খাঁটি রূপ। তাই প্রশ্নটা ঘুরে আসে নিজের ঘরে। আমার নিকটতম কারা? কাছের মানুষ বলেই কি আমি তাদের সঙ্গে, কিংবা নিজের সঙ্গে, সবচেয়ে জরুরি কথাটা নিয়ে চুপ করে থাকার অজুহাত বানিয়ে ফেলেছি?",
     "pointsEn": [
       "Who are the 'nearest kindred' in my life, and when did I last speak to them about something that truly matters, not just what is easy?",
       "Where have I let love for someone become a reason to stay quiet when they needed the truth?",
@@ -11559,14 +11559,14 @@ const TADABBUR_NOTES = {
       "কারও প্রতি ভালোবাসাকে আমি কোথায় চুপ থাকার কারণ বানিয়েছি, যখন তার সত্যটা জানা দরকার ছিল?",
       "অন্যকে যে সতর্কবার্তা দিই, নিজেকেও কি সেই একই মাপে ধরি, নাকি চুপচাপ ধরে নিই আমি এর বাইরে?",
       "ভালোবাসার মানুষকে সতর্ক করা যদি যত্নেরই অংশ হয়, তবে সবচেয়ে কোমল আর স্পষ্ট ভাবে তা আমি কীভাবে করতে পারি?",
-      "আমার সততার উপর কার প্রথম দাবি ছিল, যাকে কেবল কাছের মানুষ বলে আমি পিছিয়ে দিয়ে রেখেছি?"
+      "আমার সততার উপর প্রথম দাবি যার, এমন কাকে আমি ‘কাছের মানুষ, পরে হলেও চলবে’ ভেবে পিছিয়ে রেখেছি?"
     ],
     "lessonEn": "Begin with those closest to you. The people you love most have the first claim on the truth you carry, and warning them is not harshness but the deepest form of care.",
     "lessonBn": "শুরু করুন সবচেয়ে কাছের মানুষ দিয়ে। আপনি যাদের সবচেয়ে ভালোবাসেন, আপনার বহন করা সত্যের উপর তাদেরই প্রথম দাবি। তাদের সতর্ক করা কঠোরতা নয়, যত্নের সবচেয়ে গভীর রূপ।"
   },
   "26:193": {
     "reflectionEn": "Before the words reached a single human ear, they had already passed through hands that could not fail them. The verse names the courier: a Spirit called trustworthy, carrying a message from the Lord of all beings to a Prophet his own people were calling a liar. Nothing was added on the way down, nothing dropped. The Book in your hands arrived by a chain in which every link was faithful. That is the quiet claim under the whole page: what you are reading is not invented, not garbled, not a rumor that grew in the retelling. So the question turns back on the reader. Do I receive it as something trusted, or handle it as carelessly as I handle everything else?",
-    "reflectionBn": "কথাগুলো কোনো মানুষের কানে পৌঁছানোর আগেই এমন হাত ঘুরে এসেছে, যে হাত কখনো এর খেয়ানত করতে পারে না। আয়াত বাহকের নাম বলে দেয়: এক আমানতদার আত্মা, যিনি জগতসমূহের প্রতিপালকের কাছ থেকে বার্তা বয়ে আনছেন সেই নবীর (ﷺ) কাছে, যাঁকে তাঁর নিজের জাতি মিথ্যাবাদী বলছিল। নামার পথে কিছু যোগ হয়নি, কিছু বাদ পড়েনি। আপনার হাতের কিতাব এসেছে এমন এক সিলসিলা ধরে, যার প্রতিটি কড়ি ছিল বিশ্বস্ত। গোটা আয়াতের নিচে চাপা দাবিটা এটাই: আপনি যা পড়ছেন তা বানানো নয়, এলোমেলো নয়, মুখে মুখে বেড়ে ওঠা কোনো গুজবও নয়। তাই প্রশ্নটা পাঠকের দিকেই ফিরে আসে। আমি কি একে আমানত হিসেবে গ্রহণ করি, নাকি বাকি সব কিছুর মতোই অযত্নে নাড়াচাড়া করি?",
+    "reflectionBn": "কথাগুলো কোনো মানুষের কানে পৌঁছানোর আগেই এমন হাত ঘুরে এসেছে, যে হাত কখনো এর খেয়ানত করতে পারে না। আয়াত বাহকের নাম বলে দেয়: এক আমানতদার রূহ, যিনি জগতসমূহের প্রতিপালকের কাছ থেকে বার্তা বয়ে আনছেন সেই নবীর (ﷺ) কাছে, যাঁকে তাঁর নিজের জাতি মিথ্যাবাদী বলছিল। নামার পথে কিছু যোগ হয়নি, কিছু বাদ পড়েনি। আপনার হাতের কিতাব এসেছে এমন এক সিলসিলা ধরে, যার প্রতিটি কড়া ছিল বিশ্বস্ত। গোটা আয়াতের নিচে চাপা দাবিটা এটাই: আপনি যা পড়ছেন তা বানানো নয়, এলোমেলো নয়, মুখে মুখে বেড়ে ওঠা কোনো গুজবও নয়। তাই প্রশ্নটা পাঠকের দিকেই ফিরে আসে। আমি কি একে আমানত হিসেবে গ্রহণ করি, নাকি বাকি সব কিছুর মতোই অযত্নে নাড়াচাড়া করি?",
     "pointsEn": [
       "When I open the Qur'an, do I handle it as something that reached me trusted, or as just another thing to get through?",
       "What have I passed on this week, a story or a verdict about someone, with less care for its truth than the Spirit took with every word he carried?",
@@ -11576,7 +11576,7 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "কুরআন যখন খুলি, আমি কি একে আমানত হিসেবে পাওয়া কিছু বলে ধরি, নাকি আর দশটা কাজের মতোই সেরে ফেলার জিনিস?",
-      "এ সপ্তাহে কোন কথা, কোন কাহিনি বা কারও সম্পর্কে কোন রায় আমি এমন অযত্নে ছড়িয়েছি, যে যত্ন আত্মা প্রতিটি শব্দ বয়ে আনতে দেখিয়েছিলেন?",
+      "এ সপ্তাহে কোন কাহিনি বা কারও সম্পর্কে কোন রায় আমি অন্যকে বলেছি, অথচ তার সত্যতা নিয়ে ততটুকু যত্নও নিইনি, যতটা যত্ন রূহ প্রতিটি শব্দ বয়ে আনতে নিয়েছিলেন?",
       "যা শুনি তাতে নিজের মতো যোগ-বিয়োগ করে কি অন্যকে বলি, নাকি পুরোটা অবিকৃত রেখে পৌঁছে দিই?",
       "কিতাব যদি আমার কাছে বিশ্বস্ত এক সিলসিলা ধরে এসে থাকে, নিজের হাতে আর নিজের জবানে সেই আমানত রক্ষায় আমি কী করছি?",
       "আশেপাশের লোক যখন কুরআনকে মানুষের বানানো বা সেকেলে বলে, তাদের রায় কি আমাকে টলিয়ে দেয়, নাকি আমি জানি এ কোথা থেকে এসেছে?"
@@ -11586,7 +11586,7 @@ const TADABBUR_NOTES = {
   },
   "26:227": {
     "reflectionEn": "A whole passage has just condemned the poets who wander every valley and say what they never do. Then one word turns everything: except. Except those who believed, did good, remembered Allah often, and answered back only after they had been wronged. The same gift of speech that once served lies is handed back, cleaned, to serve the truth. Notice the order. Faith, good deeds, and remembrance come first; the defending comes last, and only after a wrong, and even then within limits. It is a measured permission, not a licence to wound. When someone strikes at what I hold sacred, do I answer to defend the truth, or only to win? And does my tongue remember Allah more than it keeps score?",
-    "reflectionBn": "একটু আগেই পুরো আলোচনা সেই কবিদের নিন্দা করল যারা প্রতি ময়দানে উদভ্রান্ত হয়ে ঘোরে আর যা বলে তা নিজেরা করে না। তারপর একটি শব্দ সব ঘুরিয়ে দেয়: কিন্তু। কিন্তু তারা নয়, যারা ঈমান এনেছে, সৎ আমল করেছে, আল্লাহকে খুব বেশি স্মরণ করেছে, আর অন্যায়ের শিকার হওয়ার পরই কেবল জবাব দিয়েছে। কথার যে শক্তি একদিন মিথ্যার কাজে লেগেছিল, তা-ই পরিষ্কার হয়ে ফিরে এল সত্যের কাজে। ক্রমটা খেয়াল করুন। আগে ঈমান, আমল আর জিকির। জবাব দেওয়া আসে সবার শেষে, তা-ও কেবল অন্যায়ের পর, আর তখনও সীমার ভেতরে থেকে। এ এক মাপা অনুমতি, কাউকে বিদ্ধ করার ছাড়পত্র নয়। আমার কাছে যা পবিত্র, তাতে কেউ আঘাত করলে আমি কি সত্য রক্ষার জন্য জবাব দিই, নাকি শুধু জিততে চাই? আর আমার জিভ কি হিসাব কষার চেয়ে বেশি আল্লাহকে স্মরণ করে?",
+    "reflectionBn": "একটু আগেই পুরো আলোচনা সেই কবিদের নিন্দা করল যারা প্রতিটি উপত্যকায় উদভ্রান্ত হয়ে ঘোরে আর যা বলে তা নিজেরা করে না। তারপর একটি শব্দ সব ঘুরিয়ে দেয়: কিন্তু। কিন্তু তারা নয়, যারা ঈমান এনেছে, সৎ আমল করেছে, আল্লাহকে খুব বেশি স্মরণ করেছে, আর অন্যায়ের শিকার হওয়ার পরই কেবল জবাব দিয়েছে। কথার যে শক্তি একদিন মিথ্যার কাজে লেগেছিল, তা-ই পরিষ্কার হয়ে ফিরে এল সত্যের কাজে। ক্রমটা খেয়াল করুন। আগে ঈমান, আমল আর জিকির। জবাব দেওয়া আসে সবার শেষে, তা-ও কেবল অন্যায়ের পর, আর তখনও সীমার ভেতরে থেকে। এ এক মাপা অনুমতি, কাউকে বিদ্ধ করার ছাড়পত্র নয়। আমার কাছে যা পবিত্র, তাতে কেউ আঘাত করলে আমি কি সত্য রক্ষার জন্য জবাব দিই, নাকি শুধু জিততে চাই? আর আমার জিভ কি পাল্টা হিসাব রাখার চেয়ে বেশি আল্লাহকে স্মরণ করে?",
     "pointsEn": [
       "When something I hold sacred is mocked, is my reply a defence of the truth, or just a way to win the exchange?",
       "Faith, good deeds, and remembrance come before any permission to answer back. Is that the order in me, or do I reach for the reply first?",
@@ -11597,7 +11597,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "আমার কাছে পবিত্র কোনো কিছুকে বিদ্রুপ করা হলে আমার জবাবটা কি সত্যের পক্ষে দাঁড়ানো, নাকি নিছক তর্কে জেতা?",
       "যে কোনো জবাবের অনুমতির আগে আসে ঈমান, সৎ আমল আর জিকির। আমার ভেতরে কি এই ক্রম আছে, নাকি আমি আগে জবাবটাই খুঁজি?",
-      "নির্যাতিতের জবাব দেওয়ার অধিকার আছে, তবে ন্যায়ের সীমার ভেতরে। আমার প্রতিরক্ষা কোথায় চুপিসারে আঘাতে বদলে গেছে?",
+      "নির্যাতিতের জবাব দেওয়ার অধিকার আছে, তবে ন্যায়ের সীমার ভেতরে। আমার নিজেকে রক্ষা করা কোথায় চুপিসারে অন্যকে আঘাত করায় গড়িয়েছে?",
       "তর্ক, রসিকতা বা অভিযোগের তুলনায় আমার জিভ আসলে কতবার আল্লাহকে স্মরণ করে?",
       "আমি যা সবচেয়ে বেশি ব্যবহার করি, সেই কথার শক্তি যদি পরিষ্কার হয়ে আমার হাতে ফিরে আসত, তবে তা কী বলা বন্ধ করত?"
     ],
@@ -11606,7 +11606,7 @@ const TADABBUR_NOTES = {
   },
   "27:3": {
     "reflectionEn": "The surah has just called the Qur'an guidance and good news. Before you can ask who receives it, this verse answers with three marks: they establish the prayer, they give the zakah, and they are certain of the Hereafter. The order repays attention. Certainty comes last in the sentence but first in cause. Because the return to God is real to them, the prayer stands and the wealth moves. Faith here is not a word kept on the tongue but a life that shows it. The question the verse leaves with you is both simple and hard: does what you say you believe actually reach your hands and your money?",
-    "reflectionBn": "সূরাটা এইমাত্র কুরআনকে বলল পথের দিশা ও সুসংবাদ। কারা এই সুসংবাদ পাবে, সে প্রশ্ন ওঠার আগেই আয়াতটি তিনটি চিহ্ন দিয়ে তাদের চিনিয়ে দেয়: তারা নামায কায়েম করে, যাকাত আদায় করে, আর আখিরাত নিয়ে তারা নিশ্চিত। ক্রমটা খেয়াল করার মতো। নিশ্চয়তা বাক্যের শেষে এলেও কারণের দিক থেকে সবার আগে। আল্লাহর কাছে ফিরে যাওয়াটা তাদের কাছে সত্য বলেই নামাযটা দাঁড়ায় আর সম্পদটা গড়ায়। এখানে ঈমান মুখে ধরে রাখা কোনো কথা নয়, জীবন দিয়ে দেখানো জিনিস। আয়াতটি আপনার সামনে সহজ অথচ কঠিন একটা প্রশ্ন রেখে যায়: আপনি যা বিশ্বাস করেন বলেন, তা কি সত্যিই আপনার হাত আর আপনার টাকায় পৌঁছায়?",
+    "reflectionBn": "সূরাটা এইমাত্র কুরআনকে বলল পথের দিশা ও সুসংবাদ। কারা এই সুসংবাদ পাবে, সে প্রশ্ন ওঠার আগেই আয়াতটি তিনটি চিহ্ন দিয়ে তাদের চিনিয়ে দেয়: তারা নামায কায়েম করে, যাকাত আদায় করে, আর আখিরাত নিয়ে তারা নিশ্চিত। ক্রমটা খেয়াল করার মতো। নিশ্চয়তা বাক্যের শেষে এলেও কারণের দিক থেকে সবার আগে। আল্লাহর কাছে ফিরে যাওয়াটা তাদের কাছে সত্য বলেই নামায কায়েম হয়, আর সম্পদও হাত থেকে বেরোয়। এখানে ঈমান মুখে ধরে রাখা কোনো কথা নয়, জীবন দিয়ে দেখানো জিনিস। আয়াতটি আপনার সামনে সহজ অথচ কঠিন একটা প্রশ্ন রেখে যায়: আপনি যা বিশ্বাস করেন বলেন, তা কি সত্যিই আপনার হাত আর আপনার টাকায় পৌঁছায়?",
     "pointsEn": [
       "When I stand to pray, am I truly establishing it, or only getting the movements done before I move on to the next thing?",
       "Does my zakah actually leave my hand and reach someone who needs it, or does it stay a number I keep meaning to give?",
@@ -11619,14 +11619,14 @@ const TADABBUR_NOTES = {
       "আমার যাকাত কি সত্যিই হাত থেকে বেরিয়ে কোনো অভাবীর কাছে পৌঁছায়, নাকি দেব-দেব করা একটা সংখ্যা হয়েই থেকে যায়?",
       "সাধারণ এক দুপুরে আখিরাত আমার কাছে কতটা সত্য, আজকের একটা সিদ্ধান্ত বদলে দেওয়ার মতো সত্য কি?",
       "কেউ যদি আমার কথা না শুনে শুধু আমার সপ্তাহটা দেখত, এই আয়াতের তিনটি চিহ্ন কি সে আমার মধ্যে খুঁজে পেত?",
-      "আল্লাহর কাছে ফেরা নিয়ে সত্যিকারের নিশ্চয়তা থাকলে যে ভালো কাজটা আজই করতাম, তা কি ফেলে রেখেছি?"
+      "কোন ভালো কাজ আমি ফেলে রেখেছি, যা আল্লাহর কাছে ফেরা নিয়ে সত্যিকারের নিশ্চয়তা থাকলে আজই করে ফেলতাম?"
     ],
     "lessonEn": "Faith shows itself in a prayer that is truly stood, a zakah that reaches a hand, and a certainty about the Hereafter real enough to move today's choices.",
-    "lessonBn": "ঈমান ধরা পড়ে তিন জায়গায়: সত্যিকারের দাঁড়ানো নামাযে, হাতে পৌঁছানো যাকাতে, আর আখিরাত নিয়ে এমন নিশ্চয়তায় যা আজকের সিদ্ধান্তকেই নাড়িয়ে দেয়।"
+    "lessonBn": "ঈমান ধরা পড়ে তিন জায়গায়: সত্যিই কায়েম করা নামাযে, অভাবীর হাতে পৌঁছানো যাকাতে, আর আখিরাত নিয়ে এমন নিশ্চয়তায়, যা আজকের সিদ্ধান্তকেই নাড়িয়ে দেয়।"
   },
   "26:219": {
     "reflectionEn": "When you rise in the dark to pray, someone is watching. Not a guard counting your faults, but the One who told you, two verses earlier, to lean on Him as the Mighty and the Merciful. He sees you stand, bow, and go down in prostration. He sees you move from your lonely night prayer into the rows of those who pray beside you. The commentators read your turning in more than one way, yet they agree on the gaze: close, attentive, kind. The question the verse leaves me is not whether I am seen. It is who I think is doing the seeing, and whether that nearness steadies me or I had forgotten it was there at all.",
-    "reflectionBn": "অন্ধকারে উঠে যখন আপনি নামাযে দাঁড়ান, তখন একজন আপনাকে দেখছেন। তিনি দোষ গুনে রাখা কোনো প্রহরী নন। দুই আয়াত আগে তিনিই তো বলেছেন তাঁর উপর ভরসা করতে, যিনি পরাক্রমশালী ও পরম দয়ালু। তিনি দেখেন আপনি দাঁড়ান, রুকু করেন, সিজদায় লুটিয়ে পড়েন। তিনি দেখেন আপনি একাকী রাতের নামায থেকে সরে এসে পাশের সিজদাকারীদের কাতারে মেশেন। আপনার এই চলাফেরাকে তাফসীরকারেরা একাধিকভাবে পড়েন, তবু দৃষ্টির ব্যাপারে তাঁরা একমত: কাছের, মনোযোগী, স্নেহভরা। আয়াতটি আমার সামনে যে প্রশ্ন রাখে তা এই নয় যে আমাকে দেখা হচ্ছে কি না। প্রশ্নটা হলো, দেখছেন কে বলে আমি ভাবি, আর সেই নৈকট্য আমাকে স্থির করে, নাকি তা যে ছিল সেটাই আমি ভুলে বসেছিলাম।",
+    "reflectionBn": "অন্ধকারে উঠে যখন আপনি নামাযে দাঁড়ান, তখন একজন আপনাকে দেখছেন। তিনি দোষ গুনে রাখা কোনো প্রহরী নন। দুই আয়াত আগে তিনিই তো আপনাকে বলেছেন, পরাক্রমশালী, পরম দয়ালু হিসেবে তাঁর উপরই ভরসা করতে। তিনি দেখেন আপনি দাঁড়ান, রুকু করেন, সিজদায় লুটিয়ে পড়েন। তিনি দেখেন আপনি একাকী রাতের নামায থেকে সরে এসে পাশের সিজদাকারীদের কাতারে মেশেন। আপনার এই চলাফেরাকে তাফসীরকারেরা একাধিকভাবে ব্যাখ্যা করেন, তবু দৃষ্টির ব্যাপারে তাঁরা একমত: কাছের, মনোযোগী, স্নেহভরা। আয়াতটি আমার সামনে যে প্রশ্ন রাখে তা এই নয় যে আমাকে দেখা হচ্ছে কি না। প্রশ্নটা হলো, আমার ধারণায় কে দেখছেন, আর সেই নৈকট্য কি আমাকে স্থির রাখে, নাকি তা যে আছে সেটাই আমি ভুলে বসেছিলাম।",
     "pointsEn": [
       "When I stand to pray, am I aware that I am being watched with care, or do I pray as if the room were empty?",
       "What changes in my bowing and prostration when I remember who is looking, and why does that awareness fade so quickly?",
@@ -11637,12 +11637,12 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "নামাযে দাঁড়ানোর সময় আমি কি টের পাই যে আমাকে স্নেহভরে দেখা হচ্ছে, নাকি ঘরটা খালি ধরে নিয়েই নামায পড়ি?",
       "দেখছেন কে, এটা মনে পড়লে আমার রুকু-সিজদায় কী বদলায়? আর সেই খেয়ালটা এত তাড়াতাড়ি মিলিয়ে যায় কেন?",
-      "আল্লাহ আমাকে দেখছেন, এটাকে কি আমি পালিয়ে বাঁচার ভয় মনে করি, নাকি কাছে টেনে নেওয়া নৈকট্য?",
+      "আল্লাহ আমাকে দেখছেন, এটাকে কি আমি পালিয়ে বাঁচার মতো ভয় মনে করি, নাকি এমন নৈকট্য, যাতে ভর দেওয়া যায়?",
       "সিজদাকারীদের কাতারে মিশলে আমি কি একাকী নামাযের মনোযোগটাই সঙ্গে আনি, নাকি তার কম?",
       "সারা দিনের চলাফেরা যদি যেভাবে দেখা হয় সেভাবে আমার সামনে তুলে ধরা হতো, কোনটা বদলাতে আমি সবচেয়ে বেশি চাইতাম?"
     ],
     "lessonEn": "You are never praying unseen: the One you lean on watches you stand, bow, and prostrate with the nearness of care, not the eye of a threat.",
-    "lessonBn": "আপনার নামায কখনোই অদেখা নয়। যাঁর উপর আপনি ভরসা করেন, তিনিই আপনার দাঁড়ানো, রুকু ও সিজদা দেখেন ভয়ের চোখে নয়, কাছে টানা স্নেহে।"
+    "lessonBn": "আপনার নামায কখনোই অদেখা নয়। যাঁর উপর আপনি ভরসা করেন, তিনিই আপনার দাঁড়ানো, রুকু আর সিজদা দেখেন, শাসানির চোখে নয়, কাছে থাকার মমতায়।"
   },
   "27:7": {
     "reflectionEn": "A man is lost at night with his family, cold and off the road, and far off he catches sight of a fire. He does not announce a discovery; he says what he hopes to bring back: news of the way they have missed, or a burning brand so they can warm themselves. Both are small, ordinary wants, directions and heat on a bitter night. He sets off toward the flame, and what waits for him there is the voice of his Lord and the start of his prophethood. The lesson is not that he planned well. It is that Allah can hide the turning point of a whole life inside an errand as plain as going to fetch some fire.",
@@ -11662,11 +11662,11 @@ const TADABBUR_NOTES = {
       "আমি কি ছোট জিনিসটা চেয়ে আল্লাহর জন্য বড়টা দেওয়ার জায়গা রাখি, নাকি আগেই ঠিক করে ফেলি আমার দোয়া কীভাবে কবুল হবে?"
     ],
     "lessonEn": "Go and do the ordinary work your needs require, trusting Allah rather than your own effort; the small errand you set out on may be where He meets you.",
-    "lessonBn": "প্রয়োজনের সাধারণ কাজটা করুন নিজের চেষ্টায় নয়, আল্লাহর উপর ভরসা রেখে; যে ছোট কাজে বেরোচ্ছেন, হয়তো সেখানেই তিনি আপনার সাথে দেখা করবেন।"
+    "lessonBn": "প্রয়োজন মেটাতে সাধারণ কাজগুলো করে যান, ভরসা রাখুন নিজের চেষ্টার উপর নয়, আল্লাহর উপর। যে ছোট কাজে বেরোচ্ছেন, হয়তো সেখানেই তিনি আপনার সঙ্গে দেখা করবেন।"
   },
   "27:12": {
     "reflectionEn": "Moses is told to slip his hand into the fold of his garment and draw it out, and it comes out shining white. The verse adds that it is without disease. The brightness is a miracle, not a blemish, and the phrase rules out the ugly reading before anyone can reach for it. This hand, and the staff before it, are two of nine signs Moses will carry to Pharaoh. Before God sends a lone man against the mightiest ruler of his age, He arms him with proof that cannot be argued away. The question left for me is quieter. When truth is set plainly before me, clear as a lit hand in the dark, do I follow it, or hunt for a word to wave it off?",
-    "reflectionBn": "মূসাকে বলা হলো, নিজের জামার বুকের ফাঁকে হাত ঢুকিয়ে বের করো। বের হয়ে এলো ঝলমলে সাদা হাত। আয়াত সঙ্গে সঙ্গে বলে দেয়, এ শুভ্রতা কোনো রোগ নয়, দোষমুক্ত। উজ্জ্বলতাটা মুজিজা, কোনো খুঁত নয়। কেউ বাজে মানে বের করার আগেই কথাটা সে পথ বন্ধ করে দেয়। এই হাত, আর তার আগের লাঠি, ফেরাউনের কাছে নিয়ে যাওয়া নয়টি নিদর্শনের দুটি। যুগের সবচেয়ে ক্ষমতাধর শাসকের মুখোমুখি একা একজন মানুষকে পাঠানোর আগে আল্লাহ তাকে এমন প্রমাণ দিয়ে সাজান, যা অস্বীকার করা যায় না। আমার জন্য প্রশ্নটা আরও চাপা। সত্য যখন সামনে স্পষ্ট হয়ে দাঁড়ায়, অন্ধকারে জ্বলে ওঠা হাতের মতো পরিষ্কার, আমি কি তা মেনে নিই, নাকি উড়িয়ে দেওয়ার মতো একটা কথা খুঁজি?",
+    "reflectionBn": "মূসা (আঃ)-কে বলা হলো, নিজের জামার বুকের ফাঁকে হাত ঢুকিয়ে বের করো। বের হয়ে এলো ঝলমলে সাদা হাত। আয়াত সঙ্গে সঙ্গে বলে দেয়, এ শুভ্রতা কোনো রোগ নয়, দোষমুক্ত। উজ্জ্বলতাটা মুজিজা, কোনো খুঁত নয়। কেউ বাজে মানে বের করার আগেই কথাটা সে পথ বন্ধ করে দেয়। এই হাত, আর তার আগের লাঠি, ফেরাউনের কাছে নিয়ে যাওয়া নয়টি নিদর্শনের দুটি। যুগের সবচেয়ে ক্ষমতাধর শাসকের মুখোমুখি একা একজন মানুষকে পাঠানোর আগে আল্লাহ তাঁকে এমন প্রমাণ দিয়ে সাজান, যা অস্বীকার করা যায় না। আমার জন্য রেখে যাওয়া প্রশ্নটা আরও নীরব। সত্য যখন সামনে স্পষ্ট হয়ে দাঁড়ায়, অন্ধকারে জ্বলে ওঠা হাতের মতো পরিষ্কার, আমি কি তা মেনে নিই, নাকি উড়িয়ে দেওয়ার মতো একটা কথা খুঁজি?",
     "pointsEn": [
       "When a right course is shown to me as plainly as a hand lit in the dark, do I take it, or wait for an excuse to delay?",
       "What clear sign of God's care have I grown so used to that I no longer count it as a sign?",
@@ -11676,17 +11676,17 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "অন্ধকারে জ্বলে ওঠা হাতের মতো পরিষ্কার করে যখন সঠিক পথ আমার সামনে ধরা হয়, আমি কি তা ধরি, নাকি দেরি করার একটা অজুহাত খুঁজি?",
-      "আল্লাহর যত্নের কোন স্পষ্ট নিদর্শন আমি এত অভ্যস্ত হয়ে গেছি যে আর সেটাকে নিদর্শন বলেই গুনি না?",
+      "আল্লাহর যত্নের কোন স্পষ্ট নিদর্শনে আমি এত অভ্যস্ত হয়ে গেছি যে আর সেটাকে নিদর্শন বলেই গুনি না?",
       "কার সৎ, প্রমাণিত পরামর্শ আমি শুধু অহংকারে লাগবে বলে উড়িয়ে দিয়েছি?",
-      "কঠিন কিছুর মুখোমুখি হওয়ার আগে আমি কি আল্লাহর কাছে সরঞ্জাম চাই, নাকি নিরস্ত্র অবস্থায় পড়ে গিয়ে শুধু অভিযোগ করি?",
-      "সত্য কথা যখন ছড়ানোর মতো করে হাতে পাই, আমি কি যত্ন নিয়ে তা গুছিয়ে নিই, নাকি শুধু নিজের কথায় লোকে বিশ্বাস করবে ধরে নিই?"
+      "কঠিন কিছুর মুখোমুখি হওয়ার আগে আমি কি আল্লাহর কাছে প্রস্তুতি আর শক্তি চাই, নাকি খালি হাতে তাতে পড়ে গিয়ে শুধু অভিযোগ করি?",
+      "অন্যকে জানানোর মতো কোনো সত্য যখন আমার হাতে থাকে, আমি কি যত্ন নিয়ে তা গুছিয়ে নিই, নাকি ধরে নিই শুধু আমার মুখের কথাতেই লোকে বিশ্বাস করবে?"
     ],
     "lessonEn": "God gives His messenger clear proof before sending him to a hard task. When truth is set plainly before you, follow it instead of hunting for a reason to look away.",
     "lessonBn": "কঠিন কাজে পাঠানোর আগেই আল্লাহ তাঁর রসূলকে স্পষ্ট প্রমাণ দেন। সত্য সামনে পরিষ্কার হলে, মুখ ফেরানোর অজুহাত না খুঁজে তা মেনে নিন।"
   },
   "27:52": {
     "reflectionEn": "Walk past a house that people fled and never came back to. The roof has fallen in, grass grows where a doorway stood, and the silence is loud. The Qur'an points a finger at exactly such a place and says: look. These were homes once, raised by hands that planned and plotted and felt safe. What emptied them was not an earthquake out of nowhere. It was wrong done, and good left undone, until the walls had nothing left to hold up. A ruin cannot speak, yet this one preaches. It asks whether what I am building with my days has a foundation under it, or whether I too am raising walls over an empty cause that will not stand the first real test.",
-    "reflectionBn": "এমন একটা বাড়ির পাশ দিয়ে হেঁটে যান, যেখান থেকে মানুষ পালিয়ে গেছে, আর কখনো ফেরেনি। ছাদ ধসে পড়েছে, দরজার জায়গায় ঘাস গজিয়েছে, চারপাশের নীরবতাটাই যেন চিৎকার করছে। কুরআন ঠিক এমন একটা জায়গার দিকে আঙুল তুলে বলে, দেখো। একদিন এগুলো ঘর ছিল, যে হাত পরিকল্পনা করত, চক্রান্ত করত, নিজেকে নিরাপদ ভাবত, সেই হাতেই গড়া। এগুলো খালি হলো হঠাৎ কোনো ভূমিকম্পে নয়। জুলুম করা হয়েছিল, হক আদায় করা হয়নি, শেষে দেয়ালের ধরে রাখার মতো কিছুই রইল না। ধ্বংসস্তূপ কথা বলতে পারে না, তবু এটি ওয়াজ করে। জিজ্ঞেস করে, আমার দিনগুলো দিয়ে যা গড়ছি তার নিচে ভিত আছে কি না, নাকি আমিও এক খালি উদ্দেশ্যের উপর দেয়াল তুলছি, যা প্রথম সত্যিকার পরীক্ষাতেই দাঁড়াতে পারবে না।",
+    "reflectionBn": "এমন একটা বাড়ির পাশ দিয়ে হেঁটে যান, যেখান থেকে মানুষ পালিয়ে গেছে, আর কখনো ফেরেনি। ছাদ ধসে পড়েছে, দরজার জায়গায় ঘাস গজিয়েছে, চারপাশের নীরবতাটাই যেন চিৎকার করছে। কুরআন ঠিক এমন একটা জায়গার দিকে আঙুল তুলে বলে, দেখো। একদিন এগুলো ঘর ছিল, যে হাত পরিকল্পনা করত, চক্রান্ত করত, নিজেকে নিরাপদ ভাবত, সেই হাতেই গড়া। এগুলো খালি হলো হঠাৎ কোনো ভূমিকম্পে নয়। অন্যায় চলেছে, ভালো কাজ ফেলে রাখা হয়েছে, শেষে দেয়ালের ধরে রাখার মতো কিছুই রইল না। ধ্বংসস্তূপ কথা বলতে পারে না, তবু এটি ওয়াজ করে। জিজ্ঞেস করে, আমার দিনগুলো দিয়ে যা গড়ছি তার নিচে ভিত আছে কি না, নাকি আমিও এক ফাঁপা লক্ষ্যের উপর দেয়াল তুলছি, যা প্রথম সত্যিকার পরীক্ষাতেই দাঁড়াতে পারবে না।",
     "pointsEn": [
       "What am I building right now that would not survive an honest look at the foundation under it?",
       "When I pass something ruined or broken, do I hurry by, or do I let it put a question to me?",
@@ -11698,7 +11698,7 @@ const TADABBUR_NOTES = {
       "এখন যা গড়ছি, তার নিচের ভিতের দিকে সৎ চোখে তাকালে কোনটা টিকবে না?",
       "ভাঙা বা উজাড় কিছুর পাশ দিয়ে গেলে আমি কি তাড়াহুড়ো করে পেরিয়ে যাই, নাকি সেটাকে নিজের কাছে একটা প্রশ্ন তুলতে দিই?",
       "এমন কোনো অন্যায় কি করেই চলেছি, যা চুপচাপ এমন কিছু ফাঁপা করে দিচ্ছে যাকে আমি মজবুত ভেবেছিলাম?",
-      "এই সম্প্রদায় যেমন তাদের কাছে পাঠানো লোকটির সতর্কবাণী উড়িয়ে দিয়েছিল, তেমন কার সতর্কবাণীকে আমি নিছক আওয়াজ ধরে নিয়েছি?",
+      "এই সম্প্রদায় যেমন তাদের কাছে পাঠানো রসূলের সতর্কবাণী উড়িয়ে দিয়েছিল, তেমন কার সতর্কবাণীকে আমি নিছক আওয়াজ ধরে নিয়েছি?",
       "আজই যদি আমার দিন ফুরিয়ে যায়, পেছনে যা রেখে যাব তার চেহারা আমার জীবনের উদ্দেশ্য নিয়ে কী বলবে?"
     ],
     "lessonEn": "Wrongdoing hollows out whatever it builds, until only ruins are left to warn the living; read them, and set your own life on something that will stand.",
@@ -11717,7 +11717,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "এখন আমি এমন কী করছি, যা নিয়ে প্রশ্ন তোলা বন্ধ করে দিয়েছি কারণ সেটা যেন আমারই স্বভাব হয়ে গেছে?",
       "শেষ কবে এমন কিছুকে আমি নিজের গুণ বলে চালিয়েছি, যেটা সৎভাবে দেখলে আসলে সাজিয়ে রাখা একটা দোষ?",
-      "এমন কোনো অন্যায় কি আছে যেখানে আমি বারবার ফিরে যাই, লোভে নয়, বরং নিজেকে বুঝিয়েছি বলে যে এটা ভালোই?",
+      "এমন কোনো অন্যায় কি আছে যার কাছে আমি বারবার ফিরে যাই, লোভে নয়, বরং নিজেকে বুঝিয়েছি বলে যে এটা ভালোই?",
       "আমার সম্পর্কে কারও সত্য কথা কি আমি উড়িয়ে দিয়েছি, কারণ তা আমার মনে গড়া সুন্দর ছবিটার সঙ্গে মেলেনি?",
       "বাইরের কেউ যদি আমার দিনগুলো সোজা কথায় বর্ণনা করত, কোন অভ্যাসটার নাম শুনলে আমি লজ্জা পেতাম?"
     ],
@@ -11759,14 +11759,14 @@ const TADABBUR_NOTES = {
       "এমন কিছু কি আছে যা আধা-আধি সত্য বলে চিনতে পারছি, অথচ মুখে আনতে চাইছি না, কারণ স্বীকার করলে কোথায় গিয়ে দাঁড়াবে সেই ভয়?",
       "কোন জ্ঞানকে আমি নিজের অধিকার ভেবে আঁকড়ে আছি, যা আসলে কেবল আমাকে ধার দেওয়া হয়েছিল?",
       "চাপের মুখে কার সততা আমি চুপচাপ প্রশংসা করেছি? সেই সৎ জবাবটা দিতে তাঁর কী মূল্য দিতে হয়েছিল?",
-      "সতর্ক সত্য যদি আত্মসমর্পণের পথে এক ধাপ হয়, তবে এ সপ্তাহে কোন ছোট্ট সততাকে আমি এড়িয়ে চলছি?"
+      "মেপে বলা সত্য যদি আত্মসমর্পণের পথে এক ধাপ হয়, তবে এ সপ্তাহে কোন ছোট্ট সততাকে আমি এড়িয়ে চলছি?"
     ],
     "lessonEn": "Answer only as far as you truly know: refuse both the easy yes and the false no, and let honest, growing knowledge carry you toward surrender.",
-    "lessonBn": "যতটুকু সত্যিই জানেন ততটুকুই বলুন, সহজ হ্যাঁ আর মিথ্যা না দুটোকেই এড়িয়ে চলুন, আর সৎ ও বাড়তে থাকা জ্ঞানকে আত্মসমর্পণের দিকে পথ করে নিতে দিন।"
+    "lessonBn": "যতটুকু সত্যিই জানেন ততটুকুই বলুন। সহজ হ্যাঁ আর মিথ্যা না, দুটোই এড়িয়ে চলুন, আর সৎভাবে যে জ্ঞান বাড়ে, তা-ই আপনাকে আত্মসমর্পণের দিকে নিয়ে যাক।"
   },
   "27:34": {
     "reflectionEn": "Her generals have just told her they are men of strength, and the decision is hers. She could give the word for war. Instead she says plainly what war costs: kings enter a city and ruin it, and its honoured people are dragged down low. So she will not strike first. She will test the man who wrote to her, and watch. She is not yet a believer, and still she reasons like this. The power to fight sat in her hand, and she set it down to look harder before she used it. When I am wronged and hold the strength to answer in kind, do I count the ruin first? Do I test before I strike, or strike because I can?",
-    "reflectionBn": "তার সেনাপতিরা এইমাত্র বলেছে, তারা শক্তিশালী, আর সিদ্ধান্ত তারই হাতে। ইচ্ছা করলেই সে যুদ্ধের হুকুম দিতে পারত। কিন্তু সে বরং সোজা কথায় বলে দেয় যুদ্ধের দাম কী। রাজারা কোনো জনপদে ঢুকে সেটিকে ধ্বংস করে, আর সেখানকার সম্মানিত মানুষদের টেনে নামিয়ে অপমানিত করে। তাই সে আগে আঘাত করবে না। যে তাকে চিঠি লিখেছে, তাকে আগে যাচাই করবে, তারপর দেখবে। সে তখনো ঈমান আনেনি, তবু তার ভাবনা এত সূক্ষ্ম। লড়াইয়ের শক্তি তার হাতেই ছিল, কাজে লাগানোর আগে সে তা নামিয়ে রেখে আরও ভালো করে দেখতে চাইল। আমার উপর অন্যায় হলে আর পাল্টা জবাবের শক্তি হাতে থাকলে আমি কি আগে ধ্বংসের হিসাব করি? আঘাতের আগে কি যাচাই করি, নাকি শুধু পারি বলেই আঘাত করি?",
+    "reflectionBn": "তাঁর সেনাপতিরা এইমাত্র বলেছে, তারা শক্তিশালী, আর সিদ্ধান্ত তাঁরই হাতে। চাইলেই তিনি যুদ্ধের হুকুম দিতে পারতেন। কিন্তু তিনি বরং সোজা কথায় বলে দেন যুদ্ধের দাম কী। রাজারা কোনো জনপদে ঢুকলে তা ধ্বংস করে, আর সেখানকার সম্মানিত মানুষদের টেনে নামিয়ে লাঞ্ছিত করে। তাই তিনি আগে আঘাত করবেন না। যিনি তাঁকে চিঠি লিখেছেন, তাঁকে আগে যাচাই করবেন, তারপর দেখবেন। তখনো তিনি ঈমান আনেননি, তবু তাঁর ভাবনা এমন। লড়াইয়ের শক্তি তাঁর হাতেই ছিল, অথচ তা কাজে লাগানোর আগে হাত থেকে নামিয়ে রেখে তিনি আরও ভালো করে দেখতে চাইলেন। আমার উপর অন্যায় হলে আর পাল্টা জবাবের শক্তি হাতে থাকলে আমি কি আগে ধ্বংসের হিসাব করি? আঘাতের আগে কি যাচাই করি, নাকি শুধু পারি বলেই আঘাত করি?",
     "pointsEn": [
       "When I hold the power to answer a wrong in kind, do I first count what my answer will cost?",
       "Where am I rushing to act because I can, before I have understood who I am really dealing with?",
@@ -11779,14 +11779,14 @@ const TADABBUR_NOTES = {
       "কাউকে ভালো করে বুঝে ওঠার আগেই আমি কোথায় শুধু পারি বলে কাজে ঝাঁপিয়ে পড়ি?",
       "লড়াইয়ের জন্য তৈরি থাকাকে কি আমি প্রজ্ঞা ভেবে বসেছি, যেখানে অপেক্ষা করার শক্তিটাই ছিল বেশি বুদ্ধিমানের কাজ?",
       "আশপাশের লোকজন যখন লড়াইয়ের জন্য উসখুস করছে, আমি কি সেই কণ্ঠ হতে পারি যে গতিটা একটু ধীর করে দেয়?",
-      "কোনো পথে নামার আগে পরিস্থিতিকে সততার সঙ্গে যাচাই করা দেখতে কেমন হয়?"
+      "কোনো পথে নামার আগে পরিস্থিতিটা সৎভাবে যাচাই করতে হলে আমাকে আসলে কী কী করতে হবে?"
     ],
     "lessonEn": "Real strength can choose restraint. Before you strike back, weigh the ruin it brings; test and understand before you commit, and let patience, not pride, settle the decision.",
-    "lessonBn": "আসল শক্তি সংযমও বেছে নিতে পারে। পাল্টা আঘাতের আগে তার ক্ষতির হিসাব করুন। সিদ্ধান্তে পৌঁছানোর আগে যাচাই করুন ও বুঝুন, আর অহংকার নয়, ধৈর্যকে দিয়ে সিদ্ধান্ত নিন।"
+    "lessonBn": "আসল শক্তি সংযমও বেছে নিতে পারে। পাল্টা আঘাতের আগে তার ক্ষতির হিসাব করুন। সিদ্ধান্তে পৌঁছানোর আগে যাচাই করুন ও বুঝুন, আর সিদ্ধান্তটা যেন অহংকার নয়, ধৈর্য থেকে আসে।"
   },
   "28:4": {
     "reflectionEn": "The story of Musa opens not with the prophet but with the tyrant, and the verse reads like a charge sheet. He raised himself above everyone in the land. He split the people into factions so no group could stand together. He singled out one people and ground them down. He slaughtered their newborn sons and kept their girls alive — and keeping them was not mercy but a way to own and humiliate them. Then the verdict, in a single clause: he was of the corrupters. The whole machinery of oppression sits in one line: pride, division, a targeted people, bloodshed, and a name for it. It teaches me to know that shape — in the powerful of the earth, and in the smaller tyrannies I run myself.",
-    "reflectionBn": "কাহিনিটা শুরু হয় মূসা (আঃ)-কে দিয়ে নয়, শুরু হয় জালিমকে দিয়ে। আর আয়াতটা পড়তে গেলে মনে হয় যেন একটা অভিযোগপত্র। সে দেশের সবার উপরে মাথা তুলল। সে মানুষকে নানা দলে ভাগ করে দিল, যাতে কেউ একজোট হতে না পারে। একটা জাতিকে বেছে নিয়ে পিষে ফেলল। তাদের নবজাতক ছেলেদের জবাই করত, আর মেয়েদের বাঁচিয়ে রাখত। এই বাঁচিয়ে রাখা দয়া ছিল না, ছিল তাদের গোলাম বানিয়ে অপমান করার পথ। তারপর এক লাইনে রায়: সে ছিল ফাসাদ সৃষ্টিকারীদের একজন। জুলুমের গোটা কলটাই এখানে এক নিঃশ্বাসে ধরা। অহংকার, ভাগ করা, একটা জাতিকে নিশানা বানানো, রক্তপাত, আর এসবের একটা নাম। আয়াতটা আমাকে শেখায় এই চেহারাটা চিনতে, দুনিয়ার শক্তিমানদের মধ্যেও, নিজের ছোট ছোট জুলুমের মধ্যেও।",
+    "reflectionBn": "কাহিনিটা শুরু হয় মূসা (আঃ)-কে দিয়ে নয়, শুরু হয় জালিমকে দিয়ে। আর আয়াতটা পড়তে গেলে মনে হয় যেন একটা অভিযোগপত্র। সে দেশের সবার উপরে মাথা তুলল। সে মানুষকে নানা দলে ভাগ করে দিল, যাতে কেউ একজোট হতে না পারে। একটা জাতিকে বেছে নিয়ে পিষে ফেলল। তাদের নবজাতক ছেলেদের জবাই করত, আর মেয়েদের বাঁচিয়ে রাখত। এই বাঁচিয়ে রাখা দয়া ছিল না, ছিল তাদের গোলাম বানিয়ে অপমান করার পথ। তারপর এক লাইনে রায়: সে ছিল ফাসাদ সৃষ্টিকারীদের একজন। জুলুমের পুরো কলকব্জাই এখানে এক লাইনে ধরা। অহংকার, ভাগ করা, একটা জাতিকে নিশানা বানানো, রক্তপাত, আর এসবের একটা নাম। আয়াতটা আমাকে শেখায় এই চেহারাটা চিনতে, দুনিয়ার শক্তিমানদের মধ্যেও, আমার নিজের চালানো ছোট ছোট জুলুমের মধ্যেও।",
     "pointsEn": [
       "Where do I see this verse's pattern today — someone raised high, a people split, one group ground down — and whose side does my silence take?",
       "Have I ever called cruelty by a gentler name, the way keeping the women alive was dressed up as mercy?",
@@ -11799,10 +11799,10 @@ const TADABBUR_NOTES = {
       "আমি কি কখনো নিষ্ঠুরতাকে নরম নাম দিয়ে ঢেকেছি, যেভাবে নারীদের বাঁচিয়ে রাখাকে দয়ার মোড়কে দেখানো হয়েছিল?",
       "অল্প হলেও কার উপর আমার কিছু ক্ষমতা আছে, আর তা দিয়ে আমি কি তাদের ওঠাই, না ভাগ করি?",
       "শক্তিমান যখন দুর্বলকে পিষছে অথচ কিছুই বদলাচ্ছে না বলে মনে হয়, আমি কি তখনো বিশ্বাস রাখি যে আল্লাহর পরিকল্পনা এর নিচে চলছে?",
-      "আমার কোন ছোট ফাসাদ খারাপ শোনাত, যদি কুরআন আমাকে এক লাইনে গুটিয়ে দিত?"
+      "কুরআন যদি এক লাইনে আমার পরিচয় লিখে দিত, আমার কোন ছোট ফাসাদটা তাতে লজ্জাজনক শোনাত?"
     ],
     "lessonEn": "Tyranny always wears the same shape — pride, division, a crushed people, and cruelty dressed up as mercy. Name it for what it is, and trust that God's reckoning is already set.",
-    "lessonBn": "জুলুম সব সময় একই চেহারার, অহংকার, ভাগ করা, পিষে ফেলা একটা জাতি, আর দয়ার মোড়কে নিষ্ঠুরতা। এটাকে তার আসল নামে চিনুন, আর ভরসা রাখুন, আল্লাহর হিসাব আগেই ঠিক হয়ে আছে।"
+    "lessonBn": "জুলুমের চেহারা সব সময় একই: অহংকার, বিভেদ, পিষে ফেলা এক জাতি, আর দয়ার মোড়কে নিষ্ঠুরতা। একে তার আসল নামে চিনুন, আর ভরসা রাখুন, আল্লাহর হিসাব আগেই ঠিক হয়ে আছে।"
   },
   "27:75-76": {
     "reflectionEn": "Two verses, read as one. The first says there is nothing hidden in the heavens or the earth that is not already in a clear Record. Nothing escapes it: not the secret you have told no one, not the outcome still years away, not the thing you yourself have forgotten. The second verse draws the consequence. Because that knowledge misses nothing, this Qur'an can settle for the Children of Israel most of what they had long argued over, speaking the deciding word where people could only take sides. A book that comes from the One who records everything is able to tell the truth about everything. The question is whether I will let it decide what I keep disputing.",
@@ -11822,7 +11822,7 @@ const TADABBUR_NOTES = {
       "কুরআন খোলার সময় আমি কি একে ফয়সালা করতে দিই, নাকি কেবল নিজের সঙ্গে সায় পেতে আসি?"
     ],
     "lessonEn": "Nothing you hide or forget escapes the clear Record, and the Qur'an from its Author can settle what you endlessly dispute; let it decide, not merely agree with you.",
-    "lessonBn": "আপনি যা গোপন করেন বা ভুলে যান কিছুই সুস্পষ্ট কিতাবের বাইরে নয়, আর এর রচয়িতার কুরআন আপনার চিরকালের বিবাদ ফয়সালা করতে পারে; একে ফয়সালা করতে দিন, কেবল সায় দিতে নয়।"
+    "lessonBn": "আপনি যা গোপন করেন বা ভুলে যান, তার কিছুই সুস্পষ্ট কিতাবের বাইরে নয়। আর সেই কিতাবের মালিকের কাছ থেকে আসা কুরআন, যা নিয়ে আপনি অবিরাম বিবাদ করেন, তার ফয়সালা করতে পারে। একে ফয়সালা করতে দিন, শুধু আপনার কথায় সায় দেওয়ার জন্য নয়।"
   },
   "27:92": {
     "reflectionEn": "The command comes in three parts: to worship the Lord of this city, to be one who submits, and to recite the Qur'an. The third is a task you can actually finish, which is to deliver the words. What follows them does not sit on the same page. Whoever takes the guidance takes it for himself, and whoever turns away turns only against himself. The one who conveys is told to say, I am only a warner. It is a strange kind of relief. You answer for the telling, not for the heart that received it. So when someone you love hears the truth and walks away, the weight you were carrying was never yours to carry.",
@@ -11835,11 +11835,11 @@ const TADABBUR_NOTES = {
       "If guidance taken is the taker's own gain, what am I doing today for the one person I can still reach, myself?"
     ],
     "pointsBn": [
-      "আমি যখন সত্য কিছু জানাই আর অন্যজন মুখ ফিরিয়ে নেয়, মনে মনে আমি কি সেটাকে নিজের ব্যর্থতা ধরে নিই?",
+      "আমি যখন সত্য কিছু জানাই আর অন্যজন মুখ ফিরিয়ে নেয়, মনে মনে আমি সেটাকে কার ব্যর্থতা বলে ধরে নিই?",
       "পৌঁছে দেওয়ার কাজটিই কি কোথাও অসম্পূর্ণ রেখে দিয়েছি, অথচ যে ফল কখনো আমার হাতে ছিল না তার জন্য নিজেকে দুষছি?",
       "কুরআনকে কি আমি এমন কাজ হিসেবে বহন করি যা সত্যিই শেষ করা যায়, নাকি যেসব হৃদয়ে আমার হাত পৌঁছায় না সেগুলো বদলানোর বোঝা হিসেবে?",
       "কাকে কল্যাণের দিকে ডাকা ছেড়ে দিয়েছি কেবল এ কারণে যে সে প্রথমবার সাড়া দেয়নি?",
-      "হেদায়েত নিলে লাভ যদি গ্রহণকারীর নিজেরই হয়, তবে যাকে আমি এখনো পাই, সেই একজন তো আমি নিজেই; তার জন্য আজ আমি কী করছি?"
+      "হেদায়েত নিলে লাভ যদি গ্রহণকারীর নিজেরই হয়, তবে যাকে আমি এখনো নিশ্চিত নাগালে পাই, সেই একজন তো আমি নিজেই; তার জন্য আজ আমি কী করছি?"
     ],
     "lessonEn": "Your work is to convey the truth faithfully; whether a heart accepts it is not yours to carry. Guidance taken is the taker's own gain, and straying its own loss.",
     "lessonBn": "আপনার কাজ সত্যটা বিশ্বস্তভাবে পৌঁছে দেওয়া; কোনো হৃদয় তা গ্রহণ করল কি না, সে বোঝা আপনার নয়। হেদায়েত নিলে লাভ গ্রহণকারীর নিজের, গুমরাহ হলে ক্ষতিও তার নিজের।"
@@ -11856,8 +11856,8 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "আল্লাহ কিছু পারবেন না বলে যখন ঠিক করে ফেলি, তখন কি আমি তাঁর শক্তি বিচার করছি, নাকি নিজের মাপে সেটা মাপছি?",
-      "আমাকে সত্যিই ওঠানো হবে আর জিজ্ঞেস করা হবে, এটা মন থেকে জানলে আজকের দিনটা কতটা অন্যরকম হতো?",
-      "নিজে পারি না বলে কোন জিনিসটাকে আমি চুপচাপ অসম্ভব বলে বসিয়ে রেখেছি?",
+      "আমাকে সত্যিই ওঠানো হবে আর জিজ্ঞেস করা হবে, এটা মন থেকে জানলে আজকের দিনে কী কী অন্যরকম হতো?",
+      "নিজে পারি না বলে কোন জিনিসটাকে আমি চুপচাপ অসম্ভব বলে বাদ দিয়ে রেখেছি?",
       "মৃত্যুকে আমি কি হিসাবের শেষ ধরি, নাকি হিসাব শুরুর ঠিক আগের পাতা?",
       "তাদের ঠাট্টা এসেছিল এক নিশ্চয়তা থেকে; আমার কোন নিশ্চয়তাগুলো আরেকবার সৎভাবে ভেবে দেখা দরকার?"
     ],
@@ -11866,7 +11866,7 @@ const TADABBUR_NOTES = {
   },
   "27:82": {
     "reflectionEn": "When the decree finally falls, the earth opens and a creature nobody bred or expected climbs out, and it speaks. It tells the people plainly what they spent their lives refusing to settle: they were never certain of the signs set before them. By then the arguing is over. The day a creature rises from the ground and addresses you is not a day for weighing proof; it is the day proof stops being asked for. The mercy hidden here is the tense. It has not happened yet. The ground is still quiet, the signs still need faith to be read, and a settled heart can still choose to be sure. That open window is the gift, and this verse is here so you spend it before it shuts.",
-    "reflectionBn": "ফায়সালা যখন অবশেষে নেমে আসবে, মাটি ফেটে বেরিয়ে আসবে এমন এক জন্তু, যাকে কেউ জন্ম দেয়নি, কেউ আশাও করেনি। আর সে কথা বলবে। মানুষ সারা জীবন যে কথাটা মানতে চায়নি, জন্তুটা তা সোজাসুজি বলে দেবে: আল্লাহর নিদর্শনগুলোতে তাদের কোনো দৃঢ় বিশ্বাস ছিল না। ততক্ষণে তর্কের পালা শেষ। মাটি ফুঁড়ে একটা জন্তু উঠে এসে আপনার সঙ্গে কথা বলছে, সে দিন প্রমাণ যাচাইয়ের দিন নয়। সে দিন আর প্রমাণ চাওয়ার কোনো সুযোগই থাকে না। এ আয়াতের ভেতরে লুকানো রহমতটা তার কালেই। এখনো তা ঘটেনি। মাটি এখনো চুপ, নিদর্শন পড়তে এখনো ঈমান লাগে, আর থিতু একটা মন এখনো দৃঢ় বিশ্বাস বেছে নিতে পারে। খোলা এই জানালাটাই উপহার। আয়াতটা এজন্যই এসেছে, যেন বন্ধ হওয়ার আগে আপনি তা কাজে লাগান।",
+    "reflectionBn": "ফয়সালা যখন অবশেষে নেমে আসবে, মাটি ফেটে বেরিয়ে আসবে এমন এক জন্তু, যাকে কেউ জন্ম দেয়নি, কেউ আশাও করেনি। আর সে কথা বলবে। মানুষ সারা জীবন যে কথাটা মানতে চায়নি, জন্তুটা তা সোজাসুজি বলে দেবে: আল্লাহর নিদর্শনগুলোতে তাদের কোনো দৃঢ় বিশ্বাস ছিল না। ততক্ষণে তর্কের পালা শেষ। মাটি ফুঁড়ে একটা জন্তু উঠে এসে আপনার সঙ্গে কথা বলছে, সে দিন প্রমাণ যাচাইয়ের দিন নয়। সে দিন আর প্রমাণ চাওয়ার কোনো সুযোগই থাকে না। এ আয়াতের ভেতরে লুকানো রহমতটা তার ক্রিয়ার কালে: কথাটা ভবিষ্যতের। এখনো তা ঘটেনি। মাটি এখনো চুপ, নিদর্শন পড়তে এখনো ঈমান লাগে, আর থিতু একটা মন এখনো দৃঢ় বিশ্বাস বেছে নিতে পারে। খোলা এই জানালাটাই উপহার। আয়াতটা এজন্যই এসেছে, যেন বন্ধ হওয়ার আগে আপনি তা কাজে লাগান।",
     "pointsEn": [
       "What am I still treating as an open question when I already hold every sign I need to settle it?",
       "If certainty is a choice I make now, where am I postponing it and calling the delay honesty?",
@@ -11875,7 +11875,7 @@ const TADABBUR_NOTES = {
       "Am I spending the quiet years while faith still counts, or waiting for a day that will leave me no room to choose?"
     ],
     "pointsBn": [
-      "যে প্রশ্নটা আমি এখনো খোলা রেখে দিয়েছি, তা মীমাংসা করার মতো সব নিদর্শন কি আগেই আমার হাতে নেই?",
+      "কোন বিষয়টাকে আমি এখনো খোলা প্রশ্ন বলে ঝুলিয়ে রেখেছি, অথচ তা মীমাংসা করার মতো সব নিদর্শন আগেই আমার হাতে আছে?",
       "দৃঢ় বিশ্বাস যদি এখনই নেওয়ার একটা সিদ্ধান্ত হয়, তবে কোথায় আমি তা পিছিয়ে দিচ্ছি আর দেরিটাকে সততা বলে চালাচ্ছি?",
       "কখন আমি আরও প্রমাণ চাই প্রমাণের অভাবে নয়, বরং হাতের প্রমাণ মেনে কাজ করতে প্রস্তুত নই বলে?",
       "অদৃশ্যকে সত্যিই নিশ্চিত ধরে নিলে এ সপ্তাহে আমার নামাজ, দান আর ক্ষমা করার ধরনে কী বদলে যেত?",
@@ -11886,7 +11886,7 @@ const TADABBUR_NOTES = {
   },
   "28:15": {
     "reflectionEn": "Moses slips into the city while no one is watching and walks straight into a fight: a man of his own people pinned against a man of the ruling class. The Israelite cries out for rescue, Moses throws a single punch, and the Egyptian is dead. He never meant to kill. The words come out of him at once — this is from the work of Satan, a plain and misleading enemy. A strong man moved against an injustice, and in one heartbeat a life was gone. He does not excuse it and does not pass it to anyone else; he names what carried him past the edge and owns the ruin it left. When my anger is in the right, do I still watch where it is taking me?",
-    "reflectionBn": "কেউ খেয়াল করছে না এমন সময়ে মূসা (আঃ) শহরে ঢোকেন আর সোজা এক মারামারির মধ্যে গিয়ে পড়েন। তাঁর নিজের দলের একজন চেপে ধরা শাসকগোষ্ঠীর একজনের হাতে। ইসরাইলি লোকটি সাহায্যের জন্য চিৎকার করে, মূসা একটিমাত্র ঘুসি বসান, আর মিসরীয় লোকটি মারা যায়। হত্যা করার ইচ্ছা তাঁর ছিল না। সঙ্গে সঙ্গে কথাটা বেরিয়ে আসে, এ শয়তানের কাজ, সে প্রকাশ্য শত্রু, পথভ্রষ্টকারী। শক্তিশালী একজন মানুষ অন্যায়ের বিরুদ্ধে নড়ে উঠলেন, আর এক নিমেষে একটা প্রাণ চলে গেল। তিনি একে ছোট করেন না, কারও ঘাড়েও চাপান না। যা তাঁকে সীমার ওপারে টেনে নিল তার নাম ধরিয়ে দেন, আর যে ক্ষতি রয়ে গেল তার দায় নিজের কাঁধে নেন। আমার রাগ যখন ন্যায়ের পক্ষে, তখনও কি দেখি সেটা আমাকে কোথায় নিয়ে যাচ্ছে?",
+    "reflectionBn": "কেউ খেয়াল করছে না এমন সময়ে মূসা (আঃ) শহরে ঢোকেন আর সোজা এক মারামারির মধ্যে গিয়ে পড়েন। তাঁর নিজের দলের একজন চেপে ধরা শাসকগোষ্ঠীর একজনের হাতে। ইসরাইলি লোকটি সাহায্যের জন্য চিৎকার করে, মূসা (আঃ) একটিমাত্র ঘুসি বসান, আর মিসরীয় লোকটি মারা যায়। হত্যা করার ইচ্ছা তাঁর ছিল না। সঙ্গে সঙ্গে কথাটা বেরিয়ে আসে, এ শয়তানের কাজ, সে প্রকাশ্য শত্রু, পথভ্রষ্টকারী। শক্তিশালী একজন মানুষ অন্যায়ের বিরুদ্ধে নড়ে উঠলেন, আর এক নিমেষে একটা প্রাণ চলে গেল। তিনি কোনো অজুহাত দেখান না, দায়টা কারও ঘাড়েও চাপান না। যা তাঁকে সীমার ওপারে টেনে নিল তার নাম ধরে বলেন, আর যে ক্ষতি রয়ে গেল তার দায় নিজের কাঁধে নেন। আমার রাগ যখন ন্যায়ের পক্ষে, তখনও কি দেখি সেটা আমাকে কোথায় নিয়ে যাচ্ছে?",
     "pointsEn": [
       "When I step in for someone being wronged, do I keep hold of my anger, or does my anger take hold of me?",
       "Have I ever done real harm in a moment I was sure was righteous?",
@@ -11896,7 +11896,7 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "অন্যায়ের শিকার কারও পাশে দাঁড়াতে গিয়ে আমি কি রাগটাকে ধরে রাখি, নাকি রাগই আমাকে ধরে ফেলে?",
-      "নিজেকে ন্যায়ের পথে ভেবে এমন কোনো মুহূর্তে কি সত্যিকারের ক্ষতি করে ফেলেছি?",
+      "যে মুহূর্তে নিজেকে নিশ্চিত ন্যায়ের পক্ষে ভেবেছি, তেমন কোনো মুহূর্তে কি সত্যিকারের ক্ষতি করে ফেলেছি?",
       "সীমা পার হলে আমি কি তা সোজাসুজি স্বীকার করি, নাকি যা ছিল তার চেয়ে ছোট করে সাজিয়ে নিই?",
       "যেখানে থামতে চেয়েছিলাম তার ওপারে শত্রু আমাকে কী দিয়ে ঠেলে দেয়, আমার উৎসাহ, আমার শক্তি, নাকি নিজের ঠিক থাকার নিশ্চয়তা?",
       "যাকে আঘাত করার ইচ্ছা ছিল না তাকে আঘাত করে ফেললে আমি কি সোজা রবের দিকে ফিরি, নাকি অজুহাত খুঁজি?"
@@ -11906,7 +11906,7 @@ const TADABBUR_NOTES = {
   },
   "28:41-42": {
     "reflectionEn": "Pharaoh and his court drowned, and that could have seemed the end of them. But the verse keeps going. The men obeyed in Egypt are named leaders of another kind: imams who call people toward the Fire, every step of their followers added to their own account. In this world a curse trails them; on the Day they stand disgraced, and no one they once commanded can lift a finger. Any leader faces the question, and so does anyone others quietly copy. The people who follow me, a child, a colleague, a friend, where is my example taking them? Toward something I would be glad to answer for, or toward a fire I keep dressing up as success?",
-    "reflectionBn": "ফিরআউন আর তার পারিষদ সমুদ্রে ডুবে গেল, মনে হতে পারত এখানেই তাদের গল্প শেষ। কিন্তু আয়াত থামে না। মিসরে যাদের হুকুম সবাই মানত, তাদেরই আরেক ধরনের নেতা বলা হচ্ছে। এরা মানুষকে জাহান্নামের দিকে ডাকে, আর অনুসারীদের প্রতিটি পা তাদের নিজের হিসাবে যোগ হয়। দুনিয়ায় অভিসম্পাত তাদের পিছু ছাড়ে না, ক্বিয়ামতের দিন তারা দাঁড়ায় লাঞ্ছিত হয়ে। একসময় যারা তাদের হুকুম মানত, সেদিন তাদের কেউ এতটুকু সাহায্য করতে পারবে না। যে কেউ নেতৃত্বে আছে, এ প্রশ্ন তার। চুপচাপ যাকে কেউ নকল করে, তারও। আমার পিছনে যারা হাঁটে, সন্তান, সহকর্মী, বন্ধু, আমার আদর্শ তাদের কোথায় নিয়ে যাচ্ছে? এমন কিছুর দিকে যার জবাব দিতে আমি খুশি থাকব, নাকি এমন আগুনের দিকে যাকে আমি সাফল্যের সাজে সাজিয়ে রাখি?",
+    "reflectionBn": "ফেরাউন আর তার পারিষদ সমুদ্রে ডুবে গেল, মনে হতে পারত এখানেই তাদের গল্প শেষ। কিন্তু আয়াত থামে না। মিসরে যাদের হুকুম সবাই মানত, তাদেরই আরেক ধরনের নেতা বলা হচ্ছে। এরা মানুষকে জাহান্নামের দিকে ডাকে, আর অনুসারীদের প্রতিটি পা তাদের নিজের হিসাবে যোগ হয়। দুনিয়ায় অভিসম্পাত তাদের পিছু ছাড়ে না, কিয়ামতের দিন তারা দাঁড়ায় লাঞ্ছিত হয়ে। একসময় যারা তাদের হুকুম মানত, সেদিন তাদের কেউ এতটুকু সাহায্য করতে পারবে না। যে কেউ নেতৃত্বে আছে, এ প্রশ্ন তার। চুপচাপ যাকে কেউ নকল করে, তারও। আমার পিছনে যারা হাঁটে, সন্তান, সহকর্মী, বন্ধু, আমার আদর্শ তাদের কোথায় নিয়ে যাচ্ছে? এমন কিছুর দিকে যার জবাব দিতে আমি খুশি থাকব, নাকি এমন আগুনের দিকে যাকে আমি সাফল্যের সাজে সাজিয়ে রাখি?",
     "pointsEn": [
       "Who follows my example without my ever noticing, and where is it quietly leading them?",
       "Is there anything I call people toward that I would not want to stand and answer for on the Day?",
@@ -11916,7 +11916,7 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "আমার অজান্তেই কে আমার আদর্শ অনুসরণ করে, আর তা চুপচাপ তাকে কোথায় নিয়ে যাচ্ছে?",
-      "এমন কিছুর দিকে কি আমি মানুষকে ডাকি, ক্বিয়ামতের দিন দাঁড়িয়ে যার জবাব দিতে আমি চাইব না?",
+      "এমন কিছুর দিকে কি আমি মানুষকে ডাকি, কিয়ামতের দিন দাঁড়িয়ে যার জবাব দিতে আমি চাইব না?",
       "যাদের উপর আমার প্রভাব পড়েছে, তাদের কথা ভাবলে দেখি, আমি কি তাদের ভালোয় যোগ করছি, নাকি ক্ষতিতে?",
       "চারপাশের সবাই ছুটছে বলেই কি আমি কোনো সর্বনাশা জিনিসকে সাফল্যের সাজে সাজিয়ে নিই?",
       "আমার নেতৃত্বের ধরনে আমি কার অভিসম্পাত কুড়াচ্ছি, আর কার দোয়া?"
@@ -11946,7 +11946,7 @@ const TADABBUR_NOTES = {
   },
   "28:18": {
     "reflectionEn": "Moses wakes in the city the morning after, frightened and watching every face, waiting to see what people will say and whether the hand of the law will fall on him. The death the day before was never meant to happen, yet the fear is real and it does not leave him. Then, into that raw morning, the same voice from yesterday cries out for help again, the man of his own people, locked in another fight. Moses does not simply take his side. He names the pattern: you are plainly a troublemaker. The mirror is sharp. When my nerves are frayed and someone I am loyal to is clearly in the wrong, am I honest enough to say so?",
-    "reflectionBn": "খুনের পরদিন সকালটা মূসা (আঃ) কাটালেন ভয়ে, চারদিকে তাকিয়ে, কান পেতে। মানুষ কী বলাবলি করছে, তাঁকে ধরা হবে কিনা, এই অপেক্ষায়। আগের দিনের মৃত্যুটা তিনি চাননি, তবু ভয়টা সত্যি, আর তা পিছু ছাড়ছে না। ঠিক সেই কাঁচা সকালে গতকালের সেই কণ্ঠ আবার সাহায্যের জন্য চীৎকার করে ওঠে। নিজের দলের লোক, আবার আরেক ঝগড়ায় জড়িয়ে। মূসা (আঃ) চুপচাপ তার পক্ষ নিলেন না। তিনি চেহারাটা চিনিয়ে দিলেন, তুমি তো স্পষ্ট এক ফ্যাসাদি। আয়নাটা বড় ধারালো। স্নায়ু যখন টানটান, আর আমার আপন কেউ যখন স্পষ্ট অন্যায়ে, আমি কি সত্যি কথাটা বলার মতো সৎ থাকি?",
+    "reflectionBn": "সেই মৃত্যুর পরদিন সকালটা মূসা (আঃ) কাটালেন ভয়ে, চারদিকে তাকিয়ে, কান পেতে। মানুষ কী বলাবলি করছে, তাঁকে ধরা হবে কিনা, এই অপেক্ষায়। আগের দিনের মৃত্যুটা তিনি চাননি, তবু ভয়টা সত্যি, আর তা পিছু ছাড়ছে না। ঠিক সেই কাঁচা সকালে গতকালের সেই কণ্ঠ আবার সাহায্যের জন্য চিৎকার করে ওঠে। নিজের দলের লোক, আবার আরেক ঝগড়ায় জড়িয়ে। মূসা (আঃ) চোখ বুজে তার পক্ষ নিলেন না। বারবার যা ঘটছে, সেটাই ধরিয়ে দিলেন: তুমি তো স্পষ্টই এক ঝগড়াটে লোক। আয়নাটা বড় ধারালো। স্নায়ু যখন টানটান, আর আমার আপন কেউ যখন স্পষ্ট অন্যায়ে, আমি কি সত্যি কথাটা বলার মতো সৎ থাকি?",
     "pointsEn": [
       "The last time I was shaken and on edge, did my fear leave me fair, or only make me reactive?",
       "When someone from my own side, my family, my team, my group, is clearly in the wrong, do I name it or cover for them?",
@@ -11975,18 +11975,18 @@ const TADABBUR_NOTES = {
       "When someone near me is frightened, do I shame them for it, or help them steady and go on?"
     ],
     "pointsBn": [
-      "ভয় না কাটা পর্যন্ত কোন কাজটা আমি শুরু করতে অস্বীকার করছি?",
-      "আল্লাহ যখন মূসাকে স্থির করলেন, তাঁর হাতকে একটা কাজ দিলেন। মন শান্ত হওয়ার অপেক্ষা না করে এ মুহূর্তে আমি কোন ছোট কাজটা করতে পারি?",
+      "ভয় না কাটা পর্যন্ত কোন কাজটা আমি শুরুই করব না বলে বসে আছি?",
+      "আল্লাহ যখন মূসা (আঃ)-কে স্থির করলেন, তাঁর হাতকে একটা কাজ দিলেন। মন শান্ত হওয়ার অপেক্ষা না করে এ মুহূর্তে আমি কোন ছোট কাজটা করতে পারি?",
       "ভয় পেলে আমি কার আশ্বাসের দিকে হাত বাড়াই, আর সে তালিকায় আল্লাহ কোথাও আছেন কি?",
       "এমন কোনো ভয় কি আছে যাকে সতর্কতার মোড়কে সাজিয়ে রেখেছি, যেন কখনো তার মুখোমুখি হতে না হয়?",
       "আমার পাশের কেউ ভয় পেলে আমি কি তাকে লজ্জা দিই, নাকি স্থির হয়ে এগোতে সাহায্য করি?"
     ],
     "lessonEn": "God did not wait for Musa's fear to pass; He steadied it and sent him anyway. Do what you are called to while still afraid, leaning on Him.",
-    "lessonBn": "আল্লাহ মূসার ভয় কাটার জন্য অপেক্ষা করেননি; ভয়টাকে স্থির করে তাঁকে পাঠিয়ে দিলেন। যে কাজে ডাক পেয়েছেন, ভয় নিয়েই তাঁর উপর ভরসা রেখে সেটা করুন।"
+    "lessonBn": "আল্লাহ মূসা (আঃ)-এর ভয় কাটার অপেক্ষা করেননি; ভয়ের মধ্যেই তাঁকে স্থির করে পাঠিয়ে দিলেন। যে কাজে ডাক পেয়েছেন, ভয় থাকতেই আল্লাহর উপর ভরসা রেখে তা করে ফেলুন।"
   },
   "28:70": {
     "reflectionEn": "The Day of Judgement is being described — the call going out, the idols that cannot answer, the breasts whose secrets are known. Into the middle of that scene comes a verse of pure creed. He is Allah; there is no deity but Him. All praise is His in this first life and in the one to come. His is the decision, and to Him you will be returned. Four claims, each one steadying the person who holds it. If He alone is God, I have one direction to face. If all praise is His, my thanks has a home. If the decision is His, I can stop fighting for a verdict that was never mine. And if I am going back to Him, today is not the whole story.",
-    "reflectionBn": "কিয়ামতের দৃশ্য বর্ণনা চলছে। ডাক আসছে, মূর্তিরা সাড়া দিতে পারছে না, বুকের ভেতরের গোপন কথাও জানা হয়ে যাচ্ছে। সেই দৃশ্যের ঠিক মাঝখানে আসে খাঁটি আকীদার একটি আয়াত। তিনিই আল্লাহ, তিনি ছাড়া কোনো ইলাহ নেই। এই প্রথম জীবনে আর পরের জীবনে সমস্ত প্রশংসা তাঁরই। বিধান তাঁরই, আর তাঁর কাছেই আপনাকে ফিরিয়ে নেওয়া হবে। চারটি কথা, আর প্রতিটি কথা ধরে রাখলে মানুষ স্থির হয়। তিনিই যদি একমাত্র ইলাহ হন, তবে মুখ ফেরানোর দিক একটাই। সব প্রশংসা যদি তাঁরই হয়, তবে আমার কৃতজ্ঞতার একটা ঠিকানা আছে। বিধান যদি তাঁর হাতে থাকে, তবে যে রায় কোনোদিন আমার হাতে ছিল না তা নিয়ে লড়াই আমি থামাতে পারি। আর তাঁর কাছেই যদি ফিরে যাই, তবে আজকের দিনটাই পুরো গল্প নয়।",
+    "reflectionBn": "কিয়ামতের দৃশ্য বর্ণনা চলছে। ডাক আসছে, মূর্তিরা সাড়া দিতে পারছে না, বুকের ভেতরের গোপন কথাও জানা হয়ে যাচ্ছে। সেই দৃশ্যের ঠিক মাঝখানে আসে খাঁটি আকীদার একটি আয়াত। তিনিই আল্লাহ, তিনি ছাড়া কোনো ইলাহ নেই। এই প্রথম জীবনে আর পরের জীবনে সমস্ত প্রশংসা তাঁরই। ফয়সালা তাঁরই, আর তাঁর কাছেই আপনাকে ফিরিয়ে নেওয়া হবে। চারটি কথা, আর প্রতিটি কথা ধরে রাখলে মানুষ স্থির হয়। তিনিই যদি একমাত্র ইলাহ হন, তবে মুখ ফেরানোর দিক একটাই। সব প্রশংসা যদি তাঁরই হয়, তবে আমার কৃতজ্ঞতার একটা ঠিকানা আছে। ফয়সালা যদি তাঁর হাতে থাকে, তবে যে রায় কোনোদিন আমার হাতে ছিল না তা নিয়ে লড়াই আমি থামাতে পারি। আর তাঁর কাছেই যদি ফিরে যাই, তবে আজকের দিনটাই পুরো গল্প নয়।",
     "pointsEn": [
       "If He alone is God, is there a second direction my heart keeps turning to as well?",
       "When something good reaches me, does the praise travel up to Him, or stop at the person who handed it over?",
@@ -11998,15 +11998,15 @@ const TADABBUR_NOTES = {
       "তিনিই যদি একমাত্র ইলাহ হন, তবে আমার মন কি আরেকটা দিকেও বারবার ঝুঁকে পড়ছে?",
       "ভালো কিছু আমার কাছে এলে প্রশংসাটা কি তাঁর কাছে উঠে যায়, নাকি যে হাতে করে দিল তার কাছেই থেমে থাকে?",
       "যে রায় কোনোদিন আমার হাতে ছিল না, এমন কোন সিদ্ধান্ত আমি এখনো জোর করে আদায় করতে চাইছি?",
-      "তাঁর কাছেই যদি ফিরে যাচ্ছি, ফেরার আগে এই সপ্তাহের কোন জিনিসটা আমি বদলে নিতাম?",
+      "তাঁর কাছেই যদি ফিরে যেতে হয়, ফেরার আগে এই সপ্তাহের কোন জিনিসটা আমি বদলে নিতাম?",
       "আমি কি কেবল তখনই তাঁর প্রশংসা করি যখন তাঁর কাজ বুঝতে পারি, নাকি না বুঝলেও করি?"
     ],
     "lessonEn": "He alone is God, all praise is His in both lives, the decision is His, and you are returning to Him; so face one direction and live toward that return.",
-    "lessonBn": "তিনিই একমাত্র ইলাহ, দুই জীবনেই সমস্ত প্রশংসা তাঁর, বিধান তাঁর, আর আপনি তাঁর দিকেই ফিরছেন। তাই মুখ ফেরান এক দিকেই, আর সেই ফেরার পথ ধরেই জীবন কাটান।"
+    "lessonBn": "তিনিই একমাত্র ইলাহ, দুই জীবনেই সমস্ত প্রশংসা তাঁর, ফয়সালা তাঁর, আর আপনি তাঁর দিকেই ফিরছেন। তাই মুখ ফেরান এক দিকেই, আর সেই ফেরার পথ ধরেই জীবন কাটান।"
   },
   "28:59": {
     "reflectionEn": "Before any town in the old stories was destroyed, two things had to be true. A messenger came first, reciting clear signs, so the warning reached the people plainly. And only then, if they still held to their wrongdoing, did the ruin fall. Allah does not strike a people for a fault they were never warned about, nor a people who had set their lives right. Read against my own life, the frightening verse turns gentle. The message has already reached me. The warning came first, as it always does. So the question is no longer whether I was told, but what I have done with the telling, and how long I mean to wait.",
-    "reflectionBn": "পুরোনো জনপদগুলোর কোনোটি ধ্বংস হওয়ার আগে দুটো শর্ত পূরণ হতে হতো। আগে আসতেন একজন রসূল, স্পষ্ট নিদর্শন পড়ে শোনাতেন, যাতে সতর্কবাণী পরিষ্কারভাবে মানুষের কাছে পৌঁছায়। এরপর যদি তারা তাদের অন্যায়েই অটল থাকত, কেবল তখনই নেমে আসত ধ্বংস। যে দোষের কথা কাউকে জানানোই হয়নি, সে দোষে আল্লাহ কোনো জাতিকে ধরেন না। আবার যারা জীবন শুধরে নিয়েছে, তাদেরও না। নিজের জীবনের আয়নায় রাখলে ভয়ংকর আয়াতটা নরম হয়ে আসে। বার্তা আমার কাছে পৌঁছে গেছে। সতর্কবাণী আগেই এসেছে, যেমন সবসময় আসে। তাই প্রশ্নটা আর এই নয় যে আমাকে বলা হয়েছিল কিনা। প্রশ্ন হলো, সেই বলার সঙ্গে আমি কী করলাম, আর কতদিন অপেক্ষা করব বলে ভাবছি।",
+    "reflectionBn": "পুরোনো জনপদগুলোর কোনোটি ধ্বংস হওয়ার আগে দুটো শর্ত পূরণ হতে হতো। আগে আসতেন একজন রসূল, স্পষ্ট নিদর্শন পড়ে শোনাতেন, যাতে সতর্কবাণী পরিষ্কারভাবে মানুষের কাছে পৌঁছায়। এরপর যদি তারা তাদের অন্যায়েই অটল থাকত, কেবল তখনই নেমে আসত ধ্বংস। যে দোষের কথা কাউকে জানানোই হয়নি, সে দোষে আল্লাহ কোনো জাতিকে ধরেন না। আবার যারা জীবন শুধরে নিয়েছে, তাদেরও না। নিজের জীবনের আয়নায় রাখলে ভয়ংকর আয়াতটা নরম হয়ে আসে। বার্তা আমার কাছে পৌঁছে গেছে। সতর্কবাণী আগেই এসেছে, যেমন সবসময় আসে। তাই প্রশ্নটা আর এই নয় যে আমাকে বলা হয়েছিল কিনা। প্রশ্ন হলো, যা বলা হয়েছে তা নিয়ে আমি কী করলাম, আর কতদিন অপেক্ষা করব বলে ভাবছি।",
     "pointsEn": [
       "The warning has already reached me in full; what am I still treating as if it has not yet arrived?",
       "Where in my life am I counting on more time, as if the delay were a promise rather than a mercy?",
@@ -12026,7 +12026,7 @@ const TADABBUR_NOTES = {
   },
   "29:8": {
     "reflectionEn": "Here are two duties pressed together in a single verse. Be good to your parents, and if those same parents push you toward serving anything besides God, do not obey them there. The hard part is that the verse withdraws obedience without withdrawing kindness. It does not say turn cold, cut them off, or repay their pressure with contempt. It says keep being good, and simply refuse the one thing that was never theirs to ask. Most of us never meet a demand this stark. But smaller versions arrive often, when the people we owe the most ask us for the thing we owe only to God. Where is my line, and can I hold it gently?",
-    "reflectionBn": "একটি আয়াতে দুটি দায়িত্ব পাশাপাশি রাখা হয়েছে। পিতা-মাতার সঙ্গে ভালো ব্যবহার করুন, আর সেই পিতা-মাতাই যদি আপনাকে আল্লাহ ছাড়া অন্য কিছুর ইবাদতের দিকে ঠেলে দেন, সেখানে তাঁদের কথা মানবেন না। কঠিন জায়গাটা হলো, আয়াত আনুগত্য তুলে নেয়, কিন্তু সদ্ব্যবহার তুলে নেয় না। এখানে বলা হয়নি রূঢ় হও, সম্পর্ক ছিঁড়ে ফেলো, কিংবা তাঁদের চাপের বদলা দাও অবজ্ঞা দিয়ে। বলা হয়েছে, ভালো ব্যবহার চালিয়ে যাও, শুধু সেই একটি জিনিসে না বলো যা চাওয়ার অধিকার কারো ছিল না। এমন সরাসরি দাবির মুখে আমরা বেশির ভাগই পড়ি না। কিন্তু ছোট রূপে তা প্রায়ই আসে, যখন যাঁদের কাছে আমরা সবচেয়ে ঋণী, তাঁরাই এমন কিছু চান যা শুধু আল্লাহরই প্রাপ্য। আমার সীমারেখা কোথায়, আর তা কি আমি নম্রভাবে ধরে রাখতে পারি?",
+    "reflectionBn": "একটি আয়াতে দুটি দায়িত্ব পাশাপাশি রাখা হয়েছে। পিতা-মাতার সঙ্গে ভালো ব্যবহার করুন, আর সেই পিতা-মাতাই যদি আপনাকে আল্লাহ ছাড়া অন্য কিছুর ইবাদতের দিকে ঠেলে দেন, সেখানে তাঁদের কথা মানবেন না। কঠিন জায়গাটা হলো, আয়াত আনুগত্য তুলে নেয়, কিন্তু সদ্ব্যবহার তুলে নেয় না। এখানে বলা হয়নি রূঢ় হও, সম্পর্ক ছিঁড়ে ফেলো, কিংবা তাঁদের চাপের বদলা দাও অবজ্ঞা দিয়ে। বলা হয়েছে, ভালো ব্যবহার চালিয়ে যাও, শুধু সেই একটি জিনিসে না বলো যা চাওয়ার অধিকার তাঁদের কখনো ছিল না। এমন সরাসরি দাবির মুখে আমরা বেশির ভাগই পড়ি না। কিন্তু ছোট রূপে তা প্রায়ই আসে, যখন যাঁদের কাছে আমরা সবচেয়ে ঋণী, তাঁরাই এমন কিছু চান যা শুধু আল্লাহরই প্রাপ্য। আমার সীমারেখা কোথায়, আর তা কি আমি নম্রভাবে ধরে রাখতে পারি?",
     "pointsEn": [
       "Who are the people I find hardest to say no to, even when I know the answer has to be no?",
       "The last time I had to refuse someone I love, did I stay kind, or did refusing make me go cold?",
@@ -12038,15 +12038,15 @@ const TADABBUR_NOTES = {
       "কাকে না বলাটা আমার কাছে সবচেয়ে কঠিন লাগে, যদিও জানি উত্তরটা না হতেই হবে?",
       "শেষবার যখন ভালোবাসার কাউকে ফেরাতে হয়েছে, আমি কি নরম ছিলাম, নাকি ফেরাতে গিয়ে রূঢ় হয়ে গিয়েছি?",
       "এই মুহূর্তে আমার উপর এমন কোনো দাবি কি আছে, যা আসলে শুধু আল্লাহরই প্রাপ্য, অথচ কারো প্রতি আনুগত্যের মোড়কে এসেছে?",
-      "যাঁর একটি অনুরোধ আমি রাখতে পারব না, তাঁকেও সম্মান আর সেবা দিয়ে যাওয়া দেখতে কেমন হবে?",
+      "যাঁর একটি অনুরোধ আমি রাখতে পারব না, তাঁকেও সম্মান আর সেবা দিয়ে যেতে হলে বাস্তবে আমাকে কী করতে হবে?",
       "আনুগত্য না দেওয়া আর ভালোবাসা না দেওয়া, এই দুটিকে আমি কি একই জিনিস মনে করি?"
     ],
     "lessonEn": "Obey your parents in everything good, but never in turning from God, and let the one refusal cost them no kindness at all.",
-    "lessonBn": "ভালো সব কিছুতেই পিতা-মাতার কথা মানুন, কিন্তু আল্লাহ থেকে ফেরানোর বেলায় কখনো নয়, আর সেই একটি অস্বীকার যেন তাঁদের প্রতি সদ্ব্যবহার একটুও কমিয়ে না দেয়।"
+    "lessonBn": "ভালো সব কিছুতেই পিতা-মাতার কথা মানুন, কিন্তু আল্লাহ থেকে ফেরানোর বেলায় কখনো নয়, আর সেই একটি ‘না’ যেন তাঁদের প্রতি সদ্ব্যবহার একটুও কমিয়ে না দেয়।"
   },
   "28:76": {
     "reflectionEn": "A man of Musa's own people is handed treasure so vast that the keys alone would stagger a band of strong men. Wealth is not the charge against him. The verse names two other things: he tyrannised the very people he came from, and he exulted. His own folk, watching him swell, said the gentlest hard thing a neighbour can say: do not exult; Allah does not love the exultant. They did not tell him to be poor. They told him to stop gloating and to stop lording it over them. The question the verse leaves on the table is not how much I own, but whether what I own has made me harder to live beside, and whether I still know Who lent it.",
-    "reflectionBn": "মূসা (আঃ)-এর নিজের সম্প্রদায়েরই একজন মানুষ। তাকে এমন ধনভান্ডার দেওয়া হলো যে শুধু চাবিগুলো বইতেই একদল বলবান লোকের কোমর বেঁকে যায়। অথচ তার বিরুদ্ধে অভিযোগটা সম্পদ নয়। আয়াত দুটো আলাদা কথা বলে। সে নিজের লোকদের উপরই জুলুম করেছিল, আর গর্বে ফুলে উঠেছিল। তার স্বজনেরা তাকে বলল সবচেয়ে কোমল অথচ কঠিন কথাটা: গর্ব করো না, আল্লাহ গর্বিতদের ভালোবাসেন না। তারা তাকে গরিব হতে বলেনি। বলেছিল গর্ব থামাতে, আর লোকদের উপর কর্তৃত্ব ফলানো বন্ধ করতে। আয়াত তাই প্রশ্ন রেখে যায় না যে আমার কত আছে, বরং আমার যা আছে তা কি আমাকে পাশে বাস করার অযোগ্য করে তুলেছে, আর কার দেওয়া জিনিস তা আমি এখনো মনে রাখি কিনা।",
+    "reflectionBn": "মূসা (আঃ)-এর নিজের সম্প্রদায়েরই একজন মানুষ। তাকে এমন ধনভান্ডার দেওয়া হলো যে শুধু চাবিগুলো বইতেই একদল বলবান লোকের কোমর বেঁকে যায়। অথচ তার বিরুদ্ধে অভিযোগটা সম্পদ নয়। আয়াত দুটো আলাদা কথা বলে। সে নিজের লোকদের উপরই জুলুম করেছিল, আর গর্বে ফুলে উঠেছিল। তার স্বজনেরা তাকে বলল সবচেয়ে কোমল অথচ কঠিন কথাটা: গর্ব করো না, আল্লাহ গর্বিতদের ভালোবাসেন না। তারা তাকে গরিব হতে বলেনি। বলেছিল গর্ব থামাতে, আর লোকদের উপর কর্তৃত্ব ফলানো বন্ধ করতে। আয়াত তাই প্রশ্ন রেখে যায় না যে আমার কত আছে, বরং আমার যা আছে তা কি আমার পাশে থাকাটা মানুষের জন্য কঠিন করে তুলেছে, আর কে এটা ধার দিয়েছেন, তা আমি এখনো মনে রাখি কিনা।",
     "pointsEn": [
       "What do I own that has quietly made me harder to live beside?",
       "When something good comes to me, is my first move gratitude, or the urge to let others see it?",
@@ -12055,14 +12055,14 @@ const TADABBUR_NOTES = {
       "If what I have is on loan, am I spending it as a borrower or boasting as an owner?"
     ],
     "pointsBn": [
-      "আমার কোন সম্পদ চুপচাপ আমাকে পাশে থাকার অযোগ্য করে তুলেছে?",
-      "ভালো কিছু পেলে আমার প্রথম নড়াচড়া কি কৃতজ্ঞতা, নাকি তা লোককে দেখানোর তাগিদ?",
+      "আমার কোন সম্পদ চুপচাপ আমার পাশে থাকাটা মানুষের জন্য কঠিন করে তুলেছে?",
+      "ভালো কিছু পেলে আমার প্রথম সাড়া কি কৃতজ্ঞতা, নাকি তা লোককে দেখানোর তাগিদ?",
       "যে সুবিধা আমাকে দেওয়া হয়েছে, তা দিয়ে আমি কি কখনো নিজের লোকদেরই চেপে ধরেছি?",
       "কারূনের লোকেরা তাকে যে কোমল অথচ কঠিন কথাটা বলেছিল, তেমন কথা আমাকে বলার সাহস কার আছে, আর আমি কি শুনব?",
       "আমার যা আছে তা যদি ধার হয়, আমি কি তা ধারগ্রহীতার মতো খরচ করি, নাকি মালিকের মতো গর্ব করি?"
     ],
     "lessonEn": "Wealth is not the sin; gloating over it and lording it over others is. Hold what you are given as a loan, with gratitude, not as a trophy.",
-    "lessonBn": "সম্পদ গুনাহ নয়। গুনাহ হলো তা নিয়ে গর্ব করা আর তা দিয়ে মানুষের উপর জুলুম করা। যা পেয়েছেন তা নিজের কীর্তি ভাবার বদলে আল্লাহর আমানত হিসেবে কৃতজ্ঞতায় ধরুন।"
+    "lessonBn": "সম্পদ গুনাহ নয়। গুনাহ হলো তা নিয়ে বড়াই করা আর তার জোরে মানুষের উপর কর্তৃত্ব ফলানো। যা পেয়েছেন, তা নিজের জেতা পুরস্কার ভাববেন না, ধার হিসেবে কৃতজ্ঞতার সঙ্গে ধরে রাখুন।"
   },
   "28:47": {
     "reflectionEn": "Picture a court where the accused could say, with a straight face, that no one ever told him the law. This verse closes that door before it can open. Were a punishment to fall on people for what their own hands earned, and were they then able to protest, \"Our Lord, if only You had sent us a messenger, we would have followed Your signs and believed\" — the sentence stops right there, unfinished, as if the thought is too heavy to complete. God will not let that complaint be true. The warning reaches you first; that is the mercy folded inside it. So the question turns back on me: what warning have I already been given, and am I living as if I never heard it?",
@@ -12076,17 +12076,17 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "স্পষ্ট কোন সতর্কবার্তা আমি ইতিমধ্যে পেয়েছি, যাকে আমি এমনভাবে নিচ্ছি যেন তা কখনো আমার কাছে পৌঁছায়নি?",
-      "আজ যদি জিজ্ঞেস করা হয় কেন আমি কখনো বদলাইনি, তাহলে ‘কেউ তো বলেনি’ কথাটা কি সৎ জবাব হবে, নাকি জানা অজুহাত?",
+      "আজ যদি জিজ্ঞেস করা হয় কেন আমি কখনো বদলাইনি, তাহলে ‘কেউ তো বলেনি’ কথাটা কি সৎ জবাব হবে, নাকি এমন অজুহাত, যা ফাঁপা বলে আমি নিজেই জানি?",
       "কোনো সত্য যখন আমার কাছে পৌঁছায়, আমল করার আগে কতদিন তাকে ফেলে রাখি, আর আসলে কিসের অপেক্ষায় থাকি?",
       "এ সপ্তাহে কাকে আমি নরমভাবে সতর্ক করতে পারি, যাতে জানানোর রহমতটুকু আমার মধ্য দিয়ে আরেকজনের কাছে পৌঁছায়?",
       "আল্লাহর ধৈর্যকে আমি কি দেরি করার অনুমতি হিসেবে নিই, নাকি ফিরে আসার জন্য তাঁর দেওয়া সুযোগ হিসেবে?"
     ],
     "lessonEn": "God sends the warning before the reckoning, so no one can plead ignorance on that Day. The mercy is in being warned at all, so live as one who has heard it.",
-    "lessonBn": "হিসাবের আগেই আল্লাহ সতর্কবার্তা পাঠিয়ে দেন, যাতে সেই দিন কেউ না-জানার অজুহাত তুলতে না পারে। সতর্ক করা হয়েছে, এটাই রহমত। তাই শোনা মানুষের মতো করে বাঁচুন।"
+    "lessonBn": "হিসাবের আগেই আল্লাহ সতর্কবার্তা পাঠিয়ে দেন, যাতে সেই দিন কেউ না-জানার অজুহাত তুলতে না পারে। আদৌ যে সতর্ক করা হয়েছে, এটাই রহমত। তাই এমনভাবে বাঁচুন, যেন সতর্কবার্তাটা আপনি শুনেছেন।"
   },
   "29:20": {
     "reflectionEn": "You are not told to think it over but to get up and go. Travel the land, and look: how did everything that lives first come to be? The command is to the eyes, not only the mind. Nowhere you walk is empty of the answer. A seed cracks open, an animal is born, a city that once filled the earth is now a line of broken walls. The One who began all of this once is not going to find it hard to begin it a second time. That is the whole argument, and it is left for you to finish by looking. When did you last stop and really see how creation begins, and let it tell you how it will end?",
-    "reflectionBn": "আয়াত আপনাকে বলছে না ভেবে বসে থাকতে, বলছে উঠে পড়তে। পৃথিবীতে ঘুরে বেড়ান, আর চোখ মেলে দেখুন, যা কিছু বেঁচে আছে তা প্রথমে এল কোথা থেকে। হুকুমটা মনকে নয়, চোখকে দেওয়া। আপনি যেখানেই পা রাখুন, উত্তরটা সেখানেই ছড়িয়ে আছে। বীজ ফেটে চারা ওঠে, প্রাণী জন্ম নেয়, যে জনপদ একদিন পৃথিবী ভরে রেখেছিল আজ তা ভাঙা দেয়ালের সারি। যিনি একবার এ সব শুরু করেছেন, দ্বিতীয়বার শুরু করা তাঁর কাছে কঠিন কিছু নয়। এটুকুই পুরো যুক্তি, বাকিটা দেখে বুঝে নেওয়ার ভার আপনার। শেষ কবে থেমে দাঁড়িয়ে সত্যিই দেখেছেন সৃষ্টি কীভাবে শুরু হয়, আর সেই দেখা থেকে বুঝেছেন তা কীভাবে শেষ হবে?",
+    "reflectionBn": "আয়াত আপনাকে বলছে না ভেবে বসে থাকতে, বলছে উঠে পড়তে। পৃথিবীতে ঘুরে বেড়ান, আর চোখ মেলে দেখুন, যা কিছু বেঁচে আছে তা প্রথমে এল কোথা থেকে। হুকুমটা শুধু মনকে নয়, চোখকেও দেওয়া। আপনি যেখানেই পা রাখুন, উত্তরটা সেখানেই ছড়িয়ে আছে। বীজ ফেটে চারা ওঠে, প্রাণী জন্ম নেয়, যে জনপদ একদিন পৃথিবী ভরে রেখেছিল আজ তা ভাঙা দেয়ালের সারি। যিনি একবার এ সব শুরু করেছেন, দ্বিতীয়বার শুরু করা তাঁর কাছে কঠিন কিছু নয়। এটুকুই পুরো যুক্তি, বাকিটা দেখে বুঝে নেওয়ার ভার আপনার। শেষ কবে থেমে দাঁড়িয়ে সত্যিই দেখেছেন সৃষ্টি কীভাবে শুরু হয়, আর সেই দেখা থেকে বুঝেছেন তা কীভাবে শেষ হবে?",
     "pointsEn": [
       "When did I last go out of my way simply to look at something Allah has made, and let it move me?",
       "Do I treat the resurrection as a fact I accept, or as something the world around me is quietly arguing for every day?",
@@ -12099,14 +12099,14 @@ const TADABBUR_NOTES = {
       "পুনরুত্থানকে কি আমি শুধু মেনে নেওয়া একটা কথা ধরি, নাকি চারপাশের দুনিয়া প্রতিদিন যার পক্ষে সাক্ষ্য দিয়ে যাচ্ছে?",
       "কোন শেষ, কোন ধ্বংস, কোন মৃত্যুর পাশ দিয়ে ইদানীং হেঁটে গেছি, অথচ সে কী বলছিল তা পড়ে দেখিনি?",
       "শুরু করা আর আবার করা যদি আল্লাহর কাছে সমান সহজ হয়, তবে আমার কোন ভয়টা ছোট হয়ে আসে?",
-      "জীবনের কোথায় আমি এমন এক নতুন শুরুর অপেক্ষায় আছি, যা গোপনে ভাবি অনেক দেরি হয়ে গেছে?"
+      "জীবনের কোথায় আমি এমন এক নতুন শুরুর অপেক্ষায় আছি, অথচ মনে মনে ভাবি তার জন্য অনেক দেরি হয়ে গেছে?"
     ],
     "lessonEn": "Go and look at how creation begins; the One who started it once can raise it again, and nothing at all is beyond His power.",
     "lessonBn": "গিয়ে দেখুন সৃষ্টি কীভাবে শুরু হয়; যিনি একবার শুরু করেছেন তিনি আবার জীবিত করতে পারেন, আর কোনো কিছুই তাঁর ক্ষমতার বাইরে নয়।"
   },
   "29:39": {
     "reflectionEn": "Three names come in a single breath, with no verb of their own to carry them: Qārūn, Pharaoh, and Hāmān. One held wealth, one held a throne, one held the office that ran the throne's business. Different idols, and the Qur'an sets them side by side because the sin underneath was one. Moses came to all three with clear proofs, and all three grew large in the land and turned away. Then the verse closes the door: they were not outrunners. Not one of them got ahead of the reckoning. I do not own a treasury or a throne, but I carry some small corner of the earth, and the question it leaves is whether I grow large in it, or stay low.",
-    "reflectionBn": "তিনটি নাম এক নিঃশ্বাসে এসে পড়ে, নিজেদের কোনো ক্রিয়া ছাড়াই: কারূন, ফেরাউন আর হামান। একজনের হাতে ধন, একজনের হাতে সিংহাসন, আর একজনের হাতে সেই সিংহাসন চালানোর ভার। আলাদা আলাদা মূর্তি, তবু কুরআন তাদের পাশাপাশি রাখে, কারণ ভেতরের গুনাহটা ছিল একটাই। মূসা (আঃ) তিনজনের কাছেই সুস্পষ্ট প্রমাণ নিয়ে এসেছিলেন, আর তিনজনেই পৃথিবীতে বড় হয়ে উঠল আর মুখ ফিরিয়ে নিল। তারপর আয়াত দরজাটা বন্ধ করে দেয়: তারা কেউ এগিয়ে যেতে পারেনি। হিসাবকে পেছনে ফেলে একজনও সামনে বেরোতে পারেনি। আমার কোনো ধনভাণ্ডার বা সিংহাসন নেই, তবু পৃথিবীর ছোট্ট একটা কোণ আমার হাতেও আছে। প্রশ্নটা থেকে যায়: সেখানে আমি কি বড় হয়ে উঠি, নাকি নিচু থাকি?",
+    "reflectionBn": "তিনটি নাম এক নিঃশ্বাসে এসে পড়ে, নিজেদের কোনো ক্রিয়া ছাড়াই: কারূন, ফেরাউন আর হামান। একজনের হাতে ধন, একজনের হাতে সিংহাসন, আর একজনের হাতে সেই সিংহাসন চালানোর ভার। আলাদা আলাদা মূর্তি, তবু কুরআন তাদের পাশাপাশি রাখে, কারণ ভেতরের গুনাহটা ছিল একটাই। মূসা (আঃ) তিনজনের কাছেই সুস্পষ্ট প্রমাণ নিয়ে এসেছিলেন, আর তিনজনই দেশে দম্ভ করে বেড়াল, মুখ ফিরিয়ে নিল। তারপর আয়াত দরজাটা বন্ধ করে দেয়: তারা কেউ এগিয়ে যেতে পারেনি। হিসাবকে পেছনে ফেলে একজনও সামনে বেরোতে পারেনি। আমার কোনো ধনভাণ্ডার বা সিংহাসন নেই, তবু পৃথিবীর ছোট্ট একটা কোণ আমার হাতেও আছে। প্রশ্নটা থেকে যায়: সেখানে আমি কি নিজেকে বড় করে তুলি, নাকি বিনয়ী থাকি?",
     "pointsEn": [
       "Which of the three — money, position, or the authority to act for someone powerful — is the one most likely to make me feel large?",
       "When clear truth reaches me and accepting it will cost me something, do I weigh it, or do I grow defensive and turn away?",
@@ -12118,7 +12118,7 @@ const TADABBUR_NOTES = {
       "টাকা, পদ, নাকি কোনো ক্ষমতাধরের হয়ে কাজ করার অধিকার—এই তিনটার কোনটা আমাকে সবচেয়ে বেশি বড় হওয়ার অনুভূতি দেয়?",
       "স্পষ্ট হক যখন আমার কাছে আসে আর তা মানতে গেলে কিছু হারাতে হয়, আমি কি সেটা ভেবে দেখি, নাকি গোঁ ধরে মুখ ফিরিয়ে নিই?",
       "এ সপ্তাহে কাকে আমি ছোট করে দেখেছি, আর নিজেকে কী বুঝিয়ে সেটাকে ঠিক বলে চালিয়েছি?",
-      "সামনে আসতে থাকা কোন পরিণতিকে পেছনে ফেলে এগিয়ে যাওয়ার ভরসায় আমি বসে আছি?",
+      "যে পরিণতি আসছে বলে এখনই দেখতে পাচ্ছি, তাকে পেছনে ফেলে এগিয়ে যেতে আমি কিসের উপর ভরসা করছি?",
       "আমার সামান্য ক্ষমতাটুকু কাল কেড়ে নেওয়া হলে, নিজেকে যা ভাবি তার কতটুকু সঙ্গে সঙ্গে চলে যাবে?"
     ],
     "lessonEn": "Wealth, power, and office are three masks for one sin; whoever grows arrogant before the truth never outruns the reckoning, however far ahead he seems.",
@@ -12146,7 +12146,7 @@ const TADABBUR_NOTES = {
   },
   "29:25": {
     "reflectionEn": "Ibrahim has just been pulled from a fire his own people built for him, and he does not strike back. He turns and tells them what their idols really are: not gods, but a bond. Worship the same stones, belong to the same circle, and the tribe stays warm and together in this life. It can feel like love. Then he tells them where that love ends. On the Day of Resurrection the circle breaks; each one will deny the others, curse the others, and no one will come to help. The question he leaves is for me too. Which of my loyalties are built on God, and which are built only on belonging, and so will one day turn on me?",
-    "reflectionBn": "ইবরাহীম (আঃ) সবে সেই আগুন থেকে রক্ষা পেয়েছেন, যা তাঁর নিজের সম্প্রদায় তাঁর জন্য জ্বালিয়েছিল, অথচ তিনি কোনো প্রতিশোধ নেন না। তিনি ফিরে তাদের বলে দেন, তাদের প্রতিমাগুলো আসলে কী। ওগুলো উপাস্য নয়, একটা বাঁধন। একই পাথরের পূজা, একই দলে থাকা, এতে দুনিয়ার জীবনে গোটা গোত্র একসঙ্গে উষ্ণ হয়ে থাকে। দেখতে ভালবাসার মতোই লাগে। তারপর তিনি বলে দেন, এই ভালবাসা কোথায় গিয়ে ফুরায়। ক্বিয়ামতের দিন দলটা ভেঙে যাবে। সেদিন একে অপরকে অস্বীকার করবে, অভিশাপ দেবে, কেউ কারও সাহায্যে আসবে না। যে প্রশ্নটা তিনি রেখে যান, তা আমার জন্যও। আমার কোন টানগুলো আল্লাহর উপর গড়া, আর কোনগুলো শুধু দলে থাকার, যেগুলো একদিন আমার বিরুদ্ধেই ঘুরে দাঁড়াবে?",
+    "reflectionBn": "ইবরাহীম (আঃ) সবে সেই আগুন থেকে রক্ষা পেয়েছেন, যা তাঁর নিজের সম্প্রদায় তাঁর জন্য জ্বালিয়েছিল, অথচ তিনি পাল্টা আঘাত করেন না। তিনি ফিরে তাদের বলে দেন, তাদের প্রতিমাগুলো আসলে কী। ওগুলো উপাস্য নয়, একটা বাঁধন। একই পাথরের পূজা করো, একই দলে থাকো, তাহলে দুনিয়ার জীবনে গোটা গোত্র একসঙ্গে উষ্ণ হয়ে থাকে। মনে হতে পারে এটাই ভালোবাসা। তারপর তিনি বলে দেন, এই ভালোবাসা কোথায় গিয়ে শেষ হয়। কিয়ামতের দিন দলটা ভেঙে যাবে। সেদিন একে অপরকে অস্বীকার করবে, অভিশাপ দেবে, কেউ কারও সাহায্যে আসবে না। যে প্রশ্নটা তিনি রেখে যান, তা আমার জন্যও। আমার কোন টানগুলো আল্লাহর উপর গড়া, আর কোনগুলো শুধু দলে থাকার উপর, যেগুলো একদিন আমার বিরুদ্ধেই ঘুরে দাঁড়াবে?",
     "pointsEn": [
       "Which of my friendships would still stand if God were taken out of them?",
       "Have I ever gone along with something wrong simply because it was what my circle did?",
@@ -12157,16 +12157,16 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "আল্লাহকে বাদ দিলে আমার কোন বন্ধুত্বগুলো তবু টিকে থাকত?",
       "শুধু দল যা করছে বলে আমি কি কখনো কোনো অন্যায়ে গা ভাসিয়েছি?",
-      "সত্য নিয়ে চুপ থেকে আমি আসলে কার সন্তুষ্টির সেবা করছি?",
+      "সত্য নিয়ে চুপ থেকে আমি আসলে কার সন্তুষ্টি রক্ষা করছি?",
       "যাদের আমি অনুসরণ করি, তারা যদি একদিন সেই অনুসরণের জন্যই আমাকে অভিশাপ দেয়, তবে তারা আমাকে কোথায় নিয়ে যাচ্ছে, সে বিষয়ে আমি কি নিশ্চিত?",
-      "কোন টানকে আমি ভালবাসা ভাবছি, যা আসলে নিছক দলে থাকার আরাম?"
+      "কোন টানকে আমি ভালোবাসা ভাবছি, যা আসলে নিছক দলে থাকার আরাম?"
     ],
     "lessonEn": "Any bond built on anything but God turns to blame on the Day; weigh your loyalties now, and let none of them pull you away from Him.",
-    "lessonBn": "আল্লাহ ছাড়া অন্য কিছুর উপর গড়া প্রতিটি বাঁধন ক্বিয়ামতের দিন দোষারোপে বদলে যায়। আজই নিজের টানগুলো যাচাই করুন, কোনোটিকে আপনাকে তাঁর থেকে সরাতে দেবেন না।"
+    "lessonBn": "আল্লাহ ছাড়া অন্য কিছুর উপর গড়া প্রতিটি বাঁধন কিয়ামতের দিন দোষারোপে বদলে যায়। আজই নিজের টানগুলো যাচাই করুন, কোনোটিকে আপনাকে তাঁর থেকে সরাতে দেবেন না।"
   },
   "29:14": {
     "reflectionEn": "A man calls his people for nine and a half centuries, and the Qur'an gives his whole mission one line. A thousand years less fifty of pleading, warning and waiting, folded into sixteen words. Scarcely any believed. He did not quit in the first year, or the four hundredth; he kept rising, night and day. Then, only once they had hardened into wrongdoers, the flood came. The length is the lesson. My own patience is measured in days and runs out by evening, and I ask for results on my own timetable and call it faith. Here is a servant who gave a lifetime to a call that bore almost no fruit, and was not counted a failure, because the harvest was never his to carry.",
-    "reflectionBn": "একজন মানুষ তার সম্প্রদায়কে ডেকে গেছেন প্রায় সাড়ে নয়শো বছর, আর কুরআন তাঁর গোটা মিশনকে ধরিয়ে দিয়েছে এক লাইনে। হাজার বছর থেকে পঞ্চাশ কম সময়জুড়ে অনুনয়, সতর্কবার্তা আর অপেক্ষা, সব জমা হয়ে আছে ষোলোটি শব্দে। হাতে গোনা কয়েকজন ঈমান এনেছিল। তিনি প্রথম বছরে থামেননি, চারশো বছরেও না, রাত-দিন উঠে দাঁড়িয়েছেন বারবার। তারপর যখন তারা সীমালঙ্ঘনে পাকা হয়ে গেল, তখনই এল মহাপ্লাবন। দৈর্ঘ্যটাই এখানে শিক্ষা। আমার ধৈর্য মাপা হয় দিনে, আর সন্ধ্যা হতেই তা ফুরিয়ে যায়। আমি নিজের সময়সূচিতে ফল চাই, আর সেটাকেই বলি ঈমান। এখানে এমন এক বান্দা, যিনি গোটা জীবন দিয়ে দিলেন এমন এক ডাকে যা প্রায় কোনো ফলই দেয়নি, তবু তাঁকে ব্যর্থ গণ্য করা হয়নি, কারণ ফসল তোলার দায় কখনো তাঁর কাঁধে ছিল না।",
+    "reflectionBn": "একজন মানুষ তাঁর সম্প্রদায়কে ডেকে গেছেন প্রায় সাড়ে নয়শো বছর, আর কুরআন তাঁর গোটা মিশনকে ধরিয়ে দিয়েছে এক লাইনে। হাজার বছর থেকে পঞ্চাশ কম সময়জুড়ে অনুনয়, সতর্কবার্তা আর অপেক্ষা, সব জমা হয়ে আছে ষোলোটি শব্দে। হাতে গোনা কয়েকজন ঈমান এনেছিল। তিনি প্রথম বছরে থামেননি, চারশো বছরেও না, রাত-দিন উঠে দাঁড়িয়েছেন বারবার। তারপর যখন তারা সীমালঙ্ঘনে পাকা হয়ে গেল, তখনই এল মহাপ্লাবন। দৈর্ঘ্যটাই এখানে শিক্ষা। আমার ধৈর্য মাপা হয় দিনে, আর সন্ধ্যা হতেই তা ফুরিয়ে যায়। আমি নিজের সময়সূচিতে ফল চাই, আর সেটাকেই বলি ঈমান। এখানে এমন এক বান্দা, যিনি গোটা জীবন দিয়ে দিলেন এমন এক ডাকে যা প্রায় কোনো ফলই দেয়নি, তবু তাঁকে ব্যর্থ গণ্য করা হয়নি, কারণ ফসল তোলার দায় কখনো তাঁর কাঁধে ছিল না।",
     "pointsEn": [
       "What call have I given up on because it did not bear fruit in the time I allotted it?",
       "Do I weigh my effort by its results, or by my faithfulness in staying at it?",
@@ -12179,7 +12179,7 @@ const TADABBUR_NOTES = {
       "আমি কি আমার চেষ্টাকে মাপি তার ফল দিয়ে, নাকি লেগে থাকার বিশ্বস্ততা দিয়ে?",
       "আমার ধৈর্য যখন সন্ধ্যাতেই ফুরিয়ে যায়, তখন একটা গোটা জীবনের ধৈর্য আমার কাছে কী চায়?",
       "কাকে আমি চুপচাপ বাদের খাতায় তুলে দিয়েছি? এক বছর, এমনকি এক দশক পরেও কি তাকে ডাকতে থাকতাম?",
-      "আমি কোন জিনিসের জন্য আল্লাহর কাছে অপেক্ষা করছি আমার সময়মতো, তাঁর সময়মতো নয়?"
+      "কোন কাজটা আল্লাহ তাঁর সময়ে নয়, আমার সময়সূচি মেনে করে দেবেন, এই অপেক্ষায় আমি বসে আছি?"
     ],
     "lessonEn": "Keep doing what is right even when it bears little fruit; your task is the faithful effort, not the harvest, and the timing of that belongs to God alone.",
     "lessonBn": "ফল সামান্য হলেও সঠিক কাজটা করে যান; আপনার দায়িত্ব বিশ্বস্ত চেষ্টা, ফসল তোলা নয়, আর তার সময় একমাত্র আল্লাহর হাতে।"
@@ -12206,7 +12206,7 @@ const TADABBUR_NOTES = {
   },
   "29:47": {
     "reflectionEn": "A Book comes down, the way every Book before it came down, and it does not land in a void. It sorts the people who meet it. Some who already carry an older Scripture read this one and believe, because it matches what they were waiting for. Some of the Prophet's own townsfolk believe too. And those who turn away are not the ones who never heard; they are the ones who saw enough to know and refused anyway. That is the sting of the verse. It leaves little room to plead ignorance. When a truth reaches me plainly and following it would cost me something, which of these three do I become?",
-    "reflectionBn": "কিতাব নেমে আসে, আগের প্রতিটি কিতাব যেভাবে নেমেছিল ঠিক সেভাবেই। আর তা শূন্যে গিয়ে পড়ে না, যারা এর মুখোমুখি হয় তাদের যাচাই করে ভাগ করে দেয়। যাদের হাতে আগের কিতাব আছে, তাদের কেউ কেউ এটি পড়ে বিশ্বাস করে, কারণ যার অপেক্ষায় তারা ছিল এটি তার সঙ্গে মিলে যায়। নবী ﷺ-এর নিজের শহরের কিছু লোকও বিশ্বাস করে। আর যারা মুখ ফিরিয়ে নেয়, তারা না-শোনা লোক নয়; তারা যথেষ্ট দেখেও জেনেশুনে অস্বীকার করে। এখানেই আয়াতের খোঁচা। না-জানার অজুহাত আর টেকে না। সত্য যখন সামনে স্পষ্ট হয়ে আসে, আর তা মানতে গেলে কিছু হারাতে হয়, আমি এই তিনজনের কোনজন হয়ে উঠি?",
+    "reflectionBn": "কিতাব নেমে আসে, আগের প্রতিটি কিতাব যেভাবে নেমেছিল ঠিক সেভাবেই। আর তা শূন্যে গিয়ে পড়ে না, যারা এর মুখোমুখি হয় তাদের যাচাই করে ভাগ করে দেয়। যাদের হাতে আগের কিতাব আছে, তাদের কেউ কেউ এটি পড়ে বিশ্বাস করে, কারণ যার অপেক্ষায় তারা ছিল এটি তার সঙ্গে মিলে যায়। নবী ﷺ-এর নিজের শহরের কিছু লোকও বিশ্বাস করে। আর যারা মুখ ফিরিয়ে নেয়, তারা না-শোনা লোক নয়; তারা যথেষ্ট দেখেও জেনেশুনে অস্বীকার করে। এখানেই আয়াতের খোঁচা। না-জানার অজুহাতের জায়গা প্রায় থাকে না। সত্য যখন সামনে স্পষ্ট হয়ে আসে, আর তা মানতে গেলে কিছু হারাতে হয়, আমি এই তিনজনের কোনজন হয়ে উঠি?",
     "pointsEn": [
       "When a truth has reached me clearly, is there one I have quietly set aside because acting on it would cost me?",
       "Can I tell the difference, inside myself, between not knowing and knowing-and-looking-away?",
@@ -12226,7 +12226,7 @@ const TADABBUR_NOTES = {
   },
   "30:3": {
     "reflectionEn": "A battle is lost. Word reaches Makkah that the empire closer to the believers' faith has been crushed by the one furthest from it, and the enemies of the message are glad. Into that defeat a single line is spoken: they will win again, and soon. No army was on the move to make it likely, and the beaten side looked finished. Yet the word was set, and the years kept it. When the news runs against everything you were promised, which do you trust, what the eye reports today or what your Lord has said will be? The verse does not ask you to deny the defeat. It asks you to know Who holds whatever comes after it.",
-    "reflectionBn": "একটা যুদ্ধ হেরে গেছে। মক্কায় খবর এল, ঈমানের দিক থেকে যারা মুসলিমদের কাছের, সেই সাম্রাজ্যকে গুঁড়িয়ে দিয়েছে সবচেয়ে দূরের শক্তি। দাওয়াতের শত্রুরা তাতে খুশি। সেই পরাজয়ের ভেতরেই একটিমাত্র কথা নেমে এল: তারা আবার জিতবে, আর খুব দ্রুতই। জেতার মতো কোনো সৈন্য তখন পথে ছিল না, পরাজিত পক্ষকে শেষ বলেই মনে হচ্ছিল। তবু কথাটা স্থির ছিল, আর বছরগুলো সে কথা রক্ষা করল। চারপাশের খবর যখন আপনার সব প্রতিশ্রুতির উল্টো চলে, তখন আপনি কাকে ভরসা করেন, আজ চোখে যা দেখছেন তাকে নাকি রব যা হবে বলে দিয়েছেন তাকে? আয়াত আপনাকে পরাজয় অস্বীকার করতে বলে না। বলে, এর পরে যা আসবে তা কার হাতে, সেটা জেনে রাখুন।",
+    "reflectionBn": "একটা যুদ্ধে হার হয়েছে। মক্কায় খবর এল, ঈমানের দিক থেকে যারা মুসলিমদের কাছের, সেই সাম্রাজ্যকে গুঁড়িয়ে দিয়েছে সবচেয়ে দূরের শক্তি। দাওয়াতের শত্রুরা তাতে খুশি। সেই পরাজয়ের ভেতরেই একটিমাত্র কথা নেমে এল: তারা আবার জিতবে, আর খুব দ্রুতই। জেতার মতো কোনো সৈন্য তখন পথে ছিল না, পরাজিত পক্ষকে শেষ বলেই মনে হচ্ছিল। তবু কথাটা স্থির ছিল, আর বছরগুলো সে কথা রক্ষা করল। চারপাশের খবর যখন আপনাকে দেওয়া সব প্রতিশ্রুতির উল্টো চলে, তখন আপনি কাকে ভরসা করেন, আজ চোখে যা দেখছেন তাকে, নাকি আপনার রব যা হবে বলে দিয়েছেন তাকে? আয়াত আপনাকে পরাজয় অস্বীকার করতে বলে না। বলে, এর পরে যা আসবে তা কার হাতে, সেটা জেনে রাখুন।",
     "pointsEn": [
       "When the news runs against what I believe, do I measure the future by today's headlines or by what my Lord has promised?",
       "Where in my life have I called something finished that Allah had not yet finished?",
@@ -12258,11 +12258,11 @@ const TADABBUR_NOTES = {
       "আমি কী গড়েছি বা জমিয়েছি, যা চুপচাপ আমার আসল ভরসা হয়ে উঠেছে, যাকে আমি নিরাপত্তার জিম্মাদার ভাবি?",
       "নিজের কোনো ভুল নিয়ে স্পষ্ট সত্য যখন আমার কাছে পৌঁছেছে, সাড়া দেওয়ার আগে কতদিন তা উড়িয়ে দিয়েছি?",
       "ক্ষমতাধর মানুষ ও জাতির পতনের খবর আমি কি অন্যের ঘটনা হিসেবে পড়ি, নাকি আমার উদ্দেশেই পাঠানো সতর্কবার্তা হিসেবে?",
-      "আমার জীবনের কোথায় আমি নিজের পছন্দের গড়া পরিণতির জন্য পরিস্থিতিকে, এমনকি আল্লাহকে দোষ দিচ্ছি?",
+      "আমার জীবনের কোথায় আমি নিজের সিদ্ধান্তে গড়া পরিণতির জন্য পরিস্থিতিকে, এমনকি আল্লাহকে দোষ দিচ্ছি?",
       "আমার শক্তি আর আমার পরিশ্রম যদি আমাকে বাঁচাতে না পারে, তাহলে আসলে কী পারে?"
     ],
     "lessonEn": "No amount of power or wealth protects a person who turns from the truth; ruin is never God's injustice but the harvest of our own choices.",
-    "lessonBn": "ক্ষমতা বা সম্পদ কোনোটাই সত্য থেকে মুখ ফেরানো মানুষকে বাঁচায় না। ধ্বংস কখনো আল্লাহর জুলুম নয়, তা আমাদের নিজেদের পছন্দেরই ফসল।"
+    "lessonBn": "ক্ষমতা বা সম্পদ কোনোটাই সত্য থেকে মুখ ফেরানো মানুষকে বাঁচায় না। ধ্বংস কখনো আল্লাহর জুলুম নয়, তা আমাদের নিজেদের সিদ্ধান্তেরই ফসল।"
   },
   "30:18": {
     "reflectionEn": "Read the verse slowly and the day opens out inside it. Evening, morning, the late afternoon, the hour the sun climbs to its height — the whole turning of a single day is named, and at each turn the call is the same: glorify Him, praise Him. Between the markers sits a wider claim: to Him belongs the praise in the heavens and the earth. So the praise you offer at these hours is not something you begin. It is already going on, everywhere, in everything. You are only joining it. The question the verse leaves is whether my day keeps any of these hours for Him, or runs from dawn to dark with His name never once on my tongue.",
@@ -12277,12 +12277,12 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "আমার দিনের কোন সময়গুলো অভ্যাসবশত আগে থেকেই আল্লাহর জন্য, আর কোনগুলো তাঁর দিকে একবারও না ফিরে কেটে যায়?",
       "তাঁর প্রশংসা করার সময় আমার কি মনে হয় আমি কিছু শুরু করছি, নাকি আসমান ও যমীন যা কখনো থামায় না সেই প্রশংসায় শামিল হচ্ছি?",
-      "সাধারণ এক বিকেলে, তার মাঝপথে থেমে যদি বলি প্রশংসা তো তাঁরই, তাতে কী বদলে যায়?",
+      "সাধারণ এক দিনের ঠিক মাঝদুপুরে থেমে যদি বলি, প্রশংসা তো তাঁরই, তাতে কী বদলে যেত?",
       "আমার যিকির কি এমন বাঁধা সময়ের সঙ্গে জড়ানো যার হিসাব আমাকে দিতে হয়, নাকি কেবল আসা-যাওয়া মেজাজের সঙ্গে?",
       "সৃষ্টির প্রতিটি জিনিস যদি তার রবের প্রশংসা করে, তবে আমার চুপ থাকাটা আসলে কী বলছে?"
     ],
     "lessonEn": "Let each fixed hour of your day, morning and noon and afternoon and evening, carry a turn toward Allah, joining the praise the heavens and the earth never cease to offer.",
-    "lessonBn": "দিনের প্রতিটি বাঁধা সময়, সকাল-দুপুর-বিকেল-সন্ধ্যা, আল্লাহর দিকে একটি করে মোড় বহন করুক, আসমান ও যমীন যে প্রশংসা কখনো থামায় না তাতে শামিল হোক।"
+    "lessonBn": "দিনের প্রতিটি বাঁধা সময়ে, সকাল-দুপুর-বিকেল-সন্ধ্যায়, একবার করে আল্লাহর দিকে ফিরুন। আসমান ও যমীন যে প্রশংসা কখনো থামায় না, তাতে আপনিও শামিল হোন।"
   },
   "30:32": {
     "reflectionEn": "The passage has just called you back to the one upright religion: turn to Him, fear Him, pray, and do not stand with those who set up partners. Then comes the warning. Do not be of those who tore that one religion into pieces and became sects, every faction rejoicing in what it has. The sting is the rejoicing. Not that people differ, but that each party sits pleased with its own corner, sure it alone is right and the rest are wrong. The early commentators turned this on the believers too. So the question is quiet and uncomfortable. Does my gladness come from Allah's religion, or from belonging to the winning side?",
@@ -12298,7 +12298,7 @@ const TADABBUR_NOTES = {
       "নিজের দলের পক্ষে দাঁড়ানোর সময় আমি কি সত্যের পক্ষে দাঁড়াই, নাকি জেতা দলে থাকার পক্ষে?",
       "যার সঙ্গে আমার মতের মিল নেই, সে-ও যে সত্য কিছু ধরতে পেরেছে, এটা স্বীকার করতে আমার কী হারায়?",
       "দ্বীন নিয়ে আমার আনন্দ কি আল্লাহর সঙ্গে বাঁধা, নাকি কোনো একটা দলে থাকার সঙ্গে?",
-      "কোথায় আমি একটা গৌণ মতভেদকে অন্য ভাইয়ের সঙ্গে দেয়াল হয়ে দাঁড়াতে দিয়েছি?",
+      "কোথায় আমি একটা গৌণ মতভেদকে আমার আর আরেক মুমিনের মাঝে দেয়াল হয়ে দাঁড়াতে দিয়েছি?",
       "আমার দল সঠিক প্রমাণিত হলে আমি বেশি খুশি হই, নাকি সত্য স্পষ্ট হলে, তা যার হাতেই থাকুক?"
     ],
     "lessonEn": "The religion is one; guard against splitting it into self-satisfied factions, and let your gladness rest in Allah's truth rather than in belonging to a winning party.",
@@ -12306,7 +12306,7 @@ const TADABBUR_NOTES = {
   },
   "30:46": {
     "reflectionEn": "A wind picks up. Before a single drop has fallen it is already good news, pushing the clouds ahead of the rain so that people look up and hope before anything is placed in their hands. That same moving air then carries ships across the sea and lets trade reach from one land to the next. One thing you cannot see or hold turns into water, food, travel, a living. The verse lists all of it and then asks for just one thing back: that perhaps you will be grateful. It does not demand the thanks the way it states the mercies. It leaves a gap, and that gap is yours to close every time the weather changes and you barely look up.",
-    "reflectionBn": "বাতাস উঠল। এক ফোঁটা পড়ার আগেই তা সুসংবাদ হয়ে গেছে। বৃষ্টির আগে আগে সে মেঘ ঠেলে নিয়ে আসে, যাতে হাতে কিছু আসার আগেই মানুষ উপরে তাকিয়ে আশায় বুক বাঁধে। সেই চলমান বাতাসই আবার সাগরে নৌযান চালায়, এক দেশের ব্যবসা পৌঁছে দেয় আরেক দেশে। যাকে আপনি দেখতে পান না, ধরতেও পারেন না, তা-ই বদলে যায় পানিতে, খাবারে, সফরে, জীবিকায়। আয়াতটি এ সবকিছু গুনে গুনে বলে, তারপর বিনিময়ে চায় মাত্র একটি জিনিস, হয়তো আপনি কৃতজ্ঞ হবেন। রহমতগুলো যতটা জোর দিয়ে বলা হয়েছে, শুকরিয়া ততটা জোর দিয়ে দাবি করা হয়নি। একটা ফাঁক রেখে দেওয়া হয়েছে। আবহাওয়া বদলায় আর আপনি ফিরেও তাকান না, প্রতিবার সেই ফাঁকটা পূরণ করার ভার আপনারই।",
+    "reflectionBn": "বাতাস উঠল। এক ফোঁটা পড়ার আগেই তা সুসংবাদ হয়ে গেছে। বৃষ্টির আগে আগে সে মেঘ ঠেলে নিয়ে আসে, যাতে হাতে কিছু আসার আগেই মানুষ উপরে তাকিয়ে আশায় বুক বাঁধে। সেই চলমান বাতাসই আবার সাগরে নৌযান চালায়, এক দেশের ব্যবসা পৌঁছে দেয় আরেক দেশে। যাকে আপনি দেখতে পান না, ধরতেও পারেন না, তা-ই বদলে যায় পানিতে, খাবারে, সফরে, জীবিকায়। আয়াতটি এ সবকিছু গুনে গুনে বলে, তারপর বিনিময়ে চায় মাত্র একটি জিনিস, হয়তো আপনি কৃতজ্ঞ হবেন। রহমতগুলো যতটা জোর দিয়ে বলা হয়েছে, শুকরিয়া ততটা জোর দিয়ে দাবি করা হয়নি। একটা ফাঁক রেখে দেওয়া হয়েছে। যতবার আবহাওয়া বদলায় আর আপনি চোখ তুলে তাকানও না, ততবার সেই ফাঁক পূরণ করার ভার আপনার।",
     "pointsEn": [
       "When did I last notice the wind or the rain as something given, rather than just weather to get through?",
       "The verse turns mercy into trade, food and travel; which of today's ordinary provisions did I take without a word of thanks?",
@@ -12318,8 +12318,8 @@ const TADABBUR_NOTES = {
       "শেষ কবে বাতাস বা বৃষ্টিকে আমি কেবল পেরিয়ে যাওয়ার আবহাওয়া নয়, বরং দান হিসেবে খেয়াল করেছি?",
       "আয়াতটি রহমতকে বানিয়ে দেয় ব্যবসা, খাবার আর সফর; আজকের কোন সাধারণ রিযিকটা আমি একটি শুকরিয়ার কথা ছাড়াই নিয়ে নিয়েছি?",
       "আমার জীবনে কোথায় আসল জিনিসের আগেই সুসংবাদ এসে পৌঁছেছে, আর আমি কি তাতে মন ভরে উঠতে দিয়েছি?",
-      "বাক্যটি শুকরিয়াকে রেখে দেয় একটা 'হয়তো' হিসেবে; এ সপ্তাহে সেই ফাঁক সত্যিই পূরণ করা আমার কাছে কেমন দেখাবে?",
-      "আমার জীবিকার জন্য আমি আগে কাকে কৃতিত্ব দিই, নিজের চেষ্টা নাকি বাজারকে, উপায় যিনি পাঠান তাঁকে স্মরণ করার আগে?"
+      "বাক্যটি শুকরিয়াকে রেখে দেয় একটা ‘হয়তো’ হিসেবে; এ সপ্তাহে সেই ফাঁক সত্যিই পূরণ করতে হলে আমাকে কী করতে হবে?",
+      "যিনি উপায় পাঠান, তাঁকে কৃতিত্ব দেওয়ার আগে আমার জীবিকার কৃতিত্ব আমি কাকে দিই, নিজের চেষ্টাকে, নাকি বাজারকে?"
     ],
     "lessonEn": "The same wind that heralds rain carries your trade and your food; let every ordinary mercy you barely notice become a reason to thank the One who sends it.",
     "lessonBn": "যে বাতাস বৃষ্টির খবর আনে, সেই বাতাসই বয়ে আনে আপনার ব্যবসা আর খাবার; খেয়ালই করেন না এমন প্রতিটি সাধারণ রহমত হয়ে উঠুক দাতাকে শুকরিয়া জানানোর উপলক্ষ।"
@@ -12346,7 +12346,7 @@ const TADABBUR_NOTES = {
   },
   "30:51": {
     "reflectionEn": "A field drinks the rain and goes green, and the people who waited for it rejoice. Then one dry wind passes over the standing crop and it turns yellow before harvest. The verse says that at that single sight they would keep on denying, forgetting every mercy that fed them weeks before. It is not the loss that is strange; it is how fast the gratitude turns. A heart that praised God while the stalks were green now acts as if He never sent the rain at all. The question is not whether my weather will change. It is whether my thankfulness was ever really for the Giver, or only for the gift while it lasted.",
-    "reflectionBn": "খেত বৃষ্টি পায়, সবুজ হয়ে ওঠে, আর যারা এই বৃষ্টির অপেক্ষায় ছিল তারা আনন্দে ভরে যায়। তারপর একটা শুকনো বাতাস দাঁড়ানো ফসলের উপর দিয়ে বয়ে যায়, আর ফসল কাটার আগেই তা হলদে হয়ে যায়। আয়াত বলছে, ঠিক ওই দৃশ্যটা দেখেই তারা অস্বীকারে লেগে থাকবে। কয়েক সপ্তাহ আগে যে রহমত তাদের খাইয়েছে, তা তারা ভুলে যাবে। ক্ষতিটা অদ্ভুত নয়, অদ্ভুত হলো কত দ্রুত কৃতজ্ঞতা উল্টে যায়। যে অন্তর সবুজ গাছের পাশে দাঁড়িয়ে আল্লাহর প্রশংসা করছিল, সেই অন্তরই এখন এমন আচরণ করছে যেন তিনি বৃষ্টিই পাঠাননি। প্রশ্নটা এ নয় যে আমার অবস্থা বদলাবে কিনা। প্রশ্নটা হলো, আমার কৃতজ্ঞতা কি সত্যিই দাতার জন্য ছিল, নাকি কেবল যতক্ষণ দান টিকে ছিল ততক্ষণের জন্য।",
+    "reflectionBn": "খেত বৃষ্টি পায়, সবুজ হয়ে ওঠে, আর যারা এই বৃষ্টির অপেক্ষায় ছিল তারা আনন্দে ভরে যায়। তারপর একটা শুকনো বাতাস দাঁড়ানো ফসলের উপর দিয়ে বয়ে যায়, আর ফসল কাটার আগেই তা হলদে হয়ে যায়। আয়াত বলছে, ঠিক ওই দৃশ্যটা দেখেই তারা অস্বীকারে লেগে থাকবে। কয়েক সপ্তাহ আগে যে রহমত তাদের খাইয়েছে, তা তারা ভুলে যাবে। ক্ষতিটা অদ্ভুত নয়, অদ্ভুত হলো কত দ্রুত কৃতজ্ঞতা উল্টে যায়। ফসলের ডাঁটা যখন সবুজ ছিল, তখন যে অন্তর আল্লাহর প্রশংসা করছিল, সেই অন্তরই এখন এমন আচরণ করছে যেন তিনি বৃষ্টিই পাঠাননি। প্রশ্নটা এ নয় যে আমার অবস্থা বদলাবে কিনা। প্রশ্নটা হলো, আমার কৃতজ্ঞতা কি সত্যিই দাতার জন্য ছিল, নাকি কেবল যতক্ষণ দান টিকে ছিল ততক্ষণের জন্য।",
     "pointsEn": [
       "When something I long prayed for finally arrived, how long did my gratitude outlast the relief?",
       "Is my thankfulness attached to the Giver, or only to the gift for as long as it serves me?",
@@ -12366,7 +12366,7 @@ const TADABBUR_NOTES = {
   },
   "30:30": {
     "reflectionEn": "Set your face to the religion as one who leans away from every falsehood. That is how the verse opens, and then it names what you are being turned back toward: the fitrah, the shape Allah gave every person at the very start, the quiet pull toward knowing and worshipping the One who made you. Nobody is born a stranger to his Lord. A child comes already leaning that way, and it is the world, the home, the habit of a lifetime that teaches him to lean elsewhere. So the real question is not how I become someone new, but what I have let bury the nature I was born with. Most people, the verse ends, never find out they were carrying it.",
-    "reflectionBn": "একনিষ্ঠভাবে দ্বীনের দিকে মুখ ফেরাও, সব মিথ্যা থেকে সরে এসে। আয়াত শুরু হয় এভাবে, তারপর বলে দেয় কোন জিনিসের দিকে ফেরানো হচ্ছে আপনাকে: ফিতরাত। আল্লাহ শুরুতেই প্রতিটি মানুষকে যে গড়নে গড়েছেন। সেই গড়নের ভেতরে লুকানো আছে নিজের স্রষ্টাকে চেনা আর তাঁরই ইবাদতের নীরব টান। কেউ তার রবের কাছে অচেনা হয়ে জন্মায় না। শিশু জন্মায় সেই দিকে হেলেই। তারপর দুনিয়া, ঘর আর সারাজীবনের অভ্যাস তাকে শেখায় অন্যদিকে হেলতে। তাই আসল প্রশ্ন নতুন কেউ হয়ে ওঠা নয়। প্রশ্ন হলো, জন্মগত যে গড়ন নিয়ে এসেছি, তার উপর কী জমতে দিয়েছি। আর আয়াত শেষ হয় একটা কথায়, অধিকাংশ মানুষ টেরই পায় না যে জিনিসটা তারা বয়ে বেড়াচ্ছে।",
+    "reflectionBn": "একনিষ্ঠভাবে দ্বীনের দিকে মুখ ফেরাও, সব মিথ্যা থেকে সরে এসে। আয়াত শুরু হয় এভাবে, তারপর বলে দেয় কোন জিনিসের দিকে ফেরানো হচ্ছে আপনাকে: ফিতরাত। আল্লাহ শুরুতেই প্রতিটি মানুষকে যে গড়নে গড়েছেন। সেই গড়নের ভেতরে লুকানো আছে নিজের স্রষ্টাকে চেনা আর তাঁরই ইবাদতের নীরব টান। কেউ তার রবের কাছে অচেনা হয়ে জন্মায় না। শিশু জন্মায় সেই দিকে হেলেই। তারপর দুনিয়া, ঘর আর সারাজীবনের অভ্যাস তাকে শেখায় অন্যদিকে হেলতে। তাই আসল প্রশ্ন এই নয় যে আমি কীভাবে নতুন কেউ হব। প্রশ্ন হলো, জন্মগত যে গড়ন নিয়ে এসেছি, তার উপর কী জমতে দিয়েছি। আর আয়াত শেষ হয় একটা কথায়, অধিকাংশ মানুষ টেরই পায় না যে জিনিসটা তারা বয়ে বেড়াচ্ছে।",
     "pointsEn": [
       "If I was born already leaning toward my Lord, what in my life has been teaching me to lean the other way?",
       "Where do I feel the quiet pull toward the truth, and when did I last ignore it on purpose?",
@@ -12382,11 +12382,11 @@ const TADABBUR_NOTES = {
       "অধিকাংশ মানুষ যদি নিজের সম্পর্কে এটা টেরই না পায়, তবে এটাকে সোজা সত্য ধরে চললে আমার সপ্তাহটা কেমন দাঁড়াত?"
     ],
     "lessonEn": "You were made already inclined toward knowing and worshipping your Maker; faith is less about becoming someone new than about clearing away whatever has buried the nature you were born with.",
-    "lessonBn": "আপনাকে গড়া হয়েছে স্রষ্টাকে চেনা আর তাঁর ইবাদতের দিকে হেলিয়েই; ঈমান নতুন কেউ হয়ে ওঠা নয় যতটা, তার চেয়ে বেশি জন্মগত সেই গড়নের উপর জমে থাকা জিনিস সরিয়ে ফেলা।"
+    "lessonBn": "আপনাকে গড়াই হয়েছে স্রষ্টাকে চেনা আর তাঁর ইবাদতের দিকে হেলিয়ে। ঈমান মানে নতুন কেউ হয়ে ওঠার চেয়ে বেশি, জন্মগত সেই গড়নের উপর যা জমেছে তা সরিয়ে ফেলা।"
   },
   "31:10": {
     "reflectionEn": "Look up. The sky keeps its height with nothing you can see holding it up. Press your foot to the ground and it does not pitch beneath you; firm mountains were set down to steady it. Everywhere something crawls or walks or flies, in more kinds than anyone has ever counted. Rain comes down, and out of bare earth rises green that is good to look at and good to live on. The verse lays all of this out, then turns and asks us to show what anything besides Allah has ever made. Nothing answers. So the question is really about me. When I move through a whole day built from His work, do I notice the Maker, or only the furniture?",
-    "reflectionBn": "একবার আকাশের দিকে তাকান। চোখে পড়ে এমন কোনো খুঁটি ছাড়াই সেটা নিজের উচ্চতায় দাঁড়িয়ে আছে। পায়ের নিচে মাটিতে পা রাখুন, সেটা আপনাকে নিয়ে দুলে ওঠে না। মাটি স্থির রাখতে বসানো হয়েছে অটল পাহাড়। চারদিকে কিছু-না-কিছু হামাগুড়ি দিচ্ছে, হাঁটছে, উড়ছে, এত রকমের যে কেউ কোনোদিন গুনে শেষ করতে পারেনি। আকাশ থেকে পানি নামে, আর শুকনো মাটি ফুঁড়ে ওঠে সবুজ, যা দেখতেও সুন্দর, বাঁচার কাজেও লাগে। আয়াত এ সবকিছু সাজিয়ে দিয়ে তারপর জিজ্ঞেস করে: আল্লাহ ছাড়া আর কেউ কী বানিয়েছে, দেখাও। কোনো জবাব আসে না। তাই প্রশ্নটা আসলে আমাকে নিয়েই। গোটা একটা দিন যখন তাঁরই কাজের ভেতর দিয়ে কাটে, আমি কি স্রষ্টাকে খেয়াল করি, নাকি শুধু আসবাবটুকু?",
+    "reflectionBn": "একবার আকাশের দিকে তাকান। চোখে পড়ে এমন কোনো খুঁটি ছাড়াই সেটা নিজের উচ্চতায় দাঁড়িয়ে আছে। মাটিতে পা চেপে দাঁড়ান, সেটা আপনাকে নিয়ে দুলে ওঠে না। মাটি স্থির রাখতে বসানো হয়েছে অটল পাহাড়। চারদিকে কিছু-না-কিছু হামাগুড়ি দিচ্ছে, হাঁটছে, উড়ছে, এত রকমের যে কেউ কোনোদিন গুনে শেষ করতে পারেনি। আকাশ থেকে পানি নামে, আর শুকনো মাটি ফুঁড়ে ওঠে সবুজ, যা দেখতেও সুন্দর, বাঁচার কাজেও লাগে। আয়াত এ সবকিছু সাজিয়ে দিয়ে তারপর জিজ্ঞেস করে: আল্লাহ ছাড়া আর কেউ কী বানিয়েছে, দেখাও। কোনো জবাব আসে না। তাই প্রশ্নটা আসলে আমাকে নিয়েই। গোটা একটা দিন যখন তাঁরই কাজের ভেতর দিয়ে কাটে, আমি কি স্রষ্টাকে খেয়াল করি, নাকি শুধু চারপাশের জিনিসপত্র?",
     "pointsEn": [
       "What sign of His making did I actually stop and look at today, instead of walking straight past it?",
       "When life feels steady, do I thank the One who set the mountains down, or just assume the ground will hold?",
@@ -12406,7 +12406,7 @@ const TADABBUR_NOTES = {
   },
   "32:23": {
     "reflectionEn": "Right after a hard word about those who turn from their Lord's signs, the tone shifts to comfort. We certainly gave Mūsā the Book: the past is settled, the proof already delivered. So be not in doubt of the meeting. Revelation is no strange new thing, and the one who carries it is no stranger among the messengers. A Book came before, to a prophet before, and was made a guide for his people. Whatever the self wants to waver over, the pattern is old and sure. The doubt the verse lifts is not about something far away. It is about something near: that God's word and God's messengers stand in one line, and you stand in it too.",
-    "reflectionBn": "যারা রবের নিদর্শন থেকে মুখ ফিরিয়ে নেয় তাদের নিয়ে কঠিন কথার ঠিক পরেই সুরটা বদলে যায় সান্ত্বনায়। আমি মূসাকে কিতাব দিয়েছিলাম: অতীতটা মীমাংসিত, প্রমাণ আগেই পৌঁছে গেছে। কাজেই সেই সাক্ষাৎ নিয়ে সন্দেহে পড়ো না। ওহি কোনো অচেনা নতুন জিনিস নয়, আর যিনি তা বহন করেন তিনিও রাসূলদের মধ্যে আগন্তুক নন। আগেও একটা কিতাব এসেছিল, আগের এক নবীর কাছে, আর সেটা তাঁর জাতির জন্য পথপ্রদর্শক করা হয়েছিল। মন যা নিয়েই দোল খেতে চাক, ছকটা পুরনো আর পাকা। আয়াত যে সন্দেহ সরিয়ে দেয় তা দূরের কিছু নিয়ে নয়। তা একেবারে কাছের কথা: আল্লাহর বাণী আর আল্লাহর রাসূলগণ এক সারিতে দাঁড়ানো, আর সেই সারিতে আপনিও আছেন।",
+    "reflectionBn": "যারা রবের নিদর্শন থেকে মুখ ফিরিয়ে নেয় তাদের নিয়ে কঠিন কথার ঠিক পরেই সুরটা বদলে যায় সান্ত্বনায়। আমি মূসা (আঃ)-কে কিতাব দিয়েছিলাম: অতীতটা মীমাংসিত, প্রমাণ আগেই পৌঁছে গেছে। কাজেই সেই সাক্ষাৎ নিয়ে সন্দেহে পড়ো না। ওহি কোনো অচেনা নতুন জিনিস নয়, আর যিনি তা বহন করেন তিনিও রাসূলদের মধ্যে আগন্তুক নন। আগেও একটা কিতাব এসেছিল, আগের এক নবীর কাছে, আর সেটা তাঁর জাতির জন্য পথপ্রদর্শক করা হয়েছিল। মন যা নিয়েই দোল খেতে চাক, ছকটা পুরনো আর পাকা। আয়াত যে সন্দেহ সরিয়ে দেয় তা দূরের কিছু নিয়ে নয়। তা একেবারে কাছের কথা: আল্লাহর বাণী আর আল্লাহর রাসূলগণ এক সারিতে দাঁড়ানো, আর সেই সারিতে আপনিও আছেন।",
     "pointsEn": [
       "Where does my faith waver not from any evidence, but from the mood of a hard day?",
       "When I meet rejection for doing right, do I read it as failure, or as the old road every messenger walked?",
@@ -12419,14 +12419,14 @@ const TADABBUR_NOTES = {
       "সৎ কাজ করতে গিয়ে প্রত্যাখ্যানের মুখে পড়লে আমি কি তাকে ব্যর্থতা ধরি, নাকি প্রত্যেক রাসূলের হেঁটে যাওয়া সেই পুরনো পথ?",
       "অতীতের কোন মীমাংসিত বিষয়কে আমি এখনো খোলা প্রশ্নের মতো করে ধরে রেখেছি?",
       "একটা বিষয়ে নিশ্চিত হওয়ার পর আমি কি তা অটল রাখি, নাকি অস্বস্তি এলেই আবার খুলে বসি?",
-      "নিজের মনোবল যখন পাতলা হতে থাকে, তখন কার আগের দৃষ্টান্ত আমাকে স্থির রাখে?"
+      "নিজের মনোবল যখন দুর্বল হয়ে আসে, তখন কার আগের দৃষ্টান্ত আমাকে স্থির রাখে?"
     ],
     "lessonEn": "A Book came before to a prophet before and guided his people; let the settled past steady a faith that wants to waver, and read rejection as the road every messenger walked.",
-    "lessonBn": "আগেও এক নবীর কাছে কিতাব এসেছিল আর তাঁর জাতিকে পথ দেখিয়েছিল; মীমাংসিত অতীত দিয়ে টলটল করা ঈমানকে স্থির করুন, আর প্রত্যাখ্যানকে পড়ুন প্রত্যেক রাসূলের হাঁটা পথ হিসেবে।"
+    "lessonBn": "আগেও এক নবীর কাছে কিতাব এসেছিল আর তাঁর জাতিকে পথ দেখিয়েছিল; মীমাংসিত অতীত দিয়ে টলমল করা ঈমানকে স্থির করুন, আর প্রত্যাখ্যানকে পড়ুন প্রত্যেক রাসূলের হাঁটা পথ হিসেবে।"
   },
   "32:27": {
     "reflectionEn": "You have eaten today from ground that was once bare. Rain fell somewhere you never saw, water was driven across the land, and a dead field turned green enough to feed both the herd and the household. The Qur'an asks a strange question about this: have they not seen? Of course they have. Everyone has watched a crop come up. The verse does not doubt that their eyes are open; it asks whether anyone is behind the eyes. A sign watched out of habit stops being a sign. So the challenge is small and daily. The next time food reaches your plate, trace it back to the bare ground and the water that was steered there, and let your eyes actually see.",
-    "reflectionBn": "আজ আপনি যা খেয়েছেন, তার শুরু ছিল এক শুকনো মাটি। বৃষ্টি পড়েছে এমন কোথাও, যা আপনি চোখেও দেখেননি। সেই পানি গড়িয়ে এসেছে মাটির উপর দিয়ে, আর মরা মাঠ এতটাই সবুজ হয়েছে যে গবাদি পশু আর ঘরের মানুষ দুইয়েরই খাবার জুটেছে। কুরআন এ নিয়ে অদ্ভুত এক প্রশ্ন তোলে: তারা কি দেখে না? দেখে তো বটেই। ফসল গজাতে সবাই দেখেছে। আয়াত তাদের চোখ খোলা আছে কিনা তা নিয়ে সন্দেহ করছে না। প্রশ্ন হলো, চোখের পেছনে কেউ আছে কিনা। অভ্যাসের চোখে দেখা নিদর্শন আর নিদর্শন থাকে না। তাই দাবিটা ছোট আর রোজকার। পরেরবার খাবার যখন পাতে আসবে, সেটাকে পিছিয়ে নিয়ে যান সেই খালি মাটি আর গড়িয়ে আনা পানি পর্যন্ত, আর চোখ দিয়ে সত্যি সত্যি দেখুন।",
+    "reflectionBn": "আজ আপনি যা খেয়েছেন, তার শুরু ছিল এক শুকনো মাটি। বৃষ্টি পড়েছে এমন কোথাও, যা আপনি চোখেও দেখেননি। সেই পানি গড়িয়ে এসেছে মাটির উপর দিয়ে, আর মরা মাঠ এতটাই সবুজ হয়েছে যে গবাদি পশু আর ঘরের মানুষ দুইয়েরই খাবার জুটেছে। কুরআন এ নিয়ে অদ্ভুত এক প্রশ্ন তোলে: তারা কি দেখে না? দেখে তো বটেই। ফসল গজাতে সবাই দেখেছে। আয়াত তাদের চোখ খোলা আছে কিনা তা নিয়ে সন্দেহ করছে না। প্রশ্ন হলো, চোখের পেছনে কেউ আছে কিনা। অভ্যাসের চোখে দেখা নিদর্শন আর নিদর্শন থাকে না। তাই দাবিটা ছোট আর রোজকার। পরেরবার খাবার যখন পাতে আসবে, মনে মনে তার উৎস ধরে পেছনে যান, সেই খালি মাটি আর সেখানে চালিয়ে আনা পানি পর্যন্ত, আর চোখ দিয়ে সত্যি সত্যি দেখুন।",
     "pointsEn": [
       "What did I eat today, and can I trace even one meal back to bare ground, rain I never saw, and water that was steered to it?",
       "Which of Allah's daily signs have I stopped seeing simply because I see it every single day?",
@@ -12435,7 +12435,7 @@ const TADABBUR_NOTES = {
       "What small act of thanks would match the fact that both my body and my livelihood are fed from ground Allah revived?"
     ],
     "pointsBn": [
-      "আজ আমি কী খেয়েছি, আর একটিমাত্র খাবারকেও কি আমি পিছিয়ে নিয়ে যেতে পারি সেই খালি মাটি, না-দেখা বৃষ্টি আর তার দিকে চালিয়ে আনা পানি পর্যন্ত?",
+      "আজ আমি কী খেয়েছি? একটিমাত্র খাবারেরও উৎস ধরে কি আমি পেছনে যেতে পারি, সেই খালি মাটি, না-দেখা বৃষ্টি আর সেখানে চালিয়ে আনা পানি পর্যন্ত?",
       "আল্লাহর কোন রোজকার নিদর্শনগুলো আমি শুধু রোজ দেখি বলেই আর দেখা বন্ধ করে দিয়েছি?",
       "মাঠ, ফসল বা তাকে রাখা খাবারের দিকে তাকানোর সময় আমি কি বোধসম্পন্ন মানুষের চোখে দেখি, নাকি নিছক অভ্যাসে?",
       "একই শক্তি যদি প্রতি বছর মরা মাঠকে সবুজ করে, তবে আমি যেদিন পুনরুত্থিত হব সে সম্পর্কে তা নীরবে কী বলে?",
@@ -12445,8 +12445,8 @@ const TADABBUR_NOTES = {
     "lessonBn": "মরা মাঠ প্রতি বছর আপনাকে খাওয়ায়, এ দৃশ্য আপনি দেখেছেন; নিজের পাতেই যে নিদর্শন খাওয়া হয়, তা আপনাকে শুধু তাকানো থেকে সত্যি দেখা আর শুকরিয়ার দিকে নিয়ে যাক।"
   },
   "31:34": {
-    "reflectionEn": "Luqman ends on a list of five. When the Hour will strike, when rain will fall, what the womb carries, what tomorrow will earn you, and the patch of ground where you will die — these rest with Allah, and with no one else. You plan next year, name a child before the scan is certain, and quietly assume you will die in the town where you live. The verse does not forbid planning; it strips the arrogance out of it. Everything you treat as fixed is, to Allah, fully known, and to you, only lent. How differently would you spend a day you could not be sure of finishing?",
-    "reflectionBn": "লুকমান সূরা শেষ হয় পাঁচটি জিনিসের কথা দিয়ে। কিয়ামত কখন আসবে, বৃষ্টি কখন নামবে, গর্ভে কী আছে, আগামীকাল কী অর্জন হবে, আর কোন মাটিতে মৃত্যু হবে, এই পাঁচটি কেবল আল্লাহর কাছে, আর কারও কাছে নয়। আপনি আগামী বছরের পরিকল্পনা করেন, স্ক্যানে নিশ্চিত হওয়ার আগেই সন্তানের নাম ঠিক করেন, আর ধরে নেন যে শহরে থাকেন সেখানেই মরবেন। আয়াত পরিকল্পনা করতে নিষেধ করে না। করে শুধু তার ভেতরের অহংকারটুকু কেড়ে নেয়। যা আপনি পাকা বলে ধরে রেখেছেন, আল্লাহর কাছে তা পুরোপুরি জানা, আর আপনার কাছে কেবল ধার দেওয়া। যে দিনটা শেষ করতে পারবেন কিনা জানেন না, সে দিন কি তবে অন্যভাবে কাটাতেন?",
+    "reflectionEn": "Surah Luqman ends on a list of five. When the Hour will strike, when rain will fall, what the womb carries, what tomorrow will earn you, and the patch of ground where you will die — these rest with Allah, and with no one else. You plan next year, name a child before the scan is certain, and quietly assume you will die in the town where you live. The verse does not forbid planning; it strips the arrogance out of it. Everything you treat as fixed is, to Allah, fully known, and to you, only lent. How differently would you spend a day you could not be sure of finishing?",
+    "reflectionBn": "লুকমান সূরা শেষ হয় পাঁচটি জিনিসের কথা দিয়ে। কিয়ামত কখন আসবে, বৃষ্টি কখন নামবে, গর্ভে কী আছে, আগামীকাল কী অর্জন হবে, আর কোন মাটিতে মৃত্যু হবে, এই পাঁচটি কেবল আল্লাহর কাছে, আর কারও কাছে নয়। আপনি আগামী বছরের পরিকল্পনা করেন, স্ক্যানে নিশ্চিত হওয়ার আগেই সন্তানের নাম ঠিক করেন, আর ধরে নেন যে শহরে থাকেন সেখানেই মরবেন। আয়াত পরিকল্পনা করতে নিষেধ করে না, শুধু তার ভেতরের অহংকারটুকু ছেঁটে ফেলে। যা আপনি পাকা বলে ধরে রেখেছেন, আল্লাহর কাছে তা পুরোপুরি জানা, আর আপনার কাছে কেবল ধার দেওয়া। যে দিনটা শেষ করতে পারবেন কিনা জানেন না, সে দিনটা আপনি কতটা অন্যভাবে কাটাতেন?",
     "pointsEn": [
       "What have I written into next year's plans as if I had already been promised the time to see them through?",
       "When did I last act as though I knew what tomorrow would bring me, good or bad?",
@@ -12459,7 +12459,7 @@ const TADABBUR_NOTES = {
       "ভালো হোক বা মন্দ, আগামীকাল আমার জন্য কী আসছে তা যেন জানি, শেষবার কবে এমনভাবে চলেছি?",
       "এই মাটিতেই যে আমার মৃত্যু হবে তা যদি জানতাম, সূর্য ডোবার আগে কোন জিনিসটা ঠিক করে নিতাম?",
       "যারা ভবিষ্যৎ বলে দেওয়ার দাবি করে আমি কি তাদের পেছনে ছুটি, নাকি যিনি ভবিষ্যৎ হাতে রাখেন তাঁতেই স্থির থাকি?",
-      "যা শুধু একটা না-দেখা দিন পর্যন্ত আমাকে ধার দেওয়া হয়েছে, তা কি আমি নিজের বলে আঁকড়ে আছি?"
+      "কোন জিনিস আমি নিজের বলে আঁকড়ে আছি, যা আসলে না-দেখা এক দিন পর্যন্ত আমাকে ধার দেওয়া হয়েছে?"
     ],
     "lessonEn": "Five things rest with Allah alone — the Hour, the rain, the womb, tomorrow's earning, and the place of your death; hold your plans humbly and prepare for what you cannot schedule.",
     "lessonBn": "পাঁচটি জিনিস কেবল আল্লাহর কাছে: কিয়ামত, বৃষ্টি, গর্ভ, আগামীকালের অর্জন আর মৃত্যুর স্থান। তাই পরিকল্পনা রাখুন নম্রভাবে, আর যা সময় ঠিক করে রাখতে পারেন না তার জন্য প্রস্তুত থাকুন।"
@@ -12482,7 +12482,7 @@ const TADABBUR_NOTES = {
       "আয়াতটি শেষ হয় এক প্রশ্নে। শেষ কবে আমি থেমে সত্যিই উপদেশ নিয়েছি, কেবল পড়ে চলে না গিয়ে?"
     ],
     "lessonEn": "You have no protector and no intercessor besides Allah, who made all things and is risen above His Throne; so carry your needs to Him alone, and take heed.",
-    "lessonBn": "আল্লাহ ছাড়া আপনার কোনো অভিভাবক নেই, সুপারিশকারীও নেই; যিনি সব সৃষ্টি করেছেন আর আরশে সমুন্নত — প্রয়োজন তাঁর কাছেই নিন আর উপদেশ গ্রহণ করুন।"
+    "lessonBn": "যিনি সবকিছু সৃষ্টি করেছেন আর আরশের উপর সমুন্নত, সেই আল্লাহ ছাড়া আপনার কোনো অভিভাবক নেই, কোনো সুপারিশকারীও নেই। তাই প্রয়োজন কেবল তাঁর কাছেই নিয়ে যান, আর উপদেশ গ্রহণ করুন।"
   },
   "33:45": {
     "reflectionEn": "Yā ayyuhā an-Nabī — O Prophet. In a surah heavy with siege and slander, Allah pauses to tell His Messenger ﷺ who he is: a witness, a bringer of glad tidings, a warner. Three words, and a whole mission. He stands witness to his people and over them; he carries the promise of mercy to those who believe, and the warning of consequence to those who turn away. The titles are a gift to him and a steadying to everyone who follows him. If he is my witness, my days are already seen. If he brings glad tidings, there is mercy worth running toward. If he warns, the warning is itself a kindness, meant to reach me before the consequence does.",
@@ -12495,18 +12495,18 @@ const TADABBUR_NOTES = {
       "What would change if I began the day remembering that I follow a witness, a bringer of good news, and a warner?"
     ],
     "pointsBn": [
-      "রাসূল ﷺ যদি আমার আমলের সাক্ষী হন, তবে কেউ না দেখলেও আমি কী করি—সেই ভাবনা কি আমার কাজ বদলে দেয়?",
-      "সুসংবাদ আর সতর্কবাণী, এর কোনটার দিকে আমার ঝোঁক বেশি, আর আজ আমার মন কোনটা শুনতে চায়?",
+      "রাসূল ﷺ যদি আমার আমলের সাক্ষী হন, তবে কেউ না দেখলেও আমাকে দেখা হচ্ছে, এই ভাবনা কি আমার কাজ বদলে দেয়?",
+      "সুসংবাদ আর সতর্কবাণী, এর কোনটার দিকে আমার ঝোঁক বেশি, আর আজ আমার মনের কোনটা শোনা দরকার?",
       "সতর্কবাণীকে আমি কবে দয়া না ভেবে অপমান হিসেবে নিয়েছি?",
-      "আমার নিজের দায়িত্বও কি নয় আশেপাশের মানুষের কাছে সুসংবাদ আর সতর্কতা পৌঁছে দেওয়া?",
-      "দিনের শুরুতে যদি মনে করি আমি এমন একজনের অনুসারী যিনি সাক্ষী, সুসংবাদদাতা আর সতর্ককারী, তবে কী বদলায়?"
+      "আমি কি এমনভাবে বাঁচি, যেন আশেপাশের মানুষের কাছে সুসংবাদ আর সতর্কতা পৌঁছে দেওয়া আমারও দায়িত্ব?",
+      "দিনের শুরুতে যদি মনে করি আমি এমন একজনের অনুসারী যিনি সাক্ষী, সুসংবাদদাতা আর সতর্ককারী, তবে কী বদলে যেত?"
     ],
     "lessonEn": "Live knowing the Messenger ﷺ witnesses your deeds and holds out glad tidings to the believing and warning to the heedless — and take both the promise and the caution as mercy.",
     "lessonBn": "জেনে চলুন রাসূল ﷺ আপনার আমলের সাক্ষী, ঈমানদারের কাছে সুসংবাদ আর উদাসীনের কাছে সতর্কবাণী বয়ে আনেন; প্রতিশ্রুতি আর সতর্কতা দুটোকেই রহমত হিসেবে নিন।"
   },
   "33:28": {
     "reflectionEn": "The Prophet's wives had asked for more of the world's comfort, as the people around them had begun to prosper. Allah answered not with rebuke but with a choice, told to each of them in turn: the worldly life and its adornment, with an honourable release, or Allah, His Messenger, and the home of the Hereafter. It was an elevation disguised as a question. When he began with the one he loved, he told her not to hurry, to consult her parents first. She did not pause. She chose Allah and His Messenger, and every one of them chose the same. The world keeps asking me the quieter form of that question. What am I reaching for, and what am I willing to let go to hold something higher?",
-    "reflectionBn": "নবী ﷺ-এর স্ত্রীরা দুনিয়ার একটু বেশি সচ্ছলতা চেয়েছিলেন, কারণ আশপাশের মানুষের হাতে তখন কিছুটা সঙ্গতি এসেছিল। আল্লাহ জবাব দিলেন ধমক দিয়ে নয়, একটা পছন্দ দিয়ে। প্রত্যেককে আলাদা করে জানানো হলো: দুনিয়ার জীবন আর তার শোভা, সঙ্গে সম্মানজনক বিদায়; নাকি আল্লাহ, তাঁর রসূল আর পরকালের গৃহ। প্রশ্নের মোড়কে এ ছিল এক উঁচু মর্যাদার ডাক। যাকে তিনি ভালোবাসতেন তাঁকে দিয়েই শুরু করলেন, বললেন তাড়াহুড়ো না করতে, আগে বাবা-মায়ের পরামর্শ নিতে। তিনি থামলেন না। তিনি বেছে নিলেন আল্লাহ ও তাঁর রসূলকে, আর তাঁদের প্রত্যেকেই একই পথ বেছে নিলেন। দুনিয়া রোজ আমাকে এ প্রশ্নেরই চাপা একটা রূপ জিজ্ঞেস করে। আমি কীসের পেছনে ছুটছি, আর উঁচু কিছু ধরতে কী ছাড়তে রাজি আছি?",
+    "reflectionBn": "নবী ﷺ-এর স্ত্রীরা দুনিয়ার একটু বেশি সচ্ছলতা চেয়েছিলেন, কারণ আশপাশের মানুষের হাতে তখন কিছুটা সঙ্গতি এসেছিল। আল্লাহ জবাব দিলেন ধমক দিয়ে নয়, একটা পছন্দ দিয়ে। প্রত্যেককে আলাদা করে জানানো হলো: দুনিয়ার জীবন আর তার শোভা, সঙ্গে সম্মানজনক বিদায়; নাকি আল্লাহ, তাঁর রসূল আর পরকালের গৃহ। প্রশ্নের মোড়কে এ ছিল এক উঁচু মর্যাদার ডাক। যাকে তিনি ভালোবাসতেন তাঁকে দিয়েই শুরু করলেন, বললেন তাড়াহুড়ো না করতে, আগে বাবা-মায়ের পরামর্শ নিতে। তিনি একটুও দেরি করলেন না। তিনি বেছে নিলেন আল্লাহ ও তাঁর রসূল ﷺ-কে, আর তাঁদের প্রত্যেকেই একই পথ বেছে নিলেন। দুনিয়া রোজ আমাকে এ প্রশ্নেরই চাপা একটা রূপ জিজ্ঞেস করে। আমি কীসের পেছনে ছুটছি, আর উঁচু কিছু ধরতে কী ছাড়তে রাজি আছি?",
     "pointsEn": [
       "What have I been asking for lately, and would I still want it if I saw what it might cost me of something greater?",
       "When I have had to part from someone or something, did I let it go graciously, or with harm and bitter words?",
@@ -12556,9 +12556,9 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "কোনো ভালো কঠিন কাজে কারও আগ্রহ আমি কি সম্প্রতি ঠান্ডা করে দিয়েছি, হোক তা নরম সুরে?",
-      "কাজ যখন সত্যিকারের দাবি তুলল, আমি কি কাজ করতে এসেছি, নাকি কেবল আসার ভান দেখাতে?",
+      "কাজ যখন সত্যিকারের দাবি তুলল, আমি কি কাজ করতে এসেছি, নাকি শুধু হাজির হয়েছি, এটা লোককে দেখাতে?",
       "কাউকে কি আমি বারবার 'আমাদের কাছে চলে এসো' বলি, তার ভালো চাওয়ার মোড়কে?",
-      "যে কথা কেউ জানুক আমি চাই না, সেই সত্তা তো তা আগেই জানেন, এটা কি মনে রাখি?",
+      "কোন বিষয়টা কেউ জানবে না বলে আমি ভরসা করে আছি, অথচ যাঁর জানাটাই আসল, তিনি তা আগেই জানেন?",
       "এ মাসে আমার অবদান সৎভাবে মাপলে তা কি সামান্য বলে ধরা পড়বে, নাকি একেবারে শূন্য?"
     ],
     "lessonEn": "Do not be the quiet voice that cools other people's resolve while giving little yourself; Allah already knows who hinders, so measure your own effort before judging the ranks.",
@@ -12586,7 +12586,7 @@ const TADABBUR_NOTES = {
   },
   "33:63": {
     "reflectionEn": "Someone corners you with the one question that sounds urgent and settles nothing: when is it? When does the world end, when does the Hour come? The verse hands the question back. Its timing belongs to Allah alone, and not even the Prophet was given the date. Then it turns the asker around: and what would make you know — perhaps it is already near. The point was never the calendar. A date you cannot have would change nothing about today; a nearness you cannot measure changes everything. The question worth asking is not when the Hour arrives, but whether it would find you ready when it does.",
-    "reflectionBn": "কেউ একজন আপনাকে চেপে ধরে সেই প্রশ্নটা করে, যা শুনতে জরুরি অথচ কিছুই মীমাংসা করে না: কবে? দুনিয়া কবে শেষ হবে, ক্বিয়ামত কবে আসবে? আয়াত প্রশ্নটা ফিরিয়ে দেয়। তার সময় কেবল আল্লাহর হাতে, নবীকেও সেই তারিখ জানানো হয়নি। এরপর প্রশ্নকারীকেই ঘুরিয়ে দেয়: কিসে তোমাকে জানাবে, হয়তো তা একেবারে কাছেই। আসল কথা কখনোই পঞ্জিকা ছিল না। যে তারিখ আপনি পাবেন না, তা আজকের দিনটার কিছুই বদলাবে না। আর যে নিকটত্ব আপনি মাপতে পারবেন না, তা বদলে দেয় সবকিছু। জিজ্ঞেস করার মতো প্রশ্ন তাই এটা নয় যে ক্বিয়ামত কবে আসবে, বরং এটা যে এলে তা আপনাকে প্রস্তুত পাবে কি না।",
+    "reflectionBn": "কেউ একজন আপনাকে চেপে ধরে সেই প্রশ্নটা করে, যা শুনতে জরুরি অথচ কিছুই মীমাংসা করে না: কবে? দুনিয়া কবে শেষ হবে, কিয়ামত কবে আসবে? আয়াত প্রশ্নটা ফিরিয়ে দেয়। তার সময় কেবল আল্লাহর হাতে, নবী ﷺ-কেও সেই তারিখ জানানো হয়নি। এরপর প্রশ্নকারীকেই ঘুরিয়ে দেয়: কিসে তোমাকে জানাবে, হয়তো তা একেবারে কাছেই। আসল কথা কখনোই পঞ্জিকা ছিল না। যে তারিখ আপনি পাবেন না, তা আজকের দিনটার কিছুই বদলাত না। আর যে নৈকট্য আপনি মাপতে পারবেন না, তা বদলে দেয় সবকিছু। তাই জিজ্ঞেস করার মতো প্রশ্ন এটা নয় যে কিয়ামত কবে আসবে, বরং এটা যে এলে তা আপনাকে প্রস্তুত পাবে কি না।",
     "pointsEn": [
       "If the Hour came before this week ended, what in my life would I wish I had already set right?",
       "Do I treat a date I cannot know as an excuse to delay, when the not-knowing is itself the summons?",
@@ -12595,18 +12595,18 @@ const TADABBUR_NOTES = {
       "Have I confused being informed about the Hour with being ready for it?"
     ],
     "pointsBn": [
-      "এ সপ্তাহ শেষ হওয়ার আগেই যদি ক্বিয়ামত এসে যেত, আমার জীবনের কোন জিনিসটা আগে ঠিক করে রাখিনি বলে আফসোস হতো?",
+      "এ সপ্তাহ শেষ হওয়ার আগেই যদি কিয়ামত এসে যেত, আমার জীবনের কোন জিনিসটা আগে ঠিক করে রাখিনি বলে আফসোস হতো?",
       "যে তারিখ জানা সম্ভব নয়, সেটাকে কি আমি দেরি করার অজুহাত বানাই, অথচ না জানাটাই তো ডাক?",
       "শেষ সত্যিই কাছে ভেবে চললে আমার কোন দিনগুলো অন্যরকম দেখাত?",
       "গায়েব নিয়ে কৌতূহল হলে আমি কি এমন জ্ঞান খুঁজি যা দিয়ে আমল করা যায়, নাকি শুধু তর্কের বিষয়?",
-      "ক্বিয়ামতের খবর রাখাকে কি আমি তার জন্য প্রস্তুত থাকার সঙ্গে গুলিয়ে ফেলেছি?"
+      "কিয়ামতের খবর রাখাকে কি আমি তার জন্য প্রস্তুত থাকার সঙ্গে গুলিয়ে ফেলেছি?"
     ],
     "lessonEn": "The Hour's timing is Allah's alone, withheld even from His Prophet; do not try to date it, live ready for it, because it may already be near.",
-    "lessonBn": "ক্বিয়ামতের সময় কেবল আল্লাহর, নবীকেও তা জানানো হয়নি। তার তারিখ বের করতে যাবেন না, তার জন্য প্রস্তুত থাকুন, কারণ তা হয়তো কাছেই।"
+    "lessonBn": "কিয়ামতের সময় কেবল আল্লাহর, নবী ﷺ-কেও তা জানানো হয়নি। তার তারিখ বের করতে যাবেন না, তার জন্য প্রস্তুত থাকুন, কারণ তা হয়তো কাছেই।"
   },
   "34:12": {
     "reflectionEn": "The wind carried him a month's journey before noon and another month's after it; brass ran molten like a spring for his craftsmen; and unseen workers laboured in front of him. Three powers no king ever held, and the verse ties each of them to the same phrase: by his Lord's leave. The same hand that lent the wind could still it. The workers who built his halls would taste fire if they turned from the command. Nothing here was owned; all of it was on loan. So the question turns on me. The strength, the money, the people who do what I ask — do I hold them as mine, or as lent, and answerable?",
-    "reflectionBn": "দুপুরের আগে এক মাসের পথ, দুপুরের পরে আরও এক মাসের পথ, বাতাস তাঁকে এভাবেই বয়ে নিত। কারিগরদের জন্য তামা গলে ঝরনার মতো বইত। চোখে দেখা যায় না এমন শ্রমিকেরা তাঁর সামনে কাজ করত। কোনো রাজা এমন তিন শক্তি কখনো পায়নি। অথচ আয়াত প্রতিটিকে একই শর্তের সঙ্গে বেঁধে দেয়: তাঁর রবের অনুমতিক্রমে। যে হাত বাতাস ধার দিয়েছিল, সে হাতই তা থামিয়ে দিতে পারত। যে শ্রমিকেরা তাঁর প্রাসাদ গড়ত, নির্দেশ অমান্য করলে তারাও আগুনের স্বাদ পেত। এখানে কিছুই নিজের ছিল না, সবই ধার দেওয়া। তাই প্রশ্নটা ফিরে আসে আমার দিকে। আমার শক্তি, টাকা, যারা আমার কথায় চলে, এসব কি আমি নিজের বলে ধরি, নাকি ধার বলে আর জবাবদিহিসহ?",
+    "reflectionBn": "দুপুরের আগে এক মাসের পথ, দুপুরের পরে আরও এক মাসের পথ, বাতাস তাঁকে এভাবেই বয়ে নিত। কারিগরদের জন্য তামা গলে ঝরনার মতো বইত। চোখে দেখা যায় না এমন শ্রমিকেরা তাঁর সামনে কাজ করত। কোনো রাজা এমন তিন শক্তি কখনো পায়নি। অথচ আয়াত প্রতিটিকে একই শর্তের সঙ্গে বেঁধে দেয়: তাঁর রবের অনুমতিক্রমে। যে হাত বাতাস ধার দিয়েছিল, সে হাতই তা থামিয়ে দিতে পারত। যে শ্রমিকেরা তাঁর প্রাসাদ গড়ত, নির্দেশ অমান্য করলে তারাও আগুনের স্বাদ পেত। এখানে কিছুই নিজের ছিল না, সবই ধার দেওয়া। তাই প্রশ্নটা ফিরে আসে আমার দিকে। আমার শক্তি, টাকা, যারা আমার কথায় চলে, এসব কি আমি নিজের বলে ধরি, নাকি ধার হিসেবে, যার হিসাব দিতে হবে?",
     "pointsEn": [
       "What power of mine do I quietly treat as my own rather than as lent — my strength, my money, a position, the people who do what I ask?",
       "If what I hold was given by my Lord's leave, how would using it today differ from using it as if I owned it outright?",
@@ -12618,15 +12618,15 @@ const TADABBUR_NOTES = {
       "আমার কোন শক্তি আমি চুপচাপ নিজের বলে ধরে নিই, ধার হিসেবে নয়? গায়ের জোর, টাকা, পদ, কিংবা যারা আমার কথায় চলে?",
       "আমার যা কিছু রবের অনুমতিক্রমে পাওয়া, সেটা আজ ব্যবহার করা আর নিজের সম্পত্তি ভেবে ব্যবহার করা, এ দুইয়ে তফাত কোথায়?",
       "বাতাস যেমন সহজে দেওয়া হয়েছিল তেমনি সহজে ফিরিয়ে নেওয়া যেত। কাল যদি আমার একটা নিয়ামত ফিরিয়ে নেওয়া হয়, হাতে কী থাকবে?",
-      "অধীন শ্রমিকেরাও তাদের কাজের জন্য জবাবদিহি করত। আমার অধীনে যারা আছে, তাদের সঙ্গে কেমন আচরণ হয়, সে জন্য আমি কি জবাবদিহি করি?",
+      "অধীন শ্রমিকেরাও তাদের কাজের জন্য জবাবদিহি করত। আমার অধীনে যারা আছে, তাদের সঙ্গে কেমন আচরণ হয়, সে জন্য কি আমাকেও জবাবদিহি করতে হবে?",
       "আমার নিয়ন্ত্রণের কিছু যখন ভালো কাজে আসে, প্রথমে কি যিনি ধার দিয়েছেন তাঁর শুকরিয়া আসে, নাকি নিজের কৃতিত্বের গর্ব?"
     ],
     "lessonEn": "Every power you hold — your strength, your wealth, the people who obey you — is lent by Allah and answerable to Him; carry it as a trust, not a possession.",
-    "lessonBn": "আপনার প্রতিটি শক্তি, আপনার জোর, সম্পদ, যারা আপনার কথা মানে, সবই আল্লাহর দেওয়া ধার আর তাঁর কাছেই জবাবদিহি; একে সম্পত্তি নয়, আমানত হিসেবে বহন করুন।"
+    "lessonBn": "আপনার হাতের প্রতিটি শক্তি, গায়ের জোর, সম্পদ, যারা আপনার কথা মানে, সবই আল্লাহর দেওয়া ধার, আর এর হিসাব তাঁকেই দিতে হবে। একে নিজের সম্পত্তি নয়, আমানত হিসেবে বহন করুন।"
   },
   "33:59": {
     "reflectionEn": "A command arrives wrapped in a reason. Draw the outer garment close, the verse says, and then tells you why: so that you are known, and not troubled. The covering is not a cage; it is a mark of honour, a way of walking through the world recognised and left in peace. The verse ends on forgiveness and mercy, not on threat. It speaks first to the Prophet's ﷺ own household, then widens to every believing woman, so no one is singled out and no one is shamed. The weight it places is on dignity, never on the eyes that judge. What would it mean to carry yourself as someone God Himself has asked the world to leave unharmed?",
-    "reflectionBn": "আদেশ এসেছে, সঙ্গে এসেছে কারণটাও। চাদরের কিছু অংশ নিজের উপর টেনে নাও, আয়াত বলছে, আর সঙ্গে সঙ্গে বলে দিচ্ছে কেন: যাতে তোমাকে চেনা যায়, আর তোমাকে উত্যক্ত করা না হয়। এ পর্দা কোনো খাঁচা নয়, এ এক সম্মানের চিহ্ন, দুনিয়ার ভেতর দিয়ে চেনা অবস্থায় আর নিরাপদে হেঁটে যাওয়ার পথ। আয়াত শেষ হয় ক্ষমা আর রহমতে, কোনো হুমকিতে নয়। কথাটা প্রথমে নবী ﷺ-এর ঘরকে বলা হয়, তারপর তা ছড়িয়ে পড়ে প্রতিটি মু'মিন নারীর কাছে, যাতে কাউকে আলাদা করে দেখানো না হয়, কাউকে লজ্জা দেওয়া না হয়। আয়াতের ভার সম্মানের উপর, বিচার করা চোখের উপর নয়। নিজেকে এমন একজন হিসেবে বহন করা কেমন হবে, যাকে অক্ষত রাখতে আল্লাহ নিজেই দুনিয়াকে বলেছেন?",
+    "reflectionBn": "আদেশ এসেছে, সঙ্গে এসেছে কারণটাও। চাদরের কিছু অংশ নিজের উপর টেনে নাও, আয়াত বলছে, আর সঙ্গে সঙ্গে বলে দিচ্ছে কেন: যাতে তোমাকে চেনা যায়, আর তোমাকে উত্যক্ত করা না হয়। এ পর্দা কোনো খাঁচা নয়, এ এক সম্মানের চিহ্ন, দুনিয়ার ভেতর দিয়ে চেনা অবস্থায় আর নিরাপদে হেঁটে যাওয়ার পথ। আয়াত শেষ হয় ক্ষমা আর রহমতে, কোনো হুমকিতে নয়। কথাটা প্রথমে নবী ﷺ-এর ঘরকে বলা হয়, তারপর তা ছড়িয়ে পড়ে প্রতিটি মু'মিন নারীর কাছে, যাতে কাউকে আলাদা করে দেখানো না হয়, কাউকে লজ্জা দেওয়া না হয়। আয়াতের ভার সম্মানের উপর, বিচার করা চোখের উপর নয়। নিজেকে এমন একজন বলে জেনে চলাফেরা করার মানে কী, যাকে অক্ষত রাখতে আল্লাহ নিজেই দুনিয়াকে বলেছেন?",
     "pointsEn": [
       "When I think about modesty, do I reach first for dignity and protection, or for rules and the judgement of others?",
       "Is there a way I carry myself that quietly asks the world to treat me, or someone I love, with more respect?",
@@ -12642,11 +12642,11 @@ const TADABBUR_NOTES = {
       "এ আয়াত শেষ হয় আগের ভুলের ক্ষমায়। অতীতের কোন ঘাটতি আমি এখনো নিজের বিরুদ্ধে ধরে রেখেছি, যা হয়তো আল্লাহ অনেক আগেই ঢেকে দিয়েছেন?"
     ],
     "lessonEn": "Carry yourself with the dignity God asked the world to honour, and never turn that dignity into a tool to shame or police anyone.",
-    "lessonBn": "আল্লাহ যে সম্মান দুনিয়াকে রক্ষা করতে বলেছেন, সেই সম্মান নিয়ে নিজেকে বহন করুন, আর সেই সম্মানকে কখনো কাউকে লজ্জা দেওয়া বা শাসন করার হাতিয়ার বানাবেন না।"
+    "lessonBn": "আল্লাহ দুনিয়াকে যে মর্যাদা রক্ষা করতে বলেছেন, সেই মর্যাদা নিয়ে চলাফেরা করুন, আর সেই মর্যাদাকে কখনো কাউকে লজ্জা দেওয়া বা শাসন করার হাতিয়ার বানাবেন না।"
   },
   "33:50": {
     "reflectionEn": "This verse speaks to one man alone. Allah lists for His Prophet ﷺ whom marriage has made lawful to him: the wives whose mahr he had paid, those his right hand held, the cousins who left Mecca when he did, and a believing woman who might offer herself to him. Then a single phrase fences it off — this is for you, not for the believers. A privilege, and in the same breath a boundary. He could once have married whom he wished; now his choices are named, and soon narrowed further still. The honour was never a licence. It was weight, a life arranged around his mission and not his comfort. What do I ask of the honours I am handed?",
-    "reflectionBn": "এ আয়াত কথা বলছে একজন মানুষের সঙ্গে। আল্লাহ তাঁর নবী ﷺ-এর জন্য গুনে গুনে বলে দিচ্ছেন বিয়ের দিক থেকে কারা তাঁর জন্য বৈধ: যেসব স্ত্রীর মোহর তিনি দিয়ে দিয়েছেন, তাঁর মালিকানাধীন যারা, হিজরতে তাঁর সঙ্গী চাচাত-মামাত বোনেরা, আর কোনো মুমিন নারী যদি নিজেকে তাঁর কাছে নিবেদন করে। তারপর একটি বাক্য গোটা অনুমতির চারপাশে বেড়া টেনে দেয়: এটা কেবল তোমার জন্য, মুমিনদের জন্য নয়। একদিকে বিশেষ অধিকার, একই নিঃশ্বাসে তার সীমা। এক সময় তিনি যাকে ইচ্ছে বিয়ে করতে পারতেন। এখন তাঁর পছন্দ নাম ধরে বাঁধা, আর শীঘ্রই আরও সংকুচিত। এ সম্মান কখনো অবাধ ছাড় ছিল না। ছিল ভার, নিজের আরাম নয়, দাওয়াতের কাজকে ঘিরে সাজানো এক জীবন। আমাকে যে সম্মান দেওয়া হয়, তার কাছে আমি কী চাই?",
+    "reflectionBn": "এ আয়াত কথা বলছে শুধু একজন মানুষের সঙ্গে। আল্লাহ তাঁর নবী ﷺ-এর জন্য গুনে গুনে বলে দিচ্ছেন বিয়ের দিক থেকে কারা তাঁর জন্য বৈধ: যেসব স্ত্রীর মোহর তিনি দিয়ে দিয়েছেন, তাঁর মালিকানাধীন যারা, যে চাচাত, ফুফাত, মামাত, খালাত বোনেরা তাঁর সঙ্গে মক্কা ছেড়ে হিজরত করেছিলেন তাঁরা, আর কোনো মুমিন নারী যদি নিজেকে তাঁর কাছে নিবেদন করে। তারপর একটি বাক্য গোটা অনুমতির চারপাশে বেড়া টেনে দেয়: এটা কেবল তোমার জন্য, মুমিনদের জন্য নয়। একদিকে বিশেষ অধিকার, একই নিঃশ্বাসে তার সীমা। এক সময় তিনি যাকে ইচ্ছে বিয়ে করতে পারতেন। এখন তাঁর পছন্দ নাম ধরে বাঁধা, আর শীঘ্রই আরও সংকুচিত। এ সম্মান কখনো অবাধ ছাড় ছিল না। ছিল ভার, নিজের আরাম নয়, দাওয়াতের কাজকে ঘিরে সাজানো এক জীবন। আমাকে যে সম্মান দেওয়া হয়, তার কাছে আমি কী চাই?",
     "pointsEn": [
       "When I am given an honour or an exception, do I treat it as a licence, or as a trust that comes with limits?",
       "Where in my life have I quietly taken a permission further than it was ever meant to go?",
@@ -12657,7 +12657,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "আমাকে যখন কোনো সম্মান বা বিশেষ ছাড় দেওয়া হয়, আমি কি সেটাকে অবাধ অনুমতি ভাবি, নাকি সীমাসহ এক আমানত হিসেবে নিই?",
       "জীবনের কোথায় আমি চুপিসারে কোনো অনুমতিকে তার নির্ধারিত সীমার বাইরে টেনে নিয়ে গেছি?",
-      "মানুষের প্রাপ্য আমি কি পুরোপুরি ও দেরি না করে শোধ করি—পাওনা, মজুরি, কথা দেওয়া অঙ্ক—যেভাবে নবী ﷺ প্রতিটি মোহর আদায় করেছিলেন?",
+      "মানুষের প্রাপ্য, যেমন পাওনা, মজুরি বা কথা দেওয়া অঙ্ক, আমি কি পুরোপুরি ও দেরি না করে শোধ করি, যেভাবে নবী ﷺ প্রতিটি মোহর আদায় করেছিলেন?",
       "কোনো কিছু যখন কেবল তাঁরই জন্য বলা হয়, আমি কি হিংসা না করে ও নিজের জন্য নিয়ম না বানিয়ে তা সম্মান করতে পারি?",
       "নবী ﷺ-এর বিবাহগুলোকে আমি কি তাঁর দাওয়াতি কাজ ও তার ভার দিয়ে পড়ি, নাকি নিজের সন্দেহ দিয়ে?"
     ],
@@ -12666,7 +12666,7 @@ const TADABBUR_NOTES = {
   },
   "34:3": {
     "reflectionEn": "The deniers do not argue; they wave a hand: the Hour will not come to us. The reply is not another argument first but an oath — say: Yes, by my Lord, it will surely come. The One who swears is named the Knower of the unseen, from whom not the weight of the smallest thing slips away, in the heavens or the earth, nothing smaller, nothing larger, all of it already written in a clear Record. If He has counted every speck and kept it, nothing I do is too small to be seen, and nothing in me is lost or forgotten. The Hour I find easy to postpone is the one thing He has sworn is coming.",
-    "reflectionBn": "কাফিররা তর্ক করে না, হাত নেড়ে উড়িয়ে দেয়: ক্বিয়ামত আমাদের কাছে আসবেই না। জবাবটা প্রথমে আরেকটা যুক্তি নয়, শপথ। বলুন, হ্যাঁ, আমার রবের কসম, তা তোমাদের কাছে অবশ্যই আসবে। যিনি কসম খাচ্ছেন তাঁর পরিচয় দেওয়া হলো অদৃশ্যের জ্ঞানী বলে, যাঁর কাছ থেকে আকাশ ও পৃথিবীর ক্ষুদ্রতম জিনিসের ওজনটুকুও লুকোয় না, তার চেয়ে ছোট কিছুও নয়, বড় কিছুও নয়, সবই আগে থেকে এক সুস্পষ্ট কিতাবে লেখা। তিনি যদি প্রতিটি অণুকে গুনে রেখে থাকেন, তবে আমার কোনো আমলই এত ছোট নয় যে তাঁর চোখে পড়বে না, আর আমার ভেতরের কিছুই হারিয়ে যায় না। যে ক্বিয়ামতকে পিছিয়ে দিতে আমার সহজ লাগে, সেটাই একমাত্র জিনিস যার আসা তিনি কসম খেয়ে বলেছেন।",
+    "reflectionBn": "কাফিররা তর্ক করে না, হাত নেড়ে উড়িয়ে দেয়: কিয়ামত আমাদের কাছে আসবেই না। জবাবটা প্রথমে আরেকটা যুক্তি নয়, শপথ। বলুন, হ্যাঁ, আমার রবের কসম, তা তোমাদের কাছে অবশ্যই আসবে। যিনি কসম খাচ্ছেন তাঁর পরিচয় দেওয়া হলো অদৃশ্যের জ্ঞানী বলে, যাঁর কাছ থেকে আকাশ ও পৃথিবীর ক্ষুদ্রতম জিনিসের ওজনটুকুও লুকোয় না, তার চেয়ে ছোট কিছুও নয়, বড় কিছুও নয়, সবই আগে থেকে এক সুস্পষ্ট কিতাবে লেখা। তিনি যদি প্রতিটি অণুকে গুনে রেখে থাকেন, তবে আমার কোনো আমলই এত ছোট নয় যে তাঁর চোখে পড়বে না, আর আমার ভেতরের কিছুই হারিয়ে যায় না। যে কিয়ামতকে পিছিয়ে দিতে আমার সহজ লাগে, সেটাই একমাত্র জিনিস যার আসা তিনি কসম খেয়ে বলেছেন।",
     "pointsEn": [
       "What have I treated as too far off to prepare for, the way the deniers treated the Hour?",
       "If every speck's weight of mine is already written, which small good deed would I stop dismissing as too little to matter?",
@@ -12675,18 +12675,18 @@ const TADABBUR_NOTES = {
       "Does my daily life move as though the Hour is a rumour, or as though my Lord has sworn it is certain?"
     ],
     "pointsBn": [
-      "ক্বিয়ামতকে যেমন কাফিররা দূরের ব্যাপার ভেবে উড়িয়ে দিত, তেমনি প্রস্তুতির অযোগ্য ভেবে আমি কোন জিনিসকে দূরে ঠেলে রেখেছি?",
+      "কাফিররা যেমন কিয়ামতকে দূরের ব্যাপার ভেবে উড়িয়ে দিত, তেমনি কোন জিনিসকে আমি এত দূরের ভেবে রেখেছি যে তার জন্য এখনই প্রস্তুতির দরকার মনে করি না?",
       "আমার অণুপরিমাণ আমলও যদি আগেই লেখা হয়ে থাকে, তবে 'এ তো সামান্য' বলে কোন ছোট নেক কাজটা আমি আর তুচ্ছ করব না?",
       "যে দাবি আমার মাথায় ধরে না, তার মুখোমুখি হলে আমি কি সত্যের নিরিখে ওজন করি, নাকি আমার কল্পনার সীমা দিয়ে মাপি?",
       "কেউ দেখছে না ভেবে আড়ালে এমন কী করেছি, যা আসলে আগেই লিপিবদ্ধ হয়ে আছে?",
-      "আমার প্রতিদিনের জীবন কি চলে ক্বিয়ামতকে গুজব ধরে, নাকি রব কসম খেয়ে যা নিশ্চিত করেছেন সেভাবে?"
+      "আমার প্রতিদিনের জীবন কি চলে কিয়ামতকে গুজব ধরে, নাকি এমনভাবে, যেন আমার রব কসম খেয়ে তা নিশ্চিত করেছেন?"
     ],
     "lessonEn": "Your Lord has sworn the Hour will come, and nothing escapes Him, not the weight of the smallest speck; so live now as one whose every deed is already being written down.",
-    "lessonBn": "আপনার রব কসম খেয়ে বলেছেন ক্বিয়ামত আসবেই, আর ক্ষুদ্রতম অণুর ওজনও তাঁর অগোচরে নয়; তাই এখনই এমনভাবে চলুন যেন আপনার প্রতিটি আমল লেখা হয়ে যাচ্ছে।"
+    "lessonBn": "আপনার রব কসম খেয়ে বলেছেন কিয়ামত আসবেই, আর ক্ষুদ্রতম অণুর ওজনও তাঁর অগোচরে নয়; তাই এখনই এমনভাবে চলুন যেন আপনার প্রতিটি আমল লেখা হয়ে যাচ্ছে।"
   },
   "34:34": {
     "reflectionEn": "Look at who leads the rejection. Whenever a warner came to a town, it was not the poor or the weak who first said no; it was the comfortable, the ones softened and secured by ease. A warner speaks of accountability and of loosening your grip on what you hold. The man who has least to lose hears that most easily, while the one whose whole life is built on comfort and standing has the most to defend. So ease hardens quietly into arrogance, and arrogance says we disbelieve. The verse does not condemn wealth. It warns what wealth can do to a heart that forgets Who lent it, and asks whether my own comfort has made me quicker to argue with the truth than to take it in.",
-    "reflectionBn": "খেয়াল করুন, অস্বীকার করায় কারা সামনে থাকে। যখনই কোনো জনপদে সতর্ককারী এসেছেন, গরিব বা দুর্বলরা প্রথমে না বলেনি। না বলেছে তারাই, যাদের আরাম-আয়েশ নরম করে দিয়েছে, নিশ্চিন্ত করে দিয়েছে। সতর্ককারী কথা বলেন হিসাবের, আর যা আঁকড়ে আছেন তার উপর থেকে হাত আলগা করার। যার হারানোর কম, সে কথাটা সহজে শোনে। আর যার গোটা জীবন আরাম আর মর্যাদার উপর গড়া, রক্ষা করার মতো তার থাকে সবচেয়ে বেশি। তাই আরাম চুপচাপ শক্ত হয়ে অহংকার হয়ে ওঠে, আর অহংকার বলে আমরা মানি না। আয়াত সম্পদকে দোষ দেয় না। যে হৃদয় ভুলে যায় কে এই সম্পদ ধার দিয়েছেন, সম্পদ তার কী করতে পারে, আয়াত সেটাই ধরিয়ে দেয়। আর জিজ্ঞেস করে, আমার নিজের আরাম কি আমাকে সত্য গ্রহণের চেয়ে তার সঙ্গে তর্কে বেশি তৎপর করে তুলেছে।",
+    "reflectionBn": "খেয়াল করুন, অস্বীকার করায় কারা সামনে থাকে। যখনই কোনো জনপদে সতর্ককারী এসেছেন, গরিব বা দুর্বলরা প্রথমে না বলেনি। না বলেছে তারাই, যাদের আরাম-আয়েশ নরম করে দিয়েছে, নিশ্চিন্ত করে দিয়েছে। সতর্ককারী কথা বলেন হিসাবের, আর যা আঁকড়ে ধরে রাখা হয়েছে, তা থেকে মুঠো আলগা করার। যার হারানোর কম, সে কথাটা সহজে শোনে। আর যার গোটা জীবন আরাম আর মর্যাদার উপর গড়া, রক্ষা করার মতো তার থাকে সবচেয়ে বেশি। তাই আরাম চুপচাপ শক্ত হয়ে অহংকার হয়ে ওঠে, আর অহংকার বলে আমরা মানি না। আয়াত সম্পদকে দোষ দেয় না। যে হৃদয় ভুলে যায় কে এই সম্পদ ধার দিয়েছেন, সম্পদ তার কী করতে পারে, আয়াত সেটাই ধরিয়ে দেয়। আর জিজ্ঞেস করে, আমার নিজের আরাম কি আমাকে সত্য গ্রহণের চেয়ে তার সঙ্গে তর্কে বেশি তৎপর করে তুলেছে।",
     "pointsEn": [
       "When a reminder about death or accountability reaches me, is my first move to receive it, or to find reasons it does not quite apply to me?",
       "What comfort in my life would I least want a messenger to ask me to loosen my hold on?",
@@ -12696,9 +12696,9 @@ const TADABBUR_NOTES = {
     ],
     "pointsBn": [
       "মৃত্যু বা হিসাব নিয়ে কোনো কথা কানে এলে আমার প্রথম কাজটা কি তা গ্রহণ করা, নাকি অজুহাত খোঁজা যে এটা ঠিক আমার বেলায় খাটে না?",
-      "আমার জীবনের কোন আরামটা আলগা করতে বলা হলে আমি সবচেয়ে বেশি আপত্তি করতাম?",
+      "কোনো রসূল এসে আমার জীবনের কোন আরামটা থেকে মুঠো আলগা করতে বললে আমার সবচেয়ে বেশি আপত্তি হতো?",
       "কে উপদেশ দিল, সেই কারণে ভালো কথা কি কখনো উড়িয়ে দিয়েছি, কাউকে মনে মনে নিচু ভেবে?",
-      "আমার গুছিয়ে নেওয়া জীবন কি আমাকে, যা পাওনা তা শোনার চেয়ে, যা ধরে আছি তা রক্ষায় বেশি তৎপর করে?",
+      "আমার গুছিয়ে নেওয়া জীবন কি আমাকে নিজের দায় কী তা শোনার চেয়ে, হাতে যা আছে তা রক্ষায় বেশি তৎপর করে তোলে?",
       "আগামীকাল আমার ধন আর নিরাপত্তা চলে গেলে বোঝা যেত, আমার ঈমানের কতটা আসলে ওগুলোর উপরই দাঁড়িয়ে ছিল?"
     ],
     "lessonEn": "It was never the poor who led the rejection of the messengers but the comfortable elite; guard your heart, for ease can harden into the arrogance that argues with truth.",
@@ -12706,7 +12706,7 @@ const TADABBUR_NOTES = {
   },
   "34:28": {
     "reflectionEn": "Every prophet before him carried a message cut to the size of one people: one language, one land, one generation. This verse breaks that frame in a single word. You were not sent except kāffatan — comprehensively, to the whole of mankind — a bringer of good news and a warner. That sweep reaches across every border and every century, down to a reader opening the page today. And yet the verse ends on a strange note: most people do not know. The news is addressed to everyone, and most of those it is addressed to never hear that it is. So the question turns inward. I am inside the all this message was sent to. Have I taken it as meant for me, or as someone else's story?",
-    "reflectionBn": "তাঁর আগে প্রতিটি নবী এমন বার্তা নিয়ে এসেছিলেন যা এক জাতির মাপে কাটা—এক ভাষা, এক ভূমি, এক প্রজন্ম। এ আয়াত একটি শব্দে সেই সীমানা ভেঙে দেয়। আপনাকে পাঠানো হয়েছে কাফ্‌ফাতান, অর্থাৎ সমগ্র মানবজাতির কাছে, সুসংবাদদাতা ও সতর্ককারী হিসেবে। এ ডাক প্রতিটি সীমানা ও প্রতিটি শতাব্দী পেরিয়ে আজ পাতা খোলা পাঠকের কাছেও পৌঁছায়। অথচ আয়াতটি শেষ হয় অদ্ভুত সুরে: অধিকাংশ মানুষ জানে না। খবরটি সবার উদ্দেশে, অথচ যাদের উদ্দেশে, তাদের বেশির ভাগই জানে না যে তা তাদেরই জন্য। তাই প্রশ্নটা ভেতরে ঘুরে আসে। এই সমগ্রের ভেতরে আমিও আছি। আমি কি একে নিজের জন্য আসা খবর ধরেছি, নাকি অন্য কারও কাহিনি?",
+    "reflectionBn": "তাঁর আগে প্রতিটি নবী এমন বার্তা নিয়ে এসেছিলেন যা এক জাতির মাপে কাটা—এক ভাষা, এক ভূমি, এক প্রজন্ম। এ আয়াত একটি শব্দে সেই সীমানা ভেঙে দেয়। আল্লাহ বলছেন, তিনি তাঁকে পাঠিয়েছেন কাফ্‌ফাতান, অর্থাৎ সমগ্র মানবজাতির কাছে, সুসংবাদদাতা ও সতর্ককারী হিসেবে। এ ডাক প্রতিটি সীমানা ও প্রতিটি শতাব্দী পেরিয়ে আজ পাতা খোলা পাঠকের কাছেও পৌঁছায়। অথচ আয়াতটি শেষ হয় অদ্ভুত সুরে: অধিকাংশ মানুষ জানে না। খবরটি সবার উদ্দেশে, অথচ যাদের উদ্দেশে, তাদের বেশির ভাগই জানে না যে তা তাদেরই জন্য। তাই প্রশ্নটা ভেতরে ঘুরে আসে। এই সমগ্রের ভেতরে আমিও আছি। আমি কি একে নিজের জন্য আসা খবর ধরেছি, নাকি অন্য কারও কাহিনি?",
     "pointsEn": [
       "This message was sent to the whole of mankind, and I am inside that word. Do I live as one personally addressed by it, or as a bystander to someone else's religion?",
       "The verse says most people do not know that the call even reaches them. Who around me has never once heard it put as news meant for them?",
@@ -12715,18 +12715,18 @@ const TADABBUR_NOTES = {
       "If this message outlasts every generation, what am I handing on of it to the one coming after me?"
     ],
     "pointsBn": [
-      "এই বার্তা সমগ্র মানবজাতির কাছে পাঠানো, আর সেই শব্দের ভেতরে আমিও আছি। আমি কি একে নিজের উদ্দেশে বলা কথা হিসেবে বাঁচি, নাকি অন্য কারও ধর্মের দর্শক হয়ে থাকি?",
+      "এই বার্তা সমগ্র মানবজাতির কাছে পাঠানো, আর সেই শব্দের ভেতরে আমিও আছি। আমি কি এমনভাবে বাঁচি যেন কথাটা আমাকেই বলা হয়েছে, নাকি অন্য কারও ধর্মের দর্শক হয়ে থাকি?",
       "আয়াত বলে, অধিকাংশ মানুষ জানেই না যে ডাকটা তাদের কাছেও পৌঁছেছে। আমার চারপাশে এমন কে আছে, যে কখনো শোনেনি এ খবর তার জন্যও?",
       "সতর্ককারী সাবধান করেন, সুসংবাদদাতা আনন্দ দেন। এ দুইয়ের কোনটি দিয়ে আমি অন্যের কাছে এ বার্তা পৌঁছাই?",
-      "আগের নবীরা শুধু নিজেদের জাতির কাছে কথা বলতেন, এই নবী কথা বলেন সব সীমানা পেরিয়ে। আমি কি কখনো তাঁর বার্তাকে আবার নিজের দলের মাপে ছোট করে ফেলেছি?",
-      "এ বার্তা যদি প্রতিটি প্রজন্মকে ছাপিয়ে যায়, তাহলে পরের প্রজন্মের হাতে আমি এর কী তুলে দিচ্ছি?"
+      "আগের নবীরা শুধু নিজেদের জাতির কাছে কথা বলতেন, এই নবী ﷺ কথা বলেন সব সীমানা পেরিয়ে। আমি কি কখনো তাঁর বার্তাকে আবার নিজের দলের মাপে ছোট করে ফেলেছি?",
+      "এ বার্তা যদি প্রতিটি প্রজন্ম পেরিয়ে টিকে থাকে, তাহলে পরের প্রজন্মের হাতে আমি এর কী তুলে দিচ্ছি?"
     ],
     "lessonEn": "The Prophet ﷺ was sent not to one people but to all mankind, for every age; you are among those addressed, so take the message as news meant for you.",
     "lessonBn": "নবী ﷺ কোনো এক জাতির কাছে নয়, সমগ্র মানবজাতির কাছে, সব যুগের জন্য প্রেরিত। আপনিও সেই সম্বোধিতদের একজন, তাই বার্তাটি নিজের জন্য আসা খবর হিসেবেই গ্রহণ করুন।"
   },
   "34:46": {
     "reflectionEn": "They had a word ready for him: mad, possessed. The reply does not shout back. It asks for one thing, and a strange one. Not belief, not yet, but honesty. Stand up for God, it says, in twos or on your own, and then think. Step away from the crowd that has already decided. Pair off with one trusted person, or sit alone, and weigh the man you have known all his life. Is there madness in him? The verse trusts what careful thought will find. It asks not for surrender but for a fair hearing, the kind a crowd never gives. A faith that asks you to think first is a faith that knows it will not lose under an honest look.",
-    "reflectionBn": "তাদের মুখে একটা কথা তৈরিই ছিল: পাগল, উন্মাদ। জবাবটা পাল্টা চিৎকার নয়। মাত্র একটি জিনিস চাওয়া হয়েছে, আর তা অদ্ভুত। বিশ্বাস নয়, এখনই নয়, বরং সততা। বলা হচ্ছে, আল্লাহর উদ্দেশ্যে দাঁড়াও, দু'জন মিলে বা একা, তারপর ভাবো। যে ভিড় আগেভাগেই রায় দিয়ে বসে আছে তার থেকে সরে এসো। একজন বিশ্বস্ত সঙ্গীকে নিয়ে বা একা বসে, সারা জীবন যাকে চেনো সেই মানুষটাকে যাচাই করো। তার ভেতর কি উন্মাদনার কিছু আছে? আয়াতটি ঠান্ডা মাথার ভাবনার উপর ভরসা রাখে। এটি আত্মসমর্পণ চায় না, চায় একটা সুবিচার, যা ভিড় কখনো দেয় না। যে বিশ্বাস আপনাকে আগে ভাবতে বলে, সে জানে সৎ যাচাইয়ে তার হার নেই।",
+    "reflectionBn": "তাদের মুখে একটা কথা তৈরিই ছিল: পাগল, উন্মাদ। জবাবটা পাল্টা চিৎকার নয়। মাত্র একটি জিনিস চাওয়া হয়েছে, আর তা অদ্ভুত। বিশ্বাস নয়, এখনই নয়, বরং সততা। বলা হচ্ছে, আল্লাহর উদ্দেশ্যে দাঁড়াও, দু'জন মিলে বা একা, তারপর ভাবো। যে ভিড় আগেভাগেই রায় দিয়ে বসে আছে তার থেকে সরে এসো। একজন বিশ্বস্ত সঙ্গীকে নিয়ে বা একা বসে, সারা জীবন যাকে চেনো সেই মানুষটাকে যাচাই করো। তাঁর ভেতর কি উন্মাদনার কিছু আছে? আয়াতটি ঠান্ডা মাথার ভাবনার উপর ভরসা রাখে। এটি আত্মসমর্পণ চায় না, চায় একটা সুবিচার, যা ভিড় কখনো দেয় না। যে বিশ্বাস আপনাকে আগে ভাবতে বলে, সে জানে সৎ যাচাইয়ে তার হার নেই।",
     "pointsEn": [
       "When have I let a crowd decide something for me that I never once sat and weighed on my own?",
       "Is there a claim I have dismissed as absurd without giving it one honest, unhurried hour?",
@@ -12795,10 +12795,10 @@ const TADABBUR_NOTES = {
       "What is one promise I could stop deferring and begin today, before any new condition is granted?"
     ],
     "pointsBn": [
-      "'সুযোগ পেলে করব' বলে কী কী আমি ফেলে রেখেছি? বেশি সময়, বেশি টাকা, বেশি স্বাধীনতা পেলে কাল যদি সত্যিই সুযোগটা আসে, তখন কী হবে?",
+      "বেশি সময়, বেশি টাকা, বেশি স্বাধীনতা পেলে করব, এমন কী কী প্রতিশ্রুতি আমি দিয়ে রেখেছি? সেই শর্ত যদি কালই পূরণ হয়ে যায়, তখন কী হবে?",
       "হেদায়েত যখন সত্যিই আমার কাছে পৌঁছায়, কোনো নসীহত বা স্পষ্ট জবাবের আকারে, আমি কি সেদিকে এগোই, নাকি মুখ ফেরানোর অজুহাত খুঁজি?",
       "যাকে বিচার করতে দেরি করিনি, তার চেয়ে ভালো করব বলে কি কখনো নিশ্চিত ছিলাম, অথচ সেই একই পরীক্ষায় নিজেই হেরে গেছি?",
-      "আল্লাহকে দেওয়া কোন কসমগুলো আমি জোরে বলেছি অথচ চুপিচুপি রেখেছি, আর কোনগুলো জোরে বলেও একেবারে রাখিনি?",
+      "আল্লাহকে দেওয়া কোন কসমগুলো আমি জোরে বলেছি আর নীরবে রক্ষা করেছি, আর কোনগুলো জোরে বলেও একেবারে রাখিনি?",
       "কোন একটা প্রতিশ্রুতি আমি আর পিছিয়ে না দিয়ে, নতুন কোনো সুযোগের অপেক্ষা না করে আজ থেকেই শুরু করতে পারি?"
     ],
     "lessonEn": "The proof of an intention is what you do when the chance finally comes, not how firmly you swore you would act before it arrived.",
@@ -12806,7 +12806,7 @@ const TADABBUR_NOTES = {
   },
   "35:18": {
     "reflectionEn": "Picture the scene this verse draws. A soul bent under its own wrongdoing turns to the people it loved most and begs: carry a little of this weight for me. A parent asks a child, and the answer is always the same — I cannot; what I carry is more than enough. On that Day no one lends you their good deeds, and no one shoulders your debt, however close they stood to you. This is not cruelty. It is the dignity of being answerable for your own choices. So the question turns inward while there is time. The prayer you keep, the fear of God you feel when nobody is watching, the fault you scrub from your heart — you do it all for no one but yourself.",
-    "reflectionBn": "আয়াতটি একটা দৃশ্য এঁকে দেয়। নিজের গুনাহের বোঝায় নুয়ে পড়া একজন মানুষ সবচেয়ে কাছের মানুষদের কাছে গিয়ে কাকুতি করছে, এই ভার থেকে একটুখানি নাও। বাবা সন্তানের কাছে চায়, জবাব প্রতিবারই এক: পারব না, নিজের বোঝাই তো বইতে পারছি না। সেদিন কেউ নিজের নেকি ধার দেবে না, কেউ আপনার দায় কাঁধে তুলে নেবে না, দুনিয়ায় সে যত কাছেরই হোক। এটা নিষ্ঠুরতা নয়। এ হলো নিজের কাজের জবাব নিজে দেওয়ার মর্যাদা। তাই সময় থাকতেই প্রশ্নটা ভেতরের দিকে ঘুরে যায়। যে নামাজ আপনি ধরে রাখেন, কেউ না দেখলেও যে ভয়ে আল্লাহকে স্মরণ করেন, মন থেকে যে দোষ ঘষে তোলেন, সবকিছু আপনি করেন কেবল নিজেরই জন্য।",
+    "reflectionBn": "আয়াতটি একটা দৃশ্য এঁকে দেয়। নিজের গুনাহের বোঝায় নুয়ে পড়া একজন মানুষ সবচেয়ে কাছের মানুষদের কাছে গিয়ে কাকুতি করছে, এই ভার থেকে একটুখানি নাও। বাবা সন্তানের কাছে চায়, জবাব প্রতিবারই এক: পারব না, নিজের বোঝাই তো বইতে পারছি না। সেদিন কেউ নিজের নেকি ধার দেবে না, কেউ আপনার দায় কাঁধে তুলে নেবে না, দুনিয়ায় সে যত কাছেরই হোক। এটা নিষ্ঠুরতা নয়। এ হলো নিজের কাজের জবাব নিজে দেওয়ার মর্যাদা। তাই সময় থাকতেই প্রশ্নটা ভেতরের দিকে ঘুরে যায়। যে নামাজ আপনি ধরে রাখেন, কেউ না দেখলেও আল্লাহর যে ভয় অন্তরে রাখেন, মন থেকে যে দোষ ঘষে তোলেন, সবকিছু আপনি করেন কেবল নিজেরই জন্য।",
     "pointsEn": [
       "Whose good deeds am I quietly counting on to cover for me, when the truth is that no one will be able to?",
       "Is there a wrong I keep excusing because someone I love, or someone with authority, approves of it?",
@@ -12817,7 +12817,7 @@ const TADABBUR_NOTES = {
     "pointsBn": [
       "কার নেকির উপর আমি চুপচাপ ভরসা করে আছি আমাকে বাঁচিয়ে দেবে বলে, যেখানে আসলে কেউই পারবে না?",
       "এমন কোনো অন্যায় কি আছে যা আমি বারবার জায়েজ করে নিচ্ছি, শুধু কাছের কেউ বা উপরের কেউ সায় দেয় বলে?",
-      "একদম একা থাকলে, কেউ কোনোদিন জানবে না নিশ্চিত হলে, আমার ইবাদত দেখতে কেমন হয়?",
+      "একদম একা থাকলে, কেউ কোনোদিন জানবে না বলে নিশ্চিত হলে, আমার ইবাদত কেমন হয়?",
       "চরিত্রের কোন দোষের হিসাব দিতে আমি সবচেয়ে বেশি ভয় পাই, আর এ মাসে তা দূর করতে কী করেছি?",
       "নিজেকে পরিশুদ্ধ করার ফল যদি কেবল আমারই হয়, তবু কেন আমি তা অন্যের জন্য করা অনুগ্রহ ভেবে বসি?"
     ],
@@ -12835,7 +12835,7 @@ const TADABBUR_NOTES = {
       "Do I notice His signs in ordinary things, a voice, a face, the open sky, or only when I am reminded to look?"
     ],
     "pointsBn": [
-      "আমার ভেতরের কোনো দান, কোনো দক্ষতা বা বৈশিষ্ট্য বা ভাবনার ধরন, আমি কি কেবল নিজের বলে ধরে নিয়েছি, অথচ সেটা তো দেওয়া?",
+      "আমার ভেতরের কোন দানকে, কোনো দক্ষতা, বৈশিষ্ট্য বা ভাবনার ধরনকে, আমি দেওয়া জিনিস না ভেবে স্রেফ নিজের বলে ধরে নিয়েছি?",
       "আমার কোনো কাজ ভালো হলে প্রথমেই কি আল্লাহর প্রশংসা মনে আসে, নাকি চুপিচুপি কৃতিত্বটা নিজের ঘাড়ে নিই?",
       "ফেরেশতারা দেরি না করে হুকুম মানে; আমার জীবনে আনুগত্য কোথায় দেরিতে আসে, বা শর্ত জুড়ে আসে?",
       "তিনি যদি সৃষ্টিতে যা ইচ্ছে বাড়াতে পারেন, তবে নিজের সম্পর্কে যা আমি বদলানো যায় না বলে ধরে নিয়েছি, তার কতটা আসলে এখনো তাঁর হাতে?",
@@ -13285,8 +13285,8 @@ const TADABBUR_NOTES = {
     "lessonBn": "অসম্ভব-শোনা একটা খুঁটিনাটি কোনো খবর মিথ্যা হওয়ার প্রমাণ নয়। যা এখনও কল্পনা করতে পারছেন না তা নিয়ে ঠাট্টা করার আগে নিজের নিশ্চিত ধারণাটা যাচাই করুন; ঠাট্টাটাই হয়তো পরীক্ষা।"
   },
   "37:55": {
-    "reflectionEn": "He is already safe, yet he does not simply peer into the Fire; he asks permission to look. It is granted, and there in the middle of the Fire is the companion who used to laugh off any talk of a reckoning. There is no triumph in the moment, only a kind of vertigo: the two of them could easily have ended up together, had mercy not drawn a line between them that neither one drew for himself. Recognising someone you once sat beside, now changed beyond anything you expected, is no spectacle to enjoy. It is a reminder that whatever we are shown of someone else's reckoning is not ours to gloat over, but to be humbled by, asking what kept us on the other side of that line.",
-    "reflectionBn": "সে তো নিরাপদ হয়েই গেছে, তবু নিজে থেকে আগুনের দিকে উঁকি দেয় না, আগে অনুমতি চায়। আল্লাহ অনুমতি দিলে সে তাকায়, আর জাহান্নামের মাঝখানে দেখে সেই সাথীকে, যে দুনিয়ায় হিসাবের কথা শুনলেই হাসত। এই দৃশ্যে কোনো জয়োল্লাস নেই। বরং এক ধরনের শিহরণ আছে, কারণ দুজনেই অনায়াসে একসঙ্গে ওখানে পড়তে পারত, যদি না রহমত তাদের মাঝে এমন একটা রেখা টেনে দিত যা তাদের কেউই নিজে টানেনি। একসময়ের পাশাপাশি বসা একজনকে এভাবে বদলে যাওয়া অবস্থায় চেনা, উপভোগ করার মতো কোনো দৃশ্য নয়। বরং এ এক স্মারক। অন্যের হিসাব দেখে গর্ব করার নয়, বিনীত হওয়ার, আর নিজেকে জিজ্ঞেস করার, কোন রহমত আমাকে সেই রেখার এপারে রেখেছে।",
+    "reflectionEn": "He is already safe, yet he does not peer into the Fire alone; he turns to his companions: \"Will you look?\" Then he looks, and there in the middle of the Fire is the companion who used to laugh off any talk of a reckoning. There is no triumph in the moment, only a kind of vertigo: the two of them could easily have ended up together, had mercy not drawn a line between them that neither one drew for himself. Recognising someone you once sat beside, now changed beyond anything you expected, is no spectacle to enjoy. It is a reminder that whatever we are shown of someone else's reckoning is not ours to gloat over, but to be humbled by, asking what kept us on the other side of that line.",
+    "reflectionBn": "সে তো নিরাপদ হয়েই গেছে, তবু একা উঁকি দেয় না, সঙ্গীদের বলে: তোমরা কি দেখবে? তারপর সে তাকায়, আর জাহান্নামের মাঝখানে দেখে সেই সাথীকে, যে দুনিয়ায় হিসাবের কথা শুনলেই হাসত। এই দৃশ্যে কোনো জয়োল্লাস নেই। বরং এক ধরনের শিহরণ আছে, কারণ দুজনেই অনায়াসে একসঙ্গে ওখানে পড়তে পারত, যদি না রহমত তাদের মাঝে এমন একটা রেখা টেনে দিত যা তাদের কেউই নিজে টানেনি। একসময়ের পাশাপাশি বসা একজনকে এভাবে বদলে যাওয়া অবস্থায় চেনা, উপভোগ করার মতো কোনো দৃশ্য নয়। বরং এ এক স্মারক। অন্যের হিসাব দেখে গর্ব করার নয়, বিনীত হওয়ার, আর নিজেকে জিজ্ঞেস করার, কোন রহমত আমাকে সেই রেখার এপারে রেখেছে।",
     "pointsEn": [
       "When I am shown mercy I did nothing to earn, do I feel humbled by it, or do I quietly start feeling superior to whoever did not receive it?",
       "Is there a line between where I ended up and where I could easily have ended up, that I did not draw myself?",
@@ -13365,8 +13365,8 @@ const TADABBUR_NOTES = {
     "lessonBn": "স্থায়ী সুনাম শুধু বেঁচে থাকার মাধ্যমে পাওয়া যায় না। তা অর্জিত হয় ইবাদতে আর মানুষের সাথে আচরণে উৎকর্ষের মধ্য দিয়ে।"
   },
   "37:88": {
-    "reflectionEn": "A whole town expects Ibrahim at their festival. He has somewhere else in mind: alone time with their idols, once the street empties. So he looks up at the stars and says four words nobody questions, I am unwell. He has not spoken a lie in his own mind — only part of the truth, offered to people who would not have heard the rest anyway. They leave him the empty town he actually needed. No argument breaks out, no refusal they could push back against, just a door quietly left open for what he meant to do next. Some battles are won by saying less rather than more, and letting the other side supply its own reason for walking away.",
-    "reflectionBn": "গোটা জনপদ উৎসবে ইবরাহীম (আঃ)-কে চায়। তাঁর মনে অন্য একটা কাজ। রাস্তা খালি হলে একা মূর্তিগুলোর কাছে যাওয়া। তাই তিনি তারার দিকে তাকান, মুখে আনেন চার শব্দ, যা নিয়ে কেউ প্রশ্ন তোলে না: আমি অসুস্থ। নিজের মনে তিনি কোনো মিথ্যা বলেননি, বলেছেন সত্যের একটা অংশ, এমন মানুষদের কাছে যারা বাকিটা শুনলেও বুঝত না। ফল হলো, যে ফাঁকা জনপদ তাঁর দরকার ছিল, তা তিনি পেয়ে যান। কোনো তর্ক হয় না, কারও আপত্তি করারও সুযোগ থাকে না। কেবল একটা দরজা চুপচাপ খোলা থেকে যায়, যা দিয়ে তিনি পরে ঢুকবেন নিজের কাজে। কখনো কখনো লড়াই জেতা যায় কম বলে, বেশি নয়; আর প্রতিপক্ষকে নিজের মতো করেই একটা কারণ বানিয়ে নিতে দিয়ে, যাতে সে নিজে থেকেই সরে যায়।",
+    "reflectionEn": "A whole town expects Ibrahim at their festival. He has somewhere else in mind: alone time with their idols, once the street empties. So he looks up at the stars and says a few words nobody questions: I am unwell. He has not spoken a lie in his own mind — only part of the truth, offered to people who would not have heard the rest anyway. They leave him the empty town he actually needed. No argument breaks out, no refusal they could push back against, just a door quietly left open for what he meant to do next. Some battles are won by saying less rather than more, and letting the other side supply its own reason for walking away.",
+    "reflectionBn": "গোটা জনপদ উৎসবে ইবরাহীম (আঃ)-কে চায়। তাঁর মনে অন্য একটা কাজ। রাস্তা খালি হলে একা মূর্তিগুলোর কাছে যাওয়া। তাই তিনি তারার দিকে তাকান, মুখে আনেন ছোট্ট একটি কথা, যা নিয়ে কেউ প্রশ্ন তোলে না: আমি অসুস্থ। নিজের মনে তিনি কোনো মিথ্যা বলেননি, বলেছেন সত্যের একটা অংশ, এমন মানুষদের কাছে যারা বাকিটা শুনলেও বুঝত না। ফল হলো, যে ফাঁকা জনপদ তাঁর দরকার ছিল, তা তিনি পেয়ে যান। কোনো তর্ক হয় না, কারও আপত্তি করারও সুযোগ থাকে না। কেবল একটা দরজা চুপচাপ খোলা থেকে যায়, যা দিয়ে তিনি পরে ঢুকবেন নিজের কাজে। কখনো কখনো লড়াই জেতা যায় কম বলে, বেশি নয়; আর প্রতিপক্ষকে নিজের মতো করেই একটা কারণ বানিয়ে নিতে দিয়ে, যাতে সে নিজে থেকেই সরে যায়।",
     "pointsEn": [
       "When speaking the full truth would only slam a door shut, have I looked for a true but partial sentence that could open it instead?",
       "Do I ever reach for the complete truth as a weapon, when a quieter, true sentence would do the same work with less harm?",
@@ -14063,8 +14063,8 @@ const TADABBUR_NOTES = {
     "lessonBn": "যে বিবাদ আপনি মেটাতে পারবেন না, তা অদৃশ্য ও দৃশ্যের জ্ঞাতা আল্লাহর হাতে ছেড়ে দিন। আর নিজের আমল এখনই যাচাই করুন, হিসাবের বাইরের কিছু সামনে আসার আগেই।"
   },
   "39:67": {
-    "reflectionEn": "The Prophet ﷺ had just been told to worship others beside Allah, and this verse answers with a measure. They have not valued Allah as He deserves to be valued. Then it shows the scale they missed: on the Day of Resurrection the whole earth will be in His grip, and the heavens will be folded in His right hand. Whatever looks vast to me now, the ground under my feet or a sky I cannot see the end of, is small before Him. The verse closes by declaring Him far above every partner set beside Him. So the question turns to me. What do I treat as too big to lose, too strong to stand against, or too important to displease?",
-    "reflectionBn": "নবী ﷺ-কে বলা হয়েছিল আল্লাহকে ছেড়ে অন্যের ইবাদত করতে। এ আয়াত তার জবাব দেয় একটা মাপকাঠি দিয়ে: তারা আল্লাহর যথাযোগ্য কদর করেনি। তারপর দেখিয়ে দেয় কোন মাপটা তাদের চোখ এড়িয়ে গেছে। কিয়ামতের দিন গোটা পৃথিবী থাকবে তাঁর মুঠোয়, আর আকাশমণ্ডলী ভাঁজ করা থাকবে তাঁর ডান হাতে। আজ যা আমার কাছে বিশাল মনে হয়, পায়ের নিচের মাটি কিংবা যে আকাশের শেষ আমি দেখতে পাই না, তাঁর সামনে সবই ছোট। আয়াত শেষ হয় এই ঘোষণায় যে, তাঁর পাশে যাদের শরীক বানানো হয়, তিনি তাদের সবার বহু ঊর্ধ্বে। তাহলে প্রশ্নটা এবার আমার দিকে ফেরে। কোন জিনিসকে আমি এত বড় ভাবি যে হারাতে পারব না, এত শক্তিশালী ভাবি যে রুখে দাঁড়াতে পারব না, কিংবা এত জরুরি ভাবি যে তাকে নারাজ করা চলবে না?",
+    "reflectionEn": "The polytheists had just urged the Prophet ﷺ to worship others beside Allah (39:64), and this verse answers with a measure. They have not valued Allah as He deserves to be valued. Then it shows the scale they missed: on the Day of Resurrection the whole earth will be in His grip, and the heavens will be folded in His right hand. Whatever looks vast to me now, the ground under my feet or a sky I cannot see the end of, is small before Him. The verse closes by declaring Him far above every partner set beside Him. So the question turns to me. What do I treat as too big to lose, too strong to stand against, or too important to displease?",
+    "reflectionBn": "মুশরিকরা নবী ﷺ-কে বলছিল আল্লাহকে ছেড়ে অন্যের ইবাদত করতে (৩৯:৬৪)। এ আয়াত তার জবাব দেয় একটা মাপকাঠি দিয়ে: তারা আল্লাহর যথাযোগ্য কদর করেনি। তারপর দেখিয়ে দেয় কোন মাপটা তাদের চোখ এড়িয়ে গেছে। কিয়ামতের দিন গোটা পৃথিবী থাকবে তাঁর মুঠোয়, আর আকাশমণ্ডলী ভাঁজ করা থাকবে তাঁর ডান হাতে। আজ যা আমার কাছে বিশাল মনে হয়, পায়ের নিচের মাটি কিংবা যে আকাশের শেষ আমি দেখতে পাই না, তাঁর সামনে সবই ছোট। আয়াত শেষ হয় এই ঘোষণায় যে, তাঁর পাশে যাদের শরীক বানানো হয়, তিনি তাদের সবার বহু ঊর্ধ্বে। তাহলে প্রশ্নটা এবার আমার দিকে ফেরে। কোন জিনিসকে আমি এত বড় ভাবি যে হারাতে পারব না, এত শক্তিশালী ভাবি যে রুখে দাঁড়াতে পারব না, কিংবা এত জরুরি ভাবি যে তাকে নারাজ করা চলবে না?",
     "pointsEn": [
       "What in my life feels so large that I arrange my choices around it, and how does it look beside an earth held in His grip?",
       "When I feared a person's displeasure more than Allah's this week, what did that say about how I measure Him?",
