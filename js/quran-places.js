@@ -171,7 +171,11 @@ class QuranPlacesView {
 
   mainMap() {
     const v = this.view, r = v.w * 0.012, fs = v.w * 0.027, sw = v.w * 0.003;
-    const areas = this.drawn().filter(p => p.loc === 'uncertain').map(p => {
+    // While a journey is drawn, other places step back: only its own stops keep their areas.
+    const j = this.journey && this.journeyById(this.journey);
+    const onRoute = j ? new Set(this.journeyStops(j).filter(q => q.place).map(q => q.place.id)) : null;
+    const fade = id => (onRoute && !onRoute.has(id) ? ' opacity="0.35"' : '');
+    const areas = this.drawn().filter(p => p.loc === 'uncertain' && (!onRoute || onRoute.has(p.id))).map(p => {
       const [x, y] = this.xy(p);
       return `<g data-pl-pin="${this.esc(p.id)}" class="cursor-pointer">
         <circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${this.kmPx(p.radiusKm || 150).toFixed(1)}" class="fill-sky-500/15 stroke-sky-600 dark:stroke-sky-400" stroke-width="${sw.toFixed(2)}" stroke-dasharray="${(sw * 3).toFixed(2)} ${(sw * 2).toFixed(2)}"/>
@@ -180,13 +184,13 @@ class QuranPlacesView {
     }).join('');
     const pins = this.clusters().map(c => {
       if (c.items.length > 1) {
-        return `<g data-pl-cluster="${this.esc(c.items.map(p => p.id).join(','))}" class="cursor-pointer">
+        return `<g data-pl-cluster="${this.esc(c.items.map(p => p.id).join(','))}" class="cursor-pointer"${onRoute && !c.items.some(p => onRoute.has(p.id)) ? ' opacity="0.35"' : ''}>
           <circle cx="${c.x.toFixed(1)}" cy="${c.y.toFixed(1)}" r="${(r * 1.8).toFixed(1)}" class="fill-primary stroke-white" stroke-width="${sw.toFixed(2)}"/>
           <text x="${c.x.toFixed(1)}" y="${(c.y + fs * 0.35).toFixed(1)}" font-size="${fs.toFixed(1)}" text-anchor="middle" fill="white" font-weight="700">${c.items.length}</text>
         </g>`;
       }
       const p = c.items[0], sel = p.id === this.selected;
-      return `<g data-pl-pin="${this.esc(p.id)}" class="cursor-pointer">
+      return `<g data-pl-pin="${this.esc(p.id)}" class="cursor-pointer"${fade(p.id)}>
         <circle cx="${c.x.toFixed(1)}" cy="${c.y.toFixed(1)}" r="${(sel ? r * 1.5 : r).toFixed(1)}" class="${this.pinColor(p)} stroke-white" stroke-width="${sw.toFixed(2)}"/>
         <text x="${(c.x + r * 1.6).toFixed(1)}" y="${(c.y + fs * 0.35).toFixed(1)}" font-size="${fs.toFixed(1)}" class="fill-gray-800 dark:fill-gray-100" font-weight="${sel ? 700 : 500}" style="paint-order:stroke" stroke="white" stroke-opacity="0.75" stroke-width="${(fs * 0.25).toFixed(2)}">${this.esc(this.lc(p.label))}</text>
       </g>`;

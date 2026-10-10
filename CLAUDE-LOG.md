@@ -12,15 +12,15 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
-## USER QUEUE 2 (2026-10-10 afternoon): A) Places: more places + journeys (routes) + map graphics; B) Quranic Duas page (every dua, word by word, word counts) + virtues of surahs/ayat (graded hadith only).
+## USER QUEUE 2 (2026-10-10 afternoon) — ALL DONE v944. Places (P1-P5) now use (আঃ) like the rest of the app. A) Places: more places + journeys (routes) + map graphics; B) Quranic Duas page (every dua, word by word, word counts) + virtues of surahs/ayat (graded hadith only).
 | Item | Batch | Stage |
 |---|---|---|
-| Places | P4 (7, Prophet's era) | MERGED (audit 0B 0M 4m) → places.json 41 |
-| Places | P5 (12, prophets/nations) | DRAFTED CLEAN, auditing |
-| Journeys | J1 + J2 (12) | DRAFTING (one drafter) |
-| Duas | D1 42 / D2 47 = 89 duas, 1255 words | MERGED (D1 audit 1B 0M 4m; D2 audit 2B 1M 4m; (আ)→(আঃ) normalised) |
-| Virtues | V1 18 targets | MERGED (audit 1B 3M 7m, 2 applied by hand: 'virtues|target' where-field + rejected.json); CONFIRM audit of 7 rewritten entries running |
-| Code | quran-places.js journeys/labels/pan-zoom; js/quran-duas.js tab (registered everywhere) | BUILT, harness-tested; data/quran-duas.json currently holds UNAUDITED drafts, data/places/journeys.json a SAMPLE: rebuild both before any deploy |
+| Places | P4 (7) | MERGED (audit 0B 0M 4m), DEPLOYED v943 |
+| Places | P5 (12) | MERGED (audit 0B 4M 2m), DEPLOYED v944 → 53 places |
+| Journeys | J1 + J2 (12) | MERGED (J1 audit 0B 0M 5m; J2 0B 3M 2m), DEPLOYED v944 |
+| Duas | 89 duas, 1255 words | DONE, DEPLOYED v943 (live md5 verified) |
+| Virtues | 18 targets, 43 hadith | DONE (audit + confirm audit), DEPLOYED v943 |
+| Code | quran-places.js journeys/labels/pan-zoom; js/quran-duas.js tab (registered everywhere) | DEPLOYED v943 (journeys.json is [] until the journeys are audited) |
 
 ## USER QUEUE (2026-10-10, "keep moving"): 1) Quranic Arabic Juz 28 (DONE v940) → 2) Mutashabihat notes (DONE v942) → 3) Places in the Quran map module (DONE v941). ALL THREE DONE 2026-10-10. Next: user's choice (see docs/PROJECT-SUMMARY.md 'Where things stand').
 
