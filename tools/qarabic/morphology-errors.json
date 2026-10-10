@@ -40,5 +40,26 @@
   "word": "وَنَبَاتًا",
   "tag": "N F INDEF ACC",
   "correct": "N M INDEF ACC: nabāt is masculine (18:45 nabātu l-arḍi fa-aṣbaḥa hashīman, masculine verb). Draft role states no gender, so no lesson change needed"
+ },
+ {
+  "batch": "T2",
+  "ref": "79:22",
+  "word": "يَسْعَىٰ",
+  "tag": "PERF VF:1 3MS (i'rab فعل ماض)",
+  "correct": "IMPF VF:1 3MS MOOD:IND (ya- prefix; past is سَعَىٰ, 79:35); clause is ḥāl of adbara's subject"
+ },
+ {
+  "batch": "T2",
+  "ref": "79:32",
+  "word": "أَرْسَىٰهَا",
+  "tag": "IMPF VF:1 1S MOOD:IND (i'rab فعل مضارع)",
+  "correct": "PERF VF:4 3MS (arsā; أَ with fatḥa + final ىٰ; 1S imperfect would be أُرْسِي) + obj. -hā"
+ },
+ {
+  "batch": "T2",
+  "ref": "79:20",
+  "word": "أَرَىٰ (in فَأَرَىٰهُ)",
+  "tag": "PERF VF:1 3MS lemma رَأَى",
+  "correct": "PERF VF:4 3MS lemma أَرَى (arā < arʾā, 'showed'; Form I past is رَأَىٰ; takes two objects)"
  }
 ]

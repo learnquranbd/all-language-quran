@@ -2890,6 +2890,511 @@
    }
   },
   {
+   "id": "read-87-3",
+   "unit": "read-87",
+   "icon": "📖",
+   "title": {
+    "en": "al-Aʿlā 6-9: lā that negates, not forbids",
+    "bn": "আল-আ'লা ৬-৯: নিষেধের নয়, না-বোধক লা"
+   },
+   "concept": {
+    "en": "<b>lā</b> before a present verb can do two things. As a negation (<b>lā nāfiya</b>) it leaves the verb indicative: \"you will not forget\". As a prohibition (<b>lā nāhiya</b>) it makes the verb jussive, \"do not forget\", which would shorten تَنسَىٰ to تَنسَ. In 87:6 the long ā stays, so lā here negates.",
+    "bn": "বর্তমান ক্রিয়ার আগে <b>লা</b> দুই রকম কাজ করতে পারে। না-বোধক লা (<b>লা নাফিয়া</b>) ক্রিয়াকে মারফু রাখে: \"তুমি ভুলবে না\"। নিষেধের লা (<b>লা নাহিয়া</b>) ক্রিয়াকে মাজযুম করে: \"ভুলো না\"। তখন تَنسَىٰ ছোট হয়ে হতো تَنسَ। ৮৭:৬-এ দীর্ঘ আ রয়ে গেছে, তাই এখানের লা না-বোধক।"
+   },
+   "examples": [
+    {
+     "ref": "87:6",
+     "trans": {
+      "en": "We will make you recite, [O Muḥammad], and you will not forget,",
+      "bn": "আমি তোমাকে পড়িয়ে দেব, যার ফলে তুমি ভুলে যাবে না।"
+     },
+     "note": {
+      "en": "sa- before nuqriʾu-ka points to the future: \"We will make you recite\". Then fa-lā tansā: tansā keeps its long ā, so it is indicative and lā is negation, \"you will not forget\".",
+      "bn": "নুকরিউ-কা-র আগে সা ভবিষ্যৎ বোঝায়: \"আমি তোমাকে পড়িয়ে দেব\"। তারপর ফা-লা তানসা: তানসা-র দীর্ঘ আ বহাল আছে, তাই ক্রিয়াটি মারফু, আর লা এখানে না-বোধক: \"তুমি ভুলবে না\"।"
+     },
+     "words": [
+      {
+       "ar": "سَنُقْرِئُكَ",
+       "en": "We will make you recite",
+       "bn": "তোমাকে শীঘ্রই আমরা পড়িয়ে দেব",
+       "role": {
+        "en": "sa- future + Form IV present verb + obj. \"you\"",
+        "bn": "ভবিষ্যতের সা + চতুর্থ রূপের বর্তমান ক্রিয়া + কর্ম \"তোমাকে\""
+       }
+      },
+      {
+       "ar": "فَلَا",
+       "en": "so not",
+       "bn": "অতঃপর না",
+       "role": {
+        "en": "fa- + negative particle lā",
+        "bn": "ফা + না-বোধক অব্যয় লা"
+       },
+       "hl": true
+      },
+      {
+       "ar": "تَنسَىٰٓ",
+       "en": "you will forget",
+       "bn": "তুমি ভুলবে",
+       "role": {
+        "en": "present verb \"you\", indicative",
+        "bn": "বর্তমান ক্রিয়া \"তুমি\", মারফু"
+       },
+       "hl": true
+      }
+     ]
+    },
+    {
+     "ref": "87:7",
+     "trans": {
+      "en": "Except what Allāh should will. Indeed, He knows what is declared and what is hidden.",
+      "bn": "তবে ওটা বাদে যেটা আল্লাহ (রহিত করার) ইচ্ছে করবেন। তিনি জানেন যা প্রকাশ্য আর যা গোপন।"
+     },
+     "note": {
+      "en": "illā \"except\" takes something out of the statement before it: \"you will not forget, except what Allāh wills\". mā is a relative pronoun, and shāʾa llāhu \"Allāh wills\" is its clause.",
+      "bn": "ইল্লা (\"ছাড়া\") আগের কথা থেকে একটি অংশ বাদ রাখে: \"তুমি ভুলবে না, তবে আল্লাহ যা চান তা ছাড়া\"। মা সম্বন্ধবাচক সর্বনাম, আর শা-আল্লাহু (\"আল্লাহ চান\") তার বাক্যাংশ।"
+     },
+     "words": [
+      {
+       "ar": "إِلَّا",
+       "en": "Except",
+       "bn": "এ ব্যতীত",
+       "role": {
+        "en": "exception particle illā \"except\"",
+        "bn": "ব্যতিক্রমের অব্যয় ইল্লা \"ছাড়া\""
+       },
+       "hl": true
+      },
+      {
+       "ar": "مَا",
+       "en": "what",
+       "bn": "যা",
+       "role": {
+        "en": "relative pronoun mā \"what\"",
+        "bn": "সম্বন্ধবাচক সর্বনাম মা \"যা\""
+       },
+       "hl": true
+      },
+      {
+       "ar": "شَآءَ",
+       "en": "wills",
+       "bn": "ইচ্ছা করেন",
+       "role": {
+        "en": "past verb \"wills\"",
+        "bn": "অতীত ক্রিয়া \"চান\""
+       }
+      },
+      {
+       "ar": "ٱللَّهُ",
+       "en": "Allah",
+       "bn": "আল্লাহ্‌",
+       "role": {
+        "en": "nominative proper noun (subject)",
+        "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+       }
+      },
+      {
+       "ar": "إِنَّهُۥ",
+       "en": "Indeed, He",
+       "bn": "নিশ্চয়ই তিনি",
+       "role": {
+        "en": "inna + \"He\" (its noun)",
+        "bn": "ইন্না + \"তিনি\" (তার ইসম)"
+       }
+      },
+      {
+       "ar": "يَعْلَمُ",
+       "en": "knows",
+       "bn": "জানেন",
+       "role": {
+        "en": "present verb \"knows\"",
+        "bn": "বর্তমান ক্রিয়া \"জানেন\""
+       }
+      },
+      {
+       "ar": "ٱلْجَهْرَ",
+       "en": "the manifest",
+       "bn": "প্রকাশ্য (বিষয়)",
+       "role": {
+        "en": "def. accusative noun (object)",
+        "bn": "আল + মানসুব বিশেষ্য (কর্ম)"
+       }
+      },
+      {
+       "ar": "وَمَا",
+       "en": "and what",
+       "bn": "ও যা কিছু",
+       "role": {
+        "en": "and + relative pronoun mā \"what\"",
+        "bn": "আর + সম্বন্ধবাচক সর্বনাম মা \"যা\""
+       }
+      },
+      {
+       "ar": "يَخْفَىٰ",
+       "en": "is hidden",
+       "bn": "কেউ গোপন করে",
+       "role": {
+        "en": "present verb \"is hidden\"",
+        "bn": "বর্তমান ক্রিয়া \"গোপন থাকে\""
+       }
+      }
+     ]
+    },
+    {
+     "ref": "87:8",
+     "trans": {
+      "en": "And We will ease you toward ease.",
+      "bn": "আমি তোমার জন্য সহজপথ (অনুসরণ করা) আরো সহজ করে দেব।"
+     },
+     "note": {
+      "en": "nu-yassiru is Form II of the root y-s-r, \"to make easy\", and al-yusrā \"ease\" comes from the same root. As the translation shows, the present verb has a future meaning here: \"We will ease you\".",
+      "bn": "নুয়াসসিরু ইয়া-সীন-রা ধাতুর দ্বিতীয় রূপ, অর্থ \"সহজ করে দেওয়া\"। আল-ইউসরা (\"সহজ\")-ও একই ধাতু থেকে। অনুবাদ যেমন দেখায়, বর্তমান ক্রিয়াটি এখানে ভবিষ্যতের অর্থ দেয়: \"আমি সহজ করে দেব\"।"
+     },
+     "words": [
+      {
+       "ar": "وَنُيَسِّرُكَ",
+       "en": "And We will ease you",
+       "bn": "এবং আমরা তোমাকে সহজ করে দিবো",
+       "role": {
+        "en": "and + Form II present verb \"We\" + obj. \"you\"",
+        "bn": "আর + দ্বিতীয় রূপের বর্তমান ক্রিয়া \"আমরা\" + কর্ম \"তোমাকে\""
+       },
+       "hl": true
+      },
+      {
+       "ar": "لِلْيُسْرَىٰ",
+       "en": "to the ease",
+       "bn": "সহজ (পন্থাকে)",
+       "role": {
+        "en": "li- + def. genitive noun \"ease\"",
+        "bn": "অব্যয় লি + আল + মাজরুর বিশেষ্য \"সহজ\""
+       },
+       "hl": true
+      }
+     ]
+    },
+    {
+     "ref": "87:9",
+     "trans": {
+      "en": "So remind, if the reminder should benefit;",
+      "bn": "কাজেই তুমি উপদেশ দাও যদি উপদেশ উপকার দেয়।"
+     },
+     "note": {
+      "en": "dhakkir is an imperative and ends in sukūn; compare tansā in 87:6, which kept its long ā. After in \"if\", the past verb nafaʿat sets a condition: \"if the reminder benefits\".",
+      "bn": "যাক্কির আদেশসূচক ক্রিয়া, শেষে সুকূন। তুলনা করুন ৮৭:৬-এর তানসা-র সঙ্গে, যার দীর্ঘ আ বহাল ছিল। ইন (\"যদি\")-এর পরে অতীত ক্রিয়া নাফা'আত শর্ত তৈরি করে: \"যদি উপদেশ উপকারে আসে\"।"
+     },
+     "words": [
+      {
+       "ar": "فَذَكِّرْ",
+       "en": "So remind",
+       "bn": "অতঃপর উপদেশ দাও",
+       "role": {
+        "en": "fa- + Form II imperative \"remind\"",
+        "bn": "ফা + দ্বিতীয় রূপের আদেশসূচক ক্রিয়া \"উপদেশ দাও\""
+       },
+       "hl": true
+      },
+      {
+       "ar": "إِن",
+       "en": "if",
+       "bn": "যদি",
+       "role": {
+        "en": "conditional particle in \"if\"",
+        "bn": "শর্তবাচক অব্যয় ইন \"যদি\""
+       },
+       "hl": true
+      },
+      {
+       "ar": "نَّفَعَتِ",
+       "en": "benefits",
+       "bn": "কল্যাণকর হয়",
+       "role": {
+        "en": "past verb (fem.) \"benefits\"",
+        "bn": "অতীত ক্রিয়া (স্ত্রীলিঙ্গ) \"উপকার দেয়\""
+       }
+      },
+      {
+       "ar": "ٱلذِّكْرَىٰ",
+       "en": "the reminder",
+       "bn": "উপদেশ",
+       "role": {
+        "en": "def. nominative noun (subject)",
+        "bn": "আল + মারফু বিশেষ্য (কর্তা)"
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "Why does فَلَا تَنسَىٰٓ (87:6) mean \"you will not forget\", not \"do not forget\"?",
+     "bn": "فَلَا تَنسَىٰٓ (৮৭:৬)-এর অর্থ \"ভুলো না\" নয়, \"তুমি ভুলবে না\" কেন?"
+    },
+    "options": [
+     {
+      "en": "Because fa- turns a prohibition into a negation",
+      "bn": "কারণ ফা নিষেধকে না-বোধক বানিয়ে দেয়"
+     },
+     {
+      "en": "Because tansā keeps its long ā: it is indicative, so lā negates",
+      "bn": "কারণ তানসা-র দীর্ঘ আ বহাল: ক্রিয়াটি মারফু, তাই লা না-বোধক"
+     },
+     {
+      "en": "Because the sa- of the first word makes it future",
+      "bn": "কারণ প্রথম শব্দের সা একে ভবিষ্যৎ বানায়"
+     },
+     {
+      "en": "Because the verb is in the past tense",
+      "bn": "কারণ ক্রিয়াটি অতীত কালের"
+     }
+    ],
+    "answer": 1,
+    "explain": {
+     "en": "A lā of prohibition would make the verb jussive and drop the long ā (تَنسَ). Here tansā keeps it, so it is indicative, and lā simply negates. The sa- belongs to nuqriʾu-ka, not to tansā.",
+     "bn": "নিষেধের লা ক্রিয়াকে মাজযুম করত, আর দীর্ঘ আ ঝরে যেত (تَنسَ)। এখানে তানসা তা ধরে রেখেছে, তাই ক্রিয়াটি মারফু, আর লা শুধু না-বোধক। সা যুক্ত নুকরিউ-কা-র সঙ্গে, তানসা-র সঙ্গে নয়।"
+    }
+   }
+  },
+  {
+   "id": "read-87-4",
+   "unit": "read-87",
+   "icon": "📖",
+   "title": {
+    "en": "al-Aʿlā 10-13: Form V verbs, yadhdhakkaru and yatajannabu",
+    "bn": "আল-আ'লা ১০-১৩: পঞ্চম রূপের ক্রিয়া, ইয়াযযাক্কারু ও ইয়াতাজান্নাবু"
+   },
+   "concept": {
+    "en": "Form V verbs follow the pattern <b>tafaʿʿala</b>: a t- before the root and a doubled middle letter. <b>yatajannabu</b> (87:11) shows it plainly: ya-ta-jannab-u. In <b>yadhdhakkaru</b> (87:10) the t has merged into the dh, so yatadhakkaru is said yadhdhakkaru. Form V often describes doing something to or for oneself: taking heed, keeping away.",
+    "bn": "পঞ্চম রূপের ক্রিয়ার ছাঁচ <b>تَفَعَّلَ</b>: ধাতুর আগে একটি ত, আর মাঝের অক্ষরে তাশদীদ। ৮৭:১১-এর <b>ইয়াতাজান্নাবু</b>-তে তা স্পষ্ট: ইয়া-তা-জান্নাব-উ। ৮৭:১০-এর <b>ইয়াযযাক্কারু</b>-তে ত মিশে গেছে যাল-এর সঙ্গে, তাই ইয়াতাযাক্কারু উচ্চারিত হয় ইয়াযযাক্কারু। এই রূপ প্রায়ই নিজের ওপর বা নিজের জন্য করা কাজ বোঝায়: শিক্ষা নেওয়া, দূরে থাকা।"
+   },
+   "examples": [
+    {
+     "ref": "87:10",
+     "trans": {
+      "en": "He who fears [Allāh] will be reminded.",
+      "bn": "যে ভয় করে সে উপদেশ গ্রহণ করবে।"
+     },
+     "note": {
+      "en": "sa-yadhdhakkaru is sa- + yatadhakkaru, with the t merged into the dh, hence the doubled dhdh. Its subject is the relative pronoun man: man yakhshā, \"he who fears\".",
+      "bn": "সা-ইয়াযযাক্কারু হলো সা + ইয়াতাযাক্কারু, যেখানে ত মিশে গেছে যাল-এ, তাই যাল দ্বিত্ব। এর কর্তা সম্বন্ধবাচক সর্বনাম মান: মান ইয়াখশা, \"যে ভয় করে\"।"
+     },
+     "words": [
+      {
+       "ar": "سَيَذَّكَّرُ",
+       "en": "He will pay heed",
+       "bn": "সে শীঘ্রই শিক্ষা নেবে",
+       "role": {
+        "en": "sa- future + Form V present verb",
+        "bn": "ভবিষ্যতের সা + পঞ্চম রূপের বর্তমান ক্রিয়া"
+       },
+       "hl": true
+      },
+      {
+       "ar": "مَن",
+       "en": "(one) who",
+       "bn": "যে",
+       "role": {
+        "en": "relative pronoun man (subject)",
+        "bn": "সম্বন্ধবাচক সর্বনাম মান (কর্তা)"
+       },
+       "hl": true
+      },
+      {
+       "ar": "يَخْشَىٰ",
+       "en": "fears (Allah)",
+       "bn": "ভয় করে",
+       "role": {
+        "en": "present verb \"fears\"",
+        "bn": "বর্তমান ক্রিয়া \"ভয় করে\""
+       }
+      }
+     ]
+    },
+    {
+     "ref": "87:11",
+     "trans": {
+      "en": "But the wretched one will avoid it",
+      "bn": "আর তা উপেক্ষা করবে যে চরম হতভাগা।"
+     },
+     "note": {
+      "en": "ya-ta-jannabu shows the Form V t clearly, with the doubled n: \"he will avoid\". -hā is its object (the reminder), so the subject al-ashqā \"the wretched one\" comes after it.",
+      "bn": "ইয়া-তা-জান্নাবু-তে পঞ্চম রূপের ত স্পষ্ট, সঙ্গে দ্বিত্ব নূন: \"সে এড়িয়ে চলবে\"। -হা তার কর্ম (উপদেশ), তাই কর্তা আল-আশকা (\"হতভাগা\") এসেছে পরে।"
+     },
+     "words": [
+      {
+       "ar": "وَيَتَجَنَّبُهَا",
+       "en": "And will avoid it",
+       "bn": "আর তা পাশ কাটাবে/ উপেক্ষা করবে",
+       "role": {
+        "en": "and + Form V present verb + obj. \"it\"",
+        "bn": "আর + পঞ্চম রূপের বর্তমান ক্রিয়া + কর্ম \"তা\""
+       },
+       "hl": true
+      },
+      {
+       "ar": "ٱلْأَشْقَى",
+       "en": "the wretched one",
+       "bn": "নিতান্তই হতভাগা",
+       "role": {
+        "en": "def. nominative noun (subject)",
+        "bn": "আল + মারফু বিশেষ্য (কর্তা)"
+       },
+       "hl": true
+      }
+     ]
+    },
+    {
+     "ref": "87:12",
+     "trans": {
+      "en": "[He] who will [enter and] burn in the greatest Fire,",
+      "bn": "যে ভয়াবহ আগুনে প্রবেশ করবে।"
+     },
+     "note": {
+      "en": "yaṣlā is Form I, not Form V: no t, no doubled letter. It takes al-nāra directly as its object, accusative; the \"in\" of the translation comes from the verb itself, and the Arabic has no preposition.",
+      "bn": "ইয়াসলা প্রথম রূপের, পঞ্চম নয়: ত নেই, দ্বিত্ব অক্ষরও নেই। এটি আন-নারা-কে সরাসরি কর্ম হিসেবে নেয়, মানসুব অবস্থায়। অনুবাদের \"আগুনে\" অর্থটা আসে ক্রিয়া থেকেই, আরবিতে কোনো অব্যয় নেই।"
+     },
+     "words": [
+      {
+       "ar": "ٱلَّذِى",
+       "en": "The one who",
+       "bn": "যে",
+       "role": {
+        "en": "relative pronoun alladhī \"who\"",
+        "bn": "সম্বন্ধবাচক সর্বনাম আল্লাযী \"যে\""
+       }
+      },
+      {
+       "ar": "يَصْلَى",
+       "en": "will burn",
+       "bn": "প্রবেশ করবে",
+       "role": {
+        "en": "present verb \"will burn (in)\"",
+        "bn": "বর্তমান ক্রিয়া \"প্রবেশ করবে\""
+       },
+       "hl": true
+      },
+      {
+       "ar": "ٱلنَّارَ",
+       "en": "(in) the Fire",
+       "bn": "আগুনে",
+       "role": {
+        "en": "def. accusative noun (object)",
+        "bn": "আল + মানসুব বিশেষ্য (কর্ম)"
+       },
+       "hl": true
+      },
+      {
+       "ar": "ٱلْكُبْرَىٰ",
+       "en": "[the] great",
+       "bn": "ভয়াবহ",
+       "role": {
+        "en": "def. accusative adjective (naʿt)",
+        "bn": "আল + মানসুব বিশেষণ (না'ত)"
+       }
+      }
+     ]
+    },
+    {
+     "ref": "87:13",
+     "trans": {
+      "en": "Neither dying therein nor living.",
+      "bn": "অতঃপর সেখানে সে না (মরার মত) মরবে, আর না (বাঁচার মত) বাঁচবে।"
+     },
+     "note": {
+      "en": "Two Form I verbs, each negated by lā. yamūtu keeps its -u, so it is indicative and lā negates: \"he will not die\", as in 87:6.",
+      "bn": "দুটি প্রথম রূপের ক্রিয়া, প্রতিটিকে লা না-বোধক করেছে। ইয়ামূতু-র শেষের -উ বহাল, তাই ক্রিয়াটি মারফু, আর লা না-বোধক: \"সে মরবে না\", ৮৭:৬-এর মতো।"
+     },
+     "words": [
+      {
+       "ar": "ثُمَّ",
+       "en": "Then",
+       "bn": "অতঃপর",
+       "role": {
+        "en": "conjunction thumma \"then\"",
+        "bn": "সংযোজক অব্যয় সুম্মা \"তারপর\""
+       }
+      },
+      {
+       "ar": "لَا",
+       "en": "not",
+       "bn": "না",
+       "role": {
+        "en": "negative particle lā",
+        "bn": "না-বোধক অব্যয় লা"
+       },
+       "hl": true
+      },
+      {
+       "ar": "يَمُوتُ",
+       "en": "he will die",
+       "bn": "সে মরবে",
+       "role": {
+        "en": "present verb \"will die\", indicative",
+        "bn": "বর্তমান ক্রিয়া \"মরবে\", মারফু"
+       },
+       "hl": true
+      },
+      {
+       "ar": "فِيهَا",
+       "en": "therein",
+       "bn": "তার মধ্যে",
+       "role": {
+        "en": "fī \"in\" + pronoun \"it\"",
+        "bn": "অব্যয় ফী + সর্বনাম \"তা\""
+       }
+      },
+      {
+       "ar": "وَلَا",
+       "en": "and not",
+       "bn": "আর না",
+       "role": {
+        "en": "and + negative particle lā",
+        "bn": "আর + না-বোধক অব্যয় লা"
+       }
+      },
+      {
+       "ar": "يَحْيَىٰ",
+       "en": "will live",
+       "bn": "বাঁচবে",
+       "role": {
+        "en": "present verb \"will live\"",
+        "bn": "বর্তমান ক্রিয়া \"বাঁচবে\""
+       }
+      }
+     ]
+    }
+   ],
+   "practice": {
+    "q": {
+     "en": "Which word in 87:10-13 is a Form V verb whose t has merged into the next letter?",
+     "bn": "৮৭:১০-১৩-এর কোন শব্দটি পঞ্চম রূপের ক্রিয়া, যার ত পরের অক্ষরে মিশে গেছে?"
+    },
+    "options": [
+     {
+      "en": "يَخْشَىٰ (yakhshā)",
+      "bn": "يَخْشَىٰ (ইয়াখশা)"
+     },
+     {
+      "en": "يَصْلَى (yaṣlā)",
+      "bn": "يَصْلَى (ইয়াসলা)"
+     },
+     {
+      "en": "سَيَذَّكَّرُ (sa-yadhdhakkaru)",
+      "bn": "سَيَذَّكَّرُ (সা-ইয়াযযাক্কারু)"
+     },
+     {
+      "en": "وَيَتَجَنَّبُهَا (wa-yatajannabuhā)",
+      "bn": "وَيَتَجَنَّبُهَا (ওয়া-ইয়াতাজান্নাবুহা)"
+     }
+    ],
+    "answer": 2,
+    "explain": {
+     "en": "sa-yadhdhakkaru comes from yatadhakkaru: the t of Form V has merged into the dh, giving dhdh. yatajannabu is Form V too, but its t is still visible. yakhshā and yaṣlā are Form I.",
+     "bn": "সা-ইয়াযযাক্কারু এসেছে ইয়াতাযাক্কারু থেকে: পঞ্চম রূপের ত যাল-এ মিশে দ্বিত্ব যাল হয়েছে। ইয়াতাজান্নাবু-ও পঞ্চম রূপের, তবে তার ত এখনো দেখা যায়। ইয়াখশা আর ইয়াসলা প্রথম রূপের।"
+    }
+   }
+  },
+  {
    "id": "read-87-2",
    "unit": "read-87",
    "icon": "📖",
