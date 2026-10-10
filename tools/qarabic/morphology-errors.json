@@ -467,5 +467,47 @@
   "word": "قَلْبَهُۥ",
   "tag": "N FS ACC",
   "correct": "N MS ACC (qalb is masculine, e.g. qalbin salīm; the lesson states no gender, so no lesson change)"
+ },
+ {
+  "batch": "V6",
+  "ref": "65:6",
+  "word": "تُضَآرُّوهُنَّ",
+  "tag": "IMPF VF:3 PASS 2MP MOOD:JUS",
+  "correct": "IMPF VF:3 2MP MOOD:JUS, active (tuḍārirū and tuḍārarū both contract to tuḍārrū, so the vowelling is neutral; the object -hunna rules out the passive of the one-object verb ḍārra, and li-tuḍayyiqū ʿalayhinna keeps 'you' as the agent). Draft already teaches active."
+ },
+ {
+  "batch": "V6",
+  "ref": "65:7",
+  "word": "ءَاتَىٰهَا",
+  "tag": "IMPF VF:4 1S MOOD:IND",
+  "correct": "PERF VF:4 3MS + obj. -hā (spelled ātā like ءَاتَىٰهُ earlier in the ayah; a 1S imperfect would be ūtī; subject is Allāh). Draft already teaches past Form IV."
+ },
+ {
+  "batch": "V6",
+  "ref": "65:4",
+  "word": "ٱلْمَحِيضِ",
+  "tag": "N PASS_PCPL VF:1",
+  "correct": "N, noun of the action (maṣdar mīmī) 'menstruation'; ḥāḍa is intransitive and has no passive participle here. Draft role is form-only; no lesson change."
+ },
+ {
+  "batch": "V6",
+  "ref": "65:1",
+  "word": "يَأْتِينَ",
+  "tag": "IMPF VF:1 3FP MOOD:IND",
+  "correct": "IMPF VF:1 3FP, built on sukūn with nūn al-niswa, in the position of the subjunctive after an (cf. the batch's JUS tags on يَخْرُجْنَ / يَحِضْنَ by position). Role states no mood; no lesson change."
+ },
+ {
+  "batch": "V6",
+  "ref": "65:4",
+  "word": "يَضَعْنَ",
+  "tag": "IMPF VF:1 3FP MOOD:IND",
+  "correct": "IMPF VF:1 3FP, built on sukūn, in the position of the subjunctive after an. Role states no mood; no lesson change."
+ },
+ {
+  "batch": "V6",
+  "ref": "65:6",
+  "word": "يَضَعْنَ",
+  "tag": "IMPF VF:1 3FP MOOD:IND",
+  "correct": "IMPF VF:1 3FP, built on sukūn, in the position of the subjunctive after ḥattā (implied an). Role states no mood; no lesson change."
  }
 ]
