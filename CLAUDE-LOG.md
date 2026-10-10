@@ -12,7 +12,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
-## USER QUEUE 3 (2026-10-10 evening): "Fix the language missing, for Tadabbur modules, enrich bangla if not good. Keep continue."
+## USER QUEUE 3 (2026-10-10) — STOPPED at user request after v948: "Fix the language missing, for Tadabbur modules, enrich bangla if not good. Keep continue."
 Measured: 1,061 cards = 6,778 EN strings / 226,910 words, 0% translated in all 13 languages (articles 31 MB en+bn: out of scope for now).
 Tooling tools/tadabbur-i18n/ (lib, extract → work/C1..C10, BN-REVIEW.md + apply-bn.js, TRANSLATE.md + check-tr.js + merge-tr.js → data/content-i18n/tadabbur/<lang>.json).
 Code: CI18N.tr(lang, en, ns) namespace files (js/content-i18n.js); tadabbur.js ci() uses ns 'tadabbur'. Not yet released.
@@ -21,10 +21,13 @@ Code: CI18N.tr(lang, en, ns) namespace files (js/content-i18n.js); tadabbur.js c
 | BN review | ALL DONE + APPLIED: C1 500, C2 402, C3 295, C4 70, C5 130, C6 166, C7 200, sample 83 (C8-C10 left as is). v945 shipped C1-C4+C6; C5+C7 not yet released. EN fixed by hand: 23:20, 23:38, 11:88 |
 | ur | COMPLETE 6,778/6,778, DEPLOYED v946 (cost ≈3% of 7d) |
 | ar | COMPLETE 6,778, DEPLOYED v947 (every ﴿﴾ quote filled from quran-words via placeholders) |
-| id | C1-C5 merged; C6 C7 RUNNING |
-| hi | C1-C5 merged; C6 C7 RUNNING |
+| id | COMPLETE 6,778, DEPLOYED v948 |
+| hi | COMPLETE 6,778, DEPLOYED v948 |
+| Remaining langs (USER SAID STOP 2026-10-10 ~15:30) | ms tr fa fr es de ru zh ja NOT started. Each ≈3% of 7d. Same recipe: pilot C1 → STYLE-<lang>.md → C2..C10, merge-tr.js <lang> --write, bump, deploy |
+| EN slip still open | 37:41 'two verses ago' (painful punishment is 37:38, three back); minor |
 | EN fixed by hand (with bn + translated langs) | 23:20, 23:38, 11:88, 6:152 (weak misattributed report removed), 26:186, 31:34, 37:88, 39:67, 37:55, 34:13, 17:78-79, 4:78, 26:157, 26:208, 34:21, 37:45, 37:166, 38:78 |
 | getSurahName | ar/fa now use arabicName (was English) |
+| More EN fixes (en+bn only so far) | 18:31, 19:31 (r+l), 26:186, 34:12, 30:18, 83:21 (Israfil per al-Qurtubi; 'prophets and martyrs' unsupported). Retranslated in ur/ar/hi/id (work/retranslate.json) |
 | Theme chip labels (14) | DONE in all 13 shared dicts |
 | Other languages | order ur, ar, hi, id, ms, tr, fa, fr, es, de, ru, zh, ja; size waves with budget.js |
 
