@@ -229,5 +229,26 @@
   "word": "فَكَانُوا۟",
   "tag": "فَ REM PREF",
   "correct": "فَ of the answer of ammā (wāqiʿa fī jawāb ammā), not resumption"
+ },
+ {
+  "batch": "U8",
+  "ref": "75:26",
+  "word": "ٱلتَّرَاقِىَ",
+  "tag": "VN VF:6 M ACC",
+  "correct": "N plural (pattern faʿālī) of tarquwa 'collar bone', ACC; not a Form VI verbal noun (that would be tafāʿul)"
+ },
+ {
+  "batch": "U8",
+  "ref": "75:29",
+  "word": "ٱلسَّاقُ",
+  "tag": "N M NOM",
+  "correct": "N F NOM: sāq is feminine without a feminine ending; the verb ٱلْتَفَّتِ (3FS) agrees with it"
+ },
+ {
+  "batch": "U8",
+  "ref": "75:15",
+  "word": "وَلَوْ",
+  "tag": "i'rab label: حرف مصدري (morphology CIRC + COND is right)",
+  "correct": "law of 'even if' (conditional/waṣliyya) after circumstantial wa; not maṣdarī, which occurs after verbs like wadda. Role is already neutral; no lesson change"
  }
 ]
