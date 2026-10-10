@@ -114,6 +114,10 @@ in parallel on claude-max, 2 on claude-pro. Run `budget.js` first.
   4. Mutashabihat: notes done (v942); the group list itself needs review, see `docs/mutashabihat-group-doubts.md`
 - Known debt: about 80% of module content still shows English in the 13 non-bn
   languages (content-i18n lags every enrichment wave).
+- Tadabbur cards (v945-v948): Bengali reviewed in full; cards translated into ur, ar, hi, id
+  (data/content-i18n/tadabbur/<lang>.json, loaded via CI18N.tr(lang, en, 'tadabbur')). Nine languages
+  remain (ms tr fa fr es de ru zh ja), ≈3% of the weekly budget each; recipe in tools/tadabbur-i18n/.
+  Tadabbur articles (31 MB) are still en/bn only.
 - Performance: the Tailwind Play CDN is the largest cost (a 234 s JIT on the
   Khatmah path). Swapping to a rebuilt `css/tailwind.min.css` is analysed and
   ready; it is blocked only on the user accepting emerald as the dark-mode accent.
