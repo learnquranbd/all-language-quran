@@ -250,5 +250,40 @@
   "word": "وَلَوْ",
   "tag": "i'rab label: حرف مصدري (morphology CIRC + COND is right)",
   "correct": "law of 'even if' (conditional/waṣliyya) after circumstantial wa; not maṣdarī, which occurs after verbs like wadda. Role is already neutral; no lesson change"
+ },
+ {
+  "batch": "U7",
+  "ref": "74:52",
+  "word": "يُؤْتَىٰ",
+  "tag": "IMPF VF:4 PASS 3MS MOOD:IND",
+  "correct": "MOOD:SUBJ: directly after أَن (tagged SUB, iʿrab حرف مصدري), so manṣūb with the fatḥa implied on the final alif; the draft teaches subjunctive"
+ },
+ {
+  "batch": "U7",
+  "ref": "74:30",
+  "word": "تِسْعَةَ عَشَرَ",
+  "tag": "N F ACC + N M ACC (iʿrab اسم منصوب)",
+  "correct": "compound number mabnī on fatḥa in both parts, nominative in position as the delayed mubtadaʾ after the fronted عَلَيْهَا; nothing in the ayah governs an accusative"
+ },
+ {
+  "batch": "U7",
+  "ref": "74:29",
+  "word": "لَوَّاحَةٌ",
+  "tag": "N MS INDEF NOM",
+  "correct": "FS: faʿʿāla with tāʾ marbūṭa, agreeing with سَقَرُ, which 74:28 treats as feminine (تُبْقِى، تَذَرُ)"
+ },
+ {
+  "batch": "U7",
+  "ref": "74:35",
+  "word": "ٱلْكُبَرِ",
+  "tag": "N MP GEN (lemma كُبْرَى)",
+  "correct": "FP GEN: kubar is the plural of the feminine elative kubrā (fuʿlā → fuʿal), as its own lemma shows"
+ },
+ {
+  "batch": "U7",
+  "ref": "74:56",
+  "word": "ٱلتَّقْوَىٰ",
+  "tag": "N M GEN",
+  "correct": "F GEN: the alif maqṣūra of faʿlā is the feminine ending (taqwā is feminine and a diptote); no role states its gender"
  }
 ]
