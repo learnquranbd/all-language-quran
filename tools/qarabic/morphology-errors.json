@@ -82,5 +82,40 @@
   "word": "بَلْ",
   "tag": "P CONJ",
   "correct": "retraction particle (iḍrāb), not coordinating: a full sentence (huwa qurʾānun majīdun) follows, as with the RET-tagged بَلِ of 85:19. The draft's role 'particle bal' is already correct."
+ },
+ {
+  "batch": "U5",
+  "ref": "71:23",
+  "word": "لَا (w2) and وَلَا (w5, before تَذَرُنَّ)",
+  "tag": "P NEG",
+  "correct": "P PRO (lā al-nāhiya). The clause is a command to the followers (\"Never leave your gods\"), and the standard i'rab is لا ناهية. The same verb after the same lā at 71:26 لَا تَذَرْ is tagged PRO. The draft teaches it as prohibitive."
+ },
+ {
+  "batch": "U5",
+  "ref": "71:23",
+  "word": "تَذَرُنَّ (w3, w6)",
+  "tag": "V IMPF VF:1 2MP MOOD:IND + EMPH",
+  "correct": "V IMPF VF:1 2MP MOOD:JUS + EMPH: majzūm by lā al-nāhiya. The nūn of -ūna is deleted for the jussive, and the wāw drops before -nna because two sukūns meet. The surface form looks the same as an emphasised indicative, so only the governing lā fixes the mood. The draft's roles give no mood."
+ },
+ {
+  "batch": "U5",
+  "ref": "71:25",
+  "word": "مِّمَّا",
+  "tag": "P min + P PREV (restraining mā)",
+  "correct": "P min + extra mā (zāʾida, ṣila). خَطِيٓـَٰٔتِهِمْ after it is genitive (GEN, visible kasra), so mā has not stopped min from governing and cannot be the restraining mā. The draft's role says \"extra mā\"."
+ },
+ {
+  "batch": "U5",
+  "ref": "71:22",
+  "word": "مَكْرًا",
+  "tag": "N M INDEF ACC (no VN feature)",
+  "correct": "N VN VF:1 M INDEF ACC: the maṣdar of مَكَرُوا۟ and its cognate object, described by كُبَّارًا. The feature is missing; the case and POS are right. This is the same kind of error as 80:26 شَقًّا. The draft's role says \"verbal noun (mafʿūl muṭlaq)\"."
+ },
+ {
+  "batch": "U5",
+  "ref": "71:17",
+  "word": "نَبَاتًا",
+  "tag": "N F INDEF ACC",
+  "correct": "N M INDEF ACC: nabāt is masculine (3:37 نَبَاتًا حَسَنًا, masculine adjective). The same correction was confirmed at 78:15. The draft's role states no gender, so the lesson needs no change."
  }
 ]

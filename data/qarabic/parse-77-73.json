@@ -1,0 +1,40 @@
+{
+  "units": [
+    {
+      "id": "read-77",
+      "icon": "📖",
+      "en": "Reading Surah al-Mursalat (77)",
+      "bn": "সূরা আল-মুরসালাত (৭৭) পড়া",
+      "order": 59
+    },
+    {
+      "id": "read-76",
+      "icon": "📖",
+      "en": "Reading Surah al-Insan (76)",
+      "bn": "সূরা আল-ইনসান (৭৬) পড়া",
+      "order": 60
+    },
+    {
+      "id": "read-75",
+      "icon": "📖",
+      "en": "Reading Surah al-Qiyamah (75)",
+      "bn": "সূরা আল-কিয়ামাহ (৭৫) পড়া",
+      "order": 61
+    },
+    {
+      "id": "read-74",
+      "icon": "📖",
+      "en": "Reading Surah al-Muddaththir (74)",
+      "bn": "সূরা আল-মুদ্দাসসির (৭৪) পড়া",
+      "order": 62
+    },
+    {
+      "id": "read-73",
+      "icon": "📖",
+      "en": "Reading Surah al-Muzzammil (73)",
+      "bn": "সূরা আল-মুযযাম্মিল (৭৩) পড়া",
+      "order": 63
+    }
+  ],
+  "lessons": []
+}

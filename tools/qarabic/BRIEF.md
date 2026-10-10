@@ -79,6 +79,19 @@ bundled data at merge time. You do not write them, and you must not contradict t
 - `validate.js` compares every role with the morphology and prints FLAGs. Fix each
   flag, or, if the flag is wrong, list it in `FLAGS.md` with a one-line reason.
 
+## Traps the audits have caught (don't repeat them)
+
+- *innamā*: the *mā* cancels *inna*, so the next word is a plain **mubtadaʾ** (*innamā anta
+  mudhakkirun*: separate pronoun *anta*, not *innaka*). The predicate is nominative with or
+  without the *mā*; never say the *mā* is why it is nominative.
+- *-nā* on a past verb is the subject only after a silent (sākin) letter (*khalaq-nā*);
+  after a vowel it is the object "us" (*hadā-nā*). Don't state either as a general rule.
+- The lām of emphasis after *inna* goes on the predicate, *or* on inna's noun when the
+  predicate is fronted (*inna fī dhālika la-ʿibratan*). Don't generalise from one ayah.
+- Never mention "the corpus" or tags to learners; give the grammatical reason.
+- *illā* after a negative statement may be disconnected (munqaṭiʿ, "but"); where
+  grammarians differ, say "sets apart" and that they differ.
+
 ## Notes, concept, practice
 
 - A note explains the highlighted word(s): what form or function it shows and how
