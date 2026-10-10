@@ -141,7 +141,7 @@ class Tadabbur {
   ci(en) {
     if (!en) return '';
     if (typeof CI18N === 'undefined') return en;
-    const tr = CI18N.tr(this.language, en);
+    const tr = CI18N.tr(this.language, en, 'tadabbur');   // card prose lives in its own file
     return tr || en;
   }
   themeLabel(id) {

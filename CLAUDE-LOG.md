@@ -12,6 +12,20 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
+## USER QUEUE 3 (2026-10-10 evening): "Fix the language missing, for Tadabbur modules, enrich bangla if not good. Keep continue."
+Measured: 1,061 cards = 6,778 EN strings / 226,910 words, 0% translated in all 13 languages (articles 31 MB en+bn: out of scope for now).
+Tooling tools/tadabbur-i18n/ (lib, extract → work/C1..C10, BN-REVIEW.md + apply-bn.js, TRANSLATE.md + check-tr.js + merge-tr.js → data/content-i18n/tadabbur/<lang>.json).
+Code: CI18N.tr(lang, en, ns) namespace files (js/content-i18n.js); tadabbur.js ci() uses ns 'tadabbur'. Not yet released.
+| Work | Stage |
+|---|---|
+| BN review C1 | RUNNING |
+| BN C2 / C3 / C6 | APPLIED (402 / 295 / 166 strings); C6 had ~25 meaning errors fixed; EN 23:20 + 23:38 corrected by hand |
+| BN sample C4-C10 | APPLIED (83). C7 full + C4, C5 light passes RUNNING; C8-C10 left as is |
+| ur C1 | DONE, merged → data/content-i18n/tadabbur/ur.json (523); conventions in tools/tadabbur-i18n/STYLE-ur.md |
+| ur C2 | RUNNING |
+| Theme chip labels (14) | DONE in all 13 shared dicts |
+| Other languages | order ur, ar, hi, id, ms, tr, fa, fr, es, de, ru, zh, ja; size waves with budget.js |
+
 ## USER QUEUE 2 (2026-10-10 afternoon) — ALL DONE v944. Places (P1-P5) now use (আঃ) like the rest of the app. A) Places: more places + journeys (routes) + map graphics; B) Quranic Duas page (every dua, word by word, word counts) + virtues of surahs/ayat (graded hadith only).
 | Item | Batch | Stage |
 |---|---|---|
