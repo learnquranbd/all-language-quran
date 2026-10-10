@@ -201,5 +201,33 @@
   "word": "مَّا",
   "tag": "N REL",
   "correct": "P SUP (extra mā, zāʾida), for the same reason as 69:41: قَلِيلًا is accusative and a relative mā has no slot."
+ },
+ {
+  "batch": "U6",
+  "ref": "72:14",
+  "word": "تَحَرَّوْا۟",
+  "tag": "PERF VF:1 3MP",
+  "correct": "PERF VF:5 3MP (tafaʿʿala of ḥ-r-y: ta- prefix + doubled rāʾ; lemma itself is تَحَرَّى)"
+ },
+ {
+  "batch": "U6",
+  "ref": "72:14",
+  "word": "ٱلْمُسْلِمُونَ",
+  "tag": "PN ACT_PCPL VF:4 MP NOM",
+  "correct": "ACT_PCPL VF:4 MP NOM, common noun (sound plural with al-, parallel to ٱلْقَٰسِطُونَ, not a name)"
+ },
+ {
+  "batch": "U6",
+  "ref": "72:1",
+  "word": "قُرْءَانًا",
+  "tag": "PN M INDEF ACC",
+  "correct": "N M INDEF ACC, common noun 'a recitation': its naʿt عَجَبًا is indefinite, which a proper (definite) name could not take"
+ },
+ {
+  "batch": "U6",
+  "ref": "72:15",
+  "word": "فَكَانُوا۟",
+  "tag": "فَ REM PREF",
+  "correct": "فَ of the answer of ammā (wāqiʿa fī jawāb ammā), not resumption"
  }
 ]
