@@ -1841,6 +1841,1390 @@
       }
     },
     {
+      "id": "read-81-2",
+      "unit": "read-81",
+      "icon": "📖",
+      "title": {
+        "en": "at-Takwir 5-7: broken plurals with a feminine verb",
+        "bn": "আত-তাকভীর ৫-৭: ভগ্ন বহুবচন, স্ত্রীলিঙ্গ ক্রিয়া"
+      },
+      "concept": {
+        "en": "Many Arabic plurals are made by changing the inside of the word, not by adding an ending: the <b>broken plural</b> (jamʿ taksīr). al-wuḥūsh, al-biḥār and an-nufūs are all of this kind, and each is followed by a verb ending in -at, the feminine singular. A broken plural can take a feminine singular verb, so the -at does not mean the noun is a single feminine thing.",
+        "bn": "আরবিতে অনেক বহুবচন তৈরি হয় শেষে কিছু না জুড়ে, শব্দের ভেতরের গড়ন বদলে। একে বলে <b>ভগ্ন বহুবচন</b> (জমা তাকসীর)। আল-উহূশ, আল-বিহার আর আন-নুফূস এই ধরনের। প্রতিটির পরে এসেছে -আত দিয়ে শেষ হওয়া ক্রিয়া, যা স্ত্রীলিঙ্গ একবচনের রূপ। ভগ্ন বহুবচনের সঙ্গে স্ত্রীলিঙ্গ একবচন ক্রিয়া আসতে পারে। তাই এই -আত দেখে বিশেষ্যটিকে একটিমাত্র স্ত্রীলিঙ্গ জিনিস ভাবার কারণ নেই।"
+      },
+      "examples": [
+        {
+          "ref": "81:5",
+          "trans": {
+            "en": "And when the wild beasts are gathered",
+            "bn": "যখন বনের জন্তু জানোয়ারকে (বন থেকে গুটিয়ে এনে লোকালয়ে) একত্রিত করা হবে,"
+          },
+          "note": {
+            "en": "al-wuḥūsh is a broken plural: the singular waḥsh has changed shape inside, with no ending added. Yet its verb ḥushirat \"are gathered\" ends in -at, the feminine singular.",
+            "bn": "আল-উহূশ ভগ্ন বহুবচন। একবচন ওয়াহশ-এর ভেতরের গড়ন বদলে এটি তৈরি, শেষে কিছু জোড়া হয়নি। তবু এর ক্রিয়া হুশিরাত (\"একত্র করা হবে\") শেষ হয়েছে -আত দিয়ে, যা স্ত্রীলিঙ্গ একবচনের চিহ্ন।"
+          },
+          "words": [
+            {
+              "ar": "وَإِذَا",
+              "en": "And when",
+              "bn": "ও যখন",
+              "role": {
+                "en": "and + time adverb idhā \"when\"",
+                "bn": "এবং + সময়বাচক শব্দ ইযা \"যখন\""
+              }
+            },
+            {
+              "ar": "ٱلْوُحُوشُ",
+              "en": "the wild beasts",
+              "bn": "বন্য পশুদের",
+              "role": {
+                "en": "def. nominative noun (broken plural)",
+                "bn": "আল + মারফু বিশেষ্য (ভগ্ন বহুবচন)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "حُشِرَتْ",
+              "en": "are gathered",
+              "bn": "একত্র করা হবে",
+              "role": {
+                "en": "passive past verb, 3rd fem. sing.",
+                "bn": "কর্মবাচ্য অতীত ক্রিয়া, স্ত্রীলিঙ্গ একবচন"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:6",
+          "trans": {
+            "en": "And when the seas are filled with flame",
+            "bn": "যখন সমুদ্রগুলোকে প্রজ্জ্বলিত করে উত্তাল করা হবে।"
+          },
+          "note": {
+            "en": "al-biḥār, plural of baḥr \"sea\", is another broken plural with a feminine singular verb. In sujjirat the doubled middle letter (jj) marks Form II.",
+            "bn": "আল-বিহার (একবচন বাহর, \"সমুদ্র\") আরেকটি ভগ্ন বহুবচন, আর এর ক্রিয়াও স্ত্রীলিঙ্গ একবচন। সুজ্জিরাত-এর মাঝের অক্ষরে তাশদীদ (জ্জ) বলে দেয়, এটি দ্বিতীয় রূপের ক্রিয়া।"
+          },
+          "words": [
+            {
+              "ar": "وَإِذَا",
+              "en": "And when",
+              "bn": "এবং যখন",
+              "role": {
+                "en": "and + time adverb idhā \"when\"",
+                "bn": "এবং + সময়বাচক শব্দ ইযা \"যখন\""
+              }
+            },
+            {
+              "ar": "ٱلْبِحَارُ",
+              "en": "the seas",
+              "bn": "সাগরগুলো",
+              "role": {
+                "en": "def. nominative noun (broken plural)",
+                "bn": "আল + মারফু বিশেষ্য (ভগ্ন বহুবচন)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "سُجِّرَتْ",
+              "en": "are made to overflow",
+              "bn": "প্রজ্বলিত করা হবে",
+              "role": {
+                "en": "Form II passive past verb, 3rd fem. sing.",
+                "bn": "দ্বিতীয় রূপের কর্মবাচ্য অতীত ক্রিয়া, স্ত্রীলিঙ্গ একবচন"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:7",
+          "trans": {
+            "en": "And when the souls are paired",
+            "bn": "যখন দেহের সঙ্গে আত্মাগুলোকে আবার জুড়ে দেয়া হবে,"
+          },
+          "note": {
+            "en": "an-nufūs, plural of nafs \"soul\", follows the same pattern, and zuwwijat \"are paired\" is again Form II with a doubled middle letter. Three broken plurals in a row, each with an -at verb.",
+            "bn": "আন-নুফূস (একবচন নাফস, \"আত্মা\") একই ধাঁচের ভগ্ন বহুবচন। যুওয়িজাত (\"জুড়ে দেওয়া হবে\") আবারও দ্বিতীয় রূপের, মাঝের অক্ষরে তাশদীদ। পরপর তিনটি ভগ্ন বহুবচন, প্রতিটির ক্রিয়া -আত দিয়ে শেষ।"
+          },
+          "words": [
+            {
+              "ar": "وَإِذَا",
+              "en": "And when",
+              "bn": "এবং যখন",
+              "role": {
+                "en": "and + time adverb idhā \"when\"",
+                "bn": "এবং + সময়বাচক শব্দ ইযা \"যখন\""
+              }
+            },
+            {
+              "ar": "ٱلنُّفُوسُ",
+              "en": "the souls",
+              "bn": "আত্মাগুলোকে",
+              "role": {
+                "en": "def. nominative noun (broken plural)",
+                "bn": "আল + মারফু বিশেষ্য (ভগ্ন বহুবচন)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "زُوِّجَتْ",
+              "en": "are paired",
+              "bn": "জুড়ে দেয়া হবে (শরীরের সাথে)",
+              "role": {
+                "en": "Form II passive past verb, 3rd fem. sing.",
+                "bn": "দ্বিতীয় রূপের কর্মবাচ্য অতীত ক্রিয়া, স্ত্রীলিঙ্গ একবচন"
+              },
+              "hl": true
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "In وَإِذَا ٱلْبِحَارُ سُجِّرَتْ (81:6), why does the verb end in -at, though al-biḥār means \"the seas\"?",
+          "bn": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ (৮১:৬)-এ আল-বিহার মানে \"সমুদ্রগুলো\", তবু ক্রিয়ার শেষে -আত কেন?"
+        },
+        "options": [
+          {
+            "en": "Because the verb is in the present tense",
+            "bn": "কারণ ক্রিয়াটি বর্তমান কালের"
+          },
+          {
+            "en": "Because al-biḥār is the object of the verb",
+            "bn": "কারণ আল-বিহার ক্রিয়াটির কর্ম"
+          },
+          {
+            "en": "Because al-biḥār is a broken plural, which can take a feminine singular verb",
+            "bn": "কারণ আল-বিহার ভগ্ন বহুবচন, যার সঙ্গে স্ত্রীলিঙ্গ একবচন ক্রিয়া আসতে পারে"
+          },
+          {
+            "en": "Because idhā always makes the verb after it feminine",
+            "bn": "কারণ ইযা-র পরের ক্রিয়া সবসময় স্ত্রীলিঙ্গ হয়"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "en": "al-biḥār is a broken plural of baḥr, and a broken plural can take a verb in the feminine singular, hence sujjirat. The verb is past (and passive), and al-biḥār is nominative, not an object.",
+          "bn": "আল-বিহার হলো বাহর-এর ভগ্ন বহুবচন, আর ভগ্ন বহুবচনের সঙ্গে স্ত্রীলিঙ্গ একবচন ক্রিয়া আসতে পারে। তাই সুজ্জিরাত। ক্রিয়াটি অতীত (এবং কর্মবাচ্য), আর আল-বিহার মারফু, কর্ম নয়।"
+        }
+      }
+    },
+    {
+      "id": "read-81-3",
+      "unit": "read-81",
+      "icon": "📖",
+      "title": {
+        "en": "at-Takwir 10-14: the answer to the idhā clauses",
+        "bn": "আত-তাকভীর ১০-১৪: ইযা-বাক্যাংশগুলোর জবাব"
+      },
+      "concept": {
+        "en": "An <b>idhā</b> \"when\" clause sets up a time and waits for its answer, the <b>jawāb</b>. Surah at-Takwir stacks twelve idhā clauses in 81:1-13 before the answer arrives in 81:14: <b>ʿalimat nafsun mā aḥḍarat</b>, \"a soul will know what it has brought\". Everything before it is the \"when\"; this is the \"then\".",
+        "bn": "<b>ইযা</b> (\"যখন\") দিয়ে শুরু বাক্যাংশ একটা সময় দাঁড় করায়, তারপর অপেক্ষা করে তার জবাবের (<b>জাওয়াব</b>) জন্য। সূরা আত-তাকভীর ৮১:১ থেকে ৮১:১৩ পর্যন্ত বারোটি ইযা-বাক্যাংশ সাজিয়েছে। জবাব আসে ৮১:১৪-এ: <b>আলিমাত নাফসুন মা আহদারাত</b>, \"ব্যক্তি জানতে পারবে সে কী নিয়ে এসেছে\"। আগের সবগুলো \"যখন\", আর এটি হলো \"তখন\"।"
+      },
+      "examples": [
+        {
+          "ref": "81:10",
+          "trans": {
+            "en": "And when the pages are spread [i.e., made public]",
+            "bn": "যখন ‘আমালনামাগুলো খুলে ধরা হবে,"
+          },
+          "note": {
+            "en": "aṣ-ṣuḥuf \"the pages\" is nominative and followed by its passive verb nushirat \"are laid open\". This is the ninth idhā clause of the surah, and the answer has not yet come.",
+            "bn": "আস-সুহুফ (\"আমলনামাগুলো\") মারফু, তার পরে কর্মবাচ্য ক্রিয়া নুশিরাত (\"খুলে ধরা হবে\")। সূরার এটি নবম ইযা-বাক্যাংশ, জবাব এখনো আসেনি।"
+          },
+          "words": [
+            {
+              "ar": "وَإِذَا",
+              "en": "And when",
+              "bn": "এবং যখন",
+              "role": {
+                "en": "and + time adverb idhā \"when\"",
+                "bn": "এবং + সময়বাচক শব্দ ইযা \"যখন\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلصُّحُفُ",
+              "en": "the pages",
+              "bn": "আমলনামাগুলো",
+              "role": {
+                "en": "def. nominative plural noun",
+                "bn": "আল + মারফু বহুবচন বিশেষ্য"
+              }
+            },
+            {
+              "ar": "نُشِرَتْ",
+              "en": "are laid open",
+              "bn": "উন্মোচিত হবে",
+              "role": {
+                "en": "passive past verb, 3rd fem. sing.",
+                "bn": "কর্মবাচ্য অতীত ক্রিয়া, স্ত্রীলিঙ্গ একবচন"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:11",
+          "trans": {
+            "en": "And when the sky is stripped away",
+            "bn": "যখন আসমানের পর্দা সরিয়ে ফেলা হবে।"
+          },
+          "note": {
+            "en": "as-samāʾu \"the sky\" is a feminine noun, so kushiṭat agrees with it in the feminine. The verb is passive: \"is stripped away\".",
+            "bn": "আস-সামা-উ (\"আকাশ\") স্ত্রীলিঙ্গ বিশেষ্য, তাই কুশিতাত-ও স্ত্রীলিঙ্গে এসে তার সঙ্গে মিলেছে। ক্রিয়াটি কর্মবাচ্য: \"সরিয়ে ফেলা হবে\"।"
+          },
+          "words": [
+            {
+              "ar": "وَإِذَا",
+              "en": "And when",
+              "bn": "এবং যখন",
+              "role": {
+                "en": "and + time adverb idhā \"when\"",
+                "bn": "এবং + সময়বাচক শব্দ ইযা \"যখন\""
+              }
+            },
+            {
+              "ar": "ٱلسَّمَآءُ",
+              "en": "the sky",
+              "bn": "আকাশ",
+              "role": {
+                "en": "def. nominative noun (fem.)",
+                "bn": "আল + মারফু বিশেষ্য (স্ত্রীলিঙ্গ)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "كُشِطَتْ",
+              "en": "is stripped away",
+              "bn": "আবরণ অপসারিত হবে",
+              "role": {
+                "en": "passive past verb, 3rd fem. sing.",
+                "bn": "কর্মবাচ্য অতীত ক্রিয়া, স্ত্রীলিঙ্গ একবচন"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:12",
+          "trans": {
+            "en": "And when Hellfire is set ablaze",
+            "bn": "যখন জাহান্নামকে উসকে দেয়া হবে,"
+          },
+          "note": {
+            "en": "suʿʿirat \"is set ablaze\" is a Form II passive verb, marked by the doubled ʿayn. al-jaḥīm is feminine, so the verb ends in -at.",
+            "bn": "সু'ইরাত (\"উসকে দেওয়া হবে\") দ্বিতীয় রূপের কর্মবাচ্য ক্রিয়া, চেনা যায় আইন অক্ষরের তাশদীদ দেখে। আল-জাহীম স্ত্রীলিঙ্গ, তাই ক্রিয়ার শেষে -আত।"
+          },
+          "words": [
+            {
+              "ar": "وَإِذَا",
+              "en": "And when",
+              "bn": "এবং যখন",
+              "role": {
+                "en": "and + time adverb idhā \"when\"",
+                "bn": "এবং + সময়বাচক শব্দ ইযা \"যখন\""
+              }
+            },
+            {
+              "ar": "ٱلْجَحِيمُ",
+              "en": "the Hellfire",
+              "bn": "জাহান্নাম",
+              "role": {
+                "en": "def. nominative noun (fem.)",
+                "bn": "আল + মারফু বিশেষ্য (স্ত্রীলিঙ্গ)"
+              }
+            },
+            {
+              "ar": "سُعِّرَتْ",
+              "en": "is set ablaze",
+              "bn": "প্রজ্বলিত করা হবে",
+              "role": {
+                "en": "Form II passive past verb, 3rd fem. sing.",
+                "bn": "দ্বিতীয় রূপের কর্মবাচ্য অতীত ক্রিয়া, স্ত্রীলিঙ্গ একবচন"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:13",
+          "trans": {
+            "en": "And when Paradise is brought near,",
+            "bn": "আর জান্নাতকে নিকটে আনা হবে,"
+          },
+          "note": {
+            "en": "uzlifat \"is brought near\" is a Form IV verb (active azlafa) in the passive. It closes the twelfth and last idhā clause; the answer comes next.",
+            "bn": "উযলিফাত (\"নিকটে আনা হবে\") চতুর্থ রূপের ক্রিয়া (কর্তৃবাচ্যে আযলাফা), এখানে কর্মবাচ্যে। এটি দিয়েই বারো নম্বর, অর্থাৎ শেষ ইযা-বাক্যাংশটি শেষ হয়। জবাব আসছে পরের আয়াতে।"
+          },
+          "words": [
+            {
+              "ar": "وَإِذَا",
+              "en": "And when",
+              "bn": "এবং যখন",
+              "role": {
+                "en": "and + time adverb idhā \"when\"",
+                "bn": "এবং + সময়বাচক শব্দ ইযা \"যখন\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلْجَنَّةُ",
+              "en": "Paradise",
+              "bn": "জান্নাত",
+              "role": {
+                "en": "def. nominative proper noun (fem.)",
+                "bn": "আল + মারফু নামবাচক বিশেষ্য (স্ত্রীলিঙ্গ)"
+              }
+            },
+            {
+              "ar": "أُزْلِفَتْ",
+              "en": "is brought near",
+              "bn": "নিকটে আনা হবে",
+              "role": {
+                "en": "Form IV passive past verb, 3rd fem. sing.",
+                "bn": "চতুর্থ রূপের কর্মবাচ্য অতীত ক্রিয়া, স্ত্রীলিঙ্গ একবচন"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:14",
+          "trans": {
+            "en": "A soul will [then] know what it has brought [with it].",
+            "bn": "তখন প্রত্যেক ব্যক্তি জানতে পারবে সে কী (সঙ্গে) নিয়ে এসেছে।"
+          },
+          "note": {
+            "en": "ʿalimat \"will know\" is the answer (jawāb) that the twelve idhā clauses were waiting for. Its subject is nafsun \"a soul\", indefinite, with the -un ending.",
+            "bn": "আলিমাত (\"জানতে পারবে\") সেই জবাব, যার জন্য বারোটি ইযা-বাক্যাংশ অপেক্ষা করছিল। এর কর্তা নাফসুন (\"ব্যক্তি\"), শেষে -উন, অর্থাৎ অনির্দিষ্ট।"
+          },
+          "words": [
+            {
+              "ar": "عَلِمَتْ",
+              "en": "Will know",
+              "bn": "জানবে",
+              "role": {
+                "en": "past verb, 3rd fem. sing. (answer to idhā)",
+                "bn": "অতীত ক্রিয়া, স্ত্রীলিঙ্গ একবচন (ইযা-র জবাব)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "نَفْسٌ",
+              "en": "a soul",
+              "bn": "(প্রত্যেক) ব্যক্তি",
+              "role": {
+                "en": "indef. nominative noun (subject)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষ্য (কর্তা)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "مَّآ",
+              "en": "what",
+              "bn": "যা",
+              "role": {
+                "en": "relative pronoun mā \"what\" (object)",
+                "bn": "সম্বন্ধবাচক সর্বনাম মা \"যা\" (কর্ম)"
+              }
+            },
+            {
+              "ar": "أَحْضَرَتْ",
+              "en": "it has brought",
+              "bn": "উপস্থিত করেছে",
+              "role": {
+                "en": "Form IV past verb \"it has brought\"",
+                "bn": "চতুর্থ রূপের অতীত ক্রিয়া \"নিয়ে এসেছে\""
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "Which word begins the answer (jawāb) to the idhā clauses of at-Takwir?",
+          "bn": "সূরা আত-তাকভীরের ইযা-বাক্যাংশগুলোর জবাব (জাওয়াব) কোন শব্দ দিয়ে শুরু?"
+        },
+        "options": [
+          {
+            "en": "عَلِمَتْ in 81:14",
+            "bn": "৮১:১৪-এর عَلِمَتْ"
+          },
+          {
+            "en": "أُزْلِفَتْ in 81:13",
+            "bn": "৮১:১৩-এর أُزْلِفَتْ"
+          },
+          {
+            "en": "نُشِرَتْ in 81:10",
+            "bn": "৮১:১০-এর نُشِرَتْ"
+          },
+          {
+            "en": "مَّآ in 81:14",
+            "bn": "৮১:১৪-এর مَّآ"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "Each idhā clause has its own verb, and that verb belongs inside the \"when\" clause. The answer begins with ʿalimat in 81:14, \"a soul will know\"; mā is only its object.",
+          "bn": "প্রতিটি ইযা-বাক্যাংশের নিজস্ব ক্রিয়া আছে, আর সেই ক্রিয়া \"যখন\"-অংশের ভেতরেই থাকে। জবাব শুরু হয় ৮১:১৪-এর আলিমাত দিয়ে: \"ব্যক্তি জানতে পারবে\"। মা শুধু তার কর্ম।"
+        }
+      }
+    },
+    {
+      "id": "read-81-4",
+      "unit": "read-81",
+      "icon": "📖",
+      "title": {
+        "en": "at-Takwir 15-18: swearing with uqsimu bi-",
+        "bn": "আত-তাকভীর ১৫-১৮: উকসিমু বি দিয়ে শপথ"
+      },
+      "concept": {
+        "en": "An oath can be made with the verb <b>uqsimu</b> \"I swear\", and what is sworn by follows the preposition <b>bi-</b> in the genitive: bi-l-khunnasi. The next things sworn by are joined with wa- and stay genitive, because they share that same bi-: wa-l-layli, wa-ṣ-ṣubḥi. The lā before uqsimu, glossed \"nay\", does not cancel the oath; the translation reads \"So I swear\".",
+        "bn": "শপথ করা যায় <b>উকসিমু</b> (\"আমি শপথ করছি\") ক্রিয়া দিয়ে। যার শপথ, সে আসে অব্যয় <b>বি</b>-এর পরে, মাজরুর হয়ে: বিল-খুন্নাসি। পরে যেগুলোর শপথ, সেগুলো ওয়া দিয়ে জোড়া। একই বি-এর অধীনে বলে সেগুলোও মাজরুর: ওয়াল-লাইলি, ওয়াস-সুবহি। উকসিমু-র আগের লা-র অর্থ দেওয়া হয়েছে \"না\", তবু শপথ বাতিল হয় না। অনুবাদ বলছে: \"আমি শপথ করছি\"।"
+      },
+      "examples": [
+        {
+          "ref": "81:15",
+          "trans": {
+            "en": "So I swear by the retreating stars -",
+            "bn": "আমি শপথ করছি (গ্রহের) যা পেছনে সরে যায়,"
+          },
+          "note": {
+            "en": "uqsimu is a Form IV present verb, \"I swear\", and bi- introduces what is sworn by: al-khunnasi, genitive. The fa-lā before it is glossed \"but nay\", yet the oath stands: \"So I swear\".",
+            "bn": "উকসিমু চতুর্থ রূপের বর্তমান ক্রিয়া: \"আমি শপথ করছি\"। কিসের শপথ, তা আনে বি: আল-খুন্নাসি, মাজরুর। আগের ফা-লা-র অর্থ দেওয়া হয়েছে \"অতঃপর না\", তবু শপথ বহাল থাকে: \"আমি শপথ করছি\"।"
+          },
+          "words": [
+            {
+              "ar": "فَلَآ",
+              "en": "But nay",
+              "bn": "অতঃপর না",
+              "role": {
+                "en": "fa- + negative particle lā \"nay\"",
+                "bn": "ফা + নেতিবাচক অব্যয় লা \"না\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "أُقْسِمُ",
+              "en": "I swear",
+              "bn": "আমি শপথ করছি",
+              "role": {
+                "en": "Form IV present verb \"I swear\"",
+                "bn": "চতুর্থ রূপের বর্তমান ক্রিয়া \"আমি শপথ করছি\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "بِٱلْخُنَّسِ",
+              "en": "by the retreating planets",
+              "bn": "পশ্চাদপসরণকারী",
+              "role": {
+                "en": "bi- + def. genitive plural noun",
+                "bn": "অব্যয় বি + আল + মাজরুর বহুবচন বিশেষ্য"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:16",
+          "trans": {
+            "en": "Those that run [their courses] and disappear [i.e., set]",
+            "bn": "চলে ও লুকিয়ে যায়,"
+          },
+          "note": {
+            "en": "Both words are genitive adjectives, matching al-khunnasi in 81:15. The full form is al-jawārī, but its final yā is not written here, so the word ends in a bare -i.",
+            "bn": "দুটো শব্দই মাজরুর বিশেষণ, ৮১:১৫-এর আল-খুন্নাসি-র সঙ্গে মিল রেখে। পূর্ণ রূপ আল-জাওয়ারী, কিন্তু এখানে শেষের ইয়া লেখা হয়নি, তাই শেষে শুধু -ই।"
+          },
+          "words": [
+            {
+              "ar": "ٱلْجَوَارِ",
+              "en": "Those that run",
+              "bn": "চলমান",
+              "role": {
+                "en": "def. genitive adjective (active participle)",
+                "bn": "আল + মাজরুর বিশেষণ (ইসমে ফা'য়িল)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلْكُنَّسِ",
+              "en": "(and) disappear",
+              "bn": "অদৃশ্যমান (নক্ষত্রগুলোর)",
+              "role": {
+                "en": "def. genitive plural adjective",
+                "bn": "আল + মাজরুর বহুবচন বিশেষণ"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:17",
+          "trans": {
+            "en": "And by the night as it closes in",
+            "bn": "শপথ রাতের যখন তা বিদায় নেয়"
+          },
+          "note": {
+            "en": "The wa- of wa-l-layli is a conjunction joining al-layli to al-khunnasi of 81:15, so it too is genitive, governed by the same bi-. idhā \"when\" then adds a time: \"as it closes in\".",
+            "bn": "ওয়াল-লাইলি-র ওয়া এখানে সংযোজক অব্যয়। এটি আল-লাইলি-কে ৮১:১৫-এর আল-খুন্নাসি-র সঙ্গে জুড়ে দেয়, তাই একই বি-এর অধীনে এটিও মাজরুর। এরপর ইযা (\"যখন\") সময় যোগ করে: \"যখন তা বিদায় নেয়\"।"
+          },
+          "words": [
+            {
+              "ar": "وَٱلَّيْلِ",
+              "en": "And the night",
+              "bn": "শপথ রাতের",
+              "role": {
+                "en": "and + def. genitive noun \"the night\"",
+                "bn": "এবং + আল + মাজরুর বিশেষ্য \"রাত\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "إِذَا",
+              "en": "when",
+              "bn": "যখন",
+              "role": {
+                "en": "time adverb idhā \"when\"",
+                "bn": "সময়বাচক শব্দ ইযা \"যখন\""
+              }
+            },
+            {
+              "ar": "عَسْعَسَ",
+              "en": "it departs",
+              "bn": "শেষ হয়",
+              "role": {
+                "en": "past verb, 3rd masc. sing.",
+                "bn": "অতীত ক্রিয়া, পুংলিঙ্গ একবচন"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "81:18",
+          "trans": {
+            "en": "And by the dawn when it breathes [i.e., stirs]",
+            "bn": "আর ঊষার যখন তা নিঃশ্বাস ফেলে অন্ধকারকে বের করে দেয়,"
+          },
+          "note": {
+            "en": "wa-ṣ-ṣubḥi follows the same pattern: wa-, genitive noun, idhā, past verb. tanaffasa \"it breathes\" is Form V, with a ta- prefix and a doubled middle letter.",
+            "bn": "ওয়াস-সুবহি একই ছাঁচে: ওয়া, মাজরুর বিশেষ্য, ইযা, অতীত ক্রিয়া। তানাফফাসা (\"শ্বাস নেয়\") পঞ্চম রূপের ক্রিয়া: শুরুতে তা, আর মাঝের অক্ষরে তাশদীদ।"
+          },
+          "words": [
+            {
+              "ar": "وَٱلصُّبْحِ",
+              "en": "And the dawn",
+              "bn": "শপথ প্রভাতের",
+              "role": {
+                "en": "and + def. genitive noun \"the dawn\"",
+                "bn": "এবং + আল + মাজরুর বিশেষ্য \"ভোর\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "إِذَا",
+              "en": "when",
+              "bn": "যখন",
+              "role": {
+                "en": "time adverb idhā \"when\"",
+                "bn": "সময়বাচক শব্দ ইযা \"যখন\""
+              }
+            },
+            {
+              "ar": "تَنَفَّسَ",
+              "en": "it breathes",
+              "bn": "শ্বাস নেয়",
+              "role": {
+                "en": "Form V past verb \"it breathes\"",
+                "bn": "পঞ্চম রূপের অতীত ক্রিয়া \"শ্বাস নেয়\""
+              },
+              "hl": true
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "In وَٱلَّيْلِ (81:17), why is al-layli genitive (-i)?",
+          "bn": "وَٱلَّيْلِ (৮১:১৭)-এ আল-লাইলি মাজরুর (-ই) কেন?"
+        },
+        "options": [
+          {
+            "en": "Because idhā after it governs it",
+            "bn": "কারণ পরের ইযা একে নিয়ন্ত্রণ করে"
+          },
+          {
+            "en": "Because it is the subject of ʿasʿasa",
+            "bn": "কারণ এটি আস'আসা ক্রিয়ার কর্তা"
+          },
+          {
+            "en": "Because it is the object of uqsimu",
+            "bn": "কারণ এটি উকসিমু-র কর্ম"
+          },
+          {
+            "en": "Because wa- joins it to bi-l-khunnasi, and bi- makes nouns genitive",
+            "bn": "কারণ ওয়া একে বিল-খুন্নাসি-র সঙ্গে জোড়ে, আর বি বিশেষ্যকে মাজরুর করে"
+          }
+        ],
+        "answer": 3,
+        "explain": {
+          "en": "bi- puts al-khunnasi in the genitive in 81:15. The wa- of wa-l-layli is a conjunction, so al-layli shares that case. A subject would be nominative and an object accusative; idhā governs no case on the noun before it.",
+          "bn": "৮১:১৫-এ বি আল-খুন্নাসি-কে মাজরুর করেছে। ওয়াল-লাইলি-র ওয়া সংযোজক অব্যয়, তাই আল-লাইলি-ও একই অবস্থায়। কর্তা হলে হতো মারফু, কর্ম হলে মানসুব। আর ইযা তার আগের বিশেষ্যের শেষ স্বর ঠিক করে না।"
+        }
+      }
+    },
+    {
+      "id": "read-81-5",
+      "unit": "read-81",
+      "icon": "📖",
+      "title": {
+        "en": "at-Takwir 19-21: adjectives that follow rasūlin",
+        "bn": "আত-তাকভীর ১৯-২১: রাসূলিন-এর পরে বিশেষণের সারি"
+      },
+      "concept": {
+        "en": "An Arabic adjective (<b>naʿt</b>) comes after its noun and copies its case and its definiteness. In 81:19 rasūlin is genitive and indefinite, so its adjective is <b>karīmin</b>, also genitive and indefinite. The description runs on through 81:21 with <b>makīnin</b>, <b>muṭāʿin</b> and <b>amīnin</b>, each with the same -in ending.",
+        "bn": "আরবিতে বিশেষণ (না'ত) বসে বিশেষ্যের পরে। বিশেষ্যের শেষ স্বর (মারফু, মানসুব বা মাজরুর) আর নির্দিষ্ট-অনির্দিষ্ট ভাব, দুটোই সে হুবহু নেয়। ৮১:১৯-এ রাসূলিন মাজরুর ও অনির্দিষ্ট, তাই তার বিশেষণ <b>কারীমিন</b>-ও মাজরুর ও অনির্দিষ্ট। এই বর্ণনা ৮১:২১ পর্যন্ত চলে: <b>মাকীনিন</b>, <b>মুতা-ইন</b>, <b>আমীনিন</b>, প্রতিটির শেষে সেই একই -ইন।"
+      },
+      "examples": [
+        {
+          "ref": "81:19",
+          "trans": {
+            "en": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel]",
+            "bn": "এ কুরআন নিশ্চয়ই সম্মানিত রসূলের (অর্থাৎ জিবরাঈলের) আনীত বাণী।"
+          },
+          "note": {
+            "en": "rasūlin is genitive because qawlu \"word\" is joined to it in an idafa: \"the word of a messenger\". karīmin copies its genitive -in and its indefiniteness, so it is its adjective: \"noble\".",
+            "bn": "রাসূলিন মাজরুর, কারণ কাওলু (\"বাণী\") ইদাফায় তার সঙ্গে যুক্ত: \"রাসূলের বাণী\"। কারীমিন তার মাজরুর -ইন আর অনির্দিষ্টতা দুটোই নিয়েছে, তাই এটি তার বিশেষণ: \"সম্মানিত\"।"
+          },
+          "words": [
+            {
+              "ar": "إِنَّهُۥ",
+              "en": "Indeed, it",
+              "bn": "নিশ্চয়ই তা",
+              "role": {
+                "en": "emphatic inna + its noun \"it\"",
+                "bn": "জোরারোপক অব্যয় ইন্না + তার ইসম \"তা\""
+              }
+            },
+            {
+              "ar": "لَقَوْلُ",
+              "en": "(is) surely a word",
+              "bn": "অবশ্যই বাণী",
+              "role": {
+                "en": "emphatic la- + nom. verbal noun (predicate)",
+                "bn": "জোরারোপক লা + মারফু ক্রিয়াবাচক বিশেষ্য (খবর)"
+              }
+            },
+            {
+              "ar": "رَسُولٍ",
+              "en": "(of) a Messenger",
+              "bn": "বার্তা-বাহকের",
+              "role": {
+                "en": "indef. genitive noun (muḍāf ilayh)",
+                "bn": "অনির্দিষ্ট মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "كَرِيمٍ",
+              "en": "noble",
+              "bn": "সম্মানিত",
+              "role": {
+                "en": "indef. genitive adjective (naʿt)",
+                "bn": "অনির্দিষ্ট মাজরুর বিশেষণ (না'ত)"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:20",
+          "trans": {
+            "en": "[Who is] possessed of power and with the Owner of the Throne, secure [in position],",
+            "bn": "যে শক্তিশালী, ‘আরশের মালিক (আল্লাহ)’র নিকট মর্যাদাশীল।"
+          },
+          "note": {
+            "en": "dhī \"possessor of\" is genitive, like rasūlin, and makīnin \"secure\" is a genitive adjective (naʿt) with the same -in. Between them, ʿinda dhī l-ʿarshi \"with the Owner of the Throne\" is a phrase of place.",
+            "bn": "যী (\"অধিকারী\") মাজরুর, রাসূলিন-এর মতোই। আর মাকীনিন (\"মর্যাদাশীল\") মাজরুর বিশেষণ (না'ত), শেষে সেই একই -ইন। মাঝের ইনদা যিল-আরশি (\"আরশের মালিকের কাছে\") স্থান জানায়।"
+          },
+          "words": [
+            {
+              "ar": "ذِى",
+              "en": "Possessor of",
+              "bn": "সম্পন্ন",
+              "role": {
+                "en": "genitive noun \"possessor of\" (muḍāf)",
+                "bn": "মাজরুর বিশেষ্য \"অধিকারী\" (মুদাফ)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "قُوَّةٍ",
+              "en": "power",
+              "bn": "শক্তি",
+              "role": {
+                "en": "indef. genitive noun (muḍāf ilayh)",
+                "bn": "অনির্দিষ্ট মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "عِندَ",
+              "en": "with",
+              "bn": "কাছে",
+              "role": {
+                "en": "accusative adverb of place \"with\"",
+                "bn": "মানসুব স্থানবাচক শব্দ \"কাছে\""
+              }
+            },
+            {
+              "ar": "ذِى",
+              "en": "(the) Owner of",
+              "bn": "অধিপতির",
+              "role": {
+                "en": "genitive noun \"owner of\" (after ʿinda)",
+                "bn": "মাজরুর বিশেষ্য \"মালিক\" (ইনদা-র পরে)"
+              }
+            },
+            {
+              "ar": "ٱلْعَرْشِ",
+              "en": "the Throne",
+              "bn": "আরশের",
+              "role": {
+                "en": "def. genitive noun (muḍāf ilayh)",
+                "bn": "আল + মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "مَكِينٍ",
+              "en": "secure",
+              "bn": "সামর্থ্যশালী",
+              "role": {
+                "en": "indef. genitive adjective (naʿt)",
+                "bn": "অনির্দিষ্ট মাজরুর বিশেষণ (না'ত)"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:21",
+          "trans": {
+            "en": "Obeyed there [in the heavens] and trustworthy.",
+            "bn": "সেখানে মান্য ও বিশ্বস্ত।"
+          },
+          "note": {
+            "en": "muṭāʿin \"obeyed\" is a passive participle and amīnin \"trustworthy\" an adjective. Both are genitive and indefinite, like rasūlin two ayat back, and that ending is what ties them to it.",
+            "bn": "মুতা-ইন (\"মান্য\") ইসমে মাফ'উল (কর্মবাচক রূপ), আর আমীনিন (\"বিশ্বস্ত\") বিশেষণ। দুটোই মাজরুর ও অনির্দিষ্ট, দুই আয়াত আগের রাসূলিন-এর মতো। শেষের এই স্বরই তাদের রাসূলিন-এর সঙ্গে বেঁধে রাখে।"
+          },
+          "words": [
+            {
+              "ar": "مُّطَاعٍ",
+              "en": "One to be obeyed",
+              "bn": "মান্য করা হয়",
+              "role": {
+                "en": "Form IV passive participle, genitive adjective",
+                "bn": "চতুর্থ রূপের ইসমে মাফ'উল, মাজরুর বিশেষণ"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ثَمَّ",
+              "en": "and",
+              "bn": "সেখানে",
+              "role": {
+                "en": "adverb of place \"there\"",
+                "bn": "স্থানবাচক শব্দ \"সেখানে\""
+              }
+            },
+            {
+              "ar": "أَمِينٍ",
+              "en": "trustworthy",
+              "bn": "(এবং সে) বিশ্বস্ত",
+              "role": {
+                "en": "indef. genitive adjective (naʿt)",
+                "bn": "অনির্দিষ্ট মাজরুর বিশেষণ (না'ত)"
+              },
+              "hl": true
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "Why does أَمِينٍ (81:21) end in -in?",
+          "bn": "أَمِينٍ (৮১:২১)-এর শেষে -ইন কেন?"
+        },
+        "options": [
+          {
+            "en": "Because it follows the adverb thamma",
+            "bn": "কারণ এটি সাম্মা শব্দের পরে এসেছে"
+          },
+          {
+            "en": "Because it describes rasūlin, which is genitive and indefinite",
+            "bn": "কারণ এটি রাসূলিন-এর বিশেষণ, আর রাসূলিন মাজরুর ও অনির্দিষ্ট"
+          },
+          {
+            "en": "Because it is the object of a verb",
+            "bn": "কারণ এটি কোনো ক্রিয়ার কর্ম"
+          },
+          {
+            "en": "Because it is the noun of inna",
+            "bn": "কারণ এটি ইন্না-র ইসম"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "en": "An adjective copies the case and definiteness of its noun. amīnin describes rasūlin of 81:19, genitive and indefinite, so it takes -in. An object or the noun of inna would be accusative (-an).",
+          "bn": "বিশেষণ তার বিশেষ্যের শেষ স্বর আর নির্দিষ্টতা হুবহু নেয়। আমীনিন ৮১:১৯-এর রাসূলিন-এর বিশেষণ, যা মাজরুর ও অনির্দিষ্ট, তাই এর শেষে -ইন। কর্ম বা ইন্না-র ইসম হলে হতো মানসুব (-আন)।"
+        }
+      }
+    },
+    {
+      "id": "read-81-6",
+      "unit": "read-81",
+      "icon": "📖",
+      "title": {
+        "en": "at-Takwir 22-25: mā meaning \"is not\", with bi-",
+        "bn": "আত-তাকভীর ২২-২৫: \"নয়\" অর্থে মা, সঙ্গে বি"
+      },
+      "concept": {
+        "en": "<b>mā</b> before a nominal sentence can work like laysa, \"is not\". Its predicate often takes an extra <b>bi-</b> that strengthens the denial: wa-mā ṣāḥibukum <b>bi-majnūnin</b>, \"your companion is not mad\". The bi- puts the predicate in the genitive (-in) but adds no word to the translation.",
+        "bn": "নামবাচক বাক্যের আগে <b>মা</b> অনেক সময় লাইসা-র মতো কাজ করে: \"নয়\"। তার খবরের আগে প্রায়ই বাড়তি একটি <b>বি</b> বসে, যা অস্বীকারকে জোরালো করে: ওয়া মা সাহিবুকুম <b>বি-মাজনূনিন</b>, \"তোমাদের সঙ্গী পাগল নয়\"। এই বি খবরকে মাজরুর (-ইন) করে, কিন্তু অনুবাদে আলাদা কোনো শব্দ যোগ করে না।"
+      },
+      "examples": [
+        {
+          "ref": "81:22",
+          "trans": {
+            "en": "And your companion [i.e., Prophet Muḥammad (ﷺ) ] is not [at all] mad.",
+            "bn": "(ওহে মাক্কাবাসী!) তোমাদের সঙ্গী (মুহাম্মাদ) পাগল নয়।"
+          },
+          "note": {
+            "en": "mā here negates a nominal sentence like laysa: ṣāḥibukum is its noun, and bi-majnūnin its predicate. The bi- adds force to the denial and makes majnūnin genitive.",
+            "bn": "মা এখানে লাইসা-র মতো একটি নামবাচক বাক্যকে না-বোধক করে: সাহিবুকুম তার ইসম, বি-মাজনূনিন তার খবর। বি অস্বীকারে জোর আনে, আর মাজনূনিন-কে মাজরুর করে।"
+          },
+          "words": [
+            {
+              "ar": "وَمَا",
+              "en": "And not",
+              "bn": "এবং না",
+              "role": {
+                "en": "and + mā \"not\" (works like laysa)",
+                "bn": "এবং + মা \"নয়\" (লাইসা-র মতো)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "صَاحِبُكُم",
+              "en": "(is) your companion",
+              "bn": "তোমাদের সাথী",
+              "role": {
+                "en": "nominative noun (noun of mā) + \"your\"",
+                "bn": "মারফু বিশেষ্য (মা-র ইসম) + \"তোমাদের\""
+              }
+            },
+            {
+              "ar": "بِمَجْنُونٍ",
+              "en": "mad",
+              "bn": "পাগল",
+              "role": {
+                "en": "extra bi- + gen. participle (predicate of mā)",
+                "bn": "বাড়তি বি + মাজরুর ইসমে মাফ'উল (মা-র খবর)"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:23",
+          "trans": {
+            "en": "And he has already seen him [i.e., Gabriel] in the clear horizon.",
+            "bn": "সে সেই বাণী বাহককে সুস্পষ্ট দিগন্তে দেখেছে,"
+          },
+          "note": {
+            "en": "This ayah has no mā. la-qad with a past verb states a fact firmly: \"he has certainly seen him\". The -hu on raʾā-hu is the object, \"him\".",
+            "bn": "এই আয়াতে মা নেই। লাকাদ-এর পরে অতীত ক্রিয়া একটি ঘটনাকে দৃঢ়ভাবে জানায়: \"সে অবশ্যই তাকে দেখেছে\"। রাআ-হু-র \"হু\" হলো কর্ম, \"তাকে\"।"
+          },
+          "words": [
+            {
+              "ar": "وَلَقَدْ",
+              "en": "And certainly",
+              "bn": "এবং নিশ্চয়ই সে",
+              "role": {
+                "en": "and + emphatic la- + qad \"certainly\"",
+                "bn": "এবং + জোরারোপক লা + কাদ \"নিশ্চয়ই\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "رَءَاهُ",
+              "en": "he saw him",
+              "bn": "তাকে দেখেছে",
+              "role": {
+                "en": "past verb \"he saw\" + obj. \"him\"",
+                "bn": "অতীত ক্রিয়া \"দেখেছে\" + কর্ম \"তাকে\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "بِٱلْأُفُقِ",
+              "en": "in the horizon",
+              "bn": "দিগন্তে",
+              "role": {
+                "en": "bi- \"in\" + def. genitive noun",
+                "bn": "অব্যয় বি \"-এ\" + আল + মাজরুর বিশেষ্য"
+              }
+            },
+            {
+              "ar": "ٱلْمُبِينِ",
+              "en": "the clear",
+              "bn": "সুস্পষ্ট",
+              "role": {
+                "en": "def. genitive adjective (naʿt)",
+                "bn": "আল + মাজরুর বিশেষণ (না'ত)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "81:24",
+          "trans": {
+            "en": "And he [i.e., Muḥammad (ﷺ)] is not a withholder of [knowledge of] the unseen.",
+            "bn": "সে গায়বের (জ্ঞান মানুষের কাছে পৌঁছে দেয়ার) ব্যাপারে কৃপণতা করে না।"
+          },
+          "note": {
+            "en": "The same frame again: mā, then the pronoun huwa as its noun, and bi-ḍanīnin as its predicate. ʿalā l-ghaybi stands in between, so the predicate comes last.",
+            "bn": "আবার একই কাঠামো: মা, তারপর তার ইসম সর্বনাম হুওয়া, আর খবর বি-দানীনিন। মাঝে বসেছে আলাল-গাইবি, তাই খবর এসেছে সবার শেষে।"
+          },
+          "words": [
+            {
+              "ar": "وَمَا",
+              "en": "And not",
+              "bn": "এবং না",
+              "role": {
+                "en": "and + mā \"not\" (works like laysa)",
+                "bn": "এবং + মা \"নয়\" (লাইসা-র মতো)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "هُوَ",
+              "en": "he (is)",
+              "bn": "সে",
+              "role": {
+                "en": "pronoun \"he\" (noun of mā)",
+                "bn": "সর্বনাম \"সে\" (মা-র ইসম)"
+              }
+            },
+            {
+              "ar": "عَلَى",
+              "en": "on",
+              "bn": "ব্যাপারে",
+              "role": {
+                "en": "preposition (ḥarf jarr)",
+                "bn": "অব্যয় (হারফ জার্র)"
+              }
+            },
+            {
+              "ar": "ٱلْغَيْبِ",
+              "en": "the unseen",
+              "bn": "অদৃশ্যের",
+              "role": {
+                "en": "def. genitive noun \"the unseen\"",
+                "bn": "আল + মাজরুর বিশেষ্য \"অদৃশ্য\""
+              }
+            },
+            {
+              "ar": "بِضَنِينٍ",
+              "en": "a withholder",
+              "bn": "কৃপণ",
+              "role": {
+                "en": "extra bi- + indef. gen. noun (predicate of mā)",
+                "bn": "বাড়তি বি + অনির্দিষ্ট মাজরুর বিশেষ্য (মা-র খবর)"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:25",
+          "trans": {
+            "en": "And it [i.e., the Qur’ān] is not the word of a devil, expelled [from the heavens].",
+            "bn": "আর তা কোন অভিশপ্ত শয়ত্বানের বাণী নয়।"
+          },
+          "note": {
+            "en": "Here the bi- falls on qawli, which also begins an idafa: qawli shayṭānin \"the word of a devil\". Without bi- it would be qawla, accusative, as the predicate of laysa is.",
+            "bn": "এখানে বি বসেছে কাওলি-র ওপর, যা আবার একটি ইদাফার প্রথম শব্দ: কাওলি শাইতানিন, \"শয়তানের বাণী\"। বি না থাকলে শব্দটি হতো কাওলা, মানসুব, যেমন লাইসা-র খবর হয়।"
+          },
+          "words": [
+            {
+              "ar": "وَمَا",
+              "en": "And not",
+              "bn": "এবং না",
+              "role": {
+                "en": "and + mā \"not\" (works like laysa)",
+                "bn": "এবং + মা \"নয়\" (লাইসা-র মতো)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "هُوَ",
+              "en": "it",
+              "bn": "তা",
+              "role": {
+                "en": "pronoun \"it\" (noun of mā)",
+                "bn": "সর্বনাম \"তা\" (মা-র ইসম)"
+              }
+            },
+            {
+              "ar": "بِقَوْلِ",
+              "en": "(is the) word",
+              "bn": "কথা",
+              "role": {
+                "en": "extra bi- + gen. verbal noun (predicate)",
+                "bn": "বাড়তি বি + মাজরুর ক্রিয়াবাচক বিশেষ্য (খবর)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "شَيْطَٰنٍ",
+              "en": "(of) Shaitaan",
+              "bn": "শয়তানের",
+              "role": {
+                "en": "indef. genitive noun (muḍāf ilayh)",
+                "bn": "অনির্দিষ্ট মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "رَّجِيمٍ",
+              "en": "accursed",
+              "bn": "অভিশপ্ত",
+              "role": {
+                "en": "indef. genitive adjective (naʿt)",
+                "bn": "অনির্দিষ্ট মাজরুর বিশেষণ (না'ত)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "In وَمَا صَاحِبُكُم بِمَجْنُونٍ (81:22), what does the bi- on بِمَجْنُونٍ do?",
+          "bn": "وَمَا صَاحِبُكُم بِمَجْنُونٍ (৮১:২২)-এ بِمَجْنُونٍ শব্দের বি কী কাজ করে?"
+        },
+        "options": [
+          {
+            "en": "It means \"with\", as in \"with a madman\"",
+            "bn": "এর অর্থ \"সঙ্গে\", যেমন \"পাগলের সঙ্গে\""
+          },
+          {
+            "en": "It turns majnūn into a verb",
+            "bn": "এটি মাজনূন-কে ক্রিয়া বানিয়ে দেয়"
+          },
+          {
+            "en": "It strengthens the denial and puts the predicate in the genitive",
+            "bn": "এটি অস্বীকারকে জোরালো করে আর খবরকে মাজরুর করে"
+          },
+          {
+            "en": "It marks majnūnin as the subject",
+            "bn": "এটি মাজনূনিন-কে কর্তা বানায়"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "en": "After mā meaning \"is not\", the predicate often takes an extra bi-. It adds force to the denial and makes the word genitive, but it is not translated: \"your companion is not mad\". The noun of mā here is ṣāḥibukum.",
+          "bn": "\"নয়\" অর্থের মা-র পরে খবরের আগে প্রায়ই বাড়তি বি বসে। এটি অস্বীকারে জোর আনে আর শব্দটিকে মাজরুর করে, কিন্তু অনুবাদে আসে না: \"তোমাদের সঙ্গী পাগল নয়\"। এখানে মা-র ইসম হলো সাহিবুকুম।"
+        }
+      }
+    },
+    {
+      "id": "read-81-7",
+      "unit": "read-81",
+      "icon": "📖",
+      "title": {
+        "en": "at-Takwir 26-29: negation + illā, \"only\"",
+        "bn": "আত-তাকভীর ২৬-২৯: না-বোধক শব্দ + ইল্লা = \"কেবল\""
+      },
+      "concept": {
+        "en": "Arabic often says \"only\" by denying everything and then making one exception: a negative particle, then <b>illā</b> \"except\". In 81:27 <b>in huwa illā dhikrun</b> is literally \"it is not except a reminder\", meaning \"it is only a reminder\". Here in is not \"if\" but a negative particle, like mā. 81:29 uses the same frame with mā: \"you do not will except that Allāh wills\".",
+        "bn": "আরবিতে \"কেবল\" বোঝাতে প্রায়ই সবকিছু অস্বীকার করে একটিমাত্র ব্যতিক্রম রাখা হয়: আগে না-বোধক অব্যয়, তারপর <b>ইল্লা</b> (\"ছাড়া\")। ৮১:২৭-এর <b>ইন হুওয়া ইল্লা যিকরুন</b> শব্দে শব্দে \"এটা উপদেশ ছাড়া কিছু নয়\", অর্থাৎ \"এটা কেবল উপদেশ\"। এখানে ইন \"যদি\" নয়, মা-র মতো না-বোধক অব্যয়। ৮১:২৯-এ মা দিয়ে একই কাঠামো: \"তোমরা ইচ্ছা করো না, আল্লাহ ইচ্ছা করা ছাড়া\"।"
+      },
+      "examples": [
+        {
+          "ref": "81:26",
+          "trans": {
+            "en": "So where are you going?",
+            "bn": "কাজেই তোমরা (সত্যকে প্রত্যাখ্যান করে) কোথায় চলেছ?"
+          },
+          "note": {
+            "en": "ayna \"where?\" opens a question, and tadhhabūna is a present verb whose -ūna ending carries the subject \"you\" (plural): \"where are you going?\"",
+            "bn": "আইনা (\"কোথায়\") প্রশ্ন শুরু করে। তাযহাবূনা বর্তমান ক্রিয়া, শেষের -ঊনা-তেই কর্তা \"তোমরা\" আছে: \"তোমরা কোথায় চলেছ?\""
+          },
+          "words": [
+            {
+              "ar": "فَأَيْنَ",
+              "en": "So where",
+              "bn": "অতএব কোথায়",
+              "role": {
+                "en": "fa- + interrogative ayna \"where?\"",
+                "bn": "ফা + প্রশ্নবোধক শব্দ আইনা \"কোথায়\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "تَذْهَبُونَ",
+              "en": "are you going",
+              "bn": "তোমরা চলেছ",
+              "role": {
+                "en": "present verb + subject \"you\" (pl.)",
+                "bn": "বর্তমান ক্রিয়া + কর্তা \"তোমরা\""
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:27",
+          "trans": {
+            "en": "It is not except a reminder to the worlds",
+            "bn": "এটা তো কেবল বিশ্ববাসীদের জন্য উপদেশ।"
+          },
+          "note": {
+            "en": "in ... illā frames dhikrun: \"it is not except a reminder\", that is, \"only a reminder\". dhikrun stays nominative, because illā here limits the meaning without changing the case.",
+            "bn": "ইন ... ইল্লা মিলে যিকরুন-কে ঘিরে ধরে: \"উপদেশ ছাড়া কিছু নয়\", অর্থাৎ \"কেবল উপদেশ\"। যিকরুন মারফুই থাকে, কারণ ইল্লা এখানে অর্থ সীমিত করে, শেষ স্বর বদলায় না।"
+          },
+          "words": [
+            {
+              "ar": "إِنْ",
+              "en": "Not",
+              "bn": "নয়",
+              "role": {
+                "en": "negative particle in \"not\"",
+                "bn": "নেতিবাচক অব্যয় ইন \"নয়\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "هُوَ",
+              "en": "it",
+              "bn": "তা",
+              "role": {
+                "en": "pronoun \"it\"",
+                "bn": "সর্বনাম \"তা\""
+              }
+            },
+            {
+              "ar": "إِلَّا",
+              "en": "(is) except",
+              "bn": "এ ছাড়া",
+              "role": {
+                "en": "restriction particle illā \"except\"",
+                "bn": "সীমাবদ্ধকারী অব্যয় ইল্লা \"ছাড়া\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "ذِكْرٌ",
+              "en": "a reminder",
+              "bn": "উপদেশ",
+              "role": {
+                "en": "indef. nominative verbal noun \"reminder\"",
+                "bn": "অনির্দিষ্ট মারফু ক্রিয়াবাচক বিশেষ্য \"উপদেশ\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "لِّلْعَٰلَمِينَ",
+              "en": "to the worlds",
+              "bn": "বিশ্ব-জগতের জন্যে",
+              "role": {
+                "en": "li- \"for\" + def. genitive plural noun",
+                "bn": "অব্যয় লি \"জন্য\" + আল + মাজরুর বহুবচন বিশেষ্য"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "81:28",
+          "trans": {
+            "en": "For whoever wills among you to take a right course.",
+            "bn": "তার জন্য- যে তোমাদের মধ্যে সরল সঠিক পথে চলতে চায়।"
+          },
+          "note": {
+            "en": "an makes the present verb after it subjunctive: yastaqīma ends in -a, not -u. an and its verb together work like a noun, \"to take a right course\", which is what is willed.",
+            "bn": "আন তার পরের বর্তমান ক্রিয়াকে মানসুব করে: ইয়াস্তাকীমা-র শেষে -আ, -উ নয়। আন আর তার ক্রিয়া মিলে একটি বিশেষ্যের মতো কাজ করে, \"সোজা পথে চলা\", আর এটিই চাওয়ার বিষয়।"
+          },
+          "words": [
+            {
+              "ar": "لِمَن",
+              "en": "For whoever",
+              "bn": "তার জন্যে",
+              "role": {
+                "en": "li- \"for\" + relative pronoun man \"whoever\"",
+                "bn": "অব্যয় লি \"জন্য\" + সম্বন্ধবাচক সর্বনাম মান \"যে\""
+              }
+            },
+            {
+              "ar": "شَآءَ",
+              "en": "wills",
+              "bn": "যে চায়",
+              "role": {
+                "en": "past verb \"wills\"",
+                "bn": "অতীত ক্রিয়া \"চায়\""
+              }
+            },
+            {
+              "ar": "مِنكُمْ",
+              "en": "among you",
+              "bn": "তোমাদের মধ্যে",
+              "role": {
+                "en": "preposition min + pronoun \"you\" (pl.)",
+                "bn": "অব্যয় মিন + সর্বনাম \"তোমাদের\""
+              }
+            },
+            {
+              "ar": "أَن",
+              "en": "to",
+              "bn": "যে",
+              "role": {
+                "en": "particle an \"to\" (+ subjunctive)",
+                "bn": "অব্যয় আন \"যে\" (পরের ক্রিয়া মানসুব)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "يَسْتَقِيمَ",
+              "en": "take a straight way",
+              "bn": "সোজা চলতে",
+              "role": {
+                "en": "Form X present verb, subjunctive (-a)",
+                "bn": "দশম রূপের বর্তমান ক্রিয়া, মানসুব (-আ)"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "81:29",
+          "trans": {
+            "en": "And you do not will except that Allāh wills - Lord of the worlds.",
+            "bn": "তোমরা ইচ্ছে কর না যদি বিশ্বজগতের প্রতিপালক আল্লাহ ইচ্ছে না করেন।"
+          },
+          "note": {
+            "en": "wa-mā ... illā repeats the frame of 81:27, now with a verb: \"you do not will except that Allāh wills\". After illā comes an with the subjunctive yashāʾa, like an yastaqīma in 81:28.",
+            "bn": "ওয়া মা ... ইল্লা ৮১:২৭-এর কাঠামোটিই ফিরিয়ে আনে, এবার ক্রিয়া দিয়ে: \"তোমরা ইচ্ছা করো না, আল্লাহ ইচ্ছা করা ছাড়া\"। ইল্লা-র পরে আন আর মানসুব ক্রিয়া ইয়াশা-আ, ৮১:২৮-এর আন ইয়াস্তাকীমা-র মতো।"
+          },
+          "words": [
+            {
+              "ar": "وَمَا",
+              "en": "And not",
+              "bn": "এবং না",
+              "role": {
+                "en": "and + negative particle mā \"not\"",
+                "bn": "এবং + নেতিবাচক অব্যয় মা \"না\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "تَشَآءُونَ",
+              "en": "you will",
+              "bn": "(যা) তোমরা চাও (তা কিছু হয়)",
+              "role": {
+                "en": "present verb + subject \"you\" (pl.)",
+                "bn": "বর্তমান ক্রিয়া + কর্তা \"তোমরা\""
+              }
+            },
+            {
+              "ar": "إِلَّآ",
+              "en": "except",
+              "bn": "এ ছাড়া",
+              "role": {
+                "en": "restriction particle illā \"except\"",
+                "bn": "সীমাবদ্ধকারী অব্যয় ইল্লা \"ছাড়া\""
+              },
+              "hl": true
+            },
+            {
+              "ar": "أَن",
+              "en": "that",
+              "bn": "যে",
+              "role": {
+                "en": "particle an \"that\" (+ subjunctive)",
+                "bn": "অব্যয় আন \"যে\" (পরের ক্রিয়া মানসুব)"
+              }
+            },
+            {
+              "ar": "يَشَآءَ",
+              "en": "wills",
+              "bn": "চান",
+              "role": {
+                "en": "present verb, subjunctive (-a)",
+                "bn": "বর্তমান ক্রিয়া, মানসুব (-আ)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah",
+              "bn": "আল্লাহ",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "رَبُّ",
+              "en": "Lord",
+              "bn": "রব",
+              "role": {
+                "en": "nominative noun \"Lord\" (muḍāf)",
+                "bn": "মারফু বিশেষ্য \"রব\" (মুদাফ)"
+              }
+            },
+            {
+              "ar": "ٱلْعَٰلَمِينَ",
+              "en": "(of) the worlds",
+              "bn": "জগতসমূহের",
+              "role": {
+                "en": "def. genitive plural noun (muḍāf ilayh)",
+                "bn": "আল + মাজরুর বহুবচন বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "In إِنْ هُوَ إِلَّا ذِكْرٌ (81:27), what is إِنْ?",
+          "bn": "إِنْ هُوَ إِلَّا ذِكْرٌ (৮১:২৭)-এ إِنْ কী?"
+        },
+        "options": [
+          {
+            "en": "\"if\", starting a condition",
+            "bn": "\"যদি\", শর্ত শুরু করে"
+          },
+          {
+            "en": "\"not\", a negative particle paired with illā",
+            "bn": "\"নয়\", না-বোধক অব্যয়, ইল্লা-র সঙ্গে জোড়া"
+          },
+          {
+            "en": "\"indeed\", the same as inna",
+            "bn": "\"নিশ্চয়ই\", ইন্না-র মতোই"
+          },
+          {
+            "en": "\"that\", making the next verb subjunctive",
+            "bn": "\"যে\", পরের ক্রিয়াকে মানসুব করে"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "en": "Here in is a negative particle, like mā. With illā after it, the sentence denies everything except one thing: \"it is only a reminder\". No condition follows, and there is no verb after it to make subjunctive.",
+          "bn": "এখানে ইন মা-র মতো না-বোধক অব্যয়। পরে ইল্লা থাকায় বাক্যটি একটি ছাড়া সবকিছু অস্বীকার করে: \"এটা কেবল উপদেশ\"। এরপর কোনো শর্ত আসেনি, আর মানসুব করার মতো কোনো ক্রিয়াও এর পরে নেই।"
+        }
+      }
+    },
+    {
       "id": "read-80-1",
       "unit": "read-80",
       "icon": "📖",

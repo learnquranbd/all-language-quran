@@ -62,4 +62,13 @@ drop it. Grammar findings need the specific segment/feature that contradicts the
 ```
 
 Give an exact replacement for every finding, so the fix round patches clauses rather
-than rewriting passages.
+than rewriting passages. `tools/qarabic/apply-audit.js` applies them mechanically, so:
+
+- `where` is exactly `<lesson id> <ref> note`, `<lesson id> <ref> w<N> role`,
+  `<lesson id> title|concept`, `<lesson id> practice q|explain`, or
+  `<lesson id> option <N>`. Append ` (and w<N> hl)` to also highlight a word. No other
+  words or parentheses in `where`.
+- `fix` is exactly `{ "en": ..., "bn": ... }`: the complete new text of that one field
+  (the whole note, not "replace the last sentence with"). No other keys.
+- A change touching two fields (a role and its note) is two findings.
+- The drafter's FLAGS.md entry for a confirmed morphology error goes in `morphology_errors`.
