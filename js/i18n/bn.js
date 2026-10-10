@@ -395,6 +395,7 @@
  "prophets_label_article": "সম্পূর্ণ প্রবন্ধ",
  "tad_article": "বিস্তারিত ব্যাখ্যা",
  "sn_title": "এই নাম কেন?",
+ "places_title": "কুরআনের স্থানসমূহ",
  "sahaba_label_article": "সম্পূর্ণ প্রবন্ধ",
  "seerah_label_article": "সম্পূর্ণ প্রবন্ধ",
  "prophets_mark_read": "পঠিত চিহ্নিত করুন",

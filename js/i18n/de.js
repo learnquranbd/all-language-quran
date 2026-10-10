@@ -399,6 +399,7 @@
  "prophets_label_article": "Vollständiger Artikel",
  "tad_article": "Ausführliche Erläuterung",
  "sn_title": "Warum dieser Name?",
+ "places_title": "Orte im Koran",
  "sahaba_label_article": "Vollständiger Artikel",
  "seerah_label_article": "Vollständiger Artikel",
  "prophets_mark_read": "Als gelesen markieren",

@@ -399,6 +399,7 @@
  "prophets_label_article": "Tam makale",
  "tad_article": "Tam açıklama",
  "sn_title": "Bu isim neden?",
+ "places_title": "Kur'an'daki Yerler",
  "sahaba_label_article": "Tam makale",
  "seerah_label_article": "Tam makale",
  "prophets_mark_read": "Okundu olarak işaretle",

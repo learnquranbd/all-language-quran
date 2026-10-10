@@ -399,6 +399,7 @@
  "prophets_label_article": "مکمل مضمون",
  "tad_article": "مکمل تشریح",
  "sn_title": "یہ نام کیوں؟",
+ "places_title": "قرآن کے مقامات",
  "sahaba_label_article": "مکمل مضمون",
  "seerah_label_article": "مکمل مضمون",
  "prophets_mark_read": "پڑھا ہوا نشان زد کریں",

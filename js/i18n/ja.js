@@ -399,6 +399,7 @@
  "prophets_label_article": "詳しい記事",
  "tad_article": "詳しい解説",
  "sn_title": "この名前の由来",
+ "places_title": "クルアーンの地名",
  "sahaba_label_article": "詳しい記事",
  "seerah_label_article": "詳しい記事",
  "prophets_mark_read": "既読にする",

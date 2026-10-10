@@ -399,6 +399,7 @@
  "prophets_label_article": "Полная статья",
  "tad_article": "Полное разъяснение",
  "sn_title": "Почему такое название?",
+ "places_title": "Места в Коране",
  "sahaba_label_article": "Полная статья",
  "seerah_label_article": "Полная статья",
  "prophets_mark_read": "Отметить как прочитанное",

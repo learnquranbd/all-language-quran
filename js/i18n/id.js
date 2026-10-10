@@ -399,6 +399,7 @@
  "prophets_label_article": "Artikel lengkap",
  "tad_article": "Penjelasan lengkap",
  "sn_title": "Mengapa nama ini?",
+ "places_title": "Tempat dalam Al-Qur'an",
  "sahaba_label_article": "Artikel lengkap",
  "seerah_label_article": "Artikel lengkap",
  "prophets_mark_read": "Tandai sudah dibaca",

@@ -399,6 +399,7 @@
  "prophets_label_article": "مقاله کامل",
  "tad_article": "شرح کامل",
  "sn_title": "چرا این نام؟",
+ "places_title": "مکان‌های قرآن",
  "sahaba_label_article": "مقاله کامل",
  "seerah_label_article": "مقاله کامل",
  "prophets_mark_read": "علامت‌گذاری به‌عنوان خوانده‌شده",

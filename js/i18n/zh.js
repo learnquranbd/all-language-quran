@@ -399,6 +399,7 @@
  "prophets_label_article": "完整文章",
  "tad_article": "完整解释",
  "sn_title": "为何取此名？",
+ "places_title": "古兰经中的地方",
  "sahaba_label_article": "完整文章",
  "seerah_label_article": "完整文章",
  "prophets_mark_read": "标记为已读",
