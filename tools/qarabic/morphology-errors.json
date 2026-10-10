@@ -299,5 +299,26 @@
   "word": "هَجْرًا",
   "tag": "N M INDEF ACC (no VN feature)",
   "correct": "N VN VF:1 M INDEF ACC: the maṣdar of hajara and the cognate object of ٱهْجُرْهُمْ, described by جَمِيلًا (as 73:16 أَخْذًا وَبِيلًا, which is tagged VN). Only the feature is missing; POS and case are right. Same class as 71:22 مَكْرًا. The draft already teaches it correctly as mafʿūl muṭlaq."
+ },
+ {
+  "batch": "U10",
+  "ref": "77:25",
+  "word": "كِفَاتًا",
+  "tag": "VN VF:3 M INDEF ACC (i'rab: Form III verbal noun)",
+  "correct": "N M INDEF ACC: kifāt belongs to Form I kafata 'to draw together, hold' (the name for what gathers things in, a receptacle, or a Form I maṣdar used so). The fiʿāl shape resembles a Form III maṣdar, but no Form III kāfata exists in this sense. Draft role 'indef. accusative noun' is already right; no lesson change"
+ },
+ {
+  "batch": "U10",
+  "ref": "77:3",
+  "word": "نَشْرًا",
+  "tag": "N M INDEF ACC (no VN feature)",
+  "correct": "N VN VF:1 M INDEF ACC: maṣdar of nashara, cognate with an-nāshirāti, parallel to عَصْفًا in 77:2, which is tagged VN. Missing feature only; draft's form-only role is not wrong; no lesson change"
+ },
+ {
+  "batch": "U10",
+  "ref": "77:4",
+  "word": "فَرْقًا",
+  "tag": "N M INDEF ACC (no VN feature)",
+  "correct": "N VN VF:1 M INDEF ACC: maṣdar of faraqa, cognate with al-fāriqāti, same frame as 77:2. Missing feature only; no lesson change"
  }
 ]
