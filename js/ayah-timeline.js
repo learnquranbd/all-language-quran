@@ -105,6 +105,9 @@ class AyahTimeline {
     const first = String(ref).split('-')[0];
     const [s] = first.split(':');
     const gloss = (this._paging && this._paging.glosses) ? this._paging.glosses[first] : null;
+    // opts.notes: a per-ref note shown under the translation (Mutashabihat: what is
+    // distinctive about this verse's wording).
+    const note = (this._paging && this._paging.notes) ? this._paging.notes[first] : null;
     return `
         <li class="relative pl-5 pb-5 border-l-2 border-primary/25 ml-2 last:pb-1">
           <span class="absolute -left-[7px] top-1 w-3 h-3 rounded-full bg-primary/70 border-2 border-white dark:border-gray-800" aria-hidden="true"></span>
@@ -115,6 +118,7 @@ class AyahTimeline {
           ${gloss ? `<span class="ms-1.5 align-middle text-[0.7rem] px-1.5 py-0.5 rounded bg-amber-100/70 dark:bg-amber-500/15 text-amber-800 dark:text-amber-300" dir="auto">${this.esc(gloss)}</span>` : ''}
           <div class="ayah-arabic !text-lg !leading-loose !border-b-0 !pb-0 mt-1.5 text-gray-800 dark:text-gray-100" dir="rtl" data-at-ar="${this.esc(first)}"></div>
           <div class="text-xs text-gray-500 dark:text-gray-400 mt-1 leading-relaxed" data-at-tr="${this.esc(first)}"></div>
+          ${note ? `<p class="mt-1.5 text-xs leading-relaxed px-2.5 py-1.5 rounded-lg bg-sky-50 dark:bg-sky-900/25 text-sky-800 dark:text-sky-200" dir="auto">🔎 ${this.esc(note)}</p>` : ''}
         </li>`;
   }
 
@@ -152,7 +156,7 @@ class AyahTimeline {
     // and "show more" appends until every ref is on screen.
     const chunk = 50;
     const firstRefs = refs.slice(0, chunk);
-    this._paging = { refs, shown: firstRefs.length, chunk, phrase: o.phrase, marks: o.marks, glosses: o.glosses };
+    this._paging = { refs, shown: firstRefs.length, chunk, phrase: o.phrase, marks: o.marks, glosses: o.glosses, notes: o.notes };
     const items = firstRefs.map(ref => this.itemHtml(ref)).join('');
 
     const el = document.createElement('div');
@@ -171,6 +175,7 @@ class AyahTimeline {
         </div>
         <div data-lq-autolink class="overflow-y-auto p-4 pt-3">
           ${o.subtitle ? `<p class="text-xs text-gray-500 dark:text-gray-400 mb-4 leading-relaxed" dir="auto">${this.esc(o.subtitle)}</p>` : ''}
+          ${o.tip ? `<p class="text-xs mb-4 leading-relaxed p-3 rounded-xl bg-amber-50 dark:bg-amber-500/10 text-amber-900 dark:text-amber-200 border border-amber-100 dark:border-amber-500/20" dir="auto">💡 ${this.esc(o.tip)}</p>` : ''}
           <ol data-at-list class="list-none m-0 p-0">${items}</ol>
           ${refs.length > chunk ? `<div data-at-more-wrap class="text-center pt-1 pb-2">
             <button data-at-more class="px-4 py-2 rounded-lg border border-gray-200 dark:border-gray-600 text-xs font-medium text-primary dark:text-blue-300 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary">${this.esc(this.moreLabel())}</button>

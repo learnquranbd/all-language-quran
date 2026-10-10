@@ -477,11 +477,24 @@ class Mutashabihat {
     return Object.keys(marks).length ? marks : null;
   }
 
-  openGroupViewer(id) {
+  /** Memorisation notes per group (data/mutashabihat-notes.json), fetched the first
+   * time a group is opened: { id: { tip:{en,bn}, verses:{ref:{en,bn}} } }. */
+  loadNotes() {
+    if (!this._notesP) {
+      this._notesP = fetch('data/mutashabihat-notes.json').then(r => (r.ok ? r.json() : {})).catch(() => ({}));
+    }
+    return this._notesP;
+  }
+
+  async openGroupViewer(id) {
     const g = (typeof MUTASHABIHAT_GROUPS !== 'undefined' ? MUTASHABIHAT_GROUPS : []).find(x => x.id === id);
     if (!g || typeof ayahTimeline === 'undefined') return;
     const marks = this.groupMarks(g);
+    const n = (await this.loadNotes())[id];
+    const notes = n && n.verses ? Object.fromEntries(Object.entries(n.verses).map(([r, o]) => [r, this.L(o)])) : undefined;
     ayahTimeline.open({
+      tip: n && n.tip ? this.L(n.tip) : undefined,
+      notes,
       title: this.L({ en: g.nameEn, bn: g.nameBn }),
       titleAr: g.nameAr,
       subtitle: this.L({ en: g.descEn, bn: g.descBn }),
