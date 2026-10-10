@@ -88,6 +88,10 @@ bundled data at merge time. You do not write them, and you must not contradict t
   after a vowel it is the object "us" (*hadā-nā*). Don't state either as a general rule.
 - The lām of emphasis after *inna* goes on the predicate, *or* on inna's noun when the
   predicate is fronted (*inna fī dhālika la-ʿibratan*). Don't generalise from one ayah.
+- *qalīlan mā* (67:23, 69:41-42): *qalīlan* is accusative, so the *mā* is the extra mā
+  stressing "little", not a relative pronoun, whatever the tag says.
+- After *ammā … fa-*, the fa- belongs to *ammā*, even when a *man* clause sits in between.
+- A proper name with tanwīn (*ʿĀdun*) is still definite; never call it "indef.".
 - Never mention "the corpus" or tags to learners; give the grammatical reason.
 - *illā* after a negative statement may be disconnected (munqaṭiʿ, "but"); where
   grammarians differ, say "sets apart" and that they differ.

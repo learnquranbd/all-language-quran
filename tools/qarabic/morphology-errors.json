@@ -138,5 +138,68 @@
   "word": "ٱلْمُسْلِمِينَ",
   "tag": "PN ACT_PCPL VF:4 MP ACC (i'rab اسم علم منصوب)",
   "correct": "common noun: ACT_PCPL VF:4 MP ACC, no PN (definite sound masculine plural participle, parallel to كَٱلْمُجْرِمِينَ; it is the object of najʿalu)"
+ },
+ {
+  "batch": "U3",
+  "ref": "69:18",
+  "word": "تَخْفَىٰ",
+  "tag": "V IMPF VF:1 2MS MOOD:IND (iʿrāb: 2nd person masculine singular imperfect verb)",
+  "correct": "V IMPF VF:1 3FS MOOD:IND: its subject is the nominative feminine خَافِيَةٌ, which a 2MS verb would leave with nothing to make it nominative. ta- is the 3FS prefix here. The reading لَا يَخْفَىٰ (Ḥamza, al-Kisāʾī) confirms third person."
+ },
+ {
+  "batch": "U3",
+  "ref": "69:25",
+  "word": "أُوتَ",
+  "tag": "V IMPF VF:4 PASS 3FS MOOD:JUS",
+  "correct": "V IMPF VF:4 PASS 1S MOOD:JUS: the prefix ʾu- (hamza) is 1st person (3FS would be تُؤْتَ). The one given is the -nī of يَٰلَيْتَنِى in the same clause, and the parallel أَدْرِ in 69:26 is tagged 1S JUS."
+ },
+ {
+  "batch": "U3",
+  "ref": "69:25",
+  "word": "كِتَٰبِيَهْ",
+  "tag": "N كِتَٰبِيَ M NOM + هْ PRON 3MS",
+  "correct": "N كِتَٰبِ M ACC + يَ PRON 1S + هْ hāʾ as-sakt (pausal hā, not a pronoun). It is the second object of the passive أُوتَ, whose first object ('I') became the nāʾib fāʿil, so it is accusative; the -ya is 'my' (gloss 'my record'). The same word at 69:19 is tagged ACC + 1S."
+ },
+ {
+  "batch": "U3",
+  "ref": "69:28",
+  "word": "أَغْنَىٰ",
+  "tag": "V PERF VF:1 3MS",
+  "correct": "V PERF VF:4 3MS: hamzat qaṭʿ with sukūn on the ghayn is the afʿala pattern (Form I is غَنِىَ), and the tag's own lemma is أَغْنَى."
+ },
+ {
+  "batch": "U3",
+  "ref": "69:34",
+  "word": "ٱلْمِسْكِينِ",
+  "tag": "iʿrāb: صفة مجرورة (ADJ GEN)",
+  "correct": "مضاف إليه: طَعَامِ has neither al- nor tanwīn, so it is muḍāf, and the definite genitive after it is its muḍāf ilayh ('the feeding of the poor'), as the shipped 89:18 lesson has for the same phrase. The ADJ POS can stay; the function is wrong."
+ },
+ {
+  "batch": "U3",
+  "ref": "69:14",
+  "word": "دَكَّةً",
+  "tag": "N F INDEF ACC (no VN feature)",
+  "correct": "N VN VF:1 F INDEF ACC: the faʿla (ism al-marra) of the maṣdar dakk and the cognate object of فَدُكَّتَا, described by وَٰحِدَةً; parallel to أَخْذَةً in 69:10, which is tagged VN. The feature is missing; the case and POS are right. Same kind of entry as 80:26 شَقًّا and 71:22 مَكْرًا. The draft's role says 'accusative noun (mafʿūl muṭlaq)'."
+ },
+ {
+  "batch": "U3",
+  "ref": "69:35",
+  "word": "هَٰهُنَا",
+  "tag": "iʿrāb: VOC أداة نداء (prefixed vocative particle ha)",
+  "correct": "hā at-tanbīh (حرف تنبيه, ATT) + demonstrative هُنَا, as the morphology column already has. Nobody is being called; hā here is the attention-prefix of hāhunā/hādhā. The draft follows the morphology."
+ },
+ {
+  "batch": "U3",
+  "ref": "69:41",
+  "word": "مَّا",
+  "tag": "N REL",
+  "correct": "P SUP (extra mā, zāʾida, stressing the littleness; a minority reads maṣdariyya). قَلِيلًا is accusative, the naʿt of an omitted maṣdar or time noun, so a relative mā has no slot. Same ruling as 67:23 (U1); the corpus tags the identical phrase P SUP at 7:3 and 7:10."
+ },
+ {
+  "batch": "U3",
+  "ref": "69:42",
+  "word": "مَّا",
+  "tag": "N REL",
+  "correct": "P SUP (extra mā, zāʾida), for the same reason as 69:41: قَلِيلًا is accusative and a relative mā has no slot."
  }
 ]
