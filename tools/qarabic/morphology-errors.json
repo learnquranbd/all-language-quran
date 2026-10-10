@@ -362,5 +362,40 @@
   "word": "ٱلْمُهَيْمِنُ",
   "tag": "ACT_PCPL VF:2",
   "correct": "participle of haymana (mufayʿil, quadriliteral-like pattern), not Form II (which would be muhammin)"
+ },
+ {
+  "batch": "V3",
+  "ref": "60:3",
+  "word": "تَنفَعَكُمْ",
+  "tag": "V IMPF VF:1 2MS MOOD:SUBJ",
+  "correct": "V IMPF VF:1 3FS MOOD:SUBJ: the subject is the following nominative أَرْحَامُكُمْ (a broken plural, so the verb may be feminine singular), and -kum is already the object 'you'; the ta- is the 3FS prefix, not 2nd person."
+ },
+ {
+  "batch": "V3",
+  "ref": "60:4",
+  "word": "لَأَسْتَغْفِرَنَّ",
+  "tag": "V IMPF VF:10 1S MOOD:IND",
+  "correct": "V IMPF VF:10 1S, no inflected mood: with the nūn of emphasis attached directly the verb is mabnī on fatḥa; it is raf' only by position (answer to an implied oath, lām wāqiʿa fī jawāb al-qasam)."
+ },
+ {
+  "batch": "V3",
+  "ref": "60:12",
+  "word": "يُشْرِكْنَ، يَسْرِقْنَ، يَزْنِينَ، يَقْتُلْنَ، يَأْتِينَ، يَعْصِينَكَ",
+  "tag": "V IMPF 3FP MOOD:JUS",
+  "correct": "V IMPF 3FP, no inflected mood: the feminine-plural nūn makes each verb mabnī on sukūn. The jussive tag is wrong even by position: يُشْرِكْنَ follows ʿalā an lā (an maṣdariyya, lā merely negative, since a preposition precedes an), so its position is naṣb, and the other five are joined to it by wa-lā; nothing in the ayah jussivises them."
+ },
+ {
+  "batch": "V3",
+  "ref": "60:12",
+  "word": "يُبَايِعْنَكَ، يَفْتَرِينَهُۥ",
+  "tag": "V IMPF 3FP MOOD:IND",
+  "correct": "V IMPF 3FP, no inflected mood: mabnī on sukūn because of the feminine-plural nūn; raf' only by position."
+ },
+ {
+  "batch": "V3",
+  "ref": "60:12",
+  "word": "يَفْتَرِينَهُۥ",
+  "tag": "V IMPF VF:1 3FP (lemma يَفْتَرِي)",
+  "correct": "V IMPF VF:8 3FP: iftarā/yaftarī, root ف ر ي with the Form VIII infixed ta after the fāʾ. The draft's role says only 'present verb', so no lesson change is needed."
  }
 ]
