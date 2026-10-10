@@ -397,5 +397,47 @@
   "word": "يَفْتَرِينَهُۥ",
   "tag": "V IMPF VF:1 3FP (lemma يَفْتَرِي)",
   "correct": "V IMPF VF:8 3FP: iftarā/yaftarī, root ف ر ي with the Form VIII infixed ta after the fāʾ. The draft's role says only 'present verb', so no lesson change is needed."
+ },
+ {
+  "batch": "V1",
+  "ref": "58:1",
+  "word": "تُجَٰدِلُكَ",
+  "tag": "V IMPF VF:3 2MS",
+  "correct": "V IMPF VF:3 3FS (subject is the hidden 'she' referring to allatī; -ka is the object, so the verb cannot also be 2MS; parallel wa-tashtakī is 3FS)"
+ },
+ {
+  "batch": "V1",
+  "ref": "58:9",
+  "word": "وَٱلتَّقْوَىٰ",
+  "tag": "N NOM",
+  "correct": "N GEN (joined by wa to bi-l-birri, genitive after bi-; alif maqṣūra hides the case)"
+ },
+ {
+  "batch": "V1",
+  "ref": "58:12",
+  "word": "يَدَىْ",
+  "tag": "N FD NOM",
+  "correct": "N FD GEN (muḍāf ilayh of bayna; -ay is the oblique dual, nominative would be yadā; -ni dropped as it is itself muḍāf)"
+ },
+ {
+  "batch": "V1",
+  "ref": "58:12",
+  "word": "نَجْوَىٰكُمْ",
+  "tag": "N NOM",
+  "correct": "N GEN (muḍāf ilayh of yaday)"
+ },
+ {
+  "batch": "V1",
+  "ref": "58:13",
+  "word": "يَدَىْ",
+  "tag": "N FD ACC",
+  "correct": "N FD GEN (same phrase bayna yaday najwākum: muḍāf ilayh of bayna)"
+ },
+ {
+  "batch": "V1",
+  "ref": "58:13",
+  "word": "نَجْوَىٰكُمْ",
+  "tag": "N ACC",
+  "correct": "N GEN (muḍāf ilayh of yaday)"
  }
 ]

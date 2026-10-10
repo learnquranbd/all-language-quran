@@ -12876,6 +12876,4997 @@
           "bn": "সারির প্রতিটি নামের শেষে -উ। প্রতিটিকে হুওয়া-র আরেকটি খবর ধরা হোক বা আল্লাহু-র না'ত, দুটোই মারফু। তাই পুরো সারি সেই একই ই'রাব ধরে রাখে।"
         }
       }
+    },
+    {
+      "id": "read-58-1",
+      "unit": "read-58",
+      "icon": "📖",
+      "title": {
+        "en": "al-Mujādilah 1-2: two ways to say \"not\": mā and in … illā",
+        "bn": "আল-মুজাদালাহ ১-২: \"না\" বলার দুই ধরন: মা এবং ইন ... ইল্লা"
+      },
+      "concept": {
+        "en": "A nominal sentence can be denied with <b>mā</b>, which works like laysa: its predicate becomes accusative, as in mā hunna <b>ummahātihim</b> (58:2). Another way is <b>in … illā</b>, \"not … except\": here in changes no case, so ummahātuhum stays nominative, and illā limits the predicate to one thing.",
+        "bn": "নামবাচক বাক্যকে (জুমলা ইসমিয়্যা) না-বোধক করার একটি উপায় <b>মা</b>, যা লাইসা-র মতো কাজ করে: তার খবর মানসুব হয়ে যায়, যেমন মা হুন্না <b>উম্মাহাতিহিম</b> (৫৮:২)। আরেক উপায় <b>ইন ... ইল্লা</b>, \"... ছাড়া নয়\"। এখানে ইন কোনো শব্দের ই'রাব বদলায় না, তাই উম্মাহাতুহুম মারফুই থাকে। আর ইল্লা খবরকে একটি জিনিসেই সীমিত করে দেয়।"
+      },
+      "examples": [
+        {
+          "ref": "58:1",
+          "trans": {
+            "en": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing.",
+            "bn": "আল্লাহ তার কথা শুনেছেন যে নারী (খাওলাহ বিনত সা‘লাবাহ) তার স্বামীর বিষয়ে তোমার সাথে বাদানুবাদ করছে আর আল্লাহর কাছে ফরিয়াদ জানাচ্ছে, আল্লাহ তোমাদের দু’জনের কথা শুনছেন, আল্লাহ সর্বশ্রোতা, সর্বদ্রষ্টা।"
+          },
+          "note": {
+            "en": "qad before the past verb samiʿa makes the statement certain: 'certainly has heard'. In tujādiluka the prefix tu- means 'she', agreeing with allatī, and the -ka at the end is the object 'you'.",
+            "bn": "অতীত ক্রিয়া সামি'আ-র আগে কাদ বসে কথাটিকে নিশ্চিত করে: \"অবশ্যই শুনেছেন\"। তুজাদিলুকা-র শুরুর তু- এখানে বোঝায় \"সে (নারী)\", আল্লাতী-র সঙ্গে মিল রেখে। আর শেষের -কা হলো কর্ম \"তোমার (সাথে)\"।"
+          },
+          "words": [
+            {
+              "ar": "قَدْ",
+              "en": "Indeed",
+              "bn": "নিশ্চয়ই",
+              "role": {
+                "en": "particle qad (certainty)",
+                "bn": "নিশ্চয়তাবোধক অব্যয় কাদ"
+              },
+              "hl": true
+            },
+            {
+              "ar": "سَمِعَ",
+              "en": "Allah has heard",
+              "bn": "শুনেছেন",
+              "role": {
+                "en": "past verb 'heard'",
+                "bn": "অতীত ক্রিয়া 'শুনেছেন'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah has heard",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "قَوْلَ",
+              "en": "(the) speech",
+              "bn": "কথা",
+              "role": {
+                "en": "accusative verbal noun (object), muḍāf",
+                "bn": "মানসুব ক্রিয়াবাচক বিশেষ্য (কর্ম), মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱلَّتِى",
+              "en": "(of one) who",
+              "bn": "(সেই নারীর) যে",
+              "role": {
+                "en": "relative pronoun (fem. sing.), muḍāf ilayh",
+                "bn": "সম্বন্ধবাচক সর্বনাম (স্ত্রী. একব.), মুদাফ ইলাইহি"
+              }
+            },
+            {
+              "ar": "تُجَٰدِلُكَ",
+              "en": "disputes with you",
+              "bn": "তোমার সাথে তর্কবিতর্ক করছে",
+              "role": {
+                "en": "Form III present verb (she) + obj. 'you'",
+                "bn": "তৃতীয় রূপের বর্তমান ক্রিয়া (সে নারী) + কর্ম 'তোমার সাথে'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "فِى",
+              "en": "concerning",
+              "bn": "ব্যাপারে",
+              "role": {
+                "en": "preposition fī 'concerning'",
+                "bn": "অব্যয় ফী 'ব্যাপারে'"
+              }
+            },
+            {
+              "ar": "زَوْجِهَا",
+              "en": "her husband",
+              "bn": "তার স্বামীর",
+              "role": {
+                "en": "genitive noun + 'her'",
+                "bn": "মাজরুর বিশেষ্য + 'তার'"
+              }
+            },
+            {
+              "ar": "وَتَشْتَكِىٓ",
+              "en": "and she directs her complaint",
+              "bn": "এবং অভিযোগ করছে",
+              "role": {
+                "en": "and + Form VIII present verb (she)",
+                "bn": "এবং + অষ্টম রূপের বর্তমান ক্রিয়া (সে নারী)"
+              }
+            },
+            {
+              "ar": "إِلَى",
+              "en": "to",
+              "bn": "কাছে",
+              "role": {
+                "en": "preposition ilā 'to'",
+                "bn": "অব্যয় ইলা 'কাছে'"
+              }
+            },
+            {
+              "ar": "ٱللَّهِ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌র",
+              "role": {
+                "en": "genitive proper noun",
+                "bn": "মাজরুর নামবাচক বিশেষ্য"
+              }
+            },
+            {
+              "ar": "وَٱللَّهُ",
+              "en": "And Allah",
+              "bn": "এবং আল্লাহ্‌",
+              "role": {
+                "en": "and + nominative proper noun (mubtadaʾ)",
+                "bn": "এবং + মারফু নামবাচক বিশেষ্য (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "يَسْمَعُ",
+              "en": "hears",
+              "bn": "শুনছেন",
+              "role": {
+                "en": "present verb 'hears' (khabar)",
+                "bn": "বর্তমান ক্রিয়া 'শোনেন' (খবর)"
+              }
+            },
+            {
+              "ar": "تَحَاوُرَكُمَآ",
+              "en": "(the) dialogue of both of you",
+              "bn": "তোমাদের দুজনের কথাবার্তা",
+              "role": {
+                "en": "acc. Form VI verbal noun (obj.) + 'you two'",
+                "bn": "মানসুব ষষ্ঠ রূপের ক্রিয়াবাচক বিশেষ্য (কর্ম) + 'তোমাদের দুজনের'"
+              }
+            },
+            {
+              "ar": "إِنَّ",
+              "en": "Indeed",
+              "bn": "নিশ্চয়ই",
+              "role": {
+                "en": "emphatic particle inna",
+                "bn": "জোরারোপক অব্যয় ইন্না"
+              }
+            },
+            {
+              "ar": "ٱللَّهَ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "accusative proper noun (inna's noun)",
+                "bn": "মানসুব নামবাচক বিশেষ্য (ইন্না-র ইসম)"
+              }
+            },
+            {
+              "ar": "سَمِيعٌۢ",
+              "en": "(is) All-Hearer",
+              "bn": "সবকিছু শোনেন",
+              "role": {
+                "en": "indef. nominative adjective (inna's khabar)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষণ (ইন্না-র খবর)"
+              }
+            },
+            {
+              "ar": "بَصِيرٌ",
+              "en": "All-Seer",
+              "bn": "সবকিছু দেখেন",
+              "role": {
+                "en": "indef. nominative adjective 'Seeing'",
+                "bn": "অনির্দিষ্ট মারফু বিশেষণ 'সর্বদ্রষ্টা'"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "58:2",
+          "trans": {
+            "en": "Those who pronounce ẓihār among you [to separate] from their wives - they are not [consequently] their mothers. Their mothers are none but those who gave birth to them. And indeed, they are saying an objectionable statement and a falsehood. But indeed, Allāh is Pardoning and Forgiving.",
+            "bn": "তোমাদের মধ্যে যারা তাদের স্ত্রীদের সাথে জিহার করে (অর্থাৎ স্ত্রীকে বলে যে, তুমি আমার জন্য আমার মায়ের পিঠের মত) তাদের স্ত্রীরা তাদের মা নয়। তাদের মা তো কেবল তারাই যারা তাদের জন্ম দিয়েছে। তারা অবশ্যই ঘৃণ্য ও মিথ্যে কথা বলে, নিশ্চয়ই আল্লাহ পাপ মোচনকারী, বড়ই ক্ষমাশীল।"
+          },
+          "note": {
+            "en": "In mā hunna ummahātihim, mā works like laysa, so its predicate is accusative, and a feminine plural in -āt shows the accusative with -i. In the next sentence, in ummahātuhum illā llāʾī, in also means 'not' but here changes no case, so ummahātuhum stays nominative, and illā limits the predicate to 'those who gave birth to them'.",
+            "bn": "মা হুন্না উম্মাহাতিহিম-এ মা লাইসা-র মতো কাজ করে, তাই তার খবর মানসুব। -আত দিয়ে গড়া স্ত্রীলিঙ্গ বহুবচন মানসুব হলে শেষে -ই নেয়। ইন উম্মাহাতুহুম ইল্লাল লায়ী-তে ইন-ও \"না\" বোঝায়, তবে এখানে কোনো শব্দের ই'রাব বদলায় না, তাই উম্মাহাতুহুম মারফুই থাকে। আর ইল্লা খবরকে বেঁধে দেয় \"যারা তাদের জন্ম দিয়েছে\" তাদের মধ্যে।"
+          },
+          "words": [
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "Those who",
+              "bn": "যারা",
+              "role": {
+                "en": "relative pronoun (masc. plural)",
+                "bn": "সম্বন্ধবাচক সর্বনাম (পুংলিঙ্গ বহুবচন)"
+              }
+            },
+            {
+              "ar": "يُظَٰهِرُونَ",
+              "en": "pronounce zihar",
+              "bn": "যিহার করে",
+              "role": {
+                "en": "Form III present verb + subject 'they'",
+                "bn": "তৃতীয় রূপের বর্তমান ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "مِنكُم",
+              "en": "among you",
+              "bn": "তোমাদের মধ্য থেকে",
+              "role": {
+                "en": "min 'among' + pronoun 'you' (pl.)",
+                "bn": "অব্যয় মিন 'মধ্য থেকে' + সর্বনাম 'তোমাদের'"
+              }
+            },
+            {
+              "ar": "مِّن",
+              "en": "[from]",
+              "bn": "সাথে",
+              "role": {
+                "en": "preposition min 'from'",
+                "bn": "অব্যয় মিন 'থেকে'"
+              }
+            },
+            {
+              "ar": "نِّسَآئِهِم",
+              "en": "(to) their wives",
+              "bn": "তাদের স্ত্রীদের",
+              "role": {
+                "en": "genitive plural noun + 'their'",
+                "bn": "মাজরুর বহুবচন বিশেষ্য + 'তাদের'"
+              }
+            },
+            {
+              "ar": "مَّا",
+              "en": "not",
+              "bn": "না",
+              "role": {
+                "en": "negative mā (working like laysa)",
+                "bn": "নেতিবাচক মা (লাইসা-র মতো কাজ করে)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "هُنَّ",
+              "en": "they",
+              "bn": "তারা",
+              "role": {
+                "en": "pronoun 'they' (fem.), mā's noun",
+                "bn": "সর্বনাম 'তারা' (স্ত্রীলিঙ্গ), মা-এর ইসম"
+              }
+            },
+            {
+              "ar": "أُمَّهَٰتِهِمْ",
+              "en": "(are) their mothers",
+              "bn": "তাদের মা (হয়ে যায়)",
+              "role": {
+                "en": "acc. fem. plural noun (mā's khabar) + 'their'",
+                "bn": "মানসুব স্ত্রী. বহুবচন বিশেষ্য (মা-এর খবর) + 'তাদের'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "إِنْ",
+              "en": "Not",
+              "bn": "নয় (অন্যরা)",
+              "role": {
+                "en": "negative particle in 'not'",
+                "bn": "নেতিবাচক অব্যয় ইন 'নয়'"
+              }
+            },
+            {
+              "ar": "أُمَّهَٰتُهُمْ",
+              "en": "(are) their mothers",
+              "bn": "তাদের মা",
+              "role": {
+                "en": "nominative plural noun (mubtadaʾ) + 'their'",
+                "bn": "মারফু বহুবচন বিশেষ্য (মুবতাদা) + 'তাদের'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "إِلَّا",
+              "en": "except",
+              "bn": "এছাড়া",
+              "role": {
+                "en": "restriction particle illā",
+                "bn": "সীমাবদ্ধকারী অব্যয় ইল্লা"
+              }
+            },
+            {
+              "ar": "ٱلَّٰٓـِٔى",
+              "en": "those who",
+              "bn": "যারা",
+              "role": {
+                "en": "relative pronoun (fem. plural), khabar",
+                "bn": "সম্বন্ধবাচক সর্বনাম (স্ত্রী. বহুবচন), খবর"
+              }
+            },
+            {
+              "ar": "وَلَدْنَهُمْ",
+              "en": "gave them birth",
+              "bn": "তাদের জন্ম দিয়েছে",
+              "role": {
+                "en": "past verb + subj. 'they' (fem.) + obj. 'them'",
+                "bn": "অতীত ক্রিয়া + কর্তা 'তারা' (স্ত্রী) + কর্ম 'তাদের'"
+              }
+            },
+            {
+              "ar": "وَإِنَّهُمْ",
+              "en": "And indeed, they",
+              "bn": "এবং তারা নিশ্চয়ই",
+              "role": {
+                "en": "and + inna + 'they' (its noun)",
+                "bn": "এবং + ইন্না + 'তারা' (তার ইসম)"
+              }
+            },
+            {
+              "ar": "لَيَقُولُونَ",
+              "en": "surely say",
+              "bn": "বলে অবশ্যই",
+              "role": {
+                "en": "emphatic la- + present verb + subj. 'they'",
+                "bn": "জোরারোপক লা + বর্তমান ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "مُنكَرًا",
+              "en": "an evil",
+              "bn": "অসঙ্গত",
+              "role": {
+                "en": "indef. acc. Form IV passive participle",
+                "bn": "অনির্দিষ্ট মানসুব চতুর্থ রূপের ইসমে মাফ'উল"
+              }
+            },
+            {
+              "ar": "مِّنَ",
+              "en": "[of]",
+              "bn": "থেকে",
+              "role": {
+                "en": "preposition min 'of'",
+                "bn": "অব্যয় মিন 'থেকে'"
+              }
+            },
+            {
+              "ar": "ٱلْقَوْلِ",
+              "en": "[the] word",
+              "bn": "কথা",
+              "role": {
+                "en": "def. genitive verbal noun",
+                "bn": "আল + মাজরুর ক্রিয়াবাচক বিশেষ্য"
+              }
+            },
+            {
+              "ar": "وَزُورًا",
+              "en": "and a lie",
+              "bn": "ও মিথ্যা",
+              "role": {
+                "en": "and + indef. accusative noun (joined)",
+                "bn": "এবং + অনির্দিষ্ট মানসুব বিশেষ্য (যুক্ত)"
+              }
+            },
+            {
+              "ar": "وَإِنَّ",
+              "en": "But indeed",
+              "bn": "এবং নিশ্চয়ই",
+              "role": {
+                "en": "and + emphatic particle inna",
+                "bn": "এবং + জোরারোপক অব্যয় ইন্না"
+              }
+            },
+            {
+              "ar": "ٱللَّهَ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "accusative proper noun (inna's noun)",
+                "bn": "মানসুব নামবাচক বিশেষ্য (ইন্না-র ইসম)"
+              }
+            },
+            {
+              "ar": "لَعَفُوٌّ",
+              "en": "(is) surely, Oft-Pardoning",
+              "bn": "অবশ্যই মার্জনাকারী",
+              "role": {
+                "en": "emphatic la- + indef. nom. noun (khabar)",
+                "bn": "জোরারোপক লা + অনির্দিষ্ট মারফু বিশেষ্য (খবর)"
+              }
+            },
+            {
+              "ar": "غَفُورٌ",
+              "en": "Oft-Forgiving",
+              "bn": "ক্ষমাশীল",
+              "role": {
+                "en": "indef. nominative adjective 'Forgiving'",
+                "bn": "অনির্দিষ্ট মারফু বিশেষণ 'ক্ষমাশীল'"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "In مَّا هُنَّ أُمَّهَٰتِهِمْ (58:2), why does أُمَّهَٰتِهِمْ end in -i?",
+          "bn": "مَّا هُنَّ أُمَّهَٰتِهِمْ (৫৮:২)-এ أُمَّهَٰتِهِمْ-এর শেষে -ই কেন?"
+        },
+        "options": [
+          {
+            "en": "Because it follows the preposition min",
+            "bn": "কারণ এটি অব্যয় মিন-এর পরে এসেছে"
+          },
+          {
+            "en": "Because mā works like laysa, and an -āt plural shows the accusative with -i",
+            "bn": "কারণ মা লাইসা-র মতো কাজ করে, আর -আত বহুবচন মানসুব হলে -ই নেয়"
+          },
+          {
+            "en": "Because it is the muḍāf ilayh of hunna",
+            "bn": "কারণ এটি হুন্না-র মুদাফ ইলাইহি"
+          },
+          {
+            "en": "Because illā comes after it",
+            "bn": "কারণ এর পরে ইল্লা এসেছে"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "en": "mā here works like laysa, so its predicate ummahātihim is accusative. A feminine plural in -āt shows the accusative with -i, the same vowel as its genitive. In the next sentence, after in, the same word is nominative: ummahātuhum.",
+          "bn": "এখানে মা লাইসা-র মতো কাজ করে, তাই তার খবর উম্মাহাতিহিম মানসুব। -আত দিয়ে গড়া স্ত্রীলিঙ্গ বহুবচন মানসুব হলে -ই নেয়, মাজরুরের মতোই। পরের বাক্যে ইন-এর পরে একই শব্দ মারফু: উম্মাহাতুহুম।"
+        }
+      }
+    },
+    {
+      "id": "read-58-2",
+      "unit": "read-58",
+      "icon": "📖",
+      "title": {
+        "en": "al-Mujādilah 3-4: the verbal noun and its muḍāf ilayh",
+        "bn": "আল-মুজাদালাহ ৩-৪: ক্রিয়াবাচক বিশেষ্য ও তার মুদাফ ইলাইহি"
+      },
+      "concept": {
+        "en": "A verbal noun (maṣdar) names an action, and when it is muḍāf, the genitive after it often says what the action falls on. <b>taḥrīru raqabatin</b> is \"the freeing of a slave\" (58:3), and <b>iṭʿāmu sittīna miskīnan</b> \"the feeding of sixty poor persons\" (58:4). In <b>ṣiyāmu shahrayni</b> the genitive says instead how long: \"a fast of two months\".",
+        "bn": "ক্রিয়াবাচক বিশেষ্য (মাসদার) কোনো কাজের নাম। এটি মুদাফ হলে পরের মাজরুর শব্দটি প্রায়ই জানায় কাজটা কার ওপর হচ্ছে। <b>তাহরীরু রাকাবাতিন</b> মানে \"একজন দাসের মুক্তি\" (৫৮:৩), আর <b>ইত'আমু সিত্তীনা মিসকীনান</b> মানে \"ষাটজন মিসকীনকে খাওয়ানো\" (৫৮:৪)। <b>সিয়ামু শাহরাইনি</b>-তে মাজরুর শব্দটি বরং জানায় কতদিন: \"দুই মাসের রোজা\"।"
+      },
+      "examples": [
+        {
+          "ref": "58:3",
+          "trans": {
+            "en": "And those who pronounce ẓihār from their wives and then [wish to] go back on what they said - then [there must be] the freeing of a slave before they touch one another. That is what you are admonished thereby; and Allāh is Aware of what you do.",
+            "bn": "যারা নিজেদের স্ত্রীদের সাথে জিহার করে, অতঃপর তারা যে কথা বলেছে তা প্রত্যাহার করে নেয় তবে পরস্পরকে স্পর্শ করার পূর্বে তাদেরকে একটি দাস মুক্ত করতে হবে, এর দ্বারা তোমাদেরকে উপদেশ দেয়া হচ্ছে। তোমরা যা কর, আল্লাহ তার খবর রাখেন।"
+          },
+          "note": {
+            "en": "taḥrīru is the verbal noun of the Form II verb ḥarrara, 'to free', and raqabatin, its muḍāf ilayh, names what is freed: 'the freeing of a slave'. No verb comes with it, which is why the translation adds '[there must be]'.",
+            "bn": "তাহরীরু হলো দ্বিতীয় রূপের ক্রিয়া হাররারা (\"মুক্ত করা\")-র ক্রিয়াবাচক বিশেষ্য। তার মুদাফ ইলাইহি রাকাবাতিন জানায় কাকে মুক্ত করা হচ্ছে: \"একজন দাসের মুক্তি\"। সঙ্গে কোনো ক্রিয়া নেই, তাই অনুবাদে \"করতে হবে\" অংশটি যোগ করে নিতে হয়েছে।"
+          },
+          "words": [
+            {
+              "ar": "وَٱلَّذِينَ",
+              "en": "And those who",
+              "bn": "এবং তারা যখন",
+              "role": {
+                "en": "and + relative pronoun (masc. plural)",
+                "bn": "এবং + সম্বন্ধবাচক সর্বনাম (পুংলিঙ্গ বহুবচন)"
+              }
+            },
+            {
+              "ar": "يُظَٰهِرُونَ",
+              "en": "pronounce zihar",
+              "bn": "যিহার করে",
+              "role": {
+                "en": "Form III present verb + subject 'they'",
+                "bn": "তৃতীয় রূপের বর্তমান ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "مِن",
+              "en": "[from]",
+              "bn": "সাথে",
+              "role": {
+                "en": "preposition min 'from'",
+                "bn": "অব্যয় মিন 'থেকে'"
+              }
+            },
+            {
+              "ar": "نِّسَآئِهِمْ",
+              "en": "(to) their wives",
+              "bn": "তাদের স্ত্রীদের",
+              "role": {
+                "en": "genitive plural noun + 'their'",
+                "bn": "মাজরুর বহুবচন বিশেষ্য + 'তাদের'"
+              }
+            },
+            {
+              "ar": "ثُمَّ",
+              "en": "then",
+              "bn": "এরপর",
+              "role": {
+                "en": "conjunction thumma 'then'",
+                "bn": "সংযোজক অব্যয় সুম্মা 'তারপর'"
+              }
+            },
+            {
+              "ar": "يَعُودُونَ",
+              "en": "go back",
+              "bn": "ফিরে যায়",
+              "role": {
+                "en": "present verb + subject 'they'",
+                "bn": "বর্তমান ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "لِمَا",
+              "en": "on what",
+              "bn": "(তা হতে) যা",
+              "role": {
+                "en": "li- + relative mā 'what'",
+                "bn": "অব্যয় লি + সম্বন্ধবাচক মা 'যা'"
+              }
+            },
+            {
+              "ar": "قَالُوا۟",
+              "en": "they said",
+              "bn": "তারা বলেছিল",
+              "role": {
+                "en": "past verb + subject 'they'",
+                "bn": "অতীত ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "فَتَحْرِيرُ",
+              "en": "then freeing",
+              "bn": "মুক্ত করতে হবে",
+              "role": {
+                "en": "then + nom. Form II verbal noun (muḍāf)",
+                "bn": "তবে + মারফু দ্বিতীয় রূপের ক্রিয়াবাচক বিশেষ্য (মুদাফ)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "رَقَبَةٍ",
+              "en": "(of) a slave",
+              "bn": "একজন দাস",
+              "role": {
+                "en": "indef. genitive noun (muḍāf ilayh)",
+                "bn": "অনির্দিষ্ট মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "مِّن",
+              "en": "before",
+              "bn": "থেকে",
+              "role": {
+                "en": "preposition min 'from'",
+                "bn": "অব্যয় মিন 'থেকে'"
+              }
+            },
+            {
+              "ar": "قَبْلِ",
+              "en": "before",
+              "bn": "পূর্বে",
+              "role": {
+                "en": "genitive noun 'before' (muḍāf)",
+                "bn": "মাজরুর বিশেষ্য 'আগে' (মুদাফ)"
+              }
+            },
+            {
+              "ar": "أَن",
+              "en": "[that]",
+              "bn": "যে",
+              "role": {
+                "en": "particle an 'that' (+ subjunctive)",
+                "bn": "অব্যয় আন 'যে' (পরের ক্রিয়া মানসুব)"
+              }
+            },
+            {
+              "ar": "يَتَمَآسَّا",
+              "en": "they touch each other",
+              "bn": "পরস্পরকে স্পর্শ করার",
+              "role": {
+                "en": "Form VI present verb, subjunctive + 'the two'",
+                "bn": "ষষ্ঠ রূপের বর্তমান ক্রিয়া, মানসুব + 'তারা দুজন'"
+              }
+            },
+            {
+              "ar": "ذَٰلِكُمْ",
+              "en": "That",
+              "bn": "এসব",
+              "role": {
+                "en": "demonstrative 'that' + -kum 'you' (pl.)",
+                "bn": "নির্দেশক সর্বনাম 'ওটা' + -কুম 'তোমরা'"
+              }
+            },
+            {
+              "ar": "تُوعَظُونَ",
+              "en": "you are admonished",
+              "bn": "তোমাদের উপদেশ দেয়া হচ্ছে",
+              "role": {
+                "en": "passive present verb + 'you' (pl.)",
+                "bn": "কর্মবাচ্য বর্তমান ক্রিয়া + 'তোমরা'"
+              }
+            },
+            {
+              "ar": "بِهِۦ",
+              "en": "to it",
+              "bn": "এদ্বারা",
+              "role": {
+                "en": "bi- + pronoun 'it'",
+                "bn": "অব্যয় বি + সর্বনাম 'তা'"
+              }
+            },
+            {
+              "ar": "وَٱللَّهُ",
+              "en": "And Allah",
+              "bn": "এবং আল্লাহ্‌",
+              "role": {
+                "en": "and + nominative proper noun (mubtadaʾ)",
+                "bn": "এবং + মারফু নামবাচক বিশেষ্য (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "بِمَا",
+              "en": "of what",
+              "bn": "ঐ বিষয়ে যা",
+              "role": {
+                "en": "bi- 'of' + relative mā 'what'",
+                "bn": "অব্যয় বি + সম্বন্ধবাচক মা 'যা'"
+              }
+            },
+            {
+              "ar": "تَعْمَلُونَ",
+              "en": "you do",
+              "bn": "তোমরা কাজ কর",
+              "role": {
+                "en": "present verb + subject 'you' (pl.)",
+                "bn": "বর্তমান ক্রিয়া + কর্তা 'তোমরা'"
+              }
+            },
+            {
+              "ar": "خَبِيرٌ",
+              "en": "(is) All-Aware",
+              "bn": "খুব অবহিত",
+              "role": {
+                "en": "indef. nominative noun (khabar)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষ্য (খবর)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "58:4",
+          "trans": {
+            "en": "And he who does not find [a slave] - then a fast for two months consecutively before they touch one another; and he who is unable - then the feeding of sixty poor persons. That is for you to believe [completely] in Allāh and His Messenger; and those are the limits [set by] Allāh. And for the disbelievers is a painful punishment.",
+            "bn": "কিন্তু যার (দাস সংগ্রহ করার) সামর্থ্য নেই, সে এক নাগাড়ে দু’মাস রোযা রাখবে পরস্পরকে স্পর্শ করার পূর্বে। আর যে তা করতে পারবে না, সে ষাট জন মিসকীনকে খাবার খাওয়াবে। এ নির্দেশ দেয়া হচ্ছে এ জন্য যাতে তোমরা আল্লাহ ও তাঁর রসূলের প্রতি ঈমান আনো। এগুলো আল্লাহর নির্ধারিত সীমা। (যারা এটা অস্বীকার করবে সেই) কাফিরদের জন্য আছে মর্মান্তিক শাস্তি।"
+          },
+          "note": {
+            "en": "fa-ṣiyāmu shahrayni and fa-iṭʿāmu sittīna repeat the pattern of 58:3: a nominative noun naming an action, then a genitive. miskīnan is accusative and singular because a number from twenty to ninety takes an accusative singular noun (tamyīz) to say what is counted.",
+            "bn": "ফা-সিয়ামু শাহরাইনি আর ফা-ইত'আমু সিত্তীনা ৫৮:৩-এর ধাঁচটাই আবার আনে: কাজের নাম বোঝানো মারফু বিশেষ্য, তারপর একটি মাজরুর শব্দ। মিসকীনান মানসুব ও একবচন। বিশ থেকে নব্বই পর্যন্ত সংখ্যার পরে কী গোনা হচ্ছে, তা জানায় একটি মানসুব একবচন বিশেষ্য (তাময়ীয)।"
+          },
+          "words": [
+            {
+              "ar": "فَمَن",
+              "en": "Then whoever",
+              "bn": "যে অতঃপর",
+              "role": {
+                "en": "fa- + man 'whoever'",
+                "bn": "ফা + মান 'যে'"
+              }
+            },
+            {
+              "ar": "لَّمْ",
+              "en": "(does) not",
+              "bn": "না",
+              "role": {
+                "en": "negative particle lam",
+                "bn": "নেতিবাচক অব্যয় লাম"
+              }
+            },
+            {
+              "ar": "يَجِدْ",
+              "en": "find",
+              "bn": "পায় (কোন দাস)",
+              "role": {
+                "en": "present verb, jussive after lam",
+                "bn": "বর্তমান ক্রিয়া, লাম-এর পরে মাজযুম"
+              }
+            },
+            {
+              "ar": "فَصِيَامُ",
+              "en": "then fasting",
+              "bn": "তবে রোজা রাখবে",
+              "role": {
+                "en": "then + nominative noun 'fasting' (muḍāf)",
+                "bn": "তবে + মারফু বিশেষ্য 'রোজা' (মুদাফ)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "شَهْرَيْنِ",
+              "en": "(for) two months",
+              "bn": "দু'মাস",
+              "role": {
+                "en": "genitive dual noun (muḍāf ilayh)",
+                "bn": "মাজরুর দ্বিবচন বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "مُتَتَابِعَيْنِ",
+              "en": "consecutively",
+              "bn": "একটানা",
+              "role": {
+                "en": "genitive dual Form VI participle (naʿt)",
+                "bn": "মাজরুর দ্বিবচন ষষ্ঠ রূপের ইসমে ফা'য়িল (না'ত)"
+              }
+            },
+            {
+              "ar": "مِن",
+              "en": "before",
+              "bn": "থেকে",
+              "role": {
+                "en": "preposition min 'from'",
+                "bn": "অব্যয় মিন 'থেকে'"
+              }
+            },
+            {
+              "ar": "قَبْلِ",
+              "en": "before",
+              "bn": "পূর্বে",
+              "role": {
+                "en": "genitive noun 'before' (muḍāf)",
+                "bn": "মাজরুর বিশেষ্য 'আগে' (মুদাফ)"
+              }
+            },
+            {
+              "ar": "أَن",
+              "en": "[that]",
+              "bn": "যে",
+              "role": {
+                "en": "particle an 'that' (+ subjunctive)",
+                "bn": "অব্যয় আন 'যে' (পরের ক্রিয়া মানসুব)"
+              }
+            },
+            {
+              "ar": "يَتَمَآسَّا",
+              "en": "they both touch each other",
+              "bn": "পরস্পরে স্পর্শ করার",
+              "role": {
+                "en": "Form VI present verb, subjunctive + 'the two'",
+                "bn": "ষষ্ঠ রূপের বর্তমান ক্রিয়া, মানসুব + 'তারা দুজন'"
+              }
+            },
+            {
+              "ar": "فَمَن",
+              "en": "But (he) who",
+              "bn": "যে অতঃপর",
+              "role": {
+                "en": "fa- + man 'whoever'",
+                "bn": "ফা + মান 'যে'"
+              }
+            },
+            {
+              "ar": "لَّمْ",
+              "en": "not",
+              "bn": "না",
+              "role": {
+                "en": "negative particle lam",
+                "bn": "নেতিবাচক অব্যয় লাম"
+              }
+            },
+            {
+              "ar": "يَسْتَطِعْ",
+              "en": "is able",
+              "bn": "সমর্থ হবে",
+              "role": {
+                "en": "Form X present verb, jussive after lam",
+                "bn": "দশম রূপের বর্তমান ক্রিয়া, লাম-এর পরে মাজযুম"
+              }
+            },
+            {
+              "ar": "فَإِطْعَامُ",
+              "en": "then (the) feeding",
+              "bn": "তবে খানা খাওয়াবে",
+              "role": {
+                "en": "then + nom. Form IV verbal noun (muḍāf)",
+                "bn": "তবে + মারফু চতুর্থ রূপের ক্রিয়াবাচক বিশেষ্য (মুদাফ)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "سِتِّينَ",
+              "en": "(of) sixty",
+              "bn": "ষাটজন",
+              "role": {
+                "en": "genitive number 'sixty' (muḍāf ilayh)",
+                "bn": "মাজরুর সংখ্যা 'ষাট' (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "مِسْكِينًا",
+              "en": "needy one(s)",
+              "bn": "নিঃস্বকে",
+              "role": {
+                "en": "indef. accusative noun (tamyīz)",
+                "bn": "অনির্দিষ্ট মানসুব বিশেষ্য (তাময়ীয)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ذَٰلِكَ",
+              "en": "That",
+              "bn": "এটা (এজন্যে)",
+              "role": {
+                "en": "demonstrative 'that'",
+                "bn": "নির্দেশক সর্বনাম 'ওটা'"
+              }
+            },
+            {
+              "ar": "لِتُؤْمِنُوا۟",
+              "en": "so that you may believe",
+              "bn": "যেন তোমরা ঈমান আন",
+              "role": {
+                "en": "li- 'so that' + Form IV subj. verb + 'you'",
+                "bn": "লি 'যাতে' + চতুর্থ রূপের মানসুব ক্রিয়া + 'তোমরা'"
+              }
+            },
+            {
+              "ar": "بِٱللَّهِ",
+              "en": "in Allah",
+              "bn": "আল্লাহ্‌র উপর",
+              "role": {
+                "en": "bi- 'in' + genitive proper noun",
+                "bn": "অব্যয় বি + মাজরুর নামবাচক বিশেষ্য"
+              }
+            },
+            {
+              "ar": "وَرَسُولِهِۦ",
+              "en": "and His Messenger",
+              "bn": "এবং তাঁর রাসূলের (উপর)",
+              "role": {
+                "en": "and + genitive noun (joined) + 'His'",
+                "bn": "এবং + মাজরুর বিশেষ্য (যুক্ত) + 'তাঁর'"
+              }
+            },
+            {
+              "ar": "وَتِلْكَ",
+              "en": "and these",
+              "bn": "এবং এটা",
+              "role": {
+                "en": "and + demonstrative 'those' (fem.)",
+                "bn": "এবং + নির্দেশক সর্বনাম 'ওগুলো' (স্ত্রীলিঙ্গ)"
+              }
+            },
+            {
+              "ar": "حُدُودُ",
+              "en": "(are the) limits",
+              "bn": "নির্ধারিত সীমাসমূহ",
+              "role": {
+                "en": "nominative plural noun (khabar), muḍāf",
+                "bn": "মারফু বহুবচন বিশেষ্য (খবর), মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱللَّهِ",
+              "en": "(of) Allah",
+              "bn": "আল্লাহ্‌র",
+              "role": {
+                "en": "genitive proper noun (muḍāf ilayh)",
+                "bn": "মাজরুর নামবাচক বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "وَلِلْكَٰفِرِينَ",
+              "en": "and for the disbelievers",
+              "bn": "এবং কাফিরদের জন্য (রয়েছে)",
+              "role": {
+                "en": "and + li- + def. participle (fronted khabar)",
+                "bn": "এবং + লি + আল + ইসমে ফা'য়িল (আগে আসা খবর)"
+              }
+            },
+            {
+              "ar": "عَذَابٌ",
+              "en": "(is) a punishment",
+              "bn": "শাস্তি",
+              "role": {
+                "en": "indef. nominative noun (delayed mubtadaʾ)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষ্য (বিলম্বিত মুবতাদা)"
+              }
+            },
+            {
+              "ar": "أَلِيمٌ",
+              "en": "painful",
+              "bn": "যন্ত্রণাদায়ক",
+              "role": {
+                "en": "indef. nominative adjective (naʿt)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষণ (না'ত)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "In فَتَحْرِيرُ رَقَبَةٍ (58:3), what is رَقَبَةٍ?",
+          "bn": "فَتَحْرِيرُ رَقَبَةٍ (৫৮:৩)-এ رَقَبَةٍ কী?"
+        },
+        "options": [
+          {
+            "en": "The subject of a verb \"to free\"",
+            "bn": "\"মুক্ত করা\" ক্রিয়ার কর্তা"
+          },
+          {
+            "en": "An adjective describing taḥrīru",
+            "bn": "তাহরীরু-র বিশেষণ"
+          },
+          {
+            "en": "An accusative object after a verb",
+            "bn": "কোনো ক্রিয়ার পরে আসা মানসুব কর্ম"
+          },
+          {
+            "en": "The muḍāf ilayh of the verbal noun: what is freed",
+            "bn": "ক্রিয়াবাচক বিশেষ্যের মুদাফ ইলাইহি: যাকে মুক্ত করা হয়"
+          }
+        ],
+        "answer": 3,
+        "explain": {
+          "en": "taḥrīru is a verbal noun, and raqabatin is genitive as its muḍāf ilayh, naming what the freeing falls on. There is no verb here, and raqabatin is genitive, not accusative.",
+          "bn": "তাহরীরু ক্রিয়াবাচক বিশেষ্য, আর রাকাবাতিন তার মুদাফ ইলাইহি হিসেবে মাজরুর, যা জানায় মুক্তিটা কার। এখানে কোনো ক্রিয়া নেই, আর রাকাবাতিন মাজরুর, মানসুব নয়।"
+        }
+      }
+    },
+    {
+      "id": "read-58-3",
+      "unit": "read-58",
+      "icon": "📖",
+      "title": {
+        "en": "al-Mujādilah 5-6: the passive kubita and verb agreement",
+        "bn": "আল-মুজাদালাহ ৫-৬: কর্মবাচ্য কুবিতা ও ক্রিয়ার বচন"
+      },
+      "concept": {
+        "en": "A past verb voweled u-i is passive: <b>kubita</b> \"was abased\", with the doer left unnamed. When the people meant were named before the verb, it shows the plural: alladhīna … <b>kubitū</b>. When the verb comes first it stays singular, even before a plural: <b>kubita lladhīna</b> min qablihim (58:5).",
+        "bn": "উ-ই স্বরের অতীত ক্রিয়া কর্মবাচ্য (মাজহুল): <b>কুবিতা</b>, \"লাঞ্ছিত করা হলো\"। কে করল, তা বলা হয় না। যাদের কথা, তারা ক্রিয়ার আগে উল্লিখিত হলে ক্রিয়া বহুবচন হয়: আল্লাযীনা ... <b>কুবিতূ</b>। ক্রিয়া আগে এলে বহুবচনের আগেও একবচন থাকে: <b>কুবিতাল লাযীনা</b> মিন কাবলিহিম (৫৮:৫)।"
+      },
+      "examples": [
+        {
+          "ref": "58:5",
+          "trans": {
+            "en": "Indeed, those who oppose Allāh and His Messenger are abased as those before them were abased. And We have certainly sent down verses of clear evidence. And for the disbelievers is a humiliating punishment",
+            "bn": "যারা আল্লাহ ও তাঁর রসূলের বিরোধিতা করে তাদেরকে লাঞ্ছিত করা হবে যেমন লাঞ্ছিত করা হয়েছিল তাদের পূর্ববর্তীদেরকে। আমি সুস্পষ্ট আয়াত অবতীর্ণ করেছি আর (অস্বীকারকারী) কাফিরদের জন্য আছে অপমানজনক শাস্তি,"
+          },
+          "note": {
+            "en": "kubitū is a passive past verb (vowels u-i, 'are abased'), and its -ū shows a plural subject, because 'those who oppose' were named before it. In kamā kubita lladhīna the same verb comes first, so it stays singular, although alladhīna, its nāʾib fāʿil, is plural.",
+            "bn": "কুবিতূ কর্মবাচ্য অতীত ক্রিয়া (স্বর উ-ই, \"লাঞ্ছিত করা হবে\")। শেষের -ঊ বহুবচন কর্তা দেখায়, কারণ \"যারা বিরোধিতা করে\" তাদের কথা আগেই এসেছে। কামা কুবিতাল লাযীনা-তে একই ক্রিয়া আগে বসেছে, তাই একবচনই রয়ে গেছে, যদিও তার নায়েবে ফা'য়িল আল্লাযীনা বহুবচন।"
+          },
+          "words": [
+            {
+              "ar": "إِنَّ",
+              "en": "Indeed",
+              "bn": "নিশ্চয়ই",
+              "role": {
+                "en": "emphatic particle inna",
+                "bn": "জোরারোপক অব্যয় ইন্না"
+              }
+            },
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "those who",
+              "bn": "যারা",
+              "role": {
+                "en": "relative pronoun (masc. pl.), inna's noun",
+                "bn": "সম্বন্ধবাচক সর্বনাম (পুং. বহু.), ইন্না-র ইসম"
+              }
+            },
+            {
+              "ar": "يُحَآدُّونَ",
+              "en": "oppose",
+              "bn": "বিরোধিতা করে",
+              "role": {
+                "en": "Form III present verb + subject 'they'",
+                "bn": "তৃতীয় রূপের বর্তমান ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "ٱللَّهَ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌র",
+              "role": {
+                "en": "accusative proper noun (object)",
+                "bn": "মানসুব নামবাচক বিশেষ্য (কর্ম)"
+              }
+            },
+            {
+              "ar": "وَرَسُولَهُۥ",
+              "en": "and His Messenger",
+              "bn": "তাঁর রাসুলের",
+              "role": {
+                "en": "and + accusative noun (joined) + 'His'",
+                "bn": "এবং + মানসুব বিশেষ্য (যুক্ত) + 'তাঁর'"
+              }
+            },
+            {
+              "ar": "كُبِتُوا۟",
+              "en": "(will) be disgraced",
+              "bn": "তাদের লাঞ্ছিত করা হবে",
+              "role": {
+                "en": "passive past verb + -ū 'they'",
+                "bn": "কর্মবাচ্য অতীত ক্রিয়া + -ঊ 'তারা'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "كَمَا",
+              "en": "as",
+              "bn": "যেমন",
+              "role": {
+                "en": "ka- 'like' + particle mā",
+                "bn": "কা 'মতো' + অব্যয় মা"
+              }
+            },
+            {
+              "ar": "كُبِتَ",
+              "en": "were disgraced",
+              "bn": "লাঞ্ছিত করা হয়েছিল",
+              "role": {
+                "en": "passive past verb, singular",
+                "bn": "কর্মবাচ্য অতীত ক্রিয়া, একবচন"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "those",
+              "bn": "(তাদেরকে) যারা",
+              "role": {
+                "en": "relative pronoun (masc. pl.), nāʾib fāʿil",
+                "bn": "সম্বন্ধবাচক সর্বনাম (পুং. বহু.), নায়েবে ফা'য়িল"
+              },
+              "hl": true
+            },
+            {
+              "ar": "مِن",
+              "en": "before them",
+              "bn": "থেকে",
+              "role": {
+                "en": "preposition min 'from'",
+                "bn": "অব্যয় মিন 'থেকে'"
+              }
+            },
+            {
+              "ar": "قَبْلِهِمْ",
+              "en": "before them",
+              "bn": "তাদের পূর্বে (ছিল)",
+              "role": {
+                "en": "genitive noun 'before' + 'them'",
+                "bn": "মাজরুর বিশেষ্য 'আগে' + 'তাদের'"
+              }
+            },
+            {
+              "ar": "وَقَدْ",
+              "en": "And certainly",
+              "bn": "এবং নিশ্চয়ই",
+              "role": {
+                "en": "and + particle qad 'certainly'",
+                "bn": "এবং + অব্যয় কাদ 'নিশ্চয়ই'"
+              }
+            },
+            {
+              "ar": "أَنزَلْنَآ",
+              "en": "We have sent down",
+              "bn": "আমরা অবতীর্ণ করেছি",
+              "role": {
+                "en": "Form IV past verb + subject 'We'",
+                "bn": "চতুর্থ রূপের অতীত ক্রিয়া + কর্তা 'আমরা'"
+              }
+            },
+            {
+              "ar": "ءَايَٰتٍۭ",
+              "en": "Verses",
+              "bn": "আয়াতসমূহ",
+              "role": {
+                "en": "indef. acc. fem. plural noun (object)",
+                "bn": "অনির্দিষ্ট মানসুব স্ত্রী. বহুবচন বিশেষ্য (কর্ম)"
+              }
+            },
+            {
+              "ar": "بَيِّنَٰتٍ",
+              "en": "clear",
+              "bn": "সুস্পষ্ট",
+              "role": {
+                "en": "indef. acc. fem. plural adjective (naʿt)",
+                "bn": "অনির্দিষ্ট মানসুব স্ত্রী. বহুবচন বিশেষণ (না'ত)"
+              }
+            },
+            {
+              "ar": "وَلِلْكَٰفِرِينَ",
+              "en": "And for the disbelievers",
+              "bn": "এবং কাফিরদের জন্যে রয়েছে",
+              "role": {
+                "en": "and + li- + def. participle (fronted khabar)",
+                "bn": "এবং + লি + আল + ইসমে ফা'য়িল (আগে আসা খবর)"
+              }
+            },
+            {
+              "ar": "عَذَابٌ",
+              "en": "(is) a punishment",
+              "bn": "শাস্তি",
+              "role": {
+                "en": "indef. nominative noun (delayed mubtadaʾ)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষ্য (বিলম্বিত মুবতাদা)"
+              }
+            },
+            {
+              "ar": "مُّهِينٌ",
+              "en": "humiliating",
+              "bn": "অপমানকর",
+              "role": {
+                "en": "indef. nom. Form IV participle (naʿt)",
+                "bn": "অনির্দিষ্ট মারফু চতুর্থ রূপের ইসমে ফা'য়িল (না'ত)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "58:6",
+          "trans": {
+            "en": "On the Day when Allāh will resurrect them all and inform them of what they did. Allāh had enumerated it, while they forgot it; and Allāh is, over all things, Witness.",
+            "bn": "সেদিন, যেদিন আল্লাহ তাদের সকলকে আবার জীবিত করে উঠাবেন এবং তাদের কৃতকর্মের সংবাদ তাদেরকে জানিয়ে দিবেন, আল্লাহ তা হিসেব করে রেখেছেন যদিও তারা (নিজেরা) ভুলে গেছে। আল্লাহ প্রতিটি বিষয়ের প্রত্যক্ষদর্শী।"
+          },
+          "note": {
+            "en": "Unlike the passive verbs of 58:5, aḥṣāhu names its doer: Allāhu, nominative, follows it, and the -hu is the object 'it'. wa-nasūhu is a clause of state (ḥāl) opened by wa: 'while they forgot it'.",
+            "bn": "৫৮:৫-এর কর্মবাচ্য ক্রিয়াগুলোর মতো নয়, আহসাহু-র কর্তার নাম বলা আছে: পরের মারফু আল্লাহু। শেষের -হু হলো কর্ম \"তা\"। ওয়া-নাসূহু ওয়া দিয়ে শুরু হওয়া অবস্থাবাচক বাক্যাংশ (হাল): \"অথচ তারা তা ভুলে গেছে\"।"
+          },
+          "words": [
+            {
+              "ar": "يَوْمَ",
+              "en": "(On the) Day",
+              "bn": "যেদিন",
+              "role": {
+                "en": "accusative time noun 'the Day'",
+                "bn": "মানসুব সময়বাচক বিশেষ্য 'দিন'"
+              }
+            },
+            {
+              "ar": "يَبْعَثُهُمُ",
+              "en": "(when) Allah will raise them",
+              "bn": "তাদের উত্থিত করবেন",
+              "role": {
+                "en": "present verb + obj. 'them'",
+                "bn": "বর্তমান ক্রিয়া + কর্ম 'তাদের'"
+              }
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "(when) Allah will raise them",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "جَمِيعًا",
+              "en": "all",
+              "bn": "সকলকেই",
+              "role": {
+                "en": "indef. accusative noun 'all together'",
+                "bn": "অনির্দিষ্ট মানসুব বিশেষ্য 'সবাইকে একসঙ্গে'"
+              }
+            },
+            {
+              "ar": "فَيُنَبِّئُهُم",
+              "en": "and inform them",
+              "bn": "অতঃপর তাদের জানিয়ে দিবেন",
+              "role": {
+                "en": "and + Form II present verb + obj. 'them'",
+                "bn": "আর + দ্বিতীয় রূপের বর্তমান ক্রিয়া + কর্ম 'তাদের'"
+              }
+            },
+            {
+              "ar": "بِمَا",
+              "en": "of what",
+              "bn": "যা",
+              "role": {
+                "en": "bi- 'of' + relative mā 'what'",
+                "bn": "অব্যয় বি + সম্বন্ধবাচক মা 'যা'"
+              }
+            },
+            {
+              "ar": "عَمِلُوٓا۟",
+              "en": "they did",
+              "bn": "তারা কাজ করেছে",
+              "role": {
+                "en": "past verb + subject 'they'",
+                "bn": "অতীত ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "أَحْصَىٰهُ",
+              "en": "Allah has recorded it",
+              "bn": "তা গুণে রেখেছেন",
+              "role": {
+                "en": "Form IV past verb + obj. 'it'",
+                "bn": "চতুর্থ রূপের অতীত ক্রিয়া + কর্ম 'তা'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah has recorded it",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "وَنَسُوهُ",
+              "en": "while they forgot it",
+              "bn": "অথচ তা তারা ভুলে গেছে",
+              "role": {
+                "en": "wāw of ḥāl + past verb + 'they' + obj. 'it'",
+                "bn": "হালের ওয়াও + অতীত ক্রিয়া + 'তারা' + কর্ম 'তা'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "وَٱللَّهُ",
+              "en": "And Allah",
+              "bn": "এবং আল্লাহ্‌",
+              "role": {
+                "en": "and + nominative proper noun (mubtadaʾ)",
+                "bn": "এবং + মারফু নামবাচক বিশেষ্য (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "عَلَىٰ",
+              "en": "(is) over",
+              "bn": "উপর",
+              "role": {
+                "en": "preposition ʿalā 'over'",
+                "bn": "অব্যয় আলা 'ওপর'"
+              }
+            },
+            {
+              "ar": "كُلِّ",
+              "en": "all",
+              "bn": "সব",
+              "role": {
+                "en": "genitive noun 'every' (muḍāf)",
+                "bn": "মাজরুর বিশেষ্য 'প্রতিটি' (মুদাফ)"
+              }
+            },
+            {
+              "ar": "شَىْءٍ",
+              "en": "things",
+              "bn": "কিছুরই",
+              "role": {
+                "en": "indef. genitive noun (muḍāf ilayh)",
+                "bn": "অনির্দিষ্ট মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "شَهِيدٌ",
+              "en": "a Witness",
+              "bn": "সাক্ষী",
+              "role": {
+                "en": "indef. nominative adjective (khabar)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষণ (খবর)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "Why is كُبِتَ (58:5) singular, though ٱلَّذِينَ after it is plural?",
+          "bn": "كُبِتَ (৫৮:৫) একবচন কেন, যদিও পরের ٱلَّذِينَ বহুবচন?"
+        },
+        "options": [
+          {
+            "en": "Because a verb placed before its subject stays singular",
+            "bn": "কর্তার আগে বসা ক্রিয়া একবচনই থাকে"
+          },
+          {
+            "en": "Because it is active, not passive",
+            "bn": "কারণ এটি কর্তৃবাচ্য, কর্মবাচ্য নয়"
+          },
+          {
+            "en": "Because ٱلَّذِينَ is its object",
+            "bn": "কারণ ٱلَّذِينَ এর কর্ম"
+          },
+          {
+            "en": "Because the doer, Allāh, is singular",
+            "bn": "কারণ কর্তা আল্লাহ একবচন"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "kubita is passive, and alladhīna is its nāʾib fāʿil. A verb that comes before its subject stays singular; earlier, in alladhīna … kubitū, the people were named first, so the verb shows the plural.",
+          "bn": "কুবিতা কর্মবাচ্য, আর আল্লাযীনা তার নায়েবে ফা'য়িল। কর্তার আগে এলে ক্রিয়া একবচনই থাকে। আগের আল্লাযীনা ... কুবিতূ-তে মানুষগুলোর কথা আগে এসেছে, তাই সেখানে ক্রিয়া বহুবচন।"
+        }
+      }
+    },
+    {
+      "id": "read-58-4",
+      "unit": "read-58",
+      "icon": "📖",
+      "title": {
+        "en": "al-Mujādilah 7-8: a-lam tara, \"have you not seen?\"",
+        "bn": "আল-মুজাদালাহ ৭-৮: আ-লাম তারা, \"তুমি কি দেখোনি?\""
+      },
+      "concept": {
+        "en": "<b>a-lam tara</b> joins three parts: the question a-, the negative lam, and the verb tarā \"you see\". lam puts a present verb in the jussive and gives it a past sense, and in tarā the jussive drops the long ā: <b>tara</b>. Together they ask \"Have you not considered …?\"",
+        "bn": "<b>আ-লাম তারা</b> তিনটি অংশে গড়া: প্রশ্নের আ, নেতিবাচক লাম, আর ক্রিয়া تَرَىٰ (\"তুমি দেখো\")। লাম বর্তমান ক্রিয়াকে মাজযুম করে এবং অর্থে অতীতের ভাব আনে। মাজযুম হওয়ায় تَرَىٰ-র দীর্ঘ আ পড়ে যায়: <b>تَرَ</b>। সব মিলে প্রশ্ন: \"তুমি কি দেখোনি ...?\""
+      },
+      "examples": [
+        {
+          "ref": "58:7",
+          "trans": {
+            "en": "Have you not considered that Allāh knows what is in the heavens and what is on the earth? There are not three in a private conversation but that He is the fourth of them, nor are there five but that He is the sixth of them - and no less than that and no more except that He is with them [in knowledge] wherever they are. Then He will inform them of what they did, on the Day of Resurrection. Indeed Allāh is, of all things, Knowing.",
+            "bn": "তুমি কি জান না যে, যা আকাশে আছে আর যা যমীনে আছে আল্লাহ সব জানেন। তিনজনের মধ্যে এমন কোন গোপন পরামর্শ হয় না যাতে চতুর্থজন আল্লাহ হন না, আর পাঁচজনেও হয় না, ষষ্ঠজন তিনি ছাড়া, এর কম সংখ্যকেও হয় না, আর বেশি সংখ্যকেও হয় না, তিনি তাদের সঙ্গে থাকা ব্যতীত, তারা যেখানেই থাকুক না কেন। অতঃপর ক্বিয়ামত দিবসে তিনি জানিয়ে দেবেন যা তারা ‘আমাল করেছিল। আল্লাহ সকল বিষয়ে পূর্ণভাবে অবগত।"
+          },
+          "note": {
+            "en": "a-lam tara: the question a-, then lam, which puts the present verb in the jussive and gives it a past sense. In the jussive the long ā of tarā drops, leaving tara: 'Have you not considered?'",
+            "bn": "আ-লাম তারা (أَلَمْ تَرَ): প্রথমে প্রশ্নের আ, তারপর লাম। লাম বর্তমান ক্রিয়াকে মাজযুম করে, আর অর্থে অতীতের ভাব আনে। মাজযুম হওয়ায় تَرَىٰ-র শেষের দীর্ঘ আ পড়ে গিয়ে থাকে تَرَ: \"তুমি কি দেখোনি?\""
+          },
+          "words": [
+            {
+              "ar": "أَلَمْ",
+              "en": "Do not",
+              "bn": "না কি",
+              "role": {
+                "en": "question a- + negative particle lam",
+                "bn": "প্রশ্নবোধক আ + নেতিবাচক অব্যয় লাম"
+              },
+              "hl": true
+            },
+            {
+              "ar": "تَرَ",
+              "en": "you see",
+              "bn": "তুমি জানো",
+              "role": {
+                "en": "present verb, jussive (long ā dropped)",
+                "bn": "বর্তমান ক্রিয়া, মাজযুম (শেষের দীর্ঘ আ লোপ)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "أَنَّ",
+              "en": "that",
+              "bn": "যে",
+              "role": {
+                "en": "particle anna 'that'",
+                "bn": "অব্যয় আন্না 'যে'"
+              }
+            },
+            {
+              "ar": "ٱللَّهَ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "accusative proper noun (anna's noun)",
+                "bn": "মানসুব নামবাচক বিশেষ্য (আন্না-র ইসম)"
+              }
+            },
+            {
+              "ar": "يَعْلَمُ",
+              "en": "knows",
+              "bn": "জানেন",
+              "role": {
+                "en": "present verb 'knows' (anna's khabar)",
+                "bn": "বর্তমান ক্রিয়া 'জানেন' (আন্না-র খবর)"
+              }
+            },
+            {
+              "ar": "مَا",
+              "en": "whatever",
+              "bn": "যা কিছু",
+              "role": {
+                "en": "relative mā 'what' (object)",
+                "bn": "সম্বন্ধবাচক মা 'যা' (কর্ম)"
+              }
+            },
+            {
+              "ar": "فِى",
+              "en": "(is) in",
+              "bn": "মধ্যে আছে",
+              "role": {
+                "en": "preposition fī 'in'",
+                "bn": "অব্যয় ফী 'মধ্যে'"
+              }
+            },
+            {
+              "ar": "ٱلسَّمَٰوَٰتِ",
+              "en": "the heavens",
+              "bn": "আকাশসমূহের",
+              "role": {
+                "en": "def. genitive plural noun",
+                "bn": "আল + মাজরুর বহুবচন বিশেষ্য"
+              }
+            },
+            {
+              "ar": "وَمَا",
+              "en": "and whatever",
+              "bn": "এবং যা কিছু",
+              "role": {
+                "en": "and + relative mā (joined)",
+                "bn": "এবং + সম্বন্ধবাচক মা (যুক্ত)"
+              }
+            },
+            {
+              "ar": "فِى",
+              "en": "(is) in",
+              "bn": "মধ্যে আছে",
+              "role": {
+                "en": "preposition fī 'in'",
+                "bn": "অব্যয় ফী 'মধ্যে'"
+              }
+            },
+            {
+              "ar": "ٱلْأَرْضِ",
+              "en": "the earth",
+              "bn": "পৃথিবীর",
+              "role": {
+                "en": "def. genitive noun",
+                "bn": "আল + মাজরুর বিশেষ্য"
+              }
+            },
+            {
+              "ar": "مَا",
+              "en": "Not",
+              "bn": "না",
+              "role": {
+                "en": "negative particle mā",
+                "bn": "নেতিবাচক অব্যয় মা"
+              }
+            },
+            {
+              "ar": "يَكُونُ",
+              "en": "there is",
+              "bn": "হতে পারে",
+              "role": {
+                "en": "present verb yakūnu 'there is'",
+                "bn": "বর্তমান ক্রিয়া ইয়াকূনু 'হয়'"
+              }
+            },
+            {
+              "ar": "مِن",
+              "en": "any",
+              "bn": "কোনো",
+              "role": {
+                "en": "min 'any' (after a negative)",
+                "bn": "মিন 'কোনো' (না-বোধক বাক্যে)"
+              }
+            },
+            {
+              "ar": "نَّجْوَىٰ",
+              "en": "secret counsel",
+              "bn": "গোপন পরামর্শ",
+              "role": {
+                "en": "genitive noun 'secret talk' (muḍāf)",
+                "bn": "মাজরুর বিশেষ্য 'গোপন পরামর্শ' (মুদাফ)"
+              }
+            },
+            {
+              "ar": "ثَلَٰثَةٍ",
+              "en": "(of) three",
+              "bn": "তিনজনের",
+              "role": {
+                "en": "indef. genitive number 'three' (muḍāf ilayh)",
+                "bn": "অনির্দিষ্ট মাজরুর সংখ্যা 'তিন' (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "إِلَّا",
+              "en": "but",
+              "bn": "এছাড়া",
+              "role": {
+                "en": "particle illā 'but'",
+                "bn": "অব্যয় ইল্লা 'ছাড়া'"
+              }
+            },
+            {
+              "ar": "هُوَ",
+              "en": "He (is)",
+              "bn": "তিনি (থাকেন)",
+              "role": {
+                "en": "pronoun 'He' (mubtadaʾ)",
+                "bn": "সর্বনাম 'তিনি' (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "رَابِعُهُمْ",
+              "en": "(the) fourth of them",
+              "bn": "তাদের চতুর্থজন",
+              "role": {
+                "en": "nominative noun 'fourth' (khabar) + 'of them'",
+                "bn": "মারফু বিশেষ্য 'চতুর্থ' (খবর) + 'তাদের'"
+              }
+            },
+            {
+              "ar": "وَلَا",
+              "en": "and not",
+              "bn": "এবং না",
+              "role": {
+                "en": "and + negative particle lā",
+                "bn": "এবং + নেতিবাচক অব্যয় লা"
+              }
+            },
+            {
+              "ar": "خَمْسَةٍ",
+              "en": "five",
+              "bn": "পাঁচজনের",
+              "role": {
+                "en": "indef. genitive number 'five' (joined)",
+                "bn": "অনির্দিষ্ট মাজরুর সংখ্যা 'পাঁচ' (যুক্ত)"
+              }
+            },
+            {
+              "ar": "إِلَّا",
+              "en": "but",
+              "bn": "এছাড়া",
+              "role": {
+                "en": "particle illā 'but'",
+                "bn": "অব্যয় ইল্লা 'ছাড়া'"
+              }
+            },
+            {
+              "ar": "هُوَ",
+              "en": "He (is)",
+              "bn": "তিনি (হবেন)",
+              "role": {
+                "en": "pronoun 'He' (mubtadaʾ)",
+                "bn": "সর্বনাম 'তিনি' (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "سَادِسُهُمْ",
+              "en": "(the) sixth of them",
+              "bn": "তাদের ষষ্ঠজন",
+              "role": {
+                "en": "nominative noun 'sixth' (khabar) + 'of them'",
+                "bn": "মারফু বিশেষ্য 'ষষ্ঠ' (খবর) + 'তাদের'"
+              }
+            },
+            {
+              "ar": "وَلَآ",
+              "en": "and not",
+              "bn": "এবং না",
+              "role": {
+                "en": "and + negative particle lā",
+                "bn": "এবং + নেতিবাচক অব্যয় লা"
+              }
+            },
+            {
+              "ar": "أَدْنَىٰ",
+              "en": "less",
+              "bn": "কম হোক",
+              "role": {
+                "en": "elative noun 'less' (diptote)",
+                "bn": "তুলনাবাচক বিশেষ্য 'কম' (গায়রে মুনসারিফ)"
+              }
+            },
+            {
+              "ar": "مِن",
+              "en": "than",
+              "bn": "চেয়ে",
+              "role": {
+                "en": "preposition min 'than'",
+                "bn": "অব্যয় মিন 'চেয়ে'"
+              }
+            },
+            {
+              "ar": "ذَٰلِكَ",
+              "en": "that",
+              "bn": "এর",
+              "role": {
+                "en": "demonstrative 'that'",
+                "bn": "নির্দেশক সর্বনাম 'ওটা'"
+              }
+            },
+            {
+              "ar": "وَلَآ",
+              "en": "and not",
+              "bn": "এবং না",
+              "role": {
+                "en": "and + negative particle lā",
+                "bn": "এবং + নেতিবাচক অব্যয় লা"
+              }
+            },
+            {
+              "ar": "أَكْثَرَ",
+              "en": "more",
+              "bn": "বেশি (হোক)",
+              "role": {
+                "en": "elative noun 'more' (diptote)",
+                "bn": "তুলনাবাচক বিশেষ্য 'বেশি' (গায়রে মুনসারিফ)"
+              }
+            },
+            {
+              "ar": "إِلَّا",
+              "en": "but",
+              "bn": "এছাড়া",
+              "role": {
+                "en": "particle illā 'but'",
+                "bn": "অব্যয় ইল্লা 'ছাড়া'"
+              }
+            },
+            {
+              "ar": "هُوَ",
+              "en": "He",
+              "bn": "তিনি",
+              "role": {
+                "en": "pronoun 'He' (mubtadaʾ)",
+                "bn": "সর্বনাম 'তিনি' (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "مَعَهُمْ",
+              "en": "(is) with them",
+              "bn": "তাদের সাথে (আছেন)",
+              "role": {
+                "en": "accusative adverb 'with' + 'them' (khabar)",
+                "bn": "মানসুব স্থানবাচক শব্দ 'সাথে' + 'তাদের' (খবর)"
+              }
+            },
+            {
+              "ar": "أَيْنَ",
+              "en": "wherever",
+              "bn": "যেখানেই",
+              "role": {
+                "en": "adverb ayna 'where'",
+                "bn": "স্থানবাচক শব্দ আইনা 'যেখানে'"
+              }
+            },
+            {
+              "ar": "مَا",
+              "en": "wherever",
+              "bn": "না",
+              "role": {
+                "en": "mā joined to ayna: 'wherever'",
+                "bn": "আইনা-র সঙ্গে যুক্ত মা: 'যেখানেই'"
+              }
+            },
+            {
+              "ar": "كَانُوا۟",
+              "en": "they are",
+              "bn": "তারা থাকুক",
+              "role": {
+                "en": "past verb kāna + 'they'",
+                "bn": "অতীত ক্রিয়া কানা + 'তারা'"
+              }
+            },
+            {
+              "ar": "ثُمَّ",
+              "en": "Then",
+              "bn": "এরপর",
+              "role": {
+                "en": "conjunction thumma 'then'",
+                "bn": "সংযোজক অব্যয় সুম্মা 'তারপর'"
+              }
+            },
+            {
+              "ar": "يُنَبِّئُهُم",
+              "en": "He will inform them",
+              "bn": "তাদের জানাবেন",
+              "role": {
+                "en": "Form II present verb + obj. 'them'",
+                "bn": "দ্বিতীয় রূপের বর্তমান ক্রিয়া + কর্ম 'তাদের'"
+              }
+            },
+            {
+              "ar": "بِمَا",
+              "en": "of what",
+              "bn": "ঐ বিষয়ে যা",
+              "role": {
+                "en": "bi- 'of' + relative mā 'what'",
+                "bn": "অব্যয় বি + সম্বন্ধবাচক মা 'যা'"
+              }
+            },
+            {
+              "ar": "عَمِلُوا۟",
+              "en": "they did",
+              "bn": "তারা কাজ করেছে",
+              "role": {
+                "en": "past verb + subject 'they'",
+                "bn": "অতীত ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "يَوْمَ",
+              "en": "(on the) Day",
+              "bn": "দিনে",
+              "role": {
+                "en": "accusative time noun (ẓarf), muḍāf",
+                "bn": "মানসুব সময়বাচক বিশেষ্য (যারফ), মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱلْقِيَٰمَةِ",
+              "en": "(of) the Resurrection",
+              "bn": "কিয়ামতের",
+              "role": {
+                "en": "def. genitive noun (muḍāf ilayh)",
+                "bn": "আল + মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "إِنَّ",
+              "en": "Indeed",
+              "bn": "নিশ্চয়ই",
+              "role": {
+                "en": "emphatic particle inna",
+                "bn": "জোরারোপক অব্যয় ইন্না"
+              }
+            },
+            {
+              "ar": "ٱللَّهَ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "accusative proper noun (inna's noun)",
+                "bn": "মানসুব নামবাচক বিশেষ্য (ইন্না-র ইসম)"
+              }
+            },
+            {
+              "ar": "بِكُلِّ",
+              "en": "of every",
+              "bn": "সব সম্পর্কে",
+              "role": {
+                "en": "bi- 'of' + genitive noun 'every' (muḍāf)",
+                "bn": "অব্যয় বি + মাজরুর বিশেষ্য 'প্রতিটি' (মুদাফ)"
+              }
+            },
+            {
+              "ar": "شَىْءٍ",
+              "en": "thing",
+              "bn": "কিছুর",
+              "role": {
+                "en": "indef. genitive noun (muḍāf ilayh)",
+                "bn": "অনির্দিষ্ট মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "عَلِيمٌ",
+              "en": "(is) All-Knower",
+              "bn": "খুব অবহিত",
+              "role": {
+                "en": "indef. nominative adjective (inna's khabar)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষণ (ইন্না-র খবর)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "58:8",
+          "trans": {
+            "en": "Have you not considered those who were forbidden from private conversation [i.e., ridicule and conspiracy] and then return to that which they were forbidden and converse among themselves about sin and aggression and disobedience to the Messenger? And when they come to you, they greet you with that [word] by which Allāh does not greet you and say among themselves, \"Why does Allāh not punish us for what we say?\" Sufficient for them is Hell, which they will [enter to] burn, and wretched is the destination.",
+            "bn": "তুমি কি তাদেরকে দেখনি যাদেরকে গোপন পরামর্শ করতে নিষেধ করা হয়েছিল, অতঃপর তারা আবার তাই করল যা করতে তাদেরকে নিষেধ করা হয়েছিল, তারা গোপনে পরামর্শ করল পাপাচার, সীমালঙ্ঘন আর রসূলকে অমান্য করা নিয়ে। তারা যখন তোমার কাছে আসে তখন তারা তোমাকে এমনভাবে সম্ভাষণ করে যেমনভাবে আল্লাহ তোমাকে সম্ভাষণ করেননি। তারা মনে মনে বলে- ‘আমরা যা বলি তার জন্য আল্লাহ আমাদেরকে ‘আযাব দেন না কেন? জাহান্নামই তাদের জন্য যথেষ্ট, তাতে তারা জ্বলবে, কতই না নিকৃষ্ট সেই গন্তব্যস্থল!"
+          },
+          "note": {
+            "en": "The same a-lam tara opens this ayah, now followed by ilā: 'have you not considered those who …'. Later, lam yuḥayyika shows the jussive again: after lam, the final long ī of yuḥayyī drops.",
+            "bn": "এই আয়াতও শুরু হয়েছে সেই আ-লাম তারা দিয়ে, এবার পরে ইলা: \"যারা ... তাদের কি তুমি দেখোনি?\"। পরে লাম ইউহাইয়িকা-তে আবার মাজযুম: লাম-এর পরে يُحَيِّي-র শেষের দীর্ঘ ঈ পড়ে গেছে।"
+          },
+          "words": [
+            {
+              "ar": "أَلَمْ",
+              "en": "Do not",
+              "bn": "নি কি",
+              "role": {
+                "en": "question a- + negative particle lam",
+                "bn": "প্রশ্নবোধক আ + নেতিবাচক অব্যয় লাম"
+              },
+              "hl": true
+            },
+            {
+              "ar": "تَرَ",
+              "en": "you see",
+              "bn": "তুমি দেখ",
+              "role": {
+                "en": "present verb, jussive (long ā dropped)",
+                "bn": "বর্তমান ক্রিয়া, মাজযুম (শেষের দীর্ঘ আ লোপ)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "إِلَى",
+              "en": "[to]",
+              "bn": "দিকে",
+              "role": {
+                "en": "preposition ilā 'to'",
+                "bn": "অব্যয় ইলা 'দিকে'"
+              }
+            },
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "those who",
+              "bn": "(তাদেরকে) যাদের",
+              "role": {
+                "en": "relative pronoun (masc. plural)",
+                "bn": "সম্বন্ধবাচক সর্বনাম (পুংলিঙ্গ বহুবচন)"
+              }
+            },
+            {
+              "ar": "نُهُوا۟",
+              "en": "were forbidden",
+              "bn": "নিষেধ করা হয়েছিল",
+              "role": {
+                "en": "passive past verb + 'they'",
+                "bn": "কর্মবাচ্য অতীত ক্রিয়া + 'তারা'"
+              }
+            },
+            {
+              "ar": "عَنِ",
+              "en": "from",
+              "bn": "হতে",
+              "role": {
+                "en": "preposition ʿan 'from'",
+                "bn": "অব্যয় আন 'থেকে'"
+              }
+            },
+            {
+              "ar": "ٱلنَّجْوَىٰ",
+              "en": "secret counsels",
+              "bn": "গোপন পরামর্শ",
+              "role": {
+                "en": "def. genitive noun 'secret talk'",
+                "bn": "আল + মাজরুর বিশেষ্য 'গোপন পরামর্শ'"
+              }
+            },
+            {
+              "ar": "ثُمَّ",
+              "en": "then",
+              "bn": "এরপর",
+              "role": {
+                "en": "conjunction thumma 'then'",
+                "bn": "সংযোজক অব্যয় সুম্মা 'তারপর'"
+              }
+            },
+            {
+              "ar": "يَعُودُونَ",
+              "en": "they return",
+              "bn": "তারা পুনরাবৃত্তি করে",
+              "role": {
+                "en": "present verb + subject 'they'",
+                "bn": "বর্তমান ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "لِمَا",
+              "en": "to what",
+              "bn": "ঐ বিষয়ে যা",
+              "role": {
+                "en": "li- + relative mā 'what'",
+                "bn": "অব্যয় লি + সম্বন্ধবাচক মা 'যা'"
+              }
+            },
+            {
+              "ar": "نُهُوا۟",
+              "en": "they were forbidden",
+              "bn": "নিষেধ করা হয়েছিল",
+              "role": {
+                "en": "passive past verb + 'they'",
+                "bn": "কর্মবাচ্য অতীত ক্রিয়া + 'তারা'"
+              }
+            },
+            {
+              "ar": "عَنْهُ",
+              "en": "from [it]",
+              "bn": "তা হতে",
+              "role": {
+                "en": "ʿan 'from' + pronoun 'it'",
+                "bn": "অব্যয় আন + সর্বনাম 'তা'"
+              }
+            },
+            {
+              "ar": "وَيَتَنَٰجَوْنَ",
+              "en": "and they hold secret counsels",
+              "bn": "ও পরস্পর গোপন পরামর্শ করে",
+              "role": {
+                "en": "and + Form VI present verb + 'they'",
+                "bn": "এবং + ষষ্ঠ রূপের বর্তমান ক্রিয়া + 'তারা'"
+              }
+            },
+            {
+              "ar": "بِٱلْإِثْمِ",
+              "en": "for sin",
+              "bn": "পাপের",
+              "role": {
+                "en": "bi- + def. genitive noun 'sin'",
+                "bn": "অব্যয় বি + আল + মাজরুর বিশেষ্য 'গুনাহ'"
+              }
+            },
+            {
+              "ar": "وَٱلْعُدْوَٰنِ",
+              "en": "and aggression",
+              "bn": "ও বাড়াবাড়ির",
+              "role": {
+                "en": "and + def. genitive noun (joined)",
+                "bn": "এবং + আল + মাজরুর বিশেষ্য (যুক্ত)"
+              }
+            },
+            {
+              "ar": "وَمَعْصِيَتِ",
+              "en": "and disobedience",
+              "bn": "এবং অবাধ্যতার (জন্যে)",
+              "role": {
+                "en": "and + genitive noun (joined), muḍāf",
+                "bn": "এবং + মাজরুর বিশেষ্য (যুক্ত), মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱلرَّسُولِ",
+              "en": "(to) the Messenger",
+              "bn": "রাসূলের",
+              "role": {
+                "en": "def. genitive noun (muḍāf ilayh)",
+                "bn": "আল + মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "وَإِذَا",
+              "en": "And when",
+              "bn": "এবং যখন",
+              "role": {
+                "en": "and + time adverb idhā 'when'",
+                "bn": "এবং + সময়বাচক শব্দ ইযা 'যখন'"
+              }
+            },
+            {
+              "ar": "جَآءُوكَ",
+              "en": "they come to you",
+              "bn": "তারা তোমার কাছে আসে",
+              "role": {
+                "en": "past verb + subj. 'they' + obj. 'you'",
+                "bn": "অতীত ক্রিয়া + কর্তা 'তারা' + কর্ম 'তোমার কাছে'"
+              }
+            },
+            {
+              "ar": "حَيَّوْكَ",
+              "en": "they greet you",
+              "bn": "তোমাকে অভিবাদন করে",
+              "role": {
+                "en": "Form II past verb + 'they' + obj. 'you'",
+                "bn": "দ্বিতীয় রূপের অতীত ক্রিয়া + 'তারা' + কর্ম 'তোমাকে'"
+              }
+            },
+            {
+              "ar": "بِمَا",
+              "en": "with what",
+              "bn": "এমন ভাবে",
+              "role": {
+                "en": "bi- 'with' + relative mā 'what'",
+                "bn": "অব্যয় বি + সম্বন্ধবাচক মা 'যা'"
+              }
+            },
+            {
+              "ar": "لَمْ",
+              "en": "not",
+              "bn": "নি",
+              "role": {
+                "en": "negative particle lam",
+                "bn": "নেতিবাচক অব্যয় লাম"
+              }
+            },
+            {
+              "ar": "يُحَيِّكَ",
+              "en": "greets you",
+              "bn": "তোমাকে অভিবাদন করে",
+              "role": {
+                "en": "Form II present verb, jussive + obj. 'you'",
+                "bn": "দ্বিতীয় রূপের বর্তমান ক্রিয়া, মাজযুম + কর্ম 'তোমাকে'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "بِهِ",
+              "en": "therewith",
+              "bn": "যেভাবে",
+              "role": {
+                "en": "bi- + pronoun 'it'",
+                "bn": "অব্যয় বি + সর্বনাম 'তা'"
+              }
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "وَيَقُولُونَ",
+              "en": "and they say",
+              "bn": "এবং তারা বলে",
+              "role": {
+                "en": "and + present verb + subject 'they'",
+                "bn": "এবং + বর্তমান ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "فِىٓ",
+              "en": "among",
+              "bn": "মধ্যে",
+              "role": {
+                "en": "preposition fī 'among'",
+                "bn": "অব্যয় ফী 'মধ্যে'"
+              }
+            },
+            {
+              "ar": "أَنفُسِهِمْ",
+              "en": "themselves",
+              "bn": "তাদের নিজেদের (মনের)",
+              "role": {
+                "en": "genitive plural noun + 'their'",
+                "bn": "মাজরুর বহুবচন বিশেষ্য + 'তাদের'"
+              }
+            },
+            {
+              "ar": "لَوْلَا",
+              "en": "Why (does) not",
+              "bn": "\"না কেন",
+              "role": {
+                "en": "particle lawlā 'why not?'",
+                "bn": "অব্যয় লাওলা 'কেন ... না?'"
+              }
+            },
+            {
+              "ar": "يُعَذِّبُنَا",
+              "en": "Allah punish us",
+              "bn": "আমাদেরকে শাস্তি দেন",
+              "role": {
+                "en": "Form II present verb + obj. 'us'",
+                "bn": "দ্বিতীয় রূপের বর্তমান ক্রিয়া + কর্ম 'আমাদের'"
+              }
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah punish us",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "بِمَا",
+              "en": "for what",
+              "bn": "একারনে যা",
+              "role": {
+                "en": "bi- 'for' + relative mā 'what'",
+                "bn": "অব্যয় বি + সম্বন্ধবাচক মা 'যা'"
+              }
+            },
+            {
+              "ar": "نَقُولُ",
+              "en": "we say",
+              "bn": "বলি আমরা\"",
+              "role": {
+                "en": "present verb, subject 'we'",
+                "bn": "বর্তমান ক্রিয়া, কর্তা 'আমরা'"
+              }
+            },
+            {
+              "ar": "حَسْبُهُمْ",
+              "en": "Sufficient (for) them",
+              "bn": "তাদের জন্যে যথেষ্ট",
+              "role": {
+                "en": "nominative noun 'enough' + 'them'",
+                "bn": "মারফু বিশেষ্য 'যথেষ্ট' + 'তাদের'"
+              }
+            },
+            {
+              "ar": "جَهَنَّمُ",
+              "en": "(is) Hell",
+              "bn": "জাহান্নাম",
+              "role": {
+                "en": "nominative proper noun (diptote)",
+                "bn": "মারফু নামবাচক বিশেষ্য (গায়রে মুনসারিফ)"
+              }
+            },
+            {
+              "ar": "يَصْلَوْنَهَا",
+              "en": "they will burn in it",
+              "bn": "তাতে তারা প্রবেশ করবে",
+              "role": {
+                "en": "present verb + 'they' + obj. 'it'",
+                "bn": "বর্তমান ক্রিয়া + 'তারা' + কর্ম 'তা'"
+              }
+            },
+            {
+              "ar": "فَبِئْسَ",
+              "en": "and worst is",
+              "bn": "অতি নিকৃষ্ট তা",
+              "role": {
+                "en": "fa- + past verb of blame biʾsa",
+                "bn": "ফা + নিন্দাসূচক অতীত ক্রিয়া বি'সা"
+              }
+            },
+            {
+              "ar": "ٱلْمَصِيرُ",
+              "en": "the destination",
+              "bn": "আবাসস্থল (হিসেবে)",
+              "role": {
+                "en": "def. nominative noun (subject of biʾsa)",
+                "bn": "আল + মারফু বিশেষ্য (বি'সা-র কর্তা)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "Why does تَرَ (58:7) end in a short -a, not تَرَىٰ?",
+          "bn": "تَرَ (৫৮:৭)-এর শেষে تَرَىٰ-র মতো দীর্ঘ আ নেই কেন?"
+        },
+        "options": [
+          {
+            "en": "Because it is a past-tense verb",
+            "bn": "কারণ এটি অতীত কালের ক্রিয়া"
+          },
+          {
+            "en": "Because it is an imperative",
+            "bn": "কারণ এটি আদেশসূচক ক্রিয়া"
+          },
+          {
+            "en": "Because lam puts it in the jussive, which drops the long ā",
+            "bn": "কারণ লাম একে মাজযুম করে, আর তাতে দীর্ঘ আ পড়ে যায়"
+          },
+          {
+            "en": "Because it is the object of أَنَّ",
+            "bn": "কারণ এটি أَنَّ-এর কর্ম"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "en": "tara is a present verb in the jussive after lam; a verb ending in a long vowel drops it in the jussive. lam gives it a past sense, but in form it is still a present verb.",
+          "bn": "تَرَ এখানে লাম-এর পরে মাজযুম বর্তমান ক্রিয়া। যে ক্রিয়ার শেষে দীর্ঘ স্বর থাকে, মাজযুম হলে সেটি পড়ে যায়। লাম অর্থে অতীতের ভাব আনে, তবে রূপে এটি বর্তমান ক্রিয়াই।"
+        }
+      }
+    },
+    {
+      "id": "read-58-5",
+      "unit": "read-58",
+      "icon": "📖",
+      "title": {
+        "en": "al-Mujādilah 9-10: lā of prohibition and the lām of command",
+        "bn": "আল-মুজাদালাহ ৯-১০: নিষেধের লা ও আদেশের লাম"
+      },
+      "concept": {
+        "en": "These ayat show three ways to direct an action. A plain imperative: <b>tanājaw</b> \"converse\". <b>lā</b> with a jussive forbids: <b>fa-lā tatanājaw</b> \"do not converse\". The lām of command with a jussive addresses someone not spoken to directly: <b>fa-l-yatawakkali l-muʾminūna</b> \"let the believers rely\".",
+        "bn": "এই আয়াতগুলোতে কাজের নির্দেশ দেওয়ার তিনটি ধরন আছে। সরাসরি আদেশ: <b>তানাজাও</b>, \"পরামর্শ করো\"। <b>লা</b> + মাজযুম ক্রিয়া নিষেধ বোঝায়: <b>ফা-লা তাতানাজাও</b>, \"পরামর্শ কোরো না\"। আর যাকে সরাসরি সম্বোধন করা হচ্ছে না, তার জন্য আদেশের লাম + মাজযুম: <b>ফাল-ইয়াতাওয়াক্কালিল মু'মিনূন</b>, \"মু'মিনরা যেন ভরসা করে\"।"
+      },
+      "examples": [
+        {
+          "ref": "58:9",
+          "trans": {
+            "en": "O you who have believed, when you converse privately, do not converse about sin and aggression and disobedience to the Messenger but converse about righteousness and piety. And fear Allāh, to whom you will be gathered.",
+            "bn": "হে মু’মিনগণ! তোমরা যখন গোপন পরামর্শ কর, তখন পাপাচার, সীমালঙ্ঘন আর রসূলকে অমান্য করার পরামর্শ কর না। তোমরা সৎকর্ম ও তাকওয়া অবলম্বনের ব্যাপারে পরামর্শ করো। আর তোমরা আল্লাহকে ভয় কর যাঁর কাছে তোমাদেরকে সমবেত করা হবে।"
+          },
+          "note": {
+            "en": "fa-lā tatanājaw is lā of prohibition with a jussive verb: the -na of tatanājawna drops, giving 'do not converse'. wa-tanājaw, the imperative of the same Form VI verb, gives the positive command: 'converse about righteousness'.",
+            "bn": "ফা-লা তাতানাজাও-তে আছে নিষেধসূচক লা আর মাজযুম ক্রিয়া। তাতানাজাওনা-র শেষের -না পড়ে গিয়ে অর্থ হয় \"পরামর্শ কোরো না\"। একই ষষ্ঠ রূপের ক্রিয়ার আদেশসূচক রূপ ওয়া-তানাজাও দেয় ইতিবাচক আদেশ: \"সৎকর্মের ব্যাপারে পরামর্শ করো\"।"
+          },
+          "words": [
+            {
+              "ar": "يَٰٓأَيُّهَا",
+              "en": "O you who believe",
+              "bn": "হে",
+              "role": {
+                "en": "vocative yā + ayyu (munādā) + hā",
+                "bn": "সম্বোধনের ইয়া + আইয়ু (মুনাদা) + হা"
+              }
+            },
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "O you who believe",
+              "bn": "যারা",
+              "role": {
+                "en": "relative pronoun (masc. plural)",
+                "bn": "সম্বন্ধবাচক সর্বনাম (পুংলিঙ্গ বহুবচন)"
+              }
+            },
+            {
+              "ar": "ءَامَنُوٓا۟",
+              "en": "O you who believe",
+              "bn": "ঈমান এনেছ",
+              "role": {
+                "en": "Form IV past verb + subject 'they'",
+                "bn": "চতুর্থ রূপের অতীত ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "إِذَا",
+              "en": "When",
+              "bn": "যখন",
+              "role": {
+                "en": "time adverb idhā 'when'",
+                "bn": "সময়বাচক শব্দ ইযা 'যখন'"
+              }
+            },
+            {
+              "ar": "تَنَٰجَيْتُمْ",
+              "en": "you hold secret counsel",
+              "bn": "তোমরা গোপনে পরামর্শ করো",
+              "role": {
+                "en": "Form VI past verb + subject 'you' (pl.)",
+                "bn": "ষষ্ঠ রূপের অতীত ক্রিয়া + কর্তা 'তোমরা'"
+              }
+            },
+            {
+              "ar": "فَلَا",
+              "en": "then (do) not",
+              "bn": "না তবে",
+              "role": {
+                "en": "fa- + lā of prohibition",
+                "bn": "ফা + নিষেধসূচক লা"
+              },
+              "hl": true
+            },
+            {
+              "ar": "تَتَنَٰجَوْا۟",
+              "en": "hold secret counsel",
+              "bn": "পরস্পরে গোপন পরামর্শ করো",
+              "role": {
+                "en": "Form VI present verb, jussive + 'you' (pl.)",
+                "bn": "ষষ্ঠ রূপের বর্তমান ক্রিয়া, মাজযুম + 'তোমরা'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "بِٱلْإِثْمِ",
+              "en": "for sin",
+              "bn": "পাপের বিষয়ে",
+              "role": {
+                "en": "bi- + def. genitive noun 'sin'",
+                "bn": "অব্যয় বি + আল + মাজরুর বিশেষ্য 'গুনাহ'"
+              }
+            },
+            {
+              "ar": "وَٱلْعُدْوَٰنِ",
+              "en": "and aggression",
+              "bn": "ও বাড়াবাড়ির",
+              "role": {
+                "en": "and + def. genitive noun (joined)",
+                "bn": "এবং + আল + মাজরুর বিশেষ্য (যুক্ত)"
+              }
+            },
+            {
+              "ar": "وَمَعْصِيَتِ",
+              "en": "and disobedience",
+              "bn": "এবং অবাধ্যতার (ক্ষেত্রে)",
+              "role": {
+                "en": "and + genitive noun (joined), muḍāf",
+                "bn": "এবং + মাজরুর বিশেষ্য (যুক্ত), মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱلرَّسُولِ",
+              "en": "(to) the Messenger",
+              "bn": "রাসূলের",
+              "role": {
+                "en": "def. genitive noun (muḍāf ilayh)",
+                "bn": "আল + মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "وَتَنَٰجَوْا۟",
+              "en": "but hold secret counsel",
+              "bn": "এবং তোমরা গোপনে পরামর্শ করো",
+              "role": {
+                "en": "and + Form VI imperative + 'you' (pl.)",
+                "bn": "এবং + ষষ্ঠ রূপের আদেশসূচক ক্রিয়া + 'তোমরা'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "بِٱلْبِرِّ",
+              "en": "for righteousness",
+              "bn": "কল্যাণকর কাজ সম্পর্কে",
+              "role": {
+                "en": "bi- + def. genitive noun 'righteousness'",
+                "bn": "অব্যয় বি + আল + মাজরুর বিশেষ্য 'সৎকর্ম'"
+              }
+            },
+            {
+              "ar": "وَٱلتَّقْوَىٰ",
+              "en": "and piety",
+              "bn": "এবং তাকওয়ার (ক্ষেত্রে)",
+              "role": {
+                "en": "and + def. genitive noun (joined)",
+                "bn": "এবং + আল + মাজরুর বিশেষ্য (যুক্ত)"
+              }
+            },
+            {
+              "ar": "وَٱتَّقُوا۟",
+              "en": "And fear",
+              "bn": "এবং তোমরা ভয় করো",
+              "role": {
+                "en": "and + Form VIII imperative + 'you' (pl.)",
+                "bn": "এবং + অষ্টম রূপের আদেশসূচক ক্রিয়া + 'তোমরা'"
+              }
+            },
+            {
+              "ar": "ٱللَّهَ",
+              "en": "Allah",
+              "bn": "আল্লাহকে",
+              "role": {
+                "en": "accusative proper noun (object)",
+                "bn": "মানসুব নামবাচক বিশেষ্য (কর্ম)"
+              }
+            },
+            {
+              "ar": "ٱلَّذِىٓ",
+              "en": "the One Who",
+              "bn": "যিনি (এমন সত্তা যে)",
+              "role": {
+                "en": "relative pronoun (masc. singular)",
+                "bn": "সম্বন্ধবাচক সর্বনাম (পুংলিঙ্গ একবচন)"
+              }
+            },
+            {
+              "ar": "إِلَيْهِ",
+              "en": "to Him",
+              "bn": "তাঁর দিকে",
+              "role": {
+                "en": "ilā 'to' + pronoun 'Him'",
+                "bn": "অব্যয় ইলা + সর্বনাম 'তাঁর'"
+              }
+            },
+            {
+              "ar": "تُحْشَرُونَ",
+              "en": "you will be gathered",
+              "bn": "তোমাদের সমবেত করা হবে",
+              "role": {
+                "en": "passive present verb + 'you' (pl.)",
+                "bn": "কর্মবাচ্য বর্তমান ক্রিয়া + 'তোমরা'"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "58:10",
+          "trans": {
+            "en": "Private conversation is only from Satan that he may grieve those who have believed, but he will not harm them at all except by permission of Allāh. And upon Allāh let the believers rely.",
+            "bn": "গোপন পরামর্শ হল মু’মিনদেরকে দুঃখ দেয়ার জন্য শয়ত্বান প্ররোচিত কাজ। তবে আল্লাহর অনুমতি ছাড়া তা তাদের কোন ক্ষতি করতে পারে না। মু’মিনদের কর্তব্য হল একমাত্র আল্লাহরই উপর ভরসা করা।"
+          },
+          "note": {
+            "en": "fa-l-yatawakkali uses the lām of command: li- with a jussive present verb gives 'let … rely'. After fa- the lām loses its vowel, the verb's final -i only joins it to the next word, and al-muʾminūna, nominative, is its subject.",
+            "bn": "ফাল-ইয়াতাওয়াক্কালি-তে আছে আদেশের লাম: লি + মাজযুম বর্তমান ক্রিয়া মিলে অর্থ দেয় \"... ভরসা করুক\"। ফা-এর পরে লাম-এর স্বর পড়ে যায়। ক্রিয়ার শেষের -ই কেবল পরের শব্দের সঙ্গে জোড়ার জন্য, আর মারফু আল-মু'মিনূনা তার কর্তা।"
+          },
+          "words": [
+            {
+              "ar": "إِنَّمَا",
+              "en": "Only",
+              "bn": "মূলত",
+              "role": {
+                "en": "innamā 'only' (inna + mā)",
+                "bn": "ইন্নামা 'কেবল' (ইন্না + মা)"
+              }
+            },
+            {
+              "ar": "ٱلنَّجْوَىٰ",
+              "en": "the secret counsels",
+              "bn": "গোপন পরামর্শ (করা হয়)",
+              "role": {
+                "en": "def. nominative noun (mubtadaʾ)",
+                "bn": "আল + মারফু বিশেষ্য (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "مِنَ",
+              "en": "(are) from",
+              "bn": "পক্ষ হতে",
+              "role": {
+                "en": "preposition min 'from'",
+                "bn": "অব্যয় মিন 'থেকে'"
+              }
+            },
+            {
+              "ar": "ٱلشَّيْطَٰنِ",
+              "en": "the Shaitaan",
+              "bn": "শয়তানের",
+              "role": {
+                "en": "def. genitive noun",
+                "bn": "আল + মাজরুর বিশেষ্য"
+              }
+            },
+            {
+              "ar": "لِيَحْزُنَ",
+              "en": "that he may grieve",
+              "bn": "দুঃখ দেয়ার জন্যে",
+              "role": {
+                "en": "li- 'so that' + present verb, subjunctive",
+                "bn": "লি 'যাতে' + বর্তমান ক্রিয়া, মানসুব"
+              }
+            },
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "those who",
+              "bn": "(তাদেরকে) যারা",
+              "role": {
+                "en": "relative pronoun (masc. plural), object",
+                "bn": "সম্বন্ধবাচক সর্বনাম (পুং. বহু.), কর্ম"
+              }
+            },
+            {
+              "ar": "ءَامَنُوا۟",
+              "en": "believe",
+              "bn": "ঈমান এনেছে",
+              "role": {
+                "en": "Form IV past verb + subject 'they'",
+                "bn": "চতুর্থ রূপের অতীত ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "وَلَيْسَ",
+              "en": "but not",
+              "bn": "আর না (কেউ)",
+              "role": {
+                "en": "and + verb laysa 'is not'",
+                "bn": "এবং + ক্রিয়া লাইসা 'নয়'"
+              }
+            },
+            {
+              "ar": "بِضَآرِّهِمْ",
+              "en": "he (can) harm them",
+              "bn": "তাদেরকে ক্ষতি করতে পারবে",
+              "role": {
+                "en": "bi- + gen. participle (laysa's khabar) + 'them'",
+                "bn": "বি + মাজরুর ইসমে ফা'য়িল (লাইসা-র খবর) + 'তাদের'"
+              }
+            },
+            {
+              "ar": "شَيْـًٔا",
+              "en": "(in) anything",
+              "bn": "কিছুই",
+              "role": {
+                "en": "indef. accusative noun 'anything'",
+                "bn": "অনির্দিষ্ট মানসুব বিশেষ্য 'কিছুই'"
+              }
+            },
+            {
+              "ar": "إِلَّا",
+              "en": "except",
+              "bn": "ব্যতীত",
+              "role": {
+                "en": "particle illā 'except'",
+                "bn": "ব্যতিক্রমের অব্যয় ইল্লা 'ছাড়া'"
+              }
+            },
+            {
+              "ar": "بِإِذْنِ",
+              "en": "by Allah's permission",
+              "bn": "অনুমতি",
+              "role": {
+                "en": "bi- 'by' + genitive noun (muḍāf)",
+                "bn": "অব্যয় বি + মাজরুর বিশেষ্য (মুদাফ)"
+              }
+            },
+            {
+              "ar": "ٱللَّهِ",
+              "en": "by Allah's permission",
+              "bn": "আল্লাহ্‌র",
+              "role": {
+                "en": "genitive proper noun (muḍāf ilayh)",
+                "bn": "মাজরুর নামবাচক বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "وَعَلَى",
+              "en": "And upon",
+              "bn": "এবং উপর",
+              "role": {
+                "en": "and + preposition ʿalā 'upon'",
+                "bn": "এবং + অব্যয় আলা 'ওপর'"
+              }
+            },
+            {
+              "ar": "ٱللَّهِ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌রই",
+              "role": {
+                "en": "genitive proper noun, placed first",
+                "bn": "মাজরুর নামবাচক বিশেষ্য, আগে বসানো"
+              }
+            },
+            {
+              "ar": "فَلْيَتَوَكَّلِ",
+              "en": "let put (their) trust",
+              "bn": "ভরসা করা কর্তব্য",
+              "role": {
+                "en": "fa- + lām of command + Form V jussive verb",
+                "bn": "ফা + আদেশের লাম + পঞ্চম রূপের মাজযুম ক্রিয়া"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلْمُؤْمِنُونَ",
+              "en": "the believers",
+              "bn": "মু'মিনদের",
+              "role": {
+                "en": "def. nominative plural participle (subject)",
+                "bn": "আল + মারফু বহুবচন ইসমে ফা'য়িল (কর্তা)"
+              },
+              "hl": true
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "In فَلْيَتَوَكَّلِ (58:10), what is the لْ?",
+          "bn": "فَلْيَتَوَكَّلِ (৫৮:১০)-এ لْ কী?"
+        },
+        "options": [
+          {
+            "en": "A preposition, \"for\"",
+            "bn": "অব্যয়, \"জন্য\""
+          },
+          {
+            "en": "The lām of command, which makes the verb jussive: \"let … rely\"",
+            "bn": "আদেশের লাম, যা ক্রিয়াকে মাজযুম করে: \"... ভরসা করুক\""
+          },
+          {
+            "en": "The emphatic la- that marks the predicate of inna",
+            "bn": "ইন্না-র খবরে বসা জোরারোপক লা"
+          },
+          {
+            "en": "The definite article al-",
+            "bn": "নির্দিষ্টবাচক আল"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "en": "The lām of command puts the present verb in the jussive and gives \"let …\". It is li- with a kasra, but after fa- it loses its vowel: fa-l-yatawakkali.",
+          "bn": "আদেশের লাম বর্তমান ক্রিয়াকে মাজযুম করে, অর্থ দেয় \"... করুক\"। মূলত এটি যের-যুক্ত লি, কিন্তু ফা-এর পরে তার স্বর পড়ে যায়: ফাল-ইয়াতাওয়াক্কালি।"
+        }
+      }
+    },
+    {
+      "id": "read-58-6",
+      "unit": "read-58",
+      "icon": "📖",
+      "title": {
+        "en": "al-Mujādilah 11-13: a jussive verb answering a command",
+        "bn": "আল-মুজাদালাহ ১১-১৩: আদেশের জবাবে মাজযুম ক্রিয়া"
+      },
+      "concept": {
+        "en": "After a command, Arabic can state its result with a present verb in the jussive, with no word for \"if\" or \"then\": <b>fa-fsaḥū yafsaḥi llāhu lakum</b>, \"make room; Allāh will make room for you\" (58:11). The jussive ends in sukūn; the -i of <b>yafsaḥi</b> and <b>yarfaʿi</b> appears only to join the next word, Allāhu.",
+        "bn": "আদেশের পরে তার ফল বলতে আরবিতে মাজযুম বর্তমান ক্রিয়া আসতে পারে, \"যদি\" বা \"তবে\" জাতীয় কোনো শব্দ ছাড়াই: <b>ফাফসাহূ ইয়াফসাহিল্লাহু লাকুম</b>, \"জায়গা করে দাও, আল্লাহ তোমাদের জন্য জায়গা করে দেবেন\" (৫৮:১১)। মাজযুম ক্রিয়ার শেষে সুকূন থাকে। <b>ইয়াফসাহি</b> আর <b>ইয়ারফা'ই</b>-র -ই আসে কেবল পরের শব্দ আল্লাহু-র সঙ্গে জোড়ার জন্য।"
+      },
+      "examples": [
+        {
+          "ref": "58:11",
+          "trans": {
+            "en": "O you who have believed, when you are told, \"Space yourselves\" in assemblies, then make space; Allāh will make space for you. And when you are told, \"Arise,\" then arise; Allāh will raise those who have believed among you and those who were given knowledge, by degrees. And Allāh is Aware of what you do.",
+            "bn": "হে মু’মিনগণ! তোমাদেরকে যখন বলা হয়- ‘বৈঠক প্রশস্ত করে দাও’, তখন তোমরা তা প্রশস্ত করে দিবে, আল্লাহ তোমাদেরকে প্রশস্ততা দান করবেন। আর যখন বলা হয়- ‘তোমরা উঠে যাও’, তখন তোমরা উঠে যাবে। তোমাদের মধ্যে যারা ঈমান এনেছে আর যাদেরকে জ্ঞান দান করা হয়েছে, আল্লাহ তাদেরকে মর্যাদায় উচ্চ করবেন। তোমরা যা কর আল্লাহ তার খবর রাখেন।"
+          },
+          "note": {
+            "en": "fa-fsaḥū is a command, and yafsaḥi llāhu answers it with a jussive verb: 'make room; Allāh will make room for you'. fa-nshuzū and yarfaʿi llāhu repeat the pattern, and in both verbs the -i only joins the jussive to Allāhu.",
+            "bn": "ফাফসাহূ একটি আদেশ, আর ইয়াফসাহিল্লাহু মাজযুম ক্রিয়া দিয়ে তার জবাব দেয়: \"জায়গা করে দাও, আল্লাহ তোমাদের জন্য জায়গা করে দেবেন\"। ফানশুযূ আর ইয়ারফা'ইল্লাহু-তেও একই গঠন। দুটো ক্রিয়ার শেষের -ই কেবল মাজযুম ক্রিয়াটিকে আল্লাহু-র সঙ্গে জোড়ে।"
+          },
+          "words": [
+            {
+              "ar": "يَٰٓأَيُّهَا",
+              "en": "O you who believe",
+              "bn": "হে",
+              "role": {
+                "en": "vocative yā + ayyu (munādā) + hā",
+                "bn": "সম্বোধনের ইয়া + আইয়ু (মুনাদা) + হা"
+              }
+            },
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "O you who believe",
+              "bn": "যারা",
+              "role": {
+                "en": "relative pronoun (masc. plural)",
+                "bn": "সম্বন্ধবাচক সর্বনাম (পুংলিঙ্গ বহুবচন)"
+              }
+            },
+            {
+              "ar": "ءَامَنُوٓا۟",
+              "en": "O you who believe",
+              "bn": "ঈমান এনেছ",
+              "role": {
+                "en": "Form IV past verb + subject 'they'",
+                "bn": "চতুর্থ রূপের অতীত ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "إِذَا",
+              "en": "When",
+              "bn": "যখন",
+              "role": {
+                "en": "time adverb idhā 'when'",
+                "bn": "সময়বাচক শব্দ ইযা 'যখন'"
+              }
+            },
+            {
+              "ar": "قِيلَ",
+              "en": "it is said",
+              "bn": "বলা হয়",
+              "role": {
+                "en": "passive past verb 'it is said'",
+                "bn": "কর্মবাচ্য অতীত ক্রিয়া 'বলা হয়'"
+              }
+            },
+            {
+              "ar": "لَكُمْ",
+              "en": "to you",
+              "bn": "তোমাদেরকে",
+              "role": {
+                "en": "li- 'to' + pronoun 'you' (pl.)",
+                "bn": "অব্যয় লি + সর্বনাম 'তোমাদের'"
+              }
+            },
+            {
+              "ar": "تَفَسَّحُوا۟",
+              "en": "Make room",
+              "bn": "\"তোমরা প্রশস্ত করে দাও\"",
+              "role": {
+                "en": "Form V imperative + 'you' (pl.)",
+                "bn": "পঞ্চম রূপের আদেশসূচক ক্রিয়া + 'তোমরা'"
+              }
+            },
+            {
+              "ar": "فِى",
+              "en": "in",
+              "bn": "মধ্যে",
+              "role": {
+                "en": "preposition fī 'in'",
+                "bn": "অব্যয় ফী 'মধ্যে'"
+              }
+            },
+            {
+              "ar": "ٱلْمَجَٰلِسِ",
+              "en": "the assemblies",
+              "bn": "বৈঠকের",
+              "role": {
+                "en": "def. genitive plural noun",
+                "bn": "আল + মাজরুর বহুবচন বিশেষ্য"
+              }
+            },
+            {
+              "ar": "فَٱفْسَحُوا۟",
+              "en": "then make room",
+              "bn": "তোমরা তখন প্রশস্ত করে দাও",
+              "role": {
+                "en": "fa- + imperative + 'you' (pl.)",
+                "bn": "ফা + আদেশসূচক ক্রিয়া + 'তোমরা'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "يَفْسَحِ",
+              "en": "Allah will make room",
+              "bn": "প্রশস্থতা দেবেন",
+              "role": {
+                "en": "present verb, jussive (answer to command)",
+                "bn": "বর্তমান ক্রিয়া, মাজযুম (আদেশের জবাব)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah will make room",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "لَكُمْ",
+              "en": "for you",
+              "bn": "তোমাদেরকে",
+              "role": {
+                "en": "li- 'for' + pronoun 'you' (pl.)",
+                "bn": "অব্যয় লি + সর্বনাম 'তোমাদের'"
+              }
+            },
+            {
+              "ar": "وَإِذَا",
+              "en": "And when",
+              "bn": "এবং যখন",
+              "role": {
+                "en": "and + time adverb idhā 'when'",
+                "bn": "এবং + সময়বাচক শব্দ ইযা 'যখন'"
+              }
+            },
+            {
+              "ar": "قِيلَ",
+              "en": "it is said",
+              "bn": "বলা হয়",
+              "role": {
+                "en": "passive past verb 'it is said'",
+                "bn": "কর্মবাচ্য অতীত ক্রিয়া 'বলা হয়'"
+              }
+            },
+            {
+              "ar": "ٱنشُزُوا۟",
+              "en": "Rise up",
+              "bn": "\"তোমরা উঠে যাও\"",
+              "role": {
+                "en": "imperative 'rise' + 'you' (pl.)",
+                "bn": "আদেশসূচক ক্রিয়া 'ওঠো' + 'তোমরা'"
+              }
+            },
+            {
+              "ar": "فَٱنشُزُوا۟",
+              "en": "then rise up",
+              "bn": "তোমরা তখন উঠে যেয়ো",
+              "role": {
+                "en": "fa- + imperative 'rise' + 'you' (pl.)",
+                "bn": "ফা + আদেশসূচক ক্রিয়া 'ওঠো' + 'তোমরা'"
+              }
+            },
+            {
+              "ar": "يَرْفَعِ",
+              "en": "Allah will raise",
+              "bn": "উন্নত করবেন/ বাড়িয়ে দেবেন",
+              "role": {
+                "en": "present verb, jussive (answer to command)",
+                "bn": "বর্তমান ক্রিয়া, মাজযুম (আদেশের জবাব)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah will raise",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "those who",
+              "bn": "(তাদেরকে) যারা",
+              "role": {
+                "en": "relative pronoun (masc. plural), object",
+                "bn": "সম্বন্ধবাচক সর্বনাম (পুং. বহু.), কর্ম"
+              }
+            },
+            {
+              "ar": "ءَامَنُوا۟",
+              "en": "believe",
+              "bn": "ঈমান এনেছে",
+              "role": {
+                "en": "Form IV past verb + subject 'they'",
+                "bn": "চতুর্থ রূপের অতীত ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "مِنكُمْ",
+              "en": "among you",
+              "bn": "তোমাদের মধ্য হতে",
+              "role": {
+                "en": "min 'among' + pronoun 'you' (pl.)",
+                "bn": "অব্যয় মিন 'মধ্য থেকে' + সর্বনাম 'তোমাদের'"
+              }
+            },
+            {
+              "ar": "وَٱلَّذِينَ",
+              "en": "and those who",
+              "bn": "এবং যাদের",
+              "role": {
+                "en": "and + relative pronoun (joined object)",
+                "bn": "এবং + সম্বন্ধবাচক সর্বনাম (যুক্ত কর্ম)"
+              }
+            },
+            {
+              "ar": "أُوتُوا۟",
+              "en": "were given",
+              "bn": "দেয়া হয়েছে",
+              "role": {
+                "en": "Form IV passive past verb + 'they'",
+                "bn": "চতুর্থ রূপের কর্মবাচ্য অতীত ক্রিয়া + 'তারা'"
+              }
+            },
+            {
+              "ar": "ٱلْعِلْمَ",
+              "en": "the knowledge",
+              "bn": "জ্ঞান",
+              "role": {
+                "en": "def. accusative noun (second object)",
+                "bn": "আল + মানসুব বিশেষ্য (দ্বিতীয় কর্ম)"
+              }
+            },
+            {
+              "ar": "دَرَجَٰتٍ",
+              "en": "(in) degrees",
+              "bn": "মর্যাদায় (উন্নত করবেন)",
+              "role": {
+                "en": "indef. accusative plural noun 'in degrees'",
+                "bn": "অনির্দিষ্ট মানসুব বহুবচন বিশেষ্য 'মর্যাদায়'"
+              }
+            },
+            {
+              "ar": "وَٱللَّهُ",
+              "en": "And Allah",
+              "bn": "এবং আল্লাহ্‌",
+              "role": {
+                "en": "and + nominative proper noun (mubtadaʾ)",
+                "bn": "এবং + মারফু নামবাচক বিশেষ্য (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "بِمَا",
+              "en": "of what",
+              "bn": "সেবিষয়ে যা",
+              "role": {
+                "en": "bi- 'of' + relative mā 'what'",
+                "bn": "অব্যয় বি + সম্বন্ধবাচক মা 'যা'"
+              }
+            },
+            {
+              "ar": "تَعْمَلُونَ",
+              "en": "you do",
+              "bn": "তোমরা কাজ করছ",
+              "role": {
+                "en": "present verb + subject 'you' (pl.)",
+                "bn": "বর্তমান ক্রিয়া + কর্তা 'তোমরা'"
+              }
+            },
+            {
+              "ar": "خَبِيرٌ",
+              "en": "(is) All-Aware",
+              "bn": "খুব অবহিত",
+              "role": {
+                "en": "indef. nominative noun (khabar)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষ্য (খবর)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "58:12",
+          "trans": {
+            "en": "O you who have believed, when you [wish to] privately consult the Messenger, present before your consultation a charity. That is better for you and purer. But if you find not [the means] - then indeed, Allāh is Forgiving and Merciful.",
+            "bn": "হে মু’মিনগণ! তোমরা যখন রসূলের সঙ্গে গোপনে কথা বল, তখন গোপনে কথা বলার আগে সদাক্বাহ দাও, এটাই তোমাদের জন্য উত্তম ও অতি পবিত্র পন্থা। আর যদি সদাক্বাহ জোগাড় করতে না পার, তাহলে আল্লাহ অতি ক্ষমাশীল, অতি দয়ালু।"
+          },
+          "note": {
+            "en": "fa-qaddimū is a Form II imperative, 'present', and its object ṣadaqatan comes last. Between them, bayna yaday najwākum, literally 'between the two hands of your consultation', means 'before it'; yaday is a dual that has lost its -ni because it is muḍāf.",
+            "bn": "ফা-কাদ্দিমূ দ্বিতীয় রূপের আদেশসূচক ক্রিয়া, \"পেশ করো\"। তার কর্ম সাদাকাতান এসেছে একেবারে শেষে। মাঝের বাইনা ইয়াদাই নাজওয়াকুম-এর আক্ষরিক অর্থ \"তোমাদের একান্ত আলাপের দুই হাতের মাঝে\", মানে আলাপের আগে। ইয়াদাই দ্বিবচন, মুদাফ হওয়ায় শেষের -নি পড়ে গেছে।"
+          },
+          "words": [
+            {
+              "ar": "يَٰٓأَيُّهَا",
+              "en": "O you who believe",
+              "bn": "হে",
+              "role": {
+                "en": "vocative yā + ayyu (munādā) + hā",
+                "bn": "সম্বোধনের ইয়া + আইয়ু (মুনাদা) + হা"
+              }
+            },
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "O you who believe",
+              "bn": "যারা",
+              "role": {
+                "en": "relative pronoun (masc. plural)",
+                "bn": "সম্বন্ধবাচক সর্বনাম (পুংলিঙ্গ বহুবচন)"
+              }
+            },
+            {
+              "ar": "ءَامَنُوٓا۟",
+              "en": "O you who believe",
+              "bn": "ঈমান এনেছ",
+              "role": {
+                "en": "Form IV past verb + subject 'they'",
+                "bn": "চতুর্থ রূপের অতীত ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "إِذَا",
+              "en": "When",
+              "bn": "যখন",
+              "role": {
+                "en": "time adverb idhā 'when'",
+                "bn": "সময়বাচক শব্দ ইযা 'যখন'"
+              }
+            },
+            {
+              "ar": "نَٰجَيْتُمُ",
+              "en": "you privately consult",
+              "bn": "তোমরা একান্তে কথা বলবে",
+              "role": {
+                "en": "Form III past verb + subject 'you' (pl.)",
+                "bn": "তৃতীয় রূপের অতীত ক্রিয়া + কর্তা 'তোমরা'"
+              }
+            },
+            {
+              "ar": "ٱلرَّسُولَ",
+              "en": "the Messenger",
+              "bn": "রাসূলের সাথে",
+              "role": {
+                "en": "def. accusative noun (object)",
+                "bn": "আল + মানসুব বিশেষ্য (কর্ম)"
+              }
+            },
+            {
+              "ar": "فَقَدِّمُوا۟",
+              "en": "then offer",
+              "bn": "তোমরা পেশ করবে",
+              "role": {
+                "en": "fa- + Form II imperative + 'you' (pl.)",
+                "bn": "ফা + দ্বিতীয় রূপের আদেশসূচক ক্রিয়া + 'তোমরা'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "بَيْنَ",
+              "en": "before",
+              "bn": "(মাঝে)",
+              "role": {
+                "en": "accusative adverb 'between' (muḍāf)",
+                "bn": "মানসুব স্থানবাচক শব্দ 'মাঝে' (মুদাফ)"
+              }
+            },
+            {
+              "ar": "يَدَىْ",
+              "en": "before",
+              "bn": "পূর্বে",
+              "role": {
+                "en": "genitive dual noun 'hands' (muḍāf ilayh)",
+                "bn": "মাজরুর দ্বিবচন বিশেষ্য 'দুই হাত' (মুদাফ ইলাইহি)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "نَجْوَىٰكُمْ",
+              "en": "your private consultation",
+              "bn": "তোমার একান্তে কথা বলার",
+              "role": {
+                "en": "genitive noun (muḍāf ilayh) + 'your'",
+                "bn": "মাজরুর বিশেষ্য (মুদাফ ইলাইহি) + 'তোমাদের'"
+              }
+            },
+            {
+              "ar": "صَدَقَةً",
+              "en": "charity",
+              "bn": "সদকা",
+              "role": {
+                "en": "indef. accusative noun (object)",
+                "bn": "অনির্দিষ্ট মানসুব বিশেষ্য (কর্ম)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ذَٰلِكَ",
+              "en": "That",
+              "bn": "এটা",
+              "role": {
+                "en": "demonstrative 'that' (mubtadaʾ)",
+                "bn": "নির্দেশক সর্বনাম 'এটা' (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "خَيْرٌ",
+              "en": "(is) better",
+              "bn": "উত্তম",
+              "role": {
+                "en": "indef. nominative noun 'better' (khabar)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষ্য 'উত্তম' (খবর)"
+              }
+            },
+            {
+              "ar": "لَّكُمْ",
+              "en": "for you",
+              "bn": "তোমাদের জন্য",
+              "role": {
+                "en": "li- 'for' + pronoun 'you' (pl.)",
+                "bn": "অব্যয় লি + সর্বনাম 'তোমাদের'"
+              }
+            },
+            {
+              "ar": "وَأَطْهَرُ",
+              "en": "and purer",
+              "bn": "এবং পবিত্র",
+              "role": {
+                "en": "and + nominative elative 'purer' (joined)",
+                "bn": "এবং + মারফু তুলনাবাচক বিশেষ্য 'অধিক পবিত্র' (যুক্ত)"
+              }
+            },
+            {
+              "ar": "فَإِن",
+              "en": "But if",
+              "bn": "আর যদি",
+              "role": {
+                "en": "fa- + conditional particle in 'if'",
+                "bn": "ফা + শর্তবাচক অব্যয় ইন 'যদি'"
+              }
+            },
+            {
+              "ar": "لَّمْ",
+              "en": "not",
+              "bn": "না",
+              "role": {
+                "en": "negative particle lam",
+                "bn": "নেতিবাচক অব্যয় লাম"
+              }
+            },
+            {
+              "ar": "تَجِدُوا۟",
+              "en": "you find",
+              "bn": "তোমরা পাও (কিছুই)",
+              "role": {
+                "en": "present verb, jussive + 'you' (pl.)",
+                "bn": "বর্তমান ক্রিয়া, মাজযুম + 'তোমরা'"
+              }
+            },
+            {
+              "ar": "فَإِنَّ",
+              "en": "then indeed",
+              "bn": "নিশ্চয়ই তবে",
+              "role": {
+                "en": "fa- (of the answer) + inna",
+                "bn": "জবাবের ফা + ইন্না"
+              }
+            },
+            {
+              "ar": "ٱللَّهَ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "accusative proper noun (inna's noun)",
+                "bn": "মানসুব নামবাচক বিশেষ্য (ইন্না-র ইসম)"
+              }
+            },
+            {
+              "ar": "غَفُورٌ",
+              "en": "(is) Oft-Forgiving",
+              "bn": "ক্ষমাশীল",
+              "role": {
+                "en": "indef. nominative adjective (inna's khabar)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষণ (ইন্না-র খবর)"
+              }
+            },
+            {
+              "ar": "رَّحِيمٌ",
+              "en": "Most Merciful",
+              "bn": "পরম দয়ালু",
+              "role": {
+                "en": "indef. nominative adjective 'Merciful'",
+                "bn": "অনির্দিষ্ট মারফু বিশেষণ 'পরম দয়ালু'"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "58:13",
+          "trans": {
+            "en": "Have you feared to present before your consultation charities? Then when you do not and Allāh has forgiven you, then [at least] establish prayer and give zakāh and obey Allāh and His Messenger. And Allāh is Aware of what you do.",
+            "bn": "তোমরা কি ভয় পেয়ে গেলে যে, তোমাদেরকে (নবীর সঙ্গে) গোপনে কথাবার্তা বলার আগে সদাক্বাহ দিতে হবে? তোমরা যদি তা না কর, তাহলে আল্লাহ তোমাদেরকে ক্ষমা করে দিলেন, কাজেই তোমরা নামায কায়িম কর, যাকাত দাও এবং আল্লাহ ও তাঁর রসূলের আনুগত্য কর। তোমরা যা কর সে বিষয়ে আল্লাহ পুরোপুরি অবগত।"
+          },
+          "note": {
+            "en": "After an, the present verb is subjunctive, and the plural ending -ūna loses its -na: tuqaddimū. After lam, the jussive drops the same -na: lam tafʿalū.",
+            "bn": "আন-এর পরে বর্তমান ক্রিয়া মানসুব হয়, আর বহুবচনের -ঊনা থেকে -না পড়ে যায়: তুকাদ্দিমূ। লাম-এর পরে মাজযুম রূপেও একই -না পড়ে: লাম তাফ'আলূ।"
+          },
+          "words": [
+            {
+              "ar": "ءَأَشْفَقْتُمْ",
+              "en": "Are you afraid",
+              "bn": "তোমরা কি ভয় পেয়ে গেছ",
+              "role": {
+                "en": "question a- + Form IV past verb + 'you' (pl.)",
+                "bn": "প্রশ্নবোধক আ + চতুর্থ রূপের অতীত ক্রিয়া + 'তোমরা'"
+              }
+            },
+            {
+              "ar": "أَن",
+              "en": "to",
+              "bn": "যে",
+              "role": {
+                "en": "particle an 'that' (+ subjunctive)",
+                "bn": "অব্যয় আন 'যে' (পরের ক্রিয়া মানসুব)"
+              }
+            },
+            {
+              "ar": "تُقَدِّمُوا۟",
+              "en": "offer",
+              "bn": "তোমরা দিবে",
+              "role": {
+                "en": "Form II present verb, subjunctive + 'you'",
+                "bn": "দ্বিতীয় রূপের বর্তমান ক্রিয়া, মানসুব + 'তোমরা'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "بَيْنَ",
+              "en": "before",
+              "bn": "(মাঝে)",
+              "role": {
+                "en": "accusative adverb 'between' (muḍāf)",
+                "bn": "মানসুব স্থানবাচক শব্দ 'মাঝে' (মুদাফ)"
+              }
+            },
+            {
+              "ar": "يَدَىْ",
+              "en": "before",
+              "bn": "পূর্বে",
+              "role": {
+                "en": "genitive dual noun 'hands' (muḍāf ilayh)",
+                "bn": "মাজরুর দ্বিবচন বিশেষ্য 'দুই হাত' (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "نَجْوَىٰكُمْ",
+              "en": "your private consultation",
+              "bn": "তোমাদের একান্তে কথা বলার",
+              "role": {
+                "en": "genitive noun (muḍāf ilayh) + 'your'",
+                "bn": "মাজরুর বিশেষ্য (মুদাফ ইলাইহি) + 'তোমাদের'"
+              }
+            },
+            {
+              "ar": "صَدَقَٰتٍ",
+              "en": "charities",
+              "bn": "সদকা",
+              "role": {
+                "en": "indef. acc. fem. plural noun (object)",
+                "bn": "অনির্দিষ্ট মানসুব স্ত্রী. বহুবচন বিশেষ্য (কর্ম)"
+              }
+            },
+            {
+              "ar": "فَإِذْ",
+              "en": "Then when",
+              "bn": "যদি অতঃপর",
+              "role": {
+                "en": "fa- + idh 'when'",
+                "bn": "ফা + ইয 'যখন'"
+              }
+            },
+            {
+              "ar": "لَمْ",
+              "en": "you do not",
+              "bn": "না",
+              "role": {
+                "en": "negative particle lam",
+                "bn": "নেতিবাচক অব্যয় লাম"
+              }
+            },
+            {
+              "ar": "تَفْعَلُوا۟",
+              "en": "you do not",
+              "bn": "তোমরা করতে পার",
+              "role": {
+                "en": "present verb, jussive + 'you' (pl.)",
+                "bn": "বর্তমান ক্রিয়া, মাজযুম + 'তোমরা'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "وَتَابَ",
+              "en": "and Allah has forgiven",
+              "bn": "আর মাফ করে দিলেন",
+              "role": {
+                "en": "and + past verb 'forgave'",
+                "bn": "এবং + অতীত ক্রিয়া 'ক্ষমা করলেন'"
+              }
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "and Allah has forgiven",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "عَلَيْكُمْ",
+              "en": "you",
+              "bn": "তোমাদেরকে",
+              "role": {
+                "en": "ʿalā + pronoun 'you' (pl.)",
+                "bn": "অব্যয় আলা + সর্বনাম 'তোমাদের'"
+              }
+            },
+            {
+              "ar": "فَأَقِيمُوا۟",
+              "en": "then establish",
+              "bn": "তবে তোমরা প্রতিষ্ঠা কর",
+              "role": {
+                "en": "fa- + Form IV imperative + 'you' (pl.)",
+                "bn": "ফা + চতুর্থ রূপের আদেশসূচক ক্রিয়া + 'তোমরা'"
+              }
+            },
+            {
+              "ar": "ٱلصَّلَوٰةَ",
+              "en": "the prayer",
+              "bn": "সালাত",
+              "role": {
+                "en": "def. accusative noun (object)",
+                "bn": "আল + মানসুব বিশেষ্য (কর্ম)"
+              }
+            },
+            {
+              "ar": "وَءَاتُوا۟",
+              "en": "and give",
+              "bn": "এবং তোমরা দাও",
+              "role": {
+                "en": "and + Form IV imperative + 'you' (pl.)",
+                "bn": "এবং + চতুর্থ রূপের আদেশসূচক ক্রিয়া + 'তোমরা'"
+              }
+            },
+            {
+              "ar": "ٱلزَّكَوٰةَ",
+              "en": "the zakah",
+              "bn": "জাকাত",
+              "role": {
+                "en": "def. accusative noun (object)",
+                "bn": "আল + মানসুব বিশেষ্য (কর্ম)"
+              }
+            },
+            {
+              "ar": "وَأَطِيعُوا۟",
+              "en": "and obey",
+              "bn": "এবং তোমরা আনুগত্য করো",
+              "role": {
+                "en": "and + Form IV imperative + 'you' (pl.)",
+                "bn": "এবং + চতুর্থ রূপের আদেশসূচক ক্রিয়া + 'তোমরা'"
+              }
+            },
+            {
+              "ar": "ٱللَّهَ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌র",
+              "role": {
+                "en": "accusative proper noun (object)",
+                "bn": "মানসুব নামবাচক বিশেষ্য (কর্ম)"
+              }
+            },
+            {
+              "ar": "وَرَسُولَهُۥ",
+              "en": "and His Messenger",
+              "bn": "ও তাঁর রাসূলের",
+              "role": {
+                "en": "and + accusative noun (joined) + 'His'",
+                "bn": "এবং + মানসুব বিশেষ্য (যুক্ত) + 'তাঁর'"
+              }
+            },
+            {
+              "ar": "وَٱللَّهُ",
+              "en": "And Allah",
+              "bn": "এবং আল্লাহ্‌",
+              "role": {
+                "en": "and + nominative proper noun (mubtadaʾ)",
+                "bn": "এবং + মারফু নামবাচক বিশেষ্য (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "خَبِيرٌۢ",
+              "en": "(is) All-Aware",
+              "bn": "খুব অবহিত",
+              "role": {
+                "en": "indef. nominative adjective (khabar)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষণ (খবর)"
+              }
+            },
+            {
+              "ar": "بِمَا",
+              "en": "of what",
+              "bn": "ঐ বিষয়ে যা",
+              "role": {
+                "en": "bi- 'of' + relative mā 'what'",
+                "bn": "অব্যয় বি + সম্বন্ধবাচক মা 'যা'"
+              }
+            },
+            {
+              "ar": "تَعْمَلُونَ",
+              "en": "you do",
+              "bn": "তোমরা কাজ কর",
+              "role": {
+                "en": "present verb + subject 'you' (pl.)",
+                "bn": "বর্তমান ক্রিয়া + কর্তা 'তোমরা'"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "In فَٱفْسَحُوا۟ يَفْسَحِ ٱللَّهُ (58:11), why is يَفْسَحِ jussive?",
+          "bn": "فَٱفْسَحُوا۟ يَفْسَحِ ٱللَّهُ (৫৮:১১)-এ يَفْسَحِ মাজযুম কেন?"
+        },
+        "options": [
+          {
+            "en": "Because lam comes before it",
+            "bn": "কারণ এর আগে লাম আছে"
+          },
+          {
+            "en": "Because it follows the particle an",
+            "bn": "কারণ এটি অব্যয় আন-এর পরে এসেছে"
+          },
+          {
+            "en": "Because lā of prohibition comes before it",
+            "bn": "কারণ এর আগে নিষেধসূচক লা আছে"
+          },
+          {
+            "en": "Because it answers the command fa-fsaḥū, stating its result",
+            "bn": "কারণ এটি আদেশ ফাফসাহূ-র জবাব, তার ফল জানায়"
+          }
+        ],
+        "answer": 3,
+        "explain": {
+          "en": "No particle stands before yafsaḥi. It is jussive because it answers the command fa-fsaḥū: \"make room, and Allāh will make room\". After an, a verb would be subjunctive, not jussive.",
+          "bn": "ইয়াফসাহি-র আগে কোনো অব্যয় নেই। এটি মাজযুম, কারণ এটি আদেশ ফাফসাহূ-র জবাব: \"জায়গা করে দাও, আল্লাহ জায়গা করে দেবেন\"। আন-এর পরে হলে ক্রিয়া মাজযুম নয়, মানসুব হতো।"
+        }
+      }
+    },
+    {
+      "id": "read-58-7",
+      "unit": "read-58",
+      "icon": "📖",
+      "title": {
+        "en": "al-Mujādilah 14-16: a sentence that describes an indefinite noun",
+        "bn": "আল-মুজাদালাহ ১৪-১৬: অনির্দিষ্ট বিশেষ্যের বর্ণনা দেয় যে বাক্য"
+      },
+      "concept": {
+        "en": "When an indefinite noun is followed by a sentence that refers back to it, the sentence describes it, like an adjective. In 58:14 <b>qawman</b> \"a people\" is described by <b>ghaḍiba llāhu ʿalayhim</b>, and the -him points back to qawman. A single adjective does the same job when it matches its noun, as <b>shadīdan</b> matches ʿadhāban (58:15).",
+        "bn": "অনির্দিষ্ট বিশেষ্যের পরে এমন বাক্য এলে, যা তার দিকে ফিরে যায়, বাক্যটি বিশেষণের মতো তার বর্ণনা দেয়। ৫৮:১৪-এ <b>কাওমান</b> (\"একটি সম্প্রদায়\")-এর বর্ণনা দেয় <b>গাদিবাল্লাহু আলাইহিম</b>, আর -হিম ফিরে যায় কাওমান-এর দিকে। একটি মাত্র বিশেষণও একই কাজ করে, যদি বিশেষ্যের সঙ্গে মেলে, যেমন <b>শাদীদান</b> মেলে আযাবান-এর সঙ্গে (৫৮:১৫)।"
+      },
+      "examples": [
+        {
+          "ref": "58:14",
+          "trans": {
+            "en": "Have you not considered those who make allies of a people with whom Allāh has become angry? They are neither of you nor of them, and they swear to untruth while they know [they are lying].",
+            "bn": "তুমি কি তাদেরকে দেখনি যারা সেই সম্প্রদায়ের সঙ্গে বন্ধুত্ব করে যেই সম্প্রদায়ের প্রতি আল্লাহ রাগান্বিত? তারা না তোমাদের লোক, আর না তাদের লোক আর তারা জেনে শুনে মিথ্যে শপথ করে।"
+          },
+          "note": {
+            "en": "qawman is indefinite, so the sentence after it, ghaḍiba llāhu ʿalayhim, describes it: 'a people with whom Allāh is angry'. The -him in ʿalayhim points back to qawman and ties the description to it.",
+            "bn": "কাওমান অনির্দিষ্ট, তাই তার পরের বাক্য গাদিবাল্লাহু আলাইহিম তার বর্ণনা দেয়: \"এমন সম্প্রদায়, যাদের ওপর আল্লাহ রাগান্বিত\"। আলাইহিম-এর -হিম কাওমান-এর দিকে ফিরে গিয়ে বর্ণনাটিকে তার সঙ্গে বেঁধে দেয়।"
+          },
+          "words": [
+            {
+              "ar": "أَلَمْ",
+              "en": "Do not",
+              "bn": "নি কি",
+              "role": {
+                "en": "question a- + negative particle lam",
+                "bn": "প্রশ্নবোধক আ + নেতিবাচক অব্যয় লাম"
+              }
+            },
+            {
+              "ar": "تَرَ",
+              "en": "you see",
+              "bn": "তুমি দেখ",
+              "role": {
+                "en": "present verb, jussive (long ā dropped)",
+                "bn": "বর্তমান ক্রিয়া, মাজযুম (শেষের দীর্ঘ আ লোপ)"
+              }
+            },
+            {
+              "ar": "إِلَى",
+              "en": "[to]",
+              "bn": "প্রতি",
+              "role": {
+                "en": "preposition ilā 'to'",
+                "bn": "অব্যয় ইলা 'দিকে'"
+              }
+            },
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "those who",
+              "bn": "(তাদের) যারা",
+              "role": {
+                "en": "relative pronoun (masc. plural)",
+                "bn": "সম্বন্ধবাচক সর্বনাম (পুংলিঙ্গ বহুবচন)"
+              }
+            },
+            {
+              "ar": "تَوَلَّوْا۟",
+              "en": "take as allies",
+              "bn": "বন্ধু বানিয়ে নিয়েছে",
+              "role": {
+                "en": "Form V past verb + subject 'they'",
+                "bn": "পঞ্চম রূপের অতীত ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "قَوْمًا",
+              "en": "a people",
+              "bn": "(এমন) সম্প্রদায়",
+              "role": {
+                "en": "indef. accusative noun (object)",
+                "bn": "অনির্দিষ্ট মানসুব বিশেষ্য (কর্ম)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "غَضِبَ",
+              "en": "wrath",
+              "bn": "অভিশাপ দিয়েছেন",
+              "role": {
+                "en": "past verb; its clause describes qawman",
+                "bn": "অতীত ক্রিয়া; এর বাক্যাংশ কাওমান-এর বর্ণনা"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "(of) Allah",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "عَلَيْهِم",
+              "en": "(is) upon them",
+              "bn": "যাদের উপর",
+              "role": {
+                "en": "ʿalā + 'them' (refers back to qawman)",
+                "bn": "অব্যয় আলা + 'তাদের' (কাওমান-এর দিকে ফেরে)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "مَّا",
+              "en": "They (are) not",
+              "bn": "না",
+              "role": {
+                "en": "negative particle mā",
+                "bn": "নেতিবাচক অব্যয় মা"
+              }
+            },
+            {
+              "ar": "هُم",
+              "en": "They (are) not",
+              "bn": "তারা",
+              "role": {
+                "en": "pronoun 'they'",
+                "bn": "সর্বনাম 'তারা'"
+              }
+            },
+            {
+              "ar": "مِّنكُمْ",
+              "en": "of you",
+              "bn": "তোমাদের অন্তর্ভুক্ত",
+              "role": {
+                "en": "min 'of' + pronoun 'you' (pl.)",
+                "bn": "অব্যয় মিন + সর্বনাম 'তোমাদের'"
+              }
+            },
+            {
+              "ar": "وَلَا",
+              "en": "and not",
+              "bn": "এবং না",
+              "role": {
+                "en": "and + negative particle lā",
+                "bn": "এবং + নেতিবাচক অব্যয় লা"
+              }
+            },
+            {
+              "ar": "مِنْهُمْ",
+              "en": "of them",
+              "bn": "তাদের অন্তর্ভুক্ত",
+              "role": {
+                "en": "min 'of' + pronoun 'them'",
+                "bn": "অব্যয় মিন + সর্বনাম 'তাদের'"
+              }
+            },
+            {
+              "ar": "وَيَحْلِفُونَ",
+              "en": "and they swear",
+              "bn": "এবং তারা শপথ করে",
+              "role": {
+                "en": "and + present verb + subject 'they'",
+                "bn": "এবং + বর্তমান ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "عَلَى",
+              "en": "to",
+              "bn": "উপর",
+              "role": {
+                "en": "preposition ʿalā 'to'",
+                "bn": "অব্যয় আলা 'ওপর'"
+              }
+            },
+            {
+              "ar": "ٱلْكَذِبِ",
+              "en": "the lie",
+              "bn": "মিথ্যার",
+              "role": {
+                "en": "def. genitive noun 'the lie'",
+                "bn": "আল + মাজরুর বিশেষ্য 'মিথ্যা'"
+              }
+            },
+            {
+              "ar": "وَهُمْ",
+              "en": "while they",
+              "bn": "অথচ তারা",
+              "role": {
+                "en": "wāw of ḥāl + pronoun 'they' (mubtadaʾ)",
+                "bn": "হালের ওয়াও + সর্বনাম 'তারা' (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "يَعْلَمُونَ",
+              "en": "know",
+              "bn": "জানেও",
+              "role": {
+                "en": "present verb + 'they' (khabar)",
+                "bn": "বর্তমান ক্রিয়া + 'তারা' (খবর)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "58:15",
+          "trans": {
+            "en": "Allāh has prepared for them a severe punishment. Indeed, it was evil that they were doing.",
+            "bn": "আল্লাহ তাদের জন্য প্রস্তুত করে রেখেছেন কঠিন শাস্তি, তারা যা করে তা কতই না মন্দ!"
+          },
+          "note": {
+            "en": "Here a single adjective does the describing: shadīdan matches ʿadhāban as indefinite and accusative. kānū yaʿmalūna, kāna with a present verb, speaks of what went on over time: 'what they were doing'.",
+            "bn": "এখানে বর্ণনা দিচ্ছে একটি মাত্র বিশেষণ: শাদীদান আযাবান-এর মতোই অনির্দিষ্ট ও মানসুব। কানূ ইয়া'মালূনা, অর্থাৎ কানা + বর্তমান ক্রিয়া, এমন কাজ বোঝায় যা চলে আসছিল: \"তারা যা করে আসছিল\"।"
+          },
+          "words": [
+            {
+              "ar": "أَعَدَّ",
+              "en": "Allah has prepared",
+              "bn": "প্রস্তুত রেখেছেন",
+              "role": {
+                "en": "Form IV past verb 'prepared'",
+                "bn": "চতুর্থ রূপের অতীত ক্রিয়া 'প্রস্তুত রেখেছেন'"
+              }
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah has prepared",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "لَهُمْ",
+              "en": "for them",
+              "bn": "তাদের জন্যে",
+              "role": {
+                "en": "li- 'for' + pronoun 'them'",
+                "bn": "অব্যয় লি + সর্বনাম 'তাদের'"
+              }
+            },
+            {
+              "ar": "عَذَابًا",
+              "en": "a punishment",
+              "bn": "শাস্তি",
+              "role": {
+                "en": "indef. accusative noun (object)",
+                "bn": "অনির্দিষ্ট মানসুব বিশেষ্য (কর্ম)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "شَدِيدًا",
+              "en": "severe",
+              "bn": "কঠোর",
+              "role": {
+                "en": "indef. accusative adjective (naʿt)",
+                "bn": "অনির্দিষ্ট মানসুব বিশেষণ (না'ত)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "إِنَّهُمْ",
+              "en": "Indeed, [they]",
+              "bn": "নিশ্চয়ই তারা",
+              "role": {
+                "en": "inna + 'they' (its noun)",
+                "bn": "ইন্না + 'তারা' (তার ইসম)"
+              }
+            },
+            {
+              "ar": "سَآءَ",
+              "en": "evil is",
+              "bn": "অতি মন্দ",
+              "role": {
+                "en": "past verb of blame sāʾa 'evil is'",
+                "bn": "নিন্দাসূচক অতীত ক্রিয়া সা-আ 'কতই না মন্দ'"
+              }
+            },
+            {
+              "ar": "مَا",
+              "en": "what",
+              "bn": "যা কিছু",
+              "role": {
+                "en": "relative mā 'what'",
+                "bn": "সম্বন্ধবাচক মা 'যা'"
+              }
+            },
+            {
+              "ar": "كَانُوا۟",
+              "en": "they used to",
+              "bn": "তারা ছিল",
+              "role": {
+                "en": "past verb kāna + 'they' (its noun)",
+                "bn": "অতীত ক্রিয়া কানা + 'তারা' (তার ইসম)"
+              }
+            },
+            {
+              "ar": "يَعْمَلُونَ",
+              "en": "do",
+              "bn": "তারা কাজ করে আসছে",
+              "role": {
+                "en": "present verb + 'they' (kāna's khabar)",
+                "bn": "বর্তমান ক্রিয়া + 'তারা' (কানা-র খবর)"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "58:16",
+          "trans": {
+            "en": "They took their [false] oaths as a cover, so they averted [people] from the way of Allāh, and for them is a humiliating punishment.",
+            "bn": "তারা তাদের শপথগুলোকে ঢাল বানিয়ে নিয়েছে, এর সাহায্যে তারা মানুষকে আল্লাহর পথ থেকে ফিরিয়ে রাখে, এ কারণে তাদের জন্য আছে অপমানজনক শাস্তি।"
+          },
+          "note": {
+            "en": "ittakhadha, Form VIII, takes two objects: aymānahum 'their oaths' and junnatan 'a cover', meaning they took the first as the second. fa-ṣaddū then gives what followed: 'so they averted'.",
+            "bn": "অষ্টম রূপের ইত্তাখাযা দুটি কর্ম নেয়: আইমানাহুম (\"তাদের শপথগুলো\") আর জুন্নাতান (\"ঢাল\")। অর্থাৎ প্রথমটিকে দ্বিতীয়টি বানিয়ে নিয়েছে। এরপর ফা-সাদ্দূ জানায় তার ফল: \"ফলে তারা বাধা দিল\"।"
+          },
+          "words": [
+            {
+              "ar": "ٱتَّخَذُوٓا۟",
+              "en": "They have taken",
+              "bn": "তারা গ্রহণ করেছে",
+              "role": {
+                "en": "Form VIII past verb + subject 'they'",
+                "bn": "অষ্টম রূপের অতীত ক্রিয়া + কর্তা 'তারা'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "أَيْمَٰنَهُمْ",
+              "en": "their oaths",
+              "bn": "তাদের শপথগুলোকে",
+              "role": {
+                "en": "accusative plural noun (1st object) + 'their'",
+                "bn": "মানসুব বহুবচন বিশেষ্য (প্রথম কর্ম) + 'তাদের'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "جُنَّةً",
+              "en": "(as) a cover",
+              "bn": "ঢালস্বরূপ",
+              "role": {
+                "en": "indef. accusative noun (second object)",
+                "bn": "অনির্দিষ্ট মানসুব বিশেষ্য (দ্বিতীয় কর্ম)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "فَصَدُّوا۟",
+              "en": "so they hinder",
+              "bn": "অতঃপর তারা বাধা দেয়",
+              "role": {
+                "en": "fa- 'so' + past verb + subject 'they'",
+                "bn": "ফা 'ফলে' + অতীত ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "عَن",
+              "en": "from",
+              "bn": "হতে",
+              "role": {
+                "en": "preposition ʿan 'from'",
+                "bn": "অব্যয় আন 'থেকে'"
+              }
+            },
+            {
+              "ar": "سَبِيلِ",
+              "en": "(the) way of Allah",
+              "bn": "পথ",
+              "role": {
+                "en": "genitive noun (muḍāf)",
+                "bn": "মাজরুর বিশেষ্য (মুদাফ)"
+              }
+            },
+            {
+              "ar": "ٱللَّهِ",
+              "en": "(the) way of Allah",
+              "bn": "আল্লাহ্‌র",
+              "role": {
+                "en": "genitive proper noun (muḍāf ilayh)",
+                "bn": "মাজরুর নামবাচক বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "فَلَهُمْ",
+              "en": "so for them",
+              "bn": "অতএব তাদের জন্য (রয়েছে)",
+              "role": {
+                "en": "fa- + li- 'for' + 'them' (fronted khabar)",
+                "bn": "ফা + লি + 'তাদের' (আগে আসা খবর)"
+              }
+            },
+            {
+              "ar": "عَذَابٌ",
+              "en": "(is) a punishment",
+              "bn": "শাস্তি",
+              "role": {
+                "en": "indef. nominative noun (delayed mubtadaʾ)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষ্য (বিলম্বিত মুবতাদা)"
+              }
+            },
+            {
+              "ar": "مُّهِينٌ",
+              "en": "humiliating",
+              "bn": "অপমানকর",
+              "role": {
+                "en": "indef. nom. Form IV participle (naʿt)",
+                "bn": "অনির্দিষ্ট মারফু চতুর্থ রূপের ইসমে ফা'য়িল (না'ত)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "In قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِم (58:14), what does the clause غَضِبَ ٱللَّهُ عَلَيْهِم do?",
+          "bn": "قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِم (৫৮:১৪)-এ غَضِبَ ٱللَّهُ عَلَيْهِم বাক্যাংশের কাজ কী?"
+        },
+        "options": [
+          {
+            "en": "It describes the indefinite noun qawman",
+            "bn": "এটি অনির্দিষ্ট বিশেষ্য কাওমান-এর বর্ণনা দেয়"
+          },
+          {
+            "en": "It is the subject of tawallaw",
+            "bn": "এটি তাওয়াল্লাও-এর কর্তা"
+          },
+          {
+            "en": "It is the answer to a condition",
+            "bn": "এটি কোনো শর্তের জবাব"
+          },
+          {
+            "en": "It is the khabar of inna",
+            "bn": "এটি ইন্না-র খবর"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "en": "qawman is indefinite, and the sentence after it refers back to it through the -him of ʿalayhim, so it describes qawman: \"a people with whom Allāh is angry\". There is no condition and no inna here.",
+          "bn": "কাওমান অনির্দিষ্ট, আর তার পরের বাক্যটি আলাইহিম-এর -হিম দিয়ে তার দিকে ফিরে যায়। তাই বাক্যটি কাওমান-এর বর্ণনা: \"এমন সম্প্রদায়, যাদের ওপর আল্লাহ রাগান্বিত\"। এখানে কোনো শর্ত বা ইন্না নেই।"
+        }
+      }
+    },
+    {
+      "id": "read-58-8",
+      "unit": "read-58",
+      "icon": "📖",
+      "title": {
+        "en": "al-Mujādilah 17-19: hum between inna's noun and its predicate",
+        "bn": "আল-মুজাদালাহ ১৭-১৯: ইন্না-র ইসম ও খবরের মাঝে হুম"
+      },
+      "concept": {
+        "en": "In <b>innahum humu l-kādhibūna</b> (58:18) a pronoun, hum, stands between inna's noun and a definite predicate, giving \"it is they who are the liars\". Grammarians usually call it the pronoun of separation (<b>ḍamīr al-faṣl</b>), though some read it as a second mubtadaʾ. Compare 58:17, <b>hum fīhā khālidūna</b>, where hum simply opens a new sentence as its mubtadaʾ.",
+        "bn": "<b>ইন্নাহুম হুমুল কাযিবূনা</b> (৫৮:১৮)-তে ইন্না-র ইসম আর নির্দিষ্ট খবরের মাঝখানে একটি সর্বনাম হুম বসেছে, অর্থ দাঁড়ায় \"তারাই মিথ্যাবাদী\"। ব্যাকরণবিদরা সাধারণত একে পৃথককারী সর্বনাম (<b>দমীর আল-ফাসল</b>) বলেন, তবে কেউ কেউ একে দ্বিতীয় মুবতাদা ধরেন। তুলনা করুন ৫৮:১৭-এর <b>হুম ফীহা খালিদূন</b>: সেখানে হুম নতুন বাক্যের মুবতাদা মাত্র।"
+      },
+      "examples": [
+        {
+          "ref": "58:17",
+          "trans": {
+            "en": "Never will their wealth or their children avail them against Allāh at all. Those are the companions of the Fire; they will abide therein eternally",
+            "bn": "তাদের ধন-সম্পদ আর সন্তানাদি আল্লাহর শাস্তি থেকে তাদেরকে বাঁচানোর ব্যাপারে কোন কাজে আসবে না, তারা জাহান্নামের অধিবাসী, সেখানে তারা চিরকাল থাকবে।"
+          },
+          "note": {
+            "en": "lan with a present verb denies the future: lan tughniya, 'will never avail', with the subjunctive -a. The verb is feminine because its subject amwāluhum is a broken plural, which may take a feminine verb.",
+            "bn": "লান + বর্তমান ক্রিয়া ভবিষ্যতের কথা অস্বীকার করে: লান তুগনিয়া, \"কখনো কাজে আসবে না\"। ক্রিয়াটি মানসুব, শেষে -আ। এটি স্ত্রীলিঙ্গ, কারণ তার কর্তা আমওয়ালুহুম ভাঙা বহুবচন (জাম'উত তাকসীর), আর এমন বহুবচন স্ত্রীলিঙ্গ ক্রিয়া নিতে পারে।"
+          },
+          "words": [
+            {
+              "ar": "لَّن",
+              "en": "Never",
+              "bn": "কখনই না",
+              "role": {
+                "en": "negative particle lan 'never'",
+                "bn": "নেতিবাচক অব্যয় লান 'কখনো না'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "تُغْنِىَ",
+              "en": "will avail",
+              "bn": "কাজে লাগবে",
+              "role": {
+                "en": "Form IV present verb (fem.), subj. after lan",
+                "bn": "চতুর্থ রূপের বর্তমান ক্রিয়া (স্ত্রী.), লান-এর পরে মানসুব"
+              },
+              "hl": true
+            },
+            {
+              "ar": "عَنْهُمْ",
+              "en": "them",
+              "bn": "তাদের জন্যে",
+              "role": {
+                "en": "ʿan + pronoun 'them'",
+                "bn": "অব্যয় আন + সর্বনাম 'তাদের'"
+              }
+            },
+            {
+              "ar": "أَمْوَٰلُهُمْ",
+              "en": "their wealth",
+              "bn": "তাদের ধনসম্পদ",
+              "role": {
+                "en": "nominative plural noun (subject) + 'their'",
+                "bn": "মারফু বহুবচন বিশেষ্য (কর্তা) + 'তাদের'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "وَلَآ",
+              "en": "and not",
+              "bn": "এবং না",
+              "role": {
+                "en": "and + lā, repeating the negation",
+                "bn": "এবং + লা, না-বোধকতা আবার বলে"
+              }
+            },
+            {
+              "ar": "أَوْلَٰدُهُم",
+              "en": "their children",
+              "bn": "তাদের সন্তানাদি (বাঁচার জন্য)",
+              "role": {
+                "en": "nominative plural noun (joined) + 'their'",
+                "bn": "মারফু বহুবচন বিশেষ্য (যুক্ত) + 'তাদের'"
+              }
+            },
+            {
+              "ar": "مِّنَ",
+              "en": "against",
+              "bn": "হতে",
+              "role": {
+                "en": "preposition min 'against'",
+                "bn": "অব্যয় মিন 'থেকে'"
+              }
+            },
+            {
+              "ar": "ٱللَّهِ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "genitive proper noun",
+                "bn": "মাজরুর নামবাচক বিশেষ্য"
+              }
+            },
+            {
+              "ar": "شَيْـًٔا",
+              "en": "(in) anything",
+              "bn": "কিছুমাত্র",
+              "role": {
+                "en": "indef. accusative noun 'anything'",
+                "bn": "অনির্দিষ্ট মানসুব বিশেষ্য 'কিছুই'"
+              }
+            },
+            {
+              "ar": "أُو۟لَٰٓئِكَ",
+              "en": "Those",
+              "bn": "ঐসব লোক",
+              "role": {
+                "en": "demonstrative 'those' (mubtadaʾ)",
+                "bn": "নির্দেশক সর্বনাম 'ওরা' (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "أَصْحَٰبُ",
+              "en": "(will be) companions",
+              "bn": "অধিবাসী",
+              "role": {
+                "en": "nominative plural noun (khabar), muḍāf",
+                "bn": "মারফু বহুবচন বিশেষ্য (খবর), মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱلنَّارِ",
+              "en": "(of) the Fire",
+              "bn": "জাহান্নামের",
+              "role": {
+                "en": "def. genitive noun (muḍāf ilayh)",
+                "bn": "আল + মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "هُمْ",
+              "en": "they",
+              "bn": "তারা",
+              "role": {
+                "en": "pronoun 'they' (mubtadaʾ)",
+                "bn": "সর্বনাম 'তারা' (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "فِيهَا",
+              "en": "in it",
+              "bn": "তার মধ্যে",
+              "role": {
+                "en": "fī 'in' + pronoun 'it' (fem.)",
+                "bn": "অব্যয় ফী + সর্বনাম 'তা' (স্ত্রীলিঙ্গ)"
+              }
+            },
+            {
+              "ar": "خَٰلِدُونَ",
+              "en": "will abide forever",
+              "bn": "চিরকাল থাকবে",
+              "role": {
+                "en": "nominative plural participle (khabar)",
+                "bn": "মারফু বহুবচন ইসমে ফা'য়িল (খবর)"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "58:18",
+          "trans": {
+            "en": "On the Day Allāh will resurrect them all, and they will swear to Him as they swear to you and think that they are [standing] on something. Unquestionably, it is they who are the liars.",
+            "bn": "আল্লাহ যেদিন তাদের সবাইকে আবার জীবিত করে উঠাবেন, তখন তারা আল্লাহর কাছে ঠিক সে রকম শপথই করবে, যেমন শপথ তারা তোমাদের নিকট করে, আর তারা মনে করে যে, তাদের কিছু (কোন ভিত্তি) আছে। জেনে রেখ, তারা খুবই মিথ্যেবাদী।"
+          },
+          "note": {
+            "en": "In innahum humu l-kādhibūna an extra pronoun, hum, stands between inna's noun and a definite predicate: 'it is they who are the liars'. Grammarians usually call it the pronoun of separation (ḍamīr al-faṣl), though some read it as a second mubtadaʾ.",
+            "bn": "ইন্নাহুম হুমুল কাযিবূনা-তে ইন্না-র ইসম আর নির্দিষ্ট খবরের মাঝখানে বাড়তি একটি সর্বনাম হুম বসেছে। অর্থ দাঁড়ায় \"তারাই মিথ্যাবাদী\"। ব্যাকরণবিদরা সাধারণত একে পৃথককারী সর্বনাম (দমীর আল-ফাসল) বলেন, তবে কেউ কেউ একে দ্বিতীয় মুবতাদা ধরেন।"
+          },
+          "words": [
+            {
+              "ar": "يَوْمَ",
+              "en": "(On the) Day",
+              "bn": "যেদিন",
+              "role": {
+                "en": "accusative time noun 'the Day'",
+                "bn": "মানসুব সময়বাচক বিশেষ্য 'দিন'"
+              }
+            },
+            {
+              "ar": "يَبْعَثُهُمُ",
+              "en": "Allah will raise them",
+              "bn": "তাদের উঠাবেন",
+              "role": {
+                "en": "present verb + obj. 'them'",
+                "bn": "বর্তমান ক্রিয়া + কর্ম 'তাদের'"
+              }
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah will raise them",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "جَمِيعًا",
+              "en": "all",
+              "bn": "সকলকেই",
+              "role": {
+                "en": "indef. accusative noun 'all together'",
+                "bn": "অনির্দিষ্ট মানসুব বিশেষ্য 'সবাইকে একসঙ্গে'"
+              }
+            },
+            {
+              "ar": "فَيَحْلِفُونَ",
+              "en": "then they will swear",
+              "bn": "তারা তখনও শপথ করবে",
+              "role": {
+                "en": "fa- + present verb + subject 'they'",
+                "bn": "ফা + বর্তমান ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "لَهُۥ",
+              "en": "to Him",
+              "bn": "তাঁর কাছে",
+              "role": {
+                "en": "li- 'to' + pronoun 'Him'",
+                "bn": "অব্যয় লি + সর্বনাম 'তাঁর'"
+              }
+            },
+            {
+              "ar": "كَمَا",
+              "en": "as",
+              "bn": "যেমন",
+              "role": {
+                "en": "ka- 'like' + particle mā",
+                "bn": "কা 'মতো' + অব্যয় মা"
+              }
+            },
+            {
+              "ar": "يَحْلِفُونَ",
+              "en": "they swear",
+              "bn": "তারা শপথ করে",
+              "role": {
+                "en": "present verb + subject 'they'",
+                "bn": "বর্তমান ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "لَكُمْ",
+              "en": "to you",
+              "bn": "তোমাদের কাছে",
+              "role": {
+                "en": "li- 'to' + pronoun 'you' (pl.)",
+                "bn": "অব্যয় লি + সর্বনাম 'তোমাদের'"
+              }
+            },
+            {
+              "ar": "وَيَحْسَبُونَ",
+              "en": "And they think",
+              "bn": "ও তারা মনে করে",
+              "role": {
+                "en": "and + present verb 'think' + 'they'",
+                "bn": "এবং + বর্তমান ক্রিয়া 'মনে করে' + 'তারা'"
+              }
+            },
+            {
+              "ar": "أَنَّهُمْ",
+              "en": "that they",
+              "bn": "যে তারা",
+              "role": {
+                "en": "anna 'that' + 'they' (its noun)",
+                "bn": "আন্না 'যে' + 'তারা' (তার ইসম)"
+              }
+            },
+            {
+              "ar": "عَلَىٰ",
+              "en": "(are) on",
+              "bn": "(প্রতিষ্ঠিত) উপর",
+              "role": {
+                "en": "preposition ʿalā 'on'",
+                "bn": "অব্যয় আলা 'ওপর'"
+              }
+            },
+            {
+              "ar": "شَىْءٍ",
+              "en": "something",
+              "bn": "কোনো কিছুর",
+              "role": {
+                "en": "indef. genitive noun",
+                "bn": "অনির্দিষ্ট মাজরুর বিশেষ্য"
+              }
+            },
+            {
+              "ar": "أَلَآ",
+              "en": "No doubt",
+              "bn": "সাবধান",
+              "role": {
+                "en": "attention particle alā 'take note'",
+                "bn": "সতর্কতাসূচক অব্যয় আলা 'জেনে রাখো'"
+              }
+            },
+            {
+              "ar": "إِنَّهُمْ",
+              "en": "Indeed, they",
+              "bn": "নিশ্চয়ই তারা",
+              "role": {
+                "en": "inna + 'they' (its noun)",
+                "bn": "ইন্না + 'তারা' (তার ইসম)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "هُمُ",
+              "en": "[they]",
+              "bn": "তারাই",
+              "role": {
+                "en": "pronoun hum, setting off the predicate",
+                "bn": "সর্বনাম হুম, খবরকে আলাদা করে দেখায়"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلْكَٰذِبُونَ",
+              "en": "(are) the liars",
+              "bn": "মিথ্যাবাদী",
+              "role": {
+                "en": "def. nominative plural participle (khabar)",
+                "bn": "আল + মারফু বহুবচন ইসমে ফা'য়িল (খবর)"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "58:19",
+          "trans": {
+            "en": "Satan has overcome them and made them forget the remembrance of Allāh. Those are the party of Satan. Unquestionably, the party of Satan - they will be the losers.",
+            "bn": "শয়ত্বান তাদের উপর প্রভাব খাটিয়ে বসেছে, আর তাদেরকে আল্লাহর স্মরণ ভুলিয়ে দিয়েছে। তারা শয়ত্বানের দল। জেনে রেখ, শয়ত্বানের দলই ক্ষতিগ্রস্ত।"
+          },
+          "note": {
+            "en": "The frame of 58:18 again: ḥizba, accusative after inna, then hum, then the definite predicate al-khāsirūna. hum is plural although ḥizb is singular in form, because a party is a group of people.",
+            "bn": "৫৮:১৮-এর কাঠামোই আবার: ইন্না-র পরে মানসুব হিযবা, তারপর হুম, তারপর নির্দিষ্ট খবর আল-খাসিরূনা। হিযব রূপে একবচন হলেও হুম বহুবচন, কারণ দল মানে একদল মানুষ।"
+          },
+          "words": [
+            {
+              "ar": "ٱسْتَحْوَذَ",
+              "en": "Has overcome",
+              "bn": "প্রভুত্ব বিস্তার করেছে",
+              "role": {
+                "en": "Form X past verb 'overcame'",
+                "bn": "দশম রূপের অতীত ক্রিয়া 'প্রভাব বিস্তার করেছে'"
+              }
+            },
+            {
+              "ar": "عَلَيْهِمُ",
+              "en": "them",
+              "bn": "তাদের উপর",
+              "role": {
+                "en": "ʿalā + pronoun 'them'",
+                "bn": "অব্যয় আলা + সর্বনাম 'তাদের'"
+              }
+            },
+            {
+              "ar": "ٱلشَّيْطَٰنُ",
+              "en": "the Shaitaan",
+              "bn": "শয়তান",
+              "role": {
+                "en": "def. nominative noun (subject)",
+                "bn": "আল + মারফু বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "فَأَنسَىٰهُمْ",
+              "en": "so he made them forget",
+              "bn": "অতঃপর তাদের ভুলিয়ে দিয়েছে",
+              "role": {
+                "en": "fa- + Form IV past verb + obj. 'them'",
+                "bn": "ফা + চতুর্থ রূপের অতীত ক্রিয়া + কর্ম 'তাদের'"
+              }
+            },
+            {
+              "ar": "ذِكْرَ",
+              "en": "(the) remembrance",
+              "bn": "স্মরণ",
+              "role": {
+                "en": "acc. verbal noun (second object), muḍāf",
+                "bn": "মানসুব ক্রিয়াবাচক বিশেষ্য (দ্বিতীয় কর্ম), মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱللَّهِ",
+              "en": "(of) Allah",
+              "bn": "আল্লাহ্‌র",
+              "role": {
+                "en": "genitive proper noun (muḍāf ilayh)",
+                "bn": "মাজরুর নামবাচক বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "أُو۟لَٰٓئِكَ",
+              "en": "Those",
+              "bn": "ঐসব লোক (অন্তর্ভুক্ত)",
+              "role": {
+                "en": "demonstrative 'those' (mubtadaʾ)",
+                "bn": "নির্দেশক সর্বনাম 'ওরা' (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "حِزْبُ",
+              "en": "(are the) party",
+              "bn": "দলের",
+              "role": {
+                "en": "nominative noun (khabar), muḍāf",
+                "bn": "মারফু বিশেষ্য (খবর), মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱلشَّيْطَٰنِ",
+              "en": "(of) the Shaitaan",
+              "bn": "শয়তানের",
+              "role": {
+                "en": "def. genitive noun (muḍāf ilayh)",
+                "bn": "আল + মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "أَلَآ",
+              "en": "No doubt",
+              "bn": "সাবধান",
+              "role": {
+                "en": "attention particle alā 'take note'",
+                "bn": "সতর্কতাসূচক অব্যয় আলা 'জেনে রাখো'"
+              }
+            },
+            {
+              "ar": "إِنَّ",
+              "en": "Indeed",
+              "bn": "নিশ্চয়ই",
+              "role": {
+                "en": "emphatic particle inna",
+                "bn": "জোরারোপক অব্যয় ইন্না"
+              }
+            },
+            {
+              "ar": "حِزْبَ",
+              "en": "(the) party",
+              "bn": "দল",
+              "role": {
+                "en": "accusative noun (inna's noun), muḍāf",
+                "bn": "মানসুব বিশেষ্য (ইন্না-র ইসম), মুদাফ"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلشَّيْطَٰنِ",
+              "en": "(of) the Shaitaan",
+              "bn": "শয়তানের",
+              "role": {
+                "en": "def. genitive noun (muḍāf ilayh)",
+                "bn": "আল + মাজরুর বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "هُمُ",
+              "en": "they",
+              "bn": "তারাই",
+              "role": {
+                "en": "pronoun hum, setting off the predicate",
+                "bn": "সর্বনাম হুম, খবরকে আলাদা করে দেখায়"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ٱلْخَٰسِرُونَ",
+              "en": "(will be) the losers",
+              "bn": "ক্ষতিগ্রস্ত হবে",
+              "role": {
+                "en": "def. nominative plural participle (khabar)",
+                "bn": "আল + মারফু বহুবচন ইসমে ফা'য়িল (খবর)"
+              },
+              "hl": true
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "In أَلَآ إِنَّهُمْ هُمُ ٱلْكَٰذِبُونَ (58:18), what does هُمُ add?",
+          "bn": "أَلَآ إِنَّهُمْ هُمُ ٱلْكَٰذِبُونَ (৫৮:১৮)-এ هُمُ কী যোগ করে?"
+        },
+        "options": [
+          {
+            "en": "It is the object of inna",
+            "bn": "এটি ইন্না-র কর্ম"
+          },
+          {
+            "en": "It makes the sentence negative",
+            "bn": "এটি বাক্যকে না-বোধক করে"
+          },
+          {
+            "en": "It sets off the definite predicate: \"it is they who are the liars\"",
+            "bn": "এটি নির্দিষ্ট খবরকে আলাদা করে তুলে ধরে: \"তারাই মিথ্যাবাদী\""
+          },
+          {
+            "en": "It makes al-kādhibūna genitive",
+            "bn": "এটি আল-কাযিবূনা-কে মাজরুর করে"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "en": "inna's noun is the -hum of innahum; the second hum stands before the definite predicate al-kādhibūna and gives \"it is they who\". al-kādhibūna stays nominative.",
+          "bn": "ইন্না-র ইসম হলো ইন্নাহুম-এর -হুম। দ্বিতীয় হুম নির্দিষ্ট খবর আল-কাযিবূনা-র আগে বসে অর্থ দেয় \"তারাই\"। আল-কাযিবূনা মারফুই থাকে।"
+        }
+      }
+    },
+    {
+      "id": "read-58-9",
+      "unit": "read-58",
+      "icon": "📖",
+      "title": {
+        "en": "al-Mujādilah 20-22: kāna and its accusative predicate",
+        "bn": "আল-মুজাদালাহ ২০-২২: কানা ও তার মানসুব খবর"
+      },
+      "concept": {
+        "en": "<b>kāna</b> \"was\" takes a noun and a predicate, and its predicate is accusative. In <b>wa-law kānū ābāʾahum</b> (58:22) the -ū \"they\" is kāna's noun and <b>ābāʾahum</b> \"their fathers\" is its predicate, ending in -a. Each word joined to it by <b>aw</b> \"or\" takes the same case: abnāʾahum, ikhwānahum, ʿashīratahum.",
+        "bn": "<b>কানা</b> (\"ছিল\") একটি ইসম ও একটি খবর নেয়, আর তার খবর মানসুব হয়। <b>ওয়া-লাও কানূ আবা-আহুম</b> (৫৮:২২)-এ -ঊ (\"তারা\") কানা-র ইসম, আর <b>আবা-আহুম</b> (\"তাদের পিতা\") তার খবর, শেষে -আ। <b>আও</b> (\"অথবা\") দিয়ে যুক্ত প্রতিটি শব্দও একই ই'রাব নেয়: আবনা-আহুম, ইখওয়ানাহুম, আশীরাতাহুম।"
+      },
+      "examples": [
+        {
+          "ref": "58:20",
+          "trans": {
+            "en": "Indeed, the ones who oppose Allāh and His Messenger - those will be among the most humbled.",
+            "bn": "যারা আল্লাহর ও তাঁর রসূলের বিরোধিতা করে, তারাই সবচেয়ে বেশী লাঞ্ছিতদের অন্তর্ভুক্ত।"
+          },
+          "note": {
+            "en": "inna's noun alladhīna has a whole sentence as its khabar: ulāʾika fī l-adhallīna, 'those are among the most humbled'. al-adhallīna is the plural of the elative adhall, genitive after fī.",
+            "bn": "ইন্না-র ইসম আল্লাযীনা, আর তার খবর একটি পুরো বাক্য: উলাইকা ফিল আযাল্লীন, \"তারা সবচেয়ে লাঞ্ছিতদের অন্তর্ভুক্ত\"। আল-আযাল্লীনা তুলনাবাচক আযাল্ল-এর বহুবচন, ফী-এর পরে মাজরুর।"
+          },
+          "words": [
+            {
+              "ar": "إِنَّ",
+              "en": "Indeed",
+              "bn": "নিশ্চয়ই",
+              "role": {
+                "en": "emphatic particle inna",
+                "bn": "জোরারোপক অব্যয় ইন্না"
+              }
+            },
+            {
+              "ar": "ٱلَّذِينَ",
+              "en": "those who",
+              "bn": "যারা",
+              "role": {
+                "en": "relative pronoun (masc. pl.), inna's noun",
+                "bn": "সম্বন্ধবাচক সর্বনাম (পুং. বহু.), ইন্না-র ইসম"
+              },
+              "hl": true
+            },
+            {
+              "ar": "يُحَآدُّونَ",
+              "en": "oppose",
+              "bn": "বিরোধিতা করে",
+              "role": {
+                "en": "Form III present verb + subject 'they'",
+                "bn": "তৃতীয় রূপের বর্তমান ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "ٱللَّهَ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌র",
+              "role": {
+                "en": "accusative proper noun (object)",
+                "bn": "মানসুব নামবাচক বিশেষ্য (কর্ম)"
+              }
+            },
+            {
+              "ar": "وَرَسُولَهُۥٓ",
+              "en": "and His Messenger",
+              "bn": "ও তাঁর রাসূলের",
+              "role": {
+                "en": "and + accusative noun (joined) + 'His'",
+                "bn": "এবং + মানসুব বিশেষ্য (যুক্ত) + 'তাঁর'"
+              }
+            },
+            {
+              "ar": "أُو۟لَٰٓئِكَ",
+              "en": "those",
+              "bn": "ঐসব লোক",
+              "role": {
+                "en": "demonstrative 'those' (mubtadaʾ)",
+                "bn": "নির্দেশক সর্বনাম 'ওরা' (মুবতাদা)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "فِى",
+              "en": "(will be) among",
+              "bn": "অন্তর্ভুক্ত",
+              "role": {
+                "en": "preposition fī 'among'",
+                "bn": "অব্যয় ফী 'মধ্যে'"
+              }
+            },
+            {
+              "ar": "ٱلْأَذَلِّينَ",
+              "en": "the most humiliated",
+              "bn": "চরম অপমানিতদের",
+              "role": {
+                "en": "def. genitive plural elative 'most humbled'",
+                "bn": "আল + মাজরুর বহুবচন তুলনাবাচক বিশেষ্য 'সবচেয়ে লাঞ্ছিত'"
+              },
+              "hl": true
+            }
+          ]
+        },
+        {
+          "ref": "58:21",
+          "trans": {
+            "en": "Allāh has written [i.e., decreed], \"I will surely overcome, I and My messengers.\" Indeed, Allāh is Powerful and Exalted in Might.",
+            "bn": "আল্লাহ লিখে দিয়েছেন যে, অবশ্য অবশ্যই আমি ও আমার রসূলগণ বিজয়ী থাকব। আল্লাহ মহা শক্তিমান ও পরাক্রমশালী।"
+          },
+          "note": {
+            "en": "la-aghlibanna has the emphatic la- in front and -nna at the end: 'I will surely overcome'. Its subject 'I' is hidden in the verb, so it is stated again as anā before wa-rusulī is joined to it.",
+            "bn": "লা-আগলিবান্না-র সামনে জোরারোপক লা, শেষে -ন্না: \"আমি অবশ্যই বিজয়ী হব\"। এর কর্তা \"আমি\" ক্রিয়ার ভেতরে লুকানো, তাই ওয়া-রুসুলী যুক্ত করার আগে আনা দিয়ে তা আলাদা করে আবার বলা হয়েছে।"
+          },
+          "words": [
+            {
+              "ar": "كَتَبَ",
+              "en": "Allah has decreed",
+              "bn": "লিখে দিয়েছেন",
+              "role": {
+                "en": "past verb 'decreed'",
+                "bn": "অতীত ক্রিয়া 'লিখে দিয়েছেন'"
+              }
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah has decreed",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "لَأَغْلِبَنَّ",
+              "en": "Surely, I will overcome",
+              "bn": "\"অবশ্যই বিজয়ী হব",
+              "role": {
+                "en": "emphatic la- + present verb (I) + -nna",
+                "bn": "জোরারোপক লা + বর্তমান ক্রিয়া (আমি) + -ন্না"
+              },
+              "hl": true
+            },
+            {
+              "ar": "أَنَا۠",
+              "en": "I",
+              "bn": "আমি",
+              "role": {
+                "en": "separate pronoun anā 'I'",
+                "bn": "পৃথক সর্বনাম আনা 'আমি'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "وَرُسُلِىٓ",
+              "en": "and My Messengers",
+              "bn": "ও আমার রাসূলরা\"",
+              "role": {
+                "en": "and + nominative plural noun (joined) + 'My'",
+                "bn": "এবং + মারফু বহুবচন বিশেষ্য (যুক্ত) + 'আমার'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "إِنَّ",
+              "en": "Indeed",
+              "bn": "নিশ্চয়ই",
+              "role": {
+                "en": "emphatic particle inna",
+                "bn": "জোরারোপক অব্যয় ইন্না"
+              }
+            },
+            {
+              "ar": "ٱللَّهَ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌",
+              "role": {
+                "en": "accusative proper noun (inna's noun)",
+                "bn": "মানসুব নামবাচক বিশেষ্য (ইন্না-র ইসম)"
+              }
+            },
+            {
+              "ar": "قَوِىٌّ",
+              "en": "(is) All-Strong",
+              "bn": "শক্তিধর",
+              "role": {
+                "en": "indef. nominative adjective (inna's khabar)",
+                "bn": "অনির্দিষ্ট মারফু বিশেষণ (ইন্না-র খবর)"
+              }
+            },
+            {
+              "ar": "عَزِيزٌ",
+              "en": "All-Mighty",
+              "bn": "পরাক্রমশালী",
+              "role": {
+                "en": "indef. nominative adjective 'Mighty'",
+                "bn": "অনির্দিষ্ট মারফু বিশেষণ 'পরাক্রমশালী'"
+              }
+            }
+          ]
+        },
+        {
+          "ref": "58:22",
+          "trans": {
+            "en": "You will not find a people who believe in Allāh and the Last Day having affection for those who oppose Allāh and His Messenger, even if they were their fathers or their sons or their brothers or their kindred. Those - He has decreed within their hearts faith and supported them with spirit from Him. And We will admit them to gardens beneath which rivers flow, wherein they abide eternally. Allāh is pleased with them, and they are pleased with Him - those are the party of Allāh. Unquestionably, the party of Allāh - they are the successful.",
+            "bn": "আল্লাহ ও পরকালে বিশ্বাসী এমন কোন সম্প্রদায় তুমি পাবে না যারা আল্লাহ ও তাঁর রসূলের বিরোধিতাকারীদেরকে ভালবাসে- হোক না এই বিরোধীরা তাদের পিতা অথবা পুত্র অথবা তাদের ভাই অথবা তাদের জ্ঞাতি গোষ্ঠী। আল্লাহ এদের অন্তরে ঈমান বদ্ধমূল করে দিয়েছেন, আর নিজের পক্ষ থেকে রূহ দিয়ে তাদেরকে শক্তিশালী করেছেন। তাদেরকে তিনি দাখিল করবেন জান্নাতে যার তলদেশ দিয়ে বয়ে চলেছে নদী-নালা, তাতে তারা চিরকাল থাকবে। আল্লাহ তাদের প্রতি সন্তুষ্ট আর তারাও তাঁর প্রতি সন্তুষ্ট। এরাই আল্লাহর দল; জেনে রেখ, আল্লাহর দলই সাফল্যমন্ডিত।"
+          },
+          "note": {
+            "en": "wa-law kānū, 'even if they were': kāna's noun is the -ū 'they', and its predicate ābāʾahum is accusative. aw 'or' then joins abnāʾahum, ikhwānahum and ʿashīratahum in the same accusative.",
+            "bn": "ওয়া-লাও কানূ, \"যদিও তারা হয়\": কানা-র ইসম হলো -ঊ (\"তারা\"), আর তার খবর আবা-আহুম মানসুব। এরপর আও (\"অথবা\") আবনা-আহুম, ইখওয়ানাহুম আর আশীরাতাহুম-কে একই মানসুব অবস্থায় যুক্ত করে।"
+          },
+          "words": [
+            {
+              "ar": "لَّا",
+              "en": "You will not find",
+              "bn": "না",
+              "role": {
+                "en": "negative particle lā",
+                "bn": "নেতিবাচক অব্যয় লা"
+              }
+            },
+            {
+              "ar": "تَجِدُ",
+              "en": "You will not find",
+              "bn": "পাবে তুমি",
+              "role": {
+                "en": "present verb 'you find'",
+                "bn": "বর্তমান ক্রিয়া 'তুমি পাবে'"
+              }
+            },
+            {
+              "ar": "قَوْمًا",
+              "en": "a people",
+              "bn": "সম্প্রদায়কে (এমন যে)",
+              "role": {
+                "en": "indef. accusative noun (object)",
+                "bn": "অনির্দিষ্ট মানসুব বিশেষ্য (কর্ম)"
+              }
+            },
+            {
+              "ar": "يُؤْمِنُونَ",
+              "en": "who believe",
+              "bn": "বিশ্বাস করে",
+              "role": {
+                "en": "Form IV present verb + 'they' (naʿt)",
+                "bn": "চতুর্থ রূপের বর্তমান ক্রিয়া + 'তারা' (না'ত)"
+              }
+            },
+            {
+              "ar": "بِٱللَّهِ",
+              "en": "in Allah",
+              "bn": "আল্লাহ্‌র উপর",
+              "role": {
+                "en": "bi- 'in' + genitive proper noun",
+                "bn": "অব্যয় বি + মাজরুর নামবাচক বিশেষ্য"
+              }
+            },
+            {
+              "ar": "وَٱلْيَوْمِ",
+              "en": "and the Day",
+              "bn": "ও উপর দিনের",
+              "role": {
+                "en": "and + def. genitive noun (joined)",
+                "bn": "এবং + আল + মাজরুর বিশেষ্য (যুক্ত)"
+              }
+            },
+            {
+              "ar": "ٱلْءَاخِرِ",
+              "en": "the Last",
+              "bn": "শেষ",
+              "role": {
+                "en": "def. genitive adjective (naʿt)",
+                "bn": "আল + মাজরুর বিশেষণ (না'ত)"
+              }
+            },
+            {
+              "ar": "يُوَآدُّونَ",
+              "en": "loving",
+              "bn": "(আবার তারা) বন্ধুত্বও করে",
+              "role": {
+                "en": "Form III present verb + subject 'they'",
+                "bn": "তৃতীয় রূপের বর্তমান ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "مَنْ",
+              "en": "(those) who",
+              "bn": "(তাদের সাথে) যারা",
+              "role": {
+                "en": "relative man 'those who' (object)",
+                "bn": "সম্বন্ধবাচক মান 'যারা' (কর্ম)"
+              }
+            },
+            {
+              "ar": "حَآدَّ",
+              "en": "oppose",
+              "bn": "বিরোধিতা করে",
+              "role": {
+                "en": "Form III past verb 'opposed'",
+                "bn": "তৃতীয় রূপের অতীত ক্রিয়া 'বিরোধিতা করে'"
+              }
+            },
+            {
+              "ar": "ٱللَّهَ",
+              "en": "Allah",
+              "bn": "আল্লাহ্‌র",
+              "role": {
+                "en": "accusative proper noun (object)",
+                "bn": "মানসুব নামবাচক বিশেষ্য (কর্ম)"
+              }
+            },
+            {
+              "ar": "وَرَسُولَهُۥ",
+              "en": "and His Messenger",
+              "bn": "ও তাঁর রাসূলের",
+              "role": {
+                "en": "and + accusative noun (joined) + 'His'",
+                "bn": "এবং + মানসুব বিশেষ্য (যুক্ত) + 'তাঁর'"
+              }
+            },
+            {
+              "ar": "وَلَوْ",
+              "en": "even if",
+              "bn": "এবং যদিও",
+              "role": {
+                "en": "wa + law 'even if'",
+                "bn": "ওয়া + লাও 'যদিও'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "كَانُوٓا۟",
+              "en": "they were",
+              "bn": "তারা হয়",
+              "role": {
+                "en": "past verb kāna + 'they' (its noun)",
+                "bn": "অতীত ক্রিয়া কানা + 'তারা' (তার ইসম)"
+              },
+              "hl": true
+            },
+            {
+              "ar": "ءَابَآءَهُمْ",
+              "en": "their fathers",
+              "bn": "তাদের পিতা",
+              "role": {
+                "en": "accusative plural noun (kāna's khabar) + 'their'",
+                "bn": "মানসুব বহুবচন বিশেষ্য (কানা-র খবর) + 'তাদের'"
+              },
+              "hl": true
+            },
+            {
+              "ar": "أَوْ",
+              "en": "or",
+              "bn": "বা",
+              "role": {
+                "en": "conjunction aw 'or'",
+                "bn": "সংযোজক অব্যয় আও 'অথবা'"
+              }
+            },
+            {
+              "ar": "أَبْنَآءَهُمْ",
+              "en": "their sons",
+              "bn": "তাদের পুত্র",
+              "role": {
+                "en": "accusative plural noun (joined) + 'their'",
+                "bn": "মানসুব বহুবচন বিশেষ্য (যুক্ত) + 'তাদের'"
+              }
+            },
+            {
+              "ar": "أَوْ",
+              "en": "or",
+              "bn": "বা",
+              "role": {
+                "en": "conjunction aw 'or'",
+                "bn": "সংযোজক অব্যয় আও 'অথবা'"
+              }
+            },
+            {
+              "ar": "إِخْوَٰنَهُمْ",
+              "en": "their brothers",
+              "bn": "তাদের ভাইয়েরা",
+              "role": {
+                "en": "accusative plural noun (joined) + 'their'",
+                "bn": "মানসুব বহুবচন বিশেষ্য (যুক্ত) + 'তাদের'"
+              }
+            },
+            {
+              "ar": "أَوْ",
+              "en": "or",
+              "bn": "বা",
+              "role": {
+                "en": "conjunction aw 'or'",
+                "bn": "সংযোজক অব্যয় আও 'অথবা'"
+              }
+            },
+            {
+              "ar": "عَشِيرَتَهُمْ",
+              "en": "their kindred",
+              "bn": "তাদের জাতি-গোত্র",
+              "role": {
+                "en": "accusative noun (joined) + 'their'",
+                "bn": "মানসুব বিশেষ্য (যুক্ত) + 'তাদের'"
+              }
+            },
+            {
+              "ar": "أُو۟لَٰٓئِكَ",
+              "en": "Those",
+              "bn": "ঐসব লোক (আল্লাহ)",
+              "role": {
+                "en": "demonstrative 'those' (mubtadaʾ)",
+                "bn": "নির্দেশক সর্বনাম 'ওরা' (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "كَتَبَ",
+              "en": "He has decreed",
+              "bn": "সুদৃঢ় করে দিয়েছেন",
+              "role": {
+                "en": "past verb 'decreed' (He)",
+                "bn": "অতীত ক্রিয়া 'লিখে দিয়েছেন' (তিনি)"
+              }
+            },
+            {
+              "ar": "فِى",
+              "en": "within",
+              "bn": "মধ্যে",
+              "role": {
+                "en": "preposition fī 'in'",
+                "bn": "অব্যয় ফী 'মধ্যে'"
+              }
+            },
+            {
+              "ar": "قُلُوبِهِمُ",
+              "en": "their hearts",
+              "bn": "তাদের অন্তর সমূহের",
+              "role": {
+                "en": "genitive plural noun + 'their'",
+                "bn": "মাজরুর বহুবচন বিশেষ্য + 'তাদের'"
+              }
+            },
+            {
+              "ar": "ٱلْإِيمَٰنَ",
+              "en": "faith",
+              "bn": "ঈমান",
+              "role": {
+                "en": "def. accusative verbal noun (object)",
+                "bn": "আল + মানসুব ক্রিয়াবাচক বিশেষ্য (কর্ম)"
+              }
+            },
+            {
+              "ar": "وَأَيَّدَهُم",
+              "en": "and supported them",
+              "bn": "ও তাদের শক্তিশালী করেছেন",
+              "role": {
+                "en": "and + Form II past verb + obj. 'them'",
+                "bn": "এবং + দ্বিতীয় রূপের অতীত ক্রিয়া + কর্ম 'তাদের'"
+              }
+            },
+            {
+              "ar": "بِرُوحٍ",
+              "en": "with a spirit",
+              "bn": "রূহ দিয়ে",
+              "role": {
+                "en": "bi- 'with' + indef. genitive noun",
+                "bn": "অব্যয় বি + অনির্দিষ্ট মাজরুর বিশেষ্য"
+              }
+            },
+            {
+              "ar": "مِّنْهُ",
+              "en": "from Him",
+              "bn": "তাঁর পক্ষ হতে",
+              "role": {
+                "en": "min 'from' + pronoun 'Him'",
+                "bn": "অব্যয় মিন + সর্বনাম 'তাঁর'"
+              }
+            },
+            {
+              "ar": "وَيُدْخِلُهُمْ",
+              "en": "And He will admit them",
+              "bn": "এবং তাদেরকে প্রবেশ করাবেন",
+              "role": {
+                "en": "and + Form IV present verb + obj. 'them'",
+                "bn": "এবং + চতুর্থ রূপের বর্তমান ক্রিয়া + কর্ম 'তাদের'"
+              }
+            },
+            {
+              "ar": "جَنَّٰتٍ",
+              "en": "(to) Gardens",
+              "bn": "জান্নাতে",
+              "role": {
+                "en": "indef. acc. fem. plural noun",
+                "bn": "অনির্দিষ্ট মানসুব স্ত্রীলিঙ্গ বহুবচন বিশেষ্য"
+              }
+            },
+            {
+              "ar": "تَجْرِى",
+              "en": "flow",
+              "bn": "প্রবাহিত হয়",
+              "role": {
+                "en": "present verb (fem.); clause describes jannātin",
+                "bn": "বর্তমান ক্রিয়া (স্ত্রী.); বাক্যাংশটি জান্নাত-এর বর্ণনা"
+              }
+            },
+            {
+              "ar": "مِن",
+              "en": "from",
+              "bn": "থেকে",
+              "role": {
+                "en": "preposition min 'from'",
+                "bn": "অব্যয় মিন 'থেকে'"
+              }
+            },
+            {
+              "ar": "تَحْتِهَا",
+              "en": "underneath it",
+              "bn": "তার নিচ",
+              "role": {
+                "en": "genitive noun 'beneath' + 'it'",
+                "bn": "মাজরুর বিশেষ্য 'নিচে' + 'তার'"
+              }
+            },
+            {
+              "ar": "ٱلْأَنْهَٰرُ",
+              "en": "the rivers",
+              "bn": "ঝর্ণাধারা সমূহ",
+              "role": {
+                "en": "def. nominative plural noun (subject)",
+                "bn": "আল + মারফু বহুবচন বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "خَٰلِدِينَ",
+              "en": "will abide forever",
+              "bn": "তারা চিরকাল থাকবে",
+              "role": {
+                "en": "accusative plural participle (ḥāl)",
+                "bn": "মানসুব বহুবচন ইসমে ফা'য়িল (হাল)"
+              }
+            },
+            {
+              "ar": "فِيهَا",
+              "en": "in it",
+              "bn": "তার মধ্যে",
+              "role": {
+                "en": "fī 'in' + pronoun 'it' (fem.)",
+                "bn": "অব্যয় ফী + সর্বনাম 'তা' (স্ত্রীলিঙ্গ)"
+              }
+            },
+            {
+              "ar": "رَضِىَ",
+              "en": "Allah is pleased",
+              "bn": "সন্তুষ্ট/ প্রসন্ন হয়েছেন",
+              "role": {
+                "en": "past verb 'was pleased'",
+                "bn": "অতীত ক্রিয়া 'সন্তুষ্ট হয়েছেন'"
+              }
+            },
+            {
+              "ar": "ٱللَّهُ",
+              "en": "Allah is pleased",
+              "bn": "আল্লাহ",
+              "role": {
+                "en": "nominative proper noun (subject)",
+                "bn": "মারফু নামবাচক বিশেষ্য (কর্তা)"
+              }
+            },
+            {
+              "ar": "عَنْهُمْ",
+              "en": "with them",
+              "bn": "তাদের প্রতি",
+              "role": {
+                "en": "ʿan + pronoun 'them'",
+                "bn": "অব্যয় আন + সর্বনাম 'তাদের'"
+              }
+            },
+            {
+              "ar": "وَرَضُوا۟",
+              "en": "and they are pleased",
+              "bn": "ও তারা সন্তুষ্ট হয়েছে",
+              "role": {
+                "en": "and + past verb + subject 'they'",
+                "bn": "এবং + অতীত ক্রিয়া + কর্তা 'তারা'"
+              }
+            },
+            {
+              "ar": "عَنْهُ",
+              "en": "with Him",
+              "bn": "তাঁর প্রতি",
+              "role": {
+                "en": "ʿan + pronoun 'Him'",
+                "bn": "অব্যয় আন + সর্বনাম 'তাঁর'"
+              }
+            },
+            {
+              "ar": "أُو۟لَٰٓئِكَ",
+              "en": "Those",
+              "bn": "ঐসব লোক(অন্তর্ভুক্ত)",
+              "role": {
+                "en": "demonstrative 'those' (mubtadaʾ)",
+                "bn": "নির্দেশক সর্বনাম 'ওরা' (মুবতাদা)"
+              }
+            },
+            {
+              "ar": "حِزْبُ",
+              "en": "(are the) party",
+              "bn": "দলের",
+              "role": {
+                "en": "nominative noun (khabar), muḍāf",
+                "bn": "মারফু বিশেষ্য (খবর), মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱللَّهِ",
+              "en": "(of) Allah",
+              "bn": "আল্লাহর",
+              "role": {
+                "en": "genitive proper noun (muḍāf ilayh)",
+                "bn": "মাজরুর নামবাচক বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "أَلَآ",
+              "en": "No doubt",
+              "bn": "জেনে রাখ",
+              "role": {
+                "en": "attention particle alā 'take note'",
+                "bn": "সতর্কতাসূচক অব্যয় আলা 'জেনে রাখো'"
+              }
+            },
+            {
+              "ar": "إِنَّ",
+              "en": "Indeed",
+              "bn": "নিশ্চয়ই",
+              "role": {
+                "en": "emphatic particle inna",
+                "bn": "জোরারোপক অব্যয় ইন্না"
+              }
+            },
+            {
+              "ar": "حِزْبَ",
+              "en": "(the) party",
+              "bn": "দল",
+              "role": {
+                "en": "accusative noun (inna's noun), muḍāf",
+                "bn": "মানসুব বিশেষ্য (ইন্না-র ইসম), মুদাফ"
+              }
+            },
+            {
+              "ar": "ٱللَّهِ",
+              "en": "(of) Allah",
+              "bn": "আল্লাহর",
+              "role": {
+                "en": "genitive proper noun (muḍāf ilayh)",
+                "bn": "মাজরুর নামবাচক বিশেষ্য (মুদাফ ইলাইহি)"
+              }
+            },
+            {
+              "ar": "هُمُ",
+              "en": "they",
+              "bn": "তারাই",
+              "role": {
+                "en": "pronoun hum, setting off the predicate",
+                "bn": "সর্বনাম হুম, খবরকে আলাদা করে দেখায়"
+              }
+            },
+            {
+              "ar": "ٱلْمُفْلِحُونَ",
+              "en": "(are) the successful ones",
+              "bn": "সফলকাম",
+              "role": {
+                "en": "def. nom. Form IV plural participle (khabar)",
+                "bn": "আল + মারফু চতুর্থ রূপের বহুবচন ইসমে ফা'য়িল (খবর)"
+              }
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "q": {
+          "en": "In وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ (58:22), why is ءَابَآءَ accusative?",
+          "bn": "وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ (৫৮:২২)-এ ءَابَآءَ মানসুব কেন?"
+        },
+        "options": [
+          {
+            "en": "Because it is the object of تَجِدُ",
+            "bn": "কারণ এটি تَجِدُ-এর কর্ম"
+          },
+          {
+            "en": "Because it is kāna's predicate",
+            "bn": "কারণ এটি কানা-র খবর"
+          },
+          {
+            "en": "Because law makes the noun after it accusative",
+            "bn": "কারণ লাও তার পরের বিশেষ্যকে মানসুব করে"
+          },
+          {
+            "en": "Because it is a ḥāl",
+            "bn": "কারণ এটি হাল"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "en": "kānū is kāna with its noun \"they\" in the ending, and ābāʾahum is its predicate, so it is accusative. law does not affect the case; the nouns joined by aw follow ābāʾahum in the accusative.",
+          "bn": "কানূ হলো কানা, শেষাংশে তার ইসম \"তারা\"। আবা-আহুম তার খবর, তাই মানসুব। লাও ই'রাবে কোনো প্রভাব ফেলে না। আও দিয়ে যুক্ত বিশেষ্যগুলোও আবা-আহুম-এর মতো মানসুব।"
+        }
+      }
     }
   ]
 }
