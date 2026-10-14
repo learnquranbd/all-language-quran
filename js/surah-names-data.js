@@ -126,8 +126,8 @@ const SURAH_NAME_NOTES = {
       bn: 'শুরুর শপথ থেকে—"শপথ সূর্যের ও তার কিরণের" (৯১:১)।',
     },
     why: {
-      en: 'Eleven oaths open this surah — sun, moon, day, night, sky, earth, and the soul with the way it was proportioned — and the name takes the first. The sun is never discussed; it is sworn by. What the oaths lead to is a single verdict: whoever purifies the soul has succeeded and whoever buries it has failed, illustrated at once by Thamud and the she-camel. The naming convention shows itself plainly here, since a surah about the soul is universally known by an astronomical image from its first three words, because that is what a reciter remembers first.',
-      bn: 'এই সূরার শুরুতে এগারোটি শপথ—সূর্য, চাঁদ, দিন, রাত, আকাশ, পৃথিবী এবং আত্মা ও তার সুবিন্যাস—আর নাম নেওয়া হয়েছে প্রথমটি থেকে। সূর্য নিয়ে কোনো আলোচনা নেই; তার শপথ করা হয়েছে মাত্র। শপথগুলো গিয়ে পৌঁছায় একটিমাত্র রায়ে: যে আত্মাকে পরিশুদ্ধ করল সে সফল, আর যে তাকে চাপা দিল সে ব্যর্থ—আর সঙ্গে সঙ্গেই সামুদ ও উটনীর ঘটনা তার দৃষ্টান্ত। নামকরণের রীতি এখানে স্পষ্ট: আত্মা নিয়ে একটি সূরা সবার কাছে পরিচিত তার প্রথম তিন শব্দের জ্যোতিষ্কচিত্র দিয়ে, কারণ পাঠকের প্রথমে সেটিই মনে পড়ে।',
+      en: 'Eleven oaths open this surah — sun, moon, day, night, sky, earth, and the soul with the way it was proportioned — and the name takes the first. The sun is never discussed; it is sworn by. What the oaths lead to is a single verdict: whoever purifies the soul has succeeded and whoever buries it has failed, illustrated at once by Thamud and the she-camel. The naming convention shows itself plainly here, since a surah about the soul is universally known by an astronomical image from its first word, because that is what a reciter remembers first.',
+      bn: 'এই সূরার শুরুতে এগারোটি শপথ—সূর্য, চাঁদ, দিন, রাত, আকাশ, পৃথিবী এবং আত্মা ও তার সুবিন্যাস—আর নাম নেওয়া হয়েছে প্রথমটি থেকে। সূর্য নিয়ে কোনো আলোচনা নেই; তার শপথ করা হয়েছে মাত্র। শপথগুলো গিয়ে পৌঁছায় একটিমাত্র রায়ে: যে আত্মাকে পরিশুদ্ধ করল সে সফল, আর যে তাকে চাপা দিল সে ব্যর্থ—আর সঙ্গে সঙ্গেই সামুদ ও উটনীর ঘটনা তার দৃষ্টান্ত। নামকরণের রীতি এখানে স্পষ্ট: আত্মা নিয়ে একটি সূরা সবার কাছে পরিচিত তার প্রথম শব্দের জ্যোতিষ্কচিত্র দিয়ে, কারণ পাঠকের প্রথমে সেটিই মনে পড়ে।',
     },
     signal: {
       en: 'Expect a rapid chain of oaths sworn on creation, then a verdict on the soul that purifies or corrupts itself, and then the destruction of Thamud after they hamstrung the she-camel, offered as the worked example.',
@@ -162,8 +162,8 @@ const SURAH_NAME_NOTES = {
       bn: 'শুরুর শপথ থেকে—"শপথ পূর্বাহ্ণের আলোর" (৯৩:১)।',
     },
     why: {
-      en: 'Duha is the swelling light of mid-morning, after sunrise and before the sun stands high, sworn here against the night when it grows still. The word is not the surah\'s topic. The topic is consolation, delivered after a pause in revelation, telling the Prophet his Lord has neither forsaken him nor become displeased. But image and message match closely: light returning after a dark stillness. Named from its first word, as almost all the short Meccan surahs are, the title has long since become the ordinary way of referring to these eleven verses of reassurance.',
-      bn: 'দুহা হলো সূর্যোদয়ের পর, সূর্য মাথার ওপর ওঠার আগের বেড়ে ওঠা আলো; এখানে তার শপথ করা হয়েছে নিস্তব্ধ রাতের বিপরীতে। শব্দটি সূরার আলোচ্য বিষয় নয়। বিষয় হলো সান্ত্বনা—ওহি বন্ধ থাকার একটি বিরতির পর নবীকে জানানো যে তাঁর প্রতিপালক তাঁকে ত্যাগও করেননি, অসন্তুষ্টও হননি। তবু চিত্র ও বার্তা নিবিড়ভাবে মিলে যায়: অন্ধকার নিস্তব্ধতার পর আলোর প্রত্যাবর্তন। ছোট মাক্কী সূরাগুলোর প্রায় সবার মতোই এটির নাম প্রথম শব্দ থেকে নেওয়া, আর সেই নামই বহুকাল ধরে এই এগারো আয়াতের সান্ত্বনাকে চেনার স্বাভাবিক উপায়।',
+      en: 'Duha is the swelling light of mid-morning, after sunrise and before the sun stands high, sworn here against the night when it grows still. The word is not the surah\'s topic. The topic is consolation, delivered after a pause in revelation, telling the Prophet his Lord has neither forsaken him nor become displeased. But image and message match closely: light returning after a dark stillness. Named from its first word, as many of the short Meccan surahs are, the title has long since become the ordinary way of referring to these eleven verses of reassurance.',
+      bn: 'দুহা হলো সূর্যোদয়ের পর, সূর্য মাথার ওপর ওঠার আগের বেড়ে ওঠা আলো; এখানে তার শপথ করা হয়েছে নিস্তব্ধ রাতের বিপরীতে। শব্দটি সূরার আলোচ্য বিষয় নয়। বিষয় হলো সান্ত্বনা—ওহি বন্ধ থাকার একটি বিরতির পর নবীকে জানানো যে তাঁর প্রতিপালক তাঁকে ত্যাগও করেননি, অসন্তুষ্টও হননি। তবু চিত্র ও বার্তা নিবিড়ভাবে মিলে যায়: অন্ধকার নিস্তব্ধতার পর আলোর প্রত্যাবর্তন। ছোট মাক্কী সূরাগুলোর অনেকগুলোর মতোই এটির নাম প্রথম শব্দ থেকে নেওয়া, আর সেই নামই বহুকাল ধরে এই এগারো আয়াতের সান্ত্বনাকে চেনার স্বাভাবিক উপায়।',
     },
     signal: {
       en: 'Expect eleven verses of comfort: God has not abandoned you, the end is better than the beginning, you were an orphan and were sheltered — therefore do not oppress the orphan, do not repel the beggar, and speak of your Lord\'s favour.',
@@ -180,8 +180,8 @@ const SURAH_NAME_NOTES = {
       bn: 'শুরুর প্রশ্নে আসা ক্রিয়া থেকে—"আমি কি আপনার বক্ষ প্রশস্ত করে দিইনি?" (৯৪:১)।',
     },
     why: {
-      en: 'Unusually, this name is drawn from a verb rather than a noun in the text: sharaha, to open out or widen. The surah is titled by the act it opens with, the expanding of the Prophet\'s breast, and it is equally well known as al-Inshirah, the noun of the same root, a form that does not itself appear anywhere in the eight verses. Both titles point back to the same first line. The name works as a marker of the opening, in the ordinary way, and here it also names the surah\'s whole consolation: a burden lifted, a name raised, and hardship twinned with ease.',
-      bn: 'অস্বাভাবিকভাবে এই নামটি নেওয়া হয়েছে সূরার কোনো বিশেষ্য থেকে নয়, বরং একটি ক্রিয়া থেকে—শারাহা, অর্থাৎ খুলে দেওয়া বা প্রশস্ত করা। সূরার নাম হয়েছে যে কাজ দিয়ে তার সূচনা সেটির নামে, অর্থাৎ নবীর বক্ষ প্রশস্ত করা; আর সমানভাবে এটি পরিচিত আল-ইনশিরাহ নামে, একই ধাতুর বিশেষ্য রূপ, যদিও সেই রূপটি আট আয়াতের কোথাও নেই। দুটি নামই ফিরিয়ে নিয়ে যায় একই প্রথম পঙ্‌ক্তিতে। নামটি প্রথাগতভাবেই সূচনার চিহ্ন, তবে এখানে তা সূরার গোটা সান্ত্বনাকেও নাম দেয়: ভার নামিয়ে দেওয়া, মর্যাদা উঁচু করা, আর কষ্টের সঙ্গে স্বস্তিকে জোড়া বেঁধে দেওয়া।',
+      en: 'This name is drawn from a verb rather than a noun in the text: sharaha, to open out or widen. The surah is titled by the act it opens with, the expanding of the Prophet\'s breast, and it is equally well known as al-Inshirah, the noun of the same root, a form that does not itself appear anywhere in the eight verses. Both titles point back to the same first line. The name works as a marker of the opening, in the ordinary way, and here it also names the surah\'s whole consolation: a burden lifted, a name raised, and hardship twinned with ease.',
+      bn: 'এই নামটি নেওয়া হয়েছে সূরার কোনো বিশেষ্য থেকে নয়, বরং একটি ক্রিয়া থেকে—শারাহা, অর্থাৎ খুলে দেওয়া বা প্রশস্ত করা। সূরার নাম হয়েছে যে কাজ দিয়ে তার সূচনা সেটির নামে, অর্থাৎ নবীর বক্ষ প্রশস্ত করা; আর সমানভাবে এটি পরিচিত আল-ইনশিরাহ নামে, একই ধাতুর বিশেষ্য রূপ, যদিও সেই রূপটি আট আয়াতের কোথাও নেই। দুটি নামই ফিরিয়ে নিয়ে যায় একই প্রথম পঙ্‌ক্তিতে। নামটি প্রথাগতভাবেই সূচনার চিহ্ন, তবে এখানে তা সূরার গোটা সান্ত্বনাকেও নাম দেয়: ভার নামিয়ে দেওয়া, মর্যাদা উঁচু করা, আর কষ্টের সঙ্গে স্বস্তিকে জোড়া বেঁধে দেওয়া।',
     },
     signal: {
       en: 'Expect eight verses continuing the consolation of Ad-Duha: a burden removed, a reputation raised, and the promise that with hardship comes ease, stated twice, closing with a command to labour and to turn to your Lord.',
@@ -300,8 +300,8 @@ const SURAH_NAME_NOTES = {
       bn: 'শুরুর শপথ থেকে—"শপথ ধাবমান অশ্বের, যারা হাঁপিয়ে ছোটে" (১০০:১)।',
     },
     why: {
-      en: 'Al-Adiyat are runners that gallop: the surah swears by them panting, striking sparks with their hooves, raiding at dawn, and stirring up dust. Most commentators read them as warhorses, while a view reported from Ibn Abbas takes the oath to be about the camels of the pilgrims moving from Arafah, and the surah itself does not decide between them. The name is simply the first word, and the image is only a runway. The point lands at verse six: man is ungrateful to his Lord and violent in his love of wealth. A vivid opening has become the label.',
-      bn: 'আল-আদিয়াত মানে ছুটে চলা ধাবক: সূরা শপথ করে তাদের—যারা হাঁপাতে হাঁপাতে ছোটে, ক্ষুরের আঘাতে আগুনের স্ফুলিঙ্গ তোলে, ভোরে আক্রমণ চালায় এবং ধুলো উড়িয়ে দেয়। অধিকাংশ মুফাসসির এদের যুদ্ধের ঘোড়া বলেছেন; ইবনে আব্বাস থেকে বর্ণিত এক মতে এই শপথ আরাফা থেকে ফেরা হাজিদের উটের ব্যাপারে—সূরা নিজে এর মীমাংসা করে না। নামটি কেবল প্রথম শব্দ, আর চিত্রটি কেবল ভূমিকা। আসল কথা আসে ষষ্ঠ আয়াতে: মানুষ তার প্রতিপালকের প্রতি অকৃতজ্ঞ এবং সম্পদের প্রেমে প্রবল। একটি জীবন্ত সূচনাই হয়ে উঠেছে পরিচয়চিহ্ন।',
+      en: 'Al-Adiyat are runners that gallop: the surah swears by them panting, striking sparks with their hooves, raiding at dawn, and stirring up dust. Most commentators read them as warhorses, while a view reported from Ali takes the oath to be about the camels of the pilgrims moving from Arafah, and the surah itself does not decide between them. The name is simply the first word, and the image is only a runway. The point lands at verse six: man is ungrateful to his Lord and violent in his love of wealth. A vivid opening has become the label.',
+      bn: 'আল-আদিয়াত মানে ছুটে চলা ধাবক: সূরা শপথ করে তাদের—যারা হাঁপাতে হাঁপাতে ছোটে, ক্ষুরের আঘাতে আগুনের স্ফুলিঙ্গ তোলে, ভোরে আক্রমণ চালায় এবং ধুলো উড়িয়ে দেয়। অধিকাংশ মুফাসসির এদের যুদ্ধের ঘোড়া বলেছেন; আলী (রাঃ) থেকে বর্ণিত এক মতে এই শপথ আরাফা থেকে ফেরা হাজিদের উটের ব্যাপারে—সূরা নিজে এর মীমাংসা করে না। নামটি কেবল প্রথম শব্দ, আর চিত্রটি কেবল ভূমিকা। আসল কথা আসে ষষ্ঠ আয়াতে: মানুষ তার প্রতিপালকের প্রতি অকৃতজ্ঞ এবং সম্পদের প্রেমে প্রবল। একটি জীবন্ত সূচনাই হয়ে উঠেছে পরিচয়চিহ্ন।',
     },
     signal: {
       en: 'Expect four hammering oaths on charging horses, then the indictment: man is ungrateful, himself a witness to it, and fierce in his love of wealth — with a reminder of the day graves are emptied and hearts laid bare.',
@@ -471,8 +471,8 @@ const SURAH_NAME_NOTES = {
       bn: 'সূরার শুরুর সম্বোধন থেকে—"বলো, হে অবিশ্বাসীরা" (১০৯:১)।',
     },
     why: {
-      en: 'The name is the vocative of the opening verse: the group being addressed, not the surah\'s theme. The word recurs nowhere else in these six verses, which work instead by strict parallel — I do not worship what you worship, nor do you worship what I worship, repeated with a shift of tense, and closing with "for you your religion and for me mine". The title is taken from the addressee, while the subject is the refusal of religious compromise; it was revealed when Quraysh proposed that each side worship the other\'s god in alternate years.',
-      bn: 'নামটি প্রথম আয়াতের সম্বোধনপদ—যাদের উদ্দেশে বলা হচ্ছে সেই দল, সূরার বিষয়বস্তু নয়। এই ছয় আয়াতের আর কোথাও শব্দটি আসেনি; বরং সূরাটি চলে কঠোর সমান্তরাল গঠনে—আমি ইবাদত করি না তোমরা যার ইবাদত করো, তোমরাও ইবাদত করো না আমি যাঁর ইবাদত করি—কালের পরিবর্তনসহ পুনরাবৃত্ত, আর শেষে "তোমাদের দ্বীন তোমাদের, আমার দ্বীন আমার"। শিরোনাম নেওয়া হয়েছে সম্বোধিতদের থেকে, অথচ বিষয় হলো ধর্মীয় আপসের প্রত্যাখ্যান; এটি নাজিল হয়েছিল যখন কুরাইশ প্রস্তাব দিয়েছিল যে এক বছর তারা, আর এক বছর নবী—পালা করে একে অন্যের উপাস্যের ইবাদত করবেন।',
+      en: 'The name is the vocative of the opening verse: the group being addressed, not the surah\'s theme. The word recurs nowhere else in these six verses, which work instead by strict parallel — I do not worship what you worship, nor do you worship what I worship, repeated with a shift of tense, and closing with "for you your religion and for me mine". The title is taken from the addressee, while the subject is the refusal of religious compromise; it is reported to have been revealed when Quraysh proposed that each side worship the other\'s god in alternate years.',
+      bn: 'নামটি প্রথম আয়াতের সম্বোধনপদ—যাদের উদ্দেশে বলা হচ্ছে সেই দল, সূরার বিষয়বস্তু নয়। এই ছয় আয়াতের আর কোথাও শব্দটি আসেনি; বরং সূরাটি চলে কঠোর সমান্তরাল গঠনে—আমি ইবাদত করি না তোমরা যার ইবাদত করো, তোমরাও ইবাদত করো না আমি যাঁর ইবাদত করি—কালের পরিবর্তনসহ পুনরাবৃত্ত, আর শেষে "তোমাদের দ্বীন তোমাদের, আমার দ্বীন আমার"। শিরোনাম নেওয়া হয়েছে সম্বোধিতদের থেকে, অথচ বিষয় হলো ধর্মীয় আপসের প্রত্যাখ্যান; বর্ণিত আছে, এটি নাজিল হয়েছিল যখন কুরাইশ প্রস্তাব দিয়েছিল যে এক বছর তারা, আর এক বছর নবী—পালা করে একে অন্যের উপাস্যের ইবাদত করবেন।',
     },
     signal: {
       en: 'Expect six verses drawing a line: no shared worship, no negotiated middle, and a final clause of separation that states two distinct paths rather than licensing indifference. Commonly recited paired with Al-Ikhlas.',
@@ -517,8 +517,8 @@ const SURAH_NAME_NOTES = {
       bn: 'এই পাঁচ আয়াতের জন্য তিনটি নাম প্রচলিত, আর প্রতিটিই নেওয়া হয়েছে ভেতরের ভিন্ন ভিন্ন শব্দ থেকে: শেষ আয়াতের আঁশের রশি থেকে আল-মাসাদ, প্রথম ও তৃতীয় আয়াতের আবু লাহাব ও অগ্নিশিখা থেকে আল-লাহাব, আর শুরুর ক্রিয়া "ধ্বংস হয়েছে" থেকে তাব্বাত। এই ভিন্নতা একেবারেই স্বাভাবিক—প্রথম যুগের মুসলিমরা সূরাকে তার যে শব্দটি মনে পড়ত তা দিয়েই উল্লেখ করতেন, সর্বত্র একটিমাত্র শিরোনাম নির্ধারিত ছিল না। এই অ্যাপ উসমানি মুসহাফের রীতি অনুসরণ করে আল-মাসাদ দেখায়; ইন্দোনেশীয় ছাপায় আল-লাহাব আর তুর্কি ছাপায় তেব্বেত—একই সূরার জন্য।',
     },
     signal: {
-      en: 'Expect the Quran\'s only surah aimed at a named living opponent: the Prophet\'s uncle Abu Lahab and his wife, his wealth and earnings availing him nothing, and a flaming fire and a fibre rope waiting for them both.',
-      bn: 'আশা করুন কুরআনের একমাত্র সূরা, যা নাম ধরে এক জীবিত বিরোধীকে লক্ষ্য করে: নবীর চাচা আবু লাহাব ও তার স্ত্রী, তার সম্পদ ও উপার্জন কোনো কাজে আসেনি, আর দুজনের জন্য অপেক্ষা করছে অগ্নিশিখা ও আঁশের রশি।',
+      en: 'Expect the Quran\'s only surah aimed at a named living opponent: the Prophet\'s uncle Abu Lahab and his wife, his wealth and earnings availing him nothing, and a flaming fire waiting for them, with a fibre rope around her neck.',
+      bn: 'আশা করুন কুরআনের একমাত্র সূরা, যা নাম ধরে এক জীবিত বিরোধীকে লক্ষ্য করে: নবীর চাচা আবু লাহাব ও তার স্ত্রী, তার সম্পদ ও উপার্জন কোনো কাজে আসেনি, আর তাদের জন্য অপেক্ষা করছে অগ্নিশিখা, তার স্ত্রীর গলায় আঁশের রশি।',
     },
     alt: [
       { name: 'Al-Lahab', en: 'From the flame and from Abu Lahab himself, named in the first and third verses; this is the title printed in the Indonesian tradition.', bn: 'অগ্নিশিখা ও স্বয়ং আবু লাহাবের নাম থেকে, যা প্রথম ও তৃতীয় আয়াতে এসেছে; ইন্দোনেশীয় ধারায় এই নামেই ছাপা হয়।' },
@@ -650,8 +650,8 @@ const SURAH_NAME_NOTES = {
       bn: 'খন্দকের যুদ্ধে মদিনা অবরোধকারী মিত্র গোত্রগুলোর নামে, যাদের ৩৩:২০ ও ৩৩:২২-এ আল-আহযাব বলা হয়েছে।',
     },
     why: {
-      en: 'Ahzab means parties or factions banded together, and it names the coalition of Quraysh and their allies who marched on Medina and were turned back without a battle. The word occurs in only a few verses, yet the siege it names is the pivot of the surah, which uses that moment of fear to examine who stood firm and who wavered. So this is a middle case: the title is still lifted from a distinctive word, but the episode behind it really is central. Ibn Ashur records no other name for the surah.',
-      bn: 'আহযাব মানে দলবদ্ধ পক্ষ বা জোট, আর এখানে তা বোঝায় কুরাইশ ও তাদের মিত্রদের সেই সম্মিলিত বাহিনীকে, যারা মদিনার দিকে এগিয়ে এসে যুদ্ধ ছাড়াই ফিরে গিয়েছিল। শব্দটি মাত্র কয়েকটি আয়াতে এসেছে, কিন্তু যে অবরোধকে তা নির্দেশ করে সেটিই সূরার কেন্দ্রবিন্দু — সেই ভয়ের মুহূর্তকে সামনে রেখেই দেখানো হয়েছে কারা অবিচল ছিল আর কারা টলে গিয়েছিল। তাই এটি মাঝামাঝি একটি ধরন: নাম এখানেও একটি স্বতন্ত্র শব্দ থেকে নেওয়া, তবু ঘটনাটি সত্যিই মূল বিষয়। ইবনে আশূর এই সূরার অন্য কোনো নাম উল্লেখ করেননি।',
+      en: 'Ahzab means parties or factions banded together, and it names the coalition of Quraysh and their allies who marched on Medina and were turned back without a pitched battle. The word occurs in only a few verses, yet the siege it names is the pivot of the surah, which uses that moment of fear to examine who stood firm and who wavered. So this is a middle case: the title is still lifted from a distinctive word, but the episode behind it really is central. Ibn Ashur records no other name for the surah.',
+      bn: 'আহযাব মানে দলবদ্ধ পক্ষ বা জোট, আর এখানে তা বোঝায় কুরাইশ ও তাদের মিত্রদের সেই সম্মিলিত বাহিনীকে, যারা মদিনার দিকে এগিয়ে এসে সম্মুখ যুদ্ধ ছাড়াই ফিরে গিয়েছিল। শব্দটি মাত্র কয়েকটি আয়াতে এসেছে, কিন্তু যে অবরোধকে তা নির্দেশ করে সেটিই সূরার কেন্দ্রবিন্দু — সেই ভয়ের মুহূর্তকে সামনে রেখেই দেখানো হয়েছে কারা অবিচল ছিল আর কারা টলে গিয়েছিল। তাই এটি মাঝামাঝি একটি ধরন: নাম এখানেও একটি স্বতন্ত্র শব্দ থেকে নেওয়া, তবু ঘটনাটি সত্যিই মূল বিষয়। ইবনে আশূর এই সূরার অন্য কোনো নাম উল্লেখ করেননি।',
     },
     signal: {
       en: 'A Medinan surah of testing and social reform: the siege and its aftermath, the households of the Prophet, adoption, hijab, and the manners owed to him.',
@@ -688,8 +688,8 @@ const SURAH_NAME_NOTES = {
       bn: 'ফাতির একটি বিরল ও জীবন্ত শব্দ: এতে কেবল বানানোর অর্থ নয়, বরং কিছু বিদীর্ণ করে অস্তিত্বে আনার ভাব রয়েছে। সূরাটির নাম নেওয়া হয়েছে প্রথম পঙ্‌ক্তি থেকে, যা নামকরণের সবচেয়ে প্রচলিত পদ্ধতি — কারণ তিলাওয়াতকারী সবার আগে সেটিই পৌঁছান এবং সেটিই সবচেয়ে ভালো মনে রাখেন। ঠিক সেই আয়াতেই ফেরেশতাদের কথাও এসেছে, যাঁদের বার্তাবাহক করা হয়েছে; সে কারণেই সূরাটি আল-মালাইকা নামেও সমানভাবে পরিচিত। একই আয়াত, দুটি নাম, বেছে নেওয়া দুটি ভিন্ন শব্দ।',
     },
     signal: {
-      en: 'Expect sustained attention to Allah alone as creator and sustainer: wind, rain, dead earth revived, two seas that do not mix, and the warning that no soul carries another burden.',
-      bn: 'আশা করুন স্রষ্টা ও রিজিকদাতা হিসেবে কেবল আল্লাহর দিকেই টানা মনোযোগ: বাতাস, বৃষ্টি, মৃত জমিনের পুনর্জীবন, দুই সাগরের না মেশা, আর এই সতর্কবার্তা যে কেউ অন্যের বোঝা বহন করবে না।',
+      en: 'Expect sustained attention to Allah alone as creator and sustainer: wind, rain, dead earth revived, two seas that are not alike, and the warning that no soul carries another burden.',
+      bn: 'আশা করুন স্রষ্টা ও রিজিকদাতা হিসেবে কেবল আল্লাহর দিকেই টানা মনোযোগ: বাতাস, বৃষ্টি, মৃত জমিনের পুনর্জীবন, এক রকম নয় এমন দুই সাগর, আর এই সতর্কবার্তা যে কেউ অন্যের বোঝা বহন করবে না।',
     },
     alt: [
       { name: "Al-Mala'ikah", en: 'Taken from the same opening verse, which describes the angels made messengers with wings.', bn: 'একই সূচনা আয়াত থেকে নেওয়া, যেখানে ডানাবিশিষ্ট ফেরেশতাদের বার্তাবাহক করার কথা বলা হয়েছে।' },
@@ -707,8 +707,8 @@ const SURAH_NAME_NOTES = {
       bn: 'ইয়া সীন হুরুফুল মুকাত্তাআতের অন্তর্ভুক্ত, আর এগুলোর অর্থ নির্ধারিত নয়। সংখ্যাগরিষ্ঠের অবস্থান হলো, এগুলোকে ওহি হিসেবে মেনে নেওয়া এবং অর্থের দাবি না করে তা আল্লাহর কাছেই সোপর্দ করা। প্রচলিত যে দাবি — কোনো এক উপভাষায় ইয়া সীন অর্থ "হে মানুষ" — তা একটি বর্ণিত মত মাত্র, প্রতিষ্ঠিত সত্য নয়; ইবনে আশূর এটি প্রত্যাখ্যান করেছেন এই যুক্তিতে যে মুসহাফে নামটি দুটি আলাদা হরফ হিসেবেই লেখা হয়। ফলে সূরাটির নাম তার সূচনার চিহ্ন, যা সূরাটিকে নিখুঁতভাবে শনাক্ত করে, অথচ বিষয়বস্তু সম্পর্কে কিছুই জানায় না।',
     },
     signal: {
-      en: 'A Meccan surah of warning and vivid imagery: a messenger rejected by a town, a believer who ran to defend him, signs in the dead earth and the night, and the resurrection.',
-      bn: 'সতর্কবার্তা ও জীবন্ত চিত্রকল্পে ভরা একটি মাক্কী সূরা: এক জনপদের প্রত্যাখ্যান করা বার্তাবাহক, তাঁদের পক্ষে ছুটে আসা এক ঈমানদার, মৃত জমিন ও রাতের নিদর্শন, এবং পুনরুত্থান।',
+      en: 'A Meccan surah of warning and vivid imagery: messengers rejected by a town, a believer who ran to defend them, signs in the dead earth and the night, and the resurrection.',
+      bn: 'সতর্কবার্তা ও জীবন্ত চিত্রকল্পে ভরা একটি মাক্কী সূরা: এক জনপদের প্রত্যাখ্যান করা বার্তাবাহকগণ, তাঁদের পক্ষে ছুটে আসা এক ঈমানদার, মৃত জমিন ও রাতের নিদর্শন, এবং পুনরুত্থান।',
     },
     alt: [
       { name: 'Qalb al-Quran', en: 'Reported as "the heart of the Quran" in a hadith which at-Tirmidhi himself called strange and whose chain contains an unknown narrator; scholars generally grade it weak, so it is quoted here as a report, not as an established virtue.', bn: '"কুরআনের হৃদয়" হিসেবে বর্ণিত একটি হাদিসে, যাকে তিরমিযি নিজেই গরীব বলেছেন এবং যার সনদে অজ্ঞাত একজন বর্ণনাকারী আছেন; আলিমগণ সাধারণত একে দুর্বল বলেন, তাই এটি প্রতিষ্ঠিত ফজিলত নয়, নিছক একটি বর্ণনা হিসেবেই উল্লেখ করা হলো।' },
@@ -778,8 +778,8 @@ const SURAH_NAME_NOTES = {
       bn: '৪০:৩-এ আল্লাহকে গাফিরুয্‌ যাম্‌ব — পাপ ক্ষমাকারী ও তাওবা কবুলকারী — বলে বর্ণনা করার সূত্রে।',
     },
     why: {
-      en: 'This surah has three recorded names, each lifted from a different place. Ghafir comes from a divine attribute in the third verse and became standard in North African copies. Al-Mu\'min points instead to the believer of Pharaoh\'s family, who concealed his faith and spoke up in defence of Musa, an episode found nowhere else in the Quran. At-Tawl comes from another attribute in the same third verse and has largely fallen out of use. Three names, none of them a summary, each simply a reliable handle for finding the surah.',
-      bn: 'এই সূরার তিনটি নাম বর্ণিত, প্রতিটি ভিন্ন জায়গা থেকে নেওয়া। গাফির এসেছে তৃতীয় আয়াতে আল্লাহর একটি গুণবাচক নাম থেকে, এবং উত্তর আফ্রিকার মুসহাফে এটিই প্রচলিত হয়ে যায়। আল-মুমিন ইঙ্গিত করে ফিরআউনের পরিবারের সেই ঈমানদারের দিকে, যিনি নিজের ঈমান গোপন রেখে মূসার পক্ষে কথা বলেছিলেন — কুরআনে এই ঘটনা আর কোথাও নেই। আত-তাওল এসেছে ওই তৃতীয় আয়াতেরই আরেকটি গুণ থেকে, তবে এই নামের ব্যবহার প্রায় উঠেই গেছে। তিনটি নামের কোনোটিই সারসংক্ষেপ নয়, প্রতিটিই কেবল সূরাটি খুঁজে পাওয়ার নির্ভরযোগ্য খুঁটি।',
+      en: 'This surah has three recorded names, each lifted from a different word. Ghafir comes from a divine attribute in the third verse and became standard in North African copies. Al-Mu\'min points instead to the believer of Pharaoh\'s family, who concealed his faith and spoke up in defence of Musa, an episode found nowhere else in the Quran. At-Tawl comes from another attribute in the same third verse and has largely fallen out of use. Three names, none of them a summary, each simply a reliable handle for finding the surah.',
+      bn: 'এই সূরার তিনটি নাম বর্ণিত, প্রতিটি ভিন্ন শব্দ থেকে নেওয়া। গাফির এসেছে তৃতীয় আয়াতে আল্লাহর একটি গুণবাচক নাম থেকে, এবং উত্তর আফ্রিকার মুসহাফে এটিই প্রচলিত হয়ে যায়। আল-মুমিন ইঙ্গিত করে ফিরআউনের পরিবারের সেই ঈমানদারের দিকে, যিনি নিজের ঈমান গোপন রেখে মূসার পক্ষে কথা বলেছিলেন — কুরআনে এই ঘটনা আর কোথাও নেই। আত-তাওল এসেছে ওই তৃতীয় আয়াতেরই আরেকটি গুণ থেকে, তবে এই নামের ব্যবহার প্রায় উঠেই গেছে। তিনটি নামের কোনোটিই সারসংক্ষেপ নয়, প্রতিটিই কেবল সূরাটি খুঁজে পাওয়ার নির্ভরযোগ্য খুঁটি।',
     },
     signal: {
       en: 'The first of the seven Ha Mim surahs. Expect argument with proud deniers, the courage of one hidden believer at court, and repeated assurance that prayer is answered.',
@@ -855,8 +855,8 @@ const SURAH_NAME_NOTES = {
       bn: '৪৪:১০-এর সেই সতর্কবার্তা থেকে, যেখানে বলা হয়েছে সেই দিনের অপেক্ষা করতে যেদিন আকাশ স্পষ্ট ধোঁয়া নিয়ে আসবে।',
     },
     why: {
-      en: 'Dukhan occurs once, in a warning of a day when the sky will bring a visible smoke that envelops people. Commentators divided over whether this refers to the famine that struck Mecca during the boycott or to a sign still to come before the Hour, and both readings are transmitted; the surah is named from the word without settling the dispute. That is normal. A name has to identify a surah, not adjudicate its exegesis, and Dukhan does the first job perfectly because the word occurs nowhere else nearby.',
-      bn: 'দুখান শব্দটি এসেছে একবার — সেই দিনের সতর্কবার্তায়, যেদিন আকাশ স্পষ্ট ধোঁয়া নিয়ে আসবে আর তা মানুষকে ঢেকে ফেলবে। মুফাসসিরগণ মতভেদ করেছেন, এটি বয়কটের সময় মক্কায় আঘাত হানা দুর্ভিক্ষকে বোঝায়, না কি কিয়ামতের আগে আসন্ন কোনো নিদর্শনকে; দুই ব্যাখ্যাই বর্ণিত। সূরার নাম শব্দটি থেকেই নেওয়া হয়েছে, বিতর্কের ফয়সালা না করেই। এটাই স্বাভাবিক। নামের কাজ সূরাকে শনাক্ত করা, তাফসিরের মীমাংসা করা নয় — আর দুখান প্রথম কাজটি নিখুঁতভাবে করে, কারণ আশপাশে আর কোথাও শব্দটি নেই।',
+      en: 'Dukhan occurs once, in a warning of a day when the sky will bring a visible smoke that envelops people. Commentators divided over whether this refers to the famine that struck Quraysh in Mecca or to a sign still to come before the Hour, and both readings are transmitted; the surah is named from the word without settling the dispute. That is normal. A name has to identify a surah, not adjudicate its exegesis, and Dukhan does the first job perfectly because the word occurs nowhere else in the surah.',
+      bn: 'দুখান শব্দটি এসেছে একবার — সেই দিনের সতর্কবার্তায়, যেদিন আকাশ স্পষ্ট ধোঁয়া নিয়ে আসবে আর তা মানুষকে ঢেকে ফেলবে। মুফাসসিরগণ মতভেদ করেছেন, এটি মক্কায় কুরাইশদের ওপর আঘাত হানা দুর্ভিক্ষকে বোঝায়, না কি কিয়ামতের আগে আসন্ন কোনো নিদর্শনকে; দুই ব্যাখ্যাই বর্ণিত। সূরার নাম শব্দটি থেকেই নেওয়া হয়েছে, বিতর্কের ফয়সালা না করেই। এটাই স্বাভাবিক। নামের কাজ সূরাকে শনাক্ত করা, তাফসিরের মীমাংসা করা নয় — আর দুখান প্রথম কাজটি নিখুঁতভাবে করে, কারণ সূরার আর কোথাও শব্দটি নেই।',
     },
     signal: {
       en: 'A short Ha Mim surah: the blessed night of revelation, a stern warning to Mecca, the destruction of Pharaoh, and a sharp contrast between two ends.',
@@ -874,8 +874,8 @@ const SURAH_NAME_NOTES = {
       bn: '৪৫:২৮-এর শেষদিকের সেই দৃশ্য থেকে, যেখানে প্রতিটি জাতিকে নতজানু অবস্থায় দেখা যাবে যখন তাদের আমলনামা বের করা হবে।',
     },
     why: {
-      en: 'The word occurs once, four verses from the end, in an image of every nation on its knees awaiting judgement. Naming a surah from its final scene is less common than naming it from the opening, and here it works because the picture is unforgettable. Two other names are recorded from other single words in the same surah: Ash-Shari\'ah from the clear way Allah set the Prophet upon, and Ad-Dahr from the deniers who said nothing destroys us but time. Three names, three isolated words.',
-      bn: 'শব্দটি এসেছে একবারই, শেষ থেকে চার আয়াত আগে — প্রতিটি জাতি নতজানু হয়ে বিচারের অপেক্ষায়, এমন এক চিত্রে। শেষ দৃশ্য থেকে সূরার নাম নেওয়া সূচনা থেকে নেওয়ার চেয়ে কম প্রচলিত, তবে এখানে তা কার্যকর, কারণ ছবিটি ভোলার নয়। একই সূরার আরও দুটি বিচ্ছিন্ন শব্দ থেকে আরও দুটি নাম বর্ণিত: আশ-শারীআ — আল্লাহ নবীজিকে যে সুস্পষ্ট পথে স্থাপন করেছেন তা থেকে, আর আদ-দাহর — অস্বীকারকারীদের সেই কথা থেকে যে সময় ছাড়া কিছুই আমাদের ধ্বংস করে না। তিনটি নাম, তিনটি আলাদা শব্দ।',
+      en: 'The word occurs once, nine verses from the end, in an image of every nation on its knees awaiting judgement. Naming a surah from its final scene is less common than naming it from the opening, and here it works because the picture is unforgettable. Two other names are recorded from other single words in the same surah: Ash-Shari\'ah from the clear way Allah set the Prophet upon, and Ad-Dahr from the deniers who said nothing destroys us but time. Three names, three isolated words.',
+      bn: 'শব্দটি এসেছে একবারই, শেষ থেকে নয় আয়াত আগে — প্রতিটি জাতি নতজানু হয়ে বিচারের অপেক্ষায়, এমন এক চিত্রে। শেষ দৃশ্য থেকে সূরার নাম নেওয়া সূচনা থেকে নেওয়ার চেয়ে কম প্রচলিত, তবে এখানে তা কার্যকর, কারণ ছবিটি ভোলার নয়। একই সূরার আরও দুটি বিচ্ছিন্ন শব্দ থেকে আরও দুটি নাম বর্ণিত: আশ-শারীআ — আল্লাহ নবীজিকে যে সুস্পষ্ট পথে স্থাপন করেছেন তা থেকে, আর আদ-দাহর — অস্বীকারকারীদের সেই কথা থেকে যে সময় ছাড়া কিছুই আমাদের ধ্বংস করে না। তিনটি নাম, তিনটি আলাদা শব্দ।',
     },
     signal: {
       en: 'Expect signs laid out for people who reason, a rebuke to those who take their own desire as a god, and a courtroom scene where the record speaks.',
@@ -932,8 +932,8 @@ const SURAH_NAME_NOTES = {
       bn: '৪৮:১-এর সূচনা ঘোষণা থেকে: নিশ্চয়ই আমি তোমাকে সুস্পষ্ট বিজয় দিয়েছি — ইন্না ফাতাহনা লাকা ফাতহাম মুবীনা।',
     },
     why: {
-      en: 'The name comes from the first word of the first verse, the commonest way surahs are named. What makes it worth pausing over is the timing: the verse was revealed on the way back from Hudaybiyyah, where the Muslims had accepted terms that many of them read as a defeat. Calling that a clear victory reframed the whole episode, and the name preserves that reframing. So here the marker word and the argument of the surah pull in the same direction, which is not always the case.',
-      bn: 'নামটি এসেছে প্রথম আয়াতের প্রথম শব্দ থেকে, যা সূরার নামকরণের সবচেয়ে প্রচলিত পদ্ধতি। থমকে দাঁড়ানোর মতো ব্যাপার হলো সময়টি: আয়াতটি নাজিল হয় হুদায়বিয়া থেকে ফেরার পথে, যেখানে মুসলিমরা এমন শর্ত মেনে নিয়েছিলেন যাকে অনেকেই পরাজয় হিসেবে পড়েছিলেন। সেটিকে সুস্পষ্ট বিজয় বলা গোটা ঘটনাকেই নতুন করে দেখতে শেখায়, আর নামটি সেই নতুন দৃষ্টিভঙ্গিকেই ধরে রাখে। ফলে এখানে চিহ্ন-শব্দ আর সূরার মূল বক্তব্য একই দিকে টানছে, যা সবসময় ঘটে না।',
+      en: 'The name comes from the opening of the first verse, the commonest way surahs are named. What makes it worth pausing over is the timing: the verse was revealed on the way back from Hudaybiyyah, where the Muslims had accepted terms that many of them read as a defeat. Calling that a clear victory reframed the whole episode, and the name preserves that reframing. So here the marker word and the argument of the surah pull in the same direction, which is not always the case.',
+      bn: 'নামটি এসেছে প্রথম আয়াতের সূচনা থেকে, যা সূরার নামকরণের সবচেয়ে প্রচলিত পদ্ধতি। থমকে দাঁড়ানোর মতো ব্যাপার হলো সময়টি: আয়াতটি নাজিল হয় হুদায়বিয়া থেকে ফেরার পথে, যেখানে মুসলিমরা এমন শর্ত মেনে নিয়েছিলেন যাকে অনেকেই পরাজয় হিসেবে পড়েছিলেন। সেটিকে সুস্পষ্ট বিজয় বলা গোটা ঘটনাকেই নতুন করে দেখতে শেখায়, আর নামটি সেই নতুন দৃষ্টিভঙ্গিকেই ধরে রাখে। ফলে এখানে চিহ্ন-শব্দ আর সূরার মূল বক্তব্য একই দিকে টানছে, যা সবসময় ঘটে না।',
     },
     signal: {
       en: 'Expect a treaty read as triumph: the pledge under the tree, calm sent down into believing hearts, the promise of entering the Sacred Mosque in safety.',
@@ -1063,7 +1063,7 @@ const SURAH_NAME_NOTES = {
       bn: 'আশা করুন কুরআনের আর কোথাও না পাওয়া এক ছন্দ: মানুষ ও জিন উভয়কে করা একটিমাত্র প্রশ্ন একত্রিশবার ফিরে এসে রহমতের দীর্ঘ তালিকাকে ছোট ছোট জোড়ায় ভাগ করে দিচ্ছে, যার প্রতিটিই উত্তর দাবি করে।',
     },
     alt: [
-      { name: "'Arus al-Quran", en: 'Reported by as-Suyuti from al-Bayhaqi as "the bride of the Quran"; Ibn Ashur notes this is praise for the surah, not a name for it.', bn: 'সুয়ূতী বাইহাকীর সূত্রে "কুরআনের কনে" হিসেবে বর্ণনা করেছেন; ইবনে আশূর উল্লেখ করেছেন, এটি সূরার প্রশংসা, নাম নয়।' },
+      { name: "'Arus al-Quran", en: 'Reported by as-Suyuti from al-Bayhaqi as "the bride of the Quran", in a hadith graded weak; Ibn Ashur notes this is praise for the surah, not a name for it.', bn: 'সুয়ূতী বাইহাকীর সূত্রে "কুরআনের কনে" হিসেবে বর্ণনা করেছেন, তবে হাদিসটি দুর্বল বলে গণ্য; ইবনে আশূর উল্লেখ করেছেন, এটি সূরার প্রশংসা, নাম নয়।' },
     ],
     refs: ['55:1'],
   },
@@ -1074,8 +1074,8 @@ const SURAH_NAME_NOTES = {
       bn: '৫৬:১-এর সূচনা পঙ্‌ক্তি থেকে: যখন সেই ঘটনা ঘটবে — ইযা ওয়াকাআতিল ওয়াকিআহ।',
     },
     why: {
-      en: 'Al-Waqi\'ah literally means the thing that falls, the event that happens without fail, and it is one of the Quran\'s several names for the Day of Judgement. The word is taken from the first verse in the usual way, but it also states the subject, because the entire surah describes that day and sorts humanity into three groups. So this is one of the surahs where the marker word and the theme happen to agree, though the choice was still driven by the opening.',
-      bn: 'আল-ওয়াকিআ শব্দের আক্ষরিক অর্থ যা পতিত হয়, যে ঘটনা ঘটবেই — এটি কিয়ামতের দিনের জন্য কুরআনে ব্যবহৃত কয়েকটি নামের একটি। শব্দটি স্বাভাবিক নিয়মেই প্রথম আয়াত থেকে নেওয়া, তবে এটি বিষয়বস্তুও জানিয়ে দেয়, কারণ গোটা সূরাই সেই দিনের বর্ণনা এবং মানুষকে তিন দলে ভাগ করে দেখানো। ফলে এটি সেই সূরাগুলোর একটি, যেখানে চিহ্ন-শব্দ আর মূল বিষয় মিলে যায় — যদিও নির্বাচনের কারণ এখানেও সূচনাই।',
+      en: 'Al-Waqi\'ah literally means the thing that falls, the event that happens without fail, and it is one of the Quran\'s several names for the Day of Judgement. The word is taken from the first verse in the usual way, but it also states the subject, because most of the surah describes that day and sorts humanity into three groups. So this is one of the surahs where the marker word and the theme happen to agree, though the choice was still driven by the opening.',
+      bn: 'আল-ওয়াকিআ শব্দের আক্ষরিক অর্থ যা পতিত হয়, যে ঘটনা ঘটবেই — এটি কিয়ামতের দিনের জন্য কুরআনে ব্যবহৃত কয়েকটি নামের একটি। শব্দটি স্বাভাবিক নিয়মেই প্রথম আয়াত থেকে নেওয়া, তবে এটি বিষয়বস্তুও জানিয়ে দেয়, কারণ সূরার বেশিরভাগই সেই দিনের বর্ণনা এবং মানুষকে তিন দলে ভাগ করে দেখানো। ফলে এটি সেই সূরাগুলোর একটি, যেখানে চিহ্ন-শব্দ আর মূল বিষয় মিলে যায় — যদিও নির্বাচনের কারণ এখানেও সূচনাই।',
     },
     signal: {
       en: 'Expect humanity sorted into three ranks, the foremost, the people of the right and the people of the left, then a challenge based on the seed, the water and the fire.',
@@ -1246,7 +1246,7 @@ const SURAH_NAME_NOTES = {
       bn: 'আশা করুন খুব কাছ থেকে দেওয়া বিধান, সংসারের সবচেয়ে কঠিন দিনগুলোর জন্য; আর মনে রাখার কথাটি — যে আল্লাহকে ভয় করে তার জন্য পথ বেরোয় — রাখা হয়েছে ধারাগুলোর শেষে নয়, ঠিক মাঝখানে।',
     },
     alt: [
-      { name: 'Surat an-Nisa as-Sughra', en: 'Ibn Masud is reported to have called it the shorter Surat an-Nisa, because it revisits the family rulings of the fourth surah at a fraction of its length.', bn: 'ইবনে মাসঊদ (রাঃ) একে "ছোট সূরা নিসা" বলতেন বলে বর্ণিত, কারণ চতুর্থ সূরার পারিবারিক বিধানগুলোই এখানে অনেক সংক্ষেপে ফিরে এসেছে।' },
+      { name: 'Surat an-Nisa al-Qusra', en: 'Ibn Masud is reported in Sahih al-Bukhari to have called it the shorter Surat an-Nisa; the name fits a surah that revisits family rulings like those of the fourth surah at a fraction of its length.', bn: 'ইবনে মাসঊদ (রাঃ) একে "ছোট সূরা নিসা" বলেছেন বলে সহীহ বুখারীতে বর্ণিত; চতুর্থ সূরার মতো পারিবারিক বিধান এখানে অনেক সংক্ষেপে ফিরে আসায় নামটি মানানসই।' },
     ],
     refs: ['65:1', '65:4'],
   },
@@ -1300,7 +1300,7 @@ const SURAH_NAME_NOTES = {
       bn: 'এই সূরার দুটি নাম, আর দুটিই প্রথম আয়াত থেকে। "নূন" একটি হুরুফে মুকাত্তাআত, বিচ্ছিন্ন অক্ষর; বাকি সবগুলোর মতোই এর অর্থ নিশ্চিতভাবে নির্ধারিত নয়। নিরাপদ অবস্থান হলো, এটি আল্লাহর নাজিলকৃত বলে মেনে নেওয়া, অর্থ জানার দাবি না করা; আর প্রচলিত ব্যাখ্যাগুলো — কালির দোয়াত, বিরাট মাছ — বর্ণনা মাত্র, প্রতিষ্ঠিত তথ্য নয়। "আল-কলম" সেই একই আয়াতের বাকি অংশ, যে কলমের শপথ করা হয়েছে। কলমের নামে সূরার নাম এখানে বিশেষভাবে মানানসই: নবী ﷺ-কে পাগল বলা হচ্ছিল, আর জবাব শুরু হচ্ছে লেখার শপথ দিয়েই।',
     },
     signal: {
-      en: 'Expect a defence of the Prophet against the charge of madness, a warning story about the owners of the garden who tried to harvest before the poor could come, and a call to patience that names Yunus without naming him.',
+      en: 'Expect a defence of the Prophet against the charge of madness, a warning story about the owners of the garden who tried to harvest before the poor could come, and a call to patience that recalls Yunus without naming him.',
       bn: 'আশা করুন উন্মাদনার অভিযোগের বিরুদ্ধে নবী ﷺ-এর পক্ষে প্রতিরক্ষা, গরিবরা আসার আগেই ফসল তুলতে চাওয়া বাগানওয়ালাদের শিক্ষামূলক কাহিনি, আর ধৈর্যের আহ্বান — যেখানে ইউনুস (আঃ)-এর নাম না নিয়েই তাঁর কথা বলা হয়।',
     },
     alt: [
@@ -1352,8 +1352,8 @@ const SURAH_NAME_NOTES = {
       bn: '৭১:১ আয়াতে স্বজাতির কাছে প্রেরিত নবী নূহ (আঃ)-এর নামে; তাঁর দাওয়াত ও শেষ প্রার্থনাই পুরো সূরা জুড়ে।',
     },
     why: {
-      en: 'This is one of the surahs where the name and the subject are the same thing. Twenty-eight verses cover a single prophet\'s work: the warning, the long years of calling by night and by day, in public and in private, the people stopping their ears in their garments and clinging to idols named one by one, and at the end the prayer of a man who has exhausted every approach. Most surah titles are labels pulled from a passing word. Here nothing is pulled — the surah is about Nuh from first verse to last, and the title simply says so.',
-      bn: 'এটি সেই কয়েকটি সূরার একটি, যেখানে নাম ও বিষয় অভিন্ন। আটাশটি আয়াত জুড়ে একজন নবীরই কাজ: সতর্কবার্তা, রাতে-দিনে প্রকাশ্যে-গোপনে দীর্ঘ বছরের আহ্বান, কাপড়ে কান ঢেকে ফেলা মানুষ, আর এক এক করে নাম ধরে উল্লিখিত মূর্তিগুলো আঁকড়ে থাকা; শেষে সেই মানুষের প্রার্থনা, যিনি সম্ভাব্য সব পথ শেষ করে ফেলেছেন। বেশিরভাগ সূরার নাম কোনো আসা-যাওয়া শব্দ থেকে তুলে নেওয়া চিহ্ন। এখানে তোলা কিছু নেই — প্রথম আয়াত থেকে শেষ পর্যন্ত সূরাটি নূহ (আঃ)-কে নিয়েই, আর নাম কেবল সেটুকুই বলে।',
+      en: 'This is one of the surahs where the name and the subject are the same thing. Twenty-eight verses cover a single prophet\'s work: the warning, the long years of calling by night and by day, in public and in private, the people putting their fingers in their ears, covering themselves with their garments and clinging to idols named one by one, and at the end the prayer of a man who has exhausted every approach. Most surah titles are labels pulled from a passing word. Here nothing is pulled — the surah is about Nuh from first verse to last, and the title simply says so.',
+      bn: 'এটি সেই কয়েকটি সূরার একটি, যেখানে নাম ও বিষয় অভিন্ন। আটাশটি আয়াত জুড়ে একজন নবীরই কাজ: সতর্কবার্তা, রাতে-দিনে প্রকাশ্যে-গোপনে দীর্ঘ বছরের আহ্বান, কানে আঙুল দিয়ে কাপড়ে নিজেদের ঢেকে ফেলা মানুষ, আর এক এক করে নাম ধরে উল্লিখিত মূর্তিগুলো আঁকড়ে থাকা; শেষে সেই মানুষের প্রার্থনা, যিনি সম্ভাব্য সব পথ শেষ করে ফেলেছেন। বেশিরভাগ সূরার নাম কোনো আসা-যাওয়া শব্দ থেকে তুলে নেওয়া চিহ্ন। এখানে তোলা কিছু নেই — প্রথম আয়াত থেকে শেষ পর্যন্ত সূরাটি নূহ (আঃ)-কে নিয়েই, আর নাম কেবল সেটুকুই বলে।',
     },
     signal: {
       en: 'Expect a case study in preaching rather than a narrative of the flood: the methods tried, the arguments used, the response received, and the point at which a prophet hands the matter back to his Lord.',
@@ -1592,8 +1592,8 @@ const SURAH_NAME_NOTES = {
       bn: '৮৪:১ আয়াতের "ইনশাক্কাত" থেকে — যখন আকাশ ফেটে চৌচির হবে।',
     },
     why: {
-      en: 'This is the third in a run of surahs opening with the sky coming apart, and like the others it is named from the verb of its first clause. Inshaqqa is to split along a seam. The surah adds something the others do not: the sky, in tearing, listens to its Lord and is right to — obedience rather than collapse. The title marks the chapter, it does not summarise it. What follows is man toiling towards his Lord, the record given in the right hand or from behind the back, oaths by the twilight and the gathering night, and the promise of stage after stage.',
-      bn: 'আকাশ খুলে পড়ার বর্ণনা দিয়ে শুরু হওয়া সূরাগুলোর ধারায় এটি তৃতীয়, আর বাকিগুলোর মতোই এর নাম সূচনার ক্রিয়াপদ থেকে। "ইনশাক্কা" মানে সেলাই বরাবর ফেটে যাওয়া। তবে এই সূরা এমন কিছু যোগ করে যা অন্যগুলোতে নেই: আকাশ ফাটার সময় তার রবের আদেশ শোনে, আর তা-ই তার জন্য যথার্থ — ধ্বংস নয়, আনুগত্য। নামটি সূরাকে চিহ্নিত করে, সারসংক্ষেপ দেয় না। এরপর আসে নিজের রবের দিকে পরিশ্রম করে চলা মানুষ, ডান হাতে বা পিঠের পিছন থেকে দেওয়া আমলনামা, গোধূলি ও ঘনিয়ে আসা রাতের শপথ, আর স্তরের পর স্তর পেরোনোর প্রতিশ্রুতি।',
+      en: 'Like at-Takwir and al-Infitar before it, this surah opens with the cosmos coming apart, and like them it is named from the verb of its first clause. Inshaqqa is to split along a seam. The surah adds something the others do not: the sky, in tearing, listens to its Lord and is right to — obedience rather than collapse. The title marks the chapter, it does not summarise it. What follows is man toiling towards his Lord, the record given in the right hand or from behind the back, oaths by the twilight and the gathering night, and the promise of stage after stage.',
+      bn: 'আত-তাকভীর ও আল-ইনফিতারের মতো এই সূরাও শুরু হয় বিশ্বজগৎ ভেঙে পড়ার বর্ণনা দিয়ে, আর ওদের মতোই এর নাম সূচনার ক্রিয়াপদ থেকে। "ইনশাক্কা" মানে সেলাই বরাবর ফেটে যাওয়া। তবে এই সূরা এমন কিছু যোগ করে যা অন্যগুলোতে নেই: আকাশ ফাটার সময় তার রবের আদেশ শোনে, আর তা-ই তার জন্য যথার্থ — ধ্বংস নয়, আনুগত্য। নামটি সূরাকে চিহ্নিত করে, সারসংক্ষেপ দেয় না। এরপর আসে নিজের রবের দিকে পরিশ্রম করে চলা মানুষ, ডান হাতে বা পিঠের পিছন থেকে দেওয়া আমলনামা, গোধূলি ও ঘনিয়ে আসা রাতের শপথ, আর স্তরের পর স্তর পেরোনোর প্রতিশ্রুতি।',
     },
     signal: {
       en: 'Expect the shortest possible route from the sky splitting to the reader\'s own file being handed over, with a reminder that the whole of life is a journey through one stage after another.',
@@ -1672,7 +1672,7 @@ const SURAH_NAME_NOTES = {
       bn: 'কুরআনের দীর্ঘতম সূরা, যেখানে আকীদা, বিধান, কিবলা পরিবর্তন, রোযা, হজ্জ, ঋণ — আরও কত কিছু আছে, তার নাম এসেছে একটি গাভী নিয়ে মাত্র সাত আয়াতের একটি ঘটনা থেকে। সূরার নাম কীভাবে কাজ করে, এর চেয়ে পরিষ্কার উদাহরণ নেই। নামগুলো চিহ্ন, বিষয়বস্তুর সারসংক্ষেপ নয় — এমন একটি শব্দ বেছে নেওয়া হয় যা দেখেই সূরাটি চেনা যায়। গাভীর ঘটনাটি মনে থাকে ঠিক এর অদ্ভুততার কারণেই: সহজ একটি আদেশ, তারপর প্রশ্নের পর প্রশ্ন, শেষে মানাটাই হয়ে দাঁড়াল ব্যয়বহুল। একবার পড়লে এই সূরা আর কারও সঙ্গে গুলিয়ে যায় না।',
     },
     signal: {
-      en: "Not a surah about cattle. Expect the widest-ranging surah in the Quran: the covenant of the Children of Israel, the law of the new community at Madinah, and the Quran's longest single passage, on recording debt.",
+      en: "Not a surah about cattle. Expect the widest-ranging surah in the Quran: the covenant of the Children of Israel, the law of the new community at Madinah, and the Quran's longest single verse, on recording debt.",
       bn: 'এটি গবাদি পশুর সূরা নয়। কুরআনের সবচেয়ে বিস্তৃত সূরা: বনী ইসরাঈলের অঙ্গীকার, মদীনার নতুন সমাজের বিধান, আর ঋণ লিখে রাখা নিয়ে কুরআনের দীর্ঘতম আয়াত।',
     },
     alt: [
@@ -1689,8 +1689,8 @@ const SURAH_NAME_NOTES = {
       bn: '৩:৩৩ আয়াত থেকে, যেখানে বলা হয়েছে আল্লাহ আদম, নূহ, ইবরাহীমের বংশ ও ইমরানের বংশকে সমগ্র সৃষ্টির উপর মনোনীত করেছেন।',
     },
     why: {
-      en: 'Imran himself is not a figure the surah tells stories about. He is named once, in a verse listing the households God chose, and the name of the surah is lifted from that list. What follows makes the choice apt: the birth of Maryam into that household, the vow her mother made, and then the account of Isa and the argument with the delegation of Najran. So the name is a marker drawn from one verse, but the verse sits at the head of the section that gives the surah its distinctive material.',
-      bn: 'ইমরান নিজে এই সূরার কোনো কাহিনীর চরিত্র নন। মনোনীত পরিবারগুলোর তালিকা দেওয়া একটি আয়াতে তাঁর নাম একবারই আসে, আর সূরার নাম সেই তালিকা থেকেই তুলে নেওয়া। এরপর যা আসে তাতে নামটি যথার্থ মনে হয়: সেই পরিবারে মারইয়ামের জন্ম, তাঁর মায়ের মানত, তারপর ঈসার বৃত্তান্ত ও নাজরানের প্রতিনিধিদলের সঙ্গে বিতর্ক। অর্থাৎ নামটি এক আয়াত থেকে নেওয়া একটি চিহ্ন, তবে সেই আয়াতটিই সূরার সবচেয়ে স্বতন্ত্র অংশের শুরুতে দাঁড়িয়ে আছে।',
+      en: 'Imran himself is not a figure the surah tells stories about. He is named only in passing, in a verse listing the households God chose, and the name of the surah is lifted from that list. What follows makes the choice apt: the birth of Maryam into that household, the vow her mother made, and then the account of Isa and the argument with the delegation of Najran. So the name is a marker drawn from one verse, but the verse sits at the head of the section that gives the surah its distinctive material.',
+      bn: 'ইমরান নিজে এই সূরার কোনো কাহিনীর চরিত্র নন। মনোনীত পরিবারগুলোর তালিকা দেওয়া একটি আয়াতে তাঁর নাম আসে কেবল প্রসঙ্গক্রমে, আর সূরার নাম সেই তালিকা থেকেই তুলে নেওয়া। এরপর যা আসে তাতে নামটি যথার্থ মনে হয়: সেই পরিবারে মারইয়ামের জন্ম, তাঁর মায়ের মানত, তারপর ঈসার বৃত্তান্ত ও নাজরানের প্রতিনিধিদলের সঙ্গে বিতর্ক। অর্থাৎ নামটি এক আয়াত থেকে নেওয়া একটি চিহ্ন, তবে সেই আয়াতটিই সূরার সবচেয়ে স্বতন্ত্র অংশের শুরুতে দাঁড়িয়ে আছে।',
     },
     signal: {
       en: "Expect the Quran's fullest engagement with Christian belief, the birth and mission of Isa, and a long review of the battle of Uhud read as a lesson in obedience and patience.",
@@ -1717,7 +1717,7 @@ const SURAH_NAME_NOTES = {
       bn: 'কুরআনের সবচেয়ে ঘন পারিবারিক বিধান — উত্তরাধিকার, বিবাহ, অভিভাবকত্ব — বসানো আছে ইনসাফ নিয়ে একটি বৃহত্তর আলোচনার ভেতরে, সঙ্গে চলতে থাকে মুখে ঈমান আনা অথচ কাজে না আনা লোকদের নিয়ে সতর্কবাণী।',
     },
     alt: [
-      { name: 'An-Nisa al-Kubra', en: 'The greater Women — used to tell it apart from Surat at-Talaq, which Ibn Masud is reported to have called an-Nisa as-Sughra, the lesser Women.', bn: 'বড় নিসা — সূরা তালাক থেকে আলাদা করতে এই নাম, কারণ ইবনে মাসঊদ সূরা তালাককে আন-নিসা আস-সুগরা বা ছোট নিসা বলতেন বলে বর্ণিত আছে।' },
+      { name: 'An-Nisa al-Kubra', en: 'The greater Women — used to tell it apart from Surat at-Talaq, which Ibn Masud is reported in Sahih al-Bukhari to have called an-Nisa al-Qusra, the shorter Women.', bn: 'বড় নিসা — সূরা তালাক থেকে আলাদা করতে এই নাম, কারণ ইবনে মাসঊদ সূরা তালাককে আন-নিসা আল-কুসরা বা ছোট নিসা বলেছেন বলে সহীহ বুখারীতে বর্ণিত আছে।' },
     ],
     refs: ['4:1', '4:7', '4:127'],
   },
@@ -1728,7 +1728,7 @@ const SURAH_NAME_NOTES = {
       bn: '৫:১১২-১১৫ আয়াত থেকে, যেখানে হাওয়ারীরা ঈসার কাছে আকাশ থেকে খাদ্যভরা দস্তরখান নামানোর আবেদন করে।',
     },
     why: {
-      en: "The episode that gives the surah its name sits near its very end and takes four verses. Everything before it is law: what may be eaten, how to purify oneself for prayer, oaths and their expiation, witnesses, theft, and the duty to judge by what God revealed. The name is therefore a marker, taken from the surah's most unusual image rather than its subject. Even so the choice is not arbitrary — a table sent down and then made a test for those who received it fits a surah built on the keeping and breaking of covenants.",
+      en: "The episode that gives the surah its name sits near its very end and takes four verses. Most of what comes before it is law: what may be eaten, how to purify oneself for prayer, oaths and their expiation, witnesses, theft, and the duty to judge by what God revealed. The name is therefore a marker, taken from the surah's most unusual image rather than its subject. Even so the choice is not arbitrary — a table sent down and then made a test for those who received it fits a surah built on the keeping and breaking of covenants.",
       bn: 'যে ঘটনা থেকে নামটি এসেছে, তা সূরার একেবারে শেষদিকে, মাত্র চার আয়াতে। তার আগের প্রায় সবই বিধান: কী খাওয়া যাবে, নামাযের জন্য পবিত্রতা, শপথ ও তার কাফফারা, সাক্ষ্য, চুরি, এবং আল্লাহর নাযিলকৃত বিধান অনুযায়ী বিচারের দায়িত্ব। তাই নামটি একটি চিহ্ন — সূরার বিষয়বস্তু নয়, সবচেয়ে অস্বাভাবিক দৃশ্যটি থেকে নেওয়া। তবু বাছাইটি এলোমেলো নয়: নেমে আসা দস্তরখান যাদের কাছে এল তাদের জন্যই পরীক্ষা হয়ে দাঁড়াল, আর গোটা সূরাটিই দাঁড়িয়ে আছে অঙ্গীকার রক্ষা ও ভঙ্গের উপর।',
     },
     signal: {
@@ -1892,12 +1892,12 @@ const SURAH_NAME_NOTES = {
       bn: '১৪:৩৫-৪১ আয়াতে মক্কা ও নিজের বংশধরদের জন্য ইবরাহীমের দীর্ঘ দোয়া থেকে।',
     },
     why: {
-      en: 'The surah is about messengers and what happens when people refuse them, and Ibrahim enters it late, not as the hero of a narrative but as a voice in prayer: asking for the valley to be made secure, for his descendants to be kept from idols, for the prayer to be established. Those seven verses are what the name is taken from. It is a marker again — one passage out of a surah that spends most of its length elsewhere — though a well-chosen one, since a prayer offered generations earlier fits a surah about the long consequences of accepting or rejecting a message.',
-      bn: 'সূরার বিষয় রাসূলগণ এবং মানুষ তাঁদের প্রত্যাখ্যান করলে কী ঘটে; ইবরাহীম আসেন শেষদিকে, কোনো কাহিনীর নায়ক হিসেবে নয়, দোয়ার কণ্ঠ হিসেবে — এই উপত্যকাকে নিরাপদ করার, বংশধরদের মূর্তিপূজা থেকে দূরে রাখার, নামায প্রতিষ্ঠিত রাখার প্রার্থনা। ওই সাত আয়াত থেকেই নামটি নেওয়া। এটিও একটি চিহ্ন — এমন এক সূরার একটিমাত্র অংশ, যার বেশিরভাগ কাটে অন্য প্রসঙ্গে — তবে ভালোভাবে বাছা চিহ্ন, কারণ প্রজন্ম আগে করা একটি দোয়া সেই সূরার সঙ্গেই মানায় যা বার্তা গ্রহণ বা প্রত্যাখ্যানের দীর্ঘমেয়াদি পরিণতি নিয়ে।',
+      en: 'The surah is about messengers and what happens when people refuse them, and Ibrahim enters it late, not as the hero of a narrative but as a voice in prayer: asking for the city to be made secure, for his descendants to be kept from idols, for the prayer to be established. Those seven verses are what the name is taken from. It is a marker again — one passage out of a surah that spends most of its length elsewhere — though a well-chosen one, since a prayer offered generations earlier fits a surah about the long consequences of accepting or rejecting a message.',
+      bn: 'সূরার বিষয় রাসূলগণ এবং মানুষ তাঁদের প্রত্যাখ্যান করলে কী ঘটে; ইবরাহীম আসেন শেষদিকে, কোনো কাহিনীর নায়ক হিসেবে নয়, দোয়ার কণ্ঠ হিসেবে — এই নগরীকে নিরাপদ করার, বংশধরদের মূর্তিপূজা থেকে দূরে রাখার, নামায প্রতিষ্ঠিত রাখার প্রার্থনা। ওই সাত আয়াত থেকেই নামটি নেওয়া। এটিও একটি চিহ্ন — এমন এক সূরার একটিমাত্র অংশ, যার বেশিরভাগ কাটে অন্য প্রসঙ্গে — তবে ভালোভাবে বাছা চিহ্ন, কারণ প্রজন্ম আগে করা একটি দোয়া সেই সূরার সঙ্গেই মানায় যা বার্তা গ্রহণ বা প্রত্যাখ্যানের দীর্ঘমেয়াদি পরিণতি নিয়ে।',
     },
     signal: {
-      en: "Expect messengers answered with threats, a scene of the arrogant and the weak arguing in the Fire, the parable of the good word as a rooted tree, and a father's prayer for a barren valley.",
-      bn: 'রাসূলদের জবাবে হুমকি, জাহান্নামে অহংকারী ও দুর্বলদের বাদানুবাদের দৃশ্য, উত্তম বাণীকে শিকড়-গাড়া গাছের সঙ্গে তুলনা, আর এক পিতার প্রার্থনা এক শস্যহীন উপত্যকার জন্য।',
+      en: "Expect messengers answered with threats, a scene of the arrogant and the weak arguing before God on the Day of Judgement, the parable of the good word as a rooted tree, and a father's prayer for a barren valley.",
+      bn: 'রাসূলদের জবাবে হুমকি, কিয়ামতের দিন আল্লাহর সামনে অহংকারী ও দুর্বলদের বাদানুবাদের দৃশ্য, উত্তম বাণীকে শিকড়-গাড়া গাছের সঙ্গে তুলনা, আর এক পিতার প্রার্থনা এক শস্যহীন উপত্যকার জন্য।',
     },
     alt: [],
     refs: ['14:35', '14:37', '14:41'],
@@ -2018,8 +2018,8 @@ const SURAH_NAME_NOTES = {
       bn: 'সূরার দ্বিতীয়ার্ধে ২১:৪৮-৯১ আয়াতে একের পর এক নবীদের যে ধারাবাহিক স্মরণ আছে, সেখান থেকে।',
     },
     why: {
-      en: "This is one of the minority of names that does describe the contents. Prophet after prophet is recalled in a single run — Musa and Harun, Ibrahim, Lut, Nuh, Dawud and Sulayman, Ayyub, Ismail, Idris, Dhul-Kifl, Yunus, Zakariyya, Yahya and Isa with his mother — each in a few verses, each with the same point: they called on their Lord and were answered. The name reports that structure rather than isolating a striking word. It is worth noticing how rare that is; most surah names would tell you nothing at all about what lies inside.",
-      bn: 'অল্প যে কয়েকটি নাম সত্যিই বিষয়বস্তু বর্ণনা করে, এটি তাদের একটি। একটানা এক ধারায় নবীর পর নবীর কথা আসে — মূসা ও হারূন, ইবরাহীম, লূত, নূহ, দাউদ ও সুলাইমান, আইয়ূব, ইসমাঈল, ইদরীস, যুলকিফল, ইউনুস, যাকারিয়া, ইয়াহইয়া, এবং ঈসা ও তাঁর মা — প্রত্যেকে কয়েক আয়াতে, প্রত্যেকের বেলায় একই কথা: তাঁরা তাঁদের রবকে ডেকেছিলেন, আর সাড়া পেয়েছিলেন। নামটি এই বিন্যাসেরই খবর দেয়, কোনো চমকদার শব্দ আলাদা করে তোলে না। এটি কত বিরল, তা লক্ষ্য করার মতো; বেশিরভাগ সূরার নাম ভেতরে কী আছে তার কিছুই জানায় না।',
+      en: "This is one of the minority of names that does describe the contents. Prophet after prophet is recalled in a single run — Musa and Harun, Ibrahim, Lut, Nuh, Dawud and Sulayman, Ayyub, Ismail, Idris, Dhul-Kifl, Yunus, Zakariyya, Yahya and Isa with his mother — each in a few verses, many with the same point: they called on their Lord and were answered. The name reports that structure rather than isolating a striking word. It is worth noticing how rare that is; most surah names would tell you nothing at all about what lies inside.",
+      bn: 'অল্প যে কয়েকটি নাম সত্যিই বিষয়বস্তু বর্ণনা করে, এটি তাদের একটি। একটানা এক ধারায় নবীর পর নবীর কথা আসে — মূসা ও হারূন, ইবরাহীম, লূত, নূহ, দাউদ ও সুলাইমান, আইয়ূব, ইসমাঈল, ইদরীস, যুলকিফল, ইউনুস, যাকারিয়া, ইয়াহইয়া, এবং ঈসা ও তাঁর মা — প্রত্যেকে কয়েক আয়াতে, অনেকের বেলায় একই কথা: তাঁরা তাঁদের রবকে ডেকেছিলেন, আর সাড়া পেয়েছিলেন। নামটি এই বিন্যাসেরই খবর দেয়, কোনো চমকদার শব্দ আলাদা করে তোলে না। এটি কত বিরল, তা লক্ষ্য করার মতো; বেশিরভাগ সূরার নাম ভেতরে কী আছে তার কিছুই জানায় না।',
     },
     signal: {
       en: 'Expect short, rapid accounts of many prophets and their answered prayers, set inside a Makkan argument that the reckoning has drawn near and that the heavens and earth were not made in play.',

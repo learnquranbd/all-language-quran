@@ -83,7 +83,7 @@ class TajweedLearn {
   ci(en) {
     if (!en) return '';
     if (typeof CI18N === 'undefined') return en;
-    return CI18N.tr(this.language, en) || en;
+    return CI18N.tr(this.language, en, 'tajweed') || en;
   }
   lesson(k) { const l = TAJWEED_LESSONS[k] || {}; return l[this.language] || this.ci(l.en || ''); }
   /** Rule display name in the UI language (technical Arabic terms transliterated). */

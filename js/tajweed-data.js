@@ -44,8 +44,8 @@ const TAJWEED_LESSONS = {
     en: 'Connected madd: madd letter and hamza in the SAME word — stretch 4–5 counts (obligatory).',
     bn: 'মাদ্দ মুত্তাসিল: একই শব্দে মাদ্দ ও হামযা — ৪–৫ হরকত (ওয়াজিব)।' },
   madd_6: { group: 'madd', names: { bn: 'মাদ্দ লাযিম (৬)', ar: 'المد اللازم (6)', zh: '必须长音 (6)', ja: 'マッド・ラージム (6)' }, letters: 'ا و ي',
-    en: 'Madd Lazim: the heaviest madd — always stretch 6 counts.',
-    bn: 'মাদ্দ লাযিম: সবচেয়ে দীর্ঘ মাদ্দ — সর্বদা ৬ হরকত।' },
+    en: 'Madd Lazim: the heaviest madd — stretch 6 counts (only the ع of كٓهيعٓصٓ and عٓسٓقٓ may also take 4).',
+    bn: 'মাদ্দ লাযিম: সবচেয়ে দীর্ঘ মাদ্দ — ৬ হরকত (শুধু كٓهيعٓصٓ ও عٓسٓقٓ-এর ع-এ ৪ হরকতও জায়েয)।' },
   idghaam_mutajanisayn: { group: 'other', names: { bn: 'ইদগাম মুতাজানিসাইন', ar: 'إدغام المتجانسين', zh: '同部位合并', ja: 'イドガーム・ムタジャーニサイン' }, letters: 'ت/ط ث/ذ …',
     en: 'Merging of two letters sharing the same articulation point but differing in attributes (e.g. ت into ط).',
     bn: 'ইদগাম মুতাজানিসাইন: একই মাখরাজের দুটি ভিন্ন বৈশিষ্ট্যের অক্ষরের মিলন (যেমন ت → ط)।' },
@@ -81,27 +81,27 @@ const TAJWEED_LESSONS = {
     en: 'Madd al-Badal: a hamza precedes a madd letter in the same word (the madd substituted for an original hamza). Recited as 2 counts in the narration of Hafs \'an \'Asim (e.g. آمَنَ, إِيمَان, أُوتِيَ).',
     bn: 'মাদ্দ বদল: একই শব্দে হামযার পরে মাদ্দের হরফ (মূলত মাদ্দ হামযার স্থলে এসেছে)। হাফসের রিওয়ায়েতে সাধারণত ২ হরকত (যেমন آمَنَ, إِيمَان)।' },
   madd_iwad: { group: 'madd', names: { bn: 'মাদ্দ ইওয়াদ (২)', ar: 'مد العوض (2)' }, letters: 'ـً',
-    en: "Madd al-'Iwad: stopping on a word ending in tanwin fathah (ـً) — the tanwin is dropped and the fathah is prolonged for 2 counts as compensation (e.g. عَلِيمًا → عَلِيمَا at waqf).",
-    bn: 'মাদ্দ ইওয়াদ: তানউইন ফাতহায় (ـً) শেষ হওয়া শব্দে থামলে তানউইন বাদ দিয়ে ফাতহার উপর ২ হরকত ক্ষতিপূরণ মাদ্দ (যেমন عَلِيمًا → عَلِيمَا ওয়াকফে)।' },
+    en: "Madd al-'Iwad: stopping on a word ending in tanwin fathah (ـً) — the tanwin is dropped and the fathah is prolonged for 2 counts as compensation (e.g. عَلِيمًا → عَلِيمَا at waqf). This does not apply to ة with tanwin (ةً), which becomes a sākin هـ at waqf.",
+    bn: 'মাদ্দ ইওয়াদ: তানউইন ফাতহায় (ـً) শেষ হওয়া শব্দে থামলে তানউইন বাদ দিয়ে ফাতহার উপর ২ হরকত ক্ষতিপূরণ মাদ্দ (যেমন عَلِيمًا → عَلِيمَا ওয়াকফে)। তানউইনযুক্ত ة (ةً)-তে এটি হয় না — ওয়াকফে তা সাকিন هـ হয়।' },
 
   // ── Ra' rules: tafkhīm (heavy) and tarqīq (light) ────────────────────────
   ra_tafkhim: { group: 'ra', names: { bn: 'রা তাফখিম (ভারী রা)', ar: 'تفخيم الراء' }, letters: 'ر',
     en: "Heavy Ra': pronounced full and heavy when it carries fathah or dammah, has sukoon after a fathah/dammah, or comes after alif. Also heavy at the start of a word after hamzat al-wasl.",
     bn: 'রা তাফখিম: রা ফাতহা/দাম্মাযুক্ত হলে, ফাতহা বা দাম্মার পরে সাকিন হলে বা আলিফের পরে — গভীর ও ভারী উচ্চারণ।' },
   ra_tarqiq: { group: 'ra', names: { bn: 'রা তারকিক (হালকা রা)', ar: 'ترقيق الراء' }, letters: 'ر',
-    en: "Light Ra': thin and light when it carries kasrah, follows a kasrah into sukoon (e.g. رِزْق, stopping on ذِكْر), or in certain exceptional waqf cases governed by classical rules.",
-    bn: 'রা তারকিক: রা কাসরাযুক্ত হলে বা কাসরার পরে সাকিন হলে (যেমন رِزْق, থামার সময় ذِكْر) পাতলা ও হালকা উচ্চারণ।' },
+    en: "Light Ra': thin and light when it carries kasrah (e.g. رِزْق), follows a kasrah into sukoon (e.g. فِرْعَوْن, stopping on ذِكْر), or in certain exceptional waqf cases governed by classical rules.",
+    bn: 'রা তারকিক: রা কাসরাযুক্ত হলে (যেমন رِزْق) বা কাসরার পরে সাকিন হলে (যেমন فِرْعَوْن, থামার সময় ذِكْر) পাতলা ও হালকা উচ্চারণ।' },
 
   // ── Waqf & special-letter rules ───────────────────────────────────────────
   lam_qamariyyah: { group: 'other', names: { bn: 'লাম কামারিয়্যাহ', ar: 'اللام القمرية' }, letters: 'ال',
     en: "Moon lam: the ل of ال is pronounced clearly before the fourteen 'moon letters' (ا ب ج ح خ ع غ ف ق ك م و ه ي) — the lam is audible and the moon letter takes no shadda.",
     bn: 'লাম কামারিয়্যাহ: চৌদ্দটি "চাঁদের হরফ"-এর আগে ال-এর لام স্পষ্ট উচ্চারিত হয় — লাম শোনা যায়, পরের হরফে শাদ্দা নেই।' },
   ha_sakt: { group: 'other', names: { bn: 'হা আস-সাকত', ar: 'هاء السكت' }, letters: 'هْ',
-    en: "Ha' as-Sakt: a silent هـ appended to certain Quranic words (e.g. مَالِيَهْ, سُلْطَانِيَهْ, كِتَابِيَهْ) to preserve the vowel when stopping. Pronounced only at waqf; dropped when continuing.",
-    bn: 'হা আস-সাকত: কোরআনের কিছু শব্দের শেষে (যেমন مَالِيَهْ, سُلْطَانِيَهْ) ওয়াকফে স্বর রক্ষার জন্য নীরব هـ যোগ হয়। শুধুমাত্র থামার সময় পড়া হয়; ওয়াসলে বাদ।' },
+    en: "Ha' as-Sakt: a هـ with sukoon (هْ) appended to certain Quranic words (e.g. مَالِيَهْ, سُلْطَانِيَهْ, كِتَابِيَهْ) to preserve the vowel before it. In Hafs 'an 'Asim it is pronounced both when stopping and when continuing.",
+    bn: 'হা আস-সাকত: কোরআনের কিছু শব্দের শেষে (যেমন مَالِيَهْ, سُلْطَانِيَهْ) আগের স্বর রক্ষার জন্য সাকিন هـ (هْ) যোগ হয়। হাফসের রিওয়ায়েতে থামলেও মিলিয়ে পড়লেও তা উচ্চারিত হয়।' },
   sakt: { group: 'other', names: { bn: 'সাকত', ar: 'السكت' }, letters: '—',
-    en: "Sakt: a brief, silent pause without inhaling at four specific places in the Quran in Hafs 'an 'Asim (e.g. عِوَجاً|قَيِّماً, مَرْقَدِنَا|هَذَا, مَنْ|رَاقٍ, بَلْ|رَانَ).",
-    bn: "সাকত: শ্বাস না নিয়ে স্বল্প নীরব বিরতি — হাফসের রিওয়ায়েতে কোরআনের চারটি নির্দিষ্ট স্থানে (যেমন عِوَجاً|قَيِّماً, مَرْقَدِنَا|هَذَا, مَنْ|رَاقٍ, بَلْ|رَانَ)।" },
+    en: "Sakt: a brief, silent pause without inhaling at four obligatory places in the Quran in Hafs 'an 'Asim (e.g. عِوَجاً|قَيِّماً, مَرْقَدِنَا|هَذَا, مَنْ|رَاقٍ, بَلْ|رَانَ).",
+    bn: "সাকত: শ্বাস না নিয়ে স্বল্প নীরব বিরতি — হাফসের রিওয়ায়েতে কোরআনের চারটি আবশ্যিক স্থানে (যেমন عِوَجاً|قَيِّماً, مَرْقَدِنَا|هَذَا, مَنْ|رَاقٍ, بَلْ|رَانَ)।" },
 
   // ── Meem Sākinah: the clear ruling ────────────────────────────────────────
   izhar_shafawi: { group: 'meem', names: { bn: 'ইযহার শাফাবি', ar: 'الإظهار الشفوي' }, letters: '26 letters (all except ب م)',
@@ -143,8 +143,8 @@ const TAJWEED_LESSONS = {
 
   // ── Marātib al-Ghunnah: the levels/strength of the nasal sound ──────────────
   ghunnah_maratib: { group: 'core', names: { bn: 'গুন্নাহর স্তর (মারাতিব)', ar: 'مراتب الغنّة' }, letters: 'ن م',
-    en: 'Levels of ghunnah: the nasal sound varies in strength — strongest on a doubled نّ/مّ, then in idghām & iqlāb, then ikhfā (~2 counts each), lighter on a sākinah with iẓhār, and lightest on a voweled ن/م.',
-    bn: 'গুন্নাহর স্তর: নাকি ধ্বনির মাত্রা ভিন্ন — সবচেয়ে জোরালো মুশাদ্দাদ نّ/مّ-এ, তারপর ইদগাম ও ইকলাবে, এরপর ইখফায় (~২ হরকত), ইযহারে হালকা এবং স্বরযুক্ত ن/م-এ সবচেয়ে হালকা।' },
+    en: 'Levels of ghunnah: the nasal sound varies in strength — strongest on a doubled نّ/مّ, then in idghām, then ikhfā & iqlāb (~2 counts each), lighter on a sākinah with iẓhār, and lightest on a voweled ن/م.',
+    bn: 'গুন্নাহর স্তর: নাকি ধ্বনির মাত্রা ভিন্ন — সবচেয়ে জোরালো মুশাদ্দাদ نّ/مّ-এ, তারপর ইদগামে, এরপর ইখফা ও ইকলাবে (~২ হরকত), ইযহারে হালকা এবং স্বরযুক্ত ن/م-এ সবচেয়ে হালকা।' },
 
   // ── Waqf & Ibtidāʾ: stopping and starting correctly ────────────────────────
   waqf_ibtida: { group: 'other', names: { bn: 'ওয়াকফ ও ইবতিদা', ar: 'الوقف والابتداء' }, letters: '—',
@@ -314,38 +314,38 @@ const TAJWEED_MISTAKES = {
       'Pronouncing the lam of ال before a sun letter — the lam is silent and the sun letter is doubled.',
       'Pronouncing the lam of ال before a moon letter with shadda — moon lam is clear; no shadda on the following letter.',
       'Extending idgham mutajanisayn/mutaqaribayn beyond their specific letter pairs — merge only where the rule applies.',
-      'Pronouncing ha\' as-sakt in the middle of flowing speech — it exists only at a waqf (stop).',
+      'Dropping ha\' as-sakt when continuing to the next word — in Hafs \'an \'Asim it is pronounced both at a stop and in continuous recitation.',
       'Inserting a breath at the four sakt positions — sakt is a silent pause without inhaling.',
     ],
     bn: [
       'আগের শব্দের সাথে মিলিয়ে পড়ার সময় হামযাতুল ওয়াসল উচ্চারণ করা — সেখান থেকে শুরু করলেই কেবল তা পড়া হয়।',
       'সূর্য অক্ষরের আগে ال-এর লাম উচ্চারণ করা — লাম নীরব, সূর্য অক্ষর দ্বিগুণ হয়।',
-      'চাঁদের হরফের আগে ال-এর লামকে নীরব করা — লাম কামারিয়্যাহতে لাম স্পষ্ট, পরের হরফে শাদ্দা নেই।',
+      'চাঁদের হরফের আগে ال-এর লামকে নীরব করা — লাম কামারিয়্যাহতে লাম স্পষ্ট, পরের হরফে শাদ্দা নেই।',
       'নির্দিষ্ট হরফ-জোড়ার বাইরে ইদগাম মুতাজানিসাইন/মুতাকারিবাইন প্রয়োগ করা — নিয়ম যেখানে প্রযোজ্য কেবল সেখানেই মিলন।',
-      'ওয়াসলের সময় হা আস-সাকত উচ্চারণ করা — এটি শুধুমাত্র ওয়াকফে (থামার সময়) উচ্চারিত হয়।',
+      'মিলিয়ে পড়ার সময় হা আস-সাকত বাদ দেওয়া — হাফসের রিওয়ায়েতে থামলেও মিলিয়ে পড়লেও এটি উচ্চারিত হয়।',
       'সাকতের চারটি স্থানে শ্বাস নেওয়া — সাকত হলো শ্বাস ছাড়াই নীরব বিরতি।',
     ],
   },
   ra: {
     en: [
-      'Making Ra\' heavy before a kasrah — Ra\' takes tarqiq (light) when it carries or is preceded by a kasrah.',
-      'Making Ra\' light before a fathah or dammah — these require tafkhim (heavy Ra\').',
-      'Ignoring exceptional cases where Ra\' with sukoon after kasrah is still heavy (e.g. فِرْق, إِرْصَاد) because of a barrier letter.',
+      'Making Ra\' heavy when it carries a kasrah — Ra\' takes tarqiq (light) when it carries a kasrah, or has sukoon after a kasrah.',
+      'Making Ra\' light when it carries a fathah or dammah — these require tafkhim (heavy Ra\').',
+      'Ignoring exceptional cases where Ra\' with sukoon after kasrah is still heavy (e.g. قِرْطَاس, إِرْصَاد) because a heavy isti\'la letter follows it in the same word.',
       'Giving Ra\' the same weight in all contexts — it must switch between tafkhim and tarqiq based on its vowel environment.',
     ],
     bn: [
-      'কাসরার আগে রা ভারী করা — কাসরাযুক্ত বা কাসরার পরের রা তারকিক (হালকা) হয়।',
-      'ফাতহা বা দাম্মার আগে রা হালকা করা — এই অবস্থানে তাফখিম (ভারী) বাধ্যতামূলক।',
-      'ব্যতিক্রম স্থান উপেক্ষা করা — যেমন فِرْق, إِرْصَاد-এ কাসরা ও রা-র মাঝে বাধা হরফ থাকায় রা ভারী হয়।',
+      'কাসরাযুক্ত রা ভারী করা — রা কাসরাযুক্ত হলে বা কাসরার পরে সাকিন হলে তারকিক (হালকা) হয়।',
+      'ফাতহা বা দাম্মাযুক্ত রা হালকা করা — এই অবস্থানে তাফখিম (ভারী) বাধ্যতামূলক।',
+      'ব্যতিক্রম স্থান উপেক্ষা করা — যেমন قِرْطَاس, إِرْصَاد-এ কাসরার পরে সাকিন রা ভারী হয়, কারণ একই শব্দে তার পরে ভারী ইসতিলার হরফ আছে।',
       'সব ক্ষেত্রে রাকে একই ওজন দেওয়া — স্বরচিহ্ন অনুযায়ী তাফখিম ও তারকিকের মধ্যে পরিবর্তন আবশ্যক।',
     ],
   },
   general: {
     en: [
       'Pronouncing Arabic letters through the nearest native-language sound — e.g. using English "t" for ط (which is heavier, emphatic and dental) or "d" for ض (unique to Arabic).',
-      'Neglecting the difference between ح (deep, breathy, from the middle throat) and هـ (soft, from the mouth) — both are often collapsed into one sound.',
+      'Neglecting the difference between ح (deep, breathy, from the middle throat) and هـ (soft, from the deepest part of the throat) — both are often collapsed into one sound.',
       'Treating ع (voiced pharyngeal consonant) as a plain "a" vowel — it is a distinct consonant produced deep in the throat.',
-      'Pronouncing ذ, ث, ظ as "z", "s" or "d" respectively — all three require the tongue tip near or touching the upper teeth.',
+      'Pronouncing ذ and ظ as "z", and ث as "s" — all three require the tongue tip near or touching the upper teeth.',
       'Dropping ghunnah entirely in fast recitation — the nasal resonance is obligatory and must last approximately 2 counts.',
       'Keeping the final short vowel when stopping (waqf) — at a stop, final short vowels are dropped and the last letter becomes sukoon.',
       'Not distinguishing madd lengths — treating every long vowel equally when recitation requires 2, 4, 5 or 6 counts depending on the rule.',
@@ -355,20 +355,20 @@ const TAJWEED_MISTAKES = {
       'Mispronouncing ص, ض, ط, ظ as their light equivalents — these four are always emphatic and raise the quality of surrounding vowels.',
       'Rushing through qalqalah letters without the echo bounce — the echo is brief but must be audible, especially at a waqf (strongest) or mid-word sukoon.',
       // ── Non-Arab learner errors: Bengali / Urdu / Indonesian / Turkish speakers ──
-      'Inserting a short vowel (schwa) after consonants bearing sukoon — Bengali, Urdu and Malay speakers influenced by native syllable habits sometimes say "bi-si-mi" for بِسْمِ instead of "bism". Sukoon means no vowel at all.',
+      'Inserting a short vowel (schwa) after consonants bearing sukoon — Bengali, Urdu and Malay speakers influenced by native syllable habits sometimes say "bi-si-mi" for بِسْمِ instead of "bis-mi". Sukoon means no vowel at all.',
       'Pronouncing ق as a plain velar "k" (Urdu/Bengali) or as a glottal stop (some Indonesian speakers) — ق is a uvular stop produced deeper than ك; the back of the tongue presses against the soft palate/uvula.',
       'Using a trilled or heavily rolled ر — Urdu, Bengali, Turkish and Indonesian/Malay speakers often trill; Arabic ر in most positions is a single-tap (flap) not a prolonged trill, though tafkhīm fills the mouth.',
       'Treating ع as a plain vowel "a/i/u" — speakers of Turkish, Indonesian and many South and Southeast Asian languages have no equivalent phoneme; ع requires an audible pharyngeal constriction, not just an open vowel.',
       'Pronouncing the initial hamzat al-qaṭʿ (ء) in أَعُوذُ, أَكْبَرُ, إِلَٰهَ as a soft glide — Bengali/Urdu speakers sometimes open into the following vowel without the crisp glottal stop that hamza demands.',
-      'Aspirating Arabic stops — English, Bengali, Turkish and many Urdu speakers unconsciously aspirate ت, ك, ق (adding a puff of air); Arabic plosives are unaspirated: the airflow is fully stopped and released cleanly.',
-      'Nasalising long vowels before ن or م that carry a full vowel — ghunnah is only for a doubled ن/مّ or where ikhfa/iqlab applies; pronouncing رَسُولُ نَبِيٍّ with extra nasalisation on the وُ is hypercorrection.',
+      'Aspirating ق and ط like ت and ك — English, Bengali, Turkish and many Urdu speakers add a puff of air to every stop; ق and ط are majhūr (the breath is held back), while among the stop letters only ت and ك carry hams (an audible flow of breath).',
+      'Nasalising long vowels before ن or م that carry a full vowel — ghunnah is only for a doubled نّ/مّ or where ikhfa, iqlab or idgham with ghunnah applies; pronouncing رَسُولُ نَبِيٍّ with extra nasalisation on the long و is hypercorrection.',
       'Applying the same heavy quality to all ر sounds — Turkish and Indonesian speakers may keep ر uniformly thick; remember ر switches between tafkhīm (heavy) and tarqīq (light) strictly based on its vowel environment.',
     ],
     bn: [
-      'আরবি হরফ মাতৃভাষার কাছাকাছি ধ্বনিতে পড়া — যেমন ط-এর বদলে ইংরেজি "t" বা বাংলা "ট", অথচ ط আরও ভারী ও দন্তমূলীয়।',
-      'ح (গলার মধ্যভাগ থেকে গভীর, শ্বাসযুক্ত ধ্বনি) ও هـ (মুখ থেকে মৃদু শ্বাস)-এর পার্থক্য না রাখা — উভয়কে একই ধ্বনি মনে করা ভুল।',
+      'আরবি হরফ মাতৃভাষার কাছাকাছি ধ্বনিতে পড়া — যেমন ط-এর বদলে ইংরেজি "t" বা বাংলা "ট", অথচ ط আরও ভারী ও দন্তমূলীয়; অথবা ض-এর বদলে "d" (ض আরবির অনন্য হরফ)।',
+      'ح (গলার মধ্যভাগ থেকে গভীর, শ্বাসযুক্ত ধ্বনি) ও هـ (গলার গভীরতম অংশ থেকে মৃদু শ্বাস)-এর পার্থক্য না রাখা — উভয়কে একই ধ্বনি মনে করা ভুল।',
       'ع (কণ্ঠনালির ব্যঞ্জনধ্বনি)-কে সাধারণ "আ" স্বরের মতো পড়া — এটি গলার গভীর থেকে উৎপন্ন একটি স্বতন্ত্র ব্যঞ্জন।',
-      'ذ, ث, ظ-কে যথাক্রমে "z", "s" বা "d"-এর মতো পড়া — তিনটিতেই জিহ্বার অগ্রভাগ উপরের দাঁতের কাছে স্পর্শ করতে হয়।',
+      'ذ ও ظ-কে "z"-এর মতো, আর ث-কে "s"-এর মতো পড়া — তিনটিতেই জিহ্বার অগ্রভাগ উপরের দাঁতের কাছে স্পর্শ করতে হয়।',
       'দ্রুত তিলাওয়াতে গুন্নাহ (নাকি অনুরণন) বাদ দেওয়া — গুন্নাহ বাধ্যতামূলক ও প্রায় ২ হরকত স্থায়ী।',
       'থামার সময় শেষ স্বর ধরে রাখা — ওয়াকফে শেষ স্বর বাদ দিয়ে শেষ হরফ সাকিন করতে হয়।',
       'মাদ্দের দৈর্ঘ্য আলাদা না রাখা — নিয়ম অনুযায়ী ২, ৪, ৫ বা ৬ হরকত ভিন্ন ভিন্ন হওয়া উচিত।',
@@ -379,11 +379,11 @@ const TAJWEED_MISTAKES = {
       'কলকলার হরফে প্রতিধ্বনি ছাড়া পড়া — বাউন্স সংক্ষিপ্ত হলেও শ্রুতিগোচর হওয়া আবশ্যক; বিশেষত ওয়াকফে সবচেয়ে জোরালো।',
       // ── অ-আরব শিক্ষার্থীর ভুল: বাংলা / উর্দু / ইন্দোনেশিয়ান / তুর্কি বক্তা ──
       'সুকুনযুক্ত হরফের পরে সংযোজক স্বর (schwa) যোগ করা — বাংলা, উর্দু ও মালয়ভাষীরা মাতৃভাষার প্রভাবে بِسْمِ-কে "বি-সি-মি" বলেন; সুকুন মানে কোনো স্বরই নেই।',
-      'ق-কে সাধারণ "ক" (বাংলা/উর্দু) বা গলার শব্দ (ইন্দোনেশিয়ান) হিসেবে পড়া — ق হলো জিহ্বার পিছনের অংশ থেকে উৎপন্ন উভয়ের চেয়ে গভীর উভৈলাপনীয় বর্ণ; ক (ك)-এর চেয়ে গভীরে।',
+      'ق-কে সাধারণ "ক" (বাংলা/উর্দু) বা গলার শব্দ (ইন্দোনেশিয়ান) হিসেবে পড়া — ق হলো আলজিহ্বার কাছে জিহ্বার গোড়া থেকে উৎপন্ন বর্ণ; ক (ك)-এর চেয়ে গভীরে।',
       'ر-কে দীর্ঘ কম্পিত (trilled) রূপে পড়া — বাংলা, উর্দু, তুর্কি ও ইন্দোনেশিয়ান শিক্ষার্থীরা প্রায়ই দীর্ঘ কম্পন দেন; আরবি র অধিকাংশ ক্ষেত্রে একক-ফ্ল্যাপ, দীর্ঘ কম্পন নয়।',
       'ع-কে শুধু একটি স্বরধ্বনি ভাবা — তুর্কি, ইন্দোনেশিয়ান ও দক্ষিণ-দক্ষিণপূর্ব এশিয়ার ভাষায় সমতুল্য ধ্বনি নেই; ع-এর জন্য কণ্ঠনালিতে স্পষ্ট সংকোচন দরকার।',
       'أَعُوذُ, أَكْبَرُ-এর শুরুতে হামযাতুল ক্বাত্ব (ء) স্বরের মতো উচ্চারণ করা — বাংলা/উর্দু শিক্ষার্থীরা প্রায়ই হামযা ছাড়াই স্বরে প্রবেশ করেন; হামযার জন্য স্পষ্ট গলার আঘাত চাই।',
-      'আরবি স্টপ হরফে (ت, ك, ق) শ্বাসের ছাড়া (aspiration) যোগ করা — বাংলা, ইংরেজি ও তুর্কির প্রভাবে এটি হয়; আরবিতে এই হরফগুলো অ্যাসপিরেটেড নয়, বায়ুপ্রবাহ সম্পূর্ণ বন্ধ হয়ে পরিষ্কারভাবে ছাড়া পায়।',
+      'ق ও ط-কে ت ও ك-এর মতো শ্বাসযুক্ত (aspirated) করে পড়া — বাংলা, ইংরেজি ও তুর্কির প্রভাবে সব স্টপ হরফে বাতাসের ঝাপটা যোগ হয়; ق ও ط মাজহুর (শ্বাস আটকে থাকে), আর স্টপ হরফগুলোর মধ্যে কেবল ت ও ك-এ হামস (শ্বাসের প্রবাহ) আছে।',
       'ন বা ম-এর আগে দীর্ঘ স্বরে অতিরিক্ত নাসালতা যোগ করা (হাইপারকারেকশন) — গুন্নাহ কেবল মুশাদ্দাদ ن/م বা ইখফা/ইকলাব/ইদগামের ক্ষেত্রে; স্বরযুক্ত ن বা م-এর আগে সাধারণ দীর্ঘ স্বরে অতিরিক্ত গুন্নাহ দেবেন না।',
       'সব ر-কে একই ভারী মানে পড়া — তুর্কি ও ইন্দোনেশিয়ান শিক্ষার্থীরা র সর্বত্র মোটা রাখেন; মনে রাখুন ر স্বরের পরিবেশ অনুযায়ী তাফখিম (ভারী) ও তারকিক (হালকা)-এর মধ্যে পরিবর্তন করে।',
     ],
@@ -409,9 +409,9 @@ const TAJWEED_RULE_EXAMPLES = {
   ghunnah: [
     { ref: '2:6',   focus: 'إِنَّ',          noteEn: 'Doubled noon (نّ) in إِنَّ الَّذِينَ — hold the nasal resonance for 2 full counts.',           noteBn: 'إِنَّ-তে مُشَدَّد نّ — ২ পূর্ণ হরকত গুন্নাহ।' },
     { ref: '108:1', focus: 'إِنَّا',          noteEn: 'إِنَّا أَعْطَيْنَاكَ — doubled noon; resonance flows from al-khayshoom (nasal cavity).',       noteBn: 'إِنَّا-তে مُشَدَّد نّ; খাইশুম থেকে নাকি অনুরণন।' },
-    { ref: '2:25',  focus: 'مِمَّا',          noteEn: 'Doubled meem (مّ) in مِمَّا رُزِقُوا — the same 2-count ghunnah applies to مّ as to نّ.',        noteBn: 'مِمَّا رُزِقُوا-তে مُشَدَّد مّ — نّ-এর মতোই ২ হরকত।' },
+    { ref: '2:3',   focus: 'مِمَّا',          noteEn: 'Doubled meem (مّ) in وَمِمَّا رَزَقْنَاهُمْ — the same 2-count ghunnah applies to مّ as to نّ.',        noteBn: 'وَمِمَّا رَزَقْنَاهُمْ-তে مُشَدَّد مّ — نّ-এর মতোই ২ হরকত।' },
     { ref: '3:18',  focus: 'أَنَّهُ',        noteEn: 'أَنَّهُ لَا إِلَٰهَ إِلَّا هُوَ — doubled noon; avoid shortening below 2 counts.',               noteBn: 'أَنَّهُ-তে مُشَدَّد نّ — ২ হরকতের কম করবেন না।' },
-    { ref: '3:126', focus: 'ثُمَّ',           noteEn: 'Doubled meem in ثُمَّ لَا يُنظَرُونَ — nasal resonance through the nasal cavity.',               noteBn: 'ثُمَّ-তে مُشَدَّد مّ — নাসারন্ধ্র থেকে অনুরণন।' },
+    { ref: '6:8',   focus: 'ثُمَّ',           noteEn: 'Doubled meem in ثُمَّ لَا يُنظَرُونَ — nasal resonance through the nasal cavity.',               noteBn: 'ثُمَّ-তে مُشَدَّد مّ — নাসারন্ধ্র থেকে অনুরণন।' },
     { ref: '73:20', focus: 'إِنَّ رَبَّكَ',  noteEn: 'إِنَّ رَبَّكَ يَعْلَمُ — clear 2-count ghunnah on the doubled noon; a common verse for drill.', noteBn: 'إِنَّ رَبَّكَ-তে مُشَدَّد نّ — ২ হরকত গুন্নাহ।' },
   
     // v163 additions — 6 machine-verified examples
@@ -426,13 +426,13 @@ const TAJWEED_RULE_EXAMPLES = {
   qalqalah: [
     { ref: '112:4', focus: 'أَحَدٌ',            noteEn: 'Stopping on أَحَدٌ — دٌ gets waqf sukoon: maximum qalqalah (waqf is the strongest degree).',  noteBn: 'أَحَدٌ-তে ওয়াকফ: دٌ সর্বোচ্চ কলকলা।' },
     { ref: '89:1',  focus: 'وَالْفَجْرِ',      noteEn: 'ج bears sukoon in وَالْفَجْرِ — mid-strength bounce while continuing the recitation.',         noteBn: 'وَالْفَجْرِ-তে جْ সাকিন — মধ্যমাত্রার বাউন্স।' },
-    { ref: '113:1', focus: 'الْفَلَقِ',         noteEn: 'Stopping on الْفَلَقِ — ق gets waqf sukoon: strong echo at the back of the throat.',           noteBn: 'الْفَلَقِ-তে ওয়াকফ: قِ-তে শক্তিশালী কলকলা।' },
+    { ref: '113:1', focus: 'الْفَلَقِ',         noteEn: 'Stopping on الْفَلَقِ — ق gets waqf sukoon: strong echo from the back of the tongue.',           noteBn: 'الْفَلَقِ-তে ওয়াকফ: قِ-তে শক্তিশালী কলকলা।' },
     { ref: '96:1',  focus: 'اقْرَأْ',           noteEn: 'ق bears sukoon in اقْرَأْ — lighter mid-word qalqalah (not at waqf so less intense).',        noteBn: 'اقْرَأْ-তে قْ সাকিন — মধ্য-শব্দে হালকা কলকলা।' },
     { ref: '86:1',  focus: 'الطَّارِقِ',       noteEn: 'Stopping on الطَّارِقِ — ق at waqf: strong bounce from the back of the tongue.',               noteBn: 'الطَّارِقِ-তে ওয়াকফ: قِ-তে শক্তিশালী বাউন্স।' },
     { ref: '2:7',   focus: 'أَبْصَارِهِمْ',   noteEn: 'ب bears sukoon in أَبْصَارِهِمْ — qalqalah on the lips while recitation continues.',           noteBn: 'أَبْصَارِهِمْ-তে بْ সাকিন — ওয়াসলেও ঠোঁটে বাউন্স।' },
   
     // v163 additions — 6 machine-verified examples
-    {"ref":"12:5","focus":"تَقْصُصْ","noteEn":"قْ bears sukoon mid-word in لَا تَقْصُصْ — a light, clear bounce on the qaaf.","noteBn":"تَقْصُصْ-তে قْ সাকিন — কাফে হালকা স্পষ্ট বাউন্স।"},
+    {"ref":"12:5","focus":"تَقْصُصْ","noteEn":"قْ bears sukoon mid-word in لَا تَقْصُصْ — a light, clear bounce on the qaaf.","noteBn":"تَقْصُصْ-তে قْ সাকিন — ক্বাফে হালকা স্পষ্ট বাউন্স।"},
     {"ref":"18:1","focus":"عَبْدِهِ","noteEn":"بْ with sukoon in عَبْدِهِ — bounce the baa without adding any vowel.","noteBn":"عَبْدِهِ-তে بْ সাকিন — কোনো হরকত না যোগ করে বাউন্স।"},
     {"ref":"75:1","focus":"أُقْسِمُ","noteEn":"قْ sakinah in لَآ أُقْسِمُ — mid-word qalqalah; the bounce stays small while continuing.","noteBn":"أُقْسِمُ-তে قْ সাকিন — চলমান তিলাওয়াতে ছোট বাউন্স।"},
     {"ref":"78:6","focus":"نَجْعَلِ","noteEn":"جْ bears sukoon in أَلَمْ نَجْعَلِ — bounce the jeem cleanly; do not soften it to sheen.","noteBn":"نَجْعَلِ-তে جْ সাকিন — জীম পরিষ্কার বাউন্স করুন।"},
@@ -446,7 +446,7 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '2:100', focus: 'مِنْهُمْ',         noteEn: 'نْ before هـ in مِنْهُمْ — izhar: noon is fully audible before the haa.',                    noteBn: 'هـ-এর আগে نْ — ইযহার: নূন হা-এর আগে শ্রুতিগোচর।' },
     { ref: '13:43', focus: 'وَمَنْ عِندَهُ',  noteEn: 'نْ before ع — izhar halqi: the noon is pronounced clearly, not hidden.',                      noteBn: 'ع-এর আগে نْ — ইযহার হালকি: নূন স্পষ্ট।' },
     { ref: '2:228', focus: 'عَزِيزٌ حَكِيمٌ', noteEn: 'Tanween (ٌ) before حَ — izhar halqi: the noon of tanween is fully clear.',                    noteBn: 'حَ-এর আগে তানউইন (ٌ) — ইযহার হালকি: নূন স্পষ্ট।' },
-    { ref: '49:13', focus: 'عَلِيمٌ خَبِيرٌ', noteEn: 'Tanween (ٌ) before خَ — izhar halqi; note خَ is also a throat letter.',                      noteBn: 'خَ-এর আগে তানউইন — ইযহার হালকি; خَও গলার হরফ।' },
+    { ref: '49:13', focus: 'عَلِيمٌ خَبِيرٌ', noteEn: 'Tanween (ٌ) before خَ — izhar halqi; note خَ is also a throat letter.',                      noteBn: 'خَ-এর আগে তানউইন — ইযহার হালকি; خَ-ও গলার হরফ।' },
   
     // v163 additions — 6 machine-verified examples
     {"ref":"19:3","focus":"نِدَآءً خَفِيًّا","noteEn":"Tanween (ً) before خَ — izhar halqi: pronounce the tanween-noon clearly before the throat letter.","noteBn":"خَ-এর আগে তানউইন (ً) — ইযহার হালকি: নূন স্পষ্ট।"},
@@ -458,9 +458,9 @@ const TAJWEED_RULE_EXAMPLES = {
   ],
 
   izhar_mutlaq: [
-    { ref: '2:132', focus: 'الدُّنْيَا',      noteEn: 'نْ before يَ inside ONE word — always clear izhar mutlaq; never merged (unlike cross-word idghaam).', noteBn: 'এক শব্দে نْ before يَ — সর্বদা স্পষ্ট ইযহার মুতলাক।' },
-    { ref: '2:266', focus: 'بُنْيَانٌ',        noteEn: 'بُنْيَان: نْ before يَ within the same word — clear noon, no ghunnah.',                        noteBn: 'بُنْيَان-এ نْ before يَ — স্পষ্ট নূন, গুন্নাহ নেই।' },
-    { ref: '6:99',  focus: 'قِنْوَانٌ',        noteEn: 'قِنْوَان: نْ before وَ within one word — izhar mutlaq.',                                        noteBn: 'قِنْوَان-এ নْ before وَ — একই শব্দে ইযহার মুতলাক।' },
+    { ref: '2:130', focus: 'الدُّنْيَا',      noteEn: 'نْ before يَ inside ONE word — always clear izhar mutlaq; never merged (unlike cross-word idghaam).', noteBn: 'এক শব্দে نْ before يَ — সর্বদা স্পষ্ট ইযহার মুতলাক।' },
+    { ref: '9:109', focus: 'بُنْيَانَهُ',        noteEn: 'بُنْيَان: نْ before يَ within the same word — clear noon, no ghunnah.',                        noteBn: 'بُنْيَان-এ نْ before يَ — স্পষ্ট নূন, গুন্নাহ নেই।' },
+    { ref: '6:99',  focus: 'قِنْوَانٌ',        noteEn: 'قِنْوَان: نْ before وَ within one word — izhar mutlaq.',                                        noteBn: 'قِنْوَان-এ نْ before وَ — একই শব্দে ইযহার মুতলাক।' },
     { ref: '13:4',  focus: 'صِنْوَانٌ',        noteEn: 'صِنْوَان: نْ before وَ inside one word — no merging; a classical textbook example.',            noteBn: 'صِنْوَان-এ نْ before وَ — মিলন নেই; পাঠ্যবইয়ের উদাহরণ।' },
     { ref: '61:4',  focus: 'بُنْيَانٌ مَّرْصُوصٌ', noteEn: 'بُنْيَان again at 61:4 — izhar mutlaq inside the word, then the tanween merges into مَّ across the word boundary: both rules side by side.', noteBn: '61:4-এ بُنْيَان — শব্দের ভিতরে ইযহার মুতলাক, আর তানউইন পরের مَّ-তে মিলে যায় — দুই নিয়ম পাশাপাশি।' },
     { ref: '3:14',  focus: 'الدُّنْيَا',        noteEn: 'الدُّنْيَا is by far the most frequent izhar-mutlaq word in the Quran — drill it here in 3:14: clear نْ before يَ, never merged.', noteBn: 'কোরআনে সবচেয়ে বেশি আসা ইযহার মুতলাকের শব্দ الدُّنْيَا — ৩:১৪-এ অনুশীলন করুন: يَ-এর আগে نْ স্পষ্ট, কখনো মিলন নয়।' },
@@ -470,9 +470,9 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '2:3',   focus: 'يُنفِقُونَ',       noteEn: 'نْ before ف — hide the noon lightly with ghunnah (~2 counts); between izhar and idghaam.',     noteBn: 'ف-এর আগে نْ — গুন্নাহসহ হালকা গোপন; ইযহার ও ইদগামের মাঝামাঝি।' },
     { ref: '2:25',  focus: 'مِن تَحْتِهَا',    noteEn: 'نْ before تَ in مِن تَحْتِهَا — ikhfa; the taa is not doubled.',                                noteBn: 'تَ-এর আগে نْ — ইখফা; تَ-তে শাদ্দা নেই।' },
     { ref: '3:92',  focus: 'مِن شَيْءٍ',        noteEn: 'نْ before شَ — ikhfa with ghunnah; the sheen does not double.',                                noteBn: 'شَ-এর আগে نْ — গুন্নাহসহ ইখফা।' },
-    { ref: '4:94',  focus: 'مَنْ صَلَّى',       noteEn: 'نْ before صَ (emphatic letter) — ikhfa; ghunnah remains clearly nasal.',                       noteBn: 'صَ-এর আগে نْ — গুন্নাহ বজায় রেখে ইখফা।' },
+    { ref: '13:23', focus: 'وَمَن صَلَحَ',       noteEn: 'نْ before صَ (emphatic letter) — ikhfa; ghunnah remains clearly nasal.',                       noteBn: 'صَ-এর আগে نْ — গুন্নাহ বজায় রেখে ইখফা।' },
     { ref: '27:29', focus: 'كِتَابٌ كَرِيمٌ',  noteEn: 'Tanween (ٌ) before كَ — ikhfa: hidden noon with nasal sound ~2 counts.',                       noteBn: 'كَ-এর আগে তানউইন (ٌ) — ~২ হরকত গুন্নাহসহ ইখফা।' },
-    { ref: '4:1',   focus: 'أُنزِلَ',           noteEn: 'نْ before زَ in أُنزِلَ — ikhfa; a very common word across many verses.',                      noteBn: 'أُنزِلَ-তে نْ before زَ — সচরাচর দেখা ইখফার উদাহরণ।' },
+    { ref: '2:4',   focus: 'أُنزِلَ',           noteEn: 'نْ before زَ in أُنزِلَ — ikhfa; a very common word across many verses.',                      noteBn: 'أُنزِلَ-তে نْ before زَ — সচরাচর দেখা ইখফার উদাহরণ।' },
   
     // v163 additions — 6 machine-verified examples
     {"ref":"19:7","focus":"مِن قَبْلُ","noteEn":"نْ before قَ in مِن قَبْلُ — ikhfa: hide the noon with ghunnah, slightly heavy before قَ.","noteBn":"قَ-এর আগে نْ — ইখফা: গুন্নাহসহ গোপন, قَ-এর আগে সামান্য ভারী।"},
@@ -486,9 +486,9 @@ const TAJWEED_RULE_EXAMPLES = {
   iqlab: [
     { ref: '2:18',  focus: 'صُمٌّ بُكْمٌ',      noteEn: 'Tanween (ٌ) before بُ — converts to a hidden meem sound on the lips, held with ghunnah.',     noteBn: 'بُ-এর আগে তানউইন (ٌ) — ঠোঁটে গোপন মীম, গুন্নাহসহ।' },
     { ref: '36:52', focus: 'مَن بَعَثَنَا',      noteEn: 'نْ before بَ across word boundary — noon turns into a hidden nasal meem (~2 counts).',        noteBn: 'بَ-এর আগে نْ — নূন গুন্নাহসহ মীমে রূপান্তর।' },
-    { ref: '2:137', focus: 'شِقَاقٍ بَعِيدٍ',   noteEn: 'Tanween (ٍ) before بَ — iqlab: nasal meem sound closes the lips slightly.',                   noteBn: 'بَ-এর আগে তানউইন (ٍ) — ঠোঁটে নাকি মীম ধ্বনি।' },
-    { ref: '3:73',  focus: 'مِن بَعْدِ',          noteEn: 'نْ before بَ — classic iqlab at a word boundary.',                                            noteBn: 'بَ-এর আগে نْ — শব্দ সীমায় ক্লাসিক ইকলাব।' },
-    { ref: '4:150', focus: 'أَن بَيْنَ',          noteEn: 'نْ before بَ across words — iqlab with ghunnah; do not merge fully (that would be idghaam).',  noteBn: 'أَن بَيْنَ-তে نْ before بَ — গুন্নাহসহ ইকলাব।' },
+    { ref: '2:176', focus: 'شِقَاقٍ بَعِيدٍ',   noteEn: 'Tanween (ٍ) before بَ — iqlab: nasal meem sound closes the lips slightly.',                   noteBn: 'بَ-এর আগে তানউইন (ٍ) — ঠোঁটে নাকি মীম ধ্বনি।' },
+    { ref: '2:27',  focus: 'مِن بَعْدِ',          noteEn: 'نْ before بَ — classic iqlab at a word boundary.',                                            noteBn: 'بَ-এর আগে نْ — শব্দ সীমায় ক্লাসিক ইকলাব।' },
+    { ref: '27:8',  focus: 'أَنۢ بُورِكَ',          noteEn: 'نْ before بُ across words — iqlab with ghunnah; do not merge fully (that would be idghaam).',  noteBn: 'أَنۢ بُورِكَ-তে نْ before بُ — গুন্নাহসহ ইকলাব।' },
     { ref: '2:33',  focus: 'أَنۢبِئْهُم',         noteEn: 'Iqlab INSIDE one word — نْ before ب in أَنۢبِئْهُم; the small ۢ mark in the mushaf shows the conversion to a hidden meem.', noteBn: 'এক শব্দের ভিতরে ইকলাব — أَنۢبِئْهُم-এ ب-এর আগে نْ; মুসহাফের ছোট ۢ চিহ্ন গোপন মীমে রূপান্তর দেখায়।' },
     { ref: '104:4', focus: 'لَيُنۢبَذَنَّ',        noteEn: 'لَيُنۢبَذَنَّ — another within-word iqlab: the نْ turns into a nasal meem before ب, held with ghunnah ~2 counts.', noteBn: 'لَيُنۢبَذَنَّ — শব্দের ভিতরে আরেকটি ইকলাব: ب-এর আগে نْ নাকি মীমে বদলে যায়, ~২ হরকত গুন্নাহসহ।' },
   
@@ -502,11 +502,11 @@ const TAJWEED_RULE_EXAMPLES = {
   ],
 
   idghaam_ghunnah: [
-    { ref: '3:37',  focus: 'مَن يَشَاءُ',         noteEn: 'نْ before يَ (across words) — noon merges into yaa with 2-count ghunnah; note shaddah on يَّ.', noteBn: 'يَ-এর আগে نْ — গুন্নাহসহ ইয়া-তে মিলন।' },
-    { ref: '25:54', focus: 'مِن مَّاءٍ',           noteEn: 'نْ before مَ — merges into meem with ghunnah; the meem takes a shaddah (مَّ).',              noteBn: 'مَ-এর আগে نْ — গুن্নাহসহ মীমে মিলন; مَّ-তে শাদ্দা।' },
-    { ref: '4:56',  focus: 'عَذَابٌ مُهِينٌ',     noteEn: 'Tanween (ٌ) before مُ — idghaam with ghunnah across a word boundary.',                       noteBn: 'مُ-এর আগে তানউইন (ٌ) — গুন্নাহসহ ইদগাম।' },
+    { ref: '3:37',  focus: 'مَن يَشَاءُ',         noteEn: 'نْ before يَ (across words) — noon merges into yaa with 2-count ghunnah; the mushaf puts no shaddah on the يَ because the merging is incomplete (the ghunnah remains).', noteBn: 'يَ-এর আগে نْ — গুন্নাহসহ ইয়া-তে মিলন; মিলন অসম্পূর্ণ (গুন্নাহ থাকে) বলে মুসহাফে يَ-তে শাদ্দা নেই।' },
+    { ref: '2:164', focus: 'مِن مَّاءٍ',           noteEn: 'نْ before مَ — merges into meem with ghunnah; the meem takes a shaddah (مَّ).',              noteBn: 'مَ-এর আগে نْ — গুন্নাহসহ মীমে মিলন; مَّ-তে শাদ্দা।' },
+    { ref: '4:14',  focus: 'عَذَابٌ مُّهِينٌ',     noteEn: 'Tanween (ٌ) before مُ — idghaam with ghunnah across a word boundary.',                       noteBn: 'مُ-এর আগে তানউইন (ٌ) — গুন্নাহসহ ইদগাম।' },
     { ref: '16:93', focus: 'أُمَّةً وَاحِدَةً',   noteEn: 'Tanween (ً) before وَ — noon merges into waaw with ghunnah.',                                noteBn: 'وَ-এর আগে তানউইন (ً) — গুন্নাহসহ ওয়াওতে মিলন।' },
-    { ref: '4:173', focus: 'مِن نَّعِيمٍ',         noteEn: 'نْ before نَ — noon merges into noon with ghunnah; shaddah appears on نَّ.',                  noteBn: 'نَ-এর আগে نْ — গুন্নাহসহ মিলন; نَّ-তে শাদ্দা।' },
+    { ref: '4:1',   focus: 'مِّن نَّفْسٍ',         noteEn: 'نْ before نَ — noon merges into noon with ghunnah; shaddah appears on نَّ.',                  noteBn: 'نَ-এর আগে نْ — গুন্নাহসহ মিলন; نَّ-তে শাদ্দা।' },
   
     // v163 additions — 6 machine-verified examples
     {"ref":"12:4","focus":"كَوْكَبًا وَٱلشَّمْسَ","noteEn":"Tanween (ً) before وَ — noon merges into the waaw with a 2-count ghunnah.","noteBn":"وَ-এর আগে তানউইন (ً) — গুন্নাহসহ ওয়াওতে মিলন।"},
@@ -539,8 +539,8 @@ const TAJWEED_RULE_EXAMPLES = {
   ikhfa_shafawi: [
     { ref: '36:65', focus: 'أَرْجُلُهُم بِمَا',     noteEn: 'Meem sakinah before بِ — lightly hidden on the lips with ghunnah; do not fully close.',   noteBn: 'مْ-এর পরে بِ — ঠোঁটে গুন্নাহসহ হালকা গোপন।' },
     { ref: '7:45',  focus: 'وَهُم بِالْآخِرَةِ',   noteEn: 'مْ before بِ — ikhfa shafawi: the lips barely close, a light labial hiding.',              noteBn: 'وَهُم before بِ — ঠোঁট সামান্য স্পর্শ, সম্পূর্ণ বন্ধ নয়।' },
-    { ref: '59:14', focus: 'بَأْسُهُمْ بَيْنَهُمْ', noteEn: 'مْ before بَ — two ikhfa shafawi in one phrase; both times lips touch lightly with ghunnah.', noteBn: 'بَأْسُهُمْ بَيْنَهُمْ — একই বাক্যে দুটি মْ…بَ: উভয়বার ইখফা শাফাবি।' },
-    { ref: '23:88', focus: 'كُنتُمْ بِهِ',           noteEn: 'مْ at end of كُنتُمْ before بِهِ — labial hiding with ghunnah.',                           noteBn: 'كُنتُمْ-এর مْ before بِهِ — ঠোঁটে গুন্নাহসহ ইখফা।' },
+    { ref: '59:14', focus: 'بَأْسُهُمْ بَيْنَهُمْ', noteEn: 'مْ of بَأْسُهُمْ before بَ — ikhfa shafawi: the lips touch lightly with ghunnah (the second meem, before شَدِيدٌ, is read clearly).', noteBn: 'بَأْسُهُمْ-এর مْ بَ-এর আগে — ইখফা শাফাবি: গুন্নাহসহ ঠোঁট হালকা স্পর্শ (দ্বিতীয় মীম شَدِيدٌ-এর আগে স্পষ্ট)।' },
+    { ref: '32:20', focus: 'كُنتُمْ بِهِ',           noteEn: 'مْ at end of كُنتُمْ before بِهِ — labial hiding with ghunnah.',                           noteBn: 'كُنتُمْ-এর مْ before بِهِ — ঠোঁটে গুন্নাহসহ ইখফা।' },
     { ref: '105:4', focus: 'تَرْمِيهِم بِحِجَارَةٍ', noteEn: 'مْ before بِ in تَرْمِيهِم بِحِجَارَةٍ — ikhfa shafawi with ghunnah; a short-surah example easy to memorise.', noteBn: 'تَرْمِيهِم بِحِجَارَةٍ-তে بِ-এর আগে مْ — গুন্নাহসহ ইখফা শাফাবি; ছোট সূরার সহজ উদাহরণ।' },
     { ref: '3:101', focus: 'يَعْتَصِم بِاللَّهِ',    noteEn: 'مْ before بِ in وَمَن يَعْتَصِم بِاللَّهِ — light labial hiding; the lips do not press fully shut.', noteBn: 'يَعْتَصِم بِاللَّهِ-তে بِ-এর আগে مْ — ঠোঁটে হালকা গোপন; ঠোঁট পুরো চেপে বন্ধ নয়।' },
     { ref: '84:24', focus: 'فَبَشِّرْهُم بِعَذَابٍ', noteEn: 'مْ before بِ in فَبَشِّرْهُم بِعَذَابٍ — hold the ghunnah ~2 counts while the meem stays lightly hidden.', noteBn: 'فَبَشِّرْهُم بِعَذَابٍ-তে بِ-এর আগে مْ — মীম হালকা গোপন রেখে ~২ হরকত গুন্নাহ ধরুন।' },
@@ -558,7 +558,7 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '2:46',  focus: 'أَنَّهُم مُّلَاقُو',   noteEn: 'مْ before مُّ — two meems merge into one doubled meem held with ghunnah.',                 noteBn: 'مْ before مُّ — দুই মীম মিশে এক مُشَدَّد মীম।' },
     { ref: '60:8',  focus: 'يُخْرِجُوكُم مِّن',    noteEn: 'مْ before مِّ — idghaam shafawi: the merged meem is held ~2 counts.',                      noteBn: 'مْ before مِّ — মিলিত মীম ~২ হরকত ধরুন।' },
     { ref: '10:42', focus: 'وَمِنْهُم مَّن',         noteEn: 'مْ before مَّ — total labial merger; no lip separation between the two meems.',            noteBn: 'مْ before مَّ — ঠোঁটে সম্পূর্ণ মিলন।' },
-    { ref: '3:154', focus: 'أَهَمَّتْهُم مَّا',     noteEn: 'مْ before مَ — idghaam shafawi with ghunnah; a clear example in mid-verse.',              noteBn: 'مْ before مَ — গুন্নাহসহ ইদগাম শাফাবি।' },
+    { ref: '3:154', focus: 'أَنفُسِهِم مَّا',     noteEn: 'مْ before مَ — idghaam shafawi with ghunnah; a clear example in mid-verse.',              noteBn: 'مْ before مَ — গুন্নাহসহ ইদগাম শাফাবি।' },
     { ref: '2:10',  focus: 'فِي قُلُوبِهِم مَّرَضٌ', noteEn: 'مْ before مَّ in قُلُوبِهِم مَّرَضٌ — the two meems fuse into one doubled meem with ~2-count ghunnah.', noteBn: 'قُلُوبِهِم مَّرَضٌ-তে مَّ-এর আগে مْ — দুই মীম মিশে এক مُشَدَّد মীম, ~২ হরকত গুন্নাহ।' },
     { ref: '106:4', focus: 'أَطْعَمَهُم مِّن جُوعٍ', noteEn: 'مْ before مِّ in أَطْعَمَهُم مِّن — idghaam shafawi in Surah Quraysh; keep the lips closed once through both meems.', noteBn: 'أَطْعَمَهُم مِّن-এ مِّ-এর আগে مْ — সূরা কুরাইশে ইদগাম শাফাবি; দুই মীম জুড়ে ঠোঁট একবারই বন্ধ থাকবে।' },
     { ref: '2:249', focus: 'كَم مِّن فِئَةٍ',        noteEn: 'مْ of كَم merges into مِّن — a frequent Quranic pairing (كَم مِّن / لَهُم مَّا): one long doubled meem with ghunnah.', noteBn: 'كَم-এর مْ مِّن-এ মিশে যায় — কোরআনে বহুবার আসা জোড়া: গুন্নাহসহ একটিই দীর্ঘ مُشَدَّد মীম।' },
@@ -574,23 +574,23 @@ const TAJWEED_RULE_EXAMPLES = {
 
   // ── Madd ──────────────────────────────────────────────────────────────────
   madd_2: [
-    { ref: '1:3',   focus: 'الرَّحِيمِ',    noteEn: 'يِ madd: kasrah then يَ — stretch exactly 2 counts, neither more nor less.',                      noteBn: 'الرَّحِيمِ-তে يِ মাদ্দ — ঠিক ২ হরকত।' },
+    { ref: '1:3',   focus: 'الرَّحِيمِ',    noteEn: 'يِ madd: kasrah then ي — stretch exactly 2 counts when reading on (stopping at the verse end makes it madd ʿāriḍ).', noteBn: 'الرَّحِيمِ-তে يِ মাদ্দ — মিলিয়ে পড়লে ঠিক ২ হরকত (আয়াত শেষে থামলে মাদ্দ আরিদ)।' },
     { ref: '1:4',   focus: 'مَالِكِ',        noteEn: 'Alif madd: fathah then ا — natural stretch of 2 counts.',                                        noteBn: 'مَالِكِ-তে আলিফ মাদ্দ — ২ হরকত স্বাভাবিক।' },
-    { ref: '2:23',  focus: 'وَادْعُوا',     noteEn: 'وُ madd: dammah then وَ — stretch 2 counts; a common verb form across the Quran.',               noteBn: 'وَادْعُوا-তে وُ মাদ্দ — ২ হরকত।' },
-    { ref: '3:67',  focus: 'إِبْرَاهِيمَ', noteEn: 'Both alif madd (إِبْرَا) and yaa madd (هِيمَ) in one word — each 2 counts.',                      noteBn: 'إِبْرَاهِيمَ-তে আলিফ ও ইয়া মাদ্দ — প্রতিটি ২ হরকত।' },
-    { ref: '2:2',   focus: 'الْكِتَابُ',    noteEn: 'Alif madd in كِتَاب — fathah before ا; 2 counts in continuous and at waqf (madd tabi\'i).',       noteBn: 'الْكِتَابُ-তে আলিফ মাদ্দ — ২ হরকত।' },
+    { ref: '2:23',  focus: 'وَادْعُوا',     noteEn: 'وُ madd: dammah then و — stretch 2 counts; a common verb form across the Quran.',               noteBn: 'وَادْعُوا-তে وُ মাদ্দ — ২ হরকত।' },
+    { ref: '3:67',  focus: 'إِبْرَاهِيمُ', noteEn: 'Both alif madd (إِبْرَا) and yaa madd (هِيمُ) in one word — each 2 counts.',                      noteBn: 'إِبْرَاهِيمُ-তে আলিফ ও ইয়া মাদ্দ — প্রতিটি ২ হরকত।' },
+    { ref: '2:2',   focus: 'الْكِتَابُ',    noteEn: 'Alif madd in كِتَاب — fathah before ا; 2 counts in continuous recitation (madd tabi\'i).',       noteBn: 'الْكِتَابُ-তে আলিফ মাদ্দ — ২ হরকত।' },
   ],
 
   madd_246: [
     { ref: '1:4',   focus: 'الدِّينِ',        noteEn: 'Stopping on الدِّينِ — يِ madd before waqf sukoon; choose 2, 4 or 6 and keep it consistent throughout.', noteBn: 'الدِّينِ-তে ওয়াকফ — ২, ৪ বা ৬ হরকত; ধারাবাহিক রাখুন।' },
     { ref: '1:5',   focus: 'نَسْتَعِينُ',     noteEn: 'Stopping on نَسْتَعِينُ — يِ madd; flexible 2/4/6 at waqf.',                                    noteBn: 'نَسْتَعِينُ-তে ওয়াকফ — ২/৪/৬ নমনীয়।' },
     { ref: '1:2',   focus: 'الْعَالَمِينَ',  noteEn: 'Stopping on الْعَالَمِينَ — يِ madd before the waqf sukoon on نَ.',                              noteBn: 'الْعَالَمِينَ-তে ওয়াকফ — يِ মাদ্দ, নমনীয়।' },
-    { ref: '108:1', focus: 'الْكَوْثَرَ',    noteEn: 'Stopping on الْكَوْثَرَ — alif madd (وَثَرَ: the ا before رَ at waqf) → 2, 4 or 6 counts.',     noteBn: 'الْكَوْثَرَ-তে ওয়াকফ — আলিফ মাদ্দ, ২/৪/৬।' },
+    { ref: '114:1', focus: 'النَّاسِ',    noteEn: 'Stopping on النَّاسِ — alif madd (the ا before سِ, which takes waqf sukoon) → 2, 4 or 6 counts.',     noteBn: 'النَّاسِ-তে ওয়াকফ — আলিফ মাদ্দ, ২/৪/৬।' },
     { ref: '112:2', focus: 'الصَّمَدُ',       noteEn: 'No madd letter before the final دُ — no madd \'aridh here; contrast to sharpen recognition.',   noteBn: 'الصَّمَدُ-তে দ-এর আগে মাদ্দের হরফ নেই — মাদ্দ আরিদ নয়।' },
   ],
 
   madd_aridh: [
-    { ref: '1:7',   focus: 'الضَّالِّينَ',   noteEn: 'Stopping at verse end — يَ madd (يِ in لِّينَ) + نَ becomes sukoon at waqf → 2, 4 or 6 counts.', noteBn: 'آয়াত শেষে ওয়াকফ — يِ মাদ্দ + ن সাময়িক সাকিন → ২,৪,৬।' },
+    { ref: '1:7',   focus: 'الضَّالِّينَ',   noteEn: 'Stopping at verse end — يِ madd (in لِّينَ) + نَ becomes sukoon at waqf → 2, 4 or 6 counts.', noteBn: 'আয়াত শেষে ওয়াকফ — يِ মাদ্দ + ن সাময়িক সাকিন → ২,৪,৬।' },
     { ref: '2:255', focus: 'الْقَيُّومُ',    noteEn: 'Stopping on الْقَيُّومُ — وُ madd then مُ gets waqf sukoon: madd \'aridh.',                       noteBn: 'الْقَيُّومُ-তে ওয়াকফ: وُ মাদ্দ — মাদ্দ আরিদ।' },
     { ref: '1:1',   focus: 'الرَّحِيمِ',     noteEn: 'Stopping at end of basmalah — يِ madd in الرَّحِيمِ before waqf sukoon: 2/4/6.',                 noteBn: 'الرَّحِيمِ-তে ওয়াকফ — يِ মাদ্দ → ২/৪/৬।' },
     { ref: '55:27', focus: 'وَالْإِكْرَامِ', noteEn: 'Stopping on وَالْإِكْرَامِ — alif madd + مِ gets waqf sukoon: madd \'aridh.',                    noteBn: 'وَالْإِكْرَامِ-তে ওয়াকফ — আলিফ মাদ্দ → মাদ্দ আরিদ।' },
@@ -599,58 +599,58 @@ const TAJWEED_RULE_EXAMPLES = {
 
   madd_lin: [
     { ref: '106:4', focus: 'خَوْفٍ',          noteEn: 'Stopping on خَوْفٍ — وْ (fathah + و with sukoon) before final ف at waqf: liin madd 2/4/6.',     noteBn: 'خَوْفٍ-তে ওয়াকফ — وْ (فتح + و সাকিন): মাদ্দ লিন ২/৪/৬।' },
-    { ref: '2:2',   focus: 'رَيْبٌ',           noteEn: 'Stopping on رَيْبٌ — يْ (fathah + يَ with sukoon) before بٌ at waqf: soft liin madd.',           noteBn: 'رَيْبٌ-তে ওয়াকফ — يْ (فتح + يَ সাকিন): মাদ্দ লিন।' },
-    { ref: '114:1', focus: 'قُرَيْشٍ',         noteEn: 'Stopping on قُرَيْشٍ (surah 106) — يْ before شٍ at waqf: madd liin.',                          noteBn: 'قُرَيْشٍ-তে ওয়াকফ — يْ সাকিন: মাদ্দ লিন।' },
-    { ref: '34:46', focus: 'الْجِنِّ وَالْإِنسِ', noteEn: 'No liin here — contrast: لِين requires و/ي with sukoon AFTER a fathah, not after kasrah.', noteBn: 'এখানে মাদ্দ লিন নেই — ফাতহার পরে و/ي সাকিন হওয়া চাই।' },
+    { ref: '2:2',   focus: 'رَيْبَ',           noteEn: 'Stopping on رَيْبَ — يْ (fathah + ي with sukoon) before بَ at waqf: soft liin madd.',           noteBn: 'رَيْبَ-তে ওয়াকফ — يْ (فتح + يَ সাকিন): মাদ্দ লিন।' },
+    { ref: '106:1', focus: 'قُرَيْشٍ',         noteEn: 'Stopping on قُرَيْشٍ (surah 106) — يْ before شٍ at waqf: madd liin.',                          noteBn: 'قُرَيْشٍ-তে ওয়াকফ — يْ সাকিন: মাদ্দ লিন।' },
+    { ref: '6:130', focus: 'الْجِنِّ وَالْإِنسِ', noteEn: 'No liin here — contrast: neither word has a و/ي with sukoon AFTER a fathah, which لِين requires.', noteBn: 'এখানে মাদ্দ লিন নেই — ফাতহার পরে و/ي সাকিন হওয়া চাই।' },
     { ref: '69:28', focus: 'مَالِيَهْ',         noteEn: 'يَ in مَالِيَهْ — this is يَ with fathah, not liin (liin needs يْ with sukoon after fathah).',   noteBn: 'مَالِيَهْ-তে يَ ফাতহাসহ — এটি মাদ্দ লিন নয়।' },
-    { ref: '9:51',  focus: 'خَوْفًا',           noteEn: 'Stopping on خَوْفًا — وْ (fathah + و sukoon) + ف at waqf; tanween drops: madd liin 2/4/6.',    noteBn: 'خَوْفًا-তে ওয়াকফ — وْ সাকিন: মাদ্দ লিন।' },
+    { ref: '106:3', focus: 'الْبَيْتِ',           noteEn: 'Stopping on الْبَيْتِ — يْ (fathah + ي with sukoon) before تِ, which takes waqf sukoon: madd liin 2/4/6.',    noteBn: 'الْبَيْتِ-তে ওয়াকফ — يْ সাকিন: মাদ্দ লিন।' },
   ],
 
   madd_badal: [
     { ref: '2:62',  focus: 'آمَنُوا',          noteEn: 'آمَنَ: hamza + alif madd (the long ā replaced an original hamza) — recite as 2 counts in Hafs.', noteBn: 'آمَنَ-তে হামযা + আলিফ মাদ্দ — হাফসে ২ হরকত।' },
-    { ref: '2:3',   focus: 'إِيمَانٌ',          noteEn: 'إِيمَان: hamza + yaa madd — the madd substitutes for an original hamza; 2 counts.',             noteBn: 'إِيمَان-তে هَمْزَة + يِ মাদ্দ — হামযার স্থলে ২ হরকত।' },
-    { ref: '3:44',  focus: 'أُوتِيَ',           noteEn: 'أُوتِيَ: hamza + waaw madd — a badal madd; 2 counts.',                                         noteBn: 'أُوتِيَ-তে هَمْزَة + وُ মাদ্দ — মাদ্দ বদল, ২ হরকত।' },
+    { ref: '3:173', focus: 'إِيمَانًا',          noteEn: 'إِيمَان: hamza + yaa madd — the madd substitutes for an original hamza; 2 counts.',             noteBn: 'إِيمَان-তে هَمْزَة + يِ মাদ্দ — হামযার স্থলে ২ হরকত।' },
+    { ref: '2:136', focus: 'أُوتِيَ',           noteEn: 'أُوتِيَ: hamza + waaw madd — a badal madd; 2 counts.',                                         noteBn: 'أُوتِيَ-তে هَمْزَة + وُ মাদ্দ — মাদ্দ বদল, ২ হরকত।' },
     { ref: '2:31',  focus: 'آدَمَ',              noteEn: 'آدَمَ: hamza before alif madd — the stretched ā is a badal madd; 2 counts in Hafs.',            noteBn: 'آدَمَ-তে হামযা + আলিফ মাদ্দ — মাদ্দ বদল।' },
     { ref: '3:33',  focus: 'آلَ',                noteEn: 'آلَ: hamza + alif madd — badal madd of 2 counts.',                                             noteBn: 'آلَ-তে هَمْزَة + আলিফ মাদ্দ — ২ হরকত মাদ্দ বদল।' },
   ],
 
   madd_iwad: [
-    { ref: '4:24',  focus: 'فَرِيضَةً',         noteEn: 'Stopping on فَرِيضَةً — tanween fathah (ً) drops; alif compensation of 2 counts: فَرِيضَةَ.',  noteBn: 'فَرِيضَةً-তে ওয়াকফ — তানউইন বাদ, ফাতহায় ২ হরকত ক্ষতিপূরণ।' },
+    { ref: '4:24',  focus: 'حَكِيمًا',         noteEn: 'Stopping on حَكِيمًا — tanween fathah (ً) drops; alif compensation of 2 counts: حَكِيمَا.',  noteBn: 'حَكِيمًا-তে ওয়াকফ — তানউইন বাদ, ফাতহায় ২ হরকত ক্ষতিপূরণ।' },
     { ref: '4:93',  focus: 'عَظِيمًا',           noteEn: 'Stopping on عَظِيمًا → عَظِيمَا: the ً drops, the fathah on م stretches 2 counts.',            noteBn: 'عَظِيمًا-তে ওয়াকফ → عَظِيمَا: মাদ্দ ইওয়াদ।' },
-    { ref: '2:137', focus: 'عَلِيمًا',           noteEn: 'Stopping on عَلِيمًا → عَلِيمَا: tanween fathah converts to 2-count madd.',                    noteBn: 'عَلِيمًا → عَلِيمَا ওয়াকফে: তানউইন বাদ, ২ হরকত।' },
+    { ref: '4:32',  focus: 'عَلِيمًا',           noteEn: 'Stopping on عَلِيمًا → عَلِيمَا: tanween fathah converts to 2-count madd.',                    noteBn: 'عَلِيمًا → عَلِيمَا ওয়াকফে: তানউইন বাদ, ২ হরকত।' },
     { ref: '1:7',   focus: 'الضَّالِّينَ',       noteEn: 'No madd \'iwad here — يَ already has a madd; \'iwad applies only to ً (tanwin fathah).',        noteBn: 'এখানে মাদ্দ ইওয়াদ নয় — ً (তানউইন ফাতহা) হলেই ইওয়াদ।' },
-    { ref: '4:171', focus: 'رَسُولُهُ وَكَلِمَتُهُ', noteEn: 'No ً here — \'iwad applies only when a word ends in tanwin fathah (ً) and you stop.', noteBn: 'এখানে ً নেই — মাদ্দ ইওয়াদ শুধু ـً-তে থামলে।' },
+    { ref: '4:171', focus: 'رَسُولُ اللَّهِ وَكَلِمَتُهُ', noteEn: 'No ً here — \'iwad applies only when a word ends in tanwin fathah (ً) and you stop.', noteBn: 'এখানে ً নেই — মাদ্দ ইওয়াদ শুধু ـً-তে থামলে।' },
   ],
 
   madd_muttasil: [
-    { ref: '2:87',  focus: 'جَاءَكُمْ',          noteEn: 'Alif madd then ء in same word — obligatory (wajib) stretch of 4–5 counts.',                  noteBn: 'جَاءَكُمْ-তে آلف مَدّ + ء একই শব্দে — ৪–৫ হরকত ওয়াজিব।' },
+    { ref: '2:87',  focus: 'جَاءَكُمْ',          noteEn: 'Alif madd then ء in same word — obligatory (wajib) stretch of 4–5 counts.',                  noteBn: 'جَاءَكُمْ-তে আলিফ মাদ্দ + ء একই শব্দে — ৪–৫ হরকত ওয়াজিব।' },
     { ref: '2:19',  focus: 'السَّمَاءِ',          noteEn: 'Alif madd then ء in السَّمَاء — connected madd; 4–5 counts (obligatory).',                    noteBn: 'السَّمَاءِ-তে আলিফ মাদ্দ + ء একই শব্দে — ৪–৫ হরকত।' },
     { ref: '2:6',   focus: 'سَوَاءٌ',             noteEn: 'Alif madd then ء in سَوَاء — muttasil; stretch 4–5 counts.',                                  noteBn: 'سَوَاءٌ-তে আলিফ মাদ্দ + ء — মুত্তাসিল, ৪–৫ হরকত।' },
-    { ref: '4:93',  focus: 'يَشَاءُ',             noteEn: 'يَشَاءُ — alif madd + ء in one word: connected madd; 4–5 counts obligatory.',                noteBn: 'يَشَاءُ-তে আলিফ + ء একই শব্দে — ওয়াজিব মাদ্দ।' },
-    { ref: '2:148', focus: 'الْمَاءِ',             noteEn: 'Alif madd before ء in الْمَاء — same-word hamza: muttasil, 4–5 counts.',                     noteBn: 'الْمَاءِ-তে আলিফ মাদ্দ + ء — মুত্তাসিল।' },
+    { ref: '2:212', focus: 'يَشَاءُ',             noteEn: 'يَشَاءُ — alif madd + ء in one word: connected madd; 4–5 counts obligatory.',                noteBn: 'يَشَاءُ-তে আলিফ + ء একই শব্দে — ওয়াজিব মাদ্দ।' },
+    { ref: '11:7',  focus: 'الْمَاءِ',             noteEn: 'Alif madd before ء in الْمَاء — same-word hamza: muttasil, 4–5 counts.',                     noteBn: 'الْمَاءِ-তে আলিফ মাদ্দ + ء — মুত্তাসিল।' },
   ],
 
   madd_munfasil: [
     { ref: '108:1', focus: 'إِنَّا أَعْطَيْنَاكَ', noteEn: 'Alif madd at end of إِنَّا, hamza starts أَعْطَيْنَاكَ — separated madd; 4–5 counts.',    noteBn: 'إِنَّا শেষে مَدّ, أَعْطَيْنَاكَ-এর শুরুতে ء — ৪–৫ হরকত।' },
-    { ref: '114:1', focus: 'قُلْ أَعُوذُ',         noteEn: 'وُ madd ends قُلْ, ء starts أَعُوذُ — munfasil; 4–5 counts.',                               noteBn: 'قُلْ-এর وُ মাদ্দ + أَعُوذُ-র ء — মুনফাসিল ৪–৫।' },
+    { ref: '109:2', focus: 'لَا أَعْبُدُ',         noteEn: 'Alif madd ends لَا, ء starts أَعْبُدُ — munfasil; 4–5 counts.',                               noteBn: 'لَا-এর আলিফ মাদ্দ + أَعْبُدُ-এর ء — মুনফাসিল ৪–৫।' },
     { ref: '4:1',   focus: 'يَا أَيُّهَا',          noteEn: 'Alif madd in يَا then ء starts أَيُّهَا — separated; 4–5 counts consistently.',            noteBn: 'يَا-এর আলিফ মাদ্দ + أَيُّهَا-র ء — মুনফাসিল।' },
     { ref: '2:163', focus: 'لَا إِلَٰهَ إِلَّا',    noteEn: 'لَا ends with alif madd, إِلَٰهَ starts with ء — munfasil; 4–5 counts.',                    noteBn: 'لَا-এর আলিফ + إِلَٰهَ-র ء — মুনফাসিল ৪–৫।' },
-    { ref: '1:5',   focus: 'إِيَّاكَ نَعْبُدُ وَإِيَّاكَ', noteEn: 'يِ madd in the first إِيَّاكَ continues into the verse — practise consistent length.', noteBn: 'إِيَّاكَ-তে يِ মাদ্দ — ধারাবাহিক দৈর্ঘ্য অনুশীলন করুন।' },
+    { ref: '2:4',   focus: 'بِمَا أُنزِلَ', noteEn: 'Alif madd ends بِمَا, ء starts أُنزِلَ — and again in وَمَا أُنزِلَ: practise one consistent length.', noteBn: 'بِمَا-এর আলিফ মাদ্দ + أُنزِلَ-এর ء — আবার وَمَا أُنزِلَ-এ: একই দৈর্ঘ্য ধারাবাহিক রাখার অনুশীলন করুন।' },
   ],
 
   madd_6: [
     { ref: '2:1',   focus: 'الٓمٓ',               noteEn: 'ل (laam) in الٓمٓ — each muqaṭṭaʿa letter is a separate recitation unit; لَامْ has madd lazim of 6 counts.', noteBn: 'الٓمٓ-তে لَامْ — প্রতিটি হরফ আলাদা; ৬ হরকত মাদ্দ লাযিম।' },
     { ref: '10:1',  focus: 'الٓرٰ',               noteEn: 'الٓرٰ — لَامْ has 6-count madd lazim; رَا does not (natural 2-count).',                          noteBn: 'الٓرٰ-তে لَامْ-এ ৬ হরকত; رَا-তে মাদ্দ লাযিম নয়।' },
-    { ref: '36:1',  focus: 'يٰسٓ',                noteEn: 'يٰسٓ — يَا has 6-count madd lazim; one of the most-recited muqaṭṭaʿa openings.',               noteBn: 'يٰسٓ-তে يَا-তে ৬ হরকত — সর্বাধিক পঠিত মুকাত্তা আলিফ।' },
-    { ref: '40:1',  focus: 'حٰمٓ',                noteEn: 'حٰمٓ — حَا has 6-count madd lazim; مِيمْ too; both must be 6 counts.',                          noteBn: 'حٰمٓ-তে حَا ও مِيمْ উভয়েই ৬ হরকত।' },
+    { ref: '36:1',  focus: 'يٰسٓ',                noteEn: 'يٰسٓ — سِينْ has 6-count madd lazim (يَا is natural, 2 counts); one of the most-recited muqaṭṭaʿa openings.',               noteBn: 'يٰسٓ-তে سِينْ-এ ৬ হরকত (يَا-তে স্বাভাবিক ২ হরকত) — সর্বাধিক পঠিত মুকাত্তাআত সূচনার একটি।' },
+    { ref: '40:1',  focus: 'حٰمٓ',                noteEn: 'حٰمٓ — حَا is natural (2 counts); مِيمْ has 6-count madd lazim.',                          noteBn: 'حٰمٓ-তে حَا স্বাভাবিক ২ হরকত; مِيمْ-এ ৬ হরকত মাদ্দ লাযিম।' },
     { ref: '50:1',  focus: 'قٓ',                  noteEn: 'قٓ — قَافْ contains a madd letter (alif) + sukoon: madd lazim 6 counts.',                      noteBn: 'قٓ-তে قَافْ: আলিফ + সাকিন — ৬ হরকত মাদ্দ লাযিম।' },
     { ref: '68:1',  focus: 'نٓ',                  noteEn: 'نٓ — نُونْ contains a madd letter (و) + sukoon; 6-count madd lazim.',                          noteBn: 'نٓ-তে نُونْ: و + সাকিন — ৬ হরকত মাদ্দ লাযিম।' },
   ],
 
   // ── Other rules ────────────────────────────────────────────────────────────
   idghaam_mutajanisayn: [
-    { ref: '4:28',  focus: 'بَسَطتَ',             noteEn: 'ط before تَ — same makhraj (tongue-tip/gum), ط merges fully into تَ.',                       noteBn: 'بَسَطتَ-তে ط before تَ — একই মাখরাজ, ط মিশে যায়।' },
-    { ref: '27:22', focus: 'أَحَطتُ',              noteEn: 'ط before تُ in أَحَطتُ بِهِ — the ط is absorbed into the following ت.',                      noteBn: 'أَحَطتُ-তে ط before تُ — ط শোষিত হয়।' },
+    { ref: '5:28',  focus: 'بَسَطتَ',             noteEn: 'ط before تَ — same makhraj (tongue tip with the base of the upper front teeth); ط merges into تَ but keeps its heaviness (incomplete idghām).',                       noteBn: 'بَسَطتَ-তে ط before تَ — একই মাখরাজ; ط মিশে যায়, তবে ভারী গুণ বজায় থাকে (অসম্পূর্ণ ইদগাম)।' },
+    { ref: '27:22', focus: 'أَحَطتُ',              noteEn: 'ط before تُ in أَحَطتُ — the ط merges into the following ت, but its heavy quality is kept (incomplete idghām).',                      noteBn: 'أَحَطتُ-তে ط before تُ — ط মিশে যায়, তবে তার ভারী গুণ বজায় থাকে (অসম্পূর্ণ ইদগাম)।' },
     { ref: '7:176', focus: 'يَلْهَث ذَّٰلِكَ',   noteEn: 'ث before ذَّ — both interdental letters; ث merges into ذَّ.',                                 noteBn: 'يَلْهَث ذَّٰلِكَ-তে ث before ذَّ — আন্তদন্তীয় মিলন।' },
     { ref: '11:42', focus: 'ارْكَب مَّعَنَا',     noteEn: 'ب before مَّ — both labial letters; ب merges into meem (idghaam mutajanisayn).',              noteBn: 'ارْكَب مَّعَنَا-তে ب before مَّ — ঠোঁটের হরফ মিলন।' },
     { ref: '2:256', focus: 'قَد تَّبَيَّنَ',      noteEn: 'دْ before تَّ in قَد تَّبَيَّنَ — same tongue-tip makhraj: the daal merges fully into the taa (shaddah on تَّ).', noteBn: 'قَد تَّبَيَّنَ-তে تَّ-এর আগে دْ — একই মাখরাজ: দাল তা-তে সম্পূর্ণ মিশে যায় (تَّ-তে শাদ্দা)।' },
@@ -661,7 +661,7 @@ const TAJWEED_RULE_EXAMPLES = {
   idghaam_mutaqaribayn: [
     { ref: '77:20', focus: 'أَلَمْ نَخْلُقكُّم', noteEn: 'ق before كُّ — close (but not identical) makhraj; ق completely absorbed into كُّ.',             noteBn: 'نَخْلُقكُّم-তে ق before ك — কাছাকাছি মাখরাজ; ق মিশে যায়।' },
     { ref: '4:158', focus: 'بَلْ رَّفَعَهُ',       noteEn: 'ل before رَّ — both tongue-tip letters with close articulation; ل absorbed into رَّ.',        noteBn: 'بَلْ رَّفَعَهُ-তে ل before رَّ — জিহ্বার অগ্র-হরফ মিলন।' },
-    { ref: '17:45', focus: 'قَالَ رَبِّ',           noteEn: 'ل before رَ — if the ل has sukoon (at waqf context or specific readings); mutaqaribayn.',    noteBn: 'ل before رَ — কাছাকাছি মাখরাজ: মুতাকারিবাইন।' },
+    { ref: '21:56', focus: 'بَل رَّبُّكُمْ',           noteEn: 'لْ of بَل before رَّ — close makhraj; the laam merges into the raa (shaddah on رَّ): mutaqaribayn.',    noteBn: 'بَل رَّبُّكُمْ-এ لْ رَّ-এর আগে — কাছাকাছি মাখরাজ; লাম রা-তে মিশে যায় (رَّ-তে শাদ্দা): মুতাকারিবাইন।' },
     { ref: '20:114', focus: 'وَقُل رَّبِّ زِدْنِي', noteEn: 'لْ of قُل before رَّ — the laam is absorbed into the raa (shaddah on رَّ): read "qur-rabbi", not "qul rabbi".', noteBn: 'قُل-এর لْ رَّ-এর আগে — লাম রা-তে শোষিত (رَّ-তে শাদ্দা): পড়ুন "কুর-রাব্বি", "কুল রাব্বি" নয়।' },
     { ref: '23:118', focus: 'وَقُل رَّبِّ اغْفِرْ', noteEn: 'The same قُل رَّبِّ merger closing Surah al-Muʾminun — laam into raa, no laam heard at all.', noteBn: 'সূরা মুমিনুনের শেষে একই قُل رَّبِّ মিলন — লাম রা-তে বিলীন, লাম আদৌ শোনা যায় না।' },
     { ref: '17:24', focus: 'وَقُل رَّبِّ ارْحَمْهُمَا', noteEn: 'قُل رَّبِّ in the duʿa for parents — practise the smooth laam→raa merger in a phrase recited daily.', noteBn: 'মাতা-পিতার দোয়ায় قُل رَّبِّ — প্রতিদিন পঠিত বাক্যে লাম→রা মসৃণ মিলন অনুশীলন করুন।' },
@@ -671,7 +671,7 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '1:1',   focus: 'ٱللَّهِ',              noteEn: 'Start at ٱللَّهِ: ا is pronounced "al-". Connecting from بِسْمِ: ا is silent, لل immediately joins.', noteBn: 'ٱللَّهِ থেকে শুরু: ا উচ্চারিত। বিসমি থেকে: ا নীরব।' },
     { ref: '1:6',   focus: 'ٱهْدِنَا',              noteEn: 'ا in ٱهْدِنَا is hamzat al-wasl — silent in connected recitation, pronounced only when starting here.', noteBn: 'ٱهْدِنَا-তে ا হামযাতুল ওয়াসল — ওয়াসলে নীরব।' },
     { ref: '96:1',  focus: 'ٱقْرَأْ',               noteEn: 'ا in ٱقْرَأْ is hamzat al-wasl — drop it when joining from a previous word.',                 noteBn: 'ٱقْرَأْ-তে ا হামযাতুল ওয়াসল — আগের শব্দ থেকে যুক্ত হলে নীরব।' },
-    { ref: '2:58',  focus: 'ٱدْخُلُوا',              noteEn: 'ا in ٱدْخُلُوا — pronounced with a kasra vowel "id-" when starting alone.',                   noteBn: 'ٱدْخُلُوا-তে ا — এককভাবে শুরু করলে কাসরাসহ।' },
+    { ref: '2:58',  focus: 'ٱدْخُلُوا',              noteEn: 'ا in ٱدْخُلُوا — pronounced with a dammah "ud-" when starting here, because the third letter (خُ) carries a dammah.',                   noteBn: 'ٱدْخُلُوا-তে ا — এখান থেকে শুরু করলে দাম্মাসহ ("উদ-"), কারণ তৃতীয় হরফ خُ-তে দাম্মা।' },
     { ref: '3:97',  focus: 'ٱسْتَطَاعَ',             noteEn: 'ا in ٱسْتَطَاعَ — hamzat al-wasl with kasra; silent when flowing from previous word.',          noteBn: 'ٱسْتَطَاعَ-তে ا হামযাতুল ওয়াসল — কাসরাসহ, ওয়াসলে নীরব।' },
   ],
 
@@ -684,17 +684,17 @@ const TAJWEED_RULE_EXAMPLES = {
   ],
 
   lam_qamariyyah: [
-    { ref: '1:1',   focus: 'الْحَمْدُ',              noteEn: 'ل of ال before حَ — moon letter; lam is fully pronounced.',                                   noteBn: 'حَ-এর আগে ال-এর ل স্পষ্ট — চাঁদের হরফ।' },
+    { ref: '1:2',   focus: 'الْحَمْدُ',              noteEn: 'ل of ال before حَ — moon letter; lam is fully pronounced.',                                   noteBn: 'حَ-এর আগে ال-এর ل স্পষ্ট — চাঁদের হরফ।' },
     { ref: '2:2',   focus: 'الْكِتَابُ',              noteEn: 'ل of ال before كِ — moon letter; lam audible, كِ takes no shaddah.',                         noteBn: 'كِ-এর আগে ال-এর ل স্পষ্ট; شَدَّة নেই।' },
     { ref: '1:2',   focus: 'الْعَالَمِينَ',          noteEn: 'ل of ال before عَ — moon letter; lam clearly heard.',                                         noteBn: 'عَ-এর আগে ال-এর ل শ্রুতিগোচর।' },
     { ref: '2:255', focus: 'الْقَيُّومُ',            noteEn: 'ل of ال before قَ — moon letter; lam pronounced clearly.',                                    noteBn: 'قَ-এর আগে ال-এর ল স্পষ্ট।' },
-    { ref: '2:3',   focus: 'الآخِرَةِ',               noteEn: 'ل of ال before ء (hamza) — always a moon letter; lam clear, no shaddah on ء.',               noteBn: 'ء-এর আগে ال-এর ل স্পষ্ট — ء সর্বদা চাঁদের হরফ।' },
+    { ref: '2:4',   focus: 'الآخِرَةِ',               noteEn: 'ل of ال before ء (hamza) — always a moon letter; lam clear, no shaddah on ء.',               noteBn: 'ء-এর আগে ال-এর ل স্পষ্ট — ء সর্বদা চাঁদের হরফ।' },
   ],
 
   silent: [
-    { ref: '2:14',  focus: 'قَالُوا۟',               noteEn: 'The final ا after و in قَالُوا is a silent spelling alif — written in all jama\' verb forms, never pronounced.', noteBn: 'قَالُوا-এর شেষ ا বর্ণগত আলিফ — উচ্চারিত হয় না।' },
-    { ref: '2:7',   focus: 'كَفَرُوا۟',               noteEn: 'Same silent alif in كَفَرُوا — pronunciation ends at وَ; the ا is a distinguishing orthographic mark.', noteBn: 'كَفَرُوا-তে একই নীরব আলিফ — و-তেই উচ্চারণ শেষ।' },
-    { ref: '3:93',  focus: 'آمَنُوا۟',                noteEn: 'آمَنُوا — the trailing ا is silent; a consistent pattern across every plural perfect verb in the Quran.', noteBn: 'آمَنُوا-তে শেষ ا নীরব — সকল জমা মাযি ক্রিয়ায় একই।' },
+    { ref: '2:14',  focus: 'قَالُوا۟',               noteEn: 'The final ا after و in قَالُوا is a silent spelling alif — written after the plural و of most verbs, never pronounced.', noteBn: 'قَالُوا-এর শেষ ا বর্ণগত আলিফ — উচ্চারিত হয় না।' },
+    { ref: '2:6',   focus: 'كَفَرُوا۟',               noteEn: 'Same silent alif in كَفَرُوا — pronunciation ends at وَ; the ا is a distinguishing orthographic mark.', noteBn: 'كَفَرُوا-তে একই নীরব আলিফ — و-তেই উচ্চারণ শেষ।' },
+    { ref: '2:9',   focus: 'آمَنُوا۟',                noteEn: 'آمَنُوا — the trailing ا is silent; the same pattern runs through most plural verbs in the Quran.', noteBn: 'آمَنُوا-তে শেষ ا নীরব — অধিকাংশ বহুবচন ক্রিয়ায় একই।' },
     { ref: '18:38', focus: 'لَّٰكِنَّا۟',              noteEn: 'The alif at the end of لَّٰكِنَّا is written but dropped in continuous recitation (only heard if stopping here).', noteBn: 'لَّٰكِنَّا-এর শেষ ا ওয়াসলে নীরব — ওয়াকফে শোনা যায়।' },
     { ref: '2:5',   focus: 'أُو۟لَٰئِكَ',               noteEn: 'The و in أُو۟لَٰئِكَ is purely orthographic — read "ulāʾika" with a short u; the waaw is never pronounced.', noteBn: 'أُو۟لَٰئِكَ-এর و কেবল বানানগত — পড়ুন "উলাইকা" ছোট উ দিয়ে; ওয়াও কখনো উচ্চারিত হয় না।' },
     { ref: '2:25',  focus: 'وَعَمِلُوا۟',               noteEn: 'وَعَمِلُوا۟ الصَّالِحَاتِ — the plural-verb alif is silent AND the following hamzat al-wasl drops: read "wa-ʿamiluṣ-ṣāliḥāt".', noteBn: 'وَعَمِلُوا۟ الصَّالِحَاتِ — বহুবচন ক্রিয়ার আলিফ নীরব এবং পরের হামযাতুল ওয়াসলও বাদ: পড়ুন "ওয়া-আমিলুস-সালিহাত"।' },
@@ -707,7 +707,7 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '55:1',  focus: 'الرَّحْمَٰنُ',           noteEn: 'رَّ with fathah and shaddah — clearly heavy.',                                                noteBn: 'الرَّحْمَٰنُ-তে رَّ ফাতহা + শাদ্দা — স্পষ্ট তাফখিম।' },
     { ref: '16:1',  focus: 'أَمْرُ',                  noteEn: 'رُ with dammah in أَمْرُ اللَّهِ — heavy ra\'.',                                              noteBn: 'أَمْرُ-তে رُ দাম্মাসহ — ভারী উচ্চারণ।' },
     { ref: '1:6',   focus: 'الصِّرَاطَ',             noteEn: 'رَا in الصِّرَاطَ — the ر carries fathah: tafkhim despite the kasrah on صِ.',                 noteBn: 'الصِّرَاطَ-তে رَ ফাতহাসহ — তাফখিম।' },
-    { ref: '2:49',  focus: 'إِسْرَائِيلَ',           noteEn: 'رَ in إِسْرَائِيلَ has fathah — tafkhim; do not let the surrounding kasra soften it.',        noteBn: 'إِسْرَائِيلَ-তে رَ ফাতহাসহ — পার্শ্ব কাসরা সত্ত্বেও তাফখিম।' },
+    { ref: '2:47',  focus: 'إِسْرَائِيلَ',           noteEn: 'رَ in إِسْرَائِيلَ has fathah — tafkhim; do not let the surrounding kasra soften it.',        noteBn: 'إِسْرَائِيلَ-তে رَ ফাতহাসহ — পার্শ্ব কাসরা সত্ত্বেও তাফখিম।' },
   ],
 
   ra_tarqiq: [
@@ -715,23 +715,23 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '4:34',  focus: 'الرِّجَالُ',             noteEn: 'رِ with kasrah in الرِّجَال — tarqiq; light ra\'.',                                           noteBn: 'الرِّجَالُ-তে رِ কাসরাসহ — তারকিক।' },
     { ref: '2:49',  focus: 'فِرْعَوْنَ',             noteEn: 'رْ in فِرْعَوْن has sukoon, preceded by kasrah on فِ — tarqiq (light ra\').',                  noteBn: 'فِرْعَوْنَ-তে رْ সাকিন, فِ-তে কাসরা — তারকিক।' },
     { ref: '1:7',   focus: 'غَيْرِ',                  noteEn: 'رِ with kasrah in غَيْرِ — tarqiq: light ra\' at end of phrase.',                             noteBn: 'غَيْرِ-তে رِ কাসরাসহ — হালকা তারকিক।' },
-    { ref: '2:87',  focus: 'جِبْرِيلَ',              noteEn: 'رِ in جِبْرِيل — kasrah on ر: tarqiq.',                                                       noteBn: 'جِبْرِيلَ-তে رِ কাসরাসহ — তারকিক।' },
+    { ref: '2:98',  focus: 'جِبْرِيلَ',              noteEn: 'رِ in جِبْرِيل — kasrah on ر: tarqiq.',                                                       noteBn: 'جِبْرِيلَ-তে رِ কাসরাসহ — তারকিক।' },
   ],
 
   // ── Waqf & special-letter rules ────────────────────────────────────────────
   ha_sakt: [
-    { ref: '69:19', focus: 'كِتَابِيَهْ',            noteEn: 'هَاء السَّكْت at waqf — pronounced only when stopping; dropped when joining to the next word.',  noteBn: 'كِتَابِيَهْ-তে হা আস-সাকত — ওয়াকফে পড়া, ওয়াসলে বাদ।' },
-    { ref: '69:20', focus: 'حِسَابِيَهْ',            noteEn: 'Silent هـ preserves the long vowel when stopping on حِسَابِيَهْ.',                             noteBn: 'حِسَابِيَهْ-তে নীরব هـ — ওয়াকফে দীর্ঘ স্বর রক্ষা।' },
+    { ref: '69:19', focus: 'كِتَابِيَهْ',            noteEn: 'هَاء السَّكْت — in Hafs it is pronounced both when stopping and when joining to the next verse.',  noteBn: 'كِتَابِيَهْ-তে হা আস-সাকত — হাফসে থামলেও পরের আয়াতের সাথে মিলিয়ে পড়লেও উচ্চারিত।' },
+    { ref: '69:20', focus: 'حِسَابِيَهْ',            noteEn: 'The sākin هْ preserves the vowel of the يَ when stopping on حِسَابِيَهْ.',                             noteBn: 'حِسَابِيَهْ-তে সাকিন هْ — ওয়াকফে يَ-এর স্বর রক্ষা।' },
     { ref: '69:25', focus: 'كِتَابِيَهْ',            noteEn: 'Second occurrence of كِتَابِيَهْ (the disbeliever\'s cry) — same هَاء السَّكْت rule.',          noteBn: 'দ্বিতীয় كِتَابِيَهْ — একই هـ আস-সাকতের নিয়ম।' },
     { ref: '69:28', focus: 'مَالِيَهْ',              noteEn: 'مَالِيَهْ — هَاء السَّكْت prevents elision of the يَ at waqf.',                                  noteBn: 'مَالِيَهْ-তে হা আস-সাকত — ওয়াকফে يَ বজায় থাকে।' },
-    { ref: '69:29', focus: 'سُلْطَانِيَهْ',          noteEn: 'سُلْطَانِيَهْ — هَاء السَّكْت at waqf; connect and it vanishes completely.',                    noteBn: 'سُلْطَانِيَهْ-তে هـ আস-সাকত — ওয়াসলে অদৃশ্য।' },
+    { ref: '69:29', focus: 'سُلْطَانِيَهْ',          noteEn: 'سُلْطَانِيَهْ — هَاء السَّكْت at the verse end; in Hafs it stays even when you connect to the next verse.',                    noteBn: 'سُلْطَانِيَهْ-তে هـ আস-সাকত — হাফসে ওয়াসলেও বজায় থাকে।' },
   ],
 
   sakt: [
     { ref: '18:1',  focus: 'عِوَجًا ۜ قَيِّمًا',     noteEn: 'Sakt after عِوَجًا — brief silent pause without breathing before قَيِّمًا; marks the contrast between crookedness and straightness.', noteBn: 'عِوَجًا-র পর সাকত — শ্বাস ছাড়াই স্বল্প বিরতি, তারপর قَيِّمًا।' },
-    { ref: '36:52', focus: 'مَرْقَدِنَا ۜ هَٰذَا',   noteEn: 'Sakt after مَرْقَدِنَا — the pause marks the shift between the disbelievers\' words and the reply.',  noteBn: 'مَرْقَدِنَا-র পর সাকত — বক্তা পরিবর্তনের পূর্বে বিরতি।' },
+    { ref: '36:52', focus: 'مَرْقَدِنَا ۜ هَٰذَا',   noteEn: 'Sakt after مَرْقَدِنَا — in a common explanation, the pause marks the shift between the disbelievers\' words and the reply.',  noteBn: 'مَرْقَدِنَا-র পর সাকত — প্রচলিত ব্যাখ্যায়, বক্তা পরিবর্তনের পূর্বে বিরতি।' },
     { ref: '75:27', focus: 'مَنْ ۜ رَاقٍ',           noteEn: 'Sakt on مَنْ before رَاقٍ — prevents نْ from merging into رَ (which would otherwise be idghaam mutaqaribayn).', noteBn: 'مَنْ-এর পর সাকত — نْ কে رَ-তে মিশতে বাধা দেয়।' },
-    { ref: '83:14', focus: 'بَلْ ۜ رَانَ',           noteEn: 'Sakt on بَلْ before رَانَ — prevents ل from merging into رَ; these are the only four sakt positions in Hafs.',  noteBn: 'بَلْ-এর পর সাকত — ل কে رَ-তে মিশতে বাধা; হাফসে মোট চার স্থান।' },
+    { ref: '83:14', focus: 'بَلْ ۜ رَانَ',           noteEn: 'Sakt on بَلْ before رَانَ — prevents ل from merging into رَ; these are the four obligatory sakt positions in Hafs.',  noteBn: 'بَلْ-এর পর সাকত — ل কে رَ-তে মিশতে বাধা; হাফসে আবশ্যিক সাকতের চার স্থান।' },
     { ref: '69:28', focus: 'مَالِيَهْ ۜ هَلَكَ',     noteEn: 'Optional sakt when JOINING 69:28 to هَلَكَ (69:29) — the pause keeps the two haas from merging; if you stop at the verse end instead, no sakt is needed.', noteBn: '৬৯:২৮-কে هَلَكَ (৬৯:২৯)-এর সাথে মিলিয়ে পড়লে ঐচ্ছিক সাকত — বিরতিটি দুই হা-কে মিশতে দেয় না; আয়াত শেষে থামলে সাকত লাগে না।' },
     { ref: '8:75',  focus: 'عَلِيمٌ … بَرَاءَةٌ',    noteEn: 'Between Surah al-Anfal and at-Tawbah (no basmalah) three ways are allowed: stop, sakt, or join — joining turns the tanween before ب into iqlab.', noteBn: 'সূরা আনফাল ও তাওবার মাঝে (বিসমিল্লাহ নেই) তিনভাবে পড়া জায়েয: ওয়াকফ, সাকত বা ওয়াসল — মিলিয়ে পড়লে ب-এর আগের তানউইনে ইকলাব হয়।' },
   ],
@@ -780,7 +780,7 @@ const TAJWEED_RULE_EXAMPLES = {
     { ref: '1:7',   focus: 'الضَّالِّينَ',      noteEn: 'ض in الضَّالِّينَ — a heavy isti\'la letter unique to Arabic.',                               noteBn: 'الضَّالِّينَ-তে ض — আরবির স্বতন্ত্র ভারী ইসতিলা হরফ।' },
     { ref: '1:7',   focus: 'غَيْرِ',             noteEn: 'غ in غَيْرِ — heavy, from the top of the throat; keep it full even before a kasrah.',         noteBn: 'غَيْرِ-তে غ — গলার উপর থেকে ভারী; কাসরার আগেও পূর্ণ রাখুন।' },
     { ref: '2:255', focus: 'الْعَظِيمُ',        noteEn: 'ظ in الْعَظِيمُ — a heavy isti\'la letter; the tongue-tip touches the upper teeth, mouth full.', noteBn: 'الْعَظِيمُ-তে ظ — ভারী ইসতিলা হরফ; জিহ্বার অগ্র উপরের দাঁতে, মুখ ভরা।' },
-    { ref: '112:1', focus: 'قُلْ',               noteEn: 'ق in قُلْ — deepest isti\'la letter; a full, heavy uvular stop.',                             noteBn: 'قُلْ-তে ق — গভীরতম ইসতিলা হরফ; পূর্ণ ভারী উচ্চারণ।' },
+    { ref: '112:1', focus: 'قُلْ',               noteEn: 'ق in قُلْ — an isti\'la letter from the back of the tongue; a full, heavy uvular stop.',                             noteBn: 'قُلْ-তে ق — জিহ্বার গোড়া থেকে উচ্চারিত ইসতিলা হরফ; পূর্ণ ভারী উচ্চারণ।' },
   ],
 
   // ── Madd al-Ṣilah ───────────────────────────────────────────────────────────
@@ -849,8 +849,8 @@ const TAJWEED_QUIZ = [
     optsEn: ['2 harakāt only', '4 harakāt only', '6 harakāt only', '2, 4, or 6 harakāt (permissible)'],
     optsBn: ['শুধু ২ হারাকাত', 'শুধু ৪ হারাকাত', 'শুধু ৬ হারাকাত', '২, ৪ বা ৬ হারাকাত (সবই জায়েজ)'],
     correct: 3 },
-  { qEn: 'Madd Lāzim is always held for how many harakāt?',
-    qBn: 'মাদ্দ লাযিম সবসময় কত হারাকাত টানা হয়?',
+  { qEn: 'Madd Lāzim is held for how many harakāt?',
+    qBn: 'মাদ্দ লাযিম কত হারাকাত টানা হয়?',
     optsEn: ['2 harakāt', '4 harakāt', '6 harakāt', '8 harakāt'],
     optsBn: ['২ হারাকাত', '৪ হারাকাত', '৬ হারাকাত', '৮ হারাকাত'],
     correct: 2 },
@@ -884,15 +884,15 @@ const TAJWEED_QUIZ = [
     optsEn: ['مـ (Lāzim)', 'لا (Mamnūʿ)', 'ط (Muṭlaq)', 'ج (Jāʾiz)'],
     optsBn: ['مـ (লাযিম)', 'لا (মামনূ)', 'ط (মুতলাক)', 'ج (জায়েজ)'],
     correct: 0 },
-  { qEn: 'How many Sakt (brief silent pause) positions exist in the recitation of Ḥafṣ \'an \'Āṣim?',
-    qBn: 'হাফস আন আসিমের কিরাতে মোট কতটি সাকত স্থান আছে?',
+  { qEn: 'How many obligatory Sakt (brief silent pause) positions exist in the recitation of Ḥafṣ \'an \'Āṣim?',
+    qBn: 'হাফস আন আসিমের কিরাতে মোট কতটি আবশ্যিক সাকত স্থান আছে?',
     optsEn: ['2', '3', '4', '5'],
     optsBn: ['২', '৩', '৪', '৫'],
     correct: 2 },
   { qEn: 'Rāʾ is pronounced with Tafkhīm (heavy) in which of the following cases?',
     qBn: 'নিচের কোন ক্ষেত্রে রা-কে তাফখিম (মোটা) উচ্চারণ করা হয়?',
-    optsEn: ['Rāʾ with kasrah', 'Rāʾ preceded by a kasrah with no letter between them', 'Rāʾ with fatḥah or ḍammah', 'Rāʾ followed by a kasrah'],
-    optsBn: ['কাসরাযুক্ত রা', 'রা-র আগে কাসরা থাকলে', 'ফাতহা বা দাম্মাযুক্ত রা', 'রা-র পরে কাসরা থাকলে'],
+    optsEn: ['Rāʾ with kasrah', 'Rāʾ with sukūn preceded by a kasrah', 'Rāʾ with fatḥah or ḍammah', 'Rāʾ followed by a kasrah'],
+    optsBn: ['কাসরাযুক্ত রা', 'সাকিন রা-র আগে কাসরা থাকলে', 'ফাতহা বা দাম্মাযুক্ত রা', 'রা-র পরে কাসরা থাকলে'],
     correct: 2 },
   { qEn: 'Rāʾ is pronounced with Tarqīq (light/thin) when:',
     qBn: 'রা তারকিক (পাতলা) উচ্চারণ হয় যখন:',

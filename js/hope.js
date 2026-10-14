@@ -84,7 +84,7 @@ class HopeView {
     if (this.language && o[this.language]) return o[this.language];
     if (this.language === 'bn') return o.bn || o.en || '';
     if (o.en && typeof CI18N !== 'undefined' && this.language && this.language !== 'en') {
-      const tr = CI18N.tr(this.language, o.en);
+      const tr = CI18N.tr(this.language, o.en, 'hope');
       if (tr) return tr;
     }
     return o.en || o.bn || '';

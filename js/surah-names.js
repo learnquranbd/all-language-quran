@@ -51,7 +51,7 @@ class SurahNamesView {
     if (!e) return key;
     if (this.language && e[this.language]) return e[this.language];
     if (this.language && this.language !== 'en' && typeof CI18N !== 'undefined' && e.en) {
-      try { const tr = CI18N.tr(this.language, e.en); if (tr) return tr; } catch (_) { /* ignore */ }
+      try { const tr = CI18N.tr(this.language, e.en, 'surahnames'); if (tr) return tr; } catch (_) { /* ignore */ }
     }
     return e.en || key;
   }
@@ -62,7 +62,7 @@ class SurahNamesView {
     if (this.language === 'bn' && o.bn) return o.bn;
     const en = o.en || '';
     if (!en || this.language === 'en' || this.language === 'bn') return en;
-    try { if (typeof CI18N !== 'undefined') return CI18N.tr(this.language, en) || en; } catch (_) { /* ignore */ }
+    try { if (typeof CI18N !== 'undefined') return CI18N.tr(this.language, en, 'surahnames') || en; } catch (_) { /* ignore */ }
     return en;
   }
 

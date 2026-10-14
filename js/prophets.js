@@ -65,7 +65,7 @@ class ProphetsView {
       if (this.language && e[this.language]) return e[this.language];
       if (this.language === 'bn') return e.bn || e.en;
       if (this.language && this.language !== 'en' && typeof CI18N !== 'undefined' && e.en) {
-        const tr = CI18N.tr(this.language, e.en); if (tr) return tr;
+        const tr = CI18N.tr(this.language, e.en, 'prophets'); if (tr) return tr;
       }
       return e.en;
     }
@@ -76,7 +76,7 @@ class ProphetsView {
   lc(o) {
     if (!o) return '';
     if (this.language === 'bn' && o.bn) return o.bn;
-    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en); if (tr) return tr; }
+    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en, 'prophets'); if (tr) return tr; }
     return o.en || o.bn || '';
   }
   pick(item, field) {

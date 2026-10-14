@@ -345,8 +345,8 @@ const HOPE_NAMES = [
     ar: 'ٱلْوَدُود', translit: 'al-Wadūd', ref: '85:14',
     meaning: { en: 'The Loving', bn: 'অত্যন্ত স্নেহশীল' },
     note: {
-      en: 'Wudd is affection that shows — love expressed rather than merely felt. The Qur’an places this name immediately after al-Ghafūr, in that order.',
-      bn: 'উদ্দ মানে যে ভালোবাসা প্রকাশ পায় — মনে থেকে যায় এমন নয়, বাইরে এসে দাঁড়ায় এমন। কুরআন নামটা বসিয়েছে আল-গাফূর-এর ঠিক পরে, এই ক্রমেই।',
+      en: 'Wudd is affection that shows — love expressed rather than merely felt. Here the Qur’an places this name immediately after al-Ghafūr, in that order.',
+      bn: 'উদ্দ মানে যে ভালোবাসা প্রকাশ পায় — মনে থেকে যায় এমন নয়, বাইরে এসে দাঁড়ায় এমন। এখানে কুরআন নামটা বসিয়েছে আল-গাফূর-এর ঠিক পরে, এই ক্রমেই।',
     },
   },
   {
@@ -359,7 +359,7 @@ const HOPE_NAMES = [
   },
   {
     ar: 'ٱلْبَرّ', translit: 'al-Barr', ref: '52:28',
-    meaning: { en: 'The Most Kind', bn: 'পরম অনুগ্রহশীল' },
+    meaning: { en: 'The Most Benevolent', bn: 'পরম অনুগ্রহশীল' },
     note: {
       en: 'Quoted in Paradise as what its people used to call upon Him by in the world: indeed He is al-Barr, ar-Raḥīm. The name they used before is the name they use after.',
       bn: 'কথাটা জান্নাতের, আর জান্নাতিরা বলছেন দুনিয়ায় তাঁরা তাঁকে কী বলে ডাকতেন: নিশ্চয়ই তিনি আল-বার, আর-রহিম। আগে যে নামে ডাকতেন, পরেও সেই নামেই।',
@@ -378,8 +378,8 @@ const HOPE_NAMES = [
     src: 'Sunan Abi Dawud 4012 — from the Sunnah, not a Qur’anic name',
     meaning: { en: 'The Coverer', bn: 'আবরণকারী' },
     note: {
-      en: 'The Prophet ﷺ said: “Indeed Allah is modest and covering, and He loves modesty and covering.” Named here because the covering you already received is this chapter’s strongest argument.',
-      bn: 'নবী ﷺ বলেছেন: “নিশ্চয়ই আল্লাহ লজ্জাশীল ও আবরণকারী, আর তিনি লজ্জা ও আবরণ ভালোবাসেন।” নামটা এখানে এল, কারণ আপনি আগে থেকেই যে আবরণটা পেয়ে আছেন, সেটাই এই অধ্যায়ের সবচেয়ে জোরালো যুক্তি।',
+      en: 'The Prophet ﷺ said: “Indeed Allah is modest and covering, and He loves modesty and covering.” Named here because the covering you already received is this section’s strongest argument.',
+      bn: 'নবী ﷺ বলেছেন: “নিশ্চয়ই আল্লাহ লজ্জাশীল ও আবরণকারী, আর তিনি লজ্জা ও আবরণ ভালোবাসেন।” নামটা এখানে এল, কারণ আপনি আগে থেকেই যে আবরণটা পেয়ে আছেন, সেটাই এই অংশের সবচেয়ে জোরালো যুক্তি।',
     },
   },
 ];
@@ -422,15 +422,15 @@ const HOPE_CHAPTERS = [
       {
         ref: '12:87',
         note: {
-          en: 'Spoken by a father who had lost one son to a well and a second to a prison, after years of blindness from weeping. He does not say relief is likely. He says despairing of it is what disbelievers do — which makes hope a matter of who you understand Allah to be, not of how your situation looks.',
-          bn: 'কথাটা বলছেন এমন এক বাবা, যাঁর এক ছেলে গেছে কূপে, আরেকজন কারাগারে, আর বছরের পর বছর কাঁদতে কাঁদতে যাঁর চোখ নষ্ট হয়ে গেছে। তিনি বলছেন না যে মুক্তি আসবেই। বলছেন, ওটা থেকে নিরাশ হওয়া কাফিরের কাজ। অর্থাৎ আশা টিকে থাকে আপনি আল্লাহকে কেমন জানেন তার ওপর, আপনার অবস্থা দেখতে কেমন তার ওপর নয়।',
+          en: 'Spoken by a father who had lost one son to a well and a second to detention in Egypt, and whose eyes had turned white from grief. He does not say relief is likely. He says despairing of it is what disbelievers do — which makes hope a matter of who you understand Allah to be, not of how your situation looks.',
+          bn: 'কথাটা বলছেন এমন এক বাবা, যাঁর এক ছেলে গেছে কূপে, আরেকজন আটকা পড়েছে মিশরে, আর শোকে শোকে যাঁর চোখ সাদা হয়ে গেছে। তিনি বলছেন না যে মুক্তি আসবেই। বলছেন, ওটা থেকে নিরাশ হওয়া কাফিরের কাজ। অর্থাৎ আশা টিকে থাকে আপনি আল্লাহকে কেমন জানেন তার ওপর, আপনার অবস্থা দেখতে কেমন তার ওপর নয়।',
         },
       },
       {
         ref: '15:56',
         note: {
-          en: 'The context is worth holding on to: this is Ibrahim (AS) receiving good news, not bad. Despair had not even been suggested to him — he raises it himself to dismiss it, as if to say that a man who knows his Lord does not keep that option on the table at all.',
-          bn: 'কথাটা কোন প্রসঙ্গে, সেটা মনে রাখার মতো। ইবরাহিম (আ) তখন সুসংবাদ পাচ্ছেন, দুঃসংবাদ নয়। নিরাশার কথা তাঁকে কেউ বলেনি; তিনি নিজেই কথাটা তুলে নাকচ করে দিলেন। যেন বলছেন, নিজের রবকে যে চেনে, তার কাছে ও পথটা খোলাই থাকে না।',
+          en: 'The context is worth holding on to: this is Ibrahim (AS) receiving good news, not bad. When the angels tell him not to be of the despairing (15:55), he answers with a question that dismisses the idea outright, as if to say that a man who knows his Lord does not keep that option on the table at all.',
+          bn: 'কথাটা কোন প্রসঙ্গে, সেটা মনে রাখার মতো। ইবরাহিম (আ) তখন সুসংবাদ পাচ্ছেন, দুঃসংবাদ নয়। ফেরেশতারা যখন বললেন, তিনি যেন নিরাশদের দলে না পড়েন (১৫:৫৫), তিনি এক প্রশ্নেই কথাটা একেবারে নাকচ করে দিলেন। যেন বলছেন, নিজের রবকে যে চেনে, তার কাছে ও পথটা খোলাই থাকে না।',
         },
       },
       {
@@ -503,8 +503,8 @@ const HOPE_CHAPTERS = [
         bn: 'একটা সূরা বাদে বাকি সব সূরার শুরুতেই আল্লাহর দুটি নাম, দুটোই এক মূল থেকে: আর-রহমান, আর-রহিম। বিচারক বলার আগে, ক্ষমতাবান বলার আগে তাঁর পরিচয় দেওয়া হচ্ছে দয়ালু বলে, তারপর আরেক রূপে আবারও দয়ালু বলে। যে মুসলিম পাঁচ ওয়াক্ত নামাজ পড়ে, সে দিনে অন্তত সতেরোবার এই লাইনটা বলে। তাঁর সম্পর্কে সবার আগে এটাই জানার কথা।',
       },
       {
-        en: 'Twice in Surah al-An‘am the Qur’an uses a startling expression: kataba ‘alā nafsihi ar-raḥmah — He has decreed mercy upon Himself, written it as an obligation He has taken on. Nothing else in the Book is described as something Allah has made binding on Himself. The mercy is not a mood He is in. It is a commitment He has made.',
-        bn: 'সূরা আনআমে দুবার কুরআন অবাক করা একটা কথা বলেছে: কাতাবা আলা নাফসিহির-রহমাহ। তিনি নিজের ওপর রহমত লিখে নিয়েছেন, নিজের ঘাড়ে তুলে নেওয়া দায়িত্ব হিসেবেই লিখে রেখেছেন। গোটা কুরআনে আর কোনো কিছুকেই আল্লাহ নিজের ওপর অবশ্য করেছেন বলে বলা হয়নি। রহমত তাঁর মেজাজ নয়। রহমত তাঁর দেওয়া কথা।',
+        en: 'Twice in Surah al-An‘am the Qur’an uses a startling expression: kataba ‘alā nafsihi ar-raḥmah — He has decreed mercy upon Himself, written it as an obligation He has taken on. Nothing else in the Book is said, in these words, to be written by Allah upon Himself. The mercy is not a mood He is in. It is a commitment He has made.',
+        bn: 'সূরা আনআমে দুবার কুরআন অবাক করা একটা কথা বলেছে: কাতাবা আলা নাফসিহির-রহমাহ। তিনি নিজের ওপর রহমত লিখে নিয়েছেন, নিজের ঘাড়ে তুলে নেওয়া দায়িত্ব হিসেবেই লিখে রেখেছেন। গোটা কুরআনে আর কোনো কিছুর বেলায় এই ভাষায় বলা হয়নি যে আল্লাহ তা নিজের ওপর লিখে নিয়েছেন। রহমত তাঁর মেজাজ নয়। রহমত তাঁর দেওয়া কথা।',
       },
     ],
     verses: [
@@ -557,7 +557,7 @@ const HOPE_CHAPTERS = [
         },
       },
       {
-        src: 'Sahih Muslim 2752',
+        src: 'Sahih al-Bukhari 6000',
         text: {
           en: 'The Prophet ﷺ said: “Allah has made mercy in one hundred parts. He kept ninety-nine parts with Him and sent down one part to the earth. From that one part the creation shows mercy to one another, so that a mare lifts her hoof away from her foal, fearing that she might injure it.”',
           bn: 'নবী ﷺ বলেছেন: “আল্লাহ রহমতকে একশ ভাগ করেছেন। নিরানব্বই ভাগ তিনি নিজের কাছে রেখেছেন আর এক ভাগ পৃথিবীতে নামিয়েছেন। সেই এক ভাগ থেকেই সৃষ্টি পরস্পরের প্রতি দয়া দেখায়, এমনকি ঘোড়া তার বাচ্চার গায়ে আঘাত লাগার আশঙ্কায় খুর সরিয়ে নেয়।”',
@@ -574,7 +574,7 @@ const HOPE_CHAPTERS = [
         bn: 'পরের বার বিসমিল্লাহ বলার সময় পুরোটা এক টানে বলে ফেলবেন না; আর-রহমান আর-রহিম-এ এসে একটু থামুন। যেটা আপনার সবচেয়ে বেশি দরকার, আপনি তারই নাম নিচ্ছেন।',
       },
       {
-        en: 'Learn 7:156 as a single sentence in Arabic: wa raḥmatī wasi‘at kulla shay’. Six words, and they settle most arguments your fear will start with you.',
+        en: 'Learn 7:156 as a single sentence in Arabic: wa raḥmatī wasi‘at kulla shay’. Four words, and they settle most arguments your fear will start with you.',
         bn: '৭:১৫৬-এর অংশটুকু আরবিতেই মুখস্থ করুন: ওয়া রহমতী ওয়াসিআত কুল্লা শাইয়িন। কয়েকটা শব্দ মাত্র। মনের ভয় আপনার সঙ্গে যত তর্ক জুড়বে, তার বেশির ভাগই এতেই থেমে যায়।',
       },
       {
@@ -596,8 +596,8 @@ const HOPE_CHAPTERS = [
     dua: {
       ref: '23:118',
       why: {
-        en: "Two verbs and nothing else: forgive, and have mercy. When you cannot compose anything of your own, this is already composed.",
-        bn: "দুটো কথা, ব্যস: মাফ করুন, আর দয়া করুন। নিজের ভাষায় কিছু গুছিয়ে উঠতে না পারলে এটা আগে থেকেই গোছানো আছে।",
+        en: "The request is two verbs and nothing else: forgive, and have mercy. When you cannot compose anything of your own, this is already composed.",
+        bn: "চাওয়াটা দুটো ক্রিয়াতেই, ব্যস: মাফ করুন, আর দয়া করুন। নিজের ভাষায় কিছু গুছিয়ে উঠতে না পারলে এটা আগে থেকেই গোছানো আছে।",
       },
     },
     intro: [
@@ -606,8 +606,8 @@ const HOPE_CHAPTERS = [
         bn: 'আরবিতে তওবা মানে ফিরে আসা। শব্দটা দিক বোঝায়, মনের অবস্থা নয়। আল্লাহ শব্দটা আমাদের মতো নিজের জন্যও ব্যবহার করেন: তিনি আত-তাওয়াব, যিনি বারবার তাদের দিকে ফেরেন যারা তাঁর দিকে ফেরে। কুরআনে বান্দার ফেরা আর আল্লাহর ফেরা — দুটোই এক ক্রিয়াপদ। সে জন্যই ৯:১১৮ বলতে পারে, তিনি তাদের দিকে ফিরেছেন যাতে তারা তাঁর দিকে ফেরে। পা বাড়ান তিনিই আগে।',
       },
       {
-        en: 'People assume the door has a counter on it — that repentance works a few times and then stops being taken seriously. The Qur’an sets exactly two boundaries, and neither one is a number: repentance offered as death arrives is not accepted (4:18), and dying in disbelief is not covered. Everything on this side of those two lines is open, however many times you have been through it.',
-        bn: 'মানুষ ভাবে, দরজায় বুঝি গোনার কল লাগানো আছে — কয়েকবার তওবা চলে, তারপর আর ধরা হয় না। কুরআন সীমা টেনেছে ঠিক দুটো, আর একটাও সংখ্যার নয়। মৃত্যু সামনে এসে দাঁড়ানোর পর করা তওবা কবুল হয় না (৪:১৮), আর কুফরির ওপর মারা গেলে এ কথা খাটে না। এই দুই দাগের এপাশে সব খোলা, আপনি যতবারই এ পথে ঘুরে এসে থাকুন।',
+        en: 'People assume the door has a counter on it — that repentance works a few times and then stops being taken seriously. The boundaries the Qur’an sets are not numbers: repentance offered as death arrives is not accepted (4:18), and dying in disbelief is not covered. Everything on this side of those lines is open, however many times you have been through it.',
+        bn: 'মানুষ ভাবে, দরজায় বুঝি গোনার কল লাগানো আছে — কয়েকবার তওবা চলে, তারপর আর ধরা হয় না। কুরআন যে সীমা টেনেছে, তার একটাও সংখ্যার নয়। মৃত্যু সামনে এসে দাঁড়ানোর পর করা তওবা কবুল হয় না (৪:১৮), আর কুফরির ওপর মারা গেলে এ কথা খাটে না। এই দাগগুলোর এপাশে সব খোলা, আপনি যতবারই এ পথে ঘুরে এসে থাকুন।',
       },
     ],
     verses: [
@@ -635,8 +635,8 @@ const HOPE_CHAPTERS = [
       {
         ref: '20:82',
         note: {
-          en: 'Addressed to Musa (AS) about a nation that had just worshipped a calf. Four things are named: repents, believes, does righteousness, then stays guided. The fourth is the one people skip — the door opens on the turn, but the walk is what the verse actually asks for.',
-          bn: 'কথাটা মুসা (আ)-কে বলা হয়েছে এমন এক জাতির ব্যাপারে, যারা সবে বাছুরের পূজা করে এসেছে। চারটি জিনিসের কথা আছে: তওবা করে, ঈমান আনে, নেক আমল করে, তারপর হেদায়েতের ওপর টিকে থাকে। চার নম্বরটাই মানুষ এড়িয়ে যায়। ফিরলেই দরজা খুলে যায় ঠিকই, কিন্তু আয়াত চাইছে পথটুকু হাঁটা।',
+          en: 'Addressed to the Children of Israel, just before the passage on how they went on to worship a calf (20:83 onward). Four things are named: repents, believes, does righteousness, then stays guided. The fourth is the one people skip — the door opens on the turn, but the walk is what the verse actually asks for.',
+          bn: 'কথাটা বলা হয়েছে বনী ইসরাঈলকে, ঠিক সেই অংশের আগে, যেখানে আছে তারা পরে কীভাবে বাছুরের পূজা করেছিল (২০:৮৩ থেকে)। চারটি জিনিসের কথা আছে: তওবা করে, ঈমান আনে, নেক আমল করে, তারপর হেদায়েতের ওপর টিকে থাকে। চার নম্বরটাই মানুষ এড়িয়ে যায়। ফিরলেই দরজা খুলে যায় ঠিকই, কিন্তু আয়াত চাইছে পথটুকু হাঁটা।',
         },
       },
       {
@@ -708,8 +708,8 @@ const HOPE_CHAPTERS = [
         bn: 'যে মানুষ এমন কিছু করে ফেলেছে যা তার নিজের কাছেই অমার্জনীয়, তার মনে সাধারণত একটা গোপন তালিকা থাকে: এটা, ওটা, আর ওই জিনিসটার সেই বছরগুলো। কুরআনেরও তালিকা আছে, তবে তাতে নাম একটাই। সূরা নিসায় দুবার, প্রায় একই কথায়, আল্লাহ বলেছেন — শিরক তিনি মাফ করেন না, আর তার চেয়ে কম যা কিছু, যাকে ইচ্ছা তার জন্য মাফ করে দেন। আপনার তালিকার সবটুকুই ওই “তার চেয়ে কম”-এর ভেতরে।',
       },
       {
-        en: 'And even shirk is not outside repentance while a person lives — the whole Makkan mission was built on people who had worshipped idols for decades and were then forgiven completely. What 4:48 describes is the state of one who dies upon it. The Companions include a man who killed the Prophet’s ﷺ own uncle and a woman who had mutilated his body; both later accepted Islam and both were forgiven.',
-        bn: 'শিরকও মানুষ বেঁচে থাকতে তওবার বাইরে নয়। মক্কার গোটা দাওয়াতটাই তো গড়ে উঠেছিল এমন মানুষ নিয়ে, যারা যুগ যুগ ধরে মূর্তি পূজা করে এসেছিল, তারপর পুরোপুরি মাফ পেয়ে গিয়েছিল। ৪:৪৮ যার কথা বলছে, সে হলো যে ওই অবস্থাতেই মারা যায়। সাহাবিদের মধ্যে এমন একজন আছেন যিনি নবী ﷺ-এর আপন চাচাকে হত্যা করেছিলেন, আর এমন একজন নারীও আছেন যিনি তাঁর দেহ বিকৃত করেছিলেন। দুজনই পরে ইসলাম কবুল করেন, আর দুজনই মাফ পান।',
+        en: 'And even shirk is not outside repentance while a person lives — the whole Makkan mission was built on people who had worshipped idols for decades and were then forgiven completely. What 4:48 describes is the state of one who dies upon it. The Companions include a man who killed the Prophet’s ﷺ own uncle and a woman reported to have mutilated that uncle’s body; both later accepted Islam and both were forgiven.',
+        bn: 'শিরকও মানুষ বেঁচে থাকতে তওবার বাইরে নয়। মক্কার গোটা দাওয়াতটাই তো গড়ে উঠেছিল এমন মানুষ নিয়ে, যারা যুগ যুগ ধরে মূর্তি পূজা করে এসেছিল, তারপর পুরোপুরি মাফ পেয়ে গিয়েছিল। ৪:৪৮ যার কথা বলছে, সে হলো যে ওই অবস্থাতেই মারা যায়। সাহাবিদের মধ্যে এমন একজন আছেন যিনি নবী ﷺ-এর আপন চাচাকে হত্যা করেছিলেন, আর এমন একজন নারীও আছেন, বর্ণনামতে যিনি সেই চাচার দেহ বিকৃত করেছিলেন। দুজনই পরে ইসলাম কবুল করেন, আর দুজনই মাফ পান।',
       },
     ],
     verses: [
@@ -723,7 +723,7 @@ const HOPE_CHAPTERS = [
       {
         ref: '4:110',
         note: {
-          en: 'Fourteen words in Arabic and a complete instruction inside them: do wrong, then seek forgiveness, and you will find Him Forgiving. The verb is yajid — he will find. Not “he may find.” The finding is stated as an outcome, not a hope.',
+          en: 'Thirteen words in Arabic and a complete instruction inside them: do wrong, then seek forgiveness, and you will find Him Forgiving. The verb is yajid — he will find. Not “he may find.” The finding is stated as an outcome, not a hope.',
           bn: 'আরবিতে কয়েকটা মাত্র শব্দ, অথচ পুরো নির্দেশটাই তার ভেতরে: মন্দ কাজ করে ফেলেছ, তারপর মাফ চাও, তাঁকে ক্ষমাশীল পাবে। ক্রিয়াপদটা ইয়াজিদু — পাবে। “হয়তো পাবে” নয়। পাওয়াটা এখানে ফলাফল, আশা নয়।',
         },
       },
@@ -801,8 +801,8 @@ const HOPE_CHAPTERS = [
     dua: {
       ref: '25:65-66',
       why: {
-        en: "The servants of the Most Merciful say this after everything else on their list. Ask to be spared while you are working, not only when you are frightened.",
-        bn: "রহমানের বান্দারা তাঁদের এত গুণের পরেও এই দোয়াটাই করেন। কাজ চালিয়ে যেতে যেতেই রক্ষা চান, কেবল ভয় পেলে নয়।",
+        en: "The servants of the Most Merciful, for all the qualities on their list, still ask: avert from us the punishment of Hell. Ask to be spared while you are working, not only when you are frightened.",
+        bn: "রহমানের বান্দারা তাঁদের এত গুণ নিয়েও দোয়া করেন: জাহান্নামের আজাব আমাদের থেকে ফিরিয়ে নিন। কাজ চালিয়ে যেতে যেতেই রক্ষা চান, কেবল ভয় পেলে নয়।",
       },
     },
     intro: [
@@ -1118,7 +1118,7 @@ const HOPE_CHAPTERS = [
       {
         ref: '28:16',
         note: {
-          en: 'Musa (AS) after a man has died at his hand. The confession, the request and the answer are all in one verse, and the answer takes four words: fa ghafara lah — so He forgave him. No interval is described between asking and receiving.',
+          en: 'Musa (AS) after a man has died at his hand. The confession, the request and the answer are all in one verse, and the answer takes two words: fa ghafara lah — so He forgave him. No interval is described between asking and receiving.',
           bn: 'মুসা (আ), যাঁর হাতে এক লোক মারা গেছে। স্বীকার করা, মাফ চাওয়া আর জবাব — সবই এক আয়াতেই। জবাবটা কয়েকটা শব্দে: ফাগাফারা লাহু, তাই তিনি তাঁকে মাফ করে দিলেন। চাওয়া আর পাওয়ার মাঝে কোনো ফাঁকের কথাই নেই।',
         },
       },
@@ -1163,8 +1163,8 @@ const HOPE_CHAPTERS = [
           bn: 'নবী ﷺ বলেছেন: “হে লোকসকল, আল্লাহর কাছে তওবা করো, কারণ আমি দিনে একশ বার তাঁর কাছে তওবা করি।”',
         },
         note: {
-          en: 'Said by the one man whose sins were forgiven in advance. If repentance were only a repair for damage, this sentence would make no sense — it is also how the closest of them stayed close.',
-          bn: 'কথাটা বলছেন সেই মানুষটি, যাঁর গুনাহ আগেই মাফ করে দেওয়া হয়েছিল। তওবা যদি কেবল ক্ষতি মেরামতের জিনিস হতো, এ কথার কোনো মানেই থাকত না। তওবা সেই পথও, যে পথে তাঁদের মধ্যে সবচেয়ে কাছের জন কাছে থেকেছেন।',
+          en: 'Said by a man whose sins, past and future, had already been forgiven (48:2). If repentance were only a repair for damage, this sentence would make no sense — it is also how the closest of them stayed close.',
+          bn: 'কথাটা বলছেন এমন একজন, যাঁর আগের-পরের সব গুনাহ আগেই মাফ করে দেওয়া হয়েছিল (৪৮:২)। তওবা যদি কেবল ক্ষতি মেরামতের জিনিস হতো, এ কথার কোনো মানেই থাকত না। তওবা সেই পথও, যে পথে তাঁদের মধ্যে সবচেয়ে কাছের জন কাছে থেকেছেন।',
         },
       },
     ],
@@ -1206,8 +1206,8 @@ const HOPE_CHAPTERS = [
         bn: 'শুধু আশা নিয়ে বসে থাকলে তা একসময় ফিকে হয়ে যায়। আশাকে বদলে দেয় ইস্তিগফার, অর্থাৎ মাফ চাওয়া — যতক্ষণ না তা রোজকার অভ্যাসে দাঁড়িয়ে যায়। নূহ (আ) আর হুদ (আ) দুজনই নিজেদের দাওয়াতের কেন্দ্রে এটাই রেখেছেন। আর দুজনই এর সঙ্গে জুড়ে দিয়েছেন এমন সব ফল, যার সঙ্গে আখিরাতের কোনো সম্পর্কই নেই: বৃষ্টি, সম্পদ, সন্তান, বাগান, নদী, শক্তির ওপর শক্তি।',
       },
       {
-        en: 'The Qur’an also names a time of day for it. Twice, in lists of the qualities of the righteous, the closing item is that they seek forgiveness in the hours before dawn — al-asḥār. Not as an emergency measure after a bad night, but as a standing habit of people the Qur’an is praising.',
-        bn: 'কুরআন এর জন্য দিনের একটা সময়ও ঠিক করে দিয়েছে। নেক বান্দাদের গুণের তালিকায় দুবারই শেষ কথাটা এক: তাঁরা ভোরের আগের প্রহরে মাফ চান, আল-আসহারে। খারাপ কোনো রাতের পরের জরুরি ব্যবস্থা হিসেবে নয়, কুরআন যাঁদের প্রশংসা করছে তাঁদের বাঁধা অভ্যাস হিসেবেই।',
+        en: 'The Qur’an also names a time of day for it. Twice, in lists of the qualities of the righteous, one of the items is that they seek forgiveness in the hours before dawn — al-asḥār. Not as an emergency measure after a bad night, but as a standing habit of people the Qur’an is praising.',
+        bn: 'কুরআন এর জন্য দিনের একটা সময়ও ঠিক করে দিয়েছে। নেক বান্দাদের গুণের তালিকায় দুবারই একটা কথা আছে: তাঁরা ভোরের আগের প্রহরে মাফ চান, আল-আসহারে। খারাপ কোনো রাতের পরের জরুরি ব্যবস্থা হিসেবে নয়, কুরআন যাঁদের প্রশংসা করছে তাঁদের বাঁধা অভ্যাস হিসেবেই।',
       },
     ],
     verses: [
@@ -1228,8 +1228,8 @@ const HOPE_CHAPTERS = [
       {
         ref: '51:18',
         note: {
-          en: 'Two words that describe a whole practice: wa bil-asḥāri hum yastaghfirūn. The verse before it says they used to sleep little of the night. Being awake before dawn is the setting; the asking is what they do with it.',
-          bn: 'দুটো শব্দেই একটা গোটা অভ্যাসের ছবি: ওয়া বিল-আসহারি হুম ইয়াসতাগফিরূন। আগের আয়াত বলছে, তাঁরা রাতের সামান্য অংশই ঘুমাতেন। ভোরের আগে জেগে থাকাটা প্রেক্ষাপট; সেই সময়টা দিয়ে তাঁরা যা করেন, তা হলো মাফ চাওয়া।',
+          en: 'Three words that describe a whole practice: wa bil-asḥāri hum yastaghfirūn. The verse before it says they used to sleep little of the night. Being awake before dawn is the setting; the asking is what they do with it.',
+          bn: 'তিনটে শব্দেই একটা গোটা অভ্যাসের ছবি: ওয়া বিল-আসহারি হুম ইয়াসতাগফিরূন। আগের আয়াত বলছে, তাঁরা রাতের সামান্য অংশই ঘুমাতেন। ভোরের আগে জেগে থাকাটা প্রেক্ষাপট; সেই সময়টা দিয়ে তাঁরা যা করেন, তা হলো মাফ চাওয়া।',
         },
       },
       {
@@ -1286,8 +1286,8 @@ const HOPE_CHAPTERS = [
         bn: 'এ সপ্তাহে একবার ফজরের বিশ মিনিট আগে অ্যালার্ম দিন। ৫১:১৮ আর ৩:১৭ দুটোই ওই সময়টার দিকেই ইশারা করে। সময়টা আপনার ধারণার চেয়েও নিরিবিলি।',
       },
       {
-        en: 'If a person was harmed, go to them. That is the one step no amount of istighfār replaces — see step four in the panel above.',
-        bn: 'কারও ক্ষতি করে থাকলে তার কাছেই যান। এই একটা ধাপ যত ইস্তিগফার করেই পূরণ হয় না। উপরের প্যানেলের চার নম্বর ধাপটা দেখুন।',
+        en: 'If a person was harmed, go to them. That is the one step no amount of istighfār replaces — see step four in the panel on the main page.',
+        bn: 'কারও ক্ষতি করে থাকলে তার কাছেই যান। এই একটা ধাপ যত ইস্তিগফার করেই পূরণ হয় না। মূল পাতার প্যানেলের চার নম্বর ধাপটা দেখুন।',
       },
     ],
   },
@@ -1371,7 +1371,7 @@ const HOPE_CHAPTERS = [
     ],
     hadith: [
       {
-        src: 'Jami‘ at-Tirmidhi 2002 (hasan sahih)',
+        src: 'Jami‘ at-Tirmidhi 2003 (sahih)',
         text: {
           en: 'The Prophet ﷺ said: “Nothing is placed on the scale that is heavier than good character. The person of good character reaches by it the rank of one who fasts and prays.”',
           bn: 'নবী ﷺ বলেছেন: “পাল্লায় সুন্দর চরিত্রের চেয়ে ভারী কিছু রাখা হয় না। সুন্দর চরিত্রের অধিকারী এর দ্বারা রোজাদার ও নামাজির মর্যাদায় পৌঁছে যায়।”',
@@ -1476,8 +1476,8 @@ const HOPE_CHAPTERS = [
           bn: 'নবী ﷺ বলেছেন: “মুনাফিকের লক্ষণ তিনটি: কথা বললে মিথ্যা বলে, প্রতিশ্রুতি দিলে ভঙ্গ করে, আর আমানত রাখা হলে খিয়ানত করে।”',
         },
         note: {
-          en: 'The three named are exactly the ones 23:8 asks about. Neither text mentions prayer or fasting — the diagnostic is placed entirely in how you handle what other people gave you.',
-          bn: 'যে তিনটার নাম এল, ঠিক সেগুলোই ২৩:৮ জানতে চায়। কোথাও নামাজ বা রোজার কথা নেই। মাপকাঠিটা পুরোপুরি রাখা হয়েছে একটা জায়গায় — অন্যরা আপনাকে যা দিয়েছে, তা আপনি কীভাবে সামলান।',
+          en: 'Two of the three named are exactly the ones 23:8 asks about. Neither text mentions prayer or fasting — the diagnostic is placed entirely in how you handle what other people gave you.',
+          bn: 'যে তিনটার নাম এল, তার দুটো ঠিক সেগুলোই, যা ২৩:৮ জানতে চায়। কোথাও নামাজ বা রোজার কথা নেই। মাপকাঠিটা পুরোপুরি রাখা হয়েছে একটা জায়গায় — অন্যরা আপনাকে যা দিয়েছে, তা আপনি কীভাবে সামলান।',
         },
       },
     ],
@@ -1515,7 +1515,7 @@ const HOPE_CHAPTERS = [
     },
     intro: [
       {
-        en: 'Verse 33:35 is the longest single list of qualities in the Qur’an, and its most striking feature is structural: every item is stated twice, once for men and once for women. Ten qualities, twenty phrases. The repetition is not padding — it was revealed, as the reports have it, after Umm Salamah asked why the Qur’an so often addressed men.',
+        en: 'Verse 33:35 is one of the longest lists of qualities in the Qur’an, and its most striking feature is structural: every item is stated twice, once for men and once for women. Ten qualities, twenty phrases. The repetition is not padding — it was revealed, as the reports have it, after Umm Salamah asked why the Qur’an so often addressed men.',
         bn: 'কুরআনে গুণের সবচেয়ে লম্বা এক তালিকা এই ৩৩:৩৫। সবচেয়ে চোখে পড়ে এর গড়নটা: প্রতিটা গুণ বলা হয়েছে দুবার করে, একবার পুরুষদের জন্য, একবার নারীদের জন্য। দশটা গুণ, বিশটা বাক্যাংশ। পুনরাবৃত্তিটা বাহুল্য নয়। বর্ণনায় আছে, উম্মে সালামা (রা) যখন জিজ্ঞেস করলেন কুরআন কেন এত বেশি পুরুষদেরই সম্বোধন করে, তখনই আয়াতটা নাজিল হয়।',
       },
       {
@@ -1604,8 +1604,8 @@ const HOPE_CHAPTERS = [
     },
     intro: [
       {
-        en: 'Luqman was not a prophet. He is described as a man given ḥikmah — wisdom — and the Qur’an devotes a passage to what he said to his son, which is a remarkable thing to preserve. What survives is a curriculum: creed first, then parents, then accountability, then prayer and public duty, then patience, and finally manners of walking and speaking.',
-        bn: 'লুকমান নবী ছিলেন না। কুরআন তাঁকে বলেছে হিকমাহ বা প্রজ্ঞা দেওয়া হয়েছে এমন একজন। আর তিনি ছেলেকে কী বলেছিলেন, তার জন্য কুরআন একটা গোটা অনুচ্ছেদ খরচ করেছে — ধরে রাখার মতো জিনিস বটে। যা টিকে আছে, তা আসলে একটা পাঠ্যসূচি: আগে আকিদা, তারপর বাবা-মা, তারপর জবাবদিহি, তারপর নামাজ ও সমাজের দায়িত্ব, তারপর ধৈর্য, আর সবশেষে চলা আর বলার আদব।',
+        en: 'Luqman, in the view of most scholars, was not a prophet. He is described as a man given ḥikmah — wisdom — and the Qur’an devotes a passage to what he said to his son, which is a remarkable thing to preserve. What survives is a curriculum: creed first, then parents, then accountability, then prayer and public duty, then patience, and finally manners of walking and speaking.',
+        bn: 'অধিকাংশ আলিমের মতে লুকমান নবী ছিলেন না। কুরআন তাঁকে বলেছে হিকমাহ বা প্রজ্ঞা দেওয়া হয়েছে এমন একজন। আর তিনি ছেলেকে কী বলেছিলেন, তার জন্য কুরআন একটা গোটা অনুচ্ছেদ খরচ করেছে — ধরে রাখার মতো জিনিস বটে। যা টিকে আছে, তা আসলে একটা পাঠ্যসূচি: আগে আকিদা, তারপর বাবা-মা, তারপর জবাবদিহি, তারপর নামাজ ও সমাজের দায়িত্ব, তারপর ধৈর্য, আর সবশেষে চলা আর বলার আদব।',
       },
       {
         en: 'It is worth noticing what he does not spend words on. Nothing about career, nothing about status, nothing about winning arguments. And the passage is interrupted mid-way by Allah Himself adding a section on parents — as though the point about honouring a father could not be left to the father to make.',
@@ -1708,7 +1708,7 @@ const HOPE_CHAPTERS = [
       {
         ref: '9:119',
         note: {
-          en: 'Two commands, and the second is the surprising one: be with the truthful. Not merely be truthful — position yourself among them. The verse treats truthfulness as something maintained by company, which is why honest people are so hard to remain in an environment that is not.',
+          en: 'Two commands, and the second is the surprising one: be with the truthful. Not merely be truthful — position yourself among them. The verse treats truthfulness as something maintained by company, which is why it is so hard to stay honest in an environment that is not.',
           bn: 'দুটো হুকুম, আর অবাক করে দ্বিতীয়টাই: সত্যবাদীদের সঙ্গে থাকো। শুধু সত্যবাদী হও নয় — তাদের মাঝখানে গিয়ে দাঁড়াও। আয়াত ধরেই নিচ্ছে, সত্যবাদিতা টিকে থাকে সঙ্গের জোরে। সে কারণেই অসৎ পরিবেশে সৎ থাকা এত কঠিন।',
         },
       },
@@ -1807,8 +1807,8 @@ const HOPE_CHAPTERS = [
       {
         ref: '48:29',
         note: {
-          en: 'A description of the Companions with two halves — firm against those who fight the faith, merciful among themselves. The mercy is placed where the community is, and it is the second half that most readers apply in the wrong direction.',
-          bn: 'সাহাবিদের বর্ণনার দুটো দিক: যারা দ্বীনের বিরুদ্ধে লড়ে তাদের প্রতি দৃঢ়, আর নিজেদের মধ্যে দয়ালু। দয়াটা রাখা হয়েছে ঠিক সেখানে, যেখানে নিজের সমাজ। অথচ বেশির ভাগ পাঠক এই দ্বিতীয় অংশটাই উল্টো দিকে খাটান।',
+          en: 'A description of the Companions with two halves — firm against the disbelievers, merciful among themselves. The mercy is placed where the community is, and it is the second half that most readers apply in the wrong direction.',
+          bn: 'সাহাবিদের বর্ণনার দুটো দিক: কাফিরদের প্রতি দৃঢ়, আর নিজেদের মধ্যে দয়ালু। দয়াটা রাখা হয়েছে ঠিক সেখানে, যেখানে নিজের সমাজ। অথচ বেশির ভাগ পাঠক এই দ্বিতীয় অংশটাই উল্টো দিকে খাটান।',
         },
       },
       {
@@ -1910,7 +1910,7 @@ const HOPE_CHAPTERS = [
       {
         ref: '7:199',
         note: {
-          en: 'Three words of instruction that scholars called the most comprehensive verse on manners: take what is easily given, enjoin what is good, turn away from the ignorant. The first clause is about expectations of people, and lowering them prevents most conflicts before they start.',
+          en: 'Three instructions that scholars called the most comprehensive verse on manners: take what is easily given, enjoin what is good, turn away from the ignorant. The first clause is about expectations of people, and lowering them prevents most conflicts before they start.',
           bn: 'তিনটে হুকুম, যাকে আলিমরা আদব-আখলাক নিয়ে কুরআনের সবচেয়ে ব্যাপক আয়াত বলেছেন: সহজে যা পাওয়া যায় তা-ই নাও, ভালো কাজের আদেশ দাও, আর মূর্খদের এড়িয়ে চলো। প্রথম কথাটা মানুষের কাছে আপনার প্রত্যাশা নিয়ে। প্রত্যাশা কমালে বেশির ভাগ ঝগড়া শুরুর আগেই থেমে যায়।',
         },
       },
@@ -1974,8 +1974,8 @@ const HOPE_CHAPTERS = [
     dua: {
       ref: '27:19',
       why: {
-        en: "Sulayman (AS), at the head of a kingdom, asks only to be enabled to be grateful. That is what humility sounds like in someone who has everything.",
-        bn: "সুলাইমান (আ) একটা গোটা রাজ্যের মাথায় বসে কেবল চাইছেন, তাঁকে যেন শোকর আদায়ের তাওফিক দেওয়া হয়। যার সবই আছে, তার মুখে বিনয় এমনই শোনায়।",
+        en: "Sulayman (AS), at the head of a kingdom, asks first of all to be enabled to be grateful. That is what humility sounds like in someone who has everything.",
+        bn: "সুলাইমান (আ) একটা গোটা রাজ্যের মাথায় বসে সবার আগে চাইছেন, তাঁকে যেন শোকর আদায়ের তাওফিক দেওয়া হয়। যার সবই আছে, তার মুখে বিনয় এমনই শোনায়।",
       },
     },
     intro: [
@@ -2006,8 +2006,8 @@ const HOPE_CHAPTERS = [
       {
         ref: '53:32',
         note: {
-          en: 'Do not claim purity for yourselves — He knows best who is conscious of Him. The verse arrives immediately after a broad promise of forgiveness, which places the warning exactly where it is needed: on the person who has just been reassured.',
-          bn: 'নিজেদের পবিত্র বলে দাবি কোরো না — কে তাঁকে ভয় করে তা তিনিই ভালো জানেন। কথাটা আসে মাফের এক বড় ওয়াদার ঠিক পরেই। সতর্কতাটা তাই বসেছে ঠিক সেখানে, যেখানে দরকার: যে মানুষটা এইমাত্র ভরসা পেল, তার ওপর।',
+          en: 'Do not claim purity for yourselves — He knows best who is conscious of Him. It comes in the same verse, right after a broad promise of forgiveness, which places the warning exactly where it is needed: on the person who has just been reassured.',
+          bn: 'নিজেদের পবিত্র বলে দাবি কোরো না — কে তাঁকে ভয় করে তা তিনিই ভালো জানেন। কথাটা আসে একই আয়াতে, মাফের এক বড় ওয়াদার ঠিক পরেই। সতর্কতাটা তাই বসেছে ঠিক সেখানে, যেখানে দরকার: যে মানুষটা এইমাত্র ভরসা পেল, তার ওপর।',
         },
       },
       {
@@ -2290,8 +2290,8 @@ const HOPE_CHAPTERS = [
       {
         ref: '39:10',
         note: {
-          en: 'The reward for the patient is bi ghayri ḥisāb — without measure, uncalculated. Every other reward in the Qur’an is a multiple of something. This one is taken off the ledger entirely.',
-          bn: 'সবরকারীদের প্রতিদান বি-গাইরি হিসাব — হিসাব ছাড়া, গুনে শেষ করা যায় না। কুরআনে বাকি সব প্রতিদানই কোনো না কোনো গুণিতক। এইটাকে খাতা থেকেই তুলে নেওয়া হয়েছে।',
+          en: 'The reward for the patient is bi ghayri ḥisāb — without measure, uncalculated. Elsewhere the Qur’an often counts its rewards — tenfold, seven hundredfold. This one is taken off the ledger entirely.',
+          bn: 'সবরকারীদের প্রতিদান বি-গাইরি হিসাব — হিসাব ছাড়া, গুনে শেষ করা যায় না। অন্য অনেক জায়গায় কুরআন প্রতিদান গুনে বলে — দশগুণ, সাতশো গুণ। এইটাকে খাতা থেকেই তুলে নেওয়া হয়েছে।',
         },
       },
       {
@@ -2503,8 +2503,8 @@ const HOPE_CHAPTERS = [
       {
         ref: '49:9',
         note: {
-          en: 'A procedure for a fight between two believing parties: reconcile them; if one oppresses, act against the oppression; when it stops, reconcile with justice. The instruction never becomes “pick your side” — the goal stays reconciliation throughout.',
-          bn: 'দুই মুমিন দলের সংঘর্ষে কী করতে হবে: তাদের মধ্যে মিটমাট করে দাও; একদল বাড়াবাড়ি করলে সেই বাড়াবাড়ির বিরুদ্ধে দাঁড়াও; থেমে গেলে ইনসাফের সঙ্গে মিটমাট করে দাও। হুকুমটা কখনোই “পক্ষ বেছে নাও” হয়ে ওঠে না। শুরু থেকে শেষ পর্যন্ত লক্ষ্য একটাই — মিটমাট।',
+          en: 'A procedure for a fight between two believing parties: reconcile them; if one oppresses the other, fight the one that oppresses until it returns to Allah’s command; then reconcile with justice. The instruction never becomes “pick your side” — the goal stays reconciliation throughout.',
+          bn: 'দুই মুমিন দলের সংঘর্ষে কী করতে হবে: তাদের মধ্যে মিটমাট করে দাও; একদল অন্য দলের ওপর বাড়াবাড়ি করলে বাড়াবাড়িকারী দলের বিরুদ্ধে লড়ো, যতক্ষণ না তারা আল্লাহর হুকুমে ফিরে আসে; ফিরে এলে ইনসাফের সঙ্গে মিটমাট করে দাও। হুকুমটা কখনোই “পক্ষ বেছে নাও” হয়ে ওঠে না। শুরু থেকে শেষ পর্যন্ত লক্ষ্য একটাই — মিটমাট।',
         },
       },
       {
@@ -2604,16 +2604,16 @@ const HOPE_CHAPTERS = [
       {
         src: 'Sahih al-Bukhari 9, Sahih Muslim 35',
         text: {
-          en: 'The Prophet ﷺ said: “Faith has sixty-odd branches. The highest of them is saying lā ilāha illā Allāh, and the lowest is removing something harmful from the road. And modesty is a branch of faith.”',
-          bn: 'নবী ﷺ বলেছেন: “ঈমানের ষাটের অধিক শাখা আছে। তার সর্বোচ্চটি হলো লা ইলাহা ইল্লাল্লাহ বলা, আর সর্বনিম্নটি হলো রাস্তা থেকে কষ্টদায়ক জিনিস সরানো। আর লজ্জা ঈমানের একটি শাখা।”',
+          en: 'The Prophet ﷺ said: “Faith has seventy-odd or sixty-odd branches. The highest of them is saying lā ilāha illā Allāh, and the lowest is removing something harmful from the road. And modesty is a branch of faith.”',
+          bn: 'নবী ﷺ বলেছেন: “ঈমানের সত্তরের অধিক কিংবা ষাটের অধিক শাখা আছে। তার সর্বোচ্চটি হলো লা ইলাহা ইল্লাল্লাহ বলা, আর সর্বনিম্নটি হলো রাস্তা থেকে কষ্টদায়ক জিনিস সরানো। আর লজ্জা ঈমানের একটি শাখা।”',
         },
         note: {
-          en: 'The two poles are named and then ḥayā’ is added separately, without a rank. It is the only branch singled out by name, which is how the scholars read it as running through all of them.',
-          bn: 'দুই প্রান্তের নাম বলার পর হায়াকে আলাদা করে যোগ করা হয়েছে, কোনো ক্রম না দিয়েই। ঈমানের শাখাগুলোর মধ্যে এটারই কেবল নাম ধরে উল্লেখ। সে কারণেই আলিমরা একে দেখেছেন এমন জিনিস হিসেবে, যা সব শাখার ভেতর দিয়েই বয়ে যায়।',
+          en: 'The two poles are named and then ḥayā’ is added separately, without a rank. Apart from the two poles, it is the only branch singled out by name, which is how the scholars read it as running through all of them.',
+          bn: 'দুই প্রান্তের নাম বলার পর হায়াকে আলাদা করে যোগ করা হয়েছে, কোনো ক্রম না দিয়েই। দুই প্রান্ত বাদে ঈমানের শাখাগুলোর মধ্যে কেবল এটারই নাম ধরে উল্লেখ। সে কারণেই আলিমরা একে দেখেছেন এমন জিনিস হিসেবে, যা সব শাখার ভেতর দিয়েই বয়ে যায়।',
         },
       },
       {
-        src: 'Sahih al-Bukhari 3483',
+        src: 'Sahih al-Bukhari 6120',
         text: {
           en: 'The Prophet ﷺ said: “Among the words people received from the earliest prophethood is: if you feel no shame, do as you wish.”',
           bn: 'নবী ﷺ বলেছেন: “প্রথম নবুয়তের বাণী থেকে মানুষ যা পেয়েছে তার একটি হলো: যদি তোমার লজ্জা না থাকে, তবে যা ইচ্ছা তা-ই করো।”',
@@ -2705,8 +2705,8 @@ const HOPE_CHAPTERS = [
       {
         ref: '76:8-9',
         note: {
-          en: 'They give food they themselves love to the needy, the orphan and the captive — and then say aloud that they want no reward or thanks. The captive is included, which means the food goes to someone with no claim on them at all.',
-          bn: 'নিজেদের প্রিয় খাবারটাই তাঁরা তুলে দেন অভাবী, এতিম আর বন্দির হাতে। তারপর মুখে বলেই দেন, তাঁরা কোনো প্রতিদান চান না, ধন্যবাদও চান না। তালিকায় বন্দিও আছে — অর্থাৎ খাবারটা যাচ্ছে এমন একজনের কাছে, যার তাঁদের ওপর কোনো দাবিই নেই।',
+          en: 'They give food they themselves love to the needy, the orphan and the captive — and then say that they want no reward or thanks. The captive is included, which means the food goes to someone with no claim on them at all.',
+          bn: 'নিজেদের প্রিয় খাবারটাই তাঁরা তুলে দেন অভাবী, এতিম আর বন্দির হাতে। তারপর বলেন, তাঁরা কোনো প্রতিদান চান না, ধন্যবাদও চান না। তালিকায় বন্দিও আছে — অর্থাৎ খাবারটা যাচ্ছে এমন একজনের কাছে, যার তাঁদের ওপর কোনো দাবিই নেই।',
         },
       },
     ],
@@ -2780,8 +2780,8 @@ const HOPE_CHAPTERS = [
       {
         ref: '68:4',
         note: {
-          en: 'Revealed in the earliest Makkan period, when he was being called mad. The answer given is not about his sanity but about his character — and khuluq ‘aẓīm is the only thing in the Qur’an described as ‘aẓīm and belonging to a human being.',
-          bn: 'নাজিল হয়েছে মক্কার একেবারে গোড়ার দিকে, যখন তাঁকে পাগল বলা হচ্ছিল। জবাবটা কিন্তু এল তাঁর মাথা ঠিক আছে কি না তা নিয়ে নয়, তাঁর চরিত্র নিয়ে। আর খুলুকুন আজিম — কুরআনে একমাত্র এই জিনিসটাকেই আজিম বলা হয়েছে, যা একজন মানুষের।',
+          en: 'Revealed in the earliest Makkan period, when he was being called mad. The answer given is not about his sanity but about his character — and the word chosen for that character is ‘aẓīm: khuluq ‘aẓīm, a tremendous character.',
+          bn: 'নাজিল হয়েছে মক্কার একেবারে গোড়ার দিকে, যখন তাঁকে পাগল বলা হচ্ছিল। জবাবটা কিন্তু এল তাঁর মাথা ঠিক আছে কি না তা নিয়ে নয়, তাঁর চরিত্র নিয়ে। আর সেই চরিত্রের জন্য বেছে নেওয়া শব্দটা আজিম: খুলুকুন আজিম, মহান চরিত্র।',
         },
       },
       {
@@ -2922,7 +2922,7 @@ const HOPE_CHAPTERS = [
         },
       },
       {
-        src: 'Sahih Muslim 2750',
+        src: 'Sahih Muslim 2702',
         text: {
           en: 'The Prophet ﷺ said: “Sometimes there is a veil upon my heart, and I ask Allah for forgiveness a hundred times a day.”',
           bn: 'নবী ﷺ বলেছেন: “কখনো কখনো আমার অন্তরের উপর একটি আবরণ আসে, আর আমি দিনে একশ বার আল্লাহর কাছে ক্ষমা চাই।”',
@@ -2939,8 +2939,8 @@ const HOPE_CHAPTERS = [
         bn: 'ভেতরে কিছু না লাগলেও আমলটা চালিয়ে যান। ৫৭:১৬ অন্তর নরম করার উপায় বলেছে জিকির আর ওহিকে। অর্থাৎ ভেতরে ঢোকানোটা আগে, অনুভূতি তার পরে।',
       },
       {
-        en: 'Say the du‘a of the hadith — yā muqallib al-qulūb, thabbit qalbī ‘alā dīnik — when you notice the dullness rather than waiting for it to pass.',
-        bn: 'মনটা ফাঁকা লাগছে টের পেলে কেটে যাওয়ার অপেক্ষা না করে হাদিসের দোয়াটা পড়ুন: ইয়া মুকাল্লিবাল কুলূব, সাব্বিত কালবী আলা দীনিক।',
+        en: 'Say the du‘a of the hadith — allāhumma muṣarrif al-qulūb, ṣarrif qulūbanā ‘alā ṭā‘atik — when you notice the dullness rather than waiting for it to pass.',
+        bn: 'মনটা ফাঁকা লাগছে টের পেলে কেটে যাওয়ার অপেক্ষা না করে হাদিসের দোয়াটা পড়ুন: আল্লাহুম্মা মুসাররিফাল কুলূব, সাররিফ কুলূবানা আলা তাআতিক।',
       },
       {
         en: 'Change one input for a week: less noise before sleep, ten minutes of recitation with the meaning open. Hardness is usually the result of an intake, not of a decision.',
@@ -2961,8 +2961,8 @@ const HOPE_CHAPTERS = [
     dua: {
       ref: '2:286',
       why: {
-        en: 'Our Lord, do not take us to task if we forget or make a mistake. The Prophet ﷺ said that after each line of this du‘a Allah answered: “I have done so.”',
-        bn: 'হে আমাদের রব, ভুলে গেলে বা ভুল করলে আমাদের পাকড়াও করবেন না। নবী ﷺ বলেছেন, এই দোয়ার প্রতিটি কথার পরেই আল্লাহ জবাব দিয়েছেন: “দিলাম।”',
+        en: 'Our Lord, do not take us to task if we forget or make a mistake. Sahih Muslim reports that after each line of this du‘a Allah answered: “I have done so.”',
+        bn: 'হে আমাদের রব, ভুলে গেলে বা ভুল করলে আমাদের পাকড়াও করবেন না। সহিহ মুসলিমের বর্ণনায় আছে, এই দোয়ার প্রতিটি কথার পরেই আল্লাহ জবাব দিয়েছেন: “দিলাম।”',
       },
     },
     intro: [
@@ -2971,8 +2971,8 @@ const HOPE_CHAPTERS = [
         bn: 'একদল ধার্মিক মানুষ এখানে ভীষণ কষ্ট পান। আল্লাহ সম্পর্কে মনে এসে পড়া বাজে চিন্তা, নামাজের মাঝে কুৎসিত দৃশ্য, না ডাকতেই হাজির হওয়া সন্দেহ — যা শুনে নিজেরই কুফরি মনে হয়। কয়েকজন সাহাবি ঠিক এই নিয়েই নবী ﷺ-এর কাছে এসে বলেছিলেন, তাঁরা নিজেদের ভেতরে এমন কিছু পান যা মুখে আনতেও ভয় লাগে। নবী ﷺ চিন্তাটা নিয়ে সান্ত্বনা দেননি। তিনি বদলে দিয়েছিলেন এই চিন্তা মনে আসার মানেটাই।',
       },
       {
-        en: 'The Qur’an’s framing helps. Man was created weak. The soul is described by Yusuf (AS) himself as persistently inclining toward evil. Nothing in the Book expects a mind that produces only good material. What it asks about is what you do the moment you notice.',
-        bn: 'কুরআন যেভাবে কথাটা বলে, তাতেই স্বস্তি মেলে। মানুষকে দুর্বল করেই সৃষ্টি করা হয়েছে। ইউসুফ (আ) নিজের মুখেই নফসকে বলছেন মন্দের দিকে বারবার প্ররোচনাদানকারী। কুরআনের কোথাও এমন মন আশা করা হয়নি যার ভেতর থেকে কেবল ভালো জিনিসই বেরোয়। জানতে চাওয়া হয়েছে একটাই কথা — টের পাওয়ার মুহূর্তে আপনি কী করেন।',
+        en: 'The Qur’an’s framing helps. Man was created weak. The soul is described in 12:53 as persistently inclining toward evil. Nothing in the Book expects a mind that produces only good material. What it asks about is what you do the moment you notice.',
+        bn: 'কুরআন যেভাবে কথাটা বলে, তাতেই স্বস্তি মেলে। মানুষকে দুর্বল করেই সৃষ্টি করা হয়েছে। ১২:৫৩ আয়াতে নফসকে বলা হয়েছে মন্দের দিকে বারবার প্ররোচনাদানকারী। কুরআনের কোথাও এমন মন আশা করা হয়নি যার ভেতর থেকে কেবল ভালো জিনিসই বেরোয়। জানতে চাওয়া হয়েছে একটাই কথা — টের পাওয়ার মুহূর্তে আপনি কী করেন।',
       },
     ],
     verses: [
@@ -2986,8 +2986,8 @@ const HOPE_CHAPTERS = [
       {
         ref: '12:53',
         note: {
-          en: 'Spoken in the Qur’an by a prophet: I do not declare my own soul free of blame, for the soul is a persistent enjoiner of evil. If this is Yusuf’s (AS) description of his own nafs, yours producing similar material is not evidence against you.',
-          bn: 'কথাটা কুরআনে একজন নবীর মুখে: আমি নিজের নফসকে নির্দোষ বলছি না, কারণ নফস বারবার মন্দের দিকে টানে। ইউসুফ (আ) যদি নিজের নফসের ব্যাপারে এ কথা বলে থাকেন, তবে আপনার নফস থেকেও একই জিনিস বেরোনো আপনার বিরুদ্ধে কোনো প্রমাণ নয়।',
+          en: 'Spoken in the Qur’an at 12:53: I do not declare my own soul free of blame, for the soul is a persistent enjoiner of evil. At-Tabari reads these as the words of Yusuf (AS), Ibn Kathir as those of al-Aziz’s wife; either way, the Qur’an says this of the human soul, so yours producing similar material is not evidence against you.',
+          bn: 'কথাটা কুরআনে, ১২:৫৩ আয়াতে: আমি নিজের নফসকে নির্দোষ বলছি না, কারণ নফস বারবার মন্দের দিকে টানে। তাবারির মতে কথাটা ইউসুফ (আ)-এর, ইবনে কাসিরের মতে আযিযের স্ত্রীর। যার কথাই হোক, কুরআন মানুষের নফস সম্পর্কে এটা বলছে; তাই আপনার নফস থেকেও একই জিনিস বেরোনো আপনার বিরুদ্ধে কোনো প্রমাণ নয়।',
         },
       },
       {
@@ -3063,8 +3063,8 @@ const HOPE_CHAPTERS = [
     },
     intro: [
       {
-        en: 'Almost every passage in this section that describes people Allah is pleased with mentions the night. Their sides part from their beds. They sleep little of it. In the hours before dawn they seek forgiveness. The servants of the Most Merciful spend it prostrating and standing. It is the single most repeated detail in the Qur’an’s portraits of the righteous.',
-        bn: 'আল্লাহ যাঁদের প্রতি সন্তুষ্ট, এই অংশে তাঁদের প্রায় প্রতিটি বর্ণনাতেই রাতের কথা আছে। তাঁদের পাঁজর বিছানা ছেড়ে ওঠে। রাতের সামান্য অংশই তাঁরা ঘুমান। ভোরের আগের প্রহরে মাফ চান। রহমানের বান্দারা রাত কাটান সিজদায় আর দাঁড়িয়ে। কুরআনে নেক বান্দার ছবিতে এই একটা কথাই সবচেয়ে বেশিবার ফিরে আসে।',
+        en: 'Almost every passage in this section that describes people Allah is pleased with mentions the night. Their sides part from their beds. They sleep little of it. In the hours before dawn they seek forgiveness. The servants of the Most Merciful spend it prostrating and standing. It is one of the most repeated details in the Qur’an’s portraits of the righteous.',
+        bn: 'আল্লাহ যাঁদের প্রতি সন্তুষ্ট, এই অংশে তাঁদের প্রায় প্রতিটি বর্ণনাতেই রাতের কথা আছে। তাঁদের পাঁজর বিছানা ছেড়ে ওঠে। রাতের সামান্য অংশই তাঁরা ঘুমান। ভোরের আগের প্রহরে মাফ চান। রহমানের বান্দারা রাত কাটান সিজদায় আর দাঁড়িয়ে। কুরআনে নেক বান্দার ছবিতে যে কথাগুলো সবচেয়ে বেশিবার ফিরে আসে, এটা তার একটা।',
       },
       {
         en: 'The reason given is practical rather than mystical: the night is heavier on the self and straighter in speech, because nothing else is competing for the attention. And there is a mercy in the arrangement — nobody sees it. A person whose daytime religion has become performance can rebuild it at two in the morning, where performance has no audience.',
@@ -3082,15 +3082,15 @@ const HOPE_CHAPTERS = [
       {
         ref: '73:1-6',
         note: {
-          en: 'The earliest command, and it is generous from the start: stand the night, except a little — half, or less, or more. Then the reason: the night rising is heavier in tread and straighter in speech. It gives the range before it gives the argument.',
-          bn: 'সবচেয়ে পুরনো হুকুম, আর গোড়াতেই ছাড় দেওয়া: রাতে দাঁড়াও, সামান্য অংশ বাদে — অর্ধেক, বা তার কম, বা বেশি। তারপর কারণ: রাতে ওঠা পায়ে ভারী পড়ে আর কথায় সোজা হয়। যুক্তি দেওয়ার আগেই সীমাটা আলগা করে দেওয়া হয়েছে।',
+          en: 'One of the earliest commands, and it is generous from the start: stand the night, except a little — half, or less, or more. Then the reason: the night rising is heavier in tread and straighter in speech. It gives the range before it gives the argument.',
+          bn: 'একেবারে প্রথম দিকের হুকুমগুলোর একটা, আর গোড়াতেই ছাড় দেওয়া: রাতে দাঁড়াও, সামান্য অংশ বাদে — অর্ধেক, বা তার কম, বা বেশি। তারপর কারণ: রাতে ওঠা পায়ে ভারী পড়ে আর কথায় সোজা হয়। যুক্তি দেওয়ার আগেই সীমাটা আলগা করে দেওয়া হয়েছে।',
         },
       },
       {
         ref: '32:16',
         note: {
-          en: 'Their sides part from their beds — the physical detail of getting up is what the verse chooses to record. And they call on Him in fear and hope, the same pairing as the chapter on balance in this section.',
-          bn: 'তাঁদের পাঁজর বিছানা ছেড়ে ওঠে। বিছানা ছাড়ার ওই শারীরিক ছবিটাই আয়াত লিখে রাখতে বেছে নিয়েছে। আর তাঁরা তাঁকে ডাকেন ভয় আর আশা নিয়ে — এই অংশের ভারসাম্যের অধ্যায়ে যে জোড়াটার কথা আছে, সেই একই জোড়া।',
+          en: 'Their sides part from their beds — the physical detail of getting up is what the verse chooses to record. And they call on Him in fear and hope, the same pairing as the note on hope at the foot of the main page.',
+          bn: 'তাঁদের পাঁজর বিছানা ছেড়ে ওঠে। বিছানা ছাড়ার ওই শারীরিক ছবিটাই আয়াত লিখে রাখতে বেছে নিয়েছে। আর তাঁরা তাঁকে ডাকেন ভয় আর আশা নিয়ে — মূল পাতার নিচে ‘আশা নিয়ে একটা কথা’-য় যে জোড়াটার কথা আছে, সেই একই জোড়া।',
         },
       },
       {
@@ -3185,8 +3185,8 @@ const HOPE_CHAPTERS = [
       {
         ref: '9:118',
         note: {
-          en: 'The three who stayed behind from Tabuk. Their names were not erased from the record — the Qur’an keeps the failure and the forgiveness in the same verse, permanently, which is its own kind of dignity.',
-          bn: 'তাবুক থেকে পিছিয়ে থাকা সেই তিনজন। তাঁদের নাম খাতা থেকে মুছে ফেলা হয়নি। কুরআন ব্যর্থতা আর মাফ — দুটোকেই এক আয়াতে চিরকালের জন্য রেখে দিয়েছে। এটাও একরকম সম্মান।',
+          en: 'The three who stayed behind from Tabuk. Their story was not erased from the record — the Qur’an keeps the failure and the forgiveness in the same verse, permanently, which is its own kind of dignity.',
+          bn: 'তাবুক থেকে পিছিয়ে থাকা সেই তিনজন। তাঁদের ঘটনা খাতা থেকে মুছে ফেলা হয়নি। কুরআন ব্যর্থতা আর মাফ — দুটোকেই এক আয়াতে চিরকালের জন্য রেখে দিয়েছে। এটাও একরকম সম্মান।',
         },
       },
       {
@@ -3346,8 +3346,8 @@ const HOPE_CHAPTERS = [
     emoji: '\u{1F517}',
     title: { en: 'Keeping Ties of Kinship', bn: 'আত্মীয়তার বন্ধন রক্ষা' },
     tagline: {
-      en: 'Ar-raḥim, the womb, shares its root with ar-Raḥmān. Cutting it is the one social sin the Qur’an calls a curse.',
-      bn: 'আর-রাহিম মানে মায়ের গর্ভ, আর তা আর-রহমান শব্দেরই এক মূল থেকে আসা। সমাজের গুনাহগুলোর মধ্যে কেবল এটি ছিঁড়ে ফেলাকেই কুরআন লানত বলেছে।',
+      en: 'Ar-raḥim, the womb, shares its root with ar-Raḥmān. Cutting it is one of the few social sins the Qur’an ties to a curse.',
+      bn: 'আর-রাহিম মানে মায়ের গর্ভ, আর তা আর-রহমান শব্দেরই এক মূল থেকে আসা। সমাজের যে অল্প কয়টি গুনাহর সঙ্গে কুরআন লানত জুড়ে দিয়েছে, এটি ছিঁড়ে ফেলা তার একটি।',
     },
     dua: {
       ref: '14:41',
@@ -3377,15 +3377,15 @@ const HOPE_CHAPTERS = [
       {
         ref: '13:21',
         note: {
-          en: 'Listed among the qualities of those who receive the good end: those who join what Allah has commanded to be joined. It sits between fearing their Lord and dreading a bad reckoning — company that indicates its weight.',
-          bn: 'যাঁরা উত্তম পরিণাম পান, তাঁদের গুণের তালিকায় এটাও আছে: যারা আল্লাহ যা জোড়া রাখতে বলেছেন তা জোড়া রাখে। কথাটা বসানো রবকে ভয় করা আর মন্দ হিসাবের আশঙ্কার মাঝখানে। এই সঙ্গটাই বুঝিয়ে দেয় বিষয়টার ভার কতখানি।',
+          en: 'Listed among the qualities of those who receive the good end: those who join what Allah has commanded to be joined. It is followed at once by fearing their Lord and dreading a bad reckoning — company that indicates its weight.',
+          bn: 'যাঁরা উত্তম পরিণাম পান, তাঁদের গুণের তালিকায় এটাও আছে: যারা আল্লাহ যা জোড়া রাখতে বলেছেন তা জোড়া রাখে। কথাটার ঠিক পরেই আসে রবকে ভয় করা আর মন্দ হিসাবের আশঙ্কা। এই সঙ্গটাই বুঝিয়ে দেয় বিষয়টার ভার কতখানি।',
         },
       },
       {
         ref: '47:22-23',
         note: {
-          en: 'The severest wording in the Qur’an on a social matter: would you, if you turned away, spread corruption and sever your ties of kinship? Those are the ones Allah has cursed, deafened and blinded. Cutting family is put in the same sentence as corruption in the land.',
-          bn: 'সামাজিক কোনো বিষয়ে কুরআনের সবচেয়ে কড়া ভাষা এখানেই: তোমরা কি মুখ ফিরিয়ে নিলে জমিনে বিপর্যয় ঘটাবে আর আত্মীয়তার বন্ধন ছিঁড়ে ফেলবে? এরাই তারা, যাদের আল্লাহ লানত দিয়েছেন, বধির করেছেন, অন্ধ করেছেন। পরিবার ছিঁড়ে ফেলাকে বসানো হলো জমিনে বিপর্যয় সৃষ্টির সঙ্গে একই বাক্যে।',
+          en: 'Some of the severest wording in the Qur’an on a social matter: would you, if you turned away, spread corruption and sever your ties of kinship? Those are the ones Allah has cursed, deafened and blinded. Cutting family is put in the same sentence as corruption in the land.',
+          bn: 'সামাজিক বিষয়ে কুরআনের সবচেয়ে কড়া ভাষার কিছুটা এখানেই: তোমরা কি মুখ ফিরিয়ে নিলে জমিনে বিপর্যয় ঘটাবে আর আত্মীয়তার বন্ধন ছিঁড়ে ফেলবে? এরাই তারা, যাদের আল্লাহ লানত দিয়েছেন, বধির করেছেন, অন্ধ করেছেন। পরিবার ছিঁড়ে ফেলাকে বসানো হলো জমিনে বিপর্যয় সৃষ্টির সঙ্গে একই বাক্যে।',
         },
       },
       {
@@ -3580,8 +3580,8 @@ const HOPE_CHAPTERS = [
       {
         ref: '35:28',
         note: {
-          en: 'The verse lists the colours of mountains, people and animals, then concludes: only those of His servants who have knowledge fear Allah. Fear is presented as the result of looking carefully, not as an alternative to it.',
-          bn: 'আয়াতটা আগে বলে পাহাড়ের রং, মানুষের রং, পশুর রঙের কথা। তারপর শেষ করে এই বলে: তাঁর বান্দাদের মধ্যে আলিমরাই আল্লাহকে ভয় করে। আল্লাহভীতি এখানে মনোযোগ দিয়ে দেখারই ফল, দেখার বদলে অন্য কিছু নয়।',
+          en: 'The passage lists the colours of mountains, people and animals, then concludes: only those of His servants who have knowledge fear Allah. Fear is presented as the result of looking carefully, not as an alternative to it.',
+          bn: 'আয়াত দুটো আগে বলে পাহাড়ের রং, মানুষের রং, পশুর রঙের কথা। তারপর শেষ করে এই বলে: তাঁর বান্দাদের মধ্যে আলিমরাই আল্লাহকে ভয় করে। আল্লাহভীতি এখানে মনোযোগ দিয়ে দেখারই ফল, দেখার বদলে অন্য কিছু নয়।',
         },
       },
       {

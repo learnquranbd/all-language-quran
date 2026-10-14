@@ -906,7 +906,7 @@ const KIDS_KALIMAS = [
     arabic: 'لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ',
     translit: "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir",
     meaning_en: 'There is no god but Allah, alone, without partner. His is the kingdom and His is all praise, and He has power over everything.',
-    src: 'Bukhari 6404'
+    src: 'Bukhari 6403'
   },
   {
     name_en: '5th Kalima — Astaghfar (Seeking Forgiveness)',
@@ -965,8 +965,8 @@ const KIDS_STORIES = [
     id: 'baby-ibrahim-cave',
     title:   { en: 'Baby Ibrahim in the Cave', bn: 'শিশু ইব্রাহীম গুহায়' },
     summary: {
-      en: "When Prophet Ibrahim was born, the tyrant king Nimrod had ordered every baby boy killed, fearing a prophet would end his rule. Ibrahim's mother hid him in a small cave outside town. Inside the dark cave, the tiny baby was alone — yet Allah was with him. Ibrahim grew healthy by Allah's miracle. When he emerged, he looked at the stars, the moon, and the sun, searching for the One True God. He realised they all set and disappeared, so none could be Allah. With a clear heart he declared: 'I have turned my face to the Creator of the heavens and the earth.' Allah had guided and protected him from birth.",
-      bn: "নবী ইব্রাহীম আলাইহিস সালাম যখন জন্মালেন, জালিম রাজা নমরূদ প্রতিটি পুত্রশিশু হত্যার আদেশ দিয়েছিল। ইব্রাহীমের মা তাঁকে একটি ছোট্ট গুহায় লুকিয়ে রাখলেন। অন্ধকার গুহায় শিশু একা — কিন্তু আল্লাহ তার সাথে ছিলেন। আল্লাহর মুজিযায় তিনি সুস্থ-সবল বড় হলেন। গুহা থেকে বের হয়ে তারা, চাঁদ ও সূর্য দেখলেন — সত্যিকারের স্রষ্টাকে খুঁজছিলেন। সব কিছু অস্ত যায় দেখে বললেন: 'আমি মুখ ফেরালাম সেই সত্তার দিকে যিনি আকাশ ও পৃথিবী সৃষ্টি করেছেন।' আল্লাহ জন্ম থেকেই তাঁকে হেদায়েত ও রক্ষা করেছিলেন।"
+      en: "It is narrated in the stories of the prophets — not in the Quran or the authentic hadith — that when Prophet Ibrahim was born, the tyrant king Nimrod had ordered baby boys killed, and that Ibrahim's mother hid him in a small cave outside town, where Allah kept him safe. Only Allah knows the details of his childhood. What the Quran tells us is this: Ibrahim looked at a star, then the moon, then the sun, and told his people that each of them sets and disappears, so none of them could be Allah. With a clear heart he declared: 'I have turned my face to the Creator of the heavens and the earth.' Allah had guided him to the truth.",
+      bn: "নবীদের কাহিনিতে বর্ণিত আছে — কুরআন বা সহিহ হাদিসে নয় — যে নবী ইব্রাহীম আলাইহিস সালাম যখন জন্মালেন, জালিম রাজা নমরূদ পুত্রশিশুদের হত্যার আদেশ দিয়েছিল, আর ইব্রাহীমের মা তাঁকে শহরের বাইরে একটি ছোট্ট গুহায় লুকিয়ে রেখেছিলেন, যেখানে আল্লাহ তাঁকে নিরাপদ রাখলেন। তাঁর শৈশবের খুঁটিনাটি আল্লাহই ভালো জানেন। কুরআন আমাদের যা বলে তা হলো: ইব্রাহীম একটি তারা, তারপর চাঁদ, তারপর সূর্যের দিকে তাকালেন এবং তাঁর জাতিকে বললেন — এদের প্রতিটিই অস্ত যায়, হারিয়ে যায়, তাই কোনোটিই আল্লাহ হতে পারে না। পরিষ্কার হৃদয়ে তিনি ঘোষণা করলেন: 'আমি মুখ ফেরালাম সেই সত্তার দিকে যিনি আকাশ ও পৃথিবী সৃষ্টি করেছেন।' আল্লাহ তাঁকে সত্যের পথ দেখিয়েছিলেন।"
     },
     moral: {
       en: "Allah is always with those who seek Him sincerely. He protects His beloved ones even in the darkest places.",
@@ -992,8 +992,8 @@ const KIDS_STORIES = [
     id: 'bilal-first-adhan',
     title:   { en: "Bilal's First Adhan", bn: 'বিলালের প্রথম আজান' },
     summary: {
-      en: "Before the adhan, there was no way to call people to prayer at the right time. The Companions talked about it, and one night a Companion named Abdullah ibn Zayd (RA) saw the words of the adhan in a dream. When he told the Prophet \u{FDFA}, Umar (RA) said he had seen the very same dream. The Prophet \u{FDFA} said it was a true dream from Allah, and approved those words as the call to prayer. Then the Prophet \u{FDFA} chose Bilal ibn Rabah — a freed slave with a beautiful, powerful voice — as the first muezzin in Islam. Bilal climbed onto the roof of the mosque in Madinah, turned toward the qibla, and called out in a ringing voice: 'Allahu Akbar! Allahu Akbar!' His voice soared above the houses. People stopped and hurried to the mosque. Tears of joy ran down the Companions' faces. The same Bilal who had been tortured for believing in Allah was now calling the whole city to worship. That is the power of faith and patience.",
-      bn: "আজানের আগে নির্দিষ্ট সময়ে মানুষকে নামাজে ডাকার উপায় ছিল না। সাহাবারা এ নিয়ে আলোচনা করলেন, আর এক রাতে আব্দুল্লাহ ইবনে যায়েদ (রাঃ) নামের একজন সাহাবি স্বপ্নে আজানের শব্দগুলো দেখলেন। তিনি নবী \u{FDFA}-কে জানালে উমর (রাঃ) বললেন, তিনিও ঠিক একই স্বপ্ন দেখেছেন। নবী \u{FDFA} বললেন এটি আল্লাহর পক্ষ থেকে সত্য স্বপ্ন, এবং সেই শব্দগুলোকেই আজান হিসেবে অনুমোদন করলেন। এরপর নবী \u{FDFA} বিলাল ইবনে রাবাহকে বেছে নিলেন — একজন মুক্তিপ্রাপ্ত ক্রীতদাস, যার কণ্ঠ ছিল সুন্দর ও শক্তিশালী — ইসলামের প্রথম মুয়াজ্জিন হিসেবে। বিলাল মদিনার মসজিদের ছাদে উঠলেন, কিবলার দিকে মুখ করে ডাক দিলেন: 'আল্লাহু আকবার! আল্লাহু আকবার!' কণ্ঠস্বর শহরের উপর দিয়ে ছড়িয়ে গেল। মানুষেরা কাজ থামিয়ে মসজিদে ছুটল। সাহাবারা আনন্দে কাঁদলেন। যে বিলাল এক সময় ঈমানের জন্য নির্যাতিত হয়েছিলেন, তিনিই এখন পুরো শহরকে আল্লাহর ইবাদতে ডাকছেন।"
+      en: "Before the adhan, there was no way to call people to prayer at the right time. The Companions talked about it, and one night a Companion named Abdullah ibn Zayd (RA) saw the words of the adhan in a dream. When he told the Prophet \u{FDFA}, Umar (RA) said he had seen the very same dream. The Prophet \u{FDFA} said it was a true dream from Allah, and approved those words as the call to prayer. Then the Prophet \u{FDFA} chose Bilal ibn Rabah — a freed slave with a beautiful, powerful voice — as the first muezzin in Islam. Bilal climbed onto a high rooftop beside the mosque in Madinah, turned toward the qibla, and called out in a ringing voice: 'Allahu Akbar! Allahu Akbar!' His voice soared above the houses. People stopped and hurried to the mosque. Tears of joy ran down the Companions' faces. The same Bilal who had been tortured for believing in Allah was now calling the whole city to worship. That is the power of faith and patience.",
+      bn: "আজানের আগে নির্দিষ্ট সময়ে মানুষকে নামাজে ডাকার উপায় ছিল না। সাহাবারা এ নিয়ে আলোচনা করলেন, আর এক রাতে আব্দুল্লাহ ইবনে যায়েদ (রাঃ) নামের একজন সাহাবি স্বপ্নে আজানের শব্দগুলো দেখলেন। তিনি নবী \u{FDFA}-কে জানালে উমর (রাঃ) বললেন, তিনিও ঠিক একই স্বপ্ন দেখেছেন। নবী \u{FDFA} বললেন এটি আল্লাহর পক্ষ থেকে সত্য স্বপ্ন, এবং সেই শব্দগুলোকেই আজান হিসেবে অনুমোদন করলেন। এরপর নবী \u{FDFA} বিলাল ইবনে রাবাহকে বেছে নিলেন — একজন মুক্তিপ্রাপ্ত ক্রীতদাস, যার কণ্ঠ ছিল সুন্দর ও শক্তিশালী — ইসলামের প্রথম মুয়াজ্জিন হিসেবে। বিলাল মদিনার মসজিদের পাশের এক উঁচু ছাদে উঠলেন, কিবলার দিকে মুখ করে ডাক দিলেন: 'আল্লাহু আকবার! আল্লাহু আকবার!' কণ্ঠস্বর শহরের উপর দিয়ে ছড়িয়ে গেল। মানুষেরা কাজ থামিয়ে মসজিদে ছুটল। সাহাবারা আনন্দে কাঁদলেন। যে বিলাল এক সময় ঈমানের জন্য নির্যাতিত হয়েছিলেন, তিনিই এখন পুরো শহরকে আল্লাহর ইবাদতে ডাকছেন।"
     },
     moral: {
       en: "Patience through hardship leads to great honour. Never give up on your faith.",
@@ -1005,43 +1005,43 @@ const KIDS_STORIES = [
     id: 'anas-serving-prophet',
     title:   { en: 'Anas ibn Malik: Ten Years of Loving Service', bn: 'আনাস ইবনে মালিক: দশ বছরের সেবা' },
     summary: {
-      en: "When Anas ibn Malik was about ten years old, his mother brought him to the Prophet \u{FDFA} and said: 'Every man and woman has brought you a gift. I have only my son — please let him serve you.' Anas served the Prophet \u{FDFA} for ten full years in Madinah. In all those years, the Prophet \u{FDFA} never once said 'uff' to Anas, never scolded him, and never asked 'Why did you do that?' or 'Why did you not do it?' Anas later said: 'I served the best person who ever walked the earth, and he was the kindest master I could imagine.' The Prophet \u{FDFA} made du'a for Anas, asking Allah to bless him with wealth, children, and a long life — and all of it was answered.",
-      bn: "আনাস ইবনে মালিক যখন প্রায় দশ বছর বয়সী, তখন তার মা তাকে নবী \u{FDFA}-এর কাছে নিয়ে বললেন: 'সবাই আপনার জন্য উপহার এনেছেন। আমার কাছে শুধু আমার ছেলে আছে — দয়া করে তাকে সেবায় নিন।' আনাস মদিনায় নবী \u{FDFA}-এর সেবা করলেন পুরো দশ বছর। সেই দশ বছরে নবী \u{FDFA} কখনও 'উফ' বলেননি, কখনও বকাঝকা করেননি। আনাস পরে বলেছিলেন: 'আমি পৃথিবীর সর্বশ্রেষ্ঠ মানুষের সেবা করেছি, আর তিনি ছিলেন সবচেয়ে সদয় মালিক।' নবী \u{FDFA} আনাসের জন্য দোয়া করেছিলেন — সম্পদ, সন্তান ও দীর্ঘ জীবনের জন্য — সবকিছুই কবুল হয়েছিল।"
+      en: "When Anas ibn Malik was about ten years old, his mother Umm Sulaym brought him to the Prophet \u{FDFA} and said: 'O Messenger of Allah, here is my little son Anas — I have brought him to serve you. Please make du'a for him.' Anas served the Prophet \u{FDFA} for ten full years in Madinah. In all those years, the Prophet \u{FDFA} never once said 'uff' to Anas, never scolded him, and never asked 'Why did you do that?' or 'Why did you not do it?' Anas later said: 'The Messenger of Allah \u{FDFA} had the best character of all people.' The Prophet \u{FDFA} made du'a for Anas, asking Allah to increase his wealth and children and to bless him in them — and Anas lived to see his children and grandchildren number more than a hundred.",
+      bn: "আনাস ইবনে মালিক যখন প্রায় দশ বছর বয়সী, তখন তার মা উম্মু সুলাইম তাকে নবী \u{FDFA}-এর কাছে নিয়ে বললেন: 'হে আল্লাহর রাসূল, এ আমার ছোট্ট ছেলে আনাস — আপনার সেবার জন্য নিয়ে এসেছি। তার জন্য দোয়া করুন।' আনাস মদিনায় নবী \u{FDFA}-এর সেবা করলেন পুরো দশ বছর। সেই দশ বছরে নবী \u{FDFA} কখনও 'উফ' বলেননি, কখনও বকাঝকা করেননি। আনাস পরে বলেছিলেন: 'আল্লাহর রাসূল \u{FDFA} ছিলেন মানুষের মধ্যে সবচেয়ে উত্তম চরিত্রের।' নবী \u{FDFA} আনাসের জন্য দোয়া করেছিলেন — যেন আল্লাহ তার সম্পদ ও সন্তান বাড়িয়ে দেন এবং তাতে বরকত দেন — আর আনাস জীবদ্দশায় দেখেছিলেন, তার সন্তান ও নাতি-নাতনি একশোরও বেশি।"
     },
     moral: {
       en: "The best people are the kindest to those who serve them. Treat everyone with patience and love.",
       bn: "সর্বোত্তম মানুষ তারাই, যারা তাদের সেবকদের সাথে সবচেয়ে সদয়। সবার সাথে ধৈর্য ও ভালোবাসায় আচরণ করো।"
     },
     refs: ['33:21'],
-    src: 'Bukhari 2768, Muslim 2309'
+    src: 'Bukhari 2768, Muslim 2309, 2310, 2481'
   },
   {
     id: 'talking-wolf',
     title:   { en: 'The Wolf Who Spoke to a Shepherd', bn: 'যে নেকড়ে রাখালকে কথা বলেছিল' },
     summary: {
-      en: "One day a wolf attacked a shepherd's flock and took one of his sheep. The shepherd chased it and snatched the sheep back. Then something extraordinary happened — the wolf turned and spoke in a clear human voice: 'You have taken the prey I worked hard to get. Who will guard your flock on the day of the fierce beasts — when there is no shepherd but me?' The terrified shepherd ran to the Prophet \u{FDFA} and told him what had happened. The Prophet \u{FDFA} said to those around him: 'This is a sign of the approaching Hour. Believe what the wolf said — a day is coming when only Allah will protect you.' The Companions were amazed, and their faith grew even stronger.",
-      bn: "একদিন একটি নেকড়ে রাখালের পালের একটি ভেড়া নিয়ে গেল। রাখাল ছুটে গিয়ে ভেড়াটি ফিরিয়ে নিল। তখন অবাক ব্যাপার ঘটল — নেকড়েটি মানুষের মতো স্পষ্ট ভাষায় বলল: 'তুমি আমার পরিশ্রমের শিকার কেড়ে নিলে। হিংস্র পশুদের দিনে তোমার পাল কে রক্ষা করবে?' ভয় পাওয়া রাখাল নবী \u{FDFA}-এর কাছে দৌড়ে সব বলল। নবী \u{FDFA} বললেন: 'এটা কিয়ামতের একটি আলামত। নেকড়ে যা বলেছে বিশ্বাস করো — এমন একটি দিন আসবে যেদিন শুধু আল্লাহই তোমাদের রক্ষা করবেন।' সাহাবারা অবাক হলেন এবং তাদের ঈমান আরও শক্তিশালী হলো।"
+      en: "One morning after the prayer, the Prophet \u{FDFA} told his Companions a story. A wolf attacked a shepherd's flock and took one of his sheep. The shepherd chased it and snatched the sheep back. Then something extraordinary happened — the wolf turned and spoke: 'You have saved it from me — but who will guard it on the day of the wild beasts, when it has no shepherd but me?' The people were amazed and said: 'Subhanallah! A wolf that speaks!' The Prophet \u{FDFA} said: 'I believe it — and so do Abu Bakr and Umar,' even though neither of them was there. The Companions learned that what Allah's Messenger tells us is true, however amazing it sounds.",
+      bn: "একদিন সকালের নামাজের পরে নবী \u{FDFA} সাহাবিদের একটি ঘটনা শোনালেন। একটি নেকড়ে এক রাখালের পাল থেকে একটি ভেড়া নিয়ে গেল। রাখাল ছুটে গিয়ে ভেড়াটি ফিরিয়ে নিল। তখন অবাক ব্যাপার ঘটল — নেকড়েটি ফিরে তাকিয়ে বলল: 'তুমি আমার কাছ থেকে একে বাঁচালে — কিন্তু হিংস্র পশুদের দিনে, যেদিন আমি ছাড়া এর কোনো রাখাল থাকবে না, সেদিন একে কে রক্ষা করবে?' লোকেরা অবাক হয়ে বলল: 'সুবহানাল্লাহ! নেকড়ে কথা বলে!' নবী \u{FDFA} বললেন: 'আমি এটা বিশ্বাস করি — আবু বকর ও উমরও বিশ্বাস করে,' যদিও তাঁরা দুজন তখন সেখানে ছিলেন না। সাহাবারা শিখলেন, আল্লাহর রাসূল যা বলেন তা সত্য, যত আশ্চর্যই শোনাক।"
     },
     moral: {
       en: "Signs of truth come from unexpected places. Keep your faith strong and prepare for the meeting with Allah.",
       bn: "সত্যের নিদর্শন অপ্রত্যাশিত জায়গা থেকে আসতে পারে। ঈমান শক্ত রাখো এবং আল্লাহর সাথে সাক্ষাতের জন্য প্রস্তুত থাকো।"
     },
     refs: ['21:107'],
-    src: 'Muslim 2388'
+    src: 'Bukhari 3471, Muslim 2388'
   },
   {
     id: 'abu-umayr-bird',
     title:   { en: "Abu Umayr and His Little Bird", bn: 'আবু উমায়ের ও তার ছোট পাখি' },
     summary: {
-      en: "Among the companions of the Prophet \u{FDFA} was a family with a small boy named Abu Umayr. He had a tiny pet bird — called a nuqayr, a kind of sparrow — that he loved dearly and played with every day. Whenever the Prophet \u{FDFA} visited their home, he would greet little Abu Umayr with a gentle smile and ask playfully: 'O Abu Umayr — what happened to the nuqayr?' One day the little bird passed away, and Abu Umayr was heartbroken. The Prophet \u{FDFA} still asked his gentle question to cheer the sad boy up, showing that even the small grief of a child matters in Islam. The Prophet \u{FDFA} was not just a great leader — he was warm, playful, and deeply caring to every child.",
-      bn: "নবী \u{FDFA}-এর সাহাবাদের মধ্যে আবু উমায়ের নামের একটি ছোট্ট ছেলে ছিল। তার একটি পোষা ছোট পাখি ছিল — আরবিতে নুকায়ের বলে — যাকে সে প্রতিদিন খেলত ও ভীষণ ভালোবাসত। নবী \u{FDFA} যখনই তাদের বাড়িতে আসতেন, হাসিমুখে জিজ্ঞেস করতেন: 'হে আবু উমায়ের — নুকায়েরের কী হলো?' একদিন পাখিটি মারা গেল, আর আবু উমায়েরের মন ভেঙে গেল। নবী \u{FDFA} তবুও মিষ্টি স্বরে প্রশ্ন করতেন দুঃখী ছেলেকে খুশি করতে। নবী \u{FDFA} শুধু মহান নেতা ছিলেন না — প্রতিটি শিশুর সুখ-দুঃখকে মূল্য দিতেন।"
+      en: "Anas ibn Malik had a little brother called Abu Umayr. He had a tiny pet bird — called a nughayr, a small bird like a sparrow — that he loved dearly and played with every day. The Prophet \u{FDFA} often visited their home and was always gentle and playful with little Abu Umayr. One day the little bird died, and Abu Umayr was heartbroken. When the Prophet \u{FDFA} came and saw him sad, he asked what was wrong, and they told him the bird had died. So he said kindly: 'O Abu Umayr — what happened to the nughayr?' He talked with the sad boy about his bird to comfort him, showing that even the small grief of a child matters in Islam. The Prophet \u{FDFA} was not just a great leader — he was warm, playful, and deeply caring to every child.",
+      bn: "আনাস ইবনে মালিকের আবু উমায়ের নামের একটি ছোট্ট ভাই ছিল। তার একটি পোষা ছোট পাখি ছিল — আরবিতে নুগায়র বলে, চড়ুইয়ের মতো ছোট পাখি — যার সাথে সে প্রতিদিন খেলত ও যাকে ভীষণ ভালোবাসত। নবী \u{FDFA} প্রায়ই তাদের বাড়িতে আসতেন এবং ছোট্ট আবু উমায়েরের সাথে সবসময় কোমল ও হাসিখুশি থাকতেন। একদিন পাখিটি মারা গেল, আর আবু উমায়েরের মন ভেঙে গেল। নবী \u{FDFA} এসে তাকে মন খারাপ দেখে কারণ জিজ্ঞেস করলেন; সবাই বলল, পাখিটি মারা গেছে। তখন তিনি স্নেহভরে বললেন: 'হে আবু উমায়ের — নুগায়রের কী হলো?' দুঃখী ছেলেটির মন ভালো করতে তিনি তার সাথে পাখির কথা বললেন। নবী \u{FDFA} শুধু মহান নেতা ছিলেন না — প্রতিটি শিশুর সুখ-দুঃখকে মূল্য দিতেন।"
     },
     moral: {
       en: "No feeling is too small to matter. The Prophet \u{FDFA} noticed and cared for every child's joy and sadness.",
       bn: "কোনো অনুভূতি এত ছোট নয় যে সেটা গুরুত্বহীন। নবী \u{FDFA} প্রতিটি শিশুর সুখ-দুঃখকে গুরুত্ব দিতেন।"
     },
     refs: ['21:107'],
-    src: 'Abu Dawud 4969'
+    src: 'Abu Dawud 4969, Bukhari 6129'
   },
   {
     id: 'hasan-husayn-sujud',
@@ -1061,22 +1061,22 @@ const KIDS_STORIES = [
     id: 'umm-sulaym-patience',
     title:   { en: "Umm Sulaym's Beautiful Patience", bn: 'উম্মু সুলাইমের সুন্দর ধৈর্য' },
     summary: {
-      en: "Umm Sulaym was a wise and faithful woman among the Companions. One day her young son passed away while her husband Abu Talha was out. She calmly waited for him to return. When Abu Talha came home tired, she served him dinner, then asked gently: 'If someone lent you something precious and asked for it back, would you be sad to return it?' He said: 'Of course not — I would return it willingly.' She said quietly: 'Then know that Allah lent us our son, and tonight He asked for him back.' Abu Talha was overcome with sadness, but both turned to Allah in patience. The Prophet \u{FDFA} later prayed for them, and Allah blessed Umm Sulaym with another son who became a great scholar.",
-      bn: "উম্মু সুলাইম ছিলেন সাহাবীদের মধ্যে একজন বিজ্ঞ ও ঈমানদার নারী। একদিন তার ছোট ছেলে মারা গেল, স্বামী আবু তালহা বাড়িতে ছিলেন না। তিনি শান্তভাবে অপেক্ষা করলেন। আবু তালহা ফিরলে রাতের খাবার দিলেন, তারপর মৃদুকণ্ঠে বললেন: 'যদি কেউ মূল্যবান জিনিস ধার দিয়ে ফেরত চায় — দিতে দুঃখ পাবেন?' তিনি বললেন: 'না।' তখন উম্মু সুলাইম বললেন: 'আল্লাহ আমাদের ছেলেকে ধার দিয়েছিলেন, আজ রাতে ফেরত নিয়েছেন।' আবু তালহা ভীষণ দুঃখ পেলেন, কিন্তু দুজনেই ধৈর্যের সাথে আল্লাহর দিকে ফিরলেন। নবী \u{FDFA} তাদের জন্য দোয়া করলেন এবং আল্লাহ উম্মু সুলাইমকে আরেকটি পুত্র দিলেন।"
+      en: "Umm Sulaym was a wise and faithful woman among the Companions. One day her young son passed away while her husband Abu Talha was out. She calmly waited for him to return. When Abu Talha came home tired, she served him dinner, then asked gently: 'If someone lent you something precious and asked for it back, would you be sad to return it?' He said: 'Of course not — I would return it willingly.' She said quietly: 'Then know that Allah lent us our son, and tonight He asked for him back.' Abu Talha was overcome with sadness, but both turned to Allah in patience. The Prophet \u{FDFA} prayed for blessing on them, and Allah gave them another son, Abdullah — and Abdullah's own children all grew up to be readers of the Quran.",
+      bn: "উম্মু সুলাইম ছিলেন সাহাবীদের মধ্যে একজন বিজ্ঞ ও ঈমানদার নারী। একদিন তার ছোট ছেলে মারা গেল, স্বামী আবু তালহা বাড়িতে ছিলেন না। তিনি শান্তভাবে অপেক্ষা করলেন। আবু তালহা ফিরলে রাতের খাবার দিলেন, তারপর মৃদুকণ্ঠে বললেন: 'যদি কেউ মূল্যবান জিনিস ধার দিয়ে ফেরত চায় — দিতে দুঃখ পাবেন?' তিনি বললেন: 'না।' তখন উম্মু সুলাইম বললেন: 'আল্লাহ আমাদের ছেলেকে ধার দিয়েছিলেন, আজ রাতে ফেরত নিয়েছেন।' আবু তালহা ভীষণ দুঃখ পেলেন, কিন্তু দুজনেই ধৈর্যের সাথে আল্লাহর দিকে ফিরলেন। নবী \u{FDFA} তাদের জন্য বরকতের দোয়া করলেন, আর আল্লাহ তাদের আরেকটি পুত্র দিলেন — আব্দুল্লাহ; আর আব্দুল্লাহর সন্তানেরা সবাই কুরআনের কারী হয়ে বড় হলো।"
     },
     moral: {
       en: "Everything we have belongs to Allah. Returning what He lends us — with patience and trust — brings His greater blessings.",
       bn: "আমাদের যা আছে সব আল্লাহর। তাঁর দেওয়া জিনিস ধৈর্য ও বিশ্বাসের সাথে ফিরিয়ে দিলে আরও বড় নেয়ামত আসে।"
     },
     refs: ['2:156', '39:10'],
-    src: 'Muslim 2144'
+    src: 'Muslim 2144, Bukhari 1301'
   },
   {
     id: 'three-men-cave',
     title:   { en: 'Three Men Trapped in a Cave', bn: 'তিন ব্যক্তি গুহায় আটকা' },
     summary: {
-      en: "Three men were traveling in the mountains when a huge boulder rolled down and sealed the entrance to their cave. They were trapped with no way out. They decided to pray to Allah by mentioning the best deeds they had each done. The first said: 'O Allah, I always honoured my parents before my own family.' The boulder moved a little. The second said: 'O Allah, I loved someone, but when she asked me to stay away for Allah's sake, I obeyed.' The boulder moved more. The third said: 'O Allah, I paid my workers honestly and kept nothing that was not mine.' The boulder rolled away completely and they walked free. Allah answered them through their sincere good deeds.",
-      bn: "তিন ব্যক্তি পাহাড়ে ভ্রমণ করছিল। বিশ্রামের জন্য গুহায় ঢুকলে বিশাল পাথর গড়িয়ে দরজা বন্ধ করে দিল। তারা সিদ্ধান্ত নিল জীবনের সেরা আমলের কথা স্মরণ করিয়ে আল্লাহর কাছে দোয়া করবে। প্রথম বলল: 'হে আল্লাহ! পরিবারের আগে বাবা-মায়ের খেদমত করতাম।' পাথর একটু সরল। দ্বিতীয় বলল: 'হে আল্লাহ! কাউকে ভালোবাসতাম, কিন্তু সে আল্লাহর ওয়াস্তে কাছে না আসতে বললে মেনে নিয়েছিলাম।' পাথর আরও সরল। তৃতীয় বলল: 'হে আল্লাহ! শ্রমিকদের সঠিক মজুরি দিতাম, একটি পয়সাও আত্মসাৎ করিনি।' পাথর পুরো সরে গেল, তারা মুক্ত হলো। আল্লাহ তাদের আন্তরিক ভালো আমলের মাধ্যমে সাড়া দিলেন।"
+      en: "Three men were traveling in the mountains when a huge boulder rolled down and sealed the entrance to their cave. They were trapped with no way out. They decided to pray to Allah by mentioning the best deeds they had each done. The first said: 'O Allah, I always honoured my parents before my own family.' The boulder moved a little. The second said: 'O Allah, I loved someone, but when she asked me to stay away for Allah's sake, I obeyed.' The boulder moved more. The third said: 'O Allah, a worker once left without taking his wage. I invested it for him until it grew into whole herds, and when he came back years later, I gave him all of it and kept nothing.' The boulder rolled away completely and they walked free. Allah answered them through their sincere good deeds.",
+      bn: "তিন ব্যক্তি পাহাড়ে ভ্রমণ করছিল। বিশ্রামের জন্য গুহায় ঢুকলে বিশাল পাথর গড়িয়ে দরজা বন্ধ করে দিল। তারা সিদ্ধান্ত নিল জীবনের সেরা আমলের কথা স্মরণ করিয়ে আল্লাহর কাছে দোয়া করবে। প্রথম বলল: 'হে আল্লাহ! পরিবারের আগে বাবা-মায়ের খেদমত করতাম।' পাথর একটু সরল। দ্বিতীয় বলল: 'হে আল্লাহ! কাউকে ভালোবাসতাম, কিন্তু সে আল্লাহর ওয়াস্তে কাছে না আসতে বললে মেনে নিয়েছিলাম।' পাথর আরও সরল। তৃতীয় বলল: 'হে আল্লাহ! এক শ্রমিক তার মজুরি না নিয়েই চলে গিয়েছিল। আমি তার জন্য সেটা খাটিয়ে বাড়িয়ে পশুর পাল বানালাম, আর বহু বছর পরে সে ফিরে এলে সবটাই তাকে দিয়ে দিলাম, কিছুই রাখিনি।' পাথর পুরো সরে গেল, তারা মুক্ত হলো। আল্লাহ তাদের আন্তরিক ভালো আমলের মাধ্যমে সাড়া দিলেন।"
     },
     moral: {
       en: "Sincerely good deeds — kindness to parents, purity, and honesty — become your lifeline in the darkest moments.",
@@ -1087,23 +1087,24 @@ const KIDS_STORIES = [
   },
   {
     id: 'uways-mother',
-    title:   { en: 'The Youth Who Carried His Mother to Hajj', bn: 'যে যুবক মাকে কাঁধে নিয়ে হজে গেল' },
+    title:   { en: 'The Man Who Carried His Mother Around the Kaaba', bn: 'যে ব্যক্তি মাকে পিঠে নিয়ে কাবা তাওয়াফ করলেন' },
     summary: {
-      en: "A man from Yemen came to Makkah to perform Hajj carrying his elderly, frail mother on his back the entire journey — because she could not walk. He walked the whole pilgrimage route step by step, never complaining. After completing Hajj, he asked the Prophet's companion Ibn Umar: 'I carried my mother on my back for the whole journey. Have I repaid her debt to me?' Ibn Umar replied: 'You have not repaid even a single contraction of her labour pains when she gave birth to you.' The man was humbled. He understood that a mother's sacrifice can never be fully repaid. But Allah sees every act of love and devotion — nothing, not even a drop of sweat, goes unrewarded with Him.",
-      bn: "ইয়েমেন থেকে এক ব্যক্তি হজে এলেন তাঁর বৃদ্ধ, দুর্বল মাকে পুরো পথ কাঁধে বহন করে। কোনো অভিযোগ না করে পুরো হজ পার করলেন। হজ শেষে সাহাবি ইবনে উমারকে জিজ্ঞেস করলেন: 'মায়ের ঋণ কি শোধ করতে পারলাম?' ইবনে উমার বললেন: 'তুমি জন্মের সময় মায়ের একটি প্রসব-ব্যথার ঋণও শোধ করতে পারোনি।' ব্যক্তিটি বিনম্র হলো। সে বুঝল কোনো আমলেই মায়ের ত্যাগ পরিশোধ হয় না। কিন্তু আল্লাহ প্রতিটি ভালোবাসার কাজ দেখেন — একটি ঘামের ফোঁটাও বৃথা যায় না।"
+      en: "A man from Yemen came to Makkah and walked around the Kaaba (tawaf) carrying his mother on his back, step by step, never complaining. Then he asked the Prophet's companion Ibn Umar, who was there: 'Do you think I have repaid her?' Ibn Umar replied: 'No — not even a single groan of her pain when she gave birth to you.' The man was humbled. He understood that a mother's sacrifice can never be fully repaid. But Allah sees every act of love and devotion — nothing, not even a drop of sweat, goes unrewarded with Him.",
+      bn: "ইয়েমেন থেকে এক ব্যক্তি মক্কায় এসে মাকে পিঠে নিয়ে কাবা তাওয়াফ করছিলেন — ধাপে ধাপে, কোনো অভিযোগ ছাড়া। তারপর সেখানে থাকা সাহাবি ইবনে উমারকে জিজ্ঞেস করলেন: 'আপনার কী মনে হয়, মায়ের ঋণ কি শোধ করতে পারলাম?' ইবনে উমার বললেন: 'না — তোমার জন্মের সময় মায়ের প্রসব-ব্যথার একটি কাতর শব্দের ঋণও শোধ হয়নি।' ব্যক্তিটি বিনম্র হলো। সে বুঝল কোনো আমলেই মায়ের ত্যাগ পরিশোধ হয় না। কিন্তু আল্লাহ প্রতিটি ভালোবাসার কাজ দেখেন — একটি ঘামের ফোঁটাও বৃথা যায় না।"
     },
     moral: {
       en: "Your parents' love can never be fully repaid — but every act of kindness toward them is precious in Allah's sight.",
       bn: "বাবা-মায়ের ভালোবাসা কখনো পুরোপুরি শোধ করা যায় না — কিন্তু তাদের প্রতি প্রতিটি সদয় কাজ আল্লাহর কাছে মূল্যবান।"
     },
-    refs: ['17:23-24', '31:14']
+    refs: ['17:23-24', '31:14'],
+    src: 'al-Adab al-Mufrad 11'
   },
   {
     id: 'ant-sulayman',
     title:   { en: 'The Ant Who Warned Her Friends', bn: 'যে পিঁপড়া বন্ধুদের সতর্ক করেছিল' },
     summary: {
-      en: "Prophet Sulayman was given by Allah the ability to understand the language of all animals and insects. One day he was marching with his great army — soldiers, jinn, birds and beasts — through a valley. As they approached the Valley of the Ants, a small ant noticed the army and called out: 'O ants! Enter your homes quickly, so that Sulayman and his army do not crush you without even knowing it!' The ant was worried about her community, not about herself. Prophet Sulayman heard her voice, smiled, and immediately stopped his army. He raised his hands to Allah and prayed: 'My Lord, grant me the ability to be grateful for Your blessings and to do righteous deeds that please You.' A mighty king — yet humble and grateful.",
-      bn: "নবী সুলাইমান আলাইহিস সালামকে আল্লাহ সকল প্রাণী ও পোকামাকড়ের ভাষা বুঝার ক্ষমতা দিয়েছিলেন। একদিন তিনি বিশাল বাহিনী নিয়ে — সৈনিক, জিন, পাখি ও পশু — একটি উপত্যকা দিয়ে যাচ্ছিলেন। পিঁপড়াদের উপত্যকার কাছে পৌঁছাতেই একটি ছোট্ট পিঁপড়া সাথীদের ডেকে বলল: 'হে পিঁপড়ারা! দ্রুত বাড়িতে ঢুকে পড়ো, না হলে সুলাইমান ও তাঁর বাহিনী না জেনেই পিষে ফেলবে!' পিঁপড়াটি নিজের কথা না ভেবে সম্প্রদায়ের কথা ভেবেছিল। নবী সুলাইমান তার কণ্ঠ শুনলেন, হাসলেন এবং সেনাবাহিনী থামালেন। আল্লাহর কাছে দোয়া করলেন: 'হে রব, আমাকে নেয়ামতের শুকরিয়া ও সৎকর্মের তৌফিক দাও।' মহাপরাক্রমী রাজা — তবুও বিনম্র ও কৃতজ্ঞ।"
+      en: "Prophet Sulayman was taught by Allah the language of the birds, and he could even understand an ant. One day he was marching with his great army — jinn, people and birds — through a valley. As they approached the Valley of the Ants, a small ant noticed the army and called out: 'O ants! Enter your homes quickly, so that Sulayman and his army do not crush you without even knowing it!' The ant was worried about her community, not about herself. Prophet Sulayman heard her voice, smiled, and immediately stopped his army. He raised his hands to Allah and prayed: 'My Lord, grant me the ability to be grateful for Your blessings and to do righteous deeds that please You.' A mighty king — yet humble and grateful.",
+      bn: "নবী সুলাইমান আলাইহিস সালামকে আল্লাহ পাখির ভাষা শিখিয়েছিলেন, আর তিনি একটি পিঁপড়ার কথাও বুঝতে পারতেন। একদিন তিনি বিশাল বাহিনী নিয়ে — জিন, মানুষ ও পাখি — একটি উপত্যকা দিয়ে যাচ্ছিলেন। পিঁপড়াদের উপত্যকার কাছে পৌঁছাতেই একটি ছোট্ট পিঁপড়া সাথীদের ডেকে বলল: 'হে পিঁপড়ারা! দ্রুত বাড়িতে ঢুকে পড়ো, না হলে সুলাইমান ও তাঁর বাহিনী না জেনেই পিষে ফেলবে!' পিঁপড়াটি নিজের কথা না ভেবে সম্প্রদায়ের কথা ভেবেছিল। নবী সুলাইমান তার কণ্ঠ শুনলেন, হাসলেন এবং সেনাবাহিনী থামালেন। আল্লাহর কাছে দোয়া করলেন: 'হে রব, আমাকে নেয়ামতের শুকরিয়া ও সৎকর্মের তৌফিক দাও।' মহাপরাক্রমী রাজা — তবুও বিনম্র ও কৃতজ্ঞ।"
     },
     moral: {
       en: "Even the smallest creature matters to Allah. Look out for others, and always be grateful — no matter how great you become.",
@@ -1128,8 +1129,8 @@ const KIDS_STORIES = [
     id: 'ibrahim-fire',
     title:   { en: 'Ibrahim and the Fire That Could Not Burn', bn: 'ইব্রাহীম ও আগুন যা পোড়াতে পারেনি' },
     summary: {
-      en: "Prophet Ibrahim grew up surrounded by stone idols. He knew in his heart they were just rocks and could help no one. One night he broke all the idols in the temple except the largest, and placed his axe on it. When the people accused him, he cleverly said: 'Ask the big idol — it has my axe!' They said: 'You know it cannot speak!' He replied: 'Then why do you worship things that cannot speak, hear, or help you?' Furious, the king Nimrod ordered a fire so enormous that birds flying above it were scorched. Ibrahim was thrown into the fire. But Allah commanded: 'O fire, be cool and safe for Ibrahim!' The fire did not burn him at all. He walked out completely unharmed, glorifying Allah.",
-      bn: "নবী ইব্রাহীম পাথরের মূর্তি-পূজার মাঝে বড় হয়েছিলেন। তিনি জানতেন এগুলো কাউকে সাহায্য করতে পারে না। একরাতে মন্দিরের সব মূর্তি ভেঙে দিলেন সবচেয়ে বড়টি ছাড়া। মানুষেরা অভিযুক্ত করলে বললেন: 'বড় মূর্তিটিকেই জিজ্ঞেস করো!' তারা বলল: 'এটা কথা বলতে পারে না।' তিনি বললেন: 'তাহলে কথা বলতে-শুনতে-সাহায্য করতে পারে না এমন জিনিসকে কেন পূজা করছো?' রাজা নমরূদ বিশাল আগুন জ্বালাল। ইব্রাহীমকে ছুঁড়ে দেওয়া হলো। কিন্তু আল্লাহ বললেন: 'হে আগুন! ইব্রাহীমের জন্য ঠান্ডা ও নিরাপদ হও!' আগুন তাঁকে একটুও পোড়াতে পারল না। তিনি অক্ষতভাবে বেরিয়ে আল্লাহর প্রশংসা করলেন।"
+      en: "Prophet Ibrahim grew up surrounded by stone idols. He knew in his heart they were just rocks and could help no one. One day, while his people were away, he broke all the idols in the temple except the largest. When the people accused him, he cleverly said: 'Rather, this biggest one did it — ask them, if they can speak!' They said: 'You know they cannot speak!' He replied: 'Then why do you worship, instead of Allah, things that can neither help nor harm you?' Furious, his people cried: 'Burn him!' They built a huge fire, and Ibrahim was thrown into it. But Allah commanded: 'O fire, be cool and safe for Ibrahim!' The fire did not burn him at all. He walked out completely unharmed, glorifying Allah.",
+      bn: "নবী ইব্রাহীম পাথরের মূর্তি-পূজার মাঝে বড় হয়েছিলেন। তিনি জানতেন এগুলো কাউকে সাহায্য করতে পারে না। একদিন লোকেরা যখন বাইরে গেল, তিনি মন্দিরের সব মূর্তি ভেঙে দিলেন সবচেয়ে বড়টি ছাড়া। মানুষেরা অভিযুক্ত করলে বললেন: 'বরং এই বড়টিই এ কাজ করেছে — ওদেরই জিজ্ঞেস করো, যদি ওরা কথা বলতে পারে!' তারা বলল: 'তুমি তো জানো, এরা কথা বলতে পারে না।' তিনি বললেন: 'তাহলে আল্লাহকে ছেড়ে এমন জিনিসের পূজা কেন করছো, যা তোমাদের কোনো উপকারও করতে পারে না, ক্ষতিও না?' রাগে লোকেরা চিৎকার করল: 'ওকে পুড়িয়ে দাও!' তারা বিশাল আগুন জ্বালাল, আর ইব্রাহীমকে তাতে ছুঁড়ে দেওয়া হলো। কিন্তু আল্লাহ বললেন: 'হে আগুন! ইব্রাহীমের জন্য ঠান্ডা ও নিরাপদ হও!' আগুন তাঁকে একটুও পোড়াতে পারল না। তিনি অক্ষতভাবে বেরিয়ে আল্লাহর প্রশংসা করলেন।"
     },
     moral: {
       en: "When you stand firm for the truth and trust Allah completely, even fire cannot touch you.",
@@ -1141,8 +1142,8 @@ const KIDS_STORIES = [
     id: 'ashabul-kahf',
     title:   { en: 'The Sleepers of the Cave (Ashab al-Kahf)', bn: 'গুহার ঘুমন্ত বন্ধুরা (আসহাবে কাহফ)' },
     summary: {
-      en: "Long ago, a group of faithful young men lived in a city where a cruel king forced everyone to worship false gods. They refused. They fled into the mountains and found a cave to hide in. They prayed: 'Our Lord, grant us Your mercy and guide us to what is right.' Allah caused them to fall into a deep miraculous sleep. When they woke up, they thought they had slept for just one afternoon — but Allah had kept them asleep for three hundred and nine years! The city had completely changed; the evil king was long gone, and the people now believed in Allah. Their dog had slept faithfully at the entrance all along. Faith in Allah is more powerful than any tyrant.",
-      bn: "অনেক আগে এক শহরে কিছু বিশ্বাসী তরুণ বাস করত। জালিম রাজা সবাইকে মিথ্যা দেবতাদের পূজা করতে বাধ্য করত। তারা রাজি হলো না। পাহাড়ে পালিয়ে একটি গুহায় আশ্রয় নিল। দোয়া করল: 'হে আমাদের রব, আমাদের রহমত দাও এবং সঠিক পথে নিয়ে যাও।' আল্লাহ তাদের এক অলৌকিক গভীর ঘুমে ঘুম পাড়িয়ে দিলেন। জেগে উঠে ভাবল মাত্র এক বিকেল ঘুমিয়েছে — কিন্তু আল্লাহ তিনশো নয় বছর ঘুম পাড়িয়ে রেখেছিলেন! শহর সম্পূর্ণ বদলে গেছে; জালিম রাজা অনেক আগেই মারা গেছে, মানুষেরা এখন আল্লাহকে বিশ্বাস করে। তাদের কুকুর গুহার দরজায় সারাক্ষণ পাহারা দিয়ে শুয়েছিল।"
+      en: "Long ago, a group of faithful young men lived in a city where a cruel king forced everyone to worship false gods. They refused. They fled into the mountains and found a cave to hide in. They prayed: 'Our Lord, grant us Your mercy and guide us to what is right.' Allah caused them to fall into a deep miraculous sleep. When they woke up, they thought they had slept for just a day or part of a day — but Allah had kept them asleep for three hundred and nine years! It is reported that the city had completely changed; the evil king was long gone, and the people now believed in Allah. Their dog had slept faithfully at the entrance all along. Faith in Allah is more powerful than any tyrant.",
+      bn: "অনেক আগে এক শহরে কিছু বিশ্বাসী তরুণ বাস করত। জালিম রাজা সবাইকে মিথ্যা দেবতাদের পূজা করতে বাধ্য করত। তারা রাজি হলো না। পাহাড়ে পালিয়ে একটি গুহায় আশ্রয় নিল। দোয়া করল: 'হে আমাদের রব, আমাদের রহমত দাও এবং সঠিক পথে নিয়ে যাও।' আল্লাহ তাদের এক অলৌকিক গভীর ঘুমে ঘুম পাড়িয়ে দিলেন। জেগে উঠে ভাবল মাত্র এক দিন বা দিনের কিছু অংশ ঘুমিয়েছে — কিন্তু আল্লাহ তিনশো নয় বছর ঘুম পাড়িয়ে রেখেছিলেন! বর্ণিত আছে, শহর সম্পূর্ণ বদলে গিয়েছিল; জালিম রাজা অনেক আগেই মারা গেছে, মানুষেরা এখন আল্লাহকে বিশ্বাস করে। তাদের কুকুর গুহার দরজায় সারাক্ষণ পাহারা দিয়ে শুয়েছিল।"
     },
     moral: {
       en: "Hold tightly to your faith even when the world pressures you. Allah protects sincere believers in ways beyond imagination.",
@@ -1154,8 +1155,8 @@ const KIDS_STORIES = [
     id: 'debt-son',
     title:   { en: "The Son Who Paid His Father's Debt", bn: "যে ছেলে বাবার ঋণ শোধ করে দিল" },
     summary: {
-      en: "A man once died leaving behind debts he could not repay. His young son learned of this and resolved to help his father even from beyond the grave. He worked hard, saved every coin, and went to each of his father's creditors one by one — honestly declaring the debt and paying every single one. When the last debt was settled, the son made du'a: 'O Allah, this work was done for my father — accept it from him and ease his account.' The Prophet \u{FDFA} taught that debts must be taken seriously, and that children who do good on behalf of their parents earn reward for both of them. A good child is a parent's living legacy — even after death.",
-      bn: "এক ব্যক্তি মারা গেলেন ঋণ পরিশোধ না করেই। তাঁর ছেলে এই খবর জানতে পারল এবং সিদ্ধান্ত নিল মৃত্যুর পরেও বাবাকে সাহায্য করবে। কঠোর পরিশ্রম করল, প্রতিটি পয়সা সঞ্চয় করল, এবং বাবার প্রতিটি পাওনাদারের কাছে গিয়ে সৎভাবে ঋণ স্বীকার করে সব পরিশোধ করল। শেষ ঋণ মেটানোর পর দোয়া করল: 'হে আল্লাহ, এই কাজ বাবার জন্য করলাম — তাঁর তরফ থেকে কবুল করো।' নবী \u{FDFA} শিখিয়েছেন ঋণকে গুরুত্বের সাথে নিতে হবে। সন্তান বাবা-মায়ের পক্ষে ভালো কাজ করলে দুজনেই পুরস্কার পায়।"
+      en: "This is a teaching story, not a report from the Quran or Hadith. A man once died leaving behind debts he could not repay. His young son learned of this and resolved to help his father even from beyond the grave. He worked hard, saved every coin, and went to each of his father's creditors one by one — honestly declaring the debt and paying every single one. When the last debt was settled, the son made du'a: 'O Allah, this work was done for my father — accept it from him and ease his account.' The Prophet \u{FDFA} taught that debts must be taken seriously, and that children who do good on behalf of their parents earn reward for both of them. A good child is a parent's living legacy — even after death.",
+      bn: "এটি একটি শিক্ষামূলক গল্প — কুরআন বা হাদিসের কোনো বর্ণনা নয়। এক ব্যক্তি মারা গেলেন ঋণ পরিশোধ না করেই। তাঁর ছেলে এই খবর জানতে পারল এবং সিদ্ধান্ত নিল মৃত্যুর পরেও বাবাকে সাহায্য করবে। কঠোর পরিশ্রম করল, প্রতিটি পয়সা সঞ্চয় করল, এবং বাবার প্রতিটি পাওনাদারের কাছে গিয়ে সৎভাবে ঋণ স্বীকার করে সব পরিশোধ করল। শেষ ঋণ মেটানোর পর দোয়া করল: 'হে আল্লাহ, এই কাজ বাবার জন্য করলাম — তাঁর তরফ থেকে কবুল করো।' নবী \u{FDFA} শিখিয়েছেন ঋণকে গুরুত্বের সাথে নিতে হবে। সন্তান বাবা-মায়ের পক্ষে ভালো কাজ করলে দুজনেই পুরস্কার পায়।"
     },
     moral: {
       en: "Be honest about debts and keep your commitments. Good deeds done for your parents benefit them in the Hereafter too.",
@@ -1167,8 +1168,8 @@ const KIDS_STORIES = [
     id: 'pious-sisters',
     title:   { en: 'The Sisters Who Kept Their Promise', bn: 'বোনেরা যারা তাদের প্রতিশ্রুতি রেখেছিল' },
     summary: {
-      en: "Two sisters lived with their elderly uncle who sold water at the roadside to earn honest income. One day the uncle fell ill and could no longer work. The sisters decided to carry on selling water in his place so that the household would not go hungry and no debt would be left. Though it was hard work, they got up early every morning, filled the water jars, and served people with a smiling face and a fair price. Neighbours noticed their dedication and helped them. When their uncle recovered, he was moved to tears by their loyalty. A beautiful truth: when you help your family with sincerity, Allah sends help from unexpected places. Keeping your promise — no matter how tired you are — is one of the greatest acts of worship.",
-      bn: "দুই বোন তাদের বৃদ্ধ চাচার সাথে থাকত, যিনি পানি বিক্রি করে সৎ উপার্জন করতেন। একদিন চাচা অসুস্থ হলেন। বোনেরা সিদ্ধান্ত নিল তার বদলে তারা পানি বিক্রি করবে। প্রতিদিন ভোরে উঠে মাটির কলস ভরে হাসিমুখে সঠিক দামে পানি দিত। প্রতিবেশীরা তাদের নিষ্ঠা দেখে সাহায্য করতে এগিয়ে এলো। চাচা সুস্থ হয়ে তাদের বিশ্বস্ততায় কেঁদে ফেললেন। একটি সুন্দর সত্য: আন্তরিকতার সাথে পরিবারকে সাহায্য করলে আল্লাহ অপ্রত্যাশিত জায়গা থেকে সাহায্য পাঠান। নিজে যতই ক্লান্ত হও, প্রতিশ্রুতি রাখা সর্বোত্তম ইবাদতগুলোর একটি।"
+      en: "This is a teaching story, not a report from the Quran or Hadith. Two sisters lived with their elderly uncle who sold water at the roadside to earn honest income. One day the uncle fell ill and could no longer work. The sisters decided to carry on selling water in his place so that the household would not go hungry and no debt would be left. Though it was hard work, they got up early every morning, filled the water jars, and served people with a smiling face and a fair price. Neighbours noticed their dedication and helped them. When their uncle recovered, he was moved to tears by their loyalty. A beautiful truth: when you help your family with sincerity, Allah sends help from unexpected places. Keeping your promise — no matter how tired you are — is one of the greatest acts of worship.",
+      bn: "এটি একটি শিক্ষামূলক গল্প — কুরআন বা হাদিসের কোনো বর্ণনা নয়। দুই বোন তাদের বৃদ্ধ চাচার সাথে থাকত, যিনি পানি বিক্রি করে সৎ উপার্জন করতেন। একদিন চাচা অসুস্থ হলেন। বোনেরা সিদ্ধান্ত নিল তার বদলে তারা পানি বিক্রি করবে। প্রতিদিন ভোরে উঠে মাটির কলস ভরে হাসিমুখে সঠিক দামে পানি দিত। প্রতিবেশীরা তাদের নিষ্ঠা দেখে সাহায্য করতে এগিয়ে এলো। চাচা সুস্থ হয়ে তাদের বিশ্বস্ততায় কেঁদে ফেললেন। একটি সুন্দর সত্য: আন্তরিকতার সাথে পরিবারকে সাহায্য করলে আল্লাহ অপ্রত্যাশিত জায়গা থেকে সাহায্য পাঠান। নিজে যতই ক্লান্ত হও, প্রতিশ্রুতি রাখা সর্বোত্তম ইবাদতগুলোর একটি।"
     },
     moral: {
       en: "Look after your family and keep your promises. Allah rewards those who are loyal and hardworking, even when no one else is watching.",
@@ -1180,8 +1181,8 @@ const KIDS_STORIES = [
     id: 'girl-prayed-brothers',
     title:   { en: 'The Girl Who Prayed for Her Brothers', bn: 'যে মেয়ে ভাইদের জন্য দোয়া করেছিল' },
     summary: {
-      en: "A brave young girl had three brothers who fell into a great difficulty through no fault of their own. People had turned against the family, and it seemed there was no one left to help. While the brothers tried to find a way out, the little sister sat on her prayer mat every evening after Isha, raised her hands, and spoke to Allah with complete trust. She did not cry out of despair — she cried out of love, knowing Allah hears every whisper. She asked nothing for herself; she only asked for her brothers to be safe and for justice to come. Days passed. Then one morning, the difficulty was lifted — in a way no one had expected. The brothers came home safe and said: 'It was your du'a that saved us.' She replied: 'It was Allah who saved you. I only asked Him.'",
-      bn: "এক সাহসী কিশোরীর তিন ভাই বিনা দোষে বিপদে পড়ে গেল। আশপাশের মানুষেরা পরিবারের বিরুদ্ধে চলে গেছে। ভাইয়েরা বের হওয়ার পথ খুঁজছিল, আর ছোট বোন প্রতি রাত ইশার পরে জায়নামাজে বসে হাত তুলে আল্লাহর সাথে কথা বলত। সে হতাশায় কাঁদত না — ভালোবেসে কাঁদত, জেনে যে আল্লাহ প্রতিটি ফিসফিস শোনেন। সে শুধু ভাইদের নিরাপত্তা ও ন্যায়বিচার চেয়েছিল। দিন গেল। তারপর এক সকালে বিপদ সরে গেল। ভাইয়েরা ঘরে ফিরে বলল: 'তোমার দোয়াই আমাদের বাঁচিয়েছে।' সে বলল: 'আল্লাহই তোমাদের বাঁচিয়েছেন। আমি শুধু তাঁকে বলেছিলাম।'"
+      en: "This is a teaching story, not a report from the Quran or Hadith. A brave young girl had three brothers who fell into a great difficulty through no fault of their own. People had turned against the family, and it seemed there was no one left to help. While the brothers tried to find a way out, the little sister sat on her prayer mat every evening after Isha, raised her hands, and spoke to Allah with complete trust. She did not cry out of despair — she cried out of love, knowing Allah hears every whisper. She asked nothing for herself; she only asked for her brothers to be safe and for justice to come. Days passed. Then one morning, the difficulty was lifted — in a way no one had expected. The brothers came home safe and said: 'It was your du'a that saved us.' She replied: 'It was Allah who saved you. I only asked Him.'",
+      bn: "এটি একটি শিক্ষামূলক গল্প — কুরআন বা হাদিসের কোনো বর্ণনা নয়। এক সাহসী কিশোরীর তিন ভাই বিনা দোষে বিপদে পড়ে গেল। আশপাশের মানুষেরা পরিবারের বিরুদ্ধে চলে গেছে। ভাইয়েরা বের হওয়ার পথ খুঁজছিল, আর ছোট বোন প্রতি রাত ইশার পরে জায়নামাজে বসে হাত তুলে আল্লাহর সাথে কথা বলত। সে হতাশায় কাঁদত না — ভালোবেসে কাঁদত, জেনে যে আল্লাহ প্রতিটি ফিসফিস শোনেন। সে শুধু ভাইদের নিরাপত্তা ও ন্যায়বিচার চেয়েছিল। দিন গেল। তারপর এক সকালে বিপদ সরে গেল। ভাইয়েরা ঘরে ফিরে বলল: 'তোমার দোয়াই আমাদের বাঁচিয়েছে।' সে বলল: 'আল্লাহই তোমাদের বাঁচিয়েছেন। আমি শুধু তাঁকে বলেছিলাম।'"
     },
     moral: {
       en: "Du'a is the most powerful tool a believer has. Pray for your family with full trust — Allah always hears.",
@@ -1251,8 +1252,8 @@ const KIDS_STORIES = [
       "bn": "রাতে পুড়ে যাওয়া বাগান"
     },
     "summary": {
-      "en": "Some brothers owned a rich garden. They swore they would pick all its fruit early in the morning — and they did not say 'if Allah wills.' They even whispered a plan: 'Let no poor person come in to us today!' But while they slept, a visitation from their Lord swept over the garden, and by morning it was black, like a field already harvested. At dawn they called each other: 'Hurry to your crop if you are going to pick it!' When they saw the garden they cried: 'We must be lost — no, we have been left with nothing!' The most balanced of them said: 'Did I not tell you? Why do you not glorify Allah?' They said: 'Glory be to our Lord — truly we were wrongdoers,' and stopped blaming each other, hoping their Lord would give them something better in exchange.",
-      "bn": "কয়েক ভাইয়ের একটি সমৃদ্ধ বাগান ছিল। তারা কসম করল, ভোরবেলাই সব ফল পেড়ে ফেলবে — আর 'ইনশাআল্লাহ' বলল না। এমনকি ফিসফিস করে ফন্দি আঁটল: 'আজ যেন কোনো গরিব মানুষ আমাদের কাছে ঢুকতে না পারে!' কিন্তু তারা ঘুমিয়ে থাকতেই তাদের রবের পক্ষ থেকে এক বিপদ বাগানের উপর দিয়ে ঘুরে গেল — সকালে বাগানটি হয়ে গেল কালো, যেন কাটা-শেষ ক্ষেত। ভোরে তারা ডাকাডাকি করল: 'ফল পাড়তে চাইলে তাড়াতাড়ি ক্ষেতে চলো!' বাগান দেখে তারা চিৎকার করে উঠল: 'আমরা নিশ্চয়ই পথ ভুল করেছি — না, আমরা তো সব হারিয়েছি!' তাদের মধ্যে সবচেয়ে বিবেচকজন বলল: 'আমি কি বলিনি? তোমরা কেন আল্লাহর তাসবিহ পড়ো না?' তারা বলল: 'আমাদের রব পবিত্র — সত্যিই আমরা জালিম ছিলাম।' দোষাদোষি থামিয়ে তারা আশা করল, তাদের রব এর বদলে আরও ভালো কিছু দেবেন।"
+      "en": "Some brothers owned a rich garden. They swore they would pick all its fruit early in the morning — and they did not say 'if Allah wills.' They even whispered a plan: 'Let no poor person come in to us today!' But while they slept, a visitation from their Lord swept over the garden, and by morning it was black, like a field already harvested. At dawn they called each other: 'Hurry to your crop if you are going to pick it!' When they saw the garden they cried: 'We must be lost — no, we have been left with nothing!' The most balanced of them said: 'Did I not tell you? Why do you not glorify Allah?' They said: 'Glory be to our Lord — truly we were wrongdoers.' They turned and blamed one another, then admitted together that they had gone too far, hoping their Lord would give them something better in exchange.",
+      "bn": "কয়েক ভাইয়ের একটি সমৃদ্ধ বাগান ছিল। তারা কসম করল, ভোরবেলাই সব ফল পেড়ে ফেলবে — আর 'ইনশাআল্লাহ' বলল না। এমনকি ফিসফিস করে ফন্দি আঁটল: 'আজ যেন কোনো গরিব মানুষ আমাদের কাছে ঢুকতে না পারে!' কিন্তু তারা ঘুমিয়ে থাকতেই তাদের রবের পক্ষ থেকে এক বিপদ বাগানের উপর দিয়ে ঘুরে গেল — সকালে বাগানটি হয়ে গেল কালো, যেন কাটা-শেষ ক্ষেত। ভোরে তারা ডাকাডাকি করল: 'ফল পাড়তে চাইলে তাড়াতাড়ি ক্ষেতে চলো!' বাগান দেখে তারা চিৎকার করে উঠল: 'আমরা নিশ্চয়ই পথ ভুল করেছি — না, আমরা তো সব হারিয়েছি!' তাদের মধ্যে সবচেয়ে বিবেচকজন বলল: 'আমি কি বলিনি? তোমরা কেন আল্লাহর তাসবিহ পড়ো না?' তারা বলল: 'আমাদের রব পবিত্র — সত্যিই আমরা জালিম ছিলাম।' তারপর তারা একে অপরকে দোষ দিতে লাগল, শেষে সবাই মিলে স্বীকার করল যে তারা সীমা ছাড়িয়েছিল, আর আশা করল, তাদের রব এর বদলে আরও ভালো কিছু দেবেন।"
     },
     "moral": {
       "en": "Always say Insha'Allah when you plan, and never plan to keep the poor away from your blessings — share, and Allah gives more.",
@@ -1388,11 +1389,11 @@ const KIDS_ADAB = [
     id: 'salaam-greeting',
     title: { en: 'Say Salaam First', bn: 'আগে সালাম দাও' },
     body: {
-      en: "When you see a Muslim — a friend, family member, or neighbour — greet them with 'Assalamu Alaikum.' This means 'Peace be upon you.' The Prophet \u{FDFA} said the one who says salaam first is better. Salaam is a gift of peace you give to others. If someone greets you, reply: 'Wa Alaikum Assalam' — and even better, add 'Wa Rahmatullahi Wa Barakatuh.'",
-      bn: "যখন কোনো মুসলিমকে দেখো — বন্ধু, পরিবার বা প্রতিবেশী — 'আস-সালামু আলাইকুম' বলে সালাম দাও। এর মানে 'তোমার উপর শান্তি বর্ষিত হোক।' নবী \u{FDFA} বলেছেন, যে আগে সালাম দেয় সে উত্তম। সালাম হলো তুমি অন্যকে যে শান্তির উপহার দাও। কেউ সালাম দিলে 'ওয়া আলাইকুম আস-সালাম' বলো — আরও ভালো হয় 'ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহু' যোগ করলে।"
+      en: "When you see a Muslim — a friend, family member, or neighbour — greet them with 'Assalamu Alaikum.' This means 'Peace be upon you.' The Prophet \u{FDFA} said the people closest to Allah are those who greet others with salaam first. Salaam is a gift of peace you give to others. If someone greets you, reply: 'Wa Alaikum Assalam' — and even better, add 'Wa Rahmatullahi Wa Barakatuh.'",
+      bn: "যখন কোনো মুসলিমকে দেখো — বন্ধু, পরিবার বা প্রতিবেশী — 'আস-সালামু আলাইকুম' বলে সালাম দাও। এর মানে 'তোমার উপর শান্তি বর্ষিত হোক।' নবী \u{FDFA} বলেছেন, আল্লাহর সবচেয়ে নিকটবর্তী সেই মানুষ, যে আগে সালাম দেয়। সালাম হলো তুমি অন্যকে যে শান্তির উপহার দাও। কেউ সালাম দিলে 'ওয়া আলাইকুম আস-সালাম' বলো — আরও ভালো হয় 'ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহু' যোগ করলে।"
     },
     arabic: 'السَّلَامُ عَلَيْكُمْ',
-    ref: 'Muslim 54'
+    ref: 'Muslim 54, Abu Dawud 5197'
   },
   {
     id: 'thank-parents',
@@ -1401,7 +1402,7 @@ const KIDS_ADAB = [
       en: "Allah says in the Quran: 'Be grateful to Me and to your parents.' Your parents wake up early, work hard, cook your food, wash your clothes, and stay up when you are sick — all out of love. Say 'Jazakallah Khayr' or 'Thank you, Mum / Dad' every single day. A simple 'I love you' or a hug means the world to them. Never speak rudely or raise your voice at your parents — this is one of the greatest sins in Islam.",
       bn: "আল্লাহ কুরআনে বলেছেন: 'আমার কৃতজ্ঞতা আদায় করো এবং তোমার বাবা-মায়ের।' তোমার বাবা-মা ভোরে ওঠেন, কঠোর পরিশ্রম করেন, রান্না করেন, কাপড় ধোন, অসুস্থতায় জেগে থাকেন — সবই ভালোবাসায়। প্রতিদিন 'জাযাকাল্লাহ খাইর' বা 'ধন্যবাদ, আব্বু/আম্মু' বলো। একটি 'আমি তোমাকে ভালোবাসি' বা জড়িয়ে ধরাটা তাদের অনেক কিছু দেয়। বাবা-মায়ের সাথে কখনো রূঢ় বা উঁচু গলায় কথা বলো না — ইসলামে এটা সবচেয়ে বড় গুনাহগুলোর একটি।"
     },
-    arabic: 'وَبِالْوَالِدَيْنِ إِحْسَانًا',
+    arabic: 'أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ',
     ref: 'Quran 31:14'
   },
   {
@@ -1452,7 +1453,7 @@ const KIDS_ADAB = [
       bn: "নবী \u{FDFA} প্রাণীদের ভীষণ ভালোবাসতেন। এক মহিলা জাহান্নামে গিয়েছিল কারণ সে বিড়াল বন্ধ করে না খেতে দিয়েছিল — আর অন্য একজন ক্ষমা পেয়েছিল কারণ সে তৃষ্ণার্ত কুকুরকে পানি দিয়েছিল। সুযোগ পেলে পাখি ও রাস্তার বিড়ালদের খাবার দাও। কখনো প্রাণীর লেজ টেনো না বা মজার জন্য ভয় দেখিও না। আহত পাখি পেলে আস্তে সাহায্য করো। নবী \u{FDFA} বলেছেন: 'প্রতিটি জীবন্ত সত্তার সেবায় পুরস্কার আছে।'"
     },
     arabic: 'إِنَّ اللَّهَ كَتَبَ الْإِحْسَانَ عَلَىٰ كُلِّ شَيْءٍ',
-    ref: 'Bukhari 3467, Muslim 1553'
+    ref: 'Bukhari 3482, 2363, Muslim 1955'
   },
   {
     id: 'no-waste',
@@ -1468,10 +1469,10 @@ const KIDS_ADAB = [
     id: 'salaam-elders',
     title: { en: 'Say Salaam to Elders', bn: 'বড়দের সালাম দাও' },
     body: {
-      en: "When you walk into a room with elderly people — grandparents, aunts, uncles, neighbours — greet them first with a warm salaam. The Prophet \u{FDFA} said: 'Respect the elderly, for respecting them is a way of glorifying Allah.' Let an elder sit down before you. Do not interrupt them when they are speaking. Offer to carry their bags or help with tasks. When an elder gives you advice, listen patiently — they have lived longer and learned more than you have.",
-      bn: "বৃদ্ধ মানুষের সাথে এক ঘরে ঢুকলে — দাদা-দাদি, নানা-নানি, চাচা-মামা, প্রতিবেশী — আগে উষ্ণ হৃদয়ে সালাম দাও। নবী \u{FDFA} বলেছেন: 'বয়োজ্যেষ্ঠদের সম্মান করো, কারণ এটা আল্লাহর মহিমা ঘোষণারই উপায়।' তোমার আগে বড়দের বসতে দাও। কথা বলার সময় মাঝে কেটো না। তাদের ব্যাগ বহন বা কাজে সাহায্যের প্রস্তাব দাও।"
+      en: "When you walk into a room with elderly people — grandparents, aunts, uncles, neighbours — greet them first with a warm salaam. The Prophet \u{FDFA} said: 'Honouring an elderly Muslim is part of glorifying Allah.' Let an elder sit down before you. Do not interrupt them when they are speaking. Offer to carry their bags or help with tasks. When an elder gives you advice, listen patiently — they have lived longer and learned more than you have.",
+      bn: "বৃদ্ধ মানুষের সাথে এক ঘরে ঢুকলে — দাদা-দাদি, নানা-নানি, চাচা-মামা, প্রতিবেশী — আগে উষ্ণ হৃদয়ে সালাম দাও। নবী \u{FDFA} বলেছেন: 'বয়োজ্যেষ্ঠ মুসলিমকে সম্মান করা আল্লাহর মহিমা ঘোষণারই অংশ।' তোমার আগে বড়দের বসতে দাও। কথা বলার সময় মাঝে কেটো না। তাদের ব্যাগ বহন বা কাজে সাহায্যের প্রস্তাব দাও।"
     },
-    arabic: 'وَقَالَ سَلَامٌ عَلَيْكَ',
+    arabic: 'إِنَّ مِنْ إِجْلَالِ اللَّهِ إِكْرَامَ ذِي الشَّيْبَةِ الْمُسْلِمِ',
     ref: 'Abu Dawud 4843'
   },
   {
@@ -1577,8 +1578,8 @@ const KIDS_ADAB = [
       "bn": "আগামীর কথায় বলো 'ইনশাআল্লাহ'"
     },
     "body": {
-      "en": "Planning to visit grandma tomorrow? Going to finish your homework tonight? Add three beautiful words: 'Insha'Allah' — if Allah wills. The Quran teaches us never to say 'I will surely do that tomorrow' without adding 'if Allah wills,' because tomorrow belongs to Allah, not to us. Saying Insha'Allah is not an excuse to be lazy — you still try your very best. It simply means: 'I will do my part, and I trust Allah with the rest.'",
-      "bn": "কাল দাদু-নানুর বাসায় যাওয়ার প্ল্যান? আজ রাতে হোমওয়ার্ক শেষ করবে? সাথে তিনটি সুন্দর শব্দ যোগ করো: 'ইনশাআল্লাহ' — আল্লাহ চাইলে। কুরআন শেখায়, 'আমি কালকে অবশ্যই এটা করব' — এ কথা কখনো 'ইনশাআল্লাহ' না বলে বোলো না, কারণ আগামীকাল আল্লাহর হাতে, আমাদের হাতে নয়। 'ইনশাআল্লাহ' বলা অলসতার অজুহাত নয় — নিজের সেরা চেষ্টাটা ঠিকই করবে। এর মানে শুধু: 'আমার কাজটুকু আমি করব, বাকিটা আল্লাহর উপর ভরসা।'"
+      "en": "Planning to visit grandma tomorrow? Going to finish your homework tonight? Add a beautiful phrase: 'Insha'Allah' — if Allah wills. The Quran teaches us never to say 'I will surely do that tomorrow' without adding 'if Allah wills,' because tomorrow belongs to Allah, not to us. Saying Insha'Allah is not an excuse to be lazy — you still try your very best. It simply means: 'I will do my part, and I trust Allah with the rest.'",
+      "bn": "কাল দাদু-নানুর বাসায় যাওয়ার প্ল্যান? আজ রাতে হোমওয়ার্ক শেষ করবে? সাথে একটি সুন্দর কথা যোগ করো: 'ইনশাআল্লাহ' — আল্লাহ চাইলে। কুরআন শেখায়, 'আমি কালকে অবশ্যই এটা করব' — এ কথা কখনো 'ইনশাআল্লাহ' না বলে বোলো না, কারণ আগামীকাল আল্লাহর হাতে, আমাদের হাতে নয়। 'ইনশাআল্লাহ' বলা অলসতার অজুহাত নয় — নিজের সেরা চেষ্টাটা ঠিকই করবে। এর মানে শুধু: 'আমার কাজটুকু আমি করব, বাকিটা আল্লাহর উপর ভরসা।'"
     },
     "arabic": "إِلَّا أَن يَشَاءَ اللَّهُ",
     "ref": "Quran 18:23-24"

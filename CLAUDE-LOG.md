@@ -12,6 +12,16 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
+## Module-content i18n wave (2026-10-14): committed v952, NOT pushed/deployed (user said stop; ship on request)
+- All routed module content translated into 13 languages; namespace files for 7 modules (code: CI18N.tr(.., ns)).
+- Fact-check audits fixed ~500 EN+BN strings across 9 modules; 45 changed hadith citations verified on sunnah.com.
+- Open (not fixed, need a decision): Mutashabihat group 'Companions of the Towns' title; |105 4:176 ending order;
+  |61 2:48/2:123 wording; |107 'fa-man' vs 'wa-man azlamu'; |121 2:221 not 'kadhalika'; |39 whispered plea is 19:3;
+  |71 3:41 days vs 19:10 nights; |73 stream 19:24. Prophets: 'Nine clans' (27:48 nine men), Madyan 'dreadful day'
+  (26:189 is al-Ayka), 'Quran teaches he will return'. Nafl: Ayat al-Kursi after prayer 'protects' (it promises
+  Paradise; protection is the night recitation). Hope |289 three-clause hadith; HW mim 'clockwise'; HW 'differ
+  only by dots' list; Surah 36 Qalb al-Quran grade; 53 'three idols of Mecca'; MAKRUH_HADITH|2 missing source.
+
 ## USER QUEUE 3 (2026-10-10) — STOPPED at user request after v948: "Fix the language missing, for Tadabbur modules, enrich bangla if not good. Keep continue."
 Measured: 1,061 cards = 6,778 EN strings / 226,910 words, 0% translated in all 13 languages (articles 31 MB en+bn: out of scope for now).
 Tooling tools/tadabbur-i18n/ (lib, extract → work/C1..C10, BN-REVIEW.md + apply-bn.js, TRANSLATE.md + check-tr.js + merge-tr.js → data/content-i18n/tadabbur/<lang>.json).

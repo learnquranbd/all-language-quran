@@ -222,7 +222,7 @@ class KidsQaida {
     if (o[l]) return o[l];
     const en = o.en || '';
     if (!en || typeof CI18N === 'undefined') return en;
-    return CI18N.tr(l, en) || en;
+    return CI18N.tr(l, en, 'kids') || en;
   }
 
   constructor() {

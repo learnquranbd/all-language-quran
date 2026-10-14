@@ -78,7 +78,7 @@ class Handwriting {
     if (this.language === 'bn' && o.bn) return o.bn;
     const en = o.en || '';
     if (!en || typeof CI18N === 'undefined') return en;
-    return CI18N.tr(this.language, en) || en;
+    return CI18N.tr(this.language, en, 'handwriting') || en;
   }
 
   targets() {

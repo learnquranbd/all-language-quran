@@ -12,7 +12,7 @@ const NUZUL_I18N = {
   nuzul_view_themes:    { en: 'Themes', bn: 'বিষয়ভিত্তিক', zh: '主题', ja: 'テーマ' },
   nuzul_view_timeline:  { en: 'Timeline', bn: 'কালরেখা', zh: '时间轴', ja: 'タイムライン' },
   nuzul_themes_intro:   { en: 'Browse sūrahs grouped by dominant theme. A sūrah may appear under more than one theme.', bn: 'প্রধান বিষয় অনুযায়ী সূরাসমূহ দেখুন। একটি সূরা একাধিক বিষয়ের অন্তর্ভুক্ত হতে পারে।', zh: '按主题浏览章节，一章可能出现在多个主题下。', ja: 'テーマ別にスーラを閲覧します。一つのスーラが複数のテーマに登場することがあります。' },
-  nuzul_timeline_intro: { en: 'Six revelation phases from the first waḥy in Ḥirāʾ to the completion of the Qurʾānic message.', bn: 'হেরা গুহায় প্রথম ওয়াহী থেকে কুরআনের বার্তা পূর্ণ হওয়া পর্যন্ত ছয়টি অবতীর্ণ পর্যায়।', zh: '从希拉山的第一次启示到古兰经信息完成的六个阶段。', ja: 'ヒラーの洞窟の最初のワヒーからクルアーンのメッセージ完成までの6つの段階。' },
+  nuzul_timeline_intro: { en: 'Four revelation phases from the first waḥy in Ḥirāʾ to the completion of the Qurʾānic message.', bn: 'হেরা গুহায় প্রথম ওয়াহী থেকে কুরআনের বার্তা পূর্ণ হওয়া পর্যন্ত চারটি অবতীর্ণ পর্যায়।', zh: '从希拉山的第一次启示到古兰经信息完成的四个阶段。', ja: 'ヒラーの洞窟の最初のワヒーからクルアーンのメッセージ完成までの4つの段階。' },
   nuzul_rev_neighbors:  { en: 'Neighbors in Revelation Order', bn: 'অবতীর্ণ ক্রমে প্রতিবেশী সূরা', zh: '启示顺序中的相邻章节', ja: '啓示順序の隣接スーラ' },
   nuzul_first_last_rev: { en: 'Revelation Position', bn: 'অবতীর্ণ অবস্থান', zh: '启示位置', ja: '啓示の位置' },
   nuzul_asbab_count:    { en: 'asbāb entries', bn: 'আসবাব', zh: '启示背景条目', ja: 'アスバーブ記録' },
@@ -20,7 +20,7 @@ const NUZUL_I18N = {
 };
 
 const NUZUL_QUIZ = [
-  { qEn: 'Which sūrah is generally accepted as the first complete sūrah revealed?', qBn: 'সর্বপ্রথম পূর্ণাঙ্গ সূরারূপে অবতীর্ণ হয়েছে কোন সূরা?',
+  { qEn: 'Which sūrah do many scholars hold to be the first complete sūrah revealed?', qBn: 'বহু আলেমের মতে সর্বপ্রথম পূর্ণাঙ্গ সূরারূপে অবতীর্ণ হয়েছে কোন সূরা?',
     optsEn: ['Surah al-Fatiha', 'Surah al-Ikhlas', "Surah al-'Alaq", 'Surah an-Nas'], optsBn: ['সূরা ফাতিহা', 'সূরা ইখলাস', 'সূরা আলাক', 'সূরা নাস'], correct: 0 },
   { qEn: 'How many sūrahs make up the "Seven Long Ones" (al-Sab\' al-Tiwāl)?', qBn: '"সাবউ তিওয়াল" (সাত দীর্ঘ) সূরা কয়টি?',
     optsEn: ['7', '5', '9', '11'], optsBn: ['৭', '৫', '৯', '১১'], correct: 0 },
@@ -39,8 +39,8 @@ const NUZUL_QUIZ = [
   { qEn: 'Which Meccan period (phase) includes sūrahs like al-Qalam (68) and al-Muzzammil (73)?', qBn: 'কোন মক্কী পর্যায়ে সূরা আল-কলম (৬৮) ও আল-মুজ্জাম্মিল (৭৩) অন্তর্ভুক্ত?',
     optsEn: ['Early Meccan', 'Middle Meccan', 'Late Meccan', 'Medinan'], optsBn: ['প্রথম মক্কী', 'মধ্য মক্কী', 'শেষ মক্কী', 'মাদানী'], correct: 0 },
   { qEn: 'Which sūrah in the muṣḥaf is a Medinan sūrah?', qBn: 'মুসহাফের কোন সূরাটি মাদানী?',
-    optsEn: ["Surah al-'Alaq (96)", 'Surah al-Baqarah (2)', "Surah al-Masad (111)", 'Surah al-Quraysh (106)'], optsBn: ['সূরা আলাক (৯৬)', 'সূরা বাকারা (২)', 'সূরা মাসাদ (১১১)', 'সূরা কুরায়শ (১০৬)'], correct: 1 },
-  { qEn: 'What was the context (asbab) for the revelation of Surah al-Kawthar (108)?', qBn: 'সূরা কাওসার (১০৮) অবতীর্ণের প্রেক্ষাপট কী?',
+    optsEn: ["Surah al-'Alaq (96)", 'Surah al-Baqarah (2)', "Surah al-Masad (111)", 'Surah Quraysh (106)'], optsBn: ['সূরা আলাক (৯৬)', 'সূরা বাকারা (২)', 'সূরা মাসাদ (১১১)', 'সূরা কুরায়শ (১০৬)'], correct: 1 },
+  { qEn: 'What context (asbāb) is commonly reported for the revelation of Surah al-Kawthar (108)?', qBn: 'সূরা কাওসার (১০৮) অবতীর্ণের প্রেক্ষাপট হিসেবে সাধারণত কী বর্ণিত হয়?',
     optsEn: ['When the Prophet\'s son passed away and he was mocked', 'During the Battle of Badr', 'During the conquest of Mecca', 'On the night of Isra and Mi\'raj'], optsBn: ['নবী ﷺ-এর পুত্রের ইন্তেকালে ব্যঙ্গ করা হলে', 'বদর যুদ্ধের সময়', 'মক্কা বিজয়ের সময়', 'ইসরা ও মিরাজের রাতে'], correct: 0 },
   { qEn: 'The longest sūrah in the Qur\'an was revealed in which phase?', qBn: 'কুরআনের দীর্ঘতম সূরাটি কোন পর্যায়ে অবতীর্ণ হয়েছে?',
     optsEn: ['Early Meccan', 'Middle Meccan', 'Late Meccan', 'Medinan'], optsBn: ['প্রথম মক্কী', 'মধ্য মক্কী', 'শেষ মক্কী', 'মাদানী'], correct: 3 },

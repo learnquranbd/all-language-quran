@@ -74,7 +74,7 @@ class Mutashabihat {
     const en = o.en || '', bn = o.bn || '';
     if (this.language === 'bn') return bn || en;
     if (this.language === 'en') return en;
-    const tr = (typeof CI18N !== 'undefined') ? CI18N.tr(this.language, en) : null;
+    const tr = (typeof CI18N !== 'undefined') ? CI18N.tr(this.language, en, 'mutashabihat') : null;
     return tr || en;
   }
   esc(s) { return String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }

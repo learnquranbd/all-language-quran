@@ -112,8 +112,13 @@ in parallel on claude-max, 2 on claude-pro. Run `budget.js` first.
   2. Nuzul: add al-Wahidi's occasions; mark weak reports as "it was said"
   3. Quranic Arabic: Juz 28-30 done (v940); Juz 27 would be next, same `tools/qarabic/` pipeline
   4. Mutashabihat: notes done (v942); the group list itself needs review, see `docs/mutashabihat-group-doubts.md`
-- Known debt: about 80% of module content still shows English in the 13 non-bn
-  languages (content-i18n lags every enrichment wave).
+- Module content (v952, 2026-10-14): every string routed through CI18N.tr is translated in all 13 languages
+  (~4,000 strings / ~99k words; tools/content-i18n/). Seven modules use namespace files
+  data/content-i18n/<ns>/<lang>.json (hope, surahnames, prophets, mutashabihat, handwriting, tajweed, kids).
+  Translators' flags led to fact-check audits of Handwriting, Hope, Prophets, Surah names, Kids, Sahaba/Seerah,
+  Tajweed, Mutashabihat/Nuzul and Islam rulings (~500 EN+BN fixes). Still English-only: Sahaba/Seerah/Prophets
+  ARTICLES (~222k words) and ~1.5k words of unrouted UI fallback tables. Open review items: scratchpad list in the
+  v952 commit message is summarised in CLAUDE-LOG.md.
 - Tadabbur cards: translated into all 13 languages (ur ar hi id v945-v948; es ms tr fa fr de ru zh ja
   v949-v951, deployed 2026-10-14). data/content-i18n/tadabbur/<lang>.json, loaded via CI18N.tr(lang, en,
   'tadabbur'); recipe in tools/tadabbur-i18n/ (pilot C1 -> STYLE-<lang>.md -> chunks -> check-tr -> merge-tr).

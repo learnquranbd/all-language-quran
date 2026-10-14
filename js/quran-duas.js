@@ -19,7 +19,7 @@
 /* eslint-disable no-unused-vars */
 const QDUAS_UI = {
   qduas_title:     { en: 'Quranic Duas', bn: 'কুরআনের দুআ' },
-  qd_intro:        { en: 'Every dua in the Quran in one place, each word with its meaning. Tap a word to hear it.', bn: 'কুরআনের সব দুআ এক জায়গায়, প্রতিটি শব্দ তার অর্থসহ। কোনো শব্দে চাপ দিলে তার তিলাওয়াত শুনবেন।' },
+  qd_intro:        { en: 'The duas of the Quran in one place, each word with its meaning. Tap a word to hear it.', bn: 'কুরআনের দুআগুলো এক জায়গায়, প্রতিটি শব্দ তার অর্থসহ। কোনো শব্দে চাপ দিলে তার তিলাওয়াত শুনবেন।' },
   qd_tab_duas:     { en: 'Duas', bn: 'দুআ' },
   qd_tab_virtues:  { en: 'Virtues of surahs and ayat', bn: 'সূরা ও আয়াতের ফজিলত' },
   qd_stat_duas:    { en: 'duas', bn: 'দুআ' },
