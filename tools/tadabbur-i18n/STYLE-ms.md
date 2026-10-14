@@ -40,3 +40,10 @@
   wuduk, Hari Kembali, manna dan salwa. Names: Maha Terpuji lagi Maha Mulia; al-Ghani (Yang tidak berhajat kepada apa-apa).
 - Added by C6: Khidir (no honorific), Zulkarnain, Yakjuj dan Makjuj, Isa a.s., Baitulmaqdis, Baitullah, sangkakala; sujud,
   Subhanallah, surah al-Kahfi, "syaitan yang direjam"; Maha Melimpah belas kasihan-Nya lagi Maha Mengasihani (22:65).
+- Added by C7: Qarun, Haman (no honorific), penduduk ar-Rass, penduduk Aikah, Ummahatul Mukminin; Arasy / bersemayam di atas
+  Arasy-Nya, fitrah, mahar, maruah; Maha Memelihara segala sesuatu (34:21); Rasulullah ﷺ for "the Messenger".
+- Added by C8: Ilyas a.s., Ilyasa' a.s., Zulkifli, Ayub a.s., Daud a.s., Ba'l; Firaun yang mempunyai pasak-pasak; Ummul Qura,
+  neraka Sa'ir, pokok zaqqum; Hari Perhimpunan, Hari Pertemuan, Hari Perhitungan. Names: Yang Maha Esa, Yang Maha Menundukkan
+  segala sesuatu (al-Qahhar); sebaik-baik Yang memperkenankan; Yang mempunyai Arasy; Allah Yang Maha Pemurah (ar-Rahman).
+- Added by C9: Sidratul Muntaha, syurga tempat tinggal, Rumah yang sentiasa diimarahkan, golongan kanan / golongan kiri / orang-orang
+  yang terdahulu, orang-orang yang didekatkan, bidadari, neraka Jahim, para hawariyyun, rasul ulul azmi, sahabat ikan (unnamed), sakaratul maut.

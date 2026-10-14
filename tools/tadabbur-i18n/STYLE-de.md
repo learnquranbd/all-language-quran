@@ -49,3 +49,9 @@
 - Added by C6: al-Chidr, Dhul-Qarnain, Gog und Magog; Niederwerfung (Sadschda), Friedensgruß (Salam), das Horn, die Waage, die
   Satane; „Ich suche Schutz bei Allah vor dem gesteinigten Satan“; der Allerbarmer (ar-Rahman); Gütig und Barmherzig (22:65).
   English prophet forms become Islamic forms (Moses→Musa, Jesus→Isa, Solomon→Sulaiman).
+- Added by C7: Lut, Qarun, Haman, Pharao (no article); die Leute des Dickichts, die Leute des Brunnens; Fitra (die Wesensart),
+  Brautgabe, Mütter der Gläubigen, deutliches Buch (clear Record), Kenner des Verborgenen; „Wollt ihr denn nicht Allah fürchten?“ (sura 26).
+- Added by C8: Ilyas, al-Yasa', Dhul-Kifl, Baal; Pharao mit den Pfählen; Zaqqum; die Mutter der Städte, Tag der Versammlung,
+  die Feuerglut; Gruppierungen (al-Ahzab). Names: der Allbezwingende (al-Qahhar); der beste der Erhörenden; der beste Schöpfer.
+- Added by C9: Huris mit großen, schönen Augen, Garten der Zuflucht, Sidr-Baum, der Gefährte des Fisches (68:48, unnamed),
+  Helfer Allahs, die Jünger, Gefährten der Rechten/Linken, die Vorausgehenden, Tag der Androhung, die Gesandten der Entschlossenheit.

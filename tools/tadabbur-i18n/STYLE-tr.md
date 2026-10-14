@@ -41,3 +41,9 @@
   büyük kurtuluş. Names: el-Ganî; övülmeye layık, şanı yüce (Hamîd/Mecîd); hâkimlerin en hayırlısı. No honorific inside quoted speech.
 - Added by C6: Hızır (no honorific), Zülkarneyn, Ye'cûc ve Me'cûc, Beytullah, Kehf Sûresi, Tûr-i Sînâ, Mizan, Sûr; Sübhân /
   “Sübhânallah”; çok şefkatli, çok merhametli (22:65); hüsnüzan, mühlet.
+- Added by C7: Kârûn, Hâmân, Ress halkı, Eyke halkı, Rûhu'l-Emîn; Fâtır, fıtrat, müminlerin anneleri, mehir, muhsinler,
+  Arş'a istivâ eden; zerre ağırlığınca.
+- Added by C8: İlyâs, Elyesa, Zülkifl (a.s.), Ba'l; Ümmü'l-Kurâ; kazıklar sahibi Firavun; toplanma günü, buluşma günü; zakkum,
+  müttakîler, Mushaf, Arş'ı taşıyanlar; Kahhâr; “Eûzü billâhi mine'ş-şeytâni'r-racîm”, “Lâ ilâhe illallah”, “Elhamdülillah”.
+- Added by C9: el-Beytü'l-Ma'mûr, Sidre ağacı, Me'vâ cenneti, Necm Sûresi, Kâria, havariler, balık sahibi (68:48, unnamed),
+  azim sahibi peygamberler, öne geçenler / sağdakiler / soldakiler, iri gözlü huriler, Dönüş günü, tehdit günü.

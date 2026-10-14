@@ -47,3 +47,8 @@
   contre le Diable banni »; le mont Sinaï, la Balance, la Trompe; « point de divinité que Moi ».
 - Added by C7: Qârûn, Hâmân (no honorific), les gens d'al-Ayka, fitra, mahr, les Mères des croyants, Iblîs, la sourate Luqmân;
   « Ne craindrez-vous pas Allah ? » (sura 26); 32:4 « Il s'est élevé au-dessus de Son Trône ».
+- Added by C8: Élie, Élisée, Dhûl-Kifl (paix sur lui); Pharaon, l'homme aux pieux; Zaqqûm; le fils de Marie; Jour du Compte,
+  Jour de la Rencontre, Jour du Rassemblement; la Mère des cités, la Fournaise. Names: l'Unique, le Dominateur suprême; le Puissant,
+  l'Omniscient; le meilleur de ceux qui répondent.
+- Added by C9: les apôtres (61:14), « les auxiliaires d'Allah », la Maison peuplée, houris aux grands yeux, le Lotus, le Fracas
+  (al-Hâqqa), gens de la droite / de la gauche, les devanciers, les messagers doués de fermeté, le Jour de la menace.
