@@ -23,8 +23,10 @@ Code: CI18N.tr(lang, en, ns) namespace files (js/content-i18n.js); tadabbur.js c
 | ar | COMPLETE 6,778, DEPLOYED v947 (every ﴿﴾ quote filled from quran-words via placeholders) |
 | id | COMPLETE 6,778, DEPLOYED v948 |
 | hi | COMPLETE 6,778, DEPLOYED v948 |
-| Remaining langs (USER SAID STOP 2026-10-10 ~15:30) | ms tr fa fr es de ru zh ja NOT started. Each ≈3% of 7d. Same recipe: pilot C1 → STYLE-<lang>.md → C2..C10, merge-tr.js <lang> --write, bump, deploy |
-| EN slip still open | 37:41 'two verses ago' (painful punishment is 37:38, three back); minor |
+| es | COMPLETE 6,778, DEPLOYED v949 |
+| ms tr fa fr de ru zh ja | WAVE 2 (2026-10-14): pilots C1 done (STYLE-<lang>.md), C2..C10 in progress. Recipe unchanged; retranslate list = work/RETRANSLATE.txt |
+| EN fixed 2026-10-14 (en+bn, retranslated in every lang that had them) | 2:186 (fasting verses, not prayer), 3:133-134, 14:34 (most unjust), 18:94 (r + p4), 18:63 (Satan made him forget), 37:41 |
+| EN slip 37:41 | FIXED 2026-10-14 ("A few verses ago") |
 | EN fixed by hand (with bn + translated langs) | 23:20, 23:38, 11:88, 6:152 (weak misattributed report removed), 26:186, 31:34, 37:88, 39:67, 37:55, 34:13, 17:78-79, 4:78, 26:157, 26:208, 34:21, 37:45, 37:166, 38:78 |
 | getSurahName | ar/fa now use arabicName (was English) |
 | More EN fixes (en+bn only so far) | 18:31, 19:31 (r+l), 26:186, 34:12, 30:18, 83:21 (Israfil per al-Qurtubi; 'prophets and martyrs' unsupported). Retranslated in ur/ar/hi/id (work/retranslate.json) |
