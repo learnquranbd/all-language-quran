@@ -22,3 +22,16 @@
   "you" in questions → 你; "we" → 我们 (inclusive), "you" plural of an ayah → 你们; lessons are direct gentle imperatives addressed to 你
   (让……、要……、把……、永远不要……), no 请.
 - Punctuation: full-width （），。；：？！ ; quotes “ ” (inner ‘ ’); dash ——; verse refs stay Latin digits (2:255, 39:53-54), no spaces added.
+- Added by C2: 素莱曼、达五德（达五德的家属）、宰凯里雅（愿主赐他平安）. Terms: 精灵 (jinn), 认主独一 (tawheed), 敬畏（台格瓦）once per
+  card where the English keeps "taqwa", 天课 (zakah), 伪信者, 斋戒, 后世, 夜间礼拜, 受赞颂的地位 (17:79), 赐人安宁的 (59:23),
+  精明的、彻知的 (6:103), “有” (kun), 15:99 直到那确定之事——死亡——降临你.
+- Added by C3: 本亚明、吉卜利里、米卡里、法老、以色列的后裔、恶魔 (Satan)、天神 (angels); 清真寺, 朝向（格卜莱）, 中正的民族, 代治者（哈里发）,
+  正朝/副朝, 站阿拉法特, 天房, 高贵的夜间（盖德尔夜）, 功过簿, 报应日, 求饶（伊斯提格法尔）, 合法/佳美, 镇静 (sakinah). Names: 常赦的 (Ghaffar);
+  至赦的、至爱的; 慷慨的主; 最善于供给的; 最善于创造的; 常常准人悔过的 (Tawwab). No spaces around verse refs.
+- Added by C4: 麦尔彦、麦西哈、查鲁特、易司马仪、易司哈格、各支派、安优卜、哈伦、呼德、撒立哈、阿德人、赛莫德人、麦德彦人; （愿主赐他们平安）for
+  several; 吴侯德、白德尔; 《讨拉特》《引支勒》《宰逋尔》; 信奉天经的人, 诚笃者, 玄灵; 利息 (riba), 以物配主 (shirk), 圣行, 圣训, 受戒, 天房（克尔白）,
+  朝觐, 待婚期, 血锾, 罚赎, 聘仪. Names: 万能的、至睿的; 全聪的、全知的; 足为监护者 (Wakil).
+- Added by C5: 撒米里、易卜劣厮、鲁特、权贵的妻子 (wife of al-'Aziz); 法版, 安息日, 小净 (wudu), 敬畏的人们 (muttaqin), “弗尔甘”（分辨真伪的准则）,
+  归宿之日, 教胞. Names: 无求的 (al-Ghaniyy); 可颂的、光荣的; 临近的、有求必应的.
+- Added by C6: 黑祖尔 (al-Khidr), 左勒盖尔奈英, 雅朱者和马朱者, 《山洞章》, 图尔山, 西奈山, 号角, 叩头, 道“色兰”祝安; "赞主超绝"（苏布哈奈拉）.
+  Names: 至刚的、万能的; 仁爱的、至慈的. No honorific inside others' quoted words.

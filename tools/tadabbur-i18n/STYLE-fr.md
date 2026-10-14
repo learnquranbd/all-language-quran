@@ -33,3 +33,17 @@
   le Vivant; le meilleur des héritiers; 3:173 « Allah nous suffit ; Il est notre meilleur garant ». Terms: crainte d'Allah /
   ceux qui craignent Allah (God-conscious), piété (righteousness), le Rappel (15:9), station de louange (17:79), zakât,
   Jardin des délices, dans le sentier d'Allah, les fils d'Adam. ﷺ added after le Messager / Son Messager.
+- Added by C3: Noé, Benjamin, Pharaon, les Enfants d'Israël, Gabriel et Michel, le Diable (Satan). Names: le Subtil (where the
+  English says "the Subtle"), le Pardonneur, le Tout-Affectueux (al-Wadud); le Très Généreux; le meilleur des donateurs; le plus
+  Miséricordieux des miséricordieux; le meilleur des créateurs; l'Omniscient; Celui qui pardonne sans cesse; Celui qui accueille
+  toujours le repentir. Terms: umma wasat, qibla, khalîfa, le hajj et la 'umra, 'Arafa, la Nuit du Décret, licite / pur.
+- Added by C4: Jésus, Marie, le Messie, David, Goliath, Ismaël, Isaac, Job, Aaron, Hûd, Sâlih; (paix sur eux) for several;
+  les 'Âd, les Thamûd, Madyan, Uhud, Badr, Médine, la Ka'ba; les Tribus, le Zabûr, la Torah, l'Évangile, l'Esprit saint,
+  la Trompe; usure (riba), shirk / l'association, tâghût, ihrâm, la Sunna, les véridiques. 3:55 « Je vais te prendre » (neutral).
+- Added by C5: Aaron, Loth (paix sur lui), le Sâmirî, Iblîs, les Mecquois, les Bédouins, les gens du Rappel; l'Heure, le Jour
+  dernier, le Jour du Retour, ablutions; Arabic terms glossed where the English keeps them: « un discernement (furqân) »,
+  « les pieux (muttaqîn) ». Names: Celui qui n'a besoin de rien (al-Ghanî); le Garant de toute chose; Digne de louange, Plein de gloire.
+- Added by C6: al-Khidr (no honorific), Dhû-l-Qarnayn, Yâjûj et Mâjûj, la sourate al-Kahf; « je cherche refuge auprès d'Allah
+  contre le Diable banni »; le mont Sinaï, la Balance, la Trompe; « point de divinité que Moi ».
+- Added by C7: Qârûn, Hâmân (no honorific), les gens d'al-Ayka, fitra, mahr, les Mères des croyants, Iblîs, la sourate Luqmân;
+  « Ne craindrez-vous pas Allah ? » (sura 26); 32:4 « Il s'est élevé au-dessus de Son Trône ».

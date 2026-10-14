@@ -27,3 +27,17 @@
 - Register: reflections in a neutral teaching voice (geniş zaman, "Âyet … öğretir"); reflection questions first person singular
   ("ben": … miyim?, … nasıl değiştirir?), keeping "you"/"we" where the English uses them (sen / biz); lessons warm "sen" imperative
   (iste, yönel, bırak … -sın), never "siz". Quotes “ ” for every English quote, single or double. Verse refs untouched.
+- Added by C2: Süleyman, Dâvûd (a.s.) ailesi, İbrâhim, Zekeriyyâ, Yûsuf (a.s.); Resûlü ﷺ. Names: Latîf; Samed; celal ve ikram
+  sahibi; Rabbinin vechi; Rahmân'ın kulları; çok bağışlayan; duayı hakkıyla işiten; en güzel isimler. Terms: Naîm cenneti,
+  Âdemoğulları, münafıklar, zekât, yakîn (15:99), "Allah bize yeter; O ne güzel vekildir" (3:173). Yaratıcı'nın (apostrophe).
+- Added by C3: İsrailoğulları, Firavun, Bünyamin, Cebrâil ve Mîkâil, Makām-ı İbrâhim; hac ve umre, Arafat vakfesi, kıble, mescit,
+  itikâf, halife, vasat ümmet, Kadir gecesi, amel defteri, sekînet. Names: Latîf ve Habîr; Gaffâr; Gafûr ve Vedûd; kerem sahibi
+  Rabbin; rızık verenlerin en hayırlısı; merhametlilerin en merhametlisi; yaratanların en güzeli. âyet for "sign" only where it
+  cannot be misread as "verse" (else işaret/delil).
+- Added by C4: Îsâ, Meryem, Mesih, Nûh, Hûd, Sâlih, Eyyûb, Hârûn, İsmâil, İshak, Yâkub (a.s.); Câlût, Âd, Semûd, Medyen; Kâbe,
+  Zebur, Tevrat, İncil, Ruhu'l-Kudüs, Arş, Sûr, Ehl-i Kitap; faiz (riba), şirk, tâğut, ihram, mehir, sıddıklar. fahishah =
+  fuhuş/hayâsızlık (never fâhişe); haraj = harec (never haraç). 3:55 neutral "Seni alacağım".
+- Added by C5: Sâmirî, Azîz'in karısı, Lût (a.s.), İblis; furkan, te'vil, zikir ehli, abdest, takva sahipleri, kurtuluşa erenler,
+  büyük kurtuluş. Names: el-Ganî; övülmeye layık, şanı yüce (Hamîd/Mecîd); hâkimlerin en hayırlısı. No honorific inside quoted speech.
+- Added by C6: Hızır (no honorific), Zülkarneyn, Ye'cûc ve Me'cûc, Beytullah, Kehf Sûresi, Tûr-i Sînâ, Mizan, Sûr; Sübhân /
+  “Sübhânallah”; çok şefkatli, çok merhametli (22:65); hüsnüzan, mühlet.

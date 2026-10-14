@@ -31,3 +31,21 @@
   in the plural use ihr („Allah weiß, ihr aber wisst nicht“).
 - Punctuation: German quotes „ “ for both English "…" and '…'; Gedankenstrich – with spaces for the English dash;
   verse references unchanged (2:255).
+- Added by C2: Sulaiman, Dawud (die Sippe Dawuds), Zakariyya, Ibrahim, Yusuf (Friede sei mit ihm). Names: die ewige Zuflucht
+  (as-Samad); Kenner des Verborgenen und des Offenbaren; der König; der Reine; der Sicherheit Gewährende; der Schöpfer und
+  Gestalter; der Feinfühlige (al-Latif), der Allkundige; der Allhörende und Allwissende; der immer wieder vergibt (Ghaffar);
+  Vergeber der Sünde und Annehmer der Reue; Dem Erhabenheit und Ehre eigen sind; der beste der Erben. Quotes: „Allah genügt uns,
+  und welch vorzüglicher Sachwalter ist Er!“ (3:173); „lobenswerte Stellung“ (17:79); „bis die Gewissheit zu dir kommt“;
+  Kehrvers; Zakat entrichten. "Gott" only in the formula „es gibt keinen Gott außer Ihm“.
+- Added by C3: Pharao, Kinder Israels, Satan, Dschibril und Mikail; Statthalter (Khalifa), Umma, Gebetsrichtung (Qibla),
+  Gemeinschaft der Mitte, Pilgerfahrt (Hadsch), Besuchsfahrt (Umra), Arafa, Moschee, Versorgung (Rizq), Nacht der Bestimmung.
+  Names: der Liebevolle (al-Wadud), der Edelmütige (82:6), der beste Versorger, der beste Schöpfer, der Barmherzigste der Barmherzigen.
+- Added by C4: Maryam, Isma'il, Ishaq, Ayyub, Harun, Salih, Hud, die Stämme (al-Asbat); 'Ad, Thamud, Madyan, Galut, Kaaba;
+  Tora, Evangelium, Psalmen, Leute der Schrift, der Messias, der heilige Geist; Beigesellung (Schirk), Taghut, Zins (Riba),
+  Brautgabe, Weihezustand (Ihram). Names: der beste Planer (never Ränkeschmied); Reue-Annehmend und Barmherzig.
+- Added by C5: der Samiri, Iblis, die Frau des 'Aziz, die Mekkaner, Sabbat; Unterscheidung (Furqan), Deutung (Ta'wil), die
+  Gottesfürchtigen (al-Muttaqun), Gebetswaschung (Wudu'), die Leute der Ermahnung, Gebetsstätten. Names: der Unbedürftige
+  (al-Ghani); der Lobenswürdige, der Ruhmvolle; (Friede sei mit ihnen) for two prophets.
+- Added by C6: al-Chidr, Dhul-Qarnain, Gog und Magog; Niederwerfung (Sadschda), Friedensgruß (Salam), das Horn, die Waage, die
+  Satane; „Ich suche Schutz bei Allah vor dem gesteinigten Satan“; der Allerbarmer (ar-Rahman); Gütig und Barmherzig (22:65).
+  English prophet forms become Islamic forms (Moses→Musa, Jesus→Isa, Solomon→Sulaiman).

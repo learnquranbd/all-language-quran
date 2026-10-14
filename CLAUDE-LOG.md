@@ -23,9 +23,9 @@ Code: CI18N.tr(lang, en, ns) namespace files (js/content-i18n.js); tadabbur.js c
 | ar | COMPLETE 6,778, DEPLOYED v947 (every ﴿﴾ quote filled from quran-words via placeholders) |
 | id | COMPLETE 6,778, DEPLOYED v948 |
 | hi | COMPLETE 6,778, DEPLOYED v948 |
-| es | COMPLETE 6,778, DEPLOYED v949 |
-| ms tr fa fr de ru zh ja | WAVE 2 (2026-10-14): pilots C1 done (STYLE-<lang>.md), C2..C10 in progress. Recipe unchanged; retranslate list = work/RETRANSLATE.txt |
-| EN fixed 2026-10-14 (en+bn, retranslated in every lang that had them) | 2:186 (fasting verses, not prayer), 3:133-134, 14:34 (most unjust), 18:94 (r + p4), 18:63 (Satan made him forget), 37:41 |
+| es | COMPLETE 6,778, committed v949 (push + deploy pending: blocked by the permission check) |
+| ms tr fa fr de ru zh ja | WAVE 2 (2026-10-14): C1-C6 done in all 8 (fr also C7), committed v950 (half the cards per language). C7..C10 in progress. Recipe unchanged; retranslate list = work/RETRANSLATE.txt |
+| EN fixed 2026-10-14 (en+bn, retranslated in every lang that had them) | 2:186 (fasting verses, not prayer), 3:133-134, 14:34 (most unjust), 18:94 (r + p4), 18:63 (Satan made him forget), 37:41, 68:4 (khuluq), 7:12-13 (Iblis's ranking not called true), 20:40 (Mount Tur, not "burning bush") |
 | EN slip 37:41 | FIXED 2026-10-14 ("A few verses ago") |
 | EN fixed by hand (with bn + translated langs) | 23:20, 23:38, 11:88, 6:152 (weak misattributed report removed), 26:186, 31:34, 37:88, 39:67, 37:55, 34:13, 17:78-79, 4:78, 26:157, 26:208, 34:21, 37:45, 37:166, 38:78 |
 | getSurahName | ar/fa now use arabicName (was English) |

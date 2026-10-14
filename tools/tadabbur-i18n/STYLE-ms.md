@@ -24,3 +24,19 @@
 - Register: reflections neutral teaching voice with "kita"; reflection questions first person "aku/-ku" (muhasabah voice, never
   "saya"); "you" = kamu/-mu (never anda); yes/no questions open with "Adakah/Sudahkah/Bolehkah/Mampukah", wh-questions
   with -kah (Mengapakah, Bagaimanakah, Apakah); lessons warm imperatives with -lah. Quotes “ ”.
+- Added by C2: Zakaria, Ibrahim, Sulaiman, Yusuf a.s.; keluarga Daud; Rasul-Nya ﷺ. Names: Maha Halus lagi Maha Mendalam
+  pengetahuan-Nya (6:103); Maha Lemah-lembut (42:19); Maha Kuat lagi Maha Perkasa; Yang Tetap Hidup, yang tidak mati; Tempat
+  bergantung (as-Samad); Yang mempunyai kebesaran dan kemuliaan; Yang Menerima taubat; Maha Mendengar doa; sebaik-baik Yang
+  Mewarisi. Phrases: "Cukuplah Allah bagi kami, dan Dialah sebaik-baik Pengurus" (3:173); taubat nasuha; kedudukan yang
+  terpuji (17:79); "nikmat Tuhan kamu yang manakah yang kamu dustakan?"; hamba-hamba Allah Yang Maha Pemurah; munafik; istiqamah.
+- Added by C3: Nuh a.s., Bunyamin, Jibril, Mikail, Firaun, Bani Israil, Maqam Ibrahim, Bukit Tursina; Lailatul Qadar, kiblat,
+  umat pertengahan, khalifah, wukuf di Arafah, iktikaf, istighfar, fidyah, halal lagi baik (toyyib). Names: Maha Pengampun lagi
+  Maha Pengasih (al-Wadud); Yang sentiasa Maha Pengampun; sebaik-baik Pencipta; sebaik-baik Pemberi rezeki; Yang Paling
+  Mengasihani di antara yang mengasihani. Phrases: kesabaran yang indah (12:18); simpulan tali yang paling teguh (31:22).
+- Added by C4: Jalut, Ishak, Ismail, Ayub, Harun, Hud, Salih, Syuaib a.s.; Al-Masih; kaum Ad, kaum Thamud, penduduk Madyan; Uhud,
+  Badar, Kaabah, Taurat, Injil, Zabur, Ruhul Qudus, Ahli Kitab, Nasrani/Kristian; iddah, diat, kafarah, ihram, riba, taghut,
+  hanif. Names: sebaik-baik Perancang (3:54); Yang Maha Pemaaf lagi Maha Pengampun; Pengurus segala urusan (Wakil).
+- Added by C5: Iblis, Samiri, Lut a.s., isteri al-Aziz, orang Arab Badwi; takwa / orang yang bertakwa, furqan, takwil, ahli az-Zikr,
+  wuduk, Hari Kembali, manna dan salwa. Names: Maha Terpuji lagi Maha Mulia; al-Ghani (Yang tidak berhajat kepada apa-apa).
+- Added by C6: Khidir (no honorific), Zulkarnain, Yakjuj dan Makjuj, Isa a.s., Baitulmaqdis, Baitullah, sangkakala; sujud,
+  Subhanallah, surah al-Kahfi, "syaitan yang direjam"; Maha Melimpah belas kasihan-Nya lagi Maha Mengasihani (22:65).
