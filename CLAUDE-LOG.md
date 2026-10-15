@@ -12,7 +12,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
-## Usage at last check (2026-10-15): 7d 95% = STOP, resets Mon 19 Oct 16:00. 5h 6%. Nothing merged uncommitted; v959 pushed + deployed.
+## Usage at last check (2026-10-15, end of session): BUDGET [claude-max] 5h 11% (resets Thu 15 Oct, 21:40) | 7d 97% (resets Mon 19 Oct, 16:00). Next: Tadabbur shard 2 packet R7 (tools/bn-review/tad-step.sh 2 <n> after each).
 
 ## Tadabbur articles Bengali review (2026-10-15, user: "run one by one, save after each")
 - Last Bengali module: js/tadabbur-articles/*.js, 25,527 pairs / 114 shards, 605 dash hits. bn.js now takes
@@ -22,7 +22,8 @@ the state, kept short on purpose. Full history of earlier rounds:
 - At shard end: normalise spellings across the shard (হাদীস→হাদিস, নামায→নামাজ, নাযিল→নাজিল; rewritten strings already use them).
 - Open EN: 2:97-98 s3.p2 says 2:98 answers "in the first person"; the verse names Allah in the third person (BN says আল্লাহর নিজের পক্ষ থেকে).
 - Open EN: 2:113-114 s5.p0 "almost never that specific" reads as "never starts that sweeping" (BN says ঢালাও).
-- Progress (shard: packets done): 2: 5/12
+- Open EN: 2:132-133 s4.p1 "Two prophets turn the command into a request": the second example is Fir'awn's magicians (7:126), not a prophet.
+- Progress (shard: packets done): 2: 6/12
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
 - Tool tools/bn-review/bn.js extract <file> <CONST> | apply <CONST> [--write]; brief tools/bn-review/BRIEF.md (follows

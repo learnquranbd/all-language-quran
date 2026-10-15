@@ -2729,7 +2729,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first request is in the dual. Muslimayni laka — two submitters to You — because two people are speaking, a father and a son. What they ask for is the thing an onlooker would assume they already had. They are building the House of Allah on His instruction, and one of the first things out of their mouths is a request to be made submitters, preceded in the verse before by a plea that the work be accepted at all.",
-            "bn": "প্রথম আবেদনটি দ্বিবচনে। মুসলিমাইনি লাকা — আপনার কাছে অনুগত দুজন — কারণ কথা বলছেন দুজন, এক পিতা ও এক পুত্র। তাঁরা ঠিক সেই জিনিসটিই চাইছেন, যা তাঁদের ইতিমধ্যেই আছে বলে যে কোনো দর্শক ধরে নিত। তাঁরা আল্লাহরই নির্দেশে তাঁর ঘর নির্মাণ করছেন, অথচ তাঁদের মুখ থেকে বেরোনো প্রথম কথাগুলোর একটি হলো অনুগত বানিয়ে দেওয়ার আবেদন — আর তার আগের আয়াতে ছিল এই মিনতি যে কাজটি আদৌ যেন কবুল হয়।"
+            "bn": "প্রথম আবেদনটা দ্বিবচনে: মুসলিমাইনি লাকা, আপনার অনুগত দুজন। কারণ কথা বলছেন দুজন, এক পিতা আর এক পুত্র। তাঁরা চাইছেন ঠিক সেই জিনিস, যা বাইরে থেকে যে কেউ দেখে ভাবত তাঁদের তো আছেই। আল্লাহর হুকুমেই তাঁরা তাঁর ঘর বানাচ্ছেন, অথচ মুখ খুলে প্রথম দিকের কথাগুলোর একটাই হলো: আমাদের অনুগত বানিয়ে দিন। আর তার আগের আয়াতে তাঁরা মিনতি করেছেন, কাজটা যেন আদৌ কবুল হয়।"
           }
         ]
       },
@@ -2741,7 +2741,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Count the imperatives in the verse and there are three: make us, show us, and turn to us. Everything else is either the content of a request or the ground for one. The closing words — indeed You are the Accepting of repentance, the Merciful — are not a fourth petition; they are the reason the third one was worth making. The prayer names two divine attributes and asks for exactly what those two attributes give.",
-            "bn": "আয়াতের আদেশবাচক ক্রিয়াগুলো গুনলে পাওয়া যায় তিনটি: আমাদের বানান, আমাদের দেখান, আর আমাদের প্রতি ফিরুন। বাকি সবই হয় কোনো আবেদনের বিষয়বস্তু, নয়তো কোনো আবেদনের ভিত্তি। শেষ কথাগুলো — নিশ্চয়ই আপনি তাওবা কবুলকারী, পরম দয়ালু — চতুর্থ কোনো আবেদন নয়; বরং সেগুলোই সেই কারণ, যার জন্য তৃতীয় আবেদনটি করার মতো ছিল। দু'আটি আল্লাহর দুটি গুণের নাম নেয় এবং ঠিক সেই জিনিসই চায়, যা এই দুটি গুণ দিয়ে থাকে।"
+            "bn": "আয়াতে হুকুমের ক্রিয়াগুলো গুনলে পাবেন তিনটি: আমাদের বানান, আমাদের দেখান, আর আমাদের প্রতি ফিরুন। বাকি সব কথা হয় কোনো আবেদনের বিষয়, নয়তো আবেদনের ভিত্তি। শেষের কথাগুলো, নিশ্চয়ই আপনি তাওবা কবুলকারী, পরম দয়ালু, চতুর্থ কোনো আবেদন নয়। এগুলোই সেই কারণ, যার ভরসায় তৃতীয় আবেদনটা করা চলে। দু'আটি আল্লাহর দুটি গুণের নাম নেয়, আর চায় ঠিক তা-ই, যা এই দুই গুণ দিয়ে থাকে।"
           }
         ]
       },
@@ -2753,11 +2753,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The request for a nation is worded carefully: wa min dhurriyyatina ummatan muslimatan laka — and from our offspring, a nation submitting to You. The min is partitive. He does not ask that all his descendants be that nation, and he had already learned why. In 2:124, when Ibrahim (AS) was made a leader for the people and asked whether the covenant extended to his descendants, the answer was that it does not include the wrongdoers.",
-            "bn": "একটি জাতির জন্য আবেদনটি অত্যন্ত সাবধানে গঠিত: ওয়া মিন যুররিয়্যাতিনা উম্মাতাম মুসলিমাতাল লাকা — আর আমাদের বংশধরদের থেকে আপনার অনুগত একটি জাতি। এখানে 'মিন' অংশবাচক। তিনি চাননি যে তাঁর সব বংশধরই সেই জাতি হোক, আর কেন নয় তা তিনি আগেই শিখেছিলেন। 2:124-এ যখন ইবরাহীম (আঃ)-কে মানুষের নেতা করা হয় এবং তিনি জিজ্ঞেস করেন অঙ্গীকার তাঁর বংশধরদের পর্যন্তও পৌঁছবে কি না, জবাব আসে যে তা জালিমদের অন্তর্ভুক্ত করে না।"
+            "bn": "জাতির জন্য আবেদনের শব্দগুলো খুব মেপে বাছা: ওয়া মিন যুররিয়্যাতিনা উম্মাতাম মুসলিমাতাল লাকা, আর আমাদের বংশধরদের মধ্য থেকে আপনার অনুগত এক জাতি। এখানে 'মিন' অংশ বোঝায়। তিনি চাননি যে তাঁর সব বংশধরই সেই জাতি হোক, আর কেন চাননি তা তিনি আগেই শিখেছিলেন। 2:124-এ ইবরাহীম (আঃ)-কে মানুষের নেতা বানানো হলে তিনি জিজ্ঞেস করেছিলেন, এই অঙ্গীকার কি তাঁর বংশধরদের পর্যন্তও যাবে। জবাব এসেছিল: জালিমরা এর মধ্যে পড়ে না।"
           },
           {
             "en": "So this is hope that has been to school. In 2:126 the same man, having heard the answer of 2:124, asked provision only for those of the city who believe, and Allah extended it even to the disbeliever, for a little while, before the punishment of the Fire. He had asked broadly once and learned the limit; he asked narrowly the second time and was answered more generously than he asked. By our verse he asks for a portion of his line rather than the whole of it.",
-            "bn": "অর্থাৎ এটি এমন আশা যা শিক্ষা পেয়ে এসেছে। 2:124 আয়াতের জবাব শোনার পর এই মানুষটিই 2:126 আয়াতে শহরের কেবল ঈমানদার অধিবাসীদের জন্য জীবিকা চেয়েছিলেন, আর আল্লাহ তা বাড়িয়ে দিলেন কাফেরের জন্যও, কিছুকালের ভোগ, তারপর জাহান্নামের শাস্তি। একবার তিনি ব্যাপকভাবে চেয়ে সীমাটি শিখেছিলেন; দ্বিতীয়বার সংকীর্ণ করে চাইলেন, আর যা চেয়েছিলেন তার চেয়ে উদারভাবে জবাব পেলেন। আমাদের আয়াতে এসে তিনি নিজের বংশের একটি অংশ চাইছেন, পুরোটা নয়।"
+            "bn": "তাহলে এ হলো ঠেকে শেখা আশা। 2:124-এর জবাব শোনার পর এই মানুষটিই 2:126-এ জীবিকা চেয়েছিলেন শুধু শহরের ঈমানদারদের জন্য। আল্লাহ তা বাড়িয়ে দিলেন কাফেরের জন্যও: কিছুকাল ভোগ করতে দেবেন, তারপর জাহান্নামের শাস্তি। একবার তিনি সবার জন্য চেয়ে সীমাটা শিখেছিলেন। দ্বিতীয়বার চাইলেন মেপে, আর জবাব পেলেন চাওয়ার চেয়েও উদার। আমাদের আয়াতে এসে তিনি চাইছেন বংশের একটা অংশের জন্য, পুরো বংশের জন্য নয়।"
           }
         ]
       },
@@ -2769,11 +2769,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Arina manasikana — show us our rites. Manasik is the plural of mansak, and the commentators read it primarily of the rites of the hajj, and more widely of the ways of drawing near to Allah. The request is not for the desire to worship, which the two of them plainly had; it is for the instruction. Even a prophet building the Ka'bah does not deduce from his own sincerity how the worship at it is to be done.",
-            "bn": "আরিনা মানাসিকানা — আমাদের ইবাদতের নিয়মগুলো দেখিয়ে দিন। মানাসিক হলো 'মানসাক'-এর বহুবচন, আর মুফাসসিরগণ একে প্রধানত হজের বিধি-নিয়ম অর্থে পড়েন, আর ব্যাপকতর অর্থে আল্লাহর নৈকট্য লাভের পদ্ধতি অর্থে। আবেদনটি ইবাদতের আগ্রহের জন্য নয় — সেটি তাঁদের দুজনের স্পষ্টতই ছিল; আবেদনটি শিক্ষার জন্য। কাবা নির্মাণরত একজন নবীও নিজের আন্তরিকতা থেকে অনুমান করে বের করেন না যে সেখানে ইবাদত কীভাবে করতে হবে।"
+            "bn": "আরিনা মানাসিকানা: আমাদের ইবাদতের নিয়মগুলো দেখিয়ে দিন। মানাসিক শব্দটি 'মানসাক'-এর বহুবচন। মুফাসসিরগণ একে মূলত হজের বিধি-বিধান অর্থে বোঝেন, আর আরও বড় অর্থে আল্লাহর নৈকট্য পাওয়ার পথগুলো। তাঁরা ইবাদতের আগ্রহ চাইছেন না, সেটা তো দুজনেরই স্পষ্ট ছিল। তাঁরা চাইছেন শিক্ষা। কাবা গড়ছেন যে নবী, তিনিও নিজের আন্তরিকতা থেকে আন্দাজ করে নেন না, সেখানে ইবাদত কীভাবে করতে হবে।"
           },
           {
             "en": "That is a large principle inside a short clause, and it is still operating. Later, at 22:27, the proclamation of the hajj is commanded, and the rites Muslims perform around that House every year are the answer to a request made while its foundations were still going up. Worship in Islam is received rather than composed, and this verse is where one of the builders of the House asks to receive it.",
-            "bn": "ছোট একটি বাক্যাংশের ভেতরে এটি একটি বড় নীতি, আর তা এখনো কার্যকর। পরে 22:27-এ হজের ঘোষণা দেওয়ার নির্দেশ আসে, আর মুসলিমরা প্রতি বছর সেই ঘরের চারপাশে যে বিধিগুলো পালন করেন সেগুলোই এমন এক আবেদনের জবাব, যা করা হয়েছিল ঘরটির ভিত্তি তখনো ওঠার সময়ে। ইসলামে ইবাদত রচনা করা হয় না, গ্রহণ করা হয় — আর এই আয়াতেই সেই ঘরের একজন নির্মাতা তা গ্রহণ করার আবেদন জানাচ্ছেন।"
+            "bn": "ছোট্ট এক বাক্যাংশে বড় একটা নীতি লুকিয়ে আছে, আর সেটা আজও চলছে। পরে 22:27-এ হজের ঘোষণা দেওয়ার হুকুম আসে। মুসলিমরা প্রতি বছর সেই ঘরের চারপাশে যে বিধিগুলো পালন করেন, সেগুলো আসলে একটা আবেদনের জবাব। আবেদনটা করা হয়েছিল তখন, যখন ঘরের ভিত তখনো গাঁথা চলছে। ইসলামে ইবাদত কেউ নিজে বানিয়ে নেয় না, আল্লাহর কাছ থেকে পায়। আর এই আয়াতেই ঘরের এক নির্মাতা সেটা পাওয়ার আবেদন জানাচ্ছেন।"
           }
         ]
       },
@@ -2785,11 +2785,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The last request is the one that startles readers: wa tub 'alayna, and turn to us. Tawbah from the servant's side is a returning; from Allah's side, as the name at-Tawwab indicates, it is a turning towards the one who returns. Two people engaged in the most conspicuous act of obedience in their lives close the sentence by asking for that. Nothing in the verse names a particular sin; the request is simply treated as ordinary.",
-            "bn": "শেষ আবেদনটিই পাঠককে চমকে দেয়: ওয়া তুব আলাইনা — আর আমাদের প্রতি ফিরুন। বান্দার দিক থেকে তাওবা মানে ফিরে আসা; আর আল্লাহর দিক থেকে, যেমনটি আত-তাওয়াব নামটি বোঝায়, তা হলো যে ফিরে আসে তার দিকে ফিরে তাকানো। নিজেদের জীবনের সবচেয়ে দৃশ্যমান আনুগত্যের কাজে নিয়োজিত দুজন মানুষ বাক্যটি শেষ করছেন ঠিক সেই আবেদন দিয়ে। আয়াতে কোনো নির্দিষ্ট গুনাহের নাম নেই; আবেদনটিকে কেবল স্বাভাবিক বিষয় হিসেবেই রাখা হয়েছে।"
+            "bn": "শেষ আবেদনটাই পাঠককে চমকে দেয়: ওয়া তুব আলাইনা, আর আমাদের প্রতি ফিরুন। বান্দার দিক থেকে তাওবা মানে ফিরে আসা। আল্লাহর দিক থেকে, আত-তাওয়াব নামটি যেমন বোঝায়, তাওবা মানে যে ফিরে আসে তার দিকে ফিরে তাকানো। দুজন মানুষ জীবনের সবচেয়ে চোখে পড়ার মতো আনুগত্যের কাজটি করছেন, আর বাক্য শেষ করছেন ঠিক এই চাওয়া দিয়ে। আয়াতে কোনো নির্দিষ্ট গুনাহের নাম নেই। এই চাওয়াটাকে একেবারে সাধারণ ব্যাপার হিসেবেই রাখা হয়েছে।"
           },
           {
             "en": "The verse after theirs was answered in wording anyone can check. 2:129 asks for a messenger from among them who would recite Allah's verses, teach the Book and wisdom, and purify them. 3:164 and 62:2 describe what Allah actually did with the same three items, though not in the same order — reciting, purifying, then teaching. A prayer made at a foundation was answered across a gap the two of them did not live to see.",
-            "bn": "তাঁদের এর পরের আয়াতটির জবাব এসেছে এমন ভাষায় যা যে কেউ মিলিয়ে দেখতে পারে। 2:129-এ চাওয়া হয়েছে তাদেরই মধ্য থেকে এমন এক রাসূল, যিনি আল্লাহর আয়াত পড়ে শোনাবেন, কিতাব ও হিকমাত শেখাবেন, এবং তাদের পরিশুদ্ধ করবেন। 3:164 ও 62:2 বর্ণনা করে আল্লাহ প্রকৃতপক্ষে কী করেছেন — সেই একই তিনটি বিষয় নিয়ে, তবে একই ক্রমে নয়: পড়ে শোনানো, পরিশুদ্ধ করা, তারপর শেখানো। ভিত্তির পাশে করা একটি দু'আর জবাব এল এমন এক ব্যবধান পেরিয়ে, যা তাঁরা দুজন জীবদ্দশায় দেখে যাননি।"
+            "bn": "তাঁদের পরের আয়াতের দু'আর জবাব কীভাবে এসেছে, যে কেউ শব্দ মিলিয়ে তা দেখে নিতে পারেন। 2:129-এ তাঁরা চেয়েছেন তাদেরই মধ্য থেকে এক রাসূল, যিনি আল্লাহর আয়াত পড়ে শোনাবেন, কিতাব ও হিকমাত শেখাবেন, আর তাদের পরিশুদ্ধ করবেন। আল্লাহ আসলে কী করেছেন, তা জানায় 3:164 ও 62:2। সেখানেও সেই তিনটি বিষয়, তবে ক্রম আলাদা: পড়ে শোনানো, পরিশুদ্ধ করা, তারপর শেখানো। ভিতের পাশে দাঁড়িয়ে করা দু'আর জবাব এল এত লম্বা ব্যবধানে, যা তাঁরা দুজন বেঁচে থেকে দেখে যাননি।"
           }
         ]
       }
@@ -2825,11 +2825,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then the command itself: la tamutunna illa wa antum muslimun, do not die except while you are submitters. Read flatly it orders something nobody can obey, since no one schedules his own death. The prohibition therefore falls not on the dying but on the state death finds you in. And the word for that state, muslimun, is built on the same verb aslama that Ibrahim (AS) had used of himself one verse earlier. What he said about himself, he asks his sons to be.",
-            "bn": "এরপর খোদ হুকুমটা: ‘লা তামূতুন্না ইল্লা ওয়া আনতুম মুসলিমূন’, মুসলিম না হয়ে মরো না। সোজাসুজি পড়লে এ এমন হুকুম, যা কেউ পালন করতে পারে না, কারণ নিজের মৃত্যুর দিনক্ষণ কেউ ঠিক করে না। তাই নিষেধটা মরার ওপর নয়, মৃত্যু আপনাকে যে অবস্থায় পায় সেই অবস্থার ওপর। আর সেই অবস্থার শব্দ ‘মুসলিমূন’ গড়ে উঠেছে সেই ‘আসলামা’ ক্রিয়া থেকেই, যা এক আয়াত আগে ইবরাহীম (আঃ) নিজের সম্পর্কে বলেছিলেন। নিজের সম্পর্কে যা বলেছেন, ছেলেদের কাছে তিনি সেটাই হতে চাইছেন।"
+            "bn": "এরপর খোদ হুকুমটা: ‘লা তামূতুন্না ইল্লা ওয়া আনতুম মুসলিমূন’, মুসলিম না হয়ে মরো না। সোজাসুজি পড়লে এ এমন হুকুম, যা কেউ পালন করতে পারে না, কারণ নিজের মৃত্যুর দিনক্ষণ কেউ ঠিক করে না। তাই নিষেধটা মরার ওপর নয়, মৃত্যু আপনাকে যে অবস্থায় পায় সেই অবস্থার ওপর। আর সেই অবস্থার শব্দ ‘মুসলিমূন’ গড়ে উঠেছে সেই ‘আসলামা’ ক্রিয়া থেকেই, যা এক আয়াত আগে ইবরাহীম (আঃ) নিজের সম্পর্কে বলেছিলেন। নিজের সম্পর্কে যা বলেছিলেন, ছেলেদেরও তিনি তা-ই হতে বলছেন।"
           },
           {
             "en": "2:133 changes instrument. It does not argue; it asks. Am kuntum shuhada'a, or were you witnesses, is a question that expects no answer, put to people who were confidently reporting a scene they never attended. And the sons' reply keeps the same root running to the end: your God and the God of your fathers, Ibrahim and Isma'il and Ishaq, one God, and to Him we are muslimun. Three generations, one object of worship, and the same word for surrender closing the sentence.",
-            "bn": "2:133 আয়াত হাতিয়ার বদলায়। সে তর্ক করে না, প্রশ্ন করে। ‘আম কুনতুম শুহাদাআ’, তোমরা কি সাক্ষী ছিলে, এ এমন প্রশ্ন যার জবাব চাওয়া হচ্ছে না। প্রশ্নটা করা হচ্ছে তাদের, যারা এমন এক দৃশ্যের বিবরণ দিচ্ছিল যেখানে তারা কোনোদিন উপস্থিত ছিল না। আর ছেলেদের জবাবে সেই একই মূল শেষ পর্যন্ত চলতে থাকে: আপনার ইলাহ আর আপনার পূর্বপুরুষ ইবরাহীম, ইসমাঈল ও ইসহাকের ইলাহ, এক ইলাহ, আর আমরা তাঁরই কাছে ‘মুসলিমূন’। তিন পুরুষ, ইবাদতের এক পাত্র, আর বাক্যের শেষে আত্মসমর্পণের সেই একই শব্দ।"
+            "bn": "2:133 আয়াত হাতিয়ার বদলায়। সে তর্ক করে না, প্রশ্ন করে। ‘আম কুনতুম শুহাদাআ’, তোমরা কি সাক্ষী ছিলে, এ এমন প্রশ্ন যার জবাব চাওয়া হচ্ছে না। প্রশ্নটা করা হচ্ছে তাদের, যারা এমন এক দৃশ্যের বিবরণ দিচ্ছিল যেখানে তারা কোনোদিন উপস্থিত ছিল না। আর ছেলেদের জবাবে সেই একই মূল শেষ পর্যন্ত চলতে থাকে: আপনার ইলাহ আর আপনার পূর্বপুরুষ ইবরাহীম, ইসমাঈল ও ইসহাকের ইলাহ, এক ইলাহ, আর আমরা তাঁরই কাছে ‘মুসলিমূন’। তিন পুরুষ, ইবাদতের একই মাবুদ, আর বাক্যের শেষে আত্মসমর্পণের সেই একই শব্দ।"
           }
         ]
       },
@@ -2861,7 +2861,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir closes the passage with a second narration, attached to the verse just after ours. 2:134 tells the audience that a nation has passed away, that it has what it earned and they have what they earn, and that they will not be asked about its deeds. Ibn Kathir gives it without naming a collection; it is in Muslim's Sahih, from Abu Hurayrah (RA): whoever is slowed by his deeds will not be hastened by his lineage. Descent from Ibrahim (AS) is an accident of birth. What 2:132 commands is not.",
-            "bn": "ইবনে কাসীর অংশটা শেষ করেন আরেকটি বর্ণনা দিয়ে, যা আমাদের ঠিক পরের আয়াতের সাথে জোড়া। 2:134 আয়াত শ্রোতাদের বলে, একটা জাতি গত হয়ে গেছে; তাদের জন্য তাদের কামাই, তোমাদের জন্য তোমাদের কামাই, আর তারা কী করত সে সম্পর্কে তোমাদের জিজ্ঞেস করা হবে না। ইবনে কাসীর কোনো সংকলনের নাম না নিয়েই কথাটি আনেন; এটি আছে সহিহ মুসলিমে, আবু হুরায়রা (রাঃ)-এর সূত্রে: যাকে তার আমল পিছিয়ে দিয়েছে, বংশ তাকে এগিয়ে দেবে না। ইবরাহীম (আঃ)-এর বংশে জন্ম নেওয়া জন্মের ব্যাপার। 2:132 আয়াত যে হুকুম দেয়, সেটা নয়।"
+            "bn": "ইবনে কাসীর অংশটা শেষ করেন আরেকটি বর্ণনা দিয়ে, যা আমাদের ঠিক পরের আয়াতের সাথে জোড়া। 2:134 আয়াত শ্রোতাদের বলে, একটা জাতি গত হয়ে গেছে; তাদের জন্য তাদের কামাই, তোমাদের জন্য তোমাদের কামাই, আর তারা কী করত সে সম্পর্কে তোমাদের জিজ্ঞেস করা হবে না। ইবনে কাসীর কোনো সংকলনের নাম না নিয়েই কথাটি আনেন; এটি আছে সহিহ মুসলিমে, আবু হুরায়রা (রাঃ)-এর সূত্রে: যাকে তার আমল পিছিয়ে দিয়েছে, বংশ তাকে এগিয়ে দেবে না। ইবরাহীম (আঃ)-এর বংশে জন্ম হওয়া নিছক জন্মসূত্রে পাওয়া, কারও অর্জন নয়। 2:132 আয়াত যে হুকুম দেয়, সেটা তেমন নয়।"
           }
         ]
       },
@@ -2893,7 +2893,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "It also means noticing what the two fathers did not ask about. Ya'qub (AS) is at the end of his life, and the question he puts to his sons is what they will worship after him. He did not ask his sons about property, or about which of them will lead the family. A man can leave his children comfortable and leave them nothing. The verse suggests one test for a household: if that last conversation happened tonight, is there anything in it the children could answer together?",
-            "bn": "সেই সাথে এর মানে খেয়াল করা, দুই পিতা কী নিয়ে প্রশ্ন করেননি। ইয়াকুব (আঃ) জীবনের শেষ প্রান্তে, আর ছেলেদের কাছে তাঁর প্রশ্ন, তাঁর পরে তারা কার ইবাদত করবে। সম্পত্তি নিয়ে তিনি ছেলেদের কিছু জিজ্ঞেস করেননি, কে পরিবারের হাল ধরবে তা নিয়েও নয়। মানুষ সন্তানদের স্বচ্ছল রেখে যেতে পারে, অথচ কিছুই না রেখে যেতে পারে। আয়াতটি ঘরের জন্য একটা পরীক্ষা বাতলে দেয়: শেষ কথাটা যদি আজ রাতেই হতো, তার ভেতরে এমন কিছু কি আছে যার জবাব ছেলেমেয়েরা একসাথে দিতে পারত?"
+            "bn": "সেই সাথে এর মানে খেয়াল করা, দুই পিতা কী নিয়ে প্রশ্ন করেননি। ইয়াকুব (আঃ) জীবনের শেষ প্রান্তে, আর ছেলেদের কাছে তাঁর প্রশ্ন, তাঁর পরে তারা কার ইবাদত করবে। সম্পত্তি নিয়ে তিনি ছেলেদের কিছু জিজ্ঞেস করেননি, কে পরিবারের হাল ধরবে তা নিয়েও নয়। মানুষ সন্তানদের সচ্ছল রেখে গিয়েও আসলে কিছুই না রেখে যেতে পারে। আয়াতটি ঘরের জন্য একটা পরীক্ষা বাতলে দেয়: শেষ কথাটা যদি আজ রাতেই হতো, তার ভেতরে এমন কিছু কি আছে যার জবাব ছেলেমেয়েরা একসাথে দিতে পারত?"
           }
         ]
       },
@@ -2921,7 +2921,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "2:132 forbids me a state, not a date. If the state I am in tonight were fixed without warning, what in it would I want changed first, and what is stopping me from changing it now instead of at some later point I have quietly promised myself? Ya'qub (AS) asked his sons about worship at the one moment when nobody says anything unimportant. If I had that moment, what would I ask, and would the people around the bed have the faintest idea how to answer?",
-            "bn": "2:132 আয়াত আমাকে একটা অবস্থা নিষেধ করে, কোনো তারিখ নয়। আজ রাতে আমি যে অবস্থায় আছি, তা যদি কোনো সতর্কবার্তা ছাড়াই থেমে যেত, তার কোন জিনিসটা আমি সবার আগে বদলাতে চাইতাম? আর নিজেকে চুপচাপ দেওয়া কথায় ভরসা না করে এখনই তা বদলাতে আমাকে কী আটকাচ্ছে? ইয়াকুব (আঃ) ছেলেদের ইবাদত নিয়ে প্রশ্ন করেছিলেন এমন এক মুহূর্তে, যে মুহূর্তে কেউ অকাজের কথা বলে না। সেই মুহূর্ত আমার হলে আমি কী জিজ্ঞেস করতাম, আর শয্যার পাশে দাঁড়ানো মানুষগুলো আদৌ কি জানত কী জবাব দিতে হয়?"
+            "bn": "2:132 আয়াত আমাকে একটা অবস্থা নিষেধ করে, কোনো তারিখ নয়। আজ রাতে আমি যে অবস্থায় আছি, তা যদি কোনো সতর্কবার্তা ছাড়াই চিরদিনের মতো স্থির হয়ে যেত, তার কোন জিনিসটা আমি সবার আগে বদলাতে চাইতাম? আর পরে কোনো এক সময় করব বলে নিজেকে চুপচাপ যে কথা দিয়ে রেখেছি, তার অপেক্ষায় না থেকে এখনই তা বদলাতে আমাকে কী আটকাচ্ছে? ইয়াকুব (আঃ) ছেলেদের ইবাদত নিয়ে প্রশ্ন করেছিলেন এমন এক মুহূর্তে, যে মুহূর্তে কেউ অকাজের কথা বলে না। সেই মুহূর্ত আমার হলে আমি কী জিজ্ঞেস করতাম, আর শয্যার পাশে দাঁড়ানো মানুষগুলো আদৌ কি জানত কী জবাব দিতে হয়?"
           },
           {
             "en": "2:134 tells me I will not be asked about the deeds of those who went before me. Which parts of my religion are actually mine, and which are borrowed from a family or a culture that will not be standing next to me? And when I read the sons' answer, your God and the God of your fathers, one God, whose faith am I currently making it easier for my own children to hold?",
@@ -2961,7 +2961,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The occasion is established. Al-Bukhari records from al-Bara' ibn Azib (RA) that the Prophet ﷺ prayed toward Bayt al-Maqdis for sixteen or seventeen months while wishing to face the Ka'bah, and that the first prayer he offered facing it was Asr. Ibn Kathir transmits from Ibn Abbas (RA) that this was the first abrogation in the Quran, and that in that period the Prophet ﷺ would supplicate and look up toward the sky. That waiting is what 2:144 opens by describing.",
-            "bn": "শানে নুযুল এখানে প্রতিষ্ঠিত। বুখারি বারা ইবনে আযিব (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ ষোলো কিংবা সতেরো মাস বায়তুল মাকদিসের দিকে ফিরে নামায পড়েছেন, অথচ মনে চাইত কাবার দিকে ফিরতে; আর কাবার দিকে ফিরে তাঁর পড়া প্রথম নামায ছিল আসর। ইবনে কাসীর ইবনে আব্বাস (রাঃ) থেকে জানান, কুরআনে এটিই প্রথম রহিত হওয়ার ঘটনা, আর সেই সময়টাতে নবী ﷺ দোয়া করতেন এবং আকাশের দিকে তাকিয়ে থাকতেন। সেই অপেক্ষার কথা দিয়েই 2:144 আয়াত শুরু হয়।"
+            "bn": "এর শানে নুযুল নির্ভরযোগ্য সূত্রে প্রমাণিত। বুখারি বারা ইবনে আযিব (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ ষোলো কিংবা সতেরো মাস বায়তুল মাকদিসের দিকে ফিরে নামায পড়েছেন, অথচ মনে চাইত কাবার দিকে ফিরতে; আর কাবার দিকে ফিরে তাঁর পড়া প্রথম নামায ছিল আসর। ইবনে কাসীর ইবনে আব্বাস (রাঃ) থেকে জানান, কুরআনে এটিই প্রথম রহিত হওয়ার ঘটনা, আর সেই সময়টাতে নবী ﷺ দোয়া করতেন এবং আকাশের দিকে তাকিয়ে থাকতেন। সেই অপেক্ষার কথা দিয়েই 2:144 আয়াত শুরু হয়।"
           }
         ]
       },
@@ -3089,7 +3089,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse says the first qibla was set in order to separate those who follow from those who turn on their heels. Which instruction have I found heaviest this year, and which of the two groups did my response put me in? Being called a witness means being looked at. If a neighbour or a colleague built their whole picture of this religion out of my week, what would be in the picture, and which part of it would I want to take back?",
-            "bn": "আয়াত বলছে, প্রথম কিবলা রাখা হয়েছিল অনুসরণকারীদের থেকে পিছু হটাদের আলাদা করার জন্য। এ বছর কোন হুকুমটা আমার কাছে সবচেয়ে ভারী লেগেছে, আর আমার জবাব আমাকে দুই দলের কোনটিতে ফেলেছে? সাক্ষী বলার মানে, আপনার দিকে তাকিয়ে থাকা হচ্ছে। প্রতিবেশী বা সহকর্মী যদি কেবল আমার সপ্তাহটা দেখে এই দ্বীনের গোটা ছবিটা আঁকেন, সেই ছবিতে কী কী থাকবে, আর তার কোন অংশটা আমি ফিরিয়ে নিতে চাইব?"
+            "bn": "আয়াত বলছে, প্রথম কিবলা রাখা হয়েছিল অনুসরণকারীদের থেকে পিছু হটাদের আলাদা করার জন্য। এ বছর কোন হুকুমটা আমার কাছে সবচেয়ে ভারী লেগেছে, আর আমার জবাব আমাকে দুই দলের কোনটিতে ফেলেছে? সাক্ষী বলে ডাকা মানে, লোকে আমার দিকে তাকিয়ে আছে। প্রতিবেশী বা সহকর্মী যদি কেবল আমার সপ্তাহটা দেখে এই দ্বীনের গোটা ছবিটা আঁকেন, সেই ছবিতে কী কী থাকবে, আর তার কোন অংশটা আমি ফিরিয়ে নিতে চাইব?"
           },
           {
             "en": "Allah saw a face turned toward the sky before the request was ever put into words. What have I wanted for years and never once asked Him for, and why not? And the verse promises that nothing already offered is lost. Which act of obedience have I written off as pointless because the situation changed, the group broke up, or nobody ever noticed that I did it?",
@@ -3109,11 +3109,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Arabic is startlingly short: fadhkuruni adhkurkum. Remember Me, I will remember you. Both verbs come from the same root, dhikr, which covers mentioning with the tongue, recalling in the mind and keeping present in the heart. The Quran does not say worship Me and I will reward you, though that is true elsewhere. Here the same word is used on both sides, so the sentence reads as an exchange between two parties rather than a transaction.",
-            "bn": "আরবি বাক্যটি বিস্ময়করভাবে সংক্ষিপ্ত: ফাযকুরূনী আযকুরকুম। আমাকে স্মরণ করো, আমি তোমাদের স্মরণ করব। দুটি ক্রিয়াপদই এসেছে একই ধাতু 'যিকর' থেকে, যা একইসঙ্গে জিহ্বায় উচ্চারণ, মনে জাগরূক রাখা এবং হৃদয়ে উপস্থিত রাখা — সবকিছু বোঝায়। কুরআন এখানে বলেনি 'আমার ইবাদত করো, আমি প্রতিদান দেব', যদিও সে কথাও অন্যত্র সত্য। এখানে দুই পাশে একই শব্দ ব্যবহৃত হয়েছে, ফলে বাক্যটি লেনদেন নয়, বরং দুই পক্ষের মধ্যে এক বিনিময়ের মতো শোনায়।"
+            "bn": "আরবি বাক্যটা চমকে দেওয়ার মতো ছোট: ফাযকুরূনী আযকুরকুম। আমাকে স্মরণ করো, আমি তোমাদের স্মরণ করব। দুটি ক্রিয়াই এসেছে একই ধাতু 'যিকর' থেকে। শব্দটা তিনটি জিনিসই বোঝায়: মুখে উচ্চারণ করা, মনে মনে স্মরণ করা, আর অন্তরে সারাক্ষণ হাজির রাখা। কুরআন এখানে বলেনি, 'আমার ইবাদত করো, আমি প্রতিদান দেব', যদিও অন্য জায়গায় সে কথাও সত্য। এখানে দুই দিকেই একই শব্দ, তাই বাক্যটা লেনদেনের মতো শোনায় না, শোনায় দুই পক্ষের পারস্পরিক আদান-প্রদানের মতো।"
           },
           {
             "en": "The second half sets up an opposition that is easy to miss in translation: washkuru li wa la takfurun. Be grateful to Me and do not be ungrateful. The opposite of shukr in Quranic Arabic is kufr, from a root meaning to cover something over. The farmer who buries a seed uses the same verb. Ingratitude, in this picture, is not loud denial. It is quietly covering a gift until it is no longer visible.",
-            "bn": "দ্বিতীয় অংশটি এমন এক বৈপরীত্য দাঁড় করায়, যা অনুবাদে সহজে হারিয়ে যায়: ওয়াশকুরূ লী ওয়ালা তাকফুরূন। আমার প্রতি কৃতজ্ঞ হও, আর অকৃতজ্ঞ হয়ো না। কুরআনি আরবিতে 'শুকর'-এর বিপরীত হলো 'কুফর', যার ধাতুগত অর্থ কোনো কিছু ঢেকে দেওয়া। যে কৃষক বীজ মাটিচাপা দেয়, সেও এই একই ক্রিয়াপদ ব্যবহার করে। এই চিত্রে অকৃতজ্ঞতা মানে উচ্চস্বরে অস্বীকার নয়; বরং নিঃশব্দে একটি নিয়ামতকে ঢেকে ফেলা, যতক্ষণ না তা আর চোখেই পড়ে না।"
+            "bn": "দ্বিতীয় অংশে এমন এক বৈপরীত্য আছে, যা অনুবাদে সহজেই চোখ এড়িয়ে যায়: ওয়াশকুরূ লী ওয়ালা তাকফুরূন। আমার প্রতি কৃতজ্ঞ হও, অকৃতজ্ঞ হয়ো না। কুরআনের আরবিতে 'শুকর'-এর উল্টো হলো 'কুফর', যার মূল অর্থ কোনো কিছু ঢেকে দেওয়া। কৃষক যখন বীজ মাটিচাপা দেয়, আরবিতে তার বেলাতেও এই একই ক্রিয়া বসে। এই ছবিতে অকৃতজ্ঞতা মানে গলা চড়িয়ে অস্বীকার করা নয়। চুপচাপ একটা নিয়ামতকে ঢেকে ফেলা, যতক্ষণ না সেটা আর চোখেই পড়ে।"
           }
         ]
       },
@@ -3125,11 +3125,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is general in application, with no particular occasion of revelation attached to it, but its position in Surah al-Baqarah is instructive. It closes the long passage on the change of the qiblah, 2:142-152, in which the direction of prayer was turned from Jerusalem to the Sacred Mosque and the community was tested by the objections that followed. Remembrance is being commanded to a people who had just been unsettled publicly.",
-            "bn": "আয়াতটির প্রয়োগ সাধারণ, এর সঙ্গে নির্দিষ্ট কোনো শানে নুযূল যুক্ত নেই; তবে সূরা আল-বাকারায় এর অবস্থান শিক্ষণীয়। এটি কিবলা পরিবর্তনের দীর্ঘ অংশটি — 2:142-152 — শেষ করে, যেখানে নামাযের দিক বায়তুল মাকদিস থেকে মসজিদুল হারামের দিকে ঘুরিয়ে দেওয়া হয় এবং এর পরের আপত্তিগুলো দিয়ে সমাজটিকে পরীক্ষা করা হয়। অর্থাৎ স্মরণের আদেশ এমন এক জাতিকে দেওয়া হচ্ছে, যারা সবেমাত্র প্রকাশ্যে নাড়া খেয়েছে।"
+            "bn": "আয়াতটির বিধান সবার জন্য, এর সাথে নির্দিষ্ট কোনো শানে নুযূল জড়িত নেই। তবে সূরা আল-বাকারায় এর জায়গাটা অনেক কিছু শেখায়। কিবলা বদলের লম্বা অংশটি (2:142-152) এই আয়াতেই শেষ হয়। সেখানে নামাযের দিক বায়তুল মাকদিস থেকে ঘুরিয়ে মসজিদুল হারামের দিকে করা হয়, আর তারপর যে আপত্তিগুলো ওঠে, তা দিয়ে মুসলিম সমাজের পরীক্ষা হয়। অর্থাৎ স্মরণের হুকুম আসছে এমন এক জাতির কাছে, যারা সবেমাত্র সবার সামনে নাড়া খেয়েছে।"
           },
           {
             "en": "The immediately preceding verse, 2:151, lists what Allah has already given them: a messenger from among themselves who recites His signs, purifies them and teaches them the Book and wisdom. So remember Me arrives as a response to a favour already itemised. The verse that follows, 2:153, tells them to seek help through patience and prayer. Remembrance is placed exactly between a gift received and a hardship expected.",
-            "bn": "ঠিক আগের আয়াত 2:151-এ তালিকাভুক্ত হয়েছে আল্লাহ তাঁদের ইতিমধ্যে কী দিয়েছেন: তাঁদের ভেতর থেকেই একজন রাসূল, যিনি তাঁদের কাছে তাঁর আয়াত পাঠ করেন, তাঁদের পরিশুদ্ধ করেন এবং কিতাব ও হিকমত শেখান। ফলে 'আমাকে স্মরণ করো' কথাটি আসে ইতিমধ্যে গুনে দেখানো এক অনুগ্রহের জবাব হিসেবে। এর পরের আয়াত 2:153 তাঁদের বলে ধৈর্য ও নামাযের মাধ্যমে সাহায্য চাইতে। অর্থাৎ স্মরণকে ঠিক বসানো হয়েছে প্রাপ্ত নিয়ামত আর প্রত্যাশিত কষ্টের মাঝখানে।"
+            "bn": "ঠিক আগের আয়াত 2:151 গুনে গুনে বলে দেয়, আল্লাহ তাঁদের আগেই কী দিয়েছেন: তাঁদেরই মধ্য থেকে একজন রাসূল, যিনি তাঁর আয়াত পড়ে শোনান, তাঁদের পরিশুদ্ধ করেন, আর কিতাব ও হিকমত শেখান। তাই 'আমাকে স্মরণ করো' আসে এমন অনুগ্রহের জবাবে, যার হিসাব এইমাত্র দেওয়া হলো। পরের আয়াত 2:153 তাঁদের বলে, ধৈর্য ও নামাযের মাধ্যমে সাহায্য চাও। স্মরণের জায়গাটা তাই ঠিক মাঝখানে: একদিকে পাওয়া নিয়ামত, অন্যদিকে সামনে আসা কষ্ট।"
           }
         ]
       },
@@ -3141,27 +3141,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators are careful with the second half of the exchange. Allah's remembrance of a servant is not of the same kind as ours of Him; it is understood as befitting Him, and is explained as mention, favour, protection and reward. A hadith qudsi recorded by al-Bukhari and Muslim supplies the clearest gloss: Allah says He is as His servant expects of Him, that if the servant mentions Him within himself He mentions him within Himself, and if the servant mentions Him in a gathering He mentions him in a better gathering.",
-            "bn": "এই বিনিময়ের দ্বিতীয় অংশ নিয়ে মুফাসসিরগণ অত্যন্ত সতর্ক। আল্লাহর পক্ষ থেকে বান্দাকে স্মরণ করা আমাদের স্মরণের মতো নয়; একে তাঁর শানের উপযোগী অর্থে বোঝা হয় এবং ব্যাখ্যা করা হয় উল্লেখ, অনুগ্রহ, রক্ষা ও পুরস্কার হিসেবে। বুখারী ও মুসলিমে সংকলিত একটি হাদীসে কুদসী সবচেয়ে স্পষ্ট ব্যাখ্যা দেয়: আল্লাহ বলেন, বান্দা তাঁর সম্পর্কে যেমন ধারণা রাখে তিনি তেমনই; বান্দা যদি তাঁকে নিজের ভেতরে স্মরণ করে, তিনি তাকে নিজের কাছে স্মরণ করেন, আর বান্দা যদি কোনো মজলিসে তাঁকে স্মরণ করে, তিনি তাকে তার চেয়ে উত্তম মজলিসে স্মরণ করেন।"
+            "bn": "বিনিময়ের দ্বিতীয় অংশ নিয়ে মুফাসসিরগণ খুব সাবধানে কথা বলেন। আল্লাহ বান্দাকে যে স্মরণ করেন, তা আমাদের স্মরণের মতো নয়। তাঁর শানের উপযোগী অর্থেই এটা বুঝতে হয়, আর এর ব্যাখ্যা দেওয়া হয় এভাবে: বান্দার কথা উল্লেখ করা, অনুগ্রহ করা, হেফাজত করা আর প্রতিদান দেওয়া। সবচেয়ে পরিষ্কার ব্যাখ্যা মেলে বুখারী ও মুসলিমে বর্ণিত একটি হাদীসে কুদসীতে। আল্লাহ বলেন, বান্দা তাঁর সম্পর্কে যেমন ধারণা রাখে, তিনি তেমনই। বান্দা যদি মনে মনে তাঁকে স্মরণ করে, তিনিও নিজের কাছে তাকে স্মরণ করেন। আর বান্দা যদি কোনো মজলিসে তাঁকে স্মরণ করে, তিনি তাকে স্মরণ করেন তার চেয়ে উত্তম মজলিসে।"
           },
           {
             "en": "That reading keeps the verse from becoming sentimental. The promise is not that a warm feeling follows every recitation. It is that a person who keeps Allah present is themselves kept present with Allah, and that this happens whether or not it is felt at the time. Many of the early scholars are reported to have said that dhikr done without any sweetness is still dhikr, and that the sweetness usually comes to those who continued anyway.",
-            "bn": "এই পাঠ আয়াতটিকে আবেগসর্বস্ব হয়ে পড়া থেকে বাঁচায়। প্রতিশ্রুতি এই নয় যে প্রতিটি তিলাওয়াতের পর একটি উষ্ণ অনুভূতি আসবে। প্রতিশ্রুতি হলো, যে ব্যক্তি আল্লাহকে উপস্থিত রাখে, সে নিজেও আল্লাহর কাছে উপস্থিত থাকে — সেই মুহূর্তে তা অনুভূত হোক বা না হোক। পূর্ববর্তী বহু আলিম থেকে বর্ণিত আছে, কোনো মাধুর্য ছাড়া করা যিকরও যিকরই; আর মাধুর্য সাধারণত তাদেরই কাছে আসে, যারা অনুভূতি না পেয়েও চালিয়ে গিয়েছিল।"
+            "bn": "এই ব্যাখ্যা আয়াতটিকে নিছক আবেগের কথা হয়ে যেতে দেয় না। প্রতিশ্রুতিটা এই নয় যে প্রতিবার তিলাওয়াতের পর মনে উষ্ণ একটা অনুভূতি জাগবে। প্রতিশ্রুতিটা হলো, যে আল্লাহকে মনে হাজির রাখে, আল্লাহর কাছেও সে হাজির থাকে, সেই মুহূর্তে তা টের পাওয়া যাক বা না যাক। পূর্বসূরি বহু আলিম থেকে বর্ণিত আছে, কোনো স্বাদ ছাড়া করা জিকিরও জিকির। আর স্বাদটা সাধারণত তারাই পায়, যারা স্বাদ না পেয়েও চালিয়ে গেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "How It Was Practised",
-          "bn": "কীভাবে এটি চর্চিত হয়েছে"
+          "bn": "যেভাবে আমল করা হতো"
         },
         "p": [
           {
             "en": "The Prophet ﷺ tied remembrance and gratitude together exactly as the verse does. Abu Dawud and an-Nasa'i report that he took Mu'adh ibn Jabal (RA) by the hand, told him he loved him, and instructed him not to leave the end of any prayer without saying: O Allah, help me to remember You, to thank You, and to worship You well. The three requests match the verse's two commands and add the means of fulfilling them.",
-            "bn": "নবী ﷺ স্মরণ ও কৃতজ্ঞতাকে ঠিক আয়াতের মতোই একসঙ্গে বেঁধেছেন। আবু দাউদ ও নাসাঈ বর্ণনা করেন, তিনি মু'আয ইবনে জাবাল (রাঃ)-এর হাত ধরে বলেন যে তিনি তাঁকে ভালোবাসেন, এবং নির্দেশ দেন যেন তিনি কোনো নামাযের শেষে এই দোয়া না বলে না যান: হে আল্লাহ, আপনাকে স্মরণ করতে, আপনার শোকর আদায় করতে এবং আপনার উত্তম ইবাদত করতে আমাকে সাহায্য করুন। তিনটি আবেদন আয়াতের দুটি আদেশের সঙ্গে মেলে এবং সেগুলো পালনের উপায়টিও যোগ করে।"
+            "bn": "স্মরণ আর কৃতজ্ঞতাকে নবী ﷺ ঠিক আয়াতের মতোই এক সুতোয় গেঁথেছেন। আবু দাউদ ও নাসাঈ বর্ণনা করেন, তিনি মু'আয ইবনে জাবাল (রাঃ)-এর হাত ধরে বললেন, আমি তোমাকে ভালোবাসি। তারপর বলে দিলেন, কোনো নামাযের শেষে এই দোয়া পড়া যেন বাদ না পড়ে: হে আল্লাহ, আপনাকে স্মরণ করতে, আপনার শোকর আদায় করতে আর সুন্দরভাবে আপনার ইবাদত করতে আমাকে সাহায্য করুন। তিনটি চাওয়া আয়াতের দুটি হুকুমের সাথে মেলে, সাথে সেগুলো পালনের উপায়টাও জুড়ে দেয়।"
           },
           {
             "en": "His own remembrance was constant rather than occasional. Aishah (RA) reported, as narrated in Muslim, that he used to remember Allah at all his times. The pattern preserved from him is not long isolated sessions but short phrases attached to ordinary actions: waking, dressing, eating, leaving the house, entering the mosque, seeing rain, and lying down again at night. Remembrance was threaded through the day rather than scheduled against it.",
-            "bn": "তাঁর নিজের যিকর ছিল অবিরাম, মাঝেমধ্যের নয়। আয়িশা (রাঃ) থেকে মুসলিমে বর্ণিত আছে, তিনি সর্বাবস্থায় আল্লাহকে স্মরণ করতেন। তাঁর থেকে সংরক্ষিত ধরনটি দীর্ঘ বিচ্ছিন্ন বৈঠক নয়, বরং সাধারণ কাজের সঙ্গে জুড়ে দেওয়া ছোট ছোট বাক্য: ঘুম থেকে ওঠা, পোশাক পরা, খাওয়া, ঘর থেকে বের হওয়া, মসজিদে ঢোকা, বৃষ্টি দেখা, আর রাতে আবার শুয়ে পড়া। যিকর দিনের বিরুদ্ধে সময় বরাদ্দ করে নয়, দিনের ভেতর দিয়েই বোনা ছিল।"
+            "bn": "তাঁর নিজের জিকির ছিল সার্বক্ষণিক, মাঝেমধ্যের নয়। মুসলিমে আয়িশা (রাঃ)-এর বর্ণনা আছে, তিনি সব সময় আল্লাহকে স্মরণ করতেন। তাঁর কাছ থেকে যে ধারা আমরা পেয়েছি, তা আলাদা করে বসা লম্বা মজলিস নয়। তা হলো রোজকার কাজের সাথে জোড়া ছোট ছোট বাক্য: ঘুম থেকে ওঠা, কাপড় পরা, খাওয়া, ঘর থেকে বের হওয়া, মসজিদে ঢোকা, বৃষ্টি দেখা, আর রাতে আবার বিছানায় যাওয়া। জিকিরের জন্য দিন থেকে আলাদা সময় কেটে রাখা হতো না, জিকির বোনা থাকত দিনের ভেতরেই।"
           }
         ]
       },
@@ -3177,7 +3177,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This is where the verse becomes practical. Vague thankfulness fades quickly; named thankfulness does not. Naming three specific things at a fixed point in the day, saying alhamdulillah aloud when something ordinary goes right, and spending one blessing deliberately in obedience are all small enough to sustain. The verse warns against covering blessings over, and nothing uncovers a blessing faster than saying what it is.",
-            "bn": "এখানেই আয়াতটি ব্যবহারিক হয়ে ওঠে। অস্পষ্ট কৃতজ্ঞতা দ্রুত মিলিয়ে যায়; নাম ধরে বলা কৃতজ্ঞতা যায় না। দিনের নির্দিষ্ট একটি সময়ে তিনটি সুনির্দিষ্ট নিয়ামতের নাম বলা, সাধারণ কোনো কিছু ঠিকঠাক হলে মুখে 'আলহামদুলিল্লাহ' বলা, আর একটি নিয়ামতকে সচেতনভাবে আনুগত্যের কাজে ব্যয় করা — এগুলো এতটাই ছোট যে ধরে রাখা যায়। আয়াতটি নিয়ামত ঢেকে ফেলার বিরুদ্ধে সতর্ক করে, আর নিয়ামতের ঢাকনা সরানোর দ্রুততম উপায় হলো সেটির নাম উচ্চারণ করা।"
+            "bn": "এখানে এসে আয়াতটি হাতে-কলমে কাজের হয়ে ওঠে। ঝাপসা কৃতজ্ঞতা তাড়াতাড়ি মিলিয়ে যায়, নাম ধরে বলা কৃতজ্ঞতা যায় না। দিনের একটা নির্দিষ্ট সময়ে তিনটি নির্দিষ্ট নিয়ামতের নাম বলা, সাধারণ কোনো কাজ ঠিকঠাক হলে মুখে 'আলহামদুলিল্লাহ' বলা, আর একটি নিয়ামত জেনে-বুঝে আল্লাহর আনুগত্যে খরচ করা: এগুলো এত ছোট যে নিয়মিত ধরে রাখা যায়। আয়াতটি নিয়ামত ঢেকে ফেলার ব্যাপারে সতর্ক করে। আর নিয়ামতের ওপর থেকে ঢাকনা সরানোর সবচেয়ে দ্রুত উপায় হলো, সেটা কী, তা মুখে বলা।"
           }
         ]
       },
@@ -3193,7 +3193,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What sustains it in a modern week is usually anchoring rather than ambition. Tie a short phrase to something you already do without fail, such as unlocking a phone, waiting at a light or climbing stairs. Keep the morning and evening adhkar short enough that you will not abandon them when tired. The measure of success is not intensity on one day but the line staying open across ordinary ones.",
-            "bn": "আধুনিক জীবনে এটি টিকিয়ে রাখে সাধারণত উচ্চাকাঙ্ক্ষা নয়, বরং নোঙর। যে কাজটি আপনি প্রতিদিন নিশ্চিতভাবে করেন — ফোন আনলক করা, সিগন্যালে অপেক্ষা করা, সিঁড়ি ভাঙা — তার সঙ্গে একটি ছোট বাক্য বেঁধে দিন। সকাল-সন্ধ্যার যিকরকে এতটাই সংক্ষিপ্ত রাখুন যেন ক্লান্ত দিনেও তা ছেড়ে দিতে না হয়। সফলতার মাপকাঠি কোনো একদিনের প্রবলতা নয়, বরং সাধারণ দিনগুলোতে সংযোগটি খোলা থাকা।"
+            "bn": "এ যুগের ব্যস্ত সপ্তাহে জিকির টিকে থাকে সাধারণত বড় সংকল্পে নয়, রোজকার কোনো কাজের সাথে বেঁধে নেওয়ায়। যে কাজ আপনি প্রতিদিন না ভুলে করেন, যেমন ফোনের লক খোলা, সিগন্যালে দাঁড়িয়ে থাকা বা সিঁড়ি ভাঙা, তার সাথে একটা ছোট বাক্য জুড়ে দিন। সকাল-সন্ধ্যার জিকির এতটা ছোট রাখুন, যেন ক্লান্ত দিনেও ছেড়ে না দেন। সফলতার মাপ কোনো এক দিনের জোশ নয়, সাধারণ দিনগুলো জুড়ে সংযোগটা খোলা থাকা।"
           }
         ]
       }
@@ -3204,16 +3204,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "An Equipment List",
-          "bn": "সরঞ্জামের একটি তালিকা"
+          "bn": "সরঞ্জামের তালিকা"
         },
         "p": [
           {
             "en": "The verse opens with the call the Quran reserves for its own people: O you who believe. What follows is not a ruling but equipment: ista'inu, seek help, bi-s-sabri wa-s-salah, through patience and prayer. The verb concedes something first — that believers will need help, that faith exempts no one from weight. The question the verse answers is not whether hardship comes but what to lean on when it does, and it names two supports: one inward, one enacted.",
-            "bn": "আয়াতটি শুরু হয় সেই সম্বোধনে, যা কুরআন তার নিজের মানুষদের জন্য তুলে রাখে: হে ঈমানদারগণ। এরপর যা আসে তা কোনো বিধান নয়, সরঞ্জাম: 'ইসতাঈনূ' — সাহায্য চাও — 'বিস-সাবরি ওয়াস-সালাহ' — ধৈর্য ও নামাযের মাধ্যমে। ক্রিয়াপদটি আগে একটি কথা মেনে নেয় — মুমিনদের সাহায্য লাগবে, ঈমান কাউকে ভার থেকে রেহাই দেয় না। আয়াতটি যে প্রশ্নের উত্তর দেয় তা এই নয় যে কষ্ট আসবে কি না, বরং এই যে কষ্ট এলে কীসে ভর দিতে হবে — আর সে দুটি অবলম্বনের নাম নেয়: একটি ভেতরের, একটি কাজে করা।"
+            "bn": "আয়াতটি শুরু হয় সেই ডাকে, যা কুরআন শুধু নিজের লোকদের জন্য রেখেছে: হে ঈমানদারগণ। এরপর যা আসে তা কোনো বিধান নয়, সরঞ্জাম: 'ইসতাঈনূ', সাহায্য চাও, 'বিস-সাবরি ওয়াস-সালাহ', ধৈর্য ও নামাযের মাধ্যমে। ক্রিয়াটা আগেই একটা কথা মেনে নেয়: মুমিনদেরও সাহায্য লাগবে, ঈমান কাউকে বোঝা থেকে রেহাই দেয় না। কষ্ট আসবে কি না, আয়াত সে প্রশ্নের জবাব দিচ্ছে না। জবাব দিচ্ছে, কষ্ট এলে কীসে ভর দেবেন। আর দুটি অবলম্বনের নাম বলে দেয়: একটি ভেতরের, একটি কাজে করার।"
           },
           {
             "en": "The pairing has already appeared at 2:45, addressed there to the Children of Israel, with the warning that prayer is heavy except for the humble. Repeated now to the believers, it gains an ending the earlier verse lacked: inna Allaha ma'a as-sabirin, Allah is with the patient. The same prescription, but written this time with the companionship attached — as if to say the medicine is old, and the believers are being told what taking it earns.",
-            "bn": "এই জোড় আগেই এসেছে 2:45 আয়াতে — সেখানে সম্বোধন ছিল বনী ইসরাঈলকে, সঙ্গে সতর্কবার্তা: নামায ভারী, বিনয়ীদের ছাড়া। এখন মুমিনদের কাছে পুনরাবৃত্ত হয়ে এটি এমন এক সমাপ্তি পায়, যা আগের আয়াতে ছিল না: 'ইন্নাল্লাহা মাআস-সাবিরীন' — আল্লাহ ধৈর্যশীলদের সঙ্গে আছেন। সেই একই ব্যবস্থাপত্র, কিন্তু এবার লেখা হয়েছে সাহচর্যটুকু জুড়ে দিয়ে — যেন বলা হচ্ছে: ওষুধটি পুরোনো, আর মুমিনদের জানানো হচ্ছে তা সেবনে কী অর্জিত হয়।"
+            "bn": "এই জোড়া আগেও এসেছে, 2:45 আয়াতে। সেখানে সম্বোধন ছিল বনী ইসরাঈলের প্রতি, সাথে সতর্কবাণী: বিনয়ীরা ছাড়া অন্যদের কাছে নামায ভারী। এবার মুমিনদের কাছে একই কথা ফিরে এসে এমন এক সমাপ্তি পায়, যা আগের আয়াতে ছিল না: 'ইন্নাল্লাহা মাআস-সাবিরীন', আল্লাহ ধৈর্যশীলদের সঙ্গে আছেন। ব্যবস্থাপত্র সেই একই, তবে এবার সাথে জুড়ে দেওয়া হয়েছে তাঁর সঙ্গ। যেন বলা হচ্ছে: ওষুধ পুরোনো, আর মুমিনদের এবার জানিয়ে দেওয়া হচ্ছে, এ ওষুধ খেলে কী পাওয়া যায়।"
           }
         ]
       },
@@ -3225,11 +3225,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Sabr in Arabic is confinement: holding the self in place. The scholars — as-Sa'di lays it out — divide it into three: patience upon obedience until it is done, patience away from sin until it passes, and patience under the decree without rage at it. All three are active. Nothing in the word means passivity; the person of sabr is holding a line under pressure, which is the opposite of doing nothing.",
-            "bn": "আরবিতে 'সবর' মানে আটকে রাখা: নিজেকে জায়গায় ধরে রাখা। আলিমগণ — আস-সা'দী তা গুছিয়ে বলেন — একে তিন ভাগে ভাগ করেন: আনুগত্যের ওপর ধৈর্য, যতক্ষণ না তা সম্পন্ন হয়; পাপ থেকে দূরে থাকার ধৈর্য, যতক্ষণ না তা কেটে যায়; আর তাকদীরের অধীনে ধৈর্য — তার বিরুদ্ধে ক্ষোভ না করে। তিনটিই সক্রিয়। শব্দটির কোথাও নিষ্ক্রিয়তার অর্থ নেই; সবরকারী মানুষ চাপের মুখে একটি অবস্থান ধরে রাখছে — যা কিছু না করার ঠিক বিপরীত।"
+            "bn": "আরবিতে 'সবর' মানে আটকে রাখা: নিজেকে জায়গায় ধরে রাখা। আলিমগণ একে তিন ভাগ করেন, আস-সা'দী যেমন গুছিয়ে বলেছেন। আনুগত্যের ওপর সবর, যতক্ষণ না কাজটা শেষ হয়। গুনাহ থেকে দূরে থাকার সবর, যতক্ষণ না সেটা কেটে যায়। আর তাকদীরের ফয়সালায় সবর, তার ওপর ক্ষোভ না ঝেড়ে। তিনটিই সক্রিয়। শব্দটার কোথাও নিষ্ক্রিয়তার অর্থ নেই। সবরকারী মানুষ চাপের মুখে নিজের জায়গা আঁকড়ে ধরে আছেন, আর সেটা হাত গুটিয়ে বসে থাকার ঠিক উল্টো।"
           },
           {
             "en": "Ya'qub (AS) models a crucial distinction: he vowed beautiful patience in 12:83, and in 12:86 said, I only complain of my anguish and my grief to Allah. Complaint to Allah does not break sabr; complaint against Allah does. Nor do tears break it: the Prophet ﷺ wept when his son Ibrahim died and said the eye weeps and the heart grieves, but we say only what pleases our Lord — al-Bukhari relates it from Anas (RA).",
-            "bn": "ইয়াকুব (আঃ) একটি গুরুত্বপূর্ণ পার্থক্যের নমুনা দেখান: তিনি 12:83 আয়াতে সুন্দর ধৈর্যের অঙ্গীকার করেন, আর 12:86 আয়াতে বলেন — আমি আমার অস্থিরতা ও দুঃখের অভিযোগ কেবল আল্লাহর কাছেই করছি। আল্লাহর কাছে অভিযোগ সবর ভাঙে না; আল্লাহর বিরুদ্ধে অভিযোগ ভাঙে। অশ্রুও তা ভাঙে না: পুত্র ইবরাহীমের মৃত্যুতে নবী ﷺ কেঁদেছিলেন এবং বলেছিলেন — চোখ অশ্রু ঝরায়, হৃদয় শোক করে, কিন্তু আমরা কেবল তা-ই বলি যা আমাদের রবকে সন্তুষ্ট করে — বুখারী এটি আনাস (রাঃ) থেকে বর্ণনা করেন।"
+            "bn": "ইয়াকুব (আঃ) নিজের জীবনে একটা জরুরি পার্থক্য দেখিয়ে দেন। 12:83 আয়াতে তিনি সুন্দর সবরের কথা দেন, আর 12:86 আয়াতে বলেন: আমি আমার অস্থিরতা আর দুঃখের নালিশ কেবল আল্লাহর কাছেই করছি। আল্লাহর কাছে নালিশ করলে সবর ভাঙে না, আল্লাহর বিরুদ্ধে নালিশ করলে ভাঙে। চোখের পানিও সবর ভাঙে না। ছেলে ইবরাহীম মারা গেলে নবী ﷺ কেঁদেছিলেন আর বলেছিলেন, চোখ অশ্রু ঝরায়, হৃদয় শোক করে, কিন্তু আমরা কেবল তা-ই বলি, যাতে আমাদের রব সন্তুষ্ট হন। বুখারী এটি আনাস (রাঃ) থেকে বর্ণনা করেছেন।"
           }
         ]
       },
@@ -3241,11 +3241,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second support is salah — named here not as duty but as help. Prayer helps in a way the praying person can verify: it interrupts the siege. Five times a day the matter that fills the horizon is set down, the body is placed before Allah, and the words of 1:5 — You alone we worship, You alone we ask for help — are said by someone who currently means them. Abu Dawud relates that when a matter distressed the Prophet ﷺ, he hastened to prayer.",
-            "bn": "দ্বিতীয় অবলম্বন সালাত — এখানে তার নাম নেওয়া হয়েছে কর্তব্য হিসেবে নয়, সাহায্য হিসেবে। নামায এমনভাবে সাহায্য করে, যা নামাযি নিজে যাচাই করতে পারে: এটি অবরোধ ভেঙে দেয়। দিনে পাঁচবার দিগন্তজোড়া সমস্যাটি নামিয়ে রাখা হয়, দেহকে আল্লাহর সামনে দাঁড় করানো হয়, আর 1:5 আয়াতের শব্দগুলো — আমরা কেবল তোমারই ইবাদত করি, কেবল তোমারই কাছে সাহায্য চাই — উচ্চারণ করে এমন একজন, যে এই মুহূর্তে সত্যিই তা বোঝাতে চাইছে। আবু দাউদ বর্ণনা করেন, কোনো বিষয় নবী ﷺ-কে পীড়িত করলে তিনি দ্রুত নামাযে চলে যেতেন।"
+            "bn": "দ্বিতীয় অবলম্বন সালাত। এখানে তার নাম এসেছে দায়িত্ব হিসেবে নয়, সাহায্য হিসেবে। নামায যেভাবে সাহায্য করে, নামাযি নিজেই তা যাচাই করে দেখতে পারেন: নামায অবরোধটা ভেঙে দেয়। দিনে পাঁচবার, যে সমস্যা গোটা দিগন্ত জুড়ে আছে তা নামিয়ে রাখতে হয়, শরীরটাকে দাঁড় করাতে হয় আল্লাহর সামনে। আর 1:5 আয়াতের কথাগুলো, আমরা কেবল তোমারই ইবাদত করি, কেবল তোমারই কাছে সাহায্য চাই, তখন মুখে আনেন এমন একজন, যিনি এই মুহূর্তে কথাটা সত্যিই মন থেকে বলছেন। আবু দাউদ বর্ণনা করেন, কোনো বিষয় নবী ﷺ-কে পেরেশান করলে তিনি তাড়াতাড়ি নামাযে দাঁড়িয়ে যেতেন।"
           },
           {
             "en": "The commentators note the order of the pair: sabr, then salah — the general steadying, then the specific refuge. And they note what prayer presumes: that in hardship the first movement is toward Allah, not merely toward solutions. The one who prays about a problem has already refused to face it alone, and that refusal, repeated five times daily, is itself a treatment for the despair that isolation manufactures.",
-            "bn": "মুফাসসিরগণ জোড়টির ক্রম লক্ষ করেন: আগে সবর, পরে সালাত — প্রথমে সাধারণ স্থিরতা, তারপর নির্দিষ্ট আশ্রয়। আর তাঁরা লক্ষ করেন নামায কী ধরে নেয়: কষ্টের সময় প্রথম পদক্ষেপ আল্লাহর দিকে, শুধু সমাধানের দিকে নয়। যে ব্যক্তি কোনো সমস্যা নিয়ে নামাযে দাঁড়ায়, সে ইতিমধ্যে একা তার মুখোমুখি হতে অস্বীকার করেছে — আর দিনে পাঁচবার পুনরাবৃত্ত সেই অস্বীকৃতিই একাকীত্বের তৈরি হতাশার একটি চিকিৎসা।"
+            "bn": "মুফাসসিরগণ জোড়াটির ক্রম লক্ষ করেন: আগে সবর, পরে সালাত। প্রথমে সাধারণভাবে নিজেকে স্থির রাখা, তারপর নির্দিষ্ট আশ্রয়। তাঁরা এটাও লক্ষ করেন যে নামায একটা কথা ধরে নেয়: কষ্টের সময় প্রথম পা উঠবে আল্লাহর দিকে, শুধু সমাধানের খোঁজে নয়। যে মানুষ কোনো সমস্যা নিয়ে নামাযে দাঁড়ায়, সে আগেই ঠিক করে ফেলেছে, এর মুখোমুখি একা হবে না। দিনে পাঁচবার ফিরে ফিরে আসা এই সিদ্ধান্তই সেই হতাশার চিকিৎসা, যা একাকীত্ব থেকে জন্মায়।"
           }
         ]
       },
@@ -3257,11 +3257,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Inna Allaha ma'a as-sabirin. The scholars distinguish two kinds of withness in the Quran: the general one of knowledge — He is with you wherever you are, as 57:4 says — and a special one of support and protection reserved for particular servants. This verse states the special kind. It is a companionship of aid: help, steadying and care attached to the patient specifically, while His knowledge already covered everyone. The patient person is not merely observed; he is accompanied.",
-            "bn": "'ইন্নাল্লাহা মাআস-সাবিরীন'। আলিমগণ কুরআনে দুই ধরনের 'সঙ্গে থাকা'র পার্থক্য করেন: জ্ঞানের সাধারণ সাহচর্য — তোমরা যেখানেই থাকো তিনি তোমাদের সঙ্গে আছেন, যেমন 57:4 বলে — আর সমর্থন ও হেফাজতের এক বিশেষ সাহচর্য, যা নির্দিষ্ট বান্দাদের জন্য তুলে রাখা। এই আয়াতে বলা হয়েছে বিশেষটির কথা। এটি সাহায্যের সাহচর্য: সহায়তা, স্থিরতা ও তত্ত্বাবধান — বিশেষভাবে ধৈর্যশীলদের সঙ্গে জোড়া, যেখানে তাঁর জ্ঞান তো আগেই সবাইকে ঘিরে রেখেছে। ধৈর্যশীল মানুষ কেবল পর্যবেক্ষিত নয়; সে সঙ্গপ্রাপ্ত।"
+            "bn": "'ইন্নাল্লাহা মাআস-সাবিরীন'। আলিমগণ কুরআনে আল্লাহর 'সঙ্গে থাকা'কে দুই ভাগে দেখেন। একটি সাধারণ, জ্ঞানের দিক থেকে সঙ্গে থাকা: তোমরা যেখানেই থাকো, তিনি তোমাদের সঙ্গে আছেন, যেমন 57:4 বলে। আরেকটি বিশেষ, সাহায্য আর হেফাজতের সঙ্গে থাকা, যা নির্দিষ্ট বান্দাদের জন্য। এই আয়াত বলছে বিশেষটির কথা। এ হলো সাহায্যের সঙ্গ: সহায়তা, অবিচলতা আর দেখভাল, যা বিশেষ করে ধৈর্যশীলদের জন্য, যদিও তাঁর জ্ঞান আগে থেকেই সবাইকে ঘিরে আছে। ধৈর্যশীল মানুষকে তিনি শুধু দেখছেন না, তার সঙ্গে আছেন।"
           },
           {
             "en": "The verse's neighbours show why the equipment was issued here. 2:154 corrects how the believers speak of those killed in Allah's path. 2:155 promises testing with fear, hunger and loss of wealth, lives and fruits, and sends glad tidings — to the patient. 2:156-157 then hand them their sentence for calamity, inna lillahi wa inna ilayhi raji'un, and name the return: salawat from their Lord, and mercy, and it is they who are guided.",
-            "bn": "আয়াতটির প্রতিবেশীরা দেখায়, সরঞ্জামটি এখানে কেন সরবরাহ করা হলো। 2:154 শুধরে দেয়, আল্লাহর পথে নিহতদের সম্পর্কে মুমিনরা কীভাবে কথা বলবে। 2:155 প্রতিশ্রুতি দেয় ভয়, ক্ষুধা এবং সম্পদ, জীবন ও ফল-ফসলের ক্ষতি দিয়ে পরীক্ষার — আর সুসংবাদ পাঠায় ধৈর্যশীলদের কাছে। এরপর 2:156-157 তাদের হাতে তুলে দেয় বিপদের সময়ের বাক্য — 'ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন' — এবং প্রতিদানের নাম বলে: তাদের রবের পক্ষ থেকে সালাওয়াত ও রহমত, আর তারাই হিদায়াতপ্রাপ্ত।"
+            "bn": "আশপাশের আয়াতগুলো দেখায়, সরঞ্জামগুলো ঠিক এখানেই কেন দেওয়া হলো। 2:154 শুধরে দেয়, আল্লাহর পথে যাঁরা নিহত হন, তাঁদের নিয়ে মুমিনরা কীভাবে কথা বলবে। 2:155 জানিয়ে দেয়, ভয়, ক্ষুধা আর সম্পদ, প্রাণ ও ফসলের ক্ষতি দিয়ে পরীক্ষা হবে, আর সুসংবাদ পাঠায় ধৈর্যশীলদের। এরপর 2:156-157 তাঁদের হাতে তুলে দেয় বিপদের মুহূর্তের বাক্য, 'ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন', আর বলে দেয় প্রতিদান কী: তাঁদের রবের পক্ষ থেকে সালাওয়াত ও রহমত, আর তাঁরাই হিদায়াতপ্রাপ্ত।"
           }
         ]
       },
