@@ -34,9 +34,8 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Fact-checker done batches 1-4 (40 EN+BN fixes total, Ibn Ishaq checked on archive.org Guillaume OCR); batch 5
   (7 sahaba flags from ar A3) in progress. Retranslation agent doing R-ur (41) + R-ar (5); another retr round needed
   after batch 5.
-- v954 COMMITTED (6a0d347, not pushed): ur articles complete (stale paragraphs from fact-check batches 5+ held back
-  until `retr ur`), harness-verified on Prophets/Seerah/Sahaba. ar A1-A5 done; A6-A9 running; A10 next.
-  Fact-checker batches 5-8 in progress (each refresh adds stale ids for ur and ar -> one more retr round each). Cost: ~4% of 7d per language (agents ~230k tokens per chunk); at 78% after ur.
+- v955: ur + ar articles complete (4373/4373 each, 0 stale), harness-verified. Not pushed. Fact-checker batches 1-14
+  done (~80 verified EN+BN fixes). hi A1-A5 running, A6-A10 next; hi is the last language this week (stop at 88% 7d).
 - Also uncommitted: amal-daily.js evening refuge dhikr src + Tirmidhi 3604 (Muslim 2709 has no count).
   MORNING_EVENING_ADHKAR|4 morning/evening attribution to an-Nasa'i (al-Kubra) not verifiable with hadith.js.
 
