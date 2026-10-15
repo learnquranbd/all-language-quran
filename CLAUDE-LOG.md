@@ -42,6 +42,8 @@ the state, kept short on purpose. Full history of earlier rounds:
   sister of kana" (it is kana itself); 51.concept 3rd person "two dual forms" makes 13 pronouns not 12; 51.examples.0
   says nahnu twice in 15:9 (once); 50.concept "min after a comparative" not in al-Fatiha; 48.examples.2.note ilahu
   written with damma though called jarr. Fix EN (+BN) then retranslate in 13 langs (content-i18n extend).
+- More EN items: QA_IRAB 25.explain calls ma'a a harf jarr (it is a zarf); SALAH_QUIZ 40 lacks "Hanafi view" (BN and
+  next question have it); QA_GLOSSARY 15 "he, you, us" mixed pronoun set.
 - Handwriting EN doubts: HW_WRITING_BASICS 2.body Fa/Qaf "only by dots" vs LETTER_TIPS/CONFUSABLES (Qaf deeper cup);
   HW_KHAT_STYLES 2.notes.0 Kufic "earliest formalised" vs Hijazi; 3.notes.1 Thuluth ~70 deg pen angle; 1.notes.0 ties
   Uthmani rasm to the King Fahd mushaf (rasm is far older).
