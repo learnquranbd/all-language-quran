@@ -37,6 +37,11 @@ the state, kept short on purpose. Full history of earlier rounds:
   spellings তাজবীদ মক্কী মাদানী + streak = টানা (bn.js SPELL list keeps them), 18 EN slips fixed (C8 chunk retranslating).
   Open EN: MUSTAHABB_ITEMS 6.titleEn "Entering & Exiting with the Right Foot" vs its own desc (exit with left);
   NAFL_ITEMS 5.descEn calls Umrah voluntary then obligatory (Shafi'i/Hanbali).
+- PRIORITY EN grammar errors in learn-quranic-arabic-data.js QA_LESSONS (teaching content): 50.examples.1 and
+  50.examples.6.words.8 call al-'alamin / ad-dallin broken plurals (sound plurals); 45.examples.3.note calls yakun "a
+  sister of kana" (it is kana itself); 51.concept 3rd person "two dual forms" makes 13 pronouns not 12; 51.examples.0
+  says nahnu twice in 15:9 (once); 50.concept "min after a comparative" not in al-Fatiha; 48.examples.2.note ilahu
+  written with damma though called jarr. Fix EN (+BN) then retranslate in 13 langs (content-i18n extend).
 - Prayer guide (learn-prayer-data.js) open items for USER: Hanafi audience but the guide shows non-Hanafi positions
   without a note (7/5 Eid takbirs, combining prayers when travelling, 85 km travel distance, Fatiha after the first
   Janazah takbir). EN citation doubts: SALAH_TASBEEH 17 credits 10x3 tasbih to Muslim 597 (that is 33/33/33); HADITH 16
