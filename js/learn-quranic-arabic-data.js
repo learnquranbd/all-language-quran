@@ -1275,8 +1275,8 @@ const QA_LESSONS = [
     id: 'read-ikhlas', unit: 'reading', icon: '💎',
     title: { en: 'Reading 112:1–4 — Al-Ikhlas', bn: '১১২:১–৪ পড়া — সূরা ইখলাস' },
     concept: {
-      en: 'Al-Ikhlas is four short verses that use nominal sentences, negation and a sister of كَانَ — all from earlier units. Walk each word: a command, a subject-and-predicate, two negated verbs (one passive), then كَانَ negated with its subject and predicate.',
-      bn: 'সূরা ইখলাস চারটি ছোট আয়াত। এতে আছে জুমলা ইসমিয়া (ফেলহীন বাক্য), না-বাচক রূপ, আর كَانَ-এর এক বোন। সবই আগের ইউনিটে শেখা। শব্দে শব্দে এগোন: প্রথমে একটি আদেশ, তারপর মুবতাদা-খবর, তারপর না-বাচক দুটি ফেল (একটি মাজহূল), শেষে না-বাচক كَانَ, সাথে তার ইসম ও খবর।',
+      en: 'Al-Ikhlas is four short verses that use nominal sentences, negation and كَانَ itself (in the jussive) — all from earlier units. Walk each word: a command, a subject-and-predicate, two negated verbs (one passive), then كَانَ negated with its subject and predicate.',
+      bn: 'সূরা ইখলাস চারটি ছোট আয়াত। এতে আছে জুমলা ইসমিয়া (ফেলহীন বাক্য), না-বাচক রূপ, আর স্বয়ং كَانَ (জযম অবস্থায়)। সবই আগের ইউনিটে শেখা। শব্দে শব্দে এগোন: প্রথমে একটি আদেশ, তারপর মুবতাদা-খবর, তারপর না-বাচক দুটি ফেল (একটি মাজহূল), শেষে না-বাচক كَانَ, সাথে তার ইসম ও খবর।',
     },
     examples: [
       { ref: '112:1', trans: { en: 'Say, "He is Allah, One."', bn: 'বলো, "তিনি আল্লাহ, একক।"' },
@@ -1302,7 +1302,7 @@ const QA_LESSONS = [
           { ar: 'يُولَدْ', en: 'is He born', bn: 'তাঁকে জন্ম দেওয়া হয়', role: { en: 'passive present verb (majhūl)', bn: 'বর্তমান ফেল, মাজহূল (কর্মবাচ্য)' } },
         ] },
       { ref: '112:4', trans: { en: 'Nor is there to Him any equivalent.', bn: 'আর তাঁর সমতুল্য কেউ নেই।' },
-        note: { en: 'يَكُن is from كَانَ (a sister of كَانَ). Its subject (ism) is أَحَدٌۢ ("anyone", rafʿ) and its predicate (khabar) is كُفُوًا ("an equal", naṣb, brought forward). لَّهُۥ = the preposition لِ + "him".', bn: 'يَكُن এসেছে كَانَ থেকে (كَانَ-এর বোন)। এর ইসম أَحَدٌۢ ("কেউ", রফ‘), আর খবর كُفُوًا ("সমতুল্য", নসব), খবরটি এখানে আগে চলে এসেছে। لَّهُۥ = হরফে জর لِ + "তাঁর"।' },
+        note: { en: 'يَكُن is كَانَ itself (not one of its sisters), in the jussive (jazm) after لَمْ: يَكُونُ → يَكُنْ. Its subject (ism) is أَحَدٌۢ ("anyone", rafʿ) and its predicate (khabar) is كُفُوًا ("an equal", naṣb, brought forward). لَّهُۥ = the preposition لِ + "him".', bn: 'يَكُن কোনো বোন নয়, স্বয়ং كَانَ-এরই মুযারে রূপ; لَمْ-এর কারণে জযম হয়েছে: يَكُونُ → يَكُنْ। এর ইসম أَحَدٌۢ ("কেউ", রফ‘), আর খবর كُفُوًا ("সমতুল্য", নসব), খবরটি এখানে আগে চলে এসেছে। لَّهُۥ = হরফে জর لِ + "তাঁর"।' },
         words: [
           { ar: 'وَلَمْ', en: 'And not', bn: 'আর না', role: { en: 'and + negation particle', bn: 'وَ + হরফে নফি' } },
           { ar: 'يَكُن', en: 'there is', bn: 'আছে', hl: true, role: { en: 'verb كَانَ, jazm', bn: 'ফেল كَانَ, জযম' } },
@@ -1418,9 +1418,9 @@ const QA_LESSONS = [
           { ar: 'ٱلنَّاسِ', en: 'of mankind', bn: 'মানবজাতির', role: { en: 'muḍāf ilayh (jarr)', bn: 'মুযাফ ইলাইহি (জর)' } },
         ] },
       { ref: '114:3', trans: { en: 'The God of mankind.', bn: 'মানবজাতির উপাস্য।' },
-        note: { en: 'إِلَٰهُ is the third attribute, still in jarr, continuing the iḍāfah chain with ٱلنَّاسِ.', bn: 'إِلَٰهُ তৃতীয় সিফাত, এটিও জর অবস্থায়। ٱلنَّاسِ-এর সাথে ইযাফতের ধারাটা এখানেও চলছে।' },
+        note: { en: 'إِلَٰهِ is the third attribute, still in jarr, continuing the iḍāfah chain with ٱلنَّاسِ.', bn: 'إِلَٰهِ তৃতীয় সিফাত, এটিও জর অবস্থায়। ٱلنَّاسِ-এর সাথে ইযাফতের ধারাটা এখানেও চলছে।' },
         words: [
-          { ar: 'إِلَٰهُ', en: 'God', bn: 'উপাস্য', role: { en: 'adjective/attribute (ṣifa, jarr)', bn: 'সিফাত (জর)' } },
+          { ar: 'إِلَٰهِ', en: 'God', bn: 'উপাস্য', role: { en: 'adjective/attribute (ṣifa, jarr)', bn: 'সিফাত (জর)' } },
           { ar: 'ٱلنَّاسِ', en: 'of mankind', bn: 'মানবজাতির', role: { en: 'muḍāf ilayh (jarr)', bn: 'মুযাফ ইলাইহি (জর)' } },
         ] },
       { ref: '114:4', trans: { en: 'From the evil of the retreating whisperer.', bn: 'আত্মগোপনকারী কুমন্ত্রণাদাতার অনিষ্ট থেকে।' },
@@ -1516,8 +1516,8 @@ const QA_LESSONS = [
     id: 'read-fatiha', unit: 'reading', icon: '👑',
     title: { en: 'Reading 1:1–7 — Al-Fatiha (The Opener)', bn: '১:১–৭ পড়া — সূরা ফাতিহা (সূচনা)' },
     concept: {
-      en: 'The most-recited surah in the Quran, compulsory in every rakʿah. It is a complete lesson in iḍāfah, nominal sentences, two types of predicate (مِن after a comparative), relative clauses, and the naṣb of adverbs. Every word appears in earlier lessons; here we see how they combine into a flowing prayer.',
-      bn: 'কুরআনের সবচেয়ে বেশি পড়া সূরা, প্রতি রাকাতে পড়া আবশ্যক। ইযাফত, জুমলা ইসমিয়া, দুই ধরনের খবর (তুলনার পরে مِن), সিলা-বাক্য আর ক্রিয়াবিশেষণের নসব, সবই এই এক সূরায় শেখা যায়। প্রতিটি শব্দ আগের পাঠে এসেছে; এখানে দেখব কীভাবে সেগুলো মিলে একটি সাবলীল দোয়া হয়ে ওঠে।',
+      en: 'The most-recited surah in the Quran, compulsory in every rakʿah. It is a complete lesson in iḍāfah, nominal sentences, two types of predicate, relative clauses, and the naṣb of adverbs. Every word appears in earlier lessons; here we see how they combine into a flowing prayer.',
+      bn: 'কুরআনের সবচেয়ে বেশি পড়া সূরা, প্রতি রাকাতে পড়া আবশ্যক। ইযাফত, জুমলা ইসমিয়া, দুই ধরনের খবর, সিলা-বাক্য আর ক্রিয়াবিশেষণের নসব, সবই এই এক সূরায় শেখা যায়। প্রতিটি শব্দ আগের পাঠে এসেছে; এখানে দেখব কীভাবে সেগুলো মিলে একটি সাবলীল দোয়া হয়ে ওঠে।',
     },
     examples: [
       { ref: '1:1', trans: { en: 'In the name of Allah, the Most Gracious, the Most Merciful.', bn: 'শুরু করছি আল্লাহর নামে, যিনি পরম করুণাময়, অতি দয়ালু।' },
@@ -1529,12 +1529,12 @@ const QA_LESSONS = [
           { ar: 'ٱلرَّحِيمِ', en: 'the Most Merciful', bn: 'অতি দয়ালু', role: { en: 'adjective (ṣifa, jarr)', bn: 'সিফাত (জর)' } },
         ] },
       { ref: '1:2', trans: { en: 'All praise is for Allah, Lord of all worlds.', bn: 'সমস্ত প্রশংসা আল্লাহর জন্য, যিনি সকল সৃষ্টিজগতের রব।' },
-        note: { en: 'ٱلْحَمْدُ — mubtadaʾ (rafʿ). لِلَّهِ — the khabar consisting of لِ + لَفْظُ ٱلْجَلَالَة (jarr). رَبِّ — a badal (substitute) or ṣifa of ٱللَّهِ in jarr. ٱلْعَٰلَمِينَ — muḍāf ilayh in jarr (broken plural).', bn: 'ٱلْحَمْدُ মুবতাদা (রফ‘)। لِلَّهِ খবর, যা لِ আর لَفْظُ ٱلْجَلَالَة (আল্লাহ নাম) মিলে গঠিত (জর)। رَبِّ হলো ٱللَّهِ-এর বদল বা সিফাত, জর অবস্থায়। ٱلْعَٰلَمِينَ মুযাফ ইলাইহি, জর অবস্থায় (জমা মুকাসসার)।' },
+        note: { en: 'ٱلْحَمْدُ — mubtadaʾ (rafʿ). لِلَّهِ — the khabar consisting of لِ + لَفْظُ ٱلْجَلَالَة (jarr). رَبِّ — a badal (substitute) or ṣifa of ٱللَّهِ in jarr. ٱلْعَٰلَمِينَ — muḍāf ilayh in jarr (declined as a sound masculine plural: ـِينَ ending).', bn: 'ٱلْحَمْدُ মুবতাদা (রফ‘)। لِلَّهِ খবর, যা لِ আর لَفْظُ ٱلْجَلَالَة (আল্লাহ নাম) মিলে গঠিত (জর)। رَبِّ হলো ٱللَّهِ-এর বদল বা সিফাত, জর অবস্থায়। ٱلْعَٰلَمِينَ মুযাফ ইলাইহি, জর অবস্থায় (জমা মুযাক্কার সালিমের মতো ই‘রাব হয়, শেষে ـِينَ)।' },
         words: [
           { ar: 'ٱلْحَمْدُ', en: 'All praise', bn: 'সমস্ত প্রশংসা', role: { en: 'mubtadaʾ (subject, rafʿ)', bn: 'মুবতাদা (রফ‘)' } },
           { ar: 'لِلَّهِ', en: 'is for Allah', bn: 'আল্লাহর জন্য', role: { en: 'preposition + divine name (khabar, jarr)', bn: 'হরফে জর + আল্লাহর নাম (খবর, জর)' } },
           { ar: 'رَبِّ', en: 'Lord', bn: 'রব', hl: true, role: { en: 'badal/ṣifa (substitute, jarr)', bn: 'বদল/সিফাত (জর)' } },
-          { ar: 'ٱلْعَٰلَمِينَ', en: 'of the worlds', bn: 'সৃষ্টিজগতের', role: { en: 'muḍāf ilayh — broken plural (jarr)', bn: 'মুযাফ ইলাইহি — জমা মুকাসসার (জর)' } },
+          { ar: 'ٱلْعَٰلَمِينَ', en: 'of the worlds', bn: 'সৃষ্টিজগতের', role: { en: 'muḍāf ilayh — sound masculine plural (jarr)', bn: 'মুযাফ ইলাইহি — জমা মুযাক্কার সালিম (জর)' } },
         ] },
       { ref: '1:3', trans: { en: 'The Most Gracious, the Most Merciful.', bn: 'পরম করুণাময়, অতি দয়ালু।' },
         note: { en: 'These two names are adjectives (ṣifa) describing ٱللَّهِ (implied from the previous verse), matching in jarr.', bn: 'এই দুটি নাম ٱللَّهِ-এর সিফাত (ٱللَّهِ আগের আয়াত থেকে বোঝা যায়), তাই এরাও জর অবস্থায় মিলে আছে।' },
@@ -1575,7 +1575,7 @@ const QA_LESSONS = [
           { ar: 'ٱلْمَغْضُوبِ', en: 'who incur wrath', bn: 'গজবপ্রাপ্ত', role: { en: 'passive participle (ism al-mafʿūl, jarr)', bn: 'ইসমে মাফউল (জর)' } },
           { ar: 'عَلَيْهِمْ', en: 'upon them', bn: 'তাদের উপর', role: { en: 'preposition + pronoun', bn: 'হরফে জর + সর্বনাম' } },
           { ar: 'وَلَا', en: 'and not', bn: 'আর না', role: { en: 'and + negation', bn: 'وَ + হরফে নফি' } },
-          { ar: 'ٱلضَّآلِّينَ', en: 'the astray', bn: 'পথভ্রষ্ট', role: { en: 'active participle (ism al-fāʿil, jarr, broken plural)', bn: 'ইসমে ফায়েল (জর, জমা মুকাসসার)' } },
+          { ar: 'ٱلضَّآلِّينَ', en: 'the astray', bn: 'পথভ্রষ্ট', role: { en: 'active participle (ism al-fāʿil, jarr, sound masculine plural)', bn: 'ইসমে ফায়েল (জর, জমা মুযাক্কার সালিম)' } },
         ] },
     ],
     practice: {
@@ -1589,12 +1589,12 @@ const QA_LESSONS = [
     id: 'pronoun-table', unit: 'foundations', icon: '👤',
     title: { en: 'The 12 Arabic pronouns', bn: 'আরবির ১২টি সর্বনাম' },
     concept: {
-      en: 'Arabic has 12 detached pronouns grouped by person, number and gender. 1st person: أَنَا (I) and نَحْنُ (we). 2nd person has five forms for m.sg, f.sg, m.dual, m.pl and f.pl. 3rd person likewise: هُوَ (he), هِيَ (she), two dual forms, هُمْ (they m.) and هُنَّ (they f.). These stand alone as subjects or for emphasis.',
-      bn: 'আরবিতে আলাদা (মুনফাসিল) সর্বনাম ১২টি। এগুলো ভাগ হয় কে বলছে, কাকে বলছে, বচন আর লিঙ্গ অনুযায়ী। ১ম পুরুষ বা মুতাকাল্লিম (বক্তা): أَنَا (আমি) ও نَحْنُ (আমরা)। ২য় পুরুষ বা হাযির (যাকে বলা হচ্ছে): পাঁচটি রূপ, মুযাক্কার মুফরাদ, মুয়ান্নাস মুফরাদ, মুযাক্কার দ্বিবচন, মুযাক্কার জমা ও মুয়ান্নাস জমা। ৩য় পুরুষ বা গায়েব (অনুপস্থিত): একইভাবে هُوَ (সে, পুরুষ), هِيَ (সে, নারী), দ্বিবচনের দুটি রূপ, هُمْ (তারা, পুরুষ) ও هُنَّ (তারা, নারী)। এগুলো একা বসে মুবতাদা হয়, কিংবা জোর দেওয়ার কাজে আসে।',
+      en: 'Arabic has 12 detached pronouns grouped by person, number and gender: 2 + 5 + 5. 1st person: أَنَا (I) and نَحْنُ (we). 2nd person has five forms: m.sg, f.sg, one dual (the same for both genders), m.pl and f.pl. 3rd person likewise has five: هُوَ (he), هِيَ (she), one dual هُمَا (they two, both genders), هُمْ (they m.) and هُنَّ (they f.). These stand alone as subjects or for emphasis.',
+      bn: 'আরবিতে আলাদা (মুনফাসিল) সর্বনাম ১২টি। এগুলো ভাগ হয় কে বলছে, কাকে বলছে, বচন আর লিঙ্গ অনুযায়ী। ১ম পুরুষ বা মুতাকাল্লিম (বক্তা): أَنَا (আমি) ও نَحْنُ (আমরা)। ২য় পুরুষ বা হাযির (যাকে বলা হচ্ছে): পাঁচটি রূপ, মুযাক্কার মুফরাদ, মুয়ান্নাস মুফরাদ, দ্বিবচন (পুরুষ-নারী দুইয়ের জন্য একটিই রূপ), মুযাক্কার জমা ও মুয়ান্নাস জমা। ৩য় পুরুষ বা গায়েব (অনুপস্থিত): একইভাবে পাঁচটি, هُوَ (সে, পুরুষ), هِيَ (সে, নারী), দ্বিবচনে একটিই রূপ هُمَا (তারা দুজন, পুরুষ-নারী উভয়ের জন্য), هُمْ (তারা, পুরুষ) ও هُنَّ (তারা, নারী)। মোট ২ + ৫ + ৫ = ১২। এগুলো একা বসে মুবতাদা হয়, কিংবা জোর দেওয়ার কাজে আসে।',
     },
     examples: [
       { ref: '15:9', trans: { en: 'Indeed, it is We who sent down the Reminder, and indeed, We are its Guardian.', bn: 'নিশ্চয়ই আমরাই এই উপদেশবাণী নাজিল করেছি, আর আমরাই এর হেফাজতকারী।' },
-        note: { en: 'نَحْنُ (naḥnu, "We") is the 1st-person plural pronoun — used twice here for divine emphasis.', bn: 'نَحْنُ (নাহনু, "আমরা") মুতাকাল্লিমের (১ম পুরুষ) জমা সর্বনাম। আল্লাহ এখানে নিজের মহিমায় জোর দিতে এটি দুবার এনেছেন।' },
+        note: { en: 'نَحْنُ (naḥnu, "We") is the 1st-person plural pronoun. It appears once here, right after إِنَّا (whose ـنَا already means "we"), so the "We" is stressed twice for divine emphasis.', bn: 'نَحْنُ (নাহনু, "আমরা") মুতাকাল্লিমের (১ম পুরুষ) জমা সর্বনাম। এখানে এটি একবারই এসেছে, إِنَّا-এর ঠিক পরে; إِنَّا-এর ـنَا-ও "আমরা" বোঝায়। এভাবে "আমরা" দুবার বলে আল্লাহ নিজের মহিমায় জোর দিয়েছেন।' },
         words: [
           { ar: 'إِنَّا', en: 'Indeed We', bn: 'নিশ্চয়ই আমরা', hl: true },
           { ar: 'نَحْنُ', en: 'We (emphatic)', bn: 'আমরা (জোর)', hl: true },
