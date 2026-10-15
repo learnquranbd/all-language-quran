@@ -12,33 +12,18 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
-## Article i18n wave (2026-10-15, user said "continue" again): IN PROGRESS, uncommitted
-- Sahaba/Seerah/Prophets articles: 238 articles, 4,373 strings, 222k words. tools/content-i18n/articles.js extract ->
-  work/A1..A10 (whole articles, ~22k words); merge <lang> --write -> data/content-i18n/art-<module>/<id>/<lang>.json.
-  Modules' lc(o, ns) now take an ns; article calls pass 'art-<module>/<id>'. check.js now also rejects inexact ﴿﴾.
-- Budget rule: one language at a time, ~1.8% of 7d per language; STOP launching at 88% 7d (resets Mon 19 Oct 16:00).
-- Order: ur ar hi id es ms tr fa fr de ru zh ja. ur A1-A6 launched; A3 done and merged (render verified in harness).
-- EN fixes found by translators: fix EN+BN in js/*-articles.js, then `articles.js refresh` (patches packets, marks
-  languages that already worked on that chunk stale in work/A-changed.json), then per stale language `articles.js retr
-  <lang>` -> translate work/R-<lang>/ -> `retr <lang> --apply`. merge skips stale ids. Fixed so far (sahaba): abu_ayyub
-  garlic, abu_musa "of them", abu_said share for himself, nusaybah Habib sent in Prophet's lifetime, sad_ibn_ubadah did
-  not pledge, anas ~100. ur has 6 stale (R-ur pending).
-- Urdu works as an EN review pass: fix its flags before launching later languages on that chunk. 24 EN+BN fixes so far
-  (sahaba + prophets), all verified against hadith.js texts; sahaba BN writes hadith numbers in Bengali digits.
-- Before merging ur: normalise honorifics across chunks (A6 used رضی اللہ عنہ for Ibn Umar/Ibn Abbas, others عنہما).
-- ur A1-A10 ALL translated (CLEAN). Pending for ur: fact-checker batches (seerah flags A7-A10), then `retr ur`,
-  honorific normalisation (Ibn Umar/Ibn Abbas -> رضی اللہ عنہما), merge ur --write, harness check, commit.
-- Fact-checker agent verifies translators' EN flags with hadith.js and fixes EN+BN + refresh (batch 1: 9 seerah flags,
-  batch 2: 4). Do not start a language on a chunk until its flags are settled (A7-A10 still open).
-- Before merging ar: normalise Ibn Umar / Ibn Abbas to رضي الله عنهما (A3 used عنه; A1 used عنهما).
-- Fact-checker done batches 1-4 (40 EN+BN fixes total, Ibn Ishaq checked on archive.org Guillaume OCR); batch 5
-  (7 sahaba flags from ar A3) in progress. Retranslation agent doing R-ur (41) + R-ar (5); another retr round needed
-  after batch 5.
-- Batch 18 (6 flags) sent to a FRESH fact-checker agent.
-- v955: ur + ar articles complete (4373/4373 each, 0 stale), harness-verified. Not pushed. Fact-checker batches 1-14
-  done (~80 verified EN+BN fixes). hi A1-A5 running, A6-A10 next; hi is the last language this week (stop at 88% 7d).
-- Also uncommitted: amal-daily.js evening refuge dhikr src + Tirmidhi 3604 (Muslim 2709 has no count).
-  MORNING_EVENING_ADHKAR|4 morning/evening attribution to an-Nasa'i (al-Kubra) not verifiable with hadith.js.
+## Article i18n wave (2026-10-15): ur + ar + hi DONE, committed v956 (not pushed/deployed; v952-v956 all unpushed)
+- 238 articles (Sahaba/Seerah/Prophets), 4,373 strings, 222k words per language. data/content-i18n/art-<module>/<id>/
+  <lang>.json; modules' lc(o, ns) with ns 'art-<module>/<id>'. tools/content-i18n/articles.js extract | merge <lang>
+  [--write] | refresh | retr <lang> [--apply]; work/A1..A10 packets, work/A-changed.json tracks stale ids per language.
+- 22 fact-check batches (~110 verified EN+BN fixes in js/*-articles.js), every flag checked against hadith.js texts,
+  Guillaume's Ibn Ishaq (archive.org OCR) or Musnad Ahmad online; unconfirmable claims hedged, never swapped from memory.
+- Normalised: ur/ar Ibn Umar & Ibn Abbas dual honorific; hi इब्न (not इब्ने), historian इब्न इस्हाक़.
+- Remaining languages (order): id es ms tr fa fr de ru zh ja. Cost ~4% of 7d per language (incl. fact-check + retr).
+  Budget at stop: 7d ~85%, resets Mon 19 Oct 16:00. Resume after reset: launch <lang> A1..A10 (5 parallel), forward
+  flags to a fact-checker, `retr` rounds, merge, harness check (prophetsView.selected / sahabaView.selected /
+  seerahView.expanded.add(id)), bump, commit.
+- Open style note: hi uses शहीद unevenly across chunks (A3 for battle deaths, A6 only Hamza).
 
 ## i18n gap wave (2026-10-15, user said "continue"): DONE, committed v953, NOT pushed/deployed (v952 also unpushed)
 - v952 translations were not shown where render code bypassed CI18N: Amal, 99 Names detail, Tajweed makharij and
