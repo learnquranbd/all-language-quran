@@ -30,6 +30,11 @@ the state, kept short on purpose. Full history of earlier rounds:
   "Rabbi hab li min ladunka rahma" is not 18:10's wording ("Rabbana atina min ladunka rahma"); 32.explain ties al-'Aliyy to
   "boundless knowledge" (it means the Most High); 31.q4 "La Aliman Halima" garbled for 22:59; 20.explain hadith wording
   differs from the price-fixing hadith in 19.hadith.
+- v958 (2026-10-15, "fix all"): Bengali review applied to 21 files (~4,900 more strings: UI pack 549, Companions 539,
+  QA lessons 714 + drills/glossary 288, Handwriting/Tajweed 463, Prophets data 277, Seerah 183+77, prayer 167+26,
+  rulings 158, Kids 96, quizzes, Amal). STYLED in tests/check-bangla-style.js now 21 files / 10,991 strings.
+  English fixes: 18 Names/Why-Islam + 7 QA grammar errors, translated into 13 langs (C8, C9). 661 unreviewed hits
+  left (older modules: tadabbur notes, sahaba/seerah articles, hope-data rest, nuzul, others).
 - "fix all" (user, 2026-10-15): BN_PACK (js/i18n/bn.js UI, 1703 keys, 7 packets) R1-R5 running; EN-slip agent fixing
   18 Names/Why-Islam English items (then content-i18n extend + retranslate those strings in 13 langs). Packets ready
   for prophets-data, kids, seerah-data, sahaba-data, Islam rulings, QA_LESSONS. Stop at ~97% 7d; commit per module.
