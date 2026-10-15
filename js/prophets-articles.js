@@ -1191,7 +1191,7 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The command came to all of them and they prostrated together, except Iblis (2:34). He was of the jinn (18:50); he refused, was arrogant, and became of the disbelievers. Asked directly what prevented him, he answered with a comparison: I am better than him, You created me from fire and created him from clay (7:12). It is the first argument ever made against a command of Allah: self-assessment set above instruction.",
-            bn: "আদেশ সবার কাছে আসে এবং সবাই একসাথে সিজদা করে, কেবল ইবলিস ছাড়া (2:34)। সে ছিল জিনদের একজন (18:50); সে অস্বীকার করে, অহংকার করে এবং কাফিরদের অন্তর্ভুক্ত হয়ে যায়। সরাসরি জিজ্ঞেস করা হলে সে তুলনা দিয়ে জবাব দেয়: আমি তার চেয়ে উত্তম, আপনি আমাকে আগুন থেকে আর তাকে মাটি থেকে সৃষ্টি করেছেন (7:12)। আল্লাহর আদেশের বিরুদ্ধে এটিই ইতিহাসের প্রথম যুক্তি, আর তার পুরো কাঠামো হলো আদেশের ওপরে নিজের বিচারকে বসানো।",
+            bn: "হুকুম এল সবার কাছে, সবাই একসঙ্গে সিজদায় পড়ল, শুধু ইবলিস ছাড়া (2:34)। সে ছিল জিনদের একজন (18:50); সে মানল না, অহংকার করল, কাফিরদের দলে চলে গেল। সরাসরি জিজ্ঞেস করা হলে সে জবাব দিল তুলনা টেনে: আমি তার চেয়ে উত্তম, আপনি আমাকে আগুন থেকে আর তাকে মাটি থেকে সৃষ্টি করেছেন (7:12)। আল্লাহর হুকুমের বিরুদ্ধে এটাই প্রথম যুক্তি: হুকুমের ওপরে নিজের বিচারকে বসানো।",
           },
           {
             en: "The Quran preserves that reasoning because it is a pattern, not an incident. Iblis never denied that Allah exists or that He commands; he accepted both and still refused, because obeying meant accepting a rank he judged beneath him. He then asked not for forgiveness but for time, and declared he would come at the children of Adam from before them and behind them, from their right and their left (7:16-17). Pride asks for respite; humility asks for pardon.",
@@ -1587,8 +1587,8 @@ var PROPHET_ARTICLES = {
         h: { en: "His Father and His People", bn: "পিতা ও সম্প্রদায়" },
         p: [
           {
-            en: "He took the argument home first. O my father, why do you worship that which does not hear and does not see (19:42). Each address opens with the same words, my father, and the last offers help rather than judgement: knowledge has come to me that has not come to you, so follow me and I will guide you to an even path (19:43).",
-            bn: "যুক্তিটি তিনি প্রথমে নিয়ে গেলেন নিজের ঘরে। হে আমার পিতা, আপনি এমন কিছুর ইবাদত কেন করেন, যা শোনে না, দেখে না (19:42)? প্রতিবার কথা শুরু হয় একই সম্বোধনে, হে আমার পিতা; আর শেষ কথাটিতে রায় নেই, আছে সাহায্যের প্রস্তাব: আমার কাছে এমন জ্ঞান এসেছে যা আপনার কাছে আসেনি; তাই আমার অনুসরণ করুন, আমি আপনাকে সরল পথ দেখাব (19:43)।",
+            en: "He took the argument home first. O my father, why do you worship that which does not hear and does not see (19:42). Each address opens with the same words, my father, and the second offers help rather than judgement: knowledge has come to me that has not come to you, so follow me and I will guide you to an even path (19:43).",
+            bn: "যুক্তিটি তিনি প্রথমে নিয়ে গেলেন নিজের ঘরে। হে আমার পিতা, আপনি এমন কিছুর ইবাদত কেন করেন, যা শোনে না, দেখে না (19:42)? প্রতিবার কথা শুরু হয় একই সম্বোধনে, হে আমার পিতা; আর দ্বিতীয় কথাটিতে রায় নেই, আছে সাহায্যের প্রস্তাব: আমার কাছে এমন জ্ঞান এসেছে যা আপনার কাছে আসেনি; তাই আমার অনুসরণ করুন, আমি আপনাকে সরল পথ দেখাব (19:43)।",
           },
           {
             en: "The answer was a threat of stoning and an order to leave him for a long time (19:46). Ibrahim (AS) replied, peace be upon you; I will ask forgiveness for you from my Lord (19:47). He kept that word, and the Quran explains that the request was only because of a promise he had made; when it became clear his father was an enemy to Allah, he disassociated from him (9:114).",
@@ -1657,7 +1657,7 @@ var PROPHET_ARTICLES = {
           },
           {
             en: "Their prayer went further than the building: our Lord, send among them a messenger from themselves who will recite to them Your verses and teach them the Book and wisdom and purify them (2:129). In a hadith recorded by Ahmad and Ibn Hibban, graded hasan or sahih by different scholars, the Prophet ﷺ said he was the answer to it. Ibrahim was named an upright community in himself (16:120), the one who fulfilled his obligations (53:37), and Allah took him as an intimate friend (4:125).",
-            bn: "তাঁদের দোয়া নির্মাণের চেয়েও দূর পর্যন্ত গেল: হে আমাদের প্রভু, তাদের মধ্য থেকেই তাদের কাছে এমন একজন রাসূল পাঠান, যিনি তাদের আপনার আয়াত পড়ে শোনাবেন, কিতাব ও হিকমত শেখাবেন এবং তাদের পবিত্র করবেন (2:129)। আহমদ ও ইবনে হিব্বানে বর্ণিত একটি হাদিসে, যাকে বিভিন্ন আলেম হাসান বা সহিহ বলেছেন, নবী ﷺ বলেছেন, তিনিই সেই দোয়ার জবাব। ইবরাহীমকে বলা হয়েছে নিজেই এক অনুগত জাতি (16:120), যিনি নিজের দায়িত্ব পূর্ণ করেছেন (53:37); আর আল্লাহ তাঁকে অন্তরঙ্গ বন্ধু হিসেবে গ্রহণ করেছেন (4:125)।",
+            bn: "তাঁদের দোয়া ঘর বানানোর চেয়েও অনেক দূর গেল: হে আমাদের রব, তাদের মধ্য থেকেই তাদের কাছে একজন রাসূল পাঠান, যিনি তাদের আপনার আয়াত পড়ে শোনাবেন, কিতাব ও হিকমত শেখাবেন এবং তাদের পবিত্র করবেন (2:129)। আহমদ ও ইবনে হিব্বানের একটি হাদিসে, যাকে কোনো কোনো আলেম হাসান আর কেউ সহিহ বলেছেন, নবী ﷺ বলেছেন, তিনিই সেই দোয়ার জবাব। কুরআন ইবরাহীমকে বলেছে, তিনি একাই ছিলেন এক উম্মত, আল্লাহর অনুগত (16:120); তিনি নিজের দায়িত্ব পুরোপুরি পালন করেছেন (53:37); আর আল্লাহ তাঁকে খলিল, অর্থাৎ অন্তরঙ্গ বন্ধু বানিয়েছেন (4:125)।",
           },
         ],
       },

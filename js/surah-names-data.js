@@ -26,15 +26,15 @@
  * languages resolve through CI18N.tr in SurahNamesView.tt(). */
 const SURAHNAMES_UI = {
   sn_title: { en: 'Why this name?', bn: 'এই নাম কেন?' },
-  sn_intro: { en: 'Every surah carries a name — most taken from a single distinctive word rather than from the subject. Here is where each name comes from, and what it signals.', bn: 'প্রতিটি সূরার একটি নাম আছে — বেশিরভাগই বিষয়বস্তু নয়, বরং একটি স্বতন্ত্র শব্দ থেকে নেওয়া। প্রতিটি নাম কোথা থেকে এসেছে এবং তা কী নির্দেশ করে, তা এখানে।' },
+  sn_intro: { en: 'Every surah carries a name — most taken from a single distinctive word rather than from the subject. Here is where each name comes from, and what it signals.', bn: 'প্রতিটি সূরার একটা নাম আছে। বেশির ভাগ নাম এসেছে সূরার কোনো একটি চোখে পড়ার মতো শব্দ থেকে, বিষয়বস্তু থেকে নয়। কোন নাম কোথা থেকে এল আর তা কী বোঝায়, এখানে দেখুন।' },
   sn_search: { en: 'Search a surah or a name…', bn: 'সূরা বা নাম খুঁজুন…' },
   sn_filter_all: { en: 'All', bn: 'সব' },
-  sn_filter_meccan: { en: 'Meccan', bn: 'মাক্কী' },
+  sn_filter_meccan: { en: 'Meccan', bn: 'মক্কী' },
   sn_filter_medinan: { en: 'Medinan', bn: 'মাদানী' },
   sn_filter_multi: { en: 'More than one name', bn: 'একাধিক নাম' },
   sn_explained: { en: 'explained', bn: 'ব্যাখ্যা করা হয়েছে' },
   sn_empty: { en: 'No surah matches that search.', bn: 'এই অনুসন্ধানে কোনো সূরা মেলেনি।' },
-  sn_meccan: { en: 'Meccan', bn: 'মাক্কী' },
+  sn_meccan: { en: 'Meccan', bn: 'মক্কী' },
   sn_medinan: { en: 'Medinan', bn: 'মাদানী' },
   sn_why: { en: 'Why this name', bn: 'এই নাম কেন' },
   sn_hide: { en: 'Hide', bn: 'লুকান' },

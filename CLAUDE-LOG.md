@@ -26,6 +26,17 @@ the state, kept short on purpose. Full history of earlier rounds:
 - PROPHET_ARTICLES R1 reviewed (157 fixes) but NOT applied: apply only after the fact-checker finishes batches 23-26
   (it also writes js/prophets-articles.js; concurrent whole-file writes would lose edits).
 - BRIEF spelling table: নামাজ ওহি জিকির নাজিল ফেরাউন সূরা কুরআন রাসূল হাদিস যাকাত রমজান (app majority forms).
+- Open EN items in names-data.js NAMES_99 (from the BN review): 26.q1 "Surana-lladhi" typo for "Subhana-lladhi"; 15.invoke
+  "Rabbi hab li min ladunka rahma" is not 18:10's wording ("Rabbana atina min ladunka rahma"); 32.explain ties al-'Aliyy to
+  "boundless knowledge" (it means the Most High); 31.q4 "La Aliman Halima" garbled for 22:59; 20.explain hadith wording
+  differs from the price-fixing hadith in 19.hadith.
+- More NAMES_99 EN items: 46.explain 11:90 is "Rahim Wadud" (Ghafur Wadud is 85:14); 40.explain says ar-Rahman ends at
+  55:27 (ends 55:78); 54.explain cites 45:19 for "Wali of the believers" (verse says muttaqin); 62.explain derives Ibn
+  al-Qayyim's name from al-Qayyum (it is Qayyim al-Jawziyya); 50.explain 22:6 vs 22:62 wording; 47.explain calls 11:73
+  Ibrahim's prayer (angels speak). 35.explain "not physically above in a spatial sense" is a contested aqidah claim and
+  conflicts with its own Ibn al-Qayyim 'uluww quote: BN omits it; USER DECIDES the EN.
+- Next Bengali targets after reset: js/i18n/bn.js UI pack (1,700 keys; user sees these everywhere), QA_LESSONS R1-R7,
+  handwriting, kids stories, prophets-data, Islam rulings, seerah-data, sahaba-data.
 - Open EN item: why-islam 34.points.1 credits 49:13 with "no Arab has superiority over a non-Arab" (that is the Farewell Sermon hadith, Ahmad 23489).
 - Open EN item: why-islam 42.points.3 says al-Bukhari prayed "before assessing each narrator"; the known report is before recording each hadith.
 - Open EN item: why-islam 16.qa.0.a "much of South and West Africa" probably means East and West Africa (EN change
