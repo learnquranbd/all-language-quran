@@ -692,6 +692,8 @@
  "kids_in_quran": "কুরআনে",
  "names_reflect_lead": "আল্লাহকে নিয়ে ভাবুন",
  "names_reflect_body": "এই নাম জানা কীভাবে আপনার ঈমান গভীর করতে ও আজকের জীবনযাপন গড়ে তুলতে পারে?",
+ "names_hadith_heading": "হাদিস",
+ "names_invoke_heading": "দোয়া",
  "names_search_quran": "কুরআনে খুঁজুন",
  "names_learn_more": "আরও জানুন",
  "names_in_quran": "কুরআনে এসেছে",

@@ -150,8 +150,14 @@ class NamesOfAllah {
 
   // ---------- helpers ----------
 
+  /** Translation of an English content string for languages other than en/bn (CI18N), or null. */
+  contentTr(en) {
+    if (!en || typeof CI18N === 'undefined') return null;
+    return CI18N.tr(this.language, en);
+  }
+
   meaningOf(name) {
-    return name.meanings[this.language] || name.meanings.en;
+    return name.meanings[this.language] || this.contentTr(name.meanings.en) || name.meanings.en;
   }
 
   /** Deterministic "name of the day" — same name for everyone on a given date */
@@ -165,7 +171,7 @@ class NamesOfAllah {
   }
 
   prophetNameOf(p) {
-    return p.names[this.language] || p.names.en;
+    return p.names[this.language] || this.contentTr(p.names.en) || p.names.en;
   }
 
   shuffle(arr) {
@@ -312,10 +318,14 @@ class NamesOfAllah {
     const title = this.nameModal.querySelector('#names-detail-title');
     const body = this.nameModal.querySelector('#names-detail-body');
     title.textContent = `${name.n}. ${name.translit}`;
-    const explainText = name.explain ? (name.explain[lang] || name.explain.en || '') : '';
-    const explainBn   = name.explain ? (name.explain.bn || '') : '';
+    const explainTr   = name.explain ? this.contentTr(name.explain.en) : null;
+    const explainText = name.explain ? (name.explain[lang] || explainTr || name.explain.en || '') : '';
+    // The Bengali line accompanies English text; a reader with a translation sees only that.
+    const explainBn   = (name.explain && !explainTr) ? (name.explain.bn || '') : '';
     const hadithObj   = name.hadith  || null;
     const invokeObj   = name.invoke  || null;
+    const hadithTr    = hadithObj ? this.contentTr(hadithObj.en) : null;
+    const invokeTr    = invokeObj ? this.contentTr(invokeObj.en) : null;
     body.innerHTML = `
       <div class="text-center mb-4">
         <div class="ayah-arabic !text-5xl mb-2" dir="rtl">${name.ar}</div>
@@ -325,7 +335,7 @@ class NamesOfAllah {
       </div>
       <div class="rounded-xl bg-indigo-50 dark:bg-indigo-500/10 border border-indigo-100 dark:border-indigo-500/20 p-4 mb-4">
         ${explainText
-          ? `<p class="text-sm text-indigo-800 dark:text-indigo-200 mb-2" dir="ltr">${this.escapeHtml(explainText)}</p>${(lang !== 'bn' && explainBn) ? `<p class="text-sm text-indigo-700 dark:text-indigo-300 mt-1" dir="auto">${this.escapeHtml(explainBn)}</p>` : ''}`
+          ? `<p class="text-sm text-indigo-800 dark:text-indigo-200 mb-2" dir="auto">${this.escapeHtml(explainText)}</p>${(lang !== 'bn' && explainBn) ? `<p class="text-sm text-indigo-700 dark:text-indigo-300 mt-1" dir="auto">${this.escapeHtml(explainBn)}</p>` : ''}`
           : `<p class="text-sm text-indigo-800 dark:text-indigo-200" dir="auto">💭 ${t('names_reflect_lead', lang)} <b>${this.escapeHtml(this.meaningOf(name))}</b>. ${t('names_reflect_body', lang)}</p>`}
         <div class="flex flex-wrap gap-2 mt-3">
           <a href="https://quran.com/search?q=${encodeURIComponent(name.ar)}" target="_blank" rel="noopener" class="text-xs px-3 py-1.5 rounded-lg bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 hover:shadow">🔎 ${t('names_search_quran', lang)}</a>
@@ -333,16 +343,16 @@ class NamesOfAllah {
       </div>
       ${hadithObj ? `
       <div class="rounded-xl bg-emerald-50 dark:bg-emerald-500/10 border border-emerald-100 dark:border-emerald-500/20 p-4 mb-4">
-        <h4 class="text-xs font-bold uppercase tracking-wide text-emerald-700 dark:text-emerald-300 mb-2">📜 Hadith</h4>
-        <p class="text-sm text-emerald-900 dark:text-emerald-100 italic mb-1" dir="ltr">"${this.escapeHtml(hadithObj.en)}"</p>
-        ${hadithObj.bn ? `<p class="text-sm text-emerald-800 dark:text-emerald-200 mt-1" dir="auto">${this.escapeHtml(hadithObj.bn)}</p>` : ''}
+        <h4 class="text-xs font-bold uppercase tracking-wide text-emerald-700 dark:text-emerald-300 mb-2">📜 ${t('names_hadith_heading', lang)}</h4>
+        <p class="text-sm text-emerald-900 dark:text-emerald-100 italic mb-1" dir="auto">"${this.escapeHtml(hadithTr || hadithObj.en)}"</p>
+        ${(hadithObj.bn && !hadithTr) ? `<p class="text-sm text-emerald-800 dark:text-emerald-200 mt-1" dir="auto">${this.escapeHtml(hadithObj.bn)}</p>` : ''}
         ${hadithObj.src ? `<p class="text-xs text-emerald-600 dark:text-emerald-400 mt-2 font-medium">— ${this.escapeHtml(hadithObj.src)}</p>` : ''}
       </div>` : ''}
       ${invokeObj ? `
       <div class="rounded-xl bg-teal-50 dark:bg-teal-500/10 border border-teal-100 dark:border-teal-500/20 p-4 mb-4">
-        <h4 class="text-xs font-bold uppercase tracking-wide text-teal-700 dark:text-teal-300 mb-2">🤲 Du\'a Invocation</h4>
-        <p class="text-sm text-teal-900 dark:text-teal-100" dir="ltr">${this.escapeHtml(invokeObj.en)}</p>
-        ${invokeObj.bn ? `<p class="text-sm text-teal-800 dark:text-teal-200 mt-1" dir="auto">${this.escapeHtml(invokeObj.bn)}</p>` : ''}
+        <h4 class="text-xs font-bold uppercase tracking-wide text-teal-700 dark:text-teal-300 mb-2">🤲 ${t('names_invoke_heading', lang)}</h4>
+        <p class="text-sm text-teal-900 dark:text-teal-100" dir="auto">${this.escapeHtml(invokeTr || invokeObj.en)}</p>
+        ${(invokeObj.bn && !invokeTr) ? `<p class="text-sm text-teal-800 dark:text-teal-200 mt-1" dir="auto">${this.escapeHtml(invokeObj.bn)}</p>` : ''}
       </div>` : ''}
       <div id="names-occ"><p class="text-center text-gray-400 text-sm py-2">${t('loading', lang)}</p></div>`;
     // Quranic occurrences (exact word appearances) from bundled tokens.

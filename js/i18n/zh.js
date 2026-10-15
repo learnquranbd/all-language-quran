@@ -1245,6 +1245,8 @@
  "kids_in_quran": "在《古兰经》中",
  "names_reflect_lead": "参悟真主为",
  "names_reflect_body": "了解这个尊名如何加深你的信仰，并影响你今天的生活方式？",
+ "names_hadith_heading": "圣训",
+ "names_invoke_heading": "祈祷词（杜阿）",
  "names_search_quran": "在《古兰经》中查找",
  "names_learn_more": "了解更多",
  "names_in_quran": "在《古兰经》中出现",

@@ -1245,6 +1245,8 @@
  "kids_in_quran": "im Quran",
  "names_reflect_lead": "Betrachte Allah als",
  "names_reflect_body": "Wie kann das Wissen um diesen Namen deinen Glauben vertiefen und dein heutiges Leben prägen?",
+ "names_hadith_heading": "Hadith",
+ "names_invoke_heading": "Bittgebet (Duʿāʾ)",
  "names_search_quran": "Im Quran finden",
  "names_learn_more": "Mehr erfahren",
  "names_in_quran": "Kommt im Quran vor",

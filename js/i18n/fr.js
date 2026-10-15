@@ -1245,6 +1245,8 @@
  "kids_in_quran": "dans le Coran",
  "names_reflect_lead": "Médite sur Allah en tant que",
  "names_reflect_body": "Comment la connaissance de ce nom peut-elle approfondir ta foi et façonner ta vie aujourd'hui ?",
+ "names_hadith_heading": "Hadith",
+ "names_invoke_heading": "Invocation (douʿâʾ)",
  "names_search_quran": "Chercher dans le Coran",
  "names_learn_more": "En savoir plus",
  "names_in_quran": "Présent dans le Coran",

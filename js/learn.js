@@ -21,40 +21,6 @@ const LEARN_CARDS = [
   { module: 'tajweedlearn', emoji: '🎨', grad: 'from-cyan-400 to-teal-600',     title: 'tj_learn_title',       desc: 'tj_learn_subtitle',    level: 'learn_level_intermediate' }
 ];
 
-// Local i18n fallback so new keys render as real text before translations.js
-// gets them. `t()` returns the raw key when a key is missing — we detect that
-// and substitute the fallback. Reported for later merge into translations.js.
-const LEARN_I18N_FALLBACK = {
-  learn_dashboard_title:   { en: 'Your progress', bn: 'আপনার অগ্রগতি', zh: '你的进度', ja: 'あなたの進捗'},
-  learn_stat_streak:       { en: 'day streak', bn: 'দিনের ধারা', zh: '连续天数', ja: '連続日数'},
-  learn_stat_learned:      { en: 'items learned', bn: 'শেখা আইটেম', zh: '已学项目', ja: '学習済み項目'},
-  learn_stat_modules:      { en: 'modules started', bn: 'শুরু করা মডিউল', zh: '已开始的模块', ja: '開始したモジュール'},
-  learn_continue_title:    { en: 'Continue learning', bn: 'শেখা চালিয়ে যান', zh: '继续学习', ja: '学習を続ける'},
-  learn_continue_cta:      { en: 'Pick up where you left off', bn: 'যেখানে থেমেছিলেন সেখান থেকে', zh: '从上次停下的地方继续', ja: '中断したところから再開'},
-  learn_continue_btn:      { en: 'Resume', bn: 'চালিয়ে যান', zh: '继续', ja: '再開'},
-  learn_goal_label:        { en: "Today's goal", bn: 'আজকের লক্ষ্য', zh: '今日目标', ja: '今日の目標'},
-  learn_goal_review:       { en: 'Review {n} vocabulary words', bn: '{n}টি শব্দ রিভিউ করুন', zh: '复习{n}个词汇', ja: '{n}個の単語を復習'},
-  learn_goal_start:        { en: 'Start any lesson to begin a streak', bn: 'ধারা শুরু করতে যেকোনো পাঠ শুরু করুন', zh: '开始任何课程来开启连续学习', ja: 'レッスンを開始して連続記録を始めよう'},
-  learn_goal_keep_streak:  { en: 'Practice today to keep your {n}-day streak', bn: 'আপনার {n} দিনের ধারা ধরে রাখতে আজ অনুশীলন করুন', zh: '今天练习以保持{n}天连续记录', ja: '今日練習して{n}日連続記録を維持しよう'},
-  learn_goal_explore:      { en: 'Explore a new module today', bn: 'আজ একটি নতুন মডিউল ঘুরে দেখুন', zh: '今天探索一个新模块', ja: '今日新しいモジュールを探索'},
-  learn_level_beginner:    { en: 'Beginner', bn: 'প্রাথমিক', zh: '初级', ja: '初級'},
-  learn_level_intermediate:{ en: 'Intermediate', bn: 'মধ্যম', zh: '中级', ja: '中級'},
-  learn_level_advanced:    { en: 'Advanced', bn: 'উন্নত', zh: '高级', ja: '上級'},
-  learn_not_started:       { en: 'Not started', bn: 'শুরু হয়নি', zh: '未开始', ja: '未開始'},
-  learn_chip_best:         { en: 'Best {n}', bn: 'সেরা {n}', zh: '最佳 {n}', ja: '最高 {n}'},
-  learn_chip_due:          { en: '{n} due', bn: '{n}টি বাকি', zh: '待复习 {n} 个', ja: '{n} が期限'},
-  learn_chip_practiced:    { en: '{n} practiced', bn: '{n}টি অনুশীলিত', zh: '已练习 {n} 个', ja: '{n} 練習済み'},
-  learn_chip_ayahs:        { en: '{n} ayahs', bn: '{n}টি আয়াত', zh: '{n} 节', ja: '{n} 節'},
-  learn_chip_progress:     { en: '{done}/{total}', bn: '{done}/{total}', zh: '{done}/{total}', ja: '{done}/{total}'},
-  learn_search_placeholder:{ en: 'Search modules…', bn: 'মডিউল খুঁজুন…', zh: '搜索模块…', ja: 'モジュールを検索…'},
-  learn_search_empty:      { en: 'No modules match your search', bn: 'আপনার খোঁজার সাথে কোনো মডিউল মেলেনি', zh: '没有匹配的模块', ja: '一致するモジュールがありません'},
-  learn_surprise:          { en: 'Surprise me', bn: 'চমক দিন', zh: '给我惊喜', ja: 'おまかせ'},
-  learn_pin:               { en: 'Pin to top', bn: 'উপরে পিন করুন', zh: '置顶', ja: 'トップに固定'},
-  learn_unpin:             { en: 'Unpin', bn: 'পিন সরান', zh: '取消置顶', ja: '固定解除'},
-  learn_salah_title:       { en: 'Prayer', bn: 'নামাজ', zh: '礼拜', ja: '礼拝'},
-  learn_salah_desc:        { en: 'Prayer is the second pillar of Islam and a daily act of worship. Learn the steps, duas, and meanings.', bn: 'নামাজ ইসলামের দ্বিতীয় স্তম্ভ, যা প্রতিদিন নির্দিষ্ট সময়ে আদায় করা হয়। ধাপ, দোয়া ও অর্থ শিখুন।', zh: '礼拜是伊斯兰的第二支柱，每天在规定的时间进行。学习步骤、杜阿和含义。', ja: '礼拝はイスラームの第二の柱であり、毎日決められた時間に行われます。手順、ドゥアー、意味を学びましょう。'}
-};
-
 const LEARN_LAST_MODULE_KEY = 'learnLastModule';
 const LEARN_PINS_KEY = 'lq_learn_pins';
 
@@ -95,13 +61,10 @@ class LearnHub {
     this.backBar.querySelector('button').addEventListener('click', () => this.showHub());
   }
 
-  // ---------- i18n helper (local fallback + {var} interpolation) ----------
+  // ---------- i18n helper ({var} interpolation) ----------
 
   tt(key, vars) {
     let s = t(key, this.language);
-    if (s === key && LEARN_I18N_FALLBACK[key]) {
-      s = LEARN_I18N_FALLBACK[key][this.language] || LEARN_I18N_FALLBACK[key].en;
-    }
     if (vars) Object.keys(vars).forEach(k => { s = s.split('{' + k + '}').join(vars[k]); });
     return s;
   }

@@ -8,47 +8,6 @@
  * plus data/word-index.json (corpus deck) and data/sarf.json (root-family quiz).
  */
 
-/**
- * Local fallbacks for i18n keys not yet in js/translations.js (that file is
- * owned by the orchestrator). t() returns the key itself when missing; these
- * keep the UI readable (en/bn) until the keys land centrally.
- */
-const VOCAB_I18N_FALLBACK = {
-  vocab_review:         { en: 'Review', bn: 'রিভিউ', zh: '复习', ja: '復習'},
-  vocab_due:            { en: '{count} due', bn: '{count}টি বাকি', zh: '待复习{count}个', ja: '{count}が期限'},
-  vocab_review_empty:   { en: 'All caught up! Nothing due for review.', bn: 'দারুণ! এখন রিভিউয়ের জন্য কিছু বাকি নেই।', zh: '全部完成！没有待复习的。', ja: 'すべて完了！復習期限はありません。'},
-  vocab_next_due:       { en: 'Next review in {time}', bn: 'পরবর্তী রিভিউ {time} পরে', zh: '下次复习在{time}后', ja: '次回復習まで{time}'},
-  vocab_show_meaning:   { en: 'Show meaning', bn: 'অর্থ দেখুন', zh: '显示含义', ja: '意味を表示'},
-  vocab_again:          { en: 'Again', bn: 'আবার', zh: '再来一次', ja: 'もう一度'},
-  vocab_good:           { en: 'Good', bn: 'পেরেছি', zh: '记住了', ja: '良好'},
-  vocab_new_word:       { en: 'New', bn: 'নতুন', zh: '新词', ja: '新規'},
-  vocab_all:            { en: 'All', bn: 'সব', zh: '全部', ja: 'すべて'},
-  vocab_quiz_words:     { en: 'Word meanings', bn: 'শব্দের অর্থ', zh: '词义', ja: '単語の意味'},
-  vocab_quiz_roots:     { en: 'Root families', bn: 'মূল ধাতু', zh: '词根家族', ja: '語根ファミリー'},
-  vocab_choose_arabic:  { en: 'Choose the Arabic word', bn: 'সঠিক আরবি শব্দটি বেছে নিন', zh: '选择正确的阿拉伯语单词', ja: '正しいアラビア語を選んでください'},
-  vocab_root_prompt:    { en: 'Which word comes from this root?', bn: 'কোন শব্দটি এই মূল থেকে এসেছে?', zh: '哪个词来自这个词根？', ja: 'どの単語がこの語根から来ていますか？'},
-  vocab_reviewed_count: { en: '{count} reviewed this session', bn: 'এই সেশনে {count}টি রিভিউ হয়েছে', zh: '本课复习了{count}个', ja: 'このセッションで{count}復習しました'},
-  vocab_wotd:           { en: 'Word of the day', bn: 'আজকের শব্দ', zh: '每日一词', ja: '今日の単語'},
-  vocab_quiz_listen:    { en: 'Listening', bn: 'শুনে চিনুন', zh: '听力', ja: 'リスニング'},
-  vocab_listen_prompt:  { en: 'Listen, then choose the meaning', bn: 'শুনে সঠিক অর্থটি বেছে নিন', zh: '听音选择正确含义', ja: '聞いて正しい意味を選んでください'},
-  vocab_play_word:      { en: 'Play word audio', bn: 'শব্দটি শুনুন', zh: '播放音频', ja: '単語を再生'},
-  vocab_mastery:        { en: 'Mastery by theme', bn: 'বিষয়ভিত্তিক অগ্রগতি', zh: '按主题掌握度', ja: 'テーマ別習熟度'},
-  vocab_core_words:     { en: 'Core 50 words', bn: 'মূল ৫০ শব্দ', zh: '核心50词', ja: 'コア50語'},
-  vocab_favorites:      { en: 'Favorites', bn: 'প্রিয়', zh: '收藏', ja: 'お気に入り'},
-  vocab_favorite:       { en: 'Favorite', bn: 'প্রিয়', zh: '收藏', ja: 'お気に入り'},
-  vocab_search:         { en: 'Search words…', bn: 'শব্দ খুঁজুন…', zh: '搜索单词…', ja: '単語を検索…'},
-  vocab_no_matches:     { en: 'No matching words', bn: 'কোনো মিল পাওয়া শব্দ নেই', zh: '没有匹配的单词', ja: '一致する単語がありません'},
-  vocab_clear_search:   { en: 'Clear', bn: 'মুছুন', zh: '清除', ja: 'クリア'},
-  vocab_level:          { en: 'Level', bn: 'স্তর', zh: '级', ja: 'レベル'},
-  vocab_all_levels:     { en: 'All levels', bn: 'সব স্তর', zh: '全部级别', ja: 'すべてのレベル'},
-  vocab_word_ayahs:     { en: 'Ayahs with this word', bn: 'এই শব্দটি যেসব আয়াতে', zh: '含此词的经文', ja: 'この語を含む節'},
-  vocab_root_ayahs:     { en: 'Ayahs with this root', bn: 'একই মূল (রুট) যেসব আয়াতে', zh: '同词根的经文', ja: '同じ語根の節'},
-  vocab_coverage:       { en: 'of all words in the Quran covered', bn: 'কুরআনের মোট শব্দের কভারেজ', zh: '古兰经词汇覆盖率', ja: 'クルアーン語彙カバー率'},
-  vocab_by_level:       { en: 'Progress by level', bn: 'স্তর অনুযায়ী অগ্রগতি', zh: '按级别进度', ja: 'レベル別進捗'},
-  vocab_suggest:        { en: 'Study the 50 words that add the most coverage', bn: 'যে ৫০টি শব্দ শিখলে কভারেজ সবচেয়ে বাড়বে', zh: '学习最能提升覆盖率的50个词', ja: 'カバー率を最も高める50語を学ぶ'},
-  vocab_streak:         { en: 'day streak', bn: 'দিনের ধারা', zh: '连续天数', ja: '連続日数'}
-};
-
 /** Frequency bands for the full ≥2-occurrence corpus deck (most → least common). */
 const VOCAB_LEVELS = [
   { lo: 300, hi: Infinity, label: '×300+' },
@@ -202,17 +161,20 @@ class VocabTrainer {
     return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
+  /** A theme's chip label: bn inline, other languages from the content dictionaries, else English. */
+  themeName(th) {
+    const n = th.names || {};
+    if (n[this.language]) return n[this.language];
+    return (n.en && typeof CI18N !== 'undefined' && CI18N.tr(this.language, n.en)) || n.en;
+  }
+
   meaningOf(word) {
     return word.meanings[this.language] || word.meanings.en;
   }
 
-  /** t() with local en/bn fallback for keys not yet in translations.js. */
+  /** t() with {placeholder} substitution. */
   tt(key, repl) {
     let s = t(key, this.language);
-    if (s === key) {
-      const fb = VOCAB_I18N_FALLBACK[key];
-      if (fb) s = fb[this.language] || fb.en || key;
-    }
     if (repl) {
       Object.keys(repl).forEach(k => { s = s.split('{' + k + '}').join(repl[k]); });
     }
@@ -1242,7 +1204,7 @@ class VocabTrainer {
     const themes = (typeof VOCAB_THEMES !== 'undefined') ? VOCAB_THEMES : [];
     const cats = [{ id: 'all', icon: '⭐', name: this.tt('vocab_all') }]
       .concat(favCount ? [{ id: 'fav', icon: '❤️', name: this.tt('vocab_favorites') }] : [])
-      .concat(themes.map(th => ({ id: th.id, icon: th.icon, name: th.names[lang] || th.names.en })));
+      .concat(themes.map(th => ({ id: th.id, icon: th.icon, name: this.themeName(th) })));
 
     return `
       ${this.renderWotd()}
@@ -1810,7 +1772,7 @@ class VocabTrainer {
     const knownSet = new Set(this.getKnown());
     const themes = (typeof VOCAB_THEMES !== 'undefined') ? VOCAB_THEMES : [];
     const groups = [{ icon: '⭐', name: this.tt('vocab_core_words'), words: VOCAB_WORDS }]
-      .concat(themes.map(th => ({ icon: th.icon, name: th.names[lang] || th.names.en, words: th.words })));
+      .concat(themes.map(th => ({ icon: th.icon, name: this.themeName(th), words: th.words })));
     const masteryRows = groups.map(g => {
       const gTotal = g.words.length;
       const gKnown = g.words.filter(w => knownSet.has(w.arabic)).length;

@@ -1245,6 +1245,8 @@
  "kids_in_quran": "クルアーンでの登場",
  "names_reflect_lead": "アッラーを次のように黙想する",
  "names_reflect_body": "この御名を知ることで、信仰を深め、今日の生き方をどう変えられるでしょうか。",
+ "names_hadith_heading": "ハディース",
+ "names_invoke_heading": "ドゥアー（祈願）",
  "names_search_quran": "クルアーンで探す",
  "names_learn_more": "詳しく見る",
  "names_in_quran": "クルアーンに登場",

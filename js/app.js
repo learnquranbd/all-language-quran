@@ -967,7 +967,7 @@ class QuranApp {
     const lesson = (typeof TAJWEED_LESSONS !== 'undefined') ? TAJWEED_LESSONS[ruleKey] : null;
     const color = rule ? rule.color : '#888';
     const name = (lesson && lesson.names && lesson.names[lang]) || (rule && rule.label) || ruleKey;
-    const desc = lesson ? (lesson[lang] || lesson.en) : t('tjd_' + ruleKey, lang);
+    const desc = lesson ? (lesson[lang] || (typeof CI18N !== 'undefined' && CI18N.tr(lang, lesson.en)) || lesson.en) : t('tjd_' + ruleKey, lang);
     const esch = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
     slot.dataset.rule = ruleKey;
     slot.innerHTML =

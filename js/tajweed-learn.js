@@ -506,7 +506,7 @@ class TajweedLearn {
           <div class="rounded-xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-4 ${z.key === 'lisan' ? 'lg:col-span-2' : ''}">
             <div class="flex items-center gap-2 mb-2">
               <span class="w-3 h-3 rounded-full shrink-0" style="background:${z.color}"></span>
-              <span class="font-semibold text-sm text-gray-800 dark:text-gray-100" dir="auto">${this.esc(z.names[lang] || z.names.en)}</span>
+              <span class="font-semibold text-sm text-gray-800 dark:text-gray-100" dir="auto">${this.esc(z.names[lang] || this.ci(z.names.en))}</span>
               <span class="ms-auto ayah-arabic !text-xl !leading-none" dir="rtl">${z.ar}</span>
               <span class="text-xs px-1.5 py-0.5 rounded-full shrink-0" style="background:${z.color}22;color:${z.color}">${z.points.length}</span>
             </div>
@@ -516,7 +516,7 @@ class TajweedLearn {
                   <span class="ayah-arabic !text-2xl !leading-normal shrink-0 px-2 rounded-md border" style="border-color:${z.color}55;color:${z.color}" dir="rtl">${p.letters}</span>
                   <div class="min-w-0">
                     ${p.pointName ? `<span class="block ayah-arabic !text-sm !leading-snug mb-0.5 font-medium" style="color:${z.color}" dir="rtl">${p.pointName}</span>` : ''}
-                    <span class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(p[lang] || p.en)}</span>
+                    <span class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(p[lang] || this.ci(p.en))}</span>
                   </div>
                 </div>`).join('')}
             </div>
@@ -546,11 +546,11 @@ class TajweedLearn {
               <span class="w-3 h-3 rounded-full shrink-0 mt-1.5" style="background:${r.color}"></span>
               <div class="flex-1 min-w-0">
                 <div class="flex items-center gap-2 flex-wrap">
-                  <span class="text-sm font-semibold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(r.names[lang] || r.names.en)}</span>
+                  <span class="text-sm font-semibold text-gray-800 dark:text-gray-100" dir="auto">${this.esc(r.names[lang] || this.ci(r.names.en))}</span>
                   <span class="text-[11px] text-gray-400">${this.tt('tj_ref_trigger', 'when followed by')}</span>
                   <span class="ayah-arabic !text-lg !leading-normal px-1.5 rounded" style="color:${r.color}" dir="rtl">${this.esc(r.trigger)}</span>
                 </div>
-                <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed mt-0.5" dir="auto">${this.esc(r[lang] || r.en)}</p>
+                <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed mt-0.5" dir="auto">${this.esc(r[lang] || this.ci(r.en))}</p>
               </div>
             </div>`).join('')}
         </div>

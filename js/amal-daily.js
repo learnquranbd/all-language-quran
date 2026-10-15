@@ -19,9 +19,7 @@ const AMAL_ITEMS = [
   { id: 'sajdah', refs: '32:1-30', surahs: [32], when: ['night'],
     src: 'Tirmidhi 3404', grade: 'sahih',
     en: 'The Prophet ﷺ would not sleep until he recited As-Sajdah and Al-Mulk.',
-    bn: 'নবী ﷺ সূরা সাজদাহ ও সূরা মুলক না পড়ে ঘুমাতেন না।',
-    zh: 'The Prophet ﷺ would not sleep until he recited As-Sajdah and Al-Mulk.',
-    ja: 'The Prophet ﷺ would not sleep until he recited As-Sajdah and Al-Mulk.'},
+    bn: 'নবী ﷺ সূরা সাজদাহ ও সূরা মুলক না পড়ে ঘুমাতেন না।'},
   { id: 'kursi', refs: '2:255', surahs: [2], when: ['night', 'any'],
     src: 'Bukhari 2311 · an-Nasa’i (after-salah, sahih)', grade: 'sahih',
     en: 'Ayat al-Kursi before sleep — a guardian from Allah remains with you and Shaytan cannot approach until morning. After every fard prayer, nothing stands between its reciter and Paradise except death.',
@@ -37,9 +35,7 @@ const AMAL_ITEMS = [
   { id: 'quls', refs: '112:1-4,113:1-5,114:1-6', surahs: [112, 113, 114], when: ['morning', 'evening', 'night'],
     src: 'Abu Dawud 5082 · Bukhari 5017', grade: 'sahih',
     en: 'The three Quls — three times morning and evening suffice you against everything; the Prophet ﷺ also recited them into his palms before sleep.',
-    bn: 'তিন কুল — সকাল-সন্ধ্যায় তিনবার সবকিছু থেকে যথেষ্ট; নবী ﷺ ঘুমানোর আগে হাতের তালুতে পড়ে শরীর মাসাহ করতেন।',
-    zh: 'The three Quls — three times morning and evening suffice you against everything; the Prophet ﷺ also recited them into his palms before sleep.',
-    ja: 'The three Quls — three times morning and evening suffice you against everything; the Prophet ﷺ also recited them into his palms before sleep.'},
+    bn: 'তিন কুল — সকাল-সন্ধ্যায় তিনবার সবকিছু থেকে যথেষ্ট; নবী ﷺ ঘুমানোর আগে হাতের তালুতে পড়ে শরীর মাসাহ করতেন।'},
   { id: 'kafirun', refs: '109:1-6', surahs: [109], when: ['night'],
     src: 'Abu Dawud 5055', grade: 'sahih',
     en: 'Recite Al-Kafirun before sleeping — it is a disavowal of shirk.',
@@ -61,9 +57,7 @@ const AMAL_ITEMS = [
   { id: 'friday-fajr', refs: '32:1-30,76:1-31', surahs: [32, 76], when: ['friday', 'morning'],
     src: 'Bukhari 891', grade: 'sahih',
     en: 'On Friday Fajr the Prophet ﷺ would recite As-Sajdah and Al-Insan.',
-    bn: 'জুমার ফজরে নবী ﷺ সূরা সাজদাহ ও সূরা ইনসান তিলাওয়াত করতেন।',
-    zh: 'On Friday Fajr the Prophet ﷺ would recite As-Sajdah and Al-Insan.',
-    ja: 'On Friday Fajr the Prophet ﷺ would recite As-Sajdah and Al-Insan.'},
+    bn: 'জুমার ফজরে নবী ﷺ সূরা সাজদাহ ও সূরা ইনসান তিলাওয়াত করতেন।'},
   { id: 'yasin', refs: '36:1-83', surahs: [36], when: ['morning'],
     src: '—', grade: 'common',
     en: 'Ya-Sin in the morning is a widespread practice; the specific narrations about it are weak, but reciting Quran any time is rewarded.',
@@ -77,9 +71,7 @@ const AMAL_ITEMS = [
   { id: 'rahman', refs: '55:1-78', surahs: [55], when: ['any'],
     src: '—', grade: 'common',
     en: 'Ar-Rahman — "the bride of the Quran" is a weak narration, but it is beloved to recite and ponder often.',
-    bn: 'সূরা আর-রাহমান — "কুরআনের দুলহান" বর্ণনাটি দুর্বল, তবে প্রায়ই তিলাওয়াত ও তাদাব্বুর করা উত্তম।',
-    zh: 'Ar-Rahman — "the bride of the Quran" is a weak narration, but it is beloved to recite and ponder often.',
-    ja: 'Ar-Rahman — "the bride of the Quran" is a weak narration, but it is beloved to recite and ponder often.'},
+    bn: 'সূরা আর-রাহমান — "কুরআনের দুলহান" বর্ণনাটি দুর্বল, তবে প্রায়ই তিলাওয়াত ও তাদাব্বুর করা উত্তম।'},
   { id: 'baqarah-house', refs: '2:1-286', surahs: [2], when: ['any'],
     src: 'Muslim 780', grade: 'sahih',
     en: 'Recite Al-Baqarah in your home — Shaytan flees the house in which it is read; do not turn your homes into graveyards.',
@@ -199,25 +191,19 @@ const MORNING_EVENING_ADHKAR = [
     tr: 'Allahu la ilaha illa Huwal-Hayyul-Qayyum…',
     src: 'an-Nasa’i · al-Hakim 1/562',
     en: 'Ayat al-Kursi (2:255) — once. Whoever recites it in the morning is guarded from the jinn until evening, and in the evening until morning.',
-    bn: 'আয়াতুল কুরসি (২:২৫৫) — একবার। যে সকালে পড়ে সন্ধ্যা পর্যন্ত এবং সন্ধ্যায় পড়লে সকাল পর্যন্ত জিন থেকে সুরক্ষিত থাকে।',
-    zh: 'Ayat al-Kursi (2:255) — once. Whoever recites it in the morning is guarded from the jinn until evening, and in the evening until morning.',
-    ja: 'Ayat al-Kursi (2:255) — once. Whoever recites it in the morning is guarded from the jinn until evening, and in the evening until morning.'},
+    bn: 'আয়াতুল কুরসি (২:২৫৫) — একবার। যে সকালে পড়ে সন্ধ্যা পর্যন্ত এবং সন্ধ্যায় পড়লে সকাল পর্যন্ত জিন থেকে সুরক্ষিত থাকে।'},
   { id: 'quls', count: 3,
     ar: 'قُلْ هُوَ اللَّهُ أَحَدٌ … قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ … قُلْ أَعُوذُ بِرَبِّ النَّاسِ',
     tr: 'Al-Ikhlas · Al-Falaq · An-Nas',
     src: 'Abu Dawud 5082 · Tirmidhi 3575',
     en: 'The three Quls (Ikhlas, Falaq, Nas) — three times each. They suffice you against all things, morning and evening.',
-    bn: 'তিন কুল (ইখলাস, ফালাক, নাস) — প্রতিটি তিনবার। সকাল-সন্ধ্যায় এগুলো সবকিছু থেকে যথেষ্ট।',
-    zh: 'The three Quls (Ikhlas, Falaq, Nas) — three times each. They suffice you against all things, morning and evening.',
-    ja: 'The three Quls (Ikhlas, Falaq, Nas) — three times each. They suffice you against all things, morning and evening.'},
+    bn: 'তিন কুল (ইখলাস, ফালাক, নাস) — প্রতিটি তিনবার। সকাল-সন্ধ্যায় এগুলো সবকিছু থেকে যথেষ্ট।'},
   { id: 'sayyidul-istighfar', count: 1,
     ar: 'اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ',
     tr: 'Allahumma anta Rabbi la ilaha illa anta…',
     src: 'Bukhari 6306',
     en: 'Sayyidul-Istighfar (the master of seeking forgiveness) — once. Whoever says it with certainty and dies that day or night is among the people of Paradise.',
-    bn: 'সাইয়িদুল ইস্তিগফার (ক্ষমা প্রার্থনার শ্রেষ্ঠ দোয়া) — একবার। যে দৃঢ় বিশ্বাসে পড়ে সেই দিন বা রাতে মারা যায়, সে জান্নাতি।',
-    zh: 'Sayyidul-Istighfar (the master of seeking forgiveness) — once. Whoever says it with certainty and dies that day or night is among the people of Paradise.',
-    ja: 'Sayyidul-Istighfar (the master of seeking forgiveness) — once. Whoever says it with certainty and dies that day or night is among the people of Paradise.'},
+    bn: 'সাইয়িদুল ইস্তিগফার (ক্ষমা প্রার্থনার শ্রেষ্ঠ দোয়া) — একবার। যে দৃঢ় বিশ্বাসে পড়ে সেই দিন বা রাতে মারা যায়, সে জান্নাতি।'},
   { id: 'tasbih100', count: 100,
     ar: 'سُبْحَانَ اللَّهِ وَبِحَمْدِهِ',
     tr: 'SubhanAllahi wa bihamdih',
@@ -255,17 +241,13 @@ const MORNING_EVENING_ADHKAR = [
     tr: 'Raditu billahi Rabban, wa bil-Islami dinan, wa bi-Muhammadin ﷺ nabiyya',
     src: 'Abu Dawud 5072 · Tirmidhi 3389',
     en: '“I am pleased with Allah as Lord, Islam as religion, and Muhammad ﷺ as Prophet” — three times; Allah takes it upon Himself to please him on the Day of Resurrection.',
-    bn: '“রাযিতু বিল্লাহি রাব্বান, ওয়া বিল-ইসলামি দীনান, ওয়া বিমুহাম্মাদিন ﷺ নাবিয়্যা” — তিনবার; আল্লাহ কিয়ামতের দিন তাকে সন্তুষ্ট করার দায়িত্ব নেন।',
-    zh: '“I am pleased with Allah as Lord, Islam as religion, and Muhammad ﷺ as Prophet” — three times; Allah takes it upon Himself to please him on the Day of Resurrection.',
-    ja: '“I am pleased with Allah as Lord, Islam as religion, and Muhammad ﷺ as Prophet” — three times; Allah takes it upon Himself to please him on the Day of Resurrection.'},
+    bn: '“রাযিতু বিল্লাহি রাব্বান, ওয়া বিল-ইসলামি দীনান, ওয়া বিমুহাম্মাদিন ﷺ নাবিয়্যা” — তিনবার; আল্লাহ কিয়ামতের দিন তাকে সন্তুষ্ট করার দায়িত্ব নেন।'},
   { id: 'salawat', count: 10,
     ar: 'اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَىٰ نَبِيِّنَا مُحَمَّدٍ',
     tr: 'Allahumma salli wa sallim ‘ala nabiyyina Muhammad',
     src: 'Tabarani (hasan)',
     en: 'Send blessings upon the Prophet ﷺ — ten times morning and evening; whoever does so attains his intercession on the Day of Resurrection.',
-    bn: 'নবী ﷺ-এর উপর দরূদ পাঠ করুন — সকাল-সন্ধ্যায় দশবার; যে তা করে কিয়ামতের দিন তার শাফাআত লাভ করে।',
-    zh: 'Send blessings upon the Prophet ﷺ — ten times morning and evening; whoever does so attains his intercession on the Day of Resurrection.',
-    ja: 'Send blessings upon the Prophet ﷺ — ten times morning and evening; whoever does so attains his intercession on the Day of Resurrection.'},
+    bn: 'নবী ﷺ-এর উপর দরূদ পাঠ করুন — সকাল-সন্ধ্যায় দশবার; যে তা করে কিয়ামতের দিন তার শাফাআত লাভ করে।'},
 ];
 
 /** After-salah tasbih: SubhanAllah 33 · Alhamdulillah 33 · Allahu Akbar 34 = 100. Source: Muslim 596. */
@@ -274,31 +256,6 @@ const AFTER_SALAH = [
   { id: 'alhamdulillah', target: 33, ar: 'الْحَمْدُ لِلَّهِ', tr: 'Alhamdulillah', en: 'All praise is for Allah', bn: 'সমস্ত প্রশংসা আল্লাহর', zh: '一切赞颂全归真主', ja: '全ての称賛はアッラーに' },
   { id: 'allahuakbar', target: 34, ar: 'اللَّهُ أَكْبَرُ', tr: 'Allahu Akbar', en: 'Allah is the Greatest', bn: 'আল্লাহ সর্বশ্রেষ্ঠ', zh: '真主至大', ja: 'アッラーは最も偉大である' },
 ];
-
-/**
- * Local bilingual UI strings for the new enrichment widgets. Kept inline (like
- * AMAL_ITEMS) so nothing breaks before these keys are promoted into
- * js/translations.js. tt() reads here first, then falls back to t().
- */
-const AMAL_STR = {
-  amal_streak_title: { en: 'Consistency', bn: 'ধারাবাহিকতা', zh: '持之以恒', ja: '一貫性' },
-  amal_streak_days: { en: 'day streak', bn: 'দিনের ধারা', zh: '连续天数', ja: '連続日数' },
-  amal_streak_none: { en: 'Finish today’s adhkar to start a streak', bn: 'ধারা শুরু করতে আজকের আযকার সম্পন্ন করুন', zh: '完成今天的祈祷以开始连续记录', ja: '今日のアズカールを完了して連続記録を開始' },
-  amal_completed_today: { en: 'Completed today', bn: 'আজ সম্পন্ন', zh: '今日已完成', ja: '本日完了' },
-  amal_next: { en: 'Next', bn: 'পরবর্তী', zh: '下一个', ja: '次へ' },
-  amal_adhkar_title: { en: 'Morning & Evening Adhkar', bn: 'সকাল-সন্ধ্যার আযকার', zh: '朝夕的赞词', ja: '朝晩のアズカール' },
-  amal_adhkar_sub: { en: 'Tap each dhikr to count. Progress resets daily.', bn: 'প্রতিটি যিকিরে ট্যাপ করে গণনা করুন। প্রতিদিন রিসেট হয়।', zh: '点击每个赞词计数。进度每天重置。', ja: '各ズィクルをタップしてカウント。進捗は毎日リセット。' },
-  amal_reset: { en: 'Reset', bn: 'রিসেট', zh: '重置', ja: 'リセット' },
-  amal_reset_all: { en: 'Reset all', bn: 'সব রিসেট', zh: '全部重置', ja: 'すべてリセット' },
-  amal_salah_title: { en: 'After-Salah Tasbih', bn: 'নামাজ শেষের তাসবিহ', zh: '礼拜后的赞词', ja: '礼拝後のタスビーフ' },
-  amal_salah_sub: { en: 'Recite after every obligatory prayer — tap the circle for each count.', bn: 'প্রতি ফরজ নামাজের পর পড়ুন — প্রতিটি গণনায় বৃত্তে ট্যাপ করুন।', zh: '每番主命拜后诵读——每次数点击圆圈。', ja: '毎回の義務的な礼拝後に唱える——カウントごとに円をタップ。' },
-  amal_salah_done: { en: '100 complete — Māshā’Allāh', bn: '১০০ সম্পন্ন — মাশাআল্লাহ', zh: '100遍完成——真主意欲', ja: '100回完了——マーシャアッラー' },
-  amal_when_weekly: { en: 'Weekly', bn: 'সাপ্তাহিক', zh: '每周', ja: '毎週' },
-  amal_when_monthly: { en: 'Monthly', bn: 'মাসিক', zh: '每月', ja: '毎月' },
-  amal_when_seasonal: { en: 'Seasonal', bn: 'মৌসুমি', zh: '季节性', ja: '季節' },
-  amal_grade_hasan: { en: 'Hasan', bn: 'হাসান', zh: '良好圣训', ja: 'ハサン' },
-  amal_salah_kursi_note: { en: 'Then recite Ayat al-Kursi once — whoever recites it after every prayer, nothing but death keeps him from Paradise.', bn: 'এরপর একবার আয়াতুল কুরসি পড়ুন — যে প্রতি নামাজের পর তা পড়ে, মৃত্যু ছাড়া কিছুই তাকে জান্নাতে যেতে বাধা দেয় না।', zh: '然后诵读一次阿耶提库尔西——每番拜后诵读的人，只有死亡能阻止他进入天堂。', ja: 'それからアーヤトゥル＝クルシーを一度唱える——毎礼拝後に唱える者には、死以外に楽園を妨げるものはない。' },
-};
 
 class AmalDaily {
   constructor() {
@@ -345,12 +302,13 @@ class AmalDaily {
     window.addEventListener('tabChanged', (e) => { if (e.detail.tabId !== 'amal') this.stopAudio(); });
   }
 
-  tt(key) {
-    const local = AMAL_STR[key];
-    if (local) return local[this.language] || local.en;
-    return t(key, this.language);
+  tt(key) { return t(key, this.language); }
+  /** Localize an entry: inline bn/zh/ja, else the content dictionaries (CI18N), else English.
+   *  Only those three are read inline: id, ar and tr on these records are the slug, the Arabic and a transliteration. */
+  desc(item) {
+    if (['bn', 'zh', 'ja'].includes(this.language) && item[this.language]) return item[this.language];
+    return (typeof CI18N !== 'undefined' && CI18N.tr(this.language, item.en)) || item.en;
   }
-  desc(item) { return item[this.language] || item.en; }
 
   /** Link a hadith citation to sunnah.com so users can verify the source. */
   srcHtml(src) {
@@ -563,7 +521,7 @@ class AmalDaily {
   adhkarRow(a) {
     const tally = this._adhkar.done[a.id] || 0;
     const done = tally >= a.count;
-    const desc = a[this.language] || a.en;
+    const desc = this.desc(a);
     return `
       <div data-adhkar-tap="${a.id}" role="button" tabindex="0" aria-label="${this.esc(a.tr)}"
         class="cursor-pointer select-none rounded-xl border p-3 flex flex-col gap-1.5 transition
@@ -622,7 +580,7 @@ class AmalDaily {
           class="w-44 h-44 rounded-full flex flex-col items-center justify-center text-center text-white shadow-lg transition active:scale-95
             ${complete ? 'bg-green-500' : 'bg-primary hover:bg-primary/90'}">
           <span class="ayah-arabic !text-3xl !text-white" dir="rtl">${this.esc(cur.ar)}</span>
-          <span class="text-xs opacity-90 mt-1" dir="auto">${this.esc(cur[this.language] || cur.en)}</span>
+          <span class="text-xs opacity-90 mt-1" dir="auto">${this.esc(this.desc(cur))}</span>
           <span class="text-2xl font-bold mt-1">${complete ? '✓' : n + ' / ' + cur.target}</span>
         </button>
         <div class="w-full max-w-xs h-2 rounded-full bg-gray-200 dark:bg-gray-700 overflow-hidden">

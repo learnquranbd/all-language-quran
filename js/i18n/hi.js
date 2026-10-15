@@ -1245,6 +1245,8 @@
  "kids_in_quran": "क़ुरआन में",
  "names_reflect_lead": "अल्लाह पर ग़ौर करें —",
  "names_reflect_body": "यह नाम जानने से आपका ईमान कैसे गहरा हो सकता है और आज आपका जीवन कैसे बदल सकता है?",
+ "names_hadith_heading": "हदीस",
+ "names_invoke_heading": "दुआ",
  "names_search_quran": "क़ुरआन में खोजें",
  "names_learn_more": "और जानें",
  "names_in_quran": "क़ुरआन में आता है",

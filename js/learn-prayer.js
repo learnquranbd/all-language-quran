@@ -44,15 +44,7 @@ class SalahModule {
     try { localStorage.setItem('salahQuizBest', String(this.quizBest)); } catch (_) { }
   }
 
-  tt(key) {
-    try {
-      const v = t(key, this.language);
-      if (v && v !== key) return v;
-    } catch (_) { }
-    const e = SALAH_I18N_FALLBACK[key];
-    if (e) return e[this.language] || e.en || key;
-    return key;
-  }
+  tt(key) { return t(key, this.language); }
 
   lc(o) {
     if (!o) return '';

@@ -1245,6 +1245,8 @@
  "kids_in_quran": "در قرآن",
  "names_reflect_lead": "تأمل در خداوند به عنوان",
  "names_reflect_body": "دانستن این نام چگونه می‌تواند ایمانت را عمیق‌تر کند و بر زندگی امروزت اثر بگذارد؟",
+ "names_hadith_heading": "حدیث",
+ "names_invoke_heading": "دعا",
  "names_search_quran": "یافتن در قرآن",
  "names_learn_more": "بیشتر بدانید",
  "names_in_quran": "در قرآن آمده است",

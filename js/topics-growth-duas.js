@@ -17,7 +17,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'Rabbi zidni ilma — Rabbim, ilmimi artır',
       fr: 'Rabbi zidni ilma — Mon Seigneur, augmente-moi en savoir',
       zh: '我的主啊，增加我的知识',
-      ja: 'ラッビー・ズィドニー・イルマー — 主よ、私の知識を増やしてください'
+      ja: 'ラッビー・ズィドニー・イルマー — 主よ、私の知識を増やしてください', hi: 'रब्बि ज़िदनी इल्मा — मेरे रब, मेरा इल्म बढ़ा दे', es: 'Rabbi zidni ilma — Señor mío, auméntame en conocimiento', ru: 'Рабби зидни ильма — Господи, приумножь мои знания', de: 'Rabbi zidni ilma – Mein Herr, lass mich an Wissen zunehmen', fa: '«ربّ زدنی علماً» — پروردگارا، بر دانشم بیفزا', ms: 'Rabbi zidni ilma — Wahai Tuhanku, tambahkanlah ilmuku'
     }
   },
   {
@@ -31,7 +31,7 @@ const KNOWLEDGE_DUAS = [
       tr: "Musa'nın duası: göğsümü genişlet, işimi kolaylaştır ve dilimin bağını çöz",
       fr: "Du'a de Mūsā: dilate ma poitrine, facilite ma tâche, dénoue le nœud de ma langue",
       zh: '穆萨的祈祷：扩展我的胸怀，简化我的事务，解开我舌头上的束缚',
-      ja: 'ムーサーの祈り：胸を広げ、仕事を楽にし、舌の縛りを解いてください'
+      ja: 'ムーサーの祈り：胸を広げ、仕事を楽にし、舌の縛りを解いてください', hi: 'मूसा (अलैहिस्सलाम) की दुआ: मेरा सीना खोल दे, मेरा काम आसान कर दे और मेरी ज़बान की गिरह खोल दे', es: 'La súplica de Moisés: ensancha mi pecho, facilita mi tarea y desata mi lengua', ru: 'Мольба Мусы: раскрой мне грудь, облегчи мою задачу и развяжи мой язык', de: 'Musas Bittgebet: Weite mir meine Brust, erleichtere mir meine Aufgabe und löse meine Zunge', fa: 'دعای موسی: سینه‌ام را گشاده کن، کارم را آسان کن و گره از زبانم بگشا', ms: 'Doa Musa a.s.: lapangkanlah dadaku, mudahkanlah urusanku dan lepaskanlah kekeluan lidahku'
     }
   },
   {
@@ -45,7 +45,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'Meleklerin beyanı: bize öğrettiklerinden başka bilgimiz yoktur',
       fr: "Les anges déclarent: nous n'avons de savoir que ce que Tu nous as enseigné",
       zh: '天使们宣告：除了您所教给我们的，我们没有任何知识',
-      ja: '天使たちの宣言：あなたが教えてくださったこと以外に知識はありません'
+      ja: '天使たちの宣言：あなたが教えてくださったこと以外に知識はありません', hi: 'फ़रिश्तों का इक़रार: हमें कोई इल्म नहीं सिवाय उसके जो तूने हमें सिखाया', es: 'Los ángeles declaran: no tenemos más conocimiento que el que Tú nos has enseñado', ru: 'Ангелы признают: у нас нет знаний, кроме тех, которым Ты нас научил', de: 'Die Engel bekennen: Wir haben kein Wissen außer dem, was Du uns gelehrt hast', fa: 'اقرار فرشتگان: ما را دانشی نیست جز آنچه به ما آموخته‌ای', ms: 'Pengakuan para malaikat: tiada ilmu bagi kami melainkan apa yang Engkau ajarkan kepada kami'
     }
   },
   {
@@ -59,7 +59,7 @@ const KNOWLEDGE_DUAS = [
       tr: "İbrahim'in duası: onlara kitabı ve hikmeti öğretecek bir elçi gönder",
       fr: "Du'a d'Ibrāhīm: envoie parmi notre descendance un Messager pour enseigner le Livre et la sagesse",
       zh: '易卜拉欣的祈祷：向我们的后代派遣一位使者，传授经典和智慧',
-      ja: 'イブラーヒームの祈り：子孫に使者を遣わして、聖典と知恵を教えてください'
+      ja: 'イブラーヒームの祈り：子孫に使者を遣わして、聖典と知恵を教えてください', hi: 'इब्राहीम (अलैहिस्सलाम): हमारी नस्ल में एक रसूल भेज जो उन्हें किताब और हिकमत सिखाए', es: 'Abraham: envía un Mensajero que enseñe a nuestros descendientes el Libro y la sabiduría', ru: 'Ибрахим: пошли Посланника, который научит наших потомков Писанию и мудрости', de: 'Ibrahim: Schicke einen Gesandten, der unsere Nachkommen das Buch und die Weisheit lehrt', fa: 'ابراهیم: رسولی بفرست تا به فرزندانمان کتاب و حکمت بیاموزد', ms: 'Ibrahim a.s.: utuslah seorang Rasul untuk mengajarkan Kitab dan hikmah kepada keturunan kami'
     }
   },
   {
@@ -73,7 +73,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'Rabbimiz, bize hidayet verdikten sonra kalplerimizi saptırma',
       fr: 'Notre Seigneur, ne laisse pas nos cœurs se détourner après que Tu nous as guidés',
       zh: '我们的主啊，在您引导我们之后，不要让我们的心偏斜',
-      ja: '私たちの主よ、あなたが私たちを導いた後に、心を迷わせないでください'
+      ja: '私たちの主よ、あなたが私たちを導いた後に、心を迷わせないでください', hi: 'ऐ हमारे रब, हमें हिदायत देने के बाद हमारे दिलों को टेढ़ा न कर', es: 'Señor nuestro, no desvíes nuestros corazones después de habernos guiado', ru: 'Господь наш, не уклоняй наши сердца после того, как Ты наставил нас', de: 'Unser Herr, lass unsere Herzen nicht abschweifen, nachdem Du uns rechtgeleitet hast', fa: 'پروردگارا، پس از آنکه ما را هدایت کردی دل‌هایمان را منحرف مگردان', ms: 'Wahai Tuhan kami, janganlah Engkau pesongkan hati kami sesudah Engkau memberi petunjuk kepada kami'
     }
   },
   {
@@ -87,7 +87,7 @@ const KNOWLEDGE_DUAS = [
       tr: "Derin düşünce sahipleri: yaratılışı tefekkür eder ve Allah'tan rahmet diler",
       fr: "Les gens doués d'intelligence: méditent sur la création et implorent la miséricorde d'Allah",
       zh: '有理智的人：思考创造，恳求真主的仁慈',
-      ja: '理智ある人たち：創造を深く考え、アッラーの慈悲を懇願する'
+      ja: '理智ある人たち：創造を深く考え、アッラーの慈悲を懇願する', hi: 'अक़्ल वाले: तख़लीक़ पर ग़ौर करते हैं और अल्लाह से रहमत की फ़रियाद करते हैं', es: 'Los dotados de entendimiento: reflexionan sobre la creación e imploran la misericordia de Allah', ru: 'Обладающие разумом размышляют о творении и молят Аллаха о милости', de: 'Die Verständigen: Sie sinnen über die Schöpfung nach und flehen um Allahs Barmherzigkeit', fa: 'خردمندان: در آفرینش می‌اندیشند و رحمت الله را می‌طلبند', ms: 'Ulul albab: merenungi ciptaan dan memohon rahmat Allah'
     }
   },
   {
@@ -101,7 +101,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'Yusuf: yorumladığım şeyler Rabbimin bana öğrettiklerindendir',
       fr: "Yūsuf: ce que j'interprète m'a été enseigné par mon Seigneur",
       zh: '优素福：我所解释的是我的主教给我的',
-      ja: 'ユースフ：私が解釈することは、主が私に教えてくださったことです'
+      ja: 'ユースフ：私が解釈することは、主が私に教えてくださったことです', hi: 'यूसुफ़ (अलैहिस्सलाम): जो ताबीर मैं बताता हूँ, वह मेरे रब ने मुझे सिखाई है', es: 'José: lo que interpreto me lo ha enseñado mi Señor', ru: 'Юсуф: толкованию снов меня научил мой Господь', de: 'Yusuf: Was ich deute, hat mich mein Herr gelehrt', fa: 'یوسف: آنچه تعبیر می‌کنم از چیزهایی است که پروردگارم به من آموخته است', ms: 'Yusuf a.s.: takwil yang aku ketahui ini adalah apa yang diajarkan oleh Tuhanku kepadaku'
     }
   },
   {
@@ -115,7 +115,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'Musa ve Hızır: sana öğretilenden bana da öğretmen için seni takip edebilir miyim?',
       fr: "Mūsā avec Khiḍr: puis-je te suivre pour que tu m'apprennes la juste conduite qui t'a été enseignée?",
       zh: '穆萨与赫德尔：我可以跟随您，以便学习您所传授的正确行为吗？',
-      ja: 'ムーサーとヒドル：あなたに教えられた正しい行いを学ぶために従ってもよいですか'
+      ja: 'ムーサーとヒドル：あなたに教えられた正しい行いを学ぶために従ってもよいですか', hi: 'मूसा (अलैहिस्सलाम) ख़िज़्र के साथ: क्या मैं आपके साथ रहूँ ताकि आप मुझे वह सही राह सिखाएँ जो आपको सिखाई गई?', es: 'Moisés con al-Jidr: ¿puedo seguirte para que me enseñes la buena dirección que se te ha enseñado?', ru: 'Муса и аль-Хидр: могу ли я последовать за тобой, чтобы ты научил меня правильному, чему был научен?', de: 'Musa bei al-Chidr: Darf ich dir folgen, damit du mich das rechte Verhalten lehrst, das du gelehrt worden bist?', fa: 'موسی با خضر: آیا از تو پیروی کنم تا از آنچه آموخته‌ای راه درست را به من بیاموزی؟', ms: 'Musa a.s. bersama Khidir: bolehkah aku mengikutimu supaya engkau mengajarku petunjuk yang telah diajarkan kepadamu?'
     }
   },
   {
@@ -129,7 +129,7 @@ const KNOWLEDGE_DUAS = [
       tr: "Davud ve Süleyman: bizi pek çok mümin kulundan üstün kılan Allah'a hamd olsun",
       fr: 'Dāwūd et Sulaymān: louange à Allah qui nous a accordé un savoir surpassant beaucoup de Ses serviteurs',
       zh: '达乌德和苏莱曼：赞美真主，祂赐予我们超越许多信士的知识',
-      ja: 'ダーウードとスライマーン：多くの信者を上回る知識を授けてくれたアッラーへの賛美'
+      ja: 'ダーウードとスライマーン：多くの信者を上回る知識を授けてくれたアッラーへの賛美', hi: 'दाऊद और सुलैमान (अलैहिमस्सलाम): तारीफ़ अल्लाह की जिसने हमें बहुत-से मोमिनों से बढ़कर इल्म दिया', es: 'David y Salomón: alabado sea Allah, que nos ha favorecido con conocimiento por encima de muchos creyentes', ru: 'Давуд и Сулейман: хвала Аллаху, Который дал нам знание выше многих верующих', de: 'Dawud und Sulaiman: Lob sei Allah, Der uns vor vielen Gläubigen mit Wissen bevorzugt hat', fa: 'داوود و سلیمان: ستایش الله را که ما را در دانش بر بسیاری از مؤمنان برتری داد', ms: 'Daud dan Sulaiman a.s.: segala puji bagi Allah yang melebihkan kami dengan ilmu atas kebanyakan hamba-Nya yang beriman'
     }
   },
   {
@@ -143,7 +143,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'Kitaptan ilmi olan kişi: ilahi bilginin bir tezahürü',
       fr: 'Celui qui avait la science du Livre: manifestation de la connaissance divine',
       zh: '拥有经典知识的人：神圣知识的展示',
-      ja: '聖典の知識を持つ者：神の知識の証明'
+      ja: '聖典の知識を持つ者：神の知識の証明', hi: 'किताब का इल्म रखने वाला: अल्लाह के दिए हुए इल्म का एक नज़ारा', es: 'El que tenía conocimiento del Libro: una muestra del conocimiento divino', ru: 'Обладавший знанием из Писания: проявление божественного знания', de: 'Einer, der Wissen von der Schrift hatte: ein Zeichen göttlichen Wissens', fa: 'آن‌که دانشی از کتاب داشت: جلوه‌ای از دانش الهی', ms: 'Orang yang mempunyai ilmu daripada Kitab: bukti ilmu daripada Allah'
     }
   },
   {
@@ -157,7 +157,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'Musa olgunluğa erişince: Allah ona hikmet ve ilim verdi',
       fr: 'Mūsā à sa maturité: Allah lui accorda le jugement et la connaissance',
       zh: '穆萨成熟时：真主赐予他智慧和知识',
-      ja: 'ムーサーが成熟したとき：アッラーが判断力と知識を授けた'
+      ja: 'ムーサーが成熟したとき：アッラーが判断力と知識を授けた', hi: 'जवानी को पहुँचे मूसा (अलैहिस्सलाम): अल्लाह ने उन्हें हिकमत और इल्म दिया', es: 'Moisés en su madurez: Allah le concedió juicio y conocimiento', ru: 'Муса в зрелости: Аллах даровал ему мудрость и знание', de: 'Musa in seiner Vollkraft: Allah schenkte ihm Urteilskraft und Wissen', fa: 'موسی در رسیدن به کمال: الله به او حکمت و دانش بخشید', ms: 'Musa a.s. ketika dewasa: Allah mengurniakan kepadanya hikmah dan ilmu'
     }
   },
   {
@@ -171,7 +171,7 @@ const KNOWLEDGE_DUAS = [
       tr: "Rabbi awzi'ni: şükredip razı olduğun salih ameli işlememi nasip eyle",
       fr: "Rabbi awzi'nī: permets-moi d'être reconnaissant et d'accomplir les bonnes œuvres qui T'agréent",
       zh: '主啊，使我能够感激您并做您喜悦的善事',
-      ja: 'ラッビー・アウジィーニー：感謝し、あなたの喜ぶ善行をする力を与えてください'
+      ja: 'ラッビー・アウジィーニー：感謝し、あなたの喜ぶ善行をする力を与えてください', hi: 'रब्बि औज़िअनी: मुझे शुक्र करने और ऐसे नेक अमल करने की तौफ़ीक़ दे जो तुझे पसंद हों', es: 'Rabbi awzi\'ni: concédeme ser agradecido y obrar el bien que Tú apruebas', ru: 'Рабби аузи\'ни: дай мне быть благодарным и совершать праведное, которым Ты доволен', de: 'Rabbi auzi\'ni: Lass mich dankbar sein und rechtschaffen handeln, wie es Dir gefällt', fa: '«ربّ اوزعنی»: مرا توفیق ده تا سپاس گزارم و کار شایسته‌ای کنم که می‌پسندی', ms: 'Rabbi awzi\'ni: ilhamkanlah aku untuk bersyukur dan beramal soleh yang Engkau redai'
     }
   },
   {
@@ -185,7 +185,7 @@ const KNOWLEDGE_DUAS = [
       tr: "Ar-Rahman: Kuran'ı öğretti, insanı yarattı, ona beyanı öğretti",
       fr: "Ar-Raḥmān: a enseigné le Coran, créé l'homme, lui a appris l'éloquence",
       zh: '至仁主：传授了《古兰经》，创造了人，教给了他表达能力',
-      ja: 'アッラフマーン：クルアーンを教え、人間を創り、雄弁さを教えた'
+      ja: 'アッラフマーン：クルアーンを教え、人間を創り、雄弁さを教えた', hi: 'अर-रहमान: क़ुरआन सिखाया, इंसान को पैदा किया, उसे बोलना सिखाया', es: 'Ar-Raḥmān: enseñó el Corán, creó al ser humano y le enseñó a expresarse con claridad', ru: 'Ар-Рахман: научил Корану, сотворил человека, научил его ясной речи', de: 'Ar-Rahman: Er lehrte den Koran, erschuf den Menschen und lehrte ihn die deutliche Rede', fa: 'الرحمن: قرآن را آموخت، انسان را آفرید، به او سخن روشن آموخت', ms: 'Ar-Rahman: mengajarkan al-Quran, menciptakan manusia, mengajarnya pandai berkata-kata'
     }
   },
   {
@@ -199,7 +199,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'Mağara Arkadaşları: Rabbimiz, katından bize rahmet ver ve işimizde bize doğruyu kolaylaştır',
       fr: 'Les Compagnons de la Caverne: Notre Seigneur, accorde-nous une miséricorde de Toi et dispose pour nous une juste conduite',
       zh: '洞穴的同伴们：我们的主啊，赐予我们您的仁慈，并在我们的事务中给予我们正确的引导',
-      ja: '洞窟の仲間たち：私たちの主よ、あなたから慈悲を与え、私たちの事に正しい導きを与えてください'
+      ja: '洞窟の仲間たち：私たちの主よ、あなたから慈悲を与え、私たちの事に正しい導きを与えてください', hi: 'असहाब-ए-कहफ़: ऐ हमारे रब, हमें अपनी रहमत दे और हमारे मामले में सही राह मुहैया कर', es: 'Los compañeros de la Cueva: Señor nuestro, concédenos misericordia y buena dirección en nuestro asunto', ru: 'Обитатели пещеры: Господь наш, даруй нам милость и верное руководство в нашем деле', de: 'Die Leute der Höhle: Unser Herr, gewähre uns Barmherzigkeit und Besonnenheit in unserer Angelegenheit', fa: 'اصحاب کهف: پروردگارا، به ما رحمت ببخش و کارمان را به راه درست ببر', ms: 'Ashabul Kahfi: Wahai Tuhan kami, kurniakanlah kami rahmat dan petunjuk yang lurus dalam urusan kami'
     }
   },
   {
@@ -213,7 +213,7 @@ const KNOWLEDGE_DUAS = [
       tr: "Yusuf'un son duası: bana hükümdarlık verdin ve rüya tabirini öğrettin",
       fr: "La supplication finale de Yūsuf: Tu m'as donné du royaume et m'as appris l'interprétation des songes",
       zh: '优素福的最终祈祷：您赐给我王权并教给我梦的解释',
-      ja: 'ユースフの最後の祈り：あなたは王国を与え、夢の解釈を教えてくださいました'
+      ja: 'ユースフの最後の祈り：あなたは王国を与え、夢の解釈を教えてくださいました', hi: 'यूसुफ़ (अलैहिस्सलाम) की आख़िरी दुआ: तूने मुझे हुकूमत दी और ख़्वाबों की ताबीर सिखाई', es: 'La última súplica de José: me diste poder y me enseñaste a interpretar los sueños', ru: 'Последняя мольба Юсуфа: Ты даровал мне власть и научил толкованию снов', de: 'Yusufs letztes Bittgebet: Du hast mir Herrschaft gegeben und mich die Deutung der Träume gelehrt', fa: 'دعای پایانی یوسف: به من فرمانروایی دادی و تعبیر خواب‌ها را آموختی', ms: 'Doa terakhir Yusuf a.s.: Engkau telah mengurniakan kerajaan kepadaku dan mengajarkan takwil mimpi'
     }
   },
   {
@@ -227,7 +227,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'İkra: kalemle öğretti ve insana bilmediğini öğretti',
       fr: "Iqraʾ — Lis: Allah a enseigné par le calame et a appris à l'homme ce qu'il ne savait pas",
       zh: '伊克拉——宣读：真主用笔传授知识，教导人类他所不知道的',
-      ja: 'イクラー：ペンで教え、知らなかったことを人間に教えた'
+      ja: 'イクラー：ペンで教え、知らなかったことを人間に教えた', hi: 'इक़रा — पढ़: अल्लाह ने क़लम से सिखाया और इंसान को वह सिखाया जो वह नहीं जानता था', es: 'Iqraʾ — Lee: Allah enseñó por medio del cálamo y enseñó al ser humano lo que no sabía', ru: 'Икра — Читай: Аллах научил посредством калама, научил человека тому, чего он не знал', de: 'Iqra\' – Lies: Allah lehrte durch das Schreibrohr und lehrte den Menschen, was er nicht wusste', fa: '«اقرأ» — بخوان: الله با قلم آموخت و به انسان آنچه نمی‌دانست آموخت', ms: 'Iqra\' — Bacalah: Allah mengajar dengan pena dan mengajar manusia apa yang tidak diketahuinya'
     }
   },
   {
@@ -241,7 +241,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'İhdinas-sıratal-müstakim — bizi nimet verdiklerinin dosdoğru yoluna ilet',
       fr: "Ihdinaṣ-ṣirāṭ al-mustaqīm — guide-nous vers la voie droite de ceux que Tu as comblés",
       zh: '求您引导我们上正路，即您所施恩者的道路',
-      ja: 'イフディナッ・スィラータル・ムスタキーム：あなたが恵まれた人々のまっすぐな道へ導いてください'
+      ja: 'イフディナッ・スィラータル・ムスタキーム：あなたが恵まれた人々のまっすぐな道へ導いてください', hi: 'इह्दिनस-सिरातल-मुस्तक़ीम — हमें उन लोगों के सीधे रास्ते पर चला जिन पर तूने इनाम किया', es: 'Ihdinaṣ-ṣirāṭ al-mustaqīm — guíanos por el camino recto de aquellos a quienes has favorecido', ru: 'Ихдина-с-сырат аль-мустакым — веди нас прямым путём тех, кого Ты облагодетельствовал', de: 'Ihdinaṣ-ṣirāṭ al-mustaqīm – leite uns den geraden Weg derer, denen Du Gunst erwiesen hast', fa: '«اهدنا الصراط المستقیم» — ما را به راه راستِ کسانی که به آنان نعمت دادی هدایت کن', ms: 'Ihdinas-siratal mustaqim — tunjukilah kami jalan yang lurus, jalan orang-orang yang Engkau kurniakan nikmat'
     }
   },
   {
@@ -255,7 +255,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'Allah, inananları ve kendilerine ilim verilenleri derecelerle yükseltir',
       fr: "Allah élève en degrés ceux qui croient et ceux à qui le savoir a été donné",
       zh: '真主提升你们中信道者和有知识者的品级',
-      ja: 'アッラーは、信仰する者と知識を授けられた者を位階で高められる'
+      ja: 'アッラーは、信仰する者と知識を授けられた者を位階で高められる', hi: 'अल्लाह ईमान वालों और इल्म दिए गए लोगों के दर्जे बुलंद करता है', es: 'Allah eleva en grados a quienes creen y a quienes han recibido el conocimiento', ru: 'Аллах возвышает по степеням уверовавших и тех, кому даровано знание', de: 'Allah erhöht diejenigen von euch, die glauben, und denen Wissen gegeben wurde, um Rangstufen', fa: 'الله کسانی را که ایمان آورده‌اند و کسانی را که دانش یافته‌اند درجاتی بالا می‌برد', ms: 'Allah meninggikan darjat orang-orang yang beriman dan orang-orang yang diberi ilmu'
     }
   },
   {
@@ -269,7 +269,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'Hikmeti dilediğine verir — kime hikmet verilmişse ona çok hayır verilmiştir',
       fr: 'Il donne la sagesse à qui Il veut — quiconque reçoit la sagesse reçoit un bien abondant',
       zh: '祂把智慧赐给祂所意欲的人——谁获得智慧，谁确已获得许多福利',
-      ja: '御心のままに知恵を授けられる — 知恵を授かった者は豊かな善を授かった'
+      ja: '御心のままに知恵を授けられる — 知恵を授かった者は豊かな善を授かった', hi: 'वह जिसे चाहता है हिकमत देता है — जिसे हिकमत मिली उसे बहुत बड़ी भलाई मिली', es: 'Él concede la sabiduría a quien quiere; a quien se le da la sabiduría se le da un bien abundante', ru: 'Он дарует мудрость кому пожелает — кому дарована мудрость, тому даровано великое благо', de: 'Er gibt Weisheit, wem Er will – wem Weisheit gegeben wird, dem ist viel Gutes gegeben', fa: 'به هر کس بخواهد حکمت می‌دهد — و به هر کس حکمت داده شود، خیری فراوان داده شده است', ms: 'Dia memberikan hikmah kepada sesiapa yang dikehendaki-Nya — sesiapa yang diberi hikmah, sungguh dia telah diberi kebaikan yang banyak'
     }
   },
   {
@@ -283,7 +283,7 @@ const KNOWLEDGE_DUAS = [
       tr: 'Her ilim sahibinin üstünde daha iyi bilen vardır — öğrenmede tevazu',
       fr: "Au-dessus de tout détenteur de science, il y a un Plus Savant — humilité dans l'apprentissage",
       zh: '每个有知识者之上，都有更有知识者——求学中的谦逊',
-      ja: 'すべての知識ある者の上に、さらに知る御方がいる — 学びにおける謙虚さ'
+      ja: 'すべての知識ある者の上に、さらに知る御方がいる — 学びにおける謙虚さ', hi: 'हर इल्म वाले के ऊपर एक ज़्यादा इल्म वाला है — सीखने में आजिज़ी', es: 'Por encima de todo poseedor de conocimiento hay Uno que sabe más: humildad al aprender', ru: 'Над каждым обладающим знанием есть более знающий — смирение в учёбе', de: 'Über jedem, der Wissen besitzt, ist einer, der mehr weiß – Demut beim Lernen', fa: 'بالاتر از هر دانایی، دانایی دیگر است — فروتنی در آموختن', ms: 'Di atas setiap yang berilmu ada Yang Lebih Mengetahui — rendah diri dalam menuntut ilmu'
     }
   },
   // v160 additions — 4 Quranic duas (2026-07-28)
@@ -298,7 +298,7 @@ const KNOWLEDGE_DUAS = [
       "tr": "İbrahim'in ölülerin diriltilişini görme isteği — kalbin tatmini",
       "fr": "Requête d'Ibrahim de voir comment Allah ranime les morts — apaiser le cœur",
       "zh": "易卜拉欣求见复活死者之法——使内心安定",
-      "ja": "イブラーヒームの死者の蘇りを見る願い——心の確信のため"
+      "ja": "イブラーヒームの死者の蘇りを見る願い——心の確信のため", hi: 'मुर्दों को ज़िंदा होते देखने की इब्राहीम (अलैहिस्सलाम) की गुज़ारिश — दिल का इत्मीनान', es: 'Abraham pide ver cómo se devuelve la vida a los muertos: la certeza del corazón', ru: 'Просьба Ибрахима увидеть оживление мёртвых — убеждённость сердца', de: 'Ibrahims Bitte, die Wiederbelebung der Toten zu sehen – Gewissheit des Herzens', fa: 'درخواست ابراهیم برای دیدنِ زنده شدن مردگان — آرامش یقین در دل', ms: 'Permohonan Ibrahim a.s. untuk melihat cara menghidupkan yang mati — ketenangan hati'
     }
   },
   {
@@ -312,7 +312,7 @@ const KNOWLEDGE_DUAS = [
       "tr": "Müminlerin duası — 'Nurumuzu tamamla ve bizi bağışla'",
       "fr": "Prière des croyants — « Parachève notre lumière et pardonne-nous »",
       "zh": "信士们的祈祷——求你完成我们的光明并饶恕我们",
-      "ja": "信者たちの祈り——私たちの光を完成させ、赦してください"
+      "ja": "信者たちの祈り——私たちの光を完成させ、赦してください", hi: 'मोमिनों की दुआ — \'हमारा नूर हमारे लिए पूरा कर दे और हमें माफ़ कर दे\'', es: 'Du\'a de los creyentes: «Completa para nosotros nuestra luz y perdónanos»', ru: 'Мольба (дуа) верующих — «Доведи до конца наш свет и прости нас»', de: 'Bittgebet (Du\'a) der Gläubigen – „Vervollkommne uns unser Licht und vergib uns“', fa: 'دعای مؤمنان — «نورمان را برایمان کامل کن و ما را بیامرز»', ms: 'Doa orang beriman — \'Sempurnakanlah cahaya kami dan ampunilah kami\''
     }
   },
   {
@@ -326,7 +326,7 @@ const KNOWLEDGE_DUAS = [
       "tr": "Hakkı tanıyıp gözyaşı dökenlerin duası — 'Bizi şahitlerle beraber yaz'",
       "fr": "Prière de ceux émus aux larmes par la vérité — « Inscris-nous parmi les témoins »",
       "zh": "因认识真理而流泪者的祈祷——求你把我们记录在见证者之列",
-      "ja": "真理を認めて涙する者たちの祈り——証人の中に記してください"
+      "ja": "真理を認めて涙する者たちの祈り——証人の中に記してください", hi: 'हक़ को पहचानकर रो पड़ने वालों की दुआ — \'हमें गवाहों में लिख ले\'', es: 'Du\'a de quienes se conmueven hasta las lágrimas ante la verdad: «Inscríbenos entre los que dan testimonio»', ru: 'Мольба (дуа) тех, кто прослезился, узнав истину, — «Запиши нас в число свидетельствующих»', de: 'Bittgebet (Du\'a) derer, die die Wahrheit zu Tränen rührt – „Schreibe uns unter die Bezeugenden auf“', fa: 'دعای کسانی که از شناختن حق اشکشان جاری شد — «ما را در زمره‌ی گواهان بنویس»', ms: 'Doa mereka yang menitiskan air mata kerana kebenaran — \'Catatlah kami bersama orang-orang yang menjadi saksi\''
     }
   },
   {
@@ -340,7 +340,7 @@ const KNOWLEDGE_DUAS = [
       "tr": "Peygamberin duası — göklerin ve yerin Yaratıcısı, gaybın Bilicisi",
       "fr": "Invocation du Prophète au Créateur, Connaisseur de l'invisible",
       "zh": "先知的祈祷——天地的创造者、幽明的全知者",
-      "ja": "預言者の祈り——天地の創造者、幽玄と顕現を知る御方へ"
+      "ja": "預言者の祈り——天地の創造者、幽玄と顕現を知る御方へ", hi: 'ग़ैब के जानने वाले, पैदा करने वाले से नबी ﷺ की दुआ', es: 'La invocación del Profeta al Creador, Conocedor de lo oculto', ru: 'Мольба Пророка ﷺ к Творцу, Знающему сокровенное', de: 'Die Anrufung des Propheten ﷺ an den Schöpfer, den Kenner des Verborgenen', fa: 'دعای پیامبر ﷺ به درگاه آفریدگار، دانای غیب', ms: 'Doa Nabi ﷺ kepada Pencipta, Yang Mengetahui perkara ghaib'
     }
   }
 ];
@@ -357,7 +357,7 @@ const WEALTH_DUAS = [
       tr: 'Ibrahim: rabbi hab li hukmen — bana hikmet ver ve salihler arasına kat',
       fr: 'Ibrāhīm: rabbi hab li ḥukman — accorde-moi la sagesse et réunis-moi avec les justes',
       zh: '易卜拉欣：主啊，赐给我智慧，使我与义人同在',
-      ja: 'イブラーヒーム：主よ、知恵を与え、義人たちに加えてください'
+      ja: 'イブラーヒーム：主よ、知恵を与え、義人たちに加えてください', hi: 'इब्राहीम (अलैहिस्सलाम): रब्बि हब ली हुक्मन — मुझे हिकमत दे और मुझे नेक लोगों के साथ मिला दे', es: 'Abraham: rabbi hab li ḥukman — concédeme sabiduría y reúneme con los justos', ru: 'Ибрахим: рабби хаб ли хукман — даруй мне мудрость и присоедини меня к праведникам', de: 'Ibrahim: rabbi hab li hukman – schenke mir Urteilskraft und lass mich den Rechtschaffenen folgen', fa: 'ابراهیم: «ربّ هب لی حکماً» — به من حکمت ببخش و مرا به صالحان ملحق کن', ms: 'Ibrahim a.s.: rabbi hab li hukman — kurniakanlah aku hikmah dan hubungkanlah aku dengan orang-orang soleh'
     }
   },
   {
@@ -371,7 +371,7 @@ const WEALTH_DUAS = [
       tr: 'Rabbena atina: dünyada ve ahirette iyilik ver ve cehennem azabından koru',
       fr: "Rabbana atina: le bien ici-bas et dans l'au-delà, et préserve-nous du supplice du Feu",
       zh: '我们的主啊，在今世和后世赐给我们美好，并保护我们免受火刑',
-      ja: 'ラッバナー・アーティナー：現世と来世に善を与え、火獄の懲罰から守ってください'
+      ja: 'ラッバナー・アーティナー：現世と来世に善を与え、火獄の懲罰から守ってください', hi: 'रब्बना आतिना: दुनिया और आख़िरत की भलाई, और हमें आग से बचा', es: 'Rabbana atina: el bien en esta vida y en la otra, y líbranos del Fuego', ru: 'Раббана атина: благо в этом мире и в Последней жизни, и защити нас от Огня', de: 'Rabbana atina: Gutes im Diesseits und im Jenseits, und bewahre uns vor dem Feuer', fa: '«ربّنا آتنا»: نیکی در این دنیا و جهان دیگر، و ما را از آتش نگه دار', ms: 'Rabbana atina: kebaikan di dunia dan di akhirat, dan peliharalah kami daripada azab neraka'
     }
   },
   {
@@ -385,7 +385,7 @@ const WEALTH_DUAS = [
       tr: 'Mülkün sahibi: dilediğine mülk ver ve hesapsız rızıklandır',
       fr: 'Maître de la souveraineté: accorde le pouvoir à qui Tu veux et pourvois sans mesure',
       zh: '王权的主宰：赐给您所愿的人权力，并无限制地供给',
-      ja: '主権の持ち主：望む者に支配を与え、無制限に糧をお与えください'
+      ja: '主権の持ち主：望む者に支配を与え、無制限に糧をお与えください', hi: 'बादशाही के मालिक: तू जिसे चाहे हुकूमत दे और बेहिसाब रोज़ी दे', es: 'Dueño de la soberanía: das el dominio a quien quieres y provees sin medida', ru: 'Владыка царства: Ты даруешь власть кому пожелаешь и наделяешь без счёта', de: 'Herr der Herrschaft: Du gibst die Herrschaft, wem Du willst, und versorgst ohne Maß', fa: 'مالکِ فرمانروایی: به هر که بخواهی فرمانروایی می‌دهی و بی‌حساب روزی می‌دهی', ms: 'Pemilik Kerajaan: Engkau memberi kerajaan kepada sesiapa yang Engkau kehendaki dan memberi rezeki tanpa hitungan'
     }
   },
   {
@@ -399,7 +399,7 @@ const WEALTH_DUAS = [
       tr: "Zekeriya'nın duası: Rabbim, katından bana hayırlı bir nesil ver",
       fr: 'Zakariyyā: Mon Seigneur, accorde-moi de Toi une pure et bonne descendance',
       zh: '扎卡利亚：主啊，请从您那里赐给我良好和纯洁的后代',
-      ja: 'ザカリッヤー：主よ、あなたから清く良い子孫を授けてください'
+      ja: 'ザカリッヤー：主よ、あなたから清く良い子孫を授けてください', hi: 'ज़करिया (अलैहिस्सलाम): मेरे रब, मुझे अपनी तरफ़ से नेक और पाक औलाद दे', es: 'Zacarías: Señor mío, concédeme de Tu parte una descendencia buena y pura', ru: 'Закария: Господи, даруй мне от Себя благое и чистое потомство', de: 'Zakariyya: Mein Herr, schenke mir von Dir aus gute und reine Nachkommen', fa: 'زکریا: پروردگارا، از سوی خود فرزندی نیک و پاک به من ببخش', ms: 'Zakaria a.s.: Wahai Tuhanku, kurniakanlah kepadaku dari sisi-Mu zuriat yang baik'
     }
   },
   {
@@ -413,7 +413,7 @@ const WEALTH_DUAS = [
       tr: 'Zelzele sonrası Musa: bizi bağışla ve merhamet et, bağışlayanların en hayırlısısın',
       fr: 'Mūsā après le tremblement de terre: pardonne-nous et aie pitié, Tu es le meilleur des Pardonneurs',
       zh: '地震后穆萨的祈祷：原谅我们并怜悯我们，您是最好的宽恕者',
-      ja: '地震の後のムーサー：私たちを赦し、慈悲をかけてください — あなたは最善の赦す方です'
+      ja: '地震の後のムーサー：私たちを赦し、慈悲をかけてください — あなたは最善の赦す方です', hi: 'भूकंप के बाद मूसा (अलैहिस्सलाम): हमें माफ़ कर और हम पर रहम कर — तू सबसे अच्छा माफ़ करने वाला है', es: 'Moisés tras el temblor: perdónanos y ten misericordia de nosotros; Tú eres el mejor de los que perdonan', ru: 'Муса после землетрясения: прости нас и помилуй — Ты лучший из прощающих', de: 'Musa nach dem Beben: Vergib uns und erbarme Dich unser – Du bist der Beste derer, die vergeben', fa: 'موسی پس از زلزله: ما را بیامرز و بر ما رحم کن — تو بهترینِ آمرزندگانی', ms: 'Musa a.s. selepas gempa: ampunilah kami dan rahmatilah kami — Engkaulah sebaik-baik Pemberi ampun'
     }
   },
   {
@@ -427,7 +427,7 @@ const WEALTH_DUAS = [
       tr: "Nuh gemiye bindi: Allah'ın adıyla akması ve demirlemesi",
       fr: "Nūḥ monte sur l'arche: au nom d'Allah est sa course et son ancrage",
       zh: '努哈登上方舟：以真主之名启航和停靠',
-      ja: 'ヌーフが箱舟に乗る：アッラーの御名において、航行と停泊がある'
+      ja: 'ヌーフが箱舟に乗る：アッラーの御名において、航行と停泊がある', hi: 'कश्ती पर सवार होते नूह (अलैहिस्सलाम): अल्लाह के नाम से है इसका चलना और इसका ठहरना', es: 'Noé sube al arca: en el nombre de Allah sean su navegar y su fondear', ru: 'Нух восходит на ковчег: с именем Аллаха он плывёт и бросает якорь', de: 'Nuh besteigt die Arche: Im Namen Allahs sei ihre Fahrt und ihr Ankern', fa: 'سوار شدن نوح بر کشتی: به نام الله است روان شدنش و لنگر انداختنش', ms: 'Nuh a.s. menaiki bahtera: dengan nama Allah ia belayar dan berlabuh'
     }
   },
   {
@@ -441,7 +441,7 @@ const WEALTH_DUAS = [
       tr: "İbadurrahman: bize gözümüzün nuru eşler ve nesil ver, bizi takvaya erenlere önder kıl",
       fr: 'Ibād al-Raḥmān: accorde-nous de nos épouses et descendants la fraîcheur des yeux; fais-nous chefs des pieux',
       zh: '至仁主的仆人：赐给我们使我们眼睛愉悦的配偶和后代，并使我们成为敬畏者的领袖',
-      ja: 'ラフマーンの僕たち：妻と子孫を目の冷却として与え、敬虔な者たちの指導者にしてください'
+      ja: 'ラフマーンの僕たち：妻と子孫を目の冷却として与え、敬虔な者たちの指導者にしてください', hi: 'इबादुर-रहमान: हमें बीवियों और औलाद से आँखों की ठंडक दे; हमें परहेज़गारों का इमाम बना', es: 'Ibād al-Raḥmān: concédenos en nuestros cónyuges y descendencia alegría para nuestros ojos; haz de nosotros guías de los justos', ru: 'Рабы Милостивого: даруй нам в супругах и потомках усладу очей; сделай нас предводителями праведных', de: '\'Ibad ar-Rahman: Schenke uns an Ehepartnern und Nachkommen Augentrost; mache uns zu Vorbildern für die Gottesfürchtigen', fa: 'بندگان رحمان: از همسران و فرزندانمان روشنی چشم به ما ببخش؛ ما را پیشوای پرهیزگاران قرار ده', ms: 'Hamba-hamba Allah Yang Maha Pemurah: kurniakanlah kami pasangan dan zuriat sebagai penyejuk mata; jadikanlah kami pemimpin orang-orang yang bertakwa'
     }
   },
   {
@@ -455,7 +455,7 @@ const WEALTH_DUAS = [
       tr: "Cuma sonrası: yeryüzüne dağılın ve Allah'ın lütfundan nasip arayın",
       fr: "Après le Vendredi: répandez-vous sur la terre et cherchez la grâce d'Allah",
       zh: '主麻日后：分散在大地上，寻求真主的恩典',
-      ja: 'ジュムア後：地に散らばり、アッラーの恵みを求めなさい'
+      ja: 'ジュムア後：地に散らばり、アッラーの恵みを求めなさい', hi: 'जुमे के बाद: ज़मीन में फैल जाओ और अल्लाह का फ़ज़्ल तलाश करो', es: 'Tras el yumu\'a: dispersaos y buscad del favor de Allah por la tierra', ru: 'После джумы: расходитесь по земле и ищите милость Аллаха', de: 'Nach dem Freitagsgebet: Breitet euch aus und strebt nach der Huld Allahs auf der Erde', fa: 'پس از نماز جمعه: در زمین پراکنده شوید و از فضل الله بجویید', ms: 'Selepas solat Jumaat: bertebaranlah di muka bumi dan carilah kurnia Allah'
     }
   },
   {
@@ -469,7 +469,7 @@ const WEALTH_DUAS = [
       tr: "Allah'tan kim korkarsa: Allah ona bir çıkış yolu açar ve hesap etmediği yerden rızık verir",
       fr: 'Quiconque craint Allah: Il lui prépare une issue et lui accorde Sa subsistance de sources inattendues',
       zh: '凡敬畏真主的人：祂为他开辟出路，从意想不到的地方供给他',
-      ja: 'アッラーを恐れる者：アッラーは道を開き、思いがけない所から糧を与えられる'
+      ja: 'アッラーを恐れる者：アッラーは道を開き、思いがけない所から糧を与えられる', hi: 'जो अल्लाह से डरे: वह उसके लिए रास्ता निकाल देता है और वहाँ से रोज़ी देता है जहाँ से उसे गुमान भी न हो', es: 'Quien teme a Allah: Él le abre una salida y le provee de donde no lo espera', ru: 'Кто боится Аллаха, тому Он даёт выход и наделяет уделом оттуда, откуда он не ожидает', de: 'Wer Allah fürchtet: Er schafft ihm einen Ausweg und versorgt ihn, von wo er es nicht erwartet', fa: 'هر کس پروای الله کند: برایش راه بیرون‌شدی قرار می‌دهد و از جایی که گمان نمی‌برد روزی‌اش می‌دهد', ms: 'Sesiapa yang bertakwa kepada Allah: Dia mengadakan jalan keluar dan memberinya rezeki dari arah yang tidak disangka'
     }
   },
   {
@@ -483,7 +483,7 @@ const WEALTH_DUAS = [
       tr: "Nuh'un öğüdü: Rabbinizden bağışlanma dileyin, bol yağmur göndersin, malları ve oğulları çoğaltsın",
       fr: 'Nūḥ exhorte: demandez pardon à votre Seigneur, Il vous enverra la pluie, augmentera vos biens, enfants et jardins',
       zh: '努哈的劝导：向你的主求恕，祂将降下雨水，增加财富、子孙和花园',
-      ja: 'ヌーフの勧め：主に赦しを求めなさい — 雨を送り、財産・子供・庭園を増やしてくださいます'
+      ja: 'ヌーフの勧め：主に赦しを求めなさい — 雨を送り、財産・子供・庭園を増やしてくださいます', hi: 'नूह (अलैहिस्सलाम): माफ़ी माँगो — वह बारिश भेजेगा, तुम्हारा माल, औलाद और बाग़ बढ़ाएगा', es: 'Noé: pedid perdón; Él enviará la lluvia y aumentará vuestros bienes, hijos y jardines', ru: 'Нух: просите прощения — Он пошлёт дождь, умножит ваше богатство, детей и сады', de: 'Nuh: Bittet um Vergebung – Er sendet Regen und mehrt euch Besitz, Kinder und Gärten', fa: 'نوح: آمرزش بخواهید — باران می‌فرستد و بر مال، فرزندان و باغ‌هایتان می‌افزاید', ms: 'Nuh a.s.: beristighfarlah — Dia akan menurunkan hujan serta menambah harta, anak-anak dan kebun kamu'
     }
   },
   {
@@ -497,7 +497,7 @@ const WEALTH_DUAS = [
       tr: "İbrahim: insanların kalplerini onlara meylettir ve onları meyvelerle rızıklandır",
       fr: 'Ibrāhīm: incline les cœurs des gens vers ma famille près de la Maison Sacrée et pourvois-les en fruits',
       zh: '易卜拉欣：使人们的心向往圣所附近我的家人，并以果实供给他们',
-      ja: 'イブラーヒーム：聖なる家の近くの家族に人々の心を向けさせ、果物を与えてください'
+      ja: 'イブラーヒーム：聖なる家の近くの家族に人々の心を向けさせ、果物を与えてください', hi: 'इब्राहीम (अलैहिस्सलाम): हुरमत वाले घर के पास बसे मेरे घरवालों की तरफ़ दिलों को झुका दे और उन्हें फल दे', es: 'Abraham: haz que los corazones se inclinen hacia mi familia junto a la Casa Sagrada y provéelos de frutos', ru: 'Ибрахим: склони сердца к моей семье у Заповедного дома и надели их плодами', de: 'Ibrahim: Lass Herzen sich meiner Familie beim heiligen Haus zuneigen und versorge sie mit Früchten', fa: 'ابراهیم: دل‌ها را به سوی خانواده‌ام در کنار خانه‌ی حرام مایل کن و از میوه‌ها روزی‌شان ده', ms: 'Ibrahim a.s.: jadikanlah hati manusia cenderung kepada keluargaku di sisi Rumah-Mu yang dihormati dan berilah mereka rezeki buah-buahan'
     }
   },
   {
@@ -511,7 +511,7 @@ const WEALTH_DUAS = [
       tr: 'Kuyu başında Musa: Rabbim, bana indireceğin her hayra muhtacım',
       fr: 'Mūsā au puits: Mon Seigneur, je suis dans le besoin de tout bien que Tu feras descendre sur moi',
       zh: '在井边的穆萨：我的主啊，对于您降给我的任何善事，我确实是需要的',
-      ja: '井戸のそばのムーサー：主よ、あなたが降ろしてくださるどんな善にも、私は確かに必要です'
+      ja: '井戸のそばのムーサー：主よ、あなたが降ろしてくださるどんな善にも、私は確かに必要です', hi: 'कुएँ के पास मूसा (अलैहिस्सलाम): मेरे रब, तू जो भी भलाई मुझ पर उतारे, मैं उसका सच में मोहताज हूँ', es: 'Moisés junto al pozo: Señor mío, estoy realmente necesitado de cualquier bien que hagas descender sobre mí', ru: 'Муса у колодца: Господи, я нуждаюсь в любом благе, которое Ты ниспошлёшь мне', de: 'Musa am Brunnen: Mein Herr, ich bin bedürftig nach allem Guten, das Du zu mir herabsendest', fa: 'موسی کنار چاه: پروردگارا، من به هر خیری که بر من فرو فرستی سخت نیازمندم', ms: 'Musa a.s. di tepi perigi: Wahai Tuhanku, sesungguhnya aku sangat memerlukan apa jua kebaikan yang Engkau turunkan kepadaku'
     }
   },
   {
@@ -525,7 +525,7 @@ const WEALTH_DUAS = [
       tr: 'Rabbim rızkı diler genişletir diler daraltır — infak ettiğinizin yerine yenisini verir',
       fr: "Mon Seigneur dispense ou restreint la subsistance — tout ce que vous dépensez, Il le remplace",
       zh: '我的主使给养宽裕或窘迫——你们所施舍的，祂必偿还',
-      ja: '我が主は糧を広げまた制限される — あなたが費やすものを、主は補われる'
+      ja: '我が主は糧を広げまた制限される — あなたが費やすものを、主は補われる', hi: 'मेरा रब रोज़ी कुशादा भी करता है और तंग भी — तुम जो भी ख़र्च करो, वह उसकी जगह और देता है', es: 'Mi Señor amplía y restringe la provisión; todo lo que gastéis, Él lo repondrá', ru: 'Мой Господь расширяет и ограничивает удел — всё, что вы расходуете, Он возмещает', de: 'Mein Herr gewährt die Versorgung reichlich und bemisst sie – was ihr auch ausgebt, Er ersetzt es', fa: 'پروردگارم روزی را گشاده و تنگ می‌کند — هر چه انفاق کنید، جایگزینش را می‌دهد', ms: 'Tuhanku melapangkan dan menyempitkan rezeki — apa sahaja yang kamu belanjakan, Dia akan menggantikannya'
     }
   },
   {
@@ -539,7 +539,7 @@ const WEALTH_DUAS = [
       tr: "Allah kullarına lütufkârdır, dilediğini rızıklandırır; O güçlüdür, üstündür",
       fr: "Allah est Bienveillant envers Ses serviteurs; Il pourvoit à qui Il veut",
       zh: '真主对众仆是仁慈的，祂供给祂所意欲者，祂是至刚的、万能的',
-      ja: 'アッラーは僕たちに慈しみ深く、御心のままに糧を与えられる'
+      ja: 'アッラーは僕たちに慈しみ深く、御心のままに糧を与えられる', hi: 'अल्लाह अपने बंदों पर बड़ा बारीकबीं और मेहरबान है, जिसे चाहता है रोज़ी देता है', es: 'Allah es Sutil y Bondadoso con Sus siervos; provee a quien quiere', ru: 'Аллах Добр к Своим рабам и наделяет уделом, кого пожелает', de: 'Allah ist feinfühlig und gütig zu Seinen Dienern und versorgt, wen Er will', fa: 'الله با بندگانش لطیف و مهربان است و به هر که بخواهد روزی می‌دهد', ms: 'Allah Maha Lemah-lembut terhadap hamba-hamba-Nya, Dia memberi rezeki kepada sesiapa yang dikehendaki-Nya'
     }
   },
   {
@@ -553,7 +553,7 @@ const WEALTH_DUAS = [
       tr: "Süleyman'ın tebessümü: bana ve ana-babama verdiğin nimete şükretmemi nasip et",
       fr: "Le sourire de Sulaymān: permets-moi d'être reconnaissant pour Ton bienfait envers moi et mes parents",
       zh: '苏莱曼的微笑：求您使我能感谢您赐予我和我父母的恩典',
-      ja: 'スライマーンの微笑み：私と両親に与えられた恵みに感謝する力を授けてください'
+      ja: 'スライマーンの微笑み：私と両親に与えられた恵みに感謝する力を授けてください', hi: 'सुलैमान (अलैहिस्सलाम) की मुस्कान: मुझे तौफ़ीक़ दे कि मैं तेरी उस नेमत का शुक्र करूँ जो तूने मुझ पर और मेरे माँ-बाप पर की', es: 'La sonrisa de Salomón: concédeme agradecer Tu favor sobre mí y sobre mis padres', ru: 'Улыбка Сулеймана: дай мне быть благодарным за Твою милость ко мне и моим родителям', de: 'Sulaimans Lächeln: Lass mich dankbar sein für Deine Gunst an mir und meinen Eltern', fa: 'لبخند سلیمان: مرا توفیق ده تا نعمتی را که به من و پدر و مادرم ارزانی داشتی سپاس گزارم', ms: 'Senyuman Sulaiman a.s.: ilhamkanlah aku untuk mensyukuri nikmat-Mu yang Engkau kurniakan kepadaku dan kepada ibu bapaku'
     }
   },
   {
@@ -567,7 +567,7 @@ const WEALTH_DUAS = [
       tr: "Süleyman: beni bağışla ve bana benden sonra kimseye nasip olmayacak bir mülk ver — Sen Vehhab'sın",
       fr: "Sulaymān: pardonne-moi et accorde-moi un royaume qui ne convienne à nul autre après moi — Tu es le Grand Donateur",
       zh: '苏莱曼：求您饶恕我，赐给我在我之后任何人不宜拥有的王权——您是博施的',
-      ja: 'スライマーン：私を赦し、私の後の誰にもふさわしくない王権を授けてください — あなたは豊かに与える方'
+      ja: 'スライマーン：私を赦し、私の後の誰にもふさわしくない王権を授けてください — あなたは豊かに与える方', hi: 'सुलैमान (अलैहिस्सलाम): मुझे माफ़ कर दे और मुझे ऐसी बादशाही दे जो मेरे बाद किसी के लायक़ न हो — तू ही बहुत देने वाला है', es: 'Salomón: perdóname y concédeme un reino que no corresponda a nadie después de mí; Tú eres el Dadivoso', ru: 'Сулейман: прости меня и даруй мне власть, которая не подобает никому после меня, — Ты Дарующий', de: 'Sulaiman: Vergib mir und schenke mir eine Herrschaft, die niemandem nach mir zusteht – Du bist der Schenkende', fa: 'سلیمان: مرا بیامرز و فرمانروایی‌ای به من ببخش که پس از من سزاوار هیچ‌کس نباشد — تویی بسیار بخشنده', ms: 'Sulaiman a.s.: ampunilah aku dan kurniakanlah kepadaku kerajaan yang tidak layak bagi sesiapa pun selepasku — Engkaulah Yang Maha Pemberi'
     }
   },
   {
@@ -581,7 +581,7 @@ const WEALTH_DUAS = [
       tr: "İsa'nın duası: bize gökten bir sofra indir, bayram ve rızık olsun — Sen rızık verenlerin en hayırlısısın",
       fr: "Du'a de 'Īsā: fais descendre sur nous une table du ciel, fête et subsistance — Tu es le meilleur des pourvoyeurs",
       zh: '尔撒的祈祷：求您从天上给我们降下筵席，作为节日和给养——您是最好的供给者',
-      ja: 'イーサーの祈り：天から食卓を下し、祝祭と糧としてください — あなたは最善の糧を与える方'
+      ja: 'イーサーの祈り：天から食卓を下し、祝祭と糧としてください — あなたは最善の糧を与える方', hi: 'ईसा (अलैहिस्सलाम) की दुआ: हम पर आसमान से एक दस्तरख़्वान उतार, जो ईद और रोज़ी हो — तू सबसे अच्छा रोज़ी देने वाला है', es: 'La du\'a de Jesús: haz descender para nosotros una mesa del cielo, fiesta y provisión; Tú eres el mejor de los proveedores', ru: 'Мольба (дуа) Исы: ниспошли нам трапезу с неба, праздник и удел, — Ты лучший из дарующих удел', de: 'Isas Bittgebet (Du\'a): Sende uns einen Tisch vom Himmel herab, ein Fest und eine Versorgung – Du bist der beste Versorger', fa: 'دعای عیسی: سفره‌ای از آسمان بر ما فرو فرست، که جشن و روزی باشد — تو بهترین روزی‌دهندگانی', ms: 'Doa Isa a.s.: turunkanlah kepada kami hidangan dari langit, menjadi hari raya dan rezeki — Engkaulah sebaik-baik Pemberi rezeki'
     }
   }
 ];
@@ -598,7 +598,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: 'Rabbena innena amenna: sabredenler ve seher vakti istiğfar edenler',
       fr: "Rabbana innana amanna: croyants qui persévèrent et implorent le pardon à l'aurore",
       zh: '我们的主，我们确已信道：坚忍并在黎明时分求恕的信士',
-      ja: 'ラッバナー・インナナー・アーマンナー：忍耐し、夜明けに赦しを求める信者たち'
+      ja: 'ラッバナー・インナナー・アーマンナー：忍耐し、夜明けに赦しを求める信者たち', hi: 'रब्बना इन्नना आमन्ना: सब्र करने वाले और सहर के वक़्त माफ़ी माँगने वाले मोमिन', es: 'Rabbana innana amanna: los creyentes que perseveran y piden perdón antes del alba', ru: 'Раббана иннана аманна: верующие, которые терпят и просят прощения перед рассветом', de: 'Rabbana innana amanna: Gläubige, die standhaft sind und im Morgengrauen um Vergebung bitten', fa: '«ربّنا اننا آمنا»: مؤمنانی که پایداری می‌کنند و سحرگاهان آمرزش می‌طلبند', ms: 'Rabbana innana amanna: orang beriman yang sabar dan beristighfar pada waktu sahur'
     }
   },
   {
@@ -612,7 +612,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: 'Ey Allah, mülkün sahibi: dilediğine mülk verir, dilediğinden alırsın',
       fr: "Ô Allah, Maître de la souveraineté: Tu donnes et retires le pouvoir, Tu pourvois sans limite",
       zh: '主啊，王权的主宰：您赐予并剥夺权力，无限供给',
-      ja: 'アッラーよ、主権の持ち主：望む者に与え、望む者から取り、無限に糧をお与えです'
+      ja: 'アッラーよ、主権の持ち主：望む者に与え、望む者から取り、無限に糧をお与えです', hi: 'ऐ अल्लाह, बादशाही के मालिक: तू हुकूमत देता भी है और छीनता भी है, और बेहिसाब रोज़ी देता है', es: 'Oh Allah, Dueño de la soberanía: das y retiras el dominio, y provees sin medida', ru: 'О Аллах, Владыка царства: Ты даруешь и отнимаешь власть и наделяешь без счёта', de: 'O Allah, Herr der Herrschaft: Du gibst und entziehst die Herrschaft und versorgst ohne Abrechnung', fa: 'بارالها، ای مالکِ فرمانروایی: فرمانروایی می‌دهی و بازمی‌گیری، و بی‌حساب روزی می‌دهی', ms: 'Ya Allah, Pemilik Kerajaan: Engkau memberi dan mencabut kerajaan, serta memberi rezeki tanpa hitungan'
     }
   },
   {
@@ -626,7 +626,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: 'Havariler: Rabbimiz, indirdiğine inandık ve Resule uyduk; bizi şahitler arasına yaz',
       fr: 'Ḥawariyyūn: Notre Seigneur, nous croyons en ce que Tu as révélé; inscris-nous parmi les témoins',
       zh: '门徒们：我们的主啊，我们信仰了您所降示的，并遵循了使者；请将我们列为见证人',
-      ja: 'ハワーリーユーン：私たちの主よ、あなたが啓示されたものを信じ、使者に従いました；証人の中に加えてください'
+      ja: 'ハワーリーユーン：私たちの主よ、あなたが啓示されたものを信じ、使者に従いました；証人の中に加えてください', hi: 'हवारी: ऐ हमारे रब, तूने जो उतारा हम उस पर ईमान लाए; हमें गवाहों में लिख ले', es: 'Ḥawariyyūn: Señor nuestro, creemos en lo que has revelado; inscríbenos entre los que dan testimonio', ru: 'Апостолы: Господь наш, мы уверовали в то, что Ты ниспослал; запиши нас в число свидетельствующих', de: 'Die Jünger: Unser Herr, wir glauben an das, was Du herabgesandt hast; mache uns zu Zeugen', fa: 'حواریون: پروردگارا، به آنچه فرو فرستادی ایمان آوردیم؛ ما را از گواهان قرار ده', ms: 'Para hawariyyun: Wahai Tuhan kami, kami beriman kepada apa yang Engkau turunkan; jadikanlah kami orang yang menjadi saksi'
     }
   },
   {
@@ -640,7 +640,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: "Şafak ve akşam tefekkürü: ayakta, otururken ve yan yatarken Allah'ı zikredenler",
       fr: "Réflexion à l'aurore et au crépuscule: ceux qui invoquent Allah debout, assis et couchés",
       zh: '黎明和黄昏时的沉思：站着、坐着和侧卧时铭记真主的人们',
-      ja: '夜明けと夕暮れの黙想：立ちながら、座りながら、横になりながらアッラーを記念する人々'
+      ja: '夜明けと夕暮れの黙想：立ちながら、座りながら、横になりながらアッラーを記念する人々', hi: 'सुबह-शाम ग़ौर-फ़िक्र: वे जो खड़े, बैठे और करवटों पर अल्लाह को याद करते हैं', es: 'Reflexión al alba y al anochecer: quienes recuerdan a Allah de pie, sentados y acostados', ru: 'Размышление на рассвете и в сумерках: те, кто поминает Аллаха стоя, сидя и лёжа на боку', de: 'Nachsinnen am Morgen und Abend: die Allahs gedenken im Stehen, im Sitzen und auf der Seite liegend', fa: 'تفکر در سپیده‌دم و شامگاه: کسانی که الله را ایستاده، نشسته و بر پهلو یاد می‌کنند', ms: 'Renungan pada waktu fajar dan senja: mereka yang mengingati Allah sambil berdiri, duduk dan berbaring'
     }
   },
   {
@@ -654,7 +654,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: 'Melekler müminler için dua eder: onları bağışla, Adn cennetine koy, kötülüklerden koru',
       fr: 'Les anges prient pour les croyants: pardonne-leur, fais-les entrer au Jardin, préserve-les des maux',
       zh: '天使为信士祈祷：饶恕他们，使他们进入永居乐园，保护他们免受恶事',
-      ja: '天使が信者のために祈る：彼らを赦し、楽園に入れ、悪から守ってください'
+      ja: '天使が信者のために祈る：彼らを赦し、楽園に入れ、悪から守ってください', hi: 'फ़रिश्ते मोमिनों के लिए दुआ करते हैं: उन्हें माफ़ कर, जन्नत में दाख़िल कर, आग से बचा', es: 'Los ángeles piden por los creyentes: perdónalos, hazlos entrar en el Jardín, protégelos del Fuego', ru: 'Ангелы молятся за верующих: прости их, введи их в Сад, защити их от Огня', de: 'Die Engel beten für die Gläubigen: Vergib ihnen, lass sie in den Garten eingehen, bewahre sie vor dem Feuer', fa: 'دعای فرشتگان برای مؤمنان: آنان را بیامرز، به بهشت درآور و از آتش نگه دار', ms: 'Malaikat mendoakan orang beriman: ampunilah mereka, masukkanlah mereka ke syurga, peliharalah mereka daripada neraka'
     }
   },
   {
@@ -668,7 +668,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: "Allah'ın güzel isimleri: Haşr suresinin sabah ve akşam okunması tavsiye edilen son ayetleri",
       fr: "Les Beaux Noms d'Allah: versets finaux de al-Ḥashr, récités le matin et le soir",
       zh: '真主的美名：《聚集章》结尾经文，早晚诵读',
-      ja: 'アッラーの美名：スーラ・ハシュルの末尾の節、朝夕に唱えること'
+      ja: 'アッラーの美名：スーラ・ハシュルの末尾の節、朝夕に唱えること', hi: 'अल्लाह के ख़ूबसूरत नाम: सूरह हश्र की आख़िरी आयतें, सुबह-शाम पढ़ी जाती हैं', es: 'Los Nombres más Hermosos de Allah: las aleyas finales de al-Ḥashr, recitadas por la mañana y por la tarde', ru: 'Прекраснейшие имена Аллаха: последние аяты суры «аль-Хашр», читаемые утром и вечером', de: 'Die schönsten Namen Allahs: die Schlussverse von al-Haschr, am Morgen und am Abend rezitiert', fa: 'نام‌های نیکوی الله: آیات پایانی سوره‌ی حشر که صبح و شام خوانده می‌شود', ms: 'Asmaul Husna: ayat-ayat penutup surah al-Hasyr, dibaca pagi dan petang'
     }
   },
   {
@@ -682,7 +682,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: "Ayetü'l-Kürsî: sabah ve akşam Allah'ın tam koruması için okunur",
       fr: "Āyat al-Kursī: le Verset du Trône — récité matin et soir pour une protection globale",
       zh: '宝座节：早晚诵读以获得真主全面的保护',
-      ja: 'クルスィー節：朝夕に唱えることで全面的な守護を得る'
+      ja: 'クルスィー節：朝夕に唱えることで全面的な守護を得る', hi: 'आयतुल कुर्सी: अर्श वाली आयत — पूरी हिफ़ाज़त के लिए सुबह-शाम पढ़ी जाती है', es: 'Āyat al-Kursī: la aleya del Trono, recitada por la mañana y por la tarde como protección completa', ru: 'Аят аль-Курси — читается утром и вечером для всесторонней защиты', de: 'Der Thronvers (Ayat al-Kursi) – am Morgen und am Abend für umfassenden Schutz rezitiert', fa: 'آیت‌الکرسی: آیه‌ی کرسی — که صبح و شام برای نگهداری فراگیر خوانده می‌شود', ms: 'Ayat Kursi: ayat tentang Kursi Allah — dibaca pagi dan petang untuk perlindungan yang menyeluruh'
     }
   },
   {
@@ -696,7 +696,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: "Sabah akşam Rabbinin adını an, gece O'na secde et",
       fr: 'Rappelle le nom de ton Seigneur matin et soir, et la nuit, prosterne-toi devant Lui',
       zh: '早晚记念你的主的名字，夜间向祂叩首',
-      ja: '朝夕に主の御名を唱え、夜には主にサジダしなさい'
+      ja: '朝夕に主の御名を唱え、夜には主にサジダしなさい', hi: 'सुबह-शाम अपने रब का नाम याद करो, और रात में उसे सजदा करो', es: 'Recuerda el nombre de tu Señor por la mañana y por la tarde, y por la noche prostérnate ante Él', ru: 'Поминай имя своего Господа утром и вечером, а ночью падай пред Ним ниц', de: 'Gedenke des Namens deines Herrn morgens und abends, und wirf dich in der Nacht vor Ihm nieder', fa: 'نام پروردگارت را صبح و شام یاد کن، و پاسی از شب برایش سجده کن', ms: 'Sebutlah nama Tuhanmu pagi dan petang, dan pada waktu malam sujudlah kepada-Nya'
     }
   },
   {
@@ -710,7 +710,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: "Amener'r-Resul: her gece okunması tavsiye edilen Bakara'nın son iki ayeti",
       fr: "Āmanar-Rasūl: les deux derniers versets d'al-Baqarah — récités chaque soir",
       zh: '使者已信仰：《黄牛章》最后两节，每晚诵读',
-      ja: 'アーマナッ・ラスール：バカラ章の末尾2節、毎晩唱えること'
+      ja: 'アーマナッ・ラスール：バカラ章の末尾2節、毎晩唱えること', hi: 'आमनर-रसूल: सूरह बक़रह की आख़िरी दो आयतें — हर शाम पढ़ी जाती हैं', es: 'Āmanar-Rasūl: las dos últimas aleyas de al-Baqarah, recitadas cada noche', ru: 'Амана-р-Расуль: два последних аята суры «аль-Бакара» — читаются каждый вечер', de: 'Amana r-Rasul: die letzten beiden Verse von al-Baqara – jeden Abend rezitiert', fa: '«آمن الرسول»: دو آیه‌ی پایانی سوره‌ی بقره — که هر شب خوانده می‌شود', ms: 'Amanar-Rasul: dua ayat terakhir surah al-Baqarah — dibaca setiap malam'
     }
   },
   {
@@ -724,7 +724,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: 'Sûre-i İhlâs: de ki O Allah birdir — sabah ve akşam üç kez okunur',
       fr: "Sūrat al-Ikhlāṣ: dis Il est Allah, l'Unique — récitée trois fois le matin et le soir",
       zh: '忠诚章：说祂是真主，是独一的——早晚各诵读三遍',
-      ja: 'スーラ・イフラース：言いなさい、彼はアッラーで唯一 — 朝夕に3回唱えること'
+      ja: 'スーラ・イフラース：言いなさい、彼はアッラーで唯一 — 朝夕に3回唱えること', hi: 'सूरह इख़लास: कहो, वह अल्लाह एक है — सुबह-शाम तीन बार पढ़ी जाती है', es: 'Sūrat al-Ikhlāṣ: di «Él es Allah, Uno», recitada tres veces por la mañana y por la tarde', ru: 'Сура «аль-Ихлас»: скажи: «Он — Аллах Единый» — читается трижды утром и вечером', de: 'Sure al-Ichlas: Sag: Er ist Allah, ein Einziger – dreimal am Morgen und am Abend rezitiert', fa: 'سوره‌ی اخلاص: بگو او الله یگانه است — سه بار در صبح و شام خوانده می‌شود', ms: 'Surah al-Ikhlas: katakanlah, Dialah Allah Yang Maha Esa — dibaca tiga kali pagi dan petang'
     }
   },
   {
@@ -738,7 +738,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: 'Sûre-i Felak: şafağın Rabbine sığınırım — sabah ve akşam okunur',
       fr: "Sūrat al-Falaq: je cherche refuge auprès du Seigneur de l'aurore — récitée matin et soir",
       zh: '曙光章：我求救于晨光的主——早晚诵读',
-      ja: 'スーラ・ファラク：夜明けの主に庇護を求めます — 朝夕に唱えること'
+      ja: 'スーラ・ファラク：夜明けの主に庇護を求めます — 朝夕に唱えること', hi: 'सूरह फ़लक़: मैं सुबह के रब की पनाह माँगता हूँ — सुबह-शाम पढ़ी जाती है', es: 'Sūrat al-Falaq: me refugio en el Señor del alba, recitada por la mañana y por la tarde', ru: 'Сура «аль-Фалак»: прибегаю к защите Господа рассвета — читается утром и вечером', de: 'Sure al-Falaq: Ich nehme Zuflucht beim Herrn des Tagesanbruchs – am Morgen und am Abend rezitiert', fa: 'سوره‌ی فلق: به پروردگار سپیده‌دم پناه می‌برم — صبح و شام خوانده می‌شود', ms: 'Surah al-Falaq: aku berlindung kepada Tuhan yang menguasai subuh — dibaca pagi dan petang'
     }
   },
   {
@@ -752,7 +752,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: 'Sûre-i Nâs: insanların Rabbine sığınırım — sabah ve akşam okunur',
       fr: 'Sūrat al-Nās: je cherche refuge auprès du Seigneur des hommes — récitée matin et soir',
       zh: '人类章：我求救于人类的主——早晚诵读',
-      ja: 'スーラ・ナース：人々の主に庇護を求めます — 朝夕に唱えること'
+      ja: 'スーラ・ナース：人々の主に庇護を求めます — 朝夕に唱えること', hi: 'सूरह नास: मैं इंसानों के रब की पनाह माँगता हूँ — सुबह-शाम पढ़ी जाती है', es: 'Sūrat al-Nās: me refugio en el Señor de los hombres, recitada por la mañana y por la tarde', ru: 'Сура «ан-Нас»: прибегаю к защите Господа людей — читается утром и вечером', de: 'Sure an-Nas: Ich nehme Zuflucht beim Herrn der Menschen – am Morgen und am Abend rezitiert', fa: 'سوره‌ی ناس: به پروردگار مردم پناه می‌برم — صبح و شام خوانده می‌شود', ms: 'Surah an-Nas: aku berlindung kepada Tuhan sekalian manusia — dibaca pagi dan petang'
     }
   },
   {
@@ -766,7 +766,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: "Güneşin zevalinden gecenin karanlığına kadar namaz kıl ve Sabah Kuran'ını oku",
       fr: "Établis la prière depuis le déclin du soleil jusqu'à l'obscurité de la nuit; récite le Coran à l'aurore",
       zh: '从太阳偏斜到夜幕降临，坚持礼拜；诵读晨礼的古兰经',
-      ja: '太陽の傾きから夜の暗闇まで礼拝を確立し、ファジルに誦読しなさい'
+      ja: '太陽の傾きから夜の暗闇まで礼拝を確立し、ファジルに誦読しなさい', hi: 'सूरज ढलने से रात के अंधेरे तक नमाज़ क़ायम करो; और फ़ज्र में क़ुरआन पढ़ो', es: 'Establece la oración desde que el sol declina hasta la oscuridad de la noche; recita en el fajr', ru: 'Совершай намаз от полуденного склонения солнца до наступления ночного мрака; читай Коран на рассвете', de: 'Verrichte das Gebet vom Neigen der Sonne bis zum Dunkel der Nacht; die Lesung beim Fadschr', fa: 'نماز را از زوال خورشید تا تاریکی شب برپا دار؛ و قرآنِ فجر را بخوان', ms: 'Dirikanlah solat dari gelincir matahari hingga gelap malam; dan bacaan pada waktu Subuh'
     }
   },
   {
@@ -780,7 +780,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: "Fesübhanallah — akşama girerken ve sabaha çıkarken Allah'ı tesbih edin",
       fr: "Fa-subḥānallāh — glorifiez Allah au soir et au matin; à Lui la louange dans les cieux et la terre",
       zh: '你们当在傍晚和早晨赞颂真主，天地间一切赞颂都归于祂',
-      ja: 'ファ・スブハーナッラー：夕べに入るときと朝を迎えるとき、アッラーを讃えなさい'
+      ja: 'ファ・スブハーナッラー：夕べに入るときと朝を迎えるとき、アッラーを讃えなさい', hi: 'फ़-सुब्हानल्लाह — अल्लाह की तस्बीह करो जब तुम शाम करो और जब सुबह करो', es: 'Fa-subḥānallāh — glorificad a Allah al llegar la tarde y al llegar la mañana', ru: 'Фа-субхана-Ллах — славьте Аллаха, когда наступает вечер и когда наступает утро', de: 'Fa-subḥānallāh – preist Allah, wenn ihr den Abend erreicht und wenn ihr den Morgen erreicht', fa: '«فسبحان الله» — الله را به پاکی یاد کنید آنگاه که به شام درمی‌آیید و آنگاه که به صبح درمی‌آیید', ms: 'Fa-subhanallah — bertasbihlah kepada Allah ketika kamu berada di waktu petang dan ketika kamu berada di waktu pagi'
     }
   },
   {
@@ -794,7 +794,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: "Allah'ı çokça zikredin ve sabah akşam O'nu tesbih edin",
       fr: "Invoquez Allah d'une invocation abondante et glorifiez-Le matin et soir",
       zh: '你们当多多记念真主，当在早晚赞颂祂',
-      ja: 'アッラーを多く念じ、朝夕に主を讃えなさい'
+      ja: 'アッラーを多く念じ、朝夕に主を讃えなさい', hi: 'अल्लाह को बहुत ज़्यादा याद करो और सुबह-शाम उसकी तस्बीह करो', es: 'Recordad a Allah con abundancia y glorificadle por la mañana y por la tarde', ru: 'Поминайте Аллаха многократно и славьте Его утром и вечером', de: 'Gedenkt Allahs in häufigem Gedenken und preist Ihn morgens und abends', fa: 'الله را بسیار یاد کنید و صبح و شام او را به پاکی بستایید', ms: 'Ingatlah Allah dengan zikir yang sebanyak-banyaknya dan bertasbihlah kepada-Nya pagi dan petang'
     }
   },
   {
@@ -808,7 +808,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: 'Güneşin doğuşundan önce ve batışından önce Rabbini hamd ile tesbih et, gece saatlerinde de',
       fr: 'Célèbre la louange de ton Seigneur avant le lever et avant le coucher du soleil, et aux heures de la nuit',
       zh: '在日出之前和日落之前，你当赞颂你的主，在夜间的时刻也当赞颂',
-      ja: '日の出前と日没前に主を讃えて唱念し、夜の時間にも讃えなさい'
+      ja: '日の出前と日没前に主を讃えて唱念し、夜の時間にも讃えなさい', hi: 'सूरज निकलने से पहले और डूबने से पहले, और रात की घड़ियों में अपने रब की तारीफ़ के साथ तस्बीह करो', es: 'Glorifica con alabanzas a tu Señor antes de la salida del sol y antes de su puesta, y en horas de la noche', ru: 'Славь хвалой своего Господа до восхода солнца и до заката, и в часы ночи', de: 'Lobpreise deinen Herrn vor Sonnenaufgang und vor Sonnenuntergang und in Stunden der Nacht', fa: 'پیش از برآمدن خورشید و پیش از غروب آن، و در ساعت‌هایی از شب، پروردگارت را با ستایش به پاکی یاد کن', ms: 'Bertasbihlah dengan memuji Tuhanmu sebelum terbit matahari dan sebelum terbenamnya, serta pada waktu-waktu malam'
     }
   },
   {
@@ -822,7 +822,7 @@ const MORNING_EVENING_QURANIC_DUAS = [
       tr: 'Namazım, ibadetim, hayatım ve ölümüm alemlerin Rabbi Allah içindir',
       fr: "Ma prière, mon sacrifice, ma vie et ma mort appartiennent à Allah, Seigneur des mondes",
       zh: '我的礼拜、我的献祭、我的生和我的死，都是为了众世界的主真主',
-      ja: '私の礼拝、私の犠牲、私の生と死は、諸世界の主アッラーのためにある'
+      ja: '私の礼拝、私の犠牲、私の生と死は、諸世界の主アッラーのためにある', hi: 'मेरी नमाज़, मेरी क़ुर्बानी, मेरा जीना और मेरा मरना अल्लाह के लिए है, जो सारे जहानों का रब है', es: 'Mi oración, mi sacrificio, mi vida y mi muerte son para Allah, Señor de los mundos', ru: 'Мой намаз, моё жертвоприношение, моя жизнь и моя смерть — для Аллаха, Господа миров', de: 'Mein Gebet, mein Opfer, mein Leben und mein Sterben gehören Allah, dem Herrn der Welten', fa: 'نمازم، قربانی‌ام، زندگی‌ام و مرگم برای الله، پروردگار جهانیان است', ms: 'Sesungguhnya solatku, ibadahku, hidupku dan matiku hanyalah untuk Allah, Tuhan sekalian alam'
     }
   }
 ];

@@ -1245,6 +1245,8 @@
  "kids_in_quran": "في القرآن",
  "names_reflect_lead": "تأمّل في الله بأنه",
  "names_reflect_body": "كيف يمكن لمعرفة هذا الاسم أن تعمّق إيمانك وتوجّه حياتك اليوم؟",
+ "names_hadith_heading": "حديث",
+ "names_invoke_heading": "دعاء",
  "names_search_quran": "ابحث في القرآن",
  "names_learn_more": "اعرف المزيد",
  "names_in_quran": "يرد في القرآن",

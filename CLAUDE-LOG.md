@@ -12,6 +12,22 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
+## i18n gap wave (2026-10-15, user said "continue"): DONE, committed v953, NOT pushed/deployed (v952 also unpushed)
+- v952 translations were not shown where render code bypassed CI18N: Amal, 99 Names detail, Tajweed makharij and
+  noon/meem cards, app.js tajweed popup, Ponder chips. Fixed. Amal `item[lang]` gave Indonesian readers the record
+  SLUG (id/ar/tr are record fields there): desc() reads inline bn/zh/ja only; lib.js RECORD_FIELDS.
+- Dead fallback tables deleted (every key already in all packs): AMAL_STR (was read BEFORE the packs), PONDER_I18N,
+  LEARN/VOCAB/SALAH_I18N_FALLBACK. New pack keys names_hadith_heading / names_invoke_heading.
+- Translated: C7 (Resources, vocab theme names, Amal; 215 strings x 13) + tools/content-i18n/inline.js filled 5,586
+  missing inline values (99 Names, Prophets, all dua titles, topic names, vocab glosses, kids duas) in hi es ru de fa
+  ms (+ id fr tr kids). Mushaf edition labels by hand. 110 zh/ja English copies removed.
+- Source fixes: vocab mathal ref 2:113 -> 2:26 (2:113 has mithl); Urdu salh typo.
+- EN wording flagged by translators, NOT changed (would invalidate translations; decide later): VOCAB Ahmad "more
+  praiseworthy"; KIDS_DUA_L10N|13 'afuww "Forgiving" (pardon); PROTECTION_DUAS 5/9 near-duplicate titles;
+  HARDSHIP_DUAS|9 and WEALTH_DUAS|0 misfiled; PROPHET_DUAS|0 "the fall"; RESOURCES "(Bangla)"; ar-Rahman/ar-Rahim
+  "Most Merciful" used for both across modules; MORNING_EVENING_ADHKAR|4 (ten-tahlil reward not morning/evening
+  specific) and |6 (Muslim: once in the evening, not three times) need a hadith check.
+
 ## Module-content i18n wave (2026-10-14): committed v952, NOT pushed/deployed (user said stop; ship on request)
 - All routed module content translated into 13 languages; namespace files for 7 modules (code: CI18N.tr(.., ns)).
 - Fact-check audits fixed ~500 EN+BN strings across 9 modules; 45 changed hadith citations verified on sunnah.com.

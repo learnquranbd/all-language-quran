@@ -116,9 +116,10 @@ in parallel on claude-max, 2 on claude-pro. Run `budget.js` first.
   (~4,000 strings / ~99k words; tools/content-i18n/). Seven modules use namespace files
   data/content-i18n/<ns>/<lang>.json (hope, surahnames, prophets, mutashabihat, handwriting, tajweed, kids).
   Translators' flags led to fact-check audits of Handwriting, Hope, Prophets, Surah names, Kids, Sahaba/Seerah,
-  Tajweed, Mutashabihat/Nuzul and Islam rulings (~500 EN+BN fixes). Still English-only: Sahaba/Seerah/Prophets
-  ARTICLES (~222k words) and ~1.5k words of unrouted UI fallback tables. Open review items: scratchpad list in the
-  v952 commit message is summarised in CLAUDE-LOG.md.
+  Tajweed, Mutashabihat/Nuzul and Islam rulings (~500 EN+BN fixes). v953 (2026-10-15) fixed screens that never
+  showed those translations (render code skipping CI18N), translated Resources/Amal/vocab themes, and filled objects
+  carrying only some inline languages with tools/content-i18n/inline.js. Still English-only: Sahaba/Seerah/Prophets
+  ARTICLES (~222k words). Open review items are in CLAUDE-LOG.md.
 - Tadabbur cards: translated into all 13 languages (ur ar hi id v945-v948; es ms tr fa fr de ru zh ja
   v949-v951, deployed 2026-10-14). data/content-i18n/tadabbur/<lang>.json, loaded via CI18N.tr(lang, en,
   'tadabbur'); recipe in tools/tadabbur-i18n/ (pilot C1 -> STYLE-<lang>.md -> chunks -> check-tr -> merge-tr).

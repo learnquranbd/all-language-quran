@@ -1245,6 +1245,8 @@
  "kids_in_quran": "en el Corán",
  "names_reflect_lead": "Reflexiona sobre Allah como",
  "names_reflect_body": "¿Cómo puede conocer este nombre fortalecer tu fe y guiar tu forma de vivir hoy?",
+ "names_hadith_heading": "Hadiz",
+ "names_invoke_heading": "Súplica (duʿāʾ)",
  "names_search_quran": "Buscar en el Corán",
  "names_learn_more": "Saber más",
  "names_in_quran": "Aparece en el Corán",

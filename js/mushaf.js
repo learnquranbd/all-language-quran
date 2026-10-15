@@ -34,31 +34,31 @@ class MushafView {
     const madaniWidth = ((window.devicePixelRatio || 1) > 1.5) ? 1260 : 1024;
     this.EDITIONS = {
       tajweed: {
-        label: { en: 'Tajweed (colour-coded)', bn: 'তাজউইদ (রঙিন)', zh: ' tajweed（彩色标记）', ja: 'タジュウィード（色分け）'},
+        label: { en: 'Tajweed (colour-coded)', bn: 'তাজউইদ (রঙিন)', zh: '彩色泰吉威德', ja: 'タジュウィード（色分け）', ur: 'رنگوں میں تجوید', ar: 'التجويد بالألوان', hi: 'रंगों में तजवीद', id: 'Tajwid berwarna', es: 'Taywid en color', fr: 'Le tajwid en couleurs', ru: 'Таджвид в цвете', de: 'Tadschwid in Farbe', tr: 'Renkli tecvid', fa: 'تجوید رنگی', ms: 'Tajwid berwarna'},
         // Page N of the mushaf is file (N-1).jpg — see mapping note in the header.
         url: (page) => `${QuranData.legacyImgBase}/resources/images/tajweed_quran/${page - 1}.jpg`
       },
       madani: {
-        label: { en: 'Madani Mushaf (KFGQPC)', bn: 'মাদানি মুসহাফ (কিং ফাহাদ)', zh: 'Madani Mushaf (KFGQPC)', ja: 'Madani Mushaf (KFGQPC)'},
+        label: { en: 'Madani Mushaf (KFGQPC)', bn: 'মাদানি মুসহাফ (কিং ফাহাদ)', zh: '麦地那版古兰经（法赫德国王印刷厂）', ja: 'マディーナ版ムスハフ（ファハド国王印刷所）', ur: 'مدنی مصحف (شاہ فہد کمپلیکس)', ar: 'المصحف المدني (مجمع الملك فهد)', hi: 'मदनी मुसहफ़ (KFGQPC)', id: 'Mushaf Madinah (KFGQPC)', es: 'Mushaf de Medina (KFGQPC)', fr: 'Mushaf de Médine (KFGQPC)', ru: 'Мединский мусхаф (KFGQPC)', de: 'Medina-Mushaf (KFGQPC)', tr: 'Medine Mushafı (KFGQPC)', fa: 'مصحف مدینه (مجمع ملک فهد)', ms: 'Mushaf Madinah (KFGQPC)'},
         url: (page) => `https://files.quran.app/hafs/madani/width_${madaniWidth}/page${String(page).padStart(3, '0')}.png`
       },
       // --- QuranHub 604-page scans via jsDelivr (page token = plain integer,
       // no zero-padding). Warsh entries are a DIFFERENT qiraah (riwayah). ---
       kfgqpc_hafs: {
-        label: { en: 'Madani Hafs — KFGQPC (hi-res)', bn: 'মাদানি হাফস — কিং ফাহাদ (উচ্চ রেজ.)', zh: 'Madani Hafs — KFGQPC (hi-res)', ja: 'Madani Hafs — KFGQPC (hi-res)'},
+        label: { en: 'Madani Hafs — KFGQPC (hi-res)', bn: 'মাদানি হাফস — কিং ফাহাদ (উচ্চ রেজ.)', zh: '麦地那哈夫斯版——法赫德国王印刷厂（高清）', ja: 'マディーナ版ハフス — ファハド国王印刷所（高解像度）', ur: 'مدنی حفص — شاہ فہد کمپلیکس (ہائی ریزولوشن)', ar: 'حفص المدني — مجمع الملك فهد (دقة عالية)', hi: 'मदनी हफ़्स — KFGQPC (हाई-रेज़)', id: 'Hafs Madinah — KFGQPC (resolusi tinggi)', es: 'Hafs de Medina — KFGQPC (alta resolución)', fr: 'Hafs de Médine — KFGQPC (haute résolution)', ru: 'Мединский Хафс — KFGQPC (высокое разрешение)', de: 'Medina-Hafs — KFGQPC (hochauflösend)', tr: 'Medine Hafs — KFGQPC (yüksek çözünürlük)', fa: 'حفص مدینه — مجمع ملک فهد (وضوح بالا)', ms: 'Hafs Madinah — KFGQPC (resolusi tinggi)'},
         url: (page) => `https://cdn.jsdelivr.net/gh/QuranHub/quran-pages-images@main/kfgqpc/hafs-wasat/${page}.jpg`
       },
       ayat_hafs: {
-        label: { en: 'Hafs (plain Uthmani)', bn: 'হাফস (সাধারণ উসমানি)', zh: '哈夫斯（标准奥斯曼体）', ja: 'ハフス（標準ウスマーン字体）'},
+        label: { en: 'Hafs (plain Uthmani)', bn: 'হাফস (সাধারণ উসমানি)', zh: '哈夫斯（标准奥斯曼体）', ja: 'ハフス（標準ウスマーン字体）', ur: 'حفص (سادہ عثمانی رسم)', ar: 'حفص (الرسم العثماني بلا تلوين)', hi: 'हफ़्स (सादा उस्मानी लिपि)', id: 'Hafs (Utsmani polos)', es: 'Hafs (uthmaní sin colores)', fr: 'Hafs (écriture othmanienne simple)', ru: 'Хафс (простой усманский шрифт)', de: 'Hafs (schlichte uthmanische Schrift)', tr: 'Hafs (sade Osmanî hat)', fa: 'حفص (رسم عثمانی ساده)', ms: 'Hafs (Uthmani biasa)'},
         url: (page) => `https://cdn.jsdelivr.net/gh/QuranHub/quran-pages-images@main/ayat/hafs/${page}.png`
       },
       warsh: {
         // Warsh ʿan Nāfiʿ — a distinct riwayah (differs in recitation & some spellings)
-        label: { en: 'Warsh (Warsh ʿan Nāfiʿ)', bn: 'ওয়ারশ (রেওয়ায়েত)', zh: '瓦尔什（瓦尔什·安·纳菲）', ja: 'ワルシュ（ワルシュ・アン・ナーフィ）'},
+        label: { en: 'Warsh (Warsh ʿan Nāfiʿ)', bn: 'ওয়ারশ (রেওয়ায়েত)', zh: '瓦尔什（瓦尔什·安·纳菲）', ja: 'ワルシュ（ワルシュ・アン・ナーフィ）', ur: 'ورش (ورش عن نافع)', ar: 'ورش (ورش عن نافع)', hi: 'वर्श (वर्श अन नाफ़े)', id: 'Warsy (Warsy ʿan Nāfiʿ)', es: 'Warsh (Warsh ʿan Nāfiʿ)', fr: 'Warch (Warch ʿan Nâfiʿ)', ru: 'Варш (Варш ан Нафи)', de: 'Warsch (Warsch ʿan Nāfiʿ)', tr: 'Verş (Verş an Nâfi)', fa: 'ورش (ورش از نافع)', ms: 'Warsh (Warsh ʿan Nāfiʿ)'},
         url: (page) => `https://cdn.jsdelivr.net/gh/QuranHub/quran-pages-images@main/ayat/warsh/${page}.png`
       },
       kfgqpc_warsh: {
-        label: { en: 'Warsh — KFGQPC (hi-res)', bn: 'ওয়ারশ — কিং ফাহাদ (উচ্চ রেজ.)', zh: 'Warsh — KFGQPC (hi-res)', ja: 'Warsh — KFGQPC (hi-res)'},
+        label: { en: 'Warsh — KFGQPC (hi-res)', bn: 'ওয়ারশ — কিং ফাহাদ (উচ্চ রেজ.)', zh: '瓦尔什——法赫德国王印刷厂（高清）', ja: 'ワルシュ — ファハド国王印刷所（高解像度）', ur: 'ورش — شاہ فہد کمپلیکس (ہائی ریزولوشن)', ar: 'ورش — مجمع الملك فهد (دقة عالية)', hi: 'वर्श — KFGQPC (हाई-रेज़)', id: 'Warsy — KFGQPC (resolusi tinggi)', es: 'Warsh — KFGQPC (alta resolución)', fr: 'Warch — KFGQPC (haute résolution)', ru: 'Варш — KFGQPC (высокое разрешение)', de: 'Warsch — KFGQPC (hochauflösend)', tr: 'Verş — KFGQPC (yüksek çözünürlük)', fa: 'ورش — مجمع ملک فهد (وضوح بالا)', ms: 'Warsh — KFGQPC (resolusi tinggi)'},
         url: (page) => `https://cdn.jsdelivr.net/gh/QuranHub/quran-pages-images@main/kfgqpc/warsh/${page}.jpg`
       }
     };

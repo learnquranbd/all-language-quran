@@ -233,15 +233,6 @@ const PONDER_THEMES = {
                 refs: ['3:38', '7:23', '12:101', '14:40-41', '20:25-28', '21:87', '21:89', '26:83-85', '2:128', '37:100', '19:4', '23:118', '2:125-126', '2:249-251', '3:146-148', '7:126', '10:11', '11:47', '19:8', '20:30', '21:72', '25:35', '26:12', '39:46-47', '114:1'] }
 };
 
-// In-module en/bn fallbacks for NEW UI strings (render before translations.js
-// is updated). t() returns the key unchanged when it is not yet merged.
-const PONDER_I18N = {
-  ponder_themes: { en: 'Reflect by theme', bn: 'থিম অনুযায়ী ভাবুন', zh: '按主题反思', ja: 'テーマ別に振り返る'},
-  ponder_all:    { en: 'All', bn: 'সব', zh: '全部', ja: 'すべて'},
-  ponder_prev:   { en: 'Previous ayah', bn: 'পূর্ববর্তী আয়াত', zh: '上一节', ja: '前の節'},
-  ponder_next:   { en: 'Next ayah', bn: 'পরবর্তী আয়াত', zh: '下一节', ja: '次の節'}
-};
-
 class PonderCard {
   constructor() {
     this.container = document.getElementById('ayah-container');
@@ -528,16 +519,11 @@ class PonderCard {
       </div>`;
   }
 
-  // ---- i18n fallback for new UI strings ------------------------------------
-  L(key) {
-    const s = t(key, this.language);
-    if (s !== key) return s;
-    const fb = PONDER_I18N[key];
-    return fb ? (fb[this.language] || fb.en) : key;
-  }
+  L(key) { return t(key, this.language); }
   themeLabel(id) {
     const o = PONDER_THEMES[id];
-    return o ? (o[this.language] || o.en) : '';
+    if (!o) return '';
+    return o[this.language] || (typeof CI18N !== 'undefined' && CI18N.tr(this.language, o.en)) || o.en;
   }
 
   // ---- pool + position -----------------------------------------------------

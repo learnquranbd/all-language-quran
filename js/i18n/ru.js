@@ -1245,6 +1245,8 @@
  "kids_in_quran": "в Коране",
  "names_reflect_lead": "Поразмышляйте об Аллахе как о",
  "names_reflect_body": "Как знание этого имени может углубить вашу веру и повлиять на то, как вы живёте сегодня?",
+ "names_hadith_heading": "Хадис",
+ "names_invoke_heading": "Мольба (дуа)",
  "names_search_quran": "Найти в Коране",
  "names_learn_more": "Подробнее",
  "names_in_quran": "Встречается в Коране",

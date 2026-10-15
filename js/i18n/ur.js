@@ -1245,6 +1245,8 @@
  "kids_in_quran": "قرآن میں",
  "names_reflect_lead": "اللہ پر غور کریں بحیثیت",
  "names_reflect_body": "اس نام کو جاننا آپ کے ایمان کو کیسے گہرا کر سکتا ہے اور آج آپ کی زندگی کو کیسے سنوار سکتا ہے؟",
+ "names_hadith_heading": "حدیث",
+ "names_invoke_heading": "دعا",
  "names_search_quran": "قرآن میں تلاش کریں",
  "names_learn_more": "مزید جانیں",
  "names_in_quran": "قرآن میں آتا ہے",

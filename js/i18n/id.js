@@ -1245,6 +1245,8 @@
  "kids_in_quran": "dalam Al-Qur'an",
  "names_reflect_lead": "Renungkan Allah sebagai",
  "names_reflect_body": "Bagaimana mengenal nama ini dapat memperdalam iman dan membentuk cara hidupmu hari ini?",
+ "names_hadith_heading": "Hadis",
+ "names_invoke_heading": "Doa",
  "names_search_quran": "Cari dalam Al-Qur'an",
  "names_learn_more": "Pelajari lebih lanjut",
  "names_in_quran": "Muncul dalam Al-Qur'an",

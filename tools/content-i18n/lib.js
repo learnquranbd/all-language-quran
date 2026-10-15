@@ -14,6 +14,10 @@ const NS_BY_FILE = {
 };
 const SHARED_CONSTS = new Set(['TAJWEED_LESSONS']);   // read by app.js, learn.js, quiz-center.js too
 const SKIP_FILES = /tadabbur-data|-articles\.js$/;    // own pipeline / separate wave
+/* Records whose id / ar / tr keys are a slug, the Arabic text and a transliteration, not languages. */
+const RECORD_FIELDS = { AMAL_ITEMS: ['id'], MORNING_EVENING_ADHKAR: ['id', 'ar', 'tr'], AFTER_SALAH: ['id', 'ar', 'tr'] };
+/** The 13 target languages an object carries inline (a const's record fields excluded). */
+const inlineLangs = (name, keys) => LANGS.filter((l) => keys.includes(l) && !(RECORD_FIELDS[name] || []).includes(l));
 
 const AR = '\\u0600-\\u06FF\\u0750-\\u077F\\u08A0-\\u08FF\\uFB50-\\uFDFF\\uFE70-\\uFEFF';
 const AR_RUN = new RegExp(`[${AR}]+(?:[ \\u00A0]+[${AR}]+)*`, 'g');
@@ -34,7 +38,6 @@ function dicts() {
 
 /** Every routed const and its English strings: [{file, name, ns, strings:[...]}]. */
 function sources() {
-  const INLINE = LANGS;
   const jsFiles = fs.readdirSync(path.join(ROOT, 'js')).filter((f) => f.endsWith('.js')).map((f) => 'js/' + f);
   const src = Object.fromEntries(jsFiles.map((f) => [f, fs.readFileSync(path.join(ROOT, f), 'utf8')]));
   const out = [];
@@ -49,7 +52,7 @@ function sources() {
         if (Array.isArray(n)) return n.forEach(walk);
         if (typeof n !== 'object') return;
         const keys = Object.keys(n);
-        if ((keys.includes('en') || keys.some((k) => /En$/.test(k))) && INLINE.filter((l) => keys.includes(l)).length >= 3) return;
+        if ((keys.includes('en') || keys.some((k) => /En$/.test(k))) && inlineLangs(name, keys).length >= 3) return;
         for (const [k, v] of Object.entries(n)) {
           if (k === 'en' || /En$/.test(k)) {
             for (const s of (Array.isArray(v) ? v : [v])) if (typeof s === 'string' && s.trim() && /[a-zA-Z]{3}/.test(s) && !seen.has(s)) { seen.add(s); strings.push(s); }
@@ -65,4 +68,4 @@ function sources() {
   }
   return out;
 }
-module.exports = { fs, path, ROOT, WORK, LANGS, NS_BY_FILE, mask, unmask, dicts, sources };
+module.exports = { fs, path, ROOT, WORK, LANGS, NS_BY_FILE, inlineLangs, mask, unmask, dicts, sources };

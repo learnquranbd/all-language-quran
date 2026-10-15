@@ -473,6 +473,8 @@ const TRANSLATIONS = {
    "kids_in_quran": "in the Quran",
    "names_reflect_lead": "Reflect on Allah as",
    "names_reflect_body": "How can knowing this name deepen your faith and shape how you live today?",
+   "names_hadith_heading": "Hadith",
+   "names_invoke_heading": "Du'a Invocation",
    "names_search_quran": "Find in Quran",
    "names_learn_more": "Learn more",
    "names_in_quran": "Appears in the Quran",

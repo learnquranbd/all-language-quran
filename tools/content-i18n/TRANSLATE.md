@@ -26,3 +26,14 @@ then combine with a script. Your helper files stay in `work/<C>/<lang>-parts/` (
 ## Done means
 `node tools/content-i18n/check.js <C> <lang>` prints CLEAN. Report: strings translated, any NEW terminology
 STYLE-<lang>.md does not cover (one line each), anything unsure, suspected English errors (id + why).
+
+## Inline chunks (`work/I-<lang>/`)
+Objects that already carry several languages inline ({ en, bn, fr, id, ur, tr, ar, zh, ja }) but not yours. Ids are
+`<file>|<CONST>|<path>`, e.g. `js/vocab-data.js|VOCAB_WORDS|12.meanings` (a Quranic word's gloss),
+`js/topics-life-duas.js|TRAVEL_DUAS|3.names` (a du'a's title), `js/names-data.js|NAMES_99|4.meanings` (a Name of
+Allah). Input `work/I-<lang>/en.json`, output `work/I-<lang>/tr-<lang>.json`, gate `check.js I-<lang> <lang>`.
+- To see the Arabic word or the whole entry, open the file at that const (`work/inline-index.json` has file + path);
+  the sibling languages (fr, id, tr, ur…) show how others rendered it.
+- Glosses stay glosses: short, the same alternatives separated the same way (`face; countenance`), no articles added
+  where the English has none. Titles stay titles. Names of Allah: the established rendering in your language.
+- `tools/content-i18n/inline.js apply --write` writes the result into the source files (the orchestrator runs it).

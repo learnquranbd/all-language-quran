@@ -1245,6 +1245,8 @@
  "kids_in_quran": "Kuran'da",
  "names_reflect_lead": "Allah üzerine düşün:",
  "names_reflect_body": "Bu ismi bilmek imanını nasıl derinleştirebilir ve bugün nasıl yaşadığını nasıl şekillendirebilir?",
+ "names_hadith_heading": "Hadis",
+ "names_invoke_heading": "Dua",
  "names_search_quran": "Kuran'da bul",
  "names_learn_more": "Daha fazla öğren",
  "names_in_quran": "Kuran'da geçer",
