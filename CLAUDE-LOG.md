@@ -12,6 +12,15 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
+## Usage at last check (2026-10-15): 7d 95% = STOP, resets Mon 19 Oct 16:00. 5h 6%. Nothing merged uncommitted; v959 pushed + deployed.
+
+## Tadabbur articles Bengali review (2026-10-15, user: "run one by one, save after each")
+- Last Bengali module: js/tadabbur-articles/*.js, 25,527 pairs / 114 shards, 605 dash hits. bn.js now takes
+  TADABBUR_ARTICLES@<surah> (extract js/tadabbur-articles/<s>.js TADABBUR_ARTICLES@<s> 100). Order by hits:
+  2 3 17 16 18 21 4 6 20 33 39 7 10 14 ... One agent per 100-pair packet, sequential; apply --write + test +
+  commit after EVERY packet (local commit = saved state). Bump/push/deploy at the end of each shard.
+- Progress (shard: packets done): 2: 0/12
+
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
 - Tool tools/bn-review/bn.js extract <file> <CONST> | apply <CONST> [--write]; brief tools/bn-review/BRIEF.md (follows
   tools/BANGLA-STYLE.md). Fixes keyed by JSON path; apply checks numbers, honorifics, dashes, wrong-register words.

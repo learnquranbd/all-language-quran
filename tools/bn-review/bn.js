@@ -2,6 +2,7 @@
 // packets, then write reviewed Bengali back into the source file in place.
 //   node tools/bn-review/bn.js extract <file> <CONST> [stringsPerChunk=220] -> work/<CONST>/R<n>/review.json
 //   node tools/bn-review/bn.js apply <CONST> [--write]   -> applies every work/<CONST>/R<n>/bn-fixes.json
+// A shard of a table split across files takes a tag: extract js/tadabbur-articles/2.js TADABBUR_ARTICLES@2
 // Ids are JSON paths into the const ("12.points.0.bn", "3.summaryBn"). apply refuses a fix whose English changed
 // since extraction, and checks each new string: verse refs and numbers kept, honorifics kept, at most 2 em dashes,
 // no wrong-register words (tools/BANGLA-STYLE.md).
@@ -31,7 +32,7 @@ function pairs(file, name) {
       if (enKey && typeof v === 'string' && typeof n[enKey] === 'string' && v.trim()) out.push({ id: p.concat(k).join('.'), en: n[enKey], bn: v });
       else walk(v, p.concat(k));
     }
-  })(L.get(L.load(file), name), []);
+  })(L.get(L.load(file), name.split('@')[0]), []);
   return out;
 }
 
@@ -82,8 +83,13 @@ function apply(name, write) {
   const src = fs.readFileSync(path.join(ROOT, file), 'utf8');
   const ast = acorn.parse(src, { ecmaVersion: 'latest', sourceType: 'script' });
   let root = null;
-  const want = name === 'BN_PACK' ? 'pack' : name;
+  const want = name === 'BN_PACK' ? 'pack' : name.split('@')[0];
   for (const st of ast.body) if (st.type === 'VariableDeclaration') for (const dcl of st.declarations) if (dcl.id.name === want) root = dcl.init;
+  // Tadabbur shards fill the table through Object.assign(TADABBUR_ARTICLES, {...}): that literal is the root
+  for (const st of ast.body) {
+    const e = st.type === 'ExpressionStatement' && st.expression;
+    if (e && e.type === 'CallExpression' && e.arguments.length === 2 && e.arguments[0].name === want && e.arguments[1].type === 'ObjectExpression') root = e.arguments[1];
+  }
   if (!root) (function find(n) {   // not top level: search the whole tree once
     if (!n || typeof n.type !== 'string' || root) return;
     if (n.type === 'VariableDeclarator' && n.id.name === want) { root = n.init; return; }
