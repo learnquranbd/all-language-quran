@@ -65,10 +65,11 @@ class SahabaView {
   }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
   // Localized content picker: bn → CI18N knowledgebase → en fallback.
-  lc(o) {
+  /** `ns` names a translation file consulted first (an article's own: art-<module>/<id>). */
+  lc(o, ns) {
     if (!o) return '';
     if (this.language === 'bn' && o.bn) return o.bn;
-    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en); if (tr) return tr; }
+    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en, ns); if (tr) return tr; }
     return o.en || o.bn || '';
   }
   loc(item, base) { return this.lc({ en: item[base + 'En'], bn: item[base + 'Bn'] }); }
@@ -405,7 +406,7 @@ class SahabaView {
     /* Long-form article. Fetched on first detail open, not with the tab — see
        js/article-view.js. Renders a placeholder until it lands, then repaints. */
     const articleHtml = (typeof LQArticle !== 'undefined' && LQArticle) ? LQArticle.html('sahaba', c.id, {
-      lc: (x) => this.lc(x),
+      lc: (x) => this.lc(x, 'art-sahaba/' + c.id),
       esc: (s) => this.esc(s),
       title: this.tt('sahaba_label_article'),
       onLoad: () => { if (this.selected === c.id) this.renderDetailInline(); },

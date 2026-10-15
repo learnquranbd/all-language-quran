@@ -73,10 +73,11 @@ class ProphetsView {
   }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
   // Localized content picker: bn → CI18N knowledgebase → en fallback.
-  lc(o) {
+  /** `ns` names a translation file consulted first (an article's own: art-<module>/<id>). */
+  lc(o, ns) {
     if (!o) return '';
     if (this.language === 'bn' && o.bn) return o.bn;
-    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en, 'prophets'); if (tr) return tr; }
+    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en, ns || 'prophets'); if (tr) return tr; }
     return o.en || o.bn || '';
   }
   pick(item, field) {
@@ -922,7 +923,7 @@ class ProphetsView {
     /* Long-form article. Fetched on first detail open, not with the tab — see
        js/article-view.js. Renders a placeholder until it lands, then repaints. */
     const articleHtml = (typeof LQArticle !== 'undefined' && LQArticle) ? LQArticle.html('prophets', p.id, {
-      lc: (x) => this.lc(x),
+      lc: (x) => this.lc(x, 'art-prophets/' + p.id),
       esc: (s) => this.esc(s),
       title: this.tt('prophets_label_article'),
       onLoad: () => { if (this.selected === p.id) this.renderDetailInline(); },

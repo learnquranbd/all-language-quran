@@ -35,6 +35,18 @@ for (const id of Object.keys(EN)) {
 // ids dropped from en.json because their English was rewritten again (see prune.js) are ignored, not errors
 const INDEX = JSON.parse(fs.readFileSync(path.join(WORK, 'index.json'), 'utf8'));
 for (const id of Object.keys(TR)) if (!(id in EN) && !(id in INDEX)) E(id, 'not in en.json');
+// Quran quoted inside ﴿ ﴾ must be the Quran's own words (a contiguous run from one ayah, as filled from
+// data/quran-words.json by a {Q:s:a:from-to} placeholder), never written from memory.
+if (Object.values(TR).some((t) => /﴿/.test(t))) {
+  const QW = JSON.parse(fs.readFileSync(path.join(__dirname, '../../data/quran-words.json'), 'utf8'));
+  // NFC: shadda+vowel order differs between sources but is canonically equal
+  const norm = (w) => w.normalize('NFC').replace(/[\u06D6-\u06ED]/g, '').trim();
+  const ayat = Object.values(QW).map((ws) => ' ' + ws.map(norm).join(' ') + ' ');
+  for (const [id, t] of Object.entries(TR)) for (const m of t.matchAll(/﴿([^﴾]*)﴾/g)) {
+    const q = ' ' + m[1].trim().split(/\s+/).map(norm).join(' ') + ' ';
+    if (!ayat.some((x) => x.includes(q))) E(id, `﴿${m[1].slice(0, 40)}…﴾ is not an exact run of Quran words`);
+  }
+}
 if (MARK[lang] && !MARK[lang].test(Object.values(TR).join(' '))) err.push(`no ${lang} marker words found anywhere: is this the right language?`);
 console.log(`${c} ${lang}: ${Object.keys(TR).length}/${Object.keys(EN).length} strings`);
 err.slice(0, 40).forEach((x) => console.log('ERROR ' + x));

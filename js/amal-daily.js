@@ -231,7 +231,7 @@ const MORNING_EVENING_ADHKAR = [
   { id: 'audhu-kalimat', count: 3,
     ar: 'أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ',
     tr: 'A’udhu bikalimatil-lahit-tammati min sharri ma khalaq',
-    src: 'Muslim 2709',
+    src: 'Muslim 2709 · Tirmidhi 3604',
     en: '“I seek refuge in Allah’s perfect words from the evil of what He created” — three times in the evening; nothing will harm him that night.',
     bn: '“আউযু বিকালিমাতিল্লাহিত তাম্মাতি মিন শাররি মা খালাক্ব” — সন্ধ্যায় তিনবার; সে রাতে কিছুই তার ক্ষতি করবে না।',
     zh: '我求助于安拉完美的言辞免遭他所创造之物的伤害——晚上三遍；那晚没有什么能伤害他。',

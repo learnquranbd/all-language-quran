@@ -147,10 +147,11 @@ class SeerahView {
     return key;
   }
   esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
-  lc(o) {
+  /** `ns` names a translation file consulted first (an article's own: art-<module>/<id>). */
+  lc(o, ns) {
     if (!o) return '';
     if (this.language === 'bn' && o.bn) return o.bn;
-    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en); if (tr) return tr; }
+    if (o.en && typeof CI18N !== 'undefined') { const tr = CI18N.tr(this.language, o.en, ns); if (tr) return tr; }
     return o.en || o.bn || '';
   }
   pick(item, field) {
@@ -834,7 +835,7 @@ class SeerahView {
   articleHtml(ev) {
     if (typeof LQArticle === 'undefined' || !LQArticle || !LQArticle.has('seerah', ev.id)) return '';
     return `<div class="mt-3">${LQArticle.html('seerah', ev.id, {
-      lc: (x) => this.lc(x),
+      lc: (x) => this.lc(x, 'art-seerah/' + ev.id),
       esc: (s) => this.esc(s),
       title: this.tt('seerah_label_article'),
       open: false,

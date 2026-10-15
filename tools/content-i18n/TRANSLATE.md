@@ -37,3 +37,18 @@ Allah). Input `work/I-<lang>/en.json`, output `work/I-<lang>/tr-<lang>.json`, ga
 - Glosses stay glosses: short, the same alternatives separated the same way (`face; countenance`), no articles added
   where the English has none. Titles stay titles. Names of Allah: the established rendering in your language.
 - `tools/content-i18n/inline.js apply --write` writes the result into the source files (the orchestrator runs it).
+
+## Article chunks (`work/A<n>/`)
+Long-form biographies and history: Companions (`sahaba|<id>|…`), Seerah events (`seerah|<id>|…`), Prophets
+(`prophets|<id>|…`). Ids end in `<section>.h` (a section heading) or `<section>.<paragraph>`. Each chunk holds whole
+articles: read an article's paragraphs in order so the prose flows, names stay consistent and pronouns resolve.
+Output `work/A<n>/tr-<lang>.json`, gate `check.js A<n> <lang>`; the orchestrator merges with `articles.js merge`.
+- Prose for an educated general reader, the register of a good encyclopedia or biography in your language; same
+  voice as the Tadabbur articles. Keep every verse reference (2:255) and hadith citation (Bukhari 3673) as written.
+- These pages are read by Sunni and Shia learners alike: where the English attributes a view or marks something as
+  disputed ("it is reported", "according to some"), keep that hedge exactly; never firm it up or soften it.
+- Honorifics: follow STYLE-<lang>.md ((RA), ﷺ, (AS) equivalents) exactly as the English places them.
+- Arabic (ar) only: when the English quotes a verse, give the Quran's own words with a placeholder `{Q:s:a:from-to}`
+  (1-based word range of data/quran-words.json) or `{Q:s:a}` for a whole ayah, expanded into ﴿…﴾ by your combine
+  script (see tools/tadabbur-i18n/ar-combine-example.js); check.js rejects any ﴿…﴾ that is not an exact run. Never
+  type Quran or hadith Arabic from memory; for a hadith, paraphrase without « ».
