@@ -320,7 +320,7 @@ class NaflModule {
               {
                 emoji: '📖',
                 time: { en: 'Daily Quran — minimum 1 page', bn: 'প্রতিদিন কুরআন — ন্যূনতম ১ পাতা' },
-                acts: { en: '"Whoever reads a letter from the Book of Allah gets one good deed multiplied by ten." (Tirmidhi 2910) One page (~15 lines) is the minimum target; one juz\' (para) is the classical daily standard. Use recitation with tajwīd even if slow — quality over speed.', bn: '"যে আল্লাহর কিতাব থেকে একটি হরফ পড়বে তার একটি নেকি হবে যা দশগুণ।" (তিরমিযি ২৯১০) এক পাতা (~১৫ লাইন) ন্যূনতম লক্ষ্য; এক পারা ক্লাসিক্যাল দৈনিক মান। তাজবিদসহ পড়ুন যদিও ধীরে — গতির চেয়ে মান গুরুত্বপূর্ণ।' }
+                acts: { en: '"Whoever reads a letter from the Book of Allah gets one good deed multiplied by ten." (Tirmidhi 2910) One page (~15 lines) is the minimum target; one juz\' (para) is the classical daily standard. Use recitation with tajwīd even if slow — quality over speed.', bn: '"যে আল্লাহর কিতাব থেকে একটি হরফ পড়বে তার একটি নেকি হবে যা দশগুণ।" (তিরমিযি ২৯১০) এক পাতা (~১৫ লাইন) ন্যূনতম লক্ষ্য; এক পারা ক্লাসিক্যাল দৈনিক মান। তাজবীদসহ পড়ুন যদিও ধীরে — গতির চেয়ে মান গুরুত্বপূর্ণ।' }
               },
             ].map(s => `
               <div class="flex gap-3 p-3 rounded-xl bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-900/40">

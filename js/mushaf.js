@@ -34,18 +34,18 @@ class MushafView {
     const madaniWidth = ((window.devicePixelRatio || 1) > 1.5) ? 1260 : 1024;
     this.EDITIONS = {
       tajweed: {
-        label: { en: 'Tajweed (colour-coded)', bn: 'তাজউইদ (রঙিন)', zh: '彩色泰吉威德', ja: 'タジュウィード（色分け）', ur: 'رنگوں میں تجوید', ar: 'التجويد بالألوان', hi: 'रंगों में तजवीद', id: 'Tajwid berwarna', es: 'Taywid en color', fr: 'Le tajwid en couleurs', ru: 'Таджвид в цвете', de: 'Tadschwid in Farbe', tr: 'Renkli tecvid', fa: 'تجوید رنگی', ms: 'Tajwid berwarna'},
+        label: { en: 'Tajweed (colour-coded)', bn: 'তাজবীদ (রঙিন)', zh: '彩色泰吉威德', ja: 'タジュウィード（色分け）', ur: 'رنگوں میں تجوید', ar: 'التجويد بالألوان', hi: 'रंगों में तजवीद', id: 'Tajwid berwarna', es: 'Taywid en color', fr: 'Le tajwid en couleurs', ru: 'Таджвид в цвете', de: 'Tadschwid in Farbe', tr: 'Renkli tecvid', fa: 'تجوید رنگی', ms: 'Tajwid berwarna'},
         // Page N of the mushaf is file (N-1).jpg — see mapping note in the header.
         url: (page) => `${QuranData.legacyImgBase}/resources/images/tajweed_quran/${page - 1}.jpg`
       },
       madani: {
-        label: { en: 'Madani Mushaf (KFGQPC)', bn: 'মাদানি মুসহাফ (কিং ফাহাদ)', zh: '麦地那版古兰经（法赫德国王印刷厂）', ja: 'マディーナ版ムスハフ（ファハド国王印刷所）', ur: 'مدنی مصحف (شاہ فہد کمپلیکس)', ar: 'المصحف المدني (مجمع الملك فهد)', hi: 'मदनी मुसहफ़ (KFGQPC)', id: 'Mushaf Madinah (KFGQPC)', es: 'Mushaf de Medina (KFGQPC)', fr: 'Mushaf de Médine (KFGQPC)', ru: 'Мединский мусхаф (KFGQPC)', de: 'Medina-Mushaf (KFGQPC)', tr: 'Medine Mushafı (KFGQPC)', fa: 'مصحف مدینه (مجمع ملک فهد)', ms: 'Mushaf Madinah (KFGQPC)'},
+        label: { en: 'Madani Mushaf (KFGQPC)', bn: 'মাদানী মুসহাফ (কিং ফাহাদ)', zh: '麦地那版古兰经（法赫德国王印刷厂）', ja: 'マディーナ版ムスハフ（ファハド国王印刷所）', ur: 'مدنی مصحف (شاہ فہد کمپلیکس)', ar: 'المصحف المدني (مجمع الملك فهد)', hi: 'मदनी मुसहफ़ (KFGQPC)', id: 'Mushaf Madinah (KFGQPC)', es: 'Mushaf de Medina (KFGQPC)', fr: 'Mushaf de Médine (KFGQPC)', ru: 'Мединский мусхаф (KFGQPC)', de: 'Medina-Mushaf (KFGQPC)', tr: 'Medine Mushafı (KFGQPC)', fa: 'مصحف مدینه (مجمع ملک فهد)', ms: 'Mushaf Madinah (KFGQPC)'},
         url: (page) => `https://files.quran.app/hafs/madani/width_${madaniWidth}/page${String(page).padStart(3, '0')}.png`
       },
       // --- QuranHub 604-page scans via jsDelivr (page token = plain integer,
       // no zero-padding). Warsh entries are a DIFFERENT qiraah (riwayah). ---
       kfgqpc_hafs: {
-        label: { en: 'Madani Hafs — KFGQPC (hi-res)', bn: 'মাদানি হাফস — কিং ফাহাদ (উচ্চ রেজ.)', zh: '麦地那哈夫斯版——法赫德国王印刷厂（高清）', ja: 'マディーナ版ハフス — ファハド国王印刷所（高解像度）', ur: 'مدنی حفص — شاہ فہد کمپلیکس (ہائی ریزولوشن)', ar: 'حفص المدني — مجمع الملك فهد (دقة عالية)', hi: 'मदनी हफ़्स — KFGQPC (हाई-रेज़)', id: 'Hafs Madinah — KFGQPC (resolusi tinggi)', es: 'Hafs de Medina — KFGQPC (alta resolución)', fr: 'Hafs de Médine — KFGQPC (haute résolution)', ru: 'Мединский Хафс — KFGQPC (высокое разрешение)', de: 'Medina-Hafs — KFGQPC (hochauflösend)', tr: 'Medine Hafs — KFGQPC (yüksek çözünürlük)', fa: 'حفص مدینه — مجمع ملک فهد (وضوح بالا)', ms: 'Hafs Madinah — KFGQPC (resolusi tinggi)'},
+        label: { en: 'Madani Hafs — KFGQPC (hi-res)', bn: 'মাদানী হাফস — কিং ফাহাদ (উচ্চ রেজ.)', zh: '麦地那哈夫斯版——法赫德国王印刷厂（高清）', ja: 'マディーナ版ハフス — ファハド国王印刷所（高解像度）', ur: 'مدنی حفص — شاہ فہد کمپلیکس (ہائی ریزولوشن)', ar: 'حفص المدني — مجمع الملك فهد (دقة عالية)', hi: 'मदनी हफ़्स — KFGQPC (हाई-रेज़)', id: 'Hafs Madinah — KFGQPC (resolusi tinggi)', es: 'Hafs de Medina — KFGQPC (alta resolución)', fr: 'Hafs de Médine — KFGQPC (haute résolution)', ru: 'Мединский Хафс — KFGQPC (высокое разрешение)', de: 'Medina-Hafs — KFGQPC (hochauflösend)', tr: 'Medine Hafs — KFGQPC (yüksek çözünürlük)', fa: 'حفص مدینه — مجمع ملک فهد (وضوح بالا)', ms: 'Hafs Madinah — KFGQPC (resolusi tinggi)'},
         url: (page) => `https://cdn.jsdelivr.net/gh/QuranHub/quran-pages-images@main/kfgqpc/hafs-wasat/${page}.jpg`
       },
       ayat_hafs: {

@@ -31,7 +31,7 @@ Read `tools/BANGLA-STYLE.md` first and apply it. Input: `tools/bn-review/work/<C
 
 ## Spelling: use the app's established forms (do not switch them)
 নামাজ (not নামায), ওহি (not ওহী), জিকির (not যিকির), নাজিল (not নাযিল), ফেরাউন, সূরা, কুরআন, রাসূল, হাদিস,
-যাকাত, রমজান, সালাত, মক্কী / মাদানী. In a string you leave alone, do not touch spellings at all.
+যাকাত, রমজান, সালাত, তাফসীর, মক্কী / মাদানী. In a string you leave alone, do not touch spellings at all.
 
 ## Leave it alone when
 it already reads naturally and says what the English says. Do not rewrite for taste, and do not add

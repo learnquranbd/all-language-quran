@@ -14,6 +14,14 @@ const BAD_WORDS = ['প্রক্রিয়াকরণ', 'রোগনি�
 /** [{id, en, bn}] for every bn string with an English sibling. */
 function pairs(file, name) {
   process.chdir(ROOT);
+  if (name === 'BN_PACK') {   // UI language pack: English lives in translations.js, Bengali in js/i18n/bn.js
+    const vm = require('vm'), ctx = { window: {} }; vm.createContext(ctx);
+    vm.runInContext(fs.readFileSync(path.join(ROOT, 'js/i18n/bn.js'), 'utf8'), ctx);
+    vm.runInContext(fs.readFileSync(path.join(ROOT, 'js/translations.js'), 'utf8').replace(/^const TRANSLATIONS/m, 'var TRANSLATIONS'), ctx);
+    const en = ctx.TRANSLATIONS.en, bn = ctx.TRANSLATIONS.bn || ctx.window.__LQ_PACKS.bn;
+    return Object.keys(bn).filter((k) => typeof en[k] === 'string' && typeof bn[k] === 'string' && bn[k].trim())
+      .map((k) => ({ id: k, en: en[k], bn: bn[k] }));
+  }
   const out = [];
   (function walk(n, p) {
     if (n == null || typeof n !== 'object') return;
@@ -39,6 +47,9 @@ function extract(file, name, per) {
   console.log(`${name}: ${items.length} pairs in ${c} packets (work/${name}/R1..R${c})`);
 }
 
+/* app-wide spelling normalisation (2026-10-15): a spelling-only change since review is not a conflict */
+const SPELL = [['তাজবিদ', 'তাজবীদ'], ['তাজউইদ', 'তাজবীদ'], ['তাজভিদ', 'তাজবীদ'], ['মাক্কী', 'মক্কী'], ['মাক্কি', 'মক্কী'], ['মাদানি', 'মাদানী']];
+const spell = (s) => SPELL.reduce((x, [a, b]) => x.split(a).join(b), s);
 const digits = (s) => (s.replace(/[০-৯]/g, (d) => '০১২৩৪৫৬৭৮৯'.indexOf(d)).match(/\d+/g) || []).sort().join(' ');
 const marks = (s) => ['ﷺ', '(রাঃ)', '(আঃ)', '(রা)', '(আ)'].map((m) => s.split(m).length - 1).join(',');
 
@@ -51,6 +62,8 @@ function check(id, en, oldBn, nb) {
     const o = marks(oldBn).split(',').map(Number), n = marks(nb).split(',').map(Number);
     if (n.some((x, i) => x < o[i])) e.push(`honorific dropped (ﷺ,রাঃ,আঃ,রা,আ: ${o} -> ${n})`);
     if ((nb.match(/—/g) || []).length > 2) e.push('more than 2 em dashes');
+    const tags = (x) => (x.match(/<\/?[a-z][^>]*>|\{[a-zA-Z_]+\}/g) || []).sort().join(' ');
+    if (tags(nb) !== tags(oldBn)) e.push(`HTML tags / {placeholders} differ (${tags(oldBn)} -> ${tags(nb)})`);
     for (const w of BAD_WORDS) if (nb.includes(w)) e.push('wrong-register word ' + w);
     if (/[a-zA-Z]{4,}/.test(nb.replace(/https?:\S+/g, '')) && !/[a-zA-Z]{4,}/.test(oldBn)) e.push('Latin text added');
   }
@@ -69,14 +82,21 @@ function apply(name, write) {
   const src = fs.readFileSync(path.join(ROOT, file), 'utf8');
   const ast = acorn.parse(src, { ecmaVersion: 'latest', sourceType: 'script' });
   let root = null;
-  for (const st of ast.body) if (st.type === 'VariableDeclaration') for (const dcl of st.declarations) if (dcl.id.name === name) root = dcl.init;
+  const want = name === 'BN_PACK' ? 'pack' : name;
+  for (const st of ast.body) if (st.type === 'VariableDeclaration') for (const dcl of st.declarations) if (dcl.id.name === want) root = dcl.init;
+  if (!root) (function find(n) {   // not top level: search the whole tree once
+    if (!n || typeof n.type !== 'string' || root) return;
+    if (n.type === 'VariableDeclarator' && n.id.name === want) { root = n.init; return; }
+    for (const k of Object.keys(n)) { const v = n[k]; if (Array.isArray(v)) v.forEach(find); else if (v && typeof v.type === 'string') find(v); }
+  })(ast);
   const keyName = (k) => String(k.type === 'Identifier' ? k.name : k.value);
   const errs = [], edits = [];
-  for (const [id, nb] of Object.entries(fixes)) {
+  for (const [id, raw] of Object.entries(fixes)) {
+    const nb = spell(raw);   // never reintroduce a retired spelling
     const cur = now.get(id);
     if (!cur) { errs.push(`${id}: no such Bengali string`); continue; }
     // someone else (a fact-check) changed this Bengali after the packet was made: re-review it, don't overwrite
-    if (reviewed[id] !== undefined && reviewed[id] !== cur.bn && nb !== cur.bn) { errs.push(`${id}: Bengali changed since review (stale fix)`); continue; }
+    if (reviewed[id] !== undefined && spell(reviewed[id]) !== spell(cur.bn) && nb !== cur.bn) { errs.push(`${id}: Bengali changed since review (stale fix)`); continue; }
     const e = check(id, cur.en, cur.bn, nb);
     if (e.length) { errs.push(...e); continue; }
     let node = root;
