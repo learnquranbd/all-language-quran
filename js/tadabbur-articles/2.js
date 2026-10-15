@@ -2189,7 +2189,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "For the principle underneath, 4:150 names the people who believe in some and reject others and want a way in between, and 2:285 gives the believers' answer at the close of this same surah: they make no distinction between any of His messengers. Set them side by side and this passage stops being about a long-ago quarrel. It is the negative image of a sentence every Muslim recites, and 22:75 closes the gap by including angels among those Allah chooses as messengers.",
-            "bn": "নিচের নীতিটির জন্য দেখুন 4:150, যা তাদের কথা বলে যারা কতককে মানে, কতককে মানে না, আর মাঝখান দিয়ে পথ খোঁজে। আর 2:285 এই সূরারই শেষে দেয় ঈমানদারদের জবাব: তাঁরা তাঁর রাসূলগণের কারও ব্যাপারে তারতম্য করেন না। পাশাপাশি রাখলে এই অংশটি আর বহু আগের কোনো ঝগড়ার বিবরণ থাকে না। প্রত্যেক মুসলিম যে বাক্যটি পড়েন, এ হলো তারই উল্টো ছবি। আর 22:75 ফাঁকটুকু বন্ধ করে দেয়, কারণ আল্লাহ যাঁদের রাসূল হিসেবে বেছে নেন তাঁদের মধ্যে ফেরেশতারাও আছেন।"
+            "bn": "এর পেছনের নীতিটি বুঝতে পড়ুন ৪:১৫০। সেখানে তাদের কথা আছে, যারা কতককে মানে, কতককে মানে না, আর মাঝামাঝি একটা পথ বের করতে চায়। আর এই সূরারই শেষে ২:২৮৫ দেয় ঈমানদারদের জবাব: তাঁর রাসূলগণের কারও মধ্যে তাঁরা কোনো পার্থক্য করেন না। দুটো পাশাপাশি রাখলে এই অংশটি আর বহু আগের কোনো ঝগড়ার গল্প থাকে না। প্রত্যেক মুসলিম যে বাক্যটি পড়েন, এ হলো তারই উল্টো ছবি। আর ২২:৭৫ বাকি ফাঁকটুকুও বন্ধ করে দেয়: আল্লাহ যাঁদের রাসূল হিসেবে বেছে নেন, তাঁদের মধ্যে ফেরেশতারাও আছেন।"
           }
         ]
       },
@@ -2205,11 +2205,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So make it a rule to separate the claim from the claimant before you answer. Write the advice down without the name attached and weigh it as if a stranger had said it. 5:8 forbids letting hatred of a people push you off justice, and that is a courtroom rule long before it is a mosque one. If the correction is true, take it and thank Allah that it reached you at all, whatever route it took to arrive.",
-            "bn": "তাই জবাব দেওয়ার আগে কথাটিকে বক্তার কাছ থেকে আলাদা করে নেওয়াকে নিয়ম বানিয়ে নিন। নাম বাদ দিয়ে পরামর্শটি লিখে ফেলুন, তারপর এমনভাবে ওজন করুন যেন অচেনা কেউ বলেছেন। 5:8 আয়াত নিষেধ করে কোনো সম্প্রদায়ের প্রতি বিদ্বেষকে ইনসাফ থেকে সরিয়ে দিতে দেওয়া, আর সেটি মসজিদের নিয়ম হওয়ার অনেক আগে আদালতের নিয়ম। ভুল ধরিয়ে দেওয়া কথাটি সত্য হলে তা গ্রহণ করুন, আর আল্লাহর শুকরিয়া আদায় করুন যে কথাটি আপনার কাছে পৌঁছেছে, যে পথ ধরেই আসুক না কেন।"
+            "bn": "তাই নিয়ম বানিয়ে নিন: জবাব দেওয়ার আগে কথাটিকে বক্তা থেকে আলাদা করুন। নাম বাদ দিয়ে পরামর্শটি লিখে ফেলুন, তারপর এমনভাবে ওজন করুন যেন অচেনা কেউ বলেছেন। ৫:৮ আয়াত নিষেধ করে, কোনো সম্প্রদায়ের প্রতি বিদ্বেষ যেন আপনাকে ইনসাফ থেকে সরিয়ে না দেয়। মসজিদের নিয়ম হওয়ার অনেক আগেই এটি আদালতের নিয়ম। ভুল ধরিয়ে দেওয়া কথাটি সত্য হলে মেনে নিন, আর আল্লাহর শুকরিয়া আদায় করুন যে কথাটি আদৌ আপনার কাছে পৌঁছেছে, যে পথ ধরেই আসুক না কেন।"
           },
           {
             "en": "There is a second thing to live here, quieter than the first. The angels are not an abstraction to be assented to and then forgotten. This verse has them named, given errands, and defended by name. Believing in them means treating the unseen servants of Allah as real, and it shows in small places: taking the recitation of the Quran seriously as something carried and placed rather than merely printed, and being careful about what an unseen witness is watching.",
-            "bn": "এখানে বাঁচার মতো দ্বিতীয় একটি বিষয়ও আছে, প্রথমটির চেয়ে চুপচাপ। ফেরেশতারা মুখে স্বীকার করে ভুলে যাওয়ার মতো কোনো ধারণা নন। এই আয়াতে তাঁদের নাম নেওয়া হয়েছে, দায়িত্ব দেওয়া হয়েছে, আর নাম ধরে পক্ষও নেওয়া হয়েছে। তাঁদের প্রতি ঈমান মানে আল্লাহর অদৃশ্য বান্দাদের সত্যিকারের বলে মানা, আর তা ধরা পড়ে ছোট ছোট জায়গায়: কুরআন তিলাওয়াতকে ছাপা কাগজ নয়, বরং বয়ে এনে রেখে দেওয়া আমানত হিসেবে গুরুত্ব দেওয়ায়, আর অদৃশ্য কোনো সাক্ষী কী দেখছেন সে বিষয়ে সতর্ক থাকায়।"
+            "bn": "জীবনে আমল করার মতো দ্বিতীয় একটি বিষয়ও এখানে আছে, প্রথমটির চেয়ে নীরব। ফেরেশতারা মুখে স্বীকার করে ভুলে যাওয়ার মতো কোনো ধারণা নন। এই আয়াতে তাঁদের নাম নেওয়া হয়েছে, দায়িত্ব দেওয়া হয়েছে, আর নাম ধরে পক্ষও নেওয়া হয়েছে। তাঁদের প্রতি ঈমান মানে আল্লাহর অদৃশ্য বান্দাদের সত্যিকারের বলে মানা, আর তা ধরা পড়ে ছোট ছোট জায়গায়: কুরআন তিলাওয়াতকে ছাপা কাগজ নয়, বরং বয়ে এনে রেখে দেওয়া আমানত হিসেবে গুরুত্ব দেওয়ায়, আর অদৃশ্য কোনো সাক্ষী কী দেখছেন সে বিষয়ে সতর্ক থাকায়।"
           }
         ]
       },
@@ -2257,7 +2257,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Baqarah is Madinan, and this is the longest verse in its stretch of the surah; it is the second half of a sentence that begins at 2:101. There, a messenger comes confirming the Scripture they already hold, and a party of those given the Scripture throw the Book of Allah behind their backs as if they did not know. Our verse says what they took up in its place. Then 2:103 closes the passage with the counterfactual that hurts most: had they believed and been mindful of Allah, the reward from Allah would have been better.",
-            "bn": "সূরা আল-বাকারা মাদানী, আর সূরার এই অংশে সবচেয়ে লম্বা আয়াত এটিই; 2:101 আয়াতে শুরু হওয়া কথার দ্বিতীয় অর্ধেক এটি। সেখানে রাসূল আসেন তাদের হাতে থাকা কিতাবেরই সত্যায়নকারী হয়ে, আর কিতাবপ্রাপ্তদেরই কোনো দল আল্লাহর কিতাব পিঠের পিছনে ছুড়ে ফেলে দেয়, যেন তারা কিছু জানেই না। আমাদের আয়াত বলে দেয় তার জায়গায় তারা তুলে নিয়েছিল কী। এরপর 2:103 অংশটি শেষ করে সবচেয়ে বেশি বাজে এমন এক কথা দিয়ে: তারা ঈমান আনলে আর তাকওয়া ধরলে আল্লাহর কাছ থেকে পাওয়া প্রতিদানই ছিল উত্তম।"
+            "bn": "সূরা আল-বাকারা মাদানী, আর সূরার এই অংশে সবচেয়ে লম্বা আয়াত এটিই; ২:১০১ আয়াতে শুরু হওয়া কথার দ্বিতীয় অর্ধেক এটি। সেখানে রাসূল আসেন তাদের হাতে থাকা কিতাবেরই সত্যায়নকারী হয়ে, আর কিতাবপ্রাপ্তদেরই একদল আল্লাহর কিতাব পিঠের পিছনে ছুড়ে ফেলে দেয়, যেন তারা কিছু জানেই না। আমাদের আয়াত বলে দেয়, তার জায়গায় তারা কী তুলে নিয়েছিল। এরপর ২:১০৩ অংশটি শেষ করে এমন এক 'যদি' দিয়ে, যা সবচেয়ে বেশি কষ্ট দেয়: তারা ঈমান আনলে আর তাকওয়া অবলম্বন করলে আল্লাহর কাছ থেকে পাওয়া প্রতিদানই হতো উত্তম।"
           },
           {
             "en": "So the frame is an exchange, not a lecture on the occult. A Book was set down and something else was taken up, and the verse spends its length showing that the something else was known to be worthless by the very people who chose it. The name of Sulayman (AS) had been drawn into a charge, and the verse lifts it off him in three words before going any further: wa ma kafara Sulayman, it was not he who disbelieved.",
@@ -2273,7 +2273,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The famous difficulty in the verse is the little word ma in the clause about what came down at Babylon. In Arabic ma can be a relative pronoun, meaning that which, or it can be a negation, meaning and nothing was. Everything that follows in the commentaries follows from which of the two a reader takes, and both readings were held by early authorities. The Quran does not settle it in the wording, which is why the difference is reported as a difference and not as an error.",
-            "bn": "আয়াতের বিখ্যাত জটিলতা হলো ছোট্ট শব্দ 'মা', যা বাবিলে যা নেমেছিল সে-কথার মধ্যে আছে। আরবিতে 'মা' সম্বন্ধবাচক সর্বনাম হতে পারে, অর্থ হয় 'যা'; আবার নেতিবাচক হতে পারে, অর্থ হয় 'আর নামানো হয়নি'। তাফসীরে এরপর যা কিছু আসে, সবই নির্ভর করে পাঠক দুটির কোনটি নেন তার ওপর, আর দুটি পাঠই প্রাচীন ইমামদের কাছে ছিল। শব্দগঠন নিজে এর ফয়সালা করে না, তাই পার্থক্যটিকে ভুল বলা হয় না, মতপার্থক্য বলেই বর্ণনা করা হয়।"
+            "bn": "আয়াতের বিখ্যাত জটিলতাটি ছোট্ট একটি শব্দে: 'মা'। বাবিলে কী নেমেছিল, সেই অংশে শব্দটি আছে। আরবিতে 'মা' সম্বন্ধবাচক সর্বনাম হতে পারে, তখন অর্থ 'যা'; আবার না-বোধক হতে পারে, তখন অর্থ 'আর নামানো হয়নি'। তাফসীরে এরপর যা কিছু আসে, সবই নির্ভর করে পাঠক এই দুটির কোনটি নেন তার ওপর, আর প্রথম যুগের ইমামদের মধ্যে দুটি পাঠেরই অনুসারী ছিলেন। কুরআনের শব্দ নিজে এর ফয়সালা করে দেয় না। তাই পার্থক্যটিকে ভুল বলা হয় না, মতপার্থক্য বলেই বর্ণনা করা হয়।"
           },
           {
             "en": "Two more words carry weight. The two say they are only a fitnah, a trial, and fitnah in the Quran is a testing that sorts people rather than a punishment that falls on them, so the warning is part of the test and not an escape from it. And the passage ends with sharaw bihi anfusahum, they sold themselves for it, the same idiom of a ruinous sale that 2:90 used earlier in the same surah about the same people. The Quran is pricing a transaction, twice.",
@@ -2349,7 +2349,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second thing to live is the refusal of the shortcut. Fortune-tellers, charms bought for a marriage or a job, remedies that promise to bend an outcome: all of them trade on the belief the verse denies, that something can act outside the permission of Allah. When a marriage is under strain, the verse itself points where the trouble comes from, and the Quran's own remedy in 4:35 is arbitration by two people who want reconciliation, not a purchased solution.",
-            "bn": "বাঁচার দ্বিতীয় বিষয়টি হলো শর্টকাট প্রত্যাখ্যান করা। গণক, বিয়ে বা চাকরির জন্য কেনা তাবিজ, ফলাফল বাঁকিয়ে দেওয়ার প্রতিশ্রুতি দেওয়া টোটকা: সবই সেই বিশ্বাসের ব্যবসা করে, যা আয়াতটি অস্বীকার করে, অর্থাৎ আল্লাহর অনুমতির বাইরে কিছু ঘটতে পারে। সংসারে টান পড়লে আয়াতটি নিজেই দেখিয়ে দেয় ঝামেলাটা কোথা থেকে আসে, আর কুরআনের নিজের সমাধান 4:35 আয়াতে: দুজন সালিস, যাঁরা মীমাংসা চান। কেনা কোনো দাওয়াই নয়।"
+            "bn": "আমলের দ্বিতীয় বিষয়টি হলো শর্টকাট থেকে দূরে থাকা। গণক, বিয়ে বা চাকরির জন্য কেনা তাবিজ, ফলাফল ঘুরিয়ে দেওয়ার প্রতিশ্রুতি দেওয়া টোটকা: সবগুলোর ব্যবসা চলে একটি বিশ্বাসের ওপর, আর আয়াতটি ঠিক সেই বিশ্বাসটিই নাকচ করে। বিশ্বাসটি হলো, আল্লাহর অনুমতির বাইরেও কিছু কাজ করতে পারে। সংসারে টান পড়লে আয়াতটি নিজেই দেখিয়ে দেয় ঝামেলাটা কোথা থেকে আসে। আর কুরআনের নিজের সমাধান ৪:৩৫ আয়াতে: দুজন সালিস, যাঁরা মীমাংসা চান। টাকা দিয়ে কেনা কোনো সমাধান নয়।"
           },
           {
             "en": "Third, take the warning seriously as a warning. The two were made to say we are only a trial before they taught anything, and people went ahead. That is the pattern of most ruin: not ignorance, but a caution heard and stepped over. The verse says it twice, that they learn what harms them, and that they knew. Whatever you are currently arguing with in your own conscience is being described here, in its own vocabulary.",
@@ -2365,7 +2365,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse leaves a person aware of an unseen harm and unsure what to do with the awareness. The Sunnah answers with a practice rather than a worry. Sahih al-Bukhari 5017 records from Aishah (RA) that every night when the Prophet ﷺ went to his bed he would cup his hands together, blow into them, recite al-Ikhlas, al-Falaq and an-Nas into them, and then wipe with them over as much of his body as he could reach, beginning with his head and face, doing that three times.",
-            "bn": "আয়াতটি মানুষকে ছেড়ে দেয় অদৃশ্য এক ক্ষতির খবর হাতে নিয়ে, অথচ সেই খবর নিয়ে কী করবেন তা অজানা রেখে। সুন্নাহ জবাব দেয় দুশ্চিন্তা দিয়ে নয়, অভ্যাস দিয়ে। সহীহ বুখারীর ৫০১৭ নম্বর হাদীসে আয়েশা (রাঃ) থেকে এসেছে, নবী ﷺ প্রতি রাতে বিছানায় গিয়ে দুই হাত একত্র করে তাতে ফুঁ দিতেন, সূরা ইখলাস, ফালাক ও নাস পড়ে হাতে ফুঁকতেন, তারপর মাথা ও মুখমণ্ডল থেকে শুরু করে শরীরের যতটা নাগাল পেতেন ততটায় হাত বুলিয়ে নিতেন, আর এভাবে তিনবার করতেন।"
+            "bn": "আয়াতটি মানুষকে ছেড়ে দেয় অদৃশ্য এক ক্ষতির খবর হাতে নিয়ে, অথচ সেই খবর নিয়ে কী করবেন তা অজানা রেখে। সুন্নাহ জবাব দেয় দুশ্চিন্তা দিয়ে নয়, অভ্যাস দিয়ে। সহীহ বুখারীর ৫০১৭ নম্বর হাদীসে আয়েশা (রাঃ) থেকে এসেছে, নবী ﷺ প্রতি রাতে বিছানায় গিয়ে দুই হাত একসঙ্গে মিলিয়ে তাতে ফুঁ দিতেন, তাতে সূরা ইখলাস, ফালাক ও নাস পড়তেন, তারপর মাথা ও মুখমণ্ডল থেকে শুরু করে শরীরের যতটা নাগাল পেতেন ততটায় হাত বুলিয়ে নিতেন। এভাবে তিনবার করতেন।"
           },
           {
             "en": "That is the answer in its own place: not an amulet, not a specialist, but three short surahs, said by a person for himself, every night, in the dark, with nobody watching; the two mu'awwidhatayn among them name the verse's own subject matter. Alongside it you can make the verse's vocabulary into a supplication of your own: O Allah, You are the one by whose permission alone harm reaches or passes me; teach me what benefits me, keep from me what harms me, and do not let me sell myself for anything.",
@@ -2385,7 +2385,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The narration puts the breaking of a marriage at the top of Satan's list. What am I doing this month that strengthens the bond in my own home, and what am I doing that quietly wears it down? And if magic harms and does not benefit, what else in my week fits that description exactly, and why have I not applied the same verdict to it?",
-            "bn": "বর্ণনাটি শয়তানের তালিকার শীর্ষে রাখে সংসার ভাঙাকে। এই মাসে আমি এমন কী করছি যা নিজের ঘরের বাঁধন শক্ত করে, আর এমন কী করছি যা চুপচাপ তা ক্ষইয়ে দেয়? আর যাদু যদি ক্ষতি করে, উপকার না করে, তবে আমার সপ্তাহে আর কোন জিনিসটির বর্ণনা হুবহু এই একই, আর তার ওপর আমি একই রায় বসাইনি কেন?"
+            "bn": "বর্ণনাটি শয়তানের তালিকার শীর্ষে রাখে সংসার ভাঙাকে। এই মাসে আমি এমন কী করছি যা নিজের ঘরের বাঁধন শক্ত করে, আর এমন কী করছি যা চুপচাপ তা ক্ষইয়ে দেয়? আর যাদু যদি ক্ষতি করে, উপকার না করে, তবে আমার সপ্তাহের আর কোন জিনিস হুবহু এই বর্ণনায় পড়ে, আর তার ওপর একই রায় আমি দিইনি কেন?"
           }
         ]
       }
@@ -2417,11 +2417,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Arabic of the accusation is laysa ala shay'in, literally not upon a thing. It is not the language of correction. To say a man is mistaken about something leaves him standing; to say he is not upon a thing is to remove the ground from under him entirely, scripture, prophet and all. The Quran quotes it in that bare form twice in one verse, once in each direction, and lets the symmetry do the work of comment.",
-            "bn": "অভিযোগটির আরবি হলো 'লাইসা আলা শাইইন', আক্ষরিক অর্থে কোনো কিছুর উপরেই নয়। এটি ভুল ধরিয়ে দেওয়ার ভাষা নয়। কাউকে কোনো বিষয়ে ভুল বললে তার দাঁড়ানোর জায়গা থাকে; কিন্তু সে কোনো কিছুর উপরেই নেই বললে তার পায়ের নিচের মাটিটাই সরিয়ে নেওয়া হয়, কিতাব-নবী সবসুদ্ধ। কুরআন এই নগ্ন রূপেই কথাটি এক আয়াতে দুইবার তুলে ধরে, দুই দিক থেকে একবার করে, আর মন্তব্যের কাজটা ছেড়ে দেয় এই প্রতিসাম্যের ওপর।"
+            "bn": "অভিযোগটির আরবি হলো 'লাইসা আলা শাইইন', আক্ষরিক অর্থে কোনো কিছুর উপরেই নয়। এটি ভুল ধরিয়ে দেওয়ার ভাষা নয়। কাউকে কোনো বিষয়ে ভুল বললে তার দাঁড়ানোর জায়গা থাকে; কিন্তু সে কোনো কিছুর উপরেই নেই বললে তার পায়ের নিচের মাটিটাই সরিয়ে নেওয়া হয়, কিতাব-নবী সবসুদ্ধ। কুরআন কথাটি এই সাদামাটা রূপেই এক আয়াতে দুইবার তুলে ধরে, দুই দিক থেকে একবার করে, আর মন্তব্যের কাজটা ছেড়ে দেয় এই প্রতিসাম্যের ওপর।"
           },
           {
             "en": "Then comes a small clause that changes the temperature: and they recite the Scripture. Grammatically it is a circumstantial phrase, describing the state the speakers are in while they speak. It does not say they are wrong about each other; it says look what they are doing at the same time. The reader is meant to feel the friction between a book open in the hands and a sentence in the mouth that erases the other reader entirely.",
-            "bn": "এরপর আসে ছোট্ট এক টুকরো কথা, যা তাপমাত্রাই বদলে দেয়: অথচ তারা কিতাব পাঠ করে। কথাটি বিচার করছে না, ছবি আঁকছে; বলার সেই মুহূর্তে বক্তারা কী অবস্থায় দাঁড়িয়ে আছেন তা-ই দেখিয়ে দিচ্ছে। কে ঠিক আর কে ভুল, সে প্রসঙ্গে কুরআন এখানে যাচ্ছে না। বলছে, দেখো তারা একই সঙ্গে কী করছে। হাতে খোলা কিতাব, আর মুখে এমন এক বাক্য যা অন্য পাঠককে পুরোপুরি মুছে দেয়। পাঠকের এই ঘষাটুকু টের পাওয়ারই কথা।"
+            "bn": "এরপর আসে ছোট্ট একটি বাক্যাংশ, যা পরিবেশের তাপটাই বদলে দেয়: অথচ তারা কিতাব পাঠ করে। ব্যাকরণের দিক থেকে এটি অবস্থা বোঝানো বাক্যাংশ: কথা বলার সময় বক্তারা কী অবস্থায় আছে, তা জানায়। কথাটি বলে না যে তারা একে অপরের ব্যাপারে ভুল; বলে, দেখুন, ঠিক একই সময়ে তারা কী করছে। হাতে খোলা কিতাব, আর মুখে এমন এক বাক্য যা অন্য পাঠককে পুরোপুরি মুছে দেয়। এই দুইয়ের ঘষাটুকু পাঠকের গায়ে লাগুক, সেটাই উদ্দেশ্য।"
           },
           {
             "en": "In the second verse the question is wa-man aẓlam, who is more unjust, a form the Quran reserves for the far end of a scale rather than for ordinary wrongdoing. And the charge is not neglect but effort: sa'a fi kharabiha, he strives at their ruin. Sa'y is deliberate, worked-at motion. Ruin here is not a building falling down while nobody notices; it is something a person gets up in the morning and works towards.",
@@ -2441,7 +2441,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "On the second verse the difference is sharper, because it decides which mosques and which offenders are meant. Ibn Kathir inclines to the Quraysh: he brings the report of Ibn Zayd, which Ibn Jarir transmits, that the verse concerns those who turned the Prophet ﷺ back from Makkah at al-Hudaybiyyah, and the report from Ibn Abbas (RA) in Ibn Abi Hatim that the Quraysh prevented him from praying at the Ka'bah. At-Tabari is reported to prefer a reading pointed centuries earlier, at the ruin of Bayt al-Maqdis, though that is not the line Ibn Kathir takes here.",
-            "bn": "দ্বিতীয় আয়াতে মতভেদ আরও তীক্ষ্ণ, কারণ এখানেই ঠিক হয় কোন মসজিদ আর কোন অপরাধীদের কথা বলা হচ্ছে। ইবনে কাসীর কুরাইশদের দিকেই ঝোঁকেন। তিনি নিয়ে আসেন ইবনে যায়েদের সেই বর্ণনা, যা ইবনে জারীর তুলে ধরেছেন, যে আয়াতটি তাদের সম্পর্কে যারা হুদাইবিয়ায় নবী ﷺ-কে মক্কা থেকে ফিরিয়ে দিয়েছিল। সঙ্গে আনেন ইবনে আবী হাতিমে থাকা ইবনে আব্বাস (রাঃ)-এর বর্ণনা, যে কুরাইশ তাঁকে কাবার পাশে নামায পড়তে দেয়নি। বলা হয়, আত-তাবারী পছন্দ করেন শতাব্দীকাল আগের দিকে তাক করা পাঠটি, বাইতুল মাকদিসের ধ্বংসের দিকে; তবে ইবনে কাসীর এখানে সেই পথে যাননি।"
+            "bn": "দ্বিতীয় আয়াতে মতভেদ আরও তীক্ষ্ণ, কারণ এখানেই ঠিক হয় কোন মসজিদ আর কোন অপরাধীদের কথা বলা হচ্ছে। ইবনে কাসীর কুরাইশদের দিকেই ঝোঁকেন। তিনি আনেন ইবনে যায়েদের বর্ণনা, যা ইবনে জারীর বর্ণনা করেছেন: হুদাইবিয়ায় যারা নবী ﷺ-কে মক্কা থেকে ফিরিয়ে দিয়েছিল, আয়াতটি তাদের নিয়ে। সঙ্গে আনেন ইবনে আবী হাতিমে থাকা ইবনে আব্বাস (রাঃ)-এর বর্ণনা: কুরাইশরা তাঁকে কাবায় নামাজ পড়তে দেয়নি। আত-তাবারী সম্পর্কে বলা হয়, তিনি পছন্দ করেন শত শত বছর আগের এক ঘটনার দিকে ইঙ্গিত করা পাঠ, বাইতুল মাকদিসের ধ্বংস; তবে ইবনে কাসীর এখানে সেই পথ ধরেননি।"
           },
           {
             "en": "Ibn Kathir then removes the need to choose in practice. He glosses striving at their ruin as preventing the very people who would fill them with the remembrance of Allah, so that barring the worshipper is itself a species of ruining the place. If that is what ruin means, the charge fits every case the commentators proposed, and it also fits cases none of them had in front of them. The wrong named is a wrong anyone with a key can commit.",
@@ -2477,7 +2477,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "For the mosques, 9:18 gives the positive standard: they are maintained by those who believe in Allah and the Last Day, establish prayer, give zakah and fear none but Allah. 72:18 gives the ownership: the masjids belong to Allah, so call upon no one alongside Him. 8:34 shows the same crime as our verse in Makkah, obstructing al-Masjid al-Haram, and 22:40 widens the frame further, naming monasteries, churches, synagogues and mosques in which the name of Allah is much mentioned as places Allah defends by checking people through one another.",
-            "bn": "মসজিদ প্রসঙ্গে 9:18 দেয় ইতিবাচক মানদণ্ড: মসজিদ আবাদ করে তারাই, যারা আল্লাহ ও আখিরাতে ঈমান আনে, নামায কায়েম করে, যাকাত দেয় আর আল্লাহ ছাড়া কাউকে ভয় করে না। 72:18 দেয় মালিকানার কথা: মসজিদ আল্লাহরই, কাজেই তাঁর সঙ্গে অন্য কাউকে ডেকো না। 8:34 মক্কায় আমাদের আয়াতের সেই একই অপরাধ দেখায়, মসজিদুল হারামে বাধা দেওয়া। আর 22:40 পরিসরটি আরও বড় করে, নাম নেয় খ্রীষ্টান সংসারত্যাগীদের উপাসনালয়, গির্জা, ইয়াহূদীদের উপাসনার স্থান আর সেই মসজিদগুলোর, যেগুলোতে আল্লাহর নাম বেশি নেওয়া হয়, আর যেগুলো আল্লাহ রক্ষা করেন মানুষ দিয়ে মানুষকে ঠেকিয়ে।"
+            "bn": "মসজিদ প্রসঙ্গে ৯:১৮ দেয় ইতিবাচক মানদণ্ড: মসজিদ আবাদ করে তারাই, যারা আল্লাহ ও আখিরাতে ঈমান আনে, নামাজ কায়েম করে, যাকাত দেয় আর আল্লাহ ছাড়া কাউকে ভয় করে না। ৭২:১৮ জানায় মালিকানার কথা: মসজিদ আল্লাহরই, কাজেই তাঁর সঙ্গে অন্য কাউকে ডেকো না। ৮:৩৪ মক্কায় আমাদের আয়াতের সেই একই অপরাধ দেখায়: মসজিদুল হারামে বাধা দেওয়া। আর ২২:৪০ পরিসরটি আরও বড় করে। সেখানে আশ্রম, গির্জা, ইহুদিদের উপাসনালয় আর মসজিদের নাম এসেছে, যেখানে আল্লাহর নাম বেশি বেশি নেওয়া হয়; আল্লাহ মানুষ দিয়ে মানুষকে ঠেকিয়ে এসব জায়গা রক্ষা করেন।"
           }
         ]
       },
@@ -2529,7 +2529,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Is there anyone who has stopped coming to a gathering or a masjid I am part of, and do I know why? If Allah has kept the final verdict for the Day of Resurrection, what am I gaining by issuing mine early? And what would it cost me, this week, to say plainly to one person that I differ with them on one point and no more than that?",
-            "bn": "আমি যে মজলিস বা মসজিদের সঙ্গে যুক্ত, সেখানে আসা কি কেউ বন্ধ করে দিয়েছেন, আর কেন তা কি আমি জানি? আল্লাহ যদি চূড়ান্ত রায়টি কিয়ামতের দিনের জন্য রেখে দেন, তবে আগেভাগে নিজের রায় দিয়ে আমার লাভটা কী? আর এই সপ্তাহে একজন মানুষকে সোজা করে বলতে আমার কী খরচ হতো যে, একটি বিষয়ে আমি তাঁর সঙ্গে দ্বিমত, তার বেশি কিছু নয়?"
+            "bn": "আমি যে মজলিস বা মসজিদের সঙ্গে যুক্ত, সেখানে আসা কি কেউ বন্ধ করে দিয়েছেন, আর কেন তা কি আমি জানি? আল্লাহ যদি চূড়ান্ত রায়টি কিয়ামতের দিনের জন্য রেখে দেন, তবে আগেভাগে নিজের রায় দিয়ে আমার লাভটা কী? আর এই সপ্তাহে একজন মানুষকে সোজাসুজি এটুকু বলতে আমার কী খরচ হবে: একটি বিষয়ে আপনার সঙ্গে আমার দ্বিমত আছে, এর বেশি কিছু নয়?"
           }
         ]
       }
@@ -2561,7 +2561,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The House is called a mathabah, from the root th-w-b, which carries the sense of returning. The app renders it a place of return in English and a gathering point in Bengali, and both catch part of it. Al-Awfi reports Ibn Abbas (RA) drawing the meaning out plainly: people do not stay in it, they visit it and go home and then come to it again. So the word does not describe a destination reached once. It describes something a life keeps orbiting, and the Arabic form suggests the place of the returning rather than the act.",
-            "bn": "ঘরটিকে বলা হয়েছে 'মাসাবা', যার মূল সা-ওয়াও-বা, আর তার মেজাজে আছে ফিরে আসা। বাংলা অনুবাদে শব্দটি এসেছে 'মিলনকেন্দ্র' হয়ে, যেখানে মানুষ বারবার এসে জড়ো হয়। আল-আওফী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, যিনি অর্থটি সোজা করে খুলে দেন: মানুষ এতে থেকে যায় না, তারা আসে, ঘরে ফেরে, তারপর আবার আসে। অর্থাৎ শব্দটি একবার পৌঁছে যাওয়ার মতো কোনো গন্তব্য বোঝায় না। শব্দটি এমন কিছু বোঝায়, যাকে ঘিরে গোটা জীবন পাক খায়, আর আরবি গড়নটি কাজটির চেয়ে বেশি ইঙ্গিত করে সেই ফিরে আসার জায়গাটিকেই।"
+            "bn": "ঘরটিকে বলা হয়েছে 'মাসাবা'। শব্দটির মূল সা-ওয়াও-বা, যার ভেতরে আছে ফিরে আসার ভাব। অ্যাপের ইংরেজি অনুবাদে শব্দটি হয়েছে 'ফিরে আসার জায়গা', বাংলায় 'মিলনকেন্দ্র'; দুটিই অর্থের একেকটি দিক ধরে। আল-আওফী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, তিনি অর্থটি সোজা করে খুলে বলেছেন: মানুষ এতে থেকে যায় না, তারা আসে, ঘরে ফেরে, তারপর আবার আসে। অর্থাৎ শব্দটি একবার পৌঁছে যাওয়ার মতো কোনো গন্তব্য বোঝায় না। বোঝায় এমন কিছু, যাকে ঘিরে গোটা জীবন ঘুরতে থাকে। আর আরবি গড়নটি ফিরে আসার কাজটির চেয়ে ফিরে আসার জায়গাটিরই বেশি ইঙ্গিত দেয়।"
           },
           {
             "en": "Beside it stands amn, security. Abu al-Aliyah glossed it against the background everyone in that century knew: raiding and seizure were normal, and the people around the Sacred Precinct were not taken. The second verse then repeats the request in the words of Ibrahim (AS), and the wording differs from 14:35 in one detail. Here he asks for hadha baladan, a city, indefinite; there for hadha al-balad, this city, definite.",
@@ -2681,7 +2681,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Notice how it teaches you to ask. He kept the request inside what he had been told, and he was answered more widely than he asked. That is the safe posture for a servant: ask within what you know of your Lord's guidance, and leave the enlarging of it to Him. He has never needed our help to be generous, and He has not asked us to guess where His generosity ends.",
-            "bn": "লক্ষ করুন, এটি আপনাকে চাইতে শেখায় কীভাবে। তাঁকে যা বলা হয়েছিল, আবেদনটি তিনি তার ভেতরেই রাখলেন; আর জবাব পেলেন যা চেয়েছিলেন তার চেয়ে চওড়া। বান্দার জন্য নিরাপদ ভঙ্গিটি এটাই: নিজের প্রতিপালকের হিদায়াত সম্পর্কে যতটুকু জানেন তার ভেতরে থেকেই চান, আর তা বাড়ানোর কাজটি তাঁর ওপরেই ছেড়ে দিন। উদার হতে তাঁর কখনো আমাদের সাহায্য লাগেনি, আর তাঁর দান কোথায় গিয়ে শেষ হয় তা অনুমান করতেও তিনি আমাদের বলেননি।"
+            "bn": "লক্ষ করুন, আয়াতটি আপনাকে কীভাবে চাইতে শেখায়। তাঁকে যা বলা হয়েছিল, আবেদনটি তিনি তার ভেতরেই রাখলেন; আর জবাব পেলেন যা চেয়েছিলেন তার চেয়ে চওড়া। বান্দার জন্য নিরাপদ ভঙ্গিটি এটাই: নিজের প্রতিপালকের হিদায়াত সম্পর্কে যতটুকু জানেন তার ভেতরে থেকেই চান, আর তা বাড়ানোর কাজটি তাঁর ওপরেই ছেড়ে দিন। উদার হতে তাঁর কখনো আমাদের সাহায্য লাগেনি, আর তাঁর দান কোথায় গিয়ে শেষ হয় তা অনুমান করতেও তিনি আমাদের বলেননি।"
           }
         ]
       },
@@ -2713,7 +2713,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The prayer does not begin here. 2:127 opens with Ibrahim (AS) raising the foundations of the House together with Isma'il (AS), and their words start there: our Lord, accept from us; indeed You are the Hearing, the Knowing. Our verse continues with rabbana wa-j'alna — our Lord, and make us — the wa tying it to what came before. 2:129 continues again in the same way with a third request.",
-            "bn": "দু'আটি এখান থেকে শুরু হয়নি। 2:127 শুরু হয় ইবরাহীম (আঃ) ও ইসমাঈল (আঃ)-এর কাবাগৃহের ভিত্তি তোলার দৃশ্য দিয়ে, আর তাঁদের কথা সেখানেই শুরু: হে আমাদের প্রতিপালক, আমাদের পক্ষ থেকে কবুল করুন; নিশ্চয়ই আপনি সর্বশ্রোতা, সর্বজ্ঞ। আমাদের আয়াতটি এগিয়ে চলে 'রাব্বানা ওয়াজ'আলনা' দিয়ে — হে আমাদের প্রতিপালক, আর আমাদের বানান — যেখানে 'ওয়া' একে আগের কথার সঙ্গে বেঁধে দেয়। 2:129 আবার একইভাবে তৃতীয় একটি আবেদন নিয়ে এগোয়।"
+            "bn": "দু'আটি এখান থেকে শুরু হয়নি। ২:১২৭ শুরু হয় ইবরাহীম (আঃ) ও ইসমাঈল (আঃ)-এর কাবাগৃহের ভিত্তি তোলার দৃশ্য দিয়ে, আর তাঁদের কথা সেখানেই শুরু: হে আমাদের প্রতিপালক, আমাদের পক্ষ থেকে কবুল করুন; নিশ্চয়ই আপনি সর্বশ্রোতা, সর্বজ্ঞ। আমাদের আয়াতটি এগিয়ে চলে 'রাব্বানা ওয়াজ'আলনা' দিয়ে, অর্থাৎ হে আমাদের প্রতিপালক, আর আমাদের বানান। শুরুর 'ওয়া' শব্দটি একে আগের কথার সঙ্গে বেঁধে দেয়। ২:১২৯ আবার একইভাবে তৃতীয় একটি আবেদন নিয়ে এগোয়।"
           },
           {
             "en": "The supplication ends there. 2:130 leaves their speech entirely and comments on them in the third person: and who would be averse to the religion of Ibrahim except one who makes a fool of himself. So the boundary is 2:127 to 2:129, three verses of one prayer, and this verse is its middle. Reading it alone loses both the occasion — two men with their hands on the stones — and the request that completes it.",
