@@ -34,6 +34,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Fact-checker done batches 1-4 (40 EN+BN fixes total, Ibn Ishaq checked on archive.org Guillaume OCR); batch 5
   (7 sahaba flags from ar A3) in progress. Retranslation agent doing R-ur (41) + R-ar (5); another retr round needed
   after batch 5.
+- Batch 18 (6 flags) sent to a FRESH fact-checker agent.
 - v955: ur + ar articles complete (4373/4373 each, 0 stale), harness-verified. Not pushed. Fact-checker batches 1-14
   done (~80 verified EN+BN fixes). hi A1-A5 running, A6-A10 next; hi is the last language this week (stop at 88% 7d).
 - Also uncommitted: amal-daily.js evening refuge dhikr src + Tirmidhi 3604 (Muslim 2709 has no count).
