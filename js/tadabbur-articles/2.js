@@ -21,11 +21,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The surah opens with the disjointed letters of 2:1 and then, before any law or story, names what the reader is holding. Dhalika al-kitab: that is the Book. Arabic has a nearer demonstrative, hadha, and it is not used. The commentators read the far demonstrative as a mark of elevation rather than distance, the way we point to something high up rather than something out of reach. The definite article does the rest. Not a book among books, but the Book.",
-            "bn": "সূরাটি শুরু হয় 2:1 আয়াতের বিচ্ছিন্ন হরফ দিয়ে, তারপর কোনো বিধান বা কাহিনি আসার আগেই পাঠক যা হাতে ধরে আছে তার নাম বলে দেয়। যালিকাল কিতাব — এই সেই কিতাব। আরবিতে নিকটবর্তীর জন্য 'হাযা' শব্দ আছে, অথচ তা ব্যবহার করা হয়নি। মুফাসসিরগণ দূরবাচক ইঙ্গিতটিকে দূরত্বের চিহ্ন নয়, বরং মর্যাদার চিহ্ন হিসেবে পড়েন — যেমন আমরা নাগালের বাইরের কিছুর দিকে নয়, বরং উঁচুতে থাকা কিছুর দিকে আঙুল তুলি। নির্দিষ্টতাবাচক 'আল' বাকিটা সেরে দেয়। এটি বহু কিতাবের একটি নয়, এটি সেই কিতাব।"
+            "bn": "সূরাটি শুরু হয় 2:1 আয়াতের বিচ্ছিন্ন হরফ দিয়ে। তারপর কোনো বিধান বা কাহিনি আসার আগেই বলে দেয়, পাঠকের হাতে কী আছে। যালিকাল কিতাব: ওই সেই কিতাব। কাছের জিনিস বোঝাতে আরবিতে 'হাযা' শব্দ আছে, কিন্তু এখানে সেটা আসেনি। মুফাসসিরগণ বলেন, দূরের ইশারাটা এখানে দূরত্ব নয়, মর্যাদা বোঝায়। আমরাও তো উঁচুতে থাকা জিনিসের দিকে এভাবেই আঙুল তুলি, নাগালের বাইরের জিনিস বোঝাতে নয়। বাকিটা সেরে দেয় নির্দিষ্টবাচক 'আল'। এ বহু কিতাবের একটা নয়, এ-ই সেই কিতাব।"
           },
           {
             "en": "The written mushaf preserves a detail readers often miss. Two small pause marks sit in this verse, one after la rayba and one after fihi, and they are the embracing marks: the reciter may stop at either place but not at both. Stop at fihi and the sense is that there is no doubt in it, and it is guidance. Stop earlier and the sense becomes that there is no doubt at all, and in it is guidance.",
-            "bn": "লিখিত মুসহাফ এমন একটি খুঁটিনাটি রক্ষা করে যা পাঠকের চোখ প্রায়ই এড়িয়ে যায়। এই আয়াতে দুটি ছোট ওয়াকফ-চিহ্ন আছে, একটি 'লা রাইবা'-র পরে আর একটি 'ফীহি'-র পরে, আর এগুলো পরস্পরকে জড়িয়ে থাকা চিহ্ন: পাঠক দুটির যেকোনো একটিতে থামতে পারেন, দুটিতেই নয়। 'ফীহি'-তে থামলে অর্থ দাঁড়ায় — এতে কোনো সন্দেহ নেই, আর এটি হিদায়াত। আগে থামলে অর্থ দাঁড়ায় — কোনো সন্দেহই নেই, আর এর ভেতরে আছে হিদায়াত।"
+            "bn": "লিখিত মুসহাফে একটা খুঁটিনাটি ধরা আছে, যা পাঠকের চোখ প্রায়ই এড়িয়ে যায়। এই আয়াতে দুটি ছোট ওয়াকফ-চিহ্ন আছে, একটি 'লা রাইবা'-র পরে, আরেকটি 'ফীহি'-র পরে। এ দুটি পরস্পরকে জড়িয়ে থাকা চিহ্ন: তিলাওয়াতকারী যেকোনো একটিতে থামতে পারেন, দুটিতেই নয়। 'ফীহি'-তে থামলে অর্থ দাঁড়ায়: এতে কোনো সন্দেহ নেই, আর এটি হিদায়াত। আগে থামলে অর্থ হয়: কোনো সন্দেহই নেই, আর এর ভেতরে আছে হিদায়াত।"
           }
         ]
       },
@@ -37,11 +37,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Rayb is not mild uncertainty. The Arabic carries doubt mixed with unease, the suspicion that something is being hidden from you. The negation used here is the one that denies an entire category, so the sentence is not saying that most people find the Book convincing. It is saying that the Book contains nothing that gives doubt a place to stand. That is a claim, and the surah knows it. It does not leave the claim resting on assertion for long.",
-            "bn": "'রাইব' মানে হালকা অনিশ্চয়তা নয়। আরবি শব্দটি এমন সন্দেহ বহন করে যার সঙ্গে মিশে থাকে অস্বস্তি — এই আশঙ্কা যে তোমার কাছ থেকে কিছু লুকানো হচ্ছে। এখানে যে অস্বীকৃতি ব্যবহৃত হয়েছে তা গোটা শ্রেণিকেই অস্বীকার করে, ফলে বাক্যটি বলছে না যে বেশির ভাগ মানুষ কিতাবটিকে বিশ্বাসযোগ্য মনে করে। বলছে, এই কিতাবে এমন কিছু নেই যার ওপর সন্দেহ দাঁড়াতে পারে। এটি একটি দাবি, আর সূরা তা জানে। দাবিটিকে সে বেশিক্ষণ কেবল ঘোষণার ওপর ছেড়ে রাখে না।"
+            "bn": "'রাইব' মানে হালকা অনিশ্চয়তা নয়। আরবি শব্দটিতে সন্দেহের সঙ্গে মিশে থাকে অস্বস্তি, মনে হয় কেউ আপনার কাছ থেকে কিছু লুকাচ্ছে। এখানে যে না-বাচক গঠন এসেছে, তা গোটা জাতটাকেই নাকচ করে। তাই বাক্যটি বলছে না যে বেশির ভাগ মানুষ কিতাবটিকে বিশ্বাসযোগ্য মনে করে। বলছে, এ কিতাবে এমন কিছুই নেই, যার ওপর সন্দেহ পা রাখতে পারে। এটা একটা দাবি, আর সূরা তা ভালোই জানে। তাই দাবিটাকে বেশিক্ষণ শুধু ঘোষণার ওপর ফেলে রাখে না।"
           },
           {
             "en": "Twenty-one verses later the same root returns as a challenge. If you are in rayb about what We have sent down upon Our servant, then bring one surah like it and call your witnesses besides Allah, if you are truthful. That is 2:23, and 2:24 adds that they will never be able to. The Book answers doubt by handing the doubter a test he can run himself. The confidence of 2:2 is not asking to be taken on trust.",
-            "bn": "একুশ আয়াত পরে সেই একই ধাতু ফিরে আসে চ্যালেঞ্জ হয়ে। আমি আমার বান্দার প্রতি যা নাযিল করেছি তাতে যদি তোমাদের 'রাইব' থাকে, তবে তার মতো একটি সূরা নিয়ে এসো এবং আল্লাহ ছাড়া তোমাদের সাক্ষীদের ডাকো, যদি তোমরা সত্যবাদী হও। এটি 2:23 আয়াত, আর 2:24 আয়াত যোগ করে যে তারা কখনোই পারবে না। কিতাব সন্দেহের জবাব দেয় সন্দেহকারীর হাতে এমন এক পরীক্ষা তুলে দিয়ে যা সে নিজেই চালাতে পারে। 2:2 আয়াতের আত্মবিশ্বাস অন্ধভাবে মেনে নেওয়ার আবেদন করছে না।"
+            "bn": "একুশ আয়াত পরে একই ধাতু ফিরে আসে চ্যালেঞ্জ হয়ে: আমি আমার বান্দার প্রতি যা নাজিল করেছি, তা নিয়ে যদি তোমাদের 'রাইব' থাকে, তবে এর মতো একটি সূরা নিয়ে এসো, আর আল্লাহ ছাড়া তোমাদের সাক্ষীদের ডাকো, যদি তোমরা সত্যবাদী হও। এ হলো 2:23 আয়াত। 2:24 আয়াত এর সঙ্গে বলে দেয়, তারা কখনোই পারবে না। সন্দেহের জবাবে কিতাব সন্দেহকারীর হাতেই একটা পরীক্ষা তুলে দেয়, যা সে নিজে করে দেখতে পারে। 2:2 আয়াতের এই আত্মবিশ্বাস চোখ বুজে মেনে নিতে বলছে না।"
           }
         ]
       },
@@ -53,11 +53,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the scope narrows: hudan lil-muttaqin, guidance for those conscious of Allah. Read alone that sounds like a locked door, but the Quran describes its own guidance in wider terms elsewhere. In 2:185 the same Book is called hudan lin-nas, guidance for mankind. In 41:44 it is called a guidance and a cure for those who believe, while for others there is deafness in their ears. The same revelation is described both ways, and the mufassirun explain why.",
-            "bn": "এরপর পরিধি সংকুচিত হয়: হুদাল লিল-মুত্তাকীন — মুত্তাকীদের জন্য পথনির্দেশ। কেবল এটুকু পড়লে মনে হয় দরজা বন্ধ, অথচ কুরআন অন্যত্র নিজের হিদায়াতকে আরও ব্যাপক ভাষায় বর্ণনা করে। 2:185 আয়াতে সেই একই কিতাবকে বলা হয়েছে হুদাল লিন-নাস — মানুষের জন্য পথনির্দেশ। 41:44 আয়াতে বলা হয়েছে, যারা ঈমান আনে তাদের জন্য এটি হিদায়াত ও আরোগ্য, আর অন্যদের কানে রয়েছে বধিরতা। একই ওহীকে দুইভাবেই বর্ণনা করা হয়েছে, আর মুফাসসিরগণ ব্যাখ্যা করেন কেন।"
+            "bn": "এরপর পরিসর ছোট হয়ে আসে: হুদাল লিল-মুত্তাকীন, মুত্তাকীদের জন্য হিদায়াত। শুধু এটুকু পড়লে মনে হয় দরজায় তালা দেওয়া। অথচ কুরআন অন্য জায়গায় নিজের হিদায়াতের কথা আরও বড় পরিসরে বলে। 2:185 আয়াতে একই কিতাবকে বলা হয়েছে হুদাল লিন-নাস, মানুষের জন্য হিদায়াত। 41:44 আয়াত বলে, যারা ঈমান আনে তাদের জন্য এ কিতাব হিদায়াত ও আরোগ্য, আর অন্যদের কানে আছে বধিরতা। একই ওহিকে দুইভাবেই বলা হয়েছে, আর কেন, তা মুফাসসিরগণ বুঝিয়ে দেন।"
           },
           {
             "en": "Their standard answer distinguishes two things the one word covers. There is guidance as showing the way, offered to every human being without exception, for which the Book is a public road sign. And there is guidance as being made to walk it, which Allah grants. The first is why the Book was sent to mankind at large; the second is why this verse names those who receive it.",
-            "bn": "তাঁদের পরিচিত উত্তর একটি শব্দের ভেতরে থাকা দুটি বিষয়কে আলাদা করে। এক হলো পথ দেখিয়ে দেওয়ার অর্থে হিদায়াত, যা ব্যতিক্রমহীনভাবে প্রত্যেক মানুষকে দেওয়া হয়েছে এবং যার জন্য এই কিতাব সবার জন্য উন্মুক্ত এক পথনির্দেশক ফলক। আর দুই হলো সেই পথে চালিয়ে নেওয়ার অর্থে হিদায়াত, যা আল্লাহ দান করেন। প্রথমটির কারণেই কিতাব গোটা মানবজাতির কাছে পাঠানো হয়েছে; দ্বিতীয়টির কারণেই এই আয়াত নাম নেয় তাদের, যারা তা গ্রহণ করে।"
+            "bn": "তাঁদের প্রচলিত উত্তর হলো, এক শব্দের ভেতরে দুটি জিনিস আছে। এক, পথ দেখিয়ে দেওয়ার হিদায়াত। এটা কোনো ব্যতিক্রম ছাড়াই প্রত্যেক মানুষের জন্য, আর এ ক্ষেত্রে কিতাব যেন রাস্তার ধারে সবার জন্য টাঙানো পথনির্দেশক ফলক। দুই, সেই পথে চালিয়ে নেওয়ার হিদায়াত, যা আল্লাহ দান করেন। প্রথমটির কারণেই কিতাব গোটা মানবজাতির কাছে পাঠানো হয়েছে। দ্বিতীয়টির কারণেই এই আয়াত নাম নেয় তাদের, যারা তা পায়।"
           }
         ]
       },
@@ -69,11 +69,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di gives the plainest reason. A benefit is attributed to the one who actually takes it. The sun rises over everyone and the one who opens his shutters is the one it lights, so the Book is called guidance for the God-conscious because they are the ones in whom it does its work. The Quran uses the same idiom elsewhere: 79:45 tells the Prophet ﷺ that he is only a warner to those who fear the Hour, though he was sent to all people.",
-            "bn": "আস-সাদী সবচেয়ে সরল কারণটি দেন। কোনো উপকারকে সেই ব্যক্তির সঙ্গে যুক্ত করা হয় যে আসলে তা গ্রহণ করে। সূর্য সবার ওপরেই ওঠে, কিন্তু যে জানালা খুলে দেয় তারই ঘর আলোকিত হয়; তাই কিতাবকে মুত্তাকীদের হিদায়াত বলা হয়েছে, কারণ তাদের ভেতরেই এটি কাজ করে। কুরআন অন্যত্রও একই ভঙ্গি ব্যবহার করে: 79:45 আয়াতে নবী ﷺ-কে বলা হয়েছে তিনি কেবল তাদেরই সতর্ককারী যারা কিয়ামতকে ভয় করে, যদিও তাঁকে সব মানুষের কাছেই পাঠানো হয়েছিল।"
+            "bn": "আস-সাদী সবচেয়ে সহজ কারণটা দেন। উপকার যে আসলে নেয়, উপকারটা তার নামেই বলা হয়। সূর্য সবার ওপরেই ওঠে, কিন্তু যে জানালা খোলে, আলো পড়ে তার ঘরেই। তেমনি কিতাবকে মুত্তাকীদের হিদায়াত বলা হয়েছে, কারণ তাদের ভেতরেই কিতাব কাজ করে। কুরআন অন্য জায়গাতেও এভাবে বলে: 79:45 আয়াতে নবী ﷺ-কে বলা হয়েছে, যারা কিয়ামতকে ভয় করে আপনি কেবল তাদেরই সতর্ককারী, অথচ তাঁকে পাঠানো হয়েছিল সব মানুষের কাছে।"
           },
           {
             "en": "There is a second reading that fits alongside it. Taqwa comes from a root meaning to shield oneself, and its beginning is small: a willingness to be corrected, a reluctance to be caught doing wrong. That much a person brings to the first page. What the Book then does is enlarge it, which is exactly what 47:17 states, that those who are guided are increased in guidance and given their taqwa. The little that is brought is not the price of entry. It is the opening the Book widens.",
-            "bn": "এর পাশে বসে এমন আরেকটি পাঠও আছে। 'তাকওয়া' শব্দের ধাতুর অর্থ নিজেকে আড়াল করা বা ঢাল বানানো, আর এর শুরুটা খুব ছোট: সংশোধিত হওয়ার প্রস্তুতি, অন্যায় করতে গিয়ে ধরা পড়ার অস্বস্তি। এটুকু মানুষ প্রথম পৃষ্ঠাতেই সঙ্গে নিয়ে আসে। এরপর কিতাব সেটিকেই বড় করে তোলে, আর 47:17 আয়াত ঠিক এ কথাই বলে — যারা হিদায়াত পেয়েছে আল্লাহ তাদের হিদায়াত বাড়িয়ে দেন এবং তাদের তাকওয়া দান করেন। যেটুকু নিয়ে আসা হয় তা প্রবেশমূল্য নয়। তা সেই ফাঁক, যা কিতাব প্রশস্ত করে দেয়।"
+            "bn": "এর পাশাপাশি আরেকটি ব্যাখ্যাও খাটে। 'তাকওয়া' শব্দের ধাতুর অর্থ নিজেকে বাঁচানো, ঢাল দিয়ে আড়াল করা। এর শুরুটা খুব ছোট: কেউ শুধরে দিলে মেনে নেওয়ার মন, অন্যায় করে ধরা পড়তে না চাওয়া। এটুকু মানুষ প্রথম পৃষ্ঠাতেই সঙ্গে নিয়ে আসে। তারপর কিতাব সেটাকেই বাড়িয়ে তোলে। 47:17 আয়াত ঠিক এ কথাই বলে: যারা হিদায়াত পেয়েছে, আল্লাহ তাদের হিদায়াত বাড়িয়ে দেন এবং তাদের তাকওয়া দান করেন। যেটুকু নিয়ে আসা হয়, তা ঢোকার দাম নয়। ওটাই সেই ফাঁক, যা কিতাব চওড়া করে দেয়।"
           }
         ]
       },
@@ -85,7 +85,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Whoever these God-conscious are, the surah refuses to let them stay an abstraction. The description runs straight on into the verses that follow: 2:3 names belief in the unseen, established prayer and spending from what has been provided; 2:4 adds belief in what was revealed to the Prophet ﷺ and before him, and certainty about the Hereafter; 2:5 closes with the verdict that these are upon guidance from their Lord and these are the successful. The qualification is a checklist, not a mystery.",
-            "bn": "এই মুত্তাকীরা যেই হোন, সূরা তাঁদের কোনো বিমূর্ত ধারণা হয়ে থাকতে দেয় না। বর্ণনাটি সরাসরি পরের আয়াতগুলোতে গড়িয়ে যায়: 2:3 আয়াতে আসে গায়েবের প্রতি ঈমান, নামায কায়েম করা এবং যা রিযিক দেওয়া হয়েছে তা থেকে ব্যয় করা; 2:4 আয়াত যোগ করে নবী ﷺ-এর প্রতি ও তাঁর আগে যা নাযিল হয়েছে তাতে ঈমান এবং আখিরাত সম্পর্কে দৃঢ় বিশ্বাস; 2:5 আয়াত শেষ করে এই রায় দিয়ে যে তারাই তাদের রবের পক্ষ থেকে হিদায়াতের ওপর আছে এবং তারাই সফলকাম। শর্তটি এক রহস্য নয়, বরং একটি তালিকা।"
+            "bn": "এই মুত্তাকীরা যারাই হোন, সূরা তাঁদের ধোঁয়াশায় রাখে না। বর্ণনাটা সোজা পরের আয়াতগুলোতে চলে যায়। 2:3 আয়াত বলে গায়েবের প্রতি ঈমান, নামাজ কায়েম করা, আর যে রিযিক দেওয়া হয়েছে তা থেকে খরচ করার কথা। 2:4 আয়াত যোগ করে নবী ﷺ-এর প্রতি ও তাঁর আগে যা নাজিল হয়েছে তার প্রতি ঈমান, আর আখিরাতের প্রতি ইয়াকিন। 2:5 আয়াত শেষ করে এই রায় দিয়ে: তারাই তাদের রবের পক্ষ থেকে হিদায়াতের ওপর আছে, আর তারাই সফলকাম। শর্তগুলো কোনো রহস্য নয়, একটা তালিকা।"
           }
         ]
       },
@@ -97,7 +97,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Practically this changes the posture more than the schedule. Come to the page as one being addressed rather than one auditing a text, and ask before reading, the way 3:8 teaches, that hearts not be turned away after guidance has come. Then act on one clear instruction from the sitting before opening the next. Guidance in this verse is not information waiting to be collected. It is a road, described by where people stand when they finish reading.",
-            "bn": "ব্যবহারিকভাবে এটি সময়সূচির চেয়ে বেশি বদলে দেয় ভঙ্গিটাকে। পৃষ্ঠার সামনে এমনভাবে আসুন যেন আপনাকেই সম্বোধন করা হচ্ছে, কোনো লেখা যাচাই করতে বসেননি; আর পড়ার আগে চান — যেভাবে 3:8 আয়াত শেখায় — হিদায়াত আসার পর যেন অন্তর বেঁকে না যায়। এরপর পরের পৃষ্ঠা খোলার আগে সেই বৈঠকের একটি স্পষ্ট নির্দেশ কাজে লাগান। এই আয়াতে হিদায়াত মানে সংগ্রহের অপেক্ষায় থাকা তথ্য নয়। এটি একটি পথ, পড়া শেষে মানুষ কোথায় দাঁড়ায় তা দিয়েই এর পরিচয়।"
+            "bn": "বাস্তবে এতে সময়সূচির চেয়ে বেশি বদলায় পড়ার মনোভাব। পৃষ্ঠার সামনে বসুন এমনভাবে, যেন কথাগুলো আপনাকেই বলা হচ্ছে, কোনো লেখা যাচাই করতে বসেননি। পড়ার আগে দোয়া করুন, যেমন 3:8 আয়াত শেখায়: হিদায়াত আসার পর অন্তর যেন বাঁকা হয়ে না যায়। তারপর পরের বার কিতাব খোলার আগে এ বৈঠকের একটা স্পষ্ট নির্দেশ আমলে আনুন। এই আয়াতে হিদায়াত মানে জমিয়ে রাখার মতো তথ্য নয়। এটা একটা পথ, আর পড়া শেষে মানুষ কোথায় দাঁড়িয়ে থাকে, তা দিয়েই পথটা চেনা যায়।"
           }
         ]
       }
@@ -113,11 +113,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Quran's longest surah opens by sorting humanity into three. Four verses, 2:2-5, describe the believers and end with their success. Two verses, 2:6-7, dispatch the open disbelievers, sealed against warning. Then thirteen verses, 2:8-20, are given to a third group: those who say they believe and do not. The commentators draw the obvious lesson from the arithmetic — the concealed disease needed the longest description, because it is the hardest to see.",
-            "bn": "কুরআনের দীর্ঘতম সূরা শুরু হয় মানুষকে তিন ভাগে সাজিয়ে। চারটি আয়াত, 2:2-5, মুমিনদের বর্ণনা করে এবং শেষ হয় তাদের সাফল্যে। দুটি আয়াত, 2:6-7, প্রকাশ্য কাফিরদের কথা সেরে ফেলে — সতর্কবার্তার বিরুদ্ধে যারা মোহরাঙ্কিত। তারপর তেরোটি আয়াত, 2:8-20, বরাদ্দ তৃতীয় এক দলের জন্য: যারা বলে আমরা বিশ্বাস করি, অথচ করে না। এই পাটিগণিত থেকে মুফাসসিরগণ স্বাভাবিক শিক্ষাটিই টানেন — লুকানো রোগটির জন্যই দীর্ঘতম বর্ণনা দরকার ছিল, কারণ সেটিই দেখা সবচেয়ে কঠিন।"
+            "bn": "কুরআনের সবচেয়ে বড় সূরা শুরু হয় মানুষকে তিন ভাগে ভাগ করে। চারটি আয়াত, 2:2-5, মুমিনদের কথা বলে, আর শেষ হয় তাদের সফলতায়। দুটি আয়াত, 2:6-7, খোলাখুলি কাফিরদের কথা অল্পেই সেরে ফেলে; তাদের অন্তরে মোহর পড়ে গেছে, সতর্কবাণী আর পৌঁছায় না। তারপর তেরোটি আয়াত, 2:8-20, তৃতীয় এক দলের জন্য: যারা বলে, আমরা ঈমান এনেছি, অথচ আনেনি। এই হিসাব থেকে মুফাসসিরগণ সহজ শিক্ষাটাই টানেন: লুকানো রোগটার জন্যই সবচেয়ে লম্বা বর্ণনা লেগেছে, কারণ সেটাই সবচেয়ে কম চোখে পড়ে।"
           },
           {
             "en": "The hypocrites of Madinah were a fact of the community this surah addressed: men who entered Islam outwardly, for safety or advantage, after the believers grew strong, while their hearts stayed behind. But the passage is worded without names, in the present tense of every generation — wa minan-nas, and among mankind are those who say. The Quran preserved the description and not the roster, because the disease outlives its first patients.",
-            "bn": "মদীনার মুনাফিকরা ছিল এই সূরার সম্বোধিত সমাজের এক বাস্তবতা: মুমিনরা শক্তিশালী হওয়ার পর নিরাপত্তা বা সুবিধার জন্য বাহ্যিকভাবে ইসলামে ঢোকা মানুষ, যাদের হৃদয় পেছনেই রয়ে গিয়েছিল। কিন্তু অংশটির ভাষায় কোনো নাম নেই — তা প্রতিটি প্রজন্মের বর্তমান কালে লেখা: ওয়া মিনান-নাস — আর মানুষের মধ্যে এমন কিছু লোক আছে যারা বলে। কুরআন সংরক্ষণ করেছে বর্ণনাটি, তালিকাটি নয় — কারণ রোগ তার প্রথম রোগীদের চেয়ে বেশি দিন বাঁচে।"
+            "bn": "এ সূরা যে সমাজকে সম্বোধন করেছিল, মদীনার মুনাফিকরা ছিল সেখানকার বাস্তবতা। মুমিনরা শক্তিশালী হওয়ার পর তারা নিরাপত্তা বা সুবিধার আশায় বাইরে বাইরে ইসলামে ঢুকেছিল, কিন্তু অন্তর পড়ে ছিল পেছনে। তবু এই অংশে কারও নাম নেই। ভাষাটা বর্তমান কালের, যা প্রতিটি প্রজন্মের বেলায় খাটে: ওয়া মিনান-নাস, আর মানুষের মধ্যে কিছু লোক আছে যারা বলে। কুরআন সংরক্ষণ করেছে বর্ণনাটা, নামের তালিকা নয়। কারণ রোগটা তার প্রথম রোগীদের পরেও বেঁচে থাকে।"
           }
         ]
       },
@@ -129,11 +129,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Their sentence is doctrinally perfect: we believe in Allah and in the Last Day — the opening and the end of faith, the two articles that carry all the rest. The refutation does not accuse them of misstating anything; it goes beneath the words: wa ma hum bi-mu'minin, and they are not believers at all, with an emphatic particle pressed into the denial. The Quran here separates two things we habitually merge — the content of a statement, and the truthfulness of its speaker.",
-            "bn": "তাদের বাক্যটি আকীদার দিক থেকে নিখুঁত: আমরা ঈমান এনেছি আল্লাহর প্রতি ও শেষ দিবসের প্রতি — ঈমানের সূচনা ও সমাপ্তি, যে দুটি স্তম্ভ বাকি সবকিছু বহন করে। খণ্ডনটি তাদের কথায় কোনো ভুল ধরেনি; তা নেমে যায় শব্দের নিচে: ওয়া মা হুম বি-মু'মিনীন — আর তারা মোটেও মুমিন নয়; অস্বীকৃতির ভেতরে চেপে বসানো এক জোরদার অব্যয়সহ। কুরআন এখানে আলাদা করে দেয় দুটি জিনিস, যা আমরা অভ্যাসবশে মিশিয়ে ফেলি — বক্তব্যের বিষয়বস্তু, আর বক্তার সত্যবাদিতা।"
+            "bn": "আকীদার দিক থেকে তাদের কথায় কোনো খুঁত নেই: আমরা আল্লাহর প্রতি ও শেষ দিবসের প্রতি ঈমান এনেছি। এ দুটোই ঈমানের শুরু আর শেষ, বাকি সব এ দুই স্তম্ভের ওপর দাঁড়িয়ে। জবাবে কুরআন তাদের কথায় কোনো ভুল ধরেনি। জবাব চলে যায় শব্দের নিচে: ওয়া মা হুম বি-মু'মিনীন, আর তারা মোটেই মুমিন নয়। এই না-এর ভেতরে জোর দেওয়ার একটা অব্যয়ও বসানো আছে। কুরআন এখানে এমন দুটি জিনিস আলাদা করে, যা আমরা অভ্যাসবশে গুলিয়ে ফেলি: কথার বিষয়বস্তু, আর যে বলছে তার সত্যবাদিতা।"
           },
           {
             "en": "That separation returns in 63:1, where hypocrites state a true sentence — that Muhammad ﷺ is the Messenger of Allah — and Allah, affirming the sentence itself, testifies that they are liars in saying it. Truth in the mouth does not certify truth in the heart. A claim of faith is weighed not against a creed but against the person making it, and only One party can weigh that.",
-            "bn": "সেই বিভাজন ফিরে আসে 63:1 আয়াতে — মুনাফিকরা একটি সত্য বাক্যই বলে: মুহাম্মাদ ﷺ আল্লাহর রাসূল; আর আল্লাহ, বাক্যটিকে নিজেই সত্যায়ন করে, সাক্ষ্য দেন যে এ কথা বলায় তারা মিথ্যাবাদী। মুখের সত্য হৃদয়ের সত্যের সনদ নয়। ঈমানের দাবি ওজন করা হয় আকীদার বিপরীতে নয়, দাবিদার মানুষটির বিপরীতে — আর সেই ওজন করার সাধ্য কেবল এক সত্তারই।"
+            "bn": "এই পার্থক্য আবার আসে 63:1 আয়াতে। সেখানে মুনাফিকরা একটা সত্য কথাই বলে: মুহাম্মাদ ﷺ আল্লাহর রাসূল। আল্লাহ কথাটাকে সত্য বলে মেনে নিয়েও সাক্ষ্য দেন, এ কথা বলায় তারা মিথ্যাবাদী। মুখে সত্য থাকলেই অন্তরে সত্য আছে, এমন সনদ মেলে না। ঈমানের দাবি মাপা হয় আকীদার সঙ্গে মিলিয়ে নয়, যে দাবি করছে তার সঙ্গে মিলিয়ে। আর সেটা মাপতে পারেন কেবল একজনই।"
           }
         ]
       },
@@ -145,11 +145,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "They seek to deceive Allah and those who believe — yukhadi'un, a verb form that pictures deception as an attempted contest. The verse's answer removes the other contestant: they deceive none but themselves, and they perceive it not. Nothing lands on Allah, who knows what they conceal, and nothing lands durably on the believers. What remains is the deceiver himself, spending his one life maintaining a performance whose only permanent audience is the performer.",
-            "bn": "তারা আল্লাহ ও মুমিনদের প্রতারিত করতে চায় — ইউখাদিঊন, এমন এক ক্রিয়ারূপ যা প্রতারণাকে আঁকে চেষ্টা করা এক প্রতিযোগিতা হিসেবে। আয়াতের জবাব অপর প্রতিযোগীকেই সরিয়ে দেয়: তারা নিজেদের ছাড়া কাউকে প্রতারিত করে না, অথচ টের পায় না। আল্লাহর ওপর কিছুই পড়ে না — তারা যা লুকায় তিনি তা জানেন; মুমিনদের ওপরও স্থায়ীভাবে কিছু পড়ে না। পড়ে থাকে কেবল প্রতারক নিজে — তার একটিমাত্র জীবন খরচ করছে এমন এক অভিনয় টিকিয়ে রাখতে, যার একমাত্র স্থায়ী দর্শক অভিনেতা নিজেই।"
+            "bn": "তারা আল্লাহ ও মুমিনদের ধোঁকা দিতে চায়। ক্রিয়াটি হলো ইউখাদিঊন, এমন এক রূপ যা ধোঁকাকে দেখায় দুই পক্ষের লড়াইয়ের চেষ্টা হিসেবে। আয়াতের জবাব অপর পক্ষকেই সরিয়ে দেয়: তারা নিজেদের ছাড়া কাউকে ধোঁকা দেয় না, অথচ তা টের পায় না। আল্লাহর গায়ে কিছুই লাগে না, তারা যা লুকায় তিনি তা জানেন। মুমিনদের গায়েও স্থায়ীভাবে কিছু লাগে না। বাকি থাকে কেবল প্রতারক নিজে। তার একটাই জীবন, আর সেটা সে খরচ করে এমন এক অভিনয় চালিয়ে যেতে, যার একমাত্র স্থায়ী দর্শক সে নিজেই।"
           },
           {
             "en": "The lack of perception is the frightening clause. Hypocrisy in this passage is not a cold decision renewed each morning; it becomes a condition its carrier can no longer feel. Each successful performance makes the mask more comfortable, until the actor forgets it is a mask. That is why the passage speaks of a disease rather than a crime — crimes are known to their doers, while a disease can spread precisely because it goes unfelt.",
-            "bn": "টের না পাওয়াটাই ভয়ের বাক্যাংশ। এই অংশে মুনাফিকি প্রতিদিন সকালে নতুন করে নেওয়া কোনো ঠান্ডা সিদ্ধান্ত নয়; তা এমন এক অবস্থায় পরিণত হয়, যা তার বাহক আর অনুভবই করতে পারে না। প্রতিটি সফল অভিনয় মুখোশটিকে আরও আরামদায়ক করে তোলে, শেষে অভিনেতা ভুলে যায় যে ওটি একটি মুখোশ। এ কারণেই অংশটি অপরাধ নয়, রোগের ভাষায় কথা বলে — অপরাধ তার কর্তার জানা থাকে; কিন্তু রোগ ছড়াতে পারে ঠিক এই জন্যই যে, তা অনুভূত হয় না।"
+            "bn": "ভয়ের কথাটা হলো ওই 'টের পায় না'। এই অংশে মুনাফিকি ঠান্ডা মাথায় নেওয়া এমন কোনো সিদ্ধান্ত নয়, যা প্রতিদিন সকালে নতুন করে নিতে হয়। এটা এমন এক অবস্থা হয়ে দাঁড়ায়, যা যার ভেতরে আছে সে আর অনুভবই করতে পারে না। প্রতিটি সফল অভিনয়ে মুখোশটা আরেকটু আরামের হয়, শেষে অভিনেতা ভুলেই যায় যে ওটা মুখোশ। এ কারণেই অংশটি অপরাধের কথা না বলে রোগের কথা বলে। অপরাধী জানে সে অপরাধ করছে, কিন্তু রোগ ছড়াতে পারে ঠিক এজন্যই যে তা টের পাওয়া যায় না।"
           }
         ]
       },
@@ -161,11 +161,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fi qulubihim marad — in their hearts is a disease. The early commentators gloss it as doubt, and Ibn Kathir relates their view that this is a disease in the religion rather than the body. Then a clause of precise justice: fa-zadahumu Allahu marada, so Allah increased them in disease. The increase is recompense in kind, measure for measure — as they chose falseness, more falseness was opened to them. No spiritual state stands still; it compounds in whichever direction it is fed.",
-            "bn": "ফী কুলূবিহিম মারাদ — তাদের হৃদয়ে আছে এক রোগ। প্রাচীন মুফাসসিরগণ এর অর্থ করেছেন সন্দেহ, আর ইবনে কাসীর তাঁদের এই বক্তব্য বর্ণনা করেন যে এটি শরীরের নয়, দ্বীনের রোগ। তারপর সূক্ষ্ম ইনসাফের একটি বাক্যাংশ: ফা-যাদাহুমুল্লাহু মারাদা — ফলে আল্লাহ তাদের রোগ বাড়িয়ে দিলেন। এই বৃদ্ধি সমজাতীয় প্রতিদান, মাপে মাপে — তারা যেহেতু মিথ্যাকে বেছে নিল, তাদের জন্য খুলে দেওয়া হলো আরও মিথ্যা। কোনো আধ্যাত্মিক অবস্থাই স্থির থাকে না; যে দিকে খোরাক পায়, সেদিকেই তা চক্রবৃদ্ধিতে বাড়ে।"
+            "bn": "ফী কুলূবিহিম মারাদ: তাদের অন্তরে আছে রোগ। প্রথম যুগের মুফাসসিরগণ এর অর্থ করেছেন সন্দেহ। ইবনে কাসীর তাঁদের এই মত বর্ণনা করেন যে, এ রোগ শরীরের নয়, দ্বীনের। তারপর আসে মাপা ইনসাফের একটি বাক্য: ফা-যাদাহুমুল্লাহু মারাদা, ফলে আল্লাহ তাদের রোগ বাড়িয়ে দিলেন। এই বাড়িয়ে দেওয়া তাদের কাজেরই সমান মাপের প্রতিদান। তারা মিথ্যাকে বেছে নিয়েছিল, তাই তাদের সামনে আরও মিথ্যার পথ খুলে দেওয়া হলো। অন্তরের কোনো অবস্থাই এক জায়গায় থেমে থাকে না। যেদিকে খোরাক পায়, সেদিকেই চক্রবৃদ্ধি হারে বাড়ে।"
           },
           {
             "en": "The sentence of punishment is attached to a habit, not an act: a painful punishment bima kanu yakdhibun — for what they used to lie, the Arabic construction of kana with the present verb marking continuous, habitual practice. The passage indicts lying as a settled way of being. One lie is a sin to repent of; lying as a maintained system is the load-bearing wall of hypocrisy itself, and the punishment clause names the wall, not a single brick.",
-            "bn": "শাস্তির রায়টি জোড়া হয়েছে কোনো একক কাজের সঙ্গে নয়, অভ্যাসের সঙ্গে: যন্ত্রণাদায়ক শাস্তি — বিমা কানূ ইয়াকযিবূন, তারা যে মিথ্যা বলে আসছিল সে কারণে; আরবিতে কানা-র সঙ্গে বর্তমান ক্রিয়ার এই গঠন বোঝায় চলমান, অভ্যাসগত চর্চা। অংশটি অভিযুক্ত করে মিথ্যাকে এক থিতু হয়ে বসা জীবনধারা হিসেবে। একটি মিথ্যা তওবাযোগ্য একটি গুনাহ; কিন্তু ব্যবস্থা হিসেবে টিকিয়ে রাখা মিথ্যা খোদ মুনাফিকির ভারবাহী দেয়াল — আর শাস্তির বাক্যাংশ নাম নেয় দেয়ালটির, কোনো একটি ইটের নয়।"
+            "bn": "শাস্তির রায় বাঁধা হয়েছে একটা অভ্যাসের সঙ্গে, কোনো একটি কাজের সঙ্গে নয়: যন্ত্রণাদায়ক শাস্তি, বিমা কানূ ইয়াকযিবূন, কারণ তারা মিথ্যা বলে আসছিল। আরবিতে 'কানা'-র সঙ্গে বর্তমান কালের ক্রিয়া বসলে বোঝায় লাগাতার, অভ্যাসের কাজ। তাই অংশটি মিথ্যাকে ধরছে জীবনের স্থায়ী ধরন হিসেবে। একটা মিথ্যা এমন গুনাহ, যার জন্য তওবা করা যায়। কিন্তু নিয়ম করে টিকিয়ে রাখা মিথ্যা হলো মুনাফিকির ভার বয়ে রাখা দেয়াল। শাস্তির বাক্যটি নাম নেয় সেই দেয়ালের, আলাদা কোনো ইটের নয়।"
           }
         ]
       },
@@ -177,7 +177,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The following verses extend the portrait. In 2:11-12 they answer the charge of corruption with a claim of reform — we are only setters-right — and the Quran replies that they are the corrupters, though they perceive not. In 2:14 the two faces are shown in motion: meeting the believers they say we believe, and alone with their devils they say we are with you, we were only mocking. Every scene repeats the first one — a public sentence, a private reality, and a gap.",
-            "bn": "পরের আয়াতগুলো প্রতিকৃতিটি আরও বিস্তৃত করে। 2:11-12 আয়াতে বিপর্যয় ঘটানোর অভিযোগের জবাবে তারা তোলে সংস্কারের দাবি — আমরা তো কেবল সংশোধনকারী — আর কুরআন জবাব দেয়: তারাই বিপর্যয়কারী, অথচ টের পায় না। 2:14 আয়াতে দুই মুখ দেখা যায় চলমান অবস্থায়: মুমিনদের সঙ্গে দেখা হলে বলে আমরা ঈমান এনেছি, আর নিজেদের শয়তানদের সঙ্গে একা হলে বলে আমরা তোমাদের সঙ্গেই আছি, আমরা তো কেবল ঠাট্টা করছিলাম। প্রতিটি দৃশ্য প্রথম দৃশ্যেরই পুনরাবৃত্তি — একটি প্রকাশ্য বাক্য, একটি গোপন বাস্তবতা, আর মাঝখানে ফাঁক।"
+            "bn": "পরের আয়াতগুলো ছবিটাকে আরও বড় করে। 2:11-12 আয়াতে ফাসাদের অভিযোগের জবাবে তারা দাবি করে, আমরা তো কেবল সংশোধনকারী। কুরআন জবাব দেয়: তারাই ফাসাদকারী, কিন্তু তারা টের পায় না। 2:14 আয়াতে দুই চেহারা দেখা যায় চলন্ত অবস্থায়: মুমিনদের সঙ্গে দেখা হলে বলে, আমরা ঈমান এনেছি; আর নিজেদের শয়তানদের সঙ্গে একা হলে বলে, আমরা তোমাদের সঙ্গেই আছি, আমরা তো কেবল ঠাট্টা করছিলাম। প্রতিটি দৃশ্যে প্রথম দৃশ্যটাই ফিরে আসে: প্রকাশ্যে এক কথা, গোপনে আরেক বাস্তবতা, আর মাঝখানে ফাঁক।"
           }
         ]
       },
@@ -189,11 +189,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The passage is a mirror, and mirrors are for the person in front of them. Its use is not to diagnose neighbours but to run the audit inward: where do my words about faith outrun my heart — in public religiosity, in pious phrases typed without feeling, in commitments announced and quietly dropped? The verses warn that the gap does not hold steady. Whatever is performed and not meant widens it; whatever is meant and practised heals it.",
-            "bn": "অংশটি একটি আয়না, আর আয়না তার সামনের মানুষটির জন্যই। এর ব্যবহার প্রতিবেশীর রোগনির্ণয়ে নয়, ভেতরমুখী হিসাব নেওয়ায়: ঈমান নিয়ে আমার কথা কোথায় আমার হৃদয়কে ছাড়িয়ে যায় — প্রকাশ্য ধার্মিকতায়, অনুভূতি ছাড়া টাইপ করা ভক্তিবাক্যে, ঘোষণা দিয়ে চুপিচুপি ছেড়ে দেওয়া অঙ্গীকারে? আয়াতগুলো সতর্ক করে: এই ফাঁক স্থির থাকে না। যা অভিনয় করা হয় অথচ মন থেকে নয়, তা ফাঁকটি চওড়া করে; যা মন থেকে চাওয়া ও চর্চা করা হয়, তা সারিয়ে তোলে।"
+            "bn": "এই অংশটা একটা আয়না, আর আয়না তো যে সামনে দাঁড়ায় তার জন্যই। এর কাজ প্রতিবেশীর দোষ ধরা নয়, নিজের হিসাব নেওয়া। ঈমান নিয়ে আমার মুখের কথা কোথায় আমার অন্তরকে ছাড়িয়ে যায়? লোক দেখানো দ্বীনদারিতে, মন ছাড়া টাইপ করা দ্বীনি বাক্যে, ঘোষণা দিয়ে চুপিচুপি ছেড়ে দেওয়া ওয়াদায়? আয়াতগুলো সতর্ক করে, এই ফাঁক এক জায়গায় থেমে থাকে না। মন থেকে না এনে যা শুধু দেখানো হয়, তা ফাঁকটা চওড়া করে। আর যা মন থেকে আসে এবং আমলে আসে, তা ফাঁকটা সারিয়ে তোলে।"
           },
           {
             "en": "The passage also shows the direction of repair by naming the mechanics of decline. If lying as a habit feeds the disease, truthfulness as a habit starves it: one commitment kept exactly as announced, one pious sentence not said because it was not yet true, one deed moved from the seen column to the unseen. The believers described in 2:2-5 differ not by grander claims but by smaller gaps — and the gap, not the claim, is what this passage measures.",
-            "bn": "অবনতির কলকব্জার নাম নিয়ে অংশটি মেরামতের দিকও দেখিয়ে দেয়। অভ্যাসের মিথ্যা যদি রোগের খোরাক হয়, অভ্যাসের সত্যবাদিতা তাকে উপোস রাখে: ঘোষণামতো হুবহু রক্ষা করা একটি অঙ্গীকার, এখনো সত্য হয়ে ওঠেনি বলে না-বলা একটি ভক্তিবাক্য, দেখার ঘর থেকে না-দেখার ঘরে সরিয়ে নেওয়া একটি আমল। 2:2-5 আয়াতে বর্ণিত মুমিনরা আলাদা বড় দাবিতে নয়, ছোট ফাঁকে — আর এই অংশ মাপে দাবিটি নয়, ফাঁকটিই।"
+            "bn": "অবনতি কীভাবে ঘটে, তা দেখিয়ে দিয়ে অংশটি সারানোর পথও দেখায়। মিথ্যা বলার অভ্যাস যদি রোগের খোরাক হয়, তবে সত্য বলার অভ্যাস রোগটাকে না খাইয়ে মারে: যেমন বলেছিলেন হুবহু তেমনি রাখা একটা ওয়াদা; এখনো নিজের মধ্যে সত্য হয়নি বলে না-বলা একটা দ্বীনি কথা; প্রকাশ্য আমলের তালিকা থেকে গোপন আমলের তালিকায় সরিয়ে নেওয়া একটা আমল। 2:2-5 আয়াতের মুমিনরা আলাদা বড় দাবির জোরে নয়, ফাঁক ছোট বলে। আর এই অংশ মাপে দাবিটা নয়, ফাঁকটাই।"
           }
         ]
       }
@@ -353,7 +353,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir notes that the first imperative addressed to human beings in the order of the mushaf is 2:21, worship your Lord who created you and those before you, and that the first prohibition follows here. That placement is worth holding. Before any ruling on food, marriage, war or wealth, the Book issues one instruction and one ban, and they are two sides of a single matter: give worship to Him, and do not hand it to anything else.",
-            "bn": "ইবনে কাসীর উল্লেখ করেন, মুসহাফের ক্রম অনুসারে মানুষের উদ্দেশে প্রথম আদেশটি হলো 2:21 আয়াত — তোমাদের সেই রবের ইবাদত করো যিনি তোমাদের ও তোমাদের পূর্ববর্তীদের সৃষ্টি করেছেন — আর প্রথম নিষেধাজ্ঞাটি আসে এখানেই। এই অবস্থানটি মনে রাখার মতো। খাদ্য, বিবাহ, যুদ্ধ বা সম্পদ নিয়ে কোনো বিধান আসার আগেই কিতাব একটি আদেশ ও একটি নিষেধ জারি করে, আর দুটিই একই বিষয়ের দুই পিঠ: ইবাদত তাঁকেই দাও, আর অন্য কিছুর হাতে তুলে দিয়ো না।"
+            "bn": "ইবনে কাসীর বলেন, মুসহাফের ক্রমে মানুষকে দেওয়া প্রথম আদেশ হলো 2:21 আয়াত: তোমাদের সেই রবের ইবাদত করো, যিনি তোমাদের ও তোমাদের আগের লোকদের সৃষ্টি করেছেন। আর প্রথম নিষেধটা আসে ঠিক এখানে। জায়গাটা মনে রাখার মতো। খাবার, বিয়ে, যুদ্ধ বা সম্পদের কোনো বিধান আসার আগেই কিতাব একটা আদেশ দেয় আর একটা নিষেধ করে। দুটো একই কথার দুই পিঠ: ইবাদত তাঁকেই দাও, অন্য কিছুকে দিয়ো না।"
           }
         ]
       },
@@ -365,11 +365,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The evidence offered is domestic, not astronomical. He made the earth firash for you, the word for bedding spread out to lie on, and the sky bina', a built structure raised over it. Put together they describe a house: a floor prepared for rest and a roof above it. The argument is not that these facts are surprising. It is that they are so ordinary that we walk across the floor and under the roof all day without registering that someone laid them out.",
-            "bn": "এখানে যে প্রমাণ পেশ করা হয় তা জ্যোতির্বিজ্ঞানের নয়, ঘরকন্নার। তিনি তোমাদের জন্য যমীনকে করেছেন 'ফিরাশ' — বিছিয়ে দেওয়া বিছানা, যার ওপর শোয়া যায়; আর আকাশকে করেছেন 'বিনা' — তার ওপরে তোলা এক নির্মিত কাঠামো। দুটি মিলিয়ে একটি ঘরের বর্ণনা: বিশ্রামের জন্য প্রস্তুত মেঝে আর তার ওপরে ছাদ। যুক্তিটি এই নয় যে এসব তথ্য বিস্ময়কর। যুক্তিটি হলো, এগুলো এতই সাধারণ যে আমরা সারাদিন সেই মেঝের ওপর দিয়ে হাঁটি ও সেই ছাদের নিচে থাকি, অথচ খেয়ালই করি না কেউ এগুলো বিছিয়ে দিয়েছেন।"
+            "bn": "এখানে যে দলিল দেওয়া হয়েছে, তা আকাশের গ্রহ-নক্ষত্রের হিসাব নয়, ঘর-গৃহস্থালির কথা। তিনি তোমাদের জন্য যমীনকে করেছেন 'ফিরাশ'। শব্দটার মানে শোয়ার জন্য বিছিয়ে দেওয়া বিছানা। আর আকাশকে করেছেন 'বিনা', তার ওপরে তোলা এক নির্মাণ। দুটো মিলিয়ে একটা ঘরের ছবি: বিশ্রামের জন্য তৈরি মেঝে, আর মাথার ওপর ছাদ। যুক্তিটা এই নয় যে এসব জিনিস খুব অবাক করার মতো। যুক্তিটা হলো, এগুলো এতই সাধারণ যে আমরা সারা দিন এই মেঝেতে হাঁটি, এই ছাদের নিচে থাকি, অথচ খেয়ালই করি না যে কেউ এগুলো বিছিয়ে দিয়েছেন।"
           },
           {
             "en": "Then the chain of provision: He sent down water from the sky and brought out by it fruits as rizq for you. Notice that the sentence does not stop at rain and plants. It runs all the way to your table and names what arrives there as provision addressed to you. The Arabic marks this twice, once at the start with lakum, for you, and once at the end with lakum again. The whole arrangement is framed as something done on your behalf.",
-            "bn": "এরপর আসে রিযিকের ধারা: তিনি আকাশ থেকে পানি নামিয়েছেন এবং তা দিয়ে ফলমূল বের করেছেন তোমাদের রিযিক হিসেবে। লক্ষ করুন, বাক্যটি বৃষ্টি আর গাছপালাতেই থামে না। এটি গড়িয়ে যায় একেবারে আপনার খাবারের পাত পর্যন্ত এবং সেখানে যা পৌঁছায় তাকে নাম দেয় আপনার উদ্দেশে দেওয়া রিযিক। আরবি এটি দুবার চিহ্নিত করে — শুরুতে একবার 'লাকুম', অর্থাৎ তোমাদের জন্য, আর শেষে আবার 'লাকুম'। গোটা ব্যবস্থাটিকেই উপস্থাপন করা হয় তোমাদের পক্ষে করা কিছু হিসেবে।"
+            "bn": "তারপর রিযিকের ধারা: তিনি আকাশ থেকে পানি নামিয়েছেন, আর তা দিয়ে ফলমূল বের করেছেন তোমাদের রিযিক হিসেবে। খেয়াল করুন, বাক্যটা বৃষ্টি আর গাছপালায় থেমে যায় না। এটা চলে আসে একেবারে আপনার খাবারের থালা পর্যন্ত, আর সেখানে যা পৌঁছায় তাকে বলে আপনার নামে পাঠানো রিযিক। আরবিতে কথাটা দুবার চিহ্নিত: শুরুতে একবার 'লাকুম', অর্থাৎ তোমাদের জন্য, আর শেষে আবার 'লাকুম'। পুরো ব্যবস্থাটাকেই দেখানো হয়েছে আপনার জন্য করা কাজ হিসেবে।"
           }
         ]
       },
@@ -381,11 +381,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The prohibition reuses the verse's own opening verb, and the effect is easy to miss in translation. He is the one who made, ja'ala, the earth and the sky for you. So do not make, taj'alu, rivals for Allah. The same act of assigning a role is being described twice: He assigned these things to your benefit, so do not assign His place to them. Read that way the ban is not an arbitrary rule but the exact reversal of what has just been established.",
-            "bn": "নিষেধাজ্ঞাটি আয়াতের নিজের শুরুর ক্রিয়াপদটিই আবার ব্যবহার করে, আর অনুবাদে এই প্রতিধ্বনি সহজেই হারিয়ে যায়। তিনিই সেই সত্তা যিনি তোমাদের জন্য যমীন ও আকাশকে 'জাআলা' করেছেন — বানিয়েছেন। সুতরাং তোমরা আল্লাহর জন্য সমকক্ষ 'তাজআলূ' করো না — বানিয়ো না। একই ভূমিকা নির্ধারণের কাজ দুবার বর্ণিত হচ্ছে: তিনি এসব জিনিসকে তোমাদের উপকারে নিয়োজিত করেছেন, সুতরাং তাঁর জায়গাটি এগুলোকে দিয়ে দিয়ো না। এভাবে পড়লে নিষেধটি খামখেয়ালি বিধান নয়, বরং একটু আগে যা প্রতিষ্ঠিত হলো তারই হুবহু উল্টো।"
+            "bn": "নিষেধের বাক্যে আয়াতের শুরুর ক্রিয়াটাই আবার এসেছে, আর অনুবাদে এই মিলটা সহজেই হারিয়ে যায়। তিনিই তোমাদের জন্য যমীন ও আকাশকে বানিয়েছেন, 'জাআলা'। তাই তোমরা আল্লাহর সমকক্ষ বানিয়ো না, 'তাজআলূ'। একই কাজ, অর্থাৎ কাউকে একটা ভূমিকায় বসানো, দুবার বলা হচ্ছে। তিনি এসব জিনিস তোমাদের উপকারে বসিয়েছেন, তাই তোমরা এগুলোকে তাঁর আসনে বসিয়ো না। এভাবে পড়লে নিষেধটা খেয়ালখুশির কোনো নিয়ম নয়, বরং একটু আগে যা বলা হলো, ঠিক তারই উল্টো পিঠ।"
           },
           {
             "en": "Andad is the plural of nidd, a rival or a match, something set up as an equal in a matter. It is a broader word than idol. A nidd is whatever is given a share of the reliance, fear, love or obedience that belongs to Allah alone. The Musnad of Ahmad records from Ibn Abbas (RA) that when a man said to the Prophet ﷺ, what Allah wills and what you will, he replied, have you made me a rival to Allah, and told him to say what Allah alone wills.",
-            "bn": "'আনদাদ' হলো 'নিদ'-এর বহুবচন — প্রতিদ্বন্দ্বী বা সমকক্ষ, কোনো বিষয়ে যাকে সমান করে দাঁড় করানো হয়। শব্দটি 'মূর্তি'র চেয়ে ব্যাপক। যাকেই আল্লাহর একচ্ছত্র প্রাপ্য নির্ভরতা, ভয়, ভালোবাসা বা আনুগত্যের ভাগ দেওয়া হয়, সে-ই একটি 'নিদ'। ইমাম আহমদের মুসনাদে ইবনে আব্বাস (রাঃ) থেকে বর্ণিত আছে, এক ব্যক্তি নবী ﷺ-কে বলল, আল্লাহ যা চান আর আপনি যা চান; তিনি বললেন, তুমি কি আমাকে আল্লাহর সমকক্ষ বানিয়ে দিলে, আর তাকে বললেন বলতে — কেবল আল্লাহ যা চান।"
+            "bn": "'আনদাদ' হলো 'নিদ'-এর বহুবচন। নিদ মানে প্রতিদ্বন্দ্বী বা সমকক্ষ, কোনো ব্যাপারে যাকে সমান করে দাঁড় করানো হয়। শব্দটা 'মূর্তি'র চেয়ে অনেক বড় পরিসরের। যে ভরসা, ভয়, ভালোবাসা বা আনুগত্য কেবল আল্লাহর প্রাপ্য, তার ভাগ যাকেই দেওয়া হয়, সে-ই 'নিদ'। ইমাম আহমদের মুসনাদে ইবনে আব্বাস (রাঃ) থেকে বর্ণিত আছে: এক লোক নবী ﷺ-কে বলল, আল্লাহ যা চান আর আপনি যা চান। তিনি বললেন, তুমি কি আমাকে আল্লাহর সমকক্ষ বানিয়ে দিলে? আর তাকে বলতে বললেন: কেবল আল্লাহ যা চান।"
           }
         ]
       },
@@ -397,7 +397,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes on two Arabic words that change the nature of the charge: wa antum ta'lamun, while you know. The people first addressed were not ignorant of Allah. They acknowledged Him as Creator and still divided their worship, which is why 35:3 can ask them whether there is any creator besides Allah who provides for them from the sky and the earth. The Quran rarely treats shirk as an information problem. It treats it as a failure to act on knowledge already held.",
-            "bn": "আয়াতটি শেষ হয় আরবি দুটি শব্দে, যা অভিযোগের ধরনই বদলে দেয়: 'ওয়া আনতুম তা'লামূন' — অথচ তোমরা জানো। যাদের উদ্দেশে এটি প্রথম নাযিল হয়, তারা আল্লাহ সম্পর্কে অজ্ঞ ছিল না। তারা তাঁকে স্রষ্টা বলে স্বীকার করত, তবু ইবাদত ভাগ করে দিত; সে কারণেই 35:3 আয়াত তাদের প্রশ্ন করতে পারে, আল্লাহ ছাড়া আর কোনো স্রষ্টা আছে কি যে আকাশ ও যমীন থেকে তোমাদের রিযিক দেয়। কুরআন শিরককে খুব কমই তথ্যের ঘাটতি হিসেবে দেখে। সে একে দেখে ইতিমধ্যে জানা জ্ঞানের ওপর কাজ না করার ব্যর্থতা হিসেবে।"
+            "bn": "আয়াত শেষ হয় দুটি আরবি শব্দে, আর এতেই অভিযোগের ধরন বদলে যায়: 'ওয়া আনতুম তা'লামূন', অথচ তোমরা জানো। প্রথম যাদের উদ্দেশে আয়াতটি নাজিল হয়, তারা আল্লাহকে চিনত না, এমন নয়। তারা তাঁকে স্রষ্টা বলে মানত, তবু ইবাদত ভাগ করে দিত। এ কারণেই 35:3 আয়াত তাদের জিজ্ঞেস করতে পারে: আল্লাহ ছাড়া আর কোনো স্রষ্টা আছে কি, যে আকাশ ও যমীন থেকে তোমাদের রিযিক দেয়? কুরআন শিরককে খুব কমই না-জানার সমস্যা বলে দেখে। তার চোখে শিরক হলো জানা কথা অনুযায়ী না চলা।"
           }
         ]
       },
@@ -409,11 +409,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Few readers today keep a carved figure at home, which can make the prohibition feel historical. Luqman's warning in 31:13 keeps it current by calling shirk a great wrong rather than a foreign custom. The question the verse leaves is functional: what actually holds the place of ultimate reliance? A salary, a passport, a reputation, a person whose approval decides your choices. Anything trusted the way Allah is meant to be trusted has quietly been assigned a share of what 2:22 forbids.",
-            "bn": "আজকের খুব কম পাঠকের ঘরেই খোদাই করা মূর্তি থাকে, ফলে নিষেধটিকে ইতিহাসের বিষয় বলে মনে হতে পারে। 31:13 আয়াতে লুকমানের সতর্কবাণী একে সমকালীন রাখে, কারণ সেখানে শিরককে বলা হয়েছে মহা অন্যায় — কোনো বিদেশি প্রথা নয়। আয়াতটি যে প্রশ্ন রেখে যায় তা কার্যকারিতার প্রশ্ন: চূড়ান্ত নির্ভরতার আসনটি আসলে কে দখল করে আছে? বেতন, পাসপোর্ট, সুনাম, কিংবা এমন কেউ যার সম্মতি আপনার সিদ্ধান্ত ঠিক করে দেয়। আল্লাহর ওপর যেভাবে ভরসা করার কথা, সেভাবে যাকেই ভরসা করা হয়, তাকেই নীরবে 2:22 আয়াতের নিষিদ্ধ ভাগটি দিয়ে দেওয়া হয়েছে।"
+            "bn": "আজ খুব কম পাঠকের ঘরেই খোদাই করা মূর্তি থাকে, তাই নিষেধটাকে পুরোনো দিনের ব্যাপার মনে হতে পারে। 31:13 আয়াতে লুকমানের উপদেশ একে আজও জীবন্ত রাখে, কারণ সেখানে শিরককে বলা হয়েছে মহা জুলুম, কোনো ভিনদেশি রীতি নয়। আয়াতটা যে প্রশ্ন রেখে যায়, তা কাজের প্রশ্ন: শেষ ভরসার জায়গাটা আসলে কে দখল করে আছে? বেতন, পাসপোর্ট, সুনাম, কিংবা এমন কেউ, যার পছন্দ-অপছন্দে আপনার সিদ্ধান্ত ঠিক হয়। আল্লাহর ওপর যেভাবে ভরসা করার কথা, সেভাবে যার ওপরই ভরসা করা হয়, চুপিসারে তাকে সেই ভাগ দিয়ে দেওয়া হয়েছে, যা 2:22 আয়াত নিষেধ করে।"
           },
           {
             "en": "Al-Bukhari and Muslim both narrate from Mu'adh ibn Jabal (RA) that the Prophet ﷺ told him the right of Allah upon His servants is that they worship Him and associate nothing with Him. The verse gives the same claim its evidence rather than its wording. Every meal already eaten and every night already slept through is the argument. Gratitude noticed at the level of the floor and the roof is what keeps worship from being divided.",
-            "bn": "ইমাম বুখারী ও মুসলিম উভয়েই মুআয ইবনে জাবাল (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ তাঁকে বলেছিলেন, বান্দাদের ওপর আল্লাহর হক হলো তারা তাঁরই ইবাদত করবে এবং তাঁর সঙ্গে কিছুকে শরিক করবে না। আয়াতটি একই দাবিকে ভাষা নয়, প্রমাণ দেয়। ইতিমধ্যে খাওয়া প্রতিটি খাবার আর নিশ্চিন্তে কাটানো প্রতিটি রাতই সেই প্রমাণ। মেঝে ও ছাদের স্তরে যে কৃতজ্ঞতা টের পাওয়া যায়, সেটিই ইবাদতকে ভাগ হয়ে যাওয়া থেকে বাঁচায়।"
+            "bn": "ইমাম বুখারী ও মুসলিম উভয়েই মুআয ইবনে জাবাল (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ তাঁকে বলেছিলেন, বান্দাদের ওপর আল্লাহর হক হলো তারা তাঁরই ইবাদত করবে এবং তাঁর সঙ্গে কিছুকে শরিক করবে না। আয়াত একই কথা বলে, তবে শব্দে নয়, প্রমাণে। এ পর্যন্ত যত বেলা খেয়েছেন, যত রাত ঘুমিয়ে কাটিয়েছেন, সবই সেই প্রমাণ। মেঝে আর ছাদের মতো সাধারণ জিনিসে যে কৃতজ্ঞতা জাগে, সেটাই ইবাদতকে ভাগ হয়ে যেতে দেয় না।"
           }
         ]
       }
@@ -533,7 +533,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "2:24 refuses to let the matter stay literary. Having named the test, it names the stake: a fire whose fuel is people and stones, prepared for those who refuse. Ibn Kathir notes that many of the imams of the Sunnah used the word prepared, u'iddat, to argue that the Fire exists now rather than only in the future. So the passage moves the question out of the seminar and into this week, where the honest response is a decision about your own morning.",
-            "bn": "2:24 আয়াত বিষয়টাকে সাহিত্যের আলোচনায় আটকে থাকতে দেয় না। পরীক্ষার কথা বলার পর সে দামটাও বলে দেয়: সেই আগুন, যার ইন্ধন মানুষ আর পাথর, যা প্রস্তুত রাখা হয়েছে অস্বীকারকারীদের জন্য। ইবনে কাসীর জানান, ‘উইদ্দাত’ অর্থাৎ প্রস্তুত রাখা হয়েছে, এই শব্দ দিয়েই আহলুস সুন্নাহর অনেক ইমাম দলিল দিয়েছেন যে জাহান্নাম এখনই আছে, কেবল ভবিষ্যতে নয়। তাই অংশটি শেষ হয় প্রশ্নটাকে আলোচনার আসর থেকে তুলে এ সপ্তাহে এনে ফেলে, যেখানে সৎ জবাব কুরআনের উপর রায় নয়, নিজের সকাল নিয়ে একটা সিদ্ধান্ত।"
+            "bn": "2:24 আয়াত বিষয়টাকে সাহিত্যের আলোচনায় আটকে থাকতে দেয় না। পরীক্ষার কথা বলার পর সে দামটাও বলে দেয়: সেই আগুন, যার ইন্ধন মানুষ আর পাথর, যা প্রস্তুত রাখা হয়েছে অস্বীকারকারীদের জন্য। ইবনে কাসীর জানান, ‘উইদ্দাত’ অর্থাৎ প্রস্তুত রাখা হয়েছে, এই শব্দ দিয়েই আহলুস সুন্নাহর অনেক ইমাম দলিল দিয়েছেন যে জাহান্নাম এখনই আছে, কেবল ভবিষ্যতে নয়। তাই অংশটি প্রশ্নটাকে আলোচনার আসর থেকে তুলে এ সপ্তাহের জীবনে নামিয়ে আনে, যেখানে সৎ জবাব হলো নিজের সকাল নিয়ে একটা সিদ্ধান্ত।"
           }
         ]
       },
