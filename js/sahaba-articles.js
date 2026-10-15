@@ -60,7 +60,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "He also carried the Prophet ﷺ up onto a rock ledge when the ground below had become impossible to hold, and he went on fighting after wounds that would have ended most men. Abu Bakr (RA), who was there, would say afterwards that the whole of that day belonged to Talha. It is reported, though not by the strongest chain, that the Prophet ﷺ later said whoever wished to look upon a martyr walking about on the earth should look at Talha, and the companions read 33:23 with his face in mind.",
-            bn: "নিচের জমিন ধরে রাখা যখন অসম্ভব হয়ে পড়ে, তখন তিনি নবীজি ﷺ-কে পাথরের ধাপে তুলে দেন, এবং এমন সব আঘাত নিয়ে লড়াই চালিয়ে যান যা অধিকাংশ মানুষের পক্ষে সহ্য করা সম্ভব নয়। আবু বকর (রাঃ), যিনি সেদিন উপস্থিত ছিলেন, পরে বলতেন—সেই গোটা দিনটি ছিল তালহার। বর্ণিত আছে—যদিও সনদটি সবচেয়ে শক্তিশালী নয়—নবীজি ﷺ বলেছিলেন, কেউ যদি জমিনে হেঁটে বেড়ানো কোনো শহীদকে দেখতে চায়, সে যেন তালহাকে দেখে; আর সাহাবিগণ 33:23 আয়াতটি পড়তেন তাঁর চেহারা মনে করে।",
+            bn: "নিচের জমিন যখন আর ধরে রাখা যাচ্ছিল না, তখন তিনি নবীজি ﷺ-কে তুলে দেন পাথরের এক উঁচু ধাপে। এমন সব আঘাত নিয়েও তিনি লড়াই চালিয়ে যান, যাতে বেশির ভাগ মানুষ থেমে যেত। আবু বকর (রাঃ) সেদিন সেখানে ছিলেন। পরে তিনি বলতেন, সেই গোটা দিনটাই ছিল তালহার। একটি বর্ণনায় আছে, যদিও তার সনদ সবচেয়ে মজবুত নয়, নবীজি ﷺ পরে বলেছিলেন: কেউ যদি জমিনে হেঁটে বেড়ানো কোনো শহীদকে দেখতে চায়, সে যেন তালহাকে দেখে। আর সাহাবিরা 33:23 আয়াতটি পড়তেন তাঁর চেহারা মনে রেখে।",
           },
         ],
       },
@@ -129,7 +129,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "That is the moment for which he is remembered as the first man to unsheathe a sword in Islam. What matters in it is not the blade but the reflex. Others heard the same rumour and waited to see how it would turn out. Az-Zubayr moved, alone, without a plan and without the numbers, because someone he loved was in danger. The whole of his later life is that same reflex, grown up and given an army.",
-            bn: "এই মুহূর্তটির জন্যই তিনি স্মরণীয়—ইসলামের পথে সর্বপ্রথম তরবারি কোষমুক্তকারী হিসেবে। এখানে গুরুত্বপূর্ণ তরবারি নয়, বরং তাৎক্ষণিক প্রতিক্রিয়া। একই গুজব অন্যরাও শুনেছিল এবং পরিণতি দেখার অপেক্ষা করেছিল। যুবাইর একা এগিয়ে গিয়েছিলেন—পরিকল্পনা ছাড়া, সংখ্যাবল ছাড়া—কারণ তাঁর প্রিয় একজন বিপদে ছিলেন। তাঁর পরবর্তী গোটা জীবন সেই একই প্রতিক্রিয়া, কেবল পরিণত হয়ে এবং একটি সেনাবাহিনী হাতে পেয়ে।",
+            bn: "এই ঘটনার জন্যই মানুষ তাঁকে মনে রাখে: ইসলামে তিনিই প্রথম তলোয়ার খাপমুক্ত করেছিলেন। এখানে আসল কথা তলোয়ারটা নয়, তাঁর তাৎক্ষণিক সাড়া। একই গুজব অন্যরাও শুনেছিল, কিন্তু তারা অপেক্ষা করছিল, দেখি কী হয়। যুবাইর ছুটে গেলেন একা। কোনো পরিকল্পনা ছিল না, সঙ্গে লোকবলও ছিল না; শুধু জানতেন, তাঁর প্রিয় মানুষটি বিপদে। তাঁর পরের গোটা জীবন সেই একই সাড়া, কেবল তা পরিণত হয়েছে আর হাতে পেয়েছে একটা বাহিনী।",
           },
         ],
       },
@@ -414,7 +414,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Umar (RA), when his own death came and men asked him to name a successor, said that if Abu Ubaydah were alive he would have appointed him and answered for him before his Lord. That is the measure of the man: not the cities he took, which were many, but that the strictest of caliphs would have handed him the whole ummah without hesitation.",
-            bn: "উমর (রাঃ)-এর নিজের মৃত্যুকাল যখন ঘনিয়ে আসে এবং লোকেরা উত্তরসূরির নাম বলতে বলেন, তিনি বলেন—আবু উবাইদা জীবিত থাকলে আমি তাঁকেই নিযুক্ত করতাম এবং আমার প্রভুর সামনে তাঁর ব্যাপারে জবাব দিতাম। মানুষটির প্রকৃত পরিমাপ এখানেই: তিনি কতগুলো নগর জয় করেছেন তাতে নয়—সেগুলো অনেক—বরং এতে যে, খলিফাদের মধ্যে সবচেয়ে কঠোরজন বিনা দ্বিধায় গোটা উম্মাহ তাঁর হাতে তুলে দিতেন।",
+            bn: "উমর (রাঃ)-এর মৃত্যু যখন ঘনিয়ে এল, লোকেরা তাঁকে উত্তরসূরির নাম বলতে বলল। তিনি বললেন, আবু উবাইদা বেঁচে থাকলে আমি তাঁকেই নিযুক্ত করতাম, আর আমার রবের সামনে তাঁর ব্যাপারে জবাব দিতাম। মানুষটির আসল মাপ এখানেই। তিনি অনেক শহর জয় করেছেন, কিন্তু মাপটা সেখানে নয়। মাপটা হলো, খলিফাদের মধ্যে সবচেয়ে কড়া মানুষটিও কোনো দ্বিধা ছাড়াই গোটা উম্মাহ তাঁর হাতে তুলে দিতেন।",
           },
         ],
       },
@@ -858,7 +858,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "The title as-Siddiq, the one who confirms the truth, was fixed to him after the Night Journey. Quraysh hurried to him expecting that this at last would break the friendship, telling him his companion claimed to have travelled to Jerusalem and returned before morning. He said that if he had said it, he had spoken the truth, and that he already believed him in something greater than this: in news of heaven reaching him morning and evening.",
-            bn: "‘আস-সিদ্দিক’—সত্যায়নকারী—উপাধিটি তাঁর সঙ্গে স্থায়ীভাবে যুক্ত হয় ইসরা ও মিরাজের পর। কুরাইশ ছুটে এসেছিল এই ভেবে যে এবার অন্তত বন্ধুত্বটা ভাঙবে; তারা বলল, তোমার সঙ্গী দাবি করছেন তিনি রাতারাতি বাইতুল মাকদিসে গিয়ে ফিরে এসেছেন। তিনি বললেন, তিনি যদি বলে থাকেন তবে সত্যই বলেছেন; আর আমি তো এর চেয়েও বড় বিষয়ে তাঁকে বিশ্বাস করি—সকাল-সন্ধ্যায় আকাশ থেকে তাঁর কাছে সংবাদ আসে, সে কথায়।",
+            bn: "‘আস-সিদ্দিক’ মানে সত্যায়নকারী। ইসরা ও মিরাজের পর থেকে এই উপাধি তাঁর নামের সঙ্গে স্থায়ী হয়ে যায়। কুরাইশরা ছুটে এল তাঁর কাছে; তারা ভেবেছিল, এবার অন্তত এই বন্ধুত্ব ভাঙবে। তারা বলল, তোমার সঙ্গী দাবি করছেন, তিনি এক রাতেই বাইতুল মাকদিসে গিয়ে ভোরের আগেই ফিরে এসেছেন। তিনি বললেন, তিনি যদি এ কথা বলে থাকেন, তবে সত্যই বলেছেন। এর চেয়েও বড় বিষয়ে তো আমি তাঁকে বিশ্বাস করি: সকাল-সন্ধ্যা আকাশ থেকে তাঁর কাছে খবর আসে, সে কথাও আমি মেনে নিয়েছি।",
           },
         ],
       },
@@ -1336,7 +1336,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "She was drawn into the conflict that followed the killing of Uthman (RA), going out to Basra to press for the pursuit of his killers, and the Battle of the Camel was fought there. Ali (RA) sent her back to Madinah under honourable escort. It is widely related, though the reports are contested, that she grieved over having gone out at all. She died in Madinah and was buried in al-Baqi.",
-            bn: "উসমান (রাঃ)-এর হত্যাকাণ্ডের পরের সংঘাতে তিনিও জড়িয়ে পড়েন—হত্যাকারীদের বিচারের দাবিতে বসরা পর্যন্ত যান, আর সেখানেই সংঘটিত হয় উটের যুদ্ধ। আলী (রাঃ) সম্মানজনক পাহারায় তাঁকে মদিনায় ফিরিয়ে দেন। ব্যাপকভাবে বর্ণিত—যদিও বর্ণনাগুলো নিয়ে মতভেদ আছে—বের হওয়ার সিদ্ধান্তটির জন্য তিনি পরে দুঃখ করতেন। তিনি মদিনায় ইন্তেকাল করেন এবং জান্নাতুল বাকিতে সমাহিত হন।",
+            bn: "উসমান (রাঃ)-এর হত্যার পর যে সংঘাত শুরু হয়, তিনিও তাতে জড়িয়ে পড়েন। হত্যাকারীদের ধরে বিচারের দাবি নিয়ে তিনি বসরা পর্যন্ত যান, আর সেখানেই উটের যুদ্ধ হয়। আলী (রাঃ) সম্মানের সঙ্গে পাহারা দিয়ে তাঁকে মদিনায় ফেরত পাঠান। অনেক বর্ণনায় আছে, আদৌ বের হওয়ার জন্যই তিনি পরে আফসোস করতেন; তবে এসব বর্ণনা নিয়ে মতভেদ আছে। তিনি মদিনায় ইন্তেকাল করেন এবং জান্নাতুল বাকিতে সমাহিত হন।",
           },
         ],
       },
@@ -1366,7 +1366,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "She ground grain herself until her hands blistered and carried water until the strap of the skin marked her chest, and she swept and cooked in a house with no help. This was not an accident of poverty alone; it was the standard her father held his own family to while the wealth of conquered lands began to reach Madinah.",
-            bn: "তিনি নিজ হাতে যাঁতায় শস্য পিষতেন—হাতে ফোসকা পড়ে যেত; মশক বয়ে পানি আনতেন—বুকে দাগ বসে যেত; আর কোনো সাহায্যকারী ছাড়াই ঘর ঝাড়ু দিতেন, রান্না করতেন। এটি কেবল দারিদ্র্যের দুর্ঘটনা ছিল না; এটি ছিল সেই মানদণ্ড, যা তাঁর পিতা নিজের পরিবারের জন্য বহাল রেখেছিলেন—তখন বিজিত ভূখণ্ডের সম্পদ মদিনায় আসতে শুরু করেছে।",
+            bn: "তিনি নিজ হাতে যাঁতায় শস্য পিষতেন, তাতে হাতে ফোসকা পড়ে যেত। মশকে করে পানি বয়ে আনতেন, মশকের ফিতায় বুকে দাগ বসে যেত। ঘর ঝাড়ু দেওয়া, রান্না করা, সবই করতেন কোনো সাহায্যকারী ছাড়া। এ শুধু অভাবের কারণে ঘটেনি। এটাই ছিল তাঁর পিতার বেঁধে দেওয়া মাপকাঠি, যা তিনি নিজের পরিবারের ওপর ধরে রেখেছিলেন, এমনকি যখন বিজিত দেশগুলোর সম্পদ মদিনায় আসতে শুরু করেছে তখনও।",
           },
           {
             en: "She was not kept away from the hard days either. Sahl ibn Sa'd (RA) describes her at Uhud, washing the blood from her father's face while Ali (RA) poured water, and when the bleeding would not stop she burnt a piece of matting and pressed the ash into the wound. The scene says as much about her as any praise of her: she was there, and she knew what to do.",
@@ -1474,7 +1474,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "At Uhud he fought in the front of the Muslim line while the battle was still going their way. Wahshi ibn Harb, an enslaved Abyssinian promised his freedom if he killed Hamza, had no interest in the fighting itself; he waited behind a rock, watching only for him, and threw the short spear of his people when the chance came. Hamza fell, and Wahshi went back and sat down, having come for nothing else.",
-            bn: "উহুদে যুদ্ধের গতি যতক্ষণ মুসলিমদের অনুকূলে ছিল, ততক্ষণ তিনি ছিলেন সামনের কাতারে। ওয়াহশি ইবনে হারব—হাবশি এক দাস, যাকে হামজাকে হত্যা করলে মুক্তির প্রতিশ্রুতি দেওয়া হয়েছিল—যুদ্ধ নিয়ে তার কোনো আগ্রহই ছিল না; সে এক পাথরের আড়ালে অপেক্ষা করছিল, চোখ কেবল তাঁর দিকেই, আর সুযোগ পেয়েই ছুড়ে দিল নিজেদের ছোট বর্শাটি। হামজা লুটিয়ে পড়লেন, আর ওয়াহশি ফিরে গিয়ে বসে পড়ল—সে তো আর কিছুর জন্য আসেইনি।",
+            bn: "উহুদে যুদ্ধ যতক্ষণ মুসলিমদের পক্ষে যাচ্ছিল, ততক্ষণ তিনি লড়ছিলেন সামনের কাতারে। ওয়াহশি ইবনে হারব ছিল হাবশি এক দাস। তাকে কথা দেওয়া হয়েছিল, হামজাকে হত্যা করতে পারলে সে মুক্তি পাবে। যুদ্ধ নিয়ে তার কোনো মাথাব্যথা ছিল না। সে এক পাথরের আড়ালে ওত পেতে ছিল, চোখ রেখেছিল শুধু তাঁর ওপর। সুযোগ আসতেই সে ছুড়ে মারল নিজের জাতির সেই ছোট বর্শা। হামজা লুটিয়ে পড়লেন। ওয়াহশি ফিরে গিয়ে বসে রইল; এ ছাড়া আর কোনো কাজে সে আসেনি।",
           },
           {
             en: "The body was mutilated after the fighting ended. When the Prophet ﷺ found him he stood a long time and the narrators say they had never seen him so grieved. His sister Safiyyah (RA) came looking for her brother; az-Zubayr (RA) was sent to turn her back, and she said she had heard what had happened and would bear it with patience and seek the reward. She was allowed through, and she prayed for him.",
@@ -1504,7 +1504,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "He is remembered as Asad Allah, the Lion of God, and as the chief of the martyrs. Years later Wahshi came to Madinah and accepted Islam; the Prophet ﷺ asked him to describe the killing, then told him to keep his face away, and he did. That Islam had room for the man who killed Hamza is part of the story of Hamza, and neither half of it is told without the other.",
-            bn: "তিনি স্মরণীয় ‘আসাদুল্লাহ’—আল্লাহর সিংহ—এবং শহীদদের সরদার হিসেবে। বছর কয়েক পর ওয়াহশি মদিনায় এসে ইসলাম গ্রহণ করে; নবীজি ﷺ তাকে হত্যার বর্ণনা দিতে বলেন, তারপর বলেন তার মুখ যেন তাঁর সামনে না আসে—আর সে তা-ই করত। হামজাকে যে হত্যা করেছিল ইসলামে তারও ঠাঁই হয়েছিল—এটিও হামজার কাহিনিরই অংশ, আর একটি অংশ ছাড়া অন্যটি বলা হয় না।",
+            bn: "মানুষ তাঁকে মনে রাখে ‘আসাদুল্লাহ’ বা আল্লাহর সিংহ নামে, আর শহীদদের সরদার হিসেবে। কয়েক বছর পর ওয়াহশি মদিনায় এসে ইসলাম গ্রহণ করে। নবীজি ﷺ তার কাছে হত্যার ঘটনাটা শুনতে চাইলেন, তারপর বললেন, সে যেন তাঁর সামনে মুখ না দেখায়। সে তা-ই করত। হামজার হত্যাকারীরও ঠাঁই হয়েছিল ইসলামে, এটাও হামজার কাহিনিরই অংশ। এর একটা অংশ বাদ দিয়ে অন্যটা বলা হয় না।",
           },
         ],
       },
@@ -2086,7 +2086,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "Nothing survives of her possessions, her words or her grave. What survives is a decision, made repeatedly under pressure, by someone who had no earthly reason to expect anything from it. Every believer since who has been asked to trade conviction for safety stands in a line that begins with her, and the Quran's question in 29:2 — do people think they will be left to say we believe without being tested — was answered in her lifetime.",
-            bn: "তাঁর সম্পদ, তাঁর কথা কিংবা তাঁর কবর—কিছুই টিকে নেই। যা টিকে আছে তা একটি সিদ্ধান্ত, চাপের মুখে বারবার নেওয়া—এমন একজনের, যাঁর পার্থিব কোনো প্রত্যাশার কারণই ছিল না। এরপর থেকে যত মুমিনকে নিরাপত্তার বিনিময়ে বিশ্বাস বিকিয়ে দিতে বলা হয়েছে, তাঁরা সবাই দাঁড়িয়ে আছেন এমন এক সারিতে যার শুরু তাঁকে দিয়ে; আর কুরআনের প্রশ্ন 29:2—মানুষ কি মনে করে, 'আমরা ঈমান এনেছি' বললেই তাদের পরীক্ষা ছাড়া ছেড়ে দেওয়া হবে—তার উত্তর মিলে গিয়েছিল তাঁর জীবদ্দশাতেই।",
+            bn: "তাঁর সম্পদ, তাঁর কথা, তাঁর কবর, কিছুই আজ আর টিকে নেই। টিকে আছে শুধু একটি সিদ্ধান্ত। চাপের মুখে তিনি সেটা বারবার নিয়েছেন, অথচ এ থেকে দুনিয়ায় কিছু পাওয়ার আশা করার কোনো কারণই তাঁর ছিল না। এরপর যত মুমিনকে বলা হয়েছে নিরাপত্তার বিনিময়ে বিশ্বাস ছেড়ে দিতে, তাঁরা সবাই একই সারিতে দাঁড়িয়ে আছেন, আর সেই সারির শুরু তাঁকে দিয়ে। কুরআন 29:2-এ প্রশ্ন করে: মানুষ কি মনে করে, 'আমরা ঈমান এনেছি' বললেই তাদের পরীক্ষা না করে ছেড়ে দেওয়া হবে? সেই প্রশ্নের উত্তর মিলে গিয়েছিল তাঁর জীবদ্দশাতেই।",
           },
         ],
       },
@@ -2207,7 +2207,7 @@ var SAHABA_ARTICLES = {
         p: [
           {
             en: "Abu Bakr had taken all the money in the house with him, some five or six thousand dirhams, leaving his family nothing. His father Abu Quhafah, who was blind and not yet a Muslim, came to the house and said that Abu Bakr had grieved them by taking himself and his wealth away at once. Asma told him he had left them a good deal.",
-            bn: "আবু বকর ঘরের সব অর্থ—আনুমানিক পাঁচ-ছয় হাজার দিরহাম—সঙ্গে নিয়ে গিয়েছিলেন, পরিবারের জন্য কিছুই রাখেননি। তাঁর পিতা আবু কুহাফা, যিনি দৃষ্টিহীন এবং তখনো মুসলিম হননি, ঘরে এসে বললেন—আবু বকর একসঙ্গে নিজেকে ও নিজের সম্পদ সরিয়ে নিয়ে তোমাদের কষ্টে ফেলেছে। আসমা বললেন, তিনি তো আমাদের জন্য অনেক কিছুই রেখে গেছেন।",
+            bn: "আবু বকর ঘরের সব টাকাপয়সা সঙ্গে নিয়ে গিয়েছিলেন, প্রায় পাঁচ-ছয় হাজার দিরহাম। পরিবারের জন্য কিছুই রেখে যাননি। তাঁর পিতা আবু কুহাফা তখন অন্ধ, আর তখনো মুসলিম হননি। তিনি ঘরে এসে বললেন, আবু বকর নিজেও চলে গেল, সম্পদও নিয়ে গেল; একসঙ্গে দুই দিক থেকে তোমাদের কষ্টে ফেলে গেল। আসমা বললেন, তিনি তো আমাদের জন্য অনেক কিছুই রেখে গেছেন।",
           },
           {
             en: "She had put stones into the niche where the money was kept and covered them with a cloth. She took her grandfather's hand and laid it on the covered heap, and the old man felt the weight and was satisfied and said it was good that he had left them that. She said afterwards that she did it only to settle the old man's heart. It is a small deception in a hard week, told by her, and it kept an anxious blind man from despair.",
@@ -2482,7 +2482,7 @@ var SAHABA_ARTICLES = {
           },
           {
             en: "She said she was not weeping because she did not know that what is with Allah is better for His Messenger, but she wept because the revelation from heaven had ceased. Hearing it, both of them wept with her. She had understood what the loss actually was. The Book was complete, as 5:3 announced on the farewell pilgrimage, and the door through which it had come was now closed.",
-            bn: "তিনি বললেন, তিনি এ কারণে কাঁদছেন না যে আল্লাহর কাছে যা আছে তা তাঁর রাসূলের জন্য উত্তম—এটি তাঁর অজানা; বরং তিনি কাঁদছেন এ কারণে যে আকাশ থেকে ওহি আসা বন্ধ হয়ে গেছে। এ কথা শুনে তাঁরা দুজনও তাঁর সঙ্গে কেঁদে ফেললেন। ক্ষতিটি আসলে কী, তা তিনি বুঝেছিলেন। কিতাব পূর্ণ হয়ে গেছে—বিদায় হজে 5:3 যা ঘোষণা করেছিল—আর যে দরজা দিয়ে তা আসত, সে দরজা এখন বন্ধ।",
+            bn: "তিনি বললেন, আল্লাহর কাছে যা আছে তা যে তাঁর রাসূলের জন্য উত্তম, এ তিনি ভালো করেই জানেন; সে জন্য তিনি কাঁদছেন না। তিনি কাঁদছেন, কারণ আকাশ থেকে ওহি আসা বন্ধ হয়ে গেছে। এ কথা শুনে তাঁরা দুজনও তাঁর সঙ্গে কেঁদে ফেললেন। ক্ষতিটা আসলে কোথায়, তিনি তা ঠিকই বুঝেছিলেন। কিতাব পূর্ণ হয়ে গিয়েছিল, বিদায় হজে 5:3 যার ঘোষণা দিয়েছিল। আর যে দরজা দিয়ে তা আসত, সেই দরজা এখন বন্ধ।",
           },
         ],
       },
