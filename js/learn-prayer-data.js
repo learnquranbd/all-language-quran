@@ -10,37 +10,37 @@
 const SALAH_STEPS = [
   { id: 'niyyah', emoji: '💭',
     title: { en: 'Intention (Niyyah)', bn: 'নিয়ত' },
-    desc: { en: 'Make the intention in your heart to pray the specific salah. The intention does not need to be spoken aloud.', bn: 'নির্দিষ্ট নামাজ পড়ার নিয়ত মনে মনে করুন। নিয়ত জোরে বলার প্রয়োজন নেই।' } },
+    desc: { en: 'Make the intention in your heart to pray the specific salah. The intention does not need to be spoken aloud.', bn: 'কোন নামাজ পড়ছেন, মনে মনে তার নিয়ত করুন। নিয়ত মুখে উচ্চারণ করা জরুরি নয়।' } },
   { id: 'takbir', emoji: '🙌',
     title: { en: 'Takbirat al-Ihram (Opening Takbir)', bn: 'তাকবিরে তাহরিমা' },
-    desc: { en: 'Raise both hands to your ears and say "Allahu Akbar" (Allah is the Greatest). This begins the prayer.', bn: 'দুই হাত কান পর্যন্ত উঠিয়ে "আল্লাহু আকবার" বলুন। এতে নামাজ শুরু হয়।' } },
+    desc: { en: 'Raise both hands to your ears and say "Allahu Akbar" (Allah is the Greatest). This begins the prayer.', bn: 'দুই হাত কান পর্যন্ত তুলে "আল্লাহু আকবার" (আল্লাহ সবচেয়ে মহান) বলুন। এর মাধ্যমেই নামাজ শুরু হয়।' } },
   { id: 'thana', emoji: '🤲',
-    title: { en: 'Dua al-Istiftah (Opening Supplication)', bn: 'সানা (প্রারম্ভিক দোয়া)' },
-    desc: { en: 'Recite the opening supplication quietly.', bn: 'প্রারম্ভিক দোয়া চুপে চুপে পড়ুন।' } },
+    title: { en: 'Dua al-Istiftah (Opening Supplication)', bn: 'সানা (শুরুর দোয়া)' },
+    desc: { en: 'Recite the opening supplication quietly.', bn: 'নামাজ শুরুর দোয়া (সানা) চুপে চুপে পড়ুন।' } },
   { id: 'fatiha', emoji: '📖',
     title: { en: 'Surah al-Fatiha', bn: 'সূরা ফাতিহা' },
-    desc: { en: 'Recite Surah al-Fatiha in every rak\'ah. This is a pillar (rukn) of salah.', bn: 'প্রতি রাকাতে সূরা ফাতিহা পড়ুন। এটি নামাজের রুকন।' } },
+    desc: { en: 'Recite Surah al-Fatiha in every rak\'ah. This is a pillar (rukn) of salah.', bn: 'প্রতি রাকাতে সূরা ফাতিহা পড়ুন। ফাতিহা পড়া নামাজের একটি রুকন।' } },
   { id: 'surah', emoji: '📜',
     title: { en: 'Recite a Surah or Verses', bn: 'সূরা বা আয়াত পড়া' },
     desc: { en: 'Recite another surah or some verses from the Quran after al-Fatiha in the first two rak\'ahs.', bn: 'প্রথম দুই রাকাতে ফাতিহার পর আরেকটি সূরা বা কিছু আয়াত পড়ুন।' } },
   { id: 'ruku', emoji: '↩️',
     title: { en: 'Ruku (Bowing)', bn: 'রুকু' },
-    desc: { en: 'Say "Allahu Akbar" and bow down, placing hands on knees and keeping the back straight. Recite the tasbeeh of ruku.', bn: '"আল্লাহু আকবার" বলে হাঁটুতে হাত রেখে পিঠ সোজা করে ঝুঁকুন। রুকুর তাসবিহ পড়ুন।' } },
+    desc: { en: 'Say "Allahu Akbar" and bow down, placing hands on knees and keeping the back straight. Recite the tasbeeh of ruku.', bn: '"আল্লাহু আকবার" বলে রুকুতে যান। দুই হাত হাঁটুর ওপর রাখুন, পিঠ সোজা রাখুন। রুকুর তাসবিহ পড়ুন।' } },
   { id: 'standing', emoji: '🧎',
-    title: { en: 'Standing from Ruku (Qawmah)', bn: 'রুকু থেকে দাঁড়ানো' },
-    desc: { en: 'Rise from ruku saying "Sami\'a Allahu liman hamidah" (Allah hears the one who praises Him). Then say "Rabbana lakal hamd" (Our Lord, all praise is Yours).', bn: 'রুকু থেকে উঠে "সামি আল্লাহু লিমান হামিদাহ" বলুন। তারপর "রাব্বানা লাকাল হামদ" বলুন।' } },
+    title: { en: 'Standing from Ruku (Qawmah)', bn: 'রুকু থেকে দাঁড়ানো (কাওমা)' },
+    desc: { en: 'Rise from ruku saying "Sami\'a Allahu liman hamidah" (Allah hears the one who praises Him). Then say "Rabbana lakal hamd" (Our Lord, all praise is Yours).', bn: 'রুকু থেকে ওঠার সময় বলুন "সামি আল্লাহু লিমান হামিদাহ" (যে আল্লাহর প্রশংসা করে, আল্লাহ তার কথা শোনেন)। তারপর বলুন "রাব্বানা লাকাল হামদ" (হে আমাদের রব, সব প্রশংসা আপনারই)।' } },
   { id: 'sujud', emoji: '🕌',
     title: { en: 'Sujud (Prostration)', bn: 'সিজদা' },
     desc: { en: 'Say "Allahu Akbar" and prostrate with seven body parts touching the ground: forehead, nose, both hands, both knees, and both feet. Recite the tasbeeh of sujud.', bn: '"আল্লাহু আকবার" বলে সাতটি অঙ্গ মাটিতে লাগিয়ে সিজদা করুন: কপাল, নাক, দুই হাত, দুই হাঁটু ও দুই পা। সিজদার তাসবিহ পড়ুন।' } },
   { id: 'jalsah', emoji: '🪑',
-    title: { en: 'Sitting Between Sujud (Jalsah)', bn: 'দুই সিজদার মাঝে বসা' },
-    desc: { en: 'Say "Allahu Akbar" and sit upright briefly between the two prostrations.', bn: '"আল্লাহু আকবার" বলে দুই সিজদার মাঝে কিছুক্ষণ সোজা হয়ে বসুন।' } },
+    title: { en: 'Sitting Between Sujud (Jalsah)', bn: 'দুই সিজদার মাঝে বসা (জলসা)' },
+    desc: { en: 'Say "Allahu Akbar" and sit upright briefly between the two prostrations.', bn: '"আল্লাহু আকবার" বলে সিজদা থেকে উঠে একটু সোজা হয়ে বসুন, তারপর দ্বিতীয় সিজদা করুন।' } },
   { id: 'tashahhud', emoji: '🕊️',
     title: { en: 'Tashahhud (Testification)', bn: 'তাশাহহুদ' },
-    desc: { en: 'In the final sitting, recite the Tashahhud, followed by the Salawat (Durood) upon the Prophet, and then a supplication (dua).', bn: 'শেষ বৈঠকে তাশাহহুদ, দরূদ ও দোয়া পড়ুন।' } },
+    desc: { en: 'In the final sitting, recite the Tashahhud, followed by the Salawat (Durood) upon the Prophet, and then a supplication (dua).', bn: 'শেষ বৈঠকে প্রথমে তাশাহহুদ পড়ুন, তারপর নবীজির ওপর দরুদ, এরপর দোয়া।' } },
   { id: 'salam', emoji: '☮️',
-    title: { en: 'Tasleem (Salaam)', bn: 'সালাম ফিরানো' },
-    desc: { en: 'Turn your head to the right saying "Assalamu alaykum wa rahmatullah", then to the left. This ends the prayer.', bn: 'ডান দিকে মাথা ঘুরিয়ে "আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহ" বলুন, তারপর বাম দিকে। এতে নামাজ শেষ হয়।' } },
+    title: { en: 'Tasleem (Salaam)', bn: 'সালাম ফেরানো' },
+    desc: { en: 'Turn your head to the right saying "Assalamu alaykum wa rahmatullah", then to the left. This ends the prayer.', bn: '"আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহ" বলে প্রথমে ডান দিকে মুখ ফেরান, তারপর বাম দিকে। সালামের মাধ্যমেই নামাজ শেষ হয়।' } },
 ];
 
 const SALAH_DUAS = [
@@ -49,7 +49,7 @@ const SALAH_DUAS = [
     step: 'thana',
     arabic: 'سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَىٰ جَدُّكَ، وَلَا إِلَٰهَ غَيْرُكَ',
     transliteration: "Subhanakallahumma wa bihamdika, wa tabarakasmuka, wa ta'ala jadduka, wa la ilaha ghayruk",
-    meaning: { en: 'Glory be to You, O Allah, and all praise is Yours. Blessed is Your name and exalted is Your majesty. There is no god but You.', bn: 'আপনি পবিত্র, হে আল্লাহ, এবং আপনারই প্রশংসা। আপনার নাম বরকতময় ও আপনার মহিমা সুউচ্চ। আপনি ছাড়া কোনো উপাস্য নেই।' },
+    meaning: { en: 'Glory be to You, O Allah, and all praise is Yours. Blessed is Your name and exalted is Your majesty. There is no god but You.', bn: 'হে আল্লাহ, আপনি পবিত্র, সব প্রশংসা আপনারই। আপনার নাম বরকতময়, আপনার মর্যাদা সুউচ্চ। আপনি ছাড়া কোনো মাবুদ নেই।' },
     reference: { en: 'Muslim, Abu Dawud, Tirmidhi', bn: 'মুসলিম, আবু দাউদ, তিরমিযী' }
   },
   {
@@ -57,7 +57,7 @@ const SALAH_DUAS = [
     step: 'fatiha',
     arabic: 'بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾',
     transliteration: "Bismillahir Rahmanir Rahim. Alhamdu lillahi Rabbil 'alamin. Ar Rahmanir Rahim. Maliki yawmid din. Iyyaka na'budu wa iyyaka nasta'in. Ihdinas siratal mustaqim. Siratal ladhina an'amta 'alayhim, ghayril maghdubi 'alayhim wa lad dallin.",
-    meaning: { en: 'In the name of Allah, the Most Gracious, the Most Merciful. All praise is for Allah, Lord of all worlds, the Most Gracious, the Most Merciful, Master of the Day of Judgment. You alone we worship and You alone we ask for help. Guide us to the straight path — the path of those You have blessed, not of those who incur wrath, nor of the astray.', bn: 'শুরু করছি আল্লাহর নামে, যিনি পরম করুণাময়, অতি দয়ালু। সমস্ত প্রশংসা আল্লাহর, যিনি সকল সৃষ্টিজগতের রব, পরম করুণাময়, অতি দয়ালু, বিচার দিনের মালিক। আমরা একমাত্র আপনারই ইবাদত করি এবং একমাত্র আপনার কাছেই সাহায্য প্রার্থনা করি। আমাদেরকে সরল পথ দেখান — তাদের পথ, যাদের আপনি অনুগ্রহ করেছেন, তাদের পথ নয় যাদের উপর গজব নেমেছে, আর না পথভ্রষ্টদের।' },
+    meaning: { en: 'In the name of Allah, the Most Gracious, the Most Merciful. All praise is for Allah, Lord of all worlds, the Most Gracious, the Most Merciful, Master of the Day of Judgment. You alone we worship and You alone we ask for help. Guide us to the straight path — the path of those You have blessed, not of those who incur wrath, nor of the astray.', bn: 'পরম করুণাময়, অতি দয়ালু আল্লাহর নামে। সব প্রশংসা আল্লাহর, যিনি সকল জগতের রব। যিনি পরম করুণাময়, অতি দয়ালু। যিনি বিচার দিনের মালিক। আমরা শুধু আপনারই ইবাদত করি, শুধু আপনার কাছেই সাহায্য চাই। আমাদের সরল পথ দেখান; তাদের পথ, যাদের আপনি নিয়ামত দিয়েছেন। তাদের পথ নয়, যাদের ওপর গজব নেমেছে; আর তাদের পথও নয়, যারা পথভ্রষ্ট।' },
     reference: { en: 'Quran 1:1-7', bn: 'কুরআন ১:১-৭' }
   },
   {
@@ -65,7 +65,7 @@ const SALAH_DUAS = [
     step: 'ruku',
     arabic: 'سُبْحَانَ رَبِّيَ الْعَظِيمِ',
     transliteration: "Subhana Rabbiyal 'Azim",
-    meaning: { en: 'Glory be to my Lord, the Most Great.', bn: 'পবিত্র আমার মহান রব।' },
+    meaning: { en: 'Glory be to my Lord, the Most Great.', bn: 'আমার মহান রবের পবিত্রতা ঘোষণা করছি।' },
     reference: { en: 'Abu Dawud, Ibn Majah' },
     count: 3
   },
@@ -74,7 +74,7 @@ const SALAH_DUAS = [
     step: 'standing',
     arabic: 'سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ',
     transliteration: "Sami'a Allahu liman hamidah",
-    meaning: { en: 'Allah hears the one who praises Him.', bn: 'আল্লাহ তার কথা শোনেন যে তাঁর প্রশংসা করে।' },
+    meaning: { en: 'Allah hears the one who praises Him.', bn: 'যে আল্লাহর প্রশংসা করে, আল্লাহ তার কথা শোনেন।' },
     reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
   {
@@ -82,7 +82,7 @@ const SALAH_DUAS = [
     step: 'standing',
     arabic: 'رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيرًا طَيِّبًا مُّبَارَكًا فِيهِ',
     transliteration: "Rabbana wa lakal hamd, hamdan kathiran tayyiban mubarakan fih",
-    meaning: { en: 'Our Lord, all praise is Yours — abundant, pure and blessed praise.', bn: 'হে আমাদের রব, আপনারই জন্য সমস্ত প্রশংসা — প্রচুর, পবিত্র ও বরকতময় প্রশংসা।' },
+    meaning: { en: 'Our Lord, all praise is Yours — abundant, pure and blessed praise.', bn: 'হে আমাদের রব, সব প্রশংসা আপনারই; অনেক অনেক প্রশংসা, পবিত্র ও বরকতময় প্রশংসা।' },
     reference: { en: 'Bukhari' }
   },
   {
@@ -90,7 +90,7 @@ const SALAH_DUAS = [
     step: 'sujud',
     arabic: 'سُبْحَانَ رَبِّيَ الْأَعْلَىٰ',
     transliteration: "Subhana Rabbiyal A'la",
-    meaning: { en: 'Glory be to my Lord, the Most High.', bn: 'পবিত্র আমার সর্বোচ্চ রব।' },
+    meaning: { en: 'Glory be to my Lord, the Most High.', bn: 'আমার সুউচ্চ রবের পবিত্রতা ঘোষণা করছি।' },
     reference: { en: 'Abu Dawud, Ibn Majah' },
     count: 3
   },
@@ -107,7 +107,7 @@ const SALAH_DUAS = [
     step: 'tashahhud',
     arabic: 'التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ',
     transliteration: "At-tahiyyatu lillahi was-salawatu wat-tayyibatu. Assalamu 'alayka ayyuhan-nabiyyu wa rahmatullahi wa barakatuh. Assalamu 'alayna wa 'ala 'ibadillahis-salihin. Ashhadu alla ilaha illallah wa ashhadu anna Muhammadan 'abduhu wa rasuluh.",
-    meaning: { en: 'All greetings, prayers and good words are for Allah. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous servants of Allah. I bear witness that there is no god but Allah, and I bear witness that Muhammad is His servant and Messenger.', bn: 'সকল সালাম, নামাজ ও পবিত্র বাক্য আল্লাহর জন্য। হে নবী, আপনার উপর শান্তি ও আল্লাহর রহমত ও বরকত বর্ষিত হোক। আমাদের উপর এবং আল্লাহর নেক বান্দাদের উপর শান্তি বর্ষিত হোক। আমি সাক্ষ্য দিচ্ছি যে আল্লাহ ছাড়া কোনো উপাস্য নেই, এবং আমি সাক্ষ্য দিচ্ছি যে মুহাম্মাদ ﷺ তাঁর বান্দা ও রাসূল।' },
+    meaning: { en: 'All greetings, prayers and good words are for Allah. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous servants of Allah. I bear witness that there is no god but Allah, and I bear witness that Muhammad is His servant and Messenger.', bn: 'সব সম্মান, সব নামাজ ও সব পবিত্র কথা আল্লাহর জন্য। হে নবী, আপনার ওপর সালাম এবং আল্লাহর রহমত ও বরকত। সালাম আমাদের ওপর এবং আল্লাহর নেক বান্দাদের ওপর। আমি সাক্ষ্য দিচ্ছি, আল্লাহ ছাড়া কোনো মাবুদ নেই। আমি আরও সাক্ষ্য দিচ্ছি, মুহাম্মাদ ﷺ তাঁর বান্দা ও রাসূল।' },
     reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
   {
@@ -139,7 +139,7 @@ const SALAH_DUAS = [
     step: 'before_fatiha',
     arabic: 'أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ',
     transliteration: "A'udhu billahi minash-shaytanir-rajim",
-    meaning: { en: 'I seek refuge in Allah from the accursed Shaytan. (Isti\'adhah — recited silently before Surah al-Fatiha in each rak\'ah.)', bn: 'আমি বিতাড়িত শয়তান থেকে আল্লাহর আশ্রয় চাই। (ইসতিয়াযাহ — প্রতি রাকাতে সূরা ফাতিহার আগে নীরবে পড়া হয়।)' },
+    meaning: { en: 'I seek refuge in Allah from the accursed Shaytan. (Isti\'adhah — recited silently before Surah al-Fatiha in each rak\'ah.)', bn: 'আমি বিতাড়িত শয়তান থেকে আল্লাহর আশ্রয় চাই। (একে ইসতিয়াযাহ বলে; প্রতি রাকাতে সূরা ফাতিহার আগে চুপে চুপে পড়তে হয়।)' },
     reference: { en: 'Quran 16:98; Bukhari, Muslim', bn: 'কুরআন ১৬:৯৮; বুখারী, মুসলিম' }
   },
   {
@@ -147,7 +147,7 @@ const SALAH_DUAS = [
     step: 'ruku',
     arabic: 'سُبُّوحٌ قُدُّوسٌ رَبُّ الْمَلَائِكَةِ وَالرُّوحِ',
     transliteration: "Subboohun Quddoosun Rabbul-mala'ikati war-rooh",
-    meaning: { en: 'Exalted, Most Holy — Lord of the angels and the Spirit (Jibreel). (Ruku\' variation reported from the Prophet ﷺ.)', bn: 'পরম মহিমাময়, পবিত্রতম — ফেরেশতাগণ ও রূহের রব। (নবী ﷺ থেকে বর্ণিত রুকুর একটি ভিন্ন তাসবিহ।)' },
+    meaning: { en: 'Exalted, Most Holy — Lord of the angels and the Spirit (Jibreel). (Ruku\' variation reported from the Prophet ﷺ.)', bn: 'তিনি মহাপবিত্র, অতি পবিত্র; ফেরেশতাদের ও রূহের (জিবরীল) রব। (রুকুর আরেকটি তাসবিহ, নবী ﷺ থেকে বর্ণিত।)' },
     reference: { en: 'Muslim 487', bn: 'মুসলিম ৪৮৭' }
   },
   {
@@ -155,7 +155,7 @@ const SALAH_DUAS = [
     step: 'ruku',
     arabic: 'سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اللَّهُمَّ اغْفِرْ لِي',
     transliteration: "Subhanakallahumma Rabbana wa bihamdika, Allahummaghfir li",
-    meaning: { en: 'Glory be to You, O Allah our Lord, and all praise is Yours. O Allah, forgive me.', bn: 'পবিত্র আপনি, হে আমাদের রব আল্লাহ, আপনারই প্রশংসা। হে আল্লাহ, আমাকে ক্ষমা করুন।' },
+    meaning: { en: 'Glory be to You, O Allah our Lord, and all praise is Yours. O Allah, forgive me.', bn: 'হে আল্লাহ, আমাদের রব, আপনার পবিত্রতা ঘোষণা করছি, সব প্রশংসা আপনারই। হে আল্লাহ, আমাকে ক্ষমা করুন।' },
     reference: { en: 'Bukhari 794, Muslim 484', bn: 'বুখারী ৭৯৪, মুসলিম ৪৮৪' }
   },
   {
@@ -163,7 +163,7 @@ const SALAH_DUAS = [
     step: 'sujud',
     arabic: 'سُبُّوحٌ قُدُّوسٌ رَبُّ الْمَلَائِكَةِ وَالرُّوحِ',
     transliteration: "Subboohun Quddoosun Rabbul-mala'ikati war-rooh",
-    meaning: { en: 'Exalted, Most Holy — Lord of the angels and the Spirit (Jibreel). (Sujud variation alongside "Subhana Rabbiyal A\'la".)', bn: 'পরম মহিমাময়, পবিত্রতম — ফেরেশতাগণ ও রূহের রব। (সিজদায় "সুবহানা রাব্বিয়াল আলা"-র পাশাপাশি পঠিত একটি ভিন্ন তাসবিহ।)' },
+    meaning: { en: 'Exalted, Most Holy — Lord of the angels and the Spirit (Jibreel). (Sujud variation alongside "Subhana Rabbiyal A\'la".)', bn: 'তিনি মহাপবিত্র, অতি পবিত্র; ফেরেশতাদের ও রূহের (জিবরীল) রব। (সিজদায় "সুবহানা রাব্বিয়াল আলা"-র পাশাপাশি পড়ার আরেকটি তাসবিহ।)' },
     reference: { en: 'Muslim 487', bn: 'মুসলিম ৪৮৭' }
   },
   {
@@ -171,7 +171,7 @@ const SALAH_DUAS = [
     step: 'sujud',
     arabic: 'سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَصَوَّرَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ، تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ',
     transliteration: "Sajada wajhi lilladhi khalaqahu wa sawwarahu wa shaqqa sam'ahu wa basarah, tabarakallahu ahsanul-khaliqin",
-    meaning: { en: 'My face has prostrated to the One who created it, shaped it, and opened its hearing and sight. Blessed be Allah, the best of creators.', bn: 'আমার মুখমণ্ডল সেই সত্তার সামনে সিজদা করল যিনি তা সৃষ্টি করেছেন, আকৃতি দিয়েছেন এবং শ্রবণ ও দৃষ্টিশক্তি উন্মুক্ত করেছেন। আল্লাহ অতি বরকতময়, সর্বোত্তম স্রষ্টা।' },
+    meaning: { en: 'My face has prostrated to the One who created it, shaped it, and opened its hearing and sight. Blessed be Allah, the best of creators.', bn: 'আমার মুখমণ্ডল সিজদা করল সেই সত্তাকে, যিনি একে সৃষ্টি করেছেন, আকৃতি দিয়েছেন এবং এতে কান ও চোখ খুলে দিয়েছেন। সর্বোত্তম স্রষ্টা আল্লাহ কতই না বরকতময়!' },
     reference: { en: 'Muslim 771, Abu Dawud 760', bn: 'মুসলিম ৭৭১, আবু দাউদ ৭৬০' }
   },
   {
@@ -179,7 +179,7 @@ const SALAH_DUAS = [
     step: 'sujud',
     arabic: 'سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اللَّهُمَّ اغْفِرْ لِي',
     transliteration: "Subhanakallahumma Rabbana wa bihamdika, Allahummaghfir li",
-    meaning: { en: 'Glory be to You, O Allah our Lord, and all praise is Yours. O Allah, forgive me.', bn: 'পবিত্র আপনি, হে আমাদের রব আল্লাহ, আপনারই প্রশংসা। হে আল্লাহ, আমাকে ক্ষমা করুন।' },
+    meaning: { en: 'Glory be to You, O Allah our Lord, and all praise is Yours. O Allah, forgive me.', bn: 'হে আল্লাহ, আমাদের রব, আপনার পবিত্রতা ঘোষণা করছি, সব প্রশংসা আপনারই। হে আল্লাহ, আমাকে ক্ষমা করুন।' },
     reference: { en: 'Bukhari 794, Muslim 484', bn: 'বুখারী ৭৯৪, মুসলিম ৪৮৪' }
   },
   {
@@ -187,7 +187,7 @@ const SALAH_DUAS = [
     step: 'jalsah',
     arabic: 'رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي',
     transliteration: "Rabbighfir li, warhamni, wajburni, warfa'ni, warzuqni, wahdini, wa'afini, wa'fu 'anni",
-    meaning: { en: 'My Lord, forgive me, have mercy on me, restore me, elevate me, provide for me, guide me, grant me well-being, and pardon me. (Extended between-sujud supplication — Ibn Majah 897.)', bn: 'হে আমার রব! আমাকে ক্ষমা করুন, দয়া করুন, শক্তি দিন, উন্নত করুন, রিজিক দান করুন, হেদায়াত দিন, সুস্থতা দিন এবং মাফ করুন। (দুই সিজদার মাঝে বিস্তারিত দোয়া — ইবন মাজাহ ৮৯৭।)' },
+    meaning: { en: 'My Lord, forgive me, have mercy on me, restore me, elevate me, provide for me, guide me, grant me well-being, and pardon me. (Extended between-sujud supplication — Ibn Majah 897.)', bn: 'হে আমার রব! আমাকে ক্ষমা করুন, আমার ওপর রহম করুন, আমার ক্ষতি পূরণ করে দিন, আমার মর্যাদা বাড়িয়ে দিন, আমাকে রিজিক দিন, হেদায়াত দিন, সুস্থতা দিন এবং আমাকে মাফ করে দিন। (দুই সিজদার মাঝের পূর্ণাঙ্গ দোয়া; ইবন মাজাহ ৮৯৭।)' },
     reference: { en: 'Abu Dawud 850, Tirmidhi 284, Ibn Majah 897', bn: 'আবু দাউদ ৮৫০, তিরমিযী ২৮৪, ইবন মাজাহ ৮৯৭' }
   },
   {
@@ -195,7 +195,7 @@ const SALAH_DUAS = [
     step: 'tashahhud',
     arabic: 'اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ، وَمِنْ عَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ',
     transliteration: "Allahumma inni a'udhu bika min 'adhabi jahannam, wa min 'adhabil-qabr, wa min fitnatil-mahya wal-mamat, wa min sharri fitnatil-masihid-dajjal",
-    meaning: { en: 'O Allah, I seek refuge in You from the punishment of Hellfire, the punishment of the grave, the trials of life and death, and the evil trial of the False Messiah (Dajjal). (Said after tashahhud and durood, before salam — Bukhari 1377.)', bn: 'হে আল্লাহ! আমি আপনার কাছে আশ্রয় চাই জাহান্নামের শাস্তি থেকে, কবরের শাস্তি থেকে, জীবন ও মৃত্যুর ফিতনা থেকে এবং মিথ্যা মসিহ দাজ্জালের ফিতনার অনিষ্ট থেকে। (তাশাহহুদ ও দরূদের পর, সালামের আগে পড়া হয় — বুখারী ১৩৭৭।)' },
+    meaning: { en: 'O Allah, I seek refuge in You from the punishment of Hellfire, the punishment of the grave, the trials of life and death, and the evil trial of the False Messiah (Dajjal). (Said after tashahhud and durood, before salam — Bukhari 1377.)', bn: 'হে আল্লাহ! আমি আপনার কাছে আশ্রয় চাই জাহান্নামের শাস্তি থেকে, কবরের শাস্তি থেকে, জীবন ও মৃত্যুর ফিতনা থেকে এবং মিথ্যা মসিহ দাজ্জালের ফিতনার অনিষ্ট থেকে। (তাশাহহুদ ও দরুদের পর, সালামের আগে পড়তে হয়; বুখারী ১৩৭৭।)' },
     reference: { en: 'Bukhari 1377, Muslim 588', bn: 'বুখারী ১৩৭৭, মুসলিম ৫৮৮' }
   },
   {
@@ -203,7 +203,7 @@ const SALAH_DUAS = [
     step: 'tashahhud',
     arabic: 'اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ',
     transliteration: "Allahumma inni zalamtu nafsi zulman kathiran wa la yaghfirudhdhunuba illa Anta, faghfir li maghfiratan min 'indika warhamni, innaka Antal-Ghafuurur-Rahim",
-    meaning: { en: 'O Allah, I have greatly wronged myself and none forgives sins but You. So grant me forgiveness from You and have mercy on me — indeed You are the Oft-Forgiving, the Most Merciful. (Abu Bakr\'s requested dua, said before salam.)', bn: 'হে আল্লাহ! আমি নিজের উপর অনেক যুলুম করেছি এবং আপনি ছাড়া কেউ গুনাহ মাফ করতে পারে না। তাই আপনার কাছ থেকে আমাকে ক্ষমা করুন এবং দয়া করুন — নিশ্চয়ই আপনি অত্যন্ত ক্ষমাশীল ও দয়ালু। (আবু বকর (রা.)-এর চাওয়া দোয়া, সালামের আগে পড়া হয়।)' },
+    meaning: { en: 'O Allah, I have greatly wronged myself and none forgives sins but You. So grant me forgiveness from You and have mercy on me — indeed You are the Oft-Forgiving, the Most Merciful. (Abu Bakr\'s requested dua, said before salam.)', bn: 'হে আল্লাহ! আমি নিজের ওপর অনেক জুলুম করেছি, আর আপনি ছাড়া কেউ গুনাহ মাফ করতে পারে না। তাই আপনার পক্ষ থেকে আমাকে ক্ষমা করে দিন এবং আমার ওপর রহম করুন। নিশ্চয়ই আপনি অতি ক্ষমাশীল, পরম দয়ালু। (আবু বকর (রাঃ) যে দোয়াটি চেয়ে নিয়েছিলেন; সালামের আগে পড়া হয়।)' },
     reference: { en: 'Bukhari 834, Muslim 2705', bn: 'বুখারী ৮৩৪, মুসলিম ২৭০৫' }
   },
   {
@@ -211,7 +211,7 @@ const SALAH_DUAS = [
     step: 'qunut',
     arabic: 'اللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَعَافِنِي فِيمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ، فَإِنَّكَ تَقْضِي وَلَا يُقْضَىٰ عَلَيْكَ، وَإِنَّهُ لَا يَذِلُّ مَنْ وَالَيْتَ، وَلَا يَعِزُّ مَنْ عَادَيْتَ، تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ',
     transliteration: "Allahummahdini fiman hadayt, wa 'afini fiman 'afayt, wa tawallanee fiman tawallayt, wa barik li fima a'tayt, wa qini sharra ma qadayt, fa-innaka taqdee wa la yuqdaa 'alayk, wa innahu la yadhillu man walayt, wa la ya'izzu man 'adayt, tabarakta Rabbana wa ta'alayt",
-    meaning: { en: 'O Allah, guide me among those You have guided; grant well-being among those You gave well-being; take me into Your care among those You cared for; bless me in what You bestowed; protect me from the evil of what You decreed — for You decree and none decrees over You; none whom You befriend is humbled; none whom You oppose is honoured. Blessed are You, our Lord, Most High. (Qunut al-Witr — recited in the last rak\'ah of Witr.)', bn: 'হে আল্লাহ! যাদেরকে হেদায়াত দিয়েছেন তাদের মধ্যে আমাকেও হেদায়াত দিন; সুস্থতা দিয়েছেন তাদের মধ্যে আমাকেও রাখুন; অভিভাবকত্ব নিয়েছেন তাদের মধ্যে আমাকেও রাখুন; যা দিয়েছেন তাতে বরকত দিন; ফায়সালার মন্দ থেকে রক্ষা করুন — আপনি ফায়সালা করেন, আপনার উপর ফায়সালা হয় না; বন্ধু রাখলে লাঞ্ছিত হয় না; শত্রু করলে সম্মানিত হয় না। হে আমাদের রব, আপনি বরকতময় ও সমুচ্চ। (কুনূতে বিতর — বিতরের শেষ রাকাতে পড়া হয়।)' },
+    meaning: { en: 'O Allah, guide me among those You have guided; grant well-being among those You gave well-being; take me into Your care among those You cared for; bless me in what You bestowed; protect me from the evil of what You decreed — for You decree and none decrees over You; none whom You befriend is humbled; none whom You oppose is honoured. Blessed are You, our Lord, Most High. (Qunut al-Witr — recited in the last rak\'ah of Witr.)', bn: 'হে আল্লাহ! আপনি যাদের হেদায়াত দিয়েছেন, তাদের সঙ্গে আমাকেও হেদায়াত দিন। যাদের সুস্থতা দিয়েছেন, তাদের সঙ্গে আমাকেও সুস্থতা দিন। যাদের অভিভাবক হয়েছেন, তাদের সঙ্গে আমারও অভিভাবক হোন। যা দিয়েছেন, তাতে বরকত দিন। আপনার ফায়সালার মন্দ থেকে আমাকে রক্ষা করুন। আপনিই ফায়সালা করেন, আপনার ওপর কেউ ফায়সালা করতে পারে না। আপনি যার বন্ধু হন, সে কখনো অপমানিত হয় না; আর যার শত্রু হন, সে কখনো সম্মান পায় না। হে আমাদের রব, আপনি বরকতময়, সুউচ্চ। (কুনূতে বিতর: বিতরের শেষ রাকাতে পড়া হয়।)' },
     reference: { en: 'Abu Dawud 1425, Tirmidhi 464, Nasa\'i 1745 — al-Hasan ibn Ali (RA)', bn: 'আবু দাউদ ১৪২৫, তিরমিযী ৪৬৪, নাসায়ী ১৭৪৫ — আল-হাসান ইবন আলী (রা.) বর্ণিত' }
   },
   {
@@ -219,15 +219,15 @@ const SALAH_DUAS = [
     step: 'istikhara',
     arabic: 'اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلَا أَقْدِرُ، وَتَعْلَمُ وَلَا أَعْلَمُ، وَأَنْتَ عَلَّامُ الْغُيُوبِ. اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ. وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ وَاقْدُرْ لِي الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي بِهِ',
     transliteration: "Allahumma inni astakhiruka bi'ilmika, wa astaqdiruka biqudratika, wa as'aluka min fadlikal-'azim, fa-innaka taqdiru wa la aqdir, wa ta'lamu wa la a'lam, wa Anta 'allamul-ghuyub. Allahumma in kunta ta'lamu anna hadhal-amra khayrun li fi dini wa ma'ashi wa 'aqibati amri faqdurhu li wa yassirhu li thumma barik li fih. Wa in kunta ta'lamu anna hadhal-amra sharrun li fi dini wa ma'ashi wa 'aqibati amri fasrifhu 'anni wasrifni 'anhu waqdur liyal-khayra haythu kana thumma ardini bih.",
-    meaning: { en: 'O Allah, I seek Your guidance through Your knowledge, and I seek Your decree through Your power, and I ask You from Your immense bounty. For You decree and I cannot, and You know and I do not, and You are the Knower of the unseen. O Allah, if You know that this matter is good for me in my religion, my livelihood, and the outcome of my affairs, then decree it for me, make it easy for me, and bless me in it. And if You know that this matter is evil for me in my religion, my livelihood, and the outcome of my affairs, then turn it away from me and turn me away from it, and decree for me good wherever it may be, and then make me content with it. (The prescribed du\'a after 2 rak\'ahs of Istikhara, mentioning the specific matter.)', bn: 'হে আল্লাহ! আমি আপনার জ্ঞানের মাধ্যমে কল্যাণ প্রার্থনা করি, আপনার ক্ষমতায় সামর্থ্য চাই এবং আপনার মহা অনুগ্রহ প্রার্থনা করি। আপনি ক্ষমতা রাখেন, আমি পারি না; আপনি জানেন, আমি জানি না; আর আপনি অদৃশ্যের জ্ঞানী। হে আল্লাহ! যদি আপনি জানেন যে এই বিষয়টি আমার দ্বীন, দুনিয়া ও পরিণামের জন্য কল্যাণকর, তবে তা আমার জন্য নির্ধারণ করুন, সহজ করে দিন এবং তাতে বরকত দিন। আর যদি আপনি জানেন যে এটি আমার জন্য অকল্যাণকর, তবে তা আমার থেকে দূর করুন, আমাকে তা থেকে দূর করুন এবং যেখানেই কল্যাণ আছে তা নির্ধারণ করুন, তারপর আমাকে তাতে সন্তুষ্ট করুন। (ইস্তিখারার ২ রাকাতের পর পড়ার জন্য নির্ধারিত দোয়া — নির্দিষ্ট বিষয় উল্লেখ করে।)' },
-    reference: { en: 'Sahih al-Bukhari 1162 — the Prophet ﷺ taught this du\'a as he taught a surah from the Quran', bn: 'সহিহ বুখারি ১১৬২ — নবী ﷺ কুরআনের সূরার মতোই এই দোয়া শিখিয়েছেন' }
+    meaning: { en: 'O Allah, I seek Your guidance through Your knowledge, and I seek Your decree through Your power, and I ask You from Your immense bounty. For You decree and I cannot, and You know and I do not, and You are the Knower of the unseen. O Allah, if You know that this matter is good for me in my religion, my livelihood, and the outcome of my affairs, then decree it for me, make it easy for me, and bless me in it. And if You know that this matter is evil for me in my religion, my livelihood, and the outcome of my affairs, then turn it away from me and turn me away from it, and decree for me good wherever it may be, and then make me content with it. (The prescribed du\'a after 2 rak\'ahs of Istikhara, mentioning the specific matter.)', bn: 'হে আল্লাহ! আমি আপনার জ্ঞানের ওসিলায় আপনার কাছে কল্যাণ চাই, আপনার কুদরতের ওসিলায় সামর্থ্য চাই এবং আপনার মহা অনুগ্রহ প্রার্থনা করি। আপনি ক্ষমতা রাখেন, আমি রাখি না; আপনি জানেন, আমি জানি না; আর আপনিই গায়েবের সব খবর জানেন। হে আল্লাহ! আপনি যদি জানেন যে এই কাজটি আমার দ্বীন, জীবিকা ও শেষ পরিণামের জন্য কল্যাণকর, তাহলে তা আমার জন্য নির্ধারণ করুন, সহজ করে দিন এবং তাতে বরকত দিন। আর যদি জানেন যে এই কাজটি আমার দ্বীন, জীবিকা ও শেষ পরিণামের জন্য ক্ষতিকর, তাহলে তা আমার কাছ থেকে সরিয়ে দিন এবং আমাকেও তা থেকে ফিরিয়ে রাখুন। কল্যাণ যেখানেই থাকুক, আমার জন্য তা নির্ধারণ করুন, তারপর তাতে আমাকে সন্তুষ্ট রাখুন। (ইস্তিখারার ২ রাকাত নামাজের পর নির্দিষ্ট বিষয়টি উল্লেখ করে এই দোয়া পড়তে হয়।)' },
+    reference: { en: 'Sahih al-Bukhari 1162 — the Prophet ﷺ taught this du\'a as he taught a surah from the Quran', bn: 'সহিহ বুখারি ১১৬২ — নবী ﷺ এই দোয়া এমন যত্ন করে শেখাতেন, যেমন কুরআনের সূরা শেখাতেন' }
   },
   {
     id: 'durood_ibrahimiya_short',
     step: 'tashahhud',
     arabic: 'اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ',
     transliteration: "Allahumma salli 'ala Muhammadin wa 'ala aali Muhammad",
-    meaning: { en: 'O Allah, send blessings upon Muhammad and the family of Muhammad. (Shortest confirmed salawat; the full Ibrahimiya with the barik section is more complete and recommended.)', bn: 'হে আল্লাহ! মুহাম্মাদ ও মুহাম্মাদের পরিবারের উপর রহমত বর্ষণ করুন। (সবচেয়ে সংক্ষিপ্ত বিশুদ্ধ দরূদ; বারাকা অংশসহ পূর্ণ ইবরাহিমিয়া পড়া উত্তম।)' },
+    meaning: { en: 'O Allah, send blessings upon Muhammad and the family of Muhammad. (Shortest confirmed salawat; the full Ibrahimiya with the barik section is more complete and recommended.)', bn: 'হে আল্লাহ! মুহাম্মাদ ও মুহাম্মাদের পরিবারের ওপর রহমত বর্ষণ করুন। (প্রমাণিত দরুদগুলোর মধ্যে এটি সবচেয়ে ছোট। তবে "বারিক" অংশসহ পূর্ণ দরুদে ইবরাহিম আরও পরিপূর্ণ, সেটিই পড়া উত্তম।)' },
     reference: { en: 'Muslim 405', bn: 'মুসলিম ৪০৫' }
   },
   {
@@ -235,7 +235,7 @@ const SALAH_DUAS = [
     step: 'post_salam',
     arabic: 'أَسْتَغْفِرُ اللَّهَ',
     transliteration: "Astaghfirullah",
-    meaning: { en: 'I seek forgiveness from Allah — said three times immediately upon completing the salam.', bn: 'আমি আল্লাহর কাছে ক্ষমা চাই — সালাম শেষ হওয়ার সঙ্গে সঙ্গে তিনবার বলা হয়।' },
+    meaning: { en: 'I seek forgiveness from Allah — said three times immediately upon completing the salam.', bn: 'আমি আল্লাহর কাছে ক্ষমা চাই। (সালাম ফেরানোর সঙ্গে সঙ্গে তিনবার বলতে হয়।)' },
     reference: { en: 'Muslim 591', bn: 'মুসলিম ৫৯১' },
     count: 3
   },
@@ -244,7 +244,7 @@ const SALAH_DUAS = [
     step: 'post_salam',
     arabic: 'اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ',
     transliteration: "Allahumma antas-salamu wa minkas-salamu, tabarakta ya dhal-jalali wal-ikram",
-    meaning: { en: 'O Allah, You are Peace and from You is peace. Blessed are You, O Possessor of Majesty and Honor. (Said after the three istighfars following salam.)', bn: 'হে আল্লাহ! আপনিই শান্তি এবং আপনার কাছ থেকেই শান্তি আসে। আপনি বরকতময়, হে মহিমা ও সম্মানের অধিকারী। (সালামের পর তিনটি ইস্তিগফারের পরপরই বলা হয়।)' },
+    meaning: { en: 'O Allah, You are Peace and from You is peace. Blessed are You, O Possessor of Majesty and Honor. (Said after the three istighfars following salam.)', bn: 'হে আল্লাহ! আপনিই শান্তি, আপনার কাছ থেকেই শান্তি আসে। আপনি বরকতময়, হে মহিমা ও সম্মানের মালিক। (সালামের পর তিনবার ইস্তিগফার পড়ে এটি বলা হয়।)' },
     reference: { en: 'Muslim 591', bn: 'মুসলিম ৫৯১' }
   },
   {
@@ -252,7 +252,7 @@ const SALAH_DUAS = [
     step: 'thana',
     arabic: 'اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اللَّهُمَّ نَقِّنِي مِنْ خَطَايَايَ كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ، اللَّهُمَّ اغْسِلْنِي مِنْ خَطَايَايَ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ',
     transliteration: "Allahumma ba'id bayni wa bayna khatayaya kama ba'adta baynal-mashriqi wal-maghrib, Allahumma naqqini min khatayaya kama yunaqqath-thawbul-abyadu minad-danas, Allahummaghsilni min khatayaya bil-ma'i wath-thalji wal-barad",
-    meaning: { en: 'O Allah, distance me from my sins as You have distanced the East from the West. O Allah, cleanse me of my sins as a white garment is cleansed of dirt. O Allah, wash away my sins with water, snow and hail. (An authentic opening supplication — istiftah.)', bn: 'হে আল্লাহ! আমার ও আমার গুনাহের মাঝে দূরত্ব সৃষ্টি করুন যেমন আপনি পূর্ব ও পশ্চিমের মাঝে দূরত্ব রেখেছেন। হে আল্লাহ! আমাকে গুনাহ থেকে এমনভাবে পরিষ্কার করুন যেমন সাদা কাপড় ময়লা থেকে পরিষ্কার করা হয়। হে আল্লাহ! পানি, বরফ ও শিলা দিয়ে আমার গুনাহ ধুয়ে দিন। (একটি বিশুদ্ধ সানা — প্রারম্ভিক দোয়া।)' },
+    meaning: { en: 'O Allah, distance me from my sins as You have distanced the East from the West. O Allah, cleanse me of my sins as a white garment is cleansed of dirt. O Allah, wash away my sins with water, snow and hail. (An authentic opening supplication — istiftah.)', bn: 'হে আল্লাহ! আমার ও আমার গুনাহের মাঝে এমন দূরত্ব করে দিন, যেমন দূরত্ব রেখেছেন পূর্ব ও পশ্চিমের মাঝে। হে আল্লাহ! সাদা কাপড় যেভাবে ময়লা থেকে পরিষ্কার করা হয়, সেভাবে আমাকে গুনাহ থেকে পরিষ্কার করে দিন। হে আল্লাহ! পানি, বরফ ও শিলাবৃষ্টি দিয়ে আমার গুনাহ ধুয়ে দিন। (সানার একটি সহিহ রূপ।)' },
     reference: { en: 'Bukhari 744, Muslim 598', bn: 'বুখারী ৭৪৪, মুসলিম ৫৯৮' }
   },
   {
@@ -260,7 +260,7 @@ const SALAH_DUAS = [
     step: 'thana',
     arabic: 'وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ، لَا شَرِيكَ لَهُ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ',
     transliteration: "Wajjahtu wajhiya lilladhi fataras-samawati wal-arda hanifan wa ma ana minal-mushrikin, inna salati wa nusuki wa mahyaya wa mamati lillahi Rabbil-'alamin, la sharika lah, wa bidhalika umirtu wa ana minal-muslimin",
-    meaning: { en: 'I have turned my face toward the One who created the heavens and the earth, as a pure monotheist, and I am not of the polytheists. Indeed my prayer, my sacrifice, my living and my dying are for Allah, Lord of the worlds; He has no partner. With this I was commanded, and I am among the Muslims. (Longer istiftah reported from Ali RA, especially in night prayer.)', bn: 'আমি একনিষ্ঠভাবে সেই সত্তার দিকে মুখ ফিরিয়েছি যিনি আসমান ও জমিন সৃষ্টি করেছেন, আর আমি মুশরিকদের অন্তর্ভুক্ত নই। নিশ্চয় আমার নামাজ, কুরবানি, জীবন ও মৃত্যু সবই বিশ্বজগতের রব আল্লাহর জন্য; তাঁর কোনো শরিক নেই। এরই আদেশ আমাকে দেওয়া হয়েছে এবং আমি মুসলিমদের অন্তর্ভুক্ত। (আলী রা. থেকে বর্ণিত দীর্ঘ সানা, বিশেষত রাতের নামাজে।)' },
+    meaning: { en: 'I have turned my face toward the One who created the heavens and the earth, as a pure monotheist, and I am not of the polytheists. Indeed my prayer, my sacrifice, my living and my dying are for Allah, Lord of the worlds; He has no partner. With this I was commanded, and I am among the Muslims. (Longer istiftah reported from Ali RA, especially in night prayer.)', bn: 'আমি একনিষ্ঠ হয়ে সেই সত্তার দিকে মুখ ফেরালাম, যিনি আসমান ও জমিন সৃষ্টি করেছেন। আমি মুশরিকদের দলভুক্ত নই। নিশ্চয়ই আমার নামাজ, আমার কুরবানি, আমার জীবন ও মৃত্যু সবই বিশ্বজগতের রব আল্লাহর জন্য। তাঁর কোনো শরিক নেই। আমাকে এরই আদেশ দেওয়া হয়েছে, আর আমি মুসলিমদের একজন। (আলী (রাঃ) থেকে বর্ণিত দীর্ঘ সানা; বিশেষ করে রাতের নামাজে পড়া হয়।)' },
     reference: { en: 'Muslim 771 — from Ali ibn Abi Talib (RA)', bn: 'মুসলিম ৭৭১ — আলী ইবন আবি তালিব (রা.) বর্ণিত' }
   },
   {
@@ -268,7 +268,7 @@ const SALAH_DUAS = [
     step: 'standing',
     arabic: 'رَبَّنَا وَلَكَ الْحَمْدُ، مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ',
     transliteration: "Rabbana wa lakal-hamd, mil'as-samawati wa mil'al-ard, wa mil'a ma shi'ta min shay'in ba'd",
-    meaning: { en: 'Our Lord, all praise is Yours — filling the heavens, filling the earth, and filling whatever else You will beyond them. (Extended qawmah supplication said after rising from ruku.)', bn: 'হে আমাদের রব, আপনারই সমস্ত প্রশংসা — আসমান ভরে, জমিন ভরে এবং এরপর আপনি যা চান তা ভরে দেওয়ার মতো প্রশংসা। (রুকু থেকে ওঠার পর পঠিত বিস্তারিত দোয়া।)' },
+    meaning: { en: 'Our Lord, all praise is Yours — filling the heavens, filling the earth, and filling whatever else You will beyond them. (Extended qawmah supplication said after rising from ruku.)', bn: 'হে আমাদের রব, সব প্রশংসা আপনারই; আসমান-ভরা, জমিন-ভরা প্রশংসা, আর এরপর আপনি যা চান তা-ভরা প্রশংসা। (রুকু থেকে ওঠার পর কাওমায় পড়ার দীর্ঘ দোয়া।)' },
     reference: { en: 'Muslim 476, 477', bn: 'মুসলিম ৪৭৬, ৪৭৭' }
   },
   {
@@ -276,7 +276,7 @@ const SALAH_DUAS = [
     step: 'sujud',
     arabic: 'اللَّهُمَّ اكْتُبْ لِي بِهَا عِنْدَكَ أَجْرًا، وَضَعْ عَنِّي بِهَا وِزْرًا، وَاجْعَلْهَا لِي عِنْدَكَ ذُخْرًا، وَتَقَبَّلْهَا مِنِّي كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ دَاوُدَ',
     transliteration: "Allahummaktub li biha 'indaka ajran, wa da' 'anni biha wizran, waj'alha li 'indaka dhukhran, wa taqabbalha minni kama taqabbaltaha min 'abdika Dawud",
-    meaning: { en: 'O Allah, record for me a reward with You for this (prostration), remove from me a burden by it, store it up for me with You, and accept it from me as You accepted it from Your servant Dawud. (Du\'a of Sujud al-Tilawah — the prostration of recitation.)', bn: 'হে আল্লাহ! এর বিনিময়ে আপনার কাছে আমার জন্য সওয়াব লিখুন, এর দ্বারা আমার থেকে গুনাহের বোঝা নামিয়ে দিন, একে আপনার কাছে আমার জন্য সঞ্চয় করে রাখুন এবং তা আমার থেকে কবুল করুন যেমন আপনার বান্দা দাউদ (আ.) থেকে কবুল করেছিলেন। (সিজদায়ে তিলাওয়াতের দোয়া — তিলাওয়াতের সিজদা।)' },
+    meaning: { en: 'O Allah, record for me a reward with You for this (prostration), remove from me a burden by it, store it up for me with You, and accept it from me as You accepted it from Your servant Dawud. (Du\'a of Sujud al-Tilawah — the prostration of recitation.)', bn: 'হে আল্লাহ! এই সিজদার বিনিময়ে আপনার কাছে আমার জন্য সওয়াব লিখে রাখুন, এর ওসিলায় আমার বোঝা নামিয়ে দিন, একে আপনার কাছে আমার জন্য জমা রাখুন, আর আমার কাছ থেকে তা কবুল করুন, যেভাবে আপনার বান্দা দাউদ (আঃ)-এর কাছ থেকে কবুল করেছিলেন। (তিলাওয়াতে সিজদার দোয়া।)' },
     reference: { en: 'Tirmidhi 3424, Ibn Majah 1053 — hasan', bn: 'তিরমিযী ৩৪২৪, ইবন মাজাহ ১০৫৩ — হাসান' }
   },
   {
@@ -284,7 +284,7 @@ const SALAH_DUAS = [
     step: 'tashahhud',
     arabic: 'اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبُخْلِ، وَأَعُوذُ بِكَ مِنَ الْجُبْنِ، وَأَعُوذُ بِكَ أَنْ أُرَدَّ إِلَىٰ أَرْذَلِ الْعُمُرِ، وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا، وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ',
     transliteration: "Allahumma inni a'udhu bika minal-bukhl, wa a'udhu bika minal-jubn, wa a'udhu bika an uradda ila ardhalil-'umur, wa a'udhu bika min fitnatid-dunya, wa a'udhu bika min 'adhabil-qabr",
-    meaning: { en: 'O Allah, I seek refuge in You from miserliness, from cowardice, from being returned to the most feeble age, from the trial of this world, and from the punishment of the grave. (Refuge du\'a taught by the Prophet ﷺ, said in prayer — from Sa\'d ibn Abi Waqqas RA.)', bn: 'হে আল্লাহ! আমি আপনার কাছে আশ্রয় চাই কৃপণতা থেকে, কাপুরুষতা থেকে, অতি জরাগ্রস্ত বয়সে ফিরিয়ে দেওয়া থেকে, দুনিয়ার ফিতনা থেকে এবং কবরের শাস্তি থেকে। (নবী ﷺ শিখিয়েছেন এই আশ্রয়ের দোয়া, নামাজে পড়া হয় — সাদ ইবন আবি ওয়াক্কাস রা. বর্ণিত।)' },
+    meaning: { en: 'O Allah, I seek refuge in You from miserliness, from cowardice, from being returned to the most feeble age, from the trial of this world, and from the punishment of the grave. (Refuge du\'a taught by the Prophet ﷺ, said in prayer — from Sa\'d ibn Abi Waqqas RA.)', bn: 'হে আল্লাহ! আমি আপনার কাছে আশ্রয় চাই কৃপণতা থেকে, কাপুরুষতা থেকে, বার্ধক্যের সবচেয়ে অসহায় বয়সে পৌঁছে যাওয়া থেকে, দুনিয়ার ফিতনা থেকে এবং কবরের শাস্তি থেকে। (নবী ﷺ এই আশ্রয়ের দোয়া শিখিয়েছেন, নামাজে পড়ার জন্য। বর্ণনাকারী সাদ ইবন আবি ওয়াক্কাস (রাঃ)।)' },
     reference: { en: 'Bukhari 6390', bn: 'বুখারী ৬৩৯০' }
   },
   {
@@ -292,7 +292,7 @@ const SALAH_DUAS = [
     step: 'tashahhud',
     arabic: 'اللَّهُمَّ أَعِنِّي عَلَىٰ ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ',
     transliteration: "Allahumma a'inni 'ala dhikrika wa shukrika wa husni 'ibadatik",
-    meaning: { en: 'O Allah, help me to remember You, to thank You, and to worship You beautifully. (The Prophet ﷺ instructed Mu\'adh RA never to leave this du\'a at the end of every prayer, before the salam.)', bn: 'হে আল্লাহ! আপনার যিকির করতে, শুকরিয়া আদায় করতে এবং সুন্দরভাবে আপনার ইবাদত করতে আমাকে সাহায্য করুন। (নবী ﷺ মুয়াজ রা.-কে প্রতি নামাজের শেষে সালামের আগে এই দোয়া কখনো না ছাড়তে বলেছেন।)' },
+    meaning: { en: 'O Allah, help me to remember You, to thank You, and to worship You beautifully. (The Prophet ﷺ instructed Mu\'adh RA never to leave this du\'a at the end of every prayer, before the salam.)', bn: 'হে আল্লাহ! আপনার জিকির করতে, আপনার শুকরিয়া আদায় করতে এবং সুন্দরভাবে আপনার ইবাদত করতে আমাকে সাহায্য করুন। (নবী ﷺ মুয়াজ (রাঃ)-কে বলেছিলেন, প্রতি নামাজের শেষে সালামের আগে এই দোয়া যেন কখনো বাদ না দেন।)' },
     reference: { en: 'Abu Dawud 1522, Nasa\'i 1303 — sahih', bn: 'আবু দাউদ ১৫২২, নাসায়ী ১৩০৩ — সহিহ' }
   },
 ];
@@ -341,21 +341,21 @@ const SALAH_TASBEEH = [
     id: 'tahlil',
     arabic: 'لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ',
     transliteration: "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu, wa huwa 'ala kulli shay'in qadir",
-    meaning: { en: 'There is no god but Allah, alone, without partner. His is the kingdom and His is all praise, and He has power over all things.', bn: 'আল্লাহ ছাড়া কোনো উপাস্য নেই, তিনি একক, তাঁর কোনো শরিক নেই। রাজত্ব তাঁরই এবং সমস্ত প্রশংসা তাঁরই, আর তিনি সব কিছুর উপর ক্ষমতাবান।' },
+    meaning: { en: 'There is no god but Allah, alone, without partner. His is the kingdom and His is all praise, and He has power over all things.', bn: 'আল্লাহ ছাড়া কোনো মাবুদ নেই, তিনি এক, তাঁর কোনো শরিক নেই। রাজত্ব তাঁরই, সব প্রশংসাও তাঁরই, আর তিনি সব কিছুর ওপর ক্ষমতাবান।' },
     reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
   {
     id: 'ayatul_kursi',
     arabic: 'اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ',
     transliteration: "Allahu la ilaha illa Huwal-Hayyul-Qayyum. La ta'khudhuhu sinatun wa la nawm. Lahu ma fis-samawati wa ma fil-ard. Man dhal-ladhi yashfa'u 'indahu illa bi-idhnih. Ya'lamu ma bayna aydihim wa ma khalfahum, wa la yuhituna bi shay'im min 'ilmihi illa bima sha'. Wasi'a kursiyyuhus-samawati wal-ard, wa la ya'uduhu hifdhuhuma, wa Huwal-'Aliyyul-'Azim.",
-    meaning: { en: 'Allah — there is no god but He, the Ever-Living, the Sustainer of all. Neither drowsiness nor sleep overtakes Him. To Him belongs all that is in the heavens and all that is on earth. Who can intercede with Him except by His permission? He knows what is before them and what is behind them, while they encompass nothing of His knowledge except what He wills. His Kursi extends over the heavens and the earth, and their preservation does not weary Him. He is the Most High, the Most Great.', bn: 'আল্লাহ — তিনি ছাড়া কোনো উপাস্য নেই, তিনি চিরঞ্জীব, সবকিছুর ধারক। তাকে তন্দ্রা বা নিদ্রা কোনোটি স্পর্শ করে না। আসমান ও জমিনে যা কিছু আছে সব তাঁরই। কে আছেন যে তাঁর অনুমতি ছাড়া তাঁর কাছে সুপারিশ করবে? তাদের সামনে ও পিছনে যা আছে তিনি তা জানেন। তাঁর জ্ঞান থেকে তারা যা ইচ্ছে করেন তা ছাড়া কিছুই আয়ত্ত করতে পারে না। তাঁর কুরসি আসমান ও জমিনকে পরিব্যাপ্ত করে আছে। এ দুটোর সংরক্ষণ তাঁকে ক্লান্ত করে না। তিনি সর্বোচ্চ, মহান।' },
+    meaning: { en: 'Allah — there is no god but He, the Ever-Living, the Sustainer of all. Neither drowsiness nor sleep overtakes Him. To Him belongs all that is in the heavens and all that is on earth. Who can intercede with Him except by His permission? He knows what is before them and what is behind them, while they encompass nothing of His knowledge except what He wills. His Kursi extends over the heavens and the earth, and their preservation does not weary Him. He is the Most High, the Most Great.', bn: 'আল্লাহ, তিনি ছাড়া কোনো মাবুদ নেই। তিনি চিরঞ্জীব, সবকিছুর ধারক। তন্দ্রা বা ঘুম কোনোটিই তাঁকে স্পর্শ করে না। আসমান ও জমিনে যা কিছু আছে, সবই তাঁর। কে আছে যে তাঁর অনুমতি ছাড়া তাঁর কাছে সুপারিশ করবে? তাদের সামনে ও পেছনে যা আছে, সবই তিনি জানেন। তিনি যতটুকু চান, তার বাইরে তাঁর জ্ঞানের কিছুই তারা আয়ত্ত করতে পারে না। তাঁর কুরসি আসমান ও জমিন জুড়ে বিস্তৃত, আর এ দুটোকে রক্ষা করা তাঁকে ক্লান্ত করে না। তিনি সুউচ্চ, মহান।' },
     reference: { en: 'Quran 2:255' }
   },
   {
     id: 'quls',
     arabic: 'قُلْ هُوَ اللَّهُ أَحَدٌ …',
     transliteration: "Qul Huwallahu Ahad...",
-    meaning: { en: 'Recite Surah al-Ikhlas, al-Falaq and an-Nas for protection.', bn: 'সুরা ইখলাস, ফালাক ও নাস পড়ুন।' },
+    meaning: { en: 'Recite Surah al-Ikhlas, al-Falaq and an-Nas for protection.', bn: 'হেফাজতের জন্য সূরা ইখলাস, ফালাক ও নাস পড়ুন।' },
     reference: { en: 'Abu Dawud, Tirmidhi' },
     count: 3
   },
@@ -363,14 +363,14 @@ const SALAH_TASBEEH = [
     id: 'la_ilaha_illallah',
     arabic: 'لَا إِلَٰهَ إِلَّا اللَّهُ',
     transliteration: "La ilaha illallah",
-    meaning: { en: 'There is no god but Allah.', bn: 'আল্লাহ ছাড়া কোনো উপাস্য নেই।' },
+    meaning: { en: 'There is no god but Allah.', bn: 'আল্লাহ ছাড়া কোনো মাবুদ নেই।' },
     reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
   {
     id: 'subhanallah_wabihamdih',
     arabic: 'سُبْحَانَ اللَّهِ وَبِحَمْدِهِ',
     transliteration: "Subhanallahi wa bihamdih",
-    meaning: { en: 'Glory and praise be to Allah.', bn: 'আল্লাহ পবিত্র ও তাঁরই প্রশংসা।' },
+    meaning: { en: 'Glory and praise be to Allah.', bn: 'আল্লাহ পবিত্র, সব প্রশংসা তাঁরই।' },
     count: 100,
     reference: { en: 'Bukhari, Muslim', bn: 'বুখারী, মুসলিম' }
   },
@@ -378,7 +378,7 @@ const SALAH_TASBEEH = [
     id: 'la_ilaha_10x_fajr_maghrib',
     arabic: 'لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ',
     transliteration: "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamd, yuhyi wa yumit, wa huwa 'ala kulli shay'in qadir",
-    meaning: { en: 'There is no god but Allah, alone, without partner. To Him belongs dominion and praise; He gives life and causes death, and has power over all things. (×10 after Fajr and Maghrib — equivalent to freeing 10 slaves, 100 good deeds recorded, and Shaytan protection for the day.)', bn: 'আল্লাহ ছাড়া কোনো উপাস্য নেই, তিনি একক, তাঁর কোনো শরিক নেই। রাজত্ব ও প্রশংসা তাঁরই; তিনি জীবন দেন ও মৃত্যু ঘটান, সব কিছুর উপর ক্ষমতাবান। (ফজর ও মাগরিবের পর ১০ বার — ১০ গোলাম আজাদের সওয়াব ও শয়তান থেকে সুরক্ষা।)' },
+    meaning: { en: 'There is no god but Allah, alone, without partner. To Him belongs dominion and praise; He gives life and causes death, and has power over all things. (×10 after Fajr and Maghrib — equivalent to freeing 10 slaves, 100 good deeds recorded, and Shaytan protection for the day.)', bn: 'আল্লাহ ছাড়া কোনো মাবুদ নেই, তিনি এক, তাঁর কোনো শরিক নেই। রাজত্ব ও প্রশংসা তাঁরই; তিনি জীবন দেন, মৃত্যু দেন, আর তিনি সব কিছুর ওপর ক্ষমতাবান। (ফজর ও মাগরিবের পর ১০ বার। এর সওয়াব ১০ জন গোলাম আজাদ করার সমান, আমলনামায় ১০০ নেকি লেখা হয়, আর সেদিন শয়তান থেকে হেফাজতে থাকা যায়।)' },
     count: 10,
     reference: { en: 'Ahmad 6479, Tirmidhi 3474', bn: 'আহমাদ ৬৪৭৯, তিরমিযী ৩৪৭৪' },
     context: { en: 'After Fajr and Maghrib', bn: 'ফজর ও মাগরিবের পর' }
@@ -387,7 +387,7 @@ const SALAH_TASBEEH = [
     id: 'muawwidhat_3x_fajr_maghrib',
     arabic: 'قُلْ هُوَ اللَّهُ أَحَدٌ… قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ… قُلْ أَعُوذُ بِرَبِّ النَّاسِ…',
     transliteration: "Qul Huwallahu Ahad... Qul a'udhu birabbil-falaq... Qul a'udhu birabbin-nas...",
-    meaning: { en: 'Recite Surah al-Ikhlas, Surah al-Falaq, and Surah an-Nas — each three times after Fajr and Maghrib. These three surahs together are sufficient protection throughout the day and night.', bn: 'সূরা ইখলাস, সূরা ফালাক ও সূরা নাস — ফজর ও মাগরিবের পর প্রতিটি তিনবার পড়া। এই তিনটি সূরা একত্রে সারাদিন ও সারারাতের সুরক্ষার জন্য যথেষ্ট।' },
+    meaning: { en: 'Recite Surah al-Ikhlas, Surah al-Falaq, and Surah an-Nas — each three times after Fajr and Maghrib. These three surahs together are sufficient protection throughout the day and night.', bn: 'ফজর ও মাগরিবের পর সূরা ইখলাস, সূরা ফালাক ও সূরা নাস প্রতিটি তিনবার করে পড়ুন। এই তিন সূরা সারা দিন ও সারা রাতের হেফাজতের জন্য যথেষ্ট।' },
     count: 3,
     reference: { en: 'Abu Dawud 5082, Tirmidhi 3575', bn: 'আবু দাউদ ৫০৮২, তিরমিযী ৩৫৭৫' },
     context: { en: 'After Fajr and Maghrib (×3 each surah)', bn: 'ফজর ও মাগরিবের পর (প্রতিটি সূরা ৩ বার)' }
@@ -396,21 +396,21 @@ const SALAH_TASBEEH = [
     id: 'allahumma_ainna_dhikrik',
     arabic: 'اللَّهُمَّ أَعِنِّي عَلَىٰ ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ',
     transliteration: "Allahumma a'inni 'ala dhikrika wa shukrika wa husni 'ibadatik",
-    meaning: { en: 'O Allah, help me to remember You, to thank You, and to worship You beautifully. (Recommended after every fard prayer.)', bn: 'হে আল্লাহ! আপনার যিকির করতে, শুকরিয়া আদায় করতে এবং সুন্দরভাবে আপনার ইবাদত করতে আমাকে সাহায্য করুন। (প্রতিটি ফরজ নামাজের পর পড়া মুস্তাহাব।)' },
+    meaning: { en: 'O Allah, help me to remember You, to thank You, and to worship You beautifully. (Recommended after every fard prayer.)', bn: 'হে আল্লাহ! আপনার জিকির করতে, আপনার শুকরিয়া আদায় করতে এবং সুন্দরভাবে আপনার ইবাদত করতে আমাকে সাহায্য করুন। (প্রতিটি ফরজ নামাজের পর পড়া মুস্তাহাব।)' },
     reference: { en: 'Abu Dawud 1522 — from Mu\'adh ibn Jabal (RA)', bn: 'আবু দাউদ ১৫২২ — মুয়াজ ইবন জাবাল (রা.) বর্ণিত' }
   },
   {
     id: 'la_hawla_wa_la_quwwata',
     arabic: 'لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ',
     transliteration: "La hawla wa la quwwata illa billah",
-    meaning: { en: 'There is no might and no power except with Allah. (A treasure from the treasures of Paradise — frequently recited after salah.)', bn: 'আল্লাহর সাহায্য ছাড়া কোনো শক্তি ও ক্ষমতা নেই। (জান্নাতের ভাণ্ডার থেকে একটি রত্ন — নামাজের পর বহুল পঠিত।)' },
+    meaning: { en: 'There is no might and no power except with Allah. (A treasure from the treasures of Paradise — frequently recited after salah.)', bn: 'আল্লাহর সাহায্য ছাড়া কোনো শক্তি ও ক্ষমতা নেই। (এটি জান্নাতের ভান্ডারগুলোর একটি; নামাজের পর বেশি বেশি পড়া হয়।)' },
     reference: { en: 'Bukhari 4205, Muslim 2704', bn: 'বুখারী ৪২০৫, মুসলিম ২৭০৪' }
   },
   {
     id: 'allahumma_ajirni_nar_7x',
     arabic: 'اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ',
     transliteration: "Allahumma ajirni minan-nar",
-    meaning: { en: 'O Allah, protect me from the Fire. (×7 after Fajr and Maghrib — whoever says this and dies that day or night will be protected from the Fire.)', bn: 'হে আল্লাহ! আমাকে জাহান্নাম থেকে রক্ষা করুন। (ফজর ও মাগরিবের পর ৭ বার — যে বলবে সেদিন বা সেরাতে মারা গেলে জাহান্নাম তাকে স্পর্শ করবে না।)' },
+    meaning: { en: 'O Allah, protect me from the Fire. (×7 after Fajr and Maghrib — whoever says this and dies that day or night will be protected from the Fire.)', bn: 'হে আল্লাহ! আমাকে জাহান্নাম থেকে রক্ষা করুন। (ফজর ও মাগরিবের পর ৭ বার। যে এটি বলে সেদিন বা সেই রাতে মারা যায়, সে জাহান্নাম থেকে রক্ষা পাবে।)' },
     count: 7,
     reference: { en: 'Abu Dawud 5079, Ahmad', bn: 'আবু দাউদ ৫০৭৯, আহমাদ' },
     context: { en: 'After Fajr and Maghrib (×7)', bn: 'ফজর ও মাগরিবের পর (৭ বার)' }
@@ -419,7 +419,7 @@ const SALAH_TASBEEH = [
     id: 'hasbiyallahu_7x',
     arabic: 'حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ، عَلَيْهِ تَوَكَّلْتُ، وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ',
     transliteration: "Hasbiyallahu la ilaha illa Huwa, 'alayhi tawakkaltu, wa Huwa Rabbul-'arshil-'azim",
-    meaning: { en: 'Allah is sufficient for me; there is no god but He. In Him I put my trust. He is the Lord of the Mighty Throne. (×7 after Fajr and Maghrib — Allah will suffice that person in their worldly and religious affairs.)', bn: 'আল্লাহই আমার জন্য যথেষ্ট, তিনি ছাড়া কোনো উপাস্য নেই। তাঁর উপরই আমি ভরসা রাখি এবং তিনি মহান আরশের রব। (ফজর ও মাগরিবের পর ৭ বার — যে বলবে তার দুনিয়া ও আখিরাতের ব্যাপারে আল্লাহই যথেষ্ট।)' },
+    meaning: { en: 'Allah is sufficient for me; there is no god but He. In Him I put my trust. He is the Lord of the Mighty Throne. (×7 after Fajr and Maghrib — Allah will suffice that person in their worldly and religious affairs.)', bn: 'আল্লাহই আমার জন্য যথেষ্ট, তিনি ছাড়া কোনো মাবুদ নেই। তাঁর ওপরই আমি ভরসা করি, আর তিনি মহান আরশের রব। (ফজর ও মাগরিবের পর ৭ বার। যে এটি পড়ে, তার দুনিয়া ও দ্বীনের সব বিষয়ে আল্লাহই তার জন্য যথেষ্ট হয়ে যান।)' },
     count: 7,
     reference: { en: 'Abu Dawud 5081', bn: 'আবু দাউদ ৫০৮১' },
     context: { en: 'After Fajr and Maghrib (×7)', bn: 'ফজর ও মাগরিবের পর (৭ বার)' }
@@ -428,7 +428,7 @@ const SALAH_TASBEEH = [
     id: 'sayyidul_istighfar',
     arabic: 'اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي، فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ',
     transliteration: "Allahumma Anta Rabbi la ilaha illa Anta, khalaqtani wa ana 'abduk, wa ana 'ala 'ahdika wa wa'dika mas-tata't, a'udhu bika min sharri ma sana't, abu'u laka bi-ni'matika 'alayya wa abu'u bidhanbee, faghfir lee fa-innahu la yaghfirudhdhunuba illa Ant",
-    meaning: { en: 'O Allah, You are my Lord; there is no god but You. You created me and I am Your servant. I uphold Your covenant and promise as best I can. I seek refuge in You from the evil I have done. I acknowledge Your blessings upon me and I confess my sins — so forgive me, for none forgives sins but You. (Sayyid al-Istighfar — the master supplication of forgiveness. Whoever says it in the morning with conviction and dies that day enters Paradise.)', bn: 'হে আল্লাহ! আপনি আমার রব, আপনি ছাড়া কোনো উপাস্য নেই। আপনি আমাকে সৃষ্টি করেছেন এবং আমি আপনার বান্দা। সাধ্যমত আপনার সাথে অঙ্গীকার পালনের চেষ্টা করি। আমার কৃতকর্মের অনিষ্ট থেকে আশ্রয় চাই। আপনার নেয়ামত স্বীকার করি এবং আমার গুনাহও স্বীকার করি — তাই ক্ষমা করুন, কারণ আপনি ছাড়া গুনাহ মাফ করার কেউ নেই। (সাইয়িদুল ইস্তিগফার — ক্ষমা প্রার্থনার সর্বোচ্চ দোয়া।)' },
+    meaning: { en: 'O Allah, You are my Lord; there is no god but You. You created me and I am Your servant. I uphold Your covenant and promise as best I can. I seek refuge in You from the evil I have done. I acknowledge Your blessings upon me and I confess my sins — so forgive me, for none forgives sins but You. (Sayyid al-Istighfar — the master supplication of forgiveness. Whoever says it in the morning with conviction and dies that day enters Paradise.)', bn: 'হে আল্লাহ! আপনি আমার রব, আপনি ছাড়া কোনো মাবুদ নেই। আপনি আমাকে সৃষ্টি করেছেন, আমি আপনার বান্দা। সাধ্যমতো আমি আপনার সঙ্গে করা অঙ্গীকার ও ওয়াদার ওপর আছি। আমার কৃতকর্মের অনিষ্ট থেকে আপনার আশ্রয় চাই। আমার ওপর আপনার নেয়ামত আমি স্বীকার করি, আমার গুনাহও স্বীকার করি। তাই আমাকে ক্ষমা করুন, কারণ আপনি ছাড়া কেউ গুনাহ মাফ করতে পারে না। (একে বলে সাইয়িদুল ইস্তিগফার, অর্থাৎ ইস্তিগফারের শ্রেষ্ঠ দোয়া। যে দৃঢ় বিশ্বাস নিয়ে সকালে এটি পড়ে এবং সেদিনই মারা যায়, সে জান্নাতে যাবে।)' },
     reference: { en: 'Bukhari 6306', bn: 'বুখারী ৬৩০৬' },
     context: { en: 'Morning / after Fajr', bn: 'সকালে / ফজরের পর' }
   },
@@ -436,7 +436,7 @@ const SALAH_TASBEEH = [
     id: 'tasbih_10x_short',
     arabic: 'سُبْحَانَ اللَّهِ × ١٠ — الْحَمْدُ لِلَّهِ × ١٠ — اللَّهُ أَكْبَرُ × ١٠',
     transliteration: "Subhanallah ×10, Alhamdulillah ×10, Allahu Akbar ×10",
-    meaning: { en: 'Glory be to Allah ×10 — All praise is for Allah ×10 — Allah is the Greatest ×10. (Shorter 30-count sequence after each fard prayer; equal in reward to the full 33+33+33 sequence.)', bn: 'আল্লাহ পবিত্র ×১০ — সমস্ত প্রশংসা আল্লাহর ×১০ — আল্লাহ সবচেয়ে বড় ×১০। (প্রতিটি ফরজ নামাজের পর সংক্ষিপ্ত ৩০ সংখ্যার ক্রম; ৩৩+৩৩+৩৩ ক্রমের সমান সওয়াব।)' },
+    meaning: { en: 'Glory be to Allah ×10 — All praise is for Allah ×10 — Allah is the Greatest ×10. (Shorter 30-count sequence after each fard prayer; equal in reward to the full 33+33+33 sequence.)', bn: 'আল্লাহ পবিত্র ×১০, সব প্রশংসা আল্লাহর ×১০, আল্লাহ সবচেয়ে বড় ×১০। (প্রতিটি ফরজ নামাজের পর ৩০ বারের ছোট তাসবিহ; সওয়াবে এটি পূর্ণ ৩৩+৩৩+৩৩ তাসবিহের সমান।)' },
     count: 30,
     reference: { en: 'Muslim 597', bn: 'মুসলিম ৫৯৭' }
   },
@@ -444,7 +444,7 @@ const SALAH_TASBEEH = [
     id: 'allahumma_inni_as_aluka_ilman',
     arabic: 'اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا',
     transliteration: "Allahumma inni as'aluka 'ilman nafi'an, wa rizqan tayyiban, wa 'amalan mutaqabbala",
-    meaning: { en: 'O Allah, I ask You for beneficial knowledge, pure provision, and accepted deeds. (Said after the salam of Fajr.)', bn: 'হে আল্লাহ! আমি আপনার কাছে উপকারী জ্ঞান, পবিত্র রিজিক এবং কবুল হওয়া আমল চাই। (ফজরের সালামের পর পড়া হয়।)' },
+    meaning: { en: 'O Allah, I ask You for beneficial knowledge, pure provision, and accepted deeds. (Said after the salam of Fajr.)', bn: 'হে আল্লাহ! আমি আপনার কাছে উপকারী জ্ঞান, পবিত্র রিজিক এবং কবুলযোগ্য আমল চাই। (ফজরের সালামের পর পড়া হয়।)' },
     reference: { en: 'Ibn Majah 925 — sahih', bn: 'ইবন মাজাহ ৯২৫ — সহিহ' },
     context: { en: 'After Fajr salam', bn: 'ফজরের সালামের পর' }
   },
@@ -452,28 +452,28 @@ const SALAH_TASBEEH = [
     id: 'allahumma_la_mani',
     arabic: 'اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ',
     transliteration: "Allahumma la mani'a lima a'tayta, wa la mu'tiya lima mana'ta, wa la yanfa'u dhal-jaddi minkal-jadd",
-    meaning: { en: 'O Allah, none can withhold what You have given, none can give what You have withheld, and the wealth of the wealthy avails nothing against You.', bn: 'হে আল্লাহ! আপনি যা দেন তা আটকানোর কেউ নেই, আর আপনি যা রোধ করেন তা দেওয়ার কেউ নেই। কোনো ধনী ব্যক্তির সম্পদ আপনার সামনে তার কোনো কাজে আসে না।' },
+    meaning: { en: 'O Allah, none can withhold what You have given, none can give what You have withheld, and the wealth of the wealthy avails nothing against You.', bn: 'হে আল্লাহ! আপনি যা দেন, তা আটকানোর কেউ নেই; আর আপনি যা আটকে রাখেন, তা দেওয়ার কেউ নেই। আপনার সামনে কোনো ধনীর ধনসম্পদ তার কোনো কাজে আসে না।' },
     reference: { en: 'Bukhari 844, Muslim 593', bn: 'বুখারী ৮৪৪, মুসলিম ৫৯৩' }
   },
   {
     id: 'ya_hayyu_ya_qayyum',
     arabic: 'يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ',
     transliteration: "Ya Hayyu Ya Qayyum bi-rahmatika astaghith",
-    meaning: { en: 'O Ever-Living, O Self-Sustaining — by Your mercy I seek help.', bn: 'হে চিরজীবী, হে সবকিছুর ধারক — আপনার রহমতের মাধ্যমে আমি সাহায্য চাই।' },
+    meaning: { en: 'O Ever-Living, O Self-Sustaining — by Your mercy I seek help.', bn: 'হে চিরঞ্জীব, হে সবকিছুর ধারক! আপনার রহমতের ওসিলায় আমি সাহায্য চাই।' },
     reference: { en: 'Tirmidhi 3524 — hasan', bn: 'তিরমিযী ৩৫২৪ — হাসান' }
   },
   {
     id: 'allahumma_inni_as_aluka_jannah',
     arabic: 'اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ',
     transliteration: "Allahumma inni as'alukal-jannata wa a'udhu bika minan-nar",
-    meaning: { en: 'O Allah, I ask You for Paradise and I seek refuge in You from the Fire. (Whoever asks for Jannah three times, Jannah pleads on their behalf; whoever seeks refuge from Nar three times, the Nar pleads for their protection.)', bn: 'হে আল্লাহ! আমি আপনার কাছে জান্নাত চাই এবং জাহান্নাম থেকে আশ্রয় চাই। (যে তিনবার জান্নাত চায়, জান্নাত সুপারিশ করে; যে তিনবার জাহান্নাম থেকে আশ্রয় চায়, জাহান্নাম সুরক্ষার দোয়া করে।)' },
+    meaning: { en: 'O Allah, I ask You for Paradise and I seek refuge in You from the Fire. (Whoever asks for Jannah three times, Jannah pleads on their behalf; whoever seeks refuge from Nar three times, the Nar pleads for their protection.)', bn: 'হে আল্লাহ! আমি আপনার কাছে জান্নাত চাই এবং জাহান্নাম থেকে আশ্রয় চাই। (যে তিনবার জান্নাত চায়, জান্নাত তার জন্য সুপারিশ করে; আর যে তিনবার জাহান্নাম থেকে আশ্রয় চায়, জাহান্নামও তাকে রক্ষা করার জন্য সুপারিশ করে।)' },
     reference: { en: 'Tirmidhi 2572, Ibn Majah 4340 — sahih', bn: 'তিরমিযী ২৫৭২, ইবন মাজাহ ৪৩৪০ — সহিহ' }
   },
   {
     id: 'allahu_akbar_34',
     arabic: 'اللَّهُ أَكْبَرُ',
     transliteration: "Allahu Akbar",
-    meaning: { en: 'Allah is the Greatest. (×34 — the final count of the Tasbeeh Fatimah sequence to reach exactly 100: Subhanallah ×33 + Alhamdulillah ×33 + Allahu Akbar ×34 = 100.)', bn: 'আল্লাহ সবচেয়ে বড়। (৩৪ বার — তাসবিহে ফাতিমার ক্রমের শেষ সংখ্যা যা মোট ১০০ পূর্ণ করে: সুবহানাল্লাহ ×৩৩ + আলহামদুলিল্লাহ ×৩৩ + আল্লাহু আকবার ×৩৪ = ১০০।)' },
+    meaning: { en: 'Allah is the Greatest. (×34 — the final count of the Tasbeeh Fatimah sequence to reach exactly 100: Subhanallah ×33 + Alhamdulillah ×33 + Allahu Akbar ×34 = 100.)', bn: 'আল্লাহ সবচেয়ে বড়। (৩৪ বার। এতে তাসবিহে ফাতিমা ঠিক ১০০ পূর্ণ হয়: সুবহানাল্লাহ ×৩৩ + আলহামদুলিল্লাহ ×৩৩ + আল্লাহু আকবার ×৩৪ = ১০০।)' },
     count: 34,
     reference: { en: 'Bukhari 3113, Muslim 2727', bn: 'বুখারী ৩১১৩, মুসলিম ২৭২৭' }
   },
@@ -481,7 +481,7 @@ const SALAH_TASBEEH = [
     id: 'astaghfirullah_3x_post',
     arabic: 'أَسْتَغْفِرُ اللَّهَ',
     transliteration: "Astaghfirullah",
-    meaning: { en: 'I seek forgiveness from Allah — said three times right after salam. The Prophet ﷺ said this immediately upon completing the salam, then followed with the Allahumma antas-salam dhikr.', bn: 'আমি আল্লাহর কাছে ক্ষমা চাই — সালামের পরপরই তিনবার। নবী ﷺ সালাম শেষ করেই তিনবার এটি বলতেন, তারপর "আল্লাহুম্মা আন্তাস-সালাম" বলতেন।' },
+    meaning: { en: 'I seek forgiveness from Allah — said three times right after salam. The Prophet ﷺ said this immediately upon completing the salam, then followed with the Allahumma antas-salam dhikr.', bn: 'আমি আল্লাহর কাছে ক্ষমা চাই। সালামের পরপরই এটি তিনবার বলুন। নবী ﷺ সালাম ফিরিয়েই এটি বলতেন, তারপর "আল্লাহুম্মা আন্তাস-সালাম" জিকিরটি পড়তেন।' },
     count: 3,
     reference: { en: 'Muslim 591', bn: 'মুসলিম ৫৯১' }
   },
@@ -496,7 +496,7 @@ const SALAH_TASBEEH = [
     id: 'ibn_zubayr_tahlil',
     arabic: 'لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ، لَا إِلَٰهَ إِلَّا اللَّهُ وَلَا نَعْبُدُ إِلَّا إِيَّاهُ، لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ، لَا إِلَٰهَ إِلَّا اللَّهُ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الْكَافِرُونَ',
     transliteration: "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir, la hawla wa la quwwata illa billah, la ilaha illallahu wa la na'budu illa iyyah, lahun-ni'matu wa lahul-fadlu wa lahuth-thana'ul-hasan, la ilaha illallahu mukhlisina lahud-dina wa law karihal-kafirun",
-    meaning: { en: 'There is no god but Allah, alone without partner; His is the dominion, His is all praise, and He has power over all things. There is no might nor power except with Allah. There is no god but Allah, and we worship none but Him. His is all favour, His is all grace, and His is the excellent praise. There is no god but Allah, sincere to Him in religion though the disbelievers detest it. (Ibn Zubayr RA recited this after every fard prayer.)', bn: 'আল্লাহ ছাড়া কোনো উপাস্য নেই, তিনি একক, তাঁর কোনো শরিক নেই; রাজত্ব ও প্রশংসা তাঁরই, তিনি সব কিছুর উপর ক্ষমতাবান। আল্লাহর সাহায্য ছাড়া কোনো শক্তি ও ক্ষমতা নেই। আল্লাহ ছাড়া কোনো উপাস্য নেই এবং আমরা কেবল তাঁরই ইবাদত করি। নেয়ামত তাঁরই, অনুগ্রহ তাঁরই এবং উত্তম প্রশংসা তাঁরই। আল্লাহ ছাড়া কোনো উপাস্য নেই, আমরা দ্বীনে তাঁর প্রতি একনিষ্ঠ, যদিও কাফিররা তা অপছন্দ করে। (ইবন যুবায়র রা. প্রতিটি ফরজ নামাজের পর এটি পড়তেন।)' },
+    meaning: { en: 'There is no god but Allah, alone without partner; His is the dominion, His is all praise, and He has power over all things. There is no might nor power except with Allah. There is no god but Allah, and we worship none but Him. His is all favour, His is all grace, and His is the excellent praise. There is no god but Allah, sincere to Him in religion though the disbelievers detest it. (Ibn Zubayr RA recited this after every fard prayer.)', bn: 'আল্লাহ ছাড়া কোনো মাবুদ নেই, তিনি এক, তাঁর কোনো শরিক নেই; রাজত্ব তাঁরই, সব প্রশংসাও তাঁরই, আর তিনি সব কিছুর ওপর ক্ষমতাবান। আল্লাহর সাহায্য ছাড়া কোনো শক্তি ও ক্ষমতা নেই। আল্লাহ ছাড়া কোনো মাবুদ নেই, আমরা শুধু তাঁরই ইবাদত করি। সব নেয়ামত তাঁর, সব অনুগ্রহ তাঁর, উত্তম প্রশংসাও তাঁর। আল্লাহ ছাড়া কোনো মাবুদ নেই; আমরা দ্বীনকে তাঁর জন্যই খাঁটি করি, যদিও কাফিররা তা অপছন্দ করে। (ইবন যুবায়র (রাঃ) প্রতিটি ফরজ নামাজের পর এটি পড়তেন।)' },
     reference: { en: 'Muslim 594', bn: 'মুসলিম ৫৯৪' },
     context: { en: 'After every fard prayer', bn: 'প্রতিটি ফরজ নামাজের পর' }
   },
@@ -504,7 +504,7 @@ const SALAH_TASBEEH = [
     id: 'dua_afwa_afiyah',
     arabic: 'اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ',
     transliteration: "Allahumma inni as'alukal-'afwa wal-'afiyata fid-dunya wal-akhirah",
-    meaning: { en: 'O Allah, I ask You for pardon and well-being in this world and the Hereafter. (Part of the morning and evening remembrance, said after Fajr and Maghrib.)', bn: 'হে আল্লাহ! আমি আপনার কাছে দুনিয়া ও আখিরাতে ক্ষমা ও সুস্থতা চাই। (সকাল-সন্ধ্যার যিকিরের অংশ, ফজর ও মাগরিবের পর পড়া হয়।)' },
+    meaning: { en: 'O Allah, I ask You for pardon and well-being in this world and the Hereafter. (Part of the morning and evening remembrance, said after Fajr and Maghrib.)', bn: 'হে আল্লাহ! আমি আপনার কাছে দুনিয়া ও আখিরাতে ক্ষমা ও সুস্থতা চাই। (সকাল-সন্ধ্যার জিকিরের অংশ, ফজর ও মাগরিবের পর পড়া হয়।)' },
     reference: { en: 'Ibn Majah 3871, Abu Dawud 5074 — hasan', bn: 'ইবন মাজাহ ৩৮৭১, আবু দাউদ ৫০৭৪ — হাসান' },
     context: { en: 'Morning and evening', bn: 'সকাল ও সন্ধ্যা' }
   },
@@ -512,7 +512,7 @@ const SALAH_TASBEEH = [
     id: 'dua_kufr_faqr',
     arabic: 'اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لَا إِلَٰهَ إِلَّا أَنْتَ',
     transliteration: "Allahumma inni a'udhu bika minal-kufri wal-faqr, wa a'udhu bika min 'adhabil-qabr, la ilaha illa Ant",
-    meaning: { en: 'O Allah, I seek refuge in You from disbelief and poverty, and I seek refuge in You from the punishment of the grave. There is no god but You. (×3 in the morning and evening.)', bn: 'হে আল্লাহ! আমি আপনার কাছে কুফর ও দারিদ্র্য থেকে আশ্রয় চাই এবং কবরের শাস্তি থেকে আশ্রয় চাই। আপনি ছাড়া কোনো উপাস্য নেই। (সকাল-সন্ধ্যায় ৩ বার।)' },
+    meaning: { en: 'O Allah, I seek refuge in You from disbelief and poverty, and I seek refuge in You from the punishment of the grave. There is no god but You. (×3 in the morning and evening.)', bn: 'হে আল্লাহ! আমি আপনার কাছে কুফর ও দারিদ্র্য থেকে আশ্রয় চাই, কবরের শাস্তি থেকেও আশ্রয় চাই। আপনি ছাড়া কোনো মাবুদ নেই। (সকাল-সন্ধ্যায় ৩ বার।)' },
     count: 3,
     reference: { en: 'Abu Dawud 5090, Nasa\'i — hasan', bn: 'আবু দাউদ ৫০৯০, নাসায়ী — হাসান' },
     context: { en: 'Morning and evening (×3)', bn: 'সকাল ও সন্ধ্যা (৩ বার)' }
@@ -521,7 +521,7 @@ const SALAH_TASBEEH = [
     id: 'bismillah_la_yadurru',
     arabic: 'بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ، وَهُوَ السَّمِيعُ الْعَلِيمُ',
     transliteration: "Bismillahil-ladhi la yadurru ma'asmihi shay'un fil-ardi wa la fis-sama', wa Huwas-Sami'ul-'Alim",
-    meaning: { en: 'In the name of Allah, with whose name nothing on earth or in heaven can cause harm, and He is the All-Hearing, the All-Knowing. (×3 in the morning and evening — whoever says it three times, nothing will harm him.)', bn: 'আল্লাহর নামে, যাঁর নামের সাথে জমিন ও আসমানের কোনো কিছু ক্ষতি করতে পারে না, আর তিনি সর্বশ্রোতা, সর্বজ্ঞ। (সকাল-সন্ধ্যায় ৩ বার — যে তিনবার বলবে, কোনো কিছু তার ক্ষতি করতে পারবে না।)' },
+    meaning: { en: 'In the name of Allah, with whose name nothing on earth or in heaven can cause harm, and He is the All-Hearing, the All-Knowing. (×3 in the morning and evening — whoever says it three times, nothing will harm him.)', bn: 'আল্লাহর নামে, যাঁর নামের বরকতে আসমান ও জমিনের কোনো কিছুই ক্ষতি করতে পারে না; তিনি সব শোনেন, সব জানেন। (সকাল-সন্ধ্যায় ৩ বার। যে তিনবার এটি বলবে, কোনো কিছু তার ক্ষতি করতে পারবে না।)' },
     count: 3,
     reference: { en: 'Abu Dawud 5088, Tirmidhi 3388, Ibn Majah 3869 — sahih', bn: 'আবু দাউদ ৫০৮৮, তিরমিযী ৩৩৮৮, ইবন মাজাহ ৩৮৬৯ — সহিহ' },
     context: { en: 'Morning and evening (×3)', bn: 'সকাল ও সন্ধ্যা (৩ বার)' }
@@ -890,141 +890,141 @@ const SALAH_MISTAKES = [
   {
     id: 'rushed_ruku',
     category: { en: 'Invalidating (Mubtil) / Missing Pillar', bn: 'নামাজ বাতিলকারী / রুকন ছুটে যাওয়া' },
-    mistake: { en: 'Rushing through ruku\' so quickly that the back never straightens and tumna\'ninah (stillness) is absent.', bn: 'এত দ্রুত রুকু করা যে পিঠ সমান হয় না এবং তুমা\'নিনাহ (স্থিরতা) অনুপস্থিত থাকে।' },
-    rule: { en: 'Tuma\'ninah — complete stillness in each posture — is a pillar (rukn) of salah. Rushing past it renders the rak\'ah invalid.', bn: 'তুমা\'নিনাহ — প্রতিটি অঙ্গভঙ্গিতে পূর্ণ স্থিরতা — নামাজের রুকন। এটি ছাড়া রাকাত বাতিল।' },
+    mistake: { en: 'Rushing through ruku\' so quickly that the back never straightens and tumna\'ninah (stillness) is absent.', bn: 'এত তাড়াহুড়া করে রুকু করা যে পিঠ কখনো সোজা হয় না, তুমা\'নিনাহ (স্থিরতা) একেবারেই থাকে না।' },
+    rule: { en: 'Tuma\'ninah — complete stillness in each posture — is a pillar (rukn) of salah. Rushing past it renders the rak\'ah invalid.', bn: 'প্রতিটি অবস্থায় পুরোপুরি স্থির হওয়াকে তুমা\'নিনাহ বলে; এটি নামাজের রুকন। তাড়াহুড়া করে এটি বাদ দিলে সেই রাকাত বাতিল হয়ে যায়।' },
     reference: { en: 'Bukhari 793 — "The man who prayed badly"', bn: 'বুখারী ৭৯৩ — "ভুলভাবে নামাজ পড়া ব্যক্তির হাদিস"' }
   },
   {
     id: 'no_tuma_ninah_sujud',
     category: { en: 'Invalidating (Mubtil)', bn: 'নামাজ বাতিলকারী (মুবতিল)' },
-    mistake: { en: 'Pecking at the sujud like a crow — touching the forehead to the ground and immediately rising without staying still.', bn: 'কাকের মতো ঠোঁকর মারা — কপাল মাটিতে লাগিয়েই উঠে আসা, স্থির না থাকা।' },
-    rule: { en: 'The Prophet ﷺ forbade "pecking like a crow". The forehead and nose must be fully grounded and stillness maintained before rising.', bn: 'নবী ﷺ "কাকের মতো ঠোঁকর মারা" থেকে নিষেধ করেছেন। কপাল ও নাক পুরোপুরি মাটিতে রেখে স্থির থাকতে হবে।' },
+    mistake: { en: 'Pecking at the sujud like a crow — touching the forehead to the ground and immediately rising without staying still.', bn: 'কাকের মতো ঠোকর দেওয়া: কপাল মাটিতে ছুঁইয়েই উঠে পড়া, একটুও স্থির না থাকা।' },
+    rule: { en: 'The Prophet ﷺ forbade "pecking like a crow". The forehead and nose must be fully grounded and stillness maintained before rising.', bn: 'নবী ﷺ "কাকের মতো ঠোকর দিতে" নিষেধ করেছেন। কপাল ও নাক পুরোপুরি মাটিতে রাখতে হবে, আর ওঠার আগে স্থির হতে হবে।' },
     reference: { en: 'Ahmad, Ibn Khuzaymah — sahih', bn: 'আহমাদ, ইবন খুজায়মাহ — সহিহ' }
   },
   {
     id: 'incomplete_fatiha',
     category: { en: 'Invalidating (Mubtil)', bn: 'নামাজ বাতিলকারী (মুবতিল)' },
-    mistake: { en: 'Not reciting Surah al-Fatiha completely in every rak\'ah, or reciting it so fast that letters merge and meaning is lost.', bn: 'প্রতি রাকাতে সূরা ফাতিহা সম্পূর্ণ না পড়া, বা এত দ্রুত পড়া যে হরফ মিশে যায়।' },
-    rule: { en: '"There is no prayer for the one who does not recite al-Fatiha." It must be recited clearly and completely.', bn: '"যে সূরা ফাতিহা পড়ে না তার নামাজ হয় না।" এটি স্পষ্টভাবে ও সম্পূর্ণ পড়তে হবে।' },
+    mistake: { en: 'Not reciting Surah al-Fatiha completely in every rak\'ah, or reciting it so fast that letters merge and meaning is lost.', bn: 'প্রতি রাকাতে সূরা ফাতিহা পুরোটা না পড়া, বা এত দ্রুত পড়া যে হরফ মিশে গিয়ে অর্থই নষ্ট হয়ে যায়।' },
+    rule: { en: '"There is no prayer for the one who does not recite al-Fatiha." It must be recited clearly and completely.', bn: '"যে সূরা ফাতিহা পড়ে না তার নামাজ হয় না।" তাই ফাতিহা স্পষ্ট করে, পুরোটা পড়তে হবে।' },
     reference: { en: 'Bukhari 756, Muslim 394', bn: 'বুখারী ৭৫৬, মুসলিম ৩৯৪' }
   },
   {
     id: 'praying_too_fast',
-    category: { en: 'Disliked (Makruh) / Potentially Invalidating', bn: 'মাকরুহ / সম্ভাব্য বাতিলকারী' },
-    mistake: { en: 'Praying so fast that the entire salah takes less than a minute — skipping through the tasbeeh without pausing.', bn: 'এক মিনিটেরও কম সময়ে পুরো নামাজ শেষ করে ফেলা — তাসবিহ না থামিয়ে পড়া।' },
-    rule: { en: 'Each posture requires at least the time to recite the minimum tasbeeh once with stillness. Speed that removes tuma\'ninah invalidates the prayer.', bn: 'প্রতিটি অঙ্গভঙ্গিতে ন্যূনতম একবার তাসবিহ বলার সময় এবং স্থিরতা থাকতে হবে। তুমা\'নিনাহ না থাকলে নামাজ বাতিল।' },
+    category: { en: 'Disliked (Makruh) / Potentially Invalidating', bn: 'মাকরুহ / নামাজ বাতিলও হতে পারে' },
+    mistake: { en: 'Praying so fast that the entire salah takes less than a minute — skipping through the tasbeeh without pausing.', bn: 'এত দ্রুত নামাজ পড়া যে পুরো নামাজ এক মিনিটেরও কম সময়ে শেষ হয়ে যায়; কোথাও না থেমে তাসবিহগুলো গড়গড় করে পড়ে যাওয়া।' },
+    rule: { en: 'Each posture requires at least the time to recite the minimum tasbeeh once with stillness. Speed that removes tuma\'ninah invalidates the prayer.', bn: 'প্রতিটি অবস্থায় অন্তত এতটুকু সময় থাকতে হবে, যাতে স্থির হয়ে একবার তাসবিহ পড়া যায়। যে দ্রুততায় তুমা\'নিনাহ থাকে না, তাতে নামাজ বাতিল হয়ে যায়।' },
     reference: { en: 'Bukhari 793, Muslim 397', bn: 'বুখারী ৭৯৩, মুসলিম ৩৯৭' }
   },
   {
     id: 'looking_around',
     category: { en: 'Disliked (Makruh)', bn: 'মাকরুহ' },
-    mistake: { en: 'Constantly turning the head to look around during salah, which is "snatching" (ikhtilas) by Shaytan.', bn: 'নামাজে বারবার মাথা ঘুরিয়ে চারদিকে তাকানো — যা শয়তানের "ছিনতাই" (ইখতিলাস)।' },
-    rule: { en: 'The Prophet ﷺ described it as Shaytan snatching from the servant\'s prayer. The gaze should be fixed at the place of sujud.', bn: 'নবী ﷺ বলেছেন এটি শয়তানের নামাজ থেকে ছিনতাই। দৃষ্টি সিজদার জায়গায় স্থির রাখতে হবে।' },
+    mistake: { en: 'Constantly turning the head to look around during salah, which is "snatching" (ikhtilas) by Shaytan.', bn: 'নামাজে বারবার মাথা ঘুরিয়ে এদিক-ওদিক তাকানো। এভাবে শয়তান নামাজ থেকে ছোঁ মেরে নেয় (ইখতিলাস)।' },
+    rule: { en: 'The Prophet ﷺ described it as Shaytan snatching from the servant\'s prayer. The gaze should be fixed at the place of sujud.', bn: 'নবী ﷺ বলেছেন, এভাবে শয়তান বান্দার নামাজ থেকে ছোঁ মেরে কিছু নিয়ে যায়। দৃষ্টি সিজদার জায়গায় স্থির রাখুন।' },
     reference: { en: 'Bukhari 751', bn: 'বুখারী ৭৫১' }
   },
   {
     id: 'looking_up',
     category: { en: 'Disliked (Makruh) / Forbidden', bn: 'মাকরুহ / নিষিদ্ধ' },
     mistake: { en: 'Raising the eyes upward toward the sky during salah.', bn: 'নামাজে আকাশের দিকে চোখ তুলে তাকানো।' },
-    rule: { en: 'The Prophet ﷺ said: "What is wrong with those people who raise their eyes to the sky during prayer?" and warned they may lose their sight.', bn: 'নবী ﷺ বলেছেন: "লোকদের কী হলো যে নামাজে আকাশের দিকে চোখ তোলে?" এবং দৃষ্টিশক্তি চলে যাওয়ার সতর্কবার্তা দিয়েছেন।' },
+    rule: { en: 'The Prophet ﷺ said: "What is wrong with those people who raise their eyes to the sky during prayer?" and warned they may lose their sight.', bn: 'নবী ﷺ বলেছেন: "লোকদের কী হলো যে নামাজে আকাশের দিকে চোখ তোলে?" তিনি সতর্ক করেছেন, এতে তাদের দৃষ্টিশক্তি কেড়ে নেওয়া হতে পারে।' },
     reference: { en: 'Bukhari 750', bn: 'বুখারী ৭৫০' }
   },
   {
     id: 'excessive_movement',
-    category: { en: 'Invalidating (Mubtil) if \'amal kathir', bn: 'অতিরিক্ত হলে বাতিলকারী (আমলে কাসির)' },
+    category: { en: 'Invalidating (Mubtil) if \'amal kathir', bn: 'আমলে কাসির হলে নামাজ বাতিল' },
     mistake: { en: 'Excessive unnecessary movement: adjusting clothes repeatedly, scratching, fidgeting with a phone, or moving hands and feet without need.', bn: 'অতিরিক্ত অপ্রয়োজনীয় নড়াচড়া: বারবার পোশাক ঠিক করা, চুলকানো, ফোন নাড়াচাড়া করা, বা প্রয়োজন ছাড়া হাত-পা নাড়া।' },
-    rule: { en: 'Three or more consecutive unnecessary actions (\'amal kathir) nullify the prayer. Individual small movements are makruh only.', bn: 'পরপর তিন বা তার বেশি অপ্রয়োজনীয় কাজ (আমলে কাসির) নামাজ বাতিল করে। পৃথক ছোট নড়াচড়া শুধু মাকরুহ।' },
+    rule: { en: 'Three or more consecutive unnecessary actions (\'amal kathir) nullify the prayer. Individual small movements are makruh only.', bn: 'পরপর তিন বা তার বেশি অপ্রয়োজনীয় কাজ (আমলে কাসির) করলে নামাজ বাতিল হয়ে যায়। বিচ্ছিন্ন ছোটখাটো নড়াচড়া শুধু মাকরুহ।' },
     reference: { en: 'Sifah Salah al-Nabi (Al-Albani); Fiqh al-Sunnah', bn: 'সিফাত সালাতিন নবী (আল-আলবানী); ফিকহুস সুন্নাহ' }
   },
   {
     id: 'intentional_speech',
     category: { en: 'Invalidating (Mubtil)', bn: 'নামাজ বাতিলকারী (মুবতিল)' },
-    mistake: { en: 'Speaking intentionally during salah — even one word not from the prayer, such as answering a question or saying "hello".', bn: 'নামাজে ইচ্ছাকৃতভাবে কথা বলা — একটি শব্দও যদি নামাজের বাইরের হয়, যেমন প্রশ্নের উত্তর দেওয়া বা "হ্যালো" বলা।' },
-    rule: { en: 'All scholars agree: intentional speech (kalam al-adami) other than prayer words nullifies the prayer completely.', bn: 'সব আলেমের ঐকমত্য: নামাজের শব্দ ছাড়া ইচ্ছাকৃত মানবিক কথা (কালামুল আদামি) নামাজকে সম্পূর্ণ বাতিল করে।' },
+    mistake: { en: 'Speaking intentionally during salah — even one word not from the prayer, such as answering a question or saying "hello".', bn: 'নামাজে ইচ্ছা করে কথা বলা, নামাজের বাইরের একটি শব্দ হলেও। যেমন কারও প্রশ্নের উত্তর দেওয়া বা "হ্যালো" বলা।' },
+    rule: { en: 'All scholars agree: intentional speech (kalam al-adami) other than prayer words nullifies the prayer completely.', bn: 'সব আলেম একমত: নামাজের শব্দ ছাড়া মানুষের সাধারণ কথা (কালামুল আদামি) ইচ্ছা করে বললে নামাজ পুরোপুরি বাতিল হয়ে যায়।' },
     reference: { en: 'Muslim 537 — from Zayd ibn Arqam (RA)', bn: 'মুসলিম ৫৩৭ — যায়েদ ইবন আরকাম (রা.) বর্ণিত' }
   },
   {
     id: 'not_straightening_back_ruku',
     category: { en: 'Invalidating (Mubtil)', bn: 'নামাজ বাতিলকারী (মুবতিল)' },
-    mistake: { en: 'In ruku\', not making the back level and parallel to the ground — either bending too little or bowing the neck so the back is angled.', bn: 'রুকুতে পিঠ মাটির সমান্তরাল না করা — অথবা কম ঝোঁকা, অথবা শুধু ঘাড় নিচু করে পিঠ বাঁকা রাখা।' },
-    rule: { en: 'The Prophet ﷺ commanded the back to be made level (as flat as water poured on it would not spill). A bent or angled back is an incomplete ruku\'.', bn: 'নবী ﷺ পিঠ সমান করার আদেশ করেছেন (যেন পানি ঢাললে না পড়ে)। বাঁকা বা কৌণিক পিঠে রুকু অসম্পূর্ণ।' },
+    mistake: { en: 'In ruku\', not making the back level and parallel to the ground — either bending too little or bowing the neck so the back is angled.', bn: 'রুকুতে পিঠ মাটির সমান্তরাল করে সোজা না রাখা: হয় খুব কম ঝোঁকা, নয়তো ঘাড় নুইয়ে পিঠ কাত করে রাখা।' },
+    rule: { en: 'The Prophet ﷺ commanded the back to be made level (as flat as water poured on it would not spill). A bent or angled back is an incomplete ruku\'.', bn: 'নবী ﷺ পিঠ এমন সমান রাখতে আদেশ করেছেন, যেন তার ওপর পানি ঢাললেও গড়িয়ে না পড়ে। পিঠ বাঁকা বা কাত থাকলে রুকু অসম্পূর্ণ হয়।' },
     reference: { en: 'Abu Dawud 730; Sifah Salah (Al-Albani)', bn: 'আবু দাউদ ৭৩০; সিফাত সালাহ (আল-আলবানী)' }
   },
   {
     id: 'arms_on_ground_sujud',
     category: { en: 'Disliked (Makruh)', bn: 'মাকরুহ' },
-    mistake: { en: 'Spreading the forearms flat on the ground in sujud like a dog or a beast resting — "iftirash al-siba\'".', bn: 'সিজদায় কুকুরের মতো কনুই মাটিতে বিছিয়ে দেওয়া — "ইফতিরাশুস সিবা\'"।' },
-    rule: { en: 'The Prophet ﷺ forbade this. The forearms should be raised off the ground, elbows lifted, with the weight on the palms and toes.', bn: 'নবী ﷺ এটি নিষিদ্ধ করেছেন। কনুই মাটি থেকে উঠিয়ে রাখতে হবে, ভার হাতের তালু ও পায়ের আঙ্গুলে থাকবে।' },
+    mistake: { en: 'Spreading the forearms flat on the ground in sujud like a dog or a beast resting — "iftirash al-siba\'".', bn: 'সিজদায় কুকুর বা হিংস্র পশুর মতো দুই বাহু মাটিতে বিছিয়ে দেওয়া ("ইফতিরাশুস সিবা\'")।' },
+    rule: { en: 'The Prophet ﷺ forbade this. The forearms should be raised off the ground, elbows lifted, with the weight on the palms and toes.', bn: 'নবী ﷺ এটি নিষেধ করেছেন। বাহু মাটি থেকে তুলে রাখুন, কনুই উঁচু থাকবে; শরীরের ভার থাকবে হাতের তালু ও পায়ের আঙুলের ওপর।' },
     reference: { en: 'Bukhari 822, Muslim 493', bn: 'বুখারী ৮২২, মুসলিম ৪৯৩' }
   },
   {
     id: 'both_feet_lifted_sujud',
     category: { en: 'Disliked (Makruh) / Invalidating if nose absent', bn: 'মাকরুহ / নাক না রাখলে বাতিলকারী' },
-    mistake: { en: 'Lifting the feet off the ground in sujud — or not placing the nose on the ground along with the forehead.', bn: 'সিজদায় পায়ের পাতা মাটি থেকে তুলে নেওয়া — অথবা কপালের সাথে নাক মাটিতে না রাখা।' },
-    rule: { en: 'Sujud must be on seven body parts: forehead + nose, two palms, two knees, toes of both feet. The nose is required by the Prophet\'s example.', bn: 'সিজদা সাতটি অঙ্গে হতে হবে: কপাল ও নাক, দুই হাতের তালু, দুই হাঁটু, উভয় পায়ের আঙ্গুল। নাক রাখা নবী ﷺ-এর অনুসরণে আবশ্যক।' },
+    mistake: { en: 'Lifting the feet off the ground in sujud — or not placing the nose on the ground along with the forehead.', bn: 'সিজদায় পা মাটি থেকে তুলে ফেলা, অথবা কপালের সঙ্গে নাক মাটিতে না রাখা।' },
+    rule: { en: 'Sujud must be on seven body parts: forehead + nose, two palms, two knees, toes of both feet. The nose is required by the Prophet\'s example.', bn: 'সিজদা সাতটি অঙ্গের ওপর হতে হবে: কপাল ও নাক, দুই হাতের তালু, দুই হাঁটু এবং দুই পায়ের আঙুল। নবী ﷺ-এর আমল থেকে প্রমাণিত, নাক রাখাও জরুরি।' },
     reference: { en: 'Bukhari 812, Muslim 490', bn: 'বুখারী ৮১২, মুসলিম ৪৯০' }
   },
   {
     id: 'forgetting_first_tashahhud',
     category: { en: 'Requires Sujud al-Sahw (Wajib Omission)', bn: 'সিজদায়ে সাহু আবশ্যক (ওয়াজিব ছুটে গেলে)' },
     mistake: { en: 'Rising to the third rak\'ah without sitting for the first tashahhud (attahiyyat).', bn: 'প্রথম তাশাহহুদের জন্য না বসেই তৃতীয় রাকাতে উঠে যাওয়া।' },
-    rule: { en: 'The first tashahhud is wajib (Hanafi/Hanbali) or sunnah mu\'akkadah (Shafi\'i/Maliki). If omitted by forgetfulness, sujud al-sahw is required before final salam.', bn: 'প্রথম তাশাহহুদ ওয়াজিব (হানাফি/হাম্বলী) বা সুন্নাতে মুয়াক্কাদা (শাফিয়ী/মালিকী)। ভুলে ছুটলে শেষ সালামের আগে সিজদায়ে সাহু করতে হবে।' },
+    rule: { en: 'The first tashahhud is wajib (Hanafi/Hanbali) or sunnah mu\'akkadah (Shafi\'i/Maliki). If omitted by forgetfulness, sujud al-sahw is required before final salam.', bn: 'প্রথম তাশাহহুদ ওয়াজিব (হানাফি/হাম্বলী) বা সুন্নতে মুয়াক্কাদা (শাফিয়ী/মালিকী)। ভুলে ছুটে গেলে শেষ সালামের আগে সিজদায়ে সাহু করতে হবে।' },
     reference: { en: 'Abu Dawud 1034, Muslim 570', bn: 'আবু দাউদ ১০৩৪, মুসলিম ৫৭০' }
   },
   {
     id: 'loud_recitation_in_silent_prayer',
     category: { en: 'Disliked (Makruh)', bn: 'মাকরুহ' },
     mistake: { en: 'Reciting al-Fatiha and surah audibly in Dhuhr or Asr prayers, or silently in Fajr, Maghrib (first two), and Isha (first two).', bn: 'যোহর বা আসরে সূরা ফাতিহা ও সূরা সশব্দে পড়া, অথবা ফজর, মাগরিব (প্রথম দুই রাকাত) ও ইশায় (প্রথম দুই রাকাত) নীরবে পড়া।' },
-    rule: { en: 'There are clear prayer-specific rules about loud (jahri) and silent (sirri) recitation. Reversing them is makruh though the prayer remains valid.', bn: 'সশব্দ (জাহরি) ও নীরব (সিরি) তিলাওয়াতের নামাজ-নির্দিষ্ট স্পষ্ট নিয়ম রয়েছে। উল্টা করলে মাকরুহ, তবে নামাজ বৈধ।' },
+    rule: { en: 'There are clear prayer-specific rules about loud (jahri) and silent (sirri) recitation. Reversing them is makruh though the prayer remains valid.', bn: 'কোন নামাজে জোরে (জাহরি) আর কোন নামাজে আস্তে (সিরি) কিরাত পড়তে হবে, তার স্পষ্ট নিয়ম আছে। উল্টো করলে মাকরুহ হয়, তবে নামাজ হয়ে যায়।' },
     reference: { en: 'Sifah Salah al-Nabi (Al-Albani); Sahih Muslim 396', bn: 'সিফাত সালাতিন নবী (আল-আলবানী); সহিহ মুসলিম ৩৯৬' }
   },
   {
     id: 'not_saying_ameen',
     category: { en: 'Missing a Sunnah Mu\'akkadah', bn: 'সুন্নাতে মুয়াক্কাদা ছুটে যাওয়া' },
     mistake: { en: 'Not saying "Ameen" after completing Surah al-Fatiha.', bn: 'সূরা ফাতিহার পর "আমিন" না বলা।' },
-    rule: { en: 'Saying Ameen is a confirmed sunnah. The Prophet ﷺ said: "When the imam says Ameen, say Ameen — whoever\'s Ameen coincides with the angels\' earns forgiveness of past sins."', bn: 'আমিন বলা সুন্নাতে মুয়াক্কাদা। নবী ﷺ বলেছেন: "ইমাম আমিন বললে তোমরাও বলো — যার আমিন ফেরেশতাদের সাথে মিলে যাবে তার আগের গুনাহ মাফ হবে।"' },
+    rule: { en: 'Saying Ameen is a confirmed sunnah. The Prophet ﷺ said: "When the imam says Ameen, say Ameen — whoever\'s Ameen coincides with the angels\' earns forgiveness of past sins."', bn: 'আমিন বলা সুন্নতে মুয়াক্কাদা। নবী ﷺ বলেছেন: "ইমাম আমিন বললে তোমরাও আমিন বলো। যার আমিন ফেরেশতাদের আমিনের সঙ্গে মিলে যায়, তার আগের গুনাহ মাফ করে দেওয়া হয়।"' },
     reference: { en: 'Bukhari 780, Muslim 410', bn: 'বুখারী ৭৮০, মুসলিম ৪১০' }
   },
   {
     id: 'praying_while_needing_toilet',
     category: { en: 'Disliked (Makruh) — Reduces Khushu', bn: 'মাকরুহ — খুশু নষ্ট করে' },
     mistake: { en: 'Praying while feeling a strong urge to use the toilet, or when very hungry and food is already served.', bn: 'প্রচণ্ড প্রস্রাব-পায়খানার বেগ নিয়ে অথবা খাবার সামনে থাকলে ক্ষুধার্ত অবস্থায় নামাজ পড়া।' },
-    rule: { en: 'The Prophet ﷺ said: "There is no prayer when food is served, or when one is urged by either of the two urges." Relieve the need first if time permits.', bn: 'নবী ﷺ বলেছেন: "খাবার প্রস্তুত থাকলে বা দুই বেগের কোনোটিতে তাড়া থাকলে নামাজ নেই।" সময় থাকলে আগে প্রয়োজন সারুন।' },
+    rule: { en: 'The Prophet ﷺ said: "There is no prayer when food is served, or when one is urged by either of the two urges." Relieve the need first if time permits.', bn: 'নবী ﷺ বলেছেন: "খাবার সামনে এসে গেলে, কিংবা দুই বেগের কোনোটি চাপলে নামাজ হয় না।" সময় থাকলে আগে প্রয়োজন সেরে নিন।' },
     reference: { en: 'Muslim 560', bn: 'মুসলিম ৫৬০' }
   },
   {
     id: 'wrong_wudu_or_no_wudu',
-    category: { en: 'Precondition — Prayer Invalid Without', bn: 'পূর্বশর্ত — ছাড়া নামাজ বাতিল' },
-    mistake: { en: 'Beginning prayer without valid wudu, or with an incomplete wudu (e.g., missing part of the face or one arm).', bn: 'বৈধ অজু ছাড়া বা অসম্পূর্ণ অজুতে (যেমন মুখের অংশ বা এক হাত বাদ পড়লে) নামাজ শুরু করা।' },
-    rule: { en: '"Allah does not accept a prayer without purification." Every fard act of wudu must be completed. Missing any fard part invalidates the whole wudu and thus the prayer.', bn: '"আল্লাহ পবিত্রতা ছাড়া নামাজ কবুল করেন না।" অজুর প্রতিটি ফরজ সম্পন্ন করতে হবে। কোনো ফরজ অংশ বাদ পড়লে পুরো অজু ও নামাজ বাতিল।' },
+    category: { en: 'Precondition — Prayer Invalid Without', bn: 'পূর্বশর্ত: এটি ছাড়া নামাজ হয় না' },
+    mistake: { en: 'Beginning prayer without valid wudu, or with an incomplete wudu (e.g., missing part of the face or one arm).', bn: 'সঠিক অজু ছাড়া, বা অসম্পূর্ণ অজু নিয়ে (যেমন মুখের কিছু অংশ বা এক হাত ধোয়া বাদ পড়ে গেছে) নামাজ শুরু করা।' },
+    rule: { en: '"Allah does not accept a prayer without purification." Every fard act of wudu must be completed. Missing any fard part invalidates the whole wudu and thus the prayer.', bn: '"আল্লাহ পবিত্রতা ছাড়া নামাজ কবুল করেন না।" অজুর প্রতিটি ফরজ পুরো করতে হবে। কোনো একটি ফরজ বাদ পড়লে পুরো অজুই বাতিল, ফলে নামাজও বাতিল।' },
     reference: { en: 'Muslim 224 — from Ibn Umar (RA)', bn: 'মুসলিম ২২৪ — ইবন উমর (রা.) বর্ণিত' }
   },
   {
     id: 'leaving_congregation_row_gap',
     category: { en: 'Disliked (Makruh) in Congregation', bn: 'জামাতে মাকরুহ' },
-    mistake: { en: 'Leaving large gaps in the prayer rows in congregation instead of standing shoulder-to-shoulder and closing the gaps.', bn: 'জামাতে কাতারে বড় ফাঁক রেখে দাঁড়ানো, পাশের মুসল্লির কাঁধ ও পায়ের সাথে না মেলানো।' },
-    rule: { en: 'The Prophet ﷺ commanded rows to be straightened and gaps closed, saying Shaytan enters through gaps. He would align shoulders and ankles.', bn: 'নবী ﷺ কাতার সোজা করার ও ফাঁক বন্ধ করার নির্দেশ দিয়েছেন, বলেছেন শয়তান ফাঁক দিয়ে ঢোকে। তিনি কাঁধ ও গোড়ালি মেলাতেন।' },
+    mistake: { en: 'Leaving large gaps in the prayer rows in congregation instead of standing shoulder-to-shoulder and closing the gaps.', bn: 'জামাতে কাঁধে কাঁধ মিলিয়ে ফাঁক বন্ধ না করে কাতারে বড় বড় ফাঁক রেখে দাঁড়ানো।' },
+    rule: { en: 'The Prophet ﷺ commanded rows to be straightened and gaps closed, saying Shaytan enters through gaps. He would align shoulders and ankles.', bn: 'নবী ﷺ কাতার সোজা করতে ও ফাঁক বন্ধ করতে আদেশ করেছেন; বলেছেন, ফাঁক দিয়ে শয়তান ঢুকে পড়ে। তিনি নিজে কাঁধে কাঁধ ও গোড়ালিতে গোড়ালি মিলিয়ে দিতেন।' },
     reference: { en: 'Bukhari 725, Abu Dawud 666', bn: 'বুখারী ৭২৫, আবু দাউদ ৬৬৬' }
   },
   {
     id: 'not_completing_qunut',
     category: { en: 'Missing a Wajib (Hanafi) / Sunnah in Witr', bn: 'ওয়াজিব ছুটে যাওয়া (হানাফি) / বিতরে সুন্নাত' },
-    mistake: { en: 'Omitting the Qunut dua in the last rak\'ah of Witr prayer without making sujud al-sahw (Hanafi view).', bn: 'বিতরের শেষ রাকাতে দোয়ায়ে কুনূত না পড়ে সিজদায়ে সাহু না করা (হানাফি মত)।' },
-    rule: { en: 'In the Hanafi school, Qunut al-Witr is wajib. If omitted without sujud al-sahw, the Witr prayer must be repeated according to some scholars.', bn: 'হানাফি মাযহাবে কুনূতে বিতর ওয়াজিব। সিজদায়ে সাহু না করে ছুটে গেলে কারো মতে বিতর পুনরায় পড়তে হবে।' },
+    mistake: { en: 'Omitting the Qunut dua in the last rak\'ah of Witr prayer without making sujud al-sahw (Hanafi view).', bn: 'বিতরের শেষ রাকাতে দোয়ায়ে কুনূত বাদ দেওয়া, অথচ এর জন্য সিজদায়ে সাহুও না করা (হানাফি মত)।' },
+    rule: { en: 'In the Hanafi school, Qunut al-Witr is wajib. If omitted without sujud al-sahw, the Witr prayer must be repeated according to some scholars.', bn: 'হানাফি মাযহাবে কুনূতে বিতর ওয়াজিব। এটি বাদ পড়ার পর সিজদায়ে সাহু না করলে কোনো কোনো আলেমের মতে বিতর আবার পড়তে হবে।' },
     reference: { en: 'Sifah Salah (Al-Albani); Hashiyat Ibn Abidin', bn: 'সিফাত সালাহ (আল-আলবানী); হাশিয়া ইবন আবিদিন' }
   },
   {
     id: 'racing_the_imam',
     category: { en: 'Forbidden (Haram) in Congregation', bn: 'জামাতে নিষিদ্ধ (হারাম)' },
     mistake: { en: 'Raising the head from ruku\' or sujud before the imam, or racing ahead of the imam\'s movements in congregation.', bn: 'জামাতে ইমামের আগে রুকু বা সিজদা থেকে মাথা তোলা, বা ইমামের আগে আগে নড়াচড়া করা।' },
-    rule: { en: 'The Prophet ﷺ warned: "Does not the one who raises his head before the imam fear that Allah may transform his head into the head of a donkey?" The follower must move only after the imam.', bn: 'নবী ﷺ সতর্ক করেছেন: "যে ইমামের আগে মাথা তোলে সে কি ভয় করে না যে আল্লাহ তার মাথা গাধার মাথায় পরিণত করে দেবেন?" মুক্তাদিকে ইমামের পরেই নড়তে হবে।' },
+    rule: { en: 'The Prophet ﷺ warned: "Does not the one who raises his head before the imam fear that Allah may transform his head into the head of a donkey?" The follower must move only after the imam.', bn: 'নবী ﷺ সতর্ক করেছেন: "যে ইমামের আগে মাথা তোলে, সে কি ভয় করে না যে আল্লাহ তার মাথাকে গাধার মাথায় পরিণত করে দেবেন?" মুক্তাদি সবসময় ইমামের পরে নড়াচড়া করবে।' },
     reference: { en: 'Bukhari 691, Muslim 427', bn: 'বুখারী ৬৯১, মুসলিম ৪২৭' }
   },
   {
     id: 'passing_before_praying_person',
     category: { en: 'Major Sin for the Passer', bn: 'অতিক্রমকারীর জন্য কবিরা গুনাহ' },
     mistake: { en: 'Walking directly in front of a person who is praying (between them and their sutrah or place of sujud).', bn: 'নামাজরত ব্যক্তির ঠিক সামনে দিয়ে (তার ও সুতরা বা সিজদার স্থানের মাঝ দিয়ে) হেঁটে যাওয়া।' },
-    rule: { en: 'The Prophet ﷺ said: "If the one who passes in front of a praying person knew what (sin) was upon him, it would be better for him to wait forty than to pass in front of him."', bn: 'নবী ﷺ বলেছেন: "নামাজরত ব্যক্তির সামনে দিয়ে অতিক্রমকারী যদি জানত এতে কী (গুনাহ) রয়েছে, তবে চল্লিশ (দিন/মাস/বছর) দাঁড়িয়ে থাকা তার জন্য উত্তম হতো।"' },
+    rule: { en: 'The Prophet ﷺ said: "If the one who passes in front of a praying person knew what (sin) was upon him, it would be better for him to wait forty than to pass in front of him."', bn: 'নবী ﷺ বলেছেন: "নামাজির সামনে দিয়ে যে যায়, সে যদি জানত এতে তার কী (গুনাহ) হয়, তাহলে সামনে দিয়ে যাওয়ার চেয়ে চল্লিশ (দিন/মাস/বছর) দাঁড়িয়ে থাকাই তার জন্য ভালো হতো।"' },
     reference: { en: 'Bukhari 510, Muslim 507', bn: 'বুখারী ৫১০, মুসলিম ৫০৭' }
   },
   {
@@ -1036,37 +1036,37 @@ const SALAH_MISTAKES = [
   },
   {
     id: 'unverified_qibla',
-    category: { en: 'Precondition — Prayer Invalid Without', bn: 'পূর্বশর্ত — ছাড়া নামাজ বাতিল' },
-    mistake: { en: 'Praying in a random direction without verifying the qibla when means to verify (asking, compass, landmarks) are readily available.', bn: 'কিবলা যাচাইয়ের উপায় (জিজ্ঞাসা, কম্পাস, নিদর্শন) হাতের কাছে থাকা সত্ত্বেও যাচাই না করে যেদিকে-সেদিকে ফিরে নামাজ পড়া।' },
-    rule: { en: 'Facing the qibla is a condition of salah: "Turn your face toward al-Masjid al-Haram" (Quran 2:144). One must make a genuine effort to determine it; if after sincere ijtihad one errs, the prayer is valid by the majority — but neglecting verification when possible is not excused.', bn: 'কিবলামুখী হওয়া নামাজের শর্ত: "তুমি মসজিদুল হারামের দিকে মুখ ফেরাও" (কুরআন ২:১৪৪)। যথাসাধ্য চেষ্টা করে দিক নির্ণয় করতে হবে; আন্তরিক ইজতিহাদের পর ভুল হলে অধিকাংশের মতে নামাজ বৈধ — কিন্তু সুযোগ থাকা সত্ত্বেও যাচাই না করা ক্ষমাযোগ্য নয়।' },
+    category: { en: 'Precondition — Prayer Invalid Without', bn: 'পূর্বশর্ত: এটি ছাড়া নামাজ হয় না' },
+    mistake: { en: 'Praying in a random direction without verifying the qibla when means to verify (asking, compass, landmarks) are readily available.', bn: 'কিবলা জানার উপায় (কাউকে জিজ্ঞেস করা, কম্পাস, চেনা স্থাপনা) হাতের কাছে থাকার পরও যাচাই না করে যেকোনো দিকে ফিরে নামাজ পড়া।' },
+    rule: { en: 'Facing the qibla is a condition of salah: "Turn your face toward al-Masjid al-Haram" (Quran 2:144). One must make a genuine effort to determine it; if after sincere ijtihad one errs, the prayer is valid by the majority — but neglecting verification when possible is not excused.', bn: 'কিবলামুখী হওয়া নামাজের শর্ত: "তুমি মসজিদুল হারামের দিকে মুখ ফেরাও" (কুরআন ২:১৪৪)। তাই সত্যিকার চেষ্টা করে দিক ঠিক করতে হবে। আন্তরিকভাবে চেষ্টা (ইজতিহাদ) করার পরও ভুল হলে অধিকাংশ আলেমের মতে নামাজ হয়ে যাবে। কিন্তু যাচাইয়ের সুযোগ থাকার পরও অবহেলা করলে সে ওজর চলে না।' },
     reference: { en: 'Quran 2:144; Tirmidhi 342', bn: 'কুরআন ২:১৪৪; তিরমিযি ৩৪২' }
   },
   {
     id: 'praying_alone_behind_row',
     category: { en: 'Disputed — Madhab Difference', bn: 'মতভেদপূর্ণ — মাযহাবভেদে ভিন্ন' },
     mistake: { en: 'Standing and praying alone behind the congregation\'s row when there is space in the row ahead.', bn: 'সামনের কাতারে জায়গা থাকা সত্ত্বেও কাতারের পেছনে একা দাঁড়িয়ে নামাজ পড়া।' },
-    rule: { en: 'The Prophet ﷺ saw a man praying alone behind the row and ordered him to repeat the prayer. The Hanbali school holds such a prayer invalid; the Hanafi, Shafi\'i and Maliki schools consider it valid but disliked. One should join the row or stand beside the imam if no space remains.', bn: 'নবী ﷺ কাতারের পেছনে একা নামাজরত এক ব্যক্তিকে দেখে নামাজ পুনরায় পড়ার নির্দেশ দেন। হাম্বলী মাযহাবে এমন নামাজ বাতিল; হানাফি, শাফিয়ী ও মালিকী মাযহাবে বৈধ তবে মাকরুহ। কাতারে যোগ দিন, জায়গা না থাকলে ইমামের ডান পাশে দাঁড়ান।' },
+    rule: { en: 'The Prophet ﷺ saw a man praying alone behind the row and ordered him to repeat the prayer. The Hanbali school holds such a prayer invalid; the Hanafi, Shafi\'i and Maliki schools consider it valid but disliked. One should join the row or stand beside the imam if no space remains.', bn: 'নবী ﷺ এক ব্যক্তিকে কাতারের পেছনে একা নামাজ পড়তে দেখে তাকে নামাজ আবার পড়তে বলেছিলেন। হাম্বলী মাযহাবে এমন নামাজ বাতিল; হানাফি, শাফিয়ী ও মালিকী মাযহাবে নামাজ হয়ে যায়, তবে মাকরুহ। কাতারে ঢুকে দাঁড়ান; কাতারে জায়গা না থাকলে ইমামের পাশে দাঁড়ান।' },
     reference: { en: 'Abu Dawud 682, Tirmidhi 230, Ibn Majah 1004 — Wabisa ibn Ma\'bad (RA)', bn: 'আবু দাউদ ৬৮২, তিরমিযি ২৩০, ইবন মাজাহ ১০০৪ — ওয়াবিসা ইবন মা\'বাদ (রা.)' }
   },
   {
     id: 'leaving_prayer_on_doubt',
     category: { en: 'Breaking Prayer Without Valid Cause', bn: 'বৈধ কারণ ছাড়া নামাজ ভেঙে ফেলা' },
-    mistake: { en: 'Abandoning the prayer merely on a whispered doubt of having passed wind, without any certainty.', bn: 'নিছক ওয়াসওয়াসা বা সন্দেহের কারণে — নিশ্চিত না হয়েই — অজু ভেঙেছে ভেবে নামাজ ছেড়ে দেওয়া।' },
-    rule: { en: 'The Prophet ﷺ said about a man who imagines something during prayer: "He should not leave (the prayer) unless he hears a sound or finds a smell." Certainty is not removed by doubt.', bn: 'নামাজে সন্দেহে পড়া ব্যক্তি সম্পর্কে নবী ﷺ বলেছেন: "শব্দ না শোনা বা গন্ধ না পাওয়া পর্যন্ত সে যেন (নামাজ) না ছাড়ে।" সন্দেহ দ্বারা নিশ্চয়তা বাতিল হয় না।' },
+    mistake: { en: 'Abandoning the prayer merely on a whispered doubt of having passed wind, without any certainty.', bn: 'বায়ু বের হয়েছে কি না, শুধু এমন ওয়াসওয়াসার কারণে নিশ্চিত না হয়েই নামাজ ছেড়ে দেওয়া।' },
+    rule: { en: 'The Prophet ﷺ said about a man who imagines something during prayer: "He should not leave (the prayer) unless he hears a sound or finds a smell." Certainty is not removed by doubt.', bn: 'নামাজে কিছু অনুভব হচ্ছে বলে যার মনে হয়, তার সম্পর্কে নবী ﷺ বলেছেন: "শব্দ না শোনা বা গন্ধ না পাওয়া পর্যন্ত সে যেন (নামাজ) না ছাড়ে।" নিশ্চিত বিষয় সন্দেহের কারণে বাতিল হয় না।' },
     reference: { en: 'Bukhari 137, Muslim 361', bn: 'বুখারী ১৩৭, মুসলিম ৩৬১' }
   },
   {
     id: 'guessing_rakah_count',
     category: { en: 'Requires Sujud al-Sahw', bn: 'সিজদায়ে সাহু আবশ্যক' },
-    mistake: { en: 'When unsure whether one has prayed three or four rak\'ahs, simply guessing or assuming the higher number instead of following the prophetic method.', bn: 'তিন না চার রাকাত পড়া হয়েছে সন্দেহ হলে নবীজির শেখানো পদ্ধতি না মেনে অনুমানে নামাজ শেষ করা।' },
-    rule: { en: 'The Prophet ﷺ said: "Let him discard the doubt and build upon what he is certain of, then perform two prostrations before the salam." Base the count on the lesser (certain) number, complete the prayer, then make sujud al-sahw.', bn: 'নবী ﷺ বলেছেন: "সে যেন সন্দেহ ছেড়ে দেয় এবং যেটুকুতে নিশ্চিত তার উপর ভিত্তি করে, তারপর সালামের আগে দুটি সিজদা করে।" কম (নিশ্চিত) সংখ্যা ধরে নামাজ পূর্ণ করে সিজদায়ে সাহু করুন।' },
+    mistake: { en: 'When unsure whether one has prayed three or four rak\'ahs, simply guessing or assuming the higher number instead of following the prophetic method.', bn: 'তিন রাকাত পড়া হলো না চার, এ নিয়ে সন্দেহ হলে নবীজির শেখানো পদ্ধতি না মেনে আন্দাজে বা বেশি সংখ্যাটি ধরে নিয়ে নামাজ শেষ করা।' },
+    rule: { en: 'The Prophet ﷺ said: "Let him discard the doubt and build upon what he is certain of, then perform two prostrations before the salam." Base the count on the lesser (certain) number, complete the prayer, then make sujud al-sahw.', bn: 'নবী ﷺ বলেছেন: "সে যেন সন্দেহ ঝেড়ে ফেলে, যতটুকু নিশ্চিত তার ওপর ভিত্তি করে নামাজ পূর্ণ করে, তারপর সালামের আগে দুটি সিজদা করে।" অর্থাৎ কম সংখ্যাটি (যেটি নিশ্চিত) ধরে নামাজ শেষ করুন, তারপর সিজদায়ে সাহু করুন।' },
     reference: { en: 'Muslim 571 — from Abu Sa\'id al-Khudri (RA)', bn: 'মুসলিম ৫৭১ — আবু সাঈদ খুদরী (রা.) বর্ণিত' }
   },
   {
     id: 'interlacing_fingers',
     category: { en: 'Disliked (Makruh) — Before & During Prayer', bn: 'মাকরুহ — নামাজের আগে ও নামাজে' },
-    mistake: { en: 'Interlacing the fingers or cracking the knuckles after wudu while heading to the mosque, while waiting for prayer, or during salah itself.', bn: 'অজুর পর মসজিদে যাওয়ার পথে, নামাজের অপেক্ষায় বা নামাজের মধ্যে আঙুল একটির সাথে অন্যটি প্রবেশ করানো বা আঙুল ফোটানো।' },
-    rule: { en: 'The Prophet ﷺ said: "When one of you performs wudu well and then goes out intending the mosque, let him not interlace his fingers, for he is (already) in prayer." Idle hand-play distracts from khushu.', bn: 'নবী ﷺ বলেছেন: "তোমাদের কেউ উত্তমরূপে অজু করে মসজিদের উদ্দেশ্যে বের হলে সে যেন আঙুলে আঙুল প্রবেশ না করায়, কেননা সে নামাজেই আছে।" অনর্থক হাত নাড়াচাড়া খুশু নষ্ট করে।' },
+    mistake: { en: 'Interlacing the fingers or cracking the knuckles after wudu while heading to the mosque, while waiting for prayer, or during salah itself.', bn: 'অজুর পর মসজিদে যাওয়ার পথে, নামাজের অপেক্ষায় থাকার সময় বা নামাজের মধ্যে এক হাতের আঙুল অন্য হাতের আঙুলে ঢুকিয়ে রাখা, কিংবা আঙুল ফোটানো।' },
+    rule: { en: 'The Prophet ﷺ said: "When one of you performs wudu well and then goes out intending the mosque, let him not interlace his fingers, for he is (already) in prayer." Idle hand-play distracts from khushu.', bn: 'নবী ﷺ বলেছেন: "তোমাদের কেউ সুন্দর করে অজু করে মসজিদের উদ্দেশে বের হলে সে যেন আঙুলে আঙুল না ঢোকায়, কারণ সে তো নামাজের মধ্যেই আছে।" অনর্থক হাত নিয়ে খেলা খুশু নষ্ট করে।' },
     reference: { en: 'Abu Dawud 562 — sahih (Al-Albani)', bn: 'আবু দাউদ ৫৬২ — সহিহ (আল-আলবানী)' }
   },
 ];
@@ -1074,70 +1074,70 @@ const SALAH_MISTAKES = [
 const SALAH_SPECIAL = [
   { id: 'jumuah', emoji: '🕌',
     nameEn: 'Jumu\'ah (Friday Prayer)', nameBn: 'জুমার নামাজ',
-    whenEn: 'Weekly, in place of Dhuhr on Fridays', whenBn: 'সাপ্তাহিক, শুক্রবার যোহরের পরিবর্তে',
-    rakatEn: '2 fard (in congregation) + preceded by 2 khutbahs. Sunnah: 4 rak\'ahs before, 4 or 2 after.', rakatBn: '২ ফরজ (জামাতে) + এর আগে ২টি খুতবা। সুন্নাত: আগে ৪ রাকাত, পরে ৪ বা ২ রাকাত।',
+    whenEn: 'Weekly, in place of Dhuhr on Fridays', whenBn: 'প্রতি সপ্তাহে, শুক্রবার যোহরের বদলে',
+    rakatEn: '2 fard (in congregation) + preceded by 2 khutbahs. Sunnah: 4 rak\'ahs before, 4 or 2 after.', rakatBn: '২ রাকাত ফরজ (জামাতে), তার আগে ২টি খুতবা। সুন্নত: আগে ৪ রাকাত, পরে ৪ বা ২ রাকাত।',
     noteEn: 'Obligatory on every free, adult, resident, sane male Muslim (62:9). Recommended: ghusl, best clothes, perfume, walking early, reciting Surah al-Kahf.',
-    noteBn: 'প্রত্যেক স্বাধীন, প্রাপ্তবয়স্ক, মুকিম, সুস্থ পুরুষ মুসলিমের জন্য ফরয (৬২:৯)। সুন্নাত: গোসল, উত্তম পোশাক, সুগন্ধি, আগেভাগে যাওয়া, সূরা কাহাফ তিলাওয়াত।' },
+    noteBn: 'প্রত্যেক স্বাধীন, প্রাপ্তবয়স্ক, মুকিম ও সুস্থ মস্তিষ্কের মুসলিম পুরুষের ওপর ফরজ (৬২:৯)। মুস্তাহাব আমল: গোসল করা, সবচেয়ে ভালো পোশাক পরা, সুগন্ধি লাগানো, আগেভাগে হেঁটে মসজিদে যাওয়া, সূরা কাহাফ তিলাওয়াত করা।' },
   { id: 'eidayn', emoji: '🎉',
     nameEn: 'Eid Prayer (al-Eidayn)', nameBn: 'ঈদের নামাজ',
     whenEn: 'Twice a year — Eid al-Fitr (1 Shawwal) and Eid al-Adha (10 Dhul-Hijjah)', whenBn: 'বছরে দুইবার — ঈদুল ফিতর (১ শাওয়াল) ও ঈদুল আযহা (১০ জিলহজ)',
     rakatEn: '2 rak\'ahs with 7 extra takbirs in the 1st and 5 in the 2nd, followed by two khutbahs. No adhan or iqamah.', rakatBn: '২ রাকাত — প্রথম রাকাতে অতিরিক্ত ৭টি ও দ্বিতীয় রাকাতে ৫টি তাকবির, তারপর দু\'টি খুতবা। আজান বা ইকামত নেই।',
     noteEn: 'Sunnah mu\'akkadah (some say wajib). Performed in an open place preferably, in congregation, after sunrise until Dhuhr.',
-    noteBn: 'সুন্নাতে মুয়াক্কাদা (কেউ কেউ ওয়াজিব বলেছেন)। সূর্যোদয়ের পর থেকে যোহরের আগ পর্যন্ত, উত্তম হলো জামাতে খোলা মাঠে।' },
+    noteBn: 'সুন্নতে মুয়াক্কাদা (কারও মতে ওয়াজিব)। সূর্যোদয়ের পর থেকে যোহরের আগ পর্যন্ত পড়া যায়; উত্তম হলো খোলা মাঠে জামাতের সঙ্গে পড়া।' },
   { id: 'janazah', emoji: '⚰️',
     nameEn: 'Janazah (Funeral Prayer)', nameBn: 'জানাযার নামাজ',
     whenEn: 'When a Muslim dies, before burial', whenBn: 'কোনো মুসলিম মারা গেলে, দাফনের আগে',
-    rakatEn: '4 takbirs standing (no ruku or sujud). After 1st: al-Fatiha; 2nd: durood on the Prophet ﷺ; 3rd: du\'a for the deceased; 4th: brief du\'a and salam.', rakatBn: 'দাঁড়িয়ে ৪টি তাকবির (রুকু-সিজদা নেই)। ১ম-এর পর: ফাতিহা; ২য়: দরূদ; ৩য়: মৃত ব্যক্তির জন্য দোয়া; ৪র্থ: সংক্ষিপ্ত দোয়া ও সালাম।',
+    rakatEn: '4 takbirs standing (no ruku or sujud). After 1st: al-Fatiha; 2nd: durood on the Prophet ﷺ; 3rd: du\'a for the deceased; 4th: brief du\'a and salam.', rakatBn: 'দাঁড়িয়ে ৪টি তাকবির (রুকু-সিজদা নেই)। ১ম তাকবিরের পর সূরা ফাতিহা, ২য়টির পর নবী ﷺ-এর ওপর দরুদ, ৩য়টির পর মৃত ব্যক্তির জন্য দোয়া, ৪র্থটির পর সংক্ষিপ্ত দোয়া ও সালাম।',
     noteEn: 'Fard kifayah — if some perform it, the obligation is lifted from all. A great right of the deceased Muslim.',
-    noteBn: 'ফরযে কিফায়া — কতিপয় লোক আদায় করলে সবার পক্ষ থেকে আদায় হয়। মৃত মুসলিমের অন্যতম বড় অধিকার।' },
+    noteBn: 'ফরজে কিফায়া: কিছু লোক আদায় করলে সবার দায়িত্ব আদায় হয়ে যায়। এটি মৃত মুসলিমের একটি বড় হক।' },
   { id: 'witr', emoji: '🌌',
     nameEn: 'Witr', nameBn: 'বিতর',
     whenEn: 'After Isha until Fajr; best in the last third of the night', whenBn: 'ইশার পর থেকে ফজরের আগ পর্যন্ত; সর্বোত্তম রাতের শেষ তৃতীয়াংশে',
-    rakatEn: '1, 3, 5, 7, 9, or 11 rak\'ahs (odd number). Commonly 3 with Qunut du\'a in the last rak\'ah.', rakatBn: '১, ৩, ৫, ৭, ৯ বা ১১ রাকাত (বিজোড়)। সাধারণত ৩ রাকাত — শেষ রাকাতে দোয়ায়ে কুনুত।',
+    rakatEn: '1, 3, 5, 7, 9, or 11 rak\'ahs (odd number). Commonly 3 with Qunut du\'a in the last rak\'ah.', rakatBn: '১, ৩, ৫, ৭, ৯ বা ১১ রাকাত (বিজোড়)। সাধারণত ৩ রাকাত, শেষ রাকাতে দোয়ায়ে কুনুত।',
     noteEn: 'Wajib in the Hanafi school, sunnah mu\'akkadah in the Shafi\'i/Maliki/Hanbali. The Prophet ﷺ never omitted it, even in travel.',
-    noteBn: 'হানাফি মাযহাবে ওয়াজিব, শাফিয়ী/মালিকী/হাম্বলী মাযহাবে সুন্নাতে মুয়াক্কাদা। নবী ﷺ সফরেও তা ছাড়েননি।' },
+    noteBn: 'হানাফি মাযহাবে ওয়াজিব, শাফিয়ী/মালিকী/হাম্বলী মাযহাবে সুন্নাতে মুয়াক্কাদা। নবী ﷺ সফরেও কখনো বিতর ছাড়েননি।' },
   { id: 'tahajjud', emoji: '🌙',
     nameEn: 'Tahajjud (Night Prayer / Qiyam al-Layl)', nameBn: 'তাহাজ্জুদ (রাতের নামাজ / কিয়ামুল লাইল)',
     whenEn: 'After sleeping some part of the night, before Fajr; best in the last third', whenBn: 'রাতে কিছু সময় ঘুমানোর পর, ফজরের আগে; সর্বোত্তম শেষ তৃতীয়াংশে',
     rakatEn: '2 rak\'ah units, up to 8 (or more), ending with Witr.', rakatBn: '২ রাকাত করে, ৮ রাকাত (বা বেশি) পর্যন্ত, বিতর দিয়ে শেষ।',
     noteEn: 'Highly recommended — "the best prayer after the obligatory ones is the night prayer" (Muslim). Allah descends to the lowest heaven in the last third of the night (Bukhari & Muslim).',
-    noteBn: 'অত্যন্ত মুস্তাহাব — "ফরযের পর সর্বোত্তম নামাজ রাতের নামাজ" (মুসলিম)। রাতের শেষ তৃতীয়াংশে আল্লাহ নিকটবর্তী আসমানে অবতরণ করেন (বুখারি ও মুসলিম)।' },
+    noteBn: 'খুবই ফজিলতের মুস্তাহাব আমল: "ফরজের পর সর্বোত্তম নামাজ হলো রাতের নামাজ" (মুসলিম)। রাতের শেষ তৃতীয়াংশে আল্লাহ দুনিয়ার আসমানে নেমে আসেন (বুখারি ও মুসলিম)।' },
   { id: 'duha', emoji: '🌤️',
     nameEn: 'Duha (Forenoon / Ishraq)', nameBn: 'দুহা (চাশত / ইশরাক)',
     whenEn: 'From ~20 min after sunrise until ~15 min before Dhuhr', whenBn: 'সূর্যোদয়ের প্রায় ২০ মিনিট পর থেকে যোহরের ১৫ মিনিট আগ পর্যন্ত',
-    rakatEn: '2 to 12 rak\'ahs in units of 2. Ishraq is the earliest (~2 rak\'ahs); Duha proper is later, best time around mid-morning.', rakatBn: '২ থেকে ১২ রাকাত — ২ রাকাত করে। ইশরাক সর্বপ্রথম (~২ রাকাত); মূল দুহা পরে, সর্বোত্তম সময় সকাল-দুপুরের মাঝামাঝি।',
+    rakatEn: '2 to 12 rak\'ahs in units of 2. Ishraq is the earliest (~2 rak\'ahs); Duha proper is later, best time around mid-morning.', rakatBn: '২ থেকে ১২ রাকাত, ২ রাকাত করে। ইশরাক সবার আগে (প্রায় ২ রাকাত); মূল দুহা পরে, এর উত্তম সময় সকাল আর দুপুরের মাঝামাঝি।',
     noteEn: 'Praying Duha suffices as sadaqah for all 360 joints of the body (Muslim). The reward equals an accepted Hajj and Umrah when combined with Fajr in congregation and dhikr until sunrise (Tirmidhi).',
-    noteBn: 'দুহা আদায় শরীরের ৩৬০টি জোড়ার সদকা হিসেবে যথেষ্ট (মুসলিম)। ফজরের জামাত ও যিকিরের সাথে মিলিয়ে সূর্যোদয় পর্যন্ত অপেক্ষা করলে সওয়াব হজ-উমরার সমতুল্য (তিরমিযি)।' },
+    noteBn: 'দুহার নামাজ শরীরের ৩৬০টি জোড়ার সদকার জন্য যথেষ্ট (মুসলিম)। আর জামাতে ফজর পড়ে সূর্যোদয় পর্যন্ত জিকিরে বসে থেকে এ নামাজ পড়লে কবুল হজ ও উমরার সমান সওয়াব পাওয়া যায় (তিরমিযি)।' },
   { id: 'traveler', emoji: '🧳',
     nameEn: 'Traveler\'s Prayer (Salat al-Musafir)', nameBn: 'মুসাফিরের নামাজ',
-    whenEn: 'When traveling ≥ ~85 km beyond one\'s city; while journey continues', whenBn: 'নিজ শহরের বাইরে ~৮৫ কিমি বা বেশি সফরে; সফর চলাকালে',
-    rakatEn: 'Shorten 4-rak\'ah prayers (Dhuhr, Asr, Isha) to 2 rak\'ahs. Fajr and Maghrib are not shortened. Dhuhr+Asr and Maghrib+Isha may be combined (jam\').', rakatBn: 'চার রাকাত নামাজ (যোহর, আসর, ইশা) ২ রাকাতে সংক্ষিপ্ত। ফজর ও মাগরিব সংক্ষিপ্ত হয় না। যোহর+আসর এবং মাগরিব+ইশা একত্র (জামা\') করা যায়।',
+    whenEn: 'When traveling ≥ ~85 km beyond one\'s city; while journey continues', whenBn: 'নিজ শহর থেকে ~৮৫ কিমি বা তার বেশি দূরে সফরে গেলে; যতক্ষণ সফর চলে',
+    rakatEn: 'Shorten 4-rak\'ah prayers (Dhuhr, Asr, Isha) to 2 rak\'ahs. Fajr and Maghrib are not shortened. Dhuhr+Asr and Maghrib+Isha may be combined (jam\').', rakatBn: 'চার রাকাতের নামাজ (যোহর, আসর, ইশা) ২ রাকাত পড়তে হয়। ফজর ও মাগরিব কমে না। যোহর-আসর এবং মাগরিব-ইশা একসঙ্গে (জামা\') পড়া যায়।',
     noteEn: 'A concession (rukhsah) from Allah (4:101). Combining is permissible in genuine need — heavy rain, illness, danger, or continuous travel.',
-    noteBn: 'আল্লাহর পক্ষ থেকে ছাড় (৪:১০১)। প্রকৃত প্রয়োজনে — অতিবৃষ্টি, রোগ, বিপদ বা একটানা সফরে — একত্র করা বৈধ।' },
+    noteBn: 'এটি আল্লাহর দেওয়া ছাড় (রুখসত) (৪:১০১)। সত্যিকার প্রয়োজনে, যেমন অতিবৃষ্টি, অসুস্থতা, বিপদ বা একটানা সফরে, দুই নামাজ একসঙ্গে পড়া জায়েজ।' },
   { id: 'istikhara', emoji: '❓',
-    nameEn: 'Istikhara (Seeking Guidance)', nameBn: 'ইস্তিখারা (উত্তম পথ প্রার্থনা)',
-    whenEn: 'Any time — before making a permissible decision (except forbidden or already-obligatory ones)', whenBn: 'যেকোনো সময় — কোনো বৈধ সিদ্ধান্তের আগে (হারাম বা পূর্বনির্ধারিত ফরযের জন্য নয়)',
+    nameEn: 'Istikhara (Seeking Guidance)', nameBn: 'ইস্তিখারা (কল্যাণ কামনার নামাজ)',
+    whenEn: 'Any time — before making a permissible decision (except forbidden or already-obligatory ones)', whenBn: 'যেকোনো সময়, কোনো জায়েজ বিষয়ে সিদ্ধান্ত নেওয়ার আগে (হারাম কাজ বা যা আগে থেকেই ফরজ, তার জন্য নয়)',
     rakatEn: '2 rak\'ahs (nafl), followed by the Istikhara du\'a mentioning the specific matter.', rakatBn: '২ রাকাত (নফল), এরপর বিষয় উল্লেখ করে ইস্তিখারার দোয়া।',
     noteEn: 'The Prophet ﷺ taught Istikhara as he taught the Quran (Bukhari). It does not guarantee dreams — proceed with what your heart feels contented with after praying.',
-    noteBn: 'নবী ﷺ কুরআনের মতোই ইস্তিখারা শিখিয়েছেন (বুখারি)। এতে স্বপ্ন দেখার নিশ্চয়তা নেই — নামাজের পর যেদিকে হৃদয় সন্তুষ্ট হয় সেদিকে এগিয়ে যান।' },
+    noteBn: 'নবী ﷺ ইস্তিখারা এমন যত্ন করে শেখাতেন, যেমন কুরআন শেখাতেন (বুখারি)। এতে স্বপ্ন দেখা জরুরি নয়। নামাজের পর মন যেদিকে স্বস্তি পায়, সেদিকে এগিয়ে যান।' },
   { id: 'tarawih', emoji: '🌙',
     nameEn: 'Tarawih (Ramadan Night Prayer)', nameBn: 'তারাবিহ (রমজানের রাতের নামাজ)',
     whenEn: 'After Isha, every night during Ramadan', whenBn: 'রমজানে প্রতিরাতে ইশার পর',
-    rakatEn: '8 or 20 rak\'ahs in units of 2, ending with Witr. Best in congregation, with recitation of the entire Quran across the month.', rakatBn: '৮ বা ২০ রাকাত ২ রাকাত করে, বিতর দিয়ে শেষ। সর্বোত্তম জামাতে, সারা মাসে পুরো কুরআন খতম।',
+    rakatEn: '8 or 20 rak\'ahs in units of 2, ending with Witr. Best in congregation, with recitation of the entire Quran across the month.', rakatBn: '৮ বা ২০ রাকাত, ২ রাকাত করে; শেষে বিতর। জামাতে পড়া উত্তম, আর পুরো মাসে কুরআন খতম করা উত্তম।',
     noteEn: 'A confirmed sunnah of the Prophet ﷺ. He said: "Whoever stands in prayer during Ramadan with faith and hoping for reward, his previous sins are forgiven." (Bukhari)',
-    noteBn: 'নবী ﷺ-এর সুন্নাতে মুয়াক্কাদা। তিনি বলেছেন: "যে ঈমান ও সওয়াবের আশায় রমজানে কিয়াম করবে, তার পূর্ববর্তী গুনাহ মাফ হবে।" (বুখারি)' },
+    noteBn: 'নবী ﷺ-এর সুন্নতে মুয়াক্কাদা। তিনি বলেছেন: "যে ঈমানের সঙ্গে ও সওয়াবের আশায় রমজানে রাতের নামাজে দাঁড়ায়, তার আগের গুনাহ মাফ করে দেওয়া হয়।" (বুখারি)' },
   { id: 'ishraq', emoji: '🌅',
-    nameEn: 'Ishraq (Post-Sunrise Prayer)', nameBn: 'ইশরাক (সূর্যোদয়-পরবর্তী নামাজ)',
-    whenEn: 'About 15-20 minutes after sunrise, when the sun is a spear\'s height above the horizon', whenBn: 'সূর্যোদয়ের প্রায় ১৫-২০ মিনিট পরে, যখন সূর্য দিগন্তের উপরে উঠে আসে',
-    rakatEn: '2 rak\'ahs (minimum); best prayed after remaining seated in dhikr from Fajr until sunrise.', rakatBn: '২ রাকাত (সর্বনিম্ন); ফজরের পর বসে যিকিরে সময় কাটিয়ে সূর্যোদয়ের পর পড়া সর্বোত্তম।',
+    nameEn: 'Ishraq (Post-Sunrise Prayer)', nameBn: 'ইশরাক (সূর্য ওঠার পরের নামাজ)',
+    whenEn: 'About 15-20 minutes after sunrise, when the sun is a spear\'s height above the horizon', whenBn: 'সূর্যোদয়ের প্রায় ১৫-২০ মিনিট পর, যখন সূর্য দিগন্ত থেকে এক বর্শা পরিমাণ ওপরে ওঠে',
+    rakatEn: '2 rak\'ahs (minimum); best prayed after remaining seated in dhikr from Fajr until sunrise.', rakatBn: '২ রাকাত (কমপক্ষে); ফজরের পর সূর্যোদয় পর্যন্ত বসে জিকির করে তারপর পড়া সবচেয়ে উত্তম।',
     noteEn: 'Whoever prays Fajr in congregation, then remains in dhikr until sunrise, then prays 2 rak\'ahs, earns the reward of a complete Hajj and Umrah (Tirmidhi, hasan). Ishraq is the earliest portion of Duha time; its spirit is unbroken remembrance from Fajr to sunrise.',
-    noteBn: 'যে ব্যক্তি জামাতে ফজর পড়ে সূর্যোদয় পর্যন্ত যিকিরে বসে থাকে, তারপর ২ রাকাত পড়ে — সে পূর্ণ হজ ও উমরার সওয়াব পাবে (তিরমিযি, হাসান)। ইশরাক হলো দুহার সবচেয়ে প্রথম অংশ; ফজর থেকে সূর্যোদয় পর্যন্ত অবিচ্ছিন্ন যিকিরই এর মূল মর্ম।' },
+    noteBn: 'যে জামাতে ফজর পড়ে, তারপর সূর্যোদয় পর্যন্ত বসে জিকির করে, তারপর ২ রাকাত পড়ে, সে পূর্ণ হজ ও উমরার সওয়াব পায় (তিরমিযি, হাসান)। ইশরাক হলো দুহার একেবারে শুরুর সময়। ফজর থেকে সূর্যোদয় পর্যন্ত টানা জিকিরে থাকাই এর প্রাণ।' },
   { id: 'tawbah', emoji: '🙏',
     nameEn: 'Salat al-Tawbah (Prayer of Repentance)', nameBn: 'সালাতুত তাওবাহ (তওবার নামাজ)',
     whenEn: 'After committing a sin, as part of sincere repentance to Allah', whenBn: 'যখনই কোনো গুনাহ হয়, আন্তরিক তওবার অংশ হিসেবে',
     rakatEn: '2 rak\'ahs (nafl), followed by sincere istighfar and du\'a for forgiveness.', rakatBn: '২ রাকাত (নফল), তারপর আন্তরিক ইস্তিগফার ও ক্ষমার দোয়া।',
     noteEn: 'Abu Bakr (RA) reported the Prophet ﷺ: "No person commits a sin, makes wudu, prays two rak\'ahs, then seeks forgiveness, but Allah forgives them." (Abu Dawud, Tirmidhi — sahih). This prayer purifies the heart and deepens remorse before turning back to Allah.',
-    noteBn: 'আবু বকর (রা.) বর্ণিত: নবী ﷺ বলেছেন — যে গুনাহ করে, অজু করে, ২ রাকাত পড়ে, তারপর ক্ষমা চায় — আল্লাহ তাকে ক্ষমা করেন (আবু দাউদ, তিরমিযি — সহিহ)। এ নামাজ হৃদয় পরিশুদ্ধ করে এবং আল্লাহর দিকে ফিরে আসার পথ খুলে দেয়।' },
+    noteBn: 'আবু বকর (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন: "কেউ গুনাহ করার পর অজু করে ২ রাকাত নামাজ পড়ে, তারপর আল্লাহর কাছে ক্ষমা চাইলে আল্লাহ তাকে ক্ষমা করে দেন।" (আবু দাউদ, তিরমিযি; সহিহ)। এ নামাজ অন্তরকে পরিশুদ্ধ করে, আর আল্লাহর দিকে ফেরার আগে মনের অনুতাপকে গভীর করে।' },
   { id: 'shukr', emoji: '😊',
     nameEn: 'Sujud al-Shukr (Prostration of Gratitude)', nameBn: 'সিজদায়ে শোকর (কৃতজ্ঞতার সিজদা)',
     whenEn: 'Upon receiving a blessing, hearing good news, or relief from hardship', whenBn: 'কোনো নেয়ামত পেলে, সুসংবাদ শুনলে বা বিপদ দূর হলে',
@@ -1147,62 +1147,62 @@ const SALAH_SPECIAL = [
   { id: 'hajah', emoji: '🤲',
     nameEn: 'Salat al-Hajah (Prayer of Need)', nameBn: 'সালাতুল হাজাহ (প্রয়োজনের নামাজ)',
     whenEn: 'When one has a genuine need — worldly or religious — and turns to Allah for help', whenBn: 'কোনো দুনিয়াবি বা দ্বীনি প্রয়োজনে আল্লাহর সাহায্য প্রার্থনায়',
-    rakatEn: '2 rak\'ahs, then praise Allah, send salawat on the Prophet ﷺ, and recite the specific du\'a of hajah mentioning the need.', rakatBn: '২ রাকাত, তারপর আল্লাহর প্রশংসা, নবী ﷺ-এর উপর দরূদ, এবং হাজাহর বিশেষ দোয়ায় প্রয়োজন উল্লেখ।',
+    rakatEn: '2 rak\'ahs, then praise Allah, send salawat on the Prophet ﷺ, and recite the specific du\'a of hajah mentioning the need.', rakatBn: '২ রাকাত পড়ে আল্লাহর প্রশংসা করুন, নবী ﷺ-এর ওপর দরুদ পড়ুন, তারপর নিজের প্রয়োজনের কথা উল্লেখ করে হাজাহর নির্দিষ্ট দোয়া পড়ুন।',
     noteEn: 'A man came to the Prophet ﷺ repeatedly for a need; the Prophet ﷺ taught him to make wudu, pray 2 rak\'ahs, then recite the specific du\'a (Ibn Majah, Tirmidhi — hasan). This prayer trains tawakkul — placing reliance on Allah before all else.',
-    noteBn: 'এক সাহাবী বারবার নবী ﷺ-এর কাছে প্রয়োজনের কথা জানান; নবী ﷺ শেখালেন — অজু করো, ২ রাকাত পড়ো, তারপর হাজাহর দোয়া করো (ইবন মাজাহ, তিরমিযি — হাসান)। এ নামাজ তাওয়াক্কুল শেখায়।' },
+    noteBn: 'এক ব্যক্তি একটি প্রয়োজনে বারবার নবী ﷺ-এর কাছে আসতেন। নবী ﷺ তাকে শেখালেন: অজু করো, ২ রাকাত নামাজ পড়ো, তারপর নির্দিষ্ট দোয়াটি পড়ো (ইবন মাজাহ, তিরমিযি; হাসান)। এ নামাজ তাওয়াক্কুল শেখায়: সবকিছুর আগে আল্লাহর ওপর ভরসা।' },
   { id: 'tasbeeh', emoji: '📿',
     nameEn: 'Salat al-Tasbeeh (Prayer of Glorification)', nameBn: 'সালাতুত তাসবিহ',
-    whenEn: 'Any time except the three forbidden times; ideally daily, weekly, monthly, or at least once in a lifetime', whenBn: 'তিনটি নিষিদ্ধ সময় ছাড়া যেকোনো সময়; উত্তম: প্রতিদিন, সাপ্তাহিক, মাসিক বা জীবনে অন্তত একবার',
+    whenEn: 'Any time except the three forbidden times; ideally daily, weekly, monthly, or at least once in a lifetime', whenBn: 'তিনটি নিষিদ্ধ সময় ছাড়া যেকোনো সময়; সম্ভব হলে প্রতিদিন, নয়তো সপ্তাহে বা মাসে একবার, অথবা জীবনে অন্তত একবার',
     rakatEn: '4 rak\'ahs. In each rak\'ah the tasbeeh "Subhanallahi wal-hamdu lillahi wa la ilaha illallahu wallahu akbar" is recited 75 times at fixed positions (15 after opening du\'a + 10 at each of the 6 remaining positions). Total: 300 per prayer.',
-    rakatBn: '৪ রাকাত। প্রতি রাকাতে নির্দিষ্ট স্থানে ৭৫ বার তাসবিহ: সানার পর ১৫+, বাকি ৬ স্থানে ১০ করে। মোট ৩০০। তাসবিহ: "সুবহানাল্লাহি ওয়ালহামদু লিল্লাহি ওয়া লা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার।"',
+    rakatBn: '৪ রাকাত। প্রতি রাকাতে নির্দিষ্ট জায়গাগুলোতে মোট ৭৫ বার তাসবিহ পড়তে হয়: সানার পর ১৫ বার, আর বাকি ৬ জায়গায় ১০ বার করে। পুরো নামাজে মোট ৩০০ বার। তাসবিহটি হলো: "সুবহানাল্লাহি ওয়ালহামদু লিল্লাহি ওয়া লা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার।"',
     noteEn: 'Ibn Abbas (RA) narrated that the Prophet ﷺ taught this prayer to his uncle Abbas (RA), saying it would expiate all sins — earlier and later, great and small (Abu Dawud, Ibn Majah). Authenticity is debated but accepted by Ibn Mubarak, Ibn Khuzaymah and many scholars.',
-    noteBn: 'ইবন আব্বাস (রা.) বর্ণিত: নবী ﷺ চাচা আব্বাস (রা.)-কে শেখান — এতে অতীত-ভবিষ্যৎ, ছোট-বড় সব গুনাহ মাফ হবে (আবু দাউদ, ইবন মাজাহ)। সনদে মতভেদ থাকলেও ইবন মুবারক, ইবন খুযাইমাহ ও বহু ইমাম এটি গ্রহণ করেছেন।' },
+    noteBn: 'ইবন আব্বাস (রাঃ) বর্ণনা করেন, নবী ﷺ তাঁর চাচা আব্বাস (রাঃ)-কে এই নামাজ শিখিয়ে বলেছিলেন, এতে আগের-পরের, ছোট-বড় সব গুনাহ মাফ হবে (আবু দাউদ, ইবন মাজাহ)। এর সনদ নিয়ে মতভেদ আছে, তবে ইবন মুবারক, ইবন খুযাইমাহ ও বহু আলেম এটি গ্রহণ করেছেন।' },
   { id: 'kusuf', emoji: '🌑',
     nameEn: 'Salat al-Kusuf (Solar Eclipse Prayer)', nameBn: 'সালাতুল কুসুফ (সূর্যগ্রহণের নামাজ)',
     whenEn: 'When a solar eclipse occurs', whenBn: 'সূর্যগ্রহণ শুরু হলে',
-    rakatEn: '2 rak\'ahs, each containing 2 long qiyams and 2 rukus. Recitation is very long. Prayed in congregation; imam delivers a khutbah afterwards.', rakatBn: '২ রাকাত, প্রতিটিতে ২টি দীর্ঘ কিয়াম ও ২টি রুকু। তিলাওয়াত দীর্ঘ। জামাতে পড়া হয়; ইমাম পরে খুতবা দেন।',
+    rakatEn: '2 rak\'ahs, each containing 2 long qiyams and 2 rukus. Recitation is very long. Prayed in congregation; imam delivers a khutbah afterwards.', rakatBn: '২ রাকাত; প্রতি রাকাতে ২টি দীর্ঘ কিয়াম ও ২টি রুকু। কিরাত খুব দীর্ঘ হয়। জামাতে পড়া হয়, নামাজের পর ইমাম খুতবা দেন।',
     noteEn: 'The Prophet ﷺ said: "The sun and moon do not eclipse for anyone\'s death. When you see an eclipse, pray and make du\'a until it clears." (Bukhari & Muslim). He ﷺ led this prayer and mentioned the torments of the grave during the khutbah.',
-    noteBn: 'নবী ﷺ বলেছেন: "সূর্য-চাঁদ কারো মৃত্যুর কারণে গ্রহণ লাগে না। গ্রহণ দেখলে নামাজ পড়ো ও দোয়া করো যতক্ষণ না শেষ হয়।" (বুখারি ও মুসলিম)।' },
+    noteBn: 'নবী ﷺ বলেছেন: "কারও মৃত্যুর কারণে সূর্য বা চাঁদের গ্রহণ হয় না। গ্রহণ দেখলে তা কেটে না যাওয়া পর্যন্ত নামাজ পড়ো ও দোয়া করো।" (বুখারি ও মুসলিম)। নবী ﷺ নিজে এ নামাজে ইমামতি করেছেন এবং খুতবায় কবরের আজাবের কথা বলেছেন।' },
   { id: 'khusuf', emoji: '🌕',
     nameEn: 'Salat al-Khusuf (Lunar Eclipse Prayer)', nameBn: 'সালাতুল খুসুফ (চন্দ্রগ্রহণের নামাজ)',
     whenEn: 'When a lunar eclipse occurs', whenBn: 'চন্দ্রগ্রহণ হলে',
-    rakatEn: 'Same structure as Kusuf: 2 rak\'ahs each with 2 qiyams and 2 rukus. The Hanafi school permits individual 2-rak\'ah nafl for Khusuf as sufficient.', rakatBn: 'কুসুফের মতো: ২ রাকাত, প্রতিটিতে ২ কিয়াম ও ২ রুকু। হানাফি মাযহাবে ব্যক্তিগত ২ রাকাত নফলও যথেষ্ট।',
+    rakatEn: 'Same structure as Kusuf: 2 rak\'ahs each with 2 qiyams and 2 rukus. The Hanafi school permits individual 2-rak\'ah nafl for Khusuf as sufficient.', rakatBn: 'কুসুফের মতোই: ২ রাকাত, প্রতি রাকাতে ২টি কিয়াম ও ২টি রুকু। হানাফি মাযহাবে চন্দ্রগ্রহণে একা একা ২ রাকাত নফল পড়লেই যথেষ্ট।',
     noteEn: 'The majority of scholars apply the Kusuf ruling to Khusuf. Pray, make du\'a and engage in dhikr throughout the eclipse. The Prophet ﷺ commanded prayer upon seeing either eclipse (Bukhari & Muslim).',
-    noteBn: 'অধিকাংশ আলেম চন্দ্রগ্রহণেও কুসুফের বিধান প্রযোজ্য মনে করেন। গ্রহণকালে নামাজ, দোয়া ও যিকিরে মশগুল থাকুন। উভয় গ্রহণেই নবী ﷺ নামাজের নির্দেশ দিয়েছেন (বুখারি ও মুসলিম)।' },
+    noteBn: 'অধিকাংশ আলেম চন্দ্রগ্রহণেও কুসুফের বিধান প্রযোজ্য মনে করেন। গ্রহণ যতক্ষণ থাকে, নামাজ, দোয়া ও জিকিরে মশগুল থাকুন। উভয় গ্রহণেই নবী ﷺ নামাজের নির্দেশ দিয়েছেন (বুখারি ও মুসলিম)।' },
   { id: 'istisqa', emoji: '🌧️',
     nameEn: 'Salat al-Istisqa\' (Prayer for Rain)', nameBn: 'সালাতুল ইস্তিসকা (বৃষ্টির নামাজ)',
-    whenEn: 'During drought or prolonged lack of rain, after communal repentance and turning to Allah', whenBn: 'খরা বা দীর্ঘ বৃষ্টিহীনতায়, সম্প্রদায়ের তওবা ও আল্লাহমুখী হওয়ার পরে',
-    rakatEn: '2 rak\'ahs in congregation in an open space, like Eid prayer. Imam delivers 2 khutbahs; mid-khutbah he faces the qibla and turns his cloak inside-out (talwiyat al-rida\'), raising hands in earnest du\'a.', rakatBn: '২ রাকাত জামাতে খোলা মাঠে — ঈদের নামাজের মতো। ইমাম ২ খুতবা দেন; খুতবার মাঝে কিবলামুখী হয়ে চাদর উল্টে পরেন এবং হাত তুলে তীব্র দোয়া করেন।',
+    whenEn: 'During drought or prolonged lack of rain, after communal repentance and turning to Allah', whenBn: 'খরা বা দীর্ঘদিন বৃষ্টি না হলে; সবাই মিলে তওবা করে আল্লাহর দিকে ফেরার পর',
+    rakatEn: '2 rak\'ahs in congregation in an open space, like Eid prayer. Imam delivers 2 khutbahs; mid-khutbah he faces the qibla and turns his cloak inside-out (talwiyat al-rida\'), raising hands in earnest du\'a.', rakatBn: 'ঈদের নামাজের মতো খোলা মাঠে জামাতে ২ রাকাত। ইমাম ২টি খুতবা দেন; খুতবার মাঝে কিবলামুখী হয়ে নিজের চাদর উল্টে পরেন এবং দুই হাত তুলে কাকুতি-মিনতি করে দোয়া করেন।',
     noteEn: 'The Prophet ﷺ performed Istisqa during severe drought and rain came (Bukhari & Muslim). The turning of the cloak is mutawatir Sunnah. This prayer embodies communal humility and complete dependence on Allah.',
-    noteBn: 'নবী ﷺ তীব্র খরায় ইস্তিসকা পড়েছেন এবং বৃষ্টি এসেছে (বুখারি ও মুসলিম)। চাদর উল্টানোর আমল মুতাওয়াতির সুন্নাত। এ নামাজ সমাজের বিনয় ও আল্লাহর উপর পূর্ণ নির্ভরতার প্রতীক।' },
+    noteBn: 'তীব্র খরার সময় নবী ﷺ ইস্তিসকার নামাজ পড়েছেন, তারপর বৃষ্টি নেমেছে (বুখারি ও মুসলিম)। চাদর উল্টে পরার আমল মুতাওয়াতির সুন্নাত। এ নামাজে গোটা সমাজের বিনয় আর আল্লাহর ওপর পূর্ণ নির্ভরতা ফুটে ওঠে।' },
   { id: 'awwabin', emoji: '🌆',
     nameEn: 'Salat al-Awwabin (Prayer of the Oft-Returning)', nameBn: 'সালাতুল আওয়াবীন',
     whenEn: 'Between Maghrib and Isha', whenBn: 'মাগরিব ও ইশার মধ্যবর্তী সময়ে',
     rakatEn: '6 rak\'ahs (3 pairs of 2) after Maghrib\'s sunnah. Some scholars include the Maghrib sunnah itself among these six.', rakatBn: 'মাগরিবের সুন্নাতের পর ৬ রাকাত (৩ জোড়া)। কেউ কেউ মাগরিবের সুন্নাতকেও এর অন্তর্ভুক্ত করেন।',
     noteEn: 'The Prophet ﷺ said: "Whoever prays 6 rak\'ahs after Maghrib without saying anything bad in between, it is equivalent to 12 years of worship." (Ibn Majah, Tirmidhi). Al-Awwabin means "those who frequently return to Allah" — a mark of sincerity and nearness.',
-    noteBn: 'নবী ﷺ বলেছেন: "যে মাগরিবের পর ৬ রাকাত পড়ে মাঝে কোনো মন্দ কথা না বলে, এটি ১২ বছরের ইবাদতের সমতুল্য।" (ইবন মাজাহ, তিরমিযি)। "আওয়াবীন" অর্থ "যারা বারবার আল্লাহর দিকে ফিরে আসে"।' },
+    noteBn: 'নবী ﷺ বলেছেন: "যে মাগরিবের পর ৬ রাকাত নামাজ পড়ে এবং এর মাঝে কোনো মন্দ কথা বলে না, তার জন্য তা ১২ বছরের ইবাদতের সমান।" (ইবন মাজাহ, তিরমিযি)। "আওয়াবীন" মানে "যারা বারবার আল্লাহর দিকে ফিরে আসে"; এ নাম ইখলাস ও আল্লাহর নৈকট্যের পরিচয়।' },
   { id: 'khawf', emoji: '⚔️',
     nameEn: 'Salat al-Khawf (Fear / Battlefield Prayer)', nameBn: 'সালাতুল খওফ (ভয় / যুদ্ধক্ষেত্রের নামাজ)',
     whenEn: 'When facing the enemy in battle and it is time for prayer, or in genuine fear of harm', whenBn: 'শত্রুর সম্মুখীন হয়ে যুদ্ধরত অবস্থায় নামাজের সময় হলে, বা প্রকৃত ক্ষতির ভয় থাকলে',
     rakatEn: 'Fard is reduced to 1 rak\'ah (instead of 2/3/4). The imam leads one group in 1 rak\'ah while another group stands guard, then switches. Each group completes their own remaining rak\'ahs individually. Multiple valid configurations exist in the Sunnah — the prayer is never to be abandoned even in the direst circumstances.',
-    rakatBn: 'ফরজ সংক্ষিপ্ত হয়ে ১ রাকাত হয় (২/৩/৪-এর পরিবর্তে)। ইমাম একদলকে ১ রাকাত পড়ান, অপর দল পাহারা দেয়, পরে স্থান বিনিময়। প্রতিটি দল বাকি রাকাত একা পূর্ণ করে। সুন্নাহয় একাধিক বৈধ পদ্ধতি রয়েছে — সবচেয়ে কঠিন পরিস্থিতিতেও নামাজ ত্যাগ করা যায় না।',
+    rakatBn: 'ফরজ কমে ১ রাকাত হয় (২/৩/৪-এর বদলে)। ইমাম এক দলকে নিয়ে ১ রাকাত পড়েন, অন্য দল তখন পাহারা দেয়; তারপর দুই দল জায়গা বদল করে। প্রতিটি দল বাকি রাকাত নিজে নিজে পূর্ণ করে। সুন্নাহয় এর একাধিক সহিহ পদ্ধতি আছে। সবচেয়ে কঠিন পরিস্থিতিতেও নামাজ ছাড়া যায় না।',
     noteEn: 'Quran 4:101-102 explicitly commands it: "When you are among them and lead them in prayer, let one group stand in prayer with you while another group stands guard." It proves that salah is never to be abandoned — even under direct enemy fire. The form can adapt to the situation.',
-    noteBn: 'কুরআন ৪:১০১-১০২ স্পষ্টভাবে এর নির্দেশ দিয়েছে। এটি প্রমাণ করে নামাজ কখনো ত্যাগ করা যায় না — প্রত্যক্ষ শত্রুর সামনেও নয়। পরিস্থিতি অনুযায়ী পদ্ধতি পরিবর্তন করা যায়।' },
+    noteBn: 'কুরআন ৪:১০১-১০২ আয়াতে স্পষ্টভাবে এর আদেশ এসেছে: "তুমি যখন তাদের মধ্যে থাকো এবং তাদের নিয়ে নামাজ পড়ো, তখন তাদের একদল যেন তোমার সঙ্গে নামাজে দাঁড়ায়, আর অন্য দল পাহারা দেয়।" এ থেকে বোঝা যায়, নামাজ কখনো ছাড়া যায় না, শত্রুর সরাসরি আক্রমণের মুখেও নয়। পরিস্থিতি অনুযায়ী এর পদ্ধতি বদলাতে পারে।' },
   { id: 'layl', emoji: '⭐',
     nameEn: 'Salat al-Layl — Variants & Details', nameBn: 'সালাতুল লাইল — প্রকারভেদ ও বিস্তারিত',
     whenEn: 'Any time after Isha until before Fajr; best in the last third of the night', whenBn: 'ইশার পর থেকে ফজরের আগ পর্যন্ত; সর্বোত্তম রাতের শেষ তৃতীয়াংশে',
-    rakatEn: 'Minimum 2 rak\'ahs; commonly 8-11 total (8 Qiyam + 3 Witr). Variants: (1) Tahajjud — strictly after sleeping; (2) Qiyam al-Layl — any night prayer; (3) Tarawih — Ramadan congregation. Always close with an odd-number Witr.', rakatBn: 'সর্বনিম্ন ২ রাকাত; সাধারণত ৮-১১ মোট (৮ কিয়াম + ৩ বিতর)। প্রকার: (১) তাহাজ্জুদ — ঘুমের পরে; (২) কিয়ামুল লাইল — সাধারণ রাতের নামাজ; (৩) তারাবিহ — রমজানে জামাতে। বিতর দিয়ে শেষ করুন।',
+    rakatEn: 'Minimum 2 rak\'ahs; commonly 8-11 total (8 Qiyam + 3 Witr). Variants: (1) Tahajjud — strictly after sleeping; (2) Qiyam al-Layl — any night prayer; (3) Tarawih — Ramadan congregation. Always close with an odd-number Witr.', rakatBn: 'কমপক্ষে ২ রাকাত; সাধারণত মোট ৮-১১ রাকাত (৮ রাকাত কিয়াম + ৩ রাকাত বিতর)। প্রকারভেদ: (১) তাহাজ্জুদ: শুধু ঘুম থেকে ওঠার পর; (২) কিয়ামুল লাইল: রাতের যেকোনো নামাজ; (৩) তারাবিহ: রমজানে জামাতে। সবসময় বিজোড় বিতর দিয়ে শেষ করুন।',
     noteEn: 'Allah says: "In parts of the night, prostrate to Him and glorify Him for long stretches." (76:26). The Prophet ﷺ never abandoned Qiyam al-Layl even in illness — he prayed seated when he could not stand. Long, unhurried recitation with reflection on the Quran\'s meaning is its spirit.',
-    noteBn: 'আল্লাহ বলেন: "রাতের কিছু অংশে তাঁকে সিজদা করো এবং দীর্ঘ সময় তাঁর তাসবিহ পড়ো।" (৭৬:২৬)। নবী ﷺ অসুস্থ অবস্থায়ও কিয়াম ছাড়েননি — বসে পড়তেন। কুরআনের অর্থ নিয়ে গভীর ও ধীর তিলাওয়াত হলো এর মূল স্পিরিট।' },
+    noteBn: 'আল্লাহ বলেন: "রাতের কিছু অংশে তাঁকে সিজদা করো, আর রাতের দীর্ঘ সময় তাঁর তাসবিহ পাঠ করো।" (৭৬:২৬)। নবী ﷺ অসুস্থ অবস্থায়ও কিয়ামুল লাইল ছাড়েননি; দাঁড়াতে না পারলে বসে পড়তেন। কুরআনের অর্থ নিয়ে ভাবতে ভাবতে ধীরে, দীর্ঘ তিলাওয়াতই এর প্রাণ।' },
   { id: 'tahiyyatul_masjid', emoji: '🚪',
     nameEn: 'Tahiyyat al-Masjid (Greeting the Mosque)', nameBn: 'তাহিয়্যাতুল মসজিদ (মসজিদে প্রবেশের নামাজ)',
     whenEn: 'Immediately upon entering any mosque, before sitting down', whenBn: 'যেকোনো মসজিদে প্রবেশ করে বসার আগেই',
     rakatEn: '2 rak\'ahs (nafl). Any other prayer performed on entering (e.g. sunnah of the time) also fulfils it.', rakatBn: '২ রাকাত (নফল)। প্রবেশ করে অন্য কোনো নামাজ (যেমন ওয়াক্তের সুন্নাত) পড়লেও তা আদায় হয়ে যায়।',
     noteEn: 'The Prophet ﷺ said: "When one of you enters the mosque, let him not sit until he prays two rak\'ahs." (Bukhari 444, Muslim 714). It is omitted at the strictly forbidden times according to the Hanafi school; the Shafi\'i school allows it at any time as a prayer with a specific cause.',
-    noteBn: 'নবী ﷺ বলেছেন: "তোমাদের কেউ মসজিদে প্রবেশ করলে দুই রাকাত না পড়ে যেন না বসে।" (বুখারী ৪৪৪, মুসলিম ৭১৪)। হানাফি মাযহাবে নিষিদ্ধ সময়ে পড়া হয় না; শাফিয়ী মাযহাবে কারণযুক্ত নামাজ হিসেবে যেকোনো সময় বৈধ।' },
+    noteBn: 'নবী ﷺ বলেছেন: "তোমাদের কেউ মসজিদে প্রবেশ করলে দুই রাকাত না পড়ে যেন না বসে।" (বুখারী ৪৪৪, মুসলিম ৭১৪)। হানাফি মাযহাবে নিষিদ্ধ সময়গুলোতে এটি পড়া হয় না; শাফিয়ী মাযহাবে এটি নির্দিষ্ট কারণে পড়া নামাজ, তাই যেকোনো সময় পড়া যায়।' },
   { id: 'tahiyyatul_wudu', emoji: '💧',
     nameEn: 'Tahiyyat al-Wudu (Prayer after Ablution)', nameBn: 'তাহিয়্যাতুল অজু (অজুর পরের নামাজ)',
-    whenEn: 'Any time right after completing wudu, while the limbs are still fresh', whenBn: 'অজু শেষ করার পরপরই, যেকোনো সময়',
+    whenEn: 'Any time right after completing wudu, while the limbs are still fresh', whenBn: 'অজু শেষ করার পরপরই, অঙ্গগুলো ভেজা থাকতেই; যেকোনো সময়',
     rakatEn: '2 rak\'ahs (nafl), prayed with presence of heart, without worldly distraction.', rakatBn: '২ রাকাত (নফল), মনোযোগের সাথে, দুনিয়াবি চিন্তামুক্ত হয়ে।',
     noteEn: 'The Prophet ﷺ said: "Whoever performs wudu like this wudu of mine, then prays two rak\'ahs in which he does not let his mind wander, his previous sins are forgiven." (Bukhari 159, Muslim 226). He ﷺ heard Bilal\'s footsteps in Paradise because Bilal prayed two rak\'ahs after every wudu (Bukhari 1149).',
     noteBn: 'নবী ﷺ বলেছেন: "যে আমার এই অজুর মতো অজু করে, তারপর মনোযোগ নষ্ট না করে দুই রাকাত পড়ে, তার পূর্বের গুনাহ মাফ হয়।" (বুখারী ১৫৯, মুসলিম ২২৬)। বিলাল (রা.) প্রতি অজুর পর ২ রাকাত পড়তেন বলে নবী ﷺ জান্নাতে তাঁর পদধ্বনি শোনেন (বুখারী ১১৪৯)।' },
@@ -1214,7 +1214,7 @@ const SALAH_SPECIAL = [
     noteBn: 'ইবন উমর (রা.) বলেন: নবী ﷺ সিজদার আয়াতসহ সূরা পড়ে সিজদা করতেন, আমরাও তাঁর সাথে সিজদা করতাম (বুখারী ১০৭৫)। হানাফি মাযহাবে ওয়াজিব; অধিকাংশের মতে সুন্নাতে মুয়াক্কাদা। আদম সন্তানকে সিজদা করতে দেখে শয়তান কাঁদতে কাঁদতে সরে যায় (মুসলিম ৮১)।' },
   { id: 'rawatib', emoji: '🏠',
     nameEn: 'Sunan al-Rawatib (Confirmed Daily Sunnahs)', nameBn: 'সুনানে রাওয়াতিব (দৈনিক সুন্নাতে মুয়াক্কাদা)',
-    whenEn: 'Attached to the five daily fard prayers, before or after them', whenBn: 'পাঁচ ওয়াক্ত ফরজ নামাজের আগে বা পরে, তার সাথে সংযুক্ত',
+    whenEn: 'Attached to the five daily fard prayers, before or after them', whenBn: 'পাঁচ ওয়াক্ত ফরজ নামাজের সঙ্গে জুড়ে থাকা, ফরজের আগে বা পরে',
     rakatEn: '12 rak\'ahs daily: 2 before Fajr, 4 before Dhuhr and 2 after, 2 after Maghrib, 2 after Isha.', rakatBn: 'দৈনিক ১২ রাকাত: ফজরের আগে ২, যোহরের আগে ৪ ও পরে ২, মাগরিবের পরে ২, ইশার পরে ২।',
     noteEn: 'Umm Habibah (RA) narrated: "Whoever prays twelve rak\'ahs (of sunnah) in a day and night, a house will be built for him in Paradise." (Muslim 728; detailed breakdown in Tirmidhi 415). The 2 rak\'ahs before Fajr are the most emphasized — "better than the world and all it contains" (Muslim 725).',
     noteBn: 'উম্মে হাবিবা (রা.) বর্ণিত: "যে দিনে-রাতে (সুন্নাতের) বারো রাকাত পড়বে, তার জন্য জান্নাতে ঘর নির্মিত হবে।" (মুসলিম ৭২৮; বিস্তারিত তিরমিযি ৪১৫)। ফজরের আগের ২ রাকাত সর্বাধিক গুরুত্বপূর্ণ — "দুনিয়া ও তার সবকিছুর চেয়ে উত্তম" (মুসলিম ৭২৫)।' },
@@ -1223,7 +1223,7 @@ const SALAH_SPECIAL = [
 const SALAH_HADITH = [
   {
     textEn: 'The first thing the servant will be called to account for on the Day of Resurrection from his deeds will be prayer. If it is sound, all his other deeds will be sound; if it is corrupt, all his other deeds will be corrupt.',
-    textBn: 'কিয়ামতের দিন বান্দার আমলসমূহের মধ্যে সর্বপ্রথম নামাজের হিসাব নেওয়া হবে। নামাজ সঠিক হলে সে সফলকাম হবে; নামাজ নষ্ট হলে সে ব্যর্থ ও ক্ষতিগ্রস্ত হবে।',
+    textBn: 'কিয়ামতের দিন বান্দার আমলগুলোর মধ্যে সবার আগে নামাজের হিসাব নেওয়া হবে। নামাজ ঠিক থাকলে তার বাকি সব আমলও ঠিক থাকবে; আর নামাজ নষ্ট হলে বাকি সব আমলও নষ্ট হয়ে যাবে।',
     srcEn: 'Sunan al-Tirmidhi & Sunan al-Nasa\'i — reported by Abu Hurairah (RA)',
     srcBn: 'তিরমিযি ও নাসায়ী — আবু হুরায়রা (রা.) বর্ণিত'
   },
@@ -1235,25 +1235,25 @@ const SALAH_HADITH = [
   },
   {
     textEn: 'The key to Paradise is prayer, and the key to prayer is purification (wudu).',
-    textBn: 'জান্নাতের চাবি নামাজ, আর নামাজের চাবি হলো পবিত্রতা।',
+    textBn: 'জান্নাতের চাবি নামাজ, আর নামাজের চাবি পবিত্রতা (অজু)।',
     srcEn: 'Musnad Ahmad, Sunan al-Tirmidhi — reported by Jabir (RA)',
     srcBn: 'মুসনাদ আহমাদ, তিরমিযি — জাবির (রা.) বর্ণিত'
   },
   {
     textEn: 'Prayer in congregation is twenty-seven times more excellent than prayer offered alone.',
-    textBn: 'জামাতে নামাজ একাকী নামাজের চেয়ে সাতাশ গুণ শ্রেষ্ঠ।',
+    textBn: 'জামাতে নামাজ একা পড়া নামাজের চেয়ে সাতাশ গুণ বেশি মর্যাদার।',
     srcEn: 'Sahih al-Bukhari & Sahih Muslim — reported by Ibn Umar (RA)',
     srcBn: 'সহিহ বুখারি ও সহিহ মুসলিম — ইবন উমর (রা.) বর্ণিত'
   },
   {
     textEn: 'Three things have been made beloved to me in this world of yours: women, perfume — and the cool comfort of my eyes has been placed in prayer.',
-    textBn: 'তোমাদের দুনিয়া থেকে তিনটি জিনিস আমার কাছে প্রিয় করা হয়েছে: নারী, সুগন্ধি — আর নামাজকে আমার চোখের শীতলতা বানানো হয়েছে।',
+    textBn: 'তোমাদের দুনিয়ার তিনটি জিনিস আমার কাছে প্রিয় করা হয়েছে: নারী ও সুগন্ধি; আর নামাজে রাখা হয়েছে আমার চোখের শীতলতা।',
     srcEn: 'Musnad Ahmad, Sunan al-Nasa\'i — reported by Anas ibn Malik (RA)',
     srcBn: 'মুসনাদ আহমাদ, নাসায়ী — আনাস ইবন মালিক (রা.) বর্ণিত'
   },
   {
     textEn: 'Pray as you have seen me pray.',
-    textBn: 'নামাজ পড়ো যেভাবে আমাকে নামাজ পড়তে দেখছ।',
+    textBn: 'আমাকে যেভাবে নামাজ পড়তে দেখেছ, সেভাবে নামাজ পড়ো।',
     srcEn: 'Sahih al-Bukhari — reported by Malik ibn al-Huwairith (RA)',
     srcBn: 'সহিহ বুখারি — মালিক ইবনুল হুওয়াইরিস (রা.) বর্ণিত'
   },
@@ -1265,7 +1265,7 @@ const SALAH_HADITH = [
   },
   {
     textEn: 'Whoever forgets a prayer, let him pray it when he remembers it. There is no expiation for it other than that.',
-    textBn: 'যে ব্যক্তি নামাজ ভুলে যায়, স্মরণ হলে তখনই পড়ে নিক। এর কোনো কাফফারা নেই এটি ছাড়া।',
+    textBn: 'কেউ নামাজের কথা ভুলে গেলে, যখন মনে পড়বে তখনই যেন পড়ে নেয়। এ ছাড়া এর আর কোনো কাফফারা নেই।',
     srcEn: 'Sahih al-Bukhari & Sahih Muslim — reported by Anas ibn Malik (RA)',
     srcBn: 'সহিহ বুখারি ও সহিহ মুসলিম — আনাস ইবন মালিক (রা.) বর্ণিত'
   },
@@ -1277,19 +1277,19 @@ const SALAH_HADITH = [
   },
   {
     textEn: 'Verily, prayer prohibits indecency and wrongdoing. And the remembrance of Allah is greater.',
-    textBn: 'নিশ্চয়ই নামাজ অশ্লীলতা ও মন্দ কাজ থেকে বিরত রাখে। আল্লাহর স্মরণ সর্বশ্রেষ্ঠ।',
+    textBn: 'নিশ্চয়ই নামাজ অশ্লীলতা ও মন্দ কাজ থেকে বিরত রাখে। আর আল্লাহর জিকিরই সবচেয়ে বড়।',
     srcEn: 'Quran 29:45',
     srcBn: 'কুরআন ২৯:৪৫'
   },
   {
     textEn: 'The best of deeds is prayer performed at its proper time, then kindness to parents, then jihad in the path of Allah.',
-    textBn: 'সর্বোত্তম আমল হলো নামাজ তার নির্ধারিত সময়ে পড়া, তারপর পিতামাতার সাথে সদ্ব্যবহার, তারপর আল্লাহর পথে জিহাদ।',
+    textBn: 'সর্বোত্তম আমল হলো সময়মতো নামাজ পড়া, তারপর মা-বাবার সঙ্গে সদ্ব্যবহার, তারপর আল্লাহর পথে জিহাদ।',
     srcEn: 'Sahih al-Bukhari & Sahih Muslim — reported by Ibn Masud (RA)',
     srcBn: 'সহিহ বুখারি ও সহিহ মুসলিম — ইবন মাসউদ (রা.) বর্ণিত'
   },
   {
     textEn: 'The best prayer after the obligatory prayers is the night prayer (salah al-layl).',
-    textBn: 'ফরয নামাজের পর সর্বোত্তম নামাজ হলো রাতের নামাজ।',
+    textBn: 'ফরজ নামাজের পর সর্বোত্তম নামাজ হলো রাতের নামাজ (সালাতুল লাইল)।',
     srcEn: 'Sahih Muslim — reported by Abu Hurairah (RA)',
     srcBn: 'সহিহ মুসলিম — আবু হুরায়রা (রা.) বর্ণিত'
   },
@@ -1301,7 +1301,7 @@ const SALAH_HADITH = [
   },
   {
     textEn: 'Whoever prays Fajr in congregation is under the protection of Allah. Do not let anything cause you to lose that protection.',
-    textBn: 'যে ব্যক্তি ফজরের নামাজ জামাতে পড়ে সে আল্লাহর সুরক্ষায় থাকে। তোমরা তাকে সেই সুরক্ষা থেকে বঞ্চিত করো না।',
+    textBn: 'যে ফজরের নামাজ জামাতে পড়ে, সে আল্লাহর হেফাজতে থাকে। কোনো কিছুর কারণে তোমরা সেই হেফাজত হারিয়ে ফেলো না।',
     srcEn: 'Sahih Muslim — reported by Jundub ibn Abdullah (RA)',
     srcBn: 'সহিহ মুসলিম — জুনদুব ইবন আবদুল্লাহ (রা.) বর্ণিত'
   },
@@ -1313,21 +1313,21 @@ const SALAH_HADITH = [
   },
   {
     textEn: 'The prayer of a person in congregation is twenty-five (or twenty-seven) times greater (in reward) than their prayer alone at home or in the marketplace.',
-    textBn: 'জামাতে নামাজ পড়া একাকী বাড়িতে বা বাজারে পড়ার চেয়ে পঁচিশ (বা সাতাশ) গুণ বেশি সওয়াবের।',
+    textBn: 'জামাতে নামাজ পড়লে বাড়িতে বা বাজারে একা পড়ার চেয়ে পঁচিশ (বা সাতাশ) গুণ বেশি সওয়াব হয়।',
     srcEn: 'Sahih al-Bukhari & Sahih Muslim — reported by Ibn Umar (RA) & Abu Hurairah (RA)',
     srcBn: 'সহিহ বুখারি ও সহিহ মুসলিম — ইবন উমর (রা.) ও আবু হুরায়রা (রা.) বর্ণিত'
   },
   {
     textEn: 'Whoever says "Subhanallah" (Glory be to Allah) 33 times, "Alhamdulillah" (All praise is for Allah) 33 times, and "Allahu Akbar" (Allah is the Greatest) 33 times after every prayer — these are 99, then completes the hundred with "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa \'ala kulli shay\'in qadir" — their sins will be forgiven even if they are like the foam of the sea.',
-    textBn: 'যে ব্যক্তি প্রতিটি ফরজ নামাজের পর ৩৩ বার সুবহানাল্লাহ, ৩৩ বার আলহামদুলিল্লাহ, ৩৩ বার আল্লাহু আকবার পড়ে — এগুলো ৯৯ — তারপর "লা ইলাহা ইল্লাল্লাহু ওয়াহদাহু লা শারিকা লাহু, লাহুল মুলকু ওয়া লাহুল হামদু ওয়া হুয়া আলা কুল্লি শাইয়িন কাদির" দিয়ে ১০০ পূর্ণ করে — তার গুনাহ মাফ হয়ে যাবে, সাগরের ফেনার মতো হলেও।',
+    textBn: 'যে প্রতিটি নামাজের পর ৩৩ বার সুবহানাল্লাহ (আল্লাহ পবিত্র), ৩৩ বার আলহামদুলিল্লাহ (সব প্রশংসা আল্লাহর) এবং ৩৩ বার আল্লাহু আকবার (আল্লাহ সবচেয়ে বড়) বলে, এই হলো ৯৯ বার; তারপর "লা ইলাহা ইল্লাল্লাহু ওয়াহদাহু লা শারিকা লাহু, লাহুল মুলকু ওয়া লাহুল হামদু ওয়া হুয়া আলা কুল্লি শাইয়িন কাদির" বলে ১০০ পূর্ণ করে, তার গুনাহ সাগরের ফেনার সমান হলেও মাফ করে দেওয়া হবে।',
     srcEn: 'Sahih al-Bukhari & Sahih Muslim — reported by Abu Hurairah (RA)',
     srcBn: 'সহিহ বুখারি ও সহিহ মুসলিম — আবু হুরায়রা (রা.) বর্ণিত'
   },
   {
     textEn: 'The Messenger of Allah ﷺ said: "Jibreel (AS) taught me how to pray the Eid prayer: 7 takbirs in the first rak\'ah before the recitation, and 5 takbirs in the second rak\'ah before the recitation."',
-    textBn: 'রাসূলুল্লাহ ﷺ বলেছেন: জিবরীল (আ.) আমাকে ঈদের নামাজ পড়াতে এসে বলেন: প্রথম রাকাতে তিলাওয়াতের আগে ৭ তাকবির এবং দ্বিতীয় রাকাতে ৫ তাকবির।',
+    textBn: 'রাসূলুল্লাহ ﷺ বলেছেন: "জিবরীল (আঃ) আমাকে ঈদের নামাজ পড়ার নিয়ম শিখিয়েছেন: প্রথম রাকাতে কিরাতের আগে ৭ তাকবির, আর দ্বিতীয় রাকাতে কিরাতের আগে ৫ তাকবির।"',
     srcEn: 'Sunan Abu Dawud, Sunan al-Tirmidhi — reported from Amr ibn Shu\'ayb from his father from his grandfather',
-    srcBn: 'সুনান আবু দাউদ, তিরমিযি — বর্ণিত: আমর ইবন শুয়াইব তার পিতা থেকে তার দাদা থেকে'
+    srcBn: 'সুনান আবু দাউদ, তিরমিযি — আমর ইবন শুয়াইব তাঁর পিতা থেকে, তিনি তাঁর দাদা থেকে বর্ণনা করেছেন'
   },
 ];
 

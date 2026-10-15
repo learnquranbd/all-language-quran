@@ -37,6 +37,11 @@ the state, kept short on purpose. Full history of earlier rounds:
   spellings তাজবীদ মক্কী মাদানী + streak = টানা (bn.js SPELL list keeps them), 18 EN slips fixed (C8 chunk retranslating).
   Open EN: MUSTAHABB_ITEMS 6.titleEn "Entering & Exiting with the Right Foot" vs its own desc (exit with left);
   NAFL_ITEMS 5.descEn calls Umrah voluntary then obligatory (Shafi'i/Hanbali).
+- Prayer guide (learn-prayer-data.js) open items for USER: Hanafi audience but the guide shows non-Hanafi positions
+  without a note (7/5 Eid takbirs, combining prayers when travelling, 85 km travel distance, Fatiha after the first
+  Janazah takbir). EN citation doubts: SALAH_TASBEEH 17 credits 10x3 tasbih to Muslim 597 (that is 33/33/33); HADITH 16
+  "Bukhari & Muslim" is Muslim only; HADITH 0 wording; HADITH 4 "Three things" and 17 "Jibreel" not in cited texts;
+  SPECIAL 17 Awwabin "12 years" hadith very weak, no grade; SPECIAL 18 fear-prayer rak'ah wording inconsistent.
 - v957: Bengali review DONE for WHY_ISLAM_DATA (433), SURAH_NAME_NOTES (324) + SURAHNAMES_UI, MUTASHABIHAT_GROUPS (130),
   PROPHET_ARTICLES (303), NAMES_99 (454): ~1,650 strings; all six files now enforced by tests/check-bangla-style.js.
   Biggest finding: much Bengali had DROPPED English sentences or said the opposite; restored. Stopped at 88-89% 7d.
