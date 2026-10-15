@@ -47,7 +47,9 @@ function check(id, en, oldBn, nb) {
   if (typeof nb !== 'string' || !nb.trim()) e.push('empty');
   else {
     if (digits(nb) !== digits(oldBn) && digits(nb) !== digits(en)) e.push(`numbers differ (old: ${digits(oldBn)} | new: ${digits(nb)})`);
-    if (marks(nb) !== marks(oldBn)) e.push(`honorifics differ (ﷺ,রাঃ,আঃ,রা,আ: ${marks(oldBn)} -> ${marks(nb)})`);
+    // an honorific may be added (a restored clause naming the Prophet ﷺ) but never dropped
+    const o = marks(oldBn).split(',').map(Number), n = marks(nb).split(',').map(Number);
+    if (n.some((x, i) => x < o[i])) e.push(`honorific dropped (ﷺ,রাঃ,আঃ,রা,আ: ${o} -> ${n})`);
     if ((nb.match(/—/g) || []).length > 2) e.push('more than 2 em dashes');
     for (const w of BAD_WORDS) if (nb.includes(w)) e.push('wrong-register word ' + w);
     if (/[a-zA-Z]{4,}/.test(nb.replace(/https?:\S+/g, '')) && !/[a-zA-Z]{4,}/.test(oldBn)) e.push('Latin text added');

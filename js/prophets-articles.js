@@ -837,11 +837,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Grown to full strength and given judgement and knowledge (28:14), he intervened in a fight and struck a man who died. He did not excuse himself: this is from the work of Satan; my Lord, I have wronged myself, so forgive me (28:15-16). Warned that the chiefs were conferring to kill him, he left the city fearful and watchful (28:20-21).",
-            bn: "পূর্ণ শক্তিতে পৌঁছে এবং প্রজ্ঞা ও জ্ঞান লাভ করে (28:14) তিনি এক সংঘর্ষে হস্তক্ষেপ করেন ও এক ব্যক্তিকে আঘাত করেন, যে মারা যায়। তিনি নিজেকে সাফাই দেননি: এ তো শয়তানের কাজ; হে আমার প্রভু, আমি নিজের ওপর জুলুম করেছি, আমাকে ক্ষমা করুন (28:15-16)। নেতারা তাঁকে হত্যার পরামর্শ করছে — এ সংবাদ পেয়ে তিনি ভীত ও সতর্ক অবস্থায় নগর ছাড়েন (28:20-21)।",
+            bn: "যৌবনে পূর্ণ শক্তিতে পৌঁছালে আল্লাহ তাঁকে প্রজ্ঞা ও জ্ঞান দান করেন (28:14)। একদিন এক মারামারির মাঝে গিয়ে তিনি এক লোককে আঘাত করেন, আর লোকটি মারা যায়। তিনি নিজের পক্ষে কোনো অজুহাত দাঁড় করাননি; বলেছেন: এ তো শয়তানের কাজ; হে আমার প্রভু, আমি নিজের ওপর জুলুম করেছি, আমাকে ক্ষমা করুন (28:15-16)। পরে খবর এল, নেতারা তাঁকে হত্যার পরামর্শ করছে। তিনি ভয়ে ভয়ে, চারদিকে সতর্ক নজর রেখে শহর ছেড়ে বেরিয়ে পড়েন (28:20-21)।",
           },
           {
             en: "At the well of Madyan he found two women holding their flock back until the shepherds finished. He watered for them, withdrew to the shade and said: my Lord, I am in need of whatever good You send down to me (28:23-24). One of them proposed he be hired, with a line the Quran keeps as a rule: the best you can hire is the strong and the trustworthy (28:26).",
-            bn: "মাদইয়ানের কূপে তিনি দেখেন দুই নারী নিজেদের পাল আটকে রেখেছে, যতক্ষণ না রাখালেরা সরে যায়। তিনি তাদের পশুদের পানি পান করান, ছায়ায় সরে গিয়ে বলেন: হে আমার প্রভু, আপনি আমার প্রতি যে কল্যাণই নাযিল করুন, আমি তার মুখাপেক্ষী (28:23-24)। তাদের একজন প্রস্তাব করে তাঁকে কাজে নিতে — সেই বাক্যটি কুরআন নীতি হিসেবেই রেখে দিয়েছে: আপনি যাকে কাজে নেবেন তাদের মধ্যে উত্তম সেই, যে শক্তিশালী ও বিশ্বস্ত (28:26)।",
+            bn: "মাদইয়ানের কূপের ধারে তিনি দেখেন, দুই নারী নিজেদের পশুগুলো আটকে রেখে দাঁড়িয়ে আছে; রাখালেরা পানি খাওয়ানো শেষ না করা পর্যন্ত তারা এগোবে না। তিনি তাদের পশুগুলোকে পানি খাইয়ে দেন, তারপর ছায়ায় গিয়ে বলেন: হে আমার প্রভু, আপনি আমার প্রতি যে কল্যাণই নাজিল করবেন, আমি তার মুখাপেক্ষী (28:23-24)। তাদের একজন তাঁকে কাজে রাখার প্রস্তাব দেয়। তার কথাটি কুরআন একটি নীতি হিসেবেই রেখে দিয়েছে: কাজে রাখার জন্য সবচেয়ে ভালো সেই লোক, যে শক্তিশালী ও বিশ্বস্ত (28:26)।",
           },
         ],
       },
@@ -850,11 +850,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "He contracted for eight years, and completing ten was left to him, on a contract sealed with the words that Allah is witness over what they said (28:27-28); al-Bukhari records Ibn Abbas (RA) saying he completed the longer and better term. Years later, travelling with his family, he saw a fire on the side of the mount and turned aside for it (28:29). He was called from the blessed spot: remove your sandals, you are in the sacred valley of Tuwa (20:11-12).",
-            bn: "তিনি আট বছর খেদমতের চুক্তি করেন, আর দশ পূর্ণ করা তাঁর ইচ্ছার ওপর ছাড়া হয় — চুক্তিটি সিলমোহর হয় এই কথায় যে তাঁরা যা বলছেন আল্লাহ তার সাক্ষী (28:27-28); বুখারিতে ইবনে আব্বাস (রাঃ) বলেন, তিনি দীর্ঘতর ও উত্তম মেয়াদটিই পূর্ণ করেছিলেন। বছর পেরিয়ে, পরিবারসহ সফরকালে তিনি পাহাড়ের পাশে আগুন দেখেন এবং সেদিকে এগিয়ে যান (28:29)। বরকতময় স্থান থেকে তাঁকে ডাকা হয়: তোমার জুতা খুলে ফেলো, তুমি পবিত্র উপত্যকা তুওয়ায় আছ (20:11-12)।",
+            bn: "তিনি আট বছর কাজ করার চুক্তি করেন; দশ বছর পূর্ণ করবেন কি না, তা তাঁর ইচ্ছার ওপর ছেড়ে দেওয়া হয়। চুক্তি পাকা হয় এই কথায় যে, তাঁরা যা বলছেন আল্লাহ তার সাক্ষী (28:27-28)। বুখারির বর্ণনায় ইবনে আব্বাস (রাঃ) বলেছেন, তিনি দুই মেয়াদের মধ্যে দীর্ঘ ও উত্তমটিই পূর্ণ করেছিলেন। বহু বছর পর পরিবার নিয়ে সফরের পথে তিনি পাহাড়ের পাশে আগুন দেখতে পান এবং সেদিকে এগিয়ে যান (28:29)। বরকতময় স্থান থেকে তাঁকে ডাক দেওয়া হয়: তোমার জুতা খুলে ফেলো, তুমি পবিত্র উপত্যকা তুওয়ায় আছ (20:11-12)।",
           },
           {
             en: "Then came the sentence that turned a fugitive shepherd into a messenger: indeed I am Allah, there is no god but Me, so worship Me and establish the prayer for My remembrance (20:14). He was shown the staff that became a moving serpent and the hand that came out white without harm (20:17-22), and was sent to Pharaoh, who had transgressed (20:24).",
-            bn: "এরপর এল সেই বাক্য যা এক পলাতক রাখালকে রাসূলে রূপান্তরিত করে: নিশ্চয়ই আমিই আল্লাহ, আমি ছাড়া কোনো ইলাহ নেই; সুতরাং আমার ইবাদত করো এবং আমার স্মরণে নামাজ কায়েম করো (20:14)। তাঁকে দেখানো হয় সেই লাঠি যা চলমান সাপ হয়ে যায়, আর সেই হাত যা কোনো ক্ষতি ছাড়াই সাদা হয়ে বের হয় (20:17-22); এরপর তাঁকে পাঠানো হয় ফেরাউনের কাছে, যে সীমা ছাড়িয়ে গিয়েছিল (20:24)।",
+            bn: "তারপর এল সেই কথা, আর পলাতক এক রাখাল হয়ে গেলেন রাসূল: নিশ্চয়ই আমিই আল্লাহ, আমি ছাড়া কোনো ইলাহ নেই; সুতরাং আমার ইবাদত করো এবং আমার স্মরণে নামাজ কায়েম করো (20:14)। তাঁকে নিদর্শন দেখানো হয়: হাতের লাঠি হয়ে যায় ছুটন্ত সাপ, আর হাত বেরিয়ে আসে ধবধবে সাদা হয়ে, কোনো ক্ষতি ছাড়াই (20:17-22)। তারপর তাঁকে পাঠানো হয় ফেরাউনের কাছে, যে সীমা ছাড়িয়ে গিয়েছিল (20:24)।",
           },
         ],
       },
@@ -867,7 +867,7 @@ var PROPHET_ARTICLES = {
           },
           {
             en: "Musa answered that the favour being held over him was that Pharaoh had enslaved the Children of Israel (26:22). The contest was then set for a day of festival. The magicians threw their ropes and staffs and bewitched the eyes of the people, and Musa's staff swallowed what they had falsified (7:116-117). The men who understood illusion best knew at once that this was not illusion.",
-            bn: "মূসা জবাব দেন, যে অনুগ্রহের খোঁটা দেওয়া হচ্ছে তা তো এই যে ফেরাউন বনী ইসরাঈলকে দাস বানিয়ে রেখেছে (26:22)। এরপর প্রতিযোগিতার দিন ধার্য হয় উৎসবের দিনে। জাদুকরেরা তাদের রশি ও লাঠি নিক্ষেপ করে মানুষের চোখে ভেলকি লাগায়, আর মূসার লাঠি তাদের বানানো মিথ্যা গিলে ফেলে (7:116-117)। যারা ভেলকির কারিগরি সবচেয়ে ভালো বুঝত, তারাই তৎক্ষণাৎ বুঝে যায় এটি ভেলকি নয়।",
+            bn: "মূসা জবাব দেন, যে অনুগ্রহের খোঁটা দেওয়া হচ্ছে, তার আসল চেহারা তো এই: ফেরাউন বনী ইসরাঈলকে গোলাম বানিয়ে রেখেছে (26:22)। এরপর মোকাবিলার দিন ঠিক হয় উৎসবের দিনে। জাদুকরেরা তাদের রশি ও লাঠি ছুড়ে মানুষের চোখে ভেলকি লাগায়, আর মূসার লাঠি তাদের সব বানোয়াট কারসাজি গিলে ফেলে (7:116-117)। ভেলকির কারবার যারা সবচেয়ে ভালো বুঝত, তারাই সঙ্গে সঙ্গে বুঝে গেল: এ ভেলকি নয়।",
           },
         ],
       },
@@ -893,7 +893,7 @@ var PROPHET_ARTICLES = {
           },
           {
             en: "He came back with the tablets, told to take them with strength and to order his people to hold to the best in them (7:145), and found them worshipping a calf the Samiri had made (20:85-88). Harun had warned them that they were only being tested by it (20:90). Musa returned angry and grieved, threw down the tablets and seized his brother, then prayed for forgiveness for them both (7:150-151).",
-            bn: "তিনি ফিরে আসেন ফলকগুলো নিয়ে — নির্দেশ ছিল তা দৃঢ়ভাবে ধরতে এবং সম্প্রদায়কে বলতে যেন তারা তার উত্তম বিষয়গুলো গ্রহণ করে (7:145) — আর দেখেন তারা সামিরির বানানো এক বাছুরের পূজা করছে (20:85-88)। হারুন তাদের সতর্ক করেছিলেন যে এর দ্বারা তাদের পরীক্ষা করা হচ্ছে (20:90)। মূসা ক্রুদ্ধ ও ব্যথিত হয়ে ফেরেন, ফলকগুলো রেখে দেন ও ভাইকে ধরেন, এরপর দুজনের জন্যই ক্ষমা প্রার্থনা করেন (7:150-151)।",
+            bn: "তিনি ফলকগুলো নিয়ে ফিরে আসেন। নির্দেশ ছিল, সেগুলো শক্ত করে ধরবেন এবং সম্প্রদায়কে বলবেন, তারা যেন এর উত্তম বিধানগুলো আঁকড়ে থাকে (7:145)। কিন্তু এসে দেখেন, লোকেরা সামিরির বানানো এক বাছুরের পূজা করছে (20:85-88)। অথচ হারুন তাদের সাবধান করে দিয়েছিলেন, এ দিয়ে তোমাদের কেবল পরীক্ষা করা হচ্ছে (20:90)। মূসা রাগে-দুঃখে কাতর হয়ে ফলকগুলো ফেলে দেন, ভাইকে চেপে ধরেন, তারপর দুজনের জন্যই ক্ষমা চেয়ে দোয়া করেন (7:150-151)।",
           },
         ],
       },
@@ -902,11 +902,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Al-Bukhari records that Musa was asked which person had the most knowledge and answered that it was himself, whereupon Allah directed him to a servant at the meeting of the two seas who knew what he did not. The Quran calls him one given mercy from Allah and taught knowledge from Him (18:65). Musa asked to follow him and was told he could not bear it patiently (18:66-67).",
-            bn: "বুখারি বর্ণনা করেন, মূসাকে জিজ্ঞেস করা হয়েছিল কোন ব্যক্তি সবচেয়ে জ্ঞানী; তিনি বলেছিলেন, তিনিই। তখন আল্লাহ তাঁকে দুই সমুদ্রের সঙ্গমস্থলের এক বান্দার দিকে পাঠান, যিনি এমন কিছু জানতেন যা তিনি জানতেন না। কুরআন তাঁকে বলে, যাঁকে আল্লাহ নিজের পক্ষ থেকে রহমত ও জ্ঞান দিয়েছেন (18:65)। মূসা তাঁর সঙ্গী হতে চাইলে তাঁকে বলা হয়, তিনি ধৈর্য ধরতে পারবেন না (18:66-67)।",
+            bn: "বুখারির বর্ণনায় আছে, মূসাকে জিজ্ঞেস করা হয়েছিল, মানুষের মধ্যে সবচেয়ে বেশি জ্ঞান কার। তিনি বলেছিলেন, আমার। তখন আল্লাহ তাঁকে দুই সাগরের মিলনস্থলে এক বান্দার কাছে পাঠান, যিনি এমন কিছু জানতেন যা মূসা জানতেন না। কুরআন তাঁর পরিচয় দেয় এভাবে: আল্লাহ যাঁকে নিজের পক্ষ থেকে রহমত দিয়েছেন এবং নিজের কাছ থেকে জ্ঞান শিখিয়েছেন (18:65)। মূসা তাঁর সঙ্গে চলার অনুমতি চাইলে তিনি জানিয়ে দেন, আপনি আমার সঙ্গে ধৈর্য ধরে থাকতে পারবেন না (18:66-67)।",
           },
           {
             en: "A ship was damaged, a boy was killed, a wall was rebuilt without pay, and Musa objected each time until they parted (18:71-78). The explanations reversed every appearance: the ship was flawed to save it from a king who seized ships, and the wall stood over a treasure belonging to two orphans whose father had been righteous (18:79-82). Even the prophet who spoke with Allah was shown he did not see everything.",
-            bn: "একটি নৌকা ছিদ্র করা হয়, এক বালককে হত্যা করা হয়, একটি প্রাচীর বিনা পারিশ্রমিকে সোজা করে দেওয়া হয় — প্রতিবারই মূসা আপত্তি করেন, শেষে তাঁরা পৃথক হয়ে যান (18:71-78)। ব্যাখ্যাগুলো প্রতিটি বাহ্যিক চেহারা উল্টে দেয়: নৌকাটি ত্রুটিযুক্ত করা হয়েছিল যাতে নৌকা ছিনিয়ে নেওয়া এক রাজার হাত থেকে তা বাঁচে, আর প্রাচীরটির নিচে ছিল দুই এতিম বালকের গুপ্তধন, যাদের পিতা ছিলেন সৎকর্মশীল (18:79-82)। যিনি আল্লাহর সঙ্গে কথা বলেছেন, সেই নবীকেও দেখানো হলো যে সব কিছু তিনি দেখেন না।",
+            bn: "নৌকায় ছিদ্র করা হয়, এক বালককে হত্যা করা হয়, বিনা মজুরিতে একটি দেয়াল মেরামত করে দেওয়া হয়। প্রতিবারই মূসা আপত্তি তোলেন, শেষে দুজনের পথ আলাদা হয়ে যায় (18:71-78)। ব্যাখ্যা শুনে দেখা গেল, বাইরে যা দেখা গিয়েছিল, ভেতরের সত্য তার উল্টো। নৌকায় খুঁত করা হয়েছিল যেন এক রাজা সেটি কেড়ে নিতে না পারে; সে রাজা নৌকা পেলেই জোর করে নিয়ে নিত। আর দেয়ালের নিচে ছিল দুই এতিম বালকের গুপ্তধন, যাদের বাবা ছিলেন নেককার (18:79-82)। যে নবী আল্লাহর সঙ্গে কথা বলেছেন, তাঁকেও দেখিয়ে দেওয়া হলো: সবকিছু তিনি দেখতে পান না।",
           },
         ],
       },
@@ -919,11 +919,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Harun (AS) enters the Quran as an answered prayer. Sent to Pharaoh, Musa asked for his chest to be expanded and his task eased, then added: appoint for me a minister from my family, Harun my brother; increase my strength through him and let him share my task (20:29-32). The reply was immediate — you have been granted your request, O Musa (20:36).",
-            bn: "হারুন (আঃ) কুরআনে প্রবেশ করেন একটি কবুল হওয়া দোয়া হিসেবে। ফেরাউনের কাছে প্রেরিত হয়ে মূসা প্রার্থনা করেন তাঁর বুক প্রশস্ত করা হোক ও কাজ সহজ করা হোক, এরপর যোগ করেন: আমার পরিবার থেকে আমার জন্য একজন সহকারী নিযুক্ত করুন — আমার ভাই হারুনকে; তাঁর দ্বারা আমার শক্তি বাড়ান এবং তাঁকে আমার কাজে শরিক করুন (20:29-32)। জবাব এল তৎক্ষণাৎ — হে মূসা, তোমার প্রার্থনা মঞ্জুর করা হলো (20:36)।",
+            bn: "কুরআনে হারুন (আঃ)-কে আমরা পাই একটি কবুল হওয়া দোয়া হিসেবে। ফেরাউনের কাছে যাওয়ার নির্দেশ পেয়ে মূসা দোয়া করেন, তাঁর বুক যেন প্রশস্ত করে দেওয়া হয়, কাজ যেন সহজ হয়। তারপর বলেন: আমার পরিবার থেকে আমার জন্য একজন সহকারী ঠিক করে দিন, আমার ভাই হারুনকে; তাঁকে দিয়ে আমার শক্তি বাড়িয়ে দিন, তাঁকে আমার কাজে শরিক করুন (20:29-32)। জবাব এল সঙ্গে সঙ্গে: হে মূসা, তুমি যা চেয়েছ তা তোমাকে দেওয়া হলো (20:36)।",
           },
           {
             en: "The reason is given in another surah: my brother Harun is more fluent than me in speech, so send him with me as support to confirm me, for I fear they will deny me (28:34). Allah answered that He would strengthen his arm through his brother (28:35). Elsewhere the appointment is described purely as a gift — and We gave him out of Our mercy his brother Harun, a prophet (19:53).",
-            bn: "কারণটি বলা হয়েছে অন্য এক সূরায়: আমার ভাই হারুন কথায় আমার চেয়ে বেশি বাকপটু, তাই তাঁকে আমার সঙ্গে সহায়ক করে পাঠান যেন তিনি আমাকে সমর্থন করেন; আমি আশঙ্কা করি তারা আমাকে মিথ্যা বলবে (28:34)। আল্লাহ জানান, তিনি ভাইয়ের মাধ্যমে তাঁর বাহু শক্ত করবেন (28:35)। অন্যত্র এই নিয়োগকে বলা হয়েছে নিছক এক দান — আমি আমার রহমতে তাঁকে দিলাম তাঁর ভাই হারুনকে, একজন নবী হিসেবে (19:53)।",
+            bn: "কেন চেয়েছিলেন, তা আছে আরেক সূরায়: আমার ভাই হারুন আমার চেয়ে বেশি বাকপটু; তাঁকে আমার সহায়ক করে পাঠান, তিনি আমার কথার সত্যতা সমর্থন করবেন; আমার ভয় হয়, তারা আমাকে মিথ্যাবাদী বলবে (28:34)। আল্লাহ জানান, ভাইকে দিয়ে তিনি তাঁর বাহু শক্ত করবেন (28:35)। আরেক জায়গায় এই নিয়োগকে দেখানো হয়েছে কেবলই এক দান হিসেবে: আমি নিজ রহমতে তাঁকে দিলাম তাঁর ভাই হারুনকে, নবী বানিয়ে (19:53)।",
           },
         ],
       },
@@ -932,7 +932,7 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "He was not an assistant standing behind a messenger. Go, both of you, to Pharaoh, for he has transgressed, and speak to him a gentle word, that perhaps he may be reminded or fear (20:43-44). When they said they feared he would hasten against them, the answer came to both: fear not, I am with you both, hearing and seeing (20:45-46).",
-            bn: "তিনি কোনো রাসূলের পেছনে দাঁড়ানো সহকারী ছিলেন না। তোমরা দুজন ফেরাউনের কাছে যাও, সে সীমা ছাড়িয়ে গেছে; আর তার সঙ্গে নম্র কথা বলো, হয়তো সে উপদেশ নেবে বা ভয় করবে (20:43-44)। তাঁরা যখন আশঙ্কা প্রকাশ করেন যে সে তাড়াহুড়ো করে ক্ষতি করবে, জবাব আসে দুজনের উদ্দেশেই: ভয় কোরো না, আমি তোমাদের দুজনের সঙ্গেই আছি, শুনছি ও দেখছি (20:45-46)।",
+            bn: "তিনি কেবল রাসূলের পেছনে দাঁড়িয়ে থাকা কোনো সহকারী ছিলেন না। নির্দেশ এসেছিল দুজনের প্রতিই: তোমরা দুজন ফেরাউনের কাছে যাও, সে সীমা ছাড়িয়ে গেছে; তার সঙ্গে নম্রভাবে কথা বলো, হয়তো সে উপদেশ নেবে বা ভয় পাবে (20:43-44)। তাঁরা যখন বললেন, আমাদের ভয় হয় সে তাড়াহুড়ো করে আমাদের ওপর চড়াও হবে, তখন জবাবও এল দুজনের প্রতি: ভয় কোরো না, আমি তোমাদের দুজনের সঙ্গেই আছি, শুনছি ও দেখছি (20:45-46)।",
           },
           {
             en: "In another telling, both are told to go with the signs of Allah and to say to Pharaoh that they are the messenger of the Lord of the worlds (26:15-16). 25:35 states it plainly: We gave Musa the Scripture and appointed with him his brother Harun as a helper. When the magicians believed they named the two together — the Lord of Musa and Harun (7:121-122).",
@@ -941,15 +941,15 @@ var PROPHET_ARTICLES = {
         ],
       },
       {
-        h: { en: "The Tongue That Was Needed", bn: "যে জিহ্বা প্রয়োজন ছিল" },
+        h: { en: "The Tongue That Was Needed", bn: "যে জবানের দরকার ছিল" },
         p: [
           {
             en: "The Quran links his role to his speech. Musa asked for the knot in his own tongue to be untied so his words would be understood (20:27-28), and named his brother as the more fluent of the two (28:34). Eloquence here is not ornament; it is the instrument by which a message reaches a hostile court. Allah gave the mission the voice it required, and that voice belonged to someone else.",
-            bn: "কুরআন তাঁর ভূমিকাকে যুক্ত করে তাঁর বাচনভঙ্গির সঙ্গে। মূসা প্রার্থনা করেছিলেন তাঁর জিহ্বার জড়তা খুলে দেওয়া হোক যাতে তাঁর কথা বোঝা যায় (20:27-28), আর ভাইকে বলেছিলেন দুজনের মধ্যে অধিক বাকপটু (28:34)। এখানে বাগ্মিতা অলংকার নয়; এটি সেই যন্ত্র যার মাধ্যমে বার্তা এক বৈরী দরবার পর্যন্ত পৌঁছায়। আল্লাহ এ দায়িত্বকে প্রয়োজনীয় কণ্ঠ দিয়েছেন, আর সে কণ্ঠ ছিল অন্য একজনের।",
+            bn: "কুরআনে তাঁর ভূমিকার সঙ্গে জড়িয়ে আছে তাঁর কথা বলার ক্ষমতা। মূসা দোয়া করেছিলেন, তাঁর জিহ্বার জড়তা যেন খুলে দেওয়া হয়, যাতে লোকে তাঁর কথা বোঝে (20:27-28)। আর ভাইয়ের ব্যাপারে বলেছিলেন, দুজনের মধ্যে তিনিই বেশি বাকপটু (28:34)। এখানে বাগ্মিতা সাজসজ্জা নয়; এ দিয়েই বার্তা পৌঁছায় শত্রুভাবাপন্ন রাজদরবারে। এই দায়িত্বে যে কণ্ঠের দরকার ছিল, আল্লাহ তা দিয়েছেন; আর সে কণ্ঠ ছিল আরেকজনের।",
           },
           {
             en: "The purpose of the partnership is stated by Musa himself: let him share my task, that we may glorify You much and remember You much, for You are ever seeing us (20:32-35). Two prophets were joined not to make the work efficient but to make the worship greater. 21:48 records the outcome — We gave Musa and Harun the criterion, a light, and a reminder for the righteous.",
-            bn: "এই অংশীদারিত্বের উদ্দেশ্য মূসা নিজেই বলেছেন: তাঁকে আমার কাজে শরিক করুন, যাতে আমরা আপনার অধিক পবিত্রতা ঘোষণা করি ও আপনাকে অধিক স্মরণ করি; আপনি তো আমাদের দেখছেন (20:32-35)। দুই নবীকে একত্র করা হয়েছিল কাজ দ্রুত করতে নয়, ইবাদত বাড়াতে। 21:48 ফলাফলটি লিপিবদ্ধ করে — আমি মূসা ও হারুনকে দিয়েছি ফুরকান, আলো ও মুত্তাকিদের জন্য উপদেশ।",
+            bn: "এই যুগল দায়িত্বের উদ্দেশ্য মূসা নিজেই বলে দিয়েছেন: তাঁকে আমার কাজে শরিক করুন, যাতে আমরা বেশি বেশি আপনার তাসবিহ পাঠ করি আর বেশি বেশি আপনার জিকির করি; আপনি তো সবসময় আমাদের দেখছেন (20:32-35)। দুই নবীকে একসঙ্গে করা হয়েছিল কাজের গতি বাড়াতে নয়, ইবাদত বাড়াতে। এর ফল জানায় 21:48: আমি মূসা ও হারুনকে দিয়েছি ফুরকান, আলো এবং মুত্তাকিদের জন্য উপদেশ।",
           },
         ],
       },
@@ -958,11 +958,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "When Musa left for the appointment with his Lord, he handed the community to his brother: take my place among my people, do right, and do not follow the way of the corrupters (7:142). It is the hardest kind of trust — authority without the presence of the one who holds it, over a people newly delivered and not yet settled in faith.",
-            bn: "মূসা যখন প্রভুর নির্ধারিত সাক্ষাতে রওনা হন, তিনি সম্প্রদায়টিকে ভাইয়ের হাতে তুলে দেন: আমার সম্প্রদায়ে আমার স্থলাভিষিক্ত হও, সংশোধন করো, আর বিপর্যয় সৃষ্টিকারীদের পথ অনুসরণ কোরো না (7:142)। এ এক কঠিনতম আমানত — যে কর্তৃত্বের প্রকৃত অধিকারী উপস্থিত নেই, আর যাদের ওপর কর্তৃত্ব তারা সদ্য মুক্তিপ্রাপ্ত, ঈমানে এখনো থিতু নয়।",
+            bn: "মূসা যখন প্রভুর নির্ধারিত সাক্ষাতে রওনা হন, সম্প্রদায়ের ভার তুলে দেন ভাইয়ের হাতে: আমার সম্প্রদায়ে আমার স্থলাভিষিক্ত হও, সংশোধন করো, আর বিপর্যয় সৃষ্টিকারীদের পথ অনুসরণ কোরো না (7:142)। আমানতের মধ্যে এটিই সবচেয়ে কঠিন ধরনের: আসল দায়িত্বশীল উপস্থিত নেই, অথচ তাঁর হয়ে চালাতে হবে এমন এক জাতিকে, যারা সদ্য মুক্তি পেয়েছে, ঈমানে এখনো স্থির হয়নি।",
           },
           {
             en: "The Samiri produced a calf, and the people took it (20:85-88). Harun did not stay quiet. He told them plainly: my people, you are only being tested by it, and your Lord is the Most Merciful, so follow me and obey my command (20:90). They answered that they would not cease being devoted to it until Musa returned (20:91). He had spoken the truth and had been overruled by a crowd.",
-            bn: "সামিরি এক বাছুর তৈরি করে, আর লোকেরা তা গ্রহণ করে (20:85-88)। হারুন চুপ থাকেননি। তিনি স্পষ্ট করেই বলেন: হে আমার সম্প্রদায়, এর দ্বারা তোমাদের পরীক্ষা করা হচ্ছে; তোমাদের প্রতিপালক তো পরম দয়াময়, সুতরাং আমাকে অনুসরণ করো ও আমার নির্দেশ মানো (20:90)। তারা জবাব দেয়, মূসা না ফেরা পর্যন্ত তারা এর পূজা ছাড়বে না (20:91)। তিনি সত্য বলেছিলেন, আর জনতার কাছে হেরে গিয়েছিলেন।",
+            bn: "সামিরি এক বাছুর বানায়, আর লোকেরা সেটিকে গ্রহণ করে নেয় (20:85-88)। হারুন চুপ থাকেননি। তিনি পরিষ্কার বলে দেন: হে আমার সম্প্রদায়, এ দিয়ে তোমাদের কেবল পরীক্ষা করা হচ্ছে; তোমাদের প্রতিপালক তো পরম দয়াময়, সুতরাং আমাকে অনুসরণ করো, আমার কথা মানো (20:90)। তারা জবাব দেয়, মূসা না ফেরা পর্যন্ত তারা এর পূজা ছাড়বে না (20:91)। তিনি সত্য কথাই বলেছিলেন, কিন্তু জনতার কাছে হেরে গিয়েছিলেন।",
           },
         ],
       },
@@ -971,11 +971,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Musa came back and rebuked him — what held you back when you saw them going astray? (20:92-93) — and in Surah al-A'raf he seizes his brother by the head and pulls him towards himself (7:150). Harun's reply is one of the gentlest defences in the Quran: son of my mother, do not seize me by my beard or my head; I feared you would say that I had divided the Children of Israel and had not observed your word (20:94). He had judged that a split community was a worse ruin than a delayed correction.",
-            bn: "মূসা ফিরে এসে তিরস্কার করেন — তাদের পথভ্রষ্ট হতে দেখে কী তোমাকে বাধা দিয়েছিল? (20:92-93) — আর সূরা আল-আ'রাফে তিনি ক্রোধে ভাইয়ের মাথা ধরে নিজের দিকে টানেন (7:150)। হারুনের জবাব কুরআনের কোমলতম আত্মপক্ষ সমর্থনগুলোর একটি: হে আমার মায়ের ছেলে, আমার দাড়ি বা মাথা ধরে টেনো না; আমি আশঙ্কা করেছিলাম তুমি বলবে, আমি বনী ইসরাঈলের মধ্যে বিভেদ ঘটিয়েছি এবং তোমার কথা রক্ষা করিনি (20:94)। তাঁর বিবেচনা ছিল, বিভক্ত সম্প্রদায় বিলম্বিত সংশোধনের চেয়েও বড় ধ্বংস।",
+            bn: "মূসা ফিরে এসে তাঁকে তিরস্কার করেন: তাদের পথভ্রষ্ট হতে দেখেও কিসে তোমাকে আটকে রেখেছিল? (20:92-93) সূরা আল-আ'রাফে আছে, তিনি ভাইয়ের মাথা ধরে নিজের দিকে টেনে আনেন (7:150)। হারুনের জবাব কুরআনের সবচেয়ে কোমল আত্মপক্ষ সমর্থনগুলোর একটি: হে আমার মায়ের ছেলে, আমার দাড়ি বা মাথা ধরো না; আমার ভয় হয়েছিল, তুমি বলবে, তুমি বনী ইসরাঈলের মধ্যে ভাঙন ধরিয়েছ, আমার কথা রক্ষা করোনি (20:94)। তাঁর হিসাব ছিল: সংশোধনে দেরি হলে যে ক্ষতি, সম্প্রদায় ভেঙে গেলে তার চেয়ে অনেক বড় সর্বনাশ।",
           },
           {
             en: "In the account in Sura al-A'raf he adds that the people had overpowered him and had almost killed him, and asks that the enemies not be given cause to rejoice over him (7:150). Musa's response settles the matter: my Lord, forgive me and my brother, and admit us into Your mercy (7:151). The Quran preserves the anger and the answer together, and neither brother is diminished by it.",
-            bn: "সূরা আরাফের বর্ণনায় তিনি যোগ করেন, লোকেরা তাঁকে দুর্বল করে ফেলেছিল এবং প্রায় হত্যাই করে ফেলছিল; তিনি অনুরোধ করেন, শত্রুদের যেন তাঁকে নিয়ে আনন্দ করার সুযোগ না দেওয়া হয় (7:150)। মূসার প্রতিক্রিয়া বিষয়টির নিষ্পত্তি করে: হে আমার প্রভু, আমাকে ও আমার ভাইকে ক্ষমা করুন এবং আমাদের আপনার রহমতে দাখিল করুন (7:151)। কুরআন ক্রোধ ও জবাব দুটোই ধরে রেখেছে, আর তাতে কোনো ভাইয়েরই মর্যাদা কমেনি।",
+            bn: "সূরা আল-আ'রাফের বর্ণনায় তিনি আরও বলেন, লোকেরা তাঁকে কোণঠাসা করে ফেলেছিল, প্রায় মেরেই ফেলছিল; শত্রুদের যেন তাঁকে নিয়ে হাসার সুযোগ দেওয়া না হয় (7:150)। মূসার জবাবেই বিষয়টির মীমাংসা হয়ে যায়: হে আমার প্রভু, আমাকে ও আমার ভাইকে ক্ষমা করুন এবং আমাদের আপনার রহমতে দাখিল করুন (7:151)। কুরআন রাগ আর জবাব দুটোই পাশাপাশি রেখে দিয়েছে, আর তাতে কোনো ভাইয়েরই মর্যাদা এতটুকু কমেনি।",
           },
         ],
       },
@@ -984,11 +984,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Sura as-Saffat gathers his standing in a few lines: We conferred favour upon Musa and Harun, saved them and their people from the great distress, supported them so they were the victors, gave them the clarifying Scripture and guided them to the straight path, and left for them among later generations the words, peace upon Musa and Harun (37:114-120). The favour is named for both, without ranking.",
-            bn: "সূরা সাফফাত তাঁর মর্যাদা কয়েকটি বাক্যেই জড়ো করে: আমি মূসা ও হারুনের প্রতি অনুগ্রহ করেছি, তাঁদের ও তাঁদের সম্প্রদায়কে মহাসংকট থেকে উদ্ধার করেছি, তাঁদের সাহায্য করেছি ফলে তাঁরাই বিজয়ী হয়েছেন, তাঁদের দিয়েছি সুস্পষ্ট কিতাব ও সরল পথের হিদায়াত, আর পরবর্তীদের মধ্যে রেখে দিয়েছি এই বাণী — মূসা ও হারুনের প্রতি সালাম (37:114-120)। অনুগ্রহের কথা এসেছে দুজনের জন্যই, কোনো ক্রমবিন্যাস ছাড়া।",
+            bn: "সূরা আস-সাফফাত অল্প কয়েকটি আয়াতে তাঁর মর্যাদার পুরো ছবি তুলে ধরে: আমি মূসা ও হারুনের প্রতি অনুগ্রহ করেছি; তাঁদের ও তাঁদের সম্প্রদায়কে মহাসংকট থেকে উদ্ধার করেছি; তাঁদের সাহায্য করেছি, ফলে তাঁরাই বিজয়ী হয়েছেন; তাঁদের দিয়েছি সুস্পষ্ট কিতাব এবং সরল পথের হিদায়াত; আর পরবর্তীদের মাঝে তাঁদের জন্য রেখে দিয়েছি এই কথা: মূসা ও হারুনের প্রতি সালাম (37:114-120)। অনুগ্রহের কথা এসেছে দুজনের নামেই, কাউকে আগে-পিছে না রেখে।",
           },
           {
             en: "His house remained a mark of blessing: the ark that came to the Children of Israel carried a remnant of what the family of Musa and the family of Harun had left (2:248). He is counted among the guided in 6:84, and 4:163 names him among those given revelation. In the narration of the night journey recorded by al-Bukhari and Muslim, the Prophet ﷺ met him in the fifth heaven.",
-            bn: "তাঁর ঘর বরকতের চিহ্ন হয়ে থাকে: বনী ইসরাঈলের কাছে আসা সিন্দুকে ছিল মূসা-পরিবার ও হারুন-পরিবারের রেখে যাওয়া নিদর্শনের অবশিষ্ট (2:248)। 6:84 আয়াতে তিনি হিদায়াতপ্রাপ্তদের মধ্যে গণিত, আর 4:163 তাঁকে ওহিপ্রাপ্তদের মধ্যে নাম করে উল্লেখ করে। বুখারি ও মুসলিমে লিপিবদ্ধ মিরাজের বর্ণনায় নবী ﷺ তাঁর সঙ্গে সাক্ষাৎ করেন পঞ্চম আকাশে।",
+            bn: "তাঁর পরিবার বরকতের চিহ্ন হয়ে রইল: বনী ইসরাঈলের কাছে যে সিন্দুক এসেছিল, তাতে ছিল মূসার পরিবার ও হারুনের পরিবারের রেখে যাওয়া জিনিসের অবশিষ্টাংশ (2:248)। 6:84-এ তাঁকে হিদায়াতপ্রাপ্তদের মধ্যে গণ্য করা হয়েছে, আর 4:163 তাঁর নাম নিয়েছে ওহিপ্রাপ্তদের মধ্যে। বুখারি ও মুসলিমে বর্ণিত মিরাজের ঘটনায় নবী ﷺ পঞ্চম আসমানে তাঁর সাক্ষাৎ পান।",
           },
         ],
       },
@@ -1001,11 +1001,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Dhul-Kifl (AS) is named twice in the Quran and nowhere else. The first mention is 21:85, where he is listed with Isma'il and Idris, and all of them are said to be of the patient. The second is 38:48, where he is listed with Isma'il and al-Yasa', and all of them are said to be of the outstanding. Every honest account of him begins by saying that this is the whole of the record.",
-            bn: "যুলকিফল (আঃ)-এর নাম কুরআনে এসেছে দুইবার, আর কোথাও নয়। প্রথম উল্লেখ 21:85, যেখানে তাঁকে ইসমাঈল ও ইদরিসের সঙ্গে রাখা হয়েছে এবং বলা হয়েছে তাঁরা সবাই ছিলেন ধৈর্যশীলদের অন্তর্ভুক্ত। দ্বিতীয়টি 38:48, যেখানে তাঁকে ইসমাঈল ও আল-ইয়াসার সঙ্গে রাখা হয়েছে এবং বলা হয়েছে তাঁরা সবাই ছিলেন উত্তমদের অন্তর্ভুক্ত। তাঁকে নিয়ে যেকোনো সৎ আলোচনার শুরু হওয়া উচিত এ কথা দিয়েই যে, নথিপত্র এটুকুই।",
+            bn: "যুলকিফল (আঃ)-এর নাম কুরআনে এসেছে মাত্র দুবার, এর বাইরে কোথাও নয়। প্রথমবার 21:85-এ: সেখানে তাঁর নাম এসেছে ইসমাঈল ও ইদরিসের সঙ্গে, আর বলা হয়েছে, তাঁরা সবাই ধৈর্যশীল। দ্বিতীয়বার 38:48-এ: সেখানে তাঁর নাম ইসমাঈল ও আল-ইয়াসার সঙ্গে, আর বলা হয়েছে, তাঁরা সবাই উত্তমদের অন্তর্ভুক্ত। তাই তাঁকে নিয়ে সৎভাবে কিছু বলতে গেলে শুরুতেই স্বীকার করতে হয়: তাঁর সম্পর্কে জানা কথা এটুকুই।",
           },
           {
             en: "We are not told his people, his land, his century, what he was sent with, or what happened to him. There is no episode, no dialogue, no trial described. What each verse does supply is a verdict, and in both places the verdict is followed immediately by a consequence: We admitted them into Our mercy, indeed they were of the righteous (21:86); and this is a reminder (38:49).",
-            bn: "তাঁর সম্প্রদায়, ভূমি, শতাব্দী, কী নিয়ে তিনি প্রেরিত হয়েছিলেন কিংবা তাঁর পরিণতি কী — কিছুই আমাদের জানানো হয়নি। কোনো ঘটনা নেই, সংলাপ নেই, কোনো পরীক্ষার বর্ণনাও নেই। প্রতিটি আয়াত যা দেয় তা হলো একটি রায়, আর দুই জায়গাতেই রায়ের পরপরই আসে তার ফল: আমি তাঁদের আমার রহমতে দাখিল করেছি, নিশ্চয়ই তাঁরা ছিলেন সৎকর্মশীলদের অন্তর্ভুক্ত (21:86); আর এ এক উপদেশ (38:49)।",
+            bn: "তাঁর সম্প্রদায় কারা, দেশ কোথায়, কোন যুগের মানুষ, কী বার্তা নিয়ে এসেছিলেন, শেষে তাঁর কী হলো, কিছুই আমাদের জানানো হয়নি। কোনো ঘটনা নেই, কোনো কথোপকথন নেই, কোনো পরীক্ষার বিবরণ নেই। প্রতিটি আয়াত যা দেয়, তা একটি রায়। আর দুই জায়গাতেই রায়ের ঠিক পরেই আসে তার ফল: আমি তাঁদের আমার রহমতে দাখিল করেছি, নিশ্চয়ই তাঁরা ছিলেন সৎকর্মশীলদের অন্তর্ভুক্ত (21:86); এবং: এ এক উপদেশ (38:49)।",
           },
         ],
       },
@@ -1014,11 +1014,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "In Sura al-Anbiya his name falls inside a procession of prophets. Nuh is answered (21:76), Dawud and Sulayman judge and are taught (21:78-79), Ayyub calls out in his affliction and is healed (21:83-84), and then, immediately after, come Isma'il, Idris and Dhul-Kifl, all of the patient (21:85). Directly after him the surah turns to Yunus, who called out from the darkness and was answered (21:87), and to Zakariya, who was given a son in old age (21:89-90). He stands at the point where the surah is speaking about endurance and the answer that follows it.",
-            bn: "সূরা আম্বিয়ায় তাঁর নাম পড়েছে নবীদের এক মিছিলের ভেতরে। নূহের ডাকে সাড়া দেওয়া হয় (21:76), দাউদ ও সুলাইমান বিচার করেন ও জ্ঞান লাভ করেন (21:78-79), আইয়ুব বিপদে ডাকেন ও আরোগ্য পান (21:83-84), আর ঠিক এরপরই আসেন ইসমাঈল, ইদরিস ও যুলকিফল — সবাই ধৈর্যশীলদের অন্তর্ভুক্ত (21:85)। তাঁর পরপরই সূরাটি যায় ইউনুসের দিকে, যিনি অন্ধকার থেকে ডেকেছিলেন ও সাড়া পেয়েছিলেন (21:87), এরপর যাকারিয়ার দিকে, যাঁকে বার্ধক্যে পুত্র দেওয়া হয়েছিল (21:89-90)। সূরাটি যখন অবিচলতা ও তার পরের সাড়া নিয়ে কথা বলছে, ঠিক সেখানেই তিনি দাঁড়িয়ে আছেন।",
+            bn: "সূরা আল-আম্বিয়ায় তাঁর নাম এসেছে নবীদের এক দীর্ঘ সারির মাঝখানে। নূহের ডাকে সাড়া দেওয়া হয় (21:76); দাউদ ও সুলাইমান বিচার করেন, জ্ঞান লাভ করেন (21:78-79); আইয়ুব বিপদে পড়ে ডাকেন, আরোগ্য পান (21:83-84)। ঠিক এরপরই আসেন ইসমাঈল, ইদরিস ও যুলকিফল, সবাই ধৈর্যশীল (21:85)। তাঁর পরপরই সূরাটি চলে যায় ইউনুসের কথায়, যিনি অন্ধকারের ভেতর থেকে ডেকেছিলেন আর সাড়া পেয়েছিলেন (21:87); তারপর যাকারিয়ার কথায়, বার্ধক্যে যাঁকে পুত্র দেওয়া হয়েছিল (21:89-90)। সূরাটি যেখানে সবর আর তার পরে আসা সাড়ার কথা বলছে, ঠিক সেখানেই তাঁর জায়গা।",
           },
           {
             en: "Sura Sad does the same thing with a different list. Dawud is remembered as the possessor of strength who turned constantly to Allah (38:17), Sulayman is called an excellent servant (38:30), Ayyub is found patient (38:44), Ibrahim, Ishaq and Ya'qub are named men of strength and vision and among the chosen (38:45-47), and then Isma'il, al-Yasa' and Dhul-Kifl close the list among the outstanding (38:48).",
-            bn: "সূরা সাদ একই কাজ করে ভিন্ন এক তালিকায়। দাউদকে স্মরণ করা হয় শক্তির অধিকারী হিসেবে, যিনি সর্বদা আল্লাহর দিকে ফিরতেন (38:17), সুলাইমানকে বলা হয় উত্তম বান্দা (38:30), আইয়ুবকে পাওয়া যায় ধৈর্যশীল (38:44), ইবরাহীম, ইসহাক ও ইয়াকুবকে বলা হয় শক্তি ও অন্তর্দৃষ্টির অধিকারী এবং মনোনীতদের অন্তর্ভুক্ত (38:45-47), আর এরপর ইসমাঈল, আল-ইয়াসা ও যুলকিফল উত্তমদের মধ্যে থেকে তালিকাটি শেষ করেন (38:48)।",
+            bn: "সূরা সাদও একই কাজ করে, ভিন্ন এক তালিকায়। দাউদকে স্মরণ করা হয় শক্তির অধিকারী হিসেবে, যিনি বারবার আল্লাহর দিকে ফিরতেন (38:17)। সুলাইমানকে বলা হয় উত্তম বান্দা (38:30)। আইয়ুবকে পাওয়া যায় ধৈর্যশীল (38:44)। ইবরাহীম, ইসহাক ও ইয়াকুবকে বলা হয় শক্তি ও অন্তর্দৃষ্টির অধিকারী, মনোনীতদের অন্তর্ভুক্ত (38:45-47)। তারপর ইসমাঈল, আল-ইয়াসা ও যুলকিফলকে উত্তমদের মধ্যে গণ্য করে তালিকাটি শেষ হয় (38:48)।",
           },
         ],
       },
@@ -1027,11 +1027,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Two descriptions are attached to him, and both are weighty. To be of the patient, in the language of these surahs, is not to be passive; it is what Ayyub is praised for after years of loss, and what Isma'il showed when he told his father he would be found, if Allah willed, among the patient (37:102). The word carries a life, even when the life is not described.",
-            bn: "তাঁর সঙ্গে যুক্ত হয়েছে দুটি বিশেষণ, আর দুটিই ভারী। এই সূরাগুলোর ভাষায় ধৈর্যশীলদের অন্তর্ভুক্ত হওয়া মানে নিষ্ক্রিয়তা নয়; বছরের পর বছর ক্ষতির পর আইয়ুবের প্রশংসাও এই গুণেই, আর ইসমাঈলও এই গুণই দেখিয়েছিলেন যখন তিনি পিতাকে বলেছিলেন, আল্লাহ চাইলে তিনি ধৈর্যশীলদের মধ্যেই পাওয়া যাবেন (37:102)। শব্দটি একটি গোটা জীবন বহন করে, সেই জীবনের বর্ণনা না থাকলেও।",
+            bn: "তাঁর পরিচয়ে এসেছে দুটি গুণ, আর দুটিই ওজনদার। এই সূরাগুলোর ভাষায় ধৈর্যশীল হওয়া মানে হাত গুটিয়ে বসে থাকা নয়। বছরের পর বছর সব হারিয়েও আইয়ুব এই গুণের জন্যই প্রশংসা পেয়েছেন। ইসমাঈলও এই গুণই দেখিয়েছিলেন, যখন বাবাকে বলেছিলেন: আল্লাহ চাইলে আপনি আমাকে ধৈর্যশীলদের একজন হিসেবেই পাবেন (37:102)। জীবনের বিবরণ না থাকলেও এই একটি শব্দের ভেতরে একটি গোটা জীবন আছে।",
           },
           {
             en: "The second word, al-akhyar, means the chosen and the best. In the same passage it is used of Ibrahim, Ishaq and Ya'qub, who are called among the chosen and the outstanding (38:47). So a man about whom we know almost nothing is given, in a single clause, the same class of praise as the patriarchs whose stories fill whole surahs. The reward is not proportioned to the length of the record.",
-            bn: "দ্বিতীয় শব্দ আল-আখইয়ার, অর্থাৎ মনোনীত ও উত্তম। একই অংশে এ শব্দ ব্যবহৃত হয়েছে ইবরাহীম, ইসহাক ও ইয়াকুবের জন্য, যাঁদের বলা হয়েছে মনোনীত ও উত্তমদের অন্তর্ভুক্ত (38:47)। অর্থাৎ যাঁর সম্পর্কে আমরা প্রায় কিছুই জানি না, একটিমাত্র বাক্যাংশে তাঁকে দেওয়া হয়েছে সেই একই শ্রেণির প্রশংসা, যা পেয়েছেন সেই পিতৃপুরুষরা যাঁদের কাহিনি গোটা সূরা জুড়ে আছে। প্রতিদান নথির দৈর্ঘ্য মেপে দেওয়া হয় না।",
+            bn: "দ্বিতীয় শব্দটি আল-আখইয়ার, অর্থাৎ বাছাই করা, সেরা। একই অংশে শব্দটি এসেছে ইবরাহীম, ইসহাক ও ইয়াকুবের বেলায়; তাঁদের বলা হয়েছে মনোনীত ও উত্তমদের অন্তর্ভুক্ত (38:47)। তার মানে, যাঁর সম্পর্কে আমরা প্রায় কিছুই জানি না, এক বাক্যাংশেই তিনি পেলেন সেই একই মানের প্রশংসা, যা পেয়েছেন সেই মহান পূর্বপুরুষেরা, যাঁদের কাহিনিতে গোটা সূরা ভরা। কাহিনি কত লম্বা, তা দেখে প্রতিদান দেওয়া হয় না।",
           },
         ],
       },
@@ -1040,11 +1040,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The name itself has been read in more than one way. Kifl in Arabic can mean a share or portion, and it can mean standing surety for something, and commentators have explained his title through both senses. Scholars have also differed over whether he was a prophet or a righteous man of an earlier community, and some have tried to identify him with figures known from earlier scriptures.",
-            bn: "নামটি নিজেই একাধিকভাবে পড়া হয়েছে। আরবিতে কিফল মানে হতে পারে অংশ বা ভাগ, আবার কোনো কিছুর জামিন হওয়াও বোঝাতে পারে; তাফসিরকারগণ দুই অর্থেই তাঁর উপাধির ব্যাখ্যা দিয়েছেন। তিনি নবী ছিলেন, না কোনো পূর্ববর্তী সম্প্রদায়ের সৎকর্মশীল ব্যক্তি — এ নিয়েও আলেমগণ ভিন্নমত পোষণ করেছেন, আর কেউ কেউ পূর্ববর্তী ধর্মগ্রন্থে পরিচিত ব্যক্তিত্বের সঙ্গে তাঁকে মেলানোর চেষ্টা করেছেন।",
+            bn: "নামটিরই একাধিক ব্যাখ্যা আছে। আরবিতে কিফল মানে অংশ বা ভাগ হতে পারে, আবার কোনো কিছুর জামিন হওয়াও বোঝাতে পারে; মুফাসসিরগণ দুই অর্থ ধরেই তাঁর উপাধির ব্যাখ্যা করেছেন। তিনি নবী ছিলেন, নাকি আগের কোনো সম্প্রদায়ের একজন নেককার মানুষ, তা নিয়েও আলেমদের মধ্যে মতভেদ আছে। কেউ কেউ আবার আগের ধর্মগ্রন্থগুলোতে পরিচিত কোনো ব্যক্তির সঙ্গে তাঁকে মিলিয়ে দেখার চেষ্টা করেছেন।",
           },
           {
             en: "None of this is settled, and it is not the reader's job to settle it. The detailed stories told about him come from Israelite reports rather than from the Quran or an authentic hadith. The Prophet ﷺ permitted narrating from the Children of Israel, as al-Bukhari records, but such reports are not to be affirmed or denied when nothing confirms them. A teacher who says plainly that we do not know is teaching correctly.",
-            bn: "এর কোনোটিরই নিষ্পত্তি হয়নি, আর নিষ্পত্তি করা পাঠকের কাজও নয়। তাঁকে নিয়ে যেসব বিস্তারিত কাহিনি বলা হয় তা এসেছে ইসরাঈলি বর্ণনা থেকে, কুরআন বা সহিহ হাদিস থেকে নয়। নবী ﷺ বনী ইসরাঈল থেকে বর্ণনা করার অনুমতি দিয়েছেন, যেমন বুখারি লিপিবদ্ধ করেছেন; তবে যা নিশ্চিত করার কিছু নেই তা সত্যায়নও করা যায় না, মিথ্যা বলাও যায় না। যে শিক্ষক স্পষ্ট করে বলেন আমরা জানি না, তিনিই সঠিক শেখাচ্ছেন।",
+            bn: "এর কোনোটিরই মীমাংসা হয়নি, আর মীমাংসা করা পাঠকের দায়িত্বও নয়। তাঁকে নিয়ে যেসব বিস্তারিত কাহিনি শোনা যায়, সেগুলো এসেছে ইসরাঈলি বর্ণনা থেকে, কুরআন বা সহিহ হাদিস থেকে নয়। বুখারির বর্ণনা অনুযায়ী নবী ﷺ বনী ইসরাঈল থেকে বর্ণনা করার অনুমতি দিয়েছেন; তবে এমন বর্ণনার পক্ষে কোনো সমর্থন না থাকলে তাকে সত্যও বলা যাবে না, মিথ্যাও বলা যাবে না। যে শিক্ষক সোজাসুজি বলেন, আমরা জানি না, তিনিই ঠিক শেখাচ্ছেন।",
           },
         ],
       },
@@ -1053,11 +1053,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The Quran states its own policy on this. Allah says that He sent messengers whose accounts He has related to His Prophet ﷺ and messengers whose accounts He has not related (4:164), and 40:78 repeats it. Names without stories are therefore not oversights. The Book is not a biographical dictionary; its purpose in the accounts it does give is stated in 12:111, that in them is a lesson for people of understanding.",
-            bn: "কুরআন এ বিষয়ে নিজের নীতিই ঘোষণা করেছে। আল্লাহ বলেন, তিনি এমন রাসূল পাঠিয়েছেন যাঁদের বৃত্তান্ত তিনি তাঁর নবী ﷺ-কে জানিয়েছেন, আবার এমন রাসূলও পাঠিয়েছেন যাঁদের বৃত্তান্ত জানাননি (4:164); 40:78 আয়াতেও তা পুনরাবৃত্ত। তাই কাহিনিহীন নামগুলো কোনো ভুলে যাওয়া নয়। এ গ্রন্থ জীবনীকোষ নয়; যেসব বৃত্তান্ত এটি দেয় তার উদ্দেশ্য 12:111 আয়াতে বলা আছে — তাতে বোধসম্পন্ন মানুষের জন্য শিক্ষা রয়েছে।",
+            bn: "কুরআন এ ব্যাপারে নিজের নীতি নিজেই জানিয়ে দিয়েছে। আল্লাহ বলেন, তিনি এমন রাসূল পাঠিয়েছেন যাঁদের কথা তিনি তাঁর নবী ﷺ-কে শুনিয়েছেন, আবার এমন রাসূলও পাঠিয়েছেন যাঁদের কথা শোনাননি (4:164); 40:78-এও একই কথা আছে। তাই কাহিনি ছাড়া শুধু নাম আসা কোনো ভুলচুক নয়। কুরআন জীবনী-অভিধান নয়। যেসব কাহিনি এতে আছে, তার উদ্দেশ্য 12:111 নিজেই বলে দেয়: তাতে বোধসম্পন্ন মানুষের জন্য শিক্ষা রয়েছে।",
           },
           {
             en: "That is why his two verses are enough. A man is remembered by Allah for holding fast and for being among the best, and admitted into His mercy (21:86), and the world knows nothing else about him. Most believers will leave a record no longer than that. Dhul-Kifl stands in the Quran as evidence that the record which matters is not written by people, and that patience is never lost even when its story is.",
-            bn: "এ কারণেই তাঁর দুটি আয়াতই যথেষ্ট। এক ব্যক্তিকে আল্লাহ স্মরণ করেছেন অবিচল থাকার জন্য ও উত্তমদের অন্তর্ভুক্ত হওয়ার জন্য, আর তাঁকে দাখিল করেছেন নিজের রহমতে (21:86) — অথচ দুনিয়া তাঁর সম্পর্কে আর কিছুই জানে না। অধিকাংশ মুমিনের রেখে যাওয়া নথিও এর চেয়ে দীর্ঘ হবে না। যুলকিফল কুরআনে দাঁড়িয়ে আছেন এই প্রমাণ হয়ে যে, যে নথি গুরুত্বপূর্ণ তা মানুষ লেখে না, আর ধৈর্য কখনো হারায় না — তার কাহিনি হারিয়ে গেলেও।",
+            bn: "এ কারণেই তাঁর জন্য দুটি আয়াতই যথেষ্ট। একজন মানুষকে আল্লাহ মনে রেখেছেন অবিচল থাকার জন্য, উত্তমদের একজন হওয়ার জন্য, আর তাঁকে নিজের রহমতে দাখিল করেছেন (21:86)। অথচ দুনিয়া তাঁর সম্পর্কে আর কিছুই জানে না। বেশির ভাগ মুমিনের রেখে যাওয়া খতিয়ানও এর চেয়ে বড় হবে না। যুলকিফল কুরআনে এ কথার প্রমাণ হয়ে আছেন যে, যে খতিয়ানটি আসল, তা মানুষ লেখে না; আর সবরের গল্প হারিয়ে গেলেও সবর কখনো হারায় না।",
           },
         ],
       },
@@ -1066,15 +1066,15 @@ var PROPHET_ARTICLES = {
   dawud: {
     sections: [
       {
-        h: { en: "The Youth Who Faced Jalut", bn: "যে তরুণ জালুতের মুখোমুখি" },
+        h: { en: "The Youth Who Faced Jalut", bn: "জালুতের মুখোমুখি এক তরুণ" },
         p: [
           {
             en: "Dawud (AS) first appears as a young man in someone else's army. The Children of Israel had asked a prophet of theirs to appoint a king so they could fight in the way of Allah, Talut was appointed, and the army was thinned by a test at a river until only a few crossed (2:246-249). Those few said that many a small company has overcome a large company by the permission of Allah.",
-            bn: "দাউদ (আঃ) প্রথম দেখা দেন অন্যের সেনাদলে এক তরুণ হিসেবে। বনী ইসরাঈল তাদের এক নবীর কাছে চেয়েছিল একজন রাজা নিযুক্ত করা হোক, যাতে তারা আল্লাহর পথে লড়তে পারে; তালুত নিযুক্ত হন, আর এক নদীর পরীক্ষায় সেনাদল ছেঁটে যায় — অল্প কয়েকজনই পার হয় (2:246-249)। সেই অল্প কয়েকজনই বলেছিল, আল্লাহর অনুমতিতে কত ছোট দল বড় দলের ওপর বিজয়ী হয়েছে।",
+            bn: "দাউদ (আঃ)-কে আমরা প্রথম দেখি অন্যের সেনাদলের এক তরুণ হিসেবে। বনী ইসরাঈল তাদের এক নবীর কাছে আবদার করেছিল, তাদের জন্য একজন রাজা ঠিক করে দেওয়া হোক, যাতে তারা আল্লাহর পথে লড়তে পারে। তালুতকে রাজা করা হয়। তারপর এক নদীর ধারে পরীক্ষা নেওয়া হয়, তাতে সেনাদল ছোট হতে হতে অল্প কজনই নদী পার হয় (2:246-249)। সেই অল্প কজনই বলেছিল: আল্লাহর অনুমতিতে কত ছোট দল কত বড় দলকে হারিয়ে দিয়েছে!",
           },
           {
             en: "Facing Jalut they prayed for patience, firm feet and victory (2:250). Then comes the verse that changes his life in a single line: Dawud killed Jalut, and Allah gave him the kingship and wisdom, which commentators explain as prophethood, and taught him from what He willed (2:251). The same verse adds that were it not for Allah checking one people by means of another, the earth would be corrupted.",
-            bn: "জালুতের মুখোমুখি হয়ে তারা প্রার্থনা করে ধৈর্য, পদক্ষেপে দৃঢ়তা ও বিজয়ের (2:250)। এরপর আসে সেই আয়াত যা এক বাক্যেই তাঁর জীবন বদলে দেয়: দাউদ জালুতকে হত্যা করেন, আর আল্লাহ তাঁকে রাজত্ব ও প্রজ্ঞা দান করেন — মুফাসসিরগণ যাকে নবুয়ত বলে ব্যাখ্যা করেন — এবং তাঁকে শেখান যা তিনি চেয়েছেন (2:251)। একই আয়াত যোগ করে, আল্লাহ যদি এক দল দিয়ে আরেক দলকে প্রতিহত না করতেন, তবে পৃথিবী বিপর্যস্ত হয়ে যেত।",
+            bn: "জালুতের মুখোমুখি হয়ে তারা দোয়া করে ধৈর্যের জন্য, পা অটল রাখার জন্য, বিজয়ের জন্য (2:250)। তারপর আসে সেই আয়াত, যার এক বাক্যেই তাঁর জীবন বদলে যায়: দাউদ জালুতকে হত্যা করেন, আর আল্লাহ তাঁকে রাজত্ব ও প্রজ্ঞা দান করেন এবং নিজের ইচ্ছামতো তাঁকে জ্ঞান শেখান (2:251)। মুফাসসিরগণ এখানে প্রজ্ঞার ব্যাখ্যা করেছেন নবুয়ত হিসেবে। একই আয়াতে আরও আছে: আল্লাহ যদি এক দলকে দিয়ে আরেক দলকে দমিয়ে না রাখতেন, তবে পৃথিবী বিপর্যস্ত হয়ে যেত।",
           },
         ],
       },
@@ -1083,11 +1083,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "He is one of the few prophets given both authority and a book. To Dawud We gave the Zabur, says 4:163, and 17:55 repeats it in the same words. The Quran quotes from it once: We wrote in the Zabur, after the Reminder, that the earth is inherited by My righteous servants (21:105). A book given to a king, and its remembered line is about the meek inheriting the land.",
-            bn: "যে অল্পসংখ্যক নবীকে একসঙ্গে কর্তৃত্ব ও কিতাব দেওয়া হয়েছে, তিনি তাঁদের একজন। 4:163 বলে, দাউদকে আমি যাবুর দিয়েছি; 17:55 একই কথার পুনরাবৃত্তি করে। কুরআন একবার তা থেকে উদ্ধৃতিও দেয়: উপদেশের পর আমি যাবুরে লিখে দিয়েছি যে পৃথিবীর উত্তরাধিকারী হবে আমার সৎকর্মশীল বান্দারা (21:105)। এক রাজাকে দেওয়া কিতাব, আর তার স্মরণীয় বাক্যটি সৎকর্মশীলদের ভূমি-উত্তরাধিকার নিয়ে।",
+            bn: "তিনি সেই অল্প কয়েকজন নবীর একজন, যাঁদের ক্ষমতা ও কিতাব দুটোই দেওয়া হয়েছিল। 4:163 বলছে, দাউদকে আমি যাবুর দিয়েছি; 17:55-এ হুবহু একই কথা। কুরআন যাবুর থেকে একবার উদ্ধৃতিও দিয়েছে: উপদেশের পর আমি যাবুরে লিখে দিয়েছি, পৃথিবীর উত্তরাধিকারী হবে আমার নেককার বান্দারা (21:105)। কিতাব পেলেন একজন রাজা, অথচ তার যে বাক্যটি মনে রাখা হয়েছে, তা বিনয়ী মানুষদের জমিনের উত্তরাধিকার পাওয়ার কথা।",
           },
           {
             en: "Al-Bukhari records that recitation was made easy for him: he would order his mount to be saddled and would finish reciting the Zabur before the saddling was done. A man with a kingdom to run had the Book in his mouth while the animals were prepared, which is why 38:20 can say his kingdom was strengthened and he was given wisdom and decisive speech.",
-            bn: "বুখারি বর্ণনা করেন, তাঁর জন্য তিলাওয়াত সহজ করে দেওয়া হয়েছিল: তিনি বাহনে জিন লাগানোর নির্দেশ দিতেন, আর জিন লাগানো শেষ হওয়ার আগেই যাবুর পাঠ শেষ করে ফেলতেন। যাঁর হাতে গোটা রাজ্য চালানোর ভার, পশু প্রস্তুত হওয়ার ফাঁকেই কিতাব ছিল তাঁর মুখে — এ কারণেই 38:20 বলতে পারে, তাঁর রাজত্ব সুদৃঢ় করা হয়েছিল এবং তাঁকে দেওয়া হয়েছিল প্রজ্ঞা ও চূড়ান্ত মীমাংসার ভাষা।",
+            bn: "বুখারির বর্ণনায় আছে, তাঁর জন্য তিলাওয়াত সহজ করে দেওয়া হয়েছিল: তিনি বাহনে জিন পরানোর হুকুম দিতেন, আর জিন পরানো শেষ হওয়ার আগেই যাবুর পড়া শেষ করে ফেলতেন। গোটা রাজ্য চালানোর ভার যাঁর কাঁধে, সওয়ারি তৈরি হওয়ার ফাঁকেও তাঁর মুখে থাকত কিতাব। তাই তো 38:20 বলতে পারে, তাঁর রাজত্ব মজবুত করা হয়েছিল, আর তাঁকে দেওয়া হয়েছিল প্রজ্ঞা ও চূড়ান্ত মীমাংসার বাকশক্তি।",
           },
         ],
       },
@@ -1096,11 +1096,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The miracle he is best known for is not a display of power but of praise. O mountains, repeat the glorification with him, and the birds (34:10). We subjected the mountains to exalt Allah with Dawud, and the birds, and it was We who did it (21:79). A voice was given to him that the creation joined, so that his worship was audible in the hills.",
-            bn: "যে মুজিজার জন্য তিনি সর্বাধিক পরিচিত, তা ক্ষমতার প্রদর্শনী নয়, প্রশংসার। হে পাহাড়সমূহ, তার সঙ্গে তাসবিহ পাঠ করো, আর হে পাখিরা, তোমরাও (34:10)। আমি পাহাড়গুলোকে অনুগত করেছিলাম, তারা দাউদের সঙ্গে আল্লাহর পবিত্রতা ঘোষণা করত, আর পাখিরাও; আমিই তা করেছিলাম (21:79)। তাঁকে এমন এক কণ্ঠ দেওয়া হয়েছিল যাতে সৃষ্টিও যোগ দিত — তাঁর ইবাদত পাহাড়েও শোনা যেত।",
+            bn: "যে মুজিজার জন্য তিনি সবচেয়ে বেশি পরিচিত, তা ক্ষমতা দেখানোর নয়, প্রশংসার। হে পাহাড়সমূহ, তার সঙ্গে তাসবিহ পাঠ করো, আর হে পাখিরা, তোমরাও (34:10)। আমি পাহাড়গুলোকে অনুগত করেছিলাম, তারা দাউদের সঙ্গে আল্লাহর পবিত্রতা ঘোষণা করত, আর পাখিরাও; আমিই তা করেছিলাম (21:79)। তাঁকে এমন কণ্ঠ দেওয়া হয়েছিল, যার সঙ্গে সৃষ্টিজগৎও সুর মেলাত; পাহাড়ে পাহাড়ে শোনা যেত তাঁর ইবাদত।",
           },
           {
             en: "Sura Sad sets it in a daily rhythm: We subjected the mountains to exalt Allah with him in the evening and after sunrise, and the birds gathered, all turning back to Him with him (38:18-19). The same passage calls him the possessor of strength and one who constantly returned to his Lord (38:17). Strength and repentance are placed side by side, as if neither is complete without the other.",
-            bn: "সূরা সাদ একে দৈনন্দিন ছন্দে বসায়: আমি পাহাড়গুলোকে অনুগত করেছিলাম, তারা সন্ধ্যায় ও সূর্যোদয়ের পর তাঁর সঙ্গে আল্লাহর পবিত্রতা ঘোষণা করত, আর পাখিরা জড়ো হতো — সবাই তাঁর সঙ্গে আল্লাহর দিকে প্রত্যাবর্তনশীল (38:18-19)। একই অংশ তাঁকে বলে শক্তির অধিকারী ও সর্বদা প্রভুর দিকে প্রত্যাবর্তনকারী (38:17)। শক্তি ও তওবাকে পাশাপাশি রাখা হয়েছে, যেন একটি ছাড়া অন্যটি পূর্ণ নয়।",
+            bn: "সূরা সাদে দেখা যায়, এটি ছিল প্রতিদিনের নিয়ম: আমি পাহাড়গুলোকে অনুগত করেছিলাম, তারা সন্ধ্যায় ও সূর্যোদয়ের পর তাঁর সঙ্গে আল্লাহর পবিত্রতা ঘোষণা করত; আর পাখিরাও জড়ো হতো, সবাই তাঁর সঙ্গে বারবার আল্লাহর দিকে ফিরত (38:18-19)। একই অংশে তাঁকে বলা হয়েছে শক্তির অধিকারী, যিনি সবসময় প্রভুর দিকে ফিরে আসতেন (38:17)। শক্তি আর তওবাকে পাশাপাশি রাখা হয়েছে, যেন একটি ছাড়া অন্যটি পূর্ণ হয় না।",
           },
         ],
       },
@@ -1109,11 +1109,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Allah made iron soft for him and taught him a trade with it: make full coats of mail, and measure the links precisely, and work righteousness (34:10-11). The instruction is remarkable for its exactness. A miracle is given, and then a standard of craftsmanship is imposed on it, along with the reminder that Allah sees what is done.",
-            bn: "আল্লাহ তাঁর জন্য লোহাকে নরম করে দেন এবং তা দিয়ে একটি পেশাও শেখান: পূর্ণাঙ্গ বর্ম তৈরি করো, কড়াগুলোর মাপ নিখুঁত রাখো, আর সৎকর্ম করো (34:10-11)। নির্দেশটি তার নিখুঁততার কারণেই অসাধারণ। একটি মুজিজা দেওয়া হয়, এরপর তার ওপরই আরোপ করা হয় কারিগরির মান, সঙ্গে এই স্মরণ যে আল্লাহ দেখছেন কী করা হচ্ছে।",
+            bn: "আল্লাহ তাঁর জন্য লোহা নরম করে দেন এবং তা দিয়ে একটি পেশাও শেখান: পূর্ণাঙ্গ বর্ম বানাও, কড়াগুলো ঠিক মাপে জোড়া দাও, আর নেক আমল করো (34:10-11)। নির্দেশটি লক্ষ করার মতো, কারণ তা এত সূক্ষ্ম। মুজিজা দেওয়া হলো, তারপর সেই মুজিজার কাজেও বেঁধে দেওয়া হলো কারিগরির মান। সঙ্গে মনে করিয়ে দেওয়া হলো, যা করা হচ্ছে আল্লাহ তা দেখছেন।",
           },
           {
             en: "21:80 states the purpose — We taught him the making of armour for you, to protect you from your violence — so the gift served other people's safety, not his own display. Al-Bukhari records the Prophet ﷺ saying that no one has eaten better food than what he earns with his own hand, and that the prophet of Allah Dawud ate from the work of his hand.",
-            bn: "21:80 উদ্দেশ্যটি বলে দেয় — আমি তাকে তোমাদের জন্য বর্ম তৈরি শিখিয়েছি, যাতে তা তোমাদের যুদ্ধ থেকে রক্ষা করে — অর্থাৎ দানটি কাজে লেগেছে অন্যের নিরাপত্তায়, নিজের প্রদর্শনীতে নয়। বুখারি বর্ণনা করেন, নবী ﷺ বলেছেন, নিজের হাতের উপার্জনের চেয়ে উত্তম খাবার কেউ কখনো খায়নি; আর আল্লাহর নবী দাউদ নিজ হাতের উপার্জন থেকেই খেতেন।",
+            bn: "উদ্দেশ্যটি 21:80 বলে দেয়: আমি তাঁকে তোমাদের জন্য বর্ম বানানো শিখিয়েছি, যেন তা যুদ্ধে তোমাদের রক্ষা করে। অর্থাৎ এই দান কাজে লেগেছে অন্যদের নিরাপত্তায়, নিজের জৌলুস দেখাতে নয়। বুখারি বর্ণনা করেছেন, নবী ﷺ বলেছেন: নিজ হাতের উপার্জনের চেয়ে উত্তম খাবার কেউ কখনো খায়নি; আর আল্লাহর নবী দাউদ নিজ হাতের উপার্জন থেকেই খেতেন।",
           },
         ],
       },
@@ -1122,11 +1122,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The Quran shows him at work as a judge. Dawud and Sulayman gave judgement about a field into which sheep had strayed at night, and We gave Sulayman understanding of it, and to each We gave judgement and knowledge (21:78-79). The father is not diminished by the son's better answer; both are praised in the same breath, and the passage moves straight on to the mountains that glorified with him.",
-            bn: "কুরআন তাঁকে দেখায় বিচারকের আসনে। দাউদ ও সুলাইমান এমন এক ক্ষেত নিয়ে ফায়সালা দেন যেখানে রাতে মেষ ঢুকে পড়েছিল; আমি সুলাইমানকে বিষয়টির সঠিক উপলব্ধি দিয়েছিলাম, আর প্রত্যেককেই দিয়েছিলাম প্রজ্ঞা ও জ্ঞান (21:78-79)। পুত্রের উত্তম জবাবে পিতার মর্যাদা কমে না; একই নিঃশ্বাসে দুজনেরই প্রশংসা হয়, আর অংশটি এগিয়ে যায় সেই পাহাড়ের কথায় যারা তাঁর সঙ্গে তাসবিহ পড়ত।",
+            bn: "কুরআন তাঁকে দেখায় বিচারকের আসনে। রাতে এক ক্ষেতে মেষপাল ঢুকে পড়েছিল; সে নিয়ে দাউদ ও সুলাইমান ফায়সালা দেন। আল্লাহ বলেন: আমি সুলাইমানকে বিষয়টি বুঝিয়ে দিয়েছিলাম, আর দুজনকেই দিয়েছিলাম প্রজ্ঞা ও জ্ঞান (21:78-79)। ছেলের জবাব ভালো হয়েছে বলে বাবার মর্যাদা কমেনি; একসঙ্গেই দুজনের প্রশংসা করা হয়েছে, আর বর্ণনাটি সোজা চলে গেছে সেই পাহাড়ের কথায়, যারা দাউদের সঙ্গে তাসবিহ পড়ত।",
           },
           {
             en: "The charge given to him is unique in the Quran: O Dawud, We have made you a successor upon the earth, so judge between people in truth, and do not follow desire, for it will lead you astray from the path of Allah (38:26). Authority is described first as a trust and immediately as a danger. He and Sulayman were given knowledge, and their response was to praise Allah for it (27:15).",
-            bn: "তাঁকে দেওয়া নির্দেশটি কুরআনে অনন্য: হে দাউদ, আমি তোমাকে পৃথিবীতে প্রতিনিধি করেছি, সুতরাং মানুষের মধ্যে ন্যায়ের সঙ্গে বিচার করো, আর খেয়ালখুশির অনুসরণ কোরো না — তা তোমাকে আল্লাহর পথ থেকে বিচ্যুত করবে (38:26)। কর্তৃত্বকে প্রথমে বলা হয়েছে আমানত, পরক্ষণেই বিপদ। তাঁকে ও সুলাইমানকে জ্ঞান দেওয়া হয়েছিল, আর তাঁদের প্রতিক্রিয়া ছিল সে জন্য আল্লাহর প্রশংসা করা (27:15)।",
+            bn: "তাঁকে দেওয়া নির্দেশটি কুরআনে অনন্য: হে দাউদ, আমি তোমাকে পৃথিবীতে প্রতিনিধি করেছি, সুতরাং মানুষের মধ্যে ন্যায়ের সঙ্গে বিচার করো, আর খেয়ালখুশির অনুসরণ কোরো না, কারণ তা তোমাকে আল্লাহর পথ থেকে বিচ্যুত করবে (38:26)। ক্ষমতাকে প্রথমে বলা হয়েছে আমানত, পরক্ষণেই বিপদ। তাঁকে ও সুলাইমানকে জ্ঞান দেওয়া হয়েছিল, আর এর জবাবে তাঁরা আল্লাহর প্রশংসা করেছেন (27:15)।",
           },
         ],
       },
@@ -1139,7 +1139,7 @@ var PROPHET_ARTICLES = {
           },
           {
             en: "So We forgave him that, and indeed for him is nearness to Us and a good place of return (38:25). The Quran says no more, and it is better to say no more; the detailed tales that circulate about this episode have no basis in the Book or in an authentic report. What the surah does next is give the charge to judge in truth (38:26).",
-            bn: "অতঃপর আমি তাকে ক্ষমা করে দিলাম, আর নিশ্চয়ই আমার কাছে তার জন্য রয়েছে নৈকট্য ও উত্তম প্রত্যাবর্তনস্থল (38:25)। কুরআন এর বেশি বলে না, আর না বলাই উত্তম; এ ঘটনাকে ঘিরে যেসব বিস্তারিত কাহিনি প্রচলিত, কুরআনে বা সহিহ বর্ণনায় তার কোনো ভিত্তি নেই। সূরাটি এরপর যা করে তা হলো ন্যায়ের সঙ্গে বিচারের নির্দেশ দেওয়া (38:26)।",
+            bn: "অতঃপর আমি তাকে ক্ষমা করে দিলাম, আর নিশ্চয়ই আমার কাছে তার জন্য রয়েছে নৈকট্য ও উত্তম প্রত্যাবর্তনস্থল (38:25)। কুরআন এর বেশি কিছু বলেনি, আমাদেরও এর বেশি না বলাই ভালো। এ ঘটনা ঘিরে যেসব বিস্তারিত কাহিনি প্রচলিত আছে, কুরআনে বা সহিহ বর্ণনায় তার কোনো ভিত্তি নেই। এরপর সূরাটি সরাসরি চলে যায় ন্যায়ের সঙ্গে বিচার করার নির্দেশে (38:26)।",
           },
         ],
       },
@@ -1148,11 +1148,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "His worship became a standard the Prophet ﷺ recommended by name. In al-Bukhari and Muslim he said that the most beloved fasting to Allah is the fasting of Dawud, who fasted a day and broke a day, and the most beloved prayer to Allah is the prayer of Dawud, who slept half the night, stood a third of it, and slept a sixth.",
-            bn: "তাঁর ইবাদত এমন এক মানদণ্ডে পরিণত হয় যা নবী ﷺ নাম ধরেই সুপারিশ করেছেন। বুখারি ও মুসলিমে তিনি বলেছেন, আল্লাহর কাছে সর্বাধিক প্রিয় রোজা দাউদের রোজা — তিনি একদিন রোজা রাখতেন, একদিন রাখতেন না; আর আল্লাহর কাছে সর্বাধিক প্রিয় নামাজ দাউদের নামাজ — তিনি রাতের অর্ধেক ঘুমাতেন, এক-তৃতীয়াংশ দাঁড়িয়ে থাকতেন, আর এক-ষষ্ঠাংশ ঘুমাতেন।",
+            bn: "তাঁর ইবাদত এমন এক আদর্শ হয়ে আছে, যার কথা নবী ﷺ নাম ধরে বলে গেছেন। বুখারি ও মুসলিমে তিনি বলেছেন: আল্লাহর কাছে সবচেয়ে প্রিয় রোজা দাউদের রোজা; তিনি একদিন রোজা রাখতেন, একদিন রাখতেন না। আর আল্লাহর কাছে সবচেয়ে প্রিয় নামাজ দাউদের নামাজ; তিনি রাতের অর্ধেক ঘুমাতেন, এক-তৃতীয়াংশ নামাজে দাঁড়িয়ে থাকতেন, আর এক-ষষ্ঠাংশ ঘুমাতেন।",
           },
           {
             en: "It is a life balanced rather than extreme, sustained rather than heroic. The command that gathers it all is given to his household: work, family of Dawud, in gratitude — and few of My servants are grateful (34:13). A youth who faced a tyrant, a king who judged, a craftsman who ate from his own hands, and a worshipper who kept his nights, is finally asked for one thing, and it is thankfulness.",
-            bn: "এ এমন এক জীবন যা চরম নয়, ভারসাম্যপূর্ণ; বীরত্বপূর্ণ নয়, বরং টেকসই। সব মিলিয়ে যে নির্দেশটি আসে তা দেওয়া হয় তাঁর পরিবারকেই: হে দাউদ-পরিবার, কৃতজ্ঞতার সঙ্গে কাজ করো — আর আমার বান্দাদের অল্পসংখ্যকই কৃতজ্ঞ (34:13)। যে তরুণ এক স্বৈরাচারীর মুখোমুখি হয়েছিলেন, যে রাজা বিচার করতেন, যে কারিগর নিজ হাতের উপার্জনে খেতেন, আর যে ইবাদতকারী রাত জাগতেন — তাঁর কাছে শেষ পর্যন্ত চাওয়া হলো একটি জিনিসই, কৃতজ্ঞতা।",
+            bn: "এ জীবন বাড়াবাড়ির নয়, ভারসাম্যের; হঠাৎ বীরত্বের নয়, দিনের পর দিন টিকে থাকার। সবকিছু এক কথায় বেঁধে দেওয়া নির্দেশটি এসেছে তাঁর পরিবারের প্রতি: হে দাউদের পরিবার, শুকরিয়া আদায়ের জন্য আমল করো; আমার বান্দাদের মধ্যে কৃতজ্ঞ খুব অল্পই (34:13)। যে তরুণ এক জালিমের মুখোমুখি দাঁড়িয়েছিলেন, যে রাজা বিচার করতেন, যে কারিগর নিজ হাতের উপার্জনে খেতেন, যে ইবাদতগুজার রাত জেগে কাটাতেন, শেষ পর্যন্ত তাঁর কাছে চাওয়া হলো একটিমাত্র জিনিস: কৃতজ্ঞতা।",
           },
         ],
       },
@@ -1165,11 +1165,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The account of Adam (AS) begins not with a body but with an announcement. Before he existed, Allah told the angels that He was placing upon the earth a khalifah, one who would hold authority there in trust (2:30). The angels asked how such a creature could be given that rank when it would shed blood and spread corruption. Their question was inquiry, not objection, and the answer closed it completely: I know what you do not know.",
-            bn: "আদম (আঃ)-এর বিবরণ শুরু হয় কোনো দেহ দিয়ে নয়, এক ঘোষণা দিয়ে। তাঁর অস্তিত্বের আগেই আল্লাহ ফেরেশতাদের জানান যে তিনি পৃথিবীতে একজন খলীফা স্থাপন করছেন, যিনি সেখানে আমানত হিসেবে কর্তৃত্ব বহন করবেন (2:30)। ফেরেশতারা জিজ্ঞেস করেন, যে সৃষ্টি রক্তপাত ঘটাবে ও বিপর্যয় ছড়াবে, তাকে কেন এই মর্যাদা দেওয়া হবে। তাঁদের কথা ছিল জিজ্ঞাসা, আপত্তি নয়; আর উত্তরটি সব প্রশ্ন থামিয়ে দেয় — আমি যা জানি, তোমরা তা জানো না।",
+            bn: "আদম (আঃ)-এর কাহিনি শুরু হয় কোনো দেহ দিয়ে নয়, একটি ঘোষণা দিয়ে। তিনি সৃষ্টি হওয়ার আগেই আল্লাহ ফেরেশতাদের জানান, তিনি পৃথিবীতে একজন খলীফা নিযুক্ত করছেন, যে সেখানে আমানত হিসেবে কর্তৃত্ব চালাবে (2:30)। ফেরেশতারা জানতে চান, যে সৃষ্টি রক্তপাত ঘটাবে আর ফাসাদ ছড়াবে, তাকে এই মর্যাদা কীভাবে দেওয়া হবে। তাঁদের প্রশ্ন ছিল জানার জন্য, আপত্তি নয়; আর জবাবটি প্রশ্নটিকে পুরোপুরি মিটিয়ে দেয়: আমি যা জানি, তোমরা তা জানো না।",
           },
           {
             en: "The making itself holds two truths together. Adam was shaped from clay, from sounding clay of altered black mud (15:28), the most ordinary material there is. Then Allah breathed into him of His spirit and commanded the angels to fall prostrate (15:29). To Iblis, Allah says plainly that He created Adam with His own hands (38:75). Dust and honour in one being. Every later question about human dignity and human weakness is already answered in that pairing.",
-            bn: "সৃষ্টির বর্ণনাটিও দুটি সত্যকে একসাথে ধরে রাখে। আদমকে গড়া হয় মাটি থেকে, পরিবর্তিত কালো কাদার শুকনো ঠনঠনে মাটি থেকে (15:28) — সবচেয়ে সাধারণ উপাদান। এরপর আল্লাহ তাঁর মধ্যে নিজের পক্ষ থেকে রূহ ফুঁকে দেন এবং ফেরেশতাদের সিজদায় লুটিয়ে পড়ার আদেশ দেন (15:29)। ইবলিসকে আল্লাহ স্পষ্ট বলেন, তিনি আদমকে নিজ হাতে সৃষ্টি করেছেন (38:75)। এক সত্তায় ধুলা ও সম্মান একসাথে। মানুষের মর্যাদা ও দুর্বলতা নিয়ে পরবর্তী সব প্রশ্নের জবাব এই জোড়ার ভেতরেই আছে।",
+            bn: "তাঁর সৃষ্টির মধ্যেই দুটি সত্য পাশাপাশি আছে। আদমকে গড়া হয় মাটি থেকে, পচা কালো কাদার শুকনো ঠনঠনে মাটি থেকে (15:28); এর চেয়ে সাধারণ উপাদান আর হয় না। তারপর আল্লাহ তাঁর মধ্যে নিজের পক্ষ থেকে রূহ ফুঁকে দেন এবং ফেরেশতাদের হুকুম দেন সিজদায় লুটিয়ে পড়তে (15:29)। ইবলিসকে আল্লাহ পরিষ্কার বলে দেন, আদমকে তিনি নিজ হাতে সৃষ্টি করেছেন (38:75)। একই সত্তায় মাটি আর মর্যাদা। মানুষের সম্মান আর মানুষের দুর্বলতা নিয়ে পরে যত প্রশ্ন উঠবে, সবগুলোর জবাব এই জোড়ার মধ্যেই আছে।",
           },
         ],
       },
@@ -1178,11 +1178,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The first thing recorded about Adam after his creation is that he was taught. Allah taught him the names, all of them, then set the things before the angels and asked them to name them (2:31). They answered with the most beautiful words a creature can say: glory be to You, we have no knowledge except what You have taught us (2:32). Then Adam named them. Their worship was never in question; they were shown a capacity they had not been given.",
-            bn: "সৃষ্টির পর আদম সম্পর্কে প্রথম যে কথাটি লিপিবদ্ধ, তা হলো তাঁকে শেখানো হয়েছিল। আল্লাহ তাঁকে সব নাম শেখান, তারপর বস্তুগুলো ফেরেশতাদের সামনে রেখে তাদের নাম বলতে বলেন (2:31)। তাঁরা এমন উত্তর দেন যা কোনো সৃষ্টির মুখে সবচেয়ে সুন্দর কথা: আপনি পবিত্র, আপনি যা শিখিয়েছেন তা ছাড়া আমাদের কোনো জ্ঞান নেই (2:32)। এরপর আদম নামগুলো বলেন। ফেরেশতাদের ইবাদত নিয়ে কোনো প্রশ্ন ছিল না; তাঁদের দেখানো হলো এমন এক যোগ্যতা যা তাঁদের দেওয়া হয়নি।",
+            bn: "সৃষ্টির পর আদমের ব্যাপারে প্রথম যে কথাটি জানানো হয়েছে, তা হলো: তাঁকে শেখানো হয়েছিল। আল্লাহ তাঁকে সব নাম শেখান, তারপর জিনিসগুলো ফেরেশতাদের সামনে রেখে বলেন, এগুলোর নাম বলো (2:31)। তাঁরা যে জবাব দেন, কোনো সৃষ্টির মুখে এর চেয়ে সুন্দর কথা হয় না: আপনি পবিত্র, আপনি যা শিখিয়েছেন তার বাইরে আমাদের কোনো জ্ঞান নেই (2:32)। তারপর আদম নামগুলো বলে দেন। ফেরেশতাদের ইবাদত নিয়ে কখনো প্রশ্ন ছিল না; তাঁদের শুধু দেখানো হলো এমন এক যোগ্যতা, যা তাঁদের দেওয়া হয়নি।",
           },
           {
             en: "That is the Quran's own explanation of why humanity is honoured: not strength, not size, not long life, but taught knowledge and the language to hold it. The point matters for how the rest of the story reads. Adam's rank rested on something received rather than owned, and knowledge given can be forgotten, ignored, or acted against. That is exactly what happens next, and it is why the Book spends the rest of its pages calling people back to what they already know.",
-            bn: "মানুষ কেন সম্মানিত, কুরআন নিজেই তার ব্যাখ্যা দেয়: শক্তি নয়, আকার নয়, দীর্ঘ আয়ু নয় — বরং শেখানো জ্ঞান এবং তা ধারণ করার ভাষা। কথাটি বাকি ঘটনার পাঠের জন্যও জরুরি। আদমের মর্যাদা দাঁড়িয়ে ছিল প্রাপ্ত কিছুর ওপর, নিজের অর্জিত কিছুর ওপর নয়; আর প্রাপ্ত জ্ঞান ভুলে যাওয়া যায়, উপেক্ষা করা যায়, এমনকি তার বিরুদ্ধেও চলা যায়। এরপর ঠিক তা-ই ঘটে, আর এ কারণেই কুরআন বাকি পুরো কিতাবজুড়ে মানুষকে তার জানা কথার দিকেই ফিরিয়ে ডাকে।",
+            bn: "মানুষ কেন সম্মানিত, কুরআন নিজেই তার কারণ বলে দেয়: শক্তির জন্য নয়, আকারের জন্য নয়, দীর্ঘ আয়ুর জন্যও নয়; বরং শেখানো জ্ঞান আর সেই জ্ঞান ধরে রাখার ভাষার জন্য। বাকি কাহিনি বুঝতে এ কথাটি জরুরি। আদমের মর্যাদা দাঁড়িয়ে ছিল পাওয়া জিনিসের ওপর, নিজের অর্জনের ওপর নয়। আর পাওয়া জ্ঞান ভুলে যাওয়া যায়, অবহেলা করা যায়, এমনকি জেনেও তার উল্টো চলা যায়। ঠিক এটাই এরপর ঘটে। আর এ কারণেই কুরআন তার বাকি সব পাতাজুড়ে মানুষকে ডেকে ফেরায় সেই কথার দিকে, যা সে আগে থেকেই জানে।",
           },
         ],
       },
@@ -1195,7 +1195,7 @@ var PROPHET_ARTICLES = {
           },
           {
             en: "The Quran preserves that reasoning because it is a pattern, not an incident. Iblis never denied that Allah exists or that He commands; he accepted both and still refused, because obeying meant accepting a rank he judged beneath him. He then asked not for forgiveness but for time, and declared he would come at the children of Adam from before them and behind them, from their right and their left (7:16-17). Pride asks for respite; humility asks for pardon.",
-            bn: "কুরআন এই যুক্তিটি সংরক্ষণ করেছে, কারণ এটি একটি ধরন — নিছক একটি ঘটনা নয়। ইবলিস কখনোই অস্বীকার করেনি যে আল্লাহ আছেন বা তিনি আদেশ দেন; সে দুটোই মেনে নিয়েও অমান্য করেছে, কারণ মানার অর্থ হতো নিজের বিচারে হীন এক মর্যাদা কবুল করা। এরপর সে ক্ষমা চায়নি, চেয়েছে সময়; আর ঘোষণা দেয় যে সে আদম-সন্তানদের কাছে সামনে-পেছনে, ডানে-বামে সব দিক থেকে আসবে (7:16-17)। অহংকার অবকাশ চায়, বিনয় চায় ক্ষমা।",
+            bn: "কুরআন এই যুক্তিটি ধরে রেখেছে, কারণ এটি একবারের ঘটনা নয়, বারবার ফিরে আসা এক ধাঁচ। ইবলিস কখনো অস্বীকার করেনি যে আল্লাহ আছেন বা তিনি হুকুম দেন। দুটোই সে মানত, তবু অমান্য করল; কারণ হুকুম মানলে এমন এক অবস্থান মেনে নিতে হতো, যা তার চোখে তার মর্যাদার নিচে। এরপর সে ক্ষমা চাইল না, চাইল সময়। আর ঘোষণা দিল, সে আদমের সন্তানদের কাছে আসবে সামনে থেকে, পেছন থেকে, ডান দিক থেকে, বাম দিক থেকে (7:16-17)। অহংকার চায় অবকাশ, বিনয় চায় ক্ষমা।",
           },
         ],
       },
@@ -1204,11 +1204,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Adam and his wife were settled in the Garden and told to eat freely wherever they wished, but not to approach one particular tree (7:19). The Quran never identifies that tree, and no sound report identifies it either; the identity is not the point, and guessing adds nothing. What is identified is the warning attached to it, that Iblis is an enemy to them both, so they must not let him drive them out of their ease (20:117).",
-            bn: "আদম ও তাঁর স্ত্রীকে জান্নাতে বসানো হয় এবং বলা হয় যেখান থেকে ইচ্ছা অবাধে খেতে, কেবল একটি নির্দিষ্ট গাছের কাছে না যেতে (7:19)। কুরআন সেই গাছের পরিচয় দেয়নি, কোনো সহীহ বর্ণনাও দেয়নি; পরিচয়টি মূল বিষয় নয়, আর অনুমান করে কিছু যোগও হয় না। যা স্পষ্ট করা হয়েছে তা হলো সঙ্গে দেওয়া সতর্কবার্তা: ইবলিস তাঁদের উভয়ের শত্রু, তাই তারা যেন তাকে দিয়ে নিজেদের স্বস্তি থেকে বিতাড়িত না হন (20:117)।",
+            bn: "আদম ও তাঁর স্ত্রীকে জান্নাতে থাকতে দেওয়া হয়; বলা হয়, যেখান থেকে খুশি মন ভরে খাও, শুধু একটি নির্দিষ্ট গাছের কাছে যেয়ো না (7:19)। গাছটি কী, কুরআন তা বলেনি, কোনো সহিহ বর্ণনাও বলেনি। গাছের পরিচয় এখানে আসল কথা নয়, আর অনুমান করে কিছু লাভও হয় না। যা স্পষ্ট করে বলা হয়েছে, তা হলো এর সঙ্গে দেওয়া সতর্কবাণী: ইবলিস তোমাদের দুজনেরই শত্রু; সে যেন তোমাদের এই আরামের জীবন থেকে বের করে দিতে না পারে (20:117)।",
           },
           {
             en: "The attack came as whispering. Iblis suggested the prohibition was withholding something from them, an eternity or an angelic rank (7:20), and swore to them both that he was a sincere adviser (7:21). They ate, their nakedness became apparent to them, and they began covering themselves with the leaves of the Garden (7:22). Exposure, not elevation, was what the promised shortcut delivered. And the Quran names the failure precisely: he forgot, and We found in him no firm resolve (20:115).",
-            bn: "আক্রমণ এসেছিল কুমন্ত্রণা হয়ে। ইবলিস ইঙ্গিত দেয় যে নিষেধাজ্ঞাটি তাঁদের কাছ থেকে কিছু আড়াল করছে — চিরস্থায়ী জীবন কিংবা ফেরেশতাসুলভ মর্যাদা (7:20) — এবং কসম খেয়ে বলে যে সে তাঁদের শুভাকাঙ্ক্ষী (7:21)। তাঁরা খান, তাঁদের লজ্জাস্থান তাঁদের কাছে প্রকাশ পায় এবং তাঁরা জান্নাতের পাতা দিয়ে নিজেদের ঢাকতে শুরু করেন (7:22)। প্রতিশ্রুত সহজ পথ উন্নতি নয়, উন্মোচনই এনে দিল। আর কুরআন ত্রুটিটির নাম নির্ভুলভাবে দেয়: তিনি ভুলে গিয়েছিলেন, আর আমি তাঁর মধ্যে দৃঢ় সংকল্প পাইনি (20:115)।",
+            bn: "আক্রমণ এল কুমন্ত্রণা হয়ে। ইবলিস বোঝাতে চাইল, এই নিষেধ দিয়ে তাঁদের কিছু একটা থেকে বঞ্চিত রাখা হচ্ছে: চিরস্থায়ী জীবন, কিংবা ফেরেশতার মর্যাদা (7:20)। সে তাঁদের দুজনের কাছে কসম খেয়ে বলল, আমি তোমাদের হিতাকাঙ্ক্ষী (7:21)। তাঁরা খেলেন, আর তাঁদের লজ্জাস্থান তাঁদের সামনে প্রকাশ হয়ে পড়ল; তাঁরা জান্নাতের পাতা দিয়ে নিজেদের ঢাকতে লাগলেন (7:22)। সহজ পথের প্রতিশ্রুতি তাঁদের উঁচুতে তোলেনি, বরং অনাবৃত করে দিয়েছে। আর কুরআন ভুলটির নাম দেয় একদম নিখুঁতভাবে: সে ভুলে গিয়েছিল, আর আমি তার মধ্যে দৃঢ় সংকল্প পাইনি (20:115)।",
           },
         ],
       },
@@ -1217,11 +1217,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Then Adam received words from his Lord, and He accepted his repentance (2:37). The words came from Allah. The first human being ever to sin did not have to invent the way back; he was taught it. Repentance was not a loophole discovered by a desperate creature but part of the design, prepared before it was ever needed. For anyone learning this story, that single verse carries more weight than the whole episode of the tree.",
-            bn: "অতঃপর আদম তাঁর প্রভুর কাছ থেকে কিছু বাক্য পেলেন, আর তিনি তাঁর তওবা কবুল করলেন (2:37)। বাক্যগুলো এসেছিল আল্লাহর পক্ষ থেকেই। ইতিহাসের প্রথম পাপকারী মানুষটিকে ফিরে আসার পথ নিজে আবিষ্কার করতে হয়নি — তাঁকে তা শেখানো হয়েছিল। তওবা কোনো নিরুপায় সৃষ্টির খুঁজে পাওয়া ফাঁকফোকর নয়, বরং প্রয়োজনের আগেই প্রস্তুত রাখা ব্যবস্থার অংশ। যে এই ঘটনা শেখে, তার কাছে এই একটি আয়াত গোটা গাছের ঘটনার চেয়েও ভারী।",
+            bn: "তারপর আদম তাঁর প্রভুর কাছ থেকে কয়েকটি বাক্য পেলেন, আর আল্লাহ তাঁর তওবা কবুল করলেন (2:37)। বাক্যগুলো এসেছিল আল্লাহর কাছ থেকেই। প্রথম যে মানুষটি গুনাহ করলেন, ফেরার পথ তাঁকে নিজে খুঁজে বের করতে হয়নি; পথটি তাঁকে শিখিয়ে দেওয়া হয়েছিল। তওবা কোনো অসহায় সৃষ্টির হঠাৎ খুঁজে পাওয়া ফাঁকফোকর নয়; প্রয়োজন হওয়ার আগেই তা ব্যবস্থার অংশ হিসেবে তৈরি রাখা ছিল। যে এই কাহিনি শিখছে, তার কাছে গাছের পুরো ঘটনার চেয়েও এই একটি আয়াত বেশি ভারী।",
           },
           {
             en: "The words are preserved elsewhere: our Lord, we have wronged ourselves, and if You do not forgive us and have mercy on us we shall surely be among the losers (7:23). Three movements in one sentence — admitting the wrong, naming it as harm done to oneself, and asking with no claim of entitlement. Set beside Iblis, who met the same failure by blaming the One who commanded him (7:16), it is the parting of two destinies.",
-            bn: "বাক্যগুলো অন্যত্র সংরক্ষিত: হে আমাদের প্রভু, আমরা নিজেদের ওপর জুলুম করেছি; আপনি যদি ক্ষমা না করেন ও দয়া না করেন, তবে আমরা অবশ্যই ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হব (7:23)। এক বাক্যে তিনটি পদক্ষেপ — অন্যায় স্বীকার, তাকে নিজের প্রতি করা ক্ষতি বলে চিহ্নিত করা, এবং কোনো দাবি ছাড়াই প্রার্থনা। পাশে রাখুন ইবলিসকে, যে একই ব্যর্থতার জবাবে আদেশদাতাকেই দোষ দিয়েছিল (7:16); সেখানেই দুই পরিণতির পথ আলাদা হয়ে যায়।",
+            bn: "বাক্যগুলো আরেক জায়গায় সংরক্ষিত আছে: হে আমাদের প্রভু, আমরা নিজেদের ওপর জুলুম করেছি; আপনি যদি আমাদের ক্ষমা না করেন, আমাদের প্রতি রহম না করেন, তবে আমরা অবশ্যই ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হব (7:23)। এক বাক্যে তিনটি ধাপ: ভুল স্বীকার করা, সেটাকে নিজের প্রতি করা ক্ষতি বলে মেনে নেওয়া, আর কোনো দাবি না রেখে চাওয়া। এর পাশে রাখুন ইবলিসকে, যে একই রকম ব্যর্থতার পর দোষ দিয়েছিল হুকুমদাতাকেই (7:16)। এখানেই দুই পরিণতির পথ আলাদা হয়ে যায়।",
           },
         ],
       },
@@ -1230,11 +1230,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The descent is often read as exile. The Quran does not read it so. Earth was the announced destination from the very start (2:30), before the Garden and before the tree. What the descent added was terms: go down, all of you, and when guidance comes to you from Me, whoever follows My guidance will have no fear upon them nor will they grieve (2:38). A place to work, a promise of guidance, and a stated way to be safe.",
-            bn: "অবতরণকে প্রায়ই নির্বাসন হিসেবে পড়া হয়। কুরআন তা পড়ে না। পৃথিবীই ছিল একেবারে শুরুতে ঘোষিত গন্তব্য (2:30) — জান্নাতের আগে, গাছের আগে। অবতরণ যা যোগ করল তা হলো শর্ত: তোমরা সবাই নেমে যাও, অতঃপর আমার পক্ষ থেকে যখন হিদায়াত আসবে, যে আমার হিদায়াত অনুসরণ করবে তার কোনো ভয় থাকবে না, সে দুঃখিতও হবে না (2:38)। কাজ করার একটি জায়গা, হিদায়াতের প্রতিশ্রুতি, আর নিরাপদ থাকার ঘোষিত উপায়।",
+            bn: "পৃথিবীতে নেমে আসাকে অনেকে নির্বাসন মনে করেন। কুরআন তা মনে করে না। একেবারে শুরু থেকেই পৃথিবী ছিল ঘোষিত গন্তব্য (2:30), জান্নাতেরও আগে, গাছেরও আগে। নেমে আসার সময় যা যোগ হলো, তা হলো শর্ত: তোমরা সবাই নেমে যাও; এরপর আমার পক্ষ থেকে যখন তোমাদের কাছে হিদায়াত আসবে, তখন যারা আমার হিদায়াত মেনে চলবে, তাদের কোনো ভয় থাকবে না, তারা দুঃখও পাবে না (2:38)। কাজ করার একটি জায়গা, হিদায়াতের প্রতিশ্রুতি, আর নিরাপদ থাকার স্পষ্ট উপায়।",
           },
           {
             en: "Adam therefore stands at the head of two lines at once, the human and the prophetic. Allah chose Adam, Nuh, the family of Ibrahim and the family of Imran above the worlds (3:33). Elsewhere his children are warned not to be tempted as their parents were, since Iblis sees them from where they do not see him (7:27), and reminded that they have been honoured and carried on land and sea (17:70). Honoured and vulnerable, taught and forgetful, and taught how to return.",
-            bn: "তাই আদম একসাথে দুটি ধারার শীর্ষে দাঁড়িয়ে আছেন — মানবধারা ও নবুয়তের ধারা। আল্লাহ আদম, নূহ, ইবরাহীমের পরিবার ও ইমরানের পরিবারকে সমগ্র সৃষ্টির ওপর মনোনীত করেছেন (3:33)। অন্যত্র তাঁর সন্তানদের সতর্ক করা হয়, তারা যেন পিতামাতার মতো প্রলুব্ধ না হয়, কারণ ইবলিস তাদের এমন দিক থেকে দেখে যেদিক থেকে তারা তাকে দেখে না (7:27); আবার মনে করিয়ে দেওয়া হয় যে তাদের সম্মানিত করা হয়েছে এবং জলে-স্থলে বহন করা হয়েছে (17:70)। সম্মানিত অথচ দুর্বল, শিক্ষিত অথচ বিস্মৃতিপ্রবণ — এবং ফিরে আসার পথও তাদের শেখানো।",
+            bn: "তাই আদম একসঙ্গে দুটি ধারার শুরুতে দাঁড়িয়ে আছেন: মানুষের ধারা আর নবুয়তের ধারা। আল্লাহ আদম, নূহ, ইবরাহীমের পরিবার ও ইমরানের পরিবারকে বিশ্ববাসীর ওপর বেছে নিয়েছেন (3:33)। আরেক জায়গায় তাঁর সন্তানদের সাবধান করা হয়েছে, তারা যেন বাবা-মায়ের মতো প্রতারিত না হয়, কারণ ইবলিস তাদের দেখে এমন জায়গা থেকে, যেখান থেকে তারা তাকে দেখে না (7:27)। আবার মনে করিয়ে দেওয়া হয়েছে, তাদের সম্মানিত করা হয়েছে, জলে-স্থলে তাদের বহন করা হয়েছে (17:70)। সম্মানিত, তবু দুর্বল; শেখানো হয়েছে, তবু ভুলে যায়; আর ফিরে আসার পথটিও তাদের শিখিয়ে দেওয়া হয়েছে।",
           },
         ],
       },
@@ -1247,11 +1247,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Idris (AS) appears in the Quran twice, and the two passages together run to four short verses. In Surah Maryam he is named among the prophets whom Allah favoured: mention in the Book Idris, he was a man of truth, a prophet, and We raised him to a high station (19:56-57). In Surah al-Anbiya he is listed with Isma'il and Dhul-Kifl, all of them of the patient, and Allah admits them into His mercy among the righteous (21:85-86).",
-            bn: "ইদরিস (আঃ)-এর উল্লেখ কুরআনে দুইবার এসেছে, আর দুটি অংশ মিলিয়ে মোট চারটি ছোট আয়াত। সূরা মারইয়ামে আল্লাহ যাঁদের অনুগ্রহ দিয়েছেন সেই নবীদের মধ্যে তাঁর নাম আসে: কিতাবে ইদরিসের কথা স্মরণ করুন, তিনি ছিলেন সত্যনিষ্ঠ, একজন নবী, আর আমি তাঁকে উচ্চ মর্যাদায় উন্নীত করেছি (19:56-57)। সূরা আল-আম্বিয়ায় তাঁকে ইসমাঈল ও যুলকিফলের সঙ্গে গণনা করা হয় — তাঁরা সবাই ধৈর্যশীল, আর আল্লাহ তাঁদের সৎকর্মশীলদের সঙ্গে নিজ রহমতে দাখিল করেন (21:85-86)।",
+            bn: "ইদরিস (আঃ)-এর কথা কুরআনে এসেছে দুবার, আর দুই জায়গা মিলিয়ে মোট চারটি ছোট আয়াত। সূরা মারইয়ামে আল্লাহ যেসব নবীকে অনুগ্রহ করেছেন, তাঁদের মধ্যে তাঁর নাম আসে: কিতাবে ইদরিসের কথা স্মরণ করুন; তিনি ছিলেন সত্যনিষ্ঠ, একজন নবী, আর আমি তাঁকে উচ্চ মর্যাদায় উন্নীত করেছি (19:56-57)। সূরা আল-আম্বিয়ায় তাঁর নাম এসেছে ইসমাঈল ও যুলকিফলের সঙ্গে; তাঁরা সবাই ধৈর্যশীল, আর আল্লাহ তাঁদের সৎকর্মশীলদের সঙ্গে নিজ রহমতে দাখিল করেন (21:85-86)।",
           },
           {
             en: "That is the whole of it. There is no account of his people, no confrontation with a king, no sign, no punishment, no dialogue. For a Book that gives Nuh an entire surah and Yusuf a continuous chapter, the silence is not an accident of space. It is worth taking Idris exactly as the Quran gives him, because what is said about him in four verses is what the Quran considers worth saying about a life.",
-            bn: "এটুকুই সব। তাঁর সম্প্রদায়ের বিবরণ নেই, কোনো রাজার সঙ্গে সংঘাত নেই, নিদর্শন নেই, শাস্তি নেই, সংলাপ নেই। যে কিতাব নূহকে একটি পূর্ণ সূরা এবং ইউসুফকে একটি অখণ্ড অধ্যায় দিয়েছে, সেখানে এই নীরবতা জায়গার অভাবে ঘটেনি। ইদরিসকে ঠিক সেভাবেই গ্রহণ করা উচিত যেভাবে কুরআন তাঁকে দিয়েছে, কারণ চারটি আয়াতে তাঁর সম্পর্কে যা বলা হয়েছে, একটি জীবন সম্পর্কে কুরআন সেটুকুই বলার যোগ্য মনে করেছে।",
+            bn: "এটুকুই সব। তাঁর সম্প্রদায়ের কোনো বিবরণ নেই, কোনো রাজার সঙ্গে সংঘাত নেই, কোনো নিদর্শন নেই, কোনো আজাব নেই, কোনো কথোপকথন নেই। যে কিতাব নূহকে একটি পুরো সূরা দিয়েছে আর ইউসুফের কাহিনি একটানা বলে গেছে, সেখানে এই নীরবতা জায়গার অভাবে নয়। তাই ইদরিসকে ঠিক সেভাবেই নেওয়া ভালো, যেভাবে কুরআন তাঁকে দিয়েছে। কারণ চার আয়াতে তাঁর সম্পর্কে যা বলা হয়েছে, একটি জীবন সম্পর্কে কুরআনের চোখে বলার মতো কথা সেটুকুই।",
           },
         ],
       },
@@ -1260,11 +1260,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The first word used of him is siddiq, one whose truthfulness is constant enough to become a description of the person rather than of an occasion. The Quran uses it sparingly and always at a height: Ibrahim is called siddiq and a prophet in the same surah (19:41), and so is Yusuf by the man who came to him in prison (12:46). Idris is placed in that company by a single word.",
-            bn: "তাঁর সম্পর্কে ব্যবহৃত প্রথম শব্দটি হলো সিদ্দীক — যাঁর সত্যবাদিতা এতটাই অবিচল যে তা কোনো একটি ঘটনার নয়, বরং মানুষটিরই পরিচয় হয়ে যায়। কুরআন শব্দটি খুব কম ব্যবহার করে এবং সবসময় উচ্চ মর্যাদায়: একই সূরায় ইবরাহীমকে সিদ্দীক ও নবী বলা হয়েছে (19:41), আর কারাগারে আসা লোকটি ইউসুফকেও একই শব্দে ডেকেছে (12:46)। একটি শব্দ দিয়েই ইদরিসকে সেই সারিতে বসানো হয়েছে।",
+            bn: "তাঁর জন্য ব্যবহৃত প্রথম শব্দটি সিদ্দীক: এমন মানুষ, যাঁর সত্যবাদিতা এতটাই স্থায়ী যে তা কোনো একটি উপলক্ষের নয়, মানুষটিরই পরিচয় হয়ে যায়। কুরআন শব্দটি খুব কম ব্যবহার করে, আর যখন করে, সবসময় উঁচু মর্যাদার মানুষের বেলায়। একই সূরায় ইবরাহীমকে সিদ্দীক ও নবী বলা হয়েছে (19:41); কারাগারে যে লোকটি ইউসুফের কাছে এসেছিল, সে-ও তাঁকে এই শব্দে ডেকেছে (12:46)। একটিমাত্র শব্দে ইদরিসকে সেই সারিতে বসানো হয়েছে।",
           },
           {
             en: "Siddiq is not only speaking accurately. It is a life in which word, belief and action do not contradict one another, so that a person can be believed on his report about the unseen because he has never been found false about the seen. Allah names the siddiqun as one of the four ranks a servant may be gathered with, after the prophets and before the martyrs and the righteous (4:69). It is the highest rank a non-prophet can reach.",
-            bn: "সিদ্দীক মানে কেবল নির্ভুল কথা বলা নয়। এটি এমন এক জীবন যেখানে কথা, বিশ্বাস ও কাজ একে অপরের বিরোধিতা করে না; ফলে অদৃশ্য সম্পর্কে তাঁর সংবাদ বিশ্বাস করা যায়, কারণ দৃশ্যমান বিষয়ে তাঁকে কখনো মিথ্যা পাওয়া যায়নি। আল্লাহ সিদ্দীকদের সেই চারটি স্তরের একটি বলেছেন যাদের সঙ্গে বান্দাকে একত্র করা হতে পারে — নবীদের পরে, শহীদ ও সৎকর্মশীলদের আগে (4:69)। নবী নন এমন কারও পক্ষে এটিই সর্বোচ্চ মর্যাদা।",
+            bn: "সিদ্দীক মানে কেবল ঠিক কথা বলা নয়। এ এমন এক জীবন, যেখানে কথা, বিশ্বাস আর কাজ একে অপরের উল্টো চলে না। তাই গায়েব সম্পর্কে তাঁর খবর বিশ্বাস করা যায়, কারণ চোখে দেখা বিষয়ে তাঁকে কখনো মিথ্যা বলতে পাওয়া যায়নি। আল্লাহ চারটি দলের কথা বলেছেন, যাঁদের সঙ্গে বান্দাকে একত্র করা হতে পারে; সিদ্দীকরা তার একটি, নবীদের পরে এবং শহীদ ও সৎকর্মশীলদের আগে (4:69)। নবী নন এমন কারও জন্য এটিই সর্বোচ্চ মর্যাদা।",
           },
         ],
       },
@@ -1273,11 +1273,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The second passage places him among those who were patient (21:85). The grouping is instructive. Isma'il was patient under the knife and in a barren valley; Dhul-Kifl is himself barely detailed in the Quran. Sabr is the quality that binds three very different lives, and it is named as the reason they were admitted into Allah's mercy (21:86) — not their achievements, which the Quran does not list.",
-            bn: "দ্বিতীয় অংশটি তাঁকে ধৈর্যশীলদের মধ্যে স্থান দেয় (21:85)। এই দলবদ্ধতা শিক্ষণীয়। ইসমাঈল ধৈর্য ধরেছিলেন ছুরির নিচে ও শুষ্ক উপত্যকায়; যুলকিফল সম্পর্কেও কুরআনে বিস্তারিত প্রায় নেই। সবরই সেই গুণ যা তিনটি ভিন্ন জীবনকে এক সুতোয় বাঁধে, আর সেটিকেই তাঁদের আল্লাহর রহমতে প্রবেশের কারণ বলা হয়েছে (21:86) — তাঁদের কীর্তি নয়, যা কুরআন তালিকাভুক্তই করেনি।",
+            bn: "দ্বিতীয় অংশে তাঁকে রাখা হয়েছে ধৈর্যশীলদের মধ্যে (21:85)। কাদের সঙ্গে রাখা হলো, সেটাও শিক্ষণীয়। ইসমাঈল ধৈর্য ধরেছিলেন ছুরির নিচে, আর এক শুকনো উপত্যকায়; যুলকিফলের কথাও কুরআনে প্রায় বিস্তারিত নেই। সবরই সেই গুণ, যা তিনটি একেবারে ভিন্ন জীবনকে এক সুতোয় গেঁথেছে। আর আল্লাহর রহমতে তাঁদের দাখিল হওয়ার কারণ হিসেবেও এটিকেই বলা হয়েছে (21:86), তাঁদের কীর্তিকে নয়; কুরআন সেসব কীর্তির তালিকাই দেয়নি।",
           },
           {
             en: "Patience in the Quran is active, not passive. It is holding a position under pressure over time: continuing to call, continuing to worship, continuing to be truthful when nothing visible rewards it. Allah gives glad tidings to the patient, those who say when a calamity strikes them that they belong to Allah and to Him they return, and upon them are blessings and mercy from their Lord (2:155-157). Idris is remembered for having been that kind of man.",
-            bn: "কুরআনে ধৈর্য নিষ্ক্রিয় নয়, সক্রিয়। এটি হলো দীর্ঘ সময় ধরে চাপের মধ্যে অবস্থান ধরে রাখা: ডাকতে থাকা, ইবাদত চালিয়ে যাওয়া, সত্যনিষ্ঠ থাকা — যখন দৃশ্যমান কোনো পুরস্কার নেই। আল্লাহ ধৈর্যশীলদের সুসংবাদ দেন, যারা বিপদ এলে বলে আমরা আল্লাহরই এবং তাঁরই কাছে ফিরে যাব; তাদের ওপরই প্রভুর পক্ষ থেকে বরকত ও রহমত (2:155-157)। ইদরিসকে ঠিক সেই ধরনের মানুষ হিসেবেই স্মরণ করা হয়।",
+            bn: "কুরআনে সবর নিষ্ক্রিয়তা নয়, সক্রিয় একটি গুণ। চাপের মধ্যে দিনের পর দিন নিজের জায়গায় অটল থাকা: ডেকে যাওয়া, ইবাদত চালিয়ে যাওয়া, সত্যের ওপর থাকা, এমনকি যখন চোখে পড়ার মতো কোনো প্রতিদান নেই তখনও। আল্লাহ ধৈর্যশীলদের সুসংবাদ দেন, যারা বিপদে পড়লে বলে: আমরা আল্লাহরই, আর তাঁর কাছেই ফিরে যাব; তাদের ওপরই রয়েছে তাদের প্রভুর পক্ষ থেকে বরকত ও রহমত (2:155-157)। ইদরিসকে মনে রাখা হয় ঠিক এমন একজন মানুষ হিসেবে।",
           },
         ],
       },
@@ -1286,11 +1286,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "And We raised him to a high station (19:57). The phrase is the most discussed thing about him, and the honest position is that the Quran does not define it. Commentators have understood it as elevation of rank with Allah, and others as a physical raising. The verse itself supplies no place, no time and no manner, and nothing in the sound Sunnah settles the question.",
-            bn: "আর আমি তাঁকে উচ্চ মর্যাদায় উন্নীত করেছি (19:57)। তাঁর সম্পর্কে সবচেয়ে বেশি আলোচিত কথাটি এটিই, আর সৎ অবস্থান হলো — কুরআন এর সংজ্ঞা দেয়নি। মুফাসসিরদের কেউ একে আল্লাহর কাছে মর্যাদার উন্নতি বুঝেছেন, কেউ দৈহিক উত্তোলন। আয়াতটি নিজে কোনো স্থান, সময় বা ধরন জানায় না, আর সহীহ সুন্নাহতেও প্রশ্নটির নিষ্পত্তি করার মতো কিছু নেই।",
+            bn: "আর আমি তাঁকে উচ্চ মর্যাদায় উন্নীত করেছি (19:57)। তাঁকে নিয়ে সবচেয়ে বেশি আলোচনা এই কথাটি নিয়েই, আর সৎভাবে বললে: কুরআন এর ব্যাখ্যা দেয়নি। মুফাসসিরদের কেউ এর অর্থ বুঝেছেন আল্লাহর কাছে মর্যাদা বৃদ্ধি, কেউ বুঝেছেন সশরীরে তুলে নেওয়া। আয়াতটি নিজে কোনো স্থান, সময় বা ধরন বলে না, আর সহিহ সুন্নাহতেও এমন কিছু নেই যা প্রশ্নটির মীমাংসা করে।",
           },
           {
             en: "What the verse does establish is the order of cause and effect, and that is the teachable part. He was truthful and a prophet, and then he was raised. Rank with Allah in this account is a consequence, not a starting condition, and it is granted for character rather than claimed by it. The same surah closes the list of favoured prophets by saying that when the verses of the Most Merciful were recited to them, they fell down prostrate and weeping (19:58).",
-            bn: "আয়াতটি যা নিশ্চিত করে তা হলো কারণ ও ফলের ক্রম, আর শিক্ষণীয় অংশটিও সেটিই। তিনি ছিলেন সত্যনিষ্ঠ ও নবী, তারপর তাঁকে উন্নীত করা হয়েছে। এই বর্ণনায় আল্লাহর কাছে মর্যাদা একটি ফল, শুরুর শর্ত নয়; তা চরিত্রের বিনিময়ে দান করা হয়, চরিত্র দিয়ে দাবি করা যায় না। একই সূরা অনুগ্রহপ্রাপ্ত নবীদের তালিকা শেষ করে এই বলে যে, তাঁদের কাছে পরম করুণাময়ের আয়াত পাঠ করা হলে তাঁরা সিজদায় লুটিয়ে পড়তেন ও কাঁদতেন (19:58)।",
+            bn: "আয়াতটি যা নিশ্চিত করে, তা হলো কারণ আর ফলের ক্রম; শেখার বিষয়ও এটাই। তিনি সত্যনিষ্ঠ ছিলেন, নবী ছিলেন, তারপর তাঁকে উঁচুতে তোলা হলো। এই বর্ণনায় আল্লাহর কাছে মর্যাদা হলো ফল, শুরুর শর্ত নয়। চরিত্রের জন্য তা দান করা হয়; চরিত্রের জোরে দাবি করে নেওয়া যায় না। একই সূরা অনুগ্রহপ্রাপ্ত নবীদের তালিকা শেষ করেছে এই বলে: তাঁদের সামনে পরম দয়াময়ের আয়াত তিলাওয়াত করা হলে তাঁরা কাঁদতে কাঁদতে সিজদায় লুটিয়ে পড়তেন (19:58)।",
           },
         ],
       },
@@ -1299,11 +1299,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Later literature attaches a great deal to Idris: that he was the first to write with a pen, the first to sew garments, an astronomer, a builder of cities, and identical with figures from other traditions. None of that comes from the Quran, and none of it rests on a chain that a careful teacher would accept. Much of it entered the books as israiliyyat, material narrated from earlier scriptural communities and preserved without a verdict on its truth.",
-            bn: "পরবর্তী সাহিত্যে ইদরিসের সঙ্গে অনেক কিছু যুক্ত করা হয়েছে: তিনিই প্রথম কলম দিয়ে লিখেছেন, প্রথম পোশাক সেলাই করেছেন, তিনি জ্যোতির্বিদ ছিলেন, নগর নির্মাতা ছিলেন, কিংবা অন্য ঐতিহ্যের কোনো ব্যক্তির সঙ্গে অভিন্ন। এর কিছুই কুরআন থেকে আসেনি, আর কিছুই এমন সনদের ওপর দাঁড়ানো নয় যা একজন সতর্ক শিক্ষক গ্রহণ করবেন। এর বড় অংশ ইসরাঈলিয়াত হিসেবে কিতাবগুলোতে ঢুকেছে — আগের কিতাবধারী সম্প্রদায় থেকে বর্ণিত, সত্যতার রায় ছাড়াই সংরক্ষিত।",
+            bn: "পরবর্তীকালের বইপত্রে ইদরিসের নামে অনেক কিছু জুড়ে দেওয়া হয়েছে: তিনিই প্রথম কলম দিয়ে লিখেছেন, প্রথম কাপড় সেলাই করেছেন, তিনি ছিলেন জ্যোতির্বিদ, নগর নির্মাতা; এমনকি অন্য ধর্মীয় ঐতিহ্যের কোনো কোনো ব্যক্তির সঙ্গে তাঁকে এক করে দেখা হয়েছে। এর কোনোটিই কুরআন থেকে আসেনি, আর কোনোটিই এমন সনদের ওপর দাঁড়িয়ে নেই, যা একজন সতর্ক শিক্ষক গ্রহণ করবেন। এর বড় অংশ বইপত্রে ঢুকেছে ইসরাঈলিয়াত হিসেবে, অর্থাৎ আগের কিতাবধারী সম্প্রদায়গুলো থেকে বর্ণিত কথা, যা সত্য কি মিথ্যা সে রায় ছাড়াই সংরক্ষিত হয়েছে।",
           },
           {
             en: "Even the relationship between Idris and the prophets around him is left open: whether he came before Nuh or after him is not stated in any binding text. Saying so plainly is not a loss. A student who learns to say that a detail is unknown has learned the discipline that protects the parts of the religion that are known, and the Quran models that discipline by refusing to fill the gap itself.",
-            bn: "এমনকি ইদরিস ও তাঁর আশপাশের নবীদের পারস্পরিক অবস্থানও খোলা রাখা হয়েছে: তিনি নূহের আগে নাকি পরে, তা কোনো চূড়ান্ত পাঠে বলা নেই। কথাটি স্পষ্ট বলা কোনো ক্ষতি নয়। যে শিক্ষার্থী বলতে শেখে যে একটি তথ্য অজানা, সে সেই সংযম শিখল যা দ্বীনের জানা অংশগুলোকে রক্ষা করে; আর কুরআন নিজেই শূন্যস্থান পূরণ করতে অস্বীকার করে সেই সংযমের নমুনা দেখায়।",
+            bn: "এমনকি আশপাশের নবীদের সঙ্গে ইদরিসের সম্পর্কও খোলা রাখা হয়েছে: তিনি নূহের আগে এসেছেন নাকি পরে, কোনো অকাট্য দলিলে তা বলা নেই। এ কথা সোজাসুজি স্বীকার করায় কোনো ক্ষতি নেই। যে শিক্ষার্থী বলতে শেখে, এই তথ্যটি জানা নেই, সে এমন এক সংযম শিখল যা দ্বীনের জানা অংশগুলোকে রক্ষা করে। আর কুরআন নিজেই ফাঁকটি ভরাট না করে সেই সংযমের নমুনা দেখিয়েছে।",
           },
         ],
       },
@@ -1312,11 +1312,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Read together, the two passages describe a complete life without a single event in it. He was true, he was sent, he endured, he was raised, and he was received into mercy among the righteous. Nothing in that sequence depends on circumstance. A person with no public role and no dramatic trial can be measured against every item on the list, which may be precisely why the Quran left the circumstances out.",
-            bn: "দুটি অংশ একসঙ্গে পড়লে দেখা যায়, একটিও ঘটনা ছাড়াই একটি পূর্ণ জীবনের বর্ণনা দেওয়া হয়েছে। তিনি সত্যনিষ্ঠ ছিলেন, প্রেরিত হয়েছিলেন, ধৈর্য ধরেছিলেন, উন্নীত হয়েছিলেন, এবং সৎকর্মশীলদের সঙ্গে রহমতে গৃহীত হয়েছিলেন। এই ধারাবাহিকতার কোনো কিছুই পরিস্থিতির ওপর নির্ভরশীল নয়। জনসমক্ষে কোনো ভূমিকা বা নাটকীয় পরীক্ষা নেই এমন মানুষও তালিকার প্রতিটি বিষয়ে নিজেকে মেপে দেখতে পারে — সম্ভবত এ কারণেই কুরআন পরিস্থিতিগুলো বাদ দিয়েছে।",
+            bn: "দুটি অংশ একসঙ্গে পড়লে দেখা যায়, একটিও ঘটনা ছাড়া একটি পূর্ণ জীবনের ছবি আঁকা হয়েছে। তিনি সত্যনিষ্ঠ ছিলেন, প্রেরিত হয়েছিলেন, ধৈর্য ধরেছিলেন, উঁচু মর্যাদা পেয়েছিলেন, আর সৎকর্মশীলদের সঙ্গে আল্লাহর রহমতে স্থান পেয়েছিলেন। এই ধারার কোনো কিছুই পরিস্থিতির ওপর নির্ভর করে না। যার জনজীবনে কোনো ভূমিকা নেই, কোনো নাটকীয় পরীক্ষাও আসেনি, সে-ও এই তালিকার প্রতিটি বিষয়ে নিজেকে মেপে দেখতে পারে। হয়তো ঠিক এ কারণেই কুরআন পরিস্থিতির বিবরণ বাদ রেখেছে।",
           },
           {
             en: "There is also a lesson in the proportion. Prophets whose stories fill pages are remembered for what happened to them; Idris is remembered for what he was. When Allah chose the shortest possible summary of a prophet, He chose truthfulness and patience, and He attached the elevation to those two things. That is the whole article, and it is enough to build a life on.",
-            bn: "এই পরিমাপের মধ্যেও একটি শিক্ষা আছে। যেসব নবীর কাহিনি পৃষ্ঠার পর পৃষ্ঠা জুড়ে থাকে, তাঁদের স্মরণ করা হয় তাঁদের সঙ্গে যা ঘটেছে তার জন্য; ইদরিসকে স্মরণ করা হয় তিনি যা ছিলেন তার জন্য। আল্লাহ যখন একজন নবীর সম্ভাব্য সবচেয়ে সংক্ষিপ্ত পরিচয় বেছে নিলেন, তিনি বেছে নিলেন সত্যনিষ্ঠা ও ধৈর্য, আর উন্নতিকে যুক্ত করলেন এই দুটির সঙ্গেই। এটুকুই পুরো আলোচনা, আর একটি জীবন গড়ার জন্য এটুকুই যথেষ্ট।",
+            bn: "কার কথা কতটুকু বলা হলো, তার মধ্যেও একটি শিক্ষা আছে। যেসব নবীর কাহিনি পাতার পর পাতা জুড়ে, তাঁদের মনে রাখা হয় তাঁদের জীবনে যা ঘটেছে তার জন্য; ইদরিসকে মনে রাখা হয় তিনি যেমন ছিলেন তার জন্য। একজন নবীর পরিচয় যত ছোট করে বলা সম্ভব, সেভাবে বলতে গিয়ে আল্লাহ বেছে নিলেন সত্যনিষ্ঠা আর সবর, এবং উঁচু মর্যাদাকে জুড়ে দিলেন এই দুটির সঙ্গেই। পুরো আলোচনা এটুকুই, আর একটি জীবন গড়ার জন্য এটুকুই যথেষ্ট।",
           },
         ],
       },
@@ -1329,11 +1329,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "On the Day of Judgement, when people go seeking someone to intercede for them, they come to Nuh (AS) and address him as the first messenger Allah sent to the people of the earth — a description the Prophet ﷺ reports in the sound collections. Adam had guided his own children; Nuh was the first sent to a people who had already turned away. His surah opens with the commission: warn your people before a painful punishment comes (71:1).",
-            bn: "কিয়ামতের দিন মানুষ যখন সুপারিশকারী খুঁজতে বের হবে, তারা নূহ (আঃ)-এর কাছে এসে তাঁকে সম্বোধন করবে পৃথিবীবাসীর প্রতি প্রেরিত প্রথম রাসূল বলে — সহীহ গ্রন্থগুলোতে নবী ﷺ এই বর্ণনা দিয়েছেন। আদম নিজের সন্তানদের পথ দেখিয়েছিলেন, কিন্তু এমন এক জাতির কাছে প্রথম প্রেরিত হন নূহ, যারা ইতিমধ্যেই মুখ ফিরিয়ে নিয়েছিল। তাঁর সূরার শুরুতেই দায়িত্ব: তোমার সম্প্রদায়কে সতর্ক করো, তাদের কাছে যন্ত্রণাদায়ক শাস্তি আসার আগে (71:1)।",
+            bn: "কিয়ামতের দিন মানুষ যখন সুপারিশকারী খুঁজে বেড়াবে, তারা নূহ (আঃ)-এর কাছে এসে তাঁকে ডাকবে পৃথিবীবাসীর কাছে আল্লাহর পাঠানো প্রথম রাসূল বলে। সহিহ হাদিসগ্রন্থগুলোতে নবী ﷺ এ কথা বর্ণনা করেছেন। আদম পথ দেখিয়েছিলেন নিজের সন্তানদের; আর নূহই প্রথম প্রেরিত হন এমন এক জাতির কাছে, যারা আগেই মুখ ফিরিয়ে নিয়েছিল। তাঁর সূরাটি শুরু হয় এই দায়িত্ব দিয়ে: তোমার সম্প্রদায়কে সতর্ক করো, তাদের ওপর যন্ত্রণাদায়ক শাস্তি আসার আগেই (71:1)।",
           },
           {
             en: "What they had turned to is named in the same surah. They refused to abandon their gods — Wadd, Suwa', Yaghuth, Ya'uq and Nasr (71:23) — and would not give them up for anything he said. Idolatry, in the Quran's first extended account of it, does not arrive as a decision anyone makes. It accumulates over generations, and by the time Nuh arrived it was simply the religion of the society, defended as inheritance rather than argued for.",
-            bn: "তারা কীসের দিকে ফিরেছিল, তা একই সূরায় নাম ধরে বলা হয়েছে। তারা নিজেদের দেবতাগুলো ছাড়তে অস্বীকার করে — ওয়াদ্দ, সুওয়া, ইয়াগূস, ইয়াঊক ও নাসর (71:23) — আর তিনি যা-ই বলুন, তারা সেগুলো ত্যাগ করেনি। কুরআনের প্রথম বিস্তারিত বিবরণে মূর্তিপূজা কারও নেওয়া সিদ্ধান্ত হিসেবে আসে না। তা প্রজন্মের পর প্রজন্ম ধরে জমতে থাকে, আর নূহ যখন আসেন তখন তা কেবল সমাজের ধর্ম — যুক্তি দিয়ে নয়, উত্তরাধিকার বলেই যার পক্ষে দাঁড়ানো হতো।",
+            bn: "তারা কিসের দিকে ফিরেছিল, তা একই সূরায় নাম ধরে বলা আছে। তারা নিজেদের দেবতাদের ছাড়তে রাজি হয়নি: ওয়াদ্দ, সুওয়া, ইয়াগূস, ইয়াঊক ও নাসর (71:23)। নূহ যা-ই বলুন, তারা এগুলো ছাড়বে না। মূর্তিপূজা নিয়ে কুরআনের প্রথম বিস্তারিত বিবরণে দেখা যায়, এটা কেউ একদিন বসে ঠিক করে নেয়নি। প্রজন্মের পর প্রজন্ম ধরে তা জমে উঠেছে। নূহ যখন এলেন, তখন সেটাই সমাজের চলতি ধর্ম; লোকেরা যুক্তি দিয়ে নয়, বাপ-দাদার উত্তরাধিকার বলে তা আঁকড়ে রাখত।",
           },
         ],
       },
@@ -1342,11 +1342,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Their objections are preserved almost as a transcript. The chiefs who disbelieved said he was only a man like themselves, that no one followed him but the lowest among them, following without thought, and that they saw in him and his people no merit over themselves — indeed they thought them liars (11:27). Every element of that reply would be repeated to later messengers: the messenger is ordinary, his followers are poor, and the objectors are fit to judge.",
-            bn: "তাদের আপত্তিগুলো প্রায় হুবহু লিপিবদ্ধ আছে। অবিশ্বাসী প্রধানেরা বলেছিল, তিনি তাদেরই মতো একজন মানুষ; তাদের মধ্যে সবচেয়ে নিচু লোকেরা ছাড়া কেউ তাঁর অনুসরণ করেনি, তাও না ভেবেই; আর তারা তাঁর ও তাঁর অনুসারীদের মধ্যে নিজেদের ওপর কোনো শ্রেষ্ঠত্ব দেখে না — বরং তাদের মিথ্যাবাদীই মনে করে (11:27)। এই জবাবের প্রতিটি উপাদান পরবর্তী রাসূলদেরও শুনতে হয়েছে: রাসূল সাধারণ মানুষ, অনুসারীরা গরিব, আর বিচার করার যোগ্য আপত্তিকারীরাই।",
+            bn: "তাদের আপত্তিগুলো প্রায় হুবহু লিখে রাখা আছে। সম্প্রদায়ের কাফির নেতারা বলেছিল: তুমি তো আমাদেরই মতো একজন মানুষ; আমাদের মধ্যে যারা সবচেয়ে নিচু, তারাই না ভেবেচিন্তে তোমার পেছনে চলেছে; তোমাদের মধ্যে আমরা নিজেদের চেয়ে বাড়তি কোনো গুণ দেখি না, বরং তোমাদের মিথ্যাবাদীই মনে করি (11:27)। এই জবাবের প্রতিটি কথা পরের রাসূলদেরও শুনতে হয়েছে: রাসূল সাধারণ মানুষ, তাঁর অনুসারীরা গরিব, আর বিচার করার অধিকার আপত্তিকারীদেরই।",
           },
           {
             en: "Nuh refused the premise rather than the tone. He would not drive away those who believed, for they were to meet their Lord, and he told the chiefs plainly that he saw them as ignorant people (11:29-30). He asked no payment; his reward was upon Allah alone. A community that will not sort its members by wealth is one its opponents cannot buy, which is part of why the opposition moved from argument to mockery and threat.",
-            bn: "নূহ সুরের নয়, তাদের ভিত্তিটাই প্রত্যাখ্যান করেন। যারা ঈমান এনেছে তাদের তিনি তাড়িয়ে দেবেন না, কারণ তারা তাদের প্রভুর সাক্ষাৎ লাভ করবে; আর প্রধানদের তিনি স্পষ্ট বলেন যে তিনি তাদের অজ্ঞ লোক হিসেবেই দেখছেন (11:29-30)। তিনি কোনো পারিশ্রমিক চাননি; তাঁর প্রতিদান কেবল আল্লাহর কাছে। যে দল সম্পদ দিয়ে নিজের লোকদের সাজায় না, বিরোধীরা তাকে কিনতে পারে না — এ কারণেই বিরোধিতা যুক্তি ছেড়ে উপহাস ও হুমকিতে নামে।",
+            bn: "নূহ তাদের কথার ধরন নিয়ে আপত্তি তোলেননি, আপত্তি তুলেছেন গোড়ার যুক্তিটি নিয়েই। যারা ঈমান এনেছে, তিনি তাদের তাড়িয়ে দেবেন না; তারা তো তাদের প্রভুর সঙ্গে সাক্ষাৎ করবে। আর নেতাদের তিনি সোজাসুজি বলে দেন, আমি তো দেখছি তোমরা এক মূর্খ সম্প্রদায় (11:29-30)। তিনি কোনো পারিশ্রমিক চাননি; তাঁর প্রতিদান কেবল আল্লাহর কাছে। যে দল ধনসম্পদ দেখে নিজের লোকদের উঁচু-নিচু ভাগ করে না, বিরোধীরা তাকে টাকা দিয়ে কিনতে পারে না। এ কারণেও বিরোধিতা যুক্তি ছেড়ে উপহাস আর হুমকিতে নেমে আসে।",
           },
         ],
       },
@@ -1355,11 +1355,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "He remained among them a thousand years less fifty (29:14). The figure is given by Allah rather than estimated, and it is the measure of the whole story. He called them night and day (71:5), then openly, then privately again (71:8-9), and each time they thrust their fingers into their ears, covered themselves with their garments, persisted, and were arrogant with great arrogance (71:7).",
-            bn: "তিনি তাদের মধ্যে ছিলেন পঞ্চাশ কম হাজার বছর (29:14)। সংখ্যাটি অনুমান নয়, আল্লাহই দিয়েছেন, আর সেটিই গোটা ঘটনার পরিমাপ। তিনি তাদের ডেকেছেন রাত ও দিন (71:5), এরপর প্রকাশ্যে, এরপর আবার গোপনে (71:8-9); প্রতিবারই তারা কানে আঙুল ঢুকিয়েছে, কাপড়ে নিজেদের ঢেকেছে, একগুঁয়েমি করেছে এবং চরম অহংকার দেখিয়েছে (71:7)।",
+            bn: "তিনি তাদের মধ্যে ছিলেন পঞ্চাশ কম হাজার বছর (29:14)। সংখ্যাটি কারও অনুমান নয়, আল্লাহ নিজেই বলেছেন; আর গোটা কাহিনির মাপ এই সংখ্যাটিই। তিনি তাদের ডেকেছেন রাতদিন (71:5); তারপর প্রকাশ্যে, তারপর আবার গোপনে (71:8-9)। আর প্রতিবারই তারা কানে আঙুল দিয়েছে, কাপড় দিয়ে নিজেদের ঢেকে নিয়েছে, জেদ ধরে থেকেছে, আর চরম অহংকার দেখিয়েছে (71:7)।",
           },
           {
             en: "His method deserves study, because it was never only warning. He told them to seek forgiveness from their Lord, who is ever forgiving, and promised on Allah's authority that He would send the sky upon them in abundant rain, increase them in wealth and children, and make for them gardens and rivers (71:10-12). The call offered them the very world they were chasing, on the only terms that would not ruin them.",
-            bn: "তাঁর পদ্ধতিটি ভেবে দেখার মতো, কারণ তা কখনোই কেবল ভয় দেখানো ছিল না। তিনি তাদের বলেন নিজেদের প্রভুর কাছে ক্ষমা চাইতে, যিনি বড়ই ক্ষমাশীল; আর আল্লাহর পক্ষ থেকে প্রতিশ্রুতি দেন যে তিনি তাদের ওপর প্রচুর বৃষ্টি পাঠাবেন, সম্পদ ও সন্তানে বাড়িয়ে দেবেন এবং তাদের জন্য বাগান ও নদী সৃষ্টি করবেন (71:10-12)। এই আহ্বান তাদের সেই দুনিয়াটাই দিতে চেয়েছিল যার পেছনে তারা ছুটছিল — কেবল এমন শর্তে, যাতে তা তাদের ধ্বংস না করে।",
+            bn: "তাঁর পদ্ধতিটি ভেবে দেখার মতো, কারণ তা কখনোই কেবল ভয় দেখানো ছিল না। তিনি তাদের বলেন নিজেদের প্রভুর কাছে ক্ষমা চাইতে, যিনি বড়ই ক্ষমাশীল; আর আল্লাহর পক্ষ থেকে কথা দেন, তিনি তাদের ওপর আকাশ থেকে প্রচুর বৃষ্টি পাঠাবেন, ধনসম্পদ ও সন্তান বাড়িয়ে দেবেন, তাদের জন্য বাগান ও নদী বানিয়ে দেবেন (71:10-12)। এই দাওয়াত তাদের হাতে তুলে দিতে চেয়েছিল সেই দুনিয়াই, যার পেছনে তারা ছুটছিল; শুধু এমন শর্তে, যাতে সেই দুনিয়া তাদের ধ্বংস না করে।",
           },
         ],
       },
@@ -1368,11 +1368,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The end of the calling was decided by Allah, not by the messenger's fatigue: none of your people will believe except those who have already believed (11:36). Only a few had believed across all those centuries, which by any measure a person applies to his own work is failure, and which the Quran counts among the great successes of prophethood. Then came the order to build the ship under Our eyes and Our revelation (11:37). He built it, and the chiefs ridiculed him whenever they passed by (11:38).",
-            bn: "দাওয়াতের সমাপ্তি ঠিক করেছেন আল্লাহই, রাসূলের ক্লান্তি নয়: যারা ইতিমধ্যে ঈমান এনেছে তারা ছাড়া তোমার সম্প্রদায়ের আর কেউ ঈমান আনবে না (11:36)। এত শতাব্দীতে ঈমান এনেছিল মাত্র অল্প কয়েকজন — মানুষ নিজের কাজ যে মাপকাঠিতে বিচার করে তাতে এটি ব্যর্থতা, অথচ কুরআন একে নবুয়তের ইতিহাসের অন্যতম বড় সাফল্য গণ্য করে। এরপরই আদেশ আসে, আমার তত্ত্বাবধানে ও আমার ওহি অনুযায়ী নৌকা তৈরি করো (11:37)। তিনি তা বানাতে থাকেন, আর প্রধানেরা যতবার পাশ দিয়ে যেত ততবারই উপহাস করত (11:38)।",
+            bn: "দাওয়াত কবে শেষ হবে, তা ঠিক করেছেন আল্লাহ, রাসূলের ক্লান্তি নয়: তোমার সম্প্রদায়ের যারা ঈমান এনেছে, তারা ছাড়া আর কেউ ঈমান আনবে না (11:36)। এত শতাব্দী ধরে ঈমান এনেছিল অল্প কয়েকজন মাত্র। নিজের কাজ মাপতে মানুষ যে মাপকাঠিই ব্যবহার করুক, এটা ব্যর্থতা; অথচ কুরআন একে নবুয়তের বড় সাফল্যগুলোর মধ্যে গণ্য করে। এরপর হুকুম এল: আমার চোখের সামনে, আমার ওহি অনুযায়ী নৌকা বানাও (11:37)। তিনি নৌকা বানাতে থাকেন, আর নেতারা যতবার পাশ দিয়ে যেত, ততবার তাঁকে নিয়ে ঠাট্টা করত (11:38)।",
           },
           {
             en: "The signal was precise and strange: when Our command came and the oven overflowed (11:40). He was told to load pairs of every kind, his household except those against whom the word had preceded, and those who believed. Then he said, embark in it, in the name of Allah is its course and its anchorage — indeed my Lord is Forgiving and Merciful (11:41). The sky was opened with pouring water and the earth burst with springs, for a matter already decreed (54:11-12).",
-            bn: "সংকেতটি ছিল নির্দিষ্ট ও অদ্ভুত: যখন আমার আদেশ এল এবং চুলা উথলে উঠল (11:40)। তাঁকে বলা হয় প্রতিটি প্রাণীর জোড়া তুলে নিতে, নিজের পরিবারকেও — যাদের বিরুদ্ধে আগেই কথা সাব্যস্ত হয়েছে তাদের ছাড়া — এবং যারা ঈমান এনেছে তাদের। তারপর তিনি বলেন, এতে আরোহণ করো, আল্লাহর নামেই এর চলা ও থামা; নিশ্চয়ই আমার প্রভু ক্ষমাশীল, দয়ালু (11:41)। আকাশ খুলে দেওয়া হয় প্রবল বর্ষণে, ভূমি ফেটে বেরোয় ঝর্ণা — এক নির্ধারিত বিষয়ের জন্য (54:11-12)।",
+            bn: "সংকেতটি ছিল নির্দিষ্ট, আবার অদ্ভুতও: যখন আমার হুকুম এল এবং চুলা উথলে উঠল (11:40)। তাঁকে বলা হলো, প্রত্যেক প্রাণীর এক জোড়া করে নৌকায় তুলে নাও; নিজের পরিবারকেও তোলো, তবে তাদের বাদে, যাদের ব্যাপারে আগেই কথা চূড়ান্ত হয়ে গেছে; আর তোলো যারা ঈমান এনেছে তাদের। তারপর তিনি বললেন: এতে উঠে পড়ো; আল্লাহর নামেই এর চলা আর এর থামা; নিশ্চয়ই আমার প্রভু ক্ষমাশীল, দয়ালু (11:41)। আকাশের দুয়ার খুলে দেওয়া হলো মুষলধারে বৃষ্টি নিয়ে, মাটি ফেটে বেরিয়ে এল ঝরনা, আগে থেকে স্থির করে রাখা এক ফয়সালার জন্য (54:11-12)।",
           },
         ],
       },
@@ -1381,11 +1381,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "As the ship moved through waves like mountains, Nuh called out to a son who had stayed apart: O my son, embark with us and do not be with the disbelievers (11:42). The boy answered that a mountain would shelter him from the water. Nuh replied that there was no protector that day from the decree of Allah except for the one He had mercy upon — and a wave came between them, and he was among the drowned (11:43).",
-            bn: "নৌকা যখন পাহাড়সম ঢেউয়ের মধ্য দিয়ে চলছিল, নূহ দূরে সরে থাকা নিজের এক পুত্রকে ডাকেন: হে আমার পুত্র, আমাদের সঙ্গে আরোহণ করো, অবিশ্বাসীদের সঙ্গে থেকো না (11:42)। ছেলেটি জবাব দেয়, সে এমন পাহাড়ে আশ্রয় নেবে যা তাকে পানি থেকে বাঁচাবে। নূহ বলেন, আজ আল্লাহর ফয়সালা থেকে রক্ষাকারী কেউ নেই, কেবল যাকে তিনি দয়া করেন — আর তখনই দুজনের মাঝে ঢেউ এসে পড়ে, এবং সে ডুবে যাওয়াদের একজন হয়ে যায় (11:43)।",
+            bn: "নৌকা যখন পাহাড়ের মতো ঢেউ ভেঙে চলছিল, নূহ দূরে সরে থাকা নিজের এক ছেলেকে ডাকলেন: হে আমার পুত্র, আমাদের সঙ্গে উঠে এসো, কাফিরদের সঙ্গে থেকো না (11:42)। ছেলেটি জবাব দিল, সে কোনো পাহাড়ে আশ্রয় নেবে, সেটাই তাকে পানি থেকে বাঁচাবে। নূহ বললেন, আজ আল্লাহর ফয়সালা থেকে বাঁচানোর কেউ নেই, কেবল সে ছাড়া যাকে তিনি দয়া করেন। ঠিক তখনই দুজনের মাঝে এসে পড়ল এক ঢেউ, আর সে ডুবে যাওয়াদের দলে চলে গেল (11:43)।",
           },
           {
             en: "It is the sharpest moment in the account. A man had spent nine and a half centuries calling strangers, and the one he could not bring was his own child. Faith is not inherited and cannot be transferred by a father's standing, however high that standing is — the same truth later stated to the Prophet ﷺ himself, that he does not guide whom he likes, but Allah guides whom He wills (28:56).",
-            bn: "এটিই পুরো বিবরণের সবচেয়ে তীব্র মুহূর্ত। যে মানুষ সাড়ে নয়শ বছর ধরে অপরিচিতদের ডেকেছেন, তিনিই নিজের সন্তানকে আনতে পারলেন না। ঈমান উত্তরাধিকারসূত্রে পাওয়া যায় না, পিতার মর্যাদা যত বড়ই হোক তা দিয়ে হস্তান্তরও করা যায় না — একই কথা পরে নবী ﷺ-কেও বলা হয়েছে যে তিনি যাকে ভালোবাসেন তাকে হিদায়াত দিতে পারেন না, বরং আল্লাহ যাকে ইচ্ছা হিদায়াত দেন (28:56)।",
+            bn: "পুরো কাহিনির সবচেয়ে মর্মান্তিক মুহূর্ত এটিই। যে মানুষ সাড়ে নয়শ বছর ধরে অচেনা মানুষদের ডেকে গেছেন, তিনি নিজের সন্তানকেই আনতে পারলেন না। ঈমান উত্তরাধিকারে পাওয়া যায় না; বাবার মর্যাদা যত উঁচুই হোক, তা দিয়ে ঈমান অন্যের কাছে হস্তান্তর করা যায় না। পরে একই সত্য স্বয়ং নবী ﷺ-কে জানানো হয়েছে: আপনি যাকে ভালোবাসেন তাকে হিদায়াত দিতে পারবেন না; বরং আল্লাহ যাকে চান, তাকে হিদায়াত দেন (28:56)।",
           },
         ],
       },
@@ -1394,11 +1394,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "When the water subsided and the ship came to rest upon al-Judi (11:44), Nuh called upon his Lord: my son is of my family, and Your promise is true, and You are the most just of judges (11:45). He was appealing to the promise that his household would be saved. The plea was sincere, made by a prophet, and the answer nonetheless corrected it.",
-            bn: "পানি নেমে গেলে ও নৌকা জুদি পাহাড়ে স্থির হলে (11:44) নূহ তাঁর প্রভুকে ডাকেন: আমার পুত্র তো আমার পরিবারেরই, আপনার প্রতিশ্রুতি সত্য, আর আপনিই সর্বোত্তম বিচারক (11:45)। তিনি সেই প্রতিশ্রুতির দোহাই দিচ্ছিলেন যে তাঁর পরিবার রক্ষা পাবে। আবেদনটি ছিল আন্তরিক, একজন নবীর মুখ থেকেই আসা — তবু জবাব তা সংশোধন করে দেয়।",
+            bn: "পানি নেমে গেল, নৌকা গিয়ে থামল জুদি পাহাড়ে (11:44)। তখন নূহ তাঁর প্রভুকে ডেকে বললেন: আমার ছেলে তো আমার পরিবারেরই একজন, আপনার প্রতিশ্রুতি সত্য, আর আপনিই সবচেয়ে ন্যায়পরায়ণ বিচারক (11:45)। তিনি সেই প্রতিশ্রুতির কথা মনে করিয়ে দিচ্ছিলেন যে, তাঁর পরিবারকে বাঁচানো হবে। আবেদনটি ছিল আন্তরিক, এসেছিল একজন নবীর মুখ থেকে; তবু জবাবে তা শুধরে দেওয়া হলো।",
           },
           {
             en: "O Nuh, he is not of your family; it is a deed other than righteous, so do not ask Me for that of which you have no knowledge, lest you be among the ignorant (11:46). Kinship in this religion is conduct, not blood. Nuh's reply is the model answer to correction: my Lord, I seek refuge in You from asking what I have no knowledge of, and unless You forgive me and have mercy upon me I will be among the losers (11:47). He was told to descend with peace and blessings (11:48), and Allah left his mention among later generations: peace upon Nuh among the worlds (37:78-79).",
-            bn: "হে নূহ, সে তোমার পরিবারভুক্ত নয়; নিশ্চয়ই তার কাজ অসৎ, তাই যে বিষয়ে তোমার জ্ঞান নেই তা আমার কাছে চেয়ো না — আমি তোমাকে উপদেশ দিচ্ছি, যেন তুমি অজ্ঞদের অন্তর্ভুক্ত না হও (11:46)। এই দ্বীনে আত্মীয়তা রক্তের নয়, আমলের। সংশোধনের জবাবে নূহের কথাটিই আদর্শ: হে আমার প্রভু, যে বিষয়ে আমার জ্ঞান নেই তা চাওয়া থেকে আমি আপনার আশ্রয় চাই; আপনি ক্ষমা ও দয়া না করলে আমি ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হব (11:47)। এরপর তাঁকে বলা হয়, আল্লাহর পক্ষ থেকে শান্তি ও বরকত নিয়ে নেমে যাও (11:48); আর অনেক পরে আল্লাহ পরবর্তী প্রজন্মের মধ্যে তাঁর স্মৃতি রেখে দেন — সমগ্র সৃষ্টিজগতে নূহের ওপর শান্তি (37:78-79)।",
+            bn: "হে নূহ, সে তোমার পরিবারের নয়; তার কাজ সৎকাজ নয়। সুতরাং যে বিষয়ে তোমার জ্ঞান নেই, তা আমার কাছে চেয়ো না; আমি তোমাকে উপদেশ দিচ্ছি, যেন তুমি অজ্ঞদের অন্তর্ভুক্ত না হও (11:46)। এই দ্বীনে আত্মীয়তা রক্তের নয়, আমলের। শুধরে দেওয়া হলে কীভাবে সাড়া দিতে হয়, নূহের জবাব তার আদর্শ: হে আমার প্রভু, যে বিষয়ে আমার জ্ঞান নেই, তা চাওয়া থেকে আমি আপনার আশ্রয় চাই; আপনি যদি আমাকে ক্ষমা না করেন, আমার প্রতি রহম না করেন, তবে আমি ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হব (11:47)। এরপর তাঁকে বলা হলো, শান্তি ও বরকত নিয়ে নেমে যাও (11:48)। আর আল্লাহ পরবর্তী প্রজন্মগুলোর মাঝে তাঁর স্মরণ রেখে দিলেন: সমগ্র বিশ্বে নূহের প্রতি সালাম (37:78-79)।",
           },
         ],
       },
@@ -1411,11 +1411,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Before Hud (AS) is introduced, the Quran describes what his people were. Have you not seen how your Lord dealt with 'Ad, Iram of the lofty pillars, the like of which had never been created in the land (89:6-8). They were the great power of their age, and the Quran does not deny their achievement. It records the achievement, and then asks what they did with it.",
-            bn: "হুদ (আঃ)-এর পরিচয় দেওয়ার আগেই কুরআন জানায় তাঁর সম্প্রদায় কেমন ছিল। তুমি কি দেখোনি তোমার প্রভু আদের সঙ্গে কী করেছেন — সুউচ্চ স্তম্ভবিশিষ্ট ইরাম, যার সমতুল্য কোনো দেশে সৃষ্টি করা হয়নি (89:6-8)। তারা ছিল নিজেদের যুগের সবচেয়ে বড় শক্তি, আর কুরআন তাদের কীর্তি অস্বীকার করে না। কুরআন কীর্তিটি লিপিবদ্ধ করে, তারপর প্রশ্ন করে — সেই কীর্তি দিয়ে তারা কী করল।",
+            bn: "হুদ (আঃ)-এর পরিচয় দেওয়ার আগেই কুরআন জানিয়ে দেয়, তাঁর সম্প্রদায় কেমন ছিল। তুমি কি দেখোনি, তোমার প্রভু আদ জাতির সঙ্গে কী করেছেন? সুউচ্চ স্তম্ভের অধিকারী ইরাম, যার মতো কিছু কোনো দেশে সৃষ্টি করা হয়নি (89:6-8)। তারা ছিল নিজেদের যুগের সবচেয়ে বড় শক্তি, আর কুরআন তাদের কীর্তি অস্বীকার করে না। কুরআন সেই কীর্তির কথা জানায়, তারপর প্রশ্ন তোলে: এই কীর্তি দিয়ে তারা করল কী?",
           },
           {
             en: "Their works are described exactly. Do you build on every elevation a landmark, amusing yourselves, and take for yourselves strongholds as though you would live forever, and when you strike, you strike as tyrants (26:128-130). Monuments, fortresses and force, in that order. The objection is not to building. It is to building as a way of forgetting that one will die, and to strength that answers to nothing above itself.",
-            bn: "তাদের কাজের বর্ণনাও নির্দিষ্ট। তোমরা কি প্রতিটি উঁচু জায়গায় স্মারক গড়ে খেলা করছ, আর এমন দুর্গ বানাচ্ছ যেন চিরকাল থাকবে, আর যখন আঘাত হানো তখন স্বৈরাচারীর মতো আঘাত হানো (26:128-130)? স্মারক, দুর্গ ও শক্তি — এই ক্রমেই। আপত্তি নির্মাণের বিরুদ্ধে নয়। আপত্তি সেই নির্মাণের বিরুদ্ধে যা মৃত্যুকে ভুলে থাকার উপায় হয়ে যায়, আর সেই শক্তির বিরুদ্ধে যা নিজের ঊর্ধ্বে কারও কাছে জবাবদিহি করে না।",
+            bn: "তাদের কাজকর্মের বর্ণনাও একদম নির্দিষ্ট। তোমরা কি প্রতিটি উঁচু জায়গায় খেলাচ্ছলে স্মৃতিস্তম্ভ গড়ছ, আর দুর্গ বানাচ্ছ যেন চিরকাল বেঁচে থাকবে? আর যখন আঘাত করো, আঘাত করো জালিমের মতো (26:128-130)। স্মৃতিস্তম্ভ, দুর্গ আর জোর-জবরদস্তি, ঠিক এই ক্রমে। আপত্তি নির্মাণ নিয়ে নয়। আপত্তি এমন নির্মাণ নিয়ে, যা মৃত্যুর কথা ভুলে থাকার উপায় হয়ে ওঠে; আর এমন শক্তি নিয়ে, যা নিজের ওপরে কারও কাছে জবাবদিহি করে না।",
           },
         ],
       },
@@ -1424,11 +1424,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "To 'Ad Allah sent their brother Hud (7:65). The phrase matters. He was one of them, not a stranger with a grievance, and his message was the message of every messenger before and after him: worship Allah, you have no deity other than Him. To that he added a single question shaped for his audience — will you not then fear Him?",
-            bn: "আদের কাছে আল্লাহ পাঠালেন তাদেরই ভাই হুদকে (7:65)। কথাটি গুরুত্বপূর্ণ। তিনি ছিলেন তাদেরই একজন, অভিযোগ নিয়ে আসা কোনো বহিরাগত নন; আর তাঁর বার্তা ছিল তাঁর আগে-পরে প্রত্যেক রাসূলের বার্তাই: আল্লাহর ইবাদত করো, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। এর সঙ্গে তিনি যোগ করেন শ্রোতাদের জন্য গড়া একটিমাত্র প্রশ্ন — তবু কি তোমরা তাঁকে ভয় করবে না?",
+            bn: "আদ জাতির কাছে আল্লাহ পাঠালেন তাদেরই ভাই হুদকে (7:65)। কথাটি খেয়াল করার মতো। তিনি ছিলেন তাদেরই একজন, কোনো ক্ষোভ নিয়ে আসা বাইরের লোক নন। আর তাঁর বার্তা ছিল আগের-পরের সব রাসূলের সেই একই বার্তা: আল্লাহর ইবাদত করো, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। এর সঙ্গে তিনি জুড়ে দিলেন একটিমাত্র প্রশ্ন, যা ঠিক তাঁর শ্রোতাদের মাপে গড়া: তবু কি তোমরা তাঁকে ভয় করবে না?",
           },
           {
             en: "He asked them for nothing at all. My people, I do not ask you for any reward for it; my reward is only from the One who created me (11:51). A man who wants nothing from his listeners removes the explanation they would most like to use. 'Ad were left holding a claim they had to answer on its merits, rather than by guessing at the motive of the man making it.",
-            bn: "তিনি তাদের কাছে কিছুই চাননি। হে আমার সম্প্রদায়, আমি এর জন্য তোমাদের কাছে কোনো প্রতিদান চাই না; আমার প্রতিদান কেবল তাঁর কাছে যিনি আমাকে সৃষ্টি করেছেন (11:51)। যে মানুষ শ্রোতাদের কাছ থেকে কিছুই চায় না, সে তাদের সবচেয়ে পছন্দের ব্যাখ্যাটিই কেড়ে নেয়। আদের হাতে তখন এমন এক দাবি রইল, যার জবাব তাদের দিতে হবে যুক্তিতে — বক্তার উদ্দেশ্য নিয়ে অনুমান করে নয়।",
+            bn: "তিনি তাদের কাছে কিছুই চাননি। হে আমার সম্প্রদায়, এর জন্য আমি তোমাদের কাছে কোনো প্রতিদান চাই না; আমার প্রতিদান কেবল তাঁর কাছে, যিনি আমাকে সৃষ্টি করেছেন (11:51)। যে মানুষ শ্রোতাদের কাছে কিছুই চায় না, তার বিরুদ্ধে শ্রোতাদের সবচেয়ে সুবিধার অজুহাতটিই আর খাটে না। আদ জাতির সামনে তখন রইল একটি দাবি, যার জবাব দিতে হবে দাবির যুক্তি দেখেই; দাবিদারের মতলব আন্দাজ করে নয়।",
           },
         ],
       },
@@ -1437,11 +1437,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "They answered first with contempt. The chiefs who disbelieved among his people said they saw him in foolishness, and they thought him one of the liars (7:66). Then they demanded the punishment itself: bring us what you promise us, if you are of the truthful (7:70). It is the demand of people certain that nothing will happen, made about the one thing they could not have survived.",
-            bn: "প্রথম জবাব ছিল অবজ্ঞা। তাঁর সম্প্রদায়ের অবিশ্বাসী প্রধানেরা বলল, তারা তাঁকে নির্বুদ্ধিতায় ডুবে থাকতে দেখছে, আর তারা তাঁকে মিথ্যাবাদীদের একজন মনে করে (7:66)। এরপর তারা শাস্তিই দাবি করে বসল: তুমি সত্যবাদী হলে আমাদের যা প্রতিশ্রুতি দিচ্ছ তা নিয়ে এসো (7:70)। এটি সেই মানুষদের দাবি, যারা নিশ্চিত যে কিছুই ঘটবে না — অথচ দাবিটি ঠিক সেই জিনিস নিয়ে, যা থেকে তাদের বাঁচার কোনো উপায় ছিল না।",
+            bn: "প্রথম জবাব ছিল অবজ্ঞা। তাঁর সম্প্রদায়ের কাফির নেতারা বলল, আমরা তো দেখছি তুমি নির্বুদ্ধিতায় ডুবে আছ, আর আমাদের মনে হয় তুমি মিথ্যাবাদীদের একজন (7:66)। এরপর তারা শাস্তিটাই চেয়ে বসল: তুমি সত্যবাদী হলে আমাদের যার ভয় দেখাচ্ছ, তা নিয়ে এসো (7:70)। যারা নিশ্চিত যে কিছুই ঘটবে না, এ তাদেরই দাবি; অথচ তারা চাইছিল ঠিক সেই জিনিস, যার হাত থেকে বেঁচে যাওয়ার কোনো উপায় তাদের ছিল না।",
           },
           {
             en: "Their deeper argument was religious rather than rational. We say only that some of our gods have afflicted you with evil (11:54). His preaching against the idols was explained as a madness the idols themselves had sent upon him. When a society's gods double as its explanation for dissent, the dissenter cannot be heard at all, and it is at this point that argument ended between Hud and his people.",
-            bn: "তাদের গভীরতর যুক্তিটি ছিল ধর্মীয়, বুদ্ধিবৃত্তিক নয়। আমরা কেবল এটুকুই বলি যে আমাদের কোনো দেবতা তোমাকে অনিষ্ট দিয়ে আক্রান্ত করেছে (11:54)। মূর্তির বিরুদ্ধে তাঁর প্রচারকে ব্যাখ্যা করা হলো মূর্তিদেরই পাঠানো এক উন্মাদনা হিসেবে। যে সমাজে দেবতারাই ভিন্নমতের ব্যাখ্যা হয়ে দাঁড়ায়, সেখানে ভিন্নমত পোষণকারীর কথা শোনার আর কোনো পথ থাকে না; হুদ ও তাঁর সম্প্রদায়ের মধ্যে যুক্তির আলোচনা এখানেই শেষ হয়।",
+            bn: "তাদের আসল যুক্তিটা ছিল ধর্মীয়, বুদ্ধির নয়: আমরা তো শুধু এটুকুই বলি, আমাদের কোনো এক দেবতা তোমার ওপর আছর করেছে (11:54)। মূর্তির বিরুদ্ধে তাঁর দাওয়াতকে তারা ব্যাখ্যা করল এক পাগলামি হিসেবে, যা স্বয়ং মূর্তিরাই তাঁর ওপর চাপিয়ে দিয়েছে। কোনো সমাজের দেবতারাই যখন ভিন্নমতের ব্যাখ্যা হয়ে দাঁড়ায়, তখন ভিন্নমতের মানুষটির কথা আর শোনাই যায় না। হুদ ও তাঁর সম্প্রদায়ের মধ্যে যুক্তির আলাপ এখানেই শেষ হয়ে গেল।",
           },
         ],
       },
@@ -1450,11 +1450,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "His answer is one of the strongest declarations of tawhid in the Quran. I call Allah to witness, and you bear witness, that I am free of what you associate with Him. So plot against me all together and give me no respite. I have relied upon Allah, my Lord and your Lord — there is no creature but He holds it by its forelock (11:54-56).",
-            bn: "তাঁর জবাবটি কুরআনের সবচেয়ে শক্তিশালী তাওহীদের ঘোষণাগুলোর একটি। আমি আল্লাহকে সাক্ষী রাখছি, আর তোমরাও সাক্ষী থাকো যে, তোমরা যাদের শরিক করো আমি তাদের থেকে সম্পূর্ণ মুক্ত। তাই তোমরা সবাই মিলে আমার বিরুদ্ধে ষড়যন্ত্র করো, আমাকে কোনো অবকাশ দিয়ো না। আমি ভরসা করেছি আল্লাহর ওপর, যিনি আমার প্রভু ও তোমাদেরও প্রভু — এমন কোনো প্রাণী নেই যার ললাট তাঁর হাতে ধরা নয় (11:54-56)।",
+            bn: "তাঁর জবাবটি কুরআনের সবচেয়ে শক্তিশালী তাওহীদের ঘোষণাগুলোর একটি। আমি আল্লাহকে সাক্ষী রাখছি, আর তোমরাও সাক্ষী থাকো যে, তোমরা যাদের শরিক করো আমি তাদের থেকে সম্পূর্ণ মুক্ত। তাই তোমরা সবাই মিলে আমার বিরুদ্ধে ষড়যন্ত্র করো, আমাকে কোনো অবকাশ দিয়ো না। আমি ভরসা করেছি আল্লাহর ওপর, যিনি আমার প্রভু, তোমাদেরও প্রভু; এমন কোনো প্রাণী নেই, যার কপালের চুল তাঁর মুঠোয় ধরা নয় (11:54-56)।",
           },
           {
             en: "He then told them what refusal would cost, and what it would not. If you turn away, I have already conveyed to you what I was sent with, and my Lord will replace you with another people, and you will not harm Him at all (11:57). The messenger's task is delivery. The outcome belongs to Allah, and the loss in rejecting Him falls entirely on those who reject.",
-            bn: "এরপর তিনি জানিয়ে দেন প্রত্যাখ্যানের মূল্য কী, আর কী নয়। তোমরা মুখ ফিরিয়ে নিলে নাও — আমি যা নিয়ে প্রেরিত হয়েছি তা তোমাদের পৌঁছে দিয়েছি; আমার প্রভু তোমাদের বদলে অন্য সম্প্রদায়কে স্থলাভিষিক্ত করবেন, আর তোমরা তাঁর কোনো ক্ষতি করতে পারবে না (11:57)। রাসূলের কাজ পৌঁছে দেওয়া। ফলাফল আল্লাহর হাতে, আর তাঁকে প্রত্যাখ্যানের ক্ষতি পুরোপুরি বর্তায় প্রত্যাখ্যানকারীদের ওপরই।",
+            bn: "তারপর তিনি জানিয়ে দেন, প্রত্যাখ্যানের পরিণাম কী হবে, আর কী হবে না। তোমরা যদি মুখ ফিরিয়ে নাও, তবে জেনে রাখো, যা নিয়ে আমাকে পাঠানো হয়েছে তা আমি তোমাদের কাছে পৌঁছে দিয়েছি; আমার প্রভু তোমাদের জায়গায় অন্য এক জাতিকে বসাবেন, আর তোমরা তাঁর কোনো ক্ষতিই করতে পারবে না (11:57)। রাসূলের কাজ পৌঁছে দেওয়া। ফলাফল আল্লাহর হাতে, আর তাঁকে প্রত্যাখ্যানের পুরো ক্ষতি পড়ে প্রত্যাখ্যানকারীদের ঘাড়েই।",
           },
         ],
       },
@@ -1467,7 +1467,7 @@ var PROPHET_ARTICLES = {
           },
           {
             en: "The end then arrived disguised as the thing they most wanted. When they saw it as a dense cloud approaching their valleys they said, this is a cloud bringing us rain. Rather, it is that which you were impatient for: a wind within which is a painful punishment (46:24). By morning nothing could be seen of them but their dwellings (46:25).",
-            bn: "এরপর ধ্বংস এল ঠিক সেই বেশে, যা তারা সবচেয়ে বেশি চাইছিল। যখন তারা দেখল ঘন এক মেঘ তাদের উপত্যকার দিকে আসছে, তারা বলল, এ তো মেঘ, আমাদের বৃষ্টি দেবে। বরং এটি সেটিই, যার জন্য তোমরা তাড়াহুড়ো করছিলে — এমন এক বাতাস যাতে রয়েছে যন্ত্রণাদায়ক শাস্তি (46:24)। সকাল হতেই তাদের বসতিগুলো ছাড়া আর কিছুই দেখা গেল না (46:25)।",
+            bn: "এরপর ধ্বংস এল ঠিক সেই বেশে, যা তারা সবচেয়ে বেশি চাইছিল। যখন তারা দেখল ঘন এক মেঘ তাদের উপত্যকার দিকে আসছে, তারা বলল, এ তো মেঘ, আমাদের বৃষ্টি দেবে। বরং এটি সেটিই, যার জন্য তোমরা তাড়াহুড়ো করছিলে: এমন এক বাতাস, যাতে রয়েছে যন্ত্রণাদায়ক শাস্তি (46:24)। সকাল হতেই তাদের বসতিগুলো ছাড়া আর কিছুই দেখা গেল না (46:25)।",
           },
         ],
       },
@@ -1476,11 +1476,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "As for 'Ad, they were destroyed by a screaming, violent wind, which Allah imposed upon them for seven nights and eight days in succession, so you would see the people therein fallen as if they were hollow trunks of palm trees (69:6-7). A wind is the softest instrument imaginable, and it was turned against the people who measured everything by force. Hud and those who believed with him were saved by a mercy from Allah (11:58).",
-            bn: "আর আদ, তাদের ধ্বংস করা হয়েছিল এক প্রচণ্ড গর্জনশীল ঝড় দিয়ে, যা আল্লাহ তাদের ওপর চাপিয়ে দেন একটানা সাত রাত ও আট দিন; ফলে তুমি দেখতে সেখানকার মানুষ পড়ে আছে যেন ফাঁপা খেজুরকাণ্ড (69:6-7)। বাতাস হলো কল্পনাযোগ্য সবচেয়ে কোমল উপকরণ, আর সেটিকেই চালানো হলো সেই জাতির বিরুদ্ধে যারা সব কিছু মাপত শক্তি দিয়ে। হুদ ও তাঁর সঙ্গে যারা ঈমান এনেছিল, তাঁরা আল্লাহর রহমতে রক্ষা পান (11:58)।",
+            bn: "আর আদ জাতি, তাদের ধ্বংস করা হয়েছিল প্রচণ্ড গর্জনের এক তীব্র ঝড়ে, যা আল্লাহ তাদের ওপর চাপিয়ে রেখেছিলেন একটানা সাত রাত আট দিন; তখন তুমি দেখতে, মানুষগুলো সেখানে পড়ে আছে যেন ফাঁপা খেজুরগাছের কাণ্ড (69:6-7)। বাতাসের চেয়ে কোমল কিছু ভাবাই কঠিন; অথচ সেটিকেই পাঠানো হলো সেই জাতির বিরুদ্ধে, যারা সবকিছু মাপত গায়ের জোরে। হুদ ও তাঁর সঙ্গে যারা ঈমান এনেছিল, তাঁরা আল্লাহর রহমতে রক্ষা পান (11:58)।",
           },
           {
             en: "The Quran then sets 'Ad beside Thamud again and again — in Surah al-A'raf, in Surah Hud, in Surah al-Fajr — always in the same order and always for the same reason. Two peoples, two different gifts, two clear warnings delivered by a brother from among them, and two identical refusals. The pattern is itself the argument: what ruined them was not their strength but the conclusion they drew from it.",
-            bn: "এরপর কুরআন বারবার আদের পাশে সামুদকে বসায় — সূরা আল-আরাফে, সূরা হুদে, সূরা আল-ফাজরে — সবসময় একই ক্রমে ও একই কারণে। দুটি জাতি, দুই রকম নিয়ামত, তাদেরই মধ্য থেকে আসা ভাইয়ের মুখে দুটি স্পষ্ট সতর্কবাণী, আর অবিকল একই দুটি প্রত্যাখ্যান। এই ধারাবাহিকতাই যুক্তি: তাদের ধ্বংস করেছিল তাদের শক্তি নয়, বরং সেই শক্তি থেকে তারা যে সিদ্ধান্ত টেনেছিল সেটিই।",
+            bn: "এরপর কুরআন বারবার আদের পাশে সামুদকে রাখে: সূরা আল-আরাফে, সূরা হুদে, সূরা আল-ফাজরে। সবসময় একই ক্রমে, সবসময় একই কারণে। দুটি জাতি, দুই রকম নিয়ামত; তাদেরই এক ভাইয়ের মুখে দুটি স্পষ্ট সতর্কবাণী; আর হুবহু একই রকম দুটি প্রত্যাখ্যান। এই পুনরাবৃত্তিটাই আসল যুক্তি: তাদের ধ্বংস করেছিল তাদের শক্তি নয়, বরং সেই শক্তি দেখে তারা যে সিদ্ধান্তে পৌঁছেছিল, সেটাই।",
           },
         ],
       },
@@ -1493,11 +1493,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Remember when He made you successors after 'Ad and settled you in the land, taking for yourselves palaces from its plains and carving out homes in the mountains (7:74). Thamud inherited both the territory and the warning of the people before them. Their gift was not raw power but skill: they cut dwellings directly out of rock faces, and the Quran says they carved homes from the mountains, feeling secure (15:82).",
-            bn: "স্মরণ করো, যখন তিনি তোমাদের আদের পর স্থলাভিষিক্ত করলেন এবং পৃথিবীতে বসতি দিলেন — তোমরা সমতল থেকে প্রাসাদ গড়তে ও পাহাড় কেটে ঘর বানাতে (7:74)। সামুদ উত্তরাধিকারে পেয়েছিল ভূখণ্ড এবং আগের জাতির প্রতি দেওয়া সতর্কবার্তা — দুটোই। তাদের নিয়ামত ছিল কাঁচা শক্তি নয়, দক্ষতা: তারা পাথরের গা কেটে সরাসরি বাসস্থান বানাত, আর কুরআন বলে, তারা পাহাড় কেটে ঘর বানাত নিরাপদ বোধ করে (15:82)।",
+            bn: "স্মরণ করো, তিনি আদের পর তোমাদের তাদের স্থলাভিষিক্ত করেছেন এবং জমিনে বসতি দিয়েছেন; তোমরা সমতলে প্রাসাদ গড়ো আর পাহাড় কেটে ঘর বানাও (7:74)। সামুদ আগের জাতির কাছ থেকে উত্তরাধিকারে পেয়েছিল দুটো জিনিস: তাদের ভূখণ্ড, আর তাদের প্রতি আসা সতর্কবাণী। সামুদের নিয়ামত কাঁচা শক্তি ছিল না, ছিল দক্ষতা: তারা পাথরের পাহাড় কেটে সরাসরি ঘর বানাত। কুরআন বলে, তারা নিশ্চিন্ত মনে পাহাড় কেটে ঘর বানাত (15:82)।",
           },
           {
             en: "Their prosperity is described in the same tone. Will you be left in what you have here, secure, among gardens and springs, and fields and palm trees with softened fruit — and you carve out of the mountains, homes, with skill (26:146-149). Every clause is a favour, and the passage lists them so that the question at the end lands: will you not fear Allah and obey me?",
-            bn: "তাদের সমৃদ্ধিরও বর্ণনা একই সুরে। তোমাদের কি এখানকার সব কিছুতে নিরাপদে ছেড়ে দেওয়া হবে — বাগান ও ঝর্ণার মাঝে, ক্ষেত ও কোমল ফলে ভরা খেজুরবাগানে? আর তোমরা দক্ষতার সঙ্গে পাহাড় কেটে ঘর বানাও (26:146-149)। প্রতিটি বাক্যাংশই একটি অনুগ্রহ, আর সেগুলো একে একে গোনা হয়েছে যেন শেষের প্রশ্নটি জায়গামতো লাগে: তবু কি তোমরা আল্লাহকে ভয় করবে না এবং আমার আনুগত্য করবে না?",
+            bn: "তাদের সমৃদ্ধির বর্ণনাও একই সুরে। তোমাদের কি এখানকার সবকিছুর মাঝে নিরাপদে ছেড়ে রাখা হবে? বাগান আর ঝরনার মাঝে, শস্যক্ষেত আর নরম রসালো খেজুরে ভরা বাগানে? আর তোমরা দক্ষ হাতে পাহাড় কেটে ঘর বানাও (26:146-149)। প্রতিটি কথাই একেকটি অনুগ্রহ; একে একে সেগুলো গোনানো হয়েছে, যাতে শেষের প্রশ্নটি ঠিক জায়গায় গিয়ে লাগে: তবু কি তোমরা আল্লাহকে ভয় করবে না, আমার কথা মানবে না?",
           },
         ],
       },
@@ -1506,11 +1506,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "To Thamud Allah sent their brother Salih (11:61), and his call was the same one that had already been refused once in that land: worship Allah, you have no deity other than Him. He added a reason drawn from their own history — He produced you from the earth and settled you in it, so ask forgiveness of Him and then repent to Him.",
-            bn: "সামুদের কাছে আল্লাহ পাঠালেন তাদেরই ভাই সালিহকে (11:61), আর তাঁর আহ্বান ছিল সেই একই আহ্বান যা ওই ভূখণ্ডে একবার প্রত্যাখ্যাত হয়ে গেছে: আল্লাহর ইবাদত করো, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। তিনি সঙ্গে যোগ করেন তাদের নিজেদের ইতিহাস থেকে নেওয়া এক যুক্তি — তিনিই তোমাদের মাটি থেকে সৃষ্টি করেছেন ও সেখানেই বসতি দিয়েছেন; তাই তাঁর কাছে ক্ষমা চাও, অতঃপর তাঁর দিকেই ফিরে এসো।",
+            bn: "সামুদের কাছে আল্লাহ পাঠালেন তাদেরই ভাই সালিহকে (11:61)। তাঁর দাওয়াতও ছিল সেই একই দাওয়াত, যা ওই ভূখণ্ডে আগে একবার প্রত্যাখ্যাত হয়েছিল: আল্লাহর ইবাদত করো, তিনি ছাড়া তোমাদের কোনো ইলাহ নেই। সঙ্গে তিনি তাদের নিজেদের ইতিহাস থেকে একটি যুক্তি দিলেন: তিনিই তোমাদের মাটি থেকে সৃষ্টি করেছেন, আর সেখানেই বসতি দিয়েছেন; তাই তাঁর কাছে ক্ষমা চাও, তারপর তওবা করে তাঁর দিকেই ফিরে এসো।",
           },
           {
             en: "Their reply contains a detail found nowhere else. O Salih, you were among us one in whom hope was placed before this (11:62). He had been the promising man of his people, the one they expected great things from, and their complaint was that he had turned away from what their fathers worshipped. Opposition to him was not sudden dislike; it was a community feeling betrayed by its own best.",
-            bn: "তাদের জবাবে এমন একটি কথা আছে যা আর কোথাও নেই। হে সালিহ, এর আগে তুমি তো আমাদের মধ্যে এমন একজন ছিলে যাকে ঘিরে আশা ছিল (11:62)। তিনি ছিলেন সম্প্রদায়ের সেই সম্ভাবনাময় মানুষ, যাঁর কাছে তারা বড় কিছু আশা করত; আর তাদের অভিযোগ ছিল, তিনি পিতৃপুরুষের উপাস্যদের থেকে মুখ ফিরিয়ে নিয়েছেন। তাঁর বিরোধিতা হঠাৎ গজিয়ে ওঠা অপছন্দ নয় — এটি ছিল নিজেদের সেরা মানুষের হাতে প্রতারিত বোধ করা একটি সমাজ।",
+            bn: "তাদের জবাবে এমন একটি কথা আছে, যা আর কোথাও পাওয়া যায় না। হে সালিহ, এর আগে তো তুমি ছিলে আমাদের আশার মানুষ (11:62)। তিনি ছিলেন সম্প্রদায়ের সম্ভাবনাময় মানুষ, যাঁকে নিয়ে সবাই বড় কিছু আশা করত। আর তাদের অভিযোগ ছিল, বাপ-দাদারা যাদের পূজা করত, তিনি তাদের থেকে মুখ ফিরিয়ে নিয়েছেন। তাঁর বিরোধিতা হঠাৎ জন্মানো অপছন্দ থেকে আসেনি; এ ছিল এমন এক সমাজের ক্ষোভ, যারা ভাবছিল তাদের সেরা মানুষটিই তাদের সঙ্গে বিশ্বাসঘাতকতা করেছে।",
           },
         ],
       },
@@ -1519,11 +1519,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "They asked for proof, and it was given in a form no one could dispute. This is the she-camel of Allah, for you a sign, so leave her to eat within Allah's land and do not touch her with harm, lest a painful punishment seize you (7:73). The sign was not a spectacle in the sky. It was an animal that had to be lived with, day after day, in public.",
-            bn: "তারা প্রমাণ চেয়েছিল, আর প্রমাণ এল এমন এক রূপে যা নিয়ে বিতর্ক করার উপায় নেই। এটি আল্লাহর উষ্ট্রী, তোমাদের জন্য নিদর্শন; একে আল্লাহর জমিনে চরতে দাও এবং কোনো ক্ষতি দিয়ে স্পর্শ কোরো না, নইলে যন্ত্রণাদায়ক শাস্তি তোমাদের ধরবে (7:73)। নিদর্শনটি আকাশে দেখানো কোনো দৃশ্য ছিল না। এটি ছিল এমন এক প্রাণী, যার সঙ্গে দিনের পর দিন প্রকাশ্যে বসবাস করতে হতো।",
+            bn: "তারা প্রমাণ চেয়েছিল, আর প্রমাণ এল এমন রূপে, যা নিয়ে তর্কের সুযোগ নেই। এটি আল্লাহর উষ্ট্রী, তোমাদের জন্য নিদর্শন; একে আল্লাহর জমিনে চরে খেতে দাও, কোনো মন্দ উদ্দেশ্যে একে ছুঁয়ো না, নইলে যন্ত্রণাদায়ক শাস্তি তোমাদের পাকড়াও করবে (7:73)। নিদর্শনটি আকাশে দেখানো কোনো দৃশ্য ছিল না। এ ছিল এক জীবন্ত প্রাণী, যাকে নিয়ে সবার চোখের সামনে দিনের পর দিন বাস করতে হতো।",
           },
           {
             en: "The terms were exact. This is a she-camel; for her is a share of water, and for you a share of water, each on a known day (26:155). Water in that country was the whole of life, and a shared turn at it meant a daily decision, taken by the entire town, to accept a command from Allah. Allah calls the arrangement plainly what it was: a trial for them (54:27).",
-            bn: "শর্ত ছিল নির্দিষ্ট। এটি একটি উষ্ট্রী; পানির একটি ভাগ তার, আর একটি ভাগ তোমাদের — প্রত্যেকের জন্য নির্ধারিত দিনে (26:155)। ওই দেশে পানিই ছিল গোটা জীবন, আর পানির পালা ভাগ করার অর্থ ছিল প্রতিদিন গোটা জনপদের একটি সিদ্ধান্ত: আল্লাহর একটি আদেশ মেনে নেওয়া। আল্লাহ এই ব্যবস্থাটিকে স্পষ্ট নামেই ডাকেন — তাদের জন্য এক পরীক্ষা (54:27)।",
+            bn: "শর্তগুলো ছিল একদম নির্দিষ্ট। এই উষ্ট্রী; পানি পানের একটি পালা তার, আর একটি পালা তোমাদের, প্রত্যেকের জন্য নির্ধারিত দিনে (26:155)। ওই দেশে পানিই ছিল জীবনের সবকিছু। তাই পানির পালা ভাগ করে নেওয়ার মানে ছিল, গোটা জনপদকে প্রতিদিন নতুন করে আল্লাহর একটি হুকুম মেনে নেওয়ার সিদ্ধান্ত নিতে হবে। আল্লাহ এই ব্যবস্থার আসল নামটিই বলে দেন: তাদের জন্য এক পরীক্ষা (54:27)।",
           },
         ],
       },
@@ -1532,11 +1532,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The Quran is careful about who did it. The most wretched of them was sent forth, and the messenger of Allah said to them, this is the she-camel of Allah and her drink. But they denied him and hamstrung her, so their Lord brought down upon them destruction for their sin and levelled them (91:12-14). One man struck; the whole people are held responsible, because they consented.",
-            bn: "কে কাজটি করেছিল, কুরআন সে বিষয়ে সতর্ক। তাদের সবচেয়ে দুর্ভাগা লোকটিকে পাঠানো হলো, আর আল্লাহর রাসূল তাদের বললেন, এ তো আল্লাহর উষ্ট্রী ও তার পানি পানের পালা। কিন্তু তারা তাঁকে মিথ্যা বলল এবং উষ্ট্রীটিকে হত্যা করল; তখন তাদের প্রভু তাদের পাপের কারণে তাদের ওপর ধ্বংস নামিয়ে সব সমান করে দিলেন (91:12-14)। আঘাত করেছিল একজন; দায় বর্তায় গোটা জাতির ওপর, কারণ তারা সম্মতি দিয়েছিল।",
+            bn: "কাজটি কে করেছিল, কুরআন এ ব্যাপারে খুব সতর্ক। তাদের সবচেয়ে হতভাগা লোকটি ছুটে গেল; আল্লাহর রাসূল তাদের বললেন, এ আল্লাহর উষ্ট্রী, আর এ তার পানি পানের পালা। কিন্তু তারা তাঁকে মিথ্যাবাদী বলল এবং উষ্ট্রীর পায়ের রগ কেটে দিল; তখন তাদের গুনাহের কারণে তাদের প্রভু তাদের ওপর ধ্বংস নামিয়ে সবাইকে মাটির সঙ্গে মিশিয়ে দিলেন (91:12-14)। আঘাত করেছিল একজন; দায় পড়ল গোটা জাতির ওপর, কারণ তারা এতে সায় দিয়েছিল।",
           },
           {
             en: "There was also a plot. In the city were nine men who caused corruption and did not reform, and they swore by Allah that they would attack Salih and his family by night, and then tell his heir they had not witnessed the destruction of his household, and that they were truthful (27:48-49). Men who were about to commit murder were still arranging an oath in Allah's name to cover it.",
-            bn: "একটি ষড়যন্ত্রও ছিল। নগরীতে ছিল নয় ব্যক্তি, যারা বিপর্যয় ঘটাত ও সংশোধন করত না; তারা আল্লাহর নামে কসম খেয়ে বলল, তারা রাতে সালিহ ও তাঁর পরিবারের ওপর হামলা করবে, তারপর তাঁর উত্তরাধিকারীকে বলবে যে তারা তাঁর পরিবারের ধ্বংস দেখেনি এবং তারা সত্যবাদী (27:48-49)। যারা হত্যা করতে যাচ্ছিল, তারাই সেটি ঢাকতে আল্লাহর নামে কসমের বন্দোবস্ত করছিল।",
+            bn: "একটি ষড়যন্ত্রও হয়েছিল। শহরে ছিল নয়জন লোক, যারা দেশে ফাসাদ ছড়াত, কোনো সংশোধন করত না। তারা আল্লাহর নামে কসম খেয়ে ঠিক করল, রাতের বেলা সালিহ ও তাঁর পরিবারের ওপর হামলা চালাবে, তারপর তাঁর উত্তরাধিকারীকে বলবে, তাঁর পরিবারের ধ্বংস আমরা চোখেও দেখিনি, আর আমরা সত্যই বলছি (27:48-49)। যারা খুন করতে যাচ্ছিল, তারাও সেটা ঢাকতে আল্লাহর নামে কসমের ব্যবস্থা পাকা করছিল।",
           },
         ],
       },
@@ -1558,11 +1558,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The Quran states the reason without ambiguity. As for Thamud, We guided them, but they preferred blindness over guidance (41:17). They were not left without knowledge; they were given a sign, a warning, a named prophet from among themselves and a grace period, and each was refused. The verdict falls on choice, not on ignorance, which is why it can be a warning to anyone reading it.",
-            bn: "কারণটি কুরআন কোনো অস্পষ্টতা ছাড়াই বলে দেয়। আর সামুদ, আমি তাদের পথ দেখিয়েছিলাম, কিন্তু তারা হিদায়াতের ওপর অন্ধত্বকেই বেছে নিয়েছিল (41:17)। তাদের জ্ঞান থেকে বঞ্চিত রাখা হয়নি; তাদের দেওয়া হয়েছিল নিদর্শন, সতর্কবার্তা, নিজেদের মধ্য থেকে নাম ধরে পাঠানো এক নবী এবং অবকাশের সময় — প্রতিটিই তারা ফিরিয়ে দিয়েছে। রায়টি অজ্ঞতার ওপর নয়, বাছাইয়ের ওপর; এ কারণেই যে কেউ এটি পড়ে তার জন্যই এটি সতর্কবার্তা।",
+            bn: "কারণটি কুরআন কোনো অস্পষ্টতা ছাড়াই বলে দেয়। আর সামুদ, আমি তাদের পথ দেখিয়েছিলাম, কিন্তু তারা হিদায়াতের চেয়ে অন্ধত্বকেই বেশি পছন্দ করল (41:17)। তাদের না-জানা অবস্থায় রাখা হয়নি। তাদের দেওয়া হয়েছিল নিদর্শন, সতর্কবাণী, নিজেদের মধ্য থেকে নাম ধরে পাঠানো এক নবী, আর অবকাশের সময়ও; প্রতিটিই তারা ফিরিয়ে দিয়েছে। রায়টি এসেছে তাদের নিজেদের বেছে নেওয়ার কারণে, না-জানার কারণে নয়; তাই যে-ই এটি পড়ুক, তার জন্যই এটি সতর্কবাণী।",
           },
           {
             en: "Their dwellings survived them. And the companions of al-Hijr denied the messengers; We gave them Our signs, but they turned away from them (15:80-81). When the Muslim army passed those carved houses on the way to Tabuk, the Prophet ﷺ told his companions not to enter the dwellings of those who wronged themselves except in tears, lest what struck them strike the visitors too. Ruins are not tourism in this religion; they are evidence.",
-            bn: "তাদের বসতিগুলো তাদের চেয়ে বেশিদিন টিকে থাকল। আর হিজরের অধিবাসীরা রাসূলদের অস্বীকার করেছিল; আমি তাদের নিদর্শন দিয়েছিলাম, কিন্তু তারা তা থেকে মুখ ফিরিয়ে নিয়েছিল (15:80-81)। তাবুকের পথে মুসলিম বাহিনী যখন সেই খোদাই করা ঘরগুলোর পাশ দিয়ে যায়, নবী ﷺ সাহাবিদের বলেন, যারা নিজেদের ওপর জুলুম করেছে তাদের বাসস্থানে কান্না ছাড়া প্রবেশ কোরো না, নইলে তাদের ওপর যা এসেছিল তা তোমাদের ওপরও আসতে পারে। এই দ্বীনে ধ্বংসাবশেষ ভ্রমণের বিষয় নয়, তা প্রমাণ।",
+            bn: "তাদের বসতিগুলো তাদের চেয়ে বেশিদিন টিকে রইল। আর হিজরের অধিবাসীরা রাসূলদের অস্বীকার করেছিল; আমি তাদের নিদর্শন দিয়েছিলাম, কিন্তু তারা সেগুলো থেকে মুখ ফিরিয়ে নিয়েছিল (15:80-81)। তাবুকের পথে মুসলিম বাহিনী যখন পাহাড় কেটে বানানো সেই ঘরগুলোর পাশ দিয়ে যায়, নবী ﷺ সাহাবিদের বলেন, যারা নিজেদের ওপর জুলুম করেছে, তাদের বাসস্থানে কাঁদতে কাঁদতে ছাড়া প্রবেশ কোরো না, নইলে তাদের ওপর যা এসেছিল তা তোমাদের ওপরও আসতে পারে। এই দ্বীনে ধ্বংসাবশেষ বেড়ানোর জায়গা নয়; তা সাক্ষ্য-প্রমাণ।",
           },
         ],
       },
@@ -1588,11 +1588,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "He took the argument home first. O my father, why do you worship that which does not hear and does not see (19:42). Each address opens with the same words, my father, and the last offers help rather than judgement: knowledge has come to me that has not come to you, so follow me and I will guide you to an even path (19:43).",
-            bn: "যুক্তিটি তিনি প্রথমে ঘরেই তুললেন। হে আমার পিতা, আপনি এমন কিছুর ইবাদত করেন কেন যা শোনে না, দেখে না এবং আপনার কোনো উপকারেও আসে না (19:42)? প্রতিটি সম্বোধনের শুরুতেই একই শব্দ — হে আমার পিতা — মোট চারবার; আর শেষটি বিচার নয়, সাহায্যের প্রস্তাব: আমার কাছে এমন জ্ঞান এসেছে যা আপনার কাছে আসেনি, তাই আমাকে অনুসরণ করুন, আমি আপনাকে সরল পথ দেখাব (19:43)।",
+            bn: "যুক্তিটি তিনি প্রথমে নিয়ে গেলেন নিজের ঘরে। হে আমার পিতা, আপনি এমন কিছুর ইবাদত কেন করেন, যা শোনে না, দেখে না (19:42)? প্রতিবার কথা শুরু হয় একই সম্বোধনে, হে আমার পিতা; আর শেষ কথাটিতে রায় নেই, আছে সাহায্যের প্রস্তাব: আমার কাছে এমন জ্ঞান এসেছে যা আপনার কাছে আসেনি; তাই আমার অনুসরণ করুন, আমি আপনাকে সরল পথ দেখাব (19:43)।",
           },
           {
             en: "The answer was a threat of stoning and an order to leave him for a long time (19:46). Ibrahim (AS) replied, peace be upon you; I will ask forgiveness for you from my Lord (19:47). He kept that word, and the Quran explains that the request was only because of a promise he had made; when it became clear his father was an enemy to Allah, he disassociated from him (9:114).",
-            bn: "জবাব এল পাথর মেরে হত্যার হুমকি আর দীর্ঘদিনের জন্য দূরে সরে যাওয়ার আদেশ (19:46)। ইবরাহীম (আঃ) বললেন, আপনার প্রতি সালাম; আমি আমার প্রভুর কাছে আপনার জন্য ক্ষমা চাইব (19:47)। তিনি কথা রেখেছিলেন; আর কুরআন পরে ব্যাখ্যা দেয় যে সেই ক্ষমাপ্রার্থনা ছিল কেবল একটি প্রতিশ্রুতির কারণে, এবং যখন স্পষ্ট হলো তাঁর পিতা আল্লাহর শত্রু, তখন তিনি তাঁর থেকে সম্পর্ক ছিন্ন করেন (9:114)।",
+            bn: "জবাবে এল পাথর মেরে হত্যার হুমকি, আর হুকুম: দীর্ঘ সময়ের জন্য আমার কাছ থেকে দূর হয়ে যাও (19:46)। ইবরাহীম (আঃ) বললেন, আপনার প্রতি সালাম; আমি আমার প্রভুর কাছে আপনার জন্য ক্ষমা চাইব (19:47)। তিনি কথা রেখেছিলেন। কুরআন ব্যাখ্যা করে, এই ক্ষমা চাওয়া ছিল কেবল একটি ওয়াদার কারণে; যখন স্পষ্ট হলো তাঁর পিতা আল্লাহর শত্রু, তখন তিনি তার সঙ্গে সম্পর্ক ছিন্ন করলেন (9:114)।",
           },
         ],
       },
@@ -1601,11 +1601,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "He asked his people what these statues were to which they were devoted, and they answered that they had found their fathers worshipping them (21:52-53). That was the whole case: inheritance. He told them plainly they and their fathers had been in clear error, and then said he had a plan for their idols after they had turned their backs (21:54, 21:57).",
-            bn: "তিনি তাঁর সম্প্রদায়কে জিজ্ঞেস করলেন, এই মূর্তিগুলো কী, যাদের প্রতি তোমরা এত নিবেদিত; তারা বলল, তারা তাদের পিতৃপুরুষদের এদের পূজা করতে দেখেছে (21:52-53)। পুরো যুক্তিটাই এই — উত্তরাধিকার। তিনি স্পষ্ট বললেন, তারা ও তাদের পিতৃপুরুষেরা প্রকাশ্য ভ্রান্তিতে ছিল; এরপর বললেন, তারা পিঠ ফিরিয়ে চলে গেলে তিনি তাদের মূর্তিগুলোর ব্যাপারে একটি পরিকল্পনা করবেন (21:54, 21:57)।",
+            bn: "তিনি সম্প্রদায়ের লোকদের জিজ্ঞেস করলেন, এই মূর্তিগুলো কী, যাদের নিয়ে তোমরা এত মগ্ন? তারা বলল, আমরা আমাদের বাপ-দাদাদের এদের পূজা করতে দেখেছি (21:52-53)। তাদের পুরো যুক্তি এটুকুই: উত্তরাধিকার। তিনি সোজাসুজি বললেন, তোমরা আর তোমাদের বাপ-দাদারা স্পষ্ট গোমরাহিতে ছিলে। তারপর বললেন, তোমরা পিঠ ফিরিয়ে চলে গেলে আমি তোমাদের মূর্তিগুলোর একটা ব্যবস্থা করব (21:54, 21:57)।",
           },
           {
             en: "So he made them into pieces, except a large one among them, that they might return to it (21:58). When they demanded who had done it, he said, rather, this the largest of them did it, so ask them, if they should speak (21:63). They turned to one another and admitted they were the wrongdoers — then reversed and told him he knew these idols do not speak (21:64-65).",
-            bn: "অতঃপর তিনি সেগুলোকে টুকরো টুকরো করে দিলেন, কেবল বড়টিকে রেখে, যাতে তারা তার কাছে ফিরে আসে (21:58)। তারা যখন জানতে চাইল কে এ কাজ করেছে, তিনি বললেন, বরং এদের এই বড়টিই করেছে; ওদেরই জিজ্ঞেস করো, যদি তারা কথা বলতে পারে (21:63)। তারা একে অপরের দিকে ফিরে স্বীকার করল যে তারাই জালিম — তারপর মুহূর্তেই উল্টে গিয়ে বলল, তুমি তো জানোই এরা কথা বলে না (21:64-65)।",
+            bn: "তারপর তিনি সেগুলোকে টুকরো টুকরো করে ফেললেন, শুধু বড়টিকে রেখে দিলেন, যাতে তারা তার কাছেই ফিরে আসে (21:58)। তারা যখন জানতে চাইল কে এ কাজ করেছে, তিনি বললেন, বরং এদের এই বড়টিই করেছে; ওদেরই জিজ্ঞেস করো, যদি ওরা কথা বলতে পারে (21:63)। তারা একে অপরের দিকে ফিরে স্বীকার করল, জালিম তো আমরাই। কিন্তু পরক্ষণেই আবার উল্টে গিয়ে তাঁকে বলল, তুমি তো জানোই, এরা কথা বলে না (21:64-65)।",
           },
         ],
       },
@@ -1614,11 +1614,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "That admission was the point of the act. He said, then do you worship instead of Allah that which does not benefit you at all, nor harm you (21:66). Having lost the argument in public, they moved to force: burn him and support your gods, if you are to act (21:68). It is the standard sequence when a belief cannot defend itself and will not be given up.",
-            bn: "ওই স্বীকারোক্তিই ছিল গোটা কাজটির উদ্দেশ্য। তিনি বললেন, তবে কি তোমরা আল্লাহকে ছেড়ে এমন কিছুর ইবাদত করো যা তোমাদের কোনো উপকারও করে না, ক্ষতিও করে না (21:66)? প্রকাশ্যে যুক্তিতে হেরে গিয়ে তারা শক্তির দিকে গেল: একে পুড়িয়ে দাও এবং তোমাদের দেবতাদের সাহায্য করো, যদি কিছু করতে চাও (21:68)। যে বিশ্বাস নিজেকে রক্ষা করতে পারে না অথচ ছাড়াও হবে না, তার ক্ষেত্রে এটিই স্বাভাবিক ক্রম।",
+            bn: "ওই স্বীকারোক্তিটুকুই ছিল পুরো কাজের উদ্দেশ্য। তিনি বললেন, তাহলে কি তোমরা আল্লাহকে ছেড়ে এমন কিছুর ইবাদত করো, যা তোমাদের কোনো উপকারও করতে পারে না, ক্ষতিও না (21:66)? সবার সামনে যুক্তিতে হেরে গিয়ে তারা গায়ের জোরের পথ ধরল: একে পুড়িয়ে দাও, আর তোমাদের দেবতাদের সাহায্য করো, যদি কিছু করতেই চাও (21:68)। যে বিশ্বাস যুক্তি দিয়ে টিকতে পারে না, অথচ মানুষ তা ছাড়তেও রাজি নয়, তার বেলায় ঘটনা সাধারণত এভাবেই গড়ায়।",
           },
           {
             en: "We said, O fire, be coolness and safety upon Ibrahim (21:69). They intended for him a plan, but We made them the greatest losers (21:70). The fire was not extinguished and the crowd not scattered; it simply stopped doing to him what fire does. A thing obeys its Maker before it obeys its nature, and one man standing alone was the one who walked out of it.",
-            bn: "আমি বললাম, হে আগুন, তুমি ইবরাহীমের জন্য শীতল ও নিরাপদ হয়ে যাও (21:69)। তারা তাঁর বিরুদ্ধে ফন্দি এঁটেছিল, কিন্তু আমি তাদেরই সবচেয়ে বড় ক্ষতিগ্রস্ত বানিয়ে দিলাম (21:70)। আগুন নিভিয়ে দেওয়া হয়নি, ভিড়ও সরিয়ে দেওয়া হয়নি; আগুন কেবল তাঁর সঙ্গে সেই কাজটি করা বন্ধ করল যা আগুন করে থাকে। প্রতিটি বস্তু নিজের স্বভাবের আগে নিজের স্রষ্টার আনুগত্য করে, আর একা দাঁড়ানো মানুষটিই সেখান থেকে হেঁটে বেরিয়ে এসেছিলেন।",
+            bn: "আমি বললাম, হে আগুন, ইবরাহীমের জন্য শীতল ও নিরাপদ হয়ে যাও (21:69)। তারা তাঁর বিরুদ্ধে ফন্দি এঁটেছিল, কিন্তু আমি তাদেরই সবচেয়ে বেশি ক্ষতিগ্রস্ত করে দিলাম (21:70)। আগুন নেভানো হয়নি, ভিড়ও ছত্রভঙ্গ হয়নি; আগুন শুধু তাঁর সঙ্গে সেই কাজটি করল না, যা আগুনের স্বভাব। যেকোনো জিনিস নিজের স্বভাব মানার আগে তার স্রষ্টার হুকুম মানে। আর যিনি একা দাঁড়িয়ে ছিলেন, সেই আগুন থেকে হেঁটে বেরিয়ে এলেন তিনিই।",
           },
         ],
       },
@@ -1627,11 +1627,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "He then said, indeed I am going to my Lord; He will guide me (37:99). Lut believed him, and Ibrahim left his homeland for the sake of Allah (29:26). The migration cost him everything a man ordinarily holds: family, standing, birthplace. In exchange he was given a land Allah blessed for the worlds (21:71), and descendants through whom prophethood would run to the end.",
-            bn: "এরপর তিনি বললেন, আমি আমার প্রভুর দিকে চললাম; তিনিই আমাকে পথ দেখাবেন (37:99)। লূত তাঁকে বিশ্বাস করলেন, আর ইবরাহীম আল্লাহর জন্য নিজের জন্মভূমি ছেড়ে দিলেন (29:26)। এই হিজরত তাঁর কাছ থেকে কেড়ে নিল সেই সব কিছু যা মানুষ সাধারণত আঁকড়ে ধরে: পরিবার, সমাজে অবস্থান, জন্মস্থান। বিনিময়ে তাঁকে দেওয়া হলো এমন এক ভূমি যা আল্লাহ বিশ্ববাসীর জন্য বরকতময় করেছেন (21:71), আর এমন বংশধর যাদের ভেতর দিয়ে নবুয়ত শেষ পর্যন্ত চলতে থাকবে।",
+            bn: "তারপর তিনি বললেন, আমি আমার প্রভুর দিকে চললাম, তিনিই আমাকে পথ দেখাবেন (37:99)। লূত তাঁর ওপর ঈমান আনলেন, আর ইবরাহীম আল্লাহর জন্য নিজের দেশ ছেড়ে চলে গেলেন (29:26)। এই হিজরতে তাঁকে ছাড়তে হলো এমন সবকিছু, যা মানুষ সাধারণত আঁকড়ে থাকে: পরিবার, সমাজে সম্মান, জন্মভূমি। বিনিময়ে তাঁকে দেওয়া হলো এমন এক ভূমি, যা আল্লাহ বিশ্ববাসীর জন্য বরকতময় করেছেন (21:71), আর এমন বংশধর, যাদের মধ্য দিয়ে নবুয়তের ধারা শেষ পর্যন্ত চলবে।",
           },
           {
             en: "Later he brought Hajar and the infant Isma'il to an empty valley and left them there with a little food and water. Bukhari preserves her question — has Allah commanded you to do this? — and his answer, yes; she said, then He will not neglect us. His prayer is in the Quran: our Lord, I have settled some of my descendants in an uncultivated valley near Your sacred House, so make hearts incline toward them (14:37).",
-            bn: "পরে তিনি হাজেরা ও শিশু ইসমাঈলকে এক জনশূন্য উপত্যকায় এনে সামান্য খাবার ও পানি রেখে চলে যান। বুখারি তাঁর প্রশ্নটি সংরক্ষণ করেছে — আল্লাহ কি আপনাকে এই আদেশ দিয়েছেন? — এবং তাঁর জবাব, হ্যাঁ; শুনে তিনি বলেন, তবে তিনি আমাদের অবহেলা করবেন না। তাঁর দোয়াটি কুরআনেই আছে: হে আমাদের প্রভু, আমি আমার বংশধরদের কিছু অংশকে আপনার সম্মানিত ঘরের কাছে অনুর্বর উপত্যকায় বসিয়েছি; তাই মানুষের হৃদয়কে তাদের প্রতি ঝুঁকিয়ে দিন (14:37)।",
+            bn: "পরে তিনি হাজেরা ও শিশু ইসমাঈলকে এক জনমানবহীন উপত্যকায় নিয়ে আসেন এবং সামান্য খাবার ও পানি দিয়ে সেখানে রেখে যান। বুখারিতে সংরক্ষিত আছে হাজেরার প্রশ্ন: আল্লাহ কি আপনাকে এর হুকুম দিয়েছেন? তিনি জবাব দিলেন, হ্যাঁ। হাজেরা বললেন, তাহলে তিনি আমাদের অবহেলা করবেন না। ইবরাহীমের দোয়াটি কুরআনেই আছে: হে আমাদের প্রভু, আমি আমার কিছু বংশধরকে আপনার সম্মানিত ঘরের কাছে এক অনুর্বর উপত্যকায় বসিয়েছি; সুতরাং মানুষের মন তাদের দিকে ঝুঁকিয়ে দিন (14:37)।",
           },
         ],
       },
@@ -1640,11 +1640,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "My Lord, grant me one of the righteous (37:100). The son was given, and when he reached the age of working with his father, Ibrahim said, my son, I have seen in a dream that I must sacrifice you, so see what you think (37:102). He did not conceal it or command it; he put the matter to the boy, which tells us what kind of father he was.",
-            bn: "হে আমার প্রভু, আমাকে একজন সৎকর্মশীল সন্তান দান করুন (37:100)। সন্তান দেওয়া হলো; আর সে যখন পিতার সঙ্গে কাজ করার বয়সে পৌঁছাল, ইবরাহীম বললেন, হে আমার পুত্র, আমি স্বপ্নে দেখেছি যে আমি তোমাকে কুরবানি করছি, এখন ভেবে দেখো তোমার অভিমত কী (37:102)। তিনি বিষয়টি লুকাননি, আদেশও করেননি। তিনি কথাটি ছেলের সামনে রেখেছিলেন — এতেই বোঝা যায় তিনি কেমন পিতা ছিলেন।",
+            bn: "হে আমার প্রভু, আমাকে একজন সৎকর্মশীল সন্তান দান করুন (37:100)। সন্তান দেওয়া হলো; আর সে যখন বাবার সঙ্গে কাজকর্ম করার বয়সে পৌঁছাল, ইবরাহীম বললেন, হে আমার পুত্র, আমি স্বপ্নে দেখেছি যে আমি তোমাকে কুরবানি করছি; এখন ভেবে দেখো, তোমার মত কী (37:102)। তিনি বিষয়টি লুকাননি, আবার হুকুমও চাপিয়ে দেননি। কথাটি তিনি ছেলের সামনে রাখলেন; এতেই বোঝা যায়, তিনি কেমন বাবা ছিলেন।",
           },
           {
             en: "The boy answered that he should do as he was commanded, and would find him, if Allah willed, of the patient. When they had both submitted and he laid him down on his forehead, We called out to him, O Ibrahim, you have fulfilled the vision (37:103-105). The trial was never about the killing but about the willingness, and once that was real the command was lifted.",
-            bn: "ছেলেটি জবাব দিল, আপনাকে যা আদেশ করা হয়েছে তা-ই করুন; আল্লাহ চাইলে আপনি আমাকে ধৈর্যশীলদের একজন পাবেন। যখন তাঁরা দুজনেই আত্মসমর্পণ করলেন এবং তিনি ছেলেকে কাত করে শোয়ালেন, আমি তাঁকে ডেকে বললাম, হে ইবরাহীম, তুমি স্বপ্ন সত্যে পরিণত করেছ (37:103-105)। পরীক্ষাটি কখনোই জবাই নিয়ে ছিল না। ছিল স্বেচ্ছায় সম্মত হওয়া নিয়ে; আর সেই সম্মতি সত্য প্রমাণিত হতেই আদেশ তুলে নেওয়া হলো।",
+            bn: "ছেলে জবাব দিল, আপনাকে যা হুকুম করা হয়েছে, তা-ই করুন; আল্লাহ চাইলে আপনি আমাকে ধৈর্যশীলদের একজন পাবেন। যখন দুজনেই আত্মসমর্পণ করলেন, আর ইবরাহীম ছেলেকে কপালের ওপর উপুড় করে শুইয়ে দিলেন, তখন আমি তাঁকে ডেকে বললাম, হে ইবরাহীম, তুমি স্বপ্নকে সত্য করে দেখিয়েছ (37:103-105)। পরীক্ষাটি জবাই নিয়ে ছিল না; ছিল মনেপ্রাণে রাজি হওয়া নিয়ে। সেই রাজি হওয়া যখন সত্যি হয়ে উঠল, তখন হুকুমটি তুলে নেওয়া হলো।",
           },
         ],
       },
@@ -1653,7 +1653,7 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "And We ransomed him with a great sacrifice (37:107). The rites of Hajj still trace that day. And when Ibrahim was raising the foundations of the House, with Isma'il, saying, our Lord, accept this from us; indeed You are the Hearing, the Knowing (2:127). Men building a sanctuary for all time still asked to be accepted as they worked.",
-            bn: "আর আমি এক মহান কুরবানির বিনিময়ে তাকে মুক্ত করলাম (37:107)। হজের আচার আজও সেই দিনটিকে অনুসরণ করে। যখন ইবরাহীম ইসমাঈলকে সঙ্গে নিয়ে ঘরের ভিত তুলছিলেন, তাঁরা বলছিলেন, হে আমাদের প্রভু, আমাদের পক্ষ থেকে কবুল করুন; নিশ্চয়ই আপনি সর্বশ্রোতা, সর্বজ্ঞ (2:127)। যাঁরা চিরকালের জন্য একটি পবিত্র ঘর গড়ছিলেন, কাজ করতে করতেই তাঁরা কবুলিয়াতের প্রার্থনা করছিলেন।",
+            bn: "আর আমি এক মহান কুরবানির বিনিময়ে তাকে ছাড়িয়ে নিলাম (37:107)। হজের আমলগুলো আজও সেই দিনের স্মৃতি বহন করে। আর ইবরাহীম যখন ইসমাঈলকে সঙ্গে নিয়ে ঘরের ভিত তুলছিলেন, তাঁরা বলছিলেন: হে আমাদের প্রভু, আমাদের পক্ষ থেকে এটি কবুল করুন; নিশ্চয়ই আপনি সব শোনেন, সব জানেন (2:127)। যাঁরা চিরকালের জন্য একটি পবিত্র ঘর গড়ছিলেন, কাজের মাঝেও তাঁরা দোয়া করছিলেন যেন তা কবুল হয়।",
           },
           {
             en: "Their prayer went further than the building: our Lord, send among them a messenger from themselves who will recite to them Your verses and teach them the Book and wisdom and purify them (2:129). In a hadith recorded by Ahmad and Ibn Hibban, graded hasan or sahih by different scholars, the Prophet ﷺ said he was the answer to it. Ibrahim was named an upright community in himself (16:120), the one who fulfilled his obligations (53:37), and Allah took him as an intimate friend (4:125).",
@@ -1674,7 +1674,7 @@ var PROPHET_ARTICLES = {
           },
           {
             en: "Allah then gave him judgement and knowledge and saved him from the city that had been practising wicked deeds; they were a people of evil, defiantly disobedient (21:74). He was sent to the cities of the plain as their prophet, and the assignment was among the hardest ever given: not a people who worshipped the wrong god, but a people whose public life had collapsed morally.",
-            bn: "এরপর আল্লাহ তাঁকে প্রজ্ঞা ও জ্ঞান দিলেন এবং সেই জনপদ থেকে রক্ষা করলেন যা মন্দ কাজ করত; তারা ছিল মন্দ ও অবাধ্য এক সম্প্রদায় (21:74)। তাঁকে সমতলভূমির জনপদগুলোতে নবী হিসেবে পাঠানো হয়, আর দায়িত্বটি ছিল সবচেয়ে কঠিনগুলোর একটি: এরা ভুল উপাস্যের পূজারি কোনো জাতি নয়, বরং এমন এক জাতি যাদের প্রকাশ্য সমাজজীবন নৈতিকভাবে ভেঙে পড়েছিল।",
+            bn: "এরপর আল্লাহ তাঁকে প্রজ্ঞা ও জ্ঞান দিলেন, আর রক্ষা করলেন সেই জনপদ থেকে, যার লোকেরা জঘন্য কাজে লিপ্ত ছিল; তারা ছিল এক মন্দ, নাফরমান সম্প্রদায় (21:74)। তাঁকে নবী করে পাঠানো হলো সমতলের জনপদগুলোতে। দায়িত্বটি ছিল সবচেয়ে কঠিনগুলোর একটি: সমস্যাটা শুধু ভুল উপাস্যের পূজা নয়; এদের প্রকাশ্য সমাজজীবনই নৈতিকভাবে ধসে পড়েছিল।",
           },
         ],
       },
@@ -1683,11 +1683,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "And Lut, when he said to his people, do you commit such immorality as no one has preceded you with among the worlds? Indeed, you approach men with desire instead of women; rather, you are a transgressing people (7:80-81). The Quran states the matter once, plainly, and does not linger over it. It is named as a wrong, given its reason, and left there.",
-            bn: "আর লূত, যখন তিনি তাঁর সম্প্রদায়কে বললেন, তোমরা কি এমন অশ্লীল কাজ করছ যা সৃষ্টিজগতে তোমাদের আগে কেউ করেনি? তোমরা তো নারীদের ছেড়ে কামনা নিয়ে পুরুষদের কাছে যাও; বরং তোমরা সীমালঙ্ঘনকারী এক সম্প্রদায় (7:80-81)। কুরআন বিষয়টি একবারই স্পষ্টভাবে বলে এবং এর ওপর দীর্ঘ আলোচনা করে না। একে অন্যায় বলে চিহ্নিত করা হয়, কারণ জানানো হয়, তারপর সেখানেই রেখে দেওয়া হয়।",
+            bn: "আর লূত, যখন তিনি তাঁর সম্প্রদায়কে বললেন, তোমরা কি এমন অশ্লীল কাজ করছ যা সৃষ্টিজগতে তোমাদের আগে কেউ করেনি? তোমরা তো নারীদের ছেড়ে কামনা নিয়ে পুরুষদের কাছে যাও; বরং তোমরা সীমালঙ্ঘনকারী এক সম্প্রদায় (7:80-81)। কুরআন বিষয়টি একবার, স্পষ্ট করে বলে দেয়; এ নিয়ে কথা বাড়ায় না। কাজটিকে অন্যায় বলে, তার কারণ জানায়, তারপর সেখানেই থামে।",
           },
           {
             en: "The indecency was not the whole of it. He asked them, do you commit the wicked act, and cut off the road, and commit in your meetings what is shameful (29:29)? Robbery of travellers and open shamelessness in public gatherings are listed alongside it. What the Quran describes is a society in which the private wrong had become a public custom that nobody was any longer able to name.",
-            bn: "অশ্লীলতাই সব ছিল না। তিনি তাদের জিজ্ঞেস করেন, তোমরা কি জঘন্য কাজ করো, পথ কেটে ডাকাতি করো এবং নিজেদের মজলিসে প্রকাশ্যে লজ্জাকর কাজ করো (29:29)? পথিকদের লুণ্ঠন ও জনসমাগমে প্রকাশ্য নির্লজ্জতাও এর সঙ্গে গোনা হয়েছে। কুরআন যা বর্ণনা করছে তা হলো এমন এক সমাজ, যেখানে ব্যক্তিগত অন্যায় প্রকাশ্য রীতিতে পরিণত হয়েছে এবং কেউ আর তার নাম ধরে বলতে পারে না।",
+            bn: "অশ্লীলতাই সব ছিল না। তিনি তাদের জিজ্ঞেস করেন, তোমরা কি এই জঘন্য কাজ করবে, রাহাজানি করবে, আর নিজেদের মজলিসে প্রকাশ্যে নির্লজ্জ কাজ করবে (29:29)? এর সঙ্গে গোনা হয়েছে পথিকদের লুট করা আর জনসমাগমে খোলাখুলি নির্লজ্জতা। কুরআন এমন এক সমাজের ছবি আঁকে, যেখানে গোপন অন্যায় প্রকাশ্য রেওয়াজে পরিণত হয়েছে, আর কেউ আর তাকে অন্যায় বলে নাম ধরে ডাকতে পারে না।",
           },
         ],
       },
@@ -1696,11 +1696,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "His people answered with expulsion. If you do not desist, O Lut, you will surely be of those evicted (26:167). Elsewhere the answer is colder still: they said only, drive them out of your city; indeed they are people who keep themselves pure (7:82). Purity had become the accusation. When a community reaches that point, the person calling to good is the one who has to be removed for the community to feel normal.",
-            bn: "তাঁর সম্প্রদায়ের জবাব ছিল বিতাড়ন। হে লূত, তুমি বিরত না হলে অবশ্যই বহিষ্কৃতদের একজন হবে (26:167)। অন্যত্র জবাবটি আরও শীতল: তারা কেবল বলল, এদের তোমাদের জনপদ থেকে বের করে দাও; এরা তো এমন লোক যারা পবিত্র থাকতে চায় (7:82)। পবিত্রতাই তখন অভিযোগে পরিণত হয়েছে। কোনো সমাজ সেই অবস্থায় পৌঁছালে, সমাজটির স্বাভাবিক বোধ করার জন্য কল্যাণের দিকে ডাকা মানুষটিকেই সরিয়ে দিতে হয়।",
+            bn: "তাঁর সম্প্রদায়ের জবাব ছিল বের করে দেওয়ার হুমকি। হে লূত, তুমি বিরত না হলে অবশ্যই বহিষ্কৃতদের একজন হবে (26:167)। আরেক জায়গায় জবাবটি আরও ঠান্ডা: তারা শুধু বলল, এদের তোমাদের জনপদ থেকে বের করে দাও; এরা তো এমন লোক, যারা পবিত্র থাকতে চায় (7:82)। পবিত্রতাই তখন অভিযোগ হয়ে দাঁড়িয়েছে। কোনো সমাজ এই জায়গায় পৌঁছালে, যে মানুষটি ভালোর দিকে ডাকে, তাকেই সরিয়ে দিতে হয়; নইলে সমাজটির নিজেকে স্বাভাবিক মনে হয় না।",
           },
           {
             en: "He was alone in a way few prophets were. He had no clan behind him in that land, no group of believers, and his own household was divided. His prayer is one of the shortest in the Quran: my Lord, support me against the corrupting people (29:30). A single sentence, asking for strength rather than for their destruction, from a man who had been calling them for years.",
-            bn: "তিনি এমনভাবে একা ছিলেন যেমনটা খুব কম নবীই ছিলেন। ওই ভূখণ্ডে তাঁর পেছনে কোনো গোত্র ছিল না, মুমিনদের কোনো দলও ছিল না, আর তাঁর নিজের পরিবারও বিভক্ত ছিল। কুরআনের সবচেয়ে সংক্ষিপ্ত দোয়াগুলোর একটি তাঁরই: হে আমার প্রভু, বিপর্যয় সৃষ্টিকারী এই সম্প্রদায়ের বিরুদ্ধে আমাকে সাহায্য করুন (29:30)। বছরের পর বছর ডেকে যাওয়া একজন মানুষের একটিমাত্র বাক্য, যেখানে তিনি তাদের ধ্বংস নয়, নিজের জন্য শক্তি চেয়েছেন।",
+            bn: "এতটা একা খুব কম নবীই ছিলেন। ওই দেশে তাঁর পেছনে কোনো গোত্র ছিল না, মুমিনদের কোনো দলও ছিল না, আর নিজের পরিবারও ছিল বিভক্ত। কুরআনের সবচেয়ে ছোট দোয়াগুলোর একটি তাঁর: হে আমার প্রভু, ফাসাদ সৃষ্টিকারী এই সম্প্রদায়ের বিরুদ্ধে আমাকে সাহায্য করুন (29:30)। বছরের পর বছর যিনি তাদের ডেকে গেছেন, তাঁর মুখে একটিমাত্র বাক্য; তাতে তিনি তাদের ধ্বংস চাননি, চেয়েছেন নিজের জন্য শক্তি।",
           },
         ],
       },
@@ -1709,7 +1709,7 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "The messengers went first to Ibrahim, who brought them a roasted calf and grew uneasy when they did not eat (11:69-70). They told him not to fear, gave his wife the news of Ishaq, and then said they were sent to the people of Lut. Ibrahim began to argue with them over that people, for he was forbearing and oft-returning to Allah (11:74-75).",
-            bn: "ফেরেশতারা প্রথমে ইবরাহীমের কাছে যান; তিনি তাঁদের জন্য ভাজা বাছুর আনেন এবং তাঁরা না খেলে অস্বস্তি বোধ করেন (11:69-70)। তাঁরা তাঁকে ভয় পেতে নিষেধ করেন, তাঁর স্ত্রীকে ইসহাকের সুসংবাদ দেন, তারপর বলেন যে তাঁরা লূতের সম্প্রদায়ের কাছে প্রেরিত। ইবরাহীম সেই সম্প্রদায়ের ব্যাপারে তাঁদের সঙ্গে কথা বলতে শুরু করেন, কারণ তিনি ছিলেন সহনশীল ও আল্লাহর দিকে বারবার প্রত্যাবর্তনকারী (11:74-75)।",
+            bn: "ফেরেশতারা প্রথমে আসেন ইবরাহীমের কাছে। তিনি তাঁদের জন্য একটি ভুনা বাছুর নিয়ে আসেন, আর তাঁরা না খাওয়ায় মনে মনে অস্বস্তি বোধ করেন (11:69-70)। তাঁরা তাঁকে ভয় পেতে নিষেধ করেন, তাঁর স্ত্রীকে ইসহাকের সুসংবাদ দেন, তারপর জানান, তাঁদের পাঠানো হয়েছে লূতের সম্প্রদায়ের কাছে। ইবরাহীম ওই সম্প্রদায়কে নিয়ে তাঁদের সঙ্গে তর্ক জুড়ে দেন, কারণ তিনি ছিলেন সহনশীল, বারবার আল্লাহর দিকে ফিরে আসা মানুষ (11:74-75)।",
           },
           {
             en: "When the messengers came to Lut he was distressed for them and felt himself powerless, and said, this is a trying day (11:77). His people came rushing toward the house, and he offered every argument he had, ending with: is there not among you a man of reason (11:78)? The guests then told him who they were, and that his people would never reach him (11:81).",
@@ -1722,7 +1722,7 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "So set out with your family during a portion of the night, and let not any among you look back — except your wife; indeed she will be struck by that which strikes them. Indeed, their appointment is the morning. Is not the morning near (11:81)? The instruction is precise: leave in the dark, keep moving, and do not turn round. The order to keep walking is the whole of the rescue.",
-            bn: "সুতরাং রাতের কোনো এক অংশে পরিবার নিয়ে বেরিয়ে পড়ো, আর তোমাদের কেউ যেন পেছনে ফিরে না তাকায় — তোমার স্ত্রী ছাড়া; তার ওপরও তা-ই আসবে যা তাদের ওপর আসবে। নিশ্চয়ই তাদের নির্ধারিত সময় ভোরবেলা। ভোর কি নিকটে নয় (11:81)? নির্দেশটি নির্দিষ্ট: অন্ধকারে বেরোও, চলতে থাকো, আর পেছনে ফিরো না। হাঁটতে থাকার আদেশটিই ছিল উদ্ধারের পুরোটা।",
+            bn: "সুতরাং রাতের কোনো এক অংশে পরিবার নিয়ে বেরিয়ে পড়ো, আর তোমাদের কেউ যেন পেছনে ফিরে না তাকায়, তোমার স্ত্রী ছাড়া; তার ওপরও তা-ই আসবে যা তাদের ওপর আসবে। নিশ্চয়ই তাদের নির্ধারিত সময় ভোরবেলা। ভোর কি নিকটে নয় (11:81)? নির্দেশটি একদম নির্দিষ্ট: অন্ধকারে বেরিয়ে পড়ো, চলতে থাকো, পেছনে ফিরো না। হাঁটতে থাকার এই হুকুমটিই ছিল পুরো উদ্ধার।",
           },
           {
             en: "So when Our command came, We made the highest part of it its lowest and rained upon them stones of layered hard clay, marked from your Lord (11:82-83). The city that had turned everything upside down was itself turned over. The Quran adds that a clear sign was left of it for people who use reason (29:35), and that the ruins lie on a road still travelled (15:76).",
@@ -1735,11 +1735,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "So We saved him and his family, except his wife; she was of those who remained behind (7:83). Elsewhere Allah gives her as an example, together with the wife of Nuh: they were under two of Our righteous servants but betrayed them, and those two availed them nothing against Allah (66:10). The verse says only that they betrayed them; the commentators, following Ibn Abbas (RA), hold that the betrayal was in religion and not in chastity.",
-            bn: "অতঃপর আমি তাঁকে ও তাঁর পরিবারকে রক্ষা করলাম, তাঁর স্ত্রী ছাড়া; সে ছিল পিছনে পড়ে থাকাদের একজন (7:83)। অন্যত্র আল্লাহ নূহের স্ত্রীর সঙ্গে তাকেও দৃষ্টান্ত হিসেবে উপস্থাপন করেন: তারা দুজন ছিল আমার দুই সৎকর্মশীল বান্দার অধীনে, কিন্তু তারা তাঁদের সঙ্গে বিশ্বাসঘাতকতা করে; আর ওই দুজন আল্লাহর মোকাবিলায় তাদের কোনো কাজে আসেনি (66:10)। আয়াতটি কেবল এটুকুই বলে যে তারা বিশ্বাসঘাতকতা করেছিল; মুফাসসিরগণ ইবনে আব্বাসের (রাঃ) অনুসরণে বলেন, এই বিশ্বাসঘাতকতা ছিল দ্বীনের ক্ষেত্রে, সতীত্বের ক্ষেত্রে নয়।",
+            bn: "অতঃপর আমি তাঁকে ও তাঁর পরিবারকে রক্ষা করলাম, তাঁর স্ত্রী ছাড়া; সে ছিল পিছনে পড়ে থাকাদের একজন (7:83)। আরেক জায়গায় আল্লাহ নূহের স্ত্রীর সঙ্গে তাকেও দৃষ্টান্ত হিসেবে তুলে ধরেছেন: তারা দুজন ছিল আমার দুই নেক বান্দার অধীনে, কিন্তু তারা তাঁদের সঙ্গে বিশ্বাসঘাতকতা করে; আর ওই দুজন আল্লাহর মোকাবিলায় তাদের কোনো কাজে আসেননি (66:10)। আয়াতটি কেবল এটুকুই বলে যে তারা বিশ্বাসঘাতকতা করেছিল; মুফাসসিরগণ ইবনে আব্বাসের (রাঃ) অনুসরণে বলেন, এই বিশ্বাসঘাতকতা ছিল দ্বীনের ক্ষেত্রে, সতীত্বের ক্ষেত্রে নয়।",
           },
           {
             en: "But We brought out whoever was in them of the believers, and We found within them not but one house of Muslims (51:35-36). One household in a whole society is the measure of what Lut faced, and he stayed at his post for as long as he was told to. His account ends not with a victory but with a rescue, which is the Quran's promise to anyone standing where he stood.",
-            bn: "আর সেখানে যত মুমিন ছিল আমি তাদের বের করে আনলাম, আর আমি সেখানে একটি মুসলিম পরিবার ছাড়া আর কিছুই পাইনি (51:35-36)। গোটা এক সমাজে একটিমাত্র ঘর — এটিই লূত যার মুখোমুখি ছিলেন তার পরিমাপ; আর তাঁকে যতদিন বলা হয়েছে ততদিন তিনি নিজের জায়গায় দাঁড়িয়ে থেকেছেন। তাঁর বিবরণ শেষ হয় কোনো বিজয় দিয়ে নয়, উদ্ধার দিয়ে — যিনি তাঁর জায়গায় দাঁড়ান, কুরআন তাঁকে এই প্রতিশ্রুতিই দেয়।",
+            bn: "আর সেখানে যত মুমিন ছিল, আমি তাদের বের করে আনলাম; কিন্তু সেখানে একটি মুসলিম পরিবার ছাড়া আর কাউকে পাইনি (51:35-36)। গোটা একটি সমাজে মাত্র একটি ঘর: লূত কিসের মুখোমুখি ছিলেন, তার মাপ এটাই। তবু যতদিন তাঁকে থাকতে বলা হয়েছে, ততদিন তিনি নিজের জায়গায় অটল থেকেছেন। তাঁর কাহিনি শেষ হয় বিজয়ে নয়, উদ্ধারে। যে-ই তাঁর জায়গায় দাঁড়ায়, কুরআন তাকে এই প্রতিশ্রুতিই দেয়।",
           },
         ],
       },
@@ -1752,11 +1752,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Isma'il (AS) enters the story as an infant carried into a place where nothing grew. Our Lord, I have settled some of my descendants in a valley without cultivation, near Your sacred House (14:37). Bukhari preserves what happened there: Ibrahim left them with a small skin of water and some dates and walked away without turning round, and Hajar ran after him asking whether Allah had commanded this.",
-            bn: "ইসমাঈল (আঃ)-এর কাহিনির শুরু এক শিশুকে দিয়ে, যাঁকে এমন এক জায়গায় আনা হয়েছিল যেখানে কিছুই জন্মায় না। হে আমাদের প্রভু, আমি আমার বংশধরদের কিছু অংশকে আপনার সম্মানিত ঘরের কাছে এক অনুর্বর উপত্যকায় বসিয়েছি (14:37)। বুখারি সেখানকার ঘটনা সংরক্ষণ করেছে: ইবরাহীম সামান্য পানির মশক ও কিছু খেজুর রেখে পেছনে না তাকিয়ে হাঁটতে থাকেন, আর হাজেরা তাঁর পিছু নিয়ে জিজ্ঞেস করেন, আল্লাহ কি এই আদেশ দিয়েছেন।",
+            bn: "ইসমাঈল (আঃ)-কে কাহিনিতে প্রথম পাই কোলের এক শিশু হিসেবে, যাঁকে নিয়ে আসা হয়েছিল এমন জায়গায়, যেখানে কিছুই জন্মাত না। হে আমাদের প্রভু, আমি আমার কিছু বংশধরকে আপনার সম্মানিত ঘরের কাছে এক অনুর্বর উপত্যকায় বসিয়েছি (14:37)। সেখানে কী ঘটেছিল, বুখারি তা সংরক্ষণ করেছেন: ইবরাহীম তাঁদের কাছে ছোট এক মশক পানি আর কিছু খেজুর রেখে পেছনে না তাকিয়ে হেঁটে চলে যান। হাজেরা তাঁর পেছনে ছুটে গিয়ে জিজ্ঞেস করেন, আল্লাহ কি এর হুকুম দিয়েছেন?",
           },
           {
             en: "When he said yes, she answered that Allah would not neglect them, and went back. That sentence is the beginning of Mecca. The water ran out, the child grew desperate with thirst, and his mother climbed the nearest hill to look for anyone at all, then the hill opposite, and did that seven times. She was not performing a rite. She was a mother refusing to sit still.",
-            bn: "তিনি হ্যাঁ বললে হাজেরা বলেন, তবে আল্লাহ আমাদের অবহেলা করবেন না, এবং ফিরে যান। এই একটি বাক্য থেকেই মক্কার শুরু। পানি ফুরিয়ে যায়, শিশুটি তৃষ্ণায় কাতর হয়ে পড়ে, আর তাঁর মা কাছের টিলায় উঠে কাউকে খুঁজতে থাকেন, তারপর উল্টো দিকের টিলায় — এভাবে সাতবার। তিনি কোনো ধর্মীয় আচার পালন করছিলেন না। তিনি ছিলেন এমন এক মা, যিনি বসে থাকতে রাজি নন।",
+            bn: "তিনি হ্যাঁ বললে হাজেরা বললেন, তাহলে আল্লাহ আমাদের অবহেলা করবেন না; তারপর ফিরে গেলেন। মক্কার শুরু এই একটি বাক্য থেকেই। পানি ফুরিয়ে গেল, তৃষ্ণায় শিশুটি ছটফট করতে লাগল। মা কাছের টিলায় উঠে চারদিকে তাকালেন, কাউকে দেখা যায় কি না; তারপর উল্টো দিকের টিলায়; এভাবে সাতবার। তিনি কোনো ইবাদতের আনুষ্ঠানিকতা পালন করছিলেন না। তিনি ছিলেন এমন এক মা, যিনি হাত গুটিয়ে বসে থাকতে রাজি নন।",
           },
         ],
       },
@@ -1765,11 +1765,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "Water came where the child was, and it did not stop coming. The well of Zamzam turned an uninhabitable valley into a place people could live, and a passing tribe of Jurhum asked permission to settle beside it. Trade routes followed the water, and a town grew around a boy and his mother who had been left there with nothing.",
-            bn: "যেখানে শিশুটি ছিল সেখানেই পানি এল, আর সেই পানি আর থামল না। যমযম কূপ বসবাসের অযোগ্য এক উপত্যকাকে বসতিযোগ্য করে তুলল; পথ চলতি জুরহুম গোত্র সেখানে বসতির অনুমতি চাইল। পানির পিছু পিছু এল বাণিজ্যপথ, আর এক মা ও এক শিশুকে ঘিরে গড়ে উঠল একটি জনপদ — যাঁদের সেখানে কিছুই ছাড়া রেখে যাওয়া হয়েছিল।",
+            bn: "শিশুটি যেখানে ছিল, সেখানেই পানি বেরিয়ে এল, আর সেই পানি আর থামল না। যমযম কূপ বসবাসের অযোগ্য এক উপত্যকাকে বসবাসের উপযোগী করে তুলল; পথ চলতি জুরহুম গোত্র এর পাশে বসতি গড়ার অনুমতি চাইল। পানির পিছু পিছু এল বাণিজ্যের পথ। আর যে মা ও ছেলেকে সেখানে খালি হাতে রেখে যাওয়া হয়েছিল, তাঁদের ঘিরেই গড়ে উঠল একটি জনপদ।",
           },
           {
             en: "Her running between the two hills became part of the Hajj itself. Indeed, Safa and Marwah are among the symbols of Allah (2:158). Millions repeat that walk every year, and what they are repeating is not a triumph or a battle. It is the search of one woman for water for her child, honoured by Allah until the end of time, which tells us what He values in a servant.",
-            bn: "দুই টিলার মাঝে তাঁর সেই ছোটাছুটি হজেরই অংশ হয়ে গেল। নিশ্চয়ই সাফা ও মারওয়া আল্লাহর নিদর্শনসমূহের অন্তর্ভুক্ত (2:158)। প্রতি বছর লক্ষ লক্ষ মানুষ সেই হাঁটাটুকুই পুনরাবৃত্তি করেন, আর যা তাঁরা পুনরাবৃত্তি করেন তা কোনো বিজয় বা যুদ্ধ নয়। তা হলো সন্তানের জন্য পানির খোঁজে এক নারীর ছুটে চলা, যাকে আল্লাহ কিয়ামত পর্যন্ত সম্মানিত করেছেন — এতেই বোঝা যায় বান্দার কোন জিনিসটি তাঁর কাছে মূল্যবান।",
+            bn: "দুই টিলার মাঝে তাঁর সেই ছোটাছুটি হজেরই অংশ হয়ে গেল। নিশ্চয়ই সাফা ও মারওয়া আল্লাহর নিদর্শনগুলোর অন্তর্ভুক্ত (2:158)। প্রতি বছর লক্ষ লক্ষ মানুষ সেই পথটুকু আবার হাঁটেন; আর তাঁরা যা স্মরণ করেন, তা কোনো বিজয় বা যুদ্ধ নয়। তা হলো সন্তানের জন্য পানির খোঁজে এক নারীর ছুটোছুটি, যাকে আল্লাহ কিয়ামত পর্যন্ত সম্মানিত করে রেখেছেন। এ থেকেই বোঝা যায়, বান্দার কোন জিনিসের কদর তাঁর কাছে।",
           },
         ],
       },
@@ -1782,7 +1782,7 @@ var PROPHET_ARTICLES = {
           },
           {
             en: "His reply is the sentence that makes this his story and not only his father's. My father, do as you are commanded; you will find me, if Allah wills, of the patient (37:102). He does not say he will endure it. He says his father will find him patient if Allah wills, refusing to claim even his own steadiness as something he owned. The trial was passed twice, by two people, in one conversation.",
-            bn: "তাঁর জবাবটিই এই ঘটনাকে কেবল পিতার নয়, তাঁরও কাহিনি করে তোলে। হে আমার পিতা, আপনাকে যা আদেশ করা হয়েছে তা-ই করুন; আল্লাহ চাইলে আপনি আমাকে ধৈর্যশীলদের একজন পাবেন (37:102)। তিনি বলেননি যে তিনি সহ্য করবেন। তিনি বলেছেন, আল্লাহ চাইলে পিতা তাঁকে ধৈর্যশীল পাবেন — নিজের অবিচলতাকেও নিজের অর্জন বলে দাবি করতে অস্বীকার করে। এক কথোপকথনেই পরীক্ষাটি দুবার, দুজন মানুষ পার হয়েছিলেন।",
+            bn: "তাঁর জবাবটিই এই ঘটনাকে শুধু বাবার নয়, তাঁরও কাহিনি করে তোলে। হে আমার পিতা, আপনাকে যা হুকুম করা হয়েছে, তা-ই করুন; আল্লাহ চাইলে আপনি আমাকে ধৈর্যশীলদের একজন পাবেন (37:102)। তিনি বলেননি, আমি সহ্য করে নেব। বলেছেন, আল্লাহ চাইলে আপনি আমাকে ধৈর্যশীল পাবেন। নিজের অটল থাকাটুকুও তিনি নিজের কৃতিত্ব বলে দাবি করেননি। একটিমাত্র কথোপকথনে পরীক্ষায় উত্তীর্ণ হলেন দুজন: বাবা এবং ছেলে।",
           },
         ],
       },
@@ -1791,11 +1791,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "And when they had both submitted and he put him down upon his forehead, We called to him, O Ibrahim, you have fulfilled the vision. Indeed, We thus reward the doers of good. Indeed, this was the clear trial. And We ransomed him with a great sacrifice (37:103-107). The word for both of them submitting carries the same root as Islam, and it is used of a father and a boy together.",
-            bn: "যখন তাঁরা দুজনেই আত্মসমর্পণ করলেন এবং তিনি ছেলেকে কাত করে শোয়ালেন, আমি তাঁকে ডেকে বললাম, হে ইবরাহীম, তুমি স্বপ্ন সত্যে পরিণত করেছ। নিশ্চয়ই আমি সৎকর্মশীলদের এভাবেই প্রতিদান দিই। নিশ্চয়ই এটি ছিল সুস্পষ্ট পরীক্ষা। আর আমি এক মহান কুরবানির বিনিময়ে তাকে মুক্ত করলাম (37:103-107)। দুজনের আত্মসমর্পণ বোঝাতে ব্যবহৃত শব্দটির মূল ইসলাম শব্দেরই — আর তা এখানে পিতা ও পুত্র উভয়ের জন্য ব্যবহৃত।",
+            bn: "যখন তাঁরা দুজনেই আত্মসমর্পণ করলেন এবং তিনি ছেলেকে কপালের ওপর উপুড় করে শুইয়ে দিলেন, আমি তাঁকে ডেকে বললাম, হে ইবরাহীম, তুমি স্বপ্নকে সত্য করে দেখিয়েছ। নিশ্চয়ই আমি সৎকর্মশীলদের এভাবেই প্রতিদান দিই। নিশ্চয়ই এ ছিল এক সুস্পষ্ট পরীক্ষা। আর আমি এক মহান কুরবানির বিনিময়ে তাকে ছাড়িয়ে নিলাম (37:103-107)। দুজনের আত্মসমর্পণ বোঝাতে যে শব্দটি এসেছে, তার মূল আর ইসলাম শব্দের মূল একই; আর শব্দটি এখানে বাবা ও ছেলে দুজনের জন্য একসঙ্গে ব্যবহার হয়েছে।",
           },
           {
             en: "And We left for him among later generations: peace upon Ibrahim (37:108-109). Every year the pilgrims and those at home sacrifice an animal in memory of a command that was never carried out, because the point of it was never the animal or the boy. The ransom is the Quran's own commentary on the trial: Allah asked for the heart, and when He had it He gave the son back.",
-            bn: "আর আমি পরবর্তী প্রজন্মের মধ্যে তাঁর স্মৃতি রেখে দিলাম: ইবরাহীমের ওপর শান্তি (37:108-109)। প্রতি বছর হাজিরা ও ঘরে থাকা মানুষেরা এমন এক আদেশের স্মরণে পশু কুরবানি করেন যা কখনো কার্যকর হয়নি, কারণ এর উদ্দেশ্য কখনোই পশু বা ছেলেটি ছিল না। মুক্তিপণটিই পরীক্ষার ওপর কুরআনের নিজস্ব ব্যাখ্যা: আল্লাহ চেয়েছিলেন অন্তর, আর তা পেয়ে যাওয়ার পর তিনি পুত্রকে ফিরিয়ে দিলেন।",
+            bn: "আর আমি পরবর্তী প্রজন্মগুলোর মাঝে তাঁর স্মরণ রেখে দিলাম: ইবরাহীমের প্রতি সালাম (37:108-109)। প্রতি বছর হাজিরা এবং ঘরে থাকা মানুষেরা পশু কুরবানি করেন এমন এক হুকুমের স্মরণে, যা শেষ পর্যন্ত পালন করতে হয়নি; কারণ এর আসল উদ্দেশ্য কখনোই পশু বা ছেলেটি ছিল না। মুক্তিপণের কথাটিই এই পরীক্ষার ওপর কুরআনের নিজের ব্যাখ্যা: আল্লাহ চেয়েছিলেন অন্তর, আর অন্তর পেয়ে যাওয়ার পর ছেলেকে ফিরিয়ে দিলেন।",
           },
         ],
       },
@@ -1808,7 +1808,7 @@ var PROPHET_ARTICLES = {
           },
           {
             en: "Father and son then prayed for themselves before they prayed for anyone else: our Lord, make us Muslims in submission to You, and from our descendants a Muslim nation, and show us our rites, and accept our repentance (2:128). Men laying the foundations of the holiest place on earth asked to be forgiven while doing it. Nothing in the account allows the builder to feel he has earned anything.",
-            bn: "পিতা ও পুত্র অন্য কারও জন্য দোয়া করার আগে নিজেদের জন্য দোয়া করলেন: হে আমাদের প্রভু, আমাদের আপনার অনুগত করুন, আর আমাদের বংশধরদের মধ্য থেকেও একটি অনুগত জাতি বানান; আমাদের হজের নিয়ম দেখিয়ে দিন এবং আমাদের তওবা কবুল করুন (2:128)। যাঁরা পৃথিবীর সবচেয়ে পবিত্র স্থানের ভিত গড়ছিলেন, তাঁরা কাজ করতে করতেই ক্ষমা চাইছিলেন। এই বিবরণে নির্মাতার নিজেকে কিছু অর্জনকারী ভাবার কোনো সুযোগ নেই।",
+            bn: "বাবা ও ছেলে অন্য কারও জন্য দোয়া করার আগে নিজেদের জন্য দোয়া করলেন: হে আমাদের প্রভু, আমাদের দুজনকে আপনার অনুগত মুসলিম বানান, আমাদের বংশধরদের মধ্য থেকেও আপনার অনুগত একটি উম্মত বানান, আমাদের ইবাদতের নিয়মগুলো দেখিয়ে দিন, আর আমাদের তওবা কবুল করুন (2:128)। যাঁরা পৃথিবীর সবচেয়ে পবিত্র ঘরের ভিত গড়ছিলেন, কাজের মধ্যেই তাঁরা ক্ষমা চাইছিলেন। এই বিবরণের কোথাও নির্মাতার মনে এমন ভাব জাগার সুযোগ নেই যে, সে কিছু একটা অর্জন করে ফেলেছে।",
           },
         ],
       },
@@ -1817,11 +1817,11 @@ var PROPHET_ARTICLES = {
         p: [
           {
             en: "And mention in the Book Isma'il. Indeed, he was true to his promise, and he was a messenger and a prophet (19:54). Of all the things that could have been chosen to summarise him — the sacrifice, the well, the House — Allah chose keeping his word. It is the quietest of virtues and the hardest to sustain, and it is the one attached to his name forever.",
-            bn: "আর কিতাবে ইসমাঈলের কথা স্মরণ করো। নিশ্চয়ই তিনি ছিলেন প্রতিশ্রুতিতে সত্যবাদী, আর তিনি ছিলেন রাসূল ও নবী (19:54)। তাঁকে সংক্ষেপে বোঝাতে যা যা বেছে নেওয়া যেত — কুরবানি, কূপ, কাবা — সেসব ছেড়ে আল্লাহ বেছে নিলেন তাঁর কথা রাখাকে। এটি সবচেয়ে নীরব গুণ এবং ধরে রাখা সবচেয়ে কঠিন; আর এটিই চিরকালের জন্য তাঁর নামের সঙ্গে জুড়ে আছে।",
+            bn: "আর কিতাবে ইসমাঈলের কথা স্মরণ করো। নিশ্চয়ই তিনি ছিলেন প্রতিশ্রুতিতে সত্যবাদী, আর তিনি ছিলেন রাসূল ও নবী (19:54)। তাঁর পরিচয় সংক্ষেপে দিতে অনেক কিছুই বেছে নেওয়া যেত: কুরবানি, কূপ, কাবাঘর। আল্লাহ সেসব না নিয়ে বেছে নিলেন তাঁর কথা রাখাকে। এ সবচেয়ে নীরব গুণ, আর ধরে রাখা সবচেয়ে কঠিন; আর চিরকালের জন্য তাঁর নামের সঙ্গে জুড়ে আছে এই গুণটিই।",
           },
           {
             en: "And he used to enjoin on his family prayer and zakat, and he was to his Lord pleasing (19:55). He is counted among the patient (21:85) and among the outstanding in goodness (38:48). His father's prayer for a messenger from among their descendants was answered centuries later in Muhammad ﷺ, who came from his line — so the boy left in a dry valley became the ancestor of the last of the prophets.",
-            bn: "আর তিনি তাঁর পরিবারকে সালাত ও যাকাতের নির্দেশ দিতেন, এবং তিনি ছিলেন তাঁর প্রভুর কাছে সন্তোষভাজন (19:55)। তাঁকে গণ্য করা হয়েছে ধৈর্যশীলদের মধ্যে (21:85) এবং কল্যাণে অগ্রগামীদের মধ্যে (38:48)। তাঁদের বংশধরদের মধ্য থেকে রাসূল পাঠানোর জন্য পিতার দোয়া শতাব্দী পরে কবুল হয় মুহাম্মাদ ﷺ-এর মাধ্যমে, যিনি তাঁরই বংশধর — শুকনো উপত্যকায় রেখে আসা সেই শিশুটিই হলেন শেষ নবীর পূর্বপুরুষ।",
+            bn: "আর তিনি তাঁর পরিবারকে সালাত ও যাকাতের নির্দেশ দিতেন, এবং তিনি ছিলেন তাঁর প্রভুর কাছে সন্তোষভাজন (19:55)। তাঁকে গণ্য করা হয়েছে ধৈর্যশীলদের মধ্যে (21:85) এবং কল্যাণে অগ্রগামীদের মধ্যে (38:48)। বংশধরদের মধ্য থেকে একজন রাসূল পাঠানোর জন্য তাঁর বাবার যে দোয়া, তা বহু শতাব্দী পরে কবুল হলো মুহাম্মাদ ﷺ-এর মাধ্যমে, যিনি ইসমাঈলেরই বংশধর। এভাবে শুকনো উপত্যকায় রেখে যাওয়া সেই শিশুই হলেন শেষ নবীর পূর্বপুরুষ।",
           },
         ],
       },

@@ -26,6 +26,8 @@ the state, kept short on purpose. Full history of earlier rounds:
 - PROPHET_ARTICLES R1 reviewed (157 fixes) but NOT applied: apply only after the fact-checker finishes batches 23-26
   (it also writes js/prophets-articles.js; concurrent whole-file writes would lose edits).
 - BRIEF spelling table: নামাজ ওহি জিকির নাজিল ফেরাউন সূরা কুরআন রাসূল হাদিস যাকাত রমজান (app majority forms).
+- Open EN item: why-islam 34.points.1 credits 49:13 with "no Arab has superiority over a non-Arab" (that is the Farewell Sermon hadith, Ahmad 23489).
+- Open EN item: why-islam 42.points.3 says al-Bukhari prayed "before assessing each narrator"; the known report is before recording each hadith.
 - Open EN item: why-islam 16.qa.0.a "much of South and West Africa" probably means East and West Africa (EN change
   would orphan 13 translations of that string; fix with a retranslation of one string).
 
