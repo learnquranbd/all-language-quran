@@ -21,7 +21,8 @@ the state, kept short on purpose. Full history of earlier rounds:
   commit after EVERY packet (local commit = saved state). Bump/push/deploy at the end of each shard.
 - At shard end: normalise spellings across the shard (হাদীস→হাদিস, নামায→নামাজ, নাযিল→নাজিল; rewritten strings already use them).
 - Open EN: 2:97-98 s3.p2 says 2:98 answers "in the first person"; the verse names Allah in the third person (BN says আল্লাহর নিজের পক্ষ থেকে).
-- Progress (shard: packets done): 2: 4/12
+- Open EN: 2:113-114 s5.p0 "almost never that specific" reads as "never starts that sweeping" (BN says ঢালাও).
+- Progress (shard: packets done): 2: 5/12
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
 - Tool tools/bn-review/bn.js extract <file> <CONST> | apply <CONST> [--write]; brief tools/bn-review/BRIEF.md (follows
