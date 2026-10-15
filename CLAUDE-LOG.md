@@ -42,6 +42,9 @@ the state, kept short on purpose. Full history of earlier rounds:
   sister of kana" (it is kana itself); 51.concept 3rd person "two dual forms" makes 13 pronouns not 12; 51.examples.0
   says nahnu twice in 15:9 (once); 50.concept "min after a comparative" not in al-Fatiha; 48.examples.2.note ilahu
   written with damma though called jarr. Fix EN (+BN) then retranslate in 13 langs (content-i18n extend).
+- Handwriting EN doubts: HW_WRITING_BASICS 2.body Fa/Qaf "only by dots" vs LETTER_TIPS/CONFUSABLES (Qaf deeper cup);
+  HW_KHAT_STYLES 2.notes.0 Kufic "earliest formalised" vs Hijazi; 3.notes.1 Thuluth ~70 deg pen angle; 1.notes.0 ties
+  Uthmani rasm to the King Fahd mushaf (rasm is far older).
 - Prayer guide (learn-prayer-data.js) open items for USER: Hanafi audience but the guide shows non-Hanafi positions
   without a note (7/5 Eid takbirs, combining prayers when travelling, 85 km travel distance, Fatiha after the first
   Janazah takbir). EN citation doubts: SALAH_TASBEEH 17 credits 10x3 tasbih to Muslim 597 (that is 33/33/33); HADITH 16
