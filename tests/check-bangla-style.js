@@ -36,7 +36,7 @@ const { load, get, dataFiles, constNames, tadabburShardFiles } = require('./lib.
  * been asked to pay yet, so the list is opt-in and grows one module at a time.
  * The count of unreviewed hits is reported in the detail line rather than
  * hidden, because a debt you cannot see is a debt that never gets paid. */
-const STYLED = ['js/hope-data.js'];
+const STYLED = ['js/hope-data.js', 'js/surah-names-data.js', 'js/mutashabihat-data.js'];
 
 /* word -> what to use instead. Kept short and specific on purpose: a long
  * blocklist would start failing legitimate prose. */

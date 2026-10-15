@@ -232,8 +232,8 @@ var SAHABA_ARTICLES = {
         h: { en: "Giving by the Caravan", bn: "কাফেলা ধরে ধরে দান" },
         p: [
           {
-            en: "As his wealth grew, so did the scale on which he gave it away. He once sent an entire caravan of seven hundred camels into Madinah and gave it away complete, animals and loads together. He freed slaves, equipped fighters with mounts and gear, and set aside property for the Mothers of the Believers after the Prophet ﷺ had died. He was living out 3:92, which tells the believers they will not attain righteousness until they spend from what they love.",
-            bn: "সম্পদ যত বেড়েছে, দানের পরিসরও তত বেড়েছে। একবার তিনি সাতশো উটের গোটা একটি কাফেলা মদিনায় পাঠিয়ে সবটাই দান করে দেন—উট ও মালামাল একসঙ্গে। তিনি দাস মুক্ত করতেন, যোদ্ধাদের বাহন ও সরঞ্জাম দিতেন, আর নবীজি ﷺ-এর ইন্তেকালের পর উম্মুল মুমিনিনদের জন্য সম্পত্তি বরাদ্দ করেন। তিনি যেন 3:92 আয়াতটিই বাস্তবে যাপন করছিলেন—যা বলে, তোমরা কখনো পুণ্যে পৌঁছাতে পারবে না যতক্ষণ না প্রিয় বস্তু থেকে ব্যয় করো।",
+            en: "As his wealth grew, so did the scale on which he gave it away. A report in Ahmad's Musnad, with a weak chain, says he once sent a caravan of seven hundred camels into Madinah and gave it all away. He freed slaves, equipped fighters with mounts and gear, and set aside property for the Mothers of the Believers after the Prophet ﷺ had died. He was living out 3:92, which tells the believers they will not attain righteousness until they spend from what they love.",
+            bn: "সম্পদ যত বেড়েছে, দানের পরিসরও তত বেড়েছে। আহমাদের মুসনাদে দুর্বল সনদের এক বর্ণনায় আছে, একবার তিনি সাতশো উটের একটি কাফেলা মদিনায় পাঠিয়ে সবটাই দান করে দেন। তিনি দাস মুক্ত করতেন, যোদ্ধাদের বাহন ও সরঞ্জাম দিতেন, আর নবীজি ﷺ-এর ইন্তেকালের পর উম্মুল মুমিনিনদের জন্য সম্পত্তি বরাদ্দ করেন। তিনি যেন 3:92 আয়াতটিই বাস্তবে যাপন করছিলেন—যা বলে, তোমরা কখনো পুণ্যে পৌঁছাতে পারবে না যতক্ষণ না প্রিয় বস্তু থেকে ব্যয় করো।",
           },
           {
             en: "Wealth frightened him rather than pleasing him. Food was once brought to him while he was fasting and he wept and would not eat, saying that Musab ibn Umayr (RA) was better than him and had died with nothing but a cloak too short to cover him, and that he feared their good things had been given to them early in this world. A man who gives out of fear of Allah gives differently from a man who gives out of surplus.",
@@ -1611,8 +1611,8 @@ var SAHABA_ARTICLES = {
         h: { en: "From Teacher to Teacher", bn: "এক শিক্ষক থেকে আরেক শিক্ষকে" },
         p: [
           {
-            en: "In Damascus he attached himself to a bishop and served him, and found him to be a man who hoarded the charity given for the poor. When he died and the people were about to bury him with honour, Salman told them what he had seen and showed them the hoard. The next man he served he loved, and stayed with him until his death.",
-            bn: "দামেস্কে তিনি এক বিশপের সঙ্গী হয়ে তাঁর সেবা করতে থাকেন, আর দেখতে পান যে তিনি গরিবদের জন্য দেওয়া দান নিজের কাছে জমিয়ে রাখেন। তিনি মারা গেলে মানুষ যখন তাঁকে সম্মানের সঙ্গে দাফন করতে যাচ্ছিল, সালমান তাদের যা দেখেছেন তা জানান এবং সোনা-রুপার সেই ভান্ডার দেখিয়ে দেন। এরপর যাঁর সেবায় তিনি নিযুক্ত হন তাঁকে তিনি ভালোবেসেছিলেন এবং তাঁর মৃত্যু পর্যন্ত সঙ্গে ছিলেন।",
+            en: "In Syria (al-Sham) he attached himself to a bishop and served him, and found him to be a man who hoarded the charity given for the poor. When he died and the people were about to bury him with honour, Salman told them what he had seen and showed them the hoard. The next man he served he loved, and stayed with him until his death.",
+            bn: "শামে (সিরিয়ায়) তিনি এক বিশপের সঙ্গী হয়ে তাঁর সেবা করতে থাকেন, আর দেখতে পান যে তিনি গরিবদের জন্য দেওয়া দান নিজের কাছে জমিয়ে রাখেন। তিনি মারা গেলে মানুষ যখন তাঁকে সম্মানের সঙ্গে দাফন করতে যাচ্ছিল, সালমান তাদের যা দেখেছেন তা জানান এবং সোনা-রুপার সেই ভান্ডার দেখিয়ে দেন। এরপর যাঁর সেবায় তিনি নিযুক্ত হন তাঁকে তিনি ভালোবেসেছিলেন এবং তাঁর মৃত্যু পর্যন্ত সঙ্গে ছিলেন।",
           },
           {
             en: "That pattern repeated for years. Each teacher, dying, sent him on to another: to Mosul, then Nasibin, then Ammuriyah in the land of Rum. The last of them told him the time of a prophet sent with the religion of Ibrahim (AS) had come, that he would emigrate to a land of date palms between two tracts of black stone, that he would eat a gift but not charity, and that between his shoulders was the seal of prophethood.",
@@ -1740,8 +1740,8 @@ var SAHABA_ARTICLES = {
         h: { en: "Badr and the Little Shepherd", bn: "বদর ও সেই ছোট রাখাল" },
         p: [
           {
-            en: "At Badr the man who had ordered him beaten in Makkah met him again. Abu Jahl lay mortally wounded among the fallen, and it was Abdullah who found him and set his foot on his neck. The dying chief looked up and asked whether the little shepherd had climbed so high. He answered him and finished him, and carried his head back to the Prophet ﷺ, who praised Allah when he saw it.",
-            bn: "বদরে সেই লোকটির সঙ্গে তাঁর আবার দেখা হলো, যার হুকুমে মক্কায় তাঁকে মারা হয়েছিল। আবু জাহল মরণাপন্ন অবস্থায় নিহতদের মাঝে পড়ে ছিল; আবদুল্লাহই তাকে খুঁজে পেয়ে তার গলার ওপর পা রাখলেন। মৃত্যুপথযাত্রী নেতা তাকিয়ে জিজ্ঞেস করল, সেই ছোট রাখাল কি এতটা উঁচুতে উঠে গেছে? তিনি জবাব দিলেন, তাকে শেষ করলেন এবং তার মাথা নিয়ে নবীজি ﷺ-এর কাছে ফিরলেন; নবীজি ﷺ তা দেখে আল্লাহর প্রশংসা করলেন।",
+            en: "At Badr the man who had once clawed at him and punched him in Makkah met him again. Abu Jahl lay mortally wounded among the fallen, and it was Abdullah who found him and set his foot on his neck. The dying chief looked up and asked whether the little shepherd had climbed so high. He answered him and finished him, and carried his head back to the Prophet ﷺ, who praised Allah when he saw it.",
+            bn: "বদরে সেই লোকটির সঙ্গে তাঁর আবার দেখা হলো, যে একবার মক্কায় তাঁকে খামচে দিয়েছিল, ঘুষি মেরেছিল। আবু জাহল মরণাপন্ন অবস্থায় নিহতদের মাঝে পড়ে ছিল; আবদুল্লাহই তাকে খুঁজে পেয়ে তার গলার ওপর পা রাখলেন। মৃত্যুপথযাত্রী নেতা তাকিয়ে জিজ্ঞেস করল, সেই ছোট রাখাল কি এতটা উঁচুতে উঠে গেছে? তিনি জবাব দিলেন, তাকে শেষ করলেন এবং তার মাথা নিয়ে নবীজি ﷺ-এর কাছে ফিরলেন; নবীজি ﷺ তা দেখে আল্লাহর প্রশংসা করলেন।",
           },
           {
             en: "The scene closed a circle that had opened on a hillside outside Makkah. The boy with no clan, who had been struck in the face for reading 55:1-4 aloud, stood at the end of the first battle over the body of the man who had led that persecution. He fought in every campaign after it, and lived to see the religion he had recited in a swollen mouth carried out of Arabia altogether.",
@@ -1757,8 +1757,8 @@ var SAHABA_ARTICLES = {
             bn: "উমর (রাঃ) তাঁকে শিক্ষক ও বাইতুল মালের দায়িত্ব দিয়ে কুফায় পাঠান এবং সেখানকার লোকদের লিখে জানান যে, এমন একজনকে তিনি তাদের দিচ্ছেন যাঁকে নিজের কাছেই রাখতে চেয়েছিলেন। আবদুল্লাহ বছরের পর বছর সেখানে পড়িয়েছেন; তাঁকে ঘিরে গড়ে ওঠা হালকা থেকে বেরিয়ে এসেছেন আলকামা, আল-আসওয়াদ ও মাসরুক—আর তাঁদের মাধ্যমেই যুগ যুগ ধরে ইরাকের ফিকহ ও কিরাআতের ধারা প্রবাহিত হয়েছে। কোনো মাসআলায় নিজে নিশ্চিত না হলে তিনি ছাত্রদের তাঁর কথার ওপর নির্ভর করতে দিতেন না।",
           },
           {
-            en: "Asked once about a matter he did not know, he said that whoever has knowledge should speak, and whoever does not should say that Allah knows best — for it is part of knowledge to say I do not know, and he recited 38:86, that the Prophet ﷺ asked no reward and was not one to pretend. That restraint is what made his school trusted. He died in Madinah about twenty years after the Prophet ﷺ.",
-            bn: "একবার অজানা বিষয়ে জিজ্ঞাসিত হলে তিনি বলেন, যার জানা আছে সে বলুক, আর যার নেই সে বলুক আল্লাহই ভালো জানেন—কারণ 'আমি জানি না' বলাও জ্ঞানেরই অংশ; এরপর তিনি পড়েন 38:86, যে নবীজি ﷺ কোনো প্রতিদান চাননি এবং তিনি ভান করার লোক নন। এই সংযমই তাঁর পাঠশালাকে আস্থাভাজন করেছিল। নবীজি ﷺ-এর প্রায় বিশ বছর পর তিনি মদিনায় ইন্তেকাল করেন।",
+            en: "Asked once about a matter he did not know, he said that whoever has knowledge should speak, and whoever does not should say that Allah knows best — for it is part of knowledge to say of what you do not know, Allah knows best, and he recited 38:86, that the Prophet ﷺ asked no reward and was not one to pretend. That restraint is what made his school trusted. He died in Madinah about twenty years after the Prophet ﷺ.",
+            bn: "একবার অজানা বিষয়ে জিজ্ঞাসিত হলে তিনি বলেন, যার জানা আছে সে বলুক, আর যার নেই সে বলুক আল্লাহই ভালো জানেন—কারণ যা জানা নেই সে বিষয়ে 'আল্লাহই ভালো জানেন' বলাও জ্ঞানেরই অংশ; এরপর তিনি পড়েন 38:86, যে নবীজি ﷺ কোনো প্রতিদান চাননি এবং তিনি ভান করার লোক নন। এই সংযমই তাঁর পাঠশালাকে আস্থাভাজন করেছিল। নবীজি ﷺ-এর প্রায় বিশ বছর পর তিনি মদিনায় ইন্তেকাল করেন।",
           },
         ],
       },
@@ -2863,8 +2863,8 @@ var SAHABA_ARTICLES = {
         h: { en: "The Throne Shook", bn: "আরশ কেঁপে উঠল" },
         p: [
           {
-            en: "His wound reopened after the judgement and he died of it. Sahih al-Bukhari 3803 and Sahih Muslim 2468 record the words of the Prophet ﷺ: the Throne of the Most Merciful shook at the death of Sa'd ibn Mu'adh. Bukhari 3249 preserves another, said of a piece of silk that the Companions were admiring — the handkerchiefs of Sa'd in Paradise are better than this.",
-            bn: "ফয়সালার পর তাঁর ক্ষত আবার খুলে যায়, আর তাতেই তিনি ইন্তেকাল করেন। সহিহ বুখারি ৩৮০৩ ও সহিহ মুসলিম ২৪৬৮-এ নবীজি ﷺ-এর কথাটা আছে: সাদ ইবনে মুআযের মৃত্যুতে রহমানের আরশ কেঁপে উঠেছে। বুখারি ৩২৪৯-এ আরেকটি কথা আছে, সাহাবিরা একটি রেশমি কাপড়ের প্রশংসা করছিলেন, তখন তিনি বলেন, জান্নাতে সাদের রুমাল এর চেয়ে উত্তম।",
+            en: "His wound reopened after the judgement and he died of it. Sahih al-Bukhari 3803 and Sahih Muslim 2466 record the words of the Prophet ﷺ: the Throne of the Most Merciful shook at the death of Sa'd ibn Mu'adh. Bukhari 3249 preserves another, said of a piece of silk that the Companions were admiring — the handkerchiefs of Sa'd in Paradise are better than this.",
+            bn: "ফয়সালার পর তাঁর ক্ষত আবার খুলে যায়, আর তাতেই তিনি ইন্তেকাল করেন। সহিহ বুখারি ৩৮০৩ ও সহিহ মুসলিম ২৪৬৬-এ নবীজি ﷺ-এর কথাটা আছে: সাদ ইবনে মুআযের মৃত্যুতে রহমানের আরশ কেঁপে উঠেছে। বুখারি ৩২৪৯-এ আরেকটি কথা আছে, সাহাবিরা একটি রেশমি কাপড়ের প্রশংসা করছিলেন, তখন তিনি বলেন, জান্নাতে সাদের রুমাল এর চেয়ে উত্তম।",
           },
           {
             en: "He had been a Muslim for about six years. In that time he brought an entire clan into Islam, spoke for the Ansar at the decision that made Badr possible, took an arrow at the Trench, judged the case that ended the siege, and died of the wound. Very few lives are that short and that complete.",
@@ -2885,8 +2885,8 @@ var SAHABA_ARTICLES = {
             bn: "বদরের আগে হুযাইফা (রাঃ) ও তাঁর বাবা আল-ইয়ামান নবীজি ﷺ-এর সঙ্গে যোগ দিতে যাচ্ছিলেন, পথে কুরাইশ তাঁদের ধরে ফেলে আর যুদ্ধ না করার অঙ্গীকার নেয়। তাঁরা এসে নবীজি ﷺ-কে অঙ্গীকারের কথা জানালেন। সহিহ মুসলিম ১৭৮৭-এ তাঁর জবাব আছে: তোমরা ফিরে যাও; আমরা তাদের দেওয়া কথা রাখব আর তাদের বিরুদ্ধে আল্লাহর সাহায্য চাইব। বদরে বাড়তি দুজন মানুষের দাম ছিল অনেক, তবু কথা ভাঙার চেয়ে তিনি তাঁদের ফিরিয়ে দিলেন।",
           },
           {
-            en: "At Uhud his father was killed in the confusion by Muslims who did not recognise him. Sahih al-Bukhari 3290 records that Hudhayfah called out to them, but they had already struck. He said, may Allah forgive you, and gave the blood money that was due to him away in charity. He was a young man, and he had just lost his father to his own side, and that was his response.",
-            bn: "উহুদে বিশৃঙ্খলার মধ্যে তাঁর বাবাকে মুসলিমরাই চিনতে না পেরে হত্যা করে ফেলেন। সহিহ বুখারি ৩২৯০-এ আছে, হুযাইফা চেঁচিয়ে তাঁদের থামাতে চেয়েছিলেন, কিন্তু ততক্ষণে আঘাত হয়ে গেছে। তিনি বললেন, আল্লাহ আপনাদের মাফ করুন। আর তাঁর প্রাপ্য রক্তমূল্য তিনি দান করে দিলেন। বয়সে তরুণ, সদ্য নিজেদের লোকের হাতেই বাবাকে হারিয়েছেন — এই ছিল তাঁর প্রতিক্রিয়া।",
+            en: "At Uhud his father was killed in the confusion by Muslims who did not recognise him. Sahih al-Bukhari 3290 records that Hudhayfah called out to them, but they had already struck. He said, may Allah forgive you; other reports add that he gave the blood money due to him away in charity. He was a young man, and he had just lost his father to his own side, and that was his response.",
+            bn: "উহুদে বিশৃঙ্খলার মধ্যে তাঁর বাবাকে মুসলিমরাই চিনতে না পেরে হত্যা করে ফেলেন। সহিহ বুখারি ৩২৯০-এ আছে, হুযাইফা চেঁচিয়ে তাঁদের থামাতে চেয়েছিলেন, কিন্তু ততক্ষণে আঘাত হয়ে গেছে। তিনি বললেন, আল্লাহ আপনাদের মাফ করুন। অন্য কিছু বর্ণনায় আছে, তাঁর প্রাপ্য রক্তমূল্য তিনি দান করে দেন। বয়সে তরুণ, সদ্য নিজেদের লোকের হাতেই বাবাকে হারিয়েছেন — এই ছিল তাঁর প্রতিক্রিয়া।",
           },
         ],
       },
@@ -3219,8 +3219,8 @@ var SAHABA_ARTICLES = {
         h: { en: "What the Speech Actually Did", bn: "কথাটা আসলে যা করল" },
         p: [
           {
-            en: "It is worth being precise about the effect of what he said at Badr. The Prophet ﷺ was not asking whether the Muhajirun would obey him; that was settled. He was asking whether an army short of everything would walk into a battle it had not come for. Al-Miqdad spoke first and removed the possibility of hesitation from the room before anyone else had to weigh it.",
-            bn: "বদরে তাঁর কথাটা আসলে কী কাজ করেছিল, তা নির্দিষ্ট করে বলা দরকার। নবীজি ﷺ জানতে চাননি মুহাজিররা তাঁর কথা মানবেন কি না; ওটা আগেই মীমাংসা হয়ে গেছে। তিনি জানতে চাইছিলেন, সব কিছুতে টানাটানিতে থাকা একটা বাহিনী এমন এক যুদ্ধে ঢুকবে কি না, যার জন্য তারা বেরোয়নি। মিকদাদ সবার আগে কথা বলে সংশয়ের সম্ভাবনাটাই ঘর থেকে সরিয়ে দিলেন, আর কাউকে তা ওজন করতেই হলো না।",
+            en: "It is worth being precise about the effect of what he said at Badr. The Prophet ﷺ was not asking whether the Muhajirun would obey him; that was settled. He was asking whether an army short of everything would walk into a battle it had not come for. After Abu Bakr and Umar (RA) had spoken, al-Miqdad stood and removed the possibility of hesitation from the room before anyone else had to weigh it.",
+            bn: "বদরে তাঁর কথাটা আসলে কী কাজ করেছিল, তা নির্দিষ্ট করে বলা দরকার। নবীজি ﷺ জানতে চাননি মুহাজিররা তাঁর কথা মানবেন কি না; ওটা আগেই মীমাংসা হয়ে গেছে। তিনি জানতে চাইছিলেন, সব কিছুতে টানাটানিতে থাকা একটা বাহিনী এমন এক যুদ্ধে ঢুকবে কি না, যার জন্য তারা বেরোয়নি। আবু বকর ও উমর (রাঃ)-এর পর মিকদাদ উঠে দাঁড়িয়ে কথা বলে সংশয়ের সম্ভাবনাটাই ঘর থেকে সরিয়ে দিলেন, আর কাউকে তা ওজন করতেই হলো না।",
           },
           {
             en: "He also chose his words carefully. Quoting 5:24 put the alternative in front of everyone in the worst light available, as the answer of a people the Quran holds up as a warning. Nobody who heard it wanted to be the one who said the thing the Children of Israel had said. It was a speech built to close a question rather than to open one.",
@@ -3419,8 +3419,8 @@ var SAHABA_ARTICLES = {
             bn: "মক্কা বিজয়ের দিন সাদ আনসারদের একটা পতাকা বহন করছিলেন। সহিহ বুখারি ৪২৮০-এ আছে, আবু সুফিয়ানের পাশ দিয়ে যাওয়ার সময় তিনি হাঁক দিলেন, আজ হত্যার দিন, আজ হারামও হালাল হয়ে যাবে। কথাটা নবীজি ﷺ-এর কানে পৌঁছাল। তিনি বললেন, বরং আজ সেই দিন, যেদিন কাবাকে সম্মানিত করা হবে। ইবনে ইসহাক যোগ করেন, তিনি নির্দেশ দিলেন, পতাকাটা সাদের হাত থেকে নিয়ে আলী (রাঃ)-এর হাতে দেওয়া হোক।",
           },
           {
-            en: "The correction was made with unusual care. The banner did not go to another clan or another man; it stayed in Sa'd's own house, in his son's hand, so that the error was corrected without the chief being humiliated in front of the city he had led. It is a small piece of statecraft worth studying: the wrong sentiment was stopped dead, and the man's honour was left standing.",
-            bn: "শুধরে দেওয়াটা হলো অসাধারণ যত্নে। পতাকা অন্য কোনো গোত্রে গেল না, অন্য কারও হাতেও নয়; রইল সাদেরই ঘরে, তাঁর ছেলের হাতে। ভুলটা শোধরানো হলো, অথচ যে শহরের নেতৃত্ব তিনি দিয়ে এসেছেন তার সামনে সর্দারকে ছোট করা হলো না। রাষ্ট্রপরিচালনার এই ছোট্ট কৌশলটা শেখার মতো: ভুল ভাবনাটা থেমে গেল সেখানেই, আর মানুষটার সম্মান রয়ে গেল দাঁড়িয়ে।",
+            en: "The correction was made with care. In Ibn Ishaq the banner went to Ali (RA); other reports have it handed to Sa'd's own son Qays, so that the error was corrected without the chief being humiliated in front of the city he had led. It is a small piece of statecraft worth studying: the wrong sentiment was stopped dead, and the man's honour was left standing.",
+            bn: "শুধরে দেওয়াটা হলো যত্নের সঙ্গে। ইবনে ইসহাকের বর্ণনায় পতাকা গেল আলি (রাঃ)-এর হাতে; অন্য কিছু বর্ণনায় তা দেওয়া হয় সাদেরই ছেলে কায়সের হাতে, যাতে ভুলটা শোধরানো হয়, কিন্তু যে শহরের নেতৃত্ব তিনি দিয়ে এসেছেন তার সামনে সর্দারকে ছোট করা না হয়। রাষ্ট্রপরিচালনার এই ছোট্ট কৌশলটা শেখার মতো: ভুল ভাবনাটা থেমে গেল সেখানেই, আর মানুষটার সম্মান রয়ে গেল দাঁড়িয়ে।",
           },
         ],
       },
@@ -3838,8 +3838,8 @@ var SAHABA_ARTICLES = {
         h: { en: "Egypt", bn: "মিশর" },
         p: [
           {
-            en: "His name is fixed in history by one campaign. Under Umar (RA) he marched a small army into Egypt, took Pelusium and the fortress of Babylon, and received the surrender of Alexandria, bringing the richest province of the Byzantine world under Muslim rule. He founded Fustat, the garrison city by the Nile from which Cairo would eventually grow, and built in it the first mosque of Africa, which still bears his name.",
-            bn: "একটা অভিযানই তাঁর নাম ইতিহাসে গেঁথে দিয়েছে। উমর (রাঃ)-এর আমলে তিনি ছোট এক বাহিনী নিয়ে মিশরে ঢুকলেন, নিলেন পেলুসিয়াম আর ব্যাবিলন দুর্গ, আর আলেকজান্দ্রিয়ার আত্মসমর্পণ গ্রহণ করলেন। বাইজেন্টাইন দুনিয়ার সবচেয়ে ধনী প্রদেশটা এল মুসলিম শাসনে। নীলনদের ধারে তিনি গড়লেন সেনানগর ফুসতাত, যেখান থেকে একদিন কায়রো গজিয়ে উঠবে। আর তাতে বানালেন আফ্রিকার প্রথম মসজিদ, যা আজও তাঁর নাম বহন করে।",
+            en: "His name is fixed in history by one campaign. Under Umar (RA) he marched a small army into Egypt, took Pelusium and the fortress of Babylon, and received the surrender of Alexandria, bringing the richest province of the Byzantine world under Muslim rule. He founded Fustat, the garrison city by the Nile from which Cairo would eventually grow, and built in it what is often called the first mosque in Africa, which still bears his name.",
+            bn: "একটা অভিযানই তাঁর নাম ইতিহাসে গেঁথে দিয়েছে। উমর (রাঃ)-এর আমলে তিনি ছোট এক বাহিনী নিয়ে মিশরে ঢুকলেন, নিলেন পেলুসিয়াম আর ব্যাবিলন দুর্গ, আর আলেকজান্দ্রিয়ার আত্মসমর্পণ গ্রহণ করলেন। বাইজেন্টাইন দুনিয়ার সবচেয়ে ধনী প্রদেশটা এল মুসলিম শাসনে। নীলনদের ধারে তিনি গড়লেন সেনানগর ফুসতাত, যেখান থেকে একদিন কায়রো গজিয়ে উঠবে। আর তাতে বানালেন সেই মসজিদ, যাকে প্রায়ই আফ্রিকার প্রথম মসজিদ বলা হয়, যা আজও তাঁর নাম বহন করে।",
           },
           {
             en: "He governed Egypt for years, and the administrative choices of those years, where the capital sat, how the land tax ran, which faiths kept their churches, shaped the country for centuries. Historians of every persuasion rank him among the most capable men of his age. The Prophet ﷺ had seen that capability across the battle lines and, once it entered Islam, used it without hesitation.",
@@ -4994,8 +4994,8 @@ var SAHABA_ARTICLES = {
             bn: "জাতুর রিকা অভিযানে গিরিপথে সেনা শিবিরের রাত পাহারায় দাঁড়ালেন দুজন, একজন মুহাজির, একজন আনসারি। আবু দাউদে জাবের (রাঃ)-এর বর্ণনায় ঘটনাটি এসেছে। মুহাজির ঘুমালেন, আনসারি দাঁড়ালেন নামাজে। প্রতিশোধ নিতে আসা এক শত্রু অন্ধকারে তাঁর অবয়ব দেখে তির ছুড়ল, বিঁধে গেল শরীরে। তিনি তিরটা টেনে বের করে নামাজ চালিয়ে গেলেন। দ্বিতীয় তির, তারপর তৃতীয়। প্রতিবারই টেনে বের করলেন, নামাজ ছাড়লেন না।",
           },
           {
-            en: "Only after bowing and prostrating did he wake his companion, who saw the blood and asked why he had not been roused at the first arrow. The answer has been quoted for fourteen centuries: I was in a surah I was reciting, and I did not wish to cut it short. The narration adds that he feared losing the post he had been ordered to guard more than he feared for himself. The sirah writers name the Ansari as Abbad ibn Bishr, and nothing else in his biography argues with them.",
-            bn: "রুকু-সিজদা সেরে তবেই তিনি সঙ্গীকে জাগালেন। রক্ত দেখে সঙ্গী বললেন, প্রথম তিরেই আমাকে জাগাননি কেন? সেই জবাব চৌদ্দশ বছর ধরে মানুষের মুখে মুখে। একটি সুরা পড়ছিলাম, মাঝপথে কেটে ফেলতে মন চায়নি। বর্ণনায় আরও আছে, নিজের জানের চেয়ে তাঁর বেশি ভয় ছিল, যে ফটক পাহারার হুকুম পেয়েছেন তা হাতছাড়া হয়ে যায় কি না। সিরাত লেখকেরা এই আনসারির নাম বলেছেন আব্বাদ ইবনে বিশর, আর তাঁর জীবনের আর কিছুই এই পরিচয়ের সঙ্গে দ্বিমত করে না।",
+            en: "Only after bowing and prostrating did he wake his companion, who saw the blood and asked why he had not been roused at the first arrow. The answer has been quoted for fourteen centuries: I was in a surah I was reciting, and I did not wish to cut it short. Ibn Ishaq's version adds that only the fear of losing the post he had been ordered to hold made him break off. The sirah writers name the Ansari as Abbad ibn Bishr, and nothing else in his biography argues with them.",
+            bn: "রুকু-সিজদা সেরে তবেই তিনি সঙ্গীকে জাগালেন। রক্ত দেখে সঙ্গী বললেন, প্রথম তিরেই আমাকে জাগাননি কেন? সেই জবাব চৌদ্দশ বছর ধরে মানুষের মুখে মুখে। একটি সুরা পড়ছিলাম, মাঝপথে কেটে ফেলতে মন চায়নি। ইবনে ইসহাকের বর্ণনায় আরও আছে, যে ঘাঁটি পাহারার হুকুম পেয়েছিলেন তা হাতছাড়া হওয়ার ভয়েই কেবল তিনি পড়া থামান। সিরাত লেখকেরা এই আনসারির নাম বলেছেন আব্বাদ ইবনে বিশর, আর তাঁর জীবনের আর কিছুই এই পরিচয়ের সঙ্গে দ্বিমত করে না।",
           },
         ],
       },
@@ -5931,8 +5931,8 @@ var SAHABA_ARTICLES = {
             bn: "হুদায়বিয়ার সন্ধির যে দীর্ঘ বিবরণ সহিহ বুখারিতে আছে, সেখানে মুগিরাকে পাওয়া যায় এমন এক দৃশ্যে, যা তাঁর গোত্র কখনো ভোলেনি। সাকিফের উরওয়া ইবনে মাসউদ নবীজি ﷺ-এর সঙ্গে দরকষাকষি করছিলেন। কথার ফাঁকে ফাঁকে আরবদের চেনা ভঙ্গিতে তিনি হাত বাড়াচ্ছিলেন নবীজি ﷺ-এর দাড়ির দিকে। প্রতিবারই বর্মে ঢাকা এক প্রহরী তরবারির হাতল দিয়ে তাঁর হাতে আঘাত করে বলছিলেন, হাত সরাও। উরওয়া জানতে চাইলেন, লোকটা কে? জবাব এল: আল-মুগিরা ইবনে শু'বা, তাঁরই গোত্রের, তাঁরই আত্মীয়।",
           },
           {
-            en: "The moment measures how far the man had travelled. Kinship was the deepest claim Arabia knew, yet al-Mughira stood between his uncle's hand and the Prophet ﷺ as if no blood tie existed. Urwa returned to Quraysh and reported, astonished, that he had seen kings, Caesar and Chosroes and the Negus, and never seen any king honoured by his companions as Muhammad ﷺ was honoured by his. The guard with the sword hilt was part of what he had seen.",
-            bn: "মানুষটা কতটা পথ পেরিয়ে এসেছেন, এই মুহূর্তটাই তার মাপকাঠি। আরবের কাছে রক্তের দাবির চেয়ে বড় দাবি ছিল না। অথচ মুগিরা আপন চাচার হাত আর নবীজি ﷺ-এর মাঝখানে এমনভাবে দাঁড়ালেন, যেন রক্তের সম্পর্ক বলে কিছু নেই। উরওয়া কুরাইশদের কাছে ফিরে বিস্ময় নিয়ে বললেন, আমি কায়সার দেখেছি, কিসরা দেখেছি, নাজাশিও দেখেছি; কিন্তু কোনো বাদশাহকে তার সঙ্গীরা এমন সম্মান করে না, যেমনটা মুহাম্মাদ ﷺ-এর সাথিরা তাঁকে করে। তরবারির হাতল ধরা সেই প্রহরীও ছিলেন তাঁর সেই দেখারই অংশ।",
+            en: "The moment measures how far the man had travelled. Kinship was the deepest claim Arabia knew, yet al-Mughira stood between his great-uncle's hand and the Prophet ﷺ as if no blood tie existed. Urwa returned to Quraysh and reported, astonished, that he had seen kings, Caesar and Chosroes and the Negus, and never seen any king honoured by his companions as Muhammad ﷺ was honoured by his. The guard with the sword hilt was part of what he had seen.",
+            bn: "মানুষটা কতটা পথ পেরিয়ে এসেছেন, এই মুহূর্তটাই তার মাপকাঠি। আরবের কাছে রক্তের দাবির চেয়ে বড় দাবি ছিল না। অথচ মুগিরা বাবার আপন চাচার হাত আর নবীজি ﷺ-এর মাঝখানে এমনভাবে দাঁড়ালেন, যেন রক্তের সম্পর্ক বলে কিছু নেই। উরওয়া কুরাইশদের কাছে ফিরে বিস্ময় নিয়ে বললেন, আমি কায়সার দেখেছি, কিসরা দেখেছি, নাজাশিও দেখেছি; কিন্তু কোনো বাদশাহকে তার সঙ্গীরা এমন সম্মান করে না, যেমনটা মুহাম্মাদ ﷺ-এর সাথিরা তাঁকে করে। তরবারির হাতল ধরা সেই প্রহরীও ছিলেন তাঁর সেই দেখারই অংশ।",
           },
         ],
       },

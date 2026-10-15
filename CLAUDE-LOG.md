@@ -12,6 +12,23 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
+## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
+- Tool tools/bn-review/bn.js extract <file> <CONST> | apply <CONST> [--write]; brief tools/bn-review/BRIEF.md (follows
+  tools/BANGLA-STYLE.md). Fixes keyed by JSON path; apply checks numbers, honorifics, dashes, wrong-register words.
+- Marker scan (per 1000 bn words: একটি / passive / em dash) worst: SURAH_NAME_NOTES, WHY_ISLAM_DATA, PROPHET_ARTICLES,
+  QA_LESSONS, MUTASHABIHAT_GROUPS, NAMES_99 (dashes), handwriting, kids stories, prophets-data, Islam rulings.
+- Pilot running: WHY_ISLAM_DATA R1, SURAH_NAME_NOTES R1, PROPHET_ARTICLES R1. Then fan out; apply --write; npm test;
+  extend tests/check-bangla-style.js STYLED list with each reviewed file.
+- Indonesian articles: only A1-A5 launched (paused for Bengali priority); A6-A10 + merge later.
+- Applied (--write): WHY_ISLAM_DATA R1 (138), SURAH_NAME_NOTES R1 (135). Running: WHY R2/R3, SURAH R2/R3,
+  MUTASHABIHAT R1, PROPHET_ARTICLES R1. Budget rule for this wave: stop new work at ~91% 7d. After reset (Mon 19 Oct):
+  NAMES_99 R1-R4, QA_LESSONS R1-R7, handwriting, kids stories, prophets-data, Islam rulings, seerah-data.
+- PROPHET_ARTICLES R1 reviewed (157 fixes) but NOT applied: apply only after the fact-checker finishes batches 23-26
+  (it also writes js/prophets-articles.js; concurrent whole-file writes would lose edits).
+- BRIEF spelling table: নামাজ ওহি জিকির নাজিল ফেরাউন সূরা কুরআন রাসূল হাদিস যাকাত রমজান (app majority forms).
+- Open EN item: why-islam 16.qa.0.a "much of South and West Africa" probably means East and West Africa (EN change
+  would orphan 13 translations of that string; fix with a retranslation of one string).
+
 ## Article i18n wave (2026-10-15): ur + ar + hi DONE, committed v956 (not pushed/deployed; v952-v956 all unpushed)
 - 238 articles (Sahaba/Seerah/Prophets), 4,373 strings, 222k words per language. data/content-i18n/art-<module>/<id>/
   <lang>.json; modules' lc(o, ns) with ns 'art-<module>/<id>'. tools/content-i18n/articles.js extract | merge <lang>
