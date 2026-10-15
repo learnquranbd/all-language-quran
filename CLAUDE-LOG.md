@@ -72,6 +72,11 @@ the state, kept short on purpose. Full history of earlier rounds:
   handwriting, kids stories, prophets-data, Islam rulings, seerah-data, sahaba-data.
 - Open EN item: why-islam 34.points.1 credits 49:13 with "no Arab has superiority over a non-Arab" (that is the Farewell Sermon hadith, Ahmad 23489).
 - Open EN item: why-islam 42.points.3 says al-Bukhari prayed "before assessing each narrator"; the known report is before recording each hadith.
+- 2026-10-15 (cont.): TAJWEED_MISTAKES Bengali reviewed by hand (15 strings; restored dropped clauses: mid-word sukoon
+  qalqalah, إِلَٰهَ, "many"/"sometimes", tafkhim note); resources.js অডিট fixed. Only Tadabbur article shards keep
+  style hits now (648 across 114 shards; 2.js 54, 3.js 47 worst). Open EN in TAJWEED_MISTAKES.general: [17] says Bengali
+  and Urdu speakers aspirate every stop (both languages contrast aspirated/plain stops; doubtful); [18] example
+  رَسُولُ نَبِيٍّ is muddled (its long و comes before ل, not ن); BN leaves the example out.
 - Open EN item: why-islam 16.qa.0.a "much of South and West Africa" probably means East and West Africa (EN change
   would orphan 13 translations of that string; fix with a retranslation of one string).
 
