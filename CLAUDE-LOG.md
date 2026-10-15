@@ -33,6 +33,10 @@ the state, kept short on purpose. Full history of earlier rounds:
 - "fix all" (user, 2026-10-15): BN_PACK (js/i18n/bn.js UI, 1703 keys, 7 packets) R1-R5 running; EN-slip agent fixing
   18 Names/Why-Islam English items (then content-i18n extend + retranslate those strings in 13 langs). Packets ready
   for prophets-data, kids, seerah-data, sahaba-data, Islam rulings, QA_LESSONS. Stop at ~97% 7d; commit per module.
+- Applied since v957: BN_PACK (549, UI), Islam rulings FARD_OTHER/WAJIB/NAFL/MUSTAHABB/MAKRUH_ITEMS (158), app-wide
+  spellings তাজবীদ মক্কী মাদানী + streak = টানা (bn.js SPELL list keeps them), 18 EN slips fixed (C8 chunk retranslating).
+  Open EN: MUSTAHABB_ITEMS 6.titleEn "Entering & Exiting with the Right Foot" vs its own desc (exit with left);
+  NAFL_ITEMS 5.descEn calls Umrah voluntary then obligatory (Shafi'i/Hanbali).
 - v957: Bengali review DONE for WHY_ISLAM_DATA (433), SURAH_NAME_NOTES (324) + SURAHNAMES_UI, MUTASHABIHAT_GROUPS (130),
   PROPHET_ARTICLES (303), NAMES_99 (454): ~1,650 strings; all six files now enforced by tests/check-bangla-style.js.
   Biggest finding: much Bengali had DROPPED English sentences or said the opposite; restored. Stopped at 88-89% 7d.

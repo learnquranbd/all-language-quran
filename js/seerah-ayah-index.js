@@ -14,7 +14,7 @@
  */
 var LQ_SEERAH_AYAH = window.LQ_SEERAH_AYAH = {
  t: {
-  "abdurrahman_conversion": {"en":"Abdur-Rahman ibn Awf — Early Convert and Trader of Integrity","bn":"আবদুর রহমান ইবনে আউফ — প্রথম মুসলিম ও সততার ব্যবসায়ী","y":"c. 610 CE"},
+  "abdurrahman_conversion": {"en":"Abdur-Rahman ibn Awf — Early Convert and Trader of Integrity","bn":"আবদুর রহমান ইবনে আউফ — প্রথম দিকের মুসলিম ও সৎ ব্যবসায়ী","y":"c. 610 CE"},
   "abu_dharr_islam": {"en":"Abu Dharr al-Ghifari Accepts Islam","bn":"আবু যর গিফারি (রাঃ)-এর ইসলাম গ্রহণ","y":"c. 612 CE"},
   "abu_sufyan_conversion": {"en":"Abu Sufyan Embraces Islam on the Eve of the Conquest","bn":"বিজয়ের প্রাক্কালে আবু সুফিয়ানের ইসলাম গ্রহণ","y":"630 CE"},
   "abutalib": {"en":"Under Abu Talib’s Care & the Monk Bahira","bn":"আবু তালিবের তত্ত্বাবধান ও পাদ্রি বাহিরা","y":"c. 578–583 CE"},
@@ -64,14 +64,14 @@ var LQ_SEERAH_AYAH = window.LQ_SEERAH_AYAH = {
   "letter_heraclius": {"en":"Letter to Heraclius of Byzantium","bn":"বাইজেন্টিয়ামের হিরাক্লিয়াসের কাছে পত্র","y":"628 CE"},
   "letters": {"en":"Letters to Kings & Rulers","bn":"রাজা-বাদশাহদের কাছে পত্র","y":"628 CE"},
   "lineage": {"en":"Noble Lineage — Quraysh & Banu Hashim","bn":"সম্ভ্রান্ত বংশ — কুরাইশ ও বনু হাশিম","y":"c. 570 CE"},
-  "minbar_adoption": {"en":"The Minbar & the Weeping Palm Trunk","bn":"মিম্বর ও ক্রন্দনরত খেজুর কাণ্ড","y":"c. 628–629 CE"},
+  "minbar_adoption": {"en":"The Minbar & the Weeping Palm Trunk","bn":"মিম্বর ও কেঁদে ওঠা খেজুর গাছের কাণ্ড","y":"c. 628–629 CE"},
   "miraj_heavens": {"en":"Mi'raj — Meeting the Prophets in the Seven Heavens","bn":"মিরাজ — সাত আসমানে নবীগণের সাথে সাক্ষাৎ","y":"c. 620–621 CE"},
   "mosque": {"en":"The Prophet’s Mosque, Brotherhood & Charter","bn":"মসজিদে নববী, ভ্রাতৃত্ব ও সনদ","y":"622–623 CE"},
   "muadh_yemen": {"en":"Mu’adh ibn Jabal is Sent to Yemen","bn":"মুয়ায ইবনে জাবালকে ইয়েমেনে প্রেরণ","y":"631 CE"},
   "mubahalah": {"en":"The Mubahalah of Najran","bn":"নাজরানের মুবাহালা","y":"631 CE"},
   "mutah": {"en":"The Battle of Mu’tah","bn":"মুতার যুদ্ধ","y":"629 CE"},
   "najashi_death": {"en":"Death of the Negus & the Funeral Prayer in Absentia","bn":"নাজ্জাশির মৃত্যু ও গায়েবানা জানাজা","y":"630 CE"},
-  "orphan": {"en":"Orphanhood — Loss of His Mother & Grandfather","bn":"ইয়াতিমত্ব — মা ও দাদার মৃত্যু","y":"c. 576–578 CE"},
+  "orphan": {"en":"Orphanhood — Loss of His Mother & Grandfather","bn":"ইয়াতিম শৈশব — মা ও দাদাকে হারানো","y":"c. 576–578 CE"},
   "passing": {"en":"The Passing of the Prophet ﷺ","bn":"নবী ﷺ-এর ইন্তেকাল","y":"632 CE"},
   "persecution": {"en":"Persecution of the Muslims","bn":"মুসলমানদের উপর নির্যাতন","y":"c. 613–615 CE"},
   "public": {"en":"Secret Dawah, then the Public Call","bn":"গোপন দাওয়াত, অতঃপর প্রকাশ্য আহ্বান","y":"c. 613 CE"},
