@@ -265,7 +265,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir adds that Ibn Marduyah narrated it from Anas ibn Malik as the Prophet's words ﷺ, at greater length, and says he has set it out in his own book on the description of the Fire. He states no grading in the passage fetched. Al-Qurtubi mentions a report of similar sense from Abu Hurayra and names no collection. No fetched tafsir attaches to 101:9 a hadith of the Prophet ﷺ with its collection and grading, so this study quotes none, and al-Ash'ath's words stay his own report.",
-            "bn": "ইবন কাসীর জানান, ইবন মারদুয়াহ আনাস ইবন মালিক (রাঃ) থেকে এটি নবী ﷺ-এর বাণী হিসেবে আরও বিস্তারিতভাবে বর্ণনা করেছেন, আর ইবন কাসীর বলেন, আগুনের বর্ণনা বিষয়ক নিজের বইয়ে তিনি তা পুরোটা এনেছেন। সংগৃহীত অংশে তিনি এর মান সম্পর্কে কিছু বলেননি। কুরতুবী আবু হুরায়রা (রাঃ) থেকে এ রকম অর্থের একটি বর্ণনার কথা বলেন, কিন্তু কোনো হাদীসগ্রন্থের নাম দেন না। সংগৃহীত কোনো তাফসীর ১০১:৯ আয়াতের সঙ্গে গ্রন্থ ও মানসহ নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি। তাই এই আলোচনায় কোনো হাদীস উদ্ধৃত হয়নি, আর আশআসের কথা তাঁর নিজের বর্ণনা হিসেবেই থাকছে।"
+            "bn": "ইবন কাসীর জানান, ইবন মারদুয়াহ আনাস ইবন মালিক (রাঃ) থেকে এটি নবী ﷺ-এর বাণী হিসেবে আরও বিস্তারিতভাবে বর্ণনা করেছেন, আর ইবন কাসীর বলেন, আগুনের বর্ণনা বিষয়ক নিজের বইয়ে তিনি তা পুরোটা এনেছেন। সংগৃহীত অংশে তিনি এর মান সম্পর্কে কিছু বলেননি। কুরতুবী আবু হুরায়রা (রাঃ) থেকে এ রকম অর্থের একটি বর্ণনার কথা বলেন, কিন্তু কোনো হাদিসগ্রন্থের নাম দেন না। সংগৃহীত কোনো তাফসীর ১০১:৯ আয়াতের সঙ্গে গ্রন্থ ও মানসহ নবী ﷺ-এর কোনো হাদিস যুক্ত করেনি। তাই এই আলোচনায় কোনো হাদিস উদ্ধৃত হয়নি, আর আশআসের কথা তাঁর নিজের বর্ণনা হিসেবেই থাকছে।"
           }
         ]
       },
