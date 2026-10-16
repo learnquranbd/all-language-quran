@@ -16,16 +16,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Question Cuts In",
-          "bn": "প্রশ্নটি মাঝপথে ঢোকে"
+          "bn": "মাঝপথে হঠাৎ এক প্রশ্ন"
         },
         "p": [
           {
             "en": "Surah al-Infitar opens with four clauses of collapse: the sky breaks apart in 82:1, the stars fall scattering in 82:2, the seas are erupted in 82:3, and in 82:4 the contents of the graves are scattered. 82:5 delivers the result the four were building towards — a soul will know what it sent ahead and what it kept back. The scene is complete, and it has been addressed to nobody in particular.",
-            "bn": "সূরা আল-ইনফিতার শুরু হয় ধসের চারটি বাক্য দিয়ে: 82:1 আয়াতে আসমান ফেটে যায়, 82:2 আয়াতে তারকারা বিক্ষিপ্ত হয়ে ঝরে পড়ে, 82:3 আয়াতে সমুদ্রকে উত্তাল করে তোলা হয়, আর 82:4 আয়াতে কবরগুলোর ভেতরের সব বের করে ছড়িয়ে দেওয়া হয়। 82:5 আয়াত সেই পরিণতিটি দেয় যার দিকে চারটি বাক্য এগোচ্ছিল — প্রত্যেকে জেনে নেবে সে কী আগে পাঠিয়েছে আর কী পেছনে রেখে এসেছে। দৃশ্যটি সম্পূর্ণ, আর তা এতক্ষণ কাউকে বিশেষভাবে সম্বোধন করেনি।"
+            "bn": "সূরা আল-ইনফিতার শুরু হয় চারটি বাক্য দিয়ে, চারটিই সবকিছু ভেঙে পড়ার কথা। ৮২:১ আয়াতে আসমান ফেটে যায়, ৮২:২ আয়াতে তারকারা ঝরে ছড়িয়ে পড়ে, ৮২:৩ আয়াতে সমুদ্রগুলো উথলে ওঠে, আর ৮২:৪ আয়াতে কবরের ভেতরের সবকিছু উল্টে ছড়িয়ে দেওয়া হয়। এই চার বাক্য যে পরিণতির দিকে এগোচ্ছিল, ৮২:৫ সেটাই জানিয়ে দেয়: প্রত্যেকে জেনে যাবে সে কী আগে পাঠিয়েছে আর কী পেছনে রেখে এসেছে। দৃশ্যটা পুরো হলো, অথচ এখনো কাউকে আলাদা করে ডাকা হয়নি।"
           },
           {
             "en": "Then the grammar turns and looks straight at the reader: O man. The Day is dropped mid-description and a question is put to a single person, in the singular. No other verse in the surah calls the reader by name like this. A reader who has been watching the sky tear open is suddenly the one being asked something, and the something is not what he did but what he was thinking.",
-            "bn": "তারপর ব্যাকরণ ঘুরে দাঁড়িয়ে সরাসরি পাঠকের দিকে তাকায়: হে মানুষ। কিয়ামতের বর্ণনা মাঝপথে থামিয়ে একজন ব্যক্তিকে, একবচনে, একটি প্রশ্ন করা হয়। সূরার আর কোনো আয়াত পাঠককে এভাবে ডেকে সম্বোধন করে না। যে পাঠক এতক্ষণ আসমান ফেটে যেতে দেখছিলেন, তিনি হঠাৎ নিজেই জিজ্ঞাসিত হন — আর জিজ্ঞাসাটি তিনি কী করেছেন তা নিয়ে নয়, তিনি কী ভাবছিলেন তা নিয়ে।"
+            "bn": "তারপর বাক্যের ধরন বদলে যায়, কথা সোজা পাঠকের দিকে ফেরে: হে মানুষ! কিয়ামতের বর্ণনা মাঝপথে থেমে যায়, আর একজন মানুষকে, একবচনে, একটি প্রশ্ন করা হয়। সূরার আর কোনো আয়াত পাঠককে এভাবে নাম ধরে ডাকে না। যিনি এতক্ষণ আসমান ফেটে যাওয়া দেখছিলেন, হঠাৎ প্রশ্নটা তাঁকেই করা হচ্ছে। আর প্রশ্নটা তিনি কী করেছেন তা নিয়ে নয়, তিনি কী ভাবছিলেন তা নিয়ে।"
           }
         ]
       },
@@ -37,11 +37,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verb gharra means to deceive by making something dangerous look safe. Its noun al-gharur, the arch-deceiver, appears in 31:33, 35:5 and 57:14, and in each of those places the deception is specifically about Allah. Here no deceiver is named at all. The question ma gharraka, what deceived you, occurs nowhere else in the Quran, and it is left open so the reader has to fill in his own answer.",
-            "bn": "গাররা ক্রিয়ার অর্থ বিপজ্জনক কিছুকে নিরাপদ দেখিয়ে ধোঁকা দেওয়া। এর বিশেষ্য আল-গারূর — প্রধান প্রতারক — এসেছে 31:33, 35:5 ও 57:14 আয়াতে, আর এই প্রতিটি জায়গাতেই ধোঁকাটি বিশেষভাবে আল্লাহকে নিয়ে। এখানে কোনো প্রতারকের নামই নেওয়া হয়নি। 'মা গাররাকা' — কীসে তোমাকে ধোঁকা দিল — এই প্রশ্নটি কুরআনের আর কোথাও নেই, আর তা খোলা রাখা হয়েছে যেন পাঠককে নিজের উত্তরটি নিজেই বসাতে হয়।"
+            "bn": "গাররা ক্রিয়ার অর্থ, বিপজ্জনক জিনিসকে নিরাপদ দেখিয়ে ধোঁকা দেওয়া। এর বিশেষ্য আল-গারূর, মানে মহাপ্রতারক। শব্দটি এসেছে ৩১:৩৩, ৩৫:৫ ও ৫৭:১৪ আয়াতে, আর তিন জায়গাতেই ধোঁকাটা বিশেষ করে আল্লাহকে নিয়ে। এখানে কোনো প্রতারকের নামই নেই। মা গাররাকা, কীসে তোমাকে ধোঁকা দিল: এই প্রশ্ন কুরআনের আর কোথাও নেই। প্রশ্নটা খোলা রাখা হয়েছে, যাতে উত্তরটা পাঠককে নিজেই বসাতে হয়।"
           },
           {
             "en": "The mufassirun record answers anyway. Ibn Kathir relates from Qatadah that what deceived him was his own devil, and others answered simply: his ignorance. Ibn Kathir also records the view that the name at the end of the verse is placed there to prompt the answer — that the man's reply would be, your generosity deceived me. As-Sa'di reads the question as a rebuke that already contains its refutation: nothing about this Lord ever gave grounds for the presumption.",
-            "bn": "তবু মুফাসসিরগণ উত্তর নথিবদ্ধ করেছেন। ইবনে কাসীর কাতাদাহ থেকে বর্ণনা করেন যে তাকে ধোঁকা দিয়েছে তার নিজের শয়তান; আবার কেউ কেউ সোজাসুজি উত্তর দিয়েছেন: তার নিজের অজ্ঞতা। ইবনে কাসীর এই মতটিও উল্লেখ করেন যে আয়াতের শেষে নামটি রাখা হয়েছে উত্তরটি মুখে তুলে দেওয়ার জন্য — অর্থাৎ লোকটির জবাব হবে, তোমার উদারতাই আমাকে ধোঁকা দিয়েছে। আস-সা'দী প্রশ্নটিকে এমন এক তিরস্কার হিসেবে পড়েন যার ভেতরেই তার খণ্ডন রয়েছে: এই প্রতিপালকের কোনো কিছুই কখনো এই ধৃষ্টতার ভিত্তি জোগায়নি।"
+            "bn": "তবু মুফাসসিরগণ কিছু উত্তর লিখে রেখেছেন। ইবনে কাসীর কাতাদাহ থেকে বর্ণনা করেন, তাকে ধোঁকা দিয়েছে তার নিজের শয়তান। আবার কেউ কেউ এক কথায় বলেছেন: তার অজ্ঞতা। ইবনে কাসীর আরেকটি মতও উল্লেখ করেন: আয়াতের শেষে এই নামটি রাখা হয়েছে যেন উত্তরটা মুখে জুগিয়ে দেওয়া হয়। অর্থাৎ লোকটি বলবে, আপনার উদারতাই আমাকে ধোঁকা দিয়েছে। আস-সা'দী প্রশ্নটিকে দেখেন এমন এক তিরস্কার হিসেবে, যার ভেতরেই তার জবাব রয়েছে: এই রবের কোনো কিছুই কখনো এমন স্পর্ধার সুযোগ দেয়নি।"
           }
         ]
       },
@@ -53,11 +53,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The name chosen is the point. The verse could have leaned on fear and named a Lord of severity; instead it names the Lord being disregarded by the very attribute that made the disregard comfortable. Al-Karim, the Generous, describes a giving that costs the Giver nothing and asks nothing back. That is exactly the quality that is easiest to mistake for indifference, and the verse puts it where the excuse would go.",
-            "bn": "যে নামটি বেছে নেওয়া হয়েছে, সেটাই মূল কথা। আয়াতটি ভয়ের উপর ভর করে কঠোরতার কোনো নাম উল্লেখ করতে পারত; বরং তা যাঁকে অগ্রাহ্য করা হচ্ছে তাঁকে চিহ্নিত করে ঠিক সেই গুণটি দিয়ে, যে গুণ অগ্রাহ্য করাটাকে আরামদায়ক করে তুলেছিল। আল-কারীম — মহানুভব — এমন এক দান বোঝায় যা দাতার কিছুই খরচ করায় না এবং বিনিময়ে কিছু চায় না। ঠিক এই গুণটিকেই উদাসীনতা বলে ভুল করা সবচেয়ে সহজ, আর আয়াতটি তাকে বসায় সেখানেই যেখানে অজুহাতটি বসত।"
+            "bn": "কোন নামটি বেছে নেওয়া হলো, আসল কথা সেখানেই। আয়াতটি চাইলে ভয় দেখিয়ে কঠোরতার কোনো নাম নিতে পারত। তা না করে যে রবকে অবহেলা করা হচ্ছে, তাঁর পরিচয় দিয়েছে ঠিক সেই গুণ দিয়ে, যে গুণের ভরসায় অবহেলাটা এত আরামের হয়ে উঠেছিল। আল-কারীম, মহানুভব: এমন দান, যাতে দাতার কিছুই খরচ হয় না, আর বিনিময়ে তিনি কিছুই চান না। ঠিক এই গুণকেই উদাসীনতা বলে ভুল করা সবচেয়ে সহজ। আর আয়াতটি সেই গুণকে বসিয়েছে ঠিক সেখানে, যেখানে অজুহাতটা বসার কথা ছিল।"
           },
           {
             "en": "The root is worth following. The superlative form al-Akram, the Most Generous, is used of Allah in 96:3 and nowhere else, in the first passage ever revealed. In 27:40 Sulayman (AS), looking at a throne carried to him in an instant, says that whoever is ungrateful should know that his Lord is Ghaniyy Karim, free of all need and generous. In each case the generosity is stated next to a warning about what people do with it.",
-            "bn": "ধাতুটির পিছু নেওয়া দরকার। অতিশয়ার্থক রূপ আল-আকরাম — সর্বাধিক অনুগ্রহশীল — আল্লাহর জন্য ব্যবহৃত হয়েছে 96:3 আয়াতে এবং আর কোথাও নয়; সেটি সর্বপ্রথম নাযিল হওয়া অংশ। 27:40 আয়াতে সুলাইমান (আঃ) মুহূর্তের মধ্যে তাঁর সামনে এনে রাখা সিংহাসনটির দিকে তাকিয়ে বলেন, যে অকৃতজ্ঞ হয় সে জেনে রাখুক তাঁর প্রতিপালক গানিয়্য ও কারীম — অভাবমুক্ত ও মহানুভব। প্রতিটি ক্ষেত্রেই উদারতার কথা বলা হয়েছে মানুষ তা নিয়ে কী করে সে বিষয়ে এক সতর্কবাণীর পাশে।"
+            "bn": "ধাতুটির পিছু নিলে আরও কিছু পাওয়া যায়। এর অতিশয়বাচক রূপ আল-আকরাম, সবচেয়ে মহানুভব, আল্লাহর ক্ষেত্রে এসেছে শুধু ৯৬:৩ আয়াতে, আর কোথাও নয়। সেটা সবার আগে নাজিল হওয়া অংশেরই আয়াত। ২৭:৪০ আয়াতে সুলাইমান (আঃ) চোখের পলকে তাঁর সামনে এনে রাখা সিংহাসনের দিকে তাকিয়ে বলেন, কেউ অকৃতজ্ঞ হলে সে জেনে রাখুক, তাঁর রব গানিয়্যুন কারীম: কারও মুখাপেক্ষী নন, মহানুভব। দুই জায়গাতেই মহানুভবতার কথার ঠিক পাশে আছে একটি সতর্কবাণী, মানুষ সেই দান নিয়ে কী করে তা নিয়ে।"
           }
         ]
       },
@@ -69,23 +69,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The next two verses answer the question with the reader's own body. 82:7 says He created you, then proportioned you, then balanced you; 82:8 adds that He assembled you in whatever form He willed. The generosity being presumed upon is not an abstraction somewhere. It is the frame the person doing the presuming is standing in. Then 82:9 names the real problem: no, but you deny the Recompense.",
-            "bn": "পরের দুই আয়াত প্রশ্নটির উত্তর দেয় পাঠকের নিজের দেহ দিয়েই। 82:7 আয়াত বলে, তিনি তোমাকে সৃষ্টি করেছেন, তারপর সুঠাম করেছেন, তারপর ভারসাম্যপূর্ণ করেছেন; 82:8 আয়াত যোগ করে, তিনি তোমাকে তাঁর ইচ্ছেমতো আকৃতিতে গঠন করেছেন। যে উদারতার উপর ভরসা করে ধৃষ্টতা দেখানো হচ্ছে, তা দূরের কোনো বিমূর্ত ব্যাপার নয়। তা সেই কাঠামো, যার ভেতরে দাঁড়িয়েই ধৃষ্টতাটি দেখানো হচ্ছে। তারপর 82:9 আয়াত আসল সমস্যাটির নাম বলে: না, বরং তোমরা কর্মফলকে অস্বীকার করে থাক।"
+            "bn": "পরের দুই আয়াত প্রশ্নটির জবাব দেয় পাঠকের নিজের দেহ দিয়েই। ৮২:৭ বলে, তিনি তোমাকে সৃষ্টি করেছেন, তারপর সুঠাম করেছেন, তারপর সুষম করেছেন। ৮২:৮ যোগ করে, যে আকৃতিতে চেয়েছেন, সেই আকৃতিতেই তোমাকে গড়েছেন। যে উদারতার ভরসায় মানুষ স্পর্ধা দেখায়, তা দূরের কোনো ধারণা নয়। যে স্পর্ধা দেখাচ্ছে, সে দাঁড়িয়েই আছে সেই উদারতার গড়া শরীরে। তারপর ৮২:৯ আসল সমস্যার নাম বলে দেয়: কখনো না, বরং তোমরা কর্মফলকে অস্বীকার করো।"
           },
           {
             "en": "And so that generosity is not confused with absence of oversight, 82:10 to 82:12 place keepers over every person — noble, recording, and knowing whatever you do. The surah answers its own question in a straight line: you were made carefully, you are watched constantly, and what you actually did was decide the Reckoning would never arrive.",
-            "bn": "আর উদারতাকে যেন নজরদারির অনুপস্থিতি বলে গুলিয়ে ফেলা না হয়, সে জন্য 82:10 থেকে 82:12 আয়াত প্রত্যেক মানুষের উপর তত্ত্বাবধায়ক নিযুক্ত করে — সম্মানিত, লিপিবদ্ধকারী, আর তোমরা যা করো তা জ্ঞাত। সূরাটি নিজের প্রশ্নের উত্তর দেয় সোজা এক রেখায়: তোমাকে যত্ন করে বানানো হয়েছে, তোমাকে অবিরাম দেখা হচ্ছে, আর তুমি আসলে যা করেছ তা হলো সিদ্ধান্ত নিয়ে বসা যে হিসাবের দিনটি কখনো আসবেই না।"
+            "bn": "উদারতাকে কেউ যেন নজরদারি না থাকা বলে ভুল না বোঝে, তাই ৮২:১০ থেকে ৮২:১২ প্রত্যেক মানুষের উপর পাহারাদার নিযুক্ত করে: তাঁরা সম্মানিত, তাঁরা লিখে রাখেন, আর তোমরা যা করো তা তাঁরা জানেন। সূরাটি নিজের প্রশ্নের জবাব দেয় সোজা পথে। তোমাকে যত্ন করে গড়া হয়েছে, তোমাকে সারাক্ষণ দেখা হচ্ছে, আর তুমি আসলে যা করেছ তা হলো, ধরে নিয়েছ হিসাবের দিন কখনো আসবেই না।"
           }
         ]
       },
       {
         "h": {
           "en": "Answering It Yourself",
-          "bn": "নিজেই এর উত্তর দেওয়া"
+          "bn": "উত্তরটা নিজেই দিন"
         },
         "p": [
           {
             "en": "Because the question is left open, its use is diagnostic. Answer it in the first person and name the thing exactly: youth, health, an unbroken run of ease, a delay in consequences long enough to look like permission. Every item on that list is a gift. The deception is not in receiving it; it is in reading a gift as a guarantee, and then reading the Giver's patience as agreement.",
-            "bn": "প্রশ্নটি খোলা রাখা হয়েছে বলেই এর ব্যবহার নিরূপণমূলক। উত্তম পুরুষে এর উত্তর দিন আর জিনিসটির নাম নির্দিষ্ট করে বলুন: যৌবন, সুস্থতা, অবিচ্ছিন্ন স্বাচ্ছন্দ্যের ধারা, কিংবা পরিণতির এমন দীর্ঘ বিলম্ব যা অনুমতির মতো দেখায়। এই তালিকার প্রতিটি জিনিসই এক উপহার। ধোঁকা তা গ্রহণ করায় নয়; ধোঁকা হলো উপহারকে নিশ্চয়তা বলে পড়া, আর তারপর দাতার ধৈর্যকে সম্মতি বলে পড়া।"
+            "bn": "প্রশ্নটা খোলা রাখা হয়েছে বলেই এটা নিজের দোষ ধরার কাজে লাগে। উত্তরটা দিন নিজের মুখে, 'আমাকে ধোঁকা দিয়েছে...' বলে, আর জিনিসটার নাম ঠিক ঠিক বলুন: যৌবন, সুস্থতা, একটানা আরাম-আয়েশ, কিংবা পরিণতি আসতে এত দেরি যে মনে হয় অনুমতিই মিলে গেছে। এই তালিকার প্রতিটি জিনিসই একেকটা দান। ধোঁকা তা পাওয়ায় নয়। ধোঁকা হলো দানকে নিশ্চয়তা ভেবে নেওয়া, তারপর দাতার ধৈর্যকে তাঁর সম্মতি ভেবে নেওয়া।"
           }
         ]
       }
@@ -96,7 +96,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Noble, and Writing",
-          "bn": "সম্মানিত, এবং লেখক"
+          "bn": "সম্মানিত আর লেখক"
         },
         "p": [
           {
@@ -157,7 +157,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The Muyassar goes furthest in wording. The angels write what they were entrusted to count, la yafutuhum min a'malikum wa-asrarikum shay', nothing of your deeds and your secrets escapes them. So the fetched texts give a spread: deeds, in at-Tabari and Ibn Kathir; words and deeds, in al-Baghawi; words, deeds and the acts of the heart, in as-Sa'di; deeds and secrets, in the Muyassar. These may be fuller and shorter ways of saying one thing, but the commentators do not say so, and this article does not choose among them.",
-            "bn": "শব্দের দিক থেকে মুয়াসসার সবচেয়ে দূর পর্যন্ত যায়। ফেরেশতারা লেখেন যা গুনে রাখার দায়িত্ব তাঁদের দেওয়া হয়েছে, লা ইয়াফূতুহুম মিন আমালিকুম ওয়া আসরারিকুম শাই, তোমাদের আমল আর গোপন বিষয়ের কিছুই তাঁদের এড়ায় না। তাহলে হাতে আসা লেখাগুলো একটা বিস্তার দেখায়। তাবারী ও ইবন কাসীরের কাছে আমল। বাগাভীর কাছে কথা ও কাজ। সা'দীর কাছে কথা, কাজ আর অন্তরের কাজ। মুয়াসসারের কাছে আমল ও গোপন বিষয়। হয়তো একই কথার বড় আর ছোট রূপ, কিন্তু তাফসীরকারেরা নিজেরা তা বলেননি। এই লেখাও এদের কোনোটিকে বেছে নিচ্ছে না।"
+            "bn": "শব্দের দিক থেকে মুয়াসসার সবচেয়ে দূর পর্যন্ত যায়। ফেরেশতারা লেখেন যা গুনে রাখার দায়িত্ব তাঁদের দেওয়া হয়েছে, লা ইয়াফূতুহুম মিন আমালিকুম ওয়া আসরারিকুম শাই, তোমাদের আমল আর গোপন বিষয়ের কিছুই তাঁদের এড়ায় না। দেখা যাচ্ছে, হাতে আসা লেখাগুলো কথাটা নানা পরিসরে বলেছে। তাবারী ও ইবন কাসীরের কাছে আমল। বাগাভীর কাছে কথা ও কাজ। সা'দীর কাছে কথা, কাজ আর অন্তরের কাজ। মুয়াসসারের কাছে আমল ও গোপন বিষয়। হয়তো একই কথা কেউ বিস্তারে, কেউ সংক্ষেপে বলেছেন, কিন্তু তাফসীরকারেরা নিজেরা তা বলেননি। এই লেখাও এদের কোনোটিকে বেছে নিচ্ছে না।"
           }
         ]
       },
@@ -177,7 +177,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi also points the reader elsewhere. He notes that in Surah Qaf, on ma yalfizu min qawlin illa ladayhi raqibun 'atid, not a word does he utter but there is a watcher ready beside him, which is 50:18, he has already given a fuller account of this verse's meaning. That verse belongs to Surah Qaf, and this module's reflection on 50:16 has already looked at the watcher it describes. Here it is enough to see that al-Qurtubi treats the verse in Surah Qaf as adding to the explanation of the verse here.",
-            "bn": "কুরতুবী পাঠককে আরেক জায়গার দিকেও ইশারা করেন। তিনি বলেন, সূরা কাফে মা ইয়ালফিযু মিন কাওলিন ইল্লা লাদাইহি রাকীবুন আতীদ, মানুষ যে কথাই উচ্চারণ করে, তার কাছে প্রস্তুত থাকে এক পর্যবেক্ষক, অর্থাৎ ৫০:১৮ আয়াতের আলোচনায় তিনি এ আয়াতের অর্থ আরও বিস্তারে বলে এসেছেন। সে আয়াত সূরা কাফের, আর এই সংকলনে ৫০:১৬ আয়াতের আলোচনায় সেই পর্যবেক্ষকের কথা আগেই এসেছে। এখানে এটুকু দেখাই যথেষ্ট যে কুরতুবী সূরা কাফের আয়াতটিকে এ আয়াতের ব্যাখ্যার বাড়তি অংশ হিসেবে দেখেন।"
+            "bn": "কুরতুবী পাঠককে আরেক জায়গার দিকেও ইশারা করেন। তিনি জানান, এ আয়াতের অর্থ তিনি আরও বিস্তারে বলে এসেছেন সূরা কাফে, মা ইয়ালফিযু মিন কাওলিন ইল্লা লাদাইহি রাকীবুন আতীদ আয়াতের আলোচনায়: মানুষ যে কথাই উচ্চারণ করে, তার কাছে প্রস্তুত থাকে এক পর্যবেক্ষক। এটি ৫০:১৮ আয়াত। এই সংকলনে ৫০:১৬ আয়াতের আলোচনায় সেই পর্যবেক্ষকের কথা আগেই এসেছে। এখানে এটুকু দেখাই যথেষ্ট যে কুরতুবী সূরা কাফের আয়াতটিকে এ আয়াতের ব্যাখ্যার বাড়তি অংশ হিসেবে দেখেন।"
           }
         ]
       },
@@ -249,7 +249,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Yaslawnaha yawma ad-din. The verse is three Arabic words: a verb that carries both its subject and its object, then yawma, the day, then ad-din. It stands between 82:14, which says the fujjar will be in al-Jahim, and 82:16, which says they will not be absent from it. Read alone it is hard to follow, because its pronouns point backwards. At-Tabari fills them in: these fujjar will yasla al-Jahim on the Day of Resurrection. The they is the fujjar, the it is al-Jahim.",
-            "bn": "ইয়াসলাওনাহা ইয়াওমাদ্দীন। আয়াতটি মাত্র তিনটি আরবি শব্দ। প্রথমটি এমন এক ক্রিয়া, যার ভেতরেই কর্তা আর কর্ম দুটোই আছে। তারপর ইয়াওমা, অর্থাৎ দিন। তারপর আদ-দীন। আয়াতটির আগে ৮২:১৪, যেখানে বলা হয়েছে ফুজ্জার থাকবে জাহীমে। পরে ৮২:১৬, যেখানে বলা হয়েছে তারা সেখান থেকে অনুপস্থিত থাকবে না। আলাদা করে পড়লে বোঝা কঠিন, কারণ এর সর্বনামগুলো পেছনের দিকে ইঙ্গিত করে। তাবারী শূন্যস্থান পূরণ করে দেন: এই ফুজ্জার কিয়ামতের দিন জাহীমে ইয়াসলা করবে। 'তারা' মানে ফুজ্জার, আর 'তাতে' মানে জাহীম।"
+            "bn": "ইয়াসলাওনাহা ইয়াওমাদ্দীন। আয়াতটি মাত্র তিনটি আরবি শব্দ। প্রথমটি এমন এক ক্রিয়া, যার ভেতরেই কর্তা আর কর্ম দুটোই আছে। তারপর ইয়াওমা, অর্থাৎ দিন। তারপর আদ-দীন। আয়াতটির আগে ৮২:১৪, যেখানে বলা হয়েছে ফুজ্জার থাকবে জাহীমে। পরে ৮২:১৬, যেখানে বলা হয়েছে তারা সেখান থেকে অনুপস্থিত থাকবে না। আলাদা করে পড়লে বোঝা কঠিন, কারণ এর সর্বনামগুলো পেছনের দিকে ইঙ্গিত করে। তাবারী সর্বনামগুলোর জায়গায় নাম বসিয়ে দেন: এই ফুজ্জার কিয়ামতের দিন জাহীমে ইয়াসলা করবে। 'তারা' মানে ফুজ্জার, আর 'তাতে' মানে জাহীম।"
           },
           {
             "en": "What the verse adds to 82:14 is time. The verse before gave the people and the place; this one gives the day, and the day has a name. The app's English renders the verb as they will enter to burn therein, with the first words in brackets as the translator's supply, while its Bengali renders it simply as they will enter it. Two translations of one verb already lean different ways, and the commentators show why. This article keeps to 82:15; 82:16 and the questions of 82:17 to 82:19 are named only as context.",
@@ -289,11 +289,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di explains yaslawnaha as they are punished by it with the severest punishment. At-Tabari, as noted, does not gloss the verb at all; he restates it with its subject and object named and spends his words on the day. Ibn Kathir's abridged English translates the clause as therein they will enter, and taste its burning flame, holding both the entering and the flame inside one rendering, as the app's English does with its bracketed enter to.",
-            "bn": "সা'দী ইয়াসলাওনাহার ব্যাখ্যা দেন এভাবে: তাতে তাদের সবচেয়ে কঠিন আযাব দেওয়া হবে। আগেই বলা হয়েছে, তাবারী ক্রিয়াটির আলাদা কোনো ব্যাখ্যা দেন না। তিনি কর্তা ও কর্মের নাম বসিয়ে বাক্যটা আবার বলেন, আর তাঁর কথা খরচ করেন দিনটি নিয়ে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ অংশটির অনুবাদ করে এভাবে: তারা তাতে প্রবেশ করবে আর তার জ্বলন্ত শিখার স্বাদ নেবে। প্রবেশ আর শিখা দুটোই সেখানে এক অনুবাদে ধরা। এই অ্যাপের ইংরেজি অনুবাদও বন্ধনীর ভেতরের শব্দ দিয়ে একই কাজ করে।"
+            "bn": "সা'দী ইয়াসলাওনাহার ব্যাখ্যা দেন এভাবে: তাতে তাদের সবচেয়ে কঠিন আযাব দেওয়া হবে। আগেই বলা হয়েছে, তাবারী ক্রিয়াটির আলাদা কোনো ব্যাখ্যা দেন না। তিনি কর্তা ও কর্মের নাম বসিয়ে বাক্যটা আবার বলেন, তাঁর যা বলার, তা দিনটিকে নিয়েই। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ অংশটির অনুবাদ করে এভাবে: তারা তাতে প্রবেশ করবে আর তার জ্বলন্ত শিখার স্বাদ নেবে। প্রবেশ আর শিখা দুটোই সেখানে এক অনুবাদে ধরা। এই অ্যাপের ইংরেজি অনুবাদও বন্ধনীর ভেতরের শব্দ দিয়ে একই কাজ করে।"
           },
           {
             "en": "That gives three emphases from the fetched texts: entering, being reached by flame and heat, and being punished. None of the commentators argues against another here, and none says the others are wrong. They sit side by side, and this article does not choose among them. What they share is that the verb is about the fujjar and al-Jahim, as at-Tabari's restatement makes explicit, and about a day that has not yet come.",
-            "bn": "সংগৃহীত তাফসীরগুলো থেকে তাহলে তিনটি দিক পাওয়া গেল: প্রবেশ, শিখা ও উত্তাপের স্পর্শ, আর আযাব। এখানে কোনো তাফসীরকার অন্যের বিরোধিতা করেননি, কেউ বলেননি অন্যরা ভুল। ব্যাখ্যাগুলো পাশাপাশি আছে, আর এ লেখা তাদের মধ্যে কোনোটিকে বেছে নেয় না। সবগুলোতে যা এক, তা হলো ক্রিয়াটি ফুজ্জার আর জাহীম নিয়ে। তাবারীর পুনর্কথনে তা স্পষ্ট। আর ক্রিয়াটি এমন এক দিনের কথা বলে, যা এখনো আসেনি।"
+            "bn": "সংগৃহীত তাফসীরগুলো থেকে তাহলে তিনটি দিক পাওয়া গেল: প্রবেশ, শিখা ও উত্তাপের স্পর্শ, আর আযাব। এখানে কোনো তাফসীরকার অন্যের বিরোধিতা করেননি, কেউ বলেননি অন্যরা ভুল। ব্যাখ্যাগুলো পাশাপাশি আছে, আর এ লেখা তাদের মধ্যে কোনোটিকে বেছে নেয় না। সবগুলোতে যা এক, তা হলো ক্রিয়াটি ফুজ্জার আর জাহীম নিয়ে। তাবারী বাক্যটি যেভাবে নতুন করে বলেছেন, তাতে এটা স্পষ্ট। আর ক্রিয়াটি এমন এক দিনের কথা বলে, যা এখনো আসেনি।"
           }
         ]
       },
@@ -381,7 +381,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The Muyassar's definition of the fujjar gives the reader something concrete to check. It names two kinds of falling short: in the rights of Allah, and in the rights of His servants. A reader can ask where his prayer, his honesty and his debts stand, and whom he has wronged and not yet made amends to. The verse names a day that has not come. Until it comes, both lists can still be worked on, and that is the mercy inside a warning that is given in advance.",
-            "bn": "মুয়াসসারের দেওয়া ফুজ্জারের সংজ্ঞা পাঠকের হাতে যাচাইয়ের মতো একটা স্পষ্ট মাপকাঠি তুলে দেয়। সেখানে ঘাটতির দুটি ধরন: আল্লাহর হকে, আর তাঁর বান্দাদের হকে। পাঠক নিজেকে জিজ্ঞেস করতে পারেন, তার নামাজ, সততা আর দেনার কী অবস্থা। কার উপর অন্যায় করেছেন, অথচ এখনো তার কাছে মাফ চাননি বা ক্ষতিপূরণ দেননি। আয়াতটি এমন এক দিনের নাম নেয়, যা এখনো আসেনি। যতদিন আসেনি, দুটি তালিকা নিয়েই কাজ করা যায়। আগাম সতর্কবাণীর ভেতরে লুকানো রহমত এটাই।"
+            "bn": "মুয়াসসারের দেওয়া ফুজ্জারের সংজ্ঞা পাঠকের হাতে যাচাইয়ের মতো একটা স্পষ্ট মাপকাঠি তুলে দেয়। সেখানে ঘাটতির দুটি ধরন: আল্লাহর হকে, আর তাঁর বান্দাদের হকে। পাঠক নিজেকে জিজ্ঞেস করতে পারেন, তাঁর নামাজ, সততা আর দেনার কী অবস্থা। কার উপর অন্যায় করেছেন, অথচ এখনো তার কাছে মাফ চাননি বা ক্ষতিপূরণ দেননি। আয়াতটি এমন এক দিনের নাম নেয়, যা এখনো আসেনি। যতদিন আসেনি, দুটি তালিকা নিয়েই কাজ করা যায়। আগাম সতর্কবাণীর ভেতরে লুকানো রহমত এটাই।"
           }
         ]
       }
