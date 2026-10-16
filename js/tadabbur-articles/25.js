@@ -1660,16 +1660,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Close of a Portrait",
-          "bn": "একটি প্রতিকৃতির সমাপ্তি"
+          "bn": "ছবির শেষ আঁচড়"
         },
         "p": [
           {
             "en": "From 25:63 to the end of the surah, the Quran paints the ibad ar-Rahman, the servants of the Most Merciful: they walk on the earth with humility, answer the ignorant with peace, spend their nights in prostration, keep their spending between excess and stinginess, and avoid shirk, murder and zina. This verse is the last item of the portrait, and it is a du'a — as if to say the finishing feature of such people is what they ask for.",
-            "bn": "25:63 থেকে সূরার শেষ পর্যন্ত কুরআন আঁকে 'ইবাদুর রহমান'-দের — পরম দয়াময়ের বান্দাদের — প্রতিকৃতি: তারা যমীনে চলে বিনয়ের সঙ্গে, মূর্খদের জবাব দেয় শান্তির কথায়, রাত কাটায় সিজদায়, খরচ রাখে অপচয় ও কৃপণতার মাঝখানে, আর দূরে থাকে শিরক, হত্যা ও যিনা থেকে। এই আয়াতটি প্রতিকৃতির শেষ উপাদান, এবং এটি একটি দোয়া — যেন বলা হচ্ছে, এমন মানুষদের সমাপনী বৈশিষ্ট্য হলো তারা কী চায়, সেটিই।"
+            "bn": "২৫:৬৩ থেকে সূরার শেষ পর্যন্ত কুরআন 'ইবাদুর রহমান', অর্থাৎ পরম দয়াময়ের বান্দাদের ছবি আঁকে। তারা যমীনে চলে বিনয়ের সঙ্গে, মূর্খরা কথা বলতে এলে শান্তির কথা বলে জবাব দেয়, রাত কাটায় সিজদায়, খরচে অপচয়ও করে না, কৃপণতাও করে না, আর শিরক, হত্যা ও যিনা থেকে দূরে থাকে। এই আয়াতটি সেই ছবির শেষ আঁচড়, আর সেটি একটি দোয়া। যেন বলা হচ্ছে: এমন মানুষদের শেষ পরিচয় হলো, তারা কী চায়।"
           },
           {
             "en": "The placement teaches by sequence. Only after the portrait has covered a person's own humility, worship and restraint does it turn to the household. The servants of the Most Merciful get their own souls in order and then pray for their families — the du'a of this verse presupposes the eleven verses before it. Asking Allah for a righteous home is the overflow of a person working on himself, not a substitute for it.",
-            "bn": "এই অবস্থানটি ক্রম দিয়ে শেখায়। প্রতিকৃতিটি মানুষের নিজের বিনয়, ইবাদত ও সংযম সেরে নেওয়ার পরেই কেবল ঘরের দিকে ফেরে। পরম দয়াময়ের বান্দারা আগে নিজেদের আত্মা গুছিয়ে নেয়, তারপর পরিবারের জন্য দোয়া করে — এই আয়াতের দোয়াটি তার আগের এগারোটি আয়াতকে পূর্বশর্ত ধরে নেয়। নেককার সংসারের জন্য আল্লাহর কাছে চাওয়া হলো নিজেকে গড়ার কাজের উপচে পড়া অংশ — তার বিকল্প নয়।"
+            "bn": "আয়াতটি কোথায় বসেছে, সেখান থেকেই ক্রমের শিক্ষা পাওয়া যায়। মানুষের নিজের বিনয়, ইবাদত ও সংযমের কথা শেষ হওয়ার পরই কেবল ছবিটি ঘরের দিকে ফেরে। পরম দয়াময়ের বান্দারা আগে নিজেকে ঠিক করে, তারপর পরিবারের জন্য দোয়া করে। তাই এই আয়াতের দোয়ার পেছনে আগের এগারোটি আয়াত দাঁড়িয়ে আছে। আল্লাহর কাছে নেককার সংসার চাওয়া আসলে নিজেকে গড়ার চেষ্টা থেকেই উপচে পড়ে; সেই চেষ্টার বদলি নয়।"
           }
         ]
       },
@@ -1681,11 +1681,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Our Lord, grant us from our spouses and our offspring qurrata a'yun — coolness of eyes. In Arabic idiom the cool eye is the settled, delighted eye; the expression names the deepest kind of contentment, the sight that makes the heart stand still with joy. Applied to family, it asks for spouses and children who are a source of rest when seen — and in the mouths of the ibad ar-Rahman, the commentators note, what cools the eye is seeing one's family upon obedience to Allah.",
-            "bn": "হে আমাদের রব, আমাদের স্ত্রীদের ও সন্তানদের থেকে আমাদের দিন 'কুররাতা আইয়ুন' — চোখের শীতলতা। আরবি বাগধারায় শীতল চোখ মানে স্থির, তৃপ্ত চোখ; অভিব্যক্তিটি গভীরতম পরিতৃপ্তির নাম — সেই দৃশ্য, যা দেখে হৃদয় আনন্দে থেমে যায়। পরিবারের ক্ষেত্রে এর অর্থ: এমন জীবনসঙ্গী ও সন্তান চাওয়া, যাদের দেখলেই প্রশান্তি আসে — আর ইবাদুর রহমানদের মুখে, মুফাসসিরগণ লক্ষ করেন, চোখ জুড়ায় নিজের পরিবারকে আল্লাহর আনুগত্যের ওপর দেখে।"
+            "bn": "হে আমাদের রব, আমাদের স্ত্রী ও সন্তানদের মাধ্যমে আমাদের দান করুন 'কুররাতা আইয়ুন', চোখের শীতলতা। আরবি বাগধারায় শীতল চোখ মানে স্থির, খুশিতে ভরা চোখ। কথাটি দিয়ে সবচেয়ে গভীর তৃপ্তিকে বোঝায়: এমন দৃশ্য, যা দেখে আনন্দে হৃদয় থমকে দাঁড়ায়। পরিবারের বেলায় এর মানে এমন জীবনসঙ্গী ও সন্তান চাওয়া, যাদের দিকে তাকালেই মনে শান্তি আসে। আর মুফাসসিরগণ বলেন, ইবাদুর রহমানের মুখে এ দোয়ার অর্থ হলো: নিজের পরিবারকে আল্লাহর আনুগত্যে দেখতে পেলেই তাদের চোখ জুড়ায়।"
           },
           {
             "en": "That reading keeps the prayer from collapsing into mere domestic comfort. Children can cool the eye by achievement, charm or income, and all of that fades or moves away. The coolness this du'a intends survives distance and even death, because it is anchored in where the family stands with Allah. It is the difference between enjoying one's family and being at rest about them.",
-            "bn": "এই পাঠটিই দোয়াটিকে নিছক সাংসারিক আরামে নেমে যাওয়া থেকে বাঁচায়। সন্তান চোখ জুড়াতে পারে কৃতিত্বে, লাবণ্যে বা উপার্জনে — আর এসবই ম্লান হয় বা দূরে সরে যায়। এই দোয়া যে শীতলতা চায় তা দূরত্ব, এমনকি মৃত্যুকেও পার হয়ে টেকে, কারণ তার নোঙর পরিবারটি আল্লাহর কাছে কোথায় দাঁড়িয়ে, সেখানে। পরিবারকে উপভোগ করা আর পরিবার নিয়ে নিশ্চিন্ত থাকা — এ দুয়ের পার্থক্যই এটি।"
+            "bn": "এই ব্যাখ্যার কারণেই দোয়াটি নিছক সংসারের আরাম-আয়েশের চাওয়ায় নেমে আসে না। সন্তান চোখ জুড়াতে পারে সাফল্য দিয়ে, মিষ্টি স্বভাব দিয়ে, রোজগার দিয়ে; কিন্তু এসব একসময় ফিকে হয়ে যায়, নয়তো দূরে সরে যায়। এই দোয়া যে শীতলতা চায়, তা দূরত্বেও টেকে, মৃত্যুতেও ফুরায় না। কারণ তার শিকড় এক জায়গায়: আল্লাহর কাছে পরিবারটি কোথায় দাঁড়িয়ে আছে। পরিবারকে উপভোগ করা আর পরিবার নিয়ে নিশ্চিন্ত থাকা, এ দুয়ের পার্থক্য এখানেই।"
           }
         ]
       },
@@ -1697,43 +1697,43 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second half startles with its ambition: and make us an imam for the muttaqin — a leader, a pattern, for the God-fearing. The commentators pause at the singular imam where a plural might be expected; among the explanations they offer is that the righteous are as one in their way, or that each asks to be an exemplar in his own right. Either way, the servants of the Most Merciful, described eleven verses earlier as walking humbly, here ask to be at the front.",
-            "bn": "দ্বিতীয় অংশটি তার উচ্চাশা দিয়ে চমকে দেয়: আর আমাদের বানান মুত্তাকীদের জন্য 'ইমাম' — আল্লাহভীরুদের নেতা, আদর্শ। যেখানে বহুবচন প্রত্যাশিত সেখানে একবচন 'ইমাম' নিয়ে মুফাসসিরগণ থামেন; তাঁদের দেওয়া ব্যাখ্যার মধ্যে আছে — নেককাররা তাদের পথে যেন একজনই, অথবা প্রত্যেকে নিজ নিজ জায়গায় আদর্শ হতে চায়। যেভাবেই হোক, এগারো আয়াত আগে যাদের পরিচয় ছিল বিনয়ে হাঁটা, সেই পরম দয়াময়ের বান্দারাই এখানে সামনের সারিতে দাঁড়াতে চাইছে।"
+            "bn": "দোয়ার দ্বিতীয় অংশের উচ্চাশা চমকে দেয়: 'আর আমাদের মুত্তাকীদের ইমাম বানান', অর্থাৎ আল্লাহভীরুদের নেতা ও আদর্শ। এখানে বহুবচন আশা করা যেত, অথচ শব্দটি একবচন 'ইমাম'; মুফাসসিরগণ এখানে থেমে ভেবেছেন। তাঁদের ব্যাখ্যার মধ্যে আছে: নেককাররা নিজেদের পথে সবাই মিলে যেন একজন; অথবা প্রত্যেকেই নিজে আদর্শ হতে চায়। যে ব্যাখ্যাই নিন, এগারো আয়াত আগে যাদের পরিচয় ছিল বিনয়ের সঙ্গে হাঁটা, পরম দয়াময়ের সেই বান্দারাই এখানে সামনের সারিতে থাকতে চাইছে।"
           },
           {
             "en": "The two are not in tension, because the leadership requested is of a specific kind: being followed toward Allah. Ambition for wealth or office breeds rivalry; ambition to be an example in taqwa breeds accountability — a person who has asked Allah to make him a model has volunteered to be watched. The du'a also implies wanting others to be righteous, since one cannot be an imam for the muttaqin unless muttaqin exist to follow.",
-            "bn": "দুটির মধ্যে বিরোধ নেই, কারণ যে নেতৃত্ব চাওয়া হচ্ছে তা এক বিশেষ ধরনের: আল্লাহর দিকে অনুসৃত হওয়া। সম্পদ বা পদের উচ্চাশা জন্ম দেয় রেষারেষি; তাকওয়ায় আদর্শ হওয়ার উচ্চাশা জন্ম দেয় জবাবদিহি — যে ব্যক্তি আল্লাহর কাছে নিজেকে আদর্শ বানানোর দোয়া করেছে, সে স্বেচ্ছায় নজরদারিতে থাকতে রাজি হয়েছে। দোয়াটিতে অন্যদের নেককার হওয়ার কামনাও নিহিত, কারণ মুত্তাকী না থাকলে মুত্তাকীদের ইমাম হওয়া যায় না।"
+            "bn": "দুটির মধ্যে কোনো বিরোধ নেই, কারণ এখানে বিশেষ এক ধরনের নেতৃত্ব চাওয়া হচ্ছে: এমন মানুষ হওয়া, যাকে অনুসরণ করে অন্যরা আল্লাহর দিকে যায়। সম্পদ বা পদের উচ্চাশা থেকে জন্মায় রেষারেষি; তাকওয়ায় আদর্শ হওয়ার উচ্চাশা থেকে জন্মায় জবাবদিহি। যে আল্লাহর কাছে নিজেকে আদর্শ বানানোর দোয়া করেছে, সে নিজে থেকেই সবার চোখের সামনে থাকতে রাজি হয়েছে। এ দোয়ায় অন্যদের নেককার হওয়ার কামনাও আছে, কারণ মুত্তাকী না থাকলে মুত্তাকীদের ইমাম হওয়া যায় না।"
           }
         ]
       },
       {
         "h": {
           "en": "A Prayer That Assumes Work",
-          "bn": "যে দোয়া শ্রম ধরে নেয়"
+          "bn": "যে দোয়ার পেছনে মেহনত থাকে"
         },
         "p": [
           {
             "en": "Like all Quranic du'as, this one is the voiced half of an effort. The Quran commands in 66:6 to protect yourselves and your families from a Fire, and in 20:132 to enjoin prayer upon your family and be steadfast therein. A parent who prays this verse at night and neglects those commands by day is asking Allah to harvest a field no one planted. The du'a directs the work as much as it requests the outcome.",
-            "bn": "কুরআনের সব দোয়ার মতো এটিও একটি প্রচেষ্টার উচ্চারিত অর্ধেক। কুরআন 66:6 আয়াতে আদেশ করে — নিজেদের ও নিজেদের পরিবারকে আগুন থেকে বাঁচাও; আর 20:132 আয়াতে — তোমার পরিবারকে নামাযের আদেশ দাও এবং তাতে অবিচল থাকো। যে অভিভাবক রাতে এই আয়াত পড়ে দোয়া করে অথচ দিনে ওই আদেশগুলো অবহেলা করে, সে আল্লাহর কাছে এমন খেতের ফসল চাইছে যেখানে কেউ বীজই বোনেনি। দোয়াটি ফল যেমন চায়, তেমনি কাজের দিকও দেখিয়ে দেয়।"
+            "bn": "কুরআনের সব দোয়ার মতো এটিও একটি চেষ্টার মুখে বলা অর্ধেক। কুরআন ৬৬:৬ আয়াতে আদেশ করে: নিজেদের ও নিজেদের পরিবারকে আগুন থেকে বাঁচাও; আর ২০:১৩২ আয়াতে বলে: তোমার পরিবারকে নামাজের আদেশ দাও এবং তাতে অবিচল থাকো। যে বাবা-মা রাতে এই আয়াত পড়ে দোয়া করেন অথচ দিনে ওই আদেশগুলো অবহেলা করেন, তাঁরা আল্লাহর কাছে এমন খেতের ফসল চাইছেন, যেখানে কেউ বীজই বোনেনি। দোয়াটি যেমন ফল চায়, তেমনি কাজের পথও দেখিয়ে দেয়।"
           },
           {
             "en": "There is also mercy in the fact that this is a du'a at all. Righteous children cannot be manufactured by parenting technique; hearts are in Allah's hand, and the prophets themselves show the limits — Nuh (AS) lost a son, as 11:42-46 recounts, while Ibrahim (AS) prayed in 37:100 for a righteous child and was granted one. The verse teaches the posture that fits such uncertainty: full effort, and the outcome asked from its true Owner.",
-            "bn": "এটি যে আদৌ একটি দোয়া, তার মধ্যেও রহমত আছে। নেককার সন্তান লালনপালনের কৌশলে বানানো যায় না; হৃদয় আল্লাহর হাতে, আর নবীরাই (আঃ) সীমাটা দেখিয়ে গেছেন — নূহ (আঃ) এক পুত্রকে হারিয়েছেন, যেমন 11:42-46 বর্ণনা করে; আর ইবরাহীম (আঃ) 37:100 আয়াতে নেক সন্তানের দোয়া করেছেন এবং পেয়েছেন। আয়াতটি শেখায় এমন অনিশ্চয়তার উপযুক্ত ভঙ্গিটি: পূর্ণ চেষ্টা, আর ফলাফল চাওয়া তার প্রকৃত মালিকের কাছে।"
+            "bn": "এটি যে দোয়া হিসেবেই এসেছে, তাতেও রহমত আছে। লালনপালনের কৌশল খাটিয়ে নেককার সন্তান বানানো যায় না; অন্তর আল্লাহর হাতে। নবীরাই (আঃ) এর সীমা দেখিয়ে গেছেন: ১১:৪২-৪৬ জানায়, নূহ (আঃ) এক ছেলেকে হারিয়েছেন; আর ইবরাহীম (আঃ) ৩৭:১০০ আয়াতে নেক সন্তানের জন্য দোয়া করেছেন এবং তা পেয়েছেন। এমন অনিশ্চয়তায় কোন ভঙ্গি মানায়, আয়াতটি তা শেখায়: পুরো চেষ্টা করা, আর ফল চাওয়া তার আসল মালিকের কাছে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Reward Named Next",
-          "bn": "পরেই যে পুরস্কারের নাম"
+          "bn": "পরের আয়াতেই পুরস্কার"
         },
         "p": [
           {
             "en": "The passage does not leave the portrait unrewarded. The very next verse, 25:75, says: those will be rewarded with the highest chamber for their patience, and will be met there with greeting and peace. The mention of patience as the price is telling — everything in the portrait, from answering the ignorant gently to raising a family toward Allah, runs on sabr. Building a household that cools the eyes is slow work measured in years, and the Quran files it under patience, not luck.",
-            "bn": "অনুচ্ছেদটি প্রতিকৃতিকে পুরস্কারহীন রাখে না। ঠিক পরের আয়াত, 25:75, বলে: তাদের ধৈর্যের প্রতিদানে তাদের দেওয়া হবে সুউচ্চ কক্ষ, আর সেখানে তাদের বরণ করা হবে অভিবাদন ও সালামে। মূল্য হিসেবে ধৈর্যের উল্লেখটি অর্থবহ — প্রতিকৃতির সবকিছুই, মূর্খকে নম্র জবাব দেওয়া থেকে পরিবারকে আল্লাহর দিকে গড়ে তোলা পর্যন্ত, চলে সবরের ওপর। চোখ-জুড়ানো সংসার গড়া বছরের হিসাবে মাপা ধীর কাজ; কুরআন একে রাখে ধৈর্যের খাতায় — ভাগ্যের খাতায় নয়।"
+            "bn": "ছবিটি পুরস্কার ছাড়া শেষ হয় না। ঠিক পরের আয়াত ২৫:৭৫ বলে: ধৈর্যের প্রতিদানে তাদের দেওয়া হবে সুউচ্চ কক্ষ, আর সেখানে তাদের বরণ করা হবে অভিবাদন ও সালাম দিয়ে। মূল্য হিসেবে ধৈর্যের কথা আসাটা অর্থবহ। মূর্খকে নরম জবাব দেওয়া থেকে শুরু করে পরিবারকে আল্লাহর পথে গড়ে তোলা পর্যন্ত, ছবির সবকিছুই চলে সবরের জোরে। চোখ-জুড়ানো সংসার গড়া ধীর কাজ, তার হিসাব হয় বছরে। কুরআন একে ধৈর্যের খাতায় লেখে, ভাগ্যের খাতায় নয়।"
           },
           {
             "en": "To live the verse, say it — it is one of the Quran's given prayers, ready for daily use — and then be its first answer. The house moves toward what its members model, rarely toward what they merely announce. A parent praying for children who love prayer while the children watch him rush his own has set the du'a against his example; aligning the two is how the servants of the Most Merciful ask.",
-            "bn": "আয়াতটি যাপন করতে হলে এটি পড়ুন — এটি কুরআনের দেওয়া দোয়াগুলোর একটি, প্রতিদিন ব্যবহারের জন্য প্রস্তুত — তারপর নিজেই এর প্রথম উত্তর হয়ে উঠুন। সংসার এগোয় তার সদস্যরা যা করে দেখায় সেদিকে; যা কেবল মুখে ঘোষণা করে, সেদিকে কদাচিৎ। যে অভিভাবক নামায-ভালোবাসা সন্তানের জন্য দোয়া করে অথচ সন্তানরা দেখে সে নিজের নামায তাড়াহুড়ায় সারে, সে দোয়াটিকে নিজের দৃষ্টান্তের বিপক্ষে দাঁড় করিয়েছে; দুটিকে এক রেখায় আনাই পরম দয়াময়ের বান্দাদের চাওয়ার ধরন।"
+            "bn": "আয়াতটি জীবনে আনতে চাইলে এটি পড়ুন। কুরআন নিজেই এ দোয়া শিখিয়ে দিয়েছে, প্রতিদিন পড়ার জন্য একেবারে তৈরি। তারপর নিজেই হয়ে উঠুন এর প্রথম জবাব। ঘরের মানুষেরা যা করে দেখায়, সংসার সেদিকেই এগোয়; শুধু মুখে যা বলে, সেদিকে খুব কমই যায়। যে অভিভাবক নামাজ-ভালোবাসা সন্তানের জন্য দোয়া করেন, অথচ সন্তানরা দেখে তিনি নিজের নামাজ তাড়াহুড়া করে সারেন, তিনি নিজের দোয়াকে নিজের আদর্শের বিরুদ্ধে দাঁড় করিয়েছেন। দুটিকে মিলিয়ে নেওয়াই পরম দয়াময়ের বান্দাদের চাওয়ার ধরন।"
           }
         ]
       }
@@ -1749,11 +1749,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Furqan has seventy-seven verses, so this is the last of them. The surah opened by blessing the One who sent down the Criterion upon His servant to be a warner to the worlds, and it spent much of its length quoting what the deniers of Makkah said about that servant. It ends by telling him what to say back, and the sentence he is given is a question about their worth.",
-            "bn": "সূরা আল-ফুরকানে আয়াত সংখ্যা সাতাত্তর, তাই এটিই তার শেষ আয়াত। সূরাটি শুরু হয়েছিল তাঁর প্রশংসা দিয়ে যিনি তাঁর বান্দার ওপর ফুরকান নাযিল করেছেন, যেন তিনি বিশ্ববাসীর জন্য সতর্ককারী হন; আর সূরাটির বড় একটি অংশ জুড়ে মক্কার অস্বীকারকারীরা সেই বান্দা সম্পর্কে যা বলত তা উদ্ধৃত হয়েছে। সূরাটি শেষ হয় তাঁকে জবাবে কী বলতে হবে তা জানিয়ে, আর তাঁকে যে বাক্যটি দেওয়া হয় তা তাদের মূল্য নিয়ে একটি প্রশ্ন।"
+            "bn": "সূরা আল-ফুরকানের আয়াত সাতাত্তরটি, তাই এটিই শেষ আয়াত। সূরাটি শুরু হয়েছিল এই ঘোষণা দিয়ে: বরকতময় তিনি, যিনি তাঁর বান্দার ওপর ফুরকান নাজিল করেছেন, যাতে তিনি বিশ্ববাসীর জন্য সতর্ককারী হন। এরপর সূরার বড় একটা অংশ জুড়ে আছে মক্কার অস্বীকারকারীরা সেই বান্দা সম্পর্কে কী কী বলত, তার উদ্ধৃতি। শেষে সূরাটি তাঁকে জানিয়ে দেয় জবাবে কী বলতে হবে; আর যে বাক্যটি তাঁকে দেওয়া হয়, সেটি ওদের মূল্য নিয়েই একটি প্রশ্ন।"
           },
           {
             "en": "The word qul, say, matters for reading the verse correctly. The address is to those who deny — the second half makes that explicit by turning to them and saying they have denied. A believer is not the person being spoken to here. He overhears the standard being applied to someone else, and then has to work out where it leaves him.",
-            "bn": "'কুল' অর্থাৎ 'বল' শব্দটি আয়াতটি ঠিকভাবে পড়ার জন্য গুরুত্বপূর্ণ। সম্বোধন করা হচ্ছে অস্বীকারকারীদের — দ্বিতীয় অংশ তা স্পষ্ট করে দেয়, তাদের দিকে ফিরে বলে যে তারা মিথ্যা প্রতিপন্ন করেছে। এখানে যাদের সাথে কথা বলা হচ্ছে মুমিন তাদের একজন নয়। সে শুনতে পায় যে মানদণ্ডটি অন্য কারও ওপর প্রয়োগ করা হচ্ছে, আর তারপর তাকেই হিসাব করতে হয় সেই মানদণ্ডে সে কোথায় দাঁড়ায়।"
+            "bn": "আয়াতটি ঠিকভাবে বুঝতে 'কুল' অর্থাৎ 'বল' শব্দটি গুরুত্বপূর্ণ। কথা বলা হচ্ছে অস্বীকারকারীদের সঙ্গে; আয়াতের দ্বিতীয় অংশ সরাসরি তাদের দিকে ফিরে 'তোমরা মিথ্যা প্রতিপন্ন করেছ' বলে বিষয়টি স্পষ্ট করে দেয়। মুমিনকে এখানে সম্বোধন করা হচ্ছে না। সে পাশ থেকে শোনে, মানদণ্ডটি অন্য কারও ওপর খাটানো হচ্ছে; তারপর তাকে নিজেকেই হিসাব করতে হয়, সেই মানদণ্ডে সে কোথায় দাঁড়ায়।"
           }
         ]
       },
@@ -1765,7 +1765,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verb is 'aba'a, and it is stronger than the English word care suggests. To 'aba'a bi-something is to reckon it as having weight, to count it as of any account at all. So the question is not whether Allah feels affection for them; it is whether they register on the scale at all. The app's rendering, what would my Lord care for you if not for your supplication, is asking what you would amount to.",
-            "bn": "ক্রিয়াপদটি হলো 'আবা'আ', আর ইংরেজি 'care' শব্দটি যা বোঝায় এটি তার চেয়ে জোরালো। কোনো কিছুর ব্যাপারে 'আবা'আ' করা মানে তাকে ওজনসম্পন্ন গণ্য করা, তাকে আদৌ ধর্তব্যের মধ্যে ধরা। তাই প্রশ্নটি এই নয় যে আল্লাহ তাদের প্রতি স্নেহ বোধ করেন কি না; প্রশ্ন হলো তারা আদৌ পাল্লায় ধরা পড়ে কি না। অ্যাপের অনুবাদে 'তোমাদের ব্যাপারে আমার প্রতিপালকের কী প্রয়োজন পড়েছে তোমরা যদি তাঁকে না ডাকো' — এই প্রশ্নটিই জিজ্ঞেস করছে, তোমাদের মূল্য তবে কত।"
+            "bn": "ক্রিয়াটি হলো 'আবা'আ', আর সাধারণ 'পরোয়া করা' কথাটির চেয়ে এর জোর অনেক বেশি। কোনো কিছু নিয়ে 'আবা'আ' করা মানে সেটিকে ওজনদার মনে করা, আদৌ গোনার মধ্যে ধরা। তাই প্রশ্নটা এই নয় যে আল্লাহ তাদের প্রতি মমতা বোধ করেন কি না; প্রশ্ন হলো, পাল্লায় তাদের আদৌ কোনো ওজন ওঠে কি না। অ্যাপের অনুবাদ, 'তোমাদের ব্যাপারে আমার প্রতিপালকের কী প্রয়োজন পড়েছে তোমরা যদি তাঁকে না ডাকো', আসলে এটাই জানতে চাইছে: তাহলে তোমাদের দাম কতটুকু?"
           }
         ]
       },
@@ -1777,11 +1777,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Lawla du'a'ukum, were it not for your du'a. The commentators record more than one direction for the phrase. Taken as your calling upon Him, several of the early authorities gloss it as your faith itself, since calling on Allah is what faith does. Taken the other way round, with the pronoun as the object rather than the doer, it reads as His calling you — the invitation delivered through the Messenger, without which there would have been no case to answer.",
-            "bn": "'লাওলা দু'আউকুম' — তোমাদের দোয়া না থাকলে। মুফাসসিরগণ এই বাক্যাংশটির একাধিক দিক বর্ণনা করেন। যদি এর অর্থ হয় 'তোমাদের তাঁকে ডাকা', তবে পূর্ববর্তী মনীষীদের কয়েকজন এর ব্যাখ্যা করেছেন 'তোমাদের ঈমান' হিসেবে, কারণ আল্লাহকে ডাকাই তো ঈমানের কাজ। উল্টো দিক থেকে পড়লে, যেখানে সর্বনামটি কর্তা নয় বরং কর্ম, তখন অর্থ দাঁড়ায় 'তাঁর তোমাদের ডাকা' — রাসূলের মাধ্যমে পৌঁছানো সেই আহ্বান, যা না থাকলে জবাবদিহির প্রশ্নই উঠত না।"
+            "bn": "'লাওলা দু'আউকুম', তোমাদের দোয়া না থাকলে। মুফাসসিরগণ এই বাক্যাংশের একাধিক অর্থ উল্লেখ করেছেন। একে যদি 'তোমাদের তাঁকে ডাকা' ধরা হয়, তবে প্রথম যুগের কয়েকজন আলিম এর ব্যাখ্যা করেছেন 'তোমাদের ঈমান', কারণ আল্লাহকে ডাকাই তো ঈমানের কাজ। উল্টো দিক থেকে পড়লে সর্বনামটি কর্তা না হয়ে কর্ম হয়; তখন অর্থ দাঁড়ায় 'তোমাদের প্রতি তাঁর ডাক', অর্থাৎ রাসূলের মাধ্যমে আসা সেই দাওয়াত। সেই ডাক না এলে জবাবদিহির প্রশ্নই উঠত না।"
           },
           {
             "en": "Scholars also distinguish two senses of du'a that both apply. Du'a al-mas'alah is asking: give me, forgive me, protect me. Du'a al-'ibadah is worship itself, since every prayer, fast and act of obedience is a way of saying that He is the one worth turning to. Read with the second sense in view, this verse is not making a case for one devotional habit. It is saying that turning to Allah is the whole of what a human being is for.",
-            "bn": "আলিমগণ দোয়ার দুটি অর্থও আলাদা করেন, আর দুটিই এখানে খাটে। 'দোয়া আল-মাসআলাহ' মানে চাওয়া: আমাকে দাও, আমাকে ক্ষমা করো, আমাকে রক্ষা করো। 'দোয়া আল-ইবাদাহ' মানে ইবাদত নিজেই, কারণ প্রতিটি নামায, প্রতিটি রোযা ও প্রতিটি আনুগত্য এই কথাই বলার একটি উপায় যে ফেরার মতো একমাত্র সত্তা তিনিই। দ্বিতীয় অর্থটি সামনে রেখে পড়লে এই আয়াতটি কোনো একটি ইবাদতের অভ্যাসের পক্ষে যুক্তি দিচ্ছে না। এটি বলছে, আল্লাহর দিকে ফেরাই মানুষের অস্তিত্বের পুরো উদ্দেশ্য।"
+            "bn": "আলিমগণ দোয়ার দুটি অর্থ আলাদা করেন, আর এখানে দুটিই খাটে। 'দোয়া আল-মাসআলাহ' মানে চাওয়া: আমাকে দিন, আমাকে ক্ষমা করুন, আমাকে রক্ষা করুন। 'দোয়া আল-ইবাদাহ' মানে খোদ ইবাদত, কারণ প্রতিটি নামাজ, প্রতিটি রোজা, আনুগত্যের প্রতিটি কাজ দিয়ে বান্দা এ কথাই বলে যে ফেরার মতো একমাত্র তিনিই আছেন। দ্বিতীয় অর্থটি মাথায় রেখে পড়লে বোঝা যায়, আয়াতটি কোনো একটি ইবাদতের অভ্যাসের পক্ষে কথা বলছে না। আয়াত বলছে: আল্লাহর দিকে ফেরাই মানুষের জীবনের পুরো উদ্দেশ্য।"
           }
         ]
       },
@@ -1793,7 +1793,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Faqad kadhdhabtum fasawfa yakunu lizama — you have denied, so it will be lizam. The word comes from luzum, sticking fast, and describes a punishment that attaches and does not let go. Al-Bukhari records in his book of tafsir that Ibn Mas'ud (RA) counted al-lizam among the signs that had already come to pass; the wider reading among the commentators takes it as a consequence that clings to the denier in this world and the next.",
-            "bn": "'ফাকাদ কায্‌যাবতুম ফাসাওফা ইয়াকূনু লিযামা' — তোমরা মিথ্যা প্রতিপন্ন করেছ, কাজেই তা হবে লিযাম। শব্দটি এসেছে 'লুযূম' থেকে, যার অর্থ আঁকড়ে ধরা, আর এটি এমন শাস্তির বর্ণনা যা লেগে থাকে এবং ছাড়ে না। ইমাম বুখারী তাঁর তাফসীরের কিতাবে উল্লেখ করেন যে ইবনে মাসঊদ (রাঃ) 'আল-লিযাম'-কে সেই নিদর্শনগুলোর মধ্যে গণনা করেছেন যেগুলো ইতিমধ্যে ঘটে গেছে; মুফাসসিরগণের ব্যাপকতর পাঠ একে এমন পরিণতি হিসেবে নেয় যা দুনিয়া ও আখিরাতে অস্বীকারকারীকে আঁকড়ে থাকে।"
+            "bn": "'ফাকাদ কায্‌যাবতুম ফাসাওফা ইয়াকূনু লিযামা': তোমরা মিথ্যা প্রতিপন্ন করেছ, কাজেই তা হবে 'লিযাম'। শব্দটি এসেছে 'লুযূম' থেকে, যার অর্থ শক্ত করে লেগে থাকা। এটি এমন শাস্তি বোঝায়, যা একবার লেগে গেলে আর ছাড়ে না। ইমাম বুখারী তাঁর তাফসীর অধ্যায়ে বর্ণনা করেছেন, ইবনে মাসঊদ (রাঃ) 'আল-লিযাম'-কে সেই নিদর্শনগুলোর মধ্যে গুনেছেন, যেগুলো আগেই ঘটে গেছে। তবে মুফাসসিরগণ সাধারণত একে আরও ব্যাপক অর্থে নেন: এমন পরিণতি, যা দুনিয়ায় ও আখিরাতে অস্বীকারকারীর পিছু ছাড়ে না।"
           }
         ]
       },
@@ -1805,23 +1805,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "If a person has no weight with Allah without calling on Him, then calling on Him is where weight comes from. That is the believer's share of this verse, and the Quran states it elsewhere directly. In 40:60 Allah says call upon Me, I will respond to you, and immediately warns that those too proud for His worship will enter Hell contemptible — so du'a is set against arrogance, exactly the posture the deniers of al-Furqan had taken.",
-            "bn": "কেউ যদি আল্লাহকে না ডাকলে তাঁর কাছে কোনো ওজনই না রাখে, তবে ওজন আসে ডাকা থেকেই। এটিই এই আয়াতে মুমিনের অংশ, আর কুরআন অন্যত্র কথাটি সরাসরিই বলে। 40:60 আয়াতে আল্লাহ বলেন, তোমরা আমাকে ডাকো, আমি সাড়া দেব; আর সাথে সাথেই সতর্ক করেন যে যারা অহংকারবশত তাঁর ইবাদত থেকে বিমুখ, তারা লাঞ্ছিত হয়ে জাহান্নামে প্রবেশ করবে — অর্থাৎ দোয়াকে অহংকারের বিপরীতে দাঁড় করানো হয়েছে, আর সেই অহংকারই ছিল আল-ফুরকানের অস্বীকারকারীদের ভঙ্গি।"
+            "bn": "আল্লাহকে না ডাকলে যদি তাঁর কাছে মানুষের কোনো ওজনই না থাকে, তবে ওজন আসে তাঁকে ডাকা থেকেই। এই আয়াতে মুমিনের ভাগ এটিই, আর কুরআন অন্য জায়গায় কথাটি সরাসরি বলেছে। ৪০:৬০ আয়াতে আল্লাহ বলেন, তোমরা আমাকে ডাকো, আমি সাড়া দেব; আর সাথে সাথেই সতর্ক করেন, যারা অহংকার করে তাঁর ইবাদত থেকে মুখ ফিরিয়ে নেয়, তারা লাঞ্ছিত হয়ে জাহান্নামে ঢুকবে। অর্থাৎ কুরআন দোয়াকে দাঁড় করায় অহংকারের ঠিক বিপরীতে; আর আল-ফুরকানের অস্বীকারকারীরা ঠিক এই অহংকারের অবস্থানই নিয়েছিল।"
           },
           {
             "en": "2:186 supplies the other half. There Allah answers a question about Himself by saying He is near, that He responds to the call of the caller when he calls, and then asks for response and belief in return. Between the two verses du'a stops looking like a request form and starts looking like the relationship itself: He is near, He answers, and asking is how a servant admits both.",
-            "bn": "2:186 আয়াত বাকি অর্ধেকটা জোগায়। সেখানে আল্লাহ নিজের সম্পর্কে করা এক প্রশ্নের জবাবে বলেন যে তিনি নিকটেই, আহ্বানকারী ডাকলে তিনি তার ডাকে সাড়া দেন, আর তারপর বিনিময়ে চান সাড়া দেওয়া ও ঈমান। দুটি আয়াত মিলিয়ে পড়লে দোয়া আর আবেদনপত্রের মতো দেখায় না, বরং সম্পর্কটিই হয়ে ওঠে: তিনি নিকটে, তিনি সাড়া দেন, আর চাওয়াই হলো বান্দার এই দুটিকে স্বীকার করে নেওয়ার উপায়।"
+            "bn": "বাকি অর্ধেকটা আছে ২:১৮৬ আয়াতে। সেখানে আল্লাহ নিজের সম্পর্কে এক প্রশ্নের জবাবে বলেন, তিনি কাছেই আছেন; কেউ ডাকলে তিনি তার ডাকে সাড়া দেন। তারপর বিনিময়ে চান, বান্দারাও যেন তাঁর ডাকে সাড়া দেয় ও ঈমান আনে। দুটি আয়াত পাশাপাশি রাখলে দোয়াকে আর আবেদনপত্রের মতো মনে হয় না; মনে হয় দোয়াই সেই সম্পর্ক। তিনি কাছে আছেন, তিনি সাড়া দেন, আর চাওয়ার মধ্য দিয়েই বান্দা এ দুটি সত্য মেনে নেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Asking About Small Things",
-          "bn": "ছোট জিনিস নিয়ে চাওয়া"
+          "bn": "ছোট ছোট বিষয়েও চাওয়া"
         },
         "p": [
           {
             "en": "The practical consequence is a change in threshold rather than in volume. Most people already call on Allah when something large breaks. What this verse suggests is that the small requests matter more than they look, because each one is an admission of need, and need is the only standing a servant has. Ask about the errand, the conversation you are dreading, the thing you could probably manage alone. Managing alone was never the point.",
-            "bn": "এর ব্যবহারিক ফল হলো পরিমাণ নয়, বরং সীমারেখা বদলে যাওয়া। বড় কিছু ভেঙে পড়লে বেশির ভাগ মানুষ এমনিতেই আল্লাহকে ডাকে। এই আয়াত যা ইঙ্গিত করে তা হলো, ছোট চাওয়াগুলো দেখতে যতটা তুচ্ছ ততটা নয়, কারণ প্রতিটি চাওয়াই মুখাপেক্ষিতার স্বীকারোক্তি, আর মুখাপেক্ষিতাই বান্দার একমাত্র মর্যাদা। কাজটির জন্য চান, যে কথোপকথনটি নিয়ে আপনি শঙ্কিত তার জন্য চান, যেটি হয়তো একাই সামলে নিতে পারতেন তার জন্যও চান। একা সামলে নেওয়া কখনোই উদ্দেশ্য ছিল না।"
+            "bn": "এর বাস্তব ফল হলো: কতবার চাইছেন সেটা নয়, কত ছোট বিষয়েও চাইছেন, সেটাই বদলায়। বড় কিছু ভেঙে পড়লে বেশির ভাগ মানুষ এমনিতেই আল্লাহকে ডাকে। এই আয়াতের ইঙ্গিত হলো, ছোট চাওয়াগুলো দেখতে যতটা তুচ্ছ, আসলে ততটা নয়। কারণ প্রতিটি চাওয়াই নিজের মুখাপেক্ষিতার স্বীকারোক্তি, আর এই মুখাপেক্ষিতাই আল্লাহর সামনে বান্দার একমাত্র অবস্থান। দৈনন্দিন ছোট কাজটির জন্য চান; যে আলাপটা নিয়ে আপনি ভয়ে আছেন, তার জন্য চান; যেটা হয়তো একাই সামলে নিতে পারতেন, তার জন্যও চান। একা সামলে নেওয়া কখনোই আসল কথা ছিল না।"
           }
         ]
       }
