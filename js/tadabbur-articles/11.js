@@ -2709,7 +2709,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What follows is still the summing up, not a fresh story. 11:101 lays the cause where it belongs: they were not wronged but wronged themselves, and the gods they called on availed them nothing when the command of the Lord came. 11:102 makes it a rule: the seizure of a town while it is doing wrong. 11:103 makes the stretch a sign for whoever fears the punishment of the Hereafter. The verse is a hinge, ruined peoples behind it and the verdict in front.",
-            "bn": "এরপর যা আসে তা নতুন কোনো কাহিনি নয়, হিসাব মেলানোই চলতে থাকে। ১১:১০১ আয়াত দোষটা ঠিক জায়গায় বসিয়ে দেয়, তাদের উপর যুলম করা হয়নি, তারাই নিজেদের উপর যুলম করেছিল, আর প্রতিপালকের হুকুম এসে গেলে তারা যেসব ইলাহকে ডাকত সেগুলো কোনো কাজে আসেনি। ১১:১০২ আয়াত একে নিয়মে পরিণত করে, যুলমে ডুবে থাকা জনপদকে পাকড়াও করার নিয়ম। ১১:১০৩ আয়াত পুরো অংশটাকে নিদর্শন বানিয়ে দেয় তার জন্য যে আখিরাতের শাস্তিকে ভয় করে। আয়াতটি কব্জার মতো, পিছনে ধ্বংস হওয়া জাতিগুলো আর সামনে রায়।"
+            "bn": "এরপর যা আসে তা নতুন কোনো কাহিনি নয়, হিসাব মেলানোই চলতে থাকে। ১১:১০১ আয়াত দোষটা ঠিক জায়গায় রাখে: তাদের উপর জুলুম করা হয়নি, তারাই নিজেদের উপর জুলুম করেছিল, আর প্রতিপালকের হুকুম যখন এল, যেসব ইলাহকে তারা ডাকত সেগুলো কোনো কাজে আসেনি। ১১:১০২ আয়াত একে নিয়ম বানিয়ে দেয়: জুলুমে ডুবে থাকা জনপদকে এভাবেই পাকড়াও করা হয়। ১১:১০৩ আয়াত পুরো অংশটাকে নিদর্শন বানায় তার জন্য, যে আখিরাতের শাস্তিকে ভয় করে। আয়াতটি যেন দরজার কব্জা: পেছনে ধ্বংস হওয়া জাতিগুলো, সামনে রায়।"
           }
         ]
       },
@@ -2721,7 +2721,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is nine Arabic words, with a recitation pause marked after the sixth. Dhalika min anba'i al-qura naqussuhu alayka: that is from the news of the towns, We relate it to you. Then minha qa'imun wa hasid: of them standing, and mown. Al-Qurtubi parses the opening dhalika in the nominative, either as predicate of a suppressed subject, al-amru dhalika, the matter is that, or as the subject itself; either way the report just given is from the news of the towns.",
-            "bn": "আয়াতটি ৯টি আরবি শব্দের, ষষ্ঠ শব্দের পরে তিলাওয়াতের বিরতিচিহ্ন বসানো। যালিকা মিন আম্বাইল কুরা নাকুস্সুহু আলাইকা, অর্থাৎ এ হল জনপদগুলোর খবর, যা আমি তোমাকে শোনাচ্ছি। এরপর মিনহা কায়িমুন ওয়া হাসীদ, কতক দাঁড়িয়ে আছে আর কতক কাটা। কুরতুবী শুরুর যালিকা শব্দটিকে পড়েন ঊর্ধ্বরেখ অবস্থায়, হয় উহ্য কর্তার খবর হিসেবে, আল-আমরু যালিকা, ব্যাপারটা এই, নয়তো নিজেই কর্তা হিসেবে। অর্থ দুই পাঠেই এক, এতক্ষণ যা বলা হল তা জনপদগুলোর খবরেরই অংশ।"
+            "bn": "আয়াতটিতে আরবি শব্দ ৯টি, আর ষষ্ঠ শব্দের পরে তিলাওয়াতের থামার চিহ্ন আছে। যালিকা মিন আম্বাইল কুরা নাকুস্সুহু আলাইকা, অর্থাৎ এ হল জনপদগুলোর খবর, যা আমি তোমাকে শোনাচ্ছি। এরপর মিনহা কায়িমুন ওয়া হাসীদ, কতক দাঁড়িয়ে আছে আর কতক কাটা। কুরতুবী শুরুর যালিকা শব্দটিকে পেশযুক্ত (রফা) ধরে পড়েন। হয় এটি উহ্য উদ্দেশ্যের বিধেয়, যেন বলা হয়েছে আল-আমরু যালিকা, ব্যাপারটা এই; নয়তো এটি নিজেই উদ্দেশ্য। যেভাবেই পড়া হোক, এতক্ষণ যা বলা হল তা জনপদগুলোর খবরেরই অংশ।"
           },
           {
             "en": "Naqussuhu is the present tense of the verb of narration, and at-Tabari glosses it plainly with fa-nukhbiruka bihi, so We inform you of it, just as he glosses anba' with akhbar, reports. The tense matters. The relating is happening while the verse speaks, not finished and filed. And alayka, upon you, is addressed to one man. The news is laid on the Prophet ﷺ first, as a weight given to him to carry, and the believers hear it over his shoulder.",
@@ -2761,11 +2761,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Hasid is where the image is decided. At-Tabari derives it from the way Arabs say zar' hasid, a crop, when it has been cut clean away at the root; the word is really mahsud, the thing reaped, but it has been turned onto the fa'il pattern. Al-Akhfash Sa'id, whom al-Qurtubi quotes, says the same: hasid means mahsud, with the plurals hasda and hisad on the pattern of marda and mirad, and hasda for rational beings on the pattern of qatil and qatla.",
-            "bn": "ছবিটা ঠিক হয়ে যায় হাসীদ শব্দে এসে। তাবারী এর উৎস দেখান আরবদের কথায়, তারা যাব্র হাসীদ বলে সেই ফসলকে যা গোড়া থেকে কেটে সাফ করে ফেলা হয়েছে। শব্দটি আসলে মাহসূদ অর্থাৎ যা কাটা হয়েছে, তবে একে ফাঈল ছাঁচে ঘুরিয়ে আনা হয়েছে। কুরতুবী যে আখফাশ সাঈদের কথা তুলে ধরেন, তিনিও একই কথা বলেন, হাসীদ মানে মাহসূদ, বহুবচনে হাসদা আর হিসাদ, মারদা ও মিরাদের ছাঁচে, আর বুদ্ধিমান সত্তার বেলায় হাসদা, কাতীল ও কাতলার ছাঁচে।"
+            "bn": "ছবিটা ঠিক হয় হাসীদ শব্দে এসে। তাবারী এর উৎস দেখান আরবদের কথা থেকে: যে ফসল গোড়া থেকে কেটে সাফ করে ফেলা হয়েছে, তাকে তারা বলে যারউন হাসীদ। শব্দটি আসলে মাহসূদ, অর্থাৎ যা কাটা হয়েছে, তবে একে ফাঈল ছাঁচে ঘুরিয়ে আনা হয়েছে। কুরতুবী আখফাশ সাঈদের যে কথা তুলে ধরেন, তাতেও একই কথা: হাসীদ মানে মাহসূদ। এর বহুবচন হাসদা আর হিসাদ, মারদা ও মিরাদের ছাঁচে। আর বুদ্ধিমান সত্তার বেলায় বহুবচন হাসদা, কাতীল ও কাতলার ছাঁচে।"
           },
           {
             "en": "That grammar is not decoration. The form looks active, the meaning is passive: the town did not fall, it was cut. Al-Qurtubi brings two lines of verse that had already moved the image onto people. The first has mankind, in the way death is apportioned among them, like the crop, of it standing and of it mown, this verse's phrase spoken of human beings. The other says we are only the green blade of a crop, and its reaper comes when the time comes.",
-            "bn": "এই ব্যাকরণটুকু সাজসজ্জা নয়। গড়নটা কর্তৃবাচক দেখায়, অথচ অর্থ কর্মবাচক, জনপদ নিজে পড়ে যায়নি, তাকে কাটা হয়েছে। কুরতুবী দুটি পঙক্তি আনেন, যেখানে উপমাটি আগেই মানুষের উপর বসানো হয়েছে। প্রথমটিতে আছে, মৃত্যু যেভাবে মানুষের মধ্যে ভাগ হয়ে যায়, তাতে মানুষ ফসলের মতোই, তার কতক দাঁড়ানো আর কতক কাটা। এ তো এই আয়াতেরই কথা, কেবল মানুষকে নিয়ে বলা। অন্যটিতে আছে, আমরা কেবল কাঁচা ফসলের ডগা, সময় হলেই তার কাটিয়ে এসে হাজির হয়।"
+            "bn": "এই ব্যাকরণটুকু সাজসজ্জা নয়। গড়নটা দেখতে কর্তৃবাচ্য, অথচ অর্থ কর্মবাচ্য: জনপদ নিজে পড়ে যায়নি, তাকে কেটে ফেলা হয়েছে। কুরতুবী দুটি পঙক্তি আনেন, যেখানে এই উপমা আগেই মানুষের উপর বসানো হয়েছে। প্রথমটি বলে, মৃত্যু যেভাবে মানুষের মধ্যে ভাগ হয়, তাতে মানুষ ফসলের মতো, তার কতক দাঁড়িয়ে আর কতক কাটা। এ তো এই আয়াতেরই কথা, শুধু মানুষকে নিয়ে বলা। দ্বিতীয়টি বলে, আমরা ফসলের কাঁচা সবুজ ডগা মাত্র, সময় হলে তা কাটার লোক এসে হাজির হয়।"
           }
         ]
       },
@@ -2813,7 +2813,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse reports what happened to the peoples the surah has just named, and licenses nothing beyond that report. It hands no reader a method for deciding that some living town, nation or community stands under the same sentence. 11:101 lays the cause on the people themselves: they were not wronged but wronged themselves. 11:102 states the matter as Allah's own act, His seizure of a town while it is doing wrong. The naming and the seizing stay where the text puts them.",
-            "bn": "আয়াতটি খবর দিচ্ছে সূরায় এইমাত্র যাদের নাম নেওয়া হল তাদের পরিণতির, আর এই খবরের বাইরে কিছুই অনুমোদন করছে না। জীবিত কোনো জনপদ, জাতি বা সমাজ একই রায়ের নিচে আছে কিনা, তা ঠিক করার কোনো নিয়ম এ আয়াত কারো হাতে তুলে দেয় না। ১১:১০১ আয়াত যত্ন করে দোষটা মানুষের নিজের ঘাড়েই রাখে, তাদের উপর যুলম করা হয়নি, তারাই নিজেদের উপর যুলম করেছিল। ১১:১০২ আয়াত পুরো ব্যাপারটাকে আল্লাহর নিজের কাজ বলেই রাখে, যুলমে ডুবে থাকা জনপদকে তিনিই পাকড়াও করেন। নাম দেওয়া আর পাকড়াও করা, দুটোই যেখানে আছে সেখানেই থাকে।"
+            "bn": "আয়াতটি জানাচ্ছে, সূরা এইমাত্র যেসব জাতির নাম নিল তাদের কী হয়েছিল। এই খবরের বাইরে আর কিছুর অনুমতি এ আয়াত দেয় না। জীবিত কোনো জনপদ, জাতি বা সমাজ একই রায়ের নিচে আছে কিনা, তা ঠিক করার কোনো পদ্ধতি এ আয়াত কোনো পাঠকের হাতে তুলে দেয় না। ১১:১০১ আয়াত দোষটা মানুষের নিজের ঘাড়েই রাখে: তাদের উপর জুলুম করা হয়নি, তারাই নিজেদের উপর জুলুম করেছিল। ১১:১০২ আয়াত পুরো ব্যাপারটাকে আল্লাহর নিজের কাজ বলে জানায়: জুলুমে ডুবে থাকা জনপদকে তিনিই পাকড়াও করেন। কাকে কী নামে ডাকা হবে আর কাকে পাকড়াও করা হবে, কুরআন দুটোকে যেখানে রেখেছে, সেখানেই থাকে।"
           },
           {
             "en": "Nor does the verse say where these towns are. It names no site, no visible ruin and no excavation, and nothing here should be fastened onto any of them. Al-Muyassar gives the two halves as towns whose traces remain and towns whose traces have been wiped out, and that is as specific as the wording gets. Claiming a particular field of stones for a particular punished people is a claim the verse never makes, and no reader needs it to take the lesson.",
@@ -2981,7 +2981,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse describes peoples the Quran itself has described, whose end was an act of Allah after their deeds and their rejection of the messengers sent to them. It licenses nothing against any living person, town or nation, and gives no reader a way of deciding who else stands under that sentence. The one listener a reader can teach to fear rightly is himself, and the gathering and the witnessing include whoever is reading.",
-            "bn": "আয়াতটি সেইসব জাতির কথা বলে, যাদের কথা কুরআন নিজেই বলেছে। তাদের পরিণতি ছিল আল্লাহর কাজ, তাদের আমল আর তাদের কাছে পাঠানো রাসূলদের প্রত্যাখ্যানের পরে। জীবিত কোনো মানুষ, জনপদ বা জাতির বিরুদ্ধে এটি কোনো অনুমতি দেয় না। আর কে সেই একই রায়ের নিচে আছে, তা ঠিক করার কোনো উপায়ও কোনো পাঠককে দেয় না। পাঠক যাকে সঠিকভাবে ভয় করতে শেখাতে পারেন, সে তিনি নিজে। সমাবেশ আর হাজির হওয়ার দিনে যে পড়ছে সে-ও আছে।"
+            "bn": "আয়াতটি সেইসব জাতির কথা বলে, যাদের কথা কুরআন নিজেই বলেছে। তাদের আমল আর তাদের কাছে পাঠানো রাসূলদের অস্বীকারের পরে তাদের পরিণতি এসেছিল আল্লাহর কাজ হিসেবে। জীবিত কোনো মানুষ, জনপদ বা জাতির বিরুদ্ধে এ আয়াত কোনো অনুমতি দেয় না। কে সেই একই রায়ের নিচে আছে, তা ঠিক করার কোনো উপায়ও কোনো পাঠকের হাতে দেয় না। সঠিকভাবে ভয় করতে পাঠক কেবল একজনকেই শেখাতে পারেন, তিনি নিজে। আর সেই সমাবেশে, সেই হাজিরার দিনে, যিনি এখন পড়ছেন তিনিও থাকবেন।"
           }
         ]
       },
@@ -2997,7 +2997,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Questions to carry away. When I last read of a people destroyed, did I take anything from it, or only feel something for an hour? What would change in my week if I truly expected to stand in one crowd with the first and the last? Which of my deeds would I least want witnessed by everyone at once? And is my fear of the Hereafter the kind that moves me toward something, or only the kind I have learned to talk about?",
-            "bn": "সঙ্গে নিয়ে যাওয়ার মতো কয়েকটি প্রশ্ন। শেষবার যখন কোনো ধ্বংস হওয়া জাতির কথা পড়েছি, তা থেকে কি কিছু নিয়েছি, নাকি ঘণ্টাখানেক কিছু একটা অনুভব করেছি মাত্র? আগের আর পরের সবার সঙ্গে একই ভিড়ে দাঁড়াতে হবে, এ কথা সত্যিই বিশ্বাস করলে আমার এই সপ্তাহে কী বদলাত? আমার কোন কাজটা আমি সবচেয়ে কম চাইব যে সবাই একসঙ্গে দেখুক? আর আখিরাতের প্রতি আমার ভয় কি আমাকে কোনো দিকে এগিয়ে নেয়, নাকি এটা শুধু এমন ভয় যা নিয়ে কথা বলতে আমি শিখে গেছি?"
+            "bn": "সঙ্গে নিয়ে যাওয়ার মতো কয়েকটি প্রশ্ন। শেষবার যখন কোনো ধ্বংস হওয়া জাতির কথা পড়েছি, তা থেকে কি কিছু নিয়েছি, নাকি ঘণ্টাখানেক মনটা শুধু ভারী হয়ে ছিল? আগের আর পরের সবার সঙ্গে একই ভিড়ে দাঁড়াতে হবে, এ কথা সত্যিই বিশ্বাস করলে আমার এই সপ্তাহে কী বদলাত? আমার কোন কাজটা সবাই একসঙ্গে দেখে ফেলুক, এটা আমি সবচেয়ে কম চাই? আর আখিরাতের যে ভয় আমার আছে, তা কি আমাকে কোনো কিছুর দিকে এগিয়ে নেয়, নাকি সেটা শুধু মুখে বলতে শেখা ভয়?"
           }
         ]
       }
@@ -3125,7 +3125,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "An unbroken gift changes what a person is willing to give up now. The lie that would close a deal, the hour of sleep before Fajr, the grudge that feels good to keep: each is finished by evening or by old age. Set against a gift not cut off, letting go of them stops looking like loss. A practical habit is to name, once a day, one small thing given up for Allah, and to remember what it was traded for.",
-            "bn": "যে দান কখনো থামে না, তা বদলে দেয় এখন কী ছাড়তে মানুষ রাজি। যে মিথ্যায় একটা লেনদেন পাকা হয়ে যেত, ফজরের আগের এক ঘণ্টার ঘুম, মনে পুষে রাখতে ভালো লাগে এমন রাগ: এর প্রত্যেকটা সন্ধ্যায় কিংবা বার্ধক্যে ফুরিয়ে যায়। কেটে না নেওয়া দানের পাশে রাখলে এগুলো ছেড়ে দেওয়াকে আর লোকসান মনে হয় না। কাজের একটা অভ্যাস হতে পারে এমন: দিনে একবার আল্লাহর জন্য ছেড়ে দেওয়া একটি ছোট জিনিসের নাম নেওয়া, আর মনে করা তার বদলে কী পাওয়ার আশা।"
+            "bn": "যে দান কখনো থামে না, তার কথা মনে থাকলে মানুষ এখনই কী ছাড়তে রাজি, সেটাই বদলে যায়। যে মিথ্যায় একটা লেনদেন পাকা হয়ে যেত, ফজরের আগের এক ঘণ্টার ঘুম, মনে পুষে রাখতে ভালো লাগে এমন রাগ: এর প্রত্যেকটা সন্ধ্যা নাগাদ কিংবা বুড়ো বয়স নাগাদ ফুরিয়ে যায়। কেটে না নেওয়া দানের পাশে রাখলে এগুলো ছেড়ে দেওয়াকে আর লোকসান মনে হয় না। একটা কাজের অভ্যাস করা যায়: দিনে একবার আল্লাহর জন্য ছেড়ে দেওয়া একটা ছোট জিনিসের নাম নিন, আর মনে করুন কীসের বিনিময়ে সেটা ছাড়লেন।"
           },
           {
             "en": "The readings add two cautions. Ibn Kathir's reading keeps the reader humble: the lasting itself stays a favour of Allah, so Paradise is hoped for as His gift, not claimed as a debt. The reading at-Tabari preferred, and al-Muyassar with him, keeps the reader awake: it speaks of believers who reach the Garden only after a time in the Fire. Hope in the gift is no licence to be careless with sins today.",
@@ -3141,11 +3141,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is not worded as a supplication, so what follows is composed from its vocabulary and is not a transmitted du'a. O Allah, make us among those You made happy, and admit us to the Garden without first passing through the Fire. Give us from Your gift that is not cut off, and let us never sell what lasts for what is finished by evening. Make our praise of You as easy as breathing, and let our hope rest on Your favour, not on our deeds.",
-            "bn": "আয়াতটি দোয়ার ভাষায় বলা নয়। তাই নিচের দোয়াটি এর শব্দভান্ডার থেকে বানানো, কোনো বর্ণিত মাসনূন দোয়া নয়। হে আল্লাহ, যাদের তুমি সৌভাগ্যবান করেছ, আমাদের তাদের দলে রাখো। জাহান্নামের পথ না ঘুরিয়েই আমাদের জান্নাতে প্রবেশ করাও। তোমার সেই দান থেকে আমাদের দাও, যা কখনো কেটে নেওয়া হয় না। সন্ধ্যায় ফুরিয়ে যাওয়া জিনিসের বদলে চিরস্থায়ীটা যেন কখনো বেচে না দিই। তোমার প্রশংসা আমাদের জন্য শ্বাস নেওয়ার মতো সহজ করে দাও, আর আমাদের আশা যেন আমাদের আমলের উপর নয়, তোমার অনুগ্রহের উপর ভর করে।"
+            "bn": "আয়াতটি দোয়ার ভাষায় বলা নয়। তাই নিচের দোয়াটি আয়াতের শব্দ থেকেই গড়া, বর্ণিত কোনো মাসনূন দোয়া নয়। হে আল্লাহ, যাদের আপনি সৌভাগ্যবান করেছেন, আমাদের তাদের দলে রাখুন। জাহান্নামে না ঢুকিয়ে সরাসরি আমাদের জান্নাতে প্রবেশ করান। আপনার সেই দান থেকে আমাদের দিন, যা কখনো কেটে নেওয়া হয় না। সন্ধ্যায় ফুরিয়ে যায় এমন জিনিসের বদলে যা চিরকাল থাকে তা যেন কখনো বেচে না দিই। আপনার প্রশংসা আমাদের জন্য শ্বাস নেওয়ার মতো সহজ করে দিন, আর আমাদের আশা যেন আমাদের আমলের উপর নয়, আপনার অনুগ্রহের উপর ভর করে।"
           },
           {
             "en": "Questions to carry away. When I picture Paradise, do I picture something I have earned or something I will be given? Which passing thing am I paying for this week with a piece of what would have lasted? When I read that His will stands over even the promise, does it unsettle me or humble me? What one habit would I put down today if I truly believed the gift is never taken back?",
-            "bn": "সাথে নিয়ে যাওয়ার মতো কিছু প্রশ্ন। জান্নাতের কথা ভাবলে কি মনে হয় নিজের কামাই করা কিছু, নাকি আমাকে দেওয়া হবে এমন কিছু? এই সপ্তাহে কোন ক্ষণস্থায়ী জিনিসের দাম দিচ্ছি এমন কিছু দিয়ে, যা টিকে থাকতে পারত? ওয়াদার উপরেও তাঁর ইচ্ছা বহাল, এ কথা পড়ে আমি অস্থির হই, নাকি বিনয়ী? দানটি কখনো ফেরত নেওয়া হয় না, সত্যিই বিশ্বাস করলে আজ কোন একটি অভ্যাস নামিয়ে রাখতাম?"
+            "bn": "সাথে নিয়ে যাওয়ার মতো কিছু প্রশ্ন। জান্নাতের কথা ভাবলে কি মনে হয় নিজের কামাই করা কিছু, নাকি আমাকে দেওয়া হবে এমন কিছু? এই সপ্তাহে কোন ক্ষণস্থায়ী জিনিসের দাম দিচ্ছি এমন কিছুর টুকরো দিয়ে, যা টিকে থাকতে পারত? ওয়াদার উপরেও তাঁর ইচ্ছা বহাল, এ কথা পড়ে আমি অস্থির হই, নাকি বিনয়ী হই? দান কখনো ফিরিয়ে নেওয়া হয় না, এ কথা সত্যিই বিশ্বাস করলে আজ কোন একটা অভ্যাস ছেড়ে দিতাম?"
           }
         ]
       }
@@ -3161,7 +3161,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Almost the whole of Surah Hud is the record of nations that were sent a messenger and refused him. By 11:111 the surah has summed that record up: each one will be repaid in full for his deeds, and He is Aware of what they do. Our verse then opens with the fa of consequence — so stand straight. The command is not dropped in as an exhortation. It is the conclusion a reader is expected to draw from everything the surah has just shown him.",
-            "bn": "সূরা হূদের প্রায় পুরোটাই সেসব জাতির বিবরণ যাদের কাছে রাসূল পাঠানো হয়েছিল এবং যারা তাঁকে অস্বীকার করেছিল। 11:111-এ এসে সূরা সেই বিবরণের সারসংক্ষেপ টানে: প্রত্যেককেই তার কর্মের পূর্ণ প্রতিদান দেওয়া হবে, আর তারা যা করে তিনি সে সম্পর্কে সম্যক অবহিত। এরপর আমাদের আয়াত শুরু হয় পরিণতিসূচক 'ফা' দিয়ে — কাজেই অবিচল থাকো। নির্দেশটি নিছক উপদেশ হিসেবে ছুড়ে দেওয়া হয়নি। সূরা এতক্ষণ যা দেখিয়েছে, তা থেকে পাঠকের যে সিদ্ধান্তে পৌঁছানোর কথা, এটি সেই সিদ্ধান্ত।"
+            "bn": "সূরা হূদের প্রায় পুরোটা জুড়ে সেসব জাতির বিবরণ, যাদের কাছে রাসূল এসেছিলেন আর তারা তাঁকে ফিরিয়ে দিয়েছিল। ১১:১১১ আয়াতে এসে সূরা সেই বিবরণের হিসাব টানে: প্রত্যেককে তার আমলের পুরো প্রতিদান দেওয়া হবে, আর তারা যা করে তিনি তা ভালোভাবেই জানেন। এরপর আমাদের আয়াত শুরু হয় ফলাফল বোঝানো ফা দিয়ে: কাজেই অবিচল থাকো। এ নির্দেশ শুধু উপদেশ হিসেবে মাঝখানে বসিয়ে দেওয়া হয়নি। সূরা এতক্ষণ যা দেখাল, তা থেকে পাঠক যে সিদ্ধান্তে পৌঁছাবেন বলে আশা করা হয়, এ সেই সিদ্ধান্ত।"
           }
         ]
       },
@@ -3173,11 +3173,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fastaqim comes from the root of qiyam, standing, in the form that means to seek or hold a thing steadily. It is not merely persistence, since a person can persist in the wrong direction; it is straightness, remaining on a line. Muslim narrates that Sufyan ibn Abdullah ath-Thaqafi (RA) asked the Prophet ﷺ for a statement about Islam that he would not have to ask anyone else about, and was told: say I believe in Allah, then stand straight. The verb of the verse is the verb of the answer.",
-            "bn": "'ফাসতাকিম' এসেছে 'কিয়াম' অর্থাৎ দাঁড়ানোর মূল থেকে, এমন এক গঠনে যার অর্থ কোনো কিছু স্থিরভাবে ধরে রাখা বা তা অনুসন্ধান করা। এটি কেবল লেগে থাকা নয়, কারণ মানুষ ভুল পথেও লেগে থাকতে পারে; এটি সোজা থাকা, একটি রেখার ওপর টিকে থাকা। ইমাম মুসলিম বর্ণনা করেন, সুফইয়ান ইবনে আবদুল্লাহ আস-সাকাফী (রাঃ) নবী ﷺ-এর কাছে ইসলাম সম্পর্কে এমন একটি কথা চাইলেন যা নিয়ে আর কাউকে জিজ্ঞেস করতে হবে না; তাঁকে বলা হলো: বলো, আমি আল্লাহর প্রতি ঈমান আনলাম, তারপর অবিচল থাকো। আয়াতের ক্রিয়াপদ আর উত্তরের ক্রিয়াপদ একই।"
+            "bn": "ফাসতাকিম এসেছে কিয়াম, অর্থাৎ দাঁড়ানো, শব্দের মূল থেকে। এর গঠনটা এমন, যার অর্থ কোনো কিছু খোঁজা বা স্থিরভাবে ধরে রাখা। এটা শুধু লেগে থাকা নয়, কারণ মানুষ ভুল পথেও লেগে থাকতে পারে। এটা সোজা থাকা, একটা রেখার উপর টিকে থাকা। ইমাম মুসলিম বর্ণনা করেন, সুফইয়ান ইবনু আবদুল্লাহ সাকাফী (রাঃ) নবী ﷺ-এর কাছে ইসলাম সম্পর্কে এমন একটা কথা চেয়েছিলেন, যা নিয়ে আর কাউকে জিজ্ঞেস করতে হবে না। জবাব এল: বলো, আমি আল্লাহর উপর ঈমান আনলাম, তারপর অবিচল থাকো। আয়াতে যে ক্রিয়া, জবাবেও সেই একই ক্রিয়া।"
           },
           {
             "en": "The same verb marks a whole class of promises. 41:30 describes those who said our Lord is Allah and then stood straight, upon whom the angels descend saying do not fear and do not grieve. 46:13 gives the same two conditions and reaches the same result. In each place the confession comes first and the standing comes after it, joined by thumma. Faith is stated once; straightness is what is done with that statement for the rest of a life.",
-            "bn": "একই ক্রিয়াপদ কুরআনে গোটা এক শ্রেণির প্রতিশ্রুতিকে চিহ্নিত করে। 41:30-এ তাদের কথা বলা হয়েছে যারা বলেছে আমাদের রব আল্লাহ, তারপর অবিচল থেকেছে; তাদের কাছে ফেরেশতারা নেমে আসে এই কথা নিয়ে যে ভয় করো না, দুঃখ করো না। 46:13 একই দুটি শর্ত দেয় এবং একই ফলাফলে পৌঁছায়। প্রতিটি জায়গাতেই আগে স্বীকারোক্তি, তারপর অবিচলতা, আর দুটিকে জোড়ে 'ছুম্মা'। ঈমানের ঘোষণা একবারের; অবিচলতা হলো বাকি জীবনভর সেই ঘোষণা নিয়ে কী করা হলো তার নাম।"
+            "bn": "কুরআনে এই একই ক্রিয়া একটা গোটা শ্রেণির ওয়াদার চিহ্ন। ৪১:৩০ আয়াত বলে তাদের কথা, যারা বলেছে আমাদের রব আল্লাহ, তারপর অবিচল থেকেছে। তাদের কাছে ফেরেশতারা নেমে এসে বলেন, ভয় পেয়ো না, দুঃখ কোরো না। ৪৬:১৩ আয়াতেও একই দুই শর্ত, ফলও একই। প্রতিটি জায়গায় আগে ঈমানের স্বীকারোক্তি, পরে অবিচলতা, আর মাঝখানে জোড় দেয় ছুম্মা, তারপর। ঈমানের ঘোষণা একবারই দেওয়া হয়। বাকি জীবন সেই ঘোষণা নিয়ে যা করা হয়, তারই নাম অবিচলতা।"
           }
         ]
       },
@@ -3189,7 +3189,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The limit clause is the heart of the verse: kama umirta, as you have been commanded. Steadfastness is measured against an instruction, not against intensity of feeling. That closes two doors at once. It closes the door on slackening, and it closes the door on invention — devising a harder religion than the one given and calling the extra weight firmness. The same command with the same limit clause appears again at 42:15, followed there by a warning not to follow the inclinations of the opponents.",
-            "bn": "সীমা নির্ধারণকারী অংশটিই আয়াতের প্রাণ: 'কামা উমিরতা' — যেভাবে তোমাকে আদেশ দেওয়া হয়েছে। অবিচলতা মাপা হয় নির্দেশের মাপকাঠিতে, আবেগের তীব্রতায় নয়। এতে একসঙ্গে দুটি দরজা বন্ধ হয়ে যায়। বন্ধ হয় শিথিলতার দরজা, আর বন্ধ হয় উদ্ভাবনের দরজাও — অর্থাৎ যা দেওয়া হয়েছে তার চেয়ে কঠিন এক দ্বীন বানিয়ে সেই বাড়তি বোঝাকে দৃঢ়তা নাম দেওয়া। একই নির্দেশ একই সীমাসহ আবার এসেছে 42:15-এ, আর সেখানে এর পরেই সতর্ক করা হয়েছে যেন বিরোধীদের খেয়ালখুশির অনুসরণ করা না হয়।"
+            "bn": "আয়াতের প্রাণ হলো সীমা টেনে দেওয়া অংশটি: কামা উমিরতা, যেভাবে তোমাকে আদেশ দেওয়া হয়েছে। অবিচলতা মাপা হয় আদেশ দিয়ে, আবেগ কতটা তীব্র তা দিয়ে নয়। এতে একসাথে দুটি দরজা বন্ধ হয়। একটি ঢিলেমির দরজা। অন্যটি নিজে থেকে কিছু বানানোর দরজা: যে দ্বীন দেওয়া হয়েছে তার চেয়ে কঠিন এক দ্বীন বানিয়ে নেওয়া, আর সেই বাড়তি বোঝাকে দৃঢ়তা বলে চালানো। একই আদেশ একই সীমাসহ আবার এসেছে ৪২:১৫ আয়াতে, আর সেখানে এর পরেই সতর্ক করে দেওয়া হয়েছে, বিরোধীদের খেয়ালখুশি মেনে চলা যাবে না।"
           }
         ]
       },
@@ -3201,7 +3201,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse shifts number in a way that is visible in the Arabic. Fastaqim is singular, addressed to the Prophet ﷺ alone. Then wa man taba ma'ak brings in those who turned in repentance with him. The prohibition that follows, wa la tatghaw, is plural, and so is the closing bima ta'maluna, what you all do. The command begins with one man, and the warning is spread over everyone standing beside him. Steadfastness is personal; the failure it guards against is collective.",
-            "bn": "আয়াতটি বচন বদলায়, আর আরবিতে তা স্পষ্ট চোখে পড়ে। 'ফাসতাকিম' একবচন, কেবল নবী ﷺ-কে সম্বোধন। এরপর 'ওয়া মান তাবা মা'আকা' সঙ্গে নিয়ে আসে তাদের, যারা তাঁর সঙ্গে তওবা করে ফিরে এসেছে। এরপরের নিষেধাজ্ঞা 'ওয়া লা তাতগাও' বহুবচন, আর শেষের 'বিমা তা'মালূন' — তোমরা যা কর — সেটিও বহুবচন। নির্দেশ শুরু হয় একজন মানুষকে দিয়ে, আর সতর্কবাণী ছড়িয়ে পড়ে তাঁর পাশে দাঁড়ানো সবার ওপর। অবিচলতা ব্যক্তিগত; যে ব্যর্থতা থেকে তা রক্ষা করে, তা সমষ্টিগত।"
+            "bn": "আয়াতটিতে বচন বদলায়, আর আরবিতে তা স্পষ্ট দেখা যায়। ফাসতাকিম একবচন, শুধু নবী ﷺ-কে বলা। এরপর ওয়া মান তাবা মাআকা যোগ করে তাদের, যারা তাঁর সঙ্গে তওবা করে ফিরে এসেছে। পরের নিষেধ ওয়া লা তাতগাও বহুবচন, শেষের বিমা তা'মালূন, তোমরা যা করো, সেটাও বহুবচন। আদেশ শুরু হয় একজন মানুষকে দিয়ে, আর সতর্কবাণী ছড়িয়ে যায় তাঁর পাশে দাঁড়ানো সবার উপর। অবিচল থাকা প্রত্যেকের নিজের দায়। কিন্তু যে ব্যর্থতা থেকে তা বাঁচায়, সেটা সবার।"
           }
         ]
       },
@@ -3213,7 +3213,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The danger named beside istiqamah is not laziness. Tughyan comes from a root meaning to overflow the bounds — the same root that stands behind taghut — and it covers going past the line as surely as falling short of it. Read together, the two clauses describe a road with edges on both sides. That is why 11:113, the verse immediately after, forbids leaning toward those who do wrong: a man holding a straight line is under pressure from two directions, to relax it and to lean on people who have abandoned it.",
-            "bn": "ইস্তিকামাতের পাশে যে বিপদের নাম নেওয়া হয়েছে, তা অলসতা নয়। 'তুগইয়ান' এসেছে এমন এক মূল থেকে যার অর্থ সীমা ছাপিয়ে উপচে পড়া — এই একই মূল দাঁড়িয়ে আছে 'তাগূত' শব্দটির পেছনেও — আর তা রেখা পেরিয়ে যাওয়াকেও ততটাই বোঝায় যতটা রেখা পর্যন্ত না পৌঁছানোকে। দুটি অংশ একসঙ্গে পড়লে দেখা যায়, এ এমন এক পথ যার দুই পাশেই কিনারা আছে। এ কারণেই ঠিক পরের আয়াত 11:113 নিষেধ করে জালিমদের দিকে ঝুঁকে পড়তে: সোজা রেখা ধরে থাকা মানুষটির ওপর চাপ আসে দুই দিক থেকেই — রেখা আলগা করার, আর যারা রেখা ছেড়ে দিয়েছে তাদের ওপর ভর করার।"
+            "bn": "ইস্তিকামাতের পাশে যে বিপদের নাম নেওয়া হয়েছে, তা অলসতা নয়। তুগইয়ান এসেছে এমন এক মূল থেকে, যার অর্থ সীমা ছাপিয়ে উপচে পড়া। তাগূত শব্দটির পেছনেও এই একই মূল। রেখার আগে থেমে যাওয়ার মতোই রেখা পেরিয়ে যাওয়াও এর আওতায় পড়ে। দুটি অংশ একসাথে পড়লে ছবিটা দাঁড়ায় এমন এক পথের, যার দুই পাশেই কিনারা। এ কারণেই ঠিক পরের আয়াত, ১১:১১৩, জালিমদের দিকে ঝুঁকে পড়তে নিষেধ করে। সোজা রেখা ধরে থাকা মানুষের উপর চাপ আসে দুই দিক থেকে: রেখাটা ঢিলে করার চাপ, আর যারা রেখা ছেড়ে দিয়েছে তাদের উপর ভর দেওয়ার চাপ।"
           }
         ]
       },
@@ -3225,7 +3225,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse is often introduced with a famous report. At-Tirmidhi records from Ibn Abbas (RA) that when Abu Bakr (RA) remarked to the Prophet ﷺ that he had turned grey, he answered that Hud, al-Waqi'ah, al-Mursalat, an-Naba and at-Takwir had made him grey. At-Tirmidhi grades that report hasan gharib, so it is worth quoting with its grading attached rather than leaned upon. The verse supplies its own weight in any case, and it does so in the closing clause: indeed, He is Seeing of what you do.",
-            "bn": "এই আয়াতের সঙ্গে প্রায়ই একটি প্রসিদ্ধ বর্ণনা যুক্ত করা হয়। ইমাম তিরমিযী ইবনে আব্বাস (রাঃ) থেকে উল্লেখ করেন, আবু বকর (রাঃ) যখন নবী ﷺ-কে বলেন যে তাঁর চুল পেকে গেছে, তখন তিনি উত্তর দেন যে সূরা হূদ, আল-ওয়াকিয়া, আল-মুরসালাত, আন-নাবা ও আত-তাকবীর তাঁকে পাকিয়ে দিয়েছে। তিরমিযী এই বর্ণনাটিকে 'হাসান গরীব' বলে চিহ্নিত করেছেন, তাই এটি সেই মানের উল্লেখসহ উদ্ধৃত করাই যথাযথ — এর ওপর ভর দেওয়া নয়। যাই হোক, আয়াত নিজেই নিজের ভার জোগায়, আর তা জোগায় শেষ বাক্যাংশে: নিশ্চয়ই তোমরা যা কর তিনি তা দেখেন।"
+            "bn": "এই আয়াতের আলোচনা প্রায়ই শুরু হয় একটি প্রসিদ্ধ বর্ণনা দিয়ে। ইমাম তিরমিযী ইবনু আব্বাস (রাঃ) থেকে বর্ণনা করেন, আবূ বকর (রাঃ) নবী ﷺ-কে বললেন, আপনার চুল তো পেকে গেছে। জবাবে তিনি বললেন, হূদ, আল-ওয়াকিআ, আল-মুরসালাত, আন-নাবা আর আত-তাকবীর আমার চুল পাকিয়ে দিয়েছে। তিরমিযী বর্ণনাটিকে হাসান গরীব বলেছেন। তাই এটি উদ্ধৃত করলে মানটাও সঙ্গে বলা উচিত, এর উপর ভর দিয়ে দাঁড়ানো ঠিক নয়। সে যা-ই হোক, আয়াত নিজের ভার নিজেই বহন করে, আর তা আসে শেষ বাক্যে: নিশ্চয়ই তোমরা যা করো, তিনি তা দেখেন।"
           },
           {
             "en": "Being seen is what makes constancy possible when nobody else is watching. Al-Bukhari narrates from Aisha (RA) that the deed most beloved to Allah is the one done most constantly, even if it is small. That is istiqamah in practice: a rate you can hold for years rather than a fortnight of intensity followed by collapse. Choose the smaller portion, fix it to a time in the day, and let the verse's last clause supply the audience the effort needs.",
