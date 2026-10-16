@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Nisa is Madinan; Ibn Kathir reports from Ibn Abbas (RA) that it was revealed in Madinah. Its name means the women, and much of it is law for the people with the least power in a household: orphans and their property, wives and their dower, daughters and widows and their shares of an estate. Yet its first word is not addressed to guardians, husbands or heirs. It is addressed to everyone: O mankind. The surah names the ground before it builds on it.",
-            "bn": "সূরা নিসা মাদানি। ইবনে কাসীর ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেছেন যে সূরাটি মদিনায় নাযিল হয়েছে। নিসা মানে নারীরা। সূরার বড় অংশ জুড়ে আছে ঘরের সবচেয়ে কম ক্ষমতার মানুষদের জন্য বিধান: এতিম আর তাদের সম্পদ, স্ত্রী আর তাদের মোহর, কন্যা ও বিধবা আর মিরাসে তাদের অংশ। অথচ সূরার প্রথম ডাক অভিভাবক, স্বামী বা ওয়ারিশদের প্রতি নয়। ডাক সবার প্রতি: হে মানুষ। কিছু গড়ার আগে সূরা আগে ভিতটা দেখিয়ে দেয়।"
+            "bn": "সূরা নিসা মাদানী। ইবনে কাসীর ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেছেন যে সূরাটি মদিনায় নাজিল হয়েছে। নিসা মানে নারীরা। সূরার বড় অংশ জুড়ে আছে ঘরের সবচেয়ে কম ক্ষমতার মানুষদের জন্য বিধান: এতিম আর তাদের সম্পদ, স্ত্রী আর তাদের মোহর, কন্যা ও বিধবা আর মিরাসে তাদের অংশ। অথচ সূরার প্রথম ডাক অভিভাবক, স্বামী বা ওয়ারিশদের প্রতি নয়। ডাক সবার প্রতি: হে মানুষ। ঘর তোলার আগে সূরা ভিতটা দেখিয়ে দেয়।"
           },
           {
             "en": "The verse after it, 4:2, turns straight to practice: give the orphans their property, and do not swap your defective goods for their good ones. 4:3 speaks of justice to orphan girls and to wives, 4:4 of the dower given graciously, and 4:7 of a share for men and a share for women in what parents and relatives leave. Each of these is a claim one person has on another. 4:1 tells the reader why such claims exist at all: they share an origin, they share a Lord, and He sees.",
@@ -45,14 +45,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The Quran reciters differ on one vowel here. The widespread reading, followed by the translations in this app, is wal-arhama: fear Allah, and fear to cut the wombs. The reading of Hamzah is wal-arhami: Allah, through whom and through the wombs you ask one another, echoing the Arabs' habit of pleading by kinship. Al-Qurtubi records both. Either way the verse sets the bond of kinship beside the name of Allah, and closes by reminding its hearers that Allah is watching over them.",
-            "bn": "এখানে একটি হরকত নিয়ে কারিদের পাঠে ভিন্নতা আছে। প্রচলিত পাঠ, এই অ্যাপের অনুবাদ যা অনুসরণ করে, ওয়াল-আরহামা: আল্লাহকে ভয় করো, আর আত্মীয়তার বন্ধন ছিন্ন করাকে ভয় করো। ইমাম হামযার পাঠ ওয়াল-আরহামি: সেই আল্লাহ, যাঁর নামে আর আত্মীয়তার দোহাই দিয়ে তোমরা একে অন্যের কাছে চাও। আরবরা আত্মীয়তার দোহাই দিয়ে অনুরোধ করত, এ পাঠে তারই প্রতিধ্বনি। কুরতুবী দুটো পাঠই উল্লেখ করেছেন। যে পাঠই ধরা হোক, আয়াত আত্মীয়তার বন্ধনকে আল্লাহর নামের পাশে রাখে, আর শেষে মনে করিয়ে দেয় যে আল্লাহ তাদের ওপর নজর রাখছেন।"
+            "bn": "এখানে একটা হরকত নিয়ে কারিদের পাঠে ভিন্নতা আছে। বহুল প্রচলিত পাঠ ওয়াল-আরহামা, এই অ্যাপের অনুবাদও এটাই অনুসরণ করে: আল্লাহকে ভয় করো, আর আত্মীয়তার বন্ধন ছিন্ন করাকে ভয় করো। ইমাম হামযার পাঠ ওয়াল-আরহামি: সেই আল্লাহ, যাঁর নামে আর আত্মীয়তার দোহাই দিয়ে তোমরা একে অন্যের কাছে চাও। আরবরা আত্মীয়তার দোহাই দিয়ে অনুরোধ করত, এ পাঠে তারই প্রতিধ্বনি। কুরতুবী দুটো পাঠই উল্লেখ করেছেন। যে পাঠই ধরা হোক, আয়াত আত্মীয়তার বন্ধনকে আল্লাহর নামের পাশে রাখে, আর শেষে মনে করিয়ে দেয় যে আল্লাহ তাদের ওপর নজর রাখছেন।"
           }
         ]
       },
       {
         "h": {
           "en": "How the Commentators Read It",
-          "bn": "মুফাসসিরদের পাঠ"
+          "bn": "মুফাসসিররা যেভাবে বুঝেছেন"
         },
         "p": [
           {
@@ -65,7 +65,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi states the legal weight plainly: the community of faith agrees that keeping the ties of kinship is obligatory and that cutting them is forbidden. He does not leave the verse as a pleasant sentiment about family. On the closing words, Ibn Kathir says Allah sees every deed and every circumstance, and he connects this to the hadith of Jibril: worship Allah as though you see Him, for though you do not see Him, He sees you. The watching at the end governs everything before it.",
-            "bn": "কুরতুবী এর বিধানগত ওজন সোজাসুজি বলেছেন: দ্বীনের অনুসারীরা একমত যে আত্মীয়তার বন্ধন রক্ষা করা ওয়াজিব আর তা ছিন্ন করা হারাম। পরিবার নিয়ে কোনো মধুর অনুভূতি হিসেবে তিনি আয়াতটিকে ছেড়ে দেননি। শেষ কথাগুলো প্রসঙ্গে ইবনে কাসীর বলেন, আল্লাহ প্রতিটি আমল আর প্রতিটি অবস্থা দেখেন। এর সঙ্গে তিনি জিবরীলের হাদীসটি জুড়ে দেন: আল্লাহর ইবাদত করো যেন তুমি তাঁকে দেখছ, আর তুমি তাঁকে না দেখলেও তিনি তোমাকে দেখছেন। শেষের এই নজরদারি আগের সবকিছুর ওপর কর্তৃত্ব রাখে।"
+            "bn": "কুরতুবী এর বিধানগত ওজন সোজাসুজি বলেছেন: উম্মাহ একমত যে আত্মীয়তার বন্ধন রক্ষা করা ওয়াজিব আর তা ছিন্ন করা হারাম। আয়াতটিকে তিনি পরিবার নিয়ে নিছক মধুর এক অনুভূতি বলে ছেড়ে দেননি। শেষ কথাগুলো প্রসঙ্গে ইবনে কাসীর বলেন, আল্লাহ প্রতিটি আমল আর প্রতিটি অবস্থা দেখেন। এর সঙ্গে তিনি জিবরীলের হাদিসটি জুড়ে দেন: আল্লাহর ইবাদত করো যেন তুমি তাঁকে দেখছ, আর তুমি তাঁকে না দেখলেও তিনি তোমাকে দেখছেন। শেষের এই কথা, তিনি দেখছেন, আগের সব কথার ওপর ছায়া হয়ে থাকে।"
           }
         ]
       },
@@ -88,7 +88,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Where the Quran Says It Again",
-          "bn": "কুরআনে একই কথা আরও যেখানে"
+          "bn": "কুরআনে আর যেখানে এই কথা"
         },
         "p": [
           {
@@ -109,7 +109,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is widely known from the sermon of need, which Abu Dawud and at-Tirmidhi record from Ibn Mas'ud (RA) and which is recited at many marriage contracts. It fits that moment. A marriage joins two families and begins new wombs, new ties that will one day carry claims. A believer who hears it at a wedding can take it home as a charge: this household is now part of a web of rights, and Allah, in whose name the contract was made, is watching how it is kept.",
-            "bn": "আয়াতটি ব্যাপকভাবে পরিচিত খুতবাতুল হাজাহ থেকে। আবু দাউদ ও তিরমিযী ইবনে মাসউদ (রাঃ) থেকে এই খুতবা বর্ণনা করেছেন, আর অনেক বিয়ের আকদে এটি পড়া হয়। মুহূর্তটার সঙ্গে আয়াত খুব মানায়। বিয়ে দুটি পরিবারকে জোড়ে, শুরু করে নতুন আত্মীয়তা, যা একদিন নিজের হক নিয়ে দাঁড়াবে। বিয়েতে আয়াতটি শুনে একজন মুমিন তা দায়িত্ব হিসেবে ঘরে নিয়ে যেতে পারেন। এই সংসার এখন হকের এক জালের অংশ। আর যে আল্লাহর নামে আকদ হলো, তিনি দেখছেন সেই হক কীভাবে রক্ষা হয়।"
+            "bn": "খুতবাতুল হাজাহর সুবাদে আয়াতটি সবার চেনা। আবু দাউদ ও তিরমিযী ইবনে মাসউদ (রাঃ) থেকে এই খুতবা বর্ণনা করেছেন, আর অনেক বিয়ের আকদে এটি পড়া হয়। মুহূর্তটার সঙ্গে আয়াত খুব মানায়। বিয়ে দুটি পরিবারকে জোড়ে, শুরু করে নতুন আত্মীয়তা, যা একদিন নিজের হক নিয়ে দাঁড়াবে। বিয়েতে আয়াতটি শুনে একজন মুমিন তা দায়িত্ব হিসেবে ঘরে নিয়ে যেতে পারেন। এই সংসার এখন হকের এক জালের অংশ। আর যে আল্লাহর নামে আকদ হলো, তিনি দেখছেন সেই হক কীভাবে রক্ষা হয়।"
           },
           {
             "en": "In an ordinary week the verse asks for small, specific acts. Call the aunt no one calls. Visit the cousin who has fallen on hard times before he has to ask. When a family dispute over land or money starts, remember that the name of Allah was invoked on both sides and that both sides are one soul's children. And when you meet a worker from another country, another colour or another class, let the first thought be the one the Prophet ﷺ gave the poor of Mudar.",
@@ -129,7 +129,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is a command rather than a supplication, so what follows is a short du'a built from its own vocabulary, offered as such and not as a transmitted text. O Allah, our Lord who created us from one soul, make us fear You in how we treat one another. Let us never use Your name to take what is not ours. Help us keep the ties You commanded us to keep, soften the hearts of the relatives we have drifted from, and keep us mindful that You are watching over us.",
-            "bn": "আয়াতটি আদেশ, দোয়া নয়। তাই এখানে আয়াতের নিজের শব্দ দিয়ে গড়া ছোট একটি দোয়া দেওয়া হলো। এটা বানানো দোয়া, কোনো বর্ণিত পাঠ নয়। হে আল্লাহ, আমাদের রব, যিনি আমাদের এক প্রাণ থেকে সৃষ্টি করেছেন, একে অন্যের সঙ্গে আচরণে আমাদের আপনার ভয় দিন। আপনার নাম নিয়ে যা আমাদের নয় তা যেন কখনো না নিই। যে বন্ধন রক্ষার আদেশ দিয়েছেন, তা রক্ষায় আমাদের সাহায্য করুন। যে আত্মীয়দের থেকে দূরে সরে গেছি, তাদের অন্তর নরম করে দিন। আর আমাদের মনে রাখতে দিন যে আপনি আমাদের ওপর নজর রাখছেন।"
+            "bn": "আয়াতটি আদেশ, দোয়া নয়। তাই এখানে আয়াতের নিজের শব্দ দিয়ে সাজানো ছোট একটি দোয়া দেওয়া হলো। এটা কোনো বর্ণিত দোয়া নয়। হে আল্লাহ, আমাদের রব, যিনি আমাদের এক প্রাণ থেকে সৃষ্টি করেছেন, একে অন্যের সঙ্গে আচরণে আমাদের অন্তরে আপনার ভয় দিন। আপনার নাম নিয়ে যা আমাদের নয় তা যেন কখনো না নিই। যে বন্ধন রক্ষার আদেশ দিয়েছেন, তা রক্ষায় আমাদের সাহায্য করুন। যে আত্মীয়দের থেকে দূরে সরে গেছি, তাদের অন্তর নরম করে দিন। আর আমাদের যেন সবসময় মনে থাকে, আপনি আমাদের ওপর নজর রাখছেন।"
           },
           {
             "en": "The Prophet ﷺ paired this verse with 59:18 in the Mudar sermon, and a reader can pair them in prayer too: O Allah, let me look to what I have sent ahead for tomorrow, and let some of it be the relatives I kept and the strangers I treated as family. Said after a visit, a phone call or a gift to a relative, a supplication like this turns an ordinary errand into worship.",
@@ -149,7 +149,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Whom in my wider family would the Prophet ﷺ, standing where he stood before the poor of Mudar, point to and say: this one is yours? And is there a quarrel over property in my family that I could soften by remembering that both sides once asked each other by Allah and by the womb?",
-            "bn": "মুদারের গরিবদের সামনে নবী ﷺ যেখানে দাঁড়িয়েছিলেন, সেখানে দাঁড়িয়ে আমার বড় পরিবারের কার দিকে তিনি আঙুল তুলে বলতেন, এ তোমার দায়িত্ব? আর আমার পরিবারে সম্পদ নিয়ে এমন কোনো ঝগড়া কি আছে, যা নরম হতে পারত এ কথা মনে রাখলে যে দুই পক্ষই একদিন আল্লাহর দোহাই আর আত্মীয়তার দোহাই দিয়ে একে অন্যের কাছে চেয়েছিল?"
+            "bn": "মুদারের গরিবদের সামনে নবী ﷺ যেখানে দাঁড়িয়েছিলেন, সেখানে দাঁড়িয়ে আমার বড় পরিবারের কার দিকে তিনি আঙুল তুলে বলতেন, এ তোমার দায়িত্ব? আর সম্পদ নিয়ে আমার পরিবারে কি এমন কোনো ঝগড়া আছে, যা নরম হতে পারে শুধু এটুকু মনে রাখলে: দুই পক্ষই একদিন আল্লাহর দোহাই আর আত্মীয়তার দোহাই দিয়ে একে অন্যের কাছে চেয়েছিল?"
           }
         ]
       },
@@ -161,11 +161,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "With children, draw a family tree together, going as far back as anyone remembers, and then read the verse and add one line above the oldest name: one soul. Let them see that every branch, including the families of classmates who look different, joins that line. Then choose one relative on the tree whom the family rarely contacts, and plan a call or a visit together. The lesson of the verse is best learned by doing what it commands.",
-            "bn": "শিশুদের সঙ্গে মিলে একটা বংশতালিকা আঁকুন, যতদূর পর্যন্ত কারও মনে আছে। তারপর আয়াতটি পড়ে সবচেয়ে পুরোনো নামের ওপরে একটা লাইন যোগ করুন: এক প্রাণ। ওদের দেখতে দিন, প্রতিটি শাখা সেই লাইনে গিয়ে মেলে, দেখতে আলাদা সহপাঠীদের পরিবারও। এরপর তালিকা থেকে এমন একজন আত্মীয় বেছে নিন, যাঁর সঙ্গে পরিবারের যোগাযোগ কম, আর সবাই মিলে তাঁকে ফোন করা বা দেখতে যাওয়ার পরিকল্পনা করুন। আয়াত যা আদেশ করে, তা করে দেখানোই এর শিক্ষা শেখার সবচেয়ে ভালো উপায়।"
+            "bn": "শিশুদের সঙ্গে মিলে একটা বংশতালিকা আঁকুন, যতদূর পর্যন্ত কারও মনে আছে। তারপর আয়াতটি পড়ে সবচেয়ে পুরোনো নামের ওপরে একটা লাইন যোগ করুন: এক প্রাণ। ওদের দেখতে দিন, প্রতিটি শাখা সেই লাইনে গিয়ে মেলে, দেখতে আলাদা সহপাঠীদের পরিবারও। এরপর তালিকা থেকে এমন একজন আত্মীয় বেছে নিন, যাঁর সঙ্গে পরিবারের যোগাযোগ কম, আর সবাই মিলে তাঁকে ফোন করা বা দেখতে যাওয়ার পরিকল্পনা করুন। আয়াতের শিক্ষা সবচেয়ে ভালো শেখা যায় তার আদেশ মেনে কাজ করে।"
           },
           {
             "en": "In a study circle, read 4:1 and then skim the first twelve verses of the surah, asking at each command whose right is being protected and how the opening verse prepares the ground for it. The group will find that orphans, wives, daughters and parents all stand under the single umbrella of one soul, a shared Lord and a watching God.",
-            "bn": "পাঠচক্রে ৪:১ আয়াত পড়ে সূরার প্রথম বারোটি আয়াতে চোখ বুলিয়ে নিন। প্রতিটি আদেশে জিজ্ঞেস করুন, এখানে কার হক রক্ষা করা হচ্ছে, আর শুরুর আয়াত কীভাবে তার ভিত তৈরি করে রেখেছে। দলটি দেখবে, এতিম, স্ত্রী, কন্যা আর বাবা-মা সবাই দাঁড়িয়ে আছে একই ছাতার নিচে: এক প্রাণ, এক রব, আর সব দেখা আল্লাহ।"
+            "bn": "পাঠচক্রে ৪:১ আয়াত পড়ে সূরার প্রথম বারোটি আয়াতে চোখ বুলিয়ে নিন। প্রতিটি আদেশে জিজ্ঞেস করুন, এখানে কার হক রক্ষা করা হচ্ছে, আর শুরুর আয়াত কীভাবে তার ভিত তৈরি করে রেখেছে। সবাই দেখবেন, এতিম, স্ত্রী, কন্যা আর বাবা-মা দাঁড়িয়ে আছে একই ছাতার নিচে: এক প্রাণ, এক রব, আর সেই আল্লাহ, যিনি সব দেখছেন।"
           }
         ]
       }
@@ -185,7 +185,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir notes that the knowledge of inheritance, al-fara'id, rests on this verse, the one after it and the last verse of the surah, 4:176, together with the hadith that explain them. He brings two reports as the occasion. In the first, from al-Bukhari, Jabir ibn Abdullah (RA) lay ill and asked the Prophet ﷺ what to do with his wealth. Ibn Kathir himself remarks that this seems to concern 4:176, since Jabir then had sisters and no children or parents. The second, about the daughters of Sa'd ibn ar-Rabi' (RA), is given in the hadith section.",
-            "bn": "ইবনে কাসীর বলেন, মিরাসের জ্ঞান, যাকে আল-ফারায়েয বলা হয়, দাঁড়িয়ে আছে এই আয়াত, এর পরের আয়াত আর সূরার শেষ আয়াত ৪:১৭৬ এবং সেগুলোর ব্যাখ্যায় আসা হাদীসের ওপর। নাযিলের প্রেক্ষাপট হিসেবে তিনি দুটি বর্ণনা আনেন। প্রথমটি বুখারী থেকে: জাবির ইবনে আবদুল্লাহ (রাঃ) অসুস্থ অবস্থায় নবী ﷺ-কে জিজ্ঞেস করেছিলেন তাঁর সম্পদ নিয়ে কী করবেন। ইবনে কাসীর নিজেই মন্তব্য করেছেন, এটা সম্ভবত ৪:১৭৬ আয়াতের সঙ্গে সম্পর্কিত, কারণ জাবিরের তখন বোন ছিল, সন্তান বা বাবা-মা ছিল না। দ্বিতীয়টি সা'দ ইবনে রাবী' (রাঃ)-এর মেয়েদের ঘটনা, যা হাদীসের অংশে আসছে।"
+            "bn": "ইবনে কাসীর বলেন, মিরাসের ইলম, যার নাম আল-ফারায়েয, দাঁড়িয়ে আছে এই আয়াত, এর পরের আয়াত আর সূরার শেষ আয়াত ৪:১৭৬-এর ওপর, সঙ্গে এগুলোর ব্যাখ্যায় আসা হাদিস। নাজিলের প্রেক্ষাপট হিসেবে তিনি দুটি বর্ণনা আনেন। প্রথমটি বুখারী থেকে: জাবির ইবনে আবদুল্লাহ (রাঃ) অসুস্থ অবস্থায় নবী ﷺ-কে জিজ্ঞেস করেছিলেন তাঁর সম্পদ নিয়ে কী করবেন। ইবনে কাসীর নিজেই মন্তব্য করেছেন, এটা সম্ভবত ৪:১৭৬ আয়াতের সঙ্গে সম্পর্কিত, কারণ জাবিরের তখন বোন ছিল, সন্তান বা বাবা-মা ছিল না। দ্বিতীয়টি সা'দ ইবনে রাবী' (রাঃ)-এর মেয়েদের ঘটনা, যা হাদিসের অংশে আসছে।"
           }
         ]
       },
@@ -208,7 +208,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Wisdom the Commentators Give",
-          "bn": "মুফাসসিরদের বলা হিকমত"
+          "bn": "মুফাসসিরদের চোখে হিকমত"
         },
         "p": [
           {
@@ -217,7 +217,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "On why the son takes the share of two daughters, Ibn Kathir ties it to obligations: men need wealth to spend on their dependants, on their work and dealings, and to meet what is required of them. The Quran itself places the dower on the husband in 4:4 and names men's spending from their wealth in 4:34. The rule concerns sons and daughters inheriting together, and 4:176 gives it for brothers and sisters together. It is not stated for every man and woman: in 4:12 maternal siblings share equally, as Ibn Kathir notes, and here each parent takes a sixth when there are children.",
-            "bn": "ছেলে কেন দুই মেয়ের সমান পায়, এ প্রশ্নে ইবনে কাসীর একে দায়িত্বের সঙ্গে জুড়েছেন। পুরুষের সম্পদ দরকার পোষ্যদের পেছনে খরচ করতে, কাজকর্ম আর লেনদেন চালাতে, আর তার ওপর যা দায় আছে তা মেটাতে। কুরআন নিজেই ৪:৪ আয়াতে মোহরের দায় স্বামীর ওপর রেখেছে, আর ৪:৩৪ আয়াতে পুরুষদের নিজেদের সম্পদ থেকে খরচের কথা বলেছে। বিধানটা ছেলে আর মেয়ে একসঙ্গে ওয়ারিশ হলে, আর ৪:১৭৬ আয়াতে ভাই আর বোন একসঙ্গে ওয়ারিশ হলে। প্রত্যেক নারী-পুরুষের ক্ষেত্রে এ কথা বলা হয়নি। ইবনে কাসীর যেমন উল্লেখ করেছেন, ৪:১২ আয়াতে মায়ের দিকের ভাই-বোনেরা সমান ভাগ পায়। আর এই আয়াতেই সন্তান থাকলে বাবা ও মা প্রত্যেকে ছয় ভাগের এক ভাগ পান।"
+            "bn": "ছেলে কেন দুই মেয়ের সমান পায়, ইবনে কাসীর এর কারণ খুঁজেছেন দায়িত্বে। পুরুষের সম্পদ দরকার পোষ্যদের পেছনে খরচ করতে, কাজকর্ম আর লেনদেন চালাতে, আর তার ওপর যা দায় আছে তা মেটাতে। কুরআন নিজেই ৪:৪ আয়াতে মোহরের দায় স্বামীর ওপর রেখেছে, আর ৪:৩৪ আয়াতে পুরুষদের নিজেদের সম্পদ থেকে খরচের কথা বলেছে। বিধানটা খাটে ছেলে আর মেয়ে একসঙ্গে ওয়ারিশ হলে। ৪:১৭৬ আয়াত একই বিধান দেয় ভাই আর বোন একসঙ্গে ওয়ারিশ হলে। প্রত্যেক নারী-পুরুষের ক্ষেত্রে এ কথা বলা হয়নি। ইবনে কাসীর যেমন উল্লেখ করেছেন, ৪:১২ আয়াতে মায়ের দিকের ভাই-বোনেরা সমান ভাগ পায়। আর এই আয়াতেই সন্তান থাকলে বাবা ও মা প্রত্যেকে ছয় ভাগের এক ভাগ পান।"
           },
           {
             "en": "Ibn Ashur draws attention to the wording. The verse could have said the daughter takes half the son's share; instead it makes the share of two females the measure by which the male's share is stated. He sees in this a pointer that the female's share, which the Jahiliyyah had denied, is now the fixed reference point, announced in the first words the listener hears. On the order of bequest and debt, Ibn Kathir reports that the scholars of every generation agree that debt is paid before a bequest is carried out.",
@@ -244,7 +244,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Verses Around the Shares",
-          "bn": "অংশগুলোর চারপাশের আয়াত"
+          "bn": "মিরাসের আয়াতের আশপাশে"
         },
         "p": [
           {
@@ -285,7 +285,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is law, not supplication, so this is a short du'a in its own vocabulary, offered as such and not as a transmitted text. For the one preparing: O Allah, let me leave my affairs clear and my debts known, let my bequest harm no heir, and let my heirs receive what You have fixed for them without dispute. For the one inheriting: O Allah, You are Knowing and Wise; make me content with the share You appointed and just in handing others theirs, and do not let wealth cut the ties You commanded me to keep.",
-            "bn": "আয়াতটি বিধান, দোয়া নয়। তাই এখানে আয়াতের নিজের শব্দ দিয়ে গড়া ছোট একটি দোয়া। এটা বানানো দোয়া, কোনো বর্ণিত পাঠ নয়। যিনি প্রস্তুতি নিচ্ছেন তাঁর জন্য: হে আল্লাহ, আমার কাজকর্ম পরিষ্কার আর ঋণ জানা অবস্থায় রেখে যেতে দিন। আমার ওয়াসিয়ত যেন কোনো ওয়ারিশের ক্ষতি না করে, আর আমার ওয়ারিশরা যেন বিবাদ ছাড়া আপনার ঠিক করা অংশ পায়। যিনি ওয়ারিশ হচ্ছেন তাঁর জন্য: হে আল্লাহ, আপনি সর্বজ্ঞ, প্রজ্ঞাময়। আপনার ঠিক করা অংশে আমাকে সন্তুষ্ট রাখুন, অন্যদের অংশ বুঝিয়ে দিতে ইনসাফকারী বানান। আর যে বন্ধন রক্ষার আদেশ দিয়েছেন, সম্পদ যেন তা ছিন্ন করতে না পারে।"
+            "bn": "আয়াতটি বিধান, দোয়া নয়। তাই এখানে আয়াতের নিজের শব্দ দিয়ে সাজানো ছোট একটি দোয়া। এটা কোনো বর্ণিত দোয়া নয়। যিনি প্রস্তুতি নিচ্ছেন তাঁর জন্য: হে আল্লাহ, আমি যেন আমার সব বিষয় গুছিয়ে আর ঋণের কথা জানিয়ে যেতে পারি। আমার ওয়াসিয়ত যেন কোনো ওয়ারিশের ক্ষতি না করে, আর আমার ওয়ারিশরা যেন বিবাদ ছাড়া আপনার ঠিক করা অংশ পায়। যিনি ওয়ারিশ হচ্ছেন তাঁর জন্য: হে আল্লাহ, আপনি সর্বজ্ঞ, প্রজ্ঞাময়। আপনার ঠিক করা অংশে আমাকে সন্তুষ্ট রাখুন, অন্যদের অংশ বুঝিয়ে দিতে আমাকে ইনসাফ করার তাওফিক দিন। আর যে বন্ধন রক্ষার আদেশ দিয়েছেন, সম্পদ যেন তা ছিন্ন করতে না পারে।"
           },
           {
             "en": "A family can say such a du'a together on the day the estate is discussed, before the numbers are opened. It reminds everyone in the room that the division they are about to carry out was not written by any of them, and that the One who wrote it is watching how it is carried out.",
@@ -316,7 +316,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Ruling That Waited for a Way",
-          "bn": "যে বিধান অপেক্ষায় ছিল এক পথের"
+          "bn": "যে বিধান পথের অপেক্ষায় ছিল"
         },
         "p": [
           {
@@ -361,7 +361,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "On leave them alone, Ibn Kathir says: do not revile them after that, because one who truly repents is like one who has no sin. This page does not set out the later penalties or how and by whom they are applied; that belongs to qualified jurists and to lawful authority, not to individuals or to an article. What the verses give every reader is their shape: a demanding standard of proof, a ruling given in stages, and an insistence that repentance changes how a person is to be treated.",
-            "bn": "তাদের ছেড়ে দাও, এ কথার ব্যাখ্যায় ইবনে কাসীর বলেন: এরপর আর তাদের গালমন্দ কোরো না, কারণ যে সত্যিকার তওবা করে, সে এমন মানুষের মতো যার কোনো গুনাহ নেই। পরের শাস্তিগুলো কী, কীভাবে আর কার হাতে তা কার্যকর হয়, এই লেখা তা আলোচনা করছে না। সেটা যোগ্য ফকিহ আর বৈধ কর্তৃপক্ষের বিষয়, কোনো ব্যক্তি বা কোনো লেখার নয়। আয়াতগুলো প্রত্যেক পাঠককে যা দেয় তা হলো এর গড়ন: প্রমাণের কঠিন মানদণ্ড, ধাপে ধাপে দেওয়া বিধান, আর এই জোরালো কথা যে তওবা একজন মানুষের সঙ্গে আচরণ বদলে দেয়।"
+            "bn": "তাদের ছেড়ে দাও, এ কথার ব্যাখ্যায় ইবনে কাসীর বলেন: এরপর আর তাদের গালমন্দ কোরো না, কারণ যে সত্যিকার তওবা করে, সে এমন মানুষের মতো যার কোনো গুনাহ নেই। পরের শাস্তিগুলো কী, কীভাবে আর কার হাতে তা কার্যকর হয়, এই লেখা তা আলোচনা করছে না। সেটা যোগ্য ফকিহ আর বৈধ কর্তৃপক্ষের বিষয়, কোনো ব্যক্তি বা কোনো লেখার নয়। তবে আয়াতগুলোর গড়নটা প্রত্যেক পাঠকের জন্য: প্রমাণের কঠিন মানদণ্ড, ধাপে ধাপে আসা বিধান, আর জোর দিয়ে বলা যে তওবার পর মানুষটির সঙ্গে আচরণও বদলাতে হবে।"
           }
         ]
       },
@@ -377,7 +377,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two things in it are worth noticing without going into the penalties themselves. The Prophet ﷺ presents the new ruling as the fulfilment of what the Quran had promised, not as his own invention, so the Sunnah and the verse speak with one voice. And the repeated take it from me shows the care with which he wanted the community to receive it. Ibn Kathir brings other narrations under these verses; this page confines itself to the one that answers the verse's own words.",
-            "bn": "শাস্তির খুঁটিনাটিতে না গিয়েও এতে দুটি জিনিস লক্ষ করার মতো। নবী ﷺ নতুন বিধানকে তুলে ধরেছেন কুরআনের দেওয়া প্রতিশ্রুতির পূর্ণতা হিসেবে, নিজের বানানো কিছু হিসেবে নয়। ফলে সুন্নাহ আর আয়াত এক সুরে কথা বলে। আর দুবার বলা আমার কাছ থেকে নাও দেখায়, উম্মাহ বিষয়টি কতটা যত্ন নিয়ে গ্রহণ করুক, তিনি তা চেয়েছিলেন। ইবনে কাসীর এই আয়াতগুলোর নিচে আরও বর্ণনা এনেছেন। এই লেখা কেবল সেই বর্ণনাতেই সীমাবদ্ধ থাকছে, যা আয়াতের নিজের শব্দের জবাব দেয়।"
+            "bn": "শাস্তির খুঁটিনাটিতে না গিয়েও এতে দুটি জিনিস লক্ষ করার মতো। নবী ﷺ নতুন বিধানকে তুলে ধরেছেন কুরআনের দেওয়া প্রতিশ্রুতির পূর্ণতা হিসেবে, নিজের বানানো কিছু হিসেবে নয়। ফলে সুন্নাহ আর আয়াত এক সুরে কথা বলে। আর আমার কাছ থেকে নাও কথাটা দুবার বলায় বোঝা যায়, তিনি চেয়েছিলেন উম্মাহ বিষয়টি পরম যত্নে গ্রহণ করুক। ইবনে কাসীর এই আয়াতগুলোর নিচে আরও বর্ণনা এনেছেন। এই লেখা কেবল সেই বর্ণনাতেই সীমাবদ্ধ থাকছে, যা আয়াতের নিজের শব্দের জবাব দেয়।"
           }
         ]
       },
@@ -393,7 +393,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "On the side of repentance, 4:17, the very next verse, says that repentance is accepted from those who do wrong in ignorance and repent soon after. 3:135 describes the God-fearing as people who, when they commit an indecency or wrong themselves, remember Allah and seek forgiveness and do not persist. And 25:70, after naming the gravest sins, makes an exception for those who repent, believe and do righteous work: Allah will replace their evil deeds with good.",
-            "bn": "তওবার দিকে, ঠিক পরের আয়াত ৪:১৭ বলে, তওবা কবুল হয় তাদের, যারা অজ্ঞতাবশত মন্দ কাজ করে তারপর দ্রুত তওবা করে। ৩:১৩৫ আয়াত মুত্তাকিদের বর্ণনা দেয় এমন মানুষ হিসেবে, যারা কোনো অশ্লীল কাজ করে ফেললে বা নিজেদের ওপর জুলুম করলে আল্লাহকে স্মরণ করে, গুনাহের মাফ চায়, আর জেনেশুনে তা বারবার করে না। আর ২৫:৭০ আয়াত সবচেয়ে বড় গুনাহগুলোর উল্লেখের পর ব্যতিক্রম রাখে তাদের জন্য, যারা তওবা করে, ঈমান আনে আর নেক আমল করে: আল্লাহ তাদের মন্দ কাজগুলো নেকিতে বদলে দেবেন।"
+            "bn": "এবার তওবার দিকটা দেখুন। ঠিক পরের আয়াত ৪:১৭ বলে, তওবা কবুল হয় তাদের, যারা অজ্ঞতাবশত মন্দ কাজ করে তারপর দ্রুত তওবা করে। ৩:১৩৫ আয়াত মুত্তাকিদের বর্ণনা দেয় এমন মানুষ হিসেবে, যারা কোনো অশ্লীল কাজ করে ফেললে বা নিজেদের ওপর জুলুম করলে আল্লাহকে স্মরণ করে, গুনাহের মাফ চায়, আর জেনেশুনে তা বারবার করে না। আর ২৫:৭০ আয়াত সবচেয়ে বড় গুনাহগুলোর উল্লেখের পর ব্যতিক্রম রাখে তাদের জন্য, যারা তওবা করে, ঈমান আনে আর নেক আমল করে: আল্লাহ তাদের মন্দ কাজগুলো নেকিতে বদলে দেবেন।"
           }
         ]
       },
@@ -409,11 +409,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "For someone who has fallen, the verses point toward return rather than exposure. Repent soon, as 4:17 says, and do not wait. Do not advertise the sin: al-Bukhari records from Abu Hurayrah (RA) that the Prophet ﷺ said all of his community will be pardoned except those who expose themselves, doing a wrong at night that Allah has covered and then telling people about it in the morning. Seek help from someone trustworthy if you need to, and set things right in your life, as aslaha asks.",
-            "bn": "যে পড়ে গেছে, আয়াতগুলো তাকে প্রকাশের দিকে নয়, ফিরে আসার দিকে দেখায়। ৪:১৭ আয়াত যেমন বলে, দ্রুত তওবা করুন, দেরি করবেন না। গুনাহের কথা প্রচার করবেন না। ইমাম বুখারী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ বলেছেন, তাঁর উম্মতের সবাই মাফ পাবে, তারা ছাড়া যারা নিজেদের প্রকাশ করে দেয়। রাতে কেউ একটা অন্যায় করল, আল্লাহ তা ঢেকে রাখলেন, আর সকালে সে নিজেই লোকদের তা বলে বেড়াল। দরকার হলে কোনো বিশ্বস্ত মানুষের সাহায্য নিন, আর আসলাহা শব্দটি যা চায়, নিজের জীবনটা ঠিক করে নিন।"
+            "bn": "যার পদস্খলন হয়েছে, আয়াতগুলো তাকে প্রকাশের দিকে নয়, ফিরে আসার দিকে ডাকে। ৪:১৭ আয়াত যেমন বলে, দ্রুত তওবা করুন, দেরি করবেন না। গুনাহের কথা প্রচার করবেন না। ইমাম বুখারী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ বলেছেন, তাঁর উম্মতের সবাই মাফ পাবে, তারা ছাড়া যারা নিজের গুনাহ নিজেই ফাঁস করে দেয়। রাতে কেউ একটা অন্যায় করল, আল্লাহ তা ঢেকে রাখলেন, আর সকালে সে নিজেই লোকদের তা বলে বেড়াল। দরকার হলে কোনো বিশ্বস্ত মানুষের সাহায্য নিন, আর আসলাহা শব্দটি যা চায়, সেভাবে নিজের জীবনটা ঠিক করে নিন।"
           },
           {
             "en": "For a family or community that knows of someone's past and has seen their repentance, fa-a'ridu anhuma is a command, not a suggestion. Stop bringing it up. Do not let it follow them into a marriage proposal, a job or a mosque committee as gossip. Ibn Kathir's gloss is plain: one who repents is like one with no sin. Treating a repentant person as permanently marked claims a severity that the verse, ending on the Accepting of Repentance and the Merciful, does not claim.",
-            "bn": "কোনো পরিবার বা সমাজ যদি কারও অতীত জানে, আর তার তওবাও দেখে থাকে, তাহলে ফাআরিদূ আনহুমা তাদের জন্য আদেশ, পরামর্শ নয়। প্রসঙ্গটা তোলা বন্ধ করুন। বিয়ের প্রস্তাবে, চাকরিতে বা মসজিদ কমিটিতে সেই কথা যেন কানাকানি হয়ে তার পিছু না নেয়। ইবনে কাসীরের ব্যাখ্যা সোজা: তওবাকারী এমন, যেন তার কোনো গুনাহ নেই। তওবাকারী মানুষকে চিরকালের জন্য দাগ লাগানো মনে করা মানে এমন কঠোরতা দাবি করা, যা আয়াত নিজে দাবি করে না। আয়াত তো শেষ হয়েছে তওবা কবুলকারী আর পরম দয়ালুর নামে।"
+            "bn": "কোনো পরিবার বা সমাজ যদি কারও অতীত জানে, আর তার তওবাও দেখে থাকে, তাহলে ফাআরিদূ আনহুমা তাদের জন্য আদেশ, পরামর্শ নয়। প্রসঙ্গটা তোলা বন্ধ করুন। বিয়ের প্রস্তাবে, চাকরিতে বা মসজিদ কমিটিতে সেই কথা যেন কানাকানি হয়ে তার পিছু না নেয়। ইবনে কাসীরের ব্যাখ্যা সোজা: তওবাকারী এমন, যেন তার কোনো গুনাহ নেই। তওবাকারী মানুষকে চিরদিনের দাগি বানিয়ে রাখা মানে এমন কঠোরতা দেখানো, যা আয়াত নিজেও দেখায়নি। আয়াত তো শেষ হয়েছে তওবা কবুলকারী আর পরম দয়ালুর নামে।"
           }
         ]
       },
@@ -425,27 +425,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Quran gives a du'a of return in 7:23, the words of Adam (AS) and his wife after their slip: our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers. It asks for exactly what 4:16 ends on, forgiveness and mercy. Alongside it, a short supplication in the vocabulary of these verses, offered as such and not as a transmitted text: O Allah, You are Tawwab and Rahim; accept my repentance, help me set right what I have spoiled, and cover my faults as I cover the faults of others.",
-            "bn": "কুরআন ৭:২৩ আয়াতে ফিরে আসার একটি দোয়া দিয়েছে। ভুলের পর আদম (আঃ) ও তাঁর স্ত্রীর কথা: হে আমাদের রব, আমরা নিজেদের ওপর জুলুম করেছি, আপনি যদি আমাদের মাফ না করেন আর দয়া না করেন, তাহলে আমরা অবশ্যই ক্ষতিগ্রস্তদের মধ্যে পড়ে যাব। এতে চাওয়া হয়েছে ঠিক সেই দুটি জিনিস, যা দিয়ে ৪:১৬ আয়াত শেষ হয়, মাফ আর রহমত। সঙ্গে এই আয়াতগুলোর শব্দে গড়া ছোট একটি দোয়া। এটা বানানো দোয়া, কোনো বর্ণিত পাঠ নয়: হে আল্লাহ, আপনি তাওওয়াব, আপনি রাহীম। আমার তওবা কবুল করুন, যা নষ্ট করেছি তা শুধরে নিতে সাহায্য করুন, আর আমি যেমন অন্যের দোষ ঢেকে রাখি, আপনিও আমার দোষ ঢেকে রাখুন।"
+            "bn": "কুরআন ৭:২৩ আয়াতে ফিরে আসার একটি দোয়া দিয়েছে। ভুলের পর আদম (আঃ) ও তাঁর স্ত্রীর কথা: হে আমাদের রব, আমরা নিজেদের ওপর জুলুম করেছি, আপনি যদি আমাদের মাফ না করেন আর দয়া না করেন, তাহলে আমরা অবশ্যই ক্ষতিগ্রস্তদের মধ্যে পড়ে যাব। ৪:১৬ আয়াত যে দুটি জিনিসে শেষ হয়, এ দোয়ায় ঠিক সেটাই চাওয়া হয়েছে: মাফ আর রহমত। সঙ্গে এই আয়াতগুলোর শব্দে সাজানো ছোট একটি দোয়া, যা কোনো বর্ণিত দোয়া নয়: হে আল্লাহ, আপনি তাওওয়াব, আপনি রাহীম। আমার তওবা কবুল করুন, যা নষ্ট করেছি তা শুধরে নিতে সাহায্য করুন, আর আমি যেমন অন্যের দোষ ঢেকে রাখি, আপনিও আমার দোষ ঢেকে রাখুন।"
           },
           {
             "en": "A second short supplication in the same vocabulary, also composed rather than transmitted, for the one who fears speaking wrongly about others: O Allah, keep my tongue from accusing anyone without proof, and keep my heart from loving that indecency should spread. These are prayers that can be said daily, not only after a fall.",
-            "bn": "একই শব্দভান্ডারে আরেকটি ছোট দোয়া, এটাও বানানো, বর্ণিত নয়। যে অন্যের ব্যাপারে ভুল কথা বলার ভয় করে, তার জন্য: হে আল্লাহ, প্রমাণ ছাড়া কাউকে অভিযুক্ত করা থেকে আমার জিহ্বা বাঁচিয়ে রাখুন, আর অশ্লীলতা ছড়িয়ে পড়ুক এমন চাওয়া থেকে আমার অন্তর বাঁচিয়ে রাখুন। এ দোয়াগুলো কেবল পড়ে যাওয়ার পর নয়, প্রতিদিনই পড়া যায়।"
+            "bn": "একই শব্দে সাজানো আরেকটি ছোট দোয়া, এটাও বর্ণিত নয়। যে অন্যের ব্যাপারে ভুল কথা বলার ভয় করে, তার জন্য: হে আল্লাহ, প্রমাণ ছাড়া কাউকে অভিযুক্ত করা থেকে আমার জিহ্বা বাঁচিয়ে রাখুন, আর অশ্লীলতা ছড়িয়ে পড়ুক এমন চাওয়া থেকে আমার অন্তর বাঁচিয়ে রাখুন। এ দোয়াগুলো কেবল গুনাহে পড়ার পর নয়, প্রতিদিনই পড়া যায়।"
           }
         ]
       },
       {
         "h": {
           "en": "Questions to Sit With",
-          "bn": "যে প্রশ্ন নিয়ে বসা যায়"
+          "bn": "ভেবে দেখার প্রশ্ন"
         },
         "p": [
           {
             "en": "When did I last pass on something about another person's private life that I could not have proved to anyone? Is there someone whose past I still bring up, though they have long since turned back to Allah? If Allah exposed what He has covered of mine, how would I want people to treat me afterwards, and do I treat others that way now?",
-            "bn": "শেষ কবে আমি কারও ব্যক্তিগত জীবন নিয়ে এমন কিছু বলেছি, যা কারও কাছেই প্রমাণ করতে পারতাম না? এমন কেউ কি আছে, যে বহু আগেই আল্লাহর দিকে ফিরে এসেছে, অথচ আমি এখনো তার অতীত টেনে আনি? আমার যা আল্লাহ ঢেকে রেখেছেন তা যদি প্রকাশ করে দিতেন, তারপর মানুষ আমার সঙ্গে কেমন আচরণ করুক, তা চাইতাম? আর আমি কি এখন অন্যদের সঙ্গে তেমন আচরণ করি?"
+            "bn": "শেষ কবে আমি কারও ব্যক্তিগত জীবন নিয়ে এমন কিছু বলেছি, যা কারও কাছেই প্রমাণ করতে পারতাম না? এমন কেউ কি আছে, যে বহু আগেই আল্লাহর দিকে ফিরে এসেছে, অথচ আমি এখনো তার অতীত টেনে আনি? আল্লাহ আমার যা ঢেকে রেখেছেন, তা যদি প্রকাশ করে দিতেন, তারপর মানুষ আমার সঙ্গে কেমন আচরণ করুক বলে চাইতাম? আর আমি কি এখন অন্যদের সঙ্গে সেভাবেই আচরণ করি?"
           },
           {
             "en": "Is there a wrong in my own life that I keep postponing repentance for, telling myself there will be time? When someone I know has repented and set things right, can I obey fa-a'ridu anhuma and truly leave the matter alone, as Ibn Kathir explains it, without reviling them afterwards? And what does it teach me about Allah that He brought His law in stages, and closed even these stern verses with His names the Accepting of Repentance and the Merciful?",
-            "bn": "আমার নিজের জীবনে কি এমন কোনো অন্যায় আছে, যার তওবা আমি সময় আছে ভেবে বারবার পিছিয়ে দিচ্ছি? পরিচিত কেউ তওবা করে নিজেকে শুধরে নিলে আমি কি ফাআরিদূ আনহুমা মেনে সত্যিই বিষয়টা ছেড়ে দিতে পারি, ইবনে কাসীরের ব্যাখ্যা অনুযায়ী পরে আর তাকে গালমন্দ না করে? আর আল্লাহ যে ধাপে ধাপে বিধান দিয়েছেন, এমন কঠিন আয়াতগুলোকেও শেষ করেছেন তওবা কবুলকারী আর পরম দয়ালু নামে, এ থেকে আল্লাহ সম্পর্কে আমি কী শিখি?"
+            "bn": "আমার নিজের জীবনে কি এমন কোনো অন্যায় আছে, যার তওবা আমি সময় আছে ভেবে বারবার পিছিয়ে দিচ্ছি? পরিচিত কেউ তওবা করে নিজেকে শুধরে নিলে আমি কি ফাআরিদূ আনহুমা মেনে সত্যিই বিষয়টা ছেড়ে দিতে পারি, ইবনে কাসীরের ব্যাখ্যা অনুযায়ী পরে আর তাকে গালমন্দ না করে? আল্লাহ বিধান দিয়েছেন ধাপে ধাপে, আর এমন কঠোর আয়াতও শেষ করেছেন তাঁর দুই নামে: তওবা কবুলকারী, পরম দয়ালু। এ থেকে আল্লাহ সম্পর্কে আমি কী শিখি?"
           }
         ]
       }
@@ -461,7 +461,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Nisa is Madinan. Its opening verses set out the rights of orphans and, in 4:11-12, the shares of inheritance, closing with the limits of Allah in 4:13-14. Then 4:15-16 address grave indecency and 4:17-18 the terms of repentance. At 4:19 comes the surah's first call of ya ayyuha alladhina amanu, O you who have believed. The talk turns from what a dead man leaves to how the living treat the women of the house, and right after this passage 4:22-24 name the women who may not be married.",
-            "bn": "সূরা নিসা মাদানি। শুরুর আয়াতগুলোতে এতিমদের হক, আর ৪:১১ ও ৪:১২ আয়াতে মিরাসের অংশ, যার শেষে ৪:১৩ ও ৪:১৪ আয়াতে আল্লাহর সীমারেখার কথা। তারপর ৪:১৫ ও ৪:১৬ আয়াতে গুরুতর অশ্লীলতার বিধান, আর ৪:১৭ ও ৪:১৮ আয়াতে তওবার শর্ত। ৪:১৯ আয়াতে এসে সূরায় প্রথমবার ডাক আসে, ইয়া আইয়ুহাল্লাযীনা আমানূ, হে ঈমানদারগণ। মৃত মানুষ কী রেখে গেল, সেই আলোচনা থেকে কথা ঘুরে যায় জীবিতরা ঘরের নারীদের সঙ্গে কেমন আচরণ করবে তার দিকে। এই অংশের ঠিক পরে ৪:২২ থেকে ৪:২৪ আয়াতে বলা আছে কোন নারীদের বিয়ে করা যাবে না।"
+            "bn": "সূরা নিসা মাদানী। শুরুর আয়াতগুলো এতিমদের হকের কথা বলে, ৪:১১ ও ৪:১২ আয়াত মিরাসের অংশ ঠিক করে, আর ৪:১৩ ও ৪:১৪ আয়াত সেগুলোকে বলে আল্লাহর সীমারেখা। তারপর ৪:১৫ ও ৪:১৬ আয়াতে আসে গুরুতর অশ্লীলতার বিধান, ৪:১৭ ও ৪:১৮ আয়াতে তওবার শর্ত। ৪:১৯ আয়াতে এসে সূরায় প্রথমবার ডাক আসে, ইয়া আইয়ুহাল্লাযীনা আমানূ, হে ঈমানদারগণ। মৃত মানুষ কী রেখে গেল, সেই আলোচনা থেকে কথা ঘুরে যায় জীবিতরা ঘরের নারীদের সঙ্গে কেমন আচরণ করবে তার দিকে। এই অংশের ঠিক পরে ৪:২২ থেকে ৪:২৪ আয়াতে বলা আছে কোন নারীদের বিয়ে করা যাবে না।"
           },
           {
             "en": "The verse also has a known occasion. Ibn Kathir cites al-Bukhari's report from Ibn Abbas (RA): before it, when a man died, his male relatives held the right to do as they wished with his wife. If one of them wished, he married her, or gave her in marriage, or kept her from marrying at all, for they held more right over her than her own family did. Then this verse was revealed. As-Sa'di describes the same custom and adds that she might be kept from marrying until she handed over part of her late husband's wealth or of her dowry.",
@@ -497,7 +497,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The exception, unless they commit a clear fahishah, drew more than one reading. Ibn Kathir reports from Ibn Mas'ud (RA), Ibn Abbas (RA) and a long list of early authorities that it means illicit sexual relations. He also reports from Ibn Abbas, Ikrimah and ad-Dahhak that it means defiance and disobedience. Ibn Jarir at-Tabari, he says, held the word to be general, covering all of these, and Ibn Kathir calls that view good. Al-Muyassar gives adultery as its example. What the exception permits in practice is a question of fiqh, and this page leaves it to the scholars.",
-            "bn": "ব্যতিক্রমটা, যদি না তারা স্পষ্ট ফাহিশা করে, এর একাধিক ব্যাখ্যা আছে। ইবনে কাসীর ইবনে মাসউদ (রাঃ), ইবনে আব্বাস (রাঃ) আর প্রথম যুগের দীর্ঘ এক তালিকা থেকে বর্ণনা করেন যে এর মানে অবৈধ যৌন সম্পর্ক। আবার ইবনে আব্বাস (রাঃ), ইকরিমা ও দাহহাক থেকে তিনি বর্ণনা করেন যে এর মানে নাফরমানি ও অবাধ্য আচরণ। তাঁর ভাষ্যে, ইবনে জারীর তাবারী শব্দটাকে ব্যাপক ধরেছেন, যার মধ্যে এসবই পড়ে, আর ইবনে কাসীর এই মতকে ভালো বলেছেন। আল-মুয়াসসার উদাহরণ হিসেবে জিনার কথা বলে। এই ব্যতিক্রম বাস্তবে কী অনুমতি দেয়, সে প্রশ্ন ফিকহের, আর এই লেখা তা আলেমদের হাতেই ছেড়ে দিচ্ছে।"
+            "bn": "যদি না তারা স্পষ্ট ফাহিশা করে, এই ব্যতিক্রমের একাধিক ব্যাখ্যা আছে। ইবনে কাসীর ইবনে মাসউদ (রাঃ), ইবনে আব্বাস (রাঃ) আর প্রথম যুগের আরও বহু আলেম থেকে বর্ণনা করেন যে এর মানে অবৈধ যৌন সম্পর্ক। আবার ইবনে আব্বাস (রাঃ), ইকরিমা ও দাহহাক থেকে তিনি বর্ণনা করেন যে এর মানে নাফরমানি ও অবাধ্য আচরণ। তাঁর ভাষ্যে, ইবনে জারীর তাবারী শব্দটাকে ব্যাপক ধরেছেন, যার মধ্যে এসবই পড়ে, আর ইবনে কাসীর এই মতকে ভালো বলেছেন। আল-মুয়াসসার উদাহরণ হিসেবে জিনার কথা বলে। এই ব্যতিক্রম বাস্তবে কী অনুমতি দেয়, সে প্রশ্ন ফিকহের, আর এই লেখা তা আলেমদের হাতেই ছেড়ে দিচ্ছে।"
           },
           {
             "en": "As-Sa'di draws out what karhan leaves open. The verse forbids taking a widow against her will, so if she herself agrees to marry a relative of her late husband, that is not what the verse forbids. The line concerning a father's wives is drawn separately, three verses later, in 4:22. He then reads the command to live in kindness as reaching every good word and deed, so that a husband does not harm his wife, does good to her, and is gracious in how he deals with her.",
@@ -505,7 +505,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "On the closing clause the commentators point the same way and name different goods. Ibn Kathir says a husband's patience in keeping a wife he dislikes brings good for him in this life and the Hereafter, and he cites Ibn Abbas (RA): that he may come to feel tenderness for her, and Allah may give him a child by her in whom there is much good. As-Sa'di adds that the man who holds his home together against his feelings gains fine character in the struggle, and that dislike very often turns to love. Al-Muyassar says: if you dislike them for some worldly reason, be patient.",
-            "bn": "শেষ বাক্যের ব্যাপারে মুফাসসিরদের দিক একই, তবে প্রত্যেকে আলাদা কল্যাণের কথা বলেন। ইবনে কাসীর বলেন, অপছন্দের স্ত্রীকে ধরে রাখার এই সবর স্বামীর জন্য দুনিয়া ও আখিরাতে কল্যাণ বয়ে আনে। তিনি ইবনে আব্বাস (রাঃ)-এর কথা আনেন: হয়তো স্ত্রীর প্রতি তার মমতা জাগবে, আর আল্লাহ তার গর্ভে তাকে এমন সন্তান দেবেন, যার মধ্যে অনেক কল্যাণ। আস-সাদী যোগ করেন, নিজের মনের বিরুদ্ধে যে সংসার ধরে রাখে, এই লড়াইয়ে সে উত্তম চরিত্র অর্জন করে, আর অপছন্দ অনেক সময়ই ভালোবাসায় বদলে যায়। আল-মুয়াসসার বলে: দুনিয়াবি কোনো কারণে তাদের অপছন্দ করলে সবর করো।"
+            "bn": "শেষ বাক্যের ব্যাখ্যায় মুফাসসিররা একই দিকে ইশারা করেন, তবে একেকজন একেক কল্যাণের কথা বলেন। ইবনে কাসীর বলেন, অপছন্দের স্ত্রীকে ধরে রাখার এই সবর স্বামীর জন্য দুনিয়া ও আখিরাতে কল্যাণ বয়ে আনে। তিনি ইবনে আব্বাস (রাঃ)-এর কথা আনেন: হয়তো স্ত্রীর প্রতি তার মমতা জাগবে, আর আল্লাহ তার গর্ভে তাকে এমন সন্তান দেবেন, যার মধ্যে অনেক কল্যাণ। আস-সাদী যোগ করেন, নিজের মনের বিরুদ্ধে যে সংসার ধরে রাখে, এই লড়াইয়ে সে উত্তম চরিত্র অর্জন করে, আর অপছন্দ অনেক সময়ই ভালোবাসায় বদলে যায়। আল-মুয়াসসার বলে: দুনিয়াবি কোনো কারণে তাদের অপছন্দ করলে সবর করো।"
           }
         ]
       },
@@ -528,7 +528,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Verses That Stand Beside It",
-          "bn": "পাশে দাঁড়ানো আয়াতগুলো"
+          "bn": "সঙ্গে মিলিয়ে পড়ার আয়াত"
         },
         "p": [
           {
