@@ -557,19 +557,19 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes by naming what has just been described: that is the guidance of Allah, by which He guides whom He wills; and whoever Allah leaves astray has no guide. So the shivering and the softening are not achievements. They are the guidance itself, arriving. Which is why 1:6 asks for exactly this in every rak'ah, and why a heart that responds to recitation should thank rather than congratulate itself.",
-            "bn": "আয়াতটি শেষ হয় সদ্য বর্ণিত জিনিসটির নাম দিয়ে: এই হলো আল্লাহর হিদায়াত, যাকে ইচ্ছা তিনি তা দিয়ে পথ দেখান; আর আল্লাহ যাকে পথহারা করেন তার কোনো পথপ্রদর্শক নেই। অর্থাৎ শিউরে ওঠা আর কোমল হয়ে যাওয়া কোনো অর্জন নয়। এগুলোই হিদায়াত, যা এসে পৌঁছাচ্ছে। এ কারণেই 1:6 প্রতিটি রাকআতে ঠিক এই জিনিসটিই চায়, আর এ কারণেই তিলাওয়াতে সাড়া দেওয়া হৃদয়ের নিজেকে বাহবা দেওয়ার বদলে শোকর করা উচিত।"
+            "bn": "এতক্ষণ যার কথা বলা হলো, আয়াতটি শেষে তার নাম বলে দেয়: এটাই আল্লাহর হিদায়াত, এ দিয়ে তিনি যাকে ইচ্ছা পথ দেখান; আর আল্লাহ যাকে পথহারা করেন, তার কোনো পথপ্রদর্শক নেই। তাহলে শিউরে ওঠা আর অন্তর নরম হওয়া কারও নিজের অর্জন নয়। এ তো হিদায়াতই, যা এসে পৌঁছাচ্ছে। এজন্যই প্রতি রাকআতে আমরা ১:৬ আয়াতে ঠিক এটাই চাই। আর এজন্যই তিলাওয়াতে যে অন্তর সাড়া দেয়, তার উচিত নিজেকে বাহবা না দিয়ে শোকর করা।"
           }
         ]
       },
       {
         "h": {
           "en": "Reading So It Reaches You",
-          "bn": "এমনভাবে পড়া যাতে তা পৌঁছায়"
+          "bn": "যেভাবে পড়লে অন্তরে পৌঁছায়"
         },
         "p": [
           {
             "en": "If nothing moves when you read, the verse locates the problem in the hardened heart of 39:22 rather than in the Book, and hardness has causes that can be worked on. Slow the recitation until the meaning has time to land, and read the translation of what you are reciting. 7:204 asks for attentive listening when the Quran is recited, which is the minimum the verse assumes. And take the closing note seriously: aim at the softening, not at a display of emotion.",
-            "bn": "পড়ার সময় যদি ভেতরে কিছুই না নড়ে, আয়াতটি সমস্যার জায়গা দেখায় 39:22 আয়াতের সেই শক্ত হয়ে যাওয়া হৃদয়ে, কিতাবে নয় — আর সেই কাঠিন্যের কারণ আছে, যেগুলো নিয়ে কাজ করা যায়। তিলাওয়াতের গতি কমান যতক্ষণ না অর্থ এসে পৌঁছানোর সময় পায়, আর আপনি যা পড়ছেন তার অনুবাদটিও পড়ুন। 7:204 কুরআন পাঠের সময় মনোযোগী শ্রবণ চায়, যা এই আয়াত অন্তত ধরে নেয়। আর শেষের ইঙ্গিতটি গুরুত্বের সঙ্গে নিন: লক্ষ্য হোক কোমল হয়ে যাওয়া, আবেগের প্রদর্শনী নয়।"
+            "bn": "পড়ার সময় ভেতরে যদি কিছুই না নড়ে, আয়াত বলছে সমস্যা কিতাবে নয়, ৩৯:২২ আয়াতের সেই শক্ত হয়ে যাওয়া অন্তরে। আর অন্তর শক্ত হওয়ার কারণ আছে, সেগুলো নিয়ে কাজ করা যায়। ধীরে তিলাওয়াত করুন, যাতে অর্থটা মনে বসার সময় পায়। যা পড়ছেন, তার অনুবাদও পড়ুন। ৭:২০৪ আয়াত চায়, কুরআন পড়া হলে মন দিয়ে শোনা হোক। এ আয়াত অন্তত এটুকু ধরে নিয়েই কথা বলছে। আর শেষের কথাটা গুরুত্ব দিয়ে নিন: লক্ষ্য হোক অন্তর নরম হওয়া, আবেগ দেখানো নয়।"
           }
         ]
       }
@@ -845,7 +845,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Others read the phrase by what it excludes. At-Tabari explains it as complete thanks and perfect praise to Allah alone, apart from every other object of worship. Al-Baghawi says the same: all praise is Allah's, and none of it belongs to the other gods men worship. The Muyassar renders it as complete and perfect praise to Allah alone. On this reading the praise mirrors the parable itself. The second man belongs undivided to one master, and the praise, too, is gathered to One and not shared out among partners.",
-            "bn": "অন্যরা বাক্যটি পড়েন এটি কী বাদ দেয় সেদিক থেকে। তাবারীর ব্যাখ্যায় এর মানে, পূর্ণ শোকর আর পরিপূর্ণ প্রশংসা কেবল আল্লাহর, অন্য সব উপাস্য বাদে। বাগাভীও একই কথা বলেন: সব প্রশংসা আল্লাহর, মানুষ যাদের পূজা করে তাদের কারও জন্য এর কিছুই নয়। মুয়াসসার অর্থ করে, পূর্ণাঙ্গ ও নিখুঁত প্রশংসা কেবল এক আল্লাহর। এই পাঠে প্রশংসা যেন দৃষ্টান্তেরই প্রতিচ্ছবি। দ্বিতীয় লোকটি অবিভক্তভাবে এক মনিবের। প্রশংসাও তেমনি একজনের কাছেই জমা হয়, অংশীদারদের মধ্যে ভাগ হয় না।"
+            "bn": "অন্যরা দেখেন, বাক্যটি কাকে বাদ রাখে। তাবারীর ব্যাখ্যায় এর মানে, পূর্ণ শোকর আর পরিপূর্ণ প্রশংসা কেবল আল্লাহর, অন্য সব উপাস্য বাদে। বাগাভীও একই কথা বলেন: সব প্রশংসা আল্লাহর, মানুষ যাদের পূজা করে তাদের কারও জন্য এর কিছুই নয়। মুয়াসসার অর্থ করে, পূর্ণাঙ্গ ও নিখুঁত প্রশংসা কেবল এক আল্লাহর। এই পাঠে প্রশংসা যেন দৃষ্টান্তেরই প্রতিচ্ছবি। দ্বিতীয় লোকটি অবিভক্তভাবে এক মনিবের। প্রশংসাও তেমনি একজনের কাছেই জমা হয়, অংশীদারদের মধ্যে ভাগ হয় না।"
           }
         ]
       },
@@ -861,7 +861,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse describes the polytheists to whom this parable was first put, as its commentators explain it, and it licenses nothing against any living person or community. It hands no one a label to pin on a neighbour. None of the tafsirs fetched for this verse attaches a hadith to it, so none is cited here. What the verse does hand every reader is a mirror. A person can affirm one God with the tongue and still live like the first man, pulled between the praise of people, private appetites and the fear of loss.",
-            "bn": "আয়াতটি সেই মুশরিকদের বর্ণনা দেয়, যাদের সামনে দৃষ্টান্তটি প্রথম পেশ হয়েছিল, তাফসীরকারেরা যেমন ব্যাখ্যা করেছেন। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কোনো অনুমতি দেয় না। প্রতিবেশীর গায়ে লাগানোর মতো কোনো তকমাও কারও হাতে তুলে দেয় না। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটি এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হলো না। আয়াত বরং প্রত্যেক পাঠকের হাতে একটি আয়না তুলে দেয়। মুখে এক আল্লাহর কথা বলেও মানুষ প্রথম লোকটির মতো বাঁচতে পারে, টানাটানির মধ্যে: মানুষের বাহবা, নিজের লোভ, আর হারানোর ভয়।"
+            "bn": "তাফসীরকারদের ব্যাখ্যা অনুযায়ী, আয়াতটি সেই মুশরিকদের কথা বলছে, যাদের সামনে দৃষ্টান্তটি প্রথম পেশ করা হয়েছিল। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। প্রতিবেশীর গায়ে লাগানোর মতো কোনো তকমাও কারও হাতে তুলে দেয় না। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটি এর সঙ্গে কোনো হাদিস যুক্ত করেনি, তাই এখানে কোনো হাদিস উদ্ধৃত হলো না। আয়াত বরং প্রত্যেক পাঠকের হাতে একটি আয়না তুলে দেয়। মুখে এক আল্লাহর কথা বলেও মানুষ প্রথম লোকটির মতো বাঁচতে পারে, টানাটানির মধ্যে: মানুষের বাহবা, নিজের লোভ, আর হারানোর ভয়।"
           },
           {
             "en": "The cure the verse offers is the second man's condition: to know what one's Master wants and to make that the single measure. That does not end all effort. The second man still works, and still slips. But his work has one direction, his mistakes have one door to return through, and his praise has one address. The question hal yastawiyan, are they alike, is therefore asked of each reader too, about the master he actually obeys when two demands collide.",
@@ -876,32 +876,32 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Question, Not a Statement",
-          "bn": "এটি প্রশ্ন, বিবৃতি নয়"
+          "bn": "প্রশ্ন, ঘোষণা নয়"
         },
         "p": [
           {
             "en": "The verse opens alaysa Allahu bikafin abdah: is not Allah sufficient for His servant? It is put as a question, and the Arabic form is one that expects the hearer to answer bala, yes indeed. Al-Muyassar supplies that answer out loud, reading the opening and replying that He will certainly suffice him in the matter of his religion and his world, and will push away from him whoever intends him harm.",
-            "bn": "আয়াতটি শুরু হয় 'আলাইসাল্লাহু বিকাফিন আবদাহু' দিয়ে: আল্লাহ কি তাঁর বান্দার জন্য যথেষ্ট নন? এটি প্রশ্ন হিসেবেই রাখা হয়েছে, আর আরবি এই গঠনটি শ্রোতার কাছ থেকে 'বালা' — হ্যাঁ, নিশ্চয়ই — এই উত্তরটিই প্রত্যাশা করে। তাফসীর মুয়াসসার সেই উত্তরটি স্পষ্ট করে দিয়ে বলে, তিনি অবশ্যই তার দ্বীন ও দুনিয়ার ব্যাপারে যথেষ্ট হবেন, আর যে তার ক্ষতি চায় তাকে তার থেকে সরিয়ে দেবেন।"
+            "bn": "আয়াতটি শুরু হয় 'আলাইসাল্লাহু বিকাফিন আবদাহু' দিয়ে: আল্লাহ কি তাঁর বান্দার জন্য যথেষ্ট নন? কথাটা এসেছে প্রশ্নের আকারে। আরবিতে এমন প্রশ্ন শ্রোতার কাছ থেকে একটাই উত্তর চায়: 'বালা', হ্যাঁ, অবশ্যই। তাফসীর মুয়াসসার সেই উত্তরটা মুখে বলে দেয়: অবশ্যই তিনি তার দ্বীন ও দুনিয়ার সব ব্যাপারে যথেষ্ট হবেন, আর যে তার ক্ষতি করতে চায়, তাকে তার কাছ থেকে হটিয়ে দেবেন।"
           },
           {
             "en": "A statement would have closed the matter for the reader. A question makes him produce the answer himself, out of what he already believes, which is why the surah uses the form twice in a row: 39:37 asks again, is not Allah Exalted in Might, Owner of Retribution? Fear is rarely cured by being contradicted from outside. It is more often cured by being made to say aloud the thing it already knows.",
-            "bn": "বিবৃতি হলে পাঠকের জন্য বিষয়টি সেখানেই শেষ হয়ে যেত। প্রশ্ন তাকে বাধ্য করে নিজের বিশ্বাস থেকে নিজেই উত্তরটি বের করে আনতে; এ কারণেই সূরাটি পরপর দুবার এই গঠন ব্যবহার করে — 39:37 আবার জিজ্ঞেস করে, আল্লাহ কি মহাপরাক্রমশালী, প্রতিশোধ গ্রহণকারী নন? বাইরে থেকে খণ্ডন করে ভয় খুব কমই সারে। বরং যা সে আগে থেকেই জানে তা মুখে বলিয়ে নিলেই বেশিরভাগ সময় তা সারে।"
+            "bn": "সরাসরি ঘোষণা দিলে পাঠকের জন্য কথা সেখানেই শেষ হয়ে যেত। প্রশ্ন পাঠককে দিয়েই উত্তরটা বের করিয়ে নেয়, তাঁর নিজের বিশ্বাস থেকে। এজন্যই সূরাটি পরপর দুবার এভাবে প্রশ্ন করেছে। ৩৯:৩৭ আয়াতে আবার জিজ্ঞাসা: আল্লাহ কি মহাপরাক্রমশালী, প্রতিশোধ গ্রহণকারী নন? বাইরে থেকে কেউ ভয়টা উড়িয়ে দিলে তা খুব কমই কাটে। বেশির ভাগ সময় ভয় কাটে তখন, যখন মনের জানা কথাটাই মুখে উচ্চারণ করানো হয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Sufficient, With an Extra Letter",
-          "bn": "যথেষ্ট, একটি বাড়তি অক্ষরসহ"
+          "bn": "যথেষ্ট, সঙ্গে এক বাড়তি অক্ষর"
         },
         "p": [
           {
             "en": "Kafin is the active participle of kafa, to suffice: the one who is enough. It arrives here as bikafin, with a ba prefixed to it, and the grammarians class that ba as an added letter, put in after a negative interrogative purely for force. Nothing in the sense is changed and something in the weight is. The claim is not that Allah helps a servant along; it is that He is, by Himself, the whole of what the servant needs.",
-            "bn": "'কাফিন' হলো 'কাফা' অর্থাৎ যথেষ্ট হওয়া — এই ক্রিয়ার কর্তৃবাচক বিশেষণ: যিনি যথেষ্ট। এখানে শব্দটি এসেছে 'বিকাফিন' রূপে, তার আগে একটি 'বা' যুক্ত হয়ে; ব্যাকরণবিদগণ এই 'বা'-কে অতিরিক্ত অক্ষর হিসেবে গণ্য করেন, যা নেতিবাচক প্রশ্নের পর কেবল জোর বাড়াতেই যুক্ত হয়। অর্থে কিছু বদলায় না, ওজনে বদলায়। দাবিটি এই নয় যে আল্লাহ বান্দাকে সাহায্য করেন; দাবিটি হলো, বান্দার যা কিছু দরকার তার পুরোটাই তিনি একাই।"
+            "bn": "'কাফিন' শব্দটি 'কাফা' (যথেষ্ট হওয়া) থেকে কর্তাবাচক রূপ: যিনি যথেষ্ট। এখানে শব্দটি এসেছে 'বিকাফিন' হয়ে, সামনে একটি 'বা' জুড়ে। ব্যাকরণবিদেরা এই 'বা'-কে বাড়তি অক্ষর বলেন। নেতিবাচক প্রশ্নের পরে এটি বসে শুধু জোর বাড়ানোর জন্য। অর্থ একটুও বদলায় না, তবে কথার ওজন বাড়ে। দাবিটা এই নয় যে আল্লাহ বান্দাকে একটু সাহায্য করেন। দাবি হলো, বান্দার যা কিছু দরকার, তিনি একাই তার সবটুকু।"
           },
           {
             "en": "Then abdah, His servant, singular and possessed. Ibn Kathir notes that some read the word in the plural, His servants. The mufassirun divide accordingly over who is meant: the Prophet ﷺ in particular, which is how the app's English glosses it, or any servant of Allah at all. Ibn Kathir keeps both open by defining the servant as the one who worships Him and relies upon Him, which is a description rather than a name.",
-            "bn": "এরপর 'আবদাহু' — তাঁর বান্দা, একবচন ও সম্বন্ধযুক্ত। ইবনে কাসীর উল্লেখ করেন, কেউ কেউ শব্দটি বহুবচনে পড়েন — 'ইবাদাহু', তাঁর বান্দারা। সেই অনুযায়ী মুফাসসিরগণ ভাগ হয়ে যান কাকে বোঝানো হয়েছে তা নিয়ে: বিশেষভাবে নবী ﷺ — অ্যাপের ইংরেজি অনুবাদ যেভাবে ব্যাখ্যা করে — নাকি আল্লাহর যেকোনো বান্দা। ইবনে কাসীর দুটোই খোলা রাখেন, বান্দাকে সংজ্ঞায়িত করে এভাবে: যে তাঁর ইবাদত করে ও তাঁর উপর ভরসা করে। এটি নাম নয়, বর্ণনা।"
+            "bn": "এরপর 'আবদাহু', তাঁর বান্দা: একবচন, আর আল্লাহর সঙ্গে সম্বন্ধযুক্ত। ইবনে কাসীর জানান, কেউ কেউ শব্দটি বহুবচনে পড়েন: 'ইবাদাহু', তাঁর বান্দারা। এখানে কাকে বোঝানো হয়েছে, তা নিয়ে তাই মুফাসসিরদের দুই মত। কারও মতে বিশেষভাবে নবী ﷺ, অ্যাপের ইংরেজি অনুবাদও সেভাবেই অর্থ করেছে। কারও মতে আল্লাহর যেকোনো বান্দা। ইবনে কাসীর দুটো পথই খোলা রাখেন। তিনি বান্দার পরিচয় দেন এভাবে: যে তাঁর ইবাদত করে আর তাঁর উপর ভরসা করে। এটা কারও নাম নয়, একটা গুণের বর্ণনা।"
           }
         ]
       },
@@ -913,11 +913,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The next clause turns and addresses the Prophet ﷺ directly: and they threaten you with those besides Him. The verb is yukhawwifunaka, a form that means to make someone afraid, not merely to be frightening but to work at frightening. Ibn Kathir explains the reference plainly, that the idolaters tried to scare the Messenger of Allah ﷺ with their idols and with the gods they called upon besides Allah.",
-            "bn": "পরের অংশটি ঘুরে সরাসরি নবী ﷺ-কে সম্বোধন করে: আর তারা তোমাকে তাঁকে ছাড়া অন্যদের ভয় দেখায়। ক্রিয়াপদটি 'ইউখাউয়িফূনাকা' — এমন এক গঠন যার অর্থ কাউকে ভীত করা; নিছক ভীতিকর হওয়া নয়, বরং ভয় ধরানোর জন্য পরিশ্রম করা। ইবনে কাসীর প্রসঙ্গটি স্পষ্ট করে বলেন, মুশরিকরা আল্লাহর রাসূল ﷺ-কে তাদের মূর্তি এবং আল্লাহ ছাড়া যেসব উপাস্যকে তারা ডাকত সেগুলোর ভয় দেখাতে চাইত।"
+            "bn": "পরের অংশে আল্লাহ সরাসরি নবী ﷺ-কে সম্বোধন করছেন: আর তারা তোমাকে তাঁকে ছাড়া অন্যদের ভয় দেখায়। ক্রিয়াটি 'ইউখাউয়িফূনাকা'। এর অর্থ কাউকে ভয় পাওয়ানো। শুধু ভয়ংকর হওয়া নয়, বরং ভয় ধরানোর পেছনে লেগে থাকা। ইবনে কাসীর প্রসঙ্গটা সোজাসুজি বলে দেন: মুশরিকরা আল্লাহর রাসূল ﷺ-কে তাদের মূর্তি আর আল্লাহ ছাড়া যেসব উপাস্যকে তারা ডাকত, সেগুলোর ভয় দেখাতে চাইত।"
           },
           {
             "en": "Read that against the opening question and the two halves lock together. One party is offering a steady supply of fear; the verse asks whether the Supplier of everything is not already enough. Notice also that the sentence never argues that the idols are harmless in the abstract. It reframes the transaction instead: the question of who can hurt you is settled by first settling the question of who is sufficient for you.",
-            "bn": "শুরুর প্রশ্নটির পাশে রেখে পড়লে দুই অংশ একসঙ্গে আটকে যায়। এক পক্ষ ভয়ের নিরবচ্ছিন্ন জোগান দিচ্ছে; আয়াতটি জিজ্ঞেস করে, সবকিছুর জোগানদাতা কি ইতিমধ্যেই যথেষ্ট নন? আরও লক্ষ করুন, বাক্যটি কোথাও বিমূর্তভাবে যুক্তি দেয় না যে মূর্তিগুলো ক্ষতি করতে অক্ষম। বরং এটি প্রশ্নের কাঠামোই বদলে দেয়: কে তোমার ক্ষতি করতে পারে সেই প্রশ্নের মীমাংসা হয় আগে এই প্রশ্নের মীমাংসা করে যে কে তোমার জন্য যথেষ্ট।"
+            "bn": "শুরুর প্রশ্নের পাশে রেখে পড়লে দুই অংশ খাপে খাপে মিলে যায়। এক পক্ষ অবিরাম ভয়ের জোগান দিয়ে যাচ্ছে। আর আয়াত জিজ্ঞেস করছে, যিনি সবকিছুর জোগান দেন, তিনিই কি যথেষ্ট নন? আরও লক্ষ করুন, মূর্তিগুলো যে ক্ষতি করতে পারে না, তা নিয়ে আয়াত আলাদা কোনো তাত্ত্বিক যুক্তি দেয় না। বরং প্রশ্নটাকেই নতুন করে সাজায়। কে আপনার ক্ষতি করতে পারে, তার মীমাংসা হয়ে যায় তখনই, যখন আগে ঠিক হয়ে যায় কে আপনার জন্য যথেষ্ট।"
           }
         ]
       },
@@ -929,27 +929,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The surah does not leave the question hanging. 39:38 reports that if these same people were asked who created the heavens and the earth they would say Allah, and the Prophet ﷺ is then told to put the follow-up: if Allah intended me harm, could the things you invoke remove it, or if He intended me mercy, could they withhold it? Their own admission takes apart their own threat.",
-            "bn": "সূরাটি প্রশ্নটিকে ঝুলিয়ে রাখে না। 39:38 জানায়, এই লোকদেরই যদি জিজ্ঞেস করা হয় আসমান ও যমীন কে সৃষ্টি করেছেন, তারা বলবে আল্লাহ; এরপর নবী ﷺ-কে বলা হয় পরের প্রশ্নটি রাখতে: আল্লাহ যদি আমার ক্ষতি চান, তোমরা যাদের ডাকো তারা কি তা সরাতে পারবে; আর তিনি যদি আমার প্রতি রহমত চান, তারা কি তা ঠেকাতে পারবে? তাদের নিজেদের স্বীকারোক্তিই তাদের নিজেদের হুমকি ভেঙে দেয়।"
+            "bn": "সূরাটি প্রশ্নটা ঝুলিয়ে রাখে না। ৩৯:৩৮ আয়াত জানায়, এই লোকদেরই যদি জিজ্ঞেস করা হয় আসমান ও যমীন কে সৃষ্টি করেছেন, তারা বলবে, আল্লাহ। তারপর আল্লাহ নবী ﷺ-কে পরের প্রশ্নটা করতে বলেন: আল্লাহ যদি আমার ক্ষতি চান, তোমরা যাদের ডাকো তারা কি সেই ক্ষতি সরাতে পারবে? আর তিনি যদি আমার প্রতি রহমত চান, তারা কি তা আটকাতে পারবে? তাদের নিজেদের স্বীকারোক্তিই তাদের হুমকিকে ভেঙে দেয়।"
           },
           {
             "en": "Then the answer is given as a command to speak it: qul hasbiya Allah, sufficient for me is Allah, upon Him rely those who rely. The question of 39:36 becomes a sentence on the believer's own tongue two verses later. 65:3 states the same thing as a standing rule rather than a reply, that whoever relies upon Allah, He is sufficient for him. Sufficiency is promised to the reliance, not to the absence of threats.",
-            "bn": "এরপর উত্তরটি আসে সেটি উচ্চারণ করার আদেশ হিসেবে: 'কুল হাসবিয়াল্লাহ' — বলো, আমার জন্য আল্লাহই যথেষ্ট; নির্ভরকারীরা তাঁর উপরই নির্ভর করে। 39:36-এর প্রশ্নটি দুই আয়াত পরেই মুমিনের নিজের জিহ্বার একটি বাক্যে পরিণত হয়। 65:3 একই কথা বলে জবাব হিসেবে নয়, স্থায়ী নীতি হিসেবে: যে আল্লাহর উপর ভরসা করে, তিনিই তার জন্য যথেষ্ট। যথেষ্টতার প্রতিশ্রুতি ভরসার সঙ্গে বাঁধা, হুমকির অনুপস্থিতির সঙ্গে নয়।"
+            "bn": "এরপর উত্তরটা আসে মুখে বলার আদেশ হয়ে: 'কুল হাসবিয়াল্লাহ', বলো, আমার জন্য আল্লাহই যথেষ্ট; ভরসাকারীরা তাঁর উপরই ভরসা করে। ৩৯:৩৬ আয়াতের প্রশ্নটা দুই আয়াত পরেই মুমিনের নিজের মুখের কথা হয়ে যায়। ৬৫:৩ আয়াত একই কথা বলে, তবে জবাব হিসেবে নয়, স্থায়ী নিয়ম হিসেবে: যে আল্লাহর উপর ভরসা করে, তিনিই তার জন্য যথেষ্ট। আল্লাহ যথেষ্ট হওয়ার ওয়াদা ভরসার সঙ্গে বাঁধা, হুমকি না থাকার সঙ্গে নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Sufficiency Tied to Servanthood",
-          "bn": "যথেষ্টতা বান্দা হওয়ার সঙ্গে বাঁধা"
+          "bn": "বান্দার জন্যই তিনি যথেষ্ট"
         },
         "p": [
           {
             "en": "The verse does not say sufficient for a person; it says sufficient for His servant. The sufficiency is stated inside a relation, and the relation is servitude. Ibn Kathir cites under this verse the counsel narrated from Ibn Abbas (RA), in which the Prophet ﷺ said: be mindful of Allah and He will protect you, be mindful of Allah and you will find Him before you. Guarding the relationship is what puts a person inside the promise.",
-            "bn": "আয়াতটি বলে না 'একজন মানুষের জন্য যথেষ্ট'; বলে 'তাঁর বান্দার জন্য যথেষ্ট'। যথেষ্টতার কথাটি একটি সম্পর্কের ভেতরে বলা হয়েছে, আর সম্পর্কটি হলো দাসত্ব। ইবনে কাসীর এই আয়াতের নিচে ইবনে আব্বাস (রাঃ) থেকে বর্ণিত সেই উপদেশটি উল্লেখ করেন, যেখানে নবী ﷺ বলেন: আল্লাহকে হেফাযত করো, তিনি তোমাকে হেফাযত করবেন; আল্লাহকে হেফাযত করো, তুমি তাঁকে তোমার সামনে পাবে। সম্পর্কটি রক্ষা করাই মানুষকে প্রতিশ্রুতির ভেতরে ঢোকায়।"
+            "bn": "আয়াত বলে না 'মানুষের জন্য যথেষ্ট', বলে 'তাঁর বান্দার জন্য যথেষ্ট'। অর্থাৎ যথেষ্ট হওয়ার কথাটা এসেছে একটা সম্পর্কের ভেতরে, আর সম্পর্কটা বন্দেগির। ইবনে কাসীর এ আয়াতের আলোচনায় ইবনে আব্বাস (রাঃ) থেকে বর্ণিত সেই নসীহত উল্লেখ করেন, যেখানে নবী ﷺ বলেছেন: আল্লাহর হেফাজত করো, তিনি তোমার হেফাজত করবেন। আল্লাহর হেফাজত করো, তাঁকে তোমার সামনে পাবে। এই সম্পর্ক রক্ষা করলেই মানুষ ওই ওয়াদার আওতায় আসে।"
           },
           {
             "en": "The verse closes on its hardest clause, and whoever Allah leaves astray, for him there is no guide, which is word for word how 39:23 ends earlier in the same surah. Lived, the whole thing is small enough to carry. When someone is working on your fear, do not spend the day arguing the threat down; put the verse's own question back to yourself, and then say what 39:38 tells you to say.",
-            "bn": "আয়াতটি শেষ হয় তার কঠিনতম বাক্যাংশে — আর আল্লাহ যাকে পথহারা করেন, তার কোনো পথপ্রদর্শক নেই — যা হুবহু সেই শব্দেই একই সূরার আগের অংশে 39:23-এর সমাপ্তি। জীবনে প্রয়োগের দিক থেকে গোটা বিষয়টি বহন করার মতোই ছোট। কেউ যখন আপনার ভয় নিয়ে কাজ করছে, সারাদিন হুমকিটি খণ্ডন করে কাটাবেন না; আয়াতের নিজের প্রশ্নটি নিজেকেই ফিরিয়ে জিজ্ঞেস করুন, তারপর 39:38 যা বলতে বলে তা-ই বলুন।"
+            "bn": "আয়াত শেষ হয় সবচেয়ে কঠিন কথাটি দিয়ে: আর আল্লাহ যাকে পথহারা করেন, তার কোনো পথপ্রদর্শক নেই। এই সূরারই আগে ৩৯:২৩ আয়াত হুবহু এই কথায় শেষ হয়েছে। জীবনে কাজে লাগানোর জন্য পুরো ব্যাপারটা ছোট, সহজেই সঙ্গে রাখা যায়। কেউ যখন আপনার মনে ভয় ঢোকানোর চেষ্টায় লেগে থাকে, সারাদিন তার হুমকি খণ্ডন করে কাটাবেন না। আয়াতের প্রশ্নটাই নিজেকে করুন, তারপর ৩৯:৩৮ আয়াত যা বলতে বলে, তা-ই বলুন।"
           }
         ]
       }
@@ -1001,7 +1001,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Anta tahkumu bayna 'ibadika fi ma kanu fihi yakhtalifun: You will judge between Your servants in what they used to differ over. Ibn Kathir places the differing in this world and the verdict on the day they are raised from their graves. At-Tabari names the quarrel's content: what they said about Allah, His greatness and His authority, among other differences. The Muyassar adds faith in Him and His Messenger. At-Tabari then voices the prayer from the believers' side: You will decide that day between us and these idolaters.",
-            "bn": "আনতা তাহকুমু বাইনা ইবাদিকা ফী মা কানু ফীহি ইয়াখতালিফূন: তোমার বান্দারা যে বিষয়ে মতভেদ করত, তুমিই তাদের মধ্যে তার ফয়সালা করবে। ইবন কাসীরের মতে মতভেদটা দুনিয়ায়, আর ফয়সালা সেই দিন, যেদিন তাদের কবর থেকে উঠিয়ে হাজির করা হবে। তাবারী বিবাদের বিষয়টাও বলে দেন: আল্লাহ সম্পর্কে, তাঁর মহত্ত্ব ও কর্তৃত্ব সম্পর্কে তারা যা বলত, সঙ্গে অন্যান্য মতভেদ। মুয়াসসার এর সঙ্গে যোগ করে আল্লাহ ও তাঁর রাসূলের প্রতি ঈমানের প্রশ্ন। তারপর তাবারী মুমিনদের মুখে দোয়াটা বলান: সেদিন তুমি আমাদের আর এই মুশরিকদের মধ্যে ফয়সালা করে দেবে।"
+            "bn": "আনতা তাহকুমু বাইনা ইবাদিকা ফী মা কানু ফীহি ইয়াখতালিফূন: আপনার বান্দারা যে বিষয়ে মতভেদ করত, আপনিই তাদের মধ্যে তার ফয়সালা করবেন। ইবন কাসীরের মতে মতভেদটা দুনিয়ায়, আর ফয়সালা সেই দিন, যেদিন তাদের কবর থেকে উঠিয়ে হাজির করা হবে। তাবারী বিবাদের বিষয়টাও বলে দেন: আল্লাহ সম্পর্কে, তাঁর মহত্ত্ব ও কর্তৃত্ব সম্পর্কে তারা যা বলত, সঙ্গে অন্যান্য মতভেদ। মুয়াসসার এর সঙ্গে যোগ করে আল্লাহ ও তাঁর রাসূলের প্রতি ঈমানের প্রশ্ন। তারপর তাবারী মুমিনদের মুখে দোয়াটা বলান: সেদিন আপনি আমাদের আর এই মুশরিকদের মধ্যে ফয়সালা করে দেবেন।"
           },
           {
             "en": "As-Sa'di sharpens the point. Among the greatest differences, he writes, is that between those who single Allah out sincerely, who say they hold the truth and the best end is theirs, and the idolaters who set up rivals to Him, rejoice at their gods' mention and recoil at His, and still claim the truth and the best end for themselves. Both sides make the same claim. He cites 22:17, where Allah will decide between believers, Jews, Sabians, Christians, Magians and idolaters on the Day of Resurrection.",
@@ -1017,11 +1017,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir, al-Qurtubi and al-Baghawi all cite this report from Sahih Muslim (770). Abu Salamah ibn 'Abd ar-Rahman asked A'isha (RA) how the Prophet ﷺ opened his prayer when he rose at night. She said: 'When he rose at night he opened his prayer: O Allah, Lord of Jibril, Mika'il and Israfil, Originator of the heavens and the earth, Knower of the unseen and the witnessed, You judge between Your servants in what they used to differ over. Guide me, by Your leave, to the truth in what has been differed over; You guide whom You will to a straight path.'",
-            "bn": "ইবন কাসীর, কুরতুবী ও বাগাভী তিনজনই এখানে সহীহ মুসলিমের (৭৭০) এই বর্ণনাটি আনেন। আবূ সালামা ইবন আবদুর রহমান আয়িশা (রাঃ)-কে জিজ্ঞেস করলেন, রাতে উঠে নবী ﷺ কী দিয়ে নামায শুরু করতেন। তিনি বললেন: রাতে উঠলে তিনি এই বলে নামায শুরু করতেন, 'হে আল্লাহ, জিবরীল, মীকাঈল ও ইসরাফীলের রব, আকাশ ও পৃথিবীর স্রষ্টা, অদৃশ্য ও দৃশ্যের জ্ঞাতা, তোমার বান্দারা যে বিষয়ে মতভেদ করত, তুমিই তাদের মধ্যে তার ফয়সালা করো। যে সত্য নিয়ে মতভেদ হয়েছে, তোমার অনুমতিতে আমাকে সেদিকে পথ দেখাও। তুমি যাকে চাও, সরল পথে পরিচালিত করো।'"
+            "bn": "ইবন কাসীর, কুরতুবী ও বাগাভী তিনজনই এখানে সহীহ মুসলিমের (৭৭০) এই বর্ণনাটি আনেন। আবূ সালামা ইবন আবদুর রহমান আয়িশা (রাঃ)-কে জিজ্ঞেস করলেন, রাতে উঠে নবী ﷺ কী দিয়ে নামাজ শুরু করতেন। তিনি বললেন: রাতে উঠলে তিনি এই বলে নামাজ শুরু করতেন, 'হে আল্লাহ, জিবরীল, মীকাঈল ও ইসরাফীলের রব, আকাশ ও পৃথিবীর স্রষ্টা, অদৃশ্য ও দৃশ্যের জ্ঞাতা, আপনার বান্দারা যে বিষয়ে মতভেদ করত, আপনিই তাদের মধ্যে তার ফয়সালা করেন। যে সত্য নিয়ে মতভেদ হয়েছে, আপনার অনুমতিতে আমাকে সেদিকে পথ দেখান। আপনি যাকে চান, সরল পথে পরিচালিত করেন।'"
           },
           {
             "en": "Muslim placed the report in his Sahih and gave it no separate grading. The prayer keeps the verse's words, opens with the Lord of three angels, and closes with a request the verse does not make: guide me to the truth in what has been differed over. The verse leaves the verdict with Allah; the prayer also asks for guidance now. The Muyassar folds that request into its paraphrase and calls this among his ﷺ supplications, teaching servants to take refuge in Allah and call on Him by His most beautiful names and highest attributes.",
-            "bn": "মুসলিম বর্ণনাটি তাঁর সহীহ গ্রন্থে এনেছেন, আলাদা কোনো মান উল্লেখ করেননি। দোয়াটি আয়াতের শব্দগুলো রেখেছে। শুরুতে যোগ হয়েছে তিনজন ফেরেশতার রবের নাম, আর শেষে এমন এক চাওয়া, যা আয়াতে নেই: মতভেদের বিষয়ে আমাকে সত্যের পথ দেখাও। আয়াত ফয়সালাটা আল্লাহর হাতে রাখে। দোয়া তার সঙ্গে এখনই হিদায়াত চায়। মুয়াসসার এই চাওয়াটুকু নিজের ব্যাখ্যার ভেতরেই জুড়ে দেয়। সঙ্গে বলে, এটি নবী ﷺ-এর দোয়াগুলোর একটি, আর এতে বান্দাদের শেখানো হয়েছে আল্লাহর আশ্রয় নিতে এবং তাঁর সুন্দরতম নাম ও সর্বোচ্চ গুণাবলি ধরে তাঁকে ডাকতে।"
+            "bn": "মুসলিম বর্ণনাটি তাঁর সহীহ গ্রন্থে এনেছেন, আলাদা কোনো মান উল্লেখ করেননি। দোয়াটি আয়াতের শব্দগুলো রেখেছে। শুরুতে যোগ হয়েছে তিনজন ফেরেশতার রবের নাম, আর শেষে এমন এক চাওয়া, যা আয়াতে নেই: মতভেদের বিষয়ে আমাকে সত্যের পথ দেখান। আয়াত ফয়সালাটা আল্লাহর হাতে রাখে। দোয়া তার সঙ্গে এখনই হিদায়াত চায়। মুয়াসসার এই চাওয়াটুকু নিজের ব্যাখ্যার ভেতরেই জুড়ে দেয়। সঙ্গে বলে, এটি নবী ﷺ-এর দোয়াগুলোর একটি, আর এতে বান্দাদের শেখানো হয়েছে আল্লাহর আশ্রয় নিতে এবং তাঁর সুন্দরতম নাম ও সর্বোচ্চ গুণাবলি ধরে তাঁকে ডাকতে।"
           }
         ]
       },
