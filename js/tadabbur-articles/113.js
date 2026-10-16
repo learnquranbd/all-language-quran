@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Qul a'udhu bi-rabbi al-falaq: say, I seek refuge in the Lord of the daybreak. In Arabic the verse is four words, and the first is an order to speak. The Muyassar opens its gloss by naming the addressee: say, O Messenger. At-Tabari spells the sentence out as Allah's instruction to His Prophet ﷺ: say, O Muhammad, I seek protection with the Lord of al-falaq from the evil of what He created. That evil is named in the verse that follows, 113:2; this article stays with the first four words.",
-            "bn": "কুল আঊযু বিরাব্বিল ফালাক: বলো, আমি আশ্রয় চাই ভোরের রবের কাছে। আরবিতে আয়াতটি চার শব্দের, আর প্রথম শব্দটাই কথা বলার আদেশ। মুয়াসসার ব্যাখ্যা শুরু করে যাঁকে বলা হচ্ছে তাঁকে দিয়ে: হে রাসূল, বলুন। তাবারী পুরো বাক্যটা খুলে বলেন আল্লাহর পক্ষ থেকে তাঁর নবী ﷺ-এর প্রতি নির্দেশ হিসেবে: হে মুহাম্মাদ, বলুন, তিনি যা সৃষ্টি করেছেন তার অনিষ্ট থেকে আমি ফালাকের রবের কাছে সুরক্ষা চাই। সে অনিষ্টের কথা আসে পরের আয়াত ১১৩:২-এ। এ লেখা থাকবে প্রথম চারটি শব্দের সঙ্গেই।"
+            "bn": "কুল আঊযু বিরাব্বিল ফালাক: বলো, আমি আশ্রয় চাই ভোরের রবের কাছে। আরবিতে আয়াতটি চার শব্দের, আর প্রথম শব্দটাই কথা বলার আদেশ। মুয়াসসার ব্যাখ্যার শুরুতেই বলে দেয় কাকে বলা হচ্ছে: হে রাসূল, বলুন। তাবারী পুরো বাক্যটা খুলে বলেন তাঁর নবী ﷺ-এর প্রতি আল্লাহর নির্দেশ হিসেবে: হে মুহাম্মাদ, বলুন, তিনি যা সৃষ্টি করেছেন তার অনিষ্ট থেকে আমি ফালাকের রবের কাছে সুরক্ষা চাই। সে অনিষ্টের কথা আসে পরের আয়াত ১১৩:২-এ। এ লেখা থাকবে প্রথম চারটি শব্দের সঙ্গেই।"
           },
           {
             "en": "Ibn Kathir opens the surah with Ubayy ibn Ka'b's answer about it, and notes that al-Bukhari records it through Qutayba. In the quranx English of Sahih al-Bukhari 4976: Narrated Zirr bin Hubaish: I asked Ubai bin Ka`b regarding the two Muwwidhat (Surats of taking refuge with Allah). He said, \"I asked the Prophet (ﷺ) about them, He said, 'These two Surats have been recited to me and I have recited them (and are present in the Qur'an).' So, we say as Allah's Messenger (ﷺ) said (i.e., they are part of the Qur'an.\"",
@@ -29,7 +29,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The page's Arabic is plainer than its English: qila li, fa-qultu, it was said to me, so I said. The English above gives it as recited to me and I have recited them. Either way, the Prophet's ﷺ answer in this report is given as something said to him and then said by him. The article reads nothing further into the difference between the two renderings.",
-            "bn": "পাতার আরবি পাঠ ইংরেজির চেয়ে সাদামাটা: কীলা লী, ফাকুলতু। আমাকে বলা হয়েছে, তাই আমি বলেছি। ওপরের ইংরেজিতে আছে, আমার কাছে তিলাওয়াত করা হয়েছে আর আমি তিলাওয়াত করেছি। যেভাবেই পড়া হোক, এ বর্ণনায় নবী ﷺ-এর জবাব এসেছে এমন কথা হয়ে, যা তাঁকে বলা হয়েছিল আর তিনি তা বলেছেন। দুই অনুবাদের পার্থক্য থেকে এ লেখা আর কিছু টেনে আনে না।"
+            "bn": "পাতার আরবি পাঠ ইংরেজির চেয়ে সাদামাটা: কীলা লী, ফাকুলতু, আমাকে বলা হয়েছে, তাই আমি বলেছি। ওপরের ইংরেজিতে আছে, আমার কাছে তিলাওয়াত করা হয়েছে আর আমি তিলাওয়াত করেছি। যেভাবেই পড়ি, এ বর্ণনায় নবী ﷺ-এর জবাবটা একই রকম: কথাটা আগে তাঁকে বলা হয়েছে, তারপর তিনি নিজে বলেছেন। দুই অনুবাদের পার্থক্য থেকে এ লেখা আর কিছু টেনে আনে না।"
           }
         ]
       },
@@ -45,7 +45,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif al-Qur'an sets the verb inside what it calls a settled doctrine of every believer: Allah is the intrinsic cause of every gain and loss, in this world and the next. So, it says, the only fortification against physical and spiritual harm is for a person to place himself under Allah's protection, and by his actions try to make himself fit to enter that shelter. It adds that this surah teaches refuge from worldly calamities, and the companion surah refuge from those of the Hereafter.",
-            "bn": "মাআরিফুল কুরআন ক্রিয়াটিকে বসায় এমন এক আকীদার ভেতরে, যাকে সে বলে প্রত্যেক মুমিনের মীমাংসিত বিশ্বাস। দুনিয়া ও আখিরাতের সব লাভ-ক্ষতির আসল কারণ আল্লাহ। তাই তার মতে শারীরিক ও আত্মিক সব ক্ষতি থেকে বাঁচার একমাত্র দুর্গ হলো নিজেকে আল্লাহর হেফাজতে সঁপে দেওয়া, আর নিজের আমল দিয়ে সে আশ্রয়ে ঢোকার উপযুক্ত হওয়ার চেষ্টা করা। সে আরও বলে, এ সূরা শেখায় দুনিয়ার বিপদ থেকে আশ্রয় চাওয়ার পথ, আর সঙ্গী সূরাটি শেখায় আখিরাতের বিপদ থেকে।"
+            "bn": "মাআরিফুল কুরআন এ ক্রিয়াটিকে দেখে এমন এক আকীদার আলোয়, যাকে সে বলে প্রত্যেক মুমিনের সুপ্রতিষ্ঠিত বিশ্বাস: দুনিয়া ও আখিরাতের সব লাভ-ক্ষতির আসল কারণ আল্লাহ। তাই তার মতে শারীরিক ও আত্মিক সব ক্ষতি থেকে বাঁচার একমাত্র দুর্গ হলো নিজেকে আল্লাহর হেফাজতে সঁপে দেওয়া, আর নিজের আমল দিয়ে সেই আশ্রয়ে ঢোকার যোগ্য হওয়ার চেষ্টা করা। সে আরও বলে, এ সূরা শেখায় দুনিয়ার বিপদ থেকে আশ্রয় চাইতে, আর এর সঙ্গী সূরাটি শেখায় আখিরাতের বিপদ থেকে।"
           }
         ]
       },
@@ -105,15 +105,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Those who weigh the readings do not settle in one place. Al-Baghawi says the first, the morning, is the well-known view. Ibn Kathir quotes Ibn Jarir (at-Tabari) as holding the first view correct, that it is the falaq of morning, and adds: this is what is correct, and it is the choice of al-Bukhari in his Sahih. Al-Qurtubi, as seen, finds the derivation on the side of all that splits.",
-            "bn": "যাঁরা মতগুলো ওজন করেছেন, তাঁরা সবাই একই জায়গায় থামেননি। বাগাভী বলেন, প্রথমটি, অর্থাৎ ভোর, এটাই প্রসিদ্ধ। ইবন কাসীর ইবন জারীর (তাবারী)-এর বরাতে বলেন, প্রথম মতটিই সঠিক, অর্থাৎ ভোরের ফালাক। তারপর নিজের কথায় যোগ করেন: এটাই সঠিক, আর বুখারী তাঁর সহীহতে এটাই বেছে নিয়েছেন। কুরতুবী, আগেই যেমন দেখা গেল, শব্দমূলকে পান যা কিছু ফেটে বের হয় সেই মতের পক্ষে।"
+            "bn": "যাঁরা মতগুলো ওজন করেছেন, তাঁরা সবাই একই জায়গায় থামেননি। বাগাভী বলেন, প্রথম মতটি, অর্থাৎ ভোর, এটাই প্রসিদ্ধ। ইবন কাসীর ইবন জারীর (তাবারী)-এর বরাতে বলেন, প্রথম মতটিই সঠিক, অর্থাৎ ভোরের ফালাক। তারপর যোগ করেন: এটাই সঠিক, আর বুখারী তাঁর সহীহ গ্রন্থে এটাই বেছে নিয়েছেন। আর কুরতুবী, আগেই যেমন দেখা গেছে, শব্দমূলকে পান সেই মতের পক্ষে, যেখানে ফালাক মানে ফেটে বের হওয়া সবকিছু।"
           },
           {
             "en": "The closing paragraph of the at-Tabari text fetched for this verse deserves to be heard in full. He says that falaq in Arab speech is the cleaving of morning, and that it is possible Hell holds a prison named falaq. Since Allah set no sign that He meant one thing called falaq rather than another, and He is Lord of everything He created, the verse must mean everything that bears the name, for He is Lord of all of it.",
-            "bn": "এ আয়াতের জন্য আনা তাবারীর পাঠের শেষ অনুচ্ছেদটি পুরোটা শোনা দরকার। তিনি বলেন, আরবদের কথায় ফালাক মানে ভোরের ফাটল। আবার জাহান্নামে ফালাক নামে কোনো কারাগার থাকাও অসম্ভব নয়। আল্লাহ এমন কোনো আলামত রাখেননি যে ফালাক নামের জিনিসগুলোর মধ্যে একটিকে বোঝানো হয়েছে, অন্যগুলোকে নয়। আর তিনি তো নিজের সৃষ্ট সবকিছুর রব। তাই ফালাক নামের সবকিছুই এখানে উদ্দিষ্ট, কারণ সবকিছুরই রব তিনি।"
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা তাবারীর পাঠের শেষ অনুচ্ছেদটি পুরোটা শোনার মতো। তিনি বলেন, আরবদের কথায় ফালাক মানে ভোরের ফাটল। আবার জাহান্নামে ফালাক নামে কোনো কারাগার থাকাও অসম্ভব নয়। ফালাক নামের জিনিসগুলোর মধ্যে আল্লাহ বিশেষ একটিকেই বুঝিয়েছেন, অন্যগুলোকে নয়, এমন কোনো আলামত তিনি রাখেননি। আর তিনি তো নিজের সৃষ্ট সবকিছুর রব। তাই আয়াতে ফালাক নামের সবকিছুই বোঝানো হয়েছে, কারণ সবকিছুরই রব তিনি।"
           },
           {
             "en": "Why is Allah named here as Lord of al-falaq? At-Tabari's answer is the one just given: He is Lord of everything the word names. Ma'arif al-Qur'an, citing Mazhari, offers a reason it marks with presumably: the darkness of night often brings evils and difficulties, and daylight removes them, so the attribute points to the fact that whoever seeks protection in Allah, He will remove afflictions from him. Neither answer is set above the other here; each stands as its author gives it.",
-            "bn": "এখানে আল্লাহকে কেন ফালাকের রব বলে ডাকা হলো? তাবারীর জবাব এইমাত্র দেখা গেল: শব্দটি যা কিছু বোঝায়, তিনি সে সবকিছুর রব। মাআরিফুল কুরআন মাযহারীর বরাতে একটি কারণ দেয়, তবে 'সম্ভবত' বলে: রাতের অন্ধকার প্রায়ই অনিষ্ট আর বিপদ ডেকে আনে, দিনের আলো সেগুলো সরিয়ে দেয়। তাই এ গুণটি ইঙ্গিত করে, যে আল্লাহর কাছে আশ্রয় চায়, তিনি তার বিপদ দূর করে দেন। এখানে কোনো জবাবকে অন্যটির উপরে তোলা হচ্ছে না। প্রত্যেকটি যেমন তার লেখক দিয়েছেন, তেমনই রাখা হলো।"
+            "bn": "এখানে আল্লাহকে কেন ফালাকের রব বলে ডাকা হলো? তাবারীর জবাব এইমাত্র দেখা গেল: শব্দটি যা কিছু বোঝায়, তিনি সে সবকিছুর রব। মাআরিফুল কুরআন মাযহারীর বরাতে একটি কারণ দেয়, তবে 'সম্ভবত' বলে: রাতের অন্ধকার প্রায়ই অনিষ্ট আর বিপদ ডেকে আনে, দিনের আলো সেগুলো সরিয়ে দেয়। তাই এ গুণটি ইঙ্গিত করে, যে আল্লাহর কাছে আশ্রয় চায়, তিনি তার বিপদ দূর করে দেন। এ লেখা কোনো জবাবকে অন্যটির ওপরে রাখে না। প্রত্যেকটি রইল তার লেখক যেভাবে দিয়েছেন, সেভাবেই।"
           }
         ]
       },
@@ -137,7 +137,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "On what magic is, al-Qurtubi refers the reader to his discussion under al-Baqara and declines to repeat it. Ma'arif al-Qur'an treats the episode as an illness acting through physical causes, from which it says no prophet was immune, and also refers to its al-Baqara volume. This article adds no view of its own on either question. The report names one man of the past, and this verse licenses nothing against any living person or community; the refuge it teaches is sought from evil, not from a people.",
-            "bn": "জাদু আসলে কী, এ প্রশ্নে কুরতুবী পাঠককে পাঠিয়ে দেন সূরা বাকারায় তাঁর আলোচনায়, এখানে আর পুনরাবৃত্তি করেন না। মাআরিফুল কুরআন ঘটনাটিকে দেখে শারীরিক কারণের পথে আসা এক অসুস্থতা হিসেবে, যার প্রভাব থেকে তার মতে কোনো নবীই মুক্ত ছিলেন না। সেও বিস্তারিত আলোচনার জন্য বাকারার খণ্ডের কথা বলে। এ দুই প্রশ্নের কোনোটিতেই এ লেখা নিজের কোনো মত যোগ করে না। বর্ণনাটি অতীতের একজন মানুষের নাম নেয়। জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। এ আয়াতে আশ্রয় চাওয়া হয় অনিষ্ট থেকে, কোনো জনগোষ্ঠী থেকে নয়।"
+            "bn": "জাদু আসলে কী, এ প্রশ্নে কুরতুবী পাঠককে পাঠিয়ে দেন সূরা বাকারায় তাঁর আলোচনায়, এখানে আর তা পুনরাবৃত্তি করেন না। মাআরিফুল কুরআনের চোখে ঘটনাটি এক অসুস্থতা, যা কাজ করেছে শারীরিক কারণের পথ ধরে। তার মতে এমন অসুখ থেকে কোনো নবীই মুক্ত ছিলেন না। সেও বিস্তারিত জানতে বাকারার খণ্ড দেখতে বলে। এ দুই প্রশ্নের কোনোটিতেই এ লেখা নিজের কোনো মত যোগ করে না। বর্ণনাটি অতীতের একজন মানুষের নাম নেয়। জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। এ আয়াত যে আশ্রয় শেখায়, তা অনিষ্ট থেকে, কোনো জনগোষ্ঠী থেকে নয়।"
           }
         ]
       },
