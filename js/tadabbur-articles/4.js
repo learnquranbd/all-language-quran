@@ -1633,11 +1633,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "1:7 is the first sister, already heard in the words above: the path of those upon whom You have bestowed favour. 57:19 widens the ranks: those who have believed in Allah and His messengers are, with their Lord, among the supporters of truth and the martyrs, and theirs is their reward and their light. 3:31 gives the road in one line: if you love Allah, follow the Prophet ﷺ, and Allah will love you and forgive you. Together they say that love is proven by following, and following leads to the company.",
-            "bn": "প্রথম আয়াতটির কথা আগেই এসেছে, ১:৭: তাঁদের পথ, যাঁদের তুমি নিয়ামত দিয়েছ। ৫৭:১৯ আয়াত স্তরগুলোকে আরও প্রশস্ত করে: যারা আল্লাহ ও তাঁর রাসূলদের প্রতি ঈমান এনেছে, তারাই তাদের রবের কাছে সিদ্দীক ও শহীদ, তাদের জন্য আছে তাদের প্রতিদান ও তাদের নূর। ৩:৩১ আয়াত পথটা এক লাইনে বলে দেয়: যদি আল্লাহকে ভালোবাসো, নবী ﷺ-এর অনুসরণ করো, আল্লাহ তোমাদের ভালোবাসবেন আর গুনাহ মাফ করবেন। সব মিলিয়ে কথা এই: ভালোবাসার প্রমাণ অনুসরণ, আর অনুসরণ পৌঁছে দেয় সেই সাহচর্যে।"
+            "bn": "প্রথম আয়াতটির কথা আগেই এসেছে, ১:৭: তাঁদের পথ, যাঁদের আপনি নিয়ামত দিয়েছেন। ৫৭:১৯ আয়াত স্তরগুলোকে আরও প্রশস্ত করে: যারা আল্লাহ ও তাঁর রাসূলদের প্রতি ঈমান এনেছে, তারাই তাদের রবের কাছে সিদ্দীক ও শহীদ, তাদের জন্য আছে তাদের প্রতিদান ও তাদের নূর। ৩:৩১ আয়াত পথটা এক লাইনে বলে দেয়: যদি আল্লাহকে ভালোবাসো, নবী ﷺ-এর অনুসরণ করো, আল্লাহ তোমাদের ভালোবাসবেন আর গুনাহ মাফ করবেন। সব মিলিয়ে কথা এই: ভালোবাসার প্রমাণ অনুসরণ, আর অনুসরণ পৌঁছে দেয় সেই সাহচর্যে।"
           },
           {
             "en": "Two prophets asked for this company in their own prayers. Ibrahim (AS) asks in 26:83 to be joined with the righteous, and Yusuf (AS) ends his account in 12:101 asking, cause me to die a Muslim and join me with the righteous. If prophets asked to be joined with the righteous, no believer is above asking it. And 43:67 shows the other side of company: close friends, on that Day, will be enemies to one another, except for the righteous.",
-            "bn": "দুজন নবী নিজেদের দোয়ায় এই সাহচর্য চেয়েছেন। ২৬:৮৩ আয়াতে ইবরাহীম (আঃ) চান নেককারদের অন্তর্ভুক্ত হতে। আর ১২:১০১ আয়াতে ইউসুফ (আঃ) নিজের কাহিনির শেষে চান, আমাকে মুসলিম অবস্থায় মৃত্যু দাও আর নেককারদের সঙ্গে মিলিয়ে দাও। নবীরাই যখন নেককারদের সঙ্গে মিলিত হতে চেয়েছেন, কোনো মুমিন এ চাওয়ার ঊর্ধ্বে নয়। আর ৪৩:৬৭ আয়াত দেখায় সঙ্গের অন্য দিক: সেদিন অন্তরঙ্গ বন্ধুরা একে অন্যের শত্রু হয়ে যাবে, মুত্তাকীরা ছাড়া।"
+            "bn": "দুজন নবী নিজেদের দোয়ায় এই সাহচর্য চেয়েছেন। ২৬:৮৩ আয়াতে ইবরাহীম (আঃ) চান নেককারদের অন্তর্ভুক্ত হতে। আর ১২:১০১ আয়াতে ইউসুফ (আঃ) নিজের কাহিনির শেষে চান, আমাকে মুসলিম অবস্থায় মৃত্যু দিন আর নেককারদের সঙ্গে মিলিয়ে দিন। নবীরাই যখন নেককারদের সঙ্গে মিলিত হতে চেয়েছেন, কোনো মুমিন এ চাওয়ার ঊর্ধ্বে নয়। আর ৪৩:৬৭ আয়াত দেখায় সঙ্গের অন্য দিক: সেদিন অন্তরঙ্গ বন্ধুরা একে অন্যের শত্রু হয়ে যাবে, মুত্তাকীরা ছাড়া।"
           }
         ]
       },
@@ -1669,11 +1669,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Quran gives the words. From the prayer of Yusuf (AS) in 12:101: cause me to die a Muslim and join me with the righteous. And from the prayer of the people of understanding in 3:193: our Lord, we have heard a caller calling to faith and we have believed, so forgive us our sins, remove from us our misdeeds, and cause us to die among the righteous. Both ask for the end of the road and the company at the end of it, and both put forgiveness or faith first.",
-            "bn": "কুরআন নিজেই শব্দগুলো দিয়েছে। ১২:১০১ আয়াতে ইউসুফ (আঃ)-এর দোয়া থেকে: আমাকে মুসলিম অবস্থায় মৃত্যু দাও আর নেককারদের সঙ্গে মিলিয়ে দাও। আর ৩:১৯৩ আয়াতে বোধসম্পন্ন মানুষদের দোয়া থেকে: হে আমাদের রব, আমরা একজন আহ্বানকারীকে ঈমানের দিকে ডাকতে শুনেছি, আর আমরা ঈমান এনেছি। তাই আমাদের গুনাহ মাফ করো, আমাদের মন্দ কাজগুলো মুছে দাও, আর নেককারদের সঙ্গে আমাদের মৃত্যু দাও। দুটো দোয়াই পথের শেষটা চায়, আর সেই শেষে থাকা সাহচর্য। দুটোতেই আগে আসে ঈমান বা মাগফিরাতের কথা।"
+            "bn": "কুরআন নিজেই শব্দগুলো দিয়েছে। ১২:১০১ আয়াতে ইউসুফ (আঃ)-এর দোয়া থেকে: আমাকে মুসলিম অবস্থায় মৃত্যু দিন আর নেককারদের সঙ্গে মিলিয়ে দিন। আর ৩:১৯৩ আয়াতে বোধসম্পন্ন মানুষদের দোয়া থেকে: হে আমাদের রব, আমরা একজন আহ্বানকারীকে ঈমানের দিকে ডাকতে শুনেছি, আর আমরা ঈমান এনেছি। তাই আমাদের গুনাহ মাফ করে দিন, আমাদের মন্দ কাজগুলো মুছে দিন, আর নেককারদের সঙ্গে আমাদের মৃত্যু দিন। দুটো দোয়াই পথের শেষটা চায়, আর সেই শেষে থাকা সাহচর্য। দুটোতেই আগে আসে ঈমান বা মাগফিরাতের কথা।"
           },
           {
             "en": "A supplication in the verse's own vocabulary, offered here as such and not as a transmitted du'a: O Allah, make me obedient to You and to Your Messenger ﷺ. Place me with those upon whom You have bestowed favour, the prophets, the truthful, the martyrs and the righteous, and let them be my companions. It is Your bounty and not my deeds, and You are sufficient as the One who knows me, so make me fit for what I cannot earn.",
-            "bn": "আয়াতের নিজের শব্দ থেকে একটি দোয়া, যা এখানে এভাবেই দেওয়া হলো, বর্ণিত কোনো দোয়া হিসেবে নয়: হে আল্লাহ, আমাকে তোমার আর তোমার রাসূল ﷺ-এর অনুগত বানাও। যাঁদের তুমি নিয়ামত দিয়েছ, নবী, সিদ্দীক, শহীদ আর নেককার, তাঁদের সঙ্গে আমাকে রাখো, আর তাঁদেরকে আমার সাথি বানাও। এটা তোমার অনুগ্রহ, আমার আমল নয়, আর আমাকে জানার জন্য তুমিই যথেষ্ট। তাই যা আমি অর্জন করতে পারি না, তার উপযুক্ত আমাকে বানিয়ে দাও।"
+            "bn": "আয়াতের নিজের শব্দ দিয়ে গড়া একটি দোয়া। এটি বর্ণিত কোনো দোয়া নয়, সেটা জেনেই পড়ুন: হে আল্লাহ, আমাকে আপনার আর আপনার রাসূল ﷺ-এর অনুগত বানিয়ে দিন। যাঁদের আপনি নিয়ামত দিয়েছেন, সেই নবী, সিদ্দীক, শহীদ আর নেককারদের সঙ্গে আমাকে রাখুন, আর তাঁদের আমার সাথি বানিয়ে দিন। এ আপনার অনুগ্রহ, আমার আমলের ফল নয়। আমাকে জানার জন্য আপনিই যথেষ্ট। তাই যা আমি নিজে অর্জন করতে পারি না, তার যোগ্য আমাকে বানিয়ে দিন।"
           }
         ]
       },
@@ -1700,12 +1700,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Passage It Belongs To",
-          "bn": "যে আলোচনার অংশ"
+          "bn": "আয়াতটি যে আলোচনার অংশ"
         },
         "p": [
           {
             "en": "This verse answers a complaint recorded just before it. In 4:77 a group is described who had been told to restrain their hands, establish prayer and give zakah; when fighting was finally prescribed for them, a party of them feared people as they should have feared Allah, or with even greater fear, and asked why the command had not been postponed a little longer. The commentators differ over the precise occasion and over who that party was, and the argument of the verse does not depend on settling it.",
-            "bn": "এই আয়াত ঠিক আগে লিপিবদ্ধ একটি অভিযোগের জবাব দেয়। 4:77 আয়াতে এমন এক দলের বর্ণনা আছে, যাদের বলা হয়েছিল হাত সংযত রাখতে, নামায কায়েম করতে ও যাকাত দিতে; অবশেষে যখন তাদের ওপর যুদ্ধ ফরয করা হলো, তাদের একটি দল মানুষকে এমনভাবে ভয় করল যেভাবে আল্লাহকে ভয় করা উচিত ছিল, কিংবা তার চেয়েও বেশি, আর জিজ্ঞেস করল কেন আদেশটি আরও কিছুকাল পিছিয়ে দেওয়া হলো না। নির্দিষ্ট প্রেক্ষাপট এবং সেই দলটি কারা ছিল, তা নিয়ে মুফাসসিরগণের মতভেদ আছে, আর আয়াতের যুক্তি তা নিষ্পত্তির ওপর নির্ভর করে না।"
+            "bn": "আয়াতটি ঠিক আগের আয়াতে আসা একটি অভিযোগের জবাব। ৪:৭৭ আয়াতে এক দলের কথা আছে, যাদের বলা হয়েছিল হাত গুটিয়ে রাখতে, নামাজ কায়েম করতে আর যাকাত দিতে। পরে যখন তাদের ওপর যুদ্ধ ফরজ হলো, তাদের একটি অংশ মানুষকে এমন ভয় পেতে লাগল, যেমন ভয় আল্লাহকে পাওয়া উচিত, বরং তার চেয়েও বেশি। তারা জানতে চাইল, হুকুমটা আরও কিছুদিন পিছিয়ে দেওয়া হলো না কেন। ঘটনাটা ঠিক কখনকার, আর সেই দলটি কারা ছিল, তা নিয়ে মুফাসসিরদের মতভেদ আছে। তবে আয়াতের যুক্তি সেই মীমাংসার ওপর নির্ভর করে না।"
           }
         ]
       },
@@ -1717,11 +1717,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Aynama takunu yudrikkumu al-mawt — wherever you may be, death will overtake you. The verb adraka is the verb of catching up with something that is trying to get away. It is the same verb used of Pharaoh in 10:90, where drowning overtook him at the last moment of his flight. Death, in this wording, is not standing still at the end of the road waiting. It is closing a distance, and the distance is closing whether the person moves or not.",
-            "bn": "'আইনামা তাকূনূ ইউদরিক্‌কুমুল মাউত' — তোমরা যেখানেই থাকো, মৃত্যু তোমাদের নাগাল পাবে। 'আদরাকা' ক্রিয়াটি এমন কিছুর নাগাল পাওয়ার ক্রিয়া, যা পালাতে চাইছে। ঠিক এই ক্রিয়াটিই 10:90 আয়াতে ফিরআউনের ক্ষেত্রে ব্যবহৃত হয়েছে, যেখানে পালানোর শেষ মুহূর্তে ডুবে যাওয়া তার নাগাল পেয়ে যায়। এই শব্দবিন্যাসে মৃত্যু পথের শেষে স্থির হয়ে অপেক্ষা করছে না। সে দূরত্ব কমিয়ে আনছে, আর মানুষ নড়ুক বা না নড়ুক, দূরত্বটি কমছেই।"
+            "bn": "'আইনামা তাকূনূ ইউদরিক্‌কুমুল মাউত': তোমরা যেখানেই থাকো, মৃত্যু তোমাদের নাগাল পাবে। 'আদরাকা' মানে পালাতে থাকা কোনো কিছুর পিছু নিয়ে তার নাগাল পাওয়া। ১০:৯০ আয়াতে ফেরাউনের বেলায়ও এই ক্রিয়াটিই এসেছে: পালানোর একেবারে শেষ মুহূর্তে ডুবে মরা তার নাগাল পেয়ে যায়। এই শব্দে মৃত্যু পথের শেষ মাথায় দাঁড়িয়ে অপেক্ষা করছে না। সে দূরত্ব কমিয়ে আনছে। মানুষ নড়ুক বা না নড়ুক, দূরত্ব কমছেই।"
           },
           {
             "en": "62:8 makes the pursuit explicit: say, the death from which you flee will meet you, and then you will be returned to the Knower of the unseen and the witnessed. Both verses answer the same instinct, which is to treat death as an outcome that better planning might avoid. The Quran does not argue that flight is wrong. It observes that flight is a category error, because there is no direction in which the distance grows.",
-            "bn": "62:8 আয়াতে ধাওয়ার বিষয়টি স্পষ্ট করা হয়েছে: বলো, তোমরা যে মৃত্যু থেকে পালাচ্ছ তা তোমাদের সঙ্গে সাক্ষাৎ করবেই, তারপর তোমাদের ফিরিয়ে নেওয়া হবে দৃশ্য ও অদৃশ্যের জ্ঞানীর কাছে। দুটি আয়াতই একই প্রবৃত্তির জবাব দেয় — মৃত্যুকে এমন এক পরিণতি ভাবা, উন্নততর পরিকল্পনা দিয়ে যা এড়ানো যেত। কুরআন বলে না যে পালানো অন্যায়। কুরআন লক্ষ করিয়ে দেয় যে পালানোটাই একটি ভুল শ্রেণিবিন্যাস, কারণ এমন কোনো দিক নেই যেদিকে গেলে দূরত্ব বাড়ে।"
+            "bn": "৬২:৮ আয়াত এই পিছু নেওয়ার কথা খোলাখুলি বলে: বলো, যে মৃত্যু থেকে তোমরা পালাচ্ছ, তা তোমাদের সঙ্গে দেখা করবেই। তারপর তোমাদের ফিরিয়ে নেওয়া হবে তাঁর কাছে, যিনি গোপন ও প্রকাশ্য সবই জানেন। দুটি আয়াতই মানুষের একই ঝোঁকের জবাব দেয়: মৃত্যুকে এমন কিছু ভাবা, যা আরও ভালো পরিকল্পনা করলে এড়ানো যেত। কুরআন বলে না যে পালানো অন্যায়। কুরআন দেখিয়ে দেয়, পালানোর চিন্তাটাই গোড়ায় ভুল, কারণ এমন কোনো দিক নেই যেদিকে গেলে দূরত্ব বাড়ে।"
           }
         ]
       },
@@ -1733,7 +1733,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then comes the concession clause: even if you should be within burujin mushayyadah, towers of lofty construction. Buruj are the high towers of a stronghold. Mushayyadah is connected by the commentators, Qurtubi among them, with shid, the plaster or gypsum with which a wall is finished, so the phrase does not merely mean tall but properly built and sealed — the best that the money and craft of the age could raise. The verse names the exact object a frightened person pictures as the answer.",
-            "bn": "এরপর আসে ছাড়ের বাক্যটি: এমনকি তোমরা যদি 'বুরূজিম মুশাইয়াদাহ'-র ভেতরেও থাকো, অর্থাৎ সুউচ্চ সুদৃঢ় দুর্গের ভেতরে। 'বুরূজ' হলো কোনো দুর্গের উঁচু বুরুজ। 'মুশাইয়াদাহ' শব্দটিকে মুফাসসিরগণ, যাঁদের মধ্যে কুরতুবীও আছেন, যুক্ত করেন 'শীদ'-এর সঙ্গে, অর্থাৎ যে চুন বা প্লাস্টার দিয়ে দেয়ালের কাজ শেষ করা হয়; ফলে বাক্যাংশটির অর্থ কেবল উঁচু নয়, বরং যথাযথভাবে গড়া ও সিলমোহর করা — সেই যুগের অর্থ ও কারিগরি যতটা সম্ভব উঁচু করতে পারত ততটাই। আয়াতটি ঠিক সেই বস্তুটিরই নাম নেয়, ভীত মানুষ যাকে সমাধান হিসেবে কল্পনা করে।"
+            "bn": "এরপর আয়াত বলে: এমনকি তোমরা যদি 'বুরূজিম মুশাইয়াদাহ'-র ভেতরেও থাকো, অর্থাৎ সুউচ্চ সুদৃঢ় দুর্গে। 'বুরূজ' মানে দুর্গের উঁচু বুরুজ। কুরতুবীসহ মুফাসসিরগণ 'মুশাইয়াদাহ' শব্দটিকে যুক্ত করেন 'শীদ'-এর সঙ্গে। শীদ হলো চুন বা পলেস্তারা, যা দিয়ে দেয়ালের শেষ প্রলেপ দেওয়া হয়। তাই কথাটির অর্থ শুধু উঁচু নয়, বরং মজবুত করে গাঁথা, পলেস্তারা দিয়ে নিখুঁতভাবে বন্ধ করা। সে যুগের টাকা আর কারিগরি দিয়ে এর চেয়ে ভালো কিছু গড়া যেত না। ভয় পাওয়া মানুষ বাঁচার উপায় হিসেবে ঠিক যে জিনিসটির ছবি মনে আঁকে, আয়াত ঠিক সেটিরই নাম নেয়।"
           }
         ]
       },
@@ -1745,11 +1745,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second half of the verse turns from death itself to the way people speak about outcomes. If good comes to them they say this is from Allah; if evil befalls them they say this is from you, addressing the Prophet ﷺ himself. Named that plainly, the habit is recognisable far outside its original setting: blessings are credited upward and losses are charged sideways, to whoever is nearest and most available to blame.",
-            "bn": "আয়াতের দ্বিতীয় অংশ মৃত্যু থেকে সরে গিয়ে মানুষ পরিণতি নিয়ে কীভাবে কথা বলে, সেদিকে যায়। তাদের কোনো কল্যাণ হলে তারা বলে এটি আল্লাহর পক্ষ থেকে; আর কোনো অকল্যাণ ঘটলে তারা বলে এটি তোমার কারণে — কথাটি স্বয়ং নবী ﷺ-কে উদ্দেশ করে বলা। এত স্পষ্টভাবে নাম দিলে অভ্যাসটি তার মূল প্রেক্ষাপটের বাইরেও সহজে চেনা যায়: নিয়ামতের কৃতিত্ব উপরে দেওয়া হয়, আর ক্ষতির দায় পাশে চাপানো হয় — যে সবচেয়ে কাছে ও সবচেয়ে সহজলভ্য, তার ঘাড়ে।"
+            "bn": "আয়াতের দ্বিতীয় অংশ মৃত্যু থেকে সরে আসে মানুষের কথার দিকে: ভালো-মন্দ যা ঘটে, তা নিয়ে তারা কী বলে। তাদের কোনো কল্যাণ হলে বলে, এটা আল্লাহর পক্ষ থেকে। আর কোনো অকল্যাণ হলে বলে, এটা তোমার কারণে। কথাটা তারা বলত সরাসরি নবী ﷺ-কে উদ্দেশ করে। এভাবে খোলাখুলি নাম দিলে অভ্যাসটা মূল প্রেক্ষাপটের বাইরেও সহজে চেনা যায়। নিয়ামতের কৃতিত্ব যায় উপরে, আর ক্ষতির দায় চাপে পাশে, হাতের কাছে যাকে দোষ দেওয়া সবচেয়ে সহজ, তার ঘাড়ে।"
           },
           {
             "en": "The reply is one clause long: say, all is from Allah. It refuses the split. A person who genuinely holds that everything proceeds from one Source cannot keep two ledgers, one for the gifts he accepts and one for the injuries he assigns elsewhere. The Quran treats this not as bad manners but as a failure of belief in tawhid at the point where belief is actually tested, which is the moment something goes wrong.",
-            "bn": "জবাবটি এক বাক্যের: বলো, সবকিছুই আল্লাহর পক্ষ থেকে। এটি বিভাজনটি নাকচ করে দেয়। যে সত্যিই মানে যে সবকিছু এক উৎস থেকেই আসে, সে দুটি খাতা রাখতে পারে না — একটি সেই উপহারের জন্য যা সে গ্রহণ করে, আরেকটি সেই আঘাতের জন্য যার দায় সে অন্য কারও ওপর চাপায়। কুরআন একে অভদ্রতা নয়, বরং তাওহীদে বিশ্বাসের ব্যর্থতা হিসেবে দেখে — ঠিক সেই জায়গায়, যেখানে বিশ্বাস আসলেই পরীক্ষিত হয়, অর্থাৎ যখন কিছু একটা বিগড়ে যায়।"
+            "bn": "জবাবটা এক বাক্যের: বলো, সবকিছুই আল্লাহর পক্ষ থেকে। এই জবাব ভাগাভাগিটা মানে না। যে সত্যিই বিশ্বাস করে সবকিছু এক উৎস থেকেই আসে, সে দুটো খাতা রাখতে পারে না: একটায় নিজের নেওয়া উপহার, আরেকটায় অন্যের ঘাড়ে চাপানো আঘাত। কুরআন একে নিছক বেয়াদবি হিসেবে দেখে না। এটা তাওহীদের বিশ্বাসে ব্যর্থতা, আর তা ঘটে ঠিক সেই জায়গায়, যেখানে বিশ্বাসের আসল পরীক্ষা হয়: যখন কিছু একটা খারাপ হয়ে যায়।"
           }
         ]
       },
@@ -1761,11 +1761,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The very next verse seems at first to say the opposite: what comes to you of good is from Allah, and what comes to you of evil is from yourself. The mufassirun, Ibn Kathir among them, resolve the pair the same way. Everything without exception is created and decreed by Allah, which is what 4:78 establishes against people who exempted their misfortunes from His decree. But the earning of an evil, the choice that drew it, belongs to the person, which is what 4:79 establishes against people who blamed everyone else.",
-            "bn": "ঠিক পরের আয়াতটি প্রথম দেখায় উল্টো কথা বলছে বলে মনে হয়: তোমার যে কল্যাণ হয় তা আল্লাহর পক্ষ থেকে, আর যে অকল্যাণ হয় তা তোমার নিজের কারণে। মুফাসসিরগণ, যাঁদের মধ্যে ইবনে কাসীরও আছেন, জোড়াটির সমাধান একইভাবে করেন। ব্যতিক্রমহীনভাবে সবকিছুই আল্লাহর সৃষ্টি ও ফয়সালা — 4:78 আয়াত এটিই প্রতিষ্ঠা করে তাদের বিরুদ্ধে, যারা নিজেদের দুর্ভাগ্যকে তাঁর ফয়সালার বাইরে রাখত। কিন্তু কোনো মন্দের উপার্জন, অর্থাৎ যে পছন্দ তা টেনে এনেছে, তা মানুষেরই — 4:79 আয়াত এটিই প্রতিষ্ঠা করে তাদের বিরুদ্ধে, যারা অন্য সবাইকে দোষারোপ করত।"
+            "bn": "ঠিক পরের আয়াতটি প্রথম দেখায় যেন উল্টো কথা বলে: তোমার যে কল্যাণ হয় তা আল্লাহর পক্ষ থেকে, আর যে অকল্যাণ হয় তা তোমার নিজের কারণে। ইবনে কাসীরসহ মুফাসসিরগণ দুই আয়াতের মিল একইভাবে দেখান। ব্যতিক্রম ছাড়াই সবকিছু আল্লাহর সৃষ্টি, তাঁরই ফয়সালা। যারা নিজেদের বিপদ-আপদকে তাঁর ফয়সালার বাইরে রাখত, তাদের বিরুদ্ধে 4:78 আয়াত এই কথাই প্রতিষ্ঠা করে। কিন্তু মন্দটা কামাই করা, অর্থাৎ যে সিদ্ধান্ত সেটাকে টেনে এনেছে, তা মানুষের নিজের। যারা অন্য সবাইকে দোষ দিত, তাদের বিরুদ্ধে 4:79 আয়াত এই কথাই প্রতিষ্ঠা করে।"
           },
           {
             "en": "3:165 makes the same move inside the Uhud passage: asked where their disaster had come from, they are told to say it is from yourselves. Held together, the two truths cancel the two escapes. Decree removes despair, because nothing struck outside His leave; earning removes self-pity, because the choices that led here were mine. The verse ends by asking what is wrong with people who can hardly understand any statement — the word is yafqahuna, from fiqh, understanding that goes past the surface of a sentence.",
-            "bn": "3:165 আয়াতে উহুদের আলোচনার ভেতরে একই কাজটি করা হয়: তাদের বিপদ কোথা থেকে এলো জিজ্ঞেস করা হলে তাদের বলতে বলা হয়, এটি তোমাদের নিজেদের কাছ থেকেই। দুটি সত্য একসঙ্গে ধরলে দুটি পালানোর পথই বন্ধ হয়। ফয়সালা হতাশা সরায়, কারণ তাঁর অনুমতির বাইরে কিছুই আঘাত করেনি; উপার্জন আত্মকরুণা সরায়, কারণ যে পছন্দগুলো এখানে এনেছে সেগুলো আমারই। আয়াতটি শেষ হয় এই প্রশ্ন দিয়ে যে এই লোকদের হলো কী, তারা প্রায় কোনো কথাই বোঝে না — শব্দটি 'ইয়াফক্বাহূন', যা 'ফিক্‌হ' থেকে, অর্থাৎ বাক্যের উপরিতল ছাড়িয়ে যাওয়া বোঝাপড়া।"
+            "bn": "উহুদের আলোচনার ভেতরে ৩:১৬৫ আয়াতও একই কাজ করে: বিপদ কোথা থেকে এল, এই প্রশ্নের জবাবে তাদের বলে দেওয়া হয়, এটা তোমাদের নিজেদের কাছ থেকেই। দুটো সত্য একসঙ্গে ধরলে পালানোর দুটো পথই বন্ধ হয়ে যায়। তাকদীরে বিশ্বাস হতাশা দূর করে, কারণ তাঁর অনুমতি ছাড়া কিছুই আঘাত করেনি। নিজের কামাইয়ের কথা মানলে আত্মকরুণা দূর হয়, কারণ যে সিদ্ধান্তগুলো আমাকে এখানে এনেছে, সেগুলো আমারই। আয়াতের শেষে প্রশ্ন: এই লোকদের হলো কী, তারা প্রায় কোনো কথাই বোঝে না? এখানে শব্দটি 'ইয়াফক্বাহূন', এসেছে 'ফিক্‌হ' থেকে, অর্থাৎ বাক্যের ওপরের খোলস পেরিয়ে ভেতরের কথা বোঝা।"
           }
         ]
       }
@@ -1781,27 +1781,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Afala yatadabbaruna al-Quran — do they not reflect deeply upon the Quran? The question is a rebuke shaped as an invitation. Tadabbur, from a root meaning the back or far end of a thing, is the kind of thinking that follows a matter through to its ends and consequences — not skimming a surface but pursuing where the words lead. The verse assumes the Quran rewards exactly this pursuit, and faults hearts that never attempt it.",
-            "bn": "আফালা ইয়াতাদাব্বারূনাল কুরআন — তারা কি কুরআন নিয়ে গভীরভাবে চিন্তা করে না? প্রশ্নটি আমন্ত্রণের আকারে গড়া এক তিরস্কার। তাদাব্বুর — কোনো জিনিসের পেছন বা শেষ প্রান্ত অর্থের ধাতু থেকে — সেই ধরনের চিন্তা যা কোনো বিষয়কে তার পরিণতি ও ফলাফল পর্যন্ত অনুসরণ করে; উপরিতল ছুঁয়ে যাওয়া নয়, শব্দগুলো যেদিকে নিয়ে যায় সেদিকে ধাওয়া করা। আয়াতটি ধরেই নেয়, কুরআন ঠিক এই অনুসরণেরই প্রতিদান দেয় — আর দোষারোপ করে সেই হৃদয়গুলোকে, যারা কখনো চেষ্টাই করে না।"
+            "bn": "আফালা ইয়াতাদাব্বারূনাল কুরআন: তারা কি কুরআন নিয়ে গভীরভাবে চিন্তা করে না? প্রশ্নটা আসলে তিরস্কার, তবে বলা হয়েছে দাওয়াতের সুরে। তাদাব্বুর শব্দের মূলের অর্থ কোনো জিনিসের পেছন দিক বা শেষ মাথা। তাই তাদাব্বুর মানে এমন চিন্তা, যা কোনো বিষয়কে তার শেষ পরিণতি পর্যন্ত অনুসরণ করে। ওপর ওপর চোখ বুলিয়ে যাওয়া নয়, শব্দগুলো যেদিকে নিয়ে যায় সেদিকে এগিয়ে যাওয়া। আয়াতটি ধরে নেয়, ঠিক এই খোঁজেরই প্রতিদান কুরআন দেয়। আর দোষ দেয় সেই অন্তরগুলোকে, যারা কখনো চেষ্টাই করে না।"
           },
           {
             "en": "The rebuke lands on a specific failure: contact with the Quran without penetration — hearing it, even reciting it, while its meanings pass by untouched. 47:24 sharpens the diagnosis with its own question: do they not reflect on the Quran, or are there locks upon hearts? Between the two verses, the obstacle is located honestly: not in the Book's difficulty, but in the reader's lock.",
-            "bn": "তিরস্কারটি পড়ে একটি নির্দিষ্ট ব্যর্থতার ওপর: কুরআনের সংস্পর্শ, অথচ ভেতরে প্রবেশ নেই — শোনা, এমনকি তিলাওয়াতও, অথচ অর্থগুলো অস্পৃশ্য পাশ কাটিয়ে যায়। 47:24 নিজের প্রশ্ন দিয়ে রোগনির্ণয়টি ধারালো করে: তারা কি কুরআন নিয়ে চিন্তা করে না, নাকি হৃদয়গুলোর ওপর তালা? দুই আয়াতের মাঝখানে বাধাটির অবস্থান সততার সঙ্গে চিহ্নিত: কিতাবের দুর্বোধ্যতায় নয়, পাঠকের তালায়।"
+            "bn": "তিরস্কারটা একটা নির্দিষ্ট ব্যর্থতার ওপর: কুরআনের সঙ্গে সংস্পর্শ আছে, কিন্তু ভেতরে ঢোকা নেই। শোনা হয়, এমনকি তিলাওয়াতও হয়, অথচ অর্থগুলো মনে কোনো দাগ না কেটেই চলে যায়। 47:24 আয়াত নিজের প্রশ্ন দিয়ে দোষটা আরও স্পষ্ট করে ধরিয়ে দেয়: তারা কি কুরআন নিয়ে চিন্তা করে না, নাকি অন্তরে তালা লাগানো? দুই আয়াত মিলে বাধাটা কোথায়, তা সৎভাবে দেখিয়ে দেয়: কিতাব কঠিন বলে নয়, বাধা পাঠকের নিজের তালায়।"
           }
         ]
       },
       {
         "h": {
           "en": "The Test It Proposes",
-          "bn": "যে পরীক্ষা এটি প্রস্তাব করে"
+          "bn": "আয়াত যে পরীক্ষার কথা বলে"
         },
         "p": [
           {
             "en": "The verse then stakes everything on an examinable claim: had it been from other than Allah, they would have found within it much contradiction. This is an argument offered to sceptics on their own terms. The Quran came down across some twenty-three years — in Makkah and Madinah, in ease and siege, answering events no one scheduled. Human output under those conditions revises itself, contradicts itself, shows its seams. Here, the claim runs, you will find none.",
-            "bn": "আয়াতটি এরপর সবকিছু বাজি রাখে এক যাচাইযোগ্য দাবির ওপর: এটি আল্লাহ ছাড়া অন্য কারও কাছ থেকে হলে তারা এতে বহু অসংগতি পেত। এ যুক্তি সংশয়বাদীদের সামনে রাখা হয়েছে তাদের নিজেদের শর্তেই। কুরআন নাযিল হয়েছে প্রায় তেইশ বছর ধরে — মক্কায় ও মদীনায়, স্বাচ্ছন্দ্যে ও অবরোধে, এমন সব ঘটনার জবাব দিতে দিতে যেগুলোর সময়সূচি কেউ ঠিক করেনি। এই অবস্থায় মানুষের রচনা নিজেকে সংশোধন করে, নিজের সঙ্গে সংঘর্ষে যায়, নিজের জোড়ার দাগ দেখায়। এখানে — দাবিটি বলে — তুমি একটিও পাবে না।"
+            "bn": "এরপর আয়াত সবকিছু বাজি রাখে এমন এক দাবির ওপর, যা যাচাই করা যায়: এটা যদি আল্লাহ ছাড়া অন্য কারও কাছ থেকে আসত, তবে তারা এতে অনেক অসংগতি পেত। সংশয়ীদের সামনে এ যুক্তি রাখা হয়েছে তাদের নিজেদের মাপকাঠিতেই। কুরআন নাজিল হয়েছে প্রায় তেইশ বছর ধরে। মক্কায়, মদীনায়, স্বস্তির দিনে, অবরোধের দিনে, এমন সব ঘটনার জবাবে, যা কেউ আগে থেকে ঠিক করে রাখেনি। এমন অবস্থায় মানুষের লেখা বারবার নিজেকে শুধরায়, নিজের কথার সঙ্গে নিজেই ঠোকাঠুকি খায়, জোড়াতালির দাগ বেরিয়ে পড়ে। দাবি হলো, এখানে আপনি এর একটিও পাবেন না।"
           },
           {
             "en": "The commentators draw out the logic: consistency across that span, on subjects from law to the unseen, delivered through an unlettered Prophet ﷺ, is the signature of a single, all-knowing Author. And the challenge stays open. It does not ask for reverence first; it asks for reading — sustained, critical reading — and predicts what the reading will find. Refusing to read is, in effect, refusing to test the claim.",
-            "bn": "মুফাসসিরগণ যুক্তিটি টেনে বের করেন: এত দীর্ঘ পরিসরে, বিধান থেকে অদৃশ্য জগৎ পর্যন্ত বিষয়ে, নিরক্ষর নবী ﷺ-এর মাধ্যমে পৌঁছানো এই সামঞ্জস্য — একক, সর্বজ্ঞ এক রচয়িতার স্বাক্ষর। আর চ্যালেঞ্জটি খোলা থেকেই যায়। এটি আগে ভক্তি চায় না; চায় পাঠ — ধারাবাহিক, অনুসন্ধানী পাঠ — এবং আগাম বলে দেয় সেই পাঠ কী পাবে। পড়তে অস্বীকার করা আসলে দাবিটি যাচাই করতেই অস্বীকার করা।"
+            "bn": "মুফাসসিরগণ যুক্তিটা খুলে বলেন: এত দীর্ঘ সময় জুড়ে, বিধিবিধান থেকে গায়েবের খবর পর্যন্ত নানা বিষয়ে, একজন নিরক্ষর নবী ﷺ-এর মুখে আসা কথায় এমন সামঞ্জস্যই বলে দেয়, এর বক্তা একজন, আর তিনি সব জানেন। আর চ্যালেঞ্জটা আজও খোলা। এটা আগে ভক্তি চায় না, চায় পড়া: লেগে থেকে, খুঁটিয়ে পড়া। আর আগেই বলে দেয়, সেই পড়ায় কী মিলবে। না পড়া মানে আসলে দাবিটা যাচাই করতেই রাজি না হওয়া।"
           }
         ]
       },
@@ -1813,11 +1813,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The setting in Surah an-Nisa is practical, not academic. The surrounding passage deals with hypocrisy and rumor: 4:83 rebukes those who, hearing any matter of security or fear, broadcast it instead of referring it to the Messenger ﷺ and to those with sound judgment, who could draw out its truth. Shallow hearing produces both bad religion and bad citizenship; the passage prescribes depth for both.",
-            "bn": "সূরা আন-নিসায় এর প্রেক্ষাপট ব্যবহারিক, পুঁথিগত নয়। আশপাশের অংশটি মুনাফিকি ও গুজব নিয়ে: 4:83 তিরস্কার করে তাদের, যারা নিরাপত্তা বা ভয়ের কোনো খবর শুনলেই তা ছড়িয়ে দেয় — রাসূল ﷺ ও বিচক্ষণ সিদ্ধান্তের অধিকারীদের কাছে ফিরিয়ে না দিয়ে, যাঁরা এর সত্যতা বের করে আনতে পারতেন। ভাসাভাসা শোনা জন্ম দেয় মন্দ দ্বীনদারি ও মন্দ নাগরিকতা দুটিই; অংশটি দুটির জন্যই গভীরতার ব্যবস্থাপত্র দেয়।"
+            "bn": "সূরা আন-নিসায় এর প্রেক্ষাপট বাস্তব জীবনের, পুঁথিগত নয়। আশপাশের আয়াতগুলো মুনাফিকি আর গুজব নিয়ে। 4:83 আয়াত তাদের তিরস্কার করে, যারা নিরাপত্তা বা ভয়ের কোনো খবর শুনলেই ছড়িয়ে দেয়। অথচ খবরটা রাসূল ﷺ আর বিচক্ষণ লোকদের কাছে পৌঁছে দেওয়ার কথা, যাঁরা এর আসল সত্য বের করে আনতে পারতেন। ভাসাভাসা শোনায় দ্বীনদারিও নষ্ট হয়, নাগরিক দায়িত্ববোধও। এই আয়াতগুলো দুটোর জন্যই গভীরতার পথ দেখায়।"
           },
           {
             "en": "Placed there, tadabbur appears as a communal safeguard, not a private luxury. A community that ponders its Book learns to weigh words, trace claims to sources and follow consequences before speaking — the exact skills 4:83 finds missing in the rumor-spreaders. The Quran, engaged deeply, trains the mind it engages; skimmed, it leaves the mind as excitable as it found it.",
-            "bn": "সেখানে স্থাপিত হয়ে তাদাব্বুর দেখা দেয় সমাজের রক্ষাকবচ হিসেবে, ব্যক্তিগত বিলাস হিসেবে নয়। যে সমাজ তার কিতাব নিয়ে গভীর চিন্তা করে, সে শেখে কথা ওজন করতে, দাবিকে উৎস পর্যন্ত খুঁজে যেতে, আর মুখ খোলার আগে পরিণতি অনুসরণ করতে — ঠিক সেই দক্ষতাগুলো, যেগুলোর অভাব 4:83 পায় গুজব-ছড়ানোদের মধ্যে। কুরআন, গভীরভাবে চর্চিত হলে, যে মনকে সে পায় তাকে প্রশিক্ষণ দেয়; ভাসাভাসা পড়া হলে মনকে রেখে যায় ঠিক ততটাই চঞ্চল, যতটা পেয়েছিল।"
+            "bn": "এখানে বসানো বলে তাদাব্বুর হয়ে ওঠে গোটা সমাজের রক্ষাকবচ, কারও ব্যক্তিগত শৌখিনতা নয়। যে সমাজ নিজের কিতাব নিয়ে গভীরভাবে ভাবে, সে কথা ওজন করে দেখতে শেখে, কোনো দাবি কোথা থেকে এল তা খুঁজে বের করতে শেখে, মুখ খোলার আগে পরিণতি ভেবে দেখতে শেখে। গুজব ছড়ানো লোকদের মধ্যে ঠিক এই গুণগুলোরই অভাব দেখায় 4:83 আয়াত। গভীর মনোযোগে পড়লে কুরআন পাঠকের মনকেই গড়ে তোলে। আর ওপর ওপর পড়লে মন যেমন হুজুগে ছিল, তেমনই থেকে যায়।"
           }
         ]
       },
@@ -1829,27 +1829,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "38:29 states the Quran's purpose in one line: a blessed Book We have sent down to you, that they may ponder its verses, and that those of understanding may take heed. Tadabbur is not an optional enrichment for scholars; it is the stated reason for the revelation. Recitation without it, 23:68 implies, repeats the failure of those who did not ponder the word when it came to them.",
-            "bn": "38:29 এক লাইনে কুরআনের উদ্দেশ্য বলে দেয়: এক বরকতময় কিতাব, আমি তোমার প্রতি নাযিল করেছি, যেন তারা এর আয়াতগুলো নিয়ে গভীর চিন্তা করে এবং বোধসম্পন্নরা উপদেশ নেয়। তাদাব্বুর আলিমদের জন্য ঐচ্ছিক কোনো বাড়তি চর্চা নয়; এটিই ওহী নাযিলের ঘোষিত কারণ। এটি ছাড়া তিলাওয়াত — 23:68 ইঙ্গিত করে — তাদেরই ব্যর্থতার পুনরাবৃত্তি, বাণী আসার পরও যারা তা নিয়ে চিন্তা করেনি।"
+            "bn": "38:29 আয়াত এক লাইনে কুরআনের উদ্দেশ্য বলে দেয়: এক বরকতময় কিতাব, আমি তোমার প্রতি নাজিল করেছি, যেন তারা এর আয়াতগুলো নিয়ে গভীরভাবে চিন্তা করে, আর বোধসম্পন্নরা উপদেশ নেয়। তাদাব্বুর আলিমদের জন্য বাড়তি কোনো ঐচ্ছিক চর্চা নয়। ওহি নাজিলের ঘোষিত কারণই এটা। 23:68 আয়াতের ইঙ্গিত হলো, তাদাব্বুর ছাড়া তিলাওয়াত মানে তাদের ভুলটাই আবার করা, যারা বাণী আসার পরও তা নিয়ে ভাবেনি।"
           },
           {
             "en": "The classical scholars lived this instruction and left its fruits. Where verses appeared to pull against each other, they treated the appearance as an invitation, wrote works reconciling them, and found the resolution deepening the meaning of both passages — the opposite of what 4:82 predicts for a human book, where scrutiny widens the cracks. The Book's coherence grows under pressure; that experience, repeated across centuries, is the verse's evidence lived out.",
-            "bn": "প্রাচীন আলিমগণ এই নির্দেশ যাপন করেছেন এবং এর ফল রেখে গেছেন। যেখানে আয়াতগুলোকে পরস্পরের বিপরীতে টানছে মনে হয়েছে, তাঁরা সেই আপাত-চিত্রকে গণ্য করেছেন আমন্ত্রণ হিসেবে, সেগুলোর সমন্বয়ে গ্রন্থ রচনা করেছেন, আর দেখেছেন মীমাংসাটি দুটি অংশেরই অর্থ গভীর করে দিচ্ছে — মানুষের লেখা বই সম্পর্কে 4:82 যা আগাম বলে তার ঠিক উল্টো, যেখানে খুঁটিয়ে দেখা ফাটলগুলোই চওড়া করে। চাপের নিচে কিতাবের সামঞ্জস্য বাড়ে; শতাব্দীর পর শতাব্দী ধরে পুনরাবৃত্ত সেই অভিজ্ঞতাই আয়াতের প্রমাণ — জীবনে ফলিত।"
+            "bn": "আগের যুগের আলিমগণ এই নির্দেশ জীবনে পালন করেছেন, আর তার ফল রেখে গেছেন। যেখানে মনে হয়েছে দুই আয়াত পরস্পরের বিপরীতে টানছে, তাঁরা সেটাকে আরও ভাবার ডাক হিসেবে নিয়েছেন। এমন আয়াতগুলোর মিল দেখিয়ে বই লিখেছেন, আর দেখেছেন, মীমাংসা খুঁজতে গিয়ে দুই জায়গার অর্থই আরও গভীর হয়েছে। মানুষের লেখা বইয়ের বেলায় 4:82 আয়াত যা আগাম বলে, এ তার ঠিক উল্টো। সেখানে যত খুঁটিয়ে দেখা হয়, ফাটল তত চওড়া হয়। আর এই কিতাবকে যত চাপ দিয়ে দেখা হয়, এর সামঞ্জস্য তত বেশি ফুটে ওঠে। শতাব্দীর পর শতাব্দী বারবার ঘটা এই অভিজ্ঞতাই আয়াতের প্রমাণ, মানুষ যা নিজের জীবনে দেখেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "How Tadabbur Is Done",
-          "bn": "তাদাব্বুর যেভাবে করা হয়"
+          "bn": "তাদাব্বুর কীভাবে করবেন"
         },
         "p": [
           {
             "en": "Tadabbur has a workable method. Read small portions slowly, in a language you understand alongside the Arabic. Ask the text questions: why this word and not its synonym, why this name of Allah at this verse's end, what came before and after, who is being addressed. Compare verse with verse, since the Quran explains itself; and keep a reliable tafsir nearby to guard the boundaries of valid understanding.",
-            "bn": "তাদাব্বুরের একটি কার্যকর পদ্ধতি আছে। ছোট ছোট অংশ ধীরে পড়ুন — আরবির পাশাপাশি আপনার বোঝার ভাষায়। পাঠ্যকে প্রশ্ন করুন: এই শব্দটি কেন, এর প্রতিশব্দ নয় কেন; এই আয়াতের শেষে আল্লাহর এই নামটি কেন; আগে-পরে কী এসেছে; কাকে সম্বোধন করা হচ্ছে। আয়াতের সঙ্গে আয়াত মেলান, কারণ কুরআন নিজেই নিজের ব্যাখ্যা করে; আর বৈধ বোঝাপড়ার সীমানা রক্ষায় একটি নির্ভরযোগ্য তাফসীর হাতের কাছে রাখুন।"
+            "bn": "তাদাব্বুরের একটা কাজের পদ্ধতি আছে। অল্প অল্প অংশ ধীরে পড়ুন, আরবির পাশাপাশি এমন ভাষায় যা আপনি বোঝেন। আয়াতকে প্রশ্ন করুন: এই শব্দটাই কেন, এর সমার্থক শব্দটা নয় কেন? আয়াতের শেষে আল্লাহর এই নামটাই কেন? আগে কী এসেছে, পরে কী? কাকে বলা হচ্ছে? আয়াতের সঙ্গে আয়াত মিলিয়ে দেখুন, কারণ কুরআন নিজেই নিজের ব্যাখ্যা দেয়। আর একটি নির্ভরযোগ্য তাফসীর হাতের কাছে রাখুন, যাতে বোঝাটা সঠিক সীমার ভেতরে থাকে।"
           },
           {
             "en": "Then complete the circuit the Quran itself models: from understanding to response. The thinkers of 3:191 end their reflection in du'a; the believers described in 8:2, when His verses are recited to them, increase in faith. Tadabbur that never reaches the heart and the limbs has stopped halfway — the far end of the Book's words, the very thing the word tadabbur means to pursue, is a changed life.",
-            "bn": "তারপর কুরআন নিজে যে বৃত্তটি দেখায় তা সম্পূর্ণ করুন: বোঝা থেকে সাড়ায়। 3:191 আয়াতের চিন্তাশীলরা তাদের ভাবনা শেষ করে দোয়ায়; 8:2 আয়াতে বর্ণিত মুমিনদের সামনে তাঁর আয়াত তিলাওয়াত করা হলে তাদের ঈমান বেড়ে যায়। যে তাদাব্বুর কখনো হৃদয় ও অঙ্গ-প্রত্যঙ্গে পৌঁছায় না, তা মাঝপথে থেমে গেছে — কিতাবের শব্দগুলোর শেষ প্রান্ত, তাদাব্বুর শব্দটি যাকে ধাওয়া করতে বলে, তা হলো এক বদলে যাওয়া জীবন।"
+            "bn": "এরপর বৃত্তটা পূর্ণ করুন, যেভাবে কুরআন নিজেই দেখিয়েছে: বোঝা থেকে সাড়া দেওয়া পর্যন্ত। 3:191 আয়াতের চিন্তাশীলরা তাঁদের ভাবনা শেষ করেন দোয়ায়। 8:2 আয়াতের মুমিনদের সামনে তাঁর আয়াত তিলাওয়াত হলে তাঁদের ঈমান বেড়ে যায়। যে তাদাব্বুর কখনো অন্তর আর হাত-পা পর্যন্ত পৌঁছায় না, তা মাঝপথে থেমে গেছে। তাদাব্বুর শব্দটি যে শেষ মাথা খুঁজতে বলে, কিতাবের কথাগুলোর সেই শেষ মাথা হলো বদলে যাওয়া একটা জীবন।"
           }
         ]
       },
@@ -1861,11 +1861,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse also names what deep reading produces: certainty about the Book's origin. Many believers inherit faith and hold it sincerely but thinly, never having watched the Quran withstand their own hardest questions. 4:82 invites exactly that trial, and readers who accept it report the same result across centuries: the coherence they were promised, discovered rather than presumed, becomes a certainty no borrowed argument could have given them.",
-            "bn": "আয়াতটি এও বলে দেয় গভীর পাঠ কী উৎপন্ন করে: কিতাবের উৎস সম্পর্কে দৃঢ় বিশ্বাস। বহু মুমিন ঈমান পায় উত্তরাধিকারে এবং তা ধরে রাখে আন্তরিকভাবে অথচ পাতলা করে — নিজের কঠিনতম প্রশ্নগুলোর সামনে কুরআনকে টিকে থাকতে কখনো দেখেনি বলে। 4:82 ঠিক সেই পরীক্ষারই আমন্ত্রণ জানায়, আর যারা তা গ্রহণ করে তারা শতাব্দীর পর শতাব্দী একই ফল জানিয়ে আসছে: প্রতিশ্রুত সেই সামঞ্জস্য — অনুমান করা নয়, আবিষ্কার করা — হয়ে ওঠে এমন এক নিশ্চয়তা, ধার করা কোনো যুক্তি যা কখনো দিতে পারত না।"
+            "bn": "গভীর পাঠ কী এনে দেয়, আয়াতটি তাও বলে দেয়: কিতাবটি কোথা থেকে এসেছে, সে বিষয়ে দৃঢ় বিশ্বাস। অনেক মুমিন ঈমান পান উত্তরাধিকার সূত্রে। তাঁরা তা আন্তরিকভাবেই ধরে রাখেন, কিন্তু সেই ঈমানের শিকড় অগভীর। নিজের সবচেয়ে কঠিন প্রশ্নগুলোর সামনে কুরআনকে টিকে থাকতে তাঁরা কখনো দেখেননি। 4:82 আয়াত ঠিক সেই পরীক্ষারই ডাক দেয়। যাঁরা এই ডাকে সাড়া দেন, শতাব্দীর পর শতাব্দী তাঁরা একই ফল জানিয়ে আসছেন। যে সামঞ্জস্যের কথা দেওয়া হয়েছিল, তা ধরে না নিয়ে নিজে খুঁজে পেলে এমন নিশ্চয়তা জন্মায়, ধার করা কোনো যুক্তি যা কখনো দিতে পারত না।"
           },
           {
             "en": "So take the verse as a personal instruction with a schedule. A portion daily, read as if for the first time, questioned closely, checked against sound tafsir, and allowed to reach the heart. The Quran does not ask to be defended from scrutiny; it asks — twice, here and in 47:24 — to receive it. The lock the verses warn of is opened from the inside, by the reader who finally sits down to ponder.",
-            "bn": "তাই আয়াতটিকে নিন সময়সূচিসহ এক ব্যক্তিগত নির্দেশ হিসেবে। প্রতিদিন একটি অংশ — যেন প্রথমবার পড়ছেন এমনভাবে পড়া, খুঁটিয়ে প্রশ্ন করা, নির্ভরযোগ্য তাফসীরের সঙ্গে মিলিয়ে নেওয়া, আর হৃদয়ে পৌঁছাতে দেওয়া। কুরআন চায় না তাকে যাচাই-বাছাই থেকে আগলে রাখা হোক; সে চায় — দুবার, এখানে ও 47:24 আয়াতে — যাচাইটা গ্রহণ করতে। আয়াতগুলো যে তালার কথা সতর্ক করে, তা খোলে ভেতর থেকে — সেই পাঠকের হাতে, যে অবশেষে গভীর চিন্তায় বসে।"
+            "bn": "তাই আয়াতটিকে নিজের জন্য একটা নির্দেশ হিসেবে নিন, সঙ্গে একটা রুটিনও। প্রতিদিন একটু অংশ। এমনভাবে পড়ুন যেন প্রথমবার পড়ছেন, খুঁটিয়ে প্রশ্ন করুন, নির্ভরযোগ্য তাফসীরের সঙ্গে মিলিয়ে নিন, আর কথাগুলোকে অন্তরে পৌঁছাতে দিন। কুরআন চায় না তাকে যাচাই-বাছাই থেকে আড়াল করে রাখা হোক। বরং সে যাচাইয়ের ডাক দেয়, দুবার: এখানে আর 47:24 আয়াতে। আয়াতগুলো যে তালার ব্যাপারে সাবধান করে, তা খোলে ভেতর থেকে, সেই পাঠকের হাতে, যে অবশেষে বসে গভীরভাবে ভাবতে শুরু করে।"
           }
         ]
       }
@@ -2021,7 +2021,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Is there a company where I keep my faith quiet so that I can stay safe with everyone, as the people of 4:91 wanted? When someone who wronged me offers peace, what stops me from taking it as readily as 4:90 does? And what have I earned this month that I would not want to be turned back by?",
-            "bn": "এমন কোনো মহল কি আছে, যেখানে সবার কাছে নিরাপদ থাকার জন্য আমি নিজের ঈমানকে চুপ করিয়ে রাখি, যেমনটা ৪:৯১ আয়াতের লোকেরা চাইত? যে আমার ওপর অন্যায় করেছে, সে শান্তির প্রস্তাব দিলে ৪:৯০ আয়াতের মতো সহজে তা গ্রহণ করতে আমাকে কী আটকায়? আর এই মাসে আমি এমন কী কামাই করেছি, যার কারণে উল্টো দিকে ফিরে যেতে চাই না?"
+            "bn": "এমন কোনো মহল কি আছে, যেখানে সবার কাছে নিরাপদ থাকার জন্য আমি নিজের ঈমানকে চুপ করিয়ে রাখি, যেমনটা ৪:৯১ আয়াতের লোকেরা চাইত? যে আমার ওপর অন্যায় করেছে, সে শান্তির প্রস্তাব দিলে ৪:৯০ আয়াতের মতো সহজে তা গ্রহণ করতে আমাকে কী আটকায়? আর এই মাসে আমি এমন কী কামাই করেছি, যার দায়ে আমাকে উল্টো দিকে ফিরিয়ে দেওয়া হোক, তা আমি কখনো চাইব না?"
           }
         ]
       }
@@ -2037,7 +2037,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Nisa is Madinan, and the verses just before this pair are about fighting. 4:88 to 4:91 deal with a group of hypocrites, the ruling that fell on them, and the exceptions that lift it, closing on the one who withdraws and offers peace. 4:92 comes straight after and turns to a believer's blood. 4:93 follows with the one who kills deliberately, and 4:94 tells the believers going out in Allah's cause to investigate. The placement is itself the argument.",
-            "bn": "সূরা আন-নিসা মাদানি সূরা, আর এই দুই আয়াতের ঠিক আগের আয়াতগুলো যুদ্ধ নিয়ে। ৪:৮৮ থেকে ৪:৯১ আয়াতে আছে এক মুনাফিক দলের কথা, তাদের ওপর আসা হুকুম আর সেই হুকুম থেকে যাদের বাদ রাখা হয়েছে তাদের কথা। শেষ হয় তাকে দিয়ে, যে সরে দাঁড়ায় ও শান্তির প্রস্তাব দেয়। এরপরই ৪:৯২ আয়াত এসে মুমিনের রক্তের দিকে ফেরে। ৪:৯৩ আয়াতে আসে ইচ্ছাকৃত হত্যাকারীর কথা, আর ৪:৯৪ আয়াত আল্লাহর পথে বের হওয়া মুমিনদের বলে যাচাই করে নিতে। আয়াতের এই বসার জায়গাটাই একটা যুক্তি।"
+            "bn": "সূরা আন-নিসা মাদানী সূরা, আর এই দুই আয়াতের ঠিক আগের আয়াতগুলো যুদ্ধ নিয়ে। ৪:৮৮ থেকে ৪:৯১ আয়াতে আছে এক মুনাফিক দলের কথা, তাদের ওপর আসা হুকুম আর সেই হুকুম থেকে যাদের বাদ রাখা হয়েছে তাদের কথা। শেষ হয় তাকে দিয়ে, যে সরে দাঁড়ায় ও শান্তির প্রস্তাব দেয়। এরপরই ৪:৯২ আয়াত এসে মুমিনের রক্তের দিকে ফেরে। ৪:৯৩ আয়াতে আসে ইচ্ছাকৃত হত্যাকারীর কথা, আর ৪:৯৪ আয়াত আল্লাহর পথে বের হওয়া মুমিনদের বলে যাচাই করে নিতে। আয়াত দুটি কোথায় বসানো, সেটাই একটা যুক্তি।"
           },
           {
             "en": "Ibn Kathir opens his comment by stating that the believer is not allowed to kill his believing brother under any circumstances. He cites the report of Ibn Mas'ud (RA) in the Two Sahihs that the blood of a Muslim who testifies that there is no deity worthy of worship except Allah and that Muhammad is His Messenger is sacred, except in three cases: a life for a life, the married adulterer, and the one who leaves his religion and departs from the community. He adds that carrying such a matter out belongs to the Muslim leader or his deputy, not to ordinary people.",
@@ -2141,7 +2141,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Most readers will never face the case this verse legislates, but the habit it builds is a daily one. Allah attached a cost to harm that nobody intended, and that is a standing argument against carelessness: how a person drives, how a nurse checks a dose, how tools and vehicles and weapons are stored at home, how a rumour is passed on. None of it is neutral ground. A harm you did not mean is still a harm, and this verse puts a price on it.",
-            "bn": "বেশিরভাগ পাঠক কখনোই এই আয়াতের বিধান-করা ঘটনার মুখোমুখি হবেন না, কিন্তু আয়াতটি যে অভ্যাস গড়ে তা রোজকার। ইচ্ছে না করেও যে ক্ষতি হয়ে যায়, আল্লাহ তারও দাম ধরেছেন। অসতর্কতার বিরুদ্ধে এটিই স্থায়ী যুক্তি: মানুষ কীভাবে গাড়ি চালায়, নার্স কীভাবে ওষুধের মাত্রা মিলিয়ে নেন, ঘরে যন্ত্রপাতি, গাড়ি আর অস্ত্র কীভাবে রাখা হয়, একটা গুজব কীভাবে হাতবদল হয়। কোনোটাই নিরপেক্ষ জায়গা নয়। যে ক্ষতি আপনি চাননি, সেটিও ক্ষতি, আর এই আয়াত তার দাম বসিয়ে দেয়।"
+            "bn": "এই আয়াত যে ঘটনার বিধান দিয়েছে, বেশিরভাগ পাঠক কখনো তার মুখোমুখি হবেন না। কিন্তু আয়াতটি যে অভ্যাস গড়ে, তা রোজকার। ইচ্ছে না করেও যে ক্ষতি হয়ে যায়, আল্লাহ তারও দাম ধরেছেন। অসতর্কতার বিরুদ্ধে এটিই স্থায়ী যুক্তি: মানুষ কীভাবে গাড়ি চালায়, নার্স কীভাবে ওষুধের মাত্রা মিলিয়ে নেন, ঘরে যন্ত্রপাতি, গাড়ি আর অস্ত্র কীভাবে রাখা হয়, একটা গুজব কীভাবে হাতবদল হয়। কোনোটাই নিরপেক্ষ জায়গা নয়। যে ক্ষতি আপনি চাননি, সেটিও ক্ষতি, আর এই আয়াত তার দাম বসিয়ে দেয়।"
           },
           {
             "en": "The second habit is the one 4:94 names: find out before you act. The expedition to Banu Jadhimah went wrong because words were misheard and nobody stopped to check. In ordinary life the same failure wears other clothes, such as forwarding an accusation, cutting off a relative over a report you never verified, or deciding that a Muslim you disagree with has left the faith. The verse right after this pair had to warn the Companions against exactly that judgement, and the warning has not aged.",
@@ -2161,7 +2161,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Alongside it, a short prayer built from the passage's own vocabulary, offered as that and not as a Sunnah supplication. O Allah, hold our hands back from the blood You made sacred. Keep us from the harm we intend and from the harm we never meant. Accept from us the repair we owe to people and the turning we owe to You, as You joined the two in this ruling. And do not let any blood stand between us and You on the day of accounting.",
-            "bn": "এর পাশে অংশটির নিজের শব্দ দিয়ে গড়া ছোট একটি প্রার্থনা, যা সুন্নাহর দু'আ নয়, সেভাবেই পড়ুন। হে আল্লাহ, আপনি যে রক্ত হারাম করেছেন তা থেকে আমাদের হাত গুটিয়ে রাখুন। যে ক্ষতি আমরা করতে চাই আর যে ক্ষতি আমরা চাইনি, দুটো থেকেই আমাদের বাঁচান। মানুষের কাছে আমাদের যে মেরামতের দায়, আর আপনার কাছে আমাদের যে ফিরে আসার দায়, দুটোই কবুল করুন, যেমন আপনি এই হুকুমে দুটোকে এক করে দিয়েছেন। আর হিসাবের দিনে কোনো রক্ত যেন আমাদের ও আপনার মাঝে দাঁড়িয়ে না থাকে।"
+            "bn": "এর পাশে রইল অংশটির নিজের শব্দে গড়া ছোট একটি প্রার্থনা। এটি সুন্নাহর দু'আ নয়, সেটা মনে রেখেই পড়ুন। হে আল্লাহ, আপনি যে রক্ত হারাম করেছেন তা থেকে আমাদের হাত গুটিয়ে রাখুন। যে ক্ষতি আমরা করতে চাই আর যে ক্ষতি আমরা চাইনি, দুটো থেকেই আমাদের বাঁচান। মানুষের কাছে আমাদের যে মেরামতের দায়, আর আপনার কাছে আমাদের যে ফিরে আসার দায়, দুটোই কবুল করুন, যেমন আপনি এই হুকুমে দুটোকে এক করে দিয়েছেন। আর হিসাবের দিনে কোনো রক্ত যেন আমাদের ও আপনার মাঝে দাঁড়িয়ে না থাকে।"
           }
         ]
       },

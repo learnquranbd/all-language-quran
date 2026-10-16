@@ -39,7 +39,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Open EN (18/21): 18:99 s5.p0 "two further verses" then lists three (56:49, 56:50, 18:47); 21:105 s7.p1 says the verse "closes a surah" (7 verses before the end; BN says near its end).
 - Open EN (21): 21:7 s0.p2 "A line before, in 21:5" (two verses before); 21:47-48 s2.p1 "the first view" ambiguous (metaphor view given first); 21:25 s7.h "One Lord, One Ear" doesn't match its section.
 - Shards 18 + 21 DONE v985. Open EN (18): 18:57 s2.p1 "he left off his disbelief and his sins and did not repent" reads as gave them up (Qurtubi: left them unaddressed).
-- Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 6/6, 17: 5/5, 21: 5/5, 18: 5/5, 4: 3/8
+- Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 6/6, 17: 5/5, 21: 5/5, 18: 5/5, 4: 4/8
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
 - Tool tools/bn-review/bn.js extract <file> <CONST> | apply <CONST> [--write]; brief tools/bn-review/BRIEF.md (follows
