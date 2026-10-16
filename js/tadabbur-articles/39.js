@@ -1093,7 +1093,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This should be said plainly. The verse describes those who did wrong, whom the commentators cited here identify as idolaters and deniers, and what meets them on the Day of Resurrection. It describes what the text describes. It licenses nothing against any living person or community, gives no reader the standing to name who will offer the earth as ransom, and leaves the judging, as 39:46 says, with Allah. Ibn al-Munkadir's response points the other way: the reader's first use of the verse is to check his own reckoning.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে জুলুমকারীদের কথা, যাদের এখানে উদ্ধৃত তাফসীরকারেরা মুশরিক ও অস্বীকারকারী বলে চিহ্নিত করেছেন, আর কিয়ামতের দিন তাদের সামনে কী আসবে সেই কথা। আয়াত যা বলে, শুধু তাই বলে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এটি কোনো অনুমতি দেয় না। কে পৃথিবী মুক্তিপণ দিতে চাইবে, তা ঠিক করার অধিকারও কোনো পাঠককে দেয় না। ৩৯:৪৬ আয়াত যেমন বলেছে, ফয়সালা আল্লাহর হাতে। ইবনুল মুনকাদিরের প্রতিক্রিয়া উল্টো দিকে ইশারা করে: পাঠকের প্রথম কাজ নিজের হিসাব যাচাই করা।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি জুলুমকারীদের কথা বলে, আর বলে কিয়ামতের দিন তাদের সামনে কী আসবে। এখানে উদ্ধৃত তাফসীরকারেরা এদের মুশরিক ও অস্বীকারকারী বলে চিহ্নিত করেছেন। আয়াত যতটুকু বলে, ঠিক ততটুকুই বলে। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো অনুমতি দেয় না। কে মুক্তিপণ হিসেবে পৃথিবী দিতে চাইবে, তা ঘোষণা করার অধিকারও কোনো পাঠককে দেয় না। ৩৯:৪৬ আয়াত যেমন বলেছে, ফয়সালা আল্লাহর হাতেই থাকে। ইবনুল মুনকাদিরের প্রতিক্রিয়া উল্টো দিকে ইশারা করে: আয়াতটি পড়ে পাঠকের প্রথম কাজ নিজের হিসাব মিলিয়ে দেখা।"
           },
           {
             "en": "The two verses belong together. The first hands the unsettled argument to Allah by His names, and the Prophet's ﷺ night prayer adds a request to be guided in it now. The second shows that day arriving, with an offer too large to make and too late to matter, and a surprise left out of the wrongdoers' every sum. Between them lies today's work: to state the truth without needing to win, to ask for guidance where people differ, and to examine our deeds while the reckoning can still change.",
@@ -1113,11 +1113,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse begins with an instruction to announce it: qul, say. Then the address, ya 'ibadiya, O My servants. The people being addressed are then identified as alladhina asrafu 'ala anfusihim, those who have been excessive against themselves. Israf is going past the limit, spending beyond what one has. Yet the relationship word comes first. They are still called His servants before their record is mentioned.",
-            "bn": "আয়াতটি শুরু হয় ঘোষণার নির্দেশ দিয়ে: কুল — বলে দিন। এরপর সম্বোধন: ইয়া 'ইবাদিয়া — হে আমার বান্দারা। যাদের সম্বোধন করা হচ্ছে তাদের পরিচয় দেওয়া হয়েছে 'আল্লাযীনা আসরাফূ 'আলা আনফুসিহিম' — যারা নিজেদের ওপর সীমা ছাড়িয়েছে। 'ইসরাফ' মানে সীমা পেরিয়ে যাওয়া, সামর্থ্যের বাইরে ব্যয় করা। তবু সম্পর্কবাচক শব্দটিই আগে আসে। তাদের আমলনামার কথা ওঠার আগেই তাদের বলা হয় তাঁর বান্দা।"
+            "bn": "আয়াতটি শুরু হয় ঘোষণা করার আদেশ দিয়ে: কুল, বলে দিন। তারপর ডাক: ইয়া 'ইবাদিয়া, হে আমার বান্দারা। এরপর বলা হয় এরা কারা: 'আল্লাযীনা আসরাফূ 'আলা আনফুসিহিম', যারা নিজেদের ওপর বাড়াবাড়ি করেছে। ইসরাফ মানে সীমা ছাড়িয়ে যাওয়া, সামর্থ্যের চেয়ে বেশি খরচ করে ফেলা। তবু সম্পর্কের শব্দটাই আসে আগে। তাদের আমলনামার কথা ওঠার আগেই তাদের ডাকা হচ্ছে তাঁর বান্দা বলে।"
           },
           {
             "en": "The prohibition that follows is qunut, not the ordinary word for sadness. La taqnatu min rahmatillah: do not despair of the mercy of Allah, where qunut is the settled conviction that there is no way back. Then the reason: innallaha yaghfirudh-dhunuba jami'a, Allah forgives sins altogether. The word jami'an leaves no category outside. The verse closes with two names, al-Ghafur and ar-Rahim, forgiveness and mercy stated as attributes rather than as a one-time concession.",
-            "bn": "এরপরের নিষেধাজ্ঞায় ব্যবহৃত শব্দ 'কুনূত', দুঃখ বোঝানোর সাধারণ শব্দ নয়। লা তাকনাতূ মিন রাহমাতিল্লাহ — আল্লাহর রহমত থেকে নিরাশ হয়ো না; এখানে 'কুনূত' মানে এই স্থির বিশ্বাস যে ফেরার আর কোনো পথ নেই। এরপর কারণ: ইন্নাল্লাহা ইয়াগফিরুয্‌ যুনূবা জামী'আ — আল্লাহ সব পাপই ক্ষমা করেন। 'জামী'আন' শব্দটি কোনো শ্রেণিকেই বাইরে রাখে না। আয়াত শেষ হয় দুটি নামে — আল-গাফূর ও আর-রাহীম; ক্ষমা ও দয়াকে এককালীন ছাড় হিসেবে নয়, গুণ হিসেবেই ঘোষণা করা হয়।"
+            "bn": "এরপর যে নিষেধ আসে, তার শব্দটা 'কুনূত'। সাধারণ মন খারাপ বোঝানোর শব্দ এটা নয়। লা তাকনাতূ মিন রাহমাতিল্লাহ: আল্লাহর রহমত থেকে নিরাশ হয়ো না। কুনূত মানে মনে পাকাপাকি বসে যাওয়া এই ধারণা যে ফেরার আর কোনো পথ নেই। তারপর আসে কারণ: ইন্নাল্লাহা ইয়াগফিরুয্‌ যুনূবা জামী'আ, আল্লাহ সব গুনাহই মাফ করে দেন। 'জামী'আন' শব্দটি কোনো ধরনের গুনাহকেই বাইরে রাখে না। আয়াত শেষ হয় দুটি নামে: আল-গাফূর ও আর-রাহীম। ক্ষমা আর রহমত এখানে একবারের ছাড় নয়, তাঁর স্থায়ী গুণ।"
           }
         ]
       },
@@ -1129,59 +1129,59 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse is almost never quoted with its continuation, and the continuation is what keeps it accurate. Verse 39:54 commands: and turn back to your Lord and submit to Him before the punishment comes upon you, after which you will not be helped. Verse 39:55 adds: and follow the best of what was revealed to you from your Lord. The offer of complete forgiveness is followed immediately by the instruction to come back.",
-            "bn": "এই আয়াতটি প্রায় কখনোই এর পরবর্তী অংশসহ উদ্ধৃত হয় না, অথচ সেই পরবর্তী অংশই একে যথার্থ রাখে। 39:54 আয়াত আদেশ দেয়: তোমরা তোমাদের রবের দিকে ফিরে এসো এবং তাঁর কাছে আত্মসমর্পণ করো, সেই শাস্তি আসার আগেই — যার পরে তোমাদের সাহায্য করা হবে না। 39:55 যোগ করে: আর অনুসরণ করো তোমাদের রবের পক্ষ থেকে নাযিলকৃত সর্বোত্তম বাণীর। পূর্ণ ক্ষমার প্রস্তাবের পরপরই আসে ফিরে আসার নির্দেশ।"
+            "bn": "এই আয়াত প্রায় সব সময় উদ্ধৃত হয় পরের আয়াতগুলো বাদ দিয়ে, অথচ পরের অংশটাই একে ঠিক অর্থে ধরে রাখে। ৩৯:৫৪ আয়াতের আদেশ: তোমরা তোমাদের রবের দিকে ফিরে এসো, তাঁর কাছে আত্মসমর্পণ করো, শাস্তি এসে পড়ার আগেই; তখন আর তোমাদের সাহায্য করা হবে না। ৩৯:৫৫ যোগ করে: আর তোমাদের রবের কাছ থেকে তোমাদের প্রতি যা নাজিল হয়েছে, তার সর্বোত্তমটির অনুসরণ করো। পূর্ণ ক্ষমার প্রস্তাবের ঠিক পরেই আসে ফিরে আসার আদেশ।"
           },
           {
             "en": "The commentators are near-unanimous that this is how the promise is to be understood: forgiveness of all sins for the one who repents. That reading is required by the rest of the Quran, since 4:48 states that Allah does not forgive that partners be associated with Him while He forgives what is less than that for whom He wills, and shirk is forgiven when a person turns from it. The verse opens a door; it does not remove the need to walk through it.",
-            "bn": "মুফাসসিরগণ প্রায় সর্বসম্মতভাবে বলেন, প্রতিশ্রুতিটি এভাবেই বুঝতে হবে: যে তওবা করে তার সব পাপের ক্ষমা। কুরআনের বাকি অংশই এই পাঠকে আবশ্যক করে, কারণ 4:48 বলে যে আল্লাহ তাঁর সঙ্গে শরীক করাকে ক্ষমা করেন না, তবে এর চেয়ে কম যা তা যাকে চান ক্ষমা করেন — আর মানুষ শিরক থেকে ফিরে এলে তা ক্ষমা করা হয়। আয়াতটি দরজা খুলে দেয়; সেই দরজা দিয়ে হেঁটে যাওয়ার প্রয়োজনটুকু তুলে নেয় না।"
+            "bn": "মুফাসসিররা প্রায় সবাই একমত, প্রতিশ্রুতিটা এভাবেই বুঝতে হবে: যে তওবা করে, তার সব গুনাহ মাফ। কুরআনের বাকি অংশও এই অর্থই দাবি করে। ৪:৪৮ আয়াত বলছে, আল্লাহ তাঁর সঙ্গে শরীক করার গুনাহ মাফ করেন না, এর চেয়ে ছোট গুনাহ যাকে চান মাফ করেন। আর মানুষ শিরক থেকে ফিরে এলে শিরকও মাফ হয়। আয়াতটি দরজা খুলে দেয়, কিন্তু সেই দরজা পেরিয়ে যাওয়ার দায়টুকু তুলে নেয় না।"
           }
         ]
       },
       {
         "h": {
           "en": "Sent Down for the Worst Cases",
-          "bn": "সবচেয়ে ভারী মামলার জন্য নাযিল"
+          "bn": "সবচেয়ে বড় গুনাহগারদের জন্য নাজিল"
         },
         "p": [
           {
             "en": "The commentators relate that this verse came down concerning people whose past was as bad as a past can be. Among the reports transmitted in the tafsir literature is one connected with Wahshi ibn Harb (RA), the man who killed Hamzah (RA) at Uhud, who feared that repentance was closed to someone like him. Reports of this kind vary in their chains, but they agree on the situation the verse addresses.",
-            "bn": "মুফাসসিরগণ বর্ণনা করেন, এই আয়াত নাযিল হয়েছিল এমন মানুষদের প্রসঙ্গে যাদের অতীত যতটা খারাপ হওয়া সম্ভব ততটাই খারাপ ছিল। তাফসীর সাহিত্যে বর্ণিত বিবরণগুলোর মধ্যে একটি যুক্ত ওয়াহশী ইবনে হারব (রাঃ)-এর সঙ্গে, যিনি উহুদে হামযা (রাঃ)-কে হত্যা করেছিলেন এবং আশঙ্কা করছিলেন যে তাঁর মতো কারও জন্য তওবার দরজা বন্ধ। এ ধরনের বর্ণনাগুলোর সনদে ভিন্নতা আছে, তবে আয়াতটি কোন পরিস্থিতির জবাব দিচ্ছে সে বিষয়ে সেগুলো একমত।"
+            "bn": "মুফাসসিররা বর্ণনা করেন, এই আয়াত নাজিল হয়েছিল এমন মানুষদের নিয়ে, যাদের অতীত এর চেয়ে খারাপ হতে পারত না। তাফসীরের কিতাবে যেসব বর্ণনা এসেছে, তার একটি ওয়াহশী ইবনে হারব (রাঃ)-কে নিয়ে। উহুদে তিনিই হামযা (রাঃ)-কে হত্যা করেছিলেন, আর ভয় পাচ্ছিলেন, তাঁর মতো মানুষের জন্য তওবার দরজা বুঝি বন্ধ। এ ধরনের বর্ণনার সনদ নানা রকম, তবে আয়াতটি কোন অবস্থার জবাবে এসেছে, সে ব্যাপারে সবগুলো একমত।"
           },
           {
             "en": "That setting explains the tone. The verse is not addressed to people with a manageable list of small faults. It is addressed to those who have concluded that they are beyond the reach of forgiveness, and it is phrased so that the conclusion itself is what is forbidden. Despair is treated in this passage as a serious error about Allah rather than as a natural consequence of a bad record.",
-            "bn": "এই প্রেক্ষাপটই আয়াতের সুরটি ব্যাখ্যা করে। এটি এমন মানুষদের উদ্দেশে নয়, যাদের ছোটখাটো ত্রুটির তালিকা সামলানোর মতো। এটি তাদের উদ্দেশে, যারা সিদ্ধান্তে পৌঁছে গেছে যে ক্ষমার নাগালের বাইরে চলে গেছে; আর ভাষাটি এমনভাবে সাজানো যে সেই সিদ্ধান্তটিই নিষিদ্ধ করা হচ্ছে। এই অংশে নিরাশাকে খারাপ আমলনামার স্বাভাবিক পরিণতি নয়, বরং আল্লাহ সম্পর্কে একটি গুরুতর ভুল হিসেবে দেখা হয়েছে।"
+            "bn": "এই প্রেক্ষাপট থেকেই আয়াতের সুরটা বোঝা যায়। যাদের ছোটখাটো ভুলের তালিকা সামলে নেওয়ার মতো, আয়াতটি তাদের উদ্দেশে নয়। এটি তাদের জন্য, যারা ধরেই নিয়েছে যে তারা ক্ষমার নাগালের বাইরে চলে গেছে। আর আয়াতের ভাষা এমনভাবে সাজানো যে নিষেধটা পড়ছে ঠিক ওই ধরে নেওয়ার উপরেই। এখানে নিরাশা খারাপ আমলনামার স্বাভাবিক ফল নয়, বরং আল্লাহকে নিয়ে এক গুরুতর ভুল।"
           }
         ]
       },
       {
         "h": {
           "en": "The Man Who Killed a Hundred",
-          "bn": "একশো জনকে হত্যাকারী"
+          "bn": "যে একশো জনকে হত্যা করেছিল"
         },
         "p": [
           {
             "en": "Al-Bukhari and Muslim both record the account of a man from an earlier nation who had killed ninety-nine people and asked whether repentance was possible. A worshipper told him it was not, and the man killed him too, completing a hundred. He then asked a scholar, who told him that nobody stands between him and repentance, and directed him to a land where Allah is worshipped, telling him not to return to his own.",
-            "bn": "বুখারী ও মুসলিম উভয়েই পূর্ববর্তী এক জাতির সেই ব্যক্তির ঘটনা বর্ণনা করেন, যে নিরানব্বই জনকে হত্যা করে জিজ্ঞেস করেছিল তার তওবা সম্ভব কি না। এক ইবাদতগুজার তাকে বলে, না; সে তাকেও হত্যা করে সংখ্যাটি একশোতে পূর্ণ করে। এরপর সে এক আলিমকে জিজ্ঞেস করে, যিনি তাকে বলেন যে তার ও তার তওবার মাঝখানে কেউ দাঁড়াতে পারে না, এবং তাকে এমন এক জনপদের দিকে যেতে বলেন যেখানে আল্লাহর ইবাদত হয়, আর নিজের এলাকায় না ফিরতে বলেন।"
+            "bn": "বুখারী ও মুসলিম দুজনেই আগের এক উম্মতের এক লোকের ঘটনা বর্ণনা করেছেন। সে নিরানব্বই জন মানুষকে হত্যা করে জানতে চাইল, তার তওবার কোনো সুযোগ আছে কি না। এক আবেদ তাকে বলল, নেই। সে তাকেও মেরে ফেলল, পূর্ণ হলো একশো। এরপর সে গেল এক আলিমের কাছে। আলিম বললেন, তার আর তার তওবার মাঝে কেউ দাঁড়াতে পারে না। তিনি তাকে এমন এক এলাকায় যেতে বললেন, যেখানে মানুষ আল্লাহর ইবাদত করে, আর নিজের এলাকায় ফিরে যেতে নিষেধ করলেন।"
           },
           {
             "en": "He died on the road before arriving, and the narration reports that he was judged to belong to the people of mercy because he had set out. Two things in that account are usually missed. The first is that the scholar's answer included a change of place and company, not only a feeling of regret. The second is that the man was still moving when he died, and that was enough.",
-            "bn": "পৌঁছানোর আগেই পথে তার মৃত্যু হয়, আর বর্ণনায় এসেছে যে সে রহমতের অধিকারীদের অন্তর্ভুক্ত বলে ফয়সালা হয় — কারণ সে রওনা দিয়েছিল। এই ঘটনার দুটি দিক সাধারণত চোখ এড়িয়ে যায়। প্রথমটি হলো, আলিমের পরামর্শে কেবল অনুশোচনার অনুভূতি ছিল না, ছিল স্থান ও সঙ্গ বদলানোর কথাও। দ্বিতীয়টি হলো, মৃত্যুর সময়ও সে চলার পথেই ছিল — আর সেটুকুই যথেষ্ট হয়েছিল।"
+            "bn": "পৌঁছানোর আগেই পথে তার মৃত্যু হয়। বর্ণনায় এসেছে, তাকে রহমতের লোকদের মধ্যে গণ্য করা হয়, কারণ সে রওনা দিয়েছিল। এই ঘটনার দুটি দিক সাধারণত চোখ এড়িয়ে যায়। এক, আলিমের পরামর্শ শুধু অনুশোচনার অনুভূতিতে থেমে থাকেনি, তাতে ছিল জায়গা আর সঙ্গী বদলানোর কথাও। দুই, মৃত্যুর সময়ও লোকটি পথ চলছিল, আর সেটুকুই যথেষ্ট হয়েছিল।"
           }
         ]
       },
       {
         "h": {
           "en": "What Repentance Requires",
-          "bn": "তওবা যা দাবি করে"
+          "bn": "তওবায় যা লাগে"
         },
         "p": [
           {
             "en": "The classical scholars describe tawbah in plain terms: stopping the act, regretting it, and resolving not to return to it; and where a person's right has been violated, restoring it or seeking their pardon. Nothing in that list is designed to be crushing. It is meant to be doable, which is why it does not include feeling a certain intensity of remorse or being certain that one will never fall again.",
-            "bn": "ধ্রুপদী আলিমগণ তওবাকে সহজ ভাষায় বর্ণনা করেন: কাজটি বন্ধ করা, তার জন্য অনুতপ্ত হওয়া, এবং তাতে না ফেরার সংকল্প করা; আর যেখানে কারও অধিকার লঙ্ঘিত হয়েছে, তা ফিরিয়ে দেওয়া বা তার কাছে ক্ষমা চাওয়া। এই তালিকার কোনো কিছুই মানুষকে পিষে ফেলার জন্য নয়। এটি করার মতোই রাখা হয়েছে — সে কারণেই এতে নেই কোনো নির্দিষ্ট মাত্রার অনুশোচনা অনুভব করা, কিংবা আর কখনো পড়ে যাব না এমন নিশ্চয়তা।"
+            "bn": "পূর্বযুগের আলিমরা তওবাকে সহজ কথায় বুঝিয়েছেন: কাজটা ছেড়ে দেওয়া, তার জন্য অনুতপ্ত হওয়া, আর আবার সেদিকে না ফেরার সংকল্প করা। আর কারও হক নষ্ট হয়ে থাকলে তা ফিরিয়ে দেওয়া, নয়তো তার কাছে মাফ চেয়ে নেওয়া। এর কোনোটাই মানুষকে পিষে ফেলার জন্য নয়, সবই সাধ্যের মধ্যে রাখা। সে কারণেই এই তালিকায় নেই নির্দিষ্ট মাত্রায় অনুশোচনা টের পাওয়ার শর্ত, কিংবা আর কখনো পা পিছলাবে না, এমন নিশ্চয়তার শর্ত।"
           },
           {
             "en": "At-Tirmidhi reports a hadith qudsi in which Allah says that were a servant's sins to reach the clouds of the sky and he then sought forgiveness, He would forgive him. Alongside this, honesty requires saying that forgiveness of sin is not the same as removal of consequences. A debt still has to be paid, a harm still has to be repaired, and a legal or medical consequence does not disappear. What ends is the standing before Allah.",
-            "bn": "তিরমিযী একটি হাদীসে কুদসী বর্ণনা করেন, যেখানে আল্লাহ বলেন — বান্দার পাপ যদি আকাশের মেঘ পর্যন্ত পৌঁছে যায় এবং এরপর সে ক্ষমা চায়, তবে তিনি তাকে ক্ষমা করে দেবেন। এর পাশাপাশি সততার দাবি হলো এ কথাও বলা যে পাপের ক্ষমা আর পরিণতির অবসান এক নয়। ঋণ পরিশোধ করতেই হবে, ক্ষতি মেরামত করতেই হবে, আর আইনি বা শারীরিক পরিণাম আপনাআপনি মিলিয়ে যায় না। যা শেষ হয়ে যায় তা হলো আল্লাহর সামনে জবাবদিহির সেই দায়।"
+            "bn": "তিরমিযী একটি হাদিসে কুদসী বর্ণনা করেছেন। সেখানে আল্লাহ বলেন, বান্দার গুনাহ যদি আকাশের মেঘ পর্যন্তও পৌঁছে যায়, তারপর সে ক্ষমা চায়, তবে তিনি তাকে ক্ষমা করে দেবেন। তবে সততার খাতিরে এ কথাও বলা দরকার: গুনাহ মাফ হওয়া আর তার পরিণতি মুছে যাওয়া এক জিনিস নয়। ঋণ থাকলে শোধ করতেই হবে, কারও ক্ষতি করে থাকলে তা পূরণ করতেই হবে, আর আইনি বা শারীরিক পরিণতিও আপনা-আপনি মিলিয়ে যায় না। যা শেষ হয়, তা হলো আল্লাহর সামনে ওই গুনাহের দায়।"
           }
         ]
       },
@@ -1193,11 +1193,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Many people who know this verse still cannot use it, because shame is not argued away by information. The practical route reported from the scholars is usually the same as the one given to the man who killed a hundred: change the surroundings that make the sin easy, find people who are going where you want to go, and begin with the obligations rather than waiting to feel worthy of them.",
-            "bn": "যারা এই আয়াতটি জানেন, তাঁদের অনেকেই তবু একে কাজে লাগাতে পারেন না — কারণ লজ্জা তথ্য দিয়ে দূর হয় না। আলিমদের থেকে বর্ণিত ব্যবহারিক পথটি সাধারণত সেই একই, যা একশো জনকে হত্যাকারীকে দেওয়া হয়েছিল: যে পরিবেশ পাপকে সহজ করে তা বদলান, এমন মানুষদের খুঁজুন যারা আপনি যেদিকে যেতে চান সেদিকেই যাচ্ছেন, আর নিজেকে যোগ্য মনে হওয়ার অপেক্ষা না করে ফরযগুলো দিয়েই শুরু করুন।"
+            "bn": "এই আয়াত যারা জানেন, তাঁদের অনেকেই তবু একে কাজে লাগাতে পারেন না, কারণ শুধু তথ্য দিয়ে লজ্জা দূর হয় না। আলিমদের কাছ থেকে যে বাস্তব পথের কথা আসে, তা সাধারণত সেই একই পথ, যা একশো জনের হত্যাকারীকে দেখানো হয়েছিল। যে পরিবেশ গুনাহকে সহজ করে দেয়, তা বদলান। আপনি যেদিকে যেতে চান, যারা সেদিকেই চলছে, তাদের খুঁজে নিন। আর নিজেকে যোগ্য মনে হওয়ার অপেক্ষায় না থেকে ফরজগুলো দিয়েই শুরু করুন।"
           },
           {
             "en": "It is also worth being careful with the promise. This verse does not say that a person will feel forgiven, that the memory will stop returning, or that the past will become weightless. It says that Allah forgives all sins, and that despairing of that is itself forbidden. For a person who has been carrying something for years, the instruction is narrow and doable: stop concluding the case against yourself, and turn back.",
-            "bn": "প্রতিশ্রুতিটি নিয়েও সতর্ক থাকা দরকার। এই আয়াত বলেনি যে মানুষ ক্ষমাপ্রাপ্ত বলে অনুভব করবে, কিংবা স্মৃতিটি আর ফিরে আসবে না, কিংবা অতীত ভারহীন হয়ে যাবে। এটি বলে যে আল্লাহ সব পাপ ক্ষমা করেন, আর সে বিষয়ে নিরাশ হওয়াটাই নিষিদ্ধ। বছরের পর বছর কিছু বয়ে বেড়ানো মানুষের জন্য নির্দেশটি সংকীর্ণ ও করার মতো: নিজের বিরুদ্ধে রায় লিখে ফেলা বন্ধ করুন, আর ফিরে আসুন।"
+            "bn": "প্রতিশ্রুতিটা নিয়েও সাবধান থাকা ভালো। এ আয়াত বলেনি যে মানুষ মনে মনে ক্ষমা পাওয়ার স্বস্তি টের পাবে, স্মৃতিটা আর ফিরে আসবে না, কিংবা অতীতের ভার আর থাকবে না। আয়াত বলছে, আল্লাহ সব গুনাহ মাফ করেন, আর সে ব্যাপারে নিরাশ হওয়াটাই নিষেধ। যে মানুষ বছরের পর বছর কোনো বোঝা বয়ে বেড়াচ্ছে, তার জন্য নির্দেশটা ছোট্ট আর পালন করার মতো: নিজের বিরুদ্ধে রায় দিয়ে ফেলা বন্ধ করুন, আর ফিরে আসুন।"
           }
         ]
       }
@@ -1300,7 +1300,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Pride as the Prophet Defined It",
-          "bn": "নবীজির ﷺ দেওয়া সংজ্ঞা"
+          "bn": "নবীজির ﷺ ভাষায় অহংকার"
         },
         "p": [
           {
@@ -1533,7 +1533,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Zumara means groups. Ibn Kathir orders them: group after group, first those brought near, then the righteous, then those who come after them, and then those after them. Each party travels with those who suit it: prophets with prophets, the truthful with their likes, martyrs with their peers, scholars with their fellows, every kind with its kind. As-Sa'di adds the mood of the march, glad and rejoicing, each group with the group whose deeds match and resemble its own. The company a person keeps on that road is set by what he did on this one.",
-            "bn": "যুমারা মানে দলে দলে। ইবন কাসীর দলগুলোর একটা ক্রম দেন: একের পর এক দল। প্রথমে আল্লাহর নৈকট্যপ্রাপ্তরা, তারপর নেককাররা, তারপর তাদের পরের স্তর, তারপর তারও পরের। প্রত্যেক দল চলবে নিজের মানানসই লোকদের সঙ্গে: নবীরা নবীদের সঙ্গে, সিদ্দীকরা তাঁদের মতো লোকদের সঙ্গে, শহীদরা সমকক্ষদের সঙ্গে, আলেমরা সহকর্মীদের সঙ্গে। সা'দী যোগ করেন সেই যাত্রার মেজাজ: আনন্দিত, খুশিতে ভরা, আর প্রত্যেক দল সেই দলের সঙ্গে, যাদের আমল তাদের আমলের সঙ্গে মেলে। সে পথে কে কার সঙ্গী হবে, তা ঠিক হয় এ পথে সে কী করেছে তা দিয়ে।"
+            "bn": "যুমারা মানে দলে দলে। ইবন কাসীর দলগুলোর একটা ক্রম দেন: একের পর এক দল। প্রথমে আল্লাহর নৈকট্যপ্রাপ্তরা, তারপর নেককাররা, তারপর তাদের পরের স্তর, তারপর তারও পরের। প্রত্যেক দল চলবে নিজের মানানসই লোকদের সঙ্গে: নবীরা নবীদের সঙ্গে, সিদ্দীকরা তাঁদের মতো লোকদের সঙ্গে, শহীদরা সমকক্ষদের সঙ্গে, আলেমরা সহকর্মীদের সঙ্গে। যার যার মতো লোক, তার তার দলে। সা'দী যোগ করেন সেই যাত্রার মেজাজ: আনন্দিত, খুশিতে ভরা, আর প্রত্যেক দল সেই দলের সঙ্গে, যাদের আমল তাদের আমলের সঙ্গে মেলে। সে পথে কে কার সঙ্গী হবে, তা ঠিক হয় এ পথে সে কী করেছে তা দিয়ে।"
           }
         ]
       },
