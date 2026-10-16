@@ -57,7 +57,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari and Ibn Kathir both take the one soul to be Adam (AS). Ibn Kathir understands its mate to be Hawwa, created from him, and cites the hadith that woman was created from a rib. In al-Bukhari's wording from Abu Hurayrah (RA), that hadith opens with a command to treat women well. Ibn Kathir then draws the lesson the verse is heading toward: Allah mentions that He created people from one father and one mother so that they would feel compassion for one another and be kind to the weaker among them.",
-            "bn": "তাবারী ও ইবনে কাসীর দুজনেই এক প্রাণ বলতে আদম (আঃ)-কে বুঝেছেন। ইবনে কাসীরের মতে তাঁর জোড়া হলেন হাওয়া, যাঁকে তাঁর থেকে সৃষ্টি করা হয়েছে। এর পক্ষে তিনি সেই হাদীস আনেন, যাতে বলা হয়েছে নারীকে পাঁজরের হাড় থেকে সৃষ্টি করা হয়েছে। ইমাম বুখারী আবু হুরায়রা (রাঃ) থেকে হাদীসটি যে শব্দে এনেছেন, তার শুরুতেই আছে নারীদের সঙ্গে ভালো ব্যবহারের আদেশ। এরপর ইবনে কাসীর সেই শিক্ষাটি টানেন, যেদিকে আয়াত এগোচ্ছে। আল্লাহ জানিয়ে দিলেন, তিনি মানুষকে এক বাবা আর এক মা থেকে সৃষ্টি করেছেন, যাতে তারা একে অন্যের প্রতি মমতা বোধ করে আর দুর্বলদের সঙ্গে সদয় হয়।"
+            "bn": "তাবারী ও ইবনে কাসীর দুজনেই এক প্রাণ বলতে আদম (আঃ)-কে বুঝেছেন। ইবনে কাসীরের মতে তাঁর জোড়া হলেন হাওয়া, যাঁকে তাঁর থেকে সৃষ্টি করা হয়েছে। এর পক্ষে তিনি সেই হাদিস আনেন, যাতে বলা হয়েছে নারীকে পাঁজরের হাড় থেকে সৃষ্টি করা হয়েছে। ইমাম বুখারী আবু হুরায়রা (রাঃ) থেকে হাদিসটি যে শব্দে এনেছেন, তার শুরুতেই আছে নারীদের সঙ্গে ভালো ব্যবহারের আদেশ। এরপর ইবনে কাসীর সেই শিক্ষাটি টানেন, যেদিকে আয়াত এগোচ্ছে। আল্লাহ জানিয়ে দিলেন, তিনি মানুষকে এক বাবা আর এক মা থেকে সৃষ্টি করেছেন, যাতে তারা একে অন্যের প্রতি মমতা বোধ করে আর দুর্বলদের সঙ্গে সদয় হয়।"
           },
           {
             "en": "On by whom you ask one another, Ibn Kathir reports from Ibrahim an-Nakha'i, Mujahid and al-Hasan that it refers to people saying, I ask you by Allah, and by the tie of kinship. Ad-Dahhak read it more broadly as fearing Allah in whose name you make transactions and contracts. On the wombs, he reports from Ibn Abbas (RA), Ikrimah, Mujahid, al-Hasan and others that it means do not cut the ties of kinship, but keep and honour them. The two explanations do not compete; one names the habit, the other the duty.",
@@ -233,7 +233,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir cites a report from Jabir (RA), recorded by Ahmad, Abu Dawud, at-Tirmidhi and Ibn Majah. The widow of Sa'd ibn ar-Rabi' (RA), who had been killed at Uhud, came to the Prophet ﷺ with her two daughters. Their uncle had taken all of Sa'd's wealth and left them nothing, and they could not marry without means. The Prophet ﷺ said that Allah would decide the matter. When the verse of inheritance came, he sent word to the uncle to give the two daughters two thirds and their mother an eighth, and to keep the remainder.",
-            "bn": "ইবনে কাসীর জাবির (রাঃ) থেকে একটি বর্ণনা আনেন, যা ইমাম আহমাদ, আবু দাউদ, তিরমিযী ও ইবনে মাজাহ বর্ণনা করেছেন। উহুদে শহীদ সা'দ ইবনে রাবী' (রাঃ)-এর স্ত্রী দুই মেয়েকে নিয়ে নবী ﷺ-এর কাছে এলেন। মেয়েদের চাচা সা'দের সব সম্পদ নিয়ে নিয়েছিল, তাদের জন্য কিছুই রাখেনি। আর সম্পদ না থাকলে তাদের বিয়েও হবে না। নবী ﷺ বললেন, আল্লাহ এ বিষয়ে ফয়সালা করবেন। মিরাসের আয়াত নাযিল হলে তিনি চাচার কাছে খবর পাঠালেন: দুই মেয়েকে তিন ভাগের দুই ভাগ দাও, তাদের মাকে আট ভাগের এক ভাগ, আর বাকিটা তোমার।"
+            "bn": "ইবনে কাসীর জাবির (রাঃ) থেকে একটি বর্ণনা আনেন, যা ইমাম আহমাদ, আবু দাউদ, তিরমিযী ও ইবনে মাজাহ বর্ণনা করেছেন। উহুদে শহীদ সা'দ ইবনে রাবী' (রাঃ)-এর স্ত্রী দুই মেয়েকে নিয়ে নবী ﷺ-এর কাছে এলেন। মেয়েদের চাচা সা'দের সব সম্পদ নিয়ে নিয়েছিল, তাদের জন্য কিছুই রাখেনি। আর সম্পদ না থাকলে তাদের বিয়েও হবে না। নবী ﷺ বললেন, আল্লাহ এ বিষয়ে ফয়সালা করবেন। মিরাসের আয়াত নাজিল হলে তিনি চাচার কাছে খবর পাঠালেন: দুই মেয়েকে তিন ভাগের দুই ভাগ দাও, তাদের মাকে আট ভাগের এক ভাগ, আর বাকিটা তোমার।"
           },
           {
             "en": "The report shows the verse arriving as protection. Two girls and a widow, with no man left to speak for them, were being pushed out by a stronger relative, and revelation named their shares so that no uncle could argue. Al-Bukhari also records from Sa'd ibn Abi Waqqas (RA) that when he was ill and asked to bequeath a large part of his wealth, the Prophet ﷺ allowed a third and said a third is much, and that leaving one's heirs well off is better than leaving them dependent, asking from people.",
@@ -353,7 +353,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir explains that at the beginning of Islam, when such an act was established by sufficient proof, the woman was confined to her home. He reports from Ibn Abbas (RA) that this was the early ruling until Allah sent down Surah an-Nur, which abrogated it, and he names Ikrimah, Sa'id ibn Jubayr, al-Hasan, Qatadah, ad-Dahhak and others as saying the same. He calls this a matter that is agreed upon. The way promised in the verse, on this reading, is the later ruling.",
-            "bn": "ইবনে কাসীর ব্যাখ্যা করেন, ইসলামের শুরুতে পর্যাপ্ত প্রমাণে এমন কাজ প্রমাণিত হলে নারীকে তার ঘরে আটকে রাখা হতো। ইবনে আব্বাস (রাঃ) থেকে তিনি বর্ণনা করেন, এটা ছিল প্রথম দিকের বিধান, যতক্ষণ না আল্লাহ সূরা নূর নাযিল করেন, যা এটিকে রহিত করে দেয়। ইকরিমা, সাঈদ ইবনে জুবায়র, হাসান বসরী, কাতাদা, দাহহাক প্রমুখও একই কথা বলেছেন বলে তিনি উল্লেখ করেন। তাঁর ভাষায় বিষয়টি সর্বসম্মত। এই পাঠ অনুযায়ী আয়াতে প্রতিশ্রুত পথ হলো পরের বিধান।"
+            "bn": "ইবনে কাসীর ব্যাখ্যা করেন, ইসলামের শুরুতে পর্যাপ্ত প্রমাণে এমন কাজ প্রমাণিত হলে নারীকে তার ঘরে আটকে রাখা হতো। ইবনে আব্বাস (রাঃ) থেকে তিনি বর্ণনা করেন, এটা ছিল প্রথম দিকের বিধান, যতক্ষণ না আল্লাহ সূরা নূর নাজিল করেন, যা এটিকে রহিত করে দেয়। ইকরিমা, সাঈদ ইবনে জুবায়র, হাসান বসরী, কাতাদা, দাহহাক প্রমুখও একই কথা বলেছেন বলে তিনি উল্লেখ করেন। তাঁর ভাষায় বিষয়টি সর্বসম্মত। এই পাঠ অনুযায়ী আয়াতে প্রতিশ্রুত পথ হলো পরের বিধান।"
           },
           {
             "en": "The commentators differ over whom 4:16 describes. Ibn Kathir reports Mujahid's view that it concerns two men, adding that Allah knows best. Another view, recorded by at-Tabari and preferred by him, is that 4:15 concerns women and 4:16 an unmarried man and woman. Others read the two as a man and a woman without further distinction. Al-Qurtubi gathers these positions. On the hurt in fa-adhuhuma, Ibn Kathir reports from Ibn Abbas (RA) and Sa'id ibn Jubayr that it included verbal reproach and shaming, and he adds that this too was later abrogated.",
@@ -521,7 +521,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "For the heart that has cooled, Ibn Kathir cites a second hadith, which Muslim records from Abu Hurayrah (RA): a believing man should not hate a believing woman; if he dislikes one trait in her, he will be pleased with another. The Arabic verb, la yafrak, names the particular aversion that can grow between spouses. The hadith does not tell the husband to pretend. It tells him to look again, and it is the practical form of the verse's own counsel, that Allah may have placed much good in what he dislikes.",
-            "bn": "যে মনের টান কমে গেছে, তার জন্য ইবনে কাসীর আরেকটি হাদীস আনেন, যা ইমাম মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেছেন: কোনো মুমিন পুরুষ যেন কোনো মুমিন নারীকে ঘৃণা না করে। তার একটা স্বভাব অপছন্দ হলে আরেকটা স্বভাবে সে খুশি হবে। আরবি ক্রিয়াটি লা ইয়াফরাক, যা বিশেষভাবে স্বামী-স্ত্রীর মাঝে জন্মানো বিতৃষ্ণা বোঝায়। হাদীসটি স্বামীকে ভান করতে বলে না। বলে আবার তাকিয়ে দেখতে। অপছন্দের জিনিসে আল্লাহ অনেক কল্যাণ রাখতে পারেন, আয়াতের এই উপদেশের হাতে-কলমে রূপ এটাই।"
+            "bn": "যে মনের টান কমে গেছে, তার জন্য ইবনে কাসীর আরেকটি হাদিস আনেন, যা ইমাম মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেছেন: কোনো মুমিন পুরুষ যেন কোনো মুমিন নারীকে ঘৃণা না করে। তার একটা স্বভাব অপছন্দ হলে আরেকটা স্বভাবে সে খুশি হবে। আরবি ক্রিয়াটি লা ইয়াফরাক, যা বিশেষভাবে স্বামী-স্ত্রীর মাঝে জন্মানো বিতৃষ্ণা বোঝায়। হাদিসটি স্বামীকে ভান করতে বলে না। বলে আবার তাকিয়ে দেখতে। অপছন্দের জিনিসে আল্লাহ অনেক কল্যাণ রাখতে পারেন, আয়াতের এই উপদেশের হাতে-কলমে রূপ এটাই।"
           }
         ]
       },
@@ -745,7 +745,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens with the two halves of tawhid: worship Allah, and associate nothing with Him. The word for nothing sits indefinite inside a negation, which in Arabic sweeps away every partner of every size. Then, with no break, comes wa bil-walidayni ihsana — and to parents, ihsan. A single preposition then runs on through the whole list that follows, so every group named after the parents hangs grammatically on that same word. Belief in One God is not left as a private conviction; it is turned straight into conduct.",
-            "bn": "আয়াত শুরু হয় তাওহীদের দুই দিক দিয়ে: আল্লাহর ইবাদত করো, আর কোনো কিছুকেই তাঁর শরিক কোরো না। 'কোনো কিছু' শব্দটা নেতিবাচক বাক্যে অনির্দিষ্ট রূপে এসেছে। আরবিতে এই গঠন ছোট-বড় সব শরিককে একসঙ্গে মুছে দেয়। তারপর কোনো বিরতি ছাড়াই আসে ওয়া বিল-ওয়ালিদাইনি ইহসানা, আর বাবা-মার সঙ্গে ইহসান। এরপর একটিমাত্র অব্যয় গোটা তালিকা জুড়ে চলে। ফলে বাবা-মার পরে যাদের নাম এসেছে, ব্যাকরণের দিক থেকে তারা সবাই ওই একই শব্দের সঙ্গে বাঁধা। এক আল্লাহর ওপর ঈমান এখানে শুধু মনের বিশ্বাস হয়ে থাকে না, সোজা আচরণে রূপ নেয়।"
+            "bn": "আয়াত শুরু হয় তাওহিদের দুই দিক দিয়ে: আল্লাহর ইবাদত করো, আর কোনো কিছুকেই তাঁর শরিক কোরো না। 'কোনো কিছু' শব্দটা নেতিবাচক বাক্যে অনির্দিষ্ট রূপে এসেছে। আরবিতে এই গঠন ছোট-বড় সব শরিককে একসঙ্গে মুছে দেয়। তারপর কোনো বিরতি ছাড়াই আসে ওয়া বিল-ওয়ালিদাইনি ইহসানা, আর বাবা-মার সঙ্গে ইহসান। এরপর একটিমাত্র অব্যয় গোটা তালিকা জুড়ে চলে। ফলে বাবা-মার পরে যাদের নাম এসেছে, ব্যাকরণের দিক থেকে তারা সবাই ওই একই শব্দের সঙ্গে বাঁধা। এক আল্লাহর ওপর ঈমান এখানে শুধু মনের বিশ্বাস হয়ে থাকে না, সোজা আচরণে রূপ নেয়।"
           },
           {
             "en": "Ihsan is not the same as justice. Justice, 'adl, hands a person exactly what is owed; ihsan goes past the debt, into kindness no one could have claimed. So the command is not merely that we deal fairly with the groups named here, which was required already, but that we deal with them beautifully. 16:90 sets the two words side by side, ordering justice and ihsan together and in that order.",
@@ -893,11 +893,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir brings under these verses the hadith of the first people to be judged, which Muslim records from Abu Hurayrah (RA). Among them is a man to whom Allah gave wealth of every kind. He is asked what he did with it and says he left no path in which Allah loves spending without spending in it. He is told that he lied: he did it so that it would be said he is generous, and it was said. The man wanted to be spoken of, he was spoken of, and nothing was left owing to him.",
-            "bn": "ইবনে কাসীর এই আয়াতগুলোর অধীনে সেই হাদীস আনেন, যাতে সবার আগে বিচার হওয়া লোকদের কথা আছে। ইমাম মুসলিম হাদীসটি আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেছেন। তাদের একজন এমন মানুষ, যাকে আল্লাহ সব রকম সম্পদ দিয়েছিলেন। তাকে জিজ্ঞেস করা হয়, সম্পদ দিয়ে কী করেছে। সে বলে, আল্লাহ যে পথে খরচ ভালোবাসেন, এমন কোনো পথ সে বাদ রাখেনি। তাকে বলা হয়, তুমি মিথ্যা বলেছ। তুমি এসব করেছ যাতে বলা হয় তুমি দানশীল, আর তা বলা হয়েছে। লোকটা চেয়েছিল মানুষ তার কথা বলুক, মানুষ বলেছে, তার আর কোনো পাওনা বাকি থাকেনি।"
+            "bn": "ইবনে কাসীর এই আয়াতগুলোর অধীনে সেই হাদিস আনেন, যাতে সবার আগে বিচার হওয়া লোকদের কথা আছে। ইমাম মুসলিম হাদিসটি আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেছেন। তাদের একজন এমন মানুষ, যাকে আল্লাহ সব রকম সম্পদ দিয়েছিলেন। তাকে জিজ্ঞেস করা হয়, সম্পদ দিয়ে কী করেছে। সে বলে, আল্লাহ যে পথে খরচ ভালোবাসেন, এমন কোনো পথ সে বাদ রাখেনি। তাকে বলা হয়, তুমি মিথ্যা বলেছ। তুমি এসব করেছ যাতে বলা হয় তুমি দানশীল, আর তা বলা হয়েছে। লোকটা চেয়েছিল মানুষ তার কথা বলুক, মানুষ বলেছে, তার আর কোনো পাওনা বাকি থাকেনি।"
           },
           {
             "en": "On the other side of the scale, Ibn Kathir cites from the two Sahihs the long hadith of intercession narrated by Abu Sa'id al-Khudri (RA). In it the believers are sent back again and again to bring out of the Fire whoever has in his heart even the smallest weight of faith, and they bring out many. Abu Sa'id then told his listeners that they could recite, if they wished, 4:40: Allah does not do injustice even as much as an atom's weight. What is given for Allah is never too small to be found.",
-            "bn": "পাল্লার অন্য দিকে, ইবনে কাসীর দুই সহীহ গ্রন্থ থেকে আবু সাঈদ খুদরী (রাঃ)-এর বর্ণিত শাফাআতের দীর্ঘ হাদীস উল্লেখ করেন। তাতে মুমিনদের বারবার ফেরত পাঠানো হয়, যার অন্তরে সামান্যতম ওজনের ঈমানও আছে, তাকে জাহান্নাম থেকে বের করে আনতে। তারা বহু মানুষকে বের করে আনেন। এরপর আবু সাঈদ (রাঃ) শ্রোতাদের বললেন, চাইলে তোমরা ৪:৪০ আয়াত পড়ো: আল্লাহ অণু পরিমাণও জুলুম করেন না। আল্লাহর জন্য যা দেওয়া হয়, তা এত ছোট হয় না যে খুঁজে পাওয়া যাবে না।"
+            "bn": "পাল্লার অন্য দিকে, ইবনে কাসীর দুই সহীহ গ্রন্থ থেকে আবু সাঈদ খুদরী (রাঃ)-এর বর্ণিত শাফাআতের দীর্ঘ হাদিস উল্লেখ করেন। তাতে মুমিনদের বারবার ফেরত পাঠানো হয়, যার অন্তরে সামান্যতম ওজনের ঈমানও আছে, তাকে জাহান্নাম থেকে বের করে আনতে। তারা বহু মানুষকে বের করে আনেন। এরপর আবু সাঈদ (রাঃ) শ্রোতাদের বললেন, চাইলে তোমরা ৪:৪০ আয়াত পড়ো: আল্লাহ অণু পরিমাণও জুলুম করেন না। আল্লাহর জন্য যা দেওয়া হয়, তা এত ছোট হয় না যে খুঁজে পাওয়া যাবে না।"
           }
         ]
       },
@@ -985,7 +985,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse also has a place in time. Ibn Kathir states that it was revealed before intoxicants were completely prohibited, and he places it in a sequence. 2:219 had said that in wine and gambling is great sin and some benefit, and that the sin is greater. This verse then forbade approaching the prayer while intoxicated. The final word came in 5:90-91, which call intoxicants defilement from the work of Satan and command the believers to avoid them. The hadith section below gives the report behind that sequence.",
-            "bn": "সময়ের হিসেবেও আয়াতটির একটা জায়গা আছে। ইবনে কাসীর বলেন, নেশাজাতীয় জিনিস পুরোপুরি হারাম হওয়ার আগে এটি নাযিল হয়েছিল, আর তিনি একে একটা ধারাবাহিকতায় বসান। ২:২১৯ আয়াত বলেছিল, মদ আর জুয়ায় বড় গুনাহ আছে, মানুষের কিছু উপকারও আছে, তবে গুনাহটাই বেশি। এরপর এই আয়াত নেশাগ্রস্ত অবস্থায় নামাজের কাছে যাওয়া নিষেধ করে। চূড়ান্ত কথা আসে ৫:৯০ ও ৫:৯১ আয়াতে, যা মদকে বলে শয়তানের কাজের নাপাকি, আর ঈমানদারদের তা বর্জন করতে বলে। এই ধারাবাহিকতার পেছনের বর্ণনাটি নিচে হাদীসের অংশে আসছে।"
+            "bn": "সময়ের হিসেবেও আয়াতটির একটা জায়গা আছে। ইবনে কাসীর বলেন, নেশাজাতীয় জিনিস পুরোপুরি হারাম হওয়ার আগে এটি নাজিল হয়েছিল, আর তিনি একে একটা ধারাবাহিকতায় বসান। ২:২১৯ আয়াত বলেছিল, মদ আর জুয়ায় বড় গুনাহ আছে, মানুষের কিছু উপকারও আছে, তবে গুনাহটাই বেশি। এরপর এই আয়াত নেশাগ্রস্ত অবস্থায় নামাজের কাছে যাওয়া নিষেধ করে। চূড়ান্ত কথা আসে ৫:৯০ ও ৫:৯১ আয়াতে, যা মদকে বলে শয়তানের কাজের নাপাকি, আর ঈমানদারদের তা বর্জন করতে বলে। এই ধারাবাহিকতার পেছনের বর্ণনাটি নিচে হাদিসের অংশে আসছে।"
           }
         ]
       },
@@ -1037,15 +1037,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir gives, in the wording of Abu Dawud, the report behind the sequence. When 2:219 was recited to Umar (RA), he said: O Allah, make the ruling on wine clear to us. When this verse came down and was recited to him, he said the same. After it, the people would not drink close to the times of prayer, and a caller would announce at prayer time that no one intoxicated should approach the prayer. When 5:90-91 were revealed, ending with so will you not desist, Umar (RA) said: we desist, we desist.",
-            "bn": "ধারাবাহিকতার পেছনের বর্ণনাটি ইবনে কাসীর দিয়েছেন আবু দাউদের শব্দে। ২:২১৯ আয়াত যখন উমর (রাঃ)-কে পড়ে শোনানো হলো, তিনি বললেন: হে আল্লাহ, মদের বিধান আমাদের জন্য স্পষ্ট করে দিন। এই আয়াত নাযিল হয়ে তাঁকে শোনানো হলে তিনি আবারও একই কথা বললেন। এরপর লোকেরা নামাজের সময়ের কাছাকাছি আর পান করত না, আর নামাজের সময় একজন ঘোষণা দিত, নেশাগ্রস্ত কেউ যেন নামাজের কাছে না আসে। যখন ৫:৯০ ও ৫:৯১ আয়াত নাযিল হলো, যার শেষে আছে, তবু কি তোমরা বিরত হবে না, তখন উমর (রাঃ) বললেন: আমরা বিরত হলাম, আমরা বিরত হলাম।"
+            "bn": "ধারাবাহিকতার পেছনের বর্ণনাটি ইবনে কাসীর দিয়েছেন আবু দাউদের শব্দে। ২:২১৯ আয়াত যখন উমর (রাঃ)-কে পড়ে শোনানো হলো, তিনি বললেন: হে আল্লাহ, মদের বিধান আমাদের জন্য স্পষ্ট করে দিন। এই আয়াত নাজিল হয়ে তাঁকে শোনানো হলে তিনি আবারও একই কথা বললেন। এরপর লোকেরা নামাজের সময়ের কাছাকাছি আর পান করত না, আর নামাজের সময় একজন ঘোষণা দিত, নেশাগ্রস্ত কেউ যেন নামাজের কাছে না আসে। যখন ৫:৯০ ও ৫:৯১ আয়াত নাজিল হলো, যার শেষে আছে, তবু কি তোমরা বিরত হবে না, তখন উমর (রাঃ) বললেন: আমরা বিরত হলাম, আমরা বিরত হলাম।"
           },
           {
             "en": "For the tayammum clause Ibn Kathir brings a report from Aishah (RA) that al-Bukhari and Muslim record. On a journey, at al-Bayda' or Dhat al-Jaysh, her necklace broke and was lost. The Prophet ﷺ stayed to search for it, and so did the people, where there was no water. Abu Bakr (RA) came and reproached her while the Prophet ﷺ slept with his head on her lap. At dawn there was still no water, and Allah revealed the verses of tayammum. Usayd ibn Hudayr (RA) said: this is not the first blessing of yours, O family of Abu Bakr. When her camel was moved, the necklace was found beneath it.",
-            "bn": "তায়াম্মুমের অংশের জন্য ইবনে কাসীর আয়েশা (রাঃ)-এর একটি বর্ণনা আনেন, যা ইমাম বুখারী ও মুসলিম উল্লেখ করেছেন। এক সফরে, বাইদা বা যাতুল জাইশ নামের জায়গায়, তাঁর হার ছিঁড়ে হারিয়ে যায়। নবী ﷺ সেটা খুঁজতে থেমে যান, সঙ্গের লোকেরাও থামে, অথচ সেখানে পানি ছিল না। আবু বকর (রাঃ) এসে মেয়েকে ভর্ৎসনা করেন, নবী ﷺ তখন তাঁর কোলে মাথা রেখে ঘুমিয়ে ছিলেন। ভোর হলো, তখনো পানি নেই, আর আল্লাহ তায়াম্মুমের আয়াত নাযিল করলেন। উসাইদ ইবনে হুদাইর (রাঃ) বললেন, হে আবু বকরের পরিবার, এটা তোমাদের প্রথম বরকত নয়। পরে আয়েশা (রাঃ)-এর উট সরাতেই তার নিচে হারটা পাওয়া গেল।"
+            "bn": "তায়াম্মুমের অংশের জন্য ইবনে কাসীর আয়েশা (রাঃ)-এর একটি বর্ণনা আনেন, যা ইমাম বুখারী ও মুসলিম উল্লেখ করেছেন। এক সফরে, বাইদা বা যাতুল জাইশ নামের জায়গায়, তাঁর হার ছিঁড়ে হারিয়ে যায়। নবী ﷺ সেটা খুঁজতে থেমে যান, সঙ্গের লোকেরাও থামে, অথচ সেখানে পানি ছিল না। আবু বকর (রাঃ) এসে মেয়েকে ভর্ৎসনা করেন, নবী ﷺ তখন তাঁর কোলে মাথা রেখে ঘুমিয়ে ছিলেন। ভোর হলো, তখনো পানি নেই, আর আল্লাহ তায়াম্মুমের আয়াত নাজিল করলেন। উসাইদ ইবনে হুদাইর (রাঃ) বললেন, হে আবু বকরের পরিবার, এটা তোমাদের প্রথম বরকত নয়। পরে আয়েশা (রাঃ)-এর উট সরাতেই তার নিচে হারটা পাওয়া গেল।"
           },
           {
             "en": "Which verse that report refers to is a real question. Ibn Kathir brings it here, under 4:43, as the reason tayammum was allowed. In his commentary on 5:6, he cites al-Bukhari's narration of the same event, in which the verse revealed is quoted with the opening words of 5:6. Both verses carry the same tayammum clause, and the report is attached to one or the other. This page records both placements and does not decide between them.",
-            "bn": "বর্ণনাটি কোন আয়াতের কথা বলছে, প্রশ্নটা সত্যিই আছে। ইবনে কাসীর বর্ণনাটি এখানে, ৪:৪৩ আয়াতের অধীনে, তায়াম্মুমের অনুমতির কারণ হিসেবে এনেছেন। আবার ৫:৬ আয়াতের তাফসীরে তিনি একই ঘটনার বুখারীর বর্ণনা উল্লেখ করেন, যেখানে নাযিল হওয়া আয়াত হিসেবে ৫:৬ আয়াতের শুরুর শব্দগুলো উদ্ধৃত আছে। দুই আয়াতেই তায়াম্মুমের একই অংশ আছে, আর বর্ণনাটিকে কেউ এটার সঙ্গে, কেউ ওটার সঙ্গে যুক্ত করেন। এই লেখা দুটো অবস্থানই উল্লেখ করছে, কোনোটার পক্ষে রায় দিচ্ছে না।"
+            "bn": "বর্ণনাটি কোন আয়াতের কথা বলছে, প্রশ্নটা সত্যিই আছে। ইবনে কাসীর বর্ণনাটি এখানে, ৪:৪৩ আয়াতের অধীনে, তায়াম্মুমের অনুমতির কারণ হিসেবে এনেছেন। আবার ৫:৬ আয়াতের তাফসীরে তিনি একই ঘটনার বুখারীর বর্ণনা উল্লেখ করেন, যেখানে নাজিল হওয়া আয়াত হিসেবে ৫:৬ আয়াতের শুরুর শব্দগুলো উদ্ধৃত আছে। দুই আয়াতেই তায়াম্মুমের একই অংশ আছে, আর বর্ণনাটিকে কেউ এটার সঙ্গে, কেউ ওটার সঙ্গে যুক্ত করেন। এই লেখা দুটো অবস্থানই উল্লেখ করছে, কোনোটার পক্ষে রায় দিচ্ছে না।"
           }
         ]
       },
@@ -1073,7 +1073,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The intoxicant is gone from a believer's life, but the criterion of the verse remains. Ibn Kathir brings under it a hadith that al-Bukhari records from Anas (RA): if one of you becomes drowsy while praying, let him leave off and sleep until he knows what he is saying. Exhaustion, a phone still in the hand and a mind racing with work can all put a person in the state the verse describes. A minute of stillness before the takbir, and learning the meaning of al-Fatihah and the adhkar of the prayer, begin the repair.",
-            "bn": "মুমিনের জীবন থেকে নেশা বিদায় নিয়েছে, কিন্তু আয়াতের মাপকাঠি রয়ে গেছে। ইবনে কাসীর এর অধীনে একটি হাদীস আনেন, যা ইমাম বুখারী আনাস (রাঃ) থেকে বর্ণনা করেছেন: নামাজ পড়তে পড়তে তোমাদের কারও তন্দ্রা এলে সে যেন ফিরে গিয়ে ঘুমিয়ে নেয়, যতক্ষণ না বুঝতে পারে কী বলছে। ক্লান্তি, হাতে ধরা ফোন, কাজের চিন্তায় ছুটতে থাকা মন, এর যেকোনোটাই মানুষকে আয়াতের বর্ণিত অবস্থায় ফেলে দিতে পারে। তাকবীরের আগে এক মিনিট স্থির হওয়া, আর সূরা ফাতিহা ও নামাজের জিকিরগুলোর অর্থ শেখা, মেরামতের শুরু সেখান থেকেই।"
+            "bn": "মুমিনের জীবন থেকে নেশা বিদায় নিয়েছে, কিন্তু আয়াতের মাপকাঠি রয়ে গেছে। ইবনে কাসীর এর অধীনে একটি হাদিস আনেন, যা ইমাম বুখারী আনাস (রাঃ) থেকে বর্ণনা করেছেন: নামাজ পড়তে পড়তে তোমাদের কারও তন্দ্রা এলে সে যেন ফিরে গিয়ে ঘুমিয়ে নেয়, যতক্ষণ না বুঝতে পারে কী বলছে। ক্লান্তি, হাতে ধরা ফোন, কাজের চিন্তায় ছুটতে থাকা মন, এর যেকোনোটাই মানুষকে আয়াতের বর্ণিত অবস্থায় ফেলে দিতে পারে। তাকবীরের আগে এক মিনিট স্থির হওয়া, আর সূরা ফাতিহা ও নামাজের জিকিরগুলোর অর্থ শেখা, মেরামতের শুরু সেখান থেকেই।"
           },
           {
             "en": "The verse's other half closes a door that many people open for themselves. Ibn Kathir sums up the verse this way: prayer is too sacred to be performed in a deficient state, yet Allah makes exceptions for illness and the absence of water out of mercy. In a hospital bed, on a long journey, or where water cannot be used, the prayer is not dropped. Its purity is reduced to what the person can do. Learn how tayammum is done before the day it is needed, from a qualified teacher.",
@@ -1081,7 +1081,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The sequence itself teaches something about change. The Companions were brought from 2:219 to 5:90-91 by stages, and Umar (RA) kept asking for clarity until it came. Those stages belong to the time of revelation, and the ruling that reached us is the final one. What a believer can take from them is the attitude: to want Allah's command to be clear, and to answer it, when it comes, with we desist.",
-            "bn": "এই ধারাবাহিকতা পরিবর্তন সম্পর্কেও কিছু শেখায়। সাহাবিদের ধাপে ধাপে ২:২১৯ থেকে ৫:৯০ ও ৫:৯১ আয়াত পর্যন্ত আনা হয়েছিল, আর উমর (রাঃ) স্পষ্ট বিধান না আসা পর্যন্ত বারবার তা চেয়ে গেছেন। ধাপগুলো ছিল ওহি নাযিলের যুগের, আর আমাদের কাছে যে বিধান পৌঁছেছে সেটাই চূড়ান্ত। মুমিন এখান থেকে যা নিতে পারেন তা হলো মনোভাব: আল্লাহর হুকুম স্পষ্ট হোক, এই চাওয়া, আর হুকুম এলে জবাব দেওয়া, আমরা বিরত হলাম।"
+            "bn": "এই ধারাবাহিকতা পরিবর্তন সম্পর্কেও কিছু শেখায়। সাহাবিদের ধাপে ধাপে ২:২১৯ থেকে ৫:৯০ ও ৫:৯১ আয়াত পর্যন্ত আনা হয়েছিল, আর উমর (রাঃ) স্পষ্ট বিধান না আসা পর্যন্ত বারবার তা চেয়ে গেছেন। ধাপগুলো ছিল ওহি নাজিলের যুগের, আর আমাদের কাছে যে বিধান পৌঁছেছে সেটাই চূড়ান্ত। মুমিন এখান থেকে যা নিতে পারেন তা হলো মনোভাব: আল্লাহর হুকুম স্পষ্ট হোক, এই চাওয়া, আর হুকুম এলে জবাব দেওয়া, আমরা বিরত হলাম।"
           }
         ]
       },
@@ -1185,11 +1185,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir does not attach a particular hadith to this verse, and this page will not fill the place with a weak one. But a hadith on envy speaks of two of the same kinds of gift. Al-Bukhari records from Abdullah ibn Mas'ud (RA) that the Prophet ﷺ said: there is no envy except in two cases, a man to whom Allah has given wealth and who spends it in what is right, and a man to whom Allah has given wisdom, who judges by it and teaches it. Wealth and hikmah stand in the hadith as a kingdom and wisdom stand in 4:54.",
-            "bn": "ইবনে কাসীর এই আয়াতের সঙ্গে নির্দিষ্ট কোনো হাদীস জুড়ে দেননি, আর এই লেখাও দুর্বল কোনো বর্ণনা দিয়ে সেই জায়গা ভরাবে না। তবে হিংসা নিয়ে একটি হাদীসে একই ধরনের দুটি দানের কথা আছে। ইমাম বুখারী আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: দুই ক্ষেত্র ছাড়া হিংসা নেই। এক, এমন মানুষ যাকে আল্লাহ সম্পদ দিয়েছেন, আর সে তা ন্যায়ের পথে খরচ করে। দুই, এমন মানুষ যাকে আল্লাহ হিকমাত দিয়েছেন, আর সে তা দিয়ে ফয়সালা করে ও অন্যকে শেখায়। ৪:৫৪ আয়াতে যেমন রাজত্ব আর হিকমাত, হাদীসে তেমনি সম্পদ আর হিকমাত।"
+            "bn": "ইবনে কাসীর এই আয়াতের সঙ্গে নির্দিষ্ট কোনো হাদিস জুড়ে দেননি, আর এই লেখাও দুর্বল কোনো বর্ণনা দিয়ে সেই জায়গা ভরাবে না। তবে হিংসা নিয়ে একটি হাদিসে একই ধরনের দুটি দানের কথা আছে। ইমাম বুখারী আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: দুই ক্ষেত্র ছাড়া হিংসা নেই। এক, এমন মানুষ যাকে আল্লাহ সম্পদ দিয়েছেন, আর সে তা ন্যায়ের পথে খরচ করে। দুই, এমন মানুষ যাকে আল্লাহ হিকমাত দিয়েছেন, আর সে তা দিয়ে ফয়সালা করে ও অন্যকে শেখায়। ৪:৫৪ আয়াতে যেমন রাজত্ব আর হিকমাত, হাদিসে তেমনি সম্পদ আর হিকমাত।"
           },
           {
             "en": "The commentators on this hadith explain envy in it as ghibtah: wishing to have the like of someone's blessing without wishing it taken from him. That is the very line al-Muyassar draws at 4:54, where the envy condemned is the wish that the bounty be removed. So the Prophet ﷺ did not ask believers to feel nothing when they see another given more. He turned that feeling toward two things worth competing for, and away from the wish that anyone lose what Allah gave them.",
-            "bn": "এই হাদীসের ব্যাখ্যাকারীরা বলেন, এখানে হিংসা মানে গিবতা: কারও নিয়ামতের মতো নিয়ামত নিজেও পেতে চাওয়া, কিন্তু তার কাছ থেকে তা চলে যাক এমন না চাওয়া। ৪:৫৪ আয়াতে আল-মুয়াসসারও ঠিক এই পার্থক্যটাই করে: নিন্দিত হিংসা হলো অনুগ্রহ সরে যাওয়ার কামনা। তাই অন্য কাউকে বেশি পেতে দেখলে মুমিন কিছুই অনুভব করবে না, নবী ﷺ এমন কথা বলেননি। তিনি সেই অনুভূতিকে ঘুরিয়ে দিয়েছেন প্রতিযোগিতার যোগ্য দুটি জিনিসের দিকে, আর সরিয়ে এনেছেন এই কামনা থেকে যে আল্লাহর দেওয়া জিনিস কেউ হারাক।"
+            "bn": "এই হাদিসের ব্যাখ্যাকারীরা বলেন, এখানে হিংসা মানে গিবতা: কারও নিয়ামতের মতো নিয়ামত নিজেও পেতে চাওয়া, কিন্তু তার কাছ থেকে তা চলে যাক এমন না চাওয়া। ৪:৫৪ আয়াতে আল-মুয়াসসারও ঠিক এই পার্থক্যটাই করে: নিন্দিত হিংসা হলো অনুগ্রহ সরে যাওয়ার কামনা। তাই অন্য কাউকে বেশি পেতে দেখলে মুমিন কিছুই অনুভব করবে না, নবী ﷺ এমন কথা বলেননি। তিনি সেই অনুভূতিকে ঘুরিয়ে দিয়েছেন প্রতিযোগিতার যোগ্য দুটি জিনিসের দিকে, আর সরিয়ে এনেছেন এই কামনা থেকে যে আল্লাহর দেওয়া জিনিস কেউ হারাক।"
           }
         ]
       },
@@ -1221,7 +1221,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then turn the feeling where the hadith turns it. If what you envy is wealth, the gift worth longing for is wealth spent in what is right, and you can begin with what you already have. If it is knowledge, the gift worth longing for is knowledge acted on and taught, and you can begin learning today. And make du'a for the person by name, asking Allah to bless them in what He gave. It is hard to go on wishing a blessing away from someone you are praying for.",
-            "bn": "তারপর অনুভূতিটাকে সেদিকে ঘোরান, যেদিকে হাদীস ঘুরিয়েছে। যদি সম্পদ দেখে হিংসা হয়, তবে কামনার যোগ্য দান হলো ন্যায়ের পথে খরচ করা সম্পদ, আর তা শুরু করা যায় আপনার হাতে যা আছে তা দিয়েই। যদি জ্ঞান দেখে হয়, তবে কামনার যোগ্য দান হলো এমন জ্ঞান, যার ওপর আমল হয় আর যা শেখানো হয়, আর তা শেখা আজই শুরু করা যায়। আর মানুষটির নাম ধরে তার জন্য দোয়া করুন, আল্লাহ তাকে যা দিয়েছেন তাতে যেন বরকত দেন। যার জন্য দোয়া করছেন, তার নিয়ামত চলে যাক, এমন কামনা বেশিদিন টিকিয়ে রাখা কঠিন।"
+            "bn": "তারপর অনুভূতিটাকে সেদিকে ঘোরান, যেদিকে হাদিস ঘুরিয়েছে। যদি সম্পদ দেখে হিংসা হয়, তবে কামনার যোগ্য দান হলো ন্যায়ের পথে খরচ করা সম্পদ, আর তা শুরু করা যায় আপনার হাতে যা আছে তা দিয়েই। যদি জ্ঞান দেখে হয়, তবে কামনার যোগ্য দান হলো এমন জ্ঞান, যার ওপর আমল হয় আর যা শেখানো হয়, আর তা শেখা আজই শুরু করা যায়। আর মানুষটির নাম ধরে তার জন্য দোয়া করুন, আল্লাহ তাকে যা দিয়েছেন তাতে যেন বরকত দেন। যার জন্য দোয়া করছেন, তার নিয়ামত চলে যাক, এমন কামনা বেশিদিন টিকিয়ে রাখা কঠিন।"
           },
           {
             "en": "Envy also leaks into speech and judgment. On a small scale it is the habit of finding a fault in every person who is praised, or refusing to admit that a rival is right. When you notice yourself doing that, stop and ask what the person has been given, and by whom. And do not let this passage become a reason for contempt toward any community today. The Quran itself took care to say that some among them believed, and its lesson is aimed first at the heart of the one reading it.",
@@ -1257,7 +1257,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What has Allah given me that I have stopped noticing because I keep looking at others? Is there someone I have spoken against, or refused to credit, only because they were given what I wanted? And if the two gifts of the hadith, wealth spent rightly and wisdom taught, were the only things I let myself compete for, how would my week look different?",
-            "bn": "অন্যদের দিকে তাকিয়ে থাকতে থাকতে আল্লাহর দেওয়া কোন জিনিস আমার চোখেই পড়ে না? এমন কেউ কি আছে, যার বিরুদ্ধে আমি কথা বলেছি বা যার কৃতিত্ব মানিনি, শুধু এই কারণে যে আমি যা চেয়েছিলাম সে তা পেয়েছে? আর হাদীসের সেই দুটি দান, ন্যায়ের পথে খরচ করা সম্পদ আর শেখানো হিকমাত, যদি এগুলোই হতো আমার একমাত্র প্রতিযোগিতার বিষয়, তাহলে আমার সপ্তাহটা কতটা অন্যরকম হতো?"
+            "bn": "অন্যদের দিকে তাকিয়ে থাকতে থাকতে আল্লাহর দেওয়া কোন জিনিস আমার চোখেই পড়ে না? এমন কেউ কি আছে, যার বিরুদ্ধে আমি কথা বলেছি বা যার কৃতিত্ব মানিনি, শুধু এই কারণে যে আমি যা চেয়েছিলাম সে তা পেয়েছে? আর হাদিসের সেই দুটি দান, ন্যায়ের পথে খরচ করা সম্পদ আর শেখানো হিকমাত, যদি এগুলোই হতো আমার একমাত্র প্রতিযোগিতার বিষয়, তাহলে আমার সপ্তাহটা কতটা অন্যরকম হতো?"
           }
         ]
       }
@@ -1289,7 +1289,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Alladhina amanu wa 'amilu as-salihat, those who believe and do righteous deeds. The two are joined by a single wa, and the Quran keeps them joined in verse after verse, as in 2:25, 2:82 and 103:3. As-salihat is plural and definite: not a single good act done once, but righteous deeds as the shape of a life. Al-Muyassar explains the people meant here as those whose hearts found rest in faith in Allah and in affirming the message of His Messenger ﷺ, and who stood firm on obedience. Faith and steadiness both appear in that gloss.",
-            "bn": "আল্লাযীনা আমানূ ওয়া আমিলুস সালিহাত, যারা ঈমান আনে ও নেক আমল করে। দুটিকে জুড়েছে একটিমাত্র ওয়া, আর কুরআন আয়াতের পর আয়াতে এ দুটিকে জুড়েই রাখে, যেমন ২:২৫, ২:৮২ ও ১০৩:৩ আয়াতে। আস-সালিহাত বহুবচন, নির্দিষ্টও। মানে একবার করা কোনো একক ভালো কাজ নয়, বরং নেক আমল যখন জীবনের ধরন হয়ে যায়। তাফসীরে মুয়াসসার এখানে তাদের কথা বলে, যাদের অন্তর আল্লাহর প্রতি ঈমান আর তাঁর রসূল ﷺ-এর রিসালাতের স্বীকৃতিতে প্রশান্ত হয়েছে, আর যারা আনুগত্যে অটল থেকেছে। সেই ব্যাখ্যায় ঈমান আর অবিচলতা দুটিই আছে।"
+            "bn": "আল্লাযীনা আমানূ ওয়া আমিলুস সালিহাত, যারা ঈমান আনে ও নেক আমল করে। দুটিকে জুড়েছে একটিমাত্র ওয়া, আর কুরআন আয়াতের পর আয়াতে এ দুটিকে জুড়েই রাখে, যেমন ২:২৫, ২:৮২ ও ১০৩:৩ আয়াতে। আস-সালিহাত বহুবচন, নির্দিষ্টও। মানে একবার করা কোনো একক ভালো কাজ নয়, বরং নেক আমল যখন জীবনের ধরন হয়ে যায়। তাফসীরে মুয়াসসার এখানে তাদের কথা বলে, যাদের অন্তর আল্লাহর প্রতি ঈমান আর তাঁর রাসূল ﷺ-এর রিসালাতের স্বীকৃতিতে প্রশান্ত হয়েছে, আর যারা আনুগত্যে অটল থেকেছে। সেই ব্যাখ্যায় ঈমান আর অবিচলতা দুটিই আছে।"
           },
           {
             "en": "As-Sa'di draws the link between the two halves plainly: these are people whose faith moved them to do righteous deeds, both the obligatory and the recommended. Faith is the root, and the deeds are what grows from it. Ahsanul Bayaan, the Bengali tafsir in the app, makes the same point with an image, that faith without righteous deeds is like a flower without fragrance or a tree without fruit. The promise is addressed to a person, and the verse names that person by two things that are not meant to be separated.",
@@ -1325,7 +1325,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "A second narration keeps the reader honest about what such words can do. Al-Bukhari records from Abu Hurayrah (RA) that Allah says He has prepared for His righteous servants what no eye has seen, no ear has heard, and what has never crossed the heart of a human being. The rivers, the purity and the shade of 4:57 are described in words people already know, because those are the only words people have. The hadith warns against supposing that the words are the whole of the thing.",
-            "bn": "দ্বিতীয় একটি বর্ণনা পাঠককে মনে করিয়ে দেয়, এমন শব্দ কতদূর যেতে পারে। ইমাম বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, আল্লাহ বলেন, তিনি তাঁর নেক বান্দাদের জন্য এমন কিছু প্রস্তুত রেখেছেন, যা কোনো চোখ দেখেনি, কোনো কান শোনেনি, আর কোনো মানুষের অন্তরে যার কল্পনাও জাগেনি। ৪:৫৭ আয়াতের নদী, পবিত্রতা আর ছায়ার বর্ণনা এসেছে মানুষের চেনা শব্দে, কারণ মানুষের কাছে চেনা শব্দই আছে। হাদীসটি সাবধান করে দেয়, শব্দগুলোকেই পুরো জিনিসটা ভেবে নেওয়া ঠিক নয়।"
+            "bn": "দ্বিতীয় একটি বর্ণনা পাঠককে মনে করিয়ে দেয়, এমন শব্দ কতদূর যেতে পারে। ইমাম বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, আল্লাহ বলেন, তিনি তাঁর নেক বান্দাদের জন্য এমন কিছু প্রস্তুত রেখেছেন, যা কোনো চোখ দেখেনি, কোনো কান শোনেনি, আর কোনো মানুষের অন্তরে যার কল্পনাও জাগেনি। ৪:৫৭ আয়াতের নদী, পবিত্রতা আর ছায়ার বর্ণনা এসেছে মানুষের চেনা শব্দে, কারণ মানুষের কাছে চেনা শব্দই আছে। হাদিসটি সাবধান করে দেয়, শব্দগুলোকেই পুরো জিনিসটা ভেবে নেওয়া ঠিক নয়।"
           }
         ]
       },
@@ -1413,11 +1413,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "4:61 adds that when they are told to come to what Allah has revealed and to the Messenger, the hypocrites turn away in aversion. 4:62 describes them after their own deeds bring a disaster upon them: they come to him swearing by Allah that they intended nothing but good conduct and accommodation. 4:63 tells him how to respond. The passage then runs on into 4:64-65, that every messenger was sent to be obeyed, and that they will not truly believe until they make him judge in their disputes and accept his judgement without discomfort.",
-            "bn": "৪:৬১ আয়াত যোগ করে, তাদের যখন বলা হয় আল্লাহর নাযিল করা বিধান আর রসূলের দিকে এসো, তখন মুনাফিকরা বিরক্ত হয়ে মুখ ফিরিয়ে নেয়। ৪:৬২ আয়াত দেখায়, নিজেদের কাজের ফলে বিপদ নেমে এলে তাদের অবস্থা কী হয়: তারা নবী ﷺ-এর কাছে এসে আল্লাহর নামে কসম খায়, আমরা সদ্ভাব আর সম্প্রীতি ছাড়া কিছুই চাইনি। ৪:৬৩ আয়াত তাঁকে জানিয়ে দেয় কীভাবে জবাব দেবেন। এরপর আলোচনা গড়িয়ে যায় ৪:৬৪-৬৫ আয়াতে: প্রত্যেক রসূলকে পাঠানো হয়েছে আনুগত্যের জন্য, আর তারা প্রকৃত মুমিন হবে না যতক্ষণ না বিবাদে তাঁকে বিচারক মানে এবং তাঁর ফয়সালা মনে কোনো কুণ্ঠা ছাড়াই মেনে নেয়।"
+            "bn": "৪:৬১ আয়াত যোগ করে, তাদের যখন বলা হয় আল্লাহর নাজিল করা বিধান আর রাসূলের দিকে এসো, তখন মুনাফিকরা বিরক্ত হয়ে মুখ ফিরিয়ে নেয়। ৪:৬২ আয়াত দেখায়, নিজেদের কাজের ফলে বিপদ নেমে এলে তাদের অবস্থা কী হয়: তারা নবী ﷺ-এর কাছে এসে আল্লাহর নামে কসম খায়, আমরা সদ্ভাব আর সম্প্রীতি ছাড়া কিছুই চাইনি। ৪:৬৩ আয়াত তাঁকে জানিয়ে দেয় কীভাবে জবাব দেবেন। এরপর আলোচনা গড়িয়ে যায় ৪:৬৪-৬৫ আয়াতে: প্রত্যেক রাসূলকে পাঠানো হয়েছে আনুগত্যের জন্য, আর তারা প্রকৃত মুমিন হবে না যতক্ষণ না বিবাদে তাঁকে বিচারক মানে এবং তাঁর ফয়সালা মনে কোনো কুণ্ঠা ছাড়াই মেনে নেয়।"
           },
           {
             "en": "The reports on the occasion differ. Al-Wahidi reports a dispute between a Jewish man and a hypocrite who professed Islam, in which the Jewish man asked that the Prophet ﷺ judge between them and the hypocrite insisted on Ka'b ibn al-Ashraf. Ibn Kathir gives a report of this kind alongside others, one saying the verse concerned hypocrites who wanted the judgement of the Jahiliyyah, and notes that still other reasons were reported. He then says the verse is general, rebuking everyone who turns from the Book and the Sunnah to a falsehood of his own choosing.",
-            "bn": "আয়াত নাযিলের প্রেক্ষাপট নিয়ে বর্ণনাগুলো এক নয়। ইমাম ওয়াহিদি একটি বিবাদের কথা বর্ণনা করেন, এক ইহুদি আর ইসলামের দাবিদার এক মুনাফিকের মধ্যে। ইহুদি লোকটি চেয়েছিল নবী ﷺ বিচার করুন, আর মুনাফিকটি জেদ ধরেছিল কাব ইবনুল আশরাফের কাছে যাওয়ার। ইবনে কাসীর এ ধরনের একটি বর্ণনা আনেন আরও কয়েকটির পাশে। একটিতে বলা হয়েছে, আয়াতটি সেই মুনাফিকদের নিয়ে, যারা জাহিলি যুগের বিচার চাইত। তিনি এও বলেন যে আরও কারণ বর্ণিত আছে। তারপর বলেন, আয়াতের অর্থ ব্যাপক: কিতাব ও সুন্নাহ ছেড়ে নিজের পছন্দের কোনো বাতিলের কাছে বিচার চাওয়া প্রত্যেককেই তা তিরস্কার করে।"
+            "bn": "আয়াত নাজিলের প্রেক্ষাপট নিয়ে বর্ণনাগুলো এক নয়। ইমাম ওয়াহিদি একটি বিবাদের কথা বর্ণনা করেন, এক ইহুদি আর ইসলামের দাবিদার এক মুনাফিকের মধ্যে। ইহুদি লোকটি চেয়েছিল নবী ﷺ বিচার করুন, আর মুনাফিকটি জেদ ধরেছিল কাব ইবনুল আশরাফের কাছে যাওয়ার। ইবনে কাসীর এ ধরনের একটি বর্ণনা আনেন আরও কয়েকটির পাশে। একটিতে বলা হয়েছে, আয়াতটি সেই মুনাফিকদের নিয়ে, যারা জাহিলি যুগের বিচার চাইত। তিনি এও বলেন যে আরও কারণ বর্ণিত আছে। তারপর বলেন, আয়াতের অর্থ ব্যাপক: কিতাব ও সুন্নাহ ছেড়ে নিজের পছন্দের কোনো বাতিলের কাছে বিচার চাওয়া প্রত্যেককেই তা তিরস্কার করে।"
           }
         ]
       },
@@ -1449,7 +1449,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir reads 4:62 as an apology after the fact. When disasters brought on by their own sins make them need the Prophet ﷺ, they come swearing that in going to another judge they sought only goodwill and conciliation, not that they believed in that other judgement. As-Sa'di is blunter: they are lying, because true good lies in referring judgement to Allah and His Messenger ﷺ. Ahsanul Bayaan gives their excuse in their own voice: our aim in going elsewhere was not to take a verdict from there, or to find more justice than with you, but goodwill and good relations.",
-            "bn": "ইবনে কাসীর ৪:৬২ আয়াতকে পড়েন ঘটনা ঘটে যাওয়ার পরের কৈফিয়ত হিসেবে। নিজেদের গুনাহের কারণে বিপদে পড়ে যখন তাদের নবী ﷺ-এর দরকার হয়, তখন তারা এসে কসম খায়: অন্য বিচারকের কাছে গিয়েছিলাম শুধু সদ্ভাব আর মীমাংসার জন্য, সেই বিচারে বিশ্বাস করি বলে নয়। আল্লামা সাদি আরও সোজা বলেন: তারা মিথ্যা বলছে, কারণ প্রকৃত কল্যাণ তো আল্লাহ ও তাঁর রসূল ﷺ-এর কাছে বিচার নিয়ে যাওয়াতেই। আহসানুল বায়ান তাদের অজুহাত তাদের মুখেই তুলে ধরে: অন্যত্র যাওয়ার উদ্দেশ্য সেখান থেকে ফয়সালা নেওয়া ছিল না, তোমার চেয়ে বেশি সুবিচার পাওয়াও ছিল না, উদ্দেশ্য ছিল কল্যাণ আর সুসম্পর্ক।"
+            "bn": "ইবনে কাসীর ৪:৬২ আয়াতকে পড়েন ঘটনা ঘটে যাওয়ার পরের কৈফিয়ত হিসেবে। নিজেদের গুনাহের কারণে বিপদে পড়ে যখন তাদের নবী ﷺ-এর দরকার হয়, তখন তারা এসে কসম খায়: অন্য বিচারকের কাছে গিয়েছিলাম শুধু সদ্ভাব আর মীমাংসার জন্য, সেই বিচারে বিশ্বাস করি বলে নয়। আল্লামা সাদি আরও সোজা বলেন: তারা মিথ্যা বলছে, কারণ প্রকৃত কল্যাণ তো আল্লাহ ও তাঁর রাসূল ﷺ-এর কাছে বিচার নিয়ে যাওয়াতেই। আহসানুল বায়ান তাদের অজুহাত তাদের মুখেই তুলে ধরে: অন্যত্র যাওয়ার উদ্দেশ্য সেখান থেকে ফয়সালা নেওয়া ছিল না, তোমার চেয়ে বেশি সুবিচার পাওয়াও ছিল না, উদ্দেশ্য ছিল কল্যাণ আর সুসম্পর্ক।"
           },
           {
             "en": "On 4:63 the commentators draw out a principle of great weight. Ibn Kathir explains turn away from them as do not punish them for what is in their hearts; Allah knows what they hide and suffices for it. What the Prophet ﷺ is told to do instead is to advise them, between himself and them, with words that might benefit them. As-Sa'di adds that counsel given privately is more likely to reach its aim, and that even when a caller turns away from someone doing wrong, he should still admonish him in private and speak persuasively.",
@@ -1469,7 +1469,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "He then told az-Zubayr to water and hold back the water until it reached the walls around the palms, and only then release it, giving az-Zubayr his full right, where his first ruling had been a generous course for both men. Az-Zubayr said that he thought this verse was revealed about that case: but no, by your Lord, they will not truly believe until they make you judge. The report does not call the Ansari a hypocrite, and az-Zubayr gives the link to the verse as his opinion, not as a certainty.",
-            "bn": "এরপর তিনি যুবাইরকে বললেন, পানি দাও, আর পানি আটকে রাখো যতক্ষণ না তা খেজুরগাছের চারপাশের আল পর্যন্ত পৌঁছায়, তারপর ছাড়ো। এভাবে তিনি যুবাইরকে তাঁর পূর্ণ হক দিলেন, অথচ প্রথম ফয়সালাটি ছিল দুজনের জন্যই উদার একটি পথ। যুবাইর (রাঃ) বলেন, আমার ধারণা, এই আয়াত সেই ঘটনা নিয়েই নাযিল হয়েছে: কিন্তু না, তোমার প্রতিপালকের শপথ, তারা প্রকৃত মুমিন হবে না যতক্ষণ না তোমাকে বিচারক মানে। বর্ণনাটি আনসারি লোকটিকে মুনাফিক বলে না। আর যুবাইর (রাঃ) আয়াতের সঙ্গে ঘটনাটির সম্পর্ক জানান নিজের ধারণা হিসেবে, নিশ্চিত কথা হিসেবে নয়।"
+            "bn": "এরপর তিনি যুবাইরকে বললেন, পানি দাও, আর পানি আটকে রাখো যতক্ষণ না তা খেজুরগাছের চারপাশের আল পর্যন্ত পৌঁছায়, তারপর ছাড়ো। এভাবে তিনি যুবাইরকে তাঁর পূর্ণ হক দিলেন, অথচ প্রথম ফয়সালাটি ছিল দুজনের জন্যই উদার একটি পথ। যুবাইর (রাঃ) বলেন, আমার ধারণা, এই আয়াত সেই ঘটনা নিয়েই নাজিল হয়েছে: কিন্তু না, তোমার প্রতিপালকের শপথ, তারা প্রকৃত মুমিন হবে না যতক্ষণ না তোমাকে বিচারক মানে। বর্ণনাটি আনসারি লোকটিকে মুনাফিক বলে না। আর যুবাইর (রাঃ) আয়াতের সঙ্গে ঘটনাটির সম্পর্ক জানান নিজের ধারণা হিসেবে, নিশ্চিত কথা হিসেবে নয়।"
           },
           {
             "en": "Al-Bukhari also records from Abu Hurayrah (RA) that the Prophet ﷺ said the signs of a hypocrite are three: when he speaks he lies, when he promises he breaks it, and when he is entrusted he betrays (al-Bukhari 33). The oath of 4:62 sits close to the first of these, and the command about trusts in 4:58 close to the third. A believer does well to look for these signs in himself before he looks for them in anyone else.",
@@ -1485,11 +1485,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "24:48-50 is the closest parallel. When called to Allah and His Messenger to judge between them, a party turns aside; if the right is theirs, they come in prompt obedience; and the verses ask whether there is disease in their hearts, or doubt, or fear of injustice. 24:51 gives the opposite: the only statement of the believers when so called is, we hear and we obey, and those are the successful. The test, then, is not whether one ever goes to the Messenger ﷺ, but whether one goes when the ruling may go against oneself.",
-            "bn": "সবচেয়ে কাছের মিল ২৪:৪৮-৫০ আয়াতে। আল্লাহ ও তাঁর রসূলের দিকে বিচারের জন্য ডাকা হলে একদল মুখ ফিরিয়ে নেয়। হক তাদের পক্ষে থাকলে তারা বিনয়ের সঙ্গে ছুটে আসে। আয়াতগুলো প্রশ্ন করে, তাদের অন্তরে কি রোগ আছে, নাকি সন্দেহ, নাকি অবিচারের ভয়? ২৪:৫১ আয়াত দেখায় উল্টো ছবি: এমন ডাকে মুমিনদের একমাত্র জবাব, আমরা শুনলাম ও মেনে নিলাম, আর তারাই সফলকাম। তাহলে পরীক্ষাটা এই নয় যে কেউ কখনো রসূল ﷺ-এর কাছে যায় কি না। পরীক্ষা হলো, ফয়সালা নিজের বিরুদ্ধে যেতে পারে জেনেও সে যায় কি না।"
+            "bn": "সবচেয়ে কাছের মিল ২৪:৪৮-৫০ আয়াতে। আল্লাহ ও তাঁর রাসূলের দিকে বিচারের জন্য ডাকা হলে একদল মুখ ফিরিয়ে নেয়। হক তাদের পক্ষে থাকলে তারা বিনয়ের সঙ্গে ছুটে আসে। আয়াতগুলো প্রশ্ন করে, তাদের অন্তরে কি রোগ আছে, নাকি সন্দেহ, নাকি অবিচারের ভয়? ২৪:৫১ আয়াত দেখায় উল্টো ছবি: এমন ডাকে মুমিনদের একমাত্র জবাব, আমরা শুনলাম ও মেনে নিলাম, আর তারাই সফলকাম। তাহলে পরীক্ষাটা এই নয় যে কেউ কখনো রাসূল ﷺ-এর কাছে যায় কি না। পরীক্ষা হলো, ফয়সালা নিজের বিরুদ্ধে যেতে পারে জেনেও সে যায় কি না।"
           },
           {
             "en": "63:1-2 and 58:16 describe hypocrites who take their oaths as a cover and so avert people from the way of Allah, which is the shape of the oath in 4:62. 9:62 says they swear by Allah to satisfy the believers, when Allah and His Messenger are more worthy of being satisfied. And 5:50 asks the question underneath the whole passage: is it the judgement of the time of ignorance they desire, and who is better than Allah in judgement for a people who are certain?",
-            "bn": "৬৩:১-২ ও ৫৮:১৬ আয়াতে আছে এমন মুনাফিকদের কথা, যারা কসমকে ঢাল বানায় আর এভাবে মানুষকে আল্লাহর পথ থেকে ফিরিয়ে রাখে। ৪:৬২ আয়াতের কসমের গড়নও এমনই। ৯:৬২ আয়াত বলে, মুমিনদের খুশি করার জন্য তারা আল্লাহর নামে কসম খায়, অথচ খুশি করার সবচেয়ে বেশি হকদার আল্লাহ ও তাঁর রসূল। আর ৫:৫০ আয়াত পুরো অংশের তলার প্রশ্নটি করে: তারা কি জাহিলি যুগের বিচার চায়? দৃঢ় বিশ্বাসী সম্প্রদায়ের জন্য বিচারে আল্লাহর চেয়ে উত্তম কে?"
+            "bn": "৬৩:১-২ ও ৫৮:১৬ আয়াতে আছে এমন মুনাফিকদের কথা, যারা কসমকে ঢাল বানায় আর এভাবে মানুষকে আল্লাহর পথ থেকে ফিরিয়ে রাখে। ৪:৬২ আয়াতের কসমের গড়নও এমনই। ৯:৬২ আয়াত বলে, মুমিনদের খুশি করার জন্য তারা আল্লাহর নামে কসম খায়, অথচ খুশি করার সবচেয়ে বেশি হকদার আল্লাহ ও তাঁর রাসূল। আর ৫:৫০ আয়াত পুরো অংশের তলার প্রশ্নটি করে: তারা কি জাহিলি যুগের বিচার চায়? দৃঢ় বিশ্বাসী সম্প্রদায়ের জন্য বিচারে আল্লাহর চেয়ে উত্তম কে?"
           }
         ]
       },
@@ -1537,7 +1537,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "When a clear ruling of the Quran or Sunnah goes against what I want, do I accept it, or start searching for someone who will tell me otherwise? Have I ever come readily to the way of the Messenger ﷺ only when it favoured me, as 24:49 describes? When a choice of mine has gone wrong, do I reach first for an excuse about good intentions, or for tawbah and the work of putting it right?",
-            "bn": "কুরআন বা সুন্নাহর কোনো স্পষ্ট বিধান আমার চাওয়ার বিরুদ্ধে গেলে আমি কি তা মেনে নিই, নাকি এমন কাউকে খুঁজতে শুরু করি যে ভিন্ন কথা বলবে? ২৪:৪৯ আয়াতে যেমন বলা হয়েছে, আমি কি কখনো রসূল ﷺ-এর পথে আগ্রহ নিয়ে এসেছি কেবল তখনই, যখন তা আমার পক্ষে ছিল? আমার কোনো সিদ্ধান্ত ভুল হলে আমি কি আগে ভালো নিয়তের অজুহাত খুঁজি, নাকি তওবা আর ভুল শোধরানোর কাজে হাত দিই?"
+            "bn": "কুরআন বা সুন্নাহর কোনো স্পষ্ট বিধান আমার চাওয়ার বিরুদ্ধে গেলে আমি কি তা মেনে নিই, নাকি এমন কাউকে খুঁজতে শুরু করি যে ভিন্ন কথা বলবে? ২৪:৪৯ আয়াতে যেমন বলা হয়েছে, আমি কি কখনো রাসূল ﷺ-এর পথে আগ্রহ নিয়ে এসেছি কেবল তখনই, যখন তা আমার পক্ষে ছিল? আমার কোনো সিদ্ধান্ত ভুল হলে আমি কি আগে ভালো নিয়তের অজুহাত খুঁজি, নাকি তওবা আর ভুল শোধরানোর কাজে হাত দিই?"
           },
           {
             "en": "When I see someone else evading what is right, do I pass a verdict on what is in his heart, or leave that to Allah and look for a private, well-chosen word? And if my own words of faith were weighed against the way I settle my disputes, would they count as belief, or only as a claim?",
@@ -1561,7 +1561,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then comes our verse: whoever obeys Allah and the Messenger. It gathers the argument of the preceding verses into a single promise. Right after it, 4:70 names that promise a bounty, and 4:71 turns to a new command, to take precautions and go forth, while 4:72 describes the one who lingers behind. So the promise of noble company sits between a call to accept the Prophet's ﷺ judgment and a call to go out with him. Ibn Kathir also records a report about why the verse came down, given in the hadith section below.",
-            "bn": "তারপর আসে আমাদের আয়াত: যে আল্লাহ ও রাসূলের আনুগত্য করে। আগের আয়াতগুলোর পুরো যুক্তিকে এটি একটি ওয়াদায় জড়ো করে। ঠিক পরে ৪:৭০ আয়াত সেই ওয়াদাকে বলে অনুগ্রহ, আর ৪:৭১ আয়াত ফেরে নতুন এক আদেশে, সতর্কতা নাও আর বেরিয়ে পড়ো। ৪:৭২ আয়াতে আসে পেছনে পড়ে থাকা লোকের কথা। ফলে উত্তম সঙ্গের ওয়াদাটা বসে আছে দুই আহ্বানের মাঝখানে: নবী ﷺ-এর ফয়সালা মেনে নেওয়ার আহ্বান, আর তাঁর সঙ্গে বেরিয়ে পড়ার আহ্বান। আয়াতটি কেন নাজিল হয়েছিল, সে বিষয়ে ইবনে কাসীর একটি বর্ণনাও এনেছেন, যা নিচে হাদীসের অংশে আসছে।"
+            "bn": "তারপর আসে আমাদের আয়াত: যে আল্লাহ ও রাসূলের আনুগত্য করে। আগের আয়াতগুলোর পুরো যুক্তিকে এটি একটি ওয়াদায় জড়ো করে। ঠিক পরে ৪:৭০ আয়াত সেই ওয়াদাকে বলে অনুগ্রহ, আর ৪:৭১ আয়াত ফেরে নতুন এক আদেশে, সতর্কতা নাও আর বেরিয়ে পড়ো। ৪:৭২ আয়াতে আসে পেছনে পড়ে থাকা লোকের কথা। ফলে উত্তম সঙ্গের ওয়াদাটা বসে আছে দুই আহ্বানের মাঝখানে: নবী ﷺ-এর ফয়সালা মেনে নেওয়ার আহ্বান, আর তাঁর সঙ্গে বেরিয়ে পড়ার আহ্বান। আয়াতটি কেন নাজিল হয়েছিল, সে বিষয়ে ইবনে কাসীর একটি বর্ণনাও এনেছেন, যা নিচে হাদিসের অংশে আসছে।"
           }
         ]
       },
@@ -1657,7 +1657,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "And do not despair because your deeds are small. Ibn Kathir cites the hadith in the Sahih collections that a person will be with those he loves, and Anas (RA) said that Muslims were never happier with anything, and that he loved the Prophet ﷺ, Abu Bakr and Umar (RA) and hoped to be raised with them though his deeds were not like theirs. So love them deliberately. Read the lives of the prophets and the Companions, keep company now with people who remind you of Allah, and let as-Sa'di's words stay with you: man or woman, young or old.",
-            "bn": "আর নিজের আমল কম বলে নিরাশ হবেন না। ইবনে কাসীর সহীহ সংকলনগুলোর হাদীস আনেন: মানুষ তাদের সঙ্গেই থাকবে, যাদের সে ভালোবাসে। আনাস (রাঃ) বলেছেন, মুসলমানরা আর কোনো কিছুতে এত খুশি হয়নি। তিনি আরও বলেছেন, তিনি নবী ﷺ, আবু বকর ও উমর (রাঃ)-কে ভালোবাসেন, আর আশা করেন তাঁদের সঙ্গেই তাঁকে ওঠানো হবে, যদিও তাঁর আমল তাঁদের মতো নয়। তাই জেনে-বুঝে তাঁদের ভালোবাসুন। নবীদের আর সাহাবিদের জীবনী পড়ুন, এখনই এমন মানুষের সঙ্গে থাকুন যারা আল্লাহর কথা মনে করিয়ে দেয়। আর আস-সাদীর কথাটা মনে রাখুন: পুরুষ হোক বা নারী, ছোট হোক বা বড়।"
+            "bn": "আর নিজের আমল কম বলে নিরাশ হবেন না। ইবনে কাসীর সহীহ সংকলনগুলোর হাদিস আনেন: মানুষ তাদের সঙ্গেই থাকবে, যাদের সে ভালোবাসে। আনাস (রাঃ) বলেছেন, মুসলমানরা আর কোনো কিছুতে এত খুশি হয়নি। তিনি আরও বলেছেন, তিনি নবী ﷺ, আবু বকর ও উমর (রাঃ)-কে ভালোবাসেন, আর আশা করেন তাঁদের সঙ্গেই তাঁকে ওঠানো হবে, যদিও তাঁর আমল তাঁদের মতো নয়। তাই জেনে-বুঝে তাঁদের ভালোবাসুন। নবীদের আর সাহাবিদের জীবনী পড়ুন, এখনই এমন মানুষের সঙ্গে থাকুন যারা আল্লাহর কথা মনে করিয়ে দেয়। আর আস-সাদীর কথাটা মনে রাখুন: পুরুষ হোক বা নারী, ছোট হোক বা বড়।"
           }
         ]
       },
@@ -1749,7 +1749,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The reply is one clause long: say, all is from Allah. It refuses the split. A person who genuinely holds that everything proceeds from one Source cannot keep two ledgers, one for the gifts he accepts and one for the injuries he assigns elsewhere. The Quran treats this not as bad manners but as a failure of belief in tawhid at the point where belief is actually tested, which is the moment something goes wrong.",
-            "bn": "জবাবটা এক বাক্যের: বলো, সবকিছুই আল্লাহর পক্ষ থেকে। এই জবাব ভাগাভাগিটা মানে না। যে সত্যিই বিশ্বাস করে সবকিছু এক উৎস থেকেই আসে, সে দুটো খাতা রাখতে পারে না: একটায় নিজের নেওয়া উপহার, আরেকটায় অন্যের ঘাড়ে চাপানো আঘাত। কুরআন একে নিছক বেয়াদবি হিসেবে দেখে না। এটা তাওহীদের বিশ্বাসে ব্যর্থতা, আর তা ঘটে ঠিক সেই জায়গায়, যেখানে বিশ্বাসের আসল পরীক্ষা হয়: যখন কিছু একটা খারাপ হয়ে যায়।"
+            "bn": "জবাবটা এক বাক্যের: বলো, সবকিছুই আল্লাহর পক্ষ থেকে। এই জবাব ভাগাভাগিটা মানে না। যে সত্যিই বিশ্বাস করে সবকিছু এক উৎস থেকেই আসে, সে দুটো খাতা রাখতে পারে না: একটায় নিজের নেওয়া উপহার, আরেকটায় অন্যের ঘাড়ে চাপানো আঘাত। কুরআন একে নিছক বেয়াদবি হিসেবে দেখে না। এটা তাওহিদের বিশ্বাসে ব্যর্থতা, আর তা ঘটে ঠিক সেই জায়গায়, যেখানে বিশ্বাসের আসল পরীক্ষা হয়: যখন কিছু একটা খারাপ হয়ে যায়।"
           }
         ]
       },
@@ -1808,7 +1808,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Where the Verse Was Sent",
-          "bn": "আয়াতটি যেখানে নাযিল"
+          "bn": "আয়াতটি যেখানে নাজিল"
         },
         "p": [
           {
@@ -1824,7 +1824,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Why It Was Sent Down",
-          "bn": "কেন নাযিল হয়েছে"
+          "bn": "কেন নাজিল হয়েছে"
         },
         "p": [
           {
@@ -1889,7 +1889,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Who the hypocrites of 4:88 were is not settled. Ibn Kathir opens his comment by saying there are conflicting opinions over the reason the verse came down. Both of the main reports concern particular people at a time of war: men who had professed Islam and then, when it mattered, deserted the believers or took the enemy's side. Neither gives a licence against any people living at peace, and 4:90 says so in its own words.",
-            "bn": "৪:৮৮ আয়াতের মুনাফিকরা ঠিক কারা ছিল, তা নিয়ে একমত হওয়া যায়নি। ইবনে কাসীর তাঁর ব্যাখ্যা শুরুই করেন এই কথা বলে যে আয়াত নাযিলের কারণ নিয়ে ভিন্ন ভিন্ন মত আছে। প্রধান দুটি বর্ণনাই যুদ্ধের সময়ের নির্দিষ্ট কিছু মানুষকে নিয়ে। তারা মুখে ইসলাম গ্রহণের কথা বলেছিল, তারপর প্রয়োজনের মুহূর্তে মুমিনদের ছেড়ে গিয়েছিল, কিংবা শত্রুর পক্ষ নিয়েছিল। কোনো বর্ণনাই শান্তিতে বসবাসকারী কোনো জনগোষ্ঠীর বিরুদ্ধে অনুমতি দেয় না, আর ৪:৯০ আয়াত নিজের ভাষাতেই সে কথা বলে দেয়।"
+            "bn": "৪:৮৮ আয়াতের মুনাফিকরা ঠিক কারা ছিল, তা নিয়ে একমত হওয়া যায়নি। ইবনে কাসীর তাঁর ব্যাখ্যা শুরুই করেন এই কথা বলে যে আয়াত নাজিলের কারণ নিয়ে ভিন্ন ভিন্ন মত আছে। প্রধান দুটি বর্ণনাই যুদ্ধের সময়ের নির্দিষ্ট কিছু মানুষকে নিয়ে। তারা মুখে ইসলাম গ্রহণের কথা বলেছিল, তারপর প্রয়োজনের মুহূর্তে মুমিনদের ছেড়ে গিয়েছিল, কিংবা শত্রুর পক্ষ নিয়েছিল। কোনো বর্ণনাই শান্তিতে বসবাসকারী কোনো জনগোষ্ঠীর বিরুদ্ধে অনুমতি দেয় না, আর ৪:৯০ আয়াত নিজের ভাষাতেই সে কথা বলে দেয়।"
           }
         ]
       },
@@ -1921,7 +1921,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "In that report the Prophet ﷺ was with them and forbade neither side from making its case, until the verse came. At-Tabari, weighing the reports, preferred the view that the verse concerns people from Makkah, reasoning from the words until they emigrate, which point to people living outside Madinah. Mujahid, in a report Ibn Kathir cites for 4:91, said that verse came down about a group from Makkah who came to the Prophet ﷺ in Madinah appearing to be Muslims, then went back to Quraysh and returned to their idols, wanting to be at peace with both sides.",
-            "bn": "সেই বর্ণনায় নবী ﷺ তাঁদের মাঝেই ছিলেন, আর আয়াত নাযিল হওয়া পর্যন্ত কোনো পক্ষকেই নিজের কথা বলতে নিষেধ করেননি। আত-তাবারী বর্ণনাগুলো যাচাই করে এই মতটিকে অগ্রাধিকার দিয়েছেন যে আয়াতটি মক্কার লোকদের নিয়ে। তাঁর যুক্তি আয়াতের শব্দ, যতক্ষণ না তারা হিজরত করে। এই কথা ইঙ্গিত দেয়, তারা মদিনার বাইরের মানুষ। ইবনে কাসীর ৪:৯১ আয়াতের ব্যাখ্যায় মুজাহিদের বর্ণনা আনেন: সেই আয়াত নাযিল হয়েছিল মক্কার এমন এক দলকে নিয়ে, যারা মদিনায় নবী ﷺ-এর কাছে এসে মুসলমান সাজত, তারপর কুরাইশের কাছে ফিরে গিয়ে আবার মূর্তিপূজায় লিপ্ত হতো। তারা দুই পক্ষের সঙ্গেই শান্তিতে থাকতে চাইত।"
+            "bn": "সেই বর্ণনায় নবী ﷺ তাঁদের মাঝেই ছিলেন, আর আয়াত নাজিল হওয়া পর্যন্ত কোনো পক্ষকেই নিজের কথা বলতে নিষেধ করেননি। আত-তাবারী বর্ণনাগুলো যাচাই করে এই মতটিকে অগ্রাধিকার দিয়েছেন যে আয়াতটি মক্কার লোকদের নিয়ে। তাঁর যুক্তি আয়াতের শব্দ, যতক্ষণ না তারা হিজরত করে। এই কথা ইঙ্গিত দেয়, তারা মদিনার বাইরের মানুষ। ইবনে কাসীর ৪:৯১ আয়াতের ব্যাখ্যায় মুজাহিদের বর্ণনা আনেন: সেই আয়াত নাজিল হয়েছিল মক্কার এমন এক দলকে নিয়ে, যারা মদিনায় নবী ﷺ-এর কাছে এসে মুসলমান সাজত, তারপর কুরাইশের কাছে ফিরে গিয়ে আবার মূর্তিপূজায় লিপ্ত হতো। তারা দুই পক্ষের সঙ্গেই শান্তিতে থাকতে চাইত।"
           },
           {
             "en": "On the words if they turn away, Ibn Kathir gives two readings: from Ibn Abbas (RA), if they abandon emigration; from as-Suddi, if they make their disbelief open. As-Sa'di describes these hypocrites as people who claimed Islam but refused to emigrate, and notes that once they emigrated they had the rights of every Muslim. The Prophet ﷺ, he says, gave those rights to everyone with him who had emigrated, true believer or hypocrite alike. As these commentators read it, the ruling fell on people who refused hijrah or declared their disbelief, not on the hidden doubts of those living among the believers.",
@@ -1953,7 +1953,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Imam Ahmad records from Zayd ibn Thabit (RA) that the Messenger of Allah ﷺ marched out towards Uhud, and some who had set out with him went back to Madinah. The Companions divided over them: one group said they should be killed, the other objected. Then Allah sent down fa-ma lakum fil-munafiqina fi'atayn. In the wording Ibn Kathir gives, the Prophet ﷺ said of Madinah that she is Taybah and expels impurity as the bellows expel the dross of iron. Ibn Kathir adds that the two Sahihs also record the report.",
-            "bn": "ইমাম আহমাদ যায়েদ ইবনে সাবিত (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ উহুদের দিকে রওনা হলেন, আর তাঁর সঙ্গে যারা বের হয়েছিল তাদের কিছু লোক মদিনায় ফিরে গেল। তাদের নিয়ে সাহাবীরা দুই ভাগ হয়ে গেলেন। একদল বললেন, ওদের হত্যা করা উচিত, অন্যদল আপত্তি করলেন। তখন আল্লাহ নাযিল করলেন, ফা-মা লাকুম ফিল-মুনাফিকীনা ফিআতাইন। ইবনে কাসীর যে ভাষ্য উল্লেখ করেছেন, তাতে নবী ﷺ মদিনা সম্পর্কে বলেন, এ হলো তাইবা, হাপর যেমন লোহার ময়লা দূর করে, মদিনাও তেমনি মলিনতা দূর করে দেয়। ইবনে কাসীর আরও জানান, সহীহ বুখারী ও সহীহ মুসলিমেও বর্ণনাটি আছে।"
+            "bn": "ইমাম আহমাদ যায়েদ ইবনে সাবিত (রাঃ) থেকে বর্ণনা করেন, রাসূলুল্লাহ ﷺ উহুদের দিকে রওনা হলেন, আর তাঁর সঙ্গে যারা বের হয়েছিল তাদের কিছু লোক মদিনায় ফিরে গেল। তাদের নিয়ে সাহাবীরা দুই ভাগ হয়ে গেলেন। একদল বললেন, ওদের হত্যা করা উচিত, অন্যদল আপত্তি করলেন। তখন আল্লাহ নাজিল করলেন, ফা-মা লাকুম ফিল-মুনাফিকীনা ফিআতাইন। ইবনে কাসীর যে ভাষ্য উল্লেখ করেছেন, তাতে নবী ﷺ মদিনা সম্পর্কে বলেন, এ হলো তাইবা, হাপর যেমন লোহার ময়লা দূর করে, মদিনাও তেমনি মলিনতা দূর করে দেয়। ইবনে কাসীর আরও জানান, সহীহ বুখারী ও সহীহ মুসলিমেও বর্ণনাটি আছে।"
           },
           {
             "en": "The Prophet's ﷺ words in that report give no order to pursue the men who left. They speak of the city itself separating the true from the false. His practice with the hypocrites living inside Madinah kept that restraint. Al-Bukhari records from Jabir (RA) that when Abdullah ibn Ubayy said the more honoured would expel the more humble on returning to Madinah, words 63:8 preserves, Umar (RA) asked leave to kill him. The Prophet ﷺ refused, so that people would not say Muhammad kills his companions.",
@@ -2041,11 +2041,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir opens his comment by stating that the believer is not allowed to kill his believing brother under any circumstances. He cites the report of Ibn Mas'ud (RA) in the Two Sahihs that the blood of a Muslim who testifies that there is no deity worthy of worship except Allah and that Muhammad is His Messenger is sacred, except in three cases: a life for a life, the married adulterer, and the one who leaves his religion and departs from the community. He adds that carrying such a matter out belongs to the Muslim leader or his deputy, not to ordinary people.",
-            "bn": "ইবনে কাসীর তাঁর ব্যাখ্যা শুরু করেন এই কথা দিয়ে যে কোনো অবস্থাতেই মুমিনের জন্য তার মুমিন ভাইকে হত্যা করা বৈধ নয়। তিনি সহীহ বুখারী ও সহীহ মুসলিমে ইবনে মাসউদ (রাঃ) থেকে বর্ণিত হাদীস আনেন: যে সাক্ষ্য দেয় আল্লাহ ছাড়া সত্য কোনো ইলাহ নেই এবং মুহাম্মদ ﷺ আল্লাহর রাসূল, সেই মুসলিমের রক্ত হারাম, তিনটি অবস্থা ছাড়া। প্রাণের বদলে প্রাণ, বিবাহিত ব্যভিচারী, আর যে দীন ছেড়ে জামাত থেকে বেরিয়ে যায়। ইবনে কাসীর যোগ করেন, এসব কার্যকর করার দায়িত্ব মুসলিম শাসক বা তাঁর প্রতিনিধির, সাধারণ মানুষের নয়।"
+            "bn": "ইবনে কাসীর তাঁর ব্যাখ্যা শুরু করেন এই কথা দিয়ে যে কোনো অবস্থাতেই মুমিনের জন্য তার মুমিন ভাইকে হত্যা করা বৈধ নয়। তিনি সহীহ বুখারী ও সহীহ মুসলিমে ইবনে মাসউদ (রাঃ) থেকে বর্ণিত হাদিস আনেন: যে সাক্ষ্য দেয় আল্লাহ ছাড়া সত্য কোনো ইলাহ নেই এবং মুহাম্মদ ﷺ আল্লাহর রাসূল, সেই মুসলিমের রক্ত হারাম, তিনটি অবস্থা ছাড়া। প্রাণের বদলে প্রাণ, বিবাহিত ব্যভিচারী, আর যে দীন ছেড়ে জামাত থেকে বেরিয়ে যায়। ইবনে কাসীর যোগ করেন, এসব কার্যকর করার দায়িত্ব মুসলিম শাসক বা তাঁর প্রতিনিধির, সাধারণ মানুষের নয়।"
           },
           {
             "en": "On the words except by mistake, Ibn Kathir says there is a difference of opinion about why this part came down. Mujahid and others, he reports, said it concerned Ayyash ibn Abi Rabi'ah (RA), who killed a man in return for having been tortured by him, not knowing that the man had since accepted Islam and emigrated. Abdur-Rahman ibn Zayd ibn Aslam named Abu ad-Darda (RA) instead, but Ibn Kathir remarks that although the basis of that story is in the Sahih, it is not about Abu ad-Darda. The occasion is reported and unsettled.",
-            "bn": "ভুলবশত ছাড়া, এই কথাটির ব্যাপারে ইবনে কাসীর জানান, কেন এ অংশ নাযিল হলো তা নিয়ে মতভেদ আছে। তিনি বলেন, মুজাহিদ ও অন্যরা এটিকে যুক্ত করেছেন আইয়াশ ইবনে আবী রাবীআ (রাঃ)-এর সঙ্গে। তিনি এমন একজনকে হত্যা করেছিলেন যে তাঁকে নির্যাতন করেছিল, অথচ তিনি জানতেন না যে লোকটি এর মধ্যে ইসলাম গ্রহণ করে হিজরত করে ফেলেছে। আবদুর রহমান ইবনে যায়েদ ইবনে আসলাম এর বদলে আবুদ দারদা (রাঃ)-এর নাম বলেছেন। তবে ইবনে কাসীর জানান, ঘটনার মূল সহীহ গ্রন্থে থাকলেও তা আবুদ দারদা (রাঃ)-কে নিয়ে নয়। অর্থাৎ শানে নুযূল বর্ণিত হয়েছে, কিন্তু নিষ্পত্তি হয়নি।"
+            "bn": "ভুলবশত ছাড়া, এই কথাটির ব্যাপারে ইবনে কাসীর জানান, কেন এ অংশ নাজিল হলো তা নিয়ে মতভেদ আছে। তিনি বলেন, মুজাহিদ ও অন্যরা এটিকে যুক্ত করেছেন আইয়াশ ইবনে আবী রাবীআ (রাঃ)-এর সঙ্গে। তিনি এমন একজনকে হত্যা করেছিলেন যে তাঁকে নির্যাতন করেছিল, অথচ তিনি জানতেন না যে লোকটি এর মধ্যে ইসলাম গ্রহণ করে হিজরত করে ফেলেছে। আবদুর রহমান ইবনে যায়েদ ইবনে আসলাম এর বদলে আবুদ দারদা (রাঃ)-এর নাম বলেছেন। তবে ইবনে কাসীর জানান, ঘটনার মূল সহীহ গ্রন্থে থাকলেও তা আবুদ দারদা (রাঃ)-কে নিয়ে নয়। অর্থাৎ শানে নুযূল বর্ণিত হয়েছে, কিন্তু নিষ্পত্তি হয়নি।"
           }
         ]
       },
@@ -2061,7 +2061,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What the mistake costs is named in three parts: tahrir raqabah mu'minah, the freeing of a believing slave; diyah musallamah ila ahlihi, a compensation payment handed over to the dead man's family; and, for whoever does not find the means, siyam shahrayn mutatabi'ayn, a fast of two consecutive months. The clause that closes the ruling is tawbatan min Allah. Ibn Kathir explains that phrase as the way in which the one who killed by mistake repents, fasting two consecutive months when he finds no slave to free.",
-            "bn": "ভুলের দাম কী, তা তিন ভাগে বলা হয়েছে: তাহরীরু রাকাবাতিন মু'মিনাহ, অর্থাৎ একজন মুমিন দাসকে মুক্ত করা; দিয়াতুন মুসাল্লামাতুন ইলা আহলিহি, অর্থাৎ নিহতের পরিবারের হাতে রক্তপণ তুলে দেওয়া; আর যার সামর্থ্য নেই তার জন্য সিয়ামু শাহরাইনি মুতাতাবিআইন, একটানা দুই মাসের রোযা। হুকুমটি শেষ হয় তাওবাতাম মিনাল্লাহ কথাটি দিয়ে। ইবনে কাসীর এর ব্যাখ্যায় বলেন, যে ভুলক্রমে হত্যা করেছে তার তওবার পথই এটি, দাস না পেলে সে একটানা দুই মাস রোযা রাখবে।"
+            "bn": "ভুলের দাম কী, তা তিন ভাগে বলা হয়েছে: তাহরীরু রাকাবাতিন মু'মিনাহ, অর্থাৎ একজন মুমিন দাসকে মুক্ত করা; দিয়াতুন মুসাল্লামাতুন ইলা আহলিহি, অর্থাৎ নিহতের পরিবারের হাতে রক্তপণ তুলে দেওয়া; আর যার সামর্থ্য নেই তার জন্য সিয়ামু শাহরাইনি মুতাতাবিআইন, একটানা দুই মাসের রোজা। হুকুমটি শেষ হয় তাওবাতাম মিনাল্লাহ কথাটি দিয়ে। ইবনে কাসীর এর ব্যাখ্যায় বলেন, যে ভুলক্রমে হত্যা করেছে তার তওবার পথই এটি, দাস না পেলে সে একটানা দুই মাস রোজা রাখবে।"
           }
         ]
       },
@@ -2105,7 +2105,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "4:93 changes register completely. There is no payment here, no fast, no arithmetic: the recompense of one who kills a believer intentionally is Hell, abiding in it, with Allah's anger upon him, His curse, and a great punishment prepared. Ibn Kathir calls it a stern warning and notes that this sin is set beside shirk in several places in the Book, pointing to 25:68, where the servants of the Most Merciful neither call upon another god nor kill the soul Allah forbade except by right, and to 6:151.",
-            "bn": "৪:৯৩ আয়াতে সুরটাই বদলে যায়। এখানে কোনো রক্তপণ নেই, রোযা নেই, হিসাব নেই। যে ইচ্ছাকৃতভাবে কোনো মুমিনকে হত্যা করে তার প্রতিদান জাহান্নাম, সেখানে সে স্থায়ী হবে; তার ওপর আল্লাহর ক্রোধ, তাঁর লানত, আর তার জন্য প্রস্তুত মহাশাস্তি। ইবনে কাসীর একে কঠোর হুঁশিয়ারি বলেন এবং জানান, কুরআনের কয়েক জায়গায় এই গুনাহকে শিরকের পাশে রাখা হয়েছে। তিনি ইঙ্গিত করেন ২৫:৬৮ আয়াতের দিকে, যেখানে রহমানের বান্দারা অন্য কোনো ইলাহকে ডাকে না আর যথার্থ কারণ ছাড়া আল্লাহর হারাম করা প্রাণ হত্যা করে না, আর ৬:১৫১ আয়াতের দিকে।"
+            "bn": "৪:৯৩ আয়াতে সুরটাই বদলে যায়। এখানে কোনো রক্তপণ নেই, রোজা নেই, হিসাব নেই। যে ইচ্ছাকৃতভাবে কোনো মুমিনকে হত্যা করে তার প্রতিদান জাহান্নাম, সেখানে সে স্থায়ী হবে; তার ওপর আল্লাহর ক্রোধ, তাঁর লানত, আর তার জন্য প্রস্তুত মহাশাস্তি। ইবনে কাসীর একে কঠোর হুঁশিয়ারি বলেন এবং জানান, কুরআনের কয়েক জায়গায় এই গুনাহকে শিরকের পাশে রাখা হয়েছে। তিনি ইঙ্গিত করেন ২৫:৬৮ আয়াতের দিকে, যেখানে রহমানের বান্দারা অন্য কোনো ইলাহকে ডাকে না আর যথার্থ কারণ ছাড়া আল্লাহর হারাম করা প্রাণ হত্যা করে না, আর ৬:১৫১ আয়াতের দিকে।"
           },
           {
             "en": "He then brings two narrations. Ibn Mas'ud (RA), in the Two Sahihs, reports that blood offences are the first disputes judged between people on the Day of Resurrection. Ubadah ibn as-Samit (RA), in the collection of Abu Dawud, reports that the believer remains unburdened in righteousness so long as he has not shed forbidden blood, and that when he sheds it he becomes weighed down. The chain of the passage is then visible: the blood these verses protect is the first item on the docket of the next world.",
@@ -2113,7 +2113,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "On whether such a killer's repentance is accepted, Ibn Kathir records a real difference. Through al-Bukhari he reports that Sa'id ibn Jubayr travelled to Ibn Abbas (RA) because the people of knowledge in Kufah had disagreed, and that Ibn Abbas held 4:93 to be the last revelation on the subject with nothing abrogating it. Against that, Ibn Kathir says the majority of scholars, earlier and later, held that the repentance can be accepted, citing 25:70 on Allah replacing evil deeds with good and 39:53 forbidding despair of His mercy.",
-            "bn": "এমন হত্যাকারীর তওবা কবুল হয় কিনা, এ নিয়ে ইবনে কাসীর একটি সত্যিকারের মতভেদ তুলে ধরেন। সহীহ বুখারীর সূত্রে তিনি জানান, কূফার আলেমদের মধ্যে মতভেদ হওয়ায় সাঈদ ইবনে জুবাইর ইবনে আব্বাস (রাঃ)-এর কাছে যান। ইবনে আব্বাস (রাঃ)-এর মত ছিল, এ বিষয়ে ৪:৯৩ আয়াতই সবশেষে নাযিল হয়েছে এবং কোনো কিছু একে রহিত করেনি। এর বিপরীতে ইবনে কাসীর বলেন, আগের ও পরের যুগের অধিকাংশ আলেমের মত হলো তওবা কবুল হতে পারে। তাঁরা দলিল আনেন ২৫:৭০ আয়াত, যেখানে আল্লাহ মন্দকে ভালোয় বদলে দেন, আর ৩৯:৫৩ আয়াত, যা তাঁর রহমত থেকে নিরাশ হতে নিষেধ করে।"
+            "bn": "এমন হত্যাকারীর তওবা কবুল হয় কিনা, এ নিয়ে ইবনে কাসীর একটি সত্যিকারের মতভেদ তুলে ধরেন। সহীহ বুখারীর সূত্রে তিনি জানান, কূফার আলেমদের মধ্যে মতভেদ হওয়ায় সাঈদ ইবনে জুবাইর ইবনে আব্বাস (রাঃ)-এর কাছে যান। ইবনে আব্বাস (রাঃ)-এর মত ছিল, এ বিষয়ে ৪:৯৩ আয়াতই সবশেষে নাজিল হয়েছে এবং কোনো কিছু একে রহিত করেনি। এর বিপরীতে ইবনে কাসীর বলেন, আগের ও পরের যুগের অধিকাংশ আলেমের মত হলো তওবা কবুল হতে পারে। তাঁরা দলিল আনেন ২৫:৭০ আয়াত, যেখানে আল্লাহ মন্দকে ভালোয় বদলে দেন, আর ৩৯:৫৩ আয়াত, যা তাঁর রহমত থেকে নিরাশ হতে নিষেধ করে।"
           }
         ]
       },
@@ -2188,7 +2188,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Prayer With the Enemy in Sight",
-          "bn": "শত্রু সামনে রেখে নামায"
+          "bn": "শত্রু সামনে রেখে নামাজ"
         },
         "p": [
           {
@@ -2201,7 +2201,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "In the report, Jibril (AS) came down with these verses between the two prayers. When the time came, the Prophet ﷺ ordered the Muslims to hold their weapons and drew them up in two lines behind him. They bowed together, and then the line nearest him prostrated while the others stood on guard; when the first had risen, the second prostrated. The two lines changed places, and the same was done in the second cycle. Ibn Kathir adds that Abu Dawud and an-Nasa'i also record this narration.",
-            "bn": "সেই বর্ণনায় আছে, দুই নামাযের মাঝখানে জিবরীল (আঃ) এই আয়াতগুলো নিয়ে নামলেন। সময় হলে নবী ﷺ মুসলিমদের অস্ত্র হাতে নিতে বললেন এবং তাঁদের নিজের পেছনে দুই কাতারে দাঁড় করালেন। সবাই একসঙ্গে রুকু করলেন। এরপর তাঁর কাছের কাতার সাজদাহ করল, আর অন্য কাতার পাহারায় দাঁড়িয়ে থাকল। প্রথম কাতার উঠে দাঁড়ালে দ্বিতীয় কাতার সাজদাহ করল। এরপর দুই কাতার জায়গা বদল করল, আর দ্বিতীয় রাকাতেও একই নিয়মে হলো। ইবনে কাসীর জানান, আবু দাউদ ও নাসাঈও এই বর্ণনাটি এনেছেন।"
+            "bn": "সেই বর্ণনায় আছে, দুই নামাজের মাঝখানে জিবরীল (আঃ) এই আয়াতগুলো নিয়ে নামলেন। সময় হলে নবী ﷺ মুসলিমদের অস্ত্র হাতে নিতে বললেন এবং তাঁদের নিজের পেছনে দুই কাতারে দাঁড় করালেন। সবাই একসঙ্গে রুকু করলেন। এরপর তাঁর কাছের কাতার সাজদাহ করল, আর অন্য কাতার পাহারায় দাঁড়িয়ে থাকল। প্রথম কাতার উঠে দাঁড়ালে দ্বিতীয় কাতার সাজদাহ করল। এরপর দুই কাতার জায়গা বদল করল, আর দ্বিতীয় রাকাতেও একই নিয়মে হলো। ইবনে কাসীর জানান, আবু দাউদ ও নাসাঈও এই বর্ণনাটি এনেছেন।"
           }
         ]
       },
@@ -2233,11 +2233,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir opens his comment on this verse by saying outright that the fear prayer has different forms. The enemy is sometimes in the direction of the qiblah and sometimes not. The prayer itself is sometimes four cycles, sometimes three as in Maghrib, sometimes two as in Fajr and in travel. Sometimes it is prayed in congregation, and sometimes, when the fighting is actually raging, congregation is impossible and each person prays alone, facing the qiblah or not, riding or on foot.",
-            "bn": "ইবনে কাসীর এই আয়াতের ব্যাখ্যা শুরুই করেন সোজাসুজি এই কথা দিয়ে যে সালাতুল খাওফের কয়েকটি রূপ আছে। শত্রু কখনো কিবলার দিকে থাকে, কখনো থাকে না। নামাযটিও কখনো চার রাকাত, কখনো মাগরিবের মতো তিন, কখনো ফজর ও সফরের মতো দুই। কখনো তা জামাতে পড়া হয়। আর কখনো, যখন লড়াই সত্যিই চলছে, জামাত সম্ভবই হয় না; তখন প্রত্যেকে একা পড়ে, কিবলার দিকে ফিরে বা না ফিরে, সওয়ারির ওপরে বা পায়ে হেঁটে।"
+            "bn": "ইবনে কাসীর এই আয়াতের ব্যাখ্যা শুরুই করেন সোজাসুজি এই কথা দিয়ে যে সালাতুল খাওফের কয়েকটি রূপ আছে। শত্রু কখনো কিবলার দিকে থাকে, কখনো থাকে না। নামাজটিও কখনো চার রাকাত, কখনো মাগরিবের মতো তিন, কখনো ফজর ও সফরের মতো দুই। কখনো তা জামাতে পড়া হয়। আর কখনো, যখন লড়াই সত্যিই চলছে, জামাত সম্ভবই হয় না; তখন প্রত্যেকে একা পড়ে, কিবলার দিকে ফিরে বা না ফিরে, সওয়ারির ওপরে বা পায়ে হেঁটে।"
           },
           {
             "en": "Ibn Kathir adds that in that last case some scholars said the prayer becomes a single cycle, and he cites the report of Ibn Abbas (RA) that Allah ordained the prayer by the tongue of the Prophet ﷺ as four cycles while resident, two while travelling, and one during fear, recorded by Muslim, Abu Dawud, an-Nasa'i and Ibn Majah. He says this was also the position of Ahmad ibn Hanbal, and quotes al-Mundhiri listing Ata, Jabir, al-Hasan, Mujahid, al-Hakam, Qatadah and Hammad among those who held it.",
-            "bn": "ইবনে কাসীর যোগ করেন, শেষ অবস্থাটিতে কিছু আলেম বলেছেন নামায এক রাকাতে দাঁড়ায়। এর সমর্থনে তিনি ইবনে আব্বাস (রাঃ)-এর বর্ণনা আনেন: আল্লাহ নবী ﷺ-এর মুখে নামায নির্ধারণ করেছেন মুকীম অবস্থায় চার রাকাত, সফরে দুই রাকাত, আর ভয়ের সময় এক রাকাত। এটি এনেছেন মুসলিম, আবু দাউদ, নাসাঈ ও ইবনে মাজাহ। তিনি জানান, এটি আহমাদ ইবনে হাম্বলেরও মত। সঙ্গে মুনযিরীর বরাত দিয়ে যাঁরা এই মত নিয়েছেন তাঁদের নাম আনেন: আতা, জাবির, হাসান, মুজাহিদ, হাকাম, কাতাদা ও হাম্মাদ।"
+            "bn": "ইবনে কাসীর যোগ করেন, শেষ অবস্থাটিতে কিছু আলেম বলেছেন নামাজ এক রাকাতে দাঁড়ায়। এর সমর্থনে তিনি ইবনে আব্বাস (রাঃ)-এর বর্ণনা আনেন: আল্লাহ নবী ﷺ-এর মুখে নামাজ নির্ধারণ করেছেন মুকীম অবস্থায় চার রাকাত, সফরে দুই রাকাত, আর ভয়ের সময় এক রাকাত। এটি এনেছেন মুসলিম, আবু দাউদ, নাসাঈ ও ইবনে মাজাহ। তিনি জানান, এটি আহমাদ ইবনে হাম্বলেরও মত। সঙ্গে মুনযিরীর বরাত দিয়ে যাঁরা এই মত নিয়েছেন তাঁদের নাম আনেন: আতা, জাবির, হাসান, মুজাহিদ, হাকাম, কাতাদা ও হাম্মাদ।"
           },
           {
             "en": "He reports Ishaq ibn Rahwayh saying that when a battle is raging a single cycle in which you nod your head suffices, and that if even this is beyond you, one prostration suffices, because prostration is remembrance of Allah. All of this Ibn Kathir sets out as reported positions, not as one settled rule, and that is how it is repeated here. Which form applies to a given situation is a question for those qualified to answer it; nothing is decided in this article.",
@@ -2253,27 +2253,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari records from Ibn Abbas (RA) that the Prophet ﷺ once led the fear prayer with the people standing behind him. He said the takbir and they said it with him; he bowed and some of them bowed; he prostrated and they prostrated. Then he stood for the second cycle, and those who had prayed the first went off to guard their brothers while the other party joined him and bowed and prostrated with him. All of them were in prayer, and they were guarding one another inside it.",
-            "bn": "সহীহ বুখারীতে ইবনে আব্বাস (রাঃ) থেকে বর্ণিত, নবী ﷺ একবার ভয়ের নামায পড়ালেন, লোকেরা তাঁর পেছনে দাঁড়াল। তিনি তাকবীর বললেন, তাঁরাও বললেন। তিনি রুকু করলেন, তাঁদের একাংশ রুকু করল। তিনি সাজদাহ করলেন, তাঁরাও করলেন। এরপর তিনি দ্বিতীয় রাকাতের জন্য দাঁড়ালে যাঁরা প্রথম রাকাত পড়েছিলেন তাঁরা সরে গিয়ে ভাইদের পাহারায় দাঁড়ালেন, আর অন্য দলটি এসে তাঁর সঙ্গে রুকু ও সাজদাহ করল। সবাই নামাযেই ছিলেন, আর নামাযের ভেতরেই একে অন্যের পাহারা দিচ্ছিলেন।"
+            "bn": "সহীহ বুখারীতে ইবনে আব্বাস (রাঃ) থেকে বর্ণিত, নবী ﷺ একবার ভয়ের নামাজ পড়ালেন, লোকেরা তাঁর পেছনে দাঁড়াল। তিনি তাকবীর বললেন, তাঁরাও বললেন। তিনি রুকু করলেন, তাঁদের একাংশ রুকু করল। তিনি সাজদাহ করলেন, তাঁরাও করলেন। এরপর তিনি দ্বিতীয় রাকাতের জন্য দাঁড়ালে যাঁরা প্রথম রাকাত পড়েছিলেন তাঁরা সরে গিয়ে ভাইদের পাহারায় দাঁড়ালেন, আর অন্য দলটি এসে তাঁর সঙ্গে রুকু ও সাজদাহ করল। সবাই নামাজেই ছিলেন, আর নামাজের ভেতরেই একে অন্যের পাহারা দিচ্ছিলেন।"
           },
           {
             "en": "Ibn Kathir gives a further form from Jabir ibn Abdullah (RA) through Imam Ahmad, in which the Prophet ﷺ prayed two cycles while each group prayed one, and another from Ibn Umar (RA) through Ibn Abi Hatim, in which each group prayed one cycle behind him and then completed a second cycle on its own. He notes that many Companions transmitted the fear prayer and that Ibn Marduwyah and Ibn Jarir at-Tabari gathered these narrations together.",
-            "bn": "ইবনে কাসীর আরও রূপ আনেন। ইমাম আহমাদের সূত্রে জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে: নবী ﷺ দুই রাকাত পড়লেন, আর প্রতিটি দল পড়ল এক রাকাত করে। ইবনে আবি হাতিমের সূত্রে ইবনে উমর (রাঃ) থেকে: প্রতিটি দল তাঁর পেছনে এক রাকাত পড়ে নিজেরাই দ্বিতীয় রাকাত পূর্ণ করে নিল। তিনি জানান, ভয়ের নামায বহু সাহাবী বর্ণনা করেছেন, আর ইবনে মারদুওয়াইহ ও ইবনে জারীর আত-তাবারী এই বর্ণনাগুলো একসঙ্গে জড়ো করেছেন।"
+            "bn": "ইবনে কাসীর আরও রূপ আনেন। ইমাম আহমাদের সূত্রে জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে: নবী ﷺ দুই রাকাত পড়লেন, আর প্রতিটি দল পড়ল এক রাকাত করে। ইবনে আবি হাতিমের সূত্রে ইবনে উমর (রাঃ) থেকে: প্রতিটি দল তাঁর পেছনে এক রাকাত পড়ে নিজেরাই দ্বিতীয় রাকাত পূর্ণ করে নিল। তিনি জানান, ভয়ের নামাজ বহু সাহাবী বর্ণনা করেছেন, আর ইবনে মারদুওয়াইহ ও ইবনে জারীর আত-তাবারী এই বর্ণনাগুলো একসঙ্গে জড়ো করেছেন।"
           }
         ]
       },
       {
         "h": {
           "en": "When the Prayer Is Over",
-          "bn": "নামায শেষ হওয়ার পর"
+          "bn": "নামাজ শেষ হওয়ার পর"
         },
         "p": [
           {
             "en": "4:103 does not let the worshipper walk away. When you have finished the prayer, it says, remember Allah standing, sitting and on your sides. Ibn Kathir explains that remembrance is encouraged after every prayer, but that it is encouraged here all the more, because the pillars of this particular prayer were reduced while the people moved about in it. What was cut from the form is made up in the remembrance that follows it.",
-            "bn": "৪:১০৩ আয়াত নামাযীকে এমনিই চলে যেতে দেয় না। আয়াত বলে, নামায শেষ করলে দাঁড়িয়ে, বসে ও শুয়ে আল্লাহকে স্মরণ করো। ইবনে কাসীর ব্যাখ্যা করেন, প্রতিটি নামাযের পরেই যিকিরের উৎসাহ আছে, তবে এখানে উৎসাহটা আরও বেশি। কারণ এই বিশেষ নামাযের রুকনগুলো কমিয়ে আনা হয়েছিল, মানুষ নড়াচড়া করতে করতেই তা পড়েছে। গড়ন থেকে যা কেটে নেওয়া হলো, পরের যিকির তা পুষিয়ে দেয়।"
+            "bn": "৪:১০৩ আয়াত নামাজীকে এমনিই চলে যেতে দেয় না। আয়াত বলে, নামাজ শেষ করলে দাঁড়িয়ে, বসে ও শুয়ে আল্লাহকে স্মরণ করো। ইবনে কাসীর ব্যাখ্যা করেন, প্রতিটি নামাজের পরেই জিকিরের উৎসাহ আছে, তবে এখানে উৎসাহটা আরও বেশি। কারণ এই বিশেষ নামাজের রুকনগুলো কমিয়ে আনা হয়েছিল, মানুষ নড়াচড়া করতে করতেই তা পড়েছে। গড়ন থেকে যা কেটে নেওয়া হলো, পরের জিকির তা পুষিয়ে দেয়।"
           },
           {
             "en": "Then comes the sentence that puts the concession back in its box: when you are secure, establish the prayer. Ibn Kathir reads this as performing it as you were commanded, fulfilling its obligations with humility and completing the bowing and prostration. And the verse ends by calling the prayer kitaban mawqutan upon the believers. Ibn Abbas (RA) glossed the word as enjoined, and also said that the prayer has a fixed time as the Hajj has; Ibn Kathir reports the like from Mujahid, al-Hasan and as-Suddi among others.",
-            "bn": "এরপর আসে সেই বাক্য, যা ছাড়টিকে আবার তার জায়গায় ফিরিয়ে দেয়: নিরাপদ হলে নামায কায়েম করো। ইবনে কাসীরের পাঠে এর মানে, যেভাবে হুকুম দেওয়া হয়েছে সেভাবেই পড়া, বিনয়ের সঙ্গে ফরযগুলো আদায় করা, রুকু-সাজদাহ পূর্ণ করা। আর আয়াত শেষ হয় নামাযকে মুমিনদের ওপর কিতাবাম মাওকূতা বলে। ইবনে আব্বাস (রাঃ) শব্দটির অর্থ করেছেন ফরয করা, আর এ-ও বলেছেন যে হজের মতো নামাযেরও নির্দিষ্ট সময় আছে। ইবনে কাসীর জানান, মুজাহিদ, হাসান ও সুদ্দীসহ আরও কয়েকজন থেকে একই রকম কথা বর্ণিত।"
+            "bn": "এরপর আসে সেই বাক্য, যা ছাড়টিকে আবার তার জায়গায় ফিরিয়ে দেয়: নিরাপদ হলে নামাজ কায়েম করো। ইবনে কাসীরের পাঠে এর মানে, যেভাবে হুকুম দেওয়া হয়েছে সেভাবেই পড়া, বিনয়ের সঙ্গে ফরজগুলো আদায় করা, রুকু-সাজদাহ পূর্ণ করা। আর আয়াত শেষ হয় নামাজকে মুমিনদের ওপর কিতাবাম মাওকূতা বলে। ইবনে আব্বাস (রাঃ) শব্দটির অর্থ করেছেন ফরজ করা, আর এ-ও বলেছেন যে হজের মতো নামাজেরও নির্দিষ্ট সময় আছে। ইবনে কাসীর জানান, মুজাহিদ, হাসান ও সুদ্দীসহ আরও কয়েকজন থেকে একই রকম কথা বর্ণিত।"
           }
         ]
       },
@@ -2285,7 +2285,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "2:239 is the same instruction compressed: if you fear, then pray on foot or riding, and when you are secure, remember Allah as He taught you what you did not know. 2:238 stands just before it and tells the believers to guard the prayers, and the middle prayer, and to stand before Allah devoutly obedient. The two verses together say what 4:102 and 4:103 say, and Surah al-Baqarah says it in two lines.",
-            "bn": "২:২৩৯ আয়াত একই নির্দেশের সংক্ষিপ্ত রূপ: ভয় পেলে পায়ে হেঁটে বা সওয়ারিতে থেকেই নামায পড়ো, আর নিরাপদ হলে আল্লাহকে স্মরণ করো, যেভাবে তিনি তোমাদের শিখিয়েছেন যা তোমরা জানতে না। এর ঠিক আগের আয়াত ২:২৩৮ মুমিনদের বলে নামাযের প্রতি যত্নবান হতে, বিশেষ করে মধ্যবর্তী নামাযের প্রতি, আর আল্লাহর সামনে বিনীত হয়ে দাঁড়াতে। দুই আয়াত মিলে সেই কথাই বলে যা ৪:১০২ ও ৪:১০৩ আয়াত বলছে, আর সূরা বাকারা তা বলে মাত্র দুই লাইনে।"
+            "bn": "২:২৩৯ আয়াত একই নির্দেশের সংক্ষিপ্ত রূপ: ভয় পেলে পায়ে হেঁটে বা সওয়ারিতে থেকেই নামাজ পড়ো, আর নিরাপদ হলে আল্লাহকে স্মরণ করো, যেভাবে তিনি তোমাদের শিখিয়েছেন যা তোমরা জানতে না। এর ঠিক আগের আয়াত ২:২৩৮ মুমিনদের বলে নামাজের প্রতি যত্নবান হতে, বিশেষ করে মধ্যবর্তী নামাজের প্রতি, আর আল্লাহর সামনে বিনীত হয়ে দাঁড়াতে। দুই আয়াত মিলে সেই কথাই বলে যা ৪:১০২ ও ৪:১০৩ আয়াত বলছে, আর সূরা বাকারা তা বলে মাত্র দুই লাইনে।"
           },
           {
             "en": "20:14 gives the reason underneath all of it: there is no deity except Me, so worship Me and establish the prayer for My remembrance. 29:45 says that the prayer restrains immorality and wrongdoing and that the remembrance of Allah is greater. Set against a battlefield, these verses explain why the form could be bent so far without being abandoned: what the prayer is for does not change when the circumstances do.",
@@ -2296,7 +2296,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Prayer That Does Not Wait",
-          "bn": "যে নামায অপেক্ষা করে না"
+          "bn": "যে নামাজ অপেক্ষা করে না"
         },
         "p": [
           {
@@ -2305,7 +2305,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second is the duty of the group that is not praying. Someone watched the road so that others could bow. That is a job in every community: minding the children so parents can pray, covering a colleague's desk at Maghrib, driving so a passenger can pray at a stop, taking the late shift in Ramadan. And the third is the return. When the danger lifts, 4:103 says, establish the prayer whole. A concession that outlives its hardship has quietly become a habit.",
-            "bn": "দ্বিতীয় কথা, যে দলটি নামাযে নেই তার দায়িত্ব। কেউ একজন রাস্তার দিকে চোখ রেখেছিল বলেই অন্যরা রুকুতে যেতে পেরেছিল। প্রতিটি সমাজেই এই কাজ আছে: বাবা-মা নামায পড়তে পারুক বলে বাচ্চাদের দেখা, মাগরিবের সময় সহকর্মীর টেবিল সামলে দেওয়া, যাত্রী যেন থেমে নামায পড়তে পারে সেজন্য গাড়ি চালানো, রমযানে রাতের শিফট নিয়ে নেওয়া। আর তৃতীয় কথা, ফিরে আসা। বিপদ কেটে গেলে ৪:১০৩ আয়াত বলে, নামায পুরো করে কায়েম করো। যে ছাড় কষ্টের চেয়ে বেশি দিন টিকে যায়, তা চুপিচুপি অভ্যাসে বদলে গেছে।"
+            "bn": "দ্বিতীয় কথা, যে দলটি নামাজে নেই তার দায়িত্ব। কেউ একজন রাস্তার দিকে চোখ রেখেছিল বলেই অন্যরা রুকুতে যেতে পেরেছিল। প্রতিটি সমাজেই এই কাজ আছে: বাবা-মা নামাজ পড়তে পারুক বলে বাচ্চাদের দেখা, মাগরিবের সময় সহকর্মীর টেবিল সামলে দেওয়া, যাত্রী যেন থেমে নামাজ পড়তে পারে সেজন্য গাড়ি চালানো, রমজানে রাতের শিফট নিয়ে নেওয়া। আর তৃতীয় কথা, ফিরে আসা। বিপদ কেটে গেলে ৪:১০৩ আয়াত বলে, নামাজ পুরো করে কায়েম করো। যে ছাড় কষ্টের চেয়ে বেশি দিন টিকে যায়, তা চুপিচুপি অভ্যাসে বদলে গেছে।"
           }
         ]
       },
@@ -2317,7 +2317,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The passage carries no supplication of its own, so what follows is not a Sunnah du'a but a short prayer composed from the words of these two verses, to be read as that. O Allah, do not let fear take our prayer from us. Keep us alert to what threatens us and standing before You at the same time. Let our remembrance of You fill what our weakness leaves out. And when safety returns, return us to the prayer whole.",
-            "bn": "এই অংশে নিজের কোনো দু'আ নেই। তাই নিচের কথাগুলো সুন্নাহর দু'আ নয়, এই দুই আয়াতের শব্দ দিয়ে গড়া ছোট প্রার্থনা, সেভাবেই পড়ুন। হে আল্লাহ, ভয় যেন আমাদের নামায কেড়ে না নেয়। যা আমাদের জন্য হুমকি তার ব্যাপারে আমাদের সজাগ রাখুন, আর একই সঙ্গে আপনার সামনে দাঁড় করিয়ে রাখুন। আমাদের দুর্বলতায় যা বাদ পড়ে যায়, আপনার যিকির দিয়ে তা ভরে দিন। আর নিরাপত্তা ফিরে এলে আমাদের পুরো নামাযের কাছে ফিরিয়ে আনুন।"
+            "bn": "এই অংশে নিজের কোনো দু'আ নেই। তাই নিচের কথাগুলো সুন্নাহর দু'আ নয়, এই দুই আয়াতের শব্দ দিয়ে গড়া ছোট প্রার্থনা, সেভাবেই পড়ুন। হে আল্লাহ, ভয় যেন আমাদের নামাজ কেড়ে না নেয়। যা আমাদের জন্য হুমকি তার ব্যাপারে আমাদের সজাগ রাখুন, আর একই সঙ্গে আপনার সামনে দাঁড় করিয়ে রাখুন। আমাদের দুর্বলতায় যা বাদ পড়ে যায়, আপনার জিকির দিয়ে তা ভরে দিন। আর নিরাপত্তা ফিরে এলে আমাদের পুরো নামাজের কাছে ফিরিয়ে আনুন।"
           },
           {
             "en": "Each line answers something in the text. The first answers the fear that occasioned the verse; the second answers the doubled command to take your wariness while standing in prayer; the third answers 4:103 and its call to remember Allah standing, sitting and lying down; and the last answers the sentence that sends the believers back to the full prayer once they are secure. Say it after reading the two verses, and the battlefield becomes a request for your own day.",
@@ -2333,7 +2333,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "When a day goes badly, what is the first thing I let go of, and why is it so often the prayer? If believers once prayed in ranks with weapons in their hands, what is my real reason for the prayer I missed this week? Is there a concession I first took for a genuine hardship that I am still taking now that the hardship is gone?",
-            "bn": "দিন খারাপ গেলে আমার হাত থেকে সবার আগে কোন জিনিসটা ছুটে যায়, আর সেটা এত ঘন ঘন নামাযই হয় কেন? মুমিনরা যদি একসময় অস্ত্র হাতে কাতারে দাঁড়িয়ে নামায পড়ে থাকেন, তবে এই সপ্তাহে আমার যে নামাযটি ছুটে গেল তার আসল কারণ কী? এমন কোনো ছাড় কি আমি নিচ্ছি, যা প্রথমে সত্যিকারের কষ্টের জন্য নিয়েছিলাম, অথচ কষ্ট চলে যাওয়ার পরও ছাড়ছি না?"
+            "bn": "দিন খারাপ গেলে আমার হাত থেকে সবার আগে কোন জিনিসটা ছুটে যায়, আর সেটা এত ঘন ঘন নামাজই হয় কেন? মুমিনরা যদি একসময় অস্ত্র হাতে কাতারে দাঁড়িয়ে নামাজ পড়ে থাকেন, তবে এই সপ্তাহে আমার যে নামাজটি ছুটে গেল তার আসল কারণ কী? এমন কোনো ছাড় কি আমি নিচ্ছি, যা প্রথমে সত্যিকারের কষ্টের জন্য নিয়েছিলাম, অথচ কষ্ট চলে যাওয়ার পরও ছাড়ছি না?"
           },
           {
             "en": "Whose prayer is made possible by work that I could do, and am I doing it? What am I heedless about because life feels safe right now, in the way the verse warns against heedlessness over weapons and baggage? And when my prayer ends, do I get up immediately, or do I stay long enough to remember the One I was just standing before?",
@@ -2409,7 +2409,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The narration the commentators attach to this passage is recorded in the Two Sahihs from Umm Salamah (RA). The Messenger of Allah ﷺ heard the noise of people disputing at the door of his room and came out to them, saying that he was only a human being, that he judged by what he heard, and that one of them might be more eloquent in his argument than another, so that he would rule in his favour. Then the warning: whoever is awarded by him a right belonging to a Muslim has been handed a piece of the Fire.",
-            "bn": "মুফাসসিরগণ এই অংশের সঙ্গে যে হাদীসটি যুক্ত করেন, তা সহীহ বুখারী ও সহীহ মুসলিমে উম্মে সালামা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ ﷺ তাঁর কামরার দরজার কাছে ঝগড়ার শব্দ শুনে বেরিয়ে এলেন। তিনি বললেন, তিনি একজন মানুষ মাত্র, তিনি যা শোনেন তার ভিত্তিতেই ফয়সালা করেন, আর তাঁদের কেউ হয়তো অন্যের চেয়ে নিজের কথা গুছিয়ে বলতে পারে, ফলে তিনি তার পক্ষেই রায় দিয়ে বসেন। এরপর সেই হুঁশিয়ারি: তাঁর রায়ে কেউ যদি অন্য কোনো মুসলিমের হক পেয়ে যায়, তবে তাকে আগুনের একটি টুকরাই ধরিয়ে দেওয়া হলো।"
+            "bn": "মুফাসসিরগণ এই অংশের সঙ্গে যে হাদিসটি যুক্ত করেন, তা সহীহ বুখারী ও সহীহ মুসলিমে উম্মে সালামা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ ﷺ তাঁর কামরার দরজার কাছে ঝগড়ার শব্দ শুনে বেরিয়ে এলেন। তিনি বললেন, তিনি একজন মানুষ মাত্র, তিনি যা শোনেন তার ভিত্তিতেই ফয়সালা করেন, আর তাঁদের কেউ হয়তো অন্যের চেয়ে নিজের কথা গুছিয়ে বলতে পারে, ফলে তিনি তার পক্ষেই রায় দিয়ে বসেন। এরপর সেই হুঁশিয়ারি: তাঁর রায়ে কেউ যদি অন্য কোনো মুসলিমের হক পেয়ে যায়, তবে তাকে আগুনের একটি টুকরাই ধরিয়ে দেওয়া হলো।"
           },
           {
             "en": "Imam Ahmad records a fuller scene from her: two men of the Ansar came with a dispute over an old inheritance and had no evidence, and the Prophet ﷺ said the same words, adding that whoever is given something of his brother's right should not take it. The two men wept, and each said he gave up his right to the other. He then told them to go, divide it, aim at what was just, draw lots, and each forgive the other. A verdict is not a title deed.",
@@ -2445,7 +2445,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second is a check after winning. If a settlement, a promotion, an inheritance or a judgement came your way because the other side argued badly or because a fact never surfaced, the hadith attached to this passage says exactly what you are holding. The remedy in that report is not complicated: give it back. Speak to the person, return the share, correct the record. It is easier now than on the Day when there is no one to speak for you.",
-            "bn": "দ্বিতীয় যাচাই জিতে যাওয়ার পর। কোনো মীমাংসা, পদোন্নতি, উত্তরাধিকার বা রায় যদি আপনার হাতে এসে থাকে এ কারণে যে অন্য পক্ষ গুছিয়ে বলতে পারেনি বা একটা তথ্য কখনো সামনেই আসেনি, তবে এই অংশের সঙ্গে যুক্ত হাদীস বলে দিচ্ছে আপনি হাতে কী ধরে আছেন। সেই বর্ণনার সমাধানটি জটিল নয়: ফিরিয়ে দিন। মানুষটির সঙ্গে কথা বলুন, অংশটি ফেরত দিন, হিসাবটা শুধরে নিন। যেদিন আপনার হয়ে কেউ কথা বলার থাকবে না, সেদিনের চেয়ে আজই কাজটা সহজ।"
+            "bn": "দ্বিতীয় যাচাই জিতে যাওয়ার পর। কোনো মীমাংসা, পদোন্নতি, উত্তরাধিকার বা রায় যদি আপনার হাতে এসে থাকে এ কারণে যে অন্য পক্ষ গুছিয়ে বলতে পারেনি বা একটা তথ্য কখনো সামনেই আসেনি, তবে এই অংশের সঙ্গে যুক্ত হাদিস বলে দিচ্ছে আপনি হাতে কী ধরে আছেন। সেই বর্ণনার সমাধানটি জটিল নয়: ফিরিয়ে দিন। মানুষটির সঙ্গে কথা বলুন, অংশটি ফেরত দিন, হিসাবটা শুধরে নিন। যেদিন আপনার হয়ে কেউ কথা বলার থাকবে না, সেদিনের চেয়ে আজই কাজটা সহজ।"
           },
           {
             "en": "And the third is what this verse does not say. It does not say that the man in the dock is beyond help; 4:110, the very next verse, promises that whoever does a wrong or wrongs himself and then seeks Allah's forgiveness will find Allah Forgiving and Merciful. What has no substitute is an advocate. What is always available is a return. The verse closes one road so that a reader will notice the other one standing open beside it.",
@@ -2693,7 +2693,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Since one thing is not forgiven, the sensible life is organised around guarding that one thing. That is less abstract than it sounds. Tawhid is tested in ordinary places: what a person turns to first when he is frightened, whose approval decides his choices, what he believes is really moving his income and his health, and whether he calls on anyone besides Allah when he is desperate. Those are the places to check, calmly and by yourself.",
-            "bn": "যেহেতু একটি জিনিস মাফ হয় না, বুদ্ধিমান মানুষ নিজের জীবন সাজায় সেই একটি জিনিস আগলে রাখার চারপাশে। কথাটা শুনতে যতটা তত্ত্বকথা মনে হয়, আসলে ততটা নয়। তাওহীদের পরীক্ষা হয় খুব সাধারণ জায়গায়: ভয় পেলে মানুষ সবার আগে কার দিকে ফেরে, কার সন্তুষ্টি তার সিদ্ধান্ত ঠিক করে দেয়, তার রিযিক আর স্বাস্থ্য আসলে কে চালাচ্ছে বলে সে মনে করে, আর নিরুপায় অবস্থায় সে আল্লাহ ছাড়া আর কাউকে ডাকে কিনা। এই জায়গাগুলোই ঠান্ডা মাথায় নিজে নিজে মিলিয়ে দেখার।"
+            "bn": "যেহেতু একটি জিনিস মাফ হয় না, বুদ্ধিমান মানুষ নিজের জীবন সাজায় সেই একটি জিনিস আগলে রাখার চারপাশে। কথাটা শুনতে যতটা তত্ত্বকথা মনে হয়, আসলে ততটা নয়। তাওহিদের পরীক্ষা হয় খুব সাধারণ জায়গায়: ভয় পেলে মানুষ সবার আগে কার দিকে ফেরে, কার সন্তুষ্টি তার সিদ্ধান্ত ঠিক করে দেয়, তার রিযিক আর স্বাস্থ্য আসলে কে চালাচ্ছে বলে সে মনে করে, আর নিরুপায় অবস্থায় সে আল্লাহ ছাড়া আর কাউকে ডাকে কিনা। এই জায়গাগুলোই ঠান্ডা মাথায় নিজে নিজে মিলিয়ে দেখার।"
           },
           {
             "en": "The second duty is how the verse is used on other people. It is a statement about Allah's judgement, not a licence for a reader to sort his neighbours into the forgiven and the doomed. Ibn Kathir's careful wording is about a servant meeting his Lord, and none of us watches that meeting. The verse is given to a person for his own heart, and the moment it becomes a weapon it has been turned exactly the wrong way round.",
@@ -2701,7 +2701,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "And the third is what to do with the wide half. A believer who has understood this verse should ask for forgiveness more, not less, and ask for specific things rather than in general: the debt not repaid, the tongue that cut somebody, the prayer given up for a year, the habit nobody knows about. Name it and ask. The verse guarantees nothing to the calculating, but it removes every excuse from the one who wants to come back.",
-            "bn": "আর তৃতীয় কথা, প্রশস্ত অর্ধেকটা নিয়ে কী করতে হবে। যে মুমিন এই আয়াত বুঝেছেন, তাঁর ক্ষমা চাওয়া কমার কথা নয়, বাড়ার কথা; আর ঢালাওভাবে নয়, নির্দিষ্ট করে চাওয়ার কথা। যে ধার শোধ করা হয়নি, যে কথা কাউকে কেটে গেছে, যে নামায এক বছর ছেড়ে দেওয়া হয়েছিল, যে অভ্যাসের কথা কেউ জানে না। নাম ধরে বলুন, আর চান। হিসাব কষে বসে থাকা মানুষকে আয়াত কোনো নিশ্চয়তা দেয় না, কিন্তু যে ফিরে আসতে চায় তার সব অজুহাত কেড়ে নেয়।"
+            "bn": "আর তৃতীয় কথা, প্রশস্ত অর্ধেকটা নিয়ে কী করতে হবে। যে মুমিন এই আয়াত বুঝেছেন, তাঁর ক্ষমা চাওয়া কমার কথা নয়, বাড়ার কথা; আর ঢালাওভাবে নয়, নির্দিষ্ট করে চাওয়ার কথা। যে ধার শোধ করা হয়নি, যে কথা কাউকে কেটে গেছে, যে নামাজ এক বছর ছেড়ে দেওয়া হয়েছিল, যে অভ্যাসের কথা কেউ জানে না। নাম ধরে বলুন, আর চান। হিসাব কষে বসে থাকা মানুষকে আয়াত কোনো নিশ্চয়তা দেয় না, কিন্তু যে ফিরে আসতে চায় তার সব অজুহাত কেড়ে নেয়।"
           }
         ]
       },
@@ -2753,7 +2753,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir gives an occasion for this stretch. Qatadah related that Muslims and People of the Scripture were setting out their merits to each other: the latter said their prophet and their book came first, so they had the better claim on Allah, and the Muslims answered that their Prophet ﷺ was the last and their Book came over every book before it. Ibn Kathir reports that 4:123 and 4:125 came down on that, and that as-Suddi, Masruq, ad-Dahhak and Abu Salih said much the same. Religion, he adds, is not accepted on account of wishful thinking, nor is a man on the truth just for saying so.",
-            "bn": "ইবনে কাসীর এই অংশটির নাযিল হওয়ার একটি প্রেক্ষাপট দেন। কাতাদাহ বর্ণনা করেন, মুসলমান আর আহলে কিতাব একে অন্যের সামনে নিজেদের শ্রেষ্ঠত্বের কথা তুলছিল। আহলে কিতাব বলল, আমাদের নবী আগে এসেছেন, আমাদের কিতাবও আগের, তাই আল্লাহর ওপর আমাদের হক বেশি। মুসলমানরা জবাব দিলেন, আমাদের নবী ﷺ সবার শেষে এসেছেন, আর আমাদের কিতাব আগের সব কিতাবের ওপরে। ইবনে কাসীর জানান, এর প্রেক্ষিতেই ৪:১২৩ ও ৪:১২৫ আয়াত নাযিল হয়, আর সুদ্দী, মাসরূক, দাহহাক ও আবূ সালিহ থেকেও কাছাকাছি কথা এসেছে। এরপর তিনি আসল কথাটি বের করে আনেন: শুধু আশা-আকাঙ্ক্ষার জোরে দ্বীন কবুল হয় না, আর মুখে বললেই কেউ সত্যের ওপর হয়ে যায় না।"
+            "bn": "ইবনে কাসীর এই অংশটির নাজিল হওয়ার একটি প্রেক্ষাপট দেন। কাতাদাহ বর্ণনা করেন, মুসলমান আর আহলে কিতাব একে অন্যের সামনে নিজেদের শ্রেষ্ঠত্বের কথা তুলছিল। আহলে কিতাব বলল, আমাদের নবী আগে এসেছেন, আমাদের কিতাবও আগের, তাই আল্লাহর ওপর আমাদের হক বেশি। মুসলমানরা জবাব দিলেন, আমাদের নবী ﷺ সবার শেষে এসেছেন, আর আমাদের কিতাব আগের সব কিতাবের ওপরে। ইবনে কাসীর জানান, এর প্রেক্ষিতেই ৪:১২৩ ও ৪:১২৫ আয়াত নাজিল হয়, আর সুদ্দী, মাসরূক, দাহহাক ও আবূ সালিহ থেকেও কাছাকাছি কথা এসেছে। এরপর তিনি আসল কথাটি বের করে আনেন: শুধু আশা-আকাঙ্ক্ষার জোরে দ্বীন কবুল হয় না, আর মুখে বললেই কেউ সত্যের ওপর হয়ে যায় না।"
           }
         ]
       },
@@ -2817,7 +2817,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari records from Amr ibn Maymun that when Mu'adh (RA) came back from Yemen he led them in the Fajr prayer and recited wattakhadha Allahu Ibrahima khalila. One of the men present said that the eye of Ibrahim's mother had been comforted. Ibn Kathir cites the report at this verse. It preserves an ordinary morning in which a congregation heard the verse's last clause and one man answered it aloud, as though the honour were news that had just arrived.",
-            "bn": "সহীহ বুখারীতে আমর ইবনে মায়মূন থেকে বর্ণিত, মুআয (রাঃ) ইয়ামান থেকে ফিরে এসে তাঁদের নিয়ে ফজরের নামায পড়ান এবং তিলাওয়াত করেন, ওয়াত্তাখাযাল্লাহু ইবরাহীমা খলীলা। উপস্থিত একজন বলে উঠলেন, ইবরাহীমের মায়ের চোখ জুড়িয়ে গেল। ইবনে কাসীর এই আয়াতের ব্যাখ্যায় বর্ণনাটি উল্লেখ করেন। এতে ধরা আছে সাধারণ এক ভোর, যেখানে একদল মানুষ আয়াতের শেষ কথাটি শুনলেন আর একজন মুখ ফুটে তার জবাব দিলেন, যেন সম্মানের এই খবরটা সবে এসে পৌঁছেছে।"
+            "bn": "সহীহ বুখারীতে আমর ইবনে মায়মূন থেকে বর্ণিত, মুআয (রাঃ) ইয়ামান থেকে ফিরে এসে তাঁদের নিয়ে ফজরের নামাজ পড়ান এবং তিলাওয়াত করেন, ওয়াত্তাখাযাল্লাহু ইবরাহীমা খলীলা। উপস্থিত একজন বলে উঠলেন, ইবরাহীমের মায়ের চোখ জুড়িয়ে গেল। ইবনে কাসীর এই আয়াতের ব্যাখ্যায় বর্ণনাটি উল্লেখ করেন। এতে ধরা আছে সাধারণ এক ভোর, যেখানে একদল মানুষ আয়াতের শেষ কথাটি শুনলেন আর একজন মুখ ফুটে তার জবাব দিলেন, যেন সম্মানের এই খবরটা সবে এসে পৌঁছেছে।"
           },
           {
             "en": "Ibn Kathir places a second narration beside it. In the Two Sahihs, from Abu Sa'id al-Khudri (RA), the Prophet ﷺ said in his last address that if he were to take a khalil from the people of the earth he would have taken Abu Bakr ibn Abi Quhafah (RA), but that their companion is the khalil of Allah. Ibn Kathir also reports, from Jundub ibn Abdullah, Abdullah ibn Amr and Abdullah ibn Mas'ud (RA), that the Prophet ﷺ said Allah had taken him as a khalil, just as He took Ibrahim (AS) as a khalil.",
@@ -2849,7 +2849,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The two conditions give a believer a way to test a deed without asking anyone. Put the question to the charity, the fast, the late-night reading: who was it for, and does it match what was asked for? A deed can fail either test on its own. Giving so that the giving will be noticed fails the first. Adding an act of worship nobody was taught fails the second. The check takes a moment, and it is the whole of what Ibn Kathir says this verse requires.",
-            "bn": "এই দুই শর্ত মুমিনকে এমন একটা মাপকাঠি দেয়, যা দিয়ে কাউকে না জিজ্ঞেস করেই নিজের আমল যাচাই করা যায়। দানটা, রোযাটা, রাতের পড়াটা সামনে রেখে প্রশ্ন করুন: কার জন্য করেছি, আর যা করেছি তা কি চাওয়া জিনিসটার সঙ্গে মেলে? যেকোনো একটিতে আটকে গেলেই আমলটি আটকে যায়। লোকে দেখবে বলে দান করলে প্রথমটিতে আটকায়। কেউ শেখায়নি এমন ইবাদত বানিয়ে নিলে দ্বিতীয়টিতে আটকায়। যাচাইটুকু করতে এক মুহূর্ত লাগে, আর ইবনে কাসীরের মতে এই আয়াত এটুকুই চায়।"
+            "bn": "এই দুই শর্ত মুমিনকে এমন একটা মাপকাঠি দেয়, যা দিয়ে কাউকে না জিজ্ঞেস করেই নিজের আমল যাচাই করা যায়। দানটা, রোজাটা, রাতের পড়াটা সামনে রেখে প্রশ্ন করুন: কার জন্য করেছি, আর যা করেছি তা কি চাওয়া জিনিসটার সঙ্গে মেলে? যেকোনো একটিতে আটকে গেলেই আমলটি আটকে যায়। লোকে দেখবে বলে দান করলে প্রথমটিতে আটকায়। কেউ শেখায়নি এমন ইবাদত বানিয়ে নিলে দ্বিতীয়টিতে আটকায়। যাচাইটুকু করতে এক মুহূর্ত লাগে, আর ইবনে কাসীরের মতে এই আয়াত এটুকুই চায়।"
           },
           {
             "en": "The word wajh suggests a second habit. A face is one thing and cannot point two ways. Over a week, notice where your attention actually turns first in the morning, in a free half hour, in a moment of fear. That is where the face is. Nobody turns it all at once, which is why the verse uses hanif, a leaning, and why Ibn Kathir describes the hanif as someone who keeps choosing the same direction and lets nobody turn him from it.",
@@ -2957,7 +2957,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir reports, through Abu Dawud at-Tayalisi, that Ibn Abbas (RA) said Sawdah (RA) feared the Messenger of Allah ﷺ might divorce her, and asked him not to, and to give her day to A'ishah (RA), and he did, and afterwards this verse came down. At-Tirmidhi also recorded it. In the Two Sahihs, A'ishah (RA) relates that when Sawdah bint Zam'ah (RA) grew old she gave her day to A'ishah, and the Prophet ﷺ would give Sawdah's turn to her.",
-            "bn": "ইবনে কাসীর আবূ দাউদ আত-তায়ালিসীর সূত্রে বর্ণনা করেন, ইবনে আব্বাস (রাঃ) বলেছেন, সাওদা (রাঃ) আশঙ্কা করলেন রাসূলুল্লাহ ﷺ হয়তো তাঁকে তালাক দেবেন। তিনি অনুরোধ করলেন যেন তা না করা হয়, আর তাঁর পালার দিনটি আয়িশা (রাঃ)-কে দিয়ে দেওয়া হয়। নবী ﷺ তাই করলেন, আর পরে এই আয়াত নাযিল হলো। তিরমিযীও বর্ণনাটি এনেছেন। সহীহ বুখারী ও সহীহ মুসলিমে আয়িশা (রাঃ) থেকে আছে, সাওদা বিনতে যামআ (রাঃ) বৃদ্ধ হলে নিজের দিনটি আয়িশা (রাঃ)-কে দিয়ে দেন, আর নবী ﷺ সাওদার পালা তাঁকেই দিতেন।"
+            "bn": "ইবনে কাসীর আবূ দাউদ আত-তায়ালিসীর সূত্রে বর্ণনা করেন, ইবনে আব্বাস (রাঃ) বলেছেন, সাওদা (রাঃ) আশঙ্কা করলেন রাসূলুল্লাহ ﷺ হয়তো তাঁকে তালাক দেবেন। তিনি অনুরোধ করলেন যেন তা না করা হয়, আর তাঁর পালার দিনটি আয়িশা (রাঃ)-কে দিয়ে দেওয়া হয়। নবী ﷺ তাই করলেন, আর পরে এই আয়াত নাজিল হলো। তিরমিযীও বর্ণনাটি এনেছেন। সহীহ বুখারী ও সহীহ মুসলিমে আয়িশা (রাঃ) থেকে আছে, সাওদা বিনতে যামআ (রাঃ) বৃদ্ধ হলে নিজের দিনটি আয়িশা (রাঃ)-কে দিয়ে দেন, আর নবী ﷺ সাওদার পালা তাঁকেই দিতেন।"
           },
           {
             "en": "Al-Bukhari also records A'ishah's (RA) own comment on the verse: that it is about a man married to a woman grown old whom he no longer desires and wishes to divorce, and she offers to give up her right on him. Ibn Kathir notes that by keeping Sawdah (RA) among his wives after she offered her day, the Prophet ﷺ left his ummah a pattern for this kind of settlement. The arrangement the verse describes is one the Prophet's ﷺ own household actually lived.",
@@ -3233,7 +3233,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The commentators do not attach a settled occasion of revelation to this verse, so its placement has to carry the sense, and it does. After several verses about people whose speech ran one way while their hearts ran another, the Quran turns to the believers' own speech and puts a limit on it. The two verses also work as a pair, in the same shape as 4:145 and 4:146: first a hard statement, then immediately a door out of it.",
-            "bn": "মুফাসসিরগণ এই আয়াতের সঙ্গে নাযিলের কোনো নির্দিষ্ট প্রেক্ষাপট জুড়ে দেন না, তাই অর্থের ভারটা বহন করতে হয় এর অবস্থানকেই, আর তা করেও। যাদের মুখের কথা এক দিকে আর অন্তর আরেক দিকে, তাদের নিয়ে কয়েকটি আয়াতের পর কুরআন ফেরে মুমিনদের নিজেদের কথাবার্তার দিকে, আর তার ওপর সীমা টেনে দেয়। আয়াত দুটি কাজও করে জোড়ায়, ঠিক ৪:১৪৫ আর ৪:১৪৬ আয়াতের ছাঁচে: আগে কঠিন কথা, তারপরই বেরিয়ে আসার দরজা।"
+            "bn": "মুফাসসিরগণ এই আয়াতের সঙ্গে নাজিলের কোনো নির্দিষ্ট প্রেক্ষাপট জুড়ে দেন না, তাই অর্থের ভারটা বহন করতে হয় এর অবস্থানকেই, আর তা করেও। যাদের মুখের কথা এক দিকে আর অন্তর আরেক দিকে, তাদের নিয়ে কয়েকটি আয়াতের পর কুরআন ফেরে মুমিনদের নিজেদের কথাবার্তার দিকে, আর তার ওপর সীমা টেনে দেয়। আয়াত দুটি কাজও করে জোড়ায়, ঠিক ৪:১৪৫ আর ৪:১৪৬ আয়াতের ছাঁচে: আগে কঠিন কথা, তারপরই বেরিয়ে আসার দরজা।"
           }
         ]
       },
@@ -3377,7 +3377,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Where the list ends matters for reading it fairly. 4:160 and 4:161 name further wrongs, and then 4:162 turns: those firm in knowledge among them, and the believers, believe in what was sent down to the Prophet ﷺ and what was sent down before him, and they will be given a great reward. The charges belong to particular acts of particular people in a particular history, and the passage itself refuses to turn them into a description of everyone who carries that name.",
-            "bn": "তালিকাটি কোথায় গিয়ে শেষ হয়, ন্যায্যভাবে পড়তে হলে সেটা খেয়াল রাখা জরুরি। ৪:১৬০ ও ৪:১৬১ আয়াত আরও কিছু অন্যায়ের কথা বলে, তারপর ৪:১৬২ আয়াত মোড় নেয়: তাদের মধ্যে যারা জ্ঞানে পরিপক্ব, আর মুমিনগণ, তারা নবী ﷺ-এর প্রতি যা নাযিল হয়েছে আর তাঁর আগে যা নাযিল হয়েছিল তাতে ঈমান রাখে, আর তাদের দেওয়া হবে মহাপুরস্কার। অভিযোগগুলো নির্দিষ্ট সময়ের নির্দিষ্ট কিছু মানুষের নির্দিষ্ট কাজের সঙ্গে জড়িত, আর অংশটি নিজেই সেগুলোকে ওই নাম বহনকারী সবার পরিচয় বানাতে রাজি নয়।"
+            "bn": "তালিকাটি কোথায় গিয়ে শেষ হয়, ন্যায্যভাবে পড়তে হলে সেটা খেয়াল রাখা জরুরি। ৪:১৬০ ও ৪:১৬১ আয়াত আরও কিছু অন্যায়ের কথা বলে, তারপর ৪:১৬২ আয়াত মোড় নেয়: তাদের মধ্যে যারা জ্ঞানে পরিপক্ব, আর মুমিনগণ, তারা নবী ﷺ-এর প্রতি যা নাজিল হয়েছে আর তাঁর আগে যা নাজিল হয়েছিল তাতে ঈমান রাখে, আর তাদের দেওয়া হবে মহাপুরস্কার। অভিযোগগুলো নির্দিষ্ট সময়ের নির্দিষ্ট কিছু মানুষের নির্দিষ্ট কাজের সঙ্গে জড়িত, আর অংশটি নিজেই সেগুলোকে ওই নাম বহনকারী সবার পরিচয় বানাতে রাজি নয়।"
           },
           {
             "en": "Notice what the verse does with the boast it reports. Ibn Kathir says the words were uttered in mockery, and al-Muyassar says the same, that the claim was made by way of derision. Yet the Quran reports it with every title intact: the Messiah, Isa son of Maryam, the messenger of Allah. The denial that follows takes nothing from him. It removes only the thing the speakers thought they had done.",
@@ -3397,7 +3397,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Next the verse describes the state of those who dispute the matter: they are in doubt about it, and they have no knowledge of it except the following of assumption. Two words stand against each other here, ilm and zann, knowledge and conjecture, and the verse says plainly which of the two the claim was resting on. It is a charge about method before it is a charge about the claim itself.",
-            "bn": "এরপর আয়াত বলে, যারা এ বিষয়ে মতভেদ করে তাদের অবস্থা কী: তারা এ নিয়ে সন্দেহে আছে, আর অনুমানের পিছু নেওয়া ছাড়া এ ব্যাপারে তাদের কোনো জ্ঞানই নেই। এখানে দুটি শব্দ মুখোমুখি দাঁড়ায়, ইলম আর যন্ন, অর্থাৎ জ্ঞান আর অনুমান। দাবিটি এই দুইয়ের কোনটির ওপর দাঁড়িয়ে ছিল, আয়াত তা পরিষ্কার বলে দেয়। অভিযোগটা দাবির বিরুদ্ধে ওঠার আগে ওঠে পদ্ধতির বিরুদ্ধে।"
+            "bn": "এরপর আয়াত বলে, যারা এ বিষয়ে মতভেদ করে তাদের অবস্থা কী: তারা এ নিয়ে সন্দেহে আছে, আর অনুমানের পিছু নেওয়া ছাড়া এ ব্যাপারে তাদের কোনো জ্ঞানই নেই। এখানে দুটি শব্দ মুখোমুখি দাঁড়ায়, ইলম আর যান্ন, অর্থাৎ জ্ঞান আর অনুমান। দাবিটি এই দুইয়ের কোনটির ওপর দাঁড়িয়ে ছিল, আয়াত তা পরিষ্কার বলে দেয়। অভিযোগটা দাবির বিরুদ্ধে ওঠার আগে ওঠে পদ্ধতির বিরুদ্ধে।"
           },
           {
             "en": "The last clause is wa ma qataluhu yaqina. This app renders it and they did not kill him, for certain. Ibn Kathir attaches the certainty to the killers: they are not sure that the one they killed was Isa (AS), but are in doubt and confusion over it. Al-Muyassar reads it the same way, that they did not kill him as men who were certain but as men doubting and supposing. Then 4:158 opens with bal, the particle that cancels what came before and puts something else in its place: rather, Allah raised him to Himself.",
@@ -3533,7 +3533,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Nisa is Madinan, and its long closing movement turns to the People of the Scripture. In 4:153 they ask the Prophet ﷺ to bring a book down to them from the sky, and the Quran reminds them that their ancestors asked Musa (AS) for something greater, to see Allah openly. From 4:155 a list of charges follows: the covenant broken, prophets killed, the claim about the Messiah, usury taken. Then 4:162 makes an exception for those firm in knowledge among them, who believe in what was sent to the Prophet ﷺ and what was sent before him. It is at this point that 4:163 begins.",
-            "bn": "সূরা নিসা মাদানী সূরা, আর তার দীর্ঘ শেষ অংশ আহলে কিতাবের দিকে মুখ ফেরায়। ৪:১৫৩ আয়াতে তারা নবী ﷺ-এর কাছে দাবি করে, আসমান থেকে তাদের সামনে একটা কিতাব নামিয়ে আনো। কুরআন মনে করিয়ে দেয়, তাদের পূর্বপুরুষেরা মূসা (আঃ)-এর কাছে এর চেয়েও বড় দাবি করেছিল, আল্লাহকে প্রকাশ্যে দেখতে চেয়েছিল। ৪:১৫৫ থেকে অভিযোগের তালিকা: অঙ্গীকার ভঙ্গ, নবী হত্যা, মাসীহ নিয়ে দাবি, সুদ খাওয়া। তারপর ৪:১৬২ আয়াত ব্যতিক্রম রাখে তাদের জন্য যারা জ্ঞানে পরিপক্ব, যারা নবী ﷺ-এর ওপর নাযিল হওয়া কিতাবে ও আগের কিতাবে ঈমান রাখে। ঠিক এখান থেকেই ৪:১৬৩ শুরু হয়।"
+            "bn": "সূরা নিসা মাদানী সূরা, আর তার দীর্ঘ শেষ অংশ আহলে কিতাবের দিকে মুখ ফেরায়। ৪:১৫৩ আয়াতে তারা নবী ﷺ-এর কাছে দাবি করে, আসমান থেকে তাদের সামনে একটা কিতাব নামিয়ে আনো। কুরআন মনে করিয়ে দেয়, তাদের পূর্বপুরুষেরা মূসা (আঃ)-এর কাছে এর চেয়েও বড় দাবি করেছিল, আল্লাহকে প্রকাশ্যে দেখতে চেয়েছিল। ৪:১৫৫ থেকে অভিযোগের তালিকা: অঙ্গীকার ভঙ্গ, নবী হত্যা, মাসীহ নিয়ে দাবি, সুদ খাওয়া। তারপর ৪:১৬২ আয়াত ব্যতিক্রম রাখে তাদের জন্য যারা জ্ঞানে পরিপক্ব, যারা নবী ﷺ-এর ওপর নাজিল হওয়া কিতাবে ও আগের কিতাবে ঈমান রাখে। ঠিক এখান থেকেই ৪:১৬৩ শুরু হয়।"
           },
           {
             "en": "The verse does not answer the demand for a spectacle with a spectacle. It answers with a line of names. We have revealed to you as We revealed to Nuh and the prophets after him, and then Ibrahim, Isma'il, Ishaq, Ya'qub and the Descendants, Isa, Ayyub, Yunus, Harun and Sulayman, and to Dawud We gave the Zabur. The next verse, 4:164, adds messengers whose stories were told to the Prophet ﷺ and messengers whose stories were not, and states that Allah spoke to Musa (AS) directly. The reply to those asking for a new kind of proof is that nothing new is happening.",
@@ -3577,7 +3577,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di draws the argument out. If revelation to Nuh, Ibrahim, Musa and Isa (AS) is admitted, and this revelation is of the same kind and by the same Sender, then rejecting it is not a reasoned position but a preference. To accept some messengers and refuse the one in front of you is the very thing 4:150 condemned earlier in this same surah: believing in some and disbelieving in others, wanting a path in between. The commentators are agreed that the verse binds the Prophet ﷺ to the earlier prophets so tightly that faith in them cannot be separated from faith in him.",
-            "bn": "আস-সা'দী যুক্তিটা টেনে বের করেন। নূহ, ইবরাহীম, মূসা ও ঈসা (আঃ)-এর কাছে ওয়াহী আসা যদি মেনে নেওয়া হয়, আর এই ওয়াহী যদি একই ধরনের ও একই প্রেরকের হয়, তাহলে একে অস্বীকার করা কোনো যুক্তির অবস্থান নয়, নিছক পছন্দ। কিছু রসূলকে মানা আর সামনের জনকে না মানা ঠিক সেই কাজ, যা একই সূরায় ৪:১৫০ নিন্দা করেছে: কতককে মানি, কতককে মানি না, মাঝামাঝি একটা রাস্তা চাই। মুফাসসিররা একমত, আয়াতটি নবী ﷺ-কে আগের নবীদের সাথে এত শক্ত করে বাঁধে যে তাঁদের ওপর ঈমানকে তাঁর ওপর ঈমান থেকে আলাদা করা যায় না।"
+            "bn": "আস-সা'দী যুক্তিটা টেনে বের করেন। নূহ, ইবরাহীম, মূসা ও ঈসা (আঃ)-এর কাছে ওয়াহী আসা যদি মেনে নেওয়া হয়, আর এই ওয়াহী যদি একই ধরনের ও একই প্রেরকের হয়, তাহলে একে অস্বীকার করা কোনো যুক্তির অবস্থান নয়, নিছক পছন্দ। কিছু রাসূলকে মানা আর সামনের জনকে না মানা ঠিক সেই কাজ, যা একই সূরায় ৪:১৫০ নিন্দা করেছে: কতককে মানি, কতককে মানি না, মাঝামাঝি একটা রাস্তা চাই। মুফাসসিররা একমত, আয়াতটি নবী ﷺ-কে আগের নবীদের সাথে এত শক্ত করে বাঁধে যে তাঁদের ওপর ঈমানকে তাঁর ওপর ঈমান থেকে আলাদা করা যায় না।"
           }
         ]
       },
@@ -3665,7 +3665,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse teaches well because it is a list, and children love lists. Write the names on a board in the verse's own order, then ask the class to put them in the order of time; the difference is itself the lesson, that the verse is gathering a family and not drawing a timeline. Ask which prophet was a king, which was ill, which was swallowed by the fish, and let the answers show that revelation did not choose only the comfortable. Then read 2:285 together, and let the last line, we make no distinction between any of His messengers, be the sentence the class takes home.",
-            "bn": "এই আয়াত পড়াতে সুবিধা, কারণ এটি একটি তালিকা, আর ছোটরা তালিকা ভালোবাসে। বোর্ডে নামগুলো আয়াতের নিজের ক্রমে লিখুন, তারপর ক্লাসকে বলুন সময়ের ক্রমে সাজাতে; দুই ক্রমের ফারাকটাই শিক্ষা, যে আয়াত একটি পরিবারকে জড়ো করছে, সময়রেখা আঁকছে না। জিজ্ঞেস করুন কোন নবী বাদশাহ ছিলেন, কে অসুস্থ ছিলেন, কাকে মাছ গিলে ফেলেছিল, আর উত্তরগুলো দেখিয়ে দিক যে ওয়াহী কেবল আরামে থাকা মানুষকে বেছে নেয়নি। তারপর একসাথে ২:২৮৫ পড়ুন, আর শেষ লাইনটি, আমরা তাঁর রসূলদের কারো মধ্যে পার্থক্য করি না, ক্লাস বাড়ি নিয়ে যাক।"
+            "bn": "এই আয়াত পড়াতে সুবিধা, কারণ এটি একটি তালিকা, আর ছোটরা তালিকা ভালোবাসে। বোর্ডে নামগুলো আয়াতের নিজের ক্রমে লিখুন, তারপর ক্লাসকে বলুন সময়ের ক্রমে সাজাতে; দুই ক্রমের ফারাকটাই শিক্ষা, যে আয়াত একটি পরিবারকে জড়ো করছে, সময়রেখা আঁকছে না। জিজ্ঞেস করুন কোন নবী বাদশাহ ছিলেন, কে অসুস্থ ছিলেন, কাকে মাছ গিলে ফেলেছিল, আর উত্তরগুলো দেখিয়ে দিক যে ওয়াহী কেবল আরামে থাকা মানুষকে বেছে নেয়নি। তারপর একসাথে ২:২৮৫ পড়ুন, আর শেষ লাইনটি, আমরা তাঁর রাসূলদের কারো মধ্যে পার্থক্য করি না, ক্লাস বাড়ি নিয়ে যাক।"
           }
         ]
       }
@@ -3676,12 +3676,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Why Messengers at All",
-          "bn": "রসূল কেন পাঠানো হলো"
+          "bn": "রাসূল কেন পাঠানো হলো"
         },
         "p": [
           {
             "en": "This verse is the last of three that answer the People of the Scripture's demand in 4:153 for a book from the sky. 4:163 gave the line of prophets to whom Allah revealed, 4:164 added messengers whose stories were told and messengers whose stories were not, and said that Allah spoke to Musa (AS) directly. Now 4:165 says what all of these messengers were for. The verse opens on the word rusulan, messengers, in the accusative, continuing the sentence of 4:164; the translation supplies We sent in brackets to show the connection. Then 4:166 turns to the witness: Allah Himself testifies to what He sent down.",
-            "bn": "৪:১৫৩ আয়াতে আহলে কিতাব আসমান থেকে কিতাব চেয়েছিল; তার জবাবে যে তিনটি আয়াত এসেছে, এটি তার শেষটি। ৪:১৬৩ দিয়েছে সেই নবীদের ধারা যাঁদের কাছে আল্লাহ ওয়াহী পাঠিয়েছেন, ৪:১৬৪ যোগ করেছে সেই রসূলদের যাঁদের কাহিনি বলা হয়েছে আর যাঁদের বলা হয়নি, আর জানিয়েছে যে আল্লাহ মূসা (আঃ)-এর সাথে সরাসরি কথা বলেছেন। এবার ৪:১৬৫ বলে, এই সব রসূল কীসের জন্য। আয়াত শুরু হয় ‘রুসুলান’ শব্দে, রসূলগণ, কর্মকারকে, ৪:১৬৪ আয়াতের বাক্যটাই চলছে; বাংলা অনুবাদ ‘রসূলগণ ছিলেন’ বলে বাক্যটা আলাদা করে দিলেও আরবিতে এটি আগের আয়াতের ধারাবাহিকতা। তারপর ৪:১৬৬ ফেরে সাক্ষীর দিকে: আল্লাহ নিজেই সাক্ষ্য দিচ্ছেন যা তিনি নাযিল করেছেন তার ওপর।"
+            "bn": "৪:১৫৩ আয়াতে আহলে কিতাব আসমান থেকে কিতাব চেয়েছিল; তার জবাবে যে তিনটি আয়াত এসেছে, এটি তার শেষটি। ৪:১৬৩ দিয়েছে সেই নবীদের ধারা যাঁদের কাছে আল্লাহ ওয়াহী পাঠিয়েছেন, ৪:১৬৪ যোগ করেছে সেই রাসূলদের যাঁদের কাহিনি বলা হয়েছে আর যাঁদের বলা হয়নি, আর জানিয়েছে যে আল্লাহ মূসা (আঃ)-এর সাথে সরাসরি কথা বলেছেন। এবার ৪:১৬৫ বলে, এই সব রাসূল কীসের জন্য। আয়াত শুরু হয় ‘রুসুলান’ শব্দে, রাসূলগণ, কর্মকারকে, ৪:১৬৪ আয়াতের বাক্যটাই চলছে; বাংলা অনুবাদ ‘রাসূলগণ ছিলেন’ বলে বাক্যটা আলাদা করে দিলেও আরবিতে এটি আগের আয়াতের ধারাবাহিকতা। তারপর ৪:১৬৬ ফেরে সাক্ষীর দিকে: আল্লাহ নিজেই সাক্ষ্য দিচ্ছেন যা তিনি নাজিল করেছেন তার ওপর।"
           },
           {
             "en": "Surah an-Nisa is Madinan, and this passage is spoken into a city where Jews, Christians, hypocrites and believers lived within earshot of one another. No occasion of revelation is attached to this verse on its own; the report that Ibn Kathir carries about two men denying revelation after Musa (AS) belongs to 4:163 and is a sirah report rather than a hadith of the Sahih. What is certain is the verse's place. It stands where an argument about proof was being had, and it names the proof that Allah has chosen to rest His case on: the messengers.",
@@ -3697,11 +3697,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Mubashshirin comes from the root b-sh-r, which gives bashara, the skin. Ar-Raghib explains that good news is called bushra because its effect shows on the face, in the skin, before a word is said. Mundhirin comes from n-dh-r; ar-Raghib defines indhar as conveying information that carries fear with it. So a messenger is one whose news changes the listener's face in both directions: brightening it with what is promised, sobering it with what is threatened. The verse puts the glad tidings first, as the Quran almost always does where it pairs these two words, in 6:48 and 35:24 among others.",
-            "bn": "মুবাশশিরীন এসেছে বা-শা-রা মূল থেকে, যা থেকে বাশারা, চামড়া। রাগিব ব্যাখ্যা করেন, সুসংবাদকে বুশরা বলা হয় কারণ তার প্রভাব মুখে, চামড়ায়, ফুটে ওঠে কোনো কথা বলার আগেই। মুনযিরীন এসেছে নূন-যাল-রা থেকে; রাগিবের সংজ্ঞায় ইনযার হলো এমন খবর পৌঁছানো যার সাথে ভয় জড়িয়ে থাকে। তাই রসূল এমন একজন যাঁর খবর শ্রোতার মুখ দুই দিকেই বদলে দেয়: ওয়াদার কথায় উজ্জ্বল করে, হুমকির কথায় গম্ভীর করে। আয়াত সুসংবাদকে আগে রাখে, কুরআন এই দুই শব্দ জোড়া লাগালে প্রায় সব ক্ষেত্রেই যেমন রাখে, ৬:৪৮ ও ৩৫:২৪ আয়াতে তার নমুনা।"
+            "bn": "মুবাশশিরীন এসেছে বা-শা-রা মূল থেকে, যা থেকে বাশারা, চামড়া। রাগিব ব্যাখ্যা করেন, সুসংবাদকে বুশরা বলা হয় কারণ তার প্রভাব মুখে, চামড়ায়, ফুটে ওঠে কোনো কথা বলার আগেই। মুনযিরীন এসেছে নূন-যাল-রা থেকে; রাগিবের সংজ্ঞায় ইনযার হলো এমন খবর পৌঁছানো যার সাথে ভয় জড়িয়ে থাকে। তাই রাসূল এমন একজন যাঁর খবর শ্রোতার মুখ দুই দিকেই বদলে দেয়: ওয়াদার কথায় উজ্জ্বল করে, হুমকির কথায় গম্ভীর করে। আয়াত সুসংবাদকে আগে রাখে, কুরআন এই দুই শব্দ জোড়া লাগালে প্রায় সব ক্ষেত্রেই যেমন রাখে, ৬:৪৮ ও ৩৫:২৪ আয়াতে তার নমুনা।"
           },
           {
             "en": "The key word is hujjah. Its root h-j-j is the root of hajj, and ar-Raghib connects both to the idea of aiming at something and reaching it: a hujjah is the argument that clearly points out the road, the mahajjah. The verse says the messengers were sent li-alla yakuna lin-nasi 'ala Allahi hujjatun ba'da ar-rusul, so that people would have no argument against Allah after the messengers. Three small phrases carry the weight: lin-nas, for people; 'ala Allah, against Allah; ba'da ar-rusul, after the messengers. Before the messengers, an excuse could have existed. After them, it cannot.",
-            "bn": "মূল শব্দ হুজ্জাহ। এর মূল হা-জীম-জীম, হজ্জেরও মূল, আর রাগিব দুটোকেই জোড়েন একটা ধারণার সাথে: কোনো কিছুর দিকে লক্ষ্য রাখা ও সেখানে পৌঁছানো। হুজ্জাহ সেই যুক্তি যা পরিষ্কার করে রাস্তা দেখিয়ে দেয়, মাহাজ্জাহ। আয়াত বলে, রসূল পাঠানো হয়েছে ‘লিআল্লা ইয়াকূনা লিন্নাসি আলাল্লাহি হুজ্জাতুন বা'দার রুসুল’, যাতে রসূলদের পরে আল্লাহর বিরুদ্ধে মানুষের কোনো যুক্তি না থাকে। ছোট তিনটি অংশই পুরো ভার বহন করে: লিন্নাস, মানুষের জন্য; আলাল্লাহ, আল্লাহর বিরুদ্ধে; বা'দার রুসুল, রসূলদের পরে। রসূলদের আগে অজুহাত থাকতে পারত। পরে আর পারে না।"
+            "bn": "মূল শব্দ হুজ্জাহ। এর মূল হা-জীম-জীম, হজ্জেরও মূল, আর রাগিব দুটোকেই জোড়েন একটা ধারণার সাথে: কোনো কিছুর দিকে লক্ষ্য রাখা ও সেখানে পৌঁছানো। হুজ্জাহ সেই যুক্তি যা পরিষ্কার করে রাস্তা দেখিয়ে দেয়, মাহাজ্জাহ। আয়াত বলে, রাসূল পাঠানো হয়েছে ‘লিআল্লা ইয়াকূনা লিন্নাসি আলাল্লাহি হুজ্জাতুন বা'দার রুসুল’, যাতে রাসূলদের পরে আল্লাহর বিরুদ্ধে মানুষের কোনো যুক্তি না থাকে। ছোট তিনটি অংশই পুরো ভার বহন করে: লিন্নাস, মানুষের জন্য; আলাল্লাহ, আল্লাহর বিরুদ্ধে; বা'দার রুসুল, রাসূলদের পরে। রাসূলদের আগে অজুহাত থাকতে পারত। পরে আর পারে না।"
           },
           {
             "en": "The verse closes with two names, al-Aziz and al-Hakim, and the pairing does work. Al-Aziz, the Exalted in Might, is the One who needs no justification from anyone; He could have judged without explaining. Al-Hakim, the Wise, is the One who acts with purpose and puts things in their right place. Between them the names say that the sending of messengers was not owed and was not random. Allah, who could have demanded obedience on His authority alone, chose in His wisdom to explain Himself first. That is the character behind the verse's purpose clause.",
@@ -3717,11 +3717,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir explains that the prophets bring good news to those who obey Allah and do what pleases Him, and warn of His punishment those who defy His commands. Allah sent down His books and sent His messengers, made clear what He loves and what He hates, and in this way no one is left with an excuse before Him. He reads the verse alongside 20:134, where people destroyed before a messenger came would have said, our Lord, why did You not send us a messenger so we could have followed Your verses, and alongside 28:47, which gives the same protest in almost the same words.",
-            "bn": "ইবনে কাসীর ব্যাখ্যা করেন, নবীরা সুসংবাদ দেন তাদের যারা আল্লাহর আনুগত্য করে ও তাঁর পছন্দের কাজ করে, আর তাঁর শাস্তির ভয় দেখান তাদের যারা তাঁর হুকুম অমান্য করে। আল্লাহ কিতাব নাযিল করেছেন, রসূল পাঠিয়েছেন, পরিষ্কার করে দিয়েছেন কী তিনি ভালোবাসেন আর কী অপছন্দ করেন, আর এভাবে তাঁর সামনে কারো কোনো অজুহাত থাকে না। তিনি আয়াতটি পড়েন ২০:১৩৪ আয়াতের পাশে, যেখানে রসূল আসার আগে ধ্বংস হওয়া মানুষ বলত, হে আমাদের রব, তুমি আমাদের কাছে রসূল পাঠালে না কেন, তাহলে তোমার আয়াত মেনে চলতাম; আর ২৮:৪৭ আয়াতের পাশে, যেখানে প্রায় একই শব্দে একই অভিযোগ।"
+            "bn": "ইবনে কাসীর ব্যাখ্যা করেন, নবীরা সুসংবাদ দেন তাদের যারা আল্লাহর আনুগত্য করে ও তাঁর পছন্দের কাজ করে, আর তাঁর শাস্তির ভয় দেখান তাদের যারা তাঁর হুকুম অমান্য করে। আল্লাহ কিতাব নাজিল করেছেন, রাসূল পাঠিয়েছেন, পরিষ্কার করে দিয়েছেন কী তিনি ভালোবাসেন আর কী অপছন্দ করেন, আর এভাবে তাঁর সামনে কারো কোনো অজুহাত থাকে না। তিনি আয়াতটি পড়েন ২০:১৩৪ আয়াতের পাশে, যেখানে রাসূল আসার আগে ধ্বংস হওয়া মানুষ বলত, হে আমাদের রব, তুমি আমাদের কাছে রাসূল পাঠালে না কেন, তাহলে তোমার আয়াত মেনে চলতাম; আর ২৮:৪৭ আয়াতের পাশে, যেখানে প্রায় একই শব্দে একই অভিযোগ।"
           },
           {
             "en": "As-Sa'di draws out the justice in it. Allah, he says, does not punish anyone until the proof has been established against him, and the messengers are how that proof is established; they explained to people the way to His pleasure and the way to His anger, so that whoever perished afterwards perished after clear evidence. The commentators generally read this verse with 17:15, where Allah says He would never punish until He had sent a messenger. Ar-Razi takes the verse into the wider question of what a person is accountable for before revelation reaches him, and reads it as placing the completed proof with the messengers.",
-            "bn": "আস-সা'দী এর ভেতরের ইনসাফটা বের করে আনেন। তিনি বলেন, আল্লাহ কাউকে শাস্তি দেন না যতক্ষণ না তার বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হয়, আর রসূলরাই সেই প্রমাণ প্রতিষ্ঠার উপায়; তাঁরা মানুষকে বুঝিয়ে দিয়েছেন তাঁর সন্তুষ্টির পথ কোনটা আর তাঁর গজবের পথ কোনটা, যাতে এরপর যে ধ্বংস হয় সে স্পষ্ট প্রমাণের পরেই ধ্বংস হয়। মুফাসসিররা সাধারণত এই আয়াত পড়েন ১৭:১৫ আয়াতের সাথে, যেখানে আল্লাহ বলেন, রসূল না পাঠিয়ে তিনি কখনো শাস্তি দেন না। আর-রাযী আয়াতটিকে নিয়ে যান বৃহত্তর প্রশ্নে, ওয়াহী পৌঁছানোর আগে মানুষ কীসের জন্য দায়ী, আর পড়েন এভাবে যে পূর্ণ প্রমাণ রসূলদের হাতেই রাখা হয়েছে।"
+            "bn": "আস-সা'দী এর ভেতরের ইনসাফটা বের করে আনেন। তিনি বলেন, আল্লাহ কাউকে শাস্তি দেন না যতক্ষণ না তার বিরুদ্ধে প্রমাণ প্রতিষ্ঠিত হয়, আর রাসূলরাই সেই প্রমাণ প্রতিষ্ঠার উপায়; তাঁরা মানুষকে বুঝিয়ে দিয়েছেন তাঁর সন্তুষ্টির পথ কোনটা আর তাঁর গজবের পথ কোনটা, যাতে এরপর যে ধ্বংস হয় সে স্পষ্ট প্রমাণের পরেই ধ্বংস হয়। মুফাসসিররা সাধারণত এই আয়াত পড়েন ১৭:১৫ আয়াতের সাথে, যেখানে আল্লাহ বলেন, রাসূল না পাঠিয়ে তিনি কখনো শাস্তি দেন না। আর-রাযী আয়াতটিকে নিয়ে যান বৃহত্তর প্রশ্নে, ওয়াহী পৌঁছানোর আগে মানুষ কীসের জন্য দায়ী, আর পড়েন এভাবে যে পূর্ণ প্রমাণ রাসূলদের হাতেই রাখা হয়েছে।"
           }
         ]
       },
@@ -3753,7 +3753,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two verses show the purpose clause fulfilled on the Day itself. In 67:8 the keepers of Hell ask each company thrown into it: did no warner come to you? And in 67:9 the answer is, yes, a warner came to us, but we denied him. In 39:71 the same question is put at the gates, did messengers not come to you from among yourselves, and the same answer is given: yes. Nobody in those scenes pleads ignorance. The messengers of 4:165 did their work, and the argument the verse said would not exist does not exist.",
-            "bn": "দুটি আয়াত দেখায়, কিয়ামতের দিনে আয়াতের উদ্দেশ্য কীভাবে পূর্ণ হয়। ৬৭:৮ আয়াতে জাহান্নামের রক্ষীরা প্রতিটি দলকে জিজ্ঞেস করে: তোমাদের কাছে কি কোনো সতর্ককারী আসেনি? আর ৬৭:৯ আয়াতে জবাব, হ্যাঁ, এসেছিল, কিন্তু আমরা অস্বীকার করেছিলাম। ৩৯:৭১ আয়াতে দরজায় একই প্রশ্ন, তোমাদেরই ভেতর থেকে কি রসূল আসেননি, আর একই জবাব: হ্যাঁ। ওই দৃশ্যে কেউ না জানার অজুহাত দেয় না। ৪:১৬৫ আয়াতের রসূলরা তাঁদের কাজ করে গেছেন, আর যে যুক্তি থাকবে না বলে আয়াত বলেছিল, তা নেই।"
+            "bn": "দুটি আয়াত দেখায়, কিয়ামতের দিনে আয়াতের উদ্দেশ্য কীভাবে পূর্ণ হয়। ৬৭:৮ আয়াতে জাহান্নামের রক্ষীরা প্রতিটি দলকে জিজ্ঞেস করে: তোমাদের কাছে কি কোনো সতর্ককারী আসেনি? আর ৬৭:৯ আয়াতে জবাব, হ্যাঁ, এসেছিল, কিন্তু আমরা অস্বীকার করেছিলাম। ৩৯:৭১ আয়াতে দরজায় একই প্রশ্ন, তোমাদেরই ভেতর থেকে কি রাসূল আসেননি, আর একই জবাব: হ্যাঁ। ওই দৃশ্যে কেউ না জানার অজুহাত দেয় না। ৪:১৬৫ আয়াতের রাসূলরা তাঁদের কাজ করে গেছেন, আর যে যুক্তি থাকবে না বলে আয়াত বলেছিল, তা নেই।"
           }
         ]
       },
@@ -3864,7 +3864,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Servant, Messenger, Word, Spirit",
-          "bn": "বান্দা, রসূল, কালিমা, রূহ"
+          "bn": "বান্দা, রাসূল, কালিমা, রূহ"
         },
         "p": [
           {
@@ -3941,7 +3941,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Children often meet Isa (AS) first through other people's descriptions of him, so let this verse be the one they learn first. Write its four titles on the board, messenger, word, spirit from Him, and servant from 4:172, and ask what each one means and what none of them means. Ibn Kathir's examples help: the she-camel of Allah and the House of Allah are called His to honour them, not because they are part of Him. Then read 19:30 aloud, the child's own words from the cradle, and let the class notice that the first thing he said about himself is the thing this verse asks everyone to say.",
-            "bn": "ছোটরা প্রায়ই ঈসা (আঃ)-এর সাথে প্রথম পরিচিত হয় অন্যদের বর্ণনার মধ্য দিয়ে, তাই এই আয়াতই হোক তাদের প্রথম শেখা। বোর্ডে এর চারটি উপাধি লিখুন, রসূল, কালিমা, তাঁর পক্ষ থেকে রূহ (এই অনুবাদে ‘নির্দেশ’), আর ৪:১৭২ থেকে বান্দা, তারপর জিজ্ঞেস করুন প্রতিটির মানে কী, আর কোনোটার মানে কী নয়। ইবনে কাসীরের উদাহরণ কাজে লাগে: আল্লাহর উটনী আর আল্লাহর ঘরকে তাঁর বলা হয় সম্মান দিতে, তাঁর অংশ বলে নয়। তারপর জোরে পড়ুন ১৯:৩০, দোলনা থেকে শিশুটির নিজের কথা, আর ক্লাস লক্ষ করুক, নিজের সম্পর্কে তিনি প্রথম যা বলেছেন, এই আয়াত সবাইকে ঠিক সেটাই বলতে বলছে।"
+            "bn": "ছোটরা প্রায়ই ঈসা (আঃ)-এর সাথে প্রথম পরিচিত হয় অন্যদের বর্ণনার মধ্য দিয়ে, তাই এই আয়াতই হোক তাদের প্রথম শেখা। বোর্ডে এর চারটি উপাধি লিখুন, রাসূল, কালিমা, তাঁর পক্ষ থেকে রূহ (এই অনুবাদে ‘নির্দেশ’), আর ৪:১৭২ থেকে বান্দা, তারপর জিজ্ঞেস করুন প্রতিটির মানে কী, আর কোনোটার মানে কী নয়। ইবনে কাসীরের উদাহরণ কাজে লাগে: আল্লাহর উটনী আর আল্লাহর ঘরকে তাঁর বলা হয় সম্মান দিতে, তাঁর অংশ বলে নয়। তারপর জোরে পড়ুন ১৯:৩০, দোলনা থেকে শিশুটির নিজের কথা, আর ক্লাস লক্ষ করুক, নিজের সম্পর্কে তিনি প্রথম যা বলেছেন, এই আয়াত সবাইকে ঠিক সেটাই বলতে বলছে।"
           }
         ]
       }
