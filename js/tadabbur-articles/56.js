@@ -545,11 +545,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi sets out where the genitive may attach. Al-Zajjaj, as he reports, joins it to bi-akwab, with cups, and carries it on the meaning: they take their delight in cups, fruit, meat and hur. Or it joins jannat, the gardens of delight in 56:12, so that they are in the gardens of delight and among the hur, with a governing word understood: in the companionship of hur. Al-Farra' takes it as following in form only, though the meanings differ, since the hur are not carried round.",
-            "bn": "যের কোথায় যুক্ত হতে পারে, কুরতুবী তা গুছিয়ে বলেন। তাঁর বর্ণনায় যাজ্জাজ একে যুক্ত করেন বিআকওয়াব, অর্থাৎ পেয়ালাসহ, শব্দের সঙ্গে, আর অর্থের দিক থেকে ধরেন: তারা আনন্দ উপভোগ করবে পেয়ালা, ফল, গোশত আর হূরদের সঙ্গে। অথবা এটি যুক্ত হবে ৫৬:১২ আয়াতের জান্নাতিন নাঈম, অর্থাৎ নিয়ামতের বাগানের সঙ্গে। তখন অর্থ হবে, তারা নিয়ামতের বাগানে থাকবে আর থাকবে হূরদের মাঝে। এখানে একটি শব্দ উহ্য ধরা হয়: হূরদের সাহচর্যে। ফাররা একে দেখেন শুধু শব্দগত অনুসরণ হিসেবে, অর্থ আলাদা হলেও, কারণ হূরদের ঘুরিয়ে পরিবেশন করা হয় না।"
+            "bn": "যের কোথায় যুক্ত হতে পারে, কুরতুবী তা গুছিয়ে বলেন। তাঁর বর্ণনা অনুযায়ী যাজ্জাজ একে জুড়ে দেন বিআকওয়াব (পেয়ালাসহ) শব্দের সঙ্গে, আর অর্থ ধরেন এভাবে: তারা আনন্দ উপভোগ করবে পেয়ালা, ফল, গোশত আর হূরদের সঙ্গে। নয়তো এটি জুড়বে ৫৬:১২ আয়াতের জান্নাতিন নাঈম, অর্থাৎ নিয়ামতের বাগানের সঙ্গে। তখন অর্থ হবে, তারা নিয়ামতের বাগানে থাকবে, থাকবে হূরদের মাঝেও। এখানে একটি শব্দ উহ্য ধরা হয়: হূরদের সাহচর্যে। ফাররার মতে এটি কেবল শব্দের গঠনে আগের শব্দের অনুসরণ, অর্থ আলাদা। কারণ হূরদের তো ঘুরিয়ে পরিবেশন করা হয় না।"
           },
           {
             "en": "Qutrub, also in al-Qurtubi, goes the other way. He joins the words to the cups and jugs plainly, with no appeal to meaning, and says it is not to be denied that the hur be brought round to them and that there be delight for them in that. So the same genitive, in one commentary, is read as form only by al-Farra' and as sense as well by Qutrub. Al-Qurtubi places the two views side by side and does not decide between them.",
-            "bn": "কুরতুবীর তাফসীরেই কুতরুব উল্টো পথ ধরেন। তিনি শব্দ দুটিকে সরাসরি পেয়ালা আর কেটলির সঙ্গে যুক্ত করেন, অর্থের আশ্রয় নেন না। তাঁর কথা, হূরদের তাদের কাছে নিয়ে আসা হবে আর তাতে তাদের আনন্দ থাকবে, এটা অস্বীকার করার কিছু নেই। ফলে একই তাফসীরে একই যের ফাররার কাছে কেবল শব্দের ব্যাপার, আর কুতরুবের কাছে অর্থেরও। কুরতুবী দুই মত পাশাপাশি রাখেন, কোনোটির পক্ষে রায় দেন না।"
+            "bn": "কুরতুবীর তাফসীরেই কুতরুব উল্টো পথ ধরেন। তিনি শব্দ দুটিকে সরাসরি পেয়ালা আর সুরাহির সঙ্গে যুক্ত করেন, অর্থের আশ্রয় নেন না। তাঁর কথা, হূরদের তাদের কাছে নিয়ে আসা হবে আর তাতে তাদের আনন্দ থাকবে, এটা অস্বীকার করার কিছু নেই। ফলে একই তাফসীরে একই যের ফাররার কাছে কেবল শব্দের ব্যাপার, আর কুতরুবের কাছে অর্থেরও। কুরতুবী দুই মত পাশাপাশি রাখেন, কোনোটির পক্ষে রায় দেন না।"
           },
           {
             "en": "Ibn Kathir in Arabic gives the genitive two possibilities. The first is grammatical following, and he quotes the run of verses from the boys going round in 56:17 down to wa hurin 'in, comparing 5:6, wipe your heads and your feet, and 76:21, green garments of fine silk and brocade. The second is that the hur are among those the immortal boys bring round, but in the palaces and tents, not in the open company of each other, the servants bringing the hur to them there. He closes with: and Allah knows best.",
@@ -565,11 +565,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi opens his entry by saying the words were read with three endings: nominative, accusative and genitive. The accusative, wa huran 'inan, he assigns to al-Ash'hab al-'Uqayli, an-Nakha'i and 'Isa ibn 'Umar ath-Thaqafi, and says it is so in the codex of Ubayy. It rests on a verb understood, as if the verse said: and they are given in marriage to hur 'in. He adds that taking the accusative by sense is also good, because to have something carried round to them means to be given it.",
-            "bn": "কুরতুবী তাঁর আলোচনা শুরু করেন এ কথা দিয়ে যে শব্দ দুটি তিনটি ভিন্ন শেষ-স্বরে পড়া হয়েছে: পেশ, যবর আর যের। যবরের কিরাআত, ওয়া হূরান ঈনান, তিনি আশহাব উকাইলী, নাখঈ এবং ঈসা ইবন উমর সাকাফীর বলে উল্লেখ করেন। তিনি আরও বলেন, উবাই (রাঃ)-এর মুসহাফেও এভাবেই আছে। এর ভিত্তি একটি উহ্য ক্রিয়া, যেন আয়াতটি বলছে: আর হূরুন ঈনের সঙ্গে তাদের বিয়ে দেওয়া হবে। তিনি যোগ করেন, অর্থের দিক থেকে যবর ধরাও ভালো, কারণ কোনো কিছু তাদের কাছে ঘুরিয়ে আনার মানেই তা তাদের দেওয়া।"
+            "bn": "কুরতুবী আলোচনার শুরুতেই জানান, শব্দ দুটি তিন রকম শেষ-স্বরে পড়া হয়েছে: পেশ, যবর আর যের। যবরের কিরাআত, ওয়া হূরান ঈনান, তিনি আশহাব উকাইলী, নাখঈ এবং ঈসা ইবন উমর সাকাফীর বলে উল্লেখ করেন। তিনি আরও বলেন, উবাই (রাঃ)-এর মুসহাফেও এভাবেই আছে। এর ভিত্তি একটি উহ্য ক্রিয়া, যেন আয়াতটি বলছে: আর হূরুন ঈনের সঙ্গে তাদের বিয়ে দেওয়া হবে। তিনি যোগ করেন, অর্থের দিক থেকে যবর ধরাও ভালো, কারণ কোনো কিছু তাদের কাছে ঘুরিয়ে আনার মানেই তা তাদের দেওয়া।"
           },
           {
             "en": "Only al-Qurtubi among the six records this third reading. At-Tabari and al-Baghawi report two readings, and Ibn Kathir in Arabic discusses the nominative and the genitive. The page records the accusative as al-Qurtubi reports it, with its readers and its grammar, and goes no further. What the three endings share is plain from his own account: in each, the hur are part of what is given to the people of this passage, whether as what they have, what they are given or what is listed with their delights.",
-            "bn": "ছয়টি তাফসীরের মধ্যে কেবল কুরতুবীই এই তৃতীয় কিরাআত উল্লেখ করেছেন। তাবারী আর বাগাভী দুটি কিরাআতের কথা বলেন, আর ইবন কাসীর আরবী তাফসীরে আলোচনা করেন পেশ আর যের নিয়ে। কুরতুবী যেভাবে বর্ণনা করেছেন, যবরের কিরাআত এ পাতায় ঠিক সেভাবেই রাখা হলো, কারীদের নাম আর ব্যাকরণসহ, এর বেশি নয়। তাঁর নিজের বর্ণনা থেকেই তিনটি স্বরচিহ্নের মিলটা স্পষ্ট। প্রতিটিতেই হূররা এ অংশে বর্ণিত লোকদের দেওয়া নিয়ামতের অংশ। কখনো তারা ওদের কাছে থাকবে, কখনো ওদের দেওয়া হবে, কখনো ওদের অন্য নিয়ামতের সঙ্গে এক তালিকায় আসবে।"
+            "bn": "ছয়টি তাফসীরের মধ্যে কেবল কুরতুবীই এই তৃতীয় কিরাআত উল্লেখ করেছেন। তাবারী আর বাগাভী দুটি কিরাআতের কথা বলেন, আর ইবন কাসীর আরবী তাফসীরে আলোচনা করেন পেশ আর যের নিয়ে। কুরতুবী যেভাবে বর্ণনা করেছেন, যবরের কিরাআত এ পাতায় ঠিক সেভাবেই রাখা হলো, কারীদের নাম আর ব্যাকরণসহ, এর বেশি নয়। তাঁর নিজের বর্ণনা থেকেই তিনটি স্বরচিহ্নের মিলটা স্পষ্ট। প্রতিটিতেই হূররা এ অংশে বর্ণিত লোকদের পাওয়া নিয়ামতের অংশ। এক পাঠে তারা ওদের নিজের, আরেক পাঠে ওদের দেওয়া উপহার, আরেক পাঠে ওদের অন্য নিয়ামতের সঙ্গে এক তালিকায় গোনা।"
           }
         ]
       },
@@ -581,7 +581,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The reason given for the nominative, that the hur are not carried round, did not go unanswered. Al-Qurtubi reports al-Kisa'i's reply: whoever reads the nominative and gives that reason must say the same of the fruit and the meat, since these are not carried round either; only the wine is. Al-Kisa'i is himself among the genitive readers named by al-Qurtubi and al-Baghawi. Al-Qurtubi still records the nominative as the majority reading and the choice of Abu 'Ubayd and Abu Hatim, and leaves both on record.",
-            "bn": "পেশের পক্ষে যে কারণ দেওয়া হয়েছিল, অর্থাৎ হূরদের ঘুরিয়ে পরিবেশন করা হয় না, তা বিনা জবাবে থাকেনি। কুরতুবী কিসাঈর জবাব উদ্ধৃত করেন: যে পেশ দিয়ে পড়ে আর এই কারণ দেখায়, ফল আর গোশতের বেলাতেও তাকে একই কথা মানতে হবে। কারণ সেগুলোও ঘুরিয়ে পরিবেশন করা হয় না, ঘোরানো হয় শুধু পানীয়। কুরতুবী ও বাগাভী যেরের কারীদের মধ্যে কিসাঈর নামও নিয়েছেন। তবু কুরতুবী পেশকে অধিকাংশের কিরাআত আর আবু উবাইদ ও আবু হাতিমের পছন্দ হিসেবেই উল্লেখ করেন, আর দুটোকেই লিপিবদ্ধ রাখেন।"
+            "bn": "পেশের পক্ষে কারণ দেখানো হয়েছিল, হূরদের তো ঘুরিয়ে পরিবেশন করা হয় না। এ যুক্তির জবাবও এসেছে। কুরতুবী কিসাঈর জবাব উদ্ধৃত করেন: যে পেশ দিয়ে পড়ে আর এই কারণ দেখায়, ফল আর গোশতের বেলাতেও তাকে একই কথা মানতে হবে। কারণ সেগুলোও ঘুরিয়ে পরিবেশন করা হয় না, ঘোরানো হয় শুধু পানীয়। কুরতুবী ও বাগাভী যেরের কারীদের মধ্যে কিসাঈর নামও নিয়েছেন। তবু কুরতুবী পেশকে অধিকাংশের কিরাআত আর আবু উবাইদ ও আবু হাতিমের পছন্দ হিসেবেই উল্লেখ করেন, আর দুটোকেই লিপিবদ্ধ রাখেন।"
           },
           {
             "en": "At-Tabari gives the verdict in his own voice. The right view, he says, is that these are two well-known readings, each read by a body of readers, and their meanings are close, so whichever of the two a reader recites, he is correct. Neither reading is set aside, and neither is ranked above the other in his entry. The page follows him in that. The grammarians argued over attachment and case; at-Tabari's own judgement is that the meanings stay close either way.",
@@ -597,11 +597,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the commentaries fetched for this verse attaches a hadith to it, so none is cited here. Nor does any of them discuss whether the hur are women of this world made new or beings created in Paradise; that question is not raised in these entries on this verse, and the page leaves it unopened. What they do say is said with restraint. They speak of the eye, its clearness, its dark and its width, and of beauty and charm, and they say no more than that.",
-            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস উদ্ধৃত হচ্ছে না। হূররা কি দুনিয়ার নারীদেরই নতুন করে সৃষ্টি করা রূপ, নাকি জান্নাতেই সৃষ্ট আলাদা সত্তা, এ প্রশ্নও এই আয়াতের আলোচনায় কেউ তোলেননি। এ পাতাও প্রশ্নটি খুলছে না। তাঁরা যা বলেছেন, সংযমের সঙ্গে বলেছেন। কথা বলেছেন চোখ নিয়ে, তার স্বচ্ছতা, তার কালো আর তার বিস্তার নিয়ে, আর সৌন্দর্য ও লাবণ্য নিয়ে। এর বেশি কিছু বলেননি।"
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস জোড়েনি। তাই এখানেও কোনো হাদিস উদ্ধৃত হচ্ছে না। হূররা কি দুনিয়ার নারীদেরই নতুন করে সৃষ্টি করা রূপ, নাকি জান্নাতেই সৃষ্ট আলাদা সত্তা, এ প্রশ্নও এই আয়াতের আলোচনায় কেউ তোলেননি। এ পাতাও প্রশ্নটি খুলছে না। তাঁরা যা বলেছেন, সংযমের সঙ্গে বলেছেন। কথা বলেছেন চোখ নিয়ে, তার স্বচ্ছতা, তার কালো আর তার বিস্তার নিয়ে, আর সৌন্দর্য ও লাবণ্য নিয়ে। এর বেশি কিছু বলেননি।"
           },
           {
             "en": "The two words do not stand alone for long. The next verse gives them a likeness, pearls kept hidden, and the one after names the whole list a reward for what they used to do. Those verses have their own pages. Here the order is enough: couches, cups, fruit, meat and then the hur, each named briefly, each a gift. The Muyassar's last clause, a reward for the righteous deeds they used to do in the world, is where the passage itself is heading.",
-            "bn": "শব্দ দুটি বেশিক্ষণ একা দাঁড়িয়ে থাকে না। পরের আয়াত তাদের একটি উপমা দেয়, লুকিয়ে রাখা মুক্তা। তার পরের আয়াত পুরো তালিকাকে বলে তাদের আমলের প্রতিদান। সেই আয়াতগুলোর আলাদা পাতা আছে। এখানে ক্রমটুকুই যথেষ্ট: আসন, পেয়ালা, ফল, গোশত, তারপর হূর। প্রতিটির নাম অল্প কথায়, প্রতিটিই উপহার। মুয়াসসারের শেষ কথাটি, দুনিয়াতে তাদের করা নেক আমলের প্রতিদান, এ অংশ নিজেই সেদিকে এগোচ্ছে।"
+            "bn": "শব্দ দুটি বেশিক্ষণ একা দাঁড়িয়ে থাকে না। পরের আয়াত তাদের একটি উপমা দেয়, লুকিয়ে রাখা মুক্তা। তার পরের আয়াত পুরো তালিকাকে বলে তাদের আমলের প্রতিদান। সেই আয়াতগুলোর আলাদা পাতা আছে। এখানে ক্রমটুকুই যথেষ্ট: আসন, পেয়ালা, ফল, গোশত, তারপর হূর। প্রতিটির নাম অল্প কথায়, প্রতিটিই উপহার। মুয়াসসারের শেষ কথাটি হলো: দুনিয়াতে তারা যে নেক আমল করত, তার প্রতিদান। পুরো অংশটি নিজেও সেদিকেই এগোচ্ছে।"
           }
         ]
       }
@@ -617,11 +617,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa-talhin mandud: two words in the Arabic, and the second tree in the garden of the companions of the right. The passage turned to them at 56:27 with a question that magnifies them: the companions of the right, what are the companions of the right? Then 56:28 began the answer: among lote trees, sidr, with their thorns removed. This verse is joined to the verse before by its opening wa, so the companions of the right are among talh as well, a talh that is mandud. Everything weighed below hangs on those two nouns.",
-            "bn": "ওয়া তালহিম মানদূদ: আরবীতে মাত্র দুটি শব্দ, আর ডান দিকের দলের বাগানে এটি দ্বিতীয় গাছ। ৫৬:২৭ আয়াতে তাদের দিকে ফেরা হয়েছে এমন এক প্রশ্নে, যা তাদের মর্যাদাকে বড় করে তোলে: ডান দিকের দল, কী চমৎকার সেই ডান দিকের দল! উত্তর শুরু হয় ৫৬:২৮ আয়াতে: তারা থাকবে কাঁটা ছাড়ানো সিদর বা বরই গাছের মাঝে। এ আয়াত শুরুর 'ওয়া' দিয়ে আগের আয়াতের সঙ্গে জোড়া। তাই ডান দিকের লোকেরা তালহ গাছের মাঝেও থাকবে, আর সে তালহ হবে মানদূদ। নিচের পুরো আলোচনা ঝুলে আছে এই দুটি শব্দের উপর।"
+            "bn": "ওয়া তালহিম মানদূদ: আরবীতে মাত্র দুটি শব্দ, আর ডান দিকের দলের বাগানে এটি দ্বিতীয় গাছ। ৫৬:২৭ আয়াতে আলোচনা তাদের দিকে ফেরে এমন এক প্রশ্ন দিয়ে, যাতে তাদের মর্যাদা ফুটে ওঠে: ডান দিকের দল, কেমন সেই ডান দিকের দল? উত্তর শুরু হয় ৫৬:২৮ আয়াতে: তারা থাকবে কাঁটা ছাড়ানো সিদর বা বরই গাছের মাঝে। এ আয়াত শুরুর 'ওয়া' দিয়ে আগের আয়াতের সঙ্গে জোড়া। তাই ডান দিকের লোকেরা তালহ গাছের মাঝেও থাকবে, আর সে তালহ হবে মানদূদ। নিচের পুরো আলোচনা এই দুটি শব্দকে ঘিরেই।"
           },
           {
             "en": "The site's English renders the verse: And [banana] trees layered [with fruit]. Both brackets are the translator's additions. The Arabic names neither banana nor fruit, and the first bracket takes one side of a real disagreement among the commentators. The site's Bengali goes the same way, saying kola, banana, in plain text, with the fruit set in tiers. That choice has wide support, as the next section shows. Still, it is a reading of talh, not the word itself, and the other reading has its own names behind it.",
-            "bn": "সাইটের ইংরেজি অনুবাদে আয়াতটির অর্থ: আর থরে থরে সাজানো কলা গাছ। তবে সেখানে 'কলা' আর 'ফলে' শব্দ দুটো বন্ধনীর ভেতরে, কারণ দুটোই অনুবাদকের যোগ করা। আরবীতে কলার নামও নেই, ফলের নামও নেই। প্রথম বন্ধনীটা তাফসীরকারদের এক সত্যিকারের মতভেদে একটা পক্ষ বেছে নিয়েছে। সাইটের বাংলা অনুবাদও একই পথে গেছে, বন্ধনী ছাড়াই লিখেছে কলা গাছ, যাতে থরে থরে সাজানো কলা। এ ব্যাখ্যার পেছনে সমর্থন অনেক, পরের অংশে তা দেখা যাবে। তবু এটা তালহ শব্দের একটা ব্যাখ্যা, শব্দটা নিজে নয়। অন্য ব্যাখ্যার পেছনেও নিজস্ব নাম আছে।"
+            "bn": "সাইটের ইংরেজি অনুবাদে আয়াতটির অর্থ: আর থরে থরে সাজানো কলা গাছ। তবে সেখানে 'কলা' আর 'ফলে' শব্দ দুটো বন্ধনীর ভেতরে, কারণ দুটোই অনুবাদকের যোগ করা। আরবীতে কলার নামও নেই, ফলের নামও নেই। প্রথম বন্ধনীটা তাফসীরকারদের এক সত্যিকারের মতভেদে একটা পক্ষ বেছে নিয়েছে। সাইটের বাংলা অনুবাদও একই পথে গেছে, বন্ধনী ছাড়াই লিখেছে কলা গাছ, যাতে থরে থরে সাজানো কলা। এ ব্যাখ্যার পেছনে সমর্থন অনেক, পরের অংশে তা দেখা যাবে। তবু এটা তালহ শব্দের একটা ব্যাখ্যা, শব্দটা নিজে নয়। অন্য ব্যাখ্যার পক্ষেও আলাদা আলেমদের নাম আছে।"
           }
         ]
       },
@@ -677,11 +677,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Hasan is a second case. Ibn Kathir counts him among those from whom the banana is reported. Al-Qurtubi and al-Baghawi report him saying the opposite: it is not the banana, but a tree with cool shade, moist shade in al-Qurtubi's wording and pleasant shade in al-Baghawi's. This article does not choose between the two lines of report. It notes only that they give al-Hasan different answers, and that his answer as al-Qurtubi and al-Baghawi give it rests on shade rather than fruit.",
-            "bn": "হাসানের ব্যাপারটাও এমন। ইবন কাসীর তাঁকে সেই দলে গুনেছেন, যাঁদের থেকে কলার ব্যাখ্যা বর্ণিত। অথচ কুরতুবী আর বাগাভী তাঁর মুখে উল্টো কথা বর্ণনা করেন: এটা কলা নয়, বরং শীতল ছায়াওয়ালা এক গাছ। কুরতুবীর ভাষায় ছায়াটা স্নিগ্ধ-আর্দ্র, বাগাভীর ভাষায় মনোরম। এ লেখা দুই ধারার বর্ণনার কোনোটাকে বেছে নিচ্ছে না। শুধু এটুকু লক্ষ করছে যে দুই ধারা হাসানের মুখে দুই রকম উত্তর দেয়। আর কুরতুবী ও বাগাভীর বর্ণনায় তাঁর উত্তরের ভর ফলের উপর নয়, ছায়ার উপর।"
+            "bn": "হাসানের ব্যাপারটাও এমন। ইবন কাসীর তাঁকে সেই দলে গুনেছেন, যাঁদের থেকে কলার ব্যাখ্যা বর্ণিত। অথচ কুরতুবী আর বাগাভী তাঁর মুখে উল্টো কথা বর্ণনা করেন: এটা কলা নয়, বরং শীতল ছায়াওয়ালা এক গাছ। কুরতুবীর ভাষায় ছায়াটা স্নিগ্ধ-আর্দ্র, বাগাভীর ভাষায় মনোরম। এ লেখা দুই ধারার বর্ণনার কোনোটাকে বেছে নিচ্ছে না। শুধু এটুকু দেখাচ্ছে: দুই ধারায় হাসানের উত্তর দুই রকম। আর কুরতুবী ও বাগাভীর বর্ণনায় তাঁর উত্তরের ভর ফলের উপর নয়, ছায়ার উপর।"
           },
           {
             "en": "Ibn Kathir closes with the remark that Ibn Jarir, that is at-Tabari, related no explanation but the banana. In at-Tabari's own text the commentators' explanations are indeed all the banana, yet he sets Abu Ubayda's account of the thorny tree before them as what talh means among the Arabs. In the passage fetched for this verse, he does not say in his own voice which of the two he prefers. So the disagreement stays open here, with names on both sides and no verdict added.",
-            "bn": "ইবন কাসীর শেষ করেন এই মন্তব্যে: ইবন জারীর, মানে তাবারী, কলা ছাড়া আর কোনো ব্যাখ্যা উল্লেখ করেননি। তাবারীর নিজের লেখায় তাফসীরকারদের সব ব্যাখ্যা সত্যিই কলা। তবে তাঁদের আগে তিনি আবু উবায়দার বক্তব্যও রেখেছেন যে আরবদের কাছে তালহ মানে কাঁটাওয়ালা বিশাল গাছ। এ আয়াতের জন্য সংগ্রহ করা অংশে তিনি নিজের ভাষায় বলেননি দুটোর কোনটা তাঁর পছন্দ। তাই মতভেদটা এখানে খোলাই থাকছে। দুই দিকেই নাম আছে, কোনো রায় যোগ করা হচ্ছে না।"
+            "bn": "ইবন কাসীর শেষ করেন এই মন্তব্যে: ইবন জারীর, মানে তাবারী, কলা ছাড়া আর কোনো ব্যাখ্যা উল্লেখ করেননি। তাবারীর নিজের লেখায় তাফসীরকারদের সব ব্যাখ্যা সত্যিই কলা। তবে তাঁদের আগেই তিনি আবু উবায়দার কথা এনেছেন: আরবদের কাছে তালহ মানে কাঁটাওয়ালা বিশাল গাছ। এ আয়াতের যে অংশ সংগ্রহ করা হয়েছে, তাতে দুটোর কোনটা তাঁর পছন্দ, তা তিনি নিজের ভাষায় বলেননি। তাই মতভেদটা এখানে খোলাই থাকছে। দুই দিকেই নাম আছে, কোনো রায় যোগ করা হচ্ছে না।"
           }
         ]
       },
@@ -744,12 +744,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Left for Neighbouring Verses",
-          "bn": "পাশের আয়াতগুলোর জন্য তোলা"
+          "bn": "পাশের আয়াতগুলোর জন্য রেখে দেওয়া"
         },
         "p": [
           {
             "en": "No hadith with a collector's grading is attached to this verse in the texts fetched for it. Ibn Kathir's English abridgment, under the neighbouring verse on the sidr, relates a report that a bedouin asked about the talh and its thorns, with an answer that each thorn becomes a fruit; but the fetched text names no collection and gives no grading, so it is not quoted here. No occasion of revelation is given for the verse either.",
-            "bn": "এ আয়াতের জন্য সংগ্রহ করা পাঠগুলোতে সংকলকের মানসহ কোনো হাদীস এর সঙ্গে যুক্ত পাওয়া যায়নি। ইবন কাসীরের ইংরেজি সংক্ষেপে পাশের সিদরের আয়াতের আলোচনায় একটা বর্ণনা আছে। সেখানে এক বেদুইন তালহ আর তার কাঁটা নিয়ে প্রশ্ন করেন, আর উত্তরে বলা হয় প্রতিটি কাঁটার জায়গায় ফল হবে। কিন্তু সংগৃহীত পাঠে কোনো সংকলনের নাম নেই, মানও উল্লেখ নেই। তাই সেটি এখানে উদ্ধৃত করা হয়নি। আয়াতটির কোনো শানে নুযূলও পাঠগুলোতে আসেনি।"
+            "bn": "এ আয়াতের জন্য যেসব পাঠ সংগ্রহ করা হয়েছে, তাতে এর সঙ্গে এমন কোনো হাদিস নেই, যার মান সংকলক জানিয়েছেন। ইবন কাসীরের ইংরেজি সংক্ষেপে পাশের সিদরের আয়াতের আলোচনায় একটা বর্ণনা আছে। সেখানে এক বেদুইন তালহ আর তার কাঁটা নিয়ে প্রশ্ন করেন, আর উত্তরে বলা হয় প্রতিটি কাঁটার জায়গায় ফল হবে। কিন্তু সংগৃহীত পাঠে কোনো সংকলনের নাম নেই, মানও উল্লেখ নেই। তাই সেটি এখানে উদ্ধৃত করা হয়নি। আয়াতটির কোনো শানে নুযূলও পাঠগুলোতে আসেনি।"
           },
           {
             "en": "What follows, shade spread wide, water poured out, abundant fruit neither cut off nor forbidden, and raised couches, belongs to 56:30 to 56:34 and to their own study. Read with 56:28, this verse gives the companions of the right a garden of known trees made perfect: thorns taken away, fruit packed close. The commentators did not agree on which tree the talh is. Through every gloss of mandud, they did agree that it is full.",
@@ -809,7 +809,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The two readings of furush differ in a small but real way. In the abridged English Ibn Kathir, the furush of 56:34 are couches, high, soft and comfortable, and the women are those upon them, implied by them. In al-Qurtubi's figure, the furush may be the women. Ma'arif al-Qur'an keeps both doors open: the women were mentioned at a distance, in 56:22 and 56:23, and even if firash means beds, the talk of couches and comforts gives the pronoun its setting. Which way 56:34 is read belongs to that verse; here it only frames the question.",
-            "bn": "ফুরুশের এ দুই পাঠে পার্থক্য ছোট, কিন্তু সত্যিকারের। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে ৫৬:৩৪ আয়াতের ফুরুশ হলো উঁচু, নরম ও আরামদায়ক বিছানা। নারীরা সেখানে বিছানার উপরের মানুষ, বিছানার উল্লেখ থেকেই যাদের বোঝা যায়। কুরতুবীর রূপকে ফুরুশ নিজেই নারী হতে পারে। মাআরিফুল কুরআন দুই পথই খোলা রাখে। নারীদের কথা দূরে, ৫৬:২২ ও ৫৬:২৩ আয়াতে এসেছে। আর ফিরাশ মানে বিছানা হলেও বিছানা ও আরাম-আয়েশের কথা সর্বনামকে তার প্রেক্ষাপট দিয়ে দেয়। ৫৬:৩৪ কীভাবে পড়া হবে, সে আলোচনা সেই আয়াতের। এখানে তা শুধু প্রশ্নটির পটভূমি।"
+            "bn": "ফুরুশের এ দুই পাঠে পার্থক্য ছোট, কিন্তু সত্যিকারের। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণে ৫৬:৩৪ আয়াতের ফুরুশ হলো উঁচু, নরম ও আরামদায়ক বিছানা। নারীরা সেখানে বিছানার উপরের মানুষ, বিছানার উল্লেখ থেকেই যাদের বোঝা যায়। কুরতুবীর রূপকে ফুরুশ নিজেই নারী হতে পারে। মাআরিফুল কুরআন দুই পথই খোলা রাখে। নারীদের কথা এসেছে কিছুটা আগে, ৫৬:২২ ও ৫৬:২৩ আয়াতে। আর ফিরাশ মানে বিছানা হলেও বিছানা ও আরাম-আয়েশের কথা সর্বনামকে তার প্রেক্ষাপট দিয়ে দেয়। ৫৬:৩৪ কীভাবে পড়া হবে, সে আলোচনা সেই আয়াতের। এখানে তা শুধু প্রশ্নটির পটভূমি।"
           }
         ]
       },
@@ -841,7 +841,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir's own gloss follows the same line. After reporting al-Akhfash and Abu 'Ubayda, he explains inna ansha'nahunna as: We brought them back in the final coming-into-being, after they had been old women with tired, watering eyes. The abridged English puts it as: in the other life, after they became old in this life, they were brought back. Al-Muyassar and as-Sa'di speak of a coming-into-being other than the one these women had in this world, so their wording also assumes an earlier life here. What 56:36 and 56:37 then add belongs to those verses.",
-            "bn": "ইবন কাসীরের নিজের ব্যাখ্যাও এ পথেই চলে। আখফাশ ও আবু উবায়দার মত উল্লেখ করার পর তিনি ইন্না আনশা'নাহুন্নার অর্থ করেন এভাবে: পরকালের সৃষ্টিতে আমি তাদের ফিরিয়ে এনেছি, অথচ দুনিয়ায় তারা ছিল বৃদ্ধা, চোখ ক্লান্ত আর পানি-ঝরা। সংক্ষিপ্ত ইংরেজি সংস্করণের ভাষায়: এ জীবনে বুড়ো হয়ে যাওয়ার পর পরকালে তাদের ফিরিয়ে আনা হয়েছে। মুয়াসসার ও সা'দী বলেন এমন এক গড়নের কথা, যা দুনিয়ায় এই নারীদের গড়ন থেকে আলাদা। তাই তাঁদের কথাতেও ধরে নেওয়া আছে যে এখানে তাদের আগের একটা জীবন ছিল। ৫৬:৩৬ ও ৫৬:৩৭ আয়াত এরপর যা যোগ করে, তা সেই আয়াতগুলোর আলোচনা।"
+            "bn": "ইবন কাসীরের নিজের ব্যাখ্যাও এ পথেই চলে। আখফাশ ও আবু উবায়দার মত উল্লেখ করার পর তিনি ইন্না আনশা'নাহুন্নার অর্থ করেন এভাবে: দুনিয়ায় তারা ছিল বৃদ্ধা, চোখ ক্লান্ত আর পানি-ঝরা, তারপর পরকালের সৃষ্টিতে আমি তাদের ফিরিয়ে এনেছি। সংক্ষিপ্ত ইংরেজি সংস্করণের ভাষায়: এ জীবনে বুড়ো হয়ে যাওয়ার পর পরকালে তাদের ফিরিয়ে আনা হয়েছে। মুয়াসসার ও সা'দী বলেন এমন এক গড়নের কথা, যা দুনিয়ায় এই নারীদের গড়ন থেকে আলাদা। তাই তাঁদের কথাও ধরে নেয়, দুনিয়ায় এই নারীদের আগের একটা জীবন ছিল। ৫৬:৩৬ ও ৫৬:৩৭ আয়াত এরপর যা যোগ করে, তা সেই আয়াতগুলোর আলোচনা।"
           }
         ]
       },
@@ -889,7 +889,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Whichever answer a reader holds, the verb is Allah's, and the making it names is, in the words of al-Muyassar and as-Sa'di, complete and not open to perishing. That is the plain gift of the verse for anyone who has watched a mother or grandmother grow frail. Decline is real here; it is not final there. The verse says this in three words and moves on, and the commentators fetched for it speak of these women with the same brevity. A reader does well to keep that restraint, and to speak of them with dignity.",
-            "bn": "পাঠক যে উত্তরই গ্রহণ করুন, সৃষ্টির কাজটা আল্লাহর। আর সে সৃষ্টি, মুয়াসসার ও সা'দীর ভাষায়, পূর্ণাঙ্গ, তাতে বিনাশ নেই। যিনি নিজের মা বা নানিকে দিনে দিনে দুর্বল হতে দেখেছেন, তাঁর জন্য আয়াতের সোজা উপহার এটাই। এখানে ক্ষয় সত্য, কিন্তু সেখানে তা শেষ কথা নয়। আয়াত কথাটি বলে মাত্র তিনটি শব্দে, তারপর এগিয়ে যায়। সংগৃহীত তাফসীরগুলোও এই নারীদের কথা বলে একই রকম সংযমে। পাঠকের জন্যও ভালো এই সংযম ধরে রাখা, আর তাঁদের কথা বলা মর্যাদার সঙ্গে।"
+            "bn": "পাঠক যে উত্তরই গ্রহণ করুন, সৃষ্টির কাজটা আল্লাহর। আর সে সৃষ্টি, মুয়াসসার ও সা'দীর ভাষায়, পূর্ণাঙ্গ, তাতে বিনাশ নেই। যিনি নিজের মা বা নানিকে দিনে দিনে দুর্বল হতে দেখেছেন, তাঁর জন্য আয়াতের সোজা উপহার এটাই। এখানে ক্ষয় সত্য, কিন্তু সেখানে তা শেষ কথা নয়। আয়াত কথাটি বলে মাত্র তিনটি শব্দে, তারপর এগিয়ে যায়। সংগৃহীত তাফসীরগুলোও এই নারীদের কথা বলে একই রকম সংযমে। পাঠকের জন্যও ভালো হলো এই সংযম ধরে রাখা, আর তাঁদের কথা মর্যাদার সঙ্গে বলা।"
           },
           {
             "en": "There is also a duty in it. If old age is not the last word in the Garden, it should not be treated as the last word here either. The old among us are not finished people, and the fear that age disqualifies a person, the fear the old woman of the Shama'il voiced through her tears, deserves a gentle answer. The next verses, 56:36 to 56:38, go on to say more about these women and whom they are for: the companions of the right. Being among them is the work of this life, while there is time.",
@@ -909,11 +909,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa-ashabu sh-shimali ma ashabu sh-shimal: and the companions of the left, what are the companions of the left? The verse has five Arabic words, and the name is said twice. It comes straight after 56:39 and 56:40, which close the account of the companions of the right with a company from the earlier peoples and a company from the later. Ibn Kathir places it with a single connecting clause: having mentioned the state of the companions of the right, Allah followed them with mention of the companions of the left.",
-            "bn": "ওয়া আসহাবুশ শিমালি মা আসহাবুশ শিমাল: আর বাম দিকের দল, কী বাম দিকের দল! আরবিতে আয়াতটি পাঁচ শব্দের, আর তার মধ্যে নামটি এসেছে দুবার। ঠিক আগে ৫৬:৩৯ ও ৫৬:৪০ আয়াতে ডান দিকের দলের বর্ণনা শেষ হয়েছে এই কথায় যে, তারা হবে পূর্ববর্তীদের মধ্য থেকে একদল আর পরবর্তীদের মধ্য থেকেও একদল। ইবন কাসীর আয়াতটির জায়গা চিনিয়ে দেন একটিমাত্র যোগসূত্রে। তাঁর কথায়, ডান দিকের দলের অবস্থা বলার পর আল্লাহ তার সঙ্গে জুড়ে দিলেন বাম দিকের দলের কথা।"
+            "bn": "ওয়া আসহাবুশ শিমালি মা আসহাবুশ শিমাল: আর বাম দিকের দল, কেমন সেই বাম দিকের দল? আরবিতে আয়াতটি পাঁচ শব্দের, আর তার মধ্যে নামটি এসেছে দুবার। এর ঠিক আগে ৫৬:৩৯ ও ৫৬:৪০ আয়াতে ডান দিকের দলের বর্ণনা শেষ হয়েছে এভাবে: তাদের একদল পূর্ববর্তীদের মধ্য থেকে, আরেকদল পরবর্তীদের মধ্য থেকে। ইবন কাসীর আয়াতটির জায়গা চিনিয়ে দেন একটিমাত্র যোগসূত্রে। তাঁর কথায়, ডান দিকের দলের অবস্থা বলার পর আল্লাহ তার সঙ্গে জুড়ে দিলেন বাম দিকের দলের কথা।"
           },
           {
             "en": "That clause sets the frame for this article. The right-hand group was introduced at 56:27, and the verses after it describe their shade, water and fruit. The present verse opens the matching account of the other side, and the description itself runs from 56:42 onward. The article stays with the five words: the name, the people it covers, and the question that follows the name. What these people suffer, and why, belongs to the verses that come next, and those verses are only pointed to here.",
-            "bn": "এই যোগসূত্রই এ লেখার কাঠামো ঠিক করে দেয়। ডান দিকের দলের কথা শুরু হয়েছিল ৫৬:২৭ আয়াতে। তার পরের আয়াতগুলোতে এসেছে তাদের ছায়া, পানি আর ফলের বর্ণনা। এ আয়াত খোলে অপর পক্ষের হিসাব, আর সেই বর্ণনা চলে ৫৬:৪২ থেকে সামনের দিকে। আমরা থাকব এই পাঁচ শব্দের ভেতরেই: নামটা কী, কাদের কথা বলছে, আর নামের পরে যে প্রশ্ন আসে তার মানে কী। তারা কী ভোগ করবে আর কেন, সে কথা পরের আয়াতগুলোর। এখানে শুধু সেদিকে ইশারা করা হবে।"
+            "bn": "এই যোগসূত্রই এ লেখার কাঠামো ঠিক করে দেয়। ডান দিকের দলের কথা শুরু হয়েছিল ৫৬:২৭ আয়াতে। তার পরের আয়াতগুলোতে এসেছে তাদের ছায়া, পানি আর ফলের বর্ণনা। এ আয়াত দিয়ে শুরু হয় অপর পক্ষের কথা, আর মূল বর্ণনা চলে ৫৬:৪২ থেকে সামনে। আমরা থাকব এই পাঁচ শব্দের ভেতরেই: নামটা কী, কাদের কথা বলছে, আর নামের পরে যে প্রশ্ন আসে তার মানে কী। তারা কী ভোগ করবে আর কেন, সে কথা পরের আয়াতগুলোর। এখানে শুধু সেদিকে ইশারা করা হবে।"
           }
         ]
       },
@@ -961,7 +961,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second half of the verse is a question built on the name: ma ashabu sh-shimal, what are the companions of the left? The name is not replaced by a pronoun; it is said again in full. Ibn Kathir's Arabic note turns the question into plainer words: what is the thing that they are in, the companions of the left? On his reading the question is not about who they are, which the name has already said, but about the condition in which they find themselves.",
-            "bn": "আয়াতের দ্বিতীয় অর্ধেক নামটার উপর দাঁড়ানো এক প্রশ্ন: মা আসহাবুশ শিমাল, কী বাম দিকের দল! নামটার জায়গায় কোনো সর্বনাম বসেনি, পুরো নামটাই আবার এসেছে। ইবন কাসীরের আরবি তাফসীর প্রশ্নটাকে সহজ কথায় খুলে বলে: বাম দিকের দল কীসের মধ্যে আছে? তাঁর পাঠে প্রশ্নটা তারা কারা তা নিয়ে নয়। সেটা তো নামেই বলা হয়ে গেছে। প্রশ্নটা তাদের অবস্থা নিয়ে, তারা কোন হালে পড়েছে তা নিয়ে।"
+            "bn": "আয়াতের দ্বিতীয় অর্ধেক নামটার উপর দাঁড়ানো এক প্রশ্ন: মা আসহাবুশ শিমাল, কেমন সেই বাম দিকের দল? নামটার জায়গায় কোনো সর্বনাম বসেনি, পুরো নামটাই আবার এসেছে। ইবন কাসীরের আরবি তাফসীর প্রশ্নটাকে সহজ কথায় খুলে বলে: বাম দিকের দল কীসের মধ্যে আছে? তাঁর পাঠে প্রশ্নটা তারা কারা তা নিয়ে নয়। সেটা তো নামেই বলা হয়ে গেছে। প্রশ্নটা তাদের অবস্থা নিয়ে, তারা কোন হালে পড়েছে তা নিয়ে।"
           },
           {
             "en": "The abridged English Ibn Kathir puts it in nearly the same way: meaning, what is the condition of those on the left. It then adds that Allah explains His own question in the words that follow, beginning with the scorching wind of 56:42. On this reading the verse is the first half of a thought that the next verses complete. Al-Baghawi's note on this verse, as fetched, only repeats the verse's own words, so no reading is taken from him here.",
@@ -981,7 +981,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi gives the question a different weight. Having named them, he says, Allah made the mention of them grave in affliction and punishment, and then said: what are the companions of the left. For him the question magnifies what is about to fall on them. The Muyassar turns it into an exclamation: and the companions of the left, how evil is their state, their recompense! In its wording the question already carries its own verdict, before the details arrive.",
-            "bn": "কুরতুবী প্রশ্নটাকে দেন অন্য রকম ভার। তাঁর কথায়, নাম নেওয়ার পর আল্লাহ বিপদ আর শাস্তির প্রসঙ্গে তাদের উল্লেখকে ভারী করে তুললেন, তারপর বললেন: কী বাম দিকের দল! তাঁর কাছে প্রশ্নটা তাদের উপর যা আসছে তার ভয়াবহতা বড় করে দেখায়। মুয়াসসার প্রশ্নটাকে বিস্ময়ের বাক্যে বদলে দেয়: আর বাম দিকের দল, কত মন্দ তাদের অবস্থা, তাদের প্রতিফল! এ ভাষায় খুঁটিনাটি আসার আগেই প্রশ্নটার ভেতরে রায়টা বসে আছে।"
+            "bn": "কুরতুবী প্রশ্নটাকে দেন অন্য রকম ভার। তাঁর কথায়, নাম নেওয়ার পর আল্লাহ বিপদ আর শাস্তির প্রসঙ্গে তাদের উল্লেখকে ভারী করে তুললেন, তারপর বললেন: কেমন সেই বাম দিকের দল? তাঁর কাছে প্রশ্নটা তাদের উপর যা আসছে তার ভয়াবহতা বড় করে দেখায়। মুয়াসসার প্রশ্নটাকে বিস্ময়ের বাক্যে বদলে দেয়: আর বাম দিকের দল, কত মন্দ তাদের অবস্থা, তাদের প্রতিফল! এ ভাষায় খুঁটিনাটি আসার আগেই প্রশ্নটার ভেতরে রায়টা বসে আছে।"
           },
           {
             "en": "Set together, the notes stress different things. At-Tabari and Qatada stress wonder and what has been prepared; al-Qurtubi stresses the gravity of the punishment; Ibn Kathir stresses their condition; the Muyassar exclaims at how evil that condition is. None of the notes ranks one sense above another, and they do not exclude each other. The two translations on this site show the same range: the English keeps the question, what are the companions of the left, while the Bengali renders it as an exclamation at how wretched they are.",
@@ -1001,7 +1001,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Those verses are ground for later articles in this series. 56:42 to 56:44 name the scorching wind, the scalding water and the shade of black smoke that is neither cool nor beneficial. 56:45 and 56:46 give reasons: their indulgence in affluence before that, and their persistence in the great violation. 56:47 reports their denial of being raised again once they have become dust and bones. Each will be read in its own place. Here it is enough to see that the question of 56:41 is not left hanging.",
-            "bn": "ওই আয়াতগুলো এ ধারার পরের লেখাগুলোর বিষয়। ৫৬:৪২ থেকে ৫৬:৪৪ আয়াতে আছে জ্বলন্ত হাওয়া, ফুটন্ত পানি আর কালো ধোঁয়ার ছায়ার কথা, যা শীতলও নয়, উপকারীও নয়। ৫৬:৪৫ ও ৫৬:৪৬ আয়াত কারণ জানায়: এর আগে তারা ভোগবিলাসে ডুবে ছিল, আর বড় গুনাহে অটল ছিল। ৫৬:৪৭ আয়াত তুলে ধরে তাদের অস্বীকার, মাটি আর হাড় হয়ে যাওয়ার পর আবার উঠানো হবে, এ কথা তারা মানত না। প্রতিটি আয়াত পড়া হবে তার নিজের জায়গায়। এখানে এটুকু দেখাই যথেষ্ট যে ৫৬:৪১ আয়াতের প্রশ্ন ঝুলে থাকে না।"
+            "bn": "ওই আয়াতগুলো এ ধারার পরের লেখাগুলোর বিষয়। ৫৬:৪২ থেকে ৫৬:৪৪ আয়াতে আছে জ্বলন্ত হাওয়া, ফুটন্ত পানি আর কালো ধোঁয়ার ছায়ার কথা, যা শীতলও নয়, উপকারীও নয়। ৫৬:৪৫ ও ৫৬:৪৬ আয়াত কারণ জানায়: এর আগে তারা ভোগবিলাসে ডুবে ছিল, আর বড় গুনাহে অটল ছিল। ৫৬:৪৭ আয়াতে আছে তাদের অস্বীকারের কথা: মাটি আর হাড় হয়ে যাওয়ার পর আবার ওঠানো হবে, এ কথা তারা মানত না। প্রতিটি আয়াত পড়া হবে তার নিজের জায়গায়। এখানে এটুকু দেখাই যথেষ্ট যে ৫৬:৪১ আয়াতের প্রশ্ন ঝুলে থাকে না।"
           }
         ]
       },
@@ -1021,7 +1021,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "No hadith is attached to this verse in the notes fetched for it. At-Tabari's only report is the gloss of Qatada quoted above, which explains the meaning and is not a saying of the Prophet ﷺ. Ma'arif al-Qur'an's note for this group of verses discusses 56:39 and 56:40, and the narration it cites concerns those verses, not this one. Narrations sometimes linked with the right and the left could not be confirmed on a fetched page with their collector's grading, so they are left out.",
-            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোতে আয়াতটির সঙ্গে জোড়া কোনো হাদীস নেই। তাবারীর একমাত্র বর্ণনা কাতাদার সেই ব্যাখ্যা, যা উপরে এসেছে। সেটা অর্থের ব্যাখ্যা, নবী ﷺ-এর বাণী নয়। মাআরিফুল কুরআন এই আয়াতগুচ্ছের আলোচনায় কথা বলে ৫৬:৩৯ ও ৫৬:৪০ আয়াত নিয়ে, আর সেখানে উদ্ধৃত বর্ণনাটি ওই আয়াতগুলোর, এ আয়াতের নয়। ডান আর বাম নিয়ে কখনো কখনো যে বর্ণনাগুলো আনা হয়, সংকলকের নিজের মানসহ কোনো আনা পাতায় সেগুলো নিশ্চিত করা যায়নি। তাই সেগুলো বাদ রাখা হলো।"
+            "bn": "এ আয়াতের জন্য আনা তাফসীরগুলোতে আয়াতটির সঙ্গে জোড়া কোনো হাদিস নেই। তাবারীর একমাত্র বর্ণনা কাতাদার সেই ব্যাখ্যা, যা উপরে এসেছে। সেটা অর্থের ব্যাখ্যা, নবী ﷺ-এর বাণী নয়। মাআরিফুল কুরআন এই আয়াতগুচ্ছের আলোচনায় কথা বলে ৫৬:৩৯ ও ৫৬:৪০ আয়াত নিয়ে, আর সেখানে উদ্ধৃত বর্ণনাটি ওই আয়াতগুলোর, এ আয়াতের নয়। ডান আর বাম নিয়ে কখনো কখনো যেসব বর্ণনা আনা হয়, সংকলকের দেওয়া মানসহ সেগুলো সংগৃহীত কোনো পাতায় যাচাই করা যায়নি। তাই সেগুলো বাদ রাখা হলো।"
           }
         ]
       },
@@ -1048,7 +1048,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Third Thing They Were",
-          "bn": "তৃতীয় যে কথা তাদের সম্পর্কে"
+          "bn": "তাদের সম্পর্কে তৃতীয় কথা"
         },
         "p": [
           {
@@ -1057,7 +1057,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir's English abridgement introduces 56:45 with the words that Allah then stated they deserve this end. They indulged in luxury, he writes, enjoying life's pleasures and satisfying their lusts in the life of the world, all the while ignoring what the Messengers brought to them. On 56:46 he reports that the great sin in which they persisted means idolatry, according to Ibn Abbas and others; that gloss belongs to 56:46 and is left there. Then 56:47 adds a third thing about them, and this time it is something they said.",
-            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ৫৬:৪৫ আয়াত শুরু করে এই বলে যে, আল্লাহ এরপর জানালেন তারা কেন এ পরিণতির যোগ্য। তাঁর ভাষায়, দুনিয়ার জীবনে তারা ভোগবিলাসে মজে ছিল, মজা লুটত আর কামনা মেটাত, অথচ রাসূলরা যা নিয়ে এসেছিলেন তার দিকে ফিরেও তাকাত না। ৫৬:৪৬ আয়াতে যে বড় গুনাহে তারা অটল ছিল, ইবন আব্বাস ও অন্যদের সূত্রে তিনি তার অর্থ বলেন শিরক। সে ব্যাখ্যা ৫৬:৪৬ আয়াতের, সেখানেই থাক। ৫৬:৪৭ আয়াত তাদের সম্পর্কে তৃতীয় একটি কথা যোগ করে, আর এবার সেটা তাদের মুখের কথা।"
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ৫৬:৪৫ আয়াতের আলোচনা শুরু করে এ কথায়: এরপর আল্লাহ জানালেন, তারা এ পরিণতিরই যোগ্য। তাঁর ভাষায়, দুনিয়ার জীবনে তারা ভোগবিলাসে মজে ছিল, মজা লুটত আর কামনা মেটাত, অথচ রাসূলরা যা নিয়ে এসেছিলেন তার দিকে ফিরেও তাকাত না। ৫৬:৪৬ আয়াতে যে বড় গুনাহে তারা অটল ছিল, ইবন আব্বাস ও অন্যদের সূত্রে তিনি তার অর্থ বলেন শিরক। সে ব্যাখ্যা ৫৬:৪৬ আয়াতের, সেখানেই থাক। ৫৬:৪৭ আয়াত তাদের সম্পর্কে তৃতীয় একটি কথা যোগ করে, আর এবার সেটা তাদের মুখের কথা।"
           },
           {
             "en": "The same abridgement quotes 56:47 and 56:48 as one sentence and comments in one line: they said this while denying and rejecting the idea that resurrection will ever occur. Ibn Kathir's Arabic note on 56:47 is shorter still. They say it, he writes, mukadhdhibina bihi mustab'idina li-wuqu'ih: denying it, and deeming its occurrence far-off. Those two ideas, denial and distance, run through nearly every note fetched for this verse, and the sections below follow them one commentator at a time.",
