@@ -16,16 +16,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "An Argument, Not an Almanac",
-          "bn": "এটি পঞ্জিকা নয়, যুক্তি"
+          "bn": "পঞ্জিকা নয়, যুক্তি"
         },
         "p": [
           {
             "en": "Surah Yunus reaches this verse in the middle of a case about accountability. 10:3 states that your Lord is Allah, who created the heavens and the earth in six days and then established Himself above the Throne, arranging the matter, and that no one intercedes except after His permission. 10:4 follows with the return: to Him is your return, all together. Then comes the sun and the moon, and 10:6 adds the alternation of night and day as signs for a people who fear Allah.",
-            "bn": "সূরা ইউনুস এই আয়াতে পৌঁছায় জবাবদিহি নিয়ে একটি যুক্তির মাঝখানে। 10:3 আয়াত বলে, তোমাদের প্রতিপালক আল্লাহ, যিনি ছয় দিনে আসমানসমূহ ও যমীন সৃষ্টি করেছেন, তারপর আরশে সমুন্নত হয়েছেন এবং সব বিষয় পরিচালনা করছেন, আর তাঁর অনুমতির পরে ছাড়া কেউ সুপারিশ করে না। 10:4 আয়াত আসে প্রত্যাবর্তনের কথা নিয়ে: তোমাদের সকলের ফেরা তাঁরই কাছে। এরপর আসে সূর্য ও চন্দ্র, আর 10:6 আয়াত যোগ করে রাত ও দিনের পালাবদল — মুত্তাকীদের জন্য নিদর্শন।"
+            "bn": "সূরা ইউনুসে এই আয়াত আসে জবাবদিহি নিয়ে চলা এক যুক্তির মাঝখানে। ১০:৩ আয়াত বলে, তোমাদের প্রতিপালক আল্লাহ, যিনি ছয় দিনে আসমান ও যমীন সৃষ্টি করেছেন, তারপর আরশে সমুন্নত হয়েছেন, আর সব বিষয় তিনিই পরিচালনা করেন; তাঁর অনুমতি ছাড়া কেউ সুপারিশ করতে পারে না। ১০:৪ আয়াতে আসে ফিরে যাওয়ার কথা: তোমাদের সবাইকে তাঁরই কাছে ফিরতে হবে। এরপর আসে সূর্য আর চাঁদের কথা, আর ১০:৬ আয়াত যোগ করে রাত-দিনের পালাবদল, যা আল্লাহকে ভয় করে এমন লোকদের জন্য নিদর্শন।"
           },
           {
             "en": "So the sky is being entered as evidence in a hearing, not admired for its own sake. The point being argued is that a Lord who arranges the heavens is a Lord who will arrange a reckoning, and that the same precision which lets a farmer know when to plant will let a Day be appointed. Nothing in the passage encourages reading the verse as a piece of astronomy detached from that argument.",
-            "bn": "অর্থাৎ আকাশকে এখানে আনা হচ্ছে একটি বিচারে সাক্ষ্য হিসেবে, নিজের সৌন্দর্যের জন্য প্রশংসিত হতে নয়। যে কথাটি প্রমাণ করা হচ্ছে তা হলো: যে প্রভু আসমান পরিচালনা করেন তিনিই হিসাব-নিকাশের ব্যবস্থা করবেন, আর যে নিখুঁত হিসাব একজন কৃষককে বলে দেয় কখন বীজ বুনতে হবে, সেই হিসাবেই একটি দিন নির্ধারিত হতে পারে। পুরো অংশের কোথাও আয়াতটিকে সেই যুক্তি থেকে বিচ্ছিন্ন করে জ্যোতির্বিদ্যার টুকরো হিসেবে পড়ার উৎসাহ নেই।"
+            "bn": "তাহলে আকাশকে এখানে আনা হয়েছে বিচারের সাক্ষ্য হিসেবে, শুধু তাকিয়ে মুগ্ধ হওয়ার জন্য নয়। যুক্তিটা এই: যে রব আসমানকে এমন নিয়মে চালান, তিনিই হিসাব-নিকাশের ব্যবস্থাও করবেন। যে নিখুঁত হিসাবে একজন কৃষক বোঝে কখন বীজ বুনতে হবে, সেই হিসাবেই একটি দিনও ঠিক করে রাখা যায়। গোটা অংশের কোথাও এমন ইঙ্গিত নেই যে আয়াতটিকে এই যুক্তি থেকে আলাদা করে জ্যোতির্বিদ্যার পাঠ হিসেবে পড়তে হবে।"
           }
         ]
       },
@@ -37,11 +37,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The sun is called diya' and the moon nur, and classical commentators treat the choice as deliberate. They take diya' as the stronger word, light that blazes from the thing itself and comes with burning; nur they take as the milder light by which things are seen. Elsewhere the Quran calls the sun a siraj, a lamp, at 25:61 and again at 71:16, where the same verse calls the moon nur — so the vocabulary is consistent across the Book.",
-            "bn": "সূর্যকে বলা হয়েছে যিয়া আর চন্দ্রকে নূর, আর ক্লাসিক্যাল মুফাসসিরগণ এই শব্দচয়নকে উদ্দেশ্যপ্রণোদিত হিসেবেই দেখেন। তাঁরা যিয়াকে নেন শক্তিশালী শব্দ হিসেবে — এমন আলো যা বস্তুটি থেকেই জ্বলে ওঠে এবং দহনসহ আসে; আর নূরকে নেন মৃদু আলো হিসেবে, যার দ্বারা জিনিস দেখা যায়। অন্যত্র কুরআন সূর্যকে সিরাজ অর্থাৎ প্রদীপ বলে — 25:61 আয়াতে, আবার 71:16 আয়াতে, যেখানে একই আয়াত চন্দ্রকে নূর বলে। ফলে গোটা কিতাব জুড়ে শব্দব্যবহার সঙ্গতিপূর্ণ।"
+            "bn": "সূর্যকে বলা হয়েছে যিয়া, আর চাঁদকে নূর। পূর্বসূরি মুফাসসিরগণ এই শব্দ বাছাইকে ইচ্ছাকৃত বলেই ধরেন। তাঁদের মতে যিয়া জোরালো শব্দ: এমন আলো, যা জিনিসটির নিজের ভেতর থেকে জ্বলে ওঠে, সঙ্গে থাকে পোড়ানোর তেজ। আর নূর কোমল আলো, যার সাহায্যে জিনিস দেখা যায়। কুরআন অন্য জায়গায় সূর্যকে সিরাজ, অর্থাৎ প্রদীপ বলেছে: ২৫:৬১ আয়াতে, আবার ৭১:১৬ আয়াতে, আর সেই আয়াতেই চাঁদকে বলা হয়েছে নূর। ফলে গোটা কিতাবে শব্দের ব্যবহার একই রকম থেকেছে।"
           },
           {
             "en": "It is worth being careful about what this does not establish. The verse distinguishes two kinds of light by name; the Arabic says only nur, and where a translation calls the moon a derived or a reflected light that is the translator's interpretation and not a word in the verse. It makes no statement about the mechanism by which the moon comes to have its light, and a reader who presses it into saying more than that is adding to it rather than reading it.",
-            "bn": "কী প্রতিষ্ঠিত হচ্ছে না, সে ব্যাপারে সতর্ক থাকা দরকার। আয়াতটি নাম দিয়ে দুই ধরনের আলোকে আলাদা করে; আরবিতে আছে কেবল 'নূর', আর কোনো অনুবাদ যদি চন্দ্রকে 'আহরিত' বা 'প্রতিফলিত' আলো বলে, তা অনুবাদকের ব্যাখ্যা — আয়াতের শব্দ নয়। চন্দ্র কোন প্রক্রিয়ায় তার আলো পায় সে বিষয়ে আয়াতটি কিছুই বলে না, আর যে পাঠক এর চেয়ে বেশি কথা বলাতে চাপ দেন তিনি আয়াতটি পড়ছেন না, তাতে যোগ করছেন।"
+            "bn": "তবে এ থেকে কী প্রমাণ হয় না, সে ব্যাপারে সাবধান থাকা দরকার। আয়াতটি নাম দিয়ে দুই রকম আলোকে আলাদা করেছে, এটুকুই। আরবিতে আছে শুধু 'নূর'। কোনো অনুবাদ যদি চাঁদের আলোকে 'ধার করা' বা 'প্রতিফলিত' আলো বলে, সেটা অনুবাদকের ব্যাখ্যা, আয়াতের শব্দ নয়। চাঁদ কীভাবে তার আলো পায়, সে বিষয়ে আয়াত কিছুই বলে না। যে পাঠক জোর করে আয়াতের মুখে এর চেয়ে বেশি কথা বসান, তিনি আয়াত পড়ছেন না, আয়াতে নিজের কথা যোগ করছেন।"
           }
         ]
       },
@@ -53,11 +53,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa qaddarahu manazila — and He determined for it stations. The pronoun is singular, and most of the commentators refer it to the moon, the nearer of the two just mentioned, glossing manazil as the stations it passes through in the course of a month. The verb qaddara is from the root of qadar, measuring out. Nothing about the path is casual; it is portioned.",
-            "bn": "ওয়া কাদ্দারাহু মানাযিলা — আর তিনি তার জন্য মানযিল নির্ধারণ করেছেন। সর্বনামটি একবচন, আর অধিকাংশ মুফাসসির একে ফিরিয়ে দেন চন্দ্রের দিকে — এইমাত্র উল্লেখ করা দুটির মধ্যে নিকটতরটি — এবং মানাযিলকে ব্যাখ্যা করেন সেই স্তরগুলো হিসেবে যেগুলো সে এক মাসের পথে অতিক্রম করে। কাদ্দারা ক্রিয়াপদটি এসেছে কাদার শব্দের ধাতু থেকে, যার অর্থ মেপে দেওয়া। এই পথের কোনো কিছুই আকস্মিক নয়; সবটাই মাপা।"
+            "bn": "ওয়া কাদ্দারাহু মানাজিলা: আর তিনি তার জন্য মানযিল নির্ধারণ করেছেন। সর্বনামটি একবচন। অধিকাংশ মুফাসসির একে চাঁদের দিকে ফেরান, কারণ এইমাত্র যে দুটির কথা এল, তার মধ্যে চাঁদের কথাই কাছে। মানাজিল বলতে তাঁরা বোঝান সেই স্তরগুলো, যা চাঁদ এক মাসের পথে একে একে পার হয়। কাদ্দারা ক্রিয়াটি এসেছে কাদার শব্দের ধাতু থেকে, যার অর্থ মেপে দেওয়া। এই পথের কিছুই এলোমেলো নয়; সবটাই ভাগ করে মাপা।"
           },
           {
             "en": "36:39 gives the same image with a comparison attached: the moon has been measured out in phases until it returns looking like the old dried stalk of a date palm. That is a description anyone can verify by looking up for a month, and it is the reason this particular sign carries weight. It is not reported to us; it is repeated in front of us, on schedule, without an instrument being required.",
-            "bn": "36:39 আয়াত একই ছবিকে একটি উপমাসহ দেয়: চন্দ্রের জন্য মানযিল নির্ধারিত হয়েছে, শেষ পর্যন্ত সে খেজুরগাছের পুরনো শুকনো ডাঁটার মতো হয়ে ফিরে আসে। এটি এমন বর্ণনা যা যে কেউ এক মাস আকাশের দিকে তাকিয়ে যাচাই করতে পারে, আর এ কারণেই এই নির্দিষ্ট নিদর্শনটির ওজন আছে। এটি আমাদের কাছে সংবাদ হিসেবে আসেনি; এটি আমাদের সামনে পুনরাবৃত্ত হয়, সময়মতো, কোনো যন্ত্রের প্রয়োজন ছাড়াই।"
+            "bn": "৩৬:৩৯ আয়াত একই ছবি দেয়, সঙ্গে একটি উপমাও: চাঁদের জন্য মানযিল মেপে দেওয়া হয়েছে, শেষে সে ফিরে আসে খেজুর গাছের পুরোনো শুকনো ডাঁটার মতো হয়ে। এ এমন বর্ণনা, যা যে কেউ এক মাস আকাশের দিকে তাকিয়ে মিলিয়ে নিতে পারে। আর এ কারণেই এই নিদর্শনের এত ওজন। এটা আমাদের কাছে শোনা খবর হয়ে আসেনি; আমাদের চোখের সামনেই বারবার ঘটে, ঠিক সময়মতো, কোনো যন্ত্র ছাড়াই।"
           }
         ]
       },
@@ -69,11 +69,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The stated purpose is human reckoning: that you may know the number of years and the account. 17:12 uses almost the same phrase of the night and the day, and 6:96 says the sun and the moon are for calculation. When people asked the Prophet ﷺ about the crescent moons, the answer given in 2:189 was of a piece with all of this: they are measurements of time for the people and for hajj.",
-            "bn": "ঘোষিত উদ্দেশ্যটি মানুষের হিসাব: যাতে তোমরা বছরের সংখ্যা ও হিসাব জানতে পার। 17:12 আয়াত প্রায় একই কথা বলে রাত ও দিন সম্পর্কে, আর 6:96 আয়াত বলে সূর্য ও চন্দ্র গণনার জন্য। মানুষ যখন নবী ﷺ-কে নতুন চাঁদ সম্পর্কে জিজ্ঞেস করেছিল, 2:189 আয়াতে যে উত্তর দেওয়া হলো তা এই সবকিছুরই সঙ্গে মেলে: সেগুলো মানুষের জন্য ও হজের জন্য সময় নির্ধারক।"
+            "bn": "উদ্দেশ্যটা আয়াত নিজেই বলে দিয়েছে: মানুষের হিসাব, যাতে তোমরা বছরের সংখ্যা আর হিসাব জানতে পার। ১৭:১২ আয়াত রাত আর দিন সম্পর্কে প্রায় একই কথা বলে, আর ৬:৯৬ আয়াত বলে, সূর্য আর চাঁদ হিসাবের জন্য। মানুষ যখন নবী ﷺ-কে নতুন চাঁদ সম্পর্কে জিজ্ঞেস করল, ২:১৮৯ আয়াতে যে জবাব এল, তাও এই সবকিছুর সঙ্গে মেলে: এগুলো মানুষের জন্য আর হজের জন্য সময়ের মাপকাঠি।"
           },
           {
             "en": "There is a quiet mercy in this. The calendar that fixes fasting and hajj hangs on something every human being can see without owning anything. A shepherd and an astronomer look at the same crescent and both know the month has turned. A worship schedule built on the sky is a schedule that no one can be priced out of and no authority can privately hold.",
-            "bn": "এর ভেতরে একটি নিঃশব্দ রহমত আছে। যে বর্ষপঞ্জি রোযা ও হজ নির্ধারণ করে, তা ঝুলে আছে এমন কিছুর ওপর যা প্রত্যেক মানুষ কোনো কিছুর মালিক না হয়েই দেখতে পায়। একজন রাখাল আর একজন জ্যোতির্বিদ একই বাঁকা চাঁদ দেখেন, আর দুজনেই বোঝেন মাস ঘুরে গেছে। আকাশের ওপর দাঁড়ানো ইবাদতের সময়সূচি এমন এক সূচি, যা থেকে কাউকে দামের কারণে বাদ দেওয়া যায় না এবং কোনো কর্তৃপক্ষ তা নিজের কব্জায় রাখতে পারে না।"
+            "bn": "এর ভেতরে এক নীরব রহমত আছে। রোজা আর হজের সময় যে পঞ্জিকা ঠিক করে, তা ঝুলে আছে এমন জিনিসের ওপর, যা দেখতে কাউকে কিছুর মালিক হতে হয় না। একজন রাখাল আর একজন জ্যোতির্বিদ একই বাঁকা চাঁদ দেখেন, আর দুজনেই বোঝেন নতুন মাস শুরু হয়ে গেছে। ইবাদতের সময়সূচি যখন আকাশের ওপর দাঁড়ানো, তখন টাকার অভাবে কাউকে তা থেকে বাদ পড়তে হয় না, আর কোনো কর্তৃপক্ষ তা গোপনে নিজের মুঠোয় রাখতে পারে না।"
           }
         ]
       },
@@ -85,11 +85,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Allah has not created that except bil-haqq, in truth. The clause rules out two readings at once: that the arrangement is accidental, and that it is decorative. 30:8 says the same of the heavens and the earth and adds a specified term to it. Purpose and expiry are stated together, and since 10:4 raised the question of the return this surah has been arguing for exactly that combination.",
-            "bn": "আল্লাহ এসব সৃষ্টি করেননি বিল-হক্ব অর্থাৎ যথাযথভাবে ছাড়া। এই বাক্যাংশটি একসঙ্গে দুটি পাঠ বাতিল করে দেয়: এই বিন্যাস আকস্মিক, কিংবা এটি নিছক সাজসজ্জা। 30:8 আয়াত আসমানসমূহ ও যমীন সম্পর্কে একই কথা বলে এবং তার সঙ্গে একটি নির্দিষ্ট মেয়াদ যোগ করে। উদ্দেশ্য আর মেয়াদ একসঙ্গে বলা হয়েছে, আর 10:4 আয়াত থেকে সূরাটি ঠিক এই সমন্বয়ের পক্ষেই যুক্তি দিয়ে আসছে।"
+            "bn": "আল্লাহ এসব সৃষ্টি করেছেন বিল-হক্ব, অর্থাৎ সত্য সহকারে; অন্য কোনোভাবে নয়। এই কথাটুকু একসঙ্গে দুটি ভুল পড়া বাতিল করে দেয়: এই বিন্যাস আকস্মিক, কিংবা নিছক সাজসজ্জা। ৩০:৮ আয়াত আসমান ও যমীন সম্পর্কে একই কথা বলে, সঙ্গে যোগ করে একটি নির্দিষ্ট মেয়াদ। উদ্দেশ্য আর মেয়াদ, দুটোই একসঙ্গে বলা হয়েছে। আর ১০:৪ আয়াতে ফিরে যাওয়ার কথা তোলার পর থেকে সূরাটি ঠিক এই জোড়ার পক্ষেই যুক্তি দিয়ে আসছে।"
           },
           {
             "en": "The closing verb is yufassilu, He lays the signs out in detail. The same verb ends 6:97 after the stars are named for guidance, there in the past tense — fassalna, We have detailed — and it returns in this exact form at 13:2, where the detailing is so that you may be certain of the meeting with your Lord. The signs, then, are not withheld and not obscure. They have been set out at length, and the variable the verse leaves open is the reader.",
-            "bn": "শেষ ক্রিয়াপদটি ইউফাসসিলু — তিনি নিদর্শনগুলো বিশদভাবে বিন্যস্ত করেন। পথনির্দেশের জন্য নক্ষত্রের কথা বলার পর 6:97 আয়াত একই ধাতুর ক্রিয়া দিয়ে শেষ হয়, তবে সেখানে তা অতীত কালে — 'ফাসসালনা', আমি বিশদভাবে বর্ণনা করেছি — আর ঠিক এই রূপটিই ফিরে আসে 13:2 আয়াতে, যেখানে এই বিশদ বিন্যাস এ জন্য যে তোমরা যেন তোমাদের প্রতিপালকের সাক্ষাৎ সম্পর্কে নিশ্চিত হও। অর্থাৎ নিদর্শনগুলো আটকে রাখা হয়নি, অস্পষ্টও নয়। সেগুলো বিস্তারিতভাবে বিছিয়ে দেওয়া হয়েছে, আর আয়াতটি যে চলকটি খোলা রাখে তা হলো পাঠক।"
+            "bn": "শেষ ক্রিয়াটি ইউফাসসিলু: তিনি নিদর্শনগুলো খুলে খুলে বর্ণনা করেন। পথ চেনার জন্য নক্ষত্রের কথা বলার পর ৬:৯৭ আয়াতও এই ক্রিয়া দিয়েই শেষ হয়, তবে সেখানে অতীত কালে: ফাসসালনা, আমি বিশদভাবে বর্ণনা করেছি। আর হুবহু এই রূপটিই আবার আসে ১৩:২ আয়াতে, যেখানে বিশদ বর্ণনার উদ্দেশ্য, তোমরা যেন তোমাদের প্রতিপালকের সাক্ষাৎ সম্পর্কে নিশ্চিত হও। তাহলে নিদর্শনগুলো লুকিয়ে রাখা হয়নি, অস্পষ্টও নয়। সেগুলো বিস্তারিত খুলে রাখা হয়েছে। আয়াত একটি জিনিসই খোলা রেখেছে, আর তা হলো পাঠক নিজে।"
           }
         ]
       }
@@ -109,7 +109,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Was there an occasion? Al-Baghawi reports that it is said the verse came down about an-Nadr ibn al-Harith, when he said what 8:32 records: O Allah, if this should be the truth from You, rain down upon us stones from the sky. Al-Qurtubi passes the same on as something said, that the verse means the people of Makkah, and closes with and Allah knows best. Neither gives it a chain, so the placement, not the occasion, carries the weight.",
-            "bn": "নাযিল হওয়ার কোনো উপলক্ষ আছে কি? বাগাভী বলছেন, বলা হয়ে থাকে যে আয়াতটি নেমেছে নাযর ইবনুল হারিসকে নিয়ে, যখন সে ৮:৩২ আয়াতে ধরা কথাটা বলেছিল, হে আল্লাহ, এটা যদি তোমার কাছ থেকে আসা সত্য হয় তবে আমাদের উপর আসমান থেকে পাথর বর্ষণ কর। কুরতুবীও কথাটা এভাবেই আনেন, বলা হয়ে থাকে যে আয়াতের লক্ষ্য মক্কার লোকেরা, আর শেষে যোগ করেন, আল্লাহই ভালো জানেন। কেউই সনদ দেন না। তাই এখানে উপলক্ষের চেয়ে আয়াতের অবস্থানটাই ভরসার জিনিস।"
+            "bn": "নাজিল হওয়ার কোনো উপলক্ষ আছে কি? বাগাভী বলছেন, বলা হয়ে থাকে যে আয়াতটি নেমেছে নাযর ইবনুল হারিসকে নিয়ে, যখন সে ৮:৩২ আয়াতে ধরা কথাটা বলেছিল, হে আল্লাহ, এটা যদি আপনার কাছ থেকে আসা সত্য হয়, তবে আমাদের উপর আসমান থেকে পাথর বর্ষণ করুন। কুরতুবীও কথাটা এভাবেই আনেন, বলা হয়ে থাকে যে আয়াতের লক্ষ্য মক্কার লোকেরা, আর শেষে যোগ করেন, আল্লাহই ভালো জানেন। কেউই সনদ দেন না। তাই এখানে উপলক্ষের চেয়ে আয়াতের অবস্থানটাই ভরসার জিনিস।"
           },
           {
             "en": "The surah's own frame supports reading it by position. 10:7 has already named a group who do not expect the meeting with Us, satisfied with the life of this world and secure in it. Our verse picks up that exact description at its close and says what is done with them. So this is not an aside about bad temper. It is the second half of a portrait the surah had already begun.",
@@ -140,12 +140,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "What the Hastened Evil Is",
-          "bn": "যে অকল্যাণ দ্রুত দেওয়ার কথা"
+          "bn": "তাড়াতাড়ি আনা অকল্যাণ বলতে কী"
         },
         "p": [
           {
             "en": "At-Tabari opens by supplying a word the verse leaves out. If Allah were to hasten the answering of their supplication for evil, meaning whatever harms a person or his property, as He hastens the good when they call for it, they would perish. Mujahid, cited there through four chains, makes it domestic: a man's word when angry at his child or his property, O Allah, do not bless him and curse him. Qatada puts it broadly: a supplication against himself and his wealth with what he would hate answered.",
-            "bn": "তাবারী শুরু করেন আয়াতের একটি উহ্য শব্দ যোগ করে। আল্লাহ যদি মানুষের অকল্যাণের দু'আ কবুল করায় তাড়াতাড়ি করতেন, অর্থাৎ যা তার নিজের বা তার সম্পদের ক্ষতি ডেকে আনে, ঠিক যেমন কল্যাণের ডাকে তিনি তাড়াতাড়ি সাড়া দেন, তাহলে তারা ধ্বংস হয়ে যেত। সেখানে চারটি সনদে তিনি মুজাহিদের কথা আনেন, আর ব্যাপারটা একেবারে ঘরের ভেতরের। সন্তানের বা সম্পদের উপর রাগ হলে মানুষ বলে ফেলে, হে আল্লাহ, এতে বরকত দিও না আর একে লানত কর। কাতাদা কথাটা চওড়া করে বলেন, মানুষ নিজের আর নিজের মালের বিরুদ্ধে এমন দু'আ করে, যা কবুল হলে তার নিজেরই অপছন্দ।"
+            "bn": "তাবারী শুরু করেন আয়াতের একটি উহ্য শব্দ যোগ করে। আল্লাহ যদি মানুষের অকল্যাণের দু'আ কবুল করায় তাড়াতাড়ি করতেন, অর্থাৎ যা তার নিজের বা তার সম্পদের ক্ষতি ডেকে আনে, ঠিক যেমন কল্যাণের ডাকে তিনি তাড়াতাড়ি সাড়া দেন, তাহলে তারা ধ্বংস হয়ে যেত। সেখানে চারটি সনদে তিনি মুজাহিদের কথা আনেন, আর ব্যাপারটা একেবারে ঘরের ভেতরের। সন্তানের বা সম্পদের উপর রাগ হলে মানুষ বলে ফেলে, হে আল্লাহ, এতে বরকত দেবেন না, একে লানত করুন। কাতাদা কথাটা চওড়া করে বলেন, মানুষ নিজের আর নিজের মালের বিরুদ্ধে এমন দু'আ করে, যা কবুল হলে তার নিজেরই অপছন্দ।"
           },
           {
             "en": "Al-Baghawi adds Ibn Abbas: it is what a man says in anger to his household and his child, may Allah curse you and not bless you. As-Sa'di does not limit the verse to supplication. He reads it of sin and consequence. If Allah hastened the evil when they brought about its causes, as He hastens the good when they bring about theirs, the punishment would have wiped them out. His summary is a pair of near-identical verbs: He grants them respite and does not neglect them.",
@@ -153,7 +153,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi lays the readings side by side instead of choosing. One is that if He hastened the punishment as they hasten the reward they would simply die, since in this world they were created weak, and will not be on the Day of Resurrection, created to last. Another, which he gives to Ibn Ishaq, restricts it to the disbeliever, whose term would be closed early so he reached the punishment of the hereafter sooner. Muqatil names an-Nadr. So the supplication reading and the punishment reading are a real disagreement.",
-            "bn": "কুরতুবী কোনো একটা মত বেছে না নিয়ে সবগুলো পাশাপাশি সাজান। একটি মত এই, তিনি যদি শাস্তি ততটাই তাড়াতাড়ি আনতেন যতটা তাড়াতাড়ি তারা পুরস্কার চায়, তবে তারা মরেই যেত। দুনিয়ায় তারা দুর্বল করেই সৃষ্টি, কিয়ামতের দিন তারা দুর্বল থাকবে না, সেদিন তাদের গড়া হবে টিকে থাকার জন্য। আরেক মত তিনি দেন ইবনু ইসহাকের নামে, যা আয়াতটিকে কাফিরের মধ্যে সীমিত করে। তার মেয়াদ আগেই চুকিয়ে দেওয়া হত, যাতে সে আখিরাতের শাস্তিতে তাড়াতাড়ি পৌঁছে যায়। নাযরের নামটা আনেন মুকাতিল। তাহলে দু'আর পড়া আর শাস্তির পড়া সত্যিকারের মতভেদ।"
+            "bn": "কুরতুবী কোনো একটা মত বেছে না নিয়ে সবগুলো পাশাপাশি সাজান। একটি মত এই, তিনি যদি শাস্তি ততটাই তাড়াতাড়ি আনতেন যতটা তাড়াতাড়ি তারা পুরস্কার চায়, তবে তারা মরেই যেত। দুনিয়ায় তারা দুর্বল করেই সৃষ্টি, কিয়ামতের দিন তারা দুর্বল থাকবে না, সেদিন তাদের গড়া হবে টিকে থাকার জন্য। আরেক মত তিনি দেন ইবনু ইসহাকের নামে, যা আয়াতটিকে কাফিরের মধ্যে সীমিত করে। তার মেয়াদ আগেই চুকিয়ে দেওয়া হত, যাতে সে আখিরাতের শাস্তিতে তাড়াতাড়ি পৌঁছে যায়। নাযরের নামটা আনেন মুকাতিল। তাহলে আয়াতটিকে দু'আর অর্থে নেওয়া আর শাস্তির অর্থে নেওয়া, এ দুইয়ের মধ্যে সত্যিকারের মতভেদ আছে।"
           }
         ]
       },
@@ -176,7 +176,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Do Not Curse Your Own",
-          "bn": "নিজের লোকের বিরুদ্ধে দু'আ নয়"
+          "bn": "আপনজনকে বদদু'আ নয়"
         },
         "p": [
           {
@@ -185,7 +185,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi cites the same prohibition from Sahih Muslim, in the expedition of Batn Buwat, where an Ansari's camel balked under him and he said to it, may Allah curse you. The Prophet ﷺ asked who was cursing his camel and told him to dismount and not travel in their company on something cursed. He also passes on, with no collection and no chain, a report that the Prophet ﷺ asked Allah not to answer a lover's supplication against the one he loves. Nothing rests on that.",
-            "bn": "একই নিষেধ কুরতুবী আনেন সহীহ মুসলিম থেকে, বাতনে বুওয়াতের অভিযানের ঘটনার ভেতর থেকে। এক আনসারীর উটটি তাঁর নিচে গোঁ ধরে বসে, আর তিনি উটটিকে বলে ফেলেন, আল্লাহ তোকে লানত করুন। নবী ﷺ জিজ্ঞেস করেন, কে নিজের উটকে লানত করল, তারপর তাকে নেমে যেতে বলেন, আর লানতপ্রাপ্ত কিছু নিয়ে তাঁদের সঙ্গে সফর করতে নিষেধ করেন। তিনি আরেকটি বর্ণনাও আনেন, কোনো সংকলনের নাম নেই, সনদও নেই, যেখানে নবী ﷺ আল্লাহর কাছে চেয়ে নিয়েছেন যে ভালোবাসার মানুষের বিরুদ্ধে ভালোবাসার মানুষের দু'আ কবুল না হোক। এই লেখার কিছুই তার উপর দাঁড়িয়ে নেই।"
+            "bn": "একই নিষেধ কুরতুবী আনেন সহীহ মুসলিম থেকে, বাতনে বুওয়াতের অভিযানের ঘটনার ভেতর থেকে। এক আনসারীর উটটি তাঁর নিচে গোঁ ধরে বসে, আর তিনি উটটিকে বলে ফেলেন, আল্লাহ তোকে লানত করুন। নবী ﷺ জিজ্ঞেস করেন, কে নিজের উটকে লানত করল, তারপর তাকে নেমে যেতে বলেন, আর লানতপ্রাপ্ত কিছু নিয়ে তাঁদের সঙ্গে সফর করতে নিষেধ করেন। তিনি আরেকটি বর্ণনাও আনেন, কোনো সংকলনের নাম নেই, সনদও নেই, যেখানে নবী ﷺ আল্লাহর কাছে চেয়েছেন, কেউ যাকে ভালোবাসে, তার বিরুদ্ধে তার বদদু'আ যেন কবুল না হয়। এই লেখার কিছুই তার উপর দাঁড়িয়ে নেই।"
           }
         ]
       },
@@ -197,7 +197,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "17:11 says man supplicates for evil as he does for good, and adds what our verse withholds, that man is ever hasty. Ibn Kathir sets it beside this verse himself. 13:6 turns the same haste outward, where they urge the Prophet ﷺ to bring on evil before good, and answers that his Lord is full of forgiveness despite their wrongdoing and severe in penalty. 16:61 states the rule our verse implies: were Allah to blame people for their wrongdoing He would leave no creature on the earth, but defers them to a named term. As-Sa'di quotes it here.",
-            "bn": "১৭:১১ আয়াত বলছে, মানুষ অকল্যাণ চায় যেভাবে কল্যাণ চাওয়া উচিত, আর সঙ্গে বলে দেয় সেই কথাটা, যা আমাদের আয়াত বলে না, মানুষ বড়ই তাড়াহুড়াকারী। ইবনু কাসীর নিজেই ওই আয়াতটিকে এই আয়াতের পাশে বসান। ১৩:৬ আয়াতে একই তাড়া বাইরের দিকে ঘোরানো, সেখানে তারা কল্যাণের আগেই অকল্যাণ আনার জন্য নবী ﷺ কে তাড়া দেয়, আর জবাব আসে, মানুষ সীমালঙ্ঘন করলেও তাঁর প্রতিপালক ক্ষমাশীল, আর তিনি শাস্তিদানেও কঠোর। ১৬:৬১ আয়াত সেই নিয়মটাই বলে, যা আমাদের আয়াত ইশারায় ধরে। আল্লাহ মানুষকে তাদের সীমালঙ্ঘনের জন্য পাকড়াও করলে যমীনে কোনো প্রাণীই রেহাই পেত না, কিন্তু তিনি নির্দিষ্ট কাল পর্যন্ত সময় দেন। সা'দী এটিই এখানে উদ্ধৃত করেন।"
+            "bn": "১৭:১১ আয়াত বলছে, মানুষ যেভাবে কল্যাণের জন্য দু'আ করে, সেভাবেই অকল্যাণের জন্যও দু'আ করে বসে। সঙ্গে সে আয়াত এমন একটি কথা বলে দেয়, যা আমাদের আয়াত বলে না: মানুষ বড়ই তাড়াহুড়াপ্রবণ। ইবনু কাসীর নিজেই ওই আয়াতটিকে এই আয়াতের পাশে বসান। ১৩:৬ আয়াতে একই তাড়া বাইরের দিকে ঘোরানো, সেখানে তারা কল্যাণের আগেই অকল্যাণ আনার জন্য নবী ﷺ-কে তাড়া দেয়, আর জবাব আসে, মানুষ সীমালঙ্ঘন করলেও তাঁর প্রতিপালক ক্ষমাশীল, আর তিনি শাস্তিদানেও কঠোর। ১৬:৬১ আয়াত সেই নিয়মটাই বলে, যা আমাদের আয়াত ইশারায় ধরে। আল্লাহ মানুষকে তাদের সীমালঙ্ঘনের জন্য পাকড়াও করলে যমীনে কোনো প্রাণীই রেহাই পেত না, কিন্তু তিনি নির্দিষ্ট কাল পর্যন্ত সময় দেন। সা'দী এটিই এখানে উদ্ধৃত করেন।"
           },
           {
             "en": "Two more sit close by. 10:19 carries the same passive verb and puts it to another use: were it not for a word that preceded from your Lord, it would have been judged between them over what they differ in. So the Quran twice says that a judgement was ready and a word held it back. The closing clause here is a formula kept for the same condition, as in 7:186. Heard together, the delay stops looking like slowness and starts looking like a decision He made and described.",
@@ -213,7 +213,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse has a use in the minute after something breaks. A child ruins something expensive, a spouse says the sentence that cannot be taken back, a partner disappears with money that was not his, and the mouth reaches for a curse before the mind reaches for anything. Mujahid's example is that minute, and the hadith asks a discipline small to describe and hard to do: say nothing then about your child, your household, your property or your own life that you would be ruined by if it were granted.",
-            "bn": "আয়াতটির কাজ আছে কিছু ভেঙে যাওয়ার পরের মিনিটটায়। সন্তান দামি কিছু নষ্ট করে ফেলল, স্বামী বা স্ত্রী এমন কথা বলল যা আর ফেরানো যায় না, শরিক অন্যের টাকা নিয়ে উধাও হল। মন কিছু ভাবার আগেই মুখ বদদু'আর দিকে হাত বাড়ায়। মুজাহিদের উদাহরণটা ওই মিনিটটার, আর হাদীস যে অভ্যাসটা চায় তা বলতে ছোট, করতে কঠিন। ওই মিনিটে সন্তান, পরিবার, সম্পদ কিংবা নিজের জীবন নিয়ে এমন কিছু মুখে আনবেন না, যা কবুল হয়ে গেলে আপনার সর্বনাশ হয়ে যায়।"
+            "bn": "আয়াতটির কাজ আছে কিছু ভেঙে যাওয়ার পরের মিনিটটায়। সন্তান দামি কিছু নষ্ট করে ফেলল, স্বামী বা স্ত্রী এমন কথা বলল যা আর ফেরানো যায় না, শরিক অন্যের টাকা নিয়ে উধাও হল। মন কিছু ভাবার আগেই মুখ থেকে বদদু'আ বেরিয়ে আসতে চায়। মুজাহিদের উদাহরণটা ওই মিনিটটার, আর হাদিস যে অভ্যাসটা চায় তা বলতে ছোট, করতে কঠিন। ওই মিনিটে সন্তান, পরিবার, সম্পদ কিংবা নিজের জীবন নিয়ে এমন কিছু মুখে আনবেন না, যা কবুল হয়ে গেলে আপনার সর্বনাশ হয়ে যায়।"
           },
           {
             "en": "The other half is a gratitude most people never practise. Nearly everyone can name a supplication that went unanswered, and many are quietly aggrieved about it still. Keep a second list beside that one: the prayers refused that should always have been refused. The job you begged for and did not get. The person you swore you could not live without. The ruin you called down on someone now closer to you than family. As-Sa'di's phrase covers the list: He gives respite, and He is not neglecting.",
@@ -229,11 +229,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse can be turned into a supplication in its own vocabulary, named as that rather than offered as a Sunnah text. O Allah, You do not hasten evil for us as we hurry You for good. Do not answer me in what I ask against myself, my children and my property. Hold back from me the words I say in anger, and keep me in the respite You give until I have used it for what it was given for.",
-            "bn": "আয়াতটিকে তার নিজের ভাষা দিয়েই দু'আ বানিয়ে নেওয়া যায়, তবে সেটিকে দু'আ বলেই চেনানো উচিত, সুন্নাহর কোনো পাঠ বলে নয়। হে আল্লাহ, আমরা যেভাবে আপনাকে কল্যাণের জন্য তাড়া দিই, আপনি সেভাবে আমাদের অকল্যাণে তাড়া করেন না। নিজের বিরুদ্ধে, সন্তানের বিরুদ্ধে আর সম্পদের বিরুদ্ধে যা চেয়ে ফেলি, তাতে আমাকে সাড়া দেবেন না। রাগের মুখে বলা কথাগুলো আমার কাছ থেকে ফিরিয়ে রাখুন। আপনার দেওয়া অবকাশেই আমাকে রাখুন, যতক্ষণ না যে কাজের জন্য তা দেওয়া হয়েছে সেই কাজে তা লাগাতে পারি।"
+            "bn": "আয়াতটিকে তার নিজের ভাষা দিয়েই দু'আ বানিয়ে নেওয়া যায়, তবে সেটিকে দু'আ বলেই চেনানো উচিত, সুন্নাহর কোনো পাঠ বলে নয়। হে আল্লাহ, আমরা যেভাবে কল্যাণের জন্য আপনাকে তাড়া দিই, আপনি সেভাবে আমাদের জন্য অকল্যাণ তাড়াতাড়ি আনেন না। নিজের বিরুদ্ধে, সন্তানের বিরুদ্ধে আর সম্পদের বিরুদ্ধে যা চেয়ে ফেলি, তাতে আমাকে সাড়া দেবেন না। রাগের মুখে বলা কথাগুলো আমার কাছ থেকে ফিরিয়ে রাখুন। আপনার দেওয়া অবকাশেই আমাকে রাখুন, যতক্ষণ না যে কাজের জন্য তা দেওয়া হয়েছে সেই কাজে তা লাগাতে পারি।"
           },
           {
             "en": "A second move is nearer to hand. The previous verse has supplied the vocabulary of a call that is safe to have answered: glorification, peace, and praise to the Lord of the worlds last. Nothing on that list can harm the one who says it. So when something must come out of the mouth, one of those is available, and it costs the same breath as the curse. Our verse warns about a speed; 10:10 hands over the words.",
-            "bn": "আরেকটা পথও আছে, আর তা আরও হাতের কাছে। আগের আয়াতই এমন এক ডাকের ভাষা দিয়ে রেখেছে, যা কবুল হলেও কোনো ভয় নেই। আল্লাহর পবিত্রতার ঘোষণা, সালাম, আর সবশেষে জগৎসমূহের প্রতিপালকের প্রশংসা। এই তালিকার কোনো কথাই বলনেওয়ালার ক্ষতি করতে পারে না। তাই মুখ দিয়ে কিছু একটা বেরোতেই হলে এগুলোর যেকোনোটি হাতের কাছেই আছে, আর বদদু'আর মতোই এক নিঃশ্বাসে তা বলা হয়ে যায়। আমাদের আয়াত একটা গতি নিয়ে সতর্ক করে, আর ১০:১০ আয়াত শব্দগুলো ধরিয়ে দেয়।"
+            "bn": "আরেকটা পথও আছে, আর তা আরও হাতের কাছে। আগের আয়াতই এমন এক ডাকের ভাষা দিয়ে রেখেছে, যা কবুল হলেও কোনো ভয় নেই। আল্লাহর পবিত্রতার ঘোষণা, সালাম, আর সবশেষে জগৎসমূহের প্রতিপালকের প্রশংসা। এই তালিকার কোনো কথাই যে বলে তার ক্ষতি করতে পারে না। তাই মুখ দিয়ে কিছু একটা বেরোতেই হলে এগুলোর যেকোনোটি হাতের কাছেই আছে, আর বদদু'আয় যতটুকু নিঃশ্বাস যায়, এগুলোতেও ততটুকুই। আমাদের আয়াত একটা গতি নিয়ে সতর্ক করে, আর ১০:১০ আয়াত শব্দগুলো ধরিয়ে দেয়।"
           }
         ]
       },
@@ -245,7 +245,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What did I ask for the last time I was furious, and what would my life look like if it had been granted the moment I said it? Which refused supplication am I still resentful about, and can I claim to know it was good for me? When I talk about my children or my money in anger, am I willing for Allah to act on those words as I said them? Which sentence do I reach for first when something breaks, the curse or the praise?",
-            "bn": "শেষবার যখন প্রচণ্ড রাগ হয়েছিল, আমি কী চেয়েছিলাম, আর যে মুহূর্তে বলেছিলাম সেই মুহূর্তেই তা পেয়ে গেলে আজ আমার জীবনটা কেমন দাঁড়াত? কোন দু'আ ফিরিয়ে দেওয়া হয়েছে বলে আমি এখনো অভিমান পুষে রাখি, আর সত্যিই কি দাবি করতে পারি যে ওটা আমার জন্য ভালো ছিল? সন্তান বা সম্পদ নিয়ে রাগের মাথায় যা বলি, আল্লাহ সেই কথামতো চললে আমি রাজি থাকতাম? আর কিছু ভেঙে গেলে আমার মুখে প্রথমে কোন বাক্যটা আসে, বদদু'আ না প্রশংসা?"
+            "bn": "শেষবার যখন প্রচণ্ড রাগ হয়েছিল, আমি কী চেয়েছিলাম, আর যে মুহূর্তে বলেছিলাম সেই মুহূর্তেই তা পেয়ে গেলে আজ আমার জীবনটা কেমন দাঁড়াত? কোন দু'আ ফিরিয়ে দেওয়া হয়েছে বলে আমি এখনো অভিমান পুষে রাখি, আর সত্যিই কি দাবি করতে পারি যে ওটা আমার জন্য ভালো ছিল? সন্তান বা সম্পদ নিয়ে রাগের মাথায় যা বলি, আল্লাহ যদি ঠিক সেই কথামতোই ব্যবস্থা নেন, আমি কি তাতে রাজি? আর কিছু ভেঙে গেলে আমার মুখে প্রথমে কোন বাক্যটা আসে, বদদু'আ না প্রশংসা?"
           },
           {
             "en": "The verse ends on people left wandering inside their own excess, describing what the text describes. It passes no sentence on any living community and hands nobody a verdict to carry out. So its question turns inward. If my term had been closed the first time I earned it, which part of my life would be missing, and who else would be missing it with me? Is there anyone I once cursed by name whom I now need to pray for by name?",
@@ -285,7 +285,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is thirty-nine words, leaving out the four pause marks printed in the line, and it splits cleanly: sixteen words carry the demand, twenty-three carry the ordered reply. The hinge between them is one root. Their imperative is baddil-hu, change it. The reply takes the very same verb into the first person, an ubaddila-hu, that I should change it, and sets ma yakunu li in front of it.",
-            "bn": "আয়াতটির শব্দ উনচল্লিশ, লাইনে ছাপা চারটি ওয়াকফ চিহ্ন বাদ দিয়ে গুনলে; আর ভাগটাও পরিষ্কার, ষোলো শব্দে দাবি, তেইশ শব্দে হুকুম করা জবাব। দুইয়ের মাঝের কবজাটা একটাই ধাতু। তাদের হুকুম বাদ্দিলহু, এটা বদলে দাও। জবাব সেই একই ক্রিয়াকে উত্তম পুরুষে নিয়ে আসে, আন উবাদ্দিলাহু, অর্থাৎ আমি এটা বদলাব; আর তার আগে বসিয়ে দেয় মা ইয়াকূনু লী।"
+            "bn": "আয়াতটিতে উনচল্লিশটি শব্দ, লাইনে ছাপা চারটি ওয়াকফ চিহ্ন বাদ দিয়ে গুনলে। ভাগটাও পরিষ্কার: ষোলো শব্দে দাবি, তেইশ শব্দে সেই জবাব, যা দিতে হুকুম করা হয়েছে। দুই ভাগকে জুড়ে রেখেছে একটিমাত্র ধাতু। তাদের হুকুম ছিল বাদ্দিলহু, এটা বদলে দাও। জবাবে সেই একই ক্রিয়া আসে নবীর নিজের মুখে, 'আমি' হয়ে: আন উবাদ্দিলাহু, অর্থাৎ আমি এটা বদলাব। আর তার আগে বসে মা ইয়াকূনু লী।"
           },
           {
             "en": "That phrase is the whole verse. It does not say I am unable. As-Sa'di reads it as it is not fitting for me and does not befit me. Then comes min tilqa'i nafsi, which at-Tabari renders min indi, from my own side. The restriction follows with in and illa: I follow nothing except what is revealed to me. And the last eight words give the reason, which is fear of the punishment of a tremendous Day.",
@@ -305,7 +305,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi separates the two halves of the demand with a distinction worth keeping: changing this Qur'an cannot stand together with it, while bringing another may stand together with it. So two exits were offered, a second book beside this one or this one amended. Then he lists three readings of what the amendment meant, and names the holder of each.",
-            "bn": "কুরতুবী দাবির দুই অংশকে আলাদা করেন এমন এক পার্থক্য দিয়ে, যা মনে রাখার মতো। এই কুরআনকে বদলে দেওয়া মানে এটির সঙ্গে সেটির একসঙ্গে টিকে থাকা চলে না; আর আরেকটা আনা মানে এটির সঙ্গে সেটির একসঙ্গে থাকা চলতে পারে। তাই তাঁকে দুটি রাস্তা দেখানো হয়েছিল, এটির পাশে আরেকটি কিতাব, নয়তো এটিকেই কেটে-ছেঁটে নেওয়া। এরপর তিনি সেই কাটাছেঁড়ার তিনটি ব্যাখ্যা সাজান, আর প্রত্যেকটির বক্তার নামও বলেন।"
+            "bn": "কুরতুবী দাবির দুই অংশকে আলাদা করেছেন, আর পার্থক্যটা মনে রাখার মতো। এই কুরআনকে বদলে দিলে এটি আর আগের মতো টিকে থাকে না; কিন্তু আরেকটা আনলে এটি পাশে থেকেই যেতে পারে। তাই তাঁর সামনে দুটি পথ রাখা হয়েছিল: এটির পাশে আরেকটি কিতাব, নয়তো এটিকেই কেটে-ছেঁটে নেওয়া। এরপর কুরতুবী সেই কাটাছেঁড়ার তিনটি ব্যাখ্যা সাজান, আর প্রত্যেকটি কার মত, তাও বলেন।"
           },
           {
             "en": "The first he gives to at-Tabari: that a verse of threat be turned into a verse of promise and a promise into a threat, the forbidden made lawful and the lawful forbidden. That reading is indeed in at-Tabari's own text. The second he gives to Ibn Isa: drop from the Qur'an what faults their gods and calls their judgement foolish. The third he gives to az-Zajjaj: drop what it says about the resurrection and the raising of the dead.",
@@ -341,7 +341,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi records a use some scholars make of this verse in usul: that the Book cannot be abrogated by the Sunnah, since Allah told him to say that changing it from himself was not his to do. Al-Qurtubi does not accept the inference and calls it far-fetched. His first reason is what the verse was about. The mushriks were asking for a Qur'an like this one in its composition, which was not in the Messenger's power, and they did not ask him to change a ruling while keeping the wording.",
-            "bn": "কুরতুবী জানান, কিছু আলিম উসূলে এই আয়াত থেকে একটি কথা বের করেন, সুন্নাহ দিয়ে কিতাবের নাসখ হয় না; কারণ আল্লাহ তাঁকে বলতে বলেছেন, নিজের কাছ থেকে এটি বদলানো তাঁর হাতে নেই। কুরতুবী এই দলিল মানেন না, বলেন এটি দূরের কথা। তাঁর প্রথম কারণ, আয়াতটি কী নিয়ে নেমেছে তা দেখা। মুশরিকরা চাইছিল এই কুরআনের মতো গঠনের আরেকটি কুরআন, যা রসূল ﷺ এর সাধ্যে ছিল না; আর তারা শব্দ রেখে শুধু হুকুম বদলাতে বলেনি।"
+            "bn": "কুরতুবী জানান, কিছু আলিম উসূলে এই আয়াত থেকে একটি কথা বের করেন: সুন্নাহ দিয়ে কিতাবের নাসখ হয় না, কারণ আল্লাহ তাঁকে বলতে বলেছেন, নিজের পক্ষ থেকে এটি বদলানো তাঁর কাজ নয়। কুরতুবী এই দলিল মানেন না; বলেন, এটা অনেক টেনে আনা কথা। তাঁর প্রথম কারণ, আয়াতটি কোন প্রসঙ্গে এসেছে। মুশরিকরা চাইছিল গঠনে এই কুরআনের মতো আরেকটি কুরআন, যা রাসূল ﷺ এর সাধ্যে ছিল না। শব্দ ঠিক রেখে শুধু হুকুম বদলাতে তারা বলেনি।"
           },
           {
             "en": "His second reason goes to what the Prophet ﷺ says: when it is revelation it is not from himself at all but from Allah, so it is not the case of a man amending a text of his own accord. The disagreement is left standing with both sides named, and 2:106 is where the changing is spoken of as Allah's own act, no verse withdrawn or made forgotten except that He brings one better than it or like it.",
@@ -361,7 +361,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two further verses guard the same door from the other side. 17:73 says they were about to tempt him away from what was revealed to him so that he would invent something else about Allah, and 17:74 says that had He not made him firm he would almost have inclined to them a little. 69:44-46 state what an invention would have cost: We would have seized him by the right hand, then cut from him the aorta. The editing was neither permitted nor survivable.",
-            "bn": "আরও দুটি আয়াত একই দরজা অন্য দিক থেকে পাহারা দেয়। ১৭:৭৩ আয়াত বলছে, তারা তো চেয়েছিল তাঁকে ওয়াহীর পথ থেকে সরিয়ে আনতে, যাতে তিনি আল্লাহর নামে অন্য কিছু বানিয়ে বলেন; আর ১৭:৭৪ আয়াত বলছে, তিনি তাঁকে অবিচল না রাখলে তিনি অল্প হলেও তাদের দিকে ঝুঁকে পড়তেন। ৬৯:৪৪-৪৬ আয়াত বলে দেয় বানিয়ে বলার দাম কী হত, আমরা তাঁকে ডান হাত ধরে ধরতাম, তারপর তাঁর ঘাড়ের ধমনি কেটে দিতাম। কাটাছেঁড়ার অনুমতিও ছিল না, সেটি করে বেঁচে থাকার উপায়ও ছিল না।"
+            "bn": "আরও দুটি আয়াত একই দরজা অন্য দিক থেকে পাহারা দেয়। ১৭:৭৩ আয়াত বলছে, তারা তো চেয়েছিল তাঁকে ওহির পথ থেকে সরিয়ে আনতে, যাতে তিনি আল্লাহর নামে অন্য কিছু বানিয়ে বলেন; আর ১৭:৭৪ আয়াত বলছে, তিনি তাঁকে অবিচল না রাখলে তিনি অল্প হলেও তাদের দিকে ঝুঁকে পড়তেন। ৬৯:৪৪-৪৬ আয়াত বলে দেয় বানিয়ে বলার দাম কী হত, আমরা তাঁকে ডান হাত ধরে ধরতাম, তারপর তাঁর জীবন-ধমনি কেটে দিতাম। কাটাছেঁড়ার অনুমতিও ছিল না, সেটি করে বেঁচে থাকার উপায়ও ছিল না।"
           }
         ]
       },
@@ -420,12 +420,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Sentence It Explains",
-          "bn": "যে বাক্যটির ব্যাখ্যা"
+          "bn": "যে কথার ব্যাখ্যা এই আয়াত"
         },
         "p": [
           {
             "en": "Surah Yunus has just put its readers on a ship. In 10:22 a good wind turns into a storm, the waves close in from every side, and the passengers call on Allah with sincere religion, promising that they will be among the thankful. 10:23 records what happens after the rescue: at once they transgress on the earth, and they are told that their wrongdoing is only against themselves, being the enjoyment of worldly life. That closing phrase is what this verse takes up and draws.",
-            "bn": "সূরা ইউনুস কিছু আগেই তার পাঠককে একটি জাহাজে তুলে দিয়েছে। 10:22-এ অনুকূল বাতাস ঝড়ে বদলে যায়, চারদিক থেকে ঢেউ ঘিরে ধরে, আর আরোহীরা নিষ্ঠার সঙ্গে আল্লাহকে ডাকে এবং প্রতিশ্রুতি দেয় যে তারা কৃতজ্ঞদের অন্তর্ভুক্ত হবে। 10:23 বলে উদ্ধারের পর কী ঘটে: সঙ্গে সঙ্গেই তারা যমীনে সীমালঙ্ঘন শুরু করে, আর তাদের বলা হয় যে তাদের এই বাড়াবাড়ি কেবল নিজেদেরই বিরুদ্ধে, এ তো দুনিয়ার জীবনের সামান্য ভোগমাত্র। শেষের সেই কথাটিকেই এই আয়াত তুলে নিয়ে ছবিতে আঁকে।"
+            "bn": "সূরা ইউনুস এর একটু আগেই পাঠককে জাহাজে তুলে দিয়েছে। ১০:২২ আয়াতে অনুকূল বাতাস হঠাৎ ঝড় হয়ে যায়, চারদিক থেকে ঢেউ এসে ঘিরে ধরে, আর যাত্রীরা দ্বীনকে আল্লাহর জন্য খাঁটি করে তাঁকে ডাকে, কথা দেয় যে তারা শোকরগুজার হয়ে থাকবে। ১০:২৩ আয়াত জানায়, উদ্ধার পাওয়ার পর কী হয়: সঙ্গে সঙ্গেই তারা যমীনে সীমালঙ্ঘন শুরু করে। তাদের জানিয়ে দেওয়া হয়, এই বাড়াবাড়ি তাদের নিজেদেরই বিরুদ্ধে; এ তো দুনিয়ার জীবনের ভোগমাত্র। শেষের এই কথাটিকেই আমাদের আয়াত তুলে নিয়ে ছবি এঁকে দেখায়।"
           }
         ]
       },
@@ -437,19 +437,19 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The comparison begins where the weight of it lies: not with a thing but with a process. The example of worldly life is like water We sent down from the sky, and the plants of the earth mingled with it — fakhtalata, an intermingling, growth pressing into growth until the ground is covered. Then a detail that is easy to read past: from it eat both the people and the livestock. The world genuinely feeds. The verse does not call it an illusion, and it is careful to say who is being fed.",
-            "bn": "উপমাটি শুরু হয় সেখান থেকেই যেখানে এর মূল ভার: কোনো বস্তু নয়, বরং একটি প্রক্রিয়া। দুনিয়ার জীবনের দৃষ্টান্ত সেই পানির মতো যা আমি আকাশ থেকে নামিয়েছি, আর তার সংস্পর্শে যমীনের উদ্ভিদ মিশে গেছে — ফাখতালাতা, অর্থাৎ পরস্পরে জড়িয়ে যাওয়া, গাছের ভেতর গাছ ঠেলে ওঠা, যতক্ষণ না মাটি ঢেকে যায়। এরপর এমন একটি বিবরণ যা সহজেই চোখ এড়িয়ে যায়: তা থেকে খায় মানুষও, গবাদিপশুও। দুনিয়া সত্যিই খাওয়ায়। আয়াত একে মায়া বলে না, বরং যত্ন করে বলে দেয় কারা এতে প্রতিপালিত হচ্ছে।"
+            "bn": "উপমাটি শুরু হয় ঠিক সেখান থেকে, যেখানে এর আসল ভার: কোনো জিনিস দিয়ে নয়, একটি চলমান ঘটনা দিয়ে। দুনিয়ার জীবনের দৃষ্টান্ত সেই পানির মতো, যা আমি আকাশ থেকে নামিয়েছি, আর তার সঙ্গে মিশে গেছে যমীনের গাছপালা। ফাখতালাতা মানে পরস্পর জড়িয়ে যাওয়া: এক চারা আরেক চারাকে ঠেলে বেড়ে ওঠে, যতক্ষণ না মাটি ঢেকে যায়। এরপর এমন একটি খুঁটিনাটি, যা সহজেই চোখ এড়িয়ে যায়: তা থেকে খায় মানুষ, খায় গবাদিপশুও। দুনিয়া সত্যিই খাওয়ায়। আয়াত একে মায়া বলে না, আর কারা এখান থেকে খাবার পায়, তাও যত্ন করে বলে দেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "The Turn at Hatta Idha",
-          "bn": "'হাত্তা ইযা'-তে মোড়"
+          "bn": "মোড় ঘোরে হাত্তা ইযা-তে"
         },
         "p": [
           {
             "en": "The pivot is the word hatta, until. Until the earth has taken on its zukhruf — the word for gold-work and gilding, and the name of the forty-third surah — and has adorned itself, and its people supposed that they had power over it. Every clause in that run is a peak, not a decline. The commentators fix on the verb zanna: supposition, not knowledge. And qadirun is a participle of capability. What the owners get wrong is not that the field is beautiful but that it is theirs to command.",
-            "bn": "মোড় ঘোরে 'হাত্তা' শব্দে — অর্থাৎ 'যতক্ষণ না', 'অবশেষে যখন'। যতক্ষণ না যমীন তার যুখরুফ ধারণ করে — শব্দটির অর্থ স্বর্ণালংকার বা সোনালি কারুকাজ, আর এ নামেই কুরআনের তেতাল্লিশতম সূরা — এবং নিজেকে শোভিত করে, আর তার মালিকেরা ভাবতে থাকে যে ওগুলো তাদের ক্ষমতার আওতায়। এই ধারাবাহিকতার প্রতিটি বাক্যাংশ উন্নতির চূড়া, পতনের নয়। মুফাসসিরগণ 'যান্না' ক্রিয়াপদটিতে থামেন: এটি ধারণা, জ্ঞান নয়। আর 'কাদিরূন' হলো সামর্থ্যের কর্তৃবাচক রূপ। মালিকদের ভুল এই নয় যে ক্ষেত সুন্দর, বরং এই যে ক্ষেত তাদের হুকুমের অধীন।"
+            "bn": "মোড়টা 'হাত্তা' শব্দে, অর্থাৎ 'যতক্ষণ না'। যতক্ষণ না যমীন তার যুখরুফ ধারণ করে আর নিজেকে সাজিয়ে তোলে, আর তার মালিকেরা ধরে নেয় যে এর ওপর তাদের পূর্ণ ক্ষমতা আছে। যুখরুফ মানে সোনার কারুকাজ, গিলটি; কুরআনের তেতাল্লিশতম সূরার নামও এটি। এই ধারার প্রতিটি কথা উন্নতির চূড়া, পতনের নয়। মুফাসসিরগণ 'যান্না' ক্রিয়াটিতে এসে থামেন: এটি অনুমান, জ্ঞান নয়। আর 'কাদিরূন' শব্দটি সামর্থ্য বোঝায়, যারা পারে। মালিকদের ভুল এই নয় যে ক্ষেতটা সুন্দর; ভুল এই যে তারা ভেবেছে ক্ষেত তাদের হুকুমে চলবে।"
           }
         ]
       },
@@ -461,11 +461,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then, in one clause, everything: there comes to it Our command by night or by day, and We make it a mown field, as if it had not flourished yesterday. Laylan aw naharan leaves no protected hour. Hasid is the cut crop, the harvest. And the closing four Arabic words say yesterday, not an age ago — the whole prosperous history of that field is denied in a breath, using a verb whose root carries the sense of dwelling in plenty.",
-            "bn": "এরপর একটিমাত্র বাক্যাংশে সবকিছু: রাতে কিংবা দিনে তার ওপর আমার নির্দেশ এসে পড়ে, আর আমি তাকে কেটে ফেলা ফসলের মতো করে দিই, যেন গতকাল সেখানে কিছুই ছিল না। 'লাইলান আও নাহারান' কোনো নিরাপদ প্রহর অবশিষ্ট রাখে না। 'হাসীদ' মানে কাটা ফসল। আর শেষের চারটি আরবি শব্দ বলে 'গতকাল' — বহু যুগ আগে নয়; ওই ক্ষেতের গোটা সমৃদ্ধ ইতিহাস এক নিঃশ্বাসে অস্বীকার করা হয়, আর যে ক্রিয়াপদে তা বলা হয় তার মূলে আছে প্রাচুর্যের মধ্যে বসবাসের অর্থ।"
+            "bn": "এরপর একটিমাত্র বাক্যে সব শেষ: রাতে কিংবা দিনে তার ওপর আমার আদেশ এসে পড়ে, আর আমি তাকে কেটে নেওয়া ফসলের মতো করে দিই, যেন গতকালও তা ফুলে-ফলে ভরা ছিল না। 'লাইলান আও নাহারান' কোনো প্রহরকেই নিরাপদ রাখে না। 'হাসীদ' মানে কেটে নেওয়া ফসল। আর শেষের চারটি আরবি শব্দ বলে 'গতকাল', বহু যুগ আগে নয়। ওই ক্ষেতের গোটা সুখের ইতিহাস এক নিঃশ্বাসে নাকচ হয়ে যায়, আর যে ক্রিয়া দিয়ে তা বলা হয়, তার ধাতুতেই আছে প্রাচুর্যের মধ্যে বসবাসের অর্থ।"
           },
           {
             "en": "Set the Quran's tellings of this parable side by side and the endings differ. 18:45 ends with dry remnants scattered by the winds. 57:20 ends with a crop that yellows and crumbles to chaff, a decline anyone can watch happening. This one ends with a command arriving overnight on a field still at its best. The picture is varied because loss is varied; what does not vary is that the green stage was never the whole of the story.",
-            "bn": "কুরআনে এই উপমার বিভিন্ন বর্ণনা পাশাপাশি রাখলে দেখা যায়, শেষগুলো আলাদা। 18:45 শেষ হয় শুকনো খড়কুটোয়, যা বাতাস উড়িয়ে নেয়। 57:20 শেষ হয় হলুদ হয়ে যাওয়া আর গুঁড়ো হয়ে ভেঙে পড়া ফসলে — এমন ক্ষয় যা যে কেউ চোখের সামনে ঘটতে দেখতে পারে। আর এখানে শেষ হয় সবচেয়ে ভালো অবস্থায় থাকা ক্ষেতের ওপর রাতারাতি নেমে আসা এক নির্দেশে। ছবিটি বদলায়, কারণ ক্ষতির ধরনও বদলায়; যা বদলায় না তা হলো — সবুজ পর্যায়টিই কখনো পুরো গল্প ছিল না।"
+            "bn": "কুরআনে এই উপমা কয়েক জায়গায় এসেছে; পাশাপাশি রাখলে দেখা যায়, শেষটা প্রতিবার আলাদা। ১৮:৪৫ শেষ হয় শুকনো খড়কুটোয়, যা বাতাসে উড়ে যায়। ৫৭:২০ শেষ হয় এমন ফসলে, যা হলুদ হয়ে যায়, তারপর ভেঙে খড় হয়ে যায়; এই ক্ষয় যে কেউ চোখের সামনে ঘটতে দেখে। আর এখানে শেষ হয় এমন ক্ষেতে, যা তখনও সবচেয়ে ভালো অবস্থায়, অথচ রাতারাতি তার ওপর আদেশ নেমে আসে। ছবি বদলায়, কারণ ক্ষতিও নানা রকম। যা বদলায় না তা এই: সবুজ সময়টুকু কখনোই পুরো গল্প ছিল না।"
           }
         ]
       },
@@ -477,7 +477,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes by naming its audience: thus do We lay out the signs in detail for a people who reflect, yatafakkarun. Tafakkur is not admiration; it is working something out, taking what stands in front of you and drawing the conclusion from it. And the very next verse refuses to leave the reader standing in a ruined field. 10:25 says that Allah invites to Dar as-Salam, the Home of Peace, and guides whom He wills to a straight path.",
-            "bn": "আয়াত শেষ হয় তার শ্রোতার পরিচয় দিয়ে: এভাবেই আমি নিদর্শনগুলো বিশদভাবে বর্ণনা করি সেই সম্প্রদায়ের জন্য যারা চিন্তা করে — 'ইয়াতাফাক্কারূন'। তাফাক্কুর মানে মুগ্ধ হয়ে তাকিয়ে থাকা নয়; এর অর্থ হিসাব মিলিয়ে নেওয়া — সামনে যা আছে তা থেকে সিদ্ধান্তে পৌঁছানো। আর ঠিক পরের আয়াতটি পাঠককে ধ্বংস হওয়া ক্ষেতের মধ্যে ফেলে রাখতে রাজি নয়। 10:25 বলে, আল্লাহ দারুস সালাম তথা শান্তির নিবাসের দিকে আহ্বান করেন, আর যাকে চান সরল পথের দিকে পরিচালিত করেন।"
+            "bn": "আয়াত শেষ হয় তার শ্রোতাদের পরিচয় দিয়ে: এভাবেই আমি নিদর্শনগুলো বিশদভাবে বর্ণনা করি সেই সম্প্রদায়ের জন্য, যারা চিন্তা করে, 'ইয়াতাফাক্কারূন'। তাফাক্কুর মানে মুগ্ধ হয়ে তাকিয়ে থাকা নয়। এর মানে হিসাব মিলিয়ে দেখা: সামনে যা আছে, তা থেকে সিদ্ধান্ত বের করে আনা। আর ঠিক পরের আয়াত পাঠককে উজাড় হওয়া ক্ষেতের মধ্যে দাঁড় করিয়ে রাখে না। ১০:২৫ আয়াত বলে, আল্লাহ দারুস সালাম, অর্থাৎ শান্তির নিবাসের দিকে ডাকেন, আর যাকে চান সরল পথে চালান।"
           }
         ]
       },
@@ -489,11 +489,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse does not ask anyone to stop planting or to enjoy less. What it corrects is one sentence inside the owner's head: that he is qadir, in command, over what he holds. The practical form of that correction is to name the real Owner while the field is still green — at the promotion, at the new house, at the clear medical result — and not only after a loss. Gratitude spoken at the peak is precisely the sentence the people in this parable never said.",
-            "bn": "আয়াত কাউকে চাষ বন্ধ করতে বা কম উপভোগ করতে বলে না। এটি সংশোধন করে মালিকের মাথার ভেতরের একটি বাক্য: সে ভাবে, তার হাতে যা আছে তার ওপর সে-ই 'কাদির', অর্থাৎ কর্তৃত্বশীল। এই সংশোধনের ব্যবহারিক রূপ হলো, ক্ষেত সবুজ থাকতেই প্রকৃত মালিকের নাম উচ্চারণ করা — পদোন্নতির সময়, নতুন ঘরের সময়, পরীক্ষার ভালো ফল আসার সময় — কেবল ক্ষতির পরে নয়। চূড়ায় দাঁড়িয়ে বলা কৃতজ্ঞতার কথাটিই এই উপমার মানুষগুলো কখনো বলেনি।"
+            "bn": "আয়াত কাউকে চাষ বন্ধ করতে বলে না, কম উপভোগ করতেও বলে না। এটি শুধরে দেয় মালিকের মাথার ভেতরের একটি কথা: তার হাতে যা আছে, তার ওপর সে-ই 'কাদির', সে-ই কর্তা। এই শোধরানোর বাস্তব রূপ হলো, ক্ষেত সবুজ থাকতেই আসল মালিকের নাম মুখে আনা। পদোন্নতির দিনে, নতুন বাড়িতে ওঠার দিনে, ডাক্তারি পরীক্ষার ফল ভালো আসার দিনে; শুধু কিছু হারানোর পরে নয়। চূড়ায় দাঁড়িয়ে কৃতজ্ঞতার যে কথাটি বলার ছিল, এই উপমার মানুষগুলো ঠিক সেটিই কখনো বলেনি।"
           },
           {
             "en": "The second practice comes from 10:25. If a harvest can be taken overnight, then whatever has been moved out of the field and toward the Home of Peace is the only part of the crop that is secure. Wealth given away, a night prayer, a debt forgiven, a child taught — these are the transfers. The believer is not asked to look at the world with suspicion. He is asked to look at it accurately, and the verse's own closing word for that is thinking.",
-            "bn": "দ্বিতীয় অনুশীলনটি আসে 10:25 থেকে। যদি ফসল রাতারাতি তুলে নেওয়া যায়, তবে ক্ষেত থেকে সরিয়ে শান্তির নিবাসের দিকে যা পাঠানো হয়েছে, কেবল সেটুকুই নিরাপদ। দান করা সম্পদ, রাতের নামায, মাফ করে দেওয়া ঋণ, শেখানো একটি সন্তান — এগুলোই সেই স্থানান্তর। মুমিনকে দুনিয়ার দিকে সন্দেহের চোখে তাকাতে বলা হয়নি। তাকে বলা হয়েছে সঠিকভাবে তাকাতে, আর আয়াত নিজেই সেই কাজটির নাম দিয়েছে — চিন্তা করা।"
+            "bn": "দ্বিতীয় আমলটি আসে ১০:২৫ থেকে। ফসল যদি রাতারাতি চলে যেতে পারে, তবে ক্ষেত থেকে সরিয়ে শান্তির নিবাসের দিকে যা পাঠানো হয়েছে, শুধু সেটুকুই নিরাপদ। দান করে দেওয়া সম্পদ, রাতের নামাজ, মাফ করে দেওয়া ঋণ, শিক্ষা দেওয়া একটি সন্তান: এভাবেই ফসল ওপারে পাঠানো হয়। মুমিনকে দুনিয়ার দিকে সন্দেহের চোখে তাকাতে বলা হয়নি। বলা হয়েছে ঠিকঠাক দেখতে, আর আয়াত নিজেই এই দেখার নাম দিয়েছে: চিন্তা করা।"
           }
         ]
       }
@@ -549,7 +549,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari adds the grammar that makes the two recitations legible. Arabic will sometimes put an alif in place of the doubling when the act belongs to a single agent, he says, and when it belongs to two parties acting on each other it scarcely uses anything else. He draws no conclusion from that, but it is why the doubled reading keeps a single Agent parting them over and over, while the alif reading sounds like a mutual parting. Al-Qurtubi settles the pattern by the verbal noun: you say tazyilan, so the verb is fa''altu; fay'altu would have given zilah.",
-            "bn": "তাবারী এমন ব্যাকরণ যোগ করেন যা দুটি পাঠকেই পড়ার মতো করে তোলে। তিনি বলেন, কাজটা যখন একজন কর্তার, আরবি তখন কখনো শাদ্দার বদলে আলিফ বসায়; আর কাজটা যখন দুই পক্ষের, একে অন্যের উপর, তখন আলিফ ছাড়া প্রায় কিছুই ব্যবহার করে না। তিনি নিজে এ থেকে কোনো সিদ্ধান্তে যান না, তবু এ কারণেই শাদ্দাওয়ালা পাঠে একজন কর্তা বারবার তাদের আলাদা করেন, আর আলিফওয়ালা পাঠে শোনায় যেন দুই পক্ষ পরস্পর থেকে সরে যাচ্ছে। কুরতুবী বাবটা ঠিক করেন মাসদার দিয়ে, বলা হয় তাযয়ীলান, কাজেই ক্রিয়াটি ফা'আলতু বাবের; ফাইআলতু হলে মাসদার হত যীলাহ।"
+            "bn": "তাবারী ব্যাকরণের এমন একটি কথা যোগ করেন, যা দিয়ে দুই পাঠের ফারাকটা বোঝা যায়। তিনি বলেন, কাজটা যখন একজন কর্তার, আরবি তখন কখনো শাদ্দার বদলে আলিফ বসায়; আর কাজটা যখন দুই পক্ষের, একে অন্যের উপর, তখন আলিফ ছাড়া প্রায় কিছুই ব্যবহার করে না। তিনি নিজে এ থেকে কোনো সিদ্ধান্তে যান না, তবু এ কারণেই শাদ্দাওয়ালা পাঠে একজন কর্তা বারবার তাদের আলাদা করেন, আর আলিফওয়ালা পাঠে শোনায় যেন দুই পক্ষ পরস্পর থেকে সরে যাচ্ছে। কুরতুবী বাবটা ঠিক করেন মাসদার দিয়ে, বলা হয় তাযয়ীলান, কাজেই ক্রিয়াটি ফা'আলতু বাবের; ফাইআলতু হলে মাসদার হত যীলাহ।"
           },
           {
             "en": "Al-Qurtubi's sense of the verse is a severing: We parted them and cut off what had run between them in the world, the going back and forth that had tied them together. Al-Baghawi glosses the verb as distinguished and divided, and dates the moment exactly, when every object of worship besides Allah disowns the one who worshipped it. As-Sa'di makes the distance bodily and of the heart at once. Severe enmity comes up between them, he says, after the worshippers had given these partners their purest love in the world, and that allegiance turns over into hatred.",
