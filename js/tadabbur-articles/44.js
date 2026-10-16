@@ -1093,11 +1093,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari's gloss holds a quiet observation about life here. What the muttaqin are made safe from is a list of things every person fears now: aches, illness, weariness, grief. The verse does not pretend these are absent here. It promises that there is a station where they end, and Ibn Kathir and al-Baghawi add that nothing there ends: no death, no leaving. A great deal of human effort goes into guarding health, money, reputation and family, and none of these guards ever fully succeeds.",
-            "bn": "তাবারীর ব্যাখ্যায় এখানকার জীবন নিয়ে একটা নীরব পর্যবেক্ষণ লুকিয়ে আছে। মুত্তাকীদের যেসব জিনিস থেকে নিরাপদ রাখা হবে, সেগুলো এমন এক তালিকা, যা নিয়ে প্রত্যেক মানুষ এখনই ভয় পায়: ব্যথা, অসুখ, ক্লান্তি, দুঃখ। এ দুনিয়ায় এসব নেই, আয়াত এমন ভান করে না। আয়াত প্রতিশ্রুতি দেয় এমন এক অবস্থানের, যেখানে এগুলো শেষ। আর ইবন কাসীর ও বাগাভী যোগ করেন, সেখানে কিছুই শেষ হয় না: মৃত্যু নেই, বেরিয়ে যাওয়া নেই। স্বাস্থ্য, টাকা, সুনাম আর পরিবার পাহারা দিতে মানুষের কত চেষ্টা যায়। অথচ সেই পাহারা কখনো পুরোপুরি সফল হয় না।"
+            "bn": "তাবারীর ব্যাখ্যায় এ দুনিয়ার জীবন নিয়ে একটা চুপচাপ পর্যবেক্ষণ আছে। মুত্তাকীদের যেসব জিনিস থেকে নিরাপদ রাখা হবে, প্রত্যেক মানুষ আজই সেগুলোকে ভয় পায়: ব্যথা, অসুখ, ক্লান্তি, দুঃখ। আয়াত এমন ভান করে না যে দুনিয়ায় এসব নেই। বরং কথা দেয়, এমন এক স্থান আছে যেখানে এসব শেষ হয়ে যায়। আর ইবন কাসীর ও বাগাভী যোগ করেন, সেখানে কিছুই শেষ হয় না: মৃত্যু নেই, বেরিয়ে যাওয়াও নেই। স্বাস্থ্য, টাকা, সুনাম আর পরিবার আগলে রাখতে মানুষ কত চেষ্টা করে। অথচ সেই পাহারা কখনো পুরোপুরি সফল হয় না।"
           },
           {
             "en": "The verse redirects that effort. The commentators' definitions all turn on the same idea: the muttaqin guarded themselves before Allah by obeying Him and leaving what He forbade. That is fear too, but fear spent where it buys something lasting. A person cannot make his house secure from death, but he can leave a sin today, keep a prayer on time, pay back what he owes. As-Sa'di's line marks the exchange: those who guarded against His displeasure find His good pleasure established for them.",
-            "bn": "আয়াতটি সেই চেষ্টাকে অন্য দিকে ঘুরিয়ে দেয়। তাফসীরকারদের সংজ্ঞাগুলো সবই একই ভাবনার চারপাশে ঘোরে। মুত্তাকীরা আল্লাহর আনুগত্য করে আর তাঁর নিষেধ ছেড়ে তাঁকে ভয় করেছে। এ-ও ভয়, তবে এমন জায়গায় খরচ করা ভয়, যা স্থায়ী কিছু কিনে আনে। মানুষ নিজের ঘরকে মৃত্যু থেকে নিরাপদ করতে পারে না। কিন্তু আজ একটা গুনাহ ছাড়তে পারে, সময়মতো নামায পড়তে পারে, যা পাওনা আছে তা শোধ করতে পারে। সা'দীর কথায় বিনিময়টা ধরা পড়ে: যারা তাঁর অসন্তুষ্টি থেকে বেঁচে থেকেছে, তাদের জন্য সাব্যস্ত হয় তাঁর সন্তুষ্টি।"
+            "bn": "আয়াতটি সেই চেষ্টার দিক ঘুরিয়ে দেয়। তাফসীরকারদের সংজ্ঞাগুলো সবই একই কথায় এসে মেলে: মুত্তাকীরা আল্লাহর আনুগত্য করেছে, তাঁর নিষেধ করা জিনিস ছেড়ে দিয়েছে, আর এভাবে আল্লাহর সামনে নিজেদের রক্ষা করেছে। এ-ও ভয়, তবে এ ভয় খরচ হয় এমন জায়গায়, যেখান থেকে স্থায়ী কিছু মেলে। মানুষ নিজের ঘরকে মৃত্যু থেকে নিরাপদ করতে পারে না। কিন্তু আজ একটা গুনাহ ছাড়তে পারে, সময়মতো নামাজ পড়তে পারে, যা দেনা আছে তা শোধ করতে পারে। সা'দীর কথায় এই বিনিময়টা স্পষ্ট: যারা তাঁর অসন্তুষ্টি থেকে বেঁচে থেকেছে, তাদের জন্য সাব্যস্ত হয় তাঁর সন্তুষ্টি।"
           },
           {
             "en": "So the verse asks a practical question of the reader. Where is my fear going? Into the things that cannot be kept, or into the taqwa that leads to a station no harm can reach? The sinner of the verses before was told what he used to doubt. The muttaqin are simply told where they are. Between those two verses sits the whole of a life, and the choice of which sentence will one day be spoken about it is still open while that life lasts.",
@@ -1117,18 +1117,18 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah ad-Dukhan has spent its last verses on the God-conscious: a station that is safe (44:51), gardens and springs, silk and brocade, every fruit called for in security, no death there after the first, and protection from the punishment of the Fire. Then 44:57 seals the picture: a bounty from your Lord, that is the great attainment. With only two verses left, the address changes direction. Fa-innama yassarnahu bi-lisanika la'allahum yatadhakkarun: and We have only made it easy in your tongue, that they might take heed.",
-            "bn": "সূরা দুখান শেষ আয়াতগুলো খরচ করেছে মুত্তাকীদের কথায়। তাদের জন্য নিরাপদ স্থান (৪৪:৫১), বাগান আর ঝরনা, পাতলা ও পুরু রেশম, নিশ্চিন্তে চেয়ে নেওয়া সব রকম ফল। প্রথম মৃত্যুর পর সেখানে আর মৃত্যু নেই, আর আগুনের শাস্তি থেকে তারা রক্ষা পাবে। তারপর ৪৪:৫৭ ছবিটা শেষ করে: তোমার রবের অনুগ্রহ হিসেবে, এটাই মহা সাফল্য। সূরার আর মাত্র দুটি আয়াত বাকি, আর ঠিক এখানে কথার দিক বদলে যায়। ফাইন্নামা ইয়াসসারনাহু বিলিসানিকা লাআল্লাহুম ইয়াতাযাক্কারূন: আমি একে তোমার ভাষায় সহজ করে দিয়েছি, যাতে তারা উপদেশ গ্রহণ করে।"
+            "bn": "সূরা দুখানের শেষ দিকের আয়াতগুলো মুত্তাকীদের নিয়ে। তাদের জন্য নিরাপদ স্থান (৪৪:৫১), বাগান আর ঝরনা, পাতলা ও পুরু রেশম, নিশ্চিন্তে চেয়ে নেওয়া সব রকম ফল। প্রথম মৃত্যুর পর সেখানে আর মৃত্যু নেই, আর আগুনের শাস্তি থেকে তারা রক্ষা পাবে। তারপর ৪৪:৫৭ ছবিটা শেষ করে: তোমার রবের অনুগ্রহ হিসেবে, এটাই মহা সাফল্য। সূরার আর মাত্র দুটি আয়াত বাকি, আর ঠিক এখানে কথার দিক বদলে যায়। ফাইন্নামা ইয়াসসারনাহু বিলিসানিকা লাআল্লাহুম ইয়াতাযাক্কারূন: আমি একে তোমার ভাষায় সহজ করে দিয়েছি, যাতে তারা উপদেশ গ্রহণ করে।"
           },
           {
             "en": "The verse is five words in Arabic, and it no longer describes the Garden or the Fire. It speaks about the Book that carried those descriptions and about the one through whom it came, addressed as you; at-Tabari reads the address as Allah speaking to His Prophet Muhammad ﷺ. After it, a single verse remains before the surah closes. This article stays with the five words: what each commentator fetched for this verse says they mean, and where those readings meet and where they part.",
-            "bn": "আরবিতে আয়াতটি মাত্র পাঁচ শব্দের। জান্নাত বা জাহান্নামের বর্ণনা এখানে আর নেই। কথা হচ্ছে সেই কিতাব নিয়ে, যা এসব বর্ণনা বয়ে এনেছে, আর তাঁকে নিয়ে, যাঁর মাধ্যমে কিতাবটি এসেছে। তাঁকে ডাকা হয়েছে 'তুমি' বলে। তাবারী বলেন, এখানে আল্লাহ কথা বলছেন তাঁর নবী মুহাম্মাদ ﷺ-এর সঙ্গে। এরপর সূরা শেষ হওয়ার আগে আর একটিমাত্র আয়াত। এ লেখা ওই পাঁচটি শব্দের কাছেই থাকবে। এ আয়াতের জন্য যেসব তাফসীর সংগ্রহ করা হয়েছে, সেগুলো শব্দগুলোর কী অর্থ বলে, কোথায় তারা একমত আর কোথায় আলাদা, সেটাই দেখার বিষয়।"
+            "bn": "আরবিতে আয়াতটি মাত্র পাঁচ শব্দের। এখানে আর জান্নাত বা জাহান্নামের বর্ণনা নেই। কথা হচ্ছে সেই কিতাব নিয়ে, যা এসব বর্ণনা বয়ে এনেছে, আর তাঁকে নিয়ে, যাঁর মাধ্যমে কিতাবটি এসেছে। তাঁকে ডাকা হয়েছে 'তুমি' বলে। তাবারী বলেন, এখানে আল্লাহ কথা বলছেন তাঁর নবী মুহাম্মাদ ﷺ-এর সঙ্গে। এরপর সূরা শেষ হওয়ার আগে বাকি থাকে আর মাত্র একটি আয়াত। এ লেখা ওই পাঁচটি শব্দ নিয়েই: এ আয়াতের জন্য সংগৃহীত প্রতিটি তাফসীর শব্দগুলোর কী অর্থ বলে, কোথায় তাঁদের ব্যাখ্যা মেলে আর কোথায় আলাদা হয়।"
           }
         ]
       },
       {
         "h": {
           "en": "A Pronoun Left Unnamed",
-          "bn": "নাম না নিয়েও যাকে বোঝানো"
+          "bn": "যার নাম নেওয়া হয়নি"
         },
         "p": [
           {
@@ -1149,7 +1149,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari's paraphrase makes the ease a matter of recitation. Allah, he says, is telling His Prophet Muhammad ﷺ: We have only made easy the reading of this Qur'an, which We sent down to you, by your tongue. The purpose follows at length: so that these idolaters to whom We sent you may remember its lessons and proofs, be admonished by its admonitions and reflect on its verses when you recite it to them, then turn back to obedience to their Lord and yield to the truth once it is clear to them.",
-            "bn": "তাবারীর ব্যাখ্যায় সহজ করার বিষয়টা তিলাওয়াতের সঙ্গে যুক্ত। তাঁর ভাষায় আল্লাহ তাঁর নবী মুহাম্মাদ ﷺ-কে বলছেন: তোমার উপর যে কুরআন নাযিল করেছি, তোমার জিহ্বায় আমি তার পাঠ সহজ করে দিয়েছি। এরপর উদ্দেশ্যটা তিনি বিস্তারিত বলেন। যে মুশরিকদের কাছে তোমাকে পাঠিয়েছি, তুমি যখন তাদের সামনে এটা তিলাওয়াত করবে, তারা যেন এর শিক্ষা ও দলিলগুলো মনে রাখে। এর উপদেশ থেকে উপদেশ নেয়, এর আয়াত নিয়ে ভাবে। তারপর যেন রবের আনুগত্যে ফিরে আসে, আর সত্য স্পষ্ট হলে তা মেনে নেয়।"
+            "bn": "তাবারীর ব্যাখ্যায় সহজ করার বিষয়টা তিলাওয়াতের সঙ্গে যুক্ত। তাঁর ভাষায় আল্লাহ তাঁর নবী মুহাম্মাদ ﷺ-কে বলছেন: তোমার উপর যে কুরআন নাজিল করেছি, তোমার জিহ্বায় আমি তার পাঠ সহজ করে দিয়েছি। এরপর উদ্দেশ্যটা তিনি বিস্তারিত বলেন। যে মুশরিকদের কাছে তোমাকে পাঠিয়েছি, তুমি যখন তাদের সামনে এটা তিলাওয়াত করবে, তারা যেন এর শিক্ষা ও দলিলগুলো মনে রাখে, এর নসিহত শুনে সতর্ক হয়, এর আয়াত নিয়ে ভাবে। তারপর যেন রবের আনুগত্যে ফিরে আসে, আর সত্য স্পষ্ট হলে তা মেনে নেয়।"
           },
           {
             "en": "The report he carries from Ibn Zayd points the same way, toward the tongue that recites. Ibn Zayd says of yassarnahu: atlaqa bihi lisanahu, He set his tongue free with it. At-Tabari places the report after Qatada's without adding a comment of his own. On this reading the ease is first an ease of delivery: the words came readily to the one who was charged with reciting them to his people, and the remembering was to follow from their hearing.",
@@ -1213,7 +1213,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "He also names a parallel, introducing it with wa-naziruhu, and its like is: and We have certainly made the Qur'an easy for remembrance, so is there anyone who will remember (54:17). That verse has its own article too. Ibn Kathir looks the other way, toward what follows. Despite this clarity, he says, some people disbelieved, opposed and were obstinate, so Allah addressed His Messenger ﷺ to console him, promise him victory and warn those who belied him of ruin, in the surah's last verse, 44:59.",
-            "bn": "কুরতুবী একটি সমতুল্য আয়াতের কথাও বলেন, ওয়া নাযীরুহু, অর্থাৎ এর মতো আয়াত হলো: আর আমি কুরআনকে উপদেশ গ্রহণের জন্য সহজ করে দিয়েছি, অতএব উপদেশ গ্রহণকারী কেউ আছে কি (৫৪:১৭)? সে আয়াত নিয়েও এখানে আলাদা লেখা আছে। ইবন কাসীর তাকান উল্টো দিকে, সামনের আয়াতের দিকে। তিনি বলেন, এত স্পষ্টতার পরও কিছু মানুষ অস্বীকার করেছে, বিরোধিতা করেছে, হঠকারিতা দেখিয়েছে। তাই আল্লাহ সূরার শেষ আয়াত ৪৪:৫৯-এ রাসূল ﷺ-কে সান্ত্বনা দিয়েছেন, বিজয়ের প্রতিশ্রুতি দিয়েছেন, আর যারা তাঁকে মিথ্যা বলেছে তাদের ধ্বংসের সতর্কবাণী শুনিয়েছেন।"
+            "bn": "কুরতুবী এর মতো আরেকটি আয়াতের কথাও বলেন। শুরু করেন ওয়া নাযীরুহু বলে, অর্থাৎ এর মতোই আরেকটি আয়াত: আর আমি কুরআনকে উপদেশ গ্রহণের জন্য সহজ করে দিয়েছি, অতএব উপদেশ গ্রহণকারী কেউ আছে কি (৫৪:১৭)? সে আয়াত নিয়েও এখানে আলাদা লেখা আছে। ইবন কাসীর তাকান উল্টো দিকে, পরের আয়াতের দিকে। তিনি বলেন, এত স্পষ্টতার পরও কিছু মানুষ অস্বীকার করেছে, বিরোধিতা করেছে, হঠকারিতা দেখিয়েছে। তাই সূরার শেষ আয়াত ৪৪:৫৯-এ আল্লাহ রাসূল ﷺ-কে সান্ত্বনা দিয়েছেন, বিজয়ের প্রতিশ্রুতি দিয়েছেন, আর যারা তাঁকে মিথ্যাবাদী বলেছে তাদের ধ্বংসের ব্যাপারে সতর্ক করেছেন।"
           }
         ]
       },
@@ -1245,7 +1245,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That is where the verse meets a reader now. Almost every gloss the commentators give asks for movement: take admonition, be held back, understand and act, do and leave. Words that come easily to the tongue can still pass through a person without being taken up, and the verse places its hope not in the ease but in what follows it. Whatever has been made easy for us, the question it leaves is whether we will let it reach the place where we decide what to do.",
-            "bn": "এখানেই আয়াতটি আজকের পাঠকের সামনে এসে দাঁড়ায়। তাফসীরকারদের প্রায় প্রতিটি ব্যাখ্যা নড়াচড়া চায়: উপদেশ নাও, বিরত হও, বুঝে আমল করো, করো আর ছাড়ো। যে কথা সহজে জিহ্বায় আসে, তা মানুষের ভেতর দিয়ে চলে যেতে পারে, কোথাও না থেমেই। আয়াতের আশা তাই সহজতায় নয়, সহজতার পরে যা আসবে তাতে। আমাদের জন্য যা-ই সহজ করা হয়ে থাকুক, প্রশ্ন একটাই থেকে যায়: যেখানে বসে আমরা কী করব তা ঠিক করি, সেখান পর্যন্ত কি তাকে পৌঁছাতে দেব?"
+            "bn": "এখানেই আয়াতটি আজকের পাঠকের মুখোমুখি হয়। তাফসীরকারদের প্রায় প্রতিটি ব্যাখ্যাই কিছু একটা করতে বলে: উপদেশ নেওয়া, বিরত থাকা, বুঝে আমল করা, করা আর ছেড়ে দেওয়া। যে কথা সহজে জিহ্বায় আসে, তা-ও মানুষের ভেতর দিয়ে বেরিয়ে যেতে পারে, কোথাও দাগ না কেটে। তাই আয়াতের আশা সহজতায় নয়, সহজতার পরে যা আসে তাতে। আমাদের জন্য যা-ই সহজ করা হয়ে থাকুক, প্রশ্নটা থেকে যায়: যেখানে আমরা ঠিক করি কী করব, সেই জায়গা পর্যন্ত কি তাকে পৌঁছাতে দেব?"
           }
         ]
       }
