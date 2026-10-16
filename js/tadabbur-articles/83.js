@@ -137,7 +137,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The quranx page fetched for this report shows no grading from Ibn Majah himself, and none is supplied here. Ma'arif al-Qur'an describes the report as having a sound chain; that is Ma'arif's own assessment, reported as such. The narration concerns the surah's first verse and its revelation, not 83:4 in particular, and no fetched tafsir attaches a hadith to 83:4 itself. The surah's place is also disputed: Ma'arif reports Ibn Mas'ud (RA) calling it Makkan, and Ibn 'Abbas (RA), Qatadah, Muqatil and ad-Dahhak calling it Madinan apart from about eight verses.",
-            "bn": "এ বর্ণনার জন্য quranx-এর যে পৃষ্ঠা দেখা হয়েছে, তাতে ইবন মাজাহর নিজের কোনো মান নির্ণয় নেই, এখানেও কোনো মান যোগ করা হচ্ছে না। মাআরিফুল কুরআন বর্ণনাটির সনদকে সহীহ বলে। এটা মাআরিফের নিজস্ব মূল্যায়ন, সেভাবেই উল্লেখ করা হলো। বর্ণনাটি সূরার প্রথম আয়াত আর সূরার নাযিল হওয়া নিয়ে, বিশেষ করে ৮৩:৪ নিয়ে নয়। দেখা কোনো তাফসীরই ৮৩:৪ আয়াতের সঙ্গে কোনো হাদীস জুড়ে দেয় না। সূরাটি কোথায় নাযিল হয়েছে, তা নিয়েও মতভেদ আছে। মাআরিফ জানায়, ইবন মাসউদ (রাঃ)-এর মতে এটি মক্কী। আর ইবন আব্বাস (রাঃ), কাতাদা, মুকাতিল ও দাহহাকের মতে মাদানী, তবে প্রায় আটটি আয়াত মক্কী।"
+            "bn": "এ বর্ণনার জন্য quranx-এর যে পৃষ্ঠা দেখা হয়েছে, তাতে ইবন মাজাহর নিজের কোনো মান নির্ণয় নেই, এখানেও কোনো মান যোগ করা হচ্ছে না। মাআরিফুল কুরআন বর্ণনাটির সনদকে সহীহ বলে। এটা মাআরিফের নিজস্ব মূল্যায়ন, সেভাবেই উল্লেখ করা হলো। বর্ণনাটি সূরার প্রথম আয়াত আর সূরার নাজিল হওয়া নিয়ে, বিশেষ করে ৮৩:৪ নিয়ে নয়। দেখা কোনো তাফসীরই ৮৩:৪ আয়াতের সঙ্গে কোনো হাদিস জুড়ে দেয় না। সূরাটি কোথায় নাজিল হয়েছে, তা নিয়েও মতভেদ আছে। মাআরিফ জানায়, ইবন মাসউদ (রাঃ)-এর মতে এটি মক্কী। আর ইবন আব্বাস (রাঃ), কাতাদা, মুকাতিল ও দাহহাকের মতে মাদানী, তবে প্রায় আটটি আয়াত মক্কী।"
           }
         ]
       },
@@ -273,7 +273,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari explains why he chose the seventh earth. He cites al-Bara' ibn 'Azib (RA) saying that sijjin is the lowest earth, and then, by a second chain, a longer narration from al-Bara' traced to the Prophet ﷺ about the soul of the wicked after death, which ends by placing his book in sijjin. Ibn Kathir refers to the same lengthy hadith of al-Bara', and Ma'arif al-Qur'an cites it through al-Baghawi and Ahmad, as quoted by al-Mazhari.",
-            "bn": "সপ্তম জমিনের মতটি কেন বেছে নিলেন, তাবারী তা ব্যাখ্যা করেন। তিনি বারা ইবন আযিব (রাঃ)-এর কথা আনেন যে সিজ্জীন সবচেয়ে নিচের জমিন। তারপর দ্বিতীয় আরেক সনদে আনেন বারা (রাঃ) থেকেই নবী ﷺ পর্যন্ত পৌঁছানো এক দীর্ঘ বর্ণনা। তাতে মৃত্যুর পর পাপাচারীর রূহের কথা আছে, আর শেষে তার আমলনামা রাখা হয় সিজ্জীনে। ইবন কাসীরও বারা (রাঃ)-এর সেই দীর্ঘ হাদীসের উল্লেখ করেন। মাআরিফুল কুরআন মাযহারীর উদ্ধৃতিতে তা আনে বাগাভী ও আহমাদের সূত্রে।"
+            "bn": "সপ্তম জমিনের মতটি কেন বেছে নিলেন, তাবারী তা ব্যাখ্যা করেন। তিনি বারা ইবন আযিব (রাঃ)-এর কথা আনেন যে সিজ্জীন সবচেয়ে নিচের জমিন। তারপর দ্বিতীয় আরেক সনদে আনেন বারা (রাঃ) থেকেই নবী ﷺ পর্যন্ত পৌঁছানো এক দীর্ঘ বর্ণনা। তাতে মৃত্যুর পর পাপাচারীর রূহের কথা আছে, আর শেষে তার আমলনামা রাখা হয় সিজ্জীনে। ইবন কাসীরও বারা (রাঃ)-এর সেই দীর্ঘ হাদিসের উল্লেখ করেন। মাআরিফুল কুরআন মাযহারীর উদ্ধৃতিতে তা আনে বাগাভী ও আহমাদের সূত্রে।"
           },
           {
             "en": "The version this article could check, Sunan Abi Dawud 4753, is long, and its wording on that page does not contain the sentence about sijjin. The fuller wording with that sentence was not on any page fetched for this verse. Rather than clip a long narration or splice two versions into a hybrid, the article does not quote it. Ma'arif al-Qur'an closes its own discussion of where sijjin lies with a phrase worth keeping: and Allah knows best. Most of the readings gathered here point the same way, downward and narrow.",
@@ -493,7 +493,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif's second reading, in which the near ones are righteous souls present in 'illiyyin, is supported there with a narration in Sahih Muslim from 'Abdullah ibn Mas'ud about the souls of the martyrs. The narration was confirmed in Muslim, but it is long, and it was given to explain a different verse, so it is not quoted in part here. No fetched commentary attaches a hadith to this verse itself. Ma'arif then moves into a long discussion of where souls abide after death, which it closes with: and Allah knows best.",
-            "bn": "মাআরিফের দ্বিতীয় পাঠে নৈকট্যপ্রাপ্তরা হলেন ইল্লিয়্যীনে উপস্থিত সৎলোকদের রূহ। এর সমর্থনে মাআরিফ আনে সহীহ মুসলিমের এক বর্ণনা, আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে, শহীদদের রূহ সম্পর্কে। বর্ণনাটি মুসলিমে মিলিয়ে দেখা হয়েছে। তবে তা দীর্ঘ, আর তা এসেছে অন্য এক আয়াতের ব্যাখ্যায়, তাই এখানে আংশিক উদ্ধৃতি দেওয়া হলো না। এই আয়াতের সঙ্গেই সরাসরি কোনো হাদীস সংগ্রহ করা কোনো তাফসীর জুড়ে দেয়নি। এরপর মাআরিফ মৃত্যুর পর রূহ কোথায় থাকে, তা নিয়ে দীর্ঘ আলোচনায় যায়, আর শেষ করে এ কথায়: আল্লাহই ভালো জানেন।"
+            "bn": "মাআরিফের দ্বিতীয় পাঠে নৈকট্যপ্রাপ্তরা হলেন ইল্লিয়্যীনে উপস্থিত সৎলোকদের রূহ। এর সমর্থনে মাআরিফ আনে সহীহ মুসলিমের এক বর্ণনা, আবদুল্লাহ ইবন মাসঊদ (রাঃ) থেকে, শহীদদের রূহ সম্পর্কে। বর্ণনাটি মুসলিমে মিলিয়ে দেখা হয়েছে। তবে তা দীর্ঘ, আর তা এসেছে অন্য এক আয়াতের ব্যাখ্যায়, তাই এখানে আংশিক উদ্ধৃতি দেওয়া হলো না। এই আয়াতের সঙ্গেই সরাসরি কোনো হাদিস সংগ্রহ করা কোনো তাফসীর জুড়ে দেয়নি। এরপর মাআরিফ মৃত্যুর পর রূহ কোথায় থাকে, তা নিয়ে দীর্ঘ আলোচনায় যায়, আর শেষ করে এ কথায়: আল্লাহই ভালো জানেন।"
           }
         ]
       },
@@ -657,7 +657,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Tirmidhi's grading must be reported as he gave it. He calls the hadith gharib, and he adds that it has also been narrated from 'Atiyya from Abu Sa'id as mawquf, stopping at Abu Sa'id rather than reaching the Prophet ﷺ, and that this is more correct in his view and more likely. So the collector himself prefers the version that is Abu Sa'id's own saying. The article reports the narration for that reason and builds nothing on it as a word of the Prophet ﷺ.",
-            "bn": "তিরমিযীর মূল্যায়ন তিনি যেভাবে দিয়েছেন, ঠিক সেভাবেই জানাতে হবে। তিনি হাদীসটিকে গরীব বলেছেন। সঙ্গে যোগ করেছেন, এটি আতিয়্যার মাধ্যমে আবূ সাঈদ থেকে মাওকূফ হিসেবেও বর্ণিত হয়েছে, অর্থাৎ নবী ﷺ পর্যন্ত না পৌঁছে আবূ সাঈদেই থেমে গেছে। আর তাঁর মতে সেটিই বেশি সঠিক ও বেশি সম্ভাব্য। অর্থাৎ সংকলক নিজেই সেই রূপটিকে অগ্রাধিকার দেন, যেখানে কথাটি আবূ সাঈদের নিজের। তাই এ লেখা বর্ণনাটি উল্লেখ করছে ঠিক এই মূল্যায়নসহ, আর একে নবী ﷺ-এর বাণী ধরে এর উপর কিছু দাঁড় করাচ্ছে না।"
+            "bn": "তিরমিযীর মূল্যায়ন তিনি যেভাবে দিয়েছেন, ঠিক সেভাবেই জানাতে হবে। তিনি হাদিসটিকে গরীব বলেছেন। সঙ্গে যোগ করেছেন, এটি আতিয়্যার মাধ্যমে আবূ সাঈদ থেকে মাওকূফ হিসেবেও বর্ণিত হয়েছে, অর্থাৎ নবী ﷺ পর্যন্ত না পৌঁছে আবূ সাঈদেই থেমে গেছে। আর তাঁর মতে সেটিই বেশি সঠিক ও বেশি সম্ভাব্য। অর্থাৎ সংকলক নিজেই সেই রূপটিকে অগ্রাধিকার দেন, যেখানে কথাটি আবূ সাঈদের নিজের। তাই এ লেখা বর্ণনাটি উল্লেখ করছে ঠিক এই মূল্যায়নসহ, আর একে নবী ﷺ-এর বাণী ধরে এর উপর কিছু দাঁড় করাচ্ছে না।"
           }
         ]
       },
