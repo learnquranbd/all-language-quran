@@ -93,8 +93,9 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Open EN item: why-islam 16.qa.0.a "much of South and West Africa" probably means East and West Africa (EN change
   would orphan 13 translations of that string; fix with a retranslation of one string).
 
-## Article i18n wave 2 (2026-10-16, user picked "translation gaps"): IN PROGRESS
-- DONE: id (v971), es (v972), ms (v973), tr (v974), fa (v975), fr (v976), de (v977), ru (v978), zh (v979), each with a consistency pass. ja in progress. English fixed in 3 fact-check batches (flags in work/flags-wave2.md), each followed by refresh + retr for every merged language. ms and tr in progress.
+## Article i18n wave 2 (2026-10-16, user picked "translation gaps"): DONE v980 — all 13 languages, 238 articles, 0 stale
+- DONE: id (v971), es (v972), ms (v973), tr (v974), fa (v975), fr (v976), de (v977), ru (v978), zh (v979), ja (v980), each with a consistency pass.
+- English fixed in 10 fact-check batches (~85 passages, en+bn) from translator flags; every fix retranslated into all merged languages. Open flags (not yet checked): lines "[open]" in tools/content-i18n/work/flags-wave2.md, incl. the seerah-data.js timeline order of hamza_islam vs abyssinia (owner to decide). English fixed in 3 fact-check batches (flags in work/flags-wave2.md), each followed by refresh + retr for every merged language. ms and tr in progress.
 - Remaining: id A6-A10, then es ms tr fa fr de ru zh ja (A1-A10 each). One agent per chunk x language, 8 in parallel,
   prompt = TRANSLATE.md + STYLE-<lang>.md, parts in work/A<n>/<lang>-parts/, gate check.js A<n> <lang> CLEAN.
 - Resume: a chunk is done when work/A<n>/tr-<lang>.json passes check.js; merge with `articles.js merge <lang> --write`

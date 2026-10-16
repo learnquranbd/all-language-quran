@@ -119,8 +119,10 @@ in parallel on claude-max, 2 on claude-pro. Run `budget.js` first.
   Translators' flags led to fact-check audits of Handwriting, Hope, Prophets, Surah names, Kids, Sahaba/Seerah,
   Tajweed, Mutashabihat/Nuzul and Islam rulings (~500 EN+BN fixes). v953 (2026-10-15) fixed screens that never
   showed those translations (render code skipping CI18N), translated Resources/Amal/vocab themes, and filled objects
-  carrying only some inline languages with tools/content-i18n/inline.js. Still English-only: Sahaba/Seerah/Prophets
-  ARTICLES (~222k words). Open review items are in CLAUDE-LOG.md.
+  carrying only some inline languages with tools/content-i18n/inline.js. Sahaba/Seerah/Prophets ARTICLES
+  (238, ~222k words) are in all 13 languages: ur/ar/hi v954-v956, id es ms tr fa fr de ru zh ja v971-v980
+  (data/content-i18n/art-<module>/<id>/<lang>.json, tools/content-i18n/articles.js). ~85 English passages were
+  fact-checked and fixed on the way; open flags in tools/content-i18n/work/flags-wave2.md. Open review items are in CLAUDE-LOG.md.
 - Tadabbur cards: translated into all 13 languages (ur ar hi id v945-v948; es ms tr fa fr de ru zh ja
   v949-v951, deployed 2026-10-14). data/content-i18n/tadabbur/<lang>.json, loaded via CI18N.tr(lang, en,
   'tadabbur'); recipe in tools/tadabbur-i18n/ (pilot C1 -> STYLE-<lang>.md -> chunks -> check-tr -> merge-tr).

@@ -32,7 +32,7 @@ and links between Makharij, Letter practice, Kids letters, the Learn hub, the si
    numbers verified first (`tools/wip/round11/hadith.js`), then full articles. This is the
    top-ranked open candidate.
 2. **Translation gaps:**
-   - Sahaba, Seerah and Prophets articles are still English-only in 10 languages.
+   - DONE v980: Sahaba, Seerah and Prophets articles in all 13 languages (fact-checked English along the way).
    - Tadabbur articles exist only in English and Bengali.
 3. **Nuzul:** add al-Wahidi's occasions of revelation, and mark weak reports as "it was said".
 4. **Quranic Arabic:** Juz 27 is next, using the same `tools/qarabic/` pipeline as Juz 28–30.
