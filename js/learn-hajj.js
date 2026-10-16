@@ -57,8 +57,9 @@ class HajjModule {
               <p class="text-gray-500 dark:text-gray-400 mt-1 text-sm">${L({ en: 'Pilgrimage to Makkah — one of the five pillars of Islam.', bn: 'মক্কায় হজ — ইসলামের পঞ্চস্তম্ভের একটি।' })}</p>
             </div>
             <!-- Companion app: the step-by-step Hajj guide. It is a separate site, so it
-                 opens in a new tab and says so, rather than looking like an in-app tab. -->
-            <a href="https://hajj-guide-bn.web.app/" target="_blank" rel="noopener noreferrer"
+                 opens in a new tab and says so, rather than looking like an in-app tab.
+                 The guide is Bengali-only, so the link shows only in Bengali. -->
+            ${this.language === 'bn' ? `<a href="https://hajj-guide-bn.web.app/" target="_blank" rel="noopener noreferrer"
                class="shrink-0 inline-flex items-center gap-2 px-4 py-2.5 rounded-xl
                       bg-emerald-600 text-white text-sm font-medium shadow-sm
                       hover:bg-emerald-700 focus:outline-none focus-visible:ring-2
@@ -68,7 +69,7 @@ class HajjModule {
               <span>${L({ en: 'Step-by-step Hajj guide', bn: 'ধাপে ধাপে হজ গাইড' })}</span>
               <span aria-hidden="true">↗</span>
               <span class="sr-only">${L({ en: '(opens hajj-guide-bn.web.app in a new tab)', bn: '(নতুন ট্যাবে hajj-guide-bn.web.app খুলবে)' })}</span>
-            </a>
+            </a>` : ''}
           </div>
         </div>
 

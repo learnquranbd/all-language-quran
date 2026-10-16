@@ -31,6 +31,7 @@ const CHECKS = [
   'check-bn-digits.js',
   'check-bangla-style.js',
   'check-modules.js',
+  'check-morphology-fixes.js',
 ];
 
 const only = process.argv[2];

@@ -625,7 +625,7 @@
  "tj_ra_light": "İnce (terkîk)",
  "tj_ra_h_vowel": "Üstünlü veya ötreli râ",
  "tj_ra_h_after": "Üstün veya ötreden sonra sükûnlu râ",
- "tj_ra_h_wasl": "Vasıl hemzesinden (ٱ) sonra sükûnlu râ",
+ "tj_ra_h_wasl": "Hemze-i vasıldan (ٱ) sonra sükûnlu râ",
  "tj_ra_h_istila": "Esreden sonra sükûnlu râ, ardından kalın bir harf gelince",
  "tj_ra_l_vowel": "Esreli râ",
  "tj_ra_l_after": "Esreden sonra sükûnlu râ",

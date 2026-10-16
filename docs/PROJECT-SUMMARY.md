@@ -134,12 +134,10 @@ in parallel on claude-max, 2 on claude-pro. Run `budget.js` first.
 - Virtues: al-Kahf on Friday is absent (not in the six books; an-Nasāʾī al-Kubrā/al-Ḥākim). Tirmidhi 2921 (Musabbiḥāt) excluded for conflicting grades. Rejected list: `tools/virtues/work/V1/rejected.json` (gitignored work dir).
 - Duas: "word by word count" was read as glosses + per-dua word counts; confirm with the user.
 
-- `data/morphology/` has 73 confirmed tagging errors (`tools/qarabic/morphology-errors.json`); word grammar popups still show them.
-- `data/wbw/en.json` 76:20 glosses ثَمَّ as "then" (should be "there").
+- Morphology: 71/73 audit errors fixed in v970 via `tools/qarabic/morphology-fixes.json` + `apply-morphology-fixes.js --write` (re-run after any corpus re-import; `npm test` checks them). 69:35 / 75:15 were i'rab-label only. Same faults outside the audit list remain: 75:29 w3, 2:222 مَحِيض, nabāt elsewhere.
 - 40 Mutashabihat groups questioned by audits: `docs/mutashabihat-group-doubts.md`.
 
-- `data/translations/bn.json`: 6:110 drops a clause; 4:171 renders *ruhun minhu* as নির্দেশ.
-- Asbab 109:1 (`asbab-meccan-famous.json`) states a "qila" report as fact.
+- `data/translations/bn.json`: 6:110 drops a clause; 4:171 renders *ruhun minhu* as নির্দেশ. Both are in the published Taisirul Quran (id 161) itself (checked v970); fixing = deliberate departure like 4:163.
 - At-Tabari neighbouring-slot misfiling in some earlier Tadabbur articles (not re-audited).
 - The Hajj quick link (Bengali-only guide) shows in all 15 languages.
 - BANGLA-STYLE.md says `(আ)`; shipped text uses `(আঃ)`.
