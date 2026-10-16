@@ -53,11 +53,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ilayhi, to Him. At-Tabari states that the pronoun refers back to the name of Allah, and al-Baghawi glosses it as to Allah, Mighty and Glorious. Al-Qurtubi records three other wordings. The first is to the place that is the angels' station, in the heaven, because it is the place of His goodness and honour. The second likens it to the words of Ibrahim (AS) in 37:99, I am going to my Lord, meaning to the place He commanded. The third is to His Throne.",
-            "bn": "ইলাইহি, তাঁর দিকে। তাবারী বলেন, সর্বনামটি ফিরে গেছে আল্লাহর নামের দিকে। বাগাভীর ব্যাখ্যা: মহিমান্বিত ও মহান আল্লাহর দিকে। কুরতুবী আরও তিনটি ভাষ্য লিপিবদ্ধ করেন। প্রথমটি হলো, ফেরেশতাদের অবস্থানের জায়গার দিকে, যা আসমানে, কারণ সেটি তাঁর অনুগ্রহ ও সম্মানের স্থান। দ্বিতীয়টি একে তুলনা করে ৩৭:৯৯ আয়াতে ইবরাহীম (আঃ)-এর কথার সঙ্গে: আমি আমার রবের দিকে যাচ্ছি, অর্থাৎ তিনি যে জায়গায় যেতে আদেশ করেছেন সেখানে। তৃতীয়টি: তাঁর আরশের দিকে।"
+            "bn": "ইলাইহি, তাঁর দিকে। তাবারী বলেন, সর্বনামটি ফিরে গেছে আল্লাহর নামের দিকে। বাগাভীর ব্যাখ্যা: মহিমান্বিত ও মহান আল্লাহর দিকে। কুরতুবী আরও তিনটি ভাষ্য লিখে রেখেছেন। প্রথমটি: আসমানে ফেরেশতাদের অবস্থানের জায়গার দিকে, কারণ সেটিই তাঁর অনুগ্রহ ও সম্মানের স্থান। দ্বিতীয়টি একে মেলায় ৩৭:৯৯ আয়াতে ইবরাহীম (আঃ)-এর কথার সঙ্গে: আমি আমার রবের দিকে যাচ্ছি, অর্থাৎ যেখানে যেতে তিনি আদেশ করেছেন সেখানে। তৃতীয়টি: তাঁর আরশের দিকে।"
           },
           {
             "en": "As-Sa'di reads ar-Ruh as a generic noun covering every soul, righteous and wicked, at the moment of death. The souls of the righteous ascend, he writes, and are given leave from heaven to heaven until they reach the heaven in which Allah is; they greet their Lord and are honoured by nearness to Him. The souls of the wicked ascend too, but at the heaven they ask leave, are refused, and are returned to the earth.",
-            "bn": "সা'দী আর-রূহকে পড়েন জাতিবাচক বিশেষ্য হিসেবে, যা মৃত্যুর সময় নেককার ও বদকার সব রূহকেই শামিল করে। তিনি লেখেন, নেককারদের রূহ উপরে ওঠে। এক আসমান থেকে আরেক আসমানে তাদের অনুমতি দেওয়া হয়, যতক্ষণ না তারা পৌঁছায় সেই আসমানে যেখানে আল্লাহ আছেন। সেখানে তারা তাদের রবকে সালাম জানায় এবং তাঁর নৈকট্যের সম্মান লাভ করে। বদকারদের রূহও ওঠে, কিন্তু আসমানে পৌঁছে অনুমতি চাইলে অনুমতি মেলে না, তাদের ফিরিয়ে দেওয়া হয় জমিনে।"
+            "bn": "সা'দী আর-রূহকে ধরেন জাতিবাচক বিশেষ্য হিসেবে: মৃত্যুর সময় নেককার ও বদকার সব রূহই এর মধ্যে পড়ে। তিনি লেখেন, নেককারদের রূহ উপরে ওঠে, আর এক আসমান থেকে আরেক আসমানে যাওয়ার অনুমতি পেতে থাকে, যতক্ষণ না পৌঁছায় সেই আসমানে, যেখানে আল্লাহ আছেন। সেখানে তারা তাদের রবকে সালাম জানায়, আর তাঁর নৈকট্যের সম্মান পায়। বদকারদের রূহও ওঠে, কিন্তু আসমানে পৌঁছে অনুমতি চাইলে অনুমতি মেলে না, তাদের ফিরিয়ে দেওয়া হয় জমিনে।"
           }
         ]
       },
@@ -69,7 +69,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fi yawmin kana miqdaruhu khamsina alfa sanah: in a day whose measure is fifty thousand years. Ibn Kathir counts four views on this clause. At-Tabari's own reading ties the day to the ascent. The measure of their rising, he writes, falls in a day that for other creatures would be fifty thousand years, because they rise from the lowest limit of His command beneath the seventh earth to its highest limit above the seven heavens. He says the people of interpretation held the like, and cites Mujahid through Layth.",
-            "bn": "ফী ইয়াওমিন কানা মিকদারুহু খামসীনা আলফা সানাহ: এমন এক দিনে, যার পরিমাণ পঞ্চাশ হাজার বছর। ইবন কাসীর এ অংশের ব্যাপারে চারটি মত গোনেন। তাবারীর নিজের ব্যাখ্যা দিনটিকে আরোহণের সঙ্গেই বাঁধে। তিনি লেখেন, তাদের ওঠার পরিমাণ এমন এক দিনে, যা অন্য সৃষ্টির জন্য হতো পঞ্চাশ হাজার বছর। কারণ তারা ওঠে সপ্তম জমিনের নিচে তাঁর আদেশের শেষ সীমা থেকে সাতটি আসমানের উপরে তাঁর আদেশের শেষ সীমা পর্যন্ত। তাবারী বলেন, তাফসীরবিদেরাও এমনটাই বলেছেন, আর লাইসের সূত্রে মুজাহিদের কথা আনেন।"
+            "bn": "ফী ইয়াওমিন কানা মিকদারুহু খামসীনা আলফা সানাহ: এমন এক দিনে, যার পরিমাণ পঞ্চাশ হাজার বছর। ইবন কাসীর এ অংশের ব্যাপারে চারটি মত গোনেন। তাবারীর নিজের ব্যাখ্যায় দিনটি আরোহণের সঙ্গেই যুক্ত। তিনি লেখেন, তাদের এই ওঠা এক দিনেই হয়, অথচ অন্য সৃষ্টির হিসাবে সেই দিন হতো পঞ্চাশ হাজার বছর। কারণ তারা ওঠে সপ্তম জমিনের নিচে তাঁর আদেশের শেষ সীমা থেকে সাতটি আসমানের উপরে তাঁর আদেশের শেষ সীমা পর্যন্ত। তাবারী বলেন, তাফসীরবিদেরাও এমনটাই বলেছেন, আর লাইসের সূত্রে মুজাহিদের কথা আনেন।"
           },
           {
             "en": "Al-Baghawi adds a condition: fifty thousand of this world's years if anyone other than an angel made the climb. He reports Muhammad ibn Ishaq: if the children of Adam travelled from this world to the place of the Throne, they would travel fifty thousand years. Al-Qurtubi names Wahb, al-Kalbi and Ibn Ishaq for it. As-Sa'di gives it as one possibility: by ordinary travel the distance is fifty thousand years, yet the angels and souls cover it in a day through the lightness and speed Allah grants them, an ascent in this world, since the opening context points that way.",
@@ -89,7 +89,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The third view, which Ibn Kathir calls very strange, comes from Muhammad ibn Ka'b through Ibn Abi Hatim: it is the day of separation between this world and the next. Al-Qurtubi, for his part, names Muhammad ibn Ka'b among those who took the day as the Day of Resurrection, so the two commentators attach him to different views. Both attributions stand here as each commentator gives them. The fourth view, the Day of Resurrection, gathers the longest list of names.",
-            "bn": "তৃতীয় মতটিকে ইবন কাসীর বলেন খুবই অদ্ভুত। মতটি ইবন আবী হাতিমের সূত্রে মুহাম্মাদ ইবন কা'বের: এটি দুনিয়া ও আখিরাতের মাঝখানের পৃথক করার দিন। অথচ কুরতুবী মুহাম্মাদ ইবন কা'বের নাম রাখেন তাঁদের মধ্যে, যাঁরা দিনটিকে কিয়ামতের দিন বলেছেন। অর্থাৎ দুই তাফসীরকার তাঁকে দুই ভিন্ন মতের সঙ্গে যুক্ত করেছেন। প্রতিটি তাফসীরকার যেভাবে দিয়েছেন, এখানে দুটি বর্ণনাই সেভাবেই থাকল। চতুর্থ মত, অর্থাৎ কিয়ামতের দিন, তার পেছনেই নামের তালিকা সবচেয়ে লম্বা।"
+            "bn": "তৃতীয় মতটিকে ইবন কাসীর বলেন খুবই অদ্ভুত। মতটি ইবন আবী হাতিমের সূত্রে মুহাম্মাদ ইবন কা'বের: এটি সেই দিন, যেদিন দুনিয়া আর আখিরাত আলাদা হয়ে যায়। অথচ কুরতুবী মুহাম্মাদ ইবন কা'বের নাম রাখেন তাঁদের মধ্যে, যাঁরা দিনটিকে কিয়ামতের দিন বলেছেন। অর্থাৎ দুই তাফসীরকার তাঁকে দুই ভিন্ন মতের সঙ্গে যুক্ত করেছেন। এখানে দুটি বর্ণনাই রাখা হলো, যিনি যেভাবে দিয়েছেন সেভাবে। চতুর্থ মত, অর্থাৎ কিয়ামতের দিন, তার পেছনেই নামের তালিকা সবচেয়ে লম্বা।"
           }
         ]
       },
@@ -157,7 +157,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse that follows, 70:5, tells the Prophet ﷺ to be patient with a beautiful patience, and Ibn Kathir explains it as patience with his people's rejection and their haste for the punishment. The Muyassar has the asker of 70:1 as a polytheist calling the punishment down on himself and his people. The verse describes what the text describes, a particular caller and a day Allah owns, and licenses nothing against any living person or community. What it leaves the reader is a number large enough to make haste look small.",
-            "bn": "পরের আয়াত ৭০:৫ নবী ﷺ-কে বলে সুন্দর ধৈর্যে ধৈর্য ধরতে। ইবন কাসীরের ব্যাখ্যায় এ ধৈর্য তাঁর কওমের অস্বীকার আর শাস্তির জন্য তাদের তাড়াহুড়োর উপর। মুয়াসসার ৭০:১ আয়াতের প্রশ্নকারীকে বলে এক মুশরিক, যে নিজের ও নিজের কওমের উপর শাস্তি নামানোর দোয়া করেছিল। আয়াত শুধু তা-ই বর্ণনা করে যা পাঠে আছে: এক নির্দিষ্ট আহ্বানকারী আর আল্লাহর মালিকানাধীন এক দিন। আজ জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। পাঠকের হাতে সে রেখে যায় এমন বড় এক সংখ্যা, যার সামনে তাড়াহুড়োকে খুব ছোট দেখায়।"
+            "bn": "পরের আয়াত ৭০:৫ নবী ﷺ-কে বলে সুন্দর ধৈর্য ধরতে। ইবন কাসীরের ব্যাখ্যায় এ ধৈর্য তাঁর কওমের অস্বীকার আর শাস্তির জন্য তাদের তাড়াহুড়োর উপর। মুয়াসসারের মতে ৭০:১ আয়াতের প্রশ্নকারী এক মুশরিক, যে নিজের ও নিজের কওমের উপর শাস্তি নামানোর দোয়া করেছিল। আয়াত শুধু তা-ই বর্ণনা করে, যা পাঠে আছে: এক নির্দিষ্ট আহ্বানকারী, আর এমন এক দিন যার মালিক আল্লাহ। আজ জীবিত কোনো ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আয়াতটি পাঠকের হাতে রেখে যায় এত বড় এক সংখ্যা, যার সামনে তাড়াহুড়োকে খুব ছোট দেখায়।"
           }
         ]
       }
@@ -197,7 +197,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The choice changes which neighbour the verse leans on. On al-Qurtubi's own reading it answers the request in 70:1. On the others it explains what Allah sees as near, or it sets the scene in which people are shown each other. Al-Qurtubi gives his reading first and lists the rest without refuting them, so the article keeps them as he does. Whichever word governs yawma, the image that follows is the same, and the sources spend most of their words on it.",
-            "bn": "কোন শব্দের সঙ্গে বাঁধা ধরা হবে, তার উপর নির্ভর করে আয়াতটি কোন প্রতিবেশী আয়াতে ভর দেবে। কুরতুবীর নিজের পাঠে এটি ৭০:১ আয়াতের চাওয়ার জবাব। অন্য পাঠগুলোতে এটি বোঝায় আল্লাহ কোন জিনিসকে কাছে দেখেন, কিংবা সেই দৃশ্যের পটভূমি আঁকে যেখানে মানুষকে একে অপরকে দেখানো হবে। কুরতুবী নিজের মত আগে বলেন, বাকিগুলো খণ্ডন না করে তালিকায় রাখেন। এই লেখাও সেগুলো সেভাবেই রাখছে। ইয়াওমা যার সঙ্গেই বাঁধা হোক, পরের ছবিটি একই থাকে, আর উৎসগুলো তাদের বেশির ভাগ কথা ব্যয় করেছে সেই ছবির উপরেই।"
+            "bn": "ইয়াওমাকে কোন শব্দের সঙ্গে বাঁধা ধরা হবে, তার উপর নির্ভর করে আয়াতটি পাশের কোন আয়াতে ভর দেবে। কুরতুবীর নিজের পাঠে এটি ৭০:১ আয়াতের চাওয়ার জবাব। অন্য পাঠগুলোতে এটি বোঝায় আল্লাহ কোন জিনিসকে কাছে দেখেন, কিংবা সেই দৃশ্যের পটভূমি আঁকে যেখানে মানুষকে একে অপরকে দেখানো হবে। কুরতুবী নিজের মত আগে বলেন, বাকিগুলো খণ্ডন না করে তালিকায় রাখেন। এই লেখাও সেগুলো সেভাবেই রাখছে। ইয়াওমা যার সঙ্গেই বাঁধা হোক, পরের ছবিটি একই থাকে, আর উৎসগুলো তাদের বেশির ভাগ কথা ব্যয় করেছে সেই ছবির উপরেই।"
           }
         ]
       },
@@ -213,7 +213,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two other commentators add a detail about the sky's state. The Muyassar, explaining 70:8 and 70:9 together, says the sky will be flowing, sa'ilah, like the dregs of oil. As-Sa'di says the likeness comes from the sky's splitting apart and from the terror reaching its utmost in it. None of the fetched texts describes the sky in any further physical terms, and the article adds none. What the sources give is a sky that has lost its firmness: melted, running, broken open.",
-            "bn": "আরও দুজন তাফসীরকার আকাশের অবস্থা নিয়ে একটু যোগ করেন। মুয়াসসার ৭০:৮ ও ৭০:৯ একসঙ্গে ব্যাখ্যা করে বলে, আকাশ হবে বহমান, সাইলা, তেলের তলানির মতো। সা'দী বলেন, এই সাদৃশ্য আসে আকাশ ফেটে যাওয়া থেকে, আর এ থেকে যে ভয়াবহতা তাতে চরম সীমায় পৌঁছে যায়। যে তাফসীরগুলো সামনে আছে, তার কোনোটিই আকাশের আর কোনো বস্তুগত বিবরণ দেয় না। এই লেখাও নিজে থেকে কিছু যোগ করছে না। উৎসগুলো যা দেয় তা হলো এমন এক আকাশ, যার দৃঢ়তা হারিয়ে গেছে: গলে গেছে, গড়িয়ে পড়ছে, ফেটে গেছে।"
+            "bn": "আরও দুজন তাফসীরকার আকাশের অবস্থা নিয়ে একটু যোগ করেন। মুয়াসসার ৭০:৮ ও ৭০:৯ একসঙ্গে ব্যাখ্যা করে বলে, আকাশ হবে বহমান, সাইলা, তেলের তলানির মতো। সা'দীর মতে এই উপমা এসেছে আকাশের ফেটে যাওয়া থেকে, আর সেখানে আতঙ্ক চরমে পৌঁছানো থেকে। যে তাফসীরগুলো সামনে আছে, তার কোনোটিই আকাশের আর কোনো বস্তুগত বিবরণ দেয় না। এই লেখাও নিজে থেকে কিছু যোগ করছে না। উৎসগুলো যা দেয় তা হলো এমন এক আকাশ, যার দৃঢ়তা হারিয়ে গেছে: গলে গেছে, গড়িয়ে পড়ছে, ফেটে গেছে।"
           }
         ]
       },
@@ -281,7 +281,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi closes his comment by noting that the word has already been discussed in Surat ad-Dukhan and Surat al-Kahf. Besides 70:8, the Qur'an uses al-muhl in exactly those two places. In 18:29, those in the Fire who cry for relief are relieved with water like al-muhl that scalds the faces. In 44:45, the food of the tree of zaqqum, named in 44:43 and 44:44, is like al-muhl, boiling in the bellies.",
-            "bn": "কুরতুবী তাঁর আলোচনা শেষ করেন এই কথা বলে যে শব্দটি নিয়ে সূরা দুখান ও সূরা কাহফে আগেই আলোচনা হয়েছে। ৭০:৮ ছাড়া কুরআনে আল-মুহল শব্দটি এসেছে ঠিক ওই দুই জায়গাতেই। ১৮:২৯ আয়াতে জাহান্নামের লোকেরা সাহায্যের জন্য ফরিয়াদ করলে তাদের দেওয়া হবে আল-মুহলের মতো পানি, যা মুখ ঝলসে দেয়। ৪৪:৪৫ আয়াতে যাক্কুম গাছের কথা, যার উল্লেখ ৪৪:৪৩ ও ৪৪:৪৪ আয়াতে। সেটি পাপীর খাদ্য, আর তা আল-মুহলের মতো পেটের ভেতর ফুটতে থাকবে।"
+            "bn": "কুরতুবী আলোচনা শেষ করেন এই বলে যে শব্দটি নিয়ে সূরা দুখান ও সূরা কাহফে আগেই কথা হয়েছে। ৭০:৮ ছাড়া কুরআনে আল-মুহল এসেছে ঠিক ওই দুই জায়গাতেই। ১৮:২৯ আয়াতে জাহান্নামের লোকেরা সাহায্যের জন্য ফরিয়াদ করলে তাদের দেওয়া হবে আল-মুহলের মতো পানি, যা মুখ ঝলসে দেয়। আর ৪৪:৪৫ আয়াতে যাক্কুম গাছের খাবার, যে গাছের কথা এসেছে ৪৪:৪৩ ও ৪৪:৪৪ আয়াতে, আল-মুহলের মতো পেটের ভেতর ফুটতে থাকবে।"
           },
           {
             "en": "In those two verses al-muhl describes what the people of the Fire drink and eat. Here it describes the sky. Al-Qurtubi only points to the earlier discussions; the text fetched for this verse does not carry them over, and the article does not import what he says there. At-Tabari likewise refers back to an earlier explanation without naming, in this passage, where it stands. The link the sources draw is the word itself, used of the Fire's drink and food and, here, of the heavens.",
@@ -321,7 +321,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa-fasilatihi allati tu'wihi: and his kindred who sheltered him. Three Arabic words, and they complete a list that began two verses earlier. In 70:11 the criminal, al-mujrim, wishes he could ransom himself from the punishment of that Day by his sons. In 70:12 he adds his wife and his brother. Here he adds his fasila, the kin who took him in. Then 70:14 widens the offer to whoever is on earth, all of them together, if only that would rescue him.",
-            "bn": "ওয়া ফাসীলাতিহিল্লাতী তু'উইহ: আর তার সেই আত্মীয়গোষ্ঠী, যারা তাকে আশ্রয় দিত। আরবিতে মাত্র তিনটি শব্দ। এগুলো দিয়ে শেষ হয় এমন এক তালিকা, যা শুরু হয়েছিল দুই আয়াত আগে। ৭০:১১ আয়াতে অপরাধী, আল-মুজরিম, চায় নিজের ছেলেদের বিনিময়ে সেদিনের আযাব থেকে ছাড়া পেতে। ৭০:১২ আয়াতে সে যোগ করে স্ত্রী আর ভাইকে। এখানে যোগ হয় তার ফাসীলা, যে আত্মীয়রা তাকে কাছে টেনে নিত। তারপর ৭০:১৪ আয়াতে প্রস্তাব ছড়িয়ে পড়ে দুনিয়ার সবার উপর, যদি এতে অন্তত সে বেঁচে যায়।"
+            "bn": "ওয়া ফাসীলাতিহিল্লাতী তু'উইহ: আর তার সেই আত্মীয়গোষ্ঠী, যারা তাকে আশ্রয় দিত। আরবিতে মাত্র তিনটি শব্দ। এগুলো দিয়ে শেষ হয় এমন এক তালিকা, যা শুরু হয়েছিল দুই আয়াত আগে। ৭০:১১ আয়াতে অপরাধী, আল-মুজরিম, চায় নিজের ছেলেদের বিনিময়ে সেদিনের আযাব থেকে ছাড়া পেতে। ৭০:১২ আয়াতে সে যোগ করে স্ত্রী আর ভাইকে। এখানে যোগ হয় তার ফাসীলা, যে আত্মীয়রা তাকে কাছে টেনে নিত। তারপর ৭০:১৪ আয়াতে সে দিয়ে দিতে চায় দুনিয়ার সবাইকে, একসঙ্গে সবাইকে, যদি তাতে অন্তত সে বেঁচে যায়।"
           },
           {
             "en": "At-Tabari, on the words just before this verse, reports Qatada describing the order of the list: the most beloved, then the most beloved, and the nearest, then the nearest, of his family and his clan, because of the hardships of that Day. Ibn Kathir, writing on the whole passage, says that even the child who was dearer to him in this world than the last beat of his heart is someone he would wish to hand over as ransom when he sees the horrors, and that even this child would not be accepted from him.",
@@ -341,11 +341,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What is a man's fasila? The sources do not settle on one circle. Mujahid, in at-Tabari's chain through Ibn Abi Najih, says: his tribe, qabilatuhu. Ibn Kathir names Mujahid and as-Suddi together: his tribe and his clan. Ibn Zayd, in at-Tabari, says: his 'ashira, his clan. Ikrima, in Ibn Kathir, narrows it to his fakhidh, the subdivision of the tribe that he is from. As-Sa'di gives the plainest word, qarabatuhu, his relatives, and al-Baghawi, beside Mujahid's tribe, reports others saying: his nearest relatives.",
-            "bn": "মানুষের ফাসীলা আসলে কারা? উৎসগুলো একটি বৃত্তে এসে থামে না। তাবারীর বর্ণনায়, ইবন আবী নাজীহের সূত্রে, মুজাহিদ বলেন: তার কাবীলা, মানে গোত্র। ইবন কাসীর মুজাহিদ ও সুদ্দীকে একসঙ্গে উল্লেখ করেন: তার গোত্র ও তার গোষ্ঠী। তাবারীতে ইবন যায়দ বলেন: তার আশীরা, তার গোষ্ঠী। ইবন কাসীরে ইকরিমা পরিধিটা ছোট করে আনেন। তাঁর মতে এ হলো তার ফাখিয, গোত্রের সেই উপশাখা যার সে সদস্য। সা'দী দেন সবচেয়ে সাদামাটা শব্দ, কারাবাতুহু, তার আত্মীয়স্বজন। আর বাগাভী মুজাহিদের গোত্র-অর্থের পাশাপাশি অন্যদের মত আনেন: তার সবচেয়ে নিকট আত্মীয়রা।"
+            "bn": "মানুষের ফাসীলা আসলে কারা? এর গণ্ডি কতটা, তা নিয়ে উৎসগুলো এক কথায় একমত নয়। তাবারীর বর্ণনায়, ইবন আবী নাজীহের সূত্রে, মুজাহিদ বলেন: তার কাবীলা, মানে গোত্র। ইবন কাসীর মুজাহিদ ও সুদ্দীকে একসঙ্গে উল্লেখ করেন: তার গোত্র ও তার গোষ্ঠী। তাবারীতে ইবন যায়দ বলেন: তার আশীরা, তার গোষ্ঠী। ইবন কাসীরে ইকরিমা পরিধিটা ছোট করে আনেন। তাঁর মতে এ হলো তার ফাখিয, গোত্রের সেই উপশাখা যার সে সদস্য। সা'দী দেন সবচেয়ে সাদামাটা শব্দ, কারাবাতুহু, তার আত্মীয়স্বজন। আর বাগাভী মুজাহিদের গোত্র-অর্থের পাশাপাশি অন্যদের মত আনেন: তার সবচেয়ে নিকট আত্মীয়রা।"
           },
           {
             "en": "Al-Baghawi's own gloss leans on the root: his clan from which he was separated out, fusila minhum. Al-Qurtubi gathers the scholars of the language. Abu 'Ubayda says the fasila is smaller than the tribe. Tha'lab says they are his nearest forefathers. Al-Mubarrad says a fasila is a piece of the body's limbs, and smaller than the tribe; a man's close family, his 'itra, is called his fasila by likening it to a part of him. On these readings the word is about belonging: the circle a person is a piece of.",
-            "bn": "বাগাভীর নিজের ব্যাখ্যা ধাতুর দিকে ঝোঁকে: তার সেই গোষ্ঠী, যাদের থেকে সে আলাদা হয়ে বেরিয়েছে, ফুসিলা মিনহুম। কুরতুবী ভাষাবিদদের মত একত্র করেন। আবু উবায়দা বলেন, ফাসীলা গোত্রের চেয়ে ছোট। সা'লাব বলেন, এরা তার নিকটতম পূর্বপুরুষ। মুবাররাদ বলেন, ফাসীলা মানে শরীরের অঙ্গপ্রত্যঙ্গের একটি টুকরো, আর তা গোত্রের চেয়ে ছোট। মানুষের ঘনিষ্ঠ পরিবার, তার ইতরা, তাকে ফাসীলা বলা হয়, কারণ তাকে তুলনা করা হয় তার নিজের দেহের অংশের সঙ্গে। এসব অর্থে শব্দটির মূল কথা আপন হওয়া। যে বৃত্তের সে নিজেই এক টুকরো।"
+            "bn": "বাগাভীর নিজের ব্যাখ্যা দাঁড়িয়ে আছে শব্দের মূল ধাতুর উপর: তার সেই গোষ্ঠী, যাদের থেকে সে আলাদা হয়ে বেরিয়েছে, ফুসিলা মিনহুম। কুরতুবী ভাষাবিদদের মত একত্র করেন। আবু উবায়দা বলেন, ফাসীলা গোত্রের চেয়ে ছোট। সা'লাব বলেন, এরা তার নিকটতম পূর্বপুরুষ। মুবাররাদ বলেন, ফাসীলা মানে শরীরের অঙ্গপ্রত্যঙ্গের একটি টুকরো, আর তা গোত্রের চেয়ে ছোট। মানুষের ঘনিষ্ঠ পরিবার, তার ইতরাকে ফাসীলা বলা হয় এই তুলনায় যে তারা যেন তার শরীরেরই অংশ। এসব অর্থে শব্দটির মূল কথা আপন হওয়া: মানুষ যে বৃত্তের নিজেই এক টুকরো।"
           },
           {
             "en": "One reading points inward to a single person. Ashhab reports from Malik, in Ibn Kathir, that a man's fasila is his mother. Al-Qurtubi gives it more fully, his mother who raises him, noting that al-Mawardi related it and Ashhab narrated it from Malik. So across these sources the word stretches from a whole tribe down to one woman. None of them is set here as the only meaning. Each stands as the next ring of the list, past the wife and the brother and before everyone on earth.",
@@ -361,7 +361,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Allati tu'wihi, who shelter him, is the clause that gives the verse its edge. Al-Qurtubi first glosses it as tansuruhu, who support him, giving this together with his clan for fasila as the words of Mujahid and Ibn Zayd. Later he adds a second explanation of the verb: tadummuhu wa-tu'minuhu min khawfin in kana bihi, who gather him in and make him safe from fear, if fear is upon him. Al-Baghawi's wording is close: who gather him in, and to whom he goes for refuge.",
-            "bn": "আল্লাতী তু'উইহ, যারা তাকে আশ্রয় দেয়, এই অংশটিই আয়াতকে ধার দেয়। কুরতুবী প্রথমে এর অর্থ করেন তানসুরুহু, যারা তাকে সাহায্য করে, তার পক্ষে দাঁড়ায়। ফাসীলার অর্থ গোষ্ঠী, আর এই সাহায্যের অর্থ, দুটোই তিনি মুজাহিদ ও ইবন যায়দের কথা বলে উল্লেখ করেন। পরে তিনি ক্রিয়াটির আরেকটি ব্যাখ্যা যোগ করেন: তাদুম্মুহু ওয়া তু'মিনুহু মিন খাওফিন ইন কানা বিহি। অর্থাৎ যারা তাকে কাছে টেনে নেয়, আর ভয় পেলে তাকে নিরাপত্তা দেয়। বাগাভীর ভাষাও কাছাকাছি: যারা তাকে কাছে টানে, আর বিপদে যাদের কাছে সে আশ্রয় নিতে যায়।"
+            "bn": "আল্লাতী তু'উইহ, যারা তাকে আশ্রয় দেয়: আয়াতের সবচেয়ে তীক্ষ্ণ কথাটি এই অংশেই। কুরতুবী প্রথমে এর অর্থ করেন তানসুরুহু, যারা তাকে সাহায্য করে, তার পক্ষে দাঁড়ায়। ফাসীলা মানে গোষ্ঠী, আর এই ক্রিয়ার মানে সাহায্য করা, দুটোই তিনি মুজাহিদ ও ইবন যায়দের কথা হিসেবে আনেন। পরে তিনি ক্রিয়াটির আরেকটি ব্যাখ্যা যোগ করেন: তাদুম্মুহু ওয়া তু'মিনুহু মিন খাওফিন ইন কানা বিহি। অর্থাৎ যারা তাকে কাছে টেনে নেয়, আর ভয় পেলে তাকে নিরাপত্তা দেয়। বাগাভীর ভাষাও কাছাকাছি: যারা তাকে কাছে টানে, আর বিপদে যাদের কাছে সে আশ্রয় নিতে যায়।"
           },
           {
             "en": "The Muyassar joins the shelter to the belonging: his clan that gathers him in and to which he belongs by kinship. As-Sa'di explains the clause by what is ordinary in this world. These, he says, are the kin whose habit in the world has been to stand by each other and help each other. Then he turns to the Day itself, and the turn is the point of his gloss: on the Day of Resurrection nobody benefits anybody, and nobody intercedes except by the permission of Allah.",
@@ -385,7 +385,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The point for a reader is modest. A word in the Qur'an can carry a range the scholars kept open, even when it decided who would receive a bequest. Al-Qurtubi named the usage that is more common without striking out the narrower one. This article holds the meaning of fasila the same way: tribe, clan, branch of a tribe, nearest relatives, forefathers or mother, each with its name attached and none of them picked.",
-            "bn": "পাঠকের জন্য শিক্ষাটা ছোট। কুরআনের একটি শব্দ অর্থের এমন পরিসর বহন করতে পারে, যা আলেমরা খোলা রেখেছেন, ওসিয়ত কে পাবে সেই প্রশ্ন এর উপর নির্ভর করলেও। কুরতুবী বেশি প্রচলিত অর্থটির কথা বলেছেন, কিন্তু সংকীর্ণ অর্থটিকে বাতিল করেননি। এই লেখাও ফাসীলার অর্থ সেভাবেই ধরে রাখে: গোত্র, গোষ্ঠী, গোত্রের উপশাখা, নিকটতম আত্মীয়, পূর্বপুরুষ কিংবা মা। প্রতিটি মতের সঙ্গে তার বক্তার নাম আছে, আর কোনোটিকেই বেছে নেওয়া হয়নি।"
+            "bn": "পাঠকের জন্য শিক্ষাটা ছোট। কুরআনের একটি শব্দের অর্থ কয়েক দিকে ছড়াতে পারে, আর আলেমরা সেই পরিসর খোলা রেখেছেন। এমনকি ওসিয়ত কে পাবে, সেটা যখন এই অর্থের উপর নির্ভর করেছে, তখনও। কুরতুবী বেশি প্রচলিত অর্থটির কথা বলেছেন, কিন্তু সংকীর্ণ অর্থটিকে বাতিল করেননি। এই লেখাও ফাসীলার অর্থ সেভাবেই ধরে রাখে: গোত্র, গোষ্ঠী, গোত্রের উপশাখা, নিকটতম আত্মীয়, পূর্বপুরুষ কিংবা মা। প্রতিটি মতের সঙ্গে তার বক্তার নাম আছে, আর কোনোটিকেই বেছে নেওয়া হয়নি।"
           }
         ]
       },
@@ -468,16 +468,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Diagnosis Before the Exception",
-          "bn": "ব্যতিক্রমের আগে রোগনির্ণয়"
+          "bn": "ব্যতিক্রমের আগে রোগের কথা"
         },
         "p": [
           {
             "en": "Surah al-Ma'arij describes a human being before it names any cure. In 70:19 man is created halu'an, and the next two verses define the word rather than leave it standing: when evil touches him he is jazu'an, panicky; when good touches him he is manu'an, withholding. It is a portrait of someone unstable in both directions, unable to bear loss and unable to share gain. The Quran states it as how we are made, not as an accusation levelled at a few bad people.",
-            "bn": "সূরা আল-মা'আরিজ কোনো প্রতিকারের নাম বলার আগে মানুষটির বর্ণনা দেয়। 70:19 আয়াতে বলা হয়, মানুষকে সৃষ্টি করা হয়েছে 'হালূ'আন' করে; আর পরের দুই আয়াত শব্দটিকে ঝুলিয়ে না রেখে তার সংজ্ঞা দেয়: বিপদ তাকে স্পর্শ করলে সে হয় 'জাযূ'আন', উৎকণ্ঠিত; কল্যাণ তাকে স্পর্শ করলে সে হয় 'মানূ'আন', কৃপণ। এটি এমন একজনের প্রতিকৃতি যে দুই দিকেই অস্থির — ক্ষতি সইতে পারে না, লাভ ভাগ করতেও পারে না। কুরআন একে বলে আমাদের গড়নের কথা হিসেবে, গুটিকয় খারাপ মানুষের বিরুদ্ধে অভিযোগ হিসেবে নয়।"
+            "bn": "সূরা আল-মা'আরিজ কোনো চিকিৎসার কথা বলার আগে মানুষকে চিনিয়ে দেয়। ৭০:১৯ আয়াতে বলা হয়েছে, মানুষকে সৃষ্টি করা হয়েছে 'হালূ'আন' করে। পরের দুই আয়াত শব্দটিকে ঝুলিয়ে না রেখে নিজেই এর অর্থ বলে দেয়: বিপদ ছুঁলে সে হয় 'জাযূ'আন', অস্থির হয়ে ভেঙে পড়ে; আর কল্যাণ ছুঁলে হয় 'মানূ'আন', হাত গুটিয়ে রাখে। এ এমন মানুষের ছবি, যে দুই দিকেই টলমল: ক্ষতি সইতে পারে না, লাভও ভাগ করতে পারে না। কুরআন একে বলে আমাদের গড়নের কথা, গুটিকয় খারাপ মানুষের বিরুদ্ধে অভিযোগ নয়।"
           },
           {
             "en": "Then comes the exception, and in Arabic it is two words: illa al-musallin — except those who pray. Al-musallin is an active participle, a standing description rather than a report of an act performed once. The exception is not from being human. It is from the condition just described. The Quran does not say that people who pray were made out of some other material; it says that this is what breaks the pattern. Everything the passage adds afterwards explains how.",
-            "bn": "এরপর আসে ব্যতিক্রম, আর আরবিতে তা মাত্র দুটি শব্দ: ইল্লাল মুসাল্লীন — নামাযীরা ছাড়া। 'আল-মুসাল্লীন' একটি কর্তৃবাচক বিশেষণ, অর্থাৎ একবার সম্পন্ন কোনো কাজের খবর নয়, বরং একটি স্থায়ী পরিচয়। ব্যতিক্রমটি মানুষ হওয়া থেকে নয়। এটি ঠিক এইমাত্র বর্ণিত অবস্থাটি থেকে। কুরআন বলে না যে নামাযীদের অন্য কোনো উপাদানে গড়া হয়েছে; এটি বলে, এই জিনিসটিই ছকটি ভাঙে। এরপর অনুচ্ছেদটি যা যা যোগ করে, সবই ব্যাখ্যা করে কীভাবে।"
+            "bn": "এরপর আসে ব্যতিক্রম। আরবিতে তা মাত্র দুটি শব্দ: ইল্লাল মুসাল্লীন, নামাজিরা ছাড়া। 'আল-মুসাল্লীন' কর্তৃবাচক বিশেষণ। এটি একবার করা কোনো কাজের খবর নয়, বরং স্থায়ী পরিচয়। ব্যতিক্রমটা মানুষ হওয়া থেকে নয়, ঠিক আগে বলা অবস্থাটা থেকে। কুরআন বলে না যে নামাজিদের অন্য কোনো উপাদানে গড়া হয়েছে। বলে, এই জিনিসটিই ধারাটা ভেঙে দেয়। এরপর আয়াতগুলো যা যা যোগ করে, সবই বুঝিয়ে দেয় কীভাবে।"
           }
         ]
       },
@@ -489,7 +489,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The next verse qualifies who is meant: alladhina hum 'ala salatihim da'imun, those who are constant in their prayer. Da'im is continuity, something that does not stop. Two readings are recorded from the early commentators: that it means never abandoning the prayer, and that it means keeping it at its appointed times. The point survives either reading, and 107:4-5 shows the contrast the Quran itself draws, where woe is pronounced on those who pray but are heedless of their prayer. Praying is not the qualification; being constant in it is.",
-            "bn": "পরের আয়াতটি নির্দিষ্ট করে দেয় কাদের কথা বলা হচ্ছে: আল্লাযীনা হুম 'আলা সালাতিহিম দাইমূন — যারা তাদের নামাযে অবিচল। 'দাইম' মানে ধারাবাহিকতা, এমন কিছু যা থামে না। প্রাচীন মুফাসসিরদের থেকে দুটি পাঠ বর্ণিত: এর অর্থ নামায কখনো ছেড়ে না দেওয়া, এবং এর অর্থ নির্ধারিত সময়ে তা আদায় করা। যে পাঠই নিন, মূল কথাটি টিকে থাকে; আর 107:4-5 আয়াতে কুরআন নিজেই যে বৈপরীত্য আঁকে তা দেখায়, যেখানে দুর্ভোগ ঘোষণা করা হয় তাদের জন্য যারা নামায পড়ে অথচ নিজেদের নামায সম্পর্কে উদাসীন। নামায পড়াটাই যোগ্যতা নয়; তাতে অবিচল থাকাটাই যোগ্যতা।"
+            "bn": "পরের আয়াত স্পষ্ট করে দেয়, কাদের কথা বলা হচ্ছে: আল্লাযীনা হুম 'আলা সালাতিহিম দাইমূন, যারা নিজেদের নামাজে অবিচল। 'দাইম' মানে লেগে থাকা, এমন কিছু যা থামে না। পূর্বসূরি মুফাসসিরদের কাছ থেকে দুটি ব্যাখ্যা এসেছে: কখনো নামাজ না ছাড়া, আর নির্ধারিত ওয়াক্তে নামাজ আদায় করা। যেটাই ধরুন, মূল কথা একই থাকে। কুরআন নিজেই ১০৭:৪-৫ আয়াতে এর উল্টো ছবি দেখায়: সেখানে দুর্ভোগ তাদের জন্য, যারা নামাজ পড়ে অথচ নিজেদের নামাজের ব্যাপারে উদাসীন। শর্তটা তাই শুধু নামাজ পড়া নয়, নামাজে লেগে থাকা।"
           }
         ]
       },
@@ -501,31 +501,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The list that follows is not only about worship. After prayer come those in whose wealth is a known right for the petitioner and the deprived in 70:24-25, then those who believe in the Day of Recompense in 70:26, those who fear their Lord's punishment in 70:27-28, those who guard their chastity in 70:29-31, those attentive to their trusts and promises in 70:32, and those upright in their testimonies in 70:33, before 70:34 returns to prayer and 70:35 states the reward: they will be in gardens, honoured.",
-            "bn": "এরপরের তালিকাটি কেবল ইবাদতের নয়। নামাযের পর আসে তারা, যাদের সম্পদে প্রার্থী ও বঞ্চিতের জন্য একটি সুবিদিত অধিকার আছে — 70:24-25 আয়াতে; তারপর যারা বিচার দিবসে বিশ্বাস করে — 70:26 আয়াতে; যারা তাদের প্রতিপালকের শাস্তিকে ভয় করে — 70:27-28 আয়াতে; যারা নিজেদের লজ্জাস্থান সংরক্ষণ করে — 70:29-31 আয়াতে; যারা আমানত ও ওয়াদার ব্যাপারে যত্নবান — 70:32 আয়াতে; আর যারা সাক্ষ্যদানে সুপ্রতিষ্ঠিত — 70:33 আয়াতে। এরপর 70:34 আয়াতে ফিরে আসে নামাযের কথা, আর 70:35 আয়াতে বলা হয় প্রতিদান: তারাই থাকবে জান্নাতে, সম্মানিত অবস্থায়।"
+            "bn": "এরপরের তালিকা শুধু ইবাদতের নয়। নামাজের পরে আসে তারা, যাদের সম্পদে প্রার্থী ও বঞ্চিতের জন্য নির্ধারিত হক আছে (৭০:২৪-২৫)। তারপর যারা বিচার দিবসে বিশ্বাস করে (৭০:২৬), যারা রবের শাস্তিকে ভয় করে (৭০:২৭-২৮), যারা নিজেদের লজ্জাস্থান হেফাজত করে (৭০:২৯-৩১), যারা আমানত ও ওয়াদার খেয়াল রাখে (৭০:৩২), আর যারা সাক্ষ্যে অটল (৭০:৩৩)। এরপর ৭০:৩৪ আয়াত আবার নামাজে ফিরে আসে, আর ৭০:৩৫ জানায় প্রতিদান: তারা থাকবে জান্নাতে, সম্মানের সঙ্গে।"
           }
         ]
       },
       {
         "h": {
           "en": "Opening and Closing on Prayer",
-          "bn": "নামায দিয়ে শুরু, নামায দিয়ে শেষ"
+          "bn": "নামাজ দিয়ে শুরু, নামাজ দিয়ে শেষ"
         },
         "p": [
           {
             "en": "The two prayer verses are not a repetition, and the Arabic makes the difference audible. 70:23 says they are da'imun over their prayer; 70:34 says they are yuhafizun over it — guarding it, keeping watch on it. Constancy is about not stopping; guarding is about the thing itself, its times and its conditions and the attention paid inside it. Between those two statements the passage places money, belief, fear, chastity, contracts and testimony. Prayer is set as the frame around a whole social life rather than as one item on a list.",
-            "bn": "নামায-সংক্রান্ত দুটি আয়াত পুনরাবৃত্তি নয়, আর আরবি পার্থক্যটি কানে ধরিয়ে দেয়। 70:23 আয়াতে বলা হয় তারা তাদের নামাযের ব্যাপারে 'দাইমূন'; 70:34 আয়াতে বলা হয় তারা তার ব্যাপারে 'ইউহাফিযূন' — রক্ষা করে, পাহারা দেয়। অবিচলতা হলো না থামা; আর রক্ষা করা হলো জিনিসটিকে ঘিরে — তার সময়, তার শর্ত এবং তার ভেতরে দেওয়া মনোযোগ। এই দুটি বক্তব্যের মাঝখানে অনুচ্ছেদটি বসিয়ে দেয় অর্থ, বিশ্বাস, ভয়, সতীত্ব, চুক্তি ও সাক্ষ্য। নামায এখানে তালিকার একটি আইটেম নয়, বরং গোটা সামাজিক জীবনের চারপাশে বসানো কাঠামো।"
+            "bn": "নামাজের দুটি আয়াত একই কথার পুনরাবৃত্তি নয়, আরবি শব্দেই পার্থক্যটা কানে বাজে। ৭০:২৩ আয়াতে বলা হয়েছে, তারা নিজেদের নামাজে 'দাইমূন'। ৭০:৩৪ আয়াতে বলা হয়েছে, তারা নামাজের ব্যাপারে 'ইউহাফিযূন', অর্থাৎ তা হেফাজত করে, পাহারা দিয়ে রাখে। অবিচল থাকা মানে না থামা। আর হেফাজতের কথা নামাজকে নিয়েই: তার ওয়াক্ত, তার শর্ত, আর নামাজের ভেতরের মনোযোগ। এই দুই কথার মাঝখানে আয়াতগুলো রেখেছে সম্পদ, ঈমান, ভয়, চারিত্রিক পবিত্রতা, চুক্তি আর সাক্ষ্য। ফলে নামাজ এখানে তালিকার একটি দফা নয়। গোটা সামাজিক জীবনকে দুই পাশ থেকে ঘিরে রেখেছে নামাজ।"
           }
         ]
       },
       {
         "h": {
           "en": "A Known Right",
-          "bn": "সুবিদিত অধিকার"
+          "bn": "নির্ধারিত হক"
         },
         "p": [
           {
             "en": "The item placed first inside that frame answers the diagnosis directly. Against manu'an, withholding, the passage sets a haqq ma'lum, a known right, fixed inside a person's wealth for the one who asks and the one who is deprived. Al-Ma'arij is Makkan, and the scholars differ over whether the known right here is the zakat or a claim standing alongside it; the same idea appears in 51:19 without the word known attached to it. Either way, withholding is answered by a right that belongs to somebody else and is not the owner's to feel generous about.",
-            "bn": "সেই কাঠামোর ভেতরে প্রথমেই যে জিনিসটি বসানো হয়েছে, তা রোগনির্ণয়ের সরাসরি জবাব। 'মানূ'আন' অর্থাৎ কৃপণতার বিপরীতে অনুচ্ছেদটি বসায় 'হাক্ব মা'লূম' — একটি সুবিদিত অধিকার, যা মানুষের সম্পদের ভেতরেই নির্ধারিত, প্রার্থী ও বঞ্চিতের জন্য। সূরা আল-মা'আরিজ মক্কী, আর আলিমগণ মতভেদ করেছেন যে এখানকার সুবিদিত অধিকার যাকাত, নাকি তার পাশাপাশি দাঁড়ানো আরেকটি দাবি; একই ভাব এসেছে 51:19 আয়াতে, তবে সেখানে 'সুবিদিত' শব্দটি নেই। যেভাবেই দেখা হোক, কৃপণতার জবাব দেওয়া হয়েছে এমন এক অধিকার দিয়ে যা অন্য কারও, আর যা নিয়ে উদারতা অনুভব করার অধিকার মালিকের নেই।"
+            "bn": "সেই কাঠামোর ভেতরে প্রথমে যা রাখা হয়েছে, তা সরাসরি ওই রোগের জবাব। 'মানূ'আন', অর্থাৎ হাত গুটিয়ে রাখার বিপরীতে আয়াতগুলো রাখে 'হাক্ব মা'লূম', নির্ধারিত হক। এ হক মানুষের সম্পদের ভেতরেই ঠিক করা আছে, যে চায় তার জন্য, আর যে বঞ্চিত তার জন্য। সূরা আল-মা'আরিজ মক্কী। এখানকার নির্ধারিত হক কি যাকাত, নাকি যাকাতের পাশাপাশি আলাদা কোনো পাওনা, তা নিয়ে আলেমদের মতভেদ আছে। একই কথা এসেছে ৫১:১৯ আয়াতে, তবে সেখানে 'মা'লূম' (নির্ধারিত) শব্দটি নেই। যেভাবেই দেখা হোক, কৃপণতার জবাব এখানে এমন এক হক, যা অন্যের পাওনা। এ নিয়ে নিজেকে দানশীল ভাবার সুযোগ মালিকের নেই।"
           }
         ]
       },
@@ -537,7 +537,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The practice this verse asks for is unglamorous. Muslim relates from Aisha (RA) that the deeds most beloved to Allah are the most constant of them, even if they are few. Applied here, a small routine that survives travel, illness, a bad week and a good one is closer to what 70:23 describes than a burst of devotion that ends. And the passage argues that this is a remedy and not merely a duty: the panic and the tight-fistedness set out in 70:19-21 are treated by something done five times a day, whether or not the day seemed to deserve it.",
-            "bn": "এই আয়াত যে আমল চায় তা চটকহীন। মুসলিম আয়িশা (রাঃ) থেকে বর্ণনা করেন, আল্লাহর কাছে সবচেয়ে প্রিয় আমল সেটিই যা সবচেয়ে নিয়মিত, তা পরিমাণে কম হলেও। এখানে প্রয়োগ করলে দাঁড়ায়: এমন একটি ছোট নিয়ম যা সফর, অসুস্থতা, খারাপ সপ্তাহ ও ভালো সপ্তাহ পেরিয়েও টিকে থাকে, তা 70:23 আয়াতের বর্ণনার অনেক কাছাকাছি — এক ঝলক ইবাদতের চেয়ে যা শেষ হয়ে যায়। আর অনুচ্ছেদটি যুক্তি দেয় যে এটি নিছক দায়িত্ব নয়, প্রতিকার: 70:19-21 আয়াতে বর্ণিত উৎকণ্ঠা ও মুষ্টিবদ্ধ হাত সারানো হয় এমন কিছু দিয়ে যা দিনে পাঁচবার করা হয়, দিনটি তার যোগ্য মনে হোক বা না হোক।"
+            "bn": "এই আয়াত যে আমল চায়, তাতে কোনো চমক নেই। মুসলিম আয়িশা (রাঃ) থেকে বর্ণনা করেন: আল্লাহর কাছে সবচেয়ে প্রিয় আমল সেটি, যা সবচেয়ে নিয়মিত করা হয়, পরিমাণে কম হলেও। এখানে খাটালে দাঁড়ায়: সফর, অসুখ, খারাপ সপ্তাহ, ভালো সপ্তাহ, সব পেরিয়েও যে ছোট অভ্যাস টিকে থাকে, তা ৭০:২৩ আয়াতের বর্ণনার অনেক কাছে। হঠাৎ জ্বলে উঠে নিভে যাওয়া ইবাদত ততটা কাছে নয়। আয়াতগুলো এটাও বোঝায় যে এটা শুধু দায়িত্ব নয়, চিকিৎসাও। ৭০:১৯-২১ আয়াতে যে অস্থিরতা আর হাত গুটিয়ে রাখার কথা, তার চিকিৎসা হয় দিনে পাঁচবার করা একটি কাজ দিয়ে, দিনটা তার যোগ্য মনে হোক বা না হোক।"
           }
         ]
       }
