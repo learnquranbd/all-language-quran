@@ -569,27 +569,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Everyone has a version of 5:22: a good thing assigned to them, with something frightening standing inside it. The course you have not enrolled in, the marriage you keep postponing, the debt you have not faced, the repentance you are waiting to feel ready for, the conversation with a parent you have rehearsed for years. The people's error was not fear itself; the two men in 5:23 were also afraid of Allah. It was waiting for the difficulty to leave on its own before going in. Name your door this week, and take the two men's counsel: through the gate, relying on Allah.",
-            "bn": "৫:২২ আয়াতের একটা নিজস্ব সংস্করণ সবার আছে: নিজের জন্য নির্ধারিত একটা ভালো জিনিস, যার ভেতরে ভয়ের কিছু দাঁড়িয়ে। যে কোর্সে আপনি ভর্তি হননি, যে বিয়ে ফেলে রাখছেন, যে ঋণের মুখোমুখি হননি, যে তওবার জন্য তৈরি বোধ করার অপেক্ষায় আছেন, বাবা-মায়ের সঙ্গে যে কথাটা বছরের পর বছর মনে মনে সাজিয়েছেন। লোকদের ভুলটা ভয় নিজে ছিল না; ৫:২৩ আয়াতের দুজন মানুষও আল্লাহকে ভয় করতেন। ভুলটা ছিল, ঢোকার আগে কষ্টটা নিজে থেকে সরে যাওয়ার অপেক্ষা করা। এই সপ্তাহে নিজের দরজাটার নাম দিন, আর ওই দুজনের পরামর্শ নিন: দরজা দিয়ে ঢুকে পড়ুন, আল্লাহর ওপর ভরসা করে।"
+            "bn": "সবার জীবনেই একটা নিজের ৫:২২ আছে: নিজের ভাগে লেখা একটা ভালো জিনিস, যার ভেতরে ভয়ের কিছু একটা দাঁড়িয়ে আছে। যে কোর্সে এখনো ভর্তি হননি, যে বিয়েটা বারবার পিছিয়ে দিচ্ছেন, যে ঋণের মুখোমুখি হননি, যে তওবার জন্য মন তৈরি হওয়ার অপেক্ষায় আছেন, বাবা-মায়ের সঙ্গে যে কথাটা বছরের পর বছর মনে মনে সাজাচ্ছেন। ওই লোকদের ভুলটা ভয় পাওয়া ছিল না; ৫:২৩ আয়াতের সেই দুজন মানুষও আল্লাহকে ভয় করতেন। ভুল ছিল এই অপেক্ষা: কষ্টটা আগে নিজে থেকে সরে যাক, তারপর ঢুকব। এই সপ্তাহে নিজের দরজাটা চিনে নিয়ে তার নাম দিন, আর ওই দুজনের পরামর্শ মানুন: আল্লাহর ওপর ভরসা করে দরজা দিয়ে ঢুকে পড়ুন।"
           },
           {
             "en": "The second lesson is for anyone responsible for people who will not move: parents, teachers, elder siblings, those who lead a small community. Musa (AS) said he controlled only himself and his brother, and Allah did not correct him. Your reach ends at your own conduct and at those who will still walk with you. Do what you were given to do, say what you were given to say, and then bring the rest to Allah as he did. Do not grieve is not permission to stop caring; it is a limit on how much of another person's refusal you are allowed to carry.",
-            "bn": "দ্বিতীয় শিক্ষা তাদের জন্য, যারা এমন মানুষের দায়িত্বে আছেন যারা নড়তে চায় না: বাবা-মা, শিক্ষক, বড় ভাইবোন, ছোট কোনো সমাজের নেতা। মূসা (আঃ) বলেছিলেন, তাঁর হাত আছে কেবল নিজের আর ভাইয়ের ওপর, আর আল্লাহ তাঁকে শুধরে দেননি। আপনার নাগাল শেষ হয় আপনার নিজের আচরণে, আর তাদের কাছে যারা এখনো আপনার সঙ্গে হাঁটে। যা করতে বলা হয়েছে করুন, যা বলতে বলা হয়েছে বলুন, তারপর বাকিটা তাঁর মতো আল্লাহর কাছে নিয়ে যান। শোক কোরো না মানে পরোয়া ছেড়ে দেওয়ার অনুমতি নয়; এটা একটা সীমা, অন্যের অস্বীকারের কতটা বোঝা আপনি বইতে পারবেন।"
+            "bn": "দ্বিতীয় শিক্ষাটা তাঁদের জন্য, যাঁদের দায়িত্বে এমন মানুষ আছে যারা কিছুতেই নড়তে চায় না: বাবা-মা, শিক্ষক, বড় ভাইবোন, ছোট কোনো সমাজের নেতা। মূসা (আঃ) বলেছিলেন, নিজের আর ভাইয়ের ওপর ছাড়া তাঁর কোনো হাত নেই, আর আল্লাহ তাঁকে শুধরে দেননি। আপনার হাত চলে আপনার নিজের আচরণ পর্যন্ত, আর যারা এখনো আপনার সঙ্গে চলতে রাজি, তাদের পর্যন্ত। যা করার দায়িত্ব পেয়েছেন করুন, যা বলার দায়িত্ব পেয়েছেন বলুন, তারপর তাঁর মতো বাকিটা আল্লাহর কাছে সঁপে দিন। শোক কোরো না মানে পরোয়া ছেড়ে দেওয়ার অনুমতি নয়। এর মানে, অন্যের অস্বীকারের বোঝা কতটুকু আপনার বইবার কথা, তার একটা সীমা আছে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Prayer After Every Effort",
-          "bn": "যে সব করেছে, তার দোয়া"
+          "bn": "সব চেষ্টার পরের দোয়া"
         },
         "p": [
           {
             "en": "5:25 is itself a supplication, and it can be said in the verse's own words: My Lord, indeed I do not possess except myself and my brother, so part us from the defiantly disobedient people. Rabbi inni la amliku illa nafsi wa akhi, fa-fruq baynana wa bayna al-qawmi al-fasiqin. Its time is specific: after the message has been given, after the two men have spoken, after the refusal has been made final. It is not a prayer to be said early, as a way out of trying. It is the prayer of the one who has tried everything the task contained.",
-            "bn": "৫:২৫ আয়াত নিজেই একটি দোয়া, আর তা আয়াতের নিজের ভাষাতেই বলা যায়: হে আমার রব, নিজের আর আমার ভাইয়ের ওপর ছাড়া কারও ওপর আমার ক্ষমতা নেই, কাজেই এই অবাধ্য সম্প্রদায় থেকে আমাদের আলাদা করে দিন। রব্বি ইন্নী লা আমলিকু ইল্লা নাফসী ওয়া আখী, ফা-ফরুক্ব বাইনানা ওয়া বাইনাল ক্বাওমিল ফাসিক্বীন। এর সময়টা নির্দিষ্ট: বাণী পৌঁছে দেওয়ার পর, দুজন মানুষের কথা বলার পর, অস্বীকার চূড়ান্ত হওয়ার পর। এটা আগেভাগে বলার দোয়া নয়, চেষ্টা থেকে পালানোর পথ হিসেবে নয়। কাজটার ভেতরে যা যা ছিল সব চেষ্টা করে ফেলেছে, এটা তার দোয়া।"
+            "bn": "৫:২৫ আয়াত নিজেই একটা দোয়া, আর আয়াতের ভাষাতেই তা পড়া যায়: হে আমার রব, নিজের আর আমার ভাইয়ের ওপর ছাড়া কারও ওপর আমার ক্ষমতা নেই, কাজেই এই অবাধ্য সম্প্রদায় থেকে আমাদের আলাদা করে দিন। রব্বি ইন্নী লা আমলিকু ইল্লা নাফসী ওয়া আখী, ফা-ফরুক্ব বাইনানা ওয়া বাইনাল ক্বাওমিল ফাসিক্বীন। এ দোয়ার একটা নির্দিষ্ট সময় আছে: দাওয়াত পৌঁছে দেওয়ার পর, ওই দুজন কথা বলার পর, অস্বীকার পাকা হয়ে যাওয়ার পর। চেষ্টা এড়ানোর ছুতো হিসেবে আগেভাগে পড়ার দোয়া এটা নয়। কাজটায় যা যা করার ছিল, সব চেষ্টা করে ফেলার পর মানুষ এই দোয়া করে।"
           },
           {
             "en": "Pair it with the two men's words in 5:23, wa 'ala Allahi fa-tawakkalu in kuntum mu'minin, and upon Allah rely, if you are believers, which the same passage offers as the counsel for the moment before a door. The two together give a believer both halves of the passage: the courage to go in, and the release to hand over what would not go in with you. Neither is complete without the other, and the passage places them two verses apart so that the one who prays the second has first been asked to live the first.",
-            "bn": "এর সঙ্গে জুড়ে নিন ৫:২৩ আয়াতে ওই দুজনের কথা: ওয়া 'আলাল্লাহি ফা-তাওয়াক্কালূ ইন কুনতুম মু'মিনীন, আর আল্লাহর ওপর ভরসা করো, যদি তোমরা মুমিন হও। একই অংশ এটাকে রেখেছে দরজার সামনে দাঁড়ানো মুহূর্তের পরামর্শ হিসেবে। দুটো একসঙ্গে মুমিনকে অংশটির দুই অর্ধেকই দেয়: ঢুকে পড়ার সাহস, আর যা আপনার সঙ্গে ঢুকবে না তা তুলে দেওয়ার মুক্তি। একটা ছাড়া অন্যটা পূর্ণ নয়। অংশটি দুটোকে দুই আয়াত দূরে রেখেছে, যাতে যে দ্বিতীয়টা পড়ছে, তাকে আগে প্রথমটা যাপন করতে বলা হয়ে থাকে।"
+            "bn": "এর সঙ্গে জুড়ে নিন ৫:২৩ আয়াতে ওই দুজনের কথা: ওয়া 'আলাল্লাহি ফা-তাওয়াক্কালূ ইন কুনতুম মু'মিনীন, আর আল্লাহর ওপর ভরসা করো, যদি তোমরা মুমিন হও। দরজার সামনে দাঁড়ানোর মুহূর্তে এটাই এই অংশের পরামর্শ। দুটো মিলে মুমিন পায় পুরো শিক্ষাটা: ঢুকে পড়ার সাহস, আর যা আপনার সঙ্গে ঢুকতে রাজি হলো না, তা আল্লাহর হাতে ছেড়ে দেওয়ার স্বস্তি। একটা ছাড়া আরেকটা অসম্পূর্ণ। তাই দুটোর মাঝে দুই আয়াতের দূরত্ব: দ্বিতীয় দোয়াটা যে করবে, তাকে আগে প্রথম কথাটা জীবনে করে দেখাতে হয়।"
           }
         ]
       },
@@ -605,7 +605,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Musa (AS) admitted before Allah that he controlled only himself and his brother. Whose choices am I exhausting myself trying to control, and what would change if I said his sentence honestly about them? When my sincere counsel has been refused, do I know the moment to stop pressing and hand my grief to Allah, or do I keep carrying a refusal that was never mine? And the wilderness was fed every day: where in my own hard season is the manna I have been too resentful to notice?",
-            "bn": "মূসা (আঃ) আল্লাহর সামনে স্বীকার করেছিলেন, তাঁর হাত আছে কেবল নিজের আর ভাইয়ের ওপর। আমি কার কার সিদ্ধান্ত নিয়ন্ত্রণ করতে গিয়ে নিজেকে নিঃশেষ করছি, আর তাদের নিয়ে তাঁর বাক্যটা সততার সঙ্গে বললে কী বদলাত? আমার আন্তরিক উপদেশ ফিরিয়ে দেওয়া হলে, চাপ দেওয়া থামিয়ে দুঃখটা আল্লাহর হাতে তুলে দেওয়ার মুহূর্তটা কি আমি চিনি, নাকি এমন এক অস্বীকারের বোঝা বয়ে চলি যা কখনো আমার ছিল না? আর প্রান্তরে প্রতিদিন খাওয়ানো হয়েছিল: আমার নিজের কঠিন মৌসুমে সেই মান্না কোথায়, যা অভিমানের কারণে আমার চোখেই পড়েনি?"
+            "bn": "মূসা (আঃ) আল্লাহর সামনে স্বীকার করেছিলেন, নিজের আর ভাইয়ের ওপর ছাড়া তাঁর কোনো হাত নেই। কার কার সিদ্ধান্ত নিয়ন্ত্রণ করতে গিয়ে আমি নিজেকে শেষ করে দিচ্ছি? তাদের ব্যাপারে তাঁর ওই কথাটা সৎভাবে নিজের মুখে বললে কী বদলাত? আমার আন্তরিক উপদেশ কেউ ফিরিয়ে দিলে আমি কি বুঝি, কখন চাপ দেওয়া থামিয়ে দুঃখটা আল্লাহর হাতে তুলে দিতে হয়? নাকি এমন এক অস্বীকারের বোঝা বয়ে চলি, যা কখনো আমার ছিলই না? আর মরুপ্রান্তরেও তারা প্রতিদিন খাবার পেত: আমার নিজের কঠিন সময়ে সেই মান্না কোথায়, যা ক্ষোভের কারণে আমার চোখেই পড়েনি?"
           }
         ]
       }
@@ -621,11 +621,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse begins mid-argument: min ajli dhalika, because of that. The reference is to the account just told in 5:27-31 — the two sons of Adam (AS), one of whom offered a sacrifice that was not accepted, envied his brother, and killed him. The Quran does not name the two men. What it records is the first unjust killing, the killer's regret, and then, because of that, a decree written upon the Children of Israel.",
-            "bn": "আয়াতটি শুরু হয় যুক্তির মাঝপথ থেকে: মিন আজলি যালিকা — এ কারণেই। ইঙ্গিতটি 5:27-31-এ সদ্য বলা ঘটনার দিকে — আদম (আঃ)-এর দুই পুত্র, যাদের একজনের কুরবানী কবুল হয়নি, সে ভাইকে হিংসা করল এবং তাকে হত্যা করল। কুরআন দুজনের নাম নেয়নি। যা লিপিবদ্ধ করেছে তা হলো প্রথম অন্যায় হত্যা, হত্যাকারীর অনুশোচনা, আর তারপর — এ কারণেই — বনী ইসরাঈলের ওপর লিখে দেওয়া এক বিধান।"
+            "bn": "আয়াতটি শুরু হয় কথার মাঝখান থেকে: মিন আজলি যালিকা, এ কারণেই। ইশারাটা ঠিক আগের ৫:২৭-৩১ আয়াতে বলা ঘটনার দিকে: আদম (আঃ)-এর দুই ছেলে। একজনের কুরবানী কবুল হয়নি; সে ভাইকে হিংসা করল, তারপর তাকে হত্যা করল। কুরআন দুজনের নাম বলেনি। কুরআন যা লিখে রেখেছে তা হলো প্রথম অন্যায় হত্যা, হত্যাকারীর অনুতাপ, আর তারপর, এ কারণেই, বনী ইসরাঈলের ওপর লিখে দেওয়া একটি বিধান।"
           },
           {
             "en": "The sequencing is the teaching. Law is being traced to its origin story: because envy once talked a man into shedding his brother's blood, a written rule became necessary for those who came after. The decree was given to Bani Israil in their scripture, but the mufassirun are explicit that the value it protects is universal, which is why the Quran retells it here to the community of Muhammad ﷺ, for whom the story and the rule are equally binding lessons.",
-            "bn": "এই ক্রমটিই শিক্ষা। বিধানকে তার উৎস-কাহিনিতে ফিরিয়ে দেখানো হচ্ছে: হিংসা যেহেতু একবার এক মানুষকে ভাইয়ের রক্ত ঝরাতে রাজি করিয়েছিল, তাই পরবর্তীদের জন্য একটি লিখিত নিয়ম জরুরি হয়ে পড়ল। বিধানটি বনী ইসরাঈলকে তাদের কিতাবে দেওয়া হয়েছিল, কিন্তু মুফাসসিরগণ স্পষ্ট বলেন — এটি যে মূল্য রক্ষা করে তা সর্বজনীন; সে কারণেই কুরআন এখানে তা আবার শোনায় মুহাম্মাদ ﷺ-এর উম্মতকে, যাদের জন্য কাহিনি ও বিধান — দুটিই সমান বাধ্যতামূলক শিক্ষা।"
+            "bn": "এই ক্রমটাই শিক্ষা। বিধানকে তার শুরুর ঘটনায় ফিরিয়ে দেখানো হচ্ছে: হিংসা একবার এক মানুষকে আপন ভাইয়ের রক্ত ঝরাতে রাজি করিয়েছিল, তাই পরের মানুষদের জন্য লিখিত নিয়ম দরকার হয়ে পড়ল। বিধানটা বনী ইসরাঈল পেয়েছিল তাদের কিতাবে। কিন্তু মুফাসসিরগণ স্পষ্ট বলেন, এ বিধান যে মূল্যবোধ রক্ষা করে, তা সবার জন্য। সে কারণেই কুরআন এখানে কথাটা আবার শোনায় মুহাম্মাদ ﷺ-এর উম্মতকে, যাদের জন্য ঘটনা আর বিধান দুটোই সমান মেনে চলার মতো শিক্ষা।"
           }
         ]
       },
@@ -637,11 +637,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The decree itself: whoever kills a soul — other than for a soul, or for corruption in the land — it is as if he had killed mankind entirely; and whoever saves one, it is as if he had saved mankind entirely. The commentators explain the arithmetic. The murderer has not only wronged one victim; he has violated the sanctity of human life as such, and a sanctity broken once is broken as a principle for everyone.",
-            "bn": "বিধানটি নিজে: যে কেউ একটি প্রাণ হত্যা করে — প্রাণের বদলা বা যমীনে ফাসাদের কারণ ছাড়া — সে যেন গোটা মানবজাতিকেই হত্যা করল; আর যে একটি প্রাণ বাঁচায়, সে যেন গোটা মানবজাতিকেই বাঁচাল। মুফাসসিরগণ এই পাটিগণিতের ব্যাখ্যা দেন। হত্যাকারী কেবল একজন শিকারের ওপর অন্যায় করেনি; সে মানবজীবনের পবিত্রতাকেই লঙ্ঘন করেছে — আর যে পবিত্রতা একবার ভাঙে, তা নীতিগতভাবে সবার জন্যই ভাঙে।"
+            "bn": "বিধানটা এই: যে কেউ কোনো প্রাণ হত্যা করে, প্রাণের বদলা কিংবা যমীনে ফাসাদের কারণ ছাড়া, সে যেন গোটা মানবজাতিকেই হত্যা করল; আর যে একটি প্রাণ বাঁচায়, সে যেন গোটা মানবজাতিকেই বাঁচাল। এই হিসাবটা মুফাসসিরগণ বুঝিয়ে বলেন। হত্যাকারী শুধু একজন মানুষের ওপর জুলুম করেনি; সে মানুষের প্রাণের পবিত্রতাটাকেই ভেঙেছে। আর এই পবিত্রতা একবার ভাঙলে নীতি হিসেবে তা সবার জন্যই ভেঙে যায়।"
           },
           {
             "en": "The same scale works upward. Man ahyaha, whoever gives life to a soul — the commentators fill the phrase with rescue from drowning and fire, feeding, healing, sheltering, and refraining from a killing one had power to commit. No life is small on this scale, so no act of saving is small either. The person in front of you, one of billions, is weighed for this purpose as though humanity stood or fell with them.",
-            "bn": "একই পাল্লা ঊর্ধ্বমুখেও কাজ করে। মান আহইয়াহা — যে একটি প্রাণকে জীবন দেয় — মুফাসসিরগণ এই বাক্যাংশে ভরে দেন ডুবে যাওয়া ও আগুন থেকে উদ্ধার, খাওয়ানো, চিকিৎসা, আশ্রয় দেওয়া, আর ক্ষমতা থাকা সত্ত্বেও হত্যা থেকে বিরত থাকা। এই পাল্লায় কোনো প্রাণ ছোট নয়, তাই কোনো বাঁচানোও ছোট নয়। আপনার সামনের মানুষটি — শত কোটির একজন — এই হিসাবে এমনভাবে ওজন করা হয়, যেন মানবজাতি তার সঙ্গেই দাঁড়ায় বা পড়ে।"
+            "bn": "একই পাল্লা উল্টো দিকেও কাজ করে। মান আহইয়াহা, যে একটি প্রাণকে বাঁচিয়ে রাখে। মুফাসসিরগণ এই কথার মধ্যে ধরেন ডুবন্ত বা আগুনে আটকে পড়া মানুষকে উদ্ধার করা, ক্ষুধার্তকে খাওয়ানো, রোগীর চিকিৎসা, আশ্রয় দেওয়া, আর হাতে ক্ষমতা থাকা সত্ত্বেও হত্যা থেকে বিরত থাকা। এই পাল্লায় কোনো প্রাণ ছোট নয়, তাই কোনো প্রাণ বাঁচানোও ছোট কাজ নয়। আপনার সামনের মানুষটি শত কোটির একজন মাত্র, তবু এখানে তাকে এমনভাবে ওজন করা হয়, যেন গোটা মানবজাতির টিকে থাকা না-থাকা তারই সঙ্গে বাঁধা।"
           }
         ]
       },
@@ -653,11 +653,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse carries its limits inside itself: other than for a soul, or for corruption in the land. Just retribution for murder, and the defence of society against those who make war on it, stand outside the equivalence — and the verse immediately following, 5:33, addresses exactly those who wage war upon Allah and His Messenger and spread corruption. The sanctity of life and the punishment of its violators are parts of one system, not contradictions.",
-            "bn": "আয়াত তার সীমা নিজের ভেতরেই বহন করে: প্রাণের বদলা বা যমীনে ফাসাদের কারণ ছাড়া। হত্যার ন্যায্য কিসাস, আর সমাজের বিরুদ্ধে যুদ্ধ ঘোষণাকারীদের থেকে সমাজের প্রতিরক্ষা — এ দুটি ওই সমীকরণের বাইরে; আর ঠিক পরের আয়াত 5:33 সম্বোধন করে তাদেরই, যারা আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে যুদ্ধ করে ও ফাসাদ ছড়ায়। জীবনের পবিত্রতা এবং তার লঙ্ঘনকারীদের শাস্তি — দুটি একই ব্যবস্থার অংশ, পরস্পরবিরোধিতা নয়।"
+            "bn": "সীমাটা আয়াত নিজের ভেতরেই রেখে দিয়েছে: প্রাণের বদলা কিংবা যমীনে ফাসাদের কারণ ছাড়া। খুনের ন্যায্য কিসাস, আর সমাজের বিরুদ্ধে যারা যুদ্ধে নামে তাদের হাত থেকে সমাজকে রক্ষা করা, এ দুটো ওই সমীকরণের বাইরে। ঠিক পরের আয়াত ৫:৩৩ কথা বলে তাদের নিয়েই, যারা আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে যুদ্ধ করে আর যমীনে ফাসাদ ছড়ায়। প্রাণের পবিত্রতা আর তা লঙ্ঘনকারীর শাস্তি একই ব্যবস্থার দুই অংশ, একে অপরের বিরোধী নয়।"
           },
           {
             "en": "Both exceptions belong to public justice, not private hands. Classical law placed retribution with authority and courts, with proof and the rights of the victim's family — never with the avenger in the street. Read whole, the verse therefore cuts in two directions at once: against the shedding of blood, and against the vigilante logic that answers blood privately, which is itself a door into the corruption the verse names.",
-            "bn": "দুটি ব্যতিক্রমই প্রকাশ্য বিচারব্যবস্থার এখতিয়ার, ব্যক্তিগত হাতের নয়। শাস্ত্রীয় ফিকহ কিসাসকে রেখেছে কর্তৃপক্ষ ও আদালতের হাতে — প্রমাণ ও নিহতের পরিবারের হকসহ; রাস্তার প্রতিশোধগ্রহণকারীর হাতে কখনোই নয়। তাই পুরোটা পড়লে আয়াত একসঙ্গে দুই দিকে কাটে: রক্তপাতের বিরুদ্ধে, আর সেই ব্যক্তিগত প্রতিশোধের যুক্তির বিরুদ্ধেও, যা রক্তের জবাব নিজ হাতে দেয় — কারণ সেটিই আয়াতে বলা ফাসাদের একটি দরজা।"
+            "bn": "দুটো ব্যতিক্রমই সমাজের বিচারব্যবস্থার কাজ, কারও ব্যক্তিগত হাতের নয়। ফিকহের প্রাচীন বিধানে কিসাসের ভার ছিল শাসক ও আদালতের হাতে, প্রমাণের শর্তে আর নিহতের পরিবারের হক রক্ষা করে; রাস্তায় প্রতিশোধ নিতে নামা লোকের হাতে কখনোই নয়। তাই পুরোটা পড়লে আয়াত একসঙ্গে দুই দিকে আঘাত করে: রক্তপাতের বিরুদ্ধে, আর নিজ হাতে রক্তের বদলা নেওয়ার মানসিকতার বিরুদ্ধেও। কারণ এই মানসিকতা নিজেই আয়াতে বলা ফাসাদে ঢোকার একটা দরজা।"
           }
         ]
       },
@@ -669,11 +669,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends on a sober note: Our messengers came to them with clear proofs, then indeed many of them, after that, commit excesses in the land. Knowledge of the rule has never guaranteed obedience to it. The Prophet ﷺ said, in the agreed-upon hadith, that the first matter judged between people on the Day of Judgement is bloodshed — the crime this verse legislated against remains the first item on the final docket.",
-            "bn": "আয়াত শেষ হয় এক গম্ভীর সুরে: আমার রাসূলগণ তাদের কাছে স্পষ্ট প্রমাণ নিয়ে এসেছিল, তবুও এরপর তাদের অনেকে যমীনে বাড়াবাড়িই করে। নিয়ম জানা কখনোই তা মানার নিশ্চয়তা দেয়নি। নবী ﷺ বুখারী-মুসলিমে একমত হাদীসে বলেছেন, কিয়ামতের দিন মানুষের মধ্যে সর্বপ্রথম যে বিষয়ের ফয়সালা হবে তা রক্তপাত — এই আয়াত যে অপরাধের বিরুদ্ধে বিধান দিয়েছে, শেষ আদালতের তালিকায় সেটিই প্রথম।"
+            "bn": "আয়াত শেষ হয় এক গম্ভীর সুরে: আমার রাসূলগণ তাদের কাছে স্পষ্ট প্রমাণ নিয়ে এসেছিলেন, তবু এরপরও তাদের অনেকে যমীনে সীমা ছাড়িয়ে যায়। নিয়ম জানলেই মানুষ তা মেনে চলে, এমন নিশ্চয়তা কখনো ছিল না। বুখারী ও মুসলিম দুটোতেই বর্ণিত হাদিসে নবী ﷺ বলেছেন, কিয়ামতের দিন মানুষের মধ্যে সবার আগে ফয়সালা হবে রক্তপাতের। এই আয়াত যে অপরাধের বিরুদ্ধে বিধান দিয়েছে, শেষ বিচারের তালিকায় সেটাই সবার প্রথমে।"
           },
           {
             "en": "Other verses hold the same line. 17:33 forbids killing the soul Allah has made sacred except by right, and 6:151, listing the fundamental prohibitions, repeats the same command in almost the same words. The repetition is itself instruction, and the commentators read it as rank: after the rights of Allah Himself, the Book guards nothing more insistently than human blood.",
-            "bn": "অন্য আয়াতগুলোও একই রেখা ধরে রাখে। 17:33 নিষেধ করে সেই প্রাণ হত্যা করতে যা আল্লাহ পবিত্র করেছেন — ন্যায্য কারণ ছাড়া; আর মৌলিক নিষেধাজ্ঞাগুলোর তালিকাওয়ালা 6:151 প্রায় একই শব্দে একই আদেশের পুনরাবৃত্তি করে। এই পুনরাবৃত্তি নিজেই এক শিক্ষা, আর মুফাসসিরগণ একে মর্যাদার ক্রম হিসেবে পড়েন: স্বয়ং আল্লাহর হকের পরে এই কিতাব মানুষের রক্তের চেয়ে বেশি জোর দিয়ে আর কিছু পাহারা দেয় না।"
+            "bn": "অন্য আয়াতগুলোও একই কথা বলে। ১৭:৩৩ আয়াত নিষেধ করে: আল্লাহ যে প্রাণকে মর্যাদা দিয়েছেন, ন্যায্য কারণ ছাড়া তাকে হত্যা করা যাবে না। আর ৬:১৫১ আয়াত, যেখানে মৌলিক নিষেধগুলোর তালিকা, প্রায় একই শব্দে একই হুকুম আবার দেয়। এই পুনরাবৃত্তিও এক শিক্ষা। মুফাসসিরগণ এর মধ্যে গুরুত্বের ক্রম দেখেন: আল্লাহর নিজের হকের পরে কুরআন আর কিছুকে মানুষের রক্তের মতো এত জোর দিয়ে পাহারা দেয় না।"
           }
         ]
       },
@@ -685,11 +685,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The killing half of the verse concerns few people directly; the saving half concerns everyone. Feeding the hungry, funding treatment, pulling someone back from despair, learning rescue, giving blood, intervening against violence with word or hand — each falls under man ahyaha, and each is weighed at the verse's exchange rate. Whoever saves one life, it is as if he saved mankind entirely: an incentive structure aimed straight at ordinary days.",
-            "bn": "আয়াতের হত্যা-অংশ সরাসরি অল্প মানুষকেই স্পর্শ করে; বাঁচানোর অংশটি স্পর্শ করে সবাইকে। ক্ষুধার্তকে খাওয়ানো, চিকিৎসার খরচ দেওয়া, কাউকে হতাশা থেকে টেনে তোলা, উদ্ধারকাজ শেখা, রক্ত দেওয়া, কথায় বা হাতে সহিংসতার বিরুদ্ধে দাঁড়ানো — প্রতিটিই মান আহইয়াহার অধীনে পড়ে, আর প্রতিটিই আয়াতের বিনিময়-হারে ওজন হয়। যে একটি প্রাণ বাঁচাল, সে যেন গোটা মানবজাতিকে বাঁচাল: সাধারণ দিনগুলোর দিকে সরাসরি তাক করা এক প্রণোদনার কাঠামো।"
+            "bn": "আয়াতের হত্যার অংশটা সরাসরি অল্প কিছু মানুষের ব্যাপার; বাঁচানোর অংশটা সবার। ক্ষুধার্তকে খাওয়ানো, কারও চিকিৎসার খরচ দেওয়া, কাউকে হতাশা থেকে টেনে তোলা, উদ্ধারের কাজ শেখা, রক্ত দেওয়া, কথা দিয়ে বা হাত দিয়ে সহিংসতা থামানো: এর প্রতিটিই মান আহইয়াহার মধ্যে পড়ে, আর প্রতিটির ওজন হয় আয়াতের সেই হারে। যে একটি প্রাণ বাঁচাল, সে যেন গোটা মানবজাতিকে বাঁচাল। আমাদের প্রতিদিনের সাধারণ জীবনের জন্যই এ এক বিরাট উৎসাহ।"
           },
           {
             "en": "The verse also confronts indifference to distant suffering. Its arithmetic refuses the discount we apply to strangers: the far soul equals all of mankind exactly as the near one does. To live this verse is to let one individual matter enormously — because that is the valuation their Creator has published, and because the whole account began with one brother who decided that one life was expendable.",
-            "bn": "আয়াতটি দূরের কষ্টের প্রতি উদাসীনতাকেও মুখোমুখি দাঁড় করায়। এর পাটিগণিত অপরিচিতদের বেলায় আমরা যে ছাড় ধরি তা প্রত্যাখ্যান করে: দূরের প্রাণটিও ঠিক কাছের প্রাণের মতোই গোটা মানবজাতির সমান। এই আয়াত নিয়ে বাঁচা মানে একজন ব্যক্তিকে অসম্ভব রকম গুরুত্ব দিতে দেওয়া — কারণ এটিই তার স্রষ্টার প্রকাশিত মূল্যায়ন, আর কারণ পুরো হিসাবটাই শুরু হয়েছিল এমন এক ভাইকে দিয়ে, যে ঠিক করেছিল একটি প্রাণ ঝরে গেলে ক্ষতি নেই।"
+            "bn": "দূরের মানুষের কষ্টে আমাদের যে উদাসীনতা, আয়াত তাকেও প্রশ্ন করে। অচেনা মানুষের দাম আমরা মনে মনে একটু কমিয়ে ধরি; আয়াতের হিসাব সেই কমানো মানে না। দূরের প্রাণটিও ঠিক কাছের প্রাণের মতোই গোটা মানবজাতির সমান। এই আয়াত নিয়ে বাঁচা মানে একজন মানুষকেও অনেক বড় করে দেখা। কারণ তার স্রষ্টা নিজেই তার এই দাম ঘোষণা করেছেন, আর কারণ পুরো ঘটনাটা শুরু হয়েছিল এমন এক ভাইকে দিয়ে, যে ঠিক করেছিল, একটা প্রাণ গেলে কিছু যায় আসে না।"
           }
         ]
       }
@@ -700,7 +700,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "O Messenger, Said Twice",
-          "bn": "হে রসূল, দুবার বলা"
+          "bn": "হে রাসূল: কুরআনে দুবার এই ডাক"
         },
         "p": [
           {
@@ -709,7 +709,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse's occasion is established in Sahih Muslim, from al-Bara ibn Azib (RA), and it concerns a case of adultery brought to the Prophet ﷺ in which a scriptural penalty had been replaced by a lighter one. That report is quoted below. After 5:41 the passage goes on: 5:42 gives the Prophet ﷺ the choice to judge between them or turn away, and if he judges, to judge with justice; 5:43 asks how they seek his judgement while the Torah, containing Allah's judgement, is with them; 5:44 praises the Torah as guidance and light; 5:45 sets out its law of retribution.",
-            "bn": "আয়াতের শানে নুযূল প্রতিষ্ঠিত, সহীহ মুসলিমে, বারা ইবনে আযিব (রাঃ) থেকে। বিষয়টা ব্যভিচারের একটি মামলা, যা নবী ﷺ-এর কাছে আনা হয়েছিল, আর যেখানে কিতাবের শাস্তির জায়গায় হালকা একটা শাস্তি বসানো হয়েছিল। সেই বর্ণনা নিচে আছে। ৫:৪১ আয়াতের পর অংশটি এগিয়ে যায়: ৫:৪২ আয়াত নবী ﷺ-কে বেছে নিতে দেয়, তাদের মধ্যে ফয়সালা করবেন নাকি মুখ ফিরিয়ে নেবেন, আর ফয়সালা করলে ইনসাফের সঙ্গে করবেন। ৫:৪৩ আয়াত প্রশ্ন করে, তাওরাত যখন তাদের কাছেই আছে, যাতে আল্লাহর বিধান আছে, তখন তারা তাঁর কাছে বিচার চাইতে আসে কীভাবে। ৫:৪৪ আয়াত তাওরাতকে হেদায়েত ও আলো বলে প্রশংসা করে; ৫:৪৫ আয়াত তার কিসাসের বিধান তুলে ধরে।"
+            "bn": "এ আয়াতের শানে নুযূল সহীহ মুসলিমে বারা ইবনে আযিব (রাঃ)-এর বর্ণনায় প্রমাণিত। ঘটনাটা ব্যভিচারের একটি মামলা নিয়ে, যা নবী ﷺ-এর কাছে আনা হয়েছিল; সেখানে কিতাবের শাস্তি সরিয়ে হালকা একটা শাস্তি বসানো হয়েছিল। বর্ণনাটি নিচে উদ্ধৃত আছে। ৫:৪১ আয়াতের পর অংশটি এগিয়ে যায়: ৫:৪২ আয়াত নবী ﷺ-কে বেছে নিতে দেয়, তাদের মধ্যে ফয়সালা করবেন নাকি মুখ ফিরিয়ে নেবেন, আর ফয়সালা করলে ইনসাফের সঙ্গে করবেন। ৫:৪৩ আয়াত প্রশ্ন করে, আল্লাহর বিধানসহ তাওরাত যখন তাদের কাছেই আছে, তখন তারা তাঁর কাছে বিচার চাইতে আসে কীভাবে। ৫:৪৪ আয়াত তাওরাতকে হেদায়েত ও আলো বলে প্রশংসা করে; ৫:৪৫ আয়াত তার কিসাসের বিধান তুলে ধরে।"
           }
         ]
       },
@@ -741,7 +741,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir reads the two groups as the hypocrites of Madinah and a party of its Jews, and he fills in the other people who have not come to you from the reports: those who stayed away from his gatherings and had what was said carried back to them, one party even sending others to sound out the ruling first, to be accepted only if it came out as they wanted. The phrase if you are given this, take it, is in his reading their instruction to their own envoys. The verse, so read, is a portrait of a ruling being shopped for, not of a community.",
-            "bn": "ইবনে কাসীর দুই দলকে পড়েন মদীনার মুনাফিক আর সেখানকার ইয়াহুদিদের একটি দল হিসেবে। আর যারা তোমার কাছে আসেনি, এই অন্য দলটির ফাঁক তিনি বর্ণনা থেকে ভরেন: যারা তাঁর মজলিসে আসত না, অথচ সেখানকার কথা তাদের কাছে পৌঁছে যেত; এমনকি এক দল নিজেরা না এসে অন্যদের পাঠিয়েছিল রায়টা আগে বুঝে নিতে, যাতে মনমতো হলেই কেবল তা মানা হয়। এটা পেলে নাও, এই বাক্যাংশ তাঁর পাঠে তাদের নিজেদের দূতদের প্রতি তাদের নির্দেশ। এভাবে পড়লে আয়াতটি রায় বাছাই করার ছবি, কোনো সম্প্রদায়ের ছবি নয়।"
+            "bn": "ইবনে কাসীরের পাঠে দুই দল হলো মদীনার মুনাফিকরা আর সেখানকার ইয়াহুদিদের একটি দল। আর যারা তোমার কাছে আসেনি, সেই অন্য লোকেরা কারা, তা তিনি বর্ণনাগুলো থেকে খুলে বলেন: যারা তাঁর মজলিসে আসত না, অথচ সেখানকার কথা তাদের কাছে পৌঁছে যেত; এমনকি এক দল নিজেরা না এসে অন্যদের পাঠিয়েছিল আগে রায়টা জেনে নিতে, যাতে মনমতো হলেই কেবল তা মানা হয়। তাঁর ব্যাখ্যায়, এটা পেলে নাও কথাটা ছিল নিজেদের পাঠানো লোকদের প্রতি তাদের নির্দেশ। এভাবে পড়লে আয়াতটি মনমতো রায় খুঁজে বেড়ানোর ছবি, কোনো সম্প্রদায়ের ছবি নয়।"
           },
           {
             "en": "as-Sa'di reads the opening as pure consolation: the Prophet ﷺ is told not to let their haste grieve him, because they harm only themselves, and because the purification of hearts is Allah's to give. al-Qurtubi, on the neighbouring 5:42, records a difference among the jurists over whether the option to judge or turn away remained in force or was withdrawn by 5:49, and he reports both positions; this article takes neither. What the commentators share is the reading of min as partitive, and the Quran itself insists on it in 3:113: they are not all the same.",
@@ -752,7 +752,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The First to Revive Your Command",
-          "bn": "তোমার হুকুম জীবিত করার প্রথম জন"
+          "bn": "আপনার হুকুম আমিই প্রথম জীবিত করলাম"
         },
         "p": [
           {
@@ -761,7 +761,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The Prophet ﷺ then said: O Allah, I am the first to revive Your command when they had put it to death. He gave the ruling the scripture gave, and the narration says this verse came down afterwards, up to the words if you are given this, take it, and if you are not given it, beware. Notice where the report puts the blame and where it does not. The Torah's ruling is honoured; the learned man who told the truth under oath is not blamed; 5:44 in the same passage calls the Torah guidance and light. What is condemned is a penalty rewritten so that rank could escape it.",
-            "bn": "এরপর নবী ﷺ বললেন: হে আল্লাহ, তারা তোমার হুকুমকে মেরে ফেলার পর আমিই প্রথম তা জীবিত করলাম। কিতাব যে রায় দিয়েছে, তিনি সেই রায়ই দিলেন। বর্ণনা বলে, এরপরেই এই আয়াত নাযিল হয়, এই কথা পর্যন্ত: এটা পেলে নাও, আর না পেলে সাবধান। খেয়াল করুন, বর্ণনাটি দোষ কোথায় রাখে আর কোথায় রাখে না। তাওরাতের বিধানকে সম্মান দেওয়া হয়েছে; কসমের নিচে যে বিদ্বান সত্য বলেছেন, তাঁকে দোষ দেওয়া হয়নি; একই অংশে ৫:৪৪ আয়াত তাওরাতকে বলেছে হেদায়েত ও আলো। যাকে নিন্দা করা হয়েছে, তা হলো এমন করে নতুন লেখা শাস্তি, যাতে পদমর্যাদা তার হাত থেকে বেঁচে যায়।"
+            "bn": "এরপর নবী ﷺ বললেন: হে আল্লাহ, তারা আপনার হুকুমকে মেরে ফেলার পর আমিই প্রথম তা জীবিত করলাম। কিতাব যে রায় দিয়েছে, তিনি সেই রায়ই দিলেন। বর্ণনা বলে, এরপরেই এই আয়াত নাজিল হয়, এই কথা পর্যন্ত: এটা পেলে নাও, আর না পেলে সাবধান। খেয়াল করুন, বর্ণনাটি দোষ কোথায় রাখে আর কোথায় রাখে না। তাওরাতের বিধানকে সম্মান দেওয়া হয়েছে; কসমের মুখে যে বিদ্বান সত্য বলেছেন, তাঁকে দোষ দেওয়া হয়নি; একই অংশে ৫:৪৪ আয়াত তাওরাতকে বলেছে হেদায়েত ও আলো। নিন্দা করা হয়েছে শুধু সেই শাস্তিকে, যা নতুন করে লেখা হয়েছিল, যাতে উঁচু পদের লোকেরা তা থেকে রেহাই পায়।"
           }
         ]
       },
@@ -789,7 +789,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse's most portable sentence is the shopping rule, and most of us have used it. We take a question to the scholar likeliest to say yes, or to a second one when the first said no, or we search until a page agrees with us. A simple test before asking anyone: would I accept a no from this person? If not, I am not asking, I am shopping. The cure is to ask one trusted person, tell them the whole situation including the part that hurts my case, and act on the answer within the day.",
-            "bn": "আয়াতের সবচেয়ে বহনযোগ্য বাক্য হলো বাছাইয়ের নিয়মটা, আর আমরা বেশিরভাগই তা ব্যবহার করেছি। প্রশ্নটা নিয়ে যাই সেই আলিমের কাছে, যাঁর হ্যাঁ বলার সম্ভাবনা বেশি; কিংবা প্রথমজন না বললে দ্বিতীয়জনের কাছে; কিংবা খুঁজতে থাকি যতক্ষণ না কোনো পাতা আমার সঙ্গে একমত হয়। কাউকে জিজ্ঞেস করার আগে সহজ একটা পরীক্ষা: এই মানুষটার কাছ থেকে না শুনলে কি আমি মেনে নেব? না মানলে আমি প্রশ্ন করছি না, বাছাই করছি। এর ওষুধ: বিশ্বস্ত একজনকে জিজ্ঞেস করুন, পুরো ঘটনাটা বলুন, যে অংশটা আমার পক্ষে যায় না সেটাসহ, আর জবাবের ওপর সেদিনই আমল করুন।"
+            "bn": "আয়াতের যে বাক্যটা সবচেয়ে সহজে নিজের জীবনে নিয়ে আসা যায়, তা হলো বাছাইয়ের নিয়মটা, আর আমরা বেশিরভাগই কখনো না কখনো তা করেছি। প্রশ্নটা নিয়ে যাই সেই আলিমের কাছে, যাঁর হ্যাঁ বলার সম্ভাবনা বেশি; কিংবা প্রথমজন না বললে দ্বিতীয়জনের কাছে; কিংবা খুঁজতে থাকি যতক্ষণ না কোনো পাতা আমার সঙ্গে একমত হয়। কাউকে জিজ্ঞেস করার আগে সহজ একটা পরীক্ষা: এই মানুষটার কাছ থেকে না শুনলে কি আমি মেনে নেব? না মানলে আমি প্রশ্ন করছি না, বাছাই করছি। এর ওষুধ: বিশ্বস্ত একজনকে জিজ্ঞেস করুন, পুরো ঘটনাটা বলুন, যে অংশটা আপনার পক্ষে যায় না সেটাসহ, আর জবাবের ওপর সেদিনই আমল করুন।"
           },
           {
             "en": "Samma'un names a second habit: listening for falsehood. The believer's answering discipline is to be a poor listener to it. Leave the group when it turns to someone's private matter, do not open the message that promises a scandal, and refuse to be the other people who did not come, the ones who receive what a listener has gathered. Tahrif names a third: a quotation clipped so its meaning moves while its words stay, a screenshot without its context, a headline that says what the article does not. Quote people, including opponents, so that they would recognise themselves.",
@@ -804,16 +804,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Turner of Hearts",
-          "bn": "অন্তর ফেরানো সত্তা"
+          "bn": "অন্তর যিনি ফেরান"
         },
         "p": [
           {
             "en": "The verse says of the people it describes that Allah did not intend to purify their hearts, and the Sunnah du'a that answers it is the one in Sahih Muslim 2654. The Prophet ﷺ said that the hearts of the children of Adam are all between two of the fingers of the Most Merciful, as one heart, which He turns as He wills; then he said: O Allah, Turner of hearts, turn our hearts to Your obedience. The verse describes hearts left as they were; the du'a asks for a heart turned.",
-            "bn": "আয়াত যাদের কথা বলে, তাদের সম্পর্কে বলে যে আল্লাহ তাদের অন্তর পবিত্র করতে চাননি। আর এর জবাবে যে সুন্নাহ দোয়া, তা সহীহ মুসলিম ২৬৫৪-এর দোয়া। নবী ﷺ বলেছেন, আদম সন্তানের সব অন্তর পরম দয়াময়ের দুই আঙুলের মাঝে এক অন্তরের মতো, তিনি যেমন চান তেমন তা ফেরান; তারপর তিনি বললেন: হে আল্লাহ, অন্তরসমূহের পরিবর্তনকারী, আমাদের অন্তরগুলো তোমার আনুগত্যের দিকে ফিরিয়ে দাও। আয়াত বলে এমন অন্তরের কথা, যা যেমন ছিল তেমনই রাখা হয়েছে; দোয়া চায় এমন অন্তর, যাকে ফেরানো হয়েছে।"
+            "bn": "আয়াত যাদের কথা বলে, তাদের সম্পর্কে বলে যে আল্লাহ তাদের অন্তর পবিত্র করতে চাননি। আর এর জবাবে যে সুন্নাহ দোয়া, তা সহীহ মুসলিম ২৬৫৪-এর দোয়া। নবী ﷺ বলেছেন, আদম সন্তানের সব অন্তর পরম দয়াময়ের দুই আঙুলের মাঝে এক অন্তরের মতো, তিনি যেমন চান তেমন তা ফেরান; তারপর তিনি বললেন: হে আল্লাহ, অন্তরসমূহের পরিবর্তনকারী, আমাদের অন্তরগুলো আপনার আনুগত্যের দিকে ফিরিয়ে দিন। আয়াত বলে এমন অন্তরের কথা, যাকে যেমন ছিল তেমনই রেখে দেওয়া হয়েছে; দোয়া চায় এমন অন্তর, যাকে ফেরানো হয়েছে।"
           },
           {
             "en": "Say it after a question you were tempted to shop, after a conversation you listened to for the wrong reasons, and after every refusal that grieved you, since it covers both the heart that judges and the heart that was judged. 3:8 gives its Quranic twin: Our Lord, let not our hearts deviate after You have guided us. Between the two, a believer has words for the one thing 5:41 places beyond human reach, and the right address for them.",
-            "bn": "দোয়াটি বলুন এমন কোনো প্রশ্নের পর যেখানে বাছাইয়ের লোভ হয়েছিল, এমন কোনো কথার পর যা ভুল কারণে শুনেছিলেন, আর প্রতিটি প্রত্যাখ্যানের পর যা আপনাকে দুঃখ দিয়েছে। কারণ দোয়াটি দুটো অন্তরকেই ঢেকে নেয়, যে অন্তর ফয়সালা করে আর যে অন্তরের বিচার হয়। ৩:৮ আয়াত এর কুরআনি যমজ: হে আমাদের রব, হেদায়েত দেওয়ার পর আমাদের অন্তরকে বাঁকা করে দিও না। এই দুটোর মাঝে মুমিনের হাতে থাকে সেই একটা জিনিসের জন্য শব্দ, যাকে ৫:৪১ আয়াত মানুষের নাগালের বাইরে রেখেছে, আর থাকে তার সঠিক ঠিকানা।"
+            "bn": "দোয়াটি বলুন এমন কোনো প্রশ্নের পর, যেখানে মনমতো জবাব বাছাইয়ের লোভ হয়েছিল; এমন কোনো কথা শোনার পর, যা ভুল কারণে শুনেছিলেন; আর প্রতিটি প্রত্যাখ্যানের পর, যা আপনাকে কষ্ট দিয়েছে। কারণ দোয়াটি দুই অন্তরকেই ধরে: যে অন্তর ফয়সালা করে, আর যে অন্তরের ফয়সালা হয়। ৩:৮ আয়াত এর কুরআনি জোড়া: হে আমাদের রব, হেদায়েত দেওয়ার পর আমাদের অন্তরকে বাঁকা করে দেবেন না। ৫:৪১ আয়াত যে একটা জিনিসকে মানুষের নাগালের বাইরে রেখেছে, এই দুই দোয়ায় মুমিন পায় তা চাওয়ার ভাষা, আর জানে কার কাছে চাইতে হবে।"
           }
         ]
       },
@@ -861,7 +861,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Katabna, We wrote, from k-t-b, is the Quran's verb for a binding prescription. 2:178 uses the same verb in the passive for this community, kutiba 'alaykum al-qisas, and 2:183 uses it for fasting. What was written for them is presented with the verb that writes for us. The list runs an-nafs bin-nafs, the soul for the soul, then eye, nose, ear, tooth, each with the ba' of exchange, and then al-juruh qisas, wounds are qisas, with no pairing at all, because wounds have too many kinds to list and one word covers them.",
-            "bn": "কাতাবনা, আমি লিখে দিলাম, ক-ত-ব ধাতু থেকে; বাধ্যতামূলক বিধান বোঝাতে এটাই কুরআনের ক্রিয়া। ২:১৭৮ আয়াত এই উম্মতের জন্য একই ক্রিয়া কর্মবাচ্যে ব্যবহার করে, কুতিবা 'আলাইকুমুল কিসাস, আর ২:১৮৩ আয়াত রোযার জন্য। তাদের জন্য যা লেখা হয়েছিল, তা হাজির করা হয়েছে সেই ক্রিয়া দিয়ে যা আমাদের জন্য লেখে। তালিকা চলে আন-নাফসু বিন-নাফস, জানের বদলে জান, তারপর চোখ, নাক, কান, দাঁত, প্রতিটির সঙ্গে বিনিময়ের বা। তারপর আল-জুরূহু কিসাস, জখম হলো কিসাস, কোনো জোড় ছাড়াই। কারণ জখমের ধরন এত বেশি যে তালিকা হয় না, আর একটা শব্দই সবটা ঢেকে দেয়।"
+            "bn": "কাতাবনা, আমি লিখে দিলাম, ক-ত-ব ধাতু থেকে; বাধ্যতামূলক বিধান বোঝাতে এটাই কুরআনের ক্রিয়া। ২:১৭৮ আয়াত এই উম্মতের জন্য একই ক্রিয়া কর্মবাচ্যে ব্যবহার করে, কুতিবা 'আলাইকুমুল কিসাস, আর ২:১৮৩ আয়াত রোজার জন্য। অর্থাৎ তাদের জন্য যা লেখা হয়েছিল, তা বলা হচ্ছে সেই ক্রিয়াতেই, যে ক্রিয়ায় আমাদের বিধানও লেখা। তালিকা চলে আন-নাফসু বিন-নাফস, জানের বদলে জান, তারপর চোখ, নাক, কান, দাঁত, প্রতিটির সঙ্গে বিনিময়ের বা। তারপর আল-জুরূহু কিসাস, জখম হলো কিসাস, কোনো জোড় ছাড়াই। কারণ জখমের ধরন এত বেশি যে তালিকা হয় না, আর একটা শব্দই সবটা ঢেকে দেয়।"
           },
           {
             "en": "Qisas itself is from q-s-s. al-Mufradat gives the root's sense as following a track, qassa al-athar, and the same root gives qasas, a narrative that follows events in their order, as in 12:3. Retribution called by this name follows the trace of the harm and stops exactly where the harm stopped. Then tasaddaqa bihi, whoever gives it as charity, from s-d-q, the root of both truthfulness and sadaqah; the same verb is used in 4:92 for a family waiving blood-money. And kaffarah, from k-f-r, to cover: the waived right covers the sins of the one it is written for.",
@@ -933,11 +933,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The second movement is the door. Once the measure is honest, the verse invites you to give some or all of it away, and it names the gift with the word for charity and pays it with expiation. Choose one right this week and release it: a small loan you could recover, an apology you are owed, the last word in an argument you would win. Say inwardly that it is sadaqah, so that the release is an act and not a defeat. The order matters: the verse does not ask the wronged to pretend nothing is owed, only to own it and then give it.",
-            "bn": "দ্বিতীয় গতি হলো দরজা। মাপ সৎ হয়ে গেলে আয়াত আপনাকে ডাকে তার কিছুটা বা পুরোটা ছেড়ে দিতে, আর এই দানকে ডাকে সদকার নামে, দাম দেয় কাফফারায়। এই সপ্তাহে একটা হক বেছে নিয়ে ছেড়ে দিন: ছোট একটা ধার যা আদায় করতে পারতেন, আপনার পাওনা একটা ক্ষমা চাওয়া, এমন তর্কের শেষ কথাটা যেখানে আপনিই জিততেন। মনে মনে বলুন, এটা সদকা, যাতে ছেড়ে দেওয়াটা হয় একটা আমল, হার নয়। ক্রমটা জরুরি: আয়াত মজলুমকে বলে না যে কিছুই পাওনা নেই বলে ভান করো; বলে, পাওনাটা নিজের বলে জানো, তারপর দিয়ে দাও।"
+            "bn": "দ্বিতীয় গতি হলো দরজা। মাপ সৎ হয়ে গেলে আয়াত আপনাকে ডাকে তার কিছুটা বা পুরোটা ছেড়ে দিতে, আর এই দানকে ডাকে সদকার নামে, দাম দেয় কাফফারায়। এই সপ্তাহে একটা হক বেছে নিয়ে ছেড়ে দিন: ছোট একটা ধার যা আদায় করতে পারতেন, আপনার পাওনা একটা ক্ষমা চাওয়া, এমন তর্কের শেষ কথাটা যেখানে আপনিই জিততেন। মনে মনে বলুন, এটা সদকা, যাতে ছেড়ে দেওয়াটা হয় একটা আমল, হার নয়। ক্রমটা জরুরি: আয়াত মজলুমকে বলে না যে ভান করুন কিছুই পাওনা নেই; বলে, পাওনাটা যে আপনার তা মেনে নিন, তারপর দিয়ে দিন।"
           },
           {
             "en": "Two limits keep this honest. The pardon is the wronged party's to give and nobody else's, so do not pressure a victim to forgive for the sake of peace in the family, and do not forgive on someone else's behalf. And retribution for blood belongs to public authority, as the 5:32 article in this app already says of classical law, never to a private hand; the verse's promise of expiation is for the one who releases a right, not for the one who takes one. Within those limits, the verse turns the worst week of a relationship into the place where sins are covered.",
-            "bn": "দুটো সীমা এটাকে সৎ রাখে। মাফ মজলুমের দেওয়ার জিনিস, আর কারও নয়; তাই পরিবারে শান্তির খাতিরে কোনো ভুক্তভোগীকে মাফ করতে চাপ দেবেন না, আর অন্যের পক্ষ থেকে মাফও করবেন না। আর রক্তের প্রতিশোধ প্রকাশ্য কর্তৃপক্ষের হাতে, যেমন এই অ্যাপের ৫:৩২ আয়াতের লেখা ক্লাসিক্যাল আইন নিয়ে আগেই বলেছে; কখনো ব্যক্তিগত হাতে নয়। আয়াতের কাফফারার ওয়াদা তার জন্য, যে হক ছেড়ে দেয়; তার জন্য নয়, যে হক নিয়ে নেয়। এই সীমার ভেতরে আয়াত একটা সম্পর্কের সবচেয়ে খারাপ সপ্তাহটাকে বানিয়ে দেয় সেই জায়গা, যেখানে গুনাহ ঢাকা পড়ে।"
+            "bn": "দুটো সীমা এটাকে সৎ রাখে। মাফ মজলুমের দেওয়ার জিনিস, আর কারও নয়; তাই পরিবারে শান্তির খাতিরে কোনো ভুক্তভোগীকে মাফ করতে চাপ দেবেন না, আর অন্যের পক্ষ থেকে মাফও করবেন না। আর রক্তের প্রতিশোধ সমাজের বিচারব্যবস্থার হাতে, কখনো ব্যক্তিগত হাতে নয়; এই অ্যাপে ৫:৩২ আয়াতের লেখাটা প্রাচীন ফিকহের কথা তুলে আগেই তা বলেছে। আয়াতের কাফফারার ওয়াদা তার জন্য, যে হক ছেড়ে দেয়; তার জন্য নয়, যে হক নিয়ে নেয়। এই সীমার ভেতরে আয়াত একটা সম্পর্কের সবচেয়ে খারাপ সপ্তাহটাকে বানিয়ে দেয় সেই জায়গা, যেখানে গুনাহ ঢাকা পড়ে।"
           }
         ]
       },
@@ -949,7 +949,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "5:45 is not itself a du'a, and the commentators attach no specific Sunnah supplication to it, so what follows is composed from the verse's own vocabulary and is not a transmitted wording. O Allah, You wrote the soul for the soul and made wounds qisas, and above the measure You opened a door and called it charity. Make me one who takes nothing beyond his due, and one who gives up his due for Your sake, and make what I give up an expiation for me. And when I am the one who has done harm, give me the honesty to accept the measure.",
-            "bn": "৫:৪৫ আয়াত নিজে দোয়া নয়, আর মুফাসসিররা এর সঙ্গে নির্দিষ্ট কোনো সুন্নাহ দোয়া জোড়েন না। তাই নিচেরটা আয়াতের নিজের শব্দে সাজানো, কোনো বর্ণিত দোয়া নয়। হে আল্লাহ, তুমি লিখেছ জানের বদলে জান, জখমকে করেছ কিসাস, আর মাপের ওপরে একটা দরজা খুলে তার নাম দিয়েছ সদকা। আমাকে এমন করো যে নিজের পাওনার বেশি কিছু নেয় না, আর যে তোমার জন্য নিজের পাওনা ছেড়ে দেয়; যা আমি ছেড়ে দিই তাকে আমার জন্য কাফফারা করো। আর যখন ক্ষতিটা আমিই করেছি, তখন মাপটা মেনে নেওয়ার সততা আমাকে দাও।"
+            "bn": "৫:৪৫ আয়াত নিজে দোয়া নয়, আর মুফাসসিররা এর সঙ্গে নির্দিষ্ট কোনো সুন্নাহ দোয়া জোড়েন না। তাই নিচেরটা আয়াতের নিজের শব্দে সাজানো, কোনো বর্ণিত দোয়া নয়। হে আল্লাহ, আপনি লিখেছেন জানের বদলে জান, জখমকে করেছেন কিসাস, আর মাপের ওপরে একটা দরজা খুলে তার নাম দিয়েছেন সদকা। আমাকে এমন বান্দা বানিয়ে দিন, যে নিজের পাওনার বেশি কিছু নেয় না, আর আপনার জন্য নিজের পাওনা ছেড়ে দেয়; যা আমি ছেড়ে দিই, তাকে আমার জন্য কাফফারা বানিয়ে দিন। আর যখন ক্ষতিটা আমিই করেছি, তখন মাপটা মেনে নেওয়ার সততা আমাকে দিন।"
           },
           {
             "en": "Say it before you answer a wrong, since the verse's door is open only for as long as the right is still in your hand. 42:40 supplies the promise to hold beside it: whoever pardons and makes reconciliation, his reward is with Allah. Between the verse's expiation and that verse's reward, the believer who lets a right go has two things written for him, and has lost nothing that was ever going to last.",
@@ -1009,7 +1009,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Wa la yakhafuna lawmata la'im: they do not fear the blame of any blamer. The noun and its agent come from one root, l-w-m, and la'im is indefinite: not a particular critic but any critic at all. Finally, wa Allahu wasi'un 'alim. Wasi' is from w-s-', to be wide, roomy, to have room for. Ibn Kathir reads it here of His favour, which keeps extending, and of His knowledge of who deserves it. The name answers a worry the verse has raised: if some leave, will there be enough? He has room.",
-            "bn": "ওয়ালা ইয়াখাফূনা লাওমাতা লাইম: তারা কোনো নিন্দুকের নিন্দাকে ভয় করে না। বিশেষ্য আর কর্তা দুটোই ল-ও-ম মূল থেকে, আর লাইম শব্দটি অনির্দিষ্ট: কোনো বিশেষ নিন্দুক নয়, যে কোনো নিন্দুক। শেষে ওয়াল্লাহু ওয়াসিউন আলীম। ওয়াসি শব্দটি ও-স-আ মূল থেকে, যার মানে প্রশস্ত হওয়া, জায়গা থাকা। ইবনে কাসীর এখানে এর অর্থ নেন তাঁর অনুগ্রহে, যা ছড়াতেই থাকে, আর কে তার হকদার, তা নিয়ে তাঁর জ্ঞানে। আয়াত যে দুশ্চিন্তা তুলেছে, নামটি তার জবাব দেয়: কেউ কেউ চলে গেলে কি লোক কম পড়বে? তাঁর জায়গার অভাব নেই।"
+            "bn": "ওয়ালা ইয়াখাফূনা লাওমাতা লাইম: তারা কোনো নিন্দুকের নিন্দাকে ভয় করে না। বিশেষ্য আর কর্তা দুটোই ল-ও-ম মূল থেকে, আর লাইম শব্দটি অনির্দিষ্ট: কোনো বিশেষ নিন্দুক নয়, যে কোনো নিন্দুক। শেষে ওয়াল্লাহু ওয়াসিউন আলীম। ওয়াসি শব্দটি ও-স-আ মূল থেকে, যার মানে প্রশস্ত হওয়া, জায়গা থাকা। ইবনে কাসীরের ব্যাখ্যায় এখানে এর মানে: তাঁর অনুগ্রহ প্রশস্ত, ছড়াতেই থাকে; আর কে সেই অনুগ্রহের যোগ্য, তা তিনি জানেন। আয়াত যে দুশ্চিন্তা তুলেছে, নামটি তার জবাব দেয়: কেউ কেউ চলে গেলে কি লোক কম পড়বে? তাঁর জায়গার অভাব নেই।"
           }
         ]
       },
@@ -1021,7 +1021,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari records what the early scholars said about the promised people. From al-Hasan al-Basri came the view that they are Abu Bakr (RA) and those who stood with him against the apostates after the Prophet's ﷺ death. Others named the people of Yemen, and a report, given below, names the people of Abu Musa al-Ash'ari (RA). At-Tabari does not narrow the verse to one of them: the words describe a people by their qualities, and whoever bears those qualities is among them. Al-Qurtubi reads the verse as news of the unseen, since what it foretold came to pass.",
-            "bn": "ওয়াদা করা কওম কারা, এ নিয়ে আগের যুগের আলেমরা যা বলেছেন, তাবারী তা নথিভুক্ত করেছেন। হাসান বসরীর মত: এরা আবু বকর (রাঃ) আর সেই লোকেরা, যাঁরা নবী ﷺ-এর ইন্তেকালের পর ধর্মত্যাগীদের বিরুদ্ধে তাঁর পাশে দাঁড়িয়েছিলেন। কেউ কেউ ইয়েমেনের লোকদের নাম নিয়েছেন। আর একটি বর্ণনা, যা নিচে আসছে, নাম নেয় আবু মুসা আশআরী (রাঃ)-এর কওমের। তাবারী আয়াতকে এদের কোনো একটিতে আটকে দেন না: শব্দগুলো একটি কওমকে চেনায় তাদের গুণ দিয়ে, আর যার মধ্যে সেই গুণ আছে সে-ই তাদের একজন। কুরতুবী আয়াতটিকে পড়েন গায়েবের খবর হিসেবে, কারণ যা বলা হয়েছিল তা ঘটে গেছে।"
+            "bn": "ওয়াদা করা কওম কারা, এ নিয়ে আগের যুগের আলেমরা যা বলেছেন, তাবারী তা লিখে রেখেছেন। হাসান বসরীর মত: এরা আবু বকর (রাঃ) আর সেই লোকেরা, যাঁরা নবী ﷺ-এর ইন্তেকালের পর ধর্মত্যাগীদের বিরুদ্ধে তাঁর পাশে দাঁড়িয়েছিলেন। কেউ কেউ ইয়েমেনের লোকদের নাম নিয়েছেন। আর একটি বর্ণনা, যা নিচে আসছে, নাম নেয় আবু মুসা আশআরী (রাঃ)-এর কওমের। তাবারী আয়াতকে এদের কোনো একটিতে আটকে দেন না: শব্দগুলো একটি কওমকে চেনায় তাদের গুণ দিয়ে, আর যার মধ্যে সেই গুণ আছে সে-ই তাদের একজন। কুরতুবী আয়াতটিকে পড়েন গায়েবের খবর হিসেবে, কারণ যা বলা হয়েছিল তা ঘটে গেছে।"
           },
           {
             "en": "Ibn Kathir sets the verse beside 47:38, if you turn away He will replace you with another people, and 14:19, if He wills He can do away with you and bring a new creation, and reads the four marks as qualities of complete believers: humble with their brothers, firm with their enemies, and held back from obedience by no one who hinders or blames them. As-Sa'di adds the inward side. Their humility toward the believers flows from love, their firmness toward the disbelievers goes together with gentleness in calling them to Islam, since both are needed, and not fearing blame is the proof that their religion is for Allah alone.",
@@ -1037,7 +1037,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Both at-Tabari and Ibn Kathir relate a report from Iyad al-Ash'ari that when this verse came down, the Messenger of Allah ﷺ pointed to Abu Musa al-Ash'ari (RA) and said that they are the people of this man. Ibn Kathir places it among the reports about who the promised people are, and does not make it exclusive. Read together with what at-Tabari says of the verse's generality, the report gives one face to a description that fits many.",
-            "bn": "তাবারী ও ইবনে কাসীর দুজনেই ইয়াদ আশআরীর একটি বর্ণনা আনেন: এই আয়াত নাজিল হলে রাসূলুল্লাহ ﷺ আবু মুসা আশআরী (রাঃ)-এর দিকে ইশারা করে বলেছিলেন, তারা এই লোকটির কওম। ইবনে কাসীর এটিকে রাখেন ওয়াদা করা কওম কারা, সে বিষয়ের বর্ণনাগুলোর মধ্যে, আর একে একমাত্র জবাব বানান না। আয়াতের ব্যাপকতা নিয়ে তাবারী যা বলেন তার সঙ্গে মিলিয়ে পড়লে, এই বর্ণনা এমন এক বর্ণনার একটি চেহারা দেয়, যা অনেকের গায়ে লাগে।"
+            "bn": "তাবারী ও ইবনে কাসীর দুজনেই ইয়াদ আশআরীর একটি বর্ণনা আনেন: এই আয়াত নাজিল হলে রাসূলুল্লাহ ﷺ আবু মুসা আশআরী (রাঃ)-এর দিকে ইশারা করে বলেছিলেন, তারা এই লোকটির কওম। ইবনে কাসীর এটিকে রাখেন ওয়াদা করা কওম কারা, সে বিষয়ের বর্ণনাগুলোর মধ্যে, আর একে একমাত্র জবাব বানান না। আয়াতের ব্যাপকতা নিয়ে তাবারী যা বলেন, তার সঙ্গে মিলিয়ে পড়লে দেখা যায়: যে গুণের ছবি অনেকের সঙ্গেই মেলে, এই বর্ণনা তাতে একটা চেনা মুখ বসিয়ে দেয়।"
           },
           {
             "en": "For the fourth mark, Ibn Kathir brings Imam Ahmad's report from Abu Dharr (RA): his close friend, the Messenger of Allah ﷺ, commanded him seven things: to love the poor and keep close to them, to look at those below him, not above him, to keep the ties of kinship even with those who cut them, to ask nothing of anyone, to speak the truth even when bitter, not to fear the blame of any blamer for the sake of Allah, and to say often that there is no power and no strength except with Allah. The sixth is this verse, given to one man to live by.",
@@ -1085,7 +1085,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse itself tells you how to ask. It ends by calling everything it has described the favour of Allah, which He bestows on whom He wills, and it names Him wasi', the One with room. A believer who wants to be among these people therefore does not manufacture the qualities and present them; he asks for them from the One who gives them, and works at them in the meantime. The verse's last clause, that Allah is all-Encompassing and Knowing, is the reason the request is not presumptuous: He knows exactly what He is being asked for.",
-            "bn": "কীভাবে চাইতে হয়, আয়াত নিজেই বলে দেয়। শেষে যা যা বর্ণনা করেছে তার সবটাকে আয়াত বলে আল্লাহর অনুগ্রহ, যাকে ইচ্ছা তিনি দেন, আর তাঁকে ডাকে ওয়াসি নামে, যাঁর জায়গার অভাব নেই। তাই যে মুমিন এই লোকদের একজন হতে চায়, সে গুণগুলো নিজে তৈরি করে সামনে তুলে ধরে না। যিনি দেন, তাঁর কাছে সে চায়, আর ইতিমধ্যে সেগুলোর জন্য খাটে। আয়াতের শেষ বাক্য, আল্লাহ প্রশস্ত ও সর্বজ্ঞ, এটাই কারণ যে চাওয়াটা ধৃষ্টতা নয়: তাঁর কাছে কী চাওয়া হচ্ছে, তিনি ঠিক জানেন।"
+            "bn": "কীভাবে চাইতে হয়, আয়াত নিজেই বলে দেয়। শেষে যা যা বর্ণনা করেছে তার সবটাকে আয়াত বলে আল্লাহর অনুগ্রহ, যাকে ইচ্ছা তিনি দেন, আর তাঁকে ডাকে ওয়াসি নামে, যাঁর জায়গার অভাব নেই। তাই যে মুমিন এই লোকদের একজন হতে চায়, সে গুণগুলো নিজে তৈরি করে সামনে তুলে ধরে না। যিনি দেন, তাঁর কাছে সে চায়, আর ইতিমধ্যে সেগুলোর জন্য খাটে। চাওয়াটা যে ধৃষ্টতা নয়, তার কারণ আয়াতের শেষ বাক্যটাই: আল্লাহ প্রশস্ত, সর্বজ্ঞ। কী চাওয়া হচ্ছে, তিনি ঠিকই জানেন।"
           },
           {
             "en": "What follows is a supplication composed from the verse's own vocabulary and offered only as that, not as a transmitted du'a: O Allah, make me among the people You love and who love You; make me humble toward the believers and firm where Your religion is concerned; let me strive in Your cause, and take from my heart the fear of any blamer's blame; and do not let me turn back from my religion after You have guided me. It asks for each of the four marks by name, and for the thing the verse warns against to be kept away.",
