@@ -25,7 +25,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The placement matters. Before the surah turns to its warning and its stories, it settles the standing of the Book that carries them. What comes in these opening verses is a warning and a good tiding, and after them the surah moves to correct a grave claim made about Allah. All of it rests on this: the Book that delivers the message is itself without flaw. A crooked measure cannot straighten anything. So the Qur'an fixes the measure first, and only then puts it to use.",
-            "bn": "অবস্থানটাও গুরুত্বপূর্ণ। সূরা যখন তার সতর্কবাণী আর কাহিনিগুলোর দিকে মোড় নেয়, তার আগে সে ঠিক করে নেয় এসব যে কিতাব বহন করছে তার মর্যাদা কতটুকু। এই শুরুর আয়াতগুলোতে আসে একটি সতর্কবাণী আর একটি সুসংবাদ, এরপর সূরা আল্লাহ সম্পর্কে করা এক গুরুতর দাবির সংশোধনে যায়। সবকিছুর ভিত্তি এটাই: যে কিতাব বার্তা পৌঁছায়, সে নিজেই নিখুঁত। বাঁকা মাপকাঠি কোনো কিছু সোজা করতে পারে না। তাই কুরআন আগে মাপকাঠিটাই ঠিক করে, তারপর সেটাকে কাজে লাগায়।"
+            "bn": "শব্দটা কোথায় বসেছে, সেটাও গুরুত্বপূর্ণ। সতর্কবাণী আর কাহিনিগুলোতে যাওয়ার আগে সূরাটি ঠিক করে দেয়, এসব যে কিতাবে আসছে তার মর্যাদা কী। শুরুর এই আয়াতগুলোতে আছে সতর্কবাণী আর সুসংবাদ। এরপর সূরাটি আল্লাহ সম্পর্কে করা এক গুরুতর দাবি শুধরে দিতে এগোয়। সবকিছুর ভিত্তি একটাই: যে কিতাব বার্তাটা পৌঁছে দিচ্ছে, তা নিজেই নিখুঁত। বাঁকা মাপকাঠি দিয়ে কিছু সোজা করা যায় না। তাই কুরআন আগে মাপকাঠিটা ঠিক করে নেয়, তারপর সেটা কাজে লাগায়।"
           }
         ]
       },
@@ -37,11 +37,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What does qayyim add, once crookedness has already been denied? The commentators read it as the positive twin of that denial. Ibn Kathir glosses it simply as mustaqim, straight. Al-Baghawi agrees, and adds Ibn Abbas's reading that it means balanced and just. Al-Muyassar spells the same idea out as a Book with no discrepancy and no contradiction in it. To call a thing straight says more than that it is not bent; it says the thing holds a true line of its own.",
-            "bn": "বক্রতা তো আগেই অস্বীকার করা হয়েছে, তাহলে কায়্যিম শব্দটি নতুন কী যোগ করে? তাফসীরকারেরা একে সেই অস্বীকারেরই ইতিবাচক জোড়া হিসেবে পড়েন। ইবন কাসীর সোজাসাপ্টা অর্থ করেন মুসতাকীম, অর্থাৎ সোজা। বাগভী একমত হন, আর ইবন আব্বাসের পাঠ যোগ করেন যে এর মানে সুষম ও ন্যায়সংগত। মুয়াসসার একই কথা এভাবে খোলেন: এমন কিতাব যাতে কোনো গরমিল নেই, কোনো স্ববিরোধ নেই। কোনো জিনিসকে সোজা বলা মানে শুধু এটুকু নয় যে তা বাঁকা নয়; এর মানে জিনিসটা নিজের একটা খাঁটি রেখা ধরে রাখে।"
+            "bn": "বক্রতা তো আগেই নাকচ করা হয়েছে, তাহলে কায়্যিম শব্দটি নতুন কী যোগ করে? তাফসীরকারদের মতে, 'বক্রতা নেই' কথাটার যে ইতিবাচক রূপ, এই শব্দ সেটাই। ইবন কাসীর সোজাসুজি অর্থ করেন মুসতাকীম, অর্থাৎ সোজা। বাগভীও তা-ই বলেন, সঙ্গে ইবন আব্বাসের ব্যাখ্যা আনেন: এর মানে ভারসাম্যপূর্ণ ও ন্যায়নিষ্ঠ। মুয়াসসার একই কথা খুলে বলে: এমন কিতাব, যাতে কোনো গরমিল নেই, কোনো স্ববিরোধ নেই। কোনো কিছুকে সোজা বললে শুধু এটুকু বোঝায় না যে তা বাঁকা নয়। বোঝায়, তার নিজেরই একটা সঠিক রেখা আছে, আর সে তা ধরে আছে।"
           },
           {
             "en": "Ma'arif al-Qur'an draws the structure out. The earlier phrase ruled out crookedness in a negative, eliminating form; qayyim then fortifies that same meaning positively, for what is straight can carry no tilt to any side. Al-Qurtubi records ad-Dahhak's fine reading that straight here means straight in wisdom, with no error, no corruption, and no contradiction anywhere in it. The negation cleared the ground; this word builds on it. The Book is not merely innocent of distortion. It is actively, deliberately upright.",
-            "bn": "মাআরিফুল কুরআন এই গড়নটা খুলে দেখায়। আগের বাক্যাংশ বক্রতাকে খারিজ করেছিল নেতিবাচকভাবে, বাদ দেওয়ার ভঙ্গিতে; কায়্যিম তখন সেই একই অর্থকে ইতিবাচকভাবে জোরদার করে, কারণ যা সোজা তা কোনো দিকে হেলতে পারে না। কুরতুবী দাহহাকের সুন্দর পাঠ তুলে ধরেন যে এখানে সোজা মানে হিকমতে সোজা, যাতে কোনো ভুল নেই, কোনো বিকৃতি নেই, কোথাও কোনো স্ববিরোধ নেই। অস্বীকার জমিটা পরিষ্কার করেছিল; এই শব্দ তার উপর গড়ে তোলে। কিতাব কেবল বিকৃতিমুক্ত নয়। এটি সক্রিয়ভাবে, ইচ্ছাকৃতভাবে সোজা।"
+            "bn": "মাআরিফুল কুরআন এই গঠনটা খুলে দেখায়। আগের বাক্যাংশ বক্রতাকে বাদ দিয়েছিল 'না' বলে। কায়্যিম সেই একই অর্থ পাকা করে 'হ্যাঁ' বলে, কারণ যা সোজা, তা কোনো দিকে হেলে থাকতে পারে না। কুরতুবী দাহহাকের একটি সুন্দর ব্যাখ্যা আনেন: এখানে সোজা মানে হিকমতে সোজা, যাতে কোথাও কোনো ভুল নেই, বিকৃতি নেই, স্ববিরোধ নেই। নাকচের কথাটা জমি পরিষ্কার করেছিল, এই শব্দ সেখানে ঘর তোলে। কিতাব শুধু বিকৃতি থেকে মুক্তই নয়। আল্লাহ একে জেনে-বুঝে, ইচ্ছা করেই সোজা করে বানিয়েছেন।"
           }
         ]
       },
@@ -53,7 +53,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi notes the grammar: qayyiman stands in the accusative as a circumstantial state, describing the Book that was sent down. He cites Qatada that the words run in their plain order, with nothing brought forward or held back, so the sense is: He put no crookedness in it, rather He made it straight. Al-Baghawi carries the same from Qatada and ties it to 4:82: had the Book been from other than Allah, they would have found in it much discrepancy.",
-            "bn": "কুরতুবী ব্যাকরণের দিকটা ধরিয়ে দেন: কায়্যিমান এখানে হাল হিসেবে কর্মকারকে বসেছে, অর্থাৎ নাযিলকৃত কিতাবের অবস্থা বোঝাচ্ছে। তিনি কাতাদা থেকে উদ্ধৃত করেন যে শব্দগুলো তাদের স্বাভাবিক ক্রমেই চলছে, আগে-পরে কিছু সরানো হয়নি, তাই অর্থ দাঁড়ায়: তিনি তাতে কোনো বক্রতা রাখেননি, বরং একে সোজা করেছেন। বাগভীও কাতাদা থেকে একই কথা আনেন আর তা ৪:৮২ আয়াতের সঙ্গে জোড়েন: কিতাব যদি আল্লাহ ছাড়া অন্য কারও কাছ থেকে হতো, তবে তারা তাতে অনেক গরমিল পেত।"
+            "bn": "কুরতুবী ব্যাকরণের দিকটা দেখান: কায়্যিমান শব্দটি মানসুব, 'হাল' হিসেবে এসেছে। অর্থাৎ নাজিল হওয়া কিতাব কেমন, সেটা বলছে। তিনি কাতাদার কথা আনেন: শব্দগুলো স্বাভাবিক ক্রমেই আছে, কোনোটা আগে-পিছে সরানো হয়নি। তাই অর্থ দাঁড়ায়: তিনি তাতে কোনো বক্রতা রাখেননি, বরং একে সোজা করেছেন। বাগভীও কাতাদা থেকে একই কথা আনেন এবং একে ৪:৮২ আয়াতের সঙ্গে মেলান: কিতাবটি আল্লাহ ছাড়া অন্য কারও কাছ থেকে এলে তারা এতে অনেক গরমিল পেত।"
           },
           {
             "en": "Two further readings widen the word. Al-Qurtubi and al-Baghawi both report, from al-Farra, that qayyim can mean standing guard over the earlier scriptures and confirming them. And Ma'arif al-Qur'an notes the second sense the root allows: qayyim also names a caretaker or guardian who keeps others upright. On that reading the Book is not only straight in itself; it steadies the people who hold to it, keeping them firm and guarding what is good for them. A straight edge is also a tool for straightening.",
@@ -64,16 +64,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Warning It Carries",
-          "bn": "যে সতর্কবাণী এটি বহন করে"
+          "bn": "কিতাবের সতর্কবাণী"
         },
         "p": [
           {
             "en": "Now the verse states the Book's first task: to warn of a severe punishment. At-Tabari explains that the object of the verb is left unspoken and understood, as if it read, to warn you of a punishment; he likens it to 3:175, where Allah frightens His enemies with an unspoken you. Ibn Kathir names who is warned: those who oppose the Messenger, deny him, and refuse to believe. The threat is not vague menace. It is directed, aimed at a settled choice to turn away.",
-            "bn": "এবার আয়াত কিতাবের প্রথম কাজটি বলে দেয়: কঠিন শাস্তি সম্পর্কে সতর্ক করা। তাবারী বলেন, ক্রিয়ার কর্মটি এখানে অনুক্ত, বোঝা যায় বলে ছেড়ে দেওয়া হয়েছে, যেন বলা হচ্ছে, তোমাদের শাস্তি সম্পর্কে সতর্ক করার জন্য; তিনি একে ৩:১৭৫ আয়াতের সঙ্গে মেলান, যেখানে আল্লাহ অনুক্ত তোমাদের দিয়ে তাঁর শত্রুদের ভয় দেখান। ইবন কাসীর বলে দেন কাকে সতর্ক করা হচ্ছে: যারা রাসূলের বিরোধিতা করে, তাঁকে মিথ্যা বলে, আর ঈমান আনতে অস্বীকার করে। এই হুমকি অস্পষ্ট ভীতি নয়। এটি নির্দিষ্ট, মুখ ফিরিয়ে নেওয়ার পাকা সিদ্ধান্তের দিকে তাক করা।"
+            "bn": "এবার আয়াত কিতাবের প্রথম কাজের কথা বলে: কঠিন শাস্তির ব্যাপারে সতর্ক করা। তাবারী বলেন, কাকে সতর্ক করা হবে, সেটা এখানে বলা নেই; বোঝা যায় বলেই উহ্য রাখা হয়েছে। কথাটা যেন এমন: তোমাদের শাস্তির ব্যাপারে সতর্ক করার জন্য। তিনি এর তুলনা দেন ৩:১৭৫ আয়াতের সঙ্গে, যেখানেও 'তোমাদের' শব্দটি উহ্য রেখে তাঁর শত্রুদের দিয়ে ভয় দেখানোর কথা এসেছে। ইবন কাসীর বলে দেন কাদের সতর্ক করা হচ্ছে: যারা রাসূলের বিরোধিতা করে, তাঁকে মিথ্যাবাদী বলে, আর ঈমান আনতে রাজি হয় না। এই হুমকি ঝাপসা ভয় দেখানো নয়। এর নিশানা স্পষ্ট: মুখ ফিরিয়ে নেওয়ার পাকা সিদ্ধান্ত।"
           },
           {
             "en": "At-Tabari gathers the words the early authorities used for this punishment: present chastisement, ruin at hand, overpowering force. Ibn Kathir divides it in time, a punishment hastened in this world and held over for the next. As-Sa'di reads it as covering both, the reckoning of this life and the reckoning of the Hereafter. The Book does not merely mention that danger exists. It sounds the alarm, so that whoever hears has been told before the day the warning speaks of arrives.",
-            "bn": "তাবারী এই শাস্তির জন্য পূর্বসূরিদের ব্যবহৃত শব্দগুলো একত্র করেন: হাতে-নাতে আসা আজাব, উপস্থিত ধ্বংস, দুমড়ে দেওয়া শক্তি। ইবন কাসীর একে সময়ের ভাগে ভাগ করেন, দুনিয়ায় ত্বরান্বিত এক শাস্তি আর আখিরাতের জন্য তুলে রাখা আরেক শাস্তি। সা'দী পড়েন যে তা দুটোকেই ধরে, এই জীবনের হিসাব আর আখিরাতের হিসাব। কিতাব কেবল এটুকু বলে না যে বিপদ আছে। এটি সাইরেন বাজায়, যাতে যে শোনে, সতর্কবাণী যে দিনের কথা বলছে সেই দিন আসার আগেই তাকে জানানো হয়ে যায়।"
+            "bn": "এই শাস্তি বোঝাতে পূর্বসূরিরা যেসব শব্দ ব্যবহার করেছেন, তাবারী সেগুলো একসঙ্গে এনেছেন: নগদ আজাব, সামনে দাঁড়ানো ধ্বংস, দমিয়ে দেওয়া শক্তি। ইবন কাসীর একে সময় দিয়ে ভাগ করেন: কিছু শাস্তি দুনিয়াতেই আগাম আসে, কিছু তোলা থাকে আখিরাতের জন্য। সা'দীর মতে দুটোই এর মধ্যে আছে: এ জীবনের হিসাব, আখিরাতের হিসাবও। কিতাব শুধু জানিয়ে দেয় না যে বিপদ আছে। রীতিমতো বিপদের ঘণ্টা বাজায়, যাতে সতর্কবাণীর সেই দিন আসার আগেই শ্রোতা খবরটা পেয়ে যায়।"
           }
         ]
       },
@@ -85,11 +85,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse locates the punishment precisely: from Him, min ladunhu. At-Tabari and al-Qurtubi both gloss the phrase as from Allah, from His very presence. Ibn Kathir draws out why the words matter: none punishes as Allah punishes, and none binds as firmly as He binds. A threat weighs only as much as the one who makes it. To say the punishment comes from Him is to say there is no appeal above Him, no power that can shelter the one He calls to account, and no measure by which His grasp is resisted.",
-            "bn": "আয়াত শাস্তির উৎসটা নিখুঁতভাবে দেখিয়ে দেয়: তাঁর কাছ থেকে, মিন লাদুনহু। তাবারী ও কুরতুবী উভয়েই বাক্যাংশটির অর্থ করেন আল্লাহর কাছ থেকে, একেবারে তাঁর সন্নিধান থেকে। ইবন কাসীর খুলে বলেন কেন শব্দগুলো এত ভারী: আল্লাহ যেভাবে শাস্তি দেন কেউ সেভাবে দিতে পারে না, আর তিনি যেভাবে বাঁধেন কেউ সেভাবে বাঁধতে পারে না। কোনো হুমকির ওজন ততটুকুই, যতটা তার, যে হুমকি দেয়। শাস্তি তাঁর কাছ থেকে আসে বলার মানে হলো তাঁর উপরে কোনো আপিল নেই, এমন কোনো শক্তি নেই যা একজন জবাবদিহির মুখে-পড়া মানুষকে আড়াল দিতে পারে, আর এমন কোনো মাপ নেই যা দিয়ে তাঁর পাকড়াও ঠেকানো যায়।"
+            "bn": "শাস্তি কোথা থেকে আসবে, আয়াত তা ঠিক করে বলে দেয়: তাঁর কাছ থেকে, মিন লাদুনহু। তাবারী ও কুরতুবী দুজনেই এর অর্থ করেন: আল্লাহর কাছ থেকে, সরাসরি তাঁর পক্ষ থেকে। ইবন কাসীর বুঝিয়ে দেন কথাটা কেন এত ভারী: আল্লাহ যেভাবে শাস্তি দেন, কেউ সেভাবে দিতে পারে না; তিনি যেভাবে বাঁধেন, কেউ সেভাবে বাঁধতে পারে না। হুমকির ওজন নির্ভর করে, হুমকিটা কে দিচ্ছে তার উপর। শাস্তি তাঁর কাছ থেকে আসবে, মানে তাঁর উপরে নালিশ জানানোর কোনো জায়গা নেই। তিনি যাকে জবাবদিহিতে ডাকেন, তাকে আড়াল করার মতো কোনো শক্তি নেই। তাঁর পাকড়াও ঠেকানোর কোনো উপায়ও নেই।"
           },
           {
             "en": "As-Sa'di turns the warning over and finds mercy in it. That Allah frightens His servants away from what would harm and destroy them is itself a kindness. Sa'di reads it beside 39:16, where Allah says of the Fire that by it He frightens His servants, and then calls, O My servants, so fear Me. Setting a heavy penalty on defiance, naming it, and marking the roads that lead to it: this is how a guardian warns those in his care. The alarm is not cruelty; it is being told in time.",
-            "bn": "সা'দী সতর্কবাণীটাকে উল্টে দেখেন আর তার ভেতরে রহমত খুঁজে পান। যা তাদের ক্ষতি করবে আর ধ্বংস করবে, তা থেকে আল্লাহ তাঁর বান্দাদের ভয় দেখান, এটাই তো এক দয়া। সা'দী একে ৩৯:১৬ আয়াতের পাশে রেখে পড়েন, যেখানে আল্লাহ জাহান্নাম প্রসঙ্গে বলেন যে এর দ্বারা তিনি তাঁর বান্দাদের ভয় দেখান, তারপর ডাকেন, হে আমার বান্দারা, আমাকে ভয় করো। নাফরমানির উপর কঠিন সাজা রাখা, তার নাম বলে দেওয়া, আর সেদিকে যাওয়ার পথগুলো চিনিয়ে দেওয়া: অভিভাবক এভাবেই তাঁর তত্ত্বাবধানে থাকাদের সতর্ক করেন। এই সাইরেন নিষ্ঠুরতা নয়; এটি সময়মতো জানিয়ে দেওয়া।"
+            "bn": "সা'দী সতর্কবাণীটাকে অন্য দিক থেকে দেখেন, আর তার ভেতরে রহমত খুঁজে পান। যা বান্দাদের ক্ষতি করবে, ধ্বংস করবে, তা থেকে আল্লাহ তাদের ভয় দেখিয়ে দূরে রাখেন। এটাই তো দয়া। সা'দী একে ৩৯:১৬ আয়াতের পাশে রেখে পড়েন। সেখানে আল্লাহ জাহান্নামের কথা বলে জানান, এ দিয়ে তিনি তাঁর বান্দাদের ভয় দেখান। তারপর ডাক দেন: হে আমার বান্দারা, আমাকে ভয় করো। নাফরমানির জন্য কঠিন সাজা ঠিক করে রাখা, সাজার কথা খোলাখুলি বলে দেওয়া, আর কোন কোন পথ সেদিকে যায় তা চিনিয়ে দেওয়া: অভিভাবক তাঁর দায়িত্বে থাকা মানুষদের এভাবেই সাবধান করেন। এই সতর্কসংকেত নিষ্ঠুরতা নয়। এ হলো সময় থাকতে জানিয়ে দেওয়া।"
           }
         ]
       },
@@ -105,7 +105,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di reads the description closely. The believers here, he says, are those whose faith in Allah, His messengers, and His books has reached completeness, so that it obliges righteous works in them. Those works are the deeds, both obligatory and recommended, that join two things: sincerity toward Allah and following the Messenger. Good news is not, then, a blanket comfort for anyone who calls himself a believer. It is spoken to a faith that has gone to work, and to work done in the way the Book itself lays down.",
-            "bn": "সা'দী বর্ণনাটা কাছ থেকে পড়েন। এখানকার মু'মিনরা, তিনি বলেন, তারা যাদের আল্লাহ, তাঁর রাসূলগণ আর তাঁর কিতাবসমূহের প্রতি ঈমান পূর্ণতায় পৌঁছেছে, ফলে তা তাদের ভেতরে নেক আমল ওয়াজিব করে দিয়েছে। সেই আমল হলো ফরজ ও মুস্তাহাব উভয় ধরনের কাজ, যা দুটি জিনিস একত্র করে: আল্লাহর জন্য ইখলাস আর রাসূলের অনুসরণ। তাই সুসংবাদ নিজেকে মু'মিন বলে ডাকা যেকোনো লোকের জন্য ঢালাও স্বস্তি নয়। এটি সেই ঈমানকে বলা হয় যা কাজে নেমেছে, আর কিতাব নিজে যেভাবে বলে দিয়েছে সেভাবে করা কাজকে।"
+            "bn": "সা'দী বর্ণনাটা খুঁটিয়ে পড়েন। তাঁর মতে এখানে মু'মিন তারা, আল্লাহ, তাঁর রাসূলগণ ও তাঁর কিতাবসমূহের উপর যাদের ঈমান পূর্ণতায় পৌঁছেছে, ফলে সেই ঈমান তাদের কাছে নেক আমল দাবি করে। সেই আমল ফরজও হতে পারে, মুস্তাহাবও, তবে তাতে দুটি জিনিস থাকতে হয়: আল্লাহর জন্য ইখলাস আর রাসূলের অনুসরণ। কাজেই নিজেকে মু'মিন বলে দাবি করলেই কেউ এই সুসংবাদের ভাগীদার হয়ে যায় না। সুসংবাদ সেই ঈমানের জন্য, যা আমলে নেমেছে, আর সেই আমলের জন্য, যা কিতাবের দেখানো পথে করা হয়।"
           }
         ]
       },
@@ -117,11 +117,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What is the good reward the believers are promised? The commentators agree: it is Paradise. At-Tabari calls it an abundant recompense, the Garden promised to the God-fearing. Al-Qurtubi and al-Baghawi both name it plainly as the Garden, al-Qurtubi adding that the fair reward is the great recompense that leads there. Ibn Kathir calls it a beautiful reward with Allah. The word rendered fair or good is doing real work here; the promise is not bare survival but a reward described as lovely in itself.",
-            "bn": "মু'মিনদের যে উত্তম প্রতিফলের ওয়াদা দেওয়া হয়েছে, তা কী? তাফসীরকারেরা একমত: তা জান্নাত। তাবারী একে বলেন প্রচুর প্রতিদান, মুত্তাকীদের কাছে ওয়াদা করা সেই বাগান। কুরতুবী ও বাগভী উভয়েই একে সোজাসুজি বাগান বলে নাম দেন, কুরতুবী যোগ করেন যে উত্তম প্রতিফল হলো সেই মহা প্রতিদান, যা জান্নাতের দিকে নিয়ে যায়। ইবন কাসীর একে বলেন আল্লাহর কাছে এক সুন্দর প্রতিদান। উত্তম বা ভালো অনুবাদ করা শব্দটি এখানে সত্যিকারের কাজ করছে; ওয়াদাটা নিছক টিকে থাকা নয়, বরং এমন প্রতিদান যা নিজেই সুন্দর বলে বর্ণিত।"
+            "bn": "মু'মিনদের যে উত্তম প্রতিফলের ওয়াদা দেওয়া হয়েছে, তা কী? তাফসীরকারেরা একমত: জান্নাত। তাবারী একে বলেন প্রচুর প্রতিদান, অর্থাৎ মুত্তাকীদের জন্য ওয়াদা করা জান্নাত। কুরতুবী ও বাগভী দুজনেই সোজাসুজি জান্নাতের নাম নেন। কুরতুবী আরও বলেন, উত্তম প্রতিফল হলো সেই মহা প্রতিদান, যা জান্নাতে পৌঁছে দেয়। ইবন কাসীরের ভাষায়, আল্লাহর কাছে এক সুন্দর প্রতিদান। 'উত্তম' শব্দটি এখানে খুব অর্থবহ। ওয়াদাটা শুধু কোনোমতে বেঁচে যাওয়ার নয়; এমন প্রতিদানের, যা নিজেই সুন্দর।"
           },
           {
             "en": "As-Sa'di lingers on that word, hasan, good. To describe the reward as good, he says, shows that nothing in it is spoiled or clouded in any way; were there any flaw or grief mixed into it, its goodness would not be complete. He sets its summit at winning Allah's pleasure and entering the Garden, in which is what no eye has seen, no ear has heard, and no heart has imagined. The reward answers the punishment: the threat is severe without relief, and the promise is good without a shadow.",
-            "bn": "সা'দী ওই শব্দটির উপরই থামেন, হাসান, অর্থাৎ উত্তম। প্রতিদানকে উত্তম বলার মানে, তিনি বলেন, এতে কোনোভাবেই কিছু নষ্ট বা মলিন নেই; এর সঙ্গে সামান্য ত্রুটি বা কষ্ট মেশানো থাকলে এর উত্তমতা পূর্ণ হতো না। এর চূড়া তিনি রাখেন আল্লাহর সন্তুষ্টি লাভ আর জান্নাতে প্রবেশে, যেখানে আছে এমন কিছু যা কোনো চোখ দেখেনি, কোনো কান শোনেনি, কোনো অন্তর কল্পনাও করেনি। প্রতিদান শাস্তির জবাব দেয়: হুমকিটা কঠিন, স্বস্তিহীন, আর ওয়াদাটা উত্তম, ছায়াহীন।"
+            "bn": "সা'দী এই শব্দটিতে একটু থামেন: হাসান, অর্থাৎ উত্তম। তিনি বলেন, প্রতিদানকে উত্তম বলার মানে, এতে কোনোভাবেই কোনো খুঁত বা মলিনতা নেই। সামান্য ত্রুটি বা দুঃখ মিশে থাকলে এর উত্তমতা পূর্ণ হতো না। এর সর্বোচ্চ রূপ তিনি দেখান আল্লাহর সন্তুষ্টি পাওয়া আর জান্নাতে প্রবেশ করায়, যেখানে আছে এমন কিছু, যা কোনো চোখ দেখেনি, কোনো কান শোনেনি, কোনো অন্তর কল্পনাও করেনি। প্রতিদান আর শাস্তি মুখোমুখি দাঁড়ায়: হুমকি কঠিন, তাতে কোনো ছাড় নেই; ওয়াদা উত্তম, তাতে কোনো ছায়া নেই।"
           }
         ]
       },
@@ -133,15 +133,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Set the two tasks side by side and the shape of the verse appears. The same straight Book warns and cheers, and it speaks both to the same listener. It does not sort the world in advance into those it only frightens and those it only comforts; it lays the severe punishment and the fair reward before every reader and lets each choose which half he is walking toward. As-Sa'di's point returns here: even the warning is an act of care, because it is offered while there is still time to heed it.",
-            "bn": "দুটি কাজ পাশাপাশি রাখুন, আয়াতের গড়নটা ফুটে ওঠে। একই সোজা কিতাব ভয়ও দেখায়, সুসংবাদও দেয়, আর দুটোই বলে একই শ্রোতাকে। এটি দুনিয়াকে আগে থেকে ভাগ করে না যে এদের শুধু ভয় দেখাবে আর ওদের শুধু স্বস্তি দেবে; এটি কঠিন শাস্তি আর উত্তম প্রতিফল প্রত্যেক পাঠকের সামনে রাখে, আর প্রত্যেককে বেছে নিতে দেয় সে কোন অর্ধেকের দিকে হাঁটছে। সা'দীর কথাটা এখানে ফিরে আসে: সতর্কবাণীও এক যত্নের কাজ, কারণ এটি তখনই দেওয়া হয় যখন কান দেওয়ার সময় এখনো বাকি।"
+            "bn": "দুটি কাজ পাশাপাশি রাখলেই আয়াতের গড়নটা চোখে পড়ে। একই সোজা কিতাব ভয়ও দেখায়, সুখবরও দেয়, আর দুটোই বলে একই শ্রোতাকে। কিতাব আগে থেকে মানুষকে দুই ভাগ করে রাখে না যে একদলকে শুধু ভয় দেখাবে, আরেক দলকে শুধু সান্ত্বনা দেবে। কঠিন শাস্তি আর উত্তম প্রতিফল, দুটোই সে প্রত্যেক পাঠকের সামনে রাখে। তারপর প্রত্যেকে নিজেই ঠিক করে, সে কোন দিকে হাঁটছে। সা'দীর কথাটা এখানে আবার মনে পড়ে: সতর্কবাণীও যত্নেরই অংশ, কারণ তা আসে এমন সময়ে, যখন শোনার সময় এখনো আছে।"
           },
           {
             "en": "No sound hadith comes down expounding this verse in particular; the commentators read it by its wording and its neighbours, not by a narration. What the collections do preserve, at the surah's head, is the reported virtue of its opening. Muslim records from Abu ad-Darda that the Prophet ﷺ said whoever memorises the first ten verses of Surat al-Kahf will be protected from the Dajjal. That is a merit of the opening ten as a body, of which this verse is one, not a comment on its meaning; it is sound, and it is reported as a virtue rather than as tafsir.",
-            "bn": "এই আয়াতটির নির্দিষ্ট ব্যাখ্যা দেয় এমন কোনো সহীহ হাদীস নেমে আসেনি; তাফসীরকারেরা একে পড়েন এর শব্দ আর পাশের আয়াতগুলো দিয়ে, কোনো বর্ণনা দিয়ে নয়। হাদীস সংকলনগুলো সূরার মাথায় যা সংরক্ষণ করেছে, তা হলো এর শুরুর অংশের বর্ণিত ফযীলত। মুসলিম আবু দারদা (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন, যে সূরা কাহাফের প্রথম দশটি আয়াত মুখস্থ করবে সে দাজ্জাল থেকে রক্ষা পাবে। এটি শুরুর দশটি আয়াতের সমষ্টিগত ফযীলত, যার একটি এই আয়াত, এর অর্থের উপর কোনো মন্তব্য নয়; এটি সহীহ, আর এটি ফযীলত হিসেবে বর্ণিত, তাফসীর হিসেবে নয়।"
+            "bn": "এই আয়াতটির বিশেষ ব্যাখ্যায় কোনো সহীহ হাদিস বর্ণিত হয়নি। তাফসীরকারেরা আয়াতটি বুঝেছেন এর শব্দ আর আশপাশের আয়াত দেখে, কোনো বর্ণনার ভিত্তিতে নয়। তবে হাদিসের কিতাবগুলোতে সূরার শুরুর অংশের ফজিলতের কথা আছে। মুসলিম আবু দারদা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: যে সূরা কাহাফের প্রথম দশ আয়াত মুখস্থ করবে, সে দাজ্জাল থেকে রক্ষা পাবে। এটা পুরো প্রথম দশ আয়াতের ফজিলত, যার একটি এই আয়াত; এর অর্থের ব্যাখ্যা নয়। হাদিসটি সহীহ, তবে এসেছে ফজিলত হিসেবে, তাফসীর হিসেবে নয়।"
           },
           {
             "en": "So the verse leaves the reader with a straight edge in hand. A true measure is useful only to someone willing to be measured by it. The Book has been made upright on purpose, and one of its offices, on Ma'arif al-Qur'an's reading, is to keep upright those who hold to it. The honest question is not whether the Qur'an is straight but whether I will let it straighten me, or quietly bend its plain warning and its plain promise until they fit the life I had already decided to live.",
-            "bn": "তাই আয়াত পাঠকের হাতে একটি সোজা মাপকাঠি ধরিয়ে দিয়ে যায়। খাঁটি মাপকাঠি কেবল তারই কাজে লাগে, যে নিজেকে তা দিয়ে মাপতে রাজি। কিতাবকে ইচ্ছে করেই সোজা করা হয়েছে, আর মাআরিফুল কুরআনের পাঠে এর একটি কাজ হলো যারা একে ধরে থাকে তাদের সোজা রাখা। খাঁটি প্রশ্নটা এই নয় যে কুরআন সোজা কি না, বরং এই যে আমি কি একে আমাকে সোজা করতে দেব, নাকি চুপচাপ এর স্পষ্ট সতর্কবাণী আর স্পষ্ট ওয়াদাকে বাঁকিয়ে নেব যতক্ষণ না তা আগেই ঠিক করে ফেলা জীবনটার সঙ্গে খাপ খায়।"
+            "bn": "তাই আয়াতটি পাঠকের হাতে একটি সোজা মাপকাঠি তুলে দিয়ে যায়। সঠিক মাপকাঠি কাজে লাগে শুধু তারই, যে নিজেকে তা দিয়ে মাপতে রাজি। আল্লাহ কিতাবটিকে জেনে-বুঝেই সোজা করে বানিয়েছেন। আর মাআরিফুল কুরআনের ব্যাখ্যায়, এর একটি কাজ হলো যারা একে আঁকড়ে ধরে, তাদের সোজা রাখা। তাই আসল প্রশ্নটা এ নয় যে কুরআন সোজা কি না। প্রশ্ন হলো, আমি কি কুরআনকে আমাকে সোজা করতে দেব? নাকি এর স্পষ্ট সতর্কবাণী আর স্পষ্ট ওয়াদাকে চুপচাপ বাঁকিয়ে নেব, যতক্ষণ না তা আমার আগে থেকে বেছে রাখা জীবনের সঙ্গে খাপ খায়?"
           }
         ]
       }
@@ -157,11 +157,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse just before this one, 18:6, shows the Prophet ﷺ close to destroying himself with grief because his people will not believe. This verse is the answer given to that grief, and it is not a consolation so much as an explanation: We have made what is on the earth an adornment for it, so that We may test them as to which of them is best in deed. Their refusal is not a mystery. The adornment is doing exactly what it was placed there to do.",
-            "bn": "ঠিক এর আগের আয়াত 18:6 দেখায়, নবী ﷺ তাঁর জাতির অবিশ্বাসের শোকে প্রায় নিজেকেই শেষ করে ফেলছেন। এই আয়াতটি সেই শোকের জবাব, আর তা সান্ত্বনার চেয়ে বেশি একটি ব্যাখ্যা: যমীনের উপর যা কিছু আছে আমি সেগুলোকে তার শোভা করেছি, যাতে আমি পরীক্ষা করতে পারি আমলের ক্ষেত্রে তাদের মধ্যে কারা উত্তম। তাদের প্রত্যাখ্যান কোনো রহস্য নয়। শোভাটিকে ঠিক যে কাজের জন্য রাখা হয়েছিল, সে তা-ই করছে।"
+            "bn": "ঠিক আগের আয়াতে, ১৮:৬-এ, দেখা যায় নবী ﷺ তাঁর কওমের ঈমান না আনার দুঃখে নিজেকে প্রায় শেষ করে ফেলছেন। এই আয়াত সেই দুঃখের জবাব। তবে এটা যতটা সান্ত্বনা, তার চেয়ে বেশি ব্যাখ্যা: যমীনের উপর যা কিছু আছে, আমি সেগুলোকে তার শোভা বানিয়েছি, যাতে তাদের পরীক্ষা করি, আমলে তাদের মধ্যে কে সবচেয়ে ভালো। তাদের মুখ ফিরিয়ে নেওয়া কোনো রহস্য নয়। শোভাকে যে কাজের জন্য রাখা হয়েছে, সে ঠিক সেই কাজটাই করছে।"
           },
           {
             "en": "The very next verse, 18:8, closes the frame before it can be misread: and We will make what is upon it a barren ground. The commentators read the two together, and they belong together. The adornment is real, it was given deliberately, and it has an expiry date printed underneath it. Almost everything the surah goes on to narrate sits inside that pair of sentences.",
-            "bn": "ঠিক পরের আয়াত 18:8 ভুল বোঝার সুযোগ দেওয়ার আগেই কাঠামোটি বন্ধ করে দেয়: আর আমি অবশ্যই তার উপর যা আছে তা বৃক্ষলতাহীন শুকনো মাটিতে পরিণত করব। মুফাসসিরগণ দুটিকে একসঙ্গে পড়েন, আর দুটি একসঙ্গেই থাকার কথা। শোভাটি বাস্তব, তা ইচ্ছাকৃতভাবেই দেওয়া হয়েছে, আর তার নিচে মেয়াদ-উত্তীর্ণের তারিখটিও ছাপা আছে। সূরাটি এরপর যা কিছু বর্ণনা করে তার প্রায় সবই এই দুই বাক্যের ভেতরে বসে আছে।"
+            "bn": "ঠিক পরের আয়াত, ১৮:৮, কেউ ভুল বোঝার আগেই কাঠামোটা পূর্ণ করে দেয়: আর এর উপর যা কিছু আছে, আমি অবশ্যই তা উদ্ভিদশূন্য শুকনো মাটি বানিয়ে দেব। তাফসীরকারেরা দুটি আয়াত একসঙ্গে পড়েন, আর সত্যিই এ দুটো একসঙ্গে থাকার কথা। শোভা সত্যি, আল্লাহ তা জেনে-বুঝেই দিয়েছেন, আর তার তলায় মেয়াদ শেষের তারিখও লেখা আছে। সূরাটি এরপর যত কাহিনি বলে, তার প্রায় সবই এই দুই বাক্যের ভেতরে ধরা।"
           }
         ]
       },
@@ -173,7 +173,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Arabic is zinatan laha, adornment for it, and the pronoun is feminine, pointing back to the earth. The beauty is the earth's dress, not ours. Everything people spend a life competing for is jewellery on a planet we are crossing, and the wearer is not the one being examined. The word zinah returns twice more in this same surah, at 18:28 and 18:46, and both times it names something a person might look at too long.",
-            "bn": "আরবি শব্দবন্ধটি 'যীনাতান লাহা' — তার জন্য শোভা — আর সর্বনামটি স্ত্রীবাচক, যা ফিরে যায় যমীনের দিকে। সৌন্দর্যটি যমীনের পোশাক, আমাদের নয়। মানুষ যা কিছুর জন্য সারাজীবন প্রতিযোগিতা করে, তা আমরা যে গ্রহটি পার হয়ে যাচ্ছি তারই অলংকার — আর যে পরে আছে, পরীক্ষা তার নেওয়া হচ্ছে না। 'যীনাহ' শব্দটি এই সূরাতেই আরও দু'বার ফিরে আসে, 18:28 ও 18:46 আয়াতে, আর দু'বারই তা এমন কিছুর নাম বলে যার দিকে মানুষ হয়তো একটু বেশিক্ষণ তাকিয়ে থাকে।"
+            "bn": "আরবিতে আছে 'যীনাতান লাহা', অর্থাৎ তার জন্য শোভা। সর্বনামটি স্ত্রীলিঙ্গ, আর তা ফিরে যায় যমীনের দিকে। এ সৌন্দর্য যমীনের পোশাক, আমাদের নয়। মানুষ সারাজীবন যা পাওয়ার জন্য পাল্লা দেয়, তার সবই এমন এক গ্রহের গয়না, যা আমরা কেবল পার হয়ে যাচ্ছি। আর গয়না যার গায়ে, পরীক্ষা তার নয়। 'যীনাহ' শব্দটি এই সূরাতেই আরও দুবার এসেছে, ১৮:২৮ ও ১৮:৪৬ আয়াতে। দুবারই তা এমন কিছুর নাম, যার দিকে মানুষ হয়তো একটু বেশিক্ষণ তাকিয়ে থাকে।"
           }
         ]
       },
@@ -185,11 +185,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The test is ayyuhum ahsanu amalan: which of them is best in deed. The superlative is ahsan, best, and not akthar, most. The same test appears in three places in the Quran — 11:7, 18:7 and 67:2 — and in all three the measure is quality; only here is it ayyuhum, which of them, the other two reading ayyukum, which of you. Nowhere is a person told that the count is what will be weighed.",
-            "bn": "পরীক্ষাটি হলো 'আইয়ুহুম আহসানু আমালা' — আমলের ক্ষেত্রে তাদের মধ্যে কারা উত্তম। অতিশয়ার্থক শব্দটি 'আহসান' — সর্বোত্তম, 'আকছার' — সর্বাধিক নয়। একই পরীক্ষার কথা কুরআনের তিনটি জায়গায় এসেছে — 11:7, 18:7 ও 67:2 — আর তিন জায়গাতেই মাপকাঠি হলো গুণগত মান; কেবল এখানেই তা 'আইয়ুহুম' — তাদের মধ্যে কারা — বাকি দুটিতে 'আইয়ুকুম', অর্থাৎ তোমাদের মধ্যে কারা। কোথাও কাউকে বলা হয়নি যে সংখ্যাটিই ওজন করা হবে।"
+            "bn": "পরীক্ষাটি হলো 'আইয়ুহুম আহসানু আমালা': আমলে তাদের মধ্যে কে সবচেয়ে ভালো। এখানে শব্দটি 'আহসান', সবচেয়ে ভালো; 'আকছার', সবচেয়ে বেশি, নয়। কুরআনে একই পরীক্ষার কথা এসেছে তিন জায়গায়: ১১:৭, ১৮:৭ ও ৬৭:২। তিন জায়গাতেই মাপকাঠি আমলের মান। শুধু এখানে আছে 'আইয়ুহুম', তাদের মধ্যে কে; বাকি দুটিতে 'আইয়ুকুম', তোমাদের মধ্যে কে। কোথাও কাউকে বলা হয়নি যে আমলের সংখ্যা মাপা হবে।"
           },
           {
             "en": "Where the same phrase occurs in 67:2, Ibn Kathir transmits al-Fudayl ibn Iyad's gloss on it: the best deed is the most sincere and the most correct. Sincere means done for Allah alone; correct means done the way the Sunnah taught it. Two conditions, and a deed that satisfies only one of them fails the description. That is a demanding standard, and it is also a liberating one, because it is available to someone with very little to give.",
-            "bn": "67:2 আয়াতে একই শব্দবন্ধ যেখানে এসেছে, সেখানে ইবনে কাসীর ফুদাইল ইবনে ইয়ায-এর ব্যাখ্যাটি বর্ণনা করেন: সর্বোত্তম আমল হলো সবচেয়ে নিষ্ঠাপূর্ণ ও সবচেয়ে শুদ্ধ আমল। নিষ্ঠাপূর্ণ মানে কেবল আল্লাহর জন্য করা; শুদ্ধ মানে সুন্নাহ যেভাবে শিখিয়েছে সেভাবে করা। দুটি শর্ত, আর যে আমল কেবল একটি পূরণ করে তা এই বর্ণনায় পড়ে না। মানদণ্ডটি কঠিন, আবার মুক্তিদায়কও — কারণ যার দেওয়ার মতো সামান্যই আছে, তার নাগালেও এটি রয়েছে।"
+            "bn": "৬৭:২ আয়াতেও একই কথা এসেছে, আর সেখানে ইবনে কাসীর ফুদাইল ইবনে ইয়াযের ব্যাখ্যা বর্ণনা করেন: সবচেয়ে ভালো আমল হলো যা সবচেয়ে খাঁটি আর সবচেয়ে সঠিক। খাঁটি মানে শুধু আল্লাহর জন্য করা। সঠিক মানে সুন্নাহ যেভাবে শিখিয়েছে, সেভাবে করা। শর্ত দুটি। যে আমলে এর একটি মাত্র পূরণ হয়, তা এই বর্ণনায় পড়ে না। মানদণ্ডটা কঠিন, আবার মুক্তিরও। কারণ যার দেওয়ার মতো খুব সামান্যই আছে, সেও এ মান ছুঁতে পারে।"
           }
         ]
       },
@@ -201,11 +201,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "After this frame the surah tells four narratives, beginning at 18:9, 18:32, 18:60 and 18:83, and it is worth counting them: the companions of the cave; the man given two gardens; Musa (AS) travelling with a servant whom Allah had given mercy and knowledge; and Dhul-Qarnayn. Each of the four sets a person beside something the world adorns — faith and safety, wealth, knowledge, and power.",
-            "bn": "এই কাঠামোটির পর সূরাটি চারটি কাহিনি বলে, যেগুলোর শুরু 18:9, 18:32, 18:60 ও 18:83 আয়াতে — আর সেগুলো গুনে দেখা দরকার: গুহার অধিবাসীরা; যাকে দুটি বাগান দেওয়া হয়েছিল সেই ব্যক্তি; মূসা (আঃ) ও তাঁর সফরসঙ্গী সেই বান্দা যাঁকে আল্লাহ রহমত ও জ্ঞান দিয়েছিলেন; এবং যুলকারনাইন। চারটির প্রতিটিই একজন মানুষকে দাঁড় করায় দুনিয়া যা দিয়ে সাজায় তার পাশে — ঈমান ও নিরাপত্তা, সম্পদ, জ্ঞান, ও ক্ষমতা।"
+            "bn": "এই কাঠামোর পর সূরাটি চারটি কাহিনি বলে, যেগুলো শুরু হয় ১৮:৯, ১৮:৩২, ১৮:৬০ ও ১৮:৮৩ আয়াতে। কাহিনিগুলো একবার গুনে দেখা ভালো: গুহার যুবকেরা; দুটি বাগান পাওয়া সেই লোক; মূসা (আঃ), যিনি সফর করেছিলেন আল্লাহর এমন এক বান্দার সঙ্গে, যাঁকে আল্লাহ রহমত ও জ্ঞান দিয়েছিলেন; আর যুলকারনাইন। চারটি কাহিনির প্রতিটিতে একজন মানুষকে দাঁড় করানো হয়েছে দুনিয়ার কোনো এক শোভার পাশে: ঈমান ও নিরাপত্তা, সম্পদ, জ্ঞান, আর ক্ষমতা।"
           },
           {
             "en": "The surah pauses after the second of them and returns to the frame in three steps. 18:44 gives the verdict that authority belongs to Allah, the Truth, who is best in reward and best in outcome. 18:45 turns the world's green growth into dry remnants scattered by the wind. 18:46 then names wealth and children as the adornment of this life and declares the enduring good deeds better in reward and better in hope.",
-            "bn": "দ্বিতীয় কাহিনিটির পর সূরাটি থামে এবং তিন ধাপে কাঠামোটিতে ফিরে আসে। 18:44 আয়াত রায় দেয় যে যাবতীয় কর্তৃত্ব সেই সত্যিকার আল্লাহরই, যিনি পুরস্কারে শ্রেষ্ঠ ও পরিণামে শ্রেষ্ঠ। 18:45 আয়াত দুনিয়ার সবুজ ফসলকে বাতাসে উড়ে যাওয়া শুকনো খড়কুটোয় পরিণত করে। এরপর 18:46 আয়াত ধন-সম্পদ ও সন্তানাদিকে এ জীবনের শোভা বলে নাম দেয় এবং ঘোষণা করে যে স্থায়ী সৎকাজই পুরস্কারে উত্তম ও আকাঙ্ক্ষায় উত্তম।"
+            "bn": "দ্বিতীয় কাহিনির পর সূরাটি থেমে তিন ধাপে আবার কাঠামোয় ফিরে আসে। ১৮:৪৪ আয়াত রায় দেয়: কর্তৃত্ব শুধু সত্য আল্লাহর, প্রতিদানেও তিনি শ্রেষ্ঠ, পরিণামেও শ্রেষ্ঠ। ১৮:৪৫ আয়াত দুনিয়ার সবুজ ফসলকে বানিয়ে দেয় শুকনো খড়কুটো, যা বাতাসে উড়ে যায়। তারপর ১৮:৪৬ আয়াত বলে, ধন-সম্পদ আর সন্তান এ দুনিয়ার জীবনের শোভা, আর স্থায়ী নেক আমলই প্রতিদানে উত্তম, আশার দিক থেকেও উত্তম।"
           }
         ]
       },
@@ -217,11 +217,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Nothing here calls the world's beauty a trap or a sin. It is called zinah, ornament, and Allah says He made it. An exam paper is not the student's enemy. What the verse rules out is not enjoyment but confusion about which of the two is being marked — and the confusion is easy, because the ornament is visible and the deed is not.",
-            "bn": "এখানে কোথাও দুনিয়ার সৌন্দর্যকে ফাঁদ বা পাপ বলা হয়নি। তাকে বলা হয়েছে 'যীনাহ' — শোভা, আর আল্লাহ বলছেন তিনিই তা বানিয়েছেন। পরীক্ষার প্রশ্নপত্র পরীক্ষার্থীর শত্রু নয়। আয়াতটি যা বাদ দেয় তা উপভোগ নয়, বরং এই বিভ্রান্তি — দুটির মধ্যে কোনটির মূল্যায়ন হচ্ছে। আর বিভ্রান্তিটি সহজ, কারণ শোভা চোখে দেখা যায় আর আমল যায় না।"
+            "bn": "এখানে কোথাও দুনিয়ার সৌন্দর্যকে ফাঁদ বা গুনাহ বলা হয়নি। একে বলা হয়েছে 'যীনাহ', শোভা, আর আল্লাহ বলছেন, তিনিই তা বানিয়েছেন। পরীক্ষার প্রশ্নপত্র তো পরীক্ষার্থীর শত্রু নয়। আয়াত উপভোগ নিষেধ করে না। নিষেধ করে একটা গোলমাল: দুটির মধ্যে কোনটার নম্বর দেওয়া হচ্ছে, তা গুলিয়ে ফেলা। আর গুলিয়ে ফেলা খুব সহজ, কারণ শোভা চোখে পড়ে, আমল পড়ে না।"
           },
           {
             "en": "The same surah states the failure case plainly. 18:103 asks whether we should be told about the greatest losers in deeds, and 18:104 answers: those whose effort in the life of this world was lost while they thought they were doing well. That is what a life fails at when it is graded by the ornament. The practical instruction from this verse is narrow and doable: take one deed you already perform and improve its quality rather than its frequency.",
-            "bn": "একই সূরা ব্যর্থতার ঘটনাটিও স্পষ্ট করে বলে। 18:103 আয়াত জিজ্ঞেস করে, আমলের দিক থেকে সবচেয়ে ক্ষতিগ্রস্তদের কথা কি আমাদের জানানো হবে; আর 18:104 আয়াত উত্তর দেয়: তারা সেই লোক, দুনিয়ার জীবনে যাদের চেষ্টা ব্যর্থ হয়ে গেছে অথচ তারা ভাবছিল তারা ভালোই করছে। শোভা দিয়ে মাপলে একটি জীবন এখানেই ব্যর্থ হয়। এই আয়াত থেকে ব্যবহারিক নির্দেশনাটি সংকীর্ণ ও করণীয়: আপনি ইতিমধ্যেই করেন এমন একটি আমল নিন এবং তার সংখ্যা নয়, মান বাড়ান।"
+            "bn": "ব্যর্থ হলে কেমন দেখায়, একই সূরা তা সোজাসুজি বলে দেয়। ১৮:১০৩ আয়াত জিজ্ঞেস করে, আমলের দিক থেকে সবচেয়ে ক্ষতিগ্রস্ত কারা, তা কি আমাদের জানানো হবে? ১৮:১০৪ আয়াত উত্তর দেয়: তারাই, দুনিয়ার জীবনে যাদের সব চেষ্টা বৃথা গেছে, অথচ তারা ভাবত, তারা ভালো কাজই করছে। শোভা দিয়ে মাপা জীবন এখানেই ব্যর্থ হয়। এই আয়াত থেকে কাজের কথাটা ছোট, আর করাও সম্ভব: আপনি এখন যে আমলগুলো করেন, তার একটি বেছে নিন, আর সেটা বেশি বার নয়, আরও ভালোভাবে করুন।"
           }
         ]
       }
@@ -273,7 +273,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari prefers the door, or the space before it where it shuts, since a door is closed, yusad, as in innaha alayhim mu'sadah in 104:8. Ibn Kathir calls this view correct and cites the same verse. Al-Baghawi answers an objection, that a cave has no door, by taking it as the place where a door would stand. Ibn Jurayj, in at-Tabari and Ibn Kathir, says the dog was keeping the door for them, and Ibn Kathir calls that a dog's nature. As-Sa'di adds that sleep took the dog too, while it stood guard, its forelegs still stretched at the entrance.",
-            "bn": "তাবারী দরজার মতটাকেই প্রাধান্য দেন, কিংবা দরজার সামনের সেই জায়গা যেখানে দরজা বন্ধ হয়। কারণ দরজাকে বলা হয় ইউসাদ, বন্ধ করা হয়, যেমন ১০৪:৮ আয়াতে ইন্নাহা আলাইহিম মু'সাদাহ। ইবন কাসীরও এ মতকে সঠিক বলেন এবং একই আয়াত আনেন। বাগাভী একটা আপত্তির জবাব দেন: গুহার তো দরজা থাকে না। তাঁর উত্তর, এখানে দরজার জায়গাটাই বোঝানো হয়েছে। তাবারী ও ইবন কাসীরে ইবন জুরাইজ বলেন, কুকুরটি তাদের দরজা আগলে রাখছিল। ইবন কাসীরের মতে এটাই কুকুরের স্বভাব। সা'দী যোগ করেন, পাহারা দিতে দিতে কুকুরটিকেও ঘুম পেয়ে বসে, আর তার সামনের পা দুটো প্রবেশপথে মেলাই থেকে যায়।"
+            "bn": "তাবারী দরজার মতটাকেই প্রাধান্য দেন, কিংবা দরজার সামনের সেই জায়গা যেখানে দরজা বন্ধ হয়। কারণ দরজা বন্ধ করা হয়, আরবিতে ইউসাদ, যেমন ১০৪:৮ আয়াতে আছে: ইন্নাহা আলাইহিম মু'সাদাহ। ইবন কাসীরও এ মতকে সঠিক বলেন এবং একই আয়াত আনেন। বাগাভী একটা আপত্তির জবাব দেন: গুহার তো দরজা থাকে না। তাঁর উত্তর, এখানে দরজার জায়গাটাই বোঝানো হয়েছে। তাবারী ও ইবন কাসীরে ইবন জুরাইজ বলেন, কুকুরটি তাদের দরজা আগলে রাখছিল। ইবন কাসীরের মতে এটাই কুকুরের স্বভাব। সা'দী যোগ করেন, পাহারা দিতে দিতে কুকুরটিকেও ঘুম পেয়ে বসে, আর তার সামনের পা দুটো প্রবেশপথে মেলাই থেকে যায়।"
           }
         ]
       },
@@ -321,7 +321,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi carries the thought through a chain of preachers. Ibn Atiyyah reports from his father that he heard Abu al-Fadl al-Jawhari say from the pulpit in Egypt, in the year 469: whoever loves the people of good gains from their blessing; a dog loved people of virtue and kept their company, and Allah mentioned it in His Book. Al-Qurtubi comments: if a dog reached that rank by the company of the righteous, what then of believers who affirm Allah's oneness and love His friends? He then brings a narration that does not mention the cave, as comfort for those who fall short in deeds.",
-            "bn": "কুরতুবী একই ভাবনা আনেন কয়েকজন বক্তার পরম্পরায়। ইবন আতিয়্যা তাঁর পিতা থেকে বর্ণনা করেন, তিনি ৪৬৯ হিজরিতে মিসরের জামে মসজিদের মিম্বর থেকে আবুল ফাদল জাওহারীকে বলতে শুনেছেন: যে নেককারদের ভালোবাসে, সে তাদের বরকতের ভাগ পায়। একটা কুকুর মর্যাদাবান মানুষদের ভালোবেসে তাদের সঙ্গ নিয়েছিল, আর আল্লাহ তাঁর কিতাবে তার কথা বলেছেন। কুরতুবীর মন্তব্য: নেককারদের সঙ্গের গুণে একটা কুকুর যদি এমন মর্যাদায় পৌঁছায়, তবে যে মুমিন তাওহীদে বিশ্বাসী আর আল্লাহর বন্ধুদের ভালোবাসে, তার অবস্থা কী হবে? এরপর তিনি একটি হাদীস আনেন, যাতে গুহার কোনো উল্লেখ নেই। আমলে পিছিয়ে থাকা মানুষের সান্ত্বনা হিসেবেই তিনি এটা এখানে রাখেন।"
+            "bn": "কুরতুবী একই ভাবনা আনেন কয়েকজন বক্তার পরম্পরায়। ইবন আতিয়্যা তাঁর পিতা থেকে বর্ণনা করেন, তিনি ৪৬৯ হিজরিতে মিসরে মিম্বরে দাঁড়িয়ে আবুল ফাদল জাওহারীকে বলতে শুনেছেন: যে নেককারদের ভালোবাসে, সে তাদের বরকতের ভাগ পায়। একটা কুকুর মর্যাদাবান মানুষদের ভালোবেসে তাদের সঙ্গ নিয়েছিল, আর আল্লাহ তাঁর কিতাবে তার কথা বলেছেন। কুরতুবীর মন্তব্য: নেককারদের সঙ্গের গুণে একটা কুকুর যদি এমন মর্যাদায় পৌঁছায়, তবে যে মুমিন তাওহীদে বিশ্বাসী আর আল্লাহর বন্ধুদের ভালোবাসে, তার অবস্থা কী হবে? এরপর তিনি একটি হাদিস আনেন, যাতে গুহার কোনো উল্লেখ নেই। আমলে পিছিয়ে থাকা মানুষের সান্ত্বনা হিসেবেই তিনি এটা এখানে রাখেন।"
           },
           {
             "en": "Bukhari 3688, from Anas (RA), translator's glosses left out: A man asked the Prophet ﷺ about the Hour saying, When will the Hour be? The Prophet ﷺ said, What have you prepared for it? The man said, Nothing, except that I love Allah and His Apostle. The Prophet ﷺ said, You will be with those whom you love. We had never been so glad as we were on hearing that saying of the Prophet Therefore, I love the Prophet, Abu Bakr and Umar, and I hope that I will be with them because of my love for them though my deeds are not similar to theirs.",
@@ -372,16 +372,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Never Say Tomorrow Plainly",
-          "bn": "নিছক কাল করব নয়"
+          "bn": "ইনশাআল্লাহ ছাড়া 'কাল' নয়"
         },
         "p": [
           {
             "en": "And never say of anything, indeed I will do that tomorrow, except adding: if Allah wills. The prohibition is aimed at a habit so universal we barely hear ourselves doing it — announcing the future as if we owned it. The verse does not forbid planning; it forbids planning's arrogant grammar. Tomorrow may be spoken of, but only with its true owner acknowledged in the same breath.",
-            "bn": "আর কোনো বিষয়ে কখনো বোলো না, আমি আগামীকাল নিশ্চয়ই তা করব — এ কথা না যোগ করে: যদি আল্লাহ চান। নিষেধটি এমন এক অভ্যাসের দিকে তাক করা, যা এতই সর্বজনীন যে নিজের মুখে তা শুনতেই পাই না — ভবিষ্যৎ ঘোষণা করা এমনভাবে যেন তার মালিক আমরাই। আয়াতটি পরিকল্পনা নিষেধ করে না; নিষেধ করে পরিকল্পনার অহংকারী ভাষাভঙ্গি। আগামীকালের কথা বলা যাবে, তবে কেবল একই নিঃশ্বাসে তার প্রকৃত মালিককে স্বীকার করে।"
+            "bn": "আর কোনো কাজের ব্যাপারে কখনো বোলো না, আমি আগামীকাল অবশ্যই এটা করব; তবে সঙ্গে বলো: যদি আল্লাহ চান। নিষেধটা এমন এক অভ্যাসের বিরুদ্ধে, যা এত সাধারণ যে নিজেরা করার সময় টেরও পাই না: ভবিষ্যতের কথা এমনভাবে বলা, যেন আমরাই তার মালিক। আয়াত পরিকল্পনা করতে নিষেধ করে না। নিষেধ করে পরিকল্পনার অহংকারী ভাষা। আগামীকালের কথা বলা যাবে, তবে একই নিঃশ্বাসে তার আসল মালিককে স্বীকার করে।"
           },
           {
             "en": "The exception phrase, insha'Allah, is not a verbal ornament or a polite hedge. Said with its meaning, it is a precise statement of reality: my intention is real, my ability is borrowed, and between the two stands a will that overrules mine, as 76:30 states — you do not will except that Allah wills. Every honest plan has that clause in it whether spoken or not; the verse asks that it be spoken.",
-            "bn": "ব্যতিক্রম-বাক্যটি — ইনশাআল্লাহ — কোনো মৌখিক অলংকার বা ভদ্রতার রাখঢাক নয়। অর্থসহ বললে এটি বাস্তবতার এক নিখুঁত বিবৃতি: আমার সংকল্প সত্য, আমার সামর্থ্য ধার করা, আর দুয়ের মাঝখানে দাঁড়িয়ে এমন এক ইচ্ছা যা আমারটির ওপরে — যেমন 76:30 বলে: তোমরা ইচ্ছা করো না, আল্লাহ ইচ্ছা না করলে। প্রতিটি সৎ পরিকল্পনায় ধারাটি এমনিতেই আছে, বলা হোক বা না হোক; আয়াতটি চায় তা বলা হোক।"
+            "bn": "ব্যতিক্রমের এই বাক্য, ইনশাআল্লাহ, মুখের সাজ নয়, ভদ্রতার খাতিরে বলা কোনো আড়ালও নয়। অর্থ বুঝে বললে এটা বাস্তবতার নিখুঁত বর্ণনা: আমার নিয়ত সত্যি, আমার সামর্থ্য ধার করা, আর এ দুয়ের মাঝে আছে এমন এক ইচ্ছা, যা আমার ইচ্ছার উপরে। ৭৬:৩০ আয়াত সেটাই বলে: আল্লাহ না চাইলে তোমরা কিছুই চাইতে পারো না। প্রতিটি সৎ পরিকল্পনায় এই শর্তটি থাকেই, মুখে বলা হোক বা না হোক। আয়াত চায়, তা মুখে বলা হোক।"
           }
         ]
       },
@@ -393,11 +393,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The books of sira and tafsir relate the setting: Quraysh, prompted by questions gathered from the People of the Book — about the young men of the cave, about Dhul-Qarnayn — put them to the Prophet ﷺ, and he said, I will answer you tomorrow, without saying if Allah wills. The revelation then withheld itself for a period the narrations describe as painful, while Makkah gloated, before Surah al-Kahf came down with the answers — and with this instruction.",
-            "bn": "সীরাত ও তাফসীরের কিতাবসমূহ প্রেক্ষাপটটি বর্ণনা করে: আহলে কিতাবের কাছ থেকে সংগ্রহ করা প্রশ্ন নিয়ে — গুহার যুবকদের সম্পর্কে, যুলকারনাইন সম্পর্কে — কুরাইশরা তা নবী ﷺ-এর সামনে রাখে, আর তিনি বলেন, আগামীকাল তোমাদের উত্তর দেব — ইনশাআল্লাহ না বলে। এরপর ওহী কিছুকাল থেমে থাকে — বর্ণনাগুলো সময়টিকে বেদনাদায়ক বলে বর্ণনা করে — মক্কা যখন বিদ্রূপে মেতে, তখন সূরা আল-কাহফ নাযিল হয় উত্তরগুলো নিয়ে — এবং এই নির্দেশ নিয়ে।"
+            "bn": "সীরাত ও তাফসীরের কিতাবগুলো প্রেক্ষাপটটা এভাবে বর্ণনা করে। কুরাইশরা আহলে কিতাবের কাছ থেকে কয়েকটি প্রশ্ন জোগাড় করে, গুহার যুবকদের নিয়ে, যুলকারনাইনকে নিয়ে, আর সেগুলো নবী ﷺ-এর সামনে রাখে। তিনি বললেন, আগামীকাল তোমাদের উত্তর দেব, কিন্তু ইনশাআল্লাহ বললেন না। এরপর কিছুদিন ওহি আসা বন্ধ থাকে। বর্ণনাগুলো বলে, সময়টা ছিল কষ্টের, আর মক্কার লোকেরা তখন টিটকারিতে মেতে উঠেছিল। তারপর সূরা আল-কাহফ নাজিল হয় প্রশ্নগুলোর উত্তর নিয়ে, আর সঙ্গে এই নির্দেশ নিয়ে।"
           },
           {
             "en": "Read that way, the verses carry a tenderness alongside the rebuke. The Prophet ﷺ had not boasted; he had merely assumed a normal tomorrow. Even that assumption was corrected, in him and through him for us — and the correction arrived wrapped inside the very surah whose delay taught the lesson, so the Book's readers would never separate the rule from the experience that sealed it.",
-            "bn": "এভাবে পড়লে আয়াতগুলো তিরস্কারের পাশাপাশি এক কোমলতাও বহন করে। নবী ﷺ অহংকার করেননি; কেবল একটি স্বাভাবিক আগামীকাল ধরে নিয়েছিলেন। সেই অনুমানটুকুও সংশোধিত হলো — তাঁর মধ্যে, এবং তাঁর মাধ্যমে আমাদের জন্য — আর সংশোধনটি এলো ঠিক সেই সূরার ভেতরে মোড়া হয়ে, যার বিলম্বই শিক্ষাটি দিয়েছিল; যাতে কিতাবের পাঠকেরা নিয়মটিকে কখনো আলাদা করতে না পারে সেই অভিজ্ঞতা থেকে, যা তাতে সিলমোহর দিয়েছে।"
+            "bn": "এভাবে পড়লে আয়াতগুলোতে তিরস্কারের সঙ্গে কোমলতাও আছে। নবী ﷺ কোনো বড়াই করেননি। তিনি শুধু ধরে নিয়েছিলেন, আগামীকাল আর সব দিনের মতোই আসবে। সেই ধরে নেওয়াটুকুও শুধরে দেওয়া হলো, তাঁর নিজের বেলায়, আর তাঁর মাধ্যমে আমাদের সবার জন্য। সংশোধনটা এল সেই সূরার ভেতরেই, যার দেরিতে আসা শিক্ষাটা দিয়ে গেছে। যাতে কিতাবের পাঠকেরা নিয়মটাকে কখনো সেই অভিজ্ঞতা থেকে আলাদা করে না দেখে, যা নিয়মটাকে পাকা করে দিয়েছে।"
           }
         ]
       },
@@ -409,11 +409,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "And remember your Lord when you forget. The commentators take the clause in two connected ways: say if Allah wills when you remember, even after the moment has passed — an opinion related from the early authorities — and, more broadly, let remembrance be the standing repair for every lapse. Forgetting is not the crime; staying forgetful is. The door back is simply dhikr, resumed the instant you notice.",
-            "bn": "আর ভুলে গেলে তোমার রবকে স্মরণ করো। মুফাসসিরগণ বাক্যটিকে দুটি সংযুক্ত অর্থে নেন: মনে পড়লেই ইনশাআল্লাহ বলো, মুহূর্তটি পেরিয়ে গেলেও — প্রাথমিক ইমামদের থেকে বর্ণিত একটি মত — আর ব্যাপকতর অর্থে: স্মরণকেই প্রতিটি ত্রুটির স্থায়ী মেরামত হতে দাও। ভুলে যাওয়া অপরাধ নয়; ভুলে থাকাটাই। ফেরার দরজা কেবল যিকির — খেয়াল হওয়ামাত্র আবার শুরু করা।"
+            "bn": "আর ভুলে গেলে তোমার রবকে স্মরণ করো। তাফসীরকারেরা বাক্যটিকে পরস্পর জড়িত দুই অর্থে নেন। এক, যখনই মনে পড়ে তখনই ইনশাআল্লাহ বলো, সময় পার হয়ে গেলেও; এটি পূর্বসূরিদের থেকে বর্ণিত একটি মত। দুই, আরও ব্যাপক অর্থে, প্রতিটি ভুলের স্থায়ী প্রতিকার হোক আল্লাহর জিকির। ভুলে যাওয়া অপরাধ নয়; অপরাধ হলো ভুলেই থেকে যাওয়া। ফেরার পথ সহজ: যে মুহূর্তে খেয়াল হয়, সে মুহূর্তেই আবার জিকিরে ফিরে আসা।"
           },
           {
             "en": "The verse then adds a du'a with a surprising reach: and say, perhaps my Lord will guide me to something nearer than this in rightness. Having surrendered tomorrow, the planner is taught to ask for a better plan than his own. The sentence assumes Allah's option is not merely to permit or block what we intend, but to substitute something closer to the good we were actually seeking.",
-            "bn": "আয়াতটি এরপর যোগ করে বিস্ময়কর নাগালের একটি দোয়া: আর বলো, আশা করি আমার রব আমাকে এর চেয়েও সঠিকতার নিকটতর কিছুর দিকে পথ দেখাবেন। আগামীকাল সমর্পণ করার পর পরিকল্পনাকারীকে শেখানো হয় নিজের চেয়ে ভালো পরিকল্পনা চাইতে। বাক্যটি ধরেই নেয়: আল্লাহর হাতে বিকল্প কেবল আমাদের সংকল্পকে অনুমতি দেওয়া বা আটকানো নয় — বরং তার জায়গায় এমন কিছু বসানো, যা আমরা আসলে যে কল্যাণ খুঁজছিলাম তার আরও কাছের।"
+            "bn": "এরপর আয়াত এমন একটি দোয়া শেখায়, যার নাগাল অবাক করার মতো: আর বলো, আশা করি, আমার রব আমাকে এর চেয়েও সঠিক কোনো পথের দিশা দেবেন। আগামীকালকে আল্লাহর হাতে সঁপে দেওয়ার পর পরিকল্পনাকারীকে শেখানো হচ্ছে, নিজের পরিকল্পনার চেয়ে ভালো পরিকল্পনা চাইতে। বাক্যটি ধরে নেয়, আল্লাহ শুধু আমাদের ইচ্ছাকে হতে দেন বা আটকে দেন, তা নয়। তিনি এর জায়গায় এমন কিছুও দিতে পারেন, যা আমরা আসলে যে কল্যাণ খুঁজছিলাম, তার আরও কাছে।"
           }
         ]
       },
@@ -425,27 +425,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Kahf itself stages the lesson a few pages on. The man of the two gardens walks in boasting, saying he does not think this will ever perish, and 18:39 records the correction his believing companion offers: when you entered your garden, why did you not say — ma sha Allah, la quwwata illa billah — what Allah willed; there is no power except in Allah? The gardens are gone by 18:42, and the speech is the surah's diagnosis of why.",
-            "bn": "সূরা আল-কাহফ নিজেই কয়েক পৃষ্ঠা পরে শিক্ষাটি মঞ্চস্থ করে। দুই বাগানের মালিক গর্ব করে ঢুকে বলে, সে মনে করে না এসব কখনো ধ্বংস হবে; আর 18:39 লিপিবদ্ধ করে তার মুমিন সঙ্গীর সংশোধন: তুমি যখন তোমার বাগানে ঢুকলে, তখন কেন বললে না — মা শা আল্লাহ, লা কুওয়াতা ইল্লা বিল্লাহ — আল্লাহ যা চেয়েছেন তাই; আল্লাহ ছাড়া কোনো শক্তি নেই? 18:42 নাগাদ বাগানগুলো শেষ, আর ওই উক্তিটিই সূরার দেওয়া রোগনির্ণয় — কেন।"
+            "bn": "কয়েক পৃষ্ঠা পরে সূরা আল-কাহফ নিজেই এই শিক্ষাটা চোখের সামনে দেখিয়ে দেয়। দুই বাগানের মালিক বড়াই করতে করতে বাগানে ঢোকে আর বলে, আমার মনে হয় না এটা কখনো ধ্বংস হবে। ১৮:৩৯ আয়াতে তার মুমিন সঙ্গী তাকে শুধরে দেয়: তুমি যখন তোমার বাগানে ঢুকলে, তখন কেন বললে না, মা শা আল্লাহ, লা কুওয়াতা ইল্লা বিল্লাহ, আল্লাহ যা চেয়েছেন তা-ই হয়েছে, আল্লাহ ছাড়া কোনো শক্তি নেই? ১৮:৪২ আয়াতে পৌঁছাতেই বাগানগুলো শেষ। আর ওই কথাটার মধ্যেই সূরা ধরিয়ে দেয়, কেন এমন হলো।"
           },
           {
             "en": "68:17-18 tells the same story in miniature: owners of a garden swore they would surely harvest it in the morning, and made no exception — the commentators read the phrase as their failure to say if Allah wills — and by dawn the garden lay as if already harvested, black and bare. Twice, then, the Quran shows confident tomorrow-speech followed by a ruined garden. The pattern is not superstition; it is pedagogy about ownership.",
-            "bn": "68:17-18 একই কাহিনি ক্ষুদ্রাকারে বলে: এক বাগানের মালিকরা শপথ করেছিল সকালেই তারা অবশ্যই ফল পেড়ে নেবে, আর কোনো ব্যতিক্রম রাখেনি — মুফাসসিরগণ বাক্যাংশটি পড়েন তাদের ইনশাআল্লাহ না বলার ব্যর্থতা হিসেবে — এবং ভোর নাগাদ বাগানটি পড়ে রইল যেন কাটাই হয়ে যাওয়া, কালো ও শূন্য। তাহলে দুবার কুরআন দেখায়: আত্মবিশ্বাসী আগামীকালের বুলি, তারপর ধ্বংস হওয়া বাগান। ধরনটি কুসংস্কার নয়; মালিকানা সম্পর্কে শিক্ষাদান।"
+            "bn": "৬৮:১৭-১৮ আয়াত একই কাহিনি ছোট পরিসরে বলে। এক বাগানের মালিকেরা কসম খেয়েছিল, সকালেই তারা অবশ্যই বাগানের ফল তুলে নেবে, আর কোনো ব্যতিক্রম রাখেনি। তাফসীরকারেরা বলেন, এর মানে তারা ইনশাআল্লাহ বলেনি। ভোর হতেই বাগানটা এমন হয়ে গেল, যেন আগেই কেটে নেওয়া হয়েছে: কালো, ফাঁকা। কুরআন তাহলে দুবার দেখাল: আগামীকাল নিয়ে আত্মবিশ্বাসী কথা, তারপর ধ্বংস হওয়া বাগান। এটা কুসংস্কার নয়। আসল মালিক কে, তা শেখানোর পদ্ধতি।"
           }
         ]
       },
       {
         "h": {
           "en": "What the Phrase Does Inside",
-          "bn": "বাক্যটি ভেতরে যা করে"
+          "bn": "কথাটি মনের ভেতরে যা করে"
         },
         "p": [
           {
             "en": "Said sincerely, insha'Allah works on the two diseases of planning. It deflates the arrogance of the successful planner, who is reminded mid-sentence that his coming victory requires permission. And it steadies the anxious one, who hears in his own words that outcomes were never his load to carry — his part is effort and honesty, and the result belongs to Someone who wills only with knowledge and wisdom.",
-            "bn": "আন্তরিকভাবে বললে ইনশাআল্লাহ পরিকল্পনার দুই ব্যাধির ওপর কাজ করে। এটি সফল পরিকল্পনাকারীর অহংকারের হাওয়া ছেড়ে দেয় — বাক্যের মাঝপথেই তাকে মনে করিয়ে দেওয়া হয়, তার আসন্ন বিজয়ের জন্য অনুমতি লাগে। আর এটি উদ্বিগ্নজনকে স্থির করে — সে নিজের কথাতেই শোনে, ফলাফল কখনোই তার বহনের বোঝা ছিল না; তার অংশ প্রচেষ্টা ও সততা, আর ফল তাঁর, যিনি কেবল জ্ঞান ও হিকমত সহকারেই ইচ্ছা করেন।"
+            "bn": "মন থেকে বললে ইনশাআল্লাহ পরিকল্পনার দুটি রোগের চিকিৎসা করে। সফল পরিকল্পনাকারীর অহংকার এতে চুপসে যায়; কথার মাঝখানেই তার মনে পড়ে, সামনের সাফল্যের জন্যও অনুমতি লাগবে। আর দুশ্চিন্তায় থাকা মানুষটি এতে স্থির হয়। নিজের মুখেই সে শোনে, ফলাফলের বোঝা কখনো তার কাঁধে ছিল না। তার কাজ চেষ্টা আর সততা; ফল তাঁর হাতে, যিনি ইচ্ছা করেন কেবল জ্ঞান আর হিকমতের সঙ্গে।"
           },
           {
             "en": "It also keeps speech truthful. A promise made with if Allah wills, sincerely meant, is a promise made within one's actual powers; a promise made without it claims a control no human has ever had. This is why the phrase, worn thin by casual use and sometimes even used to soften an intended refusal, deserves rescue: it is not filler, it is the most accurate thing a planner can say.",
-            "bn": "এটি কথাকেও সত্যনিষ্ঠ রাখে। আন্তরিকভাবে ইনশাআল্লাহ বলে করা প্রতিশ্রুতি মানুষের প্রকৃত সামর্থ্যের ভেতরের প্রতিশ্রুতি; আর তা ছাড়া করা প্রতিশ্রুতি এমন নিয়ন্ত্রণের দাবি, যা কোনো মানুষের কখনো ছিল না। এ জন্যই বাক্যটি — হালকা ব্যবহারে ক্ষয়ে যাওয়া, কখনো এমনকি ভেতরে ভেতরে ঠিক করা প্রত্যাখ্যানকে নরম করতেও ব্যবহৃত — উদ্ধারের দাবিদার: এটি ফাঁকা বুলি নয়, একজন পরিকল্পনাকারীর মুখে সবচেয়ে নির্ভুল কথা।"
+            "bn": "এটা কথাকেও সত্য রাখে। মন থেকে ইনশাআল্লাহ বলে যে ওয়াদা করা হয়, তা মানুষের আসল সাধ্যের ভেতরের ওয়াদা। আর ইনশাআল্লাহ ছাড়া ওয়াদা এমন নিয়ন্ত্রণের দাবি করে, যা কোনো মানুষের কখনো ছিল না। এজন্যই কথাটিকে বাঁচানো দরকার। অবহেলায় বলতে বলতে এর ধার ক্ষয়ে গেছে, কখনো তো মনে মনে ঠিক করে রাখা 'না'-কে নরম করতেও এটা বলা হয়। অথচ এটা ফাঁকা বুলি নয়; একজন পরিকল্পনাকারী যা বলতে পারে, তার মধ্যে সবচেয়ে সঠিক কথা।"
           }
         ]
       },
@@ -457,11 +457,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse's discipline, practiced, looks like this: plan thoroughly, speak of the plan with the exception attached and meant, work as hard as the plan deserves, and hold the outcome loosely. When the outcome arrives changed, reach for the du'a of 18:24 — perhaps my Lord will guide me to something nearer than this in rightness — and look for the substitution instead of mourning the script.",
-            "bn": "চর্চায় আয়াতের অনুশাসনটি দেখতে এমন: পুঙ্খানুপুঙ্খ পরিকল্পনা করুন, পরিকল্পনার কথা বলুন ব্যতিক্রম-বাক্যটি যুক্ত করে ও অর্থসহ, পরিকল্পনা যতটা দাবি করে ততটা পরিশ্রম করুন, আর ফলাফলকে ধরুন আলগা হাতে। ফল যখন বদলে এসে পৌঁছায়, 18:24 আয়াতের দোয়ায় হাত বাড়ান — আশা করি আমার রব আমাকে এর চেয়েও সঠিকতার নিকটতর কিছুর দিকে পথ দেখাবেন — এবং চিত্রনাট্যের শোক না করে প্রতিস্থাপনটি খুঁজুন।"
+            "bn": "আয়াতের শিক্ষা কাজে লাগালে দেখতে এমন হয়: খুঁটিয়ে পরিকল্পনা করুন। পরিকল্পনার কথা বলার সময় ইনশাআল্লাহ জুড়ে দিন, আর মন থেকে বলুন। পরিকল্পনা যতটা খাটুনি চায়, ততটা খাটুন। আর ফলাফলকে আলগা হাতে ধরুন। ফল যখন অন্যরকম হয়ে আসে, তখন ১৮:২৪ আয়াতের দোয়াটি পড়ুন: আশা করি, আমার রব আমাকে এর চেয়েও সঠিক কোনো পথের দিশা দেবেন। তারপর নিজের ছক ভেস্তে যাওয়ার শোক না করে খুঁজে দেখুন, আল্লাহ তার জায়গায় কী দিয়েছেন।"
           },
           {
             "en": "Kept over years, the habit rewires expectation itself. Interruptions stop reading as malfunctions of the universe; they become the moments where Allah's plan replaces yours — the exact contingency your daily insha'Allah has been rehearsing for. The believer's calendar stays full and his grip stays light, and the difference between him and the boasting gardener is a few words, said and meant.",
-            "bn": "বছরের পর বছর ধরে রাখলে অভ্যাসটি প্রত্যাশার তারই নতুন করে গাঁথে। বিঘ্নগুলো আর মহাবিশ্বের যন্ত্রবিভ্রাট বলে পড়া হয় না; সেগুলো হয়ে ওঠে সেই মুহূর্ত, যখন আপনার পরিকল্পনার জায়গা নেয় আল্লাহর পরিকল্পনা — ঠিক সেই সম্ভাবনা, যার মহড়া আপনার প্রতিদিনের ইনশাআল্লাহ দিয়ে আসছিল। মুমিনের সূচি ভরাই থাকে, মুঠো থাকে হালকা — আর তার সঙ্গে গর্বিত বাগানমালিকের পার্থক্য কয়েকটি শব্দ, বলা ও অন্তরে ধারণ করা।"
+            "bn": "বছরের পর বছর ধরে রাখলে এ অভ্যাস প্রত্যাশাকেই নতুন করে গড়ে দেয়। বাধা এলে তখন আর মনে হয় না, দুনিয়ার কলকবজা বিগড়ে গেছে। বরং সেটা হয়ে ওঠে সেই মুহূর্ত, যখন আপনার পরিকল্পনার জায়গা নেয় আল্লাহর পরিকল্পনা। প্রতিদিনের ইনশাআল্লাহ দিয়ে আপনি এর জন্যই তো মহড়া দিয়ে আসছিলেন। মুমিনের কাজের তালিকা ভরা থাকে, কিন্তু মুঠো থাকে আলগা। তার সঙ্গে বড়াই করা ওই বাগানমালিকের পার্থক্য মাত্র কয়েকটি শব্দের, যা সে মুখে বলে আর মন থেকে মানে।"
           }
         ]
       }
@@ -537,7 +537,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi's line about the weak and the strong faces back to 18:28. Ma'arif al-Qur'an, whose commentary groups 18:28 to 18:30, spends it on the background of that verse: men of standing asked for the poor believers to be moved out of the gathering. It does not treat the clauses of this verse separately. The question of compulsion is taken up in the shipped reading of 10:99, would you then compel people until they become believers, and is not repeated here.",
-            "bn": "দুর্বল আর শক্তিশালী নিয়ে কুরতুবীর কথাটি ফিরে তাকায় ১৮:২৮ আয়াতের দিকে। মাআরিফুল কুরআন ১৮:২৮ থেকে ১৮:৩০ পর্যন্ত আয়াতগুলো একসঙ্গে আলোচনা করেছে, আর সেখানে পুরো আলোচনা ওই আয়াতের পটভূমি নিয়ে: প্রভাবশালী লোকেরা চেয়েছিল গরিব মুমিনদের মজলিস থেকে সরিয়ে দেওয়া হোক। এই আয়াতের বাক্যগুলো সেখানে আলাদা করে আলোচিত হয়নি। জবরদস্তির প্রশ্নটি নিয়ে আলোচনা আছে ১০:৯৯ আয়াতের প্রকাশিত পাঠে: তুমি কি মানুষকে জোর করবে যাতে তারা মুমিন হয়ে যায়? এখানে তা আর দোহরানো হলো না।"
+            "bn": "দুর্বল আর শক্তিশালী নিয়ে কুরতুবীর কথাটি ফিরে তাকায় ১৮:২৮ আয়াতের দিকে। মাআরিফুল কুরআন ১৮:২৮ থেকে ১৮:৩০ পর্যন্ত আয়াতগুলো একসঙ্গে আলোচনা করেছে, আর সেখানে পুরো আলোচনা ওই আয়াতের পটভূমি নিয়ে: প্রভাবশালী লোকেরা চেয়েছিল গরিব মুমিনদের মজলিস থেকে সরিয়ে দেওয়া হোক। এই আয়াতের বাক্যগুলো সেখানে আলাদা করে আলোচিত হয়নি। জবরদস্তির প্রশ্নটি এসেছে ১০:৯৯ আয়াতের আলোচনায়: তুমি কি মানুষকে জোর করবে যাতে তারা মুমিন হয়ে যায়? তাই এখানে তা আর দোহরানো হলো না।"
           }
         ]
       },
