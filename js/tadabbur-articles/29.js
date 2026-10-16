@@ -1653,27 +1653,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Lanahdiyannahum is one of the most heavily emphasised constructions Arabic has: an opening lam of emphasis and a doubled nun of confirmation attached to the verb, the pattern used for a sworn undertaking. Rendered flatly it means We will guide them; rendered with its force it means We shall most certainly guide them. When a promise is built this way, the sentence is not offering a likelihood.",
-            "bn": "লানাহদিয়ান্নাহুম আরবির সবচেয়ে জোরালো গঠনগুলোর একটি: শুরুতে জোর দেওয়ার লাম, আর ক্রিয়ার শেষে দ্বিত্ব নূন — যে ছাঁচ ব্যবহৃত হয় শপথসদৃশ অঙ্গীকারে। সাদামাটাভাবে অনুবাদ করলে অর্থ দাঁড়ায়, আমরা তাদের পথ দেখাব; কিন্তু তার পূর্ণ ভার নিয়ে অনুবাদ করলে অর্থ হয়, আমরা অবশ্যই অবশ্যই তাদের পথ দেখাব। প্রতিশ্রুতি যখন এভাবে গাঁথা হয়, তখন বাক্যটি নিছক সম্ভাবনার কথা বলছে না।"
+            "bn": "লানাহদিয়ান্নাহুম আরবির সবচেয়ে জোরালো গঠনগুলোর একটি। শুরুতে আছে জোর দেওয়ার লাম, আর ক্রিয়ার শেষে তাশদীদযুক্ত জোরের নূন; শপথ করে কথা দেওয়ার সময় আরবিতে এই ছাঁচই ব্যবহার হয়। সাদামাটা অনুবাদে অর্থ দাঁড়ায়: আমরা তাদের পথ দেখাব। পুরো জোরটা ধরলে অর্থ হয়: আমরা অবশ্যই অবশ্যই তাদের পথ দেখাব। প্রতিশ্রুতি যখন এভাবে বাঁধা হয়, তখন বাক্যটি কোনো সম্ভাবনার কথা বলছে না।"
           },
           {
             "en": "The order of the two halves is the point most often drawn from the verse. Striving is mentioned in the past tense, guidance in the future. Guidance is what follows action, not what has to arrive before it. This is the direct answer to the common posture of waiting: waiting to feel certain before praying, waiting for a settled heart before starting to learn, waiting for clarity before making the first honest change. The verse reverses the sequence.",
-            "bn": "আয়াত থেকে সবচেয়ে বেশি যা টানা হয় তা হলো দুই অংশের ক্রম। সংগ্রামের কথা অতীত কালে, হিদায়াতের কথা ভবিষ্যতে। হিদায়াত হলো তা-ই যা কাজের পরে আসে, কাজের আগে যা পৌঁছাতেই হবে তা নয়। এটি সেই পরিচিত অপেক্ষার সরাসরি জবাব: নামাজ শুরুর আগে নিশ্চিত অনুভূতির অপেক্ষা, শেখা শুরুর আগে স্থির অন্তরের অপেক্ষা, প্রথম সৎ পরিবর্তনটির আগে স্পষ্টতার অপেক্ষা। আয়াত এই ক্রমটিকেই উল্টে দেয়।"
+            "bn": "এই আয়াত থেকে সবচেয়ে বেশি যে শিক্ষাটা নেওয়া হয়, তা হলো দুই অংশের ক্রম। সংগ্রামের কথা এসেছে অতীত কালে, হিদায়াতের কথা ভবিষ্যৎ কালে। হিদায়াত আসে কাজের পরে; কাজ শুরুর আগেই তাকে এসে পৌঁছাতে হবে, এমন নয়। অনেকে অপেক্ষায় বসে থাকেন: মনে পুরো নিশ্চয়তা না এলে নামাজ শুরু করেন না, অন্তর স্থির না হলে শেখা শুরু করেন না, সব পরিষ্কার না হলে প্রথম আন্তরিক পরিবর্তনটাও করেন না। এই অপেক্ষার সরাসরি জবাব এই আয়াত। আয়াতটি ক্রমটাই উল্টে দেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Paths, in the Plural",
-          "bn": "পথসমূহ, বহুবচনে"
+          "bn": "এক পথ নয়, বহু পথ"
         },
         "p": [
           {
             "en": "What is promised is subulana, Our paths — plural, and possessive. This is worth setting beside 6:153, where the sirat mustaqim, the straight path, is singular and the other ways are warned against, and beside the daily request of 1:6, guide us to the straight path. The destination is one; the routes into it are many. Sabil in Arabic is a travelled way, a road worn by use, not an abstraction.",
-            "bn": "যা প্রতিশ্রুত তা হলো সুবুলানা, আমাদের পথসমূহ — বহুবচন, আর সম্বন্ধযুক্ত। একে পাশে রাখা দরকার 6:153 আয়াতের, যেখানে সিরাতে মুস্তাকীম বা সরল পথ একবচন এবং অন্য পথগুলো থেকে সতর্ক করা হয়েছে, আর 1:6 আয়াতের প্রতিদিনের প্রার্থনার পাশে — আমাদের সরল পথ দেখান। গন্তব্য এক; সেখানে পৌঁছার রাস্তা বহু। আরবিতে সাবীল মানে চলাচলের রাস্তা, ব্যবহারে ক্ষয়ে যাওয়া পথ — কোনো বিমূর্ত ধারণা নয়।"
+            "bn": "প্রতিশ্রুতিটা হলো সুবুলানা, আমাদের পথসমূহ। শব্দটি বহুবচন, আর পথগুলোকে আল্লাহ নিজের বলে উল্লেখ করেছেন। পাশাপাশি রেখে দেখুন ৬:১৫৩: সেখানে সিরাতে মুস্তাকীম, অর্থাৎ সরল পথ, একবচন, আর আল্লাহ অন্য পথগুলোর ব্যাপারে সতর্ক করেছেন। আরও মনে করুন ১:৬-এর সেই দোয়া, যা আমরা রোজ করি: আমাদের সরল পথ দেখান। গন্তব্য একটাই; সেখানে পৌঁছানোর রাস্তা অনেক। আরবিতে সাবীল মানে মানুষের চলাচলের রাস্তা, চলতে চলতে তৈরি হওয়া পথ; কোনো বিমূর্ত ধারণা নয়।"
           },
           {
             "en": "The commentators read the plural generously: paths of knowledge, of worship, of earning, of service, opened to different people according to what they gave. It also implies that the guidance promised is not a single flash but a succession of openings. Act on the light you have and the next stretch of road becomes visible; act on that, and so on. Guidance in this verse is cumulative, and each instalment is earned by using the last one.",
-            "bn": "মুফাসসিরগণ বহুবচনটিকে উদারভাবে পড়েন: জ্ঞানের পথ, ইবাদতের পথ, উপার্জনের পথ, সেবার পথ — যে যা দিয়েছে সে অনুযায়ী ভিন্ন মানুষের জন্য খুলে যায়। এতে এ-ও বোঝায় যে প্রতিশ্রুত হিদায়াত একটিমাত্র ঝলক নয়, বরং পর পর খুলে যাওয়া দরজার ধারা। হাতে থাকা আলোয় আমল করো, রাস্তার পরের অংশটুকু দৃশ্যমান হবে; তাতে আমল করো, আবার তেমনই। এই আয়াতে হিদায়াত ক্রমসঞ্চিত, আর প্রতিটি কিস্তি অর্জিত হয় আগেরটি কাজে লাগানোর মধ্য দিয়ে।"
+            "bn": "মুফাসসিরগণ এই বহুবচনকে উদারভাবে বুঝেছেন: জ্ঞানের পথ, ইবাদতের পথ, উপার্জনের পথ, খেদমতের পথ। যে যতটুকু দিয়েছে, সে অনুযায়ী একেকজনের জন্য একেক পথ খুলে যায়। এ থেকে আরও বোঝা যায়, প্রতিশ্রুত হিদায়াত এক ঝলকে আসে না; একটার পর একটা দরজা খুলতে থাকে। হাতে যে আলো আছে, সে অনুযায়ী আমল করুন, রাস্তার পরের অংশটুকু চোখে পড়বে; সেটুকু অনুযায়ী আমল করুন, তারপর আবার। এই আয়াতে হিদায়াত জমতে জমতে বাড়ে, আর প্রতিটি কিস্তি মেলে আগেরটা কাজে লাগানোর মধ্য দিয়ে।"
           }
         ]
       },
@@ -1685,27 +1685,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The closing clause changes register: wa inna Allaha lama'a al-muhsinin. The commentators distinguish two kinds of withness in the Quran. There is the general one, by which Allah is with everyone through His knowledge — He is with you wherever you are. And there is the special one, promised to particular people, which carries help, protection and steadying. This second sense is what the verse ends on, and it is not offered to everyone who exerts himself.",
-            "bn": "শেষ বাক্যাংশে সুর বদলায়: ওয়া ইন্না আল্লাহা লামা‘আল-মুহসিনীন। মুফাসসিরগণ কুরআনে দুই ধরনের ‘সঙ্গে থাকা’ আলাদা করেন। একটি সাধারণ, যার মাধ্যমে আল্লাহ তাঁর জ্ঞানে সবার সাথেই আছেন — তোমরা যেখানেই থাকো তিনি তোমাদের সাথে। আর একটি বিশেষ, যা নির্দিষ্ট মানুষদের প্রতিশ্রুত, আর যা সাহায্য, সুরক্ষা ও স্থিরতা বহন করে। আয়াত শেষ হয় এই দ্বিতীয় অর্থেই, আর তা পরিশ্রমকারী প্রত্যেককে দেওয়া হয় না।"
+            "bn": "শেষ বাক্যাংশে সুর বদলে যায়: ওয়া ইন্না আল্লাহা লামা‘আল-মুহসিনীন। মুফাসসিরগণ বলেন, কুরআনে আল্লাহর ‘সাথে থাকা’ দুই রকম। একটি সাধারণ: আল্লাহ তাঁর জ্ঞান দিয়ে সবার সাথেই আছেন; তোমরা যেখানেই থাকো, তিনি তোমাদের সাথে। আরেকটি বিশেষ: তা কিছু নির্দিষ্ট মানুষের জন্য প্রতিশ্রুত, আর তার সাথে আসে সাহায্য, হেফাজত ও অবিচলতা। আয়াতটি শেষ হয়েছে এই দ্বিতীয় অর্থে, আর পরিশ্রম করলেই সবাই তা পায় না।"
           },
           {
             "en": "It is offered to the muhsinin, those who practise ihsan — doing the right thing and doing it beautifully, with the awareness that Allah sees. So the verse binds two things that are often separated: strive, and strive well. Effort that is loud, resentful or careless is not what is being described. The last word of the surah is not a demand at all but a companionship, which is what a persecuted community reading this in Mecca most needed to hear.",
-            "bn": "তা দেওয়া হয় মুহসিনদের, যাঁরা ইহসান চর্চা করেন — সঠিক কাজটি করা এবং সুন্দরভাবে করা, এই সচেতনতা নিয়ে যে আল্লাহ দেখছেন। ফলে আয়াতটি প্রায়ই আলাদা করে ফেলা দুটি জিনিসকে একসাথে বাঁধে: সংগ্রাম করো, আর ভালোভাবে সংগ্রাম করো। উচ্চকিত, ক্ষুব্ধ কিংবা অযত্নের পরিশ্রমের কথা এখানে বলা হচ্ছে না। সূরার শেষ কথাটি আদৌ কোনো দাবি নয়, বরং সাহচর্য — মক্কায় নিপীড়িত এক সমাজের এটাই সবচেয়ে বেশি শোনার দরকার ছিল।"
+            "bn": "তা দেওয়া হয় মুহসিনদের, যাঁরা ইহসানের সাথে চলেন: সঠিক কাজটি করেন, আর সুন্দর করে করেন, এই খেয়াল রেখে যে আল্লাহ দেখছেন। তাই আয়াতটি এমন দুটি জিনিসকে এক করে বাঁধে, যা আমরা প্রায়ই আলাদা করে ফেলি: সংগ্রাম, আর সুন্দরভাবে সংগ্রাম। হইচই-ভরা, ক্ষোভ-মেশানো বা অযত্নের পরিশ্রমের কথা এখানে বলা হচ্ছে না। সূরার শেষ কথাটি কোনো দাবিই নয়, বরং সঙ্গ দেওয়ার আশ্বাস। মক্কায় যে নির্যাতিত মুমিনরা এ আয়াত পড়ছিলেন, তাঁদের ঠিক এ কথাটিই সবচেয়ে বেশি শোনা দরকার ছিল।"
           }
         ]
       },
       {
         "h": {
           "en": "How It Is Lived",
-          "bn": "আজ যেভাবে এটি জীবনে আসে"
+          "bn": "জীবনে কীভাবে মানা যায়"
         },
         "p": [
           {
             "en": "The practical reading is unusually direct. Take the smallest obligation you already know and are avoiding, and do that one. The verse does not promise guidance to those who research it, discuss it, or intend it strongly; it promises guidance to those who strove. For most people the first striving is not dramatic — it is the prayer prayed on time instead of late, the debt repaid, the apology made, the page of Arabic learnt this week rather than next year.",
-            "bn": "বাস্তব প্রয়োগ অস্বাভাবিক রকম সোজা। আপনি ইতিমধ্যেই জানেন অথচ এড়িয়ে চলছেন এমন ক্ষুদ্রতম দায়িত্বটি নিন, আর সেটিই করুন। আয়াত তাদের হিদায়াতের প্রতিশ্রুতি দেয় না যারা এ নিয়ে গবেষণা করে, আলোচনা করে বা প্রবল ইচ্ছা পোষণ করে; প্রতিশ্রুতি তাদের জন্য যারা সংগ্রাম করেছে। বেশিরভাগ মানুষের প্রথম সংগ্রামটি নাটকীয় কিছু নয় — দেরিতে নয়, সময়মতো পড়া নামাজ; শোধ করা ঋণ; করা ক্ষমাপ্রার্থনা; আগামী বছর নয়, এই সপ্তাহে শেখা আরবির একটি পৃষ্ঠা।"
+            "bn": "বাস্তবে এর শিক্ষা বেশ সোজাসাপ্টা। এমন সবচেয়ে ছোট দায়িত্বটি বেছে নিন, যা আপনি জানেন অথচ এড়িয়ে যাচ্ছেন, আর সেটাই করে ফেলুন। যারা এ নিয়ে গবেষণা করে, আলোচনা করে, কিংবা খুব জোরালো নিয়ত করে, আয়াত তাদের হিদায়াতের প্রতিশ্রুতি দেয়নি; প্রতিশ্রুতি দিয়েছে তাদের, যারা সংগ্রাম করেছে। বেশিরভাগ মানুষের প্রথম সংগ্রাম নাটকীয় কিছু নয়: দেরিতে নয়, সময়মতো নামাজ পড়া; ঋণ শোধ করা; ক্ষমা চেয়ে নেওয়া; আগামী বছর নয়, এই সপ্তাহেই আরবির একটি পৃষ্ঠা শেখা।"
           },
           {
             "en": "It also reframes a plateau. Long stretches where nothing seems to open are usually read as abandonment; the verse suggests reading them as a question about input. And the last clause guards against the opposite error, of measuring yourself by visible results. Being with the doers of good is stated in the present tense, with no condition about outcome. The company is granted while the striving is going on, not only when it has succeeded.",
-            "bn": "এটি স্থবিরতার সময়টিকেও নতুন করে দেখায়। দীর্ঘ সময় যখন কিছুই খুলছে বলে মনে হয় না, তখন সাধারণত তা পরিত্যক্ত হওয়ার লক্ষণ বলে পড়া হয়; আয়াত ইঙ্গিত দেয় একে বরং প্রশ্ন হিসেবে পড়তে — কী দিচ্ছি আমি? আর শেষ বাক্যাংশটি উল্টো ভুল থেকেও রক্ষা করে, অর্থাৎ দৃশ্যমান ফল দিয়ে নিজেকে মাপার ভুল থেকে। সৎকর্মশীলদের সাথে থাকার কথাটি বর্তমান কালে বলা, ফলাফল নিয়ে কোনো শর্ত ছাড়াই। সাহচর্য দেওয়া হয় সংগ্রাম চলাকালেই, কেবল সফল হওয়ার পরে নয়।"
+            "bn": "স্থবিরতার সময়টাকেও আয়াতটি নতুন চোখে দেখায়। অনেক দিন ধরে কোনো দরজা খুলছে না মনে হলে মানুষ সাধারণত ভাবে, তাকে ছেড়ে দেওয়া হয়েছে। আয়াতটি বরং একে একটা প্রশ্ন হিসেবে দেখতে বলে: আমি কী দিচ্ছি? আবার শেষ বাক্যাংশটি উল্টো ভুল থেকেও বাঁচায়, অর্থাৎ চোখে দেখা ফল দিয়ে নিজেকে মাপার ভুল। সৎকর্মশীলদের সাথে থাকার কথাটি এসেছে বর্তমান কালে, ফল নিয়ে কোনো শর্ত ছাড়াই। এই সঙ্গ মেলে সংগ্রাম চলার সময়েই, শুধু সফল হওয়ার পরে নয়।"
           }
         ]
       }
