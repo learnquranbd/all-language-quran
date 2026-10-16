@@ -25,7 +25,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari states the sense of the clause before he discusses any word in it: an oath that our Lord swore by the sun and its duha, and the meaning of the speech is, I swear by the sun, and by the duha of the sun. That paraphrase settles the small pronoun at the end of duhaha: the -ha returns to the sun itself. The Muyassar reads it the same way, in a single line: Allah swore by the sun, and its daytime, and its shining at the forenoon.",
-            "bn": "কোনো শব্দ নিয়ে আলোচনায় যাওয়ার আগে তাবারী গোটা বাক্যের অর্থটা বলে দেন। এটি একটি শপথ, আমাদের রব শপথ করেছেন সূর্যের আর তার দুহার। কথাটার মানে দাঁড়ায়: আমি শপথ করছি সূর্যের, আর সূর্যের দুহার। এই ব্যাখ্যা থেকেই দুহাহা শব্দের শেষের ছোট্ট সর্বনামটির মীমাংসা হয়ে যায়। শেষের 'হা' ফিরেছে সূর্যের দিকেই। মুয়াসসারও এক লাইনে একই কথা বলে: আল্লাহ শপথ করেছেন সূর্যের, তার দিনের, আর পূর্বাহ্ণে তার ঝলমলে আলোর।"
+            "bn": "কোনো শব্দ নিয়ে আলোচনায় যাওয়ার আগে তাবারী গোটা বাক্যের অর্থটা বলে দেন: এ হলো আমাদের রবের শপথ, সূর্যের আর তার দুহার। কথাটার মানে দাঁড়ায়: আমি শপথ করছি সূর্যের, আর সূর্যের দুহার। এই ব্যাখ্যাতেই দুহাহা শব্দের শেষের ছোট্ট সর্বনামটির মীমাংসা হয়ে যায়: শেষের 'হা' ফিরেছে সূর্যের দিকেই। মুয়াসসারও এক লাইনে একই কথা বলে: আল্লাহ শপথ করেছেন সূর্যের, তার দিনের, আর পূর্বাহ্ণে তার ঝলমলে আলোর।"
           }
         ]
       },
@@ -141,7 +141,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The page continues: \"The Prophet said thrice, \"O Mu`adh ! Are you putting the people to trial?\" It would have been better if you had recited \"Sabbih Isma Rabbika-l-A`la (87)\", Wash-shamsi wa duhaha (91)\", or \"Wal-laili idha yaghsha (92)\", for the old, the weak and the needy pray behind you.\" Jabir said that Mu`adh recited Sura Al-Baqara in the `Isha' prayer.\" Al-Bukhari placed the report in his Sahih. Ibn Kathir's citation words it differently; only al-Bukhari's wording is quoted here. The reason the Prophet ﷺ gives is the people behind the imam.",
-            "bn": "এরপর বর্ণনাটি বলে: নবী ﷺ তিনবার বললেন, 'হে মুআয! তুমি কি লোকদের ফিতনায় ফেলছ?' তুমি যদি সাব্বিহিসমা রাব্বিকাল আ'লা (৮৭), ওয়াশ শামসি ওয়া দুহাহা (৯১) অথবা ওয়াল লাইলি ইযা ইয়াগশা (৯২) পড়তে, তবে ভালো হতো। কারণ তোমার পেছনে বৃদ্ধ, দুর্বল আর অভাবী মানুষেরা নামাজ পড়ে। জাবির (রাঃ) বলেন, মুআয (রাঃ) ইশার নামাজে সূরা আল-বাকারা পড়েছিলেন। বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে রেখেছেন। ইবন কাসীরের উদ্ধৃতির শব্দ খানিকটা আলাদা, এখানে কেবল বুখারীর শব্দই নেওয়া হয়েছে। নবী ﷺ যে কারণ দেখিয়েছেন, তা হলো ইমামের পেছনে দাঁড়ানো মানুষগুলো।"
+            "bn": "এরপর বর্ণনাটি বলে: নবী ﷺ তিনবার বললেন, 'হে মুআয! তুমি কি লোকদের ফিতনায় ফেলছ?' তুমি যদি সাব্বিহিসমা রাব্বিকাল আ'লা (৮৭), ওয়াশ শামসি ওয়া দুহাহা (৯১) অথবা ওয়াল লাইলি ইযা ইয়াগশা (৯২) পড়তে, তবে ভালো হতো। কারণ তোমার পেছনে বৃদ্ধ, দুর্বল আর অভাবী মানুষেরা নামাজ পড়ে। জাবির (রাঃ) বলেন, মুআয (রাঃ) ইশার নামাজে সূরা আল-বাকারা পড়েছিলেন। বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে রেখেছেন। ইবন কাসীরের উদ্ধৃতির শব্দ খানিকটা আলাদা, এখানে কেবল বুখারীর শব্দই নেওয়া হয়েছে। নবী ﷺ কারণ হিসেবে দেখিয়েছেন ইমামের পেছনে দাঁড়ানো মানুষগুলোকেই।"
           }
         ]
       },
@@ -157,7 +157,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di's gloss gives that reflection a direction: its light, and the benefit that issues from it. Light, warmth, the day itself: in every reading the commentators give, the duha is something the listener lives inside and did not make. Before the surah asks what a person has done with his own soul, it shows him a sun he did not light and a morning he did not earn. Gratitude for those is a fair place to begin the reckoning.",
-            "bn": "সা'দীর ব্যাখ্যা এই ভাবনাকে একটা দিক দেখায়: সূর্যের আলো, আর তা থেকে আসা উপকার। আলো হোক, উষ্ণতা হোক কিংবা পুরো দিনটা, তাফসীরকারদের যেকোনো ব্যাখ্যাতেই দুহা এমন জিনিস, যার ভেতরে শ্রোতা বেঁচে আছে অথচ যা সে বানায়নি। মানুষ নিজের নফসের সঙ্গে কী করেছে, সে প্রশ্ন তোলার আগে সূরাটি তাকে দেখায় এমন এক সূর্য, যা সে জ্বালায়নি, আর এমন এক সকাল, যা সে উপার্জন করেনি। নিজের হিসাব নেওয়া শুরু করার জন্য এসবের শুকরিয়াই ভালো জায়গা।"
+            "bn": "সা'দীর ব্যাখ্যা এই ভাবনাকে একটা দিক দেখায়: সূর্যের আলো, আর তা থেকে আসা উপকার। আলো হোক, উষ্ণতা হোক কিংবা পুরো দিনটা, তাফসীরকারদের যেকোনো ব্যাখ্যায় দুহা এমন জিনিস, শ্রোতা যার ভেতরে বেঁচে থাকে, অথচ যা সে নিজে বানায়নি। মানুষ নিজের নফসের সঙ্গে কী করেছে, সে প্রশ্ন তোলার আগে সূরাটি তাকে দেখায় এমন এক সূর্য, যা সে জ্বালায়নি, আর এমন এক সকাল, যা সে কামাই করেনি। হিসাব-নিকাশ শুরু করার জন্য এসবের শুকরিয়া আদায়ই যথার্থ সূচনা।"
           }
         ]
       }
@@ -173,11 +173,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah ash-Shams opens with a long run of oaths. Seven consecutive verses, 91:1-7, each begin with one: by the sun and its morning brightness, by the moon when it follows, by the day when it displays it, by the night when it covers it, by the sky and the One who built it, by the earth and the One who spread it, and last by the soul and the One who proportioned it. The sweep travels from the largest bodies overhead down to the thing inside the listener.",
-            "bn": "সূরা আশ-শামস শুরু হয় দীর্ঘ এক শপথমালা দিয়ে। পরপর সাতটি আয়াত, 91:1-7, প্রতিটিই শুরু হয় একটি শপথ দিয়ে: সূর্য ও তার সকালের কিরণের শপথ, চাঁদের শপথ যখন সে অনুসরণ করে, দিনের শপথ যখন সে তা উদ্ভাসিত করে, রাতের শপথ যখন সে তা ঢেকে দেয়, আসমান ও যিনি তা বানিয়েছেন তাঁর শপথ, যমীন ও যিনি তা বিছিয়েছেন তাঁর শপথ, আর সবশেষে প্রাণ ও যিনি তাকে সুবিন্যস্ত করেছেন তাঁর শপথ। দৃষ্টি নেমে আসে মাথার ওপরের বিশালতম বস্তুগুলো থেকে শ্রোতার ভেতরের সত্তাটির দিকে।"
+            "bn": "সূরা আশ-শামস শুরু হয় লম্বা এক সারি শপথ দিয়ে। পরপর সাতটি আয়াত, ৯১:১-৭, প্রতিটির শুরুতেই একটি করে শপথ: সূর্যের শপথ আর তার সকালের কিরণের, চাঁদের শপথ যখন তা পেছনে পেছনে আসে, দিনের শপথ যখন তা তাকে প্রকাশ করে, রাতের শপথ যখন তা তাকে ঢেকে নেয়, আসমানের শপথ আর যিনি তা বানিয়েছেন তাঁর, জমিনের শপথ আর যিনি তা বিছিয়েছেন তাঁর, আর সবশেষে নফসের শপথ আর যিনি তাকে সুঠাম করে গড়েছেন তাঁর। দৃষ্টি নামতে থাকে মাথার ওপরের সবচেয়ে বড় বস্তুগুলো থেকে, এসে থামে শ্রোতার নিজের ভেতরে।"
           },
           {
             "en": "The final oath is what the surah is actually about. Sawwaha, proportioned it, means — as Ibn Kathir explains — that Allah created the soul sound and balanced upon the fitrah, the original nature that 30:30 names as the disposition on which mankind was made. Then 91:8 stays with that same soul instead of moving on: fa-alhamaha fujuraha wa taqwaha, and He inspired it with its wickedness and its guarding. The equipment is issued in full before any verdict is announced.",
-            "bn": "শেষ শপথটিই সূরার আসল বিষয়। 'সাওওয়াহা' অর্থাৎ তাকে সুবিন্যস্ত করেছেন — ইবনে কাসীর ব্যাখ্যা করেন — মানে আল্লাহ প্রাণটিকে সুস্থ ও ভারসাম্যপূর্ণ করে ফিতরাতের ওপর সৃষ্টি করেছেন; সেই আদি স্বভাব, যাকে 30:30 আয়াত মানুষের সৃষ্টিগত প্রকৃতি বলে নাম দেয়। এরপর 91:8 অন্য প্রসঙ্গে না গিয়ে সেই প্রাণের কথাই ধরে রাখে: 'ফা-আলহামাহা ফুজূরাহা ওয়া তাক্বওয়াহা' — অতঃপর তিনি তাকে তার অসৎকর্ম ও আত্মরক্ষার বোধ দিয়ে দিলেন। রায় ঘোষণার আগেই সরঞ্জাম পুরোপুরি হাতে তুলে দেওয়া হয়েছে।"
+            "bn": "শেষ শপথটিই সূরার আসল বিষয়। 'সাওওয়াহা' মানে তাকে সুঠাম করে গড়েছেন। ইবনে কাসীর ব্যাখ্যা করেন, আল্লাহ নফসকে সুস্থ ও ভারসাম্যপূর্ণ করে ফিতরাতের ওপর সৃষ্টি করেছেন। ফিতরাত হলো সেই আদি স্বভাব, ৩০:৩০ আয়াত যাকে বলে মানুষের সৃষ্টিগত প্রকৃতি। এরপর ৯১:৮ অন্য প্রসঙ্গে না গিয়ে সেই নফসের কথাতেই থাকে: 'ফা-আলহামাহা ফুজূরাহা ওয়া তাক্বওয়াহা', অতঃপর তিনি তার অন্তরে ঢেলে দিলেন তার পাপাচার আর তার বেঁচে চলার বোধ। কোনো রায় শোনানোর আগেই সব সরঞ্জাম পুরোপুরি হাতে তুলে দেওয়া হয়েছে।"
           }
         ]
       },
@@ -189,11 +189,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "91:9 is where all of it lands. Qad aflaha man zakkaha — four words, and Arabic's qad before a past-tense verb reports the outcome as already settled rather than merely promised. Aflaha is falah, the Quran's word for genuine success, the same root the call to prayer repeats. Zakka carries cleaning and growing together: to strip away what spoils a thing so that it can increase. The soul is being handled exactly like a field, cleared of weeds precisely in order to yield.",
-            "bn": "91:9 আয়াতেই সবকিছু এসে নামে। 'ক্বাদ আফলাহা মান যাক্কাহা' — চারটি শব্দ; আর অতীতকালের ক্রিয়ার আগে আরবি 'ক্বাদ' ফলাফলটিকে কেবল প্রতিশ্রুতি নয়, বরং ইতিমধ্যেই নিষ্পন্ন বিষয় হিসেবে জানায়। 'আফলাহা' এসেছে 'ফালাহ' থেকে — কুরআনের প্রকৃত সাফল্যের শব্দ, আযানে যে মূল বারবার ফিরে আসে। 'যাক্কা' একসঙ্গে পরিষ্কার করা ও বাড়ানো দুটোই বহন করে: যা নষ্ট করে তা সরিয়ে ফেলা, যেন বৃদ্ধি ঘটতে পারে। প্রাণকে এখানে ঠিক ক্ষেতের মতো দেখা হচ্ছে — আগাছা সাফ করা হয় ফসল ফলবে বলেই।"
+            "bn": "শপথের এই পুরো সারি এসে পৌঁছায় ৯১:৯ আয়াতে। 'ক্বাদ আফলাহা মান যাক্কাহা', মাত্র চারটি শব্দ। আরবিতে অতীতকালের ক্রিয়ার আগে 'ক্বাদ' বসলে ফলাফলটা আর শুধু প্রতিশ্রুতি থাকে না, আগেই স্থির হয়ে যাওয়া বিষয় হিসেবে জানানো হয়। 'আফলাহা' এসেছে 'ফালাহ' থেকে। খাঁটি সাফল্য বোঝাতে কুরআন এই শব্দই ব্যবহার করে, আর আজানে বারবার এই মূলটিই ফিরে আসে। 'যাক্কা' শব্দে একসঙ্গে আছে পরিষ্কার করা আর বাড়িয়ে তোলা: যা নষ্ট করে তা সরিয়ে ফেলা, যেন জিনিসটা বেড়ে উঠতে পারে। নফসকে এখানে দেখা হচ্ছে ঠিক ক্ষেতের মতো। আগাছা সাফ করা হয় ফসল ফলবে বলেই।"
           },
           {
             "en": "91:10 completes the pair and is rarely quoted beside it: wa qad khaba man dassaha. Khaba is to come away empty, the disappointment of a venture that failed. Dassaha the mufassirun explain as burying and concealing — it is the verb 16:59 uses for burying the newborn daughter in the ground — and Ibn Kathir glosses it as making the soul dull and neglecting it until obedience is abandoned. The two outcomes are not clean and dirty; they are a soul brought into the light and a soul buried by its own owner.",
-            "bn": "91:10 জোড়াটি পূর্ণ করে, অথচ পাশাপাশি খুব কমই উদ্ধৃত হয়: 'ওয়া ক্বাদ খাবা মান দাস্‌সাহা'। 'খাবা' মানে খালি হাতে ফেরা, ব্যর্থ উদ্যোগের হতাশা। 'দাস্‌সাহা'-কে মুফাসসিরগণ ব্যাখ্যা করেন চাপা দেওয়া ও লুকিয়ে ফেলা অর্থে — 16:59 আয়াতে সদ্যোজাত কন্যাকে মাটির নিচে পুঁতে ফেলার জন্য এই ক্রিয়াটিই ব্যবহৃত হয়েছে — আর ইবনে কাসীর এর অর্থ করেন প্রাণকে অনুজ্জ্বল করে ফেলা ও তাকে অবহেলা করতে করতে আনুগত্য ছেড়ে দেওয়া। ফলাফল দুটি 'পরিচ্ছন্ন বনাম নোংরা' নয়; বরং একটি প্রাণ আলোয় আনা, আর একটি প্রাণ তার মালিকের হাতেই চাপা পড়া।"
+            "bn": "৯১:১০ এসে জোড়াটা পূর্ণ করে, যদিও আগের আয়াতের পাশে একে খুব কমই উদ্ধৃত হতে দেখা যায়: 'ওয়া ক্বাদ খাবা মান দাস্‌সাহা'। 'খাবা' মানে খালি হাতে ফেরা, ব্যর্থ কারবারের হতাশা। মুফাসসিরগণ 'দাস্‌সাহা'-র অর্থ করেন মাটিচাপা দেওয়া, লুকিয়ে ফেলা। ১৬:৫৯ আয়াতে সদ্যোজাত মেয়েকে মাটিতে পুঁতে ফেলার কথা বলতে এই ক্রিয়াটিই এসেছে। ইবনে কাসীর এর ব্যাখ্যা করেন এভাবে: নফসকে নিস্তেজ করে ফেলা, তাকে অবহেলা করতে করতে শেষে আনুগত্যই ছেড়ে দেওয়া। তাই দুই পরিণতি পরিষ্কার আর নোংরার ব্যাপার নয়। একটি নফসকে আলোয় আনা হয়েছে, আরেকটিকে তার মালিক নিজের হাতেই মাটিচাপা দিয়েছে।"
           }
         ]
       },
@@ -205,31 +205,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse never names who does the purifying, and Ibn Kathir preserves both readings rather than choosing. It may mean whoever purifies himself through obedience to Allah has succeeded — Qatadah's gloss is that he cleanses the soul of lowly and despicable characteristics, and the like is reported from Mujahid, Ikrimah and Sa'id ibn Jubayr. It may equally mean that he has succeeded whose soul Allah purifies, which is how al-Awfi and Ali ibn Abi Talha report it from Ibn Abbas (RA).",
-            "bn": "আয়াতটি কখনোই বলে না পরিশুদ্ধ করার কাজটি কে করে, আর ইবনে কাসীর কোনো একটি বেছে না নিয়ে দুই পাঠই ধরে রাখেন। অর্থ হতে পারে: যে আল্লাহর আনুগত্যের মাধ্যমে নিজেকে পরিশুদ্ধ করে সে-ই সফল হয়েছে — কাতাদাহ (রঃ)-এর ব্যাখ্যা হলো, সে প্রাণটিকে নিচু ও ঘৃণ্য স্বভাবগুলো থেকে পরিষ্কার করে; অনুরূপ কথা মুজাহিদ, ইকরিমা ও সাঈদ ইবনে জুবাইর থেকেও বর্ণিত। আবার অর্থ হতে পারে: সে-ই সফল হয়েছে, আল্লাহ যার প্রাণকে পরিশুদ্ধ করে দেন — আওফী এবং আলী ইবনে আবী তালহা এভাবেই ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন।"
+            "bn": "পবিত্র করার কাজটা কে করে, আয়াত তা বলে না। ইবনে কাসীরও কোনো একটা বেছে না নিয়ে দুই অর্থই রেখে দেন। এক অর্থ: যে আল্লাহর আনুগত্য করে নিজেকে পবিত্র করেছে, সে-ই সফল। কাতাদাহ (রঃ) ব্যাখ্যা করেন, সে নফসকে নিচ ও ঘৃণ্য স্বভাব থেকে পরিষ্কার করে। মুজাহিদ, ইকরিমা ও সাঈদ ইবনে জুবাইর থেকেও এমন কথা বর্ণিত। আরেক অর্থ: সে-ই সফল, আল্লাহ যার নফসকে পবিত্র করে দিয়েছেন। আওফী ও আলী ইবনে আবী তালহা ইবনে আব্বাস (রাঃ) থেকে এভাবেই বর্ণনা করেন।"
           }
         ]
       },
       {
         "h": {
           "en": "A Prayer for the Soul",
-          "bn": "প্রাণের জন্য একটি দোয়া"
+          "bn": "নফসের জন্য দোয়া"
         },
         "p": [
           {
             "en": "The Sunnah settles in practice what the grammar leaves open. Muslim records from Zayd ibn Arqam (RA) a supplication the Prophet ﷺ used to make, within which he said: O Allah, give my soul its taqwa and purify it, You are the best of those who purify it, You are its Guardian and its Master. Zayd added that the Prophet ﷺ used to teach them these words, and that they were now teaching them onward. Ask for the purifying, and then go and do it.",
-            "bn": "ব্যাকরণ যা খোলা রাখে, সুন্নাহ তা বাস্তবে মীমাংসা করে দেয়। ইমাম মুসলিম যায়দ ইবনে আরকাম (রাঃ) থেকে নবী ﷺ-এর একটি দোয়া বর্ণনা করেন, যার ভেতরে তিনি বলতেন: হে আল্লাহ, আমার প্রাণকে তার তাক্বওয়া দান করুন এবং তাকে পরিশুদ্ধ করুন; আপনিই তাকে পরিশুদ্ধকারীদের মধ্যে শ্রেষ্ঠ, আপনিই তার অভিভাবক ও মনিব। যায়দ (রাঃ) যোগ করেন, নবী ﷺ তাঁদের এই শব্দগুলো শেখাতেন, আর তাঁরা এখন তা অন্যদের শেখাচ্ছেন। পরিশুদ্ধি চেয়ে নিন, তারপর গিয়ে কাজটি করুন।"
+            "bn": "ব্যাকরণ যে প্রশ্ন খোলা রাখে, সুন্নাহ আমলের ভেতর দিয়ে তার মীমাংসা করে দেয়। ইমাম মুসলিম যায়দ ইবনে আরকাম (রাঃ) থেকে নবী ﷺ-এর একটি দোয়া বর্ণনা করেছেন। তার মধ্যে তিনি বলতেন: হে আল্লাহ, আমার নফসকে তার তাক্বওয়া দান করুন, তাকে পবিত্র করুন। যারা তাকে পবিত্র করে, আপনিই তাদের মধ্যে শ্রেষ্ঠ। আপনিই তার অভিভাবক, আপনিই তার মনিব। যায়দ (রাঃ) আরও বলেন, নবী ﷺ তাঁদের এই কথাগুলো শেখাতেন, আর এখন তাঁরা তা অন্যদের শেখাচ্ছেন। তাই পবিত্রতা আল্লাহর কাছে চেয়ে নিন, তারপর নিজে গিয়ে কাজে নামুন।"
           }
         ]
       },
       {
         "h": {
           "en": "Thamud, the Worked Example",
-          "bn": "সামূদ — হাতে-কলমে উদাহরণ"
+          "bn": "সামূদ: হাতে-কলমে দৃষ্টান্ত"
         },
         "p": [
           {
             "en": "The surah does not stop at its verdict. 91:11-15 turn to a nation that buried its soul: Thamud denied through transgression, the most wretched among them was sent forth, and the messenger of Allah warned them about the she-camel of Allah and her drink. They called him a liar and hamstrung her, and their Lord levelled destruction upon them for their sin. The closing line, 91:15, adds that He does not fear its consequence. A principle stated in the abstract is given a name and a ruin.",
-            "bn": "সূরাটি তার রায়ের ওপর থেমে থাকে না। 91:11-15 আয়াত ফিরে যায় এমন এক জাতির দিকে, যারা নিজেদের প্রাণ চাপা দিয়েছিল: সামূদ সীমালঙ্ঘন করে অস্বীকার করেছিল, তাদের মধ্যকার সবচেয়ে হতভাগা লোকটি উঠে দাঁড়িয়েছিল, আর আল্লাহর রাসূল তাদের সতর্ক করেছিলেন আল্লাহর উটনি ও তার পানি পানের ব্যাপারে। তারা তাঁকে মিথ্যাবাদী বলল এবং উটনির পায়ের রগ কেটে দিল; ফলে তাদের পাপের কারণে তাদের প্রতিপালক তাদের ওপর ধ্বংস নামিয়ে দিলেন। শেষ আয়াত 91:15 যোগ করে, তিনি এর পরিণতির ভয় করেন না। বিমূর্তভাবে বলা এক নীতি এখানে নাম ও ধ্বংসস্তূপ পেয়ে যায়।"
+            "bn": "সূরাটি রায় দিয়েই থেমে যায় না। ৯১:১১-১৫ আয়াত ফিরে তাকায় এমন এক জাতির দিকে, যারা নিজেদের নফসকে মাটিচাপা দিয়েছিল। সামূদ সীমালঙ্ঘন করে অস্বীকার করল। তাদের সবচেয়ে হতভাগা লোকটি উঠে দাঁড়াল। আল্লাহর রাসূল তাদের সাবধান করলেন আল্লাহর উটনি আর তার পানি পানের ব্যাপারে। তারা তাঁকে মিথ্যাবাদী বলল, উটনির পায়ের রগ কেটে দিল। ফলে তাদের গুনাহের কারণে তাদের রব তাদের ওপর ধ্বংস নামিয়ে সব মাটির সঙ্গে মিশিয়ে দিলেন। শেষ আয়াত ৯১:১৫ জানায়, এর পরিণামের কোনো ভয় তিনি করেন না। যে নীতি আগে শুধু তত্ত্ব হিসেবে বলা হয়েছিল, এখানে তা পেল একটি নাম আর একটি ধ্বংসস্তূপ।"
           }
         ]
       },
@@ -241,11 +241,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Because zakka means clearing and growing at once, the work has two halves and most people attempt only one. Removing is the unglamorous half: a habit dropped, a debt settled, a wrong apology actually made, an account closed. Growing is what the cleared ground is for: prayer that is not rushed, knowledge taken in steadily, wealth spent where it will not be thanked. Neither half substitutes for the other, and a field weeded but never sown is still a field with nothing on it.",
-            "bn": "যেহেতু 'যাক্কা' একই সঙ্গে পরিষ্কার করা ও বাড়ানো বোঝায়, কাজটির দুটি অংশ আছে — আর অধিকাংশ মানুষ কেবল একটি অংশ করে। সরিয়ে ফেলাই কম আকর্ষণীয় অংশ: একটি অভ্যাস ছেড়ে দেওয়া, একটি ঋণ শোধ করা, একটি অন্যায়ের জন্য সত্যিই ক্ষমা চাওয়া, একটি হিসাব বন্ধ করা। আর বাড়ানোই সেই কাজ, যার জন্য জমি সাফ করা হয়েছিল: তাড়াহুড়োহীন নামায, ধীরে ধীরে অর্জিত জ্ঞান, এমন জায়গায় খরচ যেখানে কেউ ধন্যবাদ দেবে না। কোনো অংশই অন্যটির বিকল্প নয়; আগাছা সাফ অথচ বীজহীন জমি এখনো শূন্য জমিই।"
+            "bn": "'যাক্কা' মানে একসঙ্গে পরিষ্কার করা আর বাড়িয়ে তোলা। তাই কাজটার দুটি ভাগ, আর বেশির ভাগ মানুষ চেষ্টা করে কেবল একটির। সরানোর ভাগটায় কোনো চাকচিক্য নেই: কোনো অভ্যাস ছেড়ে দেওয়া, কোনো ঋণ শোধ করা, কোনো অন্যায়ের জন্য সত্যি সত্যি মাফ চেয়ে নেওয়া, কোনো পুরোনো হিসাব চুকিয়ে ফেলা। আর বাড়ানোর জন্যই তো জমি সাফ করা: তাড়াহুড়ো ছাড়া নামাজ, ধীরে ধীরে নিয়মিত শেখা জ্ঞান, এমন জায়গায় খরচ যেখানে কেউ ধন্যবাদ দেবে না। কোনো ভাগই অন্যটির জায়গা নিতে পারে না। আগাছা সাফ হলো, কিন্তু বীজ বোনা হলো না, এমন জমি শেষ পর্যন্ত খালিই পড়ে থাকে।"
           },
           {
             "en": "The surah also supplies a private measure. Since 91:8 says the soul was inspired with both its wickedness and its guarding, the knowledge of which way a particular choice runs is already inside the one choosing. That is uncomfortable, and it is also liberating, because it removes the need for a ruling on every small matter. Most of what purification asks of a person today is something that person already knows, has known for a while, and has been waiting to be told by someone else.",
-            "bn": "সূরাটি একটি ব্যক্তিগত মাপকাঠিও দিয়ে দেয়। 91:8 যেহেতু বলে যে প্রাণকে তার অসৎকর্ম ও আত্মরক্ষা — দুটিরই বোধ দেওয়া হয়েছে, তাই কোনো নির্দিষ্ট সিদ্ধান্ত কোন দিকে যাচ্ছে সেই জ্ঞান সিদ্ধান্তগ্রহণকারীর ভেতরেই আছে। এটি অস্বস্তিকর, আবার মুক্তিদায়কও — কারণ এতে প্রতিটি ছোট বিষয়ে ফতোয়া খোঁজার প্রয়োজন কমে যায়। আজ পরিশুদ্ধি একজন মানুষের কাছে যা চায়, তার বেশিরভাগই সে আগে থেকেই জানে, অনেকদিন ধরেই জানে — কেবল অপেক্ষা করছে অন্য কেউ এসে কথাটি বলুক।"
+            "bn": "নিজেকে মাপার একটা ব্যক্তিগত মাপকাঠিও সূরাটি দিয়ে দেয়। ৯১:৮ বলছে, নফসের অন্তরে তার পাপাচার আর বেঁচে চলা, দুটোরই বোধ ঢেলে দেওয়া হয়েছে। তাহলে কোনো একটা সিদ্ধান্ত কোন দিকে যাচ্ছে, সে জ্ঞান যে সিদ্ধান্ত নিচ্ছে তার ভেতরেই আছে। কথাটা অস্বস্তির, আবার মুক্তিরও। কারণ তখন প্রতিটি ছোটখাটো ব্যাপারে ফতোয়া খুঁজে বেড়ানোর দরকার পড়ে না। আজ পরিশুদ্ধি একজন মানুষের কাছে যা চায়, তার বেশির ভাগই সে আগে থেকে জানে, অনেক দিন ধরেই জানে। শুধু অপেক্ষায় আছে, অন্য কেউ এসে কথাটা তাকে বলে দিক।"
           }
         ]
       }
