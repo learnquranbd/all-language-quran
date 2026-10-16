@@ -1648,7 +1648,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Narrations Under This Verse",
-          "bn": "এ আয়াতের নিচে বর্ণনাগুলো"
+          "bn": "এ আয়াত প্রসঙ্গে বর্ণনা"
         },
         "p": [
           {
@@ -1657,7 +1657,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir's reading of al-insan as the whole kind turns the verse back towards every reader. The man with the bone is not a figure to be looked down on from a distance. Every reader began as the same drop, and every reader carries the same tongue, which can as easily be turned into a case against its Giver. Read this way, the verse is not a label to pin on doubters. It is a mirror held up first to whoever recites it, asking how much of its second half has crept into his own life.",
-            "bn": "ইবন কাসীর আল-ইনসান বলতে গোটা মানবজাত বুঝেছেন। এই পাঠ আয়াতটাকে প্রত্যেক পাঠকের দিকেই ঘুরিয়ে দেয়। হাড় হাতে লোকটা এমন কেউ নয়, যাকে দূরে দাঁড়িয়ে তুচ্ছ চোখে দেখা যায়। প্রত্যেক পাঠকের শুরু সেই একই ফোঁটা থেকে। প্রত্যেকের মুখে সেই একই জিভ, যাকে অনায়াসে দাতারই বিরুদ্ধে মামলা সাজাতে লাগানো যায়। এভাবে পড়লে আয়াতটা সন্দেহকারীদের গায়ে সাঁটার লেবেল নয়। এ এক আয়না, যা প্রথমে ধরা হয় তেলাওয়াতকারীর সামনেই। আয়না জিজ্ঞেস করে, এর দ্বিতীয় অর্ধেকের কতটুকু চুপিসারে তোমার নিজের জীবনে ঢুকে পড়েছে।"
+            "bn": "ইবন কাসীর আল-ইনসান বলতে গোটা মানবজাতিকে বুঝেছেন। এভাবে পড়লে আয়াতটা ফিরে আসে প্রত্যেক পাঠকের দিকেই। হাড় হাতে লোকটা এমন কেউ নয়, যাকে দূরে দাঁড়িয়ে তুচ্ছ চোখে দেখা যায়। প্রত্যেক পাঠকের শুরু সেই একই ফোঁটা থেকে। প্রত্যেকের মুখে সেই একই জিভ, যাকে অনায়াসে দাতারই বিরুদ্ধে মামলা সাজাতে লাগানো যায়। তাই আয়াতটা সন্দেহকারীদের গায়ে সেঁটে দেওয়ার লেবেল নয়। এ এক আয়না। সবার আগে তা ধরা হয় তেলাওয়াতকারীর নিজের সামনে, আর তাকে জিজ্ঞেস করে: আয়াতের দ্বিতীয় অর্ধেকের কতটুকু চুপিসারে তার নিজের জীবনে ঢুকে পড়েছে?"
           }
         ]
       },
@@ -1689,11 +1689,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse is the summit of the argument that closes Surah Ya-Sin. 36:77-79 sets the scene: man, created from a drop, stands disputing with his Maker, striking a parable and forgetting his own creation — who will give life to bones when they have crumbled? The books of tafsir relate that a denier of resurrection came to the Prophet ﷺ crushing an old bone and scattering its dust as he asked exactly that.",
-            "bn": "এই আয়াতটি সূরা ইয়াসীনের সমাপ্তি-যুক্তির চূড়া। 36:77-79 দৃশ্যটি সাজায়: এক বিন্দু থেকে সৃষ্ট মানুষ নিজের স্রষ্টার সঙ্গে বিতর্কে দাঁড়িয়ে, উপমা ছুড়ছে আর নিজের সৃষ্টির কথাই ভুলে গেছে — হাড়গুলো চূর্ণ হয়ে গেলে কে সেগুলোকে জীবন দেবে? তাফসীরের কিতাবসমূহ বর্ণনা করে, পুনরুত্থান-অস্বীকারকারী এক ব্যক্তি নবী ﷺ-এর কাছে এসেছিল একটি পুরোনো হাড় গুঁড়িয়ে তার ধুলো ছড়াতে ছড়াতে, ঠিক এই প্রশ্নটিই করতে করতে।"
+            "bn": "সূরা ইয়াসীন যে যুক্তি দিয়ে শেষ হয়, এই আয়াত তার চূড়া। ৩৬:৭৭-৭৯ আয়াত দৃশ্যটা সাজিয়ে দেয়। এক ফোঁটা থেকে তৈরি মানুষ নিজের স্রষ্টার সঙ্গে তর্কে নেমেছে। সে উপমা দেয়, অথচ নিজের সৃষ্টির কথাই ভুলে যায়: হাড়গুলো গুঁড়িয়ে গেলে কে সেগুলোকে আবার জীবন দেবে? তাফসীরের কিতাবে বর্ণিত আছে, পুনরুত্থান অস্বীকার করত এমন এক লোক একটা পুরোনো হাড় নিয়ে নবী ﷺ-এর কাছে এসেছিল। সে হাড়টা গুঁড়িয়ে ধুলো ছড়াচ্ছিল আর ঠিক এই প্রশ্নটাই করছিল।"
           },
           {
             "en": "The answer given is a method as much as a reply: say, He will give them life who produced them the first time, and He is Knowing of all creation. Restoring is not harder than originating — and the Originator has already been demonstrated by every body in the room. From there the surah widens the evidence, fire from the green tree, the creation of the heavens, until it arrives at this verse's summary of His power.",
-            "bn": "প্রদত্ত উত্তরটি জবাব যতটা, পদ্ধতিও ততটাই: বলুন, তিনিই সেগুলোকে জীবন দেবেন যিনি প্রথমবার সেগুলো সৃষ্টি করেছেন, আর তিনি সকল সৃষ্টি সম্পর্কে সম্যক জ্ঞাত। ফিরিয়ে আনা প্রথমবার বানানোর চেয়ে কঠিন নয় — আর প্রথম নির্মাতার প্রমাণ তো ঘরের প্রতিটি দেহই দিয়ে রেখেছে। সেখান থেকে সূরাটি প্রমাণ আরও প্রশস্ত করে — সবুজ গাছ থেকে আগুন, আসমানসমূহের সৃষ্টি — যতক্ষণ না পৌঁছায় তাঁর ক্ষমতার এই আয়াত-সারাংশে।"
+            "bn": "উত্তরটা শুধু জবাব নয়, একটা পদ্ধতিও: বলুন, তিনিই সেগুলোকে জীবন দেবেন, যিনি প্রথমবার সেগুলো সৃষ্টি করেছেন, আর সব ধরনের সৃষ্টি সম্পর্কে তিনি ভালোভাবেই জানেন। ফিরিয়ে আনা প্রথমবার বানানোর চেয়ে কঠিন নয়। আর যিনি প্রথমবার বানিয়েছেন, তাঁর প্রমাণ তো সেখানে উপস্থিত প্রত্যেকের দেহ। এরপর সূরাটি প্রমাণের পরিসর আরও বাড়ায়: সবুজ গাছ থেকে আগুন, আসমানসমূহের সৃষ্টি। শেষে এসে পৌঁছায় এই আয়াতে, যেখানে তাঁর ক্ষমতার সারকথা এক বাক্যে এসে গেছে।"
           }
         ]
       },
@@ -1705,27 +1705,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Innama amruhu — His command is only — when He intends a thing, that He says to it: Be, and it is. The restriction particle innama does the work: this is the whole of it. No struggle, no materials gathered, no interval in which the outcome hangs uncertain. The commentators are careful on one point: the wording does not mean He needs speech as a tool, the way we need hands; it expresses how completely reality answers His intent — instantly, without resistance or delay.",
-            "bn": "ইন্নামা আমরুহু — তাঁর ব্যাপার তো কেবল এই — তিনি যখন কিছু করতে চান, তখন তাকে বলেন: হও, আর তা হয়ে যায়। সীমাবদ্ধকরণ শব্দ ইন্নামা-ই কাজটি করে: এটুকুই সব। কোনো সংগ্রাম নেই, কোনো উপকরণ জোগাড় নেই, এমন কোনো বিরতি নেই যাতে ফলাফল অনিশ্চিত ঝুলে থাকে। মুফাসসিরগণ একটি বিষয়ে সতর্ক: এই ভাষার অর্থ এই নয় যে হাতিয়ার হিসেবে তাঁর বাক্যের প্রয়োজন, যেমন আমাদের হাতের প্রয়োজন; এটি প্রকাশ করে বাস্তবতা তাঁর ইচ্ছায় কত সম্পূর্ণভাবে সাড়া দেয় — তাৎক্ষণিক, কোনো প্রতিরোধ বা বিলম্ব ছাড়া।"
+            "bn": "ইন্নামা আমরুহু: তাঁর ব্যাপার তো কেবল এই যে, তিনি যখন কোনো কিছু করতে চান, তখন তাকে বলেন, হও, আর তা হয়ে যায়। আসল কাজটা করে ইন্নামা শব্দটি, যা সীমা টেনে দেয়: এটুকুই, এর বেশি কিছু নয়। কোনো খাটুনি নেই, উপকরণ জোগাড়ের ব্যাপার নেই, এমন কোনো ফাঁকও নেই যখন ফল কী হবে তা ঝুলে থাকে। মুফাসসিরগণ একটা বিষয়ে সাবধান করেন। এ কথার মানে এই নয় যে, আমাদের যেমন হাতের দরকার হয়, তেমনি তাঁরও কাজের জন্য কথা নামের কোনো হাতিয়ার দরকার। কথাটা বোঝায়, তাঁর ইচ্ছায় বাস্তবতা কতটা পুরোপুরি সাড়া দেয়: সঙ্গে সঙ্গে, কোনো বাধা বা দেরি ছাড়া।"
           },
           {
             "en": "Between His will and its object there is nothing that could intervene: no rival power, as 2:163 has already established there is none, no shortage, no fatigue — the same freedom from weariness 2:255 attaches to His preserving of the heavens and the earth. Difficulty is a relation between a task and limited strength. Where strength has no limit, the category of difficult simply does not apply.",
-            "bn": "তাঁর ইচ্ছা ও তার লক্ষ্যবস্তুর মাঝখানে হস্তক্ষেপ করার মতো কিছুই নেই: কোনো প্রতিদ্বন্দ্বী শক্তি নেই — 2:163 আগেই প্রতিষ্ঠা করেছে যে নেই — কোনো ঘাটতি নেই, কোনো ক্লান্তি নেই — সেই একই ক্লান্তিহীনতা যা 2:255 যুক্ত করে আসমান-যমীনের রক্ষণাবেক্ষণে। কঠিন হওয়া হলো কাজ ও সীমিত শক্তির মধ্যকার এক সম্পর্ক। যেখানে শক্তির কোনো সীমা নেই, সেখানে কঠিনের শ্রেণিটিই আর প্রযোজ্য নয়।"
+            "bn": "তাঁর ইচ্ছা আর তিনি যা চান, এ দুয়ের মাঝে বাধা হয়ে দাঁড়াতে পারে এমন কিছুই নেই। কোনো প্রতিদ্বন্দ্বী শক্তি নেই, ২:১৬৩ আগেই জানিয়ে দিয়েছে যে তেমন কেউ নেই। কোনো ঘাটতি নেই, কোনো ক্লান্তিও নেই। আসমান-যমীন রক্ষা করতে তাঁকে যে কোনো ক্লান্তি ছোঁয় না, ২:২৫৫ সে কথাই বলে। কঠিন হওয়া মানে কাজের তুলনায় শক্তি কম পড়া। যেখানে শক্তির কোনো সীমা নেই, সেখানে কঠিন কথাটাই খাটে না।"
           }
         ]
       },
       {
         "h": {
           "en": "Where Else the Word Sounds",
-          "bn": "আর যেখানে বাণীটি ধ্বনিত"
+          "bn": "এ বাণী আর কোথায় এসেছে"
         },
         "p": [
           {
             "en": "Kun fa-yakun recurs across the Quran, and its placements are a study in themselves. 2:117 attaches it to the origination of the heavens and the earth. 3:47 answers Maryam's astonishment at bearing a child untouched; 3:59 levels Isa (AS) and Adam (AS) — created from dust, then Be, and he was; 19:35 refuses the notion of a son for Allah by it; 40:68 attaches it to giving life and dealing death.",
-            "bn": "কুন ফা-ইয়াকুন কুরআনজুড়ে ফিরে ফিরে আসে, আর এর অবস্থানগুলো নিজেই এক অধ্যয়নের বিষয়। 2:117 একে যুক্ত করে আসমান-যমীনের সূচনার সঙ্গে। 3:47 উত্তর দেয় মারইয়ামের বিস্ময়ের — স্পর্শ ছাড়া সন্তান ধারণের প্রশ্নে; 3:59 ঈসা (আঃ) ও আদম (আঃ)-কে সমান করে দেয় — মাটি থেকে সৃষ্টি, তারপর হও, আর তিনি হয়ে গেলেন; 19:35 এরই জোরে আল্লাহর পুত্রের ধারণা প্রত্যাখ্যান করে; 40:68 একে যুক্ত করে জীবন দান ও মৃত্যু ঘটানোর সঙ্গে।"
+            "bn": "কুন ফা-ইয়াকুন কুরআনে বারবার এসেছে। কোথায় কোথায় এসেছে, সেটাই আলাদা করে ভাবার মতো বিষয়। ২:১১৭ আয়াতে কথাটা এসেছে আসমান-যমীনের সূচনা প্রসঙ্গে। ৩:৪৭ আয়াতে মারইয়াম অবাক হয়েছিলেন, কোনো পুরুষের স্পর্শ ছাড়া তাঁর সন্তান হবে কীভাবে। এ বাক্যই তার জবাব। ৩:৫৯ আয়াত ঈসা (আঃ) ও আদম (আঃ)-কে এক কাতারে দাঁড় করায়: মাটি থেকে সৃষ্টি, তারপর হও, আর তিনি হয়ে গেলেন। ১৯:৩৫ আয়াত এ বাক্য দিয়েই আল্লাহর পুত্র থাকার ধারণা নাকচ করে। আর ৪০:৬৮ আয়াতে কথাটা এসেছে জীবন দেওয়া ও মৃত্যু ঘটানোর সঙ্গে।"
           },
           {
             "en": "The pattern is consistent: the phrase appears precisely where human beings say impossible — a universe from nothing, a child without a father, the dead raised. Each time the Quran declines to argue the impossibility on our terms and instead corrects the frame: you are measuring by the strength of creatures. Measured by His command, none of these cases is even distinct from the others; all are one word.",
-            "bn": "ধরনটি সামঞ্জস্যপূর্ণ: বাক্যাংশটি আসে ঠিক সেখানে, যেখানে মানুষ বলে অসম্ভব — শূন্য থেকে মহাবিশ্ব, পিতা ছাড়া সন্তান, মৃতের পুনরুত্থান। প্রতিবার কুরআন আমাদের শর্তে অসম্ভবতা নিয়ে তর্ক করতে অস্বীকার করে এবং বরং কাঠামোটাই সংশোধন করে: তোমরা মাপছ সৃষ্টির শক্তি দিয়ে। তাঁর নির্দেশ দিয়ে মাপলে এই ঘটনাগুলোর কোনোটি অন্যগুলো থেকে আলাদাও নয়; সবই একটিমাত্র কথা।"
+            "bn": "ধারাটা সবখানে এক। বাক্যটা আসে ঠিক সেখানেই, যেখানে মানুষ বলে, এ অসম্ভব: শূন্য থেকে মহাবিশ্ব, বাবা ছাড়া সন্তান, মৃতের আবার জীবিত হওয়া। প্রতিবারই কুরআন আমাদের মাপকাঠিতে অসম্ভব-সম্ভবের তর্কে যায় না। বরং মাপকাঠিটাই শুধরে দেয়: তোমরা মাপছ সৃষ্টির শক্তি দিয়ে। তাঁর হুকুম দিয়ে মাপলে এগুলোর একটা আরেকটা থেকে আলাদাই নয়। সবই একটিমাত্র শব্দ।"
           }
         ]
       },
@@ -1737,27 +1737,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The surah's final verse, 36:83, completes the thought: so exalted is He in whose hand is the malakut — the dominion, the inner sovereignty — of every thing, and to Him you will be returned. Power alone might only awe us; the return makes it personal. The One whose word suffices for anything is also the One before whom every life ends up standing, so His effortless power is not a spectacle but our destination.",
-            "bn": "সূরার শেষ আয়াত 36:83 ভাবনাটি সম্পূর্ণ করে: অতএব পবিত্র ও মহান তিনি, যাঁর হাতে প্রতিটি জিনিসের মালাকূত — কর্তৃত্ব, অন্তর্গত সার্বভৌমত্ব — আর তাঁরই কাছে তোমাদের ফিরিয়ে নেওয়া হবে। কেবল ক্ষমতা হয়তো আমাদের শুধু স্তম্ভিতই করত; প্রত্যাবর্তন একে ব্যক্তিগত করে তোলে। যাঁর একটি কথাই যেকোনো কিছুর জন্য যথেষ্ট, তিনিই সেই সত্তা যাঁর সামনে প্রতিটি জীবন শেষ পর্যন্ত দাঁড়ায় — তাই তাঁর অনায়াস ক্ষমতা কোনো প্রদর্শনী নয়, আমাদের গন্তব্য।"
+            "bn": "সূরার শেষ আয়াত ৩৬:৮৩ ভাবনাটা পূর্ণ করে: অতএব পবিত্র ও মহান তিনি, যাঁর হাতে প্রতিটি জিনিসের মালাকূত, অর্থাৎ কর্তৃত্ব, ভেতরের সার্বভৌম ক্ষমতা। আর তাঁরই কাছে তোমাদের ফিরিয়ে নেওয়া হবে। শুধু ক্ষমতার কথা হলে হয়তো আমরা কেবল বিস্মিত হতাম। কিন্তু ফিরে যাওয়ার কথাটা বিষয়টাকে আমাদের নিজের করে দেয়। যাঁর একটি কথাই যেকোনো কিছুর জন্য যথেষ্ট, প্রত্যেক প্রাণকে শেষ পর্যন্ত তাঁরই সামনে গিয়ে দাঁড়াতে হবে। তাই তাঁর অনায়াস ক্ষমতা দূর থেকে দেখার মতো কোনো দৃশ্য নয়। ওটাই আমাদের গন্তব্য।"
           },
           {
             "en": "Ya-Sin thus closes by joining the two certainties the surah argued from its opening scenes: He can, and we will return. Resurrection stops being a puzzle about scattered bones — the surah has dissolved that with the first creation, the green tree and the word Be — and becomes instead a scheduled appointment with the Owner of everything, for which the only sensible preparation is deeds.",
-            "bn": "ইয়াসীন তাই শেষ হয় দুটি নিশ্চয়তাকে জুড়ে দিয়ে, যেগুলোর পক্ষে সূরাটি তার শুরুর দৃশ্যগুলো থেকে যুক্তি সাজিয়েছে: তিনি পারেন, আর আমরা ফিরব। পুনরুত্থান তখন আর ছড়ানো হাড় নিয়ে কোনো ধাঁধা থাকে না — প্রথম সৃষ্টি, সবুজ গাছ আর হও শব্দটি দিয়ে সূরা তা গলিয়ে দিয়েছে — বরং হয়ে ওঠে সবকিছুর মালিকের সঙ্গে এক নির্ধারিত সাক্ষাৎ, যার একমাত্র বুদ্ধিমান প্রস্তুতি আমল।"
+            "bn": "শুরুর দৃশ্যগুলো থেকেই সূরাটি দুটি নিশ্চয়তার পক্ষে যুক্তি সাজিয়ে এসেছে: তিনি পারেন, আর আমরা ফিরব। ইয়াসীন শেষ হয় এই দুটিকে একসঙ্গে জুড়ে দিয়ে। পুনরুত্থান তখন আর ছড়িয়ে থাকা হাড়ের ধাঁধা থাকে না। সে ধাঁধা সূরাটি আগেই মিটিয়ে দিয়েছে প্রথম সৃষ্টি, সবুজ গাছ আর হও শব্দটি দিয়ে। পুনরুত্থান হয়ে ওঠে সবকিছুর মালিকের সঙ্গে আগে থেকে ঠিক করা এক সাক্ষাৎ। তার জন্য বুদ্ধিমানের একমাত্র প্রস্তুতি হলো আমল।"
           }
         ]
       },
       {
         "h": {
           "en": "Effortless for Him, Weighty for Us",
-          "bn": "তাঁর জন্য সহজ, আমাদের জন্য গুরুভার"
+          "bn": "তাঁর কাছে সহজ, আমাদের কাছে ভারী"
         },
         "p": [
           {
             "en": "Hold the two scales apart and the verse becomes practical. On His side, nothing is heavy: not your provision, not the guidance of a hardened relative, not the mending of what looks finished. On our side, deeds are weighed and days are counted precisely because outcomes are not ours to speak into being. We were given effort, patience and du'a — the creaturely instruments — and He kept Be for Himself.",
-            "bn": "দুটি পাল্লা আলাদা করে ধরুন — আয়াতটি ব্যবহারিক হয়ে ওঠে। তাঁর দিকে কিছুই ভারী নয়: আপনার রিযিক নয়, কঠিন হয়ে যাওয়া কোনো আত্মীয়ের হিদায়াত নয়, শেষ দেখানো কোনো কিছুর জোড়া লাগাও নয়। আমাদের দিকে আমল ওজন করা হয় আর দিন গোনা হয় ঠিক এ কারণেই যে, ফলাফল মুখের কথায় ঘটিয়ে ফেলা আমাদের কাজ নয়। আমাদের দেওয়া হয়েছে প্রচেষ্টা, ধৈর্য ও দোয়া — সৃষ্টির হাতিয়ার — আর হও তিনি রেখেছেন নিজের জন্য।"
+            "bn": "দুই পাল্লাকে আলাদা করে দেখুন, তাহলেই আয়াতটা রোজকার জীবনে কাজে লাগবে। তাঁর দিকে কিছুই ভারী নয়: না আপনার রিযিক, না পাথর হয়ে যাওয়া কোনো আত্মীয়ের হিদায়াত, না এমন কিছু জোড়া লাগানো, যা দেখে মনে হয় শেষ হয়ে গেছে। আমাদের দিকে আমল মাপা হয়, দিনের হিসাব রাখা হয়। কারণটা এই যে, মুখে বলে ফল ঘটিয়ে ফেলা আমাদের সাধ্যে নেই। তিনি আমাদের দিয়েছেন চেষ্টা, সবর আর দোয়া, বান্দার হাতিয়ার। আর হও কথাটা রেখে দিয়েছেন কেবল নিজের জন্য।"
           },
           {
             "en": "This division answers both despair and presumption. Despair says the situation is impossible; the verse replies that impossible describes your strength, not His command. Presumption says it will happen because I have arranged it; 18:23-24 has already corrected that grammar — nothing happens except by His will. Between the two corrections stands the believer: working as if effort matters, asking as if only He decides, because both are true.",
-            "bn": "এই ভাগাভাগি হতাশা ও দাম্ভিকতা দুটিরই জবাব দেয়। হতাশা বলে পরিস্থিতি অসম্ভব; আয়াত উত্তর দেয়: অসম্ভব শব্দটি তোমার শক্তির বর্ণনা, তাঁর নির্দেশের নয়। দাম্ভিকতা বলে এটি ঘটবেই কারণ আমি সব সাজিয়ে রেখেছি; 18:23-24 আগেই সেই ভাষাভঙ্গি সংশোধন করেছে — তাঁর ইচ্ছা ছাড়া কিছুই ঘটে না। দুই সংশোধনের মাঝখানে দাঁড়িয়ে মুমিন: কাজ করে যেন প্রচেষ্টার মূল্য আছে, চায় যেন সিদ্ধান্ত কেবল তাঁরই — কারণ দুটিই সত্য।"
+            "bn": "এই ভাগটা হতাশা আর দম্ভ দুটোরই জবাব। হতাশা বলে, পরিস্থিতিটা অসম্ভব। আয়াত জবাব দেয়: অসম্ভব কথাটা আপনার শক্তির মাপ, তাঁর হুকুমের নয়। দম্ভ বলে, এটা হবেই, কারণ আমি সব ঠিকঠাক করে রেখেছি। ১৮:২৩-২৪ আয়াত আগেই এই কথার ধরন শুধরে দিয়েছে: তাঁর ইচ্ছা ছাড়া কিছুই ঘটে না। এই দুই সংশোধনের মাঝখানে মুমিনের অবস্থান। সে এমনভাবে কাজ করে যেন চেষ্টার দাম আছে, আর এমনভাবে চায় যেন ফয়সালা কেবল তাঁরই। কারণ দুটোই সত্য।"
           }
         ]
       },
@@ -1769,11 +1769,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The practical fruit is boldness in du'a. People trim their prayers to what seems achievable, as if sparing Allah embarrassment; the verse exposes the courtesy as bad theology. Ask for the whole need — the cure, the reconciliation, the guidance of the person everyone has given up on — because the One being asked does not scale His answers to plausibility. He says Be.",
-            "bn": "ব্যবহারিক ফল — দোয়ায় সাহস। মানুষ নিজের প্রার্থনা ছেঁটে নেয় যা অর্জনযোগ্য মনে হয় তাতে, যেন আল্লাহকে বিব্রত হওয়া থেকে বাঁচাচ্ছে; আয়াতটি এই সৌজন্যকে ভুল আকীদা বলে উন্মোচন করে। পুরো প্রয়োজনটাই চান — আরোগ্য, মীমাংসা, সেই মানুষটির হিদায়াত যার আশা সবাই ছেড়ে দিয়েছে — কারণ যাঁর কাছে চাওয়া হচ্ছে তিনি নিজের জবাব সম্ভাব্যতার মাপে ছোট করেন না। তিনি বলেন: হও।"
+            "bn": "এর বাস্তব ফল হলো দোয়ায় সাহস। যা পাওয়া সম্ভব মনে হয়, মানুষ দোয়াকে ততটুকুতে ছেঁটে আনে, যেন আল্লাহকে বিব্রত হওয়া থেকে বাঁচাচ্ছে। আয়াতটি দেখিয়ে দেয়, এই ভদ্রতা আসলে ভুল আকীদা। পুরো প্রয়োজনটাই চান: আরোগ্য, ভাঙা সম্পর্কের মিটমাট, এমন মানুষের হিদায়াত যার আশা সবাই ছেড়ে দিয়েছে। কারণ যাঁর কাছে চাইছেন, তিনি সম্ভব-অসম্ভব মেপে জবাব ছোট করেন না। তিনি বলেন: হও।"
           },
           {
             "en": "And let the same word steady you when His decree runs against your wishes. What He willed happened by a word, and what He withheld was withheld with the same total ease — meaning neither was an accident, an oversight or a failure of resources. The heart that absorbs 36:82 stops negotiating with imagined obstacles and deals directly, in trust and asking, with the One whose command is only Be, and it is.",
-            "bn": "আর তাঁর ফয়সালা যখন আপনার ইচ্ছার বিপরীতে চলে, তখন একই শব্দকে আপনাকে স্থির রাখতে দিন। তিনি যা চেয়েছেন তা ঘটেছে এক কথায়, আর যা আটকে রেখেছেন তা আটকানো হয়েছে সেই একই পূর্ণ অনায়াসে — অর্থাৎ কোনোটিই দুর্ঘটনা নয়, অসাবধানতা নয়, সামর্থ্যের ঘাটতিও নয়। যে হৃদয় 36:82 আত্মস্থ করে, সে কাল্পনিক বাধার সঙ্গে দর-কষাকষি থামিয়ে দেয় এবং ভরসা ও চাওয়া নিয়ে সরাসরি লেনদেন করে তাঁর সঙ্গে — যাঁর নির্দেশ কেবল: হও, আর তা হয়ে যায়।"
+            "bn": "আর তাঁর ফয়সালা যখন আপনার চাওয়ার উল্টো দিকে যায়, তখনও এই কথাটাই আপনাকে স্থির রাখুক। তিনি যা চেয়েছেন, তা ঘটেছে এক কথায়। আর যা দেননি, তাও আটকে রেখেছেন সেই একই পূর্ণ অনায়াসে। অর্থাৎ কোনোটাই দুর্ঘটনা নয়, ভুলে যাওয়া নয়, সামর্থ্যের ঘাটতিও নয়। যে হৃদয় ৩৬:৮২ আয়াতকে নিজের করে নেয়, সে কাল্পনিক বাধার সঙ্গে দর-কষাকষি থামিয়ে দেয়। ভরসা আর চাওয়া নিয়ে সে সরাসরি তাঁর কাছেই যায়, যাঁর হুকুম কেবল এই: হও, আর তা হয়ে যায়।"
           }
         ]
       }
