@@ -553,7 +553,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That yoking is itself the argument. If the size of a thing were what made it a sign, human variety would not qualify at all. What makes something a sign here is that it is designed and could have been otherwise. The word for the difference is ikhtilaf, variance, and it is the variance rather than the speech or the skin that the verse points at. Uniformity would have been simpler; it was not chosen.",
-            "bn": "এই জোড়া লাগানোটাই যুক্তি। কোনো জিনিসের আকারই যদি তাকে নিদর্শন বানাত, তবে মানুষের বৈচিত্র্য কোনোভাবেই যোগ্য হতো না। এখানে যা কোনো কিছুকে নিদর্শন বানায় তা হলো: এটি পরিকল্পিত, এবং অন্যরকমও হতে পারত। ভিন্নতার জন্য ব্যবহৃত শব্দটি ইখতিলাফ, অর্থাৎ বৈচিত্র্য; আর আয়াতটি আঙুল তোলে ভাষা বা চামড়ার দিকে নয়, সেই বৈচিত্র্যের দিকেই। সবাইকে এক রকম বানানো সহজতর হতো; সেটি বেছে নেওয়া হয়নি।"
+            "bn": "এই জোড়া বাঁধাটাই আসল যুক্তি। আকার-আয়তন দেখেই যদি কোনো কিছু নিদর্শন হতো, তাহলে মানুষের বৈচিত্র্য সে তালিকায় জায়গাই পেত না। এখানে নিদর্শন হওয়ার শর্ত অন্য: জিনিসটা ভেবেচিন্তে বানানো, আর চাইলে অন্যরকমও হতে পারত। এই ভিন্নতার জন্য আয়াতের শব্দ ইখতিলাফ, অর্থাৎ বৈচিত্র্য। আয়াত আঙুল তুলেছে এই বৈচিত্র্যের দিকেই, ভাষা বা গায়ের রঙের দিকে নয়। সবাইকে এক রকম বানানো সহজ ছিল; আল্লাহ সেটা বেছে নেননি।"
           }
         ]
       },
@@ -565,11 +565,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Alsinah is the plural of lisan, the tongue, and it covers the languages people speak; a number of commentators extend it to the distinct sound of each voice, by which people are told apart in the dark. Alwan, colours, is read of complexion and of the features that make one face unlike another. The commentators press the point down to the individual: from a single pair have come people no two of whom are found identical.",
-            "bn": "আলসিনাহ হলো লিসান অর্থাৎ জিহ্বার বহুবচন, আর তা মানুষের বলা ভাষাগুলোকে বোঝায়; বেশ কয়েকজন মুফাসসির একে প্রতিটি কণ্ঠের আলাদা ধ্বনি পর্যন্ত টেনে নেন, যা দিয়ে অন্ধকারেও মানুষকে আলাদা চেনা যায়। আলওয়ান অর্থাৎ বর্ণকে পড়া হয় গায়ের রং এবং সেই সব বৈশিষ্ট্যের অর্থে যা এক মুখকে অন্য মুখ থেকে আলাদা করে। মুফাসসিরগণ কথাটিকে ব্যক্তি পর্যন্ত নামিয়ে আনেন: একটিমাত্র দম্পতি থেকে এসেছে এমন মানুষ, যাদের দুজনকেও হুবহু এক পাওয়া যায় না।"
+            "bn": "আলসিনাহ শব্দটি লিসান অর্থাৎ জিহ্বার বহুবচন; এর অর্থ মানুষের মুখের ভাষা। বেশ কয়েকজন মুফাসসির একে প্রত্যেকের কণ্ঠস্বরের আলাদা আওয়াজ পর্যন্ত টেনে নিয়েছেন, যে আওয়াজ শুনে অন্ধকারেও মানুষ চেনা যায়। আলওয়ান অর্থাৎ বর্ণ বলতে বোঝানো হয় গায়ের রং আর চেহারার সেই গড়ন, যার কারণে একটা মুখ আরেকটা মুখের মতো হয় না। মুফাসসিরগণ কথাটাকে একেবারে প্রত্যেক মানুষ পর্যন্ত নামিয়ে আনেন: একই দম্পতি থেকে এত মানুষ এসেছে, অথচ হুবহু এক রকম দুজনকেও পাওয়া যায় না।"
           },
           {
             "en": "That is precisely where the sign lives. Descent from one origin should produce sameness; instead it produces a face and a voice that belong to one person only, reliably, for every one of us. 35:28 makes the same observation across a wider field — among people and beasts and grazing livestock there are various colours — and then closes with a line about knowledge: only those of His servants who have knowledge fear Allah. Colour and knowledge are paired there too.",
-            "bn": "নিদর্শনটি ঠিক সেখানেই থাকে। একই উৎস থেকে আসা মানে তো একরকম হওয়ার কথা; অথচ তা থেকে জন্মায় এমন একটি মুখ ও একটি কণ্ঠ যা কেবল একজনেরই, আর তা প্রত্যেকের ক্ষেত্রেই নিশ্চিতভাবে ঘটে। 35:28 আয়াত আরও বড় পরিসরে একই পর্যবেক্ষণ করে — মানুষ, জীবজন্তু ও গবাদি পশুর মধ্যেও নানা বর্ণ — আর তারপর শেষ হয় জ্ঞানের কথা দিয়ে: তাঁর বান্দাদের মধ্যে কেবল জ্ঞানীরাই আল্লাহকে ভয় করে। সেখানেও বর্ণ আর জ্ঞান জোড়া বেঁধে আসে।"
+            "bn": "নিদর্শনটা ঠিক এখানেই। এক উৎস থেকে এলে সবার একরকম হওয়ারই কথা। অথচ হয় উল্টো: আমাদের প্রত্যেকের মুখ আর কণ্ঠ কেবল তার নিজের, কোনো ব্যতিক্রম ছাড়াই। ৩৫:২৮ আয়াত আরও বড় পরিসরে একই কথা বলে: মানুষ, জীবজন্তু আর গবাদি পশুর মধ্যেও আছে নানা বর্ণ। তারপর আয়াতটি শেষ হয় জ্ঞানের কথায়: আল্লাহর বান্দাদের মধ্যে কেবল জ্ঞানীরাই তাঁকে ভয় করে। সেখানেও বর্ণ আর জ্ঞান পাশাপাশি এসেছে।"
           }
         ]
       },
@@ -581,27 +581,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Human variety is not hidden. Everyone sees it, and most people see it as a bare fact or as a reason to prefer their own. Reading it as a sign takes something more, and the closing of the verse names that something as knowledge. The point is not that a scholar sees an extra colour. It is that seeing design where an untrained eye sees only difference is a trained act.",
-            "bn": "মানুষের বৈচিত্র্য লুকানো কিছু নয়। সবাই তা দেখে, আর অধিকাংশ মানুষ তা দেখে নিছক একটি তথ্য হিসেবে, নয়তো নিজেরটাকে বেশি পছন্দ করার কারণ হিসেবে। একে নিদর্শন হিসেবে পড়তে বাড়তি কিছু লাগে, আর আয়াতের শেষ অংশ সেই বাড়তি জিনিসটির নাম দেয় জ্ঞান। কথাটা এই নয় যে আলিম একটি অতিরিক্ত রং দেখতে পান। কথাটা হলো, অপ্রশিক্ষিত চোখ যেখানে কেবল পার্থক্য দেখে সেখানে নকশা দেখা একটি অর্জিত দক্ষতা।"
+            "bn": "মানুষের এই বৈচিত্র্য লুকানো কিছু নয়। সবাই দেখে। বেশিরভাগ মানুষ একে দেখে নিছক একটা বাস্তবতা হিসেবে, নয়তো নিজেদেরটাকে বড় ভাবার কারণ হিসেবে। একে নিদর্শন হিসেবে পড়তে আরও কিছু লাগে, আর আয়াতের শেষ অংশ সেই জিনিসটার নাম বলে দেয়: জ্ঞান। কথাটা এই নয় যে আলিম বাড়তি কোনো রং দেখতে পান। কথা হলো, অনভ্যস্ত চোখ যেখানে শুধু পার্থক্য দেখে, সেখানে নকশা দেখতে পারাটা শিখে নিতে হয়।"
           },
           {
             "en": "Earlier in the same surah, 30:7 has already described the other kind of seeing: they know what is apparent of the worldly life, and of the Hereafter they are unaware. Surah ar-Rum has therefore set up two ways of knowing long before it reaches the signs, and this verse is addressed to the second. The same data is in front of both men. Only one of them is reading it.",
-            "bn": "একই সূরার আগের দিকে, 30:7 আয়াত অন্য ধরনের দেখাটির বর্ণনা আগেই দিয়ে রেখেছে: তারা দুনিয়ার জীবনের বাহ্যিক দিকটুকু জানে, আর আখিরাত সম্পর্কে তারা উদাসীন। অর্থাৎ সূরা আর-রূম নিদর্শনগুলোতে পৌঁছানোর অনেক আগেই দুই ধরনের জানাকে দাঁড় করিয়ে দিয়েছে, আর এই আয়াতটি দ্বিতীয়টির উদ্দেশে। দুজনের সামনেই একই উপাত্ত। তাদের একজনই কেবল সেটি পড়ছে।"
+            "bn": "এই সূরার শুরুর দিকেই ৩০:৭ আয়াত অন্য ধরনের দেখার কথা বলে রেখেছে: তারা দুনিয়ার জীবনের বাইরের দিকটুকুই জানে, আর আখিরাত সম্পর্কে তারা গাফিল। অর্থাৎ নিদর্শনগুলোর কথায় আসার অনেক আগেই সূরা আর-রূম দুই রকম জানার কথা তুলে রেখেছে, আর এই আয়াতের কথা দ্বিতীয় রকম জানার মানুষদের উদ্দেশে। দুজনের সামনেই একই জিনিস। পড়তে পারছে কেবল একজন।"
           }
         ]
       },
       {
         "h": {
           "en": "What It Rules Out",
-          "bn": "এটি কী বাতিল করে দেয়"
+          "bn": "আয়াতটি যা নাকচ করে"
         },
         "p": [
           {
             "en": "49:13 supplies the practical half. There mankind is told it was made into peoples and tribes so that they might know one another, and that the noblest in the sight of Allah is the one with the most taqwa. Put the two verses together and the position is complete: difference exists for acquaintance, and rank runs on God-consciousness alone. Neither verse asks anyone to pretend the differences are not there.",
-            "bn": "49:13 আয়াত ব্যবহারিক অর্ধেকটা জোগায়। সেখানে মানুষকে বলা হয়েছে, তাদের বিভিন্ন জাতি ও গোত্রে ভাগ করা হয়েছে যাতে তারা পরস্পরকে চিনতে পারে, আর আল্লাহর কাছে সবচেয়ে সম্মানিত সে-ই যার তাকওয়া সবচেয়ে বেশি। দুটি আয়াত একসঙ্গে রাখলে অবস্থানটি সম্পূর্ণ হয়: পার্থক্য আছে পরিচয়ের জন্য, আর মর্যাদা চলে কেবল আল্লাহভীতির ওপর। কোনো আয়াতই কাউকে বলছে না যে পার্থক্যগুলো নেই বলে ভান করতে হবে।"
+            "bn": "৪৯:১৩ আয়াত বাকি অর্ধেক, অর্থাৎ বাস্তব জীবনের দিকটা জুগিয়ে দেয়। সেখানে মানুষকে জানানো হয়েছে, তাদের নানা জাতি ও গোত্রে ভাগ করা হয়েছে যাতে তারা একে অন্যকে চিনতে পারে; আর আল্লাহর কাছে সবচেয়ে সম্মানিত সে-ই, যার তাকওয়া সবচেয়ে বেশি। দুটো আয়াত মিলিয়ে পড়লে পুরো অবস্থানটা পরিষ্কার হয়: পার্থক্য আছে পরিচয়ের জন্য, আর মর্যাদা নির্ভর করে কেবল তাকওয়ার উপর। কোনো আয়াতই কাউকে বলে না, পার্থক্যগুলো নেই বলে ভান করুন।"
           },
           {
             "en": "What follows is uncomfortable and simple. To sneer at an accent, a language or a complexion is to sneer at something the Quran has just called a sign of Allah. That makes prejudice a failure of tawhid before it is a failure of manners. And the correction the verse offers is not a slogan but an exercise: the next unfamiliar voice you hear was placed in a list beside the creation of the heavens and the earth.",
-            "bn": "এর পরের কথাটি অস্বস্তিকর এবং সরল। কোনো উচ্চারণ, কোনো ভাষা বা কোনো গায়ের রং নিয়ে বিদ্রূপ করা মানে এমন কিছু নিয়ে বিদ্রূপ করা যাকে কুরআন এইমাত্র আল্লাহর নিদর্শন বলল। এতে বর্ণবিদ্বেষ শিষ্টাচারের ত্রুটি হওয়ার আগে তাওহীদের ত্রুটি হয়ে দাঁড়ায়। আর আয়াতটি যে সংশোধন দেয় তা কোনো স্লোগান নয়, একটি অনুশীলন: পরের যে অচেনা কণ্ঠটি আপনি শুনবেন, তাকে আসমান ও যমীনের সৃষ্টির পাশে একই তালিকায় বসানো হয়েছে।"
+            "bn": "এর পরের কথাটা অস্বস্তির, কিন্তু সোজা। কারও উচ্চারণ, ভাষা বা গায়ের রং নিয়ে ঠাট্টা করা মানে এমন জিনিস নিয়ে ঠাট্টা করা, যাকে কুরআন এইমাত্র আল্লাহর নিদর্শন বলেছে। তাই এ ধরনের বিদ্বেষ আদব-কায়দার ত্রুটি হওয়ার আগে তাওহীদের ত্রুটি। আর আয়াতটি যে সংশোধন দেয় তা কোনো স্লোগান নয়, একটা অনুশীলন: এরপর যে অচেনা কণ্ঠ আপনি শুনবেন, সেটিকে আসমান ও যমীনের সৃষ্টির পাশে একই তালিকায় রাখা হয়েছে।"
           }
         ]
       }
@@ -652,7 +652,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Born Muslim, or Born Able?",
-          "bn": "মুসলিম হয়ে, নাকি সক্ষম হয়ে"
+          "bn": "মুসলিম হয়ে জন্ম, নাকি সামর্থ্য নিয়ে?"
         },
         "p": [
           {
@@ -677,11 +677,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Every reading above leans on one hadith, which Abu Hurayrah used to recite this very verse after. In Muslim's wording: There is none born but is created to his true nature; it is his parents who make him a Jew or a Christian or a Magian, quite as beasts produce their young with their limbs perfect. Do you see anything deficient in them? The report is recorded in Sahih Muslim, and al-Bukhari records it too, so it carries the soundest grade the two Sahih collections give. After it, Abu Hurayrah would read, the fitrah of Allah upon which He created mankind.",
-            "bn": "উপরের প্রতিটি পাঠ একটি হাদীসের উপর ভর করে, যে হাদীসের পরেই আবু হুরায়রা (রাঃ) এই আয়াতটি তিলাওয়াত করতেন। মুসলিমের শব্দে: প্রত্যেক নবজাতকই জন্মায় তার প্রকৃত স্বভাবের উপর; তারপর বাবা-মা তাকে ইহুদি, খ্রিষ্টান বা অগ্নিপূজক বানায়, ঠিক যেমন পশু জন্ম দেয় পূর্ণাঙ্গ অঙ্গবিশিষ্ট শাবক। তোমরা কি তাদের মধ্যে কোনো খুঁত দেখো? বর্ণনাটি সহীহ মুসলিমে আছে, আর বুখারীও এটি এনেছেন। তাই এটি দুই সহীহ গ্রন্থের দেওয়া সর্বোচ্চ মানের গ্রেড বহন করে। এর পরেই আবু হুরায়রা (রাঃ) পড়তেন, আল্লাহর সেই ফিতরাত, যার উপর তিনি মানুষকে সৃষ্টি করেছেন।"
+            "bn": "উপরের প্রতিটি পাঠ একটি হাদিসের উপর ভর করে, যে হাদিসের পরেই আবু হুরায়রা (রাঃ) এই আয়াতটি তিলাওয়াত করতেন। মুসলিমের শব্দে: প্রত্যেক নবজাতকই জন্মায় তার প্রকৃত স্বভাবের উপর; তারপর বাবা-মা তাকে ইহুদি, খ্রিষ্টান বা অগ্নিপূজক বানায়, ঠিক যেমন পশু জন্ম দেয় পূর্ণাঙ্গ অঙ্গবিশিষ্ট শাবক। তোমরা কি তাদের মধ্যে কোনো খুঁত দেখো? বর্ণনাটি সহীহ মুসলিমে আছে, বুখারীও এটি এনেছেন। তাই দুই সহীহ গ্রন্থের বিচারে এটি সবচেয়ে মজবুত মানের হাদিস। এর পরেই আবু হুরায়রা (রাঃ) পড়তেন, আল্লাহর সেই ফিতরাত, যার উপর তিনি মানুষকে সৃষ্টি করেছেন।"
           },
           {
             "en": "The image is exact. A herd animal is born whole, and if you later find one with a cropped ear or cut nose, that mutilation was done to it; it did not come that way. So with the newborn human: whole at the start, marked afterward. In the same narration someone asks about a child who dies before any of this, and the answer is left with God: Allah knows best what they would have done. The hadith gives the starting point and refuses to settle the rest, a lesson in where human knowledge stops.",
-            "bn": "উপমাটা নিখুঁত। পালের পশু জন্মায় অক্ষত হয়ে। পরে যদি কোনোটিকে কাটা কান বা কাটা নাক নিয়ে দেখো, সেই খুঁত তাকে করা হয়েছে; সে ওভাবে আসেনি। মানবশিশুর বেলায়ও তাই: শুরুতে অক্ষত, পরে দাগ লাগানো। একই বর্ণনায় কেউ জিজ্ঞেস করে, যে শিশু এসবের আগেই মারা যায় তার কী হবে? জবাবটা আল্লাহর হাতেই ছেড়ে দেওয়া হয়: তারা কী করত, আল্লাহই ভালো জানেন। হাদীস সূচনাবিন্দুটা বলে দেয়, আর বাকিটা মীমাংসা করতে অস্বীকার করে। এটাই একটা শিক্ষা, মানুষের জ্ঞান কোথায় গিয়ে থামে।"
+            "bn": "উপমাটা নিখুঁত। পালের পশু জন্মায় অক্ষত হয়ে। পরে যদি কোনোটার কান কাটা বা নাক কাটা দেখেন, বুঝবেন ওটা পরে কেউ করেছে; সে ওভাবে জন্মায়নি। মানবশিশুর বেলায়ও তাই: শুরুতে অক্ষত, দাগ পড়ে পরে। একই বর্ণনায় কেউ জিজ্ঞেস করে, যে শিশু এসবের আগেই মারা যায় তার কী হবে? জবাবটা আল্লাহর হাতেই ছেড়ে দেওয়া হয়: তারা কী করত, আল্লাহই ভালো জানেন। হাদিসটি শুরুর অবস্থাটা জানিয়ে দেয়, বাকিটার ফয়সালা করে না। এখানেই শিক্ষা: মানুষের জ্ঞান কোথায় গিয়ে থেমে যায়।"
           },
           {
             "en": "Ibn Kathir gathers alongside it a hadith in which Allah says, I created My servants inclined to truth, then the devils turned them from their religion. Together they draw the same map: the leaning is placed first, the turning away comes after, from outside. Neither report makes the newborn a finished believer later unmade. They call the starting point sound and locate the damage in what the world does to it. So the verse calls the fitrah fixed while the hadith speaks of parents who change the child, with no collision.",
@@ -697,7 +697,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "La tabdila li-khalqi'Llah, no change in the creation of Allah, is read two ways, and both are worth holding. The first takes it as a statement with the force of a command. Ibn Kathir reports it as, do not change the creation of Allah, do not turn people away from the fitrah He set in them, and compares it to and whoever enters it is safe; he calls this a good and sound meaning. At-Tabari reads the clause as, there is no altering the religion of Allah, that is, it should not be done.",
-            "bn": "'লা তাবদীলা লিখালকিল্লাহ', আল্লাহর সৃষ্টিতে কোনো পরিবর্তন নেই, এর দুটি পাঠ আছে, আর দুটোই ধরে রাখার মতো। প্রথমটি একে বিবৃতি হিসেবে নেয়, যে বিবৃতি হুকুমের জোর বহন করে। ইবন কাসীর একে আনেন এভাবে: আল্লাহর সৃষ্টিকে বদলিয়ো না, অর্থাৎ তিনি মানুষের ভেতরে যে ফিতরাত রেখেছেন তা থেকে তাদের সরিয়ো না। তিনি একে মেলান 'আর যে তাতে প্রবেশ করে সে নিরাপদ' আয়াতের সঙ্গে, যা বিবৃতি হয়েও নির্দেশের কাজ করে। ইবন কাসীর একে বলেন ভালো ও সহীহ অর্থ। তাবারী বাক্যটি পড়েন এভাবে: আল্লাহর দ্বীনে কোনো রদবদল নেই, অর্থাৎ তা করা ঠিক নয় আর করা উচিত নয়।"
+            "bn": "'লা তাবদীলা লিখালকিল্লাহ', আল্লাহর সৃষ্টিতে কোনো পরিবর্তন নেই, এর দুটি পাঠ আছে, আর দুটোই ধরে রাখার মতো। প্রথমটি একে বিবৃতি হিসেবে নেয়, যে বিবৃতি হুকুমের জোর বহন করে। ইবন কাসীর একে আনেন এভাবে: আল্লাহর সৃষ্টিকে বদলিয়ো না, অর্থাৎ তিনি মানুষের ভেতরে যে ফিতরাত রেখেছেন তা থেকে তাদের সরিয়ো না। তিনি একে মেলান 'আর যে তাতে প্রবেশ করে সে নিরাপদ' আয়াতের সঙ্গে, যা বিবৃতি হয়েও নির্দেশের কাজ করে। ইবন কাসীর একে বলেন ভালো ও সহীহ অর্থ। তাবারী বাক্যটি পড়েন এভাবে: আল্লাহর দ্বীনে কোনো রদবদল নেই, অর্থাৎ তা করা চলবে না।"
           },
           {
             "en": "The second reading keeps it a plain statement. Ibn Kathir reports others who take the clause as it stands: Allah made all His creation equal in the upright fitrah, no one is born but upon it, and there is no disparity among people; the fitrah is fixed, nothing from the Creator's side alters it. Al-Qurtubi echoes this, that this fitrah admits no changing from the Maker's side. The difference is real and old. The article names both sides and takes neither; the verse has borne the weight of both.",
@@ -717,14 +717,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This reading is the smallest of the three, and those who carry it carry it as one view among several, not the verse's whole burden. But it widens the clause usefully. Whether creation means the religion set in the heart or the body given to the animal, both readings land on the same instinct: what Allah made, as He made it, is not ours to disfigure at will. The fitrah reading guards the soul from being bent; the castration reading guards the creature from being cut. The verse is large enough to say both.",
-            "bn": "এই পাঠ তিনটির মধ্যে সবচেয়ে ছোট, আর যে তাফসীরকারেরা এটি বহন করেন, তাঁরা একে বহন করেন কয়েকটি মতের একটি হিসেবে, আয়াতের গোটা ভার হিসেবে নয়। তবু এটি বাক্যটিকে একটা কাজের দিকে প্রসারিত করে। 'সৃষ্টি' বলতে অন্তরে বসানো দ্বীন হোক বা পশুকে দেওয়া দেহ হোক, দুই পাঠই একই বোধে এসে নামে: আল্লাহ যা যেভাবে বানিয়েছেন, ইচ্ছেমতো তা বিকৃত করার মালিক আমরা নই। ফিতরাতের পাঠ আত্মাকে বেঁকে যাওয়া থেকে বাঁচায়; খোজার পাঠ প্রাণীকে কাটা পড়া থেকে বাঁচায়। আয়াত যথেষ্ট প্রশস্ত, দুটোই বলার মতো।"
+            "bn": "এই পাঠ তিনটির মধ্যে সবচেয়ে ছোট, আর যে তাফসীরকারেরা এটি বহন করেন, তাঁরা একে বহন করেন কয়েকটি মতের একটি হিসেবে, আয়াতের গোটা ভার হিসেবে নয়। তবু এ পাঠের একটা লাভ আছে: বাক্যটির পরিসর এতে বেড়ে যায়। 'সৃষ্টি' বলতে অন্তরে বসানো দ্বীন হোক বা পশুকে দেওয়া দেহ হোক, দুই পাঠই একই বোধে এসে নামে: আল্লাহ যা যেভাবে বানিয়েছেন, ইচ্ছেমতো তা বিকৃত করার মালিক আমরা নই। ফিতরাতের পাঠ আত্মাকে বেঁকে যাওয়া থেকে বাঁচায়; খোজার পাঠ প্রাণীকে কাটা পড়া থেকে বাঁচায়। আয়াত যথেষ্ট প্রশস্ত, দুটোই বলার মতো।"
           }
         ]
       },
       {
         "h": {
           "en": "The Standing Religion",
-          "bn": "যে দ্বীন সোজা দাঁড়ানো"
+          "bn": "সুপ্রতিষ্ঠিত দ্বীন"
         },
         "p": [
           {
@@ -733,7 +733,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari preserves a scene that fastens this down. Umar passed Mu'adh ibn Jabal and asked, what holds this community up? Mu'adh answered, three things that bring salvation: sincerity, which is the fitrah; prayer, which is the way; and obedience, which is the safeguard. Umar said, you have spoken the truth. The upright religion, on this telling, is no abstraction. It is the fitrah awakened, turned into worship, held in place by obedience, exactly the arc the verse traces from the face that is set to the nature it is set toward.",
-            "bn": "তাবারী এমন একটা দৃশ্য ধরে রাখেন, যা পুরো কথাটাকে গেঁথে দেয়। উমর (রাঃ) মুআয ইবন জাবাল (রাঃ)-এর পাশ দিয়ে যাওয়ার সময় জিজ্ঞেস করেন, এই উম্মতকে দাঁড় করিয়ে রাখে কী? মুআয (রাঃ) জবাব দেন, তিনটি জিনিস, আর এগুলোই মুক্তি আনে: ইখলাস, যা হলো ফিতরাত; সালাত, যা হলো পথ; আর আনুগত্য, যা হলো রক্ষাকবচ। উমর (রাঃ) বলেন, তুমি সত্য বলেছ। এই বর্ণনায় সুপ্রতিষ্ঠিত দ্বীন কোনো বিমূর্ত ধারণা নয়। এ হলো জেগে ওঠা ফিতরাত, যা ইবাদতে রূপ নিয়েছে আর আনুগত্যে স্থির হয়ে আছে। ঠিক সেই পথরেখা, যা আয়াত আঁকে, স্থির করা মুখ থেকে শুরু করে যে স্বভাবের দিকে তা স্থির করা।"
+            "bn": "তাবারী এমন একটা দৃশ্য ধরে রাখেন, যা পুরো কথাটাকে গেঁথে দেয়। উমর (রাঃ) মুআয ইবন জাবাল (রাঃ)-এর পাশ দিয়ে যাওয়ার সময় জিজ্ঞেস করেন, এই উম্মতকে দাঁড় করিয়ে রাখে কী? মুআয (রাঃ) জবাব দেন, তিনটি জিনিস, আর এগুলোই মুক্তি আনে: ইখলাস, যা হলো ফিতরাত; সালাত, যা হলো পথ; আর আনুগত্য, যা হলো রক্ষাকবচ। উমর (রাঃ) বলেন, তুমি সত্য বলেছ। এই বর্ণনায় সুপ্রতিষ্ঠিত দ্বীন কোনো বিমূর্ত ধারণা নয়। এ হলো জেগে ওঠা ফিতরাত, যা ইবাদতে রূপ নিয়েছে আর আনুগত্যে স্থির হয়ে আছে। আয়াতও ঠিক এই পথটাই আঁকে: মুখ স্থির করা থেকে শুরু করে, যে স্বভাবের দিকে মুখ স্থির করা হলো সেই পর্যন্ত।"
           }
         ]
       },
@@ -749,7 +749,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di closes the circle: such people never come to recognize the upright religion, and even those who recognize it do not walk it. That is the verse's quiet severity. The nature is in everyone; the knowing is rare. A thing can be carried a whole life and never noticed. So the command at the start of the verse and the sorrow at its end meet in the same task: not to acquire a foreign thing, but to clear away whatever has been laid over what you were already given, until you know what you have been carrying.",
-            "bn": "সাদী বৃত্তটা পূর্ণ করেন: এমন মানুষ কখনো সুপ্রতিষ্ঠিত দ্বীনকে চিনে ওঠে না, আর যারা চেনে তারাও সে পথে চলে না। এটাই আয়াতের নীরব কঠোরতা। স্বভাবটা প্রত্যেকের ভেতরেই আছে; চেনাটাই দুর্লভ। কোনো জিনিস সারাজীবন বয়ে বেড়ানো যায়, অথচ একবারও টের পাওয়া যায় না। তাই আয়াতের শুরুর হুকুম আর শেষের আক্ষেপ এক কাজে এসে মেলে: বাইরের কিছু অর্জন করা নয়, বরং আগে থেকেই পাওয়া জিনিসটার উপর যা জমেছে তা সরিয়ে ফেলা, যতক্ষণ না টের পাও কী বয়ে বেড়াচ্ছ।"
+            "bn": "সাদী বৃত্তটা পূর্ণ করেন: এমন মানুষ কখনো সুপ্রতিষ্ঠিত দ্বীনকে চিনে ওঠে না, আর যারা চেনে তারাও সে পথে চলে না। এটাই আয়াতের নীরব কঠোরতা। স্বভাবটা প্রত্যেকের ভেতরেই আছে; চেনাটাই দুর্লভ। কোনো জিনিস সারাজীবন বয়ে বেড়ানো যায়, অথচ একবারও টের পাওয়া যায় না। তাই আয়াতের শুরুর হুকুম আর শেষের আক্ষেপ এক কাজে এসে মেলে: বাইরের কিছু অর্জন করা নয়, বরং আগে থেকেই পাওয়া জিনিসটার উপর যা জমেছে তা সরিয়ে ফেলা, যতক্ষণ না আপনি টের পান কী বয়ে বেড়াচ্ছেন।"
           }
         ]
       }
@@ -765,7 +765,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah ar-Rum is Makkan, and the verses just before this one gather the believer toward one thing. Set your face to the religion as a ḥanīf, 30:30 says, the fiṭrah of Allah upon which He made people; that is the upright religion. Then 30:31 presses it home: turning to Him in repentance, fear Him, establish prayer, and do not be of those who associate partners with Allah. Our verse completes that last clause by naming what those people are, those who split their religion and became sects, every faction rejoicing in what it has.",
-            "bn": "সূরা আর-রূম মাক্কী, আর এর ঠিক আগের আয়াতগুলো মুমিনকে একটি জিনিসের দিকে টেনে আনে। ৩০:৩০ আয়াত বলছে, একনিষ্ঠভাবে দ্বীনের দিকে তোমার মুখ ফেরাও, এটাই আল্লাহর সেই ফিতরাত যার উপর তিনি মানুষকে সৃষ্টি করেছেন, এটাই সুপ্রতিষ্ঠিত দ্বীন। এরপর ৩০:৩১ আয়াত কথাটা আরও চেপে ধরে। তাঁর অভিমুখী হও, তাঁকে ভয় করো, নামায কায়েম করো, আর মুশরিকদের অন্তর্ভুক্ত হয়ো না। আমাদের আয়াত সেই শেষ কথাটাই পূর্ণ করে, এই মুশরিকরা কারা তা বলে দিয়ে, যারা নিজেদের দ্বীনকে ভেঙে ফেলেছে আর বিভিন্ন দলে ভাগ হয়ে গেছে, প্রত্যেক দল নিজেদের কাছে যা আছে তাই নিয়ে উল্লসিত।"
+            "bn": "সূরা আর-রূম মক্কী, আর এর ঠিক আগের আয়াতগুলো মুমিনকে একটি জিনিসের দিকে টেনে আনে। ৩০:৩০ আয়াত বলছে, একনিষ্ঠভাবে দ্বীনের দিকে তোমার মুখ ফেরাও, এটাই আল্লাহর সেই ফিতরাত যার উপর তিনি মানুষকে সৃষ্টি করেছেন, এটাই সুপ্রতিষ্ঠিত দ্বীন। এরপর ৩০:৩১ আয়াত কথাটা আরও জোর দিয়ে বলে: তওবা করে তাঁর দিকে ফেরো, তাঁকে ভয় করো, নামাজ কায়েম করো, আর মুশরিকদের অন্তর্ভুক্ত হয়ো না। আমাদের আয়াত সেই শেষ কথাটাই পূর্ণ করে, এই মুশরিকরা কারা তা বলে দিয়ে: যারা নিজেদের দ্বীনকে ভেঙে ফেলেছে আর বিভিন্ন দলে ভাগ হয়ে গেছে, প্রত্যেক দল নিজেদের কাছে যা আছে তাই নিয়ে উল্লসিত।"
           },
           {
             "en": "The commentators note two ways to read the join. at-Tabari and al-Qurtubi report that al-Farrā' allowed do not be of those who associate partners to stand complete in itself, with of those who split their religion beginning a fresh, resumed sentence; it may also be read as attached to the words before it. an-Naḥḥās, quoted by al-Qurtubi, explains the connected reading grammatically as a substitution with the particle repeated. Either way the picture does not change. The passage warns against a people who fractured the one religion they had been given.",
@@ -801,15 +801,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "On the first reading the ones meant are the idolaters, taken with the preceding do not be of those who associate partners. as-Sa'di draws it out plainly. The religion is one, sincere worship of Allah alone, and these idolaters broke it apart. Some of them worship idols and images, some the sun and the moon, some the saints and the righteous, and among them are Jews and there are Christians. al-Muyassar and the abridged Ibn Kathir read the verse the same way, as a direct description of the idolaters it has just warned against.",
-            "bn": "প্রথম পাঠ অনুযায়ী উদ্দিষ্ট হলো মুশরিকরা, আগের কথা মুশরিকদের অন্তর্ভুক্ত হয়ো না-এর সঙ্গে মিলিয়ে। সাদী কথাটা খোলাসা করে বলেন। দ্বীন তো এক, কেবল আল্লাহর জন্য একনিষ্ঠ ইবাদত, আর এই মুশরিকরা সেটাকে ভেঙে ফেলেছে। তাদের কেউ মূর্তি আর প্রতিমার পূজা করে, কেউ সূর্য আর চাঁদের, কেউ আউলিয়া আর নেককারদের, আর তাদের মধ্যে কেউ ইহুদি কেউ খ্রিস্টান। মুয়াসসার আর সংক্ষিপ্ত ইবন কাসীরও আয়াতটি একইভাবে পড়েন, একটু আগেই যে মুশরিকদের বিরুদ্ধে সতর্ক করা হলো তাদেরই সরাসরি বর্ণনা হিসেবে।"
+            "bn": "প্রথম পাঠে এখানে মুশরিকদের কথাই বলা হচ্ছে; আগের বাক্য 'মুশরিকদের অন্তর্ভুক্ত হয়ো না'-এর সঙ্গে মিলিয়ে পড়লে তা-ই দাঁড়ায়। সাদী কথাটা খোলাসা করে বলেন। দ্বীন তো এক, কেবল আল্লাহর জন্য একনিষ্ঠ ইবাদত, আর এই মুশরিকরা সেটাকে ভেঙে ফেলেছে। তাদের কেউ মূর্তি আর প্রতিমার পূজা করে, কেউ সূর্য আর চাঁদের, কেউ আউলিয়া আর নেককারদের, আর তাদের মধ্যে কেউ ইহুদি কেউ খ্রিস্টান। মুয়াসসার আর সংক্ষিপ্ত ইবন কাসীরও আয়াতটি একইভাবে পড়েন: একটু আগেই যে মুশরিকদের ব্যাপারে আয়াত সতর্ক করল, এ তাদেরই সরাসরি বর্ণনা।"
           },
           {
             "en": "A second reading names the People of the Book. at-Tabari reports from Qatada, and again from Ibn Zayd, that those who split their religion and became sects are the Jews and the Christians. al-Baghawi says the same, they became differing factions, and they are the Jews and the Christians. al-Qurtubi adds ar-Rabi' ibn Anas, with Qatada and Ma'mar, for this view. On this reading the verse looks back at the communities before Islam, who received one revelation and then fell into rival parties over it.",
-            "bn": "দ্বিতীয় একটি পাঠ উদ্দিষ্ট ধরে আহলে কিতাবকে। তাবারী কাতাদা থেকে, আবার ইবন যায়দ থেকে বর্ণনা করেন যে, যারা নিজেদের দ্বীনকে ভেঙেছে আর দলে ভাগ হয়েছে তারা ইহুদি আর খ্রিস্টান। বাগাভীও একই কথা বলেন, তারা ভিন্ন ভিন্ন দলে পরিণত হয়েছে, আর তারা ইহুদি আর খ্রিস্টান। কুরতুবী এই মতের জন্য রাবী ইবন আনাস, সেই সঙ্গে কাতাদা আর মামারকে যোগ করেন। এই পাঠে আয়াত ফিরে তাকায় ইসলামের আগের জাতিগুলোর দিকে, যারা এক ওহী পেয়েছিল আর তারপর তা নিয়ে প্রতিদ্বন্দ্বী দলে ভেঙে পড়েছিল।"
+            "bn": "দ্বিতীয় পাঠে এখানে আহলে কিতাবের কথা বলা হচ্ছে। তাবারী কাতাদা থেকে, আবার ইবন যায়দ থেকে বর্ণনা করেন যে, যারা নিজেদের দ্বীনকে ভেঙেছে আর দলে ভাগ হয়েছে তারা ইহুদি আর খ্রিস্টান। বাগাভীও একই কথা বলেন: তারা ভিন্ন ভিন্ন দলে পরিণত হয়েছে, আর তারা ইহুদি আর খ্রিস্টান। কুরতুবী এই মতের পক্ষে কাতাদা আর মামারের সঙ্গে রাবী ইবন আনাসের নামও যোগ করেন। এই পাঠে আয়াত ফিরে তাকায় ইসলামের আগের জাতিগুলোর দিকে, যারা একই ওহি পেয়েছিল, তারপর তা নিয়েই প্রতিদ্বন্দ্বী দলে ভাগ হয়ে গিয়েছিল।"
           },
           {
             "en": "A third reading turns the verse toward the people of the qibla. al-Qurtubi reports that Abu Hurayra, 'A'isha and Abu Umama (RA) understood it of the people of the qibla, the people of desires and innovations. al-Baghawi carries this as a second possibility, it is said they are the people of innovation of this community. The commentators thus range across a wide field, from idolaters plainly outside the faith to a caution aimed within it. The verse is reported here as the mufassirūn report it, as a span of readings, without settling which is meant.",
-            "bn": "তৃতীয় একটি পাঠ আয়াতটিকে ফেরায় আহলে কিবলার দিকে। কুরতুবী জানান, আবু হুরায়রা, আয়েশা আর আবু উমামা (রাঃ) এটিকে বুঝেছেন আহলে কিবলা সম্পর্কে, অর্থাৎ খেয়াল-খুশি আর বিদআতে লিপ্ত লোকদের সম্পর্কে। বাগাভী এটিকে দ্বিতীয় সম্ভাবনা হিসেবে আনেন, বলা হয় তারা এই উম্মতের বিদআতপন্থী লোক। তাই তাফসীরকারদের মত ছড়িয়ে আছে একটি বিস্তৃত মাঠজুড়ে, দ্বীনের সুস্পষ্ট বাইরের মুশরিক থেকে শুরু করে দ্বীনের ভেতরের দিকে তাক করা সতর্কতা পর্যন্ত। মুফাসসিরগণ যেভাবে বর্ণনা করেন আয়াতটি এখানে সেভাবেই ধরা হলো, পাঠের একটি পরিসর হিসেবে, কোনটি উদ্দিষ্ট তা স্থির না করে।"
+            "bn": "তৃতীয় পাঠ আয়াতটিকে আহলে কিবলার দিকে ফেরায়। কুরতুবী জানান, আবু হুরায়রা, আয়েশা আর আবু উমামা (রাঃ) এটিকে বুঝেছেন আহলে কিবলা সম্পর্কে, অর্থাৎ খেয়াল-খুশি আর বিদআতে লিপ্ত লোকদের সম্পর্কে। বাগাভী এটিকে দ্বিতীয় সম্ভাবনা হিসেবে আনেন: বলা হয়, তারা এই উম্মতের বিদআতপন্থী লোক। তাহলে তাফসীরকারদের মত অনেক দূর পর্যন্ত ছড়ানো: এক প্রান্তে দ্বীনের স্পষ্টত বাইরের মুশরিক, অন্য প্রান্তে দ্বীনের ভেতরের মানুষের জন্য সতর্কবাণী। মুফাসসিরগণ যেভাবে বর্ণনা করেছেন, আয়াতটি এখানে সেভাবেই রাখা হলো: কয়েকটি পাঠ পাশাপাশি, কোনটি উদ্দিষ্ট তার ফয়সালা না করে।"
           }
         ]
       },
@@ -821,7 +821,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The word shiyaʿan carries the picture. Ma'arif al-Qur'an explains that it is the plural of shīʿah, and a shīʿah is a group of people who follow a leader. al-Qurtubi collects the other glosses, al-Kalbī reads shiyaʿan as firaq, factions, and Muqātil reads it as adyān, religions, so that each party ends up with something like a creed of its own. The one religion does not merely crack; it multiplies into rival bodies, each with a head to follow and a banner to gather under.",
-            "bn": "শিয়াআন শব্দটিই ছবিটা বয়ে আনে। মাআরিফুল কুরআন ব্যাখ্যা করে, এটি শীআ-র বহুবচন, আর শীআ মানে কোনো নেতার অনুসরণকারী একদল মানুষ। কুরতুবী বাকি ব্যাখ্যাগুলো জড়ো করেন, কালবী শিয়াআন পড়েন ফিরাক অর্থে, অর্থাৎ দল, আর মুকাতিল পড়েন আদইয়ান অর্থে, অর্থাৎ ধর্ম, যেন প্রত্যেক দলের শেষে নিজের মতো একটা আলাদা মতবাদ দাঁড়িয়ে যায়। এক দ্বীন কেবল ফাটে না, বরং প্রতিদ্বন্দ্বী সংগঠনে ছড়িয়ে পড়ে, প্রত্যেকটির জন্য আছে অনুসরণের একজন নেতা আর জড়ো হওয়ার একটা ঝান্ডা।"
+            "bn": "শিয়াআন শব্দটিই ছবিটা বয়ে আনে। মাআরিফুল কুরআন ব্যাখ্যা করে, এটি শীআ-র বহুবচন, আর শীআ মানে কোনো নেতার অনুসরণকারী একদল মানুষ। কুরতুবী বাকি ব্যাখ্যাগুলো জড়ো করেন: কালবী শিয়াআন পড়েন ফিরাক অর্থে, অর্থাৎ দল, আর মুকাতিল পড়েন আদইয়ান অর্থে, অর্থাৎ ধর্ম; যেন শেষ পর্যন্ত প্রত্যেক দলের নিজের মতো একটা আলাদা মতবাদ দাঁড়িয়ে যায়। এক দ্বীন কেবল ফেটে যায় না, ভেঙে ভেঙে অনেকগুলো প্রতিদ্বন্দ্বী দল হয়ে যায়। প্রত্যেকটার আছে মেনে চলার একজন নেতা আর জড়ো হওয়ার একটা ঝান্ডা।"
           },
           {
             "en": "The commentators then describe how such parties behave. as-Sa'di writes that each faction of shirk banded together and grew fanatical in defending the falsehood it held and in fighting everyone outside it. al-Muyassar puts it the same way, they became groups and parties, partisans for their chiefs and their factions and their opinions, each helping the other along upon falsehood. Ma'arif traces the start of it, once people left the one faith for the private views of their leaders, and views differ from person to person, the groups could only multiply.",
@@ -837,7 +837,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the closing clause, every faction rejoicing in what it has. al-Qurtubi reads fariḥūn as masrūrūn muʿjabūn, delighted and self-impressed, and gives the reason, because they never made the truth clear to themselves, though clarifying it was a duty laid on them. at-Tabari sharpens it, each party rejoices in the school it clings to, reckoning that the right is with them and with no one else. The gladness is not innocent pleasure in the truth; it is satisfaction in a portion, mistaken for the whole.",
-            "bn": "তারপর শেষ কথাটা, প্রত্যেক দল নিজেদের কাছে যা আছে তাই নিয়ে উল্লসিত। কুরতুবী ফারিহূন পড়েন মাসরূরূন মুজাবূন অর্থে, আনন্দিত আর আত্মমুগ্ধ, আর কারণটাও দেন, কারণ তারা কখনো সত্যকে নিজেদের কাছে স্পষ্ট করেনি, অথচ তা স্পষ্ট করা তাদের উপর কর্তব্য ছিল। তাবারী কথাটা আরও ধারালো করেন, প্রত্যেক দল নিজের আঁকড়ে ধরা মতবাদ নিয়ে উল্লসিত, ভাবে সঠিকটা কেবল তাদের কাছেই, আর কারও কাছে নয়। এই আনন্দ সত্য পেয়ে পাওয়া নিষ্পাপ খুশি নয়, বরং একটা অংশ নিয়ে তৃপ্তি, যাকে গোটাটা ভেবে নেওয়া হয়েছে।"
+            "bn": "তারপর শেষ কথাটা: প্রত্যেক দল নিজেদের কাছে যা আছে তাই নিয়ে উল্লসিত। কুরতুবী ফারিহূন পড়েন মাসরূরূন মুজাবূন অর্থে, আনন্দিত আর আত্মমুগ্ধ। কারণটাও তিনি বলেন: তারা কখনো সত্যকে নিজেদের কাছে স্পষ্ট করেনি, অথচ তা স্পষ্ট করা তাদের উপর কর্তব্য ছিল। তাবারী কথাটা আরও ধারালো করেন: প্রত্যেক দল নিজের আঁকড়ে ধরা মতবাদ নিয়ে উল্লসিত, ভাবে সঠিকটা কেবল তাদের কাছেই, আর কারও কাছে নয়। এ খুশি সত্য পাওয়ার নির্মল আনন্দ নয়। এ হলো একটা টুকরো হাতে পেয়ে তৃপ্তি, যে টুকরোকে তারা গোটা জিনিস ভেবে বসেছে।"
           },
           {
             "en": "as-Sa'di and Ma'arif both locate the disease in this self-satisfaction. Each party judges itself to be upon the truth and the others upon falsehood; Ma'arif adds that the Shaytan made every group believe it alone walked the right path. The verse does not merely record that the splitting happened. It names the smugness as the sickness, because the gladness is what seals the person in. A party content with its corner feels no need to look again, and so the very contentment keeps it from the whole it has lost.",
@@ -857,7 +857,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What the saved group is called matters more than the counting. It is named by a description, not a roster, what the Prophet ﷺ and his Companions were upon, which the commentators read as adherence to the Book of Allah and the Sunnah and the way of the first generations. Ibn Kathir, citing al-Hakim's Mustadrak, gives the same answer to the same question. The hadith hands the hearer a standard to measure himself against. It does not hand him a licence to count other people into the Fire.",
-            "bn": "নাজাতপ্রাপ্ত দলকে কী বলা হলো, তা গোনাগুনির চেয়ে বেশি গুরুত্বপূর্ণ। একে চেনানো হয়েছে একটি বর্ণনা দিয়ে, নামের তালিকা দিয়ে নয়, যার উপর নবী ﷺ আর তাঁর সাহাবীরা ছিলেন, আর তাফসীরকারেরা এটিকে পড়েন আল্লাহর কিতাব, সুন্নাহ আর প্রথম প্রজন্মের পথ আঁকড়ে ধরা হিসেবে। ইবন কাসীর হাকিমের মুসতাদরাক উদ্ধৃত করে একই প্রশ্নের একই জবাব দেন। হাদীসটি শ্রোতার হাতে একটা মাপকাঠি তুলে দেয়, যা দিয়ে সে নিজেকে মাপবে। অন্য মানুষদের জাহান্নামে গুনে ফেলার কোনো অনুমতি এটি তার হাতে দেয় না।"
+            "bn": "নাজাতপ্রাপ্ত দলের পরিচয় কীভাবে দেওয়া হলো, সেটা সংখ্যার হিসাবের চেয়ে বেশি গুরুত্বপূর্ণ। তার পরিচয় এসেছে একটা বৈশিষ্ট্য দিয়ে, নামের তালিকা দিয়ে নয়: নবী ﷺ আর তাঁর সাহাবীরা যার উপর ছিলেন। তাফসীরকারেরা এর মানে করেন আল্লাহর কিতাব, সুন্নাহ আর প্রথম প্রজন্মের পথ আঁকড়ে থাকা। ইবন কাসীর হাকিমের মুসতাদরাক থেকে একই প্রশ্নের একই জবাব উদ্ধৃত করেন। হাদিসটি শ্রোতার হাতে একটা মাপকাঠি তুলে দেয়, যা দিয়ে সে নিজেকে মাপবে। অন্যদের গুনে গুনে জাহান্নামে পাঠানোর অনুমতি সে দেয় না।"
           }
         ]
       },
@@ -869,7 +869,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "as-Sa'di does not let the verse rest on other communities. In this, he writes, is a warning to the Muslims against their own scattering and splitting into factions, each party fanatical for the mixture of truth and falsehood it holds, so that by their division they come to resemble the very idolaters the passage warned against. His reason is the one the whole surah has been building. The religion is one, the Messenger is one, the God is one, and a single faith does not belong to rival parties that each take it as a possession.",
-            "bn": "সাদী আয়াতটিকে কেবল অন্য জাতির উপর ছেড়ে রাখেন না। তিনি লেখেন, এতে মুসলমানদের জন্য সতর্কতা আছে তাদের নিজেদের ছত্রভঙ্গ হওয়া আর দলে দলে ভাগ হওয়া থেকে, যেখানে প্রত্যেক দল নিজের ধরে রাখা হক আর বাতিলের মিশ্রণের পক্ষে গোঁড়া হয়ে ওঠে, ফলে এই ভাগাভাগিতে তারা সেই মুশরিকদেরই মতো হয়ে যায় যাদের বিরুদ্ধে আয়াত সতর্ক করেছিল। তাঁর যুক্তিটা গোটা সূরা যা গড়ে তুলছিল তা-ই। দ্বীন তো একটাই, রাসূল একজনই, ইলাহ একজনই, আর এক ঈমান প্রতিদ্বন্দ্বী দলের সম্পত্তি নয় যে যার যার ভাগটুকু নিজের করে নেবে।"
+            "bn": "সাদী আয়াতটিকে কেবল অন্য জাতির উপর ছেড়ে রাখেন না। তিনি লেখেন, এতে মুসলমানদের জন্য সতর্কবাণী আছে: তারা যেন নিজেরা ছত্রভঙ্গ হয়ে দলে দলে ভাগ না হয়, যেখানে প্রত্যেক দল নিজের হাতের হক-বাতিলের মিশ্রণ নিয়ে গোঁড়ামি করে। নইলে এই ভাগাভাগির কারণে তারা সেই মুশরিকদেরই মতো হয়ে যাবে, যাদের ব্যাপারে আয়াত সতর্ক করেছিল। তাঁর যুক্তি সেটাই, যা গোটা সূরা ধরে গড়ে উঠছিল। দ্বীন তো একটাই, রাসূল একজনই, ইলাহ একজনই, আর এক ঈমান প্রতিদ্বন্দ্বী দলের সম্পত্তি নয় যে যার যার ভাগটুকু নিজের করে নেবে।"
           },
           {
             "en": "He then weighs what the quarrelling throws away. Most religious matters, as-Sa'di notes, are agreed upon among the scholars and the imams, and the brotherhood of faith is a bond Allah Himself has tied in the firmest knot. Why then let all of that be cancelled, and division built instead upon hidden questions or branch disagreements, by which some declare others astray? He calls this among the greatest of Shaytan's provocations against the Muslims, and he calls working to gather their word and heal the discord among the best of striving in the path of Allah.",
@@ -905,11 +905,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens with a verb, not a noun: zahara al-fasad, the corruption appeared. Zahara means to become visible, to come out into the open. The word does not say that the damage began at some point; it says it surfaced, which implies that it was being made before anyone could see it. That single verb sets the tone of the whole sentence, because what has surfaced can be read, and reading it is what the verse is about to ask for.",
-            "bn": "আয়াতটি শুরু হয় একটি ক্রিয়াপদ দিয়ে, বিশেষ্য দিয়ে নয়: যাহারাল ফাসাদ — বিপর্যয় দেখা দিয়েছে। 'যাহারা' মানে দৃশ্যমান হওয়া, খোলাখুলি প্রকাশ পাওয়া। শব্দটি বলে না যে ক্ষতিটি কোনো এক সময়ে শুরু হয়েছে; বলে যে তা ভেসে উঠেছে — যা ইঙ্গিত দেয়, কেউ দেখতে পাওয়ার আগেই তা তৈরি হচ্ছিল। এই একটি ক্রিয়াপদই গোটা বাক্যের সুর বেঁধে দেয়, কারণ যা ভেসে উঠেছে তা পড়া যায়, আর সেই পড়াটাই আয়াতটি এখন দাবি করতে যাচ্ছে।"
+            "bn": "আয়াতটি শুরু হয় ক্রিয়াপদ দিয়ে, বিশেষ্য দিয়ে নয়: যাহারাল ফাসাদ, বিপর্যয় দেখা দিয়েছে। 'যাহারা' মানে দৃশ্যমান হওয়া, খোলাখুলি বেরিয়ে আসা। শব্দটি বলছে না যে ক্ষতি কোনো এক সময় শুরু হলো; বলছে, ক্ষতি ভেসে উঠল। তার মানে, কেউ দেখার আগে থেকেই তা তৈরি হচ্ছিল। এই একটি ক্রিয়াপদই গোটা বাক্যের সুর বেঁধে দেয়। যা ভেসে উঠেছে তা পড়া যায়, আর আয়াত একটু পরেই সেই পড়ার দাবি করবে।"
           },
           {
             "en": "Where it appeared is given as fi al-barr wa al-bahr. Ibn Kathir reports several readings of the pair from the early authorities. From Ibn Abbas (RA), Ikrimah, ad-Dahhak and as-Suddi it is transmitted that al-barr means the open, uninhabited land and al-bahr the towns and cities; a further report from Ibn Abbas (RA) and Ikrimah takes al-bahr as the towns built on riverbanks. Others read the two words in their ordinary sense of dry land and sea.",
-            "bn": "কোথায় তা দেখা দিয়েছে, তা বলা হয়েছে 'ফিল বার্রি ওয়াল বাহর' বলে। ইবনে কাসীর প্রাচীন ইমামদের কাছ থেকে এই জোড়াটির কয়েকটি পাঠ বর্ণনা করেন। ইবনে আব্বাস (রাঃ), ইকরিমা, দাহহাক ও সুদ্দী থেকে বর্ণিত যে 'বার্র' মানে খোলা, জনশূন্য ভূমি আর 'বাহর' মানে শহর-নগর; ইবনে আব্বাস (রাঃ) ও ইকরিমা থেকে আরেকটি বর্ণনায় 'বাহর' মানে নদীতীরে গড়ে ওঠা জনপদ। অন্যরা শব্দ দুটিকে তাদের সাধারণ অর্থেই পড়েন — স্থল ও সমুদ্র।"
+            "bn": "কোথায় দেখা দিয়েছে? 'ফিল বার্রি ওয়াল বাহর'। ইবনে কাসীর পূর্বসূরি আলিমদের কাছ থেকে এই জোড়ার কয়েকটি ব্যাখ্যা বর্ণনা করেন। ইবনে আব্বাস (রাঃ), ইকরিমা, দাহহাক ও সুদ্দী থেকে বর্ণিত, 'বার্র' মানে খোলা, জনমানবহীন প্রান্তর আর 'বাহর' মানে শহর-নগর। ইবনে আব্বাস (রাঃ) ও ইকরিমা থেকে আরেক বর্ণনায় 'বাহর' মানে নদীর তীরে গড়ে ওঠা জনপদ। অন্যরা শব্দ দুটিকে সাধারণ অর্থেই নিয়েছেন: স্থল আর সমুদ্র।"
           }
         ]
       },
@@ -921,11 +921,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fasad is the opposite of salah. It is the going bad of something that was sound — spoiling, ruin, a thing coming apart from the inside. 7:56 sets the two words directly against each other: do not cause corruption in the earth after its islah, its being set right, and call upon Him in fear and aspiration. The verse in Ar-Rum therefore names a state, and the state is defined against an earlier soundness rather than against an ideal.",
-            "bn": "ফাসাদ হলো সালাহ-র বিপরীত। এটি এমন কিছুর নষ্ট হয়ে যাওয়া যা আগে ঠিক ছিল — পচন, ধ্বংস, ভেতর থেকে খুলে পড়া। 7:56 আয়াত শব্দ দুটিকে সরাসরি মুখোমুখি দাঁড় করায়: যমীনে বিপর্যয় সৃষ্টি করো না তার ইসলাহ অর্থাৎ ঠিক করে দেওয়ার পর, আর তাঁকে ডাকো ভয় ও আশা নিয়ে। সুতরাং সূরা আর-রূমের এই আয়াতটি একটি অবস্থার নাম দেয়, আর সেই অবস্থাটি সংজ্ঞায়িত হয় কোনো আদর্শের বিপরীতে নয়, বরং আগেকার এক সুস্থতার বিপরীতে।"
+            "bn": "ফাসাদ হলো সালাহ-র বিপরীত। যা ভালো ছিল তা নষ্ট হয়ে যাওয়াই ফাসাদ: পচে যাওয়া, ধ্বংস হওয়া, ভেতর থেকে ভেঙে পড়া। ৭:৫৬ আয়াত শব্দ দুটিকে সরাসরি মুখোমুখি রাখে: যমীনের ইসলাহ, অর্থাৎ তাকে ঠিকঠাক করে দেওয়ার পর সেখানে বিপর্যয় সৃষ্টি করো না, আর ভয় ও আশা নিয়ে তাঁকে ডাকো। কাজেই সূরা আর-রূমের এই আয়াত একটা অবস্থার নাম বলছে, আর সেই অবস্থা মাপা হচ্ছে আগের সুস্থ অবস্থার সঙ্গে তুলনা করে, কোনো আদর্শের সঙ্গে নয়।"
           },
           {
             "en": "Ibn Kathir cites the mufassirun on what shows up on the ground. Mujahid read corruption on land as the killing of a son of Adam and corruption at sea as the seizing of ships. A reading transmitted from Zayd ibn Rafi' takes it of rain withheld, with famine following on the land and harm to the creatures of the sea. Abu al-Aliyah put the principle plainly: whoever disobeys Allah in the earth has corrupted it, because the good order of the earth and the heavens rests on obedience to Him.",
-            "bn": "মাটির উপরে কী দেখা যায়, সে বিষয়ে ইবনে কাসীর মুফাসসিরগণের বক্তব্য উদ্ধৃত করেন। মুজাহিদ স্থলের বিপর্যয়কে পড়েছেন আদম-সন্তানকে হত্যা হিসেবে, আর সমুদ্রের বিপর্যয়কে নৌযান ছিনিয়ে নেওয়া হিসেবে। যায়দ ইবনে রাফি' থেকে বর্ণিত এক পাঠে তা বৃষ্টি বন্ধ হয়ে যাওয়া — ফলে স্থলে দুর্ভিক্ষ আর সমুদ্রের প্রাণীদের ক্ষতি। আবুল আলিয়া নীতিটি স্পষ্ট করে বলেন: যে যমীনে আল্লাহর অবাধ্যতা করে সে যমীনকেই নষ্ট করে, কারণ আসমান ও যমীনের সুশৃঙ্খলা তাঁর আনুগত্যের উপরই দাঁড়িয়ে আছে।"
+            "bn": "মাটিতে এই বিপর্যয় কী চেহারায় দেখা দেয়, সে বিষয়ে ইবনে কাসীর মুফাসসিরগণের কথা উদ্ধৃত করেন। মুজাহিদের মতে স্থলের বিপর্যয় হলো আদম-সন্তানকে হত্যা, আর সমুদ্রের বিপর্যয় হলো নৌযান ছিনিয়ে নেওয়া। যায়দ ইবনে রাফি' থেকে বর্ণিত এক ব্যাখ্যায় এর মানে বৃষ্টি বন্ধ হয়ে যাওয়া; ফলে স্থলে দুর্ভিক্ষ নামে আর সমুদ্রের প্রাণীরা ক্ষতির মুখে পড়ে। আবুল আলিয়া মূলনীতিটা সোজা করে বলে দিয়েছেন: যে যমীনে আল্লাহর নাফরমানি করে, সে যমীনকেই নষ্ট করে; কারণ আসমান ও যমীনের শৃঙ্খলা টিকে আছে তাঁর আনুগত্যের উপর।"
           }
         ]
       },
@@ -937,11 +937,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Bima kasabat aydi an-nas is the causal clause, and it is the reason the verse is not merely an observation. The bi- here is the bi of cause. Kasaba is the verb of earning, the one the Quran uses for what a soul acquires and must answer for, and the earners are named as an-nas, people — not a faction of them, and not somebody else. Aydi, hands, is where deeds are actually done.",
-            "bn": "বিমা কাসাবাত আইদিন নাস — এটিই কারণ-নির্দেশক বাক্যাংশ, আর এ কারণেই আয়াতটি নিছক একটি পর্যবেক্ষণ নয়। এখানকার 'বি' হলো কারণ বোঝানোর 'বি'। 'কাসাবা' হলো উপার্জনের ক্রিয়াপদ — কুরআন যা ব্যবহার করে একটি প্রাণ যা অর্জন করে ও যার জবাব দিতে হয় তার জন্য; আর উপার্জনকারীদের নাম দেওয়া হয়েছে 'আন-নাস', মানুষ — তাদের কোনো একটি দল নয়, এবং অন্য কেউও নয়। 'আইদি' অর্থাৎ হাত, সেখানেই কাজগুলো আসলে করা হয়।"
+            "bn": "বিমা কাসাবাত আইদিন নাস: এটিই কারণ বোঝানোর অংশ, আর এই অংশের জন্যই আয়াতটি নিছক পর্যবেক্ষণ হয়ে থাকে না। এখানে 'বি' এসেছে কারণ বোঝাতে। 'কাসাবা' উপার্জনের ক্রিয়া; প্রত্যেক নফস যা কামাই করে আর যার জবাব তাকে দিতে হবে, কুরআন সে কথা বলতে এই ক্রিয়াই ব্যবহার করে। আর উপার্জনকারী কারা? 'আন-নাস', মানুষ। তাদের কোনো একটি দল নয়, অন্য কেউও নয়। 'আইদি' মানে হাত, আর কাজ আসলে হাতেই হয়।"
           },
           {
             "en": "The Quran works this idiom in more than one direction. Earlier in this same surah, 30:36 says that when evil afflicts people bima qaddamat aydihim, for what their hands have sent forward, they at once despair. 42:30 states the principle at its widest: whatever strikes you of disaster is for what your hands have earned, and He pardons much. The same organ appears in each, and each time the sentence turns the reader toward his own.",
-            "bn": "কুরআন এই বাগ্‌ধারাটিকে একাধিক দিকে খাটায়। এই সূরারই আগের অংশে, 30:36 আয়াত বলে, মানুষের উপর যখন বিপদ আসে 'বিমা কাদ্দামাত আইদীহিম' — তাদের হাত যা আগে পাঠিয়েছে তার কারণে — তখনই তারা হতাশ হয়ে পড়ে। 42:30 আয়াত নীতিটিকে সবচেয়ে ব্যাপকভাবে বলে: তোমাদের উপর যে বিপদই আসে তা তোমাদের হাতের উপার্জনের কারণেই, আর তিনি অনেক কিছুই ক্ষমা করে দেন। প্রতিটিতেই একই অঙ্গটি আসে, আর প্রতিবারই বাক্যটি পাঠককে তার নিজের হাতের দিকে ফেরায়।"
+            "bn": "কুরআন এই বাগ্‌ধারাটি একাধিক দিকে খাটায়। এই সূরারই আগে ৩০:৩৬ আয়াত বলে, মানুষের হাত যা আগে পাঠিয়েছে, 'বিমা কাদ্দামাত আইদীহিম', তার কারণে যখন তাদের উপর বিপদ আসে, তখনই তারা হতাশ হয়ে পড়ে। ৪২:৩০ আয়াত নীতিটা সবচেয়ে ব্যাপকভাবে বলে: তোমাদের উপর যে বিপদই আসে, তা তোমাদের হাতের উপার্জনের কারণে, আর তিনি অনেক কিছুই ক্ষমা করে দেন। প্রতিটি আয়াতে একই অঙ্গ, হাত; আর প্রতিবারই বাক্যটি পাঠককে তার নিজের হাতের দিকে ফেরায়।"
           }
         ]
       },
@@ -953,7 +953,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the purpose: liyudhiqahum ba'da alladhi 'amilu, so that He may make them taste part of what they have done. Two words hold the mercy in this clause. Yudhiq is to give a taste, and a taste is a small quantity given so that something is known rather than endured. Ba'd is part — not the whole. What has surfaced on land and sea is, on the verse's own accounting, less than what was earned, and 42:30 says the remainder from the other side: He pardons much.",
-            "bn": "এরপর উদ্দেশ্য: লিইউযীকাহুম বা'দাল্লাযী আমিলু — যাতে তিনি তাদের কৃতকর্মের কিছু অংশের স্বাদ তাদের চাখান। এই বাক্যাংশে রহমতটি ধরে রেখেছে দুটি শব্দ। 'ইউযীক' মানে স্বাদ চাখানো, আর স্বাদ হলো এমন সামান্য পরিমাণ যা ভোগ করানোর জন্য নয়, জানানোর জন্য দেওয়া হয়। 'বা'দ' মানে অংশ — গোটাটা নয়। জলে-স্থলে যা ভেসে উঠেছে তা, আয়াতের নিজের হিসাবেই, যা উপার্জিত হয়েছিল তার চেয়ে কম; আর 42:30 আয়াত বাকিটার কথা বলে অন্য দিক থেকে: তিনি অনেক কিছুই ক্ষমা করেন।"
+            "bn": "এরপর উদ্দেশ্য: লিইউযীকাহুম বা'দাল্লাযী আমিলু, যাতে তিনি তাদের কৃতকর্মের কিছু অংশের স্বাদ তাদের চাখান। এই বাক্যাংশে রহমত লুকিয়ে আছে দুটি শব্দে। 'ইউযীক' মানে স্বাদ চাখানো; আর স্বাদ মানে অল্প একটু, যা দেওয়া হয় জানানোর জন্য, ভোগানোর জন্য নয়। 'বা'দ' মানে অংশ, গোটাটা নয়। আয়াতের নিজের হিসাবেই জলে-স্থলে যা ভেসে উঠেছে, তা মানুষের উপার্জনের চেয়ে কম। আর বাকিটার কথা ৪২:৩০ আয়াত বলে অন্য দিক থেকে: তিনি অনেক কিছুই ক্ষমা করেন।"
           }
         ]
       },
@@ -965,7 +965,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends la'allahum yarji'un, that perhaps they may return. Ibn Kathir glosses the returning as return from disobedience. 7:168 uses the same closing for the same reason: We tested them with good times and bad, that perhaps they would return. And 30:42, the verse immediately after this one, turns the reader into a witness — travel through the land and observe how was the end of those before; most of them were associators.",
-            "bn": "আয়াতটি শেষ হয় 'লাআল্লাহুম ইয়ারজিউন' দিয়ে — যাতে তারা ফিরে আসে। ইবনে কাসীর এই ফিরে আসাকে ব্যাখ্যা করেন অবাধ্যতা থেকে ফিরে আসা হিসেবে। 7:168 আয়াত একই কারণে একই সমাপ্তি ব্যবহার করে: আমি তাদের ভালো ও মন্দ দিয়ে পরীক্ষা করেছি, যাতে তারা ফিরে আসে। আর ঠিক এর পরের আয়াত 30:42 পাঠককে সাক্ষীতে পরিণত করে — পৃথিবীতে ভ্রমণ করো এবং দেখো, আগের লোকদের পরিণাম কী হয়েছিল; তাদের অধিকাংশই ছিল মুশরিক।"
+            "bn": "আয়াতটি শেষ হয় 'লাআল্লাহুম ইয়ারজিউন' দিয়ে, যাতে তারা ফিরে আসে। ইবনে কাসীরের ব্যাখ্যায় এই ফেরা হলো নাফরমানি থেকে ফেরা। ৭:১৬৮ আয়াতও একই কারণে একই কথায় শেষ হয়: আমি তাদের ভালো ও মন্দ দিয়ে পরীক্ষা করেছি, যাতে তারা ফিরে আসে। আর ঠিক পরের আয়াত ৩০:৪২ পাঠককে সাক্ষী বানিয়ে দেয়: পৃথিবীতে ভ্রমণ করো এবং দেখো, আগের লোকদের পরিণাম কী হয়েছিল; তাদের অধিকাংশই ছিল মুশরিক।"
           }
         ]
       },
@@ -977,7 +977,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The natural way to use a verse like this is as a description of other people, and the wording quietly blocks that. 2:11 records the reply of those told not to cause corruption in the earth: we are only reformers. 2:12 answers them. Since the earners here are simply an-nas, the honest first application is inward: which of the disorders I complain about has anything of my own hands in it, and what would returning actually cost me this month?",
-            "bn": "এ ধরনের আয়াতকে ব্যবহার করার স্বাভাবিক উপায় হলো একে অন্য মানুষের বর্ণনা বানানো, আর শব্দচয়নই নীরবে সেই পথ বন্ধ করে দেয়। 2:11 আয়াত তাদের জবাব লিপিবদ্ধ করে যাদের বলা হয়েছিল যমীনে বিপর্যয় সৃষ্টি করো না: আমরা তো কেবল সংশোধনকারী। 2:12 আয়াত তাদের জবাব দেয়। যেহেতু এখানে উপার্জনকারীরা কেবল 'আন-নাস', তাই সৎ প্রথম প্রয়োগটি ভেতরের দিকে: আমি যেসব বিশৃঙ্খলা নিয়ে অভিযোগ করি তার কোনটিতে আমার নিজের হাতের কিছু আছে, আর এই মাসে ফিরে আসতে আমার আসলে কী খরচ হবে?"
+            "bn": "এ ধরনের আয়াত পড়লে স্বভাবতই মনে হয়, এ বুঝি অন্যদের কথা। আয়াতের শব্দই চুপচাপ সে পথ বন্ধ করে দেয়। ২:১১ আয়াতে আছে, যাদের বলা হয়েছিল যমীনে বিপর্যয় সৃষ্টি করো না, তারা জবাব দিয়েছিল: আমরা তো কেবল সংশোধনকারী। ২:১২ আয়াত তাদের জবাব দেয়। এখানে উপার্জনকারীরা যেহেতু শুধুই 'আন-নাস', মানুষ, তাই সৎভাবে প্রথম প্রয়োগটা নিজের উপর: যেসব বিশৃঙ্খলা নিয়ে আমি অভিযোগ করি, তার কোনটায় আমার নিজের হাতেরও ভাগ আছে? আর এই মাসে ফিরে আসতে আমাকে আসলে কী ছাড়তে হবে?"
           }
         ]
       }
@@ -988,7 +988,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Sign in the Wind",
-          "bn": "বাতাসের মধ্যে এক নিদর্শন"
+          "bn": "বাতাসে এক নিদর্শন"
         },
         "p": [
           {
@@ -997,7 +997,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What follows is a single act of Allah unfolded into a chain of mercies. He sends the winds; the winds herald rain; the rain is a mercy you are made to taste; ships run on that same wind; trade and livelihood travel with the ships; and the sentence closes on gratitude. One thing you cannot hold is traced outward until it touches your food, your work and your sea routes. The reader is asked to follow the chain link by link and see one Hand behind all of it.",
-            "bn": "এরপর যা আসে, তা আল্লাহর একটি কাজ যা খুলে যায় রহমতের এক শৃঙ্খলে। তিনি বাতাস পাঠান, বাতাস বৃষ্টির সুসংবাদ দেয়, সেই বৃষ্টি এমন রহমত যা আপনাকে আস্বাদন করানো হয়, একই বাতাসে চলে নৌযান, নৌযানের সঙ্গে চলে ব্যবসা আর জীবিকা, আর বাক্যটি শেষ হয় শুকরিয়ায়। যাকে ধরা যায় না, তাকে টেনে নিয়ে যাওয়া হয় আপনার খাবার, আপনার কাজ আর আপনার সমুদ্রপথ পর্যন্ত। পাঠককে বলা হচ্ছে শৃঙ্খলটা ধাপে ধাপে অনুসরণ করতে, আর এর পেছনে একটিমাত্র হাত দেখতে।"
+            "bn": "এরপর আল্লাহর একটিমাত্র কাজ খুলে খুলে রহমতের এক লম্বা শিকল হয়ে যায়। তিনি বাতাস পাঠান; বাতাস বৃষ্টির সুসংবাদ আনে; সেই বৃষ্টি এমন রহমত, যার স্বাদ আপনাকে চাখানো হয়; সেই বাতাসেই চলে নৌযান; নৌযানের সঙ্গে চলে ব্যবসা আর জীবিকা; আর বাক্যটি শেষ হয় শুকরিয়ায়। যে জিনিস হাতে ধরা যায় না, তার সূত্র ধরে টেনে আনা হয় আপনার খাবার, আপনার কাজ আর আপনার সমুদ্রপথ পর্যন্ত। পাঠককে বলা হচ্ছে, শিকলটা একটা একটা কড়া ধরে এগোন, আর দেখুন সবকিছুর পেছনে একটিমাত্র হাত।"
           }
         ]
       },
@@ -1009,7 +1009,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Mubashshirat is the first word of function: the winds are sent as bringers of good tidings. at-Tabari, citing Mujahid, reads the glad tidings plainly as rain, so the winds are sent bearing tidings of the downpour and the mercy. al-Qurtubi gives the reason the winds can count as good news at all: they are heralds because they come before it, ahead of the rain they announce. The herald is not the gift. It is the sign that the gift is on its way.",
-            "bn": "মুবাশশিরাত, কাজের প্রথম শব্দ, বাতাসকে পাঠানো হয় সুসংবাদদাতা হিসেবে। তাবারী মুজাহিদের সূত্রে সুসংবাদকে সোজা করে পড়েন বৃষ্টি বলে, তাই বাতাস পাঠানো হয় বৃষ্টি আর রহমতের খবর বয়ে। কুরতুবী বলে দেন বাতাস কেন আদৌ সুসংবাদ হতে পারে, কারণ সে আগমনবার্তা নিয়ে আসে যেহেতু সে বৃষ্টির আগে আগে আসে, যে বৃষ্টির ঘোষণা সে দেয় তার আগেই। খবরবাহক নিজে দান নয়। সে কেবল নিদর্শন যে দান পথে রয়েছে।"
+            "bn": "বাতাস কী কাজ করে, তা বলার প্রথম শব্দ মুবাশশিরাত: বাতাস পাঠানো হয় সুসংবাদদাতা হিসেবে। তাবারী মুজাহিদের সূত্রে সুসংবাদটাকে সোজাসুজি বৃষ্টি বলে ধরেন; অর্থাৎ বাতাস আসে বর্ষণ আর রহমতের খবর নিয়ে। বাতাসকে আদৌ সুসংবাদ বলা যায় কেন, কুরতুবী তার কারণও বলে দেন: বাতাস খবর আনে, কারণ সে আসে আগে, যে বৃষ্টির ঘোষণা দেয় তারও আগে। খবরবাহক নিজে দান নয়। সে কেবল জানান দেয় যে দান পথে আছে।"
           },
           {
             "en": "al-Muyassar and as-Sa'di describe how the wind carries its message: it stirs up the clouds and gathers them, and at that the hearts of people rejoice before a single drop has fallen. as-Sa'di's phrase is that souls take glad tidings from it before its descent. The good news, in other words, is built into the waiting. You are given the hope first, on purpose, so that the mercy meets a heart already turned upward and expectant rather than a heart caught off guard.",
@@ -1017,7 +1017,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "There is a mercy in that order worth pausing on. Allah could have sent the rain without warning. Instead He sends a messenger ahead of it, a shift in the air that the farmer and the traveller learn to read. The gift is announced before it arrives. For a people taught throughout this surah to read His signs, the wind is a daily rehearsal: notice the herald, trust the promise, and let the hope itself be counted among the kindnesses.",
-            "bn": "এই ক্রম নিয়ে একটু থামা যায়, এর মধ্যে এক রহমত আছে। আল্লাহ বিনা খবরে বৃষ্টি পাঠাতে পারতেন। তার বদলে তিনি তার আগে একজন খবরবাহক পাঠান, বাতাসের এক পরিবর্তন যা চাষি আর পথিক পড়তে শেখে। দান আসার আগেই তার ঘোষণা হয়ে যায়। যে জাতিকে এই সূরা জুড়ে তাঁর নিদর্শন পড়তে শেখানো হচ্ছে, তাদের কাছে বাতাস রোজকার এক অনুশীলন। খবরবাহককে খেয়াল করো, প্রতিশ্রুতিতে ভরসা রাখো, আর আশাটুকুকেও গুনে নাও দয়ার তালিকায়।"
+            "bn": "এই ক্রম নিয়ে একটু থামা যায়, এর মধ্যে এক রহমত আছে। আল্লাহ বিনা খবরে বৃষ্টি পাঠাতে পারতেন। তার বদলে তিনি তার আগে একজন খবরবাহক পাঠান, বাতাসের এক পরিবর্তন যা চাষি আর পথিক পড়তে শেখে। দান আসার আগেই তার ঘোষণা হয়ে যায়। যে জাতিকে এই সূরা জুড়ে তাঁর নিদর্শন পড়তে শেখানো হচ্ছে, তাদের কাছে বাতাস রোজকার এক অনুশীলন। খবরবাহককে খেয়াল করুন, প্রতিশ্রুতিতে ভরসা রাখুন, আর আশাটুকুকেও দয়ার তালিকায় গুনে নিন।"
           }
         ]
       },
@@ -1037,7 +1037,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "as-Sa'di takes the taste one step further, toward action. Having tasted that His mercy is what saves and supplies, he says, the servant begins to long to do more of the righteous deeds that open the treasuries of that mercy. The rain, then, is not only food for the body. It is an argument. It shows a man in a single season what Allah's mercy does, so that he wants to live in a way that keeps drawing on it.",
-            "bn": "সাদী আস্বাদনকে আরও এক ধাপ এগিয়ে নেন, আমলের দিকে। তাঁর রহমতই যে রক্ষা করে আর রিযিক দেয়, তা আস্বাদন করার পর, তিনি বলেন, বান্দার ভেতর সেই নেক আমলগুলো বেশি বেশি করার আগ্রহ জাগে যা সেই রহমতের ভান্ডার খুলে দেয়। তাহলে বৃষ্টি কেবল দেহের খাবার নয়। এটি এক যুক্তি। একটি মৌসুমেই তা মানুষকে দেখিয়ে দেয় আল্লাহর রহমত কী করে, যাতে সে এমনভাবে বাঁচতে চায় যা সেই রহমত থেকে বারবার টেনে নেয়।"
+            "bn": "সাদী আস্বাদনের কথাটা আরও এক ধাপ এগিয়ে নেন, আমলের দিকে। তিনি বলেন, বান্দা যখন চেখে দেখে যে তাঁর রহমতই বাঁচায় আর রিযিক জোগায়, তখন তার মনে আগ্রহ জাগে সেই নেক আমল আরও বেশি করার, যা এই রহমতের ভান্ডার খুলে দেয়। তাহলে বৃষ্টি কেবল দেহের খাবার নয়, এ এক যুক্তিও। একটি মৌসুমেই বৃষ্টি মানুষকে দেখিয়ে দেয় আল্লাহর রহমত কী করে, যাতে সে এমনভাবে বাঁচতে চায় যে এই রহমত বারবার তার ভাগে আসে।"
           }
         ]
       },
@@ -1049,7 +1049,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The third purpose moves from land to sea: so the ships may sail at His command. Ibn Kathir notes the obvious mechanism and then names its driver: the ships run on the sea, and their movement is only by the wind. The same air that herded the clouds now fills the sails. One cause, sent once, reaches the farmer's field and the merchant's deck at the same time. The verse keeps widening the circle of who the wind serves.",
-            "bn": "তৃতীয় উদ্দেশ্য স্থল ছেড়ে সমুদ্রে যায়, যাতে তাঁর হুকুমে নৌযান চলে। ইবন কাসীর স্পষ্ট কৌশলটা উল্লেখ করেন, তারপর তার চালিকাশক্তির নাম দেন। নৌযান সাগরে চলে, আর তার চলা তো কেবল বাতাসে। যে বাতাস মেঘ তাড়িয়ে এনেছিল, সে-ই এখন পাল ভরায়। একবার পাঠানো একটি কারণ একই সঙ্গে পৌঁছে যায় চাষির ক্ষেতে আর বণিকের জাহাজে। আয়াতটি ক্রমাগত বাড়িয়ে চলে, বাতাস আসলে কাদের সেবা করে।"
+            "bn": "তৃতীয় উদ্দেশ্য স্থল ছেড়ে সমুদ্রে যায়: যাতে তাঁর হুকুমে নৌযান চলে। ইবন কাসীর প্রথমে চোখের সামনের ব্যাপারটা বলেন, তারপর বলেন কে একে চালায়: নৌযান সাগরে চলে, আর চলে কেবল বাতাসের জোরে। যে বাতাস মেঘ তাড়িয়ে এনেছিল, সে-ই এখন পাল ভরায়। একবার পাঠানো একটি কারণ একই সঙ্গে পৌঁছে যায় চাষির ক্ষেতে আর বণিকের জাহাজে। বাতাস কার কার কাজে লাগে, আয়াত সেই বৃত্ত ক্রমেই বড় করে চলে।"
           },
           {
             "en": "al-Qurtubi asks why the verse adds at His command, and his answer keeps the wind from ever becoming an independent power. The winds blow, he says, but are not always favourable, so ships must be anchored and held in place by effort; and sometimes a gale rises and sinks them, and that too is by His command. The sentence that promises the wind as a servant will not let you forget that the servant obeys only Allah. The breeze that carries you and the storm that could drown you answer to one word.",
@@ -1081,15 +1081,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The sentence changes gear at the end. Three purposes are stated with a plain lam of purpose: to let you taste, so the ships may sail, so you may seek. The last is different: la'allakum tashkurun, that perhaps you may be grateful. The mercies are certain; they are what the wind is for. Gratitude is not stated as a certainty but held out as the hoped-for response. Allah guarantees the gift and leaves the thanks open, because thanks that could not be withheld would not be thanks at all.",
-            "bn": "বাক্যটি শেষে গিয়ে গিয়ার বদলায়। তিনটি উদ্দেশ্য বলা হয়েছে সাধারণ কারণবাচক লাম দিয়ে, আস্বাদন করাতে, নৌযান চালাতে, অনুগ্রহ খুঁজতে। শেষটি আলাদা, লাআল্লাকুম তাশকুরূন, যাতে হয়তো তোমরা কৃতজ্ঞ হও। রহমতগুলো নিশ্চিত, বাতাস সেগুলোর জন্যই। শুকরিয়াকে নিশ্চিত হিসেবে বলা হয়নি, বরং প্রত্যাশিত জবাব হিসেবে বাড়িয়ে ধরা হয়েছে। আল্লাহ দানের নিশ্চয়তা দেন আর শুকরিয়াকে খোলা রাখেন, কারণ যে শুকরিয়া আটকে রাখা যায় না তা তো আর শুকরিয়াই নয়।"
+            "bn": "শেষে এসে বাক্যের সুর বদলে যায়। তিনটি উদ্দেশ্য বলা হয়েছে সাধারণ কারণবাচক লাম দিয়ে: আস্বাদন করাতে, নৌযান চালাতে, অনুগ্রহ খুঁজতে। শেষটি আলাদা: লাআল্লাকুম তাশকুরূন, যাতে হয়তো তোমরা কৃতজ্ঞ হও। রহমতগুলো নিশ্চিত, বাতাস সেগুলোর জন্যই। কিন্তু শুকরিয়াকে নিশ্চিত বলে ঘোষণা করা হয়নি; একে সামনে রাখা হয়েছে প্রত্যাশিত জবাব হিসেবে। আল্লাহ দানের নিশ্চয়তা দেন আর শুকরিয়াকে খোলা রাখেন, কারণ যে শুকরিয়া আটকে রাখা যায় না তা তো আর শুকরিয়াই নয়।"
           },
           {
             "en": "as-Sa'di reads this closing clause as the whole point of the favours. The intent behind the blessings, he writes, is that they be met with the gratitude of Allah, so that He may increase them for you and keep them upon you. Ibn Kathir fills in what there is to thank for: the favours of Allah, outward and inward, that can be neither counted nor enumerated. The rain you can see; the thousand hidden mercies you cannot. Gratitude is simply the honest reading of a life held up by both.",
-            "bn": "সাদী এই শেষ অংশটাকে পড়েন গোটা নিয়ামতের আসল উদ্দেশ্য হিসেবে। নিয়ামতের পেছনের মকসুদ, তিনি লেখেন, এই যে তা আল্লাহর শুকরিয়া দিয়ে বরণ করা হোক, যাতে তিনি তা তোমাদের জন্য বাড়িয়ে দেন আর তোমাদের উপর টিকিয়ে রাখেন। ইবন কাসীর বলে দেন কীসের শুকরিয়া, আল্লাহর নিয়ামত, প্রকাশ্য আর গোপন, যা গোনাও যায় না হিসাবও করা যায় না। বৃষ্টি আপনি দেখেন, হাজারো গোপন রহমত আপনি দেখেন না। শুকরিয়া তো কেবল এক জীবনের সৎ পাঠ, যা দুই রকম রহমতেই ধরে রাখা।"
+            "bn": "সাদী এই শেষ অংশটাকে পড়েন গোটা নিয়ামতের আসল উদ্দেশ্য হিসেবে। তিনি লেখেন, নিয়ামতের পেছনের মকসুদ হলো, তা আল্লাহর শুকরিয়া দিয়ে বরণ করা হোক, যাতে তিনি তা তোমাদের জন্য বাড়িয়ে দেন আর তোমাদের উপর টিকিয়ে রাখেন। কীসের শুকরিয়া, ইবন কাসীর তা বলে দেন: আল্লাহর নিয়ামত, প্রকাশ্য আর গোপন, যা গোনাও যায় না, হিসাবও করা যায় না। বৃষ্টি আপনি দেখেন, হাজারো গোপন রহমত দেখেন না। যে জীবন এই দুই রকম রহমতের উপর দাঁড়িয়ে আছে, তাকে সৎভাবে পড়লে যা দাঁড়ায় তা-ই শুকরিয়া।"
           },
           {
             "en": "as-Sa'di also names the other road. To meet a favour with ingratitude and disobedience, he says, is the state of whoever turns Allah's blessing into a trial and his gift into something he is now liable to lose, exposed to its removal. The warning is quiet but exact. The wind that was sent as mercy does not stay mercy in a heart that refuses to read it. What the verse offers as a gift can be forfeited by whoever will not say thank you.",
-            "bn": "সাদী অন্য পথটিরও নাম নেন। নিয়ামতকে নাফরমানি আর অকৃতজ্ঞতা দিয়ে বরণ করা, তিনি বলেন, তার হাল যে আল্লাহর নিয়ামতকে বানিয়ে ফেলেছে বিপদ আর তাঁর দানকে বানিয়েছে এমন কিছু যা এখন সে হারানোর মুখে, তা সরে যাওয়ার সামনে উন্মুক্ত। সতর্কবাণীটা নিচু স্বরে, তবু নিখুঁত। যে বাতাস রহমত হয়ে পাঠানো হয়েছিল, সে রহমত হয়ে থাকে না এমন হৃদয়ে যে তা পড়তে অস্বীকার করে। আয়াত যা দান হিসেবে দেয়, যে শুকরিয়া জানাবে না সে তা হারাতে পারে।"
+            "bn": "সাদী অন্য পথটার কথাও বলেন। নিয়ামত পেয়ে যে অকৃতজ্ঞ হয় আর নাফরমানি করে, সে আল্লাহর নিয়ামতকে বানিয়ে ফেলে বিপদ, আর তাঁর দানকে বানায় এমন কিছু, যা যেকোনো সময় হাতছাড়া হতে পারে, যা কেড়ে নেওয়ার মুখে দাঁড়িয়ে আছে। সতর্কবাণীটা নিচু স্বরে, তবু নিখুঁত। যে বাতাস রহমত হয়ে এসেছিল, যে হৃদয় তা পড়তে রাজি নয়, সেখানে তা আর রহমত থাকে না। আয়াত যা দান হিসেবে দেয়, শুকরিয়া জানাতে যে রাজি নয় সে তা হারাতে পারে।"
           }
         ]
       },
