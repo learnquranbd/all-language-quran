@@ -553,7 +553,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa qala qarinuhu hadha ma ladayya 'atid: and his companion will say, this is what is with me, ready. The verse has six Arabic words, and it arrives at a precise moment in the scene. Just before it, 50:21 says that every soul will come with a driver and a witness, and 50:22 tells a person that the cover over him has been lifted and his sight is sharp today. Now the companion who came with him speaks, and what he says is short.",
-            "bn": "ওয়া কালা কারীনুহু হাযা মা লাদাইয়া আতীদ: আর তার সঙ্গী বলবে, এই যে আমার কাছে যা আছে, প্রস্তুত। আরবীতে আয়াতটি মাত্র ছয়টি শব্দের। দৃশ্যের ঠিক একটা নির্দিষ্ট মুহূর্তে এর আগমন। এর আগে ৫০:২১ বলেছে, প্রত্যেক প্রাণ আসবে একজন চালক আর একজন সাক্ষী সঙ্গে নিয়ে। তারপর ৫০:২২ মানুষটিকে জানিয়েছে, তার চোখের পর্দা সরিয়ে দেওয়া হয়েছে, আজ তার দৃষ্টি তীক্ষ্ণ। এবার কথা বলে সেই সঙ্গী, যে তার সঙ্গে এসেছে। তার কথা খুব সংক্ষিপ্ত।"
+            "bn": "ওয়া কালা কারীনুহু হাযা মা লাদাইয়া আতীদ: আর তার সঙ্গী বলবে, এই যে আমার কাছে যা আছে, প্রস্তুত। আরবীতে আয়াতটি মাত্র ছয়টি শব্দের, আর তা আসে দৃশ্যের একেবারে নির্দিষ্ট এক মুহূর্তে। এর আগে ৫০:২১ বলেছে, প্রত্যেক প্রাণ আসবে একজন চালক আর একজন সাক্ষী সঙ্গে নিয়ে। তারপর ৫০:২২ মানুষটিকে জানিয়েছে, তার চোখের পর্দা সরিয়ে দেওয়া হয়েছে, আজ তার দৃষ্টি তীক্ষ্ণ। এবার কথা বলে সেই সঙ্গী, যে তার সঙ্গে এসেছে। তার কথা খুব সংক্ষিপ্ত।"
           },
           {
             "en": "The English abridgement of Ibn Kathir heads this passage with the words: the angel will bear witness. That is the verse's work in the surah, testimony given at the moment of arrival. This article stays with these six words. What follows in 50:24 and after belongs to its own verses and is not developed here. The verse raises two questions, and the commentators answer each of them in several ways: who is the companion, and what exactly is it that he has ready?",
@@ -625,7 +625,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Mujahid's report reads it as the person. In Ibn Kathir's wording the driver says: this is the son of Adam You entrusted to me; I have brought him. Al-Qurtubi and al-Baghawi give Mujahid with an addition: I have brought him, and brought the register of his deeds. Al-Baghawi also records a view, introduced with it is said, that ma here carries the sense of man, who, the word used for persons. As-Sa'di holds both together: I have brought what I was set over, guarding him and guarding his deeds.",
-            "bn": "মুজাহিদের বর্ণনায় এর মানে মানুষটি নিজে। ইবন কাসীরের ভাষায় চালক বলবে: এই সেই আদমসন্তান, যার দায়িত্ব আপনি আমাকে দিয়েছিলেন, আমি তাকে হাজির করেছি। কুরতুবী ও বাগাভী মুজাহিদের কথা আনেন একটু বাড়তি অংশসহ: আমি তাকে হাজির করেছি, তার আমলের দফতরও হাজির করেছি। বাগাভী আরেকটি মতও উল্লেখ করেন, 'বলা হয়' দিয়ে শুরু করে: এখানে মা শব্দটি মান অর্থে, অর্থাৎ যে, যা ব্যক্তির জন্য ব্যবহৃত হয়। সা'দী দুটোকে একসঙ্গে ধরেন: যার ভার আমাকে দেওয়া হয়েছিল, তাকে আর তার আমলকে হেফাজত করা, তা আমি হাজির করেছি।"
+            "bn": "মুজাহিদের বর্ণনায় এর মানে মানুষটি নিজে। ইবন কাসীরের ভাষায় চালক বলবে: এই সেই আদমসন্তান, যার দায়িত্ব আপনি আমাকে দিয়েছিলেন, আমি তাকে হাজির করেছি। কুরতুবী ও বাগাভী মুজাহিদের কথা আনেন একটু বাড়তি অংশসহ: আমি তাকে হাজির করেছি, তার আমলের দফতরও হাজির করেছি। বাগাভী 'বলা হয়' দিয়ে আরেকটি মতও উল্লেখ করেন: এখানে মা শব্দটি মান অর্থে এসেছে। মান মানে 'যে', মানুষের বেলায় এ শব্দই ব্যবহৃত হয়। সা'দী দুটোকে একসঙ্গে ধরেন: আমাকে যার ভার দেওয়া হয়েছিল, তা আমি হাজির করেছি। আমার ভার ছিল তাকে হেফাজত করা, তার আমলও হেফাজত করা।"
           },
           {
             "en": "Al-Qurtubi adds a further reading under it is said, with no name attached: the meaning is, this is what I have of punishment, present. It sits apart from the others, and he gives it without comment. So the phrase has been read as a record, as a person, as both, and as punishment made ready. The texts fetched for this verse do not settle the matter, and this article does not settle it either.",
@@ -673,11 +673,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Read from this side of the Day, the verse turns a future scene into a present fact. On most of the readings above, something is being kept now, by a companion who is with the person, and it will be presented without addition and without deficit. That cuts both ways. Nothing good will be lost from it, however small or unseen by others. Nothing hidden will be missing from it either. The question the verse leaves is not really about the angel. It is about what is being handed to him, day by day.",
-            "bn": "দুনিয়ার এই পাড় থেকে পড়লে আয়াতটি ভবিষ্যতের একটি দৃশ্যকে বর্তমানের সত্যে পরিণত করে। ওপরের বেশিরভাগ ব্যাখ্যা অনুযায়ী, কিছু একটা এখনই সংরক্ষিত হচ্ছে, মানুষের সঙ্গে থাকা এক সঙ্গীর হাতে। আর তা পেশ হবে কোনো বাড়তি বা ঘাটতি ছাড়া। কথাটা দুই দিকেই খাটে। কোনো নেক আমল সেখান থেকে হারাবে না, যত ছোটই হোক, যত লোকচক্ষুর আড়ালেই হোক। আবার লুকানো কিছুও সেখান থেকে বাদ পড়বে না। আয়াতটি তাই আসলে ফেরেশতাকে নিয়ে প্রশ্ন রেখে যায় না। প্রশ্ন রেখে যায়, দিনের পর দিন আমরা তার হাতে কী তুলে দিচ্ছি।"
+            "bn": "সেই দিন আসার আগে, এ পাশ থেকে পড়লে, ভবিষ্যতের দৃশ্যটি হয়ে ওঠে আজকের বাস্তবতা। ওপরের বেশিরভাগ ব্যাখ্যা অনুযায়ী কিছু একটা এখনই সংরক্ষিত হচ্ছে, মানুষের সঙ্গে থাকা এক সঙ্গীর হাতে। আর তা পেশ হবে কোনো বাড়তি বা ঘাটতি ছাড়া। কথাটা দুই দিকেই খাটে। কোনো নেক আমল সেখান থেকে হারাবে না, যত ছোটই হোক, যত লোকচক্ষুর আড়ালেই হোক। আবার লুকানো কিছুও সেখান থেকে বাদ পড়বে না। তাই আয়াতটি যে প্রশ্ন রেখে যায়, তা আসলে ফেরেশতাকে নিয়ে নয়। প্রশ্নটা হলো, দিনের পর দিন আমরা তার হাতে কী তুলে দিচ্ছি।"
           },
           {
             "en": "A practical habit follows from this. Before sleep, ask what today added to the file: words spoken, duties met or missed, kindness given or held back. What was wrong can still be met with tawbah and with repair while the record is open, and what was good can be quietly continued tomorrow. Readiness is the companion's word in the verse, and it can become the reader's word too: to live so that whatever is presented, by whichever companion, is something a person would be content to see.",
-            "bn": "এখান থেকে একটা সহজ অভ্যাস তৈরি হয়। ঘুমানোর আগে নিজেকে জিজ্ঞেস করুন, আজ খাতায় কী যোগ হলো। কোন কথা বলেছি, কোন দায়িত্ব পালন করেছি বা এড়িয়ে গেছি, কোথায় দয়া দেখিয়েছি আর কোথায় হাত গুটিয়ে রেখেছি। খাতা যতক্ষণ খোলা, ভুলের জবাব তওবা দিয়ে আর ক্ষতিপূরণ দিয়ে দেওয়া যায়। আর ভালো যা হয়েছে, কাল চুপচাপ তা চালিয়ে যাওয়া যায়। আয়াতে প্রস্তুতি সঙ্গীর শব্দ, তা পাঠকেরও শব্দ হয়ে উঠতে পারে। এমনভাবে বাঁচা, যাতে যে-ই পেশ করুক, যা পেশ হবে তা দেখে মানুষ খুশি হতে পারে।"
+            "bn": "এখান থেকে একটা সহজ অভ্যাস তৈরি হয়। ঘুমানোর আগে নিজেকে জিজ্ঞেস করুন, আজ খাতায় কী যোগ হলো। কোন কথা বলেছি, কোন দায়িত্ব পালন করেছি বা এড়িয়ে গেছি, কোথায় দয়া দেখিয়েছি আর কোথায় হাত গুটিয়ে রেখেছি। খাতা যতক্ষণ খোলা, ভুলের জবাব তওবা দিয়ে আর ক্ষতিপূরণ দিয়ে দেওয়া যায়। আর ভালো যা হয়েছে, কাল চুপচাপ তা চালিয়ে যাওয়া যায়। আয়াতে 'প্রস্তুত' কথাটি সঙ্গীর মুখে। পাঠকও কথাটিকে নিজের করে নিতে পারেন: এমনভাবে জীবন কাটানো, যাতে যে সঙ্গীই পেশ করুক, যা পেশ হবে তা দেখে মন সন্তুষ্ট থাকে।"
           },
           {
             "en": "The companion's own conduct offers a second lesson. He returns what he was given charge of, complete, and says so plainly. Each of us has been handed things to keep in the same way: a family, a task at work, a promise, a secret, a portion of wealth. The verse pictures a trust delivered without addition and without deficit. That is a fair measure for our own trusts as well, long before anyone asks us to account for them.",
@@ -789,7 +789,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The answer of 50:29, as at-Tabari, Ibn Kathir and the Muyassar read it, is that the load does not pass from one to another. At-Tabari says the word and the decree stand concerning both parties to the quarrel. This is not a theory of how human choice and divine decree fit together, and the commentators read here offer none on this verse. It is the plainer statement that in this court no one stands in for anyone else, and no one is charged with what he did not do.",
-            "bn": "তাবারী, ইবন কাসীর ও মুয়াসসারের পাঠে ৫০:২৯ আয়াতের জবাব হলো, এই বোঝা একজনের কাঁধ থেকে আরেকজনের কাঁধে যায় না। তাবারীর কথায়, কথা আর ফয়সালা ঝগড়ার দুই পক্ষের ব্যাপারেই বহাল থাকে। তাই দায় অস্বীকার করা বা অন্যের দিকে আঙুল তোলা, কোনোটাতেই ফল বদলায় না। মানুষের ইচ্ছা আর আল্লাহর তাকদীর কীভাবে মেলে, এ নিয়ে কোনো তত্ত্ব এখানে নেই। এ আয়াতে যেসব তাফসীর পড়া হয়েছে, সেগুলোও এমন কিছু দেয় না। কথাটা সরল: এই আদালতে কেউ কারও জায়গায় দাঁড়ায় না, আর যা কেউ করেনি তার দায় তার উপর চাপে না।"
+            "bn": "তাবারী, ইবন কাসীর ও মুয়াসসারের পাঠে ৫০:২৯ আয়াতের জবাব হলো, এই বোঝা একজনের কাঁধ থেকে আরেকজনের কাঁধে যায় না। তাবারীর কথায়, কথা আর ফয়সালা ঝগড়ার দুই পক্ষের ব্যাপারেই বহাল থাকে। মানুষের ইচ্ছা আর আল্লাহর তাকদীর কীভাবে মেলে, এ নিয়ে কোনো তত্ত্ব এখানে নেই। এ আয়াতের যেসব তাফসীর পড়া হয়েছে, সেগুলোও এমন কোনো তত্ত্ব দেয় না। কথাটা আরও সরল: এই আদালতে কেউ কারও জায়গায় দাঁড়ায় না, আর যা কেউ করেনি তার দায় তার উপর চাপে না।"
           }
         ]
       },
@@ -817,7 +817,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "For the reader, the order of the two verses matters. The warning of 50:28 was sent ahead, which means it reaches the living. The word that does not change on that Day can be heard now, while hearing it can still change something. Whichever reading of al-qawl a reader follows, Mujahid's settled decree, at-Tabari's stated sentence, the scale of 6:160 that al-Qurtubi records, or al-Farra''s word that cannot be falsified, the time to act on it is before the hearing, not during it, when the only thing left to say is an excuse.",
-            "bn": "পাঠকের জন্য আয়াত দুটির ক্রমটাই গুরুত্বপূর্ণ। ৫০:২৮ আয়াতের সতর্কবাণী আগেভাগে পাঠানো হয়েছে, মানে তা জীবিতদের কাছেই পৌঁছায়। যে কথা সেই দিনে বদলাবে না, তা আজই শোনা যায়, আর আজ শুনলে এখনো কিছু বদলানো যায়। আল-কাওলের যে পাঠই ধরুন, মুজাহিদের স্থির ফয়সালা, তাবারীর উল্লেখ করা রায়, কুরতুবীর বর্ণিত ৬:১৬০ আয়াতের মাপকাঠি, কিংবা ফাররার সেই কথা যা মিথ্যা দিয়ে বদলানো যায় না, তা নিয়ে কাজ করার সময় শুনানির আগে। শুনানির সময় বলার মতো থাকে শুধু অজুহাত।"
+            "bn": "পাঠকের জন্য আয়াত দুটির ক্রমটাই গুরুত্বপূর্ণ। ৫০:২৮ আয়াতের সতর্কবাণী আগেভাগে পাঠানো হয়েছে, মানে তা জীবিতদের কাছেই পৌঁছায়। যে কথা সেই দিনে বদলাবে না, তা আজই শোনা যায়, আর আজ শুনলে এখনো কিছু বদলানো যায়। আল-কাওল বলতে কেউ বোঝেন মুজাহিদের স্থির ফয়সালা, কেউ তাবারীর উল্লেখ করা রায়, কেউ কুরতুবীর বর্ণিত ৬:১৬০ আয়াতের মাপকাঠি, কেউ ফাররার সেই কথা যা মিথ্যা দিয়ে বদলানো যায় না। যে পাঠই ধরুন, সে অনুযায়ী কাজ করার সময় শুনানির আগে, শুনানির মধ্যে নয়। তখন বলার মতো থাকে শুধু অজুহাত।"
           },
           {
             "en": "The second clause gives a quiet steadiness. The same sentence that closes every excuse also closes every fear of being wronged. If, as as-Sa'di puts it, nothing will be added to a person's bad deeds and nothing taken from the good, then today's effort is not wasted, and the record of 50:23, which Ibn Kathir describes as complete without addition or deletion, is a record kept truly. The response the verse invites is ownership: to stop rehearsing the defence, to call your own fault yours, and to do it while the warning is still only a warning.",
@@ -832,48 +832,48 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "What That Points Back To",
-          "bn": "'এতে' বলতে কী বোঝানো হয়েছে"
+          "bn": "'এতে' কিসের দিকে ইশারা"
         },
         "p": [
           {
             "en": "Inna fi dhalika la-dhikra, indeed in that is a reminder. The demonstrative points backwards, and 50:36 is what it points at: how many a generation We destroyed before them who were greater than them in striking power and had explored throughout the lands, and is there any place of escape? The reminder on offer is not an argument. It is a record, and the surah has just finished reading it out.",
-            "bn": "'ইন্না ফী যালিকা লাযিকরা' — নিশ্চয়ই এতে উপদেশ রয়েছে। নির্দেশক শব্দটি পেছনের দিকে ইঙ্গিত করে, আর যেদিকে ইঙ্গিত করে তা হলো 50:36: তাদের আগে আমি কত প্রজন্মকে ধ্বংস করেছি, যারা শক্তিতে তাদের চেয়ে প্রবল ছিল আর দেশে দেশে চষে বেড়িয়েছিল — পালানোর কোনো জায়গা কি ছিল? যে উপদেশটি দেওয়া হচ্ছে তা কোনো যুক্তি নয়। এটি একটি নথি, আর সূরাটি সবে তা পড়ে শোনানো শেষ করেছে।"
+            "bn": "ইন্না ফী যালিকা লাযিকরা: নিশ্চয়ই এতে আছে উপদেশ। 'এতে' শব্দটি ইশারা করে পেছনের দিকে, ৫০:৩৬ আয়াতের দিকে: তাদের আগে আমি কত প্রজন্মকে ধ্বংস করেছি, যারা শক্তিতে ছিল তাদের চেয়ে প্রবল, দেশে দেশে ঘুরে বেড়িয়েছিল। পালানোর কোনো জায়গা কি আছে? এখানে যে উপদেশ দেওয়া হচ্ছে, তা যুক্তিতর্ক নয়। তা এক ইতিহাসের খতিয়ান, আর সূরাটি এইমাত্র তা পড়ে শোনানো শেষ করল।"
           },
           {
             "en": "Just before that record stands 50:35, where those in the Garden have whatever they wish and with Us is more. Surah Qaf is arguing for the resurrection its opponents called a far-fetched return, and it argues by evidence: the sky, the earth, the interior of a man, and now the ruins of people who were stronger than the audience being addressed. Then it names the one condition under which evidence works at all.",
-            "bn": "সেই নথিটির ঠিক আগে দাঁড়িয়ে আছে 50:35, যেখানে জান্নাতবাসীরা যা চাইবে তা-ই পাবে, আর আমার কাছে আরও আছে। সূরা কাফ সেই পুনরুত্থানের পক্ষে যুক্তি দিচ্ছে যাকে তার বিরোধীরা বলেছিল এক অসম্ভব প্রত্যাবর্তন; আর যুক্তি দিচ্ছে প্রমাণ দিয়ে: আকাশ, যমীন, মানুষের ভেতরটা, আর এখন সেই জাতিদের ধ্বংসাবশেষ যারা শ্রোতাদের চেয়ে শক্তিশালী ছিল। তারপরই সে বলে দেয়, প্রমাণ কেবল কোন একটি শর্তেই কাজ করে।"
+            "bn": "এই খতিয়ানের ঠিক আগে আছে ৫০:৩৫ আয়াত: জান্নাতবাসীরা সেখানে যা চাইবে তা-ই পাবে, আর আমার কাছে আছে আরও বেশি। সূরা কাফ যুক্তি দিচ্ছে পুনরুত্থানের পক্ষে। বিরোধীরা বলেছিল, এ ফিরে আসা তো বহু দূরের কথা। সূরাটি জবাব দেয় প্রমাণ দিয়ে: আকাশ, জমিন, মানুষের ভেতরের জগৎ, আর এখন সেই জাতিগুলোর ধ্বংসাবশেষ, যারা এই শ্রোতাদের চেয়েও শক্তিশালী ছিল। তারপর সূরাটি জানিয়ে দেয়, প্রমাণ কাজ করে কেবল একটি শর্তে।"
           }
         ]
       },
       {
         "h": {
           "en": "Whoever Has a Heart",
-          "bn": "যার একটি অন্তর আছে"
+          "bn": "যার অন্তর আছে"
         },
         "p": [
           {
             "en": "Liman kana lahu qalbun, for whoever has a heart. Every listener has one, so the phrase must mean something other than the organ, and the mufassirun say so directly. Al-Muyassar reads it as a heart with which he reasons. Tafsir Ahsanul Bayaan reads it as an awake and alert heart, one that reflects and takes in what is actually there. Having a heart, in this idiom, is a condition that some people fail.",
-            "bn": "'লিমান কানা লাহু কলবুন' — যার একটি অন্তর আছে তার জন্য। প্রত্যেক শ্রোতারই তো একটি আছে, তাই কথাটির অর্থ নিশ্চয়ই দেহযন্ত্রটি নয়; আর মুফাসসিরগণ সরাসরি সে কথাই বলেন। তাফসীর মুয়াসসার এটিকে পড়ে এমন অন্তর হিসেবে যা দিয়ে সে বোঝে। তাফসীর আহসানুল বায়ান পড়ে জাগ্রত ও সচেতন অন্তর হিসেবে, যা চিন্তা করে এবং প্রকৃত ব্যাপারটি ধরে নেয়। এই বাগ্‌ধারায় 'অন্তর থাকা' এমন একটি শর্ত, যাতে কেউ কেউ উত্তীর্ণ হয় না।"
+            "bn": "লিমান কানা লাহু কলবুন: যার অন্তর আছে, তার জন্য। অন্তর তো প্রত্যেক শ্রোতারই আছে। তাই কথাটি দেহের অঙ্গটির কথা বলছে না, আর মুফাসসিররা সে কথা সরাসরিই বলেন। তাফসীর মুয়াসসারের ব্যাখ্যা: এমন অন্তর, যা দিয়ে সে বোঝে। তাফসীর আহসানুল বায়ান বলে: জাগ্রত, সচেতন অন্তর, যা ভাবে আর সামনে যা সত্যিই আছে তা গ্রহণ করে। এই ভাষারীতিতে অন্তর থাকা একটা শর্ত, আর কিছু মানুষ সে শর্ত পূরণ করতে পারে না।"
           },
           {
             "en": "22:46 states the same thing without the idiom: it is not the eyes that go blind, but the hearts within the breasts. That verse reaches its conclusion by asking whether they have not travelled the earth, which is the very activity 50:36 attributes to the destroyed generations, who had explored throughout the lands and still found no escape. Movement is not the qualification. The organ that has to be working is the one inside.",
-            "bn": "22:46 একই কথা বলে বাগ্‌ধারা ছাড়াই: চোখ অন্ধ হয় না, বরং বুকের ভেতরের অন্তরগুলোই অন্ধ হয়। সেই আয়াত তার সিদ্ধান্তে পৌঁছায় এই প্রশ্ন করে যে তারা কি যমীনে ভ্রমণ করে না — আর সেই কাজটিই 50:36 ধ্বংসপ্রাপ্ত প্রজন্মগুলোর সম্পর্কে বলে, যারা দেশে দেশে চষে বেড়িয়েছিল তবু পালানোর জায়গা পায়নি। চলাফেরা যোগ্যতা নয়। যে যন্ত্রটি সচল থাকা দরকার, সেটি ভেতরে।"
+            "bn": "২২:৪৬ আয়াত একই কথা বলে কোনো রূপক ছাড়াই: চোখ তো অন্ধ হয় না, অন্ধ হয় বুকের ভেতরের অন্তর। সেই আয়াত এ কথায় পৌঁছায় একটি প্রশ্নের পথ ধরে: তারা কি পৃথিবীতে ঘুরে দেখেনি? অথচ ৫০:৩৬ ধ্বংস হওয়া প্রজন্মগুলোর ঠিক এই কাজের কথাই বলে। তারা দেশে দেশে ঘুরে বেড়িয়েছিল, তবু পালানোর জায়গা পায়নি। কাজেই ঘোরাফেরা কোনো যোগ্যতা নয়। যে অঙ্গটি সচল থাকা দরকার, সেটি ভেতরে।"
           }
         ]
       },
       {
         "h": {
           "en": "Casting the Hearing",
-          "bn": "শ্রবণ নিক্ষেপ করা"
+          "bn": "শ্রবণ ছুড়ে দেওয়া"
         },
         "p": [
           {
             "en": "The second condition is aw alqa as-sam', literally: or cast the hearing. Alqa is the verb used for throwing a thing down deliberately, the same verb 37:97 uses of throwing a man into a fire. The Quran does not say or heard, and it does not say or was listening. It says that a person takes his hearing and throws it at the speaker. Attention here is an act performed, not a state a listener happens to be in.",
-            "bn": "দ্বিতীয় শর্তটি হলো 'আও আলকাস সাম' — আক্ষরিক অর্থে: অথবা শ্রবণ নিক্ষেপ করল। 'আলকা' সেই ক্রিয়া যা ইচ্ছাকৃতভাবে কিছু ছুঁড়ে ফেলা বোঝায়; 37:97-এ একজন মানুষকে আগুনে নিক্ষেপ করার ক্ষেত্রেও এই ক্রিয়াই ব্যবহৃত হয়েছে। কুরআন বলে না 'অথবা শুনল', বলে না 'অথবা শুনছিল'। বলে যে মানুষটি নিজের শ্রবণশক্তি নিয়ে বক্তার দিকে ছুঁড়ে দেয়। এখানে মনোযোগ একটি সম্পাদিত কাজ, শ্রোতার কোনো এমনি এমনি হয়ে যাওয়া অবস্থা নয়।"
+            "bn": "দ্বিতীয় শর্ত হলো আও আলকাস সাম', আক্ষরিক অর্থে: অথবা শ্রবণ ছুড়ে দেয়। আলকা ক্রিয়াটি বোঝায় ইচ্ছা করে কোনো কিছু নিচে ছুড়ে ফেলা। ৩৭:৯৭ আয়াতও একজন মানুষকে আগুনে ছুড়ে ফেলার কথা বলতে এই ক্রিয়াই এনেছে। কুরআন এখানে বলেনি 'অথবা শুনল', বলেনি 'অথবা শুনছিল'। বলেছে, মানুষ নিজের শ্রবণ তুলে নিয়ে বক্তার দিকে ছুড়ে দেয়। মনোযোগ তাই এখানে একটা কাজ, যা মানুষ নিজে করে। এমন কোনো অবস্থা নয়, যাতে শ্রোতা আপনা-আপনি পড়ে থাকে।"
           },
           {
             "en": "Al-Muyassar renders the phrase as inclining the ear, and the shift is worth keeping in view. Sound arrives at everyone in the room without anyone deciding anything; hearing directed at a particular speaker is a decision one of them makes. The verse is therefore not describing two levels of intelligence and setting a bar. It is describing two ways of being present, and both of them are open to anyone willing to do something.",
-            "bn": "তাফসীর মুয়াসসার কথাটিকে অনুবাদ করে কান লাগানো হিসেবে, আর এই পরিবর্তনটি চোখে রাখার মতো। শব্দ ঘরের সবার কাছেই পৌঁছায়, তার জন্য কাউকে কিছু সিদ্ধান্ত নিতে হয় না; কিন্তু কোনো নির্দিষ্ট বক্তার দিকে শ্রবণ তাক করা তাদেরই একজনের নেওয়া সিদ্ধান্ত। তাই আয়াতটি দুই স্তরের বুদ্ধিমত্তার বর্ণনা দিয়ে কোনো মানদণ্ড বসাচ্ছে না। এটি উপস্থিত থাকার দুটি ধরনের বর্ণনা দিচ্ছে, আর দুটোই যে কারও জন্য খোলা, যদি সে কিছু করতে রাজি থাকে।"
+            "bn": "তাফসীর মুয়াসসার কথাটির অর্থ করে কান পাতা, আর কথার এই মোড়টা খেয়াল রাখার মতো। ঘরে যারা আছে, শব্দ তাদের সবার কানেই পৌঁছায়, এর জন্য কাউকে কিছু ঠিক করতে হয় না। কিন্তু নির্দিষ্ট একজন বক্তার দিকে কান ফেরানো তাদের কোনো একজনের নিজের সিদ্ধান্ত। তাই আয়াতটি বুদ্ধির দুটি স্তর বেঁধে দিয়ে কোনো মাপকাঠি দাঁড় করাচ্ছে না। আয়াতটি বলছে উপস্থিত থাকার দুই রকম ধরনের কথা। আর দুটির পথই সবার জন্য খোলা, যে কেউ নিজে থেকে কিছু করতে রাজি হলেই হলো।"
           }
         ]
       },
@@ -885,11 +885,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The clause that follows the listening is wa huwa shahid, and he is a witness, or present. The classical readings run in three directions and they do not exclude one another. Al-Muyassar takes it as being present with his heart, neither heedless nor distracted. The app's English follows that line, rendering the phrase as listening while he is present in mind. Others take shahid as being present at the recitation itself.",
-            "bn": "শ্রবণের পরের বাক্যাংশটি হলো 'ওয়া হুয়া শাহিদ' — আর সে সাক্ষী, অথবা উপস্থিত। ধ্রুপদী ব্যাখ্যাগুলো তিন দিকে যায়, আর একটি অন্যটিকে বাতিল করে না। তাফসীর মুয়াসসার এটিকে বোঝে অন্তর দিয়ে উপস্থিত থাকা হিসেবে — উদাসীনও নয়, অন্যমনস্কও নয়। অ্যাপের ইংরেজি অনুবাদ সেই ধারাই অনুসরণ করে, কথাটিকে অনুবাদ করে 'মনে উপস্থিত থেকে শোনা' হিসেবে। কেউ কেউ 'শাহিদ' বলতে বোঝেন তিলাওয়াতের আসরে উপস্থিত থাকা।"
+            "bn": "শোনার পরের অংশটি হলো ওয়া হুয়া শাহিদ: আর সে সাক্ষী, কিংবা উপস্থিত। পুরোনো তাফসীরকারদের ব্যাখ্যা তিন দিকে গেছে, আর একটি অন্যটিকে বাতিল করে না। তাফসীর মুয়াসসারের মতে এর মানে অন্তর নিয়ে হাজির থাকা, উদাসীনও নয়, অন্যমনস্কও নয়। অ্যাপের ইংরেজি অনুবাদ এই ধারাই নিয়েছে, অর্থ করেছে: মন উপস্থিত রেখে শোনে। কেউ কেউ শাহিদ বলতে বোঝেন খোদ তিলাওয়াতের জায়গায় উপস্থিত থাকা।"
           },
           {
             "en": "A third reading takes the word in its ordinary sense of a witness, one who attests to the truth of what he is hearing. All three describe the same failure from different sides, a man whose ears are in the room while his attention is elsewhere. Tafsir Ahsanul Bayaan puts the reason bluntly: one who does not take in what is said might as well not have been there at all.",
-            "bn": "তৃতীয় ব্যাখ্যাটি শব্দটিকে তার সাধারণ অর্থেই নেয় — সাক্ষী, অর্থাৎ যে শুনছে তার সত্যতার সাক্ষ্য দেয়। তিনটি ব্যাখ্যাই একই ব্যর্থতাকে ভিন্ন ভিন্ন দিক থেকে বর্ণনা করে: এমন এক মানুষ, যার কান ঘরের ভেতরে আর মনোযোগ অন্য কোথাও। তাফসীর আহসানুল বায়ান কারণটি সোজাসুজি বলে দেয়: যে কথাটাই বুঝল না, তার উপস্থিত থাকা আর না থাকা সমান।"
+            "bn": "তৃতীয় ব্যাখ্যায় শব্দটি তার সাধারণ অর্থে, সাক্ষী: যা শুনছে, সে তার সত্যতার সাক্ষ্য দেয়। তিনটি ব্যাখ্যাই একই ব্যর্থতাকে দেখায় ভিন্ন ভিন্ন দিক থেকে। মানুষটির কান ঘরের ভেতরে, অথচ মন অন্য কোথাও। তাফসীর আহসানুল বায়ান কারণটা সোজাসুজি বলে দেয়: যে কথাটাই মনে নিল না, তার উপস্থিত থাকা আর না থাকা সমান।"
           }
         ]
       },
@@ -901,11 +901,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah Qaf mentions the heart twice in this stretch, and the two places explain each other. At 50:33 the one entering the Garden is described as having feared ar-Rahman in the unseen and come with qalbin munib, a heart that keeps turning back. Four verses later, a heart that can receive a reminder is the qualification for benefiting from one. The returning heart and the receiving heart are the same organ described at two moments.",
-            "bn": "সূরা কাফ এই অংশে অন্তরের কথা দুবার বলে, আর দুটি জায়গা পরস্পরকে ব্যাখ্যা করে। 50:33-এ জান্নাতে প্রবেশকারীর বর্ণনা এই যে সে না দেখে রহমানকে ভয় করেছে এবং এসেছে 'কলবিম মুনীব' নিয়ে — এমন অন্তর যা বারবার ফিরে আসে। চার আয়াত পরে, উপদেশ গ্রহণ করতে পারে এমন অন্তরই উপদেশ থেকে উপকৃত হওয়ার যোগ্যতা। ফিরে আসা অন্তর আর গ্রহণ করা অন্তর — একই যন্ত্র, দুই মুহূর্তে বর্ণিত।"
+            "bn": "এই অংশে সূরা কাফ অন্তরের কথা বলে দুবার, আর দুটি জায়গা একে অপরকে বুঝতে সাহায্য করে। ৫০:৩৩ আয়াতে জান্নাতে প্রবেশকারীর পরিচয়: সে না দেখেই রহমানকে ভয় করেছে, আর এসেছে কলবিম মুনীব নিয়ে, এমন অন্তর যা বারবার ফিরে আসে। চার আয়াত পরে দেখা যায়, উপদেশ থেকে উপকার পাওয়ার শর্তই হলো এমন অন্তর, যা উপদেশ গ্রহণ করতে পারে। ফিরে আসা অন্তর আর গ্রহণ করা অন্তর আসলে একই অন্তর, শুধু দুই মুহূর্তে দেখা।"
           },
           {
             "en": "The practical instruction sits in the verse's own verbs, and it is unusually concrete. Reminders are not scarce; presence is. Before reading, do the thing the verse names: throw your hearing at it, and be in the room. Two verses on, 50:39 tells the Prophet ﷺ to be patient with what they say and to glorify his Lord before the rising of the sun and before its setting, which is where a gathered attention gets spent.",
-            "bn": "ব্যবহারিক নির্দেশটি আয়াতের নিজের ক্রিয়াপদগুলোতেই বসে আছে, আর তা অস্বাভাবিক রকম বাস্তব। উপদেশের অভাব নেই; অভাব উপস্থিতির। পড়ার আগে আয়াতটি যে কাজের নাম বলে সেটিই করুন: আপনার শ্রবণকে তার দিকে ছুঁড়ে দিন, আর ঘরের ভেতরে থাকুন। দুই আয়াত পরে 50:39 নবী ﷺ-কে বলে, তারা যা বলে তাতে ধৈর্য ধরতে এবং সূর্যোদয়ের আগে ও সূর্যাস্তের আগে প্রতিপালকের প্রশংসা ও পবিত্রতা ঘোষণা করতে — একত্র করা মনোযোগ সেখানেই ব্যয় হয়।"
+            "bn": "করণীয়টা আয়াতের নিজের ক্রিয়াগুলোতেই বলা আছে, আর তা বেশ হাতে-কলমে। উপদেশের অভাব নেই, অভাব উপস্থিতির। পড়তে বসার আগে আয়াতটি যা বলে তা-ই করুন: নিজের শ্রবণ তার দিকে ছুড়ে দিন, আর মন নিয়ে হাজির থাকুন। দুই আয়াত পরে ৫০:৩৯ নবী ﷺ-কে নির্দেশ দেয়, তারা যা বলে তাতে ধৈর্য ধরতে, আর সূর্য ওঠার আগে ও ডোবার আগে প্রশংসাসহ তাঁর রবের পবিত্রতা ঘোষণা করতে। গুছিয়ে আনা মনোযোগ খরচ হয় সেখানেই।"
           }
         ]
       }
@@ -941,7 +941,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari says openly that the people of interpretation disagreed. Ibn Zayd said it was al-'atama, the late evening prayer. Mujahid said: of the whole night. At-Tabari judges Mujahid's word nearer the truth, because Allah did not limit the command to a particular hour, so it covers all the night's hours. On that footing, he adds, the verse looks more like a command to pray Maghrib and 'Isha, since both are prayed at night, than a command to pray al-'atama alone.",
-            "bn": "তাবারী খোলাখুলি বলেন, তাফসীরকারদের মধ্যে এ নিয়ে মতভেদ হয়েছে। ইবন যায়দ বলেছেন, এটা আতামা, অর্থাৎ রাতের শেষ ভাগের ইশার নামায। মুজাহিদ বলেছেন: গোটা রাতের যে কোনো সময়। তাবারীর বিচারে মুজাহিদের কথাই সত্যের বেশি কাছে। কারণ আল্লাহ রাতের কোনো নির্দিষ্ট প্রহর বেঁধে দেননি, তাই হুকুমটা রাতের সব প্রহরেই খাটে। এর ভিত্তিতে তিনি যোগ করেন, আয়াতটি শুধু আতামার নামাযের হুকুম হওয়ার চেয়ে মাগরিব ও ইশা দুটোরই হুকুম হওয়ার সঙ্গে বেশি মেলে, কেননা দুটোই রাতে পড়া হয়।"
+            "bn": "তাবারী খোলাখুলি বলেন, তাফসীরকারদের মধ্যে এ নিয়ে মতভেদ হয়েছে। ইবন যায়দ বলেছেন, এটা আতামা, অর্থাৎ রাতের ইশার নামাজ। মুজাহিদ বলেছেন: গোটা রাতের যে কোনো সময়। তাবারীর বিচারে মুজাহিদের কথাই সত্যের বেশি কাছে। কারণ আল্লাহ রাতের কোনো নির্দিষ্ট প্রহর বেঁধে দেননি, তাই হুকুমটা রাতের সব প্রহরেই খাটে। এর ভিত্তিতে তিনি যোগ করেন, আয়াতটি শুধু আতামার নামাজের হুকুম হওয়ার চেয়ে মাগরিব ও ইশা দুটোরই হুকুম হওয়ার সঙ্গে বেশি মেলে, কেননা দুটোই রাতে পড়া হয়।"
           }
         ]
       },
@@ -1009,7 +1009,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The readers differ over a single vowel. At-Tabari reports that most readers of the Hijaz and Kufa, apart from Asim and al-Kisa'i, read wa idbara s-sujud with a kasra, the verbal noun of adbara, to turn and depart. Asim, al-Kisa'i and Abu Amr read wa adbara with a fatha, the plural of dubur, the back or end of a thing, and at-Tabari's own choice is the fatha. Al-Qurtubi names Nafi', Ibn Kathir the reader and Hamza for the kasra, and says the fatha was the reading of Ali and Ibn Abbas (RA).",
-            "bn": "কারীদের মধ্যে মতভেদ মাত্র একটি স্বরচিহ্ন নিয়ে। তাবারী জানান, হিজায ও কুফার বেশির ভাগ কারী, আসিম ও কিসাঈ বাদে, পড়েছেন ওয়া ইদবারাস সুজূদ, যেরসহ। তখন শব্দটি আদবারা ক্রিয়ার মূল রূপ, যার অর্থ মুখ ফিরিয়ে চলে যাওয়া। আসিম, কিসাঈ ও আবু আমর পড়েছেন ওয়া আদবারা, যবরসহ। তখন এটি দুবুর শব্দের বহুবচন, অর্থাৎ কোনো কিছুর পিঠ বা শেষ ভাগ। তাবারী নিজে যবরের পাঠই বেছে নেন। কুরতুবী যেরের পাঠের জন্য নাম করেন নাফি', কারী ইবন কাসীর ও হামযার, আর বলেন যবরের পাঠ ছিল আলী ও ইবন আব্বাস (রাঃ)-এর।"
+            "bn": "কারীদের মধ্যে মতভেদ মাত্র একটি স্বরচিহ্ন নিয়ে। তাবারী জানান, হিজায ও কুফার বেশির ভাগ কারী, আসিম ও কিসাঈ বাদে, পড়েছেন ওয়া ইদবারাস সুজূদ, যেরসহ। তখন শব্দটি আদবারা ক্রিয়ার মাসদার। আদবারা মানে মুখ ফিরিয়ে চলে যাওয়া। আসিম, কিসাঈ ও আবু আমর পড়েছেন ওয়া আদবারা, যবরসহ। তখন এটি দুবুর শব্দের বহুবচন, অর্থাৎ কোনো কিছুর পিঠ বা শেষ ভাগ। তাবারী নিজে যবরের পাঠই বেছে নেন। কুরতুবী যেরের পাঠের জন্য নাম করেন নাফি', কারী ইবন কাসীর ও হামযার, আর বলেন যবরের পাঠ ছিল আলী ও ইবন আব্বাস (রাঃ)-এর।"
           },
           {
             "en": "Either way the sense lands close by: at the departing of the prostrations, or at their backs, which is to say when the prayer is over. Al-Qurtubi notes that the Arabs used the word as a time phrase, as in I came to you at the dubur of the prayer. He adds that nobody disputes the kasra at the end of at-Tur, wa idbara n-nujum in 52:49, the fading of the stars' light when the second dawn rises. At-Tabari reports Ibrahim pairing the two phrases with the two rak'as before Subh and the two after Maghrib, and Shu'bah admitting he did not know which was which.",
