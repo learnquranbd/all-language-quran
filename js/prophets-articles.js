@@ -1876,8 +1876,8 @@ var PROPHET_ARTICLES = {
             bn: "আর আমি তাঁকে ইসহাক দিলাম, উপরন্তু ইয়াকুবকেও; এবং প্রত্যেককেই সৎকর্মশীল করলাম (21:72)। যে শব্দটিকে এখানে 'উপরন্তু' বলা হয়েছে, তা ইঙ্গিত করে এমন এক নাতির দিকে, যাঁকে কেউ চায়ওনি। ইবরাহীম নিজে কীভাবে শুকরিয়া আদায় করেছিলেন, তাও কুরআনে আছে: সমস্ত প্রশংসা আল্লাহর, যিনি বার্ধক্যে আমাকে ইসমাঈল ও ইসহাক দান করেছেন। নিশ্চয়ই আমার প্রভু দোয়া শ্রবণকারী (14:39)।",
           },
           {
-            en: "And We gave to him Ishaq and Ya'qub and placed in his descendants prophethood and scripture (29:27). That single verse explains why so little narrative is told about Ishaq himself. His significance in the Quran is not a set of events but a line: through him came Ya'qub, and through Ya'qub the tribes, and through them Yusuf, Musa, Dawud, Sulayman, Zakariya, Yahya and Isa.",
-            bn: "আর আমি তাঁকে ইসহাক ও ইয়াকুব দান করলাম এবং তাঁর বংশধরদের মধ্যে নবুয়ত ও কিতাব রাখলাম (29:27)। ইসহাককে নিয়ে কুরআনে কাহিনি এত কম কেন, এই একটি আয়াতেই তার উত্তর। কুরআনে তাঁর গুরুত্ব কিছু ঘটনায় নয়, একটি বংশধারায়: তাঁর থেকে এলেন ইয়াকুব, ইয়াকুব থেকে গোত্রগুলো, আর তাঁদের মধ্য থেকে ইউসুফ, মূসা, দাউদ, সুলাইমান, যাকারিয়া, ইয়াহইয়া ও ঈসা।",
+            en: "And We gave to him Ishaq and Ya'qub and placed in his descendants prophethood and scripture (29:27). That single verse explains why so little narrative is told about Ishaq himself. His significance in the Quran is not a set of events but a line: through him came Ya'qub, and through Ya'qub the tribes, among them Yusuf, and through them Musa, Dawud, Sulayman, Zakariya, Yahya and Isa.",
+            bn: "আর আমি তাঁকে ইসহাক ও ইয়াকুব দান করলাম এবং তাঁর বংশধরদের মধ্যে নবুয়ত ও কিতাব রাখলাম (29:27)। ইসহাককে নিয়ে কুরআনে কাহিনি এত কম কেন, এই একটি আয়াতেই তার উত্তর। কুরআনে তাঁর গুরুত্ব কিছু ঘটনায় নয়, একটি বংশধারায়: তাঁর থেকে এলেন ইয়াকুব, ইয়াকুব থেকে গোত্রগুলো, যাঁদের মধ্যে ইউসুফও ছিলেন, আর তাঁদের থেকে মূসা, দাউদ, সুলাইমান, যাকারিয়া, ইয়াহইয়া ও ঈসা।",
           },
         ],
       },

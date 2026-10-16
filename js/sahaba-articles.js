@@ -978,7 +978,7 @@ var SAHABA_ARTICLES = {
         h: { en: "Justice and Hard Years", bn: "ন্যায়বিচার ও দুর্বছর" },
         p: [
           {
-            en: "The famine remembered as the Year of Ashes tested him hardest. He wrote to the governors of Egypt and Syria for grain, organised relief in Madinah, and refused butter and meat until the people had them, saying he would not be a poor guardian if he did not taste what they tasted. In the same crisis he suspended the punishment for theft, judging that a hungry population could not be held to it.",
+            en: "The famine remembered as the Year of Ashes tested him hardest. He wrote to the governors of Egypt and Syria for grain, organised relief in Madinah, and refused butter and meat until the people had them, saying he would be a poor guardian if he did not taste what they tasted. In the same crisis he suspended the punishment for theft, judging that a hungry population could not be held to it.",
             bn: "যে দুর্ভিক্ষ ‘আমুর রামাদা’ বা ছাইয়ের বছর নামে স্মরণীয়, সেটিই তাঁকে সবচেয়ে কঠিন পরীক্ষায় ফেলে। তিনি মিসর ও সিরিয়ার গভর্নরদের কাছে খাদ্যশস্যের জন্য চিঠি লেখেন, মদিনায় ত্রাণ সংগঠিত করেন, এবং মানুষ না পাওয়া পর্যন্ত নিজে ঘি ও গোশত স্পর্শ করেননি—তিনি বলতেন, মানুষ যা চাখছে তা না চাখলে তিনি মন্দ অভিভাবকই হবেন। একই সংকটে তিনি চুরির শাস্তি স্থগিত রাখেন, এই বিবেচনায় যে ক্ষুধার্ত একটি জনগোষ্ঠীকে তার অধীন রাখা যায় না।",
           },
           {
@@ -2309,8 +2309,8 @@ var SAHABA_ARTICLES = {
             bn: "আবু বকর (রাঃ) যখন মুসাইলিমার বিরুদ্ধে বাহিনী পাঠান, তিনি সঙ্গে যাওয়ার অনুমতি চাইলেন এবং অনুমতি পেলেন। সেই যুদ্ধে তিনি নেমেছিলেন নিজের ছেলের হত্যাকারীকে খুঁজতে। ইয়ামামার লড়াই ছিল সে সময়ের সবচেয়ে কঠিন যুদ্ধ, আর তিনি ছিলেন তার সবচেয়ে ভয়ংকর অংশে—একের পর এক আঘাত সহ্য করেছেন, শেষে হাতটি বাহু থেকে বিচ্ছিন্ন হয়ে যায়।",
           },
           {
-            en: "Musaylimah was killed in that garden and she lived to see it. She came back to Madinah with one hand and without her son, and Abu Bakr came to her house to ask after her. She had given at Aqabah a pledge to defend, and she had now paid it in her own body twice over.",
-            bn: "সেই বাগানেই মুসাইলিমা নিহত হয়, আর তিনি তা দেখে যেতে পেরেছিলেন। এক হাত নিয়ে, সন্তানকে হারিয়ে তিনি মদিনায় ফেরেন; আবু বকর (রাঃ) নিজে তাঁর বাড়িতে এসে খোঁজ নেন। আকাবায় তিনি রক্ষার যে প্রতিশ্রুতি দিয়েছিলেন, এবার তা নিজের দেহ দিয়ে দুইবার পরিশোধ করলেন।",
+            en: "Musaylimah's men made their last stand in a walled garden, remembered afterwards as the Garden of Death. Musaylimah was killed in that garden and she lived to see it. She came back to Madinah with one hand and without her son, and Abu Bakr came to her house to ask after her. She had given at Aqabah a pledge to defend, and she had now paid it in her own body twice over.",
+            bn: "মুসাইলিমার লোকেরা শেষ প্রতিরোধ গড়েছিল প্রাচীরঘেরা এক বাগানে, পরে যা ‘মৃত্যুর বাগান’ নামে পরিচিত হয়। সেই বাগানেই মুসাইলিমা নিহত হয়, আর তিনি তা দেখে যেতে পেরেছিলেন। এক হাত নিয়ে, সন্তানকে হারিয়ে তিনি মদিনায় ফেরেন; আবু বকর (রাঃ) নিজে তাঁর বাড়িতে এসে খোঁজ নেন। আকাবায় তিনি রক্ষার যে প্রতিশ্রুতি দিয়েছিলেন, এবার তা নিজের দেহ দিয়ে দুইবার পরিশোধ করলেন।",
           },
         ],
       },
@@ -2984,8 +2984,8 @@ var SAHABA_ARTICLES = {
             bn: "সারা জীবনের উপার্জন এক বিকেলে হারিয়ে তিনি মদিনায় পৌঁছালেন। এরপর তিনি কখনো এ নিয়ে অনুযোগ করেছেন, এমন কোনো বর্ণনা নেই। তিনি লড়েছেন বদরে, উহুদে, আর তারপর যা যা হয়েছে সবটাতেই। যে মানুষ সর্বস্ব দিয়ে নিজের পথ কিনে নিয়েছেন, পৌঁছে যাওয়ার পর তাঁর কিছু আটকে রাখার কথা নয়।",
           },
           {
-            en: "The accent stayed with him and so did the name. It is worth noticing that the community never treated either as a defect. Among the earliest Muslims were a Roman, a Persian, an Abyssinian and a Jewish scholar of Madinah, and the sources record their origins as facts rather than as qualifications on their standing.",
-            bn: "বিদেশি টানটা তাঁর সঙ্গেই রয়ে গেল, নামটাও। লক্ষ করার মতো বিষয় এই যে মুসলিম সমাজ কোনোটাকেই খুঁত হিসেবে দেখেনি। একেবারে শুরুর মুসলিমদের মধ্যে ছিলেন একজন রোমান, একজন পারসিক, একজন হাবশি আর মদিনার এক ইহুদি পণ্ডিত। সূত্রগুলো তাঁদের এই পরিচয়গুলো লিখে রেখেছে নিছক তথ্য হিসেবে, মর্যাদার ওপর কোনো শর্ত হিসেবে নয়।",
+            en: "The accent stayed with him and so did the name. It is worth noticing that the community never treated either as a defect. Among the Prophet's ﷺ Companions were a Roman, a Persian, an Abyssinian and a Jewish scholar of Madinah, and the sources record their origins as facts rather than as qualifications on their standing.",
+            bn: "বিদেশি টানটা তাঁর সঙ্গেই রয়ে গেল, নামটাও। লক্ষ করার মতো বিষয় এই যে মুসলিম সমাজ কোনোটাকেই খুঁত হিসেবে দেখেনি। নবীজি ﷺ-এর সাহাবিদের মধ্যে ছিলেন একজন রোমান, একজন পারসিক, একজন হাবশি আর মদিনার এক ইহুদি পণ্ডিত। সূত্রগুলো তাঁদের এই পরিচয়গুলো লিখে রেখেছে নিছক তথ্য হিসেবে, মর্যাদার ওপর কোনো শর্ত হিসেবে নয়।",
           },
         ],
       },
@@ -3350,8 +3350,8 @@ var SAHABA_ARTICLES = {
             bn: "মুসলিমরা যখন গৃহযুদ্ধে জড়িয়ে পড়লেন, নিরপেক্ষ প্রার্থী হিসেবে ইবনে উমরের নামই সবার আগে আসে: এক খলিফার ছেলে, মর্যাদাবান সাহাবি, কোনো পক্ষেই নন। একাধিকবার নানা দল তাঁর কাছে এসে নেতৃত্বের প্রস্তাব দিয়েছে। প্রতিবারই তিনি ফিরিয়ে দিয়েছেন। বলেছেন, তাঁকে ঘিরে মুসলিমের রক্ত ঝরুক তা তিনি চান না, আর মুসলিম মুসলিমকে মারছে এমন যুদ্ধে তিনি লড়বেন না।",
           },
           {
-            en: "His position was not indifference. He gave his pledge to whoever the community had settled on, prayed behind whoever was leading, and went on teaching. For nearly fifty years, while factions fought over who should rule, students in Madinah could go to one house and be told what the Prophet ﷺ had actually done, by a man with no stake in the outcome.",
-            bn: "তাঁর এই অবস্থান উদাসীনতা ছিল না। সমাজ যাঁর ওপর ঐকমত্যে পৌঁছাত তাঁকেই তিনি বাইআত দিতেন, যিনি ইমামতি করতেন তাঁর পেছনেই নামাজ পড়তেন, আর শিক্ষাদান চালিয়ে যেতেন। প্রায় পঞ্চাশ বছর ধরে দলগুলো যখন শাসনক্ষমতা নিয়ে লড়ছে, মদিনার ছাত্ররা তখন একটা ঘরে গিয়ে জানতে পারত নবীজি ﷺ আসলে কী করেছেন — এমন একজনের কাছ থেকে, যার ফলাফলে কোনো স্বার্থ নেই।",
+            en: "His position was not indifference. He gave his pledge to whoever the community had settled on, prayed behind whoever was leading, and went on teaching. For nearly forty years, while factions fought over who should rule, students in Madinah could go to one house and be told what the Prophet ﷺ had actually done, by a man with no stake in the outcome.",
+            bn: "তাঁর এই অবস্থান উদাসীনতা ছিল না। সমাজ যাঁর ওপর ঐকমত্যে পৌঁছাত তাঁকেই তিনি বাইআত দিতেন, যিনি ইমামতি করতেন তাঁর পেছনেই নামাজ পড়তেন, আর শিক্ষাদান চালিয়ে যেতেন। প্রায় চল্লিশ বছর ধরে দলগুলো যখন শাসনক্ষমতা নিয়ে লড়ছে, মদিনার ছাত্ররা তখন একটা ঘরে গিয়ে জানতে পারত নবীজি ﷺ আসলে কী করেছেন — এমন একজনের কাছ থেকে, যার ফলাফলে কোনো স্বার্থ নেই।",
           },
         ],
       },

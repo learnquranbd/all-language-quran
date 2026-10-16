@@ -2333,8 +2333,8 @@ var SEERAH_ARTICLES = {
             bn: "সহিহ বুখারিতে আব্দুল্লাহ ইবনে উমর (রাঃ) থেকে আছে, নবী ﷺ প্রতি শনিবার কুবার মসজিদে যেতেন, কখনো হেঁটে কখনো সওয়ারিতে, আর সেখানে দুই রাকাত পড়তেন; ইবনে উমর (রাঃ) নিজেও পরে এ অভ্যাস ধরে রাখেন। কয়েক দিনে গড়া সেই মসজিদে তিনি সারা জীবন সপ্তাহে একবার যেতেন, যদিও মদিনায় তাঁর ঘরের পাশেই আরও বড় মসজিদ ছিল।"
           },
           {
-            en: "The reward attached to the place comes through Sahl ibn Hunayf (RA): whoever purifies himself in his house, then comes to the mosque of Quba and prays a prayer in it, has a reward like that of an Umrah. That wording sits in Sunan Ibn Majah, Jami' at-Tirmidhi and Sunan an-Nasa'i, not the two Sahihs, and it says a prayer, without fixing a number of units.",
-            bn: "জায়গাটির সঙ্গে জড়িত সওয়াবের কথা এসেছে সাহল ইবনে হুনাইফ (রাঃ)-এর সূত্রে: যে নিজ ঘরে পবিত্রতা অর্জন করে কুবার মসজিদে এসে সালাত আদায় করে, সে উমরার সমান সওয়াব পায়। এই শব্দে হাদিসটি আছে সুনানে ইবনে মাজাহ, জামে তিরমিজি ও সুনানে নাসাইতে, দুই সহিহতে নয়। আর বলা হয়েছে সালাত, রাকাতের কোনো সংখ্যা এখানে বেঁধে দেওয়া হয়নি।"
+            en: "The reward attached to the place comes through Sahl ibn Hunayf (RA): whoever purifies himself in his house, then comes to the mosque of Quba and prays a prayer in it, has a reward like that of an Umrah. That wording sits in Sunan Ibn Majah, and Sunan an-Nasa'i has it from Sahl too, a little shorter; Jami' at-Tirmidhi carries the briefer form from Usayd ibn Zuhayr (RA), that prayer in the mosque of Quba is like an Umrah. None of these is in the two Sahihs, and the wording says a prayer, without fixing a number of units.",
+            bn: "জায়গাটির সঙ্গে জড়িত সওয়াবের কথা এসেছে সাহল ইবনে হুনাইফ (রাঃ)-এর সূত্রে: যে নিজ ঘরে পবিত্রতা অর্জন করে কুবার মসজিদে এসে সালাত আদায় করে, সে উমরার সমান সওয়াব পায়। এই শব্দে হাদিসটি আছে সুনানে ইবনে মাজাহতে; সুনানে নাসাইতেও সাহল (রাঃ)-এর সূত্রে কিছুটা সংক্ষেপে এসেছে। আর জামে তিরমিজিতে আছে উসাইদ ইবনে জুহাইর (রাঃ)-এর সূত্রে আরও ছোট রূপটি: কুবার মসজিদে সালাত উমরার মতো। এগুলোর কোনোটিই দুই সহিহতে নয়। আর বলা হয়েছে সালাত, রাকাতের কোনো সংখ্যা এখানে বেঁধে দেওয়া হয়নি।"
           }
         ]
       },
@@ -4153,8 +4153,8 @@ var SEERAH_ARTICLES = {
             "bn": "এই বছরগুলোর কেন্দ্রে আবু তালিব। যে ভাতিজাকে খাওয়ানোই তাঁর জন্য সহজ ছিল না, তাঁকে তিনি ঘরে তুললেন, নিজের ছেলেদের পাশে কাজে লাগালেন, আর পেছনে ফেলে না গিয়ে সিরিয়া পর্যন্ত সঙ্গে নিলেন। পরে যে কারণে তাঁকে মনে রাখা হয়, অর্থাৎ কুরাইশের হাতে ভাতিজাকে তুলে দিতে অস্বীকার করা, তা এই স্বভাবেরই ধারাবাহিকতা। তাঁর মৃত্যুর কথা এই সময়রেখায় আলাদা একটি অংশে আছে, সেখানেই তা মানায়।"
           },
           {
-            "en": "Fatimah bint Asad (RA) is the second, and the reports call her a mother to him after his own mother. Ali (RA) and Ja'far (RA), not yet born in these years, came later into that same house and entered Islam early. Bahira is the fourth name, and outside this one story nothing is known of him, which is part of why the account is handled carefully.",
-            "bn": "দ্বিতীয়জন ফাতিমা বিনতে আসাদ (রাঃ); বর্ণনাগুলোতে তাঁকে বলা হয়েছে নিজের মায়ের পর তাঁর মা। আলি (রাঃ) ও জাফর (রাঃ)-এর তখনো জন্মই হয়নি; পরে তাঁরা এসেছেন এই একই ঘরে, আর দুজনই ইসলামে এসেছেন শুরুর দিকে। চতুর্থ নামটি বাহিরা, আর এই একটি গল্পের বাইরে তাঁর সম্পর্কে কিছুই জানা যায় না। বর্ণনাটি সাবধানে নাড়াচাড়া করার একটা কারণ এটাও।"
+            "en": "Fatimah bint Asad (RA) is the second, and the reports call her a mother to him after his own mother. Ali (RA) and Ja'far (RA), not yet born in these years, came later into that same house and entered Islam early. Bahira is the fifth name, and outside this one story nothing is known of him, which is part of why the account is handled carefully.",
+            "bn": "দ্বিতীয়জন ফাতিমা বিনতে আসাদ (রাঃ); বর্ণনাগুলোতে তাঁকে বলা হয়েছে নিজের মায়ের পর তাঁর মা। আলি (রাঃ) ও জাফর (রাঃ)-এর তখনো জন্মই হয়নি; পরে তাঁরা এসেছেন এই একই ঘরে, আর দুজনই ইসলামে এসেছেন শুরুর দিকে। পঞ্চম নামটি বাহিরা, আর এই একটি গল্পের বাইরে তাঁর সম্পর্কে কিছুই জানা যায় না। বর্ণনাটি সাবধানে নাড়াচাড়া করার একটা কারণ এটাও।"
           }
         ]
       },
