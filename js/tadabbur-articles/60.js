@@ -49,7 +49,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The narration ends: Amr said, and about him was revealed, O you who believe, do not take My enemy and your enemy. A narrator adds: I do not know whether the verse is in the hadith or is Amr's own statement. Asked about it, Sufyan said it is in what people narrate, and that he had memorised the hadith from Amr without leaving out a letter. Ibn Kathir notes that al-Bukhari's chapter on the battles reads: then Allah revealed the surah. At-Tabari adds that reports from a number of the Companions and others say the same.",
-            "bn": "বর্ণনার শেষে আছে: আমর বলেন, তাঁর ব্যাপারেই নাযিল হয়েছে: হে ঈমানদারগণ, আমার শত্রু ও তোমাদের শত্রুকে বন্ধু বানিয়ো না। একজন বর্ণনাকারী যোগ করেন: আমি জানি না আয়াতটি হাদীসের অংশ, নাকি আমরের নিজের কথা। এ বিষয়ে সুফিয়ানকে জিজ্ঞেস করা হলে তিনি বলেন, এটা লোকদের বর্ণনায় আছে, আর তিনি নিজে আমরের কাছ থেকে হাদীসটি একটি অক্ষরও না ছেড়ে মুখস্থ করেছেন। ইবন কাসীর জানান, বুখারীর যুদ্ধ-অভিযান অধ্যায়ের বর্ণনায় আছে: তখন আল্লাহ সূরাটি নাযিল করলেন। তাবারী যোগ করেন, একদল সাহাবি ও অন্যদের থেকে আসা বর্ণনাও একই কথা বলে।"
+            "bn": "বর্ণনার শেষে আছে: আমর বলেন, তাঁর ব্যাপারেই নাজিল হয়েছে: হে ঈমানদারগণ, আমার শত্রু ও তোমাদের শত্রুকে বন্ধু বানিয়ো না। একজন বর্ণনাকারী যোগ করেন: আমি জানি না আয়াতটি হাদিসের অংশ, নাকি আমরের নিজের কথা। এ বিষয়ে সুফিয়ানকে জিজ্ঞেস করা হলে তিনি বলেন, এটা লোকদের বর্ণনায় আছে, আর তিনি নিজে আমরের কাছ থেকে হাদিসটি একটি অক্ষরও না ছেড়ে মুখস্থ করেছেন। ইবন কাসীর জানান, বুখারীর যুদ্ধ-অভিযান অধ্যায়ের বর্ণনায় আছে: তখন আল্লাহ সূরাটি নাজিল করলেন। তাবারী যোগ করেন, একদল সাহাবি ও অন্যদের থেকে আসা বর্ণনাও একই কথা বলে।"
           }
         ]
       },
