@@ -31,9 +31,12 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Open EN: 3:92 s2.p1 "the reward went straight back into his own family": the property went to family; reward is with Allah (BN says দানের সুফল).
 - Open EN: 3:190-191 s2.p1 sums up 3:192 as "shame at the fate of wrongdoers"; the verse is the disgrace of whoever is put in the Fire.
 - Shard 3 DONE v982 (8/8 + spelling pass). Reviewers moved duas to address Allah as আপনি only in strings they rewrote; untouched dua strings in 3 may still say তুমি (mixed). Bengali-only notes kept: 3:18-19 s1.p1 (Ahsanul Bayan), 3:123-126 s1.p0.
-- USER DECISION: ~975 EN article paragraphs (nearly every js/tadabbur-articles shard) leak the drafting process: "None of the commentaries fetched for this verse...", "the tafsir page fetched", "these fetched commentators", 17:80 s4.p0 "The note behind this article". Proposed: fetched -> consulted (skip "far-fetched") + same rule in tools/wip/round11/BRIEF.md. Not done.
+- USER DECISION: ~975 EN article paragraphs (nearly every js/tadabbur-articles shard) leak the drafting process: "None of the commentaries fetched for this verse...", "the tafsir page fetched", "these fetched commentators", 18:29 s3.p2 "the shipped reading of 10:99", 17:80 s4.p0 "The note behind this article". Proposed: fetched -> consulted (skip "far-fetched") + same rule in tools/wip/round11/BRIEF.md. Not done.
 - Shard 16 DONE v983 (6/6 + spelling pass incl. জিহবা→জিহ্বা). Open EN: 16:116 s6.p0 "in both readings of the verse" refers to nothing; 16:116 s2.p2 says carrion was among what pagans banned (they allowed it); 16:96-97 s0.p1 "baq" mangled for baqin; 16:98 s2.p1 "the first view, seeking it before" but the first view named is seeking refuge after.
 - Open EN (17): 17:47 s7.p2 Allah knows "what is said to Him" (slander was about the Prophet); 17:47 s6.p1 "describes what the text describes" tautology.
+- Shard 17 DONE v984 (5/5 + spelling). Open EN (17): 17:71 s3.h "Sixty Cubits and a Crown" but no paragraph mentions sixty cubits; 17:60 s6.p0 rain "bakes" hard earth (mixed image).
+- PRIORITY Open EN (18): 18:2 s3.p0 says at 3:175 "Allah frightens His enemies"; in 3:175 it is Satan who frightens [you] with his allies. BN leaves the frightener unnamed.
+- Open EN (18/21): 18:99 s5.p0 "two further verses" then lists three (56:49, 56:50, 18:47); 21:105 s7.p1 says the verse "closes a surah" (7 verses before the end; BN says near its end).
 - Progress (shard: packets done): 2: 12/12, 3: 8/8, 16: 6/6, 17: 5/5
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
