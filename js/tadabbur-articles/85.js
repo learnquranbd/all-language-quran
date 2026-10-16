@@ -25,7 +25,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two more oaths follow at once, in 85:2 and 85:3, two words each: the promised day, and the witness and the witnessed. They belong to their own entries and are only named here; al-Muyassar runs all three together in a single sentence. The word buruj also stands at 15:16, whose shipped entry already works through its readings and root. This article adds what is particular to 85:1: how its own commentators gloss the word, and where its oath comes to rest.",
-            "bn": "এরপরই আসে আরও দুটি শপথ, ৮৫:২ ও ৮৫:৩ আয়াতে, প্রতিটি দুই শব্দের: প্রতিশ্রুত দিন, আর সাক্ষী ও যার সাক্ষ্য দেওয়া হয়। ওগুলোর আলোচনা ওদের নিজস্ব জায়গায়, এখানে শুধু নাম নেওয়া হলো। মুয়াসসার তিনটি শপথ এক বাক্যেই বলে। বুরূজ শব্দটি ১৫:১৬ আয়াতেও আছে, আর সে আয়াতের প্রকাশিত লেখায় এর নানা অর্থ ও মূল ধাতু নিয়ে আলোচনা হয়ে গেছে। এই লেখা যোগ করে শুধু ৮৫:১-এর নিজস্ব কথা: এ আয়াতের তাফসীরকারেরা শব্দটির কী অর্থ করেছেন, আর এর শপথ কোথায় গিয়ে থামে।"
+            "bn": "এরপরই আসে আরও দুটি শপথ, ৮৫:২ ও ৮৫:৩ আয়াতে, প্রতিটি দুই শব্দের: প্রতিশ্রুত দিন, আর সাক্ষী ও যার সাক্ষ্য দেওয়া হয়। সেগুলোর আলোচনা তাদের নিজ নিজ জায়গায়, এখানে শুধু নাম নেওয়া হলো। মুয়াসসার তিনটি শপথ এক বাক্যেই বলে। বুরূজ শব্দটি ১৫:১৬ আয়াতেও আছে, আর এ সংকলনে সে আয়াতের আলোচনায় এর নানা অর্থ ও মূল ধাতু নিয়ে আলোচনা হয়ে গেছে। এই লেখা যোগ করে শুধু ৮৫:১-এর নিজস্ব কথা: এ আয়াতের তাফসীরকারেরা শব্দটির কী অর্থ করেছেন, আর এর শপথ কোথায় গিয়ে থামে।"
           }
         ]
       },
@@ -77,7 +77,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two of the shorter commentaries keep to the stations and say what they point to. Al-Muyassar explains the verse as an oath by the sky with the stations through which the sun and the moon pass. As-Sa'di reads the buruj as stations that include those of the sun and the moon, and the stars set in order in their courses, in the most perfect arrangement and order. That order, he says, points to the perfection of Allah's power and His mercy, and to the breadth of His knowledge and His wisdom.",
-            "bn": "ছোট দুটি তাফসীর মনযিলের অর্থেই থাকে, আর বলে দেয় এগুলো কীসের দিকে ইশারা করে। মুয়াসসার আয়াতটির ব্যাখ্যা দেয় এভাবে: সেই আকাশের শপথ, যার মনযিলগুলো দিয়ে সূর্য ও চাঁদ চলাচল করে। সা'দী বুরূজকে পড়েন এমন মনযিল হিসেবে, যার ভেতরে আছে সূর্য ও চাঁদের মনযিল, আর নিজ নিজ পথে নিয়ম মেনে চলা তারাগুলো, সবচেয়ে নিখুঁত বিন্যাসে। তাঁর মতে এই শৃঙ্খলা আল্লাহর কুদরত ও রহমতের পূর্ণতার দিকে ইশারা করে, ইশারা করে তাঁর ইলম ও হিকমতের বিশালতার দিকেও।"
+            "bn": "ছোট দুটি তাফসীর মনযিলের অর্থই ধরে রাখে, আর বলে দেয় এগুলো কীসের দিকে ইশারা করে। মুয়াসসার আয়াতটির ব্যাখ্যা দেয় এভাবে: সেই আকাশের শপথ, যার মনযিলগুলো দিয়ে সূর্য ও চাঁদ চলাচল করে। সা'দী বুরূজের অর্থ করেন মনযিল, যার মধ্যে আছে সূর্য ও চাঁদের মনযিলও, আর আছে নিজ নিজ কক্ষপথে নিয়ম মেনে সাজানো তারাগুলো, সবচেয়ে নিখুঁত বিন্যাস ও শৃঙ্খলায়। তাঁর মতে এই শৃঙ্খলা আল্লাহর কুদরত ও রহমতের পূর্ণতার দিকে ইশারা করে, ইশারা করে তাঁর ইলম ও হিকমতের বিশালতার দিকেও।"
           }
         ]
       },
@@ -89,7 +89,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi goes further than the others and lists the twelve by name, beginning with al-Hamal and ending with al-Hut. That list is his gloss for the word, under the view that the buruj are stations, and nothing more is built on it here. None of the texts fetched on this verse treats the buruj as a source of knowledge about people's fortunes or as an influence on what happens to them, and this article derives no knowledge of fortune and no influence from them.",
-            "bn": "কুরতুবী অন্যদের চেয়ে আরও এগিয়ে বারোটির নাম ধরে ধরে তালিকা দেন, শুরু আল-হামাল দিয়ে, শেষ আল-হূত দিয়ে। তালিকাটি শব্দটির ব্যাখ্যায় তাঁর দেওয়া তথ্য, বুরূজ মানে মনযিল, এই মতের অধীনে। এর উপর এখানে আর কিছু দাঁড় করানো হয়নি। এ আয়াতে আনা কোনো তাফসীরই বুরূজকে মানুষের ভাগ্য জানার উৎস বলে না, মানুষের জীবনে এর কোনো প্রভাবের কথাও বলে না। এই লেখাও এগুলো থেকে ভাগ্য সম্পর্কে কোনো জ্ঞান বা কোনো প্রভাব বের করে না।"
+            "bn": "কুরতুবী অন্যদের চেয়ে আরও এগিয়ে বারোটির নাম ধরে ধরে তালিকা দেন, শুরু আল-হামাল দিয়ে, শেষ আল-হূত দিয়ে। বুরূজ মানে মনযিল, এই মতের অধীনে শব্দটির ব্যাখ্যা হিসেবেই তিনি তালিকাটি দেন। এর উপর এখানে আর কিছু দাঁড় করানো হয়নি। এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই বুরূজকে মানুষের ভাগ্য জানার উৎস বলে না, মানুষের জীবনে এর কোনো প্রভাবের কথাও বলে না। এই লেখাও এগুলো থেকে ভাগ্য সম্পর্কে কোনো জ্ঞান বা কোনো প্রভাব বের করে না।"
           },
           {
             "en": "Ma'arif al-Qur'an takes up the twelve divisions more critically. It reports that some later commentators chose the astronomical view, in which the sky is divided into twelve parts, each called a burj, and that the ancient philosophers held the fixed stars to be set in these divisions. It calls that view absolutely incorrect. Citing al-Mazhari, it says the Qur'an does not describe the stars and planets as fixed in the skies, and points to 36:40, wa-kullun fi falakin yasbahun, each floats in an orbit, taking falak there to mean the orbit and not the sky.",
@@ -109,7 +109,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The same Kufan grammarian then raised a difficulty: the Arabs, he said, were not found to leave an oath without a lam, or la, or inna, or ma introducing its answer, so this looks like a case where the answer is left out and the statement begins afresh. At-Tabari makes that his own preference. The answer is left unstated, he says, and what follows is a new statement, because the Arabs do not drop the sign of the answer when they do answer an oath. On this reading qutila, in 85:4, opens a new sentence rather than completing the oath.",
-            "bn": "কুফার সেই ব্যাকরণবিদ এরপর একটা খটকা তোলেন। আরবদের দেখা যায় না যে তারা জবাবের শুরুতে লাম, লা, ইন্না বা মা না রেখে শপথ ছেড়ে দেয়। তাই মনে হয়, এখানে জবাবটি রেখে দেওয়া হয়েছে, আর বক্তব্য নতুন করে শুরু হয়েছে। তাবারী এটাকেই নিজের পছন্দের মত বানান। তাঁর কথায়, জবাব এখানে বলা হয়নি, পরের কথা নতুন বক্তব্য। কারণ শপথের জবাব দিলে আরবরা জবাবের চিহ্ন বাদ দেয় না। এই পাঠে ৮৫:৪-এর কুতিলা শপথটি পূর্ণ করে না, বরং নতুন বাক্য শুরু করে।"
+            "bn": "কুফার সেই ব্যাকরণবিদ এরপর একটা খটকা তোলেন। তাঁর কথায়, শপথের জবাবের শুরুতে লাম, লা, ইন্না বা মা না রেখে আরবরা শপথ ছেড়ে দেয়, এমন দেখা যায় না। তাই মনে হয়, এখানে জবাবটা উহ্য রাখা হয়েছে, আর কথা নতুন করে শুরু হয়েছে। তাবারী এ মতকেই নিজের পছন্দ হিসেবে নেন। তাঁর কথায়, জবাব এখানে উহ্য, পরের কথা নতুন বক্তব্য। কারণ আরবরা যখন শপথের জবাব দেয়, তখন জবাবের চিহ্ন বাদ দেয় না। এই পাঠে ৮৫:৪-এর কুতিলা শপথটি পূর্ণ করে না, বরং নতুন বাক্য শুরু করে।"
           },
           {
             "en": "Al-Qurtubi, also under 85:4, gives a longer list. Al-Farra' held that qutila is the answer with the lam understood, as with qad aflaha in 91:9. Abu Hatim as-Sijistani read the order as reversed, and Ibn al-Anbari called that a mistake. Some made the answer 85:12, which al-Qurtubi calls unsightly because so much speech stands between the two. Some made it 85:10, inna alladhina fatanu. And some said the answer is omitted, meaning: by the sky with the buruj, you will surely be raised. That was Ibn al-Anbari's choice.",
@@ -117,7 +117,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di, in the words that open his comment on 85:4, gives a different kind of answer. What is sworn upon, he says, is what the oath itself contains of Allah's dazzling signs, His evident wisdom and His vast mercy. It is also said, he adds, that the thing sworn upon is qutila ashabu al-ukhdud, which he reads as a prayer against them for destruction. These views are kept side by side here, and none is chosen. The shipped entry on 91:9 discusses an oath whose answer is plainly stated; here the answer is debated.",
-            "bn": "সা'দী ৮৫:৪-এর আলোচনার শুরুতে ভিন্ন ধরনের এক জবাব দেন। তাঁর মতে, যে কথার উপর শপথ, তা শপথটির ভেতরেই আছে: আল্লাহর চোখ-ধাঁধানো নিদর্শন, তাঁর প্রকাশ্য হিকমত আর তাঁর বিশাল রহমত। তিনি এ-ও জানান যে কারও কারও মতে শপথের বিষয় হলো কুতিলা আসহাবুল উখদূদ, যাকে তিনি পড়েন তাদের ধ্বংসের বদদোয়া হিসেবে। এখানে মতগুলো পাশাপাশি রাখা হলো, কোনোটিকে বেছে নেওয়া হলো না। ৯১:৯ আয়াতের প্রকাশিত লেখায় এমন এক শপথের আলোচনা আছে যার জবাব স্পষ্ট বলা আছে। এখানকার জবাব নিয়ে মতভেদ।"
+            "bn": "সা'দী ৮৫:৪-এর আলোচনার শুরুতে ভিন্ন ধরনের এক জবাব দেন। তাঁর মতে, যে কথার উপর শপথ, তা শপথটির ভেতরেই আছে: আল্লাহর চোখ-ধাঁধানো নিদর্শন, তাঁর প্রকাশ্য হিকমত আর তাঁর বিশাল রহমত। তিনি এ-ও জানান, কারও কারও মতে শপথের বিষয় হলো কুতিলা আসহাবুল উখদূদ। সা'দীর কাছে এ বাক্য তাদের বিরুদ্ধে ধ্বংসের বদদোয়া। এখানে মতগুলো পাশাপাশি রাখা হলো, কোনোটিকে বেছে নেওয়া হলো না। এ সংকলনে ৯১:৯ আয়াতের আলোচনায় এমন এক শপথের কথা আছে, যার জবাব স্পষ্ট করে বলা। এখানে জবাবটাই মতভেদের বিষয়।"
           }
         ]
       },
@@ -133,7 +133,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "No fetched tafsir attaches a hadith of the Prophet ﷺ to the meaning of 85:1. Something else needs saying plainly. 85:4, named above only as a candidate answer to the oath, describes what its own text describes, and it licenses nothing against any living person or community. The readings in this article are each source's own and are reported as such, with no choice made between them.",
-            "bn": "৮৫:১ আয়াতের অর্থের সঙ্গে নবী ﷺ-এর কোনো হাদীস আনা তাফসীরগুলোর কোনোটিই জুড়ে দেয়নি। আরেকটি কথা সোজাসুজি বলা দরকার। ৮৫:৪ আয়াতের নাম এখানে এসেছে শুধু শপথের সম্ভাব্য জবাব হিসেবে। আয়াতটি তার নিজের পাঠে যা বলে, তা-ই বলে, আর জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। এ লেখার পাঠগুলো প্রতিটি সূত্রের নিজের, সেভাবেই জানানো হয়েছে, কোনোটিকে বেছে নেওয়া হয়নি।"
+            "bn": "যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ৮৫:১-এর অর্থের সঙ্গে নবী ﷺ-এর কোনো হাদিস জুড়ে দেয়নি। আরেকটি কথা সোজাসুজি বলা দরকার। ৮৫:৪ আয়াতের নাম এখানে এসেছে শুধু শপথের সম্ভাব্য জবাব হিসেবে। আয়াতটি তার নিজের ভাষায় যা বলে, শুধু তা-ই বলে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। এ লেখায় যত অর্থ এসেছে, প্রতিটি তার নিজ সূত্রের, আর সেভাবেই জানানো হয়েছে। কোনোটিকে বেছে নেওয়া হয়নি।"
           }
         ]
       },
@@ -145,15 +145,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Something stands out when the readings are laid side by side, though none of the commentators fetched draws it out in these words. Nearly every gloss looks up at something raised, ordered or guarded: palaces in the sky, posts for the guards, stations counted out in days and months, great stars, a beautiful creation. The surah sets all of this before its listener first, and only afterwards speaks of what people did below. Whatever its answer is taken to be, the sky is the first thing named.",
-            "bn": "অর্থগুলো পাশাপাশি রাখলে একটা জিনিস চোখে পড়ে, যদিও আনা তাফসীরগুলোর কেউ ঠিক এ কথায় তা বলেননি। প্রায় প্রতিটি ব্যাখ্যা চোখ তোলে উঁচু, সুবিন্যস্ত বা পাহারা দেওয়া কিছুর দিকে। আকাশের প্রাসাদ, প্রহরীদের চৌকি, দিন আর মাসে গোনা মনযিল, বড় বড় তারা, সুন্দর সৃষ্টি। সূরাটি এসব আগে শ্রোতার সামনে রাখে, তারপর বলে নিচে মানুষ কী করেছিল। শপথের জবাব যেটাই ধরা হোক, প্রথম নামটি আকাশের।"
+            "bn": "অর্থগুলো পাশাপাশি রাখলে একটা জিনিস চোখে পড়ে, যদিও যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই ঠিক এ ভাষায় কথাটা বলেনি। প্রায় প্রতিটি ব্যাখ্যা চোখ তোলে উঁচু, সুবিন্যস্ত বা পাহারা দেওয়া কিছুর দিকে। আকাশের প্রাসাদ, প্রহরীদের চৌকি, দিন আর মাসে গোনা মনযিল, বড় বড় তারা, সুন্দর সৃষ্টি। সূরাটি এসব আগে শ্রোতার সামনে রাখে, তারপর বলে নিচে মানুষ কী করেছিল। শপথের জবাব যেটাই ধরা হোক, প্রথম নামটি আকাশের।"
           },
           {
             "en": "For the reader, this makes the first verse of al-Buruj an invitation to look before reading on. As-Sa'di's reading gives the reason: the order of the courses points to Allah's power and mercy, His knowledge and His wisdom. A person can see the sky many times a day without seeing any of that. To read 85:1 well is to stop for a moment, notice the regular passage of the sun and the moon, and let that order say who keeps them in their places, before the surah turns to anything else.",
-            "bn": "পাঠকের জন্য তাই আল-বুরূজের প্রথম আয়াত এক আমন্ত্রণ: পড়ে যাওয়ার আগে একবার তাকান। কেন, তা সা'দীর ব্যাখ্যায় আছে। পথ চলার এই শৃঙ্খলা আল্লাহর কুদরত ও রহমত, তাঁর ইলম ও হিকমতের দিকে ইশারা করে। দিনে বহুবার আকাশ দেখেও মানুষ এর কিছুই না দেখতে পারে। ৮৫:১ ঠিকভাবে পড়া মানে এক মুহূর্ত থামা। সূর্য আর চাঁদের নিয়মিত আসা-যাওয়া খেয়াল করা। তারপর সেই শৃঙ্খলাকেই বলতে দেওয়া, কে এদের নিজ নিজ জায়গায় ধরে রেখেছেন। সূরা অন্য কথায় যাওয়ার আগে এটুকুই।"
+            "bn": "তাই পাঠকের জন্য আল-বুরূজের প্রথম আয়াত এক আমন্ত্রণ: সামনে পড়ার আগে একবার চোখ তুলে তাকান। কেন, তা সা'দীর ব্যাখ্যায় আছে। কক্ষপথে চলার এই শৃঙ্খলা আল্লাহর কুদরত ও রহমত, তাঁর ইলম ও হিকমতের দিকে ইশারা করে। দিনে বহুবার আকাশ দেখেও মানুষের চোখে এর কিছুই না পড়তে পারে। ৮৫:১ ঠিকভাবে পড়া মানে, সূরা অন্য কথায় যাওয়ার আগেই এক মুহূর্ত থামা। সূর্য আর চাঁদের নিয়মিত আসা-যাওয়া খেয়াল করা। তারপর সেই শৃঙ্খলাকেই বলতে দেওয়া, কে এদের নিজ নিজ জায়গায় ধরে রেখেছেন।"
           },
           {
             "en": "It also guards against two misreadings. The first treats the sky as a puzzle and goes looking for fortunes in it; the commentators here count stations and do not read fates. The second passes over the oath as decoration before the story, yet at-Tabari and al-Qurtubi argue at length over where it lands. The disagreement over the answer stays open here. What does not depend on it is the sky itself, named first, as a witness the listener could see every night.",
-            "bn": "এ আয়াত দুটি ভুল পাঠ থেকেও সাবধান করে। প্রথম ভুল আকাশকে ধাঁধা বানিয়ে তাতে ভাগ্য খোঁজা। এখানকার তাফসীরকারেরা মনযিল গোনেন, কারও ভাগ্য পড়েন না। দ্বিতীয় ভুল শপথটিকে কাহিনির আগের সাজসজ্জা ভেবে পাশ কাটিয়ে যাওয়া। অথচ শপথ কোথায় গিয়ে পড়ে, তা নিয়ে তাবারী ও কুরতুবী অনেক কথা বলেছেন। জবাব নিয়ে মতভেদ এখানে খোলাই থাকল। তার উপর যা নির্ভর করে না, তা হলো আকাশ নিজে। প্রথমেই তার নাম, এমন এক সাক্ষী হিসেবে যাকে শ্রোতা প্রতি রাতে দেখতে পায়।"
+            "bn": "এ আয়াত দুটি ভুল পাঠ থেকেও সাবধান করে। প্রথম ভুল আকাশকে ধাঁধা বানিয়ে তাতে ভাগ্য খোঁজা। এখানকার তাফসীরকারেরা মনযিল গোনেন, কারও ভাগ্য পড়েন না। দ্বিতীয় ভুল শপথটিকে কাহিনির আগের সাজসজ্জা ভেবে পাশ কাটিয়ে যাওয়া। অথচ শপথ কোথায় গিয়ে পড়ে, তা নিয়ে তাবারী ও কুরতুবী অনেক কথা বলেছেন। জবাব নিয়ে মতভেদ এখানে খোলাই থাকল। কিন্তু আকাশ নিজে এ মতভেদের উপর নির্ভর করে না। সবার আগে তারই নাম, এমন এক সাক্ষী হিসেবে, যাকে শ্রোতা প্রতি রাতে দেখতে পায়।"
           }
         ]
       }
@@ -201,7 +201,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi also reads fatanu as they burned them with fire, and then shows where that sense sits in Arabic usage. The Arabs say fatana so-and-so the dirham or the dinar when he puts it into the furnace to see how good it is, and such a coin is called maftun. The goldsmith is called al-fattan, and so is Shaytan. Wariq fatin means burnt silver. A harra, a tract of black stone, is also called fatin, as though its stones had been burned by fire, because of their blackness.",
-            "bn": "কুরতুবীও ফাতানূর অর্থ করেন, তাঁদের আগুনে পুড়িয়েছে। তারপর দেখান, আরবদের মুখের ভাষায় এই অর্থ কোথায় বসে আছে। কেউ দিরহাম বা দিনার কতটা খাঁটি তা দেখতে চুল্লিতে ঢোকালে আরবরা বলে, ফাতানা ফুলানুন। এমন মুদ্রাকে বলে মাফতূন। স্বর্ণকারকে বলা হয় আল-ফাত্তান, শয়তানকেও তাই বলা হয়। ওয়ারিক ফাতীন মানে পোড়া রুপা। কালো পাথরে ঢাকা এলাকা, যাকে হাররা বলে, সেটাকেও ফাতীন বলা হয়। পাথরগুলো এত কালো যে মনে হয় আগুনে পোড়ানো।"
+            "bn": "কুরতুবীও ফাতানূর অর্থ করেন, তাঁদের আগুনে পুড়িয়েছে। তারপর দেখান, আরবদের ভাষায় এই অর্থের শিকড় কোথায়। কেউ দিরহাম বা দিনার কতটা খাঁটি তা দেখতে চুল্লিতে ঢোকালে আরবরা বলে, ফাতানা ফুলানুন। এমন মুদ্রাকে বলে মাফতূন। স্বর্ণকারকে বলা হয় আল-ফাত্তান, শয়তানকেও তাই বলা হয়। ওয়ারিক ফাতীন মানে পোড়া রুপা। কালো পাথরে ঢাকা এলাকা, যাকে হাররা বলে, সেটাকেও ফাতীন বলা হয়। পাথরগুলো এত কালো যে মনে হয় আগুনে পোড়ানো।"
           },
           {
             "en": "Al-Baghawi makes the same link more briefly: one says fatantu al-shay' when one has burned the thing. As a parallel he cites 51:13, yawma hum 'ala al-nari yuftanun, where the same verb is used of people over the Fire. With al-Qurtubi's coin and furnace in mind, the verb in 85:10 holds testing and burning together: a metal is tried by fire, and in this passage people were tried over their faith by fire. The commentators keep both senses in view and do not drop either.",
@@ -217,23 +217,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse names both al-mu'minin and al-mu'minat, believing men and believing women. Several commentators read it directly against the scene before it. Al-Qurtubi says the persecutors did not repent despite the signs and clear proofs Allah had shown the tyrant king and his people at the hands of the boy, whose story belongs to 85:4 onward. Al-Baghawi's second report ties the burning to the ditch itself. Ma'arif says the verse describes the torment of the wrongdoers who burned the Muslims in the fire pit only on account of their faith.",
-            "bn": "আয়াতটি আল-মু'মিনীন ও আল-মু'মিনাত, মুমিন পুরুষ ও মুমিন নারী, দুই দলের নামই নিয়েছে। কয়েকজন তাফসীরকার আয়াতটি পড়েন ঠিক আগের দৃশ্যের সঙ্গে মিলিয়ে। কুরতুবী বলেন, অত্যাচারী জালিম রাজা আর তার লোকদের আল্লাহ সেই বালকের হাতে অনেক নিদর্শন ও স্পষ্ট প্রমাণ দেখিয়েছিলেন, তবু তারা তওবা করেনি। বালকের কাহিনি ৮৫:৪ আয়াত থেকে শুরু হওয়া অংশের বিষয়। বাগাভীর দ্বিতীয় বর্ণনা পোড়ানোর শাস্তিকে সরাসরি গর্তের সঙ্গে জোড়ে। মাআরিফুল কুরআন বলে, যারা শুধু ঈমানের কারণে মুসলিমদের আগুনের গর্তে পুড়িয়েছিল, আয়াতটি সেই জালিমদের শাস্তির বর্ণনা।"
+            "bn": "আয়াতটি আল-মু'মিনীন ও আল-মু'মিনাত, মুমিন পুরুষ ও মুমিন নারী, দুই দলের নামই নিয়েছে। কয়েকজন তাফসীরকার আয়াতটি পড়েন ঠিক আগের দৃশ্যের সঙ্গে মিলিয়ে। কুরতুবী বলেন, জালিম রাজা আর তার লোকদের আল্লাহ সেই বালকের হাতে অনেক নিদর্শন ও স্পষ্ট প্রমাণ দেখিয়েছিলেন, তবু তারা তওবা করেনি। বালকের কাহিনি ৮৫:৪ আয়াত থেকে শুরু হওয়া অংশের বিষয়। বাগাভীর দ্বিতীয় বর্ণনা পোড়ানোর শাস্তিকে সরাসরি গর্তের সঙ্গে জোড়ে। মাআরিফুল কুরআন বলে, যারা শুধু ঈমানের কারণে মুসলিমদের আগুনের গর্তে পুড়িয়েছিল, আয়াতটি সেই জালিমদের শাস্তির বর্ণনা।"
           },
           {
             "en": "At-Tabari, as-Sa'di and the Muyassar comment on the verse without naming the ditch, and none of the fetched texts carries the verse over to any other persecutors by name. The one wider point drawn comes from Ma'arif, and it concerns the condition rather than the deed: the clause then did not repent, it says, invites people to repent. So the verse is read in its setting, and what is opened outward is its offer of repentance. The next two sections take that condition, and the remark it drew, in turn.",
-            "bn": "তাবারী, সা'দী ও মুয়াসসার এ আয়াতের ব্যাখ্যায় গর্তের নাম নেননি। সংগ্রহ করা কোনো তাফসীরই আয়াতটিকে নাম ধরে অন্য কোনো নির্যাতনকারীর উপর টেনে নেয়নি। বড় পরিসরের একটিমাত্র কথা এসেছে মাআরিফুল কুরআন থেকে, আর তা কাজ নিয়ে নয়, শর্ত নিয়ে। তার মতে, তারপর তওবা করেনি কথাটি মানুষকে তওবার দিকে ডাকে। তাই আয়াতটি পড়া হয় তার প্রসঙ্গের ভেতরেই, আর বাইরের দিকে খুলে দেওয়া হয় কেবল তওবার প্রস্তাবটি। পরের দুটি অংশে সেই শর্ত আর তা নিয়ে আসা একটি মন্তব্যের কথা।"
+            "bn": "তাবারী, সা'দী ও মুয়াসসার এ আয়াতের ব্যাখ্যায় গর্তের নাম নেননি। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই আয়াতটিকে নাম ধরে অন্য কোনো নির্যাতনকারীর উপর টেনে নেয়নি। আয়াত থেকে বড় পরিসরের একটিমাত্র কথা টেনেছে মাআরিফুল কুরআন, আর সেটাও কাজ নিয়ে নয়, শর্ত নিয়ে। তার মতে 'তারপর তওবা করেনি' কথাটি মানুষকে তওবার দিকে ডাকে। তাই আয়াতটি পড়া হয় তার প্রসঙ্গের ভেতরেই। সবার জন্য খোলা থাকে কেবল তওবার ডাকটুকু। পরের দুটি অংশে সেই শর্ত, আর তা নিয়ে করা একটি মন্তব্যের কথা আসছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Then They Did Not Repent",
-          "bn": "তারপর তারা ফিরে আসেনি"
+          "bn": "তারপর তারা তওবা করেনি"
         },
         "p": [
           {
             "en": "Thumma lam yatubu stands between the deed and the outcome. Ibn Kathir explains it as two things left undone: they did not desist from what they did, and they did not regret what they had done before. At-Tabari names what the repentance would have been from: their disbelief, and what they did to the believing men and women because of their faith in Allah. Al-Qurtubi calls it repentance from their ugly deed, which they withheld despite the signs they had been shown. Ibn Kathir's pair, stopping and regret, sets out what repentance would have asked of them.",
-            "bn": "সুম্মা লাম ইয়াতূবূ বসে আছে কাজ আর পরিণামের মাঝখানে। ইবন কাসীর এর ব্যাখ্যায় দুটি না-করা কাজের কথা বলেন: যা করছিল তা থেকে তারা থামেনি, আর আগে যা করেছে তার জন্য অনুতপ্ত হয়নি। তাবারী বলে দেন কিসের থেকে তওবা করার কথা ছিল। এক, তাদের কুফর। দুই, আল্লাহর উপর ঈমান আনার কারণে মুমিন পুরুষ ও নারীদের সঙ্গে তারা যা করেছে। কুরতুবীর ভাষায় এটি তাদের জঘন্য কাজ থেকে তওবা। এত নিদর্শন দেখানোর পরও তারা সেই তওবা করেনি। ইবন কাসীরের জোড়া কথা, থামা আর অনুতাপ, দেখিয়ে দেয় তওবা তাদের কাছে কী চাইত।"
+            "bn": "সুম্মা লাম ইয়াতূবূ কথাটির জায়গা কাজ আর পরিণামের মাঝখানে। ইবন কাসীর এর ব্যাখ্যায় দুটি না-করা কাজের কথা বলেন: যা করছিল তা থেকে তারা থামেনি, আর আগে যা করেছে তার জন্য অনুতপ্ত হয়নি। তাবারী বলে দেন কিসের থেকে তওবা করার কথা ছিল। এক, তাদের কুফর। দুই, আল্লাহর উপর ঈমান আনার কারণে মুমিন পুরুষ ও নারীদের সঙ্গে তারা যা করেছে। কুরতুবীর ভাষায় এটি তাদের জঘন্য কাজ থেকে তওবা। এত নিদর্শন দেখানোর পরও তারা সেই তওবা করেনি। ইবন কাসীরের জোড়া কথা, থামা আর অনুতাপ, দেখিয়ে দেয় তওবা তাদের কাছে কী চাইত।"
           },
           {
             "en": "As-Sa'di frames the whole verse before he quotes it: then He promised them, threatened them, and offered them repentance. His verb, 'arada, is to lay something before someone, for them to take up or refuse. In his reading the verse does not only pronounce; it proposes. Ma'arif al-Qur'an calls thumma lam yatubu a restrictive phrase attached to both punishments, so that the torment is for those who did not repent of their deed and did not make tawbah. On both readings the threat is tied to a condition, and the condition is the one part of the verse that the persecutors themselves could still change.",
@@ -249,7 +249,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Three of the fetched commentaries quote one sentence from al-Hasan on this condition. In Ibn Kathir's Arabic it is al-Hasan al-Basri: look at this generosity and munificence, al-karam wa-l-jud; they killed His awliya', His close friends, and He calls them to repentance and forgiveness. As-Sa'di gives it with a fuller description of those killed and a shorter ending: they killed His friends and the people of obedience to Him, and He calls them to repentance. Neither adds a comment of his own to the remark.",
-            "bn": "সংগ্রহ করা তিনটি তাফসীর এই শর্ত নিয়ে হাসানের একটি কথা উদ্ধৃত করেছে। ইবন কাসীরের আরবি তাফসীরে কথাটি হাসান বসরীর: এই দয়া আর দানশীলতার দিকে তাকিয়ে দেখো, আল-কারাম ওয়াল জূদ। তারা তাঁর আউলিয়া, তাঁর প্রিয় বান্দাদের হত্যা করেছে, আর তিনি তাদের ডাকছেন তওবা ও মাগফিরাতের দিকে। সা'দী কথাটি আনেন নিহতদের আরও পূর্ণ পরিচয় দিয়ে, তবে শেষটা ছোট করে: তারা তাঁর প্রিয় বান্দাদের আর তাঁর আনুগত্যকারীদের হত্যা করেছে, আর তিনি তাদের তওবার দিকে ডাকছেন। দুজনের কেউ এর সঙ্গে নিজের মন্তব্য যোগ করেননি।"
+            "bn": "সংগ্রহ করা তিনটি তাফসীর এই শর্ত নিয়ে হাসানের একটি কথা উদ্ধৃত করেছে। ইবন কাসীরের আরবি তাফসীরে কথাটি হাসান বসরীর: এই দয়া আর দানশীলতার দিকে তাকিয়ে দেখুন, আল-কারাম ওয়াল জূদ। তারা তাঁর আউলিয়া, তাঁর প্রিয় বান্দাদের হত্যা করেছে, আর তিনি তাদের ডাকছেন তওবা ও মাগফিরাতের দিকে। সা'দী কথাটি আনেন নিহতদের আরও পূর্ণ পরিচয় দিয়ে, তবে শেষটা ছোট করে: তারা তাঁর প্রিয় বান্দাদের আর তাঁর আনুগত্যকারীদের হত্যা করেছে, আর তিনি তাদের তওবার দিকে ডাকছেন। দুজনের কেউ এর সঙ্গে নিজের মন্তব্য যোগ করেননি।"
           },
           {
             "en": "Ma'arif al-Qur'an cites the remark from Ibn Kathir, attributing it to Hasan, in these words: they burned Allah's friends alive, yet He invites them towards repentance and forgiveness. The versions differ in small ways, killed in two and burned in the third, with forgiveness named in two and not in the third, and each is reported here as its source gives it. All three keep the point al-Hasan drew: the people who did this are still the people the verse calls back. The variants are small, but anyone quoting the remark should know which wording comes from where.",
@@ -260,7 +260,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Hell, and the Burning",
-          "bn": "জাহান্নাম, তারপর দহন"
+          "bn": "জাহান্নাম আর দহন"
         },
         "p": [
           {
@@ -293,7 +293,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What the verse asks of a reader is narrower and harder than finding the persecutors in the world. Between the gravest deed in this passage and its punishment stand three words, thumma lam yatubu, and al-Hasan saw generosity in them. A reader can ask whether any harm they have done to another person's faith, by pressure or mockery, large or small, has been met with what Ibn Kathir names: stopping, and regret for what has passed. That question belongs to the reader alone.",
-            "bn": "আয়াতটি পাঠকের কাছে যা চায়, তা দুনিয়ায় নির্যাতনকারী খুঁজে বের করার চেয়ে সরু পথ, কঠিনও। এই অংশের সবচেয়ে বড় অন্যায় আর তার শাস্তির মাঝে দাঁড়িয়ে আছে তিনটি শব্দ, সুম্মা লাম ইয়াতূবূ। হাসান এর মধ্যেই দানশীলতা দেখেছিলেন। পাঠক নিজেকে জিজ্ঞেস করতে পারেন: চাপ দিয়ে বা ঠাট্টা করে, বড় হোক বা ছোট, অন্য কারও ঈমানের যে ক্ষতি আমি করেছি, তার বেলায় কি ইবন কাসীরের বলা দুটি কাজ করেছি? থেমেছি, আর যা হয়ে গেছে তার জন্য অনুতপ্ত হয়েছি? এ প্রশ্ন শুধু পাঠকের নিজের।"
+            "bn": "দুনিয়ায় নির্যাতনকারী খুঁজে বের করার চেয়ে আয়াতটি পাঠকের কাছে যা চায়, তার পরিসর ছোট, কিন্তু কাজটা কঠিন। এই অংশের সবচেয়ে বড় অন্যায় আর তার শাস্তির মাঝে দাঁড়িয়ে আছে তিনটি শব্দ, সুম্মা লাম ইয়াতূবূ। হাসান এর মধ্যেই দানশীলতা দেখেছিলেন। পাঠক নিজেকে জিজ্ঞেস করতে পারেন: চাপ দিয়ে বা ঠাট্টা করে, বড় হোক বা ছোট, অন্য কারও ঈমানের যে ক্ষতি আমি করেছি, তার বেলায় কি ইবন কাসীরের বলা দুটি কাজ করেছি? থেমেছি, আর যা হয়ে গেছে তার জন্য অনুতপ্ত হয়েছি? এ প্রশ্ন শুধু পাঠকের নিজের।"
           }
         ]
       }
@@ -309,7 +309,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa huwa al-Ghafur al-Wadud. Three words, two of them names. Both names are built on the same Arabic pattern, fa'ul, the intensive form: not one who forgave once but the Forgiving, not one who felt affection once but the Affectionate. The verse spends nothing on explanation. It sets the two names side by side and leaves their neighbours in the surah to do the arguing.",
-            "bn": "ওয়া হুয়াল গাফূরুল ওয়াদূদ। তিনটি শব্দ, তার দুটিই নাম। দুটি নামই আরবির একই ওজনে গড়া — 'ফাঊল', অর্থাৎ মুবালাগার রূপ: একবার ক্ষমা করেছেন এমন নন, বরং ক্ষমাশীল; একবার ভালোবেসেছেন এমন নন, বরং প্রেমময়। আয়াতটি ব্যাখ্যায় এক বিন্দুও খরচ করে না। এটি নাম দুটিকে পাশাপাশি বসিয়ে দেয়, আর যুক্তির কাজটুকু ছেড়ে দেয় সূরার প্রতিবেশী আয়াতগুলোর ওপর।"
+            "bn": "ওয়া হুয়াল গাফূরুল ওয়াদূদ। তিনটি শব্দ, তার দুটি আল্লাহর নাম। দুটি নামই আরবির একই ওজনে গড়া: ফাঊল, অর্থাৎ জোর বোঝানোর রূপ। একবার ক্ষমা করেছেন এমন কেউ নন, তিনি ক্ষমাশীল। একবার ভালোবেসেছেন এমন কেউ নন, তিনি প্রেমময়। আয়াতটি ব্যাখ্যায় যায় না। নাম দুটিকে শুধু পাশাপাশি রেখে দেয়, আর যুক্তির কাজটা ছেড়ে দেয় সূরার আশপাশের আয়াতগুলোর হাতে।"
           }
         ]
       },
@@ -321,11 +321,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "85:12 says the seizing of your Lord is severe. 85:13 says it is He who originates and repeats. Then comes our verse, and after it 85:15 calls Him the honourable Owner of the Throne, and 85:16 says He is the doer of whatever He intends. Read in order, the run refuses to let mercy and might be separated: the verses that promise a severe reckoning are the verses that name Him forgiving and loving.",
-            "bn": "85:12 বলে, তোমার প্রতিপালকের পাকড়াও অবশ্যই কঠিন। 85:13 বলে, তিনিই প্রথমবার সৃষ্টি করেন এবং আবার ফিরিয়ে আনেন। এরপর আসে আমাদের আয়াতটি, আর তার পরে 85:15 তাঁকে বলে আরশের অধিপতি, মহা সম্মানিত, এবং 85:16 বলে, তিনি যা চান তাই করেন। ক্রম অনুসারে পড়লে এই ধারাটি রহমত ও শক্তিকে আলাদা করতে দেয় না: যে আয়াতগুলো কঠিন হিসাবের প্রতিশ্রুতি দেয়, সেই আয়াতগুলোই তাঁকে ক্ষমাশীল ও প্রেমময় বলে ডাকে।"
+            "bn": "৮৫:১২ বলে, তোমার প্রতিপালকের পাকড়াও অবশ্যই কঠিন। ৮৫:১৩ বলে, তিনিই প্রথমবার সৃষ্টি করেন এবং আবার ফিরিয়ে আনেন। এরপর আসে আমাদের আয়াতটি। তার পরে ৮৫:১৫ তাঁকে বলে আরশের অধিপতি, মহা সম্মানিত, আর ৮৫:১৬ বলে, তিনি যা চান তা-ই করেন। ক্রম ধরে পড়লে দেখা যায়, এই আয়াতগুলো রহমত আর পরাক্রমকে আলাদা হতে দেয় না। যে আয়াতগুলো কঠিন হিসাবের কথা শোনায়, সেগুলোই তাঁকে ক্ষমাশীল ও প্রেমময় বলে ডাকে।"
           },
           {
             "en": "Ibn Kathir notes that the last word of 85:15 has been recited in two ways — as a description of the Lord and as a description of the Throne — and that both meanings are sound. But the point of the sequence is not softening. Al-Ghafur al-Wadud is being said by a Lord who has just described His own grip as severe, so the forgiveness on offer is not weakness and cannot be mistaken for it.",
-            "bn": "ইবনে কাসীর উল্লেখ করেন যে 85:15-এর শেষ শব্দটি দুই কিরাআতে পড়া হয়েছে — একবার প্রতিপালকের বিশেষণ হিসেবে, আরেকবার আরশের বিশেষণ হিসেবে — এবং দুটি অর্থই সঠিক। তবে এই ক্রমের উদ্দেশ্য কোমল করে দেওয়া নয়। 'আল-গাফূরুল ওয়াদূদ' কথাটি বলছেন এমন এক প্রতিপালক, যিনি এইমাত্র নিজের পাকড়াওকে কঠিন বলে বর্ণনা করেছেন; ফলে যে ক্ষমা এখানে দেওয়া হচ্ছে তা দুর্বলতা নয়, আর দুর্বলতা বলে ভুলও করা যায় না।"
+            "bn": "ইবনে কাসীর জানান, ৮৫:১৫-এর শেষ শব্দটি দুই কিরাআতে পড়া হয়েছে। এক কিরাআতে তা প্রতিপালকের বিশেষণ, আরেক কিরাআতে আরশের। দুটি অর্থই সঠিক। তবে এই ক্রম কথাকে নরম করার জন্য নয়। আল-গাফূরুল ওয়াদূদ কথাটি বলছেন এমন প্রতিপালক, যিনি এইমাত্র নিজের পাকড়াওকে কঠিন বলেছেন। তাই এখানে যে ক্ষমা দেওয়া হচ্ছে, তা দুর্বলতা নয়, আর তাকে দুর্বলতা ভেবে ভুল করারও সুযোগ নেই।"
           }
         ]
       },
@@ -341,7 +341,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "And 85:10 has already said something almost unbearable. Those who persecuted the believing men and the believing women and then did not repent will have the punishment of Hell and the punishment of the Burning Fire. The condition sits inside the sentence: and then did not repent. Repentance is left open even to these people, and four verses later the door they were left is named — al-Ghafur al-Wadud.",
-            "bn": "আর 85:10 এর আগেই এমন একটি কথা বলে ফেলেছে যা প্রায় অসহনীয়। যারা মু'মিন পুরুষ ও মু'মিন নারীদের ওপর নির্যাতন চালিয়েছে, অতঃপর তওবা করেনি, তাদের জন্য রয়েছে জাহান্নামের শাস্তি এবং দগ্ধ হওয়ার শাস্তি। শর্তটি বাক্যের ভেতরেই বসে আছে: অতঃপর তওবা করেনি। এদের জন্যও তওবার পথ খোলা রাখা হয়েছে, আর চার আয়াত পরে সেই খোলা দরজাটির নাম বলে দেওয়া হয় — আল-গাফূরুল ওয়াদূদ।"
+            "bn": "আর ৮৫:১০ এর আগেই প্রায় অসহনীয় একটি কথা বলে ফেলেছে। যারা মু'মিন পুরুষ ও মু'মিন নারীদের উপর নির্যাতন চালিয়েছে, তারপর তওবা করেনি, তাদের জন্য আছে জাহান্নামের শাস্তি, আর আছে দগ্ধ হওয়ার শাস্তি। শর্তটি বাক্যের ভেতরেই আছে: তারপর তওবা করেনি। এমন লোকদের জন্যও তওবার পথ খোলা রাখা হয়েছে। আর চার আয়াত পরে সেই খোলা দরজার নাম বলে দেওয়া হয়: আল-গাফূরুল ওয়াদূদ।"
           }
         ]
       },
@@ -353,11 +353,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Wadud occurs in two places in the entire Quran, and both attach it to turning back. Here it follows a verse that made repentance the hinge. In 11:90 it is Shu'ayb (AS) speaking to his people: ask forgiveness of your Lord, then repent to Him; indeed my Lord is Merciful and Wadud. The name is not scattered through the Book. Both times it is spoken where somebody is being invited back.",
-            "bn": "গোটা কুরআনে 'আল-ওয়াদূদ' নামটি এসেছে দুটি জায়গায়, আর দুবারই তা যুক্ত হয়েছে ফিরে আসার সঙ্গে। এখানে এটি এসেছে এমন এক আয়াতের পরে, যা তওবাকেই মূল কব্জা বানিয়েছে। আর 11:90-এ এটি বলছেন শুআইব (আঃ), তাঁর সম্প্রদায়কে: তোমরা তোমাদের প্রতিপালকের কাছে ক্ষমা চাও, অতঃপর তাঁরই দিকে ফিরে এসো; নিশ্চয়ই আমার প্রতিপালক পরম দয়ালু, ওয়াদূদ। নামটি কিতাবজুড়ে ছড়িয়ে নেই। দুবারই এটি উচ্চারিত হয়েছে সেখানে, যেখানে কাউকে ফিরে আসার আহ্বান জানানো হচ্ছে।"
+            "bn": "গোটা কুরআনে আল-ওয়াদূদ নামটি এসেছে মাত্র দুই জায়গায়, আর দুবারই ফিরে আসার প্রসঙ্গে। এখানে নামটি এসেছে এমন এক আয়াতের পরে, যেখানে সবকিছু ঝুলে আছে তওবার উপর। আর ১১:৯০-এ নামটি বলছেন শুআইব (আঃ), নিজের সম্প্রদায়কে: তোমরা তোমাদের প্রতিপালকের কাছে ক্ষমা চাও, তারপর তাঁর দিকেই ফিরে এসো; নিশ্চয়ই আমার প্রতিপালক পরম দয়ালু, ওয়াদূদ। নামটি কিতাবজুড়ে ছড়িয়ে নেই। দুবারই এসেছে এমন জায়গায়, যেখানে কাউকে ফিরে আসতে ডাকা হচ্ছে।"
           },
           {
             "en": "As for what wudd is, Ibn Kathir reports the gloss of Ibn Abbas (RA) that al-Wadud means al-Habib, the Loving; and he explains al-Ghafur here to mean that He forgives the sin of whoever repents to Him and humbles himself before Him, whatever that sin may be. Put those two together and the pairing is the whole content of the verse. The pardon is not issued coldly, at a distance, by an offended party.",
-            "bn": "'উদ্‌দ' বলতে কী বোঝায়, সে সম্পর্কে ইবনে কাসীর ইবনে আব্বাস (রাঃ)-এর ব্যাখ্যা উদ্ধৃত করেন: 'আল-ওয়াদূদ' অর্থ 'আল-হাবীব', অর্থাৎ ভালোবাসেন যিনি। আর 'আল-গাফূর' সম্পর্কে তিনি বলেন, যে-ই তাঁর কাছে তওবা করে এবং তাঁর সামনে বিনীত হয়, তিনি তার গুনাহ ক্ষমা করে দেন — সেই গুনাহ যা-ই হোক না কেন। দুটিকে পাশাপাশি রাখলে এই জোড়াই আয়াতটির পুরো বক্তব্য। ক্ষমাটি কোনো ক্ষুব্ধ পক্ষের তরফ থেকে দূরত্ব রেখে, ঠান্ডা গলায় দেওয়া হচ্ছে না।"
+            "bn": "উদ্‌দ বলতে কী বোঝায়? ইবনে কাসীর ইবনে আব্বাস (রাঃ)-এর ব্যাখ্যা উদ্ধৃত করেন: আল-ওয়াদূদ মানে আল-হাবীব, অর্থাৎ যিনি ভালোবাসেন। আর এখানে আল-গাফূরের ব্যাখ্যায় তিনি বলেন, যে-ই তাঁর কাছে তওবা করে আর তাঁর সামনে বিনীত হয়, তার গুনাহ তিনি মাফ করে দেন, সে গুনাহ যা-ই হোক। নাম দুটো একসঙ্গে ধরলে আয়াতের পুরো কথাটা এই জোড়াতেই। ক্ষমা এখানে কোনো ক্ষুব্ধ পক্ষ দূরে দাঁড়িয়ে ঠান্ডা গলায় দিচ্ছে না।"
           }
         ]
       },
@@ -369,11 +369,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Burooj came down in Makkah, to a small community being hurt for what it believed, and the story of the trench is told to them about people hurt before them who did not give way. Muslim narrates from Suhayb (RA) the long account of the boy and the king that the commentators read alongside these verses. What the surah offers such a community is not rescue in the next line. It offers 85:11, and then these names.",
-            "bn": "সূরা আল-বুরূজ নাযিল হয়েছিল মক্কায়, এমন একটি ছোট সমাজের উদ্দেশে যারা নিজেদের বিশ্বাসের কারণে নির্যাতিত হচ্ছিল; আর গর্তের ঘটনাটি তাদের শোনানো হচ্ছে এমন কিছু মানুষ সম্পর্কে, যারা তাদের আগে নির্যাতিত হয়েও নতি স্বীকার করেনি। মুসলিম সুহাইব (রাঃ) থেকে বালক ও বাদশাহর দীর্ঘ ঘটনাটি বর্ণনা করেন, যা মুফাসসিরগণ এই আয়াতগুলোর পাশে রেখে পড়েন। এমন একটি সমাজকে সূরাটি পরের পঙ্‌ক্তিতেই উদ্ধারের প্রতিশ্রুতি দেয় না। এটি দেয় 85:11, আর তারপর এই নামগুলো।"
+            "bn": "সূরা আল-বুরূজ নাজিল হয়েছিল মক্কায়, ছোট্ট এক দলের কাছে, যারা নিজেদের ঈমানের জন্য নির্যাতন সইছিল। গর্তের ঘটনা তাদের শোনানো হচ্ছে তাদের আগের এমন মানুষদের কথা বলে, যারা নির্যাতিত হয়েও মাথা নত করেনি। বালক ও বাদশাহর দীর্ঘ ঘটনাটি ইমাম মুসলিম সুহাইব (রাঃ) থেকে বর্ণনা করেছেন, আর মুফাসসিরগণ এ আয়াতগুলোর সঙ্গে মিলিয়েই ঘটনাটি পড়েন। এমন এক দলকে সূরাটি পরের লাইনেই উদ্ধারের কথা দেয় না। দেয় ৮৫:১১, তারপর এই নামগুলো।"
           },
           {
             "en": "That order is worth sitting with. The believers are promised gardens, the persecutors are promised a severe seizing, and then, before the surah moves on, Allah names Himself forgiving and affectionate. A reader who arrives here carrying an old failure is being told two things at once: that the reckoning is entirely real, and that the One conducting it holds His returning servants dear.",
-            "bn": "এই ক্রমটির সঙ্গে কিছুক্ষণ বসে থাকা দরকার। মু'মিনদের প্রতিশ্রুতি দেওয়া হয় জান্নাতের, নির্যাতনকারীদের প্রতিশ্রুতি দেওয়া হয় কঠিন পাকড়াওয়ের, আর তারপর সূরাটি সামনে এগোনোর আগেই আল্লাহ নিজেকে ক্ষমাশীল ও প্রেমময় বলে পরিচয় দেন। যে পাঠক পুরোনো কোনো ব্যর্থতা বুকে নিয়ে এখানে এসে পৌঁছান, তাঁকে একসঙ্গে দুটি কথা বলা হচ্ছে: হিসাব সম্পূর্ণ বাস্তব, আর যিনি সেই হিসাব নিচ্ছেন তিনি ফিরে আসা বান্দাদের ভালোবাসেন।"
+            "bn": "এই ক্রমটা নিয়ে একটু থেমে ভাবার মতো। মু'মিনদের কথা দেওয়া হয় জান্নাতের, নির্যাতনকারীদের কথা দেওয়া হয় কঠিন পাকড়াওয়ের। তারপর সূরা সামনে এগোনোর আগেই আল্লাহ নিজের পরিচয় দেন ক্ষমাশীল ও প্রেমময় বলে। পুরোনো কোনো ব্যর্থতার বোঝা নিয়ে যে পাঠক এখানে এসে পৌঁছান, তাঁকে একসঙ্গে দুটি কথা বলা হচ্ছে। হিসাব পুরোপুরি সত্য। আর যিনি সে হিসাব নেবেন, ফিরে আসা বান্দাদের তিনি ভালোবাসেন।"
           }
         ]
       }
@@ -445,7 +445,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators do not leave the word hadith standing alone. Al-Qurtubi, al-Baghawi and the Muyassar all gloss it with khabar, a report or piece of news. At-Tabari keeps the verse's own word, hadith al-junud, and moves straight to what the hosts did. Ibn Kathir, instead of naming the report, names its content: has it reached you ma ahalla Allahu bihim min al-ba's wa anzala 'alayhim min an-naqma, what Allah brought down upon them of His might, and the retribution He sent down upon them.",
-            "bn": "হাদীস শব্দটিকে মুফাসসিররা একা দাঁড়িয়ে থাকতে দেননি। কুরতুবী, বাগাভী ও মুয়াসসার তিনজনই এর অর্থ করেন খবর দিয়ে, অর্থাৎ সংবাদ বা বিবরণ। তাবারী আয়াতের নিজের শব্দটাই রাখেন, হাদীসুল জুনূদ, তারপর সোজা চলে যান বাহিনীগুলো কী করেছিল সেই কথায়। ইবন কাসীর খবরটার নাম না নিয়ে তার ভেতরের কথাটা বলে দেন: মা আহাল্লাল্লাহু বিহিম মিনাল বা'স ওয়া আনযালা আলাইহিম মিনান নিকমা। অর্থাৎ তোমার কাছে কি পৌঁছেছে, আল্লাহ তাদের উপর কী কঠোরতা নামিয়েছিলেন, আর কী শাস্তি পাঠিয়েছিলেন?"
+            "bn": "হাদীস শব্দটিকে মুফাসসিররা ব্যাখ্যা ছাড়া ছেড়ে দেননি। কুরতুবী, বাগাভী ও মুয়াসসার তিনজনই এর অর্থ করেন খবর দিয়ে, অর্থাৎ সংবাদ বা বিবরণ। তাবারী আয়াতের নিজের শব্দটাই রাখেন, হাদীসুল জুনূদ, তারপর সোজা চলে যান বাহিনীগুলো কী করেছিল সেই কথায়। ইবন কাসীর খবরটার নাম না নিয়ে তার ভেতরের কথাটা বলে দেন: মা আহাল্লাল্লাহু বিহিম মিনাল বা'স ওয়া আনযালা আলাইহিম মিনান নিকমা। অর্থাৎ তোমার কাছে কি পৌঁছেছে, আল্লাহ তাদের উপর কী কঠোরতা নামিয়েছিলেন, আর কী শাস্তি পাঠিয়েছিলেন?"
           },
           {
             "en": "Ibn Kathir adds a clause about that retribution: allati lam yaruddaha 'anhum ahad, which nobody turned back from them. The Muyassar's version of the report is close in content: the news of the disbelieving multitudes, wa ma halla bihim min al-'adhab wa an-nakal, and what befell them of punishment and exemplary penalty. In both, the story the verse asks about is not a chronicle of the hosts' strength. It is the account of how that strength ended, with nobody able to turn the outcome aside.",
@@ -469,7 +469,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "He ends with the outcome: the end of those among them who do not believe you and have faith in you is ruin and destruction, like what befell these hosts. Read through at-Tabari, the verse sets the Prophet ﷺ in a line of messengers who were opposed and held firm. The two things he draws out are both the Prophet's own tasks, patience and continuing to convey the message. The outcome he names comes after them, as the end of the story rather than its instruction.",
-            "bn": "শেষে তিনি পরিণতির কথা বলেন: তাদের মধ্যে যারা তোমাকে সত্য বলে মানবে না, তোমার প্রতি ঈমান আনবে না, তাদের শেষ গিয়ে দাঁড়াবে বিনাশ আর ধ্বংসে, এ বাহিনীগুলোর যা হয়েছিল তেমনই। তাবারীর চোখে পড়লে আয়াতটি নবী ﷺ-কে দাঁড় করায় সেই রাসূলদের সারিতে, যাঁদের বিরোধিতা করা হয়েছিল আর যাঁরা অটল ছিলেন। তিনি যে দুটি কথা বের করে আনেন, দুটোই নবীর নিজের দায়িত্ব: সবর, আর বার্তা পৌঁছে দেওয়া চালিয়ে যাওয়া। পরিণতির কথা আসে এর পরে, কাহিনির শেষ হিসেবে, নির্দেশ হিসেবে নয়।"
+            "bn": "শেষে তিনি পরিণতির কথা বলেন: তাদের মধ্যে যারা তোমাকে সত্য বলে মানবে না, তোমার প্রতি ঈমান আনবে না, তাদের শেষ গিয়ে দাঁড়াবে বিনাশ আর ধ্বংসে, এ বাহিনীগুলোর যা হয়েছিল তেমনই। তাবারীর ব্যাখ্যা ধরে পড়লে আয়াতটি নবী ﷺ-কে দাঁড় করায় সেই রাসূলদের সারিতে, যাঁদের বিরোধিতা করা হয়েছিল আর যাঁরা অটল ছিলেন। তিনি যে দুটি কথা বের করে আনেন, দুটোই নবীর নিজের দায়িত্ব: সবর, আর বার্তা পৌঁছে দেওয়া চালিয়ে যাওয়া। পরিণতির কথা আসে এর পরে, কাহিনির শেষ হিসেবে, নির্দেশ হিসেবে নয়।"
           }
         ]
       },
@@ -501,7 +501,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "No fetched commentary attaches to this verse a hadith from the six well-known collections. Ibn Kathir carries one report through the chain of Ibn Abi Hatim and does not grade it; it is left aside. Ma'arif al-Qur'an's commentary on the surah, as fetched, ends with 85:10 and says nothing on this verse. What is written here therefore rests on the six Arabic commentaries quoted above, at-Tabari, al-Qurtubi, al-Baghawi, Ibn Kathir, as-Sa'di and the Muyassar, on this verse alone.",
-            "bn": "প্রসিদ্ধ ছয়টি হাদীসগ্রন্থের কোনো হাদীস সংগৃহীত কোনো তাফসীর এ আয়াতের সঙ্গে জোড়েনি। ইবন কাসীর ইবন আবী হাতিমের সনদে একটি বর্ণনা আনেন, কিন্তু তার মান নির্ধারণ করেননি। তাই সেটি এখানে রাখা হলো না। সংগৃহীত মাআরিফুল কুরআনে এ সূরার আলোচনা ৮৫:১০ আয়াতে গিয়েই শেষ, এ আয়াত নিয়ে সেখানে কিছু নেই। তাই এখানে যা লেখা হয়েছে, তার ভিত্তি উপরে উদ্ধৃত ছয়টি আরবি তাফসীর: তাবারী, কুরতুবী, বাগাভী, ইবন কাসীর, সা'দী ও মুয়াসসার, শুধু এ আয়াতের উপর তাদের ব্যাখ্যা।"
+            "bn": "সংগৃহীত কোনো তাফসীরই এ আয়াতের সঙ্গে প্রসিদ্ধ ছয় হাদিসগ্রন্থের কোনো হাদিস জুড়ে দেয়নি। ইবন কাসীর ইবন আবী হাতিমের সনদে একটি বর্ণনা আনেন, কিন্তু তার মান নির্ধারণ করেননি। তাই সেটি এখানে রাখা হলো না। সংগৃহীত মাআরিফুল কুরআনে এ সূরার আলোচনা ৮৫:১০ আয়াতে গিয়েই শেষ, এ আয়াত নিয়ে সেখানে কিছু নেই। তাই এখানে যা লেখা হয়েছে, তার ভিত্তি উপরে উদ্ধৃত ছয়টি আরবি তাফসীর: তাবারী, কুরতুবী, বাগাভী, ইবন কাসীর, সা'দী ও মুয়াসসার, শুধু এ আয়াতের উপর তাদের ব্যাখ্যা।"
           }
         ]
       },
@@ -513,7 +513,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The question was first asked of one man, but it is recited to everyone who reads the surah. A reader who is mocked for praying, pressed to give up a conviction, or worn down by people who will not listen meets the same four words. The commentators found two things in them for the Prophet ﷺ: the reminder that the hosts' end has already been told, and, in at-Tabari's words, a call to patience like the patience of the messengers before him.",
-            "bn": "প্রশ্নটা প্রথমে করা হয়েছিল একজন মানুষকে। কিন্তু সূরাটি যে-ই পড়ে, তার সামনেই তা তেলাওয়াত হয়। নামাজের জন্য যাকে বিদ্রূপ সইতে হয়, যাকে বিশ্বাস ছেড়ে দিতে চাপ দেওয়া হয়, কিংবা না-শোনা মানুষের ভিড়ে যে ক্লান্ত, সে-ও এই একই চারটি শব্দের মুখোমুখি হয়। মুফাসসিররা এতে নবী ﷺ-এর জন্য দুটি জিনিস পেয়েছেন। একটি হলো এই স্মরণ যে বাহিনীগুলোর পরিণতির কথা আগেই বলা হয়ে গেছে। অন্যটি, তাবারীর ভাষায়, আগের রাসূলদের মতো সবর করার ডাক।"
+            "bn": "প্রশ্নটা প্রথমে করা হয়েছিল একজন মানুষকে। কিন্তু সূরাটি যে-ই তেলাওয়াত করে, প্রশ্নটা তার কাছেও এসে পৌঁছায়। নামাজের জন্য যাকে বিদ্রূপ সইতে হয়, যাকে বিশ্বাস ছেড়ে দিতে চাপ দেওয়া হয়, কিংবা না-শোনা মানুষের ভিড়ে যে ক্লান্ত, সে-ও এই একই চারটি শব্দের মুখোমুখি হয়। মুফাসসিররা এতে নবী ﷺ-এর জন্য দুটি জিনিস পেয়েছেন। একটি হলো এই স্মরণ যে বাহিনীগুলোর পরিণতির কথা আগেই বলা হয়ে গেছে। অন্যটি, তাবারীর ভাষায়, আগের রাসূলদের মতো সবর করার ডাক।"
           },
           {
             "en": "Two misreadings sit close by. One is despair, as if the hosts of one's own day must be stronger than any that came before; the verse answers that by pointing to a story already finished. The other is to sit in judgement, scanning the people around us for hosts of our own. The verse asks only whether the report has reached us. The work it leaves the reader is to receive the report, keep patient, and go on saying what is true.",
@@ -521,7 +521,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then the surah moves on to name the hosts, and that verse has its own entry. For now the question stands by itself, after the names in 85:14 to 85:16 that describe the Lord who brought the earlier stories to their end. Has the story reached you? For the reader who can answer yes, al-Qurtubi's two verbs say what it is for: it keeps the believer company when the way is lonely, and it consoles when the harm is near.",
-            "bn": "এরপর সূরা বাহিনীগুলোর নাম বলে, আর সে আয়াতের আলোচনা আলাদা। আপাতত প্রশ্নটা নিজের জায়গায় দাঁড়িয়ে থাকে, ৮৫:১৪ থেকে ৮৫:১৬ পর্যন্ত সেই নামগুলোর পরে, যেগুলো পরিচয় দেয় সেই রবের, যিনি আগের কাহিনিগুলোকে তাদের শেষে পৌঁছে দিয়েছেন। খবরটা কি আপনার কাছে পৌঁছেছে? যে পাঠক হ্যাঁ বলতে পারেন, তাঁর জন্য কুরতুবীর দুটি ক্রিয়াপদই বলে দেয় খবরটা কীসের জন্য। পথ যখন নিঃসঙ্গ, তখন এটি মুমিনের সঙ্গী। আর কষ্ট যখন কাছে, তখন সান্ত্বনা।"
+            "bn": "এরপর সূরা বাহিনীগুলোর নাম বলে, আর সে আয়াতের আলোচনা আলাদা। আপাতত প্রশ্নটা একাই দাঁড়িয়ে থাকে। তার আগে ৮৫:১৪ থেকে ৮৫:১৬ পর্যন্ত এসেছে সেই নামগুলো, যেগুলো সেই রবের পরিচয় দেয়, যিনি আগের কাহিনিগুলোকে তাদের শেষে পৌঁছে দিয়েছেন। খবরটা কি আপনার কাছে পৌঁছেছে? যে পাঠক হ্যাঁ বলতে পারেন, তাঁর জন্য কুরতুবীর দুটি ক্রিয়াপদই বলে দেয় খবরটা কীসের জন্য। পথ যখন নিঃসঙ্গ, তখন এটি মুমিনের সঙ্গী। আর কষ্ট যখন কাছে, তখন সান্ত্বনা।"
           }
         ]
       }
