@@ -2160,7 +2160,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Sijjil, Left Open",
-          "bn": "সিজ্জীল, খোলা রাখা এক শব্দ"
+          "bn": "সিজ্জীল: যে শব্দের মীমাংসা হয়নি"
         },
         "p": [
           {
@@ -2169,11 +2169,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Other readings go elsewhere. Ibn Zayd, in at-Tabari, says sijjil is the name of the nearest heaven; al-Qurtubi reports that Ibn Atiyyah called this weak, because the word is described as mandud. Some Basran philologists, in at-Tabari, took it as hard, severe stone, related to sijjin, since some Arabs turn the lam into a nun. Al-Qurtubi adds that az-Zajjaj read it as what was written for them, that it would strike them, in the sense of sijjin at 83:8 and 83:9, and chose that reading.",
-            "bn": "অন্য পাঠগুলো অন্য দিকে যায়। তাবারীতে ইবনু যায়দ বলেন, সিজ্জীল হলো নিকটতম আসমানের নাম। কুরতুবী জানান, ইবনু আতিয়্যা এই মতকে দুর্বল বলেছেন, কারণ শব্দটির গুণ বলা হয়েছে মানদূদ। তাবারীতে বসরার কিছু ভাষাবিদ একে ধরেছেন শক্ত, কঠিন পাথর অর্থে, সিজ্জীনের সঙ্গে সম্পর্কিত, কারণ কিছু আরব লাম অক্ষরকে নূন বানিয়ে উচ্চারণ করে। কুরতুবী আরও জানান, যাজ্জাজ একে পড়েছেন তাদের জন্য যা লিখে রাখা হয়েছিল অর্থে, অর্থাৎ তা তাদের আঘাত করবেই। এটি ৮৩:৮ ও ৮৩:৯ আয়াতের সিজ্জীনের অর্থে, আর যাজ্জাজ এই পাঠটিকেই বেছে নিয়েছেন।"
+            "bn": "অন্যরা ভিন্ন দিকে গেছেন। তাবারীতে ইবনু যায়দ বলেন, সিজ্জীল নিকটতম আসমানের নাম। কুরতুবী জানান, ইবনু আতিয়্যা এই মতকে দুর্বল বলেছেন, কারণ শব্দটির বিশেষণ হিসেবে এসেছে মানদূদ। তাবারীতে বসরার কিছু ভাষাবিদ একে ধরেছেন শক্ত, কঠিন পাথর অর্থে, আর বলেছেন শব্দটি সিজ্জীনের সঙ্গে সম্পর্কিত, কারণ কিছু আরব লামকে নূন করে উচ্চারণ করে। কুরতুবী আরও জানান, যাজ্জাজের মতে এর মানে, তাদের জন্য যা লিখে রাখা হয়েছিল, অর্থাৎ পাথর তাদের আঘাত করবেই। এ হলো ৮৩:৮ ও ৮৩:৯ আয়াতের সিজ্জীনের অর্থ, আর যাজ্জাজ এই পাঠটিকেই বেছে নিয়েছেন।"
           },
           {
             "en": "The list runs on. Al-Hasan said the stones were clay in origin and were then hardened; ad-Dahhak said baked brick; from 'Ikrimah comes a sea suspended between heaven and earth from which they fell. As-Sa'di calls them stones of fire of intense heat, and Ibn Kathir reports al-Bukhari's gloss, the hard and great. The commentators did not settle it, and this article leaves the disagreement where they left it.",
-            "bn": "তালিকা এখানেই শেষ নয়। হাসান বলেছেন, পাথরগুলো মূলে ছিল মাটি, পরে শক্ত করা হয়েছে। দাহহাক বলেছেন, পোড়ানো ইট। ইকরিমা থেকে এসেছে, আসমান ও জমিনের মাঝে ঝুলে থাকা এক সমুদ্র, সেখান থেকেই সেগুলো পড়েছিল। সাদী এগুলোকে বলেন প্রচণ্ড উত্তপ্ত আগুনের পাথর, আর ইবনু কাসীর উল্লেখ করেন বুখারীর ব্যাখ্যা, শক্ত ও বড়। মুফাসসিরগণ বিষয়টি এক জায়গায় মীমাংসা করেননি, আর এই লেখাও মতভেদটি সেখানেই রেখে দেয় যেখানে তাঁরা রেখেছেন।"
+            "bn": "তালিকা এখানেই শেষ নয়। হাসান বলেছেন, পাথরগুলো মূলে ছিল মাটি, পরে শক্ত করা হয়েছে। দাহহাক বলেছেন, পোড়ানো ইট। ইকরিমা থেকে এসেছে, আসমান ও জমিনের মাঝে ঝুলে থাকা এক সমুদ্র, সেখান থেকেই সেগুলো পড়েছিল। সাদী এগুলোকে বলেন প্রচণ্ড উত্তপ্ত আগুনের পাথর, আর ইবনু কাসীর উল্লেখ করেন বুখারীর ব্যাখ্যা, শক্ত ও বড়। মুফাসসিরগণ বিষয়টির মীমাংসা করেননি। এই লেখাও মতভেদটা সেভাবেই রেখে দিচ্ছে, যেভাবে তাঁরা রেখে গেছেন।"
           }
         ]
       },
@@ -2185,11 +2185,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Mandud is a passive participle from nadd, which al-Baghawi defines as placing one thing on top of another. From that sense the commentators draw two pictures. In al-Qurtubi, Qatadah says the stones were layered one on another, ar-Rabi' that they were layered until they became a single mass, and 'Ikrimah that they were set in rows. On this reading the word describes the stones before they fell, laid in order the way goods are stacked.",
-            "bn": "মানদূদ হলো নাদদ থেকে আসা কর্মবাচক বিশেষণ। বাগাবী নাদদের সংজ্ঞা দেন, একটি জিনিসকে আরেকটির উপর রাখা। এই অর্থ থেকে মুফাসসিরগণ দুটি ছবি আঁকেন। কুরতুবীতে কাতাদা বলেন, পাথরগুলো একটির উপর আরেকটি থরে থরে সাজানো ছিল। রাবী বলেন, এভাবে সাজাতে সাজাতে সব মিলে একটিমাত্র পিণ্ড হয়ে গিয়েছিল। ইকরিমা বলেন, সারিবদ্ধ। এই পাঠে শব্দটি পাথরগুলো পড়ার আগের অবস্থার বর্ণনা, মালপত্র যেমন গুছিয়ে থাক দিয়ে রাখা হয়।"
+            "bn": "মানদূদ হলো নাদদ থেকে আসা কর্মবাচক বিশেষণ। বাগাবী নাদদের অর্থ বলেন, এক জিনিসের উপর আরেক জিনিস রাখা। এই অর্থ থেকে মুফাসসিরগণ দুটি ছবি আঁকেন। কুরতুবীতে কাতাদা বলেন, পাথরগুলো একটির উপর আরেকটি থরে থরে সাজানো ছিল। রাবী বলেন, এভাবে সাজাতে সাজাতে সব মিলে একটা পিণ্ড হয়ে গিয়েছিল। ইকরিমা বলেন, সারি সারি করে রাখা ছিল। এই পাঠে শব্দটি পড়ার আগের পাথরগুলোর বর্ণনা, মালপত্র যেমন গুছিয়ে থাক দিয়ে রাখা হয়।"
           },
           {
             "en": "The other picture is motion. Ibn Abbas (RA), in both al-Qurtubi and al-Baghawi, glosses it as mutatabi', following in succession. Ibn Kathir sets the two readings side by side without choosing: some said arranged in the heavens and made ready for that; others said following one another as they came down. Abu Bakr al-Hudhali, in al-Qurtubi, gave a third: prepared, readied by Allah for His enemies, the wrongdoers. As-Sa'di reads the succession as pursuit, the stones following whoever had slipped away from the town. The word does not settle which picture is meant.",
-            "bn": "অন্য ছবিটি গতির। কুরতুবী ও বাগাবী দুজনের কাছেই ইবনু আব্বাস (রাঃ) এর অর্থ বলেন মুতাতাবি, লাগাতার, পরপর। ইবনু কাসীর দুটি পাঠই পাশাপাশি রাখেন, কোনোটি বেছে নেন না। কেউ বলেছেন, আসমানে সাজিয়ে রাখা, এই কাজের জন্য প্রস্তুত। অন্যরা বলেছেন, নামার সময় একটির পিছে আরেকটি। কুরতুবীতে আবু বকর হুযালী তৃতীয় একটি অর্থ দেন, প্রস্তুত, অর্থাৎ আল্লাহ তাঁর শত্রু জালিমদের জন্য যা তৈরি করে রেখেছিলেন। সাদী এই লাগাতার আসাকে পড়েন ধাওয়া হিসেবে, যে-ই জনপদ থেকে সরে পড়েছিল পাথর তার পিছু নিয়েছিল। কোন ছবিটি উদ্দেশ্য, শব্দটি নিজে তা ঠিক করে দেয় না।"
+            "bn": "অন্য ছবিটি গতির। কুরতুবী ও বাগাবী দুজনেই ইবনু আব্বাস (রাঃ) থেকে এর অর্থ আনেন মুতাতাবি, অর্থাৎ একের পর এক। ইবনু কাসীর দুটি পাঠ পাশাপাশি রাখেন, কোনোটি বেছে নেন না। কেউ বলেছেন, আসমানে সাজিয়ে রাখা ছিল, এই কাজের জন্যই প্রস্তুত। অন্যরা বলেছেন, নামার সময় একটির পিছে আরেকটি এসেছে। কুরতুবীতে আবু বকর হুযালী তৃতীয় একটি অর্থ দেন: প্রস্তুত, আল্লাহ তাঁর শত্রু জালিমদের জন্য তৈরি করে রেখেছিলেন। সাদী এই একের পর এক আসাকে ধাওয়া হিসেবে পড়েন: জনপদ থেকে যে-ই সরে পড়েছিল, পাথর তার পিছু নিয়েছিল। কোন ছবিটি উদ্দেশ্য, শব্দটি নিজে তা ঠিক করে দেয় না।"
           }
         ]
       },
@@ -2205,7 +2205,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi names five towns, then adds Muqatil's view that four were destroyed and one was spared, and closes: other things were said, and Allah knows best. Neither page gives a chain for the account, and neither attributes it to the Prophet ﷺ; Ma'arif al-Qur'an retells it under the words reports say. It is given here as what it is, a narrative the commentators carried, not as the verse's own statement. The verse says less, and says it in Allah's own voice.",
-            "bn": "কুরতুবী পাঁচটি জনপদের নাম দেন, তারপর মুকাতিলের মত যোগ করেন যে চারটি ধ্বংস হয়েছিল আর একটি রক্ষা পেয়েছিল, আর শেষে বলেন, এ ছাড়া অন্য কথাও বলা হয়েছে, আল্লাহই ভালো জানেন। দুটি পাতার কোনোটিতেই এই বিবরণের কোনো সনদ নেই, কোনোটিই একে নবী ﷺ-এর কথা বলে উল্লেখ করেনি। মাআরিফুল কুরআন একে আবার বলে বর্ণনায় আছে বলে। কাজেই এখানে বিবরণটি দেওয়া হলো ঠিক যা তা হিসেবেই, মুফাসসিরদের বয়ে আনা একটি বর্ণনা হিসেবে, আয়াতের নিজের বক্তব্য হিসেবে নয়। আয়াত এর চেয়ে কম বলে, আর বলে আল্লাহর নিজের জবানে।"
+            "bn": "কুরতুবী পাঁচটি জনপদের নাম বলেন, তারপর মুকাতিলের মত যোগ করেন যে চারটি ধ্বংস হয়েছিল আর একটি রক্ষা পেয়েছিল। শেষে বলেন, এ ছাড়া আরও কথা আছে, আল্লাহই ভালো জানেন। দুজনের কেউই এই বিবরণের কোনো সনদ দেননি, কেউই একে নবী ﷺ-এর কথা বলেও উল্লেখ করেননি। মাআরিফুল কুরআনও ঘটনাটি বলেছে 'বর্ণনায় আছে' বলে। তাই বিবরণটি এখানে তার আসল পরিচয়েই দেওয়া হলো: মুফাসসিরদের বয়ে আনা একটি বর্ণনা, আয়াতের নিজের কথা নয়। আয়াত এর চেয়ে কম বলে, আর বলে আল্লাহর নিজের জবানে।"
           },
           {
             "en": "No tafsir fetched for this verse attaches a sound prophetic hadith to the overturning, and none is supplied. Al-Qurtubi also draws a legal inference here and refers it to his comment on al-A'raf, where he records that the scholars differed over what is due while agreeing on the prohibition. Ibn Kathir's abridgement cites a report on the same question whose wording and grading could not be confirmed here, so it is not quoted. Such rulings belong to qualified scholars and courts, not to readers.",
@@ -2221,7 +2221,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The same morning is told in 15:73 and 15:74 with small differences: the shriek seized them at sunrise, then the same overturning and the same rain of sijjil, but upon them rather than upon it, and with no mandud. 51:33 has the angels tell Ibrahim (AS) they were sent to loose upon them stones of clay, the verse Qatadah and 'Ikrimah cited for their reading, and 51:34 gives the stones' marking in nearly the words that open 11:83, a verse left here for its own place.",
-            "bn": "একই সকালের কথা ১৫:৭৩ ও ১৫:৭৪ আয়াতে এসেছে সামান্য পার্থক্য নিয়ে। সূর্য ওঠার সময় বিকট আওয়াজ তাদের ধরল, তারপর একই উল্টে দেওয়া আর সিজ্জীলের একই বর্ষণ, তবে তার উপর নয়, তাদের উপর, আর সেখানে মানদূদ শব্দটি নেই। ৫১:৩৩ আয়াতে ফেরেশতারা ইবরাহীম (আঃ)-কে জানান, তাদের পাঠানো হয়েছে ওদের উপর মাটির পাথর ছাড়ার জন্য। কাতাদা ও ইকরিমা তাঁদের পাঠের পক্ষে এই আয়াতই এনেছিলেন। আর ৫১:৩৪ আয়াত পাথরগুলোর চিহ্নিত হওয়ার কথা বলে প্রায় সেই শব্দেই, যা দিয়ে ১১:৮৩ শুরু হয়। সেই আয়াতটি এখানে তার নিজের জায়গার জন্য রেখে দেওয়া হলো।"
+            "bn": "একই সকালের কথা ১৫:৭৩ ও ১৫:৭৪ আয়াতেও এসেছে, সামান্য পার্থক্য নিয়ে। সূর্য ওঠার সময় বিকট আওয়াজ তাদের ধরল, তারপর সেই একই উল্টে দেওয়া আর সিজ্জীলের সেই একই বর্ষণ। তবে সেখানে বর্ষণ জনপদের উপর নয়, তাদের উপর, আর মানদূদ শব্দটিও নেই। ৫১:৩৩ আয়াতে ফেরেশতারা ইবরাহীম (আঃ)-কে জানান, তাঁদের পাঠানো হয়েছে ওদের উপর মাটির পাথর ছুড়তে। কাতাদা ও ইকরিমা তাঁদের পাঠের পক্ষে এই আয়াতই এনেছিলেন। আর ৫১:৩৪ আয়াতে পাথরগুলো চিহ্নিত হওয়ার কথা এসেছে প্রায় সেই শব্দেই, যা দিয়ে ১১:৮৩ শুরু হয়। সে আয়াতের আলোচনা তার নিজের জায়গায়।"
           },
           {
             "en": "53:53 and 53:54 name the overturned town al-mu'tafikah, which He hurled down and then covered with what covered it; Ibn Kathir sets it beside this verse. 9:70 and 69:9 use the plural, al-mu'tafikat, and Ma'arif al-Qur'an cites both. 7:84 tells the whole rain in one clause, We rained upon them a rain, and turns the reader to how the criminals ended. And sijjil appears once more at 105:4, where the army of the elephant is pelted with stones of sijjil.",
@@ -2237,7 +2237,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The pressure of this verse on a reader lies in its first three words. The appointment had been stated: their appointment is the morning. The night between the statement and the morning was a respite, and from inside it the night looked like any other. The command came at the hour named, not at the hour anyone felt it coming. That pattern belongs to the reader far more than the stones do.",
-            "bn": "পাঠকের উপর এই আয়াতের চাপ তার প্রথম তিনটি শব্দে। সময়টা বলে দেওয়া হয়েছিল: তাদের নির্ধারিত সময় সকাল। কথাটা বলার পর থেকে সকাল পর্যন্ত যে রাত, সেটা ছিল অবকাশ। আর ভেতর থেকে দেখলে সে রাত ছিল আর দশটা রাতের মতোই। হুকুম এল বলে দেওয়া সময়ে, কেউ যখন তা আসছে বলে টের পেল তখন নয়। পাথরের চেয়ে এই ধরনটাই পাঠকের অনেক বেশি কাজের।"
+            "bn": "এই আয়াত পাঠকের উপর সবচেয়ে বেশি চাপ দেয় এর প্রথম তিনটি শব্দে। সময়টা আগেই বলে দেওয়া হয়েছিল: তাদের নির্ধারিত সময় সকাল। কথাটা বলার পর থেকে সকাল পর্যন্ত যে রাত, সেটা ছিল অবকাশ। আর ভেতর থেকে দেখলে সে রাত ছিল আর দশটা রাতের মতোই। হুকুম এল বলে দেওয়া সময়েই, কেউ আসছে বলে টের পেল তখন নয়। পাথর নয়, এই ধারাটাই পাঠকের নিজের জীবনের সঙ্গে অনেক বেশি মেলে।"
           },
           {
             "en": "Most people carry a warning they have heard often enough to stop hearing: a debt left unpaid, a wrong never put right, a prayer long neglected, a habit they know is not theirs to keep. That nothing has happened yet begins to feel like proof that nothing will. The verse corrects the feeling without a sermon. The interval between a warning and its hour is time given for walking, which is what Lut (AS) had been told to do, and not a sign that the hour was cancelled.",
@@ -2245,7 +2245,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Keep it pointed inward. The verse describes what the Qur'an describes of a particular people and an act of Allah that fell on them after their deeds and their rejection of His messenger. It licenses nothing against any living person or community, and gives no reader leave to speak of anyone with contempt. The one person a reader can move before the morning is himself. Name one matter you have treated as normal only because its hour has not come, and put part of it right before the next sunrise.",
-            "bn": "কথাটা নিজের দিকেই তাক করে রাখুন। আয়াতটি বর্ণনা করে নির্দিষ্ট একটি জাতির কথা, যা কুরআন নিজে বর্ণনা করেছে, আর আল্লাহর এমন একটি কাজের কথা যা তাদের উপর নেমেছিল তাদের আমল আর তাঁর রাসূলকে প্রত্যাখ্যানের পরে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না, কাউকে তুচ্ছ করে কথা বলার ছাড়পত্রও কোনো পাঠককে দেয় না। সকালের আগে পাঠক সত্যিই যাকে সরাতে পারেন, সে তিনি নিজে। এমন একটি বিষয়ের নাম নিন, যাকে আপনি স্বাভাবিক ধরে রেখেছেন কেবল এজন্য যে তার সময় এখনো আসেনি, আর পরের সূর্যোদয়ের আগে তার কিছুটা ঠিক করে ফেলুন।"
+            "bn": "কথাটা নিজের দিকেই তাক করে রাখুন। আয়াতটি বলছে নির্দিষ্ট একটি জাতির কথা, কুরআন যেভাবে বলেছে সেভাবে, আর আল্লাহর এমন একটি কাজের কথা, যা তাদের উপর নেমেছিল তাদের আমল আর তাঁর রাসূলকে প্রত্যাখ্যানের পরে। জীবিত কোনো মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না, কাউকে তুচ্ছ করে কথা বলার ছাড়পত্রও কোনো পাঠককে দেয় না। সকাল হওয়ার আগে পাঠক বদলাতে পারেন কেবল একজনকে: নিজেকে। এমন একটি বিষয়ের নাম নিন, যাকে আপনি স্বাভাবিক ধরে রেখেছেন কেবল এজন্য যে তার সময় এখনো আসেনি, আর পরের সূর্যোদয়ের আগে তার কিছুটা ঠিক করে ফেলুন।"
           }
         ]
       },
@@ -2273,7 +2273,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The questions start where the verse starts, with an appointment kept. What have I been warned about so often that I now assume its hour will never come? Which part of my life am I calling normal only because nothing has happened to it yet? If the command concerning me came tomorrow at sunrise, what would I wish I had done with tonight, and what is stopping me from doing it now?",
-            "bn": "প্রশ্নগুলো শুরু হোক সেখান থেকে, যেখান থেকে আয়াত শুরু হয়েছে, রক্ষা করা একটি নির্ধারিত সময় থেকে। কোন বিষয়ে আমাকে এত বার সতর্ক করা হয়েছে যে এখন ধরে নিয়েছি তার সময় কোনোদিন আসবে না? আমার জীবনের কোন অংশটাকে আমি স্বাভাবিক বলছি শুধু এজন্য যে এখনো তার কিছু হয়নি? আমার ব্যাপারে হুকুম যদি কাল সূর্যোদয়ে আসে, তাহলে আজকের রাতটা নিয়ে আমার কী করা উচিত ছিল বলে আফসোস হবে, আর এখনই তা করতে আমাকে আটকাচ্ছে কী?"
+            "bn": "প্রশ্নগুলো শুরু হয় সেখান থেকেই, যেখান থেকে আয়াত শুরু: বলে দেওয়া সময়টা ঠিক ঠিক রক্ষা হয়েছিল। কোন বিষয়ে আমাকে এত বার সতর্ক করা হয়েছে যে এখন ধরে নিয়েছি তার সময় কোনোদিন আসবে না? আমার জীবনের কোন অংশটাকে আমি স্বাভাবিক বলছি শুধু এজন্য যে এখনো তার কিছু হয়নি? আমার ব্যাপারে হুকুম যদি কাল সূর্যোদয়ে আসে, তাহলে আজকের রাতটা নিয়ে আমার কী করা উচিত ছিল বলে আফসোস হবে, আর এখনই তা করতে আমাকে আটকাচ্ছে কী?"
           },
           {
             "en": "Then the two verbs, both in Allah's voice. When something in my life is overturned, do I look first at causes, or at Him whose command it is? The commentators disagreed over what sijjil and mandud mean and did not pretend otherwise; where have I pressed a certainty onto something that is still open? And when I read an account of a people destroyed, am I reading it about them, or about me?",
@@ -2293,7 +2293,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah Hud is Makkan and sets its messengers in a chain, each account following the last. The verses just before this close the account of Lut (AS): the towns overturned, stones of layered clay marked at your Lord, and at 11:83 the remark that such a thing is not far from the wrongdoers. The next sentence turns to Madyan. No occasion of revelation is transmitted for this verse on the tafsir pages consulted here, so what it carries instead is a position.",
-            "bn": "সূরা হুদ মাক্কী, আর এতে রাসূলদের কাহিনি শিকলের মতো সাজানো, আগেরটির পিঠে পরেরটি। ঠিক আগের আয়াতগুলো লূত (আঃ)-এর জাতির হিসাব চুকিয়ে দেয়: জনপদ উল্টে দেওয়া হলো, স্তরে স্তরে পাকানো মাটির পাথর, প্রতিটি আপনার রবের কাছে চিহ্নিত, আর ১১:৮৩ আয়াতে মন্তব্য, জালিমদের থেকে এ জিনিস মোটেই দূরে নয়। পরের বাক্যটিই মুখ ফেরায় মাদইয়ানের দিকে। এ আয়াতের জন্য কোনো শানে নুযূল এখানে দেখা তাফসীরের পাতাগুলোতে পাওয়া যায়নি। শানে নুযূলের বদলে আয়াতটির হাতে আছে তার অবস্থান।"
+            "bn": "সূরা হুদ মক্কী, আর এতে রাসূলদের কাহিনি শিকলের মতো সাজানো, একটির পর আরেকটি। ঠিক আগের আয়াতগুলোতে লূত (আঃ)-এর কাহিনি শেষ হয়: জনপদ উল্টে দেওয়া হলো, স্তরে স্তরে পাকানো মাটির পাথর, প্রতিটি আপনার রবের কাছে চিহ্নিত, আর ১১:৮৩ আয়াতে মন্তব্য, জালিমদের থেকে এ জিনিস মোটেই দূরে নয়। পরের বাক্যেই কথা মোড় নেয় মাদইয়ানের দিকে। এখানে দেখা তাফসীরের পাতাগুলোতে এ আয়াতের কোনো শানে নুযূল বর্ণিত হয়নি। তাই শানে নুযূলের জায়গায় আয়াতটির আছে তার অবস্থান।"
           },
           {
             "en": "The sending formula belongs to the surah. Wa ila Madyan akhahum Shu'ayban, and to Madyan their brother Shu'ayb. The shape has been used twice already: 11:50 sends Hud (AS) to Aad and 11:61 sends Salih (AS) to Thamud, each with the identical next line, O my people, worship Allah, you have no deity other than Him. Three missions, one sentence. What changes is the clause after it. Hud's turns to their invented gods, Salih's to the earth, and Shu'ayb's to a measuring cup.",
@@ -2301,7 +2301,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Three commentators stop on the word brother. Ibn Kathir says Shu'ayb (AS) was the noblest of them in lineage, which is why Allah said their brother; he places Madyan as an Arab tribe between the Hijaz and Sham, near the land of Ma'an. As-Sa'di reads the brotherhood as kinship, given so they would know him and be able to take from him. Ma'arif al-Qur'an adds that a messenger from among them was easier to accept.",
-            "bn": "ভাই শব্দটির উপর তিনজন মুফাসসির থেমেছেন। ইবনু কাসীর বলেন, বংশমর্যাদায় শুআইব (আঃ) ছিলেন তাদের মধ্যে সবচেয়ে সম্ভ্রান্ত, আর সেজন্যই আল্লাহ বলেছেন তাদের ভাই; তিনি মাদইয়ানকে চিহ্নিত করেন হিজায ও শামের মাঝখানে, মাআন অঞ্চলের কাছে বসবাসকারী এক আরব গোত্র হিসেবে। সাদী ভাই বলতে বংশের আত্মীয়তাই বোঝেন, আর তা এজন্য যে তারা তাঁকে আগে থেকেই চিনত এবং তাঁর কাছ থেকে নিতে পারত। মাআরিফুল কুরআন যোগ করে, নিজেদের ভেতর থেকে আসা রাসূলকে মেনে নেওয়া সহজ ছিল।"
+            "bn": "ভাই শব্দটিতে এসে তিনজন মুফাসসির থেমেছেন। ইবনু কাসীর বলেন, বংশমর্যাদায় শুআইব (আঃ) ছিলেন তাদের মধ্যে সবচেয়ে সম্ভ্রান্ত, সেজন্যই আল্লাহ বলেছেন তাদের ভাই। তাঁর মতে মাদইয়ান ছিল হিজায ও শামের মাঝখানে, মাআন অঞ্চলের কাছে বসবাসকারী এক আরব গোত্র। সাদী ভাই বলতে বংশের আত্মীয়তা বোঝেন: এমন একজনকে পাঠানো হলো যাঁকে তারা চেনে, যাতে তাঁর কথা গ্রহণ করতে পারে। মাআরিফুল কুরআন যোগ করে, নিজেদের ভেতর থেকে আসা রাসূলকে মেনে নেওয়া সহজ ছিল।"
           }
         ]
       },
@@ -2317,18 +2317,18 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Wa la tanqusu al-mikyala wal-mizan. Naqasa is to diminish a thing, to take from its amount. Al-mikyal is the vessel goods are measured out by, al-mizan the balance they are weighed on. The prohibition names only the instruments, but at-Tabari reads the owner straight through them: do not diminish people of their rights in your measuring and your weighing. Al-Muyassar renders it the same way. The instrument is never the injured party.",
-            "bn": "ওয়া লা তানকুসুল মিকয়ালা ওয়াল মীযান। নাকাসা মানে কোনো কিছু কমিয়ে দেওয়া, তার পরিমাণ থেকে কেটে নেওয়া। মিকয়াল হলো যে পাত্রে মেপে দেওয়া হয়, আর মীযান হলো যে পাল্লায় ওজন করা হয়। নিষেধাজ্ঞায় কেবল এই দুই যন্ত্রের নাম আছে, কিন্তু তাবারী যন্ত্র পেরিয়ে সোজা মালিকের কাছে পৌঁছে যান, তোমাদের মাপে ও ওজনে মানুষের হক কমিয়ো না। মুয়াসসারও বাক্যটি একইভাবে খোলে। ক্ষতিগ্রস্ত পক্ষটি কখনোই যন্ত্র নয়।"
+            "bn": "ওয়া লা তানকুসুল মিকয়ালা ওয়াল মীযান। নাকাসা মানে কোনো কিছু কমিয়ে দেওয়া, তার পরিমাণ থেকে কেটে নেওয়া। মিকয়াল হলো যে পাত্রে মেপে দেওয়া হয়, আর মীযান হলো যে পাল্লায় ওজন করা হয়। নিষেধাজ্ঞায় কেবল এই দুই যন্ত্রের নাম আছে, কিন্তু তাবারী যন্ত্রের আড়ালে মালিককেই দেখেন: তোমাদের মাপে ও ওজনে মানুষের হক কমিয়ো না। মুয়াসসারও একই অর্থ করেছে। ক্ষতি তো কখনো যন্ত্রের হয় না।"
           },
           {
             "en": "The prohibition comes first and the positive command follows at 11:85, fulfil the measure and the scale with justice. Al-Qurtubi describes what Madyan were doing, and the description shows why both halves were needed. When a seller brought them grain they took by a full measure and took all they could get; when a buyer came they sold by a short measure and were as tight as they could be. Two standards in the same household, each used whichever way paid.",
-            "bn": "নিষেধাজ্ঞা আসে আগে, আর ইতিবাচক হুকুম আসে তার পরে, ১১:৮৫ আয়াতে, ইনসাফের সঙ্গে মাপ ও ওজন পূর্ণ করো। কুরতুবী বলে দেন মাদইয়ানবাসীরা আসলে কী করত, আর সেই বর্ণনাটাই দেখিয়ে দেয় কেন দুই দিক থেকেই কথাটা বলা দরকার ছিল। বিক্রেতা তাদের কাছে শস্য আনলে তারা ভরা মাপে নিত, যতটা আদায় করা যায় ততটাই আদায় করত। আর ক্রেতা তাদের কাছে এলে তারা কম মাপে দিত, যতটা আটকানো যায় ততটাই আটকাত। এক ঘরেই দুই মাপকাঠি, যেদিকে লাভ সেদিকেই যেটা খাটে।"
+            "bn": "নিষেধাজ্ঞা আসে আগে, আর ইতিবাচক হুকুম আসে তার পরে, ১১:৮৫ আয়াতে, ইনসাফের সঙ্গে মাপ ও ওজন পূর্ণ করো। কুরতুবী বলে দেন মাদইয়ানবাসীরা আসলে কী করত, আর সেই বর্ণনাটাই দেখিয়ে দেয় কেন দুই দিক থেকেই কথাটা বলা দরকার ছিল। বিক্রেতা তাদের কাছে শস্য আনলে তারা ভরা মাপে নিত, যতটা আদায় করা যায় ততটাই আদায় করত। আর ক্রেতা তাদের কাছে এলে তারা কম মাপে দিত, যতটা আটকানো যায় ততটাই আটকাত। এক ঘরেই দুই রকম মাপ, যখন যেটায় লাভ তখন সেটা।"
           }
         ]
       },
       {
         "h": {
           "en": "What Khayr Meant Here",
-          "bn": "খায়র বলতে এখানে কী"
+          "bn": "এখানে খায়র মানে কী"
         },
         "p": [
           {
@@ -2337,7 +2337,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Zayd read it as in your world, and argued from usage: Allah says in taraka khayran, which 2:180 renders as leaving wealth, because people call wealth khayr. At-Tabari then gives his own verdict, and it refuses to narrow: the khayr of this world, into which wealth, its adornment and cheap prices all enter, with nothing in the wording to show one sort was meant and not another. Al-Qurtubi settles on ample provision and abundant blessings.",
-            "bn": "ইবনু যায়দ একে পড়েছেন তোমাদের দুনিয়ায় অর্থে, আর যুক্তি এনেছেন ভাষার চল থেকে। আল্লাহ বলেন ইন তারাকা খাইরান, যা ২:১৮০ আয়াতে অনুবাদ হয়েছে সম্পত্তি রেখে যাওয়া অর্থে, কারণ মানুষ সম্পদকেই খায়র বলে ডাকে। এরপর তাবারী নিজের রায় দেন, আর সেই রায় অর্থটাকে সংকুচিত করতে অস্বীকার করে। তিনি বলেন, এখানে দুনিয়ার কল্যাণই উদ্দিষ্ট, আর তার ভেতরে সম্পদ, দুনিয়ার সাজসজ্জা এবং সস্তা দাম সবই ঢোকে; শব্দের মধ্যে এমন কিছু নেই যা দেখায় কেবল একটিই বোঝানো হয়েছে। কুরতুবী স্থির হন প্রশস্ত রিযিক ও প্রচুর নিয়ামতের উপর।"
+            "bn": "ইবনু যায়দ একে পড়েছেন তোমাদের দুনিয়ায় অর্থে, আর যুক্তি এনেছেন ভাষার ব্যবহার থেকে। আল্লাহ বলেন ইন তারাকা খাইরান, যা ২:১৮০ আয়াতে অনুবাদ হয়েছে সম্পত্তি রেখে যাওয়া অর্থে, কারণ মানুষ সম্পদকেই খায়র বলে। এরপর তাবারী নিজের রায় দেন, আর তাতে তিনি অর্থটাকে সংকুচিত করেন না। তাঁর মতে এখানে দুনিয়ার কল্যাণই উদ্দেশ্য, যার ভেতরে সম্পদ, দুনিয়ার সাজসজ্জা আর সস্তা দাম সবই পড়ে। শব্দে এমন কিছু নেই যা দেখায় যে কেবল একটিই বোঝানো হয়েছে, অন্যটি নয়। কুরতুবী স্থির হন প্রশস্ত রিযিক ও প্রচুর নিয়ামতের উপর।"
           },
           {
             "en": "A second question sits in the same three words. Is Shu'ayb (AS) stating a fact or delivering a warning? As-Sa'di reads it as a call to thanks: much blessing, health, wealth and children, so be grateful and do not meet the blessing with denial, or He will take it away. Ibn Kathir reads it as fear for the prosperity itself. Al-Jalalayn takes a third line, that the grace they were in removed any need to stint people.",
@@ -2353,15 +2353,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Adhaba yawmin muhit. Muhit is the active participle of ahata, to surround a thing on every side. Two commentators notice that the encircling is grammatically said of the Day when it belongs to the punishment. At-Tabari names the transfer: the meaning is understood and the punishment happens on that Day, so the description moves, as the Arabs say part of your cloak is burnt. Al-Qurtubi compares the phrase a severe day, meaning severe in its heat.",
-            "bn": "আযাবা ইয়াওমিম মুহীত। মুহীত হলো আহাতা ধাতুর কর্তৃবাচক বিশেষণ, যার মানে কোনো জিনিসকে চারদিক থেকে ঘিরে ফেলা। দুজন মুফাসসির লক্ষ করেছেন, ব্যাকরণে ঘেরার গুণটি বসেছে দিনের উপর, অথচ তা আসলে আযাবের গুণ। তাবারী এই সরে যাওয়াটার নাম নেন এবং কারণও বলেন, অর্থ তো বোঝাই যাচ্ছে আর আযাবটা ঘটছে সেই দিনেই, তাই গুণটি সরে বসে; আরবরা যেমন বলে তোমার জামার একাংশ পুড়ে গেছে। কুরতুবী তুলনা টানেন কঠিন দিন কথাটির সঙ্গে, যার মানে যে দিনের গরম কঠিন।"
+            "bn": "আযাবা ইয়াওমিম মুহীত। মুহীত হলো আহাতা ক্রিয়ার কর্তৃবাচক বিশেষণ, যার মানে কোনো জিনিসকে চারদিক থেকে ঘিরে ফেলা। দুজন মুফাসসির লক্ষ করেছেন, ব্যাকরণে ঘিরে ধরার গুণটি বসেছে দিনের উপর, অথচ তা আসলে আযাবের গুণ। তাবারী এই স্থানান্তরের কথা স্পষ্ট বলেন: অর্থ তো বোঝাই যাচ্ছে, আর আযাবটা ঘটে সেই দিনেই, তাই গুণটি দিনের উপর চলে গেছে। আরবরা যেমন বলে, তোমার জামার একাংশ পুড়ে গেছে। কুরতুবী তুলনা টানেন কঠিন দিন কথাটির সঙ্গে, যার মানে যে দিনের গরম কঠিন।"
           },
           {
             "en": "What the encircling punishment is, they do not agree on, and al-Qurtubi keeps the disagreement open. He lists three: the Fire in the next world; the punishment of extermination in this one; and a rise in prices, a sense he reports from Ibn Abbas (RA). Ibn Kathir decides, and decides for the Hereafter. As-Sa'di reads it as this-worldly and total, a punishment that encircles you and leaves none of you remaining. Ma'arif al-Qur'an keeps both doors open.",
-            "bn": "ঘিরে ধরা এই আযাবটি আসলে কী, তা নিয়ে তাঁরা একমত নন, আর মতভেদটি খোলা রাখেন কুরতুবী। তিনি তিনটি মত তুলে ধরেন: আখিরাতে জাহান্নামের আযাব; দুনিয়াতেই নির্মূল করে দেওয়ার আযাব; আর দাম চড়ে যাওয়া, এই অর্থটি তিনি ইবনু আব্বাস (রাঃ) থেকে বর্ণনা করেন। ইবনু কাসীর একটি বেছে নেন, আর তিনি বেছে নেন আখিরাতকে। সাদী একে দুনিয়ারই আযাব ধরেন, আর তা পূর্ণাঙ্গ, যা তোমাদের ঘিরে ধরবে এবং তোমাদের কাউকে বাকি রাখবে না। মাআরিফুল কুরআন দুই দরজাই খোলা রাখে।"
+            "bn": "ঘিরে ধরা এই আযাবটি আসলে কী, তা নিয়ে তাঁরা একমত নন, আর কুরতুবী মতভেদটি খোলাই রাখেন। তিনি তিনটি মত তুলে ধরেন: আখিরাতে জাহান্নামের আযাব; দুনিয়াতেই নির্মূল করে দেওয়ার আযাব; আর দাম চড়ে যাওয়া, যে অর্থটি তিনি ইবনু আব্বাস (রাঃ) থেকে বর্ণনা করেন। ইবনু কাসীর একটি মত বেছে নেন, আর সেটা আখিরাত। সাদী একে দুনিয়ারই আযাব ধরেন, আর তা পুরোপুরি: এমন আযাব যা তোমাদের ঘিরে ধরবে, তোমাদের কাউকে বাকি রাখবে না। মাআরিফুল কুরআন দুটো অর্থই খোলা রাখে।"
           },
           {
             "en": "The participle comes back inside the episode. At 11:92 Shu'ayb (AS) tells them inna rabbi bima ta'maluna muhit, my Lord encompasses what you do: the same word, moved off the Day and onto the One who brings it. The surah's first warner used the same fear-sentence with one adjective changed: at 11:26 Nuh (AS) says inni akhafu alaykum adhaba yawmin alim, a painful Day. The chain opens on a Day that hurts and reaches Madyan on one that closes in.",
-            "bn": "এই শব্দটি এই ঘটনারই ভেতরে আবার ফিরে আসে। ১১:৯২ আয়াতে শুআইব (আঃ) তাদের বলেন ইন্না রাব্বী বিমা তামালূনা মুহীত, তোমরা যা করো আমার রব তা ঘিরে রেখেছেন। একই শব্দ, তবে দিনের উপর থেকে সরে গিয়ে বসেছে যিনি সেই দিন আনবেন তাঁর উপর। আর সূরার প্রথম সতর্ককারীও ঠিক এই ভয়ের বাক্যটিই বলেছিলেন, কেবল একটি বিশেষণ বদলে। ১১:২৬ আয়াতে নূহ (আঃ) বলেন ইন্নী আখাফু আলাইকুম আযাবা ইয়াওমিন আলীম, যন্ত্রণাদায়ক এক দিন। ধারাটি শুরু হয় যে দিন কষ্ট দেয় তা দিয়ে, আর মাদইয়ানে এসে পৌঁছায় যে দিন ঘিরে ধরে তাতে।"
+            "bn": "এই শব্দটি এই ঘটনার ভেতরেই আবার ফিরে আসে। ১১:৯২ আয়াতে শুআইব (আঃ) তাদের বলেন ইন্না রাব্বী বিমা তামালূনা মুহীত, তোমরা যা করো আমার রব তা ঘিরে রেখেছেন। একই শব্দ, তবে এবার দিনের উপর নয়, বসেছে তাঁর উপর, যিনি সেই দিন আনবেন। সূরার প্রথম সতর্ককারীও ঠিক এই ভয়ের বাক্যটিই বলেছিলেন, কেবল একটি বিশেষণ আলাদা। ১১:২৬ আয়াতে নূহ (আঃ) বলেন ইন্নী আখাফু আলাইকুম আযাবা ইয়াওমিন আলীম, যন্ত্রণাদায়ক এক দিন। ধারাটি শুরু হয়েছিল কষ্টদায়ক এক দিন দিয়ে, আর মাদইয়ানে এসে তা হয়ে যায় চারদিক থেকে ঘিরে ধরা এক দিন।"
           }
         ]
       },
@@ -2373,31 +2373,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two of the commentaries bring a narration here. Al-Qurtubi cites the Prophet to the effect that no people display short measure and weight but that Allah afflicts them with drought and high prices, and he gives it with no collection and no chain; Ma'arif al-Qur'an quotes the same sense. That exact wording could not be confirmed on any page fetched here, so it is not quoted as a hadith text. A different route, with its own wording, can be.",
-            "bn": "দুটি তাফসীর এই আয়াতের সঙ্গে একটি বর্ণনা আনে। কুরতুবী নবী ﷺ থেকে এই মর্মে উদ্ধৃত করেন যে, কোনো জাতি মাপে ও ওজনে কম দেওয়া প্রকাশ্য করলেই আল্লাহ তাদের দুর্ভিক্ষ ও চড়া দামে আক্রান্ত করেন; তিনি সেখানে কোনো গ্রন্থের নাম বা সনদ দেন না। মাআরিফুল কুরআনও একই অর্থের কথা তোলে। এই নির্দিষ্ট শব্দগুলো এই লেখার জন্য দেখা কোনো পাতায় নিশ্চিত করা যায়নি, তাই সেগুলো হাদীসের পাঠ হিসেবে উদ্ধৃত হলো না। ভিন্ন এক সূত্র, নিজস্ব শব্দ নিয়ে, দেওয়া যায়।"
+            "bn": "দুটি তাফসীর এখানে একটি বর্ণনা আনে। কুরতুবী নবী ﷺ থেকে এই মর্মে উদ্ধৃত করেন যে, কোনো জাতি প্রকাশ্যে মাপে ও ওজনে কম দিলেই আল্লাহ তাদের খরা ও চড়া দামে আক্রান্ত করেন। তিনি কোনো গ্রন্থের নাম বা সনদ দেন না। মাআরিফুল কুরআনও একই অর্থের কথা বলে। হুবহু এই শব্দগুলো এই লেখার জন্য দেখা কোনো পাতায় নিশ্চিত করা যায়নি, তাই হাদিসের পাঠ হিসেবে তা উদ্ধৃত হলো না। তবে ভিন্ন সূত্রে, ভিন্ন শব্দে আসা একটি বর্ণনা উদ্ধৃত করা যায়।"
           },
           {
             "en": "Sunan Ibn Majah 4019 has it from Abdullah ibn Umar (RA), who said the Messenger of Allah turned to us and said: O Muhajirun, there are five things with which you will be tested, and I seek refuge with Allah lest you live to see them. The second of the five: They do not cheat in weights and measures but they will be stricken with famine, severe calamity and the oppression of their rulers. Ibn Majah records no grading of his own, so none is claimed.",
-            "bn": "সুনানে ইবনু মাজাহ ৪০১৯ নম্বরে আবদুল্লাহ ইবনু উমার (রাঃ) থেকে এসেছে। তিনি বলেন, রাসূলুল্লাহ ﷺ আমাদের দিকে ফিরে বললেন, হে মুহাজিরগণ, পাঁচটি জিনিস আছে যা দিয়ে তোমাদের পরীক্ষা করা হবে, আর আমি আল্লাহর কাছে আশ্রয় চাই যেন তোমরা সেগুলো দেখে না যাও। পাঁচটির মধ্যে দ্বিতীয়টি হলো, তারা মাপে ও ওজনে কম দিলেই তাদের উপর দুর্ভিক্ষ, কঠিন দুর্দশা আর শাসকদের জুলুম চেপে বসবে। দেখা পাতায় ইবনু মাজাহ নিজে কোনো মান লেখেননি, তাই কোনো মান দাবিও করা হচ্ছে না।"
+            "bn": "সুনানে ইবনু মাজাহ ৪০১৯ নম্বরে আবদুল্লাহ ইবনু উমার (রাঃ) থেকে এসেছে। তিনি বলেন, রাসূলুল্লাহ ﷺ আমাদের দিকে ফিরে বললেন, হে মুহাজিরগণ, পাঁচটি জিনিস দিয়ে তোমাদের পরীক্ষা করা হবে, আর আমি আল্লাহর কাছে আশ্রয় চাই, তোমরা যেন সেগুলোর দেখা না পাও। পাঁচটির দ্বিতীয়টি হলো: তারা মাপে ও ওজনে কম দিলেই তাদের উপর নেমে আসবে দুর্ভিক্ষ, কঠিন দুর্দশা আর শাসকদের জুলুম। ইবনু মাজাহ নিজে কোনো মান উল্লেখ করেননি, তাই এখানেও কোনো মান দাবি করা হচ্ছে না।"
           },
           {
             "en": "The wording underneath the threat is the reason to bring it. That clause reads lam yanqusu al-mikyala wal-mizan, and the verse in front of us reads la tanqusu al-mikyala wal-mizan. Same verb, same two objects. A prophet said it to one town before that town was taken away, and the report has the same act named again, centuries later, among the things a community can bring down on itself.",
-            "bn": "হুমকির নিচে বসে থাকা শব্দগুলোই একে আনার কারণ। ঐ অংশের আরবি হলো লাম ইয়ানকুসুল মিকয়ালা ওয়াল মীযান, আর সামনের আয়াতটি পড়ে লা তানকুসুল মিকয়ালা ওয়াল মীযান। একই ক্রিয়া, একই দুই কর্ম। একজন নবী কথাটি এক জনপদকে বলেছিলেন সেই জনপদ নিশ্চিহ্ন হওয়ার আগে, আর বর্ণনাটিতে শতাব্দী পেরিয়ে সেই একই কাজের নাম আবার আসে, সেসবের মধ্যে যা একটি সমাজ নিজের উপরই নামিয়ে আনতে পারে।"
+            "bn": "বর্ণনাটি আনার কারণ এর হুঁশিয়ারির ভেতরের শব্দগুলো। ঐ অংশের আরবি হলো লাম ইয়ানকুসুল মিকয়ালা ওয়াল মীযান, আর সামনের আয়াতে আছে লা তানকুসুল মিকয়ালা ওয়াল মীযান। একই ক্রিয়া, একই দুটি কর্ম। একজন নবী কথাটি বলেছিলেন এক জনপদকে, সেই জনপদ নিশ্চিহ্ন হওয়ার আগে। আর শতাব্দী পরে এই বর্ণনায় সেই একই কাজের নাম আবার আসে, এমন সব জিনিসের তালিকায়, যা একটি সমাজ নিজের উপর নামিয়ে আনতে পারে।"
           }
         ]
       },
       {
         "h": {
           "en": "As If They Never Prospered",
-          "bn": "যেন তারা কখনো বসবাসই করেনি"
+          "bn": "যেন তারা কখনো সচ্ছলই ছিল না"
         },
         "p": [
           {
             "en": "The passage supplies its own answer to the prosperity clause. 11:94 records that when the command came, Shu'ayb (AS) and those who believed with him were saved by mercy, and the shriek seized those who had wronged. Then 11:95 dismisses the whole of it in a single clause: as if they had never prospered therein. And 11:116 gives the surah's own diagnosis, that those who wronged followed the luxury they were given.",
-            "bn": "সচ্ছলতার কথাটির জবাব এই অংশটিই দিয়ে দেয়। ১১:৯৪ আয়াত লিখে রাখে, হুকুম যখন এলো, শুআইব (আঃ) আর তাঁর সঙ্গে যারা ঈমান এনেছিল তারা রহমতে রক্ষা পেলেন, আর যারা জুলুম করেছিল তাদের ধরল এক বিকট আওয়াজ। এরপর ১১:৯৫ আয়াত গোটা ব্যাপারটাই এক কথায় উড়িয়ে দেয়, যেন তারা সেখানে কোনোদিন বসবাসই করেনি। আর ১১:১১৬ আয়াত সূরার নিজের রোগ চিহ্নিত করে, জালিমরা তাদের দেওয়া ভোগবিলাসের পেছনেই ছুটেছিল।"
+            "bn": "সচ্ছলতার কথাটির জবাব এই অংশটিই দিয়ে দেয়। ১১:৯৪ আয়াত জানায়, হুকুম যখন এলো, শুআইব (আঃ) আর তাঁর সঙ্গে যারা ঈমান এনেছিল তারা রহমতে রক্ষা পেলেন, আর যারা জুলুম করেছিল তাদের ধরল এক বিকট আওয়াজ। এরপর ১১:৯৫ আয়াত গোটা ব্যাপারটাই এক কথায় শেষ করে দেয়: যেন তারা সেখানে কোনোদিন সচ্ছলই ছিল না। আর ১১:১১৬ আয়াতে সূরা নিজেই রোগটা ধরিয়ে দেয়: জালিমরা তাদের দেওয়া ভোগবিলাসের পেছনেই ছুটেছিল।"
           },
           {
             "en": "Three more verses belong beside it. 29:36 sends the same prophet to the same people with a different second sentence: worship Allah, expect the Last Day, and do not spread corruption. Where our verse names the scale, that one names the Day. 7:85 carries the positive twin of the prohibition, fulfil the measure and weight. And 11:50 and 11:61 hold the identical opening, so a reader who hears this verse alone hears the third of three.",
-            "bn": "আরও তিনটি আয়াত এর পাশে বসে। ২৯:৩৬ আয়াত একই নবীকে একই জাতির কাছে পাঠায়, কিন্তু দ্বিতীয় বাক্যটি আলাদা, আল্লাহর ইবাদত করো, শেষ দিনের আশা রাখো, আর ফাসাদ করে বেড়িয়ো না। আমাদের আয়াত যেখানে দাঁড়িপাল্লার নাম নেয়, ওটি সেখানে নাম নেয় সেই দিনের। ৭:৮৫ আয়াত এই নিষেধাজ্ঞারই ইতিবাচক জোড়াটি বহন করে, মাপ ও ওজন পূর্ণ করো। আর ১১:৫০ ও ১১:৬১ আয়াত ধরে রাখে হুবহু একই সূচনা, কাজেই যিনি কেবল এই আয়াতটিই শোনেন তিনি তিনটির তৃতীয়টি শুনছেন।"
+            "bn": "এর পাশে আরও তিনটি আয়াত রাখা যায়। ২৯:৩৬ আয়াত একই নবীকে একই জাতির কাছে পাঠায়, কিন্তু দ্বিতীয় বাক্যটি আলাদা: আল্লাহর ইবাদত করো, শেষ দিনের আশা রাখো, আর ফাসাদ করে বেড়িয়ো না। আমাদের আয়াত যেখানে দাঁড়িপাল্লার কথা বলে, ওটি সেখানে বলে সেই দিনের কথা। ৭:৮৫ আয়াতে আছে এই নিষেধাজ্ঞারই ইতিবাচক রূপ: মাপ ও ওজন পূর্ণ করো। আর ১১:৫০ ও ১১:৬১ আয়াতে আছে হুবহু একই সূচনা। কাজেই যিনি কেবল এই আয়াতটি শোনেন, তিনি আসলে তিনটির তৃতীয়টি শুনছেন।"
           }
         ]
       },
@@ -2413,19 +2413,19 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This has to stay pointed at your own dealings. The verse is a prophet speaking to his own town, and it licenses no verdict about any trade, market or community a reader has in mind. Where it lands is the transaction in front of you. An hour billed that was not worked. A quantity written generously on a delivery note. A deposit returned minus a deduction that would not survive being said out loud. As-Sa'di would have you fix it as thanks owed rather than trouble avoided.",
-            "bn": "কথাটা আপনার নিজের লেনদেনের দিকেই তাক করা থাকতে হবে। আয়াতটি একজন নবীর কথা, বলা হচ্ছে তাঁর নিজের জনপদকে, আর এটি কোনো পেশা, কোনো বাজার বা কোনো সমাজ সম্পর্কে পাঠককে রায় দেওয়ার অনুমতি দেয় না। এর আসল জায়গা আপনার সামনে পড়ে থাকা লেনদেনটি। যে ঘণ্টা কাজ হয়নি সেটির বিল। ডেলিভারির কাগজে একটু উদারভাবে লিখে দেওয়া পরিমাণ। জামানত ফেরত দেওয়ার সময় এমন কাটছাঁট যা মুখে বললে টিকত না। সাদীর পাঠে এটি ঠিক করা হবে শুকরিয়ার পাওনা হিসেবে, ঝামেলা এড়ানোর জন্য নয়।"
+            "bn": "কথাটা আপনার নিজের লেনদেনের দিকেই তাক করা থাকতে হবে। আয়াতটি একজন নবীর কথা, বলা হচ্ছে তাঁর নিজের জনপদকে, আর এটি কোনো পেশা, কোনো বাজার বা কোনো সমাজ সম্পর্কে পাঠককে রায় দেওয়ার অনুমতি দেয় না। এর আসল জায়গা আপনার সামনে পড়ে থাকা লেনদেনটি। যে ঘণ্টা কাজ হয়নি সেটির বিল। ডেলিভারির কাগজে একটু উদারভাবে লিখে দেওয়া পরিমাণ। জামানত ফেরত দেওয়ার সময় এমন কাটছাঁট যা মুখে বললে টিকত না। সাদীর পাঠ ধরলে এটা শুধরে নেবেন শুকরিয়ার দায় থেকে, ঝামেলা এড়ানোর জন্য নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "A Prayer for the Unwatched",
-          "bn": "যেখানে কেউ দেখে না"
+          "bn": "কেউ যেখানে দেখে না, সেখানকার দোয়া"
         },
         "p": [
           {
             "en": "No supplication is attached to this verse in any commentary read here, and the narration above is a warning rather than a prayer. What can be offered is a short du'a built out of the verse's own vocabulary, given as that and not as a transmitted wording. It follows the order Shu'ayb (AS) chose when he spoke to people who already had what they needed: the blessing named first, the fear after it.",
-            "bn": "এই লেখার জন্য পড়া কোনো তাফসীরেই এই আয়াতের সঙ্গে কোনো দোয়া জোড়া নেই, আর উপরে আনা বর্ণনাটি দোয়া নয়, সতর্কবাণী। সততার সঙ্গে যা দেওয়া যায় তা হলো আয়াতের নিজের শব্দ দিয়ে গড়া ছোট একটি দোয়া, আর সেটি এভাবেই দেওয়া হচ্ছে, বর্ণিত কোনো দোয়া হিসেবে নয়। এটি সেই ক্রমই ধরে যে ক্রমে শুআইব (আঃ) কথা বলেছিলেন এমন লোকদের সঙ্গে যাদের প্রয়োজনের জিনিস আগে থেকেই ছিল, আগে নিয়ামতের নাম, তারপর আশঙ্কা।"
+            "bn": "এই লেখার জন্য পড়া কোনো তাফসীরে এই আয়াতের সঙ্গে কোনো দোয়া নেই, আর উপরের বর্ণনাটি দোয়া নয়, সতর্কবাণী। তাই দেওয়া যায় আয়াতের নিজের শব্দ দিয়ে গড়া ছোট একটি দোয়া, আর সেটি সেভাবেই দেওয়া হলো, বর্ণিত কোনো দোয়া হিসেবে নয়। দোয়াটি সেই ক্রম মেনে চলে, যে ক্রমে শুআইব (আঃ) কথা বলেছিলেন এমন লোকদের সঙ্গে যাদের দরকারি সবকিছু আগে থেকেই ছিল: আগে নিয়ামতের কথা, তারপর আশঙ্কা।"
           },
           {
             "en": "O Allah, You have let me see khayr in my hands, so do not let me answer it by taking from anyone. Keep my measure full in the places nobody inspects. Let my thanks show in what I hand over and not only in what I say. Guard me from a Day that encircles, on which nothing I kept back can be given to its owner. And whoever I have shorted and can no longer find, settle their claim from Your own abundance.",
@@ -2441,11 +2441,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Shu'ayb (AS) named their comfort before their fault, so the questions start there. What has already been put in my hands that takes away my reason for shaving anything off? Where in my dealings is the measure habitually short, and how long have I known without calling it that? If the buyer saw everything I see about what I am selling, would it still go through on these terms?",
-            "bn": "শুআইব (আঃ) তাদের দোষের নাম নেওয়ার আগে তাদের আরামের নাম নিয়েছিলেন, তাই প্রশ্নগুলো সেখান থেকেই শুরু হোক। আমার হাতে এমন কী ইতিমধ্যে দেওয়া হয়েছে, যা কিছু কেটে নেওয়ার কারণটাই মুছে দেয়? আমার লেনদেনের কোন জায়গায় মাপটা নিয়মিত কম থাকে, আর কতদিন ধরে আমি তা জানি অথচ তার নাম ধরে ডাকি না? আমি যা বেচছি, তার সম্পর্কে আমি যা যা দেখতে পাই ওপাশের মানুষটিও যদি সবটা দেখত, তবু কি এই শর্তেই কাজটা হতো?"
+            "bn": "শুআইব (আঃ) তাদের দোষের কথা বলার আগে বলেছিলেন তাদের সচ্ছলতার কথা, তাই প্রশ্নগুলো সেখান থেকেই শুরু হোক। আমার হাতে আগেই এমন কী দেওয়া হয়েছে, যার পরে কিছু কেটে রাখার কোনো কারণই আর থাকে না? আমার লেনদেনের কোন জায়গায় মাপটা নিয়মিত কম থাকে, আর কতদিন ধরে আমি তা জানি, অথচ একে কম মাপ বলে স্বীকার করিনি? আমি যা বেচছি, তার সম্পর্কে আমি যা যা জানি, ক্রেতাও যদি সবটা দেখতে পেত, তবু কি এই শর্তেই বেচাকেনা হতো?"
           },
           {
             "en": "Then the two clauses he closed on. He feared a Day that encircles, leaving no side open: which of my arrangements only holds while nobody looks at it from one particular angle? The commentators disagreed over whether that encircling falls in this world or the next, so which answer would actually change what I do tomorrow? And whose correction am I discounting because it comes from someone close enough to dismiss?",
-            "bn": "এরপর যে দুটি কথায় তিনি শেষ করেছিলেন। তিনি আশঙ্কা করেছিলেন এমন এক দিনের যা ঘিরে ধরে, কোনো দিক খোলা রাখে না। আমার কোন ব্যবস্থাটা কেবল ততক্ষণই টেকে যতক্ষণ কেউ একটা বিশেষ দিক থেকে তাকিয়ে দেখে না? এই ঘিরে ধরা দুনিয়ায় ঘটবে না আখিরাতে, তা নিয়ে মুফাসসিরদের মতভেদ আছে; দুটির কোনটি আসলে আমার আগামীকালের কাজ বদলে দেবে? আর কার কথা আমি এই বলে উড়িয়ে দিচ্ছি যে সে এত কাছের মানুষ, তাকে আবার ধরার কী আছে?"
+            "bn": "এরপর যে দুটি কথায় তিনি শেষ করেছিলেন। তিনি ভয় করেছিলেন এমন এক দিনের, যা ঘিরে ধরে, কোনো দিক খোলা রাখে না। আমার কোন ব্যবস্থাটা কেবল ততক্ষণই টেকে, যতক্ষণ কেউ একটা বিশেষ দিক থেকে তাকিয়ে দেখে না? এই ঘিরে ধরা দুনিয়ায় ঘটবে না আখিরাতে, তা নিয়ে মুফাসসিরদের মতভেদ আছে। কোন উত্তরটা আসলে আমার আগামীকালের কাজ বদলে দেবে? আর কার শুধরে দেওয়া কথা আমি হালকা করে দেখছি শুধু এজন্য যে সে এত কাছের মানুষ, তাকে উড়িয়ে দেওয়া সহজ?"
           }
         ]
       }
@@ -2461,11 +2461,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is a reply, and the thing replied to is worth reading first. 11:84-86 has Shu'ayb (AS) sent to Madyan, telling them to worship Allah alone, not to short the measure and the scale, not to deprive people of what is theirs, and adding that what remains from Allah is better for them, and that he is not a guardian over them. Then 11:87 gives their answer, and it is a sneer.",
-            "bn": "আয়াতটি একটি জবাব, আর যার জবাব দেওয়া হচ্ছে তা আগে পড়াই ভালো। 11:84-86 আয়াতে শুআইব (আঃ)-কে মাদইয়ানে পাঠানো হয়; তিনি তাদের বলেন একমাত্র আল্লাহর ইবাদত করতে, মাপ ও ওজনে কম না দিতে, মানুষের প্রাপ্য থেকে তাদের বঞ্চিত না করতে; আর যোগ করেন যে আল্লাহর অনুমোদিত উদ্বৃত্তই তাদের জন্য উত্তম, এবং তিনি তাদের ওপর কোনো পর্যবেক্ষক নন। তারপর 11:87 আয়াত তাদের জবাব দেয়, আর তা একটি বিদ্রূপ।"
+            "bn": "আয়াতটি একটি জবাব, আর যার জবাব, সেটা আগে পড়ে নেওয়া ভালো। 11:84-86 আয়াতে শুআইব (আঃ)-কে মাদইয়ানে পাঠানো হয়। তিনি তাদের বলেন একমাত্র আল্লাহর ইবাদত করতে, মাপ ও ওজনে কম না দিতে, মানুষকে তাদের প্রাপ্য থেকে বঞ্চিত না করতে। সঙ্গে বলেন, আল্লাহর দেওয়া যা অবশিষ্ট থাকে তা-ই তাদের জন্য উত্তম, আর তিনি তাদের পাহারাদার নন। তারপর 11:87 আয়াতে আসে তাদের জবাব, আর সেটা বিদ্রূপ।"
           },
           {
             "en": "Does your prayer command you that we abandon what our fathers worshipped, or that we stop doing as we please with our own wealth? They close by calling him the forbearing, the discerning — a compliment turned into a barb. The taunt names the two things his call had touched: their inherited worship and their money. His reply defends neither point again. It talks about himself.",
-            "bn": "তোমার নামায কি তোমাকে এই আদেশ দেয় যে আমাদের পিতৃপুরুষ যার ইবাদত করত আমরা তা ছেড়ে দিই, কিংবা আমাদের নিজেদের সম্পদ নিয়ে যা ইচ্ছা তা করা বন্ধ করি? তারা শেষ করে তাঁকে ধৈর্যশীল ও বিচক্ষণ বলে — প্রশংসাকে খোঁচায় বদলে দিয়ে। এই বিদ্রূপ সেই দুটি জিনিসের নাম নেয় যেখানে তাঁর দাওয়াত হাত দিয়েছিল: তাদের উত্তরাধিকারসূত্রে পাওয়া উপাসনা এবং তাদের অর্থ। তাঁর জবাব এ দুটির কোনোটিরই পক্ষে আর যুক্তি দেয় না। জবাবটি তাঁর নিজের কথা বলে।"
+            "bn": "তোমার নামাজ কি তোমাকে এই হুকুম দেয় যে আমাদের বাপদাদা যার ইবাদত করত তা আমরা ছেড়ে দিই, কিংবা নিজেদের সম্পদ নিয়ে যা খুশি তা করা বন্ধ করি? শেষে তারা তাঁকে বলে সহনশীল, বিচক্ষণ; কথাটা প্রশংসার, কিন্তু বলা হয়েছে খোঁচা হিসেবে। বিদ্রূপটিতে সেই দুটি জিনিসেরই নাম আছে, যেখানে তাঁর দাওয়াত হাত দিয়েছিল: বাপদাদার কাছ থেকে পাওয়া উপাসনা আর তাদের টাকাপয়সা। তাঁর জবাবে এ দুটির কোনোটি নিয়েই তিনি আর যুক্তি দেন না। তিনি কথা বলেন নিজেকে নিয়ে।"
           }
         ]
       },
@@ -2477,11 +2477,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "He begins: have you considered, if I am upon clear evidence from my Lord and He has provided me with a good provision from Himself — and then the sentence stops. The Arabic gives the condition and never states the conclusion; the mufassirun supply it in different ways, along the lines of could I then conceal it from you, or could I then follow you in what you do. Translations mark the gap with dots. Leaving it open puts the conclusion in the listener's own mouth.",
-            "bn": "তিনি শুরু করেন: তোমরা কি ভেবে দেখেছ, যদি আমি আমার রবের পক্ষ থেকে স্পষ্ট প্রমাণের ওপর থাকি এবং তিনি নিজের পক্ষ থেকে আমাকে উত্তম রিযিক দিয়ে থাকেন — আর সেখানেই বাক্যটি থেমে যায়। আরবিতে শর্তটি দেওয়া হয়, সিদ্ধান্তটি কখনোই বলা হয় না; মুফাসসিরগণ তা নানাভাবে পূরণ করেন — যেমন 'তবে কি আমি তা তোমাদের থেকে গোপন করতে পারি', কিংবা 'তবে কি আমি তোমাদের কাজে তোমাদের অনুসরণ করতে পারি'। অনুবাদগুলো ফাঁকটি বিন্দু দিয়ে চিহ্নিত করে। খোলা রেখে দেওয়ার ফলে সিদ্ধান্তটি শ্রোতার নিজের মুখে বসে যায়।"
+            "bn": "তিনি শুরু করেন: তোমরা কি ভেবে দেখেছ, যদি আমি আমার রবের পক্ষ থেকে স্পষ্ট প্রমাণের উপর থাকি, আর তিনি নিজের পক্ষ থেকে আমাকে উত্তম রিযিক দিয়ে থাকেন... এখানেই বাক্যটি থেমে যায়। আরবিতে শর্তটি আছে, কিন্তু তার পরিণামটি কখনো বলা হয়নি। মুফাসসিরগণ তা নানাভাবে পূরণ করেন, যেমন 'তবে কি আমি তা তোমাদের কাছ থেকে গোপন করতে পারি', কিংবা 'তবে কি আমি তোমাদের কাজে তোমাদের অনুসরণ করতে পারি'। অনুবাদগুলো ফাঁকটা কয়েকটা বিন্দু দিয়ে বোঝায়। বাক্যটা খোলা থাকায় শেষ কথাটা শ্রোতাকে নিজের মুখেই বলে নিতে হয়।"
           },
           {
             "en": "The two things he claims are exact. Bayyinah is clear evidence, the ground he stands on. Rizqan hasanan is good provision, and he says it came to him minhu, from Him. A prophet whose whole message was about honest weights had to answer the obvious suspicion that he wanted a share of their trade. He answers it before it is raised, and he answers it by naming who his provision is from rather than by protesting how little he has.",
-            "bn": "তিনি যে দুটি দাবি করেন তা নিখুঁত। বাইয়িনা মানে স্পষ্ট প্রমাণ, যে ভিত্তির ওপর তিনি দাঁড়িয়ে। রিযকান হাসানান মানে উত্তম জীবিকা, আর তিনি বলেন তা এসেছে 'মিনহু' — তাঁরই পক্ষ থেকে। যে নবীর গোটা বার্তাই ছিল সৎ ওজন নিয়ে, তাঁকে সেই সুস্পষ্ট সন্দেহের জবাব দিতে হতো যে তিনি তাদের ব্যবসার ভাগ চান। সন্দেহটি ওঠার আগেই তিনি জবাব দেন, আর জবাব দেন নিজের কত কম আছে তা নিয়ে অনুযোগ করে নয়, বরং তাঁর জীবিকা কার কাছ থেকে আসে তার নাম নিয়ে।"
+            "bn": "তাঁর দুটি দাবিই মেপে মেপে বলা। বাইয়িনা মানে স্পষ্ট প্রমাণ, যে ভিত্তির উপর তিনি দাঁড়িয়ে। রিযকান হাসানান মানে উত্তম জীবিকা, আর তিনি বলেন তা এসেছে মিনহু, তাঁরই পক্ষ থেকে। যে নবীর গোটা দাওয়াত ছিল সৎ ওজন নিয়ে, তাঁকে একটা সন্দেহের জবাব দিতেই হতো, যে সন্দেহ যে কারো মনে জাগবে: তিনি বুঝি তাদের ব্যবসার ভাগ চান। সন্দেহটা কেউ তোলার আগেই তিনি জবাব দেন। আর জবাব দেন নিজের অভাবের কথা বলে নয়, বরং তাঁর জীবিকা কার কাছ থেকে আসে তা বলে।"
           }
         ]
       },
@@ -2493,11 +2493,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa ma uridu an ukhalifakum ila ma anhakum 'anhu. The reading most of the commentators settle on is this: I do not forbid you a thing in order to go to it myself behind your backs. The construction of the verb with ila carries that sense of heading for something one has left others behind on. A second reading takes it more broadly as I do not intend merely to oppose you for its own sake. Both are given in the tafsir literature; the first is the dominant one.",
-            "bn": "ওয়া মা উরীদু আন উখালিফাকুম ইলা মা আনহাকুম 'আনহু। মুফাসসিরগণের অধিকাংশ যে পাঠে স্থির হন তা হলো: আমি তোমাদের কোনো জিনিস থেকে নিষেধ করি না এই উদ্দেশ্যে যে আমি নিজে তোমাদের আড়ালে সেটির দিকেই যাব। ক্রিয়াপদটির সঙ্গে 'ইলা'-এর গঠন ঠিক সেই অর্থই বহন করে — অন্যদের পেছনে ফেলে কোনো কিছুর দিকে এগিয়ে যাওয়া। দ্বিতীয় একটি পাঠ একে আরও ব্যাপকভাবে নেয়: আমি কেবল বিরোধিতার খাতিরে তোমাদের বিরোধিতা করতে চাই না। তাফসীর সাহিত্যে দুটিই আছে; প্রথমটিই প্রধান।"
+            "bn": "ওয়া মা উরীদু আন উখালিফাকুম ইলা মা আনহাকুম 'আনহু। বেশির ভাগ মুফাসসির যে অর্থে স্থির হন তা হলো: আমি তোমাদের যা থেকে নিষেধ করি, তোমাদের আড়ালে নিজে সেটাই করব, এমন উদ্দেশ্য আমার নেই। ক্রিয়াটির সঙ্গে 'ইলা' এলে ঠিক এই অর্থই আসে: অন্যদের পেছনে ফেলে নিজে কোনো কিছুর দিকে যাওয়া। দ্বিতীয় একটি পাঠ একে আরও ব্যাপকভাবে নেয়: আমি কেবল বিরোধিতার খাতিরে তোমাদের বিরোধিতা করতে চাই না। তাফসীর সাহিত্যে দুটিই আছে; প্রথমটিই প্রধান।"
           },
           {
             "en": "This is the sentence Shu'ayb (AS) is remembered for, and the Quran holds the same standard against those who fail it — 61:2 asks the believers why they say what they do not do. Notice how narrow and how testable his claim is. He does not say he is without fault. He says he is not exempting himself from what he asks of others, which is a thing his people were in a position to check.",
-            "bn": "এই বাক্যটির জন্যই শুআইব (আঃ) স্মরণীয়, আর যারা এই মান রক্ষা করতে ব্যর্থ হয় কুরআন তাদের বিরুদ্ধেও একই মান খাড়া করে — 61:2 আয়াত মুমিনদের জিজ্ঞেস করে, তোমরা যা করো না তা কেন বলো। লক্ষ করুন তাঁর দাবিটি কত সংকীর্ণ ও কত যাচাইযোগ্য। তিনি বলেন না যে তিনি নিষ্পাপ। তিনি বলেন, অন্যদের কাছে যা চান তা থেকে তিনি নিজেকে ছাড় দিচ্ছেন না — আর এটি এমন একটি কথা যা যাচাই করার অবস্থানে তাঁর জাতি ছিল।"
+            "bn": "এই বাক্যটির জন্যই শুআইব (আঃ) স্মরণীয়। আর যারা এই মান রক্ষা করে না, কুরআন তাদের সামনেও একই মান তুলে ধরে: 61:2 আয়াত মুমিনদের জিজ্ঞেস করে, তোমরা যা করো না তা কেন বলো? লক্ষ করুন, তাঁর দাবিটি কত সীমিত আর কত সহজে যাচাই করা যায়। তিনি বলেন না যে তাঁর কোনো দোষ নেই। তিনি বলেন, অন্যদের কাছে যা চান, তা থেকে নিজেকে ছাড় দিচ্ছেন না। আর এ কথা যাচাই করার সুযোগ তাঁর জাতির হাতেই ছিল।"
           }
         ]
       },
@@ -2509,11 +2509,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "In uridu illa al-islah ma istata't — six words in Arabic, carrying two limits. Islah is from a root meaning to repair: the aim named is the mending of something that has gone wrong, not the defeat of a rival party. And ma istata't ties the aim to capacity. He does not promise that Madyan will be reformed. He states what he wants and how far he will carry it.",
-            "bn": "ইন উরীদু ইল্লাল ইসলাহা মাস্তাতা'তু — আরবিতে ছয়টি শব্দ, আর তাতে দুটি সীমা। ইসলাহ এসেছে মেরামত অর্থের ধাতু থেকে: যে লক্ষ্যের নাম নেওয়া হয়েছে তা হলো বিগড়ে যাওয়া কিছু ঠিক করা, প্রতিপক্ষকে হারানো নয়। আর 'মাস্তাতা'তু' লক্ষ্যটিকে সামর্থ্যের সঙ্গে বেঁধে দেয়। তিনি প্রতিশ্রুতি দেন না যে মাদইয়ান সংশোধিত হবে। তিনি বলে দেন তিনি কী চান আর তা কতদূর বয়ে নিয়ে যাবেন।"
+            "bn": "ইন উরীদু ইল্লাল ইসলাহা মাস্তাতা'তু: আরবিতে ছয়টি শব্দ, আর তাতে দুটি সীমা। ইসলাহ এসেছে মেরামত অর্থের ধাতু থেকে। অর্থাৎ তাঁর লক্ষ্য বিগড়ে যাওয়া জিনিস ঠিক করা, প্রতিপক্ষকে হারানো নয়। আর 'মাস্তাতা'তু' লক্ষ্যটিকে সামর্থ্যের সঙ্গে বেঁধে দেয়। তিনি কথা দেন না যে মাদইয়ান শুধরে যাবে। তিনি শুধু বলেন, তিনি কী চান আর কতদূর পর্যন্ত চেষ্টা চালাবেন।"
           },
           {
             "en": "See what that does to the definition of failure. His people were not reformed: 11:94-95 records that the shriek seized those who wronged and Madyan was taken away, while Shu'ayb (AS) and those who believed with him were saved by mercy. If success with an audience had been the measure, his statement here would have been falsified by the ending. He had set his intention at reform within his capacity, and that is a thing a person can complete no matter how the audience answers.",
-            "bn": "দেখুন এটি ব্যর্থতার সংজ্ঞাকে কী করে দেয়। তাঁর জাতি সংশোধিত হয়নি: 11:94-95 আয়াত লিপিবদ্ধ করে যে বিকট আওয়াজ জালিমদের গ্রাস করে এবং মাদইয়ান নিশ্চিহ্ন হয়ে যায়, আর শুআইব (আঃ) ও তাঁর সঙ্গে যারা ঈমান এনেছিল তারা রহমতে রক্ষা পান। শ্রোতাদের ওপর সাফল্যই যদি মানদণ্ড হতো, তবে পরিণতিটিই এখানকার তাঁর কথাটিকে মিথ্যা প্রমাণ করত। তিনি নিজের নিয়ত স্থির করেছিলেন সাধ্যের ভেতরে সংশোধনে, আর সেটি এমন এক জিনিস যা শ্রোতা যেভাবেই জবাব দিক, মানুষ সম্পন্ন করতে পারে।"
+            "bn": "এতে ব্যর্থতার মানেই বদলে যায়। তাঁর জাতি শোধরায়নি: 11:94-95 আয়াত জানায়, বিকট আওয়াজ জালিমদের ধরে ফেলে, মাদইয়ান নিশ্চিহ্ন হয়ে যায়, আর শুআইব (আঃ) ও তাঁর সঙ্গে যারা ঈমান এনেছিল তারা রহমতে রক্ষা পান। শ্রোতারা মেনে নিল কি না, সেটাই যদি সাফল্যের মাপকাঠি হতো, তবে শেষ পরিণতিই এখানকার তাঁর কথাকে মিথ্যা প্রমাণ করত। কিন্তু তিনি নিয়ত বেঁধেছিলেন সাধ্যমতো সংশোধনের উপর। শ্রোতারা যেভাবেই সাড়া দিক, এ কাজ একজন মানুষ পুরো করতে পারে।"
           }
         ]
       },
@@ -2525,11 +2525,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa ma tawfiqi illa billah. Tawfiq is from a root of agreement and fitting together: it is the joining of a person's effort to the outcome Allah intends. Not ability, and not permission — the fit between what you did and what came of it. He says he has none of it except by Allah. Everything else remains his work: the argument, the patience, the years of it. The joining of the work to a result is not his.",
-            "bn": "ওয়া মা তাওফীকী ইল্লা বিল্লাহ। তাওফীক এসেছে মিল ও খাপ খাওয়ার ধাতু থেকে: এটি মানুষের চেষ্টাকে আল্লাহ যে পরিণাম চান তার সঙ্গে জুড়ে দেওয়া। সামর্থ্যও নয়, অনুমতিও নয় — বরং আপনি যা করলেন আর তা থেকে যা হলো, এ দুইয়ের মিল। তিনি বলেন, আল্লাহর মাধ্যম ছাড়া এর কিছুই তাঁর নেই। বাকি সবই তাঁর কাজ থেকে যায়: যুক্তি, ধৈর্য, বছরের পর বছর। কাজটিকে ফলাফলের সঙ্গে জুড়ে দেওয়া তাঁর নয়।"
+            "bn": "ওয়া মা তাওফীকী ইল্লা বিল্লাহ। তাওফীক এসেছে মিল ও খাপ খাওয়ার ধাতু থেকে। এর মানে, মানুষের চেষ্টাকে আল্লাহর চাওয়া পরিণামের সঙ্গে জুড়ে দেওয়া। এটা সামর্থ্য নয়, অনুমতিও নয়; বরং আপনি যা করলেন আর তা থেকে যা হলো, এ দুইয়ের মিল। তিনি বলেন, আল্লাহর সাহায্য ছাড়া এর কিছুই তাঁর নেই। বাকি সব তাঁরই কাজ: যুক্তি দেওয়া, ধৈর্য ধরা, বছরের পর বছর লেগে থাকা। কিন্তু কাজকে ফলাফলের সঙ্গে জুড়ে দেওয়া তাঁর হাতে নয়।"
           },
           {
             "en": "Then two prepositions pointing opposite ways. 'Alayhi tawakkaltu, upon Him I have relied, which faces forward into what has not yet happened. Wa ilayhi unib, and to Him I turn back, inabah being the return of one who keeps coming back. A person who calls others to good is placed between the two: leaning forward on Allah for the work, and turning back to Him from it. Both directions in one closing breath, and the verse ends there.",
-            "bn": "তারপর দুটি অব্যয়, দুই বিপরীত দিকে মুখ করা। 'আলাইহি তাওয়াক্কালতু — তাঁরই ওপর আমি ভরসা করেছি, যা মুখ করে আছে সামনের দিকে, যা এখনো ঘটেনি তার দিকে। ওয়া ইলাইহি উনীব — আর তাঁরই দিকে আমি ফিরে যাই, ইনাবা মানে সেই ফেরা যা বারবার ফিরে আসে। যে মানুষ অন্যদের কল্যাণের দিকে ডাকে, তাকে এই দুইয়ের মাঝখানে বসানো হয়: কাজের জন্য আল্লাহর ওপর সামনের দিকে ঝুঁকে থাকা, আর কাজ থেকে তাঁরই দিকে ফিরে আসা। এক নিঃশ্বাসে দুই দিক, আর সেখানেই আয়াতটি শেষ হয়।"
+            "bn": "তারপর দুটি অব্যয়, দুটি দুই বিপরীত দিকে। 'আলাইহি তাওয়াক্কালতু, তাঁরই উপর আমি ভরসা করেছি। এর মুখ সামনের দিকে, যা এখনো ঘটেনি তার দিকে। ওয়া ইলাইহি উনীব, আর তাঁরই দিকে আমি ফিরে আসি। ইনাবা মানে এমন মানুষের ফেরা, যে বারবার ফিরে আসে। যে মানুষ অন্যদের কল্যাণের দিকে ডাকে, তার জায়গা এই দুইয়ের মাঝখানে: কাজের জন্য সামনে তাকিয়ে আল্লাহর উপর ভরসা, আর কাজ শেষে তাঁরই দিকে ফিরে আসা। এক নিঃশ্বাসে দুই দিক, আর সেখানেই আয়াতটি শেষ।"
           }
         ]
       }
@@ -2628,7 +2628,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Three Rescues in Hud",
-          "bn": "হূদ সূরায় তিনটি উদ্ধার"
+          "bn": "সূরা হুদে তিনটি উদ্ধার"
         },
         "p": [
           {
@@ -2660,7 +2660,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Asking to Be Carried Out",
-          "bn": "রহমতে পার হওয়ার দোয়া"
+          "bn": "রহমতে বের করে আনার দোয়া"
         },
         "p": [
           {
