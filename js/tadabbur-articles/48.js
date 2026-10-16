@@ -16,16 +16,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Setback Called a Conquest",
-          "bn": "যে পিছুটানকে বিজয় বলা হলো"
+          "bn": "যে ধাক্কাকে বিজয় বলা হলো"
         },
         "p": [
           {
             "en": "Surah al-Fath opens with 48:1: indeed We have given you a clear conquest. What had just happened was a treaty, agreed at Hudaybiyyah on terms the Muslims found hard to accept, after they had set out for the Sacred House and were turned back without reaching it. The surah begins by naming that a victory. 48:2 and 48:3 add forgiveness, completed favour, guidance and aid.",
-            "bn": "সূরা আল-ফাতহ শুরু হয় 48:1 দিয়ে: নিশ্চয়ই আমি তোমাকে দিয়েছি সুস্পষ্ট বিজয়। যা মাত্রই ঘটেছিল তা একটি সন্ধিচুক্তি, হুদাইবিয়ায় সম্পাদিত এমন শর্তে যা মুসলিমদের কাছে মেনে নেওয়া কঠিন ঠেকেছিল — তাঁরা বাইতুল্লাহর উদ্দেশে বেরিয়েছিলেন, কিন্তু সেখানে না পৌঁছেই ফিরতে হয়েছিল। সূরাটি শুরুতেই সেটিকে বিজয় বলে অভিহিত করে। 48:2 ও 48:3 এর সঙ্গে যোগ করে ক্ষমা, পূর্ণ অনুগ্রহ, হিদায়াত ও সাহায্য।"
+            "bn": "সূরা আল-ফাতহ শুরু হয় ৪৮:১ দিয়ে: নিশ্চয়ই আমি তোমাকে দিয়েছি সুস্পষ্ট বিজয়। অথচ সদ্য যা ঘটেছিল, তা ছিল হুদাইবিয়ার সন্ধি। মুসলিমরা বাইতুল্লাহর উদ্দেশে বেরিয়েছিলেন, কিন্তু সেখানে পৌঁছানোর আগেই তাঁদের ফিরিয়ে দেওয়া হয়। তারপর এমন শর্তে সন্ধি হলো, যা মেনে নেওয়া তাঁদের কাছে কঠিন ঠেকেছিল। সূরাটি শুরুতেই সেটার নাম দিল বিজয়। ৪৮:২ ও ৪৮:৩ এর সঙ্গে যোগ করে মাগফিরাত, পূর্ণ নিয়ামত, হিদায়াত আর সাহায্য।"
           },
           {
             "en": "Then comes this verse, and it explains how a community was brought to accept an outcome it had not wanted. Nothing in the terms changed. What was sent down was not a better treaty; it was a settledness in the people who had to live with the one they had. That order — the situation first, the calm afterwards — is the whole shape of the verse.",
-            "bn": "এরপর আসে এই আয়াতটি, আর তা ব্যাখ্যা করে কীভাবে একটি জাতিকে এমন পরিণতি মেনে নিতে সক্ষম করা হলো যা তারা চায়নি। শর্তগুলোর কিছুই বদলায়নি। যা নাযিল হয়েছিল তা উন্নততর কোনো চুক্তি নয়; তা ছিল সেই মানুষদের ভেতরে এক স্থিরতা, যাঁদের হাতে থাকা চুক্তিটি নিয়েই বাঁচতে হবে। এই ক্রমই — আগে পরিস্থিতি, পরে প্রশান্তি — আয়াতটির গোটা কাঠামো।"
+            "bn": "এরপর আসে এই আয়াত। যে ফল একটি জামাআত চায়নি, সে কীভাবে তা মেনে নিতে পারল, আয়াতটি সেটাই বুঝিয়ে দেয়। শর্তের কিছুই বদলায়নি। যা নাজিল হলো, তা আরও ভালো কোনো চুক্তি নয়। নাজিল হলো স্থিরতা, সেই মানুষগুলোর ভেতরে, যাঁদের হাতের এই চুক্তি নিয়েই চলতে হবে। আগে পরিস্থিতি, পরে প্রশান্তি: এই ক্রমটাই আয়াতের পুরো গড়ন।"
           }
         ]
       },
@@ -37,43 +37,43 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The word sakinah appears six times in the Quran: 2:248, 9:26, 9:40, 48:4, 48:18 and 48:26. Five of those six send it upon someone, or place it inside the ark that came to the Children of Israel. This verse alone says fi qulubi al-mu'minin — into the hearts of the believers. The preposition is different, and it is the only one that names the organ.",
-            "bn": "'সাকীনাহ' শব্দটি কুরআনে এসেছে ছয়বার: 2:248, 9:26, 9:40, 48:4, 48:18 এবং 48:26। এর মধ্যে পাঁচটিতে তা কারও 'উপর' নাযিল হয়, কিংবা বনী ইসরাঈলের কাছে আসা সেই সিন্দুকের 'ভেতরে' রাখা হয়। কেবল এই আয়াতটিই বলে ফী কুলূবিল-মুমিনীন — মুমিনদের অন্তরের ভেতরে। এখানে অব্যয়টি ভিন্ন, আর কেবল এখানেই অঙ্গটির নাম নেওয়া হয়েছে।"
+            "bn": "'সাকীনাহ' শব্দটি কুরআনে এসেছে ছয়বার: ২:২৪৮, ৯:২৬, ৯:৪০, ৪৮:৪, ৪৮:১৮ ও ৪৮:২৬। এর পাঁচটিতে সাকীনাহ নাজিল হয় কারও 'উপর', অথবা থাকে বনী ইসরাঈলের কাছে আসা সেই সিন্দুকের 'ভেতরে'। শুধু এই আয়াতেই আছে ফী কুলূবিল মুমিনীন: মুমিনদের অন্তরের ভেতরে। এখানে কথাটা 'উপরে' নয়, 'ভেতরে'। আর অন্তরের নাম নেওয়া হয়েছে কেবল এই আয়াতেই।"
           },
           {
             "en": "That matters because the disturbance at Hudaybiyyah was not in the terms on paper; it was in chests. The believers had been promised the Sacred House and were riding home without it. A calm delivered upon a group would have been protection around them. A calm delivered into the heart is placed exactly where the objection was forming, in the same room as the doubt.",
-            "bn": "এটি গুরুত্বপূর্ণ, কারণ হুদাইবিয়ার অস্থিরতা কাগজের শর্তে ছিল না, ছিল বুকের ভেতরে। মুমিনদের বাইতুল্লাহর প্রতিশ্রুতি দেওয়া হয়েছিল, অথচ তাঁরা তা ছাড়াই ফিরে আসছিলেন। কোনো দলের 'উপর' নাযিল হওয়া প্রশান্তি হতো তাঁদের চারপাশে একটি আবরণ। কিন্তু অন্তরের 'ভেতরে' পাঠানো প্রশান্তি ঠিক সেখানেই বসে, যেখানে আপত্তিটি তৈরি হচ্ছিল — সন্দেহের সঙ্গে একই ঘরে।"
+            "bn": "কথাটা গুরুত্বপূর্ণ। হুদাইবিয়ার অস্থিরতা কাগজের শর্তে ছিল না, ছিল বুকের ভেতরে। মুমিনদের বাইতুল্লাহর প্রতিশ্রুতি দেওয়া হয়েছিল, অথচ তাঁরা সেখানে না গিয়েই বাড়ি ফিরছিলেন। প্রশান্তি যদি দলের 'উপর' নামত, তা হতো তাঁদের চারপাশের এক আড়াল। কিন্তু অন্তরের 'ভেতরে' নামা প্রশান্তি গিয়ে বসে ঠিক সেখানে, যেখানে আপত্তি দানা বাঁধছিল, সন্দেহের সঙ্গে একই ঘরে।"
           }
         ]
       },
       {
         "h": {
           "en": "Half the Occurrences, One Journey",
-          "bn": "অর্ধেক উল্লেখ, একটি সফর"
+          "bn": "অর্ধেক উল্লেখ, একই সফরে"
         },
         "p": [
           {
             "en": "Three of the six belong to this surah, and all three to the same expedition. This verse covers the treaty; 48:18 records that Allah was pleased with the believers when they pledged allegiance under the tree, knew what was in their hearts, and sent down tranquility upon them; 48:26 sets it against the zeal of ignorance that the deniers had put in their own hearts.",
-            "bn": "ছয়টির মধ্যে তিনটিই এই সূরার, আর তিনটিই একই সফরের। আলোচ্য আয়াতটি সন্ধিচুক্তি সম্পর্কিত; 48:18 লিপিবদ্ধ করে যে আল্লাহ মুমিনদের প্রতি সন্তুষ্ট হলেন যখন তাঁরা গাছের নিচে বায়'আত নিলেন, তিনি জানতেন তাঁদের অন্তরে কী আছে, আর তিনি তাঁদের উপর প্রশান্তি নাযিল করলেন; আর 48:26 একে দাঁড় করায় অস্বীকারকারীদের অন্তরে পোষা জাহেলি জেদের বিপরীতে।"
+            "bn": "ছয়টির তিনটিই এই সূরায়, আর তিনটিই একই সফরের। এই আয়াতটি সন্ধির কথা বলে। ৪৮:১৮ জানায়, মুমিনরা যখন গাছের নিচে বাইআত করছিলেন, আল্লাহ তাঁদের উপর সন্তুষ্ট হলেন, তাঁদের অন্তরে কী আছে তা জানলেন, আর তাঁদের উপর প্রশান্তি নাজিল করলেন। আর অস্বীকারকারীরা নিজেদের অন্তরে যে জাহেলি জেদ পুষে রেখেছিল, ৪৮:২৬ সাকীনাহকে দাঁড় করায় তার বিপরীতে।"
           },
           {
             "en": "A single journey therefore accounts for half of every use of the word in the Quran. The pattern in all of them is consistent: the sakinah arrives where a decision is being made under pressure and the outcome is not yet visible — a cave, a battlefield, a pledge, a treaty. It is not the reward of safety. It is what is given to people who must act without it.",
-            "bn": "অর্থাৎ কুরআনে শব্দটির যত ব্যবহার, তার অর্ধেকই একটিমাত্র সফরের সঙ্গে জড়িত। সবগুলোতেই ধরনটি অভিন্ন: সাকীনাহ আসে সেখানে, যেখানে চাপের মুখে সিদ্ধান্ত নিতে হচ্ছে আর পরিণতি তখনো দেখা যাচ্ছে না — একটি গুহা, একটি রণাঙ্গন, একটি বায়'আত, একটি চুক্তি। এটি নিরাপত্তার পুরস্কার নয়; বরং যাঁদের নিরাপত্তা ছাড়াই কাজ করতে হয়, এটি তাঁদেরই দেওয়া হয়।"
+            "bn": "তাহলে কুরআনে শব্দটি যতবার এসেছে, তার অর্ধেকই একটিমাত্র সফরে। আর সবগুলো জায়গায় ছবিটা একই: চাপের মুখে সিদ্ধান্ত নিতে হচ্ছে, পরিণতি তখনো চোখে পড়ছে না, ঠিক তখনই আসে সাকীনাহ। কখনো গুহায়, কখনো রণাঙ্গনে, কখনো বাইআতে, কখনো সন্ধিতে। সাকীনাহ নিরাপদ থাকার পুরস্কার নয়। নিরাপত্তা ছাড়াই যাঁদের কাজে নামতে হয়, এটা দেওয়া হয় তাঁদেরকেই।"
           }
         ]
       },
       {
         "h": {
           "en": "What the Calm Was For",
-          "bn": "প্রশান্তিটি কীসের জন্য"
+          "bn": "প্রশান্তি এল কীসের জন্য"
         },
         "p": [
           {
             "en": "Alone among the six, this verse states a purpose: liyazdadu imanan ma'a imanihim, that they might increase in faith along with the faith they had. The wording is careful. It is not faith replacing an absence but faith added to a holding, so the sakinah is described as an increment on something already there rather than a rescue of something that had failed.",
-            "bn": "ছয়টির মধ্যে কেবল এই আয়াতটিই একটি উদ্দেশ্য ঘোষণা করে: লিইয়াযদাদূ ঈমানাম মা'আ ঈমানিহিম — যাতে তাদের বিদ্যমান ঈমানের সঙ্গে ঈমান বেড়ে যায়। শব্দচয়নটি যত্নের। এটি শূন্যতার জায়গায় ঈমান বসানো নয়, বরং যা আছে তার সঙ্গে ঈমান যোগ করা; ফলে সাকীনাহকে বর্ণনা করা হচ্ছে আগে থেকে থাকা কিছুর উপর বৃদ্ধি হিসেবে, ব্যর্থ হয়ে যাওয়া কিছুর উদ্ধার হিসেবে নয়।"
+            "bn": "ছয়টির মধ্যে শুধু এই আয়াতই উদ্দেশ্যটা বলে দেয়: লিইয়াযদাদূ ঈমানাম মা'আ ঈমানিহিম, যাতে তাদের ঈমানের সঙ্গে আরও ঈমান যোগ হয়। শব্দ বাছাইটা লক্ষ করার মতো। ঈমান না থাকা জায়গায় ঈমান বসানো হচ্ছে না, যা আছে তার উপর ঈমান যোগ হচ্ছে। তাই সাকীনাহ এখানে আগে থেকে থাকা জিনিসের বাড়তি, ভেঙে পড়া কিছুর উদ্ধার নয়।"
           },
           {
             "en": "This is one of the plainest texts in the Quran for the position that faith rises and falls, and the classical scholars treated it as such — al-Bukhari gives the increase and decrease of faith a chapter of its own in the Book of Faith. It also supplies a test for any calm a believer feels. Sakinah is known by its effect, and the effect named here is more faith than before.",
-            "bn": "ঈমান বাড়ে ও কমে — এই অবস্থানের পক্ষে কুরআনের স্পষ্টতম দলিলগুলোর একটি এটি, আর প্রাচীন আলিমগণ একে সেভাবেই গ্রহণ করেছেন; ইমাম বুখারী তাঁর 'কিতাবুল ঈমান'-এ ঈমানের বৃদ্ধি ও হ্রাসের জন্য আলাদা একটি অধ্যায় রেখেছেন। এটি মুমিনের অনুভূত যেকোনো প্রশান্তির জন্য একটি মানদণ্ডও দেয়। সাকীনাহ চেনা যায় তার ফল দিয়ে, আর এখানে ফল হিসেবে বলা হয়েছে আগের চেয়ে বেশি ঈমান।"
+            "bn": "ঈমান বাড়ে-কমে, এ কথার পক্ষে কুরআনের সবচেয়ে স্পষ্ট দলিলগুলোর একটি এই আয়াত। আগের যুগের আলিমরাও একে সেভাবেই নিয়েছেন। ইমাম বুখারী তাঁর 'কিতাবুল ঈমান'-এ ঈমান বাড়া-কমার জন্য আলাদা একটি অধ্যায়ই রেখেছেন। মুমিনের মনে আসা যেকোনো প্রশান্তি যাচাইয়ের মাপকাঠিও আয়াতটি দেয়। সাকীনাহ চেনা যায় তার ফল দেখে, আর এখানে সেই ফল হলো আগের চেয়ে বেশি ঈমান।"
           }
         ]
       },
@@ -85,11 +85,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse then adds that to Allah belong the hosts of the heavens and the earth, and closes with 'Aliman Hakima, Knowing and Wise. Three verses later, 48:7 repeats that sentence about the hosts word for word and closes instead with 'Azizan Hakima, Exalted in Might and Wise. The same statement is made twice in one passage with two different names attached.",
-            "bn": "এরপর আয়াতটি যোগ করে, আসমান ও যমীনের বাহিনী আল্লাহরই, আর শেষ হয় 'আলীমান হাকীমা — সর্বজ্ঞ, প্রজ্ঞাময় — এই নামে। তিন আয়াত পরে 48:7 বাহিনী সম্পর্কে সেই বাক্যটি হুবহু পুনরাবৃত্তি করে, কিন্তু শেষ হয় 'আযীযান হাকীমা — মহাপরাক্রমশালী, প্রজ্ঞাময় — এই নামে। একই বক্তব্য এক অংশে দুবার এসেছে, দুটি ভিন্ন নাম যুক্ত হয়ে।"
+            "bn": "এরপর আয়াতটি বলে, আসমান ও জমিনের বাহিনী আল্লাহরই। শেষ হয় 'আলীমান হাকীমা দিয়ে: সর্বজ্ঞ, প্রজ্ঞাময়। তিন আয়াত পরে ৪৮:৭ বাহিনীর সেই বাক্যটি হুবহু আবার বলে, কিন্তু শেষ করে 'আযীযান হাকীমা দিয়ে: মহাপরাক্রমশালী, প্রজ্ঞাময়। একই কথা একই অংশে দুবার এল, দুবার দুটি ভিন্ন নাম নিয়ে।"
           },
           {
             "en": "The difference tracks what each one is answering. Here the subject is hearts, and hearts need to be known before they can be settled, so knowledge closes the verse. In 48:6 the subject is the hypocrites and the idolaters and what awaits them, and the might that can carry out such a promise closes 48:7. The armies are the same; what the reader needs to hear about them is not.",
-            "bn": "পার্থক্যটি অনুসরণ করে, কোনটি কীসের জবাব দিচ্ছে। এখানে বিষয় হলো অন্তর, আর অন্তরকে শান্ত করার আগে জানা দরকার — তাই জ্ঞানের নামে আয়াতটি শেষ হয়। আর 48:6-এর বিষয় মুনাফিক ও মুশরিকরা এবং তাদের পরিণতি; তাই এমন প্রতিশ্রুতি বাস্তবায়নের ক্ষমতার নামেই 48:7 শেষ হয়। বাহিনী একই; পাঠকের তাদের সম্পর্কে কী শোনা দরকার, সেটিই আলাদা।"
+            "bn": "পার্থক্যটা আসে কোন আয়াত কোন কথার জবাব দিচ্ছে, তা থেকে। এখানে বিষয় অন্তর। অন্তরকে শান্ত করার আগে তাকে জানতে হয়, তাই আয়াত শেষ হয় জ্ঞানের নামে। ৪৮:৬-এর বিষয় মুনাফিক ও মুশরিকরা, আর তাদের সামনে যা অপেক্ষা করছে। তাই ৪৮:৭ শেষ হয় সেই পরাক্রমের নামে, যা এমন প্রতিশ্রুতি পূরণ করতে পারে। বাহিনী একই, কিন্তু তাদের সম্পর্কে পাঠকের যা শোনা দরকার, তা দুই জায়গায় আলাদা।"
           }
         ]
       },
@@ -101,11 +101,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse quietly corrects what people ask for under pressure. The natural prayer is for the circumstance to change, and at Hudaybiyyah it did not; the treaty stood as signed. What was given instead was the capacity to stand inside it without the heart coming apart. Both are gifts, but only one of them was sent down that day.",
-            "bn": "চাপের মুখে মানুষ কী চায়, আয়াতটি নীরবে তা সংশোধন করে দেয়। স্বাভাবিক প্রার্থনা হলো পরিস্থিতি বদলে যাক; হুদাইবিয়ায় তা বদলায়নি — চুক্তি যেমন সই হয়েছিল তেমনই রইল। এর বদলে যা দেওয়া হলো তা হলো সেই অবস্থার ভেতরে অন্তর অটুট রেখে দাঁড়িয়ে থাকার সামর্থ্য। দুটিই দান, কিন্তু সেদিন এর একটিই নাযিল হয়েছিল।"
+            "bn": "চাপের মুখে মানুষ যা চায়, আয়াতটি চুপচাপ তা শুধরে দেয়। মানুষ স্বভাবতই দোয়া করে, পরিস্থিতিটাই বদলে যাক। হুদাইবিয়ায় তা বদলায়নি, চুক্তি যেমন সই হয়েছিল তেমনই রইল। তার বদলে দেওয়া হলো এমন শক্তি, যাতে সেই অবস্থার ভেতরেই দাঁড়িয়ে থাকা যায়, অন্তর ভেঙে না পড়ে। দুটোই দান, কিন্তু সেদিন নাজিল হয়েছিল কেবল একটি।"
           },
           {
             "en": "And because the stated purpose was an increase in faith, the verse also gives a way to read one's own difficult seasons afterwards. The question is not whether the episode was pleasant, or even whether it ended as hoped. It is whether the person came out of it believing more than he did going in. That is what this sakinah was sent to produce.",
-            "bn": "আর যেহেতু ঘোষিত উদ্দেশ্য ছিল ঈমানের বৃদ্ধি, আয়াতটি নিজের কঠিন সময়গুলোকে পরে কীভাবে পড়তে হবে তারও একটি উপায় দেয়। প্রশ্ন এই নয় যে ঘটনাটি সুখকর ছিল কি না, এমনকি এ-ও নয় যে তা প্রত্যাশা অনুযায়ী শেষ হলো কি না। প্রশ্ন হলো, মানুষটি সেখান থেকে বেরিয়ে এসেছে কি না আগের চেয়ে বেশি ঈমান নিয়ে। এই সাকীনাহ ঠিক সেটিই তৈরি করতে পাঠানো হয়েছিল।"
+            "bn": "আর উদ্দেশ্য যেহেতু ঈমান বাড়ানো, তাই নিজের কঠিন সময়গুলো পরে ফিরে দেখার একটা উপায়ও আয়াতটি দেয়। প্রশ্ন এটা নয় যে সময়টা সুখের ছিল কি না, এমনকি আশা মতো শেষ হয়েছে কি না। প্রশ্ন হলো, মানুষটি যখন সেখান থেকে বেরিয়ে এল, ঢোকার সময়ের চেয়ে তার ঈমান বেশি ছিল কি না। এই সাকীনাহ পাঠানো হয়েছিল ঠিক এই ফলের জন্যই।"
           }
         ]
       }
@@ -357,7 +357,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Other reports tell the tree's fate differently. At-Tabari has one from Bukayr ibn al-Ashajj, under the words they claimed, that 'Umar (RA) passed the place after the tree had gone; people disputed where it had stood, and he told them to move on. In that report the samura had gone, taken by a flood or by something else. Al-Baghawi gives the 'Umar report as narrated. Ma'arif al-Qur'an says it is reported that 'Umar had the tree cut down, fearing later people might worship it. The accounts differ and are left as they stand.",
-            "bn": "গাছটার পরিণতি নিয়ে অন্য বর্ণনাও আছে। তাবারী বুকাইর ইবনুল আশাজ্জের একটি বর্ণনা আনেন 'তারা দাবি করে' কথাটি জুড়ে। তাতে আছে, গাছটা চলে যাওয়ার পর উমর (রাঃ) সে জায়গা দিয়ে যাচ্ছিলেন। গাছ কোথায় ছিল তা নিয়ে লোকেরা মতভেদ করল, তিনি বললেন, চলো, এগিয়ে যাও। সে বর্ণনায় সামুরা গাছটা হারিয়ে গিয়েছিল, হয়তো বন্যায় ভেসে গেছে, নয়তো অন্য কোনো কারণে। বাগাভী উমরের ঘটনাটি 'বর্ণিত আছে' বলে আনেন। মাআরিফুল কুরআন অন্য কথা বলে: বর্ণিত আছে, পরের লোকেরা গাছটার পূজা শুরু করতে পারে এই ভয়ে উমর (রাঃ) সেটা কেটে ফেলান। বর্ণনাগুলো আলাদা, আর সেগুলো যেমন আছে তেমনই রাখা হলো।"
+            "bn": "গাছটার পরিণতি নিয়ে অন্য বর্ণনাও আছে। তাবারী বুকাইর ইবনুল আশাজ্জের একটি বর্ণনা আনেন 'তারা দাবি করে' কথাটি জুড়ে। তাতে আছে, গাছটা চলে যাওয়ার পর উমর (রাঃ) সে জায়গা দিয়ে যাচ্ছিলেন। গাছ কোথায় ছিল তা নিয়ে লোকেরা মতভেদ করল, তিনি বললেন, চলো, এগিয়ে যাও। সে বর্ণনায় সামুরা গাছটা হারিয়ে গিয়েছিল, হয়তো বন্যায় ভেসে গেছে, নয়তো অন্য কোনো কারণে। বাগাভী উমরের ঘটনাটি 'বর্ণিত আছে' বলে আনেন। মাআরিফুল কুরআন অন্য কথা বলে: বর্ণিত আছে, পরের লোকেরা গাছটার পূজা শুরু করতে পারে এই ভয়ে উমর (রাঃ) সেটা কাটিয়ে ফেলেন। বর্ণনাগুলো আলাদা, আর সেগুলো যেমন আছে তেমনই রাখা হলো।"
           }
         ]
       },
@@ -389,7 +389,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi records Khaybar from Qatada and Ibn Abi Layla, and then: it is said, the conquest of Makka. Ibn Kathir reads it more widely: the peace Allah brought about between them and their enemies, and the lasting good that followed, joined to the conquests of Khaybar and Makka and then of other lands. Ma'arif al-Qur'an states that the scholars agree on Khaybar. The difference stays recorded as it is, and the spoils promised in 48:19 and 48:20 are left to those verses.",
-            "bn": "কুরতুবী কাতাদা ও ইবন আবী লাইলা থেকে খাইবারের কথা আনেন, তারপর বলেন: কারও মতে মক্কা বিজয়। ইবন কাসীর আরও বড় পরিসরে পড়েন। তাঁর মতে এটা সেই সন্ধি, যা আল্লাহ তাদের আর তাদের শত্রুদের মধ্যে ঘটালেন, আর তার পরে আসা স্থায়ী কল্যাণ, যা খাইবার ও মক্কা বিজয়ের সঙ্গে জড়িয়ে আছে, তারপর অন্যান্য অঞ্চলের বিজয়ের সঙ্গেও। মাআরিফুল কুরআন বলে, আলিমরা খাইবারের ব্যাপারে একমত। মতপার্থক্যটা যেমন আছে তেমনই রাখা হলো। ৪৮:১৯ ও ৪৮:২০ আয়াতে প্রতিশ্রুত গনীমতের আলোচনা সেই আয়াতগুলোর জন্য রইল।"
+            "bn": "কুরতুবী কাতাদা ও ইবন আবী লাইলা থেকে খাইবারের কথা আনেন, তারপর বলেন: কারও মতে মক্কা বিজয়। ইবন কাসীর আরও বড় পরিসরে পড়েন। তাঁর মতে এর মধ্যে আছে সেই সন্ধি, যা আল্লাহ তাদের আর তাদের শত্রুদের মধ্যে ঘটালেন, তার পরে আসা স্থায়ী কল্যাণ, আর সেই সঙ্গে খাইবার ও মক্কা বিজয়, তারপর অন্যান্য অঞ্চলের বিজয়। মাআরিফুল কুরআন বলে, আলিমরা খাইবারের ব্যাপারে একমত। মতপার্থক্যটা যেমন আছে তেমনই রাখা হলো। ৪৮:১৯ ও ৪৮:২০ আয়াতে প্রতিশ্রুত গনীমতের আলোচনা সেই আয়াতগুলোর জন্য রইল।"
           }
         ]
       },
@@ -441,7 +441,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir sets the pair beside 5:54, humble towards the believers and mighty against the disbelievers, and 9:123, which commands fighting the disbelievers nearest and letting them find firmness. As-Sa'di explains the firmness by its outcome: their enemies were humbled and broken, and the Muslims overcame them. Of the mercy he says they loved one another like one body, each wanting for his brother what he wants for himself. That, he says, was their dealing with people; the bowing and prostrating that follow are their dealing with the Creator.",
-            "bn": "ইবন কাসীর এই জোড়াকে রাখেন ৫:৫৪-এর পাশে, যেখানে আছে মুমিনদের প্রতি বিনয়ী আর কাফিরদের প্রতি কঠোর মানুষের কথা। রাখেন ৯:১২৩-এর পাশেও, যেখানে নিকটবর্তী কাফিরদের সঙ্গে যুদ্ধের আর তারা যেন তোমাদের মধ্যে দৃঢ়তা দেখে, সেই আদেশ। সা'দী দৃঢ়তার ব্যাখ্যা দেন তার ফল দিয়ে: শত্রুরা নত হলো, ভেঙে পড়ল, মুসলিমরা তাদের উপর জয়ী হলো। দয়ার কথায় তিনি বলেন, তারা একই দেহের মতো পরস্পরকে ভালোবাসত, প্রত্যেকে ভাইয়ের জন্য তা-ই চাইত যা নিজের জন্য চায়। তাঁর মতে এ ছিল মানুষের সঙ্গে তাদের আচরণ। এরপর রুকূ-সিজদার যে কথা, তা স্রষ্টার সঙ্গে তাদের সম্পর্ক।"
+            "bn": "ইবন কাসীর এই জোড়াকে রাখেন ৫:৫৪-এর পাশে, যেখানে আছে মুমিনদের প্রতি বিনয়ী আর কাফিরদের প্রতি কঠোর মানুষের কথা। রাখেন ৯:১২৩-এর পাশেও, যেখানে আদেশ এসেছে নিকটবর্তী কাফিরদের সঙ্গে লড়াই করার, আর তারা যেন তোমাদের মধ্যে দৃঢ়তা দেখতে পায়। সা'দী দৃঢ়তার ব্যাখ্যা দেন তার ফল দিয়ে: শত্রুরা নত হলো, ভেঙে পড়ল, মুসলিমরা তাদের উপর জয়ী হলো। দয়ার কথায় তিনি বলেন, তারা একই দেহের মতো পরস্পরকে ভালোবাসত, প্রত্যেকে ভাইয়ের জন্য তা-ই চাইত যা নিজের জন্য চায়। তাঁর মতে এ ছিল মানুষের সঙ্গে তাদের আচরণ। এরপর রুকূ-সিজদার যে কথা, তা স্রষ্টার সঙ্গে তাদের সম্পর্ক।"
           },
           {
             "en": "Ibn Kathir attaches here a saying of the Prophet ﷺ that he places in the Sahih. Its wording in Sahih Muslim (2586a), from an-Nu'man ibn Bashir, reads: The likeness of the believers in their mutual love, mercy and sympathy is the likeness of the body: when one part of it aches, the rest of the body joins it in sleeplessness and fever. Muslim recorded it in his Sahih, the collection he limited to narrations he judged sound.",
@@ -457,7 +457,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly. The verse describes the conduct of the Prophet's Companions towards those who were fighting them, in its own setting, and it licenses nothing against any living person or community. The firmness it names is not a general posture towards people of another faith. Ma'arif al-Qur'an makes the same point in its own terms: being hard against the unbelievers does not mean the Companions were never tender towards any non-believer. It means that where Allah and His Messenger enjoined firmness, they complied, without weighing kinship or friendship.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি নবী ﷺ-এর সাহাবিদের আচরণের বর্ণনা দেয়, যারা তাদের বিরুদ্ধে লড়ছিল তাদের প্রতি, এবং তা নিজের প্রেক্ষাপটে। আজকের কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। এখানে যে দৃঢ়তার কথা, তা অন্য ধর্মের মানুষের প্রতি কোনো সাধারণ মনোভাব নয়। মাআরিফুল কুরআনও নিজের ভাষায় একই কথা বলে। কাফিরদের প্রতি কঠোর হওয়ার মানে এই নয় যে সাহাবিরা কোনো অমুসলিমের প্রতি কখনো নরম হননি। মানে হলো, যেখানে আল্লাহ ও তাঁর রাসূল দৃঢ় হতে বলেছেন, সেখানে তাঁরা আত্মীয়তা বা বন্ধুত্বের হিসাব না করে তা মেনেছেন।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। যারা সাহাবিদের বিরুদ্ধে লড়ছিল, তাদের প্রতি নবী ﷺ-এর সাহাবিদের আচরণ কেমন ছিল, আয়াতটি তা-ই বলে, তার নিজের প্রেক্ষাপটে। আজকের কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। এখানে যে দৃঢ়তার কথা, তা অন্য ধর্মের মানুষের প্রতি কোনো সাধারণ মনোভাব নয়। মাআরিফুল কুরআনও নিজের ভাষায় একই কথা বলে। কাফিরদের প্রতি কঠোর হওয়ার মানে এই নয় যে সাহাবিরা কোনো অমুসলিমের প্রতি কখনো নরম হননি। মানে হলো, যেখানে আল্লাহ ও তাঁর রাসূল দৃঢ় হতে বলেছেন, সেখানে তাঁরা আত্মীয়তা বা বন্ধুত্বের হিসাব না করে তা মেনেছেন।"
           },
           {
             "en": "Ma'arif al-Qur'an then quotes 60:8: Allah does not forbid you, regarding those who have not fought you over religion or driven you from your homes, from doing good to them and dealing justly with them. It recalls many occasions on which the Prophet ﷺ and his Companions showed kindness to helpless and needy unbelievers, calls justice and fairness towards them the general injunction of Islam, and says that nothing which flouts justice is permitted even on the field of battle.",
@@ -468,7 +468,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Bowing for Favour and Pleasure",
-          "bn": "অনুগ্রহ আর সন্তুষ্টির খোঁজে"
+          "bn": "রুকূ-সিজদা, অনুগ্রহ আর সন্তুষ্টির খোঁজে"
         },
         "p": [
           {
