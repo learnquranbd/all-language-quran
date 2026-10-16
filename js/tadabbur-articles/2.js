@@ -4377,11 +4377,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The prayer is short enough to say between two breaths, and Islam has placed it throughout the day — many Muslims say it in prostration, after prayers, and pilgrims say it between the Yemeni corner and the Black Stone during tawaf. Its frequency is the training: each repetition re-centers the compass, pulling the heart back from whichever extreme the day pushed it toward, worldliness or despair of the world.",
-            "bn": "দোয়াটি এতই ছোট যে দুই নিঃশ্বাসের ফাঁকে বলা যায়, আর ইসলাম একে ছড়িয়ে রেখেছে দিনজুড়ে — বহু মুসলিম এটি বলে সিজদায়, নামাযের পরে; আর হাজীরা তাওয়াফে রুকনে ইয়ামানী ও হাজরে আসওয়াদের মাঝখানে এটি পড়েন। এই পুনরাবৃত্তিই প্রশিক্ষণ: প্রতিবার পড়ায় দিকনির্ণয় যন্ত্রটি আবার কেন্দ্রে ফেরে — দিন হৃদয়কে যে প্রান্তেই ঠেলে থাকুক, দুনিয়াদারি হোক বা দুনিয়া নিয়ে হতাশা।"
+            "bn": "দোয়াটি এত ছোট যে দুই নিঃশ্বাসের ফাঁকেই বলে ফেলা যায়, আর ইসলাম একে সারা দিনে ছড়িয়ে রেখেছে। বহু মুসলিম এটি পড়েন সিজদায়, নামাজের পরে, আর হাজিরা পড়েন তাওয়াফের সময় রুকনে ইয়ামানী ও হাজরে আসওয়াদের মাঝখানে। বারবার পড়াটাই এখানে প্রশিক্ষণ। দিন হৃদয়কে যে প্রান্তেই ঠেলে দিক, দুনিয়াদারির দিকে কিংবা দুনিয়া নিয়ে হতাশার দিকে, প্রতিবারের পড়া কম্পাসের কাঁটাকে আবার মাঝখানে ফিরিয়ে আনে, সঙ্গে হৃদয়কেও।"
           },
           {
             "en": "A practical exercise makes it personal: occasionally unpack the word hasanah before saying it. Name, in your own mind, what good in this world would actually mean this month, and what good in the Hereafter you are working toward — then say the words with those meanings loaded. The du'a of the Prophet ﷺ was frequent but never mechanical, and one loaded recitation shapes a day more than many empty ones.",
-            "bn": "একটি ব্যবহারিক অনুশীলন একে ব্যক্তিগত করে তোলে: মাঝে মাঝে বলার আগে 'হাসানা' শব্দটি খুলে দেখুন। নিজের মনে ঠিক করুন — এই মাসে দুনিয়ার কল্যাণ মানে আসলে কী, আর আখিরাতের কোন কল্যাণের দিকে আপনি কাজ করছেন — তারপর সেই অর্থগুলো ভরে নিয়ে শব্দগুলো বলুন। নবী ﷺ-এর দোয়া ঘন ঘন ছিল, কিন্তু কখনো যান্ত্রিক ছিল না; আর অর্থভরা একটি পাঠ বহু ফাঁকা পাঠের চেয়ে দিনকে বেশি গড়ে দেয়।"
+            "bn": "একটা সহজ অনুশীলন দোয়াটিকে নিজের করে তোলে: মাঝে মাঝে পড়ার আগে 'হাসানা' শব্দটার ভেতরে একটু তাকান। মনে মনে ঠিক করুন, এই মাসে দুনিয়ার কল্যাণ বলতে আপনার কাছে আসলে কী, আর আখিরাতের কোন কল্যাণের জন্য আপনি খাটছেন। তারপর সেই অর্থগুলো মনে রেখে শব্দগুলো বলুন। নবী ﷺ দোয়া করতেন প্রায়ই, কিন্তু কখনো যন্ত্রের মতো নয়। অর্থ বুঝে একবার পড়া দিনটাকে যতটা গড়ে দেয়, অর্থহীনভাবে বহুবার পড়া ততটা দেয় না।"
           }
         ]
       }
@@ -4541,7 +4541,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Baqarah is Madinan, and this part of it speaks to a young community living among older ones. 2:208 calls the believers to enter Islam completely and not to follow Satan's footsteps, 2:209-210 warn those who slip after clear proofs have come, 2:211 tells the Prophet ﷺ to ask the Children of Israel how many clear signs they were given, and 2:212 says that worldly life has been made attractive to those who disbelieve, who mock the believers. This verse then steps back and tells the whole story of religious difference in a few lines.",
-            "bn": "সূরা বাকারা মাদানি, আর এই অংশ কথা বলছে পুরোনো জাতিগুলোর মাঝে বাস করা এক নতুন উম্মতের সঙ্গে। ২:২০৮ আয়াত মুমিনদের ডাকে পুরোপুরি ইসলামে প্রবেশ করতে আর শয়তানের পদচিহ্ন না মানতে। ২:২০৯ ও ২:২১০ আয়াত সতর্ক করে তাদের, যারা স্পষ্ট প্রমাণ আসার পরেও পা পিছলে পড়ে। ২:২১১ আয়াত নবী ﷺ-কে বলে, বনী ইসরাঈলকে জিজ্ঞেস করো তাদের কত স্পষ্ট নিদর্শন দেওয়া হয়েছিল। ২:২১২ আয়াত জানায়, কাফেরদের চোখে দুনিয়ার জীবন সাজিয়ে দেওয়া হয়েছে, আর তারা মুমিনদের ঠাট্টা করে। এরপর এই আয়াত একটু দূরে দাঁড়িয়ে কয়েক লাইনে বলে দেয় দ্বীন নিয়ে মানুষের মতভেদের পুরো ইতিহাস।"
+            "bn": "সূরা বাকারা মাদানী, আর এই অংশ কথা বলছে পুরোনো জাতিগুলোর মাঝে বাস করা এক নতুন উম্মতের সঙ্গে। ২:২০৮ আয়াত মুমিনদের ডাকে পুরোপুরি ইসলামে প্রবেশ করতে আর শয়তানের পদাঙ্ক অনুসরণ না করতে। ২:২০৯ ও ২:২১০ আয়াত সতর্ক করে তাদের, যারা স্পষ্ট প্রমাণ আসার পরেও পা পিছলে পড়ে। ২:২১১ আয়াত নবী ﷺ-কে বলে, বনী ইসরাঈলকে জিজ্ঞেস করো তাদের কত স্পষ্ট নিদর্শন দেওয়া হয়েছিল। ২:২১২ আয়াত জানায়, কাফেরদের চোখে দুনিয়ার জীবন সাজিয়ে দেওয়া হয়েছে, আর তারা মুমিনদের ঠাট্টা করে। এরপর এই আয়াত একটু দূরে দাঁড়িয়ে কয়েক লাইনে বলে দেয় দ্বীন নিয়ে মানুষের মতভেদের পুরো ইতিহাস।"
           },
           {
             "en": "The verse after it, 2:214, turns to the believers directly: do you think you will enter Paradise without trials like those that struck the people before you, who were shaken until the messenger and those who believed with him asked when the help of Allah would come? The order matters. First this verse explains why communities divide; then the next warns that holding on to guidance among the divided will cost something. No single established occasion of revelation is attached to the verse, so its place in this sequence is what carries it.",
@@ -4692,16 +4692,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Command and an Admission",
-          "bn": "একটি আদেশ ও একটি স্বীকৃতি"
+          "bn": "আদেশের সঙ্গে স্বীকৃতি"
         },
         "p": [
           {
             "en": "The verse opens with kutiba 'alaykumul-qital, fighting has been prescribed for you. The same verb, kutiba, was used a few verses earlier for fasting in 2:183, so the wording places this among the ordained duties rather than among appeals. Then comes something unusual: wa huwa kurhun lakum, and it is disliked by you. Allah states the feeling of those He is commanding before He argues with it.",
-            "bn": "আয়াতটি শুরু হয় 'কুতিবা আলাইকুমুল কিতাল' দিয়ে — তোমাদের ওপর যুদ্ধ ফরয করা হয়েছে। এই একই ক্রিয়াপদ 'কুতিবা' কয়েক আয়াত আগে 2:183-এ রোযার ক্ষেত্রেও ব্যবহৃত হয়েছে, ফলে শব্দচয়ন একে আবেদনের কাতারে নয়, নির্ধারিত দায়িত্বের কাতারে বসায়। এরপর আসে অস্বাভাবিক একটি কথা: ওয়া হুয়া কুরহুন লাকুম — আর তা তোমাদের কাছে অপছন্দনীয়। আল্লাহ যাদের আদেশ দিচ্ছেন, তাদের অনুভূতিটি তিনি নিজেই বলে দেন, তা নিয়ে যুক্তি দেওয়ার আগেই।"
+            "bn": "আয়াত শুরু হয় 'কুতিবা আলাইকুমুল কিতাল' দিয়ে: তোমাদের ওপর যুদ্ধ ফরয করা হলো। কয়েক আয়াত আগে ২:১৮৩-এ রোজার বেলায়ও ঠিক এই 'কুতিবা' শব্দটাই এসেছে। তাই শব্দটাই একে অনুরোধের কাতারে নয়, নির্ধারিত ফরযের কাতারে বসিয়ে দেয়। এরপর আসে একটা অপ্রত্যাশিত কথা: 'ওয়া হুয়া কুরহুন লাকুম', আর তা তোমাদের কাছে অপছন্দের। যাদের আদেশ দিচ্ছেন, তাদের মনের অনুভূতিটা আল্লাহ নিজেই আগে বলে দেন, তারপর তার জবাব দেন।"
           },
           {
             "en": "That admission is the door into the rest of the verse. Nobody is told that they should have enjoyed the prospect. Then the principle arrives in two balanced clauses: it may be that you dislike a thing and it is good for you, and it may be that you love a thing and it is bad for you. The particle 'asa speaks of what may be so, addressing our limited view rather than laying down a universal rule; the verse does not claim that everything disliked is secretly good.",
-            "bn": "এই স্বীকৃতিটিই বাকি আয়াতে প্রবেশের দরজা। কাউকে বলা হয়নি যে এই সম্ভাবনায় তাদের উৎফুল্ল হওয়া উচিত ছিল। এরপর নীতিটি আসে দুটি ভারসাম্যপূর্ণ বাক্যে: হতে পারে তোমরা এমন কিছু অপছন্দ করো যা তোমাদের জন্য কল্যাণকর, আর হতে পারে তোমরা এমন কিছু ভালোবাসো যা তোমাদের জন্য ক্ষতিকর। 'আসা' শব্দটি বলে — এমন হতেই পারে; এটি আমাদের সীমিত দৃষ্টিকে সম্বোধন করে, কোনো সর্বজনীন নিয়ম ঘোষণা করে না। আয়াত এ দাবি করে না যে অপছন্দের প্রতিটি জিনিসের ভেতরেই গোপন কল্যাণ লুকিয়ে আছে।"
+            "bn": "এই স্বীকৃতিই বাকি আয়াতে ঢোকার দরজা। কাউকে বলা হয়নি যে ব্যাপারটায় তার খুশি হওয়া উচিত ছিল। তারপর মূল নীতিটা আসে সমান মাপের দুটি বাক্যে: হতে পারে তোমরা কোনো কিছু অপছন্দ করো, অথচ তা তোমাদের জন্য কল্যাণকর; আর হতে পারে তোমরা কোনো কিছু ভালোবাসো, অথচ তা তোমাদের জন্য ক্ষতিকর। 'আসা' শব্দের অর্থ, এমন হতে পারে। শব্দটি আমাদের সীমিত দৃষ্টির কথা মাথায় রেখে বলা, সবখানে খাটে এমন কোনো নিয়ম জারি করা নয়। আয়াত এমন দাবি করে না যে অপছন্দের প্রতিটি জিনিসের ভেতরেই কল্যাণ লুকিয়ে আছে।"
           }
         ]
       },
@@ -4713,11 +4713,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse belongs to the Madinan passages of Surah al-Baqarah dealing with the community's new and unwelcome reality of armed conflict. It sits shortly after 2:214, which asks whether people supposed they would enter the Garden without the trials that came upon those before them, and just before 2:217, which answers a question about fighting in the sacred month. The setting is a specific and serious obligation, not an abstract meditation on fate.",
-            "bn": "আয়াতটি সূরা আল-বাকারার সেই মাদানী অংশের অন্তর্ভুক্ত, যেখানে সদ্যগঠিত সমাজের সামনে সশস্ত্র সংঘাতের নতুন ও অনাকাঙ্ক্ষিত বাস্তবতা নিয়ে কথা বলা হয়েছে। এটি 2:214-এর কিছু পরে বসে, যেখানে প্রশ্ন করা হয়েছে — মানুষ কি ধরে নিয়েছে যে পূর্ববর্তীদের ওপর আসা পরীক্ষাগুলো ছাড়াই তারা জান্নাতে প্রবেশ করবে? আর ঠিক আগে বসে 2:217, যা পবিত্র মাসে যুদ্ধ সম্পর্কে একটি প্রশ্নের জবাব দেয়। প্রেক্ষাপটটি একটি সুনির্দিষ্ট ও গুরুতর দায়িত্ব, ভাগ্য নিয়ে বিমূর্ত ভাবনা নয়।"
+            "bn": "আয়াতটি সূরা বাকারার মাদানী অংশের, যেখানে নতুন মুসলিম সমাজের সামনে সশস্ত্র লড়াইয়ের নতুন ও অনাকাঙ্ক্ষিত বাস্তবতা নিয়ে কথা হচ্ছে। এর অল্প আগে ২:২১৪ আয়াত প্রশ্ন করেছে: মানুষ কি ভেবে নিয়েছে, আগের লোকদের ওপর যে পরীক্ষা এসেছিল তা ছাড়াই তারা জান্নাতে ঢুকে যাবে? আর ঠিক পরে ২:২১৭ আয়াত পবিত্র মাসে যুদ্ধ নিয়ে এক প্রশ্নের জবাব দেয়। অর্থাৎ প্রেক্ষাপট একটা নির্দিষ্ট ও গুরুতর দায়িত্ব, তাকদির নিয়ে কোনো বিমূর্ত ভাবনা নয়।"
           },
           {
             "en": "Keeping that origin in view matters, because the closing principle is stated in fully general terms and has therefore travelled far beyond its original subject. That travel is legitimate: the Quran often states a universal rule at the end of a particular ruling. But a reader who forgets the setting can end up using the verse to explain away every disappointment, which is a heavier claim than the words make.",
-            "bn": "এই উৎসটি মনে রাখা জরুরি, কারণ আয়াতের শেষ নীতিটি সম্পূর্ণ সাধারণ ভাষায় বলা হয়েছে এবং সে কারণেই তা তার মূল বিষয়ের অনেক বাইরে ছড়িয়ে পড়েছে। এই বিস্তার বৈধ: কুরআন প্রায়ই কোনো নির্দিষ্ট বিধানের শেষে একটি সর্বজনীন নীতি ঘোষণা করে। কিন্তু প্রেক্ষাপট ভুলে যাওয়া পাঠক এই আয়াত দিয়ে প্রতিটি হতাশাকে ব্যাখ্যা করে উড়িয়ে দিতে পারেন, যা আয়াতের শব্দগুলোর চেয়ে অনেক ভারী দাবি।"
+            "bn": "এই মূল প্রেক্ষাপট মনে রাখা জরুরি। আয়াতের শেষ নীতিটা পুরোপুরি সাধারণ ভাষায় বলা, তাই তা নিজের মূল বিষয় ছাড়িয়ে অনেক দূর পৌঁছেছে। এভাবে পৌঁছানোটা ঠিকই আছে: কুরআন প্রায়ই কোনো নির্দিষ্ট বিধানের শেষে সবার জন্য খাটে এমন একটা নীতি বলে দেয়। কিন্তু প্রেক্ষাপট ভুলে গেলে পাঠক এই আয়াত দিয়ে জীবনের প্রতিটি হতাশাকে ব্যাখ্যা করে উড়িয়ে দিতে পারেন। আয়াতের শব্দগুলো যতটা দাবি করে, এটা তার চেয়ে অনেক ভারী দাবি।"
           }
         ]
       },
@@ -4729,11 +4729,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends with wallahu ya'lamu wa antum la ta'lamun: and Allah knows while you do not know. The commentators generally read the whole verse as a correction of a specific error, which is judging outcomes by present feeling. Human preference works on visible, immediate information. Divine knowledge takes in what the same choice produces years later and in the hereafter. The two will not always agree, and when they do not, the verse says which is reliable.",
-            "bn": "আয়াত শেষ হয় 'ওয়াল্লাহু ইয়া'লামু ওয়া আনতুম লা তা'লামূন' দিয়ে — আল্লাহ জানেন, আর তোমরা জানো না। মুফাসসিরগণ সাধারণত পুরো আয়াতটিকে একটি নির্দিষ্ট ভুলের সংশোধন হিসেবে পড়েন: বর্তমান অনুভূতি দিয়ে পরিণতি বিচার করা। মানুষের পছন্দ কাজ করে দৃশ্যমান, তাৎক্ষণিক তথ্যের ওপর। আর আল্লাহর জ্ঞান ধরে রাখে সেই একই সিদ্ধান্ত বহু বছর পরে এবং আখিরাতে কী ফল দেবে তা-ও। এই দুটি সবসময় মিলবে না; আর যখন মেলে না, আয়াত বলে দেয় কোনটি নির্ভরযোগ্য।"
+            "bn": "আয়াত শেষ হয় 'ওয়াল্লাহু ইয়া'লামু ওয়া আনতুম লা তা'লামূন' দিয়ে: আল্লাহ জানেন, আর তোমরা জানো না। মুফাসসিররা সাধারণত পুরো আয়াতকে পড়েন একটা নির্দিষ্ট ভুল শুধরে দেওয়া হিসেবে। ভুলটা হলো এই মুহূর্তের অনুভূতি দিয়ে পরিণতির বিচার করা। মানুষের পছন্দ চলে চোখের সামনের, তাৎক্ষণিক তথ্যের ওপর। আর আল্লাহর জ্ঞানে আছে, সেই একই সিদ্ধান্ত বহু বছর পরে এবং আখিরাতে কী ফল আনবে। দুটো সবসময় মেলে না। যখন মেলে না, তখন কোনটার ওপর ভরসা করা যায়, আয়াত তা বলে দেয়।"
           },
           {
             "en": "It is important to notice what this does not establish. The verse does not teach that hardship is always disguised benefit, nor that a person should stop preferring health to illness or safety to danger. It teaches that our ranking of possibilities is provisional. The commentators tend to draw from it a posture rather than an explanation: do what is right, prefer what is lawful, and do not build certainty on a forecast you are not equipped to make.",
-            "bn": "এটি যা প্রতিষ্ঠা করে না, তা লক্ষ করা জরুরি। আয়াতটি শেখায় না যে কষ্ট সবসময় ছদ্মবেশে কল্যাণ, কিংবা মানুষের উচিত অসুস্থতার চেয়ে সুস্থতা বা বিপদের চেয়ে নিরাপত্তা পছন্দ করা ছেড়ে দেওয়া। এটি শেখায় যে সম্ভাবনাগুলোর ব্যাপারে আমাদের ক্রমতালিকা সাময়িক। মুফাসসিরগণ এ থেকে সাধারণত একটি ব্যাখ্যা নয়, বরং একটি অবস্থান গ্রহণ করেন: যা সঠিক তা করো, যা বৈধ তা পছন্দ করো, আর এমন পূর্বাভাসের ওপর নিশ্চয়তা গড়ে তুলো না যা তৈরি করার যোগ্যতা তোমার নেই।"
+            "bn": "খেয়াল রাখা দরকার, আয়াতটি কী প্রমাণ করে না। আয়াত শেখায় না যে কষ্ট মানেই ছদ্মবেশে কল্যাণ। এটাও শেখায় না যে মানুষ অসুস্থতার চেয়ে সুস্থতা, বিপদের চেয়ে নিরাপত্তা চাওয়া ছেড়ে দেবে। আয়াত শেখায়, কোনটা ভালো আর কোনটা মন্দ, সে ব্যাপারে আমাদের হিসাব সাময়িক। মুফাসসিররা এ থেকে সাধারণত কোনো ব্যাখ্যা নয়, বরং একটা মনোভাব বের করে আনেন: যা ঠিক তা করুন, যা হালাল তা বেছে নিন, আর এমন ভবিষ্যদ্বাণীর ওপর নিশ্চয়তার ঘর বানাবেন না, যা করার সামর্থ্যই আপনার নেই।"
           }
         ]
       },
@@ -4745,43 +4745,43 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The generation who first heard this verse did not pretend to relish what it commanded. Their example is one of acting rightly while still disliking the task, which is a far more usable model than manufactured enthusiasm. The verse's honesty about kurh is what makes that possible: obedience is measured by what a person does, and feelings are allowed to lag behind without invalidating the deed.",
-            "bn": "যাঁরা প্রথম এই আয়াত শুনেছিলেন, তাঁরা ভান করেননি যে আদেশটি তাঁদের ভালো লাগছে। তাঁদের দৃষ্টান্ত হলো — অপছন্দ থাকা সত্ত্বেও সঠিক কাজটি করা; আর এই আদর্শ কৃত্রিম উদ্দীপনার চেয়ে অনেক বেশি ব্যবহারযোগ্য। 'কুরহ' সম্পর্কে আয়াতের এই সততাই তা সম্ভব করে: আনুগত্য মাপা হয় মানুষ কী করল তা দিয়ে, আর অনুভূতি পিছিয়ে থাকলেও কাজটি বাতিল হয়ে যায় না।"
+            "bn": "যাঁরা প্রথম এই আয়াত শুনেছিলেন, তাঁরা এমন ভান করেননি যে আদেশটা তাঁদের খুব ভালো লাগছে। তাঁদের দৃষ্টান্ত হলো, মন না চাইলেও সঠিক কাজটা করে যাওয়া। জোর করে বানানো উৎসাহের চেয়ে এই আদর্শ অনেক বেশি কাজের। 'কুরহ', অর্থাৎ অপছন্দের কথা আয়াত সোজাসুজি স্বীকার করেছে বলেই এটা সম্ভব হয়। আনুগত্য মাপা হয় মানুষ কী করল তা দিয়ে। অনুভূতি পিছিয়ে থাকলেও আমল বাতিল হয়ে যায় না।"
           },
           {
             "en": "Muslim narrates that when Umm Salamah (RA) lost her husband Abu Salamah (RA) she said the supplication the Prophet ﷺ had taught, asking Allah to reward her in her affliction and to replace it with something better, and she admitted she wondered who could possibly be better than Abu Salamah. She was later married to the Prophet ﷺ. She did not know at the time; that is the whole point of the account, and she did not claim to.",
-            "bn": "মুসলিম বর্ণনা করেন, উম্মে সালামা (রাঃ) যখন তাঁর স্বামী আবু সালামা (রাঃ)-কে হারান, তখন তিনি নবী ﷺ-এর শেখানো সেই দোয়াটি পড়েন — যাতে আল্লাহর কাছে বিপদের প্রতিদান এবং তার বদলে উত্তম কিছু চাওয়া হয়। তিনি স্বীকার করেন, তখন তাঁর মনে হয়েছিল আবু সালামার চেয়ে উত্তম আবার কে হতে পারে। পরে তিনি নবী ﷺ-এর স্ত্রী হন। সেই মুহূর্তে তিনি জানতেন না — গোটা ঘটনার মূল কথাই এটি, আর তিনি জানার দাবিও করেননি।"
+            "bn": "ইমাম মুসলিম বর্ণনা করেছেন, উম্মে সালামা (রাঃ) যখন স্বামী আবু সালামা (রাঃ)-কে হারালেন, তখন নবী ﷺ-এর শেখানো দোয়াটি পড়লেন। সে দোয়ায় আল্লাহর কাছে চাওয়া হয় বিপদের প্রতিদান, আর তার বদলে আরও উত্তম কিছু। তিনি নিজেই স্বীকার করেছেন, তখন মনে মনে ভেবেছিলেন, আবু সালামার চেয়ে উত্তম আর কে হতে পারে! পরে নবী ﷺ-এর সঙ্গে তাঁর বিয়ে হয়। সেই মুহূর্তে তিনি তা জানতেন না, আর জানার দাবিও করেননি। পুরো ঘটনার মূল কথা এটাই।"
           }
         ]
       },
       {
         "h": {
           "en": "Reading It in Real Pain",
-          "bn": "প্রকৃত কষ্টের মধ্যে এই আয়াত"
+          "bn": "সত্যিকারের কষ্টের মধ্যে আয়াতটি"
         },
         "p": [
           {
             "en": "This verse is often quoted to people in the middle of loss, and it can be quoted badly. Told to a grieving parent, it may sound like a claim that their child's death was good for them, which the verse does not say and which no one is in a position to say. What the verse asserts is the limit of our knowledge, and a limit on our knowledge is not a licence to speak confidently about someone else's calamity.",
-            "bn": "এই আয়াতটি প্রায়ই এমন মানুষকে শোনানো হয় যাঁরা ক্ষতির মাঝখানে আছেন — আর তা খারাপভাবেও শোনানো যায়। শোকগ্রস্ত কোনো বাবা-মাকে বললে তা এমন শোনাতে পারে যেন দাবি করা হচ্ছে সন্তানের মৃত্যু তাঁদের জন্য মঙ্গলজনক ছিল; আয়াত সে কথা বলে না, আর তেমন কথা বলার অবস্থানে কেউ নেই। আয়াত যা ঘোষণা করে তা হলো আমাদের জ্ঞানের সীমা — আর জ্ঞানের সীমা কখনো অন্যের বিপদ নিয়ে আত্মবিশ্বাসের সঙ্গে কথা বলার ছাড়পত্র নয়।"
+            "bn": "শোকের মাঝখানে থাকা মানুষকে প্রায়ই এই আয়াত শোনানো হয়, আর শোনানোর ধরন খারাপও হতে পারে। সন্তান হারানো কোনো বাবা-মাকে বললে মনে হতে পারে, বলা হচ্ছে সন্তানের মৃত্যু তাঁদের জন্য ভালোই হয়েছে। আয়াত এমন কথা বলে না, আর এমন কথা বলার মতো অবস্থানেও কেউ নেই। আয়াত বলে আমাদের জ্ঞানের সীমার কথা। আর নিজের জ্ঞান সীমিত হলে তা থেকে অন্যের বিপদ নিয়ে জোর গলায় কথা বলার অনুমতি মেলে না।"
           },
           {
             "en": "Read in the first person it works quite differently. It gives permission to stop demanding an explanation as the price of continuing, and it leaves the future genuinely open rather than sealed by present appearances. The Quran nowhere asks a person to call a wound sweet. It asks them to keep going without concluding that the story has ended badly, when they are not the one who can see the end.",
-            "bn": "কিন্তু প্রথম পুরুষে, নিজের জন্য পড়লে এটি সম্পূর্ণ অন্যভাবে কাজ করে। এটি অনুমতি দেয় — এগিয়ে যাওয়ার শর্ত হিসেবে ব্যাখ্যা দাবি করা বন্ধ করার; আর ভবিষ্যৎকে বর্তমানের চেহারা দিয়ে সিল করে না দিয়ে সত্যিকার অর্থেই খোলা রাখে। কুরআন কোথাও কাউকে বলে না যে ক্ষতটিকে মিষ্টি বলো। বলা হয় — চলতে থাকো, আর সিদ্ধান্তে পৌঁছে যেয়ো না যে গল্পটি খারাপভাবে শেষ হয়েছে, যেখানে শেষটা দেখার ক্ষমতা তোমার নেই।"
+            "bn": "কিন্তু নিজের জন্য পড়লে আয়াতটি একেবারে অন্যভাবে কাজ করে। এটি আপনাকে ছাড় দেয়: সামনে চলার আগে 'কেন হলো' তার ব্যাখ্যা আদায় করতে হবে না। এখনকার চেহারা দেখে ভবিষ্যৎকে বন্ধ খাতা বানিয়ে ফেলে না, সত্যিই খোলা রাখে। কুরআন কোথাও কাউকে বলে না যে ক্ষতকে মিষ্টি বলুন। বলে, চলতে থাকুন। শেষটা দেখার ক্ষমতা যখন আপনার নেই, তখন ধরে নেবেন না যে গল্পটা খারাপভাবে শেষ হয়ে গেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Using It Well",
-          "bn": "একে সঠিকভাবে ব্যবহার"
+          "bn": "আয়াতটির সঠিক ব্যবহার"
         },
         "p": [
           {
             "en": "There is a decision-making use for this verse that costs nothing and often helps. Before a choice, do the work: gather the facts, take advice, weigh the lawful options, pray istikharah. Then act on the best available reading and hand the outcome over. The verse is not an argument for passivity; it is an argument against treating your own preference as knowledge, which is a different and more specific thing.",
-            "bn": "এই আয়াতের একটি সিদ্ধান্তগ্রহণমূলক ব্যবহার আছে, যার কোনো খরচ নেই অথচ প্রায়ই তা কাজে লাগে। কোনো সিদ্ধান্তের আগে কাজটুকু করুন: তথ্য সংগ্রহ করুন, পরামর্শ নিন, বৈধ বিকল্পগুলো ওজন করুন, ইস্তিখারা করুন। তারপর হাতে থাকা সর্বোত্তম বিবেচনার ভিত্তিতে কাজ করুন এবং পরিণতিটি সঁপে দিন। আয়াতটি নিষ্ক্রিয়তার পক্ষে যুক্তি নয়; এটি যুক্তি এই কথার বিরুদ্ধে যে নিজের পছন্দকে জ্ঞান বলে ধরে নেওয়া — আর এটি ভিন্ন ও অনেক সুনির্দিষ্ট একটি বিষয়।"
+            "bn": "সিদ্ধান্ত নেওয়ার সময় এই আয়াতের একটা ব্যবহার আছে, যাতে কিছুই খরচ হয় না, অথচ প্রায়ই কাজে দেয়। কোনো সিদ্ধান্তের আগে নিজের কাজটুকু করুন: তথ্য জোগাড় করুন, পরামর্শ নিন, হালাল বিকল্পগুলো ওজন করে দেখুন, ইস্তিখারা করুন। তারপর হাতে থাকা সবচেয়ে ভালো বিবেচনা অনুযায়ী কাজ করুন, আর ফলাফল আল্লাহর হাতে ছেড়ে দিন। আয়াতটি হাত গুটিয়ে বসে থাকার পক্ষে যুক্তি নয়। এটি যুক্তি নিজের পছন্দকে জ্ঞান বলে ধরে নেওয়ার বিরুদ্ধে, আর সেটা আলাদা, অনেক বেশি নির্দিষ্ট একটা ব্যাপার।"
           },
           {
             "en": "Afterwards, it changes how disappointment is carried. A rejected application, a refused proposal, a job that fell through: each can be recorded as a closed door whose reason is not yet available, rather than as proof of being unwanted. Many people find that keeping a short record of past turns they resented, and revisiting it a few years later, teaches this verse more convincingly than any amount of argument.",
-            "bn": "আর পরে, এটি বদলে দেয় হতাশা বহনের ধরন। প্রত্যাখ্যাত আবেদন, ভেঙে যাওয়া বিয়ের প্রস্তাব, হাতছাড়া হওয়া চাকরি — প্রতিটিকে অবাঞ্ছিত হওয়ার প্রমাণ হিসেবে নয়, বরং এমন এক বন্ধ দরজা হিসেবে লিখে রাখা যায় যার কারণ এখনো জানা যায়নি। বহু মানুষ দেখেন, অতীতে যে মোড়গুলোতে তাঁরা বিরক্ত হয়েছিলেন তার একটি ছোট তালিকা রেখে কয়েক বছর পরে তা আবার পড়লে, এই আয়াতটি যেকোনো যুক্তির চেয়ে বেশি বিশ্বাসযোগ্যভাবে বোঝা যায়।"
+            "bn": "পরে, হতাশা বয়ে বেড়ানোর ধরনটাও আয়াত বদলে দেয়। নাকচ হওয়া আবেদন, ফিরিয়ে দেওয়া বিয়ের প্রস্তাব, শেষমেশ না হওয়া চাকরি: এগুলোকে 'আমাকে কেউ চায় না'-র প্রমাণ না ভেবে এমন বন্ধ দরজা হিসেবে মনে রাখা যায়, যার কারণ এখনো জানা যায়নি। অনেকে দেখেছেন, অতীতের যেসব মোড়ে মনে ক্ষোভ জমেছিল, সেগুলোর একটা ছোট তালিকা লিখে রেখে কয়েক বছর পরে আবার পড়লে আয়াতটি যতটা গভীরভাবে বোঝা যায়, কোনো যুক্তিতর্কে ততটা যায় না।"
           }
         ]
       }
@@ -4792,16 +4792,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Question Asked Openly",
-          "bn": "খোলাখুলি জিজ্ঞাসিত এক প্রশ্ন"
+          "bn": "খোলাখুলি করা প্রশ্ন"
         },
         "p": [
           {
             "en": "Surah al-Baqarah carries a run of questions the companions brought to the Prophet ﷺ, each introduced with the words: they ask you. They ask about what to spend in 2:215, about fighting in the sacred month in 2:217, about wine and gambling in 2:219, and here about menstruation. The Quran treats none of these as too awkward to answer. A matter of the body receives its reply in the same Book, in the same measured voice, as matters of war and wealth.",
-            "bn": "সূরা আল-বাকারায় সাহাবীগণ নবী ﷺ-এর কাছে যেসব প্রশ্ন নিয়ে এসেছিলেন তার একটি ধারাবাহিকতা আছে, প্রতিটি শুরু হয় এই শব্দে: তারা আপনাকে জিজ্ঞেস করে। 2:215 আয়াতে কী ব্যয় করবে তা নিয়ে, 2:217 আয়াতে পবিত্র মাসে যুদ্ধ নিয়ে, 2:219 আয়াতে মদ ও জুয়া নিয়ে, আর এখানে হায়েয নিয়ে প্রশ্ন। কুরআন এগুলোর কোনোটিকেই উত্তর দেওয়ার পক্ষে খুব বিব্রতকর মনে করেনি। দেহঘটিত একটি বিষয় সেই একই কিতাবে, সেই একই সংযত কণ্ঠে জবাব পায়, যেভাবে পায় যুদ্ধ ও সম্পদের বিষয়গুলো।"
+            "bn": "সূরা বাকারায় পরপর কয়েকটি প্রশ্ন আছে, যা সাহাবীরা নবী ﷺ-এর কাছে নিয়ে এসেছিলেন। প্রতিটি শুরু হয় একই কথায়: তারা আপনাকে জিজ্ঞেস করে। ২:২১৫ আয়াতে প্রশ্ন কী খরচ করবে তা নিয়ে, ২:২১৭ আয়াতে পবিত্র মাসে যুদ্ধ নিয়ে, ২:২১৯ আয়াতে মদ ও জুয়া নিয়ে, আর এখানে হায়েয নিয়ে। কুরআন এর কোনোটিকেই এত বিব্রতকর মনে করেনি যে জবাব দেওয়া যায় না। শরীরের একটা বিষয়ের জবাবও এসেছে সেই একই কিতাবে, সেই একই সংযত সুরে, যেভাবে এসেছে যুদ্ধ আর সম্পদের প্রশ্নের জবাব।"
           },
           {
             "en": "The occasion is preserved by Muslim from Anas (RA). Among the Jews of Madinah, when a woman menstruated they would not eat with her nor stay with her in the house. The companions asked the Prophet ﷺ, this verse came down, and he said: do everything except intercourse. The revealed answer neither adopted the surrounding practice of exclusion nor erased all restraint. It drew one precise line and left the woman's place at the table, and in the home, exactly where it was.",
-            "bn": "ঘটনাটি আনাস (রাঃ) থেকে মুসলিম সংরক্ষণ করেছেন। মদীনার ইহুদিদের মধ্যে নিয়ম ছিল, কোনো নারীর হায়েয হলে তারা তার সাথে খেত না, ঘরে তার সাথে থাকত না। সাহাবীগণ নবী ﷺ-কে জিজ্ঞেস করলেন, এই আয়াত নাযিল হলো, আর তিনি বললেন: সহবাস ছাড়া সবকিছু করো। ওহীর এই জবাব আশপাশের বর্জনের প্রথাকেও গ্রহণ করেনি, আবার সব সংযমও মুছে দেয়নি। এটি একটিমাত্র সুনির্দিষ্ট সীমারেখা টেনেছে, আর খাবারের টেবিলে ও ঘরের ভেতরে নারীর অবস্থান ঠিক যেখানে ছিল সেখানেই রেখে দিয়েছে।"
+            "bn": "শানে নুযুলটি ইমাম মুসলিম আনাস (রাঃ) থেকে বর্ণনা করেছেন। মদীনার ইহুদিদের নিয়ম ছিল, কোনো নারীর হায়েয হলে তারা তার সঙ্গে খেত না, এক ঘরে থাকত না। সাহাবীরা নবী ﷺ-কে এ বিষয়ে জিজ্ঞেস করলেন, তখন এই আয়াত নাজিল হলো, আর তিনি বললেন: সহবাস ছাড়া সবকিছু করো। ওহির এই জবাব আশপাশের দূরে ঠেলে রাখার প্রথাও নেয়নি, আবার সব সংযমও তুলে দেয়নি। একটিমাত্র স্পষ্ট সীমা টেনে দিয়েছে, আর দস্তরখানে ও ঘরের ভেতরে নারীর জায়গা যেখানে ছিল, ঠিক সেখানেই রেখে দিয়েছে।"
           }
         ]
       },
@@ -4813,11 +4813,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Asked what menstruation is, the verse answers with a single word: adha, a hurt. The word describes a condition, not a person. The verse does not call the woman impure, and it attaches no blame to a process she did not choose. The commentators observe that the instruction which follows rests on this word: because there is hurt, there is distance of one specific kind, and when the hurt passes, the distance passes with it. The logic of the ruling is protective, not punitive.",
-            "bn": "হায়েয কী — এই প্রশ্নের জবাবে আয়াত একটিমাত্র শব্দ ব্যবহার করে: আযা, অর্থাৎ কষ্ট। শব্দটি একটি অবস্থার বর্ণনা, কোনো ব্যক্তির নয়। আয়াতটি নারীকে অপবিত্র বলেনি, আর যে প্রক্রিয়া তার নিজের বেছে নেওয়া নয় তার জন্য কোনো দোষও চাপায়নি। মুফাসসিরগণ লক্ষ করেন, এরপরের নির্দেশটি এই শব্দের ওপরই দাঁড়িয়ে: যেহেতু কষ্ট আছে, তাই একটি নির্দিষ্ট ধরনের দূরত্ব আছে; কষ্ট চলে গেলে দূরত্বও সাথে সাথে চলে যায়। বিধানটির যুক্তি সুরক্ষামূলক, শাস্তিমূলক নয়।"
+            "bn": "হায়েয কী, এই প্রশ্নের জবাবে আয়াত একটিমাত্র শব্দ বলে: আযা, অর্থাৎ কষ্ট। শব্দটি একটা অবস্থার বর্ণনা, কোনো মানুষের নয়। আয়াত নারীকে অপবিত্র বলেনি, আর যা সে নিজে বেছে নেয়নি তার জন্য তাকে কোনো দোষও দেয়নি। মুফাসসিররা লক্ষ করেছেন, পরের নির্দেশটা দাঁড়িয়ে আছে এই শব্দের ওপরই: কষ্ট আছে বলেই একটা নির্দিষ্ট ধরনের দূরত্ব রাখতে হয়, আর কষ্ট চলে গেলে দূরত্বও চলে যায়। বিধানটির উদ্দেশ্য রক্ষা করা, শাস্তি দেওয়া নয়।"
           },
           {
             "en": "The command to keep away from women during menstruation could have been stretched wide. The Prophet's ﷺ own words in the report of Anas (RA) fixed its scope: everything except intercourse itself. Shared meals, affection and ordinary company all continue. The same narration records the Jews complaining that this man leaves nothing of their practice without differing from it — a measure of how deliberately the verse marked out its own path between exclusion on one side and no restraint at all on the other.",
-            "bn": "হায়েযকালে স্ত্রীদের থেকে দূরে থাকার নির্দেশটিকে অনেক প্রশস্ত করে টানা যেত। আনাস (রাঃ)-এর বর্ণনায় নবী ﷺ-এর নিজের কথাই এর পরিধি নির্ধারণ করে দেয়: শুধু সহবাস ছাড়া সবকিছু। একসাথে খাওয়া, স্নেহ ও স্বাভাবিক সাহচর্য — সবই চলতে থাকে। একই বর্ণনায় আছে, ইহুদিরা অভিযোগ করে বলেছিল, এই লোকটি আমাদের কোনো রীতিই ভিন্নতা ছাড়া রাখতে চান না — যা দেখিয়ে দেয়, একদিকে বর্জন আর অন্যদিকে সংযমহীনতার মাঝে আয়াতটি কত সচেতনভাবে নিজের পথ চিহ্নিত করেছে।"
+            "bn": "হায়েযের সময় স্ত্রীদের থেকে দূরে থাকার আদেশটাকে টেনে অনেক বড় করে ফেলা যেত। কিন্তু আনাস (রাঃ)-এর বর্ণনায় নবী ﷺ নিজেই এর সীমা ঠিক করে দিয়েছেন: শুধু সহবাস ছাড়া সবকিছু। একসঙ্গে খাওয়া, আদর-ভালোবাসা, স্বাভাবিক মেলামেশা, সবই চলবে। একই বর্ণনায় আছে, ইহুদিরা অভিযোগ করেছিল, এই লোকটি আমাদের কোনো রীতিতেই আমাদের বিরোধিতা না করে ছাড়েন না। এ থেকে বোঝা যায়, একদিকে দূরে ঠেলে দেওয়া আর অন্যদিকে কোনো সংযমই না রাখা, এই দুইয়ের মাঝখান দিয়ে আয়াত কত ভেবেচিন্তে নিজের পথ এঁকেছে।"
           }
         ]
       },
@@ -4829,11 +4829,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse's timeline turns on two related verbs. Do not approach them, it says, hatta yathurna — until they become pure, the bleeding itself ending. Then: fa-idha tatahharna — when they have purified themselves, a verb form whose added letters signal a deliberate act a person performs. The wording pictures two stages, something that happens to a woman and something she then does, and only after both does the permission return, from where Allah has commanded you.",
-            "bn": "আয়াতের সময়রেখা দুটি সম্পর্কিত ক্রিয়াপদের ওপর ঘোরে। বলা হয়েছে, তাদের কাছে যেয়ো না — হাত্তা ইয়াতহুরনা — যতক্ষণ না তারা পবিত্র হয়, অর্থাৎ স্রাব নিজেই বন্ধ হয়। তারপর: ফা-ইযা তাতাহহারনা — যখন তারা নিজেদের পবিত্র করে নেয় — এমন এক ক্রিয়ারূপ, যার অতিরিক্ত বর্ণগুলো মানুষের সচেতনভাবে সম্পাদিত কাজের ইঙ্গিত দেয়। শব্দবিন্যাসটি দুটি ধাপ আঁকে: একটি নারীর সাথে ঘটে, অন্যটি সে নিজে করে; আর দুটির পরেই অনুমতি ফিরে আসে — যেখান থেকে আল্লাহ তোমাদের আদেশ করেছেন।"
+            "bn": "আয়াতের সময়ের হিসাব ঘুরছে কাছাকাছি অর্থের দুটি ক্রিয়ার ওপর। আয়াত বলছে, তাদের কাছে যেয়ো না হাত্তা ইয়াতহুরনা, যতক্ষণ না তারা পবিত্র হয়, অর্থাৎ রক্তস্রাব নিজে থেকে বন্ধ হয়। তারপর: ফাইযা তাতাহহারনা, যখন তারা নিজেরা পবিত্র হয়ে নেয়। এই ক্রিয়ারূপে বাড়তি যে অক্ষরগুলো আছে, তা বোঝায় মানুষের নিজে ইচ্ছা করে করা কাজ। শব্দগুলো এভাবে দুটি ধাপ দেখায়: একটা নারীর ওপর ঘটে, আরেকটা সে নিজে করে। দুটো ধাপ পেরোলেই অনুমতি ফিরে আসে, যেদিক থেকে আল্লাহ তোমাদের আদেশ দিয়েছেন।"
           },
           {
             "en": "The mufassirun — at-Tabari, Ibn Kathir, al-Qurtubi — pause over how much guidance this one sentence carries while staying wholly free of coarseness. Everything intimate is said through modest indirection: keep away, do not approach, come to them. Al-Baqarah handles the nights of Ramadan in 2:187 with the same pairing of frankness about the subject and restraint in the wording. The Quran demonstrates that speech about the body can be perfectly clear without ever becoming crude.",
-            "bn": "মুফাসসিরগণ — তাবারী, ইবনে কাসীর, কুরতুবী — থেমে লক্ষ করেন, একটিমাত্র বাক্য কতটা দিকনির্দেশনা বহন করছে, অথচ পুরোপুরি স্থূলতামুক্ত থেকে। ঘনিষ্ঠ সবকিছু বলা হয়েছে শালীন পরোক্ষতায়: দূরে থাকো, কাছে যেয়ো না, তাদের কাছে যাও। আল-বাকারা 2:187 আয়াতে রমযানের রাতগুলোর বিষয়ও একই ভঙ্গিতে সামলেছে — বিষয়ে স্পষ্টতা, শব্দে সংযম। কুরআন দেখিয়ে দেয়, দেহ নিয়ে কথা সম্পূর্ণ স্পষ্ট হতে পারে কখনো স্থূল না হয়েও।"
+            "bn": "তাবারী, ইবনে কাসীর আর কুরতুবীর মতো মুফাসসিররা এখানে থেমে লক্ষ করেছেন, একটিমাত্র বাক্য কত দিকনির্দেশনা বহন করছে, অথচ কোথাও এতটুকু অশালীনতা নেই। ঘনিষ্ঠ সব কথা বলা হয়েছে শালীন ইঙ্গিতে: দূরে থাকো, কাছে যেয়ো না, তাদের কাছে যাও। রমজানের রাতের কথাও সূরা বাকারা ২:১৮৭ আয়াতে একইভাবে বলেছে: বিষয় নিয়ে খোলামেলা, শব্দে সংযত। কুরআন দেখিয়ে দেয়, শরীর নিয়ে কথা পুরোপুরি স্পষ্ট হতে পারে, কখনো স্থূল না হয়েও।"
           }
         ]
       },
@@ -4845,11 +4845,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The closing sentence lifts the whole passage: indeed Allah loves at-tawwabin and loves al-mutatahhirin. At-tawwabin is an intensive form — not those who repented once, but those who keep returning. Al-mutatahhirin is a participle of deliberate effort — those who take purification upon themselves as a practice. A verse of bodily regulation thus ends with the love of Allah, joining the outward washing just legislated to the inward washing of tawbah, and naming both as qualities He loves.",
-            "bn": "শেষ বাক্যটি পুরো অনুচ্ছেদকে উপরে তুলে নেয়: নিশ্চয়ই আল্লাহ ভালোবাসেন আত-তাওয়াবীনদের এবং ভালোবাসেন আল-মুতাতাহহিরীনদের। আত-তাওয়াবীন একটি আধিক্যবোধক রূপ — যারা একবার তওবা করেছে তারা নয়, বরং যারা বারবার ফিরে আসে। আল-মুতাতাহহিরীন সচেতন প্রচেষ্টার কর্তৃবাচক পদ — যারা পবিত্রতাকে নিজেদের অভ্যাস হিসেবে গ্রহণ করে। দেহঘটিত বিধানের একটি আয়াত এভাবে শেষ হয় আল্লাহর ভালোবাসায় — সদ্য বিধিবদ্ধ বাহ্যিক ধোয়াকে তওবার আন্তরিক ধোয়ার সাথে যুক্ত করে, এবং দুটিকেই তাঁর প্রিয় গুণ হিসেবে নাম দিয়ে।"
+            "bn": "শেষ বাক্যটি পুরো অংশটিকে অনেক উঁচুতে তুলে নেয়: নিশ্চয়ই আল্লাহ ভালোবাসেন আত-তাওয়াবীনদের, আর ভালোবাসেন আল-মুতাতাহহিরীনদের। আত-তাওয়াবীন আধিক্য বোঝানো রূপ। এরা একবার তওবা করে থেমে যাওয়া লোক নয়, বারবার ফিরে আসা লোক। আল-মুতাতাহহিরীন শব্দে আছে সচেতন চেষ্টার ভাব: এরা পবিত্রতাকে নিজেদের অভ্যাস বানিয়ে নিয়েছে। শরীরের বিধান নিয়ে একটি আয়াত এভাবে শেষ হয় আল্লাহর ভালোবাসায়। সদ্য দেওয়া বাইরের ধোয়ার বিধানকে জুড়ে দেয় তওবার ভেতরের ধোয়ার সঙ্গে, আর দুটোকেই বলে তাঁর প্রিয় গুণ।"
           },
           {
             "en": "The pairing recurs elsewhere. Praising the people of a mosque founded upon taqwa, the Quran says in 9:108 that in it are men who love to purify themselves, and that Allah loves those who purify themselves. Purity in the Quran is never merely hygienic; it is a quality of the person that Allah Himself declares beloved. And tawbah is named first in our verse: before it praises the washing of the body, it praises the washing of the heart.",
-            "bn": "এই জুটি অন্যত্রও ফিরে আসে। তাকওয়ার ওপর প্রতিষ্ঠিত এক মসজিদের মানুষদের প্রশংসা করে কুরআন 9:108 আয়াতে বলে, সেখানে এমন লোক আছে যারা পবিত্র হতে ভালোবাসে, আর আল্লাহ পবিত্রতা অর্জনকারীদের ভালোবাসেন। কুরআনে পবিত্রতা কখনোই কেবল স্বাস্থ্যবিধি নয়; এটি মানুষের এমন এক গুণ, যাকে আল্লাহ নিজে প্রিয় বলে ঘোষণা করেছেন। আর আমাদের আয়াতে তওবার নাম এসেছে আগে: দেহ ধোয়ার প্রশংসার আগে আয়াতটি হৃদয় ধোয়ার প্রশংসা করে।"
+            "bn": "এই জুটি অন্য জায়গাতেও আছে। তাকওয়ার ওপর প্রতিষ্ঠিত এক মসজিদের লোকদের প্রশংসা করে কুরআন ৯:১০৮ আয়াতে বলে, সেখানে এমন লোক আছে যারা পবিত্র থাকতে ভালোবাসে, আর আল্লাহ পবিত্রতা অর্জনকারীদের ভালোবাসেন। কুরআনে পবিত্রতা কখনো শুধু পরিচ্ছন্নতার ব্যাপার নয়। এটা মানুষের এমন এক গুণ, যাকে আল্লাহ নিজে প্রিয় বলে ঘোষণা করেছেন। আর আমাদের আয়াতে তওবার নাম এসেছে আগে: শরীর ধোয়ার প্রশংসার আগে আয়াত প্রশংসা করেছে অন্তর ধোয়ার।"
           }
         ]
       },
@@ -4861,23 +4861,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Lived rightly, the verse protects women from two injustices at once. It forbids treating a menstruating woman as unfit company — the exclusion it was revealed to end — and it acknowledges the hurt of those days rather than pretending they are nothing. A household shaped by this verse neither banishes nor ignores; it adjusts one thing and honors everything else. The days a woman may find hardest each month are met, in this ruling, with consideration instead of stigma.",
-            "bn": "সঠিকভাবে যাপিত হলে আয়াতটি নারীদের একসাথে দুটি অবিচার থেকে রক্ষা করে। এটি হায়েযগ্রস্ত নারীকে সঙ্গের অযোগ্য গণ্য করা নিষেধ করে — যে বর্জন শেষ করতেই এটি নাযিল হয়েছিল — আবার সেই দিনগুলোর কষ্টকে কিছুই না ভান করার বদলে স্বীকারও করে। এই আয়াতে গড়া একটি সংসার কাউকে দূরেও ঠেলে না, উপেক্ষাও করে না; একটি বিষয় সমন্বয় করে আর বাকি সবকিছুর সম্মান রাখে। মাসের যে দিনগুলো একজন নারীর কাছে সবচেয়ে কঠিন হতে পারে, এই বিধানে সেগুলোর জবাব কলঙ্ক নয়, বিবেচনা।"
+            "bn": "ঠিকভাবে মেনে চললে আয়াতটি নারীকে একসঙ্গে দুটি অবিচার থেকে বাঁচায়। হায়েযের সময় নারীকে সঙ্গ দেওয়ার অযোগ্য ভাবা নিষেধ করে; এই দূরে ঠেলে রাখা বন্ধ করতেই আয়াতটি নাজিল হয়েছিল। আবার সেই দিনগুলোর কষ্টকে 'কিছুই না' বলে উড়িয়েও দেয় না, স্বীকার করে। এই আয়াতের আলোয় গড়া সংসার কাউকে দূরেও ঠেলে না, অবহেলাও করে না। একটা বিষয়ে সমঝে চলে, বাকি সবকিছুতে সম্মান রাখে। প্রতি মাসে যে দিনগুলো একজন নারীর কাছে সবচেয়ে কঠিন হতে পারে, এই বিধানে সেগুলোর জবাব কলঙ্ক নয়, সহমর্মিতা।"
           },
           {
             "en": "The verse also trains the asking of questions. The companions carried a delicate matter to revelation instead of settling it by the customs around them, and the answer corrected those customs. Whoever teaches this verse inherits both habits: to answer honest questions about the body without embarrassment, and to measure inherited practice against what Allah actually revealed rather than assuming the two must already agree.",
-            "bn": "আয়াতটি প্রশ্ন করার শিষ্টাচারও শেখায়। সাহাবীগণ একটি সূক্ষ্ম বিষয়কে চারপাশের প্রথা দিয়ে মিটিয়ে না ফেলে ওহীর কাছে নিয়ে গিয়েছিলেন, আর প্রাপ্ত জবাব সেই প্রথাগুলোকেই সংশোধন করে দেয়। যে-ই এই আয়াত শেখায়, সে দুটি অভ্যাসের উত্তরাধিকার পায়: দেহ নিয়ে সৎ প্রশ্নের উত্তর বিব্রত না হয়ে দেওয়া, আর উত্তরাধিকারসূত্রে পাওয়া প্রথাকে আল্লাহ প্রকৃতপক্ষে যা নাযিল করেছেন তার মানদণ্ডে যাচাই করা — দুটো এমনিতেই মিলে যাবে ধরে না নেওয়া।"
+            "bn": "আয়াতটি প্রশ্ন করাও শেখায়। সাহাবীরা একটি নাজুক বিষয় আশপাশের প্রথা দিয়ে মিটিয়ে ফেলেননি, ওহির কাছে নিয়ে গেছেন, আর ওহির জবাব সেই প্রথাগুলোকেই শুধরে দিয়েছে। যিনি এই আয়াত শেখান, তিনি দুটো অভ্যাসেরই উত্তরাধিকারী হন। এক, শরীর নিয়ে আন্তরিক প্রশ্নের জবাব লজ্জা না পেয়ে দেওয়া। দুই, বাপ-দাদার কাছ থেকে পাওয়া প্রথাকে আল্লাহ আসলে যা নাজিল করেছেন তার সঙ্গে মিলিয়ে দেখা, দুটো আপনা থেকেই মিলে যাবে বলে ধরে না নেওয়া।"
           }
         ]
       },
       {
         "h": {
           "en": "Carrying the Ending",
-          "bn": "শেষ বাক্যটি বহন করা"
+          "bn": "শেষ বাক্যটি সঙ্গে রাখা"
         },
         "p": [
           {
             "en": "The practical residue of the verse is its last line. Whoever performs wudu or ghusl is invited to intend by it the quality Allah loves, not a mechanical routine. And whoever falls, in any matter at all, is invited into the first word: the tawwab is precisely the one who has something to return from, again and again. The verse refuses despair as firmly as it refuses shamelessness — the beloved here are not the faultless, but the returning and the purifying.",
-            "bn": "আয়াতটির ব্যবহারিক উত্তরাধিকার এর শেষ পঙক্তিতে। যে-ই ওযু বা গোসল করে, তাকে আমন্ত্রণ জানানো হয় যেন সে এর দ্বারা যান্ত্রিক রুটিন নয়, আল্লাহর প্রিয় গুণটির নিয়ত করে। আর যে-ই কোনো বিষয়ে পড়ে যায়, তার জন্য আমন্ত্রণ প্রথম শব্দটিতে: তাওয়াব সে-ই, যার বারবার ফিরে আসার মতো কিছু আছে। আয়াতটি নির্লজ্জতাকে যেমন দৃঢ়ভাবে প্রত্যাখ্যান করে, হতাশাকেও তেমনই — এখানে প্রিয়জন নিখুঁতরা নয়, বরং প্রত্যাবর্তনকারী ও পবিত্রতা অর্জনকারীরা।"
+            "bn": "আয়াতের যে শিক্ষাটা হাতে-কলমে থেকে যায়, তা এর শেষ বাক্যে। যে ওযু বা গোসল করে, তাকে ডাকা হচ্ছে যেন সে এটাকে যন্ত্রের মতো রুটিন না বানিয়ে আল্লাহর প্রিয় গুণটির নিয়ত করে। আর যে-কেউ যেকোনো বিষয়ে পা হড়কায়, তাকে ডাকা হচ্ছে প্রথম শব্দটির দিকে: তাওয়াব তো সে-ই, যার বারবার ফিরে আসার মতো কিছু আছে। আয়াত নির্লজ্জতাকে যতটা দৃঢ়ভাবে ফিরিয়ে দেয়, হতাশাকেও ঠিক ততটাই। এখানে আল্লাহর প্রিয় তারা নয় যাদের কোনো ভুল নেই, বরং তারা, যারা বারবার ফিরে আসে আর নিজেকে পবিত্র করে।"
           }
         ]
       }
