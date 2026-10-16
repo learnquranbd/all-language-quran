@@ -37,11 +37,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari explains the first verb: iqtarabat is on the pattern ifta'alat, from qurb, nearness, and it means that the Hour in which the Resurrection stands has drawn close. He reads the sentence as a warning from Allah to His servants that the Resurrection is near and the passing of this world is close, and as a command to make ready for its terrors before they fall upon people while they are heedless and distracted. Al-Qurtubi glosses iqtarabat simply as qarubat, it came near, like azifati l-azifa.",
-            "bn": "প্রথম ক্রিয়াটি তাবারী খুলে বলেন। ইকতারাবাত শব্দটি ইফতাআলাত ছাঁচে গড়া, এসেছে কুরব থেকে, যার মানে নৈকট্য। অর্থ দাঁড়ায়: যে মুহূর্তে কিয়ামত কায়েম হবে, সেটি কাছে চলে এসেছে। তাবারীর মতে বাক্যটি বান্দাদের প্রতি আল্লাহর সতর্কবাণী। কিয়ামত কাছে, দুনিয়ার বিদায়ও কাছে। সেই সঙ্গে এটি একটি আদেশও: মানুষ যখন উদাসীন আর অন্যমনস্ক, তখন কিয়ামতের বিভীষিকা হঠাৎ ঘাড়ে এসে পড়ার আগেই প্রস্তুতি নাও। কুরতুবী ইকতারাবাতের অর্থ করেন সংক্ষেপে কারুবাত, কাছে এসেছে, ঠিক আযিফাতিল আযিফার মতো।"
+            "bn": "প্রথম ক্রিয়াটি তাবারী খুলে বলেন। ইকতারাবাত শব্দটি ইফতাআলাত ছাঁচে গড়া, এসেছে কুরব থেকে, যার মানে নৈকট্য। অর্থ দাঁড়ায়: যে মুহূর্তে কিয়ামত কায়েম হবে, সেটি কাছে চলে এসেছে। তাবারীর মতে বাক্যটি বান্দাদের প্রতি আল্লাহর সতর্কবাণী: কিয়ামত কাছে, দুনিয়ার বিদায়ও কাছে। সেই সঙ্গে এতে আছে প্রস্তুত হওয়ার আদেশ। মানুষ যখন উদাসীন আর অন্যমনস্ক, তখনই কিয়ামতের বিভীষিকা হঠাৎ ঘাড়ে এসে পড়বে, তার আগেই প্রস্তুত হয়ে থাকতে হবে। কুরতুবী ইকতারাবাতের অর্থ করেন সংক্ষেপে কারুবাত, কাছে এসেছে, ঠিক আযিফাতিল আযিফার মতো।"
           },
           {
             "en": "How can something announced so long ago be called near? Al-Qurtubi answers that it is near in relation to what has already passed, since most of the world's span is over. Ibn Kathir sets the verse beside two others spoken in the same voice: the command of Allah has come, so do not seek to hasten it, 16:1; and mankind's reckoning has drawn near while they turn away in heedlessness, 21:1. As-Sa'di adds the human side: the Hour's time has come, and still the deniers stayed in denial, unprepared for it.",
-            "bn": "এত আগে ঘোষিত একটি বিষয়কে কাছে বলা হয় কীভাবে? কুরতুবীর জবাব: যা পেরিয়ে গেছে তার তুলনায় এটি কাছে, কারণ দুনিয়ার আয়ুর বেশির ভাগই ফুরিয়ে গেছে। ইবন কাসীর আয়াতটিকে একই সুরের আরও দুটি আয়াতের পাশে রাখেন। একটি ১৬:১, আল্লাহর আদেশ এসে গেছে, তাই তা নিয়ে তাড়াহুড়া কোরো না। অন্যটি ২১:১, মানুষের হিসাবের সময় কাছে এসে গেছে, অথচ তারা উদাসীন হয়ে মুখ ফিরিয়ে আছে। সাদী মানুষের দিকটা যোগ করেন। কিয়ামতের সময় হয়ে এসেছে, তবু অস্বীকারকারীরা অস্বীকারেই অটল থেকেছে, তার জন্য কোনো প্রস্তুতি নেয়নি।"
+            "bn": "যার ঘোষণা এসেছে এত আগে, তাকে কাছে বলা হয় কীভাবে? কুরতুবীর জবাব: যা পেরিয়ে গেছে তার তুলনায় এটি কাছে, কারণ দুনিয়ার আয়ুর বেশির ভাগই ফুরিয়ে গেছে। ইবন কাসীর আয়াতটিকে একই সুরের আরও দুটি আয়াতের পাশে রাখেন। একটি ১৬:১, আল্লাহর আদেশ এসে গেছে, তাই তা নিয়ে তাড়াহুড়া কোরো না। অন্যটি ২১:১, মানুষের হিসাবের সময় কাছে এসে গেছে, অথচ তারা উদাসীন হয়ে মুখ ফিরিয়ে আছে। সাদী মানুষের দিকটা যোগ করেন। কিয়ামতের সময় হয়ে এসেছে, তবু অস্বীকারকারীরা অস্বীকারেই অটল থেকেছে, তার জন্য কোনো প্রস্তুতি নেয়নি।"
           }
         ]
       },
@@ -133,7 +133,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Jubayr ibn Mut'im's report, which Ibn Kathir cites from Imam Ahmad, gives the same exchange more briefly: they said, Muhammad has bewitched us, then said, if he has bewitched us, he cannot bewitch all the people. The next verse, 54:2, records the outcome: if they see a sign, they turn away and say, a continuing magic. That verse has its own place. What 54:1 to 54:3 describe is one group's response to one sign at one time. The verses license nothing against any living person or community.",
-            "bn": "জুবাইর ইবন মুতইম (রাঃ)-এর বর্ণনা, যা ইবন কাসীর ইমাম আহমাদের সূত্রে আনেন, একই কথোপকথন আরও সংক্ষেপে তুলে ধরে। তারা বলল, মুহাম্মাদ আমাদের যাদু করেছে। পরে বলল, আমাদের যাদু করলেও সব মানুষকে তো সে যাদু করতে পারবে না। পরের আয়াত ৫৪:২ জানিয়ে দেয় পরিণতি কী হয়েছিল: নিদর্শন দেখলে তারা মুখ ফিরিয়ে নেয় আর বলে, এ তো চলমান যাদু। সে আয়াতের আলোচনা তার নিজের জায়গায়। ৫৪:১ থেকে ৫৪:৩ পর্যন্ত আয়াতগুলো একটি নিদর্শনের সামনে এক সময়ের একটি দলের প্রতিক্রিয়ার বর্ণনা। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াতগুলো কোনো কিছুর অনুমতি দেয় না।"
+            "bn": "ইবন কাসীর ইমাম আহমাদের সূত্রে জুবাইর ইবন মুতইম (রাঃ)-এর একটি বর্ণনা আনেন। তাতে একই কথাবার্তা আরও সংক্ষেপে আছে। তারা বলল, মুহাম্মাদ আমাদের যাদু করেছে। পরে বলল, আমাদের যাদু করলেও সব মানুষকে তো সে যাদু করতে পারবে না। পরের আয়াত ৫৪:২ জানিয়ে দেয় শেষে কী হলো: নিদর্শন দেখলে তারা মুখ ফিরিয়ে নেয় আর বলে, এ তো চলমান যাদু। সে আয়াতের আলোচনা তার নিজের জায়গায়। ৫৪:১ থেকে ৫৪:৩ আয়াতে আছে এক সময়ে, এক নিদর্শনের সামনে, এক দলের প্রতিক্রিয়া। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াতগুলো কোনো কিছুরই অনুমতি দেয় না।"
           }
         ]
       },
@@ -165,11 +165,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Khushsha'an absaruhum yakhrujuna mina l-ajdathi ka-annahum jaradun muntashir: their eyes humbled, they come out of the graves as though they were locusts spreading. The verse does not open a new sentence. It completes a picture begun in 54:6, where the Prophet ﷺ is told to turn away from the deniers on the day the caller calls to a terrible thing, and it runs on into 54:8, where they hasten towards that caller. Ibn Kathir, in the abridged English, reads the three verses as a single passage about the terrible end that awaits the disbelievers.",
-            "bn": "খুশশাআন আবসারুহুম ইয়াখরুজূনা মিনাল আজদাসি কাআন্নাহুম জারাদুম মুনতাশির: অবনত চোখে তারা কবর থেকে বেরিয়ে আসবে, যেন ছড়িয়ে পড়া পঙ্গপাল। আয়াতটি নতুন কোনো বাক্য শুরু করে না। ছবিটা শুরু হয়েছে ৫৪:৬ আয়াতে। সেখানে নবী ﷺ-কে বলা হয়েছে অস্বীকারকারীদের থেকে মুখ ফিরিয়ে নিতে, সেই দিনের অপেক্ষায় যেদিন আহ্বানকারী এক ভয়াবহ জিনিসের দিকে ডাকবেন। আর ছবিটা গড়িয়ে গেছে ৫৪:৮ পর্যন্ত, যেখানে তারা সেই আহ্বানকারীর দিকে ছুটে যায়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ তিনটি আয়াতকে একসঙ্গে পড়ে: কাফিরদের জন্য অপেক্ষমাণ ভয়াবহ পরিণতির একটিমাত্র বর্ণনা হিসেবে।"
+            "bn": "খুশশাআন আবসারুহুম ইয়াখরুজূনা মিনাল আজদাসি কাআন্নাহুম জারাদুম মুনতাশির: অবনত চোখে তারা কবর থেকে বেরিয়ে আসবে, যেন ছড়িয়ে পড়া পঙ্গপাল। আয়াতটি নতুন কোনো বাক্য শুরু করে না। ছবিটা শুরু হয়েছে ৫৪:৬ আয়াতে। সেখানে নবী ﷺ-কে বলা হয়েছে অস্বীকারকারীদের থেকে মুখ ফিরিয়ে নিতে, সেই দিনের অপেক্ষায় যেদিন আহ্বানকারী এক ভয়াবহ জিনিসের দিকে ডাকবেন। আর ছবিটা গড়িয়ে গেছে ৫৪:৮ পর্যন্ত, যেখানে তারা সেই আহ্বানকারীর দিকে ছুটে যায়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ তিনটি আয়াতকে একটানা একটি অংশ হিসেবে পড়ে, যার বিষয় কাফিরদের জন্য অপেক্ষা করে থাকা ভয়াবহ পরিণতি।"
           },
           {
             "en": "Al-Qurtubi shows how tightly the words are bound together. Khushsha'an is in the accusative as a hal, a word describing the state of someone, and he offers two anchors for it. If it describes the pronoun in 'anhum, from them, near the start of 54:6, then pausing after 'anhum is poor, because the description would be cut off from the people it describes. If it describes the subject of yakhrujuna, they come out, the pause after 'anhum is allowed. On both readings the lowered eyes belong to the people the passage has been speaking about.",
-            "bn": "শব্দগুলো যে কতটা আঁটসাঁট করে বাঁধা, কুরতুবী তা দেখান। খুশশাআন শব্দটি নসব অবস্থায় আছে হাল হিসেবে, অর্থাৎ কারও তখনকার অবস্থা বোঝাতে। এর সম্পর্ক কার সঙ্গে, সে বিষয়ে তিনি দুটি সম্ভাবনা দেখান। শব্দটি যদি ৫৪:৬ আয়াতের শুরুর দিকের আনহুম, অর্থাৎ তাদের থেকে, এর সর্বনামের অবস্থা হয়, তবে আনহুম-এ থামা ভালো নয়। কারণ তাতে বর্ণনাটা যাদের বর্ণনা, তাদের থেকেই কেটে যায়। আর শব্দটি যদি ইয়াখরুজূনা, অর্থাৎ তারা বেরিয়ে আসবে, এর কর্তার অবস্থা হয়, তবে আনহুম-এ থামা চলে। দুই পাঠেই নত চোখগুলো সেই লোকদেরই, যাদের কথা এ অংশ জুড়ে চলছে।"
+            "bn": "শব্দগুলো কতটা আঁটসাঁট করে বাঁধা, কুরতুবী তা দেখান। খুশশাআন শব্দটি হাল হিসেবে নসব অবস্থায় আছে। হাল মানে এমন শব্দ, যা কারও তখনকার অবস্থা বোঝায়। শব্দটি কার অবস্থা বোঝাচ্ছে, তা নিয়ে তিনি দুটি সম্ভাবনা দেখান। এক, এটি যদি ৫৪:৬ আয়াতের শুরুর দিকের আনহুম (তাদের থেকে) শব্দের সর্বনামের অবস্থা হয়, তবে আনহুম-এ থামা ভালো নয়। কারণ তখন অবস্থার বর্ণনাটা যাদের, তাদের থেকেই বিচ্ছিন্ন হয়ে যায়। দুই, এটি যদি ইয়াখরুজূনা (তারা বেরিয়ে আসবে) ক্রিয়ার কর্তার অবস্থা হয়, তবে আনহুম-এ থামা চলে। দুই পাঠেই নত চোখগুলো সেই লোকদেরই, যাদের কথা এ অংশ জুড়ে চলছে।"
           }
         ]
       },
@@ -185,7 +185,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi defines the word from the language. Khushu' in the eye is submission and abasement. People say khasha'a and ikhtasha'a when someone has been humbled, and khasha'a bi-basarihi means he lowered his gaze. Both senses meet in this verse: the eyes are cast down, and the casting down is a sign of disgrace. Al-Baghawi glosses the phrase as abased and submissive at the sight of the punishment, which ties the lowered eyes to what those eyes are now seeing.",
-            "bn": "কুরতুবী শব্দটির অর্থ বের করেন ভাষা থেকে। চোখের খুশূ মানে নতি আর লাঞ্ছনা। কেউ অপমানিত হলে আরবরা বলে খাশাআ বা ইখতাশাআ। আর খাশাআ বিবাসারিহি মানে সে দৃষ্টি নামিয়ে নিল। এ আয়াতে দুটো অর্থই মিলেছে: চোখ নিচের দিকে নামানো, আর সেই নামানোটাই অপমানের চিহ্ন। বাগাভী শব্দগুচ্ছটির ব্যাখ্যা দেন এভাবে: আযাব দেখে লাঞ্ছিত ও নতজানু। এতে নত চোখের সম্পর্ক জুড়ে যায় সেই চোখ তখন যা দেখছে তার সঙ্গে।"
+            "bn": "কুরতুবী শব্দটির অর্থ বের করেন ভাষা থেকে। চোখের খুশূ মানে নতি আর লাঞ্ছনা। কেউ অপমানিত হলে আরবরা বলে খাশাআ বা ইখতাশাআ। আর খাশাআ বিবাসারিহি মানে সে দৃষ্টি নামিয়ে নিল। এ আয়াতে দুটো অর্থই মিলেছে: চোখ নিচের দিকে নামানো, আর সেই নামানোটাই অপমানের চিহ্ন। বাগাভী শব্দগুচ্ছটির ব্যাখ্যা দেন এভাবে: আযাব দেখে লাঞ্ছিত ও অবনত। এভাবে তিনি চোখ নামানোকে জুড়ে দেন সেই দৃশ্যের সঙ্গে, যা চোখগুলো তখন দেখছে।"
           },
           {
             "en": "As-Sa'di looks inward for the cause. Their eyes are humbled, he says, from the terror and fright that has reached their hearts, so that the hearts submitted and were abased, and the eyes were lowered because of it. Al-Baghawi locates the cause in what the eyes see, as-Sa'di in what the heart already feels. Ibn Kathir's abridged English puts it in a phrase: their eyes will be covered with disgrace. Every gloss turns on that same word, and none of them softens it.",
@@ -217,11 +217,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first word has come down in more than a single form. At-Tabari reports that the readers of Madina generally read khushsha'an, with damma on the kha' and a doubled shin, a plural meaning khashi', humbled. Most readers of Kufa and some of Basra read khashi'an, with an alif, in the singular, following the reading of 'Abd Allah, which had khashi'atan absaruhum. Al-Baghawi names those who read khashi'an as Abu 'Amr, Ya'qub, Hamza and al-Kisa'i; al-Qurtubi names Hamza, al-Kisa'i and Abu 'Amr.",
-            "bn": "প্রথম শব্দটি একাধিক রূপে পৌঁছেছে। তাবারী জানান, মদীনার কারীরা সাধারণভাবে পড়েছেন খুশশাআন, খা-তে পেশ আর শীন-এ তাশদীদ দিয়ে। এটি বহুবচন, অর্থ খাশি, অর্থাৎ অবনত। কুফার অধিকাংশ কারী আর বসরার কয়েকজন পড়েছেন খাশিআন, আলিফসহ, একবচনে। তাঁরা অনুসরণ করেছেন আবদুল্লাহর পাঠ, যেখানে ছিল খাশিআতান আবসারুহুম। বাগাভী খাশিআন পাঠকারী হিসেবে নাম দেন আবু আমর, ইয়াকুব, হামযা ও কিসাঈর। কুরতুবী নাম দেন হামযা, কিসাঈ ও আবু আমরের।"
+            "bn": "প্রথম শব্দটি একাধিক রূপে পৌঁছেছে। তাবারী জানান, মদীনার কারীরা সাধারণত পড়েছেন খুশশাআন, খা-তে পেশ আর শীন-এ তাশদীদ দিয়ে। এটি বহুবচন, অর্থ খাশি-র মতোই: অবনত। কুফার অধিকাংশ কারী আর বসরার কয়েকজন পড়েছেন খাশিআন, আলিফসহ, একবচনে। তাঁরা অনুসরণ করেছেন আবদুল্লাহর পাঠ, যেখানে ছিল খাশিআতান আবসারুহুম। বাগাভীর হিসাবে খাশিআন পড়েছেন আবু আমর, ইয়াকুব, হামযা ও কিসাঈ। কুরতুবী নাম বলেন হামযা, কিসাঈ ও আবু আমরের।"
           },
           {
             "en": "Why may the word be singular when the eyes are many? The rule the three commentators give is that an adjective placed before a plural noun may be singular or plural, masculine or feminine. Al-Baghawi shows it with ordinary speech: you may say you passed men hasan, hasana or hisan of face. All three cite a line of verse, which al-Qurtubi attributes to al-Harith ibn Daws al-Iyadi, where hasanun stays singular before awjuhuhum, their faces. Whatever the form, the meaning holds: the eyes are lowered.",
-            "bn": "চোখ তো অনেক, তবু শব্দটি একবচনে আসে কীভাবে? তিন তাফসীরকারই যে নিয়ম দেন তা হলো, বহুবচন বিশেষ্যের আগে বিশেষণ বসলে তা একবচন বা বহুবচন, পুংলিঙ্গ বা স্ত্রীলিঙ্গ, যেকোনোটা হতে পারে। বাগাভী সাধারণ কথাবার্তা দিয়ে বোঝান: সুন্দর চেহারার লোকদের পাশ দিয়ে গেলাম, এ কথায় হাসান, হাসানা বা হিসান, তিনটিই বলা চলে। তিনজনই একটি কবিতার চরণ উদ্ধৃত করেন, যেখানে আওজুহুহুম, অর্থাৎ তাদের চেহারা, এর আগে হাসানুন একবচনেই থাকে। কুরতুবী চরণটিকে হারিস ইবন দাওস আল-ইয়াদীর বলে উল্লেখ করেন। রূপ যা-ই হোক, অর্থ একই থাকে: চোখগুলো অবনত।"
+            "bn": "চোখ তো অনেক, তবু শব্দটি একবচনে আসে কীভাবে? তিন তাফসীরকারই একই নিয়ম দেন: বহুবচন বিশেষ্যের আগে বিশেষণ বসলে তা একবচন বা বহুবচন, পুংলিঙ্গ বা স্ত্রীলিঙ্গ, যেকোনোটা হতে পারে। বাগাভী বোঝান রোজকার কথাবার্তা দিয়ে: সুন্দর চেহারার লোকদের পাশ দিয়ে গেলাম, এ কথায় হাসান, হাসানা বা হিসান, তিনটিই বলা চলে। তিনজনই কবিতার একটি চরণ উদ্ধৃত করেন, যেখানে আওজুহুহুম (তাদের চেহারা) শব্দের আগে হাসানুন একবচনেই থাকে। কুরতুবী চরণটিকে হারিস ইবন দাওস আল-ইয়াদীর বলে উল্লেখ করেন। রূপ যা-ই হোক, অর্থ একই: চোখগুলো অবনত।"
           }
         ]
       },
@@ -237,11 +237,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ka-annahum jaradun muntashir: as though they were locusts spreading. At-Tabari reads the likeness as one of movement: they come out of their graves as if, in their spreading and their hastening to the place of reckoning, they were spreading locusts. Ibn Kathir, in the Arabic, joins speed to purpose: in their spreading and the swiftness of their going to the place of reckoning, in answer to the caller, they are like locusts spread across the horizons. Al-Muyassar has nearly the same words, and adds that they hasten to what they were called to.",
-            "bn": "কাআন্নাহুম জারাদুম মুনতাশির: যেন তারা ছড়িয়ে পড়া পঙ্গপাল। তাবারী উপমাটিকে দেখেন চলার ছবি হিসেবে। কবর থেকে তারা এমনভাবে বেরিয়ে আসবে, যেন ছড়িয়ে পড়ায় আর হিসাবের স্থানের দিকে ছোটায় তারা ছড়িয়ে পড়া পঙ্গপাল। ইবন কাসীর আরবিতে গতির সঙ্গে লক্ষ্যও জুড়ে দেন। আহ্বানকারীর ডাকে সাড়া দিয়ে হিসাবের স্থানের দিকে তারা যে দ্রুত ছড়িয়ে যায়, তাতে তারা দিগন্তজুড়ে ছড়ানো পঙ্গপালের মতো। মুয়াসসারের কথাও প্রায় একই, সঙ্গে যোগ করে: যেদিকে তাদের ডাকা হয়েছে, সেদিকে তারা ছুটে চলেছে।"
+            "bn": "কাআন্নাহুম জারাদুম মুনতাশির: যেন তারা ছড়িয়ে পড়া পঙ্গপাল। তাবারী উপমাটিকে দেখেন চলার ছবি হিসেবে। কবর থেকে বেরিয়ে তারা যেভাবে চারদিকে ছড়িয়ে পড়ে আর হিসাবের জায়গার দিকে ছুটে যায়, তাতে মনে হয় যেন ছড়িয়ে পড়া পঙ্গপাল। ইবন কাসীর আরবিতে গতির সঙ্গে লক্ষ্যও জুড়ে দেন। আহ্বানকারীর ডাকে সাড়া দিয়ে তারা ছড়িয়ে পড়ে, দ্রুত ছুটে যায় হিসাবের জায়গার দিকে, যেন দিগন্তজুড়ে ছড়ানো পঙ্গপাল। মুয়াসসারের কথাও প্রায় একই, সঙ্গে যোগ করে: যেদিকে তাদের ডাকা হয়েছে, সেদিকেই তারা ছুটে চলেছে।"
           },
           {
             "en": "As-Sa'di draws a different feature out of the same image. They are like locusts, he says, because of how many they are and how they surge against each other: locusts scattered over the earth, multiplied beyond measure. Ibn Kathir's abridged English holds both features together, speaking of people gathering towards the area of reckoning in haste and in crowds. Speed and direction on one side, sheer number and crowding on the other: the commentators find more than a single likeness folded into the plain words jaradun muntashir.",
-            "bn": "একই উপমা থেকে সা'দী বের করেন আরেকটি দিক। তাঁর মতে তারা পঙ্গপালের মতো, কারণ তারা সংখ্যায় অগণিত, আর একে অপরের গায়ে উপচে পড়ছে। যেন জমিনজুড়ে ছড়িয়ে থাকা অসংখ্য পঙ্গপাল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ দুটো দিকই একসঙ্গে ধরে রাখে: মানুষ দলে দলে, তাড়াহুড়ো করে হিসাবের স্থানের দিকে জড়ো হচ্ছে। একদিকে গতি আর লক্ষ্য, অন্যদিকে বিপুল সংখ্যা আর ভিড়। জারাদুম মুনতাশির, এই সাদামাটা শব্দ দুটির ভেতরে তাফসীরকারেরা একাধিক মিল খুঁজে পান।"
+            "bn": "একই উপমা থেকে সা'দী বের করেন আরেকটি দিক। তাঁর মতে তারা পঙ্গপালের মতো, কারণ তারা সংখ্যায় অগণিত, আর ঢেউয়ের মতো একে অপরের গায়ে আছড়ে পড়ছে। যেন জমিনজুড়ে ছড়িয়ে থাকা অসংখ্য পঙ্গপাল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ দুটো দিকই একসঙ্গে ধরে রাখে: মানুষ দলে দলে, তাড়াহুড়ো করে হিসাবের স্থানের দিকে জড়ো হচ্ছে। একদিকে গতি আর লক্ষ্য, অন্যদিকে বিপুল সংখ্যা আর ভিড়। জারাদুম মুনতাশির, এই সাদামাটা দুটি শব্দের ভেতরেই তাফসীরকারেরা একাধিক মিল খুঁজে পান।"
           }
         ]
       },
@@ -253,7 +253,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Elsewhere the Qur'an uses a different insect for the same Day: yawma yakunu n-nasu ka-l-farashi l-mabthuth, the day people will be like scattered moths, in 101:4. Al-Qurtubi sets that verse beside this one and asks how the two images fit. His answer is that they are two descriptions at two different times. The first is at the moment of coming out of the graves: they come out terrified, not knowing where to turn, entering into each other, like scattered moths with no direction to aim for.",
-            "bn": "একই দিনের বর্ণনায় কুরআন অন্য জায়গায় আরেক পতঙ্গের নাম নিয়েছে: ইয়াওমা ইয়াকূনুন নাসু কাল ফারাশিল মাবসূস, যেদিন মানুষ হবে বিক্ষিপ্ত পতঙ্গের মতো, ১০১:৪ আয়াতে। কুরতুবী সেই আয়াতকে এ আয়াতের পাশে রেখে প্রশ্ন করেন, দুটি ছবি মেলে কীভাবে। তাঁর উত্তর: এ দুটি দুই ভিন্ন সময়ের দুই বর্ণনা। প্রথমটি কবর থেকে বেরোনোর মুহূর্তের। তারা বেরিয়ে আসে আতঙ্কিত হয়ে, কোন দিকে যাবে জানে না, একে অপরের মধ্যে ঢুকে পড়ে। তখন তারা বিক্ষিপ্ত পতঙ্গের মতো, যাদের যাওয়ার কোনো নির্দিষ্ট দিক নেই।"
+            "bn": "একই দিনের বর্ণনায় কুরআন অন্য জায়গায় আরেক পতঙ্গের নাম নিয়েছে: ইয়াওমা ইয়াকূনুন নাসু কাল ফারাশিল মাবসূস, যেদিন মানুষ হবে বিক্ষিপ্ত পতঙ্গের মতো, ১০১:৪ আয়াতে। কুরতুবী সেই আয়াতকে এ আয়াতের পাশে রেখে প্রশ্ন করেন, দুটি ছবি মেলে কীভাবে। তাঁর উত্তর: এ দুটি দুই ভিন্ন সময়ের দুই বর্ণনা। প্রথমটি কবর থেকে বেরোনোর মুহূর্তের। তারা বেরিয়ে আসে আতঙ্কিত হয়ে, কোন দিকে যাবে জানে না, একে অপরের গায়ে গিয়ে পড়ে। তখন তারা বিক্ষিপ্ত পতঙ্গের মতো, যাদের যাওয়ার কোনো নির্দিষ্ট দিক নেই।"
           },
           {
             "en": "The second time, in al-Qurtubi's account, comes when they hear the caller. Then they make for him, and they become like spreading locusts, because locusts have a direction they aim for. He quotes the verse running straight on into muhti'ina ila d-da'i, hastening towards the caller, at the start of 54:8. On his reading, the locust image here is the moment after the confusion: a crowd that has heard the call and now streams towards it, no longer milling about. For him the moths and the locusts are two stages of the same rising.",
@@ -277,7 +277,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir explains that hard day as terrible, horrifying and distressful, and supports it with 74:9 and 74:10: that Day will be a hard day, far from easy for the disbelievers. This must be said plainly. The verse describes what the text describes: a scene on the Day of Resurrection, and the deniers the passage has named. It licenses nothing against any living person or community. It gives nobody the right to look at a neighbour and assign him lowered eyes and a place in that crowd.",
-            "bn": "ইবন কাসীর সেই কঠিন দিনের ব্যাখ্যা দেন ভয়াবহ, আতঙ্কজনক ও যন্ত্রণাদায়ক দিন হিসেবে। সমর্থনে আনেন ৭৪:৯ ও ৭৪:১০ আয়াত: সেদিন হবে এক কঠিন দিন, কাফিরদের জন্য মোটেই সহজ নয়। কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে ঠিক তা-ই, যা পাঠে আছে: কিয়ামতের দিনের একটি দৃশ্য, আর এ অংশে যে অস্বীকারকারীদের কথা এসেছে তারা। আজ জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। প্রতিবেশীর দিকে তাকিয়ে তাকে নত চোখ আর ওই ভিড়ে জায়গা বরাদ্দ করে দেওয়ার অধিকার এ আয়াত কাউকে দেয়নি।"
+            "bn": "ইবন কাসীর সেই কঠিন দিনের ব্যাখ্যা দেন ভয়াবহ, আতঙ্কজনক ও যন্ত্রণাদায়ক দিন হিসেবে। সমর্থনে আনেন ৭৪:৯ ও ৭৪:১০ আয়াত: সেদিন হবে এক কঠিন দিন, কাফিরদের জন্য মোটেই সহজ নয়। কথাটা সোজাসুজি বলা দরকার। আয়াত ঠিক ততটুকুই বলে, যতটুকু তার ভাষায় আছে: কিয়ামতের দিনের একটি দৃশ্য, আর এ অংশে যে অস্বীকারকারীদের কথা এসেছে, তারা। আজ জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। প্রতিবেশীর দিকে তাকিয়ে তার চোখ নত বলে রায় দেওয়া, আর ওই ভিড়ে তার জায়গা ঠিক করে দেওয়ার অধিকার এ আয়াত কাউকে দেয়নি।"
           },
           {
             "en": "None of the eight commentaries read for this verse attaches a hadith to it, so no narration is quoted here. Nor do they give an occasion of revelation for it; the verse is read as the continuation of 54:6. Ma'arif al-Qur'an, in the English section that covers this group of verses, comments only on 54:3, every matter reaching its settled end, and says nothing particular on this verse. The commentators who do speak have been allowed to say no more than they said.",
@@ -293,7 +293,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi's gloss holds a quiet contrast. Khasha'a bi-basarihi means he lowered his gaze, and a person can do that today by choice, in humility before Allah, or have it done to him on that Day by abasement. At-Tabari's observation cuts both ways as well: might and abasement both show in the eyes. The verse invites a plain question. What do my eyes carry now, and what would I want them to carry when there is nothing left to choose?",
-            "bn": "কুরতুবীর ব্যাখ্যার ভেতরে একটা নীরব বৈপরীত্য আছে। খাশাআ বিবাসারিহি মানে সে দৃষ্টি নামিয়ে নিল। মানুষ আজ নিজের ইচ্ছায়, আল্লাহর সামনে বিনয় নিয়ে চোখ নামাতে পারে। আবার সেদিন লাঞ্ছনার কারণে তার চোখ নামিয়ে দেওয়া হতে পারে। তাবারীর পর্যবেক্ষণও দুদিকেই খাটে: মর্যাদা আর লাঞ্ছনা দুটোই ধরা পড়ে চোখে। আয়াতটি একটা সরল প্রশ্ন সামনে রাখে। আমার চোখ আজ কী বহন করছে? আর যখন বেছে নেওয়ার কিছুই থাকবে না, তখন চোখ কী বহন করুক বলে আমি চাই?"
+            "bn": "কুরতুবীর ব্যাখ্যার ভেতরে একটা নীরব বৈপরীত্য আছে। খাশাআ বিবাসারিহি মানে সে দৃষ্টি নামিয়ে নিল। মানুষ আজ নিজের ইচ্ছায়, আল্লাহর সামনে বিনয় নিয়ে চোখ নামাতে পারে। আবার সেদিন লাঞ্ছনার কারণে তার চোখ নামিয়ে দেওয়া হতে পারে। তাবারীর পর্যবেক্ষণও দুদিকেই খাটে: মর্যাদা আর লাঞ্ছনা দুটোই ধরা পড়ে চোখে। আয়াতটি একটা সরল প্রশ্ন সামনে রাখে। আমার চোখ আজ কী বয়ে বেড়ায়? আর যখন বেছে নেওয়ার কিছুই বাকি থাকবে না, তখন চোখে কী থাকুক বলে আমি চাইব?"
           },
           {
             "en": "The direction of the crowd matters too. Whether its locusts have a goal, as al-Qurtubi says, or none, as al-Baghawi says, on that Day nobody sets his own course; Ibn Kathir's English adds, on 54:8, that they hasten without being able to hesitate or slow down. The verses just before, 54:4 and 54:5, say that warnings full of deterrence had already reached the deniers and did not avail them. For the reader, the call that matters is whichever call can still be answered freely, today.",
@@ -308,16 +308,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Refrain, Four Times",
-          "bn": "একটি ধ্রুবপদ, চারবার"
+          "bn": "এক ধ্রুবপদ, চারবার"
         },
         "p": [
           {
             "en": "Surah al-Qamar tells one story repeatedly with different names in it. Nuh's people deny and the waters of the sky and the earth meet over them; Aad deny and a screaming wind carries them off; Thamud deny and a single blast leaves them like the dry twigs of a pen; the people of Lut deny and a storm of stones falls. After each of these four accounts, one line returns unchanged, at 54:17, 54:22, 54:32 and 54:40 — and We have certainly made the Quran easy for remembrance, so is there any who will remember.",
-            "bn": "সূরা আল-কামার একই গল্প বারবার বলে, কেবল নামগুলো বদলে যায়। নূহের জাতি অস্বীকার করে আর আসমান ও যমীনের পানি তাদের ওপর মিলিত হয়; আদ অস্বীকার করে আর এক গর্জনকারী ঝড় তাদের উড়িয়ে নেয়; সামূদ অস্বীকার করে আর একটিমাত্র বিকট আওয়াজ তাদের খোঁয়াড়ের শুকনো খড়কুটোর মতো করে ফেলে; লূতের জাতি অস্বীকার করে আর পাথরের ঝড় নেমে আসে। এই চারটি বিবরণের প্রতিটির পরে একই পঙক্তি অপরিবর্তিতভাবে ফিরে আসে — 54:17, 54:22, 54:32 ও 54:40 আয়াতে — আমি কুরআনকে উপদেশ গ্রহণের জন্য সহজ করে দিয়েছি, উপদেশ গ্রহণ করার কেউ আছে কি।"
+            "bn": "সূরা আল-কামার একই কাহিনি বারবার বলে, শুধু নামগুলো বদলায়। নূহের জাতি অস্বীকার করে, আর আসমান ও যমীনের পানি এসে তাদের ওপর মেলে। আদ অস্বীকার করে, আর গর্জন করা এক ঝড়ো বাতাস তাদের উড়িয়ে নিয়ে যায়। সামূদ অস্বীকার করে, আর একটিমাত্র বিকট আওয়াজে তারা হয়ে যায় খোঁয়াড়ের শুকনো খড়কুটোর মতো। লূতের জাতি অস্বীকার করে, আর নেমে আসে পাথরের ঝড়। চারটি কাহিনির প্রতিটির পরে একই পঙক্তি হুবহু ফিরে আসে, ৫৪:১৭, ৫৪:২২, ৫৪:৩২ ও ৫৪:৪০ আয়াতে: আমি কুরআনকে উপদেশ গ্রহণের জন্য সহজ করে দিয়েছি, অতএব উপদেশ গ্রহণকারী কেউ আছে কি?"
           },
           {
             "en": "The fifth people, Pharaoh's, are dealt with in 54:41-42 and do not receive the refrain; the surah turns instead to the listeners in Makkah. The closing question by itself, fahal min muddakir, appears twice more — at 54:15 after the ark, and at 54:51 near the end — six times in one surah. Counting them is the quickest way to feel what the surah is doing to its hearer.",
-            "bn": "পঞ্চম জাতি, অর্থাৎ ফিরআউনের লোকদের কথা আসে 54:41-42 আয়াতে, আর তারা এই ধ্রুবপদটি পায় না; সূরাটি বরং মক্কার শ্রোতাদের দিকে ফিরে যায়। শেষের প্রশ্নটি একা — ফাহাল মিম মুদ্দাকির — আরও দুবার আসে: 54:15 আয়াতে নৌকার পরে, আর 54:51 আয়াতে শেষের কাছে — এক সূরাতেই ছয়বার। এগুলো গুনে দেখাই দ্রুততম উপায়, সূরাটি তার শ্রোতার সাথে কী করছে তা অনুভব করার।"
+            "bn": "পঞ্চম জাতি ফেরাউনের লোকেরা। তাদের কথা আসে ৫৪:৪১-৪২ আয়াতে, কিন্তু তাদের পরে এ ধ্রুবপদ আর আসে না। সূরা বরং ফিরে তাকায় মক্কার শ্রোতাদের দিকে। শেষের প্রশ্নটুকু, ফাহাল মিম মুদ্দাকির, আলাদাভাবে আরও দুবার আসে: ৫৪:১৫ আয়াতে নৌকার কাহিনির পরে, আর ৫৪:৫১ আয়াতে সূরার শেষ দিকে। এক সূরাতেই মোট ছয়বার। গুনে দেখলেই সবচেয়ে দ্রুত টের পাওয়া যায়, সূরাটি তার শ্রোতার ভেতরে কী কাজ করছে।"
           }
         ]
       },
@@ -329,27 +329,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The claim is precise. Not that the Quran is easy, full stop — a Book carrying law, the unseen and sustained argument is not shallow. It is made easy lidh-dhikr, for remembrance. as-Sa'di divides the ease in two: the wording is eased for recitation and memorisation, and the meanings are eased for understanding and reflection. Neither half promises that mastery of the sciences costs nothing.",
-            "bn": "দাবিটি নিখুঁতভাবে নির্দিষ্ট। কথাটি এই নয় যে কুরআন এমনিতেই সহজ — যে কিতাব বিধান, গায়েব ও দীর্ঘ যুক্তি বহন করে তা অগভীর নয়। একে সহজ করা হয়েছে লিয্‌যিকর, অর্থাৎ স্মরণের জন্য। আস-সা'দী এই সহজতাকে দুই ভাগে ভাগ করেন: শব্দগুলো সহজ করা হয়েছে তিলাওয়াত ও মুখস্থ করার জন্য, আর অর্থগুলো সহজ করা হয়েছে বোঝা ও চিন্তা করার জন্য। এর কোনো ভাগই প্রতিশ্রুতি দেয় না যে কুরআনের শাস্ত্রগুলোতে দক্ষতা অর্জন বিনা পরিশ্রমে হবে।"
+            "bn": "দাবিটা খুব মাপা। কথাটা এই নয় যে কুরআন সব দিক থেকেই সহজ। যে কিতাবে আছে বিধিবিধান, গায়েবের খবর আর দীর্ঘ যুক্তির ধারা, তা হালকা কিতাব নয়। একে সহজ করা হয়েছে লিয্‌যিকর, অর্থাৎ স্মরণের জন্য। আস-সা'দী এই সহজকে দুই ভাগে দেখেন: শব্দগুলো সহজ করা হয়েছে তিলাওয়াত আর মুখস্থ করার জন্য, অর্থগুলো সহজ করা হয়েছে বোঝা আর চিন্তা-ভাবনার জন্য। কোনো ভাগেই এমন প্রতিশ্রুতি নেই যে কুরআনের শাস্ত্রগুলোয় পারদর্শী হতে কোনো পরিশ্রম লাগবে না।"
           },
           {
             "en": "The evidence is unusual for a claim made about a book. Children who speak no Arabic hold the entire text in memory. Blind men have carried it complete. No other book of that length is memorised whole by ordinary people in large numbers, and it has gone on happening for fourteen centuries in every language community that Islam reached.",
-            "bn": "একটি কিতাব সম্পর্কে করা দাবির তুলনায় এর প্রমাণটি অস্বাভাবিক। যেসব শিশু আরবি বলতেই পারে না, তারাও পুরো পাঠটি স্মৃতিতে ধরে রাখে। অন্ধ মানুষেরা এটি সম্পূর্ণ বয়ে নিয়েছেন। এই দৈর্ঘ্যের অন্য কোনো বই সাধারণ মানুষ এত বিপুল সংখ্যায় পুরোটা মুখস্থ করে না, আর ইসলাম যে ভাষাগোষ্ঠীতেই পৌঁছেছে সেখানেই চৌদ্দ শতাব্দী ধরে এটি ঘটে চলেছে।"
+            "bn": "কোনো বই নিয়ে করা দাবির পক্ষে এমন প্রমাণ সচরাচর মেলে না। আরবি বলতে পারে না এমন শিশুরাও পুরো কুরআন মুখস্থ রাখে। অন্ধ মানুষেরা গোটা কুরআন বুকে ধারণ করেছেন। এত বড় আর কোনো বই সাধারণ মানুষ এত বিপুল সংখ্যায় পুরোটা মুখস্থ করে না। আর ইসলাম যে ভাষার মানুষের কাছেই পৌঁছেছে, সেখানেই চৌদ্দশো বছর ধরে এমনটা ঘটে চলেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "A Different Easing",
-          "bn": "ভিন্ন এক সহজীকরণ"
+          "bn": "আরেক রকম সহজ করা"
         },
         "p": [
           {
             "en": "Two other verses use the same verb about the Quran and mean something else by it. 44:58 says We have only eased it in your tongue, that they might be reminded. 19:97 says We have only eased it in your tongue so that you may give good tidings by it to the righteous and warn by it a hostile people. Both ease it in the Prophet's ﷺ tongue — in his language, for delivery.",
-            "bn": "আরও দুটি আয়াত কুরআন সম্পর্কে একই ক্রিয়া ব্যবহার করে, কিন্তু অর্থ করে ভিন্ন কিছু। 44:58 বলে, আমি তো একে তোমার ভাষায় সহজ করে দিয়েছি, যাতে তারা উপদেশ গ্রহণ করে। 19:97 বলে, আমি একে তোমার ভাষায় সহজ করেছি, যাতে তুমি এর দ্বারা মুত্তাকীদের সুসংবাদ দিতে পার আর ঝগড়াটে এক সম্প্রদায়কে সতর্ক করতে পার। দুটিই একে সহজ করে নবী ﷺ-এর জিহ্বায় — তাঁর ভাষায়, পৌঁছে দেওয়ার জন্য।"
+            "bn": "আরও দুটি আয়াত কুরআন সম্পর্কে একই ক্রিয়া ব্যবহার করে, তবে সেখানে অর্থ ভিন্ন। ৪৪:৫৮ আয়াতে আছে: আমি তো একে তোমার ভাষায় সহজ করে দিয়েছি, যাতে তারা উপদেশ গ্রহণ করে। ১৯:৯৭ আয়াতে আছে: আমি একে তোমার ভাষায় সহজ করেছি, যাতে তুমি এর দ্বারা মুত্তাকীদের সুসংবাদ দিতে পার আর ঝগড়াটে সম্প্রদায়কে সতর্ক করতে পার। দুই জায়গাতেই সহজ করা হয়েছে নবী ﷺ-এর জবানে, অর্থাৎ তাঁর ভাষায়, যাতে তিনি বাণীটা পৌঁছে দিতে পারেন।"
           },
           {
             "en": "This verse eases it in the hearer instead. There the object of the easing is a messenger's speech; here it is a listener's memory and understanding. Put together, the three describe a complete transmission — a message placed into a language people already spoke, and then made to stay in them. None of the three is a claim that the Quran is simple. All three are claims about access.",
-            "bn": "এই আয়াত বরং একে সহজ করে শ্রোতার ভেতরে। সেখানে সহজ করার লক্ষ্য একজন রাসূলের বাচন; এখানে লক্ষ্য একজন শ্রোতার স্মৃতি ও বোধ। একসাথে রাখলে তিনটি আয়াত একটি পূর্ণাঙ্গ হস্তান্তরের বর্ণনা দেয় — এমন এক ভাষায় বার্তা রাখা যা মানুষ আগে থেকেই বলত, আর তারপর তা তাদের ভেতরে গেঁথে দেওয়া। তিনটির কোনোটিই এই দাবি করে না যে কুরআন সরল। তিনটিই দাবি করে নাগাল পাওয়ার কথা।"
+            "bn": "এ আয়াত কিন্তু সহজ করেছে শ্রোতার ভেতরে। ওই দুই আয়াতে সহজ করা হয়েছে একজন রাসূলের মুখের কথা, আর এখানে শ্রোতার স্মৃতি আর বোঝার ক্ষমতা। তিনটি আয়াত মিলিয়ে পড়লে বাণী পৌঁছানোর পুরো পথটা ধরা পড়ে। বার্তা রাখা হলো এমন ভাষায়, যা মানুষ আগে থেকেই বলত, তারপর তা গেঁথে দেওয়া হলো তাদের ভেতরে। তিনটির কোনোটিই বলে না যে কুরআন সরল। তিনটির কথাই কুরআনের নাগাল পাওয়া নিয়ে।"
           }
         ]
       },
@@ -361,11 +361,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is seven words in Arabic, and the last of them repays attention. Muddakir comes from the root of dhikr, remembrance. Its original form was mudhtakir; the grammarians describe how the ta assimilated into the dhal, producing a doubled dal and the compact muddakir that we recite. The word ended up shorter and easier on the tongue than the form it came from.",
-            "bn": "আয়াতটি আরবিতে সাতটি শব্দ, আর তার শেষ শব্দটি মনোযোগের প্রতিদান দেয়। মুদ্দাকির এসেছে যিকর অর্থাৎ স্মরণের ধাতু থেকে। এর মূল রূপ ছিল মুয্‌তাকির; ব্যাকরণবিদরা বর্ণনা করেন কীভাবে 'তা' অক্ষরটি 'যাল'-এর সাথে মিশে যায়, ফলে তৈরি হয় দ্বিত্ব 'দাল' আর আমাদের তিলাওয়াত করা সংহত রূপ মুদ্দাকির। শব্দটি শেষ পর্যন্ত যে রূপ থেকে এসেছে তার চেয়ে ছোট ও জিহ্বায় সহজ হয়ে দাঁড়িয়েছে।"
+            "bn": "আয়াতটি আরবিতে সাতটি শব্দের, আর শেষ শব্দটির দিকে একটু মন দিলে লাভ আছে। মুদ্দাকির এসেছে জিকির, অর্থাৎ স্মরণ শব্দের ধাতু থেকে। এর মূল রূপ ছিল মুয্‌তাকির। ব্যাকরণবিদরা দেখান, কীভাবে 'তা' অক্ষরটি 'যাল'-এর সঙ্গে মিশে গেছে। তাতে তৈরি হয়েছে তাশদীদযুক্ত 'দাল', আর আমরা যে ছোট্ট রূপটি তিলাওয়াত করি, সেই মুদ্দাকির। যে রূপ থেকে শব্দটা এসেছে, শেষে তার চেয়ে ছোট আর উচ্চারণে সহজ হয়ে দাঁড়িয়েছে।"
           },
           {
             "en": "There is a quiet demonstration in that. A verse announcing that the Book has been made easy chooses, for its final word, one that Arabic itself has smoothed. And the word is a participle rather than a verb — is there any rememberer — so the question asks after a kind of person, not a single act performed once.",
-            "bn": "এর ভেতরে একটি নীরব প্রমাণ আছে। যে আয়াত ঘোষণা করছে কিতাবকে সহজ করা হয়েছে, সেটিই তার শেষ শব্দ হিসেবে বেছে নেয় এমন একটি শব্দ, যাকে আরবি ভাষা নিজেই মসৃণ করে নিয়েছে। আর শব্দটি ক্রিয়া নয়, ইসমে ফাইল — অর্থাৎ 'স্মরণকারী কেউ আছে কি' — তাই প্রশ্নটি খোঁজ করে এক ধরনের মানুষের, একবার করে ফেলা কোনো কাজের নয়।"
+            "bn": "এর ভেতরে চুপচাপ একটা প্রমাণও আছে। যে আয়াত ঘোষণা দিচ্ছে কিতাবকে সহজ করা হয়েছে, সেই আয়াতই শেষ শব্দ হিসেবে বেছে নিয়েছে এমন একটি শব্দ, যাকে আরবি ভাষা নিজেই মসৃণ করে নিয়েছে। আরও আছে: শব্দটি ক্রিয়া নয়, ইসমে ফাইল। অর্থাৎ প্রশ্নটা হলো, স্মরণকারী কেউ আছে কি? তাই প্রশ্নটি খোঁজে এক ধরনের মানুষকে, একবার করে ফেলা কোনো কাজকে নয়।"
           }
         ]
       },
@@ -377,23 +377,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The question is left open on purpose. It names nobody, excludes nobody, and is never answered inside the surah. Ibn Kathir preserves a remark of the early scholar Matar al-Warraq on this verse: is there any seeker of knowledge, that he may be helped in it? He read the question not as a complaint about people but as an offer left standing.",
-            "bn": "প্রশ্নটি ইচ্ছাকৃতভাবেই খোলা রাখা হয়েছে। এটি কারও নাম নেয় না, কাউকে বাদ দেয় না, আর সূরার ভেতরে কখনো এর উত্তর দেওয়া হয় না। ইবনে কাসীর এই আয়াত সম্পর্কে প্রাচীন যুগের আলিম মাতার আল-ওয়াররাকের একটি উক্তি সংরক্ষণ করেছেন: জ্ঞানের কোনো অন্বেষক আছে কি, যাকে এতে সাহায্য করা হবে? তিনি প্রশ্নটিকে মানুষ সম্পর্কে অভিযোগ হিসেবে নয়, বরং খোলা রেখে দেওয়া এক প্রস্তাব হিসেবে পড়েছেন।"
+            "bn": "প্রশ্নটি ইচ্ছা করেই খোলা রাখা হয়েছে। এতে কারও নাম নেই, কাউকে বাদও দেওয়া হয়নি, আর সূরার ভেতরে কোথাও এর উত্তর আসেনি। ইবনে কাসীর এ আয়াত প্রসঙ্গে প্রথম যুগের আলিম মাতার আল-ওয়াররাকের একটি কথা সংরক্ষণ করেছেন: জ্ঞান অন্বেষণকারী কেউ আছে কি, যাকে এ ব্যাপারে সাহায্য করা হবে? তিনি প্রশ্নটিকে মানুষের বিরুদ্ধে অভিযোগ হিসেবে পড়েননি, পড়েছেন খোলা রেখে দেওয়া এক প্রস্তাব হিসেবে।"
           },
           {
             "en": "as-Sa'di reads it the same way — that whoever turns towards this Book is helped towards what he turned for. That reframes the whole line. The ease is not merely a description of a text sitting on a shelf; it is a promise attached to the act of approaching it. The one who never begins never finds out whether the promise was true.",
-            "bn": "আস-সা'দীও একইভাবে পড়েন — যে-ই এই কিতাবের দিকে ফেরে, সে যার জন্য ফিরেছে সেদিকে তাকে সাহায্য করা হয়। এতে গোটা পঙক্তির অর্থ নতুন করে দাঁড়ায়। এই সহজতা কেবল তাকে তুলে রাখা এক পাঠের বর্ণনা নয়; এটি সেই কিতাবের দিকে এগিয়ে যাওয়ার কাজের সাথে যুক্ত এক প্রতিশ্রুতি। যে কখনো শুরুই করে না, সে কখনো জানতে পারে না প্রতিশ্রুতিটি সত্য ছিল কি না।"
+            "bn": "আস-সা'দীও একইভাবে পড়েন: যে এই কিতাবের দিকে এগোয়, যে উদ্দেশ্যে এগিয়েছে সেদিকে তাকে সাহায্য করা হয়। এতে পুরো পঙক্তিটার মানে নতুন করে ধরা দেয়। এই সহজতা শুধু তাকে তুলে রাখা কোনো বইয়ের বর্ণনা নয়। এ এক প্রতিশ্রুতি, যা জড়িয়ে আছে কিতাবটির দিকে এগিয়ে যাওয়ার সঙ্গে। যে কখনো শুরুই করে না, সে কোনোদিন জানতেই পারে না প্রতিশ্রুতিটা সত্য ছিল কি না।"
           }
         ]
       },
       {
         "h": {
           "en": "Taking the Offer",
-          "bn": "প্রস্তাবটি গ্রহণ করা"
+          "bn": "প্রস্তাবে সাড়া দেওয়া"
         },
         "p": [
           {
             "en": "Practically, the verse argues for small and constant over large and rare. A few lines memorised properly, a portion read with the meaning in front of you, one verse carried into the day. The placement matters here too: the refrain arrives four times in the middle of accounts of nations that were warned and did not remember, offered each time as the way out that they declined to take.",
-            "bn": "বাস্তবে আয়াতটি বড় ও কদাচিৎ-এর বদলে ছোট ও নিয়মিতের পক্ষে যুক্তি দেয়। কয়েকটি পঙক্তি ঠিকভাবে মুখস্থ করা, অর্থ সামনে রেখে এক অংশ পড়া, একটি আয়াত দিনের ভেতর বয়ে নিয়ে যাওয়া। এখানে অবস্থানটিও গুরুত্বপূর্ণ: ধ্রুবপদটি চারবার আসে এমন সব জাতির বিবরণের মাঝখানে, যাদের সতর্ক করা হয়েছিল কিন্তু তারা স্মরণ করেনি — প্রতিবারই এটি পেশ করা হয় সেই বেরিয়ে আসার পথ হিসেবে, যা তারা নিতে অস্বীকার করেছিল।"
+            "bn": "কাজের কথায় এলে, আয়াতটি বলে বড় কিন্তু কালেভদ্রে করার চেয়ে ছোট কিন্তু নিয়মিত করা ভালো। কয়েকটি লাইন ঠিকঠাক মুখস্থ করা, অর্থ সামনে রেখে কিছু অংশ পড়া, একটি আয়াত মনে নিয়ে সারাদিন চলা। আয়াতটির অবস্থানও এখানে অর্থবহ। ধ্রুবপদটি চারবার আসে এমন সব জাতির কাহিনির মাঝখানে, যাদের সতর্ক করা হয়েছিল, কিন্তু তারা স্মরণ করেনি। প্রতিবার এটি আসে বেরিয়ে আসার পথ হিসেবে, যে পথ তারা নিতে রাজি হয়নি।"
           }
         ]
       }
@@ -413,7 +413,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ma'arif al-Qur'an, commenting on the passage as a whole, explains why the telling is so brief. The stories of these nations are recounted in detail on several occasions in the Qur'an, it says, and here they have been condensed. It counts five nations in this stretch of the surah and calls them the strongest and most resourceful, so that the passage shows how such powers were brought down. After each comes the question of how the punishment and the warnings were, and for 'Ad the answer is this single verse of nine words, followed by 54:20.",
-            "bn": "মাআরিফুল কুরআন পুরো অংশটি একসঙ্গে আলোচনা করে, আর বলে দেয় বর্ণনা এত সংক্ষিপ্ত কেন। এসব জাতির কাহিনি কুরআনে কয়েক জায়গায় বিস্তারিত এসেছে, এখানে সেগুলোকে গুটিয়ে আনা হয়েছে। সূরার এ অংশে সে পাঁচটি জাতিকে গোনে, আর বলে এরা ছিল সবচেয়ে শক্তিশালী, সবচেয়ে সম্পদশালী। অংশটির কাজ দেখানো, এমন শক্তিগুলো কীভাবে ধসে পড়েছিল। প্রত্যেক জাতির পরে আসে একই প্রশ্ন, কেমন ছিল শাস্তি আর সতর্কবাণী। ‘আদের বেলায় জবাব এই একটি আয়াত, মাত্র নয়টি শব্দের, আর তার পরে ৫৪:২০।"
+            "bn": "মাআরিফুল কুরআন পুরো অংশটি একসঙ্গে আলোচনা করে, আর বলে দেয় বর্ণনা এত সংক্ষিপ্ত কেন। এসব জাতির কাহিনি কুরআনে কয়েক জায়গায় বিস্তারিত এসেছে, এখানে সেগুলোকে গুটিয়ে আনা হয়েছে। সূরার এ অংশে মাআরিফুল কুরআন পাঁচটি জাতির কথা গোনে, আর বলে এরা ছিল সবচেয়ে শক্তিশালী, সবচেয়ে সম্পদশালী। অংশটির কাজ দেখানো, এমন শক্তিগুলো কীভাবে ধসে পড়েছিল। প্রত্যেক জাতির পরে আসে একই প্রশ্ন, কেমন ছিল শাস্তি আর সতর্কবাণী। ‘আদের বেলায় জবাব এই একটি আয়াত, মাত্র নয়টি শব্দের, আর তার পরে ৫৪:২০।"
           }
         ]
       },
@@ -468,7 +468,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Wednesday Reports, Weighed",
-          "bn": "বুধবারের বর্ণনা, মেপে দেখা"
+          "bn": "বুধবারের বর্ণনাগুলো যাচাই"
         },
         "p": [
           {
