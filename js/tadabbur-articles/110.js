@@ -16,7 +16,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Three Verses at the End",
-          "bn": "শেষের তিন আয়াত"
+          "bn": "শেষের তিন আয়াত"
         },
         "p": [
           {
@@ -72,7 +72,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Tawwab",
-          "bn": "তাওওয়াব"
+          "bn": "তাওওয়াব"
         },
         "p": [
           {
@@ -84,7 +84,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Etiquette of Arriving",
-          "bn": "পৌঁছে যাওয়ার আদব"
+          "bn": "পৌঁছে যাওয়ার আদব"
         },
         "p": [
           {

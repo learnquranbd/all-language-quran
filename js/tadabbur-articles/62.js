@@ -44,7 +44,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Four Names in Two Pairs",
-          "bn": "দুই জোড়ায় চারটি নাম"
+          "bn": "দুই জোড়ায় চারটি নাম"
         },
         "p": [
           {
@@ -104,7 +104,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Second Command to Say",
-          "bn": "দ্বিতীয়বার 'বলো'"
+          "bn": "দ্বিতীয়বার 'বলো'"
         },
         "p": [
           {
@@ -152,7 +152,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Returned, Then Informed",
-          "bn": "ফিরিয়ে নেওয়া, তারপর জানিয়ে দেওয়া"
+          "bn": "ফিরিয়ে নেওয়া, তারপর জানিয়ে দেওয়া"
         },
         "p": [
           {

@@ -16,16 +16,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Heavens on the Verge",
-          "bn": "ফেটে পড়ার কিনারে আকাশ"
+          "bn": "ফেটে পড়ার কিনারে আকাশ"
         },
         "p": [
           {
             "en": "Takadu as-samawatu yatafattarna min fawqihinna: the heavens almost break apart from above them. The verse follows 42:4, which closes on He is the Most High, the Most Great, and it shows what that height and greatness nearly do to the heavens. At-Tabari and the Muyassar gloss yatafattarna as yatashaqqaqna, they crack open. As-Suddi, in at-Tabari's report, gives the same gloss and explains munfatirun bihi in 73:18 as split by it. Ad-Dahhak, also through at-Tabari, says yatasadda'na, they fracture.",
-            "bn": "তাকাদুস সামাওয়াতু ইয়াতাফাত্তারনা মিন ফাওকিহিন্না: আকাশগুলো উপর থেকে ফেটে পড়ার উপক্রম হয়। এর ঠিক আগের আয়াত ৪২:৪ শেষ হয়েছে এই কথায়: তিনি সর্বোচ্চ, মহান। এবার আয়াত দেখায়, সেই উচ্চতা আর মহত্ত্ব আকাশের কী দশা প্রায় করে ফেলে। তাবারী ও মুয়াসসার ইয়াতাফাত্তারনার অর্থ করেন ইয়াতাশাক্কাকনা, অর্থাৎ ফেটে চৌচির হয়। তাবারীর বর্ণনায় সুদ্দীও একই অর্থ দেন, আর ৭৩:১৮ আয়াতের মুনফাতিরুম বিহী কথাটির ব্যাখ্যা দেন: তাতে বিদীর্ণ। দাহহাকও তাবারীর সূত্রে বলেন ইয়াতাসাদ্দা'না, অর্থাৎ ভেঙে ফাটল ধরে।"
+            "bn": "তাকাদুস সামাওয়াতু ইয়াতাফাত্তারনা মিন ফাওকিহিন্না: আকাশগুলো উপর থেকে ফেটে পড়ার উপক্রম হয়। এর ঠিক আগের আয়াত ৪২:৪ শেষ হয়েছে এই কথায়: তিনি সর্বোচ্চ, মহান। এবার আয়াত দেখায়, সেই উচ্চতা আর মহত্ত্ব আকাশের কী দশা প্রায় করে ফেলে। তাবারী ও মুয়াসসার ইয়াতাফাত্তারনার অর্থ করেন ইয়াতাশাক্কাকনা, অর্থাৎ ফেটে চৌচির হয়। তাবারীর বর্ণনায় সুদ্দীও একই অর্থ দেন, আর ৭৩:১৮ আয়াতের মুনফাতিরুম বিহী কথাটির ব্যাখ্যা দেন: তাতে বিদীর্ণ। দাহহাকও তাবারীর সূত্রে বলেন ইয়াতাসাদ্দা'না, অর্থাৎ ভেঙে ফাটল ধরে।"
           },
           {
             "en": "Al-Qurtubi records how the words were read. Most read takadu with the letter ta', while Nafi', Ibn Waththab and al-Kisa'i read it with ya'. Yatafattarna, with its middle root letter doubled, is the reading of most; Abu 'Amr, Abu Bakr, al-Mufaddal and Abu 'Ubayd read yanfatirna, from infitar, the word of 82:1, when the sky breaks apart. He adds that he has already explained this under Surah Maryam. In every reading the verb is governed by takada, almost: the heavens are on the verge, and the verse stops there.",
-            "bn": "শব্দগুলো কীভাবে পড়া হয়েছে, কুরতুবী তা লিখে রেখেছেন। অধিকাংশ কারী তাকাদু পড়েন 'তা' অক্ষর দিয়ে, আর নাফি', ইবন ওয়াসসাব ও কিসাঈ পড়েন 'ইয়া' দিয়ে। 'ত্বা' অক্ষরে তাশদীদসহ ইয়াতাফাত্তারনা অধিকাংশের পাঠ। আবু আমর, আবু বকর, মুফাদ্দাল ও আবু উবাইদ পড়েন ইয়ানফাতিরনা, ইনফিতার থেকে। ৮২:১ আয়াতে এই শব্দই এসেছে: যখন আকাশ বিদীর্ণ হবে। কুরতুবী জানান, সূরা মারইয়ামে তিনি এর ব্যাখ্যা আগেই দিয়েছেন। যে পাঠই ধরা হোক, ক্রিয়ার আগে বসে আছে তাকাদা, প্রায়। আকাশ কিনারায় এসে দাঁড়িয়েছে, আয়াত সেখানেই থামে।"
+            "bn": "শব্দগুলো কীভাবে পড়া হয়েছে, কুরতুবী তা লিখে রেখেছেন। অধিকাংশ কারী তাকাদু পড়েন 'তা' অক্ষর দিয়ে, আর নাফি', ইবন ওয়াসসাব ও কিসাঈ পড়েন 'ইয়া' দিয়ে। 'ত্বা' অক্ষরে তাশদীদসহ ইয়াতাফাত্তারনা অধিকাংশের পাঠ। আবু আমর, আবু বকর, মুফাদ্দাল ও আবু উবাইদ পড়েন ইয়ানফাতিরনা, ইনফিতার থেকে। ৮২:১ আয়াতে এই শব্দই এসেছে: যখন আকাশ বিদীর্ণ হবে। কুরতুবী জানান, সূরা মারইয়ামে তিনি এর ব্যাখ্যা আগেই দিয়েছেন। যে পাঠই ধরা হোক, ক্রিয়ার আগে বসে আছে তাকাদা, প্রায়। আকাশ কিনারায় এসে দাঁড়িয়েছে, আয়াত সেখানেই থামে।"
           }
         ]
       },
@@ -37,11 +37,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Why would the heavens nearly split? At-Tabari's own answer is short: they almost crack open from above the earths, min 'azamat ar-Rahman wa jalalihi, from the greatness of the Most Merciful and His majesty. He adds that the people of interpretation said the same, and gives their words. Ibn 'Abbas (RA), in his report, said: from the weight of the Most Merciful and His greatness, blessed and exalted is He. Qatadah said: from the greatness of Allah and His majesty. Ad-Dahhak said: they fracture from the greatness of Allah.",
-            "bn": "আকাশ কেন ফেটে পড়ার উপক্রম হবে? তাবারীর নিজের জবাব সংক্ষিপ্ত: জমিনগুলোর উপর থেকে আকাশ প্রায় ফেটে যায় মিন আযামাতির রাহমানি ওয়া জালালিহী, পরম দয়াময়ের মহত্ত্ব ও প্রতাপের কারণে। তিনি জানান, তাফসীরের আলেমরাও এমনই বলেছেন, এবং তাঁদের কথা উদ্ধৃত করেন। তাঁর বর্ণনায় ইবন আব্বাস (রাঃ) বলেছেন: পরম দয়াময়ের ভার ও তাঁর মহত্ত্বের কারণে, তিনি বরকতময়, সুউচ্চ। কাতাদা বলেছেন: আল্লাহর মহত্ত্ব ও প্রতাপের কারণে। দাহহাক বলেছেন: আল্লাহর মহত্ত্বের কারণে আকাশে ফাটল ধরে।"
+            "bn": "আকাশ কেন ফেটে পড়ার উপক্রম হবে? তাবারীর নিজের জবাব সংক্ষিপ্ত: জমিনগুলোর উপর থেকে আকাশ প্রায় ফেটে যায় মিন আযামাতির রাহমানি ওয়া জালালিহী, পরম দয়াময়ের মহত্ত্ব ও প্রতাপের কারণে। তিনি জানান, তাফসীরের আলেমরাও এমনই বলেছেন, এবং তাঁদের কথা উদ্ধৃত করেন। তাঁর বর্ণনায় ইবন আব্বাস (রাঃ) বলেছেন: পরম দয়াময়ের ভার ও তাঁর মহত্ত্বের কারণে, তিনি বরকতময়, সুউচ্চ। কাতাদা বলেছেন: আল্লাহর মহত্ত্ব ও প্রতাপের কারণে। দাহহাক বলেছেন: আল্লাহর মহত্ত্বের কারণে আকাশে ফাটল ধরে।"
           },
           {
             "en": "Ibn Kathir names five who said it: Ibn 'Abbas (RA), ad-Dahhak, Qatadah, as-Suddi and Ka'b al-Ahbar, in a short phrase, faraqan min al-'azamah, out of fear, from the greatness; the abridged English renders it out of fear of His might. The Muyassar has from the greatness of the Most Merciful and His majesty. Al-Qurtubi reports ad-Dahhak and as-Suddi: they split from the greatness and majesty of Allah above them. These are the commentators' own words, and the article adds nothing of its own to them about Allah's attributes.",
-            "bn": "ইবন কাসীর পাঁচজনের নাম করেন, যাঁরা এ কথা বলেছেন: ইবন আব্বাস (রাঃ), দাহহাক, কাতাদা, সুদ্দী ও কা'ব আল-আহবার। কথাটা ছোট্ট: ফারাকান মিনাল আযামাহ, মহত্ত্বের ভয়ে। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে এসেছে: তাঁর পরাক্রমের ভয়ে। মুয়াসসার বলে: পরম দয়াময়ের মহত্ত্ব ও প্রতাপের কারণে। কুরতুবী দাহহাক ও সুদ্দীর কথা আনেন: আল্লাহর মহত্ত্ব ও প্রতাপের কারণে আকাশ ফেটে যায়, ফাওকাহুন্না, তাদের উপরে। এগুলো তাফসীরকারদের নিজেদের ভাষা। আল্লাহর গুণাবলি নিয়ে এ লেখা তাঁদের কথার সঙ্গে নিজের কিছু যোগ করে না।"
+            "bn": "ইবন কাসীর পাঁচজনের নাম করেন, যাঁরা এ কথা বলেছেন: ইবন আব্বাস (রাঃ), দাহহাক, কাতাদা, সুদ্দী ও কা'ব আল-আহবার। কথাটা ছোট্ট: ফারাকান মিনাল আযামাহ, মহত্ত্বের ভয়ে। তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণে এসেছে: তাঁর পরাক্রমের ভয়ে। মুয়াসসার বলে: পরম দয়াময়ের মহত্ত্ব ও প্রতাপের কারণে। কুরতুবী দাহহাক ও সুদ্দীর কথা আনেন: আল্লাহর মহত্ত্ব ও প্রতাপের কারণে আকাশ ফেটে যায়, ফাওকাহুন্না, তাদের উপরে। এগুলো তাফসীরকারদের নিজেদের ভাষা। আল্লাহর গুণাবলি নিয়ে এ লেখা তাঁদের কথার সঙ্গে নিজের কিছু যোগ করে না।"
           }
         ]
       },
@@ -53,19 +53,19 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Baghawi gives a different cause. Each heaven splits above the heaven next to it min qawl al-mushrikin, from the saying of the polytheists: Allah has taken a son. He names its parallel in Surah Maryam, 19:88 to 19:90: they say the Most Merciful has taken a son; you have brought something monstrous; the heavens almost split from it, the earth cleaves and the mountains fall in ruin. Al-Qurtubi reports the same reading from Ibn 'Abbas (RA): each heaven nearly splits above the next, from the polytheists' saying.",
-            "bn": "বাগাভী ভিন্ন এক কারণ দেখান। প্রতিটি আকাশ তার পাশের আকাশের উপর ফেটে পড়ে মিন কাওলিল মুশরিকীন, মুশরিকদের এই কথার কারণে: আল্লাহ সন্তান গ্রহণ করেছেন। এর সমান্তরাল আয়াত হিসেবে তিনি সূরা মারইয়ামের ১৯:৮৮ থেকে ১৯:৯০ উল্লেখ করেন। সেখানে আছে: তারা বলে, পরম দয়াময় সন্তান গ্রহণ করেছেন। তোমরা তো এক জঘন্য কথা নিয়ে এসেছ। এতে আকাশ ফেটে পড়ার উপক্রম হয়, জমিন বিদীর্ণ হয়, পাহাড় ভেঙে ধসে পড়ে। কুরতুবী ইবন আব্বাস (রাঃ) থেকেও এই ব্যাখ্যা বর্ণনা করেন: মুশরিকদের সেই কথার কারণে প্রতিটি আকাশ পরেরটির উপর ফেটে পড়ার উপক্রম হয়।"
+            "bn": "বাগাভী ভিন্ন এক কারণ দেখান। প্রতিটি আকাশ তার পাশের আকাশের উপর ফেটে পড়ে মিন কাওলিল মুশরিকীন, মুশরিকদের এই কথার কারণে: আল্লাহ সন্তান গ্রহণ করেছেন। এর সমান্তরাল আয়াত হিসেবে তিনি সূরা মারইয়ামের ১৯:৮৮ থেকে ১৯:৯০ উল্লেখ করেন। সেখানে আছে: তারা বলে, পরম দয়াময় সন্তান গ্রহণ করেছেন। তোমরা তো এক জঘন্য কথা নিয়ে এসেছ। এতে আকাশ ফেটে পড়ার উপক্রম হয়, জমিন বিদীর্ণ হয়, পাহাড় ভেঙে ধসে পড়ে। কুরতুবী ইবন আব্বাস (রাঃ) থেকেও এই ব্যাখ্যা বর্ণনা করেন: মুশরিকদের সেই কথার কারণে প্রতিটি আকাশ পরেরটির উপর ফেটে পড়ার উপক্রম হয়।"
           },
           {
             "en": "So one name stands behind two readings. At-Tabari and Ibn Kathir report Ibn 'Abbas (RA) on awe of the greatness; al-Qurtubi reports him on the polytheists' saying. The sources consulted for this verse give both, and this article keeps both without choosing between them. One difference of wording is plain on the page: 19:90 says the heavens almost split minhu, from it, the monstrous saying, while 42:5 says min fawqihinna, from above them. Al-Baghawi still reads the two passages together.",
-            "bn": "তাহলে একই নামের পেছনে দুই রকম ব্যাখ্যা। তাবারী ও ইবন কাসীর ইবন আব্বাস (রাঃ) থেকে আনেন মহত্ত্বের ভয়ের কথা, আর কুরতুবী তাঁর থেকে আনেন মুশরিকদের কথার ব্যাখ্যা। এ আয়াতের জন্য সংগৃহীত তাফসীরে দুটোই আছে। এ লেখা দুটোই রাখছে, কোনোটিকে বেছে নিচ্ছে না। শব্দের একটা পার্থক্য অবশ্য চোখে পড়ে। ১৯:৯০ আয়াতে আকাশ ফেটে পড়ার উপক্রম মিনহু, তা থেকে, মানে সেই জঘন্য কথা থেকে। আর ৪২:৫ আয়াতে আছে মিন ফাওকিহিন্না, তাদের উপর থেকে। তবু বাগাভী দুই জায়গাকে একসঙ্গে পড়েন।"
+            "bn": "তাহলে একই নামের পেছনে দুই রকম ব্যাখ্যা। তাবারী ও ইবন কাসীর ইবন আব্বাস (রাঃ) থেকে আনেন মহত্ত্বের ভয়ের কথা, আর কুরতুবী তাঁর থেকে আনেন মুশরিকদের কথার ব্যাখ্যা। এ আয়াতের জন্য সংগৃহীত তাফসীরে দুটোই আছে। এ লেখা দুটোই রাখছে, কোনোটিকে বেছে নিচ্ছে না। শব্দের একটা পার্থক্য অবশ্য চোখে পড়ে। ১৯:৯০ আয়াতে আকাশ ফেটে পড়ার উপক্রম মিনহু, তা থেকে, মানে সেই জঘন্য কথা থেকে। আর ৪২:৫ আয়াতে আছে মিন ফাওকিহিন্না, তাদের উপর থেকে। তবু বাগাভী দুই জায়গাকে একসঙ্গে পড়েন।"
           },
           {
             "en": "As-Sa'di reads the verse from its context. The passage has just said that Allah revealed to all the messengers, and to Muhammad ﷺ in particular. In these attributes he sees a pointer: the Qur'an carries proofs of the Creator's perfection that should fill hearts with knowing Him, loving and revering Him, and turn every kind of worship, outward and inward, to Him. Among the greatest wrongs and the foulest speech, he says, is taking rivals to Allah besides Him, who hold neither benefit nor harm and are themselves created, in need of Allah in every state.",
-            "bn": "সা'দী আয়াতটি পড়েন তার প্রসঙ্গ থেকে। এর আগেই বলা হয়েছে, আল্লাহ সব রাসূলের কাছে ওহি পাঠিয়েছেন, আর বিশেষ করে মুহাম্মাদ ﷺ-এর কাছে। এরপর এই গুণাবলির উল্লেখে তিনি একটা ইঙ্গিত দেখেন। কুরআনে স্রষ্টার পূর্ণতার এমন সব প্রমাণ আছে, যা হৃদয়কে তাঁর পরিচয়, ভালোবাসা ও সম্মানে ভরে দেয়, আর প্রকাশ্য ও গোপন সব ইবাদত তাঁর দিকেই ফিরিয়ে দেয়। তাঁর ভাষায়, সবচেয়ে বড় জুলুম আর সবচেয়ে জঘন্য কথার একটি হলো আল্লাহকে ছেড়ে তাঁর সমকক্ষ দাঁড় করানো। অথচ তাদের হাতে কোনো উপকার বা ক্ষতি নেই। তারা নিজেরাই সৃষ্টি, সব অবস্থায় আল্লাহর মুখাপেক্ষী।"
+            "bn": "সা'দী আয়াতটি পড়েন তার প্রসঙ্গ থেকে। এর আগেই বলা হয়েছে, আল্লাহ সব রাসূলের কাছে ওহি পাঠিয়েছেন, আর বিশেষ করে মুহাম্মাদ ﷺ-এর কাছে। এরপর এই গুণাবলির উল্লেখে তিনি একটা ইঙ্গিত দেখেন। কুরআনে স্রষ্টার পূর্ণতার এমন সব প্রমাণ আছে, যা হৃদয়কে তাঁর পরিচয়, ভালোবাসা ও সম্মানে ভরে দেয়, আর প্রকাশ্য ও গোপন সব ইবাদত তাঁর দিকেই ফিরিয়ে দেয়। তাঁর ভাষায়, সবচেয়ে বড় জুলুম আর সবচেয়ে জঘন্য কথার একটি হলো আল্লাহকে ছেড়ে তাঁর সমকক্ষ দাঁড় করানো। অথচ তাদের হাতে কোনো উপকার বা ক্ষতি নেই। তারা নিজেরাই সৃষ্টি, সব অবস্থায় আল্লাহর মুখাপেক্ষী।"
           },
           {
             "en": "This needs saying plainly. The verse and these readings describe a saying and weigh it; they license nothing against any living person or community, and give no warrant for contempt, harm or hostility towards anyone who holds such a belief today. The weight falls on words spoken about Allah, and the reader's first use of it is to weigh their own, including the careless words a believer can let slip about his Lord without noticing.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত আর এই ব্যাখ্যাগুলো একটি কথার বর্ণনা দেয়, তার ওজন মাপে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো কিছুর অনুমতি দেয় না। আজ যে এমন বিশ্বাস রাখে, তাকে অবজ্ঞা করার, ক্ষতি করার বা তার সঙ্গে শত্রুতার কোনো ছাড়পত্রও এখানে নেই। ভারটা পড়ে আল্লাহ সম্পর্কে বলা কথার উপর। পাঠক সেটা প্রথমে কাজে লাগাবেন নিজের কথা মাপতে। মুমিনের মুখ থেকেও রব সম্পর্কে বেখেয়ালে যে কথা বেরিয়ে যায়, সেগুলোও এর মধ্যে পড়ে।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত আর এই ব্যাখ্যাগুলো একটি কথার বর্ণনা দেয়, তার ওজন মাপে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এগুলো কোনো কিছুর অনুমতি দেয় না। আজ যে এমন বিশ্বাস রাখে, তাকে অবজ্ঞা করার, ক্ষতি করার বা তার সঙ্গে শত্রুতার কোনো ছাড়পত্রও এখানে নেই। ভারটা পড়ে আল্লাহ সম্পর্কে বলা কথার উপর। পাঠক সেটা প্রথমে কাজে লাগাবেন নিজের কথা মাপতে। মুমিনের মুখ থেকেও রব সম্পর্কে বেখেয়ালে যে কথা বেরিয়ে যায়, সেগুলোও এর মধ্যে পড়ে।"
           }
         ]
       },
@@ -77,18 +77,18 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Min fawqihinna, from above them: above what? The Muyassar answers that each heaven splits above the one next to it; al-Baghawi says the same, as does al-Qurtubi's report from Ibn 'Abbas (RA). At-Tabari reads it as above the earths: the heavens almost crack open from above the earths. Al-Qurtubi gives that view too, under the words it was said, and adds a condition: above the earths, out of khashyah, reverent fear, of Allah, were they among things that reason. The report from ad-Dahhak and as-Suddi ties the phrase to Allah's greatness and majesty.",
-            "bn": "মিন ফাওকিহিন্না, তাদের উপর থেকে। কিন্তু কিসের উপর? মুয়াসসারের জবাব: প্রতিটি আকাশ তার পাশের আকাশের উপর ফেটে পড়ে। বাগাভীও তাই বলেন, কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ)-ও তাই। তাবারী অর্থ করেন জমিনগুলোর উপর: জমিনগুলোর উপর থেকে আকাশ ফেটে পড়ার উপক্রম হয়। কুরতুবীও 'বলা হয়েছে' বলে এ মত আনেন, সঙ্গে একটা শর্ত জুড়ে দেন। জমিনগুলোর উপর থেকে, আল্লাহর খাশইয়াত বা ভয়মিশ্রিত শ্রদ্ধায়, যদি আকাশ বোধসম্পন্ন কিছু হতো। আর দাহহাক ও সুদ্দীর বর্ণনা কথাটিকে জুড়ে দেয় আল্লাহর মহত্ত্ব ও প্রতাপের সঙ্গে।"
+            "bn": "মিন ফাওকিহিন্না, তাদের উপর থেকে। কিন্তু কিসের উপর? মুয়াসসারের জবাব: প্রতিটি আকাশ তার পাশের আকাশের উপর ফেটে পড়ে। বাগাভীও তাই বলেন, কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ)-ও তাই। তাবারী অর্থ করেন জমিনগুলোর উপর: জমিনগুলোর উপর থেকে আকাশ ফেটে পড়ার উপক্রম হয়। কুরতুবীও 'বলা হয়েছে' বলে এ মত আনেন, সঙ্গে একটা শর্ত জুড়ে দেন। জমিনগুলোর উপর থেকে, আল্লাহর খাশইয়াত বা ভয়মিশ্রিত শ্রদ্ধায়, যদি আকাশ বোধসম্পন্ন কিছু হতো। আর দাহহাক ও সুদ্দীর বর্ণনা কথাটিকে জুড়ে দেয় আল্লাহর মহত্ত্ব ও প্রতাপের সঙ্গে।"
           },
           {
             "en": "As-Sa'di adds a note on the heavens themselves: they nearly split for all their vastness, and though they are inanimate. Ma'arif al-Qur'an, citing Bayan al-Qur'an, explains the cracking through a hadith it gave earlier in its discussion: the load of angels made the heavens creak, as things creak under too much weight. It infers that angels have bodies, very light, which add up to a great load in their numbers. That hadith's wording is not in the text consulted for this verse, and no tafsir consulted here quotes a hadith of the Prophet ﷺ on it, so the article quotes none.",
-            "bn": "সা'দী আকাশ নিয়েই একটা কথা যোগ করেন। আকাশ এত বিশাল, তার উপর জড়, তবু তা ফেটে পড়ার উপক্রম হয়। মাআরিফুল কুরআন বয়ানুল কুরআনের বরাতে এই ফাটলের ব্যাখ্যা দেয় এমন এক হাদিস দিয়ে, যার উল্লেখ তার আলোচনায় আগেই এসেছে। ফেরেশতাদের ভারে আকাশ থেকে চড়চড় শব্দ উঠছিল, অতিরিক্ত বোঝা চাপালে যেমন ওঠে। এ থেকে মাআরিফ সিদ্ধান্ত টানে, ফেরেশতাদেরও দেহ আছে। দেহগুলো খুব হালকা, কিন্তু সংখ্যায় বিপুল বলে মিলে বড় বোঝা হয়ে যায়। ওই হাদিসের মূল ভাষ্য এ আয়াতের জন্য সংগৃহীত লেখায় নেই, আর কোনো তাফসীরই এখানে নবী ﷺ-এর কোনো হাদিস উদ্ধৃত করেনি। তাই এ লেখাও কোনো হাদিস উদ্ধৃত করছে না।"
+            "bn": "সা'দী আকাশ নিয়েই একটা কথা যোগ করেন। আকাশ এত বিশাল, তার উপর জড়, তবু তা ফেটে পড়ার উপক্রম হয়। মাআরিফুল কুরআন বয়ানুল কুরআনের বরাতে এই ফাটলের ব্যাখ্যা দেয় এমন এক হাদিস দিয়ে, যার উল্লেখ তার আলোচনায় আগেই এসেছে। ফেরেশতাদের ভারে আকাশ থেকে চড়চড় শব্দ উঠছিল, অতিরিক্ত বোঝা চাপালে যেমন ওঠে। এ থেকে মাআরিফ সিদ্ধান্ত টানে, ফেরেশতাদেরও দেহ আছে। দেহগুলো খুব হালকা, কিন্তু সংখ্যায় বিপুল বলে মিলে বড় বোঝা হয়ে যায়। ওই হাদিসের মূল ভাষ্য এ আয়াতের জন্য সংগৃহীত লেখায় নেই, আর কোনো তাফসীরই এখানে নবী ﷺ-এর কোনো হাদিস উদ্ধৃত করেনি। তাই এ লেখাও কোনো হাদিস উদ্ধৃত করছে না।"
           }
         ]
       },
       {
         "h": {
           "en": "Glorifying, Marvelling, Submitting",
-          "bn": "তাসবীহ, বিস্ময়, বিনয়"
+          "bn": "তাসবীহ, বিস্ময়, বিনয়"
         },
         "p": [
           {
@@ -97,7 +97,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi opens the word further. Tasbih is tanzih, declaring Him free of whatever may not be said of Him or befit His majesty. It was also said that the angels marvel at the boldness of the polytheists, tasbih standing where wonder would. From 'Ali (RA): their tasbih is wonder at what they see of people exposing themselves to Allah's anger. Ibn 'Abbas (RA), in al-Qurtubi's report: their tasbih is submission to what they see of Allah's greatness. As-Suddi glosses bi-hamdi rabbihim as by the command of their Lord. Al-Qurtubi lists these without ranking them.",
-            "bn": "কুরতুবী শব্দটার অর্থ আরও খুলে দেখান। তাসবীহ মানে তানযীহ: যা তাঁর বর্ণনায় চলে না, যা তাঁর প্রতাপের সঙ্গে মানায় না, তা থেকে তাঁকে পবিত্র ঘোষণা করা। আরেক মত হলো, মুশরিকদের দুঃসাহস দেখে ফেরেশতারা বিস্মিত হন, আর বিস্ময়ের জায়গায় তাসবীহ উচ্চারিত হয়। আলী (রাঃ) থেকে বর্ণিত: মানুষ কীভাবে আল্লাহর ক্রোধের মুখে নিজেকে ঠেলে দিচ্ছে, তা দেখে বিস্ময়ই তাঁদের তাসবীহ। কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন: আল্লাহর যে মহত্ত্ব তাঁরা দেখেন, তার সামনে নত হওয়াই তাঁদের তাসবীহ। সুদ্দী বিহামদি রাব্বিহিমের অর্থ করেন: তাঁদের রবের নির্দেশে। কুরতুবী মতগুলো পাশাপাশি রাখেন, কোনোটিকে এগিয়ে দেন না।"
+            "bn": "কুরতুবী শব্দটার অর্থ আরও খুলে দেখান। তাসবীহ মানে তানযীহ: যা তাঁর বর্ণনায় চলে না, যা তাঁর প্রতাপের সঙ্গে মানায় না, তা থেকে তাঁকে পবিত্র ঘোষণা করা। আরেক মত হলো, মুশরিকদের দুঃসাহস দেখে ফেরেশতারা বিস্মিত হন, আর বিস্ময়ের জায়গায় তাসবীহ উচ্চারিত হয়। আলী (রাঃ) থেকে বর্ণিত: মানুষ কীভাবে আল্লাহর ক্রোধের মুখে নিজেকে ঠেলে দিচ্ছে, তা দেখে বিস্ময়ই তাঁদের তাসবীহ। কুরতুবীর বর্ণনায় ইবন আব্বাস (রাঃ) বলেন: আল্লাহর যে মহত্ত্ব তাঁরা দেখেন, তার সামনে নত হওয়াই তাঁদের তাসবীহ। সুদ্দী বিহামদি রাব্বিহিমের অর্থ করেন: তাঁদের রবের নির্দেশে। কুরতুবী মতগুলো পাশাপাশি রাখেন, কোনোটিকে এগিয়ে দেন না।"
           }
         ]
       },
@@ -109,15 +109,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa yastaghfiruna li-man fi-l-ard: and they ask forgiveness for whoever is on earth. The wording is general, and most of the sources consulted here narrow it. At-Tabari says they ask their Lord to forgive the sins of those on earth from among the people of faith in Him, and he reports as-Suddi: for the believers. The Muyassar uses at-Tabari's phrase, al-Baghawi adds from among the believers, and al-Qurtubi reports the same from ad-Dahhak and as-Suddi. On this reading, those on earth are the believers among them.",
-            "bn": "ওয়া ইয়াসতাগফিরূনা লিমান ফিল আরদ: আর তাঁরা পৃথিবীতে যারা আছে তাদের জন্য ক্ষমা চান। শব্দগুলো সবার জন্য খোলা, কিন্তু সংগৃহীত তাফসীরের বেশিরভাগ একে সীমিত করে। তাবারী বলেন, পৃথিবীবাসীর মধ্যে যারা আল্লাহর প্রতি ঈমান এনেছে, তাদের গুনাহ মাফের জন্য ফেরেশতারা রবের কাছে আবেদন করেন। সুদ্দীর কথাও তিনি আনেন: মুমিনদের জন্য। মুয়াসসার তাবারীর কথাটাই ব্যবহার করে। বাগাভী জুড়ে দেন: মুমিনদের মধ্য থেকে। কুরতুবী দাহহাক ও সুদ্দী থেকে একই কথা বর্ণনা করেন। এই পাঠে পৃথিবীবাসী মানে তাদের মধ্যকার মুমিনরা।"
+            "bn": "ওয়া ইয়াসতাগফিরূনা লিমান ফিল আরদ: আর তাঁরা পৃথিবীতে যারা আছে তাদের জন্য ক্ষমা চান। শব্দগুলো সবার জন্য খোলা, কিন্তু সংগৃহীত তাফসীরের বেশিরভাগ একে সীমিত করে। তাবারী বলেন, পৃথিবীবাসীর মধ্যে যারা আল্লাহর প্রতি ঈমান এনেছে, তাদের গুনাহ মাফের জন্য ফেরেশতারা রবের কাছে আবেদন করেন। সুদ্দীর কথাও তিনি আনেন: মুমিনদের জন্য। মুয়াসসার তাবারীর কথাটাই ব্যবহার করে। বাগাভী জুড়ে দেন: মুমিনদের মধ্য থেকে। কুরতুবী দাহহাক ও সুদ্দী থেকে একই কথা বর্ণনা করেন। এই পাঠে পৃথিবীবাসী মানে তাদের মধ্যকার মুমিনরা।"
           },
           {
             "en": "The narrowing leans on a sister verse. Ibn Kathir sets the clause beside 40:7: those who bear the Throne and those around it glorify the praise of their Lord, believe in Him and ask forgiveness for those who believe. Al-Qurtubi calls 40:7 its explanation, and says that on this reading the angels here are the Throne-bearers, whose prayer for the believers runs on into 40:8. It was also said, he notes, that all the angels of heaven are meant, and that is the apparent sense of al-Kalbi's words.",
-            "bn": "এই সীমিত পাঠের ভিত্তি আরেকটি আয়াত। ইবন কাসীর বাক্যাংশটিকে ৪০:৭ আয়াতের পাশে রাখেন: যারা আরশ বহন করে আর যারা তার চারপাশে আছে, তারা রবের প্রশংসাসহ তাসবীহ পাঠ করে, তাঁর প্রতি ঈমান রাখে আর মুমিনদের জন্য ক্ষমা চায়। কুরতুবী ৪০:৭ আয়াতকে এর ব্যাখ্যা বলেন। তাঁর মতে, এই পাঠে এখানকার ফেরেশতারা আরশবাহক, মুমিনদের জন্য যাঁদের দোয়া ৪০:৮ আয়াত পর্যন্ত গড়ায়। তিনি এটাও জানান, কারও মতে আসমানের সব ফেরেশতাই এখানে উদ্দেশ্য, আর কালবীর কথার বাহ্যিক অর্থ এটাই।"
+            "bn": "এই সীমিত পাঠের ভিত্তি আরেকটি আয়াত। ইবন কাসীর বাক্যাংশটিকে ৪০:৭ আয়াতের পাশে রাখেন: যারা আরশ বহন করে আর যারা তার চারপাশে আছে, তারা রবের প্রশংসাসহ তাসবীহ পাঠ করে, তাঁর প্রতি ঈমান রাখে আর মুমিনদের জন্য ক্ষমা চায়। কুরতুবী ৪০:৭ আয়াতকে এর ব্যাখ্যা বলেন। তাঁর মতে, এই পাঠে এখানকার ফেরেশতারা আরশবাহক, মুমিনদের জন্য যাঁদের দোয়া ৪০:৮ আয়াত পর্যন্ত গড়ায়। তিনি এটাও জানান, কারও মতে আসমানের সব ফেরেশতাই এখানে উদ্দেশ্য, আর কালবীর কথার বাহ্যিক অর্থ এটাই।"
           },
           {
             "en": "Was the general wording then cancelled? Wahb ibn Munabbih said this verse was abrogated by 40:7. Al-Mahdawi answered that the sound view is that it is not abrogated, because it is a report, khabar, and it is specific to the believers. Ibn al-Hassar rejected the abrogation claim from another side: the Throne-bearers are singled out to ask forgiveness for the believers alone, while Allah has other angels who ask forgiveness for those on earth. Al-Qurtubi records all three, so two answers to the same question stand in his text.",
-            "bn": "তাহলে কি সাধারণ শব্দটা বাতিল হয়ে গেছে? ওয়াহব ইবন মুনাব্বিহ বলেছেন, ৪০:৭ আয়াত দিয়ে এ আয়াত মানসূখ হয়েছে। মাহদাভী জবাব দেন, সঠিক কথা হলো এটি মানসূখ নয়। কারণ এটি খবর, অর্থাৎ সংবাদ, আর এটি মুমিনদের জন্যই নির্দিষ্ট। ইবনুল হাসসার মানসূখের দাবি নাকচ করেন অন্য দিক থেকে। আরশবাহকরা কেবল মুমিনদের জন্য ক্ষমা চাওয়ার দায়িত্বে নির্দিষ্ট, আর আল্লাহর অন্য ফেরেশতারাও আছেন, যাঁরা পৃথিবীবাসীর জন্য ক্ষমা চান। কুরতুবী তিনটি কথাই লিখে রাখেন। ফলে একই প্রশ্নের দুই রকম জবাব তাঁর লেখায় পাশাপাশি থাকে।"
+            "bn": "তাহলে কি সাধারণ শব্দটা বাতিল হয়ে গেছে? ওয়াহব ইবন মুনাব্বিহ বলেছেন, ৪০:৭ আয়াত দিয়ে এ আয়াত মানসূখ হয়েছে। মাহদাভী জবাব দেন, সঠিক কথা হলো এটি মানসূখ নয়। কারণ এটি খবর, অর্থাৎ সংবাদ, আর এটি মুমিনদের জন্যই নির্দিষ্ট। ইবনুল হাসসার মানসূখের দাবি নাকচ করেন অন্য দিক থেকে। আরশবাহকরা কেবল মুমিনদের জন্য ক্ষমা চাওয়ার দায়িত্বে নির্দিষ্ট, আর আল্লাহর অন্য ফেরেশতারাও আছেন, যাঁরা পৃথিবীবাসীর জন্য ক্ষমা চান। কুরতুবী তিনটি কথাই লিখে রাখেন। ফলে একই প্রশ্নের দুই রকম জবাব তাঁর লেখায় পাশাপাশি থাকে।"
           }
         ]
       },
@@ -129,31 +129,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi quotes Mutarrif: we found the most sincere of Allah's servants towards Allah's servants to be the angels, and the most deceiving to be the devils. What, then, do the angels ask for? He relays al-Mawardi's two views. One is forgiveness of sins and faults, the apparent sense of Muqatil's words. The other, from al-Kalbi, is asking provision and ease for them. Al-Qurtubi says the second seems more apparent to him, because the earth holds the disbeliever and others, and on Muqatil's view the disbeliever is not included.",
-            "bn": "কুরতুবী মুতাররিফের কথা আনেন: আল্লাহর বান্দাদের প্রতি আল্লাহর বান্দাদের মধ্যে সবচেয়ে কল্যাণকামী পেয়েছি ফেরেশতাদের, আর সবচেয়ে প্রতারক পেয়েছি শয়তানদের। তাহলে ফেরেশতারা চান কী? কুরতুবী এখানে মাওয়ার্দীর দুটি মত তুলে ধরেন। একটি হলো গুনাহ ও ভুলত্রুটির ক্ষমা, মুকাতিলের কথার বাহ্যিক অর্থ এটাই। অন্যটি কালবীর: তাদের জন্য রিযিক আর সচ্ছলতা চাওয়া। কুরতুবী বলেন, দ্বিতীয়টাই তাঁর কাছে বেশি স্পষ্ট। কারণ পৃথিবীতে কাফির আর অন্যরা সবাই আছে, অথচ মুকাতিলের মতে কাফির এর মধ্যে পড়ে না।"
+            "bn": "কুরতুবী মুতাররিফের কথা আনেন: আল্লাহর বান্দাদের প্রতি আল্লাহর বান্দাদের মধ্যে সবচেয়ে কল্যাণকামী পেয়েছি ফেরেশতাদের, আর সবচেয়ে প্রতারক পেয়েছি শয়তানদের। তাহলে ফেরেশতারা চান কী? কুরতুবী এখানে মাওয়ার্দীর দুটি মত তুলে ধরেন। একটি হলো গুনাহ ও ভুলত্রুটির ক্ষমা, মুকাতিলের কথার বাহ্যিক অর্থ এটাই। অন্যটি কালবীর: তাদের জন্য রিযিক আর সচ্ছলতা চাওয়া। কুরতুবী বলেন, দ্বিতীয়টাই তাঁর কাছে বেশি স্পষ্ট। কারণ পৃথিবীতে কাফির আর অন্যরা সবাই আছে, অথচ মুকাতিলের মতে কাফির এর মধ্যে পড়ে না।"
           },
           {
             "en": "Yet he then relates a saying of Salman (RA), not of the Prophet ﷺ, through 'Asim al-Ahwal from Abu 'Uthman, and gives it no grading. When a servant who remembered Allah in ease is struck by hardship, the angels say: a known voice, from a weak human who remembered Allah in ease; and they ask forgiveness for him. When one who did not remember Allah in ease is struck, they call it an unfamiliar voice and do not ask for him. Al-Qurtubi concludes that the verse is then about those who remember Allah in ease and hardship, some of the believers, and adds: Allah knows best.",
-            "bn": "কিন্তু এরপর তিনি সালমান (রাঃ)-এর একটি কথা বর্ণনা করেন। কথাটি নবী ﷺ-এর নয়, সালমানের। সূত্র আসিম আল-আহওয়াল, আবু উসমান থেকে, আর কুরতুবী এর কোনো মান উল্লেখ করেননি। যে বান্দা সুখের দিনে আল্লাহকে স্মরণ করত, বিপদে পড়লে ফেরেশতারা বলেন: চেনা কণ্ঠ, এক দুর্বল আদমসন্তানের, যে সুখের দিনে আল্লাহকে স্মরণ করত। তখন তাঁরা তার জন্য ক্ষমা চান। আর যে সুখের দিনে স্মরণ করত না, বিপদে পড়লে তাঁরা বলেন অচেনা কণ্ঠ, তার জন্য ক্ষমা চান না। কুরতুবীর সিদ্ধান্ত, তাহলে আয়াতটি সুখে-দুঃখে আল্লাহকে স্মরণকারীদের নিয়ে, অর্থাৎ মুমিনদের একাংশকে নিয়ে। সঙ্গে বলেন: আল্লাহই ভালো জানেন।"
+            "bn": "কিন্তু এরপর তিনি সালমান (রাঃ)-এর একটি কথা বর্ণনা করেন। কথাটি নবী ﷺ-এর নয়, সালমানের। সূত্র আসিম আল-আহওয়াল, আবু উসমান থেকে, আর কুরতুবী এর কোনো মান উল্লেখ করেননি। যে বান্দা সুখের দিনে আল্লাহকে স্মরণ করত, বিপদে পড়লে ফেরেশতারা বলেন: চেনা কণ্ঠ, এক দুর্বল আদমসন্তানের, যে সুখের দিনে আল্লাহকে স্মরণ করত। তখন তাঁরা তার জন্য ক্ষমা চান। আর যে সুখের দিনে স্মরণ করত না, বিপদে পড়লে তাঁরা বলেন অচেনা কণ্ঠ, তার জন্য ক্ষমা চান না। কুরতুবীর সিদ্ধান্ত, তাহলে আয়াতটি সুখে-দুঃখে আল্লাহকে স্মরণকারীদের নিয়ে, অর্থাৎ মুমিনদের একাংশকে নিয়ে। সঙ্গে বলেন: আল্লাহই ভালো জানেন।"
           },
           {
             "en": "A third possibility he takes from az-Zamakhshari: that by istighfar they mean asking forbearance and pardon, as in 35:41, Allah holds the heavens and the earth lest they cease, and He is Forbearing, Forgiving, and in 13:6, your Lord is full of forgiveness for people despite their wrongdoing. The meaning is forbearance towards them and not hastening retribution, and the verse is then general. Ma'arif al-Qur'an reads it close to this: for disbelievers the plea is that no severe worldly scourge destroy them all; it does not reach the Hereafter, and Allah accepts it.",
-            "bn": "তৃতীয় সম্ভাবনাটি তিনি নেন যামাখশারী থেকে। ইস্তিগফার বলতে ফেরেশতারা হয়তো চান সহনশীলতা আর ক্ষমা, যেমন ৩৫:৪১ আয়াতে আছে: আল্লাহ আকাশ ও জমিনকে ধরে রাখেন যাতে টলে না যায়, তিনি সহনশীল, ক্ষমাশীল। আর ১৩:৬ আয়াতে: মানুষের জুলুম সত্ত্বেও আপনার রব তাদের প্রতি ক্ষমাশীল। মানে তাদের সঙ্গে সহনশীল থাকা, শাস্তিতে তাড়াহুড়া না করা। তখন আয়াত সবার জন্য। মাআরিফুল কুরআনের পাঠও কাছাকাছি। কাফিরদের বেলায় দোয়াটা এই যে কোনো ভয়াবহ দুনিয়াবি আযাব যেন সবাইকে ধ্বংস না করে। আখিরাত এর মধ্যে পড়ে না, আর আল্লাহ এ দোয়া কবুল করেন।"
+            "bn": "তৃতীয় সম্ভাবনাটি তিনি নেন যামাখশারী থেকে। ইস্তিগফার বলতে ফেরেশতারা হয়তো চান সহনশীলতা আর ক্ষমা, যেমন ৩৫:৪১ আয়াতে আছে: আল্লাহ আকাশ ও জমিনকে ধরে রাখেন যাতে টলে না যায়, তিনি সহনশীল, ক্ষমাশীল। আর ১৩:৬ আয়াতে: মানুষের জুলুম সত্ত্বেও আপনার রব তাদের প্রতি ক্ষমাশীল। মানে তাদের সঙ্গে সহনশীল থাকা, শাস্তিতে তাড়াহুড়া না করা। তখন আয়াত সবার জন্য। মাআরিফুল কুরআনের পাঠও কাছাকাছি। কাফিরদের বেলায় দোয়াটা এই যে কোনো ভয়াবহ দুনিয়াবি আযাব যেন সবাইকে ধ্বংস না করে। আখিরাত এর মধ্যে পড়ে না, আর আল্লাহ এ দোয়া কবুল করেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Awe First, Then Good News",
-          "bn": "আগে ভয়, পরে সুসংবাদ"
+          "bn": "আগে ভয়, পরে সুসংবাদ"
         },
         "p": [
           {
             "en": "Ala inna Allaha huwa al-ghafuru ar-rahim: truly, Allah is the Forgiving, the Merciful. Ibn Kathir calls it an announcement of this and a drawing of attention to it. At-Tabari: Forgiving of the sins of His believing servants, Merciful to them in not punishing them after they repent; the Muyassar has the same without the clause on repenting. As-Sa'di: were it not for His forgiveness and mercy, He would hasten upon creation a punishment that uproots them. Ma'arif al-Qur'an: Allah alone is the Forgiver and the Merciful.",
-            "bn": "আলা ইন্নাল্লাহা হুওয়াল গাফূরুর রাহীম: জেনে রাখো, আল্লাহই ক্ষমাশীল, পরম দয়ালু। ইবন কাসীর বলেন, এ হলো বিষয়টির ঘোষণা আর সেদিকে মনোযোগ টানা। তাবারীর ব্যাখ্যা: তিনি মুমিন বান্দাদের গুনাহ ক্ষমা করেন, আর তওবার পর তাদের শাস্তি না দিয়ে তাদের প্রতি দয়া করেন। মুয়াসসারেও একই কথা, শুধু তওবার অংশটুকু নেই। সা'দী বলেন, তাঁর ক্ষমা ও দয়া না থাকলে তিনি সৃষ্টিকে দ্রুতই এমন শাস্তি দিতেন, যা তাদের মূলসহ উপড়ে ফেলত। মাআরিফুল কুরআন বলে: আল্লাহ, একমাত্র আল্লাহই ক্ষমাকারী ও দয়ালু।"
+            "bn": "আলা ইন্নাল্লাহা হুওয়াল গাফূরুর রাহীম: জেনে রাখো, আল্লাহই ক্ষমাশীল, পরম দয়ালু। ইবন কাসীর বলেন, এ হলো বিষয়টির ঘোষণা আর সেদিকে মনোযোগ টানা। তাবারীর ব্যাখ্যা: তিনি মুমিন বান্দাদের গুনাহ ক্ষমা করেন, আর তওবার পর তাদের শাস্তি না দিয়ে তাদের প্রতি দয়া করেন। মুয়াসসারেও একই কথা, শুধু তওবার অংশটুকু নেই। সা'দী বলেন, তাঁর ক্ষমা ও দয়া না থাকলে তিনি সৃষ্টিকে দ্রুতই এমন শাস্তি দিতেন, যা তাদের মূলসহ উপড়ে ফেলত। মাআরিফুল কুরআন বলে: আল্লাহ, একমাত্র আল্লাহই ক্ষমাকারী ও দয়ালু।"
           },
           {
             "en": "Al-Qurtubi ends with the words of some scholars: He inspired awe and magnified Himself at the beginning, and was gentle and gave good news at the end. The verse moves that way. It opens on heavens near breaking, passes through angels who glorify and ask on behalf of the people below, and closes on two names of pardon and mercy. The reader stands among those on earth, under heavens that hold, and is told at the end where to turn.",
-            "bn": "কুরতুবী শেষ করেন কয়েকজন আলেমের কথায়: শুরুতে তিনি ভয় জাগিয়েছেন, নিজের মহত্ত্ব দেখিয়েছেন, আর শেষে কোমলতা দেখিয়েছেন, সুসংবাদ দিয়েছেন। আয়াতের গতিও তেমনই। শুরু ফেটে পড়ার কিনারে থাকা আকাশ দিয়ে। মাঝখানে ফেরেশতারা, যাঁরা তাসবীহ পড়েন আর নিচের মানুষদের জন্য আবেদন করেন। শেষ ক্ষমা ও দয়ার দুটি নামে। পাঠক দাঁড়িয়ে আছেন পৃথিবীবাসীদের মধ্যে, যে আকাশ ভেঙে পড়েনি তার নিচে। আর শেষ কথায় তাঁকে জানিয়ে দেওয়া হয়, কার দিকে ফিরতে হবে।"
+            "bn": "কুরতুবী শেষ করেন কয়েকজন আলেমের কথায়: শুরুতে তিনি ভয় জাগিয়েছেন, নিজের মহত্ত্ব দেখিয়েছেন, আর শেষে কোমলতা দেখিয়েছেন, সুসংবাদ দিয়েছেন। আয়াতের গতিও তেমনই। শুরু ফেটে পড়ার কিনারে থাকা আকাশ দিয়ে। মাঝখানে ফেরেশতারা, যাঁরা তাসবীহ পড়েন আর নিচের মানুষদের জন্য আবেদন করেন। শেষ ক্ষমা ও দয়ার দুটি নামে। পাঠক দাঁড়িয়ে আছেন পৃথিবীবাসীদের মধ্যে, যে আকাশ ভেঙে পড়েনি তার নিচে। আর শেষ কথায় তাঁকে জানিয়ে দেওয়া হয়, কার দিকে ফিরতে হবে।"
           }
         ]
       }
@@ -173,7 +173,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Why Arabic? At-Tabari answers from the audience. The people to whom the Prophet ﷺ was sent were Arabs, so the Qur'an came in their tongue, that they might understand the proofs of Allah and the reminder in it, for no messenger is sent except in the tongue of his people, to make things clear to them; that is the wording of 14:4. Al-Qurtubi gives the same reason. Ibn Kathir glosses 'arabiyyan as plain and clear, and as-Sa'di calls this clear Arabic Qur'an a favour upon the Messenger and upon people. 41:3 has already called it an Arabic Qur'an for a people who know.",
-            "bn": "আরবী কেন? তাবারী উত্তর দেন শ্রোতাদের দিক থেকে। নবী ﷺ যাদের কাছে প্রেরিত হয়েছিলেন, তারা ছিল আরব। তাই কুরআন এসেছে তাদের ভাষায়, যাতে এর ভেতরের আল্লাহর দলিল-প্রমাণ আর উপদেশ তারা বুঝতে পারে। কারণ প্রত্যেক রাসূলকে পাঠানো হয় তাঁর কওমের ভাষায়, যাতে তিনি তাদের কাছে পরিষ্কার করে বলতে পারেন। এ কথাটা ১৪:৪ আয়াতের শব্দ। কুরতুবীও একই কারণ দেন। ইবন কাসীর আরাবিয়্যান শব্দের ব্যাখ্যা করেন সুস্পষ্ট ও পরিষ্কার। সা'দী এই স্পষ্ট আরবী কুরআনকে বলেন রাসূলের প্রতি আর মানুষের প্রতি আল্লাহর অনুগ্রহ। ৪১:৩ আয়াত আগেই একে বলেছে জ্ঞানী সম্প্রদায়ের জন্য আরবী কুরআন।"
+            "bn": "আরবী কেন? তাবারী উত্তর দেন শ্রোতাদের দিক থেকে। নবী ﷺ যাদের কাছে প্রেরিত হয়েছিলেন, তারা ছিল আরব। তাই কুরআন এসেছে তাদের ভাষায়, যাতে এর ভেতরের আল্লাহর দলিল-প্রমাণ আর উপদেশ তারা বুঝতে পারে। কারণ প্রত্যেক রাসূলকে পাঠানো হয় তাঁর কওমের ভাষায়, যাতে তিনি তাদের কাছে পরিষ্কার করে বলতে পারেন। এ কথাটা ১৪:৪ আয়াতের শব্দ। কুরতুবীও একই কারণ দেন। ইবন কাসীর আরাবিয়্যান শব্দের ব্যাখ্যা করেন সুস্পষ্ট ও পরিষ্কার। সা'দী এই স্পষ্ট আরবী কুরআনকে বলেন রাসূলের প্রতি আর মানুষের প্রতি আল্লাহর অনুগ্রহ। ৪১:৩ আয়াত আগেই একে বলেছে জ্ঞানী সম্প্রদায়ের জন্য আরবী কুরআন।"
           }
         ]
       },
@@ -185,7 +185,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Li-tundhira umm al-qura: that you may warn the Mother of Towns. Every commentator consulted here names it as Makkah, and at-Tabari carries the identification from as-Suddi in a single word: Makkah. Two of them add a quiet correction to how the phrase is heard. Al-Baghawi says it means its people, and the Muyassar writes that you may warn the people of Makkah.",
-            "bn": "লিতুনযিরা উম্মাল কুরা: যাতে তুমি জনপদের জননীকে সতর্ক করো। যত তাফসীর আনা হয়েছে, সবগুলোতেই এর অর্থ মক্কা। তাবারী সুদ্দী থেকে এক শব্দেই কথাটা উদ্ধৃত করেন: মক্কা। দুজন তাফসীরকার এখানে একটা সূক্ষ্ম সংশোধন যোগ করেন। বাগাভী বলেন, উদ্দেশ্য মক্কার অধিবাসীরা। মুয়াসসারও লেখে, যাতে তুমি মক্কাবাসীদের সতর্ক করো।"
+            "bn": "লিতুনযিরা উম্মাল কুরা: যাতে তুমি জনপদের জননীকে সতর্ক করো। যত তাফসীর আনা হয়েছে, সবগুলোতেই এর অর্থ মক্কা। তাবারী সুদ্দী থেকে এক শব্দেই কথাটা উদ্ধৃত করেন: মক্কা। দুজন তাফসীরকার এখানে একটা সূক্ষ্ম সংশোধন যোগ করেন। বাগাভী বলেন, উদ্দেশ্য মক্কার অধিবাসীরা। মুয়াসসারও লেখে, যাতে তুমি মক্কাবাসীদের সতর্ক করো।"
           },
           {
             "en": "Why mother? The texts consulted here give three answers. Ibn Kathir says Makkah was named the Mother of Towns because it is nobler than all other lands, for many proofs mentioned in their places. Al-Qurtubi records, under the words it is said, that it was called so because the earth was spread out from beneath it. Ma'arif al-Qur'an explains the title as origin and foundation of all habitations and cities, given because to Allah it is more distinguished than every other city and the whole earth.",
@@ -193,7 +193,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir calls one proof the most concise and the clearest. At-Tirmidhi records it in his Jami' (3925) from 'Abdullah ibn 'Adi ibn Hamra' az-Zuhri: \"I saw the Messenger of Allah ﷺ standing at Al-Hazwarah, and he said: By Allah! You are the best of Allah's earth, and the most beloved of Allah's earth to Allah, and if it were not that I was expelled from you I would not have left.\" At-Tirmidhi grades it hasan sahih gharib. Al-Hazwarah, Ibn Kathir notes, was in the market of Makkah.",
-            "bn": "ইবন কাসীর একটি প্রমাণকে বলেন সবচেয়ে সংক্ষিপ্ত আর সবচেয়ে স্পষ্ট। তিরমিযী তাঁর জামি' গ্রন্থে (৩৯২৫) আব্দুল্লাহ ইবন আদী ইবন হামরা আয-যুহরী (রাঃ) থেকে তা বর্ণনা করেছেন: \"আমি আল্লাহর রাসূল ﷺ-কে হাযওয়ারায় দাঁড়িয়ে থাকতে দেখলাম। তিনি বললেন: আল্লাহর কসম! তুমি আল্লাহর জমিনের সবচেয়ে উত্তম অংশ, আর আল্লাহর কাছে তাঁর জমিনের সবচেয়ে প্রিয় অংশ। আমাকে যদি তোমার কাছ থেকে বের করে দেওয়া না হতো, আমি কখনো বের হতাম না।\" তিরমিযী একে হাসান সহীহ গরীব বলেছেন। ইবন কাসীর জানান, হাযওয়ারা ছিল মক্কার বাজারে।"
+            "bn": "ইবন কাসীর একটি প্রমাণকে বলেন সবচেয়ে সংক্ষিপ্ত আর সবচেয়ে স্পষ্ট। তিরমিযী তাঁর জামি' গ্রন্থে (৩৯২৫) আব্দুল্লাহ ইবন আদী ইবন হামরা আয-যুহরী (রাঃ) থেকে তা বর্ণনা করেছেন: \"আমি আল্লাহর রাসূল ﷺ-কে হাযওয়ারায় দাঁড়িয়ে থাকতে দেখলাম। তিনি বললেন: আল্লাহর কসম! তুমি আল্লাহর জমিনের সবচেয়ে উত্তম অংশ, আর আল্লাহর কাছে তাঁর জমিনের সবচেয়ে প্রিয় অংশ। আমাকে যদি তোমার কাছ থেকে বের করে দেওয়া না হতো, আমি কখনো বের হতাম না।\" তিরমিযী একে হাসান সহীহ গরীব বলেছেন। ইবন কাসীর জানান, হাযওয়ারা ছিল মক্কার বাজারে।"
           }
         ]
       },
@@ -205,11 +205,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa man hawlaha: and those around it. Here the commentators draw the circle at different sizes. As-Sa'di reads it narrowly first, as the villages of the Arabs around Makkah, and then adds a second step: this warning then travels on to all of creation. Ma'arif al-Qur'an sets out the whole range. The phrase means the suburbs in Makkah's neighbourhood, and it could mean the neighbouring Arab lands as well as the whole earth from east to west.",
-            "bn": "ওয়া মান হাওলাহা: আর তার চারপাশে যারা আছে। এখানে তাফসীরকারেরা বৃত্তটা আঁকেন ভিন্ন ভিন্ন মাপে। সা'দী প্রথমে সংকীর্ণ অর্থ নেন: মক্কার চারপাশের আরব জনপদগুলো। তারপর তিনি দ্বিতীয় ধাপ যোগ করেন। এরপর এ সতর্কবার্তা ছড়িয়ে পড়ে সমগ্র সৃষ্টির কাছে। মাআরিফুল কুরআন পুরো পরিসরটাই তুলে ধরে। শব্দটির অর্থ মক্কার আশপাশের এলাকা। আবার এর অর্থ হতে পারে প্রতিবেশী আরব ভূখণ্ড, এমনকি পূর্ব থেকে পশ্চিম পর্যন্ত গোটা পৃথিবী।"
+            "bn": "ওয়া মান হাওলাহা: আর তার চারপাশে যারা আছে। এখানে তাফসীরকারেরা বৃত্তটা আঁকেন ভিন্ন ভিন্ন মাপে। সা'দী প্রথমে সংকীর্ণ অর্থ নেন: মক্কার চারপাশের আরব জনপদগুলো। তারপর তিনি দ্বিতীয় ধাপ যোগ করেন। এরপর এ সতর্কবার্তা ছড়িয়ে পড়ে সমগ্র সৃষ্টির কাছে। মাআরিফুল কুরআন পুরো পরিসরটাই তুলে ধরে। শব্দটির অর্থ মক্কার আশপাশের এলাকা। আবার এর অর্থ হতে পারে প্রতিবেশী আরব ভূখণ্ড, এমনকি পূর্ব থেকে পশ্চিম পর্যন্ত গোটা পৃথিবী।"
           },
           {
             "en": "The others read the circle as wide from the first word. At-Tabari: around the Mother of Towns, of all people. The Muyassar keeps his phrase, all people. Al-Qurtubi: of all creation. Ibn Kathir: all the lands, east and west. Al-Baghawi: the villages of the whole earth. So for as-Sa'di the warning widens in two steps, while for these five it is already in the words around it.",
-            "bn": "বাকিরা শুরু থেকেই বৃত্তটাকে প্রশস্ত ধরেন। তাবারী বলেন: উম্মুল কুরার চারপাশের সব মানুষ। মুয়াসসার তাঁর কথাটাই রাখে: সব মানুষ। কুরতুবীর মতে সমগ্র সৃষ্টি। ইবন কাসীরের মতে পূর্ব-পশ্চিমের সব দেশ। বাগাভীর মতে গোটা পৃথিবীর জনপদ। অর্থাৎ সা'দীর কাছে সতর্কবার্তা দুই ধাপে প্রসারিত হয়, আর এই পাঁচজনের কাছে প্রসারটা 'চারপাশ' শব্দেই আছে।"
+            "bn": "বাকিরা শুরু থেকেই বৃত্তটাকে প্রশস্ত ধরেন। তাবারী বলেন: উম্মুল কুরার চারপাশের সব মানুষ। মুয়াসসার তাঁর কথাটাই রাখে: সব মানুষ। কুরতুবীর মতে সমগ্র সৃষ্টি। ইবন কাসীরের মতে পূর্ব-পশ্চিমের সব দেশ। বাগাভীর মতে গোটা পৃথিবীর জনপদ। অর্থাৎ সা'দীর কাছে সতর্কবার্তা দুই ধাপে প্রসারিত হয়, আর এই পাঁচজনের কাছে প্রসারটা 'চারপাশ' শব্দেই আছে।"
           }
         ]
       },
@@ -221,11 +221,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa-tundhira yawm al-jam': and that you may warn of the Day of Gathering. The verb comes a second time, and its object now is a day, not a people. At-Tabari explains: you warn of the punishment of Allah on the Day He gathers His servants for the standing of the reckoning and the presentation. He records as-Suddi: the Day of Resurrection. The Muyassar likewise makes the warning be of the punishment of the Day of Gathering, which is the Day of Resurrection.",
-            "bn": "ওয়া তুনযিরা ইয়াওমাল জাম': আর যাতে তুমি একত্র হওয়ার দিন সম্পর্কে সতর্ক করো। ক্রিয়াটি দ্বিতীয়বার এসেছে, আর এবার এর লক্ষ্য কোনো জনগোষ্ঠী নয়, একটা দিন। তাবারীর ব্যাখ্যা: যেদিন আল্লাহ হিসাব আর উপস্থাপনের জন্য তাঁর বান্দাদের দাঁড় করাতে একত্র করবেন, সেদিনের শাস্তি সম্পর্কে তুমি সতর্ক করবে। সুদ্দী থেকে তিনি উদ্ধৃত করেন: কিয়ামতের দিন। মুয়াসসারেও সতর্কবার্তাটা একত্র হওয়ার দিনের শাস্তি নিয়ে, আর সেই দিন হলো কিয়ামতের দিন।"
+            "bn": "ওয়া তুনযিরা ইয়াওমাল জাম': আর যাতে তুমি একত্র হওয়ার দিন সম্পর্কে সতর্ক করো। ক্রিয়াটি দ্বিতীয়বার এসেছে, আর এবার এর লক্ষ্য কোনো জনগোষ্ঠী নয়, একটা দিন। তাবারীর ব্যাখ্যা: যেদিন আল্লাহ হিসাব আর উপস্থাপনের জন্য তাঁর বান্দাদের দাঁড় করাতে একত্র করবেন, সেদিনের শাস্তি সম্পর্কে তুমি সতর্ক করবে। সুদ্দী থেকে তিনি উদ্ধৃত করেন: কিয়ামতের দিন। মুয়াসসারেও সতর্কবার্তাটা একত্র হওয়ার দিনের শাস্তি নিয়ে, আর সেই দিন হলো কিয়ামতের দিন।"
           },
           {
             "en": "At-Tabari also reports a reading from the grammar: the meaning is you warn them of the Day of Gathering, the people being understood and left unsaid. He compares 3:175, yukhawwifu awliya'ahu, which he takes to mean that he frightens you of his allies, where again the person frightened is not named. Al-Qurtubi supplies a preposition instead: you warn of the Day, bi-yawm al-jam'. Al-Baghawi puts both together: you warn them of the Day of Gathering, which is the Day of Resurrection.",
-            "bn": "তাবারী ব্যাকরণের দিক থেকে আরেকটি ব্যাখ্যাও উল্লেখ করেন। অর্থ হলো, তুমি তাদেরকে একত্র হওয়ার দিন সম্পর্কে সতর্ক করো। কাদের, তা বোঝা যায় বলে উল্লেখ করা হয়নি। তিনি তুলনা দেন ৩:১৭৫ আয়াতের সঙ্গে: ইউখাওয়িফু আওলিয়াআহু। তাঁর মতে এর অর্থ, সে তোমাদেরকে তার বন্ধুদের ভয় দেখায়। সেখানেও যাকে ভয় দেখানো হচ্ছে, তার উল্লেখ নেই। কুরতুবী বরং একটি অব্যয় যোগ করে পড়েন: বি-ইয়াওমিল জাম', অর্থাৎ সেই দিন সম্পর্কে সতর্ক করো। বাগাভী দুটোকে একসঙ্গে মেলান: তুমি তাদেরকে একত্র হওয়ার দিন সম্পর্কে সতর্ক করো, আর সেটা কিয়ামতের দিন।"
+            "bn": "তাবারী ব্যাকরণের দিক থেকে আরেকটি ব্যাখ্যাও উল্লেখ করেন। অর্থ হলো, তুমি তাদেরকে একত্র হওয়ার দিন সম্পর্কে সতর্ক করো। কাদের, তা বোঝা যায় বলে উল্লেখ করা হয়নি। তিনি তুলনা দেন ৩:১৭৫ আয়াতের সঙ্গে: ইউখাওয়িফু আওলিয়াআহু। তাঁর মতে এর অর্থ, সে তোমাদেরকে তার বন্ধুদের ভয় দেখায়। সেখানেও যাকে ভয় দেখানো হচ্ছে, তার উল্লেখ নেই। কুরতুবী বরং একটি অব্যয় যোগ করে পড়েন: বি-ইয়াওমিল জাম', অর্থাৎ সেই দিন সম্পর্কে সতর্ক করো। বাগাভী দুটোকে একসঙ্গে মেলান: তুমি তাদেরকে একত্র হওয়ার দিন সম্পর্কে সতর্ক করো, আর সেটা কিয়ামতের দিন।"
           }
         ]
       },
@@ -237,27 +237,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Who is gathered? Ibn Kathir: on that Day Allah gathers the first and the last on one plain, fi sa'id wahid. As-Sa'di uses the same pair, the first and the last. Al-Baghawi widens it: the first and the last, and the people of the heavens and the people of the earths. Ibn Kathir then sets 64:9 beside the clause, the Day He gathers you for the Day of Gathering, the Day of at-taghabun, which he explains as the people of Paradise getting the better of the people of the Fire.",
-            "bn": "কারা একত্র হবে? ইবন কাসীর বলেন: সেদিন আল্লাহ পূর্ববর্তী ও পরবর্তী সবাইকে এক প্রান্তরে জমা করবেন, ফী সাঈদিন ওয়াহিদ। সা'দীও একই জোড়া ব্যবহার করেন: পূর্ববর্তী ও পরবর্তী। বাগাভী পরিধিটা আরও বাড়ান: পূর্ববর্তী ও পরবর্তী, আসমানের অধিবাসী আর জমিনসমূহের অধিবাসী। এরপর ইবন কাসীর এর পাশে রাখেন ৬৪:৯ আয়াত: যেদিন তিনি তোমাদের একত্র করবেন একত্র হওয়ার দিনের জন্য, সেটা তাগাবুনের দিন। তাঁর ব্যাখ্যায়, সেদিন জান্নাতবাসীরা জাহান্নামবাসীদের উপর জিতে যাবে।"
+            "bn": "কারা একত্র হবে? ইবন কাসীর বলেন: সেদিন আল্লাহ পূর্ববর্তী ও পরবর্তী সবাইকে এক প্রান্তরে জমা করবেন, ফী সাঈদিন ওয়াহিদ। সা'দীও একই জোড়া ব্যবহার করেন: পূর্ববর্তী ও পরবর্তী। বাগাভী পরিধিটা আরও বাড়ান: পূর্ববর্তী ও পরবর্তী, আসমানের অধিবাসী আর জমিনসমূহের অধিবাসী। এরপর ইবন কাসীর এর পাশে রাখেন ৬৪:৯ আয়াত: যেদিন তিনি তোমাদের একত্র করবেন একত্র হওয়ার দিনের জন্য, সেটা তাগাবুনের দিন। তাঁর ব্যাখ্যায়, সেদিন জান্নাতবাসীরা জাহান্নামবাসীদের উপর জিতে যাবে।"
           },
           {
             "en": "His second parallel is 11:103 to 11:105: a Day for which people will be gathered, a Day witnessed, delayed only for a counted term, on which no soul speaks except by His leave, and among them are the wretched and the happy. Then la rayba fihi, no doubt in it. Ibn Kathir: no doubt that it will happen; it is coming without fail. Al-Baghawi joins this clause to the next: no doubt that the gathering will be, and after the gathering they part.",
-            "bn": "তাঁর দ্বিতীয় তুলনা ১১:১০৩ থেকে ১১:১০৫ আয়াত। সেদিনের জন্য মানুষকে একত্র করা হবে, সেদিন সবাই উপস্থিত থাকবে। নির্দিষ্ট মেয়াদ পর্যন্তই শুধু তা পিছিয়ে রাখা হয়েছে। সেদিন তাঁর অনুমতি ছাড়া কেউ কথা বলবে না, আর তাদের মধ্যে কেউ হতভাগা, কেউ সৌভাগ্যবান। তারপর লা রাইবা ফীহ: তাতে কোনো সন্দেহ নেই। ইবন কাসীর বলেন, তা ঘটবেই, এতে কোনো সন্দেহ নেই, তা আসবেই। বাগাভী এ অংশকে পরের অংশের সঙ্গে জুড়ে দেন: একত্র হওয়া নিশ্চিত, আর একত্র হওয়ার পর তারা আলাদা হয়ে যাবে।"
+            "bn": "তাঁর দ্বিতীয় তুলনা ১১:১০৩ থেকে ১১:১০৫ আয়াত। সেদিনের জন্য মানুষকে একত্র করা হবে, সেদিন সবাই উপস্থিত থাকবে। নির্দিষ্ট মেয়াদ পর্যন্তই শুধু তা পিছিয়ে রাখা হয়েছে। সেদিন তাঁর অনুমতি ছাড়া কেউ কথা বলবে না, আর তাদের মধ্যে কেউ হতভাগা, কেউ সৌভাগ্যবান। তারপর লা রাইবা ফীহ: তাতে কোনো সন্দেহ নেই। ইবন কাসীর বলেন, তা ঘটবেই, এতে কোনো সন্দেহ নেই, তা আসবেই। বাগাভী এ অংশকে পরের অংশের সঙ্গে জুড়ে দেন: একত্র হওয়া নিশ্চিত, আর একত্র হওয়ার পর তারা আলাদা হয়ে যাবে।"
           }
         ]
       },
       {
         "h": {
           "en": "Then the Crowd Divides",
-          "bn": "তারপর ভিড় দুই ভাগ"
+          "bn": "তারপর ভিড় দুই ভাগ"
         },
         "p": [
           {
             "en": "Fariqun fi-l-jannati wa fariqun fi-s-sa'ir: a party in Paradise and a party in the Blaze. At-Tabari says fariqun is nominative because a new sentence begins here, and gives a parallel: I saw the army, killed or routed, meaning some of them killed and some routed. So the sense is, of them a party in Paradise. Al-Qurtubi calls it subject and predicate, and adds that al-Kisa'i allowed the accusative, reading it as: that you may warn a party in Paradise and a party in the Blaze.",
-            "bn": "ফারীকুন ফিল জান্নাতি ওয়া ফারীকুন ফিস সাঈর: এক দল জান্নাতে, আর এক দল জ্বলন্ত আগুনে। তাবারী বলেন, ফারীকুন শব্দে পেশ, কারণ এখান থেকে নতুন বাক্য শুরু হয়েছে। তিনি একটা দৃষ্টান্ত দেন। কেউ বলল, আমি সেনাদলকে দেখলাম, নিহত অথবা পরাজিত। মানে, তাদের কেউ নিহত, কেউ পরাজিত। তাই অর্থ দাঁড়ায়: তাদের মধ্যে এক দল জান্নাতে। কুরতুবী একে বলেন উদ্দেশ্য ও বিধেয়। সঙ্গে জানান, কিসাঈ যবর দিয়ে পড়াও বৈধ বলেছেন। তখন অর্থ হবে: যাতে তুমি জান্নাতের এক দলকে আর জ্বলন্ত আগুনের এক দলকে সতর্ক করো।"
+            "bn": "ফারীকুন ফিল জান্নাতি ওয়া ফারীকুন ফিস সাঈর: এক দল জান্নাতে, আর এক দল জ্বলন্ত আগুনে। তাবারী বলেন, ফারীকুন শব্দে পেশ, কারণ এখান থেকে নতুন বাক্য শুরু হয়েছে। তিনি একটা দৃষ্টান্ত দেন। কেউ বলল, আমি সেনাদলকে দেখলাম, নিহত অথবা পরাজিত। মানে, তাদের কেউ নিহত, কেউ পরাজিত। তাই অর্থ দাঁড়ায়: তাদের মধ্যে এক দল জান্নাতে। কুরতুবী একে বলেন উদ্দেশ্য ও বিধেয়। সঙ্গে জানান, কিসাঈ যবর দিয়ে পড়াও বৈধ বলেছেন। তখন অর্থ হবে: যাতে তুমি জান্নাতের এক দলকে আর জ্বলন্ত আগুনের এক দলকে সতর্ক করো।"
           },
           {
             "en": "Who are the two parties? At-Tabari answers by belief and following: in Paradise are those who believed in Allah and followed what His Messenger brought them; in the Blaze are those who disbelieved in Allah and opposed what His Messenger brought them. He describes as-sa'ir as the fire of Allah, kindled against its people. The Muyassar uses nearly the same words and names the Messenger as Muhammad ﷺ. As-Sa'di: those who believed in Allah and affirmed the messengers, and the kinds of disbelievers who denied.",
-            "bn": "দুটি দল কারা? তাবারী উত্তর দেন ঈমান আর অনুসরণের ভিত্তিতে। জান্নাতে তারা, যারা আল্লাহর প্রতি ঈমান এনেছে আর তাঁর রাসূল যা নিয়ে এসেছেন তার অনুসরণ করেছে। জ্বলন্ত আগুনে তারা, যারা আল্লাহকে অস্বীকার করেছে আর রাসূলের আনা বিষয়ের বিরোধিতা করেছে। সাঈর সম্পর্কে তিনি বলেন, আল্লাহর আগুন, যা তার অধিবাসীদের উপর প্রজ্বলিত। মুয়াসসার প্রায় একই শব্দ ব্যবহার করে, আর রাসূলের নাম উল্লেখ করে মুহাম্মাদ ﷺ। সা'দীর ভাষায়: যারা আল্লাহর প্রতি ঈমান এনেছে ও রাসূলদের সত্য বলে মেনেছে, আর অস্বীকারকারী কাফিরদের নানা শ্রেণি।"
+            "bn": "দুটি দল কারা? তাবারী উত্তর দেন ঈমান আর অনুসরণের ভিত্তিতে। জান্নাতে তারা, যারা আল্লাহর প্রতি ঈমান এনেছে আর তাঁর রাসূল যা নিয়ে এসেছেন তার অনুসরণ করেছে। জ্বলন্ত আগুনে তারা, যারা আল্লাহকে অস্বীকার করেছে আর রাসূলের আনা বিষয়ের বিরোধিতা করেছে। সাঈর সম্পর্কে তিনি বলেন, আল্লাহর আগুন, যা তার অধিবাসীদের উপর প্রজ্বলিত। মুয়াসসার প্রায় একই শব্দ ব্যবহার করে, আর রাসূলের নাম উল্লেখ করে মুহাম্মাদ ﷺ। সা'দীর ভাষায়: যারা আল্লাহর প্রতি ঈমান এনেছে ও রাসূলদের সত্য বলে মেনেছে, আর অস্বীকারকারী কাফিরদের নানা শ্রেণি।"
           }
         ]
       },
@@ -269,43 +269,43 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir, at-Tabari and al-Baghawi all bring a narration of 'Abdullah ibn 'Amr to this clause. At-Tirmidhi's wording in his Jami' (2141), quoted whole, begins: \"'Abdullah bin 'Amr narrated: 'The Messenger of Allah ﷺ came out to us with two books in hand. And he said: Do you know what these two books are? We said: No, O Messenger of Allah! Unless you inform us.'\"",
-            "bn": "ইবন কাসীর, তাবারী ও বাগাভী তিনজনই এ অংশে আব্দুল্লাহ ইবন আমর (রাঃ)-এর একটি বর্ণনা আনেন। তিরমিযী তাঁর জামি' গ্রন্থে (২১৪১) যে শব্দে এনেছেন, পুরোটা এখানে দেওয়া হলো। শুরুটা এমন: \"আব্দুল্লাহ ইবন আমর (রাঃ) বলেন: আল্লাহর রাসূল ﷺ আমাদের কাছে বেরিয়ে এলেন, তাঁর হাতে দুটি কিতাব। তিনি বললেন: তোমরা কি জানো, এ দুটি কিতাব কী? আমরা বললাম: না, হে আল্লাহর রাসূল, আপনি না জানালে আমরা জানি না।\""
+            "bn": "ইবন কাসীর, তাবারী ও বাগাভী তিনজনই এ অংশে আব্দুল্লাহ ইবন আমর (রাঃ)-এর একটি বর্ণনা আনেন। তিরমিযী তাঁর জামি' গ্রন্থে (২১৪১) যে শব্দে এনেছেন, পুরোটা এখানে দেওয়া হলো। শুরুটা এমন: \"আব্দুল্লাহ ইবন আমর (রাঃ) বলেন: আল্লাহর রাসূল ﷺ আমাদের কাছে বেরিয়ে এলেন, তাঁর হাতে দুটি কিতাব। তিনি বললেন: তোমরা কি জানো, এ দুটি কিতাব কী? আমরা বললাম: না, হে আল্লাহর রাসূল, আপনি না জানালে আমরা জানি না।\""
           },
           {
             "en": "\"He said about the one that was in his right hand: 'This is a book from the Lord of the worlds, in it are the names of the people of Paradise, and the name of their fathers and their tribes. Then there is a summary at the end of them, there being no addition to them nor deduction from them forever.'",
-            "bn": "\"ডান হাতেরটি সম্পর্কে তিনি বললেন: এটি জগতসমূহের রবের পক্ষ থেকে একটি কিতাব। এতে আছে জান্নাতবাসীদের নাম, তাদের পিতাদের নাম আর তাদের গোত্রের নাম। তারপর শেষে তাদের মোট সংখ্যা লিখে দেওয়া হয়েছে। তাদের মধ্যে কখনো কাউকে যোগও করা হবে না, বাদও দেওয়া হবে না।"
+            "bn": "\"ডান হাতেরটি সম্পর্কে তিনি বললেন: এটি জগতসমূহের রবের পক্ষ থেকে একটি কিতাব। এতে আছে জান্নাতবাসীদের নাম, তাদের পিতাদের নাম আর তাদের গোত্রের নাম। তারপর শেষে তাদের মোট সংখ্যা লিখে দেওয়া হয়েছে। তাদের মধ্যে কখনো কাউকে যোগও করা হবে না, বাদও দেওয়া হবে না।"
           },
           {
             "en": "\"Then he said about the one that was in his left: 'This is a book from the Lord of the worlds, in it are the names of the people of Fire, and the name of their fathers and their tribes. Then there is a summary at the end of them, there being no addition to them nor deduction from them forever.'\"",
-            "bn": "\"তারপর বাঁ হাতেরটি সম্পর্কে বললেন: এটি জগতসমূহের রবের পক্ষ থেকে একটি কিতাব। এতে আছে জাহান্নামবাসীদের নাম, তাদের পিতাদের নাম আর তাদের গোত্রের নাম। তারপর শেষে তাদের মোট সংখ্যা লিখে দেওয়া হয়েছে। তাদের মধ্যে কখনো কাউকে যোগও করা হবে না, বাদও দেওয়া হবে না।\""
+            "bn": "\"তারপর বাঁ হাতেরটি সম্পর্কে বললেন: এটি জগতসমূহের রবের পক্ষ থেকে একটি কিতাব। এতে আছে জাহান্নামবাসীদের নাম, তাদের পিতাদের নাম আর তাদের গোত্রের নাম। তারপর শেষে তাদের মোট সংখ্যা লিখে দেওয়া হয়েছে। তাদের মধ্যে কখনো কাউকে যোগও করা হবে না, বাদও দেওয়া হবে না।\""
           },
           {
             "en": "\"The companions said: 'So why work O Messenger of Allah! Since the matter is already decided (and over)?' He said: 'Seek to do what is right and draw nearer, for indeed the inhabitant of Paradise shall have his work sealed off with the deeds of the people of Paradise, whichever deeds he did. And indeed the inhabitant of Fire shall have his work sealed off with the deeds of the people of Fire, whichever deeds he did.' Then the Messenger of Allah motioned with his hands, casting them down and said: 'Your Lord finished with the slaves, a group in Paradise, and a group in the Blazing Fire.'\"",
-            "bn": "\"সাহাবীরা বললেন: হে আল্লাহর রাসূল, বিষয়টা যদি আগেই চূড়ান্ত হয়ে গিয়ে থাকে, তবে আমল কিসের জন্য? তিনি বললেন: সঠিক পথে থাকো আর তার কাছাকাছি থাকো। কারণ জান্নাতবাসীর আমল শেষ হবে জান্নাতবাসীদের আমল দিয়ে, আগে সে যে আমলই করে থাকুক। আর জাহান্নামবাসীর আমল শেষ হবে জাহান্নামবাসীদের আমল দিয়ে, আগে সে যে আমলই করে থাকুক। তারপর আল্লাহর রাসূল ﷺ দুই হাত দিয়ে ইশারা করলেন, যেন কিছু ছুঁড়ে ফেলছেন, আর বললেন: তোমাদের রব বান্দাদের বিষয় চূড়ান্ত করে ফেলেছেন। এক দল জান্নাতে, এক দল জ্বলন্ত আগুনে।\""
+            "bn": "\"সাহাবীরা বললেন: হে আল্লাহর রাসূল, বিষয়টা যদি আগেই চূড়ান্ত হয়ে গিয়ে থাকে, তবে আমল কিসের জন্য? তিনি বললেন: সঠিক পথে থাকো আর তার কাছাকাছি থাকো। কারণ জান্নাতবাসীর আমল শেষ হবে জান্নাতবাসীদের আমল দিয়ে, আগে সে যে আমলই করে থাকুক। আর জাহান্নামবাসীর আমল শেষ হবে জাহান্নামবাসীদের আমল দিয়ে, আগে সে যে আমলই করে থাকুক। তারপর আল্লাহর রাসূল ﷺ দুই হাত দিয়ে ইশারা করলেন, যেন কিছু ছুঁড়ে ফেলছেন, আর বললেন: তোমাদের রব বান্দাদের বিষয় চূড়ান্ত করে ফেলেছেন। এক দল জান্নাতে, এক দল জ্বলন্ত আগুনে।\""
           },
           {
             "en": "At-Tirmidhi grades it hasan gharib sahih, and notes a second chain with similar wording. Three phrases need the commentators' help. A summary at the end of them renders ujmila 'ala akhirihim, which a note in at-Tabari's text explains as the total of their number given at the end of the book. Seek what is right and draw nearer renders saddidu wa qaribu, which the English Ibn Kathir gives as striving for the middle course or close to it. Sealed off, in that same English, is dying while doing the deeds of the people of Paradise, regardless of what came before.",
-            "bn": "তিরমিযী একে হাসান গরীব সহীহ বলেছেন, আর জানিয়েছেন, আরেকটি সনদেও কাছাকাছি শব্দে এটি এসেছে। তিনটি শব্দবন্ধ বুঝতে তাফসীরকারদের সাহায্য লাগে। 'শেষে মোট সংখ্যা' হলো উজমিলা আলা আখিরিহিম। তাবারীর গ্রন্থের এক টীকা এর ব্যাখ্যা দেয়: কিতাবের শেষে তাদের মোট সংখ্যার উল্লেখ। 'সঠিক পথে থাকো আর কাছাকাছি থাকো' হলো সাদ্দিদূ ওয়া কারিবূ। ইবন কাসীরের ইংরেজি সংস্করণ এর অর্থ করে মধ্যপথ বা তার কাছাকাছি থাকার জন্য সর্বোচ্চ চেষ্টা। আর আমল শেষ হওয়া মানে, সেই সংস্করণেরই ভাষায়, আগে যা-ই করুক, জান্নাতবাসীদের আমলরত অবস্থায় মৃত্যু।"
+            "bn": "তিরমিযী একে হাসান গরীব সহীহ বলেছেন, আর জানিয়েছেন, আরেকটি সনদেও কাছাকাছি শব্দে এটি এসেছে। তিনটি শব্দবন্ধ বুঝতে তাফসীরকারদের সাহায্য লাগে। 'শেষে মোট সংখ্যা' হলো উজমিলা আলা আখিরিহিম। তাবারীর গ্রন্থের এক টীকা এর ব্যাখ্যা দেয়: কিতাবের শেষে তাদের মোট সংখ্যার উল্লেখ। 'সঠিক পথে থাকো আর কাছাকাছি থাকো' হলো সাদ্দিদূ ওয়া কারিবূ। ইবন কাসীরের ইংরেজি সংস্করণ এর অর্থ করে মধ্যপথ বা তার কাছাকাছি থাকার জন্য সর্বোচ্চ চেষ্টা। আর আমল শেষ হওয়া মানে, সেই সংস্করণেরই ভাষায়, আগে যা-ই করুক, জান্নাতবাসীদের আমলরত অবস্থায় মৃত্যু।"
           },
           {
             "en": "Al-Baghawi carries the narration through his own chains with additions that are not in at-Tirmidhi's wording, and gives no grading of his own; his version closes with a party in Paradise as bounty from Allah, and a party in the Blaze as justice from Allah. Ibn Kathir mentions that closing phrase about justice. He then says the narrations on decree in the Sahih collections, the Sunan and the Musnads are very many, from 'Ali, Ibn Mas'ud, 'A'ishah and a great number of others.",
-            "bn": "বাগাভী নিজের সনদে বর্ণনাটি আনেন, এমন কিছু অতিরিক্ত কথাসহ যা তিরমিযীর শব্দে নেই। তিনি নিজে এর কোনো মান নির্ধারণ করেননি। তাঁর বর্ণনার শেষটা এমন: এক দল জান্নাতে, আল্লাহর অনুগ্রহে, আর এক দল জ্বলন্ত আগুনে, আল্লাহর ন্যায়বিচারে। ন্যায়বিচারের এ শেষ কথাটির উল্লেখ ইবন কাসীরও করেন। তারপর তিনি বলেন, তাকদীর বিষয়ে সহীহ গ্রন্থগুলোতে, সুনান ও মুসনাদগুলোতে অনেক বর্ণনা আছে। সেগুলো এসেছে আলী, ইবন মাসউদ, আয়েশা (রাঃ) ও আরও বহু সাহাবী থেকে।"
+            "bn": "বাগাভী নিজের সনদে বর্ণনাটি আনেন, এমন কিছু অতিরিক্ত কথাসহ যা তিরমিযীর শব্দে নেই। তিনি নিজে এর কোনো মান নির্ধারণ করেননি। তাঁর বর্ণনার শেষটা এমন: এক দল জান্নাতে, আল্লাহর অনুগ্রহে, আর এক দল জ্বলন্ত আগুনে, আল্লাহর ন্যায়বিচারে। ন্যায়বিচারের এ শেষ কথাটির উল্লেখ ইবন কাসীরও করেন। তারপর তিনি বলেন, তাকদীর বিষয়ে সহীহ গ্রন্থগুলোতে, সুনান ও মুসনাদগুলোতে অনেক বর্ণনা আছে। সেগুলো এসেছে আলী, ইবন মাসউদ, আয়েশা (রাঃ) ও আরও বহু সাহাবী থেকে।"
           }
         ]
       },
       {
         "h": {
           "en": "A Warning, Not a Verdict",
-          "bn": "সতর্কবার্তা, রায় নয়"
+          "bn": "সতর্কবার্তা, রায় নয়"
         },
         "p": [
           {
             "en": "This needs saying plainly. The verse describes the end of the Day of Gathering, two parties, one in Paradise and one in the Blaze. It speaks only of what it names and licenses nothing against any living person or community: not against those who opposed the Prophet ﷺ in Makkah, and not against anyone now. In the narration the books are from the Lord of the worlds, no name in them is read out, and the Companions' question is answered with an instruction to keep working.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একত্র হওয়ার দিনের শেষ দৃশ্যের বর্ণনা দেয়: দুটি দল, একটি জান্নাতে, একটি জ্বলন্ত আগুনে। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। মক্কায় যারা নবী ﷺ-এর বিরোধিতা করেছিল তাদের বিরুদ্ধেও নয়, আজকের কারও বিরুদ্ধেও নয়। বর্ণনাতেও কিতাব দুটি জগতসমূহের রবের পক্ষ থেকে, সেখান থেকে একটি নামও পড়ে শোনানো হয়নি। আর সাহাবীদের প্রশ্নের জবাবে এসেছে আমল চালিয়ে যাওয়ার নির্দেশ।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একত্র হওয়ার দিনের শেষ দৃশ্যের বর্ণনা দেয়: দুটি দল, একটি জান্নাতে, একটি জ্বলন্ত আগুনে। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না। মক্কায় যারা নবী ﷺ-এর বিরোধিতা করেছিল তাদের বিরুদ্ধেও নয়, আজকের কারও বিরুদ্ধেও নয়। বর্ণনাতেও কিতাব দুটি জগতসমূহের রবের পক্ষ থেকে, সেখান থেকে একটি নামও পড়ে শোনানো হয়নি। আর সাহাবীদের প্রশ্নের জবাবে এসেছে আমল চালিয়ে যাওয়ার নির্দেশ।"
           },
           {
             "en": "So the verse ends where it began, with a warning. The Prophet ﷺ was sent with a Qur'an his hearers could understand, to warn a city and those around it, and to warn of a day. The Companions, hearing of the two books, asked why they should work, and the answer they were given was to seek what is right and draw near. That is the reply the verse leaves its reader too, in whatever town around the Mother of Towns the warning reaches.",
-            "bn": "আয়াত তাই যেখানে শুরু হয়েছিল, সেখানেই শেষ হয়: একটি সতর্কবার্তায়। নবী ﷺ-কে পাঠানো হয়েছিল এমন কুরআন দিয়ে, যা শ্রোতারা বুঝতে পারত। উদ্দেশ্য ছিল একটা শহর আর তার চারপাশের মানুষকে সতর্ক করা, আর একটা দিন সম্পর্কে সতর্ক করা। দুই কিতাবের কথা শুনে সাহাবীরা জানতে চেয়েছিলেন, তবে আমল কেন। তাঁদের জবাব দেওয়া হয়েছিল: সঠিক পথে থাকো, তার কাছাকাছি থাকো। উম্মুল কুরার চারপাশের যে জনপদেই এ সতর্কবার্তা পৌঁছাক, পাঠকের জন্যও আয়াত সেই একই জবাব রেখে যায়।"
+            "bn": "আয়াত তাই যেখানে শুরু হয়েছিল, সেখানেই শেষ হয়: একটি সতর্কবার্তায়। নবী ﷺ-কে পাঠানো হয়েছিল এমন কুরআন দিয়ে, যা শ্রোতারা বুঝতে পারত। উদ্দেশ্য ছিল একটা শহর আর তার চারপাশের মানুষকে সতর্ক করা, আর একটা দিন সম্পর্কে সতর্ক করা। দুই কিতাবের কথা শুনে সাহাবীরা জানতে চেয়েছিলেন, তবে আমল কেন। তাঁদের জবাব দেওয়া হয়েছিল: সঠিক পথে থাকো, তার কাছাকাছি থাকো। উম্মুল কুরার চারপাশের যে জনপদেই এ সতর্কবার্তা পৌঁছাক, পাঠকের জন্যও আয়াত সেই একই জবাব রেখে যায়।"
           }
         ]
       }
@@ -321,11 +321,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Shara'a lakum mina-d-din: He has laid down for you, of the religion. Ma'arif al-Qur'an marks a turn: the verses before it spoke of outward blessings, the keys of the heavens and the earth and provision, and this one names the inner, spiritual blessing. As-Sa'di goes further and calls it the greatest favour God has done His servants: that He laid down for them the best of religions, the one He laid down for the choicest of His chosen.",
-            "bn": "শারাআ লাকুম মিনাদ দীন: তিনি তোমাদের জন্য দ্বীনের বিধান দিয়েছেন। মাআরিফুল কুরআন এখানে আলোচনার একটা মোড় দেখায়। আগের আয়াতগুলোতে ছিল বাইরের নিয়ামতের কথা: আসমান-জমিনের চাবি আর রিযিক। এই আয়াত বলে ভেতরের, রূহানি নিয়ামতের কথা। সা'দী আরও এগিয়ে বলেন, বান্দাদের প্রতি আল্লাহর সবচেয়ে বড় অনুগ্রহ এটাই: তিনি তাদের জন্য সেরা দ্বীন নির্ধারণ করেছেন। এ সেই দ্বীন, যা তিনি দিয়েছিলেন তাঁর বাছাই করা বান্দাদের মধ্যেও সেরাদের।"
+            "bn": "শারাআ লাকুম মিনাদ দীন: তিনি তোমাদের জন্য দ্বীনের বিধান দিয়েছেন। মাআরিফুল কুরআন এখানে আলোচনার একটা মোড় দেখায়। আগের আয়াতগুলোতে ছিল বাইরের নিয়ামতের কথা: আসমান-জমিনের চাবি আর রিযিক। এই আয়াত বলে ভেতরের, রূহানি নিয়ামতের কথা। সা'দী আরও এগিয়ে বলেন, বান্দাদের প্রতি আল্লাহর সবচেয়ে বড় অনুগ্রহ এটাই: তিনি তাদের জন্য সেরা দ্বীন নির্ধারণ করেছেন। এ সেই দ্বীন, যা তিনি দিয়েছিলেন তাঁর বাছাই করা বান্দাদের মধ্যেও সেরাদের।"
           },
           {
             "en": "The verb is a road word. Al-Qurtubi glosses shara'a as: He opened a way, made it plain and showed its paths. He then lays out the family of the root. Ash-shari' is the main road, and a house is called shari' when it stands on a through road. Al-Baghawi keeps it short: He made clear and set down for you. On this reading, the religion reaches its hearers as a way already cut, not a riddle each of them must work out alone.",
-            "bn": "ক্রিয়াটার সঙ্গে পথের সম্পর্ক। কুরতুবী শারাআর অর্থ বলেন: পথ খুলে দিয়েছেন, তা স্পষ্ট করেছেন, তার রাস্তাগুলো দেখিয়ে দিয়েছেন। তারপর তিনি একই ধাতুর অন্য শব্দগুলো দেখান। আশ-শারি' মানে বড় রাস্তা। যে বাড়ি চলাচলের খোলা রাস্তার ধারে, তাকেও শারি' বলা হয়। বাগাভী অল্প কথায় বলেন: তোমাদের জন্য স্পষ্ট করেছেন ও নির্ধারণ করে দিয়েছেন। এই পাঠে দ্বীন শ্রোতার কাছে আসে আগে থেকে কেটে রাখা পথ হয়ে। প্রত্যেককে একা একা ধাঁধার সমাধান খুঁজতে হয় না।"
+            "bn": "ক্রিয়াটার সঙ্গে পথের সম্পর্ক। কুরতুবী শারাআর অর্থ বলেন: পথ খুলে দিয়েছেন, তা স্পষ্ট করেছেন, তার রাস্তাগুলো দেখিয়ে দিয়েছেন। তারপর তিনি একই ধাতুর অন্য শব্দগুলো দেখান। আশ-শারি' মানে বড় রাস্তা। যে বাড়ি চলাচলের খোলা রাস্তার ধারে, তাকেও শারি' বলা হয়। বাগাভী অল্প কথায় বলেন: তোমাদের জন্য স্পষ্ট করেছেন ও নির্ধারণ করে দিয়েছেন। এই পাঠে দ্বীন শ্রোতার কাছে আসে আগে থেকে কেটে রাখা পথ হয়ে। প্রত্যেককে একা একা ধাঁধার সমাধান খুঁজতে হয় না।"
           }
         ]
       },
@@ -337,35 +337,35 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Five are named. Ibn Kathir reads the line in order: Nuh, the first messenger after Adam; the Prophet ﷺ, the last of them; and between them, of the ulu-l-'azm, the messengers of resolve, Ibrahim, Musa and 'Isa son of Maryam. He notes that the same five are gathered in 33:7, where God took a covenant from the prophets. The Muyassar also calls these five the ulu-l-'azm, adding \"according to the well-known view\". Al-Qurtubi gives another reason they are singled out: they were the bearers of law-codes.",
-            "bn": "নাম এসেছে পাঁচজনের। ইবন কাসীর সারিটা পড়েন ক্রম ধরে। নূহ (আঃ), আদম (আঃ)-এর পর প্রথম রাসূল। নবী ﷺ, রাসূলদের মধ্যে সর্বশেষ। আর এ দুইয়ের মাঝে উলুল আযম, অর্থাৎ দৃঢ়সংকল্প রাসূলদের তিনজন: ইবরাহীম, মূসা আর মারইয়াম-পুত্র ঈসা (আঃ)। তিনি দেখান, এই পাঁচজনই একসঙ্গে এসেছেন ৩৩:৭ আয়াতে, যেখানে আল্লাহ নবীদের কাছ থেকে অঙ্গীকার নিয়েছিলেন। মুয়াসসারও এই পাঁচজনকে উলুল আযম বলে, সঙ্গে যোগ করে: প্রসিদ্ধ মত অনুযায়ী। কুরতুবী তাঁদের আলাদা করে উল্লেখের আরেকটি কারণ দেন: তাঁরা ছিলেন শরীয়তের ধারক।"
+            "bn": "নাম এসেছে পাঁচজনের। ইবন কাসীর সারিটা পড়েন ক্রম ধরে। নূহ (আঃ), আদম (আঃ)-এর পর প্রথম রাসূল। নবী ﷺ, রাসূলদের মধ্যে সর্বশেষ। আর এ দুইয়ের মাঝে উলুল আযম, অর্থাৎ দৃঢ়সংকল্প রাসূলদের তিনজন: ইবরাহীম, মূসা আর মারইয়াম-পুত্র ঈসা (আঃ)। তিনি দেখান, এই পাঁচজনই একসঙ্গে এসেছেন ৩৩:৭ আয়াতে, যেখানে আল্লাহ নবীদের কাছ থেকে অঙ্গীকার নিয়েছিলেন। মুয়াসসারও এই পাঁচজনকে উলুল আযম বলে, সঙ্গে যোগ করে: প্রসিদ্ধ মত অনুযায়ী। কুরতুবী তাঁদের আলাদা করে উল্লেখের আরেকটি কারণ দেন: তাঁরা ছিলেন শরীয়তের ধারক।"
           },
           {
             "en": "Ma'arif al-Qur'an reads the order itself. Nuh comes first and the Prophet ﷺ last. Ibrahim stands in the middle as the father of prophets, accepted as a prophet even by the Arabs in their unbelief. Musa and 'Isa follow because their followers were present while the Qur'an was coming down. In 33:7 the Prophet ﷺ is named before Nuh, and Ma'arif offers, with a careful perhaps, that this points to his being first in the original allotment of prophethood though last to be sent.",
-            "bn": "মাআরিফুল কুরআন ক্রমটাকেই পড়ে দেখে। প্রথমে নূহ (আঃ), শেষে নবী ﷺ। মাঝখানে ইবরাহীম (আঃ), কারণ তিনি নবীদের পিতা। আরবরা কুফর আর শিরকে থেকেও তাঁকে নবী বলে মানত। তারপর মূসা ও ঈসা (আঃ), কারণ কুরআন নাজিলের সময় তাঁদের অনুসারীরাই সামনে উপস্থিত ছিল। ৩৩:৭ আয়াতে নবী ﷺ-এর নাম এসেছে নূহ (আঃ)-এর আগে। মাআরিফ সাবধানে 'হয়তো' বলে একটা ব্যাখ্যা দেয়: পাঠানো হয়েছে সবার শেষে, কিন্তু নবুওয়াতের আদি বণ্টনে তিনি সবার আগে।"
+            "bn": "মাআরিফুল কুরআন ক্রমটাকেই পড়ে দেখে। প্রথমে নূহ (আঃ), শেষে নবী ﷺ। মাঝখানে ইবরাহীম (আঃ), কারণ তিনি নবীদের পিতা। আরবরা কুফর আর শিরকে থেকেও তাঁকে নবী বলে মানত। তারপর মূসা ও ঈসা (আঃ), কারণ কুরআন নাজিলের সময় তাঁদের অনুসারীরাই সামনে উপস্থিত ছিল। ৩৩:৭ আয়াতে নবী ﷺ-এর নাম এসেছে নূহ (আঃ)-এর আগে। মাআরিফ সাবধানে 'হয়তো' বলে একটা ব্যাখ্যা দেয়: পাঠানো হয়েছে সবার শেষে, কিন্তু নবুওয়াতের আদি বণ্টনে তিনি সবার আগে।"
           },
           {
             "en": "Why does the line begin with Nuh and not with Adam? Al-Qurtubi quotes Ibn al-'Arabi, who cites the long intercession hadith in which people come to Nuh and call him the first messenger to the people of the earth; the wording stands in Sahih al-Bukhari (4712). Adam, he says, was the first prophet, but no duties were imposed on him and no prohibitions laid down. Nuh was sent with the prohibition of mothers, daughters and sisters in marriage, and with duties. Ma'arif adds that open unbelief first had to be faced in Nuh's time.",
-            "bn": "সারিটা আদম (আঃ) দিয়ে শুরু না হয়ে নূহ (আঃ) দিয়ে কেন? কুরতুবী ইবনুল আরাবীর বক্তব্য উদ্ধৃত করেন। তিনি শাফাআতের দীর্ঘ হাদিসের উল্লেখ করেন, যেখানে মানুষ নূহ (আঃ)-এর কাছে এসে তাঁকে বলে পৃথিবীবাসীর কাছে পাঠানো প্রথম রাসূল। সে কথা সহীহ বুখারীতে (৪৭১২) আছে। ইবনুল আরাবী বলেন, আদম (আঃ) প্রথম নবী ঠিকই, কিন্তু তাঁর উপর কোনো ফরজ চাপানো হয়নি, কোনো হারামও নির্ধারিত হয়নি। নূহ (আঃ)-কে পাঠানো হয় মা, মেয়ে ও বোনকে বিয়ে করা হারাম করে, আর তাঁর উপর দায়িত্বও দেওয়া হয়। মাআরিফ যোগ করে, প্রকাশ্য কুফরের মোকাবিলা প্রথম করতে হয়েছিল নূহ (আঃ)-এর যুগে।"
+            "bn": "সারিটা আদম (আঃ) দিয়ে শুরু না হয়ে নূহ (আঃ) দিয়ে কেন? কুরতুবী ইবনুল আরাবীর বক্তব্য উদ্ধৃত করেন। তিনি শাফাআতের দীর্ঘ হাদিসের উল্লেখ করেন, যেখানে মানুষ নূহ (আঃ)-এর কাছে এসে তাঁকে বলে পৃথিবীবাসীর কাছে পাঠানো প্রথম রাসূল। সে কথা সহীহ বুখারীতে (৪৭১২) আছে। ইবনুল আরাবী বলেন, আদম (আঃ) প্রথম নবী ঠিকই, কিন্তু তাঁর উপর কোনো ফরজ চাপানো হয়নি, কোনো হারামও নির্ধারিত হয়নি। নূহ (আঃ)-কে পাঠানো হয় মা, মেয়ে ও বোনকে বিয়ে করা হারাম করে, আর তাঁর উপর দায়িত্বও দেওয়া হয়। মাআরিফ যোগ করে, প্রকাশ্য কুফরের মোকাবিলা প্রথম করতে হয়েছিল নূহ (আঃ)-এর যুগে।"
           }
         ]
       },
       {
         "h": {
           "en": "One Core, Many Law-Codes",
-          "bn": "মূল এক, শরীয়ত ভিন্ন"
+          "bn": "মূল এক, শরীয়ত ভিন্ন"
         },
         "p": [
           {
             "en": "What, then, is the religion the five share? Ibn Kathir answers in one line: the worship of God alone, with no partner, and he cites 21:25, where every messenger before the Prophet ﷺ was told that there is no god but God. Their laws and ways may differ, he adds, and cites 5:48: to each of you We have appointed a law and a way. Al-Qurtubi draws the same boundary. The shared religion is tawhid, obedience to God, and faith in His messengers, His books and the Day of Recompense.",
-            "bn": "তাহলে পাঁচজনের অভিন্ন দ্বীনটা কী? ইবন কাসীর এক কথায় উত্তর দেন: শরিকহীনভাবে এক আল্লাহর ইবাদত। দলিল হিসেবে আনেন ২১:২৫, যেখানে নবী ﷺ-এর আগের প্রত্যেক রাসূলকে জানানো হয়েছিল, আল্লাহ ছাড়া কোনো ইলাহ নেই। তিনি যোগ করেন, তাঁদের বিধান আর পথ আলাদা হতে পারে, আর উদ্ধৃত করেন ৫:৪৮: তোমাদের প্রত্যেকের জন্য আমি একটি বিধান ও একটি পথ নির্ধারণ করেছি। কুরতুবীও একই সীমারেখা টানেন। অভিন্ন দ্বীন হলো তাওহিদ, আল্লাহর আনুগত্য, আর তাঁর রাসূল, তাঁর কিতাব ও প্রতিদান দিবসের প্রতি ঈমান।"
+            "bn": "তাহলে পাঁচজনের অভিন্ন দ্বীনটা কী? ইবন কাসীর এক কথায় উত্তর দেন: শরিকহীনভাবে এক আল্লাহর ইবাদত। দলিল হিসেবে আনেন ২১:২৫, যেখানে নবী ﷺ-এর আগের প্রত্যেক রাসূলকে জানানো হয়েছিল, আল্লাহ ছাড়া কোনো ইলাহ নেই। তিনি যোগ করেন, তাঁদের বিধান আর পথ আলাদা হতে পারে, আর উদ্ধৃত করেন ৫:৪৮: তোমাদের প্রত্যেকের জন্য আমি একটি বিধান ও একটি পথ নির্ধারণ করেছি। কুরতুবীও একই সীমারেখা টানেন। অভিন্ন দ্বীন হলো তাওহিদ, আল্লাহর আনুগত্য, আর তাঁর রাসূল, তাঁর কিতাব ও প্রতিদান দিবসের প্রতি ঈমান।"
           },
           {
             "en": "Al-Qurtubi says the verse does not mean the law-codes, which serve the welfare of each nation as its conditions require and so differ, and he too cites 5:48. He then quotes Ibn al-'Arabi's longer list of what never changed on the tongues of the prophets: tawhid, prayer, zakat, fasting and pilgrimage; truthfulness, keeping one's word, returning trusts and joining ties of kinship; and the prohibition of unbelief, killing, fornication, harm to people in any form and cruelty to animals. Beyond that, he says, the laws differed as wisdom required.",
-            "bn": "কুরতুবী বলেন, এখানে শরীয়তগুলো বোঝানো হয়নি। ওগুলো প্রত্যেক জাতির অবস্থা অনুযায়ী তার কল্যাণের ব্যবস্থা, তাই সেগুলো ভিন্ন ভিন্ন। তিনিও ৫:৪৮ উদ্ধৃত করেন। তারপর ইবনুল আরাবীর একটা দীর্ঘ তালিকা আনেন, যা নবীদের মুখে কখনো বদলায়নি। তাওহিদ, নামাজ, যাকাত, রোজা আর হজ। সত্যবাদিতা, ওয়াদা রক্ষা, আমানত আদায় আর আত্মীয়তার বন্ধন জোড়া। আর কুফর, খুন, যিনা, যেকোনোভাবে মানুষকে কষ্ট দেওয়া ও প্রাণীর প্রতি জুলুম হারাম। এর বাইরে, তিনি বলেন, হিকমতের দাবি অনুযায়ী বিধান ভিন্ন হয়েছে।"
+            "bn": "কুরতুবী বলেন, এখানে শরীয়তগুলো বোঝানো হয়নি। ওগুলো প্রত্যেক জাতির অবস্থা অনুযায়ী তার কল্যাণের ব্যবস্থা, তাই সেগুলো ভিন্ন ভিন্ন। তিনিও ৫:৪৮ উদ্ধৃত করেন। তারপর ইবনুল আরাবীর একটা দীর্ঘ তালিকা আনেন, যা নবীদের মুখে কখনো বদলায়নি। তাওহিদ, নামাজ, যাকাত, রোজা আর হজ। সত্যবাদিতা, ওয়াদা রক্ষা, আমানত আদায় আর আত্মীয়তার বন্ধন জোড়া। আর কুফর, খুন, যিনা, যেকোনোভাবে মানুষকে কষ্ট দেওয়া ও প্রাণীর প্রতি জুলুম হারাম। এর বাইরে, তিনি বলেন, হিকমতের দাবি অনুযায়ী বিধান ভিন্ন হয়েছে।"
           },
           {
             "en": "At-Tabari gathers the early voices. Mujahid: what He enjoined on you and on His prophets, all one religion. As-Suddi: it is the religion as a whole. Qatada: Nuh was sent with a law that made the lawful lawful and the forbidden forbidden. Al-Qurtubi and al-Baghawi add another line from Mujahid: every prophet was charged with prayer, zakat and acknowledging obedience to God. At-Tabari also reports, from Ibn 'Abbas, a terse answer: enough for you is what you have been told.",
-            "bn": "তাবারী পূর্বসূরিদের বক্তব্য জড়ো করেন। মুজাহিদ বলেন: তোমাকে আর তাঁর নবীদের যা নির্দেশ দিয়েছেন, সবই এক দ্বীন। সুদ্দী বলেন: এটা পুরো দ্বীন। কাতাদা বলেন: নূহ (আঃ)-কে পাঠানো হয়েছিল এমন শরীয়ত দিয়ে, যা হালালকে হালাল আর হারামকে হারাম করে। কুরতুবী ও বাগাভী মুজাহিদের আরেকটি কথা আনেন: প্রত্যেক নবীকে নামাজ, যাকাত আর আল্লাহর আনুগত্য স্বীকারের নির্দেশ দেওয়া হয়েছিল। তাবারী ইবন আব্বাস (রাঃ) থেকে একটা ছোট্ট জবাবও আনেন: তোমাকে যা বলা হয়েছে, সেটুকুই তোমার জন্য যথেষ্ট।"
+            "bn": "তাবারী পূর্বসূরিদের বক্তব্য জড়ো করেন। মুজাহিদ বলেন: তোমাকে আর তাঁর নবীদের যা নির্দেশ দিয়েছেন, সবই এক দ্বীন। সুদ্দী বলেন: এটা পুরো দ্বীন। কাতাদা বলেন: নূহ (আঃ)-কে পাঠানো হয়েছিল এমন শরীয়ত দিয়ে, যা হালালকে হালাল আর হারামকে হারাম করে। কুরতুবী ও বাগাভী মুজাহিদের আরেকটি কথা আনেন: প্রত্যেক নবীকে নামাজ, যাকাত আর আল্লাহর আনুগত্য স্বীকারের নির্দেশ দেওয়া হয়েছিল। তাবারী ইবন আব্বাস (রাঃ) থেকে একটা ছোট্ট জবাবও আনেন: তোমাকে যা বলা হয়েছে, সেটুকুই তোমার জন্য যথেষ্ট।"
           }
         ]
       },
@@ -377,47 +377,47 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir brings a hadith to this verse in a short form: we, the company of prophets, are awlad 'allat, sons of one father by different mothers; our religion is one. The fuller wording is in Sahih al-Bukhari (3443), from Abu Hurayra, that the Messenger of God ﷺ said: \"Both in this world and in the Hereafter, I am the nearest of all the people to Jesus, the son of Mary. The prophets are paternal brothers; their mothers are different, but their religion is one.\" It stands in al-Bukhari's Sahih, his own collection of sound reports.",
-            "bn": "ইবন কাসীর এই আয়াতে একটি হাদিস আনেন সংক্ষিপ্ত আকারে: আমরা নবীরা একই পিতার ভিন্ন ভিন্ন মায়ের সন্তান, আমাদের দ্বীন এক। পূর্ণ শব্দ পাওয়া যায় সহীহ বুখারীতে (৩৪৪৩), আবু হুরায়রা (রাঃ) থেকে। রাসূলুল্লাহ ﷺ বলেছেন: \"দুনিয়া ও আখিরাতে মারইয়াম-পুত্র ঈসার সবচেয়ে নিকটবর্তী মানুষ আমি। নবীরা বৈমাত্রেয় ভাই: তাঁদের মা ভিন্ন ভিন্ন, আর তাঁদের দ্বীন এক।\" হাদিসটি বুখারী তাঁর সহীহ গ্রন্থে এনেছেন, যা তাঁর নিজের বাছাই করা বিশুদ্ধ বর্ণনার সংকলন।"
+            "bn": "ইবন কাসীর এই আয়াতে একটি হাদিস আনেন সংক্ষিপ্ত আকারে: আমরা নবীরা একই পিতার ভিন্ন ভিন্ন মায়ের সন্তান, আমাদের দ্বীন এক। পূর্ণ শব্দ পাওয়া যায় সহীহ বুখারীতে (৩৪৪৩), আবু হুরায়রা (রাঃ) থেকে। রাসূলুল্লাহ ﷺ বলেছেন: \"দুনিয়া ও আখিরাতে মারইয়াম-পুত্র ঈসার সবচেয়ে নিকটবর্তী মানুষ আমি। নবীরা বৈমাত্রেয় ভাই: তাঁদের মা ভিন্ন ভিন্ন, আর তাঁদের দ্বীন এক।\" হাদিসটি বুখারী তাঁর সহীহ গ্রন্থে এনেছেন, যা তাঁর নিজের বাছাই করা বিশুদ্ধ বর্ণনার সংকলন।"
           },
           {
             "en": "The hadith gives its own image: one father, several mothers. Ibn Kathir draws it into this verse: what the prophets hold in common is the worship of God alone, with no partner, even though their laws and ways differ, and he sets this beside 5:48. The opening clause, the Prophet's ﷺ nearness to 'Isa, returns in the report just before it (3442), also from Abu Hurayra, beside a further line: \"I am the nearest of all the people to the son of Mary, and all the prophets are paternal brothers, and there has been no prophet between me and him.\"",
-            "bn": "হাদিসটি নিজেই একটা ছবি দেয়: বাবা এক, মা অনেক। ইবন কাসীর ছবিটাকে আয়াতের সঙ্গে মেলান। নবীদের মধ্যে যা অভিন্ন তা হলো শরিকহীনভাবে এক আল্লাহর ইবাদত, যদিও তাঁদের বিধান আর পথ আলাদা। এর পাশে তিনি ৫:৪৮ রাখেন। হাদিসের শুরুর কথা, ঈসা (আঃ)-এর সঙ্গে নবী ﷺ-এর নৈকট্য, আবার এসেছে ঠিক আগের বর্ণনায় (৩৪৪২), সেটিও আবু হুরায়রা (রাঃ) থেকে, পাশে আরেকটি বাক্যসহ: \"মারইয়াম-পুত্রের সবচেয়ে নিকটবর্তী মানুষ আমি। সব নবী বৈমাত্রেয় ভাই। আর আমার ও তাঁর মাঝে কোনো নবী আসেননি।\""
+            "bn": "হাদিসটি নিজেই একটা ছবি দেয়: বাবা এক, মা অনেক। ইবন কাসীর ছবিটাকে আয়াতের সঙ্গে মেলান। নবীদের মধ্যে যা অভিন্ন তা হলো শরিকহীনভাবে এক আল্লাহর ইবাদত, যদিও তাঁদের বিধান আর পথ আলাদা। এর পাশে তিনি ৫:৪৮ রাখেন। হাদিসের শুরুর কথা, ঈসা (আঃ)-এর সঙ্গে নবী ﷺ-এর নৈকট্য, আবার এসেছে ঠিক আগের বর্ণনায় (৩৪৪২), সেটিও আবু হুরায়রা (রাঃ) থেকে, পাশে আরেকটি বাক্যসহ: \"মারইয়াম-পুত্রের সবচেয়ে নিকটবর্তী মানুষ আমি। সব নবী বৈমাত্রেয় ভাই। আর আমার ও তাঁর মাঝে কোনো নবী আসেননি।\""
           }
         ]
       },
       {
         "h": {
           "en": "One Bequest, Spelt Out",
-          "bn": "একটিই ওসিয়ত, খুলে বলা"
+          "bn": "একটিই ওসিয়ত, খুলে বলা"
         },
         "p": [
           {
             "en": "An aqimu-d-dina wa la tatafarraqu fih: that you establish the religion and do not split apart in it. At-Tabari reads it as the content of what was enjoined and weighs three ways of parsing the little word an, all leading him to one conclusion: what all these prophets were charged with was a single bequest, to establish the true religion and not divide in it. Al-Qurtubi adds a fourth parsing, an as a plain particle of explanation.",
-            "bn": "আন আকীমুদ দীনা ওয়ালা তাতাফাররাকূ ফীহ: দ্বীন কায়েম করো, আর তাতে বিভক্ত হয়ো না। তাবারী এই অংশটুকুকে সেই নির্দেশের বিষয়বস্তু হিসেবে পড়েন, যার ওসিয়ত করা হয়েছিল। ছোট্ট শব্দ 'আন'-এর তিন রকম ব্যাকরণগত অবস্থান তিনি যাচাই করেন। তিনটিই তাঁকে একই সিদ্ধান্তে পৌঁছে দেয়: এই নবীদের সবাইকে দেওয়া হয়েছিল একটিমাত্র ওসিয়ত, সত্য দ্বীন কায়েম করা আর তাতে বিভক্ত না হওয়া। কুরতুবী চতুর্থ আরেকটি সম্ভাবনা যোগ করেন: 'আন' এখানে শুধু ব্যাখ্যাসূচক অব্যয়।"
+            "bn": "আন আকীমুদ দীনা ওয়ালা তাতাফাররাকূ ফীহ: দ্বীন কায়েম করো, আর তাতে বিভক্ত হয়ো না। তাবারী এই অংশটুকুকে সেই নির্দেশের বিষয়বস্তু হিসেবে পড়েন, যার ওসিয়ত করা হয়েছিল। ছোট্ট শব্দ 'আন'-এর তিন রকম ব্যাকরণগত অবস্থান তিনি যাচাই করেন। তিনটিই তাঁকে একই সিদ্ধান্তে পৌঁছে দেয়: এই নবীদের সবাইকে দেওয়া হয়েছিল একটিমাত্র ওসিয়ত, সত্য দ্বীন কায়েম করা আর তাতে বিভক্ত না হওয়া। কুরতুবী চতুর্থ আরেকটি সম্ভাবনা যোগ করেন: 'আন' এখানে শুধু ব্যাখ্যাসূচক অব্যয়।"
           },
           {
             "en": "What does establishing it mean? At-Tabari: act on it as it was laid down and made obligatory, and as-Suddi says simply, act on it. Ibn al-'Arabi, quoted by al-Qurtubi, reads make it standing as keeping it permanent, preserved and settled, without dispute or disturbance; some kept that charge and some broke it, and he cites 48:10, whoever breaks his pledge breaks it against himself. As-Sa'di widens the circle: establish all its laws, roots and branches, in yourselves, and strive to establish it among others.",
-            "bn": "কায়েম করা মানে কী? তাবারী বলেন: যেভাবে বিধান দেওয়া হয়েছে আর ফরজ করা হয়েছে, সেভাবে আমল করা। সুদ্দী সংক্ষেপে বলেন: তার উপর আমল করো। কুরতুবীর উদ্ধৃতিতে ইবনুল আরাবী 'দাঁড় করাও' কথাটিকে পড়েন এভাবে: দ্বীনকে স্থায়ী, সুরক্ষিত আর স্থির রাখো, মতভেদ আর টলমল ছাড়া। কেউ সেই দায়িত্ব পালন করেছে, কেউ ভেঙেছে। এখানে তিনি ৪৮:১০ উদ্ধৃত করেন: যে অঙ্গীকার ভাঙে, সে নিজের ক্ষতির জন্যই ভাঙে। সা'দী পরিধি আরও বাড়ান: দ্বীনের মূল ও শাখা সব বিধান নিজেদের মধ্যে কায়েম করো, আর অন্যদের মধ্যেও কায়েম করতে চেষ্টা চালাও।"
+            "bn": "কায়েম করা মানে কী? তাবারী বলেন: যেভাবে বিধান দেওয়া হয়েছে আর ফরজ করা হয়েছে, সেভাবে আমল করা। সুদ্দী সংক্ষেপে বলেন: তার উপর আমল করো। কুরতুবীর উদ্ধৃতিতে ইবনুল আরাবী 'দাঁড় করাও' কথাটিকে পড়েন এভাবে: দ্বীনকে স্থায়ী, সুরক্ষিত আর স্থির রাখো, মতভেদ আর টলমল ছাড়া। কেউ সেই দায়িত্ব পালন করেছে, কেউ ভেঙেছে। এখানে তিনি ৪৮:১০ উদ্ধৃত করেন: যে অঙ্গীকার ভাঙে, সে নিজের ক্ষতির জন্যই ভাঙে। সা'দী পরিধি আরও বাড়ান: দ্বীনের মূল ও শাখা সব বিধান নিজেদের মধ্যে কায়েম করো, আর অন্যদের মধ্যেও কায়েম করতে চেষ্টা চালাও।"
           }
         ]
       },
       {
         "h": {
           "en": "Differing Without Dividing",
-          "bn": "মতভেদ আছে, বিভেদ নয়"
+          "bn": "মতভেদ আছে, বিভেদ নয়"
         },
         "p": [
           {
             "en": "On wa la tatafarraqu fih the glosses run close together. At-Tabari: do not differ in the religion you were commanded to establish, as the factions before you differed. He adds Qatada's line: learn that division is ruin and the community is security. Ibn Kathir: God enjoined all the prophets to harmony and community and forbade them division and difference. Al-Baghawi: God sent every prophet with establishing the religion, with fellowship and community, and with leaving division and opposition.",
-            "bn": "ওয়ালা তাতাফাররাকূ ফীহ নিয়ে ব্যাখ্যাগুলো কাছাকাছি। তাবারী বলেন: যে দ্বীন কায়েমের নির্দেশ পেয়েছ, তাতে মতভেদ কোরো না, যেমন তোমাদের আগের দলগুলো করেছিল। সঙ্গে আনেন কাতাদার কথা: জেনে রাখো, বিভক্তি ধ্বংস, আর জামাআত নিরাপত্তা। ইবন কাসীর বলেন, আল্লাহ সব নবীকে মিলেমিশে জামাআতবদ্ধ থাকার নির্দেশ দিয়েছেন, আর বিভক্তি ও মতবিরোধ থেকে নিষেধ করেছেন। বাগাভী বলেন, আল্লাহ প্রত্যেক নবীকে পাঠিয়েছেন দ্বীন কায়েম, সম্প্রীতি আর জামাআত নিয়ে, আর বিভক্তি ও বিরোধ ত্যাগের নির্দেশ দিয়ে।"
+            "bn": "ওয়ালা তাতাফাররাকূ ফীহ নিয়ে ব্যাখ্যাগুলো কাছাকাছি। তাবারী বলেন: যে দ্বীন কায়েমের নির্দেশ পেয়েছ, তাতে মতভেদ কোরো না, যেমন তোমাদের আগের দলগুলো করেছিল। সঙ্গে আনেন কাতাদার কথা: জেনে রাখো, বিভক্তি ধ্বংস, আর জামাআত নিরাপত্তা। ইবন কাসীর বলেন, আল্লাহ সব নবীকে মিলেমিশে জামাআতবদ্ধ থাকার নির্দেশ দিয়েছেন, আর বিভক্তি ও মতবিরোধ থেকে নিষেধ করেছেন। বাগাভী বলেন, আল্লাহ প্রত্যেক নবীকে পাঠিয়েছেন দ্বীন কায়েম, সম্প্রীতি আর জামাআত নিয়ে, আর বিভক্তি ও বিরোধ ত্যাগের নির্দেশ দিয়ে।"
           },
           {
             "en": "Where exactly the line falls, two of the commentators draw differently. As-Sa'di asks for agreement on the roots of the religion and on its branches, and names the danger: that particular questions split you into parties and factions, each hostile to the other, while you agree on the root of your religion. He counts the gatherings the law itself commands, the pilgrimage, the two Eids, the Friday prayer and the five daily prayers among them, as forms of holding together.",
-            "bn": "সীমারেখা ঠিক কোথায়, এ নিয়ে দুজন তাফসীরকার ভিন্নভাবে রেখা টানেন। সা'দী চান দ্বীনের মূল ও শাখা, দুই ক্ষেত্রেই ঐক্য। বিপদটার নামও তিনি বলেন: খুঁটিনাটি মাসআলা যেন তোমাদের এমন দলে দলে ভাগ করে না ফেলে, যারা দ্বীনের মূলে একমত থেকেও একে অপরের শত্রু। শরীয়ত নিজে যেসব সমাবেশের নির্দেশ দিয়েছে, যেমন হজ, দুই ঈদ, জুমআ আর পাঁচ ওয়াক্ত নামাজ, সেগুলোকে তিনি একসঙ্গে থাকারই নানা রূপ হিসেবে গণ্য করেন।"
+            "bn": "সীমারেখা ঠিক কোথায়, এ নিয়ে দুজন তাফসীরকার ভিন্নভাবে রেখা টানেন। সা'দী চান দ্বীনের মূল ও শাখা, দুই ক্ষেত্রেই ঐক্য। বিপদটার নামও তিনি বলেন: খুঁটিনাটি মাসআলা যেন তোমাদের এমন দলে দলে ভাগ করে না ফেলে, যারা দ্বীনের মূলে একমত থেকেও একে অপরের শত্রু। শরীয়ত নিজে যেসব সমাবেশের নির্দেশ দিয়েছে, যেমন হজ, দুই ঈদ, জুমআ আর পাঁচ ওয়াক্ত নামাজ, সেগুলোকে তিনি একসঙ্গে থাকারই নানা রূপ হিসেবে গণ্য করেন।"
           },
           {
             "en": "Ma'arif al-Qur'an places the prohibition at the shared core. Reading the verse beside 5:48, it says the forbidden dissension concerns the injunctions common to all the prophets. Differences among the leading jurists on secondary questions, where no express text exists or texts appear to pull apart, are not that dissension; they go back to the Companions, and the jurists unanimously count them a blessing. So as-Sa'di aims at hostility over questions, and Ma'arif at dispute over the common core. The verse names no group, and neither does this reading of it.",
-            "bn": "মাআরিফুল কুরআন নিষেধাজ্ঞাটাকে রাখে অভিন্ন মূলের জায়গায়। ৫:৪৮ পাশে রেখে সে বলে, নিষিদ্ধ বিরোধ হলো সব নবীর শরীয়তে অভিন্ন বিধানগুলো নিয়ে। শাখাগত মাসআলায় বড় মুজতাহিদদের মতভেদ, যেখানে স্পষ্ট নস নেই কিংবা নসগুলো আপাতদৃষ্টিতে ভিন্ন দিকে যায়, সেটা ওই নিষিদ্ধ বিরোধ নয়। সাহাবীদের যুগ থেকেই তা চলে আসছে, আর ফকীহরা সর্বসম্মতভাবে একে নিয়ামত গণ্য করেন। তাহলে সা'দীর লক্ষ্য মাসআলা নিয়ে শত্রুতা, আর মাআরিফের লক্ষ্য অভিন্ন মূল নিয়ে বিরোধ। আয়াত কোনো দলের নাম নেয় না, এই আলোচনাও নেয় না।"
+            "bn": "মাআরিফুল কুরআন নিষেধাজ্ঞাটাকে রাখে অভিন্ন মূলের জায়গায়। ৫:৪৮ পাশে রেখে সে বলে, নিষিদ্ধ বিরোধ হলো সব নবীর শরীয়তে অভিন্ন বিধানগুলো নিয়ে। শাখাগত মাসআলায় বড় মুজতাহিদদের মতভেদ, যেখানে স্পষ্ট নস নেই কিংবা নসগুলো আপাতদৃষ্টিতে ভিন্ন দিকে যায়, সেটা ওই নিষিদ্ধ বিরোধ নয়। সাহাবীদের যুগ থেকেই তা চলে আসছে, আর ফকীহরা সর্বসম্মতভাবে একে নিয়ামত গণ্য করেন। তাহলে সা'দীর লক্ষ্য মাসআলা নিয়ে শত্রুতা, আর মাআরিফের লক্ষ্য অভিন্ন মূল নিয়ে বিরোধ। আয়াত কোনো দলের নাম নেয় না, এই আলোচনাও নেয় না।"
           }
         ]
       },
@@ -429,15 +429,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Kabura 'ala-l-mushrikina ma tad'uhum ilayh: heavy upon the mushrikin is what you call them to. At-Tabari names the audience and the content: heavy upon those of your people, O Muhammad, who associate others with God, is your call to devote worship sincerely to God, to single Him out in divinity and to disown the gods and rivals besides Him. Al-Qurtubi and al-Baghawi: tawhid and the rejection of idols. Qatada, in at-Tabari, says the witness that there is no god but God weighed on them.",
-            "bn": "কাবুরা আলাল মুশরিকীনা মা তাদউহুম ইলাইহ: তুমি তাদের যেদিকে ডাকছ, তা মুশরিকদের কাছে ভারী ঠেকে। তাবারী শ্রোতাদের আর ডাকের বিষয় দুটোই চিনিয়ে দেন। হে মুহাম্মাদ, তোমার কওমের যারা আল্লাহর সঙ্গে শরিক করে, তাদের কাছে ভারী ঠেকে তোমার এই ডাক: ইবাদত খাঁটিভাবে আল্লাহর জন্য করো, উলূহিয়্যাতে তাঁকে একক মানো, আর তাঁকে ছাড়া অন্য সব উপাস্য ও সমকক্ষ থেকে সম্পর্ক ছিন্ন করো। কুরতুবী ও বাগাভী বলেন: তাওহিদ আর মূর্তি বর্জন। তাবারীর উদ্ধৃতিতে কাতাদা বলেন, লা ইলাহা ইল্লাল্লাহর সাক্ষ্য তাদের কাছে ভারী লেগেছিল।"
+            "bn": "কাবুরা আলাল মুশরিকীনা মা তাদউহুম ইলাইহ: তুমি তাদের যেদিকে ডাকছ, তা মুশরিকদের কাছে ভারী ঠেকে। তাবারী শ্রোতাদের আর ডাকের বিষয় দুটোই চিনিয়ে দেন। হে মুহাম্মাদ, তোমার কওমের যারা আল্লাহর সঙ্গে শরিক করে, তাদের কাছে ভারী ঠেকে তোমার এই ডাক: ইবাদত খাঁটিভাবে আল্লাহর জন্য করো, উলূহিয়্যাতে তাঁকে একক মানো, আর তাঁকে ছাড়া অন্য সব উপাস্য ও সমকক্ষ থেকে সম্পর্ক ছিন্ন করো। কুরতুবী ও বাগাভী বলেন: তাওহিদ আর মূর্তি বর্জন। তাবারীর উদ্ধৃতিতে কাতাদা বলেন, লা ইলাহা ইল্লাল্লাহর সাক্ষ্য তাদের কাছে ভারী লেগেছিল।"
           },
           {
             "en": "Qatada goes on: Iblis and his troops set themselves against it, and God refused anything but to carry it through and make it prevail over whoever opposed it. As-Sa'di says it was hard on them in the extreme, since they were called to devotion to God alone, and cites two verses: 39:45, when God alone is mentioned their hearts shrink, and 38:5, has he made the gods one God? Ma'arif al-Qur'an gives the reason: they followed their desires and had no intention of understanding the truth.",
-            "bn": "কাতাদা আরও বলেন: ইবলিস ও তার বাহিনী সেই সাক্ষ্যের বিরুদ্ধে দাঁড়িয়েছিল, কিন্তু আল্লাহ তা চালু রাখা আর বিরোধীদের উপর তাকে বিজয়ী করা ছাড়া আর কিছুতে রাজি হননি। সা'দী বলেন, তাদের কাছে এটা চরম কষ্টকর ছিল, কারণ তাদের ডাকা হচ্ছিল একমাত্র আল্লাহর জন্য ইখলাসের দিকে। তিনি দুটি আয়াত আনেন। ৩৯:৪৫: শুধু আল্লাহর নাম নিলে তাদের অন্তর সংকুচিত হয়ে যায়। আর ৩৮:৫: সে কি সব উপাস্যকে এক ইলাহ বানিয়ে ফেলল? মাআরিফুল কুরআন কারণটা বলে দেয়: তারা প্রবৃত্তির অনুসরণ করত, সত্য বোঝার ইচ্ছাই তাদের ছিল না।"
+            "bn": "কাতাদা আরও বলেন: ইবলিস ও তার বাহিনী সেই সাক্ষ্যের বিরুদ্ধে দাঁড়িয়েছিল, কিন্তু আল্লাহ তা চালু রাখা আর বিরোধীদের উপর তাকে বিজয়ী করা ছাড়া আর কিছুতে রাজি হননি। সা'দী বলেন, তাদের কাছে এটা চরম কষ্টকর ছিল, কারণ তাদের ডাকা হচ্ছিল একমাত্র আল্লাহর জন্য ইখলাসের দিকে। তিনি দুটি আয়াত আনেন। ৩৯:৪৫: শুধু আল্লাহর নাম নিলে তাদের অন্তর সংকুচিত হয়ে যায়। আর ৩৮:৫: সে কি সব উপাস্যকে এক ইলাহ বানিয়ে ফেলল? মাআরিফুল কুরআন কারণটা বলে দেয়: তারা প্রবৃত্তির অনুসরণ করত, সত্য বোঝার ইচ্ছাই তাদের ছিল না।"
           },
           {
             "en": "This needs saying plainly. The verse describes how the Prophet's ﷺ own hearers in his time received his call, and at-Tabari reads the mushrikin here as those of his people. It reports their response and licenses nothing against any living person or community. What it leaves the reader is a question turned inward: does the call to God alone weigh on my own heart, and what is that heart leaning on instead?",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে, নবী ﷺ-এর সময়ে তাঁর নিজের শ্রোতারা তাঁর ডাক কীভাবে গ্রহণ করেছিল। তাবারী এখানে মুশরিক বলতে তাঁর কওমের লোকদেরই বোঝেন। আয়াত তাদের প্রতিক্রিয়ার খবর দেয়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। পাঠকের জন্য যা থাকে তা ভেতরের দিকে ফেরানো এক প্রশ্ন: এক আল্লাহর দিকে ডাক কি আমার নিজের মনেও ভারী লাগে? আর তার বদলে মন কিসের উপর ভর দিয়ে আছে?"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে, নবী ﷺ-এর সময়ে তাঁর নিজের শ্রোতারা তাঁর ডাক কীভাবে গ্রহণ করেছিল। তাবারী এখানে মুশরিক বলতে তাঁর কওমের লোকদেরই বোঝেন। আয়াত তাদের প্রতিক্রিয়ার খবর দেয়। আজকের কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। পাঠকের জন্য যা থাকে তা ভেতরের দিকে ফেরানো এক প্রশ্ন: এক আল্লাহর দিকে ডাক কি আমার নিজের মনেও ভারী লাগে? আর তার বদলে মন কিসের উপর ভর দিয়ে আছে?"
           }
         ]
       },
@@ -449,15 +449,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Allahu yajtabi ilayhi man yasha': God chooses for Himself whom He wills. Al-Qurtubi defines ijtiba' as choosing, here choosing for tawhid, and the Muyassar says the same. At-Tabari: He selects whom He wills of His creation and takes for His friendship whom He loves. As-Sa'di: He chooses from His creation those He knows to be fit to be chosen, for His message and His friendship.",
-            "bn": "আল্লাহু ইয়াজতাবী ইলাইহি মাঁই ইয়াশা: আল্লাহ যাকে ইচ্ছা নিজের জন্য বেছে নেন। কুরতুবী ইজতিবার অর্থ বলেন বাছাই করা, এখানে তাওহিদের জন্য বাছাই। মুয়াসসারও তা-ই বলে। তাবারী বলেন: তিনি তাঁর সৃষ্টির মধ্য থেকে যাকে ইচ্ছা বেছে নেন, আর যাকে ভালোবাসেন তাকে নিজের বন্ধুত্বের জন্য গ্রহণ করেন। সা'দী বলেন: সৃষ্টির মধ্যে যাদের তিনি বাছাইয়ের উপযুক্ত বলে জানেন, তাদেরই তিনি রিসালাত আর নিজের বন্ধুত্বের জন্য বেছে নেন।"
+            "bn": "আল্লাহু ইয়াজতাবী ইলাইহি মাঁই ইয়াশা: আল্লাহ যাকে ইচ্ছা নিজের জন্য বেছে নেন। কুরতুবী ইজতিবার অর্থ বলেন বাছাই করা, এখানে তাওহিদের জন্য বাছাই। মুয়াসসারও তা-ই বলে। তাবারী বলেন: তিনি তাঁর সৃষ্টির মধ্য থেকে যাকে ইচ্ছা বেছে নেন, আর যাকে ভালোবাসেন তাকে নিজের বন্ধুত্বের জন্য গ্রহণ করেন। সা'দী বলেন: সৃষ্টির মধ্যে যাদের তিনি বাছাইয়ের উপযুক্ত বলে জানেন, তাদেরই তিনি রিসালাত আর নিজের বন্ধুত্বের জন্য বেছে নেন।"
           },
           {
             "en": "Wa yahdi ilayhi man yunib: and He guides to Himself whoever turns back. At-Tabari, from Mujahid: He grants success in obeying Him and following the truth His Prophet brought to whoever comes towards His obedience and returns in repentance from disobeying Him. Al-Qurtubi: He draws out for His religion whoever returns to Him. As-Sa'di calls this turning the cause on the servant's side by which he reaches God's guidance, and counts a good aim joined to effort in seeking guidance among the means that make it easy, citing 5:16.",
-            "bn": "ওয়া ইয়াহদী ইলাইহি মাঁই ইউনীব: আর যে ফিরে আসে, তাকে তিনি নিজের দিকে পথ দেখান। তাবারী মুজাহিদ থেকে আনেন: যে তাঁর আনুগত্যের দিকে এগিয়ে আসে আর নাফরমানি থেকে তওবা করে ফেরে, তাকে তিনি আনুগত্যের আর নবীর আনা সত্য অনুসরণের তাওফীক দেন। কুরতুবী বলেন: যে তাঁর দিকে ফেরে, তাকে তিনি নিজের দ্বীনের জন্য বেছে আলাদা করে নেন। সা'দী এই ফিরে আসাকে বলেন বান্দার দিক থেকে সেই উপায়, যা দিয়ে সে আল্লাহর হিদায়াতে পৌঁছায়। নিয়ত ভালো হলে আর হিদায়াত খুঁজতে চেষ্টা থাকলে পথ সহজ হয়, এ কথা বলে তিনি ৫:১৬ আনেন।"
+            "bn": "ওয়া ইয়াহদী ইলাইহি মাঁই ইউনীব: আর যে ফিরে আসে, তাকে তিনি নিজের দিকে পথ দেখান। তাবারী মুজাহিদ থেকে আনেন: যে তাঁর আনুগত্যের দিকে এগিয়ে আসে আর নাফরমানি থেকে তওবা করে ফেরে, তাকে তিনি আনুগত্যের আর নবীর আনা সত্য অনুসরণের তাওফীক দেন। কুরতুবী বলেন: যে তাঁর দিকে ফেরে, তাকে তিনি নিজের দ্বীনের জন্য বেছে আলাদা করে নেন। সা'দী এই ফিরে আসাকে বলেন বান্দার দিক থেকে সেই উপায়, যা দিয়ে সে আল্লাহর হিদায়াতে পৌঁছায়। নিয়ত ভালো হলে আর হিদায়াত খুঁজতে চেষ্টা থাকলে পথ সহজ হয়, এ কথা বলে তিনি ৫:১৬ আনেন।"
           },
           {
             "en": "How do the two halves meet? Ibn Kathir: He is the One who decrees guidance for those who deserve it and writes misguidance against those who prefer it to the path of right guidance. Ma'arif al-Qur'an sees two ways: God's own selection, which is exceptional and limited, as with prophets and His special friends, citing 38:46; and the general way, in which whoever turns to God, intending to follow His religion, is guided to it. The second way is the one the verse opens to every reader.",
-            "bn": "দুই অংশ কীভাবে মেলে? ইবন কাসীর বলেন: হিদায়াতের যোগ্যদের জন্য তিনিই হিদায়াত নির্ধারণ করেন, আর যারা সঠিক পথের বদলে গোমরাহিকে বেছে নেয়, তাদের উপর গোমরাহি লিখে দেন। মাআরিফুল কুরআন দুটি পথ দেখে। একটি আল্লাহর নিজের বাছাই, যা ব্যতিক্রমী ও সীমিত, যেমন নবী আর তাঁর বিশেষ বন্ধুদের ক্ষেত্রে, দলিল ৩৮:৪৬। অন্যটি সাধারণ পথ: যে আল্লাহর দিকে ফেরে আর তাঁর দ্বীন মানার নিয়ত করে, তিনি তাকে সেই দ্বীনের পথ দেখান। এই দ্বিতীয় পথ আয়াতটি প্রত্যেক পাঠকের সামনে খুলে রাখে।"
+            "bn": "দুই অংশ কীভাবে মেলে? ইবন কাসীর বলেন: হিদায়াতের যোগ্যদের জন্য তিনিই হিদায়াত নির্ধারণ করেন, আর যারা সঠিক পথের বদলে গোমরাহিকে বেছে নেয়, তাদের উপর গোমরাহি লিখে দেন। মাআরিফুল কুরআন দুটি পথ দেখে। একটি আল্লাহর নিজের বাছাই, যা ব্যতিক্রমী ও সীমিত, যেমন নবী আর তাঁর বিশেষ বন্ধুদের ক্ষেত্রে, দলিল ৩৮:৪৬। অন্যটি সাধারণ পথ: যে আল্লাহর দিকে ফেরে আর তাঁর দ্বীন মানার নিয়ত করে, তিনি তাকে সেই দ্বীনের পথ দেখান। এই দ্বিতীয় পথ আয়াতটি প্রত্যেক পাঠকের সামনে খুলে রাখে।"
           }
         ]
       }
@@ -468,24 +468,24 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Line About Provision",
-          "bn": "রিযিক নিয়ে একটি বাক্য"
+          "bn": "রিযিক নিয়ে একটি বাক্য"
         },
         "p": [
           {
             "en": "The verse is short and its subject is fixed by what surrounds it. Allah is Latif with His servants; He provides for whom He wills; and He is al-Qawiyy, al-Aziz. The sentence in the middle is about rizq, and 42:20 continues on the same theme, promising increase to whoever wants the harvest of the Hereafter and a portion only in this world to whoever wants that. So the gentleness being described is not gentleness in the abstract. It is gentleness in the distribution of what people live on.",
-            "bn": "আয়াতটি ছোট, আর এর বিষয় কী, তা ঠিক করে দেয় আশপাশের কথা। আল্লাহ তাঁর বান্দাদের প্রতি লাতীফ। তিনি যাকে ইচ্ছা রিযিক দেন। আর তিনি আল-কাউয়িয়্য, আল-আযীয। মাঝের বাক্যটি রিযিক নিয়ে। ৪২:২০ আয়াতও একই কথা ধরে এগোয়: যে আখিরাতের ফসল চায়, তার জন্য বাড়িয়ে দেওয়ার ওয়াদা, আর যে দুনিয়ার ফসল চায়, তার জন্য শুধু এখানকার একটা ভাগ। তাই এখানে যে কোমলতার কথা, তা কোনো বিমূর্ত কোমলতা নয়। মানুষ যা দিয়ে বেঁচে থাকে, তা বণ্টনের কোমলতা।"
+            "bn": "আয়াতটি ছোট, আর এর বিষয় কী, তা ঠিক করে দেয় আশপাশের কথা। আল্লাহ তাঁর বান্দাদের প্রতি লাতীফ। তিনি যাকে ইচ্ছা রিযিক দেন। আর তিনি আল-কাউয়িয়্য, আল-আযীয। মাঝের বাক্যটি রিযিক নিয়ে। ৪২:২০ আয়াতও একই কথা ধরে এগোয়: যে আখিরাতের ফসল চায়, তার জন্য বাড়িয়ে দেওয়ার ওয়াদা, আর যে দুনিয়ার ফসল চায়, তার জন্য শুধু এখানকার একটা ভাগ। তাই এখানে যে কোমলতার কথা, তা কোনো বিমূর্ত কোমলতা নয়। মানুষ যা দিয়ে বেঁচে থাকে, তা বণ্টনের কোমলতা।"
           }
         ]
       },
       {
         "h": {
           "en": "Latif Without the Article",
-          "bn": "'আল' ছাড়া লাতীফ"
+          "bn": "'আল' ছাড়া লাতীফ"
         },
         "p": [
           {
             "en": "A small grammatical detail is easy to walk past. Here the word arrives indefinite, latifun bi ibadihi, and attached directly to His servants, whereas in 6:103 and 67:14 it comes with the definite article as al-Latif, a name standing on its own. The indefinite form with the attachment reads less like a title and more like a report of how He deals with them. This verse is not defining a name; it is telling you what He is doing with people.",
-            "bn": "ব্যাকরণের ছোট্ট একটা খুঁটিনাটি সহজেই চোখ এড়িয়ে যায়। এখানে শব্দটি এসেছে অনির্দিষ্ট রূপে, লাতীফুন বি-ইবাদিহি, আর সরাসরি জুড়ে আছে তাঁর বান্দাদের সঙ্গে। অথচ ৬:১০৩ ও ৬৭:১৪ আয়াতে তা এসেছে 'আল' সহ, আল-লাতীফ রূপে, স্বতন্ত্র একটি নাম হয়ে। বান্দাদের সঙ্গে জোড়া এই অনির্দিষ্ট রূপ পড়লে উপাধি মনে হয় কম। বরং মনে হয়, তাদের সঙ্গে তিনি কেমন আচরণ করেন, তারই খবর। এ আয়াত কোনো নামের সংজ্ঞা দিচ্ছে না। আপনাকে জানাচ্ছে, মানুষের সঙ্গে তিনি কী করছেন।"
+            "bn": "ব্যাকরণের ছোট্ট একটা খুঁটিনাটি সহজেই চোখ এড়িয়ে যায়। এখানে শব্দটি এসেছে অনির্দিষ্ট রূপে, লাতীফুন বি-ইবাদিহি, আর সরাসরি জুড়ে আছে তাঁর বান্দাদের সঙ্গে। অথচ ৬:১০৩ ও ৬৭:১৪ আয়াতে তা এসেছে 'আল' সহ, আল-লাতীফ রূপে, স্বতন্ত্র একটি নাম হয়ে। বান্দাদের সঙ্গে জোড়া এই অনির্দিষ্ট রূপ পড়লে উপাধি মনে হয় কম। বরং মনে হয়, তাদের সঙ্গে তিনি কেমন আচরণ করেন, তারই খবর। এ আয়াত কোনো নামের সংজ্ঞা দিচ্ছে না। আপনাকে জানাচ্ছে, মানুষের সঙ্গে তিনি কী করছেন।"
           },
           {
             "en": "The word itself carries two established senses, and translators divide over which to bring across, some giving Kind and others giving Subtle. They are not two guesses at one meaning. The lexicographers and the mufassirun treat them as two genuine faces of the same root, and the tradition holds both rather than choosing. Keeping them apart is the only way to see what each is actually claiming about Allah, so it is worth taking them one at a time.",
@@ -496,7 +496,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Kindness Too Fine to Notice",
-          "bn": "টের না পাওয়ার মতো সূক্ষ্ম দয়া"
+          "bn": "টের না পাওয়ার মতো সূক্ষ্ম দয়া"
         },
         "p": [
           {
@@ -508,7 +508,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Knowing What Is Too Fine to Find",
-          "bn": "যা খুঁজে পাওয়া যায় না তাও জানা"
+          "bn": "যা খুঁজে পাওয়া যায় না তাও জানা"
         },
         "p": [
           {
@@ -517,19 +517,19 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di explains why one word holds both. The kindness works precisely because the knowledge is that fine: He alone knows where a person's benefit lies down to details the person cannot see, so He alone can arrange it without the person noticing. Read that way the two senses are not merged into a blur. They stand in a relation, one making the other possible, which is why the mufassirun cite both under this verse.",
-            "bn": "একটি শব্দে কেন দুটি অর্থই ধরা আছে, সা'দী তা ব্যাখ্যা করেন। জ্ঞান এত সূক্ষ্ম বলেই দয়াটা কাজ করে। মানুষের কল্যাণ কোথায়, তা শুধু তিনিই জানেন, এমন খুঁটিনাটি পর্যন্ত যা মানুষ নিজে দেখতে পায় না। তাই শুধু তিনিই পারেন মানুষকে টের পেতে না দিয়ে সব গুছিয়ে দিতে। এভাবে পড়লে দুই অর্থ ঘুলিয়ে এক হয়ে যায় না। দুটির মধ্যে একটা সম্পর্ক আছে: একটি অন্যটিকে সম্ভব করে। এ কারণেই মুফাসসিররা এই আয়াতের আলোচনায় দুটিই উল্লেখ করেন।"
+            "bn": "একটি শব্দে কেন দুটি অর্থই ধরা আছে, সা'দী তা ব্যাখ্যা করেন। জ্ঞান এত সূক্ষ্ম বলেই দয়াটা কাজ করে। মানুষের কল্যাণ কোথায়, তা শুধু তিনিই জানেন, এমন খুঁটিনাটি পর্যন্ত যা মানুষ নিজে দেখতে পায় না। তাই শুধু তিনিই পারেন মানুষকে টের পেতে না দিয়ে সব গুছিয়ে দিতে। এভাবে পড়লে দুই অর্থ ঘুলিয়ে এক হয়ে যায় না। দুটির মধ্যে একটা সম্পর্ক আছে: একটি অন্যটিকে সম্ভব করে। এ কারণেই মুফাসসিররা এই আয়াতের আলোচনায় দুটিই উল্লেখ করেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Provision Measured, Not Rationed",
-          "bn": "রিযিক মাপা, কৃপণতা নয়"
+          "bn": "রিযিক মাপা, কৃপণতা নয়"
         },
         "p": [
           {
             "en": "He provides for whom He wills. Taken alone that clause can sound arbitrary, so the same surah supplies the reasoning later: 42:27 says that had Allah expanded provision for His servants they would have transgressed in the land, and that He sends it down in a measure He wills. Withholding, on this reading, is one of the operations of lutf and not an exception to it. And 35:2 puts the other half plainly, that what He grants none can withhold and what He withholds none can release.",
-            "bn": "তিনি যাকে ইচ্ছা রিযিক দেন। শুধু এটুকু শুনলে কথাটা খামখেয়ালি মনে হতে পারে। তাই একই সূরা পরে এর যুক্তিও দিয়ে দেয়। ৪২:২৭ আয়াত বলে, আল্লাহ যদি তাঁর বান্দাদের রিযিক অবারিত করে দিতেন, তারা জমিনে সীমালঙ্ঘন করত। আর তিনি যতটুকু চান, মেপে নাজিল করেন। এই পাঠে আটকে রাখাও লুতফেরই একটা রূপ, তার ব্যতিক্রম নয়। আর ৩৫:২ আয়াত বাকি অর্ধেকটা সোজাসুজি বলে দেয়: তিনি যা দেন, কেউ তা আটকাতে পারে না, আর তিনি যা আটকে রাখেন, কেউ তা ছাড়াতে পারে না।"
+            "bn": "তিনি যাকে ইচ্ছা রিযিক দেন। শুধু এটুকু শুনলে কথাটা খামখেয়ালি মনে হতে পারে। তাই একই সূরা পরে এর যুক্তিও দিয়ে দেয়। ৪২:২৭ আয়াত বলে, আল্লাহ যদি তাঁর বান্দাদের রিযিক অবারিত করে দিতেন, তারা জমিনে সীমালঙ্ঘন করত। আর তিনি যতটুকু চান, মেপে নাজিল করেন। এই পাঠে আটকে রাখাও লুতফেরই একটা রূপ, তার ব্যতিক্রম নয়। আর ৩৫:২ আয়াত বাকি অর্ধেকটা সোজাসুজি বলে দেয়: তিনি যা দেন, কেউ তা আটকাতে পারে না, আর তিনি যা আটকে রাখেন, কেউ তা ছাড়াতে পারে না।"
           }
         ]
       },
@@ -541,11 +541,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends al-Qawiyy al-Aziz, the Strong, the Mighty, and the pairing is the point. Human gentleness is often a shortage of options: we are kind because we cannot do otherwise. His is not. The One arranging your affairs so quietly that you miss it could have arranged it any other way and was not obliged to make it gentle. That closing turns the whole verse from a consolation into a guarantee.",
-            "bn": "আয়াতটি শেষ হয় আল-কাউয়িয়্য, আল-আযীয দিয়ে: শক্তিমান, পরাক্রমশালী। এই জোড়াটাই আসল কথা। মানুষের কোমলতা অনেক সময় উপায় না থাকা থেকে আসে: অন্য কিছু করার সাধ্য নেই বলেই আমরা নরম হই। তাঁর কোমলতা তেমন নয়। যিনি আপনার কাজগুলো এত নিঃশব্দে গুছিয়ে দিচ্ছেন যে আপনি টেরই পান না, তিনি চাইলে অন্য যেকোনোভাবে গোছাতে পারতেন। কোমলভাবে গোছাতে তিনি বাধ্য ছিলেন না। এই শেষ কথাটাই পুরো আয়াতকে সান্ত্বনা থেকে নিশ্চয়তায় পরিণত করে।"
+            "bn": "আয়াতটি শেষ হয় আল-কাউয়িয়্য, আল-আযীয দিয়ে: শক্তিমান, পরাক্রমশালী। এই জোড়াটাই আসল কথা। মানুষের কোমলতা অনেক সময় উপায় না থাকা থেকে আসে: অন্য কিছু করার সাধ্য নেই বলেই আমরা নরম হই। তাঁর কোমলতা তেমন নয়। যিনি আপনার কাজগুলো এত নিঃশব্দে গুছিয়ে দিচ্ছেন যে আপনি টেরই পান না, তিনি চাইলে অন্য যেকোনোভাবে গোছাতে পারতেন। কোমলভাবে গোছাতে তিনি বাধ্য ছিলেন না। এই শেষ কথাটাই পুরো আয়াতকে সান্ত্বনা থেকে নিশ্চয়তায় পরিণত করে।"
           },
           {
             "en": "Lived out, this verse mostly does its work backwards. What it asks is that you look at the parts of your history you did not choose and check them again for arrangement, since lutf is by definition what you did not see at the time. Then it asks for patience in the present, where the same kind of work is presumably going on unseen, and where the honest position is not that nothing is happening but that you are not in a position to see it yet.",
-            "bn": "বাস্তব জীবনে এই আয়াত বেশির ভাগ সময় কাজ করে পেছন ফিরে। আপনার জীবনের যে অংশগুলো আপনি নিজে বেছে নেননি, আয়াতটি সেগুলোর দিকে আবার তাকাতে বলে, দেখতে বলে সেখানে কোনো সাজানো হাত ছিল কি না। কারণ 'লুতফ' মানেই এমন কিছু, যা তখন আপনার চোখে পড়েনি। তারপর আয়াতটি বর্তমানের জন্য ধৈর্য চায়। হয়তো এখনো একই রকম কাজ চলছে চোখের আড়ালে। সৎ কথা এটা নয় যে কিছুই ঘটছে না; সৎ কথা হলো, তা দেখার জায়গায় আপনি এখনো পৌঁছাননি।"
+            "bn": "বাস্তব জীবনে এই আয়াত বেশির ভাগ সময় কাজ করে পেছন ফিরে। আপনার জীবনের যে অংশগুলো আপনি নিজে বেছে নেননি, আয়াতটি সেগুলোর দিকে আবার তাকাতে বলে, দেখতে বলে সেখানে কোনো সাজানো হাত ছিল কি না। কারণ 'লুতফ' মানেই এমন কিছু, যা তখন আপনার চোখে পড়েনি। তারপর আয়াতটি বর্তমানের জন্য ধৈর্য চায়। হয়তো এখনো একই রকম কাজ চলছে চোখের আড়ালে। সৎ কথা এটা নয় যে কিছুই ঘটছে না; সৎ কথা হলো, তা দেখার জায়গায় আপনি এখনো পৌঁছাননি।"
           }
         ]
       }
@@ -556,19 +556,19 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Between Knowing and Answering",
-          "bn": "জানা ও সাড়া দেওয়ার মাঝে"
+          "bn": "জানা ও সাড়া দেওয়ার মাঝে"
         },
         "p": [
           {
             "en": "The verse sits in a run of Surah ash-Shura about what Allah does with truth and with people. Just before it, 42:24 says that He blots out falsehood and establishes the truth by His words, and that He knows what is within the breasts. Just after it, 42:26 says that He answers those who have believed and done righteous deeds and increases them from His bounty. Between the knowledge of what hearts conceal and the answering of prayer, the Quran places the acceptance of repentance. Being received comes before being answered.",
-            "bn": "সূরা আশ-শূরার যে অংশে আয়াতটি আছে, সেখানে কথা হচ্ছে আল্লাহ সত্যের সঙ্গে আর মানুষের সঙ্গে কী করেন। ঠিক আগের আয়াত ৪২:২৪ বলে, তিনি মিথ্যাকে মুছে দেন, নিজের বাণী দিয়ে সত্যকে প্রতিষ্ঠিত করেন, আর বুকের ভেতরে যা আছে তা তিনি জানেন। ঠিক পরের আয়াত ৪২:২৬ বলে, যারা ঈমান এনেছে ও নেক আমল করেছে, তিনি তাদের ডাকে সাড়া দেন এবং নিজ অনুগ্রহে তাদের আরও বাড়িয়ে দেন। অন্তর যা লুকায় তা জানা, আর দোয়ায় সাড়া দেওয়া, এ দুইয়ের মাঝখানে কুরআন রেখেছে তওবা কবুলের কথা। সাড়া পাওয়ার আগে আসে কবুল হওয়া।"
+            "bn": "সূরা আশ-শূরার যে অংশে আয়াতটি আছে, সেখানে কথা হচ্ছে আল্লাহ সত্যের সঙ্গে আর মানুষের সঙ্গে কী করেন। ঠিক আগের আয়াত ৪২:২৪ বলে, তিনি মিথ্যাকে মুছে দেন, নিজের বাণী দিয়ে সত্যকে প্রতিষ্ঠিত করেন, আর বুকের ভেতরে যা আছে তা তিনি জানেন। ঠিক পরের আয়াত ৪২:২৬ বলে, যারা ঈমান এনেছে ও নেক আমল করেছে, তিনি তাদের ডাকে সাড়া দেন এবং নিজ অনুগ্রহে তাদের আরও বাড়িয়ে দেন। অন্তর যা লুকায় তা জানা, আর দোয়ায় সাড়া দেওয়া, এ দুইয়ের মাঝখানে কুরআন রেখেছে তওবা কবুলের কথা। সাড়া পাওয়ার আগে আসে কবুল হওয়া।"
           }
         ]
       },
       {
         "h": {
           "en": "Three Present-Tense Verbs",
-          "bn": "তিনটি চলমান ক্রিয়া"
+          "bn": "তিনটি চলমান ক্রিয়া"
         },
         "p": [
           {
@@ -580,12 +580,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Preposition Used Twice",
-          "bn": "একই অব্যয় দুইবার"
+          "bn": "একই অব্যয় দুইবার"
         },
         "p": [
           {
             "en": "He accepts repentance 'an His servants, and He pardons 'an misdeeds. The same small word governs both verbs, and it is 'an rather than min. The pairing is visible in the verse itself: the preposition that follows the verb of pardoning is the one that also follows the verb of accepting, so the acceptance stands coloured by the pardon beside it. Nearly the same phrase appears in 9:104, where the Quran asks whether they do not know that it is Allah who accepts repentance from His servants and takes the charities.",
-            "bn": "তিনি তাঁর বান্দাদের 'আন' তওবা কবুল করেন, আর গুনাহগুলোর 'আন' ক্ষমা করেন। দুটি ক্রিয়ার সঙ্গেই এসেছে একই ছোট্ট অব্যয়, আর সেটি 'আন', 'মিন' নয়। জোড়টা আয়াতের ভেতরেই চোখে পড়ে: ক্ষমা করার ক্রিয়ার পরে যে অব্যয়, কবুল করার ক্রিয়ার পরেও সেই অব্যয়। ফলে কবুলের গায়ে লেগে থাকে পাশের ক্ষমার রং। প্রায় একই কথা এসেছে ৯:১০৪ আয়াতে, যেখানে কুরআন প্রশ্ন করে: তারা কি জানে না যে আল্লাহই তাঁর বান্দাদের তওবা কবুল করেন এবং সদকা গ্রহণ করেন?"
+            "bn": "তিনি তাঁর বান্দাদের 'আন' তওবা কবুল করেন, আর গুনাহগুলোর 'আন' ক্ষমা করেন। দুটি ক্রিয়ার সঙ্গেই এসেছে একই ছোট্ট অব্যয়, আর সেটি 'আন', 'মিন' নয়। জোড়টা আয়াতের ভেতরেই চোখে পড়ে: ক্ষমা করার ক্রিয়ার পরে যে অব্যয়, কবুল করার ক্রিয়ার পরেও সেই অব্যয়। ফলে কবুলের গায়ে লেগে থাকে পাশের ক্ষমার রং। প্রায় একই কথা এসেছে ৯:১০৪ আয়াতে, যেখানে কুরআন প্রশ্ন করে: তারা কি জানে না যে আল্লাহই তাঁর বান্দাদের তওবা কবুল করেন এবং সদকা গ্রহণ করেন?"
           }
         ]
       },
@@ -601,7 +601,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That clause is what makes the verse a comfort rather than a loophole. A pardon granted in ignorance is worth nothing, because it can be withdrawn the moment the file is finally read. Here the file has already been read. He accepts the repentance of servants whose deeds He is watching while they repent. The reader's private conviction that his own case is worse than anyone assumes is not new information to the One he is asking, and it was not new when the promise was made.",
-            "bn": "এই বাক্যাংশের কারণেই আয়াতটি ফাঁকফোকর না হয়ে সান্ত্বনা হয়ে ওঠে। না জেনে দেওয়া ক্ষমার কোনো দাম নেই; যেদিন নথিটা আসলে পড়া হবে, সেদিনই তা ফিরিয়ে নেওয়া যায়। এখানে নথি আগেই পড়া হয়ে গেছে। বান্দা যখন তওবা করছে, তখনো তিনি তার আমল দেখছেন, আর সেই অবস্থাতেই তার তওবা কবুল করেন। আপনি হয়তো মনে মনে ভাবেন, আপনার অবস্থা সবাই যতটা ভাবে তার চেয়েও খারাপ। যাঁর কাছে আপনি চাইছেন, তাঁর কাছে এ কোনো নতুন খবর নয়। প্রতিশ্রুতিটা যখন দেওয়া হয়েছিল, তখনো নতুন ছিল না।"
+            "bn": "এই বাক্যাংশের কারণেই আয়াতটি ফাঁকফোকর না হয়ে সান্ত্বনা হয়ে ওঠে। না জেনে দেওয়া ক্ষমার কোনো দাম নেই; যেদিন নথিটা আসলে পড়া হবে, সেদিনই তা ফিরিয়ে নেওয়া যায়। এখানে নথি আগেই পড়া হয়ে গেছে। বান্দা যখন তওবা করছে, তখনো তিনি তার আমল দেখছেন, আর সেই অবস্থাতেই তার তওবা কবুল করেন। আপনি হয়তো মনে মনে ভাবেন, আপনার অবস্থা সবাই যতটা ভাবে তার চেয়েও খারাপ। যাঁর কাছে আপনি চাইছেন, তাঁর কাছে এ কোনো নতুন খবর নয়। প্রতিশ্রুতিটা যখন দেওয়া হয়েছিল, তখনো নতুন ছিল না।"
           }
         ]
       },
@@ -613,14 +613,14 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Notice too that the people in question are called 'ibadihi, His servants, in the very sentence that mentions their misdeeds. The title is not withdrawn from them while they are in the wrong. 39:53 makes the same move more openly, where the announcement opens by calling them My servants who have transgressed against themselves. But acceptance is not the same as a formality: 66:8 asks for a particular quality of return, tawbatan nasuhan, a sincere repentance. The verse promises that repentance is received, not that any gesture counts as repentance.",
-            "bn": "এটাও লক্ষ করুন: যে বাক্যে তাদের গুনাহের কথা এসেছে, ঠিক সেই বাক্যেই তাদের ডাকা হয়েছে 'ইবাদিহি', তাঁর বান্দা। ভুলের মধ্যে থাকা অবস্থাতেও এই পরিচয় তাদের কাছ থেকে কেড়ে নেওয়া হয় না। ৩৯:৫৩ আয়াত একই কাজ করে আরও খোলাখুলি; সেখানে ঘোষণাটাই শুরু হয় 'আমার বান্দারা, যারা নিজেদের উপর বাড়াবাড়ি করেছ' বলে ডেকে। তবে কবুল হওয়া মানে নিছক আনুষ্ঠানিকতা নয়। ৬৬:৮ আয়াত ফিরে আসার একটা বিশেষ ধরন চায়: তাওবাতান নাসূহা, খাঁটি তওবা। আয়াতটির প্রতিশ্রুতি হলো তওবা কবুল হয়; যেকোনো ভঙ্গিই তওবা বলে গণ্য হবে, এমন প্রতিশ্রুতি নয়।"
+            "bn": "এটাও লক্ষ করুন: যে বাক্যে তাদের গুনাহের কথা এসেছে, ঠিক সেই বাক্যেই তাদের ডাকা হয়েছে 'ইবাদিহি', তাঁর বান্দা। ভুলের মধ্যে থাকা অবস্থাতেও এই পরিচয় তাদের কাছ থেকে কেড়ে নেওয়া হয় না। ৩৯:৫৩ আয়াত একই কাজ করে আরও খোলাখুলি; সেখানে ঘোষণাটাই শুরু হয় 'আমার বান্দারা, যারা নিজেদের উপর বাড়াবাড়ি করেছ' বলে ডেকে। তবে কবুল হওয়া মানে নিছক আনুষ্ঠানিকতা নয়। ৬৬:৮ আয়াত ফিরে আসার একটা বিশেষ ধরন চায়: তাওবাতান নাসূহা, খাঁটি তওবা। আয়াতটির প্রতিশ্রুতি হলো তওবা কবুল হয়; যেকোনো ভঙ্গিই তওবা বলে গণ্য হবে, এমন প্রতিশ্রুতি নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Not Later",
-          "bn": "পরে নয়"
+          "bn": "পরে নয়"
         },
         "p": [
           {
@@ -636,16 +636,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Hulls Like Mountains, Then Stillness",
-          "bn": "পাহাড়সম জাহাজ, তারপর নিশ্চলতা"
+          "bn": "পাহাড়সম জাহাজ, তারপর নিশ্চলতা"
         },
         "p": [
           {
             "en": "Wa min ayatihi al-jawari fi al-bahri ka-l-a'lam: and of His signs are the ships running through the sea like mountains (42:32). The abridged English Ibn Kathir reads them as a mark of His power and dominion, since He has subjected the sea so that ships sail on it by His command, and he gives the likeness to mountains as the view of Mujahid, al-Hasan, as-Suddi and ad-Dahhak. The Muyassar puts it briefly: great ships like mountains, running in the sea, among the signs of His overwhelming power.",
-            "bn": "ওয়া মিন আয়াতিহিল জাওয়ারি ফিল বাহরি কাল আ'লাম: তাঁর নিদর্শনের মধ্যে আছে সমুদ্রে চলমান পাহাড়ের মতো জাহাজ (৪২:৩২)। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এগুলোকে দেখে তাঁর ক্ষমতা ও আধিপত্যের চিহ্ন হিসেবে। তিনি সমুদ্রকে বশ করে দিয়েছেন, তাই তাঁর হুকুমে জাহাজ তার উপর দিয়ে চলে। পাহাড়ের সঙ্গে তুলনাটিকে তিনি মুজাহিদ, হাসান, সুদ্দী ও দাহহাকের মত বলে উল্লেখ করেন। মুয়াসসার অল্প কথায় বলে: পাহাড়ের মতো বিশাল জাহাজ সমুদ্রে চলে, আর এটি তাঁর প্রবল ক্ষমতার নিদর্শন।"
+            "bn": "ওয়া মিন আয়াতিহিল জাওয়ারি ফিল বাহরি কাল আ'লাম: তাঁর নিদর্শনের মধ্যে আছে সমুদ্রে চলমান পাহাড়ের মতো জাহাজ (৪২:৩২)। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ এগুলোকে দেখে তাঁর ক্ষমতা ও আধিপত্যের চিহ্ন হিসেবে। তিনি সমুদ্রকে বশ করে দিয়েছেন, তাই তাঁর হুকুমে জাহাজ তার উপর দিয়ে চলে। পাহাড়ের সঙ্গে তুলনাটিকে তিনি মুজাহিদ, হাসান, সুদ্দী ও দাহহাকের মত বলে উল্লেখ করেন। মুয়াসসার অল্প কথায় বলে: পাহাড়ের মতো বিশাল জাহাজ সমুদ্রে চলে, আর এটি তাঁর প্রবল ক্ষমতার নিদর্শন।"
           },
           {
             "en": "Our verse turns that sign over. Having shown the ships moving, it asks the reader to picture what would follow if He who moves them chose otherwise. The next verse, 42:34, adds a harsher possibility, that He might destroy them for what their people earned, and closes on His pardoning much. This article stays with 42:33: the wind held back, the ships at rest on the water, and the qualities the verse names in those for whom all this is a sign. The wrecking and the pardon are context here, not the subject.",
-            "bn": "আমাদের আয়াতটি সেই নিদর্শনকে উল্টো দিক থেকে দেখায়। জাহাজগুলোকে চলতে দেখানোর পর পাঠককে ভাবতে বলে, যিনি এগুলো চালাচ্ছেন তিনি অন্য রকম চাইলে কী হত। পরের আয়াত ৪২:৩৪ আরও কঠিন এক সম্ভাবনার কথা বলে: মানুষের কামাইয়ের কারণে তিনি এগুলো ধ্বংসও করে দিতে পারেন। তারপর শেষ হয় এই কথায় যে তিনি অনেক কিছুই মাফ করে দেন। এ লেখা থাকবে ৪২:৩৩ আয়াতের সঙ্গে। থেমে যাওয়া বাতাস, পানির উপর স্থির জাহাজ, আর যাদের জন্য এসব নিদর্শন, তাদের গুণ। ধ্বংস ও ক্ষমার কথা এখানে প্রেক্ষাপট, মূল বিষয় নয়।"
+            "bn": "আমাদের আয়াতটি সেই নিদর্শনকে উল্টো দিক থেকে দেখায়। জাহাজগুলোকে চলতে দেখানোর পর পাঠককে ভাবতে বলে, যিনি এগুলো চালাচ্ছেন তিনি অন্য রকম চাইলে কী হত। পরের আয়াত ৪২:৩৪ আরও কঠিন এক সম্ভাবনার কথা বলে: মানুষের কামাইয়ের কারণে তিনি এগুলো ধ্বংসও করে দিতে পারেন। তারপর শেষ হয় এই কথায় যে তিনি অনেক কিছুই মাফ করে দেন। এ লেখা থাকবে ৪২:৩৩ আয়াতের সঙ্গে। থেমে যাওয়া বাতাস, পানির উপর স্থির জাহাজ, আর যাদের জন্য এসব নিদর্শন, তাদের গুণ। ধ্বংস ও ক্ষমার কথা এখানে প্রেক্ষাপট, মূল বিষয় নয়।"
           }
         ]
       },
@@ -657,11 +657,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "In yasha' yuskini r-riha: if He wills, He stills the wind. At-Tabari spells out whose will this is. If Allah, who has set these ships running in the sea, wills that they not run there, He stills the wind by which they run, and they hold fast in a single place, standing on the surface of the water, neither moving forward nor falling back. The power that moves them and the power that could halt them belong to the same Lord. He adds that the people of interpretation said the like.",
-            "bn": "ইন ইয়াশা' ইউসকিনির রীহা: তিনি চাইলে বাতাস থামিয়ে দেন। ইচ্ছাটা কার, তাবারী তা খুলে বলেন। যে আল্লাহ এই জাহাজগুলোকে সমুদ্রে চালিয়েছেন, তিনি যদি চান এগুলো আর না চলুক, তবে যে বাতাসে এগুলো চলে সেটাই থামিয়ে দেবেন। তখন জাহাজ এক জায়গায় আটকে থাকবে, পানির উপর দাঁড়িয়ে থাকবে, না সামনে এগোবে, না পেছনে সরবে। যে শক্তি চালায় আর যে শক্তি থামাতে পারে, দুটোই একই রবের। তাবারী যোগ করেন, তাফসীরের আলেমরাও এ রকমই বলেছেন।"
+            "bn": "ইন ইয়াশা' ইউসকিনির রীহা: তিনি চাইলে বাতাস থামিয়ে দেন। ইচ্ছাটা কার, তাবারী তা খুলে বলেন। যে আল্লাহ এই জাহাজগুলোকে সমুদ্রে চালিয়েছেন, তিনি যদি চান এগুলো আর না চলুক, তবে যে বাতাসে এগুলো চলে সেটাই থামিয়ে দেবেন। তখন জাহাজ এক জায়গায় আটকে থাকবে, পানির উপর দাঁড়িয়ে থাকবে, না সামনে এগোবে, না পেছনে সরবে। যে শক্তি চালায় আর যে শক্তি থামাতে পারে, দুটোই একই রবের। তাবারী যোগ করেন, তাফসীরের আলেমরাও এ রকমই বলেছেন।"
           },
           {
             "en": "He then gives the early voices. From Qatada: the ships of this sea run by the wind, and when the wind is withheld from them they become still. From as-Suddi, on the words they would remain motionless: they do not run. Al-Qurtubi records a reading: the people of Medina read the plural, ar-riyah, the winds, where the text above has the singular. Whichever is recited, the verse names the very thing on which the ships depend, and places it under His will rather than theirs.",
-            "bn": "এরপর তিনি পূর্বসূরিদের কথা আনেন। কাতাদা বলেন, এই সমুদ্রের জাহাজ বাতাসে চলে, বাতাস আটকে রাখা হলে থেমে যায়। সুদ্দী 'গতিহীন হয়ে থাকবে' কথাটির ব্যাখ্যায় বলেন: চলবে না। কুরতুবী একটি কিরাআত উল্লেখ করেন। মদীনার কারীরা পড়েছেন বহুবচনে, আর-রিয়াহ, অর্থাৎ বাতাসসমূহ। উপরের পাঠে আছে একবচন। যেভাবেই পড়া হোক, জাহাজ যে জিনিসের উপর নির্ভর করে আয়াতটি ঠিক সেটার নাম নেয়, আর সেটাকে রাখে নাবিকদের নয়, তাঁর ইচ্ছার অধীনে।"
+            "bn": "এরপর তিনি পূর্বসূরিদের কথা আনেন। কাতাদা বলেন, এই সমুদ্রের জাহাজ বাতাসে চলে, বাতাস আটকে রাখা হলে থেমে যায়। সুদ্দী 'গতিহীন হয়ে থাকবে' কথাটির ব্যাখ্যায় বলেন: চলবে না। কুরতুবী একটি কিরাআত উল্লেখ করেন। মদীনার কারীরা পড়েছেন বহুবচনে, আর-রিয়াহ, অর্থাৎ বাতাসসমূহ। উপরের পাঠে আছে একবচন। যেভাবেই পড়া হোক, জাহাজ যে জিনিসের উপর নির্ভর করে আয়াতটি ঠিক সেটার নাম নেয়, আর সেটাকে রাখে নাবিকদের নয়, তাঁর ইচ্ছার অধীনে।"
           }
         ]
       },
@@ -673,11 +673,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fa-yazlalna rawakida 'ala zahrihi: and they would remain motionless on its back. Al-Qurtubi glosses it as the ships staying at rest on the back of the sea, not running, and then opens the root r-k-d. Rakada al-ma' means the water grew still, and the same is said of the wind, of a ship, and of the sun when noon stands at its height. Whatever is fixed in its place is rakid. A balance rakada when its pans level, and a people rakadu when they grow quiet.",
-            "bn": "ফায়াযলালনা রাওয়াকিদা 'আলা যাহরিহী: তখন সেগুলো তার পিঠের উপর গতিহীন হয়ে থাকবে। কুরতুবীর ব্যাখ্যায়, জাহাজ সমুদ্রের পিঠে থেমে থাকবে, চলবে না। তারপর তিনি র-ক-দ ধাতুটি খুলে দেখান। রাকাদাল মা' মানে পানি স্থির হল। বাতাস, জাহাজ, আর ভরদুপুরে মাথার উপর দাঁড়ানো সূর্যের বেলায়ও একই কথা বলা হয়। যা কিছু নিজের জায়গায় অনড়, তা-ই রাকিদ। দাঁড়িপাল্লার দুই পাল্লা সমান হলে বলা হয় রাকাদা, আর কোনো দল শান্ত হয়ে এলে বলা হয় রাকাদূ।"
+            "bn": "ফায়াযলালনা রাওয়াকিদা 'আলা যাহরিহী: তখন সেগুলো তার পিঠের উপর গতিহীন হয়ে থাকবে। কুরতুবীর ব্যাখ্যায়, জাহাজ সমুদ্রের পিঠে থেমে থাকবে, চলবে না। তারপর তিনি র-ক-দ ধাতুটি খুলে দেখান। রাকাদাল মা' মানে পানি স্থির হল। বাতাস, জাহাজ, আর ভরদুপুরে মাথার উপর দাঁড়ানো সূর্যের বেলায়ও একই কথা বলা হয়। যা কিছু নিজের জায়গায় অনড়, তা-ই রাকিদ। দাঁড়িপাল্লার দুই পাল্লা সমান হলে বলা হয় রাকাদা, আর কোনো দল শান্ত হয়ে এলে বলা হয় রাকাদূ।"
           },
           {
             "en": "The other glosses are brief. Ibn 'Abbas, in at-Tabari's chain through 'Ali ibn Abi Talha, says rawakid means standing. Al-Baghawi gives thawabit, fixed in place. Ibn Kathir describes them as neither coming nor going, halted on its back, which he explains as the face of the water. Al-Qurtubi also notes that Qatada read fa-yazlilna, with a different vowel on the lam, as a dialect form, while the familiar reading has fatha.",
-            "bn": "অন্যদের ব্যাখ্যা সংক্ষিপ্ত। তাবারীর সনদে আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন, রাওয়াকিদ মানে দাঁড়িয়ে থাকা। বাগাভী বলেন সাওয়াবিত, অর্থাৎ অনড়। ইবন কাসীরের বর্ণনায় জাহাজগুলো আসেও না, যায়ও না, তার পিঠে থেমে থাকে, আর পিঠ মানে পানির উপরিভাগ। কুরতুবী আরও জানান, কাতাদা পড়েছেন ফায়াযলিলনা, লামে ভিন্ন হরকত দিয়ে, যা এক আঞ্চলিক রূপ। আর প্রচলিত পাঠ যবর দিয়ে।"
+            "bn": "অন্যদের ব্যাখ্যা সংক্ষিপ্ত। তাবারীর সনদে আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ) বলেন, রাওয়াকিদ মানে দাঁড়িয়ে থাকা। বাগাভী বলেন সাওয়াবিত, অর্থাৎ অনড়। ইবন কাসীরের বর্ণনায় জাহাজগুলো আসেও না, যায়ও না, তার পিঠে থেমে থাকে, আর পিঠ মানে পানির উপরিভাগ। কুরতুবী আরও জানান, কাতাদা পড়েছেন ফায়াযলিলনা, লামে ভিন্ন হরকত দিয়ে, যা এক আঞ্চলিক রূপ। আর প্রচলিত পাঠ যবর দিয়ে।"
           }
         ]
       },
@@ -689,15 +689,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir, in the Arabic, moves the sign from the stillness that might come to the wind that does come. In His subjecting the sea, he writes, and in His making the air run in the measure they need for their voyage, there are indications of His favours to His creation. The verse speaks of a wind withheld, but the sign it points to is the wind given, day after day, in just the amount the ships require.",
-            "bn": "ইবন কাসীর তাঁর আরবি তাফসীরে নিদর্শনটিকে সরিয়ে আনেন যে নিশ্চলতা আসতে পারত তা থেকে, যে বাতাস সত্যিই আসে তার দিকে। তিনি লেখেন, সমুদ্রকে বশ করে দেওয়া এবং যাত্রার জন্য যতটুকু দরকার ঠিক ততটুকু বাতাস বইয়ে দেওয়ার মধ্যে সৃষ্টির প্রতি তাঁর নিয়ামতের প্রমাণ আছে। আয়াতে কথা হচ্ছে আটকে রাখা বাতাসের, কিন্তু যেদিকে ইশারা, তা হল দিনের পর দিন জাহাজের প্রয়োজন মতো পাঠানো বাতাস।"
+            "bn": "ইবন কাসীর তাঁর আরবি তাফসীরে নিদর্শনটিকে সরিয়ে আনেন যে নিশ্চলতা আসতে পারত তা থেকে, যে বাতাস সত্যিই আসে তার দিকে। তিনি লেখেন, সমুদ্রকে বশ করে দেওয়া এবং যাত্রার জন্য যতটুকু দরকার ঠিক ততটুকু বাতাস বইয়ে দেওয়ার মধ্যে সৃষ্টির প্রতি তাঁর নিয়ামতের প্রমাণ আছে। আয়াতে কথা হচ্ছে আটকে রাখা বাতাসের, কিন্তু যেদিকে ইশারা, তা হল দিনের পর দিন জাহাজের প্রয়োজন মতো পাঠানো বাতাস।"
           },
           {
             "en": "The abridged English, commenting on the next verse, sets the possibilities side by side. If He willed, He could still the wind and the ships would stop; or He could make it fierce and they would be lost and destroyed. But by His grace and mercy He sends the wind according to their needs, just as He sends rain that suffices: too much and it would destroy their houses, too little and their crops and fruits would not grow. Between dead calm and storm lies the measured wind.",
-            "bn": "সংক্ষিপ্ত ইংরেজি সংস্করণ পরের আয়াতের আলোচনায় সম্ভাবনাগুলো পাশাপাশি রাখে। তিনি চাইলে বাতাস থামিয়ে দিতে পারেন, তখন জাহাজ থেমে যাবে। আবার চাইলে বাতাসকে প্রচণ্ড করে দিতে পারেন, তখন জাহাজ পথ হারিয়ে ধ্বংস হবে। কিন্তু অনুগ্রহ ও রহমতের কারণে তিনি প্রয়োজন অনুযায়ী বাতাস পাঠান, ঠিক যেমন বৃষ্টি পাঠান যতটুকু যথেষ্ট। বেশি হলে ঘরবাড়ি ধসে যেত, কম হলে ফসল আর ফল জন্মাত না। পুরো থেমে থাকা আর ঝড়ের মাঝখানে আছে মেপে পাঠানো বাতাস।"
+            "bn": "সংক্ষিপ্ত ইংরেজি সংস্করণ পরের আয়াতের আলোচনায় সম্ভাবনাগুলো পাশাপাশি রাখে। তিনি চাইলে বাতাস থামিয়ে দিতে পারেন, তখন জাহাজ থেমে যাবে। আবার চাইলে বাতাসকে প্রচণ্ড করে দিতে পারেন, তখন জাহাজ পথ হারিয়ে ধ্বংস হবে। কিন্তু অনুগ্রহ ও রহমতের কারণে তিনি প্রয়োজন অনুযায়ী বাতাস পাঠান, ঠিক যেমন বৃষ্টি পাঠান যতটুকু যথেষ্ট। বেশি হলে ঘরবাড়ি ধসে যেত, কম হলে ফসল আর ফল জন্মাত না। পুরো থেমে থাকা আর ঝড়ের মাঝখানে আছে মেপে পাঠানো বাতাস।"
           },
           {
             "en": "The surah itself has used this language a few verses earlier. In 42:27 Allah sends provision down in the measure He wills, and in 42:28 He sends rain after people had despaired. As-Sa'di frames our verse in terms of means: the wind is the cause Allah made for the ships' going, and the verse draws attention to these causes. The cause is real, and it is His. The sailor trims his sail, but he does not own the wind that fills it.",
-            "bn": "সূরাটি কয়েক আয়াত আগেই এ ভাষা ব্যবহার করেছে। ৪২:২৭ আয়াতে আল্লাহ রিযিক নাজিল করেন নিজের ইচ্ছামতো পরিমাপে। ৪২:২৮ আয়াতে মানুষ নিরাশ হয়ে পড়ার পর তিনি বৃষ্টি পাঠান। সা'দী আমাদের আয়াতকে দেখেন উপায়-উপকরণের দিক থেকে। বাতাসকে আল্লাহ জাহাজ চলার উপকরণ বানিয়েছেন, আর আয়াতটি সেই উপকরণের দিকে মনোযোগ টানে। উপকরণটা সত্যি, তবে তা তাঁরই। নাবিক পাল ঠিক করে, কিন্তু যে বাতাস পালে লাগে তার মালিক সে নয়।"
+            "bn": "সূরাটি কয়েক আয়াত আগেই এ ভাষা ব্যবহার করেছে। ৪২:২৭ আয়াতে আল্লাহ রিযিক নাজিল করেন নিজের ইচ্ছামতো পরিমাপে। ৪২:২৮ আয়াতে মানুষ নিরাশ হয়ে পড়ার পর তিনি বৃষ্টি পাঠান। সা'দী আমাদের আয়াতকে দেখেন উপায়-উপকরণের দিক থেকে। বাতাসকে আল্লাহ জাহাজ চলার উপকরণ বানিয়েছেন, আর আয়াতটি সেই উপকরণের দিকে মনোযোগ টানে। উপকরণটা সত্যি, তবে তা তাঁরই। নাবিক পাল ঠিক করে, কিন্তু যে বাতাস পালে লাগে তার মালিক সে নয়।"
           }
         ]
       },
@@ -709,15 +709,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Inna fi dhalika la-ayatin: indeed in that are signs, in the plural. At-Tabari names what the signs contain: in the running of these ships through the sea by Allah's power there is admonition, a lesson, and clear proof of His power over whatever He wills. Al-Qurtubi glosses ayat as indications and marks. The Muyassar widens the frame to both states: in the running of the ships and in their stopping, by Allah's power, are admonitions and clear proofs. Motion and stillness each say something.",
-            "bn": "ইন্না ফী যালিকা লাআয়াতিন: নিশ্চয়ই এতে আছে নিদর্শনসমূহ, বহুবচনে। নিদর্শনগুলোর ভেতরে কী আছে, তাবারী তা বলে দেন। আল্লাহর কুদরতে এই জাহাজগুলোর সমুদ্রে চলার মধ্যে আছে উপদেশ, শিক্ষা, আর যা চান তার উপর তাঁর ক্ষমতার স্পষ্ট প্রমাণ। কুরতুবী আয়াতের অর্থ করেন প্রমাণ ও চিহ্ন। মুয়াসসার দুই অবস্থাকেই এর ভেতরে আনে: আল্লাহর কুদরতে জাহাজের চলা আর থেমে থাকা, দুটোতেই আছে উপদেশ ও স্পষ্ট প্রমাণ। চলাও কথা বলে, থামাও কথা বলে।"
+            "bn": "ইন্না ফী যালিকা লাআয়াতিন: নিশ্চয়ই এতে আছে নিদর্শনসমূহ, বহুবচনে। নিদর্শনগুলোর ভেতরে কী আছে, তাবারী তা বলে দেন। আল্লাহর কুদরতে এই জাহাজগুলোর সমুদ্রে চলার মধ্যে আছে উপদেশ, শিক্ষা, আর যা চান তার উপর তাঁর ক্ষমতার স্পষ্ট প্রমাণ। কুরতুবী আয়াতের অর্থ করেন প্রমাণ ও চিহ্ন। মুয়াসসার দুই অবস্থাকেই এর ভেতরে আনে: আল্লাহর কুদরতে জাহাজের চলা আর থেমে থাকা, দুটোতেই আছে উপদেশ ও স্পষ্ট প্রমাণ। চলাও কথা বলে, থামাও কথা বলে।"
           },
           {
             "en": "Then comes the qualifier: li-kulli sabbarin shakur, for everyone deeply patient and deeply grateful. The ships are in front of every traveller, yet the verse names a particular reader. As-Sa'di closes his comment on the pair by saying that this is the person who benefits from the signs of Allah. Patience and gratitude work less like rewards for reading the sign than like the eyes that read it.",
-            "bn": "তারপর আসে শর্তটি: লিকুল্লি সাব্বারিন শাকূর, প্রত্যেক অতি ধৈর্যশীল ও অতি কৃতজ্ঞের জন্য। জাহাজ তো প্রত্যেক যাত্রীর চোখের সামনে। তবু আয়াত নির্দিষ্ট পাঠকের নাম নেয়। এই জোড়া গুণের ব্যাখ্যা শেষে সা'দী বলেন, এ-ই সেই মানুষ, যে আল্লাহর নিদর্শন থেকে উপকৃত হয়। সবর আর শোকর তাই নিদর্শন পড়ার পুরস্কার যতটা, তার চেয়ে বেশি সেই চোখ, যা দিয়ে নিদর্শন পড়া যায়।"
+            "bn": "তারপর আসে শর্তটি: লিকুল্লি সাব্বারিন শাকূর, প্রত্যেক অতি ধৈর্যশীল ও অতি কৃতজ্ঞের জন্য। জাহাজ তো প্রত্যেক যাত্রীর চোখের সামনে। তবু আয়াত নির্দিষ্ট পাঠকের নাম নেয়। এই জোড়া গুণের ব্যাখ্যা শেষে সা'দী বলেন, এ-ই সেই মানুষ, যে আল্লাহর নিদর্শন থেকে উপকৃত হয়। সবর আর শোকর তাই নিদর্শন পড়ার পুরস্কার যতটা, তার চেয়ে বেশি সেই চোখ, যা দিয়ে নিদর্শন পড়া যায়।"
           },
           {
             "en": "The same closing sentence appears in the Qur'an at 14:5, 31:31, 34:19 and here. At 14:5 it follows the command to Musa (AS) to remind his people of the Days of Allah; at 34:19 it comes within the account of Saba. At 31:31 it closes a verse that is also about ships: do you not see that the ships run through the sea by the favour of Allah, to show you of His signs? Twice, then, the sea is where this pairing of patience and gratitude is taught.",
-            "bn": "কুরআনে হুবহু এই সমাপ্তিবাক্যটি এসেছে ১৪:৫, ৩১:৩১, ৩৪:১৯ এবং এখানে। ১৪:৫ আয়াতে বাক্যটি আসে মূসা (আঃ)-কে দেওয়া আদেশের পর, যেখানে তাঁকে বলা হয় নিজের কওমকে আল্লাহর দিনগুলোর কথা স্মরণ করিয়ে দিতে। ৩৪:১৯ আয়াতে বাক্যটি এসেছে সাবা জাতির বিবরণের ভেতরে। আর ৩১:৩১ আয়াতের বিষয়ও জাহাজ: তুমি কি দেখ না, আল্লাহর অনুগ্রহে জাহাজ সমুদ্রে চলে, যাতে তিনি তোমাদের তাঁর কিছু নিদর্শন দেখান? সবর আর শোকরের এই জুটির শিক্ষা তাহলে দুইবার এসেছে সমুদ্রের পটভূমিতে।"
+            "bn": "কুরআনে হুবহু এই সমাপ্তিবাক্যটি এসেছে ১৪:৫, ৩১:৩১, ৩৪:১৯ এবং এখানে। ১৪:৫ আয়াতে বাক্যটি আসে মূসা (আঃ)-কে দেওয়া আদেশের পর, যেখানে তাঁকে বলা হয় নিজের কওমকে আল্লাহর দিনগুলোর কথা স্মরণ করিয়ে দিতে। ৩৪:১৯ আয়াতে বাক্যটি এসেছে সাবা জাতির বিবরণের ভেতরে। আর ৩১:৩১ আয়াতের বিষয়ও জাহাজ: তুমি কি দেখ না, আল্লাহর অনুগ্রহে জাহাজ সমুদ্রে চলে, যাতে তিনি তোমাদের তাঁর কিছু নিদর্শন দেখান? সবর আর শোকরের এই জুটির শিক্ষা তাহলে দুইবার এসেছে সমুদ্রের পটভূমিতে।"
           }
         ]
       },
@@ -729,55 +729,55 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators agree that the pair matters but read patience in two ways. For Ibn Kathir in the Arabic, sabbar means patient in hardships and shakur means grateful in ease, and the abridged English keeps that division. Al-Baghawi says the same: patience in hardship, gratitude in ease. Al-Qurtubi puts it as patient over affliction, grateful for blessings. On this reading the pair matches two seasons of life, the way the sea has its calm days and its hard ones.",
-            "bn": "জোড়াটি যে গুরুত্বপূর্ণ, তাফসীরকারেরা তাতে একমত। কিন্তু সবরকে তাঁরা দুইভাবে পড়েন। ইবন কাসীরের আরবি তাফসীরে সাব্বার মানে কষ্টের সময় ধৈর্যশীল, শাকূর মানে সচ্ছলতার সময় কৃতজ্ঞ। সংক্ষিপ্ত ইংরেজি সংস্করণও এই ভাগটা রাখে। বাগাভীর কথাও একই: কষ্টে সবর, স্বাচ্ছন্দ্যে শোকর। কুরতুবী বলেন, বিপদে ধৈর্যশীল, নিয়ামতে কৃতজ্ঞ। এই পাঠে জোড়াটি জীবনের দুই মৌসুমের সঙ্গে মেলে, যেমন সমুদ্রেরও শান্ত দিন আছে, কঠিন দিনও আছে।"
+            "bn": "জোড়াটি যে গুরুত্বপূর্ণ, তাফসীরকারেরা তাতে একমত। কিন্তু সবরকে তাঁরা দুইভাবে পড়েন। ইবন কাসীরের আরবি তাফসীরে সাব্বার মানে কষ্টের সময় ধৈর্যশীল, শাকূর মানে সচ্ছলতার সময় কৃতজ্ঞ। সংক্ষিপ্ত ইংরেজি সংস্করণও এই ভাগটা রাখে। বাগাভীর কথাও একই: কষ্টে সবর, স্বাচ্ছন্দ্যে শোকর। কুরতুবী বলেন, বিপদে ধৈর্যশীল, নিয়ামতে কৃতজ্ঞ। এই পাঠে জোড়াটি জীবনের দুই মৌসুমের সঙ্গে মেলে, যেমন সমুদ্রেরও শান্ত দিন আছে, কঠিন দিনও আছে।"
           },
           {
             "en": "At-Tabari reads it differently. The sign is for everyone who has patience in obeying Allah, and is grateful for His favours and the kindnesses He has done him. The Muyassar follows him closely: patient in obedience to Allah, grateful for His favours and bounties. Here patience is not chiefly endurance of what befalls a person but steadfastness in what he is commanded to do. Both readings are in the commentaries consulted here, and neither consulted text argues against the other reading; the difference lies in where patience is placed.",
-            "bn": "তাবারী পড়েন অন্যভাবে। তাঁর মতে নিদর্শনটি তার জন্য, যে আল্লাহর আনুগত্যে ধৈর্য রাখে, আর তাঁর নিয়ামত ও অনুগ্রহের জন্য কৃতজ্ঞ। মুয়াসসার তাঁকে প্রায় হুবহু অনুসরণ করে: আল্লাহর আনুগত্যে ধৈর্যশীল, তাঁর নিয়ামত ও দানের জন্য কৃতজ্ঞ। এখানে সবর মূলত যা ঘটে তা সয়ে নেওয়া নয়, বরং যে হুকুম এসেছে তার উপর অটল থাকা। দুটো পাঠই সংগৃহীত তাফসীরে আছে। কোনো লেখাই অন্য পাঠের বিরুদ্ধে যুক্তি দেয় না। পার্থক্যটা শুধু সবরকে কোথায় রাখা হচ্ছে, তা নিয়ে।"
+            "bn": "তাবারী পড়েন অন্যভাবে। তাঁর মতে নিদর্শনটি তার জন্য, যে আল্লাহর আনুগত্যে ধৈর্য রাখে, আর তাঁর নিয়ামত ও অনুগ্রহের জন্য কৃতজ্ঞ। মুয়াসসার তাঁকে প্রায় হুবহু অনুসরণ করে: আল্লাহর আনুগত্যে ধৈর্যশীল, তাঁর নিয়ামত ও দানের জন্য কৃতজ্ঞ। এখানে সবর মূলত যা ঘটে তা সয়ে নেওয়া নয়, বরং যে হুকুম এসেছে তার উপর অটল থাকা। দুটো পাঠই সংগৃহীত তাফসীরে আছে। কোনো লেখাই অন্য পাঠের বিরুদ্ধে যুক্তি দেয় না। পার্থক্যটা শুধু সবরকে কোথায় রাখা হচ্ছে, তা নিয়ে।"
           },
           {
             "en": "As-Sa'di gathers both. Sabbar, for him, is someone of much patience over what the self dislikes and finds hard, who compels himself to bear it: the hardship of an act of obedience, holding back an urge towards sin, and restraining himself from resentment when calamities strike. Shakur is grateful in ease and when blessings come: he acknowledges his Lord's favour, humbles himself before Him, and spends the blessing in what pleases Him. Gratitude here is not only a feeling but a use of the gift.",
-            "bn": "সা'দী দুটোকেই একসঙ্গে আনেন। তাঁর কাছে সাব্বার সেই মানুষ, যে নফস যা অপছন্দ করে আর যা তার কাছে কঠিন, তার উপর অনেক বেশি সবর করে, নিজেকে জোর করে তা বহন করায়। আনুগত্যের কষ্ট, গুনাহের দিকে টানা ডাককে ঠেকানো, আর বিপদের সময় নিজেকে অসন্তোষ থেকে সামলে রাখা, এই সবই তার সবর। আর শাকূর সচ্ছলতায় ও নিয়ামতের সময় কৃতজ্ঞ। সে রবের অনুগ্রহ স্বীকার করে, তাঁর সামনে বিনীত হয়, আর নিয়ামতটা খরচ করে তাঁর সন্তুষ্টির পথে। শোকর এখানে শুধু অনুভূতি নয়, দানের সঠিক ব্যবহার।"
+            "bn": "সা'দী দুটোকেই একসঙ্গে আনেন। তাঁর কাছে সাব্বার সেই মানুষ, যে নফস যা অপছন্দ করে আর যা তার কাছে কঠিন, তার উপর অনেক বেশি সবর করে, নিজেকে জোর করে তা বহন করায়। আনুগত্যের কষ্ট, গুনাহের দিকে টানা ডাককে ঠেকানো, আর বিপদের সময় নিজেকে অসন্তোষ থেকে সামলে রাখা, এই সবই তার সবর। আর শাকূর সচ্ছলতায় ও নিয়ামতের সময় কৃতজ্ঞ। সে রবের অনুগ্রহ স্বীকার করে, তাঁর সামনে বিনীত হয়, আর নিয়ামতটা খরচ করে তাঁর সন্তুষ্টির পথে। শোকর এখানে শুধু অনুভূতি নয়, দানের সঠিক ব্যবহার।"
           }
         ]
       },
       {
         "h": {
           "en": "Not Patient Once, but Much",
-          "bn": "একবারের সবর নয়, বারবারের"
+          "bn": "একবারের সবর নয়, বারবারের"
         },
         "p": [
           {
             "en": "The verse does not say sabir and shakir, patient and grateful, but sabbar and shakur, intensive forms. Of the commentaries consulted for this verse, only as-Sa'di makes the form visible in his gloss, defining sabbar as kathir as-sabr, abundant in patience. At-Tabari's phrasing, dhu sabr, someone possessed of patience, does not dwell on it, and the others gloss the meaning without remarking on the form. Nothing more on why the strong forms were chosen is in the texts consulted here, so we leave it there.",
-            "bn": "আয়াতে সাবির ও শাকির বলা হয়নি, বলা হয়েছে সাব্বার ও শাকূর। শব্দ দুটির গঠনেই আধিক্যের ভাব আছে। এ আয়াতের জন্য সংগৃহীত তাফসীরগুলোর মধ্যে কেবল সা'দীর ব্যাখ্যায় গঠনটা চোখে পড়ে। তিনি সাব্বারের অর্থ করেন কাসীরুস সবর, অর্থাৎ যার সবর অনেক। তাবারীর ভাষা যু সবর, মানে ধৈর্যের অধিকারী, তিনি এ নিয়ে থামেন না। অন্যরা অর্থ ব্যাখ্যা করেন, গঠন নিয়ে কিছু বলেন না। জোরালো গঠন কেন বেছে নেওয়া হল, সংগৃহীত লেখায় এর বেশি কিছু নেই, তাই আমরাও এখানেই থামছি।"
+            "bn": "আয়াতে সাবির ও শাকির বলা হয়নি, বলা হয়েছে সাব্বার ও শাকূর। শব্দ দুটির গঠনেই আধিক্যের ভাব আছে। এ আয়াতের জন্য সংগৃহীত তাফসীরগুলোর মধ্যে কেবল সা'দীর ব্যাখ্যায় গঠনটা চোখে পড়ে। তিনি সাব্বারের অর্থ করেন কাসীরুস সবর, অর্থাৎ যার সবর অনেক। তাবারীর ভাষা যু সবর, মানে ধৈর্যের অধিকারী, তিনি এ নিয়ে থামেন না। অন্যরা অর্থ ব্যাখ্যা করেন, গঠন নিয়ে কিছু বলেন না। জোরালো গঠন কেন বেছে নেওয়া হল, সংগৃহীত লেখায় এর বেশি কিছু নেই, তাই আমরাও এখানেই থামছি।"
           },
           {
             "en": "Why the two belong together, al-Qurtubi answers through two sayings he quotes. Qutrub said: what an excellent servant is the sabbar shakur, who gives thanks when he is given and is patient when he is tested. And 'Awn ibn 'Abd Allah said: how many a person is blessed and not grateful, and how many a person is tried and not patient. Each quality alone is common enough. The verse is looking for the person in whom both are found.",
-            "bn": "দুটো গুণ কেন একসঙ্গে, কুরতুবী তার জবাব দেন দুটি উক্তি উদ্ধৃত করে। কুতরুব বলেছেন: কতই না উত্তম সেই বান্দা, যে সাব্বার ও শাকূর। তাকে দেওয়া হলে সে শোকর করে, আর পরীক্ষায় ফেলা হলে সবর করে। আর আওন ইবন আবদিল্লাহ বলেছেন: কত মানুষ নিয়ামত পেয়েও কৃতজ্ঞ নয়, আর কত মানুষ পরীক্ষায় পড়েও ধৈর্যশীল নয়। আলাদা করে প্রতিটি গুণ যথেষ্ট দেখা যায়। আয়াত খুঁজছে সেই মানুষকে, যার মধ্যে দুটোই আছে।"
+            "bn": "দুটো গুণ কেন একসঙ্গে, কুরতুবী তার জবাব দেন দুটি উক্তি উদ্ধৃত করে। কুতরুব বলেছেন: কতই না উত্তম সেই বান্দা, যে সাব্বার ও শাকূর। তাকে দেওয়া হলে সে শোকর করে, আর পরীক্ষায় ফেলা হলে সবর করে। আর আওন ইবন আবদিল্লাহ বলেছেন: কত মানুষ নিয়ামত পেয়েও কৃতজ্ঞ নয়, আর কত মানুষ পরীক্ষায় পড়েও ধৈর্যশীল নয়। আলাদা করে প্রতিটি গুণ যথেষ্ট দেখা যায়। আয়াত খুঁজছে সেই মানুষকে, যার মধ্যে দুটোই আছে।"
           },
           {
             "en": "Al-Baghawi says the phrase means every believer, because the believer's quality is patience in hardship and gratitude in ease. That is his own sentence, not a narration. None of the commentaries consulted for this verse attaches a hadith to it, and none is quoted here. The verse is left to make its point with its own picture: the same believer meets the moving ship and the becalmed one, and is meant to recognise his Lord in both.",
-            "bn": "বাগাভী বলেন, এ কথার মানে প্রত্যেক মুমিন, কারণ মুমিনের বৈশিষ্ট্যই হল কষ্টে সবর আর স্বাচ্ছন্দ্যে শোকর। এটি তাঁর নিজের বাক্য, কোনো বর্ণনা নয়। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর আয়াতটির সঙ্গে কোনো হাদিস যুক্ত করেনি, তাই এখানেও কোনো হাদিস উদ্ধৃত করা হচ্ছে না। আয়াত নিজের ছবি দিয়েই নিজের কথা বলে। একই মুমিন চলন্ত জাহাজও দেখে, থেমে থাকা জাহাজও দেখে, আর দুটোতেই তার রবকে চিনে নেওয়ার কথা।"
+            "bn": "বাগাভী বলেন, এ কথার মানে প্রত্যেক মুমিন, কারণ মুমিনের বৈশিষ্ট্যই হল কষ্টে সবর আর স্বাচ্ছন্দ্যে শোকর। এটি তাঁর নিজের বাক্য, কোনো বর্ণনা নয়। এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর আয়াতটির সঙ্গে কোনো হাদিস যুক্ত করেনি, তাই এখানেও কোনো হাদিস উদ্ধৃত করা হচ্ছে না। আয়াত নিজের ছবি দিয়েই নিজের কথা বলে। একই মুমিন চলন্ত জাহাজও দেখে, থেমে থাকা জাহাজও দেখে, আর দুটোতেই তার রবকে চিনে নেওয়ার কথা।"
           }
         ]
       },
       {
         "h": {
           "en": "When the Sails Hang Slack",
-          "bn": "পাল যখন ঝুলে পড়ে"
+          "bn": "পাল যখন ঝুলে পড়ে"
         },
         "p": [
           {
             "en": "Notice what the verse pictures. Not a storm or a wreck, which come in the next verse, but simple stillness: the means withdrawn, nothing broken, the great hull going nowhere. Many trials look like this. Work that stops moving, a recovery that stalls, a door that neither opens nor closes. The verse asks the reader to remember who holds it, to bear the stillness without resentment, and, when the sail fills again, to thank Him who filled it.",
-            "bn": "আয়াতটি কী ছবি আঁকে, খেয়াল করুন। ঝড় বা জাহাজডুবি নয়, ওসব আসে পরের আয়াতে। এখানে শুধু নিশ্চলতা: উপকরণ সরিয়ে নেওয়া হয়েছে, কিছুই ভাঙেনি, অথচ বিশাল জাহাজ কোথাও যাচ্ছে না। অনেক পরীক্ষা দেখতে ঠিক এমন। কাজ থেমে যায়, সুস্থ হওয়া আটকে থাকে, কোনো দরজা না খোলে, না বন্ধ হয়। আয়াত বলে, মনে রাখুন বাতাস কার হাতে। নিশ্চলতাকে অভিযোগ ছাড়া বহন করুন। আর পাল আবার ভরে উঠলে, যিনি তা ভরিয়ে দিলেন, তাঁর শোকর করুন।"
+            "bn": "আয়াতটি কী ছবি আঁকে, খেয়াল করুন। ঝড় বা জাহাজডুবি নয়, ওসব আসে পরের আয়াতে। এখানে শুধু নিশ্চলতা: উপকরণ সরিয়ে নেওয়া হয়েছে, কিছুই ভাঙেনি, অথচ বিশাল জাহাজ কোথাও যাচ্ছে না। অনেক পরীক্ষা দেখতে ঠিক এমন। কাজ থেমে যায়, সুস্থ হওয়া আটকে থাকে, কোনো দরজা না খোলে, না বন্ধ হয়। আয়াত বলে, মনে রাখুন বাতাস কার হাতে। নিশ্চলতাকে অভিযোগ ছাড়া বহন করুন। আর পাল আবার ভরে উঠলে, যিনি তা ভরিয়ে দিলেন, তাঁর শোকর করুন।"
           },
           {
             "en": "A boundary is needed here. The next verse links wrecking to what people earned, and 42:30 says that whatever strikes you is for what your hands have earned. Ma'arif al-Qur'an, on 42:30, cites al-Baydawi and others: that verse concerns those liable to sin, while the hardships of prophets, of children before puberty and of the insane have other reasons, such as increased reward, and the wisdom behind them is beyond a person's reach. Even this general rule names no individual.",
-            "bn": "এখানে একটা সীমারেখা টানা দরকার। পরের আয়াত জাহাজডুবিকে মানুষের কামাইয়ের সঙ্গে জোড়ে, আর ৪২:৩০ বলে, তোমাদের উপর যে বিপদ আসে তা তোমাদের হাতের কামাইয়ের ফল। মাআরিফুল কুরআন ৪২:৩০ আয়াতের আলোচনায় বায়যাবী ও অন্যদের উদ্ধৃত করে বলে: আয়াতটি তাদের বেলায়, যাদের গুনাহ হওয়ার সম্ভাবনা আছে। নবীগণ, বালেগ হয়নি এমন শিশু, আর পাগলের কষ্টের কারণ ভিন্ন, যেমন সওয়াব বৃদ্ধি। এর পেছনের হিকমত মানুষের নাগালের বাইরে। এই সাধারণ নিয়মও কারও নাম নেয় না।"
+            "bn": "এখানে একটা সীমারেখা টানা দরকার। পরের আয়াত জাহাজডুবিকে মানুষের কামাইয়ের সঙ্গে জোড়ে, আর ৪২:৩০ বলে, তোমাদের উপর যে বিপদ আসে তা তোমাদের হাতের কামাইয়ের ফল। মাআরিফুল কুরআন ৪২:৩০ আয়াতের আলোচনায় বায়যাবী ও অন্যদের উদ্ধৃত করে বলে: আয়াতটি তাদের বেলায়, যাদের গুনাহ হওয়ার সম্ভাবনা আছে। নবীগণ, বালেগ হয়নি এমন শিশু, আর পাগলের কষ্টের কারণ ভিন্ন, যেমন সওয়াব বৃদ্ধি। এর পেছনের হিকমত মানুষের নাগালের বাইরে। এই সাধারণ নিয়মও কারও নাম নেয় না।"
           },
           {
             "en": "So the verse speaks only of what it names, a sign in ships, wind and sea, and licenses nothing against any living person or community. It gives nobody the right to look at a stranded vessel, a drowned crew or a neighbour whose life has stalled and name the sin behind it, nor to call a people punished. Its demand runs the other way, inward: be the reader for whom the sign is a sign, grateful while the wind blows and patient when it is held.",
-            "bn": "তাই আয়াতটি বর্ণনা করে যা পাঠে আছে: জাহাজ, বাতাস আর সমুদ্রের মধ্যে নিদর্শন। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। আটকে পড়া জাহাজ, ডুবে যাওয়া নাবিক, কিংবা যে প্রতিবেশীর জীবন থমকে গেছে, তাদের দিকে তাকিয়ে পেছনের গুনাহের নাম বলার অধিকার এ আয়াত কাউকে দেয় না। কোনো জাতিকে শাস্তিপ্রাপ্ত বলে দাগানোরও না। আয়াতের দাবি উল্টো দিকে, নিজের ভেতরে: সেই পাঠক হোন, যার জন্য নিদর্শনটা সত্যিই নিদর্শন। বাতাস বইলে কৃতজ্ঞ, আটকে থাকলে ধৈর্যশীল।"
+            "bn": "তাই আয়াতটি বর্ণনা করে যা পাঠে আছে: জাহাজ, বাতাস আর সমুদ্রের মধ্যে নিদর্শন। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। আটকে পড়া জাহাজ, ডুবে যাওয়া নাবিক, কিংবা যে প্রতিবেশীর জীবন থমকে গেছে, তাদের দিকে তাকিয়ে পেছনের গুনাহের নাম বলার অধিকার এ আয়াত কাউকে দেয় না। কোনো জাতিকে শাস্তিপ্রাপ্ত বলে দাগানোরও না। আয়াতের দাবি উল্টো দিকে, নিজের ভেতরে: সেই পাঠক হোন, যার জন্য নিদর্শনটা সত্যিই নিদর্শন। বাতাস বইলে কৃতজ্ঞ, আটকে থাকলে ধৈর্যশীল।"
           }
         ]
       }
@@ -793,18 +793,18 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "42:36 sets a comparison that the rest of the passage unpacks: whatever you have been given is the mata' of the life of this world, its passing enjoyment, while what is with Allah is better and more lasting — khayr wa abqa — for those who believe and rely upon their Lord. The Quran uses the same pair of words in 87:17 as well. Mata' is not condemned; it is measured. The verse states its size honestly, then names something bigger, and asks the heart to file each in its place.",
-            "bn": "৪২:৩৬ একটা তুলনা সামনে রাখে, পরের আয়াতগুলো যা খুলে বলে। তোমাদের যা কিছু দেওয়া হয়েছে, তা দুনিয়ার জীবনের মাতা', অর্থাৎ ক্ষণিকের ভোগ। আর আল্লাহর কাছে যা আছে, তা উত্তম ও অধিক স্থায়ী, খাইরুন ওয়া আবকা, তাদের জন্য যারা ঈমান আনে এবং নিজেদের রবের উপর ভরসা করে। কুরআন ৮৭:১৭ আয়াতেও এই শব্দজোড়া ব্যবহার করেছে। মাতা'-কে এখানে নিন্দা করা হয়নি, মেপে দেখানো হয়েছে। আয়াতটি সততার সঙ্গে তার আসল আকার বলে দেয়, তারপর আরও বড় কিছুর কথা বলে, আর অন্তরকে বলে প্রত্যেকটাকে নিজ নিজ জায়গায় রাখতে।"
+            "bn": "৪২:৩৬ একটা তুলনা সামনে রাখে, পরের আয়াতগুলো যা খুলে বলে। তোমাদের যা কিছু দেওয়া হয়েছে, তা দুনিয়ার জীবনের মাতা', অর্থাৎ ক্ষণিকের ভোগ। আর আল্লাহর কাছে যা আছে, তা উত্তম ও অধিক স্থায়ী, খাইরুন ওয়া আবকা, তাদের জন্য যারা ঈমান আনে এবং নিজেদের রবের উপর ভরসা করে। কুরআন ৮৭:১৭ আয়াতেও এই শব্দজোড়া ব্যবহার করেছে। মাতা'-কে এখানে নিন্দা করা হয়নি, মেপে দেখানো হয়েছে। আয়াতটি সততার সঙ্গে তার আসল আকার বলে দেয়, তারপর আরও বড় কিছুর কথা বলে, আর অন্তরকে বলে প্রত্যেকটাকে নিজ নিজ জায়গায় রাখতে।"
           },
           {
             "en": "The commentators keep the two clauses attached to their condition: better and more lasting for those who believe and rely upon their Lord. Tawakkul is named at the head of the passage because everything that follows depends on it. What is with Allah is invisible now; only trust makes an unseen reward weigh more than a visible gain. The traits about to be listed are what that trust looks like once it starts spending itself in conduct.",
-            "bn": "উত্তম ও অধিক স্থায়ী, এই কথা দুটিকে মুফাসসিরগণ তাদের শর্ত থেকে আলাদা করেন না: এগুলো তাদের জন্য, যারা ঈমান আনে ও নিজেদের রবের উপর ভরসা করে। অংশটির শুরুতেই তাওয়াক্কুলের কথা এসেছে, কারণ পরের সবকিছু এর উপরই দাঁড়িয়ে। আল্লাহর কাছে যা আছে, তা এখন চোখে দেখা যায় না। কেবল ভরসাই পারে না-দেখা প্রতিদানকে চোখের সামনের লাভের চেয়ে ভারী করে তুলতে। সামনে যে গুণগুলোর তালিকা আসছে, সেগুলো আসলে সেই ভরসারই চেহারা, যখন তা কাজে-কর্মে খরচ হতে শুরু করে।"
+            "bn": "উত্তম ও অধিক স্থায়ী, এই কথা দুটিকে মুফাসসিরগণ তাদের শর্ত থেকে আলাদা করেন না: এগুলো তাদের জন্য, যারা ঈমান আনে ও নিজেদের রবের উপর ভরসা করে। অংশটির শুরুতেই তাওয়াক্কুলের কথা এসেছে, কারণ পরের সবকিছু এর উপরই দাঁড়িয়ে। আল্লাহর কাছে যা আছে, তা এখন চোখে দেখা যায় না। কেবল ভরসাই পারে না-দেখা প্রতিদানকে চোখের সামনের লাভের চেয়ে ভারী করে তুলতে। সামনে যে গুণগুলোর তালিকা আসছে, সেগুলো আসলে সেই ভরসারই চেহারা, যখন তা কাজে-কর্মে খরচ হতে শুরু করে।"
           }
         ]
       },
       {
         "h": {
           "en": "Forgivers When Angry",
-          "bn": "রাগের সময় ক্ষমাশীল"
+          "bn": "রাগের সময় ক্ষমাশীল"
         },
         "p": [
           {
@@ -813,23 +813,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The Quran praises the same trait in 3:134, where those who spend in ease and in hardship restrain their anger and pardon people — and Allah loves the muhsinin. The commentators point out the gradation there: swallowing rage, then pardoning, then going beyond it to good treatment. 42:37 assumes the whole ladder. Forgiveness exercised in strength is the mark; pardoning what one was powerless to punish anyway costs little.",
-            "bn": "কুরআন ৩:১৩৪ আয়াতেও এই গুণের প্রশংসা করেছে: যারা সচ্ছলতায় ও অভাবে খরচ করে, রাগ সংবরণ করে, মানুষকে মাফ করে দেয়; আর আল্লাহ মুহসিনদের ভালোবাসেন। মুফাসসিরগণ সেখানে ধাপগুলো দেখিয়ে দেন: প্রথমে রাগ গিলে ফেলা, তারপর মাফ করা, তারপর তারও উপরে উঠে সদাচরণ। ৪২:৩৭ পুরো সিঁড়িটাই ধরে নেয়। আসল পরিচয় হলো শক্তি থাকা অবস্থায় ক্ষমা করা। যাকে শাস্তি দেওয়ার ক্ষমতাই ছিল না, তাকে মাফ করায় খরচ সামান্যই।"
+            "bn": "কুরআন ৩:১৩৪ আয়াতেও এই গুণের প্রশংসা করেছে: যারা সচ্ছলতায় ও অভাবে খরচ করে, রাগ সংবরণ করে, মানুষকে মাফ করে দেয়; আর আল্লাহ মুহসিনদের ভালোবাসেন। মুফাসসিরগণ সেখানে ধাপগুলো দেখিয়ে দেন: প্রথমে রাগ গিলে ফেলা, তারপর মাফ করা, তারপর তারও উপরে উঠে সদাচরণ। ৪২:৩৭ পুরো সিঁড়িটাই ধরে নেয়। আসল পরিচয় হলো শক্তি থাকা অবস্থায় ক্ষমা করা। যাকে শাস্তি দেওয়ার ক্ষমতাই ছিল না, তাকে মাফ করায় খরচ সামান্যই।"
           }
         ]
       },
       {
         "h": {
           "en": "The Verse of Consultation",
-          "bn": "পরামর্শের আয়াত"
+          "bn": "পরামর্শের আয়াত"
         },
         "p": [
           {
             "en": "42:38 gives the surah its name: those who respond to their Lord and establish the prayer, wa amruhum shura baynahum — and their affair is consultation among themselves — and who spend from what We have provided them. Shura sits embedded between worship and charity, listed as a trait of the same rank. The construction again is descriptive: consultation is what their affairs are, a standing manner of deciding, not an occasional concession extracted from a reluctant leader.",
-            "bn": "৪২:৩৮ থেকেই সূরাটির নাম: যারা নিজেদের রবের ডাকে সাড়া দেয়, নামাজ কায়েম করে, ওয়া আমরুহুম শূরা বাইনাহুম, অর্থাৎ নিজেদের কাজকর্ম চালায় পারস্পরিক পরামর্শে, আর আমরা তাদের যা দিয়েছি তা থেকে খরচ করে। শূরা বসানো আছে ইবাদত আর দানের ঠিক মাঝখানে, একই মর্যাদার গুণ হিসেবে। গঠন এখানেও বর্ণনামূলক। পরামর্শই তাদের কাজের ধরন, সিদ্ধান্ত নেওয়ার স্থায়ী রীতি। অনিচ্ছুক নেতার কাছ থেকে মাঝেমধ্যে আদায় করা কোনো ছাড় নয়।"
+            "bn": "৪২:৩৮ থেকেই সূরাটির নাম: যারা নিজেদের রবের ডাকে সাড়া দেয়, নামাজ কায়েম করে, ওয়া আমরুহুম শূরা বাইনাহুম, অর্থাৎ নিজেদের কাজকর্ম চালায় পারস্পরিক পরামর্শে, আর আমরা তাদের যা দিয়েছি তা থেকে খরচ করে। শূরা বসানো আছে ইবাদত আর দানের ঠিক মাঝখানে, একই মর্যাদার গুণ হিসেবে। গঠন এখানেও বর্ণনামূলক। পরামর্শই তাদের কাজের ধরন, সিদ্ধান্ত নেওয়ার স্থায়ী রীতি। অনিচ্ছুক নেতার কাছ থেকে মাঝেমধ্যে আদায় করা কোনো ছাড় নয়।"
           },
           {
             "en": "Responding to their Lord, istajabu li-rabbihim, heads the verse and governs it. The commentators read it as the broad answering of Allah's call — obedience as a whole — of which the prayer is the most visible pillar. Consultation and spending then follow as the social half of the same response. The verse quietly refuses a religion of ritual alone: answering Allah includes how a community decides and how its wealth moves.",
-            "bn": "আয়াতের শুরুতে আছে ইসতাজাবূ লিরাব্বিহিম, তারা নিজেদের রবের ডাকে সাড়া দেয়; পুরো আয়াত এরই অধীনে। মুফাসসিরগণ একে পড়েন আল্লাহর ডাকে ব্যাপক অর্থে সাড়া দেওয়া হিসেবে, অর্থাৎ পুরো আনুগত্য। তার সবচেয়ে দৃশ্যমান স্তম্ভ হলো নামাজ। এরপর পরামর্শ আর খরচ আসে সেই একই সাড়ার সামাজিক অর্ধেক হিসেবে। আয়াতটি চুপচাপ জানিয়ে দেয়, শুধু আনুষ্ঠানিক ইবাদতের ধর্ম যথেষ্ট নয়। আল্লাহর ডাকে সাড়া দেওয়ার মধ্যে এটাও পড়ে: একটা সমাজ কীভাবে সিদ্ধান্ত নেয়, আর তার সম্পদ কোন পথে চলে।"
+            "bn": "আয়াতের শুরুতে আছে ইসতাজাবূ লিরাব্বিহিম, তারা নিজেদের রবের ডাকে সাড়া দেয়; পুরো আয়াত এরই অধীনে। মুফাসসিরগণ একে পড়েন আল্লাহর ডাকে ব্যাপক অর্থে সাড়া দেওয়া হিসেবে, অর্থাৎ পুরো আনুগত্য। তার সবচেয়ে দৃশ্যমান স্তম্ভ হলো নামাজ। এরপর পরামর্শ আর খরচ আসে সেই একই সাড়ার সামাজিক অর্ধেক হিসেবে। আয়াতটি চুপচাপ জানিয়ে দেয়, শুধু আনুষ্ঠানিক ইবাদতের ধর্ম যথেষ্ট নয়। আল্লাহর ডাকে সাড়া দেওয়ার মধ্যে এটাও পড়ে: একটা সমাজ কীভাবে সিদ্ধান্ত নেয়, আর তার সম্পদ কোন পথে চলে।"
           }
         ]
       },
@@ -853,7 +853,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verses that follow keep circling restraint. 42:40 rules that the recompense of an evil is an evil like it, but whoever pardons and sets matters right, his reward is upon Allah — He does not love the wrongdoers. 42:41 protects from blame the one who takes just retribution after being wronged, and 42:43 concludes: whoever is patient and forgives, that is of the matters requiring resolve. The passage holds both truths at once: justice is a right, and pardon is a rank.",
-            "bn": "পরের আয়াতগুলোও ঘুরেফিরে সংযমের কথাই বলে। ৪২:৪০ বিধান দেয়: মন্দের প্রতিফল তারই মতো মন্দ; কিন্তু যে মাফ করে দেয় ও মিটমাট করে, তার প্রতিদান আল্লাহর জিম্মায়; তিনি জালিমদের ভালোবাসেন না। ৪২:৪১ বলে, জুলুমের শিকার হয়ে যে ন্যায্য বদলা নেয়, তাকে দোষ দেওয়া যাবে না। আর ৪২:৪৩ শেষ কথা বলে: যে সবর করে ও ক্ষমা করে, তা তো দৃঢ় সংকল্পের কাজ। অংশটি দুটি সত্য একসঙ্গে ধরে রাখে: ন্যায়বিচার একটা হক, আর ক্ষমা একটা মর্যাদা।"
+            "bn": "পরের আয়াতগুলোও ঘুরেফিরে সংযমের কথাই বলে। ৪২:৪০ বিধান দেয়: মন্দের প্রতিফল তারই মতো মন্দ; কিন্তু যে মাফ করে দেয় ও মিটমাট করে, তার প্রতিদান আল্লাহর জিম্মায়; তিনি জালিমদের ভালোবাসেন না। ৪২:৪১ বলে, জুলুমের শিকার হয়ে যে ন্যায্য বদলা নেয়, তাকে দোষ দেওয়া যাবে না। আর ৪২:৪৩ শেষ কথা বলে: যে সবর করে ও ক্ষমা করে, তা তো দৃঢ় সংকল্পের কাজ। অংশটি দুটি সত্য একসঙ্গে ধরে রাখে: ন্যায়বিচার একটা হক, আর ক্ষমা একটা মর্যাদা।"
           }
         ]
       },
@@ -865,11 +865,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The passage reads as a checklist for any believing household or institution. Which currency is the operation actually maximizing — the passing or the lasting? When anger arrives, is forgiveness the installed default or an occasional surprise? Are decisions genuinely consulted, with the quietest person heard, or announced after the fact? Does money flow out as reliably as prayers are prayed? None of the items is private; each one is visible in how a family or a team runs within a week.",
-            "bn": "যেকোনো মুমিন পরিবার বা প্রতিষ্ঠান এই অংশটিকে নিজের যাচাইয়ের তালিকা হিসেবে পড়তে পারে। আমাদের কাজকর্ম আসলে কোন মুদ্রা বেশি জমাচ্ছে, ক্ষণিকেরটা না স্থায়ীটা? রাগ এলে ক্ষমা কি আমাদের স্বাভাবিক নিয়ম, নাকি কালেভদ্রে ঘটা চমক? সিদ্ধান্ত কি সত্যিই পরামর্শ করে নেওয়া হয়, যেখানে সবচেয়ে চুপচাপ মানুষটির কথাও শোনা হয়? নাকি সব ঠিক হয়ে যাওয়ার পর জানিয়ে দেওয়া হয়? নামাজ যেমন নিয়মিত পড়া হয়, তেমন নিয়মিত কি খরচও করা হয়? এর কোনোটাই গোপন ব্যাপার নয়। একটা পরিবার বা দল কীভাবে চলে, এক সপ্তাহেই প্রতিটি চোখে পড়ে।"
+            "bn": "যেকোনো মুমিন পরিবার বা প্রতিষ্ঠান এই অংশটিকে নিজের যাচাইয়ের তালিকা হিসেবে পড়তে পারে। আমাদের কাজকর্ম আসলে কোন মুদ্রা বেশি জমাচ্ছে, ক্ষণিকেরটা না স্থায়ীটা? রাগ এলে ক্ষমা কি আমাদের স্বাভাবিক নিয়ম, নাকি কালেভদ্রে ঘটা চমক? সিদ্ধান্ত কি সত্যিই পরামর্শ করে নেওয়া হয়, যেখানে সবচেয়ে চুপচাপ মানুষটির কথাও শোনা হয়? নাকি সব ঠিক হয়ে যাওয়ার পর জানিয়ে দেওয়া হয়? নামাজ যেমন নিয়মিত পড়া হয়, তেমন নিয়মিত কি খরচও করা হয়? এর কোনোটাই গোপন ব্যাপার নয়। একটা পরিবার বা দল কীভাবে চলে, এক সপ্তাহেই প্রতিটি চোখে পড়ে।"
           },
           {
             "en": "The order is also a method. Reliance on Allah in 42:36 comes first because the person clutching this world cannot afford restraint, pardon or open hands; every loss feels total. Once what is with Allah is genuinely believed to be better and more lasting, the rest of the portrait becomes affordable: anger can release its grip, consultation can risk being overruled, wealth can leave. The passage is not a list of separate virtues but one economy of the heart.",
-            "bn": "ক্রমটাও একটা পদ্ধতি। ৪২:৩৬ আয়াতে আল্লাহর উপর ভরসা আগে এসেছে, কারণ যে দুনিয়াকে আঁকড়ে ধরে আছে, সংযম, ক্ষমা বা খোলা হাত তার সাধ্যে কুলায় না; প্রতিটি ক্ষতিই তার কাছে সর্বনাশ। আল্লাহর কাছে যা আছে তা উত্তম ও অধিক স্থায়ী, এ কথা মন থেকে বিশ্বাস করলে ছবির বাকিটা সাধ্যের মধ্যে চলে আসে। রাগ মুঠি আলগা করতে পারে, পরামর্শে নিজের মত বাতিল হওয়ার ঝুঁকি নেওয়া যায়, সম্পদ হাত থেকে যেতে পারে। অংশটি আলাদা আলাদা গুণের তালিকা নয়; এ হলো অন্তরের একটাই হিসাবের খাতা।"
+            "bn": "ক্রমটাও একটা পদ্ধতি। ৪২:৩৬ আয়াতে আল্লাহর উপর ভরসা আগে এসেছে, কারণ যে দুনিয়াকে আঁকড়ে ধরে আছে, সংযম, ক্ষমা বা খোলা হাত তার সাধ্যে কুলায় না; প্রতিটি ক্ষতিই তার কাছে সর্বনাশ। আল্লাহর কাছে যা আছে তা উত্তম ও অধিক স্থায়ী, এ কথা মন থেকে বিশ্বাস করলে ছবির বাকিটা সাধ্যের মধ্যে চলে আসে। রাগ মুঠি আলগা করতে পারে, পরামর্শে নিজের মত বাতিল হওয়ার ঝুঁকি নেওয়া যায়, সম্পদ হাত থেকে যেতে পারে। অংশটি আলাদা আলাদা গুণের তালিকা নয়; এ হলো অন্তরের একটাই হিসাবের খাতা।"
           }
         ]
       }
@@ -889,7 +889,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That single word does work no ruling could do. A person about to collect what he is owed reads, in the very middle of the permission, that the act he is about to perform wears the offence's own name. Al-Muyassar tightens it further, glossing the clause as punishing him with an evil like it and with no addition at all. The permission is real, and it is issued with a caution built into its vocabulary.",
-            "bn": "এই একটা শব্দ যা করে, কোনো বিধান তা করতে পারত না। যে মানুষ নিজের পাওনা আদায় করতে যাচ্ছে, সে অনুমতির ঠিক মাঝখানে পড়ে ফেলে: যে কাজ সে করতে যাচ্ছে, তার নাম অপরাধেরই নাম। তাফসীর মুয়াসসার আরও কড়া করে বলে: তাকে শাস্তি দেবে তারই মতো মন্দ দিয়ে, একটুও না বাড়িয়ে। অনুমতিটা সত্যিই আছে, তবে তার শব্দের ভেতরেই একটা সতর্কবার্তা গেঁথে দেওয়া।"
+            "bn": "এই একটা শব্দ যা করে, কোনো বিধান তা করতে পারত না। যে মানুষ নিজের পাওনা আদায় করতে যাচ্ছে, সে অনুমতির ঠিক মাঝখানে পড়ে ফেলে: যে কাজ সে করতে যাচ্ছে, তার নাম অপরাধেরই নাম। তাফসীর মুয়াসসার আরও কড়া করে বলে: তাকে শাস্তি দেবে তারই মতো মন্দ দিয়ে, একটুও না বাড়িয়ে। অনুমতিটা সত্যিই আছে, তবে তার শব্দের ভেতরেই একটা সতর্কবার্তা গেঁথে দেওয়া।"
           }
         ]
       },
@@ -912,32 +912,32 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Two Verbs, Not One",
-          "bn": "একটি নয়, দুটি ক্রিয়া"
+          "bn": "একটি নয়, দুটি ক্রিয়া"
         },
         "p": [
           {
             "en": "The higher road is named with a pair of verbs: fa-man afa wa aslah. Afa comes from a root that carries effacing and wiping out, dropping the claim so that it leaves no residue behind. Aslaha is to repair, to put a thing back into working order. Pardon that ends the demand but leaves the relationship dead satisfies only the first verb. The verse asks for the claim to be dropped and the connection to be rebuilt.",
-            "bn": "উঁচু পথটির নাম এসেছে দুটি ক্রিয়ায়: 'ফামান আফা ওয়া আসলাহা'। 'আফা' এমন এক ধাতু থেকে, যার মধ্যে আছে মুছে ফেলা, নিশ্চিহ্ন করা। অর্থাৎ দাবি এমনভাবে ছেড়ে দেওয়া, যাতে তার কোনো দাগ না থাকে। 'আসলাহা' মানে মেরামত করা, জিনিসটাকে আবার কাজের উপযোগী করা। যে ক্ষমা দাবি তুলে নেয় কিন্তু সম্পর্কটা মরা অবস্থায় ফেলে রাখে, তা কেবল প্রথম ক্রিয়াটা পূরণ করে। আয়াত চায় দাবিও ছাড়া হোক, সম্পর্কও আবার গড়া হোক।"
+            "bn": "উঁচু পথটির নাম এসেছে দুটি ক্রিয়ায়: 'ফামান আফা ওয়া আসলাহা'। 'আফা' এমন এক ধাতু থেকে, যার মধ্যে আছে মুছে ফেলা, নিশ্চিহ্ন করা। অর্থাৎ দাবি এমনভাবে ছেড়ে দেওয়া, যাতে তার কোনো দাগ না থাকে। 'আসলাহা' মানে মেরামত করা, জিনিসটাকে আবার কাজের উপযোগী করা। যে ক্ষমা দাবি তুলে নেয় কিন্তু সম্পর্কটা মরা অবস্থায় ফেলে রাখে, তা কেবল প্রথম ক্রিয়াটা পূরণ করে। আয়াত চায় দাবিও ছাড়া হোক, সম্পর্কও আবার গড়া হোক।"
           },
           {
             "en": "Al-Muyassar glosses the pair as pardoning the offender, leaving off his punishment, and restoring the affection between himself and the one pardoned, seeking thereby the face of Allah. That last clause matters, because it separates this from the many other reasons a person lets a thing go: exhaustion, weakness, fear of a longer fight, or a wish to be seen as gracious. The reward is attached to a pardon offered for Allah.",
-            "bn": "তাফসীর মুয়াসসার এই জোড়ার ব্যাখ্যা দেয় এভাবে: অপরাধীকে মাফ করা, তার শাস্তি ছেড়ে দেওয়া, আর যাকে মাফ করা হলো তার সঙ্গে ভালোবাসার সম্পর্ক ফিরিয়ে আনা, এবং এসব করা আল্লাহর সন্তুষ্টির আশায়। শেষ কথাটা জরুরি। মানুষ আরও অনেক কারণে কিছু ছেড়ে দেয়: ক্লান্তি, দুর্বলতা, লম্বা লড়াইয়ের ভয়, কিংবা উদার বলে পরিচিত হওয়ার শখ। এই শর্তটাই সেগুলো থেকে একে আলাদা করে। প্রতিদান বাঁধা আছে আল্লাহর জন্য করা ক্ষমার সঙ্গে।"
+            "bn": "তাফসীর মুয়াসসার এই জোড়ার ব্যাখ্যা দেয় এভাবে: অপরাধীকে মাফ করা, তার শাস্তি ছেড়ে দেওয়া, আর যাকে মাফ করা হলো তার সঙ্গে ভালোবাসার সম্পর্ক ফিরিয়ে আনা, এবং এসব করা আল্লাহর সন্তুষ্টির আশায়। শেষ কথাটা জরুরি। মানুষ আরও অনেক কারণে কিছু ছেড়ে দেয়: ক্লান্তি, দুর্বলতা, লম্বা লড়াইয়ের ভয়, কিংবা উদার বলে পরিচিত হওয়ার শখ। এই শর্তটাই সেগুলো থেকে একে আলাদা করে। প্রতিদান বাঁধা আছে আল্লাহর জন্য করা ক্ষমার সঙ্গে।"
           }
         ]
       },
       {
         "h": {
           "en": "A Reward Left Unnamed",
-          "bn": "যে প্রতিদানের পরিমাণ বলা হয়নি"
+          "bn": "যে প্রতিদানের পরিমাণ বলা হয়নি"
         },
         "p": [
           {
             "en": "Fa-ajruhu ala Allah, his reward is upon Allah. The preposition is ala, the one Arabic uses for what is due from someone, rather than inda, which would only have said with. The phrase puts the reward squarely in Allah's charge. And the amount is never stated. Every other item in a dispute has a figure attached to it; this one is left open, which is the whole point of putting it there.",
-            "bn": "'ফা-আজরুহু আলাল্লাহ': তার প্রতিদান আল্লাহর উপর। অব্যয়টি 'আলা'; কারও উপর কোনো দায় থাকলে আরবিতে এটাই বলা হয়। 'ইনদা' বলা হয়নি, যাতে শুধু 'কাছে' বোঝাত। এভাবে প্রতিদানটা পুরোপুরি থাকে আল্লাহর জিম্মায়। আর পরিমাণ কোথাও বলা নেই। বিরোধের অন্য সব হিসাবের সঙ্গে একটা অঙ্ক জুড়ে থাকে; কেবল এটাই খোলা রাখা হয়েছে, আর এখানে একে রাখার উদ্দেশ্যই সেটা।"
+            "bn": "'ফা-আজরুহু আলাল্লাহ': তার প্রতিদান আল্লাহর উপর। অব্যয়টি 'আলা'; কারও উপর কোনো দায় থাকলে আরবিতে এটাই বলা হয়। 'ইনদা' বলা হয়নি, যাতে শুধু 'কাছে' বোঝাত। এভাবে প্রতিদানটা পুরোপুরি থাকে আল্লাহর জিম্মায়। আর পরিমাণ কোথাও বলা নেই। বিরোধের অন্য সব হিসাবের সঙ্গে একটা অঙ্ক জুড়ে থাকে; কেবল এটাই খোলা রাখা হয়েছে, আর এখানে একে রাখার উদ্দেশ্যই সেটা।"
           },
           {
             "en": "Muslim narrates from Abu Hurayrah (RA) that the Prophet ﷺ said: charity does not decrease wealth, and Allah does not increase a servant through pardon except in honour, and nobody humbles himself for Allah but that Allah raises him. Ibn Kathir cites the middle clause of that hadith under this verse. The fear that pardoning will make a person look weak is answered by a report about what actually happens, not by an argument.",
-            "bn": "মুসলিম আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন: সদকা সম্পদ কমায় না; ক্ষমার কারণে আল্লাহ বান্দার সম্মানই বাড়িয়ে দেন; আর আল্লাহর জন্য যে বিনয়ী হয়, আল্লাহ তাকে উঁচু করেন। ইবনে কাসীর এই হাদিসের মাঝের অংশটি এই আয়াতের নিচে উল্লেখ করেন। ক্ষমা করলে মানুষ দুর্বল দেখাবে — এই ভয়ের জবাব আসে যুক্তি দিয়ে নয়, বরং বাস্তবে কী ঘটে তার একটি সংবাদ দিয়ে।"
+            "bn": "মুসলিম আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন: সদকা সম্পদ কমায় না; ক্ষমার কারণে আল্লাহ বান্দার সম্মানই বাড়িয়ে দেন; আর আল্লাহর জন্য যে বিনয়ী হয়, আল্লাহ তাকে উঁচু করেন। ইবনে কাসীর এই হাদিসের মাঝের অংশটি এই আয়াতের নিচে উল্লেখ করেন। ক্ষমা করলে মানুষ দুর্বল দেখাবে — এই ভয়ের জবাব আসে যুক্তি দিয়ে নয়, বরং বাস্তবে কী ঘটে তার একটি সংবাদ দিয়ে।"
           }
         ]
       },
@@ -949,11 +949,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends innahu la yuhibbu az-zalimin, He does not like the wrongdoers, and it is easy to misread that as a warning to the person still weighing whether to pardon. Both Ibn Kathir and al-Muyassar identify the zalimin here as the ones who begin, those who initiate the aggression against people. The clause names the party at fault, so that mercy at the end of the verse is never mistaken for a verdict that both sides were the same.",
-            "bn": "আয়াতটি শেষ হয় 'ইন্নাহু লা ইউহিব্বুয জালিমীন' দিয়ে: তিনি জালিমদের পছন্দ করেন না। সহজেই একে ভুল বোঝা যায়, যেন যে মানুষ এখনো ভাবছে মাফ করবে কি না, তাকেই সতর্ক করা হচ্ছে। কিন্তু ইবনে কাসীর ও তাফসীর মুয়াসসার দুজনেই বলেন, এখানে 'জালিমীন' তারা, যারা শুরু করে, অর্থাৎ মানুষের উপর আগে বাড়াবাড়ি করে। বাক্যটি দোষী পক্ষের নাম বলে দেয়, যাতে আয়াতের শেষে আসা দয়াকে কেউ এই রায় বলে ভুল না করে যে দুই পক্ষই সমান।"
+            "bn": "আয়াতটি শেষ হয় 'ইন্নাহু লা ইউহিব্বুয জালিমীন' দিয়ে: তিনি জালিমদের পছন্দ করেন না। সহজেই একে ভুল বোঝা যায়, যেন যে মানুষ এখনো ভাবছে মাফ করবে কি না, তাকেই সতর্ক করা হচ্ছে। কিন্তু ইবনে কাসীর ও তাফসীর মুয়াসসার দুজনেই বলেন, এখানে 'জালিমীন' তারা, যারা শুরু করে, অর্থাৎ মানুষের উপর আগে বাড়াবাড়ি করে। বাক্যটি দোষী পক্ষের নাম বলে দেয়, যাতে আয়াতের শেষে আসা দয়াকে কেউ এই রায় বলে ভুল না করে যে দুই পক্ষই সমান।"
           },
           {
             "en": "The verses on either side keep the balance. 42:39 has already praised those who defend themselves when tyranny strikes them; 42:41 says there is no blame upon one who retaliates after being wronged; 42:42 puts the blame on those who oppress people and rebel on the earth. Only then does 42:43 call patience and forgiveness among the matters of resolve. Pardon is a rank in this surah, never a duty owed to an oppressor.",
-            "bn": "দুই পাশের আয়াতগুলো ভারসাম্য রাখে। ৪২:৩৯ আগেই প্রশংসা করেছে তাদের, যারা জুলুমের শিকার হলে আত্মরক্ষা করে। ৪২:৪১ বলে, জুলুমের শিকার হওয়ার পর যে বদলা নেয়, তার উপর কোনো দোষ নেই। ৪২:৪২ দোষ চাপায় তাদের উপর, যারা মানুষের উপর জুলুম করে আর যমীনে অন্যায়ভাবে বিদ্রোহ করে। তার পরেই কেবল ৪২:৪৩ সবর ও ক্ষমাকে দৃঢ় সংকল্পের কাজ বলে। এই সূরায় ক্ষমা একটা মর্যাদা; জালিমের কাছে পাওনা কোনো দায় নয়।"
+            "bn": "দুই পাশের আয়াতগুলো ভারসাম্য রাখে। ৪২:৩৯ আগেই প্রশংসা করেছে তাদের, যারা জুলুমের শিকার হলে আত্মরক্ষা করে। ৪২:৪১ বলে, জুলুমের শিকার হওয়ার পর যে বদলা নেয়, তার উপর কোনো দোষ নেই। ৪২:৪২ দোষ চাপায় তাদের উপর, যারা মানুষের উপর জুলুম করে আর যমীনে অন্যায়ভাবে বিদ্রোহ করে। তার পরেই কেবল ৪২:৪৩ সবর ও ক্ষমাকে দৃঢ় সংকল্পের কাজ বলে। এই সূরায় ক্ষমা একটা মর্যাদা; জালিমের কাছে পাওনা কোনো দায় নয়।"
           }
         ]
       }
@@ -964,16 +964,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Blame Changes Address",
-          "bn": "অভিযোগের ঠিকানা বদলায়"
+          "bn": "অভিযোগের ঠিকানা বদলায়"
         },
         "p": [
           {
             "en": "Innama as-sabilu 'ala alladhina yazlimuna an-nas: the way is only against those who wrong people. The verse answers the one before it. 42:41 closed with ma 'alayhim min sabil, there is no way against those who defend themselves after being wronged. Here the same noun returns with the article and the restricting innama in front of it, so the sentence does two things at once. It names where the sabil does lie, and by the word only it shuts it away from everyone the previous verse has just cleared.",
-            "bn": "ইন্নামাস সাবীলু আলাল্লাযীনা ইয়াযলিমূনান নাস: পথ তো কেবল তাদের বিরুদ্ধে, যারা মানুষের উপর জুলুম করে। আয়াতটি আগের আয়াতের জবাব। ৪২:৪১ শেষ হয়েছিল মা আলাইহিম মিন সাবীল দিয়ে: জুলুমের শিকার হয়ে যারা আত্মরক্ষা করে, তাদের বিরুদ্ধে কোনো পথ নেই। এখানে সেই একই শব্দ ফিরে এসেছে নির্দিষ্টবাচক রূপে, আর সামনে বসেছে সীমাবদ্ধকারী ইন্নামা। ফলে বাক্যটি একসঙ্গে দুটি কাজ করে। সাবীল আসলে কার উপর, তা বলে দেয়। আবার 'কেবল' শব্দটি দিয়ে আগের আয়াতে যাদের নির্দোষ বলা হলো, তাদের থেকে সেটা সরিয়ে রাখে।"
+            "bn": "ইন্নামাস সাবীলু আলাল্লাযীনা ইয়াযলিমূনান নাস: পথ তো কেবল তাদের বিরুদ্ধে, যারা মানুষের উপর জুলুম করে। আয়াতটি আগের আয়াতের জবাব। ৪২:৪১ শেষ হয়েছিল মা আলাইহিম মিন সাবীল দিয়ে: জুলুমের শিকার হয়ে যারা আত্মরক্ষা করে, তাদের বিরুদ্ধে কোনো পথ নেই। এখানে সেই একই শব্দ ফিরে এসেছে নির্দিষ্টবাচক রূপে, আর সামনে বসেছে সীমাবদ্ধকারী ইন্নামা। ফলে বাক্যটি একসঙ্গে দুটি কাজ করে। সাবীল আসলে কার উপর, তা বলে দেয়। আবার 'কেবল' শব্দটি দিয়ে আগের আয়াতে যাদের নির্দোষ বলা হলো, তাদের থেকে সেটা সরিয়ে রাখে।"
           },
           {
             "en": "Al-Qurtubi quotes Ibn al-'Arabi on a wider symmetry. This verse, he says, stands opposite the earlier one in Bara'ah, ma 'ala al-muhsinina min sabil, there is no way against those who do good (9:91). Just as Allah removed the sabil from the one who does good, He placed it upon the one who wrongs, and the account of the two kinds of people is complete. Read together, the two verses say that a charge in the court of the Qur'an follows conduct, never mere involvement in a dispute.",
-            "bn": "কুরতুবী এখানে ইবনুল আরাবীর একটি পর্যবেক্ষণ উদ্ধৃত করেন। তাঁর মতে এ আয়াত সূরা বারাআর আগের আয়াতটির বিপরীতে দাঁড়িয়ে আছে: মা আলাল মুহসিনীনা মিন সাবীল, সৎকর্মশীলদের বিরুদ্ধে কোনো পথ নেই (৯:৯১)। আল্লাহ যেমন সৎকর্মশীলের উপর থেকে সাবীল তুলে নিয়েছেন, তেমনি তা রেখেছেন জালিমের উপর। এভাবে দুই দলের হিসাব পুরো হয়ে গেছে। দুটি আয়াত পাশাপাশি পড়লে বোঝা যায়, কুরআনের বিচারে দায় আসে আচরণ থেকে। শুধু কোনো বিবাদে জড়িয়ে পড়লেই কেউ দোষী হয় না।"
+            "bn": "কুরতুবী এখানে ইবনুল আরাবীর একটি পর্যবেক্ষণ উদ্ধৃত করেন। তাঁর মতে এ আয়াত সূরা বারাআর আগের আয়াতটির বিপরীতে দাঁড়িয়ে আছে: মা আলাল মুহসিনীনা মিন সাবীল, সৎকর্মশীলদের বিরুদ্ধে কোনো পথ নেই (৯:৯১)। আল্লাহ যেমন সৎকর্মশীলের উপর থেকে সাবীল তুলে নিয়েছেন, তেমনি তা রেখেছেন জালিমের উপর। এভাবে দুই দলের হিসাব পুরো হয়ে গেছে। দুটি আয়াত পাশাপাশি পড়লে বোঝা যায়, কুরআনের বিচারে দায় আসে আচরণ থেকে। শুধু কোনো বিবাদে জড়িয়ে পড়লেই কেউ দোষী হয় না।"
           }
         ]
       },
@@ -985,15 +985,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Sabil is literally a road, and the commentators do not agree on what road is meant. At-Tabari keeps closest to the word: the way is open to you, O people, against those who assault others in wrong and aggression, so that you may punish them for their wrong, and it is not open against one who took back his right from whoever wronged him. For him the sabil is a path of action that belongs to the wronged party and to people at large.",
-            "bn": "সাবীল শব্দের আক্ষরিক অর্থ রাস্তা। কোন রাস্তার কথা বলা হচ্ছে, তা নিয়ে তাফসীরকারেরা একমত নন। তাবারী শব্দের সবচেয়ে কাছে থাকেন। তাঁর ব্যাখ্যায়: হে মানুষ, তোমাদের জন্য পথ খোলা তাদের বিরুদ্ধে, যারা জুলুম আর সীমালঙ্ঘন করে মানুষের উপর চড়াও হয়। তোমরা তাদের জুলুমের শাস্তি দিতে পারো। কিন্তু যে তার উপর জুলুমকারীর কাছ থেকে নিজের হক আদায় করে নিল, তার বিরুদ্ধে সে পথ খোলা নেই। তাবারীর কাছে সাবীল তাই করণীয়ের একটি পথ, যা মজলুমের ও সাধারণ মানুষের হাতে।"
+            "bn": "সাবীল শব্দের আক্ষরিক অর্থ রাস্তা। কোন রাস্তার কথা বলা হচ্ছে, তা নিয়ে তাফসীরকারেরা একমত নন। তাবারী শব্দের সবচেয়ে কাছে থাকেন। তাঁর ব্যাখ্যায়: হে মানুষ, তোমাদের জন্য পথ খোলা তাদের বিরুদ্ধে, যারা জুলুম আর সীমালঙ্ঘন করে মানুষের উপর চড়াও হয়। তোমরা তাদের জুলুমের শাস্তি দিতে পারো। কিন্তু যে তার উপর জুলুমকারীর কাছ থেকে নিজের হক আদায় করে নিল, তার বিরুদ্ধে সে পথ খোলা নেই। তাবারীর কাছে সাবীল তাই করণীয়ের একটি পথ, যা মজলুমের ও সাধারণ মানুষের হাতে।"
           },
           {
             "en": "Ibn Kathir reads it as a weight rather than a road: only the haraj and 'anat, the blame and the burden, lie upon them. The abridged English of his tafsir puts it as the burden of sin. As-Sa'di gives it a legal edge: the case for a punishment set by the Shari'ah is directed only at them. Al-Muyassar uses al-mu'akhadhah, being taken to task. Blame, sin, lawful punishment and accountability are four different claims, and the verse's one word holds room for all of them.",
-            "bn": "ইবন কাসীরের কাছে সাবীল রাস্তা নয়, বোঝা। তিনি বলেন, সংকীর্ণতা আর কষ্ট, অর্থাৎ দোষের ভার, কেবল তাদের উপর। তাঁর তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একে বলে গুনাহের বোঝা। সা'দী এতে আইনি মাত্রা যোগ করেন: শরীয়তসম্মত শাস্তির দাবি কেবল তাদের দিকেই ধাবিত হয়। মুয়াসসার শব্দ বেছে নেয় মুআখাযা, মানে পাকড়াও হওয়া, জবাবদিহির মুখে পড়া। দোষ, গুনাহ, শরীয়তের শাস্তি আর জবাবদিহি চারটি আলাদা দাবি। আয়াতের একটিমাত্র শব্দে চারটিরই জায়গা আছে।"
+            "bn": "ইবন কাসীরের কাছে সাবীল রাস্তা নয়, বোঝা। তিনি বলেন, সংকীর্ণতা আর কষ্ট, অর্থাৎ দোষের ভার, কেবল তাদের উপর। তাঁর তাফসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একে বলে গুনাহের বোঝা। সা'দী এতে আইনি মাত্রা যোগ করেন: শরীয়তসম্মত শাস্তির দাবি কেবল তাদের দিকেই ধাবিত হয়। মুয়াসসার শব্দ বেছে নেয় মুআখাযা, মানে পাকড়াও হওয়া, জবাবদিহির মুখে পড়া। দোষ, গুনাহ, শরীয়তের শাস্তি আর জবাবদিহি চারটি আলাদা দাবি। আয়াতের একটিমাত্র শব্দে চারটিরই জায়গা আছে।"
           },
           {
             "en": "The differences have consequences. At-Tabari's reading hands people a lawful path to answer the aggressor, and as-Sa'di ties the answer to what the Shari'ah itself sets, not to private anger. Ibn Kathir's and al-Muyassar's readings point beyond any court, to a burden carried before Allah. Held together, they keep the verse from shrinking into either a mere feeling of grievance or a mere permission to strike back. The aggressor faces both a lawful answer and an account that does not close.",
-            "bn": "এই পার্থক্যগুলোর ফল আছে। তাবারীর ব্যাখ্যা মানুষকে জালিমের জবাব দেওয়ার একটি বৈধ পথ দেয়। সা'দী সেই জবাবকে বেঁধে দেন শরীয়ত যা নির্ধারণ করেছে তার সঙ্গে, ব্যক্তিগত রাগের সঙ্গে নয়। ইবন কাসীর আর মুয়াসসারের ব্যাখ্যা যেকোনো আদালতের বাইরে চলে যায়, আল্লাহর সামনে বয়ে বেড়ানো এক বোঝার দিকে। সব কটি একসঙ্গে ধরলে আয়াতটি শুধু ক্ষোভের অনুভূতি হয়ে থাকে না, আবার শুধু পাল্টা আঘাতের অনুমতিও হয়ে যায় না। জালিমের সামনে থাকে বৈধ প্রতিকার, আর এমন এক হিসাব যা কখনো বন্ধ হয় না।"
+            "bn": "এই পার্থক্যগুলোর ফল আছে। তাবারীর ব্যাখ্যা মানুষকে জালিমের জবাব দেওয়ার একটি বৈধ পথ দেয়। সা'দী সেই জবাবকে বেঁধে দেন শরীয়ত যা নির্ধারণ করেছে তার সঙ্গে, ব্যক্তিগত রাগের সঙ্গে নয়। ইবন কাসীর আর মুয়াসসারের ব্যাখ্যা যেকোনো আদালতের বাইরে চলে যায়, আল্লাহর সামনে বয়ে বেড়ানো এক বোঝার দিকে। সব কটি একসঙ্গে ধরলে আয়াতটি শুধু ক্ষোভের অনুভূতি হয়ে থাকে না, আবার শুধু পাল্টা আঘাতের অনুমতিও হয়ে যায় না। জালিমের সামনে থাকে বৈধ প্রতিকার, আর এমন এক হিসাব যা কখনো বন্ধ হয় না।"
           }
         ]
       },
@@ -1005,15 +1005,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Who are alladhina yazlimuna an-nas? Ibn Kathir and al-Baghawi give the same short answer: those who begin people with wrong. Al-Qurtubi says it means by their aggression against them, and reports that this is the view of most scholars. He also records a narrower reading from Ibn Jurayj: they wrong people through shirk that opposes their religion. The weight of the commentary falls on the first reading, in which the decisive fact is who moved first.",
-            "bn": "আল্লাযীনা ইয়াযলিমূনান নাস, মানুষের উপর জুলুমকারী কারা? ইবন কাসীর আর বাগাভী একই ছোট উত্তর দেন: যারা মানুষের উপর আগে জুলুম শুরু করে। কুরতুবী বলেন, মানে তাদের উপর সীমালঙ্ঘন করে, আর জানান যে অধিকাংশ আলেমের মত এটাই। ইবন জুরাইজের একটি সংকীর্ণ ব্যাখ্যাও তিনি লিখে রাখেন: তারা শিরকের মাধ্যমে মানুষের উপর জুলুম করে, যা তাদের দ্বীনের বিরোধী। তাফসীরের ভার অবশ্য প্রথম ব্যাখ্যার দিকেই। সেখানে আসল প্রশ্ন একটাই: কে আগে হাত বাড়িয়েছে।"
+            "bn": "আল্লাযীনা ইয়াযলিমূনান নাস, মানুষের উপর জুলুমকারী কারা? ইবন কাসীর আর বাগাভী একই ছোট উত্তর দেন: যারা মানুষের উপর আগে জুলুম শুরু করে। কুরতুবী বলেন, মানে তাদের উপর সীমালঙ্ঘন করে, আর জানান যে অধিকাংশ আলেমের মত এটাই। ইবন জুরাইজের একটি সংকীর্ণ ব্যাখ্যাও তিনি লিখে রাখেন: তারা শিরকের মাধ্যমে মানুষের উপর জুলুম করে, যা তাদের দ্বীনের বিরোধী। তাফসীরের ভার অবশ্য প্রথম ব্যাখ্যার দিকেই। সেখানে আসল প্রশ্ন একটাই: কে আগে হাত বাড়িয়েছে।"
           },
           {
             "en": "To show what beginning means, Ibn Kathir cites a hadith he calls sahih. Abu Hurayrah (RA) reported that the Messenger of Allah ﷺ said: \"Al-mustabban ma qala fa-'ala al-badi' ma lam ya'tadi al-mazlum\": when two people revile each other, what they both say falls upon the one who began, so long as the wronged one does not overstep. Muslim records it in his Sahih (2587). The final clause matters as much as the first, because the one who answers keeps his innocence only within the limit.",
-            "bn": "শুরু করা বলতে কী বোঝায়, তা দেখাতে ইবন কাসীর একটি হাদিস আনেন, যাকে তিনি সহীহ বলেন। আবু হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"আলমুসতাব্বানি মা কালা ফাআলাল বাদি মা লাম ইয়া'তাদিল মাযলূম\", দুজন যখন একে অপরকে গালি দেয়, দুজনের বলা সব কথার দায় পড়ে যে শুরু করেছে তার উপর, যতক্ষণ মজলুম সীমা না ছাড়ায়। ইমাম মুসলিম হাদিসটি তাঁর সহীহ গ্রন্থে এনেছেন (২৫৮৭)। শেষ অংশটা প্রথম অংশের মতোই জরুরি। জবাবদাতা নির্দোষ থাকে কেবল সীমার ভেতরে থাকলে।"
+            "bn": "শুরু করা বলতে কী বোঝায়, তা দেখাতে ইবন কাসীর একটি হাদিস আনেন, যাকে তিনি সহীহ বলেন। আবু হুরায়রা (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ ﷺ বলেছেন: \"আলমুসতাব্বানি মা কালা ফাআলাল বাদি মা লাম ইয়া'তাদিল মাযলূম\", দুজন যখন একে অপরকে গালি দেয়, দুজনের বলা সব কথার দায় পড়ে যে শুরু করেছে তার উপর, যতক্ষণ মজলুম সীমা না ছাড়ায়। ইমাম মুসলিম হাদিসটি তাঁর সহীহ গ্রন্থে এনেছেন (২৫৮৭)। শেষ অংশটা প্রথম অংশের মতোই জরুরি। জবাবদাতা নির্দোষ থাকে কেবল সীমার ভেতরে থাকলে।"
           },
           {
             "en": "In most quarrels each side counts the other's reply as the first blow, and the argument becomes a contest over who started it. The hadith settles that question and then sets a second question beside it. The person who began carries the weight of both voices, yet the person who answered loses that shelter the moment his answer goes past what he received. So the verse asks every reader two things in turn: did I begin it, and did I go beyond the measure?",
-            "bn": "বেশির ভাগ ঝগড়ায় দুই পক্ষই অন্যজনের জবাবকে প্রথম আঘাত বলে গোনে। তখন তর্কটা দাঁড়ায় কে শুরু করেছে, সেই প্রশ্নে। হাদিসটি এ প্রশ্নের মীমাংসা করে, তারপর পাশে আরেকটি প্রশ্ন রেখে দেয়। যে শুরু করেছে, দুজনের কথার ভার তার কাঁধে। কিন্তু জবাবদাতা যে মুহূর্তে যা পেয়েছে তার চেয়ে বেশি ফিরিয়ে দেয়, সেই আশ্রয় সে হারায়। তাই আয়াতটি প্রত্যেক পাঠককে পরপর দুটি প্রশ্ন করে: আমি কি শুরু করেছিলাম? আর আমি কি মাপ ছাড়িয়ে গিয়েছিলাম?"
+            "bn": "বেশির ভাগ ঝগড়ায় দুই পক্ষই অন্যজনের জবাবকে প্রথম আঘাত বলে গোনে। তখন তর্কটা দাঁড়ায় কে শুরু করেছে, সেই প্রশ্নে। হাদিসটি এ প্রশ্নের মীমাংসা করে, তারপর পাশে আরেকটি প্রশ্ন রেখে দেয়। যে শুরু করেছে, দুজনের কথার ভার তার কাঁধে। কিন্তু জবাবদাতা যে মুহূর্তে যা পেয়েছে তার চেয়ে বেশি ফিরিয়ে দেয়, সেই আশ্রয় সে হারায়। তাই আয়াতটি প্রত্যেক পাঠককে পরপর দুটি প্রশ্ন করে: আমি কি শুরু করেছিলাম? আর আমি কি মাপ ছাড়িয়ে গিয়েছিলাম?"
           }
         ]
       },
@@ -1025,15 +1025,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa yabghuna fi-l-ardi bi-ghayri-l-haqq: and they overstep on the earth without right. At-Tabari explains baghy as passing, in Allah's earth, the limit their Lord made lawful for them into what He did not permit, and so spreading corruption there without right. Al-Muyassar repeats that wording almost exactly. As-Sa'di widens the field: the clause covers every wrong and every act of baghy against people, in their blood, their wealth and their honour.",
-            "bn": "ওয়া ইয়াবগূনা ফিল আরদি বিগাইরিল হাক্ক: আর তারা অন্যায়ভাবে যমীনে সীমা ছাড়ায়। তাবারী বাগইয়ের ব্যাখ্যা দেন এভাবে: আল্লাহর যমীনে রব তাদের জন্য যে সীমা হালাল করেছেন, তা পেরিয়ে তারা ঢুকে পড়ে এমন কিছুতে যার অনুমতি তিনি দেননি, আর এভাবে অন্যায়ভাবে সেখানে ফাসাদ ছড়ায়। মুয়াসসার প্রায় হুবহু একই কথা বলে। সা'দী ক্ষেত্রটা আরও বড় করেন। তাঁর মতে এ অংশে মানুষের উপর সব রকম জুলুম আর বাড়াবাড়ি ঢুকে পড়ে: তাদের জানে, মালে আর সম্মানে।"
+            "bn": "ওয়া ইয়াবগূনা ফিল আরদি বিগাইরিল হাক্ক: আর তারা অন্যায়ভাবে যমীনে সীমা ছাড়ায়। তাবারী বাগইয়ের ব্যাখ্যা দেন এভাবে: আল্লাহর যমীনে রব তাদের জন্য যে সীমা হালাল করেছেন, তা পেরিয়ে তারা ঢুকে পড়ে এমন কিছুতে যার অনুমতি তিনি দেননি, আর এভাবে অন্যায়ভাবে সেখানে ফাসাদ ছড়ায়। মুয়াসসার প্রায় হুবহু একই কথা বলে। সা'দী ক্ষেত্রটা আরও বড় করেন। তাঁর মতে এ অংশে মানুষের উপর সব রকম জুলুম আর বাড়াবাড়ি ঢুকে পড়ে: তাদের জানে, মালে আর সম্মানে।"
           },
           {
             "en": "Al-Qurtubi gathers a wider spread of names. Most scholars, he reports, place the baghy in lives and property. Muqatil makes it acting with sins, and al-Baghawi gives the same gloss. Abu Malik ties it to a particular group: it is what the disbelievers of Quraysh hoped for, that Makkah should have a religion other than Islam. Along that line Ibn Zayd held that the whole passage was abrogated by the command to fight and applied to the idolaters alone. Qatada said it is general, and al-Qurtubi adds that the plain wording points the same way.",
-            "bn": "কুরতুবী আরও বেশি মত একসঙ্গে আনেন। তিনি জানান, অধিকাংশের মতে এই বাড়াবাড়ি জান ও মালে। মুকাতিলের মতে এর অর্থ গুনাহের কাজ করা, আর বাগাভীও একই ব্যাখ্যা দেন। আবু মালিক এটিকে একটি নির্দিষ্ট দলের সঙ্গে যুক্ত করেন: কুরাইশের কাফেররা চাইত মক্কায় ইসলাম ছাড়া অন্য কোনো দ্বীন থাকুক, সেটাই এই বাড়াবাড়ি। এই ধারায় ইবন যায়দ বলেছেন, পুরো অংশটি জিহাদের হুকুমে রহিত হয়ে গেছে এবং এটি কেবল মুশরিকদের বেলায় প্রযোজ্য ছিল। কাতাদা বলেছেন, আয়াতটি সাধারণ। কুরতুবী যোগ করেন, বাক্যের বাহ্যিক অর্থও সেদিকেই ইঙ্গিত করে।"
+            "bn": "কুরতুবী আরও বেশি মত একসঙ্গে আনেন। তিনি জানান, অধিকাংশের মতে এই বাড়াবাড়ি জান ও মালে। মুকাতিলের মতে এর অর্থ গুনাহের কাজ করা, আর বাগাভীও একই ব্যাখ্যা দেন। আবু মালিক এটিকে একটি নির্দিষ্ট দলের সঙ্গে যুক্ত করেন: কুরাইশের কাফেররা চাইত মক্কায় ইসলাম ছাড়া অন্য কোনো দ্বীন থাকুক, সেটাই এই বাড়াবাড়ি। এই ধারায় ইবন যায়দ বলেছেন, পুরো অংশটি জিহাদের হুকুমে রহিত হয়ে গেছে এবং এটি কেবল মুশরিকদের বেলায় প্রযোজ্য ছিল। কাতাদা বলেছেন, আয়াতটি সাধারণ। কুরতুবী যোগ করেন, বাক্যের বাহ্যিক অর্থও সেদিকেই ইঙ্গিত করে।"
           },
           {
             "en": "One thing must be said plainly. The verse describes those who wrong people and overstep without right, and the commentators who name a group are speaking of the people of their reading, such as the Quraysh of Abu Malik's gloss. It licenses nothing against any living person or community, and no one is named here as the oppressor of today. The verse supplies the description; matching it to a face belongs to evidence and due process, and its first reader should be oneself.",
-            "bn": "একটা কথা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে তাদের, যারা মানুষের উপর জুলুম করে আর অন্যায়ভাবে সীমা ছাড়ায়। যে তাফসীরকারেরা কোনো দলের নাম নেন, তাঁরা নিজ নিজ ব্যাখ্যার মানুষদের কথাই বলেন, যেমন আবু মালিকের ব্যাখ্যায় কুরাইশ। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজকের দিনের জালিম হিসেবে এখানে কারও নাম নেওয়া হয়নি। আয়াত শুধু চেহারাটা এঁকে দেয়। সেই চেহারা কার সঙ্গে মেলে, তা ঠিক হয় প্রমাণ আর ন্যায্য বিচারে, আর এটি প্রথমে মিলিয়ে দেখার কথা নিজের সঙ্গেই।"
+            "bn": "একটা কথা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা করে তাদের, যারা মানুষের উপর জুলুম করে আর অন্যায়ভাবে সীমা ছাড়ায়। যে তাফসীরকারেরা কোনো দলের নাম নেন, তাঁরা নিজ নিজ ব্যাখ্যার মানুষদের কথাই বলেন, যেমন আবু মালিকের ব্যাখ্যায় কুরাইশ। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজকের দিনের জালিম হিসেবে এখানে কারও নাম নেওয়া হয়নি। আয়াত শুধু চেহারাটা এঁকে দেয়। সেই চেহারা কার সঙ্গে মেলে, তা ঠিক হয় প্রমাণ আর ন্যায্য বিচারে, আর এটি প্রথমে মিলিয়ে দেখার কথা নিজের সঙ্গেই।"
           }
         ]
       },
@@ -1045,7 +1045,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir closes his comment with a report recorded by Ibn Abi Hatim. Muhammad ibn Wasi' arrived at Makkah, was stopped at a guard post and brought before Marwan ibn al-Muhallab, then governor of Basrah, who asked what he needed. He answered that he needed the governor, if he could, to be like the brother of Banu 'Adi. Asked who that was, he named al-'Ala' ibn Ziyad, who had once appointed a friend of his to an office and written him a letter.",
-            "bn": "ইবন কাসীর এ আয়াতের আলোচনা শেষ করেন ইবন আবী হাতিমের বর্ণিত একটি ঘটনা দিয়ে। মুহাম্মাদ ইবন ওয়াসি মক্কায় পৌঁছলে এক পাহারা চৌকিতে তাঁকে আটকানো হয়। তাঁকে নিয়ে যাওয়া হয় বসরার তৎকালীন শাসক মারওয়ান ইবনুল মুহাল্লাবের কাছে। শাসক জানতে চাইলেন, আপনার কী প্রয়োজন? তিনি বললেন, সম্ভব হলে আপনি বনু আদীর সেই ভাইয়ের মতো হোন। কে সেই ভাই? তিনি জানালেন, আলা ইবন যিয়াদ। তিনি একবার এক বন্ধুকে একটি দায়িত্বে নিয়োগ দিয়ে তাকে একটি চিঠি লিখেছিলেন।"
+            "bn": "ইবন কাসীর এ আয়াতের আলোচনা শেষ করেন ইবন আবী হাতিমের বর্ণিত একটি ঘটনা দিয়ে। মুহাম্মাদ ইবন ওয়াসি মক্কায় পৌঁছলে এক পাহারা চৌকিতে তাঁকে আটকানো হয়। তাঁকে নিয়ে যাওয়া হয় বসরার তৎকালীন শাসক মারওয়ান ইবনুল মুহাল্লাবের কাছে। শাসক জানতে চাইলেন, আপনার কী প্রয়োজন? তিনি বললেন, সম্ভব হলে আপনি বনু আদীর সেই ভাইয়ের মতো হোন। কে সেই ভাই? তিনি জানালেন, আলা ইবন যিয়াদ। তিনি একবার এক বন্ধুকে একটি দায়িত্বে নিয়োগ দিয়ে তাকে একটি চিঠি লিখেছিলেন।"
           },
           {
             "en": "The letter said: if you can, never spend a night except with your back light, your stomach lean, and your hand clean of the blood and the wealth of the Muslims; if you do that, there will be no sabil against you. Then it quoted this verse. The governor said he had spoken the truth and given sincere counsel, and granted Muhammad ibn Wasi' his actual request, to rejoin his family. This is a report about early Muslims, not a hadith of the Prophet ﷺ, and its use of the verse is a self-audit for anyone holding power.",
@@ -1056,16 +1056,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Releasing the One Who Wronged",
-          "bn": "জালিমকে দায়মুক্ত করা যায় কি"
+          "bn": "জালিমকে দায়মুক্ত করা যায় কি"
         },
         "p": [
           {
             "en": "Al-Qurtubi uses the verse to open a practical question: may a person release someone from what he owes, so that it is no longer held against him? He reports that Sa'id ibn al-Musayyib released no one, whether from a slight to his honour or from a debt. Sulayman ibn Yasar and Muhammad ibn Sirin released people from both. Malik held that one may release from property but not from honour, and when asked about a man who wrongs another he cited this verse and said he would not grant him release.",
-            "bn": "কুরতুবী এ আয়াত থেকে একটি বাস্তব প্রশ্ন তোলেন: কারও কাছে পাওনা থাকলে কি তাকে দায়মুক্ত করে দেওয়া যায়, যাতে সেটা আর তার বিরুদ্ধে না থাকে? তিনি জানান, সাঈদ ইবনুল মুসাইয়্যিব কাউকেই দায়মুক্ত করতেন না, না সম্মানহানির দায় থেকে, না সম্পদের দায় থেকে। সুলাইমান ইবন ইয়াসার আর মুহাম্মাদ ইবন সীরীন দুটো থেকেই মাফ করে দিতেন। মালিকের মত ছিল, সম্পদের দায় মাফ করা যায়, সম্মানহানির দায় নয়। কেউ কারও উপর জুলুম করলে কী হবে, জিজ্ঞেস করা হলে তিনি এই আয়াত পড়ে বলেন, আমি তাকে দায়মুক্ত করার পক্ষে নই।"
+            "bn": "কুরতুবী এ আয়াত থেকে একটি বাস্তব প্রশ্ন তোলেন: কারও কাছে পাওনা থাকলে কি তাকে দায়মুক্ত করে দেওয়া যায়, যাতে সেটা আর তার বিরুদ্ধে না থাকে? তিনি জানান, সাঈদ ইবনুল মুসাইয়্যিব কাউকেই দায়মুক্ত করতেন না, না সম্মানহানির দায় থেকে, না সম্পদের দায় থেকে। সুলাইমান ইবন ইয়াসার আর মুহাম্মাদ ইবন সীরীন দুটো থেকেই মাফ করে দিতেন। মালিকের মত ছিল, সম্পদের দায় মাফ করা যায়, সম্মানহানির দায় নয়। কেউ কারও উপর জুলুম করলে কী হবে, জিজ্ঞেস করা হলে তিনি এই আয়াত পড়ে বলেন, আমি তাকে দায়মুক্ত করার পক্ষে নই।"
           },
           {
             "en": "Ibn al-'Arabi, quoted by al-Qurtubi, sets out the reasons. The first view holds that no person should make lawful what Allah forbade, as if altering His ruling. The second says the right is his own, so he may drop it. Malik's middle view distinguishes the two cases: a debtor who cannot pay deserves gentleness, while an oppressor left unanswered may grow bold and the wrongdoers press on with their deeds. The verse's sabil, on this reading, is something the wronged party may sometimes waive and sometimes should keep.",
-            "bn": "কুরতুবী ইবনুল আরাবীর বরাতে প্রতিটি মতের যুক্তি তুলে ধরেন। প্রথম মতের যুক্তি: আল্লাহ যা হারাম করেছেন তা হালাল করে দেওয়া যায় না, তাতে তাঁর বিধান বদলে দেওয়ার মতো হয়। দ্বিতীয় মতের যুক্তি: হকটা তার নিজের, তাই সে চাইলে ছেড়ে দিতে পারে। মালিকের মাঝামাঝি মত দুটি অবস্থাকে আলাদা করে। যে দেনাদার শোধ করতে পারছে না, সে নরম আচরণ পাওয়ার যোগ্য। কিন্তু জালিমকে ছেড়ে দিলে সে আরও সাহস পায়, আর জালিমরা তাদের কুকর্ম চালিয়েই যায়। এই ব্যাখ্যায় আয়াতের সাবীল এমন এক হক, যা মজলুম কখনো ছেড়ে দিতে পারে, কখনো ধরে রাখাই উচিত।"
+            "bn": "কুরতুবী ইবনুল আরাবীর বরাতে প্রতিটি মতের যুক্তি তুলে ধরেন। প্রথম মতের যুক্তি: আল্লাহ যা হারাম করেছেন তা হালাল করে দেওয়া যায় না, তাতে তাঁর বিধান বদলে দেওয়ার মতো হয়। দ্বিতীয় মতের যুক্তি: হকটা তার নিজের, তাই সে চাইলে ছেড়ে দিতে পারে। মালিকের মাঝামাঝি মত দুটি অবস্থাকে আলাদা করে। যে দেনাদার শোধ করতে পারছে না, সে নরম আচরণ পাওয়ার যোগ্য। কিন্তু জালিমকে ছেড়ে দিলে সে আরও সাহস পায়, আর জালিমরা তাদের কুকর্ম চালিয়েই যায়। এই ব্যাখ্যায় আয়াতের সাবীল এমন এক হক, যা মজলুম কখনো ছেড়ে দিতে পারে, কখনো ধরে রাখাই উচিত।"
           }
         ]
       },
@@ -1077,11 +1077,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A second case in al-Qurtubi shows the verse at work in public life. A ruler imposes a fixed sum on a town, which its people pay in proportion to their wealth. May someone who can escape the levy do so, knowing the rest will then be made to pay the full amount? Sahnun said no. Abu Ja'far ad-Dawudi said yes, citing Malik on a related case, and reasoned that there is no shared obligation in injustice, and nobody is bound to step into a wrong for fear that it will fall more heavily on others.",
-            "bn": "কুরতুবীর দ্বিতীয় একটি মাসআলায় জনজীবনে আয়াতটির প্রয়োগ দেখা যায়। কোনো শাসক একটি শহরের উপর নির্দিষ্ট অঙ্কের অর্থ চাপিয়ে দিলেন, আর লোকেরা নিজ নিজ সম্পদের অনুপাতে তা দেয়। কেউ যদি এই দায় থেকে বেরিয়ে যেতে পারে, তবে কি সে তা করবে, যদিও তখন বাকিদের পুরো অঙ্কটাই দিতে হবে? সাহনূন বলেছেন, না। আবু জাফর দাউদী বলেছেন, হ্যাঁ। এ বিষয়ে তিনি মালিকের একটি কাছাকাছি মত দিয়ে দলিল দেন। তাঁর যুক্তি: জুলুমে কোনো ভাগাভাগির দায় নেই। অন্যদের উপর জুলুম বেড়ে যাবে, এই ভয়ে কাউকে নিজে জুলুমের ভেতরে ঢুকতে হয় না।"
+            "bn": "কুরতুবীর দ্বিতীয় একটি মাসআলায় জনজীবনে আয়াতটির প্রয়োগ দেখা যায়। কোনো শাসক একটি শহরের উপর নির্দিষ্ট অঙ্কের অর্থ চাপিয়ে দিলেন, আর লোকেরা নিজ নিজ সম্পদের অনুপাতে তা দেয়। কেউ যদি এই দায় থেকে বেরিয়ে যেতে পারে, তবে কি সে তা করবে, যদিও তখন বাকিদের পুরো অঙ্কটাই দিতে হবে? সাহনূন বলেছেন, না। আবু জাফর দাউদী বলেছেন, হ্যাঁ। এ বিষয়ে তিনি মালিকের একটি কাছাকাছি মত দিয়ে দলিল দেন। তাঁর যুক্তি: জুলুমে কোনো ভাগাভাগির দায় নেই। অন্যদের উপর জুলুম বেড়ে যাবে, এই ভয়ে কাউকে নিজে জুলুমের ভেতরে ঢুকতে হয় না।"
           },
           {
             "en": "Ad-Dawudi then quotes this verse as his proof. As he applies it, the sabil lies on whoever imposed the wrong, not on the person who slipped out of it. Al-Qurtubi presents the two answers and leaves Sahnun's view on record, so the matter remains a disagreement among the Maliki jurists rather than a settled rule. Whichever answer a reader follows, the verse's own starting point is untouched: the burden of an unjust demand belongs first to whoever makes it.",
-            "bn": "দাউদী এরপর এই আয়াতকেই দলিল হিসেবে পেশ করেন। তাঁর প্রয়োগে সাবীল তার উপর, যে জুলুমটা চাপিয়েছে; যে কোনোভাবে তা থেকে বেরিয়ে আসতে পেরেছে, তার উপর নয়। কুরতুবী দুটি উত্তরই উল্লেখ করেন, সাহনূনের মতও রেখে দেন। ফলে বিষয়টি মালিকী ফকীহদের মধ্যে মতভেদ হিসেবেই থাকে, চূড়ান্ত বিধান হয়ে যায় না। যে উত্তরই মানা হোক, আয়াতের মূল কথাটি অটুট থাকে: অন্যায় দাবির বোঝা সবার আগে তার, যে দাবিটা চাপায়।"
+            "bn": "দাউদী এরপর এই আয়াতকেই দলিল হিসেবে পেশ করেন। তাঁর প্রয়োগে সাবীল তার উপর, যে জুলুমটা চাপিয়েছে; যে কোনোভাবে তা থেকে বেরিয়ে আসতে পেরেছে, তার উপর নয়। কুরতুবী দুটি উত্তরই উল্লেখ করেন, সাহনূনের মতও রেখে দেন। ফলে বিষয়টি মালিকী ফকীহদের মধ্যে মতভেদ হিসেবেই থাকে, চূড়ান্ত বিধান হয়ে যায় না। যে উত্তরই মানা হোক, আয়াতের মূল কথাটি অটুট থাকে: অন্যায় দাবির বোঝা সবার আগে তার, যে দাবিটা চাপায়।"
           }
         ]
       },
@@ -1093,15 +1093,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ula'ika lahum 'adhabun alim: for them is a painful punishment. At-Tabari places it from Allah on the Day of Resurrection, in Jahannam, painful and aching, and al-Muyassar follows him. Ibn Kathir glosses alim as severe and aching. As-Sa'di adds two details: the pain reaches both hearts and bodies, and it comes in proportion to their wrong and their baghy. The punishment keeps the same rule of measure that 42:40 set for the wronged, applied now to whoever began.",
-            "bn": "উলাইকা লাহুম আযাবুন আলীম: তাদের জন্য আছে যন্ত্রণাদায়ক শাস্তি। তাবারীর ব্যাখ্যায় এ শাস্তি আল্লাহর পক্ষ থেকে, কিয়ামতের দিন, জাহান্নামে, কষ্টদায়ক ও যন্ত্রণাময়। মুয়াসসারও তাঁর অনুসরণ করে। ইবন কাসীর আলীম শব্দের অর্থ করেন কঠিন ও পীড়াদায়ক। সা'দী দুটি কথা যোগ করেন: যন্ত্রণা পৌঁছায় অন্তরে ও দেহে দুই জায়গাতেই, আর তা হয় তাদের জুলুম ও বাড়াবাড়ির মাপ অনুযায়ী। ৪২:৪০ মজলুমের জন্য যে মাপের নিয়ম বেঁধে দিয়েছিল, শাস্তিতেও সেই নিয়ম, এবার যে শুরু করেছে তার বেলায়।"
+            "bn": "উলাইকা লাহুম আযাবুন আলীম: তাদের জন্য আছে যন্ত্রণাদায়ক শাস্তি। তাবারীর ব্যাখ্যায় এ শাস্তি আল্লাহর পক্ষ থেকে, কিয়ামতের দিন, জাহান্নামে, কষ্টদায়ক ও যন্ত্রণাময়। মুয়াসসারও তাঁর অনুসরণ করে। ইবন কাসীর আলীম শব্দের অর্থ করেন কঠিন ও পীড়াদায়ক। সা'দী দুটি কথা যোগ করেন: যন্ত্রণা পৌঁছায় অন্তরে ও দেহে দুই জায়গাতেই, আর তা হয় তাদের জুলুম ও বাড়াবাড়ির মাপ অনুযায়ী। ৪২:৪০ মজলুমের জন্য যে মাপের নিয়ম বেঁধে দিয়েছিল, শাস্তিতেও সেই নিয়ম, এবার যে শুরু করেছে তার বেলায়।"
           },
           {
             "en": "The verse sits between two others that keep it from becoming a slogan. Before it, 42:41 clears whoever answers a wrong. After it, 42:43 says that whoever is patient and forgives has done something of firm resolve. Ma'arif al-Qur'an, on the whole passage, reports Ibrahim an-Nakha'i saying the early believers disliked being humiliated by wrongdoers who, left unchecked, would grow bolder. It concludes that forgiveness suits the repentant and a firm response suits the persistent.",
-            "bn": "আয়াতটির আগে ও পরে দুটি আয়াত আছে, আর ওই দুটিই একে নিছক স্লোগান হয়ে যেতে দেয় না। আগের আয়াত ৪২:৪১ বলছে, যে অন্যায়ের জবাব দেয়, তার কোনো দোষ নেই। পরের আয়াত ৪২:৪৩ বলছে, যে ধৈর্য ধরে ও ক্ষমা করে, সে দৃঢ় সংকল্পের কাজ করে। পুরো অংশের আলোচনায় মাআরিফুল কুরআন ইবরাহীম নাখাঈর কথা আনে: প্রথম যুগের মুমিনরা জালিমের হাতে অপমানিত হওয়া পছন্দ করতেন না, কারণ ছাড় পেলে জালিম আরও সাহসী হয়ে ওঠে। মাআরিফের সিদ্ধান্ত: যে অনুতপ্ত হয়ে ফিরে আসে, তাকে ক্ষমা করাই মানায়; আর যে জুলুমে অটল, তার বেলায় দৃঢ় জবাবই মানায়।"
+            "bn": "আয়াতটির আগে ও পরে দুটি আয়াত আছে, আর ওই দুটিই একে নিছক স্লোগান হয়ে যেতে দেয় না। আগের আয়াত ৪২:৪১ বলছে, যে অন্যায়ের জবাব দেয়, তার কোনো দোষ নেই। পরের আয়াত ৪২:৪৩ বলছে, যে ধৈর্য ধরে ও ক্ষমা করে, সে দৃঢ় সংকল্পের কাজ করে। পুরো অংশের আলোচনায় মাআরিফুল কুরআন ইবরাহীম নাখাঈর কথা আনে: প্রথম যুগের মুমিনরা জালিমের হাতে অপমানিত হওয়া পছন্দ করতেন না, কারণ ছাড় পেলে জালিম আরও সাহসী হয়ে ওঠে। মাআরিফের সিদ্ধান্ত: যে অনুতপ্ত হয়ে ফিরে আসে, তাকে ক্ষমা করাই মানায়; আর যে জুলুমে অটল, তার বেলায় দৃঢ় জবাবই মানায়।"
           },
           {
             "en": "So the verse does two jobs for a reader. For someone who has been hurt, it lifts a false guilt: answering within the limit is not the fault, and the weight sits elsewhere. For anyone who holds power, over a household, a team or a stranger's trust, it is the letter al-'Ala' ibn Ziyad wrote. The question is not whether oppressors exist somewhere, but whether tonight my own hand is clean of anyone's blood, wealth and honour.",
-            "bn": "তাই পাঠকের জন্য আয়াতটি দুটি কাজ করে। যে আঘাত পেয়েছে, তার মন থেকে অকারণ অপরাধবোধের বোঝা নামিয়ে দেয়: সীমার ভেতরে থেকে জবাব দেওয়া দোষের নয়, দায় অন্যের ঘাড়ে। আর যার হাতে কোনো ক্ষমতা আছে, হোক তা সংসারে, কর্মস্থলের দলে, কিংবা কোনো অচেনা মানুষের আস্থার ওপর, তার জন্য এ আয়াত আলা ইবন যিয়াদের লেখা সেই চিঠি। প্রশ্নটা এই নয় যে জালিম কোথাও আছে কি না। প্রশ্ন হলো, আজ রাতে আমার নিজের হাত কারও রক্ত, সম্পদ আর ইজ্জতের দায় থেকে পরিষ্কার কি না।"
+            "bn": "তাই পাঠকের জন্য আয়াতটি দুটি কাজ করে। যে আঘাত পেয়েছে, তার মন থেকে অকারণ অপরাধবোধের বোঝা নামিয়ে দেয়: সীমার ভেতরে থেকে জবাব দেওয়া দোষের নয়, দায় অন্যের ঘাড়ে। আর যার হাতে কোনো ক্ষমতা আছে, হোক তা সংসারে, কর্মস্থলের দলে, কিংবা কোনো অচেনা মানুষের আস্থার ওপর, তার জন্য এ আয়াত আলা ইবন যিয়াদের লেখা সেই চিঠি। প্রশ্নটা এই নয় যে জালিম কোথাও আছে কি না। প্রশ্ন হলো, আজ রাতে আমার নিজের হাত কারও রক্ত, সম্পদ আর ইজ্জতের দায় থেকে পরিষ্কার কি না।"
           }
         ]
       }
@@ -1117,18 +1117,18 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The surah closes on revelation. 42:51 has just said that God speaks to no human being except by inspiration, from behind a veil, or by sending a messenger who reveals by His leave what He wills. Then comes wa-kadhalika: and thus. At-Tabari reads the word as a comparison: as We used to reveal to the rest of Our messengers, so We have revealed this Qur'an to you, Muhammad. Al-Baghawi, al-Qurtubi, as-Sa'di and the Muyassar all give the same link, to the prophets who came before.",
-            "bn": "সূরাটি শেষ হচ্ছে ওহির কথা দিয়ে। ঠিক আগের আয়াত ৪২:৫১ বলেছে, আল্লাহ কোনো মানুষের সঙ্গে কথা বলেন না, তবে ওহির মাধ্যমে, পর্দার আড়াল থেকে, অথবা এমন দূত পাঠিয়ে, যে তাঁর অনুমতিতে তিনি যা চান তা পৌঁছে দেয়। এরপর আসে ওয়া কাযালিকা: আর এভাবেই। তাবারী শব্দটিকে তুলনা অর্থে নেন: যেভাবে আমি অন্য সব রাসূলের কাছে ওহি পাঠাতাম, হে মুহাম্মাদ, সেভাবেই তোমার কাছে এই কুরআন ওহি করে পাঠিয়েছি। বাগাভী, কুরতুবী, সা'দী ও মুয়াসসার সবাই একই সম্পর্ক টানেন: আগের নবীদের সঙ্গে।"
+            "bn": "সূরাটি শেষ হচ্ছে ওহির কথা দিয়ে। ঠিক আগের আয়াত ৪২:৫১ বলেছে, আল্লাহ কোনো মানুষের সঙ্গে কথা বলেন না, তবে ওহির মাধ্যমে, পর্দার আড়াল থেকে, অথবা এমন দূত পাঠিয়ে, যে তাঁর অনুমতিতে তিনি যা চান তা পৌঁছে দেয়। এরপর আসে ওয়া কাযালিকা: আর এভাবেই। তাবারী শব্দটিকে তুলনা অর্থে নেন: যেভাবে আমি অন্য সব রাসূলের কাছে ওহি পাঠাতাম, হে মুহাম্মাদ, সেভাবেই তোমার কাছে এই কুরআন ওহি করে পাঠিয়েছি। বাগাভী, কুরতুবী, সা'দী ও মুয়াসসার সবাই একই সম্পর্ক টানেন: আগের নবীদের সঙ্গে।"
           },
           {
             "en": "Ma'arif al-Qur'an ties the verse more tightly to the one before it, calling it a complement of that subject. Its gist, in Ma'arif's words: no one in this world has seen God and spoken with Him face to face, but He sends revelation to His chosen servants in the three ways just named, and by the same practice it was sent to the Prophet ﷺ. Ibn Kathir's abridged English commentary treats 42:51 to 42:53 as one passage on how revelation comes down. So 42:51 is the frame; this verse is about what came to the Prophet ﷺ through it.",
-            "bn": "মাআরিফুল কুরআন আয়াতটিকে আগেরটির সঙ্গে আরও শক্ত করে জুড়ে দেয়, একে বলে সেই আলোচনারই পরিপূরক। মাআরিফের ভাষায় মূল কথাটা এই: দুনিয়ায় কেউ আল্লাহকে দেখেনি, সামনাসামনি তাঁর সঙ্গে কথাও বলেনি। তবে তিনি তাঁর বাছাই করা বান্দাদের কাছে ওহি পাঠান এইমাত্র বলা তিনটি উপায়ে, আর সেই একই রীতিতে ওহি এসেছে নবী ﷺ-এর কাছেও। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ৪২:৫১ থেকে ৪২:৫৩ পর্যন্ত আয়াতগুলো একসঙ্গে পড়ে: ওহি কীভাবে নাজিল হয়, তারই আলোচনা। তাই ৪২:৫১ হলো মূল কাঠামো। আর এ আয়াত বলছে, সেই পথ ধরে নবী ﷺ-এর কাছে কী এসেছে।"
+            "bn": "মাআরিফুল কুরআন আয়াতটিকে আগেরটির সঙ্গে আরও শক্ত করে জুড়ে দেয়, একে বলে সেই আলোচনারই পরিপূরক। মাআরিফের ভাষায় মূল কথাটা এই: দুনিয়ায় কেউ আল্লাহকে দেখেনি, সামনাসামনি তাঁর সঙ্গে কথাও বলেনি। তবে তিনি তাঁর বাছাই করা বান্দাদের কাছে ওহি পাঠান এইমাত্র বলা তিনটি উপায়ে, আর সেই একই রীতিতে ওহি এসেছে নবী ﷺ-এর কাছেও। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ৪২:৫১ থেকে ৪২:৫৩ পর্যন্ত আয়াতগুলো একসঙ্গে পড়ে: ওহি কীভাবে নাজিল হয়, তারই আলোচনা। তাই ৪২:৫১ হলো মূল কাঠামো। আর এ আয়াত বলছে, সেই পথ ধরে নবী ﷺ-এর কাছে কী এসেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Six Glosses on Ruh",
-          "bn": "রূহ শব্দের ছয় ব্যাখ্যা"
+          "bn": "রূহ শব্দের ছয় ব্যাখ্যা"
         },
         "p": [
           {
@@ -1137,7 +1137,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari reports the difference more narrowly, as two camps: al-Hasan, through Qatada, saying mercy from Our command, and as-Suddi saying revelation from Our command. He refers back to his earlier discussion of ruh rather than repeat it, and his own running paraphrase holds both: this Qur'an, revelation and mercy from Our command. Ibn Kathir says simply that it means the Qur'an, and as-Sa'di says it is this noble Qur'an. These are reports, not a ruling; the article leaves the six glosses side by side, as the commentators do.",
-            "bn": "তাবারী মতভেদটা আরও সংক্ষেপে দুই দলে দেখান। কাতাদার সূত্রে হাসান বলেছেন, আমার আদেশ থেকে রহমত। সুদ্দী বলেছেন, আমার আদেশ থেকে ওহি। রূহ নিয়ে বিস্তারিত আলোচনা তিনি আগেই করেছেন বলে এখানে আর পুনরাবৃত্তি করেন না। তবে তাঁর নিজের ব্যাখ্যায় দুটোই আছে: এই কুরআন, আমার আদেশ থেকে ওহি ও রহমত। ইবন কাসীর সোজা বলেন, এর অর্থ কুরআন। সা'দীও বলেন, এ হলো এই মহিমান্বিত কুরআন। এগুলো বর্ণনা, কোনো রায় নয়। তাফসীরকারেরা যেমন রেখেছেন, এ লেখাও ছয়টি ব্যাখ্যা পাশাপাশিই রেখে দিচ্ছে।"
+            "bn": "তাবারী মতভেদটা আরও সংক্ষেপে দুই দলে দেখান। কাতাদার সূত্রে হাসান বলেছেন, আমার আদেশ থেকে রহমত। সুদ্দী বলেছেন, আমার আদেশ থেকে ওহি। রূহ নিয়ে বিস্তারিত আলোচনা তিনি আগেই করেছেন বলে এখানে আর পুনরাবৃত্তি করেন না। তবে তাঁর নিজের ব্যাখ্যায় দুটোই আছে: এই কুরআন, আমার আদেশ থেকে ওহি ও রহমত। ইবন কাসীর সোজা বলেন, এর অর্থ কুরআন। সা'দীও বলেন, এ হলো এই মহিমান্বিত কুরআন। এগুলো বর্ণনা, কোনো রায় নয়। তাফসীরকারেরা যেমন রেখেছেন, এ লেখাও ছয়টি ব্যাখ্যা পাশাপাশিই রেখে দিচ্ছে।"
           }
         ]
       },
@@ -1153,7 +1153,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Min amrina, from Our command, al-Qurtubi explains as: He sent it down as He willed, upon whom He willed, in an inimitable arrangement and a wondrous composition. He also reports from al-Qushayri that the ruh asked about in 17:85 could likewise be taken as the Qur'an: they ask where this Qur'an came from, and the answer is that it is from God's command. And he records a saying of Malik ibn Dinar: people of the Qur'an, what has the Qur'an sown in your hearts? The Qur'an is the spring of hearts, as rain is the spring of the earth.",
-            "bn": "মিন আমরিনা, আমার আদেশ থেকে। কুরতুবী এর ব্যাখ্যা দেন এভাবে: তিনি যেভাবে চেয়েছেন, যার উপর চেয়েছেন, অলৌকিক বিন্যাস আর বিস্ময়কর গাঁথুনিতে তা নাজিল করেছেন। কুশাইরী থেকে তিনি আরও আনেন, ১৭:৮৫ আয়াতে যে রূহ নিয়ে প্রশ্ন, তাকেও কুরআন অর্থে নেওয়া যায়। তখন প্রশ্নটা দাঁড়ায়: এই কুরআন কোথা থেকে এল? আর উত্তর: এটা আল্লাহর আদেশ থেকে। মালিক ইবন দীনারের একটি কথাও তিনি লিখে রাখেন: হে কুরআনের ধারকেরা, কুরআন তোমাদের অন্তরে কী বুনেছে? বৃষ্টি যেমন মাটির বসন্ত, কুরআন তেমনি অন্তরের বসন্ত।"
+            "bn": "মিন আমরিনা, আমার আদেশ থেকে। কুরতুবী এর ব্যাখ্যা দেন এভাবে: তিনি যেভাবে চেয়েছেন, যার উপর চেয়েছেন, অলৌকিক বিন্যাস আর বিস্ময়কর গাঁথুনিতে তা নাজিল করেছেন। কুশাইরী থেকে তিনি আরও আনেন, ১৭:৮৫ আয়াতে যে রূহ নিয়ে প্রশ্ন, তাকেও কুরআন অর্থে নেওয়া যায়। তখন প্রশ্নটা দাঁড়ায়: এই কুরআন কোথা থেকে এল? আর উত্তর: এটা আল্লাহর আদেশ থেকে। মালিক ইবন দীনারের একটি কথাও তিনি লিখে রাখেন: হে কুরআনের ধারকেরা, কুরআন তোমাদের অন্তরে কী বুনেছে? বৃষ্টি যেমন মাটির বসন্ত, কুরআন তেমনি অন্তরের বসন্ত।"
           }
         ]
       },
@@ -1169,18 +1169,18 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di: you had no knowledge of the reports of earlier scriptures, nor faith in and practice of the divine laws; you were unlettered, neither writing nor reading. Ma'arif al-Qur'an: not knowing the Book before revelation is obvious, and not knowing faith means its details, rules and exalted place, which become known to a prophet only after revelation. Al-Baghawi and al-Qurtubi both report Ibn Khuzayma's narrower view, that faith here means the prayer, citing wa ma kana-llahu li-yudi'a imanakum in 2:143, where faith refers to prayer.",
-            "bn": "সা'দী বলেন: আগের কিতাবগুলোর খবর তোমার জানা ছিল না, আল্লাহর শরীয়তের উপর ঈমান ও আমলও ছিল না। তুমি ছিলে উম্মী, লিখতেও না, পড়তেও না। মাআরিফুল কুরআন বলে, ওহির আগে কিতাব না জানার বিষয়টা তো স্পষ্ট। আর ঈমান না জানার অর্থ, ঈমানের খুঁটিনাটি, বিধিবিধান আর তার উঁচু মর্যাদা। এগুলো নবী জানতে পারেন ওহির পরে, আগে নয়। বাগাভী ও কুরতুবী দুজনেই ইবন খুযাইমার একটি সংকীর্ণ মত আনেন: এখানে ঈমান মানে সালাত। প্রমাণ হিসেবে তিনি ২:১৪৩ আয়াতের ওয়া মা কানাল্লাহু লিইউদী'আ ঈমানাকুম আনেন, যেখানে ঈমান বলতে সালাতকে বোঝানো হয়েছে।"
+            "bn": "সা'দী বলেন: আগের কিতাবগুলোর খবর তোমার জানা ছিল না, আল্লাহর শরীয়তের উপর ঈমান ও আমলও ছিল না। তুমি ছিলে উম্মী, লিখতেও না, পড়তেও না। মাআরিফুল কুরআন বলে, ওহির আগে কিতাব না জানার বিষয়টা তো স্পষ্ট। আর ঈমান না জানার অর্থ, ঈমানের খুঁটিনাটি, বিধিবিধান আর তার উঁচু মর্যাদা। এগুলো নবী জানতে পারেন ওহির পরে, আগে নয়। বাগাভী ও কুরতুবী দুজনেই ইবন খুযাইমার একটি সংকীর্ণ মত আনেন: এখানে ঈমান মানে সালাত। প্রমাণ হিসেবে তিনি ২:১৪৩ আয়াতের ওয়া মা কানাল্লাহু লিইউদী'আ ঈমানাকুম আনেন, যেখানে ঈমান বলতে সালাতকে বোঝানো হয়েছে।"
           },
           {
             "en": "Al-Qurtubi gathers still more. From ath-Tha'labi, the laws and landmarks of faith; from al-Qushayri, the details of this shari'a; from Abu-l-'Aliya, how to recite the Qur'an and how to call people to faith; from Bakr al-Qadi, the obligations and rulings, after which he grew in faith through the duties laid on him. Al-Qurtubi calls these four close to each other. He adds that some read the clause as: you were of an unlettered people, so you could not have taken your message from anyone who knew, like 29:48, reported in meaning from Ibn 'Abbas.",
-            "bn": "কুরতুবী আরও মত জড়ো করেন। সা'লাবী থেকে: ঈমানের বিধান ও নিদর্শন। কুশাইরী থেকে: এই শরীয়তের খুঁটিনাটি। আবুল আলিয়া থেকে: কীভাবে কুরআন পড়তে হয় আর কীভাবে মানুষকে ঈমানের দিকে ডাকতে হয়। বকর আল-কাদী থেকে: ফরজ ও আহকাম। তাঁর মতে এসব নাজিল হওয়ার পর দায়িত্বের ভার পেয়ে তাঁর ঈমান আরও বেড়েছে। কুরতুবী বলেন, এই চারটি মত কাছাকাছি। তিনি আরেকটি পাঠও আনেন: তুমি ছিলে এক নিরক্ষর জাতির মানুষ, তাই যা নিয়ে এসেছ, তা জ্ঞান রাখে এমন কারও কাছ থেকে নেওয়া তোমার পক্ষে সম্ভব ছিল না। এ কথা ২৯:৪৮ আয়াতের মতোই, আর ইবন আব্বাস (রাঃ) থেকেও ভাবার্থে এমন কথা বর্ণিত আছে।"
+            "bn": "কুরতুবী আরও মত জড়ো করেন। সা'লাবী থেকে: ঈমানের বিধান ও নিদর্শন। কুশাইরী থেকে: এই শরীয়তের খুঁটিনাটি। আবুল আলিয়া থেকে: কীভাবে কুরআন পড়তে হয় আর কীভাবে মানুষকে ঈমানের দিকে ডাকতে হয়। বকর আল-কাদী থেকে: ফরজ ও আহকাম। তাঁর মতে এসব নাজিল হওয়ার পর দায়িত্বের ভার পেয়ে তাঁর ঈমান আরও বেড়েছে। কুরতুবী বলেন, এই চারটি মত কাছাকাছি। তিনি আরেকটি পাঠও আনেন: তুমি ছিলে এক নিরক্ষর জাতির মানুষ, তাই যা নিয়ে এসেছ, তা জ্ঞান রাখে এমন কারও কাছ থেকে নেওয়া তোমার পক্ষে সম্ভব ছিল না। এ কথা ২৯:৪৮ আয়াতের মতোই, আর ইবন আব্বাস (রাঃ) থেকেও ভাবার্থে এমন কথা বর্ণিত আছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Believer Before the Mission",
-          "bn": "নবুওয়াতের আগেও মুমিন"
+          "bn": "নবুওয়াতের আগেও মুমিন"
         },
         "p": [
           {
@@ -1189,7 +1189,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi faces the question directly. He grants that the outward wording could be read to suggest otherwise, then quotes al-Qushayri, who calls it the view of most scholars that God sent no prophet who was not a believer before his mission, though al-Qushayri wants it established by decisive transmission. Al-Qurtubi then quotes al-Qadi 'Iyad: the correct view is that prophets are protected, before prophethood, from ignorance of God and His attributes and from doubt about any of it. His own verdict follows: the sound view is that he ﷺ believed in God from the time he grew up.",
-            "bn": "কুরতুবী প্রশ্নটা এড়িয়ে যান না। তিনি মানেন, শব্দের বাহ্যিক রূপ থেকে কেউ উল্টো কিছু বুঝতে পারে। এরপর তিনি কুশাইরীকে উদ্ধৃত করেন। কুশাইরীর মতে অধিকাংশ আলেম এ কথাই বলেছেন যে আল্লাহ এমন কোনো নবী পাঠাননি, যিনি নবুওয়াতের আগে মুমিন ছিলেন না। তবে কুশাইরী চান, কথাটা অকাট্য বর্ণনা দিয়ে প্রমাণিত হোক। তারপর কুরতুবী কাযী ইয়াযের কথা আনেন: সঠিক মত হলো, নবুওয়াতের আগেও নবীরা আল্লাহ ও তাঁর গুণাবলি সম্পর্কে অজ্ঞতা থেকে এবং এ নিয়ে যেকোনো সংশয় থেকে সুরক্ষিত। শেষে তাঁর নিজের রায়: সঠিক কথা হলো, বেড়ে ওঠার সময় থেকেই নবী ﷺ আল্লাহর উপর ঈমান রাখতেন।"
+            "bn": "কুরতুবী প্রশ্নটা এড়িয়ে যান না। তিনি মানেন, শব্দের বাহ্যিক রূপ থেকে কেউ উল্টো কিছু বুঝতে পারে। এরপর তিনি কুশাইরীকে উদ্ধৃত করেন। কুশাইরীর মতে অধিকাংশ আলেম এ কথাই বলেছেন যে আল্লাহ এমন কোনো নবী পাঠাননি, যিনি নবুওয়াতের আগে মুমিন ছিলেন না। তবে কুশাইরী চান, কথাটা অকাট্য বর্ণনা দিয়ে প্রমাণিত হোক। তারপর কুরতুবী কাযী ইয়াযের কথা আনেন: সঠিক মত হলো, নবুওয়াতের আগেও নবীরা আল্লাহ ও তাঁর গুণাবলি সম্পর্কে অজ্ঞতা থেকে এবং এ নিয়ে যেকোনো সংশয় থেকে সুরক্ষিত। শেষে তাঁর নিজের রায়: সঠিক কথা হলো, বেড়ে ওঠার সময় থেকেই নবী ﷺ আল্লাহর উপর ঈমান রাখতেন।"
           },
           {
             "en": "Al-Qurtubi also sets out the scholars' views on whether he followed an earlier law before revelation: some denied it outright, Abu-l-Ma'ali withheld judgment, and others said he did, differing over which law. He reports that the imams set these views aside as conflicting and without decisive proof. What is certain, he says, is that his shari'a stands on its own, opened from God, and that he believed in God and never bowed to an idol. On the clause itself he weighs two senses of faith: belief in God, or the religion of Islam, known only after prophethood.",
@@ -1205,7 +1205,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa-lakin ja'alnahu nuran: but We made it a light. Two things were just named, the Book and faith, yet the pronoun is singular. At-Tabari says it refers to the Book, the Qur'an, because the statement is about the Book; others, he reports, said it covers both, kept singular as one says your coming and your going pleases me. Al-Baghawi and al-Qurtubi report Ibn 'Abbas, with ad-Dahhak in al-Qurtubi, saying it means the faith, and as-Suddi saying the Qur'an; al-Qurtubi adds a third view, the revelation. Ibn Kathir reads it as the Qur'an.",
-            "bn": "ওয়া লাকিন জা'আলনাহু নূরান: কিন্তু আমি একে বানিয়েছি আলো। ঠিক আগে দুটি জিনিসের নাম এসেছে, কিতাব ও ঈমান, অথচ সর্বনাম একবচন। তাবারী বলেন, এটি কিতাব অর্থাৎ কুরআনকে বোঝায়, কারণ কথাটা কিতাব সম্পর্কেই। তিনি জানান, কেউ কেউ বলেছেন সর্বনামটি দুটোকেই ধরে, তবু একবচন রাখা হয়েছে, যেমন আরবিতে বলা হয়, তোমার আসা আর যাওয়া আমার ভালো লাগে। বাগাভী ও কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন যে এর অর্থ ঈমান, কুরতুবী তাঁর সঙ্গে দাহহাককেও রাখেন। সুদ্দী বলেছেন কুরআন। কুরতুবী তৃতীয় একটি মতও আনেন: ওহি। ইবন কাসীর একে কুরআন অর্থে পড়েন।"
+            "bn": "ওয়া লাকিন জা'আলনাহু নূরান: কিন্তু আমি একে বানিয়েছি আলো। ঠিক আগে দুটি জিনিসের নাম এসেছে, কিতাব ও ঈমান, অথচ সর্বনাম একবচন। তাবারী বলেন, এটি কিতাব অর্থাৎ কুরআনকে বোঝায়, কারণ কথাটা কিতাব সম্পর্কেই। তিনি জানান, কেউ কেউ বলেছেন সর্বনামটি দুটোকেই ধরে, তবু একবচন রাখা হয়েছে, যেমন আরবিতে বলা হয়, তোমার আসা আর যাওয়া আমার ভালো লাগে। বাগাভী ও কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন যে এর অর্থ ঈমান, কুরতুবী তাঁর সঙ্গে দাহহাককেও রাখেন। সুদ্দী বলেছেন কুরআন। কুরতুবী তৃতীয় একটি মতও আনেন: ওহি। ইবন কাসীর একে কুরআন অর্থে পড়েন।"
           },
           {
             "en": "At-Tabari explains the light as illumination for people, who find their way by the clarity God placed in it, with right conduct for those who act on it and rescue from the Fire. Nahdi bihi man nasha'u, by it We guide whom We will, he glosses as: We direct to the way of what is right, which is faith in God. As-Sa'di says people find their way by it in the darkness of disbelief, innovation and ruinous desire. Ibn Kathir compares 41:44: for those who believe it is guidance and healing, while for those who do not, it is blindness.",
@@ -1216,7 +1216,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Guiding by Calling and Explaining",
-          "bn": "ডাক আর বয়ানের হেদায়াত"
+          "bn": "ডাক আর বয়ানের হেদায়াত"
         },
         "p": [
           {
@@ -1225,7 +1225,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari brings Qatada, who links the phrase to wa li-kulli qawmin had, for every people there is a guide (13:7), a caller who calls them to God; as-Suddi says you call to an upright religion. The path is Islam for at-Tabari, al-Baghawi and the Muyassar; a religion without crookedness for al-Qurtubi, who adds from 'Ali, to an upright book. Ibn Kathir calls it upright conduct. Al-Qurtubi notes the variant reading of Ubayy, la-tad'u, you call, and an-Nahhas's verdict that it is not recited, being against the written text, but read as explanation. Ibn Kathir and as-Sa'di both note that the next verse then explains it: the path of God.",
-            "bn": "তাবারী কাতাদার কথা আনেন। কাতাদা এ অংশটিকে জোড়েন ১৩:৭ আয়াতের সঙ্গে: ওয়া লিকুল্লি কাওমিন হাদ, প্রত্যেক জাতির জন্য আছে একজন পথপ্রদর্শক, অর্থাৎ এমন একজন, যিনি তাদের আল্লাহর দিকে ডাকেন। সুদ্দী বলেন, তুমি সরল দ্বীনের দিকে ডাকো। তাবারী, বাগাভী ও মুয়াসসারের কাছে সেই পথ হলো ইসলাম। কুরতুবীর কাছে বক্রতাহীন দ্বীন, আর আলী (রাঃ) থেকে তিনি আনেন: সরল কিতাবের দিকে। ইবন কাসীর একে বলেন সঠিক চরিত্র ও আচরণ। কুরতুবী উবাই (রাঃ)-এর একটি ভিন্ন কিরাআতের কথা বলেন: লাতাদ'উ, অর্থাৎ তুমি ডাকো। নাহহাসের রায়, এটি তিলাওয়াত করা হয় না, কারণ তা মুসহাফের লিখিত রূপের বিপরীত; একে ব্যাখ্যা হিসেবেই পড়তে হয়। ইবন কাসীর ও সা'দী দুজনেই বলেন, পরের আয়াত পথটির ব্যাখ্যা দেয়: আল্লাহর পথ।"
+            "bn": "তাবারী কাতাদার কথা আনেন। কাতাদা এ অংশটিকে জোড়েন ১৩:৭ আয়াতের সঙ্গে: ওয়া লিকুল্লি কাওমিন হাদ, প্রত্যেক জাতির জন্য আছে একজন পথপ্রদর্শক, অর্থাৎ এমন একজন, যিনি তাদের আল্লাহর দিকে ডাকেন। সুদ্দী বলেন, তুমি সরল দ্বীনের দিকে ডাকো। তাবারী, বাগাভী ও মুয়াসসারের কাছে সেই পথ হলো ইসলাম। কুরতুবীর কাছে বক্রতাহীন দ্বীন, আর আলী (রাঃ) থেকে তিনি আনেন: সরল কিতাবের দিকে। ইবন কাসীর একে বলেন সঠিক চরিত্র ও আচরণ। কুরতুবী উবাই (রাঃ)-এর একটি ভিন্ন কিরাআতের কথা বলেন: লাতাদ'উ, অর্থাৎ তুমি ডাকো। নাহহাসের রায়, এটি তিলাওয়াত করা হয় না, কারণ তা মুসহাফের লিখিত রূপের বিপরীত; একে ব্যাখ্যা হিসেবেই পড়তে হয়। ইবন কাসীর ও সা'দী দুজনেই বলেন, পরের আয়াত পথটির ব্যাখ্যা দেয়: আল্লাহর পথ।"
           }
         ]
       },
@@ -1237,7 +1237,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the commentaries consulted here attaches a sound hadith to this verse. The narrations in Ibn Kathir's abridged commentary belong to 42:51, on the modes of revelation. Al-Qurtubi mentions a further report only to reject it: he cites Ahmad ibn Hanbal and ad-Daraqutni against its chain and calls it munkar, so it is not repeated here. No occasion of revelation for the verse appears in these sources either, and what this article says rests on the commentators' own words.",
-            "bn": "এখানে যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদিস যুক্ত করেনি। ইবন কাসীরের সংক্ষিপ্ত তাফসীরের বর্ণনাগুলো ৪২:৫১ আয়াতের, ওহির ধরন নিয়ে। কুরতুবী আরেকটি বর্ণনা উল্লেখ করেন কেবল তা প্রত্যাখ্যান করার জন্য: এর সনদের বিরুদ্ধে তিনি ইমাম আহমাদ ইবন হাম্বল ও দারাকুতনীর মত আনেন এবং একে মুনকার বলেন। তাই এখানে বর্ণনাটি পুনরাবৃত্তি করা হলো না। এ আয়াতের কোনো শানে নুযূলও এই উৎসগুলোতে নেই, আর এই লেখার কথাগুলো মুফাসসিরদের নিজেদের বক্তব্যের ওপর দাঁড়িয়ে।"
+            "bn": "এখানে যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদিস যুক্ত করেনি। ইবন কাসীরের সংক্ষিপ্ত তাফসীরের বর্ণনাগুলো ৪২:৫১ আয়াতের, ওহির ধরন নিয়ে। কুরতুবী আরেকটি বর্ণনা উল্লেখ করেন কেবল তা প্রত্যাখ্যান করার জন্য: এর সনদের বিরুদ্ধে তিনি ইমাম আহমাদ ইবন হাম্বল ও দারাকুতনীর মত আনেন এবং একে মুনকার বলেন। তাই এখানে বর্ণনাটি পুনরাবৃত্তি করা হলো না। এ আয়াতের কোনো শানে নুযূলও এই উৎসগুলোতে নেই, আর এই লেখার কথাগুলো মুফাসসিরদের নিজেদের বক্তব্যের ওপর দাঁড়িয়ে।"
           },
           {
             "en": "What the verse leaves with a reader is the shape of a gift. As-Sa'di calls the Qur'an pure favour from God to His Messenger and the believers, with no cause on their side. The best of creation is told that the Book and the detail of faith came to him from outside himself. A reader who has the same Book in hand has received it the same way, and is asked to treat it as a spirit that keeps the heart alive and a light that is walked by. Whoever calls others to it is asked to do as the verse describes: call, and make the path clear.",

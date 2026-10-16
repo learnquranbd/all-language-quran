@@ -16,36 +16,36 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Law, Not a License",
-          "bn": "আইন, ছাড়পত্র নয়"
+          "bn": "আইন, ছাড়পত্র নয়"
         },
         "p": [
           {
             "en": "The Qur'an opens this sūrah by calling it a chapter We have sent down and made obligatory (24:1), and its first command is this fixed penalty for zinā, unlawful intercourse. Al-Qurtubi is emphatic on one point that removes most of the danger people fear: there is no disagreement that the one addressed by this command is the ruling authority and whoever stands in his place. Ordinary Muslims are charged with wanting the law upheld, but the state carries it out, because they cannot assemble to enforce a ḥadd themselves.",
-            "bn": "সূরাটির শুরুতেই কুরআন একে বলেছে এমন এক সূরা, যা আমি নাজিল করেছি এবং ফরজ করে দিয়েছি (২৪:১)। আর এর প্রথম হুকুমই হলো যিনা, অর্থাৎ অবৈধ যৌনসম্পর্কের এই নির্ধারিত শাস্তি। কুরতুবী একটি বিষয়ে খুব জোর দেন, আর এতেই মানুষ যে বিপদের ভয় করে তার বেশির ভাগ দূর হয়ে যায়: এই হুকুম যাকে উদ্দেশ করে দেওয়া, তিনি শাসক কিংবা তাঁর স্থলাভিষিক্ত কেউ, এ নিয়ে কোনো মতভেদ নেই। সাধারণ মুসলিমের দায়িত্ব শুধু এটুকু চাওয়া যে আইনটি কায়েম থাকুক। কার্যকর করবে রাষ্ট্র, কারণ সাধারণ মানুষ নিজেরা জড়ো হয়ে হদ কায়েম করতে পারে না।"
+            "bn": "সূরাটির শুরুতেই কুরআন একে বলেছে এমন এক সূরা, যা আমি নাজিল করেছি এবং ফরজ করে দিয়েছি (২৪:১)। আর এর প্রথম হুকুমই হলো যিনা, অর্থাৎ অবৈধ যৌনসম্পর্কের এই নির্ধারিত শাস্তি। কুরতুবী একটি বিষয়ে খুব জোর দেন, আর এতেই মানুষ যে বিপদের ভয় করে তার বেশির ভাগ দূর হয়ে যায়: এই হুকুম যাকে উদ্দেশ করে দেওয়া, তিনি শাসক কিংবা তাঁর স্থলাভিষিক্ত কেউ, এ নিয়ে কোনো মতভেদ নেই। সাধারণ মুসলিমের দায়িত্ব শুধু এটুকু চাওয়া যে আইনটি কায়েম থাকুক। কার্যকর করবে রাষ্ট্র, কারণ সাধারণ মানুষ নিজেরা জড়ো হয়ে হদ কায়েম করতে পারে না।"
           },
           {
             "en": "That single ruling settles what the verse does not do. It hands nothing to a family, a crowd, a neighbour, or a self-appointed guardian of virtue. Al-Qurtubi adds that a ḥadd is carried out only before the judges, by upright people the ruler selects, because, in his words, the blood and honour of a Muslim are grave and must be safeguarded by every means. So this verse describes a judicial ordinance and licenses nothing against any living person or community: no vigilante punishment, no honour violence, no private hand raised in God's name.",
-            "bn": "এই একটি রায়ই পরিষ্কার করে দেয়, আয়াতটি কী করে না। পরিবার, জনতা, প্রতিবেশী বা নিজে থেকে নীতির পাহারাদার সেজে বসা কারও হাতে আয়াত কিছুই তুলে দেয় না। কুরতুবী আরও বলেন, হদ কার্যকর হয় কেবল বিচারকদের সামনে, শাসকের বেছে নেওয়া সৎ লোকদের হাতে। কারণ তাঁর ভাষায়, মুসলিমের রক্ত ও সম্মান অনেক বড় জিনিস, সম্ভাব্য সব উপায়ে তা রক্ষা করতে হবে। তাই এ আয়াত বিচারের একটি বিধান বর্ণনা করে, কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না: নিজ হাতে শাস্তি দেওয়া নয়, সম্মানের নামে সহিংসতা নয়, আল্লাহর নামে কারও ব্যক্তিগত হাত তোলা নয়।"
+            "bn": "এই একটি রায়ই পরিষ্কার করে দেয়, আয়াতটি কী করে না। পরিবার, জনতা, প্রতিবেশী বা নিজে থেকে নীতির পাহারাদার সেজে বসা কারও হাতে আয়াত কিছুই তুলে দেয় না। কুরতুবী আরও বলেন, হদ কার্যকর হয় কেবল বিচারকদের সামনে, শাসকের বেছে নেওয়া সৎ লোকদের হাতে। কারণ তাঁর ভাষায়, মুসলিমের রক্ত ও সম্মান অনেক বড় জিনিস, সম্ভাব্য সব উপায়ে তা রক্ষা করতে হবে। তাই এ আয়াত বিচারের একটি বিধান বর্ণনা করে, কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কোনো কিছুর অনুমতি দেয় না: নিজ হাতে শাস্তি দেওয়া নয়, সম্মানের নামে সহিংসতা নয়, আল্লাহর নামে কারও ব্যক্তিগত হাত তোলা নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "The Wall of Four Witnesses",
-          "bn": "চার সাক্ষীর দেয়াল"
+          "bn": "চার সাক্ষীর দেয়াল"
         },
         "p": [
           {
             "en": "Now weigh what the sharīʿa demands before this penalty can ever touch a person. Ma'arif al-Qur'an notes that in ordinary claims the testimony of two witnesses settles a matter, but for the ḥadd of zinā the law requires four upright male eyewitnesses to the act itself, testifying without the slightest doubt or confusion. Al-Qurtubi's very definition of the crime excludes any act carried out under the semblance of a lawful marriage, and the jurists hold that where doubt enters, the ḥadd falls away.",
-            "bn": "এবার ভেবে দেখুন, এই শাস্তি কারও গায়ে পড়ার আগে শরিয়ত কী কী শর্ত চায়। মাআরিফুল কুরআন বলে, সাধারণ মামলায় দুজন সাক্ষীর সাক্ষ্যেই ফয়সালা হয়ে যায়। কিন্তু যিনার হদের জন্য আইন চায় চারজন সৎ পুরুষ, যারা নিজ চোখে ঘটনাটা দেখেছে এবং বিন্দুমাত্র সন্দেহ বা গোলমাল ছাড়া সাক্ষ্য দেবে। কুরতুবী অপরাধটির যে সংজ্ঞা দেন, তাতেই বাহ্যত বৈধ বিয়ের মতো অবস্থায় ঘটা যেকোনো কাজ বাদ পড়ে যায়। আর ফকিহগণ বলেন, যেখানে সন্দেহ ঢোকে, সেখানে হদ বাতিল হয়ে যায়।"
+            "bn": "এবার ভেবে দেখুন, এই শাস্তি কারও গায়ে পড়ার আগে শরিয়ত কী কী শর্ত চায়। মাআরিফুল কুরআন বলে, সাধারণ মামলায় দুজন সাক্ষীর সাক্ষ্যেই ফয়সালা হয়ে যায়। কিন্তু যিনার হদের জন্য আইন চায় চারজন সৎ পুরুষ, যারা নিজ চোখে ঘটনাটা দেখেছে এবং বিন্দুমাত্র সন্দেহ বা গোলমাল ছাড়া সাক্ষ্য দেবে। কুরতুবী অপরাধটির যে সংজ্ঞা দেন, তাতেই বাহ্যত বৈধ বিয়ের মতো অবস্থায় ঘটা যেকোনো কাজ বাদ পড়ে যায়। আর ফকিহগণ বলেন, যেখানে সন্দেহ ঢোকে, সেখানে হদ বাতিল হয়ে যায়।"
           },
           {
             "en": "Then comes the turn that reveals the passage's real aim. The next verse commands that those who accuse chaste people and then fail to produce four witnesses be flogged with eighty lashes, their testimony refused ever after (24:4). Ma'arif draws the consequence plainly: a witness whose account is rejected can himself be charged with false accusation, so no one will dare testify where the smallest uncertainty remains. The law is built to make accusation almost impossible, not to hunt the guilty.",
-            "bn": "এরপর আসে সেই মোড়, যেখানে গোটা অংশের আসল লক্ষ্য ধরা পড়ে। পরের আয়াত হুকুম দেয়: যারা সতী-সাধ্বী মানুষের নামে অপবাদ দেয়, অথচ চারজন সাক্ষী হাজির করতে পারে না, তাদের আশিটি বেত্রাঘাত কর, আর তাদের সাক্ষ্য আর কখনো গ্রহণ কোরো না (২৪:৪)। মাআরিফুল কুরআন এর ফলটা সোজাসুজি বলে দেয়: যে সাক্ষীর বক্তব্য খারিজ হয়, তার বিরুদ্ধেই মিথ্যা অপবাদের মামলা হতে পারে। তাই সামান্যতম সংশয় থাকলে কেউ সাক্ষী দিতে সাহস পাবে না। আইনটা গড়া হয়েছে অভিযোগকে প্রায় অসম্ভব করতে, অপরাধী খুঁজে বেড়াতে নয়।"
+            "bn": "এরপর আসে সেই মোড়, যেখানে গোটা অংশের আসল লক্ষ্য ধরা পড়ে। পরের আয়াত হুকুম দেয়: যারা সতী-সাধ্বী মানুষের নামে অপবাদ দেয়, অথচ চারজন সাক্ষী হাজির করতে পারে না, তাদের আশিটি বেত্রাঘাত কর, আর তাদের সাক্ষ্য আর কখনো গ্রহণ কোরো না (২৪:৪)। মাআরিফুল কুরআন এর ফলটা সোজাসুজি বলে দেয়: যে সাক্ষীর বক্তব্য খারিজ হয়, তার বিরুদ্ধেই মিথ্যা অপবাদের মামলা হতে পারে। তাই সামান্যতম সংশয় থাকলে কেউ সাক্ষী দিতে সাহস পাবে না। আইনটা গড়া হয়েছে অভিযোগকে প্রায় অসম্ভব করতে, অপরাধী খুঁজে বেড়াতে নয়।"
           },
           {
             "en": "So the thrust of these opening verses is protection: of chastity on one side and of reputation on the other. The false accuser is not left without hope either, for the very next passage exempts those who repent afterward and make amends (24:5). Read together, the verses raise the cost of a careless tongue as high as the cost of the sin itself. Guarding a person's good name, they say, is not softness; it is obedience.",
-            "bn": "তাই শুরুর এই আয়াতগুলোর মূল ঝোঁক রক্ষা করা: একদিকে সতীত্ব, অন্যদিকে সুনাম। মিথ্যা অপবাদদাতাকেও আশাহীন রাখা হয়নি। ঠিক পরের আয়াতই তাদের রেহাই দেয়, যারা পরে তওবা করে নিজেকে শুধরে নেয় (২৪:৫)। আয়াতগুলো একসঙ্গে পড়লে দেখা যায়, বেপরোয়া জিভের দাম গুনাহের দামের মতোই চড়া। আয়াতগুলো বলছে, কারও সুনাম আগলে রাখা নরম মনের দুর্বলতা নয়, এ হলো আল্লাহর হুকুম মানা।"
+            "bn": "তাই শুরুর এই আয়াতগুলোর মূল ঝোঁক রক্ষা করা: একদিকে সতীত্ব, অন্যদিকে সুনাম। মিথ্যা অপবাদদাতাকেও আশাহীন রাখা হয়নি। ঠিক পরের আয়াতই তাদের রেহাই দেয়, যারা পরে তওবা করে নিজেকে শুধরে নেয় (২৪:৫)। আয়াতগুলো একসঙ্গে পড়লে দেখা যায়, বেপরোয়া জিভের দাম গুনাহের দামের মতোই চড়া। আয়াতগুলো বলছে, কারও সুনাম আগলে রাখা নরম মনের দুর্বলতা নয়, এ হলো আল্লাহর হুকুম মানা।"
           }
         ]
       },
@@ -57,11 +57,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The penalty named is a hundred lashes for each, and the commentators specify whom it addresses: the free, adult, sane person who is unmarried. Al-Baghawi explains that jald means to strike the skin, and that the word itself signals restraint, for the blow must not cut down to the flesh. Al-Qurtubi records a whip brought to the Prophet ﷺ, neither so new that it was harsh nor so worn that it was soft, but a whip midway between the harsh and the soft. Even the instrument was measured.",
-            "bn": "আয়াতে শাস্তি বলা হয়েছে দুজনের প্রত্যেককে একশ বেত্রাঘাত। তাফসীরকারেরা স্পষ্ট করে দেন, এ শাস্তি কার জন্য: স্বাধীন, প্রাপ্তবয়স্ক, সুস্থমস্তিষ্ক অবিবাহিত মানুষের জন্য। বাগভী বলেন, 'জালদ' মানে চামড়ায় আঘাত করা। শব্দটির ভেতরেই সংযমের ইঙ্গিত আছে, কারণ আঘাত যেন চামড়া কেটে গোশত পর্যন্ত না পৌঁছায়। কুরতুবী বর্ণনা করেন, নবী ﷺ-এর কাছে একটি চাবুক আনা হয়েছিল, যা এত নতুন নয় যে শক্ত, আবার এত পুরনোও নয় যে নরম, বরং শক্ত আর নরমের মাঝামাঝি। যা দিয়ে মারা হবে, সেটাও মেপে ঠিক করা ছিল।"
+            "bn": "আয়াতে শাস্তি বলা হয়েছে দুজনের প্রত্যেককে একশ বেত্রাঘাত। তাফসীরকারেরা স্পষ্ট করে দেন, এ শাস্তি কার জন্য: স্বাধীন, প্রাপ্তবয়স্ক, সুস্থমস্তিষ্ক অবিবাহিত মানুষের জন্য। বাগভী বলেন, 'জালদ' মানে চামড়ায় আঘাত করা। শব্দটির ভেতরেই সংযমের ইঙ্গিত আছে, কারণ আঘাত যেন চামড়া কেটে গোশত পর্যন্ত না পৌঁছায়। কুরতুবী বর্ণনা করেন, নবী ﷺ-এর কাছে একটি চাবুক আনা হয়েছিল, যা এত নতুন নয় যে শক্ত, আবার এত পুরনোও নয় যে নরম, বরং শক্ত আর নরমের মাঝামাঝি। যা দিয়ে মারা হবে, সেটাও মেপে ঠিক করা ছিল।"
           },
           {
             "en": "This hundred-lash penalty, the commentators are careful to say, concerns the unmarried. On the married they report a separate discussion, and this article only reports it. As-Sa'di and Ibn Kathir hold, on what they call the established Sunnah, that the married offender's ḥadd is stoning; Ibn Kathir cites the address of ʿUmar and a narration through ʿUbādah ibn aṣ-Ṣāmit. Al-Qurtubi records that the majority read this verse as specific to the unmarried, while Isḥāq ibn Rāhawayh and al-Ḥasan combined flogging with stoning. Their dispute is theirs; the verse before us fixes the hundred lashes.",
-            "bn": "তাফসীরকারেরা সতর্কভাবে বলেন, এই একশ বেত্রাঘাতের শাস্তি অবিবাহিতের বেলায়। বিবাহিতদের নিয়ে তাঁরা আলাদা এক আলোচনার কথা জানান, আর এই লেখা কেবল সেটুকু জানায়। সা'দী ও ইবন কাসীর প্রতিষ্ঠিত সুন্নাহর ভিত্তিতে মনে করেন, বিবাহিত অপরাধীর হদ রজম। ইবন কাসীর উমর (রাঃ)-এর ভাষণ ও উবাদা ইবন সামিত (রাঃ)-এর সূত্রে বর্ণনা উদ্ধৃত করেন। কুরতুবী জানান, অধিকাংশ আলিম এ আয়াতকে অবিবাহিতের জন্য নির্দিষ্ট পড়েন, আর ইসহাক ইবন রাহওয়াইহ ও হাসান বেত্রাঘাতের সঙ্গে রজম যুক্ত করেছেন। তাঁদের মতভেদ তাঁদেরই। আমাদের সামনের আয়াত একশ বেত্রাঘাত বেঁধে দেয়।"
+            "bn": "তাফসীরকারেরা সতর্কভাবে বলেন, এই একশ বেত্রাঘাতের শাস্তি অবিবাহিতের বেলায়। বিবাহিতদের নিয়ে তাঁরা আলাদা এক আলোচনার কথা জানান, আর এই লেখা কেবল সেটুকু জানায়। সা'দী ও ইবন কাসীর প্রতিষ্ঠিত সুন্নাহর ভিত্তিতে মনে করেন, বিবাহিত অপরাধীর হদ রজম। ইবন কাসীর উমর (রাঃ)-এর ভাষণ ও উবাদা ইবন সামিত (রাঃ)-এর সূত্রে বর্ণনা উদ্ধৃত করেন। কুরতুবী জানান, অধিকাংশ আলিম এ আয়াতকে অবিবাহিতের জন্য নির্দিষ্ট পড়েন, আর ইসহাক ইবন রাহওয়াইহ ও হাসান বেত্রাঘাতের সঙ্গে রজম যুক্ত করেছেন। তাঁদের মতভেদ তাঁদেরই। আমাদের সামনের আয়াত একশ বেত্রাঘাত বেঁধে দেয়।"
           },
           {
             "en": "Ma'arif sets the ruling in its sequence. The earliest directive, in Sūrat an-Nisā', confined such women to their homes and left the harm to both undefined (4:15 and 4:16), a stage the Qur'an itself marked as provisional. Al-Qurtubi records the agreement that the present verse abrogates those earlier verses of confinement and harm. Ibn ʿAbbās, cited by Ma'arif, understood this sūrah to be the promised way forward. The law arrived by stages, and this verse is where the fixed number is set down.",
@@ -72,20 +72,20 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Pity That Suspends Justice",
-          "bn": "যে দয়া বিচার থামায়"
+          "bn": "যে দয়া বিচার থামায়"
         },
         "p": [
           {
             "en": "The words wa-lā ta'khudhkum bihimā ra'fah, let no pity for the two seize you in the religion of Allah, are the most easily misread in the verse, so the commentators are exact. At-Tabari records that they divided here. Most, including Mujahid and ʿAṭā', take it to forbid abandoning the ḥadd once guilt is established; another group, al-Ḥasan and Saʿīd ibn al-Musayyab, take it to forbid softening the blows. At-Tabari prefers the first reading, since the phrase in the religion of Allah points to the duty of carrying out what He commanded.",
-            "bn": "'ওয়ালা তা'খুযকুম বিহিমা রা'ফাহ', অর্থাৎ আল্লাহর দ্বীনের ব্যাপারে ওদের প্রতি দয়া যেন তোমাদের পেয়ে না বসে। আয়াতের এ অংশটাই সবচেয়ে সহজে ভুল বোঝা হয়, তাই তাফসীরকারেরা এখানে খুব মেপে কথা বলেন। তাবারী জানান, এখানে আলিমদের দুটি মত। মুজাহিদ ও আতাসহ অধিকাংশের মতে, দোষ প্রমাণিত হওয়ার পর হদ ছেড়ে দেওয়া নিষেধ। আরেক দল, হাসান ও সাঈদ ইবনুল মুসায়্যিব, মনে করেন, এখানে আঘাত হালকা করতে নিষেধ করা হয়েছে। তাবারী প্রথম মতটিকেই অগ্রাধিকার দেন, কারণ 'আল্লাহর দ্বীনে' কথাটি ইঙ্গিত করে আল্লাহর হুকুম কার্যকর করার দায়িত্বের দিকে।"
+            "bn": "'ওয়ালা তা'খুযকুম বিহিমা রা'ফাহ', অর্থাৎ আল্লাহর দ্বীনের ব্যাপারে ওদের প্রতি দয়া যেন তোমাদের পেয়ে না বসে। আয়াতের এ অংশটাই সবচেয়ে সহজে ভুল বোঝা হয়, তাই তাফসীরকারেরা এখানে খুব মেপে কথা বলেন। তাবারী জানান, এখানে আলিমদের দুটি মত। মুজাহিদ ও আতাসহ অধিকাংশের মতে, দোষ প্রমাণিত হওয়ার পর হদ ছেড়ে দেওয়া নিষেধ। আরেক দল, হাসান ও সাঈদ ইবনুল মুসায়্যিব, মনে করেন, এখানে আঘাত হালকা করতে নিষেধ করা হয়েছে। তাবারী প্রথম মতটিকেই অগ্রাধিকার দেন, কারণ 'আল্লাহর দ্বীনে' কথাটি ইঙ্গিত করে আল্লাহর হুকুম কার্যকর করার দায়িত্বের দিকে।"
           },
           {
             "en": "Ibn Kathir closes the door on the cruel misreading. The pity forbidden here, he explains through Mujahid, is only the pity that would make a judge drop a punishment the law requires once the case has reached the authority. It is not a command against tenderness of heart. Feeling pity while carrying out a sentence, Ibn Kathir says, is natural and not forbidden; when a Companion admitted he felt pity even slaughtering a sheep, the Prophet ﷺ told him he would be rewarded for it.",
-            "bn": "ইবন কাসীর নিষ্ঠুর ভুল ব্যাখ্যার দরজাটা বন্ধ করে দেন। মুজাহিদের সূত্রে তিনি বলেন, এখানে যে দয়া নিষেধ, তা কেবল সেই দয়া, যার কারণে মামলা কর্তৃপক্ষের কাছে পৌঁছানোর পর বিচারক আইনের নির্ধারিত শাস্তি বাদ দিয়ে দেন। হৃদয়ের কোমলতার বিরুদ্ধে এটা কোনো হুকুম নয়। ইবন কাসীর বলেন, শাস্তি কার্যকর করার সময় মনে দয়া জাগা স্বাভাবিক, এতে নিষেধ নেই। এক সাহাবি বলেছিলেন, একটা ভেড়া জবাই করতে গিয়েও তাঁর মায়া লাগে। নবী ﷺ তাঁকে বললেন, এর জন্যও তিনি সওয়াব পাবেন।"
+            "bn": "ইবন কাসীর নিষ্ঠুর ভুল ব্যাখ্যার দরজাটা বন্ধ করে দেন। মুজাহিদের সূত্রে তিনি বলেন, এখানে যে দয়া নিষেধ, তা কেবল সেই দয়া, যার কারণে মামলা কর্তৃপক্ষের কাছে পৌঁছানোর পর বিচারক আইনের নির্ধারিত শাস্তি বাদ দিয়ে দেন। হৃদয়ের কোমলতার বিরুদ্ধে এটা কোনো হুকুম নয়। ইবন কাসীর বলেন, শাস্তি কার্যকর করার সময় মনে দয়া জাগা স্বাভাবিক, এতে নিষেধ নেই। এক সাহাবি বলেছিলেন, একটা ভেড়া জবাই করতে গিয়েও তাঁর মায়া লাগে। নবী ﷺ তাঁকে বললেন, এর জন্যও তিনি সওয়াব পাবেন।"
           },
           {
             "en": "Al-Baghawi makes the same distinction from another angle: pity is a motion of the heart, and it is not what the verse forbids, because it does not come by a person's choice. What is forbidden is letting that feeling suspend God's command. As-Sa'di turns it further still: real mercy toward the offender is that the ḥadd be carried out for him, so that his account is settled here. Mercy pervades the religion; this clause guards one narrow gate, the judge's, against sentiment overturning a verdict already proven.",
-            "bn": "বাগভী একই পার্থক্য দেখান আরেক দিক থেকে: দয়া হৃদয়ের একটা নড়াচড়া, মানুষ ইচ্ছা করে তা আনে না, তাই আয়াত সেটা নিষেধ করে না। নিষেধ হলো সেই অনুভূতিকে আল্লাহর হুকুম আটকে দিতে দেওয়া। সা'দী আরও এক ধাপ এগিয়ে বলেন: অপরাধীর প্রতি আসল রহমত হলো তার উপর হদ কায়েম হওয়া, যাতে তার হিসাব এখানেই চুকে যায়। রহমত গোটা দ্বীন জুড়ে ছড়িয়ে আছে। এই কথাটুকু কেবল একটি সরু দরজা পাহারা দেয়, বিচারকের দরজা, যাতে প্রমাণিত রায় আবেগের কারণে উল্টে না যায়।"
+            "bn": "বাগভী একই পার্থক্য দেখান আরেক দিক থেকে: দয়া হৃদয়ের একটা নড়াচড়া, মানুষ ইচ্ছা করে তা আনে না, তাই আয়াত সেটা নিষেধ করে না। নিষেধ হলো সেই অনুভূতিকে আল্লাহর হুকুম আটকে দিতে দেওয়া। সা'দী আরও এক ধাপ এগিয়ে বলেন: অপরাধীর প্রতি আসল রহমত হলো তার উপর হদ কায়েম হওয়া, যাতে তার হিসাব এখানেই চুকে যায়। রহমত গোটা দ্বীন জুড়ে ছড়িয়ে আছে। এই কথাটুকু কেবল একটি সরু দরজা পাহারা দেয়, বিচারকের দরজা, যাতে প্রমাণিত রায় আবেগের কারণে উল্টে না যায়।"
           }
         ]
       },
@@ -97,11 +97,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two clauses anchor the command. In the religion of Allah, at-Tabari and al-Qurtubi explain, means in the ruling of Allah — dīn here carries the sense of judgement and law, as in another verse where dīn al-malik means the king's law. The penalty is not a private grievance settled between people; it is a matter of God's own judgement, which is why no one may bend it downward out of favour or upward out of anger.",
-            "bn": "দুটি কথা হুকুমটিকে মজবুত করে বেঁধে রাখে। তাবারী ও কুরতুবী বলেন, 'আল্লাহর দ্বীনে' মানে আল্লাহর বিধানে। এখানে 'দ্বীন' শব্দের অর্থ বিচার ও আইন, যেমন আরেক আয়াতে 'দ্বীনুল মালিক' মানে বাদশাহর আইন। এ শাস্তি মানুষে মানুষে মিটিয়ে নেওয়ার মতো ব্যক্তিগত নালিশ নয়। এটা আল্লাহর নিজের বিচারের বিষয়। তাই কেউ পক্ষপাত করে একে কমাতে পারে না, রাগের বশে বাড়াতেও পারে না।"
+            "bn": "দুটি কথা হুকুমটিকে মজবুত করে বেঁধে রাখে। তাবারী ও কুরতুবী বলেন, 'আল্লাহর দ্বীনে' মানে আল্লাহর বিধানে। এখানে 'দ্বীন' শব্দের অর্থ বিচার ও আইন, যেমন আরেক আয়াতে 'দ্বীনুল মালিক' মানে বাদশাহর আইন। এ শাস্তি মানুষে মানুষে মিটিয়ে নেওয়ার মতো ব্যক্তিগত নালিশ নয়। এটা আল্লাহর নিজের বিচারের বিষয়। তাই কেউ পক্ষপাত করে একে কমাতে পারে না, রাগের বশে বাড়াতেও পারে না।"
           },
           {
             "en": "The verse then binds obedience to faith: if you should believe in Allah and the Last Day. At-Tabari reads this as encouragement and steadying — whoever truly believes in the reckoning will not defy God's command out of fear of His punishment. Al-Qurtubi hears it as a spur, the way you tell someone, if you are a man, then do this. The clause does not threaten the accused; it addresses the believing community, tying its nerve to carry out justice to its certainty about the Day it will answer for everything.",
-            "bn": "এরপর আয়াত আনুগত্যকে ঈমানের সঙ্গে বেঁধে দেয়: 'যদি তোমরা আল্লাহ ও শেষ দিনের উপর ঈমান রাখো।' তাবারীর মতে, এ কথা উৎসাহ দেয় আর মনকে দৃঢ় করে। যে সত্যিই হিসাবের দিনে বিশ্বাস করে, আল্লাহর শাস্তির ভয়ে সে তাঁর হুকুম অমান্য করবে না। কুরতুবী এতে দেখেন এক তাগিদ, যেমন কাউকে বলা হয়, তুমি যদি পুরুষ হও, তবে এটা করো। এ কথা অভিযুক্তকে ভয় দেখানোর জন্য নয়। এ কথা বলা হয়েছে মুমিন সমাজকে। ন্যায়বিচার কায়েমের সাহস তারা পাবে সেই দিনের উপর দৃঢ় বিশ্বাস থেকে, যেদিন সবকিছুর জবাব দিতে হবে।"
+            "bn": "এরপর আয়াত আনুগত্যকে ঈমানের সঙ্গে বেঁধে দেয়: 'যদি তোমরা আল্লাহ ও শেষ দিনের উপর ঈমান রাখো।' তাবারীর মতে, এ কথা উৎসাহ দেয় আর মনকে দৃঢ় করে। যে সত্যিই হিসাবের দিনে বিশ্বাস করে, আল্লাহর শাস্তির ভয়ে সে তাঁর হুকুম অমান্য করবে না। কুরতুবী এতে দেখেন এক তাগিদ, যেমন কাউকে বলা হয়, তুমি যদি পুরুষ হও, তবে এটা করো। এ কথা অভিযুক্তকে ভয় দেখানোর জন্য নয়। এ কথা বলা হয়েছে মুমিন সমাজকে। ন্যায়বিচার কায়েমের সাহস তারা পাবে সেই দিনের উপর দৃঢ় বিশ্বাস থেকে, যেদিন সবকিছুর জবাব দিতে হবে।"
           }
         ]
       },
@@ -117,31 +117,31 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Why the public gathering? Al-Qurtubi records two purposes the scholars weighed. One is disgrace and deterrence: carrying out the ḥadd before people so that the offender and the onlookers take warning, the news spreads, and others are restrained. The other is gentler, that those present pray for the two, for their repentance and mercy. Even the harshest scene in the sūrah, the commentators leave open to a reading of concern rather than mere spectacle.",
-            "bn": "প্রকাশ্যে লোক জড়ো করার দরকার কেন? কুরতুবী জানান, আলিমরা দুটি উদ্দেশ্যের কথা ভেবেছেন। একটি হলো লাঞ্ছনা ও সতর্কবার্তা: মানুষের সামনে হদ কায়েম করা, যাতে অপরাধী ও দর্শকেরা শিক্ষা নেয়, খবরটা ছড়ায়, আর অন্যরা বিরত থাকে। অন্যটি আরও কোমল: উপস্থিত লোকেরা যেন ওই দুজনের জন্য দোয়া করে, যাতে তাদের তওবা কবুল হয় আর তারা রহমত পায়। এভাবে সূরার সবচেয়ে কঠিন দৃশ্যটিকেও তাফসীরকারেরা নিছক তামাশা হিসেবে দেখেননি, সেখানেও মমতার একটা পাঠ খোলা রেখেছেন।"
+            "bn": "প্রকাশ্যে লোক জড়ো করার দরকার কেন? কুরতুবী জানান, আলিমরা দুটি উদ্দেশ্যের কথা ভেবেছেন। একটি হলো লাঞ্ছনা ও সতর্কবার্তা: মানুষের সামনে হদ কায়েম করা, যাতে অপরাধী ও দর্শকেরা শিক্ষা নেয়, খবরটা ছড়ায়, আর অন্যরা বিরত থাকে। অন্যটি আরও কোমল: উপস্থিত লোকেরা যেন ওই দুজনের জন্য দোয়া করে, যাতে তাদের তওবা কবুল হয় আর তারা রহমত পায়। এভাবে সূরার সবচেয়ে কঠিন দৃশ্যটিকেও তাফসীরকারেরা নিছক তামাশা হিসেবে দেখেননি, সেখানেও মমতার একটা পাঠ খোলা রেখেছেন।"
           },
           {
             "en": "As-Sa'di adds a quieter reason: seeing a ruling actually carried out fixes it in people's understanding, so that it is neither added to nor cut short. Read with everything before it, the witnessing requirement is not a taste for punishment. It is the same instinct that set the evidentiary bar so high: the community sees justice done in the open, under law, by the authority, and no one carries a private sentence home to execute in the dark.",
-            "bn": "সা'দী আরেকটি নীরব কারণ যোগ করেন: কোনো বিধান বাস্তবে কার্যকর হতে দেখলে তা মানুষের বুঝে গেঁথে যায়, ফলে কেউ তাতে কিছু বাড়ায়ও না, কমায়ও না। আগের সব কথার সঙ্গে মিলিয়ে পড়লে বোঝা যায়, সাক্ষী রাখার এই শর্ত শাস্তি দেখার শখ থেকে আসেনি। যে তাগিদ প্রমাণের শর্তকে এত কঠিন করেছিল, এটাও সেই একই তাগিদ। সমাজ দেখে, ন্যায়বিচার হচ্ছে খোলাখুলি, আইন মেনে, কর্তৃপক্ষের হাতে। কেউ নিজের বানানো রায় ঘরে নিয়ে গিয়ে অন্ধকারে কার্যকর করে না।"
+            "bn": "সা'দী আরেকটি নীরব কারণ যোগ করেন: কোনো বিধান বাস্তবে কার্যকর হতে দেখলে তা মানুষের বুঝে গেঁথে যায়, ফলে কেউ তাতে কিছু বাড়ায়ও না, কমায়ও না। আগের সব কথার সঙ্গে মিলিয়ে পড়লে বোঝা যায়, সাক্ষী রাখার এই শর্ত শাস্তি দেখার শখ থেকে আসেনি। যে তাগিদ প্রমাণের শর্তকে এত কঠিন করেছিল, এটাও সেই একই তাগিদ। সমাজ দেখে, ন্যায়বিচার হচ্ছে খোলাখুলি, আইন মেনে, কর্তৃপক্ষের হাতে। কেউ নিজের বানানো রায় ঘরে নিয়ে গিয়ে অন্ধকারে কার্যকর করে না।"
           }
         ]
       },
       {
         "h": {
           "en": "The One Who Feared Him",
-          "bn": "যে আল্লাহকে ভয় করল"
+          "bn": "যে আল্লাহকে ভয় করল"
         },
         "p": [
           {
             "en": "The passage prescribes a penalty, but the Qur'an's deeper aim is the heart that never earns it. For a sound word from the Prophet ﷺ on exactly that, al-Bukhari records a hadith that honours the one who turns away when sin is within easy reach and no eye is watching. It is the mirror image of everything the ḥadd is built to deter.",
-            "bn": "এই অংশে একটি শাস্তির বিধান আছে, কিন্তু কুরআনের আরও গভীর লক্ষ্য এমন হৃদয় গড়া, যে কখনো সে শাস্তির উপযুক্তই হয় না। ঠিক এ বিষয়ে নবী ﷺ-এর একটি সহিহ বাণী বুখারী বর্ণনা করেছেন। সেখানে সম্মান দেওয়া হয়েছে সেই মানুষকে, যে গুনাহ হাতের নাগালে পেয়েও, কেউ দেখছে না জেনেও, মুখ ফিরিয়ে নেয়। হদ যা ঠেকাতে চায়, এ ঠিক তার উল্টো ছবি।"
+            "bn": "এই অংশে একটি শাস্তির বিধান আছে, কিন্তু কুরআনের আরও গভীর লক্ষ্য এমন হৃদয় গড়া, যে কখনো সে শাস্তির উপযুক্তই হয় না। ঠিক এ বিষয়ে নবী ﷺ-এর একটি সহিহ বাণী বুখারী বর্ণনা করেছেন। সেখানে সম্মান দেওয়া হয়েছে সেই মানুষকে, যে গুনাহ হাতের নাগালে পেয়েও, কেউ দেখছে না জেনেও, মুখ ফিরিয়ে নেয়। হদ যা ঠেকাতে চায়, এ ঠিক তার উল্টো ছবি।"
           },
           {
             "en": "The Prophet ﷺ said: 'Seven will Allah shade in His shade on the Day when there is no shade but His: a just ruler; a youth who grew up in the worship of his Lord; a man whose heart is attached to the mosques; two men who love each other for Allah's sake, meeting and parting upon that; a man whom a woman of rank and beauty calls to herself and he says, I fear Allah; a man who gives charity so secretly his left hand does not know what his right has spent; and a man who remembers Allah alone and his eyes overflow.'",
-            "bn": "নবী ﷺ বলেছেন: 'যেদিন আল্লাহর ছায়া ছাড়া আর কোনো ছায়া থাকবে না, সেদিন আল্লাহ সাত ব্যক্তিকে তাঁর ছায়ায় আশ্রয় দেবেন: ন্যায়পরায়ণ শাসক; সেই যুবক, যে তার রবের ইবাদতের মধ্যে বেড়ে উঠেছে; সেই ব্যক্তি, যার অন্তর মসজিদের সঙ্গে বাঁধা; সেই দুই ব্যক্তি, যারা আল্লাহর জন্য একে অপরকে ভালোবাসে, এরই উপর একত্র হয় আর এরই উপর আলাদা হয়; সেই ব্যক্তি, যাকে কোনো সম্ভ্রান্ত সুন্দরী নারী ডাকে আর সে বলে, আমি আল্লাহকে ভয় করি; সেই ব্যক্তি, যে এত গোপনে দান করে যে তার ডান হাত কী খরচ করল, বাঁ হাত তা জানে না; আর সেই ব্যক্তি, যে নির্জনে আল্লাহর জিকির করে আর তার দুচোখ বেয়ে অশ্রু ঝরে।'"
+            "bn": "নবী ﷺ বলেছেন: 'যেদিন আল্লাহর ছায়া ছাড়া আর কোনো ছায়া থাকবে না, সেদিন আল্লাহ সাত ব্যক্তিকে তাঁর ছায়ায় আশ্রয় দেবেন: ন্যায়পরায়ণ শাসক; সেই যুবক, যে তার রবের ইবাদতের মধ্যে বেড়ে উঠেছে; সেই ব্যক্তি, যার অন্তর মসজিদের সঙ্গে বাঁধা; সেই দুই ব্যক্তি, যারা আল্লাহর জন্য একে অপরকে ভালোবাসে, এরই উপর একত্র হয় আর এরই উপর আলাদা হয়; সেই ব্যক্তি, যাকে কোনো সম্ভ্রান্ত সুন্দরী নারী ডাকে আর সে বলে, আমি আল্লাহকে ভয় করি; সেই ব্যক্তি, যে এত গোপনে দান করে যে তার ডান হাত কী খরচ করল, বাঁ হাত তা জানে না; আর সেই ব্যক্তি, যে নির্জনে আল্লাহর জিকির করে আর তার দুচোখ বেয়ে অশ্রু ঝরে।'"
           },
           {
             "en": "Its place is in Ṣaḥīḥ al-Bukhārī, and so it carries his authentication as sound. Notice what earns the shade: not a punishment carried out, but a private refusal, a man alone with temptation and no witness but Allah, who steps back. That is the chastity these verses are built to protect. The law's severity guards the same thing this man guarded freely, from the inside, when nobody would ever have known.",
-            "bn": "হাদিসটি সহিহ বুখারীতে আছে, তাই বুখারীর সহিহ হওয়ার স্বীকৃতিও এর সঙ্গে আছে। খেয়াল করুন, ছায়াটা কীসের জন্য মেলে: কোনো শাস্তি ভোগের জন্য নয়, বরং গোপনে 'না' বলার জন্য। প্রলোভনের সামনে একা একজন মানুষ, আল্লাহ ছাড়া কোনো সাক্ষী নেই, তবু সে পিছিয়ে আসে। এই আয়াতগুলো এই সতীত্বই রক্ষা করতে চায়। আইনের কঠোরতা সেই জিনিসটাকেই পাহারা দেয়, যা এই মানুষটি ভেতর থেকে নিজের ইচ্ছায় পাহারা দিয়েছিল, যখন কেউ কোনোদিন জানতেও পারত না।"
+            "bn": "হাদিসটি সহিহ বুখারীতে আছে, তাই বুখারীর সহিহ হওয়ার স্বীকৃতিও এর সঙ্গে আছে। খেয়াল করুন, ছায়াটা কীসের জন্য মেলে: কোনো শাস্তি ভোগের জন্য নয়, বরং গোপনে 'না' বলার জন্য। প্রলোভনের সামনে একা একজন মানুষ, আল্লাহ ছাড়া কোনো সাক্ষী নেই, তবু সে পিছিয়ে আসে। এই আয়াতগুলো এই সতীত্বই রক্ষা করতে চায়। আইনের কঠোরতা সেই জিনিসটাকেই পাহারা দেয়, যা এই মানুষটি ভেতর থেকে নিজের ইচ্ছায় পাহারা দিয়েছিল, যখন কেউ কোনোদিন জানতেও পারত না।"
           }
         ]
       },
@@ -153,11 +153,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Step back from the courtroom, which almost never convened, and see what the verse actually asks of a life. Ma'arif reads the whole sūrah as a defence of chastity, down to the chastity of the eyes, and the commands on lowering the gaze and seeking permission to enter follow soon after. The lesson a reader can live is not about a whip. It is about how much a clean heart, a guarded eye, and an unstained name are worth, and how easily a careless word or glance spends them.",
-            "bn": "এবার আদালতের কথা একটু সরিয়ে রাখুন, সে আদালত তো প্রায় কখনো বসতই না। দেখুন, আয়াতটি আসলে আমাদের জীবনের কাছে কী চায়। মাআরিফুল কুরআন গোটা সূরাটিকেই সতীত্ব রক্ষার সূরা হিসেবে পড়ে, এমনকি চোখের পবিত্রতা পর্যন্ত। দৃষ্টি নিচু রাখা আর ঘরে ঢোকার আগে অনুমতি চাওয়ার হুকুমও এর একটু পরেই এসেছে। পাঠক যে শিক্ষা নিয়ে জীবন চালাতে পারেন, তা চাবুকের কথা নয়। কথাটা হলো, পরিষ্কার হৃদয়, সংযত চোখ আর দাগহীন নামের দাম কত, আর একটা বেখেয়ালি কথা বা চাহনি কত সহজে তা খরচ করে ফেলে।"
+            "bn": "এবার আদালতের কথা একটু সরিয়ে রাখুন, সে আদালত তো প্রায় কখনো বসতই না। দেখুন, আয়াতটি আসলে আমাদের জীবনের কাছে কী চায়। মাআরিফুল কুরআন গোটা সূরাটিকেই সতীত্ব রক্ষার সূরা হিসেবে পড়ে, এমনকি চোখের পবিত্রতা পর্যন্ত। দৃষ্টি নিচু রাখা আর ঘরে ঢোকার আগে অনুমতি চাওয়ার হুকুমও এর একটু পরেই এসেছে। পাঠক যে শিক্ষা নিয়ে জীবন চালাতে পারেন, তা চাবুকের কথা নয়। কথাটা হলো, পরিষ্কার হৃদয়, সংযত চোখ আর দাগহীন নামের দাম কত, আর একটা বেখেয়ালি কথা বা চাহনি কত সহজে তা খরচ করে ফেলে।"
           },
           {
             "en": "Hold the two truths the verse holds together. God's justice is real, and He named a heavy penalty for a heavy wrong. Yet He fenced it with four eyewitnesses and turned the law against the false accuser, so that in practice mercy runs through the whole of it. This describes a judicial ordinance and licenses nothing against any living person: not a raised hand, not a whispered accusation, not a family taking the law as its own. What it asks of me is the harder, quieter thing: to guard my own purity, and to guard my neighbour's good name as if it were mine.",
-            "bn": "আয়াতটি দুটি সত্য একসঙ্গে ধরে রাখে, আপনিও দুটোকেই ধরে রাখুন। আল্লাহর বিচার সত্য, আর ভারী অন্যায়ের জন্য তিনি ভারী শাস্তি ঠিক করেছেন। তবু তিনি একে চারজন সাক্ষীর বেড়া দিয়ে ঘিরে দিয়েছেন, আর আইনকে ঘুরিয়ে দিয়েছেন মিথ্যা অপবাদদাতার দিকে। ফলে বাস্তবে গোটা বিধান জুড়েই রহমত বয়ে চলে। এ আয়াত বিচারের একটি বিধান বর্ণনা করে, কোনো জীবিত মানুষের বিরুদ্ধে কিছুর অনুমতি দেয় না: হাত তোলা নয়, কানে কানে অপবাদ নয়, কোনো পরিবারের আইন নিজের হাতে তুলে নেওয়া নয়। আমার কাছে এ চায় আরও কঠিন, আরও নীরব কাজ: নিজের পবিত্রতা আগলে রাখা, আর প্রতিবেশীর সুনামকে নিজের সুনামের মতো আগলে রাখা।"
+            "bn": "আয়াতটি দুটি সত্য একসঙ্গে ধরে রাখে, আপনিও দুটোকেই ধরে রাখুন। আল্লাহর বিচার সত্য, আর ভারী অন্যায়ের জন্য তিনি ভারী শাস্তি ঠিক করেছেন। তবু তিনি একে চারজন সাক্ষীর বেড়া দিয়ে ঘিরে দিয়েছেন, আর আইনকে ঘুরিয়ে দিয়েছেন মিথ্যা অপবাদদাতার দিকে। ফলে বাস্তবে গোটা বিধান জুড়েই রহমত বয়ে চলে। এ আয়াত বিচারের একটি বিধান বর্ণনা করে, কোনো জীবিত মানুষের বিরুদ্ধে কিছুর অনুমতি দেয় না: হাত তোলা নয়, কানে কানে অপবাদ নয়, কোনো পরিবারের আইন নিজের হাতে তুলে নেওয়া নয়। আমার কাছে এ চায় আরও কঠিন, আরও নীরব কাজ: নিজের পবিত্রতা আগলে রাখা, আর প্রতিবেশীর সুনামকে নিজের সুনামের মতো আগলে রাখা।"
           }
         ]
       }
@@ -173,11 +173,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The sūrah has just laid down a hard rule. Whoever accuses a chaste person of adultery must produce four witnesses; if he cannot, he himself is lashed and his testimony is refused for life (24:4). For a stranger who suspects, silence is the safe path. But one case does not fit that rule. A husband who believes his own wife has betrayed him cannot simply walk away from what he thinks he has seen, and he will almost never have four witnesses to a thing done in secret.",
-            "bn": "সূরাটি সবেমাত্র একটা কঠিন বিধান দিয়েছে। যে সতী কাউকে ব্যভিচারের অপবাদ দেবে, তাকে চারজন সাক্ষী হাজির করতে হবে; না পারলে তাকেই বেত্রাঘাত করা হয়, আর আজীবন তার সাক্ষ্য বাতিল (২৪:৪)। বাইরের কেউ কাউকে সন্দেহ করলে চুপ থাকাই তার নিরাপদ পথ। কিন্তু একটি অবস্থা এ বিধানে খাপ খায় না। যে স্বামী বিশ্বাস করে তার নিজের স্ত্রী তার সঙ্গে বিশ্বাসঘাতকতা করেছে, সে যা দেখেছে বলে ভাবছে তা থেকে চুপচাপ সরে যেতে পারে না। আর গোপনে করা কাজের চারজন সাক্ষী তার কাছে প্রায় কখনোই থাকবে না।"
+            "bn": "সূরাটি সবেমাত্র একটা কঠিন বিধান দিয়েছে। যে সতী কাউকে ব্যভিচারের অপবাদ দেবে, তাকে চারজন সাক্ষী হাজির করতে হবে; না পারলে তাকেই বেত্রাঘাত করা হয়, আর আজীবন তার সাক্ষ্য বাতিল (২৪:৪)। বাইরের কেউ কাউকে সন্দেহ করলে চুপ থাকাই তার নিরাপদ পথ। কিন্তু একটি অবস্থা এ বিধানে খাপ খায় না। যে স্বামী বিশ্বাস করে তার নিজের স্ত্রী তার সঙ্গে বিশ্বাসঘাতকতা করেছে, সে যা দেখেছে বলে ভাবছে তা থেকে চুপচাপ সরে যেতে পারে না। আর গোপনে করা কাজের চারজন সাক্ষী তার কাছে প্রায় কখনোই থাকবে না।"
           },
           {
             "en": "Ma'arif al-Qur'an draws out why this position is unbearable. A stranger can keep quiet to save his own back, and lose nothing he was bound to. The husband cannot. If he speaks without four witnesses he is flogged; if he stays silent he must go on living beside a betrayal he is sure of. The general law, framed for the accuser who can choose silence, was never shaped for the one man who cannot. His case needed its own answer, and the next verse gives it.",
-            "bn": "মাআরিফুল কুরআন খুলে বলে, এ অবস্থা কেন অসহ্য। বাইরের লোক নিজের পিঠ বাঁচাতে চুপ থাকতে পারে, তাতে তার কোনো দায়িত্বে ঘাটতি পড়ে না। স্বামী তা পারে না। চারজন সাক্ষী ছাড়া মুখ খুললে তার পিঠে বেত পড়বে; চুপ থাকলে যে বিশ্বাসঘাতকতার ব্যাপারে সে নিশ্চিত, তা বুকে চেপে তাকে সংসার করে যেতে হবে। সাধারণ বিধানটি করা হয়েছিল এমন অভিযোগকারীর কথা ভেবে, যে চাইলে চুপ থাকতে পারে। যে লোকটি চুপ থাকতে পারে না, তার কথা ভেবে সেটি করা হয়নি। তার অবস্থার জন্য দরকার ছিল আলাদা সমাধান, আর পরের আয়াত সেটাই দেয়।"
+            "bn": "মাআরিফুল কুরআন খুলে বলে, এ অবস্থা কেন অসহ্য। বাইরের লোক নিজের পিঠ বাঁচাতে চুপ থাকতে পারে, তাতে তার কোনো দায়িত্বে ঘাটতি পড়ে না। স্বামী তা পারে না। চারজন সাক্ষী ছাড়া মুখ খুললে তার পিঠে বেত পড়বে; চুপ থাকলে যে বিশ্বাসঘাতকতার ব্যাপারে সে নিশ্চিত, তা বুকে চেপে তাকে সংসার করে যেতে হবে। সাধারণ বিধানটি করা হয়েছিল এমন অভিযোগকারীর কথা ভেবে, যে চাইলে চুপ থাকতে পারে। যে লোকটি চুপ থাকতে পারে না, তার কথা ভেবে সেটি করা হয়নি। তার অবস্থার জন্য দরকার ছিল আলাদা সমাধান, আর পরের আয়াত সেটাই দেয়।"
           }
         ]
       },
@@ -193,7 +193,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The reports name the occasion. Al-Bukhari records from Ibn ʿAbbas that Hilāl bin Umayya (RA) brought this very charge against his wife before the Prophet ﷺ, who told him, 'Either you bring proof or the punishment falls on your back.' Hilāl answered that he was truthful, and that God would send down what would clear him. Then the verse came. The Prophet ﷺ did not rush to punish either of them; he warned them that God knows one of them is lying, and asked whether either would repent. This narration is graded authentic.",
-            "bn": "বর্ণনাগুলো জানায়, আয়াতটি কোন ঘটনায় নাজিল হয়। বুখারী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, হিলাল ইবন উমাইয়া (রাঃ) নবী ﷺ-এর কাছে ঠিক এই অভিযোগটাই তাঁর স্ত্রীর বিরুদ্ধে আনেন। নবী ﷺ তাঁকে বলেন, ‘হয় প্রমাণ হাজির কর, নয়তো তোমার পিঠে শাস্তি পড়বে।’ হিলাল বলেন, তিনি সত্য বলছেন, আর আল্লাহ এমন কিছু নাজিল করবেন যা তাঁকে দায়মুক্ত করবে। তারপরই আয়াতটি নাজিল হলো। নবী ﷺ তাড়াহুড়ো করে দুজনের কাউকে শাস্তি দেননি। তিনি সতর্ক করলেন, আল্লাহ জানেন তোমাদের একজন মিথ্যা বলছে, তারপর জিজ্ঞেস করলেন, কেউ কি তওবা করবে? এই বর্ণনাটি সহিহ বলে সাব্যস্ত।"
+            "bn": "বর্ণনাগুলো জানায়, আয়াতটি কোন ঘটনায় নাজিল হয়। বুখারী ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, হিলাল ইবন উমাইয়া (রাঃ) নবী ﷺ-এর কাছে ঠিক এই অভিযোগটাই তাঁর স্ত্রীর বিরুদ্ধে আনেন। নবী ﷺ তাঁকে বলেন, ‘হয় প্রমাণ হাজির কর, নয়তো তোমার পিঠে শাস্তি পড়বে।’ হিলাল বলেন, তিনি সত্য বলছেন, আর আল্লাহ এমন কিছু নাজিল করবেন যা তাঁকে দায়মুক্ত করবে। তারপরই আয়াতটি নাজিল হলো। নবী ﷺ তাড়াহুড়ো করে দুজনের কাউকে শাস্তি দেননি। তিনি সতর্ক করলেন, আল্লাহ জানেন তোমাদের একজন মিথ্যা বলছে, তারপর জিজ্ঞেস করলেন, কেউ কি তওবা করবে? এই বর্ণনাটি সহিহ বলে সাব্যস্ত।"
           }
         ]
       },
@@ -205,47 +205,47 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari fixes the meaning of the oath's role. The four testimonies, he explains, stand in the place of the four witnesses in averting the prescribed punishment from the husband. The law does not lower the standard of proof; it substitutes, for this one relationship, a fourfold oath where four eyes cannot be found. He reads 'the witness of one of them' as: it is upon one of them to swear four oaths by God — each oath the sentence the verse dictates, that he is among the truthful.",
-            "bn": "তাবারী শপথের ভূমিকাটা স্পষ্ট করে দেন। তিনি বুঝিয়ে বলেন, চারটি সাক্ষ্য স্বামীর কাছ থেকে নির্ধারিত শাস্তি সরিয়ে দেওয়ার ক্ষেত্রে চারজন সাক্ষীর জায়গায় দাঁড়ায়। আইন প্রমাণের মান নামিয়ে দেয় না; এই একটিমাত্র সম্পর্কের বেলায় যেখানে চার জোড়া চোখ পাওয়া যায় না, সেখানে চারবারের শপথকে বসিয়ে দেয়। ‘তাদের একজনের সাক্ষ্য’ কথাটি তিনি পড়েন এভাবে: তাদের একজনের উপর দায়িত্ব যে সে আল্লাহর নামে চারবার শপথ করবে। প্রতিটি শপথ আয়াতের নির্ধারিত সেই বাক্য, যে সে সত্যবাদীদের একজন।"
+            "bn": "তাবারী শপথের ভূমিকাটা স্পষ্ট করে দেন। তিনি বুঝিয়ে বলেন, চারটি সাক্ষ্য স্বামীর কাছ থেকে নির্ধারিত শাস্তি সরিয়ে দেওয়ার ক্ষেত্রে চারজন সাক্ষীর জায়গায় দাঁড়ায়। আইন প্রমাণের মান নামিয়ে দেয় না; এই একটিমাত্র সম্পর্কের বেলায় যেখানে চার জোড়া চোখ পাওয়া যায় না, সেখানে চারবারের শপথকে বসিয়ে দেয়। ‘তাদের একজনের সাক্ষ্য’ কথাটি তিনি পড়েন এভাবে: তাদের একজনের উপর দায়িত্ব যে সে আল্লাহর নামে চারবার শপথ করবে। প্রতিটি শপথ আয়াতের নির্ধারিত সেই বাক্য, যে সে সত্যবাদীদের একজন।"
           },
           {
             "en": "As-Sa'di asks why an oath is called a 'testimony' at all, and answers that it stands in the place of witnesses. He lists the wisdoms particular to marriage: a husband rarely exposes the wife whose disgrace is his own disgrace unless something drives him, he has a real stake, and there is the fear of a child fathered elsewhere being attached to him. Al-Baghawi notes the two readings of 'four testimonies' — one taking the oath as what averts the punishment, the other as the act he must perform — a grammatical difference, not a difference in law.",
-            "bn": "সাদী প্রশ্ন তোলেন, শপথকে ‘সাক্ষ্য’ বলা হচ্ছে কেন, আর জবাব দেন যে তা সাক্ষীদের জায়গায় দাঁড়ায়। বিবাহের বেলায় খাস কিছু হিকমতও তিনি সাজান: স্বামী সাধারণত সেই স্ত্রীকে ফাঁস করে না, যার অসম্মান তার নিজেরই অসম্মান, যদি না কিছু তাকে ঠেলে দেয়; এতে তার সত্যিকারের স্বার্থ থাকে; আর ভয় থাকে অন্যের ঔরসের সন্তান তার সঙ্গে জুড়ে যাওয়ার। বাগভী ‘চারটি সাক্ষ্য’ পড়ার দুটি ধরন তুলে ধরেন। একটিতে শপথই শাস্তি সরিয়ে দেয়, অন্যটিতে তা সেই কাজ যা তাকে করতে হবে। এটি ব্যাকরণের পার্থক্য, বিধানের নয়।"
+            "bn": "সাদী প্রশ্ন তোলেন, শপথকে ‘সাক্ষ্য’ বলা হচ্ছে কেন, আর জবাব দেন যে তা সাক্ষীদের জায়গায় দাঁড়ায়। বিবাহের বেলায় খাস কিছু হিকমতও তিনি সাজান: স্বামী সাধারণত সেই স্ত্রীকে ফাঁস করে না, যার অসম্মান তার নিজেরই অসম্মান, যদি না কিছু তাকে ঠেলে দেয়; এতে তার সত্যিকারের স্বার্থ থাকে; আর ভয় থাকে অন্যের ঔরসের সন্তান তার সঙ্গে জুড়ে যাওয়ার। বাগভী ‘চারটি সাক্ষ্য’ পড়ার দুটি ধরন তুলে ধরেন। একটিতে শপথই শাস্তি সরিয়ে দেয়, অন্যটিতে তা সেই কাজ যা তাকে করতে হবে। এটি ব্যাকরণের পার্থক্য, বিধানের নয়।"
           },
           {
             "en": "Al-Qurtubi sets down how a judge conducts it. He begins with the husband, as God began, and has him swear, four times, that he is truthful in what he charged; then, at the fifth, that God's curse be on him if he lied. Only then does the wife rise and swear, four times, that he is lying, and, at her fifth, that God's wrath be on her if he spoke true. Every step is spoken aloud, in order, before the court. Nothing here is left to a man's private judgement of his own household.",
-            "bn": "কুরতুবী লিখে দেন, বিচারক কীভাবে এটি পরিচালনা করেন। আল্লাহ যেভাবে শুরু করেছেন, তিনিও স্বামীকে দিয়ে শুরু করেন আর তাকে দিয়ে চারটি শপথ করান যে সে তার অভিযোগে সত্যবাদী; তারপর পঞ্চমবারে বলান, মিথ্যা বললে তার উপর আল্লাহর লা’নত পড়ুক। এরপরই স্ত্রী দাঁড়িয়ে চারবার শপথ করে যে স্বামী মিথ্যা বলছে, আর তার পঞ্চম শপথে বলে, স্বামী সত্য বললে তার নিজের উপর আল্লাহর গযব পড়ুক। প্রতিটি ধাপ পালা করে সবার সামনে উচ্চস্বরে বলা হয়। এখানে কিছুই স্বামীর নিজের ঘর নিয়ে তার একার বিচারের হাতে ছাড়া হয় না।"
+            "bn": "কুরতুবী লিখে দেন, বিচারক কীভাবে এটি পরিচালনা করেন। আল্লাহ যেভাবে শুরু করেছেন, তিনিও স্বামীকে দিয়ে শুরু করেন আর তাকে দিয়ে চারটি শপথ করান যে সে তার অভিযোগে সত্যবাদী; তারপর পঞ্চমবারে বলান, মিথ্যা বললে তার উপর আল্লাহর লা’নত পড়ুক। এরপরই স্ত্রী দাঁড়িয়ে চারবার শপথ করে যে স্বামী মিথ্যা বলছে, আর তার পঞ্চম শপথে বলে, স্বামী সত্য বললে তার নিজের উপর আল্লাহর গযব পড়ুক। প্রতিটি ধাপ পালা করে সবার সামনে উচ্চস্বরে বলা হয়। এখানে কিছুই স্বামীর নিজের ঘর নিয়ে তার একার বিচারের হাতে ছাড়া হয় না।"
           }
         ]
       },
       {
         "h": {
           "en": "The Oath That Binds",
-          "bn": "যে শপথ চূড়ান্ত করে"
+          "bn": "যে শপথ চূড়ান্ত করে"
         },
         "p": [
           {
             "en": "After the four oaths comes a fifth, and the verse makes it heavier than all before it. The husband must call down the curse of God upon himself if he is among the liars (24:7). Al-Muyassar renders it plainly: he adds, in the fifth, a prayer against his own soul, that he deserves God's curse should his charge be false. In the narration the man is stopped before this last oath and warned that it is the binding one — the punishment of this world is lighter than the punishment of the next. He does not draw back.",
-            "bn": "চারটি শপথের পর আসে পঞ্চমটি, আর আয়াত এটিকে আগের সবগুলোর চেয়ে ভারী করে দেয়। স্বামীকে বলতে হয়, সে মিথ্যাবাদী হলে তার উপর আল্লাহর লা’নত পড়ুক (২৪:৭)। মুয়াসসার সোজা ভাষায় বলে: পঞ্চম শপথে সে নিজের বিরুদ্ধে বদদোয়া করে, তার অভিযোগ মিথ্যা হলে সে যেন আল্লাহর লা’নতের যোগ্য হয়। বর্ণনায় আছে, এই শেষ শপথের আগে লোকটিকে থামিয়ে সতর্ক করা হয়: এ শপথই চূড়ান্ত, আর দুনিয়ার শাস্তি আখিরাতের শাস্তির চেয়ে হালকা। তবু সে পিছিয়ে যায় না।"
+            "bn": "চারটি শপথের পর আসে পঞ্চমটি, আর আয়াত এটিকে আগের সবগুলোর চেয়ে ভারী করে দেয়। স্বামীকে বলতে হয়, সে মিথ্যাবাদী হলে তার উপর আল্লাহর লা’নত পড়ুক (২৪:৭)। মুয়াসসার সোজা ভাষায় বলে: পঞ্চম শপথে সে নিজের বিরুদ্ধে বদদোয়া করে, তার অভিযোগ মিথ্যা হলে সে যেন আল্লাহর লা’নতের যোগ্য হয়। বর্ণনায় আছে, এই শেষ শপথের আগে লোকটিকে থামিয়ে সতর্ক করা হয়: এ শপথই চূড়ান্ত, আর দুনিয়ার শাস্তি আখিরাতের শাস্তির চেয়ে হালকা। তবু সে পিছিয়ে যায় না।"
           },
           {
             "en": "The gravity is deliberate. Neither spouse, after the oaths, is put to the sword or the lash in this world; the punishment each swore to escape is lifted. But the oaths do not make the truth. One of the two has sworn falsely before God, and that reckoning is not cancelled — it is only moved to where it cannot be evaded. Ibn Kathir reads the verse that follows, on God's grace and mercy (24:10), as pointing to just this: were it not for that grace, the tangled affair would have crushed them, but God left a way through.",
-            "bn": "এই গাম্ভীর্য ইচ্ছা করেই রাখা। শপথের পর স্বামী বা স্ত্রী কাউকেই দুনিয়াতে তলোয়ার বা বেতের মুখে পড়তে হয় না; যে শাস্তি থেকে বাঁচতে দুজনে শপথ করেছিল, তা উঠে যায়। কিন্তু শপথ করলেই সত্য বদলে যায় না। দুজনের একজন আল্লাহর সামনে মিথ্যা শপথ করেছে, আর সে হিসাব মাফ হয়ে যায় না। শুধু এমন জায়গায় সরে যায়, যেখান থেকে পালানোর উপায় নেই। ইবন কাসীর এর পরের আয়াতটি, যেখানে আল্লাহর অনুগ্রহ ও রহমতের কথা আছে (২৪:১০), ঠিক এই অর্থেই পড়েন: সেই অনুগ্রহ না থাকলে এই জটিল ব্যাপার তাদের পিষে ফেলত, কিন্তু আল্লাহ বের হওয়ার একটা পথ রেখে দিলেন।"
+            "bn": "এই গাম্ভীর্য ইচ্ছা করেই রাখা। শপথের পর স্বামী বা স্ত্রী কাউকেই দুনিয়াতে তলোয়ার বা বেতের মুখে পড়তে হয় না; যে শাস্তি থেকে বাঁচতে দুজনে শপথ করেছিল, তা উঠে যায়। কিন্তু শপথ করলেই সত্য বদলে যায় না। দুজনের একজন আল্লাহর সামনে মিথ্যা শপথ করেছে, আর সে হিসাব মাফ হয়ে যায় না। শুধু এমন জায়গায় সরে যায়, যেখান থেকে পালানোর উপায় নেই। ইবন কাসীর এর পরের আয়াতটি, যেখানে আল্লাহর অনুগ্রহ ও রহমতের কথা আছে (২৪:১০), ঠিক এই অর্থেই পড়েন: সেই অনুগ্রহ না থাকলে এই জটিল ব্যাপার তাদের পিষে ফেলত, কিন্তু আল্লাহ বের হওয়ার একটা পথ রেখে দিলেন।"
           }
         ]
       },
       {
         "h": {
           "en": "The Answer That Shields Her",
-          "bn": "যে জবাব তাকে বাঁচায়"
+          "bn": "যে জবাব তাকে বাঁচায়"
         },
         "p": [
           {
             "en": "The procedure does not end with the husband, and this is its balance. The verse turns at once to the wife: his oaths do not convict her. She answers with four oaths of her own, swearing by God that he is among the liars (24:8), and a fifth that the wrath of God be upon her if he has told the truth (24:9). And the Qur'an states the effect in her favour: her testimony 'will avert the punishment from her.' Her word, sworn in the same court, is set exactly against his, and it is enough to turn the penalty away.",
-            "bn": "বিধানটি স্বামীর কাছে এসে থেমে যায় না, আর এখানেই এর ভারসাম্য। আয়াত সঙ্গে সঙ্গে স্ত্রীর দিকে ফেরে: স্বামীর শপথ তাকে দোষী সাব্যস্ত করে না। সে নিজেও চারটি শপথ করে জবাব দেয়, আল্লাহর নামে বলে যে স্বামী মিথ্যাবাদীদের একজন (২৪:৮), আর পঞ্চম শপথে বলে, স্বামী সত্য বললে তার নিজের উপর আল্লাহর গযব পড়ুক (২৪:৯)। আর কুরআন তার পক্ষে ফলটা সাফ বলে দেয়: তার সাক্ষ্য ‘তার কাছ থেকে শাস্তি সরিয়ে দেবে।’ একই আদালতে করা তার কথা ঠিক স্বামীর কথার বিপরীতে বসে, আর শাস্তি সরিয়ে দিতে সেটাই যথেষ্ট।"
+            "bn": "বিধানটি স্বামীর কাছে এসে থেমে যায় না, আর এখানেই এর ভারসাম্য। আয়াত সঙ্গে সঙ্গে স্ত্রীর দিকে ফেরে: স্বামীর শপথ তাকে দোষী সাব্যস্ত করে না। সে নিজেও চারটি শপথ করে জবাব দেয়, আল্লাহর নামে বলে যে স্বামী মিথ্যাবাদীদের একজন (২৪:৮), আর পঞ্চম শপথে বলে, স্বামী সত্য বললে তার নিজের উপর আল্লাহর গযব পড়ুক (২৪:৯)। আর কুরআন তার পক্ষে ফলটা সাফ বলে দেয়: তার সাক্ষ্য ‘তার কাছ থেকে শাস্তি সরিয়ে দেবে।’ একই আদালতে করা তার কথা ঠিক স্বামীর কথার বিপরীতে বসে, আর শাস্তি সরিয়ে দিতে সেটাই যথেষ্ট।"
           },
           {
             "en": "Al-Qurtubi captures the symmetry in a single line: the husband swears to ward the punishment of false accusation off himself, and she swears to ward the punishment off herself. Neither is condemned by the other's oath. Ibn Kathir notes that her fifth oath invokes God's wrath rather than His curse, and offers a reason drawn from the usual case. Yet the law does not run on that guess. Once she has sworn, the worldly penalty is lifted from her entirely; she may not be called an adulteress, and the presumption the oaths leave standing is in her favour, not against her.",
-            "bn": "কুরতুবী ভারসাম্যটা এক লাইনে ধরে ফেলেন: স্বামী শপথ করে নিজের কাছ থেকে অপবাদের শাস্তি সরাতে, আর স্ত্রী শপথ করে নিজের কাছ থেকে শাস্তি সরাতে। একজনের শপথে অন্যজন দোষী হয় না। ইবন কাসীর লক্ষ করেন, স্ত্রীর পঞ্চম শপথ আল্লাহর লা’নত নয়, তাঁর গযব ডেকে আনে, আর এর একটা কারণ তিনি সাধারণ অবস্থা থেকে দেন। তবু বিধান সেই অনুমানের উপর চলে না। শপথ করে ফেলার পর দুনিয়ার শাস্তি তার কাছ থেকে পুরোপুরি উঠে যায়; তাকে ব্যভিচারিণী বলা যায় না, আর শপথ যে ধারণাটা রেখে যায় তা তার পক্ষে, বিপক্ষে নয়।"
+            "bn": "কুরতুবী ভারসাম্যটা এক লাইনে ধরে ফেলেন: স্বামী শপথ করে নিজের কাছ থেকে অপবাদের শাস্তি সরাতে, আর স্ত্রী শপথ করে নিজের কাছ থেকে শাস্তি সরাতে। একজনের শপথে অন্যজন দোষী হয় না। ইবন কাসীর লক্ষ করেন, স্ত্রীর পঞ্চম শপথ আল্লাহর লা’নত নয়, তাঁর গযব ডেকে আনে, আর এর একটা কারণ তিনি সাধারণ অবস্থা থেকে দেন। তবু বিধান সেই অনুমানের উপর চলে না। শপথ করে ফেলার পর দুনিয়ার শাস্তি তার কাছ থেকে পুরোপুরি উঠে যায়; তাকে ব্যভিচারিণী বলা যায় না, আর শপথ যে ধারণাটা রেখে যায় তা তার পক্ষে, বিপক্ষে নয়।"
           }
         ]
       },
@@ -257,27 +257,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The jurists divide over what the liʿān really is, and al-Qurtubi lays the dispute out. Mālik and ash-Shāfiʿī hold it to be an oath; Abū Ḥanīfa holds it a testimony. The difference is not idle. If it is an oath, then whoever may lawfully swear may perform it — the blind, the non-Muslim spouse, the person whose ordinary witness would be refused. If it is a testimony, only those whose testimony is accepted may enter it. Ibn al-ʿArabī argues that a man cannot be a witness in his own cause, which points to an oath — but the verse settles the label for neither side here.",
-            "bn": "লি‘আন আসলে কী, তা নিয়ে ফকীহদের মতভেদ আছে, আর কুরতুবী বিতর্কটা গুছিয়ে তুলে ধরেন। মালিক ও শাফিয়ীর মতে এটা শপথ; আবু হানীফার মতে সাক্ষ্য। এ মতভেদ শুধু কথার কথা নয়। শপথ হলে, যে কেউ বৈধভাবে শপথ করতে পারে সে-ই লি‘আন করতে পারবে: অন্ধ, অমুসলিম স্বামী বা স্ত্রী, এমনকি যার সাধারণ সাক্ষ্য গ্রহণ করা হয় না সেও। আর সাক্ষ্য হলে কেবল তারাই এতে শামিল হতে পারবে, যাদের সাক্ষ্য গ্রহণযোগ্য। ইবনুল আরাবী যুক্তি দেন, নিজের মামলায় কেউ সাক্ষী হতে পারে না, আর এ যুক্তি শপথের দিকেই ঝোঁকে। তবে আয়াতটি এখানে কোনো পক্ষের দেওয়া নাম চূড়ান্ত করে দেয় না।"
+            "bn": "লি‘আন আসলে কী, তা নিয়ে ফকীহদের মতভেদ আছে, আর কুরতুবী বিতর্কটা গুছিয়ে তুলে ধরেন। মালিক ও শাফিয়ীর মতে এটা শপথ; আবু হানীফার মতে সাক্ষ্য। এ মতভেদ শুধু কথার কথা নয়। শপথ হলে, যে কেউ বৈধভাবে শপথ করতে পারে সে-ই লি‘আন করতে পারবে: অন্ধ, অমুসলিম স্বামী বা স্ত্রী, এমনকি যার সাধারণ সাক্ষ্য গ্রহণ করা হয় না সেও। আর সাক্ষ্য হলে কেবল তারাই এতে শামিল হতে পারবে, যাদের সাক্ষ্য গ্রহণযোগ্য। ইবনুল আরাবী যুক্তি দেন, নিজের মামলায় কেউ সাক্ষী হতে পারে না, আর এ যুক্তি শপথের দিকেই ঝোঁকে। তবে আয়াতটি এখানে কোনো পক্ষের দেওয়া নাম চূড়ান্ত করে দেয় না।"
           },
           {
             "en": "Each side reaches for the verse itself. Those who call it a testimony point to the wording, 'and have no witnesses except themselves,' as putting the husband in the place of a witness. Those who call it an oath answer that a repeated sworn formula, staked on God's curse, is the language of oaths, not of evidence, and that the Prophet ﷺ spoke of 'the oaths' when he ruled. Al-Qurtubi records the exchange without flattening it, and the schools carry their positions forward. The Qur'an gives the act its shape and leaves the jurists their honest disagreement over its name.",
-            "bn": "দুই পক্ষই দলিল খোঁজে আয়াতের ভেতরেই। যারা একে সাক্ষ্য বলেন, তারা দেখান ‘নিজেদের ছাড়া তাদের কোনো সাক্ষী নেই’ কথাটি, যা স্বামীকে সাক্ষীর জায়গায় বসায়। যারা একে শপথ বলেন, তারা জবাব দেন: একই কথা বারবার কসম করে বলা, আর তার সঙ্গে আল্লাহর লা’নতকে বাজি রাখা, এ তো শপথের ভাষা, সাক্ষ্যের নয়। তা ছাড়া নবী ﷺ রায় দেওয়ার সময় ‘শপথগুলো’-র কথাই বলেছিলেন। কুরতুবী দুই পক্ষের কথাই পুরো ওজনসহ লিখে রাখেন, কোনোটাকে হালকা করেন না, আর মাযহাবগুলো নিজ নিজ মত ধরে রাখে। কুরআন কাজটার রূপ ঠিক করে দেয়, আর তার নাম নিয়ে ফকীহদের আন্তরিক মতভেদের জায়গা রেখে দেয়।"
+            "bn": "দুই পক্ষই দলিল খোঁজে আয়াতের ভেতরেই। যারা একে সাক্ষ্য বলেন, তারা দেখান ‘নিজেদের ছাড়া তাদের কোনো সাক্ষী নেই’ কথাটি, যা স্বামীকে সাক্ষীর জায়গায় বসায়। যারা একে শপথ বলেন, তারা জবাব দেন: একই কথা বারবার কসম করে বলা, আর তার সঙ্গে আল্লাহর লা’নতকে বাজি রাখা, এ তো শপথের ভাষা, সাক্ষ্যের নয়। তা ছাড়া নবী ﷺ রায় দেওয়ার সময় ‘শপথগুলো’-র কথাই বলেছিলেন। কুরতুবী দুই পক্ষের কথাই পুরো ওজনসহ লিখে রাখেন, কোনোটাকে হালকা করেন না, আর মাযহাবগুলো নিজ নিজ মত ধরে রাখে। কুরআন কাজটার রূপ ঠিক করে দেয়, আর তার নাম নিয়ে ফকীহদের আন্তরিক মতভেদের জায়গা রেখে দেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "After the Oaths Are Sworn",
-          "bn": "শপথ শেষ হওয়ার পর"
+          "bn": "শপথ শেষ হওয়ার পর"
         },
         "p": [
           {
             "en": "When both have sworn, the marriage is over. The reports and the jurists agree that the two are parted for good and may never remarry each other. The Prophet ﷺ attached the child to the mother, ruled that it must not be reviled, and decreed that whoever slandered the woman or her child would face punishment. So the last word of the procedure is not a conviction but a set of protections: a bond dissolved without a verdict of guilt, a child guarded from insult, and a woman shielded by name against every future tongue.",
-            "bn": "দুজনেই শপথ করে ফেললে বিয়েটা শেষ। বর্ণনা আর ফকীহরা একমত যে তারা চিরদিনের জন্য আলাদা হয়ে যায়, আর একে অপরকে কখনো আবার বিয়ে করতে পারে না। নবী ﷺ সন্তানকে মায়ের পরিচয়ে যুক্ত করে দেন, বলে দেন তাকে যেন গালমন্দ করা না হয়, আর ঘোষণা দেন, কেউ ওই নারী বা তার সন্তানকে অপবাদ দিলে শাস্তি পাবে। তাই এ বিধানের শেষ কথা কাউকে দোষী সাব্যস্ত করা নয়, বরং কয়েকটি সুরক্ষা: দোষের রায় ছাড়াই বিয়ের বন্ধন ভেঙে যায়, সন্তান অপমান থেকে রক্ষা পায়, আর নারীটি নাম ধরে সুরক্ষা পায় ভবিষ্যতের সব কটু কথার বিরুদ্ধে।"
+            "bn": "দুজনেই শপথ করে ফেললে বিয়েটা শেষ। বর্ণনা আর ফকীহরা একমত যে তারা চিরদিনের জন্য আলাদা হয়ে যায়, আর একে অপরকে কখনো আবার বিয়ে করতে পারে না। নবী ﷺ সন্তানকে মায়ের পরিচয়ে যুক্ত করে দেন, বলে দেন তাকে যেন গালমন্দ করা না হয়, আর ঘোষণা দেন, কেউ ওই নারী বা তার সন্তানকে অপবাদ দিলে শাস্তি পাবে। তাই এ বিধানের শেষ কথা কাউকে দোষী সাব্যস্ত করা নয়, বরং কয়েকটি সুরক্ষা: দোষের রায় ছাড়াই বিয়ের বন্ধন ভেঙে যায়, সন্তান অপমান থেকে রক্ষা পায়, আর নারীটি নাম ধরে সুরক্ষা পায় ভবিষ্যতের সব কটু কথার বিরুদ্ধে।"
           },
           {
             "en": "The reports carry two occasions, and the commentators weigh them. One names Hilāl bin Umayya; another names ʿUwaymir al-ʿAjlānī, who came to the Prophet ﷺ with the same trouble. Al-Qurtubi treats both as bound up with the revelation. Ibn Hajar and an-Nawawi reconcile them: Hilāl's case came first and drew down the verse, and ʿUwaymir's, close upon it, was judged by the ruling already given. The disagreement is over sequence, not substance. Either way the verse answered a real household in Madinah before it became a standing law for every marriage.",
-            "bn": "বর্ণনায় দুটি ঘটনার কথা এসেছে, আর তাফসীরকারেরা দুটিকে মিলিয়ে দেখেন। একটিতে নাম আছে হিলাল ইবন উমাইয়ার; আরেকটিতে উওয়াইমির আল-আজলানীর, যিনি একই সমস্যা নিয়ে নবী ﷺ-এর কাছে এসেছিলেন। কুরতুবী দুটোকেই আয়াত নাজিলের সঙ্গে জড়িত বলে ধরেন। ইবন হাজার ও নববী দুটোর মধ্যে সমন্বয় করেন: হিলালের ঘটনা আগে ঘটে, আর তাতেই আয়াত নাজিল হয়; উওয়াইমিরের ঘটনা ঘটে তার পরপরই, আর আগে নাজিল হওয়া বিধান দিয়েই তার মীমাংসা হয়। মতভেদটা কোনটা আগে কোনটা পরে তা নিয়ে, মূল বিষয় নিয়ে নয়। যেভাবেই হোক, সব বিয়ের জন্য স্থায়ী বিধান হওয়ার আগে আয়াতটি মদীনার এক বাস্তব সংসারের সমস্যার জবাব দিয়েছিল।"
+            "bn": "বর্ণনায় দুটি ঘটনার কথা এসেছে, আর তাফসীরকারেরা দুটিকে মিলিয়ে দেখেন। একটিতে নাম আছে হিলাল ইবন উমাইয়ার; আরেকটিতে উওয়াইমির আল-আজলানীর, যিনি একই সমস্যা নিয়ে নবী ﷺ-এর কাছে এসেছিলেন। কুরতুবী দুটোকেই আয়াত নাজিলের সঙ্গে জড়িত বলে ধরেন। ইবন হাজার ও নববী দুটোর মধ্যে সমন্বয় করেন: হিলালের ঘটনা আগে ঘটে, আর তাতেই আয়াত নাজিল হয়; উওয়াইমিরের ঘটনা ঘটে তার পরপরই, আর আগে নাজিল হওয়া বিধান দিয়েই তার মীমাংসা হয়। মতভেদটা কোনটা আগে কোনটা পরে তা নিয়ে, মূল বিষয় নিয়ে নয়। যেভাবেই হোক, সব বিয়ের জন্য স্থায়ী বিধান হওয়ার আগে আয়াতটি মদীনার এক বাস্তব সংসারের সমস্যার জবাব দিয়েছিল।"
           }
         ]
       },
@@ -289,11 +289,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This needs saying plainly. The verse lays down a court procedure, conducted before lawful authority and settled by solemn oath. It licenses nothing against any living person or community: no private accusation, no public shaming, no violence, no hand raised on suspicion. A man who saw and could not prove is sent to the judge, not to his own reckoning; even in the reports the Prophet ﷺ stops him and reminds him of God before the binding oath. Whoever reads this verse as leave to accuse a spouse in the street, or to strike, has read into it the very thing it forbids.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি আদালতের একটি পদ্ধতি ঠিক করে দেয়, যা চলে বৈধ কর্তৃপক্ষের সামনে আর মীমাংসা হয় গুরুগম্ভীর শপথে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না: নিজে থেকে অভিযোগ তোলা নয়, প্রকাশ্যে অপমান নয়, সহিংসতা নয়, সন্দেহের বশে হাত তোলা নয়। যে নিজে দেখেছে অথচ প্রমাণ করতে পারেনি, তাকে পাঠানো হয় বিচারকের কাছে, নিজে ফয়সালা করে নিতে নয়। বর্ণনাতেও নবী ﷺ চূড়ান্ত শপথের আগে তাকে থামিয়ে আল্লাহর কথা মনে করিয়ে দেন। কেউ যদি এ আয়াতকে রাস্তায় দাঁড়িয়ে স্ত্রীকে দোষ দেওয়ার বা গায়ে হাত তোলার ছাড়পত্র ভাবে, তবে আয়াত যা নিষেধ করে, ঠিক সেটাই সে আয়াতের ঘাড়ে চাপাল।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি আদালতের একটি পদ্ধতি ঠিক করে দেয়, যা চলে বৈধ কর্তৃপক্ষের সামনে আর মীমাংসা হয় গুরুগম্ভীর শপথে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না: নিজে থেকে অভিযোগ তোলা নয়, প্রকাশ্যে অপমান নয়, সহিংসতা নয়, সন্দেহের বশে হাত তোলা নয়। যে নিজে দেখেছে অথচ প্রমাণ করতে পারেনি, তাকে পাঠানো হয় বিচারকের কাছে, নিজে ফয়সালা করে নিতে নয়। বর্ণনাতেও নবী ﷺ চূড়ান্ত শপথের আগে তাকে থামিয়ে আল্লাহর কথা মনে করিয়ে দেন। কেউ যদি এ আয়াতকে রাস্তায় দাঁড়িয়ে স্ত্রীকে দোষ দেওয়ার বা গায়ে হাত তোলার ছাড়পত্র ভাবে, তবে আয়াত যা নিষেধ করে, ঠিক সেটাই সে আয়াতের ঘাড়ে চাপাল।"
           },
           {
             "en": "The lesson stands clear once the fear and the detail settle. Where the truth cannot be reached by proof, the believer's path is not the raised hand or the whispered charge, but the lawful process and the oath taken in the sight of God. The verse trusts God with what no witness saw. It answers a real agony without letting either spouse be crushed, and it leaves the hidden truth where it belongs. To live by it is to refuse both the easy accusation and the private vengeance, and to leave to God what only He can judge.",
-            "bn": "ভয় আর খুঁটিনাটি থিতিয়ে গেলে শিক্ষাটা পরিষ্কার দাঁড়ায়। প্রমাণে যেখানে সত্যের নাগাল পাওয়া যায় না, মুমিনের পথ সেখানে তোলা হাত বা ফিসফিসিয়ে করা অভিযোগ নয়, বরং বৈধ পথ আর আল্লাহকে সামনে রেখে নেওয়া শপথ। কোনো সাক্ষী যা দেখেনি, আয়াত তা আল্লাহর হাতে সঁপে দেয়। এটি এক সত্যিকারের যন্ত্রণার জবাব দেয়, অথচ স্বামী-স্ত্রীর কাউকেই পিষে যেতে দেয় না, আর লুকানো সত্যটা যেখানে থাকার কথা সেখানেই রেখে দেয়। এ অনুযায়ী জীবন গড়া মানে সহজ অভিযোগ আর ব্যক্তিগত প্রতিশোধ দুটোই প্রত্যাখ্যান করা, আর যা কেবল তিনিই বিচার করতে পারেন তা আল্লাহর হাতে ছেড়ে দেওয়া।"
+            "bn": "ভয় আর খুঁটিনাটি থিতিয়ে গেলে শিক্ষাটা পরিষ্কার দাঁড়ায়। প্রমাণে যেখানে সত্যের নাগাল পাওয়া যায় না, মুমিনের পথ সেখানে তোলা হাত বা ফিসফিসিয়ে করা অভিযোগ নয়, বরং বৈধ পথ আর আল্লাহকে সামনে রেখে নেওয়া শপথ। কোনো সাক্ষী যা দেখেনি, আয়াত তা আল্লাহর হাতে সঁপে দেয়। এটি এক সত্যিকারের যন্ত্রণার জবাব দেয়, অথচ স্বামী-স্ত্রীর কাউকেই পিষে যেতে দেয় না, আর লুকানো সত্যটা যেখানে থাকার কথা সেখানেই রেখে দেয়। এ অনুযায়ী জীবন গড়া মানে সহজ অভিযোগ আর ব্যক্তিগত প্রতিশোধ দুটোই প্রত্যাখ্যান করা, আর যা কেবল তিনিই বিচার করতে পারেন তা আল্লাহর হাতে ছেড়ে দেওয়া।"
           }
         ]
       }
@@ -304,20 +304,20 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Where the Rebuke Lands",
-          "bn": "যেখানে ভর্ৎসনা এসে পড়ে"
+          "bn": "যেখানে ভর্ৎসনা এসে পড়ে"
         },
         "p": [
           {
             "en": "This verse is a reproach. Ibn Kathir opens his comment by calling it a disciplining of the believers over the affair of ʿĀʾishah (RA), when some of them had spread the ugly talk. At-Tabari uses the same register: it is a reproof from Allah to the people of faith for what had taken hold among them. The occasion is stated plainly in the surah itself. A false rumour, an ifk, had been raised against ʿĀʾishah (RA), the Mother of the Believers, and it was being passed from mouth to mouth (24:11).",
-            "bn": "এ আয়াত আসলে তিরস্কার। ইবন কাসীর ব্যাখ্যার শুরুতেই বলেন, আয়েশা (রাঃ)-এর ঘটনায় মুমিনদের কেউ কেউ যখন সেই জঘন্য কথা ছড়াচ্ছিল, তখন এ আয়াত দিয়ে আল্লাহ তাদের আদব শেখান। তাবারীও একই সুরে বলেন, তাদের মধ্যে যা ছড়িয়ে পড়েছিল, তার জন্য এটা ঈমানদারদের প্রতি আল্লাহর তিরস্কার। ঘটনাটা কী, সূরাতেই তা স্পষ্ট বলা আছে। উম্মুল মুমিনীন আয়েশা (রাঃ)-এর নামে একটি মিথ্যা গুজব রটানো হয়েছিল, যাকে বলা হয় 'ইফক', আর তা মুখে মুখে ছড়াচ্ছিল (২৪:১১)।"
+            "bn": "এ আয়াত আসলে তিরস্কার। ইবন কাসীর ব্যাখ্যার শুরুতেই বলেন, আয়েশা (রাঃ)-এর ঘটনায় মুমিনদের কেউ কেউ যখন সেই জঘন্য কথা ছড়াচ্ছিল, তখন এ আয়াত দিয়ে আল্লাহ তাদের আদব শেখান। তাবারীও একই সুরে বলেন, তাদের মধ্যে যা ছড়িয়ে পড়েছিল, তার জন্য এটা ঈমানদারদের প্রতি আল্লাহর তিরস্কার। ঘটনাটা কী, সূরাতেই তা স্পষ্ট বলা আছে। উম্মুল মুমিনীন আয়েশা (রাঃ)-এর নামে একটি মিথ্যা গুজব রটানো হয়েছিল, যাকে বলা হয় 'ইফক', আর তা মুখে মুখে ছড়াচ্ছিল (২৪:১১)।"
           },
           {
             "en": "What matters for the reader is how the matter was settled. Not by witnesses, nor by the community weighing likelihoods. Allah Himself cleared her, from above the heavens, in the verses running from 24:11 to 24:20. ʿĀʾishah (RA) said afterwards that she had hoped only for the Prophet ﷺ to see her innocence in a dream; instead Allah sent down her acquittal in words recited until the Day of Judgement. The charge was a lie, and this verse asks why the believers had not known it at once.",
-            "bn": "পাঠকের জন্য আসল কথা হলো, বিষয়টা কীভাবে মীমাংসা হলো। কোনো সাক্ষী দিয়ে নয়, সমাজ সম্ভাবনা মেপেও নয়। আল্লাহ নিজেই তাঁকে নির্দোষ ঘোষণা করলেন, আসমানের উপর থেকে, ২৪:১১ থেকে ২৪:২০ পর্যন্ত আয়াতগুলোতে। আয়েশা (রাঃ) পরে বলেছেন, তিনি কেবল এই আশা করেছিলেন যে নবী ﷺ হয়তো স্বপ্নে তাঁর নির্দোষিতা দেখবেন। অথচ আল্লাহ তাঁর নির্দোষিতা এমন বাণীতে নাজিল করলেন, যা কিয়ামত পর্যন্ত পড়া হবে। অভিযোগটা মিথ্যা ছিল, আর এ আয়াত জিজ্ঞেস করছে, মুমিনরা কেন প্রথম থেকেই সেটা বুঝল না।"
+            "bn": "পাঠকের জন্য আসল কথা হলো, বিষয়টা কীভাবে মীমাংসা হলো। কোনো সাক্ষী দিয়ে নয়, সমাজ সম্ভাবনা মেপেও নয়। আল্লাহ নিজেই তাঁকে নির্দোষ ঘোষণা করলেন, আসমানের উপর থেকে, ২৪:১১ থেকে ২৪:২০ পর্যন্ত আয়াতগুলোতে। আয়েশা (রাঃ) পরে বলেছেন, তিনি কেবল এই আশা করেছিলেন যে নবী ﷺ হয়তো স্বপ্নে তাঁর নির্দোষিতা দেখবেন। অথচ আল্লাহ তাঁর নির্দোষিতা এমন বাণীতে নাজিল করলেন, যা কিয়ামত পর্যন্ত পড়া হবে। অভিযোগটা মিথ্যা ছিল, আর এ আয়াত জিজ্ঞেস করছে, মুমিনরা কেন প্রথম থেকেই সেটা বুঝল না।"
           },
           {
             "en": "One thing must be said plainly, in the verse's own spirit. The verse condemns those who spread an unproven charge; it licenses nothing against anyone who is themselves accused today, and least of all any doubt about ʿĀʾishah (RA), whose innocence Allah declared. Its whole weight falls on the hearer who repeated the rumour instead of refusing it. That is the person the verse is training, and that is the person a reader should look for in the mirror.",
-            "bn": "একটা কথা আয়াতের নিজের সুরেই সোজাসুজি বলা দরকার। আয়াত তাদেরই দোষ ধরে যারা যাচাইহীন অভিযোগ ছড়ায়। আজ যার বিরুদ্ধে অভিযোগ ওঠে তার বিপক্ষে এটি কিছুরই অনুমতি দেয় না, আর আয়েশা (রাঃ) সম্পর্কে সন্দেহের তো প্রশ্নই নেই, যাঁর নির্দোষিতা স্বয়ং আল্লাহ ঘোষণা করেছেন। আয়াতের গোটা ভার গিয়ে পড়ে সেই শ্রোতার উপর, যে গুজব ফিরিয়ে না দিয়ে বরং আরও বলেছে। আয়াত এই মানুষটিকেই গড়তে চায়, আর পাঠকের উচিত আয়নায় এই মানুষটিকেই খোঁজা।"
+            "bn": "একটা কথা আয়াতের নিজের সুরেই সোজাসুজি বলা দরকার। আয়াত তাদেরই দোষ ধরে যারা যাচাইহীন অভিযোগ ছড়ায়। আজ যার বিরুদ্ধে অভিযোগ ওঠে তার বিপক্ষে এটি কিছুরই অনুমতি দেয় না, আর আয়েশা (রাঃ) সম্পর্কে সন্দেহের তো প্রশ্নই নেই, যাঁর নির্দোষিতা স্বয়ং আল্লাহ ঘোষণা করেছেন। আয়াতের গোটা ভার গিয়ে পড়ে সেই শ্রোতার উপর, যে গুজব ফিরিয়ে না দিয়ে বরং আরও বলেছে। আয়াত এই মানুষটিকেই গড়তে চায়, আর পাঠকের উচিত আয়নায় এই মানুষটিকেই খোঁজা।"
           }
         ]
       },
@@ -329,11 +329,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse turns on one small word. Lawla, at the head of the line, is not the 'if not' of a condition; al-Baghawi, al-Qurtubi and Ibn Kathir each gloss it with halla, meaning why not, or would that you had. The sentence is therefore a rebuke for something left undone. When you heard it, why did the believing men and women not think well? Good opinion is not praised here as a virtue some reach; it is demanded as a duty the hearers failed.",
-            "bn": "পুরো আয়াত একটি ছোট শব্দের উপর দাঁড়িয়ে। বাক্যের শুরুতে থাকা 'লাওলা' এখানে শর্তের 'যদি না' নয়। বাগাভী, কুরতুবী আর ইবন কাসীর প্রত্যেকেই এর অর্থ করেন 'হাল্লা' দিয়ে, মানে কেন নয়, কিংবা তোমরা কেন করলে না। তাই বাক্যটা একটা না-করা কাজের জন্য ভর্ৎসনা। শোনার পর মুমিন পুরুষ ও নারীরা কেন ভালো ধারণা করল না? আয়াত এখানে সুধারণাকে এমন কোনো গুণ বলে প্রশংসা করছে না, যা কেউ কেউ অর্জন করে। আয়াত একে দায়িত্ব হিসেবে দাবি করছে, আর শ্রোতারা সে দায়িত্ব পালন করেনি।"
+            "bn": "পুরো আয়াত একটি ছোট শব্দের উপর দাঁড়িয়ে। বাক্যের শুরুতে থাকা 'লাওলা' এখানে শর্তের 'যদি না' নয়। বাগাভী, কুরতুবী আর ইবন কাসীর প্রত্যেকেই এর অর্থ করেন 'হাল্লা' দিয়ে, মানে কেন নয়, কিংবা তোমরা কেন করলে না। তাই বাক্যটা একটা না-করা কাজের জন্য ভর্ৎসনা। শোনার পর মুমিন পুরুষ ও নারীরা কেন ভালো ধারণা করল না? আয়াত এখানে সুধারণাকে এমন কোনো গুণ বলে প্রশংসা করছে না, যা কেউ কেউ অর্জন করে। আয়াত একে দায়িত্ব হিসেবে দাবি করছে, আর শ্রোতারা সে দায়িত্ব পালন করেনি।"
           },
           {
             "en": "As-Sa'di reads the good opinion the verse wants as thinking of one another with soundness: a believer is clear of what the slanderers alleged, and the faith known to be in a person repels the falsehood thrown at them. The Muyassar keeps the same line, that the best is to be assumed the moment the ifk is heard. As-Sa'di then fixes the level of obligation — this, he says, is the opinion made obligatory, that when a believer hears such talk of his brother he clears him with his tongue and gives the lie to the one who spoke it.",
-            "bn": "সা'দীর মতে, আয়াত যে সুধারণা চায় তা হলো একে অন্যকে নির্দোষ ভাবা: অপবাদকারীরা যা বলেছে, মুমিন তা থেকে মুক্ত। কারও মধ্যে যে ঈমান আছে বলে জানা, সেই ঈমানই তার দিকে ছোড়া মিথ্যাকে ঠেকিয়ে দেয়। মুয়াসসারও একই কথা বলে: ইফক কানে আসামাত্রই একে অন্যের ব্যাপারে সবচেয়ে ভালোটা ধরে নেওয়া উচিত ছিল। এরপর সা'দী বলে দেন, এ দায়িত্ব কতটা জরুরি। তিনি বলেন, এ ধারণা রাখা ওয়াজিব। কোনো মুমিন নিজের ভাই সম্পর্কে এমন কথা শুনলে তার কর্তব্য মুখে ভাইকে নির্দোষ বলা, আর যে কথাটা বলেছে তাকে মিথ্যাবাদী বলা।"
+            "bn": "সা'দীর মতে, আয়াত যে সুধারণা চায় তা হলো একে অন্যকে নির্দোষ ভাবা: অপবাদকারীরা যা বলেছে, মুমিন তা থেকে মুক্ত। কারও মধ্যে যে ঈমান আছে বলে জানা, সেই ঈমানই তার দিকে ছোড়া মিথ্যাকে ঠেকিয়ে দেয়। মুয়াসসারও একই কথা বলে: ইফক কানে আসামাত্রই একে অন্যের ব্যাপারে সবচেয়ে ভালোটা ধরে নেওয়া উচিত ছিল। এরপর সা'দী বলে দেন, এ দায়িত্ব কতটা জরুরি। তিনি বলেন, এ ধারণা রাখা ওয়াজিব। কোনো মুমিন নিজের ভাই সম্পর্কে এমন কথা শুনলে তার কর্তব্য মুখে ভাইকে নির্দোষ বলা, আর যে কথাটা বলেছে তাকে মিথ্যাবাদী বলা।"
           }
         ]
       },
@@ -345,22 +345,22 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse literally says the believers should have thought well bi-anfusihim, of their own selves, though the person slandered was someone else. The commentators explain the wording. At-Tabari says He calls them their selves because the people of Islam are all as one self, since they are one community of faith. Al-Baghawi, citing al-Hasan, reads it the same way, the believers being like a single self; and an-Nahhas, quoted by both al-Qurtubi and al-Baghawi, glosses bi-anfusihim as of their brethren. To think of a fellow believer is to think of yourself.",
-            "bn": "আয়াত আক্ষরিক অর্থে বলছে, মুমিনদের উচিত ছিল 'বিআনফুসিহিম', অর্থাৎ নিজেদের সম্পর্কে ভালো ধারণা করা, যদিও অপবাদটা উঠেছিল অন্য একজনের বিরুদ্ধে। মুফাসসিরগণ শব্দটির ব্যাখ্যা দেন। তাবারী বলেন, তিনি তাদের 'নিজেদের' বলেছেন, কারণ ইসলামের লোকেরা সবাই এক সত্তার মতো, যেহেতু তারা এক দ্বীনের মানুষ। বাগাভী হাসানের উদ্ধৃতি দিয়ে একই কথা বলেন, মুমিনরা যেন এক সত্তা। আর নাহহাস, যাঁকে কুরতুবী ও বাগাভী দুজনেই উদ্ধৃত করেন, 'বিআনফুসিহিম'-এর অর্থ করেন 'তাদের ভাইদের সম্পর্কে'। একজন মুমিনের কথা ভাবা মানেই নিজের কথা ভাবা।"
+            "bn": "আয়াত আক্ষরিক অর্থে বলছে, মুমিনদের উচিত ছিল 'বিআনফুসিহিম', অর্থাৎ নিজেদের সম্পর্কে ভালো ধারণা করা, যদিও অপবাদটা উঠেছিল অন্য একজনের বিরুদ্ধে। মুফাসসিরগণ শব্দটির ব্যাখ্যা দেন। তাবারী বলেন, তিনি তাদের 'নিজেদের' বলেছেন, কারণ ইসলামের লোকেরা সবাই এক সত্তার মতো, যেহেতু তারা এক দ্বীনের মানুষ। বাগাভী হাসানের উদ্ধৃতি দিয়ে একই কথা বলেন, মুমিনরা যেন এক সত্তা। আর নাহহাস, যাঁকে কুরতুবী ও বাগাভী দুজনেই উদ্ধৃত করেন, 'বিআনফুসিহিম'-এর অর্থ করেন 'তাদের ভাইদের সম্পর্কে'। একজন মুমিনের কথা ভাবা মানেই নিজের কথা ভাবা।"
           },
           {
             "en": "Ma'arif al-Qur'an draws this out. Because the tie of Islam has joined believers into one body, a Muslim who defames another in truth defames himself. It points to the Qur'an's habit of using the same figure: do not find fault with your own selves (49:11), do not kill your own selves (4:29), greet your own selves (24:61) — each phrased as if the other Muslim were oneself. At-Tabari cites Mujahid for the same reading of the parallel verses. The wound you deal a brother's name, you deal your own.",
-            "bn": "মাআরিফুল কুরআন কথাটা খুলে বলে। ইসলামের বাঁধন মুমিনদের এক দেহে জুড়ে দিয়েছে। তাই যে মুসলিম অন্য মুসলিমের বদনাম করে, সে আসলে নিজেরই বদনাম করে। মাআরিফ দেখায়, কুরআন বারবার এভাবেই কথা বলে: নিজেদের দোষ ধরো না (৪৯:১১), নিজেদের হত্যা করো না (৪:২৯), নিজেদের সালাম দাও (২৪:৬১)। প্রতিটি জায়গায় অন্য মুসলিমের কথা এমনভাবে বলা হয়েছে, যেন সে নিজেই। এই সমান্তরাল আয়াতগুলোর একই ব্যাখ্যা তাবারী মুজাহিদের সূত্রে উদ্ধৃত করেন। ভাইয়ের সুনামে যে আঘাত দেন, সে আঘাত পড়ে আপনার নিজের গায়েই।"
+            "bn": "মাআরিফুল কুরআন কথাটা খুলে বলে। ইসলামের বাঁধন মুমিনদের এক দেহে জুড়ে দিয়েছে। তাই যে মুসলিম অন্য মুসলিমের বদনাম করে, সে আসলে নিজেরই বদনাম করে। মাআরিফ দেখায়, কুরআন বারবার এভাবেই কথা বলে: নিজেদের দোষ ধরো না (৪৯:১১), নিজেদের হত্যা করো না (৪:২৯), নিজেদের সালাম দাও (২৪:৬১)। প্রতিটি জায়গায় অন্য মুসলিমের কথা এমনভাবে বলা হয়েছে, যেন সে নিজেই। এই সমান্তরাল আয়াতগুলোর একই ব্যাখ্যা তাবারী মুজাহিদের সূত্রে উদ্ধৃত করেন। ভাইয়ের সুনামে যে আঘাত দেন, সে আঘাত পড়ে আপনার নিজের গায়েই।"
           },
           {
             "en": "This is not sentiment. It is why the duty of good opinion is not optional. When the honour of one believer is torn down, the fabric Ma'arif calls the one body tears with it, and the tear does not stay where it began. That is why the verse addresses the whole gathering of believing men and women, not only the few who first spoke. A rumour needs a crowd to carry it, and the verse tells that crowd that the name it is careless with is, in the end, its own.",
-            "bn": "এটা নিছক আবেগের কথা নয়। এ কারণেই সুধারণা রাখা ঐচ্ছিক নয়, দায়িত্ব। একজন মুমিনের সম্মান যখন ভেঙে পড়ে, মাআরিফ যাকে এক দেহ বলেছে, সেই বুননও তখন ছিঁড়ে যায়, আর সে ছেঁড়া যেখানে শুরু হয়েছিল সেখানে থেমে থাকে না। এ কারণেই আয়াত শুধু প্রথমে মুখ খোলা কয়েকজনকে নয়, মুমিন পুরুষ ও নারীদের পুরো সমাজকে সম্বোধন করে। গুজব বয়ে নিতে ভিড় লাগে। আয়াত সেই ভিড়কেই বলছে, যে নাম নিয়ে তারা এত বেখেয়াল, শেষ পর্যন্ত সেটা তাদের নিজেদেরই নাম।"
+            "bn": "এটা নিছক আবেগের কথা নয়। এ কারণেই সুধারণা রাখা ঐচ্ছিক নয়, দায়িত্ব। একজন মুমিনের সম্মান যখন ভেঙে পড়ে, মাআরিফ যাকে এক দেহ বলেছে, সেই বুননও তখন ছিঁড়ে যায়, আর সে ছেঁড়া যেখানে শুরু হয়েছিল সেখানে থেমে থাকে না। এ কারণেই আয়াত শুধু প্রথমে মুখ খোলা কয়েকজনকে নয়, মুমিন পুরুষ ও নারীদের পুরো সমাজকে সম্বোধন করে। গুজব বয়ে নিতে ভিড় লাগে। আয়াত সেই ভিড়কেই বলছে, যে নাম নিয়ে তারা এত বেখেয়াল, শেষ পর্যন্ত সেটা তাদের নিজেদেরই নাম।"
           }
         ]
       },
       {
         "h": {
           "en": "Hold It to Yourself First",
-          "bn": "আগে নিজের গায়ে মাপুন"
+          "bn": "আগে নিজের গায়ে মাপুন"
         },
         "p": [
           {
@@ -369,7 +369,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari and al-Qurtubi both record a further reading from Ibn Zayd. The good opinion the verse asks for, he says, is that a believer knows the bond here is the bond of a mother and her children: ʿĀʾishah (RA) is a mother to the believers, and the believers stand to her as sons, a tie the Qur'an itself made sacred and inviolable. To entertain the charge at all was to forget what she was to them. Read this way, the failure the verse names is not weak reasoning but a lapse of reverence.",
-            "bn": "তাবারী ও কুরতুবী দুজনেই ইবন যায়দের আরেকটি ব্যাখ্যা তুলে ধরেন। আয়াত যে সুধারণা চায়, তিনি বলেন, তা হলো মুমিন জানে এখানকার সম্পর্কটা মা আর তাঁর সন্তানের সম্পর্ক। আয়েশা (রাঃ) মুমিনদের মা, আর মুমিনরা তাঁর কাছে ছেলের মতো, এ বাঁধনকে কুরআন নিজেই পবিত্র ও অলঙ্ঘনীয় করেছে। অভিযোগটাকে মনে ঠাঁই দেওয়ার মানেই তিনি তাদের কী, তা ভুলে যাওয়া। এভাবে পড়লে আয়াত যে ব্যর্থতার কথা বলছে তা দুর্বল যুক্তি নয়, বরং সম্মানবোধের এক ঘাটতি।"
+            "bn": "তাবারী ও কুরতুবী দুজনেই ইবন যায়দের আরেকটি ব্যাখ্যা তুলে ধরেন। আয়াত যে সুধারণা চায়, তিনি বলেন, তা হলো মুমিন জানে এখানকার সম্পর্কটা মা আর তাঁর সন্তানের সম্পর্ক। আয়েশা (রাঃ) মুমিনদের মা, আর মুমিনরা তাঁর কাছে ছেলের মতো, এ বাঁধনকে কুরআন নিজেই পবিত্র ও অলঙ্ঘনীয় করেছে। অভিযোগটাকে মনে ঠাঁই দেওয়ার মানেই তিনি তাদের কী, তা ভুলে যাওয়া। এভাবে পড়লে আয়াত যে ব্যর্থতার কথা বলছে তা দুর্বল যুক্তি নয়, বরং সম্মানবোধের এক ঘাটতি।"
           }
         ]
       },
@@ -381,15 +381,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse asks two things, not one. Ibn Kathir marks the join: think well of your own selves concerns the innermost heart, the baatin, while and say, this is a manifest lie is the work of the tongue, spoken out. Good opinion held silently is only half of what is owed. The believer who is sure a charge is false is bound to say so, aloud, and to name the talk for what it is. The heart's verdict has to reach the mouth.",
-            "bn": "আয়াত একটি নয়, দুটি জিনিস চায়। ইবন কাসীর দুটোর জোড়টা দেখিয়ে দেন: 'নিজেদের সম্পর্কে ভালো ধারণা করা' হলো অন্তরের ভেতরের কাজ, বাতিনের কাজ; আর 'বলল, এটা খোলা মিথ্যা' হলো জিহ্বার কাজ, মুখ ফুটে বলা। মনে মনে চুপ করে রাখা সুধারণা পাওনার মাত্র অর্ধেক। যে মুমিন নিশ্চিত জানে অভিযোগটা মিথ্যা, তার কর্তব্য সেটা মুখে বলা, আর কথাটাকে তার আসল নামে ডাকা। মনের রায় মুখ পর্যন্ত পৌঁছাতে হবে।"
+            "bn": "আয়াত একটি নয়, দুটি জিনিস চায়। ইবন কাসীর দুটোর জোড়টা দেখিয়ে দেন: 'নিজেদের সম্পর্কে ভালো ধারণা করা' হলো অন্তরের ভেতরের কাজ, বাতিনের কাজ; আর 'বলল, এটা খোলা মিথ্যা' হলো জিহ্বার কাজ, মুখ ফুটে বলা। মনে মনে চুপ করে রাখা সুধারণা পাওনার মাত্র অর্ধেক। যে মুমিন নিশ্চিত জানে অভিযোগটা মিথ্যা, তার কর্তব্য সেটা মুখে বলা, আর কথাটাকে তার আসল নামে ডাকা। মনের রায় মুখ পর্যন্ত পৌঁছাতে হবে।"
           },
           {
             "en": "Ma'arif al-Qur'an reads the closing clause as instilling that faith itself demanded the Muslims reject the rumour outright as a lie the instant they heard it. From this it draws a ruling: to think well of every believing man and woman is obligatory unless the contrary is proven under sacred law, and where someone accuses a Muslim without such proof, rejecting the accusation and declaring it false is itself obligatory, because it is nothing but backbiting an innocent person. The Muyassar, briefly, calls the words a plain lie against ʿĀʾishah (RA).",
-            "bn": "মাআরিফুল কুরআন শেষ অংশটিকে পড়ে এভাবে যে, ঈমান নিজেই দাবি করেছিল মুসলিমরা শোনামাত্র গুজবটাকে সরাসরি মিথ্যা বলে উড়িয়ে দেবে। এখান থেকে সে একটি হুকুম বের করে, প্রতিটি মুমিন নারী-পুরুষ সম্পর্কে ভালো ধারণা রাখা ওয়াজিব, যদি না শরিয়ত অনুযায়ী উল্টোটা প্রমাণিত হয়। আর কেউ যদি এমন প্রমাণ ছাড়া কোনো মুসলিমকে অভিযোগে জড়ায়, তবে সে অভিযোগ প্রত্যাখ্যান করা আর তাকে মিথ্যা ঘোষণা করাও ওয়াজিব, কারণ এটা এক নিরপরাধ মানুষের গিবত ছাড়া কিছু নয়। মুয়াসসার সংক্ষেপে কথাগুলোকে বলে আয়েশা (রাঃ)-এর বিরুদ্ধে খোলা মিথ্যা।"
+            "bn": "মাআরিফুল কুরআন শেষ অংশটিকে পড়ে এভাবে যে, ঈমান নিজেই দাবি করেছিল মুসলিমরা শোনামাত্র গুজবটাকে সরাসরি মিথ্যা বলে উড়িয়ে দেবে। এখান থেকে সে একটি হুকুম বের করে, প্রতিটি মুমিন নারী-পুরুষ সম্পর্কে ভালো ধারণা রাখা ওয়াজিব, যদি না শরিয়ত অনুযায়ী উল্টোটা প্রমাণিত হয়। আর কেউ যদি এমন প্রমাণ ছাড়া কোনো মুসলিমকে অভিযোগে জড়ায়, তবে সে অভিযোগ প্রত্যাখ্যান করা আর তাকে মিথ্যা ঘোষণা করাও ওয়াজিব, কারণ এটা এক নিরপরাধ মানুষের গিবত ছাড়া কিছু নয়। মুয়াসসার সংক্ষেপে কথাগুলোকে বলে আয়েশা (রাঃ)-এর বিরুদ্ধে খোলা মিথ্যা।"
           },
           {
             "en": "At-Tabari preserves a sharper line from al-Hasan on the same clause. To call it a manifest lie, al-Hasan says, is to hold that such a thing ought not even to be uttered unless the speaker brings four witnesses and the legal charge is established — exactly what the next verse presses: why did they not bring four witnesses to it? (24:13). Speech about another's honour is not free. Until it is proven in the only way the law accepts, the believer's duty is to shut it down, not weigh it and repeat it.",
-            "bn": "তাবারী একই অংশ নিয়ে হাসানের আরও কড়া একটি কথা রেখে দেন। একে খোলা মিথ্যা বলার মানে, হাসান বলেন, এমন কথা মুখেই আনা উচিত নয় যদি না বক্তা চারজন সাক্ষী হাজির করে আর শরয়ি অভিযোগ প্রতিষ্ঠিত হয়। পরের আয়াতই এ চাপটা দেয়, তারা এর উপর চারজন সাক্ষী হাজির করল না কেন (২৪:১৩)। অন্যের সম্মান নিয়ে কথা বলা এমনি এমনি জায়েজ নয়। শরিয়ত যে একমাত্র পথ মানে, সেভাবে প্রমাণ না হওয়া পর্যন্ত মুমিনের কাজ কথাটা থামিয়ে দেওয়া, মেপে দেখে ছড়ানো নয়।"
+            "bn": "তাবারী একই অংশ নিয়ে হাসানের আরও কড়া একটি কথা রেখে দেন। একে খোলা মিথ্যা বলার মানে, হাসান বলেন, এমন কথা মুখেই আনা উচিত নয় যদি না বক্তা চারজন সাক্ষী হাজির করে আর শরয়ি অভিযোগ প্রতিষ্ঠিত হয়। পরের আয়াতই এ চাপটা দেয়, তারা এর উপর চারজন সাক্ষী হাজির করল না কেন (২৪:১৩)। অন্যের সম্মান নিয়ে কথা বলা এমনি এমনি জায়েজ নয়। শরিয়ত যে একমাত্র পথ মানে, সেভাবে প্রমাণ না হওয়া পর্যন্ত মুমিনের কাজ কথাটা থামিয়ে দেওয়া, মেপে দেখে ছড়ানো নয়।"
           }
         ]
       },
@@ -401,7 +401,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ma'arif al-Qur'an catches a turn in the grammar. After when you heard it, the sentence seemed set to continue in direct address, why did you not think well of your own selves. Instead it switches persons: why did the believers, men and women, not think well. The wording opens by speaking to you, and then withholds that you just where the rebuke bites, naming the believers in the third person rather than in the face.",
-            "bn": "মাআরিফুল কুরআন ব্যাকরণের একটা মোড় ধরিয়ে দেয়। 'তোমরা যখন শুনলে' বলার পর মনে হয়, বাক্যটা সরাসরি সম্বোধনেই চলবে: তোমরা কেন নিজেদের সম্পর্কে ভালো ধারণা করলে না? কিন্তু তা না হয়ে বাক্যটা বদলে যায়: মুমিন পুরুষ ও নারীরা কেন ভালো ধারণা করল না? শুরুতে কথাটা সরাসরি 'তোমরা' বলে ডাকে, তারপর ভর্ৎসনা ঠিক যেখানে বিঁধবে, সেখানেই সেই 'তোমরা' সরিয়ে নেয়। মুখের উপর না বলে বলে 'মুমিনরা', যেন অন্য কারও কথা।"
+            "bn": "মাআরিফুল কুরআন ব্যাকরণের একটা মোড় ধরিয়ে দেয়। 'তোমরা যখন শুনলে' বলার পর মনে হয়, বাক্যটা সরাসরি সম্বোধনেই চলবে: তোমরা কেন নিজেদের সম্পর্কে ভালো ধারণা করলে না? কিন্তু তা না হয়ে বাক্যটা বদলে যায়: মুমিন পুরুষ ও নারীরা কেন ভালো ধারণা করল না? শুরুতে কথাটা সরাসরি 'তোমরা' বলে ডাকে, তারপর ভর্ৎসনা ঠিক যেখানে বিঁধবে, সেখানেই সেই 'তোমরা' সরিয়ে নেয়। মুখের উপর না বলে বলে 'মুমিনরা', যেন অন্য কারও কথা।"
           },
           {
             "en": "Ma'arif reads a subtle allusion into the change. By naming the believers rather than saying you, the verse hints that in the measure of this act the speakers had fallen short of the very name, since faith itself demanded that a Muslim keep the favourable view of another. The title is held up as the thing they were not living up to. It is a rebuke delivered by withholding a single word.",
@@ -412,12 +412,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Suspicion, the Falsest Talk",
-          "bn": "সন্দেহ, সবচেয়ে বড় মিথ্যা"
+          "bn": "সন্দেহ, সবচেয়ে বড় মিথ্যা"
         },
         "p": [
           {
             "en": "The verse's demand is matched by a word of the Prophet ﷺ. Al-Bukhari records from Abu Hurayra (RA) that he ﷺ said: Beware of suspicion, for suspicion is the worst of false tales; and do not look for the others' faults, and do not spy, and do not be jealous of one another, and do not desert one another, and do not hate one another; and, O servants of Allah, be brothers. It is a sound narration of al-Bukhari. Suspicion is named not as a small fault but as the most lying speech, the seed this verse uproots.",
-            "bn": "আয়াতের এই দাবির সঙ্গে মিলে যায় নবী ﷺ-এর একটি কথা। বুখারী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: সন্দেহ থেকে বেঁচে থাকো, কারণ সন্দেহ হলো সবচেয়ে বড় মিথ্যা কথা; আর অন্যের দোষ খুঁজো না, গোয়েন্দাগিরি করো না, একে অন্যকে হিংসা করো না, একে অন্যের সঙ্গে সম্পর্ক ছিন্ন করো না, একে অন্যকে ঘৃণা করো না; আর হে আল্লাহর বান্দারা, ভাই ভাই হয়ে থাকো। এটি বুখারীর একটি সহিহ বর্ণনা। হাদিসটি সন্দেহকে ছোটখাটো দোষ বলেনি, বলেছে সবচেয়ে মিথ্যা কথা। এ আয়াত ঠিক এই বীজটাই উপড়ে ফেলে।"
+            "bn": "আয়াতের এই দাবির সঙ্গে মিলে যায় নবী ﷺ-এর একটি কথা। বুখারী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: সন্দেহ থেকে বেঁচে থাকো, কারণ সন্দেহ হলো সবচেয়ে বড় মিথ্যা কথা; আর অন্যের দোষ খুঁজো না, গোয়েন্দাগিরি করো না, একে অন্যকে হিংসা করো না, একে অন্যের সঙ্গে সম্পর্ক ছিন্ন করো না, একে অন্যকে ঘৃণা করো না; আর হে আল্লাহর বান্দারা, ভাই ভাই হয়ে থাকো। এটি বুখারীর একটি সহিহ বর্ণনা। হাদিসটি সন্দেহকে ছোটখাটো দোষ বলেনি, বলেছে সবচেয়ে মিথ্যা কথা। এ আয়াত ঠিক এই বীজটাই উপড়ে ফেলে।"
           },
           {
             "en": "Both Ibn Kathir and at-Tabari record that some believers met the test the verse sets. When Umm Ayyub asked her husband Abu Ayyub al-Ansari (RA) whether he had heard what people were saying, he answered that it was a lie, asked whether she herself would ever do such a thing, and when she said no, by Allah, replied that ʿĀʾishah (RA) was better than her. Some early authorities held the verse came down about that exchange; Ibn Kathir adds it was also said Ubayy ibn Kaʿb (RA) spoke its like.",
@@ -425,7 +425,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The affair itself is preserved in ʿĀʾishah's (RA) own long account, reported by al-Bukhari and Muslim, sound in both. Told in her voice, it moves through her distress to one destination: the coming down of the verses that declared her free of the charge. The believers around her had the same facts and far less cause to doubt, yet the account shows how readily a community carries a story it never checked. That gap, between what was known and what was repeated, is what this verse was sent to close.",
-            "bn": "গোটা ঘটনাটা রক্ষিত আছে আয়েশা (রাঃ)-এর নিজের দীর্ঘ বর্ণনায়, যা বুখারী ও মুসলিম দুই জায়গাতেই বর্ণিত, আর দুটিতেই সহিহ। তাঁর নিজের মুখে বলা এ ঘটনা তাঁর কষ্টের ভেতর দিয়ে গিয়ে একটিই গন্তব্যে পৌঁছায়, সেই আয়াতগুলোর নাজিল হওয়া যা তাঁকে অভিযোগ থেকে মুক্ত ঘোষণা করল। তাঁর চারপাশের মুমিনদের হাতে তাঁর মতোই তথ্য ছিল, সন্দেহের কারণ ছিল আরও কম, তবু বর্ণনাটা দেখিয়ে দেয় যাচাই না করা কথা বইতে একটা সমাজ কত সহজে রাজি হয়ে যায়। জানা আর ছড়ানোর মাঝের সেই ফাঁকটুকু বন্ধ করতেই এ আয়াত নাজিল হয়েছে।"
+            "bn": "গোটা ঘটনাটা রক্ষিত আছে আয়েশা (রাঃ)-এর নিজের দীর্ঘ বর্ণনায়, যা বুখারী ও মুসলিম দুই জায়গাতেই বর্ণিত, আর দুটিতেই সহিহ। তাঁর নিজের মুখে বলা এ ঘটনা তাঁর কষ্টের ভেতর দিয়ে গিয়ে একটিই গন্তব্যে পৌঁছায়, সেই আয়াতগুলোর নাজিল হওয়া যা তাঁকে অভিযোগ থেকে মুক্ত ঘোষণা করল। তাঁর চারপাশের মুমিনদের হাতে তাঁর মতোই তথ্য ছিল, সন্দেহের কারণ ছিল আরও কম, তবু বর্ণনাটা দেখিয়ে দেয় যাচাই না করা কথা বইতে একটা সমাজ কত সহজে রাজি হয়ে যায়। জানা আর ছড়ানোর মাঝের সেই ফাঁকটুকু বন্ধ করতেই এ আয়াত নাজিল হয়েছে।"
           }
         ]
       },
@@ -437,11 +437,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi turns the verse into a standing obligation, then a principle. Allah, he says, made it binding on the Muslims that when they hear a man slander someone and impute to him some ugliness they do not know of him, they reject it and give it the lie; and He warned whoever abandons that duty or passes the talk on. From this the scholars drew a rule al-Qurtubi states in his own words: the rank of faith a person has reached, the righteousness he stands in, the garment of chastity a Muslim wears, none is stripped by a doubtful report of corrupt or unknown origin, however far it spreads.",
-            "bn": "কুরতুবী আয়াতটিকে প্রথমে এক স্থায়ী দায়িত্ব, তারপর এক নীতি হিসেবে দাঁড় করান। তিনি বলেন, আল্লাহ মুসলিমদের উপর ওয়াজিব করেছেন: কেউ কারও নামে অপবাদ দিচ্ছে, তাকে এমন কোনো নোংরা কাজে জড়াচ্ছে যা তার সম্পর্কে তারা জানে না, এমন শুনলে তারা যেন কথাটা প্রত্যাখ্যান করে আর মিথ্যা বলে দেয়। আর যে এ দায়িত্ব ছেড়ে দেয় বা কথাটা আরও ছড়ায়, আল্লাহ তাকে সতর্ক করেছেন। এখান থেকে আলিমগণ একটি নীতি বের করেছেন, যা কুরতুবী নিজের ভাষায় বলেন: একজন মানুষ ঈমানের যে স্তরে পৌঁছেছে, নেককার জীবনের যে অবস্থানে দাঁড়িয়ে আছে, একজন মুসলিম সতীত্বের যে পোশাক পরে আছে, তার কোনোটাই কেড়ে নেওয়া যায় না এমন সন্দেহজনক খবরে, যার উৎস নষ্ট বা অজানা, তা যত দূরেই ছড়াক।"
+            "bn": "কুরতুবী আয়াতটিকে প্রথমে এক স্থায়ী দায়িত্ব, তারপর এক নীতি হিসেবে দাঁড় করান। তিনি বলেন, আল্লাহ মুসলিমদের উপর ওয়াজিব করেছেন: কেউ কারও নামে অপবাদ দিচ্ছে, তাকে এমন কোনো নোংরা কাজে জড়াচ্ছে যা তার সম্পর্কে তারা জানে না, এমন শুনলে তারা যেন কথাটা প্রত্যাখ্যান করে আর মিথ্যা বলে দেয়। আর যে এ দায়িত্ব ছেড়ে দেয় বা কথাটা আরও ছড়ায়, আল্লাহ তাকে সতর্ক করেছেন। এখান থেকে আলিমগণ একটি নীতি বের করেছেন, যা কুরতুবী নিজের ভাষায় বলেন: একজন মানুষ ঈমানের যে স্তরে পৌঁছেছে, নেককার জীবনের যে অবস্থানে দাঁড়িয়ে আছে, একজন মুসলিম সতীত্বের যে পোশাক পরে আছে, তার কোনোটাই কেড়ে নেওয়া যায় না এমন সন্দেহজনক খবরে, যার উৎস নষ্ট বা অজানা, তা যত দূরেই ছড়াক।"
           },
           {
             "en": "For the reader the verse is a rule for the moment a charge arrives, before any decision is made. The first instinct it asks for is good opinion; the first words, that an unproven charge is a lie; the first act it forbids, passing the talk along. None of this licenses ignoring a real wrong or silencing someone who reports being harmed. It is aimed squarely at the idle repeater, not at the one accused. It asks only that a believer's good name be as safe in your mouth as you would want your own to be in theirs.",
-            "bn": "পাঠকের জন্য এ আয়াত একটি নিয়ম, যা খাটে অভিযোগ কানে আসার মুহূর্তেই, কোনো সিদ্ধান্ত নেওয়ার আগে। মনের প্রথম প্রতিক্রিয়া হবে সুধারণা; মুখের প্রথম কথা হবে, প্রমাণহীন অভিযোগ মিথ্যা; আর প্রথম যে কাজটা নিষেধ, তা হলো কথাটা অন্যের কানে তোলা। এর কোনোটাই সত্যিকারের অন্যায় এড়িয়ে যাওয়ার অনুমতি দেয় না, আবার কেউ নিজের ক্ষতির কথা জানালে তাকে চুপ করানোরও অনুমতি দেয় না। আয়াতের নিশানা সোজা সেই লোকের দিকে, যে বসে বসে কথা ছড়ায়, অভিযুক্তের দিকে নয়। আয়াত শুধু এটুকু চায়: একজন মুমিনের সুনাম আপনার মুখে ততটাই নিরাপদ থাকুক, যতটা নিরাপদ আপনি চান আপনার নিজের সুনাম তার মুখে।"
+            "bn": "পাঠকের জন্য এ আয়াত একটি নিয়ম, যা খাটে অভিযোগ কানে আসার মুহূর্তেই, কোনো সিদ্ধান্ত নেওয়ার আগে। মনের প্রথম প্রতিক্রিয়া হবে সুধারণা; মুখের প্রথম কথা হবে, প্রমাণহীন অভিযোগ মিথ্যা; আর প্রথম যে কাজটা নিষেধ, তা হলো কথাটা অন্যের কানে তোলা। এর কোনোটাই সত্যিকারের অন্যায় এড়িয়ে যাওয়ার অনুমতি দেয় না, আবার কেউ নিজের ক্ষতির কথা জানালে তাকে চুপ করানোরও অনুমতি দেয় না। আয়াতের নিশানা সোজা সেই লোকের দিকে, যে বসে বসে কথা ছড়ায়, অভিযুক্তের দিকে নয়। আয়াত শুধু এটুকু চায়: একজন মুমিনের সুনাম আপনার মুখে ততটাই নিরাপদ থাকুক, যতটা নিরাপদ আপনি চান আপনার নিজের সুনাম তার মুখে।"
           }
         ]
       }
@@ -457,7 +457,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse stands inside the long passage, 24:11-26, that Allah sent down about the ifk — the slander against Aisha (RA), the Prophet's ﷺ wife. For a month the lie moved through Madinah; then revelation declared her innocence. What remained afterward was the human wreckage every vindication leaves behind: the injured family now knew exactly who had spread the story, and among the spreaders was a man they had been feeding.",
-            "bn": "আয়াতটি ২৪:১১-২৬ পর্যন্ত দীর্ঘ অংশের ভেতরে, যা আল্লাহ নাজিল করেছিলেন 'ইফক' নিয়ে, অর্থাৎ নবী ﷺ-এর স্ত্রী আয়েশা (রাঃ)-এর বিরুদ্ধে রটানো অপবাদ নিয়ে। এক মাস ধরে মিথ্যাটা মদীনায় ঘুরে বেড়াল; তারপর ওহি এসে তাঁর নির্দোষিতা ঘোষণা করল। কিন্তু প্রতিটি নির্দোষ প্রমাণের পর যেমন হয়, মানুষের মনে ভাঙচুরের দাগ রয়ে গেল। আঘাত পাওয়া পরিবারটি এখন ঠিক জানত, গল্পটা কারা ছড়িয়েছে। আর যারা ছড়িয়েছিল, তাদের মধ্যে ছিল এমন একজন, যাকে তারাই খাওয়াত।"
+            "bn": "আয়াতটি ২৪:১১-২৬ পর্যন্ত দীর্ঘ অংশের ভেতরে, যা আল্লাহ নাজিল করেছিলেন 'ইফক' নিয়ে, অর্থাৎ নবী ﷺ-এর স্ত্রী আয়েশা (রাঃ)-এর বিরুদ্ধে রটানো অপবাদ নিয়ে। এক মাস ধরে মিথ্যাটা মদীনায় ঘুরে বেড়াল; তারপর ওহি এসে তাঁর নির্দোষিতা ঘোষণা করল। কিন্তু প্রতিটি নির্দোষ প্রমাণের পর যেমন হয়, মানুষের মনে ভাঙচুরের দাগ রয়ে গেল। আঘাত পাওয়া পরিবারটি এখন ঠিক জানত, গল্পটা কারা ছড়িয়েছে। আর যারা ছড়িয়েছিল, তাদের মধ্যে ছিল এমন একজন, যাকে তারাই খাওয়াত।"
           },
           {
             "en": "Al-Bukhari relates the account from Aisha (RA) herself. Mistah ibn Uthathah (RA) — a poor emigrant, a relative of Abu Bakr (RA), and one of those who took part in the talk — lived on Abu Bakr's support. When the innocence came down, Abu Bakr swore he would never spend on Mistah again. By ordinary reckoning that oath was mild; he owed nothing to a man who had helped wound his daughter. The verse arrived to answer that reckoning.",
@@ -473,7 +473,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The wording never names anyone: let not those of fadl — virtue, bounty — and means among you swear against giving to the relatives, the poor and the emigrants in the way of Allah; wa-l-ya'fu wa-l-yasfahu, and let them pardon and let them overlook. The two verbs are distinct. 'Afw is dropping the claim against the offender; safh — from the turning of a page — is meeting him afterwards with a clear face, as though the offence were not kept on file.",
-            "bn": "আয়াতের ভাষায় কারও নাম নেই: তোমাদের মধ্যে যারা 'ফাদল' (মর্যাদা ও প্রাচুর্য) আর সামর্থ্যের অধিকারী, তারা যেন আত্মীয়, মিসকীন ও আল্লাহর পথে হিজরতকারীদের কিছু না দেওয়ার কসম না খায়; 'ওয়াল-ইয়াফূ ওয়াল-ইয়াসফাহূ', তারা যেন ক্ষমা করে আর উপেক্ষা করে। ক্রিয়া দুটি আলাদা। 'আফও' মানে অপরাধীর বিরুদ্ধে নিজের দাবি ছেড়ে দেওয়া। 'সাফহ' এসেছে পাতা উল্টানো থেকে; এর মানে এরপর তার সঙ্গে খোলা মুখে দেখা করা, যেন অপরাধটা কোথাও লিখে রাখা হয়নি।"
+            "bn": "আয়াতের ভাষায় কারও নাম নেই: তোমাদের মধ্যে যারা 'ফাদল' (মর্যাদা ও প্রাচুর্য) আর সামর্থ্যের অধিকারী, তারা যেন আত্মীয়, মিসকীন ও আল্লাহর পথে হিজরতকারীদের কিছু না দেওয়ার কসম না খায়; 'ওয়াল-ইয়াফূ ওয়াল-ইয়াসফাহূ', তারা যেন ক্ষমা করে আর উপেক্ষা করে। ক্রিয়া দুটি আলাদা। 'আফও' মানে অপরাধীর বিরুদ্ধে নিজের দাবি ছেড়ে দেওয়া। 'সাফহ' এসেছে পাতা উল্টানো থেকে; এর মানে এরপর তার সঙ্গে খোলা মুখে দেখা করা, যেন অপরাধটা কোথাও লিখে রাখা হয়নি।"
           },
           {
             "en": "Notice also how the verse names the wrongdoer: not as slanderer but as relative, poor, emigrant in Allah's path — three titles of claim. It refuses to let one sin delete a person's other truths. And it calls the giver a possessor of fadl before asking anything, arguing from his own excellence: generosity of your rank does not lapse because its recipient failed. The address dignifies both parties in the act of repairing them.",
@@ -489,7 +489,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then the sentence for which the verse is remembered: ala tuhibbuna an yaghfira Allahu lakum — would you not love that Allah should forgive you? It is a question, not a command, because it needs no command; only one answer exists. The verse sets the servant's pardon of a servant beside Allah's pardon of the servant and lets the sizes speak. Whoever holds a debt of injury holds it with hands that themselves owe Allah greater debts than that.",
-            "bn": "তারপর সেই বাক্য, যার জন্য আয়াতটি মানুষের মনে গেঁথে আছে: 'আলা তুহিব্বূনা আঁইয়াগফিরাল্লাহু লাকুম', তোমরা কি চাও না যে আল্লাহ তোমাদের ক্ষমা করুন? এটা প্রশ্ন, হুকুম নয়, কারণ হুকুমের দরকারই পড়ে না; উত্তর তো একটাই। আয়াত বান্দার প্রতি বান্দার ক্ষমাকে রাখে বান্দার প্রতি আল্লাহর ক্ষমার পাশে, তারপর দুটোর তফাতটা নিজেই বুঝে নিতে দেয়। যে মনে আঘাতের পাওনা পুষে রাখে, তার নিজের হাত দুটোই আল্লাহর কাছে এর চেয়ে অনেক বড় দেনায় বাঁধা।"
+            "bn": "তারপর সেই বাক্য, যার জন্য আয়াতটি মানুষের মনে গেঁথে আছে: 'আলা তুহিব্বূনা আঁইয়াগফিরাল্লাহু লাকুম', তোমরা কি চাও না যে আল্লাহ তোমাদের ক্ষমা করুন? এটা প্রশ্ন, হুকুম নয়, কারণ হুকুমের দরকারই পড়ে না; উত্তর তো একটাই। আয়াত বান্দার প্রতি বান্দার ক্ষমাকে রাখে বান্দার প্রতি আল্লাহর ক্ষমার পাশে, তারপর দুটোর তফাতটা নিজেই বুঝে নিতে দেয়। যে মনে আঘাতের পাওনা পুষে রাখে, তার নিজের হাত দুটোই আল্লাহর কাছে এর চেয়ে অনেক বড় দেনায় বাঁধা।"
           },
           {
             "en": "Aisha (RA) narrates the effect: Abu Bakr (RA) said, indeed I would love that Allah forgive me — and returned to Mistah the maintenance he used to give him, saying he would never withdraw it from him. The forgiveness was not a sentiment; it was a resumed payment. That is the verse's standard for pardon: restoration of the benefit the anger had cut, not merely the retirement of the grudge.",
@@ -500,7 +500,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Forgiveness in the Quran's Pattern",
-          "bn": "কুরআনের ধারায় ক্ষমা"
+          "bn": "কুরআনের ধারায় ক্ষমা"
         },
         "p": [
           {
@@ -521,14 +521,14 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse's difficulty is deliberate: it legislates pardon at its most expensive — wronged party, public injury, family involved, the offender dependent on the offended. Easy forgiveness needed no verse. By choosing the hardest configuration and commanding pardon there, the passage sets the ceiling for every lesser case: if Abu Bakr (RA) could resume feeding the man who had slandered his daughter, the cut-offs most of us maintain stand on far thinner ground. The verse closes: and Allah is Forgiving, Merciful — the names of the One whose treatment we are choosing for ourselves.",
-            "bn": "আয়াতটির কঠিনতা ইচ্ছাকৃত। এটি ক্ষমার বিধান দেয় ঠিক সেখানে, যেখানে ক্ষমার দাম সবচেয়ে বেশি: যার উপর অন্যায় হয়েছে, আঘাতটা প্রকাশ্য, পরিবার জড়িত, আর অপরাধী নির্ভর করে তারই উপর যাকে সে আঘাত দিয়েছে। সহজ ক্ষমার জন্য আয়াতের দরকার ছিল না। সবচেয়ে কঠিন অবস্থাটা বেছে নিয়ে সেখানেই ক্ষমার হুকুম দিয়ে আয়াত সব ছোটখাটো ঘটনার জন্য সর্বোচ্চ মাপটা ঠিক করে দেয়। আবু বকর (রাঃ) যদি তাঁর মেয়ের নামে অপবাদ রটানো লোকটিকে আবার খাওয়াতে পারেন, তবে আমরা বেশির ভাগ মানুষ যেসব সম্পর্ক ছিন্ন করে বসে আছি, সেগুলোর যুক্তি অনেক দুর্বল। আয়াত শেষ হয় এ কথায়: আর আল্লাহ ক্ষমাশীল, পরম দয়ালু। এ দুটি সেই সত্তার নাম, যাঁর আচরণ আমরা নিজেদের জন্য বেছে নিচ্ছি।"
+            "bn": "আয়াতটির কঠিনতা ইচ্ছাকৃত। এটি ক্ষমার বিধান দেয় ঠিক সেখানে, যেখানে ক্ষমার দাম সবচেয়ে বেশি: যার উপর অন্যায় হয়েছে, আঘাতটা প্রকাশ্য, পরিবার জড়িত, আর অপরাধী নির্ভর করে তারই উপর যাকে সে আঘাত দিয়েছে। সহজ ক্ষমার জন্য আয়াতের দরকার ছিল না। সবচেয়ে কঠিন অবস্থাটা বেছে নিয়ে সেখানেই ক্ষমার হুকুম দিয়ে আয়াত সব ছোটখাটো ঘটনার জন্য সর্বোচ্চ মাপটা ঠিক করে দেয়। আবু বকর (রাঃ) যদি তাঁর মেয়ের নামে অপবাদ রটানো লোকটিকে আবার খাওয়াতে পারেন, তবে আমরা বেশির ভাগ মানুষ যেসব সম্পর্ক ছিন্ন করে বসে আছি, সেগুলোর যুক্তি অনেক দুর্বল। আয়াত শেষ হয় এ কথায়: আর আল্লাহ ক্ষমাশীল, পরম দয়ালু। এ দুটি সেই সত্তার নাম, যাঁর আচরণ আমরা নিজেদের জন্য বেছে নিচ্ছি।"
           }
         ]
       },
       {
         "h": {
           "en": "Practising the Verse",
-          "bn": "আয়াতটির অনুশীলন"
+          "bn": "আয়াতটির অনুশীলন"
         },
         "p": [
           {
@@ -549,7 +549,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Nur opens by curbing what corrupts a society, fixing punishments for indecency and cursing those who fling a false charge at a chaste woman. Ma'arif al-Qur'an reads the command to seek leave before entering a home, isti'dhan, as one of the quieter rules that follow, placed deliberately beside the penalties for adultery and slander, because a household walked into unannounced is exactly where a stray glance and a ruined name begin.",
-            "bn": "সূরা আন-নূর শুরু হয় সমাজকে যা নষ্ট করে তা ঠেকানো দিয়ে: অশ্লীলতার শাস্তি ঠিক করে দেয়, আর সতী নারীর উপর যারা মিথ্যা অপবাদ ছোড়ে তাদের অভিশাপ দেয়। মাআরিফুল কুরআন ঘরে ঢোকার আগে অনুমতি চাওয়ার হুকুম, অর্থাৎ ইস্তিআযানকে, এর পরে আসা অপেক্ষাকৃত নীরব নিয়মগুলোর একটি হিসেবে পড়ে। ইচ্ছা করেই একে ব্যভিচার আর অপবাদের শাস্তির পাশে রাখা হয়েছে। কারণ না জানিয়ে ঢুকে পড়া ঘরেই শুরু হয় বেখেয়ালি দৃষ্টি আর নষ্ট সুনামের গল্প।"
+            "bn": "সূরা আন-নূর শুরু হয় সমাজকে যা নষ্ট করে তা ঠেকানো দিয়ে: অশ্লীলতার শাস্তি ঠিক করে দেয়, আর সতী নারীর উপর যারা মিথ্যা অপবাদ ছোড়ে তাদের অভিশাপ দেয়। মাআরিফুল কুরআন ঘরে ঢোকার আগে অনুমতি চাওয়ার হুকুম, অর্থাৎ ইস্তিআযানকে, এর পরে আসা অপেক্ষাকৃত নীরব নিয়মগুলোর একটি হিসেবে পড়ে। ইচ্ছা করেই একে ব্যভিচার আর অপবাদের শাস্তির পাশে রাখা হয়েছে। কারণ না জানিয়ে ঢুকে পড়া ঘরেই শুরু হয় বেখেয়ালি দৃষ্টি আর নষ্ট সুনামের গল্প।"
           },
           {
             "en": "The verse is eighteen words, opening with 'O you who believe.' Ibn Kathir calls it simply the Islamic etiquette: do not enter houses other than your own until you seek leave and greet the people inside. Muqatil bin Hayyan, whom Ibn Kathir quotes, describes what it replaced. In the days of ignorance a man would walk straight into another's house saying only that he had come in, hard on a host who might be sitting with his wife. The command shut that door and made entry a thing asked for.",
@@ -693,7 +693,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse cannot be read alone, and was never meant to be. The command just before it, in 24:30, tells the believing men to lower their gaze and guard their chastity. Then 24:31 opens with a single connecting word, wa-qul, and tell, so the charge to the believing women arrives as the twin of the charge to the men. Ma'arif al-Qur'an notes the plain fact: in its opening the injunction laid on women is exactly the one laid on men just before, then extended for them.",
-            "bn": "আয়াতটি একা পড়া যায় না, আর একা পড়ার জন্য নাজিলও হয়নি। ঠিক আগের আদেশ, ২৪:৩০, মু’মিন পুরুষদের বলছে দৃষ্টি নামিয়ে রাখতে আর নিজেদের লজ্জাস্থান হেফাজত করতে। এরপর ২৪:৩১ শুরু হয় একটিমাত্র জোড়া-শব্দ দিয়ে, ওয়া কুল, আর বলে দাও। ফলে মু’মিন নারীদের প্রতি আদেশটা আসে পুরুষদের প্রতি আদেশটার যমজ হয়ে। মাআরিফুল কুরআন সোজা কথাটাই ধরিয়ে দেয়: শুরুতে নারীদের ওপর যে হুকুম, তা হুবহু আগের আয়াতে পুরুষদের ওপর রাখা হুকুমটাই, তারপর তাদের জন্য আরও বাড়িয়ে দেওয়া হলো।"
+            "bn": "আয়াতটি একা পড়া যায় না, আর একা পড়ার জন্য নাজিলও হয়নি। ঠিক আগের আদেশ, ২৪:৩০, মু’মিন পুরুষদের বলছে দৃষ্টি নামিয়ে রাখতে আর নিজেদের লজ্জাস্থান হেফাজত করতে। এরপর ২৪:৩১ শুরু হয় একটিমাত্র জোড়া-শব্দ দিয়ে, ওয়া কুল, আর বলে দাও। ফলে মু’মিন নারীদের প্রতি আদেশটা আসে পুরুষদের প্রতি আদেশটার যমজ হয়ে। মাআরিফুল কুরআন সোজা কথাটাই ধরিয়ে দেয়: শুরুতে নারীদের ওপর যে হুকুম, তা হুবহু আগের আয়াতে পুরুষদের ওপর রাখা হুকুমটাই, তারপর তাদের জন্য আরও বাড়িয়ে দেওয়া হলো।"
           },
           {
             "en": "So the reader should set aside the idea that modesty is a weight placed on women while men stand by. The order runs the other way. Allah addresses the men first, in their own verse, and only then turns, with the same verbs, to the women. What the two verses share is more than wording; it is a single principle of guarded sight and guarded self, asked of the whole believing community. The details that follow for women are additions to that shared foundation, not a burden invented for one half of it.",
@@ -724,12 +724,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Except What Ordinarily Shows",
-          "bn": "যা এমনিতেই প্রকাশ পায়"
+          "bn": "যা এমনিতেই প্রকাশ পায়"
         },
         "p": [
           {
             "en": "Wa-la yubdina zinatahunna illa ma zahara minha: and let them not display their adornment except what ordinarily appears of it. The clause turns on that last phrase, the single most debated point in the verse. At-Tabari lays the difference out fully. One group, headed by Ibn Mas'ud, took ma zahara to mean only the outer garment, the rida', the wrap a woman cannot hide when she goes out; al-Hasan and Ibrahim an-Nakha'i are named with him. The other, reported from Ibn Abbas through Sa'id ibn Jubayr, took it to mean the face and the hands.",
-            "bn": "ওয়া লা ইউবদীনা যীনাতাহুন্না ইল্লা মা যাহারা মিনহা: আর তারা যেন তাদের শোভা প্রকাশ না করে, তবে যা এমনিতেই প্রকাশ পায় তা ছাড়া। বাক্যটির ভার ওই শেষ কথাটার ওপর, আর এটাই আয়াতের সবচেয়ে আলোচিত বিন্দু। তাবারী মতভেদটা পুরোপুরি খুলে বলেন। একটি দল, যার মাথায় ইবন মাসঊদ (রাঃ), মা যাহারা বলতে নিয়েছেন কেবল বাইরের পোশাক, রিদা, বেরোনোর সময় নারী যা লুকাতে পারে না; তাঁর সঙ্গে নাম আসে হাসান আর ইবরাহীম নাখঈর। অন্য দল, ইবন আব্বাস (রাঃ) থেকে সাঈদ ইবন জুবায়রের সূত্রে বর্ণিত, নিয়েছেন চেহারা ও দুই হাত।"
+            "bn": "ওয়া লা ইউবদীনা যীনাতাহুন্না ইল্লা মা যাহারা মিনহা: আর তারা যেন তাদের শোভা প্রকাশ না করে, তবে যা এমনিতেই প্রকাশ পায় তা ছাড়া। বাক্যটির ভার ওই শেষ কথাটার ওপর, আর এটাই আয়াতের সবচেয়ে আলোচিত বিন্দু। তাবারী মতভেদটা পুরোপুরি খুলে বলেন। একটি দল, যার মাথায় ইবন মাসঊদ (রাঃ), মা যাহারা বলতে নিয়েছেন কেবল বাইরের পোশাক, রিদা, বেরোনোর সময় নারী যা লুকাতে পারে না; তাঁর সঙ্গে নাম আসে হাসান আর ইবরাহীম নাখঈর। অন্য দল, ইবন আব্বাস (রাঃ) থেকে সাঈদ ইবন জুবায়রের সূত্রে বর্ণিত, নিয়েছেন চেহারা ও দুই হাত।"
           },
           {
             "en": "At-Tabari, having weighed them, favoured the second: the words mean the face and the two hands, and into that he folds the kohl, the ring and the bracelet worn on them. Ibn Kathir carries the earlier reading from Ibn Mas'ud, that it is the clothes and outer garment, because that is what a woman genuinely cannot conceal. Ma'arif al-Qur'an frames the whole dispute as turning on whether the face and hands may be uncovered before non-mahram men, and reports the reconciling view of al-Baydawi and al-Khazin: the exception covers whatever uncovers of itself in a woman's ordinary work.",
@@ -744,7 +744,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Drawing the Headcover Close",
-          "bn": "মাথার কাপড় বুকের উপর"
+          "bn": "মাথার কাপড় বুকের উপর"
         },
         "p": [
           {
@@ -753,14 +753,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "How the first believing women received this is itself part of the meaning, and it is warm, not stern. Al-Bukhari records from Safiyya bint Shayba that A'isha, may Allah be pleased with her, used to say: \"When this verse, and let them draw their headcovers over their bosoms, was revealed, they took their waist-sheets and cut them at the edges and covered themselves with them.\" The report is in Bukhari's own collection, so it is sound. The picture is of women who hurried to obey the very moment the command came.",
-            "bn": "প্রথম মু’মিন নারীরা এটা কীভাবে গ্রহণ করলেন, সেটাও অর্থের অংশ, আর তা কঠোর নয়, উষ্ণ। বুখারী সাফিয়্যা বিনতে শায়বা থেকে বর্ণনা করেন যে আয়েশা (রাঃ) বলতেন: “যখন এ আয়াত, আর তারা যেন মাথার কাপড় বুকের উপর টেনে দেয়, নাজিল হলো, তখন তাঁরা নিজেদের কোমরের চাদর নিয়ে ধারের দিক থেকে চিরে সেগুলো দিয়ে নিজেদের ঢাকলেন।” বর্ণনাটি বুখারীর নিজের সংকলনে আছে, তাই তা সহীহ। ছবিটা এমন নারীদের, যাঁরা হুকুম আসার মুহূর্তেই ছুটে গেলেন তা মানতে।"
+            "bn": "প্রথম মু’মিন নারীরা এটা কীভাবে গ্রহণ করলেন, সেটাও অর্থের অংশ, আর তা কঠোর নয়, উষ্ণ। বুখারী সাফিয়্যা বিনতে শায়বা থেকে বর্ণনা করেন যে আয়েশা (রাঃ) বলতেন: “যখন এ আয়াত, আর তারা যেন মাথার কাপড় বুকের উপর টেনে দেয়, নাজিল হলো, তখন তাঁরা নিজেদের কোমরের চাদর নিয়ে ধারের দিক থেকে চিরে সেগুলো দিয়ে নিজেদের ঢাকলেন।” বর্ণনাটি বুখারীর নিজের সংকলনে আছে, তাই তা সহীহ। ছবিটা এমন নারীদের, যাঁরা হুকুম আসার মুহূর্তেই ছুটে গেলেন তা মানতে।"
           }
         ]
       },
       {
         "h": {
           "en": "Those Kept Nothing From",
-          "bn": "যাদের থেকে আড়াল নেই"
+          "bn": "যাদের থেকে আড়াল নেই"
         },
         "p": [
           {
@@ -792,7 +792,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Not Even the Anklet's Ring",
-          "bn": "নূপুরের শব্দটুকুও নয়"
+          "bn": "নূপুরের শব্দটুকুও নয়"
         },
         "p": [
           {
@@ -896,7 +896,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Prayer for Light",
-          "bn": "নূরের দোয়া"
+          "bn": "নূরের দোয়া"
         },
         "p": [
           {
@@ -953,11 +953,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Sarab is the mirage, and qi'ah, Ibn Kathir explains, is a wide flat level tract of ground — the terrain that makes the illusion possible in the first place. The word qi'ah occurs only here in the Quran. Sarab occurs in one other verse: 78:20 says that the mountains are set moving and become a mirage. The Quran's only other use of the word is of mountains turning into one.",
-            "bn": "'সারাব' মানে মরীচিকা; আর 'কীআহ', ইবনে কাসীরের ব্যাখ্যায়, হলো প্রশস্ত সমতল ভূমি — যে ভূপ্রকৃতি প্রথমেই এই ভ্রমটিকে সম্ভব করে তোলে। 'কীআহ' শব্দটি কুরআনে কেবল এখানেই এসেছে। 'সারাব' এসেছে আর একটি আয়াতে: 78:20 বলে, পাহাড়গুলোকে চালিত করা হবে, ফলে সেগুলো মরীচিকা হয়ে যাবে। কুরআনে এই শব্দের একমাত্র অন্য ব্যবহারটি পাহাড়ের মরীচিকা হয়ে যাওয়া নিয়েই।"
+            "bn": "'সারাব' মানে মরীচিকা; আর 'কীআহ', ইবনে কাসীরের ব্যাখ্যায়, হলো প্রশস্ত সমতল ভূমি — যে ভূপ্রকৃতি প্রথমেই এই ভ্রমটিকে সম্ভব করে তোলে। 'কীআহ' শব্দটি কুরআনে কেবল এখানেই এসেছে। 'সারাব' এসেছে আর একটি আয়াতে: 78:20 বলে, পাহাড়গুলোকে চালিত করা হবে, ফলে সেগুলো মরীচিকা হয়ে যাবে। কুরআনে এই শব্দের একমাত্র অন্য ব্যবহারটি পাহাড়ের মরীচিকা হয়ে যাওয়া নিয়েই।"
           },
           {
             "en": "The choice of a mirage rather than, say, a ruin or an ash-heap matters. A ruin announces itself. A mirage is at its most convincing while it is still far off and most useful to believe in, and it fails only on arrival, when there is no time and no water left to try anything else. Nothing about the traveller's effort was wrong. Everything about the object was.",
-            "bn": "ধ্বংসস্তূপ বা ছাইয়ের গাদা না বেছে মরীচিকা বেছে নেওয়াটা তাৎপর্যপূর্ণ। ধ্বংসস্তূপ নিজেই নিজের পরিচয় দিয়ে দেয়। মরীচিকা সবচেয়ে বিশ্বাসযোগ্য থাকে তখনই, যখন তা এখনো বহু দূরে এবং যখন তাতে বিশ্বাস রাখাই সবচেয়ে কাজে লাগে; আর তা ব্যর্থ হয় কেবল পৌঁছানোর মুহূর্তে, যখন অন্য কিছু চেষ্টা করার মতো সময়ও নেই, পানিও নেই। পথিকের পরিশ্রমে কোনো ভুল ছিল না। ভুল ছিল লক্ষ্যবস্তুর সবকিছুতে।"
+            "bn": "ধ্বংসস্তূপ বা ছাইয়ের গাদা না বেছে মরীচিকা বেছে নেওয়াটা তাৎপর্যপূর্ণ। ধ্বংসস্তূপ নিজেই নিজের পরিচয় দিয়ে দেয়। মরীচিকা সবচেয়ে বিশ্বাসযোগ্য থাকে তখনই, যখন তা এখনো বহু দূরে এবং যখন তাতে বিশ্বাস রাখাই সবচেয়ে কাজে লাগে; আর তা ব্যর্থ হয় কেবল পৌঁছানোর মুহূর্তে, যখন অন্য কিছু চেষ্টা করার মতো সময়ও নেই, পানিও নেই। পথিকের পরিশ্রমে কোনো ভুল ছিল না। ভুল ছিল লক্ষ্যবস্তুর সবকিছুতে।"
           }
         ]
       },
@@ -980,7 +980,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "He Did Not Find Nothing",
-          "bn": "সে শূন্যতা পায়নি"
+          "bn": "সে শূন্যতা পায়নি"
         },
         "p": [
           {
@@ -989,19 +989,19 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The Quran says the same thing without the image in several places. 18:104 describes those whose effort in the worldly life is lost while they think they are doing well in work, and 18:105 explains that their deeds became worthless. 25:23 says Allah will turn to what they did of deeds and make them scattered dust; Ibn Kathir cites that verse here. 14:18 gives ashes blown about on a stormy day.",
-            "bn": "কুরআন একই কথা ছবি ছাড়াই বলেছে আরও কয়েক জায়গায়। 18:104 বর্ণনা করে তাদের, দুনিয়ার জীবনে যাদের সব পরিশ্রম বৃথা গেছে অথচ তারা মনে করে তারা ভালোই কাজ করছে; আর 18:105 ব্যাখ্যা করে যে তাদের আমল নিষ্ফল হয়ে গেছে। 25:23 বলে, তারা যেসব আমল করেছে আল্লাহ সেদিকে অগ্রসর হয়ে সেগুলোকে বিক্ষিপ্ত ধূলিকণা বানিয়ে দেবেন; ইবনে কাসীর এখানে এই আয়াতটিই উদ্ধৃত করেন। 14:18 দেয় ঝড়ের দিনে উড়ে যাওয়া ছাইয়ের ছবি।"
+            "bn": "কুরআন একই কথা ছবি ছাড়াই বলেছে আরও কয়েক জায়গায়। 18:104 বর্ণনা করে তাদের, দুনিয়ার জীবনে যাদের সব পরিশ্রম বৃথা গেছে অথচ তারা মনে করে তারা ভালোই কাজ করছে; আর 18:105 ব্যাখ্যা করে যে তাদের আমল নিষ্ফল হয়ে গেছে। 25:23 বলে, তারা যেসব আমল করেছে আল্লাহ সেদিকে অগ্রসর হয়ে সেগুলোকে বিক্ষিপ্ত ধূলিকণা বানিয়ে দেবেন; ইবনে কাসীর এখানে এই আয়াতটিই উদ্ধৃত করেন। 14:18 দেয় ঝড়ের দিনে উড়ে যাওয়া ছাইয়ের ছবি।"
           }
         ]
       },
       {
         "h": {
           "en": "Not the Same as 24:40",
-          "bn": "24:40-এর মতো নয়"
+          "bn": "24:40-এর মতো নয়"
         },
         "p": [
           {
             "en": "The next verse gives a second parable, and the two are often run together. They should not be. 24:40 pictures darknesses in a deep sea, waves over waves with clouds above them, so that a man stretching out his hand can hardly see it. Ibn Kathir separates them carefully: the mirage is for the one whose ignorance is compound, the darkness for the one whose ignorance is simple.",
-            "bn": "পরের আয়াতটি দ্বিতীয় একটি উপমা দেয়, আর দুটিকে প্রায়ই একসঙ্গে মিশিয়ে ফেলা হয়। তা করা উচিত নয়। 24:40 আঁকে গভীর সমুদ্রের অন্ধকার — ঢেউয়ের ওপর ঢেউ, তার ওপরে মেঘ; ফলে কেউ হাত বের করলে তা প্রায় দেখতেই পায় না। ইবনে কাসীর দুটিকে সাবধানে আলাদা করেন: মরীচিকা তার জন্য যার অজ্ঞতা যৌগিক, আর অন্ধকার তার জন্য যার অজ্ঞতা সরল।"
+            "bn": "পরের আয়াতটি দ্বিতীয় একটি উপমা দেয়, আর দুটিকে প্রায়ই একসঙ্গে মিশিয়ে ফেলা হয়। তা করা উচিত নয়। 24:40 আঁকে গভীর সমুদ্রের অন্ধকার — ঢেউয়ের ওপর ঢেউ, তার ওপরে মেঘ; ফলে কেউ হাত বের করলে তা প্রায় দেখতেই পায় না। ইবনে কাসীর দুটিকে সাবধানে আলাদা করেন: মরীচিকা তার জন্য যার অজ্ঞতা যৌগিক, আর অন্ধকার তার জন্য যার অজ্ঞতা সরল।"
           }
         ]
       },
@@ -1028,16 +1028,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "From Sky to Ground",
-          "bn": "আকাশ ছেড়ে মাটির দিকে"
+          "bn": "আকাশ ছেড়ে মাটির দিকে"
         },
         "p": [
           {
             "en": "The verses just before this one sweep the sky. Allah drives the clouds and packs them into a mass until the rain breaks from within it, He alternates the night and the day, and He calls it all a lesson for people who have eyes (24:43 and 24:44). Then, with the same particle of wonder that opened those signs, the gaze drops from the heavens to the ground underfoot: wa-llāhu khalaqa kulla dābbah, and Allah created every moving creature. The wonders overhead and the small lives crossing the road are being read off one page.",
-            "bn": "ঠিক আগের আয়াতগুলো আকাশ জুড়ে ঘোরে। আল্লাহ মেঘ চালান, জমিয়ে স্তূপ করেন, তারপর তার ভেতর থেকে বৃষ্টি বেরিয়ে আসে, তিনি রাত আর দিনকে পালা করে আনেন, আর এ সবকিছুকে বলেন চোখওয়ালা মানুষের জন্য শিক্ষা (২৪:৪৩ ও ২৪:৪৪)। তারপর সেই একই বিস্ময়ের সুরে দৃষ্টি আকাশ থেকে নেমে আসে পায়ের নিচের মাটিতে: ওয়াল্লাহু খালাকা কুল্লা দাব্বাহ, আল্লাহ প্রতিটি চলমান প্রাণীকে সৃষ্টি করেছেন। মাথার উপরের বিস্ময় আর পথ পেরোনো ছোট ছোট প্রাণ, দুই-ই যেন এক পাতা থেকে পড়া হচ্ছে।"
+            "bn": "ঠিক আগের আয়াতগুলো আকাশ জুড়ে ঘোরে। আল্লাহ মেঘ চালান, জমিয়ে স্তূপ করেন, তারপর তার ভেতর থেকে বৃষ্টি বেরিয়ে আসে, তিনি রাত আর দিনকে পালা করে আনেন, আর এ সবকিছুকে বলেন চোখওয়ালা মানুষের জন্য শিক্ষা (২৪:৪৩ ও ২৪:৪৪)। তারপর সেই একই বিস্ময়ের সুরে দৃষ্টি আকাশ থেকে নেমে আসে পায়ের নিচের মাটিতে: ওয়াল্লাহু খালাকা কুল্লা দাব্বাহ, আল্লাহ প্রতিটি চলমান প্রাণীকে সৃষ্টি করেছেন। মাথার উপরের বিস্ময় আর পথ পেরোনো ছোট ছোট প্রাণ, দুই-ই যেন এক পাতা থেকে পড়া হচ্ছে।"
           },
           {
             "en": "Al-Qurtubi pauses on the word dābbah itself: it is everything that crawls or moves on the face of the earth, from the verb dabba, yadibbu, to creep along. The claim the verse then makes is sweeping — every last one of them, He made from water. Before any detail about legs or bellies, the sentence has already set its frame: a single Maker standing behind the whole moving, breathing world, so that what follows is not a nature note but evidence offered to a watching heart.",
-            "bn": "কুরতুবী থামেন দাব্বাহ শব্দটির উপর: যা কিছু জমিনের বুকে হেঁটে বা গড়িয়ে চলে, তা-ই দাব্বাহ, দাব্বা-ইয়াদিব্বু ধাতু থেকে, যার মানে গুটিগুটি চলা। এরপর আয়াত যে দাবি করে তা বিশাল। এদের প্রত্যেককে তিনি পানি থেকে গড়েছেন। পা বা পেটের কোনো খুঁটিনাটির আগেই বাক্যটি তার কাঠামো দাঁড় করিয়ে দেয়: গোটা চলমান, নিশ্বাস নেওয়া জগতের পেছনে একজনই স্রষ্টা। ফলে যা আসছে তা কেবল প্রকৃতির টুকরো নয়, তা এক জাগ্রত হৃদয়ের সামনে পেশ করা প্রমাণ।"
+            "bn": "কুরতুবী থামেন দাব্বাহ শব্দটির উপর: যা কিছু জমিনের বুকে হেঁটে বা গড়িয়ে চলে, তা-ই দাব্বাহ, দাব্বা-ইয়াদিব্বু ধাতু থেকে, যার মানে গুটিগুটি চলা। এরপর আয়াত যে দাবি করে তা বিশাল। এদের প্রত্যেককে তিনি পানি থেকে গড়েছেন। পা বা পেটের কোনো খুঁটিনাটির আগেই বাক্যটি তার কাঠামো দাঁড় করিয়ে দেয়: গোটা চলমান, নিশ্বাস নেওয়া জগতের পেছনে একজনই স্রষ্টা। ফলে যা আসছে তা কেবল প্রকৃতির টুকরো নয়, তা এক জাগ্রত হৃদয়ের সামনে পেশ করা প্রমাণ।"
           }
         ]
       },
@@ -1049,7 +1049,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators note that the opening words come in two accepted recitations. Al-Baghawi and al-Qurtubi record that Hamza and al-Kisā'ī read khāliqu kulli dābbah as a genitive construction, the Creator of every creature, while the others read khalaqa kulla dābbah as a plain past-tense verb, created every creature. Al-Qurtubi adds that the participle reading was also known from Yaḥyā ibn Waththāb and al-Aʿmash. It is a small turn of grammar over one word, and the mufassirūn treat both wordings as established Qur'an.",
-            "bn": "তাফসীরকারেরা লক্ষ করেন, শুরুর শব্দ দুটি কিরাআতে পড়া হয়। বাগভী আর কুরতুবী জানান, হামযা ও কিসাঈ পড়েছেন খালিকু কুল্লি দাব্বাহ, ইদাফতের গঠনে, অর্থাৎ প্রতিটি প্রাণীর স্রষ্টা। বাকিরা পড়েছেন খালাকা কুল্লা দাব্বাহ, সাধারণ অতীত ক্রিয়ায়, অর্থাৎ প্রতিটি প্রাণীকে সৃষ্টি করেছেন। কুরতুবী যোগ করেন, ইসম-ফা'য়িলের এই পড়াটি ইয়াহইয়া ইবন ওয়াসসাব ও আ'মাশ থেকেও জানা যায়। একটি শব্দের উপর ব্যাকরণের সামান্য মোড়, আর মুফাসসিরগণ দুই পাঠকেই প্রতিষ্ঠিত কুরআন হিসেবে ধরেন।"
+            "bn": "তাফসীরকারেরা লক্ষ করেন, শুরুর শব্দ দুটি কিরাআতে পড়া হয়। বাগভী আর কুরতুবী জানান, হামযা ও কিসাঈ পড়েছেন খালিকু কুল্লি দাব্বাহ, ইদাফতের গঠনে, অর্থাৎ প্রতিটি প্রাণীর স্রষ্টা। বাকিরা পড়েছেন খালাকা কুল্লা দাব্বাহ, সাধারণ অতীত ক্রিয়ায়, অর্থাৎ প্রতিটি প্রাণীকে সৃষ্টি করেছেন। কুরতুবী যোগ করেন, ইসম-ফা'য়িলের এই পড়াটি ইয়াহইয়া ইবন ওয়াসসাব ও আ'মাশ থেকেও জানা যায়। একটি শব্দের উপর ব্যাকরণের সামান্য মোড়, আর মুফাসসিরগণ দুই পাঠকেই প্রতিষ্ঠিত কুরআন হিসেবে ধরেন।"
           },
           {
             "en": "At-Tabari calls them two well-known readings, close in meaning, and says whoever recites by either is correct, since the participle carries the sense of the past — the creating has already happened. Al-Qurtubi refuses to rank them: Allah has given two true reports here, and one should not say that either recitation is sounder than the other. He mentions a nuance some raised, that the verb khalaqa suits a particular act while the name the Creator, the Maker speaks of Him in general, yet he lets both stand undisturbed.",
@@ -1060,20 +1060,20 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "What the Water Means",
-          "bn": "পানি বলতে কী বোঝায়"
+          "bn": "পানি বলতে কী বোঝায়"
         },
         "p": [
           {
             "en": "The commentators divide over what water means here. At-Tabari and al-Baghawi gloss min mā' as from a drop of fluid, min nuṭfah, every animal issuing from the seed of its own kind. Al-Qurtubi reports this as the reading of the mufassirūn, and cites an-Naqqāsh, who took it to mean the seed of the males. On this understanding the verse stays close to the eye: you already know how a creature comes to be, and the Qur'an points you to that familiar beginning and names it the handiwork of God.",
-            "bn": "পানি এখানে কী বোঝায়, তা নিয়ে তাফসীরকারেরা ভাগ হয়ে যান। তাবারী আর বাগভী মিন মা-এর অর্থ করেন বীর্যের ফোঁটা থেকে, মিন নুতফাহ, প্রতিটি প্রাণী তার নিজ জাতের বীজ থেকে বেরিয়ে আসে। কুরতুবী একে মুফাসসিরদের পাঠ বলে জানান, আর নাক্কাশের কথা তোলেন, যিনি এর মানে নিয়েছিলেন পুরুষের বীজ। এই বোঝায় আয়াত চোখের খুব কাছে থাকে: কীভাবে একটি প্রাণী জন্ম নেয় তা আপনি জানেনই, আর কুরআন সেই পরিচিত শুরুটার দিকেই আঙুল তুলে তাকে আল্লাহর কারিগরি বলে ডাকে।"
+            "bn": "পানি এখানে কী বোঝায়, তা নিয়ে তাফসীরকারেরা ভাগ হয়ে যান। তাবারী আর বাগভী মিন মা-এর অর্থ করেন বীর্যের ফোঁটা থেকে, মিন নুতফাহ, প্রতিটি প্রাণী তার নিজ জাতের বীজ থেকে বেরিয়ে আসে। কুরতুবী একে মুফাসসিরদের পাঠ বলে জানান, আর নাক্কাশের কথা তোলেন, যিনি এর মানে নিয়েছিলেন পুরুষের বীজ। এই বোঝায় আয়াত চোখের খুব কাছে থাকে: কীভাবে একটি প্রাণী জন্ম নেয় তা আপনি জানেনই, আর কুরআন সেই পরিচিত শুরুটার দিকেই আঙুল তুলে তাকে আল্লাহর কারিগরি বলে ডাকে।"
           },
           {
             "en": "A second reading widens the frame. Al-Qurtubi ascribes to the majority of thinkers the view that every creature's very making holds water, as Adam was made from water and clay — water as the origin of all life, not merely the fluid of breeding. As-Saʿdī gathers both: animals that reproduce take their matter from the fluid of the seed, while creatures that arise from the earth, like insects, arise only from watery moisture and never from anything dry. The material is one, he says, and he cites the word, and We made from water every living thing (21:30).",
-            "bn": "দ্বিতীয় একটি পাঠ পরিধি বাড়িয়ে দেয়। কুরতুবী অধিকাংশ চিন্তাবিদের বরাতে বলেন, প্রতিটি প্রাণীর গড়নের ভেতরেই পানি আছে, যেমন আদম (আঃ) সৃষ্টি হয়েছেন পানি আর মাটি থেকে। এখানে পানি মানে সব প্রাণের উৎস, কেবল বংশবৃদ্ধির তরল নয়। সা'দী দুটোকেই একসাথে ধরেন: যেসব প্রাণী বংশ বাড়ায় তাদের উপাদান বীজের তরল, আর যেসব প্রাণী মাটি থেকে জন্মায়, যেমন পোকামাকড়, তারা কেবল পানিভেজা আর্দ্রতা থেকেই জন্মায়, কখনো শুকনো কিছু থেকে নয়। উপাদান এক, তিনি বলেন, আর তিনি উদ্ধৃত করেন এই কথা, আর আমি পানি থেকে সৃষ্টি করেছি প্রতিটি জীবন্ত বস্তু (২১:৩০)।"
+            "bn": "দ্বিতীয় একটি পাঠ পরিধি বাড়িয়ে দেয়। কুরতুবী অধিকাংশ চিন্তাবিদের বরাতে বলেন, প্রতিটি প্রাণীর গড়নের ভেতরেই পানি আছে, যেমন আদম (আঃ) সৃষ্টি হয়েছেন পানি আর মাটি থেকে। এখানে পানি মানে সব প্রাণের উৎস, কেবল বংশবৃদ্ধির তরল নয়। সা'দী দুটোকেই একসাথে ধরেন: যেসব প্রাণী বংশ বাড়ায় তাদের উপাদান বীজের তরল, আর যেসব প্রাণী মাটি থেকে জন্মায়, যেমন পোকামাকড়, তারা কেবল পানিভেজা আর্দ্রতা থেকেই জন্মায়, কখনো শুকনো কিছু থেকে নয়। উপাদান এক, তিনি বলেন, আর তিনি উদ্ধৃত করেন এই কথা, আর আমি পানি থেকে সৃষ্টি করেছি প্রতিটি জীবন্ত বস্তু (২১:৩০)।"
           },
           {
             "en": "Al-Qurtubi backs this wider reading with an exchange at Badr, when the Prophet ﷺ, asked from whom he and his companion came, answered, we are from water — a narration he adduces only as a witness to how min mā' can carry the sense of origin, not as a ruling read onto the verse. The classical commentaries attach no sound Prophetic report that explains the āyah itself. Al-Baghawi and al-Qurtubi both mark a boundary: the statement does not take in the angels or the jinn, since we do not observe them, and the authentic reports say the angels were made from light and the jinn from fire.",
-            "bn": "কুরতুবী এই ব্যাপক পাঠের সমর্থনে আনেন বদরের একটি ঘটনা, যেখানে নবী ﷺ-কে জিজ্ঞেস করা হয়েছিল তিনি ও তাঁর সঙ্গী কোথাকার, তিনি জবাব দিলেন, আমরা পানি থেকে। এটি তিনি আনেন কেবল ভাষার সাক্ষী হিসেবে, মিন মা কীভাবে উৎসের অর্থ বহন করতে পারে তা দেখাতে, আয়াতের উপর চাপানো কোনো বিধান হিসেবে নয়। ধ্রুপদি তাফসীরগুলো এ আয়াতের ব্যাখ্যায় কোনো বিশুদ্ধ মারফু হাদিস যুক্ত করে না। বাগভী ও কুরতুবী দুজনেই একটি সীমা টানেন: এই কথা ফেরেশতা বা জিনকে ধরে না, কেননা আমরা তাদের দেখি না, আর বিশুদ্ধ বর্ণনায় ফেরেশতা আলো থেকে আর জিন আগুন থেকে সৃষ্ট।"
+            "bn": "কুরতুবী এই ব্যাপক পাঠের সমর্থনে আনেন বদরের একটি ঘটনা, যেখানে নবী ﷺ-কে জিজ্ঞেস করা হয়েছিল তিনি ও তাঁর সঙ্গী কোথাকার, তিনি জবাব দিলেন, আমরা পানি থেকে। এটি তিনি আনেন কেবল ভাষার সাক্ষী হিসেবে, মিন মা কীভাবে উৎসের অর্থ বহন করতে পারে তা দেখাতে, আয়াতের উপর চাপানো কোনো বিধান হিসেবে নয়। ধ্রুপদি তাফসীরগুলো এ আয়াতের ব্যাখ্যায় কোনো বিশুদ্ধ মারফু হাদিস যুক্ত করে না। বাগভী ও কুরতুবী দুজনেই একটি সীমা টানেন: এই কথা ফেরেশতা বা জিনকে ধরে না, কেননা আমরা তাদের দেখি না, আর বিশুদ্ধ বর্ণনায় ফেরেশতা আলো থেকে আর জিন আগুন থেকে সৃষ্ট।"
           }
         ]
       },
@@ -1085,7 +1085,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse sorts the creatures by how they move. Of them, some go on their bellies. Ibn Kathir names the snake and its like; al-Qurtubi widens the belly-goers to take in the fish and the worm and their kind; al-Baghawi lists snakes, fish and worms together; and the Muyassar keeps it plain, describing them as those that crawl, zaḥfan, on their bellies. At-Tabari flags the oddity that walking is properly done on limbs, yet the verse speaks of walking on a belly, and answers that the word is stretched to cover the legless once they are grouped with the legged.",
-            "bn": "আয়াত প্রাণীদের সাজায় তাদের চলার ধরন দিয়ে। এদের কেউ কেউ পেটে ভর দিয়ে চলে। ইবন কাসীর নাম নেন সাপ ও তার মতো প্রাণীর। কুরতুবী পেটে-চলা দলে টেনে আনেন মাছ আর কীট ও তাদের জাতকে। বাগভী একসাথে গোনেন সাপ, মাছ আর কেঁচো। মুয়াসসার সাদামাটাভাবে বলে, এরা পেটে ভর দিয়ে গুটিগুটি চলে, যাহফান। তাবারী একটা খটকা ধরিয়ে দেন, চলা তো হয় পায়ের উপর, অথচ আয়াত বলছে পেটের উপর চলা। জবাবে তিনি বলেন, পা-ওয়ালাদের সঙ্গে পা-হীনদের এক দলে রাখায় শব্দটিকে টেনে দুই জাতের উপরই খাটানো হয়েছে।"
+            "bn": "আয়াত প্রাণীদের সাজায় তাদের চলার ধরন দিয়ে। এদের কেউ কেউ পেটে ভর দিয়ে চলে। ইবন কাসীর নাম নেন সাপ ও তার মতো প্রাণীর। কুরতুবী পেটে-চলা দলে টেনে আনেন মাছ আর কীট ও তাদের জাতকে। বাগভী একসাথে গোনেন সাপ, মাছ আর কেঁচো। মুয়াসসার সাদামাটাভাবে বলে, এরা পেটে ভর দিয়ে গুটিগুটি চলে, যাহফান। তাবারী একটা খটকা ধরিয়ে দেন, চলা তো হয় পায়ের উপর, অথচ আয়াত বলছে পেটের উপর চলা। জবাবে তিনি বলেন, পা-ওয়ালাদের সঙ্গে পা-হীনদের এক দলে রাখায় শব্দটিকে টেনে দুই জাতের উপরই খাটানো হয়েছে।"
           },
           {
             "en": "The other two classes are named the same way, each with its examples. Of them, some walk on two legs — the human being and the birds, say Ibn Kathir, at-Tabari and as-Saʿdī. And of them, some walk on four: the cattle and the grazing beasts, to which al-Baghawi adds the beasts of prey and al-Qurtubi the rest of the animals. Read straight down, the sentence is a small ordering of life drawn not to inform but to make you notice how unlike these gaits are, all sprung from one word, water.",
@@ -1112,7 +1112,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Word for Persons",
-          "bn": "মানুষের জন্য গড়া শব্দ"
+          "bn": "মানুষের জন্য গড়া শব্দ"
         },
         "p": [
           {
@@ -1144,7 +1144,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "What He Wills, He Creates",
-          "bn": "যা চান, তাই গড়েন"
+          "bn": "যা চান, তাই গড়েন"
         },
         "p": [
           {
@@ -1153,7 +1153,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This is where the verse lands on a reader. It asks for no theory of biology, and it is not a coded science lesson to be decoded — it asks for the older, plainer response of a wonder that turns into worship. Let the next creature you pass, a sparrow, an ant, a dog asleep in the sun, stop you for a breath. One water stands behind it, one Maker chose its form, and He who drew such range from so little is able to bring about, in your life and beyond it, whatever He wills.",
-            "bn": "এখানেই আয়াত পাঠকের বুকে এসে নামে। এ জীববিজ্ঞানের কোনো তত্ত্ব চায় না, আর এটা কোনো গূঢ় বিজ্ঞানের পাঠও নয় যা খুলে পড়ে দেখাতে হবে। এ চায় সেই পুরোনো, সরল সাড়া, যে বিস্ময় গিয়ে ইবাদতে বদলে যায়। পাশ দিয়ে যাওয়া পরের প্রাণীটা, একটা চড়ুই, একটা পিঁপড়া, রোদে ঘুমানো একটা কুকুর, আপনাকে এক নিশ্বাসের জন্য থামিয়ে দিক। এর পেছনে দাঁড়িয়ে আছে এক পানি, এক স্রষ্টা বেছে নিয়েছেন এর রূপ, আর যিনি এত সামান্য থেকে এত বিস্তার এঁকেছেন, তিনি আপনার জীবনে ও তার বাইরে যা চান তাই আনতে সক্ষম।"
+            "bn": "এখানেই আয়াত পাঠকের বুকে এসে নামে। এ জীববিজ্ঞানের কোনো তত্ত্ব চায় না, আর এটা কোনো গূঢ় বিজ্ঞানের পাঠও নয় যা খুলে পড়ে দেখাতে হবে। এ চায় সেই পুরোনো, সরল সাড়া, যে বিস্ময় গিয়ে ইবাদতে বদলে যায়। পাশ দিয়ে যাওয়া পরের প্রাণীটা, একটা চড়ুই, একটা পিঁপড়া, রোদে ঘুমানো একটা কুকুর, আপনাকে এক নিশ্বাসের জন্য থামিয়ে দিক। এর পেছনে দাঁড়িয়ে আছে এক পানি, এক স্রষ্টা বেছে নিয়েছেন এর রূপ, আর যিনি এত সামান্য থেকে এত বিস্তার এঁকেছেন, তিনি আপনার জীবনে ও তার বাইরে যা চান তাই আনতে সক্ষম।"
           }
         ]
       }
@@ -1164,12 +1164,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Summons They Refuse",
-          "bn": "যে ডাক তারা এড়িয়ে যায়"
+          "bn": "যে ডাক তারা এড়িয়ে যায়"
         },
         "p": [
           {
             "en": "The verses just before this one draw a portrait. In 24:47 a group say with their tongues, \"We have believed in Allah and in the Messenger, and we obey,\" and then a party of them turns away. Ibn Kathir's abridged commentary reads this as people whose deeds contradict their words: they say that which they do not do. Then 24:48 sharpens it — when they are called to Allah and His Messenger to judge between them, at once a party of them turns aside in refusal. The loud claim of faith and the quiet flight from judgment sit side by side.",
-            "bn": "এই আয়াতের ঠিক আগের আয়াতগুলো একটা ছবি আঁকে। ২৪:৪৭ আয়াতে একদল মুখে বলে, আমরা আল্লাহ ও রাসূলের প্রতি ইমান আনলাম, মেনেও নিলাম। তারপর তাদেরই একদল মুখ ফিরিয়ে নেয়। ইবন কাসীরের সংক্ষিপ্ত তাফসীর একে পড়ে এভাবে: এদের কাজ তাদের কথার উল্টো, মুখে যা বলে কাজে তা করে না। তারপর ২৪:৪৮ আয়াত কথাটা আরও ধারালো করে। তাদের মাঝে ফয়সালার জন্য আল্লাহ ও তাঁর রাসূলের দিকে ডাকা হলে তাদের একদল তখনই মুখ ফিরিয়ে নেয়। ইমানের জোরালো দাবি আর ফয়সালা থেকে চুপচাপ পালানো, দুটো পাশাপাশি বসে থাকে।"
+            "bn": "এই আয়াতের ঠিক আগের আয়াতগুলো একটা ছবি আঁকে। ২৪:৪৭ আয়াতে একদল মুখে বলে, আমরা আল্লাহ ও রাসূলের প্রতি ইমান আনলাম, মেনেও নিলাম। তারপর তাদেরই একদল মুখ ফিরিয়ে নেয়। ইবন কাসীরের সংক্ষিপ্ত তাফসীর একে পড়ে এভাবে: এদের কাজ তাদের কথার উল্টো, মুখে যা বলে কাজে তা করে না। তারপর ২৪:৪৮ আয়াত কথাটা আরও ধারালো করে। তাদের মাঝে ফয়সালার জন্য আল্লাহ ও তাঁর রাসূলের দিকে ডাকা হলে তাদের একদল তখনই মুখ ফিরিয়ে নেয়। ইমানের জোরালো দাবি আর ফয়সালা থেকে চুপচাপ পালানো, দুটো পাশাপাশি বসে থাকে।"
           },
           {
             "en": "What exposes them is 24:49: \"But if the right is theirs, they come to him in prompt obedience.\" Ibn Kathir explains that when the ruling will fall in their favour they come willingly and listen and obey; but if it will go against a man, he turns away and would rather be judged by someone other than the Prophet ﷺ, so that his false claim might prevail. His eagerness was never a love of the truth. It was that the truth, for the moment, matched what he wanted. The instant it stopped matching, he was gone.",
@@ -1212,7 +1212,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Or Have They Doubted",
-          "bn": "নাকি তারা সন্দেহে পড়েছে"
+          "bn": "নাকি তারা সন্দেহে পড়েছে"
         },
         "p": [
           {
@@ -1228,7 +1228,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Fearing an Unjust Verdict",
-          "bn": "অন্যায় রায়ের ভয়"
+          "bn": "অন্যায় রায়ের ভয়"
         },
         "p": [
           {
@@ -1248,12 +1248,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Occasion Behind It",
-          "bn": "যে ঘটনায় নাজিল হলো"
+          "bn": "যে ঘটনায় নাজিল হলো"
         },
         "p": [
           {
             "en": "Ma'arif al-Qur'an relates, on the authority of at-Tabari and others, that these verses came down over a particular incident. A hypocrite named Bishr had a dispute with a Jewish man over a piece of land. The Jew proposed taking the matter to the Prophet ﷺ for judgment. Bishr, knowing he was in the wrong and that the Prophet ﷺ would decide the case on its merits and so rule against him, refused, and pressed instead to take it to Ka'b ibn al-Ashraf. On this the verses were revealed. The turning-away of 24:48 has, in this account, a face and a name.",
-            "bn": "মাআরিফুল কুরআন তাবারী ও অন্যদের সূত্রে বর্ণনা করে যে এই আয়াতগুলো একটা নির্দিষ্ট ঘটনাকে ঘিরে নাজিল হয়। বিশর নামের এক মুনাফিকের সঙ্গে এক ইহুদির এক টুকরো জমি নিয়ে বিবাদ ছিল। ইহুদি প্রস্তাব দেয়, বিষয়টা নবী ﷺ-এর কাছে ফয়সালার জন্য নেওয়া হোক। বিশর জানত সে অন্যায়ের উপর আছে, আর নবী ﷺ ন্যায্যতার ভিত্তিতে বিচার করে তার বিরুদ্ধেই রায় দেবেন। তাই সে রাজি হলো না, বরং জোর দিল কা’ব ইবন আল-আশরাফের কাছে নেওয়ার। এ নিয়েই আয়াতগুলো নাজিল হয়। এই বর্ণনায় ২৪:৪৮ আয়াতের মুখ ফেরানোর একটা চেহারা আছে, একটা নাম আছে।"
+            "bn": "মাআরিফুল কুরআন তাবারী ও অন্যদের সূত্রে বর্ণনা করে যে এই আয়াতগুলো একটা নির্দিষ্ট ঘটনাকে ঘিরে নাজিল হয়। বিশর নামের এক মুনাফিকের সঙ্গে এক ইহুদির এক টুকরো জমি নিয়ে বিবাদ ছিল। ইহুদি প্রস্তাব দেয়, বিষয়টা নবী ﷺ-এর কাছে ফয়সালার জন্য নেওয়া হোক। বিশর জানত সে অন্যায়ের উপর আছে, আর নবী ﷺ ন্যায্যতার ভিত্তিতে বিচার করে তার বিরুদ্ধেই রায় দেবেন। তাই সে রাজি হলো না, বরং জোর দিল কা’ব ইবন আল-আশরাফের কাছে নেওয়ার। এ নিয়েই আয়াতগুলো নাজিল হয়। এই বর্ণনায় ২৪:৪৮ আয়াতের মুখ ফেরানোর একটা চেহারা আছে, একটা নাম আছে।"
           },
           {
             "en": "Ma'arif then draws a careful point from the verse's own wording. To ask \"is there a malady in their hearts?\" is, it says, to set aside firm unbelief and doubt of prophethood as the real cause of Bishr's evasion. Unbelief and doubt are real enough among the hypocrites, but the underlying driver here was plainer and uglier: he knew that a case decided on merit was a case he would lose. Ibn Kathir approaches the same words from another side, holding that whichever of the three it is, it amounts to pure disbelief. The verse carries both the motive and the verdict.",
@@ -1293,7 +1293,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The very next verse holds up the opposite heart. When the believers are called to Allah and His Messenger to judge between them, their only word is \"we hear and we obey,\" and 24:51 seals them as the successful. The difference between the two hearts is not how much each one knows, for both hear the same summons. It is what each does when the ruling crosses his wishes. To submit when the verdict may cost you something is the exact test the hypocrite failed. That surrender, offered before you know which way the ruling will fall, is what real faith looks like.",
-            "bn": "ঠিক পরের আয়াতটাই উল্টো অন্তরটাকে সামনে ধরে। মুমিনদের যখন তাদের মাঝে ফয়সালার জন্য আল্লাহ ও তাঁর রাসূলের দিকে ডাকা হয়, তাদের একটাই কথা, ‘আমরা শুনলাম ও মানলাম’, আর ২৪:৫১ আয়াত তাদের সফলকাম বলে সিলমোহর দেয়। দুই অন্তরের পার্থক্য এই নয় যে কে কতটা জানে, কারণ দুজনেই একই ডাক শোনে। পার্থক্য হলো, রায় নিজের চাওয়ার উল্টো গেলে কে কী করে। রায় হয়তো কিছু খেসারত চাইবে জেনেও মেনে নেওয়া, এই তো সেই পরীক্ষা যেখানে মুনাফিক ফেল করেছিল। রায় কোন দিকে যাবে তা জানার আগেই করা এই আত্মসমর্পণই খাঁটি ইমানের চেহারা।"
+            "bn": "ঠিক পরের আয়াতটাই উল্টো অন্তরটাকে সামনে ধরে। মুমিনদের যখন তাদের মাঝে ফয়সালার জন্য আল্লাহ ও তাঁর রাসূলের দিকে ডাকা হয়, তাদের একটাই কথা, ‘আমরা শুনলাম ও মানলাম’, আর ২৪:৫১ আয়াত তাদের সফলকাম বলে সিলমোহর দেয়। দুই অন্তরের পার্থক্য এই নয় যে কে কতটা জানে, কারণ দুজনেই একই ডাক শোনে। পার্থক্য হলো, রায় নিজের চাওয়ার উল্টো গেলে কে কী করে। রায় হয়তো কিছু খেসারত চাইবে জেনেও মেনে নেওয়া, এই তো সেই পরীক্ষা যেখানে মুনাফিক ফেল করেছিল। রায় কোন দিকে যাবে তা জানার আগেই করা এই আত্মসমর্পণই খাঁটি ইমানের চেহারা।"
           }
         ]
       }
@@ -1345,7 +1345,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The reciters read the phrase two ways. The readers of Medina and Basra raised the word, so that it stands as a fresh statement in its own right: these are three times of privacy. The Kufans, among them Hamza and al-Kisa'i, read it in the accusative, tying it back to the three times named just before. At-Tabari judges the two readings close in meaning and both sound, so that whichever a reciter recites he is correct, and al-Farra' preferred the first as the clearer. Either way the ruling that the phrase carries does not change.",
-            "bn": "ক্বারীরা কথাটি দুইভাবে পড়েন। মদীনা ও বসরার ক্বারীরা শব্দটিকে পেশ দিয়ে পড়েন, যাতে তা নিজে থেকেই এক নতুন বাক্য হয়ে দাঁড়ায়: এ তোমাদের তিনটি আবরুহীন সময়। কূফার ক্বারীরা, যাদের মধ্যে হামযা ও কিসাঈ, একে যবর দিয়ে পড়েন, ঠিক আগে বলা তিন সময়ের সঙ্গে জুড়ে দিয়ে। তাবারী দুটি পাঠকেই অর্থে কাছাকাছি আর দুটোই বিশুদ্ধ বলে রায় দেন, তাই ক্বারী যেভাবেই পড়ুক সে সঠিক, আর ফাররা প্রথমটিকে বেশি স্পষ্ট বলে পছন্দ করেন। যেভাবেই পড়া হোক, কথাটি যে বিধান বহন করে তা বদলায় না।"
+            "bn": "ক্বারীরা কথাটি দুইভাবে পড়েন। মদীনা ও বসরার ক্বারীরা শব্দটিকে পেশ দিয়ে পড়েন, যাতে তা নিজে থেকেই এক নতুন বাক্য হয়ে দাঁড়ায়: এ তোমাদের তিনটি আবরুহীন সময়। কূফার ক্বারীরা, যাদের মধ্যে হামযা ও কিসাঈ, একে যবর দিয়ে পড়েন, ঠিক আগে বলা তিন সময়ের সঙ্গে জুড়ে দিয়ে। তাবারী দুটি পাঠকেই অর্থে কাছাকাছি আর দুটোই বিশুদ্ধ বলে রায় দেন, তাই ক্বারী যেভাবেই পড়ুক সে সঠিক, আর ফাররা প্রথমটিকে বেশি স্পষ্ট বলে পছন্দ করেন। যেভাবেই পড়া হোক, কথাটি যে বিধান বহন করে তা বদলায় না।"
           }
         ]
       },
@@ -1416,7 +1416,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Teaching the Soft Knock",
-          "bn": "মৃদু কড়া নাড়া শেখানো"
+          "bn": "মৃদু কড়া নাড়া শেখানো"
         },
         "p": [
           {
@@ -1436,16 +1436,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Two Reliefs, One Verse",
-          "bn": "এক আয়াতে দুই স্বস্তি"
+          "bn": "এক আয়াতে দুই স্বস্তি"
         },
         "p": [
           {
             "en": "This is the longest verse in Surah an-Nur, 76 words, doing two things at once. First: laysa 'ala al-a'ma harajun — there is no haraj, no constraint, on the blind, the lame or the ill. Then it opens a long list of houses — your own, your parents', your siblings', your uncles' and aunts', the house whose keys you keep, a friend's — with no blame in eating from any of them, together or apart. as-Sa'di reads the verse as God announcing His favour: He placed no haraj in the religion, but eased it to the limit.",
-            "bn": "সূরা নূরের সবচেয়ে দীর্ঘ আয়াত এটি, ৭৬টি শব্দ, একসঙ্গে দুটি বড় কাজ করে। প্রথমে: লাইসা আলাল আ'মা হারাজ, অন্ধ, খোঁড়া বা অসুস্থের উপর কোনো হারাজ নেই, কোনো সংকোচ বা বাধা নেই। তারপর ঘরের এক লম্বা তালিকা খোলে, নিজের ঘর, বাবা-মায়ের ঘর, ভাই-বোনের ঘর, চাচা-ফুফু-মামা-খালার ঘর, যে ঘরের চাবি আপনার জিম্মায়, বন্ধুর ঘর। এসবের কোনোটি থেকে খেতে দোষ নেই, একসঙ্গে হোক কিংবা আলাদা। সা'দী আয়াতটিকে পড়েন আল্লাহর অনুগ্রহের ঘোষণা হিসেবে, তিনি দ্বীনে কোনো হারাজ রাখেননি, বরং সহজ করেছেন একেবারে শেষ সীমা পর্যন্ত।"
+            "bn": "সূরা নূরের সবচেয়ে দীর্ঘ আয়াত এটি, ৭৬টি শব্দ, একসঙ্গে দুটি বড় কাজ করে। প্রথমে: লাইসা আলাল আ'মা হারাজ, অন্ধ, খোঁড়া বা অসুস্থের উপর কোনো হারাজ নেই, কোনো সংকোচ বা বাধা নেই। তারপর ঘরের এক লম্বা তালিকা খোলে, নিজের ঘর, বাবা-মায়ের ঘর, ভাই-বোনের ঘর, চাচা-ফুফু-মামা-খালার ঘর, যে ঘরের চাবি আপনার জিম্মায়, বন্ধুর ঘর। এসবের কোনোটি থেকে খেতে দোষ নেই, একসঙ্গে হোক কিংবা আলাদা। সা'দী আয়াতটিকে পড়েন আল্লাহর অনুগ্রহের ঘোষণা হিসেবে, তিনি দ্বীনে কোনো হারাজ রাখেননি, বরং সহজ করেছেন একেবারে শেষ সীমা পর্যন্ত।"
           },
           {
             "en": "Hold the two halves together and the theme is one: a faith that removes needless hardship, and a life warm enough that kitchens, keys and tables pass easily between people who love one another. The verse does not treat these as separate topics. It moves from the person who felt he did not belong at the meal, straight to the meal itself, and then to the greeting exchanged at the door. Ease first, then belonging, then peace spoken aloud. Where the commentators disagree — sharply, over the opening line — this article keeps the disagreement open.",
-            "bn": "দুই অংশকে একসঙ্গে ধরলে বিষয়টা একটাই। এমন এক দ্বীন, যা অপ্রয়োজনীয় কষ্ট সরিয়ে দেয়, আর এমন এক জীবন, যেখানে যারা একে অপরকে ভালোবাসে তাদের মধ্যে রান্নাঘর, চাবি আর দস্তরখান সহজে হাতবদল হয়। আয়াত এ দুটিকে আলাদা প্রসঙ্গ ভাবে না। যে মানুষ খাবারের আসরে নিজেকে বেমানান ভাবত, তার কথা থেকে সোজা চলে যায় খাবারের কথায়, তারপর দরজায় দেওয়া সালামের কথায়। আগে সহজতা, তারপর আপন হওয়া, তারপর মুখে উচ্চারিত শান্তি। যেখানে তাফসীরকারেরা দ্বিমত করেন, শুরুর লাইনটি নিয়ে তীব্রভাবেই, সেখানে এ লেখা দ্বিমতটাকে খোলা রাখে।"
+            "bn": "দুই অংশকে একসঙ্গে ধরলে বিষয়টা একটাই। এমন এক দ্বীন, যা অপ্রয়োজনীয় কষ্ট সরিয়ে দেয়, আর এমন এক জীবন, যেখানে যারা একে অপরকে ভালোবাসে তাদের মধ্যে রান্নাঘর, চাবি আর দস্তরখান সহজে হাতবদল হয়। আয়াত এ দুটিকে আলাদা প্রসঙ্গ ভাবে না। যে মানুষ খাবারের আসরে নিজেকে বেমানান ভাবত, তার কথা থেকে সোজা চলে যায় খাবারের কথায়, তারপর দরজায় দেওয়া সালামের কথায়। আগে সহজতা, তারপর আপন হওয়া, তারপর মুখে উচ্চারিত শান্তি। যেখানে তাফসীরকারেরা দ্বিমত করেন, শুরুর লাইনটি নিয়ে তীব্রভাবেই, সেখানে এ লেখা দ্বিমতটাকে খোলা রাখে।"
           }
         ]
       },
@@ -1461,7 +1461,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the blind man is not pitied here, and the lame man not managed. They are told they belong — at the meal, in the household, in the circle the verse draws so wide. The disability clause is no footnote to a passage about food; it is why the passage opens as it does. God settles the person most likely to hold back before He describes the table everyone is welcome at. The verse gives no ground to anyone who would treat a blind, lame or ill person as a lesser guest or an object of charity, not a companion.",
-            "bn": "তাই অন্ধ মানুষটিকে এখানে করুণা করা হচ্ছে না, খোঁড়া মানুষটিকে সামলানো হচ্ছে না। তাদের বলা হচ্ছে, তোমরা এখানকারই লোক, খাবারের আসরে, ঘরের ভেতরে, আয়াত যে বৃত্ত এত চওড়া করে আঁকে তার ভেতরে। এভাবে পড়লে অক্ষমতার এই কথাটা খাবার নিয়ে আলোচনার পাদটীকা নয়, বরং এ কারণেই আলোচনাটা এভাবে শুরু হয়। যে মানুষটি সবচেয়ে বেশি পিছিয়ে থাকতে পারে, দস্তরখানের বর্ণনার আগে আল্লাহ তাকেই শান্ত করেন। আয়াত এমন কাউকে এক বিন্দু জায়গা দেয় না, যে অন্ধ, খোঁড়া বা অসুস্থ মানুষকে সঙ্গীর বদলে কম মর্যাদার অতিথি বা দয়ার পাত্র বলে দেখে।"
+            "bn": "তাই অন্ধ মানুষটিকে এখানে করুণা করা হচ্ছে না, খোঁড়া মানুষটিকে সামলানো হচ্ছে না। তাদের বলা হচ্ছে, তোমরা এখানকারই লোক, খাবারের আসরে, ঘরের ভেতরে, আয়াত যে বৃত্ত এত চওড়া করে আঁকে তার ভেতরে। এভাবে পড়লে অক্ষমতার এই কথাটা খাবার নিয়ে আলোচনার পাদটীকা নয়, বরং এ কারণেই আলোচনাটা এভাবে শুরু হয়। যে মানুষটি সবচেয়ে বেশি পিছিয়ে থাকতে পারে, দস্তরখানের বর্ণনার আগে আল্লাহ তাকেই শান্ত করেন। আয়াত এমন কাউকে এক বিন্দু জায়গা দেয় না, যে অন্ধ, খোঁড়া বা অসুস্থ মানুষকে সঙ্গীর বদলে কম মর্যাদার অতিথি বা দয়ার পাত্র বলে দেখে।"
           }
         ]
       },
@@ -1488,7 +1488,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Open Doors of Kin",
-          "bn": "আত্মীয়ের খোলা দরজা"
+          "bn": "আত্মীয়ের খোলা দরজা"
         },
         "p": [
           {
@@ -1509,7 +1509,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two clauses stretch the circle past blood. The first is aw ma malaktum mafatihahu, the houses whose keys you possess. as-Sa'di reads these as houses you administer by agency or guardianship, and argues against reading it as an owned slave: you do not hold a slave's keys, but the slave himself, and his house is already his master's, so a lifting there says nothing. Sa'id ibn Jubayr and as-Suddi, in Ibn Kathir, read it as the servant or steward, who may eat from what is stored with him; al-Baghawi carries 'Ikrima's line that whoever holds the key may take a little.",
-            "bn": "দুটি কথা বৃত্তটাকে রক্তের সম্পর্কের বাইরে টানে। প্রথমটি আও মা মালাকতুম মাফাতিহাহু, যেসব ঘরের চাবি তোমাদের হাতে। সা'দী এগুলোকে পড়েন সেসব ঘর হিসেবে, যা আপনি প্রতিনিধিত্ব বা তত্ত্বাবধানের জোরে চালান। মালিকানাধীন দাস অর্থ নেওয়ার বিরুদ্ধে তিনি দৃঢ় যুক্তি দেন, দাস সম্পর্কে বলা হয় না তার চাবি আপনার, বলা হয় সে-ই আপনার। আর দাসের ঘর তো এমনিতেই মালিকের ঘরের ভেতরে, সেখানে সংকোচ তোলার কথা কিছুই বলত না। ইবন কাসীরে সাঈদ ইবন জুবায়র আর সুদ্দী এটিকে পড়েন ঘরের খাদেম বা কর্মচারী হিসেবে, যে জিম্মায় রাখা জিনিস থেকে খেতে পারে। বাগাভী ইকরিমার কথা আনেন, যার হাতে চাবি সে-ই রক্ষক, অল্প কিছু খেতে পারে।"
+            "bn": "দুটি কথা বৃত্তটাকে রক্তের সম্পর্কের বাইরে টানে। প্রথমটি আও মা মালাকতুম মাফাতিহাহু, যেসব ঘরের চাবি তোমাদের হাতে। সা'দী এগুলোকে পড়েন সেসব ঘর হিসেবে, যা আপনি প্রতিনিধিত্ব বা তত্ত্বাবধানের জোরে চালান। মালিকানাধীন দাস অর্থ নেওয়ার বিরুদ্ধে তিনি দৃঢ় যুক্তি দেন, দাস সম্পর্কে বলা হয় না তার চাবি আপনার, বলা হয় সে-ই আপনার। আর দাসের ঘর তো এমনিতেই মালিকের ঘরের ভেতরে, সেখানে সংকোচ তোলার কথা কিছুই বলত না। ইবন কাসীরে সাঈদ ইবন জুবায়র আর সুদ্দী এটিকে পড়েন ঘরের খাদেম বা কর্মচারী হিসেবে, যে জিম্মায় রাখা জিনিস থেকে খেতে পারে। বাগাভী ইকরিমার কথা আনেন, যার হাতে চাবি সে-ই রক্ষক, অল্প কিছু খেতে পারে।"
           },
           {
             "en": "The keys clause has a story. Ibn Kathir reports from 'Urwa that 'A'isha said the Muslims on campaign would hand their keys to trusted people, saying, eat what you need; but the trustees would say, it is not lawful for us — they gave us leave reluctantly, and we are only keepers. Then aw sadiqikum, the house of your friend, the one true to you, al-Baghawi glosses. Ibn Kathir ties it to al-Harith ibn 'Amr, who left Malik ibn Zayd over his household and returned to find him worn thin, for Malik had felt the constraint of eating a friend's food unbidden.",
@@ -1561,7 +1561,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes as several before it in this surah do: thus does Allah make clear to you the verses, la'allakum ta'qilun, that you may understand. as-Sa'di lingers on the ending. To grasp God's rulings as they truly are, he says, grows the intellect and ripens the mind, because their meanings are the highest and their manners the finest; whoever uses his reason to understand his Lord is given more of it. The closing is not decoration. It tells you the point of the whole passage was never a list of permitted houses, but a mind trained to read God's ease correctly.",
-            "bn": "আয়াত শেষ হয় এই সূরার আগের কয়েকটির মতোই, এভাবে আল্লাহ তোমাদের জন্য আয়াতসমূহ স্পষ্ট করেন, লাআল্লাকুম তা'কিলূন, যাতে তোমরা বোঝো। সা'দী শেষটায় থমকে দাঁড়ান। আল্লাহর বিধান যথাযথভাবে বোঝা বুদ্ধি বাড়ায় আর মনকে পরিণত করে, বলেন তিনি, কারণ এগুলোর অর্থ সর্বোচ্চ আর আদব সেরা। যে নিজের বুদ্ধি খাটায় রবকে বোঝার জন্য, তাকে আরও দেওয়া হয়। এই শেষ কথাটা সাজসজ্জা নয়। এটা বলে দেয়, গোটা অংশটার উদ্দেশ্য কখনোই অনুমোদিত ঘরের তালিকা ছিল না, বরং এমন এক মন গড়া, যা আল্লাহর সহজতাকে ঠিকভাবে পড়তে শেখে।"
+            "bn": "আয়াত শেষ হয় এই সূরার আগের কয়েকটির মতোই, এভাবে আল্লাহ তোমাদের জন্য আয়াতসমূহ স্পষ্ট করেন, লাআল্লাকুম তা'কিলূন, যাতে তোমরা বোঝো। সা'দী শেষটায় থমকে দাঁড়ান। আল্লাহর বিধান যথাযথভাবে বোঝা বুদ্ধি বাড়ায় আর মনকে পরিণত করে, বলেন তিনি, কারণ এগুলোর অর্থ সর্বোচ্চ আর আদব সেরা। যে নিজের বুদ্ধি খাটায় রবকে বোঝার জন্য, তাকে আরও দেওয়া হয়। এই শেষ কথাটা সাজসজ্জা নয়। এটা বলে দেয়, গোটা অংশটার উদ্দেশ্য কখনোই অনুমোদিত ঘরের তালিকা ছিল না, বরং এমন এক মন গড়া, যা আল্লাহর সহজতাকে ঠিকভাবে পড়তে শেখে।"
           },
           {
             "en": "Read from end to beginning, the verse is one movement. It wants a community that reasons, that speaks peace on the threshold, that eats together and counts the blessing in it, that lends its keys and tables freely, and that — before any of this — makes sure the blind, the lame and the ill know they are not a burden but belong. Remove any of these and the ease shrinks to a rule. Together they are what the surah keeps calling clear: a religion with no needless hardship, and a door you enter saying peace.",

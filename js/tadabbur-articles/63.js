@@ -21,11 +21,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens with dhalika, that, a word that points back to something already said, and the commentators differ on what it points to. At-Tabari reads it with the close of 63:2, it was evil that they were doing: these hypocrites took their oaths as a cover because they affirmed Allah and His Messenger and then disbelieved. The Muyassar, which comments on 63:2 and 63:3 together, joins them the same way. Their oaths were a screen against being held to account, and that was because they believed outwardly and then disbelieved inwardly.",
-            "bn": "আয়াতের শুরু যালিকা শব্দে, অর্থাৎ 'ওটা'। শব্দটা আগে বলা কোনো কথার দিকে ইঙ্গিত করে। কোন কথার দিকে, তা নিয়ে তাফসীরকারদের মত আলাদা। তাবারী একে মেলান ৬৩:২ আয়াতের শেষ অংশের সঙ্গে, যেখানে বলা হয়েছে তারা যা করত তা কতই না মন্দ। তাঁর ব্যাখ্যায়, এই মুনাফিকরা শপথকে ঢাল বানিয়েছিল, কারণ তারা আল্লাহ ও তাঁর রাসূলকে সত্য বলে মেনে নিয়ে পরে কুফরি করেছিল। মুয়াসসার ৬৩:২ ও ৬৩:৩ আয়াতের তাফসীর একসঙ্গে করে এবং দুটোকে একইভাবে জোড়ে। তাদের শপথ ছিল জবাবদিহি থেকে বাঁচার আড়াল, আর তার কারণ, তারা বাইরে ঈমান এনে ভেতরে কুফরি করেছিল।"
+            "bn": "আয়াতের শুরু যালিকা শব্দে, অর্থাৎ 'ওটা'। শব্দটা আগে বলা কোনো কথার দিকে ইঙ্গিত করে। কোন কথার দিকে, তা নিয়ে তাফসীরকারদের মত আলাদা। তাবারী একে মেলান ৬৩:২ আয়াতের শেষ অংশের সঙ্গে, যেখানে বলা হয়েছে তারা যা করত তা কতই না মন্দ। তাঁর ব্যাখ্যায়, এই মুনাফিকরা শপথকে ঢাল বানিয়েছিল, কারণ তারা আল্লাহ ও তাঁর রাসূলকে সত্য বলে মেনে নিয়ে পরে কুফরি করেছিল। মুয়াসসার ৬৩:২ ও ৬৩:৩ আয়াতের তাফসীর একসঙ্গে করে এবং দুটোকে একইভাবে জোড়ে। তাদের শপথ ছিল জবাবদিহি থেকে বাঁচার আড়াল, আর তার কারণ, তারা বাইরে ঈমান এনে ভেতরে কুফরি করেছিল।"
           },
           {
             "en": "Ibn Kathir points the word elsewhere. In his reading, that is the hypocrisy itself: it was decreed for them because they returned from faith to disbelief and exchanged guidance for misguidance. As-Sa'di reads it as that which made hypocrisy look fair to them, and gives the cause as their not standing firm on faith. So one small word carries three readings: the reason for their evil conduct, the reason hypocrisy was decreed for them, and the reason it came to look attractive to them. The article keeps all three without choosing among them.",
-            "bn": "ইবন কাসীর শব্দটাকে অন্য দিকে নেন। তাঁর ব্যাখ্যায় 'ওটা' মানে খোদ নিফাক। তাদের জন্য নিফাক নির্ধারিত হয়েছিল, কারণ তারা ঈমান থেকে কুফরের দিকে ফিরে গিয়েছিল আর হিদায়াতের বদলে গোমরাহি বেছে নিয়েছিল। সা'দীর মতে 'ওটা' হলো সেই জিনিস, যা নিফাককে তাদের চোখে সুন্দর করে তুলেছিল। কারণ হিসেবে তিনি বলেন, তারা ঈমানের উপর অটল থাকে না। ছোট্ট একটা শব্দে তাই তিনটি পাঠ: তাদের মন্দ আচরণের কারণ, তাদের জন্য নিফাক নির্ধারিত হওয়ার কারণ, আর নিফাক তাদের কাছে আকর্ষণীয় লাগার কারণ। এ লেখা তিনটিকেই রাখছে, কোনোটাকে বেছে নিচ্ছে না।"
+            "bn": "ইবন কাসীর শব্দটাকে অন্য দিকে নেন। তাঁর ব্যাখ্যায় 'ওটা' মানে খোদ নিফাক। তাদের জন্য নিফাক নির্ধারিত হয়েছিল, কারণ তারা ঈমান থেকে কুফরের দিকে ফিরে গিয়েছিল আর হিদায়াতের বদলে গোমরাহি বেছে নিয়েছিল। সা'দীর মতে 'ওটা' হলো সেই জিনিস, যা নিফাককে তাদের চোখে সুন্দর করে তুলেছিল। কারণ হিসেবে তিনি বলেন, তারা ঈমানের উপর অটল থাকে না। ছোট্ট একটা শব্দে তাই তিনটি পাঠ: তাদের মন্দ আচরণের কারণ, তাদের জন্য নিফাক নির্ধারিত হওয়ার কারণ, আর নিফাক তাদের কাছে আকর্ষণীয় লাগার কারণ। এ লেখা তিনটিকেই রাখছে, কোনোটাকে বেছে নিচ্ছে না।"
           }
         ]
       },
@@ -37,7 +37,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Amanu thumma kafaru: they believed, then they disbelieved. What kind of believing was it? Al-Qurtubi begins with a statement about the verse as a whole: this is Allah informing us that the hypocrite is a disbeliever. His first gloss follows. They affirmed with the tongue, then disbelieved with the heart. The Muyassar says the same in its own terms: they believed in the outward and disbelieved in the inward. On this reading the belief was a profession that the heart never held.",
-            "bn": "আমানূ সুম্মা কাফারূ: তারা ঈমান আনল, তারপর কুফরি করল। কেমন ছিল সেই ঈমান? কুরতুবী শুরু করেন গোটা আয়াত সম্পর্কে একটা কথা দিয়ে: এখানে আল্লাহ জানিয়ে দিচ্ছেন যে মুনাফিক কাফির। তারপর আসে তাঁর প্রথম ব্যাখ্যা। তারা মুখে স্বীকার করেছিল, তারপর অন্তরে কুফরি করেছিল। মুয়াসসারও নিজের ভাষায় একই কথা বলে: তারা বাইরে ঈমান এনেছিল, আর ভেতরে কুফরি করেছিল। এই ব্যাখ্যা অনুযায়ী সেই ঈমান ছিল মুখের ঘোষণা মাত্র, অন্তর তা কখনো ধারণ করেনি।"
+            "bn": "আমানূ সুম্মা কাফারূ: তারা ঈমান আনল, তারপর কুফরি করল। কেমন ছিল সেই ঈমান? কুরতুবী শুরু করেন গোটা আয়াত সম্পর্কে একটা কথা দিয়ে: এখানে আল্লাহ জানিয়ে দিচ্ছেন যে মুনাফিক কাফির। তারপর আসে তাঁর প্রথম ব্যাখ্যা। তারা মুখে স্বীকার করেছিল, তারপর অন্তরে কুফরি করেছিল। মুয়াসসারও নিজের ভাষায় একই কথা বলে: তারা বাইরে ঈমান এনেছিল, আর ভেতরে কুফরি করেছিল। এই ব্যাখ্যা অনুযায়ী সেই ঈমান ছিল মুখের ঘোষণা মাত্র, অন্তর তা কখনো ধারণ করেনি।"
           },
           {
             "en": "At-Tabari closes his comment with Qatada, whom he quotes with a full chain. Qatada's words: they affirmed that there is no god but Allah and that Muhammad is the Messenger of Allah, while their hearts were rejecting it and refusing it. In Qatada's wording the rejection sits beside the affirmation, as a circumstance of it, rather than coming after it. The profession and the refusal ran together. The verse's then, on this account, does not have to mean a later season of doubt. It can mark the gap between what was said and what was held.",
@@ -45,14 +45,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Baghawi gives the gloss a setting. They believed: they affirmed with the tongue when they saw the believers. Then they disbelieved: when they were alone with the idolaters. In his reading the then marks a change of company, with a different face for each room. It fits the scene that opens the surah, in 63:1, where the hypocrites come to the Prophet ﷺ and say, we testify that you are the Messenger of Allah. Al-Baghawi then glosses the sealing as with disbelief, and the lost understanding as of faith.",
-            "bn": "বাগাভী ব্যাখ্যাটাকে একটা পরিবেশের মধ্যে বসান। তারা ঈমান আনল মানে, মু'মিনদের দেখলে মুখে স্বীকার করত। তারপর কুফরি করল মানে, যখন মুশরিকদের সঙ্গে একান্তে মিলিত হতো। তাঁর ব্যাখ্যায় 'তারপর' বোঝায় সঙ্গী বদল, আর প্রতিটি মজলিসের জন্য আলাদা চেহারা। সূরার শুরুর দৃশ্যের সঙ্গে এটা মেলে। ৬৩:১ আয়াতে মুনাফিকরা নবী ﷺ-এর কাছে এসে বলে, আমরা সাক্ষ্য দিচ্ছি আপনি আল্লাহর রাসূল। এরপর বাগাভী মোহরের ব্যাখ্যা দেন কুফরের মোহর বলে, আর যা তারা বোঝে না তা হলো ঈমান।"
+            "bn": "বাগাভী ব্যাখ্যাটাকে একটা পরিবেশের মধ্যে বসান। তারা ঈমান আনল মানে, মু'মিনদের দেখলে মুখে স্বীকার করত। তারপর কুফরি করল মানে, যখন মুশরিকদের সঙ্গে একান্তে মিলিত হতো। তাঁর ব্যাখ্যায় 'তারপর' বোঝায় সঙ্গী বদল, আর প্রতিটি মজলিসের জন্য আলাদা চেহারা। সূরার শুরুর দৃশ্যের সঙ্গে এটা মেলে। ৬৩:১ আয়াতে মুনাফিকরা নবী ﷺ-এর কাছে এসে বলে, আমরা সাক্ষ্য দিচ্ছি আপনি আল্লাহর রাসূল। এরপর বাগাভী মোহরের ব্যাখ্যা দেন কুফরের মোহর বলে, আর যা তারা বোঝে না তা হলো ঈমান।"
           }
         ]
       },
       {
         "h": {
           "en": "A Faith Entered and Left",
-          "bn": "ঈমানে ঢুকে বেরিয়ে যাওয়া"
+          "bn": "ঈমানে ঢুকে বেরিয়ে যাওয়া"
         },
         "p": [
           {
@@ -61,14 +61,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the sources hold two pictures. In the first, the faith was a mask from the start, worn before the believers and taken off away from them: al-Qurtubi's first gloss, the Muyassar, al-Baghawi and Qatada. In the second, a faith of some kind was entered and then left: al-Qurtubi's it was said, Ibn Kathir, as-Sa'di and at-Tabari's own wording. Al-Qurtubi is the one who sets both side by side. The article does not decide between them. Both arrive at the same next word in the verse, the sealing.",
-            "bn": "উৎসগুলোতে তাই দুটি ছবি পাওয়া যায়। প্রথম ছবিতে ঈমান শুরু থেকেই একটা মুখোশ, মু'মিনদের সামনে পরা আর তাদের আড়ালে খুলে ফেলা। এ ছবি কুরতুবীর প্রথম ব্যাখ্যায়, মুয়াসসারে, বাগাভীতে আর কাতাদার কথায়। দ্বিতীয় ছবিতে কোনো এক রকমের ঈমানে মানুষ ঢুকেছিল, তারপর বেরিয়ে গেছে। এটা কুরতুবীর 'বলা হয়' অংশে, ইবন কাসীরে, সা'দীতে আর তাবারীর নিজের ভাষায়। দুটোকে পাশাপাশি রেখেছেন কুরতুবী। এ লেখা কোনো পক্ষে রায় দিচ্ছে না। দুই ব্যাখ্যাই গিয়ে পৌঁছায় আয়াতের পরের কথায়, অর্থাৎ মোহরে।"
+            "bn": "উৎসগুলোতে তাই দুটি ছবি পাওয়া যায়। প্রথম ছবিতে ঈমান শুরু থেকেই একটা মুখোশ, মু'মিনদের সামনে পরা আর তাদের আড়ালে খুলে ফেলা। এ ছবি কুরতুবীর প্রথম ব্যাখ্যায়, মুয়াসসারে, বাগাভীতে আর কাতাদার কথায়। দ্বিতীয় ছবিতে কোনো এক রকমের ঈমানে মানুষ ঢুকেছিল, তারপর বেরিয়ে গেছে। এটা কুরতুবীর 'বলা হয়' অংশে, ইবন কাসীরে, সা'দীতে আর তাবারীর নিজের ভাষায়। দুটোকে পাশাপাশি রেখেছেন কুরতুবী। এ লেখা কোনো পক্ষে রায় দিচ্ছে না। দুই ব্যাখ্যাই গিয়ে পৌঁছায় আয়াতের পরের কথায়, অর্থাৎ মোহরে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Sealing in the Sources' Words",
-          "bn": "মোহরের কথা তাফসীরের ভাষায়"
+          "bn": "মোহরের কথা তাফসীরের ভাষায়"
         },
         "p": [
           {
@@ -93,11 +93,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fa-hum la yafqahun: and so they do not understand. The verse gives the verb no object, and the commentators supply it differently. At-Tabari: they do not discern the right from the mistaken, or truth from falsehood, because Allah has sealed their hearts. Al-Qurtubi: they do not understand faith, or good. Al-Baghawi: they do not understand faith. On these readings, what is lost is the ability to tell true from false and to recognise faith for what it is.",
-            "bn": "ফাহুম লা ইয়াফকাহূন: ফলে তারা বোঝে না। কী বোঝে না, আয়াত তা বলেনি। সেই ফাঁকটা তাফসীরকারেরা পূরণ করেন ভিন্ন ভিন্নভাবে। তাবারী: আল্লাহ তাদের অন্তরে মোহর লাগিয়েছেন বলে তারা সঠিক আর ভুল, হক আর বাতিলের ফারাক ধরতে পারে না। কুরতুবী: তারা ঈমান বোঝে না, কল্যাণও বোঝে না। বাগাভী: তারা ঈমান বোঝে না। এসব ব্যাখ্যায় যা হারিয়ে যায় তা হলো সত্য-মিথ্যা আলাদা করার ক্ষমতা, আর ঈমানকে ঈমান বলে চিনতে পারার ক্ষমতা।"
+            "bn": "ফাহুম লা ইয়াফকাহূন: ফলে তারা বোঝে না। কী বোঝে না, আয়াত তা বলেনি। সেই ফাঁকটা তাফসীরকারেরা পূরণ করেন ভিন্ন ভিন্নভাবে। তাবারী: আল্লাহ তাদের অন্তরে মোহর লাগিয়েছেন বলে তারা সঠিক আর ভুল, হক আর বাতিলের ফারাক ধরতে পারে না। কুরতুবী: তারা ঈমান বোঝে না, কল্যাণও বোঝে না। বাগাভী: তারা ঈমান বোঝে না। এসব ব্যাখ্যায় যা হারিয়ে যায় তা হলো সত্য-মিথ্যা আলাদা করার ক্ষমতা, আর ঈমানকে ঈমান বলে চিনতে পারার ক্ষমতা।"
           },
           {
             "en": "The Muyassar and as-Sa'di turn the object towards the hypocrites' own good. The Muyassar: they do not grasp what holds their own welfare. As-Sa'di: they do not understand what benefits them, and they do not take in what would bring about their good. Ibn Kathir joins the two: their hearts neither take in nor are guided. So the loss is described in two ways at once, as a loss of the truth and as a loss of the hypocrites' own interest, and the sources do not set the two against each other.",
-            "bn": "মুয়াসসার আর সা'দী 'কী বোঝে না' প্রশ্নের উত্তর খোঁজেন মুনাফিকদের নিজেদের ভালোর মধ্যে। মুয়াসসার বলে, তাদের নিজেদের মঙ্গল কিসে, তা তারা ধরতে পারে না। সা'দী বলেন, কিসে তাদের উপকার, তা তারা বোঝে না, আর যা তাদের কল্যাণ বয়ে আনত, তা মনে ধরে রাখে না। ইবন কাসীর দুটোকে মেলান: তাদের অন্তর কিছু ধরেও রাখে না, হিদায়াতও পায় না। ক্ষতিটার বর্ণনা তাই দুই দিক থেকে আসে। হারায় সত্য, আবার হারায় নিজের মঙ্গলও। উৎসগুলো এ দুটোকে পরস্পরের বিপরীতে দাঁড় করায় না।"
+            "bn": "মুয়াসসার আর সা'দী 'কী বোঝে না' প্রশ্নের উত্তর খোঁজেন মুনাফিকদের নিজেদের ভালোর মধ্যে। মুয়াসসার বলে, তাদের নিজেদের মঙ্গল কিসে, তা তারা ধরতে পারে না। সা'দী বলেন, কিসে তাদের উপকার, তা তারা বোঝে না, আর যা তাদের কল্যাণ বয়ে আনত, তা মনে ধরে রাখে না। ইবন কাসীর দুটোকে মেলান: তাদের অন্তর কিছু ধরেও রাখে না, হিদায়াতও পায় না। ক্ষতিটার বর্ণনা তাই দুই দিক থেকে আসে। হারায় সত্য, আবার হারায় নিজের মঙ্গলও। উৎসগুলো এ দুটোকে পরস্পরের বিপরীতে দাঁড় করায় না।"
           },
           {
             "en": "The phrase does not stay in this verse. The same words, la yafqahun, return in 63:7, but the hypocrites do not understand, and 63:8 closes with la ya'lamun, they do not know. The surah keeps coming back to understanding as the thing these people lack. Their words were not the problem. In 63:1 they say the testimony itself, and Ibn Kathir's English abridgement notes that what they said is true about the Prophet ﷺ; Allah calls them liars because they did not believe inwardly what they declared outwardly. The verse places the damage there, in the heart.",
@@ -108,7 +108,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "No Report Tied to It",
-          "bn": "এ আয়াতে জোড়া কোনো বর্ণনা নেই"
+          "bn": "এ আয়াতে জোড়া কোনো বর্ণনা নেই"
         },
         "p": [
           {
@@ -120,23 +120,23 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Not a Gauge for Other Hearts",
-          "bn": "অন্যের অন্তর মাপার যন্ত্র নয়"
+          "bn": "অন্যের অন্তর মাপার যন্ত্র নয়"
         },
         "p": [
           {
             "en": "This needs saying plainly. The verse describes the people of 63:1 and 63:2, the hypocrites who came to the Prophet ﷺ with their testimony and their oaths. It speaks only of what it names and licenses nothing against any living person or community. It does not hand the reader a test for judging anyone's heart. It gives nobody the right to call a fellow believer a hypocrite, to treat someone's prayer or profession as a mask, or to decide that another person's heart has been sealed.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা দিচ্ছে ৬৩:১ ও ৬৩:২ আয়াতের সেই লোকদের, সেই মুনাফিকদের, যারা সাক্ষ্য আর শপথ নিয়ে নবী ﷺ-এর কাছে আসত। আয়াত যা বর্ণনা করে, শুধু সেটুকুই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। কারও অন্তরের বিচার করার কোনো মাপকাঠিও পাঠকের হাতে তুলে দেয় না। কোনো মু'মিন ভাইকে মুনাফিক বলার, কারও নামাজ বা ঈমানের ঘোষণাকে মুখোশ ভাবার, কিংবা কারও অন্তরে মোহর পড়ে গেছে বলে রায় দেওয়ার অধিকার এ আয়াত কাউকে দেয় না।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা দিচ্ছে ৬৩:১ ও ৬৩:২ আয়াতের সেই লোকদের, সেই মুনাফিকদের, যারা সাক্ষ্য আর শপথ নিয়ে নবী ﷺ-এর কাছে আসত। আয়াত যা বর্ণনা করে, শুধু সেটুকুই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। কারও অন্তরের বিচার করার কোনো মাপকাঠিও পাঠকের হাতে তুলে দেয় না। কোনো মু'মিন ভাইকে মুনাফিক বলার, কারও নামাজ বা ঈমানের ঘোষণাকে মুখোশ ভাবার, কিংবা কারও অন্তরে মোহর পড়ে গেছে বলে রায় দেওয়ার অধিকার এ আয়াত কাউকে দেয় না।"
           },
           {
             "en": "The opening of the surah shows whose knowledge this was. In 63:1 it is Allah who knows that the Messenger is His Messenger, and Allah who testifies that the hypocrites are liars. The verdict on their hearts came from Him. Ibn Kathir's English abridgement adds, on 63:2, that some Muslims were deceived because they did not know the hypocrites' falsehood and took them for Muslims. The inward was hidden even from the people closest to it. Anyone who turns this verse on someone else is claiming a knowledge the surah assigns to Allah.",
-            "bn": "সূরার শুরুই দেখিয়ে দেয়, এ জ্ঞান কার। ৬৩:১ আয়াতে আল্লাহই জানেন যে রাসূল তাঁর রাসূল, আর আল্লাহই সাক্ষ্য দেন যে মুনাফিকরা মিথ্যাবাদী। তাদের অন্তরের রায় এসেছে তাঁর কাছ থেকে। ইবন কাসীরের তাফসীরের ইংরেজি সংক্ষিপ্ত রূপ ৬৩:২ আয়াতের আলোচনায় যোগ করে, কিছু মুসলমান প্রতারিত হয়েছিলেন, কারণ মুনাফিকদের মিথ্যা তাঁরা জানতেন না, তাই তাদের মুসলিম বলেই ধরে নিয়েছিলেন। সবচেয়ে কাছের মানুষদের কাছেও ভেতরের অবস্থা গোপন ছিল। কেউ যদি এ আয়াত অন্য কারও দিকে তাক করে, তবে সে এমন জ্ঞানের দাবি করছে, যা সূরা আল্লাহর বলে ঘোষণা করেছে।"
+            "bn": "সূরার শুরুই দেখিয়ে দেয়, এ জ্ঞান কার। ৬৩:১ আয়াতে আল্লাহই জানেন যে রাসূল তাঁর রাসূল, আর আল্লাহই সাক্ষ্য দেন যে মুনাফিকরা মিথ্যাবাদী। তাদের অন্তরের রায় এসেছে তাঁর কাছ থেকে। ইবন কাসীরের তাফসীরের ইংরেজি সংক্ষিপ্ত রূপ ৬৩:২ আয়াতের আলোচনায় যোগ করে, কিছু মুসলমান প্রতারিত হয়েছিলেন, কারণ মুনাফিকদের মিথ্যা তাঁরা জানতেন না, তাই তাদের মুসলিম বলেই ধরে নিয়েছিলেন। সবচেয়ে কাছের মানুষদের কাছেও ভেতরের অবস্থা গোপন ছিল। কেউ যদি এ আয়াত অন্য কারও দিকে তাক করে, তবে সে এমন জ্ঞানের দাবি করছে, যা সূরা আল্লাহর বলে ঘোষণা করেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Holding the Mirror Close",
-          "bn": "আয়নাটা নিজের সামনে"
+          "bn": "আয়নাটা নিজের সামনে"
         },
         "p": [
           {
@@ -145,7 +145,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di's phrase, they do not stand firm on faith, names by contrast what a believer hopes for, which is steadiness. And the readings of la yafqahun place two things in the heart's keeping: the grasp of truth from falsehood, and the grasp of one's own good. Both can be guarded while the heart still takes in a reminder. A reader who notices a verse landing, unsettling, asking for something, has evidence that the door is open, and can walk through it rather than wait.",
-            "bn": "সা'দীর কথা, তারা ঈমানের উপর অটল থাকে না, উল্টো দিক থেকে মনে করিয়ে দেয় একজন মু'মিন কী চায়: অবিচলতা। আর লা ইয়াফকাহূন-এর ব্যাখ্যাগুলো দুটি জিনিস অন্তরের জিম্মায় রাখে। একটি হলো হক আর বাতিল চেনার ক্ষমতা, আরেকটি নিজের মঙ্গল চেনার ক্ষমতা। অন্তর যতদিন নসিহত গ্রহণ করে, ততদিন দুটোকেই আগলে রাখা যায়। কোনো আয়াত মনে দাগ কাটলে, অস্বস্তি জাগালে, কিছু চাইলে পাঠক বুঝে নিতে পারেন দরজা খোলা আছে। অপেক্ষা না করে সে দরজা দিয়ে ঢুকে পড়াই ভালো।"
+            "bn": "সা'দীর কথা, তারা ঈমানের উপর অটল থাকে না, উল্টো দিক থেকে মনে করিয়ে দেয় একজন মু'মিন কী চায়: অবিচলতা। আর লা ইয়াফকাহূন-এর ব্যাখ্যাগুলো দুটি জিনিস অন্তরের জিম্মায় রাখে। একটি হলো হক আর বাতিল চেনার ক্ষমতা, আরেকটি নিজের মঙ্গল চেনার ক্ষমতা। অন্তর যতদিন নসিহত গ্রহণ করে, ততদিন দুটোকেই আগলে রাখা যায়। কোনো আয়াত মনে দাগ কাটলে, অস্বস্তি জাগালে, কিছু চাইলে পাঠক বুঝে নিতে পারেন দরজা খোলা আছে। অপেক্ষা না করে সে দরজা দিয়ে ঢুকে পড়াই ভালো।"
           },
           {
             "en": "The verse tells its chain in the past tense, about a group whose state Allah Himself declared. It is not offered to the reader as a sentence passed on them, and it is not a reason for despair. It is a description of how far apart a tongue and a heart can grow, and of what the commentators say followed once they had: a seal, and an understanding that no longer worked. The reader's part is to keep tongue and heart together, and to ask Allah for understanding instead of assuming it.",
@@ -192,7 +192,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Three Places, One Root",
-          "bn": "একই ধাতু, তিন জায়গা"
+          "bn": "একই ধাতু, তিন জায়গা"
         },
         "p": [
           {
@@ -268,7 +268,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "From What We Provided",
-          "bn": "আমরা যা দিয়েছি তা থেকে"
+          "bn": "আমরা যা দিয়েছি তা থেকে"
         },
         "p": [
           {
@@ -280,7 +280,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Smallest Bargain",
-          "bn": "সবচেয়ে ছোট দর কষাকষি"
+          "bn": "সবচেয়ে ছোট দর কষাকষি"
         },
         "p": [
           {

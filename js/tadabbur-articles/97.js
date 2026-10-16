@@ -32,7 +32,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Better Than a Thousand Months",
-          "bn": "হাজার মাসের চেয়ে উত্তম"
+          "bn": "হাজার মাসের চেয়ে উত্তম"
         },
         "p": [
           {
@@ -48,7 +48,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Sought, Not Scheduled",
-          "bn": "খুঁজে নিতে হয়, তারিখ দেওয়া নেই"
+          "bn": "খুঁজে নিতে হয়, তারিখ দেওয়া নেই"
         },
         "p": [
           {
@@ -64,7 +64,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "What Aisha Was Told to Say",
-          "bn": "আয়িশা (রাঃ)-কে যা বলতে বলা হলো"
+          "bn": "আয়িশা (রাঃ)-কে যা বলতে বলা হলো"
         },
         "p": [
           {
@@ -88,7 +88,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "How the Night Is Kept",
-          "bn": "রাতটি যেভাবে কাটানো হয়"
+          "bn": "রাতটি যেভাবে কাটানো হয়"
         },
         "p": [
           {

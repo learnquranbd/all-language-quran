@@ -21,11 +21,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Fatihah, the Opening, carries more names in the tradition than any other surah: Umm al-Kitab, the Mother of the Book, and as-Sab' al-Mathani, the seven oft-repeated, the title 15:87 gives it. Al-Bukhari relates that the Prophet ﷺ called it the greatest surah in the Quran. And its place is unlike any other: al-Bukhari and Muslim relate that there is no prayer for the one who does not recite the Opening of the Book.",
-            "bn": "আল-ফাতিহা, অর্থাৎ ‘সূচনা’। আমাদের ঐতিহ্যে আর কোনো সূরার এত নাম নেই। একে বলা হয় উম্মুল কিতাব, মানে কিতাবের মা; আবার বলা হয় আস-সাবউল মাসানী, মানে বারবার পড়া সাত আয়াত। এই শেষ নামটি কুরআন নিজেই দিয়েছে, ১৫:৮৭ আয়াতে। ইমাম বুখারী বর্ণনা করেছেন, নবী ﷺ একে কুরআনের সবচেয়ে মহান সূরা বলেছেন। নামাজে এর জায়গাও অনন্য। বুখারী ও মুসলিমের বর্ণনা: যে কিতাবের সূচনা তিলাওয়াত করে না, তার নামাজই হয় না।"
+            "bn": "আল-ফাতিহা, অর্থাৎ ‘সূচনা’। আমাদের ঐতিহ্যে আর কোনো সূরার এত নাম নেই। একে বলা হয় উম্মুল কিতাব, মানে কিতাবের মা; আবার বলা হয় আস-সাবউল মাসানী, মানে বারবার পড়া সাত আয়াত। এই শেষ নামটি কুরআন নিজেই দিয়েছে, ১৫:৮৭ আয়াতে। ইমাম বুখারী বর্ণনা করেছেন, নবী ﷺ একে কুরআনের সবচেয়ে মহান সূরা বলেছেন। নামাজে এর জায়গাও অনন্য। বুখারী ও মুসলিমের বর্ণনা: যে কিতাবের সূচনা তিলাওয়াত করে না, তার নামাজই হয় না।"
           },
           {
             "en": "A Muslim who prays the five daily prayers recites it at least seventeen times a day. Repetition on that scale is a teacher's device: whatever else is forgotten, this must not be. The first five verses, the portion before the request for guidance in 1:6-7, do one thing — they establish who Allah is and where we stand before we ask Him for anything.",
-            "bn": "যিনি পাঁচ ওয়াক্ত নামাজ পড়েন, তিনি দিনে অন্তত সতেরো বার এই সূরা তিলাওয়াত করেন। এতবার ফিরিয়ে ফিরিয়ে পড়ানো শিক্ষকের কৌশল: আর সব ভুলে গেলেও এটা যেন কিছুতেই ভোলা না হয়। প্রথম পাঁচ আয়াত, অর্থাৎ ১:৬-৭-এ হিদায়াত চাওয়ার আগের অংশটুকু, একটাই কাজ করে। কিছু চাওয়ার আগে তা আমাদের জানিয়ে দেয়, আল্লাহ কে, আর তাঁর সামনে আমাদের অবস্থান কোথায়।"
+            "bn": "যিনি পাঁচ ওয়াক্ত নামাজ পড়েন, তিনি দিনে অন্তত সতেরো বার এই সূরা তিলাওয়াত করেন। এতবার ফিরিয়ে ফিরিয়ে পড়ানো শিক্ষকের কৌশল: আর সব ভুলে গেলেও এটা যেন কিছুতেই ভোলা না হয়। প্রথম পাঁচ আয়াত, অর্থাৎ ১:৬-৭-এ হিদায়াত চাওয়ার আগের অংশটুকু, একটাই কাজ করে। কিছু চাওয়ার আগে তা আমাদের জানিয়ে দেয়, আল্লাহ কে, আর তাঁর সামনে আমাদের অবস্থান কোথায়।"
           }
         ]
       },
@@ -37,7 +37,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Bismillah ar-Rahman ar-Rahim places every beginning under His name. The scholars genuinely differ over whether the basmalah is the first verse of al-Fatihah or a separate verse of blessing placed before it, and both positions are held by great authorities; the difference shows in whether an imam recites it aloud. What no one disputes is what it does: an act begun in His name is claimed for Him.",
-            "bn": "বিসমিল্লাহির রাহমানির রাহীম প্রতিটি শুরুকে তাঁর নামের সঙ্গে বেঁধে দেয়। বিসমিল্লাহ কি আল-ফাতিহার প্রথম আয়াত, নাকি বরকতের জন্য তার আগে রাখা আলাদা একটি আয়াত? এ নিয়ে আলিমদের মধ্যে সত্যিই মতভেদ আছে, আর দুই মতের পক্ষেই বড় বড় ইমাম আছেন। পার্থক্যটা চোখে পড়ে ইমাম তা জোরে পড়েন কি না, সেখানে। তবে এর কাজ নিয়ে কারও দ্বিমত নেই: তাঁর নামে যে কাজ শুরু হয়, সে কাজ তাঁর নামেই লেখা হয়ে যায়।"
+            "bn": "বিসমিল্লাহির রাহমানির রাহীম প্রতিটি শুরুকে তাঁর নামের সঙ্গে বেঁধে দেয়। বিসমিল্লাহ কি আল-ফাতিহার প্রথম আয়াত, নাকি বরকতের জন্য তার আগে রাখা আলাদা একটি আয়াত? এ নিয়ে আলিমদের মধ্যে সত্যিই মতভেদ আছে, আর দুই মতের পক্ষেই বড় বড় ইমাম আছেন। পার্থক্যটা চোখে পড়ে ইমাম তা জোরে পড়েন কি না, সেখানে। তবে এর কাজ নিয়ে কারও দ্বিমত নেই: তাঁর নামে যে কাজ শুরু হয়, সে কাজ তাঁর নামেই লেখা হয়ে যায়।"
           },
           {
             "en": "Ar-Rahman and ar-Rahim both come from the root of rahmah, mercy. The commentators distinguish them: ar-Rahman describes mercy as His very nature, vast and reaching everything, while ar-Rahim describes mercy in action, bestowed especially on the believers. Before the surah says one word about obligation or judgment, His mercy has already been named twice — and it will be named twice more.",
@@ -53,7 +53,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-hamdu lillah. Hamd is wider than thanks: thanks answers a favour received, while hamd praises the one praised for what he is, favour or no favour. The definite article makes it total — all praise, whoever utters it and whatever prompts it, belongs in truth to Allah. The verse does not command us to praise; it states that praise is His, and the reciter simply joins a fact already in place.",
-            "bn": "আলহামদু লিল্লাহ। হামদ শুকরিয়ার চেয়ে ব্যাপক। শুকরিয়া হলো কোনো অনুগ্রহ পাওয়ার জবাব; আর হামদ হলো কারও প্রশংসা, তিনি যেমন সেজন্যই, অনুগ্রহ পাই বা না পাই। ‘আল-হামদু’র ‘আল’ একে পূর্ণ করে দেয়: সব প্রশংসা, যে-ই করুক আর যে কারণেই করুক, আসলে আল্লাহরই। আয়াতটি আমাদের প্রশংসা করার হুকুম দেয় না; বরং জানিয়ে দেয়, প্রশংসা তাঁরই। যে পড়ে, সে শুধু আগে থেকেই সত্য একটি কথায় নিজের গলা মেলায়।"
+            "bn": "আলহামদু লিল্লাহ। হামদ শুকরিয়ার চেয়ে ব্যাপক। শুকরিয়া হলো কোনো অনুগ্রহ পাওয়ার জবাব; আর হামদ হলো কারও প্রশংসা, তিনি যেমন সেজন্যই, অনুগ্রহ পাই বা না পাই। ‘আল-হামদু’র ‘আল’ একে পূর্ণ করে দেয়: সব প্রশংসা, যে-ই করুক আর যে কারণেই করুক, আসলে আল্লাহরই। আয়াতটি আমাদের প্রশংসা করার হুকুম দেয় না; বরং জানিয়ে দেয়, প্রশংসা তাঁরই। যে পড়ে, সে শুধু আগে থেকেই সত্য একটি কথায় নিজের গলা মেলায়।"
           },
           {
             "en": "Rabb, Lord, gathers meanings no single English word holds: owner, master, sustainer, and the one who raises something stage by stage toward its completion. Al-'alamin, the worlds, is every order of created being — mankind, jinn, angels, and whatever we have no name for. To call Him Rabb al-'alamin is to say that everything, everywhere, is being owned, fed and carried toward its purpose by Him alone.",
@@ -69,18 +69,18 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Between Lord of the worlds and Master of the Day of Recompense, the surah repeats ar-Rahman ar-Rahim. The order matters. Sovereignty could terrify; so mercy is set before judgment, and judgment is read through it. The canonical readings recite the next word both as Maalik, owner, and Malik, king, of the Day of Recompense — both transmitted, both true of Him: on that Day He owns everything and rules everything, and no one else owns or rules anything at all.",
-            "bn": "‘জগৎসমূহের রব’ আর ‘প্রতিদান দিবসের অধিপতি’, এই দুইয়ের মাঝখানে সূরাটি আবার বলে: আর-রাহমান আর-রাহীম। এই ক্রমের একটা অর্থ আছে। শুধু ক্ষমতার কথা শুনলে মানুষ ভয় পেয়ে যেতে পারত। তাই সূরাটি বিচারের আগে রহমতকে রেখেছে, যাতে বিচারকে আমরা রহমতের ভেতর দিয়ে দেখি। পরের শব্দটি স্বীকৃত কিরাআতে দুইভাবে পড়া হয়: মা-লিক (আলিফ টেনে), অর্থাৎ অধিকারী; আর মালিক (না টেনে), অর্থাৎ বাদশাহ। দুটোই বর্ণিত, দুটোই তাঁর বেলায় সত্য। সেদিন সবকিছুর মালিক তিনি, সবকিছুর শাসকও তিনি; আর কেউ কোনো কিছুর মালিকও নয়, শাসকও নয়।"
+            "bn": "‘জগৎসমূহের রব’ আর ‘প্রতিদান দিবসের অধিপতি’, এই দুইয়ের মাঝখানে সূরাটি আবার বলে: আর-রাহমান আর-রাহীম। এই ক্রমের একটা অর্থ আছে। শুধু ক্ষমতার কথা শুনলে মানুষ ভয় পেয়ে যেতে পারত। তাই সূরাটি বিচারের আগে রহমতকে রেখেছে, যাতে বিচারকে আমরা রহমতের ভেতর দিয়ে দেখি। পরের শব্দটি স্বীকৃত কিরাআতে দুইভাবে পড়া হয়: মা-লিক (আলিফ টেনে), অর্থাৎ অধিকারী; আর মালিক (না টেনে), অর্থাৎ বাদশাহ। দুটোই বর্ণিত, দুটোই তাঁর বেলায় সত্য। সেদিন সবকিছুর মালিক তিনি, সবকিছুর শাসকও তিনি; আর কেউ কোনো কিছুর মালিকও নয়, শাসকও নয়।"
           },
           {
             "en": "Yawm ad-din, the Day of Recompense, is named by outcome: the day deeds are paid. Placing it in the surah recited in every prayer keeps accountability daily rather than distant. But it stands surrounded by mercy — mercy named twice before it — so the believer approaches that Day with the balance the surah itself teaches: real hope, real accountability, neither one allowed to erase the other.",
-            "bn": "ইয়াওমুদ্দীন, প্রতিদান দিবস। দিনটির নামই বলে দেয় সেদিন কী হবে: সেদিন আমলের প্রতিদান দেওয়া হবে। প্রতি নামাজে পড়া সূরায় দিনটির উল্লেখ থাকায় জবাবদিহি দূরের কোনো ব্যাপার থাকে না, প্রতিদিনের ব্যাপার হয়ে যায়। তবে দিনটিকে ঘিরে আছে রহমত; এর ঠিক আগেই দুবার রহমতের নাম এসেছে। তাই মুমিন সেই দিনের দিকে এগোয় সূরাটিরই শেখানো ভারসাম্য নিয়ে: সত্যিকারের আশা, সত্যিকারের জবাবদিহি। একটি যেন অন্যটিকে মুছে না দেয়।"
+            "bn": "ইয়াওমুদ্দীন, প্রতিদান দিবস। দিনটির নামই বলে দেয় সেদিন কী হবে: সেদিন আমলের প্রতিদান দেওয়া হবে। প্রতি নামাজে পড়া সূরায় দিনটির উল্লেখ থাকায় জবাবদিহি দূরের কোনো ব্যাপার থাকে না, প্রতিদিনের ব্যাপার হয়ে যায়। তবে দিনটিকে ঘিরে আছে রহমত; এর ঠিক আগেই দুবার রহমতের নাম এসেছে। তাই মুমিন সেই দিনের দিকে এগোয় সূরাটিরই শেখানো ভারসাম্য নিয়ে: সত্যিকারের আশা, সত্যিকারের জবাবদিহি। একটি যেন অন্যটিকে মুছে না দেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "A Conversation, Not a Recitation",
-          "bn": "আবৃত্তি নয়, কথোপকথন"
+          "bn": "আবৃত্তি নয়, কথোপকথন"
         },
         "p": [
           {
@@ -89,7 +89,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The dividing line is 1:5, and exactly there the grammar turns. The first verses speak about Allah in the third person — He, His. At iyyaka na'budu the surah turns and speaks to Him: You alone we worship. The commentators note the shift: praise brings the servant, step by step, from talking about Allah into standing before Him. Al-Fatihah does not merely describe an audience with the Lord; it stages one.",
-            "bn": "মাঝের সেই সীমারেখা হলো ১:৫, আর ঠিক সেখানেই কথার ধরন বদলে যায়। প্রথম আয়াতগুলো আল্লাহর কথা বলে ‘তিনি’, ‘তাঁর’ বলে। ‘ইয়্যাকা নাবুদু’তে এসে সূরাটি সরাসরি তাঁর দিকে ফিরে বলে: আমরা কেবল আপনারই ইবাদত করি। মুফাসসিরগণ এই বাঁকবদল লক্ষ করেছেন: প্রশংসা করতে করতে বান্দা ধাপে ধাপে আল্লাহর ব্যাপারে কথা বলা থেকে তাঁর সামনে দাঁড়িয়ে যায়। আল-ফাতিহা রবের দরবারে হাজিরার শুধু বর্ণনা দেয় না; হাজিরাটা ঘটিয়েই দেয়।"
+            "bn": "মাঝের সেই সীমারেখা হলো ১:৫, আর ঠিক সেখানেই কথার ধরন বদলে যায়। প্রথম আয়াতগুলো আল্লাহর কথা বলে ‘তিনি’, ‘তাঁর’ বলে। ‘ইয়্যাকা নাবুদু’তে এসে সূরাটি সরাসরি তাঁর দিকে ফিরে বলে: আমরা কেবল আপনারই ইবাদত করি। মুফাসসিরগণ এই বাঁকবদল লক্ষ করেছেন: প্রশংসা করতে করতে বান্দা ধাপে ধাপে আল্লাহর ব্যাপারে কথা বলা থেকে তাঁর সামনে দাঁড়িয়ে যায়। আল-ফাতিহা রবের দরবারে হাজিরার শুধু বর্ণনা দেয় না; হাজিরাটা ঘটিয়েই দেয়।"
           }
         ]
       },
@@ -101,11 +101,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Iyyaka na'budu wa iyyaka nasta'in. Arabic normally puts the verb first; here the object You is moved ahead, and the fronting means only: You alone we worship, You alone we ask for help. Worship comes before asking — we do not approach Him as customers — yet asking follows immediately, because worship itself cannot be performed without His help. Each half of the sentence leans on the other.",
-            "bn": "ইয়্যাকা নাবুদু ওয়া ইয়্যাকা নাসতাঈন। আরবিতে সাধারণত ক্রিয়া আগে আসে। এখানে ‘ইয়্যাকা’ (আপনাকে) আগে এনে বসানো হয়েছে, আর এই আগে আনার অর্থ একটাই, ‘কেবল’: কেবল আপনারই ইবাদত করি, কেবল আপনার কাছেই সাহায্য চাই। চাওয়ার আগে ইবাদত, কারণ আমরা তাঁর কাছে খদ্দেরের মতো যাই না। তবু চাওয়াটা আসে সঙ্গে সঙ্গেই, কেননা তাঁর সাহায্য ছাড়া ইবাদতটুকুও করা যায় না। বাক্যের দুই অংশ একে অপরের ওপর ভর দিয়ে দাঁড়িয়ে।"
+            "bn": "ইয়্যাকা নাবুদু ওয়া ইয়্যাকা নাসতাঈন। আরবিতে সাধারণত ক্রিয়া আগে আসে। এখানে ‘ইয়্যাকা’ (আপনাকে) আগে এনে বসানো হয়েছে, আর এই আগে আনার অর্থ একটাই, ‘কেবল’: কেবল আপনারই ইবাদত করি, কেবল আপনার কাছেই সাহায্য চাই। চাওয়ার আগে ইবাদত, কারণ আমরা তাঁর কাছে খদ্দেরের মতো যাই না। তবু চাওয়াটা আসে সঙ্গে সঙ্গেই, কেননা তাঁর সাহায্য ছাড়া ইবাদতটুকুও করা যায় না। বাক্যের দুই অংশ একে অপরের ওপর ভর দিয়ে দাঁড়িয়ে।"
           },
           {
             "en": "Notice also the plural. Not I worship, but we — the single worshipper prays as part of a community stretching across the world and back through the centuries. This is the posture the opening five verses build: know Him, praise Him, remember His mercy and His Day, then bind worship and dependence together, and only then, in 1:6-7, open your mouth to ask. That order is itself the lesson.",
-            "bn": "বহুবচনটাও খেয়াল করুন। ‘আমি ইবাদত করি’ নয়, ‘আমরা’। একা যিনি নামাজে দাঁড়ান, তিনিও দাঁড়ান এমন এক উম্মাহর অংশ হয়ে, যা ছড়িয়ে আছে সারা পৃথিবীতে, আর পেছনে চলে গেছে শত শত বছর। প্রথম পাঁচ আয়াত এই অবস্থানটাই গড়ে তোলে: তাঁকে চিনুন, তাঁর প্রশংসা করুন, তাঁর রহমত আর তাঁর দিবসের কথা মনে রাখুন, তারপর ইবাদত আর তাঁর ওপর ভরসাকে একসঙ্গে বাঁধুন। কেবল তখনই, ১:৬-৭-এ এসে, চাওয়ার জন্য মুখ খুলুন। এই ক্রমটাই আসল শিক্ষা।"
+            "bn": "বহুবচনটাও খেয়াল করুন। ‘আমি ইবাদত করি’ নয়, ‘আমরা’। একা যিনি নামাজে দাঁড়ান, তিনিও দাঁড়ান এমন এক উম্মাহর অংশ হয়ে, যা ছড়িয়ে আছে সারা পৃথিবীতে, আর পেছনে চলে গেছে শত শত বছর। প্রথম পাঁচ আয়াত এই অবস্থানটাই গড়ে তোলে: তাঁকে চিনুন, তাঁর প্রশংসা করুন, তাঁর রহমত আর তাঁর দিবসের কথা মনে রাখুন, তারপর ইবাদত আর তাঁর ওপর ভরসাকে একসঙ্গে বাঁধুন। কেবল তখনই, ১:৬-৭-এ এসে, চাওয়ার জন্য মুখ খুলুন। এই ক্রমটাই আসল শিক্ষা।"
           }
         ]
       }
@@ -116,7 +116,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Turn in the Surah",
-          "bn": "সূরার ভেতরের মোড়"
+          "bn": "সূরার ভেতরের মোড়"
         },
         "p": [
           {
@@ -132,7 +132,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Ihdina, Not Merely Show Us",
-          "bn": "ইহদিনা — শুধু দেখানো নয়"
+          "bn": "ইহদিনা — শুধু দেখানো নয়"
         },
         "p": [
           {
@@ -141,7 +141,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The pronoun is worth noticing as well. It is ihdina, guide us, not guide me. Nothing in al-Fatihah is asked in the singular: na'budu, we worship; nasta'in, we ask for help; ihdina, guide us. A man praying alone at night in an empty room still says it in the plural. The surah will not let a worshipper stand before Allah as a private individual with a private file, detached from everyone else asking the same thing.",
-            "bn": "সর্বনামটাও খেয়াল করার মতো। ইহদিনা মানে আমাদের পথ দেখান, ‘আমাকে’ নয়। আল-ফাতিহার কোনো চাওয়াই একবচনে নেই: নাবুদু, আমরা ইবাদত করি; নাসতাঈন, আমরা সাহায্য চাই; ইহদিনা, আমাদের পথ দেখান। রাতে খালি ঘরে যে মানুষটি একা নামাজ পড়ছে, সে-ও কথাটা বলে বহুবচনে। সূরাটি কোনো মুসল্লিকে আল্লাহর সামনে আলাদা এক মানুষ হয়ে, নিজের আলাদা খাতা নিয়ে দাঁড়াতে দেয় না, যেন একই জিনিস যারা চাইছে তাদের কারও সঙ্গে তার কোনো যোগ নেই।"
+            "bn": "সর্বনামটাও খেয়াল করার মতো। ইহদিনা মানে আমাদের পথ দেখান, ‘আমাকে’ নয়। আল-ফাতিহার কোনো চাওয়াই একবচনে নেই: নাবুদু, আমরা ইবাদত করি; নাসতাঈন, আমরা সাহায্য চাই; ইহদিনা, আমাদের পথ দেখান। রাতে খালি ঘরে যে মানুষটি একা নামাজ পড়ছে, সে-ও কথাটা বলে বহুবচনে। সূরাটি কোনো মুসল্লিকে আল্লাহর সামনে আলাদা এক মানুষ হয়ে, নিজের আলাদা খাতা নিয়ে দাঁড়াতে দেয় না, যেন একই জিনিস যারা চাইছে তাদের কারও সঙ্গে তার কোনো যোগ নেই।"
           }
         ]
       },
@@ -164,12 +164,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Why Ask For What You Have",
-          "bn": "যা আছে তা চাওয়া কেন"
+          "bn": "যা আছে তা চাওয়া কেন"
         },
         "p": [
           {
             "en": "The obvious objection is that a Muslim reciting this has already been given the path. Ibn Kathir meets it directly: the request is for being kept on it, for increase in it, for firmness upon it, and for guidance in each particular matter as it arises. Guidance is not one gate you pass through once. It is a long road with a great many turnings, and the traveller needs direction at every one of them.",
-            "bn": "স্বাভাবিকভাবেই প্রশ্ন ওঠে: যে মুসলিম এ আয়াত পড়ছে, সে তো পথ আগেই পেয়ে গেছে। ইবনে কাসীর সরাসরি এর জবাব দিয়েছেন। এ চাওয়া হলো সে পথে টিকে থাকার, হিদায়াত আরও বাড়ার, পথে অবিচল থাকার, আর সামনে আসা প্রতিটি বিষয়ে আলাদা করে দিশা পাওয়ার। হিদায়াত এমন কোনো দরজা নয়, যা একবার পার হলেই কাজ শেষ। এ এক লম্বা পথ, যার বাঁক অগণিত, আর প্রতিটি বাঁকেই পথিকের দিশা লাগে।"
+            "bn": "স্বাভাবিকভাবেই প্রশ্ন ওঠে: যে মুসলিম এ আয়াত পড়ছে, সে তো পথ আগেই পেয়ে গেছে। ইবনে কাসীর সরাসরি এর জবাব দিয়েছেন। এ চাওয়া হলো সে পথে টিকে থাকার, হিদায়াত আরও বাড়ার, পথে অবিচল থাকার, আর সামনে আসা প্রতিটি বিষয়ে আলাদা করে দিশা পাওয়ার। হিদায়াত এমন কোনো দরজা নয়, যা একবার পার হলেই কাজ শেষ। এ এক লম্বা পথ, যার বাঁক অগণিত, আর প্রতিটি বাঁকেই পথিকের দিশা লাগে।"
           }
         ]
       },
@@ -185,7 +185,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Now count the rak'ahs of the five obligatory prayers: two at Fajr, four at Zuhr, four at Asr, three at Maghrib and four at Isha, which is seventeen. Al-Fatihah is recited in every one of them, so at the very least this request is placed before Allah seventeen times in a day, before any sunnah or voluntary prayer is added. Nothing else a Muslim says is repeated at anything like that rate.",
-            "bn": "এবার পাঁচ ওয়াক্ত ফরজ নামাজের রাকআত গুনে দেখুন: ফজরে দুই, যোহরে চার, আসরে চার, মাগরিবে তিন, ইশায় চার; মোট সতেরো। প্রতিটি রাকআতেই আল-ফাতিহা পড়া হয়। তাই সুন্নত বা নফল ধরার আগেই দিনে অন্তত সতেরোবার এই চাওয়াটি আল্লাহর সামনে রাখা হয়। একজন মুসলিম আর কোনো কথা এর ধারেকাছেও এতবার বলে না।"
+            "bn": "এবার পাঁচ ওয়াক্ত ফরজ নামাজের রাকআত গুনে দেখুন: ফজরে দুই, যোহরে চার, আসরে চার, মাগরিবে তিন, ইশায় চার; মোট সতেরো। প্রতিটি রাকআতেই আল-ফাতিহা পড়া হয়। তাই সুন্নত বা নফল ধরার আগেই দিনে অন্তত সতেরোবার এই চাওয়াটি আল্লাহর সামনে রাখা হয়। একজন মুসলিম আর কোনো কথা এর ধারেকাছেও এতবার বলে না।"
           }
         ]
       },
@@ -197,7 +197,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Frequency is exactly what puts the sentence at risk. Words said seventeen times a day can slide past without the heart moving. The repair is small: slow down at this line and put the actual decision you are carrying inside it, the argument you have not resolved, the offer you have not answered. Ask for guidance in that. Then the surah stops being a recitation you complete and becomes the request it was written as.",
-            "bn": "বারবার পড়াটাই এ বাক্যের সবচেয়ে বড় ঝুঁকি। দিনে সতেরোবার বলা কথা মন না ছুঁয়েই পার হয়ে যেতে পারে। প্রতিকারটা ছোট। এই লাইনে এসে ধীরে পড়ুন, আর যে সিদ্ধান্তটা এখন বয়ে বেড়াচ্ছেন, সেটা এর ভেতরে রাখুন: যে ঝগড়া এখনো মেটেনি, যে প্রস্তাবের জবাব এখনো দেননি। ঠিক সেই ব্যাপারে হিদায়াত চান। তখন সূরাটি আর কোনোমতে শেষ করার মতো তিলাওয়াত থাকে না; যে চাওয়া হিসেবে এটি এসেছে, সেই চাওয়াই হয়ে ওঠে।"
+            "bn": "বারবার পড়াটাই এ বাক্যের সবচেয়ে বড় ঝুঁকি। দিনে সতেরোবার বলা কথা মন না ছুঁয়েই পার হয়ে যেতে পারে। প্রতিকারটা ছোট। এই লাইনে এসে ধীরে পড়ুন, আর যে সিদ্ধান্তটা এখন বয়ে বেড়াচ্ছেন, সেটা এর ভেতরে রাখুন: যে ঝগড়া এখনো মেটেনি, যে প্রস্তাবের জবাব এখনো দেননি। ঠিক সেই ব্যাপারে হিদায়াত চান। তখন সূরাটি আর কোনোমতে শেষ করার মতো তিলাওয়াত থাকে না; যে চাওয়া হিসেবে এটি এসেছে, সেই চাওয়াই হয়ে ওঠে।"
           }
         ]
       }

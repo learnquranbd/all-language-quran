@@ -16,7 +16,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Two Words and a Verdict",
-          "bn": "দুটি শব্দ, একটি রায়"
+          "bn": "দুটি শব্দ, একটি রায়"
         },
         "p": [
           {

@@ -64,7 +64,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Families in This Surah",
-          "bn": "এই সূরায় পরিবার"
+          "bn": "এই সূরায় পরিবার"
         },
         "p": [
           {

@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Jinn opens with a report the Prophet ﷺ is told to pass on: a band of jinn listened, and said that they had heard a wondrous recitation that guides to right conduct, so they believed in it and would never associate anyone with their Lord (72:1 and 72:2). This verse carries their speech on: wa-annahu ta'ala jaddu rabbina, ma ttakhadha sahibatan wa la walada. And that exalted is the jadd of our Lord; He has taken neither a consort nor a child.",
-            "bn": "সূরা জিন শুরু হয় এমন এক খবর দিয়ে, যা নবী ﷺ-কে মানুষের কাছে পৌঁছে দিতে বলা হয়েছে। জিনদের একটি দল কুরআন শুনেছিল। তারা বলেছিল, আমরা এক বিস্ময়কর তিলাওয়াত শুনেছি, যা সঠিক পথ দেখায়। তাই আমরা তাতে ঈমান এনেছি, আর রবের সঙ্গে কাউকে কখনো শরিক করব না (৭২:১ ও ৭২:২)। এই আয়াতে তাদের কথা আরও এগোয়: ওয়া আন্নাহু তাআলা জাদ্দু রব্বিনা, মাত্তাখাযা সাহিবাতাও ওয়ালা ওয়ালাদা। আর আমাদের রবের জাদ্দ অতি উচ্চ; তিনি কোনো স্ত্রী গ্রহণ করেননি, কোনো সন্তানও নয়।"
+            "bn": "সূরা জিন শুরু হয় এমন এক খবর দিয়ে, যা নবী ﷺ-কে মানুষের কাছে পৌঁছে দিতে বলা হয়েছে। জিনদের একটি দল কুরআন শুনেছিল। তারা বলেছিল, আমরা এক বিস্ময়কর তিলাওয়াত শুনেছি, যা সঠিক পথ দেখায়। তাই আমরা তাতে ঈমান এনেছি, আর রবের সঙ্গে কাউকে কখনো শরিক করব না (৭২:১ ও ৭২:২)। এই আয়াতে তাদের কথা আরও এগোয়: ওয়া আন্নাহু তাআলা জাদ্দু রব্বিনা, মাত্তাখাযা সাহিবাতাও ওয়ালা ওয়ালাদা। আর আমাদের রবের জাদ্দ অতি উচ্চ; তিনি কোনো স্ত্রী গ্রহণ করেননি, কোনো সন্তানও নয়।"
           },
           {
             "en": "Ibn Kathir places the words at the moment of conversion: when the jinn accepted Islam and believed in the Qur'an, they declared the Lord far above taking a consort or children. Ma'arif al-Qur'an frames it as the jinn talking among themselves, and notices a choice of wording. Instead of a pronoun, His jadd, they keep the name rabb, our Lord, which it reads as pointing to His exalted position: the One who cherishes and sustains His creation must stand high. The first thing these new believers say after refusing all partners is what that refusal means.",
@@ -37,15 +37,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari opens by saying the interpreters differed over jadd. One group took it as the command, authority and power of our Lord. He cites Ibn Abbas, through Ali ibn Abi Talha, for His action, command and power, a report Ibn Kathir also carries; another chain from Ibn Abbas gives simply the command of our Lord, and so do Qatada and as-Suddi. Ibn Zayd reads the whole verse as one thought: exalted is His command above taking a consort or a child; that cannot be from Him. Then he recited Surah al-Ikhlas.",
-            "bn": "তাবারী শুরুতেই জানান, জাদ্দ শব্দের অর্থে মুফাসসিররা একমত নন। এক দলের মতে এর মানে আমাদের রবের আদেশ, কর্তৃত্ব আর ক্ষমতা। এর পক্ষে তিনি আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: তাঁর কাজ, তাঁর আদেশ, তাঁর ক্ষমতা। ইবন কাসীরও এ বর্ণনা এনেছেন। ইবন আব্বাস (রাঃ) থেকে আরেক সূত্রে শুধু আছে 'আমাদের রবের আদেশ', কাতাদা আর সুদ্দীও তা-ই বলেন। ইবন যায়দ পুরো আয়াতটা পড়েন একটি ভাবনা হিসেবে: স্ত্রী বা সন্তান গ্রহণ করা থেকে তাঁর আদেশ অনেক ঊর্ধ্বে, এমনটা তাঁর পক্ষে হতেই পারে না। তারপর তিনি সূরা ইখলাস তিলাওয়াত করেন।"
+            "bn": "তাবারী শুরুতেই জানান, জাদ্দ শব্দের অর্থে মুফাসসিররা একমত নন। এক দলের মতে এর মানে আমাদের রবের আদেশ, কর্তৃত্ব আর ক্ষমতা। এর পক্ষে তিনি আলী ইবন আবী তালহার সূত্রে ইবন আব্বাস (রাঃ)-এর কথা আনেন: তাঁর কাজ, তাঁর আদেশ, তাঁর ক্ষমতা। ইবন কাসীরও এ বর্ণনা এনেছেন। ইবন আব্বাস (রাঃ) থেকে আরেক সূত্রে শুধু আছে 'আমাদের রবের আদেশ', কাতাদা আর সুদ্দীও তা-ই বলেন। ইবন যায়দ পুরো আয়াতটা পড়েন একটি ভাবনা হিসেবে: স্ত্রী বা সন্তান গ্রহণ করা থেকে তাঁর আদেশ অনেক ঊর্ধ্বে, এমনটা তাঁর পক্ষে হতেই পারে না। তারপর তিনি সূরা ইখলাস তিলাওয়াত করেন।"
           },
           {
             "en": "A second group heard majesty. At-Tabari reports Ikrima and Mujahid saying: the majesty of our Lord. Qatada, in another chain, gathers three words: exalted is His majesty, His greatness and His command. Mujahid is also reported with a different gloss, His mention or remembrance, and Ibn Kathir adds Abu ad-Darda' and Ibn Jurayj to that line. Sa'id ibn Jubayr, as both Ibn Kathir and al-Qurtubi report him, read the phrase as nothing more than exalted is our Lord. The Muyassar keeps to greatness and majesty.",
-            "bn": "আরেক দল এখানে শুনেছেন মহিমার কথা। তাবারী বর্ণনা করেন, ইকরিমা ও মুজাহিদ বলেছেন: আমাদের রবের মহিমা। কাতাদা আরেক সূত্রে তিনটি শব্দ একসঙ্গে বলেন: তাঁর মহিমা, তাঁর মহত্ত্ব আর তাঁর আদেশ অতি উচ্চ। মুজাহিদ থেকে ভিন্ন একটি ব্যাখ্যাও আছে: তাঁর জিকির, তাঁর নাম ও স্মরণ। ইবন কাসীর এই মতের সঙ্গে আবুদ দারদা (রাঃ) ও ইবন জুরাইজের নামও যোগ করেন। ইবন কাসীর আর কুরতুবী দুজনেই সাঈদ ইবন জুবাইরের কথা আনেন, তাঁর কাছে বাক্যটির মানে শুধু এটুকু: আমাদের রব অতি উচ্চ। মুয়াসসার থাকে মহত্ত্ব আর মহিমাতেই।"
+            "bn": "আরেক দল এখানে শুনেছেন মহিমার কথা। তাবারী বর্ণনা করেন, ইকরিমা ও মুজাহিদ বলেছেন: আমাদের রবের মহিমা। কাতাদা আরেক সূত্রে তিনটি শব্দ একসঙ্গে বলেন: তাঁর মহিমা, তাঁর মহত্ত্ব আর তাঁর আদেশ অতি উচ্চ। মুজাহিদ থেকে ভিন্ন একটি ব্যাখ্যাও আছে: তাঁর জিকির, তাঁর নাম ও স্মরণ। ইবন কাসীর এই মতের সঙ্গে আবুদ দারদা (রাঃ) ও ইবন জুরাইজের নামও যোগ করেন। ইবন কাসীর আর কুরতুবী দুজনেই সাঈদ ইবন জুবাইরের কথা আনেন, তাঁর কাছে বাক্যটির মানে শুধু এটুকু: আমাদের রব অতি উচ্চ। মুয়াসসার থাকে মহত্ত্ব আর মহিমাতেই।"
           },
           {
             "en": "Other glosses widen the circle. Ibn Kathir has Ibn Abbas, through ad-Dahhak, reading jadd as His favours, power and blessing upon His creation; al-Qurtubi and al-Baghawi give the favours to al-Qurazi. Al-Qurtubi reports Abu Ubayda and al-Akhfash for His dominion and authority. He also says that in the language jadd is greatness, citing Anas: when a man had memorised al-Baqarah and Al Imran, he grew great in our eyes. Al-Baghawi quotes the same saying with read in place of memorised.",
-            "bn": "আরও কিছু ব্যাখ্যায় অর্থের পরিসর আরও বড় হয়েছে। ইবন কাসীর দাহহাকের সূত্রে ইবন আব্বাস (রাঃ)-এর মত আনেন: জাদ্দ মানে সৃষ্টির প্রতি তাঁর নিয়ামত, ক্ষমতা আর অনুগ্রহ। কুরতুবী ও বাগাভী নিয়ামতের ব্যাখ্যাটা কুরাযীর নামে আনেন। কুরতুবী আবু উবায়দা ও আখফাশের মত দেন: তাঁর রাজত্ব ও কর্তৃত্ব। তিনি আরও বলেন, ভাষায় জাদ্দ মানে মহত্ত্ব। প্রমাণ হিসেবে আনেন আনাস (রাঃ)-এর কথা: কেউ সূরা বাকারা আর আলে ইমরান মুখস্থ করলে আমাদের চোখে সে বড় হয়ে যেত। বাগাভী একই কথা আনেন, তবে সেখানে মুখস্থ করার জায়গায় আছে পড়া।"
+            "bn": "আরও কিছু ব্যাখ্যায় অর্থের পরিসর আরও বড় হয়েছে। ইবন কাসীর দাহহাকের সূত্রে ইবন আব্বাস (রাঃ)-এর মত আনেন: জাদ্দ মানে সৃষ্টির প্রতি তাঁর নিয়ামত, ক্ষমতা আর অনুগ্রহ। কুরতুবী ও বাগাভী নিয়ামতের ব্যাখ্যাটা কুরাযীর নামে আনেন। কুরতুবী আবু উবায়দা ও আখফাশের মত দেন: তাঁর রাজত্ব ও কর্তৃত্ব। তিনি আরও বলেন, ভাষায় জাদ্দ মানে মহত্ত্ব। প্রমাণ হিসেবে আনেন আনাস (রাঃ)-এর কথা: কেউ সূরা বাকারা আর আলে ইমরান মুখস্থ করলে আমাদের চোখে সে বড় হয়ে যেত। বাগাভী একই কথা আনেন, তবে সেখানে মুখস্থ করার জায়গায় আছে পড়া।"
           }
         ]
       },
@@ -57,15 +57,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A third gloss is wealth, or self-sufficiency. At-Tabari reports al-Hasan, through three chains, saying: the ghina of our Lord, His freedom from all need. One of those chains names al-Hasan and Ikrima together and only says that one of them said His wealth and the other His greatness. Al-Qurtubi adds Anas ibn Malik and Ikrima to the wealth reading. Both he and al-Baghawi tie it to an everyday use of the word: jadd is a person's luck or share of fortune, and a lucky man is called majdud.",
-            "bn": "তৃতীয় ব্যাখ্যা হলো ঐশ্বর্য, অর্থাৎ অমুখাপেক্ষিতা। তাবারী তিনটি সূত্রে হাসান বসরীর কথা আনেন: আমাদের রবের গিনা, মানে সব প্রয়োজন থেকে তাঁর মুক্তি। এর একটি সূত্রে হাসান আর ইকরিমার নাম একসঙ্গে এসেছে, আর সেখানে শুধু এটুকু আছে যে দুজনের একজন বলেছেন তাঁর ঐশ্বর্য, অন্যজন তাঁর মহত্ত্ব। কুরতুবী এই মতের সঙ্গে আনাস ইবন মালিক (রাঃ) ও ইকরিমার নাম যোগ করেন। তিনি ও বাগাভী দুজনেই একে জুড়ে দেন শব্দটির রোজকার ব্যবহারের সঙ্গে: জাদ্দ মানে মানুষের ভাগ্য বা কপাল, আর ভাগ্যবান লোককে বলা হয় মাজদূদ।"
+            "bn": "তৃতীয় ব্যাখ্যা হলো ঐশ্বর্য, অর্থাৎ অমুখাপেক্ষিতা। তাবারী তিনটি সূত্রে হাসান বসরীর কথা আনেন: আমাদের রবের গিনা, মানে সব প্রয়োজন থেকে তাঁর মুক্তি। এর একটি সূত্রে হাসান আর ইকরিমার নাম একসঙ্গে এসেছে, আর সেখানে শুধু এটুকু আছে যে দুজনের একজন বলেছেন তাঁর ঐশ্বর্য, অন্যজন তাঁর মহত্ত্ব। কুরতুবী এই মতের সঙ্গে আনাস ইবন মালিক (রাঃ) ও ইকরিমার নাম যোগ করেন। তিনি ও বাগাভী দুজনেই একে জুড়ে দেন শব্দটির রোজকার ব্যবহারের সঙ্গে: জাদ্দ মানে মানুষের ভাগ্য বা কপাল, আর ভাগ্যবান লোককে বলা হয় মাজদূদ।"
           },
           {
             "en": "Al-Qurtubi points here to a phrase in the hadith, and al-Bukhari records it in his Sahih (no. 844). Warrad, the clerk of al-Mughira ibn Shu'ba, says al-Mughira dictated to him in a letter to Mu'awiya that the Prophet ﷺ used to say after every obligatory prayer: There is no god but Allah, alone, without partner; His is the dominion and His the praise, and He has power over all things. O Allah, none can withhold what You give, none can give what You withhold, and the jadd of the one who has jadd avails him nothing against You.",
-            "bn": "কুরতুবী এখানে হাদিসের একটি বাক্যের দিকে ইশারা করেন। বুখারী বাক্যটি তাঁর সহীহ গ্রন্থে এনেছেন (হাদিস ৮৪৪)। মুগীরা ইবন শুবা (রাঃ)-এর কাতিব ওয়াররাদ বলেন, মুগীরা (রাঃ) মুআবিয়া (রাঃ)-কে একটি চিঠি পাঠান। চিঠিটা তিনি ওয়াররাদকে দিয়েই লেখান, আর তাতে ছিল, নবী ﷺ প্রতিটি ফরজ নামাজের পর বলতেন: আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি একা, তাঁর কোনো শরিক নেই। রাজত্ব তাঁরই, প্রশংসাও তাঁরই, আর তিনি সবকিছুর উপর ক্ষমতাবান। হে আল্লাহ, আপনি যা দেন তা কেউ আটকাতে পারে না, আপনি যা আটকে রাখেন তা কেউ দিতে পারে না, আর জাদ্দওয়ালার জাদ্দ আপনার সামনে তার কোনো কাজে আসে না।"
+            "bn": "কুরতুবী এখানে হাদিসের একটি বাক্যের দিকে ইশারা করেন। বুখারী বাক্যটি তাঁর সহীহ গ্রন্থে এনেছেন (হাদিস ৮৪৪)। মুগীরা ইবন শুবা (রাঃ)-এর কাতিব ওয়াররাদ বলেন, মুগীরা (রাঃ) মুআবিয়া (রাঃ)-কে একটি চিঠি পাঠান। চিঠিটা তিনি ওয়াররাদকে দিয়েই লেখান, আর তাতে ছিল, নবী ﷺ প্রতিটি ফরজ নামাজের পর বলতেন: আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি একা, তাঁর কোনো শরিক নেই। রাজত্ব তাঁরই, প্রশংসাও তাঁরই, আর তিনি সবকিছুর উপর ক্ষমতাবান। হে আল্লাহ, আপনি যা দেন তা কেউ আটকাতে পারে না, আপনি যা আটকে রাখেন তা কেউ দিতে পারে না, আর জাদ্দওয়ালার জাদ্দ আপনার সামনে তার কোনো কাজে আসে না।"
           },
           {
             "en": "In the same entry al-Bukhari adds al-Hasan's note: al-jadd is wealth. Al-Qurtubi gives Abu Ubayda and al-Khalil for the same sense: the rich man's riches do not help him before You; only obedience does. The English rendering on the page we checked translates the phrase differently, as no struggler's effort, so the word is left untranslated above. This narration is not attached to the verse by any of the commentators we read; it shows how the word was used. Read with it, the verse says that whatever greatness creatures hold, His alone is exalted.",
-            "bn": "একই বর্ণনার শেষে বুখারী হাসান বসরীর মন্তব্য জুড়ে দিয়েছেন: জাদ্দ মানে ঐশ্বর্য। কুরতুবী একই অর্থ আনেন আবু উবায়দা ও খলীলের নামে: ধনীর ধন আপনার সামনে তার উপকারে আসে না, কাজে আসে শুধু আনুগত্য। আমরা যে পৃষ্ঠা দেখেছি, সেখানকার ইংরেজি অনুবাদে বাক্যটির অর্থ করা হয়েছে অন্যভাবে, 'কোনো চেষ্টাকারীর চেষ্টা' বলে। তাই উপরে শব্দটির অনুবাদ না করে জাদ্দই রাখা হয়েছে। আমরা যেসব তাফসীর পড়েছি, তার কোনোটিই এই বর্ণনাকে আয়াতের সঙ্গে জুড়ে দেয়নি। বর্ণনাটি শুধু দেখায়, শব্দটা কীভাবে ব্যবহৃত হতো। এর আলোয় আয়াতের কথা দাঁড়ায়: সৃষ্টির হাতে যত বড়ত্বই থাকুক, সত্যিকারের উচ্চতা কেবল তাঁরই।"
+            "bn": "একই বর্ণনার শেষে বুখারী হাসান বসরীর মন্তব্য জুড়ে দিয়েছেন: জাদ্দ মানে ঐশ্বর্য। কুরতুবী একই অর্থ আনেন আবু উবায়দা ও খলীলের নামে: ধনীর ধন আপনার সামনে তার উপকারে আসে না, কাজে আসে শুধু আনুগত্য। আমরা যে পৃষ্ঠা দেখেছি, সেখানকার ইংরেজি অনুবাদে বাক্যটির অর্থ করা হয়েছে অন্যভাবে, 'কোনো চেষ্টাকারীর চেষ্টা' বলে। তাই উপরে শব্দটির অনুবাদ না করে জাদ্দই রাখা হয়েছে। আমরা যেসব তাফসীর পড়েছি, তার কোনোটিই এই বর্ণনাকে আয়াতের সঙ্গে জুড়ে দেয়নি। বর্ণনাটি শুধু দেখায়, শব্দটা কীভাবে ব্যবহৃত হতো। এর আলোয় আয়াতের কথা দাঁড়ায়: সৃষ্টির হাতে যত বড়ত্বই থাকুক, সত্যিকারের উচ্চতা কেবল তাঁরই।"
           }
         ]
       },
@@ -77,7 +77,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari does not leave the question open. The most correct view, he says, is that the jinn meant: exalted is the greatness of our Lord, His power and His authority. His argument runs through the Arabic. Jadd has two senses. One is a grandfather, the father's father or the mother's father, and these jinn cannot have meant that, because they had just said, we believe in it and will never associate anyone with our Lord. Whoever describes Allah as having a child or a grandfather, he writes, is without doubt among those who associate partners.",
-            "bn": "তাবারী প্রশ্নটা খোলা রাখেন না। তাঁর মতে সবচেয়ে সঠিক ব্যাখ্যা হলো, জিনেরা বোঝাতে চেয়েছে: আমাদের রবের মহত্ত্ব, ক্ষমতা আর কর্তৃত্ব অতি উচ্চ। তাঁর যুক্তি আরবি ভাষার উপর দাঁড়ানো। জাদ্দ শব্দের দুটি অর্থ। একটি হলো দাদা বা নানা। এই জিনেরা সে অর্থ বোঝাতে পারে না, কারণ একটু আগেই তারা বলেছে, আমরা এতে ঈমান এনেছি আর রবের সঙ্গে কাউকে কখনো শরিক করব না। তাবারী লেখেন, যে বলে আল্লাহর সন্তান বা দাদা আছে, সে নিঃসন্দেহে মুশরিকদের একজন।"
+            "bn": "তাবারী প্রশ্নটা খোলা রাখেন না। তাঁর মতে সবচেয়ে সঠিক ব্যাখ্যা হলো, জিনেরা বোঝাতে চেয়েছে: আমাদের রবের মহত্ত্ব, ক্ষমতা আর কর্তৃত্ব অতি উচ্চ। তাঁর যুক্তি আরবি ভাষার উপর দাঁড়ানো। জাদ্দ শব্দের দুটি অর্থ। একটি হলো দাদা বা নানা। এই জিনেরা সে অর্থ বোঝাতে পারে না, কারণ একটু আগেই তারা বলেছে, আমরা এতে ঈমান এনেছি আর রবের সঙ্গে কাউকে কখনো শরিক করব না। তাবারী লেখেন, যে বলে আল্লাহর সন্তান বা দাদা আছে, সে নিঃসন্দেহে মুশরিকদের একজন।"
           },
           {
             "en": "The second sense is hazz, a share of fortune, the word, he notes, that Persian calls bakht. This, God willing, is what the jinn intended: His portion of dominion, authority, power and greatness is high. Then he draws the link to the rest of the verse. A consort belongs to the weak, whom desire compels to take a wife, and a child comes from desire. So the jinn were saying that their Lord's dominion is too high for Him to share the weakness of His creatures. The verse itself, he adds, confirms this reading, because what they clear Him of is exactly a consort and a child.",
@@ -93,38 +93,38 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Some did take jadd here as grandfather, but only as an error in the speakers' mouths. At-Tabari records a group holding that the word meant the father's father and that this was the talk of ignorant jinn, citing a report from Abu Ja'far: it was speech from the ignorant among the jinn. Al-Qurtubi reports it under it is said, and then names Muhammad ibn Ali ibn al-Husayn, his son Ja'far as-Sadiq, and ar-Rabi': Allah has no jadd; the jinn said it out of ignorance and were not held to account for it.",
-            "bn": "কেউ কেউ এখানে জাদ্দ মানে দাদাই ধরেছেন, তবে বক্তাদের মুখের ভুল হিসেবে। তাবারী এমন একটি দলের মত উল্লেখ করেন, যাদের কাছে শব্দটির মানে বাবার বাবা, আর এটা ছিল অজ্ঞ জিনদের কথা। এর পক্ষে তিনি আবু জাফরের একটি বর্ণনা আনেন: এটা ছিল জিনদের মধ্যকার অজ্ঞদের কথা। কুরতুবী মতটি আনেন 'বলা হয়' দিয়ে। তারপর তিনি মুহাম্মাদ ইবন আলী ইবনুল হুসাইন, তাঁর পুত্র জাফর সাদিক ও রাবীর নাম নেন: আল্লাহর কোনো জাদ্দ নেই। জিনেরা অজ্ঞতা থেকে কথাটা বলেছিল, আর এর জন্য তাদের পাকড়াও করা হয়নি।"
+            "bn": "কেউ কেউ এখানে জাদ্দ মানে দাদাই ধরেছেন, তবে বক্তাদের মুখের ভুল হিসেবে। তাবারী এমন একটি দলের মত উল্লেখ করেন, যাদের কাছে শব্দটির মানে বাবার বাবা, আর এটা ছিল অজ্ঞ জিনদের কথা। এর পক্ষে তিনি আবু জাফরের একটি বর্ণনা আনেন: এটা ছিল জিনদের মধ্যকার অজ্ঞদের কথা। কুরতুবী মতটি আনেন 'বলা হয়' দিয়ে। তারপর তিনি মুহাম্মাদ ইবন আলী ইবনুল হুসাইন, তাঁর পুত্র জাফর সাদিক ও রাবীর নাম নেন: আল্লাহর কোনো জাদ্দ নেই। জিনেরা অজ্ঞতা থেকে কথাটা বলেছিল, আর এর জন্য তাদের পাকড়াও করা হয়নি।"
           },
           {
             "en": "Al-Qurtubi also cites al-Qushayri: using the word jadd of Allah is permissible, for otherwise it would not appear in the Qur'an, but it can suggest a wrong meaning, so avoiding it is better. Ibn Kathir quotes a report through Ibn Abi Hatim from Ibn Abbas: the jadd is a father, and had the jinn known that humans have a jadd, they would not have said this. He calls the chain good, then writes that he does not understand what the statement means; perhaps something has dropped out, and Allah knows best. He leaves the puzzle standing rather than force a meaning onto it.",
-            "bn": "কুরতুবী কুশাইরীর মতও আনেন: আল্লাহর ক্ষেত্রে জাদ্দ শব্দ ব্যবহার করা জায়েজ, নইলে তা কুরআনে আসত না। তবে শব্দটা ভুল অর্থের দিকে মন টানতে পারে, তাই এড়িয়ে চলাই উত্তম। ইবন কাসীর ইবন আবী হাতিমের সূত্রে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন: জাদ্দ মানে পিতা। জিনেরা যদি জানত যে মানুষের জাদ্দ আছে, তাহলে তারা এ কথা বলত না। ইবন কাসীর সনদটিকে ভালো বলেন। তারপরই লেখেন, এ কথার মানে তিনি বুঝতে পারছেন না। হয়তো মাঝখান থেকে কিছু বাদ পড়েছে, আল্লাহই ভালো জানেন। জোর করে কোনো অর্থ চাপিয়ে না দিয়ে তিনি ধাঁধাটা যেমন ছিল তেমনই রেখে দেন।"
+            "bn": "কুরতুবী কুশাইরীর মতও আনেন: আল্লাহর ক্ষেত্রে জাদ্দ শব্দ ব্যবহার করা জায়েজ, নইলে তা কুরআনে আসত না। তবে শব্দটা ভুল অর্থের দিকে মন টানতে পারে, তাই এড়িয়ে চলাই উত্তম। ইবন কাসীর ইবন আবী হাতিমের সূত্রে ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা আনেন: জাদ্দ মানে পিতা। জিনেরা যদি জানত যে মানুষের জাদ্দ আছে, তাহলে তারা এ কথা বলত না। ইবন কাসীর সনদটিকে ভালো বলেন। তারপরই লেখেন, এ কথার মানে তিনি বুঝতে পারছেন না। হয়তো মাঝখান থেকে কিছু বাদ পড়েছে, আল্লাহই ভালো জানেন। জোর করে কোনো অর্থ চাপিয়ে না দিয়ে তিনি ধাঁধাটা যেমন ছিল তেমনই রেখে দেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Wa-Annahu or Wa-Innahu",
-          "bn": "ওয়া আন্নাহু, না ওয়া ইন্নাহু"
+          "bn": "ওয়া আন্নাহু, না ওয়া ইন্নাহু"
         },
         "p": [
           {
             "en": "This verse begins a run of sentences opening with the same particle, and the readers differ over its vowel. Al-Qurtubi lists those who read anna, with fatha, in twelve places through the surah, starting here: Alqama, Yahya, al-A'mash, Hamza, al-Kisa'i, Ibn Amir, Khalaf, Hafs and as-Sulami. He gives three grammatical routes for them: joined to it has been revealed to me that in 72:1; joined to the pronoun in we believed in it in 72:2; or an understood verb, we affirmed that. The Arabic text printed here carries the fatha.",
-            "bn": "এই আয়াত থেকে পরপর কয়েকটি বাক্য একই অব্যয় দিয়ে শুরু হয়েছে। অব্যয়টির হরকত নিয়ে কারীদের মধ্যে মতভেদ আছে। সূরাজুড়ে বারোটি জায়গায়, এই আয়াত থেকে শুরু করে, যাঁরা যবর দিয়ে আন্না পড়েন, কুরতুবী তাঁদের নাম দেন: আলকামা, ইয়াহইয়া, আমাশ, হামযা, কিসায়ী, ইবন আমির, খালাফ, হাফস ও সুলামী। তাঁদের পক্ষে তিনি ব্যাকরণের তিনটি পথ দেখান। এক, ৭২:১ আয়াতের 'আমার কাছে ওহি এসেছে যে' কথাটির সঙ্গে যুক্ত। দুই, ৭২:২ আয়াতের 'আমরা এতে ঈমান এনেছি' কথার সর্বনামের সঙ্গে যুক্ত। তিন, উহ্য একটি ক্রিয়া, 'আমরা সত্য বলে মেনেছি যে'। এখানে ছাপা আরবি পাঠে যবরই আছে।"
+            "bn": "এই আয়াত থেকে পরপর কয়েকটি বাক্য একই অব্যয় দিয়ে শুরু হয়েছে। অব্যয়টির হরকত নিয়ে কারীদের মধ্যে মতভেদ আছে। সূরাজুড়ে বারোটি জায়গায়, এই আয়াত থেকে শুরু করে, যাঁরা যবর দিয়ে আন্না পড়েন, কুরতুবী তাঁদের নাম দেন: আলকামা, ইয়াহইয়া, আমাশ, হামযা, কিসায়ী, ইবন আমির, খালাফ, হাফস ও সুলামী। তাঁদের পক্ষে তিনি ব্যাকরণের তিনটি পথ দেখান। এক, ৭২:১ আয়াতের 'আমার কাছে ওহি এসেছে যে' কথাটির সঙ্গে যুক্ত। দুই, ৭২:২ আয়াতের 'আমরা এতে ঈমান এনেছি' কথার সর্বনামের সঙ্গে যুক্ত। তিন, উহ্য একটি ক্রিয়া, 'আমরা সত্য বলে মেনেছি যে'। এখানে ছাপা আরবি পাঠে যবরই আছে।"
           },
           {
             "en": "The rest, al-Qurtubi says, read inna, with kasra, throughout, and he calls that the correct reading, chosen by Abu Ubayda and Abu Hatim, because it is joined to they said: we have heard, and all of it is the jinn's speech. Abu Ja'far and Shayba opened only this verse and two after it as revelation. Al-Baghawi gives the fatha to the readers of Syria and Kufa, except Abu Bakr from Asim, and his own choice is also kasra throughout, since it is the jinn speaking to their people; those who open it, he says, mean: and we believed in all of that.",
-            "bn": "কুরতুবী বলেন, বাকিরা সবখানে যের দিয়ে ইন্না পড়েন, আর তাঁর মতে এটাই সঠিক পাঠ। আবু উবায়দা ও আবু হাতিমও এটাই বেছে নিয়েছেন, কারণ এর সংযোগ 'তারা বলল, আমরা শুনেছি' কথাটির সঙ্গে, আর পুরোটাই জিনদের কথা। আবু জাফর ও শাইবা যবর পড়েছেন শুধু এই আয়াতে আর এর পরের দুটিতে, এগুলোকে ওহি ধরে। বাগাভী যবরের পাঠ দেন শাম ও কুফার কারীদের নামে, আসিম থেকে আবু বকরের বর্ণনা বাদে। তাঁর নিজের পছন্দও সবখানে যের, কারণ এখানে জিনেরা নিজেদের জাতির সঙ্গে কথা বলছে। আর যাঁরা যবর পড়েন, তাঁদের কাছে অর্থ দাঁড়ায়: আমরা এর সবকিছুর উপর ঈমান এনেছি।"
+            "bn": "কুরতুবী বলেন, বাকিরা সবখানে যের দিয়ে ইন্না পড়েন, আর তাঁর মতে এটাই সঠিক পাঠ। আবু উবায়দা ও আবু হাতিমও এটাই বেছে নিয়েছেন, কারণ এর সংযোগ 'তারা বলল, আমরা শুনেছি' কথাটির সঙ্গে, আর পুরোটাই জিনদের কথা। আবু জাফর ও শাইবা যবর পড়েছেন শুধু এই আয়াতে আর এর পরের দুটিতে, এগুলোকে ওহি ধরে। বাগাভী যবরের পাঠ দেন শাম ও কুফার কারীদের নামে, আসিম থেকে আবু বকরের বর্ণনা বাদে। তাঁর নিজের পছন্দও সবখানে যের, কারণ এখানে জিনেরা নিজেদের জাতির সঙ্গে কথা বলছে। আর যাঁরা যবর পড়েন, তাঁদের কাছে অর্থ দাঁড়ায়: আমরা এর সবকিছুর উপর ঈমান এনেছি।"
           },
           {
             "en": "At-Tabari's account of the readers differs in places. He reports Asim reading kasra throughout except at 72:18, where al-Qurtubi and al-Baghawi separate Hafs from Abu Bakr. His own preference also differs: fatha where the words are revelation and kasra where they are the jinn's speech, as the most eloquent and clearest in meaning, while granting that the other readings have sound grounds. He does not say on which side this verse falls. So al-Qurtubi and al-Baghawi prefer kasra throughout, at-Tabari prefers the split, and the matter is left here as they left it.",
-            "bn": "কারীদের নিয়ে তাবারীর বিবরণ কিছু জায়গায় আলাদা। তাঁর বর্ণনায় আসিম সবখানে যের পড়েন, শুধু ৭২:১৮ আয়াত ছাড়া। অথচ কুরতুবী ও বাগাভী এখানে হাফস আর আবু বকরের পাঠ আলাদা করে দেখান। তাবারীর নিজের পছন্দও ভিন্ন: যেখানে কথাটা ওহি, সেখানে যবর, আর যেখানে জিনদের কথা, সেখানে যের। তাঁর মতে আরবিতে এটাই সবচেয়ে বিশুদ্ধ আর অর্থে সবচেয়ে স্পষ্ট, যদিও অন্য পাঠগুলোরও গ্রহণযোগ্য ভিত্তি আছে বলে তিনি মানেন। এই আয়াত কোন দিকে পড়ে, তা তিনি বলেননি। তাই কুরতুবী ও বাগাভী সবখানে যের পছন্দ করেন, তাবারী পছন্দ করেন ভাগ করে পড়া। বিষয়টা এখানে তাঁরা যেমন রেখেছেন, তেমনই থাকল।"
+            "bn": "কারীদের নিয়ে তাবারীর বিবরণ কিছু জায়গায় আলাদা। তাঁর বর্ণনায় আসিম সবখানে যের পড়েন, শুধু ৭২:১৮ আয়াত ছাড়া। অথচ কুরতুবী ও বাগাভী এখানে হাফস আর আবু বকরের পাঠ আলাদা করে দেখান। তাবারীর নিজের পছন্দও ভিন্ন: যেখানে কথাটা ওহি, সেখানে যবর, আর যেখানে জিনদের কথা, সেখানে যের। তাঁর মতে আরবিতে এটাই সবচেয়ে বিশুদ্ধ আর অর্থে সবচেয়ে স্পষ্ট, যদিও অন্য পাঠগুলোরও গ্রহণযোগ্য ভিত্তি আছে বলে তিনি মানেন। এই আয়াত কোন দিকে পড়ে, তা তিনি বলেননি। তাই কুরতুবী ও বাগাভী সবখানে যের পছন্দ করেন, তাবারী পছন্দ করেন ভাগ করে পড়া। বিষয়টা এখানে তাঁরা যেমন রেখেছেন, তেমনই থাকল।"
           }
         ]
       },
       {
         "h": {
           "en": "Clear of Every Need",
-          "bn": "সব প্রয়োজন থেকে মুক্ত"
+          "bn": "সব প্রয়োজন থেকে মুক্ত"
         },
         "p": [
           {
@@ -133,7 +133,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Zayd, as noted, recited Surah al-Ikhlas over this verse, setting it beside He neither begets nor is begotten (112:3). The verse is a negation about Allah, spoken by believing jinn. It names no human community, and it licenses nothing against any person or people living today; its work is to correct a picture of God, not to issue a verdict on anyone. The next verse turns to what the foolish among the jinn used to say, and that belongs to its own place.",
-            "bn": "আগেই বলা হয়েছে, ইবন যায়দ এই আয়াতের ব্যাখ্যায় সূরা ইখলাস তিলাওয়াত করেছিলেন। ফলে আয়াতটি গিয়ে দাঁড়ায় 'তিনি কাউকে জন্ম দেননি, কারও থেকে জন্মও নেননি' কথাটির পাশে (১১২:৩)। আয়াতে আল্লাহ সম্পর্কে কিছু কথা অস্বীকার করা হয়েছে, আর তা এসেছে ঈমান আনা জিনদের মুখে। এখানে কোনো মানবগোষ্ঠীর নাম নেই। আজকের কোনো মানুষ বা জাতির বিরুদ্ধে কিছু বলার অনুমতিও আয়াতটি দেয় না। এর কাজ আল্লাহ সম্পর্কে ভুল ধারণা শুধরে দেওয়া, কারও উপর রায় দেওয়া নয়। পরের আয়াতে আসে জিনদের মধ্যকার নির্বোধেরা আগে কী বলত সে কথা। সে আলোচনা তার নিজের জায়গায়।"
+            "bn": "আগেই বলা হয়েছে, ইবন যায়দ এই আয়াতের ব্যাখ্যায় সূরা ইখলাস তিলাওয়াত করেছিলেন। ফলে আয়াতটি গিয়ে দাঁড়ায় 'তিনি কাউকে জন্ম দেননি, কারও থেকে জন্মও নেননি' কথাটির পাশে (১১২:৩)। আয়াতে আল্লাহ সম্পর্কে কিছু কথা অস্বীকার করা হয়েছে, আর তা এসেছে ঈমান আনা জিনদের মুখে। এখানে কোনো মানবগোষ্ঠীর নাম নেই। আজকের কোনো মানুষ বা জাতির বিরুদ্ধে কিছু বলার অনুমতিও আয়াতটি দেয় না। এর কাজ আল্লাহ সম্পর্কে ভুল ধারণা শুধরে দেওয়া, কারও উপর রায় দেওয়া নয়। পরের আয়াতে আসে জিনদের মধ্যকার নির্বোধেরা আগে কী বলত সে কথা। সে আলোচনা তার নিজের জায়গায়।"
           }
         ]
       },
@@ -145,11 +145,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Set side by side, the glosses share a pattern. Command, power, majesty, mention, favours, dominion, wealth, a share of fortune: each names something creatures also hold in some measure, and each says that His is beyond measure. The jinn's order matters too. They heard, believed, refused every partner, and only then described their Lord. Refusing partners was not left as a bare denial; they said why it must be so, and the reason was His greatness, which leaves no room for need.",
-            "bn": "ব্যাখ্যাগুলো পাশাপাশি রাখলে একটা মিল চোখে পড়ে। আদেশ, ক্ষমতা, মহিমা, জিকির, নিয়ামত, রাজত্ব, ঐশ্বর্য, ভাগ্যের অংশ: প্রতিটি এমন জিনিস, যা সৃষ্টির হাতেও কিছু না কিছু থাকে। আর প্রতিটি ব্যাখ্যাই বলে, তাঁরটা সব মাপের বাইরে। জিনদের কথার ক্রমটাও লক্ষ করার মতো। তারা শুনল, ঈমান আনল, সব শরিক অস্বীকার করল, তারপর রবের পরিচয় দিল। শরিক অস্বীকার করাটা শুধু একটা না-বাচক কথা হয়ে থাকেনি। কেন এমনই হতে হবে, তারা তাও বলেছে। কারণটা তাঁর মহত্ত্ব, যেখানে প্রয়োজনের কোনো জায়গা নেই।"
+            "bn": "ব্যাখ্যাগুলো পাশাপাশি রাখলে একটা মিল চোখে পড়ে। আদেশ, ক্ষমতা, মহিমা, জিকির, নিয়ামত, রাজত্ব, ঐশ্বর্য, ভাগ্যের অংশ: প্রতিটি এমন জিনিস, যা সৃষ্টির হাতেও কিছু না কিছু থাকে। আর প্রতিটি ব্যাখ্যাই বলে, তাঁরটা সব মাপের বাইরে। জিনদের কথার ক্রমটাও লক্ষ করার মতো। তারা শুনল, ঈমান আনল, সব শরিক অস্বীকার করল, তারপর রবের পরিচয় দিল। শরিক অস্বীকার করাটা শুধু একটা না-বাচক কথা হয়ে থাকেনি। কেন এমনই হতে হবে, তারা তাও বলেছে। কারণটা তাঁর মহত্ত্ব, যেখানে প্রয়োজনের কোনো জায়গা নেই।"
           },
           {
             "en": "The narration in al-Bukhari puts the same word on a believer's tongue after every obligatory prayer: the jadd of the one who has jadd avails him nothing against You. Whatever standing, wealth or luck we carry, we bring it to Him empty-handed. The verse also corrects a quieter mistake: worshipping as if He gained something from it. He took no consort and no child because He needs no one, and that includes our devotion. What we bring to Him is for our own good, and the fitting response is gratitude.",
-            "bn": "বুখারীর বর্ণনাটি প্রতিটি ফরজ নামাজের পর মুমিনের মুখে একই শব্দ তুলে দেয়: জাদ্দওয়ালার জাদ্দ আপনার সামনে তার কোনো কাজে আসে না। আমাদের যত পদমর্যাদা, সম্পদ বা সৌভাগ্যই থাকুক, তাঁর সামনে আমরা খালি হাতেই দাঁড়াই। আয়াতটি আরও একটা নীরব ভুল শুধরে দেয়: এমনভাবে ইবাদত করা, যেন এতে তাঁর কিছু লাভ হচ্ছে। তিনি কোনো স্ত্রী বা সন্তান গ্রহণ করেননি, কারণ কারও প্রয়োজন তাঁর নেই, আমাদের ইবাদতেরও না। যা নিয়ে আমরা তাঁর কাছে যাই, তা আমাদেরই কল্যাণের জন্য। তাই এর যথাযথ জবাব হলো শুকরিয়া।"
+            "bn": "বুখারীর বর্ণনাটি প্রতিটি ফরজ নামাজের পর মুমিনের মুখে একই শব্দ তুলে দেয়: জাদ্দওয়ালার জাদ্দ আপনার সামনে তার কোনো কাজে আসে না। আমাদের যত পদমর্যাদা, সম্পদ বা সৌভাগ্যই থাকুক, তাঁর সামনে আমরা খালি হাতেই দাঁড়াই। আয়াতটি আরও একটা নীরব ভুল শুধরে দেয়: এমনভাবে ইবাদত করা, যেন এতে তাঁর কিছু লাভ হচ্ছে। তিনি কোনো স্ত্রী বা সন্তান গ্রহণ করেননি, কারণ কারও প্রয়োজন তাঁর নেই, আমাদের ইবাদতেরও না। যা নিয়ে আমরা তাঁর কাছে যাই, তা আমাদেরই কল্যাণের জন্য। তাই এর যথাযথ জবাব হলো শুকরিয়া।"
           }
         ]
       }
@@ -160,16 +160,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Reaching for the Sky",
-          "bn": "আকাশের দিকে হাত বাড়ানো"
+          "bn": "আকাশের দিকে হাত বাড়ানো"
         },
         "p": [
           {
             "en": "Wa-anna lamasna as-sama'a fa-wajadnaha muli'at harasan shadidan wa-shuhuba: and we sought the sky, and found it filled with stern guards and flames. The speakers are still the company of jinn whose report opens the surah. In 72:1 and 72:2 they hear a wondrous recitation that guides to right conduct, and they believe. A run of clauses follows, opening with wa-annahu or wa-anna, and that: what they now confess about their Lord, about their own foolish ones, and about what they had wrongly assumed.",
-            "bn": "ওয়া আন্না লামাসনাস সামাআ ফাওয়াজাদনাহা মুলিআত হারাসান শাদীদাওঁ ওয়া শুহুবা: আর আমরা আকাশের নাগাল চেয়েছিলাম, কিন্তু দেখলাম তা কঠোর প্রহরী আর জ্বলন্ত উল্কায় ভরা। বক্তা এখনো সেই জ্বিনদলই, যাদের কথা দিয়ে সূরাটি শুরু। ৭২:১ ও ৭২:২ আয়াতে তারা এক বিস্ময়কর তিলাওয়াত শোনে, যা সঠিক পথ দেখায়, আর তারা ঈমান আনে। এরপর একের পর এক বাক্য আসে, প্রায় প্রতিটির শুরু ওয়া আন্নাহু বা ওয়া আন্না দিয়ে। তাতে আছে রব সম্পর্কে তাদের নতুন স্বীকারোক্তি, নিজেদের নির্বোধদের কথা, আর যেসব ধারণা তারা ভুলভাবে পুষে রেখেছিল।"
+            "bn": "ওয়া আন্না লামাসনাস সামাআ ফাওয়াজাদনাহা মুলিআত হারাসান শাদীদাওঁ ওয়া শুহুবা: আর আমরা আকাশের নাগাল চেয়েছিলাম, কিন্তু দেখলাম তা কঠোর প্রহরী আর জ্বলন্ত উল্কায় ভরা। বক্তা এখনো সেই জ্বিনদলই, যাদের কথা দিয়ে সূরাটি শুরু। ৭২:১ ও ৭২:২ আয়াতে তারা এক বিস্ময়কর তিলাওয়াত শোনে, যা সঠিক পথ দেখায়, আর তারা ঈমান আনে। এরপর একের পর এক বাক্য আসে, প্রায় প্রতিটির শুরু ওয়া আন্নাহু বা ওয়া আন্না দিয়ে। তাতে আছে রব সম্পর্কে তাদের নতুন স্বীকারোক্তি, নিজেদের নির্বোধদের কথা, আর যেসব ধারণা তারা ভুলভাবে পুষে রেখেছিল।"
           },
           {
             "en": "72:7 ends on such an assumption, that Allah would never send anyone. 72:8 turns from what they believed to what they found. 72:9 completes the report, recalling the seats they once took for listening and the flame that now lies in wait. Then 72:10 gives their verdict, which is no verdict: they do not know whether harm is meant for those on earth, or whether their Lord means right guidance for them. The verse stands between an old habit and an open question.",
-            "bn": "৭২:৭ আয়াত শেষ হয় এমনই এক ধারণায়: আল্লাহ কাউকে পাঠাবেন না। ৭২:৮ আয়াতে তারা বিশ্বাসের কথা ছেড়ে অভিজ্ঞতার কথায় আসে, যা তারা নিজের চোখে দেখেছে। ৭২:৯ আয়াত সেই বিবরণ পূর্ণ করে। আগে শোনার জন্য তারা যেসব ঘাঁটিতে বসত, সেগুলোর কথা মনে করে, আর বলে এখন সেখানে উল্কা ওত পেতে থাকে। তারপর ৭২:১০ আয়াতে তাদের রায়, যা আসলে কোনো রায় নয়। তারা জানে না পৃথিবীবাসীর অমঙ্গল চাওয়া হয়েছে, নাকি তাদের রব তাদের সঠিক পথ দেখাতে চান। আয়াতটি দাঁড়িয়ে আছে এক পুরোনো অভ্যাস আর এক খোলা প্রশ্নের মাঝখানে।"
+            "bn": "৭২:৭ আয়াত শেষ হয় এমনই এক ধারণায়: আল্লাহ কাউকে পাঠাবেন না। ৭২:৮ আয়াতে তারা বিশ্বাসের কথা ছেড়ে অভিজ্ঞতার কথায় আসে, যা তারা নিজের চোখে দেখেছে। ৭২:৯ আয়াত সেই বিবরণ পূর্ণ করে। আগে শোনার জন্য তারা যেসব ঘাঁটিতে বসত, সেগুলোর কথা মনে করে, আর বলে এখন সেখানে উল্কা ওত পেতে থাকে। তারপর ৭২:১০ আয়াতে তাদের রায়, যা আসলে কোনো রায় নয়। তারা জানে না পৃথিবীবাসীর অমঙ্গল চাওয়া হয়েছে, নাকি তাদের রব তাদের সঠিক পথ দেখাতে চান। আয়াতটি দাঁড়িয়ে আছে এক পুরোনো অভ্যাস আর এক খোলা প্রশ্নের মাঝখানে।"
           }
         ]
       },
@@ -181,7 +181,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Lamasna is from the root l-m-s. The English rendering used here says we have sought, with to reach in brackets. The commentators consulted for this verse each give it a sense of reaching for. At-Tabari glosses it as talabna as-sama'a wa-aradnaha: we sought the sky and wanted it. Al-Qurtubi adds the object and the custom: talabna khabaraha kama jarat 'adatuna, we sought its news, as had been our habit. The Muyassar names a purpose: we sought to reach the sky in order to listen to the speech of its inhabitants.",
-            "bn": "লামাসনা শব্দটি ল-ম-স ধাতু থেকে। এখানে ব্যবহৃত ইংরেজি অনুবাদে আছে 'আমরা চেয়েছিলাম', আর বন্ধনীতে 'পৌঁছাতে'। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, সবগুলোই শব্দটিকে নাগাল পাওয়ার চেষ্টা অর্থে নিয়েছে। তাবারী লেখেন: তালাবনাস সামাআ ওয়া আরাদনাহা, আমরা আকাশ চেয়েছিলাম, তার ইচ্ছা করেছিলাম। কুরতুবী বিষয় আর অভ্যাস দুটোই যোগ করেন: আমরা আকাশের খবর খুঁজেছিলাম, যেমনটা আমাদের চিরাচরিত অভ্যাস ছিল। মুয়াসসার উদ্দেশ্যটাও বলে দেয়: আকাশবাসীদের কথা শোনার জন্য আমরা আকাশে পৌঁছাতে চেয়েছিলাম।"
+            "bn": "লামাসনা শব্দটি ল-ম-স ধাতু থেকে। এখানে ব্যবহৃত ইংরেজি অনুবাদে আছে 'আমরা চেয়েছিলাম', আর বন্ধনীতে 'পৌঁছাতে'। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, সবগুলোই শব্দটিকে নাগাল পাওয়ার চেষ্টা অর্থে নিয়েছে। তাবারী লেখেন: তালাবনাস সামাআ ওয়া আরাদনাহা, আমরা আকাশ চেয়েছিলাম, তার ইচ্ছা করেছিলাম। কুরতুবী বিষয় আর অভ্যাস দুটোই যোগ করেন: আমরা আকাশের খবর খুঁজেছিলাম, যেমনটা আমাদের চিরাচরিত অভ্যাস ছিল। মুয়াসসার উদ্দেশ্যটাও বলে দেয়: আকাশবাসীদের কথা শোনার জন্য আমরা আকাশে পৌঁছাতে চেয়েছিলাম।"
           },
           {
             "en": "As-Sa'di gives the verb a different colour: ataynaha wa-khtabarnaha, we came to it and put it to the test. He then states the point in their own terms: this was contrary to our earlier custom, for we used to be able to reach the news of the sky. The glosses do not compete. Seeking, wanting, coming and testing describe one approach from four sides, and all of them end at the same discovery: the sky was full.",
@@ -201,7 +201,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "He allows a second parsing: haras may be a verbal noun, so that the sense is that it was guarded with a stern guarding. Shuhub is the plural of shihab. At-Tabari calls them the stars with which the devils used to be pelted. Al-Qurtubi calls them the swooping of burning stars that kept the devils from stealing a hearing, and al-Baghawi says simply, from the stars. Ma'arif al-Qur'an takes a distinct line on the word sama': it can mean cloud as well as sky, and it judges that cloud is meant here, so the eavesdroppers sat at the level of the clouds.",
-            "bn": "কুরতুবী আরেকটি ব্যাকরণিক বিশ্লেষণেরও সুযোগ রাখেন: হারাস ক্রিয়াবাচক বিশেষ্যও হতে পারে। তখন অর্থ দাঁড়ায়, আকাশকে কঠোরভাবে পাহারা দেওয়া হয়েছিল। শুহুব হলো শিহাবের বহুবচন। তাবারী বলেন, এগুলো সেই তারকা যা দিয়ে শয়তানদের ঢিল মারা হতো। কুরতুবীর ভাষায়, জ্বলন্ত তারকার ছুটে পড়া, যা শয়তানদের গোপনে কথা শোনা থেকে আটকায়। বাগাভী ছোট করে বলেন, তারকা থেকে। মাআরিফুল কুরআন সামা শব্দ নিয়ে আলাদা পথ ধরে। শব্দটির অর্থ আকাশ যেমন, মেঘও তেমন। তার বিবেচনায় এখানে মেঘ উদ্দেশ্য, অর্থাৎ আড়ি পাতার দল বসত মেঘের স্তরে।"
+            "bn": "কুরতুবী আরেকটি ব্যাকরণিক বিশ্লেষণেরও সুযোগ রাখেন: হারাস ক্রিয়াবাচক বিশেষ্যও হতে পারে। তখন অর্থ দাঁড়ায়, আকাশকে কঠোরভাবে পাহারা দেওয়া হয়েছিল। শুহুব হলো শিহাবের বহুবচন। তাবারী বলেন, এগুলো সেই তারকা যা দিয়ে শয়তানদের ঢিল মারা হতো। কুরতুবীর ভাষায়, জ্বলন্ত তারকার ছুটে পড়া, যা শয়তানদের গোপনে কথা শোনা থেকে আটকায়। বাগাভী ছোট করে বলেন, তারকা থেকে। মাআরিফুল কুরআন সামা শব্দ নিয়ে আলাদা পথ ধরে। শব্দটির অর্থ আকাশ যেমন, মেঘও তেমন। তার বিবেচনায় এখানে মেঘ উদ্দেশ্য, অর্থাৎ আড়ি পাতার দল বসত মেঘের স্তরে।"
           }
         ]
       },
@@ -213,47 +213,47 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir opens his note by placing the verse in time: Allah tells of the jinn when He sent His Messenger Muhammad ﷺ and sent down the Qur'an to him, and part of His guarding it was that the sky was filled with stern guards and protected on all its sides. On the next verse he gives the reason. The devils were driven from their old seats so that they could not steal anything of the Qur'an and cast it onto the tongues of soothsayers, leaving the matter confused, with no way to know who was truthful.",
-            "bn": "ইবন কাসীর শুরুতেই জানিয়ে দেন, আয়াতটি কোন সময়ের কথা। আল্লাহ জানাচ্ছেন সেই সময়ের জ্বিনদের কথা, যখন তিনি তাঁর রাসূল মুহাম্মাদ ﷺ-কে পাঠালেন আর তাঁর উপর কুরআন নাজিল করলেন। কুরআন হেফাজতের অংশ হিসেবেই আকাশ কঠোর প্রহরীতে ভরে দেওয়া হলো, চারদিক থেকে ঘিরে রাখা হলো। পরের আয়াতে তিনি কারণটাও বলেন। শয়তানদের তাদের পুরোনো ঘাঁটি থেকে তাড়িয়ে দেওয়া হলো, যাতে তারা কুরআনের কিছুই চুরি করে গণকদের মুখে তুলে দিতে না পারে। তা হলে সব গুলিয়ে যেত, কে সত্যবাদী বোঝার উপায় থাকত না।"
+            "bn": "ইবন কাসীর শুরুতেই জানিয়ে দেন, আয়াতটি কোন সময়ের কথা। আল্লাহ জানাচ্ছেন সেই সময়ের জ্বিনদের কথা, যখন তিনি তাঁর রাসূল মুহাম্মাদ ﷺ-কে পাঠালেন আর তাঁর উপর কুরআন নাজিল করলেন। কুরআন হেফাজতের অংশ হিসেবেই আকাশ কঠোর প্রহরীতে ভরে দেওয়া হলো, চারদিক থেকে ঘিরে রাখা হলো। পরের আয়াতে তিনি কারণটাও বলেন। শয়তানদের তাদের পুরোনো ঘাঁটি থেকে তাড়িয়ে দেওয়া হলো, যাতে তারা কুরআনের কিছুই চুরি করে গণকদের মুখে তুলে দিতে না পারে। তা হলে সব গুলিয়ে যেত, কে সত্যবাদী বোঝার উপায় থাকত না।"
           },
           {
             "en": "He calls this a kindness of Allah to His creation, a mercy to His servants and a protection of His Mighty Book. Ma'arif al-Qur'an makes the same point: at the Prophet's advent there arose the need to protect the heavenly revelation, and the devils' access to the upper region was stopped. At-Tabari, on the next verse, gives a report from Qatada covering this pair: the jinn used to hear what was heard in the sky; when Allah sent His Prophet, the sky was guarded and they were barred, and the jinn noticed the loss among themselves.",
-            "bn": "ইবন কাসীর একে বলেন সৃষ্টির প্রতি আল্লাহর অনুগ্রহ, বান্দাদের প্রতি তাঁর রহমত, আর তাঁর মহিমান্বিত কিতাবের হেফাজত। মাআরিফুল কুরআনও একই কথা বলে। নবী ﷺ-এর আগমনের সময় আসমানি ওহি রক্ষার প্রয়োজন দেখা দিল, তাই উপরের স্তরে শয়তানদের যাতায়াত বন্ধ করে দেওয়া হলো। তাবারী পরের আয়াতে কাতাদা থেকে একটি বর্ণনা আনেন, যা এই দুই আয়াত জুড়ে। জ্বিনেরা আকাশের কথাবার্তা শুনতে পেত। আল্লাহ যখন তাঁর নবীকে পাঠালেন, আকাশে পাহারা বসল, তাদের আটকে দেওয়া হলো। জ্বিনেরা নিজেরাই টের পেল, কী যেন হারিয়ে গেছে।"
+            "bn": "ইবন কাসীর একে বলেন সৃষ্টির প্রতি আল্লাহর অনুগ্রহ, বান্দাদের প্রতি তাঁর রহমত, আর তাঁর মহিমান্বিত কিতাবের হেফাজত। মাআরিফুল কুরআনও একই কথা বলে। নবী ﷺ-এর আগমনের সময় আসমানি ওহি রক্ষার প্রয়োজন দেখা দিল, তাই উপরের স্তরে শয়তানদের যাতায়াত বন্ধ করে দেওয়া হলো। তাবারী পরের আয়াতে কাতাদা থেকে একটি বর্ণনা আনেন, যা এই দুই আয়াত জুড়ে। জ্বিনেরা আকাশের কথাবার্তা শুনতে পেত। আল্লাহ যখন তাঁর নবীকে পাঠালেন, আকাশে পাহারা বসল, তাদের আটকে দেওয়া হলো। জ্বিনেরা নিজেরাই টের পেল, কী যেন হারিয়ে গেছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Begun at the Mission",
-          "bn": "নবুওয়াতের সঙ্গে শুরু"
+          "bn": "নবুওয়াতের সঙ্গে শুরু"
         },
         "p": [
           {
             "en": "Here the early generations disagreed, and al-Qurtubi, on the next verse, sets out the dispute: were the devils pelted before the mission, or did the pelting begin with it? One side held that the sky was not guarded in the five hundred years between 'Isa (AS) and Muhammad ﷺ, and was guarded only because of his sending. Al-Qurtubi gives this as the view of al-Kalbi and of a group, adds that 'Atiyya al-'Awfi narrated it from Ibn 'Abbas (RA) as al-Bayhaqi mentions, and records a saying that the falling of stars came only after the mission, as one of his signs.",
-            "bn": "এখানে পূর্বসূরিদের মধ্যে মতভেদ আছে। কুরতুবী পরের আয়াতের আলোচনায় পুরো বিতর্কটা তুলে ধরেন। নবুওয়াতের আগেও কি শয়তানদের উল্কা ছুড়ে মারা হতো, নাকি তা শুরু হয়েছে নবুওয়াতের সঙ্গে? এক পক্ষের মত, ঈসা (আঃ) আর মুহাম্মাদ ﷺ-এর মাঝের পাঁচশো বছর আকাশে পাহারা ছিল না। পাহারা বসেছে কেবল তাঁর আগমনের কারণে। কুরতুবী এ মত কালবী ও একদল আলেমের বলে উল্লেখ করেন। তিনি যোগ করেন, আতিয়্যা আল-আওফী এটি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন, বায়হাকী তা উল্লেখ করেছেন। আরেকটি উক্তিও তিনি আনেন: তারকা খসে পড়া শুরু হয়েছে নবুওয়াতের পরেই, আর তা নবীর নিদর্শনগুলোর একটি।"
+            "bn": "এখানে পূর্বসূরিদের মধ্যে মতভেদ আছে। কুরতুবী পরের আয়াতের আলোচনায় পুরো বিতর্কটা তুলে ধরেন। নবুওয়াতের আগেও কি শয়তানদের উল্কা ছুড়ে মারা হতো, নাকি তা শুরু হয়েছে নবুওয়াতের সঙ্গে? এক পক্ষের মত, ঈসা (আঃ) আর মুহাম্মাদ ﷺ-এর মাঝের পাঁচশো বছর আকাশে পাহারা ছিল না। পাহারা বসেছে কেবল তাঁর আগমনের কারণে। কুরতুবী এ মত কালবী ও একদল আলেমের বলে উল্লেখ করেন। তিনি যোগ করেন, আতিয়্যা আল-আওফী এটি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন, বায়হাকী তা উল্লেখ করেছেন। আরেকটি উক্তিও তিনি আনেন: তারকা খসে পড়া শুরু হয়েছে নবুওয়াতের পরেই, আর তা নবীর নিদর্শনগুলোর একটি।"
           },
           {
             "en": "He lists others on this side. 'Abdullah ibn 'Umar (RA) said that on the day the Prophet ﷺ was given prophethood the devils were barred and pelted with flames. 'Abd al-Malik ibn Sabur said the sky was not guarded in the interval and was guarded once he was sent. Nafi' ibn Jubayr said the devils listened in the interval without being pelted. Ubayy ibn Ka'b (RA) is reported as saying that no star had been thrown since 'Isa (AS) was raised until the Prophet ﷺ was given prophethood. Al-Qurtubi also records al-Jahiz rejecting as forged every poem cited for pelting before the mission.",
-            "bn": "এ পক্ষে কুরতুবী আরও কয়েকজনের নাম আনেন। আবদুল্লাহ ইবন উমার (রাঃ) বলেছেন, যেদিন নবী ﷺ নবুওয়াত পেলেন, সেদিন শয়তানদের আটকে দেওয়া হলো, আর উল্কা ছুড়ে মারা হলো। আবদুল মালিক ইবন সাবূর বলেছেন, মাঝের বিরতিকালে আকাশে পাহারা ছিল না, তিনি প্রেরিত হওয়ার পর পাহারা বসল। নাফি ইবন জুবাইরের মতে, বিরতিকালে শয়তানেরা শুনত কিন্তু তাদের ঢিল মারা হতো না। উবাই ইবন কা'ব (রাঃ) থেকে বর্ণিত, ঈসা (আঃ)-কে তুলে নেওয়ার পর থেকে নবী ﷺ নবুওয়াত পাওয়া পর্যন্ত একটি তারকাও ছোড়া হয়নি। কুরতুবী জাহিযের মতও উল্লেখ করেন। নবুওয়াতের আগে উল্কা ছোড়ার প্রমাণ হিসেবে যত কবিতা আনা হয়, জাহিয সবগুলোকে বানোয়াট বলে প্রত্যাখ্যান করেছেন।"
+            "bn": "এ পক্ষে কুরতুবী আরও কয়েকজনের নাম আনেন। আবদুল্লাহ ইবন উমার (রাঃ) বলেছেন, যেদিন নবী ﷺ নবুওয়াত পেলেন, সেদিন শয়তানদের আটকে দেওয়া হলো, আর উল্কা ছুড়ে মারা হলো। আবদুল মালিক ইবন সাবূর বলেছেন, মাঝের বিরতিকালে আকাশে পাহারা ছিল না, তিনি প্রেরিত হওয়ার পর পাহারা বসল। নাফি ইবন জুবাইরের মতে, বিরতিকালে শয়তানেরা শুনত কিন্তু তাদের ঢিল মারা হতো না। উবাই ইবন কা'ব (রাঃ) থেকে বর্ণিত, ঈসা (আঃ)-কে তুলে নেওয়ার পর থেকে নবী ﷺ নবুওয়াত পাওয়া পর্যন্ত একটি তারকাও ছোড়া হয়নি। কুরতুবী জাহিযের মতও উল্লেখ করেন। নবুওয়াতের আগে উল্কা ছোড়ার প্রমাণ হিসেবে যত কবিতা আনা হয়, জাহিয সবগুলোকে বানোয়াট বলে প্রত্যাখ্যান করেছেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Or Made Stricter",
-          "bn": "নাকি আরও কড়া হলো"
+          "bn": "নাকি আরও কড়া হলো"
         },
         "p": [
           {
             "en": "The other side held that pelting existed before the mission and was increased at it, as a warning of the Prophet's coming. On this reading muli'at, it was filled, means its guard was added to. Al-Qurtubi cites a line by the pre-Islamic poet Aws ibn Hajar describing a falling star, and calls this the view of the majority. He adds a narration from Ibn 'Abbas (RA): a star was thrown while the Prophet ﷺ sat with companions, and he asked what they used to say of such a thing in the Jahiliyyah.",
-            "bn": "অন্য পক্ষের মত, নবুওয়াতের আগেও উল্কা ছোড়া হতো, নবুওয়াতের সময় তা বাড়ানো হয়েছে, নবীর আগমনের সতর্কসংকেত হিসেবে। এ ব্যাখ্যায় মুলিআত, ভরে দেওয়া হয়েছে, মানে পাহারা আরও বাড়ানো হয়েছে। কুরতুবী জাহিলি যুগের কবি আওস ইবন হাজারের একটি পঙ্‌ক্তি উদ্ধৃত করেন, যেখানে খসে পড়া তারার বর্ণনা আছে। তিনি বলেন, এটিই অধিকাংশের মত। সঙ্গে আনেন ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা। নবী ﷺ সাহাবিদের নিয়ে বসে ছিলেন, এমন সময় একটি তারা ছুটে গেল। তিনি জিজ্ঞেস করলেন, জাহিলিয়াতের যুগে এমন কিছু দেখলে তোমরা কী বলতে?"
+            "bn": "অন্য পক্ষের মত, নবুওয়াতের আগেও উল্কা ছোড়া হতো, নবুওয়াতের সময় তা বাড়ানো হয়েছে, নবীর আগমনের সতর্কসংকেত হিসেবে। এ ব্যাখ্যায় মুলিআত, ভরে দেওয়া হয়েছে, মানে পাহারা আরও বাড়ানো হয়েছে। কুরতুবী জাহিলি যুগের কবি আওস ইবন হাজারের একটি পঙ্‌ক্তি উদ্ধৃত করেন, যেখানে খসে পড়া তারার বর্ণনা আছে। তিনি বলেন, এটিই অধিকাংশের মত। সঙ্গে আনেন ইবন আব্বাস (রাঃ)-এর একটি বর্ণনা। নবী ﷺ সাহাবিদের নিয়ে বসে ছিলেন, এমন সময় একটি তারা ছুটে গেল। তিনি জিজ্ঞেস করলেন, জাহিলিয়াতের যুগে এমন কিছু দেখলে তোমরা কী বলতে?"
           },
           {
             "en": "They said a great man dies or is born. He replied that stars are not thrown for anyone's death or life; when Allah decrees a matter, the news passes down through the heavens and the jinn snatch at it. Al-Qurtubi says this shows pelting before the mission, and gives a report from al-Zuhri: asked whether there was pelting in the Jahiliyyah, he said yes; asked about 72:9, he said it was made harsher and stricter when the Prophet ﷺ was sent. Ibn Qutayba held the same: before, they stole a hearing and were pelted at times, and after the mission they were barred altogether.",
-            "bn": "তাঁরা বললেন, আমরা বলতাম কোনো বড় মানুষ মারা গেছেন বা জন্মেছেন। তিনি বললেন, কারও মৃত্যু বা জন্মের জন্য তারা ছোড়া হয় না। আল্লাহ যখন কোনো বিষয়ের ফয়সালা করেন, সে খবর আসমান থেকে আসমানে নেমে আসে, আর জ্বিনেরা তা ছোঁ মেরে নিতে চায়। কুরতুবী বলেন, এতে বোঝা যায় নবুওয়াতের আগেও উল্কা ছোড়া হতো। তিনি যুহরীর একটি বর্ণনাও আনেন। তাঁকে জিজ্ঞেস করা হলো, জাহিলিয়াতে কি উল্কা ছোড়া হতো? তিনি বললেন, হ্যাঁ। ৭২:৯ আয়াত সম্পর্কে জিজ্ঞেস করলে বললেন, নবী ﷺ প্রেরিত হওয়ার পর তা আরও কঠিন ও কড়া করা হয়েছে। ইবন কুতাইবারও একই মত। আগে তারা চুরি করে শুনত আর মাঝে মাঝে ঢিল খেত। নবুওয়াতের পর তাদের পুরোপুরি আটকে দেওয়া হয়।"
+            "bn": "তাঁরা বললেন, আমরা বলতাম কোনো বড় মানুষ মারা গেছেন বা জন্মেছেন। তিনি বললেন, কারও মৃত্যু বা জন্মের জন্য তারা ছোড়া হয় না। আল্লাহ যখন কোনো বিষয়ের ফয়সালা করেন, সে খবর আসমান থেকে আসমানে নেমে আসে, আর জ্বিনেরা তা ছোঁ মেরে নিতে চায়। কুরতুবী বলেন, এতে বোঝা যায় নবুওয়াতের আগেও উল্কা ছোড়া হতো। তিনি যুহরীর একটি বর্ণনাও আনেন। তাঁকে জিজ্ঞেস করা হলো, জাহিলিয়াতে কি উল্কা ছোড়া হতো? তিনি বললেন, হ্যাঁ। ৭২:৯ আয়াত সম্পর্কে জিজ্ঞেস করলে বললেন, নবী ﷺ প্রেরিত হওয়ার পর তা আরও কঠিন ও কড়া করা হয়েছে। ইবন কুতাইবারও একই মত। আগে তারা চুরি করে শুনত আর মাঝে মাঝে ঢিল খেত। নবুওয়াতের পর তাদের পুরোপুরি আটকে দেওয়া হয়।"
           },
           {
             "en": "Al-Qurtubi then states a preference, and it is his: the view that pelting existed before is the sounder, because of the words found it filled, which he reads as an increase in the sky's guard. Ibn Kathir writes that shooting stars did occur before, though rarely, and quotes as-Suddi: the sky was never guarded except when there was a prophet on earth or Allah's religion was dominant. Ma'arif al-Qur'an holds that the flames existed from the start but were not used to repel the devils before the Prophet's advent. Each position stays with its holder.",
-            "bn": "এরপর কুরতুবী নিজের পছন্দের কথা বলেন, আর সেটা তাঁরই মত। তাঁর বিবেচনায় আগেও উল্কা ছোড়া হতো, এ মতই বেশি সঠিক। দলিল আয়াতের 'ভরা পেলাম' কথাটি, যা তিনি পাহারা বাড়ানোর অর্থে পড়েন। ইবন কাসীর লেখেন, আগেও তারা খসে পড়ার ঘটনা ঘটত, তবে কালেভদ্রে। তিনি সুদ্দীর উক্তি আনেন: পৃথিবীতে কোনো নবী থাকলে, কিংবা আল্লাহর দ্বীন বিজয়ী থাকলে, কেবল তখনই আকাশে পাহারা বসত। মাআরিফুল কুরআনের মত, উল্কা শুরু থেকেই ছিল, কিন্তু নবী ﷺ-এর আগমনের আগে শয়তান তাড়ানোর কাজে তা ব্যবহৃত হয়নি। প্রতিটি মত তার প্রবক্তার নামেই থাকুক।"
+            "bn": "এরপর কুরতুবী নিজের পছন্দের কথা বলেন, আর সেটা তাঁরই মত। তাঁর বিবেচনায় আগেও উল্কা ছোড়া হতো, এ মতই বেশি সঠিক। দলিল আয়াতের 'ভরা পেলাম' কথাটি, যা তিনি পাহারা বাড়ানোর অর্থে পড়েন। ইবন কাসীর লেখেন, আগেও তারা খসে পড়ার ঘটনা ঘটত, তবে কালেভদ্রে। তিনি সুদ্দীর উক্তি আনেন: পৃথিবীতে কোনো নবী থাকলে, কিংবা আল্লাহর দ্বীন বিজয়ী থাকলে, কেবল তখনই আকাশে পাহারা বসত। মাআরিফুল কুরআনের মত, উল্কা শুরু থেকেই ছিল, কিন্তু নবী ﷺ-এর আগমনের আগে শয়তান তাড়ানোর কাজে তা ব্যবহৃত হয়নি। প্রতিটি মত তার প্রবক্তার নামেই থাকুক।"
           }
         ]
       },
@@ -265,23 +265,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "One sound narration ties the guarded sky to the Qur'an's first hearing among the jinn. Sahih al-Bukhari 4921, in the Dar-us-Salam numbering, from Ibn 'Abbas (RA), is quoted here whole: “Allah's Messenger (ﷺ) went out along with a group of his companions towards 'Ukaz Market. At that time something intervened between the devils and the news of the Heaven, and flames were sent down upon them, so the devils returned. Their fellow-devils said, ‘What is wrong with you?’ They said, ‘Something has intervened between us and the news of the Heaven, and fires (flames) have been shot at us.’",
-            "bn": "একটি সহীহ বর্ণনা পাহারায় ঘেরা আকাশকে জ্বিনদের প্রথম কুরআন শোনার ঘটনার সঙ্গে জুড়ে দেয়। দারুস সালাম নম্বর অনুযায়ী সহীহ বুখারী ৪৯২১, ইবন আব্বাস (রাঃ) থেকে, এখানে পুরোটাই উদ্ধৃত হলো: “রাসূলুল্লাহ ﷺ তাঁর একদল সাহাবিকে নিয়ে উকায বাজারের উদ্দেশে রওনা হলেন। তখন শয়তানদের আর আকাশের খবরের মাঝে আড়াল পড়ে গিয়েছিল, তাদের দিকে উল্কা পাঠানো হচ্ছিল। শয়তানেরা ফিরে এল। অন্যরা জিজ্ঞেস করল, ‘তোমাদের কী হয়েছে?’ তারা বলল, ‘আমাদের আর আকাশের খবরের মাঝে আড়াল পড়ে গেছে, আমাদের দিকে উল্কা ছোড়া হচ্ছে।’"
+            "bn": "একটি সহীহ বর্ণনা পাহারায় ঘেরা আকাশকে জ্বিনদের প্রথম কুরআন শোনার ঘটনার সঙ্গে জুড়ে দেয়। দারুস সালাম নম্বর অনুযায়ী সহীহ বুখারী ৪৯২১, ইবন আব্বাস (রাঃ) থেকে, এখানে পুরোটাই উদ্ধৃত হলো: “রাসূলুল্লাহ ﷺ তাঁর একদল সাহাবিকে নিয়ে উকায বাজারের উদ্দেশে রওনা হলেন। তখন শয়তানদের আর আকাশের খবরের মাঝে আড়াল পড়ে গিয়েছিল, তাদের দিকে উল্কা পাঠানো হচ্ছিল। শয়তানেরা ফিরে এল। অন্যরা জিজ্ঞেস করল, ‘তোমাদের কী হয়েছে?’ তারা বলল, ‘আমাদের আর আকাশের খবরের মাঝে আড়াল পড়ে গেছে, আমাদের দিকে উল্কা ছোড়া হচ্ছে।’"
           },
           {
             "en": "“Their fellow-devils said, ‘Nothing has intervened between you and the news of the Heaven, but an important event has happened. Therefore, travel all over the world, east and west, and try to find out what has happened.’ And so they set out and travelled all over the world, east and west, looking for that thing which intervened between them and the news of the Heaven.",
-            "bn": "“তারা বলল, ‘নিশ্চয়ই নতুন কিছু ঘটেছে, তা ছাড়া আর কিছুই তোমাদের আর আকাশের খবরের মাঝে আড়াল হয়নি। তাই পৃথিবীর পূর্ব থেকে পশ্চিম চষে বেড়াও, দেখো ঘটনাটা কী।’ তারা বেরিয়ে পড়ল। পৃথিবীর পূর্ব-পশ্চিম ঘুরে বেড়াতে লাগল, খুঁজতে লাগল কোন জিনিস তাদের আর আকাশের খবরের মাঝে আড়াল হয়ে দাঁড়িয়েছে।"
+            "bn": "“তারা বলল, ‘নিশ্চয়ই নতুন কিছু ঘটেছে, তা ছাড়া আর কিছুই তোমাদের আর আকাশের খবরের মাঝে আড়াল হয়নি। তাই পৃথিবীর পূর্ব থেকে পশ্চিম চষে বেড়াও, দেখো ঘটনাটা কী।’ তারা বেরিয়ে পড়ল। পৃথিবীর পূর্ব-পশ্চিম ঘুরে বেড়াতে লাগল, খুঁজতে লাগল কোন জিনিস তাদের আর আকাশের খবরের মাঝে আড়াল হয়ে দাঁড়িয়েছে।"
           },
           {
             "en": "“Those of the devils who had set out towards Tihama, went to Allah's Messenger (ﷺ) at Nakhla (a place between Mecca and Taif) while he was on his way to 'Ukaz Market. (They met him) while he was offering the Fajr prayer with his companions. When they heard the Holy Qur'an being recited (by Allah's Messenger (ﷺ)), they listened to it and said (to each other), ‘This is the thing which has intervened between you and the news of the Heavens.’",
-            "bn": "“যারা তিহামার দিকে গিয়েছিল, তারা নাখলায় রাসূলুল্লাহ ﷺ-এর কাছে এসে পৌঁছল। নাখলা মক্কা আর তায়েফের মাঝের এক জায়গা। তিনি তখন উকায বাজারের পথে, সাহাবিদের নিয়ে ফজরের নামাজ পড়ছিলেন। কুরআনের তিলাওয়াত কানে আসতেই তারা মন দিয়ে শুনল, তারপর একে অন্যকে বলল, ‘এটাই সেই জিনিস, যা তোমাদের আর আকাশের খবরের মাঝে আড়াল হয়ে দাঁড়িয়েছে।’"
+            "bn": "“যারা তিহামার দিকে গিয়েছিল, তারা নাখলায় রাসূলুল্লাহ ﷺ-এর কাছে এসে পৌঁছল। নাখলা মক্কা আর তায়েফের মাঝের এক জায়গা। তিনি তখন উকায বাজারের পথে, সাহাবিদের নিয়ে ফজরের নামাজ পড়ছিলেন। কুরআনের তিলাওয়াত কানে আসতেই তারা মন দিয়ে শুনল, তারপর একে অন্যকে বলল, ‘এটাই সেই জিনিস, যা তোমাদের আর আকাশের খবরের মাঝে আড়াল হয়ে দাঁড়িয়েছে।’"
           },
           {
             "en": "“Then they returned to their people and said, ‘O our people! We have really heard a wonderful recital (Qur'an). It gives guidance to the right, and we have believed therein. We shall not join in worship, anybody with our Lord.’ Then Allah revealed to His Prophet (Surat al-Jinn): ‘Say: It has been revealed to me that a group of Jinns listened (to the Qur'an).’ The statement of the Jinns was revealed to him.”",
-            "bn": "“সেখান থেকে তারা নিজেদের সম্প্রদায়ের কাছে ফিরে গিয়ে বলল, ‘হে আমাদের সম্প্রদায়! আমরা এক বিস্ময়কর কুরআন শুনেছি, যা সঠিক পথ দেখায়। আমরা তাতে ঈমান এনেছি, আমাদের রবের সঙ্গে কাউকে কখনো শরিক করব না।’ তখন আল্লাহ তাঁর নবী ﷺ-এর উপর নাজিল করলেন (সূরা জ্বিন): ‘বলুন, আমার কাছে ওহি এসেছে যে জ্বিনদের একটি দল মনোযোগ দিয়ে শুনেছে।’ তাঁর কাছে আসলে ওহি করা হয়েছিল জ্বিনদের কথাই।”"
+            "bn": "“সেখান থেকে তারা নিজেদের সম্প্রদায়ের কাছে ফিরে গিয়ে বলল, ‘হে আমাদের সম্প্রদায়! আমরা এক বিস্ময়কর কুরআন শুনেছি, যা সঠিক পথ দেখায়। আমরা তাতে ঈমান এনেছি, আমাদের রবের সঙ্গে কাউকে কখনো শরিক করব না।’ তখন আল্লাহ তাঁর নবী ﷺ-এর উপর নাজিল করলেন (সূরা জ্বিন): ‘বলুন, আমার কাছে ওহি এসেছে যে জ্বিনদের একটি দল মনোযোগ দিয়ে শুনেছে।’ তাঁর কাছে আসলে ওহি করা হয়েছিল জ্বিনদের কথাই।”"
           },
           {
             "en": "Al-Bukhari placed it in his Sahih, and that placement is his grading. Its chain runs through Sa'id ibn Jubayr, and at-Tabari, on this very verse, gives a report from Sa'id in the same vein: when the jinn were pelted they said that what had happened in the sky was for something that had happened on earth, and they searched until they saw the Prophet ﷺ leading his companions in the dawn prayer, then went back to their people as warners.",
-            "bn": "বুখারী বর্ণনাটিকে তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন। সেখানে রাখাটাই এর মান সম্পর্কে তাঁর রায়। এর সনদ সাঈদ ইবন জুবাইরের মধ্য দিয়ে এসেছে। তাবারী এই আয়াতেই সাঈদ থেকে একই ধাঁচের একটি বর্ণনা আনেন। উল্কার আঘাত খেয়ে জ্বিনেরা বলল, আকাশে যা ঘটেছে, তা পৃথিবীতে ঘটা কোনো কিছুর কারণে। তারা খুঁজতে খুঁজতে দেখল, নবী ﷺ সাহাবিদের নিয়ে ফজরের নামাজ পড়ছেন। তারপর তারা সতর্ককারী হয়ে নিজেদের সম্প্রদায়ের কাছে ফিরে গেল।"
+            "bn": "বুখারী বর্ণনাটিকে তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন। সেখানে রাখাটাই এর মান সম্পর্কে তাঁর রায়। এর সনদ সাঈদ ইবন জুবাইরের মধ্য দিয়ে এসেছে। তাবারী এই আয়াতেই সাঈদ থেকে একই ধাঁচের একটি বর্ণনা আনেন। উল্কার আঘাত খেয়ে জ্বিনেরা বলল, আকাশে যা ঘটেছে, তা পৃথিবীতে ঘটা কোনো কিছুর কারণে। তারা খুঁজতে খুঁজতে দেখল, নবী ﷺ সাহাবিদের নিয়ে ফজরের নামাজ পড়ছেন। তারপর তারা সতর্ককারী হয়ে নিজেদের সম্প্রদায়ের কাছে ফিরে গেল।"
           }
         ]
       },
@@ -293,11 +293,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir says that when so many shooting stars appeared, humans and jinn alike were alarmed and thought it the end of the world. In 72:10 Ibn Kathir notices their courtesy: they attributed no evil to anyone, and attributed the good to Allah. The verse makes no claim about the physics of the sky, and neither does this article. It reports what a company of jinn found when an old habit stopped working.",
-            "bn": "ইবন কাসীর বলেন, এত উল্কা দেখা দিলে মানুষ আর জ্বিন দুই-ই আতঙ্কিত হয়ে পড়ল, ভাবল দুনিয়া বুঝি শেষ হয়ে যাচ্ছে। ৭২:১০ আয়াতে ইবন কাসীর তাদের আদবও লক্ষ করেন: অমঙ্গলের ইচ্ছা তারা কারও উপর চাপায়নি, কিন্তু মঙ্গলের ইচ্ছা জুড়েছে আল্লাহর সঙ্গে। আকাশের গঠন নিয়ে আয়াতটি কোনো দাবি করে না, এ লেখাও করে না। আয়াতটি শুধু জানায়, পুরোনো অভ্যাস অকেজো হয়ে গেলে একদল জ্বিন কী দেখতে পেয়েছিল।"
+            "bn": "ইবন কাসীর বলেন, এত উল্কা দেখা দিলে মানুষ আর জ্বিন দুই-ই আতঙ্কিত হয়ে পড়ল, ভাবল দুনিয়া বুঝি শেষ হয়ে যাচ্ছে। ৭২:১০ আয়াতে ইবন কাসীর তাদের আদবও লক্ষ করেন: অমঙ্গলের ইচ্ছা তারা কারও উপর চাপায়নি, কিন্তু মঙ্গলের ইচ্ছা জুড়েছে আল্লাহর সঙ্গে। আকাশের গঠন নিয়ে আয়াতটি কোনো দাবি করে না, এ লেখাও করে না। আয়াতটি শুধু জানায়, পুরোনো অভ্যাস অকেজো হয়ে গেলে একদল জ্বিন কী দেখতে পেয়েছিল।"
           },
           {
             "en": "The verse describes jinn and devils in the unseen. It licenses nothing against any living person or community, and gives nobody warrant to brand others as in league with them. What it leaves the reader is the shape of the story. A door the jinn had always used was shut to guard Allah's word, and their account moves on to guidance heard and believed. A closed way can be the start of a better search.",
-            "bn": "আয়াতটি গায়েবের জগতের জ্বিন আর শয়তানদের বর্ণনা দেয়। এতে কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি নেই, কাউকে তাদের দোসর বলে দাগিয়ে দেওয়ার অধিকারও কারও নেই। পাঠকের হাতে থাকে কাহিনিটার ধরনটুকু। যে দরজা জ্বিনেরা বরাবর ব্যবহার করত, আল্লাহর বাণী হেফাজতের জন্য তা বন্ধ হলো। তারপর তাদের কাহিনি এগোল হিদায়াতের দিকে: তারা তা শুনল, তাতে ঈমান আনল। বন্ধ পথ কখনো কখনো আরও ভালো এক খোঁজের শুরু হয়ে দাঁড়ায়।"
+            "bn": "আয়াতটি গায়েবের জগতের জ্বিন আর শয়তানদের বর্ণনা দেয়। এতে কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি নেই, কাউকে তাদের দোসর বলে দাগিয়ে দেওয়ার অধিকারও কারও নেই। পাঠকের হাতে থাকে কাহিনিটার ধরনটুকু। যে দরজা জ্বিনেরা বরাবর ব্যবহার করত, আল্লাহর বাণী হেফাজতের জন্য তা বন্ধ হলো। তারপর তাদের কাহিনি এগোল হিদায়াতের দিকে: তারা তা শুনল, তাতে ঈমান আনল। বন্ধ পথ কখনো কখনো আরও ভালো এক খোঁজের শুরু হয়ে দাঁড়ায়।"
           }
         ]
       }
@@ -313,27 +313,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Jinn opens with an instruction to the Prophet ﷺ: say, it has been revealed to me that a group of the jinn listened and said, we have heard an amazing Qur'an (72:1). What follows is a chain of their own statements, most of them opening with wa-anna, and that we. They say the recitation guides to the right course and that they have believed in it (72:2). Verse 12 is one link in that chain, spoken by the same group in the first person plural.",
-            "bn": "সূরা আল-জিন শুরু হয় নবী ﷺ-এর প্রতি একটি নির্দেশ দিয়ে: বলুন, আমার কাছে ওহি এসেছে যে জিনদের একটি দল মন দিয়ে শুনেছে, তারপর বলেছে, আমরা এক বিস্ময়কর কুরআন শুনেছি (৭২:১)। এরপর আসে তাদের নিজেদের কথার এক লম্বা সারি। বেশিরভাগ কথা শুরু হয় ওয়া আন্না দিয়ে, মানে আর এই যে আমরা। তারা বলে, এই তিলাওয়াত সঠিক পথ দেখায়, আর তারা তাতে ঈমান এনেছে (৭২:২)। ১২ নম্বর আয়াত সেই সারিরই একটি কড়া। বলছে সেই একই দল, বহুবচনে, নিজেদের সম্পর্কে।"
+            "bn": "সূরা আল-জিন শুরু হয় নবী ﷺ-এর প্রতি একটি নির্দেশ দিয়ে: বলুন, আমার কাছে ওহি এসেছে যে জিনদের একটি দল মন দিয়ে শুনেছে, তারপর বলেছে, আমরা এক বিস্ময়কর কুরআন শুনেছি (৭২:১)। এরপর আসে তাদের নিজেদের কথার এক লম্বা সারি। বেশিরভাগ কথা শুরু হয় ওয়া আন্না দিয়ে, মানে আর এই যে আমরা। তারা বলে, এই তিলাওয়াত সঠিক পথ দেখায়, আর তারা তাতে ঈমান এনেছে (৭২:২)। ১২ নম্বর আয়াত সেই সারিরই একটি কড়া। বলছে সেই একই দল, বহুবচনে, নিজেদের সম্পর্কে।"
           },
           {
             "en": "The verses around it set the scene without needing to be unpacked here. Just before, the jinn describe the sky as now guarded (72:8 and 72:9), admit that they do not know what is intended for those on earth (72:10), and say that they themselves are of divided ways (72:11). Just after, they say that when they heard the guidance they believed (72:13). Between that confession of division and that declaration of faith sits this sentence about Allah's power, eleven Arabic words in two balanced halves.",
-            "bn": "চারপাশের আয়াতগুলো দৃশ্যটা সাজিয়ে দেয়, সেগুলো এখানে খুলে বলার দরকার নেই। ঠিক আগে জিনেরা জানায়, আকাশ এখন পাহারায় ঘেরা (৭২:৮ ও ৭২:৯)। তারা স্বীকার করে, পৃথিবীবাসীর জন্য কী চাওয়া হয়েছে তা তারা জানে না (৭২:১০)। আর বলে, তারা নিজেরাই নানা পথে বিভক্ত (৭২:১১)। ঠিক পরে বলে, হিদায়াতের বাণী শুনেই তারা ঈমান এনেছে (৭২:১৩)। বিভক্তির স্বীকারোক্তি আর ঈমানের ঘোষণার মাঝখানে বসে আছে আল্লাহর ক্ষমতা নিয়ে এই বাক্যটি। আরবিতে ১১টি শব্দ, দুই সমান ভাগে।"
+            "bn": "চারপাশের আয়াতগুলো দৃশ্যটা সাজিয়ে দেয়, সেগুলো এখানে খুলে বলার দরকার নেই। ঠিক আগে জিনেরা জানায়, আকাশ এখন পাহারায় ঘেরা (৭২:৮ ও ৭২:৯)। তারা স্বীকার করে, পৃথিবীবাসীর জন্য কী চাওয়া হয়েছে তা তারা জানে না (৭২:১০)। আর বলে, তারা নিজেরাই নানা পথে বিভক্ত (৭২:১১)। ঠিক পরে বলে, হিদায়াতের বাণী শুনেই তারা ঈমান এনেছে (৭২:১৩)। বিভক্তির স্বীকারোক্তি আর ঈমানের ঘোষণার মাঝখানে বসে আছে আল্লাহর ক্ষমতা নিয়ে এই বাক্যটি। আরবিতে ১১টি শব্দ, দুই সমান ভাগে।"
           },
           {
             "en": "The voice shapes how the verse should be heard. These are not words Allah addresses to the jinn as a threat; they are words the jinn speak about themselves, made known to the Prophet ﷺ by revelation and recited ever since. The listener overhears a creature of another kind reach a conclusion about its Creator, and is left to test that conclusion against his or her own life.",
-            "bn": "কার মুখের কথা, তা থেকেই বোঝা যায় আয়াতটি কীভাবে শুনতে হবে। এ কথা জিনদের প্রতি আল্লাহর কোনো হুমকি নয়। এ জিনদের নিজেদের সম্পর্কে নিজেদের কথা, যা ওহির মাধ্যমে নবী ﷺ-কে জানানো হয়েছে আর তখন থেকে তিলাওয়াত হয়ে আসছে। শ্রোতা যেন আড়াল থেকে শোনে, অন্য জাতের এক সৃষ্টি তার স্রষ্টা সম্পর্কে এক সিদ্ধান্তে পৌঁছাচ্ছে। তারপর সেই সিদ্ধান্তকে নিজের জীবনের সঙ্গে মিলিয়ে দেখার দায় থেকে যায় শ্রোতার উপর।"
+            "bn": "কার মুখের কথা, তা থেকেই বোঝা যায় আয়াতটি কীভাবে শুনতে হবে। এ কথা জিনদের প্রতি আল্লাহর কোনো হুমকি নয়। এ জিনদের নিজেদের সম্পর্কে নিজেদের কথা, যা ওহির মাধ্যমে নবী ﷺ-কে জানানো হয়েছে আর তখন থেকে তিলাওয়াত হয়ে আসছে। শ্রোতা যেন আড়াল থেকে শোনে, অন্য জাতের এক সৃষ্টি তার স্রষ্টা সম্পর্কে এক সিদ্ধান্তে পৌঁছাচ্ছে। তারপর সেই সিদ্ধান্তকে নিজের জীবনের সঙ্গে মিলিয়ে দেখার দায় থেকে যায় শ্রোতার উপর।"
           }
         ]
       },
       {
         "h": {
           "en": "When Zanna Means Knew",
-          "bn": "যান্না যখন জানা বোঝায়"
+          "bn": "যান্না যখন জানা বোঝায়"
         },
         "p": [
           {
             "en": "Wa-anna zanannā: and that we thought. The verb zanna very often means to suppose or to guess. Al-Qurtubi says plainly that here it means knowledge and certainty, al-'ilm wa-l-yaqin. He also draws a contrast inside the surah itself. This zann, he says, is unlike the one in wa-anna zanannā an lan taqula (72:5), where the jinn had assumed that no human or jinn would ever speak a lie about Allah, and unlike wa-annahum zannu (72:7), where the thought was that Allah would never send anyone.",
-            "bn": "ওয়া আন্না যানান্না: আর এই যে আমরা ধারণা করেছিলাম। যান্না ক্রিয়াটির সাধারণ অর্থ অনুমান করা বা মনে করা। কুরতুবী পরিষ্কার বলেন, এখানে এর অর্থ জ্ঞান ও নিশ্চয়তা, আল-ইলম ওয়াল-ইয়াকীন। সূরার ভেতরেই তিনি একটা তুলনা টানেন। তাঁর মতে এই যান্ন ৭২:৫ আয়াতের যান্নের মতো নয়, যেখানে জিনেরা ধরে নিয়েছিল যে কোনো মানুষ বা জিন আল্লাহর নামে মিথ্যা বলবে না। ৭২:৭ আয়াতের যান্নের মতোও নয়, যেখানে ধারণা ছিল আল্লাহ কাউকে পাঠাবেন না।"
+            "bn": "ওয়া আন্না যানান্না: আর এই যে আমরা ধারণা করেছিলাম। যান্না ক্রিয়াটির সাধারণ অর্থ অনুমান করা বা মনে করা। কুরতুবী পরিষ্কার বলেন, এখানে এর অর্থ জ্ঞান ও নিশ্চয়তা, আল-ইলম ওয়াল-ইয়াকীন। সূরার ভেতরেই তিনি একটা তুলনা টানেন। তাঁর মতে এই যান্ন ৭২:৫ আয়াতের যান্নের মতো নয়, যেখানে জিনেরা ধরে নিয়েছিল যে কোনো মানুষ বা জিন আল্লাহর নামে মিথ্যা বলবে না। ৭২:৭ আয়াতের যান্নের মতোও নয়, যেখানে ধারণা ছিল আল্লাহ কাউকে পাঠাবেন না।"
           },
           {
             "en": "So the same verb, spoken by the same group, carries a false assumption in 72:5 and 72:7 and a settled conclusion in 72:12. The Qur'an uses zann for certainty elsewhere too. In 2:46 it describes those who are certain, yazunnuna, that they will meet their Lord. In 69:20 the words inni zanantu anni mulaqin hisabiyah are rendered, I was certain that I would be meeting my account. The word does not settle its meaning alone; the context does, and al-Qurtubi reads this context as knowing.",
@@ -344,7 +344,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Five Ways of Saying We Knew",
-          "bn": "আমরা জেনেছি, পাঁচ রকম ভাষায়"
+          "bn": "আমরা জেনেছি, পাঁচ রকম ভাষায়"
         },
         "p": [
           {
@@ -353,11 +353,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di frames it as something that became clear at a particular moment. In our time now, he has them say, the perfection of Allah's power and the perfection of our own incapacity have become clear to us, and that our forelocks are in Allah's hand. Al-Qurtubi names the route to the knowledge: they knew it bi-l-istidlal wa-l-tafakkur fi ayat Allah, by inference and by reflecting on Allah's signs. Neither of them specifies which signs, and this article does not guess.",
-            "bn": "সা'দী একে দেখেন নির্দিষ্ট এক সময়ে স্পষ্ট হয়ে ওঠা সত্য হিসেবে। তাঁর ভাষায় জিনেরা যেন বলছে: এখন, আমাদের এই সময়ে, আল্লাহর ক্ষমতার পূর্ণতা আর আমাদের অক্ষমতার পূর্ণতা দুটোই আমাদের কাছে পরিষ্কার হয়ে গেছে। আমাদের কপালের চুল আল্লাহর হাতে। কুরতুবী জানার পথটার নাম বলেন: দলিল থেকে সিদ্ধান্তে পৌঁছে, আর আল্লাহর নিদর্শন নিয়ে চিন্তা করে তারা এ কথা জেনেছে। কোন নিদর্শন, তা দুজনের কেউ নির্দিষ্ট করেননি। এই লেখাও তা আন্দাজ করবে না।"
+            "bn": "সা'দী একে দেখেন নির্দিষ্ট এক সময়ে স্পষ্ট হয়ে ওঠা সত্য হিসেবে। তাঁর ভাষায় জিনেরা যেন বলছে: এখন, আমাদের এই সময়ে, আল্লাহর ক্ষমতার পূর্ণতা আর আমাদের অক্ষমতার পূর্ণতা দুটোই আমাদের কাছে পরিষ্কার হয়ে গেছে। আমাদের কপালের চুল আল্লাহর হাতে। কুরতুবী জানার পথটার নাম বলেন: দলিল থেকে সিদ্ধান্তে পৌঁছে, আর আল্লাহর নিদর্শন নিয়ে চিন্তা করে তারা এ কথা জেনেছে। কোন নিদর্শন, তা দুজনের কেউ নির্দিষ্ট করেননি। এই লেখাও তা আন্দাজ করবে না।"
           },
           {
             "en": "In al-Qurtubi's and as-Sa'di's wording, then, this is certainty that was reached, not merely received. At-Tabari closes his short comment with a sentence that sums up the whole verse: they described Allah as having power over them wherever they were, haythu kanu. That phrase will return below. None of the commentaries consulted for this verse attaches a hadith to it, so none is cited here, and none of them gives an occasion of revelation for it.",
-            "bn": "কুরতুবী আর সা'দীর ভাষা তাই বলে, এই নিশ্চয়তা কারও কাছ থেকে শুধু শুনে পাওয়া নয়, ভেবে পৌঁছানো। তাবারী তাঁর সংক্ষিপ্ত মন্তব্য শেষ করেন এমন এক বাক্যে, যা পুরো আয়াতের সারকথা: তারা আল্লাহকে এমনভাবে বর্ণনা করেছে যে তারা যেখানেই থাকুক, তিনি তাদের উপর ক্ষমতাবান। এই কথাটায় নিচে আবার ফিরব। এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদিস যুক্ত করেনি, তাই এখানে কোনো হাদিস উদ্ধৃত হচ্ছে না। নাজিলের কোনো উপলক্ষও তাঁরা উল্লেখ করেননি।"
+            "bn": "কুরতুবী আর সা'দীর ভাষা তাই বলে, এই নিশ্চয়তা কারও কাছ থেকে শুধু শুনে পাওয়া নয়, ভেবে পৌঁছানো। তাবারী তাঁর সংক্ষিপ্ত মন্তব্য শেষ করেন এমন এক বাক্যে, যা পুরো আয়াতের সারকথা: তারা আল্লাহকে এমনভাবে বর্ণনা করেছে যে তারা যেখানেই থাকুক, তিনি তাদের উপর ক্ষমতাবান। এই কথাটায় নিচে আবার ফিরব। এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদিস যুক্ত করেনি, তাই এখানে কোনো হাদিস উদ্ধৃত হচ্ছে না। নাজিলের কোনো উপলক্ষও তাঁরা উল্লেখ করেননি।"
           }
         ]
       },
@@ -369,83 +369,83 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verb nu'jiza is form IV of the root '-j-z, a root that has to do with incapacity; to a'jaza someone is to leave him unable, or to get beyond his reach. In the verse it stands in the subjunctive after lan, the particle that negates the future: we will never. The commentators unpack it with the idea of slipping away. Al-Baghawi and the Muyassar both write lan nafutahu, we will not get past Him, and at-Tabari ends his gloss with fa-nafutahu, so that we would elude Him.",
-            "bn": "নু'জিযা ক্রিয়াটি আইন-জীম-যা ধাতুর চতুর্থ রূপ। এই ধাতুর মূলে আছে অক্ষমতা। কাউকে আ'জাযা করা মানে তাকে অপারগ করে দেওয়া, তার নাগালের বাইরে চলে যাওয়া। আয়াতে ক্রিয়াটি এসেছে লান-এর পরে, যা ভবিষ্যৎকে নাকচ করে: আমরা কখনোই পারব না। তাফসীরকারেরা একে খুলে বলেন ফসকে যাওয়ার ধারণা দিয়ে। বাগাভী ও মুয়াসসার দুজনেই লেখেন লান নাফূতাহু, আমরা তাঁকে এড়িয়ে যেতে পারব না। তাবারীর ব্যাখ্যা শেষ হয় ফানাফূতাহু দিয়ে, যাতে আমরা তাঁকে ফাঁকি দিয়ে সরে যাই।"
+            "bn": "নু'জিযা ক্রিয়াটি আইন-জীম-যা ধাতুর চতুর্থ রূপ। এই ধাতুর মূলে আছে অক্ষমতা। কাউকে আ'জাযা করা মানে তাকে অপারগ করে দেওয়া, তার নাগালের বাইরে চলে যাওয়া। আয়াতে ক্রিয়াটি এসেছে লান-এর পরে, যা ভবিষ্যৎকে নাকচ করে: আমরা কখনোই পারব না। তাফসীরকারেরা একে খুলে বলেন ফসকে যাওয়ার ধারণা দিয়ে। বাগাভী ও মুয়াসসার দুজনেই লেখেন লান নাফূতাহু, আমরা তাঁকে এড়িয়ে যেতে পারব না। তাবারীর ব্যাখ্যা শেষ হয় ফানাফূতাহু দিয়ে, যাতে আমরা তাঁকে ফাঁকি দিয়ে সরে যাই।"
           },
           {
             "en": "The same root carries a refrain across the Qur'an, addressed to human beings. You will not cause failure on the earth, wa-ma antum bi-mu'jizina fi al-ard (42:31); and in a fuller form, neither on the earth nor in the heaven (29:22). Of those who disbelieve it says, let them not think they have got ahead; they will not cause failure (8:59). In 72:12 the jinn say about themselves what those verses say to others, and they say it as a confession, not as a warning they were given.",
-            "bn": "একই ধাতু কুরআনে মানুষকে উদ্দেশ করে বারবার ফিরে আসে। তোমরা পৃথিবীতে আল্লাহকে অপারগ করতে পারবে না (৪২:৩১)। আরও পূর্ণ রূপে: না পৃথিবীতে, না আকাশে (২৯:২২)। কাফিরদের সম্পর্কে বলা হয়েছে, তারা যেন মনে না করে যে এগিয়ে গেছে, তারা অপারগ করতে পারবে না (৮:৫৯)। ওই আয়াতগুলো অন্যদের যা বলে, ৭২:১২ আয়াতে জিনেরা নিজেদের সম্পর্কে ঠিক তা-ই বলছে। আর বলছে স্বীকারোক্তি হিসেবে, পাওয়া কোনো সতর্কবাণী হিসেবে নয়।"
+            "bn": "একই ধাতু কুরআনে মানুষকে উদ্দেশ করে বারবার ফিরে আসে। তোমরা পৃথিবীতে আল্লাহকে অপারগ করতে পারবে না (৪২:৩১)। আরও পূর্ণ রূপে: না পৃথিবীতে, না আকাশে (২৯:২২)। কাফিরদের সম্পর্কে বলা হয়েছে, তারা যেন মনে না করে যে এগিয়ে গেছে, তারা অপারগ করতে পারবে না (৮:৫৯)। ওই আয়াতগুলো অন্যদের যা বলে, ৭২:১২ আয়াতে জিনেরা নিজেদের সম্পর্কে ঠিক তা-ই বলছে। আর বলছে স্বীকারোক্তি হিসেবে, পাওয়া কোনো সতর্কবাণী হিসেবে নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Standing Still, or Taking Flight",
-          "bn": "যেখানে আছি, নাকি পালিয়ে"
+          "bn": "যেখানে আছি, নাকি পালিয়ে"
         },
         "p": [
           {
             "en": "The verse has two halves: we will never frustrate Allah fi al-ard, on the earth, and we will never frustrate Him haraban, by flight. The commentators do not treat the second half as mere repetition, though they explain the difference in different ways. At-Tabari and al-Baghawi attach a condition to each half. On the earth: if He intends some harm for us, says at-Tabari, or some matter, says al-Baghawi. By flight: in talabana, if He seeks us out, so that we cannot outrun Him.",
-            "bn": "আয়াতের দুটি ভাগ। আমরা ফিল আরদ, পৃথিবীতে, আল্লাহকে কখনো অপারগ করতে পারব না। আর হারাবান, পালিয়েও তাঁকে অপারগ করতে পারব না। তাফসীরকারেরা দ্বিতীয় ভাগকে নিছক পুনরাবৃত্তি ধরেন না, যদিও পার্থক্যটা বোঝান ভিন্ন ভিন্নভাবে। তাবারী ও বাগাভী প্রতিটি ভাগের সঙ্গে একটা শর্ত জোড়েন। পৃথিবীতে: যদি তিনি আমাদের কোনো অনিষ্ট চান, বলেন তাবারী। বাগাভী বলেন, যদি তিনি আমাদের ব্যাপারে কিছু চান। পালিয়ে: ইন তালাবানা, যদি তিনি আমাদের খোঁজেন, তাহলে আমরা তাঁকে ছাড়িয়ে যেতে পারব না।"
+            "bn": "আয়াতের দুটি ভাগ। আমরা ফিল আরদ, পৃথিবীতে, আল্লাহকে কখনো অপারগ করতে পারব না। আর হারাবান, পালিয়েও তাঁকে অপারগ করতে পারব না। তাফসীরকারেরা দ্বিতীয় ভাগকে নিছক পুনরাবৃত্তি ধরেন না, যদিও পার্থক্যটা বোঝান ভিন্ন ভিন্নভাবে। তাবারী ও বাগাভী প্রতিটি ভাগের সঙ্গে একটা শর্ত জোড়েন। পৃথিবীতে: যদি তিনি আমাদের কোনো অনিষ্ট চান, বলেন তাবারী। বাগাভী বলেন, যদি তিনি আমাদের ব্যাপারে কিছু চান। পালিয়ে: ইন তালাবানা, যদি তিনি আমাদের খোঁজেন, তাহলে আমরা তাঁকে ছাড়িয়ে যেতে পারব না।"
           },
           {
             "en": "On that reading the first half is the jinn where they stand, and the second is the jinn on the run. The Muyassar draws the line by place instead: we will not get past Him wherever we are, and we will not be able to escape His punishment by fleeing to the sky, haraban ila al-sama', if He intends harm for us. Ibn Kathir reads the second half as an intensification of the first: we cannot frustrate Him on the earth, wa-law am'anna fi al-harab, even if we went to the furthest lengths in flight.",
-            "bn": "এভাবে পড়লে প্রথম ভাগে জিনেরা নিজের জায়গায় দাঁড়িয়ে, আর দ্বিতীয় ভাগে তারা পালাচ্ছে। মুয়াসসার পার্থক্যটা করে জায়গা দিয়ে। আমরা যেখানেই থাকি, তাঁকে এড়াতে পারব না। আর তিনি আমাদের অনিষ্ট চাইলে আকাশের দিকে পালিয়েও তাঁর শাস্তি থেকে বাঁচতে পারব না, হারাবান ইলাস সামা। ইবন কাসীর দ্বিতীয় ভাগকে প্রথম ভাগেরই জোরালো রূপ হিসেবে পড়েন: পৃথিবীতে আমরা তাঁকে অপারগ করতে পারব না, ওয়া লাও আম'আন্না ফিল হারাব, পালানোর শেষ সীমা পর্যন্ত গেলেও না।"
+            "bn": "এভাবে পড়লে প্রথম ভাগে জিনেরা নিজের জায়গায় দাঁড়িয়ে, আর দ্বিতীয় ভাগে তারা পালাচ্ছে। মুয়াসসার পার্থক্যটা করে জায়গা দিয়ে। আমরা যেখানেই থাকি, তাঁকে এড়াতে পারব না। আর তিনি আমাদের অনিষ্ট চাইলে আকাশের দিকে পালিয়েও তাঁর শাস্তি থেকে বাঁচতে পারব না, হারাবান ইলাস সামা। ইবন কাসীর দ্বিতীয় ভাগকে প্রথম ভাগেরই জোরালো রূপ হিসেবে পড়েন: পৃথিবীতে আমরা তাঁকে অপারগ করতে পারব না, ওয়া লাও আম'আন্না ফিল হারাব, পালানোর শেষ সীমা পর্যন্ত গেলেও না।"
           },
           {
             "en": "As-Sa'di takes flight to include every attempt at escape: if we fled and pursued the means of running away and getting out from under His power. Al-Qurtubi's note is grammatical. Haraban is a verbal noun standing in the place of a hal, a circumstantial description, meaning haribin, as fugitives; and he folds both halves into one phrase, we will not get past Him by flight or by anything else. These are differing emphases rather than a dispute, and each is given here as its author gave it.",
-            "bn": "সা'দীর কাছে পালানো মানে পালানোর সব চেষ্টা: যদি আমরা পালাই, আর তাঁর ক্ষমতার বাইরে যাওয়ার সব উপায় ধরি। কুরতুবীর মন্তব্য ব্যাকরণের। হারাবান একটি মাসদার, বসেছে হালের জায়গায়, অর্থাৎ অবস্থা বোঝাতে। মানে হারিবীন, পলাতক অবস্থায়। আর দুই ভাগকে তিনি এক কথায় মিলিয়ে দেন: পালিয়ে হোক বা অন্য কোনোভাবে, আমরা তাঁকে এড়াতে পারব না। এগুলো মতবিরোধ নয়, জোরের জায়গার পার্থক্য। প্রত্যেকের কথা এখানে রাখা হলো যেভাবে তিনি বলেছেন।"
+            "bn": "সা'দীর কাছে পালানো মানে পালানোর সব চেষ্টা: যদি আমরা পালাই, আর তাঁর ক্ষমতার বাইরে যাওয়ার সব উপায় ধরি। কুরতুবীর মন্তব্য ব্যাকরণের। হারাবান একটি মাসদার, বসেছে হালের জায়গায়, অর্থাৎ অবস্থা বোঝাতে। মানে হারিবীন, পলাতক অবস্থায়। আর দুই ভাগকে তিনি এক কথায় মিলিয়ে দেন: পালিয়ে হোক বা অন্য কোনোভাবে, আমরা তাঁকে এড়াতে পারব না। এগুলো মতবিরোধ নয়, জোরের জায়গার পার্থক্য। প্রত্যেকের কথা এখানে রাখা হলো যেভাবে তিনি বলেছেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Creatures That Once Climbed High",
-          "bn": "যারা একসময় উঁচুতে উঠত"
+          "bn": "যারা একসময় উঁচুতে উঠত"
         },
         "p": [
           {
             "en": "It matters who is speaking. The jinn are not presented as weak by human standards. In the verses just before, they say they used to take up positions in the sky for listening (72:9). The Muyassar's mention of fleeing to the sky gives the second half of 72:12 a particular edge on their lips, though the link to 72:9 is this article's observation, not the Muyassar's. A creature that has reached further than any human can still finds that further is not out of His reach.",
-            "bn": "কে বলছে, সেটা গুরুত্বপূর্ণ। মানুষের মাপে জিনদের দুর্বল হিসেবে দেখানো হয়নি। ঠিক আগের আয়াতে তারা বলে, তারা আকাশে শোনার জন্য নানা ঘাঁটিতে বসত (৭২:৯)। মুয়াসসার যে আকাশের দিকে পালানোর কথা বলে, তাতে ৭২:১২ আয়াতের দ্বিতীয় ভাগ তাদের মুখে আলাদা ধার পায়। তবে ৭২:৯ আয়াতের সঙ্গে এই যোগসূত্র এই লেখার পর্যবেক্ষণ, মুয়াসসারের নয়। যে সৃষ্টি কোনো মানুষের চেয়ে বেশি দূর পৌঁছাতে পারে, সে-ও দেখে, সেই দূরত্বও তাঁর নাগালের বাইরে নয়।"
+            "bn": "কে বলছে, সেটা গুরুত্বপূর্ণ। মানুষের মাপে জিনদের দুর্বল হিসেবে দেখানো হয়নি। ঠিক আগের আয়াতে তারা বলে, তারা আকাশে শোনার জন্য নানা ঘাঁটিতে বসত (৭২:৯)। মুয়াসসার যে আকাশের দিকে পালানোর কথা বলে, তাতে ৭২:১২ আয়াতের দ্বিতীয় ভাগ তাদের মুখে আলাদা ধার পায়। তবে ৭২:৯ আয়াতের সঙ্গে এই যোগসূত্র এই লেখার পর্যবেক্ষণ, মুয়াসসারের নয়। যে সৃষ্টি কোনো মানুষের চেয়ে বেশি দূর পৌঁছাতে পারে, সে-ও দেখে, সেই দূরত্বও তাঁর নাগালের বাইরে নয়।"
           },
           {
             "en": "The Qur'an addresses jinn and humans together on this very point: O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass; you will not pass except by authority (55:33). In 72:12 the jinn have, in effect, already conceded that for themselves. At-Tabari's summary fits both verses: wherever they were, Allah had power over them. The verse treats distance, speed and concealment as no protection at all.",
-            "bn": "ঠিক এই প্রশ্নে কুরআন জিন ও মানুষকে একসঙ্গে ডেকে বলে: হে জিন ও মানুষের দল, আকাশ ও পৃথিবীর সীমানা পেরিয়ে যেতে পারলে পেরিয়ে যাও। কিন্তু অনুমতি ও ক্ষমতা ছাড়া তোমরা পেরোতে পারবে না (৫৫:৩৩)। ৭২:১২ আয়াতে জিনেরা কার্যত নিজেদের বেলায় সে কথা আগেই মেনে নিয়েছে। তাবারীর সারকথা দুই আয়াতেই খাটে: তারা যেখানেই থাকুক, আল্লাহ তাদের উপর ক্ষমতাবান। দূরত্ব, গতি বা লুকিয়ে থাকা, আয়াতের চোখে এর কোনোটাই রক্ষা করে না।"
+            "bn": "ঠিক এই প্রশ্নে কুরআন জিন ও মানুষকে একসঙ্গে ডেকে বলে: হে জিন ও মানুষের দল, আকাশ ও পৃথিবীর সীমানা পেরিয়ে যেতে পারলে পেরিয়ে যাও। কিন্তু অনুমতি ও ক্ষমতা ছাড়া তোমরা পেরোতে পারবে না (৫৫:৩৩)। ৭২:১২ আয়াতে জিনেরা কার্যত নিজেদের বেলায় সে কথা আগেই মেনে নিয়েছে। তাবারীর সারকথা দুই আয়াতেই খাটে: তারা যেখানেই থাকুক, আল্লাহ তাদের উপর ক্ষমতাবান। দূরত্ব, গতি বা লুকিয়ে থাকা, আয়াতের চোখে এর কোনোটাই রক্ষা করে না।"
           }
         ]
       },
       {
         "h": {
           "en": "No Refuge But Toward Him",
-          "bn": "আশ্রয় কেবল তাঁরই কাছে"
+          "bn": "আশ্রয় কেবল তাঁরই কাছে"
         },
         "p": [
           {
             "en": "As-Sa'di ends his comment with four Arabic words: la malja'a minhu illa ilayh, there is no refuge from Him except in Him. The phrase echoes 9:118, where three men, after the earth closed in on them despite its vastness, were certain, zannu, that there is no refuge from Allah except in Him; then He turned to them so that they might repent. There too zann carries certainty, and there too the certainty of having nowhere to run opens the way back.",
-            "bn": "সা'দী তাঁর মন্তব্য শেষ করেন চারটি আরবি শব্দে: লা মালজাআ মিনহু ইল্লা ইলাইহি, তাঁর কাছ থেকে বাঁচার কোনো আশ্রয় নেই, তাঁর কাছে ছাড়া। কথাটা মনে করিয়ে দেয় ৯:১১৮ আয়াত। সেখানে তিনজন মানুষের কাছে পৃথিবী এত বিশাল হয়েও সংকীর্ণ হয়ে এসেছিল। তারা নিশ্চিত বুঝেছিল, যান্নূ, আল্লাহর কাছ থেকে বাঁচার আশ্রয় তাঁর কাছেই। তারপর তিনি তাদের প্রতি ফিরলেন, যাতে তারা তওবা করে। সেখানেও যান্ন মানে নিশ্চয়তা। সেখানেও পালানোর জায়গা নেই, এই নিশ্চয়তাই ফেরার পথ খুলে দেয়।"
+            "bn": "সা'দী তাঁর মন্তব্য শেষ করেন চারটি আরবি শব্দে: লা মালজাআ মিনহু ইল্লা ইলাইহি, তাঁর কাছ থেকে বাঁচার কোনো আশ্রয় নেই, তাঁর কাছে ছাড়া। কথাটা মনে করিয়ে দেয় ৯:১১৮ আয়াত। সেখানে তিনজন মানুষের কাছে পৃথিবী এত বিশাল হয়েও সংকীর্ণ হয়ে এসেছিল। তারা নিশ্চিত বুঝেছিল, যান্নূ, আল্লাহর কাছ থেকে বাঁচার আশ্রয় তাঁর কাছেই। তারপর তিনি তাদের প্রতি ফিরলেন, যাতে তারা তওবা করে। সেখানেও যান্ন মানে নিশ্চয়তা। সেখানেও পালানোর জায়গা নেই, এই নিশ্চয়তাই ফেরার পথ খুলে দেয়।"
           },
           {
             "en": "This is why the jinn's admission does not read as despair. In the verse that follows they speak of hearing the guidance and believing (72:13), and in 72:2 they had already said, we have believed in it. The certainty that one cannot outrun Allah can produce two very different responses: a frantic search for a hiding place, or the decision to stop running from Him and turn towards Him. The verse records the conclusion; what the jinn did with it is told in the verses around it.",
-            "bn": "এ কারণেই জিনদের এই স্বীকারোক্তি হতাশার মতো শোনায় না। পরের আয়াতে তারা হিদায়াত শুনে ঈমান আনার কথা বলে (৭২:১৩)। আর ৭২:২ আয়াতে আগেই বলেছিল, আমরা এতে ঈমান এনেছি। আল্লাহকে ছাড়িয়ে পালানো যায় না, এই নিশ্চয়তা থেকে দুই রকম সাড়া আসতে পারে। একটা হলো লুকানোর জায়গা খুঁজে হন্যে হওয়া। অন্যটা হলো তাঁর কাছ থেকে পালানো থামিয়ে তাঁর দিকে ফেরা। আয়াতটি সিদ্ধান্তটুকু লিখে রাখে। জিনেরা সেটা নিয়ে কী করেছে, তা বলে চারপাশের আয়াতগুলো।"
+            "bn": "এ কারণেই জিনদের এই স্বীকারোক্তি হতাশার মতো শোনায় না। পরের আয়াতে তারা হিদায়াত শুনে ঈমান আনার কথা বলে (৭২:১৩)। আর ৭২:২ আয়াতে আগেই বলেছিল, আমরা এতে ঈমান এনেছি। আল্লাহকে ছাড়িয়ে পালানো যায় না, এই নিশ্চয়তা থেকে দুই রকম সাড়া আসতে পারে। একটা হলো লুকানোর জায়গা খুঁজে হন্যে হওয়া। অন্যটা হলো তাঁর কাছ থেকে পালানো থামিয়ে তাঁর দিকে ফেরা। আয়াতটি সিদ্ধান্তটুকু লিখে রাখে। জিনেরা সেটা নিয়ে কী করেছে, তা বলে চারপাশের আয়াতগুলো।"
           }
         ]
       },
       {
         "h": {
           "en": "Carrying the Confession Home",
-          "bn": "স্বীকারোক্তিটা ঘরে নিয়ে যাওয়া"
+          "bn": "স্বীকারোক্তিটা ঘরে নিয়ে যাওয়া"
         },
         "p": [
           {
             "en": "The verse is a statement by the jinn about themselves, and it licenses no claim about any particular person, human or jinn. What it offers the reader is a model of honest reasoning about power. Most human flight is quieter than anything the jinn describe: postponing a duty, avoiding a conversation with one's own conscience, arranging life so that the thought of the account never quite arrives. Each of these assumes, without saying so, a place where Allah's knowledge and power grow thin.",
-            "bn": "আয়াতটি জিনদের নিজেদের সম্পর্কে নিজেদের কথা। কোনো নির্দিষ্ট মানুষ বা জিন সম্পর্কে কোনো দাবি করার অনুমতি এ থেকে মেলে না। পাঠকের জন্য এখানে আছে ক্ষমতা নিয়ে সৎভাবে ভাবার একটি নমুনা। মানুষের পালানো সাধারণত অনেক নিঃশব্দ। কোনো দায়িত্ব পিছিয়ে দেওয়া, নিজের বিবেকের সঙ্গে কথা বলা এড়িয়ে চলা, জীবনটা এমনভাবে সাজানো যাতে হিসাবের ভাবনা কখনো ঠিক এসে না পৌঁছায়। এর প্রতিটির ভেতরে না-বলা এক ধারণা লুকিয়ে থাকে: কোথাও বুঝি এমন জায়গা আছে, যেখানে আল্লাহর জ্ঞান আর ক্ষমতা পাতলা হয়ে আসে।"
+            "bn": "আয়াতটি জিনদের নিজেদের সম্পর্কে নিজেদের কথা। কোনো নির্দিষ্ট মানুষ বা জিন সম্পর্কে কোনো দাবি করার অনুমতি এ থেকে মেলে না। পাঠকের জন্য এখানে আছে ক্ষমতা নিয়ে সৎভাবে ভাবার একটি নমুনা। মানুষের পালানো সাধারণত অনেক নিঃশব্দ। কোনো দায়িত্ব পিছিয়ে দেওয়া, নিজের বিবেকের সঙ্গে কথা বলা এড়িয়ে চলা, জীবনটা এমনভাবে সাজানো যাতে হিসাবের ভাবনা কখনো ঠিক এসে না পৌঁছায়। এর প্রতিটির ভেতরে না-বলা এক ধারণা লুকিয়ে থাকে: কোথাও বুঝি এমন জায়গা আছে, যেখানে আল্লাহর জ্ঞান আর ক্ষমতা পাতলা হয়ে আসে।"
           },
           {
             "en": "The jinn named that assumption and let it go. As al-Qurtubi has it, they reached their knowledge by reflecting on Allah's signs, and that route is open to anyone. One practical test is to notice what one does when cornered by a consequence: look for a way round it, or a way back to Him. As-Sa'di's closing words give the direction. If there is no refuge from Him except in Him, then the only flight that leads anywhere is the flight towards Him.",
-            "bn": "জিনেরা সেই ধারণাটা চিনে নিয়ে মুখে স্বীকার করেছে, তারপর ছেড়ে দিয়েছে। কুরতুবীর কথায়, আল্লাহর নিদর্শন নিয়ে ভেবে তারা এই জ্ঞানে পৌঁছেছে। সে পথ সবার জন্য খোলা। নিজেকে যাচাইয়ের একটা সহজ উপায় আছে। কোনো কাজের পরিণাম যখন আপনাকে কোণঠাসা করে, তখন খেয়াল করুন আপনি কী খোঁজেন: পাশ কাটানোর রাস্তা, নাকি তাঁর কাছে ফেরার রাস্তা। সা'দীর শেষ কথাগুলো দিক দেখিয়ে দেয়। তাঁর কাছ থেকে বাঁচার আশ্রয় যদি তাঁর কাছেই হয়, তবে যে পালানো সত্যিই কোথাও পৌঁছায়, তা তাঁর দিকেই পালানো।"
+            "bn": "জিনেরা সেই ধারণাটা চিনে নিয়ে মুখে স্বীকার করেছে, তারপর ছেড়ে দিয়েছে। কুরতুবীর কথায়, আল্লাহর নিদর্শন নিয়ে ভেবে তারা এই জ্ঞানে পৌঁছেছে। সে পথ সবার জন্য খোলা। নিজেকে যাচাইয়ের একটা সহজ উপায় আছে। কোনো কাজের পরিণাম যখন আপনাকে কোণঠাসা করে, তখন খেয়াল করুন আপনি কী খোঁজেন: পাশ কাটানোর রাস্তা, নাকি তাঁর কাছে ফেরার রাস্তা। সা'দীর শেষ কথাগুলো দিক দেখিয়ে দেয়। তাঁর কাছ থেকে বাঁচার আশ্রয় যদি তাঁর কাছেই হয়, তবে যে পালানো সত্যিই কোথাও পৌঁছায়, তা তাঁর দিকেই পালানো।"
           },
           {
             "en": "There is also relief in the verse. To know that one cannot outrun Allah is to know that one no longer has to keep running. The effort spent on evasion, on keeping a fault out of sight, on staying a step ahead of a reckoning that is coming anyway, can be spent instead on repair: the duty postponed, the apology owed, the tawbah that 9:118 shows being accepted. The jinn's sentence closes one road so that another comes into view.",
-            "bn": "আয়াতটিতে একধরনের স্বস্তিও আছে। আল্লাহকে ছাড়িয়ে পালানো যায় না, এ কথা জানা মানে এটাও জানা যে আর দৌড়াতে হবে না। যে শক্তি খরচ হতো এড়িয়ে চলায়, কোনো দোষ চোখের আড়ালে রাখায়, যে হিসাব এমনিতেই আসছে তার থেকে এক পা এগিয়ে থাকায়, সেই শক্তি এবার খরচ হতে পারে মেরামতে। পিছিয়ে রাখা দায়িত্বটা, পাওনা থাকা ক্ষমা চাওয়াটা, আর সেই তওবা, যা কবুল হওয়ার ছবি ৯:১১৮ আয়াতে আছে। জিনদের বাক্যটি একটা রাস্তা বন্ধ করে, যাতে আরেকটা রাস্তা চোখে পড়ে।"
+            "bn": "আয়াতটিতে একধরনের স্বস্তিও আছে। আল্লাহকে ছাড়িয়ে পালানো যায় না, এ কথা জানা মানে এটাও জানা যে আর দৌড়াতে হবে না। যে শক্তি খরচ হতো এড়িয়ে চলায়, কোনো দোষ চোখের আড়ালে রাখায়, যে হিসাব এমনিতেই আসছে তার থেকে এক পা এগিয়ে থাকায়, সেই শক্তি এবার খরচ হতে পারে মেরামতে। পিছিয়ে রাখা দায়িত্বটা, পাওনা থাকা ক্ষমা চাওয়াটা, আর সেই তওবা, যা কবুল হওয়ার ছবি ৯:১১৮ আয়াতে আছে। জিনদের বাক্যটি একটা রাস্তা বন্ধ করে, যাতে আরেকটা রাস্তা চোখে পড়ে।"
           }
         ]
       }
@@ -485,23 +485,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Here the mufassirun record more than one reading, and the tradition has never collapsed them into one. The most widespread takes the word as it reads in those other five places: the buildings raised for the worship of Allah, all of them, which is why this verse is carved on so many mosque walls. A second reading narrows it to al-Masjid al-Haram in particular, since the people first addressed circled that house while calling on names other than Allah.",
-            "bn": "এখানে মুফাসসিররা একাধিক ব্যাখ্যা এনেছেন, আর তাফসীরের ধারা কখনো সেগুলোকে মিলিয়ে একটি বানায়নি। সবচেয়ে প্রচলিত ব্যাখ্যায় শব্দটির অর্থ ওই পাঁচ জায়গার মতোই: আল্লাহর ইবাদতের জন্য তৈরি সব ইমারত, অর্থাৎ সব মসজিদ। এ কারণেই এত মসজিদের দেয়ালে আয়াতটি খোদাই করা থাকে। দ্বিতীয় ব্যাখ্যা অর্থটাকে বিশেষভাবে মসজিদুল হারামে সীমিত করে। কারণ যাদের উদ্দেশে কথাটা প্রথম বলা হয়েছিল, তারা আল্লাহ ছাড়া অন্য নাম ডাকতে ডাকতে সেই ঘর তাওয়াফ করত।"
+            "bn": "এখানে মুফাসসিররা একাধিক ব্যাখ্যা এনেছেন, আর তাফসীরের ধারা কখনো সেগুলোকে মিলিয়ে একটি বানায়নি। সবচেয়ে প্রচলিত ব্যাখ্যায় শব্দটির অর্থ ওই পাঁচ জায়গার মতোই: আল্লাহর ইবাদতের জন্য তৈরি সব ইমারত, অর্থাৎ সব মসজিদ। এ কারণেই এত মসজিদের দেয়ালে আয়াতটি খোদাই করা থাকে। দ্বিতীয় ব্যাখ্যা অর্থটাকে বিশেষভাবে মসজিদুল হারামে সীমিত করে। কারণ যাদের উদ্দেশে কথাটা প্রথম বলা হয়েছিল, তারা আল্লাহ ছাড়া অন্য নাম ডাকতে ডাকতে সেই ঘর তাওয়াফ করত।"
           },
           {
             "en": "A third reading leaves architecture behind altogether. On that view al-masajid are the places of prostration on the body itself, the limbs a person sets on the ground when he goes down. A fourth takes the word as the acts or the occasions of prostration rather than any location at all. These are not ranked here, because the classical works do not rank them uniformly, and because each of them arrives at the same prohibition in the second half of the verse.",
-            "bn": "তৃতীয় ব্যাখ্যা ইমারতের কথা পুরোপুরি ছেড়ে দেয়। এ মতে 'আল-মাসাজিদ' হলো শরীরেরই সিজদার জায়গাগুলো, অর্থাৎ সিজদায় যাওয়ার সময় মানুষ যে অঙ্গগুলো মাটিতে রাখে। চতুর্থ ব্যাখ্যায় শব্দটি কোনো জায়গা নয়, সিজদার কাজ বা সিজদার সময়। এখানে এগুলোকে আগে-পরে সাজানো হচ্ছে না। কারণ পুরোনো তাফসীরগুলোও সবাই একই ক্রম দেয় না, আর প্রতিটি ব্যাখ্যাই আয়াতের দ্বিতীয় অর্ধে গিয়ে একই নিষেধে পৌঁছায়।"
+            "bn": "তৃতীয় ব্যাখ্যা ইমারতের কথা পুরোপুরি ছেড়ে দেয়। এ মতে 'আল-মাসাজিদ' হলো শরীরেরই সিজদার জায়গাগুলো, অর্থাৎ সিজদায় যাওয়ার সময় মানুষ যে অঙ্গগুলো মাটিতে রাখে। চতুর্থ ব্যাখ্যায় শব্দটি কোনো জায়গা নয়, সিজদার কাজ বা সিজদার সময়। এখানে এগুলোকে আগে-পরে সাজানো হচ্ছে না। কারণ পুরোনো তাফসীরগুলোও সবাই একই ক্রম দেয় না, আর প্রতিটি ব্যাখ্যাই আয়াতের দ্বিতীয় অর্ধে গিয়ে একই নিষেধে পৌঁছায়।"
           }
         ]
       },
       {
         "h": {
           "en": "The Seven Bones",
-          "bn": "সাতটি হাড়"
+          "bn": "সাতটি হাড়"
         },
         "p": [
           {
             "en": "The third reading rests on a hadith. Al-Bukhari and Muslim narrate from Ibn Abbas (RA) that the Prophet ﷺ said he had been commanded to prostrate on seven bones: the forehead, and he pointed with his hand to his nose, the two hands, the two knees, and the ends of the two feet. Read into our verse, that turns the sentence portable. If the places of prostration are parts of you, then what belongs to Allah is not left behind at the door.",
-            "bn": "তৃতীয় ব্যাখ্যার ভিত্তি একটি হাদিস। ইমাম বুখারী ও ইমাম মুসলিম ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আমাকে সাতটি হাড়ের উপর সিজদা করার নির্দেশ দেওয়া হয়েছে। কপাল (এ কথা বলে তিনি হাত দিয়ে নিজের নাকের দিকে ইশারা করলেন), দুই হাত, দুই হাঁটু আর দুই পায়ের অগ্রভাগ। এই ব্যাখ্যায় আয়াতটি পড়লে কথাটা আপনি সঙ্গে নিয়েই চলেন। সিজদার জায়গাগুলো যদি আপনার শরীরেরই অঙ্গ হয়, তবে যা আল্লাহর, তা মসজিদের দরজায় রেখে আসার জিনিস নয়।"
+            "bn": "তৃতীয় ব্যাখ্যার ভিত্তি একটি হাদিস। ইমাম বুখারী ও ইমাম মুসলিম ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আমাকে সাতটি হাড়ের উপর সিজদা করার নির্দেশ দেওয়া হয়েছে। কপাল (এ কথা বলে তিনি হাত দিয়ে নিজের নাকের দিকে ইশারা করলেন), দুই হাত, দুই হাঁটু আর দুই পায়ের অগ্রভাগ। এই ব্যাখ্যায় আয়াতটি পড়লে কথাটা আপনি সঙ্গে নিয়েই চলেন। সিজদার জায়গাগুলো যদি আপনার শরীরেরই অঙ্গ হয়, তবে যা আল্লাহর, তা মসজিদের দরজায় রেখে আসার জিনিস নয়।"
           }
         ]
       },
@@ -529,7 +529,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The readings converge on one discipline. Inside the building it is the easier half: a mosque is not a place to be seen in, to lobby in, or to attach one's hopes in to any name but His. Outside it the third reading keeps the question open all day — the same limbs, the same Owner, and the same question about where the heart's asking actually goes at the moment it wants something badly.",
-            "bn": "সব ব্যাখ্যা এসে মেলে একই সাধনায়। মসজিদের ভেতরে এটা তুলনায় সহজ অংশ: মসজিদ লোক দেখানোর জায়গা নয়, তদবির করার জায়গা নয়, তাঁর নাম ছাড়া অন্য কোনো নামে আশা বাঁধার জায়গাও নয়। মসজিদের বাইরে তৃতীয় ব্যাখ্যাটি প্রশ্নটা সারা দিন জাগিয়ে রাখে। সেই একই অঙ্গ, সেই একই মালিক, আর সেই একই প্রশ্ন: মন যখন কিছু খুব করে চায়, তখন তার চাওয়াটা আসলে কার দিকে যায়?"
+            "bn": "সব ব্যাখ্যা এসে মেলে একই সাধনায়। মসজিদের ভেতরে এটা তুলনায় সহজ অংশ: মসজিদ লোক দেখানোর জায়গা নয়, তদবির করার জায়গা নয়, তাঁর নাম ছাড়া অন্য কোনো নামে আশা বাঁধার জায়গাও নয়। মসজিদের বাইরে তৃতীয় ব্যাখ্যাটি প্রশ্নটা সারা দিন জাগিয়ে রাখে। সেই একই অঙ্গ, সেই একই মালিক, আর সেই একই প্রশ্ন: মন যখন কিছু খুব করে চায়, তখন তার চাওয়াটা আসলে কার দিকে যায়?"
           }
         ]
       }
@@ -545,11 +545,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Jinn closes with a run of commands, each opening with qul, say. The Prophet ﷺ is to say that he calls on his Lord alone (72:20), that he holds no power to bring them harm or right guidance (72:21), and that his task is only to convey (72:23). Then, after the warning that the deniers will at last see what they are promised (72:24), comes 72:25: say, I do not know whether what you are promised is near, or whether my Lord will set a long term for it.",
-            "bn": "সূরা জিনের শেষ অংশে পরপর কয়েকটি আদেশ, প্রতিটির শুরু কুল দিয়ে, মানে বলো। নবী ﷺ বলবেন, তিনি শুধু তাঁর রবকেই ডাকেন (৭২:২০)। তাদের ক্ষতি করার বা সঠিক পথে আনার কোনো ক্ষমতা তাঁর হাতে নেই (৭২:২১)। তাঁর কাজ কেবল পৌঁছে দেওয়া (৭২:২৩)। অস্বীকারকারীরা অবশেষে প্রতিশ্রুত জিনিস নিজের চোখে দেখবে, এই সতর্কবাণীর (৭২:২৪) পর আসে ৭২:২৫: বলো, তোমাদের যার প্রতিশ্রুতি দেওয়া হয়েছে তা কাছে, নাকি আমার রব তার জন্য দীর্ঘ মেয়াদ ঠিক করবেন, আমি জানি না।"
+            "bn": "সূরা জিনের শেষ অংশে পরপর কয়েকটি আদেশ, প্রতিটির শুরু কুল দিয়ে, মানে বলো। নবী ﷺ বলবেন, তিনি শুধু তাঁর রবকেই ডাকেন (৭২:২০)। তাদের ক্ষতি করার বা সঠিক পথে আনার কোনো ক্ষমতা তাঁর হাতে নেই (৭২:২১)। তাঁর কাজ কেবল পৌঁছে দেওয়া (৭২:২৩)। অস্বীকারকারীরা অবশেষে প্রতিশ্রুত জিনিস নিজের চোখে দেখবে, এই সতর্কবাণীর (৭২:২৪) পর আসে ৭২:২৫: বলো, তোমাদের যার প্রতিশ্রুতি দেওয়া হয়েছে তা কাছে, নাকি আমার রব তার জন্য দীর্ঘ মেয়াদ ঠিক করবেন, আমি জানি না।"
           },
           {
             "en": "Verse 72:26 gives the reason for that admission. Ma'arif al-Qur'an calls it the proof of the preceding verse: the Prophet ﷺ does not know whether the promised day is close because Allah alone is the Knower of the unseen. The Muyassar reads the passage the same way, running 72:25 straight into 72:26. Ibn Kathir, commenting on 72:25, draws a practical point from it: the verse shows that a report circulated among the ignorant, that the Prophet would not remain beneath the earth more than a thousand years, is a baseless lie, one he says he had not seen in any of the books.",
-            "bn": "এই স্বীকারোক্তির কারণটাই বলে ৭২:২৬। মাআরিফুল কুরআন একে আগের আয়াতের দলিল বলেছে। প্রতিশ্রুত দিনটি কাছে কি না, নবী ﷺ তা জানেন না, কারণ গায়েবের জ্ঞান কেবল আল্লাহর। মুয়াসসারও অংশটা এভাবেই পড়ে, ৭২:২৫ থেকে সোজা চলে যায় ৭২:২৬-এ। ইবন কাসীর ৭২:২৫-এর আলোচনায় এখান থেকে একটা কাজের কথা বের করেন। অজ্ঞ লোকদের মুখে একটা বর্ণনা ঘোরে যে নবী মাটির নিচে এক হাজার বছরের বেশি থাকবেন না। তাঁর মতে এ আয়াতই প্রমাণ করে, বর্ণনাটি ভিত্তিহীন মিথ্যা। তিনি বলেন, কোনো কিতাবেই তিনি এটা দেখেননি।"
+            "bn": "এই স্বীকারোক্তির কারণটাই বলে ৭২:২৬। মাআরিফুল কুরআন একে আগের আয়াতের দলিল বলেছে। প্রতিশ্রুত দিনটি কাছে কি না, নবী ﷺ তা জানেন না, কারণ গায়েবের জ্ঞান কেবল আল্লাহর। মুয়াসসারও অংশটা এভাবেই পড়ে, ৭২:২৫ থেকে সোজা চলে যায় ৭২:২৬-এ। ইবন কাসীর ৭২:২৫-এর আলোচনায় এখান থেকে একটা কাজের কথা বের করেন। অজ্ঞ লোকদের মুখে একটা বর্ণনা ঘোরে যে নবী মাটির নিচে এক হাজার বছরের বেশি থাকবেন না। তাঁর মতে এ আয়াতই প্রমাণ করে, বর্ণনাটি ভিত্তিহীন মিথ্যা। তিনি বলেন, কোনো কিতাবেই তিনি এটা দেখেননি।"
           }
         ]
       },
@@ -561,15 +561,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is seven Arabic words: 'alimu l-ghaybi fa-la yuzhiru 'ala ghaybihi ahada, Knower of the unseen, and He does not disclose His unseen to anyone. Al-Qurtubi and al-Baghawi both explain why 'alim stands in the nominative. It describes rabbi, my Lord, at the end of 72:25. Or, as a second view that both record with the word qila, it is said, an unstated huwa, He, stands before it, so that the sentence begins afresh: He is the Knower of the unseen.",
-            "bn": "আয়াতটি আরবিতে সাতটি শব্দ: আলিমুল গাইবি ফালা ইউযহিরু আলা গাইবিহী আহাদা। অর্থ: তিনি অদৃশ্যের জ্ঞানী, আর নিজের অদৃশ্য তিনি কারও কাছে প্রকাশ করেন না। আলিম শব্দটি কেন পেশযুক্ত, কুরতুবী ও বাগাভী দুজনেই তা ব্যাখ্যা করেছেন। এক ব্যাখ্যায় শব্দটি ৭২:২৫-এর শেষে আসা রাব্বী (আমার রব) শব্দের বিশেষণ। দ্বিতীয় মতটিও দুজনে এনেছেন, তবে 'কীলা' (বলা হয়) শব্দ দিয়ে। সে মতে এর আগে একটা উহ্য হুয়া (তিনি) আছে, ফলে বাক্যটা নতুন করে শুরু হয়: তিনিই অদৃশ্যের জ্ঞানী।"
+            "bn": "আয়াতটি আরবিতে সাতটি শব্দ: আলিমুল গাইবি ফালা ইউযহিরু আলা গাইবিহী আহাদা। অর্থ: তিনি অদৃশ্যের জ্ঞানী, আর নিজের অদৃশ্য তিনি কারও কাছে প্রকাশ করেন না। আলিম শব্দটি কেন পেশযুক্ত, কুরতুবী ও বাগাভী দুজনেই তা ব্যাখ্যা করেছেন। এক ব্যাখ্যায় শব্দটি ৭২:২৫-এর শেষে আসা রাব্বী (আমার রব) শব্দের বিশেষণ। দ্বিতীয় মতটিও দুজনে এনেছেন, তবে 'কীলা' (বলা হয়) শব্দ দিয়ে। সে মতে এর আগে একটা উহ্য হুয়া (তিনি) আছে, ফলে বাক্যটা নতুন করে শুরু হয়: তিনিই অদৃশ্যের জ্ঞানী।"
           },
           {
             "en": "On the word ghayb itself the commentators are brief and agree. At-Tabari explains the Knower of the unseen as the Knower of what is absent from the sight of His creatures, so that they have not seen it. Al-Qurtubi's definition is shorter still: the unseen is what is absent from the servants, and he sends the reader back to his fuller treatment in Surah al-Baqarah. Al-Baghawi glosses the verb yuzhiru with yutli'u: He does not let anyone look upon His unseen.",
-            "bn": "গাইব শব্দটি নিয়ে মুফাসসিররা কথা বলেন সংক্ষেপে, আর তাঁরা একমত। তাবারী বলেন, অদৃশ্যের জ্ঞানী মানে তিনি সেসব জানেন, যা তাঁর সৃষ্টির চোখের আড়ালে, যা তারা কখনো দেখেনি। কুরতুবীর সংজ্ঞা আরও ছোট: বান্দাদের কাছ থেকে যা গোপন, তা-ই গাইব। বিস্তারিত আলোচনার জন্য তিনি পাঠককে সূরা বাকারায় ফিরে যেতে বলেন। বাগাভী ইউযহিরু ক্রিয়াটির অর্থ করেন ইউতলিউ দিয়ে। অর্থাৎ নিজের অদৃশ্যে তিনি কাউকে উঁকি দিতে দেন না।"
+            "bn": "গাইব শব্দটি নিয়ে মুফাসসিররা কথা বলেন সংক্ষেপে, আর তাঁরা একমত। তাবারী বলেন, অদৃশ্যের জ্ঞানী মানে তিনি সেসব জানেন, যা তাঁর সৃষ্টির চোখের আড়ালে, যা তারা কখনো দেখেনি। কুরতুবীর সংজ্ঞা আরও ছোট: বান্দাদের কাছ থেকে যা গোপন, তা-ই গাইব। বিস্তারিত আলোচনার জন্য তিনি পাঠককে সূরা বাকারায় ফিরে যেতে বলেন। বাগাভী ইউযহিরু ক্রিয়াটির অর্থ করেন ইউতলিউ দিয়ে। অর্থাৎ নিজের অদৃশ্যে তিনি কাউকে উঁকি দিতে দেন না।"
           },
           {
             "en": "Ma'arif al-Qur'an takes up two finer points. The article in al-ghayb, it says, citing Ruh al-Ma'ani, is the kind that takes in the whole genus: Allah knows every kind of the unseen and all its classes. And in ghaybihi, His unseen, the pronoun returns to Allah and underlines that the unseen is His own. What the verse negates, on this reading, is total knowledge of the unseen for anyone besides Allah, an attribute Ma'arif calls specific to Him alone.",
-            "bn": "মাআরিফুল কুরআন আরও দুটি সূক্ষ্ম দিক তুলে ধরে। রুহুল মাআনীর বরাত দিয়ে গ্রন্থটি বলে, আল-গাইব শব্দের আলিফ-লাম পুরো জিনস বা প্রকারকে শামিল করে। মানে অদৃশ্যের সব ধরন, সব শ্রেণি আল্লাহ জানেন। আর গাইবিহী (তাঁর অদৃশ্য) শব্দের সর্বনামটি আল্লাহর দিকে ফেরে, তাতে জোর পড়ে যে অদৃশ্য তাঁরই নিজের। এই ব্যাখ্যায় আয়াতটি আল্লাহ ছাড়া আর কারও পূর্ণ অদৃশ্যজ্ঞান অস্বীকার করে। মাআরিফের ভাষায় এ গুণ কেবল তাঁরই।"
+            "bn": "মাআরিফুল কুরআন আরও দুটি সূক্ষ্ম দিক তুলে ধরে। রুহুল মাআনীর বরাত দিয়ে গ্রন্থটি বলে, আল-গাইব শব্দের আলিফ-লাম পুরো জিনস বা প্রকারকে শামিল করে। মানে অদৃশ্যের সব ধরন, সব শ্রেণি আল্লাহ জানেন। আর গাইবিহী (তাঁর অদৃশ্য) শব্দের সর্বনামটি আল্লাহর দিকে ফেরে, তাতে জোর পড়ে যে অদৃশ্য তাঁরই নিজের। এই ব্যাখ্যায় আয়াতটি আল্লাহ ছাড়া আর কারও পূর্ণ অদৃশ্যজ্ঞান অস্বীকার করে। মাআরিফের ভাষায় এ গুণ কেবল তাঁরই।"
           }
         ]
       },
@@ -581,51 +581,51 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari paraphrases the verse with its exception attached: He does not disclose His unseen to anyone, so that he would know it or be shown it, except a messenger He approves, for to him He discloses what He wills of it. The people of interpretation, he adds, said the same, and he gives two early authorities. Through a chain reaching Ibn 'Abbas, he records that Allah taught the messengers, out of the unseen, the revelation, and disclosed to them through it His unseen and what He decrees, which none but He knows.",
-            "bn": "তাবারী আয়াতটির ব্যাখ্যা করেন ব্যতিক্রমসহ। তিনি নিজের অদৃশ্য কারও কাছে প্রকাশ করেন না, যাতে সে তা জানতে বা দেখতে পায়। ব্যতিক্রম শুধু সেই রাসূল, যাকে তিনি পছন্দ করেন। তাঁর কাছে তিনি এর যতটুকু চান প্রকাশ করেন। তাবারী বলেন, তাফসীরবিদরাও একই কথা বলেছেন। এরপর তিনি প্রথম যুগের দুজন আলিমের বক্তব্য আনেন। ইবন আব্বাস পর্যন্ত পৌঁছানো এক সনদে তিনি বর্ণনা করেন: আল্লাহ রাসূলদের ওহি শিখিয়েছেন, আর ওহি অদৃশ্যেরই অংশ। সেই ওহির মাধ্যমে তাঁদের সামনে খুলে দিয়েছেন নিজের অদৃশ্য আর নিজের ফয়সালা, যা তিনি ছাড়া কেউ জানে না।"
+            "bn": "তাবারী আয়াতটির ব্যাখ্যা করেন ব্যতিক্রমসহ। তিনি নিজের অদৃশ্য কারও কাছে প্রকাশ করেন না, যাতে সে তা জানতে বা দেখতে পায়। ব্যতিক্রম শুধু সেই রাসূল, যাকে তিনি পছন্দ করেন। তাঁর কাছে তিনি এর যতটুকু চান প্রকাশ করেন। তাবারী বলেন, তাফসীরবিদরাও একই কথা বলেছেন। এরপর তিনি প্রথম যুগের দুজন আলিমের বক্তব্য আনেন। ইবন আব্বাস পর্যন্ত পৌঁছানো এক সনদে তিনি বর্ণনা করেন: আল্লাহ রাসূলদের ওহি শিখিয়েছেন, আর ওহি অদৃশ্যেরই অংশ। সেই ওহির মাধ্যমে তাঁদের সামনে খুলে দিয়েছেন নিজের অদৃশ্য আর নিজের ফয়সালা, যা তিনি ছাড়া কেউ জানে না।"
           },
           {
             "en": "From Qatadah, at-Tabari records a single sentence: He chooses them, and lets them see whatever of the unseen He wills. As-Sa'di puts the weight on the first half of the verse. He does not disclose His unseen to anyone of the creation; rather, says as-Sa'di, Allah alone holds knowledge of what lies within hearts, of secrets and of the unseen. On his reading, the hidden intention of a heart belongs to the unseen as surely as anything distant in time or place.",
-            "bn": "কাতাদা থেকে তাবারী একটিমাত্র বাক্য আনেন: তিনি তাঁদের বাছাই করেন, আর অদৃশ্যের যতটুকু চান তাঁদের দেখান। সা'দী জোর দেন আয়াতের প্রথম অংশে। সৃষ্টির কারও কাছে তিনি নিজের অদৃশ্য প্রকাশ করেন না। বরং, সা'দী বলেন, অন্তরের ভেতরের কথা, গোপন রহস্য আর অদৃশ্যের জ্ঞান একমাত্র আল্লাহর। তাঁর এই ব্যাখ্যায় মনের লুকানো নিয়তও অদৃশ্যের অংশ। সময় বা স্থানের দিক থেকে দূরের কোনো জিনিস যেমন অদৃশ্য, মানুষের মনের ভেতরটাও তেমনি।"
+            "bn": "কাতাদা থেকে তাবারী একটিমাত্র বাক্য আনেন: তিনি তাঁদের বাছাই করেন, আর অদৃশ্যের যতটুকু চান তাঁদের দেখান। সা'দী জোর দেন আয়াতের প্রথম অংশে। সৃষ্টির কারও কাছে তিনি নিজের অদৃশ্য প্রকাশ করেন না। বরং, সা'দী বলেন, অন্তরের ভেতরের কথা, গোপন রহস্য আর অদৃশ্যের জ্ঞান একমাত্র আল্লাহর। তাঁর এই ব্যাখ্যায় মনের লুকানো নিয়তও অদৃশ্যের অংশ। সময় বা স্থানের দিক থেকে দূরের কোনো জিনিস যেমন অদৃশ্য, মানুষের মনের ভেতরটাও তেমনি।"
           },
           {
             "en": "Ibn Kathir reads the verse beside the Throne Verse, where creatures encompass nothing of His knowledge except what He wills (2:255). In the same way, he says, Allah states here that He knows the unseen and the seen, and that none of His creation is given sight of any of His knowledge except what He Himself has shown. The Muyassar's gloss is the plainest of all: He knows what is hidden from sight, and discloses His unseen to none of His creation except those He has chosen for His message.",
-            "bn": "ইবন কাসীর আয়াতটি পড়েন আয়াতুল কুরসীর পাশে রেখে, যেখানে বলা হয়েছে, তিনি যা চান তা ছাড়া তাঁর জ্ঞানের কিছুই সৃষ্টি আয়ত্ত করতে পারে না (২:২৫৫)। তিনি বলেন, এখানেও আল্লাহ জানাচ্ছেন যে তিনি দৃশ্য ও অদৃশ্য সবই জানেন। আর তিনি নিজে যা দেখান, তা ছাড়া তাঁর জ্ঞানের কোনো অংশ সৃষ্টির কেউ দেখতে পায় না। মুয়াসসারের ব্যাখ্যা সবচেয়ে সরল। চোখের আড়ালে যা আছে, তিনি তা জানেন। নিজের রিসালাতের জন্য যাদের বেছে নিয়েছেন, তারা ছাড়া সৃষ্টির কারও কাছে তিনি নিজের অদৃশ্য প্রকাশ করেন না।"
+            "bn": "ইবন কাসীর আয়াতটি পড়েন আয়াতুল কুরসীর পাশে রেখে, যেখানে বলা হয়েছে, তিনি যা চান তা ছাড়া তাঁর জ্ঞানের কিছুই সৃষ্টি আয়ত্ত করতে পারে না (২:২৫৫)। তিনি বলেন, এখানেও আল্লাহ জানাচ্ছেন যে তিনি দৃশ্য ও অদৃশ্য সবই জানেন। আর তিনি নিজে যা দেখান, তা ছাড়া তাঁর জ্ঞানের কোনো অংশ সৃষ্টির কেউ দেখতে পায় না। মুয়াসসারের ব্যাখ্যা সবচেয়ে সরল। চোখের আড়ালে যা আছে, তিনি তা জানেন। নিজের রিসালাতের জন্য যাদের বেছে নিয়েছেন, তারা ছাড়া সৃষ্টির কারও কাছে তিনি নিজের অদৃশ্য প্রকাশ করেন না।"
           }
         ]
       },
       {
         "h": {
           "en": "The Exception the Next Verse States",
-          "bn": "পরের আয়াতের ব্যতিক্রম"
+          "bn": "পরের আয়াতের ব্যতিক্রম"
         },
         "p": [
           {
             "en": "The sentence does not stop where the verse ends. The next words, in 72:27, are illa mani rtada min rasul: except a messenger whom He approves. At-Tabari and Ibn Kathir both quote the exception as part of the same sentence, and 72:26 cannot be read rightly without it. What follows in 72:27 and 72:28, the guards set before and behind the messenger and the knowledge that the messages were delivered, belongs to those verses and is not pursued here.",
-            "bn": "আয়াত যেখানে শেষ, বাক্য সেখানে থামে না। ৭২:২৭-এর শুরুর কথাগুলো হলো ইল্লা মানির তাদা মির রাসূল: তবে সেই রাসূল ছাড়া, যাকে তিনি পছন্দ করেন। তাবারী ও ইবন কাসীর দুজনেই ব্যতিক্রমটাকে একই বাক্যের অংশ হিসেবে উদ্ধৃত করেন। এটা বাদ দিয়ে ৭২:২৬ ঠিকভাবে বোঝা যায় না। এরপর ৭২:২৭ ও ৭২:২৮-এ আসে রাসূলের সামনে-পেছনে পাহারাদার রাখার কথা, আর বাণী যে ঠিকঠাক পৌঁছেছে তা জানার কথা। সেগুলো ওই আয়াতগুলোরই আলোচনা, এখানে আমরা সেদিকে যাচ্ছি না।"
+            "bn": "আয়াত যেখানে শেষ, বাক্য সেখানে থামে না। ৭২:২৭-এর শুরুর কথাগুলো হলো ইল্লা মানির তাদা মির রাসূল: তবে সেই রাসূল ছাড়া, যাকে তিনি পছন্দ করেন। তাবারী ও ইবন কাসীর দুজনেই ব্যতিক্রমটাকে একই বাক্যের অংশ হিসেবে উদ্ধৃত করেন। এটা বাদ দিয়ে ৭২:২৬ ঠিকভাবে বোঝা যায় না। এরপর ৭২:২৭ ও ৭২:২৮-এ আসে রাসূলের সামনে-পেছনে পাহারাদার রাখার কথা, আর বাণী যে ঠিকঠাক পৌঁছেছে তা জানার কথা। সেগুলো ওই আয়াতগুলোরই আলোচনা, এখানে আমরা সেদিকে যাচ্ছি না।"
           },
           {
             "en": "Why make an exception at all? Al-Qurtubi answers that messengers are supported by miracles, and among these is telling of some hidden things, citing the words of 'Isa (AS): I inform you of what you eat and what you store in your houses (3:49). Al-Baghawi gives the same reason: a messenger's prophethood is shown by the miracle of his informing about the unseen. Al-Qurtubi also records, from the scholars, that He entrusted the approved messengers with what He willed of His unseen by way of revelation, as a true sign of their prophethood.",
-            "bn": "ব্যতিক্রম রাখা হলো কেন? কুরতুবীর জবাব: আল্লাহ রাসূলদের মুজিযা দিয়ে সাহায্য করেন, আর তার একটা হলো কিছু গোপন বিষয়ের খবর দেওয়া। দলিল হিসেবে তিনি আনেন ঈসা (আঃ)-এর কথা: তোমরা কী খাও আর ঘরে কী জমা রাখো, আমি তা বলে দিই (৩:৪৯)। বাগাভীও একই কারণ দেন। অদৃশ্যের খবর দেওয়ার মুজিযা দিয়েই রাসূলের নবুওয়াত প্রমাণ হয়। কুরতুবী আলিমদের বরাতে আরও বলেন, আল্লাহ যে রাসূলদের পছন্দ করেছেন, ওহির মাধ্যমে তাঁদের কাছে নিজের অদৃশ্যের যতটুকু চেয়েছেন আমানত রেখেছেন। এটা তাঁদের নবুওয়াতের সত্য নিদর্শন।"
+            "bn": "ব্যতিক্রম রাখা হলো কেন? কুরতুবীর জবাব: আল্লাহ রাসূলদের মুজিযা দিয়ে সাহায্য করেন, আর তার একটা হলো কিছু গোপন বিষয়ের খবর দেওয়া। দলিল হিসেবে তিনি আনেন ঈসা (আঃ)-এর কথা: তোমরা কী খাও আর ঘরে কী জমা রাখো, আমি তা বলে দিই (৩:৪৯)। বাগাভীও একই কারণ দেন। অদৃশ্যের খবর দেওয়ার মুজিযা দিয়েই রাসূলের নবুওয়াত প্রমাণ হয়। কুরতুবী আলিমদের বরাতে আরও বলেন, আল্লাহ যে রাসূলদের পছন্দ করেছেন, ওহির মাধ্যমে তাঁদের কাছে নিজের অদৃশ্যের যতটুকু চেয়েছেন আমানত রেখেছেন। এটা তাঁদের নবুওয়াতের সত্য নিদর্শন।"
           },
           {
             "en": "Ma'arif al-Qur'an sees the exception as closing off a misreading. Someone without understanding might conclude from 72:26 that the Prophet ﷺ had no knowledge of the unseen at all, and then ask how he could be a messenger. Allah reveals to a messenger, it says, thousands of secrets of the unseen, and no one to whom revelation does not come can be a prophet. As-Sa'di, on 72:27, adds a measure to the gift: He tells the messenger what His wisdom requires Him to tell.",
-            "bn": "মাআরিফুল কুরআনের মতে ব্যতিক্রমটা একটা ভুল বোঝার পথ বন্ধ করে। বুঝ কম এমন কেউ ৭২:২৬ পড়ে ভাবতে পারত, নবী ﷺ অদৃশ্যের কিছুই জানতেন না। তখন প্রশ্ন উঠত, তাহলে তিনি রাসূল হলেন কী করে? মাআরিফ বলে, আল্লাহ রাসূলকে ওহির মাধ্যমে অদৃশ্যের হাজারো রহস্য জানান। যার কাছে ওহি আসে না, সে নবী হতে পারে না। ৭২:২৭-এর আলোচনায় সা'দী এই দানের একটা মাপও বলে দেন। তাঁর হিকমত যতটুকু জানানো দাবি করে, রাসূলকে তিনি ততটুকুই জানান।"
+            "bn": "মাআরিফুল কুরআনের মতে ব্যতিক্রমটা একটা ভুল বোঝার পথ বন্ধ করে। বুঝ কম এমন কেউ ৭২:২৬ পড়ে ভাবতে পারত, নবী ﷺ অদৃশ্যের কিছুই জানতেন না। তখন প্রশ্ন উঠত, তাহলে তিনি রাসূল হলেন কী করে? মাআরিফ বলে, আল্লাহ রাসূলকে ওহির মাধ্যমে অদৃশ্যের হাজারো রহস্য জানান। যার কাছে ওহি আসে না, সে নবী হতে পারে না। ৭২:২৭-এর আলোচনায় সা'দী এই দানের একটা মাপও বলে দেন। তাঁর হিকমত যতটুকু জানানো দাবি করে, রাসূলকে তিনি ততটুকুই জানান।"
           }
         ]
       },
       {
         "h": {
           "en": "Shown a Part, Never the Whole",
-          "bn": "অংশ দেখান, পুরোটা কখনো নয়"
+          "bn": "অংশ দেখান, পুরোটা কখনো নয়"
         },
         "p": [
           {
             "en": "The exception is not a handing over of the whole. At-Tabari and al-Qurtubi both say the messenger is shown ma yasha', what He wills; the Muyassar says He acquaints them with ba'd al-ghayb, some of the unseen. Ma'arif al-Qur'an draws the line in so many words: the verse affirms total knowledge of the unseen for Allah and negates such total knowledge for anyone else. The messenger knows what he is told, when he is told it, and that is why 72:25 could say, I do not know.",
-            "bn": "ব্যতিক্রম মানে পুরো জ্ঞান তুলে দেওয়া নয়। তাবারী ও কুরতুবী দুজনেই বলেন, রাসূলকে দেখানো হয় মা ইয়াশা, অর্থাৎ তিনি যতটুকু চান। মুয়াসসার বলে, তিনি তাঁদের জানান বা'দাল গাইব, অদৃশ্যের কিছু অংশ। মাআরিফুল কুরআন সীমাটা স্পষ্ট করেই টানে। আয়াতটি পূর্ণ অদৃশ্যজ্ঞান আল্লাহর জন্য সাব্যস্ত করে, আর অন্য সবার জন্য তা অস্বীকার করে। রাসূল ততটুকুই জানেন, যতটুকু তাঁকে জানানো হয়, যখন জানানো হয়। এ কারণেই ৭২:২৫-এ বলা সম্ভব হয়েছে: আমি জানি না।"
+            "bn": "ব্যতিক্রম মানে পুরো জ্ঞান তুলে দেওয়া নয়। তাবারী ও কুরতুবী দুজনেই বলেন, রাসূলকে দেখানো হয় মা ইয়াশা, অর্থাৎ তিনি যতটুকু চান। মুয়াসসার বলে, তিনি তাঁদের জানান বা'দাল গাইব, অদৃশ্যের কিছু অংশ। মাআরিফুল কুরআন সীমাটা স্পষ্ট করেই টানে। আয়াতটি পূর্ণ অদৃশ্যজ্ঞান আল্লাহর জন্য সাব্যস্ত করে, আর অন্য সবার জন্য তা অস্বীকার করে। রাসূল ততটুকুই জানেন, যতটুকু তাঁকে জানানো হয়, যখন জানানো হয়। এ কারণেই ৭২:২৫-এ বলা সম্ভব হয়েছে: আমি জানি না।"
           },
           {
             "en": "Who is the messenger meant? Here the sources part ways. Al-Qurtubi reports from Sa'id ibn Jubayr that the approved messenger is Jibril (AS), then calls this remote, preferring the meaning that Allah discloses His unseen to whomever He has chosen for prophethood, as a proof of that prophethood. Ibn Kathir reads the word more widely: it includes, he says, the angelic messenger and the human messenger. The two readings are set down here side by side, without a verdict between them.",
-            "bn": "রাসূল বলতে এখানে কাকে বোঝানো হয়েছে? এ প্রশ্নে সূত্রগুলো আলাদা পথে যায়। কুরতুবী সাঈদ ইবন জুবায়রের মত উল্লেখ করেন যে পছন্দের রাসূল হলেন জিবরীল (আঃ)। তারপর বলেন, মতটি দূরের। তাঁর কাছে বেশি সঙ্গত অর্থ হলো, নবুওয়াতের জন্য যাকে বাছাই করেছেন, আল্লাহ তাঁর কাছে নিজের অদৃশ্য প্রকাশ করেন, যাতে তা নবুওয়াতের দলিল হয়। ইবন কাসীর শব্দটিকে আরও প্রশস্ত অর্থে পড়েন। তাঁর মতে এতে ফেরেশতা রাসূল ও মানুষ রাসূল দুই-ই শামিল। দুটি মত এখানে পাশাপাশি রাখা হলো, কোনোটির পক্ষে রায় না দিয়ে।"
+            "bn": "রাসূল বলতে এখানে কাকে বোঝানো হয়েছে? এ প্রশ্নে সূত্রগুলো আলাদা পথে যায়। কুরতুবী সাঈদ ইবন জুবায়রের মত উল্লেখ করেন যে পছন্দের রাসূল হলেন জিবরীল (আঃ)। তারপর বলেন, মতটি দূরের। তাঁর কাছে বেশি সঙ্গত অর্থ হলো, নবুওয়াতের জন্য যাকে বাছাই করেছেন, আল্লাহ তাঁর কাছে নিজের অদৃশ্য প্রকাশ করেন, যাতে তা নবুওয়াতের দলিল হয়। ইবন কাসীর শব্দটিকে আরও প্রশস্ত অর্থে পড়েন। তাঁর মতে এতে ফেরেশতা রাসূল ও মানুষ রাসূল দুই-ই শামিল। দুটি মত এখানে পাশাপাশি রাখা হলো, কোনোটির পক্ষে রায় না দিয়ে।"
           }
         ]
       },
@@ -637,11 +637,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the commentaries consulted for this verse attaches a hadith to it. A general narration on the same theme, not linked to 72:26 by these sources, is in Sahih al-Bukhari (4627), from 'Abdullah ibn 'Umar: Allah's Messenger ﷺ said, \"The keys of the Unseen are five: Verily with Allah (Alone) is the knowledge of the Hour. He sends down the rain and knows what is in the wombs. No soul knows what it will earn tomorrow, and no soul knows in what land it will die. Verily, Allah is All-Knower, All-Aware.\"",
-            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস জোড়েনি। তবে একই বিষয়ে একটা সাধারণ বর্ণনা আছে সহীহ বুখারীতে (৪৬২৭), আবদুল্লাহ ইবন উমর (রাঃ) থেকে। এই সূত্রগুলো একে ৭২:২৬-এর সঙ্গে যুক্ত করেনি। রাসূলুল্লাহ ﷺ বলেছেন: \"অদৃশ্যের চাবি পাঁচটি: নিশ্চয়ই কিয়ামতের জ্ঞান কেবল আল্লাহর কাছে, তিনিই বৃষ্টি বর্ষণ করেন, আর জানেন গর্ভে কী আছে। কেউ জানে না আগামীকাল সে কী উপার্জন করবে, আর কেউ জানে না কোন মাটিতে তার মৃত্যু হবে। নিশ্চয়ই আল্লাহ সর্বজ্ঞ, সব খবর রাখেন।\""
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস জোড়েনি। তবে একই বিষয়ে একটা সাধারণ বর্ণনা আছে সহীহ বুখারীতে (৪৬২৭), আবদুল্লাহ ইবন উমর (রাঃ) থেকে। এই সূত্রগুলো একে ৭২:২৬-এর সঙ্গে যুক্ত করেনি। রাসূলুল্লাহ ﷺ বলেছেন: \"অদৃশ্যের চাবি পাঁচটি: নিশ্চয়ই কিয়ামতের জ্ঞান কেবল আল্লাহর কাছে, তিনিই বৃষ্টি বর্ষণ করেন, আর জানেন গর্ভে কী আছে। কেউ জানে না আগামীকাল সে কী উপার্জন করবে, আর কেউ জানে না কোন মাটিতে তার মৃত্যু হবে। নিশ্চয়ই আল্লাহ সর্বজ্ঞ, সব খবর রাখেন।\""
           },
           {
             "en": "Al-Bukhari includes it in his Sahih, and the five keys are named in the words of 31:34. Ibn Kathir, on 72:25, notes how the Prophet ﷺ himself met the question: when he was asked about the time of the Hour, he would not answer it. The verse and the narration point the same way. The Messenger ﷺ, to whom the revelation came, was also careful to say where his knowledge stopped, and he did not fill the silence with a guess.",
-            "bn": "বুখারী হাদিসটি তাঁর সহীহ গ্রন্থে এনেছেন, আর পাঁচটি চাবির নাম এসেছে ৩১:৩৪ আয়াতের ভাষাতেই। ইবন কাসীর ৭২:২৫-এর আলোচনায় দেখান, নবী ﷺ নিজে প্রশ্নটার মুখোমুখি হতেন কীভাবে। কিয়ামতের সময় নিয়ে তাঁকে জিজ্ঞেস করা হলে তিনি তার জবাব দিতেন না। আয়াত আর হাদিস একই দিকে ইশারা করে। যাঁর কাছে ওহি আসত, সেই রাসূল ﷺ নিজের জ্ঞানের সীমা কোথায়, তা বলতেও সাবধান ছিলেন। নীরবতার জায়গাটা তিনি অনুমান দিয়ে ভরাট করেননি।"
+            "bn": "বুখারী হাদিসটি তাঁর সহীহ গ্রন্থে এনেছেন, আর পাঁচটি চাবির নাম এসেছে ৩১:৩৪ আয়াতের ভাষাতেই। ইবন কাসীর ৭২:২৫-এর আলোচনায় দেখান, নবী ﷺ নিজে প্রশ্নটার মুখোমুখি হতেন কীভাবে। কিয়ামতের সময় নিয়ে তাঁকে জিজ্ঞেস করা হলে তিনি তার জবাব দিতেন না। আয়াত আর হাদিস একই দিকে ইশারা করে। যাঁর কাছে ওহি আসত, সেই রাসূল ﷺ নিজের জ্ঞানের সীমা কোথায়, তা বলতেও সাবধান ছিলেন। নীরবতার জায়গাটা তিনি অনুমান দিয়ে ভরাট করেননি।"
           }
         ]
       },
@@ -653,31 +653,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It is on 72:27, with the exception in view, that al-Qurtubi turns the passage against astrology. He reports the scholars' reasoning: since Allah praised Himself for knowing the unseen and kept it to Himself, none besides Him knows it; then He excepted the messengers He approved. The munajjim, the astrologer, and whoever resembles him, casting pebbles, consulting books or reading the flight of birds, is not among those approved messengers. Al-Qurtubi judges such a man a disbeliever in Allah, forging lies against Him by conjecture and guesswork.",
-            "bn": "৭২:২৭-এর আলোচনায়, ব্যতিক্রমটা সামনে রেখে, কুরতুবী এই অংশকে জ্যোতিষচর্চার বিরুদ্ধে দলিল হিসেবে আনেন। তিনি আলিমদের যুক্তি তুলে ধরেন। আল্লাহ অদৃশ্যের জ্ঞান দিয়ে নিজের প্রশংসা করেছেন এবং তা নিজের জন্য রেখে দিয়েছেন। তাই তিনি ছাড়া কেউ অদৃশ্য জানে না। তারপর ব্যতিক্রম হিসেবে রেখেছেন শুধু পছন্দের রাসূলদের। মুনাজ্জিম বা জ্যোতিষী, আর তার মতো যারা কাঁকর ছুড়ে, বই ঘেঁটে বা পাখির ওড়া দেখে ভবিষ্যৎ বলে, তারা ওই পছন্দের রাসূলদের দলে নেই। কুরতুবীর রায়ে এমন লোক আল্লাহর সঙ্গে কুফরি করে। আন্দাজ আর অনুমান দিয়ে সে আল্লাহর নামে মিথ্যা বানায়।"
+            "bn": "৭২:২৭-এর আলোচনায়, ব্যতিক্রমটা সামনে রেখে, কুরতুবী এই অংশকে জ্যোতিষচর্চার বিরুদ্ধে দলিল হিসেবে আনেন। তিনি আলিমদের যুক্তি তুলে ধরেন। আল্লাহ অদৃশ্যের জ্ঞান দিয়ে নিজের প্রশংসা করেছেন এবং তা নিজের জন্য রেখে দিয়েছেন। তাই তিনি ছাড়া কেউ অদৃশ্য জানে না। তারপর ব্যতিক্রম হিসেবে রেখেছেন শুধু পছন্দের রাসূলদের। মুনাজ্জিম বা জ্যোতিষী, আর তার মতো যারা কাঁকর ছুড়ে, বই ঘেঁটে বা পাখির ওড়া দেখে ভবিষ্যৎ বলে, তারা ওই পছন্দের রাসূলদের দলে নেই। কুরতুবীর রায়ে এমন লোক আল্লাহর সঙ্গে কুফরি করে। আন্দাজ আর অনুমান দিয়ে সে আল্লাহর নামে মিথ্যা বানায়।"
           },
           {
             "en": "He then quotes one scholar's challenge. A ship carries a thousand people of every rank, king and commoner, learned and ignorant, rich and poor, each born under a different star, and all drown in a single hour. If the astrologer blames the hour they embarked, that hour has overruled every birth chart aboard, and the charts were worth nothing. Al-Qurtubi also relates, without a chain, that 'Ali (RA) set out against the Kharijites at an hour an astrologer warned against, saying that Muhammad ﷺ had no astrologer, nor did they after him.",
-            "bn": "এরপর তিনি এক আলিমের ছুড়ে দেওয়া একটা প্রশ্ন উদ্ধৃত করেন। একটা জাহাজে হাজারজন মানুষ, নানা স্তরের: রাজা ও সাধারণ লোক, আলিম ও অজ্ঞ, ধনী ও গরিব। প্রত্যেকের জন্ম ভিন্ন ভিন্ন নক্ষত্রের অধীনে। অথচ একই সময়ে সবাই ডুবে গেল। জ্যোতিষী যদি বলে, তারা যে লগ্নে জাহাজে উঠেছিল সেটাই দায়ী, তাহলে সেই লগ্ন জাহাজের সবার জন্মছক বাতিল করে দিল। জন্মছক তবে কোনো কাজেরই নয়। কুরতুবী সনদ ছাড়া আরও বর্ণনা করেন, এক জ্যোতিষী যে সময়ে বের হতে নিষেধ করেছিল, আলী (রাঃ) ঠিক সেই সময়েই খারিজীদের বিরুদ্ধে রওনা হন। তিনি বলেছিলেন, মুহাম্মাদ ﷺ-এর কোনো জ্যোতিষী ছিল না, তাঁর পরে আমাদেরও নেই।"
+            "bn": "এরপর তিনি এক আলিমের ছুড়ে দেওয়া একটা প্রশ্ন উদ্ধৃত করেন। একটা জাহাজে হাজারজন মানুষ, নানা স্তরের: রাজা ও সাধারণ লোক, আলিম ও অজ্ঞ, ধনী ও গরিব। প্রত্যেকের জন্ম ভিন্ন ভিন্ন নক্ষত্রের অধীনে। অথচ একই সময়ে সবাই ডুবে গেল। জ্যোতিষী যদি বলে, তারা যে লগ্নে জাহাজে উঠেছিল সেটাই দায়ী, তাহলে সেই লগ্ন জাহাজের সবার জন্মছক বাতিল করে দিল। জন্মছক তবে কোনো কাজেরই নয়। কুরতুবী সনদ ছাড়া আরও বর্ণনা করেন, এক জ্যোতিষী যে সময়ে বের হতে নিষেধ করেছিল, আলী (রাঃ) ঠিক সেই সময়েই খারিজীদের বিরুদ্ধে রওনা হন। তিনি বলেছিলেন, মুহাম্মাদ ﷺ-এর কোনো জ্যোতিষী ছিল না, তাঁর পরে আমাদেরও নেই।"
           },
           {
             "en": "Al-Baghawi and al-Qurtubi also explain, on 72:27, that the revelation is guarded so that jinn cannot overhear it and pass it to the kahanah, the soothsayers. These judgments belong to al-Qurtubi and the authorities he cites, and they concern a practice. This article makes no ruling of its own against any living person or group, and the verse licenses nothing against anyone. What it leaves with each reader is a question about where they themselves go looking for the future.",
-            "bn": "৭২:২৭-এর আলোচনায় বাগাভী ও কুরতুবী এটাও বলেন যে ওহি পাহারায় রাখা হয়, যাতে জিনেরা তা চুরি করে শুনে কাহিন বা গণকদের কাছে পৌঁছে দিতে না পারে। এই রায়গুলো কুরতুবী ও তাঁর উদ্ধৃত আলিমদের, আর এগুলো একটা প্রথা নিয়ে। এ লেখা নিজের পক্ষ থেকে কোনো জীবিত মানুষ বা দলের বিরুদ্ধে রায় দেয় না, আর আয়াতটিও কারও বিরুদ্ধে কিছুর অনুমতি দেয় না। আয়াতটি বরং প্রত্যেক পাঠকের সামনে একটা প্রশ্ন রেখে যায়: ভবিষ্যৎ জানতে আমি নিজে কোথায় খুঁজে বেড়াই?"
+            "bn": "৭২:২৭-এর আলোচনায় বাগাভী ও কুরতুবী এটাও বলেন যে ওহি পাহারায় রাখা হয়, যাতে জিনেরা তা চুরি করে শুনে কাহিন বা গণকদের কাছে পৌঁছে দিতে না পারে। এই রায়গুলো কুরতুবী ও তাঁর উদ্ধৃত আলিমদের, আর এগুলো একটা প্রথা নিয়ে। এ লেখা নিজের পক্ষ থেকে কোনো জীবিত মানুষ বা দলের বিরুদ্ধে রায় দেয় না, আর আয়াতটিও কারও বিরুদ্ধে কিছুর অনুমতি দেয় না। আয়াতটি বরং প্রত্যেক পাঠকের সামনে একটা প্রশ্ন রেখে যায়: ভবিষ্যৎ জানতে আমি নিজে কোথায় খুঁজে বেড়াই?"
           }
         ]
       },
       {
         "h": {
           "en": "Living Without the Map",
-          "bn": "নকশা ছাড়াই পথ চলা"
+          "bn": "নকশা ছাড়াই পথ চলা"
         },
         "p": [
           {
             "en": "Read in its place, the verse is less a theory of knowledge than a lesson in honesty. The Prophet ﷺ is told to say, I do not know, about the very question his opponents pressed hardest. If he could say it without shame, so can anyone. Much of our worry is an attempt to read a page Allah has kept closed: the result, the diagnosis, the marriage, the year ahead. The verse does not ask for less planning, only for an end to pretending that the page is open.",
-            "bn": "প্রসঙ্গসহ পড়লে বোঝা যায়, আয়াতটি জ্ঞানতত্ত্বের পাঠ যতটা, তার চেয়ে অনেক বেশি সততার শিক্ষা। যে প্রশ্ন নিয়ে বিরোধীরা সবচেয়ে বেশি চাপ দিত, ঠিক সে প্রশ্নেই নবী ﷺ-কে বলতে বলা হলো, আমি জানি না। তিনি যদি লজ্জা ছাড়া এ কথা বলতে পারেন, তাহলে অন্য যে কেউও পারে। আমাদের অনেক দুশ্চিন্তা আসলে আল্লাহর বন্ধ করে রাখা পাতা পড়ার চেষ্টা: পরীক্ষার ফল, রোগের খবর, বিয়ে, সামনের বছর। আয়াতটি পরিকল্পনা কমাতে বলে না। শুধু বলে, পাতাটা খোলা, এই ভান ছেড়ে দিন।"
+            "bn": "প্রসঙ্গসহ পড়লে বোঝা যায়, আয়াতটি জ্ঞানতত্ত্বের পাঠ যতটা, তার চেয়ে অনেক বেশি সততার শিক্ষা। যে প্রশ্ন নিয়ে বিরোধীরা সবচেয়ে বেশি চাপ দিত, ঠিক সে প্রশ্নেই নবী ﷺ-কে বলতে বলা হলো, আমি জানি না। তিনি যদি লজ্জা ছাড়া এ কথা বলতে পারেন, তাহলে অন্য যে কেউও পারে। আমাদের অনেক দুশ্চিন্তা আসলে আল্লাহর বন্ধ করে রাখা পাতা পড়ার চেষ্টা: পরীক্ষার ফল, রোগের খবর, বিয়ে, সামনের বছর। আয়াতটি পরিকল্পনা কমাতে বলে না। শুধু বলে, পাতাটা খোলা, এই ভান ছেড়ে দিন।"
           },
           {
             "en": "It also turns attention around. What has been disclosed, the messages of 72:23 that the Prophet ﷺ was sent to convey, is the part of the unseen that reaches us, and it is enough to act on. To turn from the stars, the palm and the rumour about the hour back to that, and to leave the rest with its Owner, is the verse's quiet discipline. A reader might ask: what am I still waiting to know before I do what I already know I should?",
-            "bn": "আয়াতটি মনোযোগও অন্য দিকে ফেরায়। অদৃশ্যের যে অংশ খুলে দেওয়া হয়েছে, তা হলো ৭২:২৩-এর সেই বাণী, যা পৌঁছে দিতে নবী ﷺ-কে পাঠানো হয়েছিল। অদৃশ্যের এটুকুই আমাদের কাছে পৌঁছায়, আর আমল করার জন্য এটুকুই যথেষ্ট। নক্ষত্র, হাতের রেখা আর কিয়ামতের দিনক্ষণ নিয়ে গুজব থেকে মুখ ফিরিয়ে এই বাণীর দিকে ফেরা, আর বাকিটা এর মালিকের হাতে ছেড়ে দেওয়া, এটাই আয়াতের নীরব শিক্ষা। পাঠক নিজেকে জিজ্ঞেস করতে পারেন: যা করা উচিত বলে আমি জানিই, তা করার আগে আর কী জানার অপেক্ষায় বসে আছি?"
+            "bn": "আয়াতটি মনোযোগও অন্য দিকে ফেরায়। অদৃশ্যের যে অংশ খুলে দেওয়া হয়েছে, তা হলো ৭২:২৩-এর সেই বাণী, যা পৌঁছে দিতে নবী ﷺ-কে পাঠানো হয়েছিল। অদৃশ্যের এটুকুই আমাদের কাছে পৌঁছায়, আর আমল করার জন্য এটুকুই যথেষ্ট। নক্ষত্র, হাতের রেখা আর কিয়ামতের দিনক্ষণ নিয়ে গুজব থেকে মুখ ফিরিয়ে এই বাণীর দিকে ফেরা, আর বাকিটা এর মালিকের হাতে ছেড়ে দেওয়া, এটাই আয়াতের নীরব শিক্ষা। পাঠক নিজেকে জিজ্ঞেস করতে পারেন: যা করা উচিত বলে আমি জানিই, তা করার আগে আর কী জানার অপেক্ষায় বসে আছি?"
           }
         ]
       }

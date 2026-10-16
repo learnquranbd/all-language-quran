@@ -21,47 +21,47 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Qamar opens with four Arabic words: iqtarabati s-sa'atu wa-nshaqqa l-qamar, the Hour has drawn near, and the moon has split. Sahih Muslim preserves a report of how the Prophet ﷺ used this surah. 'Umar ibn al-Khattab asked Abu Waqid al-Laythi what the Messenger of Allah ﷺ used to recite at al-Adha and al-Fitr, and he said: he used to recite in them Qaf, wa-l-Qur'ani l-majid, and Iqtarabati s-sa'atu wa-nshaqqa l-qamar. Muslim gives it in his Sahih, with no separate grading of his own.",
-            "bn": "সূরা আল-কামার শুরু হয় আরবি চারটি শব্দে: ইকতারাবাতিস সাআতু ওয়ানশাক্কাল কামার। কিয়ামত কাছে এসে গেছে, আর চাঁদ ফেটে গেছে। নবী ﷺ এ সূরা কোথায় পড়তেন, সহীহ মুসলিমে তার একটি বর্ণনা আছে। উমর ইবনুল খাত্তাব (রাঃ) আবু ওয়াকিদ আল-লাইসী (রাঃ)-কে জিজ্ঞেস করলেন, ঈদুল আযহা ও ঈদুল ফিতরে আল্লাহর রাসূল ﷺ কী পড়তেন। তিনি বললেন, দুই ঈদে তিনি পড়তেন কাফ, ওয়াল কুরআনিল মাজীদ, আর ইকতারাবাতিস সাআতু ওয়ানশাক্কাল কামার। ইমাম মুসলিম বর্ণনাটি তাঁর সহীহ গ্রন্থে এনেছেন, আলাদা কোনো মান উল্লেখ করেননি।"
+            "bn": "সূরা আল-কামার শুরু হয় আরবি চারটি শব্দে: ইকতারাবাতিস সাআতু ওয়ানশাক্কাল কামার। কিয়ামত কাছে এসে গেছে, আর চাঁদ ফেটে গেছে। নবী ﷺ এ সূরা কোথায় পড়তেন, সহীহ মুসলিমে তার একটি বর্ণনা আছে। উমর ইবনুল খাত্তাব (রাঃ) আবু ওয়াকিদ আল-লাইসী (রাঃ)-কে জিজ্ঞেস করলেন, ঈদুল আযহা ও ঈদুল ফিতরে আল্লাহর রাসূল ﷺ কী পড়তেন। তিনি বললেন, দুই ঈদে তিনি পড়তেন কাফ, ওয়াল কুরআনিল মাজীদ, আর ইকতারাবাতিস সাআতু ওয়ানশাক্কাল কামার। ইমাম মুসলিম বর্ণনাটি তাঁর সহীহ গ্রন্থে এনেছেন, আলাদা কোনো মান উল্লেখ করেননি।"
           },
           {
             "en": "Ibn Kathir opens his commentary on the surah with this report and gives his own reason for the choice: the Prophet ﷺ recited the two surahs at great gatherings because they hold promise and warning, the beginning of creation and its return, tawhid, the affirmation of prophethood and other great aims. Ma'arif al-Qur'an points to the link with what comes before. Surah an-Najm closed on azifati l-azifa, the approaching has approached, in 53:57, and this surah opens on the same note, then follows it with one of its proofs.",
-            "bn": "ইবন কাসীর এ সূরার তাফসীর শুরু করেন এই বর্ণনা দিয়েই, আর নিজের পক্ষ থেকে কারণটাও বলেন। বড় বড় সমাবেশে নবী ﷺ এ দুই সূরা পড়তেন, কেননা এগুলোতে আছে প্রতিশ্রুতি ও সতর্কবাণী, সৃষ্টির শুরু ও পুনরায় সৃষ্টি, তাওহিদ, নবুওয়াতের প্রমাণ এবং আরও বড় বড় উদ্দেশ্য। মাআরিফুল কুরআন আগের সূরার সঙ্গে সম্পর্কটা ধরিয়ে দেয়। সূরা আন-নাজম শেষ হয়েছিল আযিফাতিল আযিফা দিয়ে, অর্থাৎ আসন্ন বিষয়টি আসন্ন হয়েছে (৫৩:৫৭)। এ সূরা শুরু হয় সেই একই সুরে, তারপর তার পক্ষে একটি প্রমাণ সামনে আনে।"
+            "bn": "ইবন কাসীর এ সূরার তাফসীর শুরু করেন এই বর্ণনা দিয়েই, আর নিজের পক্ষ থেকে কারণটাও বলেন। বড় বড় সমাবেশে নবী ﷺ এ দুই সূরা পড়তেন, কেননা এগুলোতে আছে প্রতিশ্রুতি ও সতর্কবাণী, সৃষ্টির শুরু ও পুনরায় সৃষ্টি, তাওহিদ, নবুওয়াতের প্রমাণ এবং আরও বড় বড় উদ্দেশ্য। মাআরিফুল কুরআন আগের সূরার সঙ্গে সম্পর্কটা ধরিয়ে দেয়। সূরা আন-নাজম শেষ হয়েছিল আযিফাতিল আযিফা দিয়ে, অর্থাৎ আসন্ন বিষয়টি আসন্ন হয়েছে (৫৩:৫৭)। এ সূরা শুরু হয় সেই একই সুরে, তারপর তার পক্ষে একটি প্রমাণ সামনে আনে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Verb of Closing In",
-          "bn": "কাছে এসে পড়ার ক্রিয়া"
+          "bn": "কাছে এসে পড়ার ক্রিয়া"
         },
         "p": [
           {
             "en": "At-Tabari explains the first verb: iqtarabat is on the pattern ifta'alat, from qurb, nearness, and it means that the Hour in which the Resurrection stands has drawn close. He reads the sentence as a warning from Allah to His servants that the Resurrection is near and the passing of this world is close, and as a command to make ready for its terrors before they fall upon people while they are heedless and distracted. Al-Qurtubi glosses iqtarabat simply as qarubat, it came near, like azifati l-azifa.",
-            "bn": "প্রথম ক্রিয়াটি তাবারী খুলে বলেন। ইকতারাবাত শব্দটি ইফতাআলাত ছাঁচে গড়া, এসেছে কুরব থেকে, যার মানে নৈকট্য। অর্থ দাঁড়ায়: যে মুহূর্তে কিয়ামত কায়েম হবে, সেটি কাছে চলে এসেছে। তাবারীর মতে বাক্যটি বান্দাদের প্রতি আল্লাহর সতর্কবাণী: কিয়ামত কাছে, দুনিয়ার বিদায়ও কাছে। সেই সঙ্গে এতে আছে প্রস্তুত হওয়ার আদেশ। মানুষ যখন উদাসীন আর অন্যমনস্ক, তখনই কিয়ামতের বিভীষিকা হঠাৎ ঘাড়ে এসে পড়বে, তার আগেই প্রস্তুত হয়ে থাকতে হবে। কুরতুবী ইকতারাবাতের অর্থ করেন সংক্ষেপে কারুবাত, কাছে এসেছে, ঠিক আযিফাতিল আযিফার মতো।"
+            "bn": "প্রথম ক্রিয়াটি তাবারী খুলে বলেন। ইকতারাবাত শব্দটি ইফতাআলাত ছাঁচে গড়া, এসেছে কুরব থেকে, যার মানে নৈকট্য। অর্থ দাঁড়ায়: যে মুহূর্তে কিয়ামত কায়েম হবে, সেটি কাছে চলে এসেছে। তাবারীর মতে বাক্যটি বান্দাদের প্রতি আল্লাহর সতর্কবাণী: কিয়ামত কাছে, দুনিয়ার বিদায়ও কাছে। সেই সঙ্গে এতে আছে প্রস্তুত হওয়ার আদেশ। মানুষ যখন উদাসীন আর অন্যমনস্ক, তখনই কিয়ামতের বিভীষিকা হঠাৎ ঘাড়ে এসে পড়বে, তার আগেই প্রস্তুত হয়ে থাকতে হবে। কুরতুবী ইকতারাবাতের অর্থ করেন সংক্ষেপে কারুবাত, কাছে এসেছে, ঠিক আযিফাতিল আযিফার মতো।"
           },
           {
             "en": "How can something announced so long ago be called near? Al-Qurtubi answers that it is near in relation to what has already passed, since most of the world's span is over. Ibn Kathir sets the verse beside two others spoken in the same voice: the command of Allah has come, so do not seek to hasten it, 16:1; and mankind's reckoning has drawn near while they turn away in heedlessness, 21:1. As-Sa'di adds the human side: the Hour's time has come, and still the deniers stayed in denial, unprepared for it.",
-            "bn": "যার ঘোষণা এসেছে এত আগে, তাকে কাছে বলা হয় কীভাবে? কুরতুবীর জবাব: যা পেরিয়ে গেছে তার তুলনায় এটি কাছে, কারণ দুনিয়ার আয়ুর বেশির ভাগই ফুরিয়ে গেছে। ইবন কাসীর আয়াতটিকে একই সুরের আরও দুটি আয়াতের পাশে রাখেন। একটি ১৬:১, আল্লাহর আদেশ এসে গেছে, তাই তা নিয়ে তাড়াহুড়া কোরো না। অন্যটি ২১:১, মানুষের হিসাবের সময় কাছে এসে গেছে, অথচ তারা উদাসীন হয়ে মুখ ফিরিয়ে আছে। সাদী মানুষের দিকটা যোগ করেন। কিয়ামতের সময় হয়ে এসেছে, তবু অস্বীকারকারীরা অস্বীকারেই অটল থেকেছে, তার জন্য কোনো প্রস্তুতি নেয়নি।"
+            "bn": "যার ঘোষণা এসেছে এত আগে, তাকে কাছে বলা হয় কীভাবে? কুরতুবীর জবাব: যা পেরিয়ে গেছে তার তুলনায় এটি কাছে, কারণ দুনিয়ার আয়ুর বেশির ভাগই ফুরিয়ে গেছে। ইবন কাসীর আয়াতটিকে একই সুরের আরও দুটি আয়াতের পাশে রাখেন। একটি ১৬:১, আল্লাহর আদেশ এসে গেছে, তাই তা নিয়ে তাড়াহুড়া কোরো না। অন্যটি ২১:১, মানুষের হিসাবের সময় কাছে এসে গেছে, অথচ তারা উদাসীন হয়ে মুখ ফিরিয়ে আছে। সাদী মানুষের দিকটা যোগ করেন। কিয়ামতের সময় হয়ে এসেছে, তবু অস্বীকারকারীরা অস্বীকারেই অটল থেকেছে, তার জন্য কোনো প্রস্তুতি নেয়নি।"
           }
         ]
       },
       {
         "h": {
           "en": "A Sign Asked For",
-          "bn": "চেয়ে নেওয়া নিদর্শন"
+          "bn": "চেয়ে নেওয়া নিদর্শন"
         },
         "p": [
           {
             "en": "Then the second clause, wa-nshaqqa l-qamar, and the moon split. At-Tabari says it means the moon was cleft, and that this was, as reported, in the time of the Messenger of Allah ﷺ while he was in Makkah, before his emigration to Madinah. The disbelievers of Makkah had asked him for a sign, and he showed them the splitting of the moon as proof of the truth of his words and the reality of his prophethood. When they saw it, at-Tabari continues, they turned away and denied, and said: a continuing magic; Muhammad has bewitched us.",
-            "bn": "এরপর দ্বিতীয় অংশ, ওয়ানশাক্কাল কামার: আর চাঁদ ফেটে গেছে। তাবারী বলেন, এর মানে চাঁদ দুই ভাগ হয়ে গিয়েছিল। বর্ণনা অনুযায়ী ঘটনাটি ঘটেছিল আল্লাহর রাসূল ﷺ-এর জীবদ্দশায়, তিনি তখন মক্কায়, মদীনায় হিজরতের আগে। মক্কার কাফেররা তাঁর কাছে একটি নিদর্শন চেয়েছিল। তাঁর কথার সত্যতা আর নবুওয়াতের বাস্তবতার প্রমাণ হিসেবে তিনি তাদের চাঁদ ফেটে যাওয়া দেখালেন। তাবারী আরও বলেন, দেখার পর তারা মুখ ফিরিয়ে নিল, অস্বীকার করল, আর বলল: এ তো চলমান যাদু, মুহাম্মাদ আমাদের যাদু করেছে।"
+            "bn": "এরপর দ্বিতীয় অংশ, ওয়ানশাক্কাল কামার: আর চাঁদ ফেটে গেছে। তাবারী বলেন, এর মানে চাঁদ দুই ভাগ হয়ে গিয়েছিল। বর্ণনা অনুযায়ী ঘটনাটি ঘটেছিল আল্লাহর রাসূল ﷺ-এর জীবদ্দশায়, তিনি তখন মক্কায়, মদীনায় হিজরতের আগে। মক্কার কাফেররা তাঁর কাছে একটি নিদর্শন চেয়েছিল। তাঁর কথার সত্যতা আর নবুওয়াতের বাস্তবতার প্রমাণ হিসেবে তিনি তাদের চাঁদ ফেটে যাওয়া দেখালেন। তাবারী আরও বলেন, দেখার পর তারা মুখ ফিরিয়ে নিল, অস্বীকার করল, আর বলল: এ তো চলমান যাদু, মুহাম্মাদ আমাদের যাদু করেছে।"
           },
           {
             "en": "The other commentators consulted for this verse tell it in their own words. The Muyassar says the moon split into two halves when the disbelievers of Makkah asked the Prophet ﷺ for a sign, so he called on Allah, and Allah showed them that sign. As-Sa'di says that when the deniers asked him for something beyond the ordinary course of things to show his truthfulness, he pointed to the moon by Allah's leave, and it split into two halves, one on the mountain of Abu Qubays and one on Qu'ayqi'an, while the idolaters and others watched.",
-            "bn": "এ আয়াতের অন্য তাফসীরকারেরাও নিজ নিজ ভাষায় ঘটনাটি বলেন। মুয়াসসার বলে, মক্কার কাফেররা যখন নবী ﷺ-এর কাছে নিদর্শন চাইল, তিনি আল্লাহর কাছে দোয়া করলেন, আর আল্লাহ তাদের সেই নিদর্শন দেখালেন। চাঁদ দুই টুকরো হয়ে গেল। সাদীর বর্ণনায়, অস্বীকারকারীরা তাঁর সত্যবাদিতার প্রমাণ হিসেবে স্বাভাবিক নিয়মের বাইরের কিছু দেখতে চেয়েছিল। তিনি আল্লাহর অনুমতিতে চাঁদের দিকে ইশারা করলেন। চাঁদ দুই খণ্ড হয়ে গেল, একটি খণ্ড আবু কুবাইস পাহাড়ের ওপর, অন্যটি কুআইকিআন পাহাড়ের ওপর। মুশরিকরা আর অন্যরা তখন তা নিজের চোখে দেখছিল।"
+            "bn": "এ আয়াতের অন্য তাফসীরকারেরাও নিজ নিজ ভাষায় ঘটনাটি বলেন। মুয়াসসার বলে, মক্কার কাফেররা যখন নবী ﷺ-এর কাছে নিদর্শন চাইল, তিনি আল্লাহর কাছে দোয়া করলেন, আর আল্লাহ তাদের সেই নিদর্শন দেখালেন। চাঁদ দুই টুকরো হয়ে গেল। সাদীর বর্ণনায়, অস্বীকারকারীরা তাঁর সত্যবাদিতার প্রমাণ হিসেবে স্বাভাবিক নিয়মের বাইরের কিছু দেখতে চেয়েছিল। তিনি আল্লাহর অনুমতিতে চাঁদের দিকে ইশারা করলেন। চাঁদ দুই খণ্ড হয়ে গেল, একটি খণ্ড আবু কুবাইস পাহাড়ের ওপর, অন্যটি কুআইকিআন পাহাড়ের ওপর। মুশরিকরা আর অন্যরা তখন তা নিজের চোখে দেখছিল।"
           },
           {
             "en": "As-Sa'di calls it a great sign in the upper world, which no creature could fake or conjure as an illusion. Al-Baghawi records from Muqatil that the moon split and then joined together again afterwards. At-Tabari carries a report from Ibn Mas'ud that they were with the Prophet ﷺ at Mina when it happened, and others that place it in Makkah; Ma'arif al-Qur'an's summary has him sitting at Mina in Makkah. Al-Qurtubi adds that it came at the Prophet's ﷺ request to Allah, at the time of the challenge.",
-            "bn": "সাদী একে বলেন ঊর্ধ্বজগতের এক মহান নিদর্শন, যা কোনো সৃষ্টির পক্ষে নকল করা বা চোখের ভ্রম বানিয়ে দেখানো সম্ভব নয়। বাগাভী মুকাতিলের সূত্রে আনেন, চাঁদ ফেটে গিয়েছিল, পরে আবার জোড়া লেগে যায়। তাবারী ইবন মাসউদ (রাঃ)-এর একটি বর্ণনা আনেন যে ঘটনার সময় তাঁরা নবী ﷺ-এর সঙ্গে মিনায় ছিলেন। অন্য বর্ণনাগুলোতে জায়গাটি মক্কা। মাআরিফুল কুরআনের সারসংক্ষেপে তিনি তখন মক্কার মিনায় বসে ছিলেন। কুরতুবী যোগ করেন, চ্যালেঞ্জের মুহূর্তে নবী ﷺ আল্লাহর কাছে চেয়েছিলেন বলেই এ নিদর্শন এসেছিল।"
+            "bn": "সাদী একে বলেন ঊর্ধ্বজগতের এক মহান নিদর্শন, যা কোনো সৃষ্টির পক্ষে নকল করা বা চোখের ভ্রম বানিয়ে দেখানো সম্ভব নয়। বাগাভী মুকাতিলের সূত্রে আনেন, চাঁদ ফেটে গিয়েছিল, পরে আবার জোড়া লেগে যায়। তাবারী ইবন মাসউদ (রাঃ)-এর একটি বর্ণনা আনেন যে ঘটনার সময় তাঁরা নবী ﷺ-এর সঙ্গে মিনায় ছিলেন। অন্য বর্ণনাগুলোতে জায়গাটি মক্কা। মাআরিফুল কুরআনের সারসংক্ষেপে তিনি তখন মক্কার মিনায় বসে ছিলেন। কুরতুবী যোগ করেন, চ্যালেঞ্জের মুহূর্তে নবী ﷺ আল্লাহর কাছে চেয়েছিলেন বলেই এ নিদর্শন এসেছিল।"
           }
         ]
       },
@@ -73,15 +73,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Baghawi does not only paraphrase. He quotes, with al-Bukhari's own chains, two of the reports in the Sahih, and Ibn Kathir cites both as well. The first is from Ibn Mas'ud, in Sahih al-Bukhari, 4864: 'The moon split in the time of the Messenger of Allah ﷺ into two parts, one part above the mountain and one part below it, and the Messenger of Allah ﷺ said: Bear witness.' Being in al-Bukhari's Sahih, it carries no separate grading from its collector.",
-            "bn": "বাগাভী শুধু নিজের ভাষায় ঘটনা বলেই থামেন না। ইমাম বুখারীর নিজস্ব সনদসহ তিনি সহীহ বুখারীর দুটি বর্ণনা উদ্ধৃত করেন, আর ইবন কাসীরও দুটোই আনেন। প্রথমটি ইবন মাসউদ (রাঃ)-এর, সহীহ বুখারী, ৪৮৬৪: 'আল্লাহর রাসূল ﷺ-এর যুগে চাঁদ ফেটে দুই ভাগ হয়ে গেল, একটি ভাগ পাহাড়ের ওপরে, আরেকটি তার নিচে। তখন আল্লাহর রাসূল ﷺ বললেন: তোমরা সাক্ষী থাকো।' বর্ণনাটি সহীহ বুখারীর অন্তর্ভুক্ত, সংকলক আলাদা করে এর কোনো মান উল্লেখ করেননি।"
+            "bn": "বাগাভী শুধু নিজের ভাষায় ঘটনা বলেই থামেন না। ইমাম বুখারীর নিজস্ব সনদসহ তিনি সহীহ বুখারীর দুটি বর্ণনা উদ্ধৃত করেন, আর ইবন কাসীরও দুটোই আনেন। প্রথমটি ইবন মাসউদ (রাঃ)-এর, সহীহ বুখারী, ৪৮৬৪: 'আল্লাহর রাসূল ﷺ-এর যুগে চাঁদ ফেটে দুই ভাগ হয়ে গেল, একটি ভাগ পাহাড়ের ওপরে, আরেকটি তার নিচে। তখন আল্লাহর রাসূল ﷺ বললেন: তোমরা সাক্ষী থাকো।' বর্ণনাটি সহীহ বুখারীর অন্তর্ভুক্ত, সংকলক আলাদা করে এর কোনো মান উল্লেখ করেননি।"
           },
           {
             "en": "The second is from Anas ibn Malik, in Sahih al-Bukhari, 3868: 'The people of Makkah asked the Messenger of Allah ﷺ to show them a sign, so he showed them the moon in two halves, until they saw Hira' between them.' Al-Baghawi adds, from Shayban's route through Qatada, the wording that he showed them the splitting of the moon marratayn, a word al-Qurtubi and at-Tabari also carry. Ma'arif al-Qur'an, citing Bayan al-Qur'an, says that some reports speak of the miracle occurring twice, but the more authentic reports confirm it occurred once.",
-            "bn": "দ্বিতীয়টি আনাস ইবন মালিক (রাঃ)-এর, সহীহ বুখারী, ৩৮৬৮: 'মক্কাবাসীরা আল্লাহর রাসূল ﷺ-এর কাছে চাইল, তিনি যেন তাদের একটি নিদর্শন দেখান। তখন তিনি তাদের চাঁদকে দুই খণ্ড করে দেখালেন, এমনকি তারা দুই খণ্ডের মাঝখানে হেরা পাহাড় দেখতে পেল।' বাগাভী কাতাদা থেকে শাইবানের সূত্রে আরেকটি ভাষ্যও আনেন, যেখানে আছে মাররাতাইন শব্দটি: তিনি তাদের চাঁদ ফাটা দেখিয়েছিলেন দুবার। কুরতুবী আর তাবারীর কাছেও শব্দটি আছে। মাআরিফুল কুরআন বায়ানুল কুরআনের বরাতে বলে, কিছু বর্ণনায় দুবারের কথা থাকলেও অধিকতর বিশুদ্ধ বর্ণনাগুলো একবারের কথাই নিশ্চিত করে।"
+            "bn": "দ্বিতীয়টি আনাস ইবন মালিক (রাঃ)-এর, সহীহ বুখারী, ৩৮৬৮: 'মক্কাবাসীরা আল্লাহর রাসূল ﷺ-এর কাছে চাইল, তিনি যেন তাদের একটি নিদর্শন দেখান। তখন তিনি তাদের চাঁদকে দুই খণ্ড করে দেখালেন, এমনকি তারা দুই খণ্ডের মাঝখানে হেরা পাহাড় দেখতে পেল।' বাগাভী কাতাদা থেকে শাইবানের সূত্রে আরেকটি ভাষ্যও আনেন, যেখানে আছে মাররাতাইন শব্দটি: তিনি তাদের চাঁদ ফাটা দেখিয়েছিলেন দুবার। কুরতুবী আর তাবারীর কাছেও শব্দটি আছে। মাআরিফুল কুরআন বায়ানুল কুরআনের বরাতে বলে, কিছু বর্ণনায় দুবারের কথা থাকলেও অধিকতর বিশুদ্ধ বর্ণনাগুলো একবারের কথাই নিশ্চিত করে।"
           },
           {
             "en": "Ibn Kathir goes further than citing. He says the splitting took place in the time of the Messenger of Allah ﷺ, as established in mutawatir hadiths with sound chains, and he calls it a matter agreed upon among the scholars and one of the dazzling miracles. He then gathers the reports Companion by Companion: Anas, Jubayr ibn Mut'im, Ibn 'Abbas, Ibn 'Umar and Ibn Mas'ud. Ma'arif al-Qur'an names at-Tahawi and Ibn Kathir as having called these reports mutawatir, transmitted by so many that their agreement on a falsehood is inconceivable.",
-            "bn": "ইবন কাসীর শুধু উদ্ধৃতিতে থামেন না। তিনি বলেন, চাঁদ ফাটার ঘটনা নবী ﷺ-এর যুগেই ঘটেছিল, সহীহ সনদের মুতাওয়াতির হাদিসে তা প্রমাণিত। তাঁর ভাষায় এ বিষয়ে আলেমদের মধ্যে ঐকমত্য আছে, আর এটি ছিল উজ্জ্বল মুজিযাগুলোর একটি। এরপর তিনি সাহাবি ধরে ধরে বর্ণনাগুলো সাজান: আনাস, জুবাইর ইবন মুতইম, ইবন আব্বাস, ইবন উমর ও ইবন মাসউদ (রাঃ)। মাআরিফুল কুরআন জানায়, ইমাম তাহাবী আর ইবন কাসীর এসব বর্ণনাকে মুতাওয়াতির বলেছেন। অর্থাৎ এত বেশি মানুষ তা বর্ণনা করেছেন যে সবাই মিলে মিথ্যায় একমত হওয়া কল্পনাও করা যায় না।"
+            "bn": "ইবন কাসীর শুধু উদ্ধৃতিতে থামেন না। তিনি বলেন, চাঁদ ফাটার ঘটনা নবী ﷺ-এর যুগেই ঘটেছিল, সহীহ সনদের মুতাওয়াতির হাদিসে তা প্রমাণিত। তাঁর ভাষায় এ বিষয়ে আলেমদের মধ্যে ঐকমত্য আছে, আর এটি ছিল উজ্জ্বল মুজিযাগুলোর একটি। এরপর তিনি সাহাবি ধরে ধরে বর্ণনাগুলো সাজান: আনাস, জুবাইর ইবন মুতইম, ইবন আব্বাস, ইবন উমর ও ইবন মাসউদ (রাঃ)। মাআরিফুল কুরআন জানায়, ইমাম তাহাবী আর ইবন কাসীর এসব বর্ণনাকে মুতাওয়াতির বলেছেন। অর্থাৎ এত বেশি মানুষ তা বর্ণনা করেছেন যে সবাই মিলে মিথ্যায় একমত হওয়া কল্পনাও করা যায় না।"
           }
         ]
       },
@@ -93,31 +93,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi reads wa-nshaqqa l-qamar as wa-qad inshaqqa l-qamar, and the moon has already split, and notes that Hudhayfa recited it that way, with qad added. This, he says, is the position of the majority of scholars, established in Sahih al-Bukhari and elsewhere from Ibn Mas'ud, Ibn 'Umar, Anas, Jubayr ibn Mut'im and Ibn 'Abbas. At-Tabari gathers the same view from the early authorities: Ibn 'Abbas said it had already passed, before the Hijra; Mujahid said they saw it split; Ibrahim and ad-Dahhak said it had passed, in Makkah.",
-            "bn": "কুরতুবী ওয়ানশাক্কাল কামারকে পড়েন ওয়া কাদ ইনশাক্কাল কামার অর্থে, অর্থাৎ চাঁদ ইতিমধ্যে ফেটে গেছে। তিনি জানান, হুযায়ফা (রাঃ) আয়াতটি এভাবেই পড়তেন, কাদ শব্দটি যোগ করে। কুরতুবীর ভাষায় এটিই অধিকাংশ আলেমের মত, যা সহীহ বুখারী ও অন্যান্য গ্রন্থে ইবন মাসউদ, ইবন উমর, আনাস, জুবাইর ইবন মুতইম ও ইবন আব্বাস (রাঃ) থেকে প্রমাণিত। তাবারী প্রথম যুগের ব্যাখ্যাকারদের কাছ থেকে একই মত জড়ো করেন। ইবন আব্বাস (রাঃ) বলেছেন, ঘটনাটি ঘটে গেছে, হিজরতের আগে। মুজাহিদ বলেছেন, তারা চাঁদকে ফাটা অবস্থায় দেখেছে। ইবরাহীম ও দাহহাক বলেছেন, মক্কায় তা ঘটে গেছে।"
+            "bn": "কুরতুবী ওয়ানশাক্কাল কামারকে পড়েন ওয়া কাদ ইনশাক্কাল কামার অর্থে, অর্থাৎ চাঁদ ইতিমধ্যে ফেটে গেছে। তিনি জানান, হুযায়ফা (রাঃ) আয়াতটি এভাবেই পড়তেন, কাদ শব্দটি যোগ করে। কুরতুবীর ভাষায় এটিই অধিকাংশ আলেমের মত, যা সহীহ বুখারী ও অন্যান্য গ্রন্থে ইবন মাসউদ, ইবন উমর, আনাস, জুবাইর ইবন মুতইম ও ইবন আব্বাস (রাঃ) থেকে প্রমাণিত। তাবারী প্রথম যুগের ব্যাখ্যাকারদের কাছ থেকে একই মত জড়ো করেন। ইবন আব্বাস (রাঃ) বলেছেন, ঘটনাটি ঘটে গেছে, হিজরতের আগে। মুজাহিদ বলেছেন, তারা চাঁদকে ফাটা অবস্থায় দেখেছে। ইবরাহীম ও দাহহাক বলেছেন, মক্কায় তা ঘটে গেছে।"
           },
           {
             "en": "Ibn Mas'ud's own words, cited by Ibn Kathir as in the Sahih and carried by at-Tabari through a chain of his own, are in Sahih al-Bukhari, 4825: 'Five things have passed: al-lizam, ar-Rum, al-batsha, the moon and the smoke.' It is the Companion's statement, not the Prophet's ﷺ. Al-Qurtubi then records the other side. A group said the splitting has not happened yet and is awaited: the rising of the Hour and the splitting of the moon have both drawn near, and when the Hour stands the sky will split, with the moon and all else in it. He names al-Qushayri as saying the same.",
-            "bn": "ইবন মাসউদ (রাঃ)-এর নিজের কথাটি আছে সহীহ বুখারীতে, ৪৮২৫। ইবন কাসীর একে সহীহের বর্ণনা বলে উদ্ধৃত করেন, তাবারীও নিজের সনদে আনেন: 'পাঁচটি বিষয় ঘটে গেছে: লিযাম, রূম, বাতশা, চাঁদ আর ধোঁয়া।' এটি সাহাবির উক্তি, নবী ﷺ-এর বাণী নয়। এরপর কুরতুবী অন্য পক্ষের মতও তুলে ধরেন। একদল বলেছেন, চাঁদ এখনো ফাটেনি, ঘটনাটির অপেক্ষা চলছে। তাঁদের ব্যাখ্যায় কিয়ামত কায়েম হওয়া আর চাঁদ ফাটা দুটোই কাছে এসেছে। কিয়ামত যখন কায়েম হবে, তখন আকাশ ফেটে যাবে, সঙ্গে চাঁদসহ তাতে যা কিছু আছে সবই। কুরতুবী জানান, কুশাইরীও এ কথাই বলেছেন।"
+            "bn": "ইবন মাসউদ (রাঃ)-এর নিজের কথাটি আছে সহীহ বুখারীতে, ৪৮২৫। ইবন কাসীর একে সহীহের বর্ণনা বলে উদ্ধৃত করেন, তাবারীও নিজের সনদে আনেন: 'পাঁচটি বিষয় ঘটে গেছে: লিযাম, রূম, বাতশা, চাঁদ আর ধোঁয়া।' এটি সাহাবির উক্তি, নবী ﷺ-এর বাণী নয়। এরপর কুরতুবী অন্য পক্ষের মতও তুলে ধরেন। একদল বলেছেন, চাঁদ এখনো ফাটেনি, ঘটনাটির অপেক্ষা চলছে। তাঁদের ব্যাখ্যায় কিয়ামত কায়েম হওয়া আর চাঁদ ফাটা দুটোই কাছে এসেছে। কিয়ামত যখন কায়েম হবে, তখন আকাশ ফেটে যাবে, সঙ্গে চাঁদসহ তাতে যা কিছু আছে সবই। কুরতুবী জানান, কুশাইরীও এ কথাই বলেছেন।"
           },
           {
             "en": "Al-Qurtubi adds that al-Mawardi called this the majority view, reasoning that had the moon split, nobody would have remained who did not see it, since people are equal before signs. Al-Hasan said: the Hour has drawn near, and when it comes the moon will split, after the second blowing. Al-Qurtubi answers in his own name: reliable reports establish that the moon split in Makkah, it is the apparent sense of the revelation, and not everyone had to see it, because it was a sign by night. This article reports both sides and decides between neither.",
-            "bn": "কুরতুবী আরও জানান, মাওয়ারদী এ মতকেই অধিকাংশের মত বলেছেন। তাঁর যুক্তি: চাঁদ সত্যিই ফেটে থাকলে এমন কেউ বাকি থাকত না যে তা দেখেনি, কারণ নিদর্শনের সামনে সব মানুষ সমান। হাসান বলেছেন, কিয়ামত কাছে এসেছে, আর তা যখন আসবে তখন দ্বিতীয় ফুঁৎকারের পর চাঁদ ফাটবে। কুরতুবী নিজের পক্ষ থেকে এর জবাব দেন। তাঁর মতে নির্ভরযোগ্য বর্ণনাকারীদের সূত্রে প্রমাণিত যে মক্কায় চাঁদ ফেটেছিল, আর এটিই আয়াতের বাহ্যিক অর্থ। সবার দেখা জরুরি ছিল না, কারণ নিদর্শনটি ছিল রাতের। এ লেখা দুই পক্ষের কথাই তুলে ধরে, কোনো পক্ষে রায় দেয় না।"
+            "bn": "কুরতুবী আরও জানান, মাওয়ারদী এ মতকেই অধিকাংশের মত বলেছেন। তাঁর যুক্তি: চাঁদ সত্যিই ফেটে থাকলে এমন কেউ বাকি থাকত না যে তা দেখেনি, কারণ নিদর্শনের সামনে সব মানুষ সমান। হাসান বলেছেন, কিয়ামত কাছে এসেছে, আর তা যখন আসবে তখন দ্বিতীয় ফুঁৎকারের পর চাঁদ ফাটবে। কুরতুবী নিজের পক্ষ থেকে এর জবাব দেন। তাঁর মতে নির্ভরযোগ্য বর্ণনাকারীদের সূত্রে প্রমাণিত যে মক্কায় চাঁদ ফেটেছিল, আর এটিই আয়াতের বাহ্যিক অর্থ। সবার দেখা জরুরি ছিল না, কারণ নিদর্শনটি ছিল রাতের। এ লেখা দুই পক্ষের কথাই তুলে ধরে, কোনো পক্ষে রায় দেয় না।"
           }
         ]
       },
       {
         "h": {
           "en": "Other Readings al-Qurtubi Lists",
-          "bn": "কুরতুবীর তালিকায় আরও ব্যাখ্যা"
+          "bn": "কুরতুবীর তালিকায় আরও ব্যাখ্যা"
         },
         "p": [
           {
             "en": "Al-Qurtubi lists two further readings, both introduced with qila, it has been said, and neither given a named holder. In one, wa-nshaqqa l-qamar means the matter became clear and plain, since the Arabs use the moon as a byword for whatever is evident, and he cites a line of poetry for it. In the other, the splitting is the darkness splitting away from the moon as it rises within the night, just as the dawn is called falaq because the darkness is cloven from it.",
-            "bn": "কুরতুবী আরও দুটি ব্যাখ্যার উল্লেখ করেন, দুটোই শুরু হয় কীলা দিয়ে, অর্থাৎ 'বলা হয়েছে'। কোনোটির সঙ্গেই কারও নাম নেই। প্রথম ব্যাখ্যায় ওয়ানশাক্কাল কামার মানে বিষয়টি পরিষ্কার হয়ে গেছে। আরবরা যে কোনো স্পষ্ট জিনিসের উপমা দেয় চাঁদ দিয়ে, আর এর পক্ষে তিনি একটি কবিতার চরণ আনেন। দ্বিতীয় ব্যাখ্যায় ফেটে যাওয়া মানে রাতের ভেতর চাঁদ ওঠার সময় তার চারপাশ থেকে অন্ধকার সরে যাওয়া। ঠিক যেমন ভোরকে ফালাক বলা হয়, কারণ অন্ধকার চিরে ভোর বেরিয়ে আসে।"
+            "bn": "কুরতুবী আরও দুটি ব্যাখ্যার উল্লেখ করেন, দুটোই শুরু হয় কীলা দিয়ে, অর্থাৎ 'বলা হয়েছে'। কোনোটির সঙ্গেই কারও নাম নেই। প্রথম ব্যাখ্যায় ওয়ানশাক্কাল কামার মানে বিষয়টি পরিষ্কার হয়ে গেছে। আরবরা যে কোনো স্পষ্ট জিনিসের উপমা দেয় চাঁদ দিয়ে, আর এর পক্ষে তিনি একটি কবিতার চরণ আনেন। দ্বিতীয় ব্যাখ্যায় ফেটে যাওয়া মানে রাতের ভেতর চাঁদ ওঠার সময় তার চারপাশ থেকে অন্ধকার সরে যাওয়া। ঠিক যেমন ভোরকে ফালাক বলা হয়, কারণ অন্ধকার চিরে ভোর বেরিয়ে আসে।"
           },
           {
             "en": "He also records a point about word order. Ibn Kaysan said the verse is a case of fronting and delay, so that its sense is: the moon split, and the Hour drew near. Al-Qurtubi recalls al-Farra's rule, given earlier at 53:8, that when two verbs are close in meaning you may put either one first. Alongside all of these, al-Qurtubi's own position stays as he states it in his own name: that the moon split in Makkah, and that this is the apparent sense of the text. The reader is given the whole range of what was said.",
-            "bn": "শব্দের ক্রম নিয়েও তিনি একটি কথা উল্লেখ করেন। ইবন কাইসান বলেছেন, আয়াতে আগের কথা পরে আর পরের কথা আগে এসেছে। তাঁর মতে অর্থটা এমন: চাঁদ ফেটেছে, আর কিয়ামত কাছে এসেছে। কুরতুবী এখানে ফাররার একটি নিয়ম মনে করিয়ে দেন, যা ৫৩:৮ আয়াতের আলোচনায় আগেই এসেছে। দুটি ক্রিয়ার অর্থ কাছাকাছি হলে যেকোনোটিকে আগে আনা যায়। এসব ব্যাখ্যার পাশাপাশি কুরতুবী নিজের নামে যে মত দেন, তা অপরিবর্তিত থাকে: মক্কায় চাঁদ ফেটেছিল, আর আয়াতের বাহ্যিক অর্থ এটাই। পাঠকের সামনে থাকল আলেমদের বক্তব্যের পুরো পরিসর।"
+            "bn": "শব্দের ক্রম নিয়েও তিনি একটি কথা উল্লেখ করেন। ইবন কাইসান বলেছেন, আয়াতে আগের কথা পরে আর পরের কথা আগে এসেছে। তাঁর মতে অর্থটা এমন: চাঁদ ফেটেছে, আর কিয়ামত কাছে এসেছে। কুরতুবী এখানে ফাররার একটি নিয়ম মনে করিয়ে দেন, যা ৫৩:৮ আয়াতের আলোচনায় আগেই এসেছে। দুটি ক্রিয়ার অর্থ কাছাকাছি হলে যেকোনোটিকে আগে আনা যায়। এসব ব্যাখ্যার পাশাপাশি কুরতুবী নিজের নামে যে মত দেন, তা অপরিবর্তিত থাকে: মক্কায় চাঁদ ফেটেছিল, আর আয়াতের বাহ্যিক অর্থ এটাই। পাঠকের সামনে থাকল আলেমদের বক্তব্যের পুরো পরিসর।"
           }
         ]
       },
@@ -129,7 +129,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What did the people who saw it say? At-Tabari and al-Baghawi each carry, with his own chain, a report from Masruq from Ibn Mas'ud: the moon split in the time of the Messenger of Allah ﷺ, and Quraysh said, this is the magic of Ibn Abi Kabsha; he has bewitched you, so ask the travellers. They asked them, and the travellers said: yes, we saw it. The report ends: then Allah revealed iqtarabati s-sa'atu wa-nshaqqa l-qamar. Neither commentator grades it in the text consulted.",
-            "bn": "যারা নিজের চোখে দেখেছিল, তারা কী বলেছিল? তাবারী ও বাগাভী দুজনেই নিজ নিজ সনদে মাসরূকের মাধ্যমে ইবন মাসউদ (রাঃ)-এর একটি বর্ণনা আনেন। আল্লাহর রাসূল ﷺ-এর যুগে চাঁদ ফেটে গেল। কুরাইশরা বলল, এ ইবন আবী কাবশার যাদু, সে তোমাদের যাদু করেছে, মুসাফিরদের জিজ্ঞেস করো। তারা মুসাফিরদের জিজ্ঞেস করল। মুসাফিররা বলল: হ্যাঁ, আমরাও দেখেছি। বর্ণনার শেষে আছে, তখন আল্লাহ নাজিল করলেন ইকতারাবাতিস সাআতু ওয়ানশাক্কাল কামার। যে পাঠ হাতে আছে, তাতে দুজনের কেউই বর্ণনাটির মান উল্লেখ করেননি।"
+            "bn": "যারা নিজের চোখে দেখেছিল, তারা কী বলেছিল? তাবারী ও বাগাভী দুজনেই নিজ নিজ সনদে মাসরূকের মাধ্যমে ইবন মাসউদ (রাঃ)-এর একটি বর্ণনা আনেন। আল্লাহর রাসূল ﷺ-এর যুগে চাঁদ ফেটে গেল। কুরাইশরা বলল, এ ইবন আবী কাবশার যাদু, সে তোমাদের যাদু করেছে, মুসাফিরদের জিজ্ঞেস করো। তারা মুসাফিরদের জিজ্ঞেস করল। মুসাফিররা বলল: হ্যাঁ, আমরাও দেখেছি। বর্ণনার শেষে আছে, তখন আল্লাহ নাজিল করলেন ইকতারাবাতিস সাআতু ওয়ানশাক্কাল কামার। যে পাঠ হাতে আছে, তাতে দুজনের কেউই বর্ণনাটির মান উল্লেখ করেননি।"
           },
           {
             "en": "Jubayr ibn Mut'im's report, which Ibn Kathir cites from Imam Ahmad, gives the same exchange more briefly: they said, Muhammad has bewitched us, then said, if he has bewitched us, he cannot bewitch all the people. The next verse, 54:2, records the outcome: if they see a sign, they turn away and say, a continuing magic. That verse has its own place. What 54:1 to 54:3 describe is one group's response to one sign at one time. The verses license nothing against any living person or community.",
@@ -145,11 +145,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari and Ibn Kathir both preserve a Friday sermon given by Hudhayfa at al-Mada'in, told by Abu 'Abd ar-Rahman as-Sulami, who attended it with his father. Hudhayfa recited the verse and said: the Hour has drawn near, the moon has split, the world has announced its departure; today is the training ground, and tomorrow the race. The son asked his father whether people would be racing tomorrow. His father answered: my son, you are ignorant; it is only the race in deeds. These are Hudhayfa's words, not a hadith of the Prophet ﷺ.",
-            "bn": "তাবারী ও ইবন কাসীর দুজনেই মাদায়েনে হুযায়ফা (রাঃ)-এর একটি জুমার খুতবা সংরক্ষণ করেছেন। বর্ণনা করেছেন আবু আবদির রহমান আস-সুলামী, যিনি বাবার সঙ্গে সেখানে উপস্থিত ছিলেন। হুযায়ফা (রাঃ) আয়াতটি তিলাওয়াত করে বললেন: কিয়ামত কাছে এসে গেছে, চাঁদ ফেটে গেছে, দুনিয়া বিদায়ের ঘোষণা দিয়েছে। আজ প্রস্তুতির মাঠ, কাল দৌড়। ছেলে বাবাকে জিজ্ঞেস করল, কাল কি তাহলে মানুষ দৌড় প্রতিযোগিতায় নামবে? বাবা বললেন: বাবা, তুমি অবুঝ, এ তো কেবল আমলের দৌড়। এগুলো হুযায়ফা (রাঃ)-এর কথা, নবী ﷺ-এর হাদিস নয়।"
+            "bn": "তাবারী ও ইবন কাসীর দুজনেই মাদায়েনে হুযায়ফা (রাঃ)-এর একটি জুমার খুতবা সংরক্ষণ করেছেন। বর্ণনা করেছেন আবু আবদির রহমান আস-সুলামী, যিনি বাবার সঙ্গে সেখানে উপস্থিত ছিলেন। হুযায়ফা (রাঃ) আয়াতটি তিলাওয়াত করে বললেন: কিয়ামত কাছে এসে গেছে, চাঁদ ফেটে গেছে, দুনিয়া বিদায়ের ঘোষণা দিয়েছে। আজ প্রস্তুতির মাঠ, কাল দৌড়। ছেলে বাবাকে জিজ্ঞেস করল, কাল কি তাহলে মানুষ দৌড় প্রতিযোগিতায় নামবে? বাবা বললেন: বাবা, তুমি অবুঝ, এ তো কেবল আমলের দৌড়। এগুলো হুযায়ফা (রাঃ)-এর কথা, নবী ﷺ-এর হাদিস নয়।"
           },
           {
             "en": "The next Friday Hudhayfa repeated it and added the ending: the final point is the Fire, and the winner is whoever is first to reach the Garden. The sermon makes at-Tabari's reading of the verse concrete: news that the Hour is near is a command to get ready now. As-Sa'di's note supplies the other half of the picture. The deniers had been shown great signs, the kind on which human beings believe, and still they stayed unprepared. Nearness, on its own, makes no one ready. The training is what the verse asks for.",
-            "bn": "পরের জুমায় হুযায়ফা (রাঃ) একই কথা আবার বললেন, আর শেষে যোগ করলেন: শেষ সীমা জাহান্নাম, আর বিজয়ী সে, যে সবার আগে জান্নাতে পৌঁছায়। তাবারী আয়াতটিকে যেভাবে পড়েছেন, খুতবাটি তাকে চোখের সামনে এনে দেয়। কিয়ামত কাছে, এ খবরের মানেই হলো এখনই প্রস্তুত হও। সাদীর কথায় ছবির বাকি অর্ধেকটা পাওয়া যায়। অস্বীকারকারীদের এমন সব বড় নিদর্শন দেখানো হয়েছিল, যা দেখে মানুষ ঈমান আনে। তবু তারা অপ্রস্তুতই রয়ে গেল। কিয়ামত শুধু কাছে এলেই কেউ প্রস্তুত হয়ে যায় না। আয়াত চায় সেই প্রস্তুতিটাই।"
+            "bn": "পরের জুমায় হুযায়ফা (রাঃ) একই কথা আবার বললেন, আর শেষে যোগ করলেন: শেষ সীমা জাহান্নাম, আর বিজয়ী সে, যে সবার আগে জান্নাতে পৌঁছায়। তাবারী আয়াতটিকে যেভাবে পড়েছেন, খুতবাটি তাকে চোখের সামনে এনে দেয়। কিয়ামত কাছে, এ খবরের মানেই হলো এখনই প্রস্তুত হও। সাদীর কথায় ছবির বাকি অর্ধেকটা পাওয়া যায়। অস্বীকারকারীদের এমন সব বড় নিদর্শন দেখানো হয়েছিল, যা দেখে মানুষ ঈমান আনে। তবু তারা অপ্রস্তুতই রয়ে গেল। কিয়ামত শুধু কাছে এলেই কেউ প্রস্তুত হয়ে যায় না। আয়াত চায় সেই প্রস্তুতিটাই।"
           }
         ]
       }
@@ -160,52 +160,52 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Sentence Across Three Verses",
-          "bn": "তিনটি আয়াত জুড়ে এক বাক্য"
+          "bn": "তিনটি আয়াত জুড়ে এক বাক্য"
         },
         "p": [
           {
             "en": "Khushsha'an absaruhum yakhrujuna mina l-ajdathi ka-annahum jaradun muntashir: their eyes humbled, they come out of the graves as though they were locusts spreading. The verse does not open a new sentence. It completes a picture begun in 54:6, where the Prophet ﷺ is told to turn away from the deniers on the day the caller calls to a terrible thing, and it runs on into 54:8, where they hasten towards that caller. Ibn Kathir, in the abridged English, reads the three verses as a single passage about the terrible end that awaits the disbelievers.",
-            "bn": "খুশশাআন আবসারুহুম ইয়াখরুজূনা মিনাল আজদাসি কাআন্নাহুম জারাদুম মুনতাশির: অবনত চোখে তারা কবর থেকে বেরিয়ে আসবে, যেন ছড়িয়ে পড়া পঙ্গপাল। আয়াতটি নতুন কোনো বাক্য শুরু করে না। ছবিটা শুরু হয়েছে ৫৪:৬ আয়াতে। সেখানে নবী ﷺ-কে বলা হয়েছে অস্বীকারকারীদের থেকে মুখ ফিরিয়ে নিতে, সেই দিনের অপেক্ষায় যেদিন আহ্বানকারী এক ভয়াবহ জিনিসের দিকে ডাকবেন। আর ছবিটা গড়িয়ে গেছে ৫৪:৮ পর্যন্ত, যেখানে তারা সেই আহ্বানকারীর দিকে ছুটে যায়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ তিনটি আয়াতকে একটানা একটি অংশ হিসেবে পড়ে, যার বিষয় কাফিরদের জন্য অপেক্ষা করে থাকা ভয়াবহ পরিণতি।"
+            "bn": "খুশশাআন আবসারুহুম ইয়াখরুজূনা মিনাল আজদাসি কাআন্নাহুম জারাদুম মুনতাশির: অবনত চোখে তারা কবর থেকে বেরিয়ে আসবে, যেন ছড়িয়ে পড়া পঙ্গপাল। আয়াতটি নতুন কোনো বাক্য শুরু করে না। ছবিটা শুরু হয়েছে ৫৪:৬ আয়াতে। সেখানে নবী ﷺ-কে বলা হয়েছে অস্বীকারকারীদের থেকে মুখ ফিরিয়ে নিতে, সেই দিনের অপেক্ষায় যেদিন আহ্বানকারী এক ভয়াবহ জিনিসের দিকে ডাকবেন। আর ছবিটা গড়িয়ে গেছে ৫৪:৮ পর্যন্ত, যেখানে তারা সেই আহ্বানকারীর দিকে ছুটে যায়। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ তিনটি আয়াতকে একটানা একটি অংশ হিসেবে পড়ে, যার বিষয় কাফিরদের জন্য অপেক্ষা করে থাকা ভয়াবহ পরিণতি।"
           },
           {
             "en": "Al-Qurtubi shows how tightly the words are bound together. Khushsha'an is in the accusative as a hal, a word describing the state of someone, and he offers two anchors for it. If it describes the pronoun in 'anhum, from them, near the start of 54:6, then pausing after 'anhum is poor, because the description would be cut off from the people it describes. If it describes the subject of yakhrujuna, they come out, the pause after 'anhum is allowed. On both readings the lowered eyes belong to the people the passage has been speaking about.",
-            "bn": "শব্দগুলো কতটা আঁটসাঁট করে বাঁধা, কুরতুবী তা দেখান। খুশশাআন শব্দটি হাল হিসেবে নসব অবস্থায় আছে। হাল মানে এমন শব্দ, যা কারও তখনকার অবস্থা বোঝায়। শব্দটি কার অবস্থা বোঝাচ্ছে, তা নিয়ে তিনি দুটি সম্ভাবনা দেখান। এক, এটি যদি ৫৪:৬ আয়াতের শুরুর দিকের আনহুম (তাদের থেকে) শব্দের সর্বনামের অবস্থা হয়, তবে আনহুম-এ থামা ভালো নয়। কারণ তখন অবস্থার বর্ণনাটা যাদের, তাদের থেকেই বিচ্ছিন্ন হয়ে যায়। দুই, এটি যদি ইয়াখরুজূনা (তারা বেরিয়ে আসবে) ক্রিয়ার কর্তার অবস্থা হয়, তবে আনহুম-এ থামা চলে। দুই পাঠেই নত চোখগুলো সেই লোকদেরই, যাদের কথা এ অংশ জুড়ে চলছে।"
+            "bn": "শব্দগুলো কতটা আঁটসাঁট করে বাঁধা, কুরতুবী তা দেখান। খুশশাআন শব্দটি হাল হিসেবে নসব অবস্থায় আছে। হাল মানে এমন শব্দ, যা কারও তখনকার অবস্থা বোঝায়। শব্দটি কার অবস্থা বোঝাচ্ছে, তা নিয়ে তিনি দুটি সম্ভাবনা দেখান। এক, এটি যদি ৫৪:৬ আয়াতের শুরুর দিকের আনহুম (তাদের থেকে) শব্দের সর্বনামের অবস্থা হয়, তবে আনহুম-এ থামা ভালো নয়। কারণ তখন অবস্থার বর্ণনাটা যাদের, তাদের থেকেই বিচ্ছিন্ন হয়ে যায়। দুই, এটি যদি ইয়াখরুজূনা (তারা বেরিয়ে আসবে) ক্রিয়ার কর্তার অবস্থা হয়, তবে আনহুম-এ থামা চলে। দুই পাঠেই নত চোখগুলো সেই লোকদেরই, যাদের কথা এ অংশ জুড়ে চলছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Eyes Lowered in Abasement",
-          "bn": "লাঞ্ছনায় নুয়ে পড়া চোখ"
+          "bn": "লাঞ্ছনায় নুয়ে পড়া চোখ"
         },
         "p": [
           {
             "en": "What does khushsha' mean when it is said of eyes? At-Tabari answers: abased are their eyes, humbled, with no injury in them. The lowering is a state of disgrace, then, and not damage to sight. He adds that the people of interpretation said the same, and gives Qatada's words through his chain: abased are their eyes. Ibn Kathir, in the Arabic, uses the same gloss, dhalilatun absaruhum, and al-Muyassar opens with it too. The core meaning is settled among them without dispute.",
-            "bn": "চোখের বেলায় খুশূ মানে কী? তাবারীর উত্তর: তাদের চোখ লাঞ্ছিত, অবনত, অথচ চোখে কোনো আঘাত নেই। অর্থাৎ চোখ নুয়ে পড়েছে অপমানের অবস্থায়, দৃষ্টিশক্তির কোনো ক্ষতিতে নয়। তিনি যোগ করেন, তাফসীরকারেরাও এ কথাই বলেছেন। নিজের সনদে তিনি কাতাদার কথা আনেন: তাদের চোখ লাঞ্ছিত। ইবন কাসীর আরবিতে একই ব্যাখ্যা দেন, যালীলাতান আবসারুহুম, আর মুয়াসসারও শুরু করে এ কথা দিয়েই। মূল অর্থে তাঁদের মধ্যে কোনো মতভেদ নেই।"
+            "bn": "চোখের বেলায় খুশূ মানে কী? তাবারীর উত্তর: তাদের চোখ লাঞ্ছিত, অবনত, অথচ চোখে কোনো আঘাত নেই। অর্থাৎ চোখ নুয়ে পড়েছে অপমানের অবস্থায়, দৃষ্টিশক্তির কোনো ক্ষতিতে নয়। তিনি যোগ করেন, তাফসীরকারেরাও এ কথাই বলেছেন। নিজের সনদে তিনি কাতাদার কথা আনেন: তাদের চোখ লাঞ্ছিত। ইবন কাসীর আরবিতে একই ব্যাখ্যা দেন, যালীলাতান আবসারুহুম, আর মুয়াসসারও শুরু করে এ কথা দিয়েই। মূল অর্থে তাঁদের মধ্যে কোনো মতভেদ নেই।"
           },
           {
             "en": "Al-Qurtubi defines the word from the language. Khushu' in the eye is submission and abasement. People say khasha'a and ikhtasha'a when someone has been humbled, and khasha'a bi-basarihi means he lowered his gaze. Both senses meet in this verse: the eyes are cast down, and the casting down is a sign of disgrace. Al-Baghawi glosses the phrase as abased and submissive at the sight of the punishment, which ties the lowered eyes to what those eyes are now seeing.",
-            "bn": "কুরতুবী শব্দটির অর্থ বের করেন ভাষা থেকে। চোখের খুশূ মানে নতি আর লাঞ্ছনা। কেউ অপমানিত হলে আরবরা বলে খাশাআ বা ইখতাশাআ। আর খাশাআ বিবাসারিহি মানে সে দৃষ্টি নামিয়ে নিল। এ আয়াতে দুটো অর্থই মিলেছে: চোখ নিচের দিকে নামানো, আর সেই নামানোটাই অপমানের চিহ্ন। বাগাভী শব্দগুচ্ছটির ব্যাখ্যা দেন এভাবে: আযাব দেখে লাঞ্ছিত ও অবনত। এভাবে তিনি চোখ নামানোকে জুড়ে দেন সেই দৃশ্যের সঙ্গে, যা চোখগুলো তখন দেখছে।"
+            "bn": "কুরতুবী শব্দটির অর্থ বের করেন ভাষা থেকে। চোখের খুশূ মানে নতি আর লাঞ্ছনা। কেউ অপমানিত হলে আরবরা বলে খাশাআ বা ইখতাশাআ। আর খাশাআ বিবাসারিহি মানে সে দৃষ্টি নামিয়ে নিল। এ আয়াতে দুটো অর্থই মিলেছে: চোখ নিচের দিকে নামানো, আর সেই নামানোটাই অপমানের চিহ্ন। বাগাভী শব্দগুচ্ছটির ব্যাখ্যা দেন এভাবে: আযাব দেখে লাঞ্ছিত ও অবনত। এভাবে তিনি চোখ নামানোকে জুড়ে দেন সেই দৃশ্যের সঙ্গে, যা চোখগুলো তখন দেখছে।"
           },
           {
             "en": "As-Sa'di looks inward for the cause. Their eyes are humbled, he says, from the terror and fright that has reached their hearts, so that the hearts submitted and were abased, and the eyes were lowered because of it. Al-Baghawi locates the cause in what the eyes see, as-Sa'di in what the heart already feels. Ibn Kathir's abridged English puts it in a phrase: their eyes will be covered with disgrace. Every gloss turns on that same word, and none of them softens it.",
-            "bn": "সা'দী কারণটা খোঁজেন ভেতরে। তাঁর মতে, যে আতঙ্ক আর ভয় তাদের অন্তরে পৌঁছেছে, তাতেই অন্তর নত ও লাঞ্ছিত হয়েছে, আর সে কারণেই চোখ নুয়ে পড়েছে। বাগাভী কারণ খোঁজেন চোখ যা দেখছে তাতে, সা'দী অন্তর যা অনুভব করছে তাতে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ কথাটা বলে এক বাক্যে: তাদের চোখ অপমানে ঢাকা থাকবে। সব ব্যাখ্যাই ঘুরেছে এই একই শব্দকে ঘিরে, আর কোনো ব্যাখ্যাই এর ধার কমায়নি।"
+            "bn": "সা'দী কারণটা খোঁজেন ভেতরে। তাঁর মতে, যে আতঙ্ক আর ভয় তাদের অন্তরে পৌঁছেছে, তাতেই অন্তর নত ও লাঞ্ছিত হয়েছে, আর সে কারণেই চোখ নুয়ে পড়েছে। বাগাভী কারণ খোঁজেন চোখ যা দেখছে তাতে, সা'দী অন্তর যা অনুভব করছে তাতে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ কথাটা বলে এক বাক্যে: তাদের চোখ অপমানে ঢাকা থাকবে। সব ব্যাখ্যাই ঘুরেছে এই একই শব্দকে ঘিরে, আর কোনো ব্যাখ্যাই এর ধার কমায়নি।"
           }
         ]
       },
       {
         "h": {
           "en": "Why the Verse Names the Eyes",
-          "bn": "আয়াত কেন চোখের নাম নেয়"
+          "bn": "আয়াত কেন চোখের নাম নেয়"
         },
         "p": [
           {
             "en": "The whole person is abased on that Day, so why does the verse speak only of the eyes? At-Tabari raises the question himself. Allah described the eyes with khushu' rather than the rest of their bodies, he says, while meaning all of their bodies, because the trace of every abased person's abasement, and of every mighty person's might, shows in his eyes rather than in the rest of his body. That is why the eyes were singled out for the description.",
-            "bn": "সেদিন তো পুরো মানুষটাই লাঞ্ছিত, তবে আয়াত শুধু চোখের কথা বলে কেন? প্রশ্নটা তাবারী নিজেই তোলেন। তাঁর উত্তর: আল্লাহ খুশূর বিশেষণ দিয়েছেন চোখকে, শরীরের বাকি অংশকে নয়, যদিও উদ্দেশ্য তাদের গোটা শরীর। কারণ প্রত্যেক লাঞ্ছিত মানুষের লাঞ্ছনার ছাপ, আর প্রত্যেক মর্যাদাবান মানুষের মর্যাদার ছাপ, ধরা পড়ে তার চোখে, শরীরের অন্য কোথাও নয়। এ কারণেই বর্ণনার জন্য চোখকে আলাদা করে বেছে নেওয়া হয়েছে।"
+            "bn": "সেদিন তো পুরো মানুষটাই লাঞ্ছিত, তবে আয়াত শুধু চোখের কথা বলে কেন? প্রশ্নটা তাবারী নিজেই তোলেন। তাঁর উত্তর: আল্লাহ খুশূর বিশেষণ দিয়েছেন চোখকে, শরীরের বাকি অংশকে নয়, যদিও উদ্দেশ্য তাদের গোটা শরীর। কারণ প্রত্যেক লাঞ্ছিত মানুষের লাঞ্ছনার ছাপ, আর প্রত্যেক মর্যাদাবান মানুষের মর্যাদার ছাপ, ধরা পড়ে তার চোখে, শরীরের অন্য কোথাও নয়। এ কারণেই বর্ণনার জন্য চোখকে আলাদা করে বেছে নেওয়া হয়েছে।"
           },
           {
             "en": "Al-Qurtubi gives the same reason in nearly the same words: the trace of might and of abasement shows in a person's gaze. He then sets the verse beside two others that speak the same way. Absaruha khashi'a, their eyes humbled, is 79:9. Khashi'ina mina dh-dhulli yanzuruna min tarfin khafiyy, humbled by abasement, looking with a furtive glance, is 42:45. Al-Qurtubi quotes both without numbers; the keys given here were checked against the text of the mushaf.",
-            "bn": "কুরতুবীও প্রায় একই ভাষায় একই কারণ দেন: মর্যাদা আর লাঞ্ছনার ছাপ ফুটে ওঠে মানুষের দৃষ্টিতে। তারপর তিনি আয়াতটিকে আরও দুটি আয়াতের পাশে রাখেন, যেগুলো একই ভঙ্গিতে কথা বলে। আবসারুহা খাশিআহ, তাদের চোখ অবনত, এটি ৭৯:৯ আয়াত। খাশিঈনা মিনায যুল্লি ইয়ানযুরূনা মিন তারফিন খাফিয়্যি, অপমানে অবনত হয়ে আড়চোখে তাকাবে, এটি ৪২:৪৫ আয়াত। কুরতুবী দুটিই উদ্ধৃত করেছেন আয়াত নম্বর ছাড়া। এখানে দেওয়া নম্বরগুলো মুসহাফের পাঠের সঙ্গে মিলিয়ে দেখা হয়েছে।"
+            "bn": "কুরতুবীও প্রায় একই ভাষায় একই কারণ দেন: মর্যাদা আর লাঞ্ছনার ছাপ ফুটে ওঠে মানুষের দৃষ্টিতে। তারপর তিনি আয়াতটিকে আরও দুটি আয়াতের পাশে রাখেন, যেগুলো একই ভঙ্গিতে কথা বলে। আবসারুহা খাশিআহ, তাদের চোখ অবনত, এটি ৭৯:৯ আয়াত। খাশিঈনা মিনায যুল্লি ইয়ানযুরূনা মিন তারফিন খাফিয়্যি, অপমানে অবনত হয়ে আড়চোখে তাকাবে, এটি ৪২:৪৫ আয়াত। কুরতুবী দুটিই উদ্ধৃত করেছেন আয়াত নম্বর ছাড়া। এখানে দেওয়া নম্বরগুলো মুসহাফের পাঠের সঙ্গে মিলিয়ে দেখা হয়েছে।"
           }
         ]
       },
@@ -217,7 +217,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first word has come down in more than a single form. At-Tabari reports that the readers of Madina generally read khushsha'an, with damma on the kha' and a doubled shin, a plural meaning khashi', humbled. Most readers of Kufa and some of Basra read khashi'an, with an alif, in the singular, following the reading of 'Abd Allah, which had khashi'atan absaruhum. Al-Baghawi names those who read khashi'an as Abu 'Amr, Ya'qub, Hamza and al-Kisa'i; al-Qurtubi names Hamza, al-Kisa'i and Abu 'Amr.",
-            "bn": "প্রথম শব্দটি একাধিক রূপে পৌঁছেছে। তাবারী জানান, মদীনার কারীরা সাধারণত পড়েছেন খুশশাআন, খা-তে পেশ আর শীন-এ তাশদীদ দিয়ে। এটি বহুবচন, অর্থ খাশি-র মতোই: অবনত। কুফার অধিকাংশ কারী আর বসরার কয়েকজন পড়েছেন খাশিআন, আলিফসহ, একবচনে। তাঁরা অনুসরণ করেছেন আবদুল্লাহর পাঠ, যেখানে ছিল খাশিআতান আবসারুহুম। বাগাভীর হিসাবে খাশিআন পড়েছেন আবু আমর, ইয়াকুব, হামযা ও কিসাঈ। কুরতুবী নাম বলেন হামযা, কিসাঈ ও আবু আমরের।"
+            "bn": "প্রথম শব্দটি একাধিক রূপে পৌঁছেছে। তাবারী জানান, মদীনার কারীরা সাধারণত পড়েছেন খুশশাআন, খা-তে পেশ আর শীন-এ তাশদীদ দিয়ে। এটি বহুবচন, অর্থ খাশি-র মতোই: অবনত। কুফার অধিকাংশ কারী আর বসরার কয়েকজন পড়েছেন খাশিআন, আলিফসহ, একবচনে। তাঁরা অনুসরণ করেছেন আবদুল্লাহর পাঠ, যেখানে ছিল খাশিআতান আবসারুহুম। বাগাভীর হিসাবে খাশিআন পড়েছেন আবু আমর, ইয়াকুব, হামযা ও কিসাঈ। কুরতুবী নাম বলেন হামযা, কিসাঈ ও আবু আমরের।"
           },
           {
             "en": "Why may the word be singular when the eyes are many? The rule the three commentators give is that an adjective placed before a plural noun may be singular or plural, masculine or feminine. Al-Baghawi shows it with ordinary speech: you may say you passed men hasan, hasana or hisan of face. All three cite a line of verse, which al-Qurtubi attributes to al-Harith ibn Daws al-Iyadi, where hasanun stays singular before awjuhuhum, their faces. Whatever the form, the meaning holds: the eyes are lowered.",
@@ -228,20 +228,20 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Pouring Out of the Ajdath",
-          "bn": "আজদাস থেকে বেরিয়ে আসা"
+          "bn": "আজদাস থেকে বেরিয়ে আসা"
         },
         "p": [
           {
             "en": "Yakhrujuna mina l-ajdath: they come out of the ajdath. At-Tabari and al-Qurtubi both explain the word as a plural whose singular is jadath, and both give its meaning as the graves. Ibn Kathir, as-Sa'di, al-Baghawi and al-Muyassar say the same in a word: the graves. The commentators add nothing to the scene of emergence itself beyond what the verse states, and this article follows them in that restraint. What they do discuss at length is the comparison that ends the verse.",
-            "bn": "ইয়াখরুজূনা মিনাল আজদাস: তারা আজদাস থেকে বেরিয়ে আসবে। তাবারী ও কুরতুবী দুজনেই বলেন, শব্দটি বহুবচন, এর একবচন জাদাস, আর অর্থ কবরসমূহ। ইবন কাসীর, সা'দী, বাগাভী ও মুয়াসসারও এক কথায় একই অর্থ দেন: কবর। বেরিয়ে আসার দৃশ্যে আয়াত যা বলেছে, তার বাইরে তাফসীরকারেরা কিছুই যোগ করেননি। এ লেখাও সেই সংযম মেনে চলে। তাঁরা বিস্তারিত আলোচনা করেছেন আয়াতের শেষের উপমাটি নিয়ে।"
+            "bn": "ইয়াখরুজূনা মিনাল আজদাস: তারা আজদাস থেকে বেরিয়ে আসবে। তাবারী ও কুরতুবী দুজনেই বলেন, শব্দটি বহুবচন, এর একবচন জাদাস, আর অর্থ কবরসমূহ। ইবন কাসীর, সা'দী, বাগাভী ও মুয়াসসারও এক কথায় একই অর্থ দেন: কবর। বেরিয়ে আসার দৃশ্যে আয়াত যা বলেছে, তার বাইরে তাফসীরকারেরা কিছুই যোগ করেননি। এ লেখাও সেই সংযম মেনে চলে। তাঁরা বিস্তারিত আলোচনা করেছেন আয়াতের শেষের উপমাটি নিয়ে।"
           },
           {
             "en": "Ka-annahum jaradun muntashir: as though they were locusts spreading. At-Tabari reads the likeness as one of movement: they come out of their graves as if, in their spreading and their hastening to the place of reckoning, they were spreading locusts. Ibn Kathir, in the Arabic, joins speed to purpose: in their spreading and the swiftness of their going to the place of reckoning, in answer to the caller, they are like locusts spread across the horizons. Al-Muyassar has nearly the same words, and adds that they hasten to what they were called to.",
-            "bn": "কাআন্নাহুম জারাদুম মুনতাশির: যেন তারা ছড়িয়ে পড়া পঙ্গপাল। তাবারী উপমাটিকে দেখেন চলার ছবি হিসেবে। কবর থেকে বেরিয়ে তারা যেভাবে চারদিকে ছড়িয়ে পড়ে আর হিসাবের জায়গার দিকে ছুটে যায়, তাতে মনে হয় যেন ছড়িয়ে পড়া পঙ্গপাল। ইবন কাসীর আরবিতে গতির সঙ্গে লক্ষ্যও জুড়ে দেন। আহ্বানকারীর ডাকে সাড়া দিয়ে তারা ছড়িয়ে পড়ে, দ্রুত ছুটে যায় হিসাবের জায়গার দিকে, যেন দিগন্তজুড়ে ছড়ানো পঙ্গপাল। মুয়াসসারের কথাও প্রায় একই, সঙ্গে যোগ করে: যেদিকে তাদের ডাকা হয়েছে, সেদিকেই তারা ছুটে চলেছে।"
+            "bn": "কাআন্নাহুম জারাদুম মুনতাশির: যেন তারা ছড়িয়ে পড়া পঙ্গপাল। তাবারী উপমাটিকে দেখেন চলার ছবি হিসেবে। কবর থেকে বেরিয়ে তারা যেভাবে চারদিকে ছড়িয়ে পড়ে আর হিসাবের জায়গার দিকে ছুটে যায়, তাতে মনে হয় যেন ছড়িয়ে পড়া পঙ্গপাল। ইবন কাসীর আরবিতে গতির সঙ্গে লক্ষ্যও জুড়ে দেন। আহ্বানকারীর ডাকে সাড়া দিয়ে তারা ছড়িয়ে পড়ে, দ্রুত ছুটে যায় হিসাবের জায়গার দিকে, যেন দিগন্তজুড়ে ছড়ানো পঙ্গপাল। মুয়াসসারের কথাও প্রায় একই, সঙ্গে যোগ করে: যেদিকে তাদের ডাকা হয়েছে, সেদিকেই তারা ছুটে চলেছে।"
           },
           {
             "en": "As-Sa'di draws a different feature out of the same image. They are like locusts, he says, because of how many they are and how they surge against each other: locusts scattered over the earth, multiplied beyond measure. Ibn Kathir's abridged English holds both features together, speaking of people gathering towards the area of reckoning in haste and in crowds. Speed and direction on one side, sheer number and crowding on the other: the commentators find more than a single likeness folded into the plain words jaradun muntashir.",
-            "bn": "একই উপমা থেকে সা'দী বের করেন আরেকটি দিক। তাঁর মতে তারা পঙ্গপালের মতো, কারণ তারা সংখ্যায় অগণিত, আর ঢেউয়ের মতো একে অপরের গায়ে আছড়ে পড়ছে। যেন জমিনজুড়ে ছড়িয়ে থাকা অসংখ্য পঙ্গপাল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ দুটো দিকই একসঙ্গে ধরে রাখে: মানুষ দলে দলে, তাড়াহুড়ো করে হিসাবের স্থানের দিকে জড়ো হচ্ছে। একদিকে গতি আর লক্ষ্য, অন্যদিকে বিপুল সংখ্যা আর ভিড়। জারাদুম মুনতাশির, এই সাদামাটা দুটি শব্দের ভেতরেই তাফসীরকারেরা একাধিক মিল খুঁজে পান।"
+            "bn": "একই উপমা থেকে সা'দী বের করেন আরেকটি দিক। তাঁর মতে তারা পঙ্গপালের মতো, কারণ তারা সংখ্যায় অগণিত, আর ঢেউয়ের মতো একে অপরের গায়ে আছড়ে পড়ছে। যেন জমিনজুড়ে ছড়িয়ে থাকা অসংখ্য পঙ্গপাল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ দুটো দিকই একসঙ্গে ধরে রাখে: মানুষ দলে দলে, তাড়াহুড়ো করে হিসাবের স্থানের দিকে জড়ো হচ্ছে। একদিকে গতি আর লক্ষ্য, অন্যদিকে বিপুল সংখ্যা আর ভিড়। জারাদুম মুনতাশির, এই সাদামাটা দুটি শব্দের ভেতরেই তাফসীরকারেরা একাধিক মিল খুঁজে পান।"
           }
         ]
       },
@@ -253,15 +253,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Elsewhere the Qur'an uses a different insect for the same Day: yawma yakunu n-nasu ka-l-farashi l-mabthuth, the day people will be like scattered moths, in 101:4. Al-Qurtubi sets that verse beside this one and asks how the two images fit. His answer is that they are two descriptions at two different times. The first is at the moment of coming out of the graves: they come out terrified, not knowing where to turn, entering into each other, like scattered moths with no direction to aim for.",
-            "bn": "একই দিনের বর্ণনায় কুরআন অন্য জায়গায় আরেক পতঙ্গের নাম নিয়েছে: ইয়াওমা ইয়াকূনুন নাসু কাল ফারাশিল মাবসূস, যেদিন মানুষ হবে বিক্ষিপ্ত পতঙ্গের মতো, ১০১:৪ আয়াতে। কুরতুবী সেই আয়াতকে এ আয়াতের পাশে রেখে প্রশ্ন করেন, দুটি ছবি মেলে কীভাবে। তাঁর উত্তর: এ দুটি দুই ভিন্ন সময়ের দুই বর্ণনা। প্রথমটি কবর থেকে বেরোনোর মুহূর্তের। তারা বেরিয়ে আসে আতঙ্কিত হয়ে, কোন দিকে যাবে জানে না, একে অপরের গায়ে গিয়ে পড়ে। তখন তারা বিক্ষিপ্ত পতঙ্গের মতো, যাদের যাওয়ার কোনো নির্দিষ্ট দিক নেই।"
+            "bn": "একই দিনের বর্ণনায় কুরআন অন্য জায়গায় আরেক পতঙ্গের নাম নিয়েছে: ইয়াওমা ইয়াকূনুন নাসু কাল ফারাশিল মাবসূস, যেদিন মানুষ হবে বিক্ষিপ্ত পতঙ্গের মতো, ১০১:৪ আয়াতে। কুরতুবী সেই আয়াতকে এ আয়াতের পাশে রেখে প্রশ্ন করেন, দুটি ছবি মেলে কীভাবে। তাঁর উত্তর: এ দুটি দুই ভিন্ন সময়ের দুই বর্ণনা। প্রথমটি কবর থেকে বেরোনোর মুহূর্তের। তারা বেরিয়ে আসে আতঙ্কিত হয়ে, কোন দিকে যাবে জানে না, একে অপরের গায়ে গিয়ে পড়ে। তখন তারা বিক্ষিপ্ত পতঙ্গের মতো, যাদের যাওয়ার কোনো নির্দিষ্ট দিক নেই।"
           },
           {
             "en": "The second time, in al-Qurtubi's account, comes when they hear the caller. Then they make for him, and they become like spreading locusts, because locusts have a direction they aim for. He quotes the verse running straight on into muhti'ina ila d-da'i, hastening towards the caller, at the start of 54:8. On his reading, the locust image here is the moment after the confusion: a crowd that has heard the call and now streams towards it, no longer milling about. For him the moths and the locusts are two stages of the same rising.",
-            "bn": "কুরতুবীর বর্ণনায় দ্বিতীয় সময়টি আসে যখন তারা আহ্বানকারীর ডাক শোনে। তখন তারা তাঁর দিকে রওনা হয়, আর হয়ে যায় ছড়িয়ে পড়া পঙ্গপালের মতো। কারণ পঙ্গপালের যাওয়ার একটা নির্দিষ্ট দিক থাকে। আয়াতটি উদ্ধৃত করতে গিয়ে তিনি না থেমে সোজা চলে যান ৫৪:৮ আয়াতের শুরুতে: মুহতিঈনা ইলাদ দাঈ, আহ্বানকারীর দিকে ছুটে চলা। তাঁর পাঠে এখানকার পঙ্গপালের ছবিটি বিভ্রান্তির পরের মুহূর্ত। ভিড়টা ডাক শুনে ফেলেছে, এখন আর এলোমেলো ঘুরছে না, সেই দিকে স্রোতের মতো এগোচ্ছে। তাঁর কাছে পতঙ্গ আর পঙ্গপাল তাই একই পুনরুত্থানের দুটি ধাপ।"
+            "bn": "কুরতুবীর বর্ণনায় দ্বিতীয় সময়টি আসে যখন তারা আহ্বানকারীর ডাক শোনে। তখন তারা তাঁর দিকে রওনা হয়, আর হয়ে যায় ছড়িয়ে পড়া পঙ্গপালের মতো। কারণ পঙ্গপালের যাওয়ার একটা নির্দিষ্ট দিক থাকে। আয়াতটি উদ্ধৃত করতে গিয়ে তিনি না থেমে সোজা চলে যান ৫৪:৮ আয়াতের শুরুতে: মুহতিঈনা ইলাদ দাঈ, আহ্বানকারীর দিকে ছুটে চলা। তাঁর পাঠে এখানকার পঙ্গপালের ছবিটি বিভ্রান্তির পরের মুহূর্ত। ভিড়টা ডাক শুনে ফেলেছে, এখন আর এলোমেলো ঘুরছে না, সেই দিকে স্রোতের মতো এগোচ্ছে। তাঁর কাছে পতঙ্গ আর পঙ্গপাল তাই একই পুনরুত্থানের দুটি ধাপ।"
           },
           {
             "en": "Al-Baghawi reads the same comparison the other way. Jaradun muntashir, he says, means scattered and bewildered, and he cites 101:4 as a parallel, not as an earlier stage. The meaning, in his words, is that they come out terrified, none of them having a direction to aim for, like locusts that have no direction, mixed into each other. So al-Qurtubi's locusts have a direction and al-Baghawi's have none. Both readings are given here as they stand; the article takes no side between them.",
-            "bn": "বাগাভী একই উপমা পড়েন উল্টো দিক থেকে। তাঁর মতে জারাদুম মুনতাশির মানে বিক্ষিপ্ত ও দিশেহারা। ১০১:৪ আয়াতকে তিনি এর সমতুল্য হিসেবে আনেন, আগের কোনো ধাপ হিসেবে নয়। তাঁর ভাষায় অর্থ হলো, তারা আতঙ্কিত হয়ে বেরিয়ে আসবে, তাদের কারও যাওয়ার নির্দিষ্ট দিক থাকবে না। যেমন পঙ্গপালের কোনো দিক থাকে না, একে অপরের সঙ্গে মিশে থাকে। তাহলে কুরতুবীর পঙ্গপালের দিক আছে, বাগাভীর পঙ্গপালের নেই। দুটি পাঠই এখানে যেমন আছে তেমন রাখা হলো। এ লেখা কোনো পক্ষ নেয় না।"
+            "bn": "বাগাভী একই উপমা পড়েন উল্টো দিক থেকে। তাঁর মতে জারাদুম মুনতাশির মানে বিক্ষিপ্ত ও দিশেহারা। ১০১:৪ আয়াতকে তিনি এর সমতুল্য হিসেবে আনেন, আগের কোনো ধাপ হিসেবে নয়। তাঁর ভাষায় অর্থ হলো, তারা আতঙ্কিত হয়ে বেরিয়ে আসবে, তাদের কারও যাওয়ার নির্দিষ্ট দিক থাকবে না। যেমন পঙ্গপালের কোনো দিক থাকে না, একে অপরের সঙ্গে মিশে থাকে। তাহলে কুরতুবীর পঙ্গপালের দিক আছে, বাগাভীর পঙ্গপালের নেই। দুটি পাঠই এখানে যেমন আছে তেমন রাখা হলো। এ লেখা কোনো পক্ষ নেয় না।"
           }
         ]
       },
@@ -273,31 +273,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Who are the people whose eyes are lowered here? Ibn Kathir's abridged English names them through the turn of 54:6: the Prophet ﷺ is told to turn away from those who, when they see a miracle, deny it and call it continuous magic, and to wait for the day the caller calls them to the Recompense and its horrors. Al-Muyassar carries the sentence into 54:8 and closes it on their own words: the disbelievers say, this is a hard day, intense in its terror.",
-            "bn": "এখানে যাদের চোখ নত, তারা কারা? ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৫৪:৬ আয়াতের মুখ ফেরানোর নির্দেশ দিয়েই তাদের চিনিয়ে দেয়। নবী ﷺ-কে বলা হয়েছে তাদের থেকে মুখ ফিরিয়ে নিতে, যারা মুজিযা দেখলে অস্বীকার করে আর বলে এ তো চলমান যাদু। আর অপেক্ষা করতে সেই দিনের, যেদিন আহ্বানকারী তাদের ডাকবেন প্রতিদান আর তার বিভীষিকার দিকে। মুয়াসসার বাক্যটিকে টেনে নিয়ে যায় ৫৪:৮ পর্যন্ত, আর শেষ করে তাদের নিজেদের কথায়: কাফিররা বলবে, এ এক কঠিন দিন, ভয়ংকর তার বিভীষিকা।"
+            "bn": "এখানে যাদের চোখ নত, তারা কারা? ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ ৫৪:৬ আয়াতের মুখ ফেরানোর নির্দেশ দিয়েই তাদের চিনিয়ে দেয়। নবী ﷺ-কে বলা হয়েছে তাদের থেকে মুখ ফিরিয়ে নিতে, যারা মুজিযা দেখলে অস্বীকার করে আর বলে এ তো চলমান যাদু। আর অপেক্ষা করতে সেই দিনের, যেদিন আহ্বানকারী তাদের ডাকবেন প্রতিদান আর তার বিভীষিকার দিকে। মুয়াসসার বাক্যটিকে টেনে নিয়ে যায় ৫৪:৮ পর্যন্ত, আর শেষ করে তাদের নিজেদের কথায়: কাফিররা বলবে, এ এক কঠিন দিন, ভয়ংকর তার বিভীষিকা।"
           },
           {
             "en": "Ibn Kathir explains that hard day as terrible, horrifying and distressful, and supports it with 74:9 and 74:10: that Day will be a hard day, far from easy for the disbelievers. This must be said plainly. The verse speaks only of what it names: a scene on the Day of Resurrection, and the deniers the passage has named. It licenses nothing against any living person or community. It gives nobody the right to look at a neighbour and assign him lowered eyes and a place in that crowd.",
-            "bn": "ইবন কাসীর সেই কঠিন দিনের ব্যাখ্যা দেন ভয়াবহ, আতঙ্কজনক ও যন্ত্রণাদায়ক দিন হিসেবে। সমর্থনে আনেন ৭৪:৯ ও ৭৪:১০ আয়াত: সেদিন হবে এক কঠিন দিন, কাফিরদের জন্য মোটেই সহজ নয়। কথাটা সোজাসুজি বলা দরকার। আয়াত ঠিক ততটুকুই বলে, যতটুকু তার ভাষায় আছে: কিয়ামতের দিনের একটি দৃশ্য, আর এ অংশে যে অস্বীকারকারীদের কথা এসেছে, তারা। আজ জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। প্রতিবেশীর দিকে তাকিয়ে তার চোখ নত বলে রায় দেওয়া, আর ওই ভিড়ে তার জায়গা ঠিক করে দেওয়ার অধিকার এ আয়াত কাউকে দেয়নি।"
+            "bn": "ইবন কাসীর সেই কঠিন দিনের ব্যাখ্যা দেন ভয়াবহ, আতঙ্কজনক ও যন্ত্রণাদায়ক দিন হিসেবে। সমর্থনে আনেন ৭৪:৯ ও ৭৪:১০ আয়াত: সেদিন হবে এক কঠিন দিন, কাফিরদের জন্য মোটেই সহজ নয়। কথাটা সোজাসুজি বলা দরকার। আয়াত ঠিক ততটুকুই বলে, যতটুকু তার ভাষায় আছে: কিয়ামতের দিনের একটি দৃশ্য, আর এ অংশে যে অস্বীকারকারীদের কথা এসেছে, তারা। আজ জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। প্রতিবেশীর দিকে তাকিয়ে তার চোখ নত বলে রায় দেওয়া, আর ওই ভিড়ে তার জায়গা ঠিক করে দেওয়ার অধিকার এ আয়াত কাউকে দেয়নি।"
           },
           {
             "en": "None of the eight commentaries read for this verse attaches a hadith to it, so no narration is quoted here. Nor do they give an occasion of revelation for it; the verse is read as the continuation of 54:6. Ma'arif al-Qur'an, in the English section that covers this group of verses, comments only on 54:3, every matter reaching its settled end, and says nothing particular on this verse. The commentators who do speak have been allowed to say no more than they said.",
-            "bn": "এ আয়াতের জন্য যে আটটি তাফসীর পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস যুক্ত করেনি। তাই এখানে কোনো বর্ণনা উদ্ধৃত করা হয়নি। আয়াতটির কোনো শানে নুযূলও তাঁরা দেননি। তাঁরা একে পড়েছেন ৫৪:৬ আয়াতের ধারাবাহিকতা হিসেবে। মাআরিফুল কুরআনের ইংরেজি অংশটি এই আয়াতগুচ্ছ জুড়ে থাকলেও তাতে আলোচনা কেবল ৫৪:৩ আয়াত নিয়ে, প্রতিটি বিষয় তার নির্ধারিত পরিণতিতে পৌঁছানোর কথা। এ আয়াত নিয়ে আলাদা কিছু সেখানে নেই। যে তাফসীরকারেরা কথা বলেছেন, তাঁদের কথার বাইরে এখানে কিছু যোগ করা হয়নি।"
+            "bn": "এ আয়াতের জন্য যে আটটি তাফসীর পড়া হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস যুক্ত করেনি। তাই এখানে কোনো বর্ণনা উদ্ধৃত করা হয়নি। আয়াতটির কোনো শানে নুযূলও তাঁরা দেননি। তাঁরা একে পড়েছেন ৫৪:৬ আয়াতের ধারাবাহিকতা হিসেবে। মাআরিফুল কুরআনের ইংরেজি অংশটি এই আয়াতগুচ্ছ জুড়ে থাকলেও তাতে আলোচনা কেবল ৫৪:৩ আয়াত নিয়ে, প্রতিটি বিষয় তার নির্ধারিত পরিণতিতে পৌঁছানোর কথা। এ আয়াত নিয়ে আলাদা কিছু সেখানে নেই। যে তাফসীরকারেরা কথা বলেছেন, তাঁদের কথার বাইরে এখানে কিছু যোগ করা হয়নি।"
           }
         ]
       },
       {
         "h": {
           "en": "A Gaze Chosen While Choosing Lasts",
-          "bn": "বেছে নেওয়ার সময়েই দৃষ্টি নামানো"
+          "bn": "বেছে নেওয়ার সময়েই দৃষ্টি নামানো"
         },
         "p": [
           {
             "en": "Al-Qurtubi's gloss holds a quiet contrast. Khasha'a bi-basarihi means he lowered his gaze, and a person can do that today by choice, in humility before Allah, or have it done to him on that Day by abasement. At-Tabari's observation cuts both ways as well: might and abasement both show in the eyes. The verse invites a plain question. What do my eyes carry now, and what would I want them to carry when there is nothing left to choose?",
-            "bn": "কুরতুবীর ব্যাখ্যার ভেতরে একটা নীরব বৈপরীত্য আছে। খাশাআ বিবাসারিহি মানে সে দৃষ্টি নামিয়ে নিল। মানুষ আজ নিজের ইচ্ছায়, আল্লাহর সামনে বিনয় নিয়ে চোখ নামাতে পারে। আবার সেদিন লাঞ্ছনার কারণে তার চোখ নামিয়ে দেওয়া হতে পারে। তাবারীর পর্যবেক্ষণও দুদিকেই খাটে: মর্যাদা আর লাঞ্ছনা দুটোই ধরা পড়ে চোখে। আয়াতটি একটা সরল প্রশ্ন সামনে রাখে। আমার চোখ আজ কী বয়ে বেড়ায়? আর যখন বেছে নেওয়ার কিছুই বাকি থাকবে না, তখন চোখে কী থাকুক বলে আমি চাইব?"
+            "bn": "কুরতুবীর ব্যাখ্যার ভেতরে একটা নীরব বৈপরীত্য আছে। খাশাআ বিবাসারিহি মানে সে দৃষ্টি নামিয়ে নিল। মানুষ আজ নিজের ইচ্ছায়, আল্লাহর সামনে বিনয় নিয়ে চোখ নামাতে পারে। আবার সেদিন লাঞ্ছনার কারণে তার চোখ নামিয়ে দেওয়া হতে পারে। তাবারীর পর্যবেক্ষণও দুদিকেই খাটে: মর্যাদা আর লাঞ্ছনা দুটোই ধরা পড়ে চোখে। আয়াতটি একটা সরল প্রশ্ন সামনে রাখে। আমার চোখ আজ কী বয়ে বেড়ায়? আর যখন বেছে নেওয়ার কিছুই বাকি থাকবে না, তখন চোখে কী থাকুক বলে আমি চাইব?"
           },
           {
             "en": "The direction of the crowd matters too. Whether its locusts have a goal, as al-Qurtubi says, or none, as al-Baghawi says, on that Day nobody sets his own course; Ibn Kathir's English adds, on 54:8, that they hasten without being able to hesitate or slow down. The verses just before, 54:4 and 54:5, say that warnings full of deterrence had already reached the deniers and did not avail them. For the reader, the call that matters is whichever call can still be answered freely, today.",
-            "bn": "ভিড়ের দিকটাও ভাবার মতো। কুরতুবীর কথামতো পঙ্গপালের লক্ষ্য থাকুক, বা বাগাভীর কথামতো না থাকুক, সেদিন কেউ নিজের পথ নিজে ঠিক করবে না। ইবন কাসীরের ইংরেজি সংস্করণ ৫৪:৮ আয়াতের আলোচনায় যোগ করে, তারা ছুটবে থামার বা ধীরে চলার কোনো উপায় ছাড়াই। ঠিক আগের ৫৪:৪ ও ৫৪:৫ আয়াত বলে, সাবধান করার মতো সংবাদ অস্বীকারকারীদের কাছে আগেই পৌঁছেছিল, কিন্তু সতর্কবাণী তাদের কোনো কাজে আসেনি। পাঠকের জন্য আসল ডাক তাই সেটিই, যাতে আজও স্বাধীনভাবে সাড়া দেওয়া যায়।"
+            "bn": "ভিড়ের দিকটাও ভাবার মতো। কুরতুবীর কথামতো পঙ্গপালের লক্ষ্য থাকুক, বা বাগাভীর কথামতো না থাকুক, সেদিন কেউ নিজের পথ নিজে ঠিক করবে না। ইবন কাসীরের ইংরেজি সংস্করণ ৫৪:৮ আয়াতের আলোচনায় যোগ করে, তারা ছুটবে থামার বা ধীরে চলার কোনো উপায় ছাড়াই। ঠিক আগের ৫৪:৪ ও ৫৪:৫ আয়াত বলে, সাবধান করার মতো সংবাদ অস্বীকারকারীদের কাছে আগেই পৌঁছেছিল, কিন্তু সতর্কবাণী তাদের কোনো কাজে আসেনি। পাঠকের জন্য আসল ডাক তাই সেটিই, যাতে আজও স্বাধীনভাবে সাড়া দেওয়া যায়।"
           }
         ]
       }
@@ -313,7 +313,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Qamar tells one story repeatedly with different names in it. Nuh's people deny and the waters of the sky and the earth meet over them; Aad deny and a screaming wind carries them off; Thamud deny and a single blast leaves them like the dry twigs of a pen; the people of Lut deny and a storm of stones falls. After each of these four accounts, one line returns unchanged, at 54:17, 54:22, 54:32 and 54:40 — and We have certainly made the Quran easy for remembrance, so is there any who will remember.",
-            "bn": "সূরা আল-কামার একই কাহিনি বারবার বলে, শুধু নামগুলো বদলায়। নূহের জাতি অস্বীকার করে, আর আসমান ও যমীনের পানি এসে তাদের ওপর মেলে। আদ অস্বীকার করে, আর গর্জন করা এক ঝড়ো বাতাস তাদের উড়িয়ে নিয়ে যায়। সামূদ অস্বীকার করে, আর একটিমাত্র বিকট আওয়াজে তারা হয়ে যায় খোঁয়াড়ের শুকনো খড়কুটোর মতো। লূতের জাতি অস্বীকার করে, আর নেমে আসে পাথরের ঝড়। চারটি কাহিনির প্রতিটির পরে একই পঙক্তি হুবহু ফিরে আসে, ৫৪:১৭, ৫৪:২২, ৫৪:৩২ ও ৫৪:৪০ আয়াতে: আমি কুরআনকে উপদেশ গ্রহণের জন্য সহজ করে দিয়েছি, অতএব উপদেশ গ্রহণকারী কেউ আছে কি?"
+            "bn": "সূরা আল-কামার একই কাহিনি বারবার বলে, শুধু নামগুলো বদলায়। নূহের জাতি অস্বীকার করে, আর আসমান ও যমীনের পানি এসে তাদের ওপর মেলে। আদ অস্বীকার করে, আর গর্জন করা এক ঝড়ো বাতাস তাদের উড়িয়ে নিয়ে যায়। সামূদ অস্বীকার করে, আর একটিমাত্র বিকট আওয়াজে তারা হয়ে যায় খোঁয়াড়ের শুকনো খড়কুটোর মতো। লূতের জাতি অস্বীকার করে, আর নেমে আসে পাথরের ঝড়। চারটি কাহিনির প্রতিটির পরে একই পঙক্তি হুবহু ফিরে আসে, ৫৪:১৭, ৫৪:২২, ৫৪:৩২ ও ৫৪:৪০ আয়াতে: আমি কুরআনকে উপদেশ গ্রহণের জন্য সহজ করে দিয়েছি, অতএব উপদেশ গ্রহণকারী কেউ আছে কি?"
           },
           {
             "en": "The fifth people, Pharaoh's, are dealt with in 54:41-42 and do not receive the refrain; the surah turns instead to the listeners in Makkah. The closing question by itself, fahal min muddakir, appears twice more — at 54:15 after the ark, and at 54:51 near the end — six times in one surah. Counting them is the quickest way to feel what the surah is doing to its hearer.",
@@ -333,7 +333,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The evidence is unusual for a claim made about a book. Children who speak no Arabic hold the entire text in memory. Blind men have carried it complete. No other book of that length is memorised whole by ordinary people in large numbers, and it has gone on happening for fourteen centuries in every language community that Islam reached.",
-            "bn": "কোনো বই নিয়ে করা দাবির পক্ষে এমন প্রমাণ সচরাচর মেলে না। আরবি বলতে পারে না এমন শিশুরাও পুরো কুরআন মুখস্থ রাখে। অন্ধ মানুষেরা গোটা কুরআন বুকে ধারণ করেছেন। এত বড় আর কোনো বই সাধারণ মানুষ এত বিপুল সংখ্যায় পুরোটা মুখস্থ করে না। আর ইসলাম যে ভাষার মানুষের কাছেই পৌঁছেছে, সেখানেই চৌদ্দশো বছর ধরে এমনটা ঘটে চলেছে।"
+            "bn": "কোনো বই নিয়ে করা দাবির পক্ষে এমন প্রমাণ সচরাচর মেলে না। আরবি বলতে পারে না এমন শিশুরাও পুরো কুরআন মুখস্থ রাখে। অন্ধ মানুষেরা গোটা কুরআন বুকে ধারণ করেছেন। এত বড় আর কোনো বই সাধারণ মানুষ এত বিপুল সংখ্যায় পুরোটা মুখস্থ করে না। আর ইসলাম যে ভাষার মানুষের কাছেই পৌঁছেছে, সেখানেই চৌদ্দশো বছর ধরে এমনটা ঘটে চলেছে।"
           }
         ]
       },
@@ -345,11 +345,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two other verses use the same verb about the Quran and mean something else by it. 44:58 says We have only eased it in your tongue, that they might be reminded. 19:97 says We have only eased it in your tongue so that you may give good tidings by it to the righteous and warn by it a hostile people. Both ease it in the Prophet's ﷺ tongue — in his language, for delivery.",
-            "bn": "আরও দুটি আয়াত কুরআন সম্পর্কে একই ক্রিয়া ব্যবহার করে, তবে সেখানে অর্থ ভিন্ন। ৪৪:৫৮ আয়াতে আছে: আমি তো একে তোমার ভাষায় সহজ করে দিয়েছি, যাতে তারা উপদেশ গ্রহণ করে। ১৯:৯৭ আয়াতে আছে: আমি একে তোমার ভাষায় সহজ করেছি, যাতে তুমি এর দ্বারা মুত্তাকীদের সুসংবাদ দিতে পার আর ঝগড়াটে সম্প্রদায়কে সতর্ক করতে পার। দুই জায়গাতেই সহজ করা হয়েছে নবী ﷺ-এর জবানে, অর্থাৎ তাঁর ভাষায়, যাতে তিনি বাণীটা পৌঁছে দিতে পারেন।"
+            "bn": "আরও দুটি আয়াত কুরআন সম্পর্কে একই ক্রিয়া ব্যবহার করে, তবে সেখানে অর্থ ভিন্ন। ৪৪:৫৮ আয়াতে আছে: আমি তো একে তোমার ভাষায় সহজ করে দিয়েছি, যাতে তারা উপদেশ গ্রহণ করে। ১৯:৯৭ আয়াতে আছে: আমি একে তোমার ভাষায় সহজ করেছি, যাতে তুমি এর দ্বারা মুত্তাকীদের সুসংবাদ দিতে পার আর ঝগড়াটে সম্প্রদায়কে সতর্ক করতে পার। দুই জায়গাতেই সহজ করা হয়েছে নবী ﷺ-এর জবানে, অর্থাৎ তাঁর ভাষায়, যাতে তিনি বাণীটা পৌঁছে দিতে পারেন।"
           },
           {
             "en": "This verse eases it in the hearer instead. There the object of the easing is a messenger's speech; here it is a listener's memory and understanding. Put together, the three describe a complete transmission — a message placed into a language people already spoke, and then made to stay in them. None of the three is a claim that the Quran is simple. All three are claims about access.",
-            "bn": "এ আয়াত কিন্তু সহজ করেছে শ্রোতার ভেতরে। ওই দুই আয়াতে সহজ করা হয়েছে একজন রাসূলের মুখের কথা, আর এখানে শ্রোতার স্মৃতি আর বোঝার ক্ষমতা। তিনটি আয়াত মিলিয়ে পড়লে বাণী পৌঁছানোর পুরো পথটা ধরা পড়ে। বার্তা রাখা হলো এমন ভাষায়, যা মানুষ আগে থেকেই বলত, তারপর তা গেঁথে দেওয়া হলো তাদের ভেতরে। তিনটির কোনোটিই বলে না যে কুরআন সরল। তিনটির কথাই কুরআনের নাগাল পাওয়া নিয়ে।"
+            "bn": "এ আয়াত কিন্তু সহজ করেছে শ্রোতার ভেতরে। ওই দুই আয়াতে সহজ করা হয়েছে একজন রাসূলের মুখের কথা, আর এখানে শ্রোতার স্মৃতি আর বোঝার ক্ষমতা। তিনটি আয়াত মিলিয়ে পড়লে বাণী পৌঁছানোর পুরো পথটা ধরা পড়ে। বার্তা রাখা হলো এমন ভাষায়, যা মানুষ আগে থেকেই বলত, তারপর তা গেঁথে দেওয়া হলো তাদের ভেতরে। তিনটির কোনোটিই বলে না যে কুরআন সরল। তিনটির কথাই কুরআনের নাগাল পাওয়া নিয়ে।"
           }
         ]
       },
@@ -361,7 +361,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is seven words in Arabic, and the last of them repays attention. Muddakir comes from the root of dhikr, remembrance. Its original form was mudhtakir; the grammarians describe how the ta became a dal and the dhal then merged into it, producing a doubled dal and the compact muddakir that we recite. The word ended up shorter and easier on the tongue than the form it came from.",
-            "bn": "আয়াতটি আরবিতে সাতটি শব্দের, আর শেষ শব্দটির দিকে একটু মন দিলে লাভ আছে। মুদ্দাকির এসেছে জিকির, অর্থাৎ স্মরণ শব্দের ধাতু থেকে। এর মূল রূপ ছিল মুয্‌তাকির। ব্যাকরণবিদরা দেখান, কীভাবে 'তা' অক্ষরটি বদলে 'দাল' হয়ে গেছে, আর 'যাল' তার সঙ্গে মিশে গেছে। তাতে তৈরি হয়েছে তাশদীদযুক্ত 'দাল', আর আমরা যে ছোট্ট রূপটি তিলাওয়াত করি, সেই মুদ্দাকির। যে রূপ থেকে শব্দটা এসেছে, শেষে তার চেয়ে ছোট আর উচ্চারণে সহজ হয়ে দাঁড়িয়েছে।"
+            "bn": "আয়াতটি আরবিতে সাতটি শব্দের, আর শেষ শব্দটির দিকে একটু মন দিলে লাভ আছে। মুদ্দাকির এসেছে জিকির, অর্থাৎ স্মরণ শব্দের ধাতু থেকে। এর মূল রূপ ছিল মুয্‌তাকির। ব্যাকরণবিদরা দেখান, কীভাবে 'তা' অক্ষরটি বদলে 'দাল' হয়ে গেছে, আর 'যাল' তার সঙ্গে মিশে গেছে। তাতে তৈরি হয়েছে তাশদীদযুক্ত 'দাল', আর আমরা যে ছোট্ট রূপটি তিলাওয়াত করি, সেই মুদ্দাকির। যে রূপ থেকে শব্দটা এসেছে, শেষে তার চেয়ে ছোট আর উচ্চারণে সহজ হয়ে দাঁড়িয়েছে।"
           },
           {
             "en": "There is a quiet demonstration in that. A verse announcing that the Book has been made easy chooses, for its final word, one that Arabic itself has smoothed. And the word is a participle rather than a verb — is there any rememberer — so the question asks after a kind of person, not a single act performed once.",
@@ -377,23 +377,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The question is left open on purpose. It names nobody, excludes nobody, and is never answered inside the surah. Ibn Kathir preserves a remark of the early scholar Matar al-Warraq on this verse: is there any seeker of knowledge, that he may be helped in it? He read the question not as a complaint about people but as an offer left standing.",
-            "bn": "প্রশ্নটি ইচ্ছা করেই খোলা রাখা হয়েছে। এতে কারও নাম নেই, কাউকে বাদও দেওয়া হয়নি, আর সূরার ভেতরে কোথাও এর উত্তর আসেনি। ইবনে কাসীর এ আয়াত প্রসঙ্গে প্রথম যুগের আলিম মাতার আল-ওয়াররাকের একটি কথা সংরক্ষণ করেছেন: জ্ঞান অন্বেষণকারী কেউ আছে কি, যাকে এ ব্যাপারে সাহায্য করা হবে? তিনি প্রশ্নটিকে মানুষের বিরুদ্ধে অভিযোগ হিসেবে পড়েননি, পড়েছেন খোলা রেখে দেওয়া এক প্রস্তাব হিসেবে।"
+            "bn": "প্রশ্নটি ইচ্ছা করেই খোলা রাখা হয়েছে। এতে কারও নাম নেই, কাউকে বাদও দেওয়া হয়নি, আর সূরার ভেতরে কোথাও এর উত্তর আসেনি। ইবনে কাসীর এ আয়াত প্রসঙ্গে প্রথম যুগের আলিম মাতার আল-ওয়াররাকের একটি কথা সংরক্ষণ করেছেন: জ্ঞান অন্বেষণকারী কেউ আছে কি, যাকে এ ব্যাপারে সাহায্য করা হবে? তিনি প্রশ্নটিকে মানুষের বিরুদ্ধে অভিযোগ হিসেবে পড়েননি, পড়েছেন খোলা রেখে দেওয়া এক প্রস্তাব হিসেবে।"
           },
           {
             "en": "as-Sa'di reads it the same way — that whoever turns towards this Book is helped towards what he turned for. That reframes the whole line. The ease is not merely a description of a text sitting on a shelf; it is a promise attached to the act of approaching it. The one who never begins never finds out whether the promise was true.",
-            "bn": "আস-সা'দীও একইভাবে পড়েন: যে এই কিতাবের দিকে এগোয়, যে উদ্দেশ্যে এগিয়েছে সেদিকে তাকে সাহায্য করা হয়। এতে পুরো পঙক্তিটার মানে নতুন করে ধরা দেয়। এই সহজতা শুধু তাকে তুলে রাখা কোনো বইয়ের বর্ণনা নয়। এ এক প্রতিশ্রুতি, যা জড়িয়ে আছে কিতাবটির দিকে এগিয়ে যাওয়ার সঙ্গে। যে কখনো শুরুই করে না, সে কোনোদিন জানতেই পারে না প্রতিশ্রুতিটা সত্য ছিল কি না।"
+            "bn": "আস-সা'দীও একইভাবে পড়েন: যে এই কিতাবের দিকে এগোয়, যে উদ্দেশ্যে এগিয়েছে সেদিকে তাকে সাহায্য করা হয়। এতে পুরো পঙক্তিটার মানে নতুন করে ধরা দেয়। এই সহজতা শুধু তাকে তুলে রাখা কোনো বইয়ের বর্ণনা নয়। এ এক প্রতিশ্রুতি, যা জড়িয়ে আছে কিতাবটির দিকে এগিয়ে যাওয়ার সঙ্গে। যে কখনো শুরুই করে না, সে কোনোদিন জানতেই পারে না প্রতিশ্রুতিটা সত্য ছিল কি না।"
           }
         ]
       },
       {
         "h": {
           "en": "Taking the Offer",
-          "bn": "প্রস্তাবে সাড়া দেওয়া"
+          "bn": "প্রস্তাবে সাড়া দেওয়া"
         },
         "p": [
           {
             "en": "Practically, the verse argues for small and constant over large and rare. A few lines memorised properly, a portion read with the meaning in front of you, one verse carried into the day. The placement matters here too: the refrain arrives four times in the middle of accounts of nations that were warned and did not remember, offered each time as the way out that they declined to take.",
-            "bn": "কাজের কথায় এলে, আয়াতটি বলে বড় কিন্তু কালেভদ্রে করার চেয়ে ছোট কিন্তু নিয়মিত করা ভালো। কয়েকটি লাইন ঠিকঠাক মুখস্থ করা, অর্থ সামনে রেখে কিছু অংশ পড়া, একটি আয়াত মনে নিয়ে সারাদিন চলা। আয়াতটির অবস্থানও এখানে অর্থবহ। ধ্রুবপদটি চারবার আসে এমন সব জাতির কাহিনির মাঝখানে, যাদের সতর্ক করা হয়েছিল, কিন্তু তারা স্মরণ করেনি। প্রতিবার এটি আসে বেরিয়ে আসার পথ হিসেবে, যে পথ তারা নিতে রাজি হয়নি।"
+            "bn": "কাজের কথায় এলে, আয়াতটি বলে বড় কিন্তু কালেভদ্রে করার চেয়ে ছোট কিন্তু নিয়মিত করা ভালো। কয়েকটি লাইন ঠিকঠাক মুখস্থ করা, অর্থ সামনে রেখে কিছু অংশ পড়া, একটি আয়াত মনে নিয়ে সারাদিন চলা। আয়াতটির অবস্থানও এখানে অর্থবহ। ধ্রুবপদটি চারবার আসে এমন সব জাতির কাহিনির মাঝখানে, যাদের সতর্ক করা হয়েছিল, কিন্তু তারা স্মরণ করেনি। প্রতিবার এটি আসে বেরিয়ে আসার পথ হিসেবে, যে পথ তারা নিতে রাজি হয়নি।"
           }
         ]
       }
@@ -409,11 +409,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Verse 54:18 opens with kadhdhabat 'Ad, 'Ad denied, and at once asks fa-kayfa kana 'adhabi wa nudhur: so how were My punishment and My warnings? The next words are the answer, and they begin with an emphatic particle: inna arsalna 'alayhim, indeed We sent upon them. At-Tabari supplies the moment. We sent upon 'Ad, he paraphrases, when they persisted in their transgression and in their disbelief in Allah. The verse names no messenger and retells no preaching; it goes from the denial straight to the wind.",
-            "bn": "৫৪:১৮ আয়াত শুরু হয় কাযযাবাত ‘আদ দিয়ে: ‘আদ জাতি অস্বীকার করল। সঙ্গে সঙ্গে প্রশ্ন আসে, ফাকাইফা কানা ‘আযাবী ওয়া নুযুর: তাহলে কেমন ছিল আমার শাস্তি আর আমার সতর্কবাণী? পরের কথাগুলোই জবাব, আর জবাবের শুরু জোর দেওয়ার একটি শব্দে: ইন্না আরসালনা ‘আলাইহিম, নিশ্চয়ই আমি তাদের উপর পাঠিয়েছিলাম। কখন পাঠানো হলো, তাবারী তা জানিয়ে দেন। তাঁর ব্যাখ্যায়, ‘আদ যখন সীমালঙ্ঘনে আর আল্লাহকে অস্বীকারে লেগেই রইল, তখন আমি তাদের উপর পাঠালাম। আয়াতে কোনো রাসূলের নাম নেই, দাওয়াতের কাহিনিও নেই। অস্বীকারের কথা থেকে আয়াত সোজা চলে যায় বাতাসে।"
+            "bn": "৫৪:১৮ আয়াত শুরু হয় কাযযাবাত ‘আদ দিয়ে: ‘আদ জাতি অস্বীকার করল। সঙ্গে সঙ্গে প্রশ্ন আসে, ফাকাইফা কানা ‘আযাবী ওয়া নুযুর: তাহলে কেমন ছিল আমার শাস্তি আর আমার সতর্কবাণী? পরের কথাগুলোই জবাব, আর জবাবের শুরু জোর দেওয়ার একটি শব্দে: ইন্না আরসালনা ‘আলাইহিম, নিশ্চয়ই আমি তাদের উপর পাঠিয়েছিলাম। কখন পাঠানো হলো, তাবারী তা জানিয়ে দেন। তাঁর ব্যাখ্যায়, ‘আদ যখন সীমালঙ্ঘনে আর আল্লাহকে অস্বীকারে লেগেই রইল, তখন আমি তাদের উপর পাঠালাম। আয়াতে কোনো রাসূলের নাম নেই, দাওয়াতের কাহিনিও নেই। অস্বীকারের কথা থেকে আয়াত সোজা চলে যায় বাতাসে।"
           },
           {
             "en": "Ma'arif al-Qur'an, commenting on the passage as a whole, explains why the telling is so brief. The stories of these nations are recounted in detail on several occasions in the Qur'an, it says, and here they have been condensed. It counts five nations in this stretch of the surah and calls them the strongest and most resourceful, so that the passage shows how such powers were brought down. After each comes the question of how the punishment and the warnings were, and for 'Ad the answer is this single verse of nine words, followed by 54:20.",
-            "bn": "মাআরিফুল কুরআন পুরো অংশটি একসঙ্গে আলোচনা করে, আর বলে দেয় বর্ণনা এত সংক্ষিপ্ত কেন। এসব জাতির কাহিনি কুরআনে কয়েক জায়গায় বিস্তারিত এসেছে, এখানে সেগুলোকে গুটিয়ে আনা হয়েছে। সূরার এ অংশে মাআরিফুল কুরআন পাঁচটি জাতির কথা গোনে, আর বলে এরা ছিল সবচেয়ে শক্তিশালী, সবচেয়ে সম্পদশালী। অংশটির কাজ দেখানো, এমন শক্তিগুলো কীভাবে ধসে পড়েছিল। প্রত্যেক জাতির পরে আসে একই প্রশ্ন, কেমন ছিল শাস্তি আর সতর্কবাণী। ‘আদের বেলায় জবাব এই একটি আয়াত, মাত্র নয়টি শব্দের, আর তার পরে ৫৪:২০।"
+            "bn": "মাআরিফুল কুরআন পুরো অংশটি একসঙ্গে আলোচনা করে, আর বলে দেয় বর্ণনা এত সংক্ষিপ্ত কেন। এসব জাতির কাহিনি কুরআনে কয়েক জায়গায় বিস্তারিত এসেছে, এখানে সেগুলোকে গুটিয়ে আনা হয়েছে। সূরার এ অংশে মাআরিফুল কুরআন পাঁচটি জাতির কথা গোনে, আর বলে এরা ছিল সবচেয়ে শক্তিশালী, সবচেয়ে সম্পদশালী। অংশটির কাজ দেখানো, এমন শক্তিগুলো কীভাবে ধসে পড়েছিল। প্রত্যেক জাতির পরে আসে একই প্রশ্ন, কেমন ছিল শাস্তি আর সতর্কবাণী। ‘আদের বেলায় জবাব এই একটি আয়াত, মাত্র নয়টি শব্দের, আর তার পরে ৫৪:২০।"
           }
         ]
       },
@@ -425,11 +425,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Rihan sarsaran: a sarsar wind. At-Tabari's own gloss gathers three qualities into one phrase: a wind severe in its blast, in cold, whose sound has a shriek, sarir. The name, he says, is taken from the force of the sound of its blowing, heard as though someone were saying sarr, and the doubled form is built like kubkibu from kubbu. His reports then lean to the cold. Ibn 'Abbas, Qatada through two chains, and ad-Dahhak all say cold. Sufyan says severe, and adds that the sarsar is the cold one; Ibn Zayd says severe.",
-            "bn": "রীহান সারসারান: সারসার বাতাস। তাবারী নিজের ব্যাখ্যায় তিনটি গুণ একটি বাক্যে বেঁধে দেন: এমন বাতাস, যার ঝাপটা প্রচণ্ড, যাতে আছে শীত, আর যার শব্দে আছে তীক্ষ্ণ চিৎকার, সারীর। তিনি বলেন, নামটি এসেছে বাতাস জোরে বইলে তার যে আওয়াজ শোনা যায় তা থেকে, যেন কেউ বলছে ‘সার্‌’। দ্বিগুণ রূপটা গড়া হয়েছে কুব্বূ থেকে কুবকিবূ যেভাবে গড়া হয়েছে, সেভাবে। এরপর তাঁর বর্ণনাগুলো ঝুঁকে পড়ে শীতের দিকে। ইবন আব্বাস (রাঃ), দুই সূত্রে কাতাদা, আর দাহহাক, সবাই বলেন ঠান্ডা। সুফইয়ান বলেন প্রচণ্ড, সঙ্গে যোগ করেন যে সারসার মানে ঠান্ডা বাতাস। ইবন যায়দ বলেন প্রচণ্ড।"
+            "bn": "রীহান সারসারান: সারসার বাতাস। তাবারী নিজের ব্যাখ্যায় তিনটি গুণ একটি বাক্যে বেঁধে দেন: এমন বাতাস, যার ঝাপটা প্রচণ্ড, যাতে আছে শীত, আর যার শব্দে আছে তীক্ষ্ণ চিৎকার, সারীর। তিনি বলেন, নামটি এসেছে বাতাস জোরে বইলে তার যে আওয়াজ শোনা যায় তা থেকে, যেন কেউ বলছে ‘সার্‌’। দ্বিগুণ রূপটা গড়া হয়েছে কুব্বূ থেকে কুবকিবূ যেভাবে গড়া হয়েছে, সেভাবে। এরপর তাঁর বর্ণনাগুলো ঝুঁকে পড়ে শীতের দিকে। ইবন আব্বাস (রাঃ), দুই সূত্রে কাতাদা, আর দাহহাক, সবাই বলেন ঠান্ডা। সুফইয়ান বলেন প্রচণ্ড, সঙ্গে যোগ করেন যে সারসার মানে ঠান্ডা বাতাস। ইবন যায়দ বলেন প্রচণ্ড।"
           },
           {
             "en": "The other commentators divide the same way. Ibn Kathir: the cold one, intensely cold, which the English abridgement of his tafsir renders bitterly cold and furious. Al-Muyassar: intensely cold. Al-Baghawi: hard-blowing. As-Sa'di: extremely severe. Al-Qurtubi gives intensely cold from Qatada and ad-Dahhak, adds under it is said that it means loud, and then sends the reader back to Ha Mim as-Sajda, the surah also called Fussilat, where the same two words stand in 41:16. His fuller list of voices on the word belongs to that verse, and is not repeated here.",
-            "bn": "বাকি তাফসীরকারেরাও একইভাবে ভাগ হয়ে যান। ইবন কাসীর বলেন, ঠান্ডা বাতাস, তীব্র ঠান্ডা। তাঁর তাফসীরের ইংরেজি সংক্ষেপ একে বলেছে কনকনে ঠান্ডা আর উন্মত্ত। মুয়াসসার বলে, তীব্র ঠান্ডা। বাগাভী বলেন, প্রবল বেগে বয়ে যাওয়া। সা'দী বলেন, অত্যন্ত প্রচণ্ড। কুরতুবী কাতাদা আর দাহহাক থেকে আনেন তীব্র ঠান্ডার অর্থ, ‘বলা হয়’ বলে যোগ করেন উচ্চ আওয়াজের অর্থ। তারপর পাঠককে ফিরিয়ে দেন হা-মীম আস-সাজদার দিকে, যে সূরার আরেক নাম ফুসসিলাত। সেখানে ৪১:১৬ আয়াতে এই দুটি শব্দই আছে। শব্দটি নিয়ে তাঁর দীর্ঘ তালিকা সে আয়াতেরই বিষয়, এখানে তা আর বলা হলো না।"
+            "bn": "বাকি তাফসীরকারেরাও একইভাবে ভাগ হয়ে যান। ইবন কাসীর বলেন, ঠান্ডা বাতাস, তীব্র ঠান্ডা। তাঁর তাফসীরের ইংরেজি সংক্ষেপ একে বলেছে কনকনে ঠান্ডা আর উন্মত্ত। মুয়াসসার বলে, তীব্র ঠান্ডা। বাগাভী বলেন, প্রবল বেগে বয়ে যাওয়া। সা'দী বলেন, অত্যন্ত প্রচণ্ড। কুরতুবী কাতাদা আর দাহহাক থেকে আনেন তীব্র ঠান্ডার অর্থ, ‘বলা হয়’ বলে যোগ করেন উচ্চ আওয়াজের অর্থ। তারপর পাঠককে ফিরিয়ে দেন হা-মীম আস-সাজদার দিকে, যে সূরার আরেক নাম ফুসসিলাত। সেখানে ৪১:১৬ আয়াতে এই দুটি শব্দই আছে। শব্দটি নিয়ে তাঁর দীর্ঘ তালিকা সে আয়াতেরই বিষয়, এখানে তা আর বলা হলো না।"
           }
         ]
       },
@@ -441,11 +441,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fi yawmi nahsin: the two words are joined as a construct, a day of nahs, not a noun followed by its adjective. At-Tabari glosses the phrase as a day of evil and ill omen for them, and says the people of interpretation spoke in the same way. Qatada, through Ma'mar, defines nahs as shu'm, ill omen. Ibn Zayd defines it as sharr, evil, and reads the phrase as a day of evil. Al-Muyassar keeps the construct and the sense: a day of ill omen, continuing upon them with punishment and destruction.",
-            "bn": "ফী ইয়াওমি নাহসিন: শব্দ দুটি সম্বন্ধপদে জোড়া, মানে নাহসের দিন। এখানে বিশেষ্যের পরে বিশেষণ বসেনি। তাবারী এর ব্যাখ্যা দেন, তাদের জন্য অমঙ্গল আর অশুভের দিন। তিনি জানান, ব্যাখ্যাকারেরা এভাবেই বলেছেন। মা‘মারের সূত্রে কাতাদা নাহসের অর্থ করেন শু’ম, অর্থাৎ অশুভ। ইবন যায়দ এর অর্থ করেন শার্‌র, অমঙ্গল, আর পুরো কথাটা পড়েন অমঙ্গলের দিন হিসেবে। মুয়াসসারও সম্বন্ধপদ আর অর্থ দুটোই রাখে: অশুভের এক দিন, যা শাস্তি আর ধ্বংস নিয়ে তাদের উপর চলতেই থাকল।"
+            "bn": "ফী ইয়াওমি নাহসিন: শব্দ দুটি সম্বন্ধপদে জোড়া, মানে নাহসের দিন। এখানে বিশেষ্যের পরে বিশেষণ বসেনি। তাবারী এর ব্যাখ্যা দেন, তাদের জন্য অমঙ্গল আর অশুভের দিন। তিনি জানান, ব্যাখ্যাকারেরা এভাবেই বলেছেন। মা‘মারের সূত্রে কাতাদা নাহসের অর্থ করেন শু’ম, অর্থাৎ অশুভ। ইবন যায়দ এর অর্থ করেন শার্‌র, অমঙ্গল, আর পুরো কথাটা পড়েন অমঙ্গলের দিন হিসেবে। মুয়াসসারও সম্বন্ধপদ আর অর্থ দুটোই রাখে: অশুভের এক দিন, যা শাস্তি আর ধ্বংস নিয়ে তাদের উপর চলতেই থাকল।"
           },
           {
             "en": "Others took nahs to mean severe. At-Tabari reports that Ibn 'Abbas glossed the phrase as severe days, and ad-Dahhak as a severe day, and he follows the grammar through. Whoever reads it so makes the word a description of the day, and then the recitation would have to be yawmin nahisin, with tanwin on the day and kasra on the ha, as in fi ayyamin nahisat in 41:16. He knows of no one who recited it that way in this place, he says, though the reports suggest it was once a reading. Al-Qurtubi names one: Harun al-A'war recited nahis, with kasra on the ha.",
-            "bn": "কেউ কেউ নাহসের অর্থ ধরেছেন প্রচণ্ড। তাবারী জানান, ইবন আব্বাস (রাঃ) এর অর্থ করেছেন প্রচণ্ড দিনগুলো, আর দাহহাক বলেছেন প্রচণ্ড দিন। তাবারী এ অর্থের ব্যাকরণটা শেষ পর্যন্ত টেনে দেখান। এভাবে পড়লে শব্দটা হয়ে যায় দিনের বিশেষণ। তখন পাঠ হওয়া উচিত ইয়াওমিন নাহিসিন, দিন শব্দে তানবীন আর হা অক্ষরে যের দিয়ে, যেমন ৪১:১৬ আয়াতে আছে ফী আইয়ামিন নাহিসাত। তিনি বলেন, এ জায়গায় কেউ এভাবে পড়েছেন বলে তাঁর জানা নেই। তবে বর্ণনাগুলো ইঙ্গিত দেয় যে একসময় এমন পাঠ ছিল। কুরতুবী একজনের নামও বলেন: হারূন আল-আ‘ওয়ার হা অক্ষরে যের দিয়ে নাহিস পড়েছেন।"
+            "bn": "কেউ কেউ নাহসের অর্থ ধরেছেন প্রচণ্ড। তাবারী জানান, ইবন আব্বাস (রাঃ) এর অর্থ করেছেন প্রচণ্ড দিনগুলো, আর দাহহাক বলেছেন প্রচণ্ড দিন। তাবারী এ অর্থের ব্যাকরণটা শেষ পর্যন্ত টেনে দেখান। এভাবে পড়লে শব্দটা হয়ে যায় দিনের বিশেষণ। তখন পাঠ হওয়া উচিত ইয়াওমিন নাহিসিন, দিন শব্দে তানবীন আর হা অক্ষরে যের দিয়ে, যেমন ৪১:১৬ আয়াতে আছে ফী আইয়ামিন নাহিসাত। তিনি বলেন, এ জায়গায় কেউ এভাবে পড়েছেন বলে তাঁর জানা নেই। তবে বর্ণনাগুলো ইঙ্গিত দেয় যে একসময় এমন পাঠ ছিল। কুরতুবী একজনের নামও বলেন: হারূন আল-আ‘ওয়ার হা অক্ষরে যের দিয়ে নাহিস পড়েছেন।"
           }
         ]
       },
@@ -457,11 +457,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Several glosses fix the misfortune to its target. Ibn Kathir reads fi yawmi nahsin as a day of ill omen 'alayhim, against them, and names ad-Dahhak, Qatada and as-Suddi for that reading. Al-Qurtubi writes a day that was ill-omened upon them. As-Sa'di has a day severe in punishment and wretchedness upon them, and al-Muyassar a day continuing upon them with punishment and destruction. The verse itself has already aimed the wind with arsalna 'alayhim, We sent upon them, and the glosses keep the day aimed in the same direction.",
-            "bn": "কয়েকটি ব্যাখ্যা দুর্ভাগ্যকে তার লক্ষ্যের সঙ্গে বেঁধে দেয়। ইবন কাসীর ফী ইয়াওমি নাহসিন পড়েন এভাবে: ‘আলাইহিম, তাদের বিরুদ্ধে অশুভ এক দিন। এ অর্থের জন্য তিনি দাহহাক, কাতাদা আর সুদ্দীর নাম বলেন। কুরতুবী লেখেন, এমন দিন যা তাদের উপর অশুভ হয়ে নেমেছিল। সা'দীর ভাষায়, তাদের উপর শাস্তি আর দুর্দশায় কঠিন এক দিন। মুয়াসসার বলে, শাস্তি আর ধ্বংস নিয়ে তাদের উপর চলতে থাকা দিন। আয়াত নিজেই আরসালনা ‘আলাইহিম বলে বাতাসকে তাদের দিকে তাক করেছে। ব্যাখ্যাগুলো দিনটিকেও সেই একই দিকে তাক করে রাখে।"
+            "bn": "কয়েকটি ব্যাখ্যা দুর্ভাগ্যকে তার লক্ষ্যের সঙ্গে বেঁধে দেয়। ইবন কাসীর ফী ইয়াওমি নাহসিন পড়েন এভাবে: ‘আলাইহিম, তাদের বিরুদ্ধে অশুভ এক দিন। এ অর্থের জন্য তিনি দাহহাক, কাতাদা আর সুদ্দীর নাম বলেন। কুরতুবী লেখেন, এমন দিন যা তাদের উপর অশুভ হয়ে নেমেছিল। সা'দীর ভাষায়, তাদের উপর শাস্তি আর দুর্দশায় কঠিন এক দিন। মুয়াসসার বলে, শাস্তি আর ধ্বংস নিয়ে তাদের উপর চলতে থাকা দিন। আয়াত নিজেই আরসালনা ‘আলাইহিম বলে বাতাসকে তাদের দিকে তাক করেছে। ব্যাখ্যাগুলো দিনটিকেও সেই একই দিকে তাক করে রাখে।"
           },
           {
             "en": "Al-Qurtubi also reports a different angle from Ibn 'Abbas: a day on which they used to draw an ill omen, kanu yatasha'amuna bihi. On that reading it was the people themselves who held the day to be unlucky. Al-Qurtubi gives the report in one line and builds nothing on it, and nothing is built on it here. What the glosses consulted here share is narrower and plainer. The ill of that day is described as 'Ad's, it fell on them, and none of these glosses on the phrase makes it a property of the day for everyone.",
-            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে আরেকটি দৃষ্টিকোণও আনেন: এমন দিন, যাকে তারা অশুভ মনে করত, কানূ ইয়াতাশাআমূনা বিহী। এ ব্যাখ্যায় দিনটাকে অপয়া ভাবত ওই লোকেরা নিজেরাই। কুরতুবী বর্ণনাটি একটিমাত্র লাইনে দেন, এর উপর কিছু দাঁড় করান না। এখানেও এর উপর কিছু দাঁড় করানো হলো না। যেসব ব্যাখ্যা হাতে এসেছে, সেগুলোর মিল আরও সরল জায়গায়। সেদিনের অমঙ্গলকে বলা হয়েছে ‘আদেরই, তা নেমেছিল তাদেরই উপর। এ ব্যাখ্যাগুলোর কোনোটিই কথাটাকে সবার জন্য দিনের কোনো স্থায়ী গুণ বানায়নি।"
+            "bn": "কুরতুবী ইবন আব্বাস (রাঃ) থেকে আরেকটি দৃষ্টিকোণও আনেন: এমন দিন, যাকে তারা অশুভ মনে করত, কানূ ইয়াতাশাআমূনা বিহী। এ ব্যাখ্যায় দিনটাকে অপয়া ভাবত ওই লোকেরা নিজেরাই। কুরতুবী বর্ণনাটি একটিমাত্র লাইনে দেন, এর উপর কিছু দাঁড় করান না। এখানেও এর উপর কিছু দাঁড় করানো হলো না। যেসব ব্যাখ্যা হাতে এসেছে, সেগুলোর মিল আরও সরল জায়গায়। সেদিনের অমঙ্গলকে বলা হয়েছে ‘আদেরই, তা নেমেছিল তাদেরই উপর। এ ব্যাখ্যাগুলোর কোনোটিই কথাটাকে সবার জন্য দিনের কোনো স্থায়ী গুণ বানায়নি।"
           }
         ]
       },
@@ -473,51 +473,51 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two of the commentators consulted here carry a report naming the day. Al-Qurtubi quotes az-Zajjaj: it is said, on a Wednesday. He then quotes Ibn 'Abbas: it was the last Wednesday of the month, and it wiped out their young and their old. Al-Baghawi gives the same detail under it is said: that was on a Wednesday at the end of the month. None of these lines comes with a chain in the text consulted, and the verse itself names no weekday. Here they are reported as what these scholars recorded, and no more.",
-            "bn": "যেসব তাফসীর আনা হয়েছে, তার দুটিতে দিনটির নাম নিয়ে একটি বর্ণনা আছে। কুরতুবী যাজ্জাজ থেকে উদ্ধৃত করেন: বলা হয়, দিনটি ছিল বুধবার। তারপর ইবন আব্বাস (রাঃ) থেকে আনেন: সেটা ছিল মাসের শেষ বুধবার, আর তা তাদের ছোট-বড় সবাইকে শেষ করে দিয়েছিল। বাগাভী ‘বলা হয়’ বলে একই কথা আনেন: সেটা ছিল মাসের শেষে এক বুধবার। যে পাঠ হাতে এসেছে, তাতে এ কথাগুলোর কোনোটির সঙ্গে সনদ নেই। আয়াত নিজেও সপ্তাহের কোনো বারের নাম বলে না। এখানে কথাগুলো শুধু এই আলেমদের লিখে রাখা বর্ণনা হিসেবেই উল্লেখ করা হলো।"
+            "bn": "যেসব তাফসীর আনা হয়েছে, তার দুটিতে দিনটির নাম নিয়ে একটি বর্ণনা আছে। কুরতুবী যাজ্জাজ থেকে উদ্ধৃত করেন: বলা হয়, দিনটি ছিল বুধবার। তারপর ইবন আব্বাস (রাঃ) থেকে আনেন: সেটা ছিল মাসের শেষ বুধবার, আর তা তাদের ছোট-বড় সবাইকে শেষ করে দিয়েছিল। বাগাভী ‘বলা হয়’ বলে একই কথা আনেন: সেটা ছিল মাসের শেষে এক বুধবার। যে পাঠ হাতে এসেছে, তাতে এ কথাগুলোর কোনোটির সঙ্গে সনদ নেই। আয়াত নিজেও সপ্তাহের কোনো বারের নাম বলে না। এখানে কথাগুলো শুধু এই আলেমদের লিখে রাখা বর্ণনা হিসেবেই উল্লেখ করা হলো।"
           },
           {
             "en": "Al-Qurtubi then raises an objection against himself. If Wednesday is a day of continuous ill omen, how can prayer be answered on it, when it has come that the Prophet ﷺ was answered on it between Zuhr and 'Asr, in a hadith of Jabir that he says he gave under al-Baqara? His answer rests on a report that, he says, Masruq narrates from the Prophet ﷺ, ending with the words that Wednesday is a day of continuous ill omen. It is known, he argues, that this was not meant as ill-omened for the righteous, only for the wicked and the corrupt.",
-            "bn": "এরপর কুরতুবী নিজেই নিজের বিরুদ্ধে একটি আপত্তি তোলেন। বুধবার যদি একটানা অশুভের দিন হয়, তাহলে সেদিন দোয়া কবুল হয় কী করে? বর্ণনায় তো এসেছে, জোহর আর আসরের মাঝে সেদিন নবী ﷺ-এর দোয়া কবুল হয়েছিল। এ বিষয়ে জাবির (রাঃ)-এর হাদিস তিনি সূরা বাকারায় এনেছেন বলে জানান। জবাবে তিনি নির্ভর করেন এমন এক বর্ণনার উপর, যা তাঁর কথায় মাসরূক নবী ﷺ থেকে বর্ণনা করেছেন। তার শেষ কথা হলো, বুধবার একটানা অশুভের দিন। কুরতুবীর যুক্তি, জানা কথা যে এর মানে নেককারদের জন্য অশুভ নয়, অশুভ কেবল পাপাচারী আর ফাসাদ সৃষ্টিকারীদের জন্য।"
+            "bn": "এরপর কুরতুবী নিজেই নিজের বিরুদ্ধে একটি আপত্তি তোলেন। বুধবার যদি একটানা অশুভের দিন হয়, তাহলে সেদিন দোয়া কবুল হয় কী করে? বর্ণনায় তো এসেছে, জোহর আর আসরের মাঝে সেদিন নবী ﷺ-এর দোয়া কবুল হয়েছিল। এ বিষয়ে জাবির (রাঃ)-এর হাদিস তিনি সূরা বাকারায় এনেছেন বলে জানান। জবাবে তিনি নির্ভর করেন এমন এক বর্ণনার উপর, যা তাঁর কথায় মাসরূক নবী ﷺ থেকে বর্ণনা করেছেন। তার শেষ কথা হলো, বুধবার একটানা অশুভের দিন। কুরতুবীর যুক্তি, জানা কথা যে এর মানে নেককারদের জন্য অশুভ নয়, অশুভ কেবল পাপাচারী আর ফাসাদ সৃষ্টিকারীদের জন্য।"
           },
           {
             "en": "He compares the ill-omened days named in the Qur'an, which were so for the disbelievers among 'Ad and not for their prophet and the believers with him. The wrongdoer, he suggests, may be given respite from the start of the day until the sun passes its height, and if the day wanes and he has made no return, the prayer of the person he wronged is answered against him. Neither the Jabir report nor the Masruq report appears in the text consulted with a collection or a grading, and neither could be confirmed here. So neither is quoted as hadith, and no rule about any weekday is drawn from them.",
-            "bn": "তিনি তুলনা টানেন কুরআনে উল্লেখ করা অশুভ দিনগুলোর সঙ্গে। সেগুলো অশুভ ছিল ‘আদের কাফেরদের জন্য, তাদের নবী আর তাঁর সঙ্গী মুমিনদের জন্য নয়। তাঁর ধারণা, জালিমকে হয়তো দিনের শুরু থেকে সূর্য মাথার উপর থেকে হেলে পড়া পর্যন্ত অবকাশ দেওয়া হয়। তারপর দিন গড়িয়ে যায়, আর সে যদি না ফেরে, তবে মজলুমের দোয়া তার বিরুদ্ধে কবুল হয়। জাবির (রাঃ)-এর বর্ণনা বা মাসরূকের বর্ণনা, কোনোটিই হাতে আসা পাঠে কোনো হাদিসগ্রন্থের নাম বা মানের উল্লেখসহ আসেনি। এখানে কোনোটিকে যাচাই করাও যায়নি। তাই কোনোটিকেই হাদিস হিসেবে উদ্ধৃত করা হলো না, আর এগুলো থেকে সপ্তাহের কোনো বার নিয়ে কোনো বিধানও টানা হলো না।"
+            "bn": "তিনি তুলনা টানেন কুরআনে উল্লেখ করা অশুভ দিনগুলোর সঙ্গে। সেগুলো অশুভ ছিল ‘আদের কাফেরদের জন্য, তাদের নবী আর তাঁর সঙ্গী মুমিনদের জন্য নয়। তাঁর ধারণা, জালিমকে হয়তো দিনের শুরু থেকে সূর্য মাথার উপর থেকে হেলে পড়া পর্যন্ত অবকাশ দেওয়া হয়। তারপর দিন গড়িয়ে যায়, আর সে যদি না ফেরে, তবে মজলুমের দোয়া তার বিরুদ্ধে কবুল হয়। জাবির (রাঃ)-এর বর্ণনা বা মাসরূকের বর্ণনা, কোনোটিই হাতে আসা পাঠে কোনো হাদিসগ্রন্থের নাম বা মানের উল্লেখসহ আসেনি। এখানে কোনোটিকে যাচাই করাও যায়নি। তাই কোনোটিকেই হাদিস হিসেবে উদ্ধৃত করা হলো না, আর এগুলো থেকে সপ্তাহের কোনো বার নিয়ে কোনো বিধানও টানা হলো না।"
           }
         ]
       },
       {
         "h": {
           "en": "Lasting, Bitter, or Tightly Twisted",
-          "bn": "স্থায়ী, তিক্ত, নাকি শক্ত পাকানো"
+          "bn": "স্থায়ী, তিক্ত, নাকি শক্ত পাকানো"
         },
         "p": [
           {
             "en": "Mustamirr closes the verse, and the commentators hear three things in it. The first is continuance. Ibn Kathir: its ill omen and destruction continued upon them, because it was a day on which their punishment in this world was joined to the punishment of the next. At-Tabari: a day in which trial and punishment continued with them until it brought them to Jahannam, and he quotes Qatada: it continues with them to the Fire of Jahannam. Al-Qurtubi: lasting in its ill omen, continuing upon them until destruction, and, it is said, until the Fire.",
-            "bn": "আয়াতের শেষ শব্দ মুসতামির্‌র। তাফসীরকারেরা এতে তিনটি অর্থ শোনেন। প্রথমটি হলো চলতে থাকা। ইবন কাসীর বলেন, এর অশুভ আর ধ্বংস তাদের উপর চলতেই থাকল, কারণ সেদিন তাদের দুনিয়ার শাস্তি গিয়ে মিলেছিল আখিরাতের শাস্তির সঙ্গে। তাবারী বলেন, এমন দিন, যেদিন বিপদ আর শাস্তি তাদের সঙ্গে লেগে থেকে শেষে তাদের জাহান্নামে পৌঁছে দিল। তিনি কাতাদার কথাও আনেন: তা তাদের সঙ্গে চলতে থাকে জাহান্নামের আগুন পর্যন্ত। কুরতুবী বলেন, অশুভ হয়ে টিকে থাকা দিন, যা ধ্বংস পর্যন্ত তাদের উপর চলল। আর বলা হয়, আগুন পর্যন্ত।"
+            "bn": "আয়াতের শেষ শব্দ মুসতামির্‌র। তাফসীরকারেরা এতে তিনটি অর্থ শোনেন। প্রথমটি হলো চলতে থাকা। ইবন কাসীর বলেন, এর অশুভ আর ধ্বংস তাদের উপর চলতেই থাকল, কারণ সেদিন তাদের দুনিয়ার শাস্তি গিয়ে মিলেছিল আখিরাতের শাস্তির সঙ্গে। তাবারী বলেন, এমন দিন, যেদিন বিপদ আর শাস্তি তাদের সঙ্গে লেগে থেকে শেষে তাদের জাহান্নামে পৌঁছে দিল। তিনি কাতাদার কথাও আনেন: তা তাদের সঙ্গে চলতে থাকে জাহান্নামের আগুন পর্যন্ত। কুরতুবী বলেন, অশুভ হয়ে টিকে থাকা দিন, যা ধ্বংস পর্যন্ত তাদের উপর চলল। আর বলা হয়, আগুন পর্যন্ত।"
           },
           {
             "en": "Two commentators keep the continuance on earth instead. As-Sa'di says it continued upon them for seven nights and eight days in succession, in words that are those of 69:7. Al-Baghawi has severe and lasting in its ill omen, continuing upon them until it left none of them without destroying him. Ibn Kathir's English abridgement keeps his point that the torment of that day continued into the Hereafter. So the word is read both as a stretch of days and as a line that runs past death, and the commentators set the two side by side without quarrel.",
-            "bn": "দুজন তাফসীরকার এই চলতে থাকাকে দুনিয়ার ভেতরেই রাখেন। সা'দী বলেন, তা তাদের উপর চলেছিল টানা সাতটি রাত আর আটটি দিন। কথাগুলো হুবহু ৬৯:৭ আয়াতের। বাগাভী বলেন, প্রচণ্ড, অশুভে স্থায়ী, তাদের উপর চলতেই থাকল, শেষে তাদের একজনকেও রেহাই দিল না, সবাইকে ধ্বংস করল। ইবন কাসীরের তাফসীরের ইংরেজি সংক্ষেপেও তাঁর কথাটি আছে, সেদিনের শাস্তি আখিরাত পর্যন্ত গড়িয়েছিল। ফলে শব্দটিকে একদিকে পড়া হয় কয়েক দিনের মেয়াদ হিসেবে, অন্যদিকে মৃত্যু পেরিয়ে চলা এক রেখা হিসেবে। তাফসীরকারেরা দুটোকে পাশাপাশি রাখেন, বিরোধ করেন না।"
+            "bn": "দুজন তাফসীরকার এই চলতে থাকাকে দুনিয়ার ভেতরেই রাখেন। সা'দী বলেন, তা তাদের উপর চলেছিল টানা সাতটি রাত আর আটটি দিন। কথাগুলো হুবহু ৬৯:৭ আয়াতের। বাগাভী বলেন, প্রচণ্ড, অশুভে স্থায়ী, তাদের উপর চলতেই থাকল, শেষে তাদের একজনকেও রেহাই দিল না, সবাইকে ধ্বংস করল। ইবন কাসীরের তাফসীরের ইংরেজি সংক্ষেপেও তাঁর কথাটি আছে, সেদিনের শাস্তি আখিরাত পর্যন্ত গড়িয়েছিল। ফলে শব্দটিকে একদিকে পড়া হয় কয়েক দিনের মেয়াদ হিসেবে, অন্যদিকে মৃত্যু পেরিয়ে চলা এক রেখা হিসেবে। তাফসীরকারেরা দুটোকে পাশাপাশি রাখেন, বিরোধ করেন না।"
           },
           {
             "en": "The second sense is bitterness. Al-Qurtubi reports ad-Dahhak: it was bitter, murr, upon them; and al-Kisa'i reported that some took the word from bitterness, since a thing is called bitter when the soul hates it. Al-Qurtubi recalls the command fa-dhuqu, so taste, because what is tasted may be bitter. The third sense he gives under it is said: from mirra, strength, a day firm in its ill omen, like something so tightly twisted that it cannot be unpicked. He lists all three readings and does not choose between them.",
-            "bn": "দ্বিতীয় অর্থ তিক্ততা। কুরতুবী দাহহাকের কথা আনেন: দিনটি ছিল তাদের উপর তিক্ত, মুর্‌র। কিসাঈ জানিয়েছেন, কেউ কেউ শব্দটিকে তিক্ততা থেকে নিয়েছেন। মন যা অপছন্দ করে, তাকেই তো তিক্ত বলা হয়। এখানে কুরতুবী মনে করিয়ে দেন ফাযূকূ, অর্থাৎ ‘তবে স্বাদ নাও’ কথাটি, কারণ যা চাখা হয় তা তিক্তও হতে পারে। তৃতীয় অর্থ তিনি আনেন ‘বলা হয়’ বলে: মিররা থেকে, যার মানে শক্তি। অর্থাৎ অশুভে পাকাপোক্ত এক দিন, এমন শক্ত করে পাকানো দড়ির মতো, যার পাক খোলা যায় না। তিনটি ব্যাখ্যাই তিনি তালিকায় রাখেন, কোনোটিকে বেছে নেন না।"
+            "bn": "দ্বিতীয় অর্থ তিক্ততা। কুরতুবী দাহহাকের কথা আনেন: দিনটি ছিল তাদের উপর তিক্ত, মুর্‌র। কিসাঈ জানিয়েছেন, কেউ কেউ শব্দটিকে তিক্ততা থেকে নিয়েছেন। মন যা অপছন্দ করে, তাকেই তো তিক্ত বলা হয়। এখানে কুরতুবী মনে করিয়ে দেন ফাযূকূ, অর্থাৎ ‘তবে স্বাদ নাও’ কথাটি, কারণ যা চাখা হয় তা তিক্তও হতে পারে। তৃতীয় অর্থ তিনি আনেন ‘বলা হয়’ বলে: মিররা থেকে, যার মানে শক্তি। অর্থাৎ অশুভে পাকাপোক্ত এক দিন, এমন শক্ত করে পাকানো দড়ির মতো, যার পাক খোলা যায় না। তিনটি ব্যাখ্যাই তিনি তালিকায় রাখেন, কোনোটিকে বেছে নেন না।"
           }
         ]
       },
       {
         "h": {
           "en": "Licensing Nothing for Today",
-          "bn": "আজকের জন্য কোনো ছাড়পত্র নয়"
+          "bn": "আজকের জন্য কোনো ছাড়পত্র নয়"
         },
         "p": [
           {
             "en": "This needs saying plainly. The verse speaks only of what it names: a wind sent upon 'Ad, a people who, in 54:18, denied. It licenses nothing against any living person or community. It gives nobody standing to call a storm that strikes people today a punishment upon them, to identify any present nation, tribe or place as 'Ad, or to declare a weekday or a date cursed. The Wednesday reports remain reports, attributed to those who gave them, and nothing in this article rests on them.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত ঠিক ততটুকুই বলে, যতটুকু তার ভাষায় আছে: ‘আদ জাতির উপর পাঠানো এক বাতাসের কথা, যে জাতি ৫৪:১৮ আয়াতে অস্বীকার করেছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজ কোনো ঝড় কারও উপর এলে তাকে তাদের শাস্তি বলে ঘোষণা করার অধিকার এ আয়াত কাউকে দেয় না। বর্তমানের কোনো জাতি, গোত্র বা জায়গাকে ‘আদ বলে চিহ্নিত করার অধিকারও দেয় না। সপ্তাহের কোনো বার বা কোনো তারিখকে অভিশপ্ত বলারও না। বুধবারের বর্ণনাগুলো বর্ণনাই থেকে যায়, যাঁরা বলেছেন তাঁদের নামে। এ লেখার কোনো কথা সেগুলোর উপর দাঁড়িয়ে নেই।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত ঠিক ততটুকুই বলে, যতটুকু তার ভাষায় আছে: ‘আদ জাতির উপর পাঠানো এক বাতাসের কথা, যে জাতি ৫৪:১৮ আয়াতে অস্বীকার করেছিল। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুরই অনুমতি দেয় না। আজ কোনো ঝড় কারও উপর এলে তাকে তাদের শাস্তি বলে ঘোষণা করার অধিকার এ আয়াত কাউকে দেয় না। বর্তমানের কোনো জাতি, গোত্র বা জায়গাকে ‘আদ বলে চিহ্নিত করার অধিকারও দেয় না। সপ্তাহের কোনো বার বা কোনো তারিখকে অভিশপ্ত বলারও না। বুধবারের বর্ণনাগুলো বর্ণনাই থেকে যায়, যাঁরা বলেছেন তাঁদের নামে। এ লেখার কোনো কথা সেগুলোর উপর দাঁড়িয়ে নেই।"
           },
           {
             "en": "None of the commentaries consulted for this verse attaches a hadith that could be confirmed, and none gives an occasion of revelation. The two narrations al-Qurtubi mentions are left aside for the reason given above. The verse's own neighbours carry the rest of the scene: 54:20 shows the wind pulling people out as though they were uprooted palm trunks, and 54:21 repeats the question of 54:18. Those verses have their own work, and they are only pointed to here, so that this verse can be read for its own words.",
-            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এমন হাদিস যুক্ত করেনি যা যাচাই করা গেছে। কোনোটি নাজিলের প্রেক্ষাপটও দেয়নি। কুরতুবীর উল্লেখ করা বর্ণনা দুটি আগে বলা কারণেই বাদ রাখা হলো। দৃশ্যের বাকিটা বহন করে পাশের আয়াতগুলো। ৫৪:২০ আয়াত দেখায়, বাতাস মানুষকে উপড়ে তুলছে, যেন তারা শিকড়সুদ্ধ উপড়ানো খেজুর গাছের কাণ্ড। আর ৫৪:২১ আয়াতে ফিরে আসে ৫৪:১৮ আয়াতের প্রশ্ন। ওই আয়াতগুলোর নিজস্ব কাজ আছে। এখানে শুধু সেগুলোর দিকে ইঙ্গিত করা হলো, যাতে এই আয়াতকে তার নিজের শব্দ দিয়েই পড়া যায়।"
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর আনা হয়েছে, তার কোনোটিই এমন হাদিস যুক্ত করেনি যা যাচাই করা গেছে। কোনোটি নাজিলের প্রেক্ষাপটও দেয়নি। কুরতুবীর উল্লেখ করা বর্ণনা দুটি আগে বলা কারণেই বাদ রাখা হলো। দৃশ্যের বাকিটা বহন করে পাশের আয়াতগুলো। ৫৪:২০ আয়াত দেখায়, বাতাস মানুষকে উপড়ে তুলছে, যেন তারা শিকড়সুদ্ধ উপড়ানো খেজুর গাছের কাণ্ড। আর ৫৪:২১ আয়াতে ফিরে আসে ৫৪:১৮ আয়াতের প্রশ্ন। ওই আয়াতগুলোর নিজস্ব কাজ আছে। এখানে শুধু সেগুলোর দিকে ইঙ্গিত করা হলো, যাতে এই আয়াতকে তার নিজের শব্দ দিয়েই পড়া যায়।"
           }
         ]
       },
@@ -529,11 +529,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "One echo is worth noticing in the text itself. The same word, mustamirr, ends 54:2, where those who turn away from a sign say sihrun mustamirr, magic that is mustamirr. In the surah's opening the deniers apply the word to the signs; in 54:19 it is applied to the day that fell on a people who denied. The commentaries consulted for this verse do not draw that link, and it is offered here only as a reader's observation from the wording, not as anyone's tafsir.",
-            "bn": "কুরআনের ভাষাতেই একটি প্রতিধ্বনি চোখে পড়ার মতো। এই মুসতামির্‌র শব্দটিই আছে ৫৪:২ আয়াতের শেষে। সেখানে যারা নিদর্শন থেকে মুখ ফিরিয়ে নেয়, তারা বলে সিহরুন মুসতামির্‌র, এ তো মুসতামির্‌র জাদু। সূরার শুরুতে অস্বীকারকারীরা শব্দটা লাগায় নিদর্শনের গায়ে। আর ৫৪:১৯ আয়াতে শব্দটা বসেছে সেই দিনের গায়ে, যা নেমে এসেছিল এক অস্বীকারকারী জাতির উপর। এ আয়াতের জন্য আনা তাফসীরগুলো এ যোগসূত্র টানেনি। এখানে কথাটা কেবল শব্দ দেখে এক পাঠকের পর্যবেক্ষণ, কারও তাফসীর নয়।"
+            "bn": "কুরআনের ভাষাতেই একটি প্রতিধ্বনি চোখে পড়ার মতো। এই মুসতামির্‌র শব্দটিই আছে ৫৪:২ আয়াতের শেষে। সেখানে যারা নিদর্শন থেকে মুখ ফিরিয়ে নেয়, তারা বলে সিহরুন মুসতামির্‌র, এ তো মুসতামির্‌র জাদু। সূরার শুরুতে অস্বীকারকারীরা শব্দটা লাগায় নিদর্শনের গায়ে। আর ৫৪:১৯ আয়াতে শব্দটা বসেছে সেই দিনের গায়ে, যা নেমে এসেছিল এক অস্বীকারকারী জাতির উপর। এ আয়াতের জন্য আনা তাফসীরগুলো এ যোগসূত্র টানেনি। এখানে কথাটা কেবল শব্দ দেখে এক পাঠকের পর্যবেক্ষণ, কারও তাফসীর নয়।"
           },
           {
             "en": "What the verse leaves the reader is not a calendar to fear but a question about consequences. Those who read mustamirr as continuance trace the same line: what began in this world did not stop at its edge. And in every gloss consulted here, the ill of that day belongs to a people who had denied. A reader who stops blaming dates and asks instead what he or she is setting in motion today, and whether it will taste bitter or sweet as it runs on, has turned the refrain's question toward the right person.",
-            "bn": "আয়াত পাঠকের হাতে ভয় পাওয়ার মতো কোনো পঞ্জিকা দেয় না, দেয় পরিণাম নিয়ে একটি প্রশ্ন। যাঁরা মুসতামির্‌রকে চলতে থাকা অর্থে পড়েন, তাঁরা সবাই একই রেখা টানেন: দুনিয়ায় যা শুরু হয়েছিল, দুনিয়ার সীমানায় এসে তা থামেনি। আর এখানে আনা প্রতিটি ব্যাখ্যায় সেদিনের অমঙ্গল এক অস্বীকারকারী জাতিরই। যে পাঠক তারিখকে দোষ দেওয়া ছেড়ে নিজেকে জিজ্ঞেস করেন, আজ আমি কী চালু করছি, আর চলতে চলতে তার স্বাদ তিক্ত হবে নাকি মিষ্টি, তিনি সূরার বারবার ফিরে আসা প্রশ্নটাকে ঠিক মানুষের দিকেই ঘুরিয়েছেন।"
+            "bn": "আয়াত পাঠকের হাতে ভয় পাওয়ার মতো কোনো পঞ্জিকা দেয় না, দেয় পরিণাম নিয়ে একটি প্রশ্ন। যাঁরা মুসতামির্‌রকে চলতে থাকা অর্থে পড়েন, তাঁরা সবাই একই রেখা টানেন: দুনিয়ায় যা শুরু হয়েছিল, দুনিয়ার সীমানায় এসে তা থামেনি। আর এখানে আনা প্রতিটি ব্যাখ্যায় সেদিনের অমঙ্গল এক অস্বীকারকারী জাতিরই। যে পাঠক তারিখকে দোষ দেওয়া ছেড়ে নিজেকে জিজ্ঞেস করেন, আজ আমি কী চালু করছি, আর চলতে চলতে তার স্বাদ তিক্ত হবে নাকি মিষ্টি, তিনি সূরার বারবার ফিরে আসা প্রশ্নটাকে ঠিক মানুষের দিকেই ঘুরিয়েছেন।"
           }
         ]
       }
@@ -549,7 +549,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Four verses earlier the account of Thamud opened in three Arabic words: kadhdhabat thamudu bi-n-nudhur, Thamud denied the warnings (54:23). They asked whether they should follow a single man from among themselves, and they called him an insolent liar (54:24, 54:25). Then came the reply: they will know tomorrow who the insolent liar is (54:26). The abridged Ibn Kathir reads that line as a warning, a threat and a sure promise. Our verse follows directly as Allah's next word: inna mursilu n-naqati fitnatan lahum fa-rtaqibhum wa-stabir.",
-            "bn": "চারটি আয়াত আগে সামূদের কাহিনি শুরু হয়েছিল আরবি তিনটি শব্দে: কাযযাবাত সামূদু বিন-নুযুর, সামূদ সতর্কবাণী অস্বীকার করেছিল (৫৪:২৩)। তারা প্রশ্ন তুলেছিল, নিজেদেরই একজন মানুষের পেছনে চলবে কেন? তাঁকে তারা বলেছিল দাম্ভিক মিথ্যুক (৫৪:২৪, ৫৪:২৫)। তারপর জবাব এল: কাল তারা জানবে আসল দাম্ভিক মিথ্যুক কে (৫৪:২৬)। সংক্ষিপ্ত ইবন কাসীর এ বাক্যে দেখেন সতর্কবাণী, হুমকি আর নিশ্চিত প্রতিশ্রুতি। আমাদের আয়াত ঠিক এর পরেই আল্লাহর পরবর্তী কথা হয়ে আসে: ইন্না মুরসিলুন-নাকাতি ফিতনাতাল লাহুম ফারতাকিবহুম ওয়াসতাবির।"
+            "bn": "চারটি আয়াত আগে সামূদের কাহিনি শুরু হয়েছিল আরবি তিনটি শব্দে: কাযযাবাত সামূদু বিন-নুযুর, সামূদ সতর্কবাণী অস্বীকার করেছিল (৫৪:২৩)। তারা প্রশ্ন তুলেছিল, নিজেদেরই একজন মানুষের পেছনে চলবে কেন? তাঁকে তারা বলেছিল দাম্ভিক মিথ্যুক (৫৪:২৪, ৫৪:২৫)। তারপর জবাব এল: কাল তারা জানবে আসল দাম্ভিক মিথ্যুক কে (৫৪:২৬)। সংক্ষিপ্ত ইবন কাসীর এ বাক্যে দেখেন সতর্কবাণী, হুমকি আর নিশ্চিত প্রতিশ্রুতি। আমাদের আয়াত ঠিক এর পরেই আল্লাহর পরবর্তী কথা হয়ে আসে: ইন্না মুরসিলুন-নাকাতি ফিতনাতাল লাহুম ফারতাকিবহুম ওয়াসতাবির।"
           },
           {
             "en": "The verse is seven Arabic words long. Ma'arif al-Qur'an, writing on the whole passage, notes that the stories of these destroyed nations are told in detail on several occasions elsewhere in the Qur'an and are condensed here, each closing with the refrain asking how Allah's punishment and warnings were. So the verse does not retell the she-camel's story. It holds one moment: the sign announced, its purpose named, and two commands to the prophet. What followed, the water divided and the hamstringing, belongs to 54:28 and 54:29.",
@@ -565,31 +565,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Mursilu n-naqati: senders of the she-camel, rendered here as We are sending. The commentators gloss the word with others of the same shape. At-Tabari has ba'ithu, those who raise her up; al-Muyassar has mukhriju, those who bring her out; al-Qurtubi has mukhrijuha, and al-Baghawi joins both, ba'ithuha wa-mukhrijuha. Sending, in their reading, meant bringing her out. At-Tabari says from where: she was the she-camel Thamud had asked Salih (AS) for, from the hadbah, the high rocky ground, out of which they had asked him to raise her.",
-            "bn": "মুরসিলুন-নাকাতি: উষ্ট্রীর প্রেরক, বাংলায় বলা যায় আমি উষ্ট্রী পাঠাচ্ছি। তাফসীরকারেরা শব্দটির ব্যাখ্যা দেন একই গড়নের অন্য শব্দে। তাবারী বলেন বাইসূ, অর্থাৎ যারা তাকে উঠিয়ে আনবে। মুয়াসসার বলে মুখরিজূ, যারা বের করে আনবে। কুরতুবী বলেন মুখরিজূহা, আর বাগাভী দুটোকেই একসঙ্গে রাখেন: বাইসূহা ওয়া মুখরিজূহা। তাঁদের পাঠে পাঠানো মানে তাকে বের করে আনা। কোথা থেকে, তাবারী তা-ও বলেন। সামূদ সালিহ (আঃ)-এর কাছে এই উষ্ট্রীই চেয়েছিল, হাদবা থেকে, অর্থাৎ উঁচু পাথুরে ভূমি থেকে। সেখান থেকেই তাকে বের করে আনার দাবি তারা তুলেছিল।"
+            "bn": "মুরসিলুন-নাকাতি: উষ্ট্রীর প্রেরক, বাংলায় বলা যায় আমি উষ্ট্রী পাঠাচ্ছি। তাফসীরকারেরা শব্দটির ব্যাখ্যা দেন একই গড়নের অন্য শব্দে। তাবারী বলেন বাইসূ, অর্থাৎ যারা তাকে উঠিয়ে আনবে। মুয়াসসার বলে মুখরিজূ, যারা বের করে আনবে। কুরতুবী বলেন মুখরিজূহা, আর বাগাভী দুটোকেই একসঙ্গে রাখেন: বাইসূহা ওয়া মুখরিজূহা। তাঁদের পাঠে পাঠানো মানে তাকে বের করে আনা। কোথা থেকে, তাবারী তা-ও বলেন। সামূদ সালিহ (আঃ)-এর কাছে এই উষ্ট্রীই চেয়েছিল, হাদবা থেকে, অর্থাৎ উঁচু পাথুরে ভূমি থেকে। সেখান থেকেই তাকে বের করে আনার দাবি তারা তুলেছিল।"
           },
           {
             "en": "Each commentator adds a line on that request. At-Tabari calls her a sign for them, and a proof for Salih (AS) of the reality of his prophethood and the truth of his word. Al-Baghawi says they were being obstinate with him (ta'annatu), asking him to bring out of a rock a red she-camel, heavy with young. Ibn Kathir says Allah brought out for them a great she-camel, heavy with young, from a solid rock, in accordance with what they had asked, so that she would be Allah's proof against them.",
-            "bn": "সেই দাবি নিয়ে প্রত্যেক তাফসীরকার একটা করে কথা যোগ করেন। তাবারীর ভাষায় উষ্ট্রী ছিল তাদের জন্য নিদর্শন, আর সালিহ (আঃ)-এর পক্ষে প্রমাণ যে তাঁর নবুওয়াত সত্য, তাঁর কথাও সত্য। বাগাভী বলেন, তারা তাঁর সঙ্গে জেদ ধরেছিল (তাআন্নাতূ)। দাবি ছিল, পাথরের ভেতর থেকে লাল রঙের এক গর্ভবতী উষ্ট্রী বের করে আনতে হবে। ইবন কাসীর বলেন, তারা যেমন চেয়েছিল ঠিক তেমনি আল্লাহ নিরেট পাথর থেকে তাদের জন্য বিশাল এক গর্ভবতী উষ্ট্রী বের করে আনলেন, যাতে সে তাদের বিরুদ্ধে আল্লাহর প্রমাণ হয়ে থাকে।"
+            "bn": "সেই দাবি নিয়ে প্রত্যেক তাফসীরকার একটা করে কথা যোগ করেন। তাবারীর ভাষায় উষ্ট্রী ছিল তাদের জন্য নিদর্শন, আর সালিহ (আঃ)-এর পক্ষে প্রমাণ যে তাঁর নবুওয়াত সত্য, তাঁর কথাও সত্য। বাগাভী বলেন, তারা তাঁর সঙ্গে জেদ ধরেছিল (তাআন্নাতূ)। দাবি ছিল, পাথরের ভেতর থেকে লাল রঙের এক গর্ভবতী উষ্ট্রী বের করে আনতে হবে। ইবন কাসীর বলেন, তারা যেমন চেয়েছিল ঠিক তেমনি আল্লাহ নিরেট পাথর থেকে তাদের জন্য বিশাল এক গর্ভবতী উষ্ট্রী বের করে আনলেন, যাতে সে তাদের বিরুদ্ধে আল্লাহর প্রমাণ হয়ে থাকে।"
           },
           {
             "en": "Al-Qurtubi adds a narration introduced only with fa-ruwiya, it is narrated: that Salih (AS) prayed two rak'ahs and made supplication, and the rock they had specified split open and a she-camel came out. He gives no chain and no grading for it, so it is reported here as he frames it, a narration and nothing firmer. The fuller account of the emergence and the terms at the well is in the article on 26:155, a verse the abridged Ibn Kathir cites in this same passage.",
-            "bn": "কুরতুবী একটি বর্ণনা আনেন শুধু 'ফারুবিয়া', অর্থাৎ 'বর্ণিত আছে' বলে। বর্ণনাটি হলো, সালিহ (আঃ) দুই রাকআত নামাজ পড়ে দোয়া করলেন। তখন তাদের ঠিক করে দেওয়া পাথরটি ফেটে গেল, আর বেরিয়ে এল একটি উষ্ট্রী। কুরতুবী এর কোনো সনদ দেননি, মানও বলেননি। তাই এখানে বর্ণনাটি তিনি যেভাবে এনেছেন সেভাবেই রাখা হলো, এর বেশি জোর দিয়ে নয়। উষ্ট্রীর বের হয়ে আসা আর কূপের পালার পুরো বিবরণ আছে ২৬:১৫৫ আয়াতের প্রবন্ধে। সংক্ষিপ্ত ইবন কাসীর এই একই আলোচনায় সে আয়াতটি উদ্ধৃত করেছেন।"
+            "bn": "কুরতুবী একটি বর্ণনা আনেন শুধু 'ফারুবিয়া', অর্থাৎ 'বর্ণিত আছে' বলে। বর্ণনাটি হলো, সালিহ (আঃ) দুই রাকআত নামাজ পড়ে দোয়া করলেন। তখন তাদের ঠিক করে দেওয়া পাথরটি ফেটে গেল, আর বেরিয়ে এল একটি উষ্ট্রী। কুরতুবী এর কোনো সনদ দেননি, মানও বলেননি। তাই এখানে বর্ণনাটি তিনি যেভাবে এনেছেন সেভাবেই রাখা হলো, এর বেশি জোর দিয়ে নয়। উষ্ট্রীর বের হয়ে আসা আর কূপের পালার পুরো বিবরণ আছে ২৬:১৫৫ আয়াতের প্রবন্ধে। সংক্ষিপ্ত ইবন কাসীর এই একই আলোচনায় সে আয়াতটি উদ্ধৃত করেছেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Six Glosses for Fitna",
-          "bn": "ফিতনার ছয় ব্যাখ্যা"
+          "bn": "ফিতনার ছয় ব্যাখ্যা"
         },
         "p": [
           {
             "en": "Fitnatan lahum: a trial for them. Every commentator consulted for this verse glosses the word from the same family of meaning. Ibn Kathir and al-Muyassar say ikhtibaran lahum, as a testing of them, and al-Qurtubi says ikhtibaran too. Al-Baghawi says mihnatan wa-ikhtibaran, an ordeal and a testing. As-Sa'di says ikhtibaran minhu lahum wa-imtihanan, a testing from Him for them and an examination. At-Tabari says ibtila'an lahum wa-ikhtibaran, a trial for them and a testing. On this word the six agree, and none of them reads it any other way here.",
-            "bn": "ফিতনাতাল লাহুম: তাদের জন্য পরীক্ষা। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, সবগুলোই শব্দটির ব্যাখ্যা দেয় কাছাকাছি অর্থের শব্দ দিয়ে। ইবন কাসীর আর মুয়াসসার বলেন ইখতিবারান লাহুম, তাদের যাচাই করার জন্য। কুরতুবীও বলেন ইখতিবারান। বাগাভী বলেন মিহনাতান ওয়া ইখতিবারান, কঠিন পরীক্ষা ও যাচাই। সা'দী বলেন ইখতিবারান মিনহু লাহুম ওয়া ইমতিহানান, তাঁর পক্ষ থেকে তাদের যাচাই ও পরীক্ষা। তাবারী বলেন ইবতিলাআন লাহুম ওয়া ইখতিবারান, তাদের জন্য পরীক্ষা ও যাচাই। এ শব্দে ছয়টি তাফসীরই একমত। এখানে কেউ একে অন্য কোনো অর্থে পড়েননি।"
+            "bn": "ফিতনাতাল লাহুম: তাদের জন্য পরীক্ষা। এ আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, সবগুলোই শব্দটির ব্যাখ্যা দেয় কাছাকাছি অর্থের শব্দ দিয়ে। ইবন কাসীর আর মুয়াসসার বলেন ইখতিবারান লাহুম, তাদের যাচাই করার জন্য। কুরতুবীও বলেন ইখতিবারান। বাগাভী বলেন মিহনাতান ওয়া ইখতিবারান, কঠিন পরীক্ষা ও যাচাই। সা'দী বলেন ইখতিবারান মিনহু লাহুম ওয়া ইমতিহানান, তাঁর পক্ষ থেকে তাদের যাচাই ও পরীক্ষা। তাবারী বলেন ইবতিলাআন লাহুম ওয়া ইখতিবারান, তাদের জন্য পরীক্ষা ও যাচাই। এ শব্দে ছয়টি তাফসীরই একমত। এখানে কেউ একে অন্য কোনো অর্থে পড়েননি।"
           },
           {
             "en": "At-Tabari spells out what was being tested, as a question with two sides. Once the she-camel was sent, would they believe in Allah, follow Salih (AS) and accept the tawhid he called them to? Or would they call him a liar and disbelieve in Allah? The sign does not settle that question; it puts it to them. Al-Qurtubi adds a note of grammar that points the same way: fitnatan is a maf'ul lahu, an object of purpose. The she-camel was sent for the sake of the testing.",
-            "bn": "কী যাচাই হচ্ছিল, তাবারী তা খুলে বলেন দুই দিকের এক প্রশ্নে। উষ্ট্রী পাঠানোর পর তারা কি আল্লাহর উপর ঈমান আনবে, সালিহ (আঃ)-এর অনুসরণ করবে, আর তিনি যে তাওহিদের দিকে ডাকছেন তা মেনে নেবে? নাকি তাঁকে মিথ্যুক বলবে আর আল্লাহকে অস্বীকার করবে? নিদর্শন প্রশ্নের মীমাংসা করে না, প্রশ্নটা তাদের সামনে রাখে। কুরতুবী ব্যাকরণের একটা কথা যোগ করেন, যা একই দিকে ইঙ্গিত করে। ফিতনাতান শব্দটি মাফঊল লাহু, অর্থাৎ উদ্দেশ্য বোঝানো কর্ম। উষ্ট্রী পাঠানো হয়েছিল পরীক্ষারই জন্য।"
+            "bn": "কী যাচাই হচ্ছিল, তাবারী তা খুলে বলেন দুই দিকের এক প্রশ্নে। উষ্ট্রী পাঠানোর পর তারা কি আল্লাহর উপর ঈমান আনবে, সালিহ (আঃ)-এর অনুসরণ করবে, আর তিনি যে তাওহিদের দিকে ডাকছেন তা মেনে নেবে? নাকি তাঁকে মিথ্যুক বলবে আর আল্লাহকে অস্বীকার করবে? নিদর্শন প্রশ্নের মীমাংসা করে না, প্রশ্নটা তাদের সামনে রাখে। কুরতুবী ব্যাকরণের একটা কথা যোগ করেন, যা একই দিকে ইঙ্গিত করে। ফিতনাতান শব্দটি মাফঊল লাহু, অর্থাৎ উদ্দেশ্য বোঝানো কর্ম। উষ্ট্রী পাঠানো হয়েছিল পরীক্ষারই জন্য।"
           },
           {
             "en": "Whose she-camel was she? The verse says only an-naqah, the she-camel. At-Tabari, explaining the commands that follow, names her naqat Allah: wait, he has Allah tell Salih (AS), and see what they will do with Allah's she-camel. The possessive is his wording on this verse, and it is reported here as his phrase rather than the verse's. It fits his reading of the test, since what they did to her would show what they did with a sign that belonged to Allah.",
@@ -600,16 +600,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Gift Was the Exam",
-          "bn": "নিয়ামতটাই ছিল পরীক্ষা"
+          "bn": "নিয়ামতটাই ছিল পরীক্ষা"
         },
         "p": [
           {
             "en": "As-Sa'di brings out something the others leave implicit. Allah sent the she-camel, he writes, as one of the greatest blessings upon them (min akbar an-ni'am 'alayhim): a sign among the signs of Allah, and a blessing from whose udder they drew milk enough for all of them. Then he moves straight to the verse's word: fitnatan lahum, a testing from Him for them. In his reading the gift and the trial are not two different things. The very creature that fed them was the examination they were sitting.",
-            "bn": "অন্যরা যা ইঙ্গিতে রেখে দেন, সা'দী তা সামনে আনেন। তিনি লেখেন, আল্লাহ উষ্ট্রীটি পাঠিয়েছিলেন তাদের উপর সবচেয়ে বড় নিয়ামতগুলোর একটি হিসেবে (মিন আকবারিন নিআমি আলাইহিম)। সে ছিল আল্লাহর নিদর্শনগুলোর একটি, আবার এমন এক নিয়ামত, যার ওলানের দুধে তাদের সবার চলে যেত। এর পরপরই তিনি আসেন আয়াতের শব্দে: ফিতনাতাল লাহুম, তাঁর পক্ষ থেকে তাদের যাচাই। তাঁর পাঠে নিয়ামত আর পরীক্ষা আলাদা দুটি জিনিস নয়। যে প্রাণী তাদের খাওয়াচ্ছিল, সে-ই ছিল তাদের পরীক্ষার খাতা।"
+            "bn": "অন্যরা যা ইঙ্গিতে রেখে দেন, সা'দী তা সামনে আনেন। তিনি লেখেন, আল্লাহ উষ্ট্রীটি পাঠিয়েছিলেন তাদের উপর সবচেয়ে বড় নিয়ামতগুলোর একটি হিসেবে (মিন আকবারিন নিআমি আলাইহিম)। সে ছিল আল্লাহর নিদর্শনগুলোর একটি, আবার এমন এক নিয়ামত, যার ওলানের দুধে তাদের সবার চলে যেত। এর পরপরই তিনি আসেন আয়াতের শব্দে: ফিতনাতাল লাহুম, তাঁর পক্ষ থেকে তাদের যাচাই। তাঁর পাঠে নিয়ামত আর পরীক্ষা আলাদা দুটি জিনিস নয়। যে প্রাণী তাদের খাওয়াচ্ছিল, সে-ই ছিল তাদের পরীক্ষার খাতা।"
           },
           {
             "en": "That is worth sitting with. We tend to file blessings and trials in separate drawers, the first to be enjoyed and the second to be endured. As-Sa'di's sentence joins them. A gift is also a question about what its receiver will do with it. Thamud asked for a wonder, received it as they had described it, and the wonder became the measure of them. The verse does not say the test was heavy. It says only that it was a test, and that their response would be watched.",
-            "bn": "কথাটা নিয়ে একটু থামা দরকার। আমরা সাধারণত নিয়ামত আর পরীক্ষাকে দুই আলাদা তাকে তুলে রাখি। প্রথমটা উপভোগের জন্য, দ্বিতীয়টা সহ্য করার জন্য। সা'দীর বাক্য দুটোকে এক করে দেয়। প্রতিটি দানই আসলে প্রশ্নও: যে পেল, সে এটা দিয়ে কী করবে? সামূদ এক আশ্চর্য নিদর্শন চেয়েছিল, যেমনটা বলেছিল তেমনটাই পেয়েছিল। আর সেই নিদর্শনই হয়ে গেল তাদের মাপার দাঁড়িপাল্লা। আয়াত বলে না যে পরীক্ষাটা ভারী ছিল। শুধু বলে, এটা পরীক্ষা, আর তাদের আচরণের দিকে নজর রাখা হবে।"
+            "bn": "কথাটা নিয়ে একটু থামা দরকার। আমরা সাধারণত নিয়ামত আর পরীক্ষাকে দুই আলাদা তাকে তুলে রাখি। প্রথমটা উপভোগের জন্য, দ্বিতীয়টা সহ্য করার জন্য। সা'দীর বাক্য দুটোকে এক করে দেয়। প্রতিটি দানই আসলে প্রশ্নও: যে পেল, সে এটা দিয়ে কী করবে? সামূদ এক আশ্চর্য নিদর্শন চেয়েছিল, যেমনটা বলেছিল তেমনটাই পেয়েছিল। আর সেই নিদর্শনই হয়ে গেল তাদের মাপার দাঁড়িপাল্লা। আয়াত বলে না যে পরীক্ষাটা ভারী ছিল। শুধু বলে, এটা পরীক্ষা, আর তাদের আচরণের দিকে নজর রাখা হবে।"
           }
         ]
       },
@@ -625,59 +625,59 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Muyassar points the watching elsewhere: wait, O Salih, for the punishment that will come down upon them. Ibn Kathir keeps it open: wait for what their affair will come to. As-Sa'di holds both readings and joins them with aw, or: watch for what will befall them, or watch whether they will believe or disbelieve. So one reading watches the people's choice, and another watches the end that Allah will bring. The commentators record both, and this article keeps them both without choosing between them.",
-            "bn": "মুয়াসসার নজরটা অন্য দিকে ঘোরায়: হে সালিহ, তাদের উপর যে আযাব নেমে আসবে তার অপেক্ষা করো। ইবন কাসীর কথাটা খোলা রাখেন: তাদের ব্যাপারটা শেষে কোথায় গিয়ে দাঁড়ায়, তার অপেক্ষা করো। সা'দী দুই পাঠই রাখেন, আর 'আও' বা 'অথবা' দিয়ে জুড়ে দেন। তাদের উপর কী নেমে আসে তা লক্ষ্য করো, অথবা লক্ষ্য করো তারা ঈমান আনে নাকি কুফরি করে। তাহলে একটি পাঠ দেখে মানুষের বেছে নেওয়া পথ, আরেক পাঠ দেখে আল্লাহ যে পরিণতি আনবেন। তাফসীরকারেরা দুটোই লিখে রেখেছেন। এ প্রবন্ধও কোনোটাকে বেছে না নিয়ে দুটোই রাখল।"
+            "bn": "মুয়াসসার নজরটা অন্য দিকে ঘোরায়: হে সালিহ, তাদের উপর যে আযাব নেমে আসবে তার অপেক্ষা করো। ইবন কাসীর কথাটা খোলা রাখেন: তাদের ব্যাপারটা শেষে কোথায় গিয়ে দাঁড়ায়, তার অপেক্ষা করো। সা'দী দুই পাঠই রাখেন, আর 'আও' বা 'অথবা' দিয়ে জুড়ে দেন। তাদের উপর কী নেমে আসে তা লক্ষ্য করো, অথবা লক্ষ্য করো তারা ঈমান আনে নাকি কুফরি করে। তাহলে একটি পাঠ দেখে মানুষের বেছে নেওয়া পথ, আরেক পাঠ দেখে আল্লাহ যে পরিণতি আনবেন। তাফসীরকারেরা দুটোই লিখে রেখেছেন। এ প্রবন্ধও কোনোটাকে বেছে না নিয়ে দুটোই রাখল।"
           }
         ]
       },
       {
         "h": {
           "en": "Patience Without a Stated Object",
-          "bn": "যে ধৈর্যের বিষয় বলা নেই"
+          "bn": "যে ধৈর্যের বিষয় বলা নেই"
         },
         "p": [
           {
             "en": "Wa-stabir: and be patient. The verse names no object for the patience, and the commentators supply different ones. At-Tabari reads it as patience in the watching itself: be patient in waiting on them, and do not hasten. Al-Baghawi gives the same first, patience in watching them, and then adds, under wa-qila, it is said, patience over the harm that reaches you. Al-Qurtubi takes that second reading as the meaning: be patient with their harm (adhahum). Al-Muyassar joins two fronts: be patient in calling them, and with their harm to you.",
-            "bn": "ওয়াসতাবির: আর ধৈর্য ধরো। কিসের উপর ধৈর্য, আয়াত তা বলেনি। তাফসীরকারেরা ভিন্ন ভিন্ন বিষয় বসান। তাবারী একে পড়েন অপেক্ষার ভেতরের ধৈর্য হিসেবে: তাদের অপেক্ষায় ধৈর্য ধরো, তাড়াহুড়া কোরো না। বাগাভীও প্রথমে একই কথা বলেন, তাদের লক্ষ্য করার ধৈর্য। তারপর 'ওয়া কীলা', অর্থাৎ 'বলা হয়' দিয়ে যোগ করেন, তোমার উপর যে কষ্ট আসে তাতে ধৈর্য। কুরতুবী এই দ্বিতীয় পাঠটিকেই অর্থ হিসেবে নেন: তাদের দেওয়া কষ্টে (আযাহুম) ধৈর্য ধরো। মুয়াসসার দুটি দিক একসঙ্গে রাখে: তাদের দাওয়াত দেওয়ায় ধৈর্য, আর তোমাকে দেওয়া তাদের কষ্টে ধৈর্য।"
+            "bn": "ওয়াসতাবির: আর ধৈর্য ধরো। কিসের উপর ধৈর্য, আয়াত তা বলেনি। তাফসীরকারেরা ভিন্ন ভিন্ন বিষয় বসান। তাবারী একে পড়েন অপেক্ষার ভেতরের ধৈর্য হিসেবে: তাদের অপেক্ষায় ধৈর্য ধরো, তাড়াহুড়া কোরো না। বাগাভীও প্রথমে একই কথা বলেন, তাদের লক্ষ্য করার ধৈর্য। তারপর 'ওয়া কীলা', অর্থাৎ 'বলা হয়' দিয়ে যোগ করেন, তোমার উপর যে কষ্ট আসে তাতে ধৈর্য। কুরতুবী এই দ্বিতীয় পাঠটিকেই অর্থ হিসেবে নেন: তাদের দেওয়া কষ্টে (আযাহুম) ধৈর্য ধরো। মুয়াসসার দুটি দিক একসঙ্গে রাখে: তাদের দাওয়াত দেওয়ায় ধৈর্য, আর তোমাকে দেওয়া তাদের কষ্টে ধৈর্য।"
           },
           {
             "en": "As-Sa'di keeps the patience on the work itself: be patient in your calling them. Ibn Kathir widens it into a promise: be patient with them, for the final outcome is yours, and victory is yours, in this world and the Hereafter. Laid side by side, the readings name four places where patience is asked for: in waiting without hurrying, in bearing harm, in going on with the call, and in trusting the end. Each commentator names the front he sees; the verse's single word, left without an object, leaves room for them all.",
-            "bn": "সা'দী ধৈর্যকে রাখেন কাজের উপরেই: তাদের দাওয়াত দিয়ে যাওয়ায় ধৈর্য ধরো। ইবন কাসীর একে আরও বড় করে প্রতিশ্রুতিতে নিয়ে যান: তাদের ব্যাপারে ধৈর্য ধরো, কেননা শেষ পরিণতি তোমারই, বিজয়ও তোমার, দুনিয়াতে আর আখিরাতে। পাঠগুলো পাশাপাশি রাখলে ধৈর্যের চারটি জায়গা চোখে পড়ে: তাড়াহুড়া না করে অপেক্ষা, কষ্ট সহ্য করা, দাওয়াত চালিয়ে যাওয়া, আর পরিণতির উপর আস্থা। প্রত্যেক তাফসীরকার যে দিকটা দেখেছেন, সেটার কথাই বলেছেন। আয়াতের একটিমাত্র শব্দ কোনো বিষয় না বলে সবগুলোর জন্যই জায়গা রেখে দিয়েছে।"
+            "bn": "সা'দী ধৈর্যকে রাখেন কাজের উপরেই: তাদের দাওয়াত দিয়ে যাওয়ায় ধৈর্য ধরো। ইবন কাসীর একে আরও বড় করে প্রতিশ্রুতিতে নিয়ে যান: তাদের ব্যাপারে ধৈর্য ধরো, কেননা শেষ পরিণতি তোমারই, বিজয়ও তোমার, দুনিয়াতে আর আখিরাতে। পাঠগুলো পাশাপাশি রাখলে ধৈর্যের চারটি জায়গা চোখে পড়ে: তাড়াহুড়া না করে অপেক্ষা, কষ্ট সহ্য করা, দাওয়াত চালিয়ে যাওয়া, আর পরিণতির উপর আস্থা। প্রত্যেক তাফসীরকার যে দিকটা দেখেছেন, সেটার কথাই বলেছেন। আয়াতের একটিমাত্র শব্দ কোনো বিষয় না বলে সবগুলোর জন্যই জায়গা রেখে দিয়েছে।"
           },
           {
             "en": "Two commentators stop on the form of the word. At-Tabari notes that in wa-stabir the original letter was ta, which was turned into ta', and that the verb is the ifta'ala pattern built from sabr, patience. Al-Qurtubi gives the reason for the change: the ta became ta' to agree with the sad in itbaq, a quality of articulation that the two letters share. The shift is a matter of pronunciation. Neither commentator draws a further meaning from it, and this article does not add any.",
-            "bn": "দুজন তাফসীরকার শব্দটির গড়ন নিয়ে থামেন। তাবারী বলেন, ওয়াসতাবির শব্দে মূল হরফ ছিল তা (ت), যা বদলে ত্বা (ط) হয়েছে। ক্রিয়াটি সবর বা ধৈর্য থেকে ইফতাআলা ছাঁচে গড়া। বদলের কারণ বলেন কুরতুবী: সোয়াদের সঙ্গে ইতবাকে মিল রাখতে তা হয়েছে ত্বা। ইতবাক উচ্চারণের এমন এক গুণ, যা দুই হরফেই আছে। বদলটা উচ্চারণের ব্যাপার। দুজনের কেউই এ থেকে বাড়তি কোনো অর্থ বের করেননি, এ প্রবন্ধও করছে না।"
+            "bn": "দুজন তাফসীরকার শব্দটির গড়ন নিয়ে থামেন। তাবারী বলেন, ওয়াসতাবির শব্দে মূল হরফ ছিল তা (ت), যা বদলে ত্বা (ط) হয়েছে। ক্রিয়াটি সবর বা ধৈর্য থেকে ইফতাআলা ছাঁচে গড়া। বদলের কারণ বলেন কুরতুবী: সোয়াদের সঙ্গে ইতবাকে মিল রাখতে তা হয়েছে ত্বা। ইতবাক উচ্চারণের এমন এক গুণ, যা দুই হরফেই আছে। বদলটা উচ্চারণের ব্যাপার। দুজনের কেউই এ থেকে বাড়তি কোনো অর্থ বের করেননি, এ প্রবন্ধও করছে না।"
           }
         ]
       },
       {
         "h": {
           "en": "A Closed Story, Not a Label",
-          "bn": "শেষ হওয়া কাহিনি, কারও তকমা নয়"
+          "bn": "শেষ হওয়া কাহিনি, কারও তকমা নয়"
         },
         "p": [
           {
             "en": "This must be said plainly. Thamud are a people the Qur'an describes as having denied their messenger and been destroyed; 54:31 tells of the single blast that ended them. The verse describes only what the text describes: a sign sent to one ancient people, a test set before them, and commands given to their prophet. It licenses nothing against any living person or community. It is no verdict on anyone alive today, no ground for calling any group Thamud, and no warrant to despise a single living soul.",
-            "bn": "কথাটা সোজাসুজি বলা দরকার। কুরআনের বর্ণনায় সামূদ এমন এক জাতি, যারা তাদের রাসূলকে অস্বীকার করেছিল এবং ধ্বংস হয়ে গিয়েছিল। ৫৪:৩১ আয়াত বলে সেই একটিমাত্র গর্জনের কথা, যা তাদের শেষ করে দিয়েছিল। এ আয়াত কেবল ততটুকুই বলে, যতটুকু কুরআনের ভাষ্যে আছে। প্রাচীন এক জাতির কাছে পাঠানো নিদর্শন, তাদের সামনে রাখা পরীক্ষা, আর তাদের নবীকে দেওয়া আদেশ। আজ জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। এটি আজকের কারও উপর রায় নয়, কোনো দলকে সামূদ বলে ডাকার ভিত্তি নয়, কোনো জীবিত মানুষকে তুচ্ছ করার ছাড়পত্রও নয়।"
+            "bn": "কথাটা সোজাসুজি বলা দরকার। কুরআনের বর্ণনায় সামূদ এমন এক জাতি, যারা তাদের রাসূলকে অস্বীকার করেছিল এবং ধ্বংস হয়ে গিয়েছিল। ৫৪:৩১ আয়াত বলে সেই একটিমাত্র গর্জনের কথা, যা তাদের শেষ করে দিয়েছিল। এ আয়াত কেবল ততটুকুই বলে, যতটুকু কুরআনের ভাষ্যে আছে। প্রাচীন এক জাতির কাছে পাঠানো নিদর্শন, তাদের সামনে রাখা পরীক্ষা, আর তাদের নবীকে দেওয়া আদেশ। আজ জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। এটি আজকের কারও উপর রায় নয়, কোনো দলকে সামূদ বলে ডাকার ভিত্তি নয়, কোনো জীবিত মানুষকে তুচ্ছ করার ছাড়পত্রও নয়।"
           },
           {
             "en": "Nor does the verse place Thamud on a modern map. The commentators consulted for it speak of a rock and of the high rocky ground they had pointed to, and go no further; this article stops where they stop. None of them attaches a hadith to this verse, so none is quoted here. And nothing in the verse or its glosses points to any fault in Salih (AS). He is the one addressed, commanded to watch and to be patient, with the promise, in Ibn Kathir's words, that the final outcome is his.",
-            "bn": "আয়াতটি সামূদকে আজকের কোনো মানচিত্রেও বসায় না। এর জন্য যে তাফসীরগুলো পড়া হয়েছে, সেগুলো একটি পাথর আর তাদের দেখিয়ে দেওয়া উঁচু পাথুরে ভূমির কথা বলে, এর বেশি যায় না। এ প্রবন্ধও সেখানেই থামছে। কোনো তাফসীরকার এ আয়াতের সঙ্গে কোনো হাদিস যুক্ত করেননি, তাই এখানেও কোনো হাদিস আনা হলো না। আর আয়াতে বা তার ব্যাখ্যায় সালিহ (আঃ)-এর কোনো ত্রুটির ইঙ্গিত নেই। কথা তাঁকেই বলা হচ্ছে। তাঁকে বলা হয়েছে লক্ষ্য রাখতে আর ধৈর্য ধরতে, সঙ্গে ইবন কাসীরের ভাষায় এই প্রতিশ্রুতি যে শেষ পরিণতি তাঁরই।"
+            "bn": "আয়াতটি সামূদকে আজকের কোনো মানচিত্রেও বসায় না। এর জন্য যে তাফসীরগুলো পড়া হয়েছে, সেগুলো একটি পাথর আর তাদের দেখিয়ে দেওয়া উঁচু পাথুরে ভূমির কথা বলে, এর বেশি যায় না। এ প্রবন্ধও সেখানেই থামছে। কোনো তাফসীরকার এ আয়াতের সঙ্গে কোনো হাদিস যুক্ত করেননি, তাই এখানেও কোনো হাদিস আনা হলো না। আর আয়াতে বা তার ব্যাখ্যায় সালিহ (আঃ)-এর কোনো ত্রুটির ইঙ্গিত নেই। কথা তাঁকেই বলা হচ্ছে। তাঁকে বলা হয়েছে লক্ষ্য রাখতে আর ধৈর্য ধরতে, সঙ্গে ইবন কাসীরের ভাষায় এই প্রতিশ্রুতি যে শেষ পরিণতি তাঁরই।"
           }
         ]
       },
       {
         "h": {
           "en": "Waiting Well, Not Forcing",
-          "bn": "জোর নয়, সুন্দর অপেক্ষা"
+          "bn": "জোর নয়, সুন্দর অপেক্ষা"
         },
         "p": [
           {
             "en": "What the verse asked of its first hearer it asks, in smaller measure, of anyone who calls others to the good. Salih (AS) had delivered his message and been called a liar for it. He was not told to argue harder or to bring the punishment nearer. He was told, in at-Tabari's words, to wait and not hasten, and in the words of others to bear the harm and keep calling. The result belonged to Allah. What was left in human hands was the watching, the patience and the call.",
-            "bn": "যে-ই মানুষকে ভালোর দিকে ডাকে, তার কাছেও আয়াত ছোট পরিসরে তা-ই চায়, যা চেয়েছিল তার প্রথম শ্রোতার কাছে। সালিহ (আঃ) বার্তা পৌঁছে দিয়েছিলেন, আর জবাবে লোকেরা তাঁকে মিথ্যুক বলেছিল। তাঁকে আরও জোরে তর্ক করতে বলা হয়নি, আযাব কাছে টেনে আনতেও বলা হয়নি। তাবারীর ভাষায় তাঁকে বলা হয়েছিল অপেক্ষা করতে, তাড়াহুড়া না করতে। অন্যদের ভাষায় কষ্ট সইতে আর দাওয়াত চালিয়ে যেতে। ফল ছিল আল্লাহর হাতে। মানুষের হাতে বাকি ছিল শুধু লক্ষ্য রাখা, ধৈর্য আর দাওয়াত।"
+            "bn": "যে-ই মানুষকে ভালোর দিকে ডাকে, তার কাছেও আয়াত ছোট পরিসরে তা-ই চায়, যা চেয়েছিল তার প্রথম শ্রোতার কাছে। সালিহ (আঃ) বার্তা পৌঁছে দিয়েছিলেন, আর জবাবে লোকেরা তাঁকে মিথ্যুক বলেছিল। তাঁকে আরও জোরে তর্ক করতে বলা হয়নি, আযাব কাছে টেনে আনতেও বলা হয়নি। তাবারীর ভাষায় তাঁকে বলা হয়েছিল অপেক্ষা করতে, তাড়াহুড়া না করতে। অন্যদের ভাষায় কষ্ট সইতে আর দাওয়াত চালিয়ে যেতে। ফল ছিল আল্লাহর হাতে। মানুষের হাতে বাকি ছিল শুধু লক্ষ্য রাখা, ধৈর্য আর দাওয়াত।"
           },
           {
             "en": "For the reader there are two questions here. The first is about gifts: what did I ask for, receive, and fail to recognise as a test of what I would do with it? The second is about the people I hope will change. Can I keep watching with patience, without forcing the outcome and without giving up on them? Thamud failed their test, as the next two verses show. The verse that sets that test before them also shows a prophet told to wait well, and that waiting is what the reader is invited to learn.",
-            "bn": "পাঠকের জন্য এখানে দুটি প্রশ্ন। প্রথমটি নিয়ামত নিয়ে: কী চেয়েছিলাম, পেয়েও গেছি, অথচ বুঝিনি যে এটা নিয়ে আমি কী করি, সেটাই পরীক্ষা? দ্বিতীয়টি সেই মানুষদের নিয়ে, যাদের বদলে যাওয়ার আশা করি। ফল জোর করে না চাপিয়ে, আবার তাদের থেকে হাল না ছেড়ে, আমি কি ধৈর্য ধরে লক্ষ্য রাখতে পারি? সামূদ তাদের পরীক্ষায় ব্যর্থ হয়েছিল, পরের দুই আয়াতে তা স্পষ্ট। যে আয়াত তাদের সামনে সেই পরীক্ষা রাখে, সেই আয়াতই দেখায় একজন নবীকে, যাঁকে বলা হয়েছে সুন্দরভাবে অপেক্ষা করতে। পাঠকের শেখার বিষয় সেই অপেক্ষাটাই।"
+            "bn": "পাঠকের জন্য এখানে দুটি প্রশ্ন। প্রথমটি নিয়ামত নিয়ে: কী চেয়েছিলাম, পেয়েও গেছি, অথচ বুঝিনি যে এটা নিয়ে আমি কী করি, সেটাই পরীক্ষা? দ্বিতীয়টি সেই মানুষদের নিয়ে, যাদের বদলে যাওয়ার আশা করি। ফল জোর করে না চাপিয়ে, আবার তাদের থেকে হাল না ছেড়ে, আমি কি ধৈর্য ধরে লক্ষ্য রাখতে পারি? সামূদ তাদের পরীক্ষায় ব্যর্থ হয়েছিল, পরের দুই আয়াতে তা স্পষ্ট। যে আয়াত তাদের সামনে সেই পরীক্ষা রাখে, সেই আয়াতই দেখায় একজন নবীকে, যাঁকে বলা হয়েছে সুন্দরভাবে অপেক্ষা করতে। পাঠকের শেখার বিষয় সেই অপেক্ষাটাই।"
           }
         ]
       }
@@ -688,12 +688,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Nine Words, Two Endings",
-          "bn": "নয় শব্দে দুই পরিণতি"
+          "bn": "নয় শব্দে দুই পরিণতি"
         },
         "p": [
           {
             "en": "Inna arsalna 'alayhim hasiban illa ala Lutin, najjaynahum bi-saharin: indeed We sent upon them a hasib, except the family of Lut; We saved them at sahar. The verse is nine Arabic words long. The story of the people of Lut opened one verse earlier, in 54:33, with just four: they denied the warnings. This verse gives the consequence of that denial and, before the sentence is over, the exception to it. The punishment and the rescue are not told in separate scenes. They share a single breath.",
-            "bn": "ইন্না আরসালনা আলাইহিম হাসিবান ইল্লা আলা লূতিন, নাজ্জাইনাহুম বিসাহারিন: নিশ্চয় আমি তাদের উপর পাঠিয়েছিলাম হাসিব, লূতের পরিবার ছাড়া; তাদের আমি বাঁচিয়েছিলাম সাহারের সময়। আরবিতে আয়াতটি মাত্র নয়টি শব্দের। লূতের জাতির কাহিনি শুরু হয়েছে এক আয়াত আগে, ৫৪:৩৩ আয়াতে, মাত্র চারটি শব্দে: তারা সতর্কবাণী অস্বীকার করেছিল। এই আয়াত সেই অস্বীকারের পরিণাম জানায়। আর বাক্য শেষ হওয়ার আগেই জানিয়ে দেয় তার ব্যতিক্রম। শাস্তি আর উদ্ধারের কথা আলাদা দৃশ্যে আসেনি, এসেছে একই নিঃশ্বাসে।"
+            "bn": "ইন্না আরসালনা আলাইহিম হাসিবান ইল্লা আলা লূতিন, নাজ্জাইনাহুম বিসাহারিন: নিশ্চয় আমি তাদের উপর পাঠিয়েছিলাম হাসিব, লূতের পরিবার ছাড়া; তাদের আমি বাঁচিয়েছিলাম সাহারের সময়। আরবিতে আয়াতটি মাত্র নয়টি শব্দের। লূতের জাতির কাহিনি শুরু হয়েছে এক আয়াত আগে, ৫৪:৩৩ আয়াতে, মাত্র চারটি শব্দে: তারা সতর্কবাণী অস্বীকার করেছিল। এই আয়াত সেই অস্বীকারের পরিণাম জানায়। আর বাক্য শেষ হওয়ার আগেই জানিয়ে দেয় তার ব্যতিক্রম। শাস্তি আর উদ্ধারের কথা আলাদা দৃশ্যে আসেনি, এসেছে একই নিঃশ্বাসে।"
           },
           {
             "en": "The opening words are not new to the surah. Three verses earlier, 54:31 began the ending of Thamud in exactly the same way, inna arsalna 'alayhim, We sent upon them, and what was sent there was one shout. Between the two stories stands 54:32, the refrain that the Qur'an has been made easy for remembrance, and the question whether anyone will remember. The frame repeats so that the reader notices what changes inside it. Here the thing sent is a hasib, and here, unlike in 54:31, an exception follows at once.",
@@ -704,20 +704,20 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Stones, or a Wind That Throws",
-          "bn": "পাথর, নাকি পাথর ছোড়া বাতাস"
+          "bn": "পাথর, নাকি পাথর ছোড়া বাতাস"
         },
         "p": [
           {
             "en": "Three of the commentators gloss the word in one step. At-Tabari: We sent upon them stones, hijaratan. Ibn Kathir: wa-hiya al-hijara, and it is the stones. Al-Muyassar repeats the same: We sent upon them stones. For these three, hasib names what fell on the people of Lut and nothing more needs to be said about it. Their reading is short because they are not interested here in how the stones arrived, only in what struck. An English rendering such as a storm of stones keeps close to this reading.",
-            "bn": "তিনজন মুফাসসির শব্দটির ব্যাখ্যা দেন এক কথায়। তাবারী বলেন: আমি তাদের উপর পাঠিয়েছিলাম পাথর, হিজারাতান। ইবন কাসীর বলেন: ওয়া হিয়াল হিজারা, তা হল পাথর। মুয়াসসারও একই কথা বলে: আমি তাদের উপর পাথর পাঠিয়েছিলাম। এই তিনজনের কাছে হাসিব মানে লূতের জাতির উপর যা পড়েছিল, তার বেশি কিছু বলার দরকার নেই। পাথর কীভাবে এল, এখানে সে প্রশ্নে তাঁরা যান না। কী আঘাত করেছিল, শুধু সেটুকু বলেন। ইংরেজিতে \"পাথরের ঝড়\" ধরনের অনুবাদ এই পাঠেরই কাছাকাছি থাকে।"
+            "bn": "তিনজন মুফাসসির শব্দটির ব্যাখ্যা দেন এক কথায়। তাবারী বলেন: আমি তাদের উপর পাঠিয়েছিলাম পাথর, হিজারাতান। ইবন কাসীর বলেন: ওয়া হিয়াল হিজারা, তা হল পাথর। মুয়াসসারও একই কথা বলে: আমি তাদের উপর পাথর পাঠিয়েছিলাম। এই তিনজনের কাছে হাসিব মানে লূতের জাতির উপর যা পড়েছিল, তার বেশি কিছু বলার দরকার নেই। পাথর কীভাবে এল, এখানে সে প্রশ্নে তাঁরা যান না। কী আঘাত করেছিল, শুধু সেটুকু বলেন। ইংরেজিতে \"পাথরের ঝড়\" ধরনের অনুবাদ এই পাঠেরই কাছাকাছি থাকে।"
           },
           {
             "en": "Al-Qurtubi and al-Baghawi both read a wind into the word: rihan tarmihim bil-hasba', a wind that pelted them with hasba', which is gravel. Al-Qurtubi gathers the philologists behind it. An-Nadr said the hasib is gravel carried in the wind; Abu 'Ubaydah said the hasib is stones; and al-Sihah defines it as the violent wind that raises gravel. He then quotes two poets, Labid and al-Farazdaq. In al-Farazdaq's line, the poet and his companions, facing the north wind of Sham, are struck by a hasib like carded cotton scattered.",
-            "bn": "কুরতুবী ও বাগাভী দুজনেই শব্দটির ভেতরে বাতাস দেখেন: রীহান তারমীহিম বিল হাসবা, এমন বাতাস যা তাদের উপর হাসবা ছুড়ে মারছিল, আর হাসবা মানে কাঁকর। এর পেছনে ভাষাবিদদের কথাও কুরতুবী জড়ো করেন। নাদর বলেন, হাসিব হল বাতাসে উড়ে আসা কাঁকর। আবূ উবাইদা বলেন, হাসিব মানে পাথর। আর আস-সিহাহ অভিধানে আছে, হাসিব সেই প্রচণ্ড বাতাস যা কাঁকর উড়িয়ে আনে। এরপর তিনি দুজন কবির কবিতা আনেন, লাবীদ ও ফারাযদাক। ফারাযদাকের পঙক্তিতে কবি ও তাঁর সঙ্গীরা শামের উত্তুরে হাওয়ার মুখোমুখি, আর তাদের গায়ে আছড়ে পড়ছে এমন হাসিব, যেন ধুনো তুলো চারদিকে ছড়ানো।"
+            "bn": "কুরতুবী ও বাগাভী দুজনেই শব্দটির ভেতরে বাতাস দেখেন: রীহান তারমীহিম বিল হাসবা, এমন বাতাস যা তাদের উপর হাসবা ছুড়ে মারছিল, আর হাসবা মানে কাঁকর। এর পেছনে ভাষাবিদদের কথাও কুরতুবী জড়ো করেন। নাদর বলেন, হাসিব হল বাতাসে উড়ে আসা কাঁকর। আবূ উবাইদা বলেন, হাসিব মানে পাথর। আর আস-সিহাহ অভিধানে আছে, হাসিব সেই প্রচণ্ড বাতাস যা কাঁকর উড়িয়ে আনে। এরপর তিনি দুজন কবির কবিতা আনেন, লাবীদ ও ফারাযদাক। ফারাযদাকের পঙক্তিতে কবি ও তাঁর সঙ্গীরা শামের উত্তুরে হাওয়ার মুখোমুখি, আর তাদের গায়ে আছড়ে পড়ছে এমন হাসিব, যেন ধুনো তুলো চারদিকে ছড়ানো।"
           },
           {
             "en": "Al-Baghawi narrows the size. From ad-Dahhak: it means small pebbles. And it is said, he adds, that hasba' is a stone smaller than a palmful. He also keeps a grammatical possibility open: hasib can be the thrower, so the sense would be, We sent upon them a punishment that pelts them with stones. As-Sa'di does not pause on the word at all; he says it followed them with stones of sijjil, layered, marked with your Lord for the musrifin. The glosses differ on what the word names, and each of them has stones striking the people.",
-            "bn": "বাগাভী আকারটা আরও নির্দিষ্ট করেন। দাহহাক থেকে তিনি আনেন: এর মানে ছোট ছোট কাঁকর। তারপর যোগ করেন, বলা হয়, হাসবা হল হাতের মুঠো ভরে না এমন ছোট পাথর। ব্যাকরণের আরেকটা সম্ভাবনাও তিনি খোলা রাখেন: হাসিব মানে হতে পারে নিক্ষেপকারী। তখন অর্থ দাঁড়ায়, আমি তাদের উপর এমন শাস্তি পাঠালাম যা তাদের দিকে পাথর ছোড়ে। সা'দী শব্দটির উপর থামেনই না। তিনি বলেন, তা তাদের পিছু নিয়েছিল সিজ্জীলের স্তরে স্তরে সাজানো পাথর নিয়ে, যা তোমার রবের কাছে মুসরিফীনদের জন্য চিহ্নিত। শব্দটি ঠিক কী বোঝায়, তা নিয়ে ব্যাখ্যাগুলো আলাদা। কিন্তু প্রত্যেকটিতেই পাথর গিয়ে আঘাত করে সেই জাতিকে।"
+            "bn": "বাগাভী আকারটা আরও নির্দিষ্ট করেন। দাহহাক থেকে তিনি আনেন: এর মানে ছোট ছোট কাঁকর। তারপর যোগ করেন, বলা হয়, হাসবা হল হাতের মুঠো ভরে না এমন ছোট পাথর। ব্যাকরণের আরেকটা সম্ভাবনাও তিনি খোলা রাখেন: হাসিব মানে হতে পারে নিক্ষেপকারী। তখন অর্থ দাঁড়ায়, আমি তাদের উপর এমন শাস্তি পাঠালাম যা তাদের দিকে পাথর ছোড়ে। সা'দী শব্দটির উপর থামেনই না। তিনি বলেন, তা তাদের পিছু নিয়েছিল সিজ্জীলের স্তরে স্তরে সাজানো পাথর নিয়ে, যা তোমার রবের কাছে মুসরিফীনদের জন্য চিহ্নিত। শব্দটি ঠিক কী বোঝায়, তা নিয়ে ব্যাখ্যাগুলো আলাদা। কিন্তু প্রত্যেকটিতেই পাথর গিয়ে আঘাত করে সেই জাতিকে।"
           }
         ]
       },
@@ -729,15 +729,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Illa ala Lut: except the family of Lut. At-Tabari explains who they are before he says anything about their number: other than the family of Lut, those who believed him and followed him in his religion, for We saved them from the punishment with which We punished his people, who denied him. Al-Qurtubi gives the same definition in fewer words: the family of Lut means whoever followed him in his religion. For both commentators the word al, family, is drawn here by belief and following, and the line between the saved and the struck runs exactly where the denial runs.",
-            "bn": "ইল্লা আলা লূত: লূতের পরিবার ছাড়া। সংখ্যার কথা বলার আগে তাবারী জানিয়ে দেন তারা কারা: লূতের পরিবার ছাড়া, অর্থাৎ যারা তাঁকে সত্য বলে মেনেছিল আর তাঁর দীনে তাঁর অনুসরণ করেছিল। তাঁর যে জাতি তাঁকে অস্বীকার করেছিল, তাদের যে শাস্তি দিয়েছিলাম, তা থেকে আমি এদের বাঁচিয়েছিলাম। কুরতুবী একই সংজ্ঞা দেন আরও কম কথায়: লূতের পরিবার মানে যে-ই তাঁর দীনে তাঁকে অনুসরণ করেছিল। দুজনের কাছেই আল, অর্থাৎ পরিবার শব্দটি এখানে ঠিক হয় ঈমান আর অনুসরণ দিয়ে। বেঁচে যাওয়া আর আঘাতপ্রাপ্তদের মাঝের রেখাটা ঠিক সেখান দিয়েই যায়, যেখান দিয়ে গেছে অস্বীকার।"
+            "bn": "ইল্লা আলা লূত: লূতের পরিবার ছাড়া। সংখ্যার কথা বলার আগে তাবারী জানিয়ে দেন তারা কারা: লূতের পরিবার ছাড়া, অর্থাৎ যারা তাঁকে সত্য বলে মেনেছিল আর তাঁর দীনে তাঁর অনুসরণ করেছিল। তাঁর যে জাতি তাঁকে অস্বীকার করেছিল, তাদের যে শাস্তি দিয়েছিলাম, তা থেকে আমি এদের বাঁচিয়েছিলাম। কুরতুবী একই সংজ্ঞা দেন আরও কম কথায়: লূতের পরিবার মানে যে-ই তাঁর দীনে তাঁকে অনুসরণ করেছিল। দুজনের কাছেই আল, অর্থাৎ পরিবার শব্দটি এখানে ঠিক হয় ঈমান আর অনুসরণ দিয়ে। বেঁচে যাওয়া আর আঘাতপ্রাপ্তদের মাঝের রেখাটা ঠিক সেখান দিয়েই যায়, যেখান দিয়ে গেছে অস্বীকার।"
           },
           {
             "en": "Then the count. Al-Qurtubi adds: and there were none but his two daughters. Al-Baghawi glosses the phrase as Lut and his two daughters. Ibn Kathir puts it from the other side: not one of his people believed in Lut, not a single man, not even his wife; what struck her people struck her. And the Prophet of Allah, Lut, went out from among them with daughters of his, safe, untouched by harm. Ibn Kathir says daughters without giving a number, while al-Qurtubi and al-Baghawi say two; the difference is kept as they left it.",
-            "bn": "এরপর সংখ্যা। কুরতুবী যোগ করেন: আর তাঁর দুই কন্যা ছাড়া কেউ ছিল না। বাগাভী কথাটির ব্যাখ্যা দেন এভাবে: লূত ও তাঁর দুই কন্যা। ইবন কাসীর বলেন উল্টো দিক থেকে: তাঁর জাতির একজনও লূতের উপর ঈমান আনেনি, একজন পুরুষও না, এমনকি তাঁর স্ত্রীও না। তার জাতির উপর যা নেমেছিল, তার উপরও তা-ই নেমেছিল। আর আল্লাহর নবী লূত তাদের মাঝখান থেকে বেরিয়ে গেলেন তাঁর কন্যাদের নিয়ে, নিরাপদে, কোনো অনিষ্ট তাঁকে ছুঁতে পারেনি। ইবন কাসীর কন্যাদের কথা বলেন সংখ্যা ছাড়া, আর কুরতুবী ও বাগাভী বলেন দুজন। পার্থক্যটা যেমন ছিল তেমনই রাখা হল।"
+            "bn": "এরপর সংখ্যা। কুরতুবী যোগ করেন: আর তাঁর দুই কন্যা ছাড়া কেউ ছিল না। বাগাভী কথাটির ব্যাখ্যা দেন এভাবে: লূত ও তাঁর দুই কন্যা। ইবন কাসীর বলেন উল্টো দিক থেকে: তাঁর জাতির একজনও লূতের উপর ঈমান আনেনি, একজন পুরুষও না, এমনকি তাঁর স্ত্রীও না। তার জাতির উপর যা নেমেছিল, তার উপরও তা-ই নেমেছিল। আর আল্লাহর নবী লূত তাদের মাঝখান থেকে বেরিয়ে গেলেন তাঁর কন্যাদের নিয়ে, নিরাপদে, কোনো অনিষ্ট তাঁকে ছুঁতে পারেনি। ইবন কাসীর কন্যাদের কথা বলেন সংখ্যা ছাড়া, আর কুরতুবী ও বাগাভী বলেন দুজন। পার্থক্যটা যেমন ছিল তেমনই রাখা হল।"
           },
           {
             "en": "The verse itself names no wife and no daughters. Of the commentaries consulted for this verse, only Ibn Kathir mentions the wife, and he does so to say that she was not among the saved. The others define the family, and count it, without her. Read together, the sources make one point without strain: living in the prophet's house did not place a person inside the exception. Believing him and following him did. That is all they say here, and the article says no more.",
-            "bn": "আয়াত নিজে কোনো স্ত্রী বা কন্যার নাম নেয় না। এ আয়াতের জন্য আনা তাফসীরগুলোর মধ্যে শুধু ইবন কাসীর স্ত্রীর কথা তোলেন, আর তোলেন এটুকু বলতে যে সে বেঁচে যাওয়াদের মধ্যে ছিল না। বাকিরা পরিবারের সংজ্ঞা দেন, সংখ্যাও বলেন, তাকে বাদ রেখেই। একসঙ্গে পড়লে উৎসগুলো সহজেই একটা কথা বলে: নবীর ঘরে থাকলেই কেউ ব্যতিক্রমের ভেতরে ঢুকে যায়নি। ঢুকেছিল তাঁকে বিশ্বাস করে আর তাঁর অনুসরণ করে। এখানে তাঁরা এটুকুই বলেন, আর এ লেখাও এর বেশি বলে না।"
+            "bn": "আয়াত নিজে কোনো স্ত্রী বা কন্যার নাম নেয় না। এ আয়াতের জন্য আনা তাফসীরগুলোর মধ্যে শুধু ইবন কাসীর স্ত্রীর কথা তোলেন, আর তোলেন এটুকু বলতে যে সে বেঁচে যাওয়াদের মধ্যে ছিল না। বাকিরা পরিবারের সংজ্ঞা দেন, সংখ্যাও বলেন, তাকে বাদ রেখেই। একসঙ্গে পড়লে উৎসগুলো সহজেই একটা কথা বলে: নবীর ঘরে থাকলেই কেউ ব্যতিক্রমের ভেতরে ঢুকে যায়নি। ঢুকেছিল তাঁকে বিশ্বাস করে আর তাঁর অনুসরণ করে। এখানে তাঁরা এটুকুই বলেন, আর এ লেখাও এর বেশি বলে না।"
           }
         ]
       },
@@ -749,15 +749,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Najjaynahum bi-sahar: We saved them at sahar. Al-Qurtubi defines the hour precisely. Sahar is what lies between the last of the night and the rising of dawn, and in the speech of the Arabs it is the mixing of the night's blackness with the whiteness of the day's beginning, because at that time there are traces of the night and traces of the day together. Ibn Kathir says they went out at the end of the night and were saved from what struck their people. Al-Muyassar likewise: We saved them from the punishment in the last part of the night.",
-            "bn": "নাজ্জাইনাহুম বিসাহার: তাদের আমি বাঁচিয়েছিলাম সাহারের সময়। কুরতুবী প্রহরটির নিখুঁত সংজ্ঞা দেন। সাহার হল রাতের শেষ অংশ থেকে ফজর উদয় হওয়া পর্যন্ত সময়। আরবদের ভাষায় তা রাতের কালোর সঙ্গে দিনের শুরুর সাদার মিশে যাওয়া, কারণ এ সময়ে রাতের চিহ্ন আর দিনের চিহ্ন একসঙ্গে থাকে। ইবন কাসীর বলেন, তারা রাতের শেষভাগে বেরিয়ে পড়েছিল, আর তাদের জাতির উপর যা নেমেছিল তা থেকে বেঁচে গিয়েছিল। মুয়াসসারও একই কথা বলে: রাতের শেষ ভাগে আমি তাদের শাস্তি থেকে বাঁচিয়েছিলাম।"
+            "bn": "নাজ্জাইনাহুম বিসাহার: তাদের আমি বাঁচিয়েছিলাম সাহারের সময়। কুরতুবী প্রহরটির নিখুঁত সংজ্ঞা দেন। সাহার হল রাতের শেষ অংশ থেকে ফজর উদয় হওয়া পর্যন্ত সময়। আরবদের ভাষায় তা রাতের কালোর সঙ্গে দিনের শুরুর সাদার মিশে যাওয়া, কারণ এ সময়ে রাতের চিহ্ন আর দিনের চিহ্ন একসঙ্গে থাকে। ইবন কাসীর বলেন, তারা রাতের শেষভাগে বেরিয়ে পড়েছিল, আর তাদের জাতির উপর যা নেমেছিল তা থেকে বেঁচে গিয়েছিল। মুয়াসসারও একই কথা বলে: রাতের শেষ ভাগে আমি তাদের শাস্তি থেকে বাঁচিয়েছিলাম।"
           },
           {
             "en": "Al-Qurtubi then turns to the grammar of the single word. He reports al-Akhfash: the word takes tanwin, the final n sound, because it is indefinite; had a particular day's sahar been meant, it would not. He gives a parallel from the Qur'an. Ihbitu misran, go down to a city, in 2:61, is indefinite and takes tanwin; udkhulu Misra in sha' Allah, enter Egypt, if Allah wills, in 12:99, names one place and does not. Az-Zajjaj, in al-Qurtubi, says the same: an indefinite sahar means one of the many pre-dawn hours.",
-            "bn": "এরপর কুরতুবী এই একটি শব্দের ব্যাকরণে যান। তিনি আখফাশের কথা আনেন: শব্দটিতে তানবীন, অর্থাৎ শেষের ন-ধ্বনি এসেছে, কারণ তা অনির্দিষ্ট। কোনো নির্দিষ্ট দিনের সাহার বোঝানো হলে তানবীন আসত না। এর একটা নজির তিনি কুরআন থেকেই দেন। ২:৬১ আয়াতে ইহবিতূ মিসরান, কোনো এক শহরে নেমে যাও, অনির্দিষ্ট, তাই তানবীনসহ। আর ১২:৯৯ আয়াতে উদখুলূ মিসরা ইনশাআল্লাহ, মিসরে প্রবেশ কর, ইনশাআল্লাহ, একটি নির্দিষ্ট জায়গার নাম, তাই তানবীন নেই। কুরতুবীর বর্ণনায় যাজ্জাজও একই কথা বলেন: অনির্দিষ্ট সাহার মানে অনেক ভোররাতের মধ্যে একটি।"
+            "bn": "এরপর কুরতুবী এই একটি শব্দের ব্যাকরণে যান। তিনি আখফাশের কথা আনেন: শব্দটিতে তানবীন, অর্থাৎ শেষের ন-ধ্বনি এসেছে, কারণ তা অনির্দিষ্ট। কোনো নির্দিষ্ট দিনের সাহার বোঝানো হলে তানবীন আসত না। এর একটা নজির তিনি কুরআন থেকেই দেন। ২:৬১ আয়াতে ইহবিতূ মিসরান, কোনো এক শহরে নেমে যাও, অনির্দিষ্ট, তাই তানবীনসহ। আর ১২:৯৯ আয়াতে উদখুলূ মিসরা ইনশাআল্লাহ, মিসরে প্রবেশ কর, ইনশাআল্লাহ, একটি নির্দিষ্ট জায়গার নাম, তাই তানবীন নেই। কুরতুবীর বর্ণনায় যাজ্জাজও একই কথা বলেন: অনির্দিষ্ট সাহার মানে অনেক ভোররাতের মধ্যে একটি।"
           },
           {
             "en": "So on their reading bi-saharin points to a time of night, not to a named date. The hour is fixed by its character, the last dark before the first light, and the verse does not stop to say which night it was. A few verses later, 54:38 says that the punishment came upon them bukratan, early in the morning; that verse belongs to its own place. The sources consulted here put the departure at the end of the night and do not measure the gap between leaving and the stones, so this article does not measure it either.",
-            "bn": "তাঁদের পাঠে বিসাহারিন তাই রাতের একটা সময়কে বোঝায়, নির্দিষ্ট কোনো তারিখকে নয়। প্রহরটি চেনা যায় তার বৈশিষ্ট্য দিয়ে: প্রথম আলোর ঠিক আগের শেষ অন্ধকার। কোন রাত ছিল, আয়াত থেমে তা বলে না। কয়েক আয়াত পরে ৫৪:৩৮ আয়াত বলে, শাস্তি তাদের উপর এসেছিল বুকরাতান, ভোরবেলা। সে আয়াতের আলোচনা তার নিজের জায়গায়। এখানে আনা উৎসগুলো বেরিয়ে পড়াকে রাখে রাতের শেষে। বেরিয়ে পড়া আর পাথর নামার মাঝে কতটা সময় ছিল, তা তারা মাপে না। তাই এ লেখাও তা মাপতে যায় না।"
+            "bn": "তাঁদের পাঠে বিসাহারিন তাই রাতের একটা সময়কে বোঝায়, নির্দিষ্ট কোনো তারিখকে নয়। প্রহরটি চেনা যায় তার বৈশিষ্ট্য দিয়ে: প্রথম আলোর ঠিক আগের শেষ অন্ধকার। কোন রাত ছিল, আয়াত থেমে তা বলে না। কয়েক আয়াত পরে ৫৪:৩৮ আয়াত বলে, শাস্তি তাদের উপর এসেছিল বুকরাতান, ভোরবেলা। সে আয়াতের আলোচনা তার নিজের জায়গায়। এখানে আনা উৎসগুলো বেরিয়ে পড়াকে রাখে রাতের শেষে। বেরিয়ে পড়া আর পাথর নামার মাঝে কতটা সময় ছিল, তা তারা মাপে না। তাই এ লেখাও তা মাপতে যায় না।"
           }
         ]
       },
@@ -769,11 +769,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Najjaynahum is a strong verb: We delivered them, We brought them out safe. At-Tabari does not let it stand alone. He reads the rescue straight into the words that open the next verse, ni'matan min 'indina, as a favour from Us, and explains: a favour We bestowed on Lut and his family, and an honour, karama, with which We honoured them, from Us. For at-Tabari the departure before dawn is not good timing or quick wits. It is a gift, and a mark of standing with Allah, given to those who had believed.",
-            "bn": "নাজ্জাইনাহুম একটা জোরালো ক্রিয়া: আমি তাদের উদ্ধার করেছিলাম, নিরাপদে বের করে এনেছিলাম। তাবারী একে একা দাঁড়াতে দেন না। পরের আয়াতের শুরুর শব্দগুলোর সঙ্গে তিনি এই উদ্ধারকে সরাসরি জুড়ে পড়েন: নি'মাতাম মিন ইন্দিনা, আমার পক্ষ থেকে অনুগ্রহ হিসেবে। তারপর ব্যাখ্যা দেন: এ এক নিয়ামত, যা আমি লূত ও তাঁর পরিবারকে দিয়েছিলাম, আর এক কারামত, এক সম্মান, যা দিয়ে আমি নিজের পক্ষ থেকে তাদের সম্মানিত করেছিলাম। তাবারীর কাছে ভোরের আগে বেরিয়ে পড়াটা ঠিক সময়ের হিসাব বা চটপটে বুদ্ধির ফল নয়। এ এক দান, আল্লাহর কাছে মর্যাদার চিহ্ন, যা দেওয়া হয়েছিল ঈমান আনা মানুষদের।"
+            "bn": "নাজ্জাইনাহুম একটা জোরালো ক্রিয়া: আমি তাদের উদ্ধার করেছিলাম, নিরাপদে বের করে এনেছিলাম। তাবারী একে একা দাঁড়াতে দেন না। পরের আয়াতের শুরুর শব্দগুলোর সঙ্গে তিনি এই উদ্ধারকে সরাসরি জুড়ে পড়েন: নি'মাতাম মিন ইন্দিনা, আমার পক্ষ থেকে অনুগ্রহ হিসেবে। তারপর ব্যাখ্যা দেন: এ এক নিয়ামত, যা আমি লূত ও তাঁর পরিবারকে দিয়েছিলাম, আর এক কারামত, এক সম্মান, যা দিয়ে আমি নিজের পক্ষ থেকে তাদের সম্মানিত করেছিলাম। তাবারীর কাছে ভোরের আগে বেরিয়ে পড়াটা ঠিক সময়ের হিসাব বা চটপটে বুদ্ধির ফল নয়। এ এক দান, আল্লাহর কাছে মর্যাদার চিহ্ন, যা দেওয়া হয়েছিল ঈমান আনা মানুষদের।"
           },
           {
             "en": "Al-Muyassar, which comments on this verse and the next together, ties the favour to a pattern. As We rewarded Lut and his family, favoured them and saved them from Our punishment, so We reward whoever believes in Us and thanks Us. Ibn Kathir describes Lut (AS) going out salim, safe, with no harm touching him. That next verse, with its line about how Allah rewards the grateful, has its own place and is only pointed to here. What this verse already shows is that the rescue arrives in the language of gift.",
-            "bn": "মুয়াসসার এই আয়াত আর পরের আয়াতের ব্যাখ্যা একসঙ্গে দেয়, আর অনুগ্রহটাকে একটা নিয়মের সঙ্গে বাঁধে। যেভাবে আমি লূত ও তাঁর পরিবারকে প্রতিদান দিয়েছি, তাদের উপর অনুগ্রহ করেছি আর আমার শাস্তি থেকে তাদের বাঁচিয়েছি, সেভাবেই আমি প্রতিদান দিই তাকে, যে আমার উপর ঈমান আনে আর আমার শোকর করে। ইবন কাসীর বলেন, লূত (আঃ) বেরিয়েছিলেন সালিম, নিরাপদে, কোনো অনিষ্ট তাঁকে ছোঁয়নি। কৃতজ্ঞদের আল্লাহ কীভাবে প্রতিদান দেন, পরের আয়াতের সেই কথার আলোচনা তার নিজের জায়গায়, এখানে শুধু ইশারা। এই আয়াত এটুকু দেখিয়ে দেয় যে উদ্ধার আসে দানের ভাষায়।"
+            "bn": "মুয়াসসার এই আয়াত আর পরের আয়াতের ব্যাখ্যা একসঙ্গে দেয়, আর অনুগ্রহটাকে একটা নিয়মের সঙ্গে বাঁধে। যেভাবে আমি লূত ও তাঁর পরিবারকে প্রতিদান দিয়েছি, তাদের উপর অনুগ্রহ করেছি আর আমার শাস্তি থেকে তাদের বাঁচিয়েছি, সেভাবেই আমি প্রতিদান দিই তাকে, যে আমার উপর ঈমান আনে আর আমার শোকর করে। ইবন কাসীর বলেন, লূত (আঃ) বেরিয়েছিলেন সালিম, নিরাপদে, কোনো অনিষ্ট তাঁকে ছোঁয়নি। কৃতজ্ঞদের আল্লাহ কীভাবে প্রতিদান দেন, পরের আয়াতের সেই কথার আলোচনা তার নিজের জায়গায়, এখানে শুধু ইশারা। এই আয়াত এটুকু দেখিয়ে দেয় যে উদ্ধার আসে দানের ভাষায়।"
           }
         ]
       },
@@ -785,18 +785,18 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What had the people done? The verse names nothing beyond what 54:33 says, that they denied the warnings. The Arabic commentaries consulted for this verse add no list of deeds: at-Tabari speaks of his people who denied him, Ibn Kathir of a people none of whom believed. Only the abridged English Ibn Kathir, which treats 54:33 to 54:40 as one passage, names more. In its words, the people of Lut defied and denied their Messenger and committed sodomy, the awful immoral sin that no people in the history of mankind had committed before.",
-            "bn": "জাতিটি কী করেছিল? ৫৪:৩৩ আয়াত যা বলে, অর্থাৎ তারা সতর্কবাণী অস্বীকার করেছিল, এই আয়াত তার বেশি কিছু নাম ধরে বলে না। এ আয়াতের জন্য আনা আরবি তাফসীরগুলোও কাজের কোনো তালিকা দেয় না। তাবারী বলেন তাঁর সেই জাতির কথা, যারা তাঁকে অস্বীকার করেছিল। ইবন কাসীর বলেন এমন এক জাতির কথা, যাদের একজনও ঈমান আনেনি। শুধু ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ, যা ৫৪:৩৩ থেকে ৫৪:৪০ পর্যন্ত এক অংশ ধরে আলোচনা করে, আরও কিছু নাম ধরে বলে। তার ভাষায়, লূতের জাতি তাদের রাসূলকে অমান্য ও অস্বীকার করেছিল, আর লিপ্ত হয়েছিল পায়ুকামে, সেই জঘন্য অশ্লীল পাপে, যা মানবজাতির ইতিহাসে তাদের আগে কোনো জাতি করেনি।"
+            "bn": "জাতিটি কী করেছিল? ৫৪:৩৩ আয়াত যা বলে, অর্থাৎ তারা সতর্কবাণী অস্বীকার করেছিল, এই আয়াত তার বেশি কিছু নাম ধরে বলে না। এ আয়াতের জন্য আনা আরবি তাফসীরগুলোও কাজের কোনো তালিকা দেয় না। তাবারী বলেন তাঁর সেই জাতির কথা, যারা তাঁকে অস্বীকার করেছিল। ইবন কাসীর বলেন এমন এক জাতির কথা, যাদের একজনও ঈমান আনেনি। শুধু ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ, যা ৫৪:৩৩ থেকে ৫৪:৪০ পর্যন্ত এক অংশ ধরে আলোচনা করে, আরও কিছু নাম ধরে বলে। তার ভাষায়, লূতের জাতি তাদের রাসূলকে অমান্য ও অস্বীকার করেছিল, আর লিপ্ত হয়েছিল পায়ুকামে, সেই জঘন্য অশ্লীল পাপে, যা মানবজাতির ইতিহাসে তাদের আগে কোনো জাতি করেনি।"
           },
           {
             "en": "The same abridgement says this is why Allah destroyed them with a kind of torment He had inflicted on no nation before them, and describes Jibril commanded to raise their cities and overturn them, followed by stones of marked sijjil; it then quotes this verse. It gives no chain for that description, and it is reported here as Ibn Kathir's account. As for hadith, none of the tafsirs consulted for 54:34 attaches a narration of the Prophet ﷺ to this verse, so the article quotes none. None of them reports an occasion of revelation for it either.",
-            "bn": "একই সংক্ষিপ্ত সংস্করণ বলে, এ কারণেই আল্লাহ তাদের এমন ধরনের শাস্তিতে ধ্বংস করেছিলেন, যা তাদের আগে কোনো জাতির উপর দেননি। সেখানে বর্ণনা আছে, জিবরীলকে আদেশ করা হয়েছিল তাদের শহরগুলো উপরে তুলে উল্টে দিতে, তারপর তাদের উপর পড়েছিল চিহ্নিত সিজ্জীলের পাথর। এরপর সে এই আয়াতটি উদ্ধৃত করে। এ বর্ণনার কোনো সনদ সেখানে দেওয়া নেই, তাই এখানে তা আনা হল ইবন কাসীরের বিবরণ হিসেবেই। আর হাদিসের কথা: ৫৪:৩৪ আয়াতের জন্য আনা কোনো তাফসীর নবী ﷺ-এর কোনো বর্ণনা এ আয়াতের সঙ্গে যুক্ত করেনি, তাই এ লেখাও কোনো হাদিস উদ্ধৃত করে না। আয়াতটির কোনো শানে নুযূলও এই তাফসীরগুলোর কোনোটিতে আসেনি।"
+            "bn": "একই সংক্ষিপ্ত সংস্করণ বলে, এ কারণেই আল্লাহ তাদের এমন ধরনের শাস্তিতে ধ্বংস করেছিলেন, যা তাদের আগে কোনো জাতির উপর দেননি। সেখানে বর্ণনা আছে, জিবরীলকে আদেশ করা হয়েছিল তাদের শহরগুলো উপরে তুলে উল্টে দিতে, তারপর তাদের উপর পড়েছিল চিহ্নিত সিজ্জীলের পাথর। এরপর সে এই আয়াতটি উদ্ধৃত করে। এ বর্ণনার কোনো সনদ সেখানে দেওয়া নেই, তাই এখানে তা আনা হল ইবন কাসীরের বিবরণ হিসেবেই। আর হাদিসের কথা: ৫৪:৩৪ আয়াতের জন্য আনা কোনো তাফসীর নবী ﷺ-এর কোনো বর্ণনা এ আয়াতের সঙ্গে যুক্ত করেনি, তাই এ লেখাও কোনো হাদিস উদ্ধৃত করে না। আয়াতটির কোনো শানে নুযূলও এই তাফসীরগুলোর কোনোটিতে আসেনি।"
           }
         ]
       },
       {
         "h": {
           "en": "A Verdict Already Given",
-          "bn": "যে রায় দেওয়া হয়ে গেছে"
+          "bn": "যে রায় দেওয়া হয়ে গেছে"
         },
         "p": [
           {
@@ -805,7 +805,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse shows where the action lay. Arsalna, We sent; najjaynahum, We saved. Both verbs belong to Allah, and neither is handed to a reader. Lut (AS), by the account of 54:36, warned his people; the stones were not his to throw. The place the surah gives its reader is not the place of the one who punishes but of the one being reminded. That is why 54:32 comes before this story and 54:40 after it, with the same question: is there anyone who will take heed?",
-            "bn": "কাজটা কার হাতে ছিল, আয়াত তা দেখিয়ে দেয়। আরসালনা, আমি পাঠিয়েছিলাম; নাজ্জাইনাহুম, আমি বাঁচিয়েছিলাম। দুটি ক্রিয়াই আল্লাহর, কোনোটিই পাঠকের হাতে তুলে দেওয়া হয়নি। ৫৪:৩৬ আয়াতের বর্ণনায় লূত (আঃ) তাঁর জাতিকে সতর্ক করেছিলেন। পাথর ছোড়া তাঁর কাজ ছিল না। সূরা তার পাঠককে শাস্তিদাতার জায়গায় বসায় না, বসায় যাকে মনে করিয়ে দেওয়া হচ্ছে তার জায়গায়। এ কারণেই এই কাহিনির আগে আছে ৫৪:৩২ আয়াত, আর পরে ৫৪:৪০ আয়াত, একই প্রশ্ন নিয়ে: উপদেশ নেওয়ার কেউ আছে কি?"
+            "bn": "কাজটা কার হাতে ছিল, আয়াত তা দেখিয়ে দেয়। আরসালনা, আমি পাঠিয়েছিলাম; নাজ্জাইনাহুম, আমি বাঁচিয়েছিলাম। দুটি ক্রিয়াই আল্লাহর, কোনোটিই পাঠকের হাতে তুলে দেওয়া হয়নি। ৫৪:৩৬ আয়াতের বর্ণনায় লূত (আঃ) তাঁর জাতিকে সতর্ক করেছিলেন। পাথর ছোড়া তাঁর কাজ ছিল না। সূরা তার পাঠককে শাস্তিদাতার জায়গায় বসায় না, বসায় যাকে মনে করিয়ে দেওয়া হচ্ছে তার জায়গায়। এ কারণেই এই কাহিনির আগে আছে ৫৪:৩২ আয়াত, আর পরে ৫৪:৪০ আয়াত, একই প্রশ্ন নিয়ে: উপদেশ নেওয়ার কেউ আছে কি?"
           }
         ]
       },
@@ -817,7 +817,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What can a reader carry from the hour? Sahar, as al-Qurtubi defines it, is the time when traces of the night and traces of the day lie together. The saved were those who moved in that hour, on a word they had believed, before anything around them had visibly changed. The town still looked as it always had. Rescue in this verse belongs to people who acted on a warning while the street was still ordinary, and not to those who waited for the light to prove it.",
-            "bn": "এই প্রহর থেকে পাঠক কী নিয়ে যেতে পারেন? কুরতুবীর সংজ্ঞায় সাহার সেই সময়, যখন রাতের চিহ্ন আর দিনের চিহ্ন পাশাপাশি থাকে। বেঁচে গিয়েছিল তারাই, যারা সেই প্রহরে রওনা দিয়েছিল একটা কথার উপর ভরসা করে, যা তারা বিশ্বাস করেছিল। তখনও চারপাশে চোখে পড়ার মতো কিছুই বদলায়নি। শহর দেখতে তখনও আগের মতোই। এ আয়াতে উদ্ধার তাদের, যারা রাস্তা স্বাভাবিক থাকতেই সতর্কবাণী মেনে কাজ করেছিল। তাদের নয়, যারা অপেক্ষা করছিল আলো এসে কথাটা প্রমাণ করে দিক।"
+            "bn": "এই প্রহর থেকে পাঠক কী নিয়ে যেতে পারেন? কুরতুবীর সংজ্ঞায় সাহার সেই সময়, যখন রাতের চিহ্ন আর দিনের চিহ্ন পাশাপাশি থাকে। বেঁচে গিয়েছিল তারাই, যারা সেই প্রহরে রওনা দিয়েছিল একটা কথার উপর ভরসা করে, যা তারা বিশ্বাস করেছিল। তখনও চারপাশে চোখে পড়ার মতো কিছুই বদলায়নি। শহর দেখতে তখনও আগের মতোই। এ আয়াতে উদ্ধার তাদের, যারা রাস্তা স্বাভাবিক থাকতেই সতর্কবাণী মেনে কাজ করেছিল। তাদের নয়, যারা অপেক্ষা করছিল আলো এসে কথাটা প্রমাণ করে দিক।"
           },
           {
             "en": "And there is the measure of who was counted in. In at-Tabari's reading the family is those who believed and followed; Ibn Kathir notes that not even Lut's wife was among the saved. Nearness to a prophet's house did not, by itself, count. Following did. That is a mirror to hold up to oneself, never a ruler to lay across other people; who is inside and who is outside is known to Allah alone. The question the verse leaves is personal: when the warning comes to me, am I among those who move?",
@@ -837,15 +837,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This is the fourth and last time Surah al-Qamar sounds its refrain, and the place where it falls is worth reading slowly. Just before it, 54:33 to 54:39 tell of the people of Lut (AS). In 54:36 he had warned them of Our seizing, fa-tamaraw bin-nudhur: and they disputed the warnings. Ibn Kathir's abridged English commentary puts it plainly: they did not heed the warning, nor listen to Lut, but doubted and disputed it. Then 54:37 and 54:39 both end with the same words: so taste My punishment and My warnings.",
-            "bn": "সূরা আল-কামারের ধ্রুবপদটি এখানে চতুর্থ ও শেষবারের মতো বাজে। কোথায় বাজে, সেটা ধীরে পড়ার মতো। ঠিক আগে ৫৪:৩৩ থেকে ৫৪:৩৯ আয়াতে আছে লূত (আঃ)-এর জাতির কাহিনি। ৫৪:৩৬ আয়াত বলছে, তিনি তাদেরকে আমার কঠোর পাকড়াও সম্পর্কে সতর্ক করেছিলেন, ফা-তামারাও বিন-নুযুর: কিন্তু তারা সতর্কবাণী নিয়ে বিতর্ক করল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর সোজা কথায় বলে, তারা সতর্কবাণীতে কান দেয়নি, লূতের কথাও শোনেনি, বরং তাতে সন্দেহ আর তর্ক করেছে। এরপর ৫৪:৩৭ ও ৫৪:৩৯ আয়াত শেষ হয় একই কথায়: অতএব আমার আযাব ও আমার সতর্কবাণীর স্বাদ নাও।"
+            "bn": "সূরা আল-কামারের ধ্রুবপদটি এখানে চতুর্থ ও শেষবারের মতো বাজে। কোথায় বাজে, সেটা ধীরে পড়ার মতো। ঠিক আগে ৫৪:৩৩ থেকে ৫৪:৩৯ আয়াতে আছে লূত (আঃ)-এর জাতির কাহিনি। ৫৪:৩৬ আয়াত বলছে, তিনি তাদেরকে আমার কঠোর পাকড়াও সম্পর্কে সতর্ক করেছিলেন, ফা-তামারাও বিন-নুযুর: কিন্তু তারা সতর্কবাণী নিয়ে বিতর্ক করল। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর সোজা কথায় বলে, তারা সতর্কবাণীতে কান দেয়নি, লূতের কথাও শোনেনি, বরং তাতে সন্দেহ আর তর্ক করেছে। এরপর ৫৪:৩৭ ও ৫৪:৩৯ আয়াত শেষ হয় একই কথায়: অতএব আমার আযাব ও আমার সতর্কবাণীর স্বাদ নাও।"
           },
           {
             "en": "Into that silence the refrain speaks: and We have certainly made the Qur'an easy for remembrance, so is there anyone who will take heed? Set beside 54:36, the contrast is sharp. Those people argued with the warnings sent to them; this Book is offered to whoever might take heed of its warnings. Straight after, 54:41 and 54:42 turn to Pharaoh's people, to whom the warnings also came and who denied all Our signs. Then 54:43 addresses the hearers directly: are your disbelievers better than those?",
-            "bn": "সেই নীরবতার মধ্যে ধ্রুবপদটি কথা বলে ওঠে: আমি কুরআনকে উপদেশ গ্রহণের জন্য সহজ করে দিয়েছি, উপদেশ নেওয়ার কেউ আছে কি? ৫৪:৩৬ আয়াতের পাশে রাখলে বৈপরীত্যটা চোখে পড়ে। ওই লোকেরা তাদের কাছে আসা সতর্কবাণী নিয়ে তর্ক করেছিল। আর এই কিতাব পেশ করা হচ্ছে তার কাছে, যে এর সতর্কবাণী থেকে শিক্ষা নিতে পারে। এর পরপরই ৫৪:৪১ ও ৫৪:৪২ আয়াত ফিরআউনের লোকদের দিকে ফেরে। তাদের কাছেও সতর্কবাণী এসেছিল, আর তারা আমার সব নিদর্শন অস্বীকার করেছিল। তারপর ৫৪:৪৩ আয়াত সরাসরি শ্রোতাদের জিজ্ঞেস করে: তোমাদের কাফিররা কি ওদের চেয়ে ভালো?"
+            "bn": "সেই নীরবতার মধ্যে ধ্রুবপদটি কথা বলে ওঠে: আমি কুরআনকে উপদেশ গ্রহণের জন্য সহজ করে দিয়েছি, উপদেশ নেওয়ার কেউ আছে কি? ৫৪:৩৬ আয়াতের পাশে রাখলে বৈপরীত্যটা চোখে পড়ে। ওই লোকেরা তাদের কাছে আসা সতর্কবাণী নিয়ে তর্ক করেছিল। আর এই কিতাব পেশ করা হচ্ছে তার কাছে, যে এর সতর্কবাণী থেকে শিক্ষা নিতে পারে। এর পরপরই ৫৪:৪১ ও ৫৪:৪২ আয়াত ফেরাউনের লোকদের দিকে ফেরে। তাদের কাছেও সতর্কবাণী এসেছিল, আর তারা আমার সব নিদর্শন অস্বীকার করেছিল। তারপর ৫৪:৪৩ আয়াত সরাসরি শ্রোতাদের জিজ্ঞেস করে: তোমাদের কাফিররা কি ওদের চেয়ে ভালো?"
           },
           {
             "en": "Something needs saying plainly before going further. These verses speak of the people of Lut: a warning disputed, guests demanded, and a punishment that arrived in the morning. They license nothing against any living person or community, and they hand no reader a list of others to condemn. The refrain itself points the other way. Its question is not about that people at all. It is put to whoever is listening, which is why the rest of this article stays with the listener.",
-            "bn": "সামনে এগোনোর আগে একটা কথা সোজাসুজি বলে রাখা দরকার। এই আয়াতগুলো লূত (আঃ)-এর জাতির কথা বলে: সতর্কবাণী নিয়ে বিতর্ক, মেহমানদের দাবি, আর ভোরবেলা নেমে আসা আযাব। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াতগুলো দেয় না। কোনো পাঠকের হাতে অন্যদের দোষী সাব্যস্ত করার তালিকাও তুলে দেয় না। ধ্রুবপদটি নিজেই উল্টো দিকে ইশারা করে। এর প্রশ্ন ওই জাতিকে নিয়ে নয়। প্রশ্নটা করা হয়েছে যে শুনছে তাকে। তাই এ লেখার বাকি অংশ শ্রোতার সঙ্গেই থাকবে।"
+            "bn": "সামনে এগোনোর আগে একটা কথা সোজাসুজি বলে রাখা দরকার। এই আয়াতগুলো লূত (আঃ)-এর জাতির কথা বলে: সতর্কবাণী নিয়ে বিতর্ক, মেহমানদের দাবি, আর ভোরবেলা নেমে আসা আযাব। আজকের কোনো জীবিত মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে কিছু করার অনুমতি এ আয়াতগুলো দেয় না। কোনো পাঠকের হাতে অন্যদের দোষী সাব্যস্ত করার তালিকাও তুলে দেয় না। ধ্রুবপদটি নিজেই উল্টো দিকে ইশারা করে। এর প্রশ্ন ওই জাতিকে নিয়ে নয়। প্রশ্নটা করা হয়েছে যে শুনছে তাকে। তাই এ লেখার বাকি অংশ শ্রোতার সঙ্গেই থাকবে।"
           }
         ]
       },
@@ -857,79 +857,79 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi's commentary on this verse gives a short reason for the repetition: it was repeated in this surah for alerting and for making understood. He then records a fuller explanation, introduced with the words it is said. In this surah, on that view, Allah recounted to this community the reports of earlier nations and the stories of the messengers, how the nations treated them, and how matters ended for both. So in every story and report there was a reminder for the listener, if only he would take heed.",
-            "bn": "এই আয়াতের ব্যাখ্যায় কুরতুবীর তাফসীর পুনরাবৃত্তির একটি সংক্ষিপ্ত কারণ দেয়: সতর্ক করা আর বুঝিয়ে দেওয়ার জন্যই এ সূরায় বাক্যটি বারবার এসেছে। এরপর তিনি 'বলা হয়' কথাটি দিয়ে আরেকটু বিস্তারিত ব্যাখ্যা উদ্ধৃত করেন। সেই মত অনুযায়ী, এ সূরায় আল্লাহ এই উম্মতকে আগের জাতিগুলোর খবর আর রাসূলদের কাহিনি শুনিয়েছেন। জাতিগুলো রাসূলদের সঙ্গে কেমন আচরণ করেছিল, আর দুই পক্ষের পরিণাম কী হয়েছিল, তাও শুনিয়েছেন। ফলে প্রতিটি কাহিনি আর প্রতিটি খবরে শ্রোতার জন্য উপদেশ ছিল, যদি সে উপদেশ নিত।"
+            "bn": "এই আয়াতের ব্যাখ্যায় কুরতুবীর তাফসীর পুনরাবৃত্তির একটি সংক্ষিপ্ত কারণ দেয়: সতর্ক করা আর বুঝিয়ে দেওয়ার জন্যই এ সূরায় বাক্যটি বারবার এসেছে। এরপর তিনি 'বলা হয়' কথাটি দিয়ে আরেকটু বিস্তারিত ব্যাখ্যা উদ্ধৃত করেন। সেই মত অনুযায়ী, এ সূরায় আল্লাহ এই উম্মতকে আগের জাতিগুলোর খবর আর রাসূলদের কাহিনি শুনিয়েছেন। জাতিগুলো রাসূলদের সঙ্গে কেমন আচরণ করেছিল, আর দুই পক্ষের পরিণাম কী হয়েছিল, তাও শুনিয়েছেন। ফলে প্রতিটি কাহিনি আর প্রতিটি খবরে শ্রোতার জন্য উপদেশ ছিল, যদি সে উপদেশ নিত।"
           },
           {
             "en": "The same report explains why the line comes after each story in the form of a question. Hal, in al-Qurtubi's text, is a word of asking that calls upon the understanding placed within the hearers, and makes that understanding a proof against them. It adds that the lam of hal is for laying the matter before them and the ha for drawing a response out. A statement can be received and set aside; a question waits for an answer. Here it waits a fourth time, after the fourth story.",
-            "bn": "প্রতিটি কাহিনির পরে বাক্যটি কেন প্রশ্নের আকারে আসে, সে ব্যাখ্যাও ওই একই বর্ণনায় আছে। কুরতুবীর পাঠে 'হাল' প্রশ্নবোধক শব্দ। শ্রোতাদের ভেতরে যে বোধশক্তি বসিয়ে দেওয়া হয়েছে, এ শব্দ সেই বোধকে ডেকে আনে, আর সেই বোধকেই তাদের বিরুদ্ধে প্রমাণ বানিয়ে দেয়। সেখানে আরও বলা হয়েছে, 'হাল'-এর লাম বিষয়টা তাদের সামনে মেলে ধরার জন্য, আর হা তাদের কাছ থেকে জবাব বের করে আনার জন্য। কোনো বিবৃতি শুনে পাশে সরিয়ে রাখা যায়। প্রশ্ন কিন্তু উত্তরের অপেক্ষায় থাকে। চতুর্থ কাহিনির পরে এখানে প্রশ্নটা চতুর্থবার অপেক্ষা করছে।"
+            "bn": "প্রতিটি কাহিনির পরে বাক্যটি কেন প্রশ্নের আকারে আসে, সে ব্যাখ্যাও ওই একই বর্ণনায় আছে। কুরতুবীর পাঠে 'হাল' প্রশ্নবোধক শব্দ। শ্রোতাদের ভেতরে যে বোধশক্তি বসিয়ে দেওয়া হয়েছে, এ শব্দ সেই বোধকে ডেকে আনে, আর সেই বোধকেই তাদের বিরুদ্ধে প্রমাণ বানিয়ে দেয়। সেখানে আরও বলা হয়েছে, 'হাল'-এর লাম বিষয়টা তাদের সামনে মেলে ধরার জন্য, আর হা তাদের কাছ থেকে জবাব বের করে আনার জন্য। কোনো বিবৃতি শুনে পাশে সরিয়ে রাখা যায়। প্রশ্ন কিন্তু উত্তরের অপেক্ষায় থাকে। চতুর্থ কাহিনির পরে এখানে প্রশ্নটা চতুর্থবার অপেক্ষা করছে।"
           }
         ]
       },
       {
         "h": {
           "en": "A Mount Saddled for Travel",
-          "bn": "সফরের জন্য তৈরি সওয়ারি"
+          "bn": "সফরের জন্য তৈরি সওয়ারি"
         },
         "p": [
           {
             "en": "What does yassarna, We made easy, actually claim? Al-Qurtubi's first answer is concrete: We made it easy for memorising, and We help whoever wants to memorise it. On this reading the question that follows becomes: is there anyone seeking to memorise it, so that he may be helped? The help is not abstract. It is promised to a person who sets out to carry the text, and the easing is measured by what such a person finds once he actually tries.",
-            "bn": "ইয়াস্‌সারনা, আমি সহজ করেছি, এ কথা আসলে কী দাবি করে? কুরতুবীর প্রথম উত্তর একেবারে বাস্তব: আমি একে মুখস্থ করার জন্য সহজ করেছি, আর যে মুখস্থ করতে চায় তাকে আমি সাহায্য করি। এ ব্যাখ্যায় পরের প্রশ্নটা দাঁড়ায় এমন: একে মুখস্থ করতে চায় এমন কেউ আছে কি, যাতে তাকে সাহায্য করা হয়? এ সাহায্য কোনো বিমূর্ত কথা নয়। সাহায্যের ওয়াদা সেই মানুষের জন্য, যে এ কিতাব বুকে ধারণ করতে রওনা হয়। আর সহজতা কতখানি, তা বোঝা যায় সে সত্যিই চেষ্টা শুরু করলে।"
+            "bn": "ইয়াস্‌সারনা, আমি সহজ করেছি, এ কথা আসলে কী দাবি করে? কুরতুবীর প্রথম উত্তর একেবারে বাস্তব: আমি একে মুখস্থ করার জন্য সহজ করেছি, আর যে মুখস্থ করতে চায় তাকে আমি সাহায্য করি। এ ব্যাখ্যায় পরের প্রশ্নটা দাঁড়ায় এমন: একে মুখস্থ করতে চায় এমন কেউ আছে কি, যাতে তাকে সাহায্য করা হয়? এ সাহায্য কোনো বিমূর্ত কথা নয়। সাহায্যের ওয়াদা সেই মানুষের জন্য, যে এ কিতাব বুকে ধারণ করতে রওনা হয়। আর সহজতা কতখানি, তা বোঝা যায় সে সত্যিই চেষ্টা শুরু করলে।"
           },
           {
             "en": "He then allows a second meaning: We have made it ready for remembrance. The sense, he says, comes from the Arab usage yassara naqatahu lis-safar, he made his camel ready for the journey, said when he had saddled it, and yassara farasahu lil-ghazw, he made his horse ready for a campaign, once he had put on its saddle and bridle. He supports it with a line of old verse about rising to a mount with the bridle in hand. The Qur'an, on this reading, is a mount already saddled and waiting.",
-            "bn": "এরপর তিনি দ্বিতীয় একটি অর্থের সুযোগ রাখেন: আমি একে স্মরণের জন্য প্রস্তুত করে রেখেছি। তাঁর মতে এ অর্থ এসেছে আরবদের প্রচলিত কথা থেকে। উটের পিঠে গদি চাপিয়ে সফরের জন্য তৈরি করলে বলা হয় ইয়াস্‌সারা নাকাতাহু লিস-সাফার। ঘোড়ায় জিন আর লাগাম পরিয়ে যুদ্ধযাত্রার জন্য তৈরি করলে বলা হয় ইয়াস্‌সারা ফারাসাহু লিল-গাযও। কথাটির সমর্থনে তিনি প্রাচীন এক কবিতার পঙক্তি আনেন, যেখানে কবি লাগাম হাতে সওয়ারির দিকে উঠে যান। এ পাঠে কুরআন যেন জিন পরানো এক সওয়ারি, আরোহীর অপেক্ষায় দাঁড়িয়ে।"
+            "bn": "এরপর তিনি দ্বিতীয় একটি অর্থের সুযোগ রাখেন: আমি একে স্মরণের জন্য প্রস্তুত করে রেখেছি। তাঁর মতে এ অর্থ এসেছে আরবদের প্রচলিত কথা থেকে। উটের পিঠে গদি চাপিয়ে সফরের জন্য তৈরি করলে বলা হয় ইয়াস্‌সারা নাকাতাহু লিস-সাফার। ঘোড়ায় জিন আর লাগাম পরিয়ে যুদ্ধযাত্রার জন্য তৈরি করলে বলা হয় ইয়াস্‌সারা ফারাসাহু লিল-গাযও। কথাটির সমর্থনে তিনি প্রাচীন এক কবিতার পঙক্তি আনেন, যেখানে কবি লাগাম হাতে সওয়ারির দিকে উঠে যান। এ পাঠে কুরআন যেন জিন পরানো এক সওয়ারি, আরোহীর অপেক্ষায় দাঁড়িয়ে।"
           }
         ]
       },
       {
         "h": {
           "en": "Wording, Recitation, Meaning",
-          "bn": "শব্দ, তিলাওয়াত, অর্থ"
+          "bn": "শব্দ, তিলাওয়াত, অর্থ"
         },
         "p": [
           {
             "en": "Ibn Kathir's gloss widens the easing from the words to their sense: We made its wording easy and its meaning easy, for whoever wants it, so that people may take heed. He supports this with 38:29, a blessed Book We have sent down to you, that they may reflect on its verses and that people of understanding may take heed, and also with 19:97. Then he gathers the early readers. Mujahid said it means We made its reading easy; as-Suddi said, We made its recitation easy on the tongues.",
-            "bn": "ইবন কাসীরের ব্যাখ্যা সহজতাকে শব্দ থেকে অর্থ পর্যন্ত টেনে নেয়: যে চায় তার জন্য আমি এর শব্দ সহজ করেছি, এর অর্থও সহজ করেছি, যাতে মানুষ উপদেশ নেয়। এর সমর্থনে তিনি আনেন ৩৮:২৯ আয়াত: এক বরকতময় কিতাব, যা আমি তোমার প্রতি নাজিল করেছি, যাতে তারা এর আয়াতগুলো নিয়ে চিন্তা করে আর বোধসম্পন্নরা উপদেশ গ্রহণ করে। সঙ্গে আনেন ১৯:৯৭ আয়াতও। তারপর তিনি পূর্বসূরিদের কথা জড়ো করেন। মুজাহিদ বলেছেন, এর মানে আমি এর পড়া সহজ করেছি। সুদ্দী বলেছেন, আমি জিহ্বায় এর তিলাওয়াত সহজ করেছি।"
+            "bn": "ইবন কাসীরের ব্যাখ্যা সহজতাকে শব্দ থেকে অর্থ পর্যন্ত টেনে নেয়: যে চায় তার জন্য আমি এর শব্দ সহজ করেছি, এর অর্থও সহজ করেছি, যাতে মানুষ উপদেশ নেয়। এর সমর্থনে তিনি আনেন ৩৮:২৯ আয়াত: এক বরকতময় কিতাব, যা আমি তোমার প্রতি নাজিল করেছি, যাতে তারা এর আয়াতগুলো নিয়ে চিন্তা করে আর বোধসম্পন্নরা উপদেশ গ্রহণ করে। সঙ্গে আনেন ১৯:৯৭ আয়াতও। তারপর তিনি পূর্বসূরিদের কথা জড়ো করেন। মুজাহিদ বলেছেন, এর মানে আমি এর পড়া সহজ করেছি। সুদ্দী বলেছেন, আমি জিহ্বায় এর তিলাওয়াত সহজ করেছি।"
           },
           {
             "en": "Ad-Dahhak reports from Ibn Abbas (RA) a stronger form of the same point: had Allah not made it easy on the tongues of human beings, none of His creation could have spoken the speech of Allah. The Muyassar divides the ease the way Ibn Kathir does, wording for recitation and memorising, meanings for understanding and reflection, for whoever wants to take heed. At-Tabari's short gloss is that Allah made the Qur'an easy for remembrance for whoever wants to take heed by it.",
-            "bn": "দাহহাক ইবন আব্বাস (রাঃ) থেকে একই কথার আরও জোরালো রূপ বর্ণনা করেন: আল্লাহ যদি মানুষের জিহ্বায় একে সহজ না করতেন, তবে তাঁর সৃষ্টির কেউই আল্লাহর কালাম উচ্চারণ করতে পারত না। মুয়াসসার সহজতাকে ভাগ করে ইবন কাসীরের মতোই। শব্দ সহজ তিলাওয়াত ও মুখস্থের জন্য, অর্থ সহজ বোঝা ও তাদাব্বুরের জন্য, আর তা তার জন্য, যে উপদেশ নিতে চায়। তাবারীর সংক্ষিপ্ত ব্যাখ্যা হল, যে কুরআন দিয়ে উপদেশ নিতে চায়, তার জন্য আল্লাহ একে স্মরণের উপযোগী করে সহজ করেছেন।"
+            "bn": "দাহহাক ইবন আব্বাস (রাঃ) থেকে একই কথার আরও জোরালো রূপ বর্ণনা করেন: আল্লাহ যদি মানুষের জিহ্বায় একে সহজ না করতেন, তবে তাঁর সৃষ্টির কেউই আল্লাহর কালাম উচ্চারণ করতে পারত না। মুয়াসসার সহজতাকে ভাগ করে ইবন কাসীরের মতোই। শব্দ সহজ তিলাওয়াত ও মুখস্থের জন্য, অর্থ সহজ বোঝা ও তাদাব্বুরের জন্য, আর তা তার জন্য, যে উপদেশ নিতে চায়। তাবারীর সংক্ষিপ্ত ব্যাখ্যা হল, যে কুরআন দিয়ে উপদেশ নিতে চায়, তার জন্য আল্লাহ একে স্মরণের উপযোগী করে সহজ করেছেন।"
           },
           {
             "en": "Two emphases sit side by side here, and the sources do not settle between them. Al-Qurtubi's first reading, with Mujahid and as-Suddi as Ibn Kathir reports them, places the ease in memorising, reading and reciting. Ibn Kathir and the Muyassar extend it to the meanings, eased for understanding and reflection. They answer the question easy for what differently, and this article leaves both standing. What they share is a condition. At-Tabari, Ibn Kathir and the Muyassar all say for whoever wants it, and al-Qurtubi's help goes to whoever wants to memorise.",
-            "bn": "এখানে দুটি ঝোঁক পাশাপাশি আছে, আর সূত্রগুলো এ দুয়ের মীমাংসা করে দেয় না। কুরতুবীর প্রথম ব্যাখ্যা সহজতাকে রাখে মুখস্থ করা, পড়া আর তিলাওয়াতে। ইবন কাসীর মুজাহিদ ও সুদ্দীর যে কথা এনেছেন, তা-ও একই দিকে। ইবন কাসীর ও মুয়াসসার তা অর্থ পর্যন্ত বাড়িয়ে দেন, বোঝা ও তাদাব্বুরের জন্য সহজ। কীসের জন্য সহজ, এ প্রশ্নের উত্তর তাঁরা আলাদাভাবে দেন। এ লেখা দুটি মতকেই রেখে দিচ্ছে, কোনোটিকে বেছে নিচ্ছে না। তবে একটা শর্তে সবাই এক। তাবারী, ইবন কাসীর ও মুয়াসসার বলেন, যে চায় তার জন্য। আর কুরতুবীর সাহায্যও যায় তার কাছে, যে মুখস্থ করতে চায়।"
+            "bn": "এখানে দুটি ঝোঁক পাশাপাশি আছে, আর সূত্রগুলো এ দুয়ের মীমাংসা করে দেয় না। কুরতুবীর প্রথম ব্যাখ্যা সহজতাকে রাখে মুখস্থ করা, পড়া আর তিলাওয়াতে। ইবন কাসীর মুজাহিদ ও সুদ্দীর যে কথা এনেছেন, তা-ও একই দিকে। ইবন কাসীর ও মুয়াসসার তা অর্থ পর্যন্ত বাড়িয়ে দেন, বোঝা ও তাদাব্বুরের জন্য সহজ। কীসের জন্য সহজ, এ প্রশ্নের উত্তর তাঁরা আলাদাভাবে দেন। এ লেখা দুটি মতকেই রেখে দিচ্ছে, কোনোটিকে বেছে নিচ্ছে না। তবে একটা শর্তে সবাই এক। তাবারী, ইবন কাসীর ও মুয়াসসার বলেন, যে চায় তার জন্য। আর কুরতুবীর সাহায্যও যায় তার কাছে, যে মুখস্থ করতে চায়।"
           }
         ]
       },
       {
         "h": {
           "en": "Read Without the Page",
-          "bn": "পাতা না দেখেই পড়া"
+          "bn": "পাতা না দেখেই পড়া"
         },
         "p": [
           {
             "en": "Al-Qurtubi records a report that makes the memorising reading vivid. Sa'id ibn Jubayr said: there is no Book among the Books of Allah that is recited in its entirety from memory except the Qur'an. Someone else, whom al-Qurtubi does not name, adds that this was not so for the Children of Israel. They read the Torah only by looking at it, he says, apart from a handful of named exceptions, Musa (AS) and Harun (AS) among them.",
-            "bn": "মুখস্থের ব্যাখ্যাটিকে জীবন্ত করে তোলে কুরতুবীর উদ্ধৃত একটি বর্ণনা। সাঈদ ইবন জুবাইর বলেছেন, আল্লাহর কিতাবগুলোর মধ্যে কুরআন ছাড়া আর কোনো কিতাব নেই, যা পুরোটা মুখস্থ থেকে পড়া হয়। আরেকজন, যাঁর নাম কুরতুবী উল্লেখ করেননি, যোগ করেন যে বনী ইসরাঈলের বেলায় এমনটা ছিল না। তাঁর কথায়, তারা তাওরাত পড়ত কেবল দেখে দেখে। ব্যতিক্রম ছিলেন হাতে গোনা কয়েকজন, যাঁদের নাম তিনি বলেছেন। মূসা (আঃ) ও হারূন (আঃ) তাঁদের মধ্যে আছেন।"
+            "bn": "মুখস্থের ব্যাখ্যাটিকে জীবন্ত করে তোলে কুরতুবীর উদ্ধৃত একটি বর্ণনা। সাঈদ ইবন জুবাইর বলেছেন, আল্লাহর কিতাবগুলোর মধ্যে কুরআন ছাড়া আর কোনো কিতাব নেই, যা পুরোটা মুখস্থ থেকে পড়া হয়। আরেকজন, যাঁর নাম কুরতুবী উল্লেখ করেননি, যোগ করেন যে বনী ইসরাঈলের বেলায় এমনটা ছিল না। তাঁর কথায়, তারা তাওরাত পড়ত কেবল দেখে দেখে। ব্যতিক্রম ছিলেন হাতে গোনা কয়েকজন, যাঁদের নাম তিনি বলেছেন। মূসা (আঃ) ও হারূন (আঃ) তাঁদের মধ্যে আছেন।"
           },
           {
             "en": "Al-Qurtubi then draws the conclusion for this community: Allah made the memorising of His Book easy for it, li-yadhkuru ma fihi, so that they would remember what is in it. The purpose clause matters. Memory is not the goal in his sentence but the means; the text is carried inside so that what it says stays present. A person who holds a surah by heart has, on this reading, been handed the material of remembrance, and what remains open is whether he uses it.",
-            "bn": "এরপর কুরতুবী এই উম্মতের জন্য সিদ্ধান্ত টানেন: আল্লাহ এ উম্মতের জন্য তাঁর কিতাব মুখস্থ করা সহজ করেছেন, লি-ইয়াযকুরূ মা ফীহি, যাতে তারা এর ভেতরের কথাগুলো স্মরণ রাখে। উদ্দেশ্যের এই অংশটুকুই আসল। তাঁর বাক্যে মুখস্থ লক্ষ্য নয়, মাধ্যম। কিতাবটি ভেতরে বহন করা হয়, যাতে এর কথাগুলো সবসময় সামনে থাকে। এ পাঠ অনুযায়ী, যার একটি সূরা মুখস্থ, তার হাতে স্মরণের উপকরণ তুলে দেওয়া হয়েছে। বাকি প্রশ্ন শুধু এটুকু: সে তা কাজে লাগায় কি না।"
+            "bn": "এরপর কুরতুবী এই উম্মতের জন্য সিদ্ধান্ত টানেন: আল্লাহ এ উম্মতের জন্য তাঁর কিতাব মুখস্থ করা সহজ করেছেন, লি-ইয়াযকুরূ মা ফীহি, যাতে তারা এর ভেতরের কথাগুলো স্মরণ রাখে। উদ্দেশ্যের এই অংশটুকুই আসল। তাঁর বাক্যে মুখস্থ লক্ষ্য নয়, মাধ্যম। কিতাবটি ভেতরে বহন করা হয়, যাতে এর কথাগুলো সবসময় সামনে থাকে। এ পাঠ অনুযায়ী, যার একটি সূরা মুখস্থ, তার হাতে স্মরণের উপকরণ তুলে দেওয়া হয়েছে। বাকি প্রশ্ন শুধু এটুকু: সে তা কাজে লাগায় কি না।"
           }
         ]
       },
       {
         "h": {
           "en": "Remembrance That Settles In",
-          "bn": "স্মরণ যখন স্বভাবে বসে যায়"
+          "bn": "স্মরণ যখন স্বভাবে বসে যায়"
         },
         "p": [
           {
             "en": "The same sentence of al-Qurtubi's carries a remark on the shape of the remembering. To remember what is in it, he says, means yafta'ilu adh-dhikr: they take on remembrance in the pattern called ifti'al. And ifti'al, he explains, is that the thing takes effect in them until it becomes like their very self, like something built into their make-up. On his account the remembering asked for here is not a visit paid to a text now and then. It is remembrance that has settled in and stays.",
-            "bn": "কুরতুবীর ওই একই বাক্যে স্মরণের ধরন নিয়েও একটি কথা আছে। তাঁর মতে, এর ভেতরের কথা স্মরণ রাখার মানে ইয়াফতাইলুয-যিকর, অর্থাৎ ইফতিআল ছাঁচে স্মরণকে নিজের মধ্যে ধারণ করা। আর ইফতিআলের ব্যাখ্যা তিনি দেন এভাবে: জিনিসটা তাদের ভেতরে এমনভাবে কাজ করে যে শেষে তা তাদের সত্তার মতো হয়ে যায়, যেন তাদের গড়নের ভেতরেই গাঁথা। তাঁর বিবরণে এখানে যে স্মরণ চাওয়া হচ্ছে, তা মাঝেমধ্যে কিতাবের কাছে একবার ঘুরে আসা নয়। এ সেই স্মরণ, যা ভেতরে বসে গেছে এবং থেকে যায়।"
+            "bn": "কুরতুবীর ওই একই বাক্যে স্মরণের ধরন নিয়েও একটি কথা আছে। তাঁর মতে, এর ভেতরের কথা স্মরণ রাখার মানে ইয়াফতাইলুয-যিকর, অর্থাৎ ইফতিআল ছাঁচে স্মরণকে নিজের মধ্যে ধারণ করা। আর ইফতিআলের ব্যাখ্যা তিনি দেন এভাবে: জিনিসটা তাদের ভেতরে এমনভাবে কাজ করে যে শেষে তা তাদের সত্তার মতো হয়ে যায়, যেন তাদের গড়নের ভেতরেই গাঁথা। তাঁর বিবরণে এখানে যে স্মরণ চাওয়া হচ্ছে, তা মাঝেমধ্যে কিতাবের কাছে একবার ঘুরে আসা নয়। এ সেই স্মরণ, যা ভেতরে বসে গেছে এবং থেকে যায়।"
           },
           {
             "en": "Set that beside al-Qurtubi's gloss on fa-hal min muddakir itself, which is brief: a reader who recites it. The two remarks belong together. The person being asked for is someone who reads, and the reading is meant to sink in until remembering is no longer an effort but a trait. That is a demanding picture of an easy thing. The ease lies in the access; the change in the person is what the access was opened for, and it comes by staying with the text.",
-            "bn": "এবার এর পাশে রাখুন ফা-হাল মিম মুদ্দাকির অংশের কুরতুবীর ব্যাখ্যা, যা খুবই সংক্ষিপ্ত: এমন পাঠক, যে এটি পড়ে। দুটি কথা একসঙ্গে মিলিয়ে পড়ার মতো। যাকে খোঁজা হচ্ছে, সে পড়ে। আর সেই পড়া ভেতরে এমনভাবে বসে যাওয়ার কথা, যাতে স্মরণ আর কষ্ট করে করতে না হয়, স্বভাব হয়ে যায়। সহজ একটা জিনিসের এ এক কঠিন ছবি। সহজতা হল নাগাল পাওয়ায়। আর মানুষটির বদলে যাওয়াই সেই উদ্দেশ্য, যার জন্য নাগাল খুলে দেওয়া হয়েছে। সে বদল আসে কিতাবের সঙ্গে লেগে থাকলে।"
+            "bn": "এবার এর পাশে রাখুন ফা-হাল মিম মুদ্দাকির অংশের কুরতুবীর ব্যাখ্যা, যা খুবই সংক্ষিপ্ত: এমন পাঠক, যে এটি পড়ে। দুটি কথা একসঙ্গে মিলিয়ে পড়ার মতো। যাকে খোঁজা হচ্ছে, সে পড়ে। আর সেই পড়া ভেতরে এমনভাবে বসে যাওয়ার কথা, যাতে স্মরণ আর কষ্ট করে করতে না হয়, স্বভাব হয়ে যায়। সহজ একটা জিনিসের এ এক কঠিন ছবি। সহজতা হল নাগাল পাওয়ায়। আর মানুষটির বদলে যাওয়াই সেই উদ্দেশ্য, যার জন্য নাগাল খুলে দেওয়া হয়েছে। সে বদল আসে কিতাবের সঙ্গে লেগে থাকলে।"
           }
         ]
       },
@@ -941,34 +941,34 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentaries consulted for this verse fill in the muddakir in noticeably different ways. Ibn Kathir: anyone who takes heed by this Qur'an, whose memorising and meaning Allah has made easy. Muhammad ibn Ka'b al-Qurazi, whom he quotes: anyone restrained from acts of disobedience? At-Tabari: anyone who takes admonition and draws the lesson, so that it restrains him from what Allah forbade him, towards what He commanded and permitted. The Muyassar: anyone who takes admonition from it. Al-Qurtubi: a reader who recites it.",
-            "bn": "এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলো মুদ্দাকিরকে বেশ আলাদা আলাদা ভাবে চেনায়। ইবন কাসীর: এমন কেউ, যে এই কুরআন থেকে উপদেশ নেয়, যার মুখস্থ ও অর্থ আল্লাহ সহজ করেছেন। তাঁর উদ্ধৃত মুহাম্মাদ ইবন কা'ব আল-কুরাযী: গুনাহ থেকে বিরত হওয়ার কেউ আছে কি? তাবারী: এমন কেউ, যে উপদেশ ও শিক্ষা নেয়, ফলে তা তাকে আল্লাহর নিষেধ থেকে ফিরিয়ে তাঁর আদেশ ও অনুমতির দিকে নিয়ে যায়। মুয়াসসার: এমন কেউ, যে এ থেকে উপদেশ নেয়। কুরতুবী: এমন পাঠক, যে এটি পড়ে।"
+            "bn": "এ আয়াতের জন্য সংগ্রহ করা তাফসীরগুলো মুদ্দাকিরকে বেশ আলাদা আলাদা ভাবে চেনায়। ইবন কাসীর: এমন কেউ, যে এই কুরআন থেকে উপদেশ নেয়, যার মুখস্থ ও অর্থ আল্লাহ সহজ করেছেন। তাঁর উদ্ধৃত মুহাম্মাদ ইবন কা'ব আল-কুরাযী: গুনাহ থেকে বিরত হওয়ার কেউ আছে কি? তাবারী: এমন কেউ, যে উপদেশ ও শিক্ষা নেয়, ফলে তা তাকে আল্লাহর নিষেধ থেকে ফিরিয়ে তাঁর আদেশ ও অনুমতির দিকে নিয়ে যায়। মুয়াসসার: এমন কেউ, যে এ থেকে উপদেশ নেয়। কুরতুবী: এমন পাঠক, যে এটি পড়ে।"
           },
           {
             "en": "Al-Qurtubi also cites Abu Bakr al-Warraq and Ibn Shawdhab: is there any seeker of good and of knowledge, that he may be helped in it? These are not rival creeds, but the emphasis differs and the difference is real. In al-Qurtubi's own gloss the muddakir is a reciter; for at-Tabari and al-Qurazi he is someone whose conduct changes. Neither side is chosen here. Al-Baghawi's commentary, as consulted for this verse, gives only the verse's wording and no gloss, so he is cited for no reading.",
-            "bn": "কুরতুবী আবু বকর আল-ওয়াররাক ও ইবন শাওযাবের কথাও আনেন: কল্যাণ ও জ্ঞানের কোনো অন্বেষী আছে কি, যাতে এতে তাকে সাহায্য করা হয়? এগুলো পরস্পরবিরোধী আকীদা নয়। তবে জোর পড়ে আলাদা জায়গায়, আর পার্থক্যটা সত্যি। কুরতুবীর নিজের ব্যাখ্যায় মুদ্দাকির একজন তিলাওয়াতকারী। তাবারী ও কুরাযীর কাছে সে এমন মানুষ, যার আচরণ বদলে যায়। এখানে কোনো পক্ষ বেছে নেওয়া হচ্ছে না। এ আয়াতের জন্য সংগ্রহ করা বাগাভীর তাফসীরে শুধু আয়াতের পাঠটুকু আছে, কোনো ব্যাখ্যা নেই। তাই কোনো মতের জন্য তাঁর নাম নেওয়া হয়নি।"
+            "bn": "কুরতুবী আবু বকর আল-ওয়াররাক ও ইবন শাওযাবের কথাও আনেন: কল্যাণ ও জ্ঞানের কোনো অন্বেষী আছে কি, যাতে এতে তাকে সাহায্য করা হয়? এগুলো পরস্পরবিরোধী আকীদা নয়। তবে জোর পড়ে আলাদা জায়গায়, আর পার্থক্যটা সত্যি। কুরতুবীর নিজের ব্যাখ্যায় মুদ্দাকির একজন তিলাওয়াতকারী। তাবারী ও কুরাযীর কাছে সে এমন মানুষ, যার আচরণ বদলে যায়। এখানে কোনো পক্ষ বেছে নেওয়া হচ্ছে না। এ আয়াতের জন্য সংগ্রহ করা বাগাভীর তাফসীরে শুধু আয়াতের পাঠটুকু আছে, কোনো ব্যাখ্যা নেই। তাই কোনো মতের জন্য তাঁর নাম নেওয়া হয়নি।"
           }
         ]
       },
       {
         "h": {
           "en": "Seven Ways of Reading",
-          "bn": "সাত হরফে পড়া"
+          "bn": "সাত হরফে পড়া"
         },
         "p": [
           {
             "en": "Ibn Kathir attaches a single hadith here. Part of Allah's easing of recitation, he says, is the Prophet's ﷺ statement that this Qur'an was sent down in seven ahruf, whose chains he says he gave earlier. Al-Bukhari records, as 4991, from Ibn Abbas (RA) that Allah's Messenger ﷺ said: “Gabriel recited the Qur'an to me in one way. Then I requested him (to read it in another way), and continued asking him to recite it in other ways, and he recited it in several ways till he ultimately recited it in seven different ways.”",
-            "bn": "ইবন কাসীর এখানে একটিমাত্র হাদিস যুক্ত করেন। তাঁর মতে, আল্লাহ যে তিলাওয়াত সহজ করেছেন, তার একটা অংশ নবী ﷺ-এর এই বাণী: এই কুরআন সাতটি হরফে নাজিল হয়েছে। এর সনদগুলো আগেই দিয়েছেন বলে তিনি জানান। বুখারী ৪৯৯১ নম্বরে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন, আল্লাহর রাসূল ﷺ বলেছেন: “জিবরীল আমাকে একটি হরফে কুরআন পড়িয়েছেন। আমি তাঁর কাছে বারবার ফিরে গেলাম। আমি বাড়াতে বলতেই থাকলাম, আর তিনি বাড়াতেই থাকলেন, শেষে তা সাতটি হরফে গিয়ে পৌঁছাল।”"
+            "bn": "ইবন কাসীর এখানে একটিমাত্র হাদিস যুক্ত করেন। তাঁর মতে, আল্লাহ যে তিলাওয়াত সহজ করেছেন, তার একটা অংশ নবী ﷺ-এর এই বাণী: এই কুরআন সাতটি হরফে নাজিল হয়েছে। এর সনদগুলো আগেই দিয়েছেন বলে তিনি জানান। বুখারী ৪৯৯১ নম্বরে ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেছেন, আল্লাহর রাসূল ﷺ বলেছেন: “জিবরীল আমাকে একটি হরফে কুরআন পড়িয়েছেন। আমি তাঁর কাছে বারবার ফিরে গেলাম। আমি বাড়াতে বলতেই থাকলাম, আর তিনি বাড়াতেই থাকলেন, শেষে তা সাতটি হরফে গিয়ে পৌঁছাল।”"
           },
           {
             "en": "It is in Sahih al-Bukhari, and al-Bukhari's inclusion is its grading; Ibn Kathir gives none here. The exact words Ibn Kathir cites close a longer narration in al-Bukhari, 4992, in which Umar (RA) hears Hisham ibn Hakim (RA) recite Surah al-Furqan differently from him, and both are told it was revealed that way. No commentary consulted for this verse attaches any other hadith to it, including narrations on the reward of reciting the Qur'an, so none is quoted here.",
-            "bn": "হাদিসটি সহীহ বুখারীতে আছে, আর বুখারীর সংকলনে স্থান পাওয়াই এর মান। ইবন কাসীর এখানে আলাদা কোনো মান উল্লেখ করেননি। তিনি যে শব্দগুলো উদ্ধৃত করেন, সেগুলো বুখারীর ৪৯৯২ নম্বরের দীর্ঘ এক বর্ণনার শেষ অংশ। সেখানে উমার (রাঃ) শোনেন, হিশাম ইবন হাকীম (রাঃ) সূরা আল-ফুরকান তাঁর চেয়ে ভিন্নভাবে পড়ছেন। পরে দুজনকেই বলা হয়, এভাবেই নাজিল হয়েছে। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে আর কোনো হাদিস যুক্ত করেনি, কুরআন তিলাওয়াতের সওয়াব নিয়ে বর্ণনাও নয়। তাই এখানে আর কোনো হাদিস উদ্ধৃত হয়নি।"
+            "bn": "হাদিসটি সহীহ বুখারীতে আছে, আর বুখারীর সংকলনে স্থান পাওয়াই এর মান। ইবন কাসীর এখানে আলাদা কোনো মান উল্লেখ করেননি। তিনি যে শব্দগুলো উদ্ধৃত করেন, সেগুলো বুখারীর ৪৯৯২ নম্বরের দীর্ঘ এক বর্ণনার শেষ অংশ। সেখানে উমার (রাঃ) শোনেন, হিশাম ইবন হাকীম (রাঃ) সূরা আল-ফুরকান তাঁর চেয়ে ভিন্নভাবে পড়ছেন। পরে দুজনকেই বলা হয়, এভাবেই নাজিল হয়েছে। এ আয়াতের জন্য সংগ্রহ করা কোনো তাফসীর এর সঙ্গে আর কোনো হাদিস যুক্ত করেনি, কুরআন তিলাওয়াতের সওয়াব নিয়ে বর্ণনাও নয়। তাই এখানে আর কোনো হাদিস উদ্ধৃত হয়নি।"
           }
         ]
       },
       {
         "h": {
           "en": "Answering in Conduct",
-          "bn": "উত্তর দেওয়া আমলে"
+          "bn": "উত্তর দেওয়া আমলে"
         },
         "p": [
           {
@@ -988,7 +988,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Rather: The Word That Turns",
-          "bn": "বরং: যে শব্দে মোড় ঘোরে"
+          "bn": "বরং: যে শব্দে মোড় ঘোরে"
         },
         "p": [
           {
@@ -1004,63 +1004,63 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "An Appointment Kept by Allah",
-          "bn": "আল্লাহর ঠিক করে রাখা সময়"
+          "bn": "আল্লাহর ঠিক করে রাখা সময়"
         },
         "p": [
           {
             "en": "Maw'id is a time fixed in advance, an appointment. Al-Qurtubi says that the Hour here means the Resurrection, al-qiyama. At-Tabari says what the appointment is for: the raising of the dead and the punishment. The Muyassar describes it as the appointment in which they are repaid with what they deserve. As-Sa'di adds the scale of justice: it is the appointment in which they are recompensed and the right is taken from them in full measure. The deniers do not set this date. It is set for them.",
-            "bn": "মাও'ইদ মানে আগে থেকে ঠিক করা সময়, নির্ধারিত সাক্ষাৎ। কুরতুবী বলেন, এখানে সা'আহ মানে কিয়ামত। তাবারী বলেন, এ সাক্ষাৎ কীসের জন্য: মৃতদের পুনরুত্থান আর শাস্তি। মুয়াসসারের ভাষায়, এ সেই নির্ধারিত সময়, যখন তারা যা পাওনা তার প্রতিফল পাবে। সা'দী ইনসাফের মাপটা যোগ করেন: সেদিন তাদের প্রতিদান দেওয়া হবে, আর ন্যায্যভাবে তাদের কাছ থেকে হক আদায় করে নেওয়া হবে। তারিখটা অস্বীকারকারীরা ঠিক করে না। তাদের জন্য তা ঠিক করে রাখা হয়েছে।"
+            "bn": "মাও'ইদ মানে আগে থেকে ঠিক করা সময়, নির্ধারিত সাক্ষাৎ। কুরতুবী বলেন, এখানে সা'আহ মানে কিয়ামত। তাবারী বলেন, এ সাক্ষাৎ কীসের জন্য: মৃতদের পুনরুত্থান আর শাস্তি। মুয়াসসারের ভাষায়, এ সেই নির্ধারিত সময়, যখন তারা যা পাওনা তার প্রতিফল পাবে। সা'দী ইনসাফের মাপটা যোগ করেন: সেদিন তাদের প্রতিদান দেওয়া হবে, আর ন্যায্যভাবে তাদের কাছ থেকে হক আদায় করে নেওয়া হবে। তারিখটা অস্বীকারকারীরা ঠিক করে না। তাদের জন্য তা ঠিক করে রাখা হয়েছে।"
           },
           {
             "en": "Then come the two comparatives. Adha, al-Qurtubi explains, is from dahiya, the grave matter; one says dahahu amr, a thing befell him. He cites Ibn as-Sikkit for the phrase dahathu dahiyatun dahwa'u, or dahya'u, where the added word only intensifies the calamity. Ma'arif al-Qur'an gives adha as more, or most, calamitous, and traces amarr to murr, which first means bitter and by extension came to mean anything hard or painful. One word names a blow that lands. The other names a taste that stays.",
-            "bn": "তারপর আসে দুটি তুলনাবাচক শব্দ। কুরতুবী বোঝান, আদহা এসেছে দাহিয়া থেকে, যার অর্থ গুরুতর বিরাট ব্যাপার। আরবিতে বলা হয় 'দাহাহু আমর', অর্থাৎ কোনো বিপদ তার উপর এসে পড়ল। ইবনুস সিক্কীতের সূত্রে তিনি একটি বাক্যাংশ আনেন: 'দাহাতহু দাহিয়াতুন দাহওয়াউ', কিংবা 'দাহইয়াউ'। শেষের শব্দটি কেবল বিপদের ভার আরও বাড়িয়ে দেয়। মাআরিফুল কুরআন বলে, আদহা মানে অধিকতর বা সবচেয়ে ভয়াবহ। আর আমার্র এসেছে মুর্র থেকে, যার আদি অর্থ তিক্ত, পরে যেকোনো কঠিন বা কষ্টদায়ক জিনিসকেও এ নামে ডাকা হয়েছে। একটি শব্দ আঘাতের ছবি আঁকে, অন্যটি এমন স্বাদের, যা মুখে লেগে থাকে।"
+            "bn": "তারপর আসে দুটি তুলনাবাচক শব্দ। কুরতুবী বোঝান, আদহা এসেছে দাহিয়া থেকে, যার অর্থ গুরুতর বিরাট ব্যাপার। আরবিতে বলা হয় 'দাহাহু আমর', অর্থাৎ কোনো বিপদ তার উপর এসে পড়ল। ইবনুস সিক্কীতের সূত্রে তিনি একটি বাক্যাংশ আনেন: 'দাহাতহু দাহিয়াতুন দাহওয়াউ', কিংবা 'দাহইয়াউ'। শেষের শব্দটি কেবল বিপদের ভার আরও বাড়িয়ে দেয়। মাআরিফুল কুরআন বলে, আদহা মানে অধিকতর বা সবচেয়ে ভয়াবহ। আর আমার্র এসেছে মুর্র থেকে, যার আদি অর্থ তিক্ত, পরে যেকোনো কঠিন বা কষ্টদায়ক জিনিসকেও এ নামে ডাকা হয়েছে। একটি শব্দ আঘাতের ছবি আঁকে, অন্যটি এমন স্বাদের, যা মুখে লেগে থাকে।"
           },
           {
             "en": "The other commentators gloss the pair in their own words. As-Sa'di: greater and harder, and larger than anything a person could imagine or that could pass through the mind. The Muyassar: greater and harsher. Al-Baghawi: a greater calamity and a more intense bitterness. None of them attempts a description of what the Hour will hold. As-Sa'di's phrase is the honest limit of language here: whatever a person pictures, the Hour is beyond the picture. The verse gives two comparatives and leaves the rest unsaid.",
-            "bn": "বাকি তাফসীরকারেরাও শব্দ দুটির অর্থ নিজেদের ভাষায় বলেছেন। সা'দীর ভাষায়: আরও বিরাট, আরও কষ্টকর, মানুষ যা কল্পনা করতে পারে বা যা মনে উঁকি দিতে পারে, তার সবকিছুর চেয়ে বড়। মুয়াসসারের ভাষায়: আরও বিরাট, আরও নির্মম। বাগাভীর ভাষায়: আরও বড় বিপদ, আরও তীব্র তিক্ততা। কিয়ামতে কী থাকবে, তার বিবরণ দিতে তাঁদের কেউ চেষ্টা করেননি। এখানে ভাষার সৎ সীমা সা'দীর বাক্যেই ধরা পড়ে। মানুষ যে ছবিই আঁকুক, কিয়ামত সেই ছবির বাইরে। আয়াত দুটি তুলনা দিয়ে থেমে যায়, বাকিটা না বলেই রাখে।"
+            "bn": "বাকি তাফসীরকারেরাও শব্দ দুটির অর্থ নিজেদের ভাষায় বলেছেন। সা'দীর ভাষায়: আরও বিরাট, আরও কষ্টকর, মানুষ যা কল্পনা করতে পারে বা যা মনে উঁকি দিতে পারে, তার সবকিছুর চেয়ে বড়। মুয়াসসারের ভাষায়: আরও বিরাট, আরও নির্মম। বাগাভীর ভাষায়: আরও বড় বিপদ, আরও তীব্র তিক্ততা। কিয়ামতে কী থাকবে, তার বিবরণ দিতে তাঁদের কেউ চেষ্টা করেননি। এখানে ভাষার সৎ সীমা সা'দীর বাক্যেই ধরা পড়ে। মানুষ যে ছবিই আঁকুক, কিয়ামত সেই ছবির বাইরে। আয়াত দুটি তুলনা দিয়ে থেমে যায়, বাকিটা না বলেই রাখে।"
           }
         ]
       },
       {
         "h": {
           "en": "Heavier Than the Rout at Badr",
-          "bn": "বদরের পরাজয়ের চেয়েও ভারী"
+          "bn": "বদরের পরাজয়ের চেয়েও ভারী"
         },
         "p": [
           {
             "en": "A comparative needs a second term: more calamitous than what? Four of the commentators supply the same one. At-Tabari: more calamitous and more bitter for them than the defeat they would suffer when they met the believers at Badr. Al-Qurtubi: more than what befell them on the day of Badr. The Muyassar: greater and harsher than the punishment that reached them on the day of Badr. Al-Baghawi names it most concretely: a greater calamity and a more intense bitterness than captivity and killing on the day of Badr.",
-            "bn": "তুলনা করতে হলে দ্বিতীয় একটি পক্ষ লাগে: কীসের চেয়ে বেশি ভয়াবহ? চারজন তাফসীরকার একই উত্তর দেন। তাবারী বলেন, বদরে মুমিনদের মুখোমুখি হয়ে তারা যে পরাজয়ের শিকার হবে, তার চেয়েও কিয়ামত তাদের জন্য বেশি ভয়াবহ, বেশি তিক্ত। কুরতুবী বলেন, বদরের দিন তাদের উপর যা এসেছিল তার চেয়ে বেশি। মুয়াসসার বলে, বদরের দিন তাদের উপর যে শাস্তি এসেছিল তার চেয়ে আরও বিরাট, আরও নির্মম। বাগাভী সবচেয়ে স্পষ্ট করে নাম দেন: বদরের দিনের বন্দিত্ব ও হত্যার চেয়ে আরও বড় বিপদ, আরও তীব্র তিক্ততা।"
+            "bn": "তুলনা করতে হলে দ্বিতীয় একটি পক্ষ লাগে: কীসের চেয়ে বেশি ভয়াবহ? চারজন তাফসীরকার একই উত্তর দেন। তাবারী বলেন, বদরে মুমিনদের মুখোমুখি হয়ে তারা যে পরাজয়ের শিকার হবে, তার চেয়েও কিয়ামত তাদের জন্য বেশি ভয়াবহ, বেশি তিক্ত। কুরতুবী বলেন, বদরের দিন তাদের উপর যা এসেছিল তার চেয়ে বেশি। মুয়াসসার বলে, বদরের দিন তাদের উপর যে শাস্তি এসেছিল তার চেয়ে আরও বিরাট, আরও নির্মম। বাগাভী সবচেয়ে স্পষ্ট করে নাম দেন: বদরের দিনের বন্দিত্ব ও হত্যার চেয়ে আরও বড় বিপদ, আরও তীব্র তিক্ততা।"
           },
           {
             "en": "So these four read the defeat promised in 54:45 as Badr, and the Hour as something beyond it. Ibn Kathir reaches Badr through a report, given below, rather than through a gloss. Among the texts consulted for this verse, none reads the routing of 54:45 as an event of the Hereafter, so there is no disagreement on that point to report here. As-Sa'di keeps a wider frame. He compares the Hour not with one battle but with anything a mind could imagine, so his reading holds whatever loss a reader brings to it.",
-            "bn": "তাহলে এ চারজনের মতে ৫৪:৪৫ আয়াতে প্রতিশ্রুত পরাজয় হলো বদর, আর কিয়ামত তার চেয়েও বড় কিছু। ইবন কাসীর বদরে পৌঁছান কোনো শব্দার্থ দিয়ে নয়, একটি বর্ণনার মাধ্যমে, যা নিচে আসছে। এ আয়াতের জন্য যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার কোনোটিই ৫৪:৪৫ আয়াতের পরাজয়কে আখিরাতের ঘটনা বলে পড়েনি। তাই এ বিষয়ে কোনো মতভেদ এখানে উল্লেখ করার নেই। সা'দী আরও বড় পরিসর রাখেন। তিনি কিয়ামতকে একটি যুদ্ধের সঙ্গে নয়, মানুষের কল্পনায় আসতে পারে এমন সবকিছুর সঙ্গে তুলনা করেন। ফলে পাঠক যে ক্ষতিই সঙ্গে আনুন, তাঁর ব্যাখ্যা তা ধারণ করে।"
+            "bn": "তাহলে এ চারজনের মতে ৫৪:৪৫ আয়াতে প্রতিশ্রুত পরাজয় হলো বদর, আর কিয়ামত তার চেয়েও বড় কিছু। ইবন কাসীর বদরে পৌঁছান কোনো শব্দার্থ দিয়ে নয়, একটি বর্ণনার মাধ্যমে, যা নিচে আসছে। এ আয়াতের জন্য যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার কোনোটিই ৫৪:৪৫ আয়াতের পরাজয়কে আখিরাতের ঘটনা বলে পড়েনি। তাই এ বিষয়ে কোনো মতভেদ এখানে উল্লেখ করার নেই। সা'দী আরও বড় পরিসর রাখেন। তিনি কিয়ামতকে একটি যুদ্ধের সঙ্গে নয়, মানুষের কল্পনায় আসতে পারে এমন সবকিছুর সঙ্গে তুলনা করেন। ফলে পাঠক যে ক্ষতিই সঙ্গে আনুন, তাঁর ব্যাখ্যা তা ধারণ করে।"
           }
         ]
       },
       {
         "h": {
           "en": "Revealed While She Was Playing",
-          "bn": "যখন তিনি খেলার বয়সী মেয়ে"
+          "bn": "যখন তিনি খেলার বয়সী মেয়ে"
         },
         "p": [
           {
             "en": "Ibn Kathir, on this verse, cites al-Bukhari with his chain to Yusuf ibn Mahak. The wording, from the page consulted, is Sahih al-Bukhari 4876: Yusuf bin Mahik said, I was in the house of Aisha, the mother of the Believers. She said, this revelation, Nay, but the Hour is their appointed time (for their full recompense); and the Hour will be more [grievous] and most bitter, was revealed to Muhammad at Mecca while I was a playful little girl. Al-Bukhari placed it in his Sahih and gives no further grading of his own.",
-            "bn": "ইবন কাসীর এ আয়াতের আলোচনায় ইমাম বুখারীর সনদে ইউসুফ ইবন মাহাক থেকে একটি বর্ণনা আনেন। যে পৃষ্ঠা থেকে নেওয়া হয়েছে, সেখানে এটি সহীহ বুখারী ৪৮৭৬, আর তার ভাষ্য এই: ইউসুফ ইবন মাহাক বলেন, আমি উম্মুল মুমিনীন আয়েশা (রাঃ)-এর কাছে ছিলাম। তিনি বললেন, এ আয়াত, 'বরং কিয়ামতই তাদের নির্ধারিত সময় (তাদের পূর্ণ প্রতিফলের জন্য), আর কিয়ামত আরও ভয়াবহ, আরও তিক্ত', মক্কায় মুহাম্মাদ ﷺ-এর উপর নাজিল হয়েছিল, যখন আমি খেলাধুলা করা ছোট্ট এক মেয়ে। ইমাম বুখারী এটি তাঁর সহীহ গ্রন্থে রেখেছেন, এর বাইরে আলাদা কোনো মান তিনি উল্লেখ করেননি।"
+            "bn": "ইবন কাসীর এ আয়াতের আলোচনায় ইমাম বুখারীর সনদে ইউসুফ ইবন মাহাক থেকে একটি বর্ণনা আনেন। যে পৃষ্ঠা থেকে নেওয়া হয়েছে, সেখানে এটি সহীহ বুখারী ৪৮৭৬, আর তার ভাষ্য এই: ইউসুফ ইবন মাহাক বলেন, আমি উম্মুল মুমিনীন আয়েশা (রাঃ)-এর কাছে ছিলাম। তিনি বললেন, এ আয়াত, 'বরং কিয়ামতই তাদের নির্ধারিত সময় (তাদের পূর্ণ প্রতিফলের জন্য), আর কিয়ামত আরও ভয়াবহ, আরও তিক্ত', মক্কায় মুহাম্মাদ ﷺ-এর উপর নাজিল হয়েছিল, যখন আমি খেলাধুলা করা ছোট্ট এক মেয়ে। ইমাম বুখারী এটি তাঁর সহীহ গ্রন্থে রেখেছেন, এর বাইরে আলাদা কোনো মান তিনি উল্লেখ করেননি।"
           },
           {
             "en": "Ibn Kathir adds that al-Bukhari gives the report here in brief and at length in the book of the virtues of the Qur'an, and that Muslim did not collect it. The longer version, Sahih al-Bukhari 4993, sets the sentence inside a larger answer, summarised here rather than quoted. A man from Iraq asked to see Aisha's (RA) copy of the Qur'an. She told him that the first revealed was a surah of the Mufassal mentioning Paradise and the Fire, and only when people had turned to Islam did the rulings on lawful and unlawful come down.",
-            "bn": "ইবন কাসীর আরও বলেন, ইমাম বুখারী এখানে বর্ণনাটি সংক্ষেপে এনেছেন, আর কুরআনের ফযীলত অধ্যায়ে বিস্তারিতভাবে এনেছেন। ইমাম মুসলিম এটি সংকলন করেননি। দীর্ঘ রূপটি, সহীহ বুখারী ৪৯৯৩, বাক্যটিকে আরও বড় এক উত্তরের ভেতরে রাখে। এখানে তার সারকথা দেওয়া হলো, হুবহু উদ্ধৃতি নয়। ইরাকের এক লোক আয়েশা (রাঃ)-এর মুসহাফ দেখতে চেয়েছিল। তিনি তাকে বললেন, প্রথমে নাজিল হয়েছিল মুফাসসাল অংশের একটি সূরা, যাতে জান্নাত ও জাহান্নামের কথা ছিল। মানুষ যখন ইসলামের দিকে ফিরে এল, তখনই হালাল-হারামের বিধান নাজিল হলো।"
+            "bn": "ইবন কাসীর আরও বলেন, ইমাম বুখারী এখানে বর্ণনাটি সংক্ষেপে এনেছেন, আর কুরআনের ফযীলত অধ্যায়ে বিস্তারিতভাবে এনেছেন। ইমাম মুসলিম এটি সংকলন করেননি। দীর্ঘ রূপটি, সহীহ বুখারী ৪৯৯৩, বাক্যটিকে আরও বড় এক উত্তরের ভেতরে রাখে। এখানে তার সারকথা দেওয়া হলো, হুবহু উদ্ধৃতি নয়। ইরাকের এক লোক আয়েশা (রাঃ)-এর মুসহাফ দেখতে চেয়েছিল। তিনি তাকে বললেন, প্রথমে নাজিল হয়েছিল মুফাসসাল অংশের একটি সূরা, যাতে জান্নাত ও জাহান্নামের কথা ছিল। মানুষ যখন ইসলামের দিকে ফিরে এল, তখনই হালাল-হারামের বিধান নাজিল হলো।"
           },
           {
             "en": "In that same answer she adds a line worth keeping: had the first command been do not drink wine, people would have said, we will never leave wine. Then comes her memory of this verse revealed in Makkah while she was a girl at play, and her note that al-Baqara and an-Nisa came down only when she was with him. Read beside her own words, the verse fits the order she describes: the Hour, Paradise and the Fire first, and the detailed laws after hearts were ready for them.",
-            "bn": "সেই উত্তরেই তিনি আরেকটি মনে রাখার মতো কথা বলেন: প্রথম আদেশই যদি হতো 'মদ পান করো না', লোকেরা বলত, আমরা কখনো মদ ছাড়ব না। তারপর আসে এ আয়াতের স্মৃতি, যা মক্কায় নাজিল হয়েছিল যখন তিনি খেলার বয়সী মেয়ে। সঙ্গে তাঁর এ কথাও যে সূরা বাকারা ও সূরা নিসা নাজিল হয়েছে কেবল তখন, যখন তিনি নবী ﷺ-এর কাছে ছিলেন। তাঁর নিজের কথার পাশে রেখে পড়লে আয়াতটি তাঁর বলা ক্রমের সঙ্গেই মেলে। আগে কিয়ামত, জান্নাত আর জাহান্নামের কথা, আর বিস্তারিত বিধান পরে, যখন অন্তর তা গ্রহণের জন্য তৈরি।"
+            "bn": "সেই উত্তরেই তিনি আরেকটি মনে রাখার মতো কথা বলেন: প্রথম আদেশই যদি হতো 'মদ পান করো না', লোকেরা বলত, আমরা কখনো মদ ছাড়ব না। তারপর আসে এ আয়াতের স্মৃতি, যা মক্কায় নাজিল হয়েছিল যখন তিনি খেলার বয়সী মেয়ে। সঙ্গে তাঁর এ কথাও যে সূরা বাকারা ও সূরা নিসা নাজিল হয়েছে কেবল তখন, যখন তিনি নবী ﷺ-এর কাছে ছিলেন। তাঁর নিজের কথার পাশে রেখে পড়লে আয়াতটি তাঁর বলা ক্রমের সঙ্গেই মেলে। আগে কিয়ামত, জান্নাত আর জাহান্নামের কথা, আর বিস্তারিত বিধান পরে, যখন অন্তর তা গ্রহণের জন্য তৈরি।"
           }
         ]
       },
       {
         "h": {
           "en": "Recited in Armour on the Field",
-          "bn": "বর্ম পরে তিলাওয়াত"
+          "bn": "বর্ম পরে তিলাওয়াত"
         },
         "p": [
           {
@@ -1069,15 +1069,15 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "It continues: On that, Abu Bakr held the Prophet ﷺ by the hand and said, That is enough, O Allah's Messenger ﷺ! You have appealed to your Lord too pressingly. The Prophet ﷺ was wearing his armor and then went out reciting: their multitude will be put to flight and they will show their backs. Nay, but the Hour is their appointed time (for their full recompense), and the Hour will be more [grievous] and most bitter. Al-Bukhari placed the report in his Sahih and adds no grading of his own.",
-            "bn": "বর্ণনাটি এগিয়ে চলে: তখন আবু বকর (রাঃ) নবী ﷺ-এর হাত ধরে বললেন, যথেষ্ট হয়েছে, হে আল্লাহর রাসূল ﷺ! আপনি আপনার রবের কাছে অনেক পীড়াপীড়ি করে চেয়েছেন। নবী ﷺ তখন বর্ম পরা ছিলেন। তিনি বেরিয়ে এলেন এ তিলাওয়াত করতে করতে: এ দল শীঘ্রই পরাজিত হবে আর পিঠ ফিরিয়ে পালাবে। বরং কিয়ামতই তাদের নির্ধারিত সময় (তাদের পূর্ণ প্রতিফলের জন্য), আর কিয়ামত আরও ভয়াবহ, আরও তিক্ত। ইমাম বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে রেখেছেন, নিজের পক্ষ থেকে আলাদা কোনো মান যোগ করেননি।"
+            "bn": "বর্ণনাটি এগিয়ে চলে: তখন আবু বকর (রাঃ) নবী ﷺ-এর হাত ধরে বললেন, যথেষ্ট হয়েছে, হে আল্লাহর রাসূল ﷺ! আপনি আপনার রবের কাছে অনেক পীড়াপীড়ি করে চেয়েছেন। নবী ﷺ তখন বর্ম পরা ছিলেন। তিনি বেরিয়ে এলেন এ তিলাওয়াত করতে করতে: এ দল শীঘ্রই পরাজিত হবে আর পিঠ ফিরিয়ে পালাবে। বরং কিয়ামতই তাদের নির্ধারিত সময় (তাদের পূর্ণ প্রতিফলের জন্য), আর কিয়ামত আরও ভয়াবহ, আরও তিক্ত। ইমাম বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে রেখেছেন, নিজের পক্ষ থেকে আলাদা কোনো মান যোগ করেননি।"
           },
           {
             "en": "The recitation is 54:45 and 54:46 together: the promise of a rout, and the verse that looks past it. Al-Bukhari's 4875, from the same Companion, has the same scene but ends the recitation at 54:45. Ibn Kathir reads 54:45 itself as a statement that their gathering would scatter and they would be defeated. The two verses therefore do different work. One speaks of a day in this world, and the other of the appointment after it.",
-            "bn": "তিলাওয়াতটি ছিল ৫৪:৪৫ ও ৫৪:৪৬ আয়াত একসঙ্গে: পরাজয়ের প্রতিশ্রুতি, আর তার পরের আয়াত, যা পরাজয় ছাড়িয়ে আরও দূরে তাকায়। একই সাহাবী থেকে ইমাম বুখারীর ৪৮৭৫ নম্বর বর্ণনায় একই দৃশ্য আছে, তবে তিলাওয়াত সেখানে ৫৪:৪৫ আয়াতে থেমে গেছে। ইবন কাসীর ৫৪:৪৫ আয়াতকে পড়েন এ ঘোষণা হিসেবে যে তাদের দল ছত্রভঙ্গ হবে আর তারা পরাজিত হবে। তাই দুই আয়াতের কাজ আলাদা। প্রথমটি দুনিয়ার একটি দিনের কথা বলে, দ্বিতীয়টি তার পরের নির্ধারিত সাক্ষাতের।"
+            "bn": "তিলাওয়াতটি ছিল ৫৪:৪৫ ও ৫৪:৪৬ আয়াত একসঙ্গে: পরাজয়ের প্রতিশ্রুতি, আর তার পরের আয়াত, যা পরাজয় ছাড়িয়ে আরও দূরে তাকায়। একই সাহাবী থেকে ইমাম বুখারীর ৪৮৭৫ নম্বর বর্ণনায় একই দৃশ্য আছে, তবে তিলাওয়াত সেখানে ৫৪:৪৫ আয়াতে থেমে গেছে। ইবন কাসীর ৫৪:৪৫ আয়াতকে পড়েন এ ঘোষণা হিসেবে যে তাদের দল ছত্রভঙ্গ হবে আর তারা পরাজিত হবে। তাই দুই আয়াতের কাজ আলাদা। প্রথমটি দুনিয়ার একটি দিনের কথা বলে, দ্বিতীয়টি তার পরের নির্ধারিত সাক্ষাতের।"
           },
           {
             "en": "Put the two narrations side by side. Aisha (RA) remembered the verse coming down in Makkah while she was a girl at play. Ibn Abbas (RA) reports the Prophet ﷺ reciting it at Badr, in armour, straight after pleading with his Lord in his tent. The same words reach the reader through two moments, a girl's memory and a field of battle. And when he recited them on the field, he did not stop at the promise of a rout. He went on to the verse that says the rout is not the last word.",
-            "bn": "দুটি বর্ণনা পাশাপাশি রাখুন। আয়েশা (রাঃ)-এর মনে ছিল, আয়াতটি মক্কায় নাজিল হয়েছিল যখন তিনি খেলাধুলা করা মেয়ে। ইবন আব্বাস (রাঃ) জানাচ্ছেন, নবী ﷺ বদরে বর্ম পরা অবস্থায়, তাঁবুতে রবের কাছে কাতর মিনতির ঠিক পরেই, আয়াতটি তিলাওয়াত করছিলেন। একই বাক্য পাঠকের কাছে পৌঁছায় দুটি মুহূর্তের ভেতর দিয়ে: এক বালিকার স্মৃতি, আর এক যুদ্ধের ময়দান। আর ময়দানে তিলাওয়াতের সময় তিনি পরাজয়ের প্রতিশ্রুতিতে থেমে যাননি। এগিয়ে গেছেন সেই আয়াতে, যা বলে, এ পরাজয়ই শেষ কথা নয়।"
+            "bn": "দুটি বর্ণনা পাশাপাশি রাখুন। আয়েশা (রাঃ)-এর মনে ছিল, আয়াতটি মক্কায় নাজিল হয়েছিল যখন তিনি খেলাধুলা করা মেয়ে। ইবন আব্বাস (রাঃ) জানাচ্ছেন, নবী ﷺ বদরে বর্ম পরা অবস্থায়, তাঁবুতে রবের কাছে কাতর মিনতির ঠিক পরেই, আয়াতটি তিলাওয়াত করছিলেন। একই বাক্য পাঠকের কাছে পৌঁছায় দুটি মুহূর্তের ভেতর দিয়ে: এক বালিকার স্মৃতি, আর এক যুদ্ধের ময়দান। আর ময়দানে তিলাওয়াতের সময় তিনি পরাজয়ের প্রতিশ্রুতিতে থেমে যাননি। এগিয়ে গেছেন সেই আয়াতে, যা বলে, এ পরাজয়ই শেষ কথা নয়।"
           }
         ]
       },
@@ -1089,18 +1089,18 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Sa'di opens his comment by looking back at the defeat. Even so, he says, they have an appointment at which the first of them and the last of them are gathered: whoever among them was struck down in this world, and whoever was left to enjoy its pleasures. His point is that a worldly blow reaches some of them and passes others by, so that among those who boasted in 54:44, some are struck down and others are left at ease. The appointment of the Hour leaves none of them out.",
-            "bn": "সা'দী এ আয়াতের আলোচনা শুরু করেন আগের পরাজয়ের দিকে ফিরে তাকিয়ে। তিনি বলেন, এরপরও তাদের জন্য এমন এক নির্ধারিত সময় আছে, যেখানে তাদের আগের ও পরের সবাইকে একত্র করা হবে। তাদের মধ্যে যে দুনিয়াতেই বিপদে পড়েছে, সে-ও থাকবে, আর যাকে দুনিয়ার ভোগবিলাসে ছেড়ে রাখা হয়েছিল, সে-ও। তাঁর কথার মর্ম হলো, দুনিয়ার আঘাত তাদের কাউকে ছোঁয়, কাউকে পাশ কাটিয়ে যায়। ফলে ৫৪:৪৪ আয়াতে যারা দম্ভ করেছিল, তাদের কেউ আঘাতে পড়ে যায়, কেউ আরামে থেকে যায়। কিয়ামতের নির্ধারিত সময় কাউকেই বাদ দেয় না।"
+            "bn": "সা'দী এ আয়াতের আলোচনা শুরু করেন আগের পরাজয়ের দিকে ফিরে তাকিয়ে। তিনি বলেন, এরপরও তাদের জন্য এমন এক নির্ধারিত সময় আছে, যেখানে তাদের আগের ও পরের সবাইকে একত্র করা হবে। তাদের মধ্যে যে দুনিয়াতেই বিপদে পড়েছে, সে-ও থাকবে, আর যাকে দুনিয়ার ভোগবিলাসে ছেড়ে রাখা হয়েছিল, সে-ও। তাঁর কথার মর্ম হলো, দুনিয়ার আঘাত তাদের কাউকে ছোঁয়, কাউকে পাশ কাটিয়ে যায়। ফলে ৫৪:৪৪ আয়াতে যারা দম্ভ করেছিল, তাদের কেউ আঘাতে পড়ে যায়, কেউ আরামে থেকে যায়। কিয়ামতের নির্ধারিত সময় কাউকেই বাদ দেয় না।"
           },
           {
             "en": "At-Tabari carries one report on the verse, with his own chain, from Shahr ibn Hawshab. As printed it is brief: this verse came down with destruction; their appointment is only the Hour. Then Shahr recited from 54:43 to 54:46. These are Shahr's own words, not a hadith of the Prophet ﷺ, and the clipped wording is left as it stands rather than filled out. What it plainly does is read the four verses as one passage, the warning to the deniers and its ending in the Hour.",
-            "bn": "তাবারী এ আয়াতে নিজের সনদে একটিমাত্র বর্ণনা আনেন, শাহর ইবন হাওশাব থেকে। ছাপা পাঠে কথাটি সংক্ষিপ্ত: এ আয়াত ধ্বংস নিয়ে নাজিল হয়েছে; তাদের নির্ধারিত সময় কেবল কিয়ামত। তারপর শাহর ৫৪:৪৩ থেকে ৫৪:৪৬ পর্যন্ত তিলাওয়াত করেন। এ কথা শাহরের নিজের, নবী ﷺ-এর হাদিস নয়। ছাঁটা বাক্যটি আমরা যেমন আছে তেমনই রেখেছি, নিজের থেকে পূরণ করিনি। তবে এটুকু স্পষ্ট যে তিনি চারটি আয়াতকে একটি টানা অংশ হিসেবে পড়েছেন: অস্বীকারকারীদের প্রতি সতর্কবাণী, আর তার শেষ কিয়ামতে।"
+            "bn": "তাবারী এ আয়াতে নিজের সনদে একটিমাত্র বর্ণনা আনেন, শাহর ইবন হাওশাব থেকে। ছাপা পাঠে কথাটি সংক্ষিপ্ত: এ আয়াত ধ্বংস নিয়ে নাজিল হয়েছে; তাদের নির্ধারিত সময় কেবল কিয়ামত। তারপর শাহর ৫৪:৪৩ থেকে ৫৪:৪৬ পর্যন্ত তিলাওয়াত করেন। এ কথা শাহরের নিজের, নবী ﷺ-এর হাদিস নয়। ছাঁটা বাক্যটি আমরা যেমন আছে তেমনই রেখেছি, নিজের থেকে পূরণ করিনি। তবে এটুকু স্পষ্ট যে তিনি চারটি আয়াতকে একটি টানা অংশ হিসেবে পড়েছেন: অস্বীকারকারীদের প্রতি সতর্কবাণী, আর তার শেষ কিয়ামতে।"
           }
         ]
       },
       {
         "h": {
           "en": "No Verdict on Anyone Today",
-          "bn": "আজকের কারও উপর রায় নয়"
+          "bn": "আজকের কারও উপর রায় নয়"
         },
         "p": [
           {
@@ -1109,23 +1109,23 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The next two verses go on in the same passage, and they are read here only as pointers. 54:47 says that the criminals are in error and madness, and 54:48 speaks of the day they are dragged into the Fire on their faces and told to taste the touch of Saqar. Their own words belong to their own study. What 54:46 contributes is narrower and steadier: a worldly defeat is not the final reckoning, and the Hour is heavier than any defeat.",
-            "bn": "পরের দুটি আয়াত একই অংশে কথাটা এগিয়ে নেয়। এখানে সেগুলোর দিকে শুধু ইশারা করা হলো। ৫৪:৪৭ আয়াত বলে, অপরাধীরা গুমরাহি আর উন্মাদনায় আছে। ৫৪:৪৮ আয়াত বলে সেই দিনের কথা, যেদিন তাদের মুখের ভরে আগুনে টেনে নেওয়া হবে আর বলা হবে, সাকারের স্পর্শ আস্বাদন করো। সেসব আয়াতের আলোচনা তাদের নিজের জায়গায়। ৫৪:৪৬ আয়াত যা দেয়, তা আরও সীমিত, তবে আরও স্থির: দুনিয়ার পরাজয় চূড়ান্ত হিসাব নয়, আর কিয়ামত যেকোনো পরাজয়ের চেয়ে ভারী।"
+            "bn": "পরের দুটি আয়াত একই অংশে কথাটা এগিয়ে নেয়। এখানে সেগুলোর দিকে শুধু ইশারা করা হলো। ৫৪:৪৭ আয়াত বলে, অপরাধীরা গুমরাহি আর উন্মাদনায় আছে। ৫৪:৪৮ আয়াত বলে সেই দিনের কথা, যেদিন তাদের মুখের ভরে আগুনে টেনে নেওয়া হবে আর বলা হবে, সাকারের স্পর্শ আস্বাদন করো। সেসব আয়াতের আলোচনা তাদের নিজের জায়গায়। ৫৪:৪৬ আয়াত যা দেয়, তা আরও সীমিত, তবে আরও স্থির: দুনিয়ার পরাজয় চূড়ান্ত হিসাব নয়, আর কিয়ামত যেকোনো পরাজয়ের চেয়ে ভারী।"
           }
         ]
       },
       {
         "h": {
           "en": "Measuring Setbacks by the Hour",
-          "bn": "কিয়ামতের মাপে বিপদ মাপা"
+          "bn": "কিয়ামতের মাপে বিপদ মাপা"
         },
         "p": [
           {
             "en": "The verse was first heard by people who trusted their numbers. Read today, it asks a quieter question of the reader. What do I treat as the worst thing that could happen to me? A failure, a public loss, a defeat by people I resent? The verse sets every such loss beside the Hour and calls the Hour more calamitous and more bitter. That is no reason to stop caring about this world's hardships. It is a reason not to let them become the measure of everything.",
-            "bn": "আয়াতটি প্রথম শুনেছিল এমন লোকেরা, যারা নিজেদের সংখ্যার উপর ভরসা করত। আজ পড়লে আয়াতটি পাঠকের সামনে আরও চুপচাপ একটা প্রশ্ন রাখে। আমার জীবনে সবচেয়ে খারাপ কী ঘটতে পারে বলে আমি ধরে নিই? কোনো ব্যর্থতা, সবার সামনে কোনো ক্ষতি, নাকি যাদের আমি পছন্দ করি না তাদের হাতে হার? আয়াতটি এমন প্রতিটি ক্ষতিকে কিয়ামতের পাশে রাখে, আর কিয়ামতকে বলে আরও ভয়াবহ, আরও তিক্ত। এর মানে এই নয় যে দুনিয়ার কষ্ট নিয়ে আর ভাবতে হবে না। মানে হলো, সেসব কষ্টকে সবকিছুর মাপকাঠি বানানো যাবে না।"
+            "bn": "আয়াতটি প্রথম শুনেছিল এমন লোকেরা, যারা নিজেদের সংখ্যার উপর ভরসা করত। আজ পড়লে আয়াতটি পাঠকের সামনে আরও চুপচাপ একটা প্রশ্ন রাখে। আমার জীবনে সবচেয়ে খারাপ কী ঘটতে পারে বলে আমি ধরে নিই? কোনো ব্যর্থতা, সবার সামনে কোনো ক্ষতি, নাকি যাদের আমি পছন্দ করি না তাদের হাতে হার? আয়াতটি এমন প্রতিটি ক্ষতিকে কিয়ামতের পাশে রাখে, আর কিয়ামতকে বলে আরও ভয়াবহ, আরও তিক্ত। এর মানে এই নয় যে দুনিয়ার কষ্ট নিয়ে আর ভাবতে হবে না। মানে হলো, সেসব কষ্টকে সবকিছুর মাপকাঠি বানানো যাবে না।"
           },
           {
             "en": "It cuts the other way too. A person who has escaped every visible consequence has not escaped the appointment. As-Sa'di's words cover exactly that case: whoever was left to enjoy his pleasures is gathered with whoever was struck down. The Prophet ﷺ recited this verse as he went out to meet the enemy, and he did not stop at the promise of their rout. Even with a victory promised, the Hour stayed in view, and it is the appointment worth getting ready for, before any other.",
-            "bn": "কথাটা উল্টো দিকেও খাটে। যে মানুষ চোখে দেখা সব পরিণতি এড়িয়ে গেছে, সে-ও নির্ধারিত সময় এড়াতে পারেনি। সা'দীর কথা ঠিক এ অবস্থাকেই ধরে: দুনিয়ার ভোগে যাকে ছেড়ে রাখা হয়েছিল, তাকেও একত্র করা হবে তার সঙ্গে, যে বিপদে পড়েছিল। নবী ﷺ শত্রুর মুখোমুখি হতে বেরিয়ে যাওয়ার সময় এ আয়াত তিলাওয়াত করেছিলেন, আর তাদের পরাজয়ের প্রতিশ্রুতিতে থেমে যাননি। বিজয়ের প্রতিশ্রুতি পাওয়ার পরও কিয়ামত তাঁর চোখের সামনে ছিল। আর সবকিছুর আগে প্রস্তুতি নিতে হয় সেই নির্ধারিত সময়ের জন্যই।"
+            "bn": "কথাটা উল্টো দিকেও খাটে। যে মানুষ চোখে দেখা সব পরিণতি এড়িয়ে গেছে, সে-ও নির্ধারিত সময় এড়াতে পারেনি। সা'দীর কথা ঠিক এ অবস্থাকেই ধরে: দুনিয়ার ভোগে যাকে ছেড়ে রাখা হয়েছিল, তাকেও একত্র করা হবে তার সঙ্গে, যে বিপদে পড়েছিল। নবী ﷺ শত্রুর মুখোমুখি হতে বেরিয়ে যাওয়ার সময় এ আয়াত তিলাওয়াত করেছিলেন, আর তাদের পরাজয়ের প্রতিশ্রুতিতে থেমে যাননি। বিজয়ের প্রতিশ্রুতি পাওয়ার পরও কিয়ামত তাঁর চোখের সামনে ছিল। আর সবকিছুর আগে প্রস্তুতি নিতে হয় সেই নির্ধারিত সময়ের জন্যই।"
           }
         ]
       }
@@ -1141,11 +1141,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Inna l-muttaqina fi jannatin wa nahar: indeed, those mindful of Allah are in gardens and, word for word, a river. The verse is five Arabic words long, and it comes straight after two verses about records. Everything they did is in the zubur, the written registers, and every small and great thing is inscribed (54:52 and 54:53). The surah has just told its listener that nothing escapes the pen. Its next sentence names who comes out of that reckoning well, and where they are.",
-            "bn": "ইন্নাল মুত্তাকীনা ফী জান্নাতিউঁ ওয়া নাহার: নিশ্চয়ই মুত্তাকীরা থাকবে বাগানে আর, শব্দে শব্দে ধরলে, এক নহরে। আরবিতে আয়াতটি মাত্র পাঁচ শব্দের। এর ঠিক আগে দুটি আয়াত লেখা আর হিসাবের কথা বলে। তারা যা করেছে সব আছে যুবুরে, অর্থাৎ লিখিত দপ্তরে। ছোট-বড় সবকিছু লিপিবদ্ধ (৫৪:৫২ ও ৫৪:৫৩)। শ্রোতা এইমাত্র শুনল, কলমের বাইরে কিছুই থাকে না। পরের বাক্যেই সূরা বলে দেয়, সেই হিসাব থেকে কারা ভালোভাবে বেরিয়ে আসবে, আর তারা থাকবে কোথায়।"
+            "bn": "ইন্নাল মুত্তাকীনা ফী জান্নাতিউঁ ওয়া নাহার: নিশ্চয়ই মুত্তাকীরা থাকবে বাগানে আর, শব্দে শব্দে ধরলে, এক নহরে। আরবিতে আয়াতটি মাত্র পাঁচ শব্দের। এর ঠিক আগে দুটি আয়াত লেখা আর হিসাবের কথা বলে। তারা যা করেছে সব আছে যুবুরে, অর্থাৎ লিখিত দপ্তরে। ছোট-বড় সবকিছু লিপিবদ্ধ (৫৪:৫২ ও ৫৪:৫৩)। শ্রোতা এইমাত্র শুনল, কলমের বাইরে কিছুই থাকে না। পরের বাক্যেই সূরা বলে দেয়, সেই হিসাব থেকে কারা ভালোভাবে বেরিয়ে আসবে, আর তারা থাকবে কোথায়।"
           },
           {
             "en": "Al-Qurtubi gives the link in one clause: having described the disbelievers, He described the believers too. The order matters. Fear is not left standing alone near the close of Surah al-Qamar, of which this is the second-to-last verse; the account of those dragged into the Fire is answered, within a few lines, by an account of those in gardens. Al-Muyassar keeps its gloss as short as the verse itself: the mindful are in great orchards and wide rivers on the Day of Resurrection.",
-            "bn": "কুরতুবী সংযোগটা ধরিয়ে দেন একটি বাক্যেই: কাফিরদের বর্ণনা দেওয়ার পর আল্লাহ মুমিনদেরও বর্ণনা দিলেন। এই ক্রমটা গুরুত্বপূর্ণ। সূরা আল-কামারের এটি শেষের আগের আয়াত। সূরার শেষ প্রান্তে ভয়কে একা দাঁড় করিয়ে রাখা হয়নি। যাদের আগুনে হিঁচড়ে নেওয়া হবে, তাদের বিবরণের জবাব আসে কয়েক লাইনের মধ্যেই, বাগানবাসীদের বিবরণ দিয়ে। মুয়াসসারের ব্যাখ্যাও আয়াতের মতোই ছোট: মুত্তাকীরা কিয়ামতের দিন থাকবে বিশাল বাগিচায় আর প্রশস্ত নদীর মাঝে।"
+            "bn": "কুরতুবী সংযোগটা ধরিয়ে দেন একটি বাক্যেই: কাফিরদের বর্ণনা দেওয়ার পর আল্লাহ মুমিনদেরও বর্ণনা দিলেন। এই ক্রমটা গুরুত্বপূর্ণ। সূরা আল-কামারের এটি শেষের আগের আয়াত। সূরার শেষ প্রান্তে ভয়কে একা দাঁড় করিয়ে রাখা হয়নি। যাদের আগুনে হিঁচড়ে নেওয়া হবে, তাদের বিবরণের জবাব আসে কয়েক লাইনের মধ্যেই, বাগানবাসীদের বিবরণ দিয়ে। মুয়াসসারের ব্যাখ্যাও আয়াতের মতোই ছোট: মুত্তাকীরা কিয়ামতের দিন থাকবে বিশাল বাগিচায় আর প্রশস্ত নদীর মাঝে।"
           }
         ]
       },
@@ -1157,31 +1157,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Set the verse beside 54:47 and the construction repeats. Inna l-mujrimina fi dalalin wa su'ur: indeed, the criminals are in error and blazing fire. Inna l-muttaqina fi jannatin wa nahar: indeed, the mindful are in gardens and a river. Each opens with inna, names a group, and places it fi, in, two nouns joined by wa. The listener hears the same mould twice, filled once with loss and once with reward, and the sameness of the frame makes the difference of the contents louder.",
-            "bn": "আয়াতটিকে ৫৪:৪৭-এর পাশে রাখলে দেখা যায় গড়নটা ফিরে এসেছে। ইন্নাল মুজরিমীনা ফী দালালিউঁ ওয়া সুউর: নিশ্চয়ই অপরাধীরা আছে পথভ্রষ্টতা আর জ্বলন্ত আগুনে। ইন্নাল মুত্তাকীনা ফী জান্নাতিউঁ ওয়া নাহার: নিশ্চয়ই মুত্তাকীরা আছে বাগানে আর নহরে। দুটোই শুরু ইন্না দিয়ে। দুটোতেই একটি দলের নাম, তারপর ফী, অর্থাৎ ভেতরে, আর ওয়া দিয়ে জোড়া দুটি বিশেষ্য। শ্রোতা একই ছাঁচ দুবার শোনে। একবার তা ভরা ক্ষতি দিয়ে, আরেকবার প্রতিদান দিয়ে। কাঠামো এক বলেই ভেতরের ফারাকটা আরও জোরে কানে বাজে।"
+            "bn": "আয়াতটিকে ৫৪:৪৭-এর পাশে রাখলে দেখা যায় গড়নটা ফিরে এসেছে। ইন্নাল মুজরিমীনা ফী দালালিউঁ ওয়া সুউর: নিশ্চয়ই অপরাধীরা আছে পথভ্রষ্টতা আর জ্বলন্ত আগুনে। ইন্নাল মুত্তাকীনা ফী জান্নাতিউঁ ওয়া নাহার: নিশ্চয়ই মুত্তাকীরা আছে বাগানে আর নহরে। দুটোই শুরু ইন্না দিয়ে। দুটোতেই একটি দলের নাম, তারপর ফী, অর্থাৎ ভেতরে, আর ওয়া দিয়ে জোড়া দুটি বিশেষ্য। শ্রোতা একই ছাঁচ দুবার শোনে। একবার তা ভরা ক্ষতি দিয়ে, আরেকবার প্রতিদান দিয়ে। কাঠামো এক বলেই ভেতরের ফারাকটা আরও জোরে কানে বাজে।"
           },
           {
             "en": "Ibn Kathir reads the verse openly as that reversal. His Arabic tafsir glosses the verse in one move: the mindful are placed in the opposite of what the wretched are in: misguidance, burning, and being dragged in the Fire on their faces, with rebuke, reproach and threat. The abridged English version keeps the same contrast: loss, confusion, being dragged into the Fire on their faces, disgraced, punished and threatened. Both point back to 54:48, the Day they are dragged on their faces and told to taste the touch of Saqar.",
-            "bn": "ইবন কাসীর আয়াতটিকে সরাসরি এই উল্টো চিত্র হিসেবেই পড়েন। তাঁর আরবি তাফসীর আয়াতটির ব্যাখ্যা করে এক কথায়: হতভাগারা যে অবস্থায় আছে, মুত্তাকীরা আছে তার ঠিক বিপরীতে। তাদের ভাগে পথভ্রষ্টতা, দহন, আর মুখের ভরে আগুনে হিঁচড়ে নেওয়া, সঙ্গে ভর্ৎসনা, তিরস্কার ও হুমকি। সংক্ষিপ্ত ইংরেজি সংস্করণেও একই বৈপরীত্য: ক্ষতি, বিভ্রান্তি, মুখের ভরে আগুনে টেনে নেওয়া, অপমান, শাস্তি আর হুমকি। দুটো ভাষ্যই ইঙ্গিত করে ৫৪:৪৮-এর দিকে, যেদিন তাদের মুখের ভরে টেনে নিয়ে বলা হবে, সাকারের স্পর্শ আস্বাদন করো।"
+            "bn": "ইবন কাসীর আয়াতটিকে সরাসরি এই উল্টো চিত্র হিসেবেই পড়েন। তাঁর আরবি তাফসীর আয়াতটির ব্যাখ্যা করে এক কথায়: হতভাগারা যে অবস্থায় আছে, মুত্তাকীরা আছে তার ঠিক বিপরীতে। তাদের ভাগে পথভ্রষ্টতা, দহন, আর মুখের ভরে আগুনে হিঁচড়ে নেওয়া, সঙ্গে ভর্ৎসনা, তিরস্কার ও হুমকি। সংক্ষিপ্ত ইংরেজি সংস্করণেও একই বৈপরীত্য: ক্ষতি, বিভ্রান্তি, মুখের ভরে আগুনে টেনে নেওয়া, অপমান, শাস্তি আর হুমকি। দুটো ভাষ্যই ইঙ্গিত করে ৫৪:৪৮-এর দিকে, যেদিন তাদের মুখের ভরে টেনে নিয়ে বলা হবে, সাকারের স্পর্শ আস্বাদন করো।"
           },
           {
             "en": "One thing needs saying plainly. These verses describe two groups as the Qur'an describes them, by their deeds and by their end on the Day of Resurrection. They license nothing against any living person or community. No reader is handed the right to name who the criminals are today, or to treat anyone as already condemned. The contrast is held up as a mirror for the one reading it, who is being asked which of the two descriptions their own record is building.",
-            "bn": "একটা কথা সোজাসুজি বলে রাখা দরকার। এই আয়াতগুলো দুটি দলের বিবরণ দেয় ঠিক যেভাবে কুরআন দিয়েছে: তাদের আমল আর কিয়ামতের দিন তাদের পরিণতি দিয়ে। আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের দিনে কারা অপরাধী, সে নাম ঠিক করার অধিকার কোনো পাঠককে দেওয়া হয়নি। কাউকে আগেভাগে দণ্ডিত ধরে নেওয়ারও না। এই বৈপরীত্য আসলে পাঠকের নিজের সামনে ধরা আয়না। প্রশ্নটা তাকেই: তার নিজের আমলনামা দুই বিবরণের কোনটা গড়ে তুলছে?"
+            "bn": "একটা কথা সোজাসুজি বলে রাখা দরকার। এই আয়াতগুলো দুটি দলের বিবরণ দেয় ঠিক যেভাবে কুরআন দিয়েছে: তাদের আমল আর কিয়ামতের দিন তাদের পরিণতি দিয়ে। আজ বেঁচে থাকা কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না। আজকের দিনে কারা অপরাধী, সে নাম ঠিক করার অধিকার কোনো পাঠককে দেওয়া হয়নি। কাউকে আগেভাগে দণ্ডিত ধরে নেওয়ারও না। এই বৈপরীত্য আসলে পাঠকের নিজের সামনে ধরা আয়না। প্রশ্নটা তাকেই: তার নিজের আমলনামা দুই বিবরণের কোনটা গড়ে তুলছে?"
           }
         ]
       },
       {
         "h": {
           "en": "Taqwa Spelled Out in Deeds",
-          "bn": "আমলে লেখা তাকওয়ার সংজ্ঞা"
+          "bn": "আমলে লেখা তাকওয়ার সংজ্ঞা"
         },
         "p": [
           {
             "en": "Who are the muttaqin? At-Tabari answers in a single line: those who guarded themselves against Allah's punishment by obeying Him, performing what He made obligatory, and avoiding acts of disobedience to Him. They are, he says, in orchards on the Day of Resurrection, and rivers. His definition is made entirely of actions. Taqwa in at-Tabari's sentence is not first a mood; it is obedience, obligations kept and sins avoided, three things a person either does or fails to do on any given day.",
-            "bn": "মুত্তাকী কারা? তাবারী উত্তর দেন এক লাইনে: যারা আল্লাহর শাস্তি থেকে নিজেদের বাঁচিয়েছে তাঁর আনুগত্য করে, তাঁর ফরজ আদায় করে আর তাঁর নাফরমানি থেকে দূরে থেকে। তাঁর ভাষায়, কিয়ামতের দিন তারা থাকবে বাগিচায়, আর নদীর মাঝে। লক্ষ করুন, তাঁর সংজ্ঞাটা পুরোটাই আমল দিয়ে গড়া। তাবারীর বাক্যে তাকওয়া আগে কোনো মনের অবস্থা নয়। তা হলো আনুগত্য, ফরজ পালন আর গুনাহ বর্জন। এই তিনটি কাজ মানুষ প্রতিদিন হয় করে, নয়তো করে না।"
+            "bn": "মুত্তাকী কারা? তাবারী উত্তর দেন এক লাইনে: যারা আল্লাহর শাস্তি থেকে নিজেদের বাঁচিয়েছে তাঁর আনুগত্য করে, তাঁর ফরজ আদায় করে আর তাঁর নাফরমানি থেকে দূরে থেকে। তাঁর ভাষায়, কিয়ামতের দিন তারা থাকবে বাগিচায়, আর নদীর মাঝে। লক্ষ করুন, তাঁর সংজ্ঞাটা পুরোটাই আমল দিয়ে গড়া। তাবারীর বাক্যে তাকওয়া আগে কোনো মনের অবস্থা নয়। তা হলো আনুগত্য, ফরজ পালন আর গুনাহ বর্জন। এই তিনটি কাজ মানুষ প্রতিদিন হয় করে, নয়তো করে না।"
           },
           {
             "en": "As-Sa'di's definition runs on the same lines and then goes further down: the mindful of Allah are those who do what He commands and leave what He forbids, who guarded against shirk, against the major sins, and against the minor sins. The reader may notice how closely that last item sits beside 54:53, every small and great thing is inscribed. Those whose small deeds are written are the ones described as having guarded against small sins as well as large, not only against the obvious ones.",
-            "bn": "সা'দীর সংজ্ঞাও একই পথে চলে, তারপর আরও গভীরে নামে। তাঁর মতে মুত্তাকী তারা, যারা আল্লাহর আদেশ পালন করে আর তাঁর নিষেধ থেকে দূরে থাকে। যারা শিরক থেকে বেঁচেছে, কবীরা গুনাহ থেকে বেঁচেছে, সগীরা গুনাহ থেকেও বেঁচেছে। শেষ কথাটির সঙ্গে ৫৪:৫৩-এর মিল পাঠকের চোখে পড়তে পারে: ছোট-বড় সবকিছু লিপিবদ্ধ। যাদের ছোট আমলও লেখা হয়, তাদের প্রশংসা এখানে এ জন্য যে তারা শুধু বড় আর চোখে পড়া গুনাহ নয়, ছোট গুনাহ থেকেও নিজেকে সামলেছে।"
+            "bn": "সা'দীর সংজ্ঞাও একই পথে চলে, তারপর আরও গভীরে নামে। তাঁর মতে মুত্তাকী তারা, যারা আল্লাহর আদেশ পালন করে আর তাঁর নিষেধ থেকে দূরে থাকে। যারা শিরক থেকে বেঁচেছে, কবীরা গুনাহ থেকে বেঁচেছে, সগীরা গুনাহ থেকেও বেঁচেছে। শেষ কথাটির সঙ্গে ৫৪:৫৩-এর মিল পাঠকের চোখে পড়তে পারে: ছোট-বড় সবকিছু লিপিবদ্ধ। যাদের ছোট আমলও লেখা হয়, তাদের প্রশংসা এখানে এ জন্য যে তারা শুধু বড় আর চোখে পড়া গুনাহ নয়, ছোট গুনাহ থেকেও নিজেকে সামলেছে।"
           }
         ]
       },
@@ -1193,15 +1193,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The gardens, jannat, are plural; nahar, river, is singular. At-Tabari says the word was made singular in its wording while its meaning is plural, and he gives a parallel from this same surah: yuwalluna d-dubur in 54:45, they will turn their backs, where dubur is likewise singular in form with a wider meaning. On this reading the mindful are among orchards and rivers, and the one noun speaks for the whole kind, the way a single word can name a crowd.",
-            "bn": "জান্নাত, অর্থাৎ বাগান, বহুবচন। নাহার, অর্থাৎ নদী, একবচন। তাবারী বলেন, শব্দটা শব্দরূপে একবচন রাখা হয়েছে, কিন্তু অর্থে তা বহুবচন। নজির হিসেবে তিনি এই সূরা থেকেই আনেন ৫৪:৪৫: ইউওয়াল্লূনাদ দুবুর, তারা পিঠ ফিরিয়ে পালাবে। সেখানেও দুবুর শব্দটা গঠনে একবচন, অথচ অর্থ তার চেয়ে প্রশস্ত। এই ব্যাখ্যায় মুত্তাকীরা থাকবে নানা বাগিচা আর নানা নদীর মাঝে। একটিমাত্র বিশেষ্য গোটা জাতের হয়ে কথা বলছে, যেমন একটা শব্দে একটা ভিড়ের নাম হয়ে যায়।"
+            "bn": "জান্নাত, অর্থাৎ বাগান, বহুবচন। নাহার, অর্থাৎ নদী, একবচন। তাবারী বলেন, শব্দটা শব্দরূপে একবচন রাখা হয়েছে, কিন্তু অর্থে তা বহুবচন। নজির হিসেবে তিনি এই সূরা থেকেই আনেন ৫৪:৪৫: ইউওয়াল্লূনাদ দুবুর, তারা পিঠ ফিরিয়ে পালাবে। সেখানেও দুবুর শব্দটা গঠনে একবচন, অথচ অর্থ তার চেয়ে প্রশস্ত। এই ব্যাখ্যায় মুত্তাকীরা থাকবে নানা বাগিচা আর নানা নদীর মাঝে। একটিমাত্র বিশেষ্য গোটা জাতের হয়ে কথা বলছে, যেমন একটা শব্দে একটা ভিড়ের নাম হয়ে যায়।"
           },
           {
             "en": "Al-Baghawi and al-Qurtubi add a reason for the singular: the verse ending. Al-Baghawi says it was made singular for the sake of the verse-ends; al-Qurtubi says it is because the word is ra's al-ayah, the verse's closing word, and adds that a singular can tell of a plural. Listen to the endings around it and the point is audible: su'ur, saqar, qadar, basar, muddakir, zubur, mustatar, nahar, muqtadir. Each closes on r after a short vowel, and the singular nahar fits that pattern.",
-            "bn": "বাগাভী আর কুরতুবী একবচনের আরেকটা কারণ যোগ করেন: আয়াতের শেষ শব্দের মিল। বাগাভী বলেন, আয়াতগুলোর শেষের মিলের খাতিরেই শব্দটা একবচন। কুরতুবী বলেন, শব্দটি রা'সুল আয়াহ, অর্থাৎ আয়াতের শেষ শব্দ, তাই একবচন। সঙ্গে যোগ করেন, একবচন অনেক সময় বহুবচনের খবরও দেয়। আশপাশের আয়াতগুলোর শেষ শব্দ কানে শুনলেই কথাটা ধরা পড়ে: সুউর, সাকার, কাদার, বাসার, মুদ্দাকির, যুবুর, মুস্তাতার, নাহার, মুকতাদির। প্রতিটিই শেষ হয় হ্রস্ব স্বরের পরে র-ধ্বনিতে। একবচন নাহারও সেই ছাঁদেই বসে যায়।"
+            "bn": "বাগাভী আর কুরতুবী একবচনের আরেকটা কারণ যোগ করেন: আয়াতের শেষ শব্দের মিল। বাগাভী বলেন, আয়াতগুলোর শেষের মিলের খাতিরেই শব্দটা একবচন। কুরতুবী বলেন, শব্দটি রা'সুল আয়াহ, অর্থাৎ আয়াতের শেষ শব্দ, তাই একবচন। সঙ্গে যোগ করেন, একবচন অনেক সময় বহুবচনের খবরও দেয়। আশপাশের আয়াতগুলোর শেষ শব্দ কানে শুনলেই কথাটা ধরা পড়ে: সুউর, সাকার, কাদার, বাসার, মুদ্দাকির, যুবুর, মুস্তাতার, নাহার, মুকতাদির। প্রতিটিই শেষ হয় হ্রস্ব স্বরের পরে র-ধ্বনিতে। একবচন নাহারও সেই ছাঁদেই বসে যায়।"
           },
           {
             "en": "Which rivers? Al-Qurtubi reports from Ibn Jurayj that nahar here means rivers of water, wine, honey and milk. Al-Baghawi says the same without naming anyone: the intended sense is the rivers of Paradise, of water, wine, milk and honey. Neither commentator goes further at this verse, and this article does not either. The verse names only gardens and a river; the commentators who read it as rivers name four kinds, and the reader is left there, with what the sources actually say.",
-            "bn": "কোন নদী? কুরতুবী ইবন জুরাইজ থেকে বর্ণনা করেন, এখানে নাহার মানে পানি, শরাব, মধু আর দুধের নদী। বাগাভীও একই কথা বলেন, তবে কারও নাম না নিয়ে: উদ্দেশ্য জান্নাতের নদীগুলো, পানি, শরাব, দুধ আর মধুর। এই আয়াতের আলোচনায় দুজনের কেউই এর বেশি এগোননি। এই লেখাও এগোবে না। আয়াত নিজে শুধু বাগান আর এক নহরের নাম নেয়। যাঁরা একে নদী অর্থে পড়েছেন, তাঁরা নদীর চারটি ধরন বলেছেন। পাঠককে আমরা সেখানেই রেখে যাই, উৎসে যতটুকু আছে ততটুকুর সঙ্গে।"
+            "bn": "কোন নদী? কুরতুবী ইবন জুরাইজ থেকে বর্ণনা করেন, এখানে নাহার মানে পানি, শরাব, মধু আর দুধের নদী। বাগাভীও একই কথা বলেন, তবে কারও নাম না নিয়ে: উদ্দেশ্য জান্নাতের নদীগুলো, পানি, শরাব, দুধ আর মধুর। এই আয়াতের আলোচনায় দুজনের কেউই এর বেশি এগোননি। এই লেখাও এগোবে না। আয়াত নিজে শুধু বাগান আর এক নহরের নাম নেয়। যাঁরা একে নদী অর্থে পড়েছেন, তাঁরা নদীর চারটি ধরন বলেছেন। পাঠককে আমরা সেখানেই রেখে যাই, উৎসে যতটুকু আছে ততটুকুর সঙ্গে।"
           }
         ]
       },
@@ -1217,11 +1217,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi gives the same reading, also with and it was said: in light and spaciousness, from which comes nahar, day, for its light. He ties it to the phrase anhartu l-jurh, said of a wound, and quotes a line of poetry in which the same verb widens a tear until one standing in front can see what lies behind it. Al-Baghawi names the source of the reading: ad-Dahhak said it means in light and spaciousness, and from it comes the word for day. Light and width travel together in all three.",
-            "bn": "কুরতুবীও একই ব্যাখ্যা আনেন, তিনিও 'বলা হয়েছে' দিয়ে: আলো আর প্রশস্ততার মধ্যে। এ থেকেই দিনের নাম নাহার, কারণ দিনে আলো থাকে। তিনি একে জুড়ে দেন আনহারতুল জুরহ কথাটির সঙ্গে, যা ক্ষত প্রসঙ্গে বলা হয়। একটি কবিতার পঙ্‌ক্তিও উদ্ধৃত করেন, যেখানে একই ক্রিয়া দিয়ে একটা ফাটল এত চওড়া করা হয় যে সামনে দাঁড়ানো লোক ওপাশের সবকিছু দেখতে পায়। বাগাভী এ ব্যাখ্যার উৎসের নাম বলেন: দাহহাক বলেছেন, এর মানে আলো আর প্রশস্ততা, আর এ থেকেই দিনের নাম। তিনজনের কাছেই আলো আর প্রশস্ততা একসঙ্গে চলে।"
+            "bn": "কুরতুবীও একই ব্যাখ্যা আনেন, তিনিও 'বলা হয়েছে' দিয়ে: আলো আর প্রশস্ততার মধ্যে। এ থেকেই দিনের নাম নাহার, কারণ দিনে আলো থাকে। তিনি একে জুড়ে দেন আনহারতুল জুরহ কথাটির সঙ্গে, যা ক্ষত প্রসঙ্গে বলা হয়। একটি কবিতার পঙ্‌ক্তিও উদ্ধৃত করেন, যেখানে একই ক্রিয়া দিয়ে একটা ফাটল এত চওড়া করা হয় যে সামনে দাঁড়ানো লোক ওপাশের সবকিছু দেখতে পায়। বাগাভী এ ব্যাখ্যার উৎসের নাম বলেন: দাহহাক বলেছেন, এর মানে আলো আর প্রশস্ততা, আর এ থেকেই দিনের নাম। তিনজনের কাছেই আলো আর প্রশস্ততা একসঙ্গে চলে।"
           },
           {
             "en": "A further reading pushes the same idea. Al-Qurtubi reports that Abu Mijlaz, Abu Nahik, al-A'raj, Talha ibn Musarrif and Qatada read nuhur, with two dammas, as though it were the plural of nahar, day, meaning they have no night; he compares sahab and suhub. Al-Baghawi names al-A'raj alone for this reading and glosses it the same way: a day with no night for them. The text recited in this app reads nahar; nuhur is reported only as the reading of the people named.",
-            "bn": "আরেকটি পাঠ একই ভাবনাকে আরও এগিয়ে নেয়। কুরতুবী জানান, আবু মিজলায, আবু নাহীক, আ'রাজ, তালহা ইবন মুসাররিফ আর কাতাদা পড়েছেন নুহুর, দুই পেশ দিয়ে, যেন তা নাহার অর্থাৎ দিনের বহুবচন। মানে, তাদের জন্য কোনো রাত নেই। তুলনা হিসেবে তিনি আনেন সাহাব আর সুহুব। বাগাভী এ পাঠের জন্য শুধু আ'রাজের নাম নেন, ব্যাখ্যাও দেন একইভাবে: এমন দিন, যার পরে তাদের জন্য রাত নেই। এই অ্যাপে যে পাঠ তিলাওয়াত হয় তা নাহার। নুহুর পাঠটি এসেছে কেবল ওই নাম নেওয়া ব্যক্তিদের পাঠ হিসেবে।"
+            "bn": "আরেকটি পাঠ একই ভাবনাকে আরও এগিয়ে নেয়। কুরতুবী জানান, আবু মিজলায, আবু নাহীক, আ'রাজ, তালহা ইবন মুসাররিফ আর কাতাদা পড়েছেন নুহুর, দুই পেশ দিয়ে, যেন তা নাহার অর্থাৎ দিনের বহুবচন। মানে, তাদের জন্য কোনো রাত নেই। তুলনা হিসেবে তিনি আনেন সাহাব আর সুহুব। বাগাভী এ পাঠের জন্য শুধু আ'রাজের নাম নেন, ব্যাখ্যাও দেন একইভাবে: এমন দিন, যার পরে তাদের জন্য রাত নেই। এই অ্যাপে যে পাঠ তিলাওয়াত হয় তা নাহার। নুহুর পাঠটি এসেছে কেবল ওই নাম নেওয়া ব্যক্তিদের পাঠ হিসেবে।"
           }
         ]
       },
@@ -1233,11 +1233,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "How do the sources arrange the two? At-Tabari puts rivers in his own running gloss and brings light and spaciousness after it, introduced with it has been said. Al-Qurtubi and al-Baghawi follow the same order, and al-Baghawi credits the second reading to ad-Dahhak. Al-Muyassar and as-Sa'di give rivers only. Ibn Kathir's Arabic does not gloss the word at all, and the abridged English renders it as rivers. None of the texts consulted here argues against either reading, and this article reports both without choosing.",
-            "bn": "উৎসগুলো দুটি ব্যাখ্যাকে কীভাবে সাজিয়েছে? তাবারী নিজের মূল ব্যাখ্যায় নদীর কথা বলেন। আলো আর প্রশস্ততার কথা আনেন পরে, 'বলা হয়েছে' দিয়ে। কুরতুবী আর বাগাভীও একই ক্রম মেনে চলেন, আর বাগাভী দ্বিতীয় ব্যাখ্যাটি দাহহাকের নামে উল্লেখ করেন। মুয়াসসার আর সা'দী শুধু নদীর কথাই বলেন। ইবন কাসীরের আরবি তাফসীর শব্দটির আলাদা কোনো ব্যাখ্যা দেয় না, আর সংক্ষিপ্ত ইংরেজি সংস্করণ এর অনুবাদ করেছে নদী। যেসব লেখা হাতে আছে তার কোনোটিই কোনো ব্যাখ্যার বিরুদ্ধে যুক্তি দেয় না। এই লেখাও দুটিই তুলে ধরে, কোনোটি বেছে নেয় না।"
+            "bn": "উৎসগুলো দুটি ব্যাখ্যাকে কীভাবে সাজিয়েছে? তাবারী নিজের মূল ব্যাখ্যায় নদীর কথা বলেন। আলো আর প্রশস্ততার কথা আনেন পরে, 'বলা হয়েছে' দিয়ে। কুরতুবী আর বাগাভীও একই ক্রম মেনে চলেন, আর বাগাভী দ্বিতীয় ব্যাখ্যাটি দাহহাকের নামে উল্লেখ করেন। মুয়াসসার আর সা'দী শুধু নদীর কথাই বলেন। ইবন কাসীরের আরবি তাফসীর শব্দটির আলাদা কোনো ব্যাখ্যা দেয় না, আর সংক্ষিপ্ত ইংরেজি সংস্করণ এর অনুবাদ করেছে নদী। যেসব লেখা হাতে আছে তার কোনোটিই কোনো ব্যাখ্যার বিরুদ্ধে যুক্তি দেয় না। এই লেখাও দুটিই তুলে ধরে, কোনোটি বেছে নেয় না।"
           },
           {
             "en": "What the two share is worth noticing. Either way, the word names something given to the mindful in place of what 54:47 gave the criminals. As-Sa'di, who reads it among the rivers, describes the gardens at length: ripened trees, flowing rivers, lofty palaces, elegant dwellings, delicious food and drink, the beautiful hur, and radiant meadows. Yet he does not stop at things. His list ends with the good pleasure of the King, the Requiter, and the triumph of nearness to Him.",
-            "bn": "দুই ব্যাখ্যার মিলটুকু খেয়াল করার মতো। যেভাবেই পড়ুন, শব্দটি এমন কিছুর নাম যা মুত্তাকীরা পাবে, ৫৪:৪৭ অপরাধীদের যা দিয়েছিল তার বদলে। সা'দী শব্দটিকে নদী অর্থেই নেন, আর বাগানের বর্ণনা দেন বিস্তারিত: পাকা ফলভরা গাছ, বয়ে চলা নদী, উঁচু প্রাসাদ, সুন্দর বাসস্থান, সুস্বাদু খাবার আর পানীয়, রূপসী হূর, ঝলমলে উদ্যান। কিন্তু জিনিসের তালিকায় তিনি থামেন না। তাঁর তালিকা শেষ হয় প্রতিদানদাতা মালিকের সন্তুষ্টি আর তাঁর নৈকট্য লাভের সাফল্য দিয়ে।"
+            "bn": "দুই ব্যাখ্যার মিলটুকু খেয়াল করার মতো। যেভাবেই পড়ুন, শব্দটি এমন কিছুর নাম যা মুত্তাকীরা পাবে, ৫৪:৪৭ অপরাধীদের যা দিয়েছিল তার বদলে। সা'দী শব্দটিকে নদী অর্থেই নেন, আর বাগানের বর্ণনা দেন বিস্তারিত: পাকা ফলভরা গাছ, বয়ে চলা নদী, উঁচু প্রাসাদ, সুন্দর বাসস্থান, সুস্বাদু খাবার আর পানীয়, রূপসী হূর, ঝলমলে উদ্যান। কিন্তু জিনিসের তালিকায় তিনি থামেন না। তাঁর তালিকা শেষ হয় প্রতিদানদাতা মালিকের সন্তুষ্টি আর তাঁর নৈকট্য লাভের সাফল্য দিয়ে।"
           }
         ]
       },
@@ -1253,7 +1253,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir's phrase, created everything and measured its destiny, reaches back to 54:49: indeed, all things We created with measure. The measuring announced in the middle of the passage returns at its close beside the mindful. As-Sa'di's ending to 54:54, nearness to the King, already leans into the next verse. No commentator consulted here attaches a hadith to 54:54. Ibn Kathir does close the surah with one narration, but he places it under 54:55, so this article leaves it with that verse.",
-            "bn": "ইবন কাসীরের কথা, সবকিছু সৃষ্টি করে তার পরিমাপ নির্ধারণ করেছেন, ফিরিয়ে নিয়ে যায় ৫৪:৪৯-এ: আমি সবকিছু সৃষ্টি করেছি নির্ধারিত পরিমাপে। আয়াতগুচ্ছের মাঝখানে যে পরিমাপের ঘোষণা এসেছিল, শেষে তা ফিরে আসে মুত্তাকীদের পাশে। ৫৪:৫৪-এর ব্যাখ্যায় সা'দীর শেষ কথা, মালিকের নৈকট্য, এমনিতেই পরের আয়াতের দিকে ঝুঁকে আছে। হাতে থাকা কোনো তাফসীর ৫৪:৫৪-এর সঙ্গে কোনো হাদিস যুক্ত করেনি। ইবন কাসীর সূরার শেষে একটি বর্ণনা আনেন ঠিকই, তবে তা রাখেন ৫৪:৫৫-এর অধীনে। তাই এই লেখাও সেটি সেই আয়াতের জন্যই রেখে দিল।"
+            "bn": "ইবন কাসীরের কথা, সবকিছু সৃষ্টি করে তার পরিমাপ নির্ধারণ করেছেন, ফিরিয়ে নিয়ে যায় ৫৪:৪৯-এ: আমি সবকিছু সৃষ্টি করেছি নির্ধারিত পরিমাপে। আয়াতগুচ্ছের মাঝখানে যে পরিমাপের ঘোষণা এসেছিল, শেষে তা ফিরে আসে মুত্তাকীদের পাশে। ৫৪:৫৪-এর ব্যাখ্যায় সা'দীর শেষ কথা, মালিকের নৈকট্য, এমনিতেই পরের আয়াতের দিকে ঝুঁকে আছে। হাতে থাকা কোনো তাফসীর ৫৪:৫৪-এর সঙ্গে কোনো হাদিস যুক্ত করেনি। ইবন কাসীর সূরার শেষে একটি বর্ণনা আনেন ঠিকই, তবে তা রাখেন ৫৪:৫৫-এর অধীনে। তাই এই লেখাও সেটি সেই আয়াতের জন্যই রেখে দিল।"
           }
         ]
       },
@@ -1265,11 +1265,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Read in its place, the verse is less a picture than a verdict that follows a record. 54:52 and 54:53 say the deeds are written; 54:54 says where the mindful go. Between the two stands nothing but what each person did. At-Tabari's definition makes that concrete: obedience, obligations kept, disobedience avoided. None of it is dramatic. Most of it happens in ordinary hours, and the surah has just said that the ordinary hours, the small along with the great, are recorded too.",
-            "bn": "নিজের জায়গায় রেখে পড়লে আয়াতটা যতটা না ছবি, তার চেয়ে বেশি রায়, যা আসে হিসাবের খাতার পরে। ৫৪:৫২ ও ৫৪:৫৩ বলে, আমল লেখা হচ্ছে। ৫৪:৫৪ বলে, মুত্তাকীরা কোথায় যাবে। এ দুটি কথার মাঝখানে আর কিছু নেই, আছে শুধু প্রত্যেকের নিজের করা কাজ। তাবারীর সংজ্ঞা কথাটাকে হাতে-কলমে বুঝিয়ে দেয়: আনুগত্য, ফরজ আদায়, নাফরমানি বর্জন। এর কোনোটাই নাটকীয় নয়। বেশির ভাগই ঘটে সাধারণ সময়ে। আর সূরা এইমাত্র জানিয়েছে, সেই সাধারণ সময়ও, ছোট-বড় সবসহ, লেখা হয়ে যাচ্ছে।"
+            "bn": "নিজের জায়গায় রেখে পড়লে আয়াতটা যতটা না ছবি, তার চেয়ে বেশি রায়, যা আসে হিসাবের খাতার পরে। ৫৪:৫২ ও ৫৪:৫৩ বলে, আমল লেখা হচ্ছে। ৫৪:৫৪ বলে, মুত্তাকীরা কোথায় যাবে। এ দুটি কথার মাঝখানে আর কিছু নেই, আছে শুধু প্রত্যেকের নিজের করা কাজ। তাবারীর সংজ্ঞা কথাটাকে হাতে-কলমে বুঝিয়ে দেয়: আনুগত্য, ফরজ আদায়, নাফরমানি বর্জন। এর কোনোটাই নাটকীয় নয়। বেশির ভাগই ঘটে সাধারণ সময়ে। আর সূরা এইমাত্র জানিয়েছে, সেই সাধারণ সময়ও, ছোট-বড় সবসহ, লেখা হয়ে যাচ্ছে।"
           },
           {
             "en": "The two readings of nahar also speak to the reader now. Whether the reward is named as rivers, or as light and open room with no night after it, it stands opposite error and blazing fire, opposite being dragged on one's face. A life that feels narrow and dark can take from this verse that light and width are among the words the commentators reached for. The hope is fastened to a description, al-muttaqin, and that description is earned in deeds, one written line at a time.",
-            "bn": "নাহারের দুই ব্যাখ্যা আজকের পাঠকের সঙ্গেও কথা বলে। প্রতিদানকে নদী বলা হোক, কিংবা এমন আলো আর প্রশস্ততা যার পরে রাত নেই, দুই অবস্থাতেই তা পথভ্রষ্টতা আর জ্বলন্ত আগুনের উল্টো দিকে, মুখের ভরে হিঁচড়ে নেওয়ার উল্টো দিকে। যার জীবন সংকীর্ণ আর অন্ধকার লাগে, সে এ আয়াত থেকে এটুকু নিতে পারে: তাফসীরকারেরা যে শব্দগুলো বেছে নিয়েছেন, তার মধ্যে আলো আর প্রশস্ততাও আছে। আশাটা বাঁধা একটি পরিচয়ের সঙ্গে, আল-মুত্তাকীন। আর সেই পরিচয় অর্জিত হয় আমলে, খাতায় এক এক লাইন করে।"
+            "bn": "নাহারের দুই ব্যাখ্যা আজকের পাঠকের সঙ্গেও কথা বলে। প্রতিদানকে নদী বলা হোক, কিংবা এমন আলো আর প্রশস্ততা যার পরে রাত নেই, দুই অবস্থাতেই তা পথভ্রষ্টতা আর জ্বলন্ত আগুনের উল্টো দিকে, মুখের ভরে হিঁচড়ে নেওয়ার উল্টো দিকে। যার জীবন সংকীর্ণ আর অন্ধকার লাগে, সে এ আয়াত থেকে এটুকু নিতে পারে: তাফসীরকারেরা যে শব্দগুলো বেছে নিয়েছেন, তার মধ্যে আলো আর প্রশস্ততাও আছে। আশাটা বাঁধা একটি পরিচয়ের সঙ্গে, আল-মুত্তাকীন। আর সেই পরিচয় অর্জিত হয় আমলে, খাতায় এক এক লাইন করে।"
           }
         ]
       }

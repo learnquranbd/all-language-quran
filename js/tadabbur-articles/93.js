@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari records from Jundub ibn Sufyan (RA) that the Prophet ﷺ was unwell and did not stand in night prayer for a night or two; a woman came and said, O Muhammad, I hope that your shaytan has left you. Then Allah revealed the opening of this surah: by the morning brightness, and by the night when it grows still, your Lord has not forsaken you, nor does He hate. A taunt about abandonment was answered from above the seven heavens.",
-            "bn": "বুখারী জুনদুব ইবনে সুফইয়ান (রাঃ) থেকে বর্ণনা করেছেন: নবী ﷺ অসুস্থ ছিলেন, তাই এক-দুই রাত রাতের নামাজে দাঁড়াননি। তখন এক নারী এসে বলল, হে মুহাম্মাদ, আশা করি তোমার শয়তান তোমাকে ছেড়ে গেছে। এরপর আল্লাহ এই সূরার শুরুর অংশ নাজিল করলেন: শপথ পূর্বাহ্নের আলোর, শপথ রাতের, যখন তা নিস্তব্ধ হয়ে আসে; তোমার রব তোমাকে ছেড়ে যাননি, ঘৃণাও করেন না। ছেড়ে যাওয়ার খোঁটার জবাব এল সাত আসমানের ওপর থেকে।"
+            "bn": "বুখারী জুনদুব ইবনে সুফইয়ান (রাঃ) থেকে বর্ণনা করেছেন: নবী ﷺ অসুস্থ ছিলেন, তাই এক-দুই রাত রাতের নামাজে দাঁড়াননি। তখন এক নারী এসে বলল, হে মুহাম্মাদ, আশা করি তোমার শয়তান তোমাকে ছেড়ে গেছে। এরপর আল্লাহ এই সূরার শুরুর অংশ নাজিল করলেন: শপথ পূর্বাহ্নের আলোর, শপথ রাতের, যখন তা নিস্তব্ধ হয়ে আসে; তোমার রব তোমাকে ছেড়ে যাননি, ঘৃণাও করেন না। ছেড়ে যাওয়ার খোঁটার জবাব এল সাত আসমানের ওপর থেকে।"
           },
           {
             "en": "The pause in revelation had weighed on him ﷺ before any taunt named it. The commentators read the surah as consolation shaped exactly to that weight: the gap in revelation felt like silence, and silence can be read as displeasure. The answer does not merely resume revelation; it addresses the fear itself, in the second person, with an oath sworn by Allah — the strongest register the language has — that the fear is false.",
@@ -44,12 +44,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Neither Left Nor Loathed",
-          "bn": "ছেড়েও যাননি, ঘৃণাও করেননি"
+          "bn": "ছেড়েও যাননি, ঘৃণাও করেননি"
         },
         "p": [
           {
             "en": "Ma wadda'aka rabbuka wa ma qala — your Lord has not bidden you farewell, nor does He hate. Wada' is the parting word of someone departing; the verb rules out even a courteous leaving. Then the commentators point to a tenderness in the grammar: qala, He does not hate, arrives with its object unstated. The Quran declines to attach the word you to the verb of hatred even inside a negation. The sentence denies the hatred but will not even spell out its direction.",
-            "bn": "মা ওয়াদ্দা'আকা রাব্বুকা ওয়া মা কালা: তোমার রব তোমাকে বিদায় জানাননি, ঘৃণাও করেন না। ওয়াদা' হলো চলে যাওয়ার সময়কার বিদায়-সম্ভাষণ; এই ক্রিয়া ভদ্রভাবে বিদায় নিয়ে চলে যাওয়াটুকুও নাকচ করে দেয়। এরপর মুফাসসিরগণ ব্যাকরণের একটা কোমলতা দেখিয়ে দেন। 'কালা' মানে তিনি ঘৃণা করেন না, অথচ কাকে, তা বলা নেই। ঘৃণার ক্রিয়ার সঙ্গে কুরআন 'তোমাকে' শব্দটা জোড়েনি, না-বাচক বাক্যেও না। বাক্যটি ঘৃণাকে অস্বীকার করে, কিন্তু সেই ঘৃণা কার দিকে, সেটুকুও মুখে আনে না।"
+            "bn": "মা ওয়াদ্দা'আকা রাব্বুকা ওয়া মা কালা: তোমার রব তোমাকে বিদায় জানাননি, ঘৃণাও করেন না। ওয়াদা' হলো চলে যাওয়ার সময়কার বিদায়-সম্ভাষণ; এই ক্রিয়া ভদ্রভাবে বিদায় নিয়ে চলে যাওয়াটুকুও নাকচ করে দেয়। এরপর মুফাসসিরগণ ব্যাকরণের একটা কোমলতা দেখিয়ে দেন। 'কালা' মানে তিনি ঘৃণা করেন না, অথচ কাকে, তা বলা নেই। ঘৃণার ক্রিয়ার সঙ্গে কুরআন 'তোমাকে' শব্দটা জোড়েনি, না-বাচক বাক্যেও না। বাক্যটি ঘৃণাকে অস্বীকার করে, কিন্তু সেই ঘৃণা কার দিকে, সেটুকুও মুখে আনে না।"
           }
         ]
       },
@@ -61,7 +61,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "93:4 lifts the eyes forward: and the akhirah is better for you than the ula, the later than the earlier. The commentators record both readings and keep them: the Hereafter is better for him ﷺ than this world; and each later stage of his affair is better than what preceded it. Read either way, the sentence is a promise of trajectory, and his ﷺ biography honored it — from concealment to open call, from persecution in Makkah to Madinah, from a lone voice to a community.",
-            "bn": "৯৩:৪ দৃষ্টিকে সামনে নিয়ে যায়: আর আখিরাত তোমার জন্য ঊলার চেয়ে উত্তম, অর্থাৎ পরেরটা আগেরটার চেয়ে ভালো। মুফাসসিরগণ দুটি অর্থই উল্লেখ করেছেন এবং দুটিই রেখেছেন। এক, আখিরাত তাঁর ﷺ জন্য দুনিয়ার চেয়ে উত্তম। দুই, তাঁর কাজের প্রতিটি পরের ধাপ আগের ধাপের চেয়ে ভালো। যেভাবেই পড়ুন, আয়াতটি সামনে এগিয়ে চলার প্রতিশ্রুতি, আর তাঁর ﷺ জীবন সে কথা সত্য করে দেখিয়েছে: গোপন দাওয়াত থেকে প্রকাশ্য আহ্বান, মক্কার নির্যাতন থেকে মদীনা, একা এক কণ্ঠ থেকে গোটা এক উম্মাহ।"
+            "bn": "৯৩:৪ দৃষ্টিকে সামনে নিয়ে যায়: আর আখিরাত তোমার জন্য ঊলার চেয়ে উত্তম, অর্থাৎ পরেরটা আগেরটার চেয়ে ভালো। মুফাসসিরগণ দুটি অর্থই উল্লেখ করেছেন এবং দুটিই রেখেছেন। এক, আখিরাত তাঁর ﷺ জন্য দুনিয়ার চেয়ে উত্তম। দুই, তাঁর কাজের প্রতিটি পরের ধাপ আগের ধাপের চেয়ে ভালো। যেভাবেই পড়ুন, আয়াতটি সামনে এগিয়ে চলার প্রতিশ্রুতি, আর তাঁর ﷺ জীবন সে কথা সত্য করে দেখিয়েছে: গোপন দাওয়াত থেকে প্রকাশ্য আহ্বান, মক্কার নির্যাতন থেকে মদীনা, একা এক কণ্ঠ থেকে গোটা এক উম্মাহ।"
           },
           {
             "en": "The promise also disciplines how a believer reads time. The earlier is not the standard the later must recover; the later is where the good is stored. That is the exact reverse of nostalgia, and it was said to a man ﷺ in his hardest years, before any worldly evidence supported it. Trusting a promised trajectory while the present argues against it is the surah's definition of hope.",
@@ -81,7 +81,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The structure of the three verses is a staircase. First the denial of abandonment, clearing the fear; then the comparative promise, better than before; then the open-ended gift, until contentment. Consolation in the Quran does not stop at saying that things are not as bad as they seem; it climbs to a promise better than what was asked. The surah then proves the pattern from his own past — and turns it outward.",
-            "bn": "তিন আয়াত মিলে যেন একটি সিঁড়ি। প্রথম ধাপ: তিনি ছেড়ে যাননি, তাই ভয়ের কিছু নেই। দ্বিতীয় ধাপ: তুলনার প্রতিশ্রুতি, আগের চেয়ে ভালো। তৃতীয় ধাপ: সীমাহীন দান, সন্তুষ্ট হওয়া পর্যন্ত। কুরআনের সান্ত্বনা শুধু এটুকু বলে থেমে যায় না যে অবস্থা যতটা খারাপ দেখাচ্ছে ততটা নয়; সে উঠে যায় এমন প্রতিশ্রুতিতে, যা চাওয়ার চেয়েও বেশি। এরপর সূরাটি তাঁর নিজের অতীত থেকেই এই ধারার প্রমাণ দেয়, তারপর সেই শিক্ষা অন্যদের দিকে ফিরিয়ে দেয়।"
+            "bn": "তিন আয়াত মিলে যেন একটি সিঁড়ি। প্রথম ধাপ: তিনি ছেড়ে যাননি, তাই ভয়ের কিছু নেই। দ্বিতীয় ধাপ: তুলনার প্রতিশ্রুতি, আগের চেয়ে ভালো। তৃতীয় ধাপ: সীমাহীন দান, সন্তুষ্ট হওয়া পর্যন্ত। কুরআনের সান্ত্বনা শুধু এটুকু বলে থেমে যায় না যে অবস্থা যতটা খারাপ দেখাচ্ছে ততটা নয়; সে উঠে যায় এমন প্রতিশ্রুতিতে, যা চাওয়ার চেয়েও বেশি। এরপর সূরাটি তাঁর নিজের অতীত থেকেই এই ধারার প্রমাণ দেয়, তারপর সেই শিক্ষা অন্যদের দিকে ফিরিয়ে দেয়।"
           }
         ]
       },
@@ -108,23 +108,23 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Third of Three",
-          "bn": "তিনটির মধ্যে তৃতীয়"
+          "bn": "তিনটির মধ্যে তৃতীয়"
         },
         "p": [
           {
             "en": "Wa amma bi-ni'mati rabbika fahaddith. Four words, and they close the surah. They are the third of three clauses built the same way: 93:9, as for the orphan, do not oppress him; 93:10, and as for the one who asks, do not repel him; then this one. Two prohibitions and then a command — the sequence stops forbidding and starts requiring something be done.",
-            "bn": "ওয়া আম্মা বিনি'মাতি রাব্বিকা ফাহাদ্দিস। চারটি শব্দ, আর এ দিয়েই সূরাটি শেষ। একই ছাঁচে গড়া তিনটি বাক্যের এটি তৃতীয়। ৯৩:৯ বলে: আর ইয়াতীম, তার প্রতি কঠোর হয়ো না। ৯৩:১০ বলে: আর যে চাইতে আসে, তাকে ধমক দিয়ো না। তারপর এই আয়াত। প্রথম দুটি নিষেধ, তারপর একটি আদেশ: এখানে এসে নিষেধ থেমে যায়, শুরু হয় কিছু একটা করার দাবি।"
+            "bn": "ওয়া আম্মা বিনি'মাতি রাব্বিকা ফাহাদ্দিস। চারটি শব্দ, আর এ দিয়েই সূরাটি শেষ। একই ছাঁচে গড়া তিনটি বাক্যের এটি তৃতীয়। ৯৩:৯ বলে: আর ইয়াতীম, তার প্রতি কঠোর হয়ো না। ৯৩:১০ বলে: আর যে চাইতে আসে, তাকে ধমক দিয়ো না। তারপর এই আয়াত। প্রথম দুটি নিষেধ, তারপর একটি আদেশ: এখানে এসে নিষেধ থেমে যায়, শুরু হয় কিছু একটা করার দাবি।"
           },
           {
             "en": "All three front their object before the verb. Arabic does not require that order, and the grammarians read the fronting as emphasis: it is the orphan you must not crush, it is the asker you must not drive off, it is your Lord's favour that you are to speak about. In each sentence the subject matter arrives before you learn what you are supposed to do with it.",
-            "bn": "তিনটি বাক্যেই যাকে নিয়ে কথা, সে আগে এসেছে, ক্রিয়া এসেছে পরে। আরবিতে এই ক্রম বাধ্যতামূলক নয়, তাই ব্যাকরণবিদগণ একে জোর দেওয়ার কৌশল হিসেবে দেখেন: ইয়াতীমকেই তুমি দলে-পিষে দেবে না, সাহায্যপ্রার্থীকেই তুমি তাড়িয়ে দেবে না, তোমার প্রতিপালকের নিয়ামতের কথাই তুমি বলবে। প্রতিটি বাক্যে বিষয়টা আগে সামনে আসে, তারপর জানা যায় তাকে নিয়ে কী করতে হবে।"
+            "bn": "তিনটি বাক্যেই যাকে নিয়ে কথা, সে আগে এসেছে, ক্রিয়া এসেছে পরে। আরবিতে এই ক্রম বাধ্যতামূলক নয়, তাই ব্যাকরণবিদগণ একে জোর দেওয়ার কৌশল হিসেবে দেখেন: ইয়াতীমকেই তুমি দলে-পিষে দেবে না, সাহায্যপ্রার্থীকেই তুমি তাড়িয়ে দেবে না, তোমার প্রতিপালকের নিয়ামতের কথাই তুমি বলবে। প্রতিটি বাক্যে বিষয়টা আগে সামনে আসে, তারপর জানা যায় তাকে নিয়ে কী করতে হবে।"
           }
         ]
       },
       {
         "h": {
           "en": "Haddith, Not Ushkur",
-          "bn": "হাদ্দিস, শুকুর নয়"
+          "bn": "হাদ্দিস, শুকুর নয়"
         },
         "p": [
           {
@@ -140,16 +140,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Matched to What Was Given",
-          "bn": "যা দেওয়া হয়েছিল তার সঙ্গে মিলিয়ে"
+          "bn": "যা দেওয়া হয়েছিল তার সঙ্গে মিলিয়ে"
         },
         "p": [
           {
             "en": "Ibn Kathir reads the three commands as answering the three favours listed just before them, in order. 93:6 found him an orphan and gave him refuge, so do not oppress the orphan. 93:7 found him lost and guided him, so do not scorn the one who comes asking. 93:8 found him poor and made him self-sufficient, so tell of your Lord's favour. Each instruction pays forward the very thing that was received.",
-            "bn": "ইবনে কাসীর এই তিনটি নির্দেশকে ঠিক আগের তিনটি নিয়ামতের জবাব হিসেবে পড়েন, একই ক্রমে। ৯৩:৬ বলে, তিনি তাঁকে ইয়াতীম অবস্থায় পেয়ে আশ্রয় দিয়েছেন; তাই ইয়াতীমের প্রতি কঠোর হয়ো না। ৯৩:৭ বলে, তাঁকে পথহারা অবস্থায় পেয়ে পথ দেখিয়েছেন; তাই যে চাইতে আসে, তাকে তুচ্ছ কোরো না। ৯৩:৮ বলে, তাঁকে নিঃস্ব অবস্থায় পেয়ে অভাবমুক্ত করেছেন; তাই তোমার প্রতিপালকের নিয়ামতের কথা বলো। নিজে যা পাওয়া গেছে, প্রতিটি নির্দেশ ঠিক সেটাই অন্যের দিকে এগিয়ে দিতে বলে।"
+            "bn": "ইবনে কাসীর এই তিনটি নির্দেশকে ঠিক আগের তিনটি নিয়ামতের জবাব হিসেবে পড়েন, একই ক্রমে। ৯৩:৬ বলে, তিনি তাঁকে ইয়াতীম অবস্থায় পেয়ে আশ্রয় দিয়েছেন; তাই ইয়াতীমের প্রতি কঠোর হয়ো না। ৯৩:৭ বলে, তাঁকে পথহারা অবস্থায় পেয়ে পথ দেখিয়েছেন; তাই যে চাইতে আসে, তাকে তুচ্ছ কোরো না। ৯৩:৮ বলে, তাঁকে নিঃস্ব অবস্থায় পেয়ে অভাবমুক্ত করেছেন; তাই তোমার প্রতিপালকের নিয়ামতের কথা বলো। নিজে যা পাওয়া গেছে, প্রতিটি নির্দেশ ঠিক সেটাই অন্যের দিকে এগিয়ে দিতে বলে।"
           },
           {
             "en": "That correspondence makes 93:11 concrete rather than vague. The favour to be spoken of is not gratitude in general but the specific relief that was actually granted. And it is not private information. A rescue that nobody hears about teaches nobody, and speech is how what happened to one person becomes something another person is able to hope for.",
-            "bn": "এই মিলটিই 93:11-কে অস্পষ্ট না রেখে সুনির্দিষ্ট করে তোলে। যে নিয়ামতের কথা বলতে বলা হচ্ছে তা সাধারণভাবে কৃতজ্ঞতা নয়, বরং বাস্তবে যে নির্দিষ্ট স্বস্তিটি দেওয়া হয়েছিল সেটি। আর এটি ব্যক্তিগত গোপন তথ্যও নয়। যে উদ্ধারের কথা কেউ শোনে না, তা কাউকে কিছু শেখায় না; আর একজনের জীবনে ঘটে যাওয়া ঘটনা অন্যজনের আশার বিষয় হয়ে ওঠে কেবল বলার মধ্য দিয়েই।"
+            "bn": "এই মিলটিই 93:11-কে অস্পষ্ট না রেখে সুনির্দিষ্ট করে তোলে। যে নিয়ামতের কথা বলতে বলা হচ্ছে তা সাধারণভাবে কৃতজ্ঞতা নয়, বরং বাস্তবে যে নির্দিষ্ট স্বস্তিটি দেওয়া হয়েছিল সেটি। আর এটি ব্যক্তিগত গোপন তথ্যও নয়। যে উদ্ধারের কথা কেউ শোনে না, তা কাউকে কিছু শেখায় না; আর একজনের জীবনে ঘটে যাওয়া ঘটনা অন্যজনের আশার বিষয় হয়ে ওঠে কেবল বলার মধ্য দিয়েই।"
           }
         ]
       },
@@ -161,23 +161,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators put one condition on it and they put it firmly: the favour is to be mentioned with thanks and not with pride, in the awareness that the Giver is able to withdraw what He gave. The line is not drawn at volume but at attribution. Boasting says look at what I have; telling of the favour says look at what my Lord did — and the two can use nearly identical words while doing opposite things.",
-            "bn": "মুফাসসিরগণ এর সঙ্গে একটা শর্ত জুড়ে দেন, এবং বেশ জোর দিয়েই: নিয়ামতের কথা বলতে হবে শুকরিয়ার সঙ্গে, অহংকার নিয়ে নয়, আর মনে রাখতে হবে, যিনি দিয়েছেন তিনি চাইলে ফিরিয়েও নিতে পারেন। পার্থক্যটা গলার জোরে নয়, কৃতিত্ব কাকে দেওয়া হচ্ছে তাতে। অহংকার বলে, দেখো আমার কী আছে; নিয়ামতের কথা বলে, দেখো আমার প্রতিপালক কী করেছেন। দুটো প্রায় একই শব্দে বলা যায়, অথচ কাজ একেবারে উল্টো।"
+            "bn": "মুফাসসিরগণ এর সঙ্গে একটা শর্ত জুড়ে দেন, এবং বেশ জোর দিয়েই: নিয়ামতের কথা বলতে হবে শুকরিয়ার সঙ্গে, অহংকার নিয়ে নয়, আর মনে রাখতে হবে, যিনি দিয়েছেন তিনি চাইলে ফিরিয়েও নিতে পারেন। পার্থক্যটা গলার জোরে নয়, কৃতিত্ব কাকে দেওয়া হচ্ছে তাতে। অহংকার বলে, দেখো আমার কী আছে; নিয়ামতের কথা বলে, দেখো আমার প্রতিপালক কী করেছেন। দুটো প্রায় একই শব্দে বলা যায়, অথচ কাজ একেবারে উল্টো।"
           },
           {
             "en": "The Quran supplies the counter-example. 28:78 records Qarun's reply when he was told not to exult: I was only given it because of knowledge I have. Every part of that sentence is a report of a favour, and it fails, because the credit has been placed in the speaker. Our verse attaches the ni'ma to rabbika, your Lord, before the verb is even reached. The grammar has already settled whom the telling is about.",
-            "bn": "এর উল্টো উদাহরণও কুরআনেই আছে। ২৮:৭৮ কারূনের জবাবটা তুলে ধরে, যখন তাকে বলা হয়েছিল দম্ভে মেতো না: আমাকে তো এটা দেওয়া হয়েছে আমার জ্ঞানের কারণেই। বাক্যটির প্রতিটি অংশই একটা নিয়ামতের বিবরণ, তবু তা ব্যর্থ, কারণ কৃতিত্বটা সে নিজের ঘরে তুলেছে। আমাদের আয়াত ক্রিয়াপদে পৌঁছানোর আগেই 'নিয়ামত'-কে জুড়ে দিয়েছে 'রাব্বিকা'র সঙ্গে, অর্থাৎ তোমার প্রতিপালকের সঙ্গে। কাকে নিয়ে বলা হবে, ব্যাকরণই তা আগেভাগে ঠিক করে দিয়েছে।"
+            "bn": "এর উল্টো উদাহরণও কুরআনেই আছে। ২৮:৭৮ কারূনের জবাবটা তুলে ধরে, যখন তাকে বলা হয়েছিল দম্ভে মেতো না: আমাকে তো এটা দেওয়া হয়েছে আমার জ্ঞানের কারণেই। বাক্যটির প্রতিটি অংশই একটা নিয়ামতের বিবরণ, তবু তা ব্যর্থ, কারণ কৃতিত্বটা সে নিজের ঘরে তুলেছে। আমাদের আয়াত ক্রিয়াপদে পৌঁছানোর আগেই 'নিয়ামত'-কে জুড়ে দিয়েছে 'রাব্বিকা'র সঙ্গে, অর্থাৎ তোমার প্রতিপালকের সঙ্গে। কাকে নিয়ে বলা হবে, ব্যাকরণই তা আগেভাগে ঠিক করে দিয়েছে।"
           }
         ]
       },
       {
         "h": {
           "en": "And Thanking People",
-          "bn": "আর মানুষকে ধন্যবাদ দেওয়া"
+          "bn": "আর মানুষকে ধন্যবাদ দেওয়া"
         },
         "p": [
           {
             "en": "Ibn Kathir places a hadith under this verse that widens it. Abu Dawud and at-Tirmidhi narrate from Abu Hurayrah (RA) that the Prophet ﷺ said: he who does not thank people has not thanked Allah. Ibn Kathir reports that at-Tirmidhi graded it sahih. Speaking of what Allah gave and acknowledging the hands He sent it through are treated here as one practice rather than as two that compete.",
-            "bn": "ইবনে কাসীর এই আয়াতের নিচে এমন একটি হাদিস রাখেন যা এর পরিধি বাড়িয়ে দেয়। আবু দাউদ ও তিরমিযী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন: যে মানুষের শুকরিয়া আদায় করে না, সে আল্লাহরও শুকরিয়া আদায় করে না। ইবনে কাসীর উল্লেখ করেন, তিরমিযী একে সহীহ বলেছেন। আল্লাহ যা দিয়েছেন তার কথা বলা এবং যে হাতগুলোর মাধ্যমে তিনি তা পাঠিয়েছেন তাদের স্বীকৃতি দেওয়া — এখানে দুটিকে পরস্পরবিরোধী নয়, বরং একই আমল হিসেবে দেখা হয়েছে।"
+            "bn": "ইবনে কাসীর এই আয়াতের নিচে এমন একটি হাদিস রাখেন যা এর পরিধি বাড়িয়ে দেয়। আবু দাউদ ও তিরমিযী আবু হুরায়রা (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন: যে মানুষের শুকরিয়া আদায় করে না, সে আল্লাহরও শুকরিয়া আদায় করে না। ইবনে কাসীর উল্লেখ করেন, তিরমিযী একে সহীহ বলেছেন। আল্লাহ যা দিয়েছেন তার কথা বলা এবং যে হাতগুলোর মাধ্যমে তিনি তা পাঠিয়েছেন তাদের স্বীকৃতি দেওয়া — এখানে দুটিকে পরস্পরবিরোধী নয়, বরং একই আমল হিসেবে দেখা হয়েছে।"
           },
           {
             "en": "As-Sa'di draws the social point out plainly: proclaiming His mercy teaches other people to be grateful and turns their hearts towards the One who gives, because a soul naturally loves whoever is good to it. That is the difference between this command and a private discipline. It is issued to somebody who has been rescued, and the rescue is made public because other people are still waiting on theirs.",
@@ -193,7 +193,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A surah that opened by answering a fear ends by handing out work, and this is the last of it. Nothing in the verse requires a platform or an audience of any size. It requires that when the good thing is mentioned — and it will be mentioned — the sentence names its source. The commentators take the address, given to the Prophet ﷺ, as establishing that Allah loves to have His favours spoken of.",
-            "bn": "যে সূরা শুরু হয়েছিল একটা ভয়ের জবাব দিয়ে, তা শেষ হয় হাতে কাজ তুলে দিয়ে, আর এটিই তার শেষ কাজ। এর জন্য কোনো মঞ্চ লাগে না, বড় শ্রোতাও লাগে না। লাগে শুধু এটুকু: ভালো কিছুর কথা যখন উঠবে, আর উঠবেই, তখন কথার মধ্যে যেন তার উৎসের নাম থাকে। নির্দেশটা নবী ﷺ-কে দেওয়া হলেও মুফাসসিরগণ এ থেকে এই শিক্ষা নেন যে, আল্লাহ পছন্দ করেন তাঁর নিয়ামতের কথা বলা হোক।"
+            "bn": "যে সূরা শুরু হয়েছিল একটা ভয়ের জবাব দিয়ে, তা শেষ হয় হাতে কাজ তুলে দিয়ে, আর এটিই তার শেষ কাজ। এর জন্য কোনো মঞ্চ লাগে না, বড় শ্রোতাও লাগে না। লাগে শুধু এটুকু: ভালো কিছুর কথা যখন উঠবে, আর উঠবেই, তখন কথার মধ্যে যেন তার উৎসের নাম থাকে। নির্দেশটা নবী ﷺ-কে দেওয়া হলেও মুফাসসিরগণ এ থেকে এই শিক্ষা নেন যে, আল্লাহ পছন্দ করেন তাঁর নিয়ামতের কথা বলা হোক।"
           }
         ]
       }
