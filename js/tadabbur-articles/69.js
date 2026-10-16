@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The pair grows out of the surah's opening. Al-Haqqa, the Inevitable Reality, is named and questioned, and then 69:4 says: Thamud and 'Ad denied al-qari'a, the Striking Calamity. Ma'arif al-Qur'an counts al-qari'a among this surah's names for the Day of Judgment and explains it as a rumbling that will put terror into people's hearts. Ibn Kathir heads the passage as the mention of the destruction of the nations that denied the Resurrection. So 69:5 and 69:6 do not open a new story. They answer 69:4, telling what became of each of the two deniers.",
-            "bn": "সূরার শুরুতে আল-হাক্কাহর নাম আসে, সেই অবধারিত সত্য, আর তা নিয়ে প্রশ্ন তোলা হয়। তারপর ৬৯:৪ আয়াত বলে: সামূদ ও ‘আদ আল-কারিআকে মিথ্যা বলেছিল, সেই আঘাত হানা মহাবিপদকে। মাআরিফুল কুরআন আল-কারিআকে এ সূরায় আসা কিয়ামতের নামগুলোর মধ্যে গোনে। সেখানে এর ব্যাখ্যা গুড়গুড় আওয়াজ, যা মানুষের অন্তরে আতঙ্ক ঢেলে দেবে। ইবন কাসীর এ অংশের শিরোনাম দেন পুনরুত্থান অস্বীকারকারী জাতিগুলোর ধ্বংসের বিবরণ। কাজেই ৬৯:৫ ও ৬৯:৬ নতুন কোনো কাহিনি শুরু করে না। এ আয়াত দুটি ৬৯:৪-এর জবাব। দুই অস্বীকারকারী জাতির প্রত্যেকের কী হলো, তা-ই এখানে বলা।"
+            "bn": "আয়াত দুটির শিকড় সূরার শুরুতেই। প্রথমে আল-হাক্কাহ, সেই অবধারিত সত্যের নাম আসে, তারপর তা নিয়ে প্রশ্ন তোলা হয়। এরপর ৬৯:৪ আয়াত বলে: সামূদ ও ‘আদ আল-কারিআকে, সেই আঘাত হানা মহাবিপদকে মিথ্যা বলেছিল। মাআরিফুল কুরআন আল-কারিআকে এ সূরায় আসা কিয়ামতের নামগুলোর মধ্যে গোনে। তার ব্যাখ্যায় এটা এমন এক গুড়গুড় আওয়াজ, যা মানুষের অন্তরে আতঙ্ক ঢেলে দেবে। ইবন কাসীর এ অংশের শিরোনাম দেন: পুনরুত্থান অস্বীকারকারী জাতিগুলোর ধ্বংসের বিবরণ। কাজেই ৬৯:৫ ও ৬৯:৬ নতুন কোনো কাহিনি শুরু করে না। এ আয়াত দুটি ৬৯:৪-এর জবাব। দুই অস্বীকারকারী জাতির প্রত্যেকের কী হলো, তা-ই এখানে বলা হচ্ছে।"
           },
           {
             "en": "The verses are built as a matched pair. Fa-amma Thamudu fa-uhliku bi-t-taghiya: as for Thamud, they were destroyed by the taghiya. Wa-amma 'Adun fa-uhliku bi-rihin sarsarin 'atiya: and as for 'Ad, they were destroyed by a wind, sarsar and 'atiya. Each opens with amma, names the people, and uses the same passive verb, uhliku, they were destroyed. At-Tabari names each by its prophet: Thamud, the people of Salih (AS), and 'Ad, the people of Hud (AS). The next verse, 69:7, says how long the wind was set upon them; it has its own place, and this article stays with these two sentences.",
@@ -57,7 +57,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari says which of the two sayings he holds nearer the mark: they were destroyed by the overstepping cry, as-sayha at-taghiya. Allah, he says, tells of Thamud the thing by which He destroyed them, just as He tells of 'Ad the thing by which He destroyed them. Under 69:6 he presses the point. Had the report about Thamud named the cause for which they were destroyed, the report about 'Ad would have done the same, since both stand in one context. Following it with the news that 'Ad perished by the wind is, he says, clear proof of his reading.",
-            "bn": "দুটি মতের মধ্যে কোনটি তাঁর কাছে সঠিকের বেশি কাছে, তাবারী তা স্পষ্ট বলেন: তাদের ধ্বংস করা হয়েছিল সীমা ছাড়ানো গর্জনে, আস-সাইহা আত-তাগিয়ায়। তিনি বলেন, ‘আদকে আল্লাহ যা দিয়ে ধ্বংস করেছেন, তার খবর যেমন দিয়েছেন, সামূদকে যা দিয়ে ধ্বংস করেছেন, তার খবরও তেমনি দিয়েছেন। ৬৯:৬ আয়াতের আলোচনায় তিনি কথাটা আরও জোর দিয়ে বলেন। সামূদের খবরে যদি ধ্বংসের কারণ বলা হতো, তবে ‘আদের খবরেও কারণই বলা হতো, কেননা দুটি কথা একই প্রসঙ্গে। তার ঠিক পরেই ‘আদের ধ্বংস বাতাসে হয়েছিল বলে জানানো, তাঁর ভাষায়, এ ব্যাখ্যারই স্পষ্ট প্রমাণ।"
+            "bn": "দুটি মতের মধ্যে কোনটি সঠিকের বেশি কাছাকাছি, তাবারী তা স্পষ্ট বলে দেন: তাদের ধ্বংস করা হয়েছিল সীমা ছাড়ানো গর্জনে, আস-সাইহা আত-তাগিয়ায়। তিনি বলেন, ‘আদকে আল্লাহ যা দিয়ে ধ্বংস করেছেন, তার খবর যেমন দিয়েছেন, সামূদকে যা দিয়ে ধ্বংস করেছেন, তার খবরও তেমনি দিয়েছেন। ৬৯:৬ আয়াতের আলোচনায় তিনি কথাটা আরও জোর দিয়ে বলেন। সামূদের খবরে যদি ধ্বংসের কারণ বলা হতো, তবে ‘আদের খবরেও কারণই বলা হতো, কেননা দুটি কথা একই প্রসঙ্গে। তার ঠিক পরেই ‘আদের ধ্বংস বাতাসে হয়েছিল বলে জানানো, তাঁর ভাষায়, এ ব্যাখ্যারই স্পষ্ট প্রমাণ।"
           },
           {
             "en": "Ibn Kathir calls it the cry that silenced them and the quake that stilled them, askatat-hum and askanat-hum, two Arabic verbs a single letter apart. As-Sa'di calls it the great and dreadful cry from which their hearts split and their souls went out, so that they became dead and nothing could be seen but their dwellings and their bodies. Ma'arif al-Qur'an describes the sound of a thunderbolt joined with a flash of lightning that rent their hearts. Al-Muyassar keeps to a few words: the mighty cry that passed the bound in its force.",
@@ -105,7 +105,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The fuller list of voices on sarsar was gathered under 41:16 and 54:19, where the same word describes the same wind, so only what is said here is given. Ibn Kathir: cold. Al-Qurtubi, from ad-Dahhak: cold that burns with its chill as fire burns, taken from sirr, cold; it is also said to mean loud, and Mujahid said severe in its samum, its searing blast. As-Sa'di: strong and hard-blowing, with a sound more piercing than crashing thunder. At-Tabari: hard-gusting, with intense cold. Ma'arif al-Qur'an: a violent windstorm that is also severely cold.",
-            "bn": "সারসার শব্দ নিয়ে মতামতের পুরো তালিকা ৪১:১৬ ও ৫৪:১৯ আয়াতের আলোচনায় আনা হয়েছে, কারণ সেখানেও একই শব্দ একই বাতাসের বর্ণনা দেয়। তাই এখানে শুধু এ আয়াতে যা বলা হয়েছে, সেটুকুই। ইবন কাসীর: ঠান্ডা। কুরতুবী দাহহাক থেকে আনেন: এমন ঠান্ডা, যা আগুনের মতো পুড়িয়ে দেয়, শব্দটি এসেছে সির্র থেকে, যার মানে ঠান্ডা। এ-ও বলা হয়েছে যে এর মানে প্রচণ্ড আওয়াজ। আর মুজাহিদ বলেছেন, তীব্র সামূমের বাতাস, অর্থাৎ ঝলসানো হাওয়া। সা'দী: শক্তিশালী, প্রবল বেগে বয়ে চলা, যার আওয়াজ কড়কড়ে বজ্রের চেয়েও তীক্ষ্ণ। তাবারী: প্রচণ্ড ঝাপটা, সঙ্গে কনকনে ঠান্ডা। মাআরিফুল কুরআন: প্রচণ্ড ঝড়, আবার ভীষণ ঠান্ডাও।"
+            "bn": "সারসার শব্দ নিয়ে মতামতের পুরো তালিকা দেওয়া হয়েছে ৪১:১৬ ও ৫৪:১৯ আয়াতের আলোচনায়। সেখানেও একই শব্দ একই বাতাসের বর্ণনা দেয়। তাই এখানে শুধু এ আয়াতের আলোচনায় যা এসেছে, সেটুকুই। ইবন কাসীর: ঠান্ডা। কুরতুবী দাহহাক থেকে আনেন: এমন ঠান্ডা, যা আগুনের মতোই পুড়িয়ে দেয়। শব্দটি এসেছে সির্র থেকে, যার মানে ঠান্ডা। কেউ কেউ বলেছেন, এর মানে প্রচণ্ড আওয়াজ। আর মুজাহিদের মতে, এর সামূম, অর্থাৎ ঝলসানো ঝাপটা, ভীষণ তীব্র। সা'দী: শক্তিশালী, প্রবল বেগে বয়ে চলা, যার আওয়াজ কড়কড়ে বজ্রের চেয়েও তীক্ষ্ণ। তাবারী: প্রচণ্ড ঝাপটা, সঙ্গে কনকনে ঠান্ডা। মাআরিফুল কুরআন: প্রচণ্ড ঝড়, আবার ভীষণ ঠান্ডাও।"
           },
           {
             "en": "'Atiya is where the commentators divide. At-Tabari's own gloss is that it defied its keepers in its blowing and passed, in force and gusting, its known measure of blowing and cold. Al-Baghawi: it defied its keepers and did not obey them, they had no way over it, and it passed the measure, so they did not know how much of it went out. Al-Qurtubi gives the same first, adding that they could not bear its force and that it was angry with Allah's anger. Ibn Kathir reports from 'Ali (RA) and others: it defied the keepers and went out without reckoning.",
@@ -296,28 +296,28 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Day of Exhibition",
-          "bn": "প্রদর্শনের দিন"
+          "bn": "হাজির হওয়ার দিন"
         },
         "p": [
           {
             "en": "Surah al-Haqqah has been building a scene. One blast on the Horn in 69:13, the earth and the mountains lifted and crushed in a single blow in 69:14, the sky split apart in 69:16, and eight bearing the Throne of your Lord in 69:17. Then 69:18 turns from the sky to the crowd standing under it: that Day you will be exhibited, and nothing of yours that was concealed stays hidden. Our verse is the first individual voice heard after that sentence.",
-            "bn": "সূরা আল-হাক্কাহ ধাপে ধাপে একটি দৃশ্য গড়ে তুলছিল। 69:13-এ শিঙায় একটিমাত্র ফুঁক, 69:14-এ যমীন ও পাহাড়গুলোকে তুলে নিয়ে এক আঘাতে চূর্ণ করা, 69:16-এ আকাশ ফেটে যাওয়া, আর 69:17-এ আটজন বহন করছে আপনার প্রতিপালকের আরশ। এরপর 69:18 আকাশ থেকে মুখ ফিরিয়ে নিচে দাঁড়ানো ভিড়ের দিকে তাকায়: সেদিন তোমাদের হাজির করা হবে, আর তোমাদের গোপন কিছুই গোপন থাকবে না। এই বাক্যের পর প্রথম যে একক কণ্ঠস্বর শোনা যায়, সেটিই আমাদের আয়াত।"
+            "bn": "সূরা আল-হাক্কাহ ধাপে ধাপে একটা দৃশ্য সাজিয়ে আনছিল। ৬৯:১৩ আয়াতে সিঙ্গায় একটিমাত্র ফুঁ। ৬৯:১৪ আয়াতে জমিন আর পাহাড়গুলোকে তুলে এক আঘাতে চূর্ণ করা। ৬৯:১৬ আয়াতে আকাশ ফেটে যাওয়া, আর ৬৯:১৭ আয়াতে আটজন বহন করছে আপনার প্রতিপালকের আরশ। তারপর ৬৯:১৮ আকাশ থেকে চোখ নামিয়ে তাকায় তার নিচে দাঁড়ানো জনতার দিকে: সেদিন তোমাদের হাজির করা হবে, তোমাদের গোপন কিছুই আর গোপন থাকবে না। এ কথার পর প্রথম যে একক কণ্ঠ শোনা যায়, তা আমাদের এই আয়াতের।"
           }
         ]
       },
       {
         "h": {
           "en": "A Word Said Once",
-          "bn": "একবারই বলা একটি শব্দ"
+          "bn": "কুরআনে একবারই আসা শব্দ"
         },
         "p": [
           {
             "en": "The first thing he says is a word that occurs nowhere else in the Quran: ha'umu. It is not a statement at all but a word of offering, what a person says while holding something out, and the grammarians gloss it as khudhu, take. And it is plural. One man has been handed one document, and the first sound out of him is addressed to a crowd. The verse does not say who the crowd is.",
-            "bn": "সে প্রথম যে কথাটি বলে, তাতে এমন একটি শব্দ আছে যা কুরআনে আর কোথাও নেই: 'হা-উমু'। এটি আদৌ কোনো বিবৃতি নয়, বরং এগিয়ে দেওয়ার শব্দ — কিছু হাতে বাড়িয়ে ধরে মানুষ যা বলে; ব্যাকরণবিদরা এর অর্থ করেন 'খুযূ', অর্থাৎ নাও। আর শব্দটি বহুবচন। একজন মানুষের হাতে একটি দলিল দেওয়া হয়েছে, আর তার মুখ থেকে প্রথম যে শব্দটি বের হয় তা একদল লোককে সম্বোধন করে বলা। সেই দল কারা, আয়াত তা বলে না।"
+            "bn": "সে প্রথমেই যা বলে, তা এমন এক শব্দ, যা কুরআনে আর কোথাও আসেনি: 'হা-উমু'। এটা কোনো বক্তব্যই নয়। কিছু একটা হাতে বাড়িয়ে ধরে মানুষ যা বলে, এটা সেই এগিয়ে দেওয়ার শব্দ। ব্যাকরণবিদরা এর অর্থ করেন 'খুযূ', মানে নাও। আর শব্দটা বহুবচন। একজন মানুষের হাতে একটি দলিল দেওয়া হয়েছে, অথচ তার মুখ থেকে প্রথম যে আওয়াজ বের হয়, তা একদল মানুষের উদ্দেশে। সেই দল কারা, আয়াত তা বলে না।"
           },
           {
             "en": "That plural carries the emotional content of the verse. The record in his hand holds exactly what 69:18 has just said cannot be concealed, and his response to its contents becoming public is to hurry the reading along. People hide what would shame them; this man is not waiting to be exposed, he is distributing. Whatever is written there, he already knows what it says, and he is content for strangers to know it too.",
-            "bn": "এই বহুবচনটিই আয়াতের আবেগ বহন করে। তার হাতের আমলনামায় ঠিক সেই জিনিসগুলোই আছে, 69:18 যেগুলো সম্পর্কে সবেমাত্র বলেছে যে সেগুলো লুকানো যাবে না; আর সেগুলো প্রকাশ্য হয়ে পড়ছে দেখে তার প্রতিক্রিয়া হলো পড়াটা তাড়াতাড়ি করার তাগাদা দেওয়া। মানুষ তা-ই লুকায় যা তাকে লজ্জা দেবে; এই লোকটি ধরা পড়ার অপেক্ষা করছে না, সে নিজেই বিলি করছে। সেখানে যা-ই লেখা থাকুক, সে আগে থেকেই জানে কী লেখা আছে, আর অচেনা মানুষও তা জানুক — এতে তার আপত্তি নেই।"
+            "bn": "আয়াতের আবেগটা ধরা আছে এই বহুবচনেই। ৬৯:১৮ এইমাত্র বলেছে, কিছুই গোপন থাকবে না। তার হাতের আমলনামায় আছে ঠিক সেই জিনিসগুলোই। সব প্রকাশ হয়ে পড়ছে দেখে সে উল্টো তাড়া দেয়, পড়ো, তাড়াতাড়ি পড়ো। যে কথা লজ্জায় ফেলবে, মানুষ তা লুকায়। এই লোকটি কিন্তু ধরা পড়ার অপেক্ষায় বসে নেই, সে নিজেই বিলিয়ে দিচ্ছে। খাতায় যা-ই লেখা থাকুক, কী লেখা আছে তা সে আগে থেকেই জানে। অচেনা মানুষও তা জানুক, এতে তার কোনো আপত্তি নেই।"
           }
         ]
       },
@@ -329,23 +329,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The last word is kitabiyah, my record, and it ends on a ha that is not part of the word. Arabic calls it the ha' as-sakt, a letter added at a pause so the voice can rest. It is written into the mushaf here and it recurs through the passage: kitabiyah and hisabiyah in 69:19 and 69:20, both again in 69:25 and 69:26, then maliyah in 69:28 and sultaniyah in 69:29 — six times inside eleven verses.",
-            "bn": "শেষ শব্দটি 'কিতাবিয়াহ' — আমার আমলনামা — আর তা শেষ হয় এমন একটি 'হা' দিয়ে যা শব্দটির অংশ নয়। আরবিতে এর নাম 'হা-উস সাক্‌ত' — থামার সময় কণ্ঠকে বিশ্রাম দেওয়ার জন্য যোগ করা একটি অক্ষর। এখানে তা মুসহাফে লিখিত আছে এবং এই অংশ জুড়ে বারবার ফিরে আসে: 69:19 ও 69:20-তে 'কিতাবিয়াহ' ও 'হিসাবিয়াহ', আবার 69:25 ও 69:26-তে সে দুটিই, তারপর 69:28-এ 'মালিয়াহ' এবং 69:29-এ 'সুলতানিয়াহ' — এগারো আয়াতের ভেতরে ছয়বার।"
+            "bn": "শেষ শব্দটি 'কিতাবিয়াহ', আমার আমলনামা। এর শেষে একটি 'হা' আছে, যা শব্দটির অংশ নয়। আরবিতে একে বলে 'হা-উস সাক্‌ত': থামার সময় কণ্ঠকে একটু জিরিয়ে নিতে যোগ করা অক্ষর। এখানে মুসহাফে এটি লেখা আছে, আর গোটা অংশজুড়ে বারবার ফিরে আসে। ৬৯:১৯ ও ৬৯:২০ আয়াতে 'কিতাবিয়াহ' ও 'হিসাবিয়াহ', ৬৯:২৫ ও ৬৯:২৬ আয়াতে আবার এ দুটিই, তারপর ৬৯:২৮ আয়াতে 'মালিয়াহ' আর ৬৯:২৯ আয়াতে 'সুলতানিয়াহ'। এগারো আয়াতের ভেতরে ছয়বার।"
           }
         ]
       },
       {
         "h": {
           "en": "The Counterpart at 69:25",
-          "bn": "69:25-এর বিপরীত ছবি"
+          "bn": "৬৯:২৫-এ উল্টো ছবি"
         },
         "p": [
           {
             "en": "Six verses later the same sentence is built again with everything reversed. 69:19 begins fa-amma man utiya kitabahu bi-yaminihi; 69:25 begins wa-amma man utiya kitabahu bi-shimalihi. The right hand becomes the left. And the two speeches end on the identical word: this man says ha'umu iqra'u kitabiyah, while the other says ya laytani lam uta kitabiyah, I wish I had not been given my record.",
-            "bn": "ছয় আয়াত পরে একই বাক্য আবার গড়া হয়, তবে সবকিছু উল্টে দিয়ে। 69:19 শুরু হয় 'ফাআম্মা মান ঊতিয়া কিতাবাহু বিয়ামীনিহ' দিয়ে; 69:25 শুরু হয় 'ওয়া আম্মা মান ঊতিয়া কিতাবাহু বিশিমালিহ' দিয়ে। ডান হাত হয়ে যায় বাম হাত। আর দুটি কথাই শেষ হয় একই শব্দে: এই লোকটি বলে 'হা-উমু ইক্‌রাঊ কিতাবিয়াহ', আর অন্যজন বলে 'ইয়া লাইতানী লাম ঊতা কিতাবিয়াহ' — হায়, আমাকে যদি আমার আমলনামা না দেওয়া হতো।"
+            "bn": "ছয় আয়াত পরে একই বাক্য আবার গড়া হয়েছে, তবে সবকিছু উল্টে দিয়ে। ৬৯:১৯ শুরু হয় 'ফাআম্মা মান ঊতিয়া কিতাবাহু বিয়ামীনিহ' দিয়ে, আর ৬৯:২৫ শুরু হয় 'ওয়া আম্মা মান ঊতিয়া কিতাবাহু বিশিমালিহ' দিয়ে। ডান হাতের জায়গায় বাম হাত। আর দুজনের কথাই শেষ হয় হুবহু একই শব্দে। এই লোকটি বলে 'হা-উমু ইক্‌রাঊ কিতাবিয়াহ', আর অন্যজন বলে 'ইয়া লাইতানী লাম ঊতা কিতাবিয়াহ', হায়, আমাকে যদি আমার আমলনামা না দেওয়া হতো!"
           },
           {
             "en": "So it is one Day, and the document is the same kind of document. Nothing differs except what is written in it, and what is written in it was supplied earlier. The Quran describes the same handing over elsewhere with another detail: 84:7 has the record given in the right hand, and 84:10 has it given from behind the back. In every version the record arrives. The only variable is which sentence the person then says.",
-            "bn": "কাজেই দিনটি একটিই, আর দলিলটিও একই ধরনের দলিল। এর ভেতরে কী লেখা আছে তা ছাড়া আর কিছুই আলাদা নয় — আর যা লেখা আছে, তা সরবরাহ করা হয়েছিল আরও আগে। কুরআন এই একই হস্তান্তরের বর্ণনা অন্যত্র আরেকটি বিবরণসহ দেয়: 84:7-এ আমলনামা দেওয়া হয় ডান হাতে, আর 84:10-এ দেওয়া হয় পিঠের পেছন দিক থেকে। প্রতিটি বর্ণনাতেই আমলনামা এসে পৌঁছায়। কেবল বদলায় এটুকু — মানুষটি এরপর কোন বাক্যটি উচ্চারণ করে।"
+            "bn": "কাজেই দিন একটাই, দলিলও একই রকমের। আলাদা শুধু ভেতরের লেখা, আর সে লেখা জোগানো হয়েছিল আগেই। কুরআন অন্য জায়গায় এই একই হাতে তুলে দেওয়ার কথা বলেছে আরেকটি খুঁটিনাটিসহ: ৮৪:৭ আয়াতে আমলনামা দেওয়া হয় ডান হাতে, আর ৮৪:১০ আয়াতে পিঠের পেছন দিক থেকে। প্রতিটি বর্ণনাতেই আমলনামা এসে পৌঁছায়। বদলায় শুধু একটা জিনিস: মানুষটি তখন কোন কথাটা বলে।"
           }
         ]
       },
@@ -357,23 +357,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "69:20 gives his reason in a single sentence: inni zanantu anni mulaqin hisabiyah, indeed I was certain that I would meet my account. The verb zanna usually covers supposition, and the commentators point out that here it carries its other sense, firm conviction, which is how this app renders it. He is not saying that he suspected a reckoning might come. He is saying that he lived as a man who knew it would.",
-            "bn": "69:20 তার কারণটি জানায় একটিমাত্র বাক্যে: 'ইন্নী যানানতু আন্নী মুলাকিন হিসাবিয়াহ' — নিশ্চয়ই আমি নিশ্চিত ছিলাম যে আমাকে আমার হিসাবের সম্মুখীন হতে হবে। 'যান্না' ক্রিয়াটি সাধারণত অনুমান বোঝায়, আর মুফাসসিরগণ উল্লেখ করেন যে এখানে তা তার অন্য অর্থটি বহন করছে — দৃঢ় প্রত্যয়; এই অ্যাপের অনুবাদও সেভাবেই করেছে। সে বলছে না যে হিসাব হতে পারে বলে তার সন্দেহ ছিল। সে বলছে, সে এমন মানুষের মতো বেঁচেছে যে জানত হিসাব হবেই।"
+            "bn": "তার কারণ ৬৯:২০ আয়াত এক বাক্যেই বলে দেয়: 'ইন্নী যানানতু আন্নী মুলাকিন হিসাবিয়াহ', নিশ্চয়ই আমি নিশ্চিত জানতাম, আমাকে আমার হিসাবের মুখোমুখি হতে হবে। 'যান্না' ক্রিয়াটি সাধারণত অনুমান বোঝায়। মুফাসসিরগণ বলেন, এখানে তা এসেছে এর অন্য অর্থে: দৃঢ় বিশ্বাস। এই অ্যাপের অনুবাদেও এ অর্থই নেওয়া হয়েছে। সে বলছে না যে হিসাব হতে পারে বলে তার সন্দেহ ছিল। সে বলছে, সে এমন মানুষের মতো জীবন কাটিয়েছে, যে জানত হিসাব হবেই।"
           },
           {
             "en": "69:24 then completes the logic. The people of the garden are told: eat and drink in satisfaction for what you put forth in the days past. Bima aslaftum uses the language of sending goods on ahead of yourself. Nothing in the passage suggests that the joy of our verse was manufactured on the spot. It is the ordinary relief of a man collecting something he dispatched long ago and had not forgotten sending.",
-            "bn": "এরপর 69:24 যুক্তিটি সম্পূর্ণ করে। জান্নাতবাসীদের বলা হয়: বিগত দিনগুলোতে তোমরা যা আগে পাঠিয়েছ তার বিনিময়ে তৃপ্তির সঙ্গে খাও ও পান করো। 'বিমা আসলাফতুম' শব্দবন্ধটি নিজের আগে পণ্য পাঠিয়ে দেওয়ার ভাষা ব্যবহার করে। এই অংশের কোথাও ইঙ্গিত নেই যে আমাদের আয়াতের আনন্দটি সেখানেই হঠাৎ তৈরি হয়েছে। এটি সেই সাধারণ স্বস্তি, যা অনুভব করে এমন একজন মানুষ যে বহু আগে পাঠানো কিছু সংগ্রহ করছে এবং পাঠানোর কথা ভোলেনি।"
+            "bn": "এরপর ৬৯:২৪ যুক্তিটা পূর্ণ করে। জান্নাতবাসীদের বলা হয়: বিগত দিনগুলোতে তোমরা যা আগে পাঠিয়েছ, তার বিনিময়ে তৃপ্তির সঙ্গে খাও, পান করো। 'বিমা আসলাফতুম' কথাটায় আছে নিজের আগে আগে মালপত্র পাঠিয়ে রাখার ভাষা। আমাদের আয়াতের আনন্দ যে সেখানে দাঁড়িয়ে হঠাৎ তৈরি হয়েছে, এমন কোনো ইঙ্গিত এ অংশে নেই। এটা সাধারণ এক স্বস্তি। মানুষটি বহু আগে কিছু পাঠিয়ে রেখেছিল, পাঠানোর কথা ভোলেনি, আর এখন তা হাতে বুঝে নিচ্ছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Writing It Now",
-          "bn": "এখনই তা লেখা"
+          "bn": "লেখা চলছে এখনই"
         },
         "p": [
           {
             "en": "The verse offers a test that does not require imagining the Hereafter at all. Take one ordinary day and ask which parts of it you would hand to a stranger to read. The distance between that answer and the whole day is the work. What makes this man shout is not that his record is spotless, since 69:20 never claims that; it is that he expected to meet it, lived accordingly, and 69:24 says his ease was earned in days now past.",
-            "bn": "আয়াতটি এমন একটি পরীক্ষা দেয় যার জন্য আখিরাত কল্পনা করারও দরকার নেই। যেকোনো একটি সাধারণ দিন নিন এবং জিজ্ঞেস করুন, তার কোন অংশগুলো আপনি একজন অচেনা মানুষের হাতে পড়তে দিতে পারতেন। সেই উত্তর আর গোটা দিনটির মধ্যেকার ব্যবধানটুকুই আসল কাজ। এই লোকটি যে চেঁচিয়ে ওঠে তার কারণ এই নয় যে তার আমলনামা নিষ্কলঙ্ক — 69:20 তেমন দাবি কখনোই করে না; কারণ হলো সে হিসাবের মুখোমুখি হওয়ার প্রত্যাশা রাখত, সেভাবেই বেঁচেছে, আর 69:24 বলছে তার এই স্বস্তি অর্জিত হয়েছে বিগত দিনগুলোতেই।"
+            "bn": "আয়াতটি এমন একটা পরীক্ষা দেয়, যার জন্য আখিরাত কল্পনা করারও দরকার নেই। যেকোনো একটা সাধারণ দিন নিন। নিজেকে জিজ্ঞেস করুন, দিনটার কোন কোন অংশ আপনি একজন অচেনা মানুষের হাতে পড়তে দিতে পারতেন। সেই উত্তর আর পুরো দিনটার মধ্যে যে ফাঁক, সেটুকুই আসল কাজ। এই লোকটি যে চেঁচিয়ে ওঠে, তার কারণ এই নয় যে তার আমলনামা নিখুঁত। ৬৯:২০ এমন দাবি কোথাও করে না। কারণ হলো, সে জানত হিসাবের মুখোমুখি হতে হবে, আর সেভাবেই জীবন কাটিয়েছে। আর ৬৯:২৪ বলছে, তার এই স্বস্তি সে অর্জন করেছে পেরিয়ে আসা দিনগুলোতেই।"
           }
         ]
       }
@@ -497,7 +497,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The man does not stop at this sentence. Ibn Kathir quotes the following verses with it in a single quotation, and the Muyassar reads 69:25 to 69:29 as a continuous speech of regret: his wish not to have known his recompense, his wish that the death he died in the world had ended his affair, the wealth that did not help him, and his hujja, his argument, that is gone. Each of those clauses has its own verse, and they are left to their own entries.",
-            "bn": "লোকটি এই বাক্যে থেমে থাকে না। ইবন কাসীর পরের আয়াতগুলো এর সঙ্গে এক উদ্ধৃতিতেই আনেন। মুয়াসসার ৬৯:২৫ থেকে ৬৯:২৯ পর্যন্ত পুরোটাকে আফসোসের একটানা কথা হিসেবে পড়ে। সে চায়, নিজের প্রতিফল কী তা যদি না জানত। চায়, দুনিয়ায় যে মৃত্যু সে বরণ করেছিল, তাতেই যদি সব চুকে যেত। যে সম্পদ তার কোনো কাজে আসেনি, আর তার 'হুজ্জাহ', মানে যে যুক্তি দিয়ে সে নিজের পক্ষে কথা বলত, তা হারিয়ে গেছে। এ কথাগুলোর প্রতিটির নিজস্ব আয়াত আছে, তাই সেগুলোর আলোচনা সেসব আয়াতের জন্যই রইল।"
+            "bn": "লোকটি এই বাক্যে থেমে থাকে না। ইবন কাসীর পরের আয়াতগুলো এর সঙ্গে এক উদ্ধৃতিতেই আনেন। মুয়াসসার ৬৯:২৫ থেকে ৬৯:২৯ পর্যন্ত পুরোটাকে পড়ে আফসোসের একটানা কথা হিসেবে। সে চায়, নিজের প্রতিফল কী তা যদি না জানত। চায়, দুনিয়ায় যে মৃত্যু সে বরণ করেছিল, তাতেই যদি সব চুকে যেত। তারপর আসে সেই সম্পদের কথা, যা তার কোনো কাজে আসেনি, আর তার 'হুজ্জাহ', মানে যুক্তির কথা, যা হারিয়ে গেছে। এ কথাগুলোর প্রতিটির নিজস্ব আয়াত আছে, তাই সেগুলোর আলোচনা সেসব আয়াতের জন্যই রইল।"
           },
           {
             "en": "No hadith is attached to this verse in the tafsirs fetched for it. Ibn Kathir's abridgement, which treats 69:25 to 69:34 as a block, cites narrations only under the later verses of that block, not under this verse, so none is reported here. Nor does any of these sources give an occasion of revelation for the verse. What they give is enough: the record named as a record of deeds, the left hand described and explained, and the wish glossed as regret, sorrow and the dread of what the record announces.",
@@ -537,7 +537,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The left-hand record itself, and what the man wishes when he receives it, belong to 69:25 and its neighbours and are not repeated here. This entry stays with the second step of the command: the name al-Jahim, the verb sallûhu, and the small word thumma that ties them to what came before. The commentaries fetched for this verse are brief, most of them a single clause. They do not paint the scene. They gloss the verb, name the ones addressed, and move on, and this article follows them in that.",
-            "bn": "বাম হাতের আমলনামা আর তা হাতে পেয়ে লোকটির আফসোস, এ দুটো ৬৯:২৫ ও তার পাশের আয়াতগুলোর বিষয়, এখানে তার পুনরাবৃত্তি হবে না। এ লেখা থাকবে নির্দেশের দ্বিতীয় ধাপ নিয়েই। তাতে আছে আল-জাহীম নামটি, সাল্লূহু ক্রিয়াটি, আর ছোট্ট শব্দ ছুম্মা, যা এ আয়াতকে আগের কথার সঙ্গে জোড়ে। এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, সেগুলো খুবই সংক্ষিপ্ত, বেশির ভাগ একটিমাত্র বাক্যাংশ। তাঁরা দৃশ্যের বিস্তারিত ছবি আঁকেন না। ক্রিয়াটির অর্থ বলেন, কাদের বলা হচ্ছে তা জানান, তারপর এগিয়ে যান। এ লেখাও সেই পথেই চলবে।"
+            "bn": "বাম হাতের আমলনামা আর তা হাতে পেয়ে লোকটির আফসোস, এ দুটো ৬৯:২৫ ও তার পাশের আয়াতগুলোর বিষয়, এখানে তার পুনরাবৃত্তি হবে না। এ লেখা থাকবে নির্দেশের দ্বিতীয় ধাপ নিয়েই। তাতে আছে আল-জাহীম নামটি, সাল্লূহু ক্রিয়াটি, আর ছোট্ট শব্দ ছুম্মা, যা এ আয়াতকে আগের কথার সঙ্গে জোড়ে। এ আয়াতের জন্য যে তাফসীরগুলো আনা হয়েছে, সেগুলো খুবই সংক্ষিপ্ত, বেশির ভাগ একটিমাত্র বাক্যাংশ। তাফসীরকারেরা এখানে দৃশ্যের বিস্তারিত ছবি আঁকেন না। ক্রিয়াটির অর্থ বলেন, কাদের বলা হচ্ছে তা জানান, তারপর এগিয়ে যান। এ লেখাও সেই পথেই চলবে।"
           }
         ]
       },
