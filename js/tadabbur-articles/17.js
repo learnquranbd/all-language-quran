@@ -1117,11 +1117,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir illustrates how small the opening can be. He brings, under this very verse, the report of Abu Hurayrah (RA) that the Prophet ﷺ said nobody should point a weapon at his brother, \"for he does not know — perhaps Satan will make it slip in his hand, and he falls into a pit of the Fire.\" Ibn Kathir records it from Imam Ahmad and notes that al-Bukhari and Muslim both narrated it through ʿAbdur-Razzaq; it is a sound, agreed-upon report. The wording given here is that of Sahih al-Bukhari.",
-            "bn": "ইবন কাসীর দেখান ফাঁকটা কত ছোট হতে পারে। তিনি ঠিক এই আয়াতের নিচে আনেন আবু হুরায়রা (রাঃ)-এর বর্ণনা যে, নবী ﷺ বলেছেন কেউ যেন তার ভাইয়ের দিকে অস্ত্র তাক না করে, ‘কারণ সে জানে না, হয়তো শয়তান তার হাতে ওটা ফসকে দেবে, আর সে আগুনের গর্তে পড়ে যাবে।’ ইবন কাসীর এটি ইমাম আহমাদের সূত্রে লিপিবদ্ধ করেন আর জানান যে, বুখারী ও মুসলিম দুজনেই এটি আবদুর রাযযাকের সূত্রে বর্ণনা করেছেন। এটি সহীহ, মুত্তাফাকুন আলাইহি বর্ণনা। এখানে যে শব্দে দেওয়া হলো তা সহীহ বুখারীর।"
+            "bn": "ফাঁকটা যে কত ছোট হতে পারে, ইবন কাসীর তা দেখিয়েছেন। ঠিক এই আয়াতের ব্যাখ্যায় তিনি আবু হুরায়রা (রাঃ)-এর বর্ণনাটি এনেছেন: নবী ﷺ বলেছেন, কেউ যেন তার ভাইয়ের দিকে অস্ত্র তাক না করে, ‘কারণ সে জানে না, হয়তো শয়তান তার হাত থেকে ওটা ফসকে দেবে, আর সে জাহান্নামের এক গর্তে গিয়ে পড়বে।’ ইবন কাসীর এটি ইমাম আহমাদের সূত্রে এনেছেন, আর জানিয়েছেন যে বুখারী ও মুসলিম দুজনেই আবদুর রাযযাকের সূত্রে এটি বর্ণনা করেছেন। বর্ণনাটি সহীহ, মুত্তাফাকুন আলাইহি। এখানে সহীহ বুখারীর শব্দই দেওয়া হলো।"
           },
           {
             "en": "The gesture in the hadith is not even speech — it is a raised weapon between two people who may only be playing. Yet the same enemy the verse named is at work: he needs only a hand already lifted and a temper already warm, and he turns a motion into a wound. If a pointed blade is that dangerous, the pointed word — which is what the verse is actually about — asks for at least the same care. Both hand Satan the very foothold the verse warned would let him in.",
-            "bn": "হাদীসের এই ইঙ্গিতটা তো কথাও নয়, এ হলো দুজন মানুষের মাঝে তাক-করা এক অস্ত্র, যারা হয়তো নিছক খেলছে। তবু আয়াতের বলা সেই একই দুশমন কাজ করছে। তার শুধু দরকার একটা তুলে-ফেলা হাত আর একটা গরম হয়ে থাকা মেজাজ, তাতেই সে এক নড়াচড়াকে বানিয়ে দেয় ক্ষত। তাক-করা ধার যদি এতটা বিপজ্জনক হয়, তবে তাক-করা কথা, যা নিয়ে আয়াত আসলে বলছে, অন্তত ততটুকু সতর্কতা চায়। দুটোই শয়তানের হাতে তুলে দেয় সেই পা রাখার ঠাঁই, যা দিয়ে ঢুকবে বলে আয়াত সতর্ক করেছিল।"
+            "bn": "হাদিসে যে কাজটার কথা, সেটা তো কথাও নয়। দুজন মানুষ, হয়তো নিছক খেলার ছলে, একজন আরেকজনের দিকে অস্ত্র তুলেছে। তবু আয়াত যে দুশমনের নাম নিয়েছে, সে-ই এখানে কাজ করছে। তার দরকার শুধু আগে থেকে ওঠানো একটা হাত আর আগে থেকে গরম হয়ে থাকা মেজাজ; তাতেই সে সামান্য এক নড়াচড়াকে জখমে পরিণত করে। তাক-করা অস্ত্র যদি এতটা বিপজ্জনক হয়, তবে তাক-করা কথা, আয়াত আসলে যার কথা বলছে, অন্তত ততটুকু সাবধানতা দাবি করে। দুটোই শয়তানের হাতে ঠিক সেই পা রাখার জায়গা তুলে দেয়, যেটা দিয়ে সে ঢুকে পড়বে বলে আয়াত সাবধান করেছিল।"
           }
         ]
       },
@@ -1133,11 +1133,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "As-Saʿdi draws the cure straight from the verse. Satan, he writes, is the servants' true enemy, the adversary they ought to be fighting — so the remedy is not to obey him in the ugly speech he urges on them, but to be gentle with each other until the inciter between them is put down. The brother across the disagreement, even when Satan has stirred trouble between them, is not the target. The resolve, as-Saʿdi says, is to turn against the real enemy and to subdue the lower self through which Satan finds his way in.",
-            "bn": "সা'দী প্রতিকারটি টেনে আনেন আয়াত থেকেই। তিনি লেখেন, শয়তানই বান্দাদের আসল দুশমন, যার বিরুদ্ধে তাদের লড়া উচিত। তাই প্রতিকার হলো সে যে কুৎসিত কথায় উসকায় তাতে তার আনুগত্য না করা, বরং নিজেদের মধ্যে নরম হওয়া, যতক্ষণ না তাদের মাঝে বিভেদ-বাধানো সেই শয়তান দমে যায়। মতভেদের ওপারে যে ভাই, শয়তান তাদের মাঝে ঝামেলা বাধিয়ে দিলেও সে নিশানা নয়। সা'দী বলেন, দৃঢ়সংকল্পটা হলো আসল দুশমনের বিরুদ্ধে ঘুরে দাঁড়ানো, আর সেই কুপ্রবৃত্তিকে দমানো যার ভেতর দিয়ে শয়তান পথ পায়।"
+            "bn": "সা'দী চিকিৎসাটা আয়াত থেকেই বের করে আনেন। তিনি লেখেন, শয়তানই বান্দাদের আসল দুশমন; লড়াই হওয়া উচিত তার সঙ্গেই। তাই প্রতিকার হলো, সে যে কুৎসিত কথার দিকে উসকে দেয় তাতে তার কথা না শোনা, আর একে অপরের সঙ্গে নরম হওয়া, যতক্ষণ না মাঝখানে উসকানি দেওয়া শয়তান দমে যায়। মতভেদের ওপাশে দাঁড়ানো ভাইটি নিশানা নয়, শয়তান দুজনের মাঝে ঝামেলা বাধিয়ে দিলেও না। সা'দী বলেন, করণীয় হলো দৃঢ় মনে আসল দুশমনের বিরুদ্ধে ঘুরে দাঁড়ানো, আর নিজের সেই নফসকে বশে আনা, যার ভেতর দিয়ে শয়তান ঢোকার পথ পায়।"
           },
           {
             "en": "Al-Qurtubi closes with a related report. A group sat remembering Allah, and Satan came to break up their gathering but the angels held him off; so he went to people sitting nearby who were not remembering Allah, and set them against one another until they quarrelled and came to blows. The ones remembering Allah then rose to reconcile them — and at that, the report says, Satan rejoiced. Al-Qurtubi offers it as one glimpse of the enemy's work; it is related as a narration and given without a grading, so it is carried here as illustration, not as proof.",
-            "bn": "কুরতুবী শেষ করেন এর সাথে মেলে এমন একটি বর্ণনা দিয়ে। একদল লোক বসে আল্লাহর জিকির করছিল, শয়তান এল তাদের মজলিস ভাঙতে কিন্তু ফেরেশতারা তাকে ঠেকিয়ে দিল। তখন সে কাছেই বসা এমন কিছু লোকের কাছে গেল যারা জিকির করছিল না, আর তাদের একে অপরের বিরুদ্ধে লাগিয়ে দিল, শেষে তারা ঝগড়া করে হাতাহাতিতে জড়াল। যারা জিকির করছিল তারা তখন উঠে গিয়ে তাদের মেলাতে গেল, আর এতে, বর্ণনাটি বলে, শয়তান খুশি হলো। কুরতুবী এটি আনেন দুশমনের কাজের এক ঝলক হিসেবে। এটি একটি বর্ণনা হিসেবেই এসেছে, কোনো মান ছাড়া, তাই এখানে এটি দলিল নয়, দৃষ্টান্ত হিসেবে ধরা হলো।"
+            "bn": "কুরতুবী শেষ করেন এরই কাছাকাছি একটি বর্ণনা দিয়ে। একদল লোক বসে আল্লাহর জিকির করছিল। শয়তান এল তাদের মজলিস ভাঙতে, কিন্তু ফেরেশতারা তাকে ঠেকিয়ে দিলেন। তখন সে গেল কাছেই বসা কিছু লোকের কাছে, যারা জিকির করছিল না। সে তাদের একে অপরের বিরুদ্ধে লাগিয়ে দিল, শেষে তারা ঝগড়া করে হাতাহাতিতে জড়িয়ে পড়ল। তখন জিকিরকারীরা উঠে গেল তাদের মিটমাট করাতে, আর বর্ণনায় আছে, এতেই শয়তান খুশি হলো। কুরতুবী এটি এনেছেন দুশমনের কাজের এক ঝলক হিসেবে। এটি নিছক একটি বর্ণনা, এর মান সম্পর্কে কিছু বলা হয়নি; তাই এখানে এটি দলিল হিসেবে নয়, দৃষ্টান্ত হিসেবেই রাখা হলো।"
           }
         ]
       },
@@ -1149,11 +1149,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Put together, the verse is unusually practical. It does not ask the believer to feel differently about an opponent; it asks him to choose a different word — the better of the two that rise to the lips — and it explains what is at stake if he does not. Every commentator here, whether he read the verse as governing speech to disbelievers or speech among believers, agreed on the core instruction: the kindest true word, especially where feeling runs high and the pull to answer in kind is strongest.",
-            "bn": "সব মিলিয়ে আয়াতটি অস্বাভাবিক রকম কাজের। এটি মুমিনকে প্রতিপক্ষ সম্পর্কে ভিন্নভাবে অনুভব করতে বলে না। এটি তাকে বলে ভিন্ন একটা কথা বেছে নিতে, ঠোঁটে যে দুটি কথা আসছে তার ভালোটাকে, আর বুঝিয়ে দেয় না বাছলে কী ঝুঁকি। এখানকার প্রত্যেক তাফসীরকার, তিনি আয়াতটিকে কাফিরদের সাথে কথার নিয়ম হিসেবে পড়ুন বা মুমিনদের নিজেদের মধ্যেকার কথার নিয়ম হিসেবে, মূল নির্দেশে একমত: সবচেয়ে সুন্দর সত্য কথাটা, বিশেষত যেখানে আবেগ চড়ে থাকে আর একই রকমে জবাব দেওয়ার টান সবচেয়ে জোরালো।"
+            "bn": "সব মিলিয়ে দেখলে আয়াতটি আশ্চর্য রকম বাস্তব। প্রতিপক্ষের প্রতি মনের অনুভূতি বদলাতে আয়াত মুমিনকে বলে না; বলে অন্য একটা কথা বেছে নিতে। মুখে যে দুটো কথা চলে আসে, তার মধ্যে ভালোটা। আর না বাছলে কী হারানোর আশঙ্কা, তাও বুঝিয়ে দেয়। এখানে যত তাফসীরকারের কথা এসেছে, কেউ আয়াতটিকে কাফিরদের সঙ্গে কথা বলার নিয়ম হিসেবে পড়ুন বা মুমিনদের নিজেদের মধ্যে কথার নিয়ম হিসেবে, মূল নির্দেশে সবাই একমত: সত্য কথাগুলোর মধ্যে যেটা সবচেয়ে নরম, সেটাই বলা। বিশেষ করে যখন মেজাজ চড়ে থাকে, আর পাল্টা জবাব দেওয়ার টান সবচেয়ে বেশি।"
           },
           {
             "en": "And the verse locates the enemy for us, so we do not mistake him. It is not the person disagreeing, however wrongly, but the one who profits from the disagreement. That reframing is itself a mercy: it lifts the heat off the human being in front of us and sets it where it belongs. What Allah then knows of each servant, and how He deals with them, the surah takes up in the words that follow. Here the servant is handed only his own task, and it is a small, daily one — the better word.",
-            "bn": "আর আয়াতটি দুশমনকে আমাদের জন্য চিনিয়ে দেয়, যাতে আমরা তাকে ভুল না করি। যে মতভেদ করছে সে দুশমন নয়, যত ভুলভাবেই করুক, বরং দুশমন সেই, যে মতভেদ থেকে ফায়দা তোলে। এই দৃষ্টিভঙ্গি বদলে দেওয়াটাই এক রহমত। এটি সামনের মানুষটার ওপর থেকে গরমটা সরিয়ে নেয়, আর যেখানে ওটার জায়গা সেখানে বসিয়ে দেয়। প্রত্যেক বান্দা সম্পর্কে আল্লাহ কী জানেন আর তাদের সাথে তিনি কেমন আচরণ করেন, সূরাটি তা তুলে ধরে পরের কথাগুলোয়। এখানে বান্দার হাতে শুধু তার নিজের কাজটুকু দেওয়া, আর তা ছোট, রোজকার একটা কাজ: উত্তম কথাটা।"
+            "bn": "আয়াতটি দুশমনকেও চিনিয়ে দেয়, যাতে আমরা ভুল মানুষকে দুশমন না ভাবি। যে দ্বিমত করছে, সে যত ভুলই করুক, সে দুশমন নয়; দুশমন সেই, যে এই দ্বিমত থেকে ফায়দা লোটে। এভাবে দেখতে শেখাটাই এক রহমত। সামনের মানুষটার ওপর থেকে রাগটা সরে যায়, গিয়ে পড়ে যেখানে তার পড়ার কথা। প্রত্যেক বান্দা সম্পর্কে আল্লাহ কী জানেন আর তাদের সঙ্গে তিনি কেমন আচরণ করেন, সূরাটি সে কথা বলে এর পরের অংশে। এখানে বান্দার হাতে শুধু তার নিজের কাজটুকু দেওয়া হয়েছে, আর সে কাজ ছোট, রোজকার: ভালো কথাটা বলা।"
           }
         ]
       }
@@ -1169,27 +1169,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens with a reminder set inside a reminder: 'when We told you, Indeed your Lord has encompassed the people.' At-Tabari reads the encompassing as power — the people sit in Allah's grip and cannot step outside His will — and hears in it a charge to the Prophet ﷺ to carry the message and fear nobody. As-Sa'di widens it to knowledge and power together: there is no refuge to flee to, no shelter to hide in, from Him who has encompassed all people.",
-            "bn": "আয়াতটি শুরু হয় স্মরণের ভেতরে আরেক স্মরণ দিয়ে: 'যখন আমি তোমাকে বলেছিলাম, তোমার রবব মানুষদেরকে ঘিরে রেখেছেন।' তাবারী এই ঘিরে রাখাকে বোঝেন কুদরত হিসেবে। মানুষ আল্লাহর মুঠোর ভেতর, তাঁর ইচ্ছার বাইরে বেরোনোর সাধ্য তাদের নেই। এর ভেতরেই তিনি শোনেন নবী ﷺ-এর প্রতি এক নির্দেশ, কাউকে ভয় না করে বার্তা পৌঁছে দেওয়ার। সাদী একে আরও চওড়া করেন, ইলম আর কুদরত দুই মিলিয়ে। যিনি সব মানুষকে ঘিরে রেখেছেন, তাঁর থেকে পালানোর কোনো আশ্রয় নেই, লুকানোর কোনো ঠাঁই নেই।"
+            "bn": "আয়াতটি শুরু হয় এক স্মরণের ভেতরে আরেক স্মরণ দিয়ে: 'যখন আমি তোমাকে বলেছিলাম, তোমার রব মানুষদের ঘিরে রেখেছেন।' তাবারী এই ঘিরে রাখাকে বোঝেন কুদরত অর্থে: মানুষ আল্লাহর মুঠোয়, তাঁর ইচ্ছার বাইরে এক পা-ও যেতে পারে না। তাঁর মতে এতে নবী ﷺ-এর প্রতি তাগিদ আছে: কাউকে পরোয়া না করে বার্তা পৌঁছে দেওয়ার। সাদী অর্থটা আরও চওড়া করেন: ইলম আর কুদরত দুটোই। যিনি সব মানুষকে ঘিরে রেখেছেন, তাঁর কাছ থেকে পালানোর কোনো আশ্রয় নেই, লুকানোর কোনো ঠাঁই নেই।"
           },
           {
             "en": "The commentators do not all press the word the same way. Al-Kalbi, cited by al-Qurtubi, makes it encompassing in knowledge; al-Hasan, Urwah and Qatadah make it protection — He has fenced the Arabs off from killing you until the message is delivered. Ibn Abbas, in al-Qurtubi's report, takes 'the people' as the people of Mecca and the encompassing as their coming destruction, fulfilled at Badr and the Conquest. One phrase wears several true faces: reassurance to the Messenger, warning to the deniers, and a wall around a life that still had work to finish.",
-            "bn": "শব্দটিকে সব তাফসীরকার একইভাবে চাপ দেন না। কুরতুবীর উদ্ধৃত কালবীর মতে এ হলো ইলমে ঘিরে রাখা। হাসান, উরওয়া ও কাতাদার মতে এ হলো হিফাযত, বার্তা পৌঁছানো পর্যন্ত আরবদের হাত থেকে তোমাকে আগলে রাখা। কুরতুবীর বর্ণনায় ইবন আব্বাস 'মানুষ' বলতে বোঝেন মক্কার লোকদের, আর ঘিরে রাখা মানে তাদের আসন্ন ধ্বংস, যা বদর ও মক্কা বিজয়ে সত্য হলো। এক কথা কয়েকটি সত্য চেহারা পরে আছে: রাসূলের জন্য সান্ত্বনা, অস্বীকারকারীদের জন্য হুঁশিয়ারি, আর যে জীবনের সামনে তখনো কাজ বাকি তার চারপাশে এক প্রাচীর।"
+            "bn": "শব্দটির অর্থ সব তাফসীরকার একভাবে ধরেন না। কুরতুবী কালবীর মত উদ্ধৃত করেন: এ হলো ইলম দিয়ে ঘিরে রাখা। হাসান, উরওয়া ও কাতাদার মতে এর অর্থ হিফাযত: বার্তা পৌঁছানো শেষ না হওয়া পর্যন্ত আল্লাহ আরবদের হাত থেকে তোমাকে আগলে রেখেছেন, তারা তোমাকে হত্যা করতে পারবে না। কুরতুবীর বর্ণনায় ইবন আব্বাস 'মানুষ' বলতে বোঝেন মক্কার লোকদের, আর ঘিরে রাখা মানে তাদের আসন্ন ধ্বংস, যা বদরে আর মক্কা বিজয়ে সত্য হয়েছে। একটি কথার কয়েকটি সত্য রূপ: রাসূলের জন্য সান্ত্বনা, অস্বীকারকারীদের জন্য হুঁশিয়ারি, আর এমন এক জীবনের চারপাশে প্রাচীর, যার কাজ তখনো শেষ হয়নি।"
           }
         ]
       },
       {
         "h": {
           "en": "The Sight That Sifted",
-          "bn": "যে দর্শন যাচাই করল"
+          "bn": "যে দৃশ্য মানুষকে ছেঁকে নিল"
         },
         "p": [
           {
             "en": "Then the pivot: 'We did not make the sight which We showed you except as a trial for the people.' The overwhelming majority of the early authorities — Ibn Abbas, and after him Aisha, Muawiyah, al-Hasan, Mujahid, Qatadah, Saeed ibn Jubayr and others named by al-Qurtubi — read this sight as what the Prophet ﷺ was shown on the Night Journey, when he was carried to the Farthest Mosque. At-Tabari calls this the soundest of the readings. The weight of the verse falls not on the journey itself but on what the telling of it did to those who heard.",
-            "bn": "তারপর মোড় ঘোরে: 'আমি তোমাকে যে দৃশ্য দেখিয়েছি তা কেবল মানুষের জন্য পরীক্ষা হিসেবেই রেখেছি।' প্রাচীন যুগের অধিকাংশ ইমাম, ইবন আব্বাস আর তাঁর পরে আয়েশা, মুআবিয়া, হাসান, মুজাহিদ, কাতাদা, সাঈদ ইবন জুবায়ের প্রমুখ, যাঁদের নাম কুরতুবী তুলে ধরেন, এই দৃশ্যকে বোঝেন সেই মিরাজের রাতের দর্শন হিসেবে, যখন নবী ﷺ-কে বায়তুল মুকাদ্দাস পর্যন্ত নিয়ে যাওয়া হয়। তাবারী একে বলেন মতগুলোর মধ্যে সবচেয়ে সঠিক। আয়াতের ভার সফরটার ওপর নয়, বরং সেই খবর শোনানো যাদের ওপর যা করল তার ওপর পড়ে।"
+            "bn": "এরপর আয়াতের মোড়: 'আমি তোমাকে যে দৃশ্য দেখিয়েছি, তা কেবল মানুষের জন্য পরীক্ষা হিসেবেই রেখেছি।' পূর্বসূরি আলিমদের সিংহভাগ এই দৃশ্যকে বুঝেছেন মিরাজের রাতের দেখা হিসেবে, যে রাতে নবী ﷺ-কে বায়তুল মুকাদ্দাস পর্যন্ত নিয়ে যাওয়া হয়েছিল। এঁদের মধ্যে আছেন ইবন আব্বাস, তাঁর পরে আয়েশা, মুআবিয়া, হাসান, মুজাহিদ, কাতাদা, সাঈদ ইবন জুবায়ের, আরও অনেকে, যাঁদের নাম কুরতুবী উল্লেখ করেছেন। তাবারী বলেন, সব মতের মধ্যে এটিই সবচেয়ে সঠিক। তবে আয়াতের জোর সফরটার ওপর নয়; সফরের খবর যারা শুনল, তাদের ওপর সেই খবর কী করল, তার ওপর।"
           },
           {
             "en": "A fitnah, in the Arabic of the tafsir, is a test that separates. Ibn Kathir explains that when the news reached Mecca, some who had been on the truth could not make their hearts and minds hold it, so they denied what their knowledge could not encompass and fell away, while Allah made the same news a firmness and certainty for others. Ma'arif al-Qur'an lists the senses the word can carry — going astray, trial, upheaval — and settles, with the early authorities, on the trial of apostasy that the report provoked.",
-            "bn": "তাফসীরের ভাষায় ফিতনা মানে এমন পরীক্ষা যা আলাদা করে দেয়। ইবন কাসীর বলেন, খবরটা মক্কায় পৌঁছালে হকের ওপর থাকা কিছু লোক তা অন্তরে ধরে রাখতে পারল না। যা তাদের জ্ঞান ঘিরে ধরতে পারল না তা তারা অস্বীকার করে সরে গেল, অথচ সেই একই খবর আল্লাহ অন্যদের জন্য বানালেন দৃঢ়তা আর ইয়াকীন। মাআরিফুল কুরআন শব্দটির নানা অর্থ সাজিয়ে দেয়, পথভ্রষ্টতা, পরীক্ষা, উথালপাথাল, শেষে প্রাচীনদের সঙ্গে থেমে বলে, এ ছিল সেই মুরতাদ হওয়ার পরীক্ষা যা খবরটা টেনে আনল।"
+            "bn": "তাফসীরের ভাষায় ফিতনা মানে এমন পরীক্ষা, যা মানুষকে আলাদা করে ফেলে। ইবন কাসীর বলেন, খবরটা মক্কায় পৌঁছালে হকের ওপর থাকা কিছু লোক তা মনে আর মাথায় ধরে রাখতে পারল না। যা তাদের জ্ঞানে কুলাল না, তা তারা অস্বীকার করে সরে পড়ল। অথচ সেই একই খবরকে আল্লাহ অন্যদের জন্য করে দিলেন দৃঢ়তা আর ইয়াকীন। মাআরিফুল কুরআন শব্দটির কয়েকটি অর্থ উল্লেখ করে: পথভ্রষ্টতা, পরীক্ষা, গোলযোগ। তারপর পূর্বসূরিদের সঙ্গে একমত হয়ে বলে, এখানে ফিতনা মানে মুরতাদ হয়ে যাওয়ার সেই পরীক্ষা, যা খবরটা জাগিয়ে তুলেছিল।"
           }
         ]
       },
@@ -1201,11 +1201,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "One reading had to be closed off. Some, al-Qurtubi notes, took the 'sight' to be a dream in sleep. He answers that the verse itself rules this out: a dream carries no trial in it, and no one would think to deny another man's dream. Ma'arif al-Qur'an makes the same argument from the wording — had it been a dream, there was no reason for anyone to apostatise, since dreams are dreams that all people see. The word was chosen, it says, precisely to signal a marvel witnessed while awake.",
-            "bn": "একটি ব্যাখ্যা বন্ধ করে দেওয়া দরকার ছিল। কুরতুবী জানান, কেউ কেউ এই 'দৃশ্য'-কে ঘুমের স্বপ্ন ধরেছিলেন। তিনি জবাব দেন, আয়াত নিজেই এ কথা নাকচ করে। স্বপ্নে তো কোনো পরীক্ষা নেই, আর কারও স্বপ্নকে অস্বীকার করতে কেউ যায় না। মাআরিফুল কুরআন একই যুক্তি টানে শব্দ থেকে। স্বপ্ন হলে কারও মুরতাদ হওয়ার কারণ থাকত না, কারণ স্বপ্ন তো সবাই দেখে। তাই বলে, এই শব্দটি বেছে নেওয়া হয়েছে জেগে থেকে দেখা এক বিস্ময় বোঝাতেই।"
+            "bn": "একটি ব্যাখ্যার পথ বন্ধ করা দরকার ছিল। কুরতুবী জানান, কেউ কেউ এই 'দৃশ্য'-কে ঘুমের স্বপ্ন ধরেছিলেন। তাঁর জবাব, আয়াত নিজেই এ কথা নাকচ করে দেয়। স্বপ্নে তো কোনো পরীক্ষা নেই, আর অন্যের স্বপ্নকে কেউ অস্বীকার করতে বসে না। মাআরিফুল কুরআন শব্দ থেকেই একই যুক্তি দেয়: স্বপ্ন হলে কারও মুরতাদ হওয়ার কোনো কারণ ছিল না, স্বপ্ন তো সবাই দেখে। তার মতে, এই শব্দটি এসেছেই জেগে থেকে দেখা এক বিস্ময় বোঝাতে।"
           },
           {
             "en": "Two further readings are recorded and then weighed down. Al-Baghawi and a narration from Ibn Abbas tie the sight to the Prophet's ﷺ true vision of entering Mecca, fulfilled after Hudaybiyyah; al-Qurtubi marks this weak, since the surah is Meccan while that vision belonged to Medina. A third narration, from Sahl ibn Saad and others, has the Prophet ﷺ shown certain men leaping upon his pulpit. Ibn Atiyyah found this reading questionable, and it will need its own careful handling below.",
-            "bn": "আরও দুটি ব্যাখ্যা লিপিবদ্ধ হয়, তারপর ভার কমিয়ে দেওয়া হয়। বাগাভী আর ইবন আব্বাসের এক বর্ণনা এই দৃশ্যকে জোড়ে নবী ﷺ-এর সেই সত্য স্বপ্নের সঙ্গে, যেখানে তিনি মক্কায় প্রবেশ করছেন, যা হুদায়বিয়ার পরে সত্য হয়। কুরতুবী একে দুর্বল বলেন, কারণ সূরাটি মক্কী, অথচ সেই স্বপ্ন মদীনার। তৃতীয় এক বর্ণনায়, সাহল ইবন সাদ প্রমুখ থেকে, নবী ﷺ-কে দেখানো হয় কিছু লোক তাঁর মিম্বারে লাফাচ্ছে। ইবন আতিয়া এই ব্যাখ্যাকে প্রশ্নবিদ্ধ মনে করেন, আর নিচে একে আলাদা করে সাবধানে ধরতে হবে।"
+            "bn": "আরও দুটি ব্যাখ্যা তাফসীরে উল্লেখ আছে, তবে বিচারের পাল্লায় সেগুলো হালকা। বাগাভী আর ইবন আব্বাসের একটি বর্ণনা এই দৃশ্যকে মিলিয়েছে নবী ﷺ-এর সেই সত্য স্বপ্নের সঙ্গে, যাতে তিনি নিজেকে মক্কায় প্রবেশ করতে দেখেছিলেন, আর হুদায়বিয়ার পরে তা সত্য হয়। কুরতুবী একে দুর্বল বলেন, কারণ সূরাটি মক্কী, অথচ সেই স্বপ্ন মদীনার সময়ের। তৃতীয় একটি বর্ণনা এসেছে সাহল ইবন সাদ প্রমুখ থেকে: নবী ﷺ-কে দেখানো হয়েছিল, কিছু লোক তাঁর মিম্বারে লাফিয়ে উঠছে। ইবন আতিয়া এই ব্যাখ্যাকে প্রশ্নবিদ্ধ মনে করেছেন; সামনে এটি নিয়ে আলাদা করে সাবধানে কথা বলতে হবে।"
           }
         ]
       },
@@ -1217,15 +1217,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse pairs the sight with 'the accursed tree in the Qur'an.' Ibn Abbas, in the report al-Bukhari records, and the authorities who followed him, identify it plainly: it is the tree of Zaqqum. As-Sa'di places it 'growing at the root of the Blaze,' and at-Tabari chooses this reading as the sound one, citing the agreement of the authorities of interpretation. Telling people of a tree that lives inside the Fire was itself a strain on belief, one more thing the mind was asked to accept on the word of the Messenger.",
-            "bn": "আয়াত দৃশ্যটির সঙ্গে জোড়ে 'কুরআনে উল্লেখিত অভিশপ্ত গাছ'। বুখারীর লিপিবদ্ধ বর্ণনায় ইবন আব্বাস আর তাঁকে অনুসরণকারী ইমামরা একে সাফ চিনিয়ে দেন: এ হলো জাক্কুম গাছ। সাদী একে রাখেন 'জাহান্নামের তলদেশে জন্মানো' গাছ হিসেবে, আর তাবারী তাফসীরের ইমামদের ইজমার কথা টেনে একেই সঠিক মত বলে বেছে নেন। আগুনের ভেতরে বেঁচে থাকা এক গাছের কথা শোনানো নিজেই ছিল বিশ্বাসের ওপর এক চাপ, রাসূলের কথার ওপর মেনে নিতে বলা আরও একটি জিনিস।"
+            "bn": "আয়াত এই দৃশ্যের সঙ্গে জুড়ে দেয় 'কুরআনে উল্লেখিত অভিশপ্ত গাছ'। বুখারীর বর্ণনায় ইবন আব্বাস, আর তাঁর পথ ধরে পরের ইমামরা, গাছটিকে সোজাসুজি চিনিয়ে দেন: এ হলো জাক্কুম গাছ। সাদীর ভাষায় গাছটি 'জাহান্নামের তলদেশে জন্মায়'। তাবারী তাফসীরের ইমামদের ইজমার কথা টেনে এই মতকেই সঠিক বলে গ্রহণ করেন। আগুনের ভেতরে বেঁচে থাকা গাছের কথা শোনানোই ছিল বিশ্বাসের ওপর এক চাপ। মনকে আরও একটি জিনিস মেনে নিতে বলা হলো, শুধু রাসূলের কথার ওপর ভরসা করে।"
           },
           {
             "en": "The narration sits directly on the verse. Al-Bukhari records from Ibn Abbas, on the words 'the vision which We showed you,' that 'it was an actual eyewitness which was shown to Allah's Messenger ﷺ during the night he was taken on a journey; and the cursed tree is the tree of Az-Zaqqum.' At-Tirmidhi records the same report and graded it sound. It is the one hadith the commentators lean on here, and it fixes both halves of the verse at once: a waking sight, and a real tree named in the Qur'an.",
-            "bn": "বর্ণনাটি সরাসরি এই আয়াতের ওপর বসে। বুখারী ইবন আব্বাস থেকে লিপিবদ্ধ করেন, 'আমি তোমাকে যে দৃশ্য দেখিয়েছি' কথাটি নিয়ে, যে 'এ ছিল চোখে দেখা এক প্রত্যক্ষ দর্শন, যা রাসূলুল্লাহ ﷺ-কে দেখানো হয়েছিল সেই রাতে যখন তাঁকে রাত্রিভ্রমণে নেওয়া হয়; আর অভিশপ্ত গাছ হলো জাক্কুম গাছ।' তিরমিযীও একই বর্ণনা এনে একে সহীহ বলেছেন। এখানে তাফসীরকারেরা এই একটি হাদীসের ওপরই নির্ভর করেন, আর তা আয়াতের দুই অংশকেই একসঙ্গে থিতু করে দেয়: জেগে দেখা এক দৃশ্য, আর কুরআনে নাম-ধরা এক সত্যিকারের গাছ।"
+            "bn": "বর্ণনাটি সরাসরি এই আয়াত নিয়েই। বুখারী ইবন আব্বাস থেকে বর্ণনা করেন, 'আমি তোমাকে যে দৃশ্য দেখিয়েছি' কথাটি সম্পর্কে তিনি বলেছেন: 'এ ছিল চোখে দেখা বাস্তব দৃশ্য, যা রাসূলুল্লাহ ﷺ-কে দেখানো হয়েছিল সেই রাতে, যে রাতে তাঁকে মিরাজের সফরে নেওয়া হয়; আর অভিশপ্ত গাছ হলো জাক্কুম গাছ।' তিরমিযীও একই বর্ণনা এনেছেন এবং একে সহীহ বলেছেন। এখানে তাফসীরকারেরা এই একটি হাদিসের ওপরই ভর করেন, আর এটি আয়াতের দুই অংশই একসঙ্গে পাকা করে দেয়: জেগে থেকে দেখা দৃশ্য, আর কুরআনে নাম নেওয়া এক সত্যিকারের গাছ।"
           },
           {
             "en": "A careful point about the word 'accursed.' Al-Qurtubi observes that the Qur'an nowhere pronounces a curse on this tree as such; rather Allah cursed the disbelievers who eat from it, so the phrase means the tree whose eaters are accursed. He and al-Baghawi add that the Arabs called any harmful, repugnant food 'accursed.' A minority reading, related from Ibn Abbas, took the tree to be the kashuth, a creeper that winds over trees and dries them out; the majority stayed with Zaqqum.",
-            "bn": "'অভিশপ্ত' শব্দটি নিয়ে একটি সূক্ষ্ম কথা। কুরতুবী খেয়াল করান, কুরআন কোথাও এই গাছটিকে সরাসরি অভিশাপ দেয়নি। বরং আল্লাহ অভিশাপ দিয়েছেন সেই কাফিরদের, যারা তা খায়। তাই কথাটার অর্থ, যে গাছের ভক্ষণকারীরা অভিশপ্ত। তিনি ও বাগাভী যোগ করেন, আরবরা যেকোনো ক্ষতিকর, ঘৃণ্য খাবারকে 'অভিশপ্ত' বলত। ইবন আব্বাস থেকে বর্ণিত এক সংখ্যালঘু মত গাছটিকে ধরে কাশূস, এমন এক লতা যা গাছের ওপর জড়িয়ে তাকে শুকিয়ে মারে। তবে অধিকাংশ জাক্কুমেই থিতু থাকেন।"
+            "bn": "'অভিশপ্ত' শব্দটি নিয়ে একটি সূক্ষ্ম কথা আছে। কুরতুবী খেয়াল করিয়ে দেন, কুরআন কোথাও এই গাছটিকে সরাসরি অভিশাপ দেয়নি। অভিশাপ দিয়েছেন আল্লাহ সেই কাফিরদের, যারা এ গাছ থেকে খাবে। তাই 'অভিশপ্ত গাছ' মানে সেই গাছ, যা খায় অভিশপ্তরা। তিনি ও বাগাভী আরও বলেন, আরবরা যেকোনো ক্ষতিকর, জঘন্য খাবারকে 'অভিশপ্ত' বলত। ইবন আব্বাস থেকে বর্ণিত অল্প কয়েকজনের একটি মত গাছটিকে কাশূস ধরে, এক ধরনের লতা, যা গাছ পেঁচিয়ে ধরে তাকে শুকিয়ে ফেলে। তবে অধিকাংশ আলিম জাক্কুমের মতেই থেকেছেন।"
           }
         ]
       },
@@ -1237,11 +1237,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Why should a tree divide people? Because of how the deniers met the news. Al-Baghawi and at-Tabari record that when they were warned of Zaqqum, Abu Jahl scoffed: Muhammad threatens you with a fire that burns stones, then claims a tree grows in it — and you know fire burns trees. Al-Qurtubi carries the same taunt and the man's next move: he called for dates and butter and told his companions, 'Zaqqum yourselves with this,' making a joke of the warning to blunt its edge.",
-            "bn": "একটি গাছ মানুষকে ভাগ করবে কেন? কারণ অস্বীকারকারীরা খবরটা যেভাবে নিল। বাগাভী ও তাবারী লিপিবদ্ধ করেন, জাক্কুমের ভয় দেখানো হলে আবু জাহল টিটকারি দিল: মুহাম্মদ তোমাদের এমন আগুনের ভয় দেখায় যা পাথর পোড়ায়, তারপর দাবি করে তাতে গাছ জন্মায়, অথচ তোমরা জানো আগুন গাছ পোড়ায়। কুরতুবী একই বিদ্রূপ আর লোকটির পরের কাজ তুলে ধরেন। সে খেজুর আর মাখন আনিয়ে সঙ্গীদের বলল, 'এই দিয়ে জাক্কুম খাও', ভয়টাকে ঠাট্টায় নামিয়ে তার ধার ভোঁতা করতে।"
+            "bn": "একটা গাছ মানুষকে দুই ভাগ করবে কেন? উত্তর আছে অস্বীকারকারীরা খবরটা যেভাবে নিয়েছিল তাতে। বাগাভী ও তাবারী লিখেছেন, জাক্কুমের ভয় দেখানো হলে আবু জাহল ঠাট্টা করে বলল: মুহাম্মদ তোমাদের এমন আগুনের ভয় দেখায় যা পাথর পর্যন্ত পোড়ায়, আবার বলে তার ভেতরে গাছ জন্মায়, অথচ তোমরা তো জানো আগুন গাছ পুড়িয়ে ফেলে। কুরতুবী একই বিদ্রূপ এনেছেন, সঙ্গে লোকটার পরের কাণ্ডও। সে খেজুর আর মাখন আনিয়ে সঙ্গীদের বলল, 'নাও, এ দিয়ে জাক্কুম খাও।' এভাবে সে সতর্কবাণীকে তামাশা বানিয়ে তার ধার ভোঁতা করতে চাইল।"
           },
           {
             "en": "The mockery had a second mouth. Al-Baghawi names Abdullah ibn az-Zibara, who said, 'Muhammad frightens us with Zaqqum, and we know no Zaqqum but butter and dates' — in the tongue of Yemen, al-Qurtubi explains, that is what the word meant. Both men may have said it. The lesson the commentators draw is not about them alone: a report from the unseen, met by a heart already set against it, becomes an occasion for ridicule, and the ridicule hardens the heart further into what it had chosen.",
-            "bn": "বিদ্রূপের দ্বিতীয় মুখও ছিল। বাগাভী নাম নেন আবদুল্লাহ ইবন আয-যিবারার, যে বলল, 'মুহাম্মদ আমাদের জাক্কুমের ভয় দেখায়, অথচ আমরা মাখন আর খেজুর ছাড়া কোনো জাক্কুম চিনি না।' কুরতুবী বলেন, ইয়ামানের ভাষায় শব্দটার অর্থ তা-ই ছিল। হয়তো দুজনেই কথাটা বলেছিল। তাফসীরকারদের টানা শিক্ষা শুধু এদের নিয়ে নয়: গায়েবের কোনো খবর যখন আগে থেকেই বেঁকে বসা অন্তরে পৌঁছায়, তা ঠাট্টার উপলক্ষ হয়, আর সেই ঠাট্টা অন্তরকে তার বেছে নেওয়া পথে আরও শক্ত করে দেয়।"
+            "bn": "বিদ্রূপ এসেছিল আরেকজনের মুখ থেকেও। বাগাভী নাম বলেন আবদুল্লাহ ইবন আয-যিবারার। সে বলেছিল, 'মুহাম্মদ আমাদের জাক্কুমের ভয় দেখায়, অথচ আমরা মাখন আর খেজুর ছাড়া কোনো জাক্কুম চিনি না।' কুরতুবী ব্যাখ্যা করেন, ইয়ামানের ভাষায় শব্দটার অর্থ ছিল এটাই। হয়তো দুজনেই কথাটা বলেছিল। তবে তাফসীরকাররা যে শিক্ষা বের করেন, তা শুধু এ দুজনকে নিয়ে নয়। গায়েবের কোনো খবর যখন আগে থেকেই বিমুখ হয়ে থাকা অন্তরে পৌঁছায়, তখন তা হয়ে ওঠে ঠাট্টার খোরাক। আর সেই ঠাট্টা অন্তরকে তার বেছে নেওয়া পথে আরও কঠিন করে তোলে।"
           }
         ]
       },
@@ -1253,27 +1253,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This is where the disputed reading must be handled with care. A narration relates that the Prophet ﷺ was shown certain men — named in some reports as a clan — leaping upon his pulpit, and a few reporters read 'the accursed tree' as a lineage rather than Zaqqum. Ibn Kathir calls this identification odd and weak, and its chain 'very weak,' its narrator abandoned; al-Qurtubi calls it 'a weak, newly-introduced view,' noting the surah is Meccan while the claim would need it to be Medinan, which is not established.",
-            "bn": "এখানেই সেই বিতর্কিত মতটিকে সাবধানে ধরতে হয়। এক বর্ণনায় আছে, নবী ﷺ-কে দেখানো হয় কিছু লোক, কোনো বর্ণনায় যাদের এক গোত্র বলা হয়, তাঁর মিম্বারে লাফাচ্ছে, আর অল্প কয়েকজন বর্ণনাকারী 'অভিশপ্ত গাছ'-কে জাক্কুম নয়, বরং এক বংশ ধরেছেন। ইবন কাসীর এই চিহ্নিতকরণকে বলেন গরীব ও দুর্বল, আর এর সনদকে 'অত্যন্ত দুর্বল', এর বর্ণনাকারী পরিত্যক্ত। কুরতুবী একে বলেন 'এক দুর্বল, নতুন গজানো মত', মনে করিয়ে দেন সূরাটি মক্কী, অথচ এ দাবির জন্য একে মদীনী হতে হয়, যা প্রমাণিত নয়।"
+            "bn": "এবার সেই বিতর্কিত মতটি, যা খুব সাবধানে সামলাতে হয়। একটি বর্ণনায় আছে, নবী ﷺ-কে দেখানো হয়েছিল কিছু লোক তাঁর মিম্বারে লাফিয়ে উঠছে; কোনো কোনো বর্ণনায় তাদের একটি গোত্র বলে উল্লেখ করা হয়েছে। আর অল্প কয়েকজন বর্ণনাকারী 'অভিশপ্ত গাছ' বলতে জাক্কুম নয়, একটি বংশ বুঝেছেন। ইবন কাসীর এভাবে চিহ্নিত করাকে বলেন গরীব ও দুর্বল, এর সনদকে বলেন 'অত্যন্ত দুর্বল', আর এর বর্ণনাকারী পরিত্যক্ত। কুরতুবী একে বলেন 'এক দুর্বল, নতুন গজানো মত'। তিনি মনে করিয়ে দেন, সূরাটি মক্কী, অথচ এ দাবি টিকতে হলে সূরাটিকে মদীনী হতে হয়, আর তা প্রমাণিত নয়।"
           },
           {
             "en": "So this article holds to what the sources establish and refuses what they grade away. The verse names a tree in the Fire and a sight shown to the Prophet ﷺ, and it condemns the deniers who mocked them. It describes what the text describes and licenses nothing against any living person, family or community. Ibn Kathir and at-Tabari both settled on Zaqqum by the agreement of the authorities; a report about any lineage that the scholars themselves graded weak cannot be turned, in our own voice, into a verdict on anyone alive.",
-            "bn": "তাই এই লেখা যা সূত্রে প্রতিষ্ঠিত তাতেই আঁকড়ে থাকে, আর যা তারা দুর্বল বলে সরিয়ে দেয় তা বর্জন করে। আয়াত নাম নেয় আগুনের ভেতরের এক গাছের আর নবী ﷺ-কে দেখানো এক দৃশ্যের, আর নিন্দা করে সেই অস্বীকারকারীদের যারা এগুলো নিয়ে ঠাট্টা করেছিল। আয়াত যা বর্ণনা করে তা-ই বর্ণনা করে, আর জীবিত কোনো মানুষ, পরিবার বা জনগোষ্ঠীর বিরুদ্ধে এ কিছুরই অনুমতি দেয় না। ইবন কাসীর ও তাবারী দুজনেই ইমামদের ইজমায় জাক্কুমেই থিতু হয়েছেন। কোনো বংশ নিয়ে যে বর্ণনাকে আলিমরা নিজেরাই দুর্বল বলেছেন, তাকে আমাদের নিজের মুখে জীবিত কারও বিরুদ্ধে রায় বানানো যায় না।"
+            "bn": "তাই এই লেখা শুধু সেটুকুই ধরে রাখে, যা সূত্রগুলো দিয়ে প্রমাণিত; আলিমরা যা দুর্বল বলে বাদ দিয়েছেন, তা এখানে নেওয়া হয়নি। আয়াত আগুনের ভেতরের এক গাছের নাম নেয়, নবী ﷺ-কে দেখানো এক দৃশ্যের কথা বলে, আর নিন্দা করে সেই অস্বীকারকারীদের, যারা এ নিয়ে ঠাট্টা করেছিল। আয়াতে যা আছে, আমরা ততটুকুই বলি। জীবিত কোনো মানুষ, পরিবার বা সম্প্রদায়ের বিরুদ্ধে কিছু বলার অনুমতি এতে নেই। ইবন কাসীর ও তাবারী দুজনেই ইমামদের ইজমার ভিত্তিতে জাক্কুমের মত গ্রহণ করেছেন। কোনো বংশ নিয়ে যে বর্ণনাকে আলিমরা নিজেরাই দুর্বল বলেছেন, তাকে আমরা নিজের মুখে জীবিত কারও বিরুদ্ধে রায় বানাতে পারি না।"
           }
         ]
       },
       {
         "h": {
           "en": "When Warning Hardens",
-          "bn": "ভয় যখন কঠিন করে"
+          "bn": "হুঁশিয়ারি যখন অন্তর শক্ত করে"
         },
         "p": [
           {
             "en": "The verse ends with a law of the heart: 'We threaten them, but it increases them not except in great transgression.' Ibn Kathir reads the threatening as Allah's warnings of punishment and reckoning, and the increase as the deniers being pushed further into their disbelief and misguidance — and he traces the cause to Allah's forsaking of those who had first forsaken Him. The same rain that softens soft earth bakes hard earth; the same warning that melts a yielding heart drives a stubborn heart deeper into what it fled.",
-            "bn": "আয়াত শেষ হয় অন্তরের এক নিয়ম দিয়ে: 'আমি তাদের ভয় দেখাই, কিন্তু তা তাদের চরম অবাধ্যতাই বাড়ায়।' ইবন কাসীর এই ভয় দেখানোকে বোঝেন আল্লাহর শাস্তি ও হিসাবের হুঁশিয়ারি হিসেবে, আর বৃদ্ধি মানে অস্বীকারকারীদের তাদের কুফর ও গোমরাহিতে আরও ঠেলে দেওয়া। এর কারণ তিনি খুঁজে পান আল্লাহর সেই পরিত্যাগে, যারা আগে তাঁকে ছেড়েছিল তাদের তিনি ছেড়ে দেন। যে বৃষ্টি এক মাটিকে নরম করে, তা-ই আরেক মাটিকে শক্ত করে ফেলে। যে হুঁশিয়ারি এক অন্তরকে ফেরায়, তা আরেক অন্তরকে আরও গভীরে ঠেলে দেয়।"
+            "bn": "আয়াত শেষ হয় অন্তরের এক নিয়ম দিয়ে: 'আমি তাদের ভয় দেখাই, কিন্তু তাতে তাদের চরম অবাধ্যতাই কেবল বাড়ে।' ইবন কাসীরের মতে এই ভয় দেখানো হলো শাস্তি ও হিসাবের ব্যাপারে আল্লাহর হুঁশিয়ারি, আর বেড়ে যাওয়া মানে অস্বীকারকারীরা কুফর ও গোমরাহির আরও গভীরে চলে যায়। এর কারণও তিনি দেখান: যারা আগে আল্লাহকে ছেড়ে দিয়েছিল, আল্লাহও তাদের ছেড়ে দিয়েছেন। একই বৃষ্টি নরম মাটিকে আরও নরম করে, আবার শক্ত মাটিকে আরও শক্ত করে তোলে। একই হুঁশিয়ারি নরম অন্তরকে গলিয়ে দেয়, আর জেদি অন্তরকে আরও গভীরে ঠেলে দেয় সেখানে, যেখানে সে পালিয়ে গিয়েছিল।"
           },
           {
             "en": "As-Sa'di reads the closing words as the furthest reach of a heart in love with evil: warned, and growing only in tyranny and defiance. Yet he finds in the same verse a mercy hidden in restraint. This, he says, is why revelation states the great matters of the unseen in general terms rather than spelling out every overwhelming detail, for minds that have seen nothing like them might have stumbled had they been told in advance. Warning is measured out; it is meant to save, not to break.",
-            "bn": "সাদী এই শেষ কথাগুলো পড়েন মন্দের প্রেমে পড়া অন্তরের শেষ সীমা হিসেবে, ভয় পেয়েও কেবল জুলুম আর বিদ্রোহেই বাড়া। তবু সেই একই আয়াতে তিনি খুঁজে পান সংযমে লুকানো এক রহমত। এ কারণেই, তিনি বলেন, ওহী গায়েবের বড় বিষয়গুলো সাধারণ কথায় বলে, প্রতিটি বিস্ময়কর খুঁটিনাটি খুলে না দিয়ে। যে মন এমন কিছু আগে দেখেনি, আগেভাগে বলে দিলে সে হয়তো হোঁচট খেত। ভয় দেখানো মেপে দেওয়া হয়, এ ভাঙার জন্য নয়, বাঁচানোর জন্য।"
+            "bn": "সাদীর মতে আয়াতের শেষ কথাগুলো দেখায়, মন্দকে ভালোবেসে ফেলা অন্তর কতদূর যেতে পারে: তাকে সতর্ক করা হয়, আর সে কেবল জুলুম ও হঠকারিতায় বাড়তে থাকে। তবু একই আয়াতে তিনি সংযমের ভেতরে লুকানো এক রহমতও খুঁজে পান। তিনি বলেন, এ কারণেই ওহি গায়েবের বড় বড় বিষয় সংক্ষেপে বলে, প্রতিটি বিস্ময়কর খুঁটিনাটি খুলে বলে না। যে মন এমন কিছু কখনো দেখেনি, আগেভাগে সব বলে দিলে সে হয়তো হোঁচট খেত। হুঁশিয়ারি দেওয়া হয় মেপে মেপে; উদ্দেশ্য বাঁচানো, ভেঙে দেওয়া নয়।"
           }
         ]
       },
@@ -1285,11 +1285,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The whole verse turns on a single fact: the same news reached different hearts and sorted them. Al-Qurtubi preserves the image of the other response. When Abu Bakr was told, the morning after the Night Journey, that his companion claimed to have reached Jerusalem and returned in a night, he answered, 'If he said it, he has spoken the truth' — and asked only to have it described. He believed the report on the strength of who carried it, and by that he was named as-Siddiq, the one who affirms the truth.",
-            "bn": "গোটা আয়াত ঘোরে একটি সত্যের চারপাশে: একই খবর ভিন্ন অন্তরে পৌঁছে তাদের আলাদা করে দিল। কুরতুবী অন্য জবাবটার ছবিও রেখে দেন। মিরাজের পরের সকালে আবু বকর (রাঃ)-কে যখন বলা হলো, তাঁর সঙ্গী দাবি করছেন এক রাতে বায়তুল মুকাদ্দাস গিয়ে ফিরে এসেছেন, তিনি বললেন, 'তিনি যদি এ বলে থাকেন, তবে সত্যই বলেছেন', আর শুধু বর্ণনাটা শুনতে চাইলেন। যিনি খবর বহন করেছেন তাঁর জোরেই তিনি খবরটা মেনে নিলেন, আর এতেই তাঁর নাম হলো সিদ্দীক, সত্যের সমর্থক।"
+            "bn": "গোটা আয়াত একটি সত্যকে ঘিরে: একই খবর ভিন্ন ভিন্ন অন্তরে পৌঁছে তাদের আলাদা করে দিল। অন্য রকম সাড়াটির ছবিও কুরতুবী ধরে রেখেছেন। মিরাজের পরের সকালে আবু বকর (রাঃ)-কে বলা হলো, তাঁর সঙ্গী দাবি করছেন, এক রাতেই তিনি বায়তুল মুকাদ্দাস গিয়ে ফিরে এসেছেন। তিনি বললেন, 'তিনি যদি এ কথা বলে থাকেন, তবে সত্যই বলেছেন।' তারপর শুধু চাইলেন, তিনি যেন সেটার বর্ণনা দেন। কে খবরটা এনেছেন, সেটা দেখেই তিনি তা বিশ্বাস করলেন, আর এ কারণেই তাঁর নাম হলো সিদ্দীক, যিনি সত্যকে সত্য বলে মেনে নেন।"
           },
           {
             "en": "That is the trial the verse leaves with the reader. Revelation still tells us of things the eye has not seen — the Fire, the tree, the scale, the meeting with our Lord. The mind cannot draw them, and it was never asked to. It was asked to trust the Lord who spoke. When the next hard truth arrives and your reason cannot picture it, you stand where those first hearers stood: soften and affirm, or scoff and harden. The sieve is still working, and each of us comes down on a side of it.",
-            "bn": "এটাই সেই পরীক্ষা যা আয়াত পাঠকের হাতে রেখে যায়। ওহী আজও আমাদের এমন সব কিছুর খবর দেয় যা চোখ দেখেনি, জাহান্নাম, সেই গাছ, মিযান, রবের সঙ্গে সাক্ষাৎ। মন এগুলোর ছবি আঁকতে পারে না, আর তাকে কখনো তা করতে বলাও হয়নি। তাকে বলা হয়েছে, যিনি বলেছেন তাঁকে বিশ্বাস করতে। পরের কঠিন সত্য যখন আসে আর যুক্তি তার ছবি আঁকতে পারে না, তখন আপনি সেই প্রথম শ্রোতাদের জায়গায় দাঁড়ান: নরম হয়ে মেনে নিন, নাকি ঠাট্টা করে শক্ত হয়ে যান। চালুনি আজও চলছে, আর আমরা প্রত্যেকে এর কোনো এক পাশে গিয়ে পড়ি।"
+            "bn": "আয়াত পাঠকের হাতে এই পরীক্ষাটাই রেখে যায়। ওহি আজও আমাদের এমন সব জিনিসের খবর দেয়, যা চোখ কখনো দেখেনি: জাহান্নাম, সেই গাছ, মিযান, রবের সঙ্গে সাক্ষাৎ। মন এগুলোর ছবি আঁকতে পারে না, আর তার কাছে তা কখনো চাওয়াও হয়নি। চাওয়া হয়েছে শুধু এটুকু: যে রব কথা বলেছেন, তাঁর ওপর ভরসা রাখা। পরের কোনো কঠিন সত্য যখন সামনে আসবে আর আপনার বুদ্ধি তার ছবি কল্পনা করতে পারবে না, তখন আপনি দাঁড়াবেন সেই প্রথম শ্রোতাদের জায়গায়: হয় নরম হয়ে মেনে নেবেন, নয়তো ঠাট্টা করে শক্ত হয়ে যাবেন। চালুনি আজও চলছে, আর আমরা প্রত্যেকেই তার কোনো না কোনো পাশে গিয়ে পড়ি।"
           }
         ]
       }
@@ -1305,27 +1305,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is built on four verbs, all first person plural: karramna, We honoured; wa hamalnahum, and We carried them; wa razaqnahum, and We provided them; wa faddalnahum, and We preferred them. It opens with wa laqad, an oath particle followed by an emphatic qad, which Arabic uses for a claim it wants heard as settled rather than argued. And the ones honoured are bani Adam, the children of Adam — the species, not the believers inside it.",
-            "bn": "আয়াতটি দাঁড়িয়ে আছে চারটি ক্রিয়াপদের উপর, প্রতিটিই উত্তম পুরুষ বহুবচনে: কাররামনা — আমি সম্মানিত করেছি; ওয়া হামালনাহুম — আর আমি তাদের বহন করেছি; ওয়া রাযাকনাহুম — আর আমি তাদের রিযিক দিয়েছি; ওয়া ফাদ্দালনাহুম — আর আমি তাদের শ্রেষ্ঠত্ব দিয়েছি। শুরু হয় 'ওয়া লাকাদ' দিয়ে — শপথসূচক অব্যয়ের পর জোরদার 'কাদ', যা আরবিতে এমন দাবির জন্য ব্যবহৃত হয় যা তর্কের বিষয় নয়, মীমাংসিত হিসেবে শোনানোর বিষয়। আর যাদের সম্মানিত করা হয়েছে তারা 'বানী আদম' — আদম-সন্তান, গোটা মানবজাতি, তার ভেতরের মুমিনরা নয়।"
+            "bn": "আয়াতটি দাঁড়িয়ে আছে চারটি ক্রিয়াপদের ওপর, আর চারটিতেই আল্লাহ নিজের কথা বলছেন বহুবচনে: কাররামনা, আমি সম্মানিত করেছি; ওয়া হামালনাহুম, আর আমি তাদের বহন করেছি; ওয়া রাযাকনাহুম, আর আমি তাদের রিযিক দিয়েছি; ওয়া ফাদ্দালনাহুম, আর আমি তাদের শ্রেষ্ঠত্ব দিয়েছি। শুরু হয় 'ওয়া লাকাদ' দিয়ে: শপথ বোঝানো একটি অক্ষর, তার পরে জোর দেওয়ার 'কাদ'। আরবিতে এই গঠন আসে তখন, যখন কোনো দাবিকে তর্কের বিষয় হিসেবে নয়, মীমাংসিত কথা হিসেবে শোনাতে চাওয়া হয়। আর যাদের সম্মান দেওয়া হয়েছে, তারা 'বানী আদম', আদমের সন্তান। অর্থাৎ গোটা মানবজাতি, তার ভেতরের শুধু মুমিনরা নয়।"
           },
           {
             "en": "All four verbs are in the perfect tense. The honouring is not offered as a promise to be earned or a reward held back pending conduct; it is reported as something already done. And no condition is attached anywhere in the sentence — no faith, no lineage and no deed qualifies or disqualifies anyone for it. Whatever the verse gives, it has already given, and it gave it to a species rather than to a party inside it.",
-            "bn": "চারটি ক্রিয়াপদই অতীতকালের। এই সম্মান অর্জন-সাপেক্ষ কোনো প্রতিশ্রুতি নয়, আচরণের অপেক্ষায় আটকে রাখা কোনো পুরস্কারও নয়; এটি বর্ণিত হয়েছে ইতোমধ্যেই সম্পন্ন হওয়া কিছু হিসেবে। আর বাক্যটির কোথাও কোনো শর্ত জুড়ে দেওয়া হয়নি — ঈমান, বংশ বা আমল কোনোটিই কাউকে এর যোগ্য বা অযোগ্য করে না। আয়াতটি যা দেয়, তা আগেই দিয়ে ফেলেছে; আর দিয়েছে একটি প্রজাতিকে, তার ভেতরের কোনো দলকে নয়।"
+            "bn": "চারটি ক্রিয়াপদই অতীতকালের। এই সম্মান এমন কোনো প্রতিশ্রুতি নয়, যা অর্জন করে নিতে হবে; আচরণ দেখে দেওয়া হবে বলে আটকে রাখা পুরস্কারও নয়। আয়াত একে জানাচ্ছে আগেই সেরে ফেলা কাজ হিসেবে। আর পুরো বাক্যের কোথাও কোনো শর্ত নেই। ঈমান, বংশ বা আমল, কোনোটিই কাউকে এর যোগ্য বা অযোগ্য করে না। আয়াত যা দেয়, তা আগেই দিয়ে রেখেছে, আর দিয়েছে গোটা মানবজাতিকে, তার ভেতরের কোনো একটি দলকে নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "The Sea It Answers",
-          "bn": "যে সমুদ্রের জবাব এটি"
+          "bn": "সমুদ্রের আয়াতগুলোর জবাব"
         },
         "p": [
           {
             "en": "The verses just before this one are about the sea. 17:66 says it is your Lord who drives the ship for you through the sea. 17:67 says that when harm touches you at sea, everyone you call upon besides Him is lost — and when He delivers you safely to land, you turn away. 17:68 and 17:69 then ask whether you feel secure that He will not cause the land to swallow you, or send a storm of wind.",
-            "bn": "ঠিক আগের আয়াতগুলো সমুদ্র নিয়ে। 17:66 বলে, তিনিই তোমার রব যিনি সমুদ্রে তোমাদের জন্য নৌযান চালান। 17:67 বলে, সমুদ্রে যখন বিপদ তোমাদের স্পর্শ করে, তখন তিনি ছাড়া যাদের তোমরা ডাকতে তারা সব হারিয়ে যায় — আর তিনি যখন তোমাদের নিরাপদে ডাঙায় পৌঁছে দেন, তোমরা মুখ ফিরিয়ে নাও। এরপর 17:68 ও 17:69 জিজ্ঞেস করে, তোমরা কি নিশ্চিন্ত যে তিনি স্থলকে তোমাদের গ্রাস করতে দেবেন না, কিংবা ঝড়ো হাওয়া পাঠাবেন না?"
+            "bn": "এর ঠিক আগের আয়াতগুলো সমুদ্র নিয়ে। ১৭:৬৬ বলে, তোমাদের রবই সমুদ্রে তোমাদের জন্য নৌযান চালান। ১৭:৬৭ বলে, সমুদ্রে যখন তোমাদের বিপদ ছুঁয়ে যায়, তখন তিনি ছাড়া যাদের তোমরা ডাকো, তারা সবাই হারিয়ে যায়; আর তিনি যখন তোমাদের নিরাপদে ডাঙায় পৌঁছে দেন, তোমরা মুখ ফিরিয়ে নাও। এরপর ১৭:৬৮ ও ১৭:৬৯ প্রশ্ন করে: তোমরা কি নিশ্চিন্ত যে তিনি তোমাদের মাটির ভেতর ধসিয়ে দেবেন না, কিংবা ঝড়ো হাওয়া পাঠাবেন না?"
           },
           {
             "en": "Then this verse says: and We carried them in the land and the sea. The very carriage that had just been the setting of the ingratitude is now entered on the list of honours. Ibn Kathir reads the land half as the animals people are carried on and the sea half as ships and boats. Naming both together covers the whole surface of the world; there is no route a human being travels that is not a favour he is being carried upon.",
-            "bn": "এরপর এই আয়াত বলে: আর আমি তাদের বহন করেছি স্থলে ও সমুদ্রে। যে বহনটিই এতক্ষণ ছিল অকৃতজ্ঞতার প্রেক্ষাপট, সেটিই এখন সম্মানের তালিকায় উঠে এল। ইবনে কাসীর স্থলভাগের অংশটিকে পড়েন সেই পশুগুলো হিসেবে যাদের উপর মানুষ চড়ে, আর সমুদ্রের অংশটিকে নৌযান ও জাহাজ হিসেবে। দুটিকে একসঙ্গে নাম দেওয়া মানে গোটা পৃথিবীর উপরিতল ঢেকে ফেলা; মানুষের চলার এমন কোনো পথ নেই যা তার বহন করা হওয়ার একটি নিয়ামত নয়।"
+            "bn": "এরপর এই আয়াত বলে: আর আমি তাদের বহন করেছি স্থলে ও সমুদ্রে। একটু আগেই যে বয়ে নেওয়া ছিল অকৃতজ্ঞতার মঞ্চ, সেটিই এখন উঠে এল সম্মানের তালিকায়। ইবনে কাসীরের ব্যাখ্যায় স্থলের বহন মানে সেই পশু, যার পিঠে মানুষ চড়ে, আর সমুদ্রের বহন মানে নৌকা ও জাহাজ। দুটো একসঙ্গে বলায় গোটা দুনিয়ার বুক এর ভেতরে এসে গেল। মানুষ যে পথেই চলুক, সে পথে তাকে বয়ে নেওয়া হচ্ছে, আর সেটাও এক নিয়ামত।"
           }
         ]
       },
@@ -1337,11 +1337,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The two verbs at either end of the verse are not synonyms. Karramna stands unqualified: no comparison is drawn, no other creature is named as the loser, and nothing is said about what the honoured did to deserve it. Faddalnahum is explicitly comparative and states its comparison — 'ala kathirin mimman khalaqna, over much of what We have created — reinforced by tafdila, a cognate accusative that in Arabic strengthens the verb it echoes.",
-            "bn": "আয়াতের দুই প্রান্তের ক্রিয়াপদ দুটি সমার্থক নয়। 'কাররামনা' কোনো শর্ত ছাড়াই দাঁড়িয়ে আছে: কোনো তুলনা টানা হয়নি, কোনো সৃষ্টিকে পরাজিত হিসেবে নাম দেওয়া হয়নি, আর সম্মানিতরা তা পাওয়ার জন্য কী করেছিল সে বিষয়ে কিছুই বলা হয়নি। 'ফাদ্দালনাহুম' স্পষ্টভাবে তুলনামূলক এবং নিজের তুলনাটিও বলে দেয় — 'আলা কাসীরিম মিম্মান খালাকনা, আমার সৃষ্টির বহু কিছুর উপর — আর তা জোরদার হয় 'তাফদীলা' দিয়ে, যা আরবিতে ক্রিয়াকে শক্তিশালী করার ধাতুগত কর্মপদ।"
+            "bn": "আয়াতের দুই মাথার ক্রিয়াপদ দুটি সমার্থক নয়। 'কাররামনা' কোনো শর্ত ছাড়া একা দাঁড়িয়ে: কোনো তুলনা নেই, অন্য কোনো সৃষ্টিকে হেরে যাওয়া পক্ষ বানানো হয়নি, আর সম্মানিতরা এর জন্য কী করেছিল, সে কথাও নেই। অন্যদিকে 'ফাদ্দালনাহুম' খোলাখুলি তুলনার শব্দ, আর তুলনাটাও বলে দেয়: 'আলা কাসীরিম মিম্মান খালাকনা, আমার সৃষ্টির অনেকের ওপর। সঙ্গে আছে 'তাফদীলা', একই ধাতু থেকে আসা একটি শব্দ, যা আরবিতে ক্রিয়াটির জোর আরও বাড়িয়ে দেয়।"
           },
           {
             "en": "The wording says much and not all, and the commentators noticed. Ibn Kathir takes the verse as indicating that human beings are preferred even over the angels; others read the choice of much as deliberately leaving the question open. What is not open is the order of the two verbs. Dignity is announced first and without conditions, and rank is mentioned last with a limit written into it.",
-            "bn": "শব্দটি বলেছে 'বহু', 'সব' নয় — আর মুফাসসিরগণ তা লক্ষ করেছেন। ইবনে কাসীর আয়াতটিকে এই ইঙ্গিত হিসেবে নেন যে মানুষকে ফেরেশতাদের উপরও শ্রেষ্ঠত্ব দেওয়া হয়েছে; অন্যরা 'বহু' শব্দের নির্বাচনকে পড়েন প্রশ্নটিকে ইচ্ছাকৃতভাবে খোলা রাখা হিসেবে। যা খোলা নয় তা হলো দুই ক্রিয়াপদের ক্রম। মর্যাদা ঘোষিত হয় আগে এবং কোনো শর্ত ছাড়া; পদমর্যাদার কথা আসে শেষে, আর তার ভেতরেই একটি সীমা লেখা থাকে।"
+            "bn": "আয়াতের শব্দ 'অনেক', 'সব' নয়, আর মুফাসসিরগণ তা খেয়াল করেছেন। ইবনে কাসীর আয়াত থেকে বোঝেন, মানুষকে ফেরেশতাদের ওপরও শ্রেষ্ঠত্ব দেওয়া হয়েছে। অন্যরা মনে করেন, 'অনেক' শব্দ বেছে নিয়ে প্রশ্নটা ইচ্ছে করেই খোলা রাখা হয়েছে। তবে দুই ক্রিয়াপদের ক্রম নিয়ে কোনো প্রশ্ন নেই। মর্যাদার ঘোষণা আসে আগে, কোনো শর্ত ছাড়া; আর শ্রেষ্ঠত্বের কথা আসে শেষে, সঙ্গে একটা সীমা বেঁধে দিয়ে।"
           }
         ]
       },
@@ -1353,27 +1353,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir begins with form, citing 95:4, We created man in the best of stature. He notes that a human being walks upright on two feet and eats with his hand, while other living creatures walk on four and eat with their mouths, and that he was given hearing, sight and a heart with which to understand what he takes in. The good things he lists as crops, fruit, meat, milk and clothing.",
-            "bn": "ইবনে কাসীর শুরু করেন গঠন দিয়ে, উদ্ধৃত করেন 95:4 — আমি মানুষকে সৃষ্টি করেছি সুন্দরতম অবয়বে। তিনি লক্ষ করেন, মানুষ দুই পায়ে সোজা হয়ে হাঁটে এবং হাত দিয়ে খায়, অথচ অন্য প্রাণীরা চার পায়ে হাঁটে ও মুখ দিয়ে খায়; আর তাকে দেওয়া হয়েছে শ্রবণ, দৃষ্টি ও হৃদয় — যা দিয়ে সে গ্রহণ করা জিনিস বুঝতে পারে। 'উত্তম বস্তুসমূহ'-এর তালিকায় তিনি রাখেন ফসল, ফল, মাংস, দুধ আর পোশাক।"
+            "bn": "ইবনে কাসীর শুরু করেন দেহের গড়ন দিয়ে। তিনি উদ্ধৃত করেন ৯৫:৪: আমি মানুষকে সৃষ্টি করেছি সুন্দরতম গঠনে। তিনি দেখান, মানুষ দুই পায়ে সোজা হয়ে হাঁটে, হাত দিয়ে খায়; অথচ অন্য প্রাণীরা হাঁটে চার পায়ে, খায় মুখ দিয়ে। মানুষকে দেওয়া হয়েছে শোনার কান, দেখার চোখ আর অন্তর, যা দিয়ে সে বুঝতে পারে যা কিছু তার কাছে পৌঁছায়। আর 'উত্তম জিনিস' বলতে তিনি গোনেন ফসল, ফল, মাংস, দুধ আর পোশাক।"
           },
           {
             "en": "The surah had already recorded an objection to all of it. At 17:62 Iblis says of Adam: this one whom You have honoured above me — karramta, the same root as our verse — and swears that if he is given respite he will seize his descendants except a few. The honour is announced in the same surah that records who resents it. What Iblis calls an injustice, the verse states as a plain fact about every human being who walks past you.",
-            "bn": "সূরাটি এই সবকিছুর বিরুদ্ধে একটি আপত্তি আগেই লিপিবদ্ধ করেছে। 17:62-তে ইবলীস আদম সম্পর্কে বলে: এই যাকে আপনি আমার উপর সম্মানিত করেছেন — 'কাররামতা', আমাদের আয়াতের একই ধাতু — আর সে শপথ করে, অবকাশ পেলে সে অল্প কয়েকজন ছাড়া তার বংশধরদের কব্জা করে নেবে। যে সূরা এই সম্মান ঘোষণা করে, সেই সূরাই লিপিবদ্ধ করে কে এতে ক্ষুব্ধ। ইবলীস যাকে অবিচার বলে, আয়াত তাকে বলে আপনার পাশ দিয়ে হেঁটে যাওয়া প্রত্যেক মানুষ সম্পর্কে একটি সাদামাটা সত্য।"
+            "bn": "এই সম্মানের বিরুদ্ধে আপত্তিটাও সূরাটি আগেই তুলে রেখেছে। ১৭:৬২-তে ইবলীস আদম সম্পর্কে বলে: এই যাকে আপনি আমার ওপর সম্মান দিয়েছেন। এখানে শব্দটি 'কাররামতা', আমাদের আয়াতের একই ধাতু থেকে। তারপর সে কসম খায়, অবকাশ পেলে অল্প কয়েকজন ছাড়া আদমের বংশধরদের সে কবজা করে নেবে। যে সূরা এই সম্মানের ঘোষণা দেয়, সেই সূরাই জানিয়ে দেয় কে এতে হিংসায় জ্বলে। ইবলীস যাকে অবিচার বলে, আয়াত সেটাকেই বলে সহজ সত্য, আপনার পাশ দিয়ে হেঁটে যাওয়া প্রতিটি মানুষের বেলায়।"
           }
         ]
       },
       {
         "h": {
           "en": "A Dignity Nobody Awarded",
-          "bn": "যে মর্যাদা কেউ পুরস্কার দেয়নি"
+          "bn": "এ মর্যাদা কোনো মানুষের দান নয়"
         },
         "p": [
           {
             "en": "Because the honour was conferred and not earned, no human estimate can withdraw it. Al-Bukhari relates from Sahl ibn Hunayf and Qays ibn Sa'd (RA) that a funeral passed the Prophet ﷺ and he stood; when he was told that it was the funeral of a Jew, he said: was it not a soul? The dignity respected in that moment is not the dignity of a fellow believer or a fellow citizen. It is what this verse gives to the children of Adam as such.",
-            "bn": "যেহেতু এই সম্মান দেওয়া হয়েছে, অর্জিত হয়নি, তাই মানুষের কোনো মূল্যায়ন তা কেড়ে নিতে পারে না। ইমাম বুখারী সাহল ইবনে হুনাইফ ও কায়স ইবনে সা'দ (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ-এর পাশ দিয়ে একটি জানাযা যাচ্ছিল আর তিনি দাঁড়িয়ে গেলেন; তাঁকে যখন বলা হলো এটি একজন ইহুদির জানাযা, তিনি বললেন: এটি কি একটি প্রাণ নয়? সেই মুহূর্তে যে মর্যাদার প্রতি সম্মান দেখানো হচ্ছে, তা সহ-মুমিন বা সহ-নাগরিকের মর্যাদা নয়। তা সেই মর্যাদা, যা এই আয়াত আদম-সন্তানকে দিয়েছে।"
+            "bn": "এই সম্মান যেহেতু দেওয়া হয়েছে, অর্জন করতে হয়নি, তাই কোনো মানুষের বিচারে তা কেড়ে নেওয়া যায় না। ইমাম বুখারী সাহল ইবনে হুনাইফ ও কায়স ইবনে সা'দ (রাঃ) থেকে বর্ণনা করেন: নবী ﷺ-এর পাশ দিয়ে একটি জানাযা যাচ্ছিল, তিনি উঠে দাঁড়ালেন। তাঁকে বলা হলো, এটা একজন ইহুদির জানাযা। তিনি বললেন: সে কি একটি প্রাণ ছিল না? সেই মুহূর্তে যে মর্যাদাকে সম্মান দেখানো হলো, তা সহ-মুমিন বা সহ-নাগরিক হওয়ার মর্যাদা নয়। এ সেই মর্যাদা, যা এই আয়াত আদমসন্তানকে দিয়েছে শুধু আদমসন্তান হওয়ার কারণেই।"
           },
           {
             "en": "5:32 puts the principle into law: whoever kills a soul, other than for a soul or for corruption in the land, it is as though he had killed all mankind. And 49:11 and 49:12 forbid the small daily erosions of it — ridicule, insulting nicknames, suspicion, spying, backbiting. The practical edge runs outward, at people who can no longer be useful to you, and inward, since the creature Allah carried, fed and honoured happens to be you as well.",
-            "bn": "5:32 নীতিটিকে আইনে রূপ দেয়: প্রাণের বদলা বা পৃথিবীতে বিপর্যয় সৃষ্টির কারণ ছাড়া যে কেউ একটি প্রাণ হত্যা করল, সে যেন সমগ্র মানবজাতিকে হত্যা করল। আর 49:11 ও 49:12 নিষেধ করে এর প্রতিদিনের ছোট ছোট ক্ষয় — বিদ্রূপ, অবমাননাকর ডাকনাম, কুধারণা, গোয়েন্দাগিরি, গীবত। এর ব্যবহারিক ধার চলে বাইরের দিকে, সেই মানুষদের প্রতি যারা আপনার আর কোনো কাজে আসবে না; আর ভেতরের দিকেও, কারণ আল্লাহ যাকে বহন করেছেন, খাইয়েছেন ও সম্মানিত করেছেন সেই সৃষ্টিটি আপনি নিজেও।"
+            "bn": "৫:৩২ এই নীতিকে বিধানে পরিণত করে: প্রাণের বদলে প্রাণ বা পৃথিবীতে ফাসাদ সৃষ্টির কারণ ছাড়া কেউ যদি একজন মানুষকে হত্যা করে, সে যেন গোটা মানবজাতিকেই হত্যা করল। আর ৪৯:১১ ও ৪৯:১২ নিষেধ করে এই মর্যাদার রোজকার ছোট ছোট ক্ষয়: ঠাট্টা-বিদ্রূপ, খারাপ নামে ডাকা, কুধারণা, গোয়েন্দাগিরি, গীবত। এর বাস্তব শিক্ষা দুই দিকে যায়। বাইরের দিকে, সেই মানুষদের প্রতি, যারা আপনার আর কোনো কাজে আসবে না। আর ভেতরের দিকে, কারণ আল্লাহ যে সৃষ্টিকে বহন করেছেন, খাইয়েছেন আর সম্মান দিয়েছেন, সে আপনিও।"
           }
         ]
       }
@@ -1389,11 +1389,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "After honouring the children of Adam and carrying them over land and sea, the surah lifts its gaze to the end of the road. Remember the Day, it says, when We call every people with their imam. Al-Muyassar reads the whole verse as at once glad tidings and warning: a herald will summon each community together with whoever it followed in the world. The scene opens not on a courtroom's terror but on a name being called, and a crowd rising to answer to it.",
-            "bn": "আদম সন্তানকে সম্মান দিয়ে, জলে-স্থলে তাদের বহন করার পর সূরাটি চোখ তোলে পথের শেষপ্রান্তের দিকে। আয়াত বলছে, স্মরণ করো সেই দিনকে, যেদিন আমি প্রতিটি সম্প্রদায়কে তাদের ইমামসহ ডাকব। মুয়াসসার গোটা আয়াতটিকে একসঙ্গে সুসংবাদ ও সতর্কবাণী হিসেবে পড়েন। ঘোষক প্রতিটি জাতিকে ডাকবেন সেই সঙ্গে, দুনিয়ায় তারা যাকে অনুসরণ করত তাকেসহ। দৃশ্যটা খোলে আদালতের আতঙ্ক দিয়ে নয়, বরং একটা নাম ধরে ডাক আর সেই ডাকে ভিড় করে উঠে দাঁড়ানো দিয়ে।"
+            "bn": "আদমসন্তানকে সম্মান দেওয়ার পর, জলে-স্থলে তাদের বহন করার কথা বলার পর, সূরাটি চোখ তোলে পথের শেষ মাথার দিকে। আয়াত বলছে, স্মরণ করো সেই দিন, যেদিন আমি প্রতিটি সম্প্রদায়কে তাদের ইমামসহ ডাকব। মুয়াসসার পুরো আয়াতটিকে একই সঙ্গে সুসংবাদ ও সতর্কবাণী হিসেবে পড়েন: একজন ঘোষক প্রতিটি দলকে ডাকবেন, আর সঙ্গে ডাকবেন দুনিয়ায় তারা যাকে অনুসরণ করত তাকেও। দৃশ্যটা শুরু হয় আদালতের আতঙ্ক দিয়ে নয়; শুরু হয় নাম ধরে ডাক দিয়ে, আর সেই ডাকে সাড়া দিতে উঠে দাঁড়ানো এক জনতা দিয়ে।"
           },
           {
             "en": "The verse makes three moves in a single breath. First the summons, every people called with their imam. Then a division: whoever is given his record in his right hand. Then a promise about that group — they read their record, and they are not wronged so much as a fatil. Much of the surah before this warned the ungrateful; here the light falls on the people of the right hand. Their portion is joy, and the article that follows stays with them, as the verse does, before the darker hand is ever named.",
-            "bn": "আয়াতটি এক নিঃশ্বাসে তিনটি কাজ করে। প্রথমে ডাক, প্রতিটি সম্প্রদায়কে ডাকা হয় তাদের ইমামসহ। এরপর ভাগ: যাকে তার আমলনামা ডান হাতে দেওয়া হয়। এরপর সেই দলটিকে নিয়ে এক প্রতিশ্রুতি, তারা নিজেদের আমলনামা পড়বে, আর তাদের ওপর সুতো পরিমাণও যুলম করা হবে না। এর আগে সূরার অনেকখানি অকৃতজ্ঞদের সতর্ক করেছে। এখানে আলো পড়ে ডান হাতের লোকদের ওপর। তাদের ভাগে আনন্দ, আর এই লেখাও আয়াতের মতোই তাদের সঙ্গেই থাকে, আঁধার হাতটির নাম মুখে আসার আগেই।"
+            "bn": "আয়াতটি এক নিঃশ্বাসে তিনটি কাজ করে। প্রথমে ডাক: প্রতিটি সম্প্রদায়কে ডাকা হবে তাদের ইমামসহ। তারপর ভাগ: যাকে তার আমলনামা ডান হাতে দেওয়া হবে। তারপর সেই দলকে নিয়ে এক প্রতিশ্রুতি: তারা নিজেদের আমলনামা পড়বে, আর তাদের ওপর সুতো পরিমাণও জুলুম করা হবে না। এর আগে সূরার অনেকটা অংশ অকৃতজ্ঞদের সতর্ক করেছে; এখানে আলো পড়েছে ডান হাতের লোকদের ওপর। তাদের ভাগে আনন্দ। আর এই লেখাও, আয়াতের মতোই, তাদের সঙ্গেই থাকে; আঁধার হাতের কথা ওঠার আগেই।"
           }
         ]
       },
@@ -1405,31 +1405,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators genuinely differ over what imam means, and the difference is old and unforced. Mujahid and Qatadah read it as their prophet: every nation summoned with the messenger sent to it. Ibn Kathir sets this beside another verse — for every nation there is a messenger, and when their messenger comes it is judged with justice (10:47). Some of the early scholars, he notes, saw in this a great honour for the people of hadith, since their imam on that Day would be the Prophet himself.",
-            "bn": "ইমাম শব্দের অর্থ নিয়ে তাফসীরকারদের মতভেদ সত্যিকারের, আর এই মতভেদ পুরনো ও স্বাভাবিক। মুজাহিদ ও কাতাদা পড়েন তাদের নবী: প্রতিটি জাতিকে ডাকা হবে তাদের কাছে পাঠানো রাসূলসহ। ইবন কাসীর একে আরেকটি আয়াতের পাশে রাখেন, প্রতিটি জাতির জন্য একজন রাসূল আছেন, আর তাদের রাসূল এলে ন্যায়বিচারে ফয়সালা করা হয় (১০:৪৭)। তিনি বলেন, পূর্বসূরিদের কেউ কেউ এতে হাদীসের অনুসারীদের জন্য বড় সম্মান দেখেছেন, কারণ সেদিন তাদের ইমাম হবেন স্বয়ং নবী ﷺ।"
+            "bn": "ইমাম শব্দের অর্থ নিয়ে তাফসীরকারদের মধ্যে সত্যিই মতভেদ আছে, আর এই মতভেদ পুরোনো ও স্বাভাবিক। মুজাহিদ ও কাতাদার মতে ইমাম মানে তাদের নবী: প্রতিটি জাতিকে ডাকা হবে তাদের কাছে পাঠানো রাসূলসহ। ইবন কাসীর এর পাশে আরেকটি আয়াত রাখেন: প্রতিটি জাতির জন্য আছেন একজন রাসূল; তাদের রাসূল যখন আসবেন, তখন তাদের মধ্যে ন্যায়ের সঙ্গে ফয়সালা করা হবে (১০:৪৭)। তিনি জানান, পূর্বসূরি আলিমদের কেউ কেউ এতে হাদিসের লোকদের জন্য বড় সম্মান দেখেছেন, কারণ সেদিন তাদের ইমাম হবেন স্বয়ং নবী ﷺ।"
           },
           {
             "en": "A second group read imam as the record of a person's own deeds. Ibn Abbas, al-Hasan, Abu al-Aliyah and ad-Dahhak took it this way, and Ibn Kathir judged this the strongest reading. He rests it on another verse, where God says He has counted everything in a clear register, imamin mubin (36:12), and on this verse's own next words: whoever is given his record. A book is called an imam, al-Qurtubi explains, because people turn back to it to settle a dispute, as they turn to a leader.",
-            "bn": "দ্বিতীয় একটি দল ইমাম বলতে বোঝেন নিজের আমলনামা। ইবন আব্বাস, হাসান, আবুল আলিয়া ও দাহহাক এভাবেই নিয়েছেন, আর ইবন কাসীর এই পাঠটিকেই সবচেয়ে শক্তিশালী মনে করেছেন। তিনি ভিত্তি রাখেন আরেকটি আয়াতের ওপর, যেখানে আল্লাহ বলেন তিনি সবকিছু গুনে রেখেছেন এক সুস্পষ্ট কিতাবে, ইমামিম মুবীন (৩৬:১২), আর এই আয়াতের পরের কথাতেই: যাকে তার আমলনামা দেওয়া হয়। কিতাবকে ইমাম বলা হয়, কুরতুবী ব্যাখ্যা করেন, কারণ বিবাদ মেটাতে মানুষ তার কাছে ফিরে যায়, যেমন ফিরে যায় নেতার কাছে।"
+            "bn": "আরেক দলের মতে ইমাম মানে মানুষের নিজের আমলনামা। ইবন আব্বাস, হাসান, আবুল আলিয়া ও দাহহাক এ অর্থই নিয়েছেন, আর ইবন কাসীর এটিকেই সবচেয়ে শক্ত মত বলেছেন। এর দলিল হিসেবে তিনি আনেন আরেকটি আয়াত, যেখানে আল্লাহ বলেন, তিনি সবকিছু গুনে রেখেছেন এক সুস্পষ্ট কিতাবে, ইমামিম মুবীন (৩৬:১২)। আর আনেন এই আয়াতেরই পরের কথা: যাকে তার আমলনামা দেওয়া হবে। কুরতুবী ব্যাখ্যা করেন, কিতাবকে ইমাম বলা হয়, কারণ বিবাদ মেটাতে মানুষ তার কাছে ফিরে যায়, যেমন ফিরে যায় নেতার কাছে।"
           },
           {
             "en": "Two further readings survive. Ibn Zayd took imam as the scripture revealed to each people: the people of the Torah called by the Torah, the people of the Qur'an by the Qur'an, each asked whether they kept its commands. Ali reportedly read it as the leader of their own age, and al-Baghawi records from Ibn Abbas the same: the imam who summoned them in the world, whether to guidance or astray — God speaks of leaders who guide by His command (21:73) and of leaders who call to the Fire (28:41).",
-            "bn": "আরও দুটি পাঠ টিকে আছে। ইবন যায়দ ইমাম বলতে নিয়েছেন প্রতিটি জাতির ওপর নাযিলকৃত কিতাব: তাওরাতের অনুসারীদের ডাকা হবে তাওরাতসহ, কুরআনের অনুসারীদের কুরআনসহ, প্রত্যেককে জিজ্ঞেস করা হবে তারা তার হুকুম মেনেছে কিনা। আলী (রাঃ) থেকে বর্ণিত, তিনি একে পড়েন নিজ যুগের নেতা হিসেবে, আর বাগাভী ইবন আব্বাস থেকে একই কথা আনেন: দুনিয়ায় যে ইমাম তাদের ডেকেছিল, হেদায়েতের দিকে হোক বা গোমরাহির দিকে। আল্লাহ এমন নেতাদের কথা বলেন যাঁরা তাঁর হুকুমে পথ দেখান (২১:৭৩), আবার এমন নেতাদের যারা আগুনের দিকে ডাকে (২৮:৪১)।"
+            "bn": "আরও দুটি মত টিকে আছে। ইবন যায়দের মতে ইমাম মানে প্রতিটি জাতির ওপর নাজিল হওয়া কিতাব: তাওরাতের লোকদের ডাকা হবে তাওরাত ধরে, কুরআনের লোকদের কুরআন ধরে, আর প্রত্যেককে জিজ্ঞেস করা হবে, তারা তার হুকুম মেনেছে কি না। আলী (রাঃ) থেকে বর্ণিত, তিনি একে বুঝেছেন নিজেদের যুগের নেতা হিসেবে। বাগাভীও ইবন আব্বাস থেকে একই কথা এনেছেন: দুনিয়ায় যে ইমাম তাদের ডাকত, হেদায়েতের দিকে হোক বা গোমরাহির দিকে। আল্লাহ এমন নেতাদের কথাও বলেছেন, যাঁরা তাঁর হুকুমে পথ দেখান (২১:৭৩), আবার এমন নেতাদের কথাও, যারা জাহান্নামের দিকে ডাকে (২৮:৪১)।"
           }
         ]
       },
       {
         "h": {
           "en": "Which Reading the Scholars Chose",
-          "bn": "আলিমরা কোন পাঠ বেছেছেন"
+          "bn": "আলিমরা কোন মত বেছে নিয়েছেন"
         },
         "p": [
           {
             "en": "Here two great commentators part ways, and the verse leaves room for both. At-Tabari weighs the readings and prefers the leader followed in the world, on a plain linguistic ground: in the speech of the Arabs, imam most commonly means whoever is imitated and followed, and that likeliest sense is the default unless proof forces another. Ibn Kathir, weighing the same evidence, prefers the record of deeds, held up by the clear register of 36:12 and by the verse's own turn to the record given in the right hand.",
-            "bn": "এখানে দুই মহান তাফসীরকার আলাদা পথে যান, আর আয়াত দুজনের জন্যই জায়গা রাখে। তাবারী পাঠগুলো ওজন করে বেছে নেন দুনিয়ায় অনুসৃত নেতাকে, সোজা ভাষাগত যুক্তিতে: আরবদের ভাষায় ইমাম বলতে সচরাচর বোঝায় যাকে অনুকরণ ও অনুসরণ করা হয়, আর প্রমাণ অন্য অর্থে বাধ্য না করলে সেই বেশি প্রচলিত অর্থই ধরা হয়। ইবন কাসীর একই প্রমাণ ওজন করে বেছে নেন আমলনামাকে, যার সমর্থনে দাঁড়ায় ৩৬:১২-এর সুস্পষ্ট কিতাব আর আয়াতের নিজেরই ডান হাতে দেওয়া আমলনামার দিকে মোড়।"
+            "bn": "এখানে দুই বড় তাফসীরকারের পথ আলাদা হয়ে যায়, আর আয়াতে দুজনের মতেরই জায়গা আছে। তাবারী সব মত যাচাই করে দুনিয়ায় অনুসৃত নেতার অর্থটিকেই অগ্রাধিকার দেন, আর তাঁর যুক্তি সোজা ভাষাগত: আরবদের কথায় ইমাম বলতে সাধারণত তাকেই বোঝায়, যাকে অনুকরণ ও অনুসরণ করা হয়। অন্য অর্থ নিতে বাধ্য করার মতো দলিল না থাকলে সবচেয়ে প্রচলিত অর্থটাই ধরতে হয়। ইবন কাসীর একই প্রমাণ যাচাই করে অগ্রাধিকার দেন আমলনামার অর্থকে। তাঁর পক্ষে আছে ৩৬:১২-এর সুস্পষ্ট কিতাব, আর আয়াতেরই পরের অংশে ডান হাতে দেওয়া আমলনামার কথা।"
           },
           {
             "en": "A further view deserves noting for how the tradition itself checks it. Muhammad ibn Ka'b read imam as a plural, meaning people would be summoned by their mothers. Al-Qurtubi records the three reasons some gave for it, then sets against it a report from al-Bukhari and Muslim: on the Day of Resurrection a banner is raised for every treacherous person, and it is said, this is the treachery of so-and-so, son of so-and-so. Being named by the father, he argues, tells against being called by the mother. The plainest sense stays with the imam a people followed.",
-            "bn": "আরেকটি মত উল্লেখের দাবি রাখে এ কারণে যে, ঐতিহ্য নিজেই তা যাচাই করে। মুহাম্মদ ইবন কা'ব ইমামকে বহুবচন ধরে পড়েন, অর্থাৎ মানুষকে ডাকা হবে তাদের মায়েদের নামে। কুরতুবী এর পক্ষে দেওয়া তিনটি কারণ উল্লেখ করেন, তারপর তার বিপরীতে রাখেন বুখারী ও মুসলিমের এক বর্ণনা: কিয়ামতের দিন প্রতিটি বিশ্বাসঘাতকের জন্য একটি ঝান্ডা তোলা হবে, আর বলা হবে, এ হলো অমুকের ছেলে অমুকের বিশ্বাসঘাতকতা। বাবার নামে ডাকা, তিনি যুক্তি দেন, মায়ের নামে ডাকার বিপক্ষেই যায়। সবচেয়ে স্পষ্ট অর্থ থেকে যায় সেই ইমামের সঙ্গে, যাকে কোনো সম্প্রদায় অনুসরণ করেছে।"
+            "bn": "আরেকটি মত উল্লেখ করার মতো, কারণ এতে দেখা যায় আমাদের আলিমরা নিজেরাই কীভাবে মত যাচাই করেছেন। মুহাম্মদ ইবন কা'ব 'ইমাম' শব্দটিকে বহুবচন ধরে পড়েছেন, অর্থাৎ মানুষকে ডাকা হবে তাদের মায়ের নামে। কুরতুবী এই মতের পক্ষে দেওয়া তিনটি কারণ উল্লেখ করেন, তারপর এর বিপরীতে রাখেন বুখারী ও মুসলিমের একটি বর্ণনা: কিয়ামতের দিন প্রত্যেক বিশ্বাসঘাতকের জন্য একটি পতাকা তোলা হবে, আর বলা হবে, এ হলো অমুকের ছেলে অমুকের বিশ্বাসঘাতকতা। তাঁর যুক্তি, বাবার নামে ডাকা হবে, এটাই মায়ের নামে ডাকার মতের বিপক্ষে যায়। তাই সবচেয়ে সহজ অর্থ সেটাই থাকে: যে ইমামকে কোনো সম্প্রদায় অনুসরণ করেছে।"
           }
         ]
       },
@@ -1441,15 +1441,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A narration ties the whole scene together, and at-Tirmidhi records it directly under this verse. On the authority of Abu Hurayrah, the Prophet, explaining the Day We call every people with their imam, said: one of them will be called and given his record in his right hand, his body stretched tall, his face turned white, and on his head a crown of pearls that gleams. At-Tirmidhi graded the report hasan gharib — sound but singular in its chain.",
-            "bn": "একটি বর্ণনা গোটা দৃশ্যটিকে এক সুতোয় বাঁধে, আর তিরমিযী তা সরাসরি এই আয়াতের অধীনেই উল্লেখ করেন। আবু হুরায়রা (রাঃ) থেকে বর্ণিত, নবী ﷺ 'যেদিন আমি প্রতিটি সম্প্রদায়কে তাদের ইমামসহ ডাকব' আয়াতের ব্যাখ্যায় বলেন: তাদের একজনকে ডাকা হবে আর তার আমলনামা ডান হাতে দেওয়া হবে, তার শরীর লম্বা করে দেওয়া হবে, মুখ সাদা করা হবে, আর মাথায় থাকবে ঝলমলে মুক্তার মুকুট। তিরমিযী বর্ণনাটিকে হাসান গারীব বলেছেন, সহীহ তবে সনদে একক।"
+            "bn": "একটি বর্ণনা গোটা দৃশ্যটিকে এক সুতোয় গেঁথে দেয়, আর তিরমিযী তা এনেছেন ঠিক এই আয়াতের ব্যাখ্যায়। আবু হুরায়রা (রাঃ) থেকে বর্ণিত, নবী ﷺ 'যেদিন আমি প্রতিটি সম্প্রদায়কে তাদের ইমামসহ ডাকব' আয়াতের ব্যাখ্যায় বলেছেন: তাদের একজনকে ডাকা হবে, তার ডান হাতে আমলনামা দেওয়া হবে, তার শরীর লম্বা করে দেওয়া হবে, চেহারা সাদা উজ্জ্বল করে দেওয়া হবে, আর মাথায় পরানো হবে ঝলমলে মুক্তার মুকুট। তিরমিযী বর্ণনাটিকে বলেছেন হাসান গারীব, অর্থাৎ গ্রহণযোগ্য, তবে এর সনদ একটিই।"
           },
           {
             "en": "Ibn Kathir cites the very same hadith through al-Hafiz al-Bazzar, by the same chain of al-Suddi, from his father, from Abu Hurayrah, and notes that al-Bazzar said it is related only through this single route. That candour matters: the report is not concealed behind a claim of mass transmission, and a lone chain is exactly what hasan gharib records. Both Ma'arif al-Qur'an and al-Qurtubi cite the Tirmidhi wording too, so the narration's tie to this verse rests on more than a single book.",
-            "bn": "ইবন কাসীর ঠিক একই হাদীস আনেন হাফিজ আল-বাযযারের সূত্রে, একই সনদে, সুদ্দী থেকে তাঁর বাবা থেকে আবু হুরায়রা (রাঃ) থেকে, আর উল্লেখ করেন যে আল-বাযযার বলেছেন এটি কেবল এই একটি সূত্রেই বর্ণিত। এই খোলামেলা স্বীকৃতি জরুরি: বর্ণনাটিকে ব্যাপক বর্ণনার দাবির আড়ালে লুকানো হয় না, আর একক সনদই তো হাসান গারীবের পরিচয়। মাআরিফুল কুরআন ও কুরতুবী দুজনেই তিরমিযীর শব্দ উদ্ধৃত করেন, তাই এই আয়াতের সঙ্গে বর্ণনাটির যোগ কেবল একটি বইয়ের ওপর দাঁড়িয়ে নেই।"
+            "bn": "ইবন কাসীর ঠিক এই হাদিসটিই এনেছেন হাফিজ আল-বাযযারের সূত্রে, একই সনদে: সুদ্দী থেকে, তিনি তাঁর বাবা থেকে, তিনি আবু হুরায়রা (রাঃ) থেকে। সঙ্গে জানিয়েছেন, আল-বাযযার বলেছেন এটি কেবল এই একটি সূত্রেই বর্ণিত। এই খোলাখুলি স্বীকারোক্তির দাম আছে। বর্ণনাটিকে বহু সূত্রে বর্ণিত বলে দাবি করে আড়াল করা হয়নি; আর একক সনদের কথাই তো 'হাসান গারীব' পরিভাষায় লেখা থাকে। মাআরিফুল কুরআন ও কুরতুবী দুজনেই তিরমিযীর শব্দ উদ্ধৃত করেছেন, তাই এই আয়াতের সঙ্গে বর্ণনাটির যোগ কেবল একটি বইয়ের ওপর দাঁড়িয়ে নেই।"
           },
           {
             "en": "Then, the hadith goes on, he walks to his companions, who see him from afar and pray, our Lord, bring him to us and bless us through him; and he reaches them and says, rejoice, for every one of you will have the like of this. The disbeliever, by contrast, is blackened of face and his companions recoil. The report keeps its warning, yet its centre of gravity is the joy of the man holding his own good news in his hand.",
-            "bn": "এরপর, বর্ণনা বলে চলে, সে তার সঙ্গীদের কাছে হেঁটে যায়, যারা দূর থেকে তাকে দেখে দোয়া করে, হে আমাদের রব, একে আমাদের কাছে আনুন আর তাকে দিয়ে আমাদের বরকত দিন; সে তাদের কাছে পৌঁছে বলে, আনন্দ করো, তোমাদের প্রত্যেকের জন্য এমনই একটি থাকবে। কাফির তার উল্টো, তার মুখ কালো করা হয় আর তার সঙ্গীরা শিউরে ওঠে। বর্ণনাটি তার সতর্কবাণী ধরে রাখে, তবু এর মূল ভার সেই মানুষের আনন্দে, যে নিজের সুসংবাদ নিজের হাতে ধরে আছে।"
+            "bn": "বর্ণনায় এরপর আছে, সে হেঁটে যায় তার সঙ্গীদের দিকে। তারা দূর থেকে তাকে দেখে দোয়া করে: হে আমাদের রব, একে আমাদের কাছে এনে দিন, আর তাকে দিয়ে আমাদের বরকত দিন। সে তাদের কাছে পৌঁছে বলে, খুশি হও, তোমাদের প্রত্যেকে এমনটাই পাবে। কাফিরের দশা ঠিক উল্টো: তার চেহারা কালো করে দেওয়া হয়, আর সঙ্গীরা তাকে দেখে পিছিয়ে যায়। বর্ণনাটিতে সতর্কবাণীও আছে, তবু এর মূল সুর সেই মানুষের আনন্দ, যার হাতে তার নিজের সুসংবাদ।"
           }
         ]
       },
@@ -1461,11 +1461,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Why does the verse say they read their record, rather than that they receive it? Ibn Kathir answers from the heart of it: out of their gladness and delight at the good deeds recorded there, they read it and love to read it. As-Sa'di draws the two halves of the verse together — this is the person who followed his guiding imam and was steered by his book, so his good deeds grew many and his failings few. The right hand is not an accident of that Day; it is the harvest of a life spent behind a true guide.",
-            "bn": "আয়াত কেন বলে তারা তাদের আমলনামা পড়বে, না বলে শুধু গ্রহণ করবে? ইবন কাসীর জবাব দেন একেবারে ভেতর থেকে: সেখানে লেখা ভালো কাজ দেখে আনন্দ ও খুশিতে তারা তা পড়ে, আর পড়তেই ভালোবাসে। সা'দী আয়াতের দুই অংশকে এক করে দেখান, এ সেই মানুষ যে তার পথপ্রদর্শক ইমামকে অনুসরণ করেছে আর তার কিতাবে পরিচালিত হয়েছে, ফলে তার নেকি বেড়েছে আর গুনাহ কমেছে। ডান হাত সেদিনের কোনো আকস্মিক ঘটনা নয়, তা সত্য পথপ্রদর্শকের পেছনে কাটানো এক জীবনের ফসল।"
+            "bn": "আয়াত কেন বলছে তারা আমলনামা পড়বে, শুধু হাতে পাবে বলছে না? ইবন কাসীর এর জবাব দেন একেবারে মনের কথা থেকে: সেখানে লেখা নেক আমল দেখে তারা এত খুশি হয় যে পড়ে, আর পড়তে ভালোবাসে। সা'দী আয়াতের দুই অংশকে মিলিয়ে দেন। এ সেই মানুষ, যে তার হেদায়েতের ইমামকে অনুসরণ করেছে আর তার কিতাব মেনে চলেছে; তাই তার নেকি বেড়েছে, আর ভুলত্রুটি কমেছে। সেদিন ডান হাত কোনো কাকতালীয় ব্যাপার নয়; সত্য পথপ্রদর্শকের পেছনে কাটানো এক জীবনের ফসল।"
           },
           {
             "en": "Ma'arif al-Qur'an notes that the happy believer does not read in silence — he calls others to read it too, the way a man shares a letter that clears his name. His joy, it adds, is the joy of faith kept intact and of rescue from lasting punishment, even if some deeds still await their account. The same delight rings in another passage, where the man given his record in the right hand cries out, here, read my record (69:19). On this Day, the good is not hidden away; it is announced. The believer's shame, if any remained, is covered; only the good is read out.",
-            "bn": "মাআরিফুল কুরআন লক্ষ করে, খুশি মুমিন চুপচাপ পড়ে না, সে অন্যদেরও ডেকে পড়তে বলে, যেমন কেউ নিজের নাম পরিষ্কার করে দেওয়া চিঠি সবাইকে দেখায়। তার এই আনন্দ, বলে সে, ঈমান অটুট থাকার আর স্থায়ী শাস্তি থেকে রক্ষা পাওয়ার আনন্দ, যদিও কিছু আমলের হিসাব হয়তো তখনো বাকি। একই খুশি বাজে আরেকটি আয়াতেও, যেখানে ডান হাতে আমলনামা পাওয়া মানুষ চিৎকার করে বলে, এই নাও, আমার আমলনামা পড়ো (৬৯:১৯)। এই দিনে ভালোকে লুকিয়ে রাখা হয় না, ঘোষণা করা হয়। মুমিনের লজ্জা, যদি কিছু বাকিও থাকে, ঢেকে দেওয়া হয়; কেবল ভালোটুকুই সরবে পড়া হয়।"
+            "bn": "মাআরিফুল কুরআন লক্ষ করে, খুশি মুমিন চুপচাপ পড়ে না। সে অন্যদেরও ডেকে পড়তে বলে, যেমন কেউ নিজেকে নির্দোষ প্রমাণ করা চিঠি সবাইকে দেখায়। বইটি আরও বলে, তার আনন্দ ঈমান অটুট থাকার আনন্দ, স্থায়ী শাস্তি থেকে বেঁচে যাওয়ার আনন্দ, যদিও কিছু আমলের হিসাব হয়তো তখনো বাকি। একই খুশি বাজে আরেক আয়াতে, যেখানে ডান হাতে আমলনামা পাওয়া মানুষটি চিৎকার করে বলে: এই নাও, আমার আমলনামা পড়ে দেখো (৬৯:১৯)। সেদিন ভালোকে লুকিয়ে রাখা হয় না, ঘোষণা করা হয়। মুমিনের লজ্জার কিছু থেকে থাকলেও তা ঢেকে দেওয়া হয়; সবার সামনে পড়া হয় শুধু ভালোটুকু।"
           }
         ]
       },
@@ -1477,11 +1477,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends with a startlingly small measure: they are not wronged by so much as a fatil. At-Tabari, al-Qurtubi and Ibn Kathir all give the same picture — the fatil is the fine, twisted thread that lies in the long groove on the face of a date-stone. Split a date-pit and look: that hair-thin fibre is the byword the Arabs reached for when they meant the most negligible thing imaginable. Not even that much of anyone's due, the verse says, will be shaved off. The image is deliberately homely, a thing you could pinch between your fingers, so that the scale of God's precision is unmistakable.",
-            "bn": "আয়াত শেষ হয় বিস্ময়করভাবে ছোট এক মাপ দিয়ে: তাদের ওপর সুতো পরিমাণও যুলম করা হবে না। তাবারী, কুরতুবী ও ইবন কাসীর সবাই একই ছবি আঁকেন, ফাতীল হলো খেজুরের আঁটির উপরিভাগের লম্বা ফাটলে পড়ে থাকা সরু, পাকানো সুতোটি। একটা খেজুরের আঁটি চিরে দেখুন: সেই চুল-পরিমাণ আঁশটাই ছিল আরবদের সবচেয়ে তুচ্ছ জিনিস বোঝানোর প্রবাদ। কারও প্রাপ্য থেকে ততটুকুও কেটে নেওয়া হবে না, বলে আয়াত। ছবিটা ইচ্ছে করেই ঘরোয়া, আঙুলে চিমটে ধরার মতো এক জিনিস, যাতে আল্লাহর নিখুঁত হিসাবের মাপটা ভুল বোঝার উপায় না থাকে।"
+            "bn": "আয়াত শেষ হয় অবাক করার মতো ছোট এক মাপ দিয়ে: তাদের ওপর সুতো পরিমাণও জুলুম করা হবে না। তাবারী, কুরতুবী ও ইবন কাসীর সবাই একই ছবি দেন: খেজুরের আঁটির গায়ে যে লম্বা খাঁজ, তার ভেতরে পড়ে থাকা সরু, পাকানো সুতোটাই ফাতীল। একটা খেজুরের আঁটি চিরে দেখুন। চুলের মতো সরু ওই আঁশটাই ছিল আরবদের প্রবাদ; সবচেয়ে তুচ্ছ জিনিস বোঝাতে তারা এর কথাই বলত। আয়াত বলছে, কারও প্রাপ্য থেকে ততটুকুও কেটে নেওয়া হবে না। ছবিটা ইচ্ছে করেই ঘরোয়া, দুই আঙুলে চিমটি দিয়ে ধরা যায় এমন জিনিস, যাতে আল্লাহর হিসাব কতটা নিখুঁত, তা নিয়ে কোনো সংশয় না থাকে।"
           },
           {
             "en": "For the people of the right hand, this measure works in a single direction. As-Sa'di is precise: they are not wronged of a fatil of the good they did. Al-Baghawi and al-Muyassar say the same — not the smallest fraction of their reward will be diminished. Justice here does not mean a cold ledger balanced to the last entry; it means that every hidden kindness, every unseen struggle, every prayer nobody witnessed is weighed and paid in full. Nothing good is lost in God's keeping. That is why the reading is joy and not dread.",
-            "bn": "ডান হাতের লোকদের জন্য এই মাপ কাজ করে একদিকেই। সা'দী নিখুঁতভাবে বলেন: তারা যে ভালো কাজ করেছে, তার সুতো পরিমাণও তাদের থেকে কমানো হবে না। বাগাভী ও মুয়াসসার একই কথা বলেন, তাদের প্রতিদানের ক্ষুদ্রতম অংশটুকুও কমবে না। এখানে ন্যায়বিচার মানে শেষ হিসাব পর্যন্ত মেলানো কোনো নিরস খাতা নয়। এর মানে, প্রতিটি গোপন দয়া, প্রতিটি অদেখা সংগ্রাম, কেউ দেখেনি এমন প্রতিটি নামাজ ওজন করা হয় আর পুরোপুরি শোধ করা হয়। আল্লাহর হেফাজতে ভালো কিছুই হারায় না। তাই পড়াটা আনন্দের, ভয়ের নয়।"
+            "bn": "ডান হাতের লোকদের বেলায় এই মাপ কাজ করে এক দিকেই। সা'দী কথাটা স্পষ্ট করে দেন: তারা যে ভালো কাজ করেছে, তার সুতো পরিমাণও তাদের থেকে কমানো হবে না। বাগাভী ও মুয়াসসারও একই কথা বলেন: তাদের প্রতিদানের সামান্যতম অংশও কমবে না। এখানে ন্যায়বিচার মানে শেষ অঙ্ক পর্যন্ত মেলানো কোনো নীরস হিসাবের খাতা নয়। এর মানে, প্রতিটি গোপন দয়া, প্রতিটি অদেখা সংগ্রাম, কেউ দেখেনি এমন প্রতিটি নামাজ ওজন করা হবে, আর তার পুরো প্রতিদান দেওয়া হবে। আল্লাহর কাছে রাখা কোনো ভালো কাজ হারিয়ে যায় না। তাই আমলনামা পড়া সেদিন আনন্দের, ভয়ের নয়।"
           }
         ]
       },
@@ -1493,27 +1493,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It is worth noticing what this verse does not say. It names only the people of the right hand and stops there; the left hand is left for other passages to describe. Ma'arif al-Qur'an points out that, across the Qur'an, it is the disbelievers who receive their record in the left hand, while those who take it in the right are the people of faith, whether steady or stumbling. Ibn Kathir sets our verse beside a fuller scene where both hands appear side by side (69:19), but here the verse deliberately keeps its light on the joyful hand.",
-            "bn": "খেয়াল করার মতো এটাও যে, এ আয়াত কী বলে না। এটি শুধু ডান হাতের লোকদের নাম নেয় আর সেখানেই থামে; বাঁ হাতের বর্ণনা অন্য আয়াতগুলোর জন্য রেখে দেয়। মাআরিফুল কুরআন দেখিয়ে দেয়, গোটা কুরআনজুড়ে বাঁ হাতে আমলনামা পায় কাফিররা, আর যারা ডান হাতে পায় তারা ঈমানদার, স্থির হোক বা পদস্খলিত। ইবন কাসীর আমাদের আয়াতটিকে রাখেন এমন এক পূর্ণাঙ্গ দৃশ্যের পাশে যেখানে দুই হাত পাশাপাশি আসে (৬৯:১৯), তবে এখানে আয়াত ইচ্ছে করেই তার আলো রাখে আনন্দের হাতটির ওপর।"
+            "bn": "এ আয়াত কী বলে না, সেটাও খেয়াল করার মতো। এটি শুধু ডান হাতের লোকদের কথা বলে, আর সেখানেই থামে; বাঁ হাতের বর্ণনা রেখে দেয় অন্য আয়াতের জন্য। মাআরিফুল কুরআন দেখিয়ে দেয়, গোটা কুরআনে বাঁ হাতে আমলনামা পায় কাফিররা, আর ডান হাতে পায় ঈমানদাররা, তারা অবিচল থাকুক বা মাঝে মাঝে হোঁচট খাক। ইবন কাসীর আমাদের আয়াতটিকে রাখেন আরেকটি পূর্ণ দৃশ্যের পাশে, যেখানে দুই হাতের কথাই পাশাপাশি এসেছে (৬৯:১৯)। তবে এখানে আয়াত ইচ্ছে করেই তার আলো ধরে রাখে আনন্দের হাতটির ওপর।"
           },
           {
             "en": "This restraint carries a caution. The verse assigns no living person to either hand, and neither may we. It does not hand us a test for sorting our neighbours into the saved and the doomed; the disbeliever it warns of is a matter left to God, who alone reads the heart. What the verse does is turn the listener's eye inward — not to rank others, but to ask which hand his own life is reaching toward. The summons is public, but the reckoning it points to is deeply personal.",
-            "bn": "এই সংযমের সঙ্গে আসে একটা সতর্কতা। আয়াত কোনো জীবিত মানুষকে কোনো হাতে বসায় না, আমাদেরও তা করার অধিকার নেই। এটি প্রতিবেশীদের নাজাতপ্রাপ্ত আর ধ্বংসপ্রাপ্তে ভাগ করার কোনো মাপকাঠি হাতে ধরিয়ে দেয় না; যে কাফিরের কথা এটি সতর্ক করে, তার ফয়সালা আল্লাহর হাতে, যিনি একাই অন্তর পড়েন। আয়াত যা করে তা হলো শ্রোতার চোখ ভেতরের দিকে ফেরানো, অন্যকে বিচার করতে নয়, বরং জিজ্ঞেস করতে যে তার নিজের জীবন কোন হাতের দিকে হাত বাড়াচ্ছে। ডাকটা সর্বসমক্ষে, কিন্তু সেটি যে হিসাবের দিকে ইশারা করে তা গভীরভাবে ব্যক্তিগত।"
+            "bn": "এই সংযমের মধ্যে একটা সতর্কতাও আছে। আয়াত কোনো জীবিত মানুষকে কোনো হাতে বসায় না, আমরাও বসাতে পারি না। প্রতিবেশীদের নাজাতপ্রাপ্ত আর ধ্বংসপ্রাপ্ত দুই দলে ভাগ করার কোনো মাপকাঠি আয়াত আমাদের হাতে দেয় না। যে কাফিরের ব্যাপারে আয়াত সতর্ক করে, তার ফয়সালা আল্লাহর হাতে; অন্তরের খবর একমাত্র তিনিই জানেন। আয়াত বরং শ্রোতার চোখ ফিরিয়ে দেয় তার নিজের দিকে। অন্যদের বিচার করতে নয়, নিজেকে জিজ্ঞেস করতে: আমার জীবন কোন হাতের দিকে এগোচ্ছে? ডাকটা হবে সবার সামনে, কিন্তু যে হিসাবের দিকে তা ইঙ্গিত করে, তা একান্তই ব্যক্তিগত।"
           }
         ]
       },
       {
         "h": {
           "en": "Choosing Your Imam Now",
-          "bn": "এখনই নিজের ইমাম বাছা"
+          "bn": "এখনই নিজের ইমাম বেছে নিন"
         },
         "p": [
           {
             "en": "If the summons on that Day is by the imam a people followed, then the most practical question the verse asks is present-tense: whom am I following now? As-Sa'di's link makes it plain — the hand that receives the record is set by the guide the life was spent behind. A person is always following something: a teacher, a crowd, an appetite, a book. The verse quietly asks whether that leader is bound for the right hand or away from it, and it asks while there is still time to change guides.",
-            "bn": "সেদিনের ডাক যদি হয় সেই ইমাম ধরে, যাকে কোনো সম্প্রদায় অনুসরণ করেছে, তাহলে আয়াত যে সবচেয়ে বাস্তব প্রশ্নটা তোলে তা বর্তমান কালেই: আমি এখন কাকে অনুসরণ করছি? সা'দীর টানা যোগসূত্রটা কথাটা স্পষ্ট করে দেয়, আমলনামা কোন হাতে আসবে তা ঠিক করে দেয় সেই পথপ্রদর্শক, যার পেছনে জীবনটা কেটেছে। মানুষ সবসময়ই কিছু-না-কিছু অনুসরণ করছে: কোনো শিক্ষক, কোনো দল, কোনো খায়েশ, কোনো বই। আয়াত চুপচাপ জিজ্ঞেস করে, সেই নেতা কি ডান হাতের দিকে চলেছে নাকি তা থেকে দূরে, আর জিজ্ঞেস করে এমন সময়ে যখন গাইড বদলানোর সময় এখনো আছে।"
+            "bn": "সেদিনের ডাক যদি হয় সেই ইমামের নামে, যাকে কোনো সম্প্রদায় অনুসরণ করেছে, তাহলে আয়াতের সবচেয়ে কাজের প্রশ্নটা আজকের: আমি এখন কাকে অনুসরণ করছি? সা'দীর ব্যাখ্যা কথাটা পরিষ্কার করে দেয়: আমলনামা কোন হাতে আসবে, তা ঠিক হয় সেই পথপ্রদর্শক দিয়ে, যার পেছনে জীবন কেটেছে। মানুষ সবসময় কিছু-না-কিছুর পেছনে চলে: কোনো শিক্ষক, লোকের ভিড়, কোনো খায়েশ, কোনো বই। আয়াত চুপচাপ জিজ্ঞেস করে, সেই নেতা কি ডান হাতের দিকে যাচ্ছে, নাকি তার উল্টো দিকে। আর প্রশ্নটা করে এমন সময়ে, যখন পথপ্রদর্শক বদলানোর সময় এখনো হাতে আছে।"
           },
           {
             "en": "The second half of the answer is being written now, line by line. The record read in joy on that Day is the same record my hands are filling today, in deeds seen and unseen. Nothing true will be left out of it, and nothing good will be shaved away — which is a mercy if the page is worth reading, and a warning if it is not. So the verse turns tomorrow's joy into today's work: follow a guide who leads to the right hand, and write, this week, a line you would be glad to read aloud on the Day you are called.",
-            "bn": "জবাবের দ্বিতীয় অংশটা এখনই লেখা হচ্ছে, লাইনে লাইনে। সেদিন আনন্দে যে আমলনামা পড়া হবে, তা তো সেই একই আমলনামা যা আজ আমার হাত ভরে তুলছে, দেখা আর অদেখা আমলে। এর থেকে সত্য কিছুই বাদ যাবে না, ভালো কিছুই কেটে ফেলা হবে না। পাতাটা পড়ার যোগ্য হলে এ এক রহমত, না হলে এক সতর্কবাণী। তাই আয়াত আগামীকালের আনন্দকে আজকের কাজে বদলে দেয়: এমন গাইডকে অনুসরণ করুন যে ডান হাতের দিকে নিয়ে যায়, আর এ সপ্তাহেই এমন একটি লাইন লিখুন যা ডাক পড়ার দিনে সরবে পড়তে আপনি খুশি হবেন।"
+            "bn": "জবাবের দ্বিতীয় অংশটা লেখা হচ্ছে এখনই, লাইনের পর লাইন। সেদিন আনন্দে যে আমলনামা পড়া হবে, সেটা তো এই আমলনামাই, যা আজ আমার হাত দুটো ভরে তুলছে দেখা-অদেখা আমলে। সত্য কিছুই এখান থেকে বাদ যাবে না, ভালো কিছুই কেটে নেওয়া হবে না। পাতাটা পড়ার মতো হলে এ এক রহমত, না হলে এক সতর্কবাণী। তাই আয়াত আগামীকালের আনন্দকে আজকের কাজে পরিণত করে: এমন পথপ্রদর্শকের পেছনে চলুন, যিনি ডান হাতের দিকে নিয়ে যান। আর এই সপ্তাহেই এমন একটা লাইন লিখুন, ডাক পড়ার দিনে যা সবাইকে পড়ে শোনাতে আপনার ভালো লাগবে।"
           }
         ]
       }
@@ -1524,48 +1524,48 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Prayer Across the Turning Day",
-          "bn": "দিনের পালাবদল জুড়ে নামায"
+          "bn": "দিনের প্রতিটি বাঁকে নামাজ"
         },
         "p": [
           {
             "en": "The command is compressed and complete: establish prayer li-duluki ash-shams, from the declining of the sun, ila ghasaqi al-layl, to the darkness of night, and the qur'an of dawn. Duluk, most commentators hold, is the sun's slipping from its zenith — the moment Zuhr enters. From there to the night's darkness the times of Zuhr, Asr, Maghrib and Isha unfold, and the dawn recitation names Fajr. Ibn Kathir and others note that this single verse thus gathers the five daily prayers.",
-            "bn": "নির্দেশটি সংক্ষিপ্ত অথচ পূর্ণাঙ্গ: নামায কায়েম করো 'লিদুলূকিশ শামস' — সূর্য ঢলে পড়া থেকে — 'ইলা গাসাকিল লাইল' — রাতের অন্ধকার পর্যন্ত, আর ফজরের কুরআন। অধিকাংশ মুফাসসিরের মতে দুলূক হলো সূর্যের মধ্যগগন থেকে হেলে পড়া — যে মুহূর্তে যোহর ঢোকে। সেখান থেকে রাতের অন্ধকার পর্যন্ত খুলে যায় যোহর, আসর, মাগরিব ও ইশার সময়, আর ভোরের তিলাওয়াত নাম ধরে ডাকে ফজরকে। ইবনে কাসীরসহ অন্যরা লক্ষ করেন, এই একটি আয়াতই এভাবে দৈনিক পাঁচ ওয়াক্ত নামাযকে একত্র করে।"
+            "bn": "নির্দেশটি ছোট, অথচ সম্পূর্ণ: নামাজ কায়েম করো 'লিদুলূকিশ শামস', সূর্য হেলে পড়ার সময় থেকে, 'ইলা গাসাকিল লাইল', রাতের অন্ধকার পর্যন্ত; আর ফজরের কুরআন। অধিকাংশ মুফাসসিরের মতে দুলূক মানে মাঝ আকাশ থেকে সূর্যের হেলে পড়া, যখন যোহরের ওয়াক্ত শুরু হয়। সেখান থেকে রাতের অন্ধকার পর্যন্ত একে একে আসে যোহর, আসর, মাগরিব ও ইশার ওয়াক্ত, আর ভোরের তিলাওয়াত বলতে ফজর। ইবনে কাসীরসহ অনেকে বলেন, এভাবে এই একটি আয়াতেই দিনের পাঁচ ওয়াক্ত নামাজ একসঙ্গে এসে গেছে।"
           },
           {
             "en": "The choice of markers deserves reflection. Prayer is fastened not to clock numbers but to the turning of the sky — the sun's decline, the thickening dark, the first light. A worshipper who keeps the five prayers is thereby kept in continuous conversation with creation's rhythm, met at each turning of the day by a standing before its Maker. The day does not interrupt the prayers; in this verse's picture, prayers are the joints on which the day turns.",
-            "bn": "চিহ্নগুলোর নির্বাচনও ভাবনার দাবি রাখে। নামায বাঁধা হয়েছে ঘড়ির সংখ্যায় নয়, আকাশের পালাবদলে — সূর্যের ঢলে পড়া, ঘন হয়ে আসা অন্ধকার, প্রথম আলো। যে ইবাদতকারী পাঁচ ওয়াক্ত ধরে রাখে, সে এভাবেই সৃষ্টির ছন্দের সঙ্গে অবিরাম সংলাপে থাকে — দিনের প্রতিটি বাঁকে তার স্রষ্টার সামনে এক দাঁড়ানো তাকে অভ্যর্থনা জানায়। দিন নামাযে ব্যাঘাত ঘটায় না; এই আয়াতের ছবিতে নামাযই সেই কব্জা, যার ওপর দিন ঘোরে।"
+            "bn": "ওয়াক্তের চিহ্নগুলো কীভাবে বাছা হয়েছে, সেটাও ভেবে দেখার মতো। নামাজকে বাঁধা হয়েছে ঘড়ির কাঁটায় নয়, আকাশের পালাবদলে: সূর্যের হেলে পড়া, ঘন হয়ে আসা অন্ধকার, ভোরের প্রথম আলো। যে বান্দা পাঁচ ওয়াক্ত নামাজ ধরে রাখে, সে এভাবে সৃষ্টির ছন্দের সঙ্গে সারাক্ষণ যুক্ত থাকে। দিনের প্রতিটি বাঁকে তার জন্য অপেক্ষা করে স্রষ্টার সামনে দাঁড়ানোর একটি মুহূর্ত। দিন নামাজে বাধা হয়ে আসে না; এই আয়াতের ছবিতে নামাজই সেই কবজা, যার ওপর দিন ঘোরে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Witnessed Recitation",
-          "bn": "সাক্ষ্যপ্রাপ্ত তিলাওয়াত"
+          "bn": "সাক্ষীদের সামনে তিলাওয়াত"
         },
         "p": [
           {
             "en": "One prayer is singled out and given a reason: indeed the qur'an of dawn is witnessed — mashhudan. Fajr is called a recitation because lengthened recitation is its heart. As for the witnessing, al-Bukhari narrates from Abu Hurayrah (RA) that the Prophet ﷺ said the angels of the night and the angels of the day succeed one another, and they meet together at the Fajr prayer and the Asr prayer; the commentators read the verse's mashhudan in the light of that meeting.",
-            "bn": "একটি নামাযকে আলাদা করে কারণসহ উল্লেখ করা হয়েছে: নিশ্চয় ফজরের কুরআন 'মাশহূদ' — সাক্ষ্যপ্রাপ্ত। ফজরকে তিলাওয়াত নামে ডাকা হয়েছে, কারণ দীর্ঘ তিলাওয়াতই এর প্রাণ। আর সাক্ষ্যের ব্যাপারে, বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন — রাতের ফেরেশতা ও দিনের ফেরেশতারা পালাক্রমে আসা-যাওয়া করেন এবং তাঁরা একত্র হন ফজরের নামায ও আসরের নামাযে; মুফাসসিরগণ আয়াতের 'মাশহূদ' শব্দটি সেই সম্মিলনের আলোয় পড়েন।"
+            "bn": "আয়াত একটি নামাজকে আলাদা করে তুলে ধরে, আর কারণও বলে দেয়: নিশ্চয় ফজরের কুরআন 'মাশহূদ', অর্থাৎ তাতে সাক্ষীরা হাজির থাকে। আয়াত ফজরকে 'কুরআন' বা তিলাওয়াত নামে ডেকেছে, কারণ লম্বা তিলাওয়াতই এ নামাজের প্রাণ। আর সাক্ষীদের ব্যাপারে বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: রাতের ফেরেশতা আর দিনের ফেরেশতারা পালা করে আসেন, আর তাঁরা একসঙ্গে মিলিত হন ফজর ও আসরের নামাজে। মুফাসসিরগণ আয়াতের 'মাশহূদ' শব্দটি এই মিলনের আলোতেই বোঝেন।"
           },
           {
             "en": "So the prayer that costs the most attendance has the most attendance. At the hour when rising is hardest and no human observer would know the difference, two shifts of angels are present for the recitation. The verse quietly reverses our accounting: the moments that feel most unseen are the most witnessed. Whoever internalises that will guard Fajr differently, and will want its recitation to be worth the audience it draws.",
-            "bn": "অর্থাৎ যে নামাযে হাজির হওয়া সবচেয়ে কঠিন, সেখানেই উপস্থিতি সবচেয়ে বেশি। যে প্রহরে ওঠা কঠিনতম এবং কোনো মানুষ-দর্শক পার্থক্যটা জানতেও পারত না, সেই প্রহরে তিলাওয়াতের জন্য উপস্থিত থাকেন ফেরেশতাদের দুই পালা। আয়াতটি নীরবে আমাদের হিসাব উল্টে দেয়: যে মুহূর্তগুলো সবচেয়ে অদেখা মনে হয়, সেগুলোই সবচেয়ে বেশি সাক্ষ্যপ্রাপ্ত। যে এটি অন্তরে গেঁথে নেয়, সে ফজরকে অন্যভাবে হেফাজত করবে, আর চাইবে তার তিলাওয়াত যেন এই শ্রোতৃমণ্ডলীর যোগ্য হয়।"
+            "bn": "অর্থাৎ যে নামাজে হাজির হতে সবচেয়ে কষ্ট, সেখানেই হাজিরা সবচেয়ে বেশি। যে প্রহরে বিছানা ছেড়ে ওঠা সবচেয়ে কঠিন, আর কোনো মানুষ টেরও পেত না আপনি উঠলেন কি না, ঠিক তখনই তিলাওয়াত শুনতে হাজির থাকেন দুই পালার ফেরেশতা। আয়াত চুপচাপ আমাদের হিসাব উল্টে দেয়: যে মুহূর্তগুলোকে সবচেয়ে অদেখা মনে হয়, সেগুলোরই সাক্ষী সবচেয়ে বেশি। কথাটা যে মনে গেঁথে নেবে, সে ফজরকে অন্যভাবে আগলে রাখবে, আর চাইবে তার তিলাওয়াত যেন এত বড় শ্রোতাদের সামনে পড়ার যোগ্য হয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Tahajjud, an Extra for You",
-          "bn": "তাহাজ্জুদ — তোমার জন্য অতিরিক্ত"
+          "bn": "তাহাজ্জুদ: 'তোমার জন্য অতিরিক্ত'"
         },
         "p": [
           {
             "en": "Then the address narrows to the Prophet ﷺ alone: and in part of the night, pray tahajjud with it, nafilatan laka — as something additional for you. The commentators pause on that phrase. For the Prophet ﷺ the night prayer carried a special status beyond the five prescribed prayers, while for his community it remains voluntary — and immensely honoured. Muslim narrates from Abu Hurayrah (RA) that the Prophet ﷺ said the best prayer after the obligatory ones is prayer in the night.",
-            "bn": "এরপর সম্বোধন সংকুচিত হয়ে আসে কেবল নবী ﷺ-এর দিকে: আর রাতের একাংশে এর সঙ্গে তাহাজ্জুদ পড়ো — 'নাফিলাতান লাকা' — তোমার জন্য অতিরিক্ত কিছু হিসেবে। মুফাসসিরগণ এই বাক্যাংশে থামেন। নবী ﷺ-এর জন্য রাতের নামায নির্ধারিত পাঁচ ওয়াক্তের অতিরিক্ত এক বিশেষ মর্যাদা বহন করত, আর তাঁর উম্মতের জন্য তা রয়ে গেছে ঐচ্ছিক — এবং অপরিসীম সম্মানিত। মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন — ফরয নামাযের পরে শ্রেষ্ঠ নামায হলো রাতের নামায।"
+            "bn": "এরপর কথা আসে শুধু নবী ﷺ-কে লক্ষ্য করে: আর রাতের কিছু অংশে এর সঙ্গে তাহাজ্জুদ পড়ো, 'নাফিলাতান লাকা', তোমার জন্য অতিরিক্ত হিসেবে। মুফাসসিরগণ এই কথাটায় এসে থামেন। নবী ﷺ-এর জন্য রাতের নামাজের ছিল এক বিশেষ মর্যাদা, নির্ধারিত পাঁচ ওয়াক্তের বাইরে। তাঁর উম্মতের জন্য তা নফল, তবে অনেক বড় সম্মানের। মুসলিম আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: ফরজ নামাজের পরে সবচেয়ে উত্তম নামাজ হলো রাতের নামাজ।"
           },
           {
             "en": "The word tahajjud itself implies leaving sleep for prayer, and the verse's structure keeps the order honest: the five prayers are commanded first, the night prayer is built upon them. The extra never substitutes for the foundation. But the extra is where love shows, because no one will ask where you were. What the five prayers establish, tahajjud raises — which is exactly the language the verse turns to next.",
-            "bn": "তাহাজ্জুদ শব্দটি নিজেই বোঝায় নামাযের জন্য ঘুম ছেড়ে ওঠা, আর আয়াতের গঠন ক্রমটিকে সৎ রাখে: আগে পাঁচ ওয়াক্তের নির্দেশ, তার ওপর রাতের নামাযের ভিত্তি। অতিরিক্তটি কখনো ভিত্তির বিকল্প নয়। কিন্তু অতিরিক্তটিই সেই জায়গা যেখানে ভালোবাসা প্রকাশ পায়, কারণ কেউ জিজ্ঞেস করবে না আপনি কোথায় ছিলেন। পাঁচ ওয়াক্ত যা প্রতিষ্ঠা করে, তাহাজ্জুদ তাকে ওপরে তোলে — আর ঠিক এই ভাষাতেই আয়াতটি এরপর মোড় নেয়।"
+            "bn": "তাহাজ্জুদ শব্দটির ভেতরেই আছে নামাজের জন্য ঘুম ছেড়ে ওঠার অর্থ। আর আয়াতের গঠন ক্রমটা ঠিক রাখে: আগে পাঁচ ওয়াক্তের হুকুম, তার ওপর রাতের নামাজ। অতিরিক্তটা কখনো ভিতের বদলি হয় না। কিন্তু ভালোবাসা ধরা পড়ে এই অতিরিক্তটাতেই, কারণ আপনি কোথায় ছিলেন, এ নিয়ে কেউ জিজ্ঞেস করবে না। পাঁচ ওয়াক্ত যা দাঁড় করায়, তাহাজ্জুদ তাকে ওপরে তোলে। আর আয়াত এরপর ঠিক এই ওপরে তোলার ভাষাতেই কথা বলে।"
           }
         ]
       },
@@ -1577,23 +1577,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The passage ends with a hope that is really a promise: it may be that your Lord will raise you to maqaman mahmudan, a praised station. The commentators explain that 'perhaps' from Allah, in the usage of the Quran, conveys what He will certainly bring about. And the sound reports identify the station. Al-Bukhari narrates from Ibn Umar (RA) that on the Day of Resurrection the nations will surge and seek one to intercede, until the matter comes to the Prophet ﷺ — and that is the day Allah raises him to the praised station.",
-            "bn": "অংশটি শেষ হয় এমন এক আশায়, যা আসলে প্রতিশ্রুতি: আশা করা যায়, তোমার রব তোমাকে 'মাকামাম মাহমূদা' — এক প্রশংসিত মর্যাদায় — উন্নীত করবেন। মুফাসসিরগণ ব্যাখ্যা করেন, কুরআনের ব্যবহারে আল্লাহর পক্ষ থেকে 'আশা করা যায়' বোঝায় তা-ই, যা তিনি নিশ্চিতভাবে ঘটাবেন। আর সহীহ বর্ণনাগুলো মর্যাদাটির পরিচয় দেয়। বুখারী ইবনে উমর (রাঃ) থেকে বর্ণনা করেন, কিয়ামতের দিন জাতিগুলো উদ্বেলিত হয়ে একজন সুপারিশকারী খুঁজবে, শেষে বিষয়টি নবী ﷺ-এর কাছে পৌঁছাবে — আর সেই দিনই আল্লাহ তাঁকে প্রশংসিত মর্যাদায় উন্নীত করবেন।"
+            "bn": "অংশটি শেষ হয় এমন এক আশার কথায়, যা আসলে প্রতিশ্রুতি: আশা করা যায়, তোমার রব তোমাকে 'মাকামাম মাহমূদা'য়, এক প্রশংসিত মর্যাদায় পৌঁছে দেবেন। মুফাসসিরগণ বলেন, কুরআনের ভাষায় আল্লাহ যখন 'আশা করা যায়' বলেন, তখন তার মানে তিনি তা অবশ্যই ঘটাবেন। আর এই মর্যাদা কী, সহীহ বর্ণনাগুলো তা বলে দেয়। বুখারী ইবনে উমর (রাঃ) থেকে বর্ণনা করেন: কিয়ামতের দিন জাতিগুলো দলে দলে ছুটে বেড়াবে, একজন সুপারিশকারী খুঁজবে, শেষে বিষয়টি গিয়ে পৌঁছাবে নবী ﷺ-এর কাছে। সেদিনই আল্লাহ তাঁকে প্রশংসিত মর্যাদায় উন্নীত করবেন।"
           },
           {
             "en": "The station is called praised without limiting who does the praising, and the commentators read the openness as deliberate: it is a standing for which he ﷺ is praised when all creation is desperate for the judgment to begin and he is the one who steps forward. The detail beyond the sound reports is left alone. What the verse fixes is the link between the honour and the night: the highest station of that Day is announced to the one who left his bed in this one.",
-            "bn": "মর্যাদাটিকে প্রশংসিত বলা হয়েছে, কে প্রশংসা করবে তা সীমিত না করে, আর মুফাসসিরগণ এই উন্মুক্ততাকে ইচ্ছাকৃত হিসেবে পড়েন: এ সেই অবস্থান, যার জন্য তিনি ﷺ প্রশংসিত হবেন — যখন সমস্ত সৃষ্টি বিচার শুরুর জন্য ব্যাকুল, আর তিনিই এগিয়ে যাওয়ার জন। সহীহ বর্ণনার বাইরের খুঁটিনাটি ছেড়ে দেওয়াই রীতি। আয়াত যা পাকা করে তা হলো সম্মান ও রাতের সংযোগ: সেই দিনের সর্বোচ্চ মর্যাদার ঘোষণা এসেছে তাঁর কাছে, যিনি এই দুনিয়ার রাতে নিজের বিছানা ছেড়েছিলেন।"
+            "bn": "মর্যাদাটিকে বলা হয়েছে প্রশংসিত, কিন্তু কে প্রশংসা করবে তা বেঁধে দেওয়া হয়নি। মুফাসসিরগণ মনে করেন, এই খোলা রাখা ইচ্ছাকৃত। এ সেই অবস্থান, যেখানে তাঁর ﷺ প্রশংসা হবে, যখন গোটা সৃষ্টি বিচার শুরুর জন্য অস্থির হয়ে আছে আর তিনিই এগিয়ে আসেন। সহীহ বর্ণনার বাইরের খুঁটিনাটি এখানে আনা হয়নি। আয়াত যা পাকা করে দেয়, তা হলো সম্মান আর রাতের সংযোগ: সেদিনের সবচেয়ে উঁচু মর্যাদার ঘোষণা এসেছে তাঁর জন্য, যিনি এই দুনিয়ার রাতে বিছানা ছেড়ে উঠেছিলেন।"
           }
         ]
       },
       {
         "h": {
           "en": "A Du'a the Ummah Repeats",
-          "bn": "উম্মাহর পুনরাবৃত্ত এক দোয়া"
+          "bn": "যে দোয়া উম্মাহ বারবার পড়ে"
         },
         "p": [
           {
             "en": "The praised station entered the daily voice of the community. Al-Bukhari narrates from Jabir (RA) that the Prophet ﷺ said: whoever, on hearing the adhan, says — O Allah, Lord of this perfect call and the established prayer, grant Muhammad al-wasilah and al-fadilah, and raise him to the praised station You have promised him — my intercession becomes due for him. Five times a day, the ummah asks its Lord to fulfil for its Prophet ﷺ what this verse holds out.",
-            "bn": "প্রশংসিত মর্যাদা ঢুকে গেছে উম্মাহর প্রতিদিনের কণ্ঠে। বুখারী জাবির (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আযান শুনে যে বলবে — হে আল্লাহ, এই পরিপূর্ণ আহ্বান ও প্রতিষ্ঠিত নামাযের রব, মুহাম্মাদকে ওয়াসীলা ও ফযীলত দান করো, আর তাঁকে সেই প্রশংসিত মর্যাদায় উন্নীত করো যার প্রতিশ্রুতি তুমি তাঁকে দিয়েছ — তার জন্য আমার সুপারিশ অবধারিত হবে। দিনে পাঁচবার উম্মাহ তার রবের কাছে চায়, তিনি যেন তার নবী ﷺ-এর জন্য পূর্ণ করেন যা এই আয়াত সামনে ধরেছে।"
+            "bn": "প্রশংসিত মর্যাদার কথা উম্মাহর প্রতিদিনের মুখের কথায় ঢুকে গেছে। বুখারী জাবির (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: যে আযান শুনে বলবে, 'হে আল্লাহ, এই পরিপূর্ণ আহ্বান আর প্রতিষ্ঠিত নামাজের রব, মুহাম্মাদকে ওয়াসীলা ও ফযীলত দান করুন, আর তাঁকে সেই প্রশংসিত মর্যাদায় পৌঁছে দিন, যার ওয়াদা আপনি তাঁকে দিয়েছেন', তার জন্য আমার সুপারিশ অবধারিত হয়ে যাবে। দিনে পাঁচবার উম্মাহ তার রবের কাছে চায়, এই আয়াত যা তুলে ধরেছে, তিনি যেন তা তার নবী ﷺ-এর জন্য পূর্ণ করেন।"
           }
         ]
       },
@@ -1605,11 +1605,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Read as one breath, the two verses give a complete architecture of worship: five anchors fixed to the turning sky, and above them a night stair that rises toward honour with Allah. The same pairing opens 73:1-6, where night standing and measured recitation prepare the bearer of a heavy word, and it describes the servants of the Most Merciful in 25:64, who pass the night before their Lord prostrating and standing.",
-            "bn": "এক নিঃশ্বাসে পড়লে আয়াত দুটি ইবাদতের এক পূর্ণাঙ্গ স্থাপত্য দেয়: ঘুরতে থাকা আকাশে বাঁধা পাঁচটি নোঙর, আর তাদের ওপরে এক রাতের সিঁড়ি, যা উঠে যায় আল্লাহর কাছে সম্মানের দিকে। একই জোড় খুলে দেয় 73:1-6 অংশকে, যেখানে রাতে দাঁড়ানো ও পরিমিত তিলাওয়াত এক ভারী বাণীর বাহককে প্রস্তুত করে, আর 25:64 আয়াতে এটি পরম করুণাময়ের বান্দাদের বর্ণনা — যারা তাদের রবের সামনে সিজদায় ও দাঁড়িয়ে রাত পার করে।"
+            "bn": "এক নিঃশ্বাসে পড়লে আয়াত দুটি ইবাদতের পুরো একটা কাঠামো তুলে ধরে: ঘুরন্ত আকাশের সঙ্গে বাঁধা পাঁচটি নোঙর, আর তার ওপরে রাতের এক সিঁড়ি, যা উঠে যায় আল্লাহর কাছে সম্মানের দিকে। ৭৩:১-৬ আয়াতগুলোও শুরু হয় এই জোড় দিয়ে, যেখানে রাত জেগে দাঁড়ানো আর ধীরে ধীরে তিলাওয়াত একজনকে প্রস্তুত করে এক ভারী বাণী বহনের জন্য। আর ২৫:৬৪-তে এ দিয়েই পরম দয়াময়ের বান্দাদের পরিচয় দেওয়া হয়েছে: তারা রাত কাটায় তাদের রবের সামনে সিজদায় আর দাঁড়িয়ে।"
           },
           {
             "en": "The lived order is the verse's own order. Secure the five first, on time, fastened to the day's turnings. Guard Fajr especially, and give its recitation length enough to deserve the angels' meeting described for it. Then add what the night can carry — even briefly, even irregularly at first — remembering in 32:16 those whose sides forsake their beds. The five keep a person from sinking; the night portion is how a person rises.",
-            "bn": "যাপনের ক্রম আয়াতের নিজেরই ক্রম। আগে পাঁচ ওয়াক্ত সুরক্ষিত করুন — সময়মতো, দিনের বাঁকগুলোতে বাঁধা। বিশেষভাবে ফজর হেফাজত করুন, আর এর তিলাওয়াতকে এতটা দৈর্ঘ্য দিন যেন তা এর জন্য বর্ণিত ফেরেশতাদের সম্মিলনের যোগ্য হয়। তারপর যোগ করুন রাত যতটা বইতে পারে — শুরুতে অল্প হলেও, অনিয়মিত হলেও — স্মরণে রেখে 32:16 আয়াতে তাদের, যাদের পার্শ্বদেশ বিছানা ছেড়ে দূরে থাকে। পাঁচ ওয়াক্ত মানুষকে ডুবে যাওয়া থেকে রক্ষা করে; রাতের অংশটুকুই তার ওঠার পথ।"
+            "bn": "জীবনে মেনে চলার ক্রমও আয়াতের ক্রমই। আগে পাঁচ ওয়াক্ত পাকা করুন, সময়মতো, দিনের বাঁকগুলোর সঙ্গে বেঁধে। বিশেষ করে ফজর আগলে রাখুন, আর তার তিলাওয়াত এতটা লম্বা করুন, যেন ফেরেশতাদের যে মিলনের কথা বলা হয়েছে, তার যোগ্য হয়। তারপর রাত যতটুকু বইতে পারে, ততটুকু যোগ করুন, শুরুতে অল্প হোক, অনিয়মিত হোক, তবু। মনে রাখুন ৩২:১৬-এর সেই মানুষদের, যাদের পাঁজর বিছানা থেকে আলাদা থাকে। পাঁচ ওয়াক্ত মানুষকে ডুবে যাওয়া থেকে বাঁচায়; রাতের অংশটুকু দিয়েই সে ওপরে ওঠে।"
           }
         ]
       }
@@ -1620,16 +1620,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Between Prayer and Victory",
-          "bn": "নামায ও বিজয়ের মাঝখানে"
+          "bn": "নামাজ আর বিজয়ের মাঝে"
         },
         "p": [
           {
             "en": "The verse sits in a deliberate neighbourhood. Just before it, 17:78-79 command the prayer from the sun's decline into the darkness of night, and the night vigil, tahajjud, promised to raise the Prophet ﷺ to a praised station. Just after it, 17:81 announces: truth has come and falsehood has vanished; indeed falsehood is ever bound to vanish. Between the discipline of prayer and the declaration of victory stands this request: an honest entrance, an honest exit, and supporting authority from Allah.",
-            "bn": "আয়াতটির অবস্থান এক সুচিন্তিত প্রতিবেশে। ঠিক আগে, 17:78-79 আদেশ দেয় সূর্য ঢলে পড়া থেকে রাতের অন্ধকার পর্যন্ত নামাযের, আর রাত-জাগা তাহাজ্জুদের — যার প্রতিশ্রুতি নবী ﷺ-কে এক প্রশংসিত স্থানে উন্নীত করা। ঠিক পরে, 17:81 ঘোষণা করে: সত্য এসেছে আর মিথ্যা বিলুপ্ত হয়েছে; নিশ্চয়ই মিথ্যা বিলুপ্ত হওয়ারই। নামাযের অনুশীলন আর বিজয়ের ঘোষণার মাঝখানে দাঁড়িয়ে এই চাওয়া: এক সত্যনিষ্ঠ প্রবেশ, এক সত্যনিষ্ঠ প্রস্থান, আর আল্লাহর পক্ষ থেকে সাহায্যকারী কর্তৃত্ব।"
+            "bn": "আয়াতটির আশপাশ ভেবেচিন্তে সাজানো। ঠিক আগে ১৭:৭৮-৭৯ হুকুম দেয় সূর্য হেলে পড়া থেকে রাতের অন্ধকার পর্যন্ত নামাজের, আর রাত জেগে তাহাজ্জুদের, যার সঙ্গে ওয়াদা আছে নবী ﷺ-কে এক প্রশংসিত মর্যাদায় পৌঁছে দেওয়ার। ঠিক পরে ১৭:৮১ ঘোষণা করে: সত্য এসেছে, মিথ্যা বিলুপ্ত হয়েছে; মিথ্যা তো বিলুপ্ত হওয়ারই। নামাজের অনুশীলন আর বিজয়ের ঘোষণার মাঝখানে এই দোয়া: সত্যের সঙ্গে প্রবেশ, সত্যের সঙ্গে প্রস্থান, আর আল্লাহর পক্ষ থেকে সাহায্যকারী কর্তৃত্ব।"
           },
           {
             "en": "The wording given to the Prophet ﷺ to say is: my Lord, cause me to enter an entrance of sidq and cause me to exit an exit of sidq, and grant me from Yourself a supporting authority. Sidq is truthfulness, soundness, integrity — the quality of a thing that is exactly what it claims to be. Attached to entering and exiting, it asks that both ends of every passage be free of falsehood, treachery and disgrace.",
-            "bn": "নবী ﷺ-কে যে শব্দে বলতে বলা হয়েছে: হে আমার রব, আমাকে প্রবেশ করান 'সিদক'-এর প্রবেশে, আর বের করুন 'সিদক'-এর প্রস্থানে, এবং আপনার পক্ষ থেকে আমাকে দিন এক সাহায্যকারী কর্তৃত্ব। 'সিদক' মানে সত্যনিষ্ঠা, নির্ভুলতা, সততা — কোনো জিনিস ঠিক যা দাবি করে তা-ই হওয়ার গুণ। প্রবেশ ও প্রস্থানের সঙ্গে জুড়ে দিলে এর অর্থ দাঁড়ায়: প্রতিটি যাত্রাপথের দুই প্রান্তই যেন মিথ্যা, বিশ্বাসঘাতকতা ও অপমান থেকে মুক্ত থাকে।"
+            "bn": "আল্লাহ নবী ﷺ-কে যে কথাগুলো বলতে শিখিয়েছেন: হে আমার রব, আমাকে প্রবেশ করান 'সিদক'-এর প্রবেশে, আর বের করুন 'সিদক'-এর প্রস্থানে, আর আপনার পক্ষ থেকে আমাকে দিন সাহায্যকারী কর্তৃত্ব। 'সিদক' মানে সত্যতা, নির্ভেজাল অবস্থা, সততা; অর্থাৎ কোনো জিনিস যা দাবি করে, ঠিক তা-ই হওয়া। প্রবেশ আর প্রস্থানের সঙ্গে জুড়লে এর অর্থ দাঁড়ায়: প্রতিটি পথের শুরু আর শেষ দুটোই যেন মিথ্যা, বিশ্বাসঘাতকতা আর অপমান থেকে মুক্ত থাকে।"
           }
         ]
       },
@@ -1641,11 +1641,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tirmidhi relates from Ibn Abbas (RA) that this verse came when the Prophet ﷺ was commanded to emigrate: the exit was from Makkah, the entrance into Madinah. On that reading the prayer was answered visibly in history. He left Makkah without compromise or humiliation, hidden by Allah from those posted to kill him, and entered Madinah openly, welcomed, to found the community that would carry the religion. Both ends of the hardest passage of his life were made passages of sidq.",
-            "bn": "তিরমিযী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন যে এই আয়াত এসেছিল যখন নবী ﷺ-কে হিজরতের আদেশ দেওয়া হয়: প্রস্থানটি মক্কা থেকে, প্রবেশটি মদীনায়। এই ব্যাখ্যায় দোয়াটির উত্তর ইতিহাসে দৃশ্যমানভাবে এসেছে। তিনি মক্কা ছেড়েছেন কোনো আপস বা অপমান ছাড়া — হত্যার জন্য মোতায়েন লোকদের চোখ থেকে আল্লাহ তাঁকে আড়াল করেছেন — আর মদীনায় প্রবেশ করেছেন প্রকাশ্যে, সাদর অভ্যর্থনায়, সেই সমাজ গড়তে যা দ্বীনকে বহন করবে। জীবনের কঠিনতম যাত্রার দুই প্রান্তই 'সিদক'-এর পথ হয়ে গিয়েছিল।"
+            "bn": "তিরমিযী ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ-কে যখন হিজরতের হুকুম দেওয়া হলো, তখন এই আয়াত নাজিল হয়: প্রস্থান মক্কা থেকে, প্রবেশ মদীনায়। এই ব্যাখ্যা ধরলে দোয়াটির জবাব ইতিহাসেই চোখের সামনে এসেছে। তিনি মক্কা ছেড়েছেন কোনো আপস বা অপমান ছাড়া; যারা তাঁকে হত্যা করতে পাহারায় বসে ছিল, আল্লাহ তাদের চোখ থেকে তাঁকে আড়াল করে রেখেছিলেন। আর মদীনায় ঢুকেছেন প্রকাশ্যে, সাদর অভ্যর্থনা পেয়ে, সেই সমাজ গড়তে, যা দ্বীনকে বহন করবে। জীবনের সবচেয়ে কঠিন সফরের দুই মাথাই হয়ে উঠেছিল 'সিদক'-এর পথ।"
           },
           {
             "en": "The commentators do not stop the verse there. Qurtubi records broader readings held among the exegetes: entering and exiting every affair; and even entering the grave and exiting it at the resurrection. The grammar supports the width — no object is named, so every threshold is included. A du'a revealed about one journey is worded so that it fits all journeys, which is a pattern the Quran repeats: the occasion is specific, the wording is kept general.",
-            "bn": "মুফাসসিরগণ আয়াতটিকে সেখানেই থামিয়ে দেন না। কুরতুবী তাফসীরকারদের মধ্যে প্রচলিত আরও প্রশস্ত ব্যাখ্যাগুলো লিপিবদ্ধ করেন: প্রতিটি বিষয়ে প্রবেশ ও প্রস্থান; এমনকি কবরে প্রবেশ আর পুনরুত্থানে সেখান থেকে বের হওয়া। ব্যাকরণও এই প্রশস্ততাকে সমর্থন করে — কোনো নির্দিষ্ট বস্তুর নাম নেই, তাই প্রতিটি চৌকাঠই অন্তর্ভুক্ত। এক সফর উপলক্ষে নাযিল হওয়া দোয়ার শব্দ এমনভাবে গাঁথা যে তা সব সফরে খাপ খায় — কুরআন এই ধরন বারবার দেখায়: উপলক্ষ সুনির্দিষ্ট, শব্দ রাখা হয় সর্বজনীন।"
+            "bn": "মুফাসসিরগণ আয়াতটিকে এখানেই সীমাবদ্ধ রাখেন না। কুরতুবী তাফসীরকারদের আরও ব্যাপক কয়েকটি ব্যাখ্যা উল্লেখ করেন: যেকোনো কাজে ঢোকা আর বের হওয়া; এমনকি কবরে প্রবেশ আর কিয়ামতের দিন সেখান থেকে বেরিয়ে আসা। আয়াতের ব্যাকরণও এই ব্যাপকতার পক্ষে: কোথায় প্রবেশ, তা বলা হয়নি, তাই জীবনের প্রতিটি দরজাই এর ভেতরে পড়ে। একটি সফর উপলক্ষে নাজিল হওয়া দোয়ার শব্দগুলো এমনভাবে সাজানো, যাতে সব সফরেই তা খাটে। কুরআনে এমনটা বারবার দেখা যায়: উপলক্ষ নির্দিষ্ট, কিন্তু শব্দ সবার জন্য খোলা।"
           }
         ]
       },
@@ -1657,11 +1657,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The third request changes register: grant me from Yourself a sultan nasir, a supporting authority. Al-Tabari relates the explanation of Qatadah: the Prophet ﷺ knew that he had no power for this matter without authority, so he asked for an authority to aid the Book of Allah, its limits and its obligations. Truth in this world does not administer itself. It needs protected space — an order in which the weak can believe without being crushed for it.",
-            "bn": "তৃতীয় চাওয়াটি সুর বদলায়: আপনার পক্ষ থেকে আমাকে দিন এক 'সুলতান নাসির' — সাহায্যকারী কর্তৃত্ব। তাবারী কাতাদাহর ব্যাখ্যা বর্ণনা করেন: নবী ﷺ জানতেন, কর্তৃত্ব ছাড়া এই কাজের সামর্থ্য তাঁর নেই, তাই তিনি এমন এক কর্তৃত্ব চাইলেন যা আল্লাহর কিতাব, তার সীমারেখা ও তার ফরযগুলোর সহায় হবে। সত্য এই দুনিয়ায় নিজে নিজের প্রশাসন চালায় না। তার দরকার সুরক্ষিত পরিসর — এমন এক ব্যবস্থা, যেখানে দুর্বলও ঈমান আনতে পারে সে জন্য পিষ্ট না হয়ে।"
+            "bn": "তৃতীয় চাওয়ায় সুর বদলে যায়: আপনার পক্ষ থেকে আমাকে দিন 'সুলতান নাসির', সাহায্যকারী কর্তৃত্ব। তাবারী কাতাদাহর ব্যাখ্যা এনেছেন: নবী ﷺ জানতেন, কর্তৃত্ব ছাড়া এ কাজ করার শক্তি তাঁর নেই, তাই তিনি এমন কর্তৃত্ব চাইলেন, যা আল্লাহর কিতাব, তার সীমারেখা আর তার ফরজগুলোর পাশে দাঁড়াবে। এই দুনিয়ায় সত্য নিজে নিজে চলে না। তার দরকার নিরাপদ জায়গা, এমন একটা ব্যবস্থা, যেখানে দুর্বল মানুষও ঈমান আনতে পারে, আর সে জন্য তাকে পিষে মারা হয় না।"
           },
           {
             "en": "The phrase min ladunka, from Yourself, guards the request from ambition. The authority sought is not personal power but a grant from Allah, held for His Book's sake, and history matched the wording: what was given at Madinah was not a throne but a community under revelation. The prayer thus teaches a clean relationship to power — it may be asked for, from Allah, for the sake of truth, and it remains His grant rather than one's possession.",
-            "bn": "'মিন লাদুনকা' — আপনার নিজের পক্ষ থেকে — বাক্যাংশটি চাওয়াটিকে উচ্চাভিলাষ থেকে পাহারা দেয়। যে কর্তৃত্ব চাওয়া হচ্ছে তা ব্যক্তিগত ক্ষমতা নয়, বরং আল্লাহর দান — তাঁর কিতাবের খাতিরে ধারণ করা; আর ইতিহাস শব্দগুলোর সঙ্গে মিলে গেছে: মদীনায় যা দেওয়া হয়েছিল তা সিংহাসন নয়, ওহীর অধীন একটি সমাজ। দোয়াটি এভাবে ক্ষমতার সঙ্গে এক পরিচ্ছন্ন সম্পর্ক শেখায় — তা চাওয়া যেতে পারে, আল্লাহর কাছে, সত্যের খাতিরে; এবং তা থেকে যায় তাঁরই দান, কারও নিজস্ব সম্পত্তি নয়।"
+            "bn": "'মিন লাদুনকা', আপনার নিজের পক্ষ থেকে: এই কথাটুকু চাওয়াটিকে উচ্চাকাঙ্ক্ষা থেকে আগলে রাখে। যে কর্তৃত্ব চাওয়া হচ্ছে, তা ব্যক্তিগত ক্ষমতা নয়; আল্লাহর দান, যা ধরে রাখা হবে তাঁর কিতাবের জন্য। ইতিহাসও শব্দগুলোর সঙ্গে মিলে গেছে: মদীনায় যা দেওয়া হয়েছিল, তা কোনো সিংহাসন নয়, ওহির অধীনে চলা একটি সমাজ। এভাবে দোয়াটি ক্ষমতার সঙ্গে পরিচ্ছন্ন এক সম্পর্ক শেখায়। ক্ষমতা চাওয়া যায়, তবে আল্লাহর কাছে, সত্যের জন্য; আর তা সবসময় তাঁরই দান থাকে, কারও নিজের সম্পত্তি হয়ে যায় না।"
           }
         ]
       },
