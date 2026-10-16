@@ -16,12 +16,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Charge the Surah Opens With",
-          "bn": "সূরার সূচনায় যে দায়িত্ব"
+          "bn": "সূরার শুরুতেই যে নির্দেশ"
         },
         "p": [
           {
             "en": "Surah Hud opens by describing itself: a Book whose verses were made firm and then set out in detail, from One Wise and Aware. 11:2 then gives the content of the message — do not worship except Allah; I am to you from Him a warner and a bringer of good tidings. Our verse continues that same sentence with a further clause: and ask forgiveness of your Lord. Tawhid is stated first, and the call to repentance is joined onto it rather than offered as a separate programme.",
-            "bn": "সূরা হূদ শুরু হয় নিজের পরিচয় দিয়ে: এমন এক কিতাব যার আয়াতগুলোকে সুদৃঢ় করা হয়েছে, তারপর বিশদভাবে বর্ণনা করা হয়েছে প্রজ্ঞাময় ও সর্বজ্ঞের পক্ষ থেকে। এরপর 11:2 বার্তার মূল বিষয় জানায় — আল্লাহ ছাড়া কারও ইবাদত করো না; আমি তাঁর পক্ষ থেকে তোমাদের জন্য সতর্ককারী ও সুসংবাদদাতা। আমাদের আয়াতটি সেই একই বাক্যের ধারাবাহিকতায় আরেকটি অংশ যোগ করে: আর তোমরা তোমাদের প্রতিপালকের কাছে ক্ষমা চাও। আগে তাওহীদ, তারপর তার সঙ্গেই জোড়া লাগানো হয় তওবার আহ্বান — আলাদা কোনো কর্মসূচি হিসেবে নয়।"
+            "bn": "সূরা হূদ শুরু হয় নিজের পরিচয় দিয়ে: এ এমন এক কিতাব, যার আয়াতগুলো প্রথমে মজবুত করে গাঁথা, তারপর খুলে খুলে বিস্তারিত বলা; আর তা এসেছে প্রজ্ঞাময়, সর্বজ্ঞ সত্তার কাছ থেকে। এরপর ১১:২ আয়াত বার্তার মূল কথাটা জানায়: আল্লাহ ছাড়া কারও ইবাদত কোরো না; আমি তাঁর পক্ষ থেকে তোমাদের জন্য সতর্ককারী ও সুসংবাদদাতা। আমাদের আয়াত সেই বাক্যটাকেই আরও এগিয়ে নেয়, জুড়ে দেয় আরেকটি অংশ: আর তোমাদের রবের কাছে ক্ষমা চাও। প্রথমে তাওহিদ, তারপর তার সঙ্গেই গেঁথে দেওয়া হয় তওবার ডাক। আলাদা কোনো কর্মসূচি হিসেবে নয়।"
           }
         ]
       },
@@ -33,7 +33,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two verbs, and they are not synonyms. Istighfar is built on a root whose sense is covering over: it asks that what has been done be covered and its consequence lifted. Tawbah is a return, and the verse gives the return a direction — tubu ilayhi, turn back to Him. One of them deals with the record a person is dragging behind him; the other turns the person himself around. A prayer about the past, and a change of heading for whatever is left.",
-            "bn": "দুটি ক্রিয়াপদ, আর এ দুটি সমার্থক নয়। ইস্তিগফার গড়ে উঠেছে এমন এক মূল থেকে যার অর্থ ঢেকে দেওয়া: এতে চাওয়া হয় যেন কৃতকর্ম ঢেকে দেওয়া হয় এবং তার পরিণতি সরিয়ে নেওয়া হয়। আর তওবা মানে ফিরে আসা, আর আয়াত সেই ফেরার একটি দিকও ঠিক করে দেয় — 'তূবূ ইলাইহি', তাঁরই দিকে ফিরে এসো। একটি সম্পর্কিত সেই খতিয়ানের সঙ্গে যা মানুষ পেছনে টেনে নিয়ে চলেছে; অন্যটি মানুষটিকেই ঘুরিয়ে দেয়। একটি অতীত নিয়ে প্রার্থনা, অন্যটি বাকি জীবনের দিক বদল।"
+            "bn": "দুটি ক্রিয়া, আর দুটির অর্থ এক নয়। ইস্তিগফার শব্দের মূলে আছে ঢেকে দেওয়ার অর্থ: বান্দা চায়, যা করে ফেলেছে তা ঢেকে দেওয়া হোক, আর তার পরিণাম সরিয়ে নেওয়া হোক। তওবা মানে ফিরে আসা, আর আয়াত সেই ফেরার দিকটাও বলে দেয়: 'তূবূ ইলাইহি', তাঁরই দিকে ফিরে এসো। প্রথমটির কাজ সেই আমলনামা নিয়ে, যা মানুষ পেছনে টেনে বেড়াচ্ছে; দ্বিতীয়টি মানুষটাকেই ঘুরিয়ে দাঁড় করায়। একটি অতীতের জন্য দুআ, অন্যটি বাকি জীবনের পথ বদল।"
           }
         ]
       },
@@ -45,7 +45,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The two commands are joined by thumma, the particle that ordinarily marks a step taken after an interval rather than a simple and. The commentators read it in more than one way here. Some take the sequence at face value: asking forgiveness is the work of a moment, returning is the road walked afterwards, so the second is what the first was for. Others take thumma as marking rank rather than time, the weightier act named second. Translators, this app's rendering among them, often join the two with a plain and.",
-            "bn": "নির্দেশ দুটিকে যুক্ত করেছে 'ছুম্মা' — এমন এক অব্যয় যা সাধারণত কেবল 'এবং' বোঝায় না, বরং কিছু ব্যবধানের পর নেওয়া পরবর্তী পদক্ষেপ বোঝায়। এখানে মুফাসসিরগণ একাধিকভাবে এটি পড়েন। কেউ ক্রমটিকে আক্ষরিকভাবেই নেন: ক্ষমা চাওয়া এক মুহূর্তের কাজ, আর ফিরে আসা হলো তারপর হেঁটে চলা পথ — তাই দ্বিতীয়টির জন্যই প্রথমটি। কেউ আবার 'ছুম্মা'-কে সময় নয়, মর্যাদার ক্রম হিসেবে নেন, অর্থাৎ ভারী কাজটির নাম নেওয়া হয়েছে পরে। অনুবাদকরা — এই অ্যাপের অনুবাদসহ — প্রায়ই দুটিকে সাধারণ 'আর' দিয়ে জোড়েন।"
+            "bn": "নির্দেশ দুটিকে জুড়েছে 'ছুম্মা'। এই অব্যয় সাধারণত নিছক 'আর' বোঝায় না; বোঝায় কিছুটা সময় পেরিয়ে তারপর নেওয়া পরের পদক্ষেপ। এখানে মুফাসসিরগণ একে একাধিকভাবে পড়েছেন। কেউ ক্রমটাকে সোজা অর্থেই নেন: ক্ষমা চাওয়া এক মুহূর্তের কাজ, আর ফিরে আসা হলো তারপরের পথচলা; কাজেই প্রথমটি দ্বিতীয়টির জন্যই। কেউ আবার 'ছুম্মা'-কে সময়ের নয়, মর্যাদার ক্রম ধরেন: বেশি ভারী কাজটির কথা এসেছে পরে। অনুবাদকরা প্রায়ই দুটিকে সাধারণ 'আর' দিয়েই জুড়ে দেন, এই অ্যাপের অনুবাদও তাই করেছে।"
           }
         ]
       },
@@ -57,39 +57,39 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What follows is a promise about this life. He will let you enjoy a good provision until a stated term: mata' is the provision a traveller carries, hasan qualifies it as good rather than as much, and ajal musamma names a term already fixed. Notice the honesty of the wording. It does not promise that the enjoyment will not end; it promises that the stretch of road before it ends will be good. Repentance is not being sold as a way of postponing the term.",
-            "bn": "এরপর আসে এ জীবন নিয়েই এক প্রতিশ্রুতি। তিনি তোমাদের উত্তম ভোগসামগ্রী ভোগ করতে দেবেন এক নির্ধারিত মেয়াদ পর্যন্ত: 'মাতা' মানে পথিকের সঙ্গে থাকা রসদ, 'হাসান' তাকে বিশেষিত করে উত্তম বলে — বেশি বলে নয়, আর 'আজালুন মুসাম্মা' মানে আগে থেকেই নির্ধারিত এক মেয়াদ। শব্দচয়নের সততাটুকু লক্ষ করুন। এখানে বলা হয়নি যে ভোগ শেষ হবে না; বলা হয়েছে, শেষ হওয়ার আগ পর্যন্ত পথটুকু উত্তম হবে। তওবাকে মেয়াদ পিছিয়ে দেওয়ার উপায় হিসেবে বিক্রি করা হচ্ছে না।"
+            "bn": "এরপর আসে এই দুনিয়ার জীবন নিয়েই একটি প্রতিশ্রুতি। তিনি তোমাদের এক নির্ধারিত সময় পর্যন্ত উত্তম জীবনসামগ্রী ভোগ করতে দেবেন। 'মাতা' হলো মুসাফির সঙ্গে যে রসদ বয়ে নেয়; 'হাসান' তাকে উত্তম বলে, পরিমাণে বেশি বলে নয়; আর 'আজালুন মুসাম্মা' মানে আগে থেকেই ঠিক করে রাখা মেয়াদ। শব্দগুলোর সততা লক্ষ করুন। এখানে বলা হয়নি যে এই ভোগ কখনো ফুরাবে না। বলা হয়েছে, ফুরানোর আগ পর্যন্ত পথটুকু ভালো কাটবে। তওবাকে এখানে মেয়াদ পিছিয়ে দেওয়ার কৌশল হিসেবে বেচা হচ্ছে না।"
           },
           {
             "en": "The same pair of commands is given by an earlier prophet inside this same surah. In 11:52 Hud (AS) tells his people to ask forgiveness of their Lord and then turn to Him, and the promise attached there is rain sent down in abundance and strength added to their strength. Nuh (AS) attaches the same kind of promise to seeking forgiveness alone in 71:10-12, where showers, wealth, children, gardens and rivers are all named. Seeking forgiveness is presented across the Quran as something that opens the sky, not only the record.",
-            "bn": "একই জোড়া নির্দেশ এই সূরারই ভেতরে আরেকজন নবীর মুখে এসেছে। 11:52-এ হূদ (আঃ) তাঁর সম্প্রদায়কে বলেন তাদের প্রতিপালকের কাছে ক্ষমা চাইতে, তারপর তাঁর দিকে ফিরে আসতে; সেখানে যুক্ত প্রতিশ্রুতি হলো প্রচুর বৃষ্টি এবং তাদের শক্তির সঙ্গে আরও শক্তি যোগ করা। নূহ (আঃ) কেবল ক্ষমা প্রার্থনার সঙ্গেই একই ধরনের প্রতিশ্রুতি জুড়ে দেন 71:10-12-এ, যেখানে বৃষ্টিধারা, ধনসম্পদ, সন্তান, বাগান ও নদীর কথা বলা হয়েছে। কুরআনজুড়ে ক্ষমা প্রার্থনাকে এমন কিছু হিসেবে দেখানো হয়েছে যা কেবল আমলনামা নয়, আকাশও খুলে দেয়।"
+            "bn": "এই একই জোড়া নির্দেশ এই সূরাতেই আগের এক নবীর মুখেও এসেছে। ১১:৫২ আয়াতে হূদ (আঃ) তাঁর কওমকে বলেন, তোমাদের রবের কাছে ক্ষমা চাও, তারপর তাঁর দিকে ফিরে এসো। সেখানে প্রতিশ্রুতি হলো আকাশ থেকে প্রচুর বৃষ্টি, আর তাদের শক্তির সঙ্গে আরও শক্তি। নূহ (আঃ) ৭১:১০-১২ আয়াতে শুধু ক্ষমা চাওয়ার সঙ্গেই একই ধরনের প্রতিশ্রুতি জুড়ে দেন, আর সেখানে বৃষ্টি, ধনসম্পদ, সন্তান, বাগান ও নদী, সবকিছুর নাম আছে। কুরআনজুড়ে ইস্তিগফার এমন জিনিস, যা শুধু আমলনামা নয়, আকাশও খুলে দেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Every Possessor of Grace",
-          "bn": "প্রত্যেক অনুগ্রহের অধিকারী"
+          "bn": "অনুগ্রহের প্রত্যেক অধিকারী"
         },
         "p": [
           {
             "en": "The next clause is easy to hurry past: and He gives every possessor of fadl his fadl. The word is repeated deliberately, grace answered with grace. The commentators read it as every person of good works receiving what his works have earned, the second fadl being what Allah bestows rather than what the servant produced. Then the verse turns: but if you turn away, I fear for you the punishment of a great Day. The warner does not threaten here. He says he is afraid for them.",
-            "bn": "পরের অংশটি দ্রুত পেরিয়ে যাওয়া সহজ: আর তিনি প্রত্যেক ফযলের অধিকারীকে তার ফযল দেবেন। শব্দটি ইচ্ছাকৃতভাবেই দুবার এসেছে — অনুগ্রহের জবাবে অনুগ্রহ। মুফাসসিরগণ এটি পড়েন এভাবে যে, প্রত্যেক সৎকর্মশীল তার কর্মের প্রাপ্য পাবে, আর দ্বিতীয় ফযল হলো আল্লাহর দান, বান্দার উৎপাদন নয়। এরপর আয়াত মোড় নেয়: আর যদি তোমরা মুখ ফিরিয়ে নাও, তবে আমি তোমাদের ব্যাপারে এক মহাদিনের শাস্তির আশঙ্কা করি। সতর্ককারী এখানে হুমকি দিচ্ছেন না। তিনি বলছেন, তিনি তাদের জন্য ভয় পাচ্ছেন।"
+            "bn": "পরের অংশটা তাড়াহুড়ো করে পেরিয়ে যাওয়া সহজ: আর তিনি প্রত্যেক ফযলের অধিকারীকে তার ফযল দেবেন। শব্দটি ইচ্ছা করেই দুবার এসেছে, অনুগ্রহের জবাবে অনুগ্রহ। মুফাসসিরগণ এর অর্থ করেন, প্রত্যেক নেককার তার আমলের প্রাপ্য পাবে; আর দ্বিতীয় ফযলটি আল্লাহর দান, বান্দার নিজের অর্জন নয়। এরপর আয়াত মোড় নেয়: আর যদি তোমরা মুখ ফিরিয়ে নাও, তবে আমি তোমাদের জন্য এক মহাদিবসের শাস্তির ভয় করি। সতর্ককারী এখানে হুমকি দিচ্ছেন না। তিনি বলছেন, তাদের জন্য তাঁর ভয় হয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Making It a Habit",
-          "bn": "একে অভ্যাসে পরিণত করা"
+          "bn": "অভ্যাস বানিয়ে নেওয়া"
         },
         "p": [
           {
             "en": "Al-Bukhari narrates from Abu Hurayrah (RA) that the Prophet ﷺ said: by Allah, I ask Allah for forgiveness and turn to Him in repentance more than seventy times a day. The two acts commanded in this verse stand together in that sentence, and they are said by a man whose sins were forgiven. Istighfar is therefore not an emergency procedure reserved for the worst weeks. It is the ordinary maintenance of a relationship, run at the rate of a habit.",
-            "bn": "ইমাম বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন: আল্লাহর কসম, আমি দিনে সত্তরবারেরও বেশি আল্লাহর কাছে ক্ষমা চাই এবং তাঁর দিকে ফিরে আসি। এই আয়াতে যে দুটি কাজের নির্দেশ, সে দুটি ওই একটি বাক্যেই পাশাপাশি দাঁড়িয়ে আছে, আর তা বলেছেন এমন একজন যাঁর গুনাহ ক্ষমা করে দেওয়া হয়েছিল। তাই ইস্তিগফার সবচেয়ে খারাপ সপ্তাহগুলোর জন্য তুলে রাখা কোনো জরুরি ব্যবস্থা নয়। এটি একটি সম্পর্কের নিয়মিত রক্ষণাবেক্ষণ, অভ্যাসের গতিতে চালানো।"
+            "bn": "ইমাম বুখারী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: আল্লাহর কসম, আমি দিনে সত্তরবারেরও বেশি আল্লাহর কাছে ক্ষমা চাই এবং তাঁর কাছে তওবা করি। এই আয়াতে যে দুটি কাজের হুকুম, সে দুটিই ওই এক বাক্যে পাশাপাশি এসেছে। আর কথাটা বলছেন এমন একজন, যাঁর গুনাহ মাফ করে দেওয়া হয়েছিল। কাজেই ইস্তিগফার সবচেয়ে কঠিন সপ্তাহগুলোর জন্য তুলে রাখা জরুরি ব্যবস্থা নয়। এ হলো সম্পর্কের নিয়মিত যত্ন, যা চলে অভ্যাসের মতো রোজ রোজ।"
           },
           {
             "en": "The practical instruction this verse leaves is to stop waiting. Nothing in it makes forgiveness conditional on having first stopped needing it, and the good provision it promises belongs to the term you are still inside. Choose the thing you have been postponing an apology to Allah for, say the words today, and then supply the thumma: one change of direction, however small, that turns the asking into a return rather than a phrase.",
-            "bn": "এই আয়াত যে ব্যবহারিক নির্দেশ রেখে যায় তা হলো — অপেক্ষা করা বন্ধ করুন। এখানে এমন কিছু নেই যা ক্ষমাকে এই শর্তে বাঁধে যে আগে আপনাকে ক্ষমার প্রয়োজন ফুরাতে হবে; আর যে উত্তম জীবনসামগ্রীর প্রতিশ্রুতি দেওয়া হয়েছে, তা আপনি এখনো যে মেয়াদের ভেতরে আছেন সেই মেয়াদেরই। যে বিষয়ে আল্লাহর কাছে ক্ষমা চাওয়া আপনি পিছিয়ে দিচ্ছেন, সেটিই বেছে নিন, আজই কথাগুলো বলুন, তারপর 'ছুম্মা'-টুকু যোগ করুন: যত ছোটই হোক, একটি দিক বদল — যা চাওয়াটিকে নিছক বাক্য না রেখে সত্যিকারের ফেরা বানায়।"
+            "bn": "এই আয়াত থেকে হাতে-কলমে যে শিক্ষা পাওয়া যায়, তা হলো: অপেক্ষা থামান। ক্ষমা পেতে হলে আগে ক্ষমার প্রয়োজন ফুরিয়ে যেতে হবে, এমন কোনো শর্ত আয়াতে নেই। আর যে উত্তম জীবনসামগ্রীর প্রতিশ্রুতি, তা এই মেয়াদেরই, যার ভেতরে আপনি এখনো আছেন। আল্লাহর কাছে যে বিষয়ে ক্ষমা চাইতে আপনি দেরি করে চলেছেন, সেটি বেছে নিন। আজই কথাগুলো বলুন। তারপর 'ছুম্মা'-টুকু যোগ করুন: যত ছোটই হোক, একটা দিক বদল, যাতে চাওয়াটা কেবল মুখের কথা না থেকে সত্যিকারের ফেরা হয়ে ওঠে।"
           }
         ]
       }
@@ -105,11 +105,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah Hud opens with a Book whose verses are perfected and set out in detail, then with a call to worship Allah alone, and at 11:3 with a promise of good enjoyment for a specified term to those who seek forgiveness and turn back. 11:5 then describes people folding their breasts to hide from Him, and states that even when they cover themselves with their garments He knows what they conceal and what they declare.",
-            "bn": "সূরা হূদ শুরু হয় এমন এক কিতাব দিয়ে যার আয়াতগুলো সুদৃঢ়, তারপর বিশদভাবে বর্ণিত; এরপর আসে কেবল আল্লাহর ইবাদতের আহ্বান, আর 11:3-এ আসে প্রতিশ্রুতি — যারা ক্ষমা চায় ও তাঁর দিকে ফিরে আসে, তাদের নির্দিষ্ট মেয়াদ পর্যন্ত উত্তম জীবনোপকরণ দেওয়া হবে। এরপর 11:5 এমন লোকদের বর্ণনা দেয় যারা তাঁর থেকে লুকাতে নিজেদের বুক গুটিয়ে নেয়, আর বলে দেয় যে কাপড় দিয়ে নিজেদের ঢেকে নিলেও তারা যা গোপন করে ও যা প্রকাশ করে তিনি তা জানেন।"
+            "bn": "সূরা হূদের শুরুতে আছে এমন এক কিতাবের কথা, যার আয়াতগুলো মজবুত করে গাঁথা, তারপর বিস্তারিত বলা। এরপর আসে একমাত্র আল্লাহর ইবাদতের ডাক। আর ১১:৩ আয়াতে প্রতিশ্রুতি: যারা ক্ষমা চায় ও তাঁর দিকে ফিরে আসে, তিনি তাদের নির্ধারিত সময় পর্যন্ত উত্তম জীবনসামগ্রী দেবেন। তারপর ১১:৫ আয়াত এমন লোকদের কথা বলে, যারা তাঁর কাছ থেকে লুকাতে বুক গুটিয়ে নেয়। আয়াত জানিয়ে দেয়, কাপড়ে নিজেদের মুড়ে নিলেও তারা যা লুকায় আর যা প্রকাশ করে, সবই তিনি জানেন।"
           },
           {
             "en": "That is an unusual doorway into a verse about food. The subject of the passage is not scarcity but knowledge: He sees through the folded chest and the drawn garment. Our verse extends the same knowledge outward to every moving thing on the earth, and 11:7 extends it forward to the creation in six days and to the resurrection that the deniers call plain magic. Provision is being argued here as a case of His knowing.",
-            "bn": "খাদ্য সম্পর্কিত একটি আয়াতে ঢোকার জন্য এটি অস্বাভাবিক এক দরজা। এই অংশের বিষয়বস্তু অভাব নয়, বরং জ্ঞান: গুটিয়ে নেওয়া বুক আর টেনে দেওয়া কাপড়ের ভেতর দিয়েও তিনি দেখেন। আমাদের আয়াতটি সেই একই জ্ঞানকে বাইরের দিকে বিস্তৃত করে যমীনের প্রতিটি বিচরণশীল প্রাণীর ওপর, আর 11:7 তাকে সামনের দিকে বিস্তৃত করে ছয় দিনের সৃষ্টি এবং সেই পুনরুত্থান পর্যন্ত, যাকে অস্বীকারকারীরা সুস্পষ্ট জাদু বলে। এখানে রিযকের কথা বলা হচ্ছে তাঁর জানার একটি দৃষ্টান্ত হিসেবে।"
+            "bn": "খাবারের কথা বলা একটি আয়াতে ঢোকার জন্য এ এক অদ্ভুত দরজা। এই অংশের আলোচ্য বিষয় অভাব নয়, জ্ঞান: গুটিয়ে রাখা বুক আর টেনে দেওয়া কাপড় ভেদ করেও তিনি দেখেন। আমাদের আয়াত সেই একই জ্ঞানকে বাইরের দিকে ছড়িয়ে দেয়, যমীনে চলাফেরা করা প্রতিটি প্রাণী পর্যন্ত। আর ১১:৭ আয়াত তাকে নিয়ে যায় সামনের দিকে: ছয় দিনে সৃষ্টি পর্যন্ত, আর সেই পুনরুত্থান পর্যন্ত, যাকে অস্বীকারকারীরা বলে স্পষ্ট জাদু। এখানে রিযকের কথা আসছে তাঁর জানারই একটি নমুনা হিসেবে।"
           }
         ]
       },
@@ -121,19 +121,19 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Arabic builds a fence: wa ma min dabbatin fi al-ardi illa 'ala Allahi rizquha. It negates, then adds min to make the negation exhaustive, then admits a single exception which is the guarantee itself. A dabbah, from a root meaning to move or creep, is anything that stirs on the ground; the verse marks out its field with fi al-ard, on the earth, and then leaves no member of that field outside the promise.",
-            "bn": "আরবি এখানে একটি বেড়া তোলে: ওয়া মা মিন দাব্বাতিন ফিল-আরদি ইল্লা আলাল্লাহি রিযকুহা। প্রথমে অস্বীকার, তারপর 'মিন' যোগ করে সেই অস্বীকারকে নিঃশেষ করা, তারপর একটিমাত্র ব্যতিক্রম — আর সেই ব্যতিক্রমটিই হলো নিশ্চয়তা। দাব্বাহ শব্দটি এমন এক ধাতু থেকে যার অর্থ চলা বা হেঁটে বেড়ানো; অর্থাৎ যমীনে যা কিছু নড়াচড়া করে। আয়াতটি 'ফিল-আরদ' অর্থাৎ যমীনে বলে ক্ষেত্রটি চিহ্নিত করে, তারপর সেই ক্ষেত্রের একটিকেও প্রতিশ্রুতির বাইরে রাখে না।"
+            "bn": "আরবি বাক্যটি যেন একটা বেড়া তোলে: ওয়া মা মিন দাব্বাতিন ফিল-আরদি ইল্লা আলাল্লাহি রিযকুহা। প্রথমে না-বাচক কথা, তারপর 'মিন' যোগ করে সেই 'না'-কে সবার ওপর ছড়িয়ে দেওয়া, তারপর একটিমাত্র ব্যতিক্রম। আর সেই ব্যতিক্রমটাই হলো নিশ্চয়তা। দাব্বাহ শব্দের ধাতুর অর্থ চলা বা গুটিগুটি এগোনো; অর্থাৎ মাটির ওপর যা কিছু নড়েচড়ে, সবই দাব্বাহ। আয়াত 'ফিল-আরদ', অর্থাৎ যমীনে, বলে সীমানাটা টেনে দেয়, তারপর সেই সীমানার ভেতরের একটিকেও প্রতিশ্রুতির বাইরে রাখে না।"
           }
         ]
       },
       {
         "h": {
           "en": "An Undertaking, Not a Debt",
-          "bn": "দায়িত্ব গ্রহণ, ঋণ নয়"
+          "bn": "নিজে নেওয়া দায়িত্ব, ঋণ নয়"
         },
         "p": [
           {
             "en": "The preposition is worth pausing on. In Arabic 'ala is the preposition of what is due from someone — a debt is 'ala the debtor. The commentators are careful here: no creature imposes a duty upon Allah, and the sense is of an undertaking He assumed of His own generosity. 51:57 says that He wants no provision from His creatures and does not want them to feed Him, and 51:58 names Him the Provider, possessed of firm strength.",
-            "bn": "অব্যয়টির ওপর একটু থামা দরকার। আরবিতে 'আলা' সেই অব্যয় যা কারও ওপর প্রাপ্য বোঝায় — ঋণ থাকে ঋণগ্রহীতার 'আলা'। মুফাসসিরগণ এখানে সতর্ক: কোনো সৃষ্টি আল্লাহর ওপর দায়িত্ব চাপাতে পারে না, বরং অর্থ হলো তিনি নিজ অনুগ্রহে এই দায়িত্ব নিজের ওপর নিয়েছেন। 51:57 বলে, তিনি সৃষ্টির কাছ থেকে কোনো রিযক চান না এবং চান না যে তারা তাঁকে খাওয়াক; আর 51:58 তাঁকে নাম দেয় রিযকদাতা, প্রবল শক্তির অধিকারী।"
+            "bn": "অব্যয়টির কাছে একটু থামা দরকার। আরবিতে 'আলা' সেই অব্যয়, যা দিয়ে বোঝানো হয় কার ঘাড়ে কী পাওনা। যেমন ঋণ থাকে ঋণীর 'আলা', অর্থাৎ তার ঘাড়ে। মুফাসসিরগণ এখানে সাবধান: কোনো সৃষ্টি আল্লাহর ওপর কোনো দায় চাপাতে পারে না। অর্থ হলো, তিনি নিজ দয়ায় এই দায়িত্ব নিজের ওপর নিয়েছেন। ৫১:৫৭ আয়াতে তিনি বলেন, তিনি সৃষ্টির কাছে কোনো রিযক চান না, আর চান না যে তারা তাঁকে খাওয়াক। আর ৫১:৫৮ আয়াত তাঁর পরিচয় দেয় রিযকদাতা, প্রবল শক্তির মালিক বলে।"
           }
         ]
       },
@@ -145,23 +145,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then come two words the early authorities genuinely disagree about. Both name places: mustaqarr from a root for settling and staying, mustawda' from a root for depositing something for safekeeping. One line of interpretation makes the mustaqarr the creature's dwelling in life and the mustawda' where it is laid after death. Another reads them of the stages before birth, one group taking the womb as the settling place and the loins as the deposit, and another group reversing the two.",
-            "bn": "এরপর আসে দুটি শব্দ, যেগুলো নিয়ে প্রাচীন কর্তৃপক্ষদের মধ্যে সত্যিকারের মতভেদ আছে। দুটিই স্থানের নাম: মুস্তাকার্র এসেছে থিতু হওয়া ও অবস্থান করার ধাতু থেকে, আর মুস্তাওদা' এসেছে আমানত হিসেবে রেখে দেওয়ার ধাতু থেকে। এক ব্যাখ্যাধারা মুস্তাকার্র বলতে বোঝে জীবদ্দশায় প্রাণীর বাসস্থান আর মুস্তাওদা' বলতে মৃত্যুর পর তাকে যেখানে রাখা হয়। আরেক ধারা এ দুটিকে জন্মের আগের স্তর হিসেবে পড়ে — এক দল মাতৃগর্ভকে থিতু হওয়ার জায়গা ও পিতৃপৃষ্ঠকে আমানতের জায়গা বলে, আরেক দল দুটিকে উল্টো করে বোঝে।"
+            "bn": "এরপর আসে দুটি শব্দ, যেগুলো নিয়ে প্রথম যুগের আলিমদের মধ্যে সত্যিই মতভেদ আছে। দুটিই জায়গার নাম। মুস্তাকার্র এসেছে থিতু হওয়া ও থেকে যাওয়ার ধাতু থেকে; মুস্তাওদা' এসেছে কোনো কিছু হেফাজতে গচ্ছিত রাখার ধাতু থেকে। এক ব্যাখ্যায় মুস্তাকার্র হলো জীবদ্দশায় প্রাণীর বাসস্থান, আর মুস্তাওদা' হলো মৃত্যুর পর তাকে যেখানে রাখা হয়। আরেক ব্যাখ্যা এ দুটিকে জন্মের আগের ধাপ ধরে। তাঁদের একদল মাতৃগর্ভকে থিতু হওয়ার জায়গা আর পিতার ঔরসকে গচ্ছিত রাখার জায়গা বলেন, আরেকদল ঠিক উল্টোটা বলেন।"
           },
           {
             "en": "It is honest to give the range rather than to pick one. The same pair appears in 6:98, said of human beings brought from a single soul, and the commentators divide there in the same way; translations into English and Bengali follow different readings accordingly, some naming death, some naming the womb. What every reading agrees on is the claim the verse is actually making: wherever the creature is at any stage, that place is known, and the knowing is what secures the provision.",
-            "bn": "একটি বেছে নেওয়ার চেয়ে পুরো পরিসরটি জানিয়ে দেওয়াই সৎ কাজ। এই একই জোড়া শব্দ 6:98-এ আসে, যেখানে এক প্রাণ থেকে সৃষ্ট মানুষ সম্পর্কে বলা হয়েছে, এবং সেখানেও মুফাসসিরগণ একইভাবে বিভক্ত; ইংরেজি ও বাংলা অনুবাদগুলোও সেই অনুযায়ী ভিন্ন ভিন্ন পাঠ অনুসরণ করে — কেউ মৃত্যুর কথা বলে, কেউ মাতৃগর্ভের কথা। তবে সব পাঠই একটি বিষয়ে একমত, আর সেটাই আয়াতের আসল দাবি: প্রাণীটি যে স্তরেই যেখানেই থাকুক, সেই জায়গাটি জানা আছে — আর এই জানাই রিযককে নিশ্চিত করে।"
+            "bn": "একটি বেছে নেওয়ার চেয়ে পুরো মতভেদটা তুলে ধরাই সততা। এই একই জোড়া শব্দ ৬:৯৮ আয়াতেও আছে, যেখানে এক প্রাণ থেকে সৃষ্ট মানুষের কথা। সেখানেও মুফাসসিরগণ একইভাবে দুই ভাগ। তাই ইংরেজি ও বাংলা অনুবাদগুলোও ভিন্ন ভিন্ন ব্যাখ্যা নিয়েছে: কোনোটিতে মৃত্যুর কথা, কোনোটিতে মাতৃগর্ভের। তবে আয়াত আসলে যে দাবিটা করছে, তাতে সব ব্যাখ্যাই একমত: প্রাণী যে স্তরে যেখানেই থাকুক, সেই জায়গা তাঁর জানা। আর এই জানাই রিযক নিশ্চিত করে।"
           }
         ]
       },
       {
         "h": {
           "en": "All in a Clear Register",
-          "bn": "সবই সুস্পষ্ট লিপিকায়"
+          "bn": "সবই সুস্পষ্ট কিতাবে লেখা"
         },
         "p": [
           {
             "en": "The verse ends by filing everything away: kullun fi kitabin mubin, all of it in a clear register. 6:59 uses the same closing phrase after naming the falling leaf and the grain buried in the darknesses of the earth, and the commentators identify the register with al-Lawh al-Mahfuz. A guarantee spoken is one thing; a guarantee written down is another. The verse moves your portion from a promise in the air to an entry in a record that loses nothing.",
-            "bn": "আয়াতটি শেষ হয় সবকিছু নথিভুক্ত করে দিয়ে: কুল্লুন ফী কিতাবিম মুবীন — সবই সুস্পষ্ট লিপিকায়। 6:59-এ ঝরে পড়া পাতা আর যমীনের অন্ধকারে পুঁতে থাকা দানার উল্লেখের পরেও একই সমাপ্তি-বাক্য ব্যবহৃত হয়েছে, আর মুফাসসিরগণ এই লিপিকাকে আল-লাওহুল মাহফূয হিসেবে চিহ্নিত করেন। মুখে দেওয়া নিশ্চয়তা এক জিনিস, আর লিখে রাখা নিশ্চয়তা আরেক জিনিস। আয়াতটি আপনার অংশটিকে বাতাসে ভাসা প্রতিশ্রুতি থেকে সরিয়ে এমন এক নথির ভুক্তিতে নিয়ে যায়, যা কিছুই হারায় না।"
+            "bn": "আয়াত শেষ হয় সবকিছু লিখে রেখে: কুল্লুন ফী কিতাবিম মুবীন, সবই এক সুস্পষ্ট কিতাবে লেখা। ৬:৫৯ আয়াতেও ঝরে পড়া পাতা আর মাটির অন্ধকারে চাপা পড়া শস্যদানার কথা বলার পর এই একই কথায় শেষ। মুফাসসিরগণ বলেন, এই কিতাব হলো আল-লাওহুল মাহফূয। মুখে দেওয়া নিশ্চয়তা এক জিনিস, লিখে রাখা নিশ্চয়তা আরেক জিনিস। আয়াত আপনার ভাগটাকে বাতাসে ভাসা প্রতিশ্রুতি থেকে তুলে এনে এমন এক খাতায় লিখে দেয়, যেখান থেকে কিছুই হারায় না।"
           }
         ]
       },
@@ -173,11 +173,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The anxiety this addresses is a particular one, and it is not the fear that the world will run out. It is the fear of being overlooked — of being too small, too far off, too unimportant to be tracked at all. The verse answers exactly that: the creature under a stone is on the register, with its dwelling and its deposit both recorded. Nobody makes that list by being significant. They make it by existing.",
-            "bn": "এই আয়াত যে উদ্বেগের জবাব দেয় তা একটি বিশেষ উদ্বেগ, আর তা এই ভয় নয় যে পৃথিবীর সম্পদ ফুরিয়ে যাবে। এটি হলো উপেক্ষিত হওয়ার ভয় — নিজেকে এতটাই ছোট, এতটাই দূরের, এতটাই গুরুত্বহীন মনে করা যে কেউ হিসাবেই রাখবে না। আয়াতটি ঠিক সেটিরই জবাব দেয়: পাথরের নিচের প্রাণীটিও লিপিকায় আছে, তার থাকার জায়গা ও তার আমানতের জায়গা দুটোই লেখা আছে। গুরুত্বপূর্ণ হওয়ার কারণে কেউ সেই তালিকায় ওঠে না; ওঠে কেবল অস্তিত্বশীল হওয়ার কারণে।"
+            "bn": "এই আয়াত যে দুশ্চিন্তার জবাব দেয়, তা একটা বিশেষ দুশ্চিন্তা। দুনিয়ার সম্পদ ফুরিয়ে যাবে, সে ভয় নয়। এ হলো উপেক্ষিত হওয়ার ভয়: আমি এত ছোট, এত দূরের, এত তুচ্ছ যে আমার খোঁজই কেউ রাখবে না। আয়াত ঠিক এই ভয়েরই জবাব দেয়: পাথরের নিচের প্রাণীটিও সেই কিতাবে আছে, তার থাকার জায়গা আর গচ্ছিত থাকার জায়গা দুটোই লেখা। গুরুত্বপূর্ণ হয়ে কেউ এই তালিকায় ওঠে না। ওঠে কেবল আছে বলেই।"
           },
           {
             "en": "A guarantee is not delivery without effort, and this surah does not permit that reading. 11:3 has already tied a good provision to seeking forgiveness and turning back, and 11:123 closes the surah by telling the reader to worship Him and rely upon Him after saying that the whole matter returns to Him. The guaranteed portion still has to be walked out to and picked up. What the verse removes is not the work but the dread underneath it.",
-            "bn": "নিশ্চয়তার মানে চেষ্টা ছাড়াই পৌঁছে যাওয়া নয়, আর এই সূরা সেই পাঠের অনুমতি দেয় না। 11:3 আগেই উত্তম জীবনোপকরণকে ক্ষমা প্রার্থনা ও ফিরে আসার সঙ্গে বেঁধে দিয়েছে, আর 11:123 সূরাটি শেষ করে পাঠককে বলে — সমস্ত বিষয় তাঁর দিকেই ফিরে যায়, কাজেই তাঁর ইবাদত করো ও তাঁর ওপর ভরসা করো। নিশ্চিত করা অংশটির কাছে হেঁটে গিয়ে সেটি তুলে নিতেই হয়। আয়াতটি পরিশ্রমকে সরায় না, সরায় পরিশ্রমের নিচে জমে থাকা আতঙ্ককে।"
+            "bn": "নিশ্চয়তা মানে চেষ্টা ছাড়াই হাতে পৌঁছে যাওয়া নয়, আর এই সূরা সে অর্থ নেওয়ার সুযোগও দেয় না। ১১:৩ আয়াত আগেই উত্তম জীবনসামগ্রীকে বেঁধে দিয়েছে ক্ষমা চাওয়া আর ফিরে আসার সঙ্গে। আর ১১:১২৩ আয়াতে সূরা শেষ হয় এভাবে: সব বিষয় তাঁর কাছেই ফিরে যায়, কাজেই তাঁর ইবাদত করো আর তাঁর ওপর ভরসা রাখো। নিশ্চিত করে রাখা ভাগটার কাছেও হেঁটে গিয়ে তা তুলে নিতে হয়। আয়াত পরিশ্রম সরিয়ে দেয় না; সরিয়ে দেয় পরিশ্রমের নিচে চেপে থাকা আতঙ্ক।"
           }
         ]
       }
@@ -197,7 +197,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then the address changes hands, leaving the portrait of humanity to speak to one man about what is happening inside him. 11:13 answers the charge that he invented the Book by calling for ten fabricated surahs like it. 11:14 says that if no answer comes, then know it was sent down with the knowledge of Allah and that there is no deity except Him. The verse stands between a picture of human instability and a challenge nobody met.",
-            "bn": "তারপর সম্বোধনটা হাত বদল করে। মানুষের ছবি আঁকা থামিয়ে আয়াত কথা বলতে শুরু করে একজন মানুষের সঙ্গে, তাঁর ভেতরে যা ঘটছে তা নিয়ে। ১১:১৩ আয়াত 'সে নিজে বানিয়েছে' এই অভিযোগের জবাব দেয় এর মতো দশটি সূরা বানিয়ে আনার দাবি তুলে। ১১:১৪ আয়াত বলে, জবাব না এলে জেনে রাখ, এ নেমেছে আল্লাহর জ্ঞান অনুযায়ী, আর তিনি ছাড়া কোনো ইলাহ নেই। আয়াতটি দাঁড়িয়ে আছে মানুষের চঞ্চলতার ছবি আর এমন এক চ্যালেঞ্জের মাঝখানে, যার জবাব কেউ দেয়নি।"
+            "bn": "তারপর সম্বোধন বদলে যায়। গোটা মানুষ জাতির ছবি আঁকা থামিয়ে আয়াত কথা বলতে শুরু করে একজন মানুষের সঙ্গে, তাঁর ভেতরে যা ঘটছে তা নিয়ে। ১১:১৩ আয়াত 'সে নিজে বানিয়েছে' এই অভিযোগের জবাব দেয় এর মতো দশটি সূরা বানিয়ে আনার দাবি তুলে। ১১:১৪ আয়াত বলে, জবাব না এলে জেনে রাখ, এ নেমেছে আল্লাহর জ্ঞান অনুযায়ী, আর তিনি ছাড়া কোনো ইলাহ নেই। আয়াতটি দাঁড়িয়ে আছে মানুষের চঞ্চলতার ছবি আর এমন এক চ্যালেঞ্জের মাঝখানে, যার জবাব কেউ দেয়নি।"
           },
           {
             "en": "Two of the commentaries fetched open on the same idea. Ibn Kathir says Allah speaks here to console His Messenger ﷺ over the idolaters' obstinacy, and as-Sa'di opens with the same word, consoling His Prophet ﷺ over the denial of the deniers. The surah had already called him a warner and a bringer of good tidings in 11:2. Here only the first title is handed back, and Ma'arif al-Qur'an says why: the people in front of him were deniers.",
@@ -277,7 +277,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "One narration in this territory belongs to another verse. Al-Qurtubi brings 5:67 in here, the command to announce what was sent down. In Sahih al-Bukhari 4612, in the Book of Tafsir, Aisha (RA) said: whoever tells that Muhammad concealed part of what was revealed to him is a liar, for Allah says, O Apostle, proclaim the Message sent down to you from your Lord. It carries no grading beyond the collection al-Bukhari placed it in, and it attaches to 5:67, not 11:12.",
-            "bn": "এ এলাকায় একটি বর্ণনা আছে, তবে তা অন্য আয়াতের। কুরতুবী এখানে ৫:৬৭ আয়াত টেনে আনেন, নাযিল হওয়া কথা প্রচার করার সেই হুকুম। সহীহ বুখারী ৪৬১২, কিতাবুত তাফসীরে, আয়েশা (রাঃ) বলেছেন: যে বলে মুহাম্মাদ তাঁর কাছে নাযিল হওয়া কিছু গোপন করেছেন, সে মিথ্যাবাদী; কেননা আল্লাহ বলেন, হে রাসূল, তোমার প্রতিপালকের কাছ থেকে তোমার প্রতি যা নাযিল হয়েছে তা প্রচার কর। বুখারী নিজের কিতাবে রাখা ছাড়া এর আলাদা কোনো মান লেখেননি, আর কথাটি জুড়ে আছে ৫:৬৭ আয়াতের সঙ্গে, ১১:১২ আয়াতের সঙ্গে নয়।"
+            "bn": "এ প্রসঙ্গে একটি বর্ণনা আছে, তবে তা অন্য আয়াতের। কুরতুবী এখানে ৫:৬৭ আয়াত টেনে আনেন, যেখানে নাজিল হওয়া কথা প্রচার করার হুকুম। সহীহ বুখারী ৪৬১২-তে, কিতাবুত তাফসীরে, আয়েশা (রাঃ) বলেছেন: যে বলে মুহাম্মাদ তাঁর কাছে নাজিল হওয়া কিছু গোপন করেছেন, সে মিথ্যাবাদী; কেননা আল্লাহ বলেন, হে রাসূল, তোমার রবের কাছ থেকে তোমার প্রতি যা নাজিল হয়েছে তা প্রচার করো। বুখারী একে নিজের সংকলনে রেখেছেন, এর বাইরে এর আলাদা কোনো মান উল্লেখ নেই। আর কথাটি জুড়ে আছে ৫:৬৭ আয়াতের সঙ্গে, ১১:১২ আয়াতের সঙ্গে নয়।"
           }
         ]
       },
@@ -309,11 +309,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi's distinction is the part to carry. The constriction named here is the passing kind and not a settled narrowness, so the tightening in the chest is not itself what the verse corrects. What it corrects is what the tightening is permitted to do next. A believer may feel the room close in and still finish the sentence. The test is small: name one thing you softened last month because of who was listening, and say the unsoftened version to that person.",
-            "bn": "কুরতুবীর তফাতটাই এখান থেকে নিয়ে যাওয়ার মতো জিনিস। এখানে যে সংকোচনের কথা, তা আসা-যাওয়ার জিনিস, বসে যাওয়া সংকীর্ণতা নয়। কাজেই বুকের ওই চাপটাই আয়াতের শোধরানোর বিষয় নয়। আয়াত শোধরায় ওই চাপকে এরপর কী করতে দেওয়া হচ্ছে সেটা। ঘর চেপে আসছে টের পেয়েও একজন ঈমানদার কথাটা শেষ করতে পারেন। পরীক্ষাটা এ সপ্তাহেই চালানো যায়: গত মাসে কার সামনে ছিলেন বলে কোন কথাটা নরম করে বলেছিলেন তা ঠিক করুন, আর সেই মানুষটিকেই আসল কথাটা বলুন।"
+            "bn": "কুরতুবীর এই পার্থক্যটাই এখান থেকে সঙ্গে নিয়ে যাওয়ার জিনিস। এখানে যে সংকোচনের কথা, তা আসা-যাওয়ার জিনিস, বসে যাওয়া সংকীর্ণতা নয়। কাজেই বুকের ওই চাপটাই আয়াতের শোধরানোর বিষয় নয়। আয়াত শোধরায় অন্য জিনিস: চাপটাকে এরপর কী করতে দেওয়া হচ্ছে। ঘর চেপে আসছে টের পেয়েও একজন ঈমানদার কথাটা শেষ করতে পারেন। পরীক্ষাটা ছোট: গত মাসে কে শুনছিল বলে কোন একটা কথা নরম করে বলেছিলেন, তা খুঁজে বের করুন। তারপর সেই মানুষটিকেই নরম না করা আসল কথাটা বলুন।"
           },
           {
             "en": "The last two clauses take the weight off. Innama anta nadhir restricts the job, and al-Qurtubi glosses it as: all that is upon you is to warn them, not to bring them the signs they propose. At-Tabari has Allah say those signs are with Him, sent down when He wills. Then wakil: at-Tabari reads it as He who maintains everything and in whose hand its management lies, al-Baghawi and al-Qurtubi as guardian. The outcome is managed, and not by you.",
-            "bn": "শেষ দুই বাক্য বোঝাটা নামিয়ে দেয়। ইন্নামা আনতা নাযীর কাজের সীমা বেঁধে দেয়, আর কুরতুবী এর ব্যাখ্যায় বলেন, তোমার দায়িত্ব কেবল তাদের সতর্ক করা, ওরা যে নিদর্শন বায়না করছে তা এনে দেওয়া নয়। তাবারীর কথায় আল্লাহ বলছেন, ওই নিদর্শনগুলো তাঁরই কাছে, তিনি যখন চান তখনই নামান। এরপর ওয়াকীল, যাকে তাবারী পড়েন সব কিছুর রক্ষণাবেক্ষণকারী, যাঁর হাতে সবের পরিচালনা; আর বাগাভী ও কুরতুবী পড়েন হাফিজ, অর্থাৎ হেফাজতকারী। ফলাফলটা দেখাশোনার মধ্যেই আছে, তবে সেই দেখাশোনা আপনার হাতে নয়।"
+            "bn": "শেষ দুই বাক্য বোঝাটা নামিয়ে দেয়। ইন্নামা আনতা নাযীর কাজের সীমা বেঁধে দেয়, আর কুরতুবী এর ব্যাখ্যায় বলেন, তোমার দায়িত্ব কেবল তাদের সতর্ক করা, ওরা যে নিদর্শন বায়না করছে তা এনে দেওয়া নয়। তাবারীর কথায় আল্লাহ বলছেন, ওই নিদর্শনগুলো তাঁরই কাছে, তিনি যখন চান তখনই নামান। এরপর ওয়াকীল, যাকে তাবারী পড়েন সব কিছুর রক্ষণাবেক্ষণকারী, যাঁর হাতে সবের পরিচালনা; আর বাগাভী ও কুরতুবী পড়েন হাফিজ, অর্থাৎ হেফাজতকারী। ফলাফলের দেখভাল হচ্ছে ঠিকই, তবে তা আপনার হাতে নয়।"
           }
         ]
       },
@@ -401,7 +401,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari gives his own gloss first: al-ashhad means the angels and the prophets who witnessed them and preserved against them what they used to do, and it is the plural of shahid the way ashab is the plural of sahib. Then he lists the early authorities, and they do not all say the same thing. Mujahid: the angels. Al-A'mash, asked directly by Sufyan: the angels. Qatadah: the angels, who bear witness against the children of Adam by their deeds.",
-            "bn": "তাবারী প্রথমে নিজের ব্যাখ্যাটা দেন: আল-আশহাদ মানে ফেরেশতা আর নবীগণ, যাঁরা তাদের দেখেছেন এবং তাদের আমল হেফাজত করে রেখেছেন। শব্দটি শাহিদ-এর বহুবচন, যেমন আসহাব হল সাহিব-এর বহুবচন। এরপর তিনি পূর্বসূরিদের কথাগুলো সাজিয়ে দেন, আর সবাই এক কথা বলেন না। মুজাহিদ বলেন, ফেরেশতা। সুফিয়ান সরাসরি জিজ্ঞেস করলে আ'মাশও বলেন, ফেরেশতা। কাতাদাহ বলেন, ফেরেশতা, যাঁরা আদম সন্তানের আমলের ব্যাপারে তাদের বিরুদ্ধে সাক্ষ্য দেন।"
+            "bn": "তাবারী প্রথমে নিজের ব্যাখ্যাটা দেন: আল-আশহাদ মানে ফেরেশতা আর নবীগণ, যাঁরা তাদের কাজ দেখেছেন এবং তাদের বিরুদ্ধে সেগুলো সংরক্ষণ করে রেখেছেন। শব্দটি শাহিদ-এর বহুবচন, যেমন আসহাব হল সাহিব-এর বহুবচন। এরপর তিনি পূর্বসূরিদের কথাগুলো সাজিয়ে দেন, আর সবাই এক কথা বলেন না। মুজাহিদ বলেন, ফেরেশতা। সুফিয়ান সরাসরি জিজ্ঞেস করলে আ'মাশও বলেন, ফেরেশতা। কাতাদাহ বলেন, ফেরেশতা, যাঁরা আদম সন্তানের আমলের ব্যাপারে তাদের বিরুদ্ধে সাক্ষ্য দেন।"
           },
           {
             "en": "Ad-Dahhak read it differently: the prophets and the messengers. At-Tabari's report of him backs that with 16:89, the Day We raise from every nation a witness against them from among themselves; al-Qurtubi's report of the same position backs it with 4:41. Ad-Dahhak also supplies their words: our Lord, we brought them the truth and they denied it, so we bear witness that they lied against You. Ibn Jurayj kept to the record-keepers, those who preserved their deeds against them in the world.",
@@ -429,7 +429,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Bukhari gives no grading of his own. Two things in that report bear on the verse. The believer's reckoning is private, screened from the people while his sins are named; the public announcement carries this verse's own last words. At-Tabari's version reads 'ala ru'us al-ashhad, over the heads of the witnesses, where the verse's noun comes back; al-Qurtubi and al-Baghawi report 'ala ru'us al-khala'iq, over the heads of all creation. A hadith often tied to this verse in popular teaching, the banner raised for a treacherous man, is attached to it by no commentary read here, so it is left out.",
-            "bn": "বুখারী নিজের পক্ষ থেকে কোনো গ্রেডিং দেননি। এই রেওয়ায়েতের দুটি জিনিস সরাসরি আয়াতের গায়ে লাগে। মুমিনের হিসাব হয় আড়ালে, মানুষের চোখ থেকে ঢেকে রেখে, যদিও গুনাহগুলো নাম ধরেই বলা হয়। আর প্রকাশ্য ঘোষণাটি বহন করছে এই আয়াতেরই শেষ কথাগুলো। তাবারীর বর্ণনায় বাক্যটি আলা রুঊসিল আশহাদ, অর্থাৎ সাক্ষীদের মাথার উপর দিয়ে, আর এখানেই আয়াতের শব্দটি ফিরে আসে। কুরতুবী ও বাগাভী আনেন আলা রুঊসিল খালায়িক, সমস্ত সৃষ্টির মাথার উপর দিয়ে। বিশ্বাসঘাতকের জন্য ঝান্ডা তোলার যে হাদীসটি সাধারণত এ আয়াতের সঙ্গে জুড়ে দেওয়া হয়, এখানে দেখা কোনো তাফসীর তা জোড়েনি, তাই সেটি বাদ রাখা হল।"
+            "bn": "বুখারী নিজের পক্ষ থেকে এর আলাদা কোনো মান উল্লেখ করেননি। এই রেওয়ায়েতের দুটি জিনিস সরাসরি আয়াতের গায়ে লাগে। মুমিনের হিসাব হয় আড়ালে, মানুষের চোখ থেকে ঢেকে রেখে, যদিও গুনাহগুলো নাম ধরেই বলা হয়। আর প্রকাশ্য ঘোষণাটি বহন করছে এই আয়াতেরই শেষ কথাগুলো। তাবারীর বর্ণনায় বাক্যটি আলা রুঊসিল আশহাদ, অর্থাৎ সাক্ষীদের মাথার উপর দিয়ে, আর এখানেই আয়াতের শব্দটি ফিরে আসে। কুরতুবী ও বাগাভী আনেন আলা রুঊসিল খালায়িক, সমস্ত সৃষ্টির মাথার উপর দিয়ে। বিশ্বাসঘাতকের জন্য ঝান্ডা তোলার যে হাদিসটি সাধারণত এ আয়াতের সঙ্গে জুড়ে দেওয়া হয়, এখানে দেখা কোনো তাফসীর তা জোড়েনি, তাই সেটি বাদ রাখা হল।"
           }
         ]
       },
