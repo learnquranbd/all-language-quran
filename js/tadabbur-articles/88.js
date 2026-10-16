@@ -25,7 +25,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse names something and then holds it back. Nothing inside these words says what the Overwhelming is; the listener is given a title and a question, and waits. The verse that follows, 88:2, begins to describe faces on that Day, and it has its own entry. This article stays with this verse: what the commentators fetched for this verse say about the question, about the news and about the name al-ghashiya, and why the surah was heard so often in the Prophet's prayers ﷺ.",
-            "bn": "আয়াতটি একটা নাম বলে, তারপর থেমে যায়। আচ্ছন্নকারী আসলে কী, এই শব্দগুলোর ভেতরে তার কোনো বিবরণ নেই। শ্রোতার হাতে থাকে শুধু একটা নাম আর একটা প্রশ্ন, বাকিটার জন্য তাকে অপেক্ষা করতে হয়। পরের আয়াত, ৮৮:২, সেদিনের কিছু মুখের বর্ণনা শুরু করে। সে আয়াতের আলাদা আলোচনা আছে। এ লেখা থাকবে এ আয়াতের কাছেই। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, সেগুলো প্রশ্নটি নিয়ে, খবর শব্দটি নিয়ে আর আল-গাশিয়াহ নামটি নিয়ে কী বলে, আর নবী ﷺ-এর সালাতে কেন সূরাটি এত বেশি শোনা যেত, সেটাই দেখার বিষয়।"
+            "bn": "আয়াতটি একটা নাম বলে, তারপর থেমে যায়। আচ্ছন্নকারী আসলে কী, এই শব্দগুলোর ভেতরে তার কোনো বিবরণ নেই। শ্রোতার হাতে থাকে শুধু একটা নাম আর একটা প্রশ্ন, বাকিটার জন্য তাকে অপেক্ষা করতে হয়। পরের আয়াত ৮৮:২ সেদিনের কিছু মুখের বর্ণনা শুরু করে, তার আলোচনা আলাদা আছে। এ লেখা এ আয়াতেই থাকবে। দেখা হবে, এ আয়াতের জন্য খুঁজে আনা তাফসীরগুলো প্রশ্নটি, খবর শব্দটি আর আল-গাশিয়াহ নামটি নিয়ে কী বলে। আর দেখা হবে, নবী ﷺ-এর সালাতে সূরাটি কেন এত বেশি শোনা যেত।"
           }
         ]
       },
@@ -45,7 +45,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi records two further readings. Under 'it is said', hal ataka means: this was not part of your knowledge, nor of your people's. Ibn Abbas, he reports, said it had not come to him before in the detail given here. And al-Kalbi held that the words came out as a question to the Messenger ﷺ with the sense: if the news of the Overwhelming had not come to you, it has now come. The fetched texts thus give an affirmation, a question, and a question that answers itself. All are kept, and none is chosen here.",
-            "bn": "কুরতুবী আরও দুটি পাঠ উল্লেখ করেন। 'বলা হয়' কথাটি দিয়ে তিনি আনেন যে হাল আতাকার অর্থ: এ বিষয় তোমার জানা ছিল না, তোমার কওমেরও না। তিনি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এখানে যে বিস্তারিত বিবরণ এসেছে, সেভাবে খবরটা আগে তাঁর কাছে আসেনি। আর কালবীর মত হলো, কথাটা রাসূল ﷺ-এর প্রতি প্রশ্নের আকারে এসেছে, অর্থ এই: আচ্ছন্নকারীর খবর যদি তোমার কাছে না এসে থাকে, তবে এখন এসে গেল। দেখা তাফসীরগুলোতে তাই তিনটি রূপ মেলে: নিশ্চিত বিবৃতি, প্রশ্ন, আর এমন প্রশ্ন যা নিজেই নিজের উত্তর দেয়। সবগুলোই এখানে রাখা হলো, কোনোটিকে বেছে নেওয়া হয়নি।"
+            "bn": "কুরতুবী আরও দুটি পাঠ উল্লেখ করেন। প্রথমটি তিনি আনেন 'বলা হয়' দিয়ে: হাল আতাকার অর্থ, এ বিষয় তোমার জানা ছিল না, তোমার কওমেরও না। তিনি ইবন আব্বাস (রাঃ) থেকে বর্ণনা করেন, এখানে যত বিস্তারিতভাবে এসেছে, খবরটা আগে সেভাবে তাঁর কাছে আসেনি। আর কালবীর মত হলো, কথাটা রাসূল ﷺ-এর প্রতি প্রশ্নের আকারে এসেছে, অর্থ এই: আচ্ছন্নকারীর খবর যদি তোমার কাছে না এসে থাকে, তবে এখন এসে গেল। দেখা তাফসীরগুলোতে তাহলে তিনটি রূপ মেলে: নিশ্চিত ঘোষণা, প্রশ্ন, আর এমন প্রশ্ন যা নিজেই নিজের উত্তর। তিনটিই এখানে রাখা হলো, কোনোটিকে বেছে নেওয়া হলো না।"
           }
         ]
       },
@@ -57,11 +57,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The third word is hadith. A reader who knows it mainly as the name for reports of the Prophet ﷺ should hear it here in the plain sense at-Tabari gives: hadithu al-ghashiya, ya'ni qissatuha wa khabaruha, that is, its story and its report. The Muyassar puts khabar, report, in its place in a plain paraphrase. Al-Baghawi keeps the word hadith as it stands and adds only what the news is about, the Resurrection. The question, then, is whether an account has reached the one addressed.",
-            "bn": "তৃতীয় শব্দ হাদীস। নবী ﷺ-এর বাণীর বর্ণনা হিসেবেই শব্দটা আমাদের বেশি চেনা। কিন্তু এখানে তাবারী এর সাধারণ অর্থটা দেন: হাদীসুল গাশিয়াহ, ইয়া'নী কিসসাতুহা ওয়া খাবারুহা, অর্থাৎ তার কাহিনি ও তার খবর। মুয়াসসার সহজ ভাষায় অর্থ করতে গিয়ে শব্দটির জায়গায় খাবার, মানে খবর, বসিয়েছে। বাগাভী হাদীস শব্দটি যেমন আছে তেমনই রাখেন, শুধু জুড়ে দেন খবরটা কিসের, কিয়ামতের। প্রশ্নটা তাহলে এই: একটা বৃত্তান্ত কি যাকে বলা হচ্ছে তার কাছে পৌঁছেছে?"
+            "bn": "তৃতীয় শব্দ হাদিস। নবী ﷺ-এর বাণীর বর্ণনা হিসেবেই শব্দটা আমাদের বেশি চেনা। কিন্তু এখানে তাবারী এর সাধারণ অর্থটা দেন: হাদিসুল গাশিয়াহ, ইয়া'নী কিসসাতুহা ওয়া খাবারুহা, অর্থাৎ তার কাহিনি ও তার খবর। মুয়াসসার সহজ ভাষায় অর্থ করতে গিয়ে শব্দটির জায়গায় খাবার, মানে খবর, বসিয়েছে। বাগাভী হাদিস শব্দটি যেমন আছে তেমনই রাখেন, শুধু জুড়ে দেন খবরটা কিসের, কিয়ামতের। তাহলে প্রশ্নটা হলো: যাকে সম্বোধন করা হচ্ছে, ঘটনার বিবরণ কি তার কাছে পৌঁছেছে?"
           },
           {
             "en": "A report is about something the hearer has not seen. It is believed or doubted on the strength of whoever brings it, and this one comes from Allah to His Messenger ﷺ. As-Sa'di does not stop on the single word. He reads the verse as the opening of a description: Allah mentions the states of the Day of Resurrection and its overwhelming terrors, how it covers all creatures with its hardships, how they are repaid for their deeds, and how they are separated into two groups, a group in the Garden and a group in the Blaze.",
-            "bn": "খবর মানে এমন কিছুর বিবরণ, যা শ্রোতা নিজের চোখে দেখেনি। খবর বিশ্বাস হবে কি না, তা নির্ভর করে কে এনেছে তার উপর। আর এ খবর আল্লাহর কাছ থেকে তাঁর রাসূল ﷺ-এর কাছে এসেছে। সা'দী একটি শব্দে থামেন না। তিনি আয়াতটিকে এক বিবরণের সূচনা হিসেবে পড়েন। আল্লাহ এখানে কিয়ামতের দিনের অবস্থা আর তার প্রচণ্ড বিভীষিকার কথা বলছেন। সেদিন সব সৃষ্টিকে তার কাঠিন্য ঢেকে ফেলবে, মানুষ তাদের আমলের প্রতিদান পাবে, আর তারা ভাগ হয়ে যাবে দুই দলে: একদল জান্নাতে, একদল জ্বলন্ত আগুনে।"
+            "bn": "খবর মানে এমন কিছুর বিবরণ, যা শ্রোতা নিজের চোখে দেখেনি। খবরটা বিশ্বাস করা হবে, না সন্দেহ, তা নির্ভর করে খবরটা কে আনল তার উপর। আর এ খবর এসেছে আল্লাহর কাছ থেকে, তাঁর রাসূল ﷺ-এর কাছে। সা'দী একটি শব্দ নিয়ে আটকে থাকেন না। তিনি আয়াতটিকে পড়েন এক বিবরণের শুরু হিসেবে: আল্লাহ এখানে কিয়ামতের দিনের অবস্থা আর তার প্রচণ্ড বিভীষিকার কথা বলছেন। সেদিনের কাঠিন্য সব সৃষ্টিকে ঢেকে ফেলবে, মানুষ নিজের আমলের প্রতিদান পাবে, আর সবাই ভাগ হয়ে যাবে দুই দলে: একদল জান্নাতে, একদল জ্বলন্ত আগুনে।"
           }
         ]
       },
@@ -73,15 +73,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-ghashiya is the one that covers, comes down over, envelops. The fetched commentators name two things it may be, and give several ways of putting each. The first, and the most widely held, is the Day of Resurrection. Ibn Kathir writes that al-ghashiya is one of the names of the Day of Resurrection, citing Ibn Abbas, Qatada and Ibn Zayd, because it covers the people and takes them all in: taghsha an-nas wa ta'ummuhum. Al-Qurtubi says this is the view of most of the commentators.",
-            "bn": "আল-গাশিয়াহ মানে যা ঢেকে দেয়, উপর থেকে নেমে এসে ঘিরে ফেলে। দেখা তাফসীরগুলো এর দুটি অর্থ বলে, আর প্রতিটির কয়েক রকম বর্ণনা দেয়। প্রথম অর্থ, যা সবচেয়ে বেশি প্রচলিত, কিয়ামতের দিন। ইবন কাসীর লেখেন, আল-গাশিয়াহ কিয়ামতের দিনের নামগুলোর একটি। এ কথা তিনি ইবন আব্বাস (রাঃ), কাতাদা ও ইবন যায়দের সূত্রে আনেন। কারণ সেদিন মানুষকে ঢেকে ফেলবে, সবাইকে একসঙ্গে ঘিরে নেবে: তাগশান নাসা ওয়া তাউম্মুহুম। কুরতুবী বলেন, অধিকাংশ তাফসীরকারের মত এটাই।"
+            "bn": "আল-গাশিয়াহ মানে যা ঢেকে দেয়, উপর থেকে নেমে এসে ঘিরে ফেলে। দেখা তাফসীরগুলো এর দুটি অর্থ বলে, আর প্রতিটি কয়েকভাবে প্রকাশ করে। প্রথমটি কিয়ামতের দিন, আর এ মতই সবচেয়ে বেশি প্রচলিত। ইবন কাসীর লেখেন, আল-গাশিয়াহ কিয়ামতের দিনের নামগুলোর একটি; এ কথা তিনি আনেন ইবন আব্বাস (রাঃ), কাতাদা ও ইবন যায়দের সূত্রে। নামটির কারণ, সেদিন মানুষকে ঢেকে ফেলবে, সবাইকে একসঙ্গে ঘিরে নেবে: তাগশান নাসা ওয়া তাউম্মুহুম। কুরতুবী বলেন, অধিকাংশ তাফসীরকারের মত এটাই।"
           },
           {
             "en": "At-Tabari begins by saying the people of interpretation differed over the meaning of al-ghashiya. His first group holds that it is the Resurrection, which covers people with terrors. He gives Ibn Abbas: al-ghashiya is one of the names of the Day of Resurrection, which Allah made great and warned His servants of. He gives Qatada, briefly: al-ghashiya is the Hour, as-sa'a. And through a second chain to Ibn Abbas he gives the same single word: the Hour.",
-            "bn": "তাবারী শুরুতেই বলেন, আল-গাশিয়াহর অর্থ নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। তাঁর বর্ণনায় প্রথম দলের মত: এটা কিয়ামত, যা মানুষকে বিভীষিকা দিয়ে ঢেকে দেবে। তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: আল-গাশিয়াহ কিয়ামতের দিনের নামগুলোর একটি। আল্লাহ সেদিনকে মহা গুরুত্ব দিয়েছেন আর তাঁর বান্দাদের সেদিন সম্পর্কে সতর্ক করেছেন। কাতাদার কথাও তিনি আনেন, সংক্ষেপে: আল-গাশিয়াহ হলো আস-সাআহ, অর্থাৎ সেই মহাক্ষণ। ইবন আব্বাস (রাঃ) পর্যন্ত আরেকটি সূত্রেও তিনি সেই একই এক শব্দের উত্তর দেন: সেই মহাক্ষণ।"
+            "bn": "তাবারী শুরুতেই বলেন, আল-গাশিয়াহর অর্থ নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। তাঁর বর্ণনায় প্রথম দলের মত: এটা কিয়ামত, যা মানুষকে বিভীষিকা দিয়ে ঢেকে দেবে। তিনি ইবন আব্বাস (রাঃ)-এর কথা আনেন: আল-গাশিয়াহ কিয়ামতের দিনের নামগুলোর একটি; আল্লাহ সে দিনকে মহান করে তুলে ধরেছেন আর তাঁর বান্দাদের সে দিন সম্পর্কে সাবধান করেছেন। কাতাদার কথাও আনেন, সংক্ষেপে: আল-গাশিয়াহ হলো আস-সাআহ, অর্থাৎ সেই মহাক্ষণ। আর ইবন আব্বাস (রাঃ) থেকে আরেকটি সনদেও তিনি একই এক শব্দের উত্তর আনেন: সেই মহাক্ষণ।"
           },
           {
             "en": "The shorter glosses agree on the Day and differ only on what it covers. Al-Qurtubi has the Resurrection covering all creatures with its terrors and its alarms, bi-ahwaliha wa afza'iha. Al-Baghawi has it covering everything with terrors. The Muyassar has it covering the people with its terrors. People, creatures, everything: the object widens from text to text, but each describes the same Day arriving over all who meet it.",
-            "bn": "ছোট ব্যাখ্যাগুলো দিনটির ব্যাপারে একমত, পার্থক্য শুধু সে কাকে ঢেকে ফেলে তাতে। কুরতুবীর ভাষায়, কিয়ামত সব সৃষ্টিকে ঢেকে ফেলবে তার বিভীষিকা আর আতঙ্ক দিয়ে: বি-আহওয়ালিহা ওয়া আফযাইহা। বাগাভী বলেন, সে বিভীষিকা দিয়ে সবকিছু ঢেকে ফেলবে। মুয়াসসার বলে, সে মানুষকে ঢেকে ফেলবে তার বিভীষিকা দিয়ে। মানুষ, সৃষ্টিকুল, সবকিছু: এক তাফসীর থেকে আরেক তাফসীরে পরিধি বাড়তে থাকে। তবু সবাই একই দিনের কথা বলেন, যা যাদের উপর আসবে তাদের সবাইকে ঘিরে ফেলবে, কেউ তার বাইরে থাকবে না।"
+            "bn": "ছোট ব্যাখ্যাগুলো দিনটির ব্যাপারে একমত, পার্থক্য শুধু সে কাকে ঢেকে ফেলে তাতে। কুরতুবীর ভাষায়, কিয়ামত সব সৃষ্টিকে ঢেকে ফেলবে তার বিভীষিকা আর আতঙ্ক দিয়ে: বি-আহওয়ালিহা ওয়া আফযাইহা। বাগাভী বলেন, সে বিভীষিকা দিয়ে সবকিছু ঢেকে ফেলবে। মুয়াসসার বলে, সে মানুষকে ঢেকে ফেলবে তার বিভীষিকা দিয়ে। মানুষ, সৃষ্টিকুল, সবকিছু: এক তাফসীর থেকে আরেক তাফসীরে পরিধি বাড়তে থাকে। তবু সবাই একই দিনের কথা বলেন, যে দিন যাদের সামনে আসবে, তাদের সবাইকে ঘিরে ফেলবে।"
           }
         ]
       },
@@ -97,7 +97,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Abbas therefore stands behind both readings in the fetched texts. At-Tabari has him on the Day of Resurrection and on the Hour; al-Qurtubi's report through Abu Salih has him on the Fire. At-Tabari sets out the two readings as a difference among the people of interpretation, and al-Qurtubi records both. The article does not weigh the chains against each other. It reports each as the commentator gives it, with his name attached.",
-            "bn": "দেখা তাফসীরগুলোতে তাই দুই পাঠের পেছনেই ইবন আব্বাস (রাঃ)-এর নাম আছে। তাবারীর বর্ণনায় তিনি কিয়ামতের দিন আর সেই মহাক্ষণের কথা বলেছেন। কুরতুবীর আনা আবু সালিহের বর্ণনায় তিনি বলেছেন আগুনের কথা। তাবারী দুটি পাঠকে তাফসীরকারদের মতভেদ হিসেবে সাজিয়েছেন, আর কুরতুবী দুটিই উল্লেখ করেছেন। এ লেখা বর্ণনাসূত্রগুলোর একটিকে আরেকটির চেয়ে ভারী বলছে না। যিনি যেভাবে এনেছেন, তাঁর নাম সহ সেভাবেই রাখা হলো।"
+            "bn": "দেখা তাফসীরগুলোতে তাই দুই পাঠের পেছনেই ইবন আব্বাস (রাঃ)-এর নাম আছে। তাবারীর বর্ণনায় তিনি কিয়ামতের দিন আর সেই মহাক্ষণের কথা বলেছেন। কুরতুবীর আনা আবু সালিহের বর্ণনায় তিনি বলেছেন আগুনের কথা। তাবারী দুটি পাঠকে তাফসীরকারদের মতভেদ হিসেবে সাজিয়েছেন, আর কুরতুবী দুটিই উল্লেখ করেছেন। এ লেখা সনদগুলো মেপে কোনোটিকে অন্যটির উপরে রাখছে না। যে তাফসীরকার যেভাবে এনেছেন, তাঁর নামসহ সেভাবেই রাখা হলো।"
           },
           {
             "en": "Al-Qurtubi adds three more readings, each under 'it is said'. One: it covers creation. Another: what is meant is the second blowing, for the raising of the dead, because it covers all creatures. A third reverses the direction of the verb: al-ghashiya are the people of the Fire, who come down upon it, yaghshawnaha, and plunge into it. On that reading the covering is done to the Fire by those who enter it, rather than done by the Fire to them.",
@@ -108,16 +108,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Kept as Wide as Revealed",
-          "bn": "যতটা প্রশস্ত, ততটাই রাখা"
+          "bn": "যতটা ব্যাপক নাজিল, ততটাই রাখা"
         },
         "p": [
           {
             "en": "At-Tabari closes the difference with a judgement of his own. The right thing to say, he writes, is that Allah said to His Prophet ﷺ hal ataka hadithu al-ghashiya and did not tell us whether He meant the covering of the Resurrection or the covering of the Fire. Both are a ghashiya. The one covers people with trial, terrors and distress; the other covers the disbelievers with scorching of the face, with flame and with molten brass. So, he concludes, no statement is sounder than to say as Allah said, and to keep the report as general as He kept it.",
-            "bn": "মতভেদের শেষে তাবারী নিজের সিদ্ধান্ত জানান। তিনি লেখেন, সঠিক কথা হলো: আল্লাহ তাঁর নবী ﷺ-কে বলেছেন হাল আতাকা হাদীসুল গাশিয়াহ, কিন্তু আমাদের জানাননি তিনি কিয়ামতের আবরণ বুঝিয়েছেন, নাকি আগুনের আবরণ। দুটিই গাশিয়াহ। একটি মানুষকে ঢেকে ফেলে বিপদ, বিভীষিকা আর দুঃখকষ্ট দিয়ে। অন্যটি কাফিরদের ঢেকে ফেলে মুখ ঝলসানো তাপে, আগুনের শিখায় আর গলিত তামায়। তাই তাঁর উপসংহার, আল্লাহ যেভাবে বলেছেন সেভাবে বলার চেয়ে বিশুদ্ধ কোনো কথা নেই। আল্লাহ খবরটা যতটা ব্যাপক রেখেছেন, ততটা ব্যাপকই রাখতে হবে।"
+            "bn": "মতভেদের শেষে তাবারী নিজের সিদ্ধান্ত জানান। তিনি লেখেন, সঠিক কথা হলো: আল্লাহ তাঁর নবী ﷺ-কে বলেছেন হাল আতাকা হাদিসুল গাশিয়াহ, কিন্তু আমাদের জানাননি তিনি কিয়ামতের আবরণ বুঝিয়েছেন, নাকি আগুনের আবরণ। দুটিই গাশিয়াহ। একটি মানুষকে ঢেকে ফেলে বিপদ, বিভীষিকা আর দুঃখকষ্ট দিয়ে। অন্যটি কাফিরদের ঢেকে ফেলে মুখ ঝলসানো তাপে, আগুনের শিখায় আর গলিত তামায়। তাই তাঁর সিদ্ধান্ত: আল্লাহ যেভাবে বলেছেন, সেভাবে বলার চেয়ে সঠিক কথা আর নেই। আল্লাহ খবরটা যতটা ব্যাপক রেখেছেন, ততটা ব্যাপকই রাখতে হবে।"
           },
           {
             "en": "That is at-Tabari's own position, and it is reported here as his. It is not a ruling over the others: al-Qurtubi gives the Resurrection as the view of most commentators, the Muyassar and al-Baghawi write only the Resurrection, and as-Sa'di reads the passage as the states of that Day. Each gloss stays with its name. What at-Tabari's sentence offers a reader is a discipline rather than a verdict: where the revealed word is left wide, he declines to make it narrower than it was given.",
-            "bn": "এটা তাবারীর নিজস্ব অবস্থান, আর এখানে তাঁর নামেই তা উল্লেখ করা হলো। অন্যদের উপর এটা কোনো রায় নয়। কুরতুবী কিয়ামতকেই অধিকাংশের মত বলেছেন। মুয়াসসার আর বাগাভী শুধু কিয়ামতের কথাই লিখেছেন। সা'দী পুরো অংশটাকে সেই দিনের অবস্থার বর্ণনা হিসেবে পড়েছেন। প্রতিটি ব্যাখ্যা যার, তার নামেই থাকল। তাবারীর বাক্যটা পাঠককে কোনো রায় দেয় না, দেয় এক ধরনের সংযম। আল্লাহর বাণী যেখানে কোনো শব্দকে প্রশস্ত রেখেছে, তিনি সেটাকে তার চেয়ে সংকীর্ণ করতে রাজি নন।"
+            "bn": "এটা তাবারীর নিজস্ব অবস্থান, আর এখানে তাঁর নামেই তা উল্লেখ করা হলো। অন্যদের উপর এটা কোনো রায় নয়। কুরতুবী কিয়ামতকেই অধিকাংশের মত বলেছেন। মুয়াসসার আর বাগাভী শুধু কিয়ামতের কথাই লিখেছেন। সা'দী পুরো অংশটাকে সেই দিনের অবস্থার বর্ণনা হিসেবে পড়েছেন। প্রতিটি ব্যাখ্যা যার, তার নামেই থাকল। তাবারীর বাক্যটা পাঠককে কোনো রায় দেয় না, দেয় এক ধরনের সংযম। আল্লাহ যে শব্দ ব্যাপক রেখে নাজিল করেছেন, তাবারী তাকে তার চেয়ে সংকীর্ণ করতে রাজি নন।"
           }
         ]
       },
@@ -144,16 +144,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Has It Reached You?",
-          "bn": "তোমার কাছে কি পৌঁছেছে?"
+          "bn": "আপনার কাছে কি পৌঁছেছে?"
         },
         "p": [
           {
             "en": "None of the fetched commentators gives an occasion of revelation for this verse. What they give instead is a question and a range of answers, and the reader can take it personally without choosing among them. Has the news reached me? Al-Qurtubi's report from Ibn Abbas, that the news had not come before in this detail, describes what the surah does: it supplies the detail. Whoever has recited the surah has received the report. Whether it has arrived, in the sense of changing anything, is the part the verse leaves to the one who hears it.",
-            "bn": "দেখা তাফসীরগুলোর কোনোটিই এ আয়াতের নাযিলের কোনো উপলক্ষ উল্লেখ করেনি। তার বদলে তারা দিয়েছে একটা প্রশ্ন আর তার কয়েক রকম উত্তর। কোনোটিকে বেছে না নিয়েও পাঠক প্রশ্নটাকে নিজের করে নিতে পারেন: খবরটা কি আমার কাছে পৌঁছেছে? কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন, এই বিস্তারিত বিবরণে খবরটা আগে আসেনি। সূরাটি ঠিক সেই কাজটাই করে, বিবরণটা এনে দেয়। যে সূরাটি পড়েছে, খবর তার হাতে এসে গেছে। কিন্তু খবরটা সত্যিই পৌঁছাল কি না, মানে জীবনে কিছু বদলাল কি না, সে প্রশ্ন আয়াত শ্রোতার কাছেই রেখে দেয়।"
+            "bn": "দেখা তাফসীরগুলোর কোনোটিই এ আয়াত নাজিলের কোনো উপলক্ষ উল্লেখ করেনি। তার বদলে তারা দিয়েছে একটা প্রশ্ন আর তার কয়েক রকম উত্তর। কোনোটিকে বেছে না নিয়েও পাঠক প্রশ্নটাকে নিজের করে নিতে পারেন: খবরটা কি আমার কাছে পৌঁছেছে? কুরতুবী ইবন আব্বাস (রাঃ) থেকে আনেন, এই বিস্তারিত বিবরণে খবরটা আগে আসেনি। সূরাটি ঠিক সেই কাজটাই করে, বিবরণটা এনে দেয়। যিনি সূরাটি পড়েছেন, খবর তাঁর হাতে এসে গেছে। কিন্তু খবরটা সত্যিই পৌঁছাল কি না, মানে জীবনে কিছু বদলাল কি না, সে প্রশ্ন আয়াত শ্রোতার কাছেই রেখে দেয়।"
           },
           {
             "en": "Two cautions belong here. The verse names a Day that covers everyone, and the readings that mention the Fire over the faces of disbelievers describe what the text describes; they give no licence to assign any living person to either group. And the question is not a riddle to be solved before moving on. In the Prophet's practice ﷺ it came back on Fridays and on both Eids, and a reader can answer it each time in the sense al-Qurtubi and al-Baghawi read in it, with qad: it has come.",
-            "bn": "এখানে দুটি সতর্কতা দরকার। আয়াতটি এমন এক দিনের কথা বলে, যা সবাইকে ঢেকে ফেলবে। কাফিরদের মুখের উপর আগুনের কথা যে পাঠগুলোতে আছে, সেগুলো কেবল তা-ই বর্ণনা করে যা পাঠ্যে আছে। কোনো জীবিত মানুষকে এ দলে বা ও দলে ফেলার অনুমতি এ আয়াত কাউকে দেয় না। আর প্রশ্নটা এমন কোনো ধাঁধা নয়, যার সমাধান করে সামনে এগিয়ে যেতে হবে। নবী ﷺ-এর আমলে জুমায় আর দুই ঈদে প্রশ্নটা ফিরে ফিরে আসত। কুরতুবী ও বাগাভী কাদ শব্দ দিয়ে আয়াতটির যে অর্থ করেছেন, পাঠক প্রতিবার সেই অর্থেই উত্তর দিতে পারেন: এসে গেছে।"
+            "bn": "এখানে দুটি সতর্কতা দরকার। আয়াতটি এমন এক দিনের কথা বলে, যা সবাইকে ঢেকে ফেলবে। যে পাঠগুলোতে কাফিরদের মুখের উপর আগুনের কথা আছে, সেগুলো আয়াতের বর্ণনাটুকুই তুলে ধরে। কোনো জীবিত মানুষকে এ দলে বা ও দলে ফেলার অনুমতি সেগুলো কাউকে দেয় না। আর প্রশ্নটা এমন কোনো ধাঁধা নয়, যার সমাধান করে সামনে এগিয়ে যেতে হবে। নবী ﷺ-এর নিয়মিত আমলে জুমায় আর দুই ঈদে প্রশ্নটা বারবার ফিরে আসত। কুরতুবী ও বাগাভী কাদ শব্দ ধরে আয়াতটির যে অর্থ করেছেন, পাঠক প্রতিবার সেই অর্থে উত্তর দিতে পারেন: এসে গেছে।"
           }
         ]
       }
@@ -233,7 +233,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Set beside at-Tabari's in no furrow, the note makes a quiet pair. In this world a spring has to be found, a channel has to be cut, and water goes only where the ground lets it go. The commentators describe the spring of this verse in other terms: on the surface, free of a trench and, in as-Sa'di's words, directed at will. The page goes no further than their words. What that flowing is like belongs to the unseen, and the verse gives it three words.",
-            "bn": "তাবারীর 'কোনো খাদ ছাড়া' কথার পাশে রাখলে সা'দীর টীকার সঙ্গে একটা নিঃশব্দ জুটি তৈরি হয়। এই দুনিয়ায় ঝর্ণা আগে খুঁজে পেতে হয়, তারপর নালা কাটতে হয়। মাটি যেদিকে যেতে দেয়, পানি কেবল সেদিকেই যায়। এ আয়াতের ঝর্ণাকে তাফসীরকারেরা বর্ণনা করেন অন্যভাবে: মাটির উপর দিয়ে বয়, খাদের দরকার নেই, আর সা'দীর ভাষায় ইচ্ছেমতো ঘোরানো যায়। তাঁদের কথার বাইরে এ লেখা যাবে না। সেই প্রবাহ দেখতে কেমন, তা গায়েবের বিষয়। আয়াত তার জন্য দিয়েছে তিনটি শব্দ।"
+            "bn": "তাবারীর 'কোনো খাদ ছাড়া' কথাটির পাশে রাখলে সা'দীর টীকাটি তার সঙ্গে নিঃশব্দে জোড়া বাঁধে। এই দুনিয়ায় ঝর্ণা আগে খুঁজে পেতে হয়, তারপর নালা কাটতে হয়। মাটি যেদিকে যেতে দেয়, পানি কেবল সেদিকেই যায়। এ আয়াতের ঝর্ণাকে তাফসীরকারেরা বর্ণনা করেন অন্যভাবে: মাটির উপর দিয়ে বয়, খাদের দরকার নেই, আর সা'দীর ভাষায় ইচ্ছেমতো ঘোরানো যায়। তাঁদের কথার বাইরে এ লেখা যাবে না। সেই প্রবাহ দেখতে কেমন, তা গায়েবের বিষয়। আয়াত তার জন্য দিয়েছে তিনটি শব্দ।"
           }
         ]
       },
@@ -249,7 +249,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Both verses describe what the text describes: two outcomes on the Day the surah calls al-ghashiya. Neither licenses assigning any living person or community to either spring. The people of the Garden are named by their state, faces glad and content with their striving, not by any label a reader could fasten on a neighbour, and the other group is likewise described, not named. The passage speaks to the one reading it, about his or her own striving, and that is where its weight is meant to fall.",
-            "bn": "দুই আয়াতই বর্ণনা করে যা আয়াতে আছে: যে দিনকে সূরাটি আল-গাশিয়াহ বলেছে, সেদিনের দুই পরিণতি। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়কে এ দুই ঝর্ণার কোনো একটির সঙ্গে জুড়ে দেওয়ার অনুমতি কোনো আয়াতই দেয় না। জান্নাতবাসীদের পরিচয় এসেছে তাদের অবস্থা দিয়ে: আনন্দে উজ্জ্বল মুখ, নিজের চেষ্টায় সন্তুষ্ট। এমন কোনো তকমা দিয়ে নয়, যা পাঠক প্রতিবেশীর গায়ে লাগিয়ে দিতে পারেন। অন্য দলটিরও বর্ণনা আছে, নাম নেই। আয়াতগুলো কথা বলে পাঠকের সঙ্গে, তাঁর নিজের চেষ্টা নিয়ে। ভারটা পড়ার কথা সেখানেই।"
+            "bn": "দুই আয়াতেই আছে কেবল বর্ণনা: যে দিনকে সূরাটি আল-গাশিয়াহ বলেছে, সেদিনের দুই পরিণতির ছবি। জীবিত কোনো মানুষ বা সম্প্রদায়কে এ দুই ঝর্ণার কোনো একটির সঙ্গে জুড়ে দেওয়ার অনুমতি কোনো আয়াতই দেয় না। জান্নাতবাসীদের পরিচয় এসেছে তাদের অবস্থা দিয়ে: আনন্দে উজ্জ্বল মুখ, নিজের চেষ্টায় সন্তুষ্ট। এমন কোনো তকমা দিয়ে নয়, যা পাঠক প্রতিবেশীর গায়ে লাগিয়ে দিতে পারেন। অন্য দলেরও শুধু বর্ণনা আছে, নাম নেই। আয়াতগুলো কথা বলে পাঠকের সঙ্গে, তাঁর নিজের চেষ্টা নিয়ে। ভারটা পড়ার কথা সেখানেই।"
           }
         ]
       },
@@ -265,7 +265,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir closes those lines with one saying attributed to the Prophet ﷺ, which he carries through the chain of Ibn Abi Hatim from Abu Hurayrah. He gives it no grading, and it was not confirmed on a hadith page for this article, so it is left aside and nothing here rests on it. No fetched commentary attaches a graded hadith to this verse, and none gives an occasion of revelation for it. That is a correct outcome, not a gap waiting to be filled.",
-            "bn": "ইবন কাসীর এই কয়েক লাইন শেষ করেন নবী ﷺ-এর নামে বর্ণিত একটি কথা দিয়ে। কথাটি তিনি এনেছেন ইবন আবী হাতিমের সনদে, আবু হুরায়রা (রাঃ) থেকে। তিনি এর কোনো মান উল্লেখ করেননি। এ লেখার জন্য কোনো হাদীস-পাতায় তা যাচাইও করা যায়নি। তাই একে পাশে সরিয়ে রাখা হলো, এখানকার কোনো কথা এর উপর দাঁড়িয়ে নেই। এ আয়াতের সঙ্গে মান-উল্লেখসহ কোনো হাদীস দেখা তাফসীরগুলোর কোনোটিই জুড়ে দেয়নি। নাযিলের কোনো প্রেক্ষাপটও কেউ উল্লেখ করেননি। এটাই সঠিক ফল, কোনো ফাঁক নয় যা ভরাট করতে হবে।"
+            "bn": "ইবন কাসীর এই কয়েক লাইন শেষ করেন নবী ﷺ-এর নামে বর্ণিত একটি কথা দিয়ে। কথাটি তিনি এনেছেন ইবন আবী হাতিমের সনদে, আবু হুরায়রা (রাঃ) থেকে। তিনি এর কোনো মান উল্লেখ করেননি, আর এ লেখার জন্য কোনো হাদিসের পাতায় তা যাচাইও করা যায়নি। তাই একে পাশে সরিয়ে রাখা হলো, এখানকার কোনো কথা এর উপর দাঁড়িয়ে নেই। দেখা তাফসীরগুলোর কোনোটিই এ আয়াতের সঙ্গে মান উল্লেখ করা কোনো হাদিস জুড়ে দেয়নি, নাজিলের কোনো প্রেক্ষাপটও কেউ বলেননি। এটা কোনো ফাঁক নয় যে ভরাট করতে হবে; এটাই সঠিক ফল।"
           },
           {
             "en": "The restraint matters because the subject is the unseen. A reader may want more: where the water comes from, what it tastes like, where it runs. The commentators, who had studied far more than most readers ever will, chose to say little here, and the page follows them. What is written is what the verse and the fetched texts say. Anything beyond that would be description from imagination, and a promise of Allah is not the place to supply it.",
@@ -285,7 +285,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That link is where the verse turns towards the reader. Nobody reaches the spring by picturing it. What lies in a person's hands is the striving the passage names: the fast that leaves the mouth dry, the prayer kept when it was hard, the help given when it cost something. The passage does not set out a price for each blessing, and this page does not either. It only keeps the order the verses keep, with the striving first and the contentment after it.",
-            "bn": "এই বাঁধনেই আয়াতটি পাঠকের দিকে ফেরে। ঝর্ণার ছবি কল্পনা করে কেউ সেখানে পৌঁছায় না। মানুষের হাতে আছে সেই চেষ্টা, যার কথা আয়াতগুলো বলে। যে রোজায় গলা শুকিয়ে যায়, কষ্টের সময়েও যে নামাজ ছাড়া হয়নি, নিজের ক্ষতি মেনে নিয়ে যে সাহায্য করা হয়েছে। কোন নিয়ামতের বিনিময়ে কোন আমল, এমন কোনো দামের তালিকা আয়াতগুলো দেয় না, এ লেখাও দেবে না। শুধু আয়াতের ক্রমটা ধরে রাখে: আগে চেষ্টা, পরে সন্তুষ্টি।"
+            "bn": "এই বাঁধনেই আয়াতটি পাঠকের দিকে ফেরে। ঝর্ণার ছবি কল্পনা করে কেউ সেখানে পৌঁছায় না। মানুষের হাতে আছে সেই চেষ্টা, যার কথা আয়াতগুলো বলে: যে রোজায় মুখ শুকিয়ে যায়, কষ্টের সময়েও যে নামাজ ছাড়া হয়নি, নিজের কিছু খুইয়েও যে সাহায্য করা হয়েছে। কোন নিয়ামতের বিনিময়ে কোন আমল, এমন কোনো দামের তালিকা আয়াতগুলো দেয় না, এ লেখাও দেবে না। এ লেখা শুধু আয়াতের ক্রমটা ধরে রাখে: আগে চেষ্টা, তারপর সন্তুষ্টি।"
           }
         ]
       },
@@ -297,7 +297,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Most readers meet this verse with water close at hand. A tap runs, a bottle sits on the desk, and the glass is filled without a thought. The verse can sharpen the thanks owed for that ordinary water. A glass drunk with alhamdulillah can be one small act of the obedience the passage asks for, and a reminder that the water within reach is a gift from Allah, as is everything the verse promises in three words.",
-            "bn": "বেশিরভাগ পাঠক এ আয়াত পড়েন হাতের কাছে পানি রেখে। কল ঘোরালেই পানি পড়ে, টেবিলে বোতল রাখা থাকে, না ভেবেই গ্লাস ভরে নেওয়া হয়। আয়াতটি এই সাধারণ পানির জন্য শোকরকে আরও ধারালো করে দিতে পারে। আলহামদুলিল্লাহ বলে পান করা একটি গ্লাস হতে পারে সেই আনুগত্যের ছোট্ট একটা কাজ, যার কথা আয়াতগুলো বলে। মনেও করিয়ে দেয়, হাতের কাছের পানিটুকু আল্লাহর দান, ঠিক যেমন তিনটি শব্দে প্রতিশ্রুত সবকিছুই তাঁর দান।"
+            "bn": "বেশিরভাগ পাঠক এ আয়াত পড়েন হাতের কাছে পানি রেখে। কল খুললেই পানি পড়ে, টেবিলে বোতল রাখা থাকে, না ভেবেই গ্লাস ভরে নেওয়া হয়। এই সাধারণ পানির জন্য যে শোকর পাওনা, আয়াতটি তা আরও সজাগ করে দিতে পারে। আলহামদুলিল্লাহ বলে এক গ্লাস পানি পান করাও হতে পারে সেই আনুগত্যের একটা ছোট্ট আমল, যার কথা আয়াতগুলো বলে। সেই সঙ্গে মনে পড়ে, হাতের কাছের পানিটুকু আল্লাহর দান, ঠিক যেমন তিনটি শব্দে প্রতিশ্রুত সবকিছুই তাঁর দান।"
           },
           {
             "en": "Three practices follow from the page. Recite 88:8 to 88:12 slowly once, and pause on each fiha. When picturing the Garden, keep to what the verses say and leave the rest to Allah, who knows it. And choose one act of obedience this week that costs some effort, because that is the striving the passage ties to contentment. The spring is promised; the striving is the part placed in the reader's hands, today.",
@@ -317,11 +317,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Ghashiyah is Makkan and has twenty-six verses. It opens in 88:1 by asking whether the report of the Overwhelming has reached you, and then shows two sets of faces on that Day: the humbled and exhausted in 88:2-7, and the delighted in 88:8-16, whose description ends with carpets spread about. Everything so far is unseen. Then, with no transition at all, 88:17 turns the reader's head towards a camel.",
-            "bn": "সূরা আল-গাশিয়াহ মক্কী, আয়াত সংখ্যা ছাব্বিশ। 88:1 আয়াতে এটি শুরু হয় এই প্রশ্ন দিয়ে যে আচ্ছন্নকারী সেই ঘটনার সংবাদ তোমার কাছে পৌঁছেছে কি না, তারপর সেদিনের দুই ধরনের মুখ দেখায়: 88:2-7 আয়াতে অবনত ও ক্লান্ত মুখ, আর 88:8-16 আয়াতে আনন্দিত মুখ, যাদের বর্ণনা শেষ হয় বিছানো মখমলে। এ পর্যন্ত সবই অদৃশ্য। এরপর কোনো ভূমিকা ছাড়াই 88:17 আয়াত পাঠকের মাথা ঘুরিয়ে দেয় একটি উটের দিকে।"
+            "bn": "সূরা আল-গাশিয়াহ মক্কী, আয়াত ছাব্বিশটি। ৮৮:১ আয়াতে সূরাটি শুরু হয় একটি প্রশ্ন দিয়ে: আচ্ছন্নকারীর খবর কি আপনার কাছে পৌঁছেছে? তারপর সেদিনের দুই রকম মুখ দেখায়: ৮৮:২-৭ আয়াতে অবনত, ক্লান্ত মুখ; ৮৮:৮-১৬ আয়াতে আনন্দে উজ্জ্বল মুখ, যাদের বর্ণনা শেষ হয় চারদিকে বিছানো গালিচায়। এ পর্যন্ত সবই গায়েবের কথা। তারপর কোনো ভূমিকা ছাড়াই ৮৮:১৭ আয়াত পাঠকের দৃষ্টি ফিরিয়ে দেয় একটা উটের দিকে।"
           },
           {
             "en": "The move is an argument, not a change of subject. The people first addressed denied the Day because they had never seen one. The verses answer by pointing at four things they had seen every day of their lives and asking them to look again. Nothing new is offered. What is asked for is attention to what was already there, and the claim underneath is that the world already carries the evidence for the Day it will end in.",
-            "bn": "এই মোড় বিষয় বদল নয়, একটি যুক্তি। যাদের উদ্দেশে এটি প্রথম নাযিল হয়, তারা সেই দিনকে অস্বীকার করত কারণ তারা কখনো তা দেখেনি। আয়াতগুলো উত্তর দেয় এমন চারটি জিনিসের দিকে আঙুল তুলে, যা তারা জীবনের প্রতিটি দিন দেখেছে, আর বলে আবার তাকাও। নতুন কিছুই দেওয়া হচ্ছে না। যা চাওয়া হচ্ছে তা হলো যা ইতিমধ্যেই সামনে ছিল তার প্রতি মনোযোগ; আর এর নিচে দাবিটি হলো, যে দিনে জগৎ শেষ হবে তার প্রমাণ জগৎ নিজেই বহন করছে।"
+            "bn": "এই মোড় বিষয় বদল নয়, এটা একটা যুক্তি। যাদের প্রথম সম্বোধন করা হয়েছিল, তারা সেই দিনকে অস্বীকার করত, কারণ এমন দিন তারা কখনো দেখেনি। আয়াতগুলো তার জবাব দেয় এমন চারটি জিনিস দেখিয়ে, যা তারা জীবনের প্রতিটি দিন দেখে এসেছে। বলে, আবার তাকাও। নতুন কিছু দেওয়া হচ্ছে না। চাওয়া হচ্ছে শুধু মনোযোগ, যা আগে থেকেই সামনে ছিল তার দিকে। আর এর ভেতরের দাবিটা হলো: যে দিনে দুনিয়া শেষ হবে, সেই দিনের প্রমাণ দুনিয়া নিজেই বয়ে বেড়াচ্ছে।"
           }
         ]
       },
@@ -333,7 +333,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Afala yanzurun — do they then not look? The verb nazara, taken with the preposition ila, is the looking that dwells on a thing and considers it, not the passive registering that lets a familiar object pass unread. The reproach sits in the opening particle. It is not that they lacked the sight; it is that the sight was spent without ever being used, on animals they owned and a sky they slept under.",
-            "bn": "'আফালা ইয়ানযুরূন' — তবে কি তারা লক্ষ করে না? 'নাযারা' ক্রিয়াপদটি 'ইলা' অব্যয়ের সঙ্গে এলে বোঝায় সেই দেখা যা বস্তুটির ওপর থেমে থাকে ও চিন্তা করে, নিছক নিষ্ক্রিয় নজরে পড়া নয় — যে নজরে পরিচিত জিনিস অপঠিত থেকেই পাশ কাটিয়ে যায়। ভর্ৎসনাটি রয়েছে শুরুর অব্যয়ে। তাদের দৃষ্টিশক্তির অভাব ছিল না; বরং সেই দৃষ্টি ব্যয় হয়েছে অথচ কখনো কাজে লাগেনি — যে পশু তাদেরই ছিল আর যে আকাশের নিচে তারা ঘুমাত, তাদের ওপরই।"
+            "bn": "আফালা ইয়ানযুরূন: তারা কি তবে তাকিয়ে দেখে না? নাযারা ক্রিয়াটি ইলা অব্যয়ের সঙ্গে এলে এমন দেখা বোঝায়, যা কোনো জিনিসের উপর থেমে থাকে, তা নিয়ে ভাবে। শুধু চোখে পড়ে যাওয়া নয়, যে দেখায় চেনা জিনিস কিছু না বুঝিয়েই চোখের সামনে দিয়ে চলে যায়। তিরস্কারটা আছে শুরুর অব্যয়েই। তাদের চোখের অভাব ছিল না। অভাব ছিল সেই চোখ কাজে লাগানোর। নিজেদের পশু আর যে আকাশের নিচে তারা ঘুমাত, সেদিকে চোখ গেছে ঠিকই, কিন্তু সে দেখা কোনো কাজে আসেনি।"
           }
         ]
       },
@@ -345,11 +345,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Four things are named, one to a verse: the camels in 88:17, the sky in 88:18, the mountains in 88:19 and, last of all, the earth in 88:20 — each arriving in the same mould, kayfa, how, followed by a verb in the passive: khuliqat, created; rufi'at, raised; nusibat, set up; sutihat, spread out. Four times the question is put, and four times the doer of the action is left out of the clause.",
-            "bn": "চারটি জিনিসের নাম নেওয়া হয়েছে, প্রতিটি আয়াতে একটি করে: 88:17 আয়াতে উট, 88:18 আয়াতে আকাশ, 88:19 আয়াতে পর্বতমালা এবং 88:20 আয়াতে যমীন। প্রতিটি আসে একই ছাঁচে — 'কাইফা', অর্থাৎ কীভাবে, তারপর একটি কর্মবাচ্য ক্রিয়া: 'খুলিকাত' — সৃষ্টি করা হয়েছে; 'রুফিআত' — উঁচু করা হয়েছে; 'নুসিবাত' — স্থাপন করা হয়েছে; 'সুতিহাত' — বিছিয়ে দেওয়া হয়েছে। চারবার প্রশ্নটি রাখা হয়, আর চারবারই কাজটি যিনি করেছেন তাঁকে বাক্যের বাইরে রাখা হয়।"
+            "bn": "চারটি জিনিসের নাম এসেছে, প্রতি আয়াতে একটি: ৮৮:১৭ আয়াতে উট, ৮৮:১৮ আয়াতে আকাশ, ৮৮:১৯ আয়াতে পাহাড়, আর সবশেষে ৮৮:২০ আয়াতে যমীন। প্রতিটি আসে একই ছাঁচে: কাইফা, মানে কীভাবে, তারপর একটি কর্মবাচ্য ক্রিয়া। খুলিকাত, সৃষ্টি করা হয়েছে; রুফিআত, উঁচু করা হয়েছে; নুসিবাত, গেড়ে দেওয়া হয়েছে; সুতিহাত, বিছিয়ে দেওয়া হয়েছে। চারবার প্রশ্ন করা হয়, আর চারবারই কাজটি কে করেছেন, বাক্যে তাঁর নাম নেই।"
           },
           {
             "en": "That omission is the point. A passive verb states that something was done and declines to name who did it, so the listener has to supply the answer himself. And the question is kayfa, how, rather than what: the verses do not ask about the camel but about its making. The order also traces a single turn of the head — down at the mount beside you, up at the sky, across at the mountains, and down again at the ground under your feet.",
-            "bn": "এই বাদ দেওয়াটাই মূল কথা। কর্মবাচ্য ক্রিয়া বলে যে কাজটি করা হয়েছে, কিন্তু কে করেছে তা বলতে অস্বীকার করে; ফলে উত্তরটি শ্রোতাকেই জোগাতে হয়। আর প্রশ্নটি 'কী' নয়, 'কাইফা' — কীভাবে: আয়াতগুলো উট সম্পর্কে জিজ্ঞেস করে না, জিজ্ঞেস করে তার নির্মাণ সম্পর্কে। ক্রমটিও মাথার একটি পূর্ণ ঘূর্ণন এঁকে দেয় — পাশে দাঁড়ানো বাহনের দিকে নিচে, তারপর আকাশের দিকে ওপরে, তারপর পর্বতমালার দিকে আড়াআড়ি, আর তারপর আবার পায়ের নিচের মাটির দিকে নিচে।"
+            "bn": "এই বাদ দেওয়াটাই আসল কথা। কর্মবাচ্য ক্রিয়া জানায় কাজটা হয়েছে, কিন্তু কে করেছেন তা বলে না। ফলে উত্তরটা শ্রোতাকে নিজেকেই দিতে হয়। আর প্রশ্নটা 'কী' নয়, কাইফা, কীভাবে। আয়াতগুলো উট নিয়ে প্রশ্ন করে না, প্রশ্ন করে উটটি কীভাবে বানানো হলো তা নিয়ে। ক্রমটাও দৃষ্টিকে একবার পুরো ঘুরিয়ে আনে: প্রথমে নিচে, পাশে দাঁড়ানো বাহনের দিকে; তারপর উপরে, আকাশে; তারপর সামনে, পাহাড়ের দিকে; শেষে আবার নিচে, পায়ের তলার মাটিতে।"
           }
         ]
       },
@@ -361,11 +361,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators explain the first item by the audience. The camel was the Arab's transport, his wealth, his milk, his wool and his measure of a man's standing; there was nothing he saw more often or thought about less. So the sequence begins with the most familiar object in the listener's world rather than the rarest. No journey and no expertise is required to begin. The evidence was tethered outside the tent.",
-            "bn": "মুফাসসিরগণ প্রথম বস্তুটির ব্যাখ্যা দেন শ্রোতাদের দিয়ে। উট ছিল আরবের বাহন, তার সম্পদ, তার দুধ, তার পশম এবং মানুষের মর্যাদা মাপার মানদণ্ড; এর চেয়ে বেশি সে আর কিছু দেখত না, আবার এর চেয়ে কম সে আর কিছু নিয়ে ভাবতও না। তাই ক্রমটি শুরু হয় শ্রোতার জগতের বিরলতম বস্তু দিয়ে নয়, বরং সবচেয়ে পরিচিত বস্তু দিয়ে। শুরু করতে কোনো সফরও লাগে না, কোনো বিশেষজ্ঞতাও নয়। প্রমাণটি তাঁবুর বাইরেই বাঁধা ছিল।"
+            "bn": "মুফাসসিররা প্রথম জিনিসটির ব্যাখ্যা দেন শ্রোতাদের দিকে তাকিয়ে। উট ছিল আরবের বাহন, তার সম্পদ, তার দুধ আর পশমের উৎস, আর মানুষের মর্যাদা মাপার মাপকাঠি। এর চেয়ে বেশি সে আর কিছু দেখত না, অথচ এর চেয়ে কম আর কিছু নিয়ে ভাবত না। তাই তালিকা শুরু হয় শ্রোতার জগতের সবচেয়ে চেনা জিনিস দিয়ে, সবচেয়ে বিরল জিনিস দিয়ে নয়। শুরু করতে কোনো সফর লাগে না, কোনো বিশেষ জ্ঞানও না। প্রমাণ বাঁধা ছিল তাঁবুর বাইরেই।"
           },
           {
             "en": "The other three keep that character. The sky raised, the mountains set firm, the earth spread out: each is described exactly as it presents itself to a person standing in the open, which is what looking means. The verses do not hand out information the listener could not have gathered. They correct the way he was already gathering it, and the whole demand of the passage is that a familiar thing be seen once as made.",
-            "bn": "বাকি তিনটিও একই চরিত্র ধরে রাখে। উঁচু করা আকাশ, দৃঢ়ভাবে স্থাপিত পর্বতমালা, বিছিয়ে দেওয়া যমীন: প্রতিটির বর্ণনা ঠিক সেভাবেই, যেভাবে খোলা জায়গায় দাঁড়ানো একজন মানুষের কাছে তা ধরা দেয় — আর তাকানো বলতে সেটিই বোঝায়। আয়াতগুলো এমন তথ্য দেয় না যা শ্রোতা নিজে সংগ্রহ করতে পারত না। বরং সে যেভাবে ইতিমধ্যেই সংগ্রহ করছিল সেই ধরনটিকে শুধরে দেয়; আর গোটা অংশের দাবি একটিই — পরিচিত একটি জিনিসকে অন্তত একবার নির্মিত হিসেবে দেখা হোক।"
+            "bn": "বাকি তিনটিও একই ধাঁচের। উঁচু করা আকাশ, শক্ত করে গেড়ে দেওয়া পাহাড়, বিছিয়ে দেওয়া যমীন: খোলা জায়গায় দাঁড়ানো একজন মানুষের চোখে প্রতিটি যেমন ধরা দেয়, ঠিক তেমনভাবেই বর্ণনা এসেছে। তাকানো বলতে এটাই বোঝায়। শ্রোতা নিজে জানতে পারত না, এমন কোনো তথ্য আয়াতগুলো দেয় না। সে আগে থেকেই যেভাবে দেখে আসছিল, সেই দেখার ধরনটাকে শুধরে দেয়। গোটা অংশের দাবি একটাই: চেনা একটা জিনিসকে অন্তত একবার কারও বানানো জিনিস হিসেবে দেখা।"
           }
         ]
       },
@@ -377,23 +377,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The passage that follows sets the limits of the whole enterprise. 88:21 tells the Prophet ﷺ to remind, and says he is only a reminder; 88:22 adds that he is not a controller over them. Nobody can do the looking on another person's behalf. And the surah then closes the circle it opened with: 88:25 says that to Us is their return, and 88:26 that upon Us is their reckoning — which is the Overwhelming of the first verse, argued for by four ordinary sights.",
-            "bn": "এর পরের অংশটি গোটা কাজের সীমা নির্ধারণ করে দেয়। 88:21 আয়াত নবী ﷺ-কে উপদেশ দিতে বলে, আর বলে যে তিনি কেবল একজন উপদেশদাতা; 88:22 আয়াত যোগ করে যে তিনি তাদের ওপর জবরদস্তিকারী নন। কেউ অন্যের হয়ে তাকিয়ে দিতে পারে না। এরপর সূরাটি যে বৃত্ত দিয়ে শুরু হয়েছিল তা বন্ধ করে: 88:25 আয়াত বলে তাদের প্রত্যাবর্তন আমারই কাছে, আর 88:26 আয়াত বলে তাদের হিসাব নেওয়া আমারই কাজ — এটিই প্রথম আয়াতের সেই আচ্ছন্নকারী দিন, যার পক্ষে যুক্তি দিল চারটি সাধারণ দৃশ্য।"
+            "bn": "এর পরের আয়াতগুলো গোটা ব্যাপারটার সীমা টেনে দেয়। ৮৮:২১ আয়াতে আল্লাহ নবী ﷺ-কে উপদেশ দিতে বলেন, আর জানিয়ে দেন, তিনি তো কেবল একজন উপদেশদাতা। ৮৮:২২ আয়াত যোগ করে, তিনি তাদের উপর জবরদস্তিকারী নন। একজনের হয়ে আরেকজন তাকিয়ে দিতে পারে না। তারপর সূরাটি যেখান থেকে শুরু করেছিল, সেখানেই এসে বৃত্তটা পূর্ণ করে। ৮৮:২৫ আয়াত বলে, তাদের ফিরে আসা আমারই কাছে; ৮৮:২৬ আয়াত বলে, তাদের হিসাব নেওয়া আমারই দায়িত্ব। এটাই প্রথম আয়াতের সেই আচ্ছন্নকারী দিন, চারটি সাধারণ দৃশ্য যার পক্ষে যুক্তি হয়ে দাঁড়িয়েছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Turning It Into a Habit",
-          "bn": "একে অভ্যাসে পরিণত করা"
+          "bn": "দেখাটাকে অভ্যাস বানানো"
         },
         "p": [
           {
             "en": "Muslim narrates from an-Nu'man ibn Bashir (RA) that the Prophet ﷺ used to recite Surah al-A'la and Surah al-Ghashiyah in the two Eid prayers and in the Friday prayer. That means the largest regular gatherings of the community heard this fourfold command to look, over and over, in the middle of a normal week. It was never treated as an exercise for specialists.",
-            "bn": "মুসলিম নু'মান ইবনে বাশীর (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ দুই ঈদের নামাযে এবং জুমু'আর নামাযে সূরা আল-আ'লা ও সূরা আল-গাশিয়াহ পড়তেন। অর্থাৎ সম্প্রদায়ের সবচেয়ে বড় নিয়মিত সমাবেশগুলো একটি সাধারণ সপ্তাহের মাঝখানে বারবার শুনত তাকাবার এই চারমুখী নির্দেশ। একে কখনোই বিশেষজ্ঞদের অনুশীলন হিসেবে দেখা হয়নি।"
+            "bn": "মুসলিম নুমান ইবন বাশীর (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ দুই ঈদের নামাজে আর জুমার নামাজে সূরা আল-আ'লা ও সূরা আল-গাশিয়াহ পড়তেন। অর্থাৎ উম্মাহর সবচেয়ে বড় নিয়মিত জমায়েতগুলোতে মানুষ তাকিয়ে দেখার এই চার দফা আদেশ বারবার শুনত, তা-ও সাধারণ সপ্তাহের মাঝখানে। একে কখনো বিশেষজ্ঞদের অনুশীলন মনে করা হয়নি।"
           },
           {
             "en": "The same practice is described elsewhere. 3:190-191 gives it to those of understanding, who remember Allah standing, sitting and lying down and reflect on the creation of the heavens and the earth; 2:164 lists the materials again for a people who use reason. Al-Ghashiyah keeps the version anyone can start today, because it asks for only one thing at a time: pick a single ordinary sight, stay with it past the moment of recognition, and let the question be how it was made.",
-            "bn": "একই অনুশীলনের বর্ণনা অন্যত্রও আছে। 3:190-191 আয়াত এটি দেয় জ্ঞানবানদের, যারা দাঁড়িয়ে, বসে ও শুয়ে আল্লাহকে স্মরণ করে এবং আসমান ও যমীনের সৃষ্টি নিয়ে চিন্তা করে; 2:164 আয়াত বিবেকবান সম্প্রদায়ের জন্য সেই উপকরণগুলোই আবার সাজিয়ে দেয়। আল-গাশিয়াহ ধরে রাখে সেই সংস্করণটি, যা আজই যে কেউ শুরু করতে পারে, কারণ এটি একবারে একটির বেশি চায় না: একটি সাধারণ দৃশ্য বেছে নিন, চেনা হয়ে যাওয়ার মুহূর্তটির পরেও তার সঙ্গে থাকুন, আর প্রশ্নটি হোক — এটি কীভাবে বানানো হলো।"
+            "bn": "একই অনুশীলনের কথা অন্য জায়গায়ও আছে। ৩:১৯০-১৯১ আয়াত তা দিয়েছে বোধসম্পন্ন মানুষদের হাতে, যারা দাঁড়িয়ে, বসে ও শুয়ে আল্লাহর জিকির করে আর আসমান-যমীনের সৃষ্টি নিয়ে চিন্তা করে। ২:১৬৪ আয়াত বুদ্ধি খাটায় এমন লোকদের জন্য সেই উপকরণগুলো আবার গুনে দেখায়। আল-গাশিয়াহ রেখেছে এমন রূপটি, যা আজই যে কেউ শুরু করতে পারেন, কারণ এখানে একবারে একটাই জিনিস চাওয়া হয়। একটা সাধারণ দৃশ্য বেছে নিন। চিনে ফেলার মুহূর্তটা পেরিয়েও তার সঙ্গে খানিক থাকুন। আর প্রশ্নটা হোক: এটা কীভাবে বানানো হলো?"
           }
         ]
       }
