@@ -2177,7 +2177,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The second half of the verse is the confession itself: inna kunna khati'in, indeed we were sinners. Al-Baghawi glosses khati'in with a single word, mudhnibin, people who sinned. At-Tabari explains it as in what we did to him, and then puts a sentence in their mouths: so we have confessed our sins. As-Sa'di opens his comment with the same idea, that they acknowledged their sin, and adds the words where we did to you what we did.",
-            "bn": "আয়াতের দ্বিতীয় অর্ধেকই স্বীকারোক্তি: ইন্না কুন্না খাতিঈন, নিশ্চয়ই আমরা ছিলাম অপরাধী। বাগাভী খাতিঈন শব্দের অর্থ দেন একটি শব্দে: মুযনিবীন, গুনাহগার। তাবারী ব্যাখ্যা করেন, অর্থাৎ তাঁর সঙ্গে আমরা যা করেছি তাতে। তারপর তাদের মুখে একটি বাক্য বসিয়ে দেন: আমরা তো আমাদের গুনাহ স্বীকার করে নিলাম। সা'দীও তাঁর আলোচনা শুরু করেন একই কথায়, তারা নিজেদের গুনাহ মেনে নিয়েছিল। সঙ্গে যোগ করেন তাদের মুখের কথা: আমরা আপনার সঙ্গে যা করার তা-ই করেছি।"
+            "bn": "আয়াতের দ্বিতীয় অর্ধেকই স্বীকারোক্তি: ইন্না কুন্না খাতিঈন, নিশ্চয়ই আমরা ছিলাম অপরাধী। বাগাভী খাতিঈন শব্দের অর্থ দেন একটি শব্দে: মুযনিবীন, গুনাহগার। তাবারী ব্যাখ্যা করেন, অর্থাৎ তাঁর সঙ্গে আমরা যা করেছি তাতে। তারপর তাদের মুখে একটি বাক্য বসিয়ে দেন: আমরা তো আমাদের গুনাহ স্বীকার করে নিলাম। সা'দীও তাঁর আলোচনা শুরু করেন একই কথায়, তারা নিজেদের গুনাহ মেনে নিয়েছিল। সঙ্গে যোগ করেন তাদের মুখের কথা: আপনার সঙ্গে আমরা যা করেছি, তাতে।"
           },
           {
             "en": "Notice what the sentence leaves out. It has no but in it: no word about the complaint of 12:8, that Yusuf and his brother were dearer to their father, and none about the long years since the well. The Muyassar names the wrong as what they did to Yusuf and his brother, and the verse names no cause at all. An admission with a reason attached tends to become a defence. Here it stays an admission.",
@@ -2197,15 +2197,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi does not leave the point inside the story. He says, in his own voice, that the ruling holds for anyone who has harmed a Muslim unjustly, in his person, his property or anything else: he must seek that person's release, and tell him of the wrong and its extent. Whether a general release is enough, a vague please forgive me for anything, he notes is disputed, and he takes the view that it does not avail.",
-            "bn": "কুরতুবী কথাটাকে কাহিনির ভেতরে আটকে রাখেন না। তিনি নিজের ভাষ্যে বলেন, এ বিধান সেই সবার বেলায় খাটে, যে অন্যায়ভাবে কোনো মুসলিমকে কষ্ট দিয়েছে, তার জানে, মালে বা অন্য কিছুতে। তাকে অবশ্যই ওই মানুষটির কাছে দায়মুক্তি চাইতে হবে, আর অন্যায়টা কী ছিল এবং কতটুকু ছিল, তা তাকে জানাতে হবে। মোটা দাগে মাফ চাওয়া, অর্থাৎ 'যা কিছু করেছি মাফ করে দিও' বলা যথেষ্ট কি না, তা নিয়ে মতভেদ আছে বলে তিনি উল্লেখ করেন। তাঁর মতে সঠিক হলো, এতে কাজ হয় না।"
+            "bn": "কুরতুবী কথাটাকে কাহিনির ভেতরে আটকে রাখেন না। তিনি নিজের ভাষ্যে বলেন, এ বিধান এমন প্রত্যেকের বেলায় খাটে, যে অন্যায়ভাবে কোনো মুসলিমকে কষ্ট দিয়েছে, তার জানে, মালে বা অন্য কিছুতে। তাকে অবশ্যই ওই মানুষটির কাছে দায়মুক্তি চাইতে হবে, আর অন্যায়টা কী ছিল এবং কতটুকু ছিল, তা তাকে জানাতে হবে। মোটা দাগে মাফ চাওয়া, অর্থাৎ 'যা কিছু করেছি মাফ করে দিও' বলা যথেষ্ট কি না, তা নিয়ে মতভেদ আছে বলে তিনি উল্লেখ করেন। তাঁর মতে এতে কাজ হয় না।"
           },
           {
             "en": "His reason is practical. If the wronged person were told of a wrong of real size and weight, he might not be willing to release it; a blanket pardon, given without knowing, is not the same consent. Al-Qurtubi then brings a narration to the verse, citing Sahih al-Bukhari and others from Abu Hurayrah (RA). Al-Bukhari records it at number 2449, and the wording quoted below is his, from the page consulted.",
-            "bn": "তাঁর যুক্তিটা বাস্তব। মজলুমকে যদি জানানো হয় অন্যায়টা আসলে কত বড়, কত ভারী, তাহলে সে হয়তো মাফ করতে রাজি হবে না। না জেনে দেওয়া ঢালাও মাফ তাই এক জিনিস নয়। এরপর কুরতুবী আয়াতের আলোচনায় একটি হাদীস আনেন। সূত্র হিসেবে বলেন সহীহ বুখারী ও অন্যান্য গ্রন্থের কথা, বর্ণনাকারী আবু হুরায়রা (রাঃ)। বুখারী হাদীসটি এনেছেন ২৪৪৯ নম্বরে। নিচের শব্দগুলো বুখারীর বর্ণনা থেকে, যে পৃষ্ঠা দেখা হয়েছে সেখান থেকে নেওয়া।"
+            "bn": "তাঁর যুক্তিটা বাস্তব। মজলুমকে যদি জানানো হয় অন্যায়টা আসলে কত বড়, কত ভারী, তাহলে সে হয়তো মাফ করতে রাজি হবে না। তাই না জেনে ঢালাওভাবে মাফ করে দেওয়া আর জেনেশুনে রাজি হওয়া এক কথা নয়। এরপর কুরতুবী আয়াতের আলোচনায় একটি হাদিস আনেন। সূত্র হিসেবে বলেন সহীহ বুখারী ও অন্যান্য গ্রন্থের কথা, বর্ণনাকারী আবু হুরায়রা (রাঃ)। বুখারী হাদিসটি এনেছেন ২৪৪৯ নম্বরে। নিচের শব্দগুলো বুখারীর বর্ণনা থেকে, যে পৃষ্ঠা দেখা হয়েছে সেখান থেকে নেওয়া।"
           },
           {
             "en": "In al-Bukhari's wording, the Prophet ﷺ said: \"Whoever has oppressed another person concerning his reputation or anything else, he should beg him to forgive him before the Day of Resurrection when there will be no money (to compensate for wrong deeds), but if he has good deeds, those good deeds will be taken from him according to his oppression which he has done, and if he has no good deeds, the sins of the oppressed person will be loaded on him.\" Al-Qurtubi closes with al-Muhallab: taken according to his wrong means the wrong must be of known extent, pointed to and made clear.",
-            "bn": "বুখারীর বর্ণনায় নবী ﷺ বলেছেন: \"যে ব্যক্তি অন্য কারও উপর তার সম্মান বা অন্য কোনো বিষয়ে অন্যায় করেছে, সে যেন আজই তার কাছ থেকে দায়মুক্ত হয়ে নেয়, সেই দিন আসার আগে, যেদিন কোনো দীনার থাকবে না, দিরহামও থাকবে না। তার যদি নেক আমল থাকে, তবে তার অন্যায়ের পরিমাণ অনুযায়ী তা থেকে নিয়ে নেওয়া হবে। আর তার যদি নেকি না থাকে, তবে মজলুমের গুনাহ থেকে নিয়ে তার উপর চাপিয়ে দেওয়া হবে।\" কুরতুবী শেষ করেন মুহাল্লাবের একটি কথা দিয়ে: 'অন্যায়ের পরিমাণ অনুযায়ী নেওয়া হবে' কথাটির দাবি হলো, অন্যায়টা পরিমাণে জানা থাকবে, চিহ্নিত থাকবে, স্পষ্ট থাকবে।"
+            "bn": "বুখারীর বর্ণনায় নবী ﷺ বলেছেন: \"যে ব্যক্তি অন্য কারও উপর তার সম্মান বা অন্য কোনো বিষয়ে অন্যায় করেছে, সে যেন কিয়ামতের সেই দিন আসার আগেই তার কাছে মাফ চেয়ে দায়মুক্ত হয়ে নেয়, যেদিন কোনো দীনার থাকবে না, দিরহামও থাকবে না। তার যদি নেক আমল থাকে, তবে তার অন্যায়ের পরিমাণ অনুযায়ী তা থেকে নিয়ে নেওয়া হবে। আর তার যদি নেকি না থাকে, তবে মজলুমের গুনাহ থেকে নিয়ে তার উপর চাপিয়ে দেওয়া হবে।\" কুরতুবী শেষ করেন মুহাল্লাবের একটি কথা দিয়ে: 'অন্যায়ের পরিমাণ অনুযায়ী নেওয়া হবে' কথাটির দাবি হলো, অন্যায়টা পরিমাণে জানা থাকবে, চিহ্নিত থাকবে, স্পষ্ট থাকবে।"
           }
         ]
       },
@@ -2241,7 +2241,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the questions are close to home. Is there a person I have wronged whom I have only mentioned to Allah? Could I go to them and name what I did, and how much it cost them, without a but attached? The brothers waited many years before they could say it. The verse suggests it is never too late to begin, and that the words can be few: I was in the wrong. Please ask forgiveness for me.",
-            "bn": "তাই প্রশ্নগুলো খুব কাছের। এমন কেউ কি আছে, যার উপর অন্যায় করেছি, অথচ তার কথা শুধু আল্লাহর কাছেই বলেছি? আমি কি তার কাছে গিয়ে বলতে পারি, ঠিক কী করেছিলাম আর তাতে তার কতটা ক্ষতি হয়েছিল, কোনো 'কিন্তু' না জুড়ে? ভাইদের কথাটা বলতে বহু বছর লেগেছিল। আয়াতটি বুঝিয়ে দেয়, শুরু করতে কখনো দেরি হয়ে যায় না, আর কথাও বেশি লাগে না: আমি অন্যায় করেছিলাম। আমাকে মাফ করুন, আমার জন্য ক্ষমা চেয়ে দিন।"
+            "bn": "তাই প্রশ্নগুলো খুব কাছের। এমন কেউ কি আছে, যার উপর অন্যায় করেছি, অথচ তার কথা শুধু আল্লাহর কাছেই বলেছি? আমি কি তার কাছে গিয়ে বলতে পারি, ঠিক কী করেছিলাম আর তাতে তার কতটা ক্ষতি হয়েছিল, কোনো 'কিন্তু' না জুড়ে? ভাইদের কথাটা বলতে বহু বছর লেগেছিল। আয়াতটি বুঝিয়ে দেয়, শুরু করতে কখনো দেরি হয়ে যায় না, আর কথাও বেশি লাগে না: আমি অন্যায় করেছিলাম। আমার জন্য ক্ষমা চেয়ে দিন।"
           }
         ]
       }
@@ -2257,11 +2257,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse before this one shows the scene. In 12:100 Yusuf (AS) raises his parents to the throne, his family falls down before him, and he tells his father that this is the fulfilment of the dream. In the same breath he lists what Allah did: brought him out of the prison, and brought them from the desert life after Shaytan had induced estrangement between him and his brothers.",
-            "bn": "ঠিক আগের আয়াতটি দৃশ্যটি দেখিয়ে দেয়। 12:100-এ ইউসুফ (আঃ) তাঁর পিতামাতাকে সিংহাসনে তুলে বসান, তাঁর পরিবার তাঁর সামনে নত হয়, আর তিনি পিতাকে বলেন, এটিই সেই স্বপ্নের বাস্তবায়ন। একই নিঃশ্বাসে তিনি তালিকা করেন আল্লাহ কী করেছেন: তাঁকে কারাগার থেকে বের করে এনেছেন, আর শয়তান তাঁর ও তাঁর ভাইদের মধ্যে বিচ্ছেদ ঘটানোর পরও তাঁদের মরুজীবন থেকে এখানে নিয়ে এসেছেন।"
+            "bn": "এর ঠিক আগের আয়াতে দৃশ্যটা দেখা যায়। ১২:১০০ আয়াতে ইউসুফ (আঃ) বাবা-মাকে সিংহাসনে তুলে বসান, পরিবারের সবাই তাঁর সামনে লুটিয়ে পড়ে, আর তিনি পিতাকে বলেন, এই তো সেই স্বপ্নের বাস্তব রূপ। একই সঙ্গে তিনি গুনে গুনে বলেন আল্লাহ কী কী করেছেন: তাঁকে কারাগার থেকে বের করে এনেছেন, আর শয়তান তাঁর ও ভাইদের মধ্যে বিভেদ ঘটানোর পরও সবাইকে মরুভূমির জীবন থেকে এখানে নিয়ে এসেছেন।"
           },
           {
             "en": "That is the moment 12:101 interrupts. Everything a person could want has just arrived at once: authority, vindication, reunion, an old grief resolved in public. And at exactly this point the speaker turns away from the room he is sitting in and addresses his Lord. Nothing forced the prayer; the circumstances were the opposite of desperate.",
-            "bn": "ঠিক এই মুহূর্তেই 12:101 এসে ছেদ টানে। একজন মানুষ যা যা চাইতে পারে, সবই একসঙ্গে এসে গেছে: কর্তৃত্ব, নির্দোষিতার স্বীকৃতি, পুনর্মিলন, আর বহু পুরোনো এক শোকের প্রকাশ্য মীমাংসা। আর ঠিক এই বিন্দুতেই বক্তা যে কক্ষে বসে আছেন সেখান থেকে মুখ ফিরিয়ে তাঁর প্রতিপালককে সম্বোধন করেন। কোনো কিছুই দোয়াটিকে বাধ্য করেনি; পরিস্থিতি ছিল মরিয়া অবস্থার ঠিক উল্টো।"
+            "bn": "ঠিক এই মুহূর্তে ১২:১০১ কথার ধারা থামিয়ে দেয়। মানুষ যা যা চাইতে পারে, সব একসঙ্গে এসে গেছে: ক্ষমতা, নির্দোষ প্রমাণিত হওয়া, প্রিয়জনদের ফিরে পাওয়া, আর বহু পুরোনো এক শোকের সবার সামনে অবসান। ঠিক তখনই, যে কক্ষে বসে আছেন সেদিক থেকে মুখ ফিরিয়ে তিনি তাঁর রবকে ডাকেন। কোনো বিপদ তাঁকে এ দোয়ায় ঠেলে দেয়নি। অবস্থা ছিল মরিয়া হওয়ার ঠিক উল্টো।"
           }
         ]
       },
@@ -2273,11 +2273,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "He opens with two acknowledgements rather than a petition: qad ataytani min al-mulk, You have given me of sovereignty, and 'allamtani min ta'wil al-ahadith, and taught me of the interpretation of accounts. The partitive min sits in both. A man governing Egypt says he was given some of kingship, and a man famous for reading dreams says he was taught some of that reading.",
-            "bn": "তিনি শুরু করেন কোনো আবেদন দিয়ে নয়, দুটি স্বীকৃতি দিয়ে: কাদ আতাইতানী মিনাল মুলক — তুমি আমাকে রাজত্বের কিছু দান করেছ; আর আল্লামতানী মিন তা'ঊলিল আহাদীস — আর আমাকে বৃত্তান্তের ব্যাখ্যার কিছু শিখিয়েছ। অংশবাচক 'মিন' দুটিতেই বসে আছে। মিসর শাসন করা একজন মানুষ বলছেন তাঁকে রাজত্বের কিছুটা দেওয়া হয়েছে, আর স্বপ্নের ব্যাখ্যায় খ্যাত একজন বলছেন তাঁকে সেই ব্যাখ্যার কিছুটা শেখানো হয়েছে।"
+            "bn": "তিনি শুরু করেন কিছু চেয়ে নয়, দুটি স্বীকারোক্তি দিয়ে। কাদ আতাইতানী মিনাল মুলক: আপনি আমাকে রাজত্বের কিছু অংশ দিয়েছেন। ওয়া আল্লামতানী মিন তা'বীলিল আহাদীস: আর আমাকে ঘটনাবলির ব্যাখ্যার কিছুটা শিখিয়েছেন। দুটিতেই আছে 'মিন', অর্থাৎ 'কিছু অংশ'। যিনি মিসর শাসন করছেন, তিনি বলছেন তাঁকে রাজত্বের কিছুটা দেওয়া হয়েছে। আর স্বপ্নের ব্যাখ্যার জন্য যাঁর এত খ্যাতি, তিনি বলছেন সেই বিদ্যার কিছুটাই তাঁকে শেখানো হয়েছে।"
           },
           {
             "en": "The surah had already recorded where these came from. 12:22 says that when he reached maturity, We gave him judgement and knowledge, and thus do We reward those who do good. So by the time he speaks in 12:101 the credit has been assigned twice, once by the narrative and once by the man himself. Neither the dungeon nor the palace changed his account of the source.",
-            "bn": "সূরাটি আগেই লিখে রেখেছিল এগুলো কোথা থেকে এসেছে। 12:22 বলে, যখন সে পূর্ণ যৌবনে পৌঁছল, আমি তাকে বিচারবুদ্ধি ও জ্ঞান দান করলাম; আর এভাবেই আমি সৎকর্মশীলদের প্রতিদান দিই। কাজেই 12:101-এ তিনি যখন কথা বলছেন, ততক্ষণে কৃতিত্ব দুইবার নির্ধারিত হয়ে গেছে — একবার বর্ণনায়, একবার তাঁর নিজের মুখে। কারাগার কিংবা প্রাসাদ, কোনোটিই উৎস সম্পর্কে তাঁর বক্তব্য বদলায়নি।"
+            "bn": "এগুলো কোথা থেকে এসেছে, সূরা আগেই তা জানিয়ে রেখেছে। ১২:২২ আয়াতে আছে: সে যখন পূর্ণ যৌবনে পৌঁছল, আমি তাকে বিচারবুদ্ধি ও জ্ঞান দিলাম; আর সৎকর্মশীলদের আমি এভাবেই প্রতিদান দিই। তাই ১২:১০১-এ তিনি যখন কথা বলছেন, ততক্ষণে কৃতিত্ব কার, তা দুবার বলা হয়ে গেছে: একবার কাহিনির বর্ণনায়, একবার তাঁর নিজের মুখে। কারাগারে থাকুন বা প্রাসাদে, এসব কোথা থেকে এসেছে সে কথা তিনি কখনো বদলাননি।"
           }
         ]
       },
@@ -2289,43 +2289,43 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Between the acknowledgements and the requests he inserts a name: Fatir as-samawati wal-ard, Originator of the heavens and the earth. The root carries the sense of splitting something open to bring it into being. Sitting on the highest seat in Egypt, he addresses Allah by the title that dwarfs every throne, and the effect is to put the whole scene into proportion.",
-            "bn": "স্বীকৃতি ও আবেদনের মাঝখানে তিনি একটি নাম বসিয়ে দেন: ফাতিরাস সামাওয়াতি ওয়াল আরদ — আসমানসমূহ ও যমীনের স্রষ্টা। শব্দমূলটি এমন অর্থ বহন করে যেখানে কিছু ফেটে খুলে অস্তিত্বে আসে। মিসরের সর্বোচ্চ আসনে বসে তিনি আল্লাহকে ডাকছেন সেই উপাধিতে, যার পাশে প্রতিটি সিংহাসনই ক্ষুদ্র — আর তাতেই গোটা দৃশ্যটি তার আসল মাপে এসে দাঁড়ায়।"
+            "bn": "স্বীকারোক্তি আর চাওয়ার মাঝখানে তিনি একটি নাম বসিয়ে দেন: ফাতিরাস সামাওয়াতি ওয়াল আরদ, আসমানসমূহ ও যমীনের স্রষ্টা। শব্দটির মূলে আছে কোনো কিছু ফাটিয়ে খুলে তাকে অস্তিত্বে আনার ভাব। মিসরের সবচেয়ে উঁচু আসনে বসে তিনি আল্লাহকে ডাকছেন এমন নামে, যার সামনে দুনিয়ার যেকোনো সিংহাসন তুচ্ছ। তাতেই গোটা দৃশ্যটা তার আসল মাপে ফিরে আসে।"
           },
           {
             "en": "Then anta waliyyi fid-dunya wal-akhirah, You are my protector in this world and the Hereafter. A wali is a guardian who takes charge of someone's affairs. The man in the room with the most power over other people's affairs states that his own are in someone else's hands, and that this was true in the pit of his fortunes and is still true at the top of them.",
-            "bn": "এরপর আনতা ওয়ালিয়্যী ফিদ-দুনইয়া ওয়াল-আখিরাহ — তুমিই দুনিয়া ও আখিরাতে আমার অভিভাবক। ওয়ালী হলেন সেই অভিভাবক, যিনি কারও বিষয়াদির দায়িত্ব নেন। কক্ষের ভেতরে অন্য মানুষের বিষয়াদির ওপর যাঁর ক্ষমতা সবচেয়ে বেশি, তিনিই ঘোষণা করছেন যে তাঁর নিজের বিষয়াদি অন্য কারও হাতে — আর তা তাঁর ভাগ্যের সবচেয়ে নিচু বিন্দুতেও সত্য ছিল, শীর্ষেও সত্য আছে।"
+            "bn": "এরপর: আনতা ওয়ালিয়্যী ফিদ-দুনইয়া ওয়াল-আখিরাহ, দুনিয়া ও আখিরাতে আপনিই আমার অভিভাবক। ওয়ালী মানে এমন অভিভাবক, যিনি কারও সব ব্যাপারের দায়িত্ব নেন। ওই কক্ষে অন্যদের ব্যাপারে যাঁর হাতে সবচেয়ে বেশি ক্ষমতা, তিনিই বলছেন, তাঁর নিজের সব ব্যাপার অন্য কারও হাতে। জীবনের সবচেয়ে নিচু দশায় কথাটা সত্য ছিল, সবচেয়ে উঁচু অবস্থানেও তা সত্য।"
           }
         ]
       },
       {
         "h": {
           "en": "Cause Me to Die a Muslim",
-          "bn": "মুসলিম অবস্থায় মৃত্যু দাও"
+          "bn": "মুসলিম হিসেবে মৃত্যু দিন"
         },
         "p": [
           {
             "en": "Tawaffani musliman. The verb tawaffa means to take something in full, to collect what is due, and the Quran uses it of death because death is a receiving rather than a destruction. This imperative form, addressed by one speaker for himself, occurs in this verse and nowhere else in the Quran. The plural version is put in other mouths.",
-            "bn": "তাওয়াফফানী মুসলিমান। 'তাওয়াফফা' ক্রিয়ার অর্থ কোনো কিছু পুরোপুরি নিয়ে নেওয়া, প্রাপ্য আদায় করে নেওয়া; কুরআন মৃত্যুর জন্য এই শব্দ ব্যবহার করে, কারণ মৃত্যু ধ্বংস নয়, বরং গ্রহণ। একজন বক্তা নিজের জন্য এই আদেশবাচক রূপটি ব্যবহার করেছেন — কুরআনে তা এই আয়াতেই আছে, আর কোথাও নেই। বহুবচন রূপটি বসানো হয়েছে অন্যদের মুখে।"
+            "bn": "তাওয়াফফানী মুসলিমান। 'তাওয়াফফা' মানে কোনো কিছু পুরোপুরি বুঝে নেওয়া, প্রাপ্য পুরোটা আদায় করে নেওয়া। কুরআন মৃত্যুর বেলায় এ শব্দ ব্যবহার করে, কারণ মৃত্যু মানে মুছে ফেলা নয়, বুঝে নেওয়া। একজন মানুষ নিজের জন্য এই আদেশসূচক রূপে চাইছেন, এমনটা কুরআনে শুধু এই আয়াতেই আছে, আর কোথাও নেই। এর বহুবচন রূপটি এসেছে অন্যদের মুখে।"
           },
           {
             "en": "In 3:193 those who heard a caller to faith say: forgive us, and cause us to die with the righteous. In 7:126 the magicians of Fir'awn, under threat of execution, say: pour patience upon us and cause us to die as Muslims. As-Sa'di holds that Yusuf (AS) was not asking for death soon, but for the state in which death should find him. Ibn Kathir allows that he may have said it as he was dying.",
-            "bn": "3:193-এ যাঁরা ঈমানের দিকে আহ্বানকারীর ডাক শুনেছিলেন তাঁরা বলেন: আমাদের ক্ষমা করো, আর নেককারদের সঙ্গে আমাদের মৃত্যু দাও। 7:126-এ ফিরআউনের জাদুকরেরা মৃত্যুদণ্ডের হুমকির মুখে বলেন: আমাদের ওপর ধৈর্য ঢেলে দাও, আর মুসলিম অবস্থায় আমাদের মৃত্যু দাও। আস-সা'দী মনে করেন, ইউসুফ (আঃ) শীঘ্র মৃত্যু চাননি, চেয়েছেন মৃত্যু যেন তাঁকে কোন অবস্থায় পায় সেটি। ইবনে কাসীর এই সম্ভাবনাও রাখেন যে তিনি মৃত্যুশয্যায় কথাটি বলেছিলেন।"
+            "bn": "৩:১৯৩ আয়াতে যাঁরা ঈমানের দিকে এক আহ্বানকারীর ডাক শুনেছিলেন, তাঁরা বলেন: আমাদের ক্ষমা করুন, আর নেককারদের সঙ্গে আমাদের মৃত্যু দিন। ৭:১২৬ আয়াতে ফেরাউনের জাদুকরেরা মৃত্যুদণ্ডের হুমকির মুখে দাঁড়িয়ে বলেন: আমাদের উপর ধৈর্য ঢেলে দিন, আর মুসলিম হিসেবে আমাদের মৃত্যু দিন। সা'দীর মতে ইউসুফ (আঃ) তাড়াতাড়ি মৃত্যু চাননি। চেয়েছেন, মৃত্যু যখন আসবে, তখন যেন তাঁকে এই অবস্থায় পায়। ইবন কাসীর এ সম্ভাবনাও রাখেন যে কথাটি তিনি মৃত্যুর সময়েই বলেছিলেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Join Me With the Righteous",
-          "bn": "সৎকর্মশীলদের সঙ্গে মিলিয়ে দাও"
+          "bn": "নেককারদের সঙ্গে মিলিয়ে দিন"
         },
         "p": [
           {
             "en": "The final clause, wa alhiqni bis-salihin, is the same clause Ibrahim (AS) uses in 26:83; the two verses are the only places it appears. Here its force comes from what precedes it. Dying as a Muslim is the condition; being joined to the righteous is what the condition opens onto. Yusuf (AS) asks about the doorway and then about the room.",
-            "bn": "শেষ বাক্যাংশ ওয়া আলহিকনী বিস-সালিহীন সেই একই বাক্যাংশ, যা ইবরাহীম (আঃ) 26:83-এ ব্যবহার করেন; কুরআনে কেবল এই দুটি আয়াতেই এটি আছে। এখানে এর জোর আসে এর আগের কথাটি থেকে। মুসলিম অবস্থায় মৃত্যু হলো শর্ত; সৎকর্মশীলদের সঙ্গে যুক্ত হওয়া হলো সেই শর্তটি যেদিকে খুলে দেয়। ইউসুফ (আঃ) আগে দরজাটি নিয়ে চান, তারপর ঘরটি নিয়ে।"
+            "bn": "শেষ অংশ, ওয়া আলহিকনী বিস-সালিহীন, হুবহু এই কথাটিই ইবরাহীম (আঃ) বলেছেন ২৬:৮৩ আয়াতে। কুরআনে শুধু এই দুই আয়াতেই কথাটি আছে। এখানে এর জোর আসে আগের কথা থেকে। মুসলিম হিসেবে মৃত্যু হলো শর্ত; নেককারদের সঙ্গে মিলিত হওয়া হলো সেই শর্ত পূরণ হলে যা খুলে যায়। ইউসুফ (আঃ) আগে চাইলেন দরজাটা, তারপর ঘরটা।"
           },
           {
             "en": "Ibn Kathir reads the joining as being placed with the prophets and messengers, and sets beside it a report from the last hours of the Prophet ﷺ. Al-Bukhari and Muslim record from Aishah (RA) that as he was dying he raised his finger and said, three times, O Allah, with the highest companion. The last thing asked for, in both cases, is company.",
-            "bn": "ইবনে কাসীর এই মিলিত হওয়াকে পড়েন নবী ও রাসূলগণের সঙ্গে স্থান পাওয়া হিসেবে, আর তার পাশে রাখেন নবী ﷺ-এর শেষ সময়ের একটি বর্ণনা। বুখারী ও মুসলিম আয়িশা (রাঃ) থেকে বর্ণনা করেন যে মৃত্যুর সময় তিনি তাঁর আঙুল তুলে তিনবার বলেছিলেন, হে আল্লাহ, সর্বোচ্চ সঙ্গীর সঙ্গে। দুই ক্ষেত্রেই শেষ চাওয়াটি হলো সঙ্গ।"
+            "bn": "ইবন কাসীরের মতে এই মিলিয়ে দেওয়া মানে নবী-রাসূলদের সঙ্গে স্থান পাওয়া। এর পাশে তিনি রাখেন নবী ﷺ-এর জীবনের শেষ মুহূর্তের একটি বর্ণনা। বুখারী ও মুসলিম আয়িশা (রাঃ) থেকে বর্ণনা করেছেন, মৃত্যুর সময় তিনি আঙুল তুলে তিনবার বলেছিলেন: হে আল্লাহ, সর্বোচ্চ সঙ্গীর সঙ্গে। দুই ক্ষেত্রেই শেষ চাওয়াটা হলো সঙ্গ।"
           }
         ]
       },
@@ -2337,11 +2337,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This prayer is the last thing Yusuf (AS) says in the surah. 12:102 turns away from him entirely and addresses the Prophet ﷺ: that is from the news of the unseen which We reveal to you, and you were not with them when they put together their plan. The story of a life closes on a request about its ending, and then the frame closes over it.",
-            "bn": "এই দোয়াটিই সূরায় ইউসুফ (আঃ)-এর শেষ উক্তি। 12:102 তাঁর থেকে পুরোপুরি মুখ ফিরিয়ে নবী ﷺ-কে সম্বোধন করে: এটি অদৃশ্য জগতের সংবাদ, যা আমি তোমার প্রতি ওহী করছি; আর তারা যখন তাদের পরিকল্পনা পাকা করছিল তখন তুমি তাদের সঙ্গে ছিলে না। একটি জীবনের গল্প শেষ হয় তার পরিণতি নিয়ে একটি আবেদনে, আর তারপর তার ওপর ফ্রেমটি বন্ধ হয়ে যায়।"
+            "bn": "এই দোয়াই সূরায় ইউসুফ (আঃ)-এর মুখের শেষ কথা। ১২:১০২ আয়াত তাঁর কাছ থেকে পুরোপুরি সরে গিয়ে নবী ﷺ-কে সম্বোধন করে: এগুলো গায়েবের খবর, যা আমি তোমার কাছে ওহি করছি; তারা যখন ষড়যন্ত্র পাকাচ্ছিল, তখন তুমি তাদের সঙ্গে ছিলে না। একটি জীবনের গল্প শেষ হয় তার শেষটা নিয়ে একটি চাওয়ায়। তারপর সূরার নিজের কথা এসে কাহিনিটা গুটিয়ে নেয়।"
           },
           {
             "en": "The practical shape is unusual because it belongs to good days rather than hard ones. When something you wanted finally arrives, itemise it out loud and say where it came from; then ask for the one part of the story that success cannot secure. Position, knowledge and a restored family were all already in hand, and none of them settles how a person leaves.",
-            "bn": "এর ব্যবহারিক রূপটি অস্বাভাবিক, কারণ এটি কঠিন দিনের নয়, ভালো দিনের সম্পদ। আপনি যা চেয়েছিলেন তা যখন অবশেষে এসে যায়, তখন তা উচ্চারণ করে গুনে বলুন আর বলুন কোথা থেকে এলো; তারপর গল্পের সেই অংশটি চান, যা সাফল্য নিশ্চিত করতে পারে না। পদ, জ্ঞান আর ফিরে পাওয়া পরিবার — সবই তখন হাতে ছিল, অথচ এর কোনোটিই ঠিক করে দেয় না একজন মানুষ কীভাবে বিদায় নেবে।"
+            "bn": "এর বাস্তব শিক্ষাটা একটু ভিন্ন রকম, কারণ তা কঠিন দিনের জন্য নয়, সুদিনের জন্য। যা চেয়েছিলেন তা যখন অবশেষে হাতে আসে, তখন মুখে উচ্চারণ করে একটা একটা করে গুনে বলুন, আর বলুন তা কোথা থেকে এলো। তারপর চেয়ে নিন গল্পের সেই অংশটা, যা সাফল্য দিয়ে নিশ্চিত করা যায় না। পদমর্যাদা, জ্ঞান, ফিরে পাওয়া পরিবার, সবই তখন হাতে ছিল। অথচ এর কোনোটিই ঠিক করে দেয় না, একজন মানুষ কীভাবে দুনিয়া থেকে বিদায় নেবে।"
           }
         ]
       }
@@ -2413,7 +2413,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Some commentators go further. Al-Qurtubi and al-Baghawi give reasons that describe the desert life of their sources in harsh terms, al-Baghawi introducing one of them with it is said, and Ibn Kathir supports the point with 9:97. Ma'arif al-Qur'an summarises this line and credits it to Ibn Kathir, al-Qurtubi and others. These are their readings, reported under their names. They explain a pattern in who was sent; they do not measure the worth of any people living today.",
-            "bn": "কোনো কোনো তাফসীরকার আরও এগিয়ে যান। কুরতুবী ও বাগাভী এমন কারণ দেন, যাতে তাঁদের সূত্রের যুগের মরুজীবনকে কড়া ভাষায় বর্ণনা করা হয়েছে। বাগাভী এর একটি কারণ এনেছেন 'বলা হয়' দিয়ে। ইবন কাসীর কথাটার সমর্থনে ৯:৯৭ আয়াত আনেন। মাআরিফুল কুরআন এই ধারাটি সংক্ষেপে বলে এবং ইবন কাসীর, কুরতুবী ও অন্যদের সূত্র দেয়। এগুলো তাঁদের ব্যাখ্যা, তাঁদের নামেই বলা হলো। এসব ব্যাখ্যা বলে কাদের পাঠানো হয়েছিল তার একটি ধরন। আজকের কোনো জনগোষ্ঠীর মূল্য মাপার কথা এতে নেই।"
+            "bn": "কোনো কোনো তাফসীরকার আরও এগিয়ে যান। কুরতুবী ও বাগাভী এমন কিছু কারণ দেখান, যেখানে তাঁদের উৎসগুলো মরুজীবনের কথা বলেছে কড়া ভাষায়। এর একটি কারণ বাগাভী এনেছেন 'বলা হয়' বলে। ইবন কাসীর কথাটার সমর্থনে ৯:৯৭ আয়াত আনেন। মাআরিফুল কুরআন এই ধারার কথা সংক্ষেপে বলে, আর সূত্র হিসেবে ইবন কাসীর, কুরতুবী ও অন্যদের নাম নেয়। এগুলো তাঁদের ব্যাখ্যা, তাঁদের নামেই এখানে বলা হলো। এসব ব্যাখ্যা বোঝাতে চায়, কাদের পাঠানো হয়েছিল তাতে একটা ধারা আছে। আজকের কোনো জনগোষ্ঠীর মূল্য মাপা এর কাজ নয়।"
           },
           {
             "en": "So it should be said plainly: the verse describes who was sent, and licenses no contempt for any community, whether it lives in a city, a village or on the move. Ibn Kathir, in this very passage, cites a narration that points somewhere better. Ibn Majah 4032 has it from Ibn Umar (RA): the believer who mixes with people and bears their annoyance with patience will have a greater reward than the believer who does not mix with people and does not put up with their annoyance.",
@@ -2433,7 +2433,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Afalam yasiru fi al-ard: have they not travelled in the land and seen how those before them ended? At-Tabari reads it as addressed to the idolaters who denied the Prophet: did We not bring Our punishment down on those earlier peoples when they denied Our messengers, and rescue Our messengers and their followers, so that these might think it over and take a lesson? Ibn Jurayj, in at-Tabari, gives the sense as travelling and looking at their traces, athar, to reflect and learn.",
-            "bn": "আফালাম ইয়াসীরূ ফিল আরদ: তারা কি পৃথিবীতে ভ্রমণ করে দেখেনি, তাদের আগের লোকদের পরিণাম কী হয়েছিল? তাবারীর মতে এ কথা বলা হচ্ছে সেই মুশরিকদের, যারা নবী ﷺ-কে অস্বীকার করছিল। আগের জাতিগুলো যখন আমার রাসূলদের অস্বীকার করেছিল, আমি কি তাদের উপর শাস্তি নামাইনি? আর রাসূল ও তাঁদের অনুসারীদের কি রক্ষা করিনি? এরা যেন তা নিয়ে ভাবে, শিক্ষা নেয়। তাবারীর বর্ণনায় ইবন জুরাইজ অর্থ করেন: তারা ঘুরে তাদের আসার, অর্থাৎ ফেলে যাওয়া চিহ্ন, দেখুক, ভাবুক, শিক্ষা নিক।"
+            "bn": "আফালাম ইয়াসীরূ ফিল আরদ: তারা কি পৃথিবীতে ভ্রমণ করে দেখেনি, তাদের আগের লোকদের পরিণাম কী হয়েছিল? তাবারীর মতে এ কথা বলা হচ্ছে সেই মুশরিকদের, যারা নবী ﷺ-কে অস্বীকার করছিল। আগের জাতিগুলো যখন আমার রাসূলদের অস্বীকার করেছিল, আমি কি তাদের উপর শাস্তি নামাইনি? আর রাসূল ও তাঁদের অনুসারীদের কি রক্ষা করিনি? এরা যেন তা নিয়ে ভাবে, শিক্ষা নেয়। তাবারীর বর্ণনায় ইবন জুরাইজ এর অর্থ করেন এভাবে: ঘুরে ঘুরে তাদের ফেলে যাওয়া চিহ্ন, আরবিতে যাকে বলে আসার, তা দেখা, ভাবা আর শিক্ষা নেওয়া।"
           },
           {
             "en": "Ibn Kathir joins the verse to 22:46, which asks whether they have travelled so that they might have hearts to understand with, for it is not the eyes that go blind but the hearts. Seeing, then, is not enough; reflection is the point. As-Sa'di turns it into a warning: beware of holding to what they held to, lest what befell them befall you. The verse describes what happened to those peoples as the Qur'an tells it, and licenses nothing against any living person or community.",
@@ -2485,7 +2485,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Turn the verse toward yourself. If every messenger was a man who ate food and walked the markets, then the life they modelled was lived in the same conditions as yours: hunger, work, family, and neighbours who did not always agree. It is easy to admire the prophets from so far off that their example asks nothing of us. This verse closes that distance. The path was walked by human feet, and it is still walkable, in whatever town or village or road you live on.",
-            "bn": "আয়াতটিকে এবার নিজের দিকে ঘুরিয়ে ধরুন। প্রত্যেক রাসূল যদি এমন মানুষ হন যিনি খেতেন, বাজারে হাঁটতেন, তাহলে তাঁরা যে জীবন দেখিয়ে গেছেন, তা কেটেছে আপনার মতোই অবস্থার ভেতর দিয়ে: ক্ষুধা, কাজ, পরিবার, আর এমন প্রতিবেশী যারা সবসময় একমত নয়। নবীদের এত দূর থেকে শ্রদ্ধা করা সহজ যে তাঁদের আদর্শ আমাদের কাছে কিছুই চায় না। এ আয়াত সেই দূরত্ব ঘুচিয়ে দেয়। পথটা মানুষের পায়েই হাঁটা হয়েছে। আপনি শহরে থাকুন, গ্রামে থাকুন বা পথে পথে, সে পথ আজও চলা যায়।"
+            "bn": "আয়াতটিকে এবার নিজের দিকে ঘুরিয়ে ধরুন। প্রত্যেক রাসূল যদি এমন মানুষ হন যিনি খেতেন, বাজারে হাঁটতেন, তাহলে তাঁরা যে জীবন দেখিয়ে গেছেন, তা কেটেছে আপনার মতোই অবস্থার ভেতর দিয়ে: ক্ষুধা, কাজ, পরিবার, আর এমন প্রতিবেশী যারা সবসময় একমত নয়। নবীদের অনেক দূরে বসিয়ে শ্রদ্ধা করা সহজ। তখন তাঁদের আদর্শ আমাদের কাছে আর কিছুই দাবি করে না। এ আয়াত সেই দূরত্ব ঘুচিয়ে দেয়। পথটা মানুষের পায়েই হাঁটা হয়েছে। আপনি শহরে থাকুন, গ্রামে থাকুন বা পথে পথে, সে পথ আজও চলা যায়।"
           },
           {
             "en": "Then weigh. The verse puts two homes on the scale and says which is better for those who are mindful. Most of our choices are made against next week, not against the lasting home; the verse asks for a longer measure. And finally, reason. The question is not answered for you. You are asked to look at what has passed, to think it through, and, in as-Sa'di's words, to choose what is better over what is lower. Will you not reason?",
