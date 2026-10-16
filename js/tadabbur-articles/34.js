@@ -624,7 +624,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Hadith of the Five",
-          "bn": "পাঁচটি জিনিসের হাদীস"
+          "bn": "পাঁচটি জিনিসের হাদিস"
         },
         "p": [
           {
