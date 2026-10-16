@@ -433,7 +433,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "No fetched commentary on this verse attaches a sound hadith of the Prophet ﷺ to it. Salman al-Farisi's statement in al-Qurtubi is a Companion's saying, given without a chain or a grading. A report attributing the same content to the Prophet ﷺ was not found in any source fetched for this verse or confirmed on a hadith page, so it is not quoted and nothing rests on it. Ma'arif al-Qur'an says hadith narratives indicate thousands of such servants for each person in Paradise, but names no narration; that too stays unconfirmed.",
-            "bn": "এ আয়াতের যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার কোনোটিই নবী ﷺ-এর কোনো সহীহ হাদীস এর সঙ্গে যুক্ত করেনি। কুরতুবীতে সালমান ফারসী (রাঃ)-এর যে কথা আছে, সেটি একজন সাহাবীর উক্তি, সেখানে কোনো সনদ বা মান উল্লেখ নেই। একই কথা নবী ﷺ-এর নামে বর্ণিত কোনো রেওয়ায়েত এ আয়াতের কোনো উৎসে পাওয়া যায়নি, কোনো হাদীসের পাতায়ও তা যাচাই হয়নি। তাই তা এখানে উদ্ধৃত হয়নি, কোনো কথাও তার উপর দাঁড়িয়ে নেই। মাআরিফুল কুরআন বলে, হাদীসের বর্ণনা থেকে বোঝা যায় প্রত্যেক জান্নাতবাসীর এমন হাজার হাজার সেবক থাকবে। কিন্তু কোনো বর্ণনার নাম সে দেয় না, তাই সেটিও অযাচাইকৃত রইল।"
+            "bn": "এ আয়াতের যে তাফসীরগুলো সংগ্রহ করা হয়েছে, তার কোনোটিই নবী ﷺ-এর কোনো সহীহ হাদিস এর সঙ্গে যুক্ত করেনি। কুরতুবীতে সালমান ফারসী (রাঃ)-এর যে কথা আছে, সেটি একজন সাহাবীর উক্তি, সেখানে কোনো সনদ বা মান উল্লেখ নেই। একই কথা নবী ﷺ-এর নামে বর্ণিত কোনো রেওয়ায়েত এ আয়াতের কোনো উৎসে পাওয়া যায়নি, কোনো হাদিসের পাতায়ও তা যাচাই হয়নি। তাই তা এখানে উদ্ধৃত হয়নি, কোনো কথাও তার উপর দাঁড়িয়ে নেই। মাআরিফুল কুরআন বলে, হাদিসের বর্ণনা থেকে বোঝা যায় প্রত্যেক জান্নাতবাসীর এমন হাজার হাজার সেবক থাকবে। কিন্তু কোনো বর্ণনার নাম সে দেয় না, তাই সেটিও অযাচাইকৃত রইল।"
           },
           {
             "en": "What the sources share is narrower, and still rich. Youths go round those brought near in order to serve them, and in most of the commentators' own glosses time does not alter them: they do not die, do not age, do not change. On the question of where the youths come from, early scholars gave different answers. A reader loses nothing by holding it as they did, as a matter reported and not settled, and by returning to what the verse plainly says.",
@@ -869,7 +869,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The narration most cited for the second answer comes from Anas, and the commentators trace it to at-Tirmidhi. It is in his Jami' as number 3296, on the page fetched for this article. At-Tirmidhi himself calls it gharib, says it is known as the Prophet's word only through Musa ibn 'Ubayda, and states that Musa ibn 'Ubayda and Yazid ibn Aban ar-Raqashi are weakened in hadith. Ibn Kathir reports the same verdict. Since the collector himself weakens it, this article names it for its grading and does not build on its wording.",
-            "bn": "দ্বিতীয় উত্তরের পক্ষে সবচেয়ে বেশি উদ্ধৃত বর্ণনাটি আনাস (রাঃ) থেকে, আর তাফসীরকারেরা একে তিরমিযীর বরাতে আনেন। এ লেখার জন্য যে পাতা সংগ্রহ করা হয়েছে, তাতে বর্ণনাটি তাঁর জামি গ্রন্থে ৩২৯৬ নম্বরে আছে। তিরমিযী নিজেই একে গরীব বলেছেন। তিনি জানান, নবী ﷺ-এর কথা হিসেবে এটি শুধু মূসা ইবন উবায়দার সূত্রেই জানা যায়। তিনি আরও বলেন, মূসা ইবন উবায়দা ও ইয়াযীদ ইবন আবান রাকাশী হাদীসে দুর্বল বলে গণ্য। ইবন কাসীরও একই রায় উদ্ধৃত করেন। সংকলক নিজেই যেহেতু একে দুর্বল বলেছেন, এ লেখা শুধু এর মান জানিয়ে নামটুকু উল্লেখ করছে, এর ভাষার ওপর কিছু দাঁড় করাচ্ছে না।"
+            "bn": "দ্বিতীয় উত্তরের পক্ষে সবচেয়ে বেশি উদ্ধৃত বর্ণনাটি আনাস (রাঃ) থেকে, আর তাফসীরকারেরা একে তিরমিযীর বরাতে আনেন। এ লেখার জন্য যে পাতা সংগ্রহ করা হয়েছে, তাতে বর্ণনাটি তাঁর জামি গ্রন্থে ৩২৯৬ নম্বরে আছে। তিরমিযী নিজেই একে গরীব বলেছেন। তিনি জানান, নবী ﷺ-এর কথা হিসেবে এটি শুধু মূসা ইবন উবায়দার সূত্রেই জানা যায়। তিনি আরও বলেন, মূসা ইবন উবায়দা ও ইয়াযীদ ইবন আবান রাকাশী হাদিসে দুর্বল বলে গণ্য। ইবন কাসীরও একই রায় উদ্ধৃত করেন। সংকলক নিজেই যেহেতু একে দুর্বল বলেছেন, এ লেখা শুধু এর মান জানিয়ে নামটুকু উল্লেখ করছে, এর ভাষার ওপর কিছু দাঁড় করাচ্ছে না।"
           },
           {
             "en": "Another report, about an old woman, reaches al-Baghawi and Ibn Kathir through at-Tirmidhi. It is in his ash-Shama'il as number 239, in these words: al-Hasan al-Basri said, \"An old woman came to the Prophet and said: 'O Messenger of Allah, beseech Allah to let me enter the Garden!' He replied: 'O Mother of So-and-so, no old woman will enter the Garden!' She turned away weeping, so he said: 'Tell her that she will not enter it as an old woman, for Allah says: We have created them a new creation, and made them virgins, loving, equal in age.'\"",
@@ -1285,7 +1285,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This site has studied those passages. The article on 37:63 follows the tree in al-Saffat, where it is made a trial for the wrongdoers, and the article on 44:43 takes up where it grows and whose food it is. That second article also quotes the narration about a single drop of zaqqum falling into this world, with its collector's grading. None of the commentaries fetched for 56:52 attaches a hadith to this verse, so no narration is quoted here, and the reader is pointed to 44:43 for that narration.",
-            "bn": "এ সাইটে সেই অংশগুলোর আলোচনা আগেই হয়েছে। ৩৭:৬৩-এর প্রবন্ধে গাছটিকে দেখা হয়েছে সূরা আস সাফফাতে, যেখানে একে জালিমদের জন্য পরীক্ষা বানানো হয়েছে। ৪৪:৪৩-এর প্রবন্ধে আলোচনা হয়েছে গাছটি কোথায় জন্মায় আর কাদের খাবার। দুনিয়ায় জাক্কুমের এক ফোঁটা পড়ার বর্ণনাটিও সেখানে উদ্ধৃত হয়েছে, সংকলকের দেওয়া মানসহ। ৫৬:৫২-এর জন্য আনা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদীস যুক্ত করেনি। তাই এখানে কোনো বর্ণনা উদ্ধৃত হলো না, সেটির জন্য পাঠককে ৪৪:৪৩ দেখতে বলা হচ্ছে।"
+            "bn": "এ সাইটে সেই অংশগুলোর আলোচনা আগেই হয়েছে। ৩৭:৬৩-এর প্রবন্ধে গাছটিকে দেখা হয়েছে সূরা আস সাফফাতে, যেখানে একে জালিমদের জন্য পরীক্ষা বানানো হয়েছে। ৪৪:৪৩-এর প্রবন্ধে আলোচনা হয়েছে গাছটি কোথায় জন্মায় আর কাদের খাবার। দুনিয়ায় জাক্কুমের এক ফোঁটা পড়ার বর্ণনাটিও সেখানে উদ্ধৃত হয়েছে, সংকলকের দেওয়া মানসহ। ৫৬:৫২-এর জন্য আনা কোনো তাফসীর এ আয়াতের সঙ্গে কোনো হাদিস যুক্ত করেনি। তাই এখানে কোনো বর্ণনা উদ্ধৃত হলো না, সেটির জন্য পাঠককে ৪৪:৪৩ দেখতে বলা হচ্ছে।"
           }
         ]
       },
@@ -1529,7 +1529,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "He also quotes a saying introduced only as fi al-khabar, in the report, without naming a speaker, a chain or a collection: astonishing, utterly astonishing, is the one who denies the other creation while he sees the first; and astonishing is the one who affirms the latter creation yet does not strive for the abode that lasts. Because he names no collection for it, it is given here as al-Qurtubi's quotation and not as a hadith.",
-            "bn": "কুরতুবী একটি উক্তিও উদ্ধৃত করেন, যার আগে শুধু বলেন ফিল খাবার, অর্থাৎ বর্ণনায় আছে। বক্তার নাম, সনদ বা কোনো হাদীসগ্রন্থের উল্লেখ তিনি করেননি। উক্তিটা এই: চরম বিস্ময় সেই লোককে নিয়ে, যে প্রথম সৃষ্টি চোখের সামনে দেখেও পরের সৃষ্টিকে মিথ্যা বলে। আর বিস্ময় সেই লোককে নিয়েও, যে পরের সৃষ্টিকে সত্য বলে মানে, অথচ চিরস্থায়ী আবাসের জন্য চেষ্টা করে না। উৎস হিসেবে তিনি কোনো হাদীসগ্রন্থের নাম দেননি, তাই এখানে একে হাদীস হিসেবে নয়, কুরতুবীর উদ্ধৃতি হিসেবেই রাখা হলো।"
+            "bn": "কুরতুবী একটি উক্তিও উদ্ধৃত করেন, যার আগে শুধু বলেন ফিল খাবার, অর্থাৎ বর্ণনায় আছে। বক্তার নাম, সনদ বা কোনো হাদিসগ্রন্থের উল্লেখ তিনি করেননি। উক্তিটা এই: চরম বিস্ময় সেই লোককে নিয়ে, যে প্রথম সৃষ্টি চোখের সামনে দেখেও পরের সৃষ্টিকে মিথ্যা বলে। আর বিস্ময় সেই লোককে নিয়েও, যে পরের সৃষ্টিকে সত্য বলে মানে, অথচ চিরস্থায়ী আবাসের জন্য চেষ্টা করে না। উৎস হিসেবে তিনি কোনো হাদিসগ্রন্থের নাম দেননি, তাই এখানে একে হাদিস হিসেবে নয়, কুরতুবীর উদ্ধৃতি হিসেবেই রাখা হলো।"
           }
         ]
       },
@@ -1545,7 +1545,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "None of the tafsirs fetched for this verse attaches a hadith from the collections to it, and none gives a cause of revelation, so neither is offered here. What the sources do give is enough: a premise everyone holds, a conclusion the deniers refused, and a single question asking why the one has not led to the other. That question is best put first to oneself, since the forgetting that 36:78 describes is not confined to those who argue.",
-            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই হাদীসগ্রন্থের কোনো হাদীস এর সঙ্গে যুক্ত করেনি। নাযিলের কোনো প্রেক্ষাপটও কেউ উল্লেখ করেনি। তাই এখানে দুটোর কোনোটাই আনা হলো না। সূত্রগুলো যা দেয়, তা-ই যথেষ্ট: এমন ভিত্তি যা সবাই মানে, এমন সিদ্ধান্ত যা অস্বীকারকারীরা মানেনি, আর একটিমাত্র প্রশ্ন, প্রথমটা দ্বিতীয়টায় পৌঁছাল না কেন? এ প্রশ্ন আগে নিজেকেই করা ভালো। কারণ ৩৬:৭৮ আয়াত যে ভুলে যাওয়ার কথা বলে, তা শুধু তর্ককারীদের মধ্যে সীমাবদ্ধ নয়।"
+            "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই হাদিসগ্রন্থের কোনো হাদিস এর সঙ্গে যুক্ত করেনি। নাজিলের কোনো প্রেক্ষাপটও কেউ উল্লেখ করেনি। তাই এখানে দুটোর কোনোটাই আনা হলো না। সূত্রগুলো যা দেয়, তা-ই যথেষ্ট: এমন ভিত্তি যা সবাই মানে, এমন সিদ্ধান্ত যা অস্বীকারকারীরা মানেনি, আর একটিমাত্র প্রশ্ন, প্রথমটা দ্বিতীয়টায় পৌঁছাল না কেন? এ প্রশ্ন আগে নিজেকেই করা ভালো। কারণ ৩৬:৭৮ আয়াত যে ভুলে যাওয়ার কথা বলে, তা শুধু তর্ককারীদের মধ্যে সীমাবদ্ধ নয়।"
           }
         ]
       },
@@ -1705,7 +1705,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the commentaries fetched for this verse attaches a hadith to it. Ibn Kathir's abridged commentary on the group carries narrations on the sowing and on the fire, but none on the water, so no narration is cited here, and none is borrowed from elsewhere to fill the space. The verse stands on its own question, and the commentators answer it with the meaning of a word, a line of poetry and the course the water takes after it falls.",
-            "bn": "এ আয়াতের যত তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদীস যুক্ত করেনি। আয়াতগুচ্ছের উপর ইবন কাসীরের সংক্ষিপ্ত ভাষ্যে বীজ বপন আর আগুন নিয়ে বর্ণনা আছে, কিন্তু পানি নিয়ে নেই। তাই এখানে কোনো বর্ণনা উদ্ধৃত হয়নি, আর ফাঁক ভরাতে অন্য জায়গা থেকে ধার করেও আনা হয়নি। আয়াতটি দাঁড়িয়ে আছে নিজের প্রশ্নের উপর। তাফসীরকারেরা তার উত্তর দেন একটি শব্দের অর্থ দিয়ে, কবিতার একটি পঙ্‌ক্তি দিয়ে, আর পড়ার পরে পানি কোন পথে যায় তার বিবরণ দিয়ে।"
+            "bn": "এ আয়াতের যত তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে কোনো হাদিস যুক্ত করেনি। আয়াতগুচ্ছের উপর ইবন কাসীরের সংক্ষিপ্ত ভাষ্যে বীজ বপন আর আগুন নিয়ে বর্ণনা আছে, কিন্তু পানি নিয়ে নেই। তাই এখানে কোনো বর্ণনা উদ্ধৃত হয়নি, আর ফাঁক ভরাতে অন্য জায়গা থেকে ধার করেও আনা হয়নি। আয়াতটি দাঁড়িয়ে আছে নিজের প্রশ্নের উপর। তাফসীরকারেরা তার উত্তর দেন একটি শব্দের অর্থ দিয়ে, কবিতার একটি পঙ্‌ক্তি দিয়ে, আর পড়ার পরে পানি কোন পথে যায় তার বিবরণ দিয়ে।"
           },
           {
             "en": "The question is put to whoever drinks, and that includes every reader in every age. Water drawn from a tap, a well or a bottle has passed through hands and pipes, and it is easy to let the credit stop there. The verse does not deny the pipes. It asks where the water was before them, and it allows only the answer it has already given: from the muzn, sent down by Allah. Each drink then becomes a small occasion for the thanks al-Qurtubi asks for.",
@@ -2112,7 +2112,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "No Narration, No Verdict",
-          "bn": "হাদীসও নেই, রায়ও নেই"
+          "bn": "হাদিসও নেই, রায়ও নেই"
         },
         "p": [
           {
