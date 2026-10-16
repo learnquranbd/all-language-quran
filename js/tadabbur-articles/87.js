@@ -121,7 +121,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "From the Prophet ﷺ the act comes by two routes in these texts. At-Tabari and Ibn Kathir carry Qatada's words, it was mentioned to us that the Prophet of Allah, when he recited it, said subhana rabbiya al-a'la. Ibn Kathir also cites Ahmad and Abu Dawud from Ibn 'Abbas that the Prophet ﷺ said it on reciting the verse, then quotes Abu Dawud's own remark: Waki' was contradicted in this hadith, for Abu Waki' and Shu'bah narrated it from Ibn 'Abbas as his own words.",
-            "bn": "নবী ﷺ থেকে কাজটি এ তাফসীরগুলোতে আসে দুই পথে। তাবারী ও ইবন কাসীর কাতাদার কথা আনেন: আমাদের কাছে উল্লেখ করা হয়েছে যে আল্লাহর নবী আয়াতটি পড়লে বলতেন সুবহানা রাব্বিয়াল আ'লা। ইবন কাসীর আহমাদ ও আবু দাউদ থেকে ইবন আব্বাস (রাঃ)-এর বর্ণনাও আনেন যে নবী ﷺ আয়াতটি পড়ে কথাটি বলতেন। তারপর তিনি আবু দাউদের নিজের মন্তব্য উদ্ধৃত করেন: এ হাদীসে অন্যরা ওয়াকী'র থেকে ভিন্নভাবে বর্ণনা করেছেন। আবু ওয়াকী' ও শু'বা এটিকে ইবন আব্বাসের নিজের কথা হিসেবে বর্ণনা করেছেন।"
+            "bn": "নবী ﷺ থেকে কাজটি এ তাফসীরগুলোতে আসে দুই পথে। তাবারী ও ইবন কাসীর কাতাদার কথা আনেন: আমাদের কাছে উল্লেখ করা হয়েছে যে আল্লাহর নবী আয়াতটি পড়লে বলতেন সুবহানা রাব্বিয়াল আ'লা। ইবন কাসীর আহমাদ ও আবু দাউদ থেকে ইবন আব্বাস (রাঃ)-এর বর্ণনাও আনেন যে নবী ﷺ আয়াতটি পড়ে কথাটি বলতেন। তারপর তিনি আবু দাউদের নিজের মন্তব্য উদ্ধৃত করেন: এ হাদিসে অন্যরা ওয়াকী'র থেকে ভিন্নভাবে বর্ণনা করেছেন। আবু ওয়াকী' ও শু'বা এটিকে ইবন আব্বাসের নিজের কথা হিসেবে বর্ণনা করেছেন।"
           }
         ]
       },
@@ -277,7 +277,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the tafsirs fetched for this verse attaches a sound hadith to it, and this article quotes none. The hadiths Ibn Kathir gathers in the same grouped passage concern the surah as a whole, its early recitation and its place in particular prayers, and another he cites belongs to a later verse. None is about 87:10, so none is used here. Nor does this article rely on an occasion of revelation for the verse. None is established in the sources consulted, so the verse is read here from its placement.",
-            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, এ লেখাও কোনো হাদীস উদ্ধৃত করে না। একই অংশে ইবন কাসীর যে হাদীসগুলো এনেছেন, সেগুলো পুরো সূরা নিয়ে: এর প্রথম দিকের তিলাওয়াত আর নির্দিষ্ট কিছু নামাযে এর স্থান। আরেকটি হাদীস পরের এক আয়াতের সঙ্গে সম্পর্কিত। কোনোটিই ৮৭:১০ আয়াত নিয়ে নয়, তাই এখানে কোনোটিই নেওয়া হয়নি। আয়াতটির কোনো শানে নুযূলের উপরও এ লেখা নির্ভর করে না। ব্যবহৃত সূত্রগুলোতে তেমন কিছু প্রতিষ্ঠিত নয়, তাই আয়াতটি এখানে পড়া হয়েছে তার অবস্থান থেকে।"
+            "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদিস যুক্ত করেনি, এ লেখাও কোনো হাদিস উদ্ধৃত করে না। একই অংশে ইবন কাসীর যে হাদিসগুলো এনেছেন, সেগুলো পুরো সূরা নিয়ে: এর প্রথম দিকের তিলাওয়াত আর নির্দিষ্ট কিছু নামাজে এর স্থান। আরেকটি হাদিস পরের এক আয়াতের সঙ্গে সম্পর্কিত। কোনোটিই ৮৭:১০ আয়াত নিয়ে নয়, তাই এখানে কোনোটিই নেওয়া হয়নি। আয়াতটির কোনো শানে নুযূলের উপরও এ লেখা নির্ভর করে না। ব্যবহৃত সূত্রগুলোতে তেমন কিছু প্রতিষ্ঠিত নয়, তাই আয়াতটি এখানে পড়া হয়েছে তার অবস্থান থেকে।"
           },
           {
             "en": "That placement is itself a guide. The surah has just told the Prophet ﷺ that he will be made to recite and will not forget, and that he will be eased toward ease, in 87:6, 87:7 and 87:8; then it commands him to remind. The verses before speak of the reminder's carrier, and this verse of its receiver. Ma'arif al-Qur'an makes the first half of that move in its own words: the preceding verses described the facilities Allah created for the Holy Prophet in performing his prophetic obligation, and 87:9 commands him to perform it.",
@@ -293,7 +293,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Read as a mirror, the verse asks a question about the reader, not about anyone else. Reminders reach most people constantly: a verse heard in prayer, a funeral, a word from a friend. The verse says the reminder will be taken by one who fears. If reminders keep passing over me without changing anything, the first place to look, on the verse's own terms, is not the reminder itself but the fear behind my listening, or its absence.",
-            "bn": "আয়না হিসেবে পড়লে আয়াতটি প্রশ্ন করে পাঠককেই, অন্য কাউকে নয়। উপদেশ তো প্রায় সবার কাছে বারবার আসে: নামাযে শোনা কোনো আয়াত, কোনো জানাযা, বন্ধুর মুখের একটা কথা। আয়াত বলছে, উপদেশ নেবে সে, যে ভয় করে। উপদেশ যদি বারবার আমার উপর দিয়ে চলে যায় আর কিছুই না বদলায়, তবে আয়াতের নিজের হিসাবে প্রথমে দেখার জায়গা উপদেশটা নয়। দেখার জায়গা আমার শোনার পেছনের ভয়টুকু, কিংবা তার না থাকা।"
+            "bn": "আয়না হিসেবে পড়লে আয়াতটি প্রশ্ন করে পাঠককেই, অন্য কাউকে নয়। উপদেশ তো প্রায় সবার কাছে বারবার আসে: নামাজে শোনা কোনো আয়াত, কোনো জানাযা, বন্ধুর মুখের একটা কথা। আয়াত বলছে, উপদেশ নেবে সে, যে ভয় করে। উপদেশ যদি বারবার আমার উপর দিয়ে চলে যায় আর কিছুই না বদলায়, তবে আয়াতের নিজের হিসাবে প্রথমে দেখার জায়গা উপদেশটা নয়। দেখার জায়গা আমার শোনার পেছনের ভয়টুকু, কিংবা তার না থাকা।"
           },
           {
             "en": "The commentators give that fear a shape one can work with. Ibn Kathir's gloss pairs it with knowing that one will meet Allah; as-Sa'di's pairs it with knowing that deeds will be requited, and measures the reminder by sins left and good deeds sought. Neither describes a feeling to be manufactured. Both describe a fact to be kept in view. A reader who keeps the meeting in view at the hour of a decision has begun to take the reminder in the way their glosses describe.",
@@ -373,7 +373,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Muslim records from an-Nu'man ibn Bashir (RA) that the Prophet ﷺ used to recite Sabbih isma rabbika al-a'la and Hal ataka hadithul-ghashiyah in the two Eid prayers and in the Friday prayer, and when Eid and Friday fell on the same day he recited them both in both. The choice means the ummah's largest regular gatherings repeatedly heard success redefined. On the days most given to celebration and appearance, the congregation was told again what winning is: purification, remembrance, prayer.",
-            "bn": "মুসলিম নু'মান ইবনে বাশীর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ দুই ঈদের নামাজে আর জুমার নামাজে সাব্বিহিসমা রাব্বিকাল আ'লা ও হাল আতাকা হাদীসুল গাশিয়াহ পড়তেন। ঈদ আর জুমা একই দিনে পড়লে দুই নামাজেই এ দুটি সূরা পড়তেন। এ বাছাইয়ের ফলে উম্মাহর সবচেয়ে বড় নিয়মিত সমাবেশগুলো বারবার সাফল্যের নতুন সংজ্ঞা শুনেছে। যে দিনগুলো সবচেয়ে বেশি উৎসব আর সাজসজ্জার, সেদিনই জামাতকে আবার মনে করিয়ে দেওয়া হয়েছে, আসল জেতা কী: পবিত্রতা, জিকির, নামাজ।"
+            "bn": "মুসলিম নু'মান ইবনে বাশীর (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ দুই ঈদের নামাজে আর জুমার নামাজে সাব্বিহিসমা রাব্বিকাল আ'লা ও হাল আতাকা হাদিসুল গাশিয়াহ পড়তেন। ঈদ আর জুমা একই দিনে পড়লে দুই নামাজেই এ দুটি সূরা পড়তেন। এ বাছাইয়ের ফলে উম্মাহর সবচেয়ে বড় নিয়মিত সমাবেশগুলো বারবার সাফল্যের নতুন সংজ্ঞা শুনেছে। যে দিনগুলো সবচেয়ে বেশি উৎসব আর সাজসজ্জার, সেদিনই জামাতকে আবার মনে করিয়ে দেওয়া হয়েছে, আসল জেতা কী: পবিত্রতা, জিকির, নামাজ।"
           }
         ]
       },
