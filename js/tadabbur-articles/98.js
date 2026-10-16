@@ -41,7 +41,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "That grammatical fact is the whole teaching. Sincerity is not an extra duty added after worship; it is the condition under which worship counts as worship at all. Mukhlis comes from khalasa, for a thing to be pure and unmixed, as milk is unmixed. Hunafa', Ibn Kathir explains, means turning away from shirk and inclining wholly to tawhid. Between them the two words describe a devotion with nothing else stirred into it and nothing else leaned toward.",
-            "bn": "ব্যাকরণের এই খুঁটিনাটিটাই পুরো শিক্ষা। ইখলাস ইবাদতের পরে জুড়ে দেওয়া বাড়তি কোনো দায়িত্ব নয়; ইখলাস থাকলে তবেই ইবাদত আদৌ ইবাদত বলে গণ্য হয়। 'মুখলিস' এসেছে 'খালাসা' থেকে, যার মানে কোনো জিনিস খাঁটি ও নির্ভেজাল হওয়া, যেমন খাঁটি দুধে কিছু মেশানো থাকে না। আর 'হুনাফা' সম্পর্কে ইবনে কাসীর বলেন, এর মানে শিরক থেকে মুখ ফিরিয়ে পুরোপুরি তাওহীদের দিকে ঝুঁকে যাওয়া। দুটো শব্দ মিলে এমন এক নিষ্ঠার ছবি আঁকে, যাতে অন্য কিছু মেশানো নেই, আর মনও অন্য কোনো দিকে হেলে নেই।"
+            "bn": "ব্যাকরণের এই খুঁটিনাটিটাই পুরো শিক্ষা। ইখলাস ইবাদতের পরে জুড়ে দেওয়া বাড়তি কোনো দায়িত্ব নয়; ইখলাস থাকলে তবেই ইবাদত আদৌ ইবাদত বলে গণ্য হয়। 'মুখলিস' এসেছে 'খালাসা' থেকে, যার মানে কোনো জিনিস খাঁটি ও নির্ভেজাল হওয়া, যেমন খাঁটি দুধে কিছু মেশানো থাকে না। আর 'হুনাফা' সম্পর্কে ইবনে কাসীর বলেন, এর মানে শিরক থেকে মুখ ফিরিয়ে পুরোপুরি তাওহিদের দিকে ঝুঁকে যাওয়া। দুটো শব্দ মিলে এমন এক নিষ্ঠার ছবি আঁকে, যাতে অন্য কিছু মেশানো নেই, আর মনও অন্য কোনো দিকে হেলে নেই।"
           }
         ]
       },
