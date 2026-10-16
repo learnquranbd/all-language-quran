@@ -48,7 +48,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Standing the Prayer",
-          "bn": "নামায কায়েম করা"
+          "bn": "নামাজ কায়েম করা"
         },
         "p": [
           {
@@ -125,7 +125,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "No tafsir fetched for this verse attaches a particular hadith to it, so what follows is a sound narration that illuminates the three marks rather than a narration tied to the verse. In Sahih al-Bukhari, Abu Hurayra reports that the angel Jibril came to the Prophet ﷺ and asked him what faith is. He answered that faith is to believe in Allah, His angels, the meeting with Him, His messengers, and to believe in the resurrection. Then Jibril asked what Islam is.",
-            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর নির্দিষ্ট কোনো হাদীস এর সঙ্গে জোড়েনি, তাই নিচের হাদীসটি তিনটি চিহ্নকে আলোকিত করে বটে, আয়াতের সঙ্গে বাঁধা নয়। সহীহ বুখারীতে আবু হুরায়রা (রাঃ) বর্ণনা করেন, জিবরীল (আঃ) নবী ﷺ-এর কাছে এসে জিজ্ঞেস করলেন ঈমান কী। তিনি বললেন, ঈমান হলো আল্লাহর প্রতি, তাঁর ফেরেশতাদের প্রতি, তাঁর সাক্ষাতের প্রতি, তাঁর রাসূলদের প্রতি বিশ্বাস রাখা আর পুনরুত্থানে বিশ্বাস রাখা। এরপর জিবরীল (আঃ) জিজ্ঞেস করলেন ইসলাম কী।"
+            "bn": "এ আয়াতের জন্য আনা কোনো তাফসীর নির্দিষ্ট কোনো হাদিস এর সঙ্গে জোড়েনি, তাই নিচের হাদিসটি তিনটি চিহ্নকে আলোকিত করে বটে, আয়াতের সঙ্গে বাঁধা নয়। সহীহ বুখারীতে আবু হুরায়রা (রাঃ) বর্ণনা করেন, জিবরীল (আঃ) নবী ﷺ-এর কাছে এসে জিজ্ঞেস করলেন ঈমান কী। তিনি বললেন, ঈমান হলো আল্লাহর প্রতি, তাঁর ফেরেশতাদের প্রতি, তাঁর সাক্ষাতের প্রতি, তাঁর রাসূলদের প্রতি বিশ্বাস রাখা আর পুনরুত্থানে বিশ্বাস রাখা। এরপর জিবরীল (আঃ) জিজ্ঞেস করলেন ইসলাম কী।"
           },
           {
             "en": "Islam, the Prophet ﷺ answered, is to worship Allah alone, to establish the prayer, to pay the obligatory zakah, and to fast Ramadan. Set the two answers beside our verse and the fit is exact. The two public acts the verse names, standing the prayer and giving the zakah, are named here under Islam; the certainty the verse names is named here under faith, as belief in the meeting with Allah and the resurrection. At the end the Prophet ﷺ said this was Jibril, come to teach the people their religion.",
@@ -145,7 +145,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse gives a way to check. Take the certainty first, since it is the root: is the return to Allah real enough to me to change what I do today? Then look for its fruit. Does my prayer stand, upright and awake, or merely get done? Does my zakah leave my hand and reach a rightful one? As-Sa'di called certainty of the Hereafter the root of all good. The test of whether I have it is whether anything at all is growing from it.",
-            "bn": "আয়াত মিলিয়ে দেখার একটা পথও দেয়। আগে নিন নিশ্চয়তাটা, যেহেতু এটিই মূল: আল্লাহর কাছে ফেরা কি আমার কাছে এতটা সত্য যে তা আজকের কাজ বদলে দেয়? তারপর তার ফল খুঁজুন। আমার নামায কি দাঁড়ায়, সোজা ও জাগ্রত, নাকি শুধু আদায় হয়ে যায়? আমার যাকাত কি হাত থেকে বেরিয়ে কোনো হকদারের কাছে পৌঁছায়? সাদী আখিরাতের নিশ্চয়তাকে বললেন সকল কল্যাণের মূল। আমার তা আছে কিনা তার পরীক্ষা হলো, তা থেকে কিছু গজাচ্ছে কিনা।"
+            "bn": "আয়াত মিলিয়ে দেখার একটা পথও দেয়। আগে নিন নিশ্চয়তাটা, যেহেতু এটিই মূল: আল্লাহর কাছে ফেরা কি আমার কাছে এতটা সত্য যে তা আজকের কাজ বদলে দেয়? তারপর তার ফল খুঁজুন। আমার নামাজ কি দাঁড়ায়, সোজা ও জাগ্রত, নাকি শুধু আদায় হয়ে যায়? আমার যাকাত কি হাত থেকে বেরিয়ে কোনো হকদারের কাছে পৌঁছায়? সাদী আখিরাতের নিশ্চয়তাকে বললেন সকল কল্যাণের মূল। আমার তা আছে কিনা তার পরীক্ষা হলো, তা থেকে কিছু গজাচ্ছে কিনা।"
           }
         ]
       }
@@ -277,7 +277,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "None of the commentaries attaches a specific hadith to this verse, so what follows is a general narration on the attitude the verse displays, not a report tied to the event. At-Tirmidhi records from ʿUmar ibn al-Khaṭṭāb (RA) that the Prophet ﷺ said: if you relied upon Allah as He should be relied upon, He would provide for you as He provides for the birds — they go out in the morning hungry and come back in the evening full. At-Tirmidhi graded it hasan ṣaḥīḥ and said he knew it only by this chain.",
-            "bn": "কোনো তাফসীরই এই আয়াতের সঙ্গে নির্দিষ্ট কোনো হাদীস জোড়েনি, তাই যা আসছে তা আয়াতের দেখানো মনোভাব নিয়ে একটি সাধারণ বর্ণনা, ঘটনার সঙ্গে বাঁধা কোনো রেওয়ায়েত নয়। তিরমিযী উমর ইবনুল খাত্তাব (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন: তোমরা যদি আল্লাহর উপর যথাযথভাবে ভরসা করতে, তিনি তোমাদের রিজিক দিতেন যেভাবে পাখিদের দেন, তারা সকালে খালি পেটে বেরোয় আর সন্ধ্যায় ভরা পেটে ফেরে। তিরমিযী একে হাসান সহীহ বলেছেন আর বলেছেন তিনি এটি কেবল এই সূত্রেই জানেন।"
+            "bn": "কোনো তাফসীরই এই আয়াতের সঙ্গে নির্দিষ্ট কোনো হাদিস জোড়েনি, তাই যা আসছে তা আয়াতের দেখানো মনোভাব নিয়ে একটি সাধারণ বর্ণনা, ঘটনার সঙ্গে বাঁধা কোনো রেওয়ায়েত নয়। তিরমিযী উমর ইবনুল খাত্তাব (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন: তোমরা যদি আল্লাহর উপর যথাযথভাবে ভরসা করতে, তিনি তোমাদের রিজিক দিতেন যেভাবে পাখিদের দেন, তারা সকালে খালি পেটে বেরোয় আর সন্ধ্যায় ভরা পেটে ফেরে। তিরমিযী একে হাসান সহীহ বলেছেন আর বলেছেন তিনি এটি কেবল এই সূত্রেই জানেন।"
           },
           {
             "en": "The point of the image is easy to miss. The bird is provided for, but it does not wait in the nest; it flies out at dawn and returns filled at dusk. Reliance on Allah is not stillness; it is going out to look, as Mūsā went out toward the fire, while the heart leans on the Provider rather than on the wings that carry it. That is the balance this verse holds. Do the plain work your need requires, and leave its outcome, small or staggering, to Allah.",
@@ -373,7 +373,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This is the quiet lesson of the verse. The messenger's task is enormous, so the proof is made enormous to match it. God's own description of these signs, as Ibn Kathir frames the story, is of mighty and dazzling signs and overwhelming proof, sent ahead of the confrontation. A proof of that weight leaves no honest excuse. Whatever answer a heart might give, it cannot honestly say that it was shown too little.",
-            "bn": "এটাই আয়াতের চাপা শিক্ষা। রসূলের কাজটা বিশাল, তাই প্রমাণটাও তার মাপে বিশাল করে দেওয়া হয়। ইবনে কাসীর যেভাবে কাহিনিটা তোলেন, আল্লাহর নিজের বর্ণনায় এগুলো শক্তিশালী ও চমকপ্রদ নিদর্শন, অকাট্য প্রমাণ, মুখোমুখি হওয়ার আগেই পাঠানো। এত ভারী প্রমাণের পর সৎ কোনো অজুহাত আর টেকে না। অন্তর যা-ই জবাব দিক, সৎভাবে এ কথা বলতে পারে না যে তাকে যথেষ্ট দেখানো হয়নি।"
+            "bn": "এটাই আয়াতের চাপা শিক্ষা। রাসূলের কাজটা বিশাল, তাই প্রমাণটাও তার মাপে বিশাল করে দেওয়া হয়। ইবনে কাসীর যেভাবে কাহিনিটা তোলেন, আল্লাহর নিজের বর্ণনায় এগুলো শক্তিশালী ও চমকপ্রদ নিদর্শন, অকাট্য প্রমাণ, মুখোমুখি হওয়ার আগেই পাঠানো। এত ভারী প্রমাণের পর সৎ কোনো অজুহাত আর টেকে না। অন্তর যা-ই জবাব দিক, সৎভাবে এ কথা বলতে পারে না যে তাকে যথেষ্ট দেখানো হয়নি।"
           }
         ]
       },
@@ -581,7 +581,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "And which way is it? Al-Qurtubi answers: the way of tawhid, the oneness of God, and he draws a sharp conclusion from it. By this, he says, Allah made clear that whatever is not the path of tawhid is not, in truth, a path that benefits at all. Ibn Kathir reads sabil the same way, as the way of truth. A road that does not lead to the Creator is not a slower road to Him. In the verse's logic it is no road home.",
-            "bn": "আর কোন পথ সেটা? কুরতুবী জবাব দেন: তাওহীদের পথ, আল্লাহর একত্বের পথ। এ থেকে তিনি একটা ধারালো সিদ্ধান্তে পৌঁছান। তিনি বলেন, এর মাধ্যমে আল্লাহ বুঝিয়ে দিলেন, তাওহীদের পথ ছাড়া অন্য যা কিছু, তা সত্যিকার অর্থে কোনো কাজে আসা পথই নয়। ইবন কাসীরও সাবীলকে একইভাবে পড়েন, সত্যের পথ হিসেবে। যে পথ স্রষ্টার কাছে পৌঁছায় না, তা তাঁর দিকে যাওয়ার ধীর কোনো পথ নয়। আয়াতের যুক্তিতে সেটা ঘরে ফেরার পথই নয়।"
+            "bn": "আর কোন পথ সেটা? কুরতুবী জবাব দেন: তাওহিদের পথ, আল্লাহর একত্বের পথ। এ থেকে তিনি একটা ধারালো সিদ্ধান্তে পৌঁছান। তিনি বলেন, এর মাধ্যমে আল্লাহ বুঝিয়ে দিলেন, তাওহিদের পথ ছাড়া অন্য যা কিছু, তা সত্যিকার অর্থে কোনো কাজে আসা পথই নয়। ইবন কাসীরও সাবীলকে একইভাবে পড়েন, সত্যের পথ হিসেবে। যে পথ স্রষ্টার কাছে পৌঁছায় না, তা তাঁর দিকে যাওয়ার ধীর কোনো পথ নয়। আয়াতের যুক্তিতে সেটা ঘরে ফেরার পথই নয়।"
           }
         ]
       },
@@ -861,7 +861,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Sahih Muslim records a hadith qudsi narrated by Abu Dharr (RA) in which Allah says: O My servants, if the first of you and the last of you, your humans and your jinn, were upon the most God-fearing heart of any one man among you, that would add nothing to My dominion; and if they were upon the most wicked heart among you, that would take nothing from it. These, He says, are only your deeds, which He records for you and then repays.",
-            "bn": "সহীহ মুসলিমে আবু যার (রাঃ) থেকে বর্ণিত একটি হাদীসে কুদসী আছে, যাতে আল্লাহ বলেন: হে আমার বান্দারা, তোমাদের প্রথম ও শেষ জন, তোমাদের মানুষ ও তোমাদের জিন যদি সকলে তোমাদের মধ্যকার সবচেয়ে মুত্তাকী ব্যক্তির হৃদয়ের মতো হয়ে যায়, তাতে আমার রাজত্বে কিছুই যোগ হবে না; আর যদি তারা সকলে তোমাদের মধ্যকার সবচেয়ে পাপিষ্ঠ হৃদয়ের মতো হয়ে যায়, তাতেও তা থেকে কিছুই কমবে না। তিনি বলেন, এগুলো তো তোমাদেরই আমল, যা তিনি লিখে রাখেন এবং পরে পুরোপুরি ফিরিয়ে দেন।"
+            "bn": "সহীহ মুসলিমে আবু যার (রাঃ) থেকে বর্ণিত একটি হাদিসে কুদসী আছে, যাতে আল্লাহ বলেন: হে আমার বান্দারা, তোমাদের প্রথম ও শেষ জন, তোমাদের মানুষ ও তোমাদের জিন যদি সকলে তোমাদের মধ্যকার সবচেয়ে মুত্তাকী ব্যক্তির হৃদয়ের মতো হয়ে যায়, তাতে আমার রাজত্বে কিছুই যোগ হবে না; আর যদি তারা সকলে তোমাদের মধ্যকার সবচেয়ে পাপিষ্ঠ হৃদয়ের মতো হয়ে যায়, তাতেও তা থেকে কিছুই কমবে না। তিনি বলেন, এগুলো তো তোমাদেরই আমল, যা তিনি লিখে রাখেন এবং পরে পুরোপুরি ফিরিয়ে দেন।"
           }
         ]
       },
@@ -1481,7 +1481,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "There is a second denial named in the same hadith, set beside the first: the claim that God has taken a child. The Prophet ﷺ reported both as things said against God without any right. The pairing is worth sitting with. To deny the raising and to assign God a child are, at root, one error wearing two faces, fitting the Creator into categories drawn from creatures, who are born, tire, and cannot gather their dead. The sneer and that other claim grow from the same soil: a God imagined down to our size.",
-            "bn": "একই হাদীসে প্রথমটার ঠিক পাশে আরেকটা অস্বীকারের নাম এসেছে: এই দাবি যে আল্লাহ সন্তান নিয়েছেন। নবী ﷺ দুটোকেই আল্লাহর বিরুদ্ধে অনধিকার বলা কথা হিসেবে জানিয়েছেন। জোড়াটা নিয়ে একটু থামা দরকার। পুনরুত্থান অস্বীকার করা আর আল্লাহর জন্য সন্তান সাব্যস্ত করা মূলে একই ভুল, দুই চেহারায়। দুটোই স্রষ্টাকে সৃষ্টির মাপকাঠিতে ফেলা, যে সৃষ্টি জন্মায়, ক্লান্ত হয়, নিজের মৃতদের জড়ো করতে পারে না। এই ঠাট্টা আর ওই অন্য দাবি একই মাটিতে গজায়: আল্লাহকে আমাদের মাপে নামিয়ে কল্পনা করা।"
+            "bn": "একই হাদিসে প্রথমটার ঠিক পাশে আরেকটা অস্বীকারের নাম এসেছে: এই দাবি যে আল্লাহ সন্তান নিয়েছেন। নবী ﷺ দুটোকেই আল্লাহর বিরুদ্ধে অনধিকার বলা কথা হিসেবে জানিয়েছেন। জোড়াটা নিয়ে একটু থামা দরকার। পুনরুত্থান অস্বীকার করা আর আল্লাহর জন্য সন্তান সাব্যস্ত করা মূলে একই ভুল, দুই চেহারায়। দুটোই স্রষ্টাকে সৃষ্টির মাপকাঠিতে ফেলা, যে সৃষ্টি জন্মায়, ক্লান্ত হয়, নিজের মৃতদের জড়ো করতে পারে না। এই ঠাট্টা আর ওই অন্য দাবি একই মাটিতে গজায়: আল্লাহকে আমাদের মাপে নামিয়ে কল্পনা করা।"
           }
         ]
       },
@@ -1601,7 +1601,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "This is set beside the verse, not read into it: it is a general narration about Allah's prior writing of all decrees, not one the mufassirūn cite on 27:75. Still, it says the same thing with a date on it. What the verse calls a clear Record, the hadith calls a writing older than the sky itself. For the one reading, the lesson lands close to home. The outcome you fear, and the one you hope for, were not drafted yesterday in response to your effort; they were set down before the ground you stand on was made.",
-            "bn": "এটি আয়াতের পাশে রাখা হলো, আয়াতের ভেতরে ঢোকানো হলো না। এটি আল্লাহর আগে থেকে সব তাকদীর লিখে রাখার একটি সাধারণ বর্ণনা, মুফাসসিরগণ যা ২৭:৭৫-এর সঙ্গে উদ্ধৃত করেননি। তবু এটি একই কথা বলে, সঙ্গে একটা সময়ও জুড়ে দেয়। আয়াত যাকে বলে সুস্পষ্ট কিতাব, হাদীস তাকে বলে আসমানেরও আগের এক লেখা। যে পড়ছে, তার জন্য শিক্ষাটা কাছেই এসে পড়ে। আপনি যে পরিণতিকে ভয় পান, আর যেটির আশা করেন, তা গতকাল আপনার চেষ্টার জবাবে লেখা হয়নি। আপনি যে মাটিতে দাঁড়িয়ে, তা বানানোরও আগে তা লিপিবদ্ধ হয়ে গেছে।"
+            "bn": "এটি আয়াতের পাশে রাখা হলো, আয়াতের ভেতরে ঢোকানো হলো না। এটি আল্লাহর আগে থেকে সব তাকদীর লিখে রাখার একটি সাধারণ বর্ণনা, মুফাসসিরগণ যা ২৭:৭৫-এর সঙ্গে উদ্ধৃত করেননি। তবু এটি একই কথা বলে, সঙ্গে একটা সময়ও জুড়ে দেয়। আয়াত যাকে বলে সুস্পষ্ট কিতাব, হাদিস তাকে বলে আসমানেরও আগের এক লেখা। যে পড়ছে, তার জন্য শিক্ষাটা কাছেই এসে পড়ে। আপনি যে পরিণতিকে ভয় পান, আর যেটির আশা করেন, তা গতকাল আপনার চেষ্টার জবাবে লেখা হয়নি। আপনি যে মাটিতে দাঁড়িয়ে, তা বানানোরও আগে তা লিপিবদ্ধ হয়ে গেছে।"
           }
         ]
       },
