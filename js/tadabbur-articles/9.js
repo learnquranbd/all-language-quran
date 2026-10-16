@@ -2741,7 +2741,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two more. The believers here were glad out loud and carried the news to each other, so when did I last say anything to another person about something in the Qur'an that had just moved me? And at-Tabari made the increase the fresh obligation that a revealed surah lays on a person: what has the Qur'an obliged me to that I have known about for years and have still not begun?",
-            "bn": "আরও ২টি। এখানকার মু'মিনরা খুশিটা মুখে এনেছিলেন, খবরটা একে অন্যকে পৌঁছে দিয়েছিলেন। তাহলে কুরআনের কোনো কথা সদ্য মন নাড়িয়ে দিয়েছে বলে শেষ কবে আমি অন্য কাউকে কিছু বলেছি? আর তাবারী বৃদ্ধিটাকে বানিয়েছেন সেই নতুন ফরজ, যা নেমে আসা সূরা মানুষের উপর চাপিয়ে দেয়; কুরআন আমার উপর কোন কাজটা ফরজ করেছে, যা বছরের পর বছর জেনেও আজও শুরু করিনি?"
+            "bn": "আরও দুটি প্রশ্ন। এখানকার মু'মিনরা খুশিটা চেপে রাখেননি, মুখে প্রকাশ করেছেন, খবরটা একে অন্যকে জানিয়েছেন। কুরআনের কোনো কথা সবে মন ছুঁয়ে গেছে আর আমি সেটা অন্য কাউকে বলেছি, এমন শেষ কবে হয়েছে? আর তাবারীর কাছে এই বৃদ্ধি মানে নতুন ফরজ, যা নাজিল হওয়া সূরা মানুষের কাঁধে চাপিয়ে দেয়। কুরআনের কোন ফরজটা আমি বছরের পর বছর ধরে জানি, অথচ আজও শুরুই করিনি?"
           }
         ]
       }
