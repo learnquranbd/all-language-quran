@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Alam tara kayfa fa'ala rabbuka bi-'Ad, Irama dhati al-'imad: have you not seen how your Lord dealt with 'Ad, Iram of the pillars? The two verses hold nine Arabic words, six and then three. They come straight after the oaths and the question of 89:5. Ibn Kathir explains the turn: having mentioned people of worship and obedience, Allah now mentions 'Ad, who were rebellious, insolent and tyrannical, outside His obedience, deniers of His messengers and rejecters of His books.",
-            "bn": "আলাম তারা কাইফা ফা‘আলা রাব্বুকা বি‘আদ, ইরামা যাতিল ‘ইমাদ: তুমি কি দেখোনি, তোমার রব ‘আদের সঙ্গে কী করেছিলেন, স্তম্ভওয়ালা ইরামের সঙ্গে? দুই আয়াতে মোট নয়টি আরবি শব্দ, প্রথমটিতে ছয়টি, পরেরটিতে তিনটি। শপথগুলো আর ৮৯:৫ আয়াতের প্রশ্নের ঠিক পরেই এদের স্থান। এই মোড় ঘোরার কারণ ইবন কাসীর ব্যাখ্যা করেন। ইবাদত আর আনুগত্যের মানুষদের কথা বলার পর আল্লাহ এবার ‘আদের কথা আনেন। তারা ছিল বিদ্রোহী, উদ্ধত আর জালিম। তাঁর আনুগত্যের বাইরে, তাঁর রাসূলদের মিথ্যা বলত, তাঁর কিতাবগুলো অস্বীকার করত।"
+            "bn": "আলাম তারা কাইফা ফা‘আলা রাব্বুকা বি‘আদ, ইরামা যাতিল ‘ইমাদ: তুমি কি দেখোনি, তোমার রব ‘আদের সঙ্গে কী করেছিলেন, স্তম্ভওয়ালা ইরামের সঙ্গে? দুই আয়াতে মোট নয়টি আরবি শব্দ, প্রথমটিতে ছয়টি, পরেরটিতে তিনটি। শপথগুলো আর ৮৯:৫ আয়াতের প্রশ্নের ঠিক পরেই এদের স্থান। এই মোড় ঘোরার কারণ ইবন কাসীর ব্যাখ্যা করেন। ইবাদত আর আনুগত্যের মানুষদের কথা বলার পর আল্লাহ এবার ‘আদের কথা আনেন। তারা ছিল বিদ্রোহী, উদ্ধত আর জালিম। তারা চলত তাঁর আনুগত্যের বাইরে, তাঁর রাসূলদের মিথ্যাবাদী বলত, তাঁর কিতাবগুলো অস্বীকার করত।"
           },
           {
             "en": "Who is asked to see, and with what? At-Tabari reads it as said to the Prophet ﷺ: have you not looked, Muhammad, with the eye of your heart? As-Sa'di says the same, with your heart and your insight. Al-Qurtubi calls it seeing of the heart, addressed to the Prophet ﷺ with a general intent, and notes that the story of 'Ad was well known to the first hearers, since 'Ad had lived in the lands of the Arabs. Al-Baghawi gives al-Farra': have you not been told? and az-Zajjaj: have you not known? The sense, he says, is wonder.",
@@ -37,7 +37,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir identifies them as the first 'Ad, descendants of 'Ad son of Iram son of 'Aws son of Sam son of Nuh, as Ibn Ishaq said. They are the people to whom Allah sent His messenger Hud (AS). They denied and opposed him, so Allah saved him and those who believed with him, and destroyed the rest with a furious wind. Ibn Kathir quotes 69:7 and 69:8 for it, and adds that Allah told their story in several places so that believers would take a lesson from their fall.",
-            "bn": "ইবন কাসীর বলেন, এরা প্রথম ‘আদ। ইবন ইসহাকের বর্ণনায় এদের বংশ: ‘আদ, ইরামের পুত্র, ইরাম আওসের পুত্র, আওস সামের পুত্র, সাম নূহের পুত্র। এরাই সেই জাতি, যাদের কাছে আল্লাহ তাঁর রাসূল হূদ (আঃ)-কে পাঠিয়েছিলেন। তারা তাঁকে মিথ্যা বলল, তাঁর বিরোধিতা করল। আল্লাহ তাঁকে আর তাঁর সঙ্গে ঈমান আনা লোকদের বাঁচালেন, বাকিদের ধ্বংস করলেন প্রচণ্ড ঝড়ো বাতাসে। এর প্রমাণে ইবন কাসীর ৬৯:৭ আর ৬৯:৮ আয়াত উদ্ধৃত করেন। তিনি আরও বলেন, কুরআনে আল্লাহ একাধিক জায়গায় তাদের কাহিনি বলেছেন, যাতে মুমিনেরা তাদের পতন থেকে শিক্ষা নেয়।"
+            "bn": "ইবন কাসীর বলেন, এরা প্রথম ‘আদ। ইবন ইসহাকের বর্ণনায় এদের বংশ: ‘আদ, ইরামের পুত্র, ইরাম আওসের পুত্র, আওস সামের পুত্র, সাম নূহের পুত্র। এরাই সেই জাতি, যাদের কাছে আল্লাহ তাঁর রাসূল হূদ (আঃ)-কে পাঠিয়েছিলেন। তারা তাঁকে মিথ্যাবাদী বলল, তাঁর বিরোধিতা করল। আল্লাহ তাঁকে আর তাঁর সঙ্গে ঈমান আনা লোকদের বাঁচালেন, বাকিদের ধ্বংস করলেন প্রচণ্ড ঝড়ো বাতাসে। এর প্রমাণে ইবন কাসীর ৬৯:৭ আর ৬৯:৮ আয়াত উদ্ধৃত করেন। তিনি আরও বলেন, কুরআনে আল্লাহ একাধিক জায়গায় তাদের কাহিনি বলেছেন, যাতে মুমিনেরা তাদের পতন থেকে শিক্ষা নেয়।"
           },
           {
             "en": "Why add Iram at all? Ma'arif al-Qur'an says Iram marks out which of two 'Ads is meant: the earlier, called 'Ad al-Ula, the first 'Ad, in 53:50. Al-Qurtubi gives the same picture as one view: there were two 'Ads, the first of them Iram, named after their ancestor, and those after them called the later 'Ad. On this account, the name ties the people to a known line.",
@@ -108,7 +108,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Tall Tales, Weighed and Set Aside",
-          "bn": "অতিরঞ্জিত কাহিনি, মেপে দেখা"
+          "bn": "অতিরঞ্জিত কাহিনি: যাচাই করে বাদ"
         },
         "p": [
           {
@@ -144,7 +144,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "No Heirs Named Today",
-          "bn": "আজকের কোনো উত্তরসূরি নেই"
+          "bn": "আজকের কাউকে উত্তরসূরি বলা চলে না"
         },
         "p": [
           {
@@ -153,7 +153,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What the verses leave the reader is the question itself: have you not seen? A reader who has the health, the skill or the walls that his own age admires can ask it of himself. Do I treat what I have been given as proof that nothing can reach me? Have I been reminded of a favour and answered with a boast? Those who ask that honestly have seen what the verses asked them to see.",
-            "bn": "আয়াত দুটি পাঠকের হাতে যা রেখে যায়, তা প্রশ্নটাই: তুমি কি দেখোনি? যে পাঠকের আছে স্বাস্থ্য, দক্ষতা কিংবা এমন দেয়াল, যা তার যুগের মানুষ তারিফ করে, তিনি প্রশ্নটা নিজেকেই করতে পারেন। আমাকে যা দেওয়া হয়েছে, আমি কি তাকে এমন প্রমাণ ভাবি যে কিছুই আমাকে ছুঁতে পারবে না? কোনো নিয়ামতের কথা মনে করিয়ে দেওয়া হলে আমি কি জবাব দিয়েছি অহংকারে? যিনি সততার সঙ্গে এ প্রশ্ন করেন, আয়াত দুটি যা দেখতে বলেছে, তিনি তা দেখেছেন।"
+            "bn": "আয়াত দুটি পাঠকের হাতে রেখে যায় প্রশ্নটাই: তুমি কি দেখোনি? যাঁর আছে স্বাস্থ্য, দক্ষতা কিংবা এমন দেয়াল, যা নিজের যুগের লোকেরা তারিফ করে, তিনি প্রশ্নটা নিজেকেই করতে পারেন। আমাকে যা দেওয়া হয়েছে, তা দেখে কি আমি ভাবি, কিছুই আমাকে ছুঁতে পারবে না? নিয়ামতের কথা মনে করিয়ে দেওয়া হলে আমি কি অহংকার দিয়ে জবাব দিয়েছি? যিনি সৎভাবে এ প্রশ্ন করেন, আয়াত দুটি যা দেখতে বলেছে, তিনি তা দেখেছেন।"
           }
         ]
       }
@@ -185,7 +185,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators read this verse through the no that comes before it. The Muyassar, which treats 89:18 together with 89:19 and 89:20, begins there: the matter is not as this man supposes; rather, honour is by obedience to Allah and disgrace by disobeying Him. Then it lists the charges; for this verse, some of you do not urge others to feed the poor. Ibn Kathir, in the abridged English, makes the same correction from the other side: Allah gives wealth to those He loves and to those He does not love, and withholds it from both.",
-            "bn": "তাফসীরকারেরা আয়াতটি পড়েন আগের কাল্লার আলোয়। মুয়াসসার ৮৯:১৮ আয়াতকে ৮৯:১৯ ও ৮৯:২০ আয়াতের সঙ্গে একসঙ্গে ব্যাখ্যা করে, আর শুরু করে সেখান থেকেই। ব্যাপারটা এই মানুষ যেমন ভাবছে তেমন নয়। সম্মান আসে আল্লাহর আনুগত্যে, লাঞ্ছনা আসে তাঁর নাফরমানিতে। এরপর মুয়াসসার অভিযোগগুলো গুনে যায়, এ আয়াতের বেলায়: তোমাদের কেউ অন্যকে মিসকীনকে খাওয়াতে উৎসাহ দেয় না। ইবন কাসীর, সংক্ষিপ্ত ইংরেজি সংস্করণে, একই ভুল ভাঙান অন্য দিক থেকে। আল্লাহ যাদের ভালোবাসেন তাদেরও সম্পদ দেন, যাদের ভালোবাসেন না তাদেরও দেন। আবার দুই দলের কাছ থেকেই তা আটকেও রাখেন।"
+            "bn": "তাফসীরকারেরা আয়াতটি পড়েন আগের কাল্লার আলোয়। মুয়াসসার ৮৯:১৮ আয়াতকে ৮৯:১৯ ও ৮৯:২০ আয়াতের সঙ্গে একসঙ্গে ব্যাখ্যা করে, আর শুরু করে সেখান থেকেই। ব্যাপারটা এই মানুষ যেমন ভাবছে তেমন নয়। সম্মান আসে আল্লাহর আনুগত্যে, লাঞ্ছনা আসে তাঁর নাফরমানিতে। এরপর মুয়াসসার অভিযোগগুলো গুনে যায়, এ আয়াতের বেলায়: তোমাদের কেউ অন্যকে মিসকীনকে খাওয়াতে উৎসাহ দেয় না। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি সংস্করণ একই ভুল ভাঙায় অন্য দিক থেকে। আল্লাহ যাদের ভালোবাসেন তাদেরও সম্পদ দেন, যাদের ভালোবাসেন না তাদেরও দেন। আবার দুই দলের কাছ থেকেই তা আটকেও রাখেন।"
           },
           {
             "en": "The point, in Ibn Kathir's words, is that Allah should be obeyed in either circumstance: the wealthy should thank Allah, and the poor should be patient. Ma'arif al-Qur'an, commenting on 89:17 and this verse together, says the passage is apparently a rebuff to those who think wealth is an honour and poverty a dishonour. The verse does not tell anyone how rich they are. It points at what was done, or left unsaid, with what they had, which for the Muyassar is where honour and disgrace are actually decided.",
@@ -309,7 +309,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The urging is open to every reader. Some readers can give, and can ask others to give with them. Some cannot give much, and can still name the need to someone who can, which is what Ma'arif al-Qur'an asks of them. The passage moves on from here to inheritance and the love of wealth in 89:19 and 89:20. This verse's own share is smaller and nearer: the sentence that nobody in the room said.",
-            "bn": "তাগিদ দেওয়ার সুযোগ প্রত্যেক পাঠকের আছে। কোনো পাঠক নিজে দিতে পারেন, আর অন্যদেরও সঙ্গে নিয়ে দিতে বলতে পারেন। কেউ বেশি দিতে পারেন না, তবু যে পারে তার কাছে প্রয়োজনের কথাটা তুলতে পারেন, মাআরিফুল কুরআন তাদের কাছে ঠিক এটুকুই চায়। এখান থেকে অংশটি এগিয়ে যায় উত্তরাধিকার আর সম্পদপ্রীতির দিকে, ৮৯:১৯ ও ৮৯:২০ আয়াতে। এ আয়াতের নিজের ভাগ ছোট, আর কাছের: ঘরের কেউ যে কথাটা মুখে আনেনি।"
+            "bn": "তাগিদ দেওয়ার সুযোগ প্রত্যেক পাঠকের আছে। কেউ নিজে দিতে পারেন, অন্যদেরও সঙ্গে নিয়ে দিতে বলতে পারেন। কেউ বেশি দিতে পারেন না, তবু যার সামর্থ্য আছে, তাকে প্রয়োজনের কথাটা জানাতে পারেন। মাআরিফুল কুরআন তাদের কাছে ঠিক এটুকুই চায়। এখান থেকে অংশটি এগিয়ে যায় উত্তরাধিকার আর সম্পদপ্রীতির দিকে, ৮৯:১৯ ও ৮৯:২০ আয়াতে। এ আয়াতের নিজের ভাগ ছোট, আর কাছের: ঘরের কেউ যে কথাটা মুখে আনেনি।"
           }
         ]
       }
@@ -325,7 +325,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa tuhibbuna al-mala hubban jamma: and you love wealth with a love that is jamm. The verse is four words in the Arabic, and its verb and the noun after the object come from one root, you love and a love. It closes a short run of charges. Just before it, 89:15 and 89:16 report the claim of man: when his Lord is generous to him he says, my Lord has honoured me, and when his provision is restricted he says, my Lord has humiliated me. Then 89:17 opens with kalla, no, and the charges begin.",
-            "bn": "ওয়া তুহিব্বূনাল মালা হুব্বান জাম্মা: আর তোমরা সম্পদকে ভালোবাস 'জাম্ম' ভালোবাসায়। আরবিতে আয়াতটি মাত্র চারটি শব্দ। ক্রিয়া আর বস্তুর পরের নামপদটি একই ধাতু থেকে এসেছে: ভালোবাস, ভালোবাসায়। ছোট্ট এক অভিযোগের ধারা এ আয়াতে এসে থামে। ঠিক আগে ৮৯:১৫ ও ৮৯:১৬ আয়াত মানুষের দাবিটা তুলে ধরে। রব তাকে দান করলে সে বলে, আমার রব আমাকে সম্মান দিয়েছেন। রিযক সংকুচিত হলে বলে, আমার রব আমাকে অপমান করেছেন। তারপর ৮৯:১৭ আয়াত শুরু হয় 'কাল্লা' দিয়ে, অর্থাৎ না, আর অভিযোগগুলো আসতে থাকে।"
+            "bn": "ওয়া তুহিব্বূনাল মালা হুব্বান জাম্মা: আর তোমরা সম্পদকে ভালোবাস 'জাম্ম' ভালোবাসায়। আরবিতে আয়াতটি মাত্র চারটি শব্দ। ক্রিয়াপদ আর কর্মের পরের বিশেষ্যটি একই ধাতু থেকে এসেছে: ভালোবাস, ভালোবাসায়। ছোট্ট এক অভিযোগের ধারা এ আয়াতে এসে থামে। ঠিক আগে ৮৯:১৫ ও ৮৯:১৬ আয়াত মানুষের দাবিটা তুলে ধরে। রব তাকে দান করলে সে বলে, আমার রব আমাকে সম্মান দিয়েছেন। রিযক সংকুচিত হলে বলে, আমার রব আমাকে অপমান করেছেন। তারপর ৮৯:১৭ আয়াত শুরু হয় 'কাল্লা' দিয়ে, অর্থাৎ না, আর অভিযোগগুলো আসতে থাকে।"
           },
           {
             "en": "The charges run through three verses: you do not honour the orphan, you do not urge one another to feed the poor, and you devour inheritance with a greedy devouring. Those verses, 89:17 to 89:19, have their own treatment and are named here only as the setting. The Muyassar reads 89:18 to 89:20 as one passage and first answers the man's assumption: honour lies in obedience to Allah, and humiliation in disobedience to Him. Where the earlier charges name things done or left undone, this last one names a love.",
@@ -349,7 +349,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi also quotes a line of poetry, ascribed in his editor's brackets to Abu Khirash al-Hudhali: in taghfir allahumma taghfir jamma, wa ayyu 'abdin laka la alamma. If You forgive, O Allah, You forgive abundantly, and what servant of Yours has not fallen into some slight fault? There the same word praises the abundance of Allah's forgiveness. This article draws one observation from that: the word jamm carries no blame of itself. Any blame in the verse comes from what the abundance attaches to, a point Ma'arif al-Qur'an makes outright, as a later section shows.",
-            "bn": "কুরতুবী একটি কবিতার পঙক্তিও উদ্ধৃত করেন। সম্পাদকের বন্ধনীতে তা আবু খিরাশ হুযালীর বলে উল্লেখ আছে: ইন তাগফির আল্লাহুম্মা তাগফির জাম্মা, ওয়া আইয়ু আবদিন লাকা লা আলাম্মা। হে আল্লাহ, তুমি ক্ষমা করলে অঢেল ক্ষমা কর, আর তোমার এমন কোন বান্দা আছে, যে ছোটখাটো ভুলে জড়ায়নি? সেখানে এই একই শব্দ আল্লাহর ক্ষমার প্রাচুর্যের প্রশংসা করছে। এ লেখা সেখান থেকে একটি কথা টানে: 'জাম্ম' শব্দে নিজে থেকে কোনো নিন্দা নেই। আয়াতে যে নিন্দা, তা আসে প্রাচুর্যটা কিসের সঙ্গে জুড়েছে তা থেকে। মাআরিফুল কুরআন কথাটা সরাসরি বলে, পরের এক অংশে তা আসছে।"
+            "bn": "কুরতুবী একটি কবিতার পঙক্তিও উদ্ধৃত করেন। সম্পাদকের বন্ধনীতে তা আবু খিরাশ হুযালীর বলে উল্লেখ আছে: ইন তাগফির আল্লাহুম্মা তাগফির জাম্মা, ওয়া আইয়ু আবদিন লাকা লা আলাম্মা। হে আল্লাহ, আপনি ক্ষমা করলে অঢেল ক্ষমা করেন, আর আপনার এমন কোন বান্দা আছে, যে ছোটখাটো ভুলে জড়ায়নি? সেখানে এই একই শব্দ আল্লাহর ক্ষমার প্রাচুর্যের প্রশংসা করছে। এ লেখা সেখান থেকে একটি কথা টানে: 'জাম্ম' শব্দে নিজে থেকে কোনো নিন্দা নেই। আয়াতে যে নিন্দা, তা আসে প্রাচুর্যটা কিসের সঙ্গে জুড়েছে তা থেকে। মাআরিফুল কুরআন কথাটা সরাসরি বলে, পরের এক অংশে তা আসছে।"
           }
         ]
       },
@@ -441,7 +441,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What follows is this article's own reading, not a claim of any commentator. The image the commentators give for jamm is water collecting in a basin, and a well that fills again soon after it has been drawn. Read against that image, the verse can be held up as a mirror. Is there something in me that gathers and has no outlet, so that whatever comes in mostly stays? And when some of it goes out in giving, does the wish to have it rise again at once to fill the space, the way a full well recovers its level?",
-            "bn": "এখান থেকে যা আসছে, তা এ লেখার নিজের পাঠ, কোনো তাফসীরকারের দাবি নয়। 'জাম্ম'-এর জন্য তাফসীরকারেরা যে ছবি দেন, তা হাউজে জমে ওঠা পানির, আর এমন কূপের, যা সেঁচে নেওয়ার পর অল্পক্ষণেই আবার ভরে যায়। সেই ছবির পাশে রাখলে আয়াতটি আয়নার মতো সামনে ধরা যায়। আমার ভেতরে কি এমন কিছু আছে, যা শুধু জমায়, বেরোনোর কোনো পথ নেই, ফলে যা আসে তার প্রায় সবই থেকে যায়? আর দানের পথে কিছু বেরিয়ে গেলে কি সেটা ফেরত পাওয়ার ইচ্ছা সঙ্গে সঙ্গে উঠে এসে জায়গাটা ভরে দেয়, যেমন ভরা কূপ আবার আগের জায়গায় ফিরে আসে?"
+            "bn": "এখান থেকে যা আসছে, তা এ লেখার নিজের পাঠ, কোনো তাফসীরকারের দাবি নয়। 'জাম্ম'-এর জন্য তাফসীরকারেরা যে ছবি দেন, তা হাউজে জমে ওঠা পানির, আর এমন কূপের, যা সেঁচে নেওয়ার পর অল্পক্ষণেই আবার ভরে যায়। সেই ছবির পাশে রাখলে আয়াতটি আয়নার মতো সামনে ধরা যায়। আমার ভেতরে কি এমন কিছু আছে, যা শুধু জমায়, বেরোনোর কোনো পথ নেই, ফলে যা আসে তার প্রায় সবই থেকে যায়? আর দানের পথে কিছু বেরিয়ে গেলে কি তা আবার পাওয়ার ইচ্ছা সঙ্গে সঙ্গে উঠে এসে খালি জায়গাটা ভরে দেয়, যেমন ভরা কূপের পানি আবার আগের উচ্চতায় উঠে আসে?"
           },
           {
             "en": "The same reading turns back to 89:15 and 89:16, where a man measured his honour by what he was given. Taking the Muyassar's line that honour lies in obedience to Allah, the question for the reader is not how much sits in the basin, but what the love of it has kept from reaching the orphan, the poor and the heir nearby. Ma'arif al-Qur'an leaves room for an ordinary, sober love of wealth, and condemns only its excess. The reader can ask, honestly and in private, on which side of that line the heart stands today.",
@@ -456,16 +456,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Where the Address Falls",
-          "bn": "সম্বোধনটি কোথায় পড়ে"
+          "bn": "সম্বোধনটা আসে কোথায়"
         },
         "p": [
           {
             "en": "Surah al-Fajr is a surah of hard scenes before this gentle ending. It parades the destroyed powers — Aad of the pillars, Thamud who carved the rocks, Pharaoh of the stakes — and then diagnoses man in 89:15-16: honored, he says my Lord has favored me; tried with less, he says my Lord has humiliated me. It shows inheritance devoured greedily and wealth loved with unbounded love, then the Day when Hell is brought and man remembers too late, as 89:23 describes.",
-            "bn": "সূরা আল-ফাজর এই কোমল সমাপ্তির আগে কঠিন দৃশ্যের সূরা। এটি সারিবদ্ধ করে দেখায় ধ্বংস হওয়া পরাক্রমগুলোকে — স্তম্ভের অধিকারী আদ, পাথর খোদাই করা সামূদ, কীলকের অধিকারী ফিরআউন — তারপর 89:15-16 আয়াতে মানুষের রোগনির্ণয় করে: সম্মানিত হলে সে বলে আমার রব আমাকে অনুগ্রহ করেছেন; সংকীর্ণতায় পরীক্ষিত হলে বলে আমার রব আমাকে অপমান করেছেন। এটি দেখায় গোগ্রাসে খাওয়া উত্তরাধিকার আর লোভভরে ভালোবাসা ধনসম্পদ; তারপর সেই দিন, যেদিন জাহান্নামকে আনা হবে আর মানুষ স্মরণ করবে — কিন্তু অনেক দেরিতে, যেমন 89:23 বর্ণনা করে।"
+            "bn": "এই কোমল সমাপ্তির আগে সূরা আল-ফাজর ভরা কঠিন সব দৃশ্যে। একে একে সামনে আনে ধ্বংস হয়ে যাওয়া পরাক্রমশালীদের: স্তম্ভওয়ালা ‘আদ, পাথর কেটে ঘর বানানো সামূদ, কীলকওয়ালা ফেরাউন। তারপর ৮৯:১৫-১৬ আয়াতে মানুষের দোষ ধরিয়ে দেয়। সম্মান পেলে সে বলে, আমার রব আমার প্রতি অনুগ্রহ করেছেন। কম দিয়ে পরীক্ষা করা হলে বলে, আমার রব আমাকে অপমান করেছেন। সূরাটি দেখায় মিরাসের সম্পদ গোগ্রাসে খাওয়া আর সম্পদের প্রতি সীমাহীন ভালোবাসা। তারপর সেই দিন, যেদিন জাহান্নাম সামনে আনা হবে আর মানুষের মনে পড়বে, কিন্তু তখন অনেক দেরি হয়ে গেছে। ৮৯:২৩ আয়াত সে কথাই বলে।"
           },
           {
             "en": "Against that dark background, the final verses turn with sudden tenderness to a single addressee: O soul at peace. The contrast is the message. The surah has shown souls that rattled with the rise and fall of fortune; now it addresses the one soul that stopped rattling. Everything before was the noise; this is the voice that the quiet soul finally hears.",
-            "bn": "সেই অন্ধকার পটভূমির বিপরীতে শেষ আয়াতগুলো হঠাৎ কোমলতায় ফেরে একটিমাত্র সম্বোধিতের দিকে: হে প্রশান্ত আত্মা। এই বৈপরীত্যই বার্তা। সূরাটি দেখিয়েছে সেসব আত্মাকে, ভাগ্যের ওঠানামায় যারা ঝনঝন করে কেঁপেছে; এখন সে সম্বোধন করছে সেই একটি আত্মাকে, যার কাঁপুনি থেমে গেছে। আগের সবকিছু ছিল কোলাহল; আর এটি সেই কণ্ঠস্বর, যা শান্ত আত্মা অবশেষে শুনতে পায়।"
+            "bn": "এমন অন্ধকার পটভূমির পর শেষ আয়াতগুলো হঠাৎ পরম মমতায় একজনকেই ডাকে: হে প্রশান্ত আত্মা! এই বৈপরীত্যটাই আসল বার্তা। সূরাটি এতক্ষণ দেখিয়েছে এমন সব আত্মা, ভাগ্যের ওঠানামায় যারা কেঁপে কেঁপে উঠেছে। এবার ডাকছে সেই আত্মাকে, যার কাঁপুনি থেমে গেছে। আগের সবকিছু ছিল কোলাহল। আর এ সেই ডাক, যা শান্ত আত্মা শেষমেশ শুনতে পায়।"
           }
         ]
       },
@@ -477,11 +477,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Quran names three conditions of the human soul. There is the nafs ammarah bis-su, the soul that commands to evil, confessed in 12:53; the nafs lawwamah, the self-reproaching soul that Allah swears by in 75:2; and here the nafs mutma'innah, the soul at rest. Scholars have long read these as stations on one road: the same soul, disciplined and turned toward its Lord, moves from commanding evil, to blaming itself, to settling.",
-            "bn": "কুরআন মানব আত্মার তিনটি অবস্থার নাম নেয়। আছে 'নাফসে আম্মারা বিস-সূ' — মন্দের আদেশদাতা আত্মা, যার স্বীকারোক্তি 12:53 আয়াতে; 'নাফসে লাওয়ামা' — আত্মভর্ৎসনাকারী আত্মা, যার কসম আল্লাহ খেয়েছেন 75:2 আয়াতে; আর এখানে 'নাফসে মুতমাইন্না' — স্থির, প্রশান্ত আত্মা। আলিমগণ বহুকাল ধরে এগুলোকে পড়েছেন এক পথেরই স্টেশন হিসেবে: একই আত্মা, সংযত হয়ে ও তার রবের দিকে ফিরে, মন্দের আদেশ থেকে আত্মভর্ৎসনায়, সেখান থেকে স্থিরতায় পৌঁছায়।"
+            "bn": "কুরআন মানুষের আত্মার তিনটি অবস্থার নাম বলে। একটি নাফসে আম্মারা বিস-সূ, যে আত্মা মন্দের হুকুম দেয়; ১২:৫৩ আয়াতে এর স্বীকারোক্তি আছে। আরেকটি নাফসে লাওয়ামা, যে আত্মা নিজেকে ভর্ৎসনা করে; ৭৫:২ আয়াতে আল্লাহ এর কসম খেয়েছেন। আর এখানে নাফসে মুতমাইন্না, স্থির, প্রশান্ত আত্মা। আলিমরা বহুকাল ধরে এগুলোকে একই পথের তিনটি মঞ্জিল হিসেবে দেখে এসেছেন। একই আত্মা নিজেকে সংযত করে, রবের দিকে ফিরে, মন্দের হুকুম দেওয়া থেকে নিজেকে ভর্ৎসনা করায় পৌঁছায়, তারপর থিতু হয় প্রশান্তিতে।"
           },
           {
             "en": "What the soul is at peace about is defined by the surah it ends: not at peace about outcomes, but about its Lord. Where 89:15-16 showed a soul whose verdict on Allah swung with its bank balance, the mutma'innah holds steady through both halves of that test. And the Quran states where such steadiness is manufactured: truly in the remembrance of Allah do hearts find rest, as 13:28 says. Tranquility is not a temperament; it is a relationship's fruit.",
-            "bn": "আত্মাটি কী বিষয়ে প্রশান্ত, তা সংজ্ঞায়িত করে সেই সূরাই, যার সমাপ্তিতে সে আছে: ফলাফল নিয়ে প্রশান্ত নয় — তার রব সম্পর্কে প্রশান্ত। 89:15-16 যেখানে দেখিয়েছে এমন আত্মা, আল্লাহ সম্পর্কে যার রায় ব্যাংক ব্যালেন্সের সঙ্গে দুলত, মুতমাইন্না সেখানে সেই পরীক্ষার দুই অর্ধেই অটল থাকে। আর এমন অটলতা কোথায় তৈরি হয় কুরআন তা বলে দিয়েছে: জেনে রাখো, আল্লাহর স্মরণেই হৃদয় প্রশান্তি পায় — যেমন 13:28 বলে। প্রশান্তি কোনো মেজাজ নয়; এটি এক সম্পর্কের ফল।"
+            "bn": "এ আত্মা কোন বিষয়ে প্রশান্ত, তা বুঝিয়ে দেয় সূরাটি নিজেই, যার শেষে এ আয়াতগুলো এসেছে। ফলাফল নিয়ে সে নিশ্চিন্ত নয়, নিশ্চিন্ত তার রবকে নিয়ে। ৮৯:১৫-১৬ আয়াতে দেখা গেছে এমন আত্মা, আল্লাহ সম্পর্কে যার রায় ওঠানামা করত ব্যাংকের হিসাবের সঙ্গে। মুতমাইন্না আত্মা সেই পরীক্ষার দুই দিকেই অটল থাকে। এই অটলতা কোথায় গড়ে ওঠে, কুরআন তা বলে দিয়েছে: জেনে রাখো, আল্লাহর জিকিরেই অন্তর প্রশান্তি পায় (১৩:২৮)। প্রশান্তি মেজাজের ব্যাপার নয়, সম্পর্কের ফল।"
           }
         ]
       },
@@ -493,11 +493,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Return to your Lord radiyatan mardiyyah — well-pleased, well-pleasing. The two words are a mirror: the soul is pleased with Allah, with what He decreed, gave and withheld; and Allah is pleased with the soul. The order within the verse repays attention. Being pleased with Him is the soul's own work in this life, done in the dark, through the unexplained losses; being pleased with by Him is the answer it receives at the return.",
-            "bn": "তোমার রবের দিকে ফিরে এসো 'রাদিয়াতান মারদিয়্যাহ' — সন্তুষ্ট হয়ে, সন্তোষভাজন হয়ে। শব্দ দুটি একটি আয়না: আত্মা আল্লাহর প্রতি সন্তুষ্ট — তাঁর ফয়সালায়, তাঁর দেওয়ায় ও না-দেওয়ায়; আর আল্লাহ সন্তুষ্ট সেই আত্মার প্রতি। আয়াতের ভেতরের ক্রমটি মনোযোগের দাম ফেরত দেয়। তাঁর প্রতি সন্তুষ্ট থাকা এই জীবনে আত্মার নিজের কাজ — অন্ধকারে, ব্যাখ্যাহীন ক্ষতির ভেতর দিয়ে করা; আর তাঁর সন্তোষভাজন হওয়া হলো প্রত্যাবর্তনের সময় পাওয়া তার উত্তর।"
+            "bn": "তোমার রবের দিকে ফিরে এসো, রাদিয়াতান মারদিয়্যাহ: সন্তুষ্ট হয়ে, সন্তোষভাজন হয়ে। শব্দ দুটি যেন একে অপরের আয়না। আত্মা আল্লাহর ওপর সন্তুষ্ট: তাঁর ফয়সালায়, তিনি যা দিয়েছেন আর যা দেননি তাতে। আর আল্লাহও সেই আত্মার ওপর সন্তুষ্ট। আয়াতের ভেতরের ক্রমটা খেয়াল করার মতো। আল্লাহর ওপর সন্তুষ্ট থাকা এ জীবনে আত্মার নিজের কাজ। তা করতে হয় অন্ধকারে, এমন সব ক্ষতির ভেতর দিয়ে, যার ব্যাখ্যা মেলে না। আর আল্লাহর সন্তোষ হলো ফিরে যাওয়ার সময় সে যে জবাব পায়, তা-ই।"
           },
           {
             "en": "The command irji'i, return, also quietly asserts something about home. One returns only to where one belongs; the wording treats the soul's presence in this world as a journey out, and its movement to Allah as the way back. Death, for the soul described here, is not eviction from its place but arrival at it.",
-            "bn": "'ইরজিঈ' — ফিরে এসো — আদেশটিও নীরবে ঠিকানা সম্পর্কে কিছু ঘোষণা করে। মানুষ কেবল সেখানেই ফেরে, যেখানে তার শিকড়; শব্দবিন্যাসটি আত্মার এই দুনিয়ায় থাকাকে দেখে বাইরে যাওয়া সফর হিসেবে, আর আল্লাহর দিকে তার যাত্রাকে ঘরে ফেরার পথ হিসেবে। এখানে বর্ণিত আত্মার জন্য মৃত্যু নিজের জায়গা থেকে উচ্ছেদ নয় — সেখানে পৌঁছানো।"
+            "bn": "ইরজিঈ, ফিরে এসো: এই আদেশ চুপিসারে ঘর সম্পর্কেও একটা কথা বলে দেয়। মানুষ ফেরে কেবল সেখানেই, যেখানে তার আসল ঠিকানা। শব্দটি দুনিয়ায় আত্মার থাকাকে দেখে বাইরে বেরোনো এক সফর হিসেবে, আর আল্লাহর দিকে যাওয়াকে দেখে ঘরে ফেরার পথ হিসেবে। এখানে যে আত্মার কথা, তার জন্য মৃত্যু নিজের জায়গা থেকে উচ্ছেদ নয়, বরং নিজের জায়গায় পৌঁছানো।"
           }
         ]
       },
@@ -509,27 +509,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The welcome has two doors, in order: enter among My servants, and enter My Garden. Company comes before place. Before the Garden is mentioned, the soul is folded into the fellowship of Allah's servants — the prophets, the truthful, the martyrs and the righteous whom 4:69 names as the best of companions. The sequence hints that who you are with is a deeper reward than where you are; Paradise is Paradise partly because of its residents.",
-            "bn": "অভ্যর্থনাটির দুটি দরজা, ক্রম অনুসারে: আমার বান্দাদের মধ্যে প্রবেশ করো, এবং আমার জান্নাতে প্রবেশ করো। স্থানের আগে সঙ্গ। জান্নাতের উল্লেখের আগেই আত্মাকে জড়িয়ে নেওয়া হয় আল্লাহর বান্দাদের সাহচর্যে — নবীগণ, সিদ্দীকগণ, শহীদগণ ও সালিহগণ, 4:69 যাঁদের নাম নিয়েছে শ্রেষ্ঠ সঙ্গী হিসেবে। এই ক্রম ইঙ্গিত দেয়: আপনি কাদের সঙ্গে আছেন, তা আপনি কোথায় আছেন তার চেয়ে গভীর পুরস্কার; জান্নাত আংশিকভাবে জান্নাত তার অধিবাসীদের কারণেই।"
+            "bn": "অভ্যর্থনার দুটি দরজা, পরপর: আমার বান্দাদের মধ্যে প্রবেশ করো, আর আমার জান্নাতে প্রবেশ করো। জায়গার আগে সঙ্গী। জান্নাতের নাম আসার আগেই আল্লাহ আত্মাকে জায়গা দেন তাঁর বান্দাদের দলে। তাঁরা নবী, সিদ্দীক, শহীদ ও সালিহ বান্দারা, ৪:৬৯ আয়াত যাঁদের বলেছে সবচেয়ে উত্তম সঙ্গী। এই ক্রম ইশারা দেয়, আপনি কোথায় আছেন তার চেয়ে বড় পুরস্কার হলো আপনি কাদের সঙ্গে আছেন। জান্নাত জান্নাত হয়ে ওঠে অনেকটা তার বাসিন্দাদের কারণেও।"
           },
           {
             "en": "Then the possessive: My Garden. Throughout the Quran, Paradise is described by its rivers and shade, but here, at the address to the quiet soul, Allah attaches it to Himself. The commentators hear in that single pronoun the highest honoring in the passage — the invitation is not to a reward warehouse but into what the Host calls His own. The verses are recited across the world at funerals; they were revealed as a destination to steer a life by.",
-            "bn": "তারপর সেই সম্বন্ধসূচক শব্দ: আমার জান্নাত। গোটা কুরআনে জান্নাতের বর্ণনা তার নদী ও ছায়া দিয়ে, কিন্তু এখানে, প্রশান্ত আত্মার প্রতি সম্বোধনে, আল্লাহ একে যুক্ত করেছেন নিজের সঙ্গে। মুফাসসিরগণ ওই একটিমাত্র সর্বনামে শোনেন অনুচ্ছেদটির সর্বোচ্চ সম্মাননা — আমন্ত্রণটি কোনো পুরস্কারের গুদামে নয়, বরং মেজবান যাকে নিজের বলে ডাকেন তার ভেতরে। আয়াতগুলো সারা বিশ্বে জানাযায় পড়া হয়; কিন্তু নাযিল হয়েছিল এমন এক গন্তব্য হিসেবে, যাকে সামনে রেখে জীবন চালাতে হয়।"
+            "bn": "তারপর 'আমার' শব্দটি: আমার জান্নাত। পুরো কুরআনে জান্নাতের বর্ণনা আসে তার নদী আর ছায়া দিয়ে। কিন্তু এখানে, শান্ত আত্মাকে ডাকার মুহূর্তে, আল্লাহ জান্নাতকে নিজের সঙ্গে জুড়ে নেন। মুফাসসিররা এই একটি সর্বনামেই শোনেন পুরো অংশের সবচেয়ে বড় সম্মান। দাওয়াতটা কোনো পুরস্কারের গুদামে নয়, মেজবান যাকে নিজের বলেন, তার ভেতরে। সারা দুনিয়ায় জানাজায় এ আয়াতগুলো পড়া হয়। অথচ এগুলো নাজিল হয়েছিল এমন এক গন্তব্য হিসেবে, যাকে সামনে রেখে গোটা জীবন চালাতে হয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Becoming the Addressee",
-          "bn": "সম্বোধিত হয়ে ওঠা"
+          "bn": "এই ডাকের যোগ্য হওয়া"
         },
         "p": [
           {
             "en": "The commentators mention that this address comes to the soul at death and at the Resurrection — the welcome spans the whole passage from this world to the next. Which raises the only question that matters to a living reader: how does a soul come to deserve that address? The surah has already shown the disqualifiers — reading Allah's favor and trial as approval and insult, devouring inheritance, loving wealth with unbounded love — and 13:28 has named the builder: remembrance.",
-            "bn": "মুফাসসিরগণ উল্লেখ করেন, এই সম্বোধন আত্মার কাছে আসে মৃত্যুর সময় এবং পুনরুত্থানে — অভ্যর্থনাটি এ জগৎ থেকে পরের জগৎ পর্যন্ত পুরো পথ জুড়ে। আর তাতেই জাগে জীবিত পাঠকের একমাত্র জরুরি প্রশ্ন: কোন আত্মা এই সম্বোধনের যোগ্য হয়? সূরাটি অযোগ্যতার লক্ষণগুলো আগেই দেখিয়েছে — আল্লাহর অনুগ্রহ ও পরীক্ষাকে অনুমোদন আর অপমান হিসেবে পড়া, উত্তরাধিকার গোগ্রাসে খাওয়া, সীমাহীন ভালোবাসায় সম্পদ ভালোবাসা — আর 13:28 নির্মাতার নাম বলে দিয়েছে: স্মরণ।"
+            "bn": "মুফাসসিররা উল্লেখ করেন, এই ডাক আত্মার কাছে আসে মৃত্যুর সময়, আবার পুনরুত্থানের দিনেও। দুনিয়া থেকে আখিরাত পর্যন্ত পুরো যাত্রাপথ জুড়েই এই অভ্যর্থনা। তাই জীবিত পাঠকের কাছে আসল প্রশ্ন একটাই: একটি আত্মা কীভাবে এই ডাকের যোগ্য হয়ে ওঠে? কী কী অযোগ্য করে দেয়, সূরাটি আগেই দেখিয়েছে: আল্লাহর অনুগ্রহকে তাঁর সন্তুষ্টি আর পরীক্ষাকে অপমান ভাবা, মিরাসের সম্পদ গোগ্রাসে খাওয়া, সীমাহীন ভালোবাসায় সম্পদ ভালোবাসা। আর কী তাকে গড়ে তোলে, ১৩:২৮ আয়াত তার নাম বলে দিয়েছে: জিকির।"
           },
           {
             "en": "So the practice is unglamorous and daily: dhikr that steadies the heart, and deliberate contentment rehearsed at each rise and fall — saying alhamdulillah in the ease without reading it as entitlement, and in the tightness without reading it as rejection. A soul trained for years to be pleased with Allah in both weathers is being shaped into the very description radiyah carries. The address at the end is simply the name of what it has become.",
-            "bn": "অতএব অনুশীলনটি জৌলুসহীন ও দৈনন্দিন: যে যিকর হৃদয় স্থির করে, আর প্রতিটি উত্থান-পতনে মহড়া দেওয়া সজ্ঞান সন্তুষ্টি — স্বাচ্ছন্দ্যে আলহামদুলিল্লাহ বলা, তাকে নিজের প্রাপ্য অধিকার না পড়ে; আর টানাটানিতেও তা বলা, তাকে প্রত্যাখ্যান না পড়ে। যে আত্মা বছরের পর বছর দুই আবহাওয়াতেই আল্লাহর প্রতি সন্তুষ্ট থাকার প্রশিক্ষণ নিয়েছে, সে গড়ে উঠছে ঠিক সেই বর্ণনায় — 'রাদিয়া' যা বহন করে। শেষের সম্বোধনটি আসলে সে যা হয়ে উঠেছে, তারই নাম।"
+            "bn": "তাই অনুশীলনটা জাঁকজমকহীন, প্রতিদিনের। এমন জিকির, যা অন্তরকে স্থির রাখে। আর প্রতিটি ওঠানামায় জেনেবুঝে সন্তুষ্ট থাকার চর্চা। সচ্ছলতায় আলহামদুলিল্লাহ বলা, একে নিজের পাওনা না ভেবে। টানাটানির দিনেও আলহামদুলিল্লাহ বলা, একে প্রত্যাখ্যান না ভেবে। যে আত্মা বছরের পর বছর সুখে-দুঃখে দুই অবস্থাতেই আল্লাহর ওপর সন্তুষ্ট থাকতে শিখেছে, সে ধীরে ধীরে ঠিক সেই রূপ পাচ্ছে, যা 'রাদিয়া' শব্দে আছে। শেষের ডাকটি আসলে তারই নাম, যা সে হয়ে উঠেছে।"
           }
         ]
       }
