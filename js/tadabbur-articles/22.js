@@ -549,7 +549,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse just before this one warned those who bar people from al-Masjid al-Ḥarām and try to twist the sacred precinct to wrongdoing. Then, without pause, Allah turns to how that very House began. Ibn Kathir reads the opening as a reproach and a rebuke to those of Quraysh who worshipped others beside Allah, and set up partners with Him, in the one place that from its first day was founded on tawḥīd, the worship of Allah alone with no partner or associate. The idols they had planted stood on ground given to Ibrāhīm for the opposite purpose.",
-            "bn": "ঠিক আগের আয়াতটি সতর্ক করেছিল তাদের, যারা মানুষকে মাসজিদুল হারামে যেতে বাধা দেয় আর পবিত্র এলাকাকে জুলুমের দিকে বাঁকাতে চায়। এরপর কোনো বিরতি না দিয়েই আল্লাহ সেই ঘরের শুরুর কথায় চলে যান। ইবন কাসীর আয়াতের শুরুটাকে কুরাইশের সেই লোকদের প্রতি তিরস্কার ও ধমক হিসেবে পড়েন, যারা আল্লাহর পাশাপাশি অন্যদের ইবাদত করত, তাঁর সঙ্গে শরিক দাঁড় করাত। আর তা করত এমন এক জায়গায়, যার ভিত প্রথম দিন থেকেই তাওহীদের উপর, অর্থাৎ কোনো শরিক ছাড়া একমাত্র আল্লাহর ইবাদতের উপর। তাদের বসানো মূর্তিগুলো দাঁড়িয়ে ছিল এমন জমিনে, যা ইবরাহীমকে দেওয়া হয়েছিল ঠিক উল্টো উদ্দেশ্যে।"
+            "bn": "ঠিক আগের আয়াতটি সতর্ক করেছিল তাদের, যারা মানুষকে মাসজিদুল হারামে যেতে বাধা দেয় আর পবিত্র এলাকাকে জুলুমের দিকে বাঁকাতে চায়। এরপর কোনো বিরতি না দিয়েই আল্লাহ সেই ঘরের শুরুর কথায় চলে যান। ইবন কাসীর আয়াতের শুরুটাকে কুরাইশের সেই লোকদের প্রতি তিরস্কার ও ধমক হিসেবে পড়েন, যারা আল্লাহর পাশাপাশি অন্যদের ইবাদত করত, তাঁর সঙ্গে শরিক দাঁড় করাত। আর তা করত এমন এক জায়গায়, যার ভিত প্রথম দিন থেকেই তাওহিদের উপর, অর্থাৎ কোনো শরিক ছাড়া একমাত্র আল্লাহর ইবাদতের উপর। তাদের বসানো মূর্তিগুলো দাঁড়িয়ে ছিল এমন জমিনে, যা ইবরাহীমকে দেওয়া হয়েছিল ঠিক উল্টো উদ্দেশ্যে।"
           },
           {
             "en": "Al-Qurtubi hears the same charge inside the words. He finds in the verse a reproach against the idol-worshippers who dwelt at the House: this was the condition laid on your father before you and on those after him, and you did not keep it, but associated others with Allah instead. So the remembrance is no idle nostalgia. It sets the founding covenant of the place directly beside what its later keepers had made of it, and lets the distance between the two do the accusing.",
@@ -625,7 +625,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The hadith and the verse \"the first House appointed for mankind was that at Bakkah\" (3:96) say together that this precinct is the oldest place set apart for worship on earth. Whichever side of the dispute you take, what the verse presses does not change. The ground was consecrated to the worship of Allah alone from its first day, so to plant idols in it, as Quraysh had done, was to betray the very meaning of the place. Ibn Kathir puts it plainly: the spot was founded, from the outset, on tawḥīd.",
-            "bn": "হাদিসটি আর \"মানুষের জন্য নির্ধারিত প্রথম গৃহ বাক্কায়\" (৩:৯৬) আয়াত মিলে জানায়: এই চত্বরই পৃথিবীতে ইবাদতের জন্য আলাদা করা সবচেয়ে পুরনো জায়গা। বিতর্কে আপনি যে পক্ষই নিন, আয়াতের মূল দাবি বদলায় না। প্রথম দিন থেকেই এ জায়গা শুধু আল্লাহর ইবাদতের জন্য পবিত্র করা। তাই কুরাইশ যে এখানে মূর্তি বসিয়েছিল, তা ছিল জায়গাটির মূল অর্থের সাথেই বিশ্বাসঘাতকতা। ইবন কাসীর সোজা কথায় বলেন: একেবারে শুরু থেকেই এ জায়গার ভিত তাওহীদের উপর।"
+            "bn": "হাদিসটি আর \"মানুষের জন্য নির্ধারিত প্রথম গৃহ বাক্কায়\" (৩:৯৬) আয়াত মিলে জানায়: এই চত্বরই পৃথিবীতে ইবাদতের জন্য আলাদা করা সবচেয়ে পুরনো জায়গা। বিতর্কে আপনি যে পক্ষই নিন, আয়াতের মূল দাবি বদলায় না। প্রথম দিন থেকেই এ জায়গা শুধু আল্লাহর ইবাদতের জন্য পবিত্র করা। তাই কুরাইশ যে এখানে মূর্তি বসিয়েছিল, তা ছিল জায়গাটির মূল অর্থের সাথেই বিশ্বাসঘাতকতা। ইবন কাসীর সোজা কথায় বলেন: একেবারে শুরু থেকেই এ জায়গার ভিত তাওহিদের উপর।"
           }
         ]
       },
@@ -637,7 +637,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first thing said to the builder is not a plan for the walls but a creed: do not associate anything with Me. Ibn Kathir glosses it, build it upon My name alone. As-Sa'di reads it as an order to keep his deeds pure for Allah and to raise the House on Allah's name. The order of the words is the lesson. Before \"purify,\" before the worshippers are even named, comes the clearing of the heart, that nothing stand beside Allah. The building begins in tawḥīd, and only then in stone.",
-            "bn": "নির্মাতাকে প্রথম যে কথাটা বলা হয়, তা দেয়ালের নকশা নয়, একটি আকীদা: আমার সাথে কিছুকে শরিক কোরো না। ইবন কাসীর এর অর্থ করেন, কেবল আমার নামেই একে গড়ো। সা'দীর মতে এটি নির্দেশ: তিনি যেন নিজের আমল আল্লাহর জন্য খাঁটি রাখেন আর আল্লাহর নামেই গৃহ তোলেন। শব্দের এই ক্রমটাই শিক্ষা। \"পবিত্র করো\"-র আগে, এমনকি ইবাদতকারীদের নাম আসারও আগে আসে অন্তর পরিষ্কার করার কথা, যেন আল্লাহর পাশে কিছু না দাঁড়ায়। নির্মাণ শুরু হয় তাওহীদ দিয়ে, পাথর আসে তার পরে।"
+            "bn": "নির্মাতাকে প্রথম যে কথাটা বলা হয়, তা দেয়ালের নকশা নয়, একটি আকীদা: আমার সাথে কিছুকে শরিক কোরো না। ইবন কাসীর এর অর্থ করেন, কেবল আমার নামেই একে গড়ো। সা'দীর মতে এটি নির্দেশ: তিনি যেন নিজের আমল আল্লাহর জন্য খাঁটি রাখেন আর আল্লাহর নামেই গৃহ তোলেন। শব্দের এই ক্রমটাই শিক্ষা। \"পবিত্র করো\"-র আগে, এমনকি ইবাদতকারীদের নাম আসারও আগে আসে অন্তর পরিষ্কার করার কথা, যেন আল্লাহর পাশে কিছু না দাঁড়ায়। নির্মাণ শুরু হয় তাওহিদ দিয়ে, পাথর আসে তার পরে।"
           },
           {
             "en": "Al-Qurtubi records a dispute over who is being addressed. The majority, and the sounder view, is that \"do not associate\" is spoken to Ibrāhīm; ʿIkrimah read it with a yāʾ, \"that he not associate,\" carrying it as a report of what was said to him. A group held the address to be to the Prophet Muhammad ﷺ. Ma'arif al-Qur'an observes that Ibrāhīm could not himself have fallen into shirk, having already suffered at the idolaters' hands when they accused him of breaking their idols, so the warning reaches past him to people at large.",
@@ -677,7 +677,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Read the sequence whole and the verse's argument stands clear. The site is shown; the first word is tawḥīd; the House is purified of every rival; and only then are the worshippers named. The place exists for one thing, the worship of the One, and its worshippers are described not by rank or lineage but by what they do with their bodies before Allah: circling, standing, bowing, laying the face on the ground. To crowd such a place with idols, as the generations before the Prophet ﷺ had done, was to turn its whole reason for being upside down.",
-            "bn": "পুরো ক্রমটা একসাথে পড়ুন, আয়াতের যুক্তি পরিষ্কার হয়ে যায়। আগে জায়গা দেখানো হলো; প্রথম কথা তাওহীদ; তারপর গৃহকে সব শরিক থেকে পবিত্র করা; আর তারপরই কেবল ইবাদতকারীদের নাম। জায়গাটি আছেই একটি কাজের জন্য: এক আল্লাহর ইবাদত। এর ইবাদতকারীদের পরিচয় পদমর্যাদা বা বংশে নয়, আল্লাহর সামনে তারা শরীর দিয়ে যা করে তাতে: তাওয়াফ, দাঁড়ানো, রুকু, মাটিতে কপাল রাখা। নবী ﷺ-এর আগের প্রজন্মগুলো যেমন করেছিল, এমন জায়গা মূর্তিতে ভরে ফেলা মানে এর অস্তিত্বের গোটা কারণটাই উল্টে দেওয়া।"
+            "bn": "পুরো ক্রমটা একসাথে পড়ুন, আয়াতের যুক্তি পরিষ্কার হয়ে যায়। আগে জায়গা দেখানো হলো; প্রথম কথা তাওহিদ; তারপর গৃহকে সব শরিক থেকে পবিত্র করা; আর তারপরই কেবল ইবাদতকারীদের নাম। জায়গাটি আছেই একটি কাজের জন্য: এক আল্লাহর ইবাদত। এর ইবাদতকারীদের পরিচয় পদমর্যাদা বা বংশে নয়, আল্লাহর সামনে তারা শরীর দিয়ে যা করে তাতে: তাওয়াফ, দাঁড়ানো, রুকু, মাটিতে কপাল রাখা। নবী ﷺ-এর আগের প্রজন্মগুলো যেমন করেছিল, এমন জায়গা মূর্তিতে ভরে ফেলা মানে এর অস্তিত্বের গোটা কারণটাই উল্টে দেওয়া।"
           }
         ]
       }
@@ -709,11 +709,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Muyassar sums up the whole verse before parsing it. When Allah alone is mentioned they fear His punishment and are wary of crossing Him; when hardship strikes they bear it in hope of reward; they perform the prayer in full; and they spend from what He has provided, in what is due and in what is recommended. Four marks, and not one of them is a slogan but a thing a person either does or does not do.",
-            "bn": "মুয়াসসার আয়াতটা বিশ্লেষণের আগে গোটাটার সার টেনে দেন। কেবল আল্লাহর নাম উচ্চারিত হলে এরা তাঁর শাস্তিকে ভয় পায় আর তাঁকে অমান্য করতে সতর্ক থাকে। বিপদ এলে পুরস্কারের আশায় তা সয়ে নেয়। নামায পুরোপুরি আদায় করে। আর তিনি যা দিয়েছেন তা থেকে খরচ করে, যা ওয়াজিব আর যা মুস্তাহাব দুই ক্ষেত্রেই। চারটি চিহ্ন, একটাও নিছক স্লোগান নয়, বরং এমন কিছু যা মানুষ হয় করে, নয় করে না।"
+            "bn": "মুয়াসসার আয়াতটা বিশ্লেষণের আগে গোটাটার সার টেনে দেন। কেবল আল্লাহর নাম উচ্চারিত হলে এরা তাঁর শাস্তিকে ভয় পায় আর তাঁকে অমান্য করতে সতর্ক থাকে। বিপদ এলে পুরস্কারের আশায় তা সয়ে নেয়। নামাজ পুরোপুরি আদায় করে। আর তিনি যা দিয়েছেন তা থেকে খরচ করে, যা ওয়াজিব আর যা মুস্তাহাব দুই ক্ষেত্রেই। চারটি চিহ্ন, একটাও নিছক স্লোগান নয়, বরং এমন কিছু যা মানুষ হয় করে, নয় করে না।"
           },
           {
             "en": "The sequence rewards attention. The verse starts with the heart, moves to the nerves that hold under pain, then to the body kept in prayer, and only last to the wealth let go from the hand. It travels from the most hidden thing a person owns to the most public. You cannot fake the first and you cannot hide the last. A religion that lived only in the trembling and never reached the spending would be half a religion; so would a charity with no fear of God underneath it. The verse refuses to let us pick.",
-            "bn": "ক্রমটা মনোযোগের দাবি রাখে। আয়াত শুরু হয় অন্তর দিয়ে, এগোয় ব্যথার মুখে অটল থাকা স্নায়ুর দিকে, তারপর নামাযে ধরে রাখা দেহ, আর সবশেষে হাত থেকে ছেড়ে দেওয়া সম্পদ। এটা চলে মানুষের সবচেয়ে গোপন সম্পদ থেকে সবচেয়ে প্রকাশ্যের দিকে। প্রথমটা আপনি বানিয়ে দেখাতে পারবেন না, শেষটা লুকাতে পারবেন না। যে দ্বীন কেবল কম্পনে বাঁচে অথচ খরচ পর্যন্ত পৌঁছায় না, তা অর্ধেক দ্বীন। তলায় আল্লাহভীতি নেই এমন দানও তাই। আয়াত আমাদের বেছে নিতে দেয় না।"
+            "bn": "ক্রমটা মনোযোগের দাবি রাখে। আয়াত শুরু হয় অন্তর দিয়ে, এগোয় ব্যথার মুখে অটল থাকা স্নায়ুর দিকে, তারপর নামাজে ধরে রাখা দেহ, আর সবশেষে হাত থেকে ছেড়ে দেওয়া সম্পদ। এটা চলে মানুষের সবচেয়ে গোপন সম্পদ থেকে সবচেয়ে প্রকাশ্যের দিকে। প্রথমটা আপনি বানিয়ে দেখাতে পারবেন না, শেষটা লুকাতে পারবেন না। যে দ্বীন কেবল কম্পনে বাঁচে অথচ খরচ পর্যন্ত পৌঁছায় না, তা অর্ধেক দ্বীন। তলায় আল্লাহভীতি নেই এমন দানও তাই। আয়াত আমাদের বেছে নিতে দেয় না।"
           }
         ]
       },
@@ -792,7 +792,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Prayer Kept Standing",
-          "bn": "খাড়া রাখা নামায"
+          "bn": "খাড়া রাখা নামাজ"
         },
         "p": [
           {
@@ -1185,7 +1185,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends with a verdict: and indeed the wrongdoers are in far-off dissension. Ibn Kathir reads shiqaq baid as misguidance, opposition and stubbornness, a state far from truth and from what is right. Al-Qurtubi glosses the wrongdoers as the disbelievers, caught in opposition, disobedience and dissension against Allah and His Messenger. At-Tabari names the mushrikun of the Prophet's people, standing against Allah's command and far from the truth. Al-Muyassar gathers both earlier groups: the wrongdoers among them are in severe enmity toward Allah and His Messenger.",
-            "bn": "আয়াত শেষ হয় এক রায় দিয়ে: আর অন্যায়কারীরা নিশ্চিতভাবেই বহুদূরের মতভেদে লিপ্ত। ইবন কাসীর শিকাক বাঈদ পড়েন বিভ্রান্তি, বিরোধিতা ও একগুঁয়েমি হিসেবে, এমন এক অবস্থা যা সত্য ও ন্যায় থেকে বহু দূরে। কুরতুবী অন্যায়কারীদের ব্যাখ্যা দেন কাফির হিসেবে, যারা আল্লাহ ও তাঁর রসূলের বিরুদ্ধে বিরোধিতা, নাফরমানি ও দ্বন্দ্বে আটকে আছে। তাবারী নাম করেন নবীর কওমের মুশরিকদের, যারা আল্লাহর হুকুমের বিরুদ্ধে দাঁড়িয়ে সত্য থেকে বহু দূরে সরে আছে। মুয়াসসার দুই দলকেই একত্র করে: তাদের মধ্যকার অন্যায়কারীরা আল্লাহ ও তাঁর রসূলের প্রতি তীব্র শত্রুতায় লিপ্ত।"
+            "bn": "আয়াত শেষ হয় এক রায় দিয়ে: আর অন্যায়কারীরা নিশ্চিতভাবেই বহুদূরের মতভেদে লিপ্ত। ইবন কাসীর শিকাক বাঈদ পড়েন বিভ্রান্তি, বিরোধিতা ও একগুঁয়েমি হিসেবে, এমন এক অবস্থা যা সত্য ও ন্যায় থেকে বহু দূরে। কুরতুবী অন্যায়কারীদের ব্যাখ্যা দেন কাফির হিসেবে, যারা আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে বিরোধিতা, নাফরমানি ও দ্বন্দ্বে আটকে আছে। তাবারী নাম করেন নবীর কওমের মুশরিকদের, যারা আল্লাহর হুকুমের বিরুদ্ধে দাঁড়িয়ে সত্য থেকে বহু দূরে সরে আছে। মুয়াসসার দুই দলকেই একত্র করে: তাদের মধ্যকার অন্যায়কারীরা আল্লাহ ও তাঁর রাসূলের প্রতি তীব্র শত্রুতায় লিপ্ত।"
           },
           {
             "en": "One thing must be said plainly, in both languages. This verse describes wrongdoers, the diseased and the hardened who take a whisper and make a weapon of it, and it licenses nothing against any living person or community. It is a diagnosis of a spiritual condition that the text names, not a charge to be pinned on some group of people today. The readings of Ibn Jurayj and Muqatil describe hearts in the past; they are not warrants against a neighbour. The mirror the verse holds up is turned, first of all, on the reader's own heart.",
@@ -1273,7 +1273,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari reports an occasion for the verse. It came down, he says, about a group of the Companions of the Messenger of Allah ﷺ who differed over the ruling on one who dies in Allah's path: some said the killed among them and the one who died are equal, while others said the killed is the more excellent. So Allah sent this verse down to His Prophet ﷺ, teaching them that the one who dies in His cause and the one killed in it stand equal in the reward with Him.",
-            "bn": "তাবারী আয়াতটির একটি শানে-নুযূল বর্ণনা করেন। তিনি বলেন, এটি নাযিল হয়েছিল রাসূলুল্লাহ ﷺ-এর একদল সাহাবির ব্যাপারে, যাঁরা আল্লাহর পথে মৃত্যুবরণকারীর বিধান নিয়ে মতভেদ করেছিলেন। কেউ বললেন, তাদের নিহত জন আর মৃত জন সমান; কেউ বললেন, নিহত জনই বেশি মর্যাদাবান। তখন আল্লাহ তাঁর নবী ﷺ-এর ওপর এ আয়াত নাযিল করেন, তাঁদের শেখাতে যে তাঁর পথে মৃত ও নিহত উভয়ে তাঁর কাছে প্রতিদানে সমান।"
+            "bn": "তাবারী আয়াতটির একটি শানে-নুযূল বর্ণনা করেন। তিনি বলেন, এটি নাজিল হয়েছিল রাসূলুল্লাহ ﷺ-এর একদল সাহাবির ব্যাপারে, যাঁরা আল্লাহর পথে মৃত্যুবরণকারীর বিধান নিয়ে মতভেদ করেছিলেন। কেউ বললেন, তাদের নিহত জন আর মৃত জন সমান; কেউ বললেন, নিহত জনই বেশি মর্যাদাবান। তখন আল্লাহ তাঁর নবী ﷺ-এর ওপর এ আয়াত নাজিল করেন, তাঁদের শেখাতে যে তাঁর পথে মৃত ও নিহত উভয়ে তাঁর কাছে প্রতিদানে সমান।"
           },
           {
             "en": "Al-Qurtubi names the occasion more closely. When Uthman ibn Maz'un (RA) and Abu Salama ibn Abd al-Asad (RA) died at Medina, some people said that a man killed in Allah's path is better than a man who died a natural death; so this verse came down making the two equal, and declaring that Allah provides all of them a good provision. He notes that the emigrants who died and were killed are singled out here as an honour raised above the rest of the dead.",
@@ -1509,7 +1509,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Read slowly, that is a claim about grounds, not merely about gods. A belief can rest on an external warrant, something sent down and authorised, or on inward knowledge that has been examined and found true. The verse says the idolater has access to neither. Al-Muyassar frames the whole line this way: the disbelievers of Quraysh cling to their idols while the falsehood of their position is plain, worshipping what no revealed book calls fit for worship, following only what their fathers followed, with no evidence at all behind them.",
-            "bn": "ধীরে পড়লে বোঝা যায়, এটা উপাস্য নিয়ে নয়, ভিত নিয়ে কথা। বিশ্বাস দাঁড়াতে পারে বাইরের কোনো দলীলের উপর, যা নামানো ও অনুমোদিত, কিংবা ভেতরের কোনো জ্ঞানের উপর, যা যাচাই করে সত্য পাওয়া গেছে। আয়াত বলছে মুশরিকের কাছে এর কোনোটিই নেই। মুয়াসসার গোটা কথাটা এভাবেই ধরেন। কুরাইশের কাফিররা নিজেদের অবস্থানের স্পষ্ট বাতিলতা সত্ত্বেও মূর্তি আঁকড়ে থাকে, এমন কিছুর ইবাদত করে যাকে কোনো নাযিলকৃত কিতাব ইবাদতযোগ্য বলে না, শুধু বাপ-দাদার পথ ধরে চলে, কোনো দলীল ছাড়াই।"
+            "bn": "ধীরে পড়লে বোঝা যায়, এটা উপাস্য নিয়ে নয়, ভিত নিয়ে কথা। বিশ্বাস দাঁড়াতে পারে বাইরের কোনো দলীলের উপর, যা নামানো ও অনুমোদিত, কিংবা ভেতরের কোনো জ্ঞানের উপর, যা যাচাই করে সত্য পাওয়া গেছে। আয়াত বলছে মুশরিকের কাছে এর কোনোটিই নেই। মুয়াসসার গোটা কথাটা এভাবেই ধরেন। কুরাইশের কাফিররা নিজেদের অবস্থানের স্পষ্ট বাতিলতা সত্ত্বেও মূর্তি আঁকড়ে থাকে, এমন কিছুর ইবাদত করে যাকে কোনো নাজিলকৃত কিতাব ইবাদতযোগ্য বলে না, শুধু বাপ-দাদার পথ ধরে চলে, কোনো দলীল ছাড়াই।"
           }
         ]
       },
@@ -1525,7 +1525,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "At-Tabari draws the word out further, and his is the reading to sit with. He says these idolaters worship besides Allah that for which He never sent down to them a proof from heaven, in any of the books He revealed to His messengers, declaring these things to be gods fit to be worshipped, so that they might worship them knowing Allah had permitted it. The point is exact: a warrant for worship would have to descend from God, in revelation, naming the object as worthy. No such page was ever sent down.",
-            "bn": "তাবারী শব্দটাকে আরও খুলে বলেন, আর তাঁর ব্যাখ্যাটিই বেশি ভাবার মতো। তিনি বলেন, এই মুশরিকরা আল্লাহকে ছেড়ে এমন কিছুর ইবাদত করে যার পক্ষে তিনি আসমান থেকে কোনো প্রমাণ নামাননি, তাঁর রাসূলদের কাছে পাঠানো কোনো কিতাবেই নামাননি, যাতে বলা থাকত এগুলো ইবাদতযোগ্য উপাস্য, আর তাতে তারা জানত আল্লাহ এদের ইবাদতের অনুমতি দিয়েছেন। কথাটা নিখুঁত। ইবাদতের কোনো দলীলকে আল্লাহর কাছ থেকে ওহীর মধ্য দিয়ে নেমে আসতে হতো, উপাস্যকে যোগ্য বলে নাম নিয়ে। এমন কোনো পৃষ্ঠা কখনো পাঠানো হয়নি।"
+            "bn": "তাবারী শব্দটাকে আরও খুলে বলেন, আর তাঁর ব্যাখ্যাটিই বেশি ভাবার মতো। তিনি বলেন, এই মুশরিকরা আল্লাহকে ছেড়ে এমন কিছুর ইবাদত করে যার পক্ষে তিনি আসমান থেকে কোনো প্রমাণ নামাননি, তাঁর রাসূলদের কাছে পাঠানো কোনো কিতাবেই নামাননি, যাতে বলা থাকত এগুলো ইবাদতযোগ্য উপাস্য, আর তাতে তারা জানত আল্লাহ এদের ইবাদতের অনুমতি দিয়েছেন। কথাটা নিখুঁত। ইবাদতের কোনো দলীলকে আল্লাহর কাছ থেকে ওহির মধ্য দিয়ে নেমে আসতে হতো, উপাস্যকে যোগ্য বলে নাম নিয়ে। এমন কোনো পৃষ্ঠা কখনো পাঠানো হয়নি।"
           },
           {
             "en": "Notice the verb: lam yunazzil, He did not send down. Authority in this matter is something that comes down from above, not something a community manufactures for itself and then defends. Ibn Kathir reads the line beside another verse, 23:117: whoever calls upon another god alongside Allah, for which he has no proof, his reckoning is only with his Lord. The two verses set the same measure. A god you call upon must come with a proof that was sent down, and where there is none, the very calling has nothing beneath it.",
@@ -1577,7 +1577,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the verse is not an argument for doubting everything you were given. What you inherited may be entirely true, and Islam itself reaches most people first as an inheritance. The demand is different: that a belief worth holding be a conviction you have since set on a ground. Seek the warrant that Allah did send down, in His revelation, and seek the knowledge He made reachable, in evidence you can weigh. Faith that has done this is inherited in origin but grounded in fact. Faith that refuses is only the idolater's habit wearing a better name.",
-            "bn": "তাই আয়াত সবকিছু নিয়ে সন্দেহ করার পক্ষে যুক্তি নয়। যা উত্তরাধিকারে পেয়েছেন তা পুরোপুরি সত্য হতে পারে, আর ইসলাম নিজেও বেশির ভাগ মানুষের কাছে প্রথমে উত্তরাধিকার হিসেবেই পৌঁছায়। দাবিটা ভিন্ন। ধরে রাখার মতো বিশ্বাসকে এমন হতে হবে যাকে আপনি এরপর কোনো ভিতের উপর দাঁড় করিয়েছেন। আল্লাহ যে দলীল সত্যিই নামিয়েছেন তা খুঁজুন তাঁর ওহীতে, আর তিনি যে জ্ঞান নাগালে রেখেছেন তা খুঁজুন যাচাইযোগ্য প্রমাণে। এভাবে গড়া ঈমান উৎসে উত্তরাধিকার, কিন্তু ভিতে প্রমাণিত। যে ঈমান এতে রাজি নয়, তা কেবল মুশরিকের অভ্যাস, ভালো নামের আড়ালে।"
+            "bn": "তাই আয়াত সবকিছু নিয়ে সন্দেহ করার পক্ষে যুক্তি নয়। যা উত্তরাধিকারে পেয়েছেন তা পুরোপুরি সত্য হতে পারে, আর ইসলাম নিজেও বেশির ভাগ মানুষের কাছে প্রথমে উত্তরাধিকার হিসেবেই পৌঁছায়। দাবিটা ভিন্ন। ধরে রাখার মতো বিশ্বাসকে এমন হতে হবে যাকে আপনি এরপর কোনো ভিতের উপর দাঁড় করিয়েছেন। আল্লাহ যে দলীল সত্যিই নামিয়েছেন তা খুঁজুন তাঁর ওহিতে, আর তিনি যে জ্ঞান নাগালে রেখেছেন তা খুঁজুন যাচাইযোগ্য প্রমাণে। এভাবে গড়া ঈমান উৎসে উত্তরাধিকার, কিন্তু ভিতে প্রমাণিত। যে ঈমান এতে রাজি নয়, তা কেবল মুশরিকের অভ্যাস, ভালো নামের আড়ালে।"
           }
         ]
       },
@@ -1593,19 +1593,19 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Riding behind the Prophet, peace be upon him, Mu'adh ibn Jabal was asked what Allah's right over His servants is. The answer, recorded by al-Bukhari, is that they worship Him and associate nothing with Him. The report is not revealed about this verse and should not be read as its occasion; it is a general statement of tawhid. But it names exactly what 22:71 finds missing. The idolater worships what carries no warrant; the servant here is directed to worship the One whose sole right to be worshipped is the whole of the case.",
-            "bn": "মুআয ইবন জাবাল (রাঃ) নবী ﷺ-এর পেছনে একই বাহনে বসে ছিলেন, তখন তাঁকে জিজ্ঞেস করা হলো, বান্দাদের উপর আল্লাহর হক কী। বুখারীতে বর্ণিত জবাব: তারা তাঁর ইবাদত করবে, আর তাঁর সঙ্গে কোনো কিছুকে শরিক করবে না। বর্ণনাটি এ আয়াত প্রসঙ্গে আসেনি, একে আয়াতের শানে নুযূল ভাবা ঠিক নয়; এটি তাওহীদের একটি সাধারণ ঘোষণা। তবে ২২:৭১ যা অনুপস্থিত দেখায়, এ হাদিস ঠিক সেটারই নাম বলে দেয়। মুশরিক এমন কিছুর ইবাদত করে যার কোনো দলীল নেই; আর এখানে বান্দাকে বলা হচ্ছে সেই একজনের ইবাদত করতে, ইবাদতের হক একমাত্র যাঁর, আর এটুকুই পুরো যুক্তি।"
+            "bn": "মুআয ইবন জাবাল (রাঃ) নবী ﷺ-এর পেছনে একই বাহনে বসে ছিলেন, তখন তাঁকে জিজ্ঞেস করা হলো, বান্দাদের উপর আল্লাহর হক কী। বুখারীতে বর্ণিত জবাব: তারা তাঁর ইবাদত করবে, আর তাঁর সঙ্গে কোনো কিছুকে শরিক করবে না। বর্ণনাটি এ আয়াত প্রসঙ্গে আসেনি, একে আয়াতের শানে নুযূল ভাবা ঠিক নয়; এটি তাওহিদের একটি সাধারণ ঘোষণা। তবে ২২:৭১ যা অনুপস্থিত দেখায়, এ হাদিস ঠিক সেটারই নাম বলে দেয়। মুশরিক এমন কিছুর ইবাদত করে যার কোনো দলীল নেই; আর এখানে বান্দাকে বলা হচ্ছে সেই একজনের ইবাদত করতে, ইবাদতের হক একমাত্র যাঁর, আর এটুকুই পুরো যুক্তি।"
           }
         ]
       },
       {
         "h": {
           "en": "No Helper for the Wrongdoer",
-          "bn": "যালিমের কোনো সহায় নেই"
+          "bn": "জালিমের কোনো সহায় নেই"
         },
         "p": [
           {
             "en": "The verse ends with a warning: and the wrongdoers have no helper. The commentators read az-zalimin here as the idolaters themselves, called wrongdoers because shirk is the gravest wrong a person can place against his Lord. Ibn Kathir explains min nasir as none to help them against Allah when His punishment descends. At-Tabari sets the scene on the Day of Resurrection, with no helper to rescue them from the punishment. Al-Baghawi reads the helper as a preventer, someone who could hold Allah's punishment back. There is none.",
-            "bn": "আয়াত শেষ হয় এক সতর্কবাণীতে, যালিমদের কোনো সাহায্যকারী নেই। তাফসীরকারেরা এখানে যালিমীন বলতে মুশরিকদেরই বোঝেন, যাদের যালিম বলা হয় কারণ শিরকই মানুষের রবের বিরুদ্ধে সবচেয়ে বড় অন্যায়। ইবন কাসীর মিন নাসীর ব্যাখ্যা করেন এভাবে, আল্লাহর শাস্তি যখন নেমে আসবে তখন তাদের সাহায্য করার কেউ থাকবে না। তাবারী দৃশ্যটা রাখেন কিয়ামতের দিনে, যখন আল্লাহর শাস্তি থেকে উদ্ধার করার কোনো সাহায্যকারী নেই। বাগাভী সাহায্যকারীকে পড়েন প্রতিরোধকারী হিসেবে, যে আল্লাহর শাস্তি ঠেকিয়ে রাখতে পারে। এমন কেউ নেই।"
+            "bn": "আয়াত শেষ হয় এক সতর্কবাণীতে, জালিমদের কোনো সাহায্যকারী নেই। তাফসীরকারেরা এখানে জালিমীন বলতে মুশরিকদেরই বোঝেন, যাদের জালিম বলা হয় কারণ শিরকই মানুষের রবের বিরুদ্ধে সবচেয়ে বড় অন্যায়। ইবন কাসীর মিন নাসীর ব্যাখ্যা করেন এভাবে, আল্লাহর শাস্তি যখন নেমে আসবে তখন তাদের সাহায্য করার কেউ থাকবে না। তাবারী দৃশ্যটা রাখেন কিয়ামতের দিনে, যখন আল্লাহর শাস্তি থেকে উদ্ধার করার কোনো সাহায্যকারী নেই। বাগাভী সাহায্যকারীকে পড়েন প্রতিরোধকারী হিসেবে, যে আল্লাহর শাস্তি ঠেকিয়ে রাখতে পারে। এমন কেউ নেই।"
           },
           {
             "en": "This must be said plainly, in both what it means and what it does not. The verse describes the idolaters of that account and the reckoning their choice earns before Allah; it licenses nothing against any living person or community, and hands nobody the right to name and punish a wrongdoer in Allah's place. The judgement it speaks of is Allah's alone, and its time is the Day of Resurrection. For the reader now, the warning turns inward. If worship without a helper is the wrongdoer's end, the mercy is that the door back to grounded worship still stands open.",
