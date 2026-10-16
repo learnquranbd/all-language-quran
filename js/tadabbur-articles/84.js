@@ -21,11 +21,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ya ayyuha al-insanu innaka kadihun ila rabbika kadhan famulaqih. The root of kadh occurs nowhere else in the Quran, and at its single appearance it occurs twice inside the one verse: kadihun, the active participle, and kadhan, the cognate accusative that Arabic sets after a verb or participle to intensify it by repeating its own noun. One appearance, and it is doubled on arrival.",
-            "bn": "ইয়া আইয়ুহাল ইনসানু ইন্নাকা কাদিহুন ইলা রাব্বিকা কাদহান ফামুলাকীহ। 'কাদহ' শব্দের ধাতুটি গোটা কুরআনে আর কোথাও আসেনি, আর এই একটিমাত্র জায়গায় তা একই আয়াতের ভেতরে দুইবার এসেছে: 'কাদিহুন' — ইসমে ফা'ইল, আর 'কাদহান' — মাফ'উলে মুতলাক, যা আরবিতে ক্রিয়া বা ইসমে ফা'ইলের পরে বসে তারই মাসদার পুনরাবৃত্তি করে অর্থকে জোরালো করে। একবারই এসেছে, আর আসার সঙ্গে সঙ্গেই দ্বিগুণ হয়ে এসেছে।"
+            "bn": "ইয়া আইয়ুহাল ইনসানু ইন্নাকা কাদিহুন ইলা রাব্বিকা কাদহান ফামুলাকীহ। 'কাদহ' শব্দের ধাতু গোটা কুরআনে আর কোথাও আসেনি। আর যে একটিমাত্র জায়গায় এসেছে, সেখানে এক আয়াতের ভেতরেই এসেছে দুবার: 'কাদিহুন' হলো ইসমে ফা'ইল, আর 'কাদহান' হলো মাফ'উলে মুতলাক। আরবি ভাষা ক্রিয়া বা ইসমে ফা'ইলের পরে তারই মাসদারটি আবার বসিয়ে অর্থে জোর আনে; এরই নাম মাফ'উলে মুতলাক। একবারই এসেছে, আর এসেই দ্বিগুণ হয়ে গেছে।"
           },
           {
             "en": "The lexicographers gloss kadh as labour that costs the labourer, effort pressed to the point where it leaves its mark on the one who makes it. That is why translations reach for phrases like great exertion and hard striving. The commentators add a caution the word itself carries: kadh says nothing about what the effort is for. It covers work done for good and work done for evil with equal accuracy.",
-            "bn": "অভিধানকারগণ 'কাদহ'-এর ব্যাখ্যা করেন এমন পরিশ্রম হিসেবে যা পরিশ্রমকারীর নিজের ওপরই মূল্য আদায় করে — এমন সাধনা যা যিনি করেন তাঁর গায়ে দাগ রেখে যায়। এ কারণেই অনুবাদে 'কঠোর সাধনা' বা 'বহু কষ্ট' জাতীয় শব্দ ব্যবহৃত হয়। মুফাসসিরগণ শব্দটির ভেতরকার একটি সতর্কতাও যোগ করেন: 'কাদহ' এ কথা বলে না যে পরিশ্রমটি কীসের জন্য। ভালো কাজের পরিশ্রম আর মন্দ কাজের পরিশ্রম — দুটোকেই শব্দটি সমান নির্ভুলভাবে ধরে।"
+            "bn": "অভিধানবিদরা 'কাদহ'-এর অর্থ করেন এমন পরিশ্রম, যার দাম পরিশ্রমীকে নিজের গা দিয়ে চুকাতে হয়। এত চাপ দিয়ে করা খাটুনি যে, যে করে তার গায়েই দাগ রেখে যায়। তাই অনুবাদে 'কঠোর সাধনা' বা 'বহু কষ্ট' জাতীয় শব্দ আসে। মুফাসসিরগণ আরও একটি সতর্কতার কথা বলেন, যা শব্দটির ভেতরেই আছে: পরিশ্রমটা কীসের জন্য, 'কাদহ' তা বলে না। ভালো কাজের খাটুনি আর মন্দ কাজের খাটুনি, দুটোর বেলাতেই শব্দটি সমান নিখুঁতভাবে খাটে।"
           }
         ]
       },
@@ -37,23 +37,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The address is worth looking at closely. Ya ayyuha al-insan puts the definite article on insan, which in Arabic can take in the whole species, while innaka, rabbika and the participle are all singular. So the sentence speaks to humankind as such and grammatically buttonholes one person at the same time. The commentators say plainly that the man addressed here takes in the believer and the disbeliever together.",
-            "bn": "সম্বোধনটির দিকে একটু মনোযোগ দিয়ে তাকানো দরকার। 'ইয়া আইয়ুহাল ইনসান'-এ 'ইনসান' শব্দে আলিফ-লাম যুক্ত, যা আরবিতে গোটা প্রজাতিকে ধরতে পারে; অথচ 'ইন্নাকা', 'রাব্বিকা' এবং ইসমে ফা'ইল — সবই একবচন। ফলে বাক্যটি একই সঙ্গে সমগ্র মানবজাতিকে সম্বোধন করে এবং ব্যাকরণগতভাবে একজন মানুষকে আলাদা করে ধরে ফেলে। মুফাসসিরগণ স্পষ্ট করেই বলেন, এখানে সম্বোধিত 'মানুষ' শব্দটির ভেতরে মু'মিন ও কাফির উভয়েই শামিল।"
+            "bn": "সম্বোধনটা একটু খেয়াল করে দেখার মতো। 'ইয়া আইয়ুহাল ইনসান'-এ 'ইনসান' শব্দে আলিফ-লাম আছে, আর আরবিতে এতে গোটা মানবজাতি বোঝাতে পারে। অথচ 'ইন্নাকা', 'রাব্বিকা' আর ইসমে ফা'ইলটি, সবই একবচন। ফলে বাক্যটি একসঙ্গে গোটা মানবজাতির সঙ্গে কথা বলে, আবার ব্যাকরণের দিক থেকে একজন মানুষকে আলাদা করে ধরে তার সঙ্গেও কথা বলে। মুফাসসিরগণ স্পষ্ট করেই বলেন, এখানে যে মানুষকে ডাকা হয়েছে, তার মধ্যে মু'মিন ও কাফির দুজনেই আছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Where the Address Falls",
-          "bn": "সম্বোধনটি যেখানে এসে পড়ে"
+          "bn": "ডাকটা যেখানে আসে"
         },
         "p": [
           {
             "en": "84:1 describes the sky splitting, and 84:2 says it listened to its Lord, and it must. 84:3-4 describe the earth stretched out and emptied of what was inside it, and 84:5 says the same clause over again, this time of the earth: it listened to its Lord, and it must. Two creatures are named, and of each the identical words are used. Neither is asked for a decision.",
-            "bn": "84:1 বর্ণনা করে আসমান ফেটে যাওয়ার কথা, আর 84:2 বলে — সে তার প্রতিপালকের নির্দেশ শুনল, আর তার তা-ই করণীয়। 84:3-4 বর্ণনা করে যমীনকে বিছিয়ে দেওয়ার এবং তার ভেতরে যা ছিল তা বের করে খালি হয়ে যাওয়ার কথা, আর 84:5 ঠিক সেই একই বাক্য আবার বলে, এবার যমীন সম্পর্কে — সে তার প্রতিপালকের নির্দেশ শুনল, আর তার তা-ই করণীয়। দুটি সৃষ্টির নাম আসে, আর দুটির ক্ষেত্রেই হুবহু একই শব্দ ব্যবহৃত হয়। কারও কাছেই কোনো সিদ্ধান্ত চাওয়া হয় না।"
+            "bn": "84:1-এ আসমান ফেটে যাওয়ার বর্ণনা, আর 84:2 বলে: সে তার প্রতিপালকের হুকুম শুনল, আর এটাই তার করণীয়। 84:3-4-এ যমীনকে বিছিয়ে দেওয়ার কথা, আর তার ভেতরে যা ছিল সব বের করে দিয়ে খালি হয়ে যাওয়ার কথা। তারপর 84:5 ঠিক সেই বাক্যই আবার বলে, এবার যমীনের বেলায়: সে তার প্রতিপালকের হুকুম শুনল, আর এটাই তার করণীয়। দুটি সৃষ্টির নাম এল, আর দুটির বেলাতেই হুবহু একই কথা। কারও কাছেই কোনো সিদ্ধান্ত চাওয়া হয়নি।"
           },
           {
             "en": "84:6 is where the sentence turns, and the turn is the point. After two things that simply comply, the surah stops describing and starts addressing: O man. The one creature on the scene of whom it was not said that it listened and had to is the creature now spoken to directly — and what is said to him is not that he must obey, but that he is already on his way.",
-            "bn": "84:6 হলো সেই মোড়, আর মোড়টিই আসল কথা। দুটি সৃষ্টি নিছক আনুগত্য করে, তারপর সূরাটি বর্ণনা থামিয়ে সম্বোধন শুরু করে: হে মানুষ! এই দৃশ্যে যে একমাত্র সৃষ্টির সম্পর্কে বলা হয়নি যে সে শুনল এবং তার তা-ই করণীয়, তাকেই এখন সরাসরি সম্বোধন করা হচ্ছে — আর তাকে বলা হচ্ছে না যে তোমাকে মানতেই হবে; বলা হচ্ছে, তুমি ইতিমধ্যেই পথ চলছ।"
+            "bn": "84:6-এ এসে বাক্য মোড় নেয়, আর এই মোড়টাই আসল কথা। দুটি সৃষ্টি শুধু হুকুম মেনে চলে, তারপর সূরাটি বর্ণনা থামিয়ে সরাসরি ডাক দেয়: হে মানুষ! এই দৃশ্যে একমাত্র যে সৃষ্টির বেলায় বলা হয়নি যে সে শুনল আর এটাই তার করণীয়, এখন তার সঙ্গেই সরাসরি কথা বলা হচ্ছে। আর তাকে বলা হচ্ছে না যে তোমাকে মানতেই হবে; বলা হচ্ছে, তুমি তো আগে থেকেই পথে আছ।"
           }
         ]
       },
@@ -65,27 +65,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends on a pronoun, famulaqih, and the commentators differ over what it points at. Ibn Kathir gives the reading that you will meet your work, whatever it was, good or evil; then he reports that others refer the pronoun back to your Lord, so the sense is you will meet Him. He does not choose between them. He observes that the two are connected, since the deed is met where its Judge is.",
-            "bn": "আয়াতটি শেষ হয় একটি সর্বনাম দিয়ে — 'ফামুলাকীহ' — আর সেটি কোন দিকে ইঙ্গিত করে তা নিয়ে মুফাসসিরগণের মতভেদ আছে। ইবনে কাসীর প্রথমে সেই পাঠটি দেন যে তুমি তোমার আমলের সাক্ষাৎ পাবে, তা ভালো হোক বা মন্দ; এরপর জানান, অন্যরা সর্বনামটিকে 'তোমার প্রতিপালক'-এর দিকে ফিরিয়ে দেন, অর্থাৎ তুমি তাঁর সাক্ষাৎ পাবে। তিনি দুটির কোনো একটিকে বেছে নেন না। তিনি লক্ষ করেন, দুটি অর্থ পরস্পরের সঙ্গে যুক্ত — কারণ আমলের সাক্ষাৎ সেখানেই ঘটে যেখানে তার বিচারক থাকেন।"
+            "bn": "আয়াতটি শেষ হয় একটি সর্বনামে, 'ফামুলাকীহ'-তে। সর্বনামটি কাকে বোঝায়, তা নিয়ে মুফাসসিরগণের মতভেদ আছে। ইবনে কাসীর প্রথমে এই ব্যাখ্যা দেন: তুমি তোমার আমলের সাক্ষাৎ পাবে, তা ভালো হোক বা মন্দ। তারপর জানান, অন্যরা সর্বনামটিকে 'তোমার প্রতিপালক'-এর দিকে ফেরান; তখন অর্থ দাঁড়ায়, তুমি তাঁর সাক্ষাৎ পাবে। তিনি কোনোটিকেই বেছে নেন না। বরং দেখান, দুটি অর্থ একটি আরেকটির সঙ্গে জড়ানো, কারণ আমলের সঙ্গে দেখা হবে সেখানেই, যেখানে তার বিচারক আছেন।"
           },
           {
             "en": "This is why the translations in this app part company at the last word: one ends on you will meet it, and the Bengali ends on you will attain His meeting. Neither is a slip. Both sit inside the classical reading of the verse, and the ambiguity is not a flaw in the Arabic but its economy — a single attached pronoun holding the deed and the One it is carried to.",
-            "bn": "এ কারণেই এই অ্যাপের অনুবাদ দুটি শেষ শব্দে এসে আলাদা হয়ে যায়: একটি শেষ হয় 'তুমি তার সাক্ষাৎ পাবে' দিয়ে, আর বাংলাটি শেষ হয় 'তুমি তাঁর সাক্ষাৎ লাভ করবে' দিয়ে। কোনোটিই ভুল নয়। দুটিই আয়াতটির শাস্ত্রীয় ব্যাখ্যার ভেতরেই পড়ে, আর এই দ্ব্যর্থতা আরবির ত্রুটি নয়, বরং তার মিতব্যয়িতা — একটিমাত্র সর্বনাম একসঙ্গে ধরে রাখে আমলকে এবং যাঁর কাছে তা নিয়ে যাওয়া হচ্ছে তাঁকে।"
+            "bn": "এ কারণেই এই অ্যাপের দুটি অনুবাদ শেষ শব্দে এসে আলাদা হয়ে যায়। একটি শেষ হয় 'তুমি তার সাক্ষাৎ পাবে' দিয়ে, আর বাংলাটি শেষ হয় 'তুমি তাঁর সাক্ষাৎ লাভ করবে' দিয়ে। কোনোটিই ভুল নয়। দুটিই আয়াতের পূর্বসূরি মুফাসসিরদের ব্যাখ্যার মধ্যেই পড়ে। আর দুই অর্থের এই সুযোগ আরবির দুর্বলতা নয়, বরং তার অল্প কথায় বেশি বলার গুণ: শব্দের সঙ্গে জোড়া ছোট্ট একটি সর্বনাম একসঙ্গে ধরে রাখে আমলকে, আবার তাঁকেও, যাঁর কাছে আমলটি নিয়ে যাওয়া হচ্ছে।"
           }
         ]
       },
       {
         "h": {
           "en": "The Reckoning It Opens Onto",
-          "bn": "যে হিসাবের দিকে এটি খোলে"
+          "bn": "যে হিসাবে গিয়ে পৌঁছায়"
         },
         "p": [
           {
             "en": "84:7-9 give the first outcome: whoever is given his record in his right hand will be reckoned with easily and go back to his people glad. 84:10-12 give the other: a record handed from behind the back, a cry for destruction, a blaze. So the meeting announced in our verse is specified within a few lines, and it is specified as the handing over of a written account.",
-            "bn": "84:7-9 প্রথম পরিণতিটি জানায়: যার আমলনামা তার ডান হাতে দেওয়া হবে, তার হিসাব সহজভাবেই নেওয়া হবে এবং সে আনন্দিত হয়ে তার স্বজনদের কাছে ফিরে যাবে। 84:10-12 জানায় অন্যটি: পিঠের পেছন দিক থেকে হাতে দেওয়া আমলনামা, ধ্বংসের আর্তনাদ, আর জ্বলন্ত আগুন। অর্থাৎ আমাদের আয়াতে ঘোষিত সেই সাক্ষাৎ কয়েক পঙ্‌ক্তির ভেতরেই নির্দিষ্ট হয়ে যায়, আর নির্দিষ্ট হয় একটি লিখিত হিসাব হাতে তুলে দেওয়ার রূপে।"
+            "bn": "84:7-9 প্রথম পরিণতির কথা বলে: যার আমলনামা ডান হাতে দেওয়া হবে, তার হিসাব নেওয়া হবে সহজে, আর সে খুশিমনে নিজের লোকদের কাছে ফিরে যাবে। 84:10-12 বলে অন্যটির কথা: পিঠের পেছন দিক থেকে দেওয়া আমলনামা, ধ্বংসকে ডাকার আর্তনাদ, আর জ্বলন্ত আগুন। অর্থাৎ আমাদের আয়াত যে সাক্ষাতের ঘোষণা দিল, কয়েক লাইনের মধ্যেই তা স্পষ্ট হয়ে যায়: সেটা হলো লিখে রাখা হিসাব হাতে তুলে দেওয়া।"
           },
           {
             "en": "Al-Bukhari and Muslim both narrate from Aishah (RA) that when she heard the Prophet ﷺ say that whoever is called to account is destroyed, she asked him about the easy reckoning of 84:8. He answered that this is only the presentation, and that whoever is closely examined in the reckoning is destroyed. Easy, in that verse, means passed over — not that the account itself was light.",
-            "bn": "বুখারী ও মুসলিম উভয়েই আয়েশা (রাঃ) থেকে বর্ণনা করেন যে, তিনি যখন নবী ﷺ-কে বলতে শুনলেন — যার হিসাব নেওয়া হবে সে ধ্বংস হয়ে যাবে — তখন তিনি 84:8-এর সহজ হিসাব সম্পর্কে প্রশ্ন করলেন। নবী ﷺ উত্তরে বলেন, ওটি কেবল পেশ করা মাত্র; আর হিসাবের সময় যার সঙ্গে কড়াকড়ি করা হবে, সে ধ্বংস হয়ে যাবে। ওই আয়াতে 'সহজ' মানে ছেড়ে দেওয়া — আমলনামা হালকা ছিল, তা নয়।"
+            "bn": "বুখারী ও মুসলিম দুজনেই আয়েশা (রাঃ) থেকে বর্ণনা করেছেন: তিনি নবী ﷺ-কে বলতে শুনলেন, যার হিসাব নেওয়া হবে, সে ধ্বংস হয়ে যাবে। তখন তিনি 84:8-এর সহজ হিসাবের কথা জিজ্ঞেস করলেন। নবী ﷺ জবাবে বললেন, ওটা শুধু পেশ করা; আর হিসাবের সময় যাকে খুঁটিয়ে জেরা করা হবে, সে ধ্বংস হয়ে যাবে। তাই ওই আয়াতে 'সহজ' মানে ছাড় পেয়ে যাওয়া; আমলনামা হালকা ছিল, ব্যাপারটা তা নয়।"
           }
         ]
       },
@@ -97,7 +97,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Nothing in this verse asks whether you will exert yourself. It reports that you already are, and it names the direction the exertion is running in. Since the toil is not optional and the meeting is not optional, exactly one thing is left open, which is what the toil is spent on. Everyone alive is a kadih; people differ only in what they are wearing themselves out for.",
-            "bn": "এই আয়াত এ কথা জিজ্ঞেস করে না যে তুমি পরিশ্রম করবে কি না। এটি জানায় যে তুমি ইতিমধ্যেই করছ, এবং সেই পরিশ্রম কোন দিকে ছুটছে তারও নাম বলে দেয়। যেহেতু পরিশ্রম ঐচ্ছিক নয় এবং সাক্ষাৎও ঐচ্ছিক নয়, তাই খোলা থাকে ঠিক একটি জিনিস — পরিশ্রমটি কীসের পেছনে ব্যয় হচ্ছে। জীবিত প্রত্যেকেই একজন 'কাদিহ'; মানুষে মানুষে পার্থক্য কেবল এখানেই যে সে নিজেকে কীসের জন্য ক্ষয় করছে।"
+            "bn": "এই আয়াত জিজ্ঞেস করছে না, আপনি পরিশ্রম করবেন কি না। আয়াত জানিয়ে দিচ্ছে, আপনি তো পরিশ্রম করেই চলেছেন, আর সেই পরিশ্রম কোন দিকে ছুটছে, তাও বলে দিচ্ছে। খাটুনি এড়ানোর উপায় নেই, সাক্ষাৎ এড়ানোরও উপায় নেই। তাই খোলা থাকে কেবল একটি প্রশ্ন: খাটুনিটা খরচ হচ্ছে কীসের পেছনে। বেঁচে থাকা প্রত্যেক মানুষই একজন 'কাদিহ'; পার্থক্য শুধু এখানে, কে নিজেকে কীসের জন্য ক্ষয় করছে।"
           }
         ]
       }
@@ -117,7 +117,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The pair stands opposite 84:7 to 84:9, where whoever is given his record in his right hand is reckoned with easily and goes back to his people glad. The two scenes are built to be read together, and the shipped reflection on 84:6 already traces how the meeting announced there opens onto both. This article stays with the second scene: what the commentators say the verb yasla means, what they call the blaze, and what they say the gladness of 84:13 rested on.",
-            "bn": "এ জোড়ার ঠিক উল্টো দিকে আছে ৮৪:৭ থেকে ৮৪:৯ আয়াত। সেখানে যার আমলনামা ডান হাতে দেওয়া হয়, তার হিসাব নেওয়া হয় সহজে, আর সে আনন্দে পরিজনের কাছে ফিরে যায়। দুটি দৃশ্য একসঙ্গে পড়ার জন্যই সাজানো। ৮৪:৬ আয়াতের প্রকাশিত আলোচনায় দেখানো হয়েছে, সেখানে ঘোষিত সাক্ষাৎ কীভাবে এই দুই দৃশ্যে গিয়ে খোলে। এ লেখা থাকবে দ্বিতীয় দৃশ্যের সঙ্গে। ইয়াসলা ক্রিয়ার অর্থ মুফাসসিরগণ কী বলেন, আগুনকে কী নামে ডাকেন, আর ৮৪:১৩ আয়াতের আনন্দ কিসের উপর দাঁড়িয়ে ছিল বলে জানান, সেটাই এখানে দেখার বিষয়।"
+            "bn": "এ জোড়ার ঠিক উল্টো দিকে আছে ৮৪:৭ থেকে ৮৪:৯ আয়াত। সেখানে যার আমলনামা ডান হাতে দেওয়া হয়, তার হিসাব নেওয়া হয় সহজে, আর সে আনন্দে পরিজনের কাছে ফিরে যায়। দুটি দৃশ্য একসঙ্গে পড়ার জন্যই সাজানো। ৮৪:৬ আয়াতের যে আলোচনা অ্যাপে আছে, সেখানে দেখানো হয়েছে, ওই আয়াতে ঘোষিত সাক্ষাৎ কীভাবে এই দুই দৃশ্যেই গিয়ে পৌঁছায়। এ লেখা থাকবে দ্বিতীয় দৃশ্যের সঙ্গে। ইয়াসলা ক্রিয়ার অর্থ মুফাসসিরগণ কী বলেন, আগুনকে কী নামে ডাকেন, আর ৮৪:১৩ আয়াতের আনন্দ কিসের উপর দাঁড়িয়ে ছিল বলে জানান, সেটাই এখানে দেখার বিষয়।"
           }
         ]
       },
@@ -133,7 +133,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Mujahid, in at-Tabari's chain, says he puts his hand behind his back. Ibn Kathir has the hand bent back so that the book is given into it, and al-Baghawi has the right hand fettered to the neck. As-Sa'di says only: with his left hand, from behind him. Al-Qurtubi adds a report he credits to Ibn Abbas, with no chain in the text fetched, that the verse came down about one named man of Quraysh, whose name this article leaves out because the report has no chain, and says at once that it is then general for every believer and disbeliever.",
-            "bn": "তাবারীর সনদে মুজাহিদ বলেন, সে হাতটা পিঠের পেছনে নিয়ে যাবে। ইবন কাসীরের বর্ণনায় হাতটা পেছনে বাঁকিয়ে দেওয়া হবে, আর সেই হাতেই আমলনামা ধরিয়ে দেওয়া হবে। বাগাভীর বর্ণনায় ডান হাত ঘাড়ের সঙ্গে শিকলে বাঁধা থাকবে। সা'দী শুধু বলেন: বাঁ হাতে, পেছন দিক থেকে। কুরতুবী ইবন আব্বাস (রাঃ)-এর নামে একটি বর্ণনা আনেন, যদিও সংগৃহীত লেখায় তার কোনো সনদ নেই। তাতে বলা হয়েছে, আয়াতটি নাযিল হয়েছিল কুরাইশের এক নির্দিষ্ট ব্যক্তি সম্পর্কে। সনদ নেই বলে এ লেখায় তাঁর নাম বাদ দেওয়া হলো। সঙ্গে সঙ্গেই কুরতুবী যোগ করেন, এরপর আয়াতটি প্রত্যেক মু'মিন ও কাফিরের জন্য ব্যাপক।"
+            "bn": "তাবারীর সনদে মুজাহিদ বলেন, সে হাতটা পিঠের পেছনে নিয়ে যাবে। ইবন কাসীরের বর্ণনায় হাতটা পেছনে বাঁকিয়ে দেওয়া হবে, আর সেই হাতেই আমলনামা ধরিয়ে দেওয়া হবে। বাগাভীর বর্ণনায় ডান হাত ঘাড়ের সঙ্গে শিকলে বাঁধা থাকবে। সা'দী শুধু বলেন: বাঁ হাতে, পেছন দিক থেকে। কুরতুবী ইবন আব্বাস (রাঃ)-এর নামে একটি বর্ণনা আনেন, যদিও সংগৃহীত লেখায় তার কোনো সনদ নেই। তাতে আছে, আয়াতটি নাজিল হয়েছিল কুরাইশের এক নির্দিষ্ট লোককে নিয়ে। সনদ নেই বলে এ লেখায় তার নাম রাখা হলো না। তবে কুরতুবী সঙ্গে সঙ্গেই বলে দেন, এরপর আয়াতটি প্রত্যেক মু'মিন ও কাফিরের জন্য সাধারণ।"
           },
           {
             "en": "This needs saying plainly. The verses describe what the text describes: a scene on the Day of Reckoning, and a man the commentators identify by his disbelief and his deeds. They license nothing against any living person or community. No reader is given the right to decide which of the people he knows will receive his record behind his back, and nothing here pronounces on the end of anyone alive today. The scene is held up so that each reader looks first at his own record.",
@@ -205,7 +205,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Others place it in what he never thought about. Ibn Kathir: glad, not thinking about outcomes, not fearing what lay ahead of him, so that the small gladness was followed by long grief. The Muyassar: glad and deluded, not thinking about outcomes. As-Sa'di: the resurrection never crossed his mind, and he had done evil; he runs this verse on from the last: the blaze surrounds him because, in the world, he was glad among his people. Ma'arif al-Qur'an: he lived joyfully among his people, completely oblivious of the Hereafter.",
-            "bn": "অন্যরা আনন্দের ভিত খোঁজেন সেই জিনিসে, যা সে কখনো ভেবে দেখেনি। ইবন কাসীর বলেন, সে খুশি ছিল, পরিণামের কথা ভাবত না, সামনে কী আছে তা নিয়ে ভয় পেত না। তাই সেই অল্প আনন্দের পরে এল দীর্ঘ দুঃখ। মুয়াসসার বলে, সে খুশি আর ধোঁকায় পড়া, পরিণাম নিয়ে চিন্তাহীন। সা'দী বলেন, পুনরুত্থানের কথা তার মনেই আসত না, অথচ সে মন্দ কাজ করেছিল। আগের আয়াতের সঙ্গে তিনি এটিকে জুড়ে পড়েন: আগুন তাকে ঘিরে ধরবে, কারণ দুনিয়ায় সে পরিজনের মাঝে আনন্দে ছিল। মাআরিফুল কুরআন বলে, সে পরিজনের মাঝে আনন্দে দিন কাটাত, আখিরাতের কথা একেবারে ভুলে।"
+            "bn": "অন্যরা আনন্দের ভিত খোঁজেন সেই জিনিসে, যা সে কখনো ভেবে দেখেনি। ইবন কাসীর বলেন, সে খুশি ছিল, পরিণামের কথা ভাবত না, সামনে কী আছে তা নিয়ে ভয় পেত না। তাই সেই অল্প আনন্দের পরে এল দীর্ঘ দুঃখ। মুয়াসসারের ভাষায়, সে ছিল খুশি আর ধোঁকায় ডুবে, পরিণামের কোনো চিন্তা ছিল না। সা'দী বলেন, পুনরুত্থানের কথা তার মনেই আসত না, অথচ সে মন্দ কাজ করেছিল। আগের আয়াতের সঙ্গে তিনি এটিকে জুড়ে পড়েন: আগুন তাকে ঘিরে ধরবে, কারণ দুনিয়ায় সে পরিজনের মাঝে আনন্দে ছিল। মাআরিফুল কুরআন বলে, সে পরিজনের মাঝে আনন্দে দিন কাটাত, আখিরাতের কথা একেবারে ভুলে।"
           },
           {
             "en": "These are two emphases, not a quarrel, and this article does not choose between them: joy taken in disobedience, and joy that never looked ahead. None of the fetched commentators says that being glad among one's family is itself the fault. Each says what this man's gladness was made of, and the same adjective, four verses earlier, describes the believer's reward. Ma'arif al-Qur'an, too, calls his heedlessness one of the reasons given for his misery, not the whole of it.",
@@ -237,7 +237,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ma'arif al-Qur'an, commenting on 84:7 to 84:12, cites a narration from al-Bukhari's Sahih, number 103, in which the Prophet ﷺ says that whoever is called to account will be punished, and A'ishah (RA) asks about the easy reckoning of 84:8. That report is quoted in full in the article on 84:6, so it is not repeated here. None of the fetched tafsirs attaches it to 84:12 or 84:13 directly, and this article does not read it into them.",
-            "bn": "মাআরিফুল কুরআন ৮৪:৭ থেকে ৮৪:১২ আয়াতের আলোচনায় সহীহ বুখারীর ১০৩ নম্বর বর্ণনাটি আনে। তাতে নবী ﷺ বলেন, যার হিসাব নেওয়া হবে তাকে শাস্তি দেওয়া হবে, আর আয়েশা (রাঃ) ৮৪:৮ আয়াতের সহজ হিসাব নিয়ে প্রশ্ন করেন। বর্ণনাটি ৮৪:৬ আয়াতের লেখায় পুরোটা উদ্ধৃত হয়েছে, তাই এখানে আবার দেওয়া হলো না। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এটিকে সরাসরি ৮৪:১২ বা ৮৪:১৩-এর সঙ্গে জোড়েনি, আর এ লেখাও তা তাদের মধ্যে ঢোকায় না।"
+            "bn": "মাআরিফুল কুরআন ৮৪:৭ থেকে ৮৪:১২ আয়াতের আলোচনায় সহীহ বুখারীর ১০৩ নম্বর বর্ণনাটি আনে। তাতে নবী ﷺ বলেন, যার হিসাব নেওয়া হবে তাকে শাস্তি দেওয়া হবে, আর আয়েশা (রাঃ) ৮৪:৮ আয়াতের সহজ হিসাব নিয়ে প্রশ্ন করেন। বর্ণনাটি ৮৪:৬ আয়াতের লেখায় পুরোটা উদ্ধৃত হয়েছে, তাই এখানে আবার দেওয়া হলো না। যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এটিকে সরাসরি ৮৪:১২ বা ৮৪:১৩-এর সঙ্গে জোড়েনি, আর এ লেখাও আয়াত দুটির অর্থে একে টেনে আনে না।"
           },
           {
             "en": "Al-Bukhari placed it in his Sahih, and the shipped reflection on 84:6 already draws on the same narration for the easy reckoning of 84:8. No fetched commentator attaches it to 84:12 or 84:13 directly; it stands here for the contrast the surah itself draws. Ma'arif al-Qur'an's own lesson from 84:13 is this: a believer should not be immersed in the comforts of this life, and at no time and in no circumstance should he be oblivious to the reckoning of the Hereafter.",
@@ -329,7 +329,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "That second question has evidence of its own, and the fetched tafsirs bring it. Al-Baghawi cites through al-Bukhari, and Ma'arif al-Qur'an also cites, the report of Abu Rafi'. In Sahih al-Bukhari (1078), in the English of the page, it reads: \"I offered the 'Isha' prayer behind Abu Huraira and he recited Idhas-Sama' Un-Shaqqat, and prostrated. I said, 'What is this?' Abu Huraira said, 'I prostrated behind Abul-Qasim and I will do the same till I meet him.'\" Al-Bukhari placed it in his Sahih.",
-            "bn": "দ্বিতীয় প্রশ্নটির নিজস্ব দলিল আছে, আর তাফসীরগুলোই তা সামনে আনে। বাগাভী বুখারীর সূত্রে আবু রাফির বর্ণনা উদ্ধৃত করেন, মাআরিফুল কুরআনও এটি উল্লেখ করে। সহীহ বুখারীতে (১০৭৮) বর্ণনাটি এরকম: \"আমি আবু হুরায়রা (রাঃ)-এর সঙ্গে ইশার নামাজ পড়লাম। তিনি ইযাস সামাউন শাক্কাত পড়লেন এবং সিজদা করলেন। আমি বললাম, এটা কী? তিনি বললেন, আমি আবুল কাসিম ﷺ-এর পেছনে এতে সিজদা করেছি। তাঁর সঙ্গে সাক্ষাৎ হওয়া পর্যন্ত আমি এতে সিজদা করেই যাব।\" ইমাম বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন।"
+            "bn": "দ্বিতীয় প্রশ্নটির নিজস্ব দলিল আছে, আর তাফসীরগুলোই তা সামনে আনে। বাগাভী বুখারীর সূত্রে আবু রাফির বর্ণনা উদ্ধৃত করেন, মাআরিফুল কুরআনও এটি উল্লেখ করে। সহীহ বুখারীতে (১০৭৮) বর্ণনাটি এরকম: \"আমি আবু হুরায়রা (রাঃ)-এর পেছনে ইশার নামাজ পড়লাম। তিনি ইযাস সামাউন শাক্কাত পড়লেন এবং সিজদা করলেন। আমি বললাম, এটা কী? তিনি বললেন, আমি আবুল কাসিম ﷺ-এর পেছনে এতে সিজদা করেছি। তাঁর সঙ্গে সাক্ষাৎ হওয়া পর্যন্ত আমি এতে সিজদা করেই যাব।\" ইমাম বুখারী বর্ণনাটি তাঁর সহীহ গ্রন্থে স্থান দিয়েছেন।"
           },
           {
             "en": "Al-Baghawi also cites, through at-Tirmidhi, the report of 'Ata' ibn Mina from Abu Hurayrah (RA), and Ma'arif mentions Muslim's narration of it. In Sahih Muslim (578c on the page) the English reads: \"We performed prostration along with the Messenger of Allah ﷺ (as he recited these verses:) 'When the heaven burst asunder' and 'Read in the name of Thy Lord'.\" The second surah named is al-'Alaq. Muslim placed the report in his Sahih, and at-Tirmidhi, recording the same words (573 and 574), graded the hadith of Abu Hurayrah hasan sahih.",
