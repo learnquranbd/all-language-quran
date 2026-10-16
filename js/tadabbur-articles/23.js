@@ -2725,7 +2725,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The last pages of the surah are hard. 23:99 has a man at death asking to be sent back so that he might do righteousness in what he left behind, and 23:100 answers that it is only a word he is saying. What that man wanted was more time to act; the surah's last instruction is to use the time by asking. Forgiveness and mercy remain obtainable after the record is written.",
-            "bn": "সূরার শেষ পৃষ্ঠাগুলো কঠিন। 23:99-এ মৃত্যুর মুখে দাঁড়ানো একজন মানুষ ফিরিয়ে দেওয়ার আবেদন করে, যাতে সে যা ছেড়ে এসেছে তাতে ভালো কাজ করতে পারে; আর 23:100 জবাব দেয়, এ কেবল একটি কথা যা সে বলছে। সেই মানুষটি যা চেয়েছিল তা হলো কাজ করার জন্য আরও সময়; সূরার শেষ নির্দেশ হলো সেই সময়টি ব্যবহার করা — চেয়ে নেওয়ার মধ্য দিয়ে। খাতা লেখা হয়ে যাওয়ার পরেও ক্ষমা ও দয়া পাওয়া সম্ভব থাকে।"
+            "bn": "সূরার শেষ পাতাগুলো কঠিন। ২৩:৯৯-এ মৃত্যুর মুখে একজন মানুষ মিনতি করে, তাকে যেন ফেরত পাঠানো হয়, যাতে যা ছেড়ে এসেছে তাতে নেক আমল করতে পারে। ২৩:১০০ জবাব দেয়: এ তো শুধু একটা কথা, যা সে মুখে বলছে। লোকটি চেয়েছিল আমল করার জন্য আরও সময়। আর সূরার শেষ নির্দেশ হলো, হাতের সময়টা চেয়ে নেওয়ার কাজে লাগানো। আমলনামা লেখা হয়ে যাওয়ার পরেও ক্ষমা আর রহমত পাওয়া যায়।"
           }
         ]
       },
@@ -2737,11 +2737,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The practical value of this verse is its length. It fits into a walk, a queue, the pause between two tasks, and the moment after a sin when longer words will not come. It needs no occasion and no preparation, and because it stands in the Quran as a command, saying it is an act of obedience before it is ever an act of asking.",
-            "bn": "এই আয়াতের ব্যবহারিক মূল্য তার দৈর্ঘ্যেই। এটি এঁটে যায় হাঁটার মধ্যে, লাইনে দাঁড়ানোর মধ্যে, দুই কাজের মাঝের বিরতিতে, আর গুনাহের পরের সেই মুহূর্তে যখন দীর্ঘ কোনো শব্দ মুখে আসে না। এর জন্য কোনো উপলক্ষ লাগে না, প্রস্তুতিও লাগে না; আর যেহেতু এটি কুরআনে একটি আদেশ হিসেবেই আছে, তাই এটি বলা চাওয়ার কাজ হওয়ার আগেই আনুগত্যের কাজ।"
+            "bn": "আমলের দিক থেকে এই আয়াতের বড় গুণ এর ছোট আকার। হাঁটতে হাঁটতে, লাইনে দাঁড়িয়ে, দুই কাজের ফাঁকে বলা যায়। গুনাহের পরের সেই মুহূর্তেও বলা যায়, যখন লম্বা কোনো কথা মুখে আসে না। কোনো উপলক্ষ লাগে না, প্রস্তুতিও লাগে না। আর কুরআনে এটি এসেছে আদেশ হিসেবে, তাই এ দোয়া মুখে আনা মানে চাওয়ার আগেই হুকুম পালন করা।"
           },
           {
             "en": "It also trains what a person asks for. Most requests concern arrangements — outcomes, timing, people. This one asks for the two things that sit underneath every arrangement, and asks them of the One whose mercy is described in the same breath. Say it often enough and it begins to sort the rest of the list, because a heart that has named its real needs stops confusing them with its preferences.",
-            "bn": "এটি মানুষ কী চায় সেই অভ্যাসটিও গড়ে তোলে। বেশিরভাগ চাওয়া ব্যবস্থাপনা নিয়ে — ফলাফল, সময়, মানুষজন। এই চাওয়াটি সেই দুটি জিনিস চায় যা প্রতিটি ব্যবস্থার নিচে বসে আছে, আর চায় তাঁরই কাছে, একই নিঃশ্বাসে যাঁর দয়ার বর্ণনা দেওয়া হয়েছে। যথেষ্ট বার বললে এটি বাকি তালিকাটিও সাজিয়ে দিতে শুরু করে, কারণ যে হৃদয় তার আসল প্রয়োজনের নাম জেনে ফেলেছে, সে আর সেগুলোকে নিজের পছন্দের সঙ্গে গুলিয়ে ফেলে না।"
+            "bn": "এ দোয়া মানুষকে শেখায়, কী চাইতে হয়। আমাদের বেশিরভাগ চাওয়া নানা ব্যবস্থা নিয়ে: কী ফল হবে, কখন হবে, কাকে নিয়ে হবে। এই দোয়া চায় সেই দুটি জিনিস, যা সব ব্যবস্থার গোড়ায় থাকে। আর চায় তাঁর কাছে, যাঁর রহমতের কথা একই নিঃশ্বাসে উঠে আসে। বারবার বলতে থাকলে বাকি চাওয়াগুলোও এটি গুছিয়ে দিতে থাকে। কারণ যে হৃদয় নিজের আসল প্রয়োজন চিনে নিয়েছে, সে আর সেগুলোকে নিজের পছন্দের সঙ্গে গুলিয়ে ফেলে না।"
           }
         ]
       }
