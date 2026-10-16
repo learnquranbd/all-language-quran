@@ -52,12 +52,12 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Fear, Belief, and Restatement",
-          "bn": "ভয়, আকীদা আর সরল পুনর্কথন"
+          "bn": "ভয়, আকীদা, আর শুধু নতুন করে বলা"
         },
         "p": [
           {
             "en": "Ibn Kathir glosses the verb with another state of the heart altogether. In his Arabic: do those people not fear the resurrection, and standing before the One who knows hidden things and what the heart conceals? His English abridgement keeps the same line: do these people not fear the resurrection. Al-Muyassar, the plain modern paraphrase, writes a-la ya'taqidu: do those mutaffifun not firmly believe that Allah will raise them and call them to account for their deeds? Fear in one, firm belief in the other.",
-            "bn": "ইবন কাসীর ক্রিয়াটির ব্যাখ্যা দেন অন্তরের সম্পূর্ণ ভিন্ন এক অবস্থা দিয়ে। তাঁর আরবি তাফসীরে: ওরা কি ভয় করে না পুনরুত্থানকে, আর সেই সত্তার সামনে দাঁড়ানোকে, যিনি গোপন বিষয় আর মনের লুকানো কথা জানেন? তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণেও একই কথা: এরা কি পুনরুত্থানকে ভয় করে না? সহজ ভাষার আধুনিক তাফসীর মুয়াসসার লেখে, আলা ইয়াতাকিদু: ওই মুতাফফিফরা কি দৃঢ়ভাবে বিশ্বাস করে না যে আল্লাহ তাদের ওঠাবেন আর তাদের আমলের হিসাব নেবেন? একজনের কাছে ভয়, অন্যটির কাছে দৃঢ় আকীদা।"
+            "bn": "ইবন কাসীর ক্রিয়াটির ব্যাখ্যা দেন অন্তরের সম্পূর্ণ ভিন্ন এক অবস্থা দিয়ে। তাঁর আরবি তাফসীরে: ওরা কি ভয় করে না পুনরুত্থানকে, আর সেই সত্তার সামনে দাঁড়ানোকে, যিনি গোপন বিষয় আর মনের লুকানো কথা জানেন? তাঁর সংক্ষিপ্ত ইংরেজি সংস্করণেও একই কথা: এরা কি পুনরুত্থানকে ভয় করে না? সহজ ভাষার আধুনিক তাফসীর মুয়াসসার লেখে, আলা ইয়াতাকিদু: ওই মুতাফফিফরা কি দৃঢ়ভাবে বিশ্বাস করে না যে আল্লাহ তাদের ওঠাবেন আর তাদের আমলের হিসাব নেবেন? একটিতে ভয়, অন্যটিতে দৃঢ় আকীদা।"
           },
           {
             "en": "Two commentators give no gloss of the word at all. At-Tabari restates the verse and fills in only who and from where: do these mutaffifun not think that they will be raised from their graves after their deaths? As-Sa'di quotes it together with 83:5 and 83:6 and moves straight to its cause. So the fetched texts give four readings of one verb: certainty, from al-Baghawi and al-Qurtubi's first view; wavering supposition, from al-Qurtubi's reported second view; fear, from Ibn Kathir; and firm belief, from al-Muyassar. None is chosen here.",
@@ -97,7 +97,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Qurtubi points the same way when he says they act as if the matter never crosses their minds as something to answer for. Read with these commentators, the verse moves the problem of the scale from the hand to the heart. A short measure is usually small, a little grain or a sliver of weight, and it stays small because the one taking it expects no one to count. The verse does not argue with the arithmetic. It argues with the expectation.",
-            "bn": "কুরতুবীও একই দিকে ইঙ্গিত করেন, যখন বলেন যে তারা এমনভাবে চলে, যেন জবাবদিহির বিষয় হিসেবে ব্যাপারটা কখনো তাদের মাথায় আসে না। এই তাফসীরকারদের সঙ্গে পড়লে আয়াতটি দাঁড়িপাল্লার সমস্যাকে হাত থেকে সরিয়ে নিয়ে যায় অন্তরে। কম মাপ সাধারণত সামান্যই হয়, অল্প একটু শস্য বা ওজনের ছোট্ট একটা ফাঁক। আর সামান্য থাকে এ কারণে যে, যে নিচ্ছে সে আশা করে কেউ গুনে দেখবে না। আয়াত হিসাবের অঙ্ক নিয়ে তর্ক করে না। তর্ক করে ওই আশাটা নিয়ে।"
+            "bn": "কুরতুবীও একই দিকে ইঙ্গিত করেন, যখন বলেন যে তারা এমনভাবে চলে, যেন জবাবদিহির বিষয় হিসেবে ব্যাপারটা কখনো তাদের মাথায় আসে না। এই তাফসীরকারদের সঙ্গে পড়লে আয়াতটি দাঁড়িপাল্লার সমস্যাকে হাত থেকে সরিয়ে নিয়ে যায় অন্তরে। কম মাপ সাধারণত সামান্যই হয়, অল্প একটু শস্য বা ওজনের ছোট্ট একটা ফাঁক। আর তা সামান্যই থাকে, কারণ যে নিচ্ছে সে ধরে নেয়, কেউ গুনে দেখবে না। আয়াত হিসাবের অঙ্ক নিয়ে তর্ক করে না। তর্ক করে ওই ধরে নেওয়াটা নিয়ে।"
           },
           {
             "en": "The two readings of yazunnu leave the reader with two tests. On the certainty reading, the question is whether what I say I believe about the resurrection has reached my hands. On al-Qurtubi's reported second reading, the question is humbler: even where my conviction wavers, does the bare possibility of being raised make me take the cautious course? Neither test needs anyone else to be named. Both are put to whoever happens to be holding the scale at that moment, and today that may be me.",
@@ -133,7 +133,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two of the fetched tafsirs cite one narration on how the surah came. Ibn Kathir names an-Nasa'i and Ibn Majah; Ma'arif al-Qur'an names al-Hakim, an-Nasa'i and Ibn Majah. In Sunan Ibn Majah 2223, from Ibn 'Abbas (RA): \"When the Prophet (ﷺ) came to Al-Madinah, they were the worst people in weights and measures. Then Allah, Glorious is He revealed: 'Woe to the Mutaffifun (those who give less in measure and weight)', and they were fair in weights and measures after that.\"",
-            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার দুটি সূরাটি নাযিলের প্রেক্ষাপটে একই বর্ণনা আনে। ইবন কাসীর নাম নেন নাসাঈ ও ইবন মাজাহর। মাআরিফুল কুরআন নাম নেয় হাকিম, নাসাঈ ও ইবন মাজাহর। সুনানে ইবন মাজাহ ২২২৩ নম্বরে ইবন আব্বাস (রাঃ) থেকে বর্ণিত: \"নবী ﷺ যখন মদীনায় এলেন, তখন মাপের ব্যাপারে তারা ছিল সবচেয়ে মন্দ লোকদের অন্যতম। তখন মহিমান্বিত আল্লাহ নাযিল করলেন: 'দুর্ভোগ মুতাফফিফীনের জন্য (যারা মাপে ও ওজনে কম দেয়)'। এরপর থেকে তারা মাপ ভালোভাবে দিতে লাগল।\""
+            "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার দুটিতে সূরাটি নাজিলের প্রেক্ষাপট নিয়ে একই বর্ণনা এসেছে। ইবন কাসীর নাম নেন নাসাঈ ও ইবন মাজাহর। মাআরিফুল কুরআন নাম নেয় হাকিম, নাসাঈ ও ইবন মাজাহর। সুনানে ইবন মাজাহর ২২২৩ নম্বরে ইবন আব্বাস (রাঃ) থেকে বর্ণিত: \"নবী ﷺ যখন মদীনায় এলেন, তখন মাপে আর ওজনে তারা ছিল সবচেয়ে খারাপ লোক। তখন মহিমান্বিত আল্লাহ নাজিল করলেন: 'দুর্ভোগ মুতাফফিফীনের জন্য (যারা মাপে ও ওজনে কম দেয়)'। এরপর থেকে তারা মাপে আর ওজনে ঠিকঠাক দিতে লাগল।\""
           },
           {
             "en": "The quranx page fetched for this report shows no grading from Ibn Majah himself, and none is supplied here. Ma'arif al-Qur'an describes the report as having a sound chain; that is Ma'arif's own assessment, reported as such. The narration concerns the surah's first verse and its revelation, not 83:4 in particular, and no fetched tafsir attaches a hadith to 83:4 itself. The surah's place is also disputed: Ma'arif reports Ibn Mas'ud (RA) calling it Makkan, and Ibn 'Abbas (RA), Qatadah, Muqatil and ad-Dahhak calling it Madinan apart from about eight verses.",
@@ -153,7 +153,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What the verse does invite is a question put to oneself. On every gloss the commentators give, certainty, wavering, fear or firm belief, the measure in the hand answers to what the heart expects. The next two verses, 83:5 and 83:6, say what the raising is for, and they are their own entries. Here it is enough to ask the verse's own question with nobody else in view: do I not think that I will be raised, and does my measure today look like it?",
-            "bn": "আয়াতটি যা চায়, তা হলো নিজেকে নিজে প্রশ্ন করা। তাফসীরকারেরা যে ব্যাখ্যাই দিন, নিশ্চিত বিশ্বাস, দোলাচল, ভয় বা দৃঢ় আকীদা, হাতের মাপ সাড়া দেয় অন্তরের প্রত্যাশায়। পরের দুই আয়াত, ৮৩:৫ ও ৮৩:৬, বলে ওঠানো কীসের জন্য। সেগুলোর আলোচনা তাদের নিজ জায়গায়। এখানে অন্য কারও দিকে না তাকিয়ে আয়াতের নিজের প্রশ্নটা করাই যথেষ্ট: আমি কি মনে করি না যে আমাকে আবার ওঠানো হবে? আর আজ আমার মাপ দেখে কি তা বোঝা যায়?"
+            "bn": "আয়াতটি যা চায়, তা হলো নিজেকে নিজে প্রশ্ন করা। তাফসীরকারেরা যে ব্যাখ্যাই দিন, নিশ্চিত বিশ্বাস, দোলাচল, ভয় বা দৃঢ় আকীদা, হাতের মাপ চলে অন্তরের প্রত্যাশা মেনে। পরের দুই আয়াত, ৮৩:৫ ও ৮৩:৬, বলে ওঠানো কীসের জন্য। সেগুলোর আলোচনা তাদের নিজ জায়গায়। এখানে অন্য কারও দিকে না তাকিয়ে আয়াতের নিজের প্রশ্নটা করাই যথেষ্ট: আমি কি মনে করি না যে আমাকে আবার ওঠানো হবে? আর আজ আমার মাপ দেখে কি তা বোঝা যায়?"
           }
         ]
       }
@@ -169,7 +169,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Mutaffifin opens with woe to those who give short measure, and in 83:4 to 83:6 it asks whether such people do not think they will be raised for a tremendous Day, the Day when mankind stands before the Lord of the worlds. Our verse is the reply. At-Tabari reads it as a reply to exactly that thought: kalla, the matter is not as these disbelievers suppose, that they will not be raised and will not be punished. The question is still in the air when the answer comes.",
-            "bn": "সূরা আল-মুতাফফিফীন শুরু হয় মাপে কম দেওয়া লোকদের দুর্ভোগের ঘোষণা দিয়ে। তারপর ৮৩:৪ থেকে ৮৩:৬ আয়াতে প্রশ্ন ওঠে: এরা কি ভাবে না যে এক মহাদিবসে তাদের আবার ওঠানো হবে, যেদিন মানুষ জগতসমূহের রবের সামনে দাঁড়াবে? আমাদের আয়াত সেই প্রশ্নের জবাব। তাবারী একে ঠিক ওই ধারণারই জবাব হিসেবে পড়েন। কাল্লা মানে, এই কাফিররা যা ভাবছে ব্যাপারটা তেমন নয়। তারা ভাবছে, তাদের ওঠানো হবে না, শাস্তিও দেওয়া হবে না। প্রশ্নটা তখনো বাতাসে ভাসছে, আর জবাব এসে যায়।"
+            "bn": "সূরা আল-মুতাফফিফীন শুরু হয় মাপে কম দেওয়া লোকদের দুর্ভোগের ঘোষণা দিয়ে। তারপর ৮৩:৪ থেকে ৮৩:৬ আয়াতে প্রশ্ন ওঠে: এরা কি ভাবে না যে এক মহাদিবসে তাদের আবার ওঠানো হবে, যেদিন মানুষ জগতসমূহের রবের সামনে দাঁড়াবে? আমাদের আয়াত সেই প্রশ্নের জবাব। তাবারী একে ঠিক ওই ধারণারই জবাব হিসেবে পড়েন। কাল্লা মানে, এই কাফিররা যা ভাবছে ব্যাপারটা তেমন নয়। তারা ভাবছে, তাদের ওঠানো হবে না, শাস্তিও দেওয়া হবে না। প্রশ্নটা শেষ হতে না হতেই জবাব এসে যায়।"
           },
           {
             "en": "In Arabic the reply is six words: kalla, inna, kitaba, al-fujjari, la-fi, sijjin. No; indeed, the book of the wicked is in sijjin. The first word refuses, the second confirms, and the last four place a record in a location. The verse that follows, 83:8, asks what will make you know what sijjin is, and 83:9 follows with kitabun marqum, a written book.",
@@ -201,7 +201,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Kitab can name a record of what was done, or what has been written for someone. At-Tabari takes the first: their book in which were written the deeds they used to do in the world. Al-Baghawi says the same, the book in which their deeds were written, and Ma'arif al-Qur'an renders the phrase as the Record of Deeds of the sinners. Al-Qurtubi notes that the tafsir of Muqatil reads it as the deeds of the wicked, and passes on a report from Ibn Abbas (RA): the souls of the wicked and their deeds are in sijjin.",
-            "bn": "কিতাব শব্দে বোঝাতে পারে কৃতকর্মের লিখিত হিসাব, আবার কারও জন্য যা লিখে রাখা হয়েছে তাও। তাবারী প্রথমটি নেন: তাদের সেই খাতা, যাতে দুনিয়ায় তারা যা যা করত সেসব আমল লেখা হয়েছে। বাগাভীও একই কথা বলেন, যে খাতায় তাদের আমল লেখা হয়েছে। মাআরিফুল কুরআনও অর্থ করে পাপীদের আমলনামা। কুরতুবী জানান, মুকাতিলের তাফসীরে এর অর্থ পাপাচারীদের আমল। তিনি ইবন আব্বাস (রাঃ)-এর একটি বর্ণনাও আনেন: পাপাচারীদের রূহ আর তাদের আমল, দুটোই সিজ্জীনে।"
+            "bn": "কিতাব শব্দ দিয়ে বোঝানো যায় কৃতকর্মের লিখিত হিসাব, আবার কারও জন্য যা লিখে রাখা হয়েছে তাও। তাবারী প্রথমটি নেন: তাদের সেই খাতা, যাতে দুনিয়ায় তারা যা যা করত সেসব আমল লেখা হয়েছে। বাগাভীও একই কথা বলেন, যে খাতায় তাদের আমল লেখা হয়েছে। মাআরিফুল কুরআনও অর্থ করে পাপীদের আমলনামা। কুরতুবী জানান, মুকাতিলের তাফসীরে এর অর্থ পাপাচারীদের আমল। তিনি ইবন আব্বাস (রাঃ)-এর একটি বর্ণনাও আনেন: পাপাচারীদের রূহ আর তাদের আমল, দুটোই সিজ্জীনে।"
           },
           {
             "en": "Ibn Kathir's Arabic note reads differently: their destination and their abode are in sijjin. The Muyassar, explaining 83:7 to 83:9 together, writes of the destination of the wicked and their abode, and then of what was written for them to reach: written, settled, with nothing added to it and nothing taken from it. Ma'arif al-Qur'an allows a further possibility, a consolidated book in which the deeds of all the disbelievers of the world are recorded. The sources fetched here leave record and destination side by side.",
@@ -217,7 +217,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Who are al-fujjar? As-Sa'di adds a bracketed note: this covers every fajir, of the kinds of disbelievers, hypocrites and those who sin openly. At-Tabari, reading the verse as an answer to 83:4, speaks of these disbelievers who think they will be neither raised nor punished. Ma'arif al-Qur'an says the sinners, and reports traditions in which the record of the evil deeds of every wicked person is kept separately. Ibn Kathir, reaching 83:11 in the same grouped passage, reads that later verse as explaining who the wicked deniers are.",
-            "bn": "আল-ফুজ্জার কারা? সা'দী বন্ধনীর ভেতরে একটি টীকা যোগ করেন: এতে শামিল প্রত্যেক ফাজির, কাফির, মুনাফিক আর ফাসিক, সব ধরনের। তাবারী আয়াতটিকে ৮৩:৪ আয়াতের জবাব ধরে পড়েন, তাই তাঁর কথায় এরা সেই কাফির, যারা ভাবে তাদের ওঠানোও হবে না, শাস্তিও হবে না। মাআরিফুল কুরআন বলে পাপীরা, আর এমন বর্ণনার কথা জানায়, যাতে প্রত্যেক পাপাচারীর মন্দ আমলের হিসাব আলাদা করে রাখা হয়। ইবন কাসীর একসঙ্গে ব্যাখ্যা করা অংশে ৮৩:১১ আয়াতে পৌঁছে বলেন, সেই আয়াতটিই জানায় এই পাপাচারী অস্বীকারকারীরা কারা।"
+            "bn": "আল-ফুজ্জার কারা? সা'দী বন্ধনীর ভেতরে একটি টীকা যোগ করেন: এতে শামিল সব ধরনের ফাজির, কাফির, মুনাফিক আর প্রকাশ্যে গুনাহ করা ফাসিক। তাবারী আয়াতটিকে ৮৩:৪ আয়াতের জবাব ধরে পড়েন, তাই তাঁর কথায় এরা সেই কাফির, যারা ভাবে তাদের ওঠানোও হবে না, শাস্তিও হবে না। মাআরিফুল কুরআন বলে পাপীরা, আর এমন বর্ণনার কথা জানায়, যাতে প্রত্যেক পাপাচারীর মন্দ আমলের হিসাব আলাদা করে রাখা হয়। ইবন কাসীর একসঙ্গে ব্যাখ্যা করা অংশে ৮৩:১১ আয়াতে পৌঁছে বলেন, সেই আয়াতটিই জানায় এই পাপাচারী অস্বীকারকারীরা কারা।"
           },
           {
             "en": "Notice the range in these readings. As-Sa'di's note takes in more than disbelief alone, and al-Qurtubi's account of kalla points back to the scale as well as to denial of the Hereafter. On those readings the verse is not first a statement about distant others. The surah began with a trader's habit of taking in full and giving short, and the record it now speaks of is the kind of thing such a habit fills.",
@@ -233,7 +233,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Several commentators explain sijjin from its form. At-Tabari calls it fa'il from sijn, prison, on the pattern of sikkir from sukr, drunkenness, and fissiq from fisq, sinfulness. Ibn Kathir says the same and adds what sijn means here: ad-dayq, narrowness. Al-Qurtubi cites Abu 'Ubayda, al-Akhfash and az-Zajjaj: in sijjin means in confinement and severe narrowness, a fa'il form from sijn; al-Baghawi gives the same explanation from al-Akhfash. The Muyassar's plain paraphrase keeps only that sense: their destination is in narrowness.",
-            "bn": "কয়েকজন তাফসীরকার সিজ্জীনের অর্থ খোঁজেন শব্দের গঠন থেকে। তাবারী বলেন, এটি সিজন, মানে কারাগার, থেকে ফিঈল ওজনের শব্দ, যেমন সুকর বা মাতলামি থেকে সিক্কীর, আর ফিসক বা পাপাচার থেকে ফিসসীক। ইবন কাসীরও তাই বলেন, আর যোগ করেন এখানে সিজনের অর্থ আদ-দায়ক, সংকীর্ণতা। কুরতুবী উদ্ধৃত করেন আবু উবায়দা, আখফাশ আর যাজ্জাজকে: ফী সিজ্জীন মানে বন্দিদশায়, ভীষণ সংকীর্ণতায়। বাগাভীও আখফাশ থেকে একই ব্যাখ্যা দেন। মুয়াসসারের সহজ ভাষ্যে শুধু এই অর্থটুকুই থাকে: তাদের গন্তব্য সংকীর্ণতায়।"
+            "bn": "কয়েকজন তাফসীরকার সিজ্জীনের অর্থ খোঁজেন শব্দের গঠন থেকে। তাবারী বলেন, এটি সিজন, মানে কারাগার, থেকে ফিঈল ওজনের শব্দ, যেমন সুকর বা মাতলামি থেকে সিক্কীর, আর ফিসক বা পাপাচার থেকে ফিসসীক। ইবন কাসীরও তাই বলেন, আর যোগ করেন এখানে সিজনের অর্থ আদ-দায়ক, সংকীর্ণতা। কুরতুবী উদ্ধৃত করেন আবু উবায়দা, আখফাশ আর যাজ্জাজকে: ফী সিজ্জীন মানে বন্দিদশায়, ভীষণ সংকীর্ণতায়; শব্দটি সিজন থেকে ফিঈল ওজনে গড়া। বাগাভীও আখফাশ থেকে একই ব্যাখ্যা দেন। মুয়াসসারের সহজ ভাষ্যে শুধু এই অর্থটুকুই থাকে: তাদের গন্তব্য সংকীর্ণতায়।"
           },
           {
             "en": "Al-Qurtubi draws a meaning from this. Their book is held in confinement, which he takes as a sign of how low their standing is, or because it sits where what is turned away from and kept at a distance belongs. Ma'arif al-Qur'an derives the word from sajana, to imprison in a narrow place, and cites the Qamus for the sense of eternal imprisonment. Al-Qurtubi also records, under the words it is said, that the word was originally sijjil with the lam changed to nun, and gives Zayd ibn Aslam's distinction: sijjin in the lowest earth, sijjil in the nearest heaven.",
@@ -261,7 +261,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Others tie the place to Iblis. At-Tabari and al-Baghawi carry Ka'b al-Ahbar's answer to a question from Ibn Abbas (RA), which places sijjin by Iblis. Sa'id ibn Jubayr placed it beneath something belonging to Iblis; the word that follows Iblis is not rendered here, because the texts as fetched do not agree on its spelling. At-Tabari also lists a view that sijjin is an open pit in Jahannam, with a report from Abu Hurayra (RA) that al-Qurtubi and al-Baghawi repeat. This article could not confirm that report in a graded collection and does not quote it.",
-            "bn": "আরেক দল জায়গাটিকে ইবলিসের সঙ্গে যুক্ত করেন। ইবন আব্বাস (রাঃ)-এর এক প্রশ্নের জবাবে কা'ব আল-আহবার যা বলেছিলেন, তাবারী ও বাগাভী তা এনেছেন। তাতে সিজ্জীনের অবস্থান ইবলিসের কাছে। সাঈদ ইবন জুবায়র সিজ্জীনকে রেখেছেন ইবলিসের কোনো কিছুর নিচে; ইবলিসের পরের শব্দটি এখানে অনূদিত হয়নি, কারণ যে পাঠগুলো দেখা হয়েছে সেগুলোতে তার বানান মেলে না। তাবারী আরেকটি মতও আনেন: সিজ্জীন জাহান্নামের এক খোলা গর্ত। এর পক্ষে আবু হুরায়রা (রাঃ) থেকে একটি বর্ণনা আছে, যা কুরতুবী ও বাগাভীও এনেছেন। কোনো মানযুক্ত হাদীস সংকলনে এই লেখা বর্ণনাটি যাচাই করতে পারেনি, তাই তা উদ্ধৃত করা হচ্ছে না।"
+            "bn": "আরেক দল জায়গাটিকে ইবলিসের সঙ্গে যুক্ত করেন। ইবন আব্বাস (রাঃ)-এর এক প্রশ্নের জবাবে কা'ব আল-আহবার যা বলেছিলেন, তাবারী ও বাগাভী তা এনেছেন। তাতে সিজ্জীনের অবস্থান ইবলিসের কাছে। সাঈদ ইবন জুবায়র সিজ্জীনকে রেখেছেন ইবলিসের কোনো একটা জিনিসের নিচে। ইবলিসের পরের শব্দটি এখানে অনুবাদ করা হলো না, কারণ যে পাঠগুলো দেখা হয়েছে, সেগুলোতে তার বানান মেলে না। তাবারী আরেকটি মতও আনেন: সিজ্জীন জাহান্নামের এক খোলা গর্ত। এর পক্ষে আবু হুরায়রা (রাঃ) থেকে একটি বর্ণনা আছে, যা কুরতুবী ও বাগাভীও এনেছেন। মান নির্ধারণ করা আছে এমন কোনো হাদিস সংকলনে এই লেখা বর্ণনাটি মিলিয়ে দেখতে পারেনি, তাই তা উদ্ধৃত করা হচ্ছে না।"
           }
         ]
       },
@@ -277,7 +277,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The version this article could check, Sunan Abi Dawud 4753, is long, and its wording on that page does not contain the sentence about sijjin. The fuller wording with that sentence was not on any page fetched for this verse. Rather than clip a long narration or splice two versions into a hybrid, the article does not quote it. Ma'arif al-Qur'an closes its own discussion of where sijjin lies with a phrase worth keeping: and Allah knows best. Most of the readings gathered here point the same way, downward and narrow.",
-            "bn": "এই লেখা যে সংস্করণটি যাচাই করতে পেরেছে, সুনান আবি দাউদের ৪৭৫৩ নম্বর হাদীস, তা দীর্ঘ। আর সেই পাতায় এর ভাষায় সিজ্জীনের বাক্যটি নেই। ওই বাক্যসহ পূর্ণ ভাষ্য এ আয়াতের জন্য খোলা কোনো পাতায় পাওয়া যায়নি। দীর্ঘ বর্ণনা কেটে ছোট করা বা দুই সংস্করণ জোড়া লাগানোর বদলে লেখাটি তা উদ্ধৃতই করছে না। সিজ্জীন কোথায়, এ আলোচনা মাআরিফুল কুরআন শেষ করে এমন এক কথায়, যা মনে রাখার মতো: আল্লাহই ভালো জানেন। এখানে জড়ো করা বেশির ভাগ ব্যাখ্যা একই দিকে ইঙ্গিত করে: নিচের দিকে, সংকীর্ণতার দিকে।"
+            "bn": "এই লেখা যে সংস্করণটি যাচাই করতে পেরেছে, তা সুনানে আবি দাউদের ৪৭৫৩ নম্বর হাদিস। হাদিসটি দীর্ঘ, আর সেই পাতায় যে পাঠ আছে, তাতে সিজ্জীনের বাক্যটি নেই। ওই বাক্যসহ পূর্ণ পাঠ এ আয়াতের জন্য দেখা কোনো পাতায় পাওয়া যায়নি। দীর্ঘ বর্ণনা কেটে ছোট করা বা দুই সংস্করণ জোড়া দিয়ে মিশ্র কিছু বানানোর বদলে লেখাটি বর্ণনাটি উদ্ধৃতই করছে না। সিজ্জীন কোথায়, এ আলোচনা মাআরিফুল কুরআন শেষ করে এমন এক কথায়, যা মনে রাখার মতো: আল্লাহই ভালো জানেন। এখানে জড়ো করা বেশির ভাগ ব্যাখ্যা একই দিকে ইঙ্গিত করে: নিচের দিকে, সংকীর্ণতার দিকে।"
           }
         ]
       },
@@ -289,7 +289,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Qurtubi quotes al-Qushayri: sijjin is a place among the lowest where the book of these people is buried, so that it does not appear but remains there as if imprisoned. He calls this a sign of the foulness of their deeds and of Allah's holding them in contempt, and points to the contrast the surah itself draws: of the book of the righteous it says that those brought near witness it, in 83:21. A book hidden away, and a book attended. The surah develops that second book in its own later verses.",
-            "bn": "কুরতুবী কুশাইরীর কথা উদ্ধৃত করেন: সিজ্জীন সবচেয়ে নিচের দিকের এক জায়গা, যেখানে এদের খাতা পুঁতে রাখা হয়। তা আর প্রকাশ পায় না, বন্দির মতো সেখানেই পড়ে থাকে। তাঁর মতে এটা তাদের আমলের নোংরামির আলামত, আর আল্লাহ যে সেগুলোকে তুচ্ছ গণ্য করেন তারও। তিনি সূরার নিজের টানা তুলনাটাও দেখান: নেককারদের খাতা সম্পর্কে ৮৩:২১ আয়াতে বলা হয়েছে, নৈকট্যপ্রাপ্তরা তা প্রত্যক্ষ করে। একটি খাতা লুকিয়ে রাখা, অন্যটির পাশে উপস্থিত থাকে সাক্ষীরা। দ্বিতীয় খাতার কথা সূরা পরের আয়াতগুলোয় নিজেই খুলে বলে।"
+            "bn": "কুরতুবী কুশাইরীর কথা উদ্ধৃত করেন: সিজ্জীন সবচেয়ে নিচের দিকের এক জায়গা, যেখানে এদের খাতা পুঁতে রাখা হয়। তা আর প্রকাশ পায় না, বন্দির মতো সেখানেই পড়ে থাকে। তাঁর মতে এটা তাদের আমলের নোংরামির আলামত, আর আল্লাহ যে তাদের তুচ্ছ গণ্য করেন তারও। সূরা নিজেই যে তুলনাটা টেনেছে, তিনি সেটাও দেখান: নেককারদের খাতা সম্পর্কে ৮৩:২১ আয়াত বলে, নৈকট্যপ্রাপ্তরা তা প্রত্যক্ষ করে। একটি খাতা লুকিয়ে রাখা, অন্যটির পাশে উপস্থিত থাকে সাক্ষীরা। দ্বিতীয় খাতার কথা সূরা পরের আয়াতগুলোয় নিজেই খুলে বলে।"
           },
           {
             "en": "Ibn Kathir reasons from elsewhere in the Qur'an. The destination of the wicked, he says, is Hell, the lowest of the low, and he cites 95:5 to 95:6: then We returned him to the lowest of the low, except those who believe and do righteous deeds. He adds 25:13, on a narrow place into which they are thrown, chained together. Of kitabun marqum in 83:9 he says it does not explain what sijjin is but the destination recorded for them, inscribed and completed, reporting this from Muhammad ibn Ka'b al-Qurazi. The verses 83:8 to 83:9 take that question up.",
@@ -309,7 +309,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What the verse does hand each reader is a question about their own record. The surah began with the scale: taking in full, giving short, and acting as though nothing were being written down. At-Tabari reads kalla as the refusal of that assumption. Whatever sijjin is, and the sources give several answers, the verse places a record somewhere it is kept. The response the surah's opening invites is a practical one: to measure fairly today, to give what is due, and to live as someone whose book will be opened.",
-            "bn": "প্রত্যেক পাঠকের হাতে আয়াতটি যা তুলে দেয়, তা তাঁর নিজের আমলনামা নিয়ে এক প্রশ্ন। সূরা শুরু হয়েছিল দাঁড়িপাল্লা দিয়ে: পুরোটা বুঝে নেওয়া, কম দেওয়া, আর এমন ভাব যেন কিছুই লেখা হচ্ছে না। তাবারী কাল্লাকে পড়েন ঠিক ওই ধারণার প্রত্যাখ্যান হিসেবে। সিজ্জীন যা-ই হোক, তাফসীরে এর কয়েক রকম জবাব আছে, আয়াতটি একটা লিখিত হিসাবকে এমন জায়গায় রাখে, যেখানে তা সংরক্ষিত থাকে। সূরার শুরু যে জবাব চায়, তা হাতে-কলমে: আজ ন্যায্য মাপে দেওয়া, যার যা পাওনা তা বুঝিয়ে দেওয়া, আর এমনভাবে বাঁচা যেন আমার খাতা একদিন খোলা হবে।"
+            "bn": "প্রত্যেক পাঠকের হাতে আয়াতটি যা তুলে দেয়, তা তাঁর নিজের আমলনামা নিয়ে এক প্রশ্ন। সূরা শুরু হয়েছিল দাঁড়িপাল্লা দিয়ে: পুরোটা বুঝে নেওয়া, কম দেওয়া, আর এমন ভাব যেন কিছুই লেখা হচ্ছে না। তাবারী কাল্লাকে পড়েন ঠিক ওই ধারণার প্রত্যাখ্যান হিসেবে। সিজ্জীন আসলে কী, তাফসীরে এর কয়েক রকম জবাব আছে। তবে তা যা-ই হোক, আয়াতটি একটা লিখিত হিসাবকে এমন জায়গায় রাখে, যেখানে তা সংরক্ষিত থাকে। সূরার শুরু যে জবাব চায়, তা হাতে-কলমে: আজ ন্যায্য মাপে দেওয়া, যার যা পাওনা তা বুঝিয়ে দেওয়া, আর এমনভাবে বাঁচা যেন আমার খাতা একদিন খোলা হবে।"
           }
         ]
       }
@@ -325,7 +325,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Mutaffifin opens with woe to those who short the measure, described in 83:2-3 as taking in full when they receive and causing loss when they give. 83:4-6 asks whether such people do not think they will be raised for a tremendous Day. The surah then turns to the record of the wicked in sijjin, and in 83:13 it quotes what one of them says when the verses are recited to him: legends of the former peoples.",
-            "bn": "সূরা আল-মুতাফফিফীন শুরু হয় মাপে কম দেওয়া লোকদের প্রতি দুর্ভোগ ঘোষণা দিয়ে; 83:2-3 তাদের বর্ণনা করে এভাবে — নেওয়ার সময় তারা পুরো মাত্রায় নেয়, আর দেওয়ার সময় কম দেয়। 83:4-6 জিজ্ঞেস করে, এরা কি ভাবে না যে এক মহা দিবসে তাদের আবার ওঠানো হবে? এরপর সূরাটি মোড় নেয় সিজ্জীনে রক্ষিত পাপীদের আমলনামার দিকে, আর 83:13-এ উদ্ধৃত করে, আয়াত শোনানো হলে তাদের একজন কী বলে: প্রাচীনকালের লোকদের কাহিনী।"
+            "bn": "সূরা আল-মুতাফফিফীন শুরু হয় মাপে কম দেওয়া লোকদের দুর্ভোগের ঘোষণা দিয়ে। ৮৩:২-৩ আয়াতে তাদের পরিচয়: নেওয়ার সময় তারা পুরোটা নেয়, আর দেওয়ার সময় কম দিয়ে অন্যের ক্ষতি করে। ৮৩:৪-৬ আয়াতে প্রশ্ন: এরা কি ভাবে না যে এক মহাদিবসে তাদের আবার ওঠানো হবে? এরপর সূরা ফেরে সিজ্জীনে রাখা পাপাচারীদের আমলনামার দিকে। আর ৮৩:১৩ আয়াতে তুলে ধরে, তাদের কাউকে আয়াত পড়ে শোনানো হলে সে কী বলে: এ তো আগের লোকদের কিসসা-কাহিনী।"
           }
         ]
       },
@@ -337,27 +337,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Our verse answers the remark rather than the man who made it. Kalla is a word of flat rejection, no, not so; bal is the particle that cancels what preceded and puts something else in its place, rather. Between the two the mushaf carries a small mark above the line, indicating a saktah — a brief silence taken without drawing a new breath — which the recitation of Hafs observes here. The reciter is halted for an instant before the diagnosis is delivered.",
-            "bn": "আমাদের আয়াতটি জবাব দেয় কথাটিকে, কথাটি যে বলেছে তাকে নয়। 'কাল্লা' হলো সরাসরি প্রত্যাখ্যানের শব্দ — না, মোটেই না; আর 'বাল' হলো সেই অব্যয় যা আগের কথাটি বাতিল করে তার জায়গায় অন্য কিছু বসায় — বরং। এই দুটির মাঝখানে মুসহাফে লাইনের উপরে একটি ছোট চিহ্ন আছে, যা 'সাক্‌তাহ' নির্দেশ করে — নতুন শ্বাস না নিয়ে এক মুহূর্তের নীরবতা — হাফসের কিরাআতে এখানে যা পালন করা হয়। রোগনির্ণয়টি জানানোর ঠিক আগে পাঠককে এক মুহূর্তের জন্য থামিয়ে দেওয়া হয়।"
+            "bn": "আমাদের আয়াত জবাব দেয় কথাটার, যে বলেছে তাকে নয়। কাল্লা সরাসরি নাকচ করার শব্দ: না, মোটেই তা নয়। আর বাল এমন অব্যয়, যা আগের কথাকে বাতিল করে তার জায়গায় অন্য কথা বসায়: বরং। এ দুটির মাঝে মুসহাফে লাইনের উপরে ছোট্ট একটা চিহ্ন আছে। চিহ্নটি সাকতা বোঝায়, মানে নতুন করে শ্বাস না নিয়ে এক মুহূর্ত চুপ থাকা। হাফসের কিরাআতে এখানে সাকতা করা হয়। দোষটা ধরিয়ে দেওয়ার ঠিক আগে তিলাওয়াতকারীকে এক মুহূর্তের জন্য থামতে হয়।"
           }
         ]
       },
       {
         "h": {
           "en": "A Word Used Once",
-          "bn": "একবারই ব্যবহৃত একটি শব্দ"
+          "bn": "যে শব্দ একবারই এসেছে"
         },
         "p": [
           {
             "en": "Rana comes from a root that occurs exactly once in the Quran, and this is the place. The lexicographers describe rayn as something that settles over a surface and clings there, the way rust takes hold of iron or a film forms on something polished. It is not a wall built in front of the heart, and not a lid clamped over it. It is a deposit, lying where it fell, and it obscures by accumulating rather than by force.",
-            "bn": "'রানা' এসেছে এমন এক মূলধাতু থেকে যা কুরআনে ঠিক একবারই এসেছে, আর সেটি এখানেই। অভিধানবিদরা 'রাইন'-এর বর্ণনা দেন এমন কিছু হিসেবে যা কোনো তলের উপর জমে বসে যায় — যেভাবে লোহায় মরিচা ধরে বা চকচকে জিনিসের উপর আস্তরণ পড়ে। এটি হৃদয়ের সামনে গাঁথা কোনো দেয়াল নয়, তার উপর চেপে বসানো কোনো ঢাকনাও নয়। এটি একটি জমা পড়া স্তর — যেখানে পড়েছে সেখানেই পড়ে আছে; আর এটি ঢেকে দেয় জোর খাটিয়ে নয়, জমে জমে।"
+            "bn": "রানা শব্দের মূল ধাতু কুরআনে ঠিক একবারই এসেছে, এই আয়াতে। অভিধানবিদদের বর্ণনায় রাইন হলো এমন কিছু, যা কোনো কিছুর গায়ে জমে বসে আর লেগে থাকে, যেমন লোহায় মরিচা ধরে, বা চকচকে জিনিসের উপর পাতলা আস্তরণ পড়ে। এটা অন্তরের সামনে তোলা কোনো দেয়াল নয়, অন্তরের উপর এঁটে দেওয়া ঢাকনাও নয়। এটা জমে থাকা এক স্তর, যেখানে পড়েছে সেখানেই পড়ে আছে। জোর খাটিয়ে নয়, জমে জমেই তা ঢেকে ফেলে।"
           },
           {
             "en": "The grammatical subject of the verb arrives last: ma kanu yaksibun, what they were earning. Arabic builds that phrase from kana with an imperfect verb, and the combination reports a sustained habit rather than one act. Nothing here says that a sin covered their hearts. It says the covering came from what they kept on earning, which puts the agent inside the person and spreads the process across a lifetime.",
-            "bn": "ক্রিয়াপদের ব্যাকরণগত কর্তা আসে সবার শেষে: 'মা কানূ ইয়াকসিবূন' — তারা যা অর্জন করে চলছিল। আরবি এই বাক্যাংশটি গড়ে 'কানা'-র সঙ্গে অসমাপিকা ক্রিয়া জুড়ে, আর এই সংযোগ বোঝায় একটি স্থায়ী অভ্যাস, একটিমাত্র কাজ নয়। এখানে বলা হয়নি যে কোনো একটি গুনাহ তাদের অন্তর ঢেকে দিয়েছে। বলা হয়েছে, আবরণটি এসেছে তারা যা অর্জন করে চলছিল তা থেকে — যা কর্তাকে বসিয়ে দেয় মানুষটির ভেতরে, আর প্রক্রিয়াটিকে ছড়িয়ে দেয় গোটা জীবন জুড়ে।"
+            "bn": "ক্রিয়াটির কর্তা আসে সবার শেষে: মা কানূ ইয়াকসিবূন, তারা যা কামাই করত। আরবিতে এ বাক্যাংশ গড়া হয়েছে কানা-র সঙ্গে চলমান কালের ক্রিয়া জুড়ে। এই জোড় বোঝায় টানা অভ্যাস, একবারের কোনো কাজ নয়। আয়াত বলছে না যে একটা গুনাহ তাদের অন্তর ঢেকে দিয়েছে। বলছে, আবরণটা এসেছে তারা বারবার যা কামাই করত তা থেকে। তাতে কর্তা দাঁড়ায় মানুষটার নিজের ভেতরে, আর ব্যাপারটা ছড়িয়ে পড়ে গোটা জীবন জুড়ে।"
           },
           {
             "en": "The Quran has other images for the same event and they are not interchangeable. 47:24 asks whether they do not reflect upon the Quran, or whether there are locks upon hearts, and the Arabic there makes the locks belong to those hearts. 2:7 speaks of a seal set upon hearts and hearing. 18:57 places coverings over hearts lest they understand it. This verse supplies the mechanism the others leave implicit.",
-            "bn": "একই ঘটনার জন্য কুরআনে আরও চিত্র আছে, আর সেগুলো পরস্পরের বিকল্প নয়। 47:24 জিজ্ঞেস করে, তারা কি কুরআন নিয়ে গভীরভাবে ভাবে না, নাকি অন্তরগুলোর উপর তালা লাগানো — আর সেখানকার আরবি তালাগুলোকে সেই অন্তরগুলোরই করে দেয়। 2:7 বলে অন্তর ও শ্রবণের উপর মোহর এঁটে দেওয়ার কথা। 18:57 অন্তরের উপর আবরণ রাখে, যাতে তারা তা বুঝতে না পারে। আর এই আয়াতটি জোগায় সেই কার্যপ্রণালী, যা অন্যগুলো অনুক্ত রেখে দেয়।"
+            "bn": "একই ব্যাপার বোঝাতে কুরআনে আরও ছবি আছে, আর একটা দিয়ে আরেকটার কাজ চলে না। ৪৭:২৪ আয়াত জিজ্ঞেস করে, তারা কি কুরআন নিয়ে চিন্তা করে না, নাকি অন্তরগুলোতে তালা লাগানো? সেখানকার আরবি তালাগুলোকে বলে ওই অন্তরগুলোরই তালা। ২:৭ আয়াতে আছে অন্তর আর কানের উপর মোহর মেরে দেওয়ার কথা। ১৮:৫৭ আয়াতে অন্তরের উপর পর্দা, যাতে তারা তা বুঝতে না পারে। ব্যাপারটা ঘটে কীভাবে, অন্য আয়াতগুলো তা খুলে বলে না। এ আয়াত সেটাই বলে দেয়।"
           }
         ]
       },
@@ -369,11 +369,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tirmidhi relates from Abu Hurayrah (RA) that the Prophet ﷺ said: when the servant commits a sin, a black spot is put into his heart; if he desists, seeks forgiveness and repents, his heart is polished; and if he returns, it increases until it overcomes his heart — and that is the ran which Allah mentioned. He then recited this verse. At-Tirmidhi graded the report hasan sahih.",
-            "bn": "ইমাম তিরমিযী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: বান্দা যখন কোনো গুনাহ করে, তার অন্তরে একটি কালো দাগ পড়ে; সে যদি বিরত হয়, ক্ষমা চায় ও তওবা করে, তবে তার অন্তর পরিচ্ছন্ন হয়ে যায়; আর যদি সে ফিরে যায়, তবে তা বাড়তে থাকে, শেষে তার অন্তরকে ঢেকে ফেলে — আর সেটিই সেই 'রান', আল্লাহ যার উল্লেখ করেছেন। এরপর তিনি এই আয়াতটি তিলাওয়াত করেন। ইমাম তিরমিযী বর্ণনাটিকে 'হাসান সহীহ' বলেছেন।"
+            "bn": "তিরমিযী আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: বান্দা যখন কোনো গুনাহ করে, তার অন্তরে একটা কালো দাগ পড়ে। সে যদি থেমে যায়, ইস্তিগফার করে আর তওবা করে, তার অন্তর ঝকঝকে হয়ে যায়। আর যদি আবার গুনাহে ফেরে, দাগটা বাড়তে থাকে, শেষে পুরো অন্তর ছেয়ে ফেলে। এটাই সেই রান, আল্লাহ যার কথা বলেছেন। তারপর তিনি এ আয়াত তিলাওয়াত করেন। তিরমিযী বর্ণনাটিকে হাসান সহীহ বলেছেন।"
           },
           {
             "en": "That report should not be blended with another one that is often quoted beside it. Muslim narrates from Hudhayfah ibn al-Yaman (RA) a different image altogether: trials presented to hearts as a reed mat is woven, stick by stick, with a black spot marking the heart that absorbs one and a white spot the heart that rejects it. The two agree in direction and differ in wording, narrator and collection. Each is worth quoting whole rather than merged.",
-            "bn": "এই বর্ণনাটিকে আরেকটি বর্ণনার সঙ্গে মিলিয়ে ফেলা ঠিক নয়, যা প্রায়ই এর পাশে উদ্ধৃত হয়। ইমাম মুসলিম হুযায়ফা ইবনুল ইয়ামান (রাঃ) থেকে সম্পূর্ণ ভিন্ন একটি চিত্র বর্ণনা করেন: অন্তরের সামনে ফিতনা পেশ করা হয় যেভাবে চাটাই বোনা হয়, একটি একটি কাঠি ধরে; যে অন্তর তা শুষে নেয় তাতে একটি কালো দাগ পড়ে, আর যে অন্তর তা প্রত্যাখ্যান করে তাতে একটি সাদা দাগ। দুটি বর্ণনার দিক এক, কিন্তু শব্দ, বর্ণনাকারী ও সংকলন আলাদা। প্রতিটিকেই আলাদাভাবে পুরোটা উদ্ধৃত করা উচিত, মিশিয়ে নয়।"
+            "bn": "এ বর্ণনাকে আরেকটি বর্ণনার সঙ্গে গুলিয়ে ফেলা ঠিক নয়, যদিও প্রায়ই দুটো পাশাপাশি উদ্ধৃত হয়। ইমাম মুসলিম হুযায়ফা ইবনুল ইয়ামান (রাঃ) থেকে একেবারে ভিন্ন এক ছবি বর্ণনা করেন: চাটাই যেমন একটা একটা কাঠি দিয়ে বোনা হয়, তেমনি অন্তরের সামনে একের পর এক ফিতনা পেশ করা হয়। যে অন্তর ফিতনা শুষে নেয়, তাতে কালো দাগ পড়ে, আর যে অন্তর তা ফিরিয়ে দেয়, তাতে পড়ে সাদা দাগ। দুটো বর্ণনার দিক এক, কিন্তু শব্দ, বর্ণনাকারী আর সংকলন আলাদা। দুটোই আলাদা করে পুরোটা উদ্ধৃত করার মতো, মিশিয়ে নয়।"
           }
         ]
       },
@@ -385,23 +385,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "83:15 comes immediately after and moves the covering. No indeed, it says, from their Lord that Day they will be partitioned. A film settled over the heart in this life is answered by a screen between them and their Lord in the next, and the two sentences stand one after the other so that the correspondence cannot be missed. Ibn Kathir records that ash-Shafi'i argued from 83:15 that the believers will see their Lord, since being veiled is stated here as a punishment.",
-            "bn": "83:15 আসে ঠিক এর পরেই, আর আবরণটিকে সরিয়ে নেয় অন্য জায়গায়। এটি বলে: কক্ষনো না, সেদিন তারা তাদের প্রতিপালক থেকে পর্দার আড়ালে থাকবে। এই জীবনে হৃদয়ের উপর জমে বসা আস্তরণের জবাব আসে পরের জীবনে তাদের ও তাদের প্রতিপালকের মাঝখানে একটি পর্দা হিসেবে; আর বাক্য দুটি একটির পর একটি বসানো, যাতে মিলটি চোখ এড়াতে না পারে। ইবনে কাসীর লিপিবদ্ধ করেন যে ইমাম শাফিঈ 83:15 থেকে যুক্তি দিয়েছেন — মুমিনরা তাদের প্রতিপালককে দেখবে, কারণ এখানে পর্দার আড়ালে থাকাকেই শাস্তি হিসেবে বলা হয়েছে।"
+            "bn": "ঠিক পরেই আসে ৮৩:১৫, আর আবরণটা সরে যায় অন্য জায়গায়। আয়াত বলে: কক্ষনো নয়, সেদিন তারা তাদের রব থেকে আড়ালে থাকবে। দুনিয়ায় অন্তরের উপর যে আস্তরণ জমেছিল, তার জবাব আখিরাতে তাদের আর তাদের রবের মাঝখানে এক পর্দা। দুটো বাক্য পরপর বসানো, যাতে মিলটা চোখ এড়িয়ে না যায়। ইবন কাসীর লিখেছেন, ইমাম শাফিঈ ৮৩:১৫ থেকে দলিল নিয়েছেন যে মুমিনরা তাদের রবকে দেখবে। কারণ এখানে আড়ালে থাকাকে শাস্তি হিসেবে বলা হয়েছে।"
           }
         ]
       },
       {
         "h": {
           "en": "A Surface Can Be Polished",
-          "bn": "তল ঘষে পরিষ্কার করা যায়"
+          "bn": "ঘষে-মেজে আবার ঝকঝকে করা যায়"
         },
         "p": [
           {
             "en": "The verse is a warning with its remedy built into it. If the covering came from earning, it can be halted by the same route it arrived, and the hadith names three moves: desisting, seeking forgiveness, and turning back. Notice that none of the three is a feeling. They are things a person does, and the report says the heart is polished when they are done, not when the guilt is felt strongly enough.",
-            "bn": "আয়াতটি এমন এক সতর্কবাণী যার ভেতরেই তার প্রতিকার গাঁথা। আবরণটি যদি অর্জন থেকে এসে থাকে, তবে যে পথে এসেছে সেই পথেই তা থামানো যায়; আর হাদীসটি তিনটি পদক্ষেপের নাম নেয়: বিরত হওয়া, ক্ষমা চাওয়া, আর ফিরে আসা। লক্ষ করুন, এই তিনটির একটিও কোনো অনুভূতি নয়। এগুলো মানুষের কাজ — আর বর্ণনাটি বলে, কাজগুলো করা হলেই অন্তর পরিচ্ছন্ন হয়; অনুশোচনা যথেষ্ট তীব্র হলে নয়।"
+            "bn": "আয়াতটি সতর্কবাণী, আর তার প্রতিকারও এর ভেতরেই আছে। আবরণ যদি কামাই থেকেই এসে থাকে, তবে যে পথে এসেছে সে পথেই তা থামানো যায়। হাদিস তিনটি পদক্ষেপের নাম নেয়: থেমে যাওয়া, ইস্তিগফার করা, আর তওবা করে ফিরে আসা। খেয়াল করুন, এর একটিও কোনো অনুভূতি নয়। তিনটিই মানুষের করার কাজ। আর বর্ণনা বলছে, কাজগুলো করলেই অন্তর ঝকঝকে হয়, অপরাধবোধ যথেষ্ট তীব্র হলে নয়।"
           },
           {
             "en": "The symptom to watch for is therefore not guilt but its absence: the moment when something that used to trouble you passes through without registering at all. On the picture this verse gives, that is a report about a surface rather than a verdict about a person. Rust is removed by working on the metal, steadily, before the layer thickens — and the whole force of the word rana is that it thickens quietly, in instalments nobody notices being paid.",
-            "bn": "কাজেই যে লক্ষণটির দিকে নজর রাখতে হবে তা অপরাধবোধ নয়, বরং তার অনুপস্থিতি: যে মুহূর্তে আগে যা আপনাকে অস্থির করত তা কোনো সাড়া না জাগিয়েই পার হয়ে যায়। এই আয়াতের চিত্র অনুযায়ী, সেটি একজন মানুষ সম্পর্কে চূড়ান্ত রায় নয়, বরং একটি তল সম্পর্কে খবর। মরিচা সরানো হয় ধাতুটির উপর ধারাবাহিকভাবে কাজ করে, স্তরটি পুরু হওয়ার আগেই — আর 'রান' শব্দটির পুরো জোরই এখানে যে, তা নীরবে পুরু হয়, এমন কিস্তিতে যেগুলো শোধ হতে কেউ খেয়াল করে না।"
+            "bn": "তাই যে লক্ষণের দিকে নজর রাখতে হবে, তা অপরাধবোধ নয়, অপরাধবোধ না থাকা। যে জিনিস আগে আপনাকে অস্থির করত, তা যখন মনে কোনো সাড়াই না জাগিয়ে পার হয়ে যায়, সেই মুহূর্তটাই লক্ষণ। এ আয়াতের ছবি অনুযায়ী, এটা কোনো মানুষের উপর রায় নয়, একটা তলের অবস্থার খবর। মরিচা তুলতে হয় ধাতুর উপর নিয়মিত ঘষে, স্তরটা পুরু হওয়ার আগেই। আর রানা শব্দের পুরো জোর এখানেই: স্তরটা পুরু হয় চুপিচুপি, অল্প অল্প করে, কখন জমছে কেউ টেরই পায় না।"
           }
         ]
       }
@@ -412,7 +412,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Last Words on the Register",
-          "bn": "খাতার কথার শেষ টান"
+          "bn": "খাতা নিয়ে শেষ কথা"
         },
         "p": [
           {
@@ -421,7 +421,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The passage has a mirror earlier in the surah. At 83:7 the record of the wicked is placed in Sijjin, and Ibn Kathir's abridged English commentary calls 'Illiyyin the opposite of Sijjin, saying the righteous are in a situation that is the opposite of the wicked. What the righteous side gains here is a company of witnesses. This article stays with those two words: the verb and its attached pronoun, who the near ones are in the commentaries fetched for this verse, and what each of those commentators says they witness.",
-            "bn": "সূরার আগের অংশে এর এক প্রতিচ্ছবি আছে। ৮৩:৭ আয়াতে পাপাচারীদের আমলনামা রাখা হয় সিজ্জীনে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ইল্লিয়্যীনকে বলে সিজ্জীনের বিপরীত, আর বলে সৎলোকদের অবস্থা পাপাচারীদের ঠিক উল্টো। সৎলোকদের দিকে এখানে বাড়তি যা যোগ হলো, তা একদল সাক্ষী। এই লেখা সেই দুটি শব্দেই থাকবে। ক্রিয়াটি আর তার সঙ্গে জোড়া ছোট্ট ‘হু’, এই আয়াতের জন্য সংগ্রহ করা তাফসীরগুলোতে নৈকট্যপ্রাপ্তরা কারা, আর প্রত্যেক তাফসীরকারের মতে তারা কী প্রত্যক্ষ করে।"
+            "bn": "সূরার আগের অংশে এর এক প্রতিচ্ছবি আছে। ৮৩:৭ আয়াতে পাপাচারীদের আমলনামা রাখা হয় সিজ্জীনে। ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর ইল্লিয়্যীনকে বলে সিজ্জীনের বিপরীত, আর বলে সৎলোকদের অবস্থা পাপাচারীদের ঠিক উল্টো। সৎলোকদের দিকে এখানে বাড়তি যা যোগ হলো, তা একদল সাক্ষী। এই লেখা সেই দুটি শব্দেই থাকবে: ক্রিয়াটি আর তার সঙ্গে জোড়া ছোট্ট ‘হু’; এই আয়াতের জন্য সংগ্রহ করা তাফসীরগুলোতে নৈকট্যপ্রাপ্তরা কারা; আর প্রত্যেক তাফসীরকারের মতে তারা কী প্রত্যক্ষ করে।"
           }
         ]
       },
@@ -437,7 +437,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir's abridged English renders the phrase as to which bear witness those nearest, and quotes Ibn 'Abbas, through al-'Awfi, as saying that those nearest to Allah in each heaven will witness it. Ma'arif's own rendering is attended by those blessed with nearness to Allah. The fetched texts therefore give three shades of the verb: bearing witness, being present, and looking upon. None of them pushes the others out, and since the commentators let them stand side by side, this article keeps all three and does not choose.",
-            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর বাক্যটির অনুবাদ করে এভাবে: যার সাক্ষ্য দেয় সবচেয়ে নিকটবর্তীরা। সেখানে আওফীর সূত্রে ইবন আব্বাস (রাঃ)-এর কথাও আছে: প্রতিটি আসমানে আল্লাহর সবচেয়ে কাছের যারা, তারা তা প্রত্যক্ষ করবে। মাআরিফ নিজে লিখেছে: আল্লাহর নৈকট্যধন্যরা যেখানে হাজির থাকে। সংগ্রহ করা লেখাগুলোতে তাই ক্রিয়াটির তিনটি রং পাওয়া যায়: সাক্ষ্য দেওয়া, উপস্থিত থাকা আর দৃষ্টি রাখা। কোনোটি অন্যটিকে বাদ দেয় না। তাফসীরকারেরা এগুলো পাশাপাশি থাকতে দিয়েছেন, তাই এ লেখাও তিনটিই রাখছে, কোনোটিকে বেছে নিচ্ছে না।"
+            "bn": "ইবন কাসীরের সংক্ষিপ্ত ইংরেজি তাফসীর বাক্যটির অনুবাদ করে এভাবে: যার সাক্ষ্য দেয় সবচেয়ে নিকটবর্তীরা। সেখানে আওফীর সূত্রে ইবন আব্বাস (রাঃ)-এর কথাও আছে: প্রতিটি আসমানে আল্লাহর সবচেয়ে কাছের যারা, তারা তা প্রত্যক্ষ করবে। মাআরিফ নিজে অনুবাদ করেছে: যার কাছে হাজির থাকেন আল্লাহর নৈকট্যধন্যরা। সংগ্রহ করা লেখাগুলোতে তাই ক্রিয়াটির তিন রকম অর্থ পাওয়া যায়: সাক্ষ্য দেওয়া, উপস্থিত থাকা আর দৃষ্টি রাখা। কোনোটি অন্যটিকে বাদ দেয় না। তাফসীরকারেরা এগুলো পাশাপাশি থাকতে দিয়েছেন, তাই এ লেখাও তিনটিই রাখছে, কোনোটিকে বেছে নিচ্ছে না।"
           }
         ]
       },
@@ -529,7 +529,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di's reading adds a quiet honour to the record: Allah raises the mention of the righteous in the highest assembly. On that reading, a servant whose good is unnoticed in this world is spoken of where the near ones gather. The word al-muqarrabun returns at 83:28, in the passage that follows this verse, and that verse has its own reflection. Here it is enough to hold what these two words give: the register of the righteous is not left unattended.",
-            "bn": "সা'দীর পাঠ আমলনামার সঙ্গে এক নীরব সম্মানও যোগ করে: আল্লাহ ঊর্ধ্বজগতের সভায় সৎলোকদের নাম উঁচু করে উল্লেখ করেন। সেই পাঠ অনুযায়ী, যে বান্দার ভালো কাজ দুনিয়ায় কারও চোখে পড়ে না, নৈকট্যপ্রাপ্তদের মজলিসে তার কথা ওঠে। আল মুকাররাবূন শব্দটি আবার আসে ৮৩:২৮ আয়াতে, এই আয়াতের পরের অংশে। সে আয়াতের ভাবনা আলাদা। এখানে এই দুটি শব্দ যা দেয়, তা ধরে রাখাই যথেষ্ট: সৎলোকদের খাতা কখনো অপ্রত্যক্ষ পড়ে থাকে না।"
+            "bn": "সা'দীর পাঠ আমলনামার সঙ্গে এক নীরব সম্মানও যোগ করে: আল্লাহ ঊর্ধ্বজগতের সভায় সৎলোকদের নাম উঁচু করে উল্লেখ করেন। সেই পাঠ অনুযায়ী, যে বান্দার ভালো কাজ দুনিয়ায় কারও চোখে পড়ে না, নৈকট্যপ্রাপ্তদের মজলিসে তার কথা ওঠে। আল মুকাররাবূন শব্দটি আবার আসে ৮৩:২৮ আয়াতে, এই আয়াতের পরের অংশে। সে আয়াতের ভাবনা আলাদা। এখানে এই দুটি শব্দ যা দেয়, তা ধরে রাখাই যথেষ্ট: সৎলোকদের খাতা কখনো একা পড়ে থাকে না।"
           }
         ]
       },
@@ -545,7 +545,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What the verse leaves the reader with is work and hope held together. The Muyassar calls the book of the righteous written and settled, with nothing added and nothing taken away. While a life is still being lived, the deeds that go into it are still within reach. A deed done for Allah alone, with nobody watching, is the kind of entry this passage invites the reader to want, so that the record it belongs to may be among those the near ones witness.",
-            "bn": "আয়াতটি পাঠকের হাতে তুলে দেয় আমল আর আশা, দুটো একসঙ্গে। মুয়াসসার বলে, সৎলোকদের কিতাব লেখা হয়ে চূড়ান্ত, তাতে কিছু যোগও হয় না, কিছু কমেও না। জীবন যতক্ষণ চলছে, তাতে কোন আমল যাবে তা এখনো মানুষের নাগালে। কেউ দেখছে না এমন সময়ে শুধু আল্লাহর জন্য করা কাজ, এই অংশটি পাঠককে এমন লেখাই কামনা করতে ডাকে। যাতে যে খাতায় তা ওঠে, সেটি হয় সেই খাতাগুলোর একটি, যা নৈকট্যপ্রাপ্তরা প্রত্যক্ষ করে।"
+            "bn": "আয়াতটি পাঠকের হাতে তুলে দেয় আমল আর আশা, দুটো একসঙ্গে। মুয়াসসার বলে, সৎলোকদের কিতাব লেখা হয়ে চূড়ান্ত, তাতে কিছু যোগও হয় না, কিছু কমেও না। জীবন যতক্ষণ চলছে, খাতায় কোন আমল উঠবে তা এখনো মানুষের হাতে। কেউ দেখছে না, এমন সময়ে শুধু আল্লাহর জন্য করা আমল: এই অংশ পাঠককে এমন লেখাই চাইতে ডাকে, যাতে তার খাতা হয় সেই খাতাগুলোর একটি, যা নৈকট্যপ্রাপ্তরা প্রত্যক্ষ করে।"
           }
         ]
       }
