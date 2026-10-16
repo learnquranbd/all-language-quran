@@ -21,7 +21,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fa-l-muriyati qadha: then by those that strike out fire, striking. In Arabic it is two words, and it stands between 100:1, the oath by al-'adiyat dabha, the runners that pant, and 100:3, the oath by those that raid at dawn. The particle fa ties it to what came before, so the striking follows the running. Ibn Kathir, in the English abridgement, places the answer to the whole chain of oaths at 100:6, man is ungrateful to his Lord, which he calls the subject of what is sworn about.",
-            "bn": "ফাল মূরিয়াতি কাদহা: অতঃপর শপথ তাদের, যারা আঘাত করে আগুন ঠিকরে বের করে। আরবিতে আয়াতটি মাত্র দুই শব্দের। এর আগে ১০০:১, আল-আদিয়াতি দাবহা, হাঁপাতে হাঁপাতে ছুটে চলা দৌড়বিদদের শপথ। পরে ১০০:৩, ভোরবেলা আক্রমণকারীদের শপথ। শুরুর ফা অব্যয়টি আয়াতটিকে আগের কথার সঙ্গে জুড়ে দেয়, তাই দৌড়ের পরেই আসে আঘাত। ইবন কাসীরের ইংরেজি সংক্ষেপ শপথের পুরো ধারার জবাব রাখে ১০০:৬ আয়াতে: মানুষ তার রবের প্রতি বড়ই অকৃতজ্ঞ। তাঁর ভাষায়, শপথ করা হয়েছে এই কথার ওপরেই।"
+            "bn": "ফাল মূরিয়াতি কাদহা: অতঃপর শপথ তাদের, যারা আঘাত করে আগুন ঠিকরে বের করে। আরবিতে আয়াতটি মাত্র দুই শব্দের। এর আগে ১০০:১, আল-আদিয়াতি দাবহা: হাঁপাতে হাঁপাতে যারা ছোটে, তাদের শপথ। পরে ১০০:৩, ভোরবেলা যারা হামলা চালায়, তাদের শপথ। শুরুর ফা অব্যয়টি আয়াতটিকে আগের কথার সঙ্গে জুড়ে দেয়, তাই দৌড়ের পরেই আসে আঘাত। ইংরেজি সংক্ষেপে ইবন কাসীর শপথের পুরো ধারার জবাব ধরেন ১০০:৬ আয়াতকে: মানুষ তার রবের প্রতি বড়ই অকৃতজ্ঞ। তাঁর ভাষায়, এটিই সেই কথা, যার ওপর শপথ করা হয়েছে।"
           },
           {
             "en": "The shortest commentaries give the plain picture. The Muyassar: horses from the hardness of whose hooves fire is struck, because of how hard they run. As-Sa'di: al-muriyat are those that strike with their hooves the stones they tread on, and qadha means that fire is struck out from the hardness of their hooves and their strength when they run. Kanud in 100:6 has its own article in this module; this article stays with the spark.",
@@ -57,7 +57,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir's Arabic text describes the clash of their hooves, literally their shoes, against rock, so that fire is struck from it, and notes that most of those he had named said: with their hooves. His English abridgement says the striking of their hooves on the rocks causes sparks of fire to fly from them. Al-Qurtubi gives the horse reading from 'Ikrimah, 'Ata' and ad-Dahhak as well, naming the front of the hoof, and says it is also narrated from Ibn 'Abbas.",
-            "bn": "ইবন কাসীরের আরবি পাঠে আছে পাথরের গায়ে তাদের খুরের ঠোকাঠুকির কথা, শব্দে শব্দে যার অর্থ তাদের জুতা। সেই ঠোকাঠুকিতে পাথর থেকে আগুন বের হয়। তিনি এ-ও জানান, আগে যাঁদের নাম তিনি নিয়েছেন, তাঁদের বেশির ভাগ বলেছেন: খুর দিয়ে। তাঁর ইংরেজি সংক্ষেপে আছে, পাথরে খুরের আঘাতে আগুনের স্ফুলিঙ্গ ছিটকে ওঠে। কুরতুবীও ইকরিমা, আতা ও দাহহাকের সূত্রে ঘোড়ার ব্যাখ্যাটি দেন, খুরের সামনের অংশের কথা উল্লেখ করেন। তিনি বলেন, ইবন আব্বাস (রাঃ) থেকেও এটি বর্ণিত।"
+            "bn": "ইবন কাসীরের আরবি পাঠে আছে, পাথরের গায়ে তাদের খুর ঠোকার কথা। খুর বোঝাতে সেখানে যে শব্দ, তার আক্ষরিক অর্থ জুতা। সেই ঠোকাঠুকিতে পাথর থেকে আগুন বের হয়। তিনি এ-ও জানান, আগে যাঁদের নাম তিনি নিয়েছেন, তাঁদের বেশির ভাগ বলেছেন: খুর দিয়ে। তাঁর ইংরেজি সংক্ষেপে আছে, পাথরে খুরের আঘাতে আগুনের স্ফুলিঙ্গ ছিটকে ওঠে। কুরতুবীও ইকরিমা, আতা ও দাহহাকের সূত্রে ঘোড়ার ব্যাখ্যাটি দেন, আর খুরের সামনের অংশের কথা বলেন। তিনি জানান, ইবন আব্বাস (রাঃ) থেকেও এটি বর্ণিত।"
           },
           {
             "en": "Al-Qurtubi keeps a further detail from Muqatil: the Arabs called that fire nar Abi Hubahib. Abu Hubahib, he reports, was an old man of Mudar in the Jahiliyyah, among the stingiest of people. He lit no fire for bread or anything else until eyes were asleep, then lit a small flame that flared and died down, and if anyone woke he put it out, unwilling that anyone should benefit from it. The Arabs likened the hoof-spark to his fire, al-Qurtubi says, because no benefit is had from it.",
@@ -97,11 +97,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "'Ali asked whether he had put the question to anyone before him, and on hearing Ibn 'Abbas's answer sent for him. Standing over him, 'Ali said, in at-Tabari's wording: you give people rulings on what you have no knowledge of. By Allah, the first expedition in Islam was Badr, and we had only two horses with us, a horse for az-Zubayr and a horse for al-Miqdad, so how could it be al-'adiyat dabha? Al-'adiyat dabha are only from 'Arafah to Muzdalifah to Mina. Ibn 'Abbas said: so I withdrew my view and returned to what 'Ali had said.",
-            "bn": "আলী (রাঃ) জিজ্ঞেস করলেন, তাঁর আগে আর কাউকে সে প্রশ্নটা করেছে কি না। ইবন আব্বাস (রাঃ)-এর উত্তর শুনে তিনি তাঁকে ডেকে পাঠালেন। তিনি সামনে এসে দাঁড়ালে আলী (রাঃ) বললেন, তাবারীর ভাষায়: যে বিষয়ে তোমার জ্ঞান নেই, সে বিষয়ে তুমি মানুষকে ফতোয়া দিচ্ছ? আল্লাহর কসম, ইসলামের প্রথম যুদ্ধ ছিল বদর, আর তখন আমাদের সঙ্গে মাত্র দুটি ঘোড়া ছিল, একটি যুবায়র (রাঃ)-এর, একটি মিকদাদ (রাঃ)-এর। তাহলে আল-আদিয়াতি দাবহা ঘোড়া হয় কী করে? আল-আদিয়াতি দাবহা তো আরাফা থেকে মুযদালিফা, মুযদালিফা থেকে মিনা। ইবন আব্বাস (রাঃ) বলেন: তখন আমি আমার মত থেকে সরে এলাম এবং আলী (রাঃ)-এর কথায় ফিরে গেলাম।"
+            "bn": "আলী (রাঃ) জিজ্ঞেস করলেন, তাঁর আগে আর কাউকে সে প্রশ্নটা করেছে কি না। ইবন আব্বাস (রাঃ)-এর উত্তর শুনে তিনি তাঁকে ডেকে পাঠালেন। তিনি এলে আলী (রাঃ) তাঁর সামনে দাঁড়িয়ে বললেন, তাবারীর ভাষায়: যে বিষয়ে তোমার জ্ঞান নেই, সে বিষয়ে তুমি মানুষকে ফতোয়া দিচ্ছ? আল্লাহর কসম, ইসলামের প্রথম যুদ্ধ ছিল বদর, আর তখন আমাদের সঙ্গে মাত্র দুটি ঘোড়া ছিল, একটি যুবায়র (রাঃ)-এর, একটি মিকদাদ (রাঃ)-এর। তাহলে আল-আদিয়াতি দাবহা ঘোড়া হয় কী করে? আল-আদিয়াতি দাবহা তো আরাফা থেকে মুযদালিফা, মুযদালিফা থেকে মিনা। ইবন আব্বাস (রাঃ) বলেন: তখন আমি আমার মত থেকে সরে এলাম এবং আলী (রাঃ)-এর কথায় ফিরে গেলাম।"
           },
           {
             "en": "Ibn Kathir gives the same report from Ibn Abi Hatim and Ibn Jarir, and adds, by the same chain, words of 'Ali that bear directly on this verse: when they come to rest at Muzdalifah, they kindle the fires. Neither he nor at-Tabari attaches a grading to the report in the texts fetched here, and at-Tabari still preferred horses on 100:1. None of the tafsirs fetched for 100:2 attaches a Prophetic hadith to the verse.",
-            "bn": "ইবন কাসীর একই বর্ণনা ইবন আবী হাতিম ও ইবন জারীরের সূত্রে আনেন। সঙ্গে একই সূত্রে আলী (রাঃ)-এর এমন একটি কথা যোগ করেন, যা সরাসরি এই আয়াতের সঙ্গে জড়িত: তারা যখন মুযদালিফায় এসে থামে, তখন আগুন জ্বালায়। এখানে যে পাঠগুলো আনা হয়েছে, তাতে ইবন কাসীর বা তাবারী কেউই বর্ণনাটির মান নির্ণয় করেননি। আর তাবারী ১০০:১ আয়াতে তবু ঘোড়ার মতকেই অগ্রাধিকার দিয়েছেন। ১০০:২ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদীস যুক্ত করেনি।"
+            "bn": "ইবন কাসীর একই বর্ণনা আনেন ইবন আবী হাতিম ও ইবন জারীরের সূত্রে। একই সনদে তিনি আলী (রাঃ)-এর এমন একটি কথাও যোগ করেন, যা সরাসরি এই আয়াতের সঙ্গে জড়িত: তারা যখন মুযদালিফায় এসে থামে, তখন আগুন জ্বালায়। এখানে যে পাঠগুলো আনা হয়েছে, তাতে ইবন কাসীর বা তাবারী কেউই বর্ণনাটির মান উল্লেখ করেননি। আর তাবারী ১০০:১ আয়াতে তবু ঘোড়ার মতকেই অগ্রাধিকার দিয়েছেন। ১০০:২ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটিই এ আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদিস যুক্ত করেনি।"
           },
           {
             "en": "The texts also keep the dispute in other shapes. Ibn Kathir has a short version in which, after 'Ali's objection that they had no horses at Badr, Ibn 'Abbas replies that it concerned a raiding party that was sent out. Al-Qurtubi gives it through ash-Sha'bi, with Ibn 'Abbas arguing from 100:4, and they raise dust thereby: do they raise it with anything but their hooves, and do camels pant? 'Ali answers with Badr, and al-Qurtubi's text ends with Ibn 'Abbas returning to 'Ali's view.",
@@ -125,7 +125,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "'Ikrimah gave yet another: they are the tongues. At-Tabari reports it with the words it is said of this verse. Al-Qurtubi expands 'Ikrimah's saying: the tongues of men strike fire by the weight of what they speak, by setting out proofs and evidence, making the truth clear and showing falsehood to be false. Muhammad ibn Ka'b, in al-Baghawi and al-Qurtubi, said it is the fire that is gathered.",
-            "bn": "ইকরিমা দিয়েছেন আরেকটি ব্যাখ্যা: এরা জিহ্বা। তাবারী এটি আনেন এভাবে: এই আয়াত সম্পর্কে বলা হয়। কুরতুবী ইকরিমার কথাটি আরও খুলে বলেন: মানুষের জিহ্বা আগুন ঠোকে তাদের কথার গুরুত্ব দিয়ে, দলিল-প্রমাণ দাঁড় করিয়ে, সত্যকে স্পষ্ট করে আর মিথ্যাকে বাতিল প্রমাণ করে। বাগাভী ও কুরতুবীর বর্ণনায় মুহাম্মাদ ইবন কা'ব বলেছেন, এ হলো একত্র করা আগুন।"
+            "bn": "ইকরিমা দিয়েছেন আরেকটি ব্যাখ্যা: এরা জিহ্বা। তাবারী এটি আনেন 'এ আয়াত সম্পর্কে বলা হয়' কথাটি দিয়ে। কুরতুবী ইকরিমার কথাটি আরও খুলে বলেন: মানুষের জিহ্বা আগুন ঠোকে তাদের কথার গুরুত্ব দিয়ে, দলিল-প্রমাণ দাঁড় করিয়ে, সত্যকে স্পষ্ট করে আর মিথ্যাকে বাতিল প্রমাণ করে। বাগাভী ও কুরতুবীর বর্ণনায় মুহাম্মাদ ইবন কা'ব বলেছেন, এ হলো একত্র করা আগুন।"
           }
         ]
       },
@@ -153,7 +153,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "If the sparks are hooves on stone, the oath turns on a strength Allah placed in an animal. If they are tongues, al-Qurtubi's account of 'Ikrimah has tongues that set out proofs and make the truth clear; if they are scheming, the same image serves for a fire that harms. A reader need not settle the dispute to ask what his own effort sets alight.",
-            "bn": "স্ফুলিঙ্গ যদি পাথরে খুরের আঘাত হয়, তবে শপথের কেন্দ্রে আছে সেই শক্তি, যা আল্লাহ একটি প্রাণীর মধ্যে রেখেছেন। যদি তা জিহ্বা হয়, তবে কুরতুবীর বর্ণনায় ইকরিমার জিহ্বা দলিল দাঁড় করায়, সত্যকে স্পষ্ট করে। আর যদি তা চক্রান্ত হয়, তবে একই ছবি দেখায় এমন আগুন, যা ক্ষতি করে। বিবাদের মীমাংসা না করেও পাঠক নিজেকে জিজ্ঞেস করতে পারেন: আমার চেষ্টা কী জ্বালায়?"
+            "bn": "স্ফুলিঙ্গ যদি পাথরে খুরের আঘাত হয়, তবে শপথের কেন্দ্রে আছে সেই শক্তি, যা আল্লাহ একটি প্রাণীর মধ্যে রেখেছেন। যদি তা জিহ্বা হয়, তবে ইকরিমার কথা কুরতুবী যেভাবে এনেছেন, সেখানে জিহ্বা দলিল দাঁড় করায়, সত্যকে স্পষ্ট করে। আর যদি তা চক্রান্ত হয়, তবে একই ছবি ক্ষতিকর আগুনের কথাও বলে। বিবাদের মীমাংসা না করেও পাঠক নিজেকে জিজ্ঞেস করতে পারেন: আমার চেষ্টা কী জ্বালায়?"
           },
           {
             "en": "Ibn Kathir places the point of the oaths at 100:6, man is ungrateful to his Lord. That verse describes a human failing as the text describes it, and licenses nothing against any living person or community. The readings of war above report how early authorities understood a word; they describe no present conflict and endorse none. What stays with the reader is Muqatil's stingy old man: a fire struck in the dark, and no one warmed by it.",
@@ -173,7 +173,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Adiyat opens with five verses of motion. 100:1-5 swear by the racers that pant, by those striking sparks, by the raiders at dawn, by the dust they stir up, and by their driving into the midst of a gathering. Ibn Kathir reads them as the horses of battle in the path of Allah: the panting is the sound of a running horse, the sparks fly from hooves on rock, and the dawn raid was the Prophet's own practice.",
-            "bn": "সূরা আল-আদিয়াত শুরু হয় পাঁচ আয়াতজুড়ে গতির বর্ণনা দিয়ে। 100:1-5 শপথ করে সেইসব দৌড়বাজের, যারা হাঁপাতে হাঁপাতে ছোটে; যারা ঘর্ষণে আগুনের ফুলকি ছোটায়; যারা ভোরে আক্রমণ চালায়; যে ধুলা তারা ওড়ায়; আর দলের অভ্যন্তরে তাদের ঢুকে পড়া নিয়ে। ইবনে কাসীর এগুলোকে আল্লাহর পথে যুদ্ধের ঘোড়া হিসেবে পড়েন: হাঁপানি হলো দৌড়ন্ত ঘোড়ার শব্দ, ফুলকি ছোটে পাথরে ক্ষুরের আঘাতে, আর ভোরের অভিযান ছিল স্বয়ং নবী ﷺ-এর রীতি।"
+            "bn": "সূরা আল-আদিয়াত শুরু হয় গতিতে ভরা পাঁচটি আয়াত দিয়ে। ১০০:১-৫ আয়াতে আল্লাহ শপথ করেছেন হাঁপাতে হাঁপাতে ছুটে চলা দৌড়বাজদের, খুরের ঘায়ে আগুনের ফুলকি ছোটানোদের, ভোরবেলা হামলাকারীদের, তাদের ওড়ানো ধুলার, আর দলের মাঝখানে তাদের ঢুকে পড়ার। ইবনে কাসীর এগুলোকে আল্লাহর পথে যুদ্ধের ঘোড়া বলে বুঝেছেন: হাঁপানোর আওয়াজ ছুটন্ত ঘোড়ার শব্দ, ফুলকি ছোটে পাথরে খুরের আঘাতে, আর ভোরে অভিযান চালানো ছিল নবী ﷺ-এর নিজেরই রীতি।"
           }
         ]
       },
@@ -185,11 +185,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "100:6 is what the oaths were sworn for: inna al-insana li-rabbihi la-kanud, four words. The classical readings of kanud cluster around ingratitude but are not identical. Ibn Abbas, Mujahid, Qatadah, al-Hasan, ad-Dahhak and Ibn Zayd all gloss it as ungrateful — denying the favours of his Lord rather than merely forgetting them. Ibn Kathir reports al-Hasan's sharper version: al-kanud is the one who counts the calamities that befall him and forgets the favours of Allah.",
-            "bn": "100:6 আয়াতটির জন্যই শপথগুলো করা হয়েছিল: 'ইন্নাল ইনসানা লিরাব্বিহী লাকানূদ' — চারটি শব্দ। 'কানূদ'-এর ধ্রুপদী ব্যাখ্যাগুলো অকৃতজ্ঞতাকে ঘিরেই আবর্তিত হয়, তবে সেগুলো অভিন্ন নয়। ইবনে আব্বাস, মুজাহিদ, কাতাদাহ, হাসান বসরী, দাহহাক ও ইবনে যায়দ সবাই এর অর্থ করেন অকৃতজ্ঞ — অর্থাৎ প্রতিপালকের নিয়ামত কেবল ভুলে যাওয়া নয়, অস্বীকার করা। ইবনে কাসীর হাসান বসরীর আরও ধারালো ব্যাখ্যাটি উল্লেখ করেন: কানূদ সে-ই, যে তার ওপর আসা বিপদগুলো গুনে রাখে আর আল্লাহর নিয়ামতগুলো ভুলে যায়।"
+            "bn": "১০০:৬ আয়াতের জন্যই এতগুলো শপথ: 'ইন্নাল ইনসানা লিরাব্বিহী লাকানূদ', মাত্র চারটি শব্দ। কানূদ শব্দের যেসব ব্যাখ্যা পূর্বসূরিরা দিয়েছেন, সেগুলো অকৃতজ্ঞতার আশপাশেই ঘোরে, তবে সবগুলো হুবহু এক নয়। ইবনে আব্বাস, মুজাহিদ, কাতাদাহ, হাসান বসরী, দাহহাক ও ইবনে যায়দ সবাই এর অর্থ করেছেন অকৃতজ্ঞ। মানে, রবের নিয়ামত শুধু ভুলে যাওয়া নয়, অস্বীকার করা। ইবনে কাসীর হাসান বসরীর আরও ধারালো একটি কথা এনেছেন: কানূদ সেই লোক, যে নিজের ওপর আসা বিপদগুলো গুনে রাখে আর আল্লাহর নিয়ামতগুলো ভুলে যায়।"
           },
           {
             "en": "The lexicographers add a picture from the root itself, which is used of ground called kanud: land that takes the rain and returns no vegetation. That image explains the word better than any definition. The complaint is not that a man received nothing; it is that everything went in and nothing came back out. Rain on such ground is not refused, and it is not repaid either, which is precisely the shape of a life full of blessings and empty of thanks.",
-            "bn": "অভিধানবিদগণ ধাতুমূল থেকেই একটি চিত্র যোগ করেন — 'কানূদ' বলা হয় এমন জমিকে, যা বৃষ্টি শুষে নেয় কিন্তু কোনো ফসল ফেরত দেয় না। যেকোনো সংজ্ঞার চেয়ে এই চিত্রটিই শব্দটিকে ভালো বোঝায়। অভিযোগ এই নয় যে মানুষ কিছুই পায়নি; অভিযোগ হলো, সবকিছু ভেতরে ঢুকেছে অথচ কিছুই বাইরে আসেনি। এমন জমিতে বৃষ্টি প্রত্যাখ্যাত হয় না, আবার তার প্রতিদানও দেওয়া হয় না — নিয়ামতে ভরা ও শুকরিয়ায় শূন্য একটি জীবনের আকৃতি ঠিক এমনই।"
+            "bn": "অভিধানবিদেরা শব্দের মূল থেকেই একটা ছবি দেন। কানূদ বলা হয় এমন জমিকে, যা বৃষ্টির পানি শুষে নেয়, কিন্তু বিনিময়ে কোনো সবুজ ফলায় না। কোনো সংজ্ঞা দিয়ে শব্দটা এত ভালো বোঝানো যায় না। অভিযোগটা এই নয় যে মানুষটা কিছুই পায়নি। অভিযোগ হলো, সবই ভেতরে গেছে, কিছুই বেরিয়ে আসেনি। এমন জমি বৃষ্টি ফিরিয়ে দেয় না, আবার বৃষ্টির প্রতিদানও দেয় না। নিয়ামতে ভরা অথচ শুকরিয়াশূন্য জীবনের চেহারা ঠিক এমনই।"
           }
         ]
       },
@@ -201,7 +201,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators divide over al-insan here, and it is better to report the division than to settle it. Some restrict the verse to the ungrateful denier, on the ground that a believer is not described this way. Others read it as a statement about the human being as such, a tendency the Quran names elsewhere — 14:34 says that mankind is most unjust and ungrateful. On the second reading the verse is a mirror, and mirrors are only useful to people willing to look.",
-            "bn": "এখানে 'আল-ইনসান' নিয়ে মুফাসসিরগণ বিভক্ত, আর মতভেদটির মীমাংসা করার চেয়ে তা জানিয়ে দেওয়াই ভালো। কেউ কেউ আয়াতটিকে সীমাবদ্ধ করেন অকৃতজ্ঞ অস্বীকারকারীর মধ্যে, এই যুক্তিতে যে মুমিনকে এভাবে বর্ণনা করা হয় না। অন্যরা একে পড়েন মানুষমাত্রেরই বর্ণনা হিসেবে — এমন এক প্রবণতা, যার নাম কুরআন অন্যত্রও নিয়েছে; 14:34 বলে, মানুষ অতিশয় অন্যায়কারী ও অকৃতজ্ঞ। দ্বিতীয় পাঠে আয়াতটি একটি আয়না, আর আয়না কেবল তাদেরই কাজে লাগে যারা তাকাতে রাজি।"
+            "bn": "এখানে আল-ইনসান মানে কে, তা নিয়ে মুফাসসিরদের মধ্যে মতভেদ আছে। মীমাংসা টানার চেয়ে মতভেদটা জানিয়ে দেওয়াই ভালো। কেউ কেউ আয়াতটিকে অকৃতজ্ঞ কাফিরের মধ্যে সীমাবদ্ধ রাখেন। তাঁদের যুক্তি, মুমিনের এমন বর্ণনা হয় না। অন্যরা একে মানুষমাত্রেরই স্বভাবের কথা বলে বুঝেছেন। এই স্বভাবের কথা কুরআন অন্য জায়গাতেও বলেছে: ১৪:৩৪ আয়াতে আছে, মানুষ বড়ই জালিম, বড়ই অকৃতজ্ঞ। দ্বিতীয় ব্যাখ্যায় আয়াতটি একটা আয়না। আর আয়না কাজে লাগে শুধু তাদের, যারা তাকাতে রাজি।"
           }
         ]
       },
@@ -213,7 +213,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "100:7 says: and indeed, to that he is a witness. Qatadah and Sufyan ath-Thawri read the pronoun as Allah — He is witness to man's ingratitude. Muhammad ibn Ka'b al-Qurazi read it as man himself, whose own words and conduct testify against him. Then 100:8: and indeed, in love of al-khayr he is intense. Al-khayr here means wealth, and the choice of word is the quiet indictment — the thing is called good, and the good is what is loved fiercely.",
-            "bn": "100:7 বলে: আর নিশ্চয়ই সে এ বিষয়ে সাক্ষী। কাতাদাহ ও সুফিয়ান সাওরী সর্বনামটিকে আল্লাহর দিকে ফেরান — তিনিই মানুষের অকৃতজ্ঞতার সাক্ষী। মুহাম্মাদ ইবনে কা'ব আল-কুরাযী একে ফেরান মানুষের দিকেই — যার নিজের কথা ও আচরণই তার বিরুদ্ধে সাক্ষ্য দেয়। এরপর 100:8: আর নিশ্চয়ই সে 'আল-খাইর'-এর ভালোবাসায় তীব্র। এখানে 'আল-খাইর' মানে সম্পদ, আর শব্দ বাছাইটিই নীরব অভিযোগ — জিনিসটিকে বলা হচ্ছে 'কল্যাণ', আর সেই কল্যাণকেই ভালোবাসা হয় প্রচণ্ডভাবে।"
+            "bn": "১০০:৭ আয়াতে আছে: আর নিশ্চয়ই সে এ বিষয়ে সাক্ষী। কাতাদাহ ও সুফিয়ান সাওরীর মতে এখানে 'সে' মানে আল্লাহ: মানুষের অকৃতজ্ঞতার সাক্ষী তিনি নিজেই। মুহাম্মাদ ইবনে কা'ব আল-কুরাযীর মতে 'সে' মানে মানুষ নিজেই। তার নিজের কথা আর আচরণই তার বিরুদ্ধে সাক্ষ্য দেয়। এরপর ১০০:৮: আর নিশ্চয়ই আল-খাইরের ভালোবাসায় সে খুবই প্রবল। এখানে আল-খাইর মানে ধনসম্পদ। শব্দ বাছাইয়ের মধ্যেই আছে নীরব অভিযোগ: সম্পদকে বলা হলো 'খাইর', অর্থাৎ ভালো জিনিস, আর এই ভালোকেই মানুষ ভালোবাসে প্রচণ্ডভাবে।"
           }
         ]
       },
@@ -225,23 +225,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The surah then turns the whole scene over. 100:9-11 ask whether he does not know that when what is in the graves is scattered forth, and what is in the breasts is collected, their Lord that Day will be fully Aware of them. Notice which container is opened second. The graves give up bodies; the breasts give up what was inside them, and 100:6 has already said what that is. The dawn raid was loud; the real disclosure is silent.",
-            "bn": "এরপর সূরাটি গোটা দৃশ্যপট উল্টে দেয়। 100:9-11 জিজ্ঞেস করে, সে কি জানে না — যখন কবরে যা আছে তা ছড়িয়ে বের করে আনা হবে, আর বুকের ভেতরে যা আছে তা সংগ্রহ করা হবে, সেদিন তাদের প্রতিপালক তাদের সম্পর্কে পুরোপুরি অবহিত থাকবেন। লক্ষ করুন, দ্বিতীয় কোন পাত্রটি খোলা হচ্ছে। কবর ফিরিয়ে দেয় দেহ; আর বুক ফিরিয়ে দেয় তার ভেতরে যা ছিল — আর সেটি কী, 100:6 আগেই বলে দিয়েছে। ভোরের অভিযান ছিল কোলাহলপূর্ণ; আসল উন্মোচনটি নিঃশব্দ।"
+            "bn": "এরপর সূরাটি পুরো দৃশ্যটাই উল্টে দেয়। ১০০:৯-১১ আয়াতে প্রশ্ন: সে কি জানে না, যখন কবরে যা আছে তা বের করে ছড়িয়ে দেওয়া হবে, আর বুকের ভেতরে যা আছে তা জড়ো করা হবে, সেদিন তাদের রব তাদের সম্পর্কে পুরোপুরি অবগত থাকবেন? খেয়াল করুন, দ্বিতীয় যে পাত্রটি খোলা হচ্ছে, সেটি কী। কবর ফিরিয়ে দেয় দেহ। আর বুক ফিরিয়ে দেয় তার ভেতরে যা ছিল। সেটা কী, ১০০:৬ আয়াত আগেই বলে দিয়েছে। ভোরের হামলা ছিল কোলাহলে ভরা; আসল উন্মোচন হবে নিঃশব্দে।"
           }
         ]
       },
       {
         "h": {
           "en": "Reversing the Count",
-          "bn": "গণনাটি উল্টে দেওয়া"
+          "bn": "হিসাবটা উল্টে দেওয়া"
         },
         "p": [
           {
             "en": "Al-Hasan's definition hands over the remedy with the diagnosis. If kanud is counting the calamities and forgetting the favours, then the cure is to reverse which list is kept. Most people can produce their grievances from memory and cannot produce five blessings without pausing. The imbalance is not a character flaw so much as a filing habit, and filing habits can be changed deliberately by anyone willing to spend two minutes a day on the neglected column.",
-            "bn": "হাসান বসরীর সংজ্ঞাটি রোগনির্ণয়ের সঙ্গেই ওষুধ ধরিয়ে দেয়। কানূদ যদি হয় বিপদ গোনা আর নিয়ামত ভোলা, তবে নিরাময় হলো কোন তালিকাটি রাখা হচ্ছে তা উল্টে দেওয়া। অধিকাংশ মানুষ নিজের অভিযোগগুলো মুখস্থ বলে দিতে পারে, অথচ না থেমে পাঁচটি নিয়ামতের নাম বলতে পারে না। এই ভারসাম্যহীনতা যতটা চারিত্রিক ত্রুটি, তার চেয়ে বেশি নথি রাখার অভ্যাস; আর অভ্যাস সচেতনভাবেই বদলানো যায় — যদি কেউ অবহেলিত ঘরটির জন্য দিনে দুই মিনিট খরচ করতে রাজি থাকে।"
+            "bn": "হাসান বসরীর সংজ্ঞাটি দোষ ধরিয়ে দেওয়ার সঙ্গে সঙ্গে ওষুধও বলে দেয়। কানূদ যদি হয় বিপদ গুনে রাখা আর নিয়ামত ভুলে যাওয়া, তবে চিকিৎসা হলো উল্টো খাতাটা রাখা। বেশির ভাগ মানুষ নিজের অভিযোগগুলো মুখস্থ বলে দিতে পারে, অথচ না থেমে পাঁচটি নিয়ামতের কথা বলতে পারে না। এই ভারসাম্যহীনতা যতটা না চরিত্রের দোষ, তার চেয়ে বেশি কোন কথা কোথায় তুলে রাখি, তারই একটা অভ্যাস। আর এমন অভ্যাস চাইলেই বদলানো যায়, যদি কেউ হিসাবের অবহেলিত ঘরটার পেছনে দিনে দুই মিনিট দিতে রাজি থাকে।"
           },
           {
             "en": "The barren-ground image gives the second half of the cure. Ground that returns nothing is the problem, so thanks that stays inside the chest is only half of shukr. Wealth is thanked by spending some of it, strength by carrying something for someone, knowledge by teaching it, and a working body by using it on what is worth doing. The surah is not asking for a feeling. It is asking the ground to produce.",
-            "bn": "অনুর্বর জমির চিত্রটি নিরাময়ের দ্বিতীয় অর্ধেক দেয়। যে জমি কিছুই ফেরত দেয় না, সেটিই সমস্যা; তাই বুকের ভেতরে আটকে থাকা কৃতজ্ঞতা শুকরিয়ার অর্ধেক মাত্র। সম্পদের শুকরিয়া হয় তার কিছু খরচ করে, শক্তির শুকরিয়া হয় কারও বোঝা বয়ে দিয়ে, জ্ঞানের শুকরিয়া হয় তা শিখিয়ে, আর সচল দেহের শুকরিয়া হয় তাকে মূল্যবান কাজে খাটিয়ে। সূরাটি কোনো অনুভূতি চাইছে না। সে চাইছে জমিটি ফসল ফলাক।"
+            "bn": "অনুর্বর জমির ছবিটা ওষুধের বাকি অর্ধেকটা দেয়। সমস্যা তো সেই জমি, যা কিছুই ফিরিয়ে দেয় না। তাই যে শুকরিয়া বুকের ভেতরেই আটকে থাকে, তা শুকরিয়ার অর্ধেক মাত্র। সম্পদের শুকরিয়া তার কিছু খরচ করা, শক্তির শুকরিয়া কারও বোঝা বয়ে দেওয়া, জ্ঞানের শুকরিয়া তা শেখানো, আর সচল দেহের শুকরিয়া তাকে করার মতো কাজে খাটানো। সূরাটি কোনো অনুভূতি চাইছে না। চাইছে, জমিটা ফসল দিক।"
           }
         ]
       }
