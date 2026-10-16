@@ -557,7 +557,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Look at what stands on either side. Just before the guarding come those fearful of their Lord's punishment, with the reminder that it is not a thing from which anyone is safe (70:27, 70:28). Just after it come those attentive to their trusts and promises (70:32), a mark with its own place in the list. Chastity is set between fear of Allah and faithfulness to what has been entrusted. The commentators fetched for this verse say nothing about the order, but the company the clause keeps is part of what a reader sees.",
-            "bn": "দুই পাশে কী আছে, একবার দেখুন। হেফাজতের ঠিক আগে আছে তারা, যারা রবের শাস্তির ভয়ে কম্পিত, সঙ্গে এই সতর্কবাণী যে সেই শাস্তি থেকে কেউ নিজেকে নিরাপদ ভাবতে পারে না (৭০:২৭ ও ৭০:২৮)। ঠিক পরে আছে তারা, যারা আমানত ও অঙ্গীকারের খেয়াল রাখে (৭০:৩২)। সেই চিহ্নের আলোচনা তার নিজের জায়গায়। ফলে সংযম বসেছে আল্লাহর ভয় আর আমানতের প্রতি বিশ্বস্ততার মাঝখানে। এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, সেগুলো এই ক্রম নিয়ে কিছু বলে না। তবু বাক্যাংশটি কাদের সঙ্গে বসেছে, পাঠকের চোখে সেটাও ধরা পড়ে।"
+            "bn": "দুই পাশে কী আছে, একবার দেখুন। হেফাজতের ঠিক আগে আছে তারা, যারা রবের শাস্তির ভয়ে কম্পিত, সঙ্গে এই সতর্কবাণী যে সেই শাস্তি থেকে কেউ নিজেকে নিরাপদ ভাবতে পারে না (৭০:২৭ ও ৭০:২৮)। ঠিক পরে আছে তারা, যারা আমানত ও অঙ্গীকারের খেয়াল রাখে (৭০:৩২)। তালিকায় সেটিও আলাদা একটি গুণ, তার নিজের জায়গায় বসানো। ফলে সংযম বসেছে আল্লাহর ভয় আর আমানতের প্রতি বিশ্বস্ততার মাঝখানে। এ আয়াতের যে তাফসীরগুলো দেখা হয়েছে, সেগুলো এই ক্রম নিয়ে কিছু বলে না। তবু বাক্যাংশটি কাদের সঙ্গে বসেছে, পাঠকের চোখে সেটাও ধরা পড়ে।"
           }
         ]
       },
@@ -573,7 +573,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The same ten words stand, letter for letter, at 23:6, and the verse after each is the same as well: whoever seeks beyond that, they are the transgressors (70:31, 23:7). This article does not repeat what is said about the clause there; the discussion of 23:6 is the place for it, and al-Qurtubi, as will be seen, sends his own reader to that place. What follows keeps to what the tafsirs fetched for 70:30 say at this verse. They say little, and what their brevity shows is part of the study.",
-            "bn": "হুবহু এই দশটি শব্দই আছে ২৩:৬ আয়াতে, আর দুই জায়গায় পরের আয়াতটিও এক: এর বাইরে যে কামনা করে, তারাই সীমালঙ্ঘনকারী (৭০:৩১, ২৩:৭)। সেখানে বাক্যাংশটি নিয়ে যা বলা হয়েছে, এ লেখা তার পুনরাবৃত্তি করবে না। সে আলোচনার জায়গা ২৩:৬। পরে দেখা যাবে, কুরতুবী নিজেও তাঁর পাঠককে সেখানেই পাঠান। এখানে আমরা থাকব ৭০:৩০ আয়াতের যে তাফসীরগুলো আনা হয়েছে, সেগুলো এই আয়াতে যা বলে তার মধ্যে। তারা বলে অল্প। আর সেই অল্প বলাটা কী দেখায়, সেটাও আমাদের আলোচনার অংশ।"
+            "bn": "হুবহু এই দশটি শব্দই আছে ২৩:৬ আয়াতে, আর দুই জায়গায় পরের আয়াতটিও এক: এর বাইরে যে কামনা করে, তারাই সীমালঙ্ঘনকারী (৭০:৩১, ২৩:৭)। সেখানে বাক্যাংশটি নিয়ে যা বলা হয়েছে, এ লেখা তার পুনরাবৃত্তি করবে না। সে আলোচনার জায়গা ২৩:৬। পরে দেখা যাবে, কুরতুবী নিজেও তাঁর পাঠককে সেখানেই পাঠান। এখানে আমরা শুধু দেখব, ৭০:৩০ আয়াতের জন্য আনা তাফসীরগুলো এই আয়াতে কী বলে। তারা বলে অল্প। আর সেই অল্প বলাটা কী দেখায়, সেটাও আমাদের আলোচনার অংশ।"
           }
         ]
       },
@@ -585,7 +585,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari glosses the exception through the blame clause: illa, except that they are not blamed fi tarki hifziha, in leaving off its guarding, with their wives or what their right hands possess. The word hifz is the noun of hafizun in 70:29, so his gloss keeps the guarding itself in view. On his wording, the exception is not a second virtue set beside the first, nor a loosening of it. It is the one setting in which not guarding draws no blame. The measure of the clause is the guarding, not the appetite.",
-            "bn": "তাবারী ব্যতিক্রমটি ব্যাখ্যা করেন দোষের কথাটির ভেতর দিয়ে। তাঁর ভাষায় অর্থ দাঁড়ায়: তবে ফী তারকি হিফযিহা, অর্থাৎ হেফাজত ছেড়ে দেওয়ায় তারা তিরস্কৃত নয়, তাদের স্ত্রী অথবা ডান হাত যাদের মালিক তাদের ক্ষেত্রে। হিফয মানে হেফাজত, আর ৭০:২৯ আয়াতের হাফিযূন মানে হেফাজতকারী, একই শব্দের দুই রূপ। তাই তাঁর ব্যাখ্যায় হেফাজতের কথাটাই সামনে থাকে। তাঁর কথামতো এ ব্যতিক্রম আগের গুণের পাশে বসানো নতুন কোনো গুণ নয়, আবার সেই গুণকে ঢিলে করে দেওয়াও নয়। এ সেই একটি ক্ষেত্র, যেখানে হেফাজত না করলে দোষ ধরা হয় না। বাক্যাংশটির মাপকাঠি হেফাজত, কামনা নয়।"
+            "bn": "তাবারী ব্যতিক্রমটি ব্যাখ্যা করেন দোষের কথাটির ভেতর দিয়ে। তাঁর ভাষায় অর্থ দাঁড়ায়: তবে স্ত্রী অথবা ডান হাত যাদের মালিক, তাদের বেলায় ফী তারকি হিফযিহা, অর্থাৎ হেফাজত ছেড়ে দেওয়ায় তারা তিরস্কৃত নয়। হিফয মানে হেফাজত, আর ৭০:২৯ আয়াতের হাফিযূন মানে হেফাজতকারী, একই শব্দের দুই রূপ। তাই তাঁর ব্যাখ্যায় হেফাজতের কথাটাই সামনে থাকে। তাঁর কথামতো এ ব্যতিক্রম আগের গুণের পাশে বসানো নতুন কোনো গুণ নয়, আবার সেই গুণকে ঢিলে করে দেওয়াও নয়। এ সেই একটি ক্ষেত্র, যেখানে হেফাজত না করলে দোষ ধরা হয় না। বাক্যাংশটির মাপকাঠি হেফাজত, কামনা নয়।"
           },
           {
             "en": "For the second phrase at-Tabari gives two words: min ima'ihim, from among their bondwomen. He adds nothing further on the category at this verse, and this article does not add for him. It records his gloss as his words, as it records each commentator's below, without turning any of them into a ruling of its own. The reader should hold that frame through every section that follows. What the commentators wrote is reported because it is what they wrote, and nothing in the report is offered as a judgement on any person.",
@@ -601,7 +601,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari then reports a point of grammar, introduced with it was said. The verse says li-furujihim hafizun, illa 'ala azwajihim, guarding their private parts except with their wives, and he notes that no jahd, no negation, comes before the illa. An exception of this kind would normally follow a negative statement, yet here it follows a positive one: they are guardians. The reason he gives is the closing phrase. Fa-innahum ghayru malumin, for they are not blamed, shows that the sentence carries the meaning of a negation, even though no word of negation is spoken before the exception.",
-            "bn": "এরপর তাবারী একটি ব্যাকরণের কথা আনেন, যার শুরুতে বলা হয়েছে, বলা হয়েছে যে। আয়াত বলছে লিফুরূজিহিম হাফিযূন, ইল্লা আলা আযওয়াজিহিম, অর্থাৎ তারা নিজেদের লজ্জাস্থান হেফাজত করে, স্ত্রীদের ক্ষেত্রে ছাড়া। তিনি লক্ষ করেন, ইল্লার আগে কোনো জাহদ, মানে কোনো না-বাচক শব্দ, আসেনি। এ ধরনের ব্যতিক্রম সাধারণত আসে না-বাচক বাক্যের পরে। এখানে এসেছে হ্যাঁ-বাচক বাক্যের পরে: তারা হেফাজতকারী। তাবারী কারণ দেখান শেষ অংশে। ফাইন্নাহুম গাইরু মালূমীন, কেননা তারা তিরস্কৃত নয়, এই কথাটিই বুঝিয়ে দেয় যে বাক্যের ভেতরে না-বাচক অর্থ আছে, যদিও ব্যতিক্রমের আগে কোনো না-বাচক শব্দ উচ্চারিত হয়নি।"
+            "bn": "এরপর তাবারী ব্যাকরণের একটি মত আনেন, শুরু করেন \"বলা হয়েছে\" কথাটি দিয়ে। আয়াত বলছে লিফুরূজিহিম হাফিযূন, ইল্লা আলা আযওয়াজিহিম, অর্থাৎ তারা নিজেদের লজ্জাস্থান হেফাজত করে, স্ত্রীদের ক্ষেত্রে ছাড়া। তিনি লক্ষ করেন, ইল্লার আগে কোনো জাহদ, মানে কোনো না-বাচক শব্দ, আসেনি। এ ধরনের ব্যতিক্রম সাধারণত আসে না-বাচক বাক্যের পরে। এখানে এসেছে হ্যাঁ-বাচক বাক্যের পরে: তারা হেফাজতকারী। তাবারী কারণ দেখান শেষ অংশে। ফাইন্নাহুম গাইরু মালূমীন, কেননা তারা তিরস্কৃত নয়, এই কথাটিই বুঝিয়ে দেয় যে বাক্যের ভেতরে না-বাচক অর্থ আছে, যদিও ব্যতিক্রমের আগে কোনো না-বাচক শব্দ উচ্চারিত হয়নি।"
           },
           {
             "en": "He illustrates it with an everyday sentence. Someone says: do whatever seems good to you, except committing disobedience, for you will be punished for it. The meaning, he explains, is this: do whatever seems good to you, except that you will be punished for committing disobedience. The exception is carried by the consequence clause, not by a negative that came before it. Read that way, the verse settles into: they guard their private parts, except that they are not blamed with their wives or what their right hands possess.",
@@ -621,7 +621,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The other commentators fetched for this verse are briefer still. Ibn Kathir, in the Arabic, glosses only the second phrase: ay min al-ima', that is, from among the bondwomen, and then recites the close of the verse without a word of his own. As-Sa'di glosses the same phrase as sarariyyatuhum, their concubines. He then gives the last clause a limit in its own words: they are not blamed in intercourse with them in the place that is the place of tillage, fi l-mahalli lladhi huwa mahallu l-harth.",
-            "bn": "এ আয়াতের অন্য যে তাফসীরগুলো দেখা হয়েছে, সেগুলো আরও সংক্ষিপ্ত। আরবী ইবন কাসীর কেবল দ্বিতীয় বাক্যাংশের ব্যাখ্যা দেন: আই মিনাল ইমা, অর্থাৎ দাসীদের মধ্য থেকে। তারপর আয়াতের শেষটুকু পড়ে যান, নিজের কোনো কথা যোগ করেন না। সা'দী একই বাক্যাংশের ব্যাখ্যা দেন সারারিয়্যাতুহুম শব্দে, অর্থাৎ তাদের উপপত্নী। তারপর শেষ অংশের সঙ্গে নিজের ভাষায় একটি সীমা জুড়ে দেন: তাদের সঙ্গে সহবাসে তারা তিরস্কৃত নয়, সেই স্থানে যা ফসল ফলানোর স্থান, ফিল মাহাল্লিল্লাযী হুয়া মাহাল্লুল হারস।"
+            "bn": "এ আয়াতের অন্য যে তাফসীরগুলো দেখা হয়েছে, সেগুলো আরও সংক্ষিপ্ত। ইবন কাসীর তাঁর আরবি তাফসীরে কেবল দ্বিতীয় বাক্যাংশের ব্যাখ্যা দেন: আই মিনাল ইমা, অর্থাৎ দাসীদের মধ্য থেকে। তারপর আয়াতের শেষটুকু পড়ে যান, নিজের কোনো কথা যোগ করেন না। সা'দী একই বাক্যাংশের ব্যাখ্যা দেন সারারিয়্যাতুহুম শব্দে, অর্থাৎ তাদের উপপত্নী। তারপর শেষ অংশের সঙ্গে নিজের ভাষায় একটি সীমা জুড়ে দেন: যে স্থান ফসল ফলানোর স্থান, সেখানে তাদের সঙ্গে সহবাসে তারা তিরস্কৃত নয়, ফিল মাহাল্লিল্লাযী হুয়া মাহাল্লুল হারস।"
           },
           {
             "en": "Al-Baghawi, at this verse, sets down the words of the verse and nothing more. Al-Qurtubi gives a single sentence: the discussion of it has already come in Surah Qad Aflaha al-Mu'minun, that is, Surah al-Mu'minun, where the same words stand at 23:6. Rather than repeat himself, he points his reader back to that earlier place. Ma'arif al-Qur'an, in the note it groups with this verse, speaks only of the known right in wealth (70:24) and says nothing on the clause itself.",
@@ -709,7 +709,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ma'arif al-Qur'an, condensing al-Mazhari, starts from the form of the word. Amanat is the plural of amanah, the same word as in 4:58: indeed, Allah commands you to render trusts to whom they are due. The plural, it says, shows that amanah does not refer only to that which people might deposit with a trustee for safe-keeping. It also refers to all the obligatory rights that are necessary to fulfil. On this reading the verse is not about a cupboard of valuables but about everything a person owes.",
-            "bn": "মাআরিফুল কুরআন এখানে মাযহারীর কথা সংক্ষেপে আনে, আর শুরু করে শব্দের রূপ থেকে। আমানাত হলো আমানাহর বহুবচন। ৪:৫৮ আয়াতেও এই শব্দ: নিশ্চয়ই আল্লাহ তোমাদের নির্দেশ দিচ্ছেন, হকদারের হক তার কাছে পৌঁছে দিতে। মাআরিফুলের মতে বহুবচন বুঝিয়ে দেয়, আমানত মানে শুধু সেই জিনিস নয় যা মানুষ হেফাজতের জন্য কারও কাছে জমা রাখে। যত হক আদায় করা বাধ্যতামূলক, সবই এর ভেতরে পড়ে। এভাবে পড়লে আয়াতটি কোনো আলমারিভর্তি দামি জিনিসের কথা বলছে না। বলছে মানুষের ঘাড়ে যত পাওনা আছে, তার সবকিছুর কথা।"
+            "bn": "মাআরিফুল কুরআন এখানে মাযহারীর কথা সংক্ষেপে আনে, আর শুরু করে শব্দের রূপ থেকে। আমানাত হলো আমানাহর বহুবচন। ৪:৫৮ আয়াতেও এই শব্দ: নিশ্চয়ই আল্লাহ তোমাদের নির্দেশ দিচ্ছেন, আমানত তার হকদারের কাছে পৌঁছে দিতে। মাআরিফুলের মতে বহুবচন বুঝিয়ে দেয়, আমানত মানে শুধু সেই জিনিস নয় যা মানুষ হেফাজতের জন্য কারও কাছে জমা রাখে। যত হক আদায় করা বাধ্যতামূলক, সবই এর ভেতরে পড়ে। এভাবে পড়লে আয়াতটি কোনো আলমারিভর্তি দামি জিনিসের কথা বলছে না। বলছে মানুষের ঘাড়ে যত পাওনা আছে, তার সবকিছুর কথা।"
           },
           {
             "en": "At-Tabari divides the trusts into two. There are the trusts of Allah, which He entrusted to them from among His obligations, and the trusts of His servants, with which they were entrusted. The Muyassar keeps the same pair: the trusts of Allah and the trusts of the servants. In both paraphrases, their trusts are theirs because they hold them, not because they own them. What a person keeps is something placed with him, by his Lord or by another person, and it is held until it is returned.",
@@ -853,7 +853,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse does not say uqsimu, I swear, but fa-la uqsimu, with a la in front that looks like a negation: so no, I swear. The commentators fetched for this verse explain that la in two different ways. Al-Qurtubi's note is brief. Fa-la uqsimu, he says, means aqsimu, I swear, and the la is a sila, a connecting particle. On his reading the sentence is a plain oath, and the la does not turn it into a refusal to swear or add a meaning of its own.",
-            "bn": "আয়াতটি শুধু উকসিমু, আমি শপথ করছি, বলে না। বলে ফালা উকসিমু, সামনে একটা লা জুড়ে, যা দেখতে নিষেধের মতো: না, আমি শপথ করছি। এই আয়াতের যেসব তাফসীর সামনে আছে, সেগুলো এই লা-কে দুইভাবে ব্যাখ্যা করে। কুরতুবীর কথা সংক্ষিপ্ত। তাঁর মতে ফালা উকসিমু মানে আকসিমু, আমি শপথ করছি, আর লা এখানে সিলা, অর্থাৎ সংযোগের একটা অব্যয়। এই পাঠে বাক্যটা সোজা একটি শপথ। লা একে শপথ না করার কথায় পরিণত করে না, নিজের আলাদা কোনো অর্থও যোগ করে না।"
+            "bn": "আয়াতটি শুধু উকসিমু, আমি শপথ করছি, বলে না। বলে ফালা উকসিমু, সামনে একটা লা জুড়ে, যা দেখতে না-বাচক শব্দের মতো: না, আমি শপথ করছি। এই আয়াতের যেসব তাফসীর সামনে আছে, সেগুলো এই লা-কে দুইভাবে ব্যাখ্যা করে। কুরতুবীর কথা সংক্ষিপ্ত। তাঁর মতে ফালা উকসিমু মানে আকসিমু, আমি শপথ করছি, আর লা এখানে সিলা, অর্থাৎ সংযোগের একটা অব্যয়। এই পাঠে বাক্যটা সোজা একটি শপথ। লা একে শপথ না করার কথায় পরিণত করে না, নিজের আলাদা কোনো অর্থও যোগ করে না।"
           },
           {
             "en": "Ibn Kathir gives the la a task. In his Arabic tafsir he states what the speech amounts to: the matter is not as they claim, that there is no return and no reckoning, no raising and no gathering; rather all of that will happen, without fail. That is why, he says, la comes at the start of the oath, to show that what is sworn to is a negation, namely the rebuttal of their corrupt claim that denies the Day of Resurrection. The English abridgement renders this as an oath sworn by a denial of their claim.",
@@ -928,7 +928,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Licence the Verse Withholds",
-          "bn": "এ শপথ কাউকে দাগায় না"
+          "bn": "আয়াত যে অনুমতি দেয় না"
         },
         "p": [
           {
@@ -937,7 +937,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "What the commentators draw from the oath is an argument about Allah's power, not a verdict on individuals. The Muyassar and as-Sa'di see in the risings and settings signs that point to the resurrection, and Ibn Kathir sees a creation greater than the raising of the dead. All of that faces the reader. Whoever turns these verses into a weapon has taken an oath about the return and made it a tool for contempt, which the verse never offers. Their right use is to ask what one's own certainty of the return looks like.",
-            "bn": "এই শপথ থেকে তাফসীরকারেরা যা বের করেন, তা আল্লাহর কুদরত নিয়ে একটা যুক্তি, কোনো ব্যক্তির উপর রায় নয়। মুয়াসসার আর সা'দী উদয়স্থল ও অস্তাচলে দেখেন পুনরুত্থানের দিকে ইশারা করা নিদর্শন। ইবন কাসীর দেখেন এমন এক সৃষ্টি, যা মৃতকে জীবিত করার চেয়েও বড়। এর সবটাই পাঠকের নিজের দিকে ফেরানো। যে এই আয়াতগুলোকে অস্ত্র বানায়, সে পুনরুত্থান নিয়ে করা এক শপথকে অবজ্ঞার হাতিয়ার করে ফেলে। আয়াতটি এমন কিছু দেয়নি। এর সঠিক ব্যবহার হলো নিজেকে জিজ্ঞেস করা, পুনরুত্থানের উপর আমার নিজের ইয়াকীন দেখতে কেমন।"
+            "bn": "এই শপথ থেকে তাফসীরকারেরা যা বের করেন, তা আল্লাহর কুদরত নিয়ে একটা যুক্তি, কোনো ব্যক্তির উপর রায় নয়। মুয়াসসার আর সা'দী উদয়স্থল ও অস্তাচলে দেখেন পুনরুত্থানের দিকে ইশারা করা নিদর্শন। ইবন কাসীর দেখেন এমন এক সৃষ্টি, যা মৃতকে জীবিত করার চেয়েও বড়। এর সবটাই পাঠকের নিজের দিকে ফেরানো। যে এই আয়াতগুলোকে অস্ত্র বানায়, সে পুনরুত্থান নিয়ে করা এক শপথকে অবজ্ঞার হাতিয়ার করে ফেলে। আয়াতটি এমন কিছু দেয়নি। এর সঠিক ব্যবহার হলো নিজেকে জিজ্ঞেস করা: পুনরুত্থানের উপর আমার নিজের ইয়াকীন আসলে কতটা?"
           }
         ]
       },
