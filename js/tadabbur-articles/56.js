@@ -1113,7 +1113,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The pairing recurs across the notes. Ibn Kathir has mukadhdhibina and mustab'idina, denying and deeming far-off. As-Sa'di writes kanu yunkiruna l-ba'th, fa-yaquluna stib'adan li-wuqu'ih: they used to deny the raising, and so they would say this as deeming its occurrence far-off. At-Tabari has kufr and inkar, disbelief and denial. None of the notes fetched here reads the question as a sincere inquiry. Nor does any of them attach an occasion of revelation to the verse or name a particular speaker in history.",
-            "bn": "টীকাগুলোতে এই জোড়া বারবার ফিরে আসে। ইবন কাসীরে আছে মুকাযযিবীনা আর মুসতাবইদীনা, মিথ্যা বলা আর দূরের ভাবা। সা'দী লেখেন কানূ ইউনকিরূনাল বাস, ফাইয়াকূলূনাসতিবআদান লিউকূইহ: তারা পুনরুত্থান অস্বীকার করত, তাই একে ঘটার পক্ষে দূরের ভেবে এ কথা বলত। তাবারীতে আছে কুফর আর ইনকার, অবিশ্বাস আর অস্বীকার। এখানে আনা কোনো টীকাই প্রশ্নটাকে সত্যিকারের জিজ্ঞাসা হিসেবে পড়ে না। কোনোটি আয়াতের সঙ্গে শানে নুযূলও জোড়ে না, ইতিহাসের নির্দিষ্ট কোনো বক্তার নামও নেয় না।"
+            "bn": "টীকাগুলোতে এই জোড়া বারবার ফিরে আসে। ইবন কাসীরে আছে মুকাযযিবীনা আর মুসতাবইদীনা, মিথ্যা বলা আর দূরের ভাবা। সা'দী লেখেন কানূ ইউনকিরূনাল বাস, ফাইয়াকূলূনাসতিবআদান লিউকূইহ: তারা পুনরুত্থান অস্বীকার করত, তাই এর ঘটে যাওয়াকে বহু দূরের ব্যাপার ভেবে এ কথা বলত। তাবারীতে আছে কুফর আর ইনকার, অবিশ্বাস আর অস্বীকার। এখানে আনা কোনো টীকাই প্রশ্নটাকে সত্যিকারের জিজ্ঞাসা হিসেবে পড়ে না। কোনোটি আয়াতের সঙ্গে শানে নুযূলও জোড়ে না, ইতিহাসের নির্দিষ্ট কোনো বক্তার নামও নেয় না।"
           }
         ]
       },
@@ -1149,7 +1149,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two absences should be stated. Ma'arif al-Qur'an's note for the group from 56:39 to 56:48 speaks only to the earlier and later companies of 56:39 and 56:40, and says nothing about this verse, so nothing from it is used here. The hadith it cites in that note concerns a group of the Ummah remaining on the truth, which is not attached to 56:47. No note fetched for this verse attaches a hadith to it, so none is quoted. The verse is read here through its words and its commentators alone.",
-            "bn": "দুটি অনুপস্থিতির কথা বলে রাখা দরকার। মাআরিফুল কুরআন ৫৬:৩৯ থেকে ৫৬:৪৮ আয়াতের দলের জন্য যে টীকা দেয়, তা কেবল ৫৬:৩৯ ও ৫৬:৪০ আয়াতের আগের ও পরের দল নিয়ে। এ আয়াত নিয়ে তাতে কিছু নেই, তাই সেখান থেকে কিছু নেওয়া হয়নি। ওই টীকায় যে হাদীস আছে, তা উম্মাহর একটি দলের সত্যের উপর টিকে থাকা নিয়ে, ৫৬:৪৭ আয়াতের সঙ্গে তার যোগ নেই। এ আয়াতের জন্য আনা কোনো টীকা এর সঙ্গে কোনো হাদীস জোড়ে না, তাই কোনো হাদীস উদ্ধৃত হয়নি। আয়াতটি এখানে পড়া হলো কেবল এর শব্দ আর তাফসীরকারদের মাধ্যমে।"
+            "bn": "দুটি জিনিস এখানে নেই, সেটা বলে রাখা দরকার। ৫৬:৩৯ থেকে ৫৬:৪৮ পর্যন্ত আয়াতগুচ্ছের টীকায় মাআরিফুল কুরআন কথা বলে শুধু ৫৬:৩৯ ও ৫৬:৪০ আয়াতের আগের ও পরের দল নিয়ে। এ আয়াত নিয়ে তাতে কিছু নেই, তাই সেখান থেকে কিছু নেওয়া হয়নি। ওই টীকায় যে হাদিস আছে, তা উম্মাহর একটি দলের সত্যের উপর টিকে থাকা নিয়ে। ৫৬:৪৭ আয়াতের সঙ্গে তার কোনো যোগ নেই। এ আয়াতের জন্য আনা কোনো টীকা এর সঙ্গে কোনো হাদিস জোড়েনি, তাই এখানে কোনো হাদিস উদ্ধৃত হয়নি। আয়াতটি এখানে পড়া হলো শুধু এর শব্দ আর তাফসীরকারদের ব্যাখ্যা দিয়ে।"
           }
         ]
       },
@@ -1165,7 +1165,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The surah itself models a different response. When the question is voiced, the reply in 56:49 is a command to say something, and further on comes an argument. Someone who hears a doubt about the return today, from a friend, a student or their own heart, is not looking at the companions of the left. The verse asks the reader to recognise the habit of pushing the raising far away, and to watch for it in themselves first, not to sort the people around them into the saved and the lost.",
-            "bn": "সূরা নিজেই অন্য রকম আচরণের নমুনা দেখায়। প্রশ্নটা ওঠার পর ৫৬:৪৯ আয়াতে জবাব আসে কিছু বলার আদেশ হিসেবে, আর আরও সামনে আসে যুক্তি। আজ কেউ বন্ধু, ছাত্র বা নিজের মনের কাছ থেকে আখিরাত নিয়ে সন্দেহের কথা শুনলে, সে বাম দিকের দলের দিকে তাকিয়ে নেই। আয়াত পাঠককে বলে পুনরুত্থানকে দূরে ঠেলে দেওয়ার অভ্যাসটা চিনতে, আর সবার আগে নিজের ভেতরে সেটা খুঁজতে। চারপাশের মানুষকে নাজাতপ্রাপ্ত আর হতভাগা, এ দুই ভাগে সাজানো তার কাজ নয়।"
+            "bn": "সূরা নিজেই অন্য রকম জবাবের নমুনা দেখায়। প্রশ্নটা ওঠার পর ৫৬:৪৯ আয়াতে জবাব আসে কিছু বলার আদেশ হিসেবে, আর আরও সামনে আসে যুক্তি। আজ বন্ধু, ছাত্র কিংবা নিজের মন থেকে আখিরাত নিয়ে কোনো সন্দেহের কথা কানে এলে, মনে রাখতে হবে, সামনে বাম দিকের দলের কেউ দাঁড়িয়ে নেই। আয়াত পাঠককে বলে পুনরুত্থানকে দূরে ঠেলে দেওয়ার অভ্যাসটা চিনতে, আর সবার আগে নিজের ভেতরে সেটা খুঁজতে। চারপাশের মানুষকে নাজাত পাওয়া আর হতভাগা, এ দুই ভাগে ভাগ করা পাঠকের কাজ নয়।"
           }
         ]
       },
@@ -1177,11 +1177,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The word the commentators share, istib'ad, names something a person can do without ever speaking the words of this verse. A believer would not say that the raising is impossible. Yet the same distancing can live in a schedule that has no room for preparing, in a comfort that makes the meeting with Allah feel like someone else's concern, in the thought that there is always time later. The verse's frame shows how the three belong together: luxury, persistence in wrong, and a return kept far away.",
-            "bn": "তাফসীরকারদের সবার ব্যবহার করা শব্দ ইসতিবআদ এমন একটা জিনিসের নাম, যা এ আয়াতের কথাগুলো মুখে না এনেও করা যায়। একজন মুমিন বলবে না যে পুনরুত্থান অসম্ভব। তবু দূরে সরিয়ে রাখার সেই একই ভাব থেকে যেতে পারে এমন দিনলিপিতে, যেখানে প্রস্তুতির কোনো জায়গা নেই। থাকতে পারে এমন আরামে, যা আল্লাহর সঙ্গে সাক্ষাৎকে অন্য কারও চিন্তা বানিয়ে দেয়। কিংবা এই ভাবনায় যে পরে তো সময় আছেই। আয়াতের আশপাশ দেখায় তিনটি কীভাবে একসঙ্গে চলে: ভোগবিলাস, অন্যায়ে অটল থাকা, আর ফেরার দিনকে দূরে রাখা।"
+            "bn": "তাফসীরকারেরা সবাই যে শব্দটি ব্যবহার করেন, সেই ইসতিবআদ এমন একটা কাজের নাম, যা এ আয়াতের কথাগুলো মুখে না এনেও করা যায়। একজন মুমিন বলবে না যে পুনরুত্থান অসম্ভব। তবু দূরে সরিয়ে রাখার সেই একই ভাব লুকিয়ে থাকতে পারে এমন দৈনিক রুটিনে, যেখানে প্রস্তুতির কোনো জায়গা নেই। থাকতে পারে এমন আরামে, যা আল্লাহর সঙ্গে সাক্ষাৎকে অন্য কারও চিন্তা বানিয়ে দেয়। কিংবা এই ভাবনায় যে পরে তো সময় আছেই। আয়াতের আশপাশ দেখায় তিনটি কীভাবে একসঙ্গে চলে: ভোগবিলাস, অন্যায়ে অটল থাকা, আর ফেরার দিনকে দূরে রাখা।"
           },
           {
             "en": "At-Tabari's paraphrase ended on the words ahya'an kama kunna, alive as we were. That is the claim the speakers could not accept, and it is the claim the reader is invited to take seriously: to be raised whole, as yourself, and to answer for what you did. The surah asked about the companions of the left in 56:41 while there is still time to answer with deeds. Their own words in 56:47 show the habit that led them there. The fitting response is to bring that day near, in practice as well as in belief.",
-            "bn": "তাবারীর ব্যাখ্যা শেষ হয়েছিল আহইয়াআন কামা কুন্না কথাটায়, আগের মতোই জীবিত। বক্তারা ঠিক এই কথাটাই মেনে নিতে পারেনি। পাঠককে আহ্বান জানানো হয় এটাকেই গুরুত্ব দিতে: পুরোপুরি নিজের মতো করেই আবার ওঠানো হবে, আর নিজের কাজের হিসাব দিতে হবে। ৫৬:৪১ আয়াতে সূরা বাম দিকের দল নিয়ে প্রশ্ন তুলেছিল, এখনো আমল দিয়ে জবাব দেওয়ার সময় আছে। ৫৬:৪৭ আয়াতে তাদের নিজেদের কথা দেখায় কোন অভ্যাস তাদের সেখানে নিয়ে গেছে। সঠিক জবাব হলো সেই দিনটাকে কাছে টেনে আনা, বিশ্বাসে যেমন, তেমনি রোজকার আমলে।"
+            "bn": "তাবারীর ব্যাখ্যা শেষ হয়েছিল আহইয়াআন কামা কুন্না কথাটায়, আগের মতোই জীবিত। বক্তারা ঠিক এই কথাটাই মেনে নিতে পারেনি। আর পাঠককে ডাকা হচ্ছে এই কথাটাকেই গুরুত্ব দিতে: পুরোপুরি নিজের মতো করেই আবার ওঠানো হবে, আর নিজের কাজের হিসাব দিতে হবে। ৫৬:৪১ আয়াতে সূরা বাম দিকের দল নিয়ে প্রশ্ন তুলেছে এমন সময়ে, যখন আমল দিয়ে জবাব দেওয়ার সময় এখনো হাতে আছে। ৫৬:৪৭ আয়াতে তাদের নিজেদের কথাই দেখায়, কোন অভ্যাস তাদের সেখানে নিয়ে গেছে। সঠিক জবাব হলো সেই দিনটাকে কাছে টেনে আনা, বিশ্বাসে যেমন, তেমনি রোজকার আমলে।"
           }
         ]
       }
@@ -1333,7 +1333,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "So the verse has two kinds of hearers. For the deniers it describes, it completes a sentence they began with their own question about being raised. For anyone reciting it today, it is a sentence still being read, with the Day not yet come. Reading it well means letting the certainty of its wording sharpen the reader's own care, not using that certainty to measure the distance between oneself and others. A meal named this far in advance can be heard as a call never to come near that table.",
-            "bn": "তাই আয়াতের শ্রোতা দুই ধরনের। যে অস্বীকারকারীদের কথা আয়াত বলে, তাদের জন্য এটি সেই বাক্যের সমাপ্তি, যা তারা নিজেরাই শুরু করেছিল পুনরুত্থান নিয়ে প্রশ্ন তুলে। আর আজ যে এটি তিলাওয়াত করে, তার জন্য এটি এখনো পড়া চলছে এমন এক বাক্য, সেই দিন এখনো আসেনি। ভালোভাবে পড়ার মানে হলো, শব্দের নিশ্চয়তা দিয়ে নিজের সাবধানতা ধারালো করা, নিজের আর অন্যদের মধ্যে দূরত্ব মাপা নয়। এত আগে যে খাবারের নাম জানানো হলো, তাকে শোনা যায় সেই দস্তরখানের কাছেও না যাওয়ার ডাক হিসেবে।"
+            "bn": "তাই আয়াতের শ্রোতা দুই ধরনের। যে অস্বীকারকারীদের কথা আয়াতে আছে, তাদের বেলায় এটি সেই বাক্যের শেষ অংশ, যার শুরু তারা নিজেরাই করেছিল পুনরুত্থান নিয়ে প্রশ্ন তুলে। আর আজ যে এটি তিলাওয়াত করে, তার কাছে বাক্যটি এখনো পড়া হচ্ছে, সেই দিন এখনো আসেনি। ভালোভাবে পড়ার মানে হলো শব্দের এই নিশ্চয়তা দিয়ে নিজের সাবধানতাকে আরও ধারালো করা, নিজের আর অন্যদের মধ্যে দূরত্ব মাপা নয়। এত আগে থেকে যে খাবারের কথা জানিয়ে দেওয়া হলো, তাকে শোনা যায় সেই দস্তরখানের ধারেকাছেও না যাওয়ার ডাক হিসেবে।"
           }
         ]
       }
@@ -1349,11 +1349,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse is a step in an argument that begins at 56:57 and closes at 56:62. 56:57 states the thesis: We created you, so why do you not affirm the truth? 56:58 and 56:59 press it on the drop a man emits — is it you who creates it, or are We the Creator? Then death enters, and 56:62 closes: you have known the first creation, so will you not remember?",
-            "bn": "এই আয়াতটি এমন এক যুক্তির ধাপ, যা শুরু হয় 56:57-এ আর শেষ হয় 56:62-এ। 56:57 মূল কথাটি রাখে: আমিই তোমাদের সৃষ্টি করেছি, তবে তোমরা সত্য মেনে নাও না কেন? 56:58 ও 56:59 সেটিকে চেপে ধরে মানুষের নির্গত শুক্রবিন্দুর প্রসঙ্গে — তোমরা কি তা সৃষ্টি কর, নাকি আমিই স্রষ্টা? এরপর আসে মৃত্যুর কথা, আর 56:62 শেষ করে: তোমরা প্রথম সৃষ্টি সম্পর্কে জেনেছ, তবু কি অনুধাবন করবে না?"
+            "bn": "৫৬:৫৭ আয়াতে একটি যুক্তি শুরু হয়, শেষ হয় ৫৬:৬২ আয়াতে। এ আয়াত সেই যুক্তিরই একটি ধাপ। ৫৬:৫৭ মূল দাবিটা রাখে: আমিই তোমাদের সৃষ্টি করেছি, তবে কেন তোমরা সত্য মেনে নাও না? ৫৬:৫৮ ও ৫৬:৫৯ কথাটা আরও চেপে ধরে মানুষের নির্গত বীর্যবিন্দু দিয়ে: তোমরা কি তা সৃষ্টি কর, নাকি আমিই স্রষ্টা? এরপর আসে মৃত্যুর কথা। আর ৫৬:৬২ শেষ টানে এই বলে: প্রথম সৃষ্টির কথা তো তোমরা জেনেছ, তবু কি মনে আনবে না?"
           },
           {
             "en": "56:63 then opens a fresh sign, the crops you sow, so the unit ends at 62. Reading the verse inside that unit changes it. It is not placed here as a meditation on mortality. It is the second exhibit in a case about who controls the beginning and the end of a life, offered to people who accepted the beginning and denied that there could be a second one.",
-            "bn": "এরপর 56:63 নতুন একটি নিদর্শন শুরু করে — তোমরা যে ফসল বোনো, সেটির প্রসঙ্গ; তাই অংশটি ৬২ আয়াতেই শেষ। এই অংশের ভেতরে রেখে পড়লে আয়াতটির চেহারা বদলে যায়। এটি এখানে মৃত্যু নিয়ে ভাবনার জন্য বসানো হয়নি। এটি সেই মামলার দ্বিতীয় প্রমাণ, যার বিষয় হলো জীবনের শুরু ও শেষ কার হাতে — আর তা পেশ করা হয়েছে এমন মানুষদের সামনে, যারা শুরুটা মেনে নিয়েও দ্বিতীয় কোনো শুরুর সম্ভাবনা অস্বীকার করেছিল।"
+            "bn": "এরপর ৫৬:৬৩ আয়াতে শুরু হয় নতুন নিদর্শন: তোমরা যে ফসল বোনো। তাই অংশটি ৬২ আয়াতেই শেষ। এই অংশের ভেতরে রেখে পড়লে আয়াতটির মানেই বদলে যায়। মৃত্যু নিয়ে ভাবনার খোরাক হিসেবে একে এখানে বসানো হয়নি। জীবনের শুরু আর শেষ কার হাতে, এই মামলায় এটা দ্বিতীয় প্রমাণ। আর প্রমাণটা রাখা হচ্ছে এমন লোকদের সামনে, যারা প্রথম শুরুটা মেনে নিত, অথচ দ্বিতীয়বার শুরু হতে পারে, এ কথা অস্বীকার করত।"
           }
         ]
       },
@@ -1365,11 +1365,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Nahnu qaddarna baynakumu al-mawt. The pronoun nahnu is placed before the verb, and in Arabic that fronting restricts the act to the one named — the same pronoun that carried the challenge of 56:59, or are We the Creator. The verb is from qadar, to measure out an amount, rather than merely to permit or to schedule. What is claimed is not only that death happens but that its quantity was set.",
-            "bn": "নাহনু কাদ্দারনা বাইনাকুমুল-মাউত। সর্বনাম 'নাহনু' বসানো হয়েছে ক্রিয়ার আগে, আর আরবিতে এই অগ্রবর্তন কাজটিকে কেবল উল্লিখিত সত্তার মধ্যেই সীমাবদ্ধ করে — এই একই সর্বনাম 56:59-এর চ্যালেঞ্জটিও বহন করেছিল: নাকি আমিই স্রষ্টা। ক্রিয়াপদটি এসেছে 'কাদার' থেকে, অর্থাৎ পরিমাণ মেপে দেওয়া; কেবল অনুমতি দেওয়া বা সময়সূচি ঠিক করা নয়। দাবিটি কেবল এই নয় যে মৃত্যু ঘটে, বরং এই যে তার পরিমাণ আগেই নির্ধারিত।"
+            "bn": "নাহনু কাদ্দারনা বাইনাকুমুল-মাউত। সর্বনাম নাহনু বসেছে ক্রিয়ার আগে। আরবিতে এভাবে আগে আনলে কাজটা কেবল তাঁর সঙ্গেই বাঁধা পড়ে, যাঁর কথা বলা হচ্ছে। ৫৬:৫৯ আয়াতের চ্যালেঞ্জেও ছিল এই একই সর্বনাম: নাকি আমিই স্রষ্টা? ক্রিয়াটি এসেছে কাদার থেকে, যার মানে পরিমাণ মেপে দেওয়া। শুধু অনুমতি দেওয়া বা দিনক্ষণ ঠিক করা নয়। তাই দাবিটা কেবল এই নয় যে মৃত্যু আসে। দাবি হলো, এর পরিমাণও মেপে ঠিক করা আছে।"
           },
           {
             "en": "Baynakum, among you, is doing quiet work too. The decree is described as distributed across a population rather than fixed as one date for everybody. That is why the deaths around us arrive out of order, the old outliving the young, and why no pattern can be extracted from them. Each portion was measured separately, and the measuring was not published.",
-            "bn": "'বাইনাকুম' অর্থাৎ 'তোমাদের মধ্যে' — এই শব্দটিও নীরবে কাজ করছে। ফয়সালাটিকে বর্ণনা করা হয়েছে একটি জনগোষ্ঠীর মধ্যে বণ্টিত হিসেবে, সবার জন্য একটিমাত্র তারিখ হিসেবে নয়। এ কারণেই আমাদের চারপাশের মৃত্যুগুলো ক্রম মেনে আসে না, বৃদ্ধ বেঁচে থাকেন তরুণের চেয়ে বেশি, আর এ কারণেই এর ভেতর থেকে কোনো নিয়ম বের করা যায় না। প্রতিটি ভাগ আলাদাভাবে মাপা হয়েছে, আর সেই মাপ প্রকাশ করা হয়নি।"
+            "bn": "বাইনাকুম, অর্থাৎ তোমাদের মধ্যে, শব্দটিও চুপচাপ একটা কাজ করে যায়। ফয়সালাটা সবার জন্য একটিমাত্র তারিখ হিসেবে ঠিক করা নয়, মানুষের মধ্যে ভাগ করে দেওয়া। এজন্যই আমাদের চারপাশে মৃত্যু আসে কোনো ক্রম না মেনে। বয়স্করা বেঁচে থাকেন, অথচ তরুণেরা চলে যায় আগে। এজন্যই এর ভেতর থেকে কোনো নিয়ম খুঁজে বের করা যায় না। প্রত্যেকের ভাগ আলাদা করে মাপা হয়েছে, আর সেই মাপ কাউকে জানানো হয়নি।"
           }
         ]
       },
@@ -1381,11 +1381,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa ma nahnu bimasbuqin. Masbuq is the passive participle of sabaqa, to get ahead of, to outstrip, to arrive first. So the clause denies that anything can get in front of Him in this matter — not by evading the appointment, not by bringing it forward, not by outrunning it. The image is a race in which one competitor cannot be overtaken.",
-            "bn": "ওয়া মা নাহনু বিমাসবূক্বীন। 'মাসবূক' হলো 'সাবাকা' ক্রিয়ার কর্মবাচ্য বিশেষণ, যার অর্থ আগে বেড়ে যাওয়া, ছাড়িয়ে যাওয়া, আগে পৌঁছানো। অর্থাৎ বাক্যটি অস্বীকার করে যে এ বিষয়ে কেউ তাঁর আগে যেতে পারে — নির্ধারিত সময় এড়িয়ে নয়, তা এগিয়ে এনে নয়, তাকে ছাড়িয়ে দৌড়েও নয়। ছবিটি এমন এক দৌড়ের, যেখানে এক প্রতিযোগীকে কোনোভাবেই পেছনে ফেলা যায় না।"
+            "bn": "ওয়া মা নাহনু বিমাসবূক্বীন। মাসবূক শব্দটি এসেছে সাবাকা থেকে, যার মানে আগে বেড়ে যাওয়া, ছাড়িয়ে যাওয়া, আগে পৌঁছে যাওয়া। মাসবূক হলো সে, যাকে কেউ পেছনে ফেলে এগিয়ে গেছে। তাই বাক্যটি বলে দেয়, এ ব্যাপারে কেউ তাঁর আগে যেতে পারে না। নির্ধারিত সময় এড়িয়ে নয়, সময়টা এগিয়ে এনে নয়, তাকে ছাড়িয়ে দৌড়েও নয়। ছবিটা এমন এক দৌড়ের, যেখানে একজন প্রতিযোগীকে কোনোভাবেই পেছনে ফেলা যায় না।"
           },
           {
             "en": "It is worth noticing what the clause does not say. It does not say death is unavoidable, which everyone already grants; the deniers in this passage had just insisted that death is the only certainty there is. It says that the One who set it cannot be forestalled. The subject of the sentence is not our helplessness. It is His unhindered reach.",
-            "bn": "বাক্যটি যা বলে না, সেটিও লক্ষণীয়। এটি বলে না যে মৃত্যু অনিবার্য — সে কথা তো সবাই মানে; এই অংশের অস্বীকারকারীরা মাত্রই জোর দিয়ে বলেছিল, মৃত্যুই একমাত্র নিশ্চিত ব্যাপার। এটি বলে, যিনি তা নির্ধারণ করেছেন তাঁকে ঠেকানো যায় না। বাক্যটির বিষয়বস্তু আমাদের অসহায়ত্ব নয়; বিষয়বস্তু হলো তাঁর অবাধ নাগাল।"
+            "bn": "বাক্যটি কী বলে না, সেটাও লক্ষ করার মতো। এটা বলে না যে মৃত্যু এড়ানো যায় না। সে কথা তো সবাই মানে। এই অংশের অস্বীকারকারীরাও এইমাত্র জোর দিয়ে বলেছিল, মৃত্যুই একমাত্র নিশ্চিত ব্যাপার। বাক্যটি বলে, যিনি মৃত্যু নির্ধারণ করেছেন, তাঁকে কেউ ঠেকাতে পারে না। বাক্যের মূল কথা আমাদের অসহায়ত্ব নয়, তাঁর এমন নাগাল, যা কিছুতেই আটকায় না।"
           }
         ]
       },
@@ -1397,11 +1397,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse stops, but the sentence does not. 56:61 begins 'ala an nubaddila amthalakum wa nunshi'akum fi ma la ta'lamun, and that opening attaches directly to masbuqin: We cannot be prevented from changing your likenesses and bringing you into being in what you do not know. The claim about death is only the first half of a claim about replacement.",
-            "bn": "আয়াতটি থামে, কিন্তু বাক্যটি থামে না। 56:61 শুরু হয় 'আলা আন নুবাদ্দিলা আমছালাকুম ওয়া নুনশিআকুম ফী মা লা তা'লামূন — আর এই সূচনা সরাসরি যুক্ত হয় 'মাসবূক্বীন'-এর সঙ্গে: তোমাদের সদৃশ সত্তাগুলো বদলে দেওয়া আর তোমরা যা জান না এমন রূপে তোমাদের সৃষ্টি করা থেকে আমাকে ঠেকানো যায় না। মৃত্যু সম্পর্কিত দাবিটি আসলে প্রতিস্থাপন সম্পর্কিত একটি দাবির প্রথমার্ধ মাত্র।"
+            "bn": "আয়াত থামে, কিন্তু বাক্য থামে না। ৫৬:৬১ শুরু হয় 'আলা আন নুবাদ্দিলা আমছালাকুম ওয়া নুনশিআকুম ফী মা লা তা'লামূন দিয়ে। এই শুরুটা সরাসরি জুড়ে যায় মাসবূক্বীন শব্দের সঙ্গে। অর্থ দাঁড়ায়: তোমাদের মতো সত্তাগুলোকে বদলে দেওয়া আর তোমরা জানো না এমন রূপে তোমাদের নতুন করে সৃষ্টি করা থেকে আমাকে কেউ ঠেকাতে পারে না। মৃত্যুর দাবিটা আসলে বদলে দেওয়ার এক দাবির প্রথম অর্ধেক মাত্র।"
           },
           {
             "en": "The commentators read that continuation in two ways: that one generation is exchanged for others like it, and that the same people are remade in a form they have no experience of. Either way death has become a hinge rather than a wall. The verse the deniers would have quoted against resurrection turns out, when its sentence is allowed to finish, to be an argument for it.",
-            "bn": "মুফাসসিরগণ এই ধারাবাহিকতাকে দুভাবে পড়েন: এক প্রজন্মকে তাদেরই মতো অন্যদের দিয়ে বদলে দেওয়া, এবং সেই একই মানুষদেরই এমন এক রূপে নতুন করে গড়া যার কোনো অভিজ্ঞতা তাদের নেই। যেভাবেই পড়া হোক, মৃত্যু তখন দেয়াল নয়, কব্জা হয়ে ওঠে। যে আয়াতটিকে অস্বীকারকারীরা পুনরুত্থানের বিরুদ্ধে উদ্ধৃত করত, বাক্যটিকে শেষ হতে দিলে সেটিই হয়ে দাঁড়ায় পুনরুত্থানের পক্ষে যুক্তি।"
+            "bn": "মুফাসসিরগণ এই পরের অংশটা দুভাবে পড়েন। এক, এক প্রজন্মকে সরিয়ে তাদের মতো অন্যদের আনা হবে। দুই, সেই একই মানুষদের এমন রূপে নতুন করে গড়া হবে, যার কোনো অভিজ্ঞতা তাদের নেই। যেভাবেই পড়া হোক, মৃত্যু তখন আর পথ আটকানো দেয়াল নয়, এক অবস্থা থেকে আরেক অবস্থায় যাওয়ার দরজা। অস্বীকারকারীরা পুনরুত্থানের বিরুদ্ধে যে আয়াত উদ্ধৃত করতে পারত, বাক্যটা শেষ হতে দিলে সেটাই পুনরুত্থানের পক্ষে যুক্তি হয়ে দাঁড়ায়।"
           }
         ]
       },
@@ -1413,11 +1413,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Two variables are on the table and the verse settles one of them. The length is measured out and cannot be argued with; 35:11 says the same thing from the other side, that no lifespan is extended or shortened except that it is in a register. Effort spent on that variable is spent on a closed account, however sincerely it is spent.",
-            "bn": "টেবিলে দুটি চলক আছে, আর আয়াতটি তার একটির নিষ্পত্তি করে দেয়। আয়ু মেপে দেওয়া, তা নিয়ে তর্কের সুযোগ নেই; 35:11 অন্য দিক থেকে একই কথা বলে — কারও আয়ু বাড়ানো বা কমানো হয় না, তা কিতাবে লেখা থাকা ছাড়া। এই চলকের পেছনে ব্যয় করা প্রচেষ্টা যত আন্তরিকই হোক, তা ব্যয় হয় একটি বন্ধ হিসাবে।"
+            "bn": "এখানে প্রশ্ন দুটি, আর আয়াত তার একটির নিষ্পত্তি করে দেয়। আয়ু কতটা, তা মেপে দেওয়া, এ নিয়ে তর্কের সুযোগ নেই। ৩৫:১১ আয়াত অন্য দিক থেকে একই কথা বলে: কারও আয়ু বাড়ে না, কমেও না, কিতাবে লেখা থাকা ছাড়া। তাই আয়ুর হিসাব নিয়ে যত আন্তরিক চেষ্টাই করা হোক, তা খরচ হয় এমন এক খাতায়, যা আগেই বন্ধ।"
           },
           {
             "en": "The other variable is untouched by the decree. What is carried to the appointment was never fixed in advance, and the same passage that closes the first opens the second by asking whether we will remember. The certainty of the end is presented as clarifying rather than crushing: one question is answered for us so that our attention can go to the one that is not.",
-            "bn": "অন্য চলকটিতে এই ফয়সালা হাত দেয়নি। সেই নির্ধারিত সাক্ষাতে কে কী নিয়ে যাবে, তা আগে থেকে ঠিক করা ছিল না; আর যে অংশটি প্রথম চলকটি বন্ধ করে দেয়, সেই অংশই 'তোমরা কি অনুধাবন করবে না' জিজ্ঞেস করে দ্বিতীয়টি খুলে দেয়। সমাপ্তির নিশ্চয়তাকে উপস্থাপন করা হয়েছে ভেঙে দেওয়ার বদলে স্পষ্ট করে দেওয়া কিছু হিসেবে: একটি প্রশ্নের উত্তর আমাদের হয়ে দিয়ে দেওয়া হয়েছে, যাতে মনোযোগ যেতে পারে সেই প্রশ্নটির দিকে যার উত্তর দেওয়া হয়নি।"
+            "bn": "অন্য প্রশ্নটিতে এই ফয়সালা হাত দেয় না। নির্ধারিত সেই সময়ে মানুষ সঙ্গে করে কী নিয়ে যাবে, তা আগে থেকে বেঁধে দেওয়া হয়নি। যে অংশ প্রথম প্রশ্নটা বন্ধ করে দেয়, সেই অংশই দ্বিতীয়টা খুলে দেয় এই জিজ্ঞাসায়: তোমরা কি মনে আনবে না? শেষটা যে নিশ্চিত, এ কথা এখানে মানুষকে ভেঙে দেয় না, বরং সামনের পথ পরিষ্কার করে দেয়। একটা প্রশ্নের উত্তর আমাদের হয়ে দিয়ে রাখা হয়েছে, যাতে মনোযোগ যেতে পারে সেই প্রশ্নে, যার উত্তর এখনো বাকি।"
           }
         ]
       }
@@ -1581,11 +1581,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse finishes a question that the verse before it begins. 56:68 opens afa-ra'aytumu al-ma'a alladhi tashrabun: have you considered the water that you drink? 56:69 presses it: a-antum anzaltumuhu min al-muzni am nahnu al-munzilun, is it you who brought it down from the rain-clouds, or are We the ones who send it down? The pronoun at the end of anzaltumuhu, it, points back to that water. The two verses work as a single question in two steps: first look at the water, then ask where it came from.",
-            "bn": "আগের আয়াতে যে প্রশ্নের শুরু, এ আয়াতে তার শেষ। ৫৬:৬৮ শুরু হয় আফারাআইতুমুল মা-আল্লাযী তাশরাবূন দিয়ে: যে পানি তোমরা পান কর, তা কি ভেবে দেখেছ? ৫৬:৬৯ প্রশ্নটা আরও চেপে ধরে: আ-আনতুম আনযালতুমূহু মিনাল মুযনি আম নাহনুল মুনযিলূন। মেঘ থেকে তা কি তোমরা নামিয়েছ, নাকি আমিই বর্ষণকারী? আনযালতুমূহু শব্দের শেষের 'হু' মানে 'তা', আর তা ফিরে যায় ওই পানির দিকেই। দুই আয়াত মিলে আসলে একটাই প্রশ্ন, দুই ধাপে। আগে পানির দিকে তাকাও, তারপর জিজ্ঞেস কর, এটা এল কোথা থেকে।"
+            "bn": "আগের আয়াতে যে প্রশ্নের শুরু, এ আয়াতে তার শেষ। ৫৬:৬৮ শুরু হয় আফারাআইতুমুল মা-আল্লাযী তাশরাবূন দিয়ে: যে পানি তোমরা পান কর, তা কি ভেবে দেখেছ? ৫৬:৬৯ প্রশ্নটা আরও চেপে ধরে: আ-আনতুম আনযালতুমূহু মিনাল মুযনি আম নাহনুল মুনযিলূন। মেঘ থেকে তা কি তোমরা নামিয়েছ, নাকি আমিই বর্ষণকারী? আনযালতুমূহু শব্দের শেষের 'হু' মানে 'তা', আর তা ফিরে যায় ওই পানির দিকেই। দুই আয়াত মিলে আসলে একটাই প্রশ্ন, দুই ধাপে। আগে পানির দিকে তাকানো, তারপর প্রশ্ন, এটা এল কোথা থেকে?"
           },
           {
             "en": "The same shape appears four times in this stretch of the surah. 56:58 and 56:59 ask about the drop a man emits, 56:63 and 56:64 about what you sow, 56:68 and 56:69 about the water, and 56:71 and 56:72 about the fire you kindle. Each pair opens with afa-ra'aytum, have you considered, and then sets a-antum, is it you, against am nahnu, or is it We. Ma'arif al-Qur'an, on the group from 56:63 to 56:72, explains the order: next to food, water is the most important thing on which human life depends.",
-            "bn": "সূরার এ অংশে একই ছাঁচ চারবার এসেছে, মোট চারটি জোড়ায়। ৫৬:৫৮ ও ৫৬:৫৯ প্রশ্ন তোলে মানুষের নিক্ষিপ্ত বীর্যবিন্দু নিয়ে, ৫৬:৬৩ ও ৫৬:৬৪ যা তোমরা বপন কর তা নিয়ে, ৫৬:৬৮ ও ৫৬:৬৯ পানি নিয়ে, আর ৫৬:৭১ ও ৫৬:৭২ যে আগুন তোমরা জ্বালাও তা নিয়ে। প্রতিটি জোড়া শুরু হয় আফারাআইতুম দিয়ে, অর্থাৎ ভেবে দেখেছ কি? তারপর মুখোমুখি দাঁড় করায় আ-আনতুম আর আম নাহনু, তোমরা, নাকি আমি। ৫৬:৬৩ থেকে ৫৬:৭২ পর্যন্ত পুরো অংশের আলোচনায় মাআরিফুল কুরআন এই ক্রমের কারণ বলে দেয়: খাদ্যের পরে মানুষের জীবন সবচেয়ে বেশি নির্ভর করে পানির উপর।"
+            "bn": "সূরার এ অংশে একই ছাঁচ এসেছে চারটি জোড়ায়। ৫৬:৫৮ ও ৫৬:৫৯ প্রশ্ন তোলে মানুষের নিক্ষিপ্ত বীর্যবিন্দু নিয়ে, ৫৬:৬৩ ও ৫৬:৬৪ যা তোমরা বপন কর তা নিয়ে, ৫৬:৬৮ ও ৫৬:৬৯ পানি নিয়ে, আর ৫৬:৭১ ও ৫৬:৭২ যে আগুন তোমরা জ্বালাও তা নিয়ে। প্রতিটি জোড়া শুরু হয় আফারাআইতুম দিয়ে, অর্থাৎ ভেবে দেখেছ কি? তারপর মুখোমুখি দাঁড় করায় আ-আনতুম আর আম নাহনু, তোমরা, নাকি আমি। ৫৬:৬৩ থেকে ৫৬:৭২ পর্যন্ত পুরো অংশের আলোচনায় মাআরিফুল কুরআন এই ক্রমের কারণ বলে দেয়: খাদ্যের পরে মানুষের জীবন সবচেয়ে বেশি নির্ভর করে পানির উপর।"
           }
         ]
       },
