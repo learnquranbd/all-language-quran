@@ -1629,7 +1629,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "And the kindest figures in the scene are the people who spoke up. They risked a rich and powerful kinsman's anger to say three words: do not exult. Most of us have both roles to fill. Sometimes we are the person swelling and need to hear it; sometimes we are the friend who must find the courage and the gentleness to say it to someone we love. Qārūn's tragedy is that he was told, clearly and in time, and would not hear.",
-            "bn": "আর দৃশ্যের সবচেয়ে দয়ালু মানুষগুলো তারাই, যারা মুখ খুলেছিল। ধনী আর ক্ষমতাধর এক স্বজনের রাগ গায়ে মেখে তারা তিনটি কথা বলল: গর্ব করো না। আমাদের বেশির ভাগেরই দুটো ভূমিকাই পালন করতে হয়। কখনো আমরাই সেই ফুলে ওঠা মানুষ, যার শোনা দরকার; কখনো আমরাই সেই লোক, যাকে ভালোবাসার কাউকে কথাটা বলার সাহস আর কোমলতা খুঁজে নিতে হয়। কারূনের সবচেয়ে বড় দুর্ভাগ্য এই যে তাকে স্পষ্টভাবে, সময়মতো বলা হয়েছিল, তবু সে শুনল না।"
+            "bn": "আর এই দৃশ্যে সবচেয়ে দরদি মানুষ তারাই, যারা মুখ খুলেছিল। ধনী, ক্ষমতাধর এক আত্মীয়ের রাগের ঝুঁকি নিয়েও তারা তিনটি শব্দ বলেছিল: গর্ব করো না। আমাদের বেশির ভাগকেই দুই জায়গাতেই দাঁড়াতে হয়। কখনো আমরাই সেই ফুলে-ফেঁপে ওঠা মানুষ, কথাটা যার শোনা দরকার। কখনো আমরা সেই বন্ধু, প্রিয় কাউকে কথাটা বলার জন্য যাকে সাহস আর কোমলতা দুটোই জোগাড় করতে হয়। কারূনের দুর্ভাগ্য এখানেই: তাকে স্পষ্ট করে, সময় থাকতেই বলা হয়েছিল, তবু সে শুনতে চায়নি।"
           }
         ]
       }
@@ -1645,11 +1645,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse is speech inside a story. Qarun was of the people of Musa (AS), and 28:76 says Allah gave him treasures whose very keys were a burden for a band of strong men. When he swaggered, his own people gave him the counsel preserved at the end of 28:76 and in this verse — do not exult, seek the Hereafter with what you were given, take your share of this world, do good, and do not work corruption. The Quran kept their words because the advice outgrew its occasion.",
-            "bn": "এই আয়াত একটি কাহিনির ভেতরের সংলাপ। কারুন ছিল মূসা (আঃ)-এর সম্প্রদায়ের লোক, আর 28:76 বলে, আল্লাহ তাকে এমন ধনভান্ডার দিয়েছিলেন যার চাবিগুলো বইতেই একদল বলবান লোকের কষ্ট হতো। সে যখন দম্ভ করল, তার নিজ সম্প্রদায়ের লোকেরাই তাকে সেই উপদেশ দিল যা 28:76-এর শেষাংশ ও এই আয়াত সংরক্ষণ করেছে — দম্ভ কোরো না, যা দেওয়া হয়েছে তা দিয়ে আখিরাত খোঁজো, দুনিয়ায় তোমার অংশ নাও, কল্যাণ করো, আর ফাসাদ কোরো না। কুরআন তাদের কথাগুলো রেখে দিয়েছে, কারণ উপদেশটি তার উপলক্ষ ছাড়িয়ে গেছে।"
+            "bn": "এই আয়াতটি আসলে একটি কাহিনির ভেতরের কথোপকথন। কারুন ছিল মূসা (আঃ)-এর সম্প্রদায়ের লোক। ২৮:৭৬ জানায়, আল্লাহ তাকে এত ধনভান্ডার দিয়েছিলেন যে তার চাবিগুলো বইতেই একদল শক্তিশালী লোক হিমশিম খেত। সে যখন দম্ভে ফুলে উঠল, তার নিজের সম্প্রদায়ের লোকেরাই তাকে উপদেশ দিল। সেই উপদেশ ধরা আছে ২৮:৭৬-এর শেষে আর এই আয়াতে: দম্ভ কোরো না; যা পেয়েছ তা দিয়ে আখিরাত খোঁজো; দুনিয়ায় তোমার অংশ নাও; কল্যাণ করো; আর ফাসাদ কোরো না। কুরআন তাদের কথাগুলো রেখে দিয়েছে, কারণ উপদেশটি তার উপলক্ষের চেয়ে অনেক বড় হয়ে উঠেছিল।"
           },
           {
             "en": "Notice who is being addressed: not a poor man being consoled, but a wealthy man being warned. The verse assumes the wealth is real, lawful in origin — Allah gave it — and enormous. Its five clauses are therefore a complete policy for handling abundance, delivered at the moment abundance was going to a man's head.",
-            "bn": "লক্ষ করুন কাকে সম্বোধন করা হচ্ছে: সান্ত্বনা পাওয়া কোনো দরিদ্রকে নয়, বরং সতর্ক করা হচ্ছে এক ধনীকে। আয়াতটি ধরে নেয় সম্পদটি বাস্তব, উৎসে বৈধ — আল্লাহই দিয়েছেন — এবং বিপুল। তাই এর পাঁচটি বাক্যাংশ প্রাচুর্য সামলানোর এক পূর্ণাঙ্গ নীতিমালা — ঠিক সেই মুহূর্তে দেওয়া, যখন প্রাচুর্য একজন মানুষের মাথায় চড়ে বসছিল।"
+            "bn": "খেয়াল করুন, কথাগুলো বলা হচ্ছে কাকে। কোনো গরিবকে সান্ত্বনা দেওয়া হচ্ছে না, সতর্ক করা হচ্ছে এক ধনীকে। আয়াতটি ধরে নিচ্ছে, সম্পদ সত্যিই আছে, তার উৎসও বৈধ, কারণ আল্লাহই তা দিয়েছেন, আর পরিমাণে তা বিপুল। তাই এর পাঁচটি অংশ মিলে প্রাচুর্য সামলানোর পূর্ণাঙ্গ নীতিমালা। আর তা এসেছে ঠিক সেই মুহূর্তে, যখন প্রাচুর্য একজন মানুষের মাথায় চড়ে বসছিল।"
           }
         ]
       },
@@ -1661,11 +1661,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first clause sets the direction: seek, with what Allah has given you, the home of the Hereafter. The preposition matters — not despite the wealth, and not after abandoning it, but with it, as a vehicle. Money becomes sadaqah, sponsorship of good, relief of debt, support of family; the same coins that anchored Qarun to the ground could have been fuel for the road. Wealth in this reading has no fixed moral character; its direction of travel decides everything.",
-            "bn": "প্রথম বাক্যাংশ দিক ঠিক করে দেয়: আল্লাহ তোমাকে যা দিয়েছেন তা দিয়ে আখিরাতের আবাস খোঁজো। এখানে 'দিয়ে' কথাটিই আসল — সম্পদ সত্ত্বেও নয়, সম্পদ ত্যাগ করেও নয়, বরং সম্পদ দিয়ে — বাহন হিসেবে। টাকা হয়ে ওঠে সাদাকা, কল্যাণকাজের পৃষ্ঠপোষকতা, ঋণমুক্তি, পরিবারের ভরণপোষণ; যে মুদ্রা কারুনকে মাটিতে গেঁথে রেখেছিল, তা-ই হতে পারত পথের জ্বালানি। এই পাঠে সম্পদের কোনো স্থির নৈতিক চরিত্র নেই; তার যাত্রার দিকই সব ঠিক করে দেয়।"
+            "bn": "প্রথম অংশটি দিক ঠিক করে দেয়: আল্লাহ তোমাকে যা দিয়েছেন, তা দিয়ে আখিরাতের ঘর খোঁজো। এখানে আসল কথা ওই 'দিয়ে' শব্দটি। সম্পদ থাকা সত্ত্বেও নয়, সম্পদ ছেড়ে দিয়েও নয়, বরং সম্পদকেই বাহন বানিয়ে। টাকা তখন হয়ে ওঠে সাদাকা, ভালো কাজে সহায়তা, কারও ঋণ শোধ, পরিবারের ভরণপোষণ। যে টাকা কারুনকে মাটিতে গেঁথে রেখেছিল, সেই টাকাই হতে পারত পথচলার জ্বালানি। এই দৃষ্টিতে সম্পদ নিজে ভালোও নয়, মন্দও নয়; সেটা কোন দিকে যাচ্ছে, সেটাই সব ঠিক করে দেয়।"
           },
           {
             "en": "The Quran pairs this with its sober description of worldly life in 57:20 — play, adornment, boasting and rivalry in wealth and children — and with the balanced du'a of 2:201 for good in this world and good in the Hereafter. The Qarun verse is where those two threads meet: the world is not despised, but it is demoted to raw material for something permanent.",
-            "bn": "কুরআন এর সঙ্গে মিলিয়ে দেয় 57:20 আয়াতে দুনিয়ার জীবনের সংযত বর্ণনা — খেলা, সাজসজ্জা, অহংকার আর ধনসম্পদ ও সন্তানে প্রতিযোগিতা — এবং 2:201 আয়াতের ভারসাম্যপূর্ণ দোয়া: দুনিয়ায় কল্যাণ ও আখিরাতে কল্যাণ। কারুনের আয়াতটিই সেই জায়গা যেখানে সুতো দুটি মেলে: দুনিয়াকে ঘৃণা করা হয়নি, তবে তাকে নামিয়ে আনা হয়েছে স্থায়ী কিছুর কাঁচামালের স্তরে।"
+            "bn": "কুরআনে এই কথার জোড়া আছে আরও দুই জায়গায়। ৫৭:২০ দুনিয়ার জীবনকে সংযত চোখে বর্ণনা করে: খেলা, সাজসজ্জা, পরস্পরের মধ্যে বড়াই, আর ধনসম্পদ ও সন্তানে পাল্লা দেওয়া। আর ২:২০১-এ আছে ভারসাম্যের সেই দোয়া: দুনিয়াতেও কল্যাণ, আখিরাতেও কল্যাণ। কারুনের এই আয়াতে এসে সুতো দুটি মিলেছে। দুনিয়াকে এখানে তুচ্ছ করা হয়নি, তবে তার মর্যাদা নামিয়ে আনা হয়েছে: সে কেবল চিরস্থায়ী কিছু গড়ার কাঁচামাল।"
           }
         ]
       },
@@ -1677,11 +1677,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then a clause that surprises people who expect scripture to scorn the world: and do not forget your nasib, your share, of this world. The commentators read it in two ways, and both are found in the classical tafsir. One: enjoy what is lawful — food, family, rest — for renouncing Allah's permitted gifts is no virtue. The other: your true share of this world is what you send ahead of it, since only that remains yours.",
-            "bn": "তারপর এমন এক বাক্যাংশ, যা তাদের অবাক করে যারা ভাবে ধর্মগ্রন্থ দুনিয়াকে কেবল তুচ্ছই করবে: আর দুনিয়ায় তোমার 'নাসীব' — তোমার অংশ — ভুলে যেয়ো না। মুফাসসিরগণ এটি দুইভাবে পড়েছেন, আর দুটিই ধ্রুপদী তাফসীরে পাওয়া যায়। এক: বৈধ যা আছে তা উপভোগ করো — খাবার, পরিবার, বিশ্রাম — কারণ আল্লাহর অনুমোদিত নিয়ামত বর্জন কোনো পুণ্য নয়। দুই: দুনিয়ায় তোমার প্রকৃত অংশ তা-ই যা তুমি এখান থেকে আগে পাঠাও, কারণ কেবল সেটুকুই তোমার থেকে যায়।"
+            "bn": "এরপর আসে এমন একটি অংশ, যা পড়ে অনেকে অবাক হন। তাঁরা ভাবেন, ধর্মগ্রন্থ দুনিয়াকে শুধু তুচ্ছই করবে। অথচ আয়াত বলছে: দুনিয়া থেকে তোমার 'নাসীব', মানে তোমার অংশ, ভুলে যেয়ো না। মুফাসসিরগণ এর দুটি ব্যাখ্যা করেছেন, আর দুটিই প্রাচীন তাফসীরগ্রন্থে পাওয়া যায়। এক: হালাল যা কিছু আছে, যেমন খাবার, পরিবার, বিশ্রাম, তা উপভোগ করো; কারণ আল্লাহ যে নিয়ামত বৈধ করেছেন, তা ছেড়ে দেওয়া কোনো নেকির কাজ নয়। দুই: দুনিয়ায় তোমার আসল অংশ সেটুকুই, যা তুমি এখান থেকে আগেভাগে পাঠিয়ে দাও; কারণ শেষ পর্যন্ত শুধু সেটুকুই তোমার থাকে।"
           },
           {
             "en": "The two readings do not compete so much as guard against opposite failures. The first forbids a joyless, self-punishing religiosity that Islam never asked for. The second forbids letting the enjoyment become the point. A believer holds both: eating gratefully at the table, while knowing that of the whole banquet, only what was shared travels on.",
-            "bn": "পাঠ দুটি পরস্পরের প্রতিদ্বন্দ্বী নয়; বরং দুটি বিপরীত ব্যর্থতা থেকে পাহারা দেয়। প্রথমটি নিষেধ করে সেই আনন্দহীন, আত্মপীড়নমূলক ধার্মিকতা, যা ইসলাম কখনো চায়নি। দ্বিতীয়টি নিষেধ করে উপভোগকেই উদ্দেশ্য বানিয়ে ফেলা। মুমিন দুটোই ধরে রাখে: টেবিলে বসে কৃতজ্ঞচিত্তে খায়, আর জানে — গোটা ভোজসভার মধ্যে কেবল যা ভাগ করা হয়েছে, সেটুকুই সঙ্গে যাবে।"
+            "bn": "ব্যাখ্যা দুটি একে অপরের বিরোধী নয়। বরং দুটি দুই উল্টো দিকের ভুল থেকে আগলে রাখে। প্রথমটি নিষেধ করে আনন্দহীন, নিজেকে কষ্ট দেওয়ার সেই ধার্মিকতা, যা ইসলাম কখনো চায়নি। দ্বিতীয়টি নিষেধ করে ভোগকেই জীবনের লক্ষ্য বানিয়ে ফেলা। মুমিন দুটোই মেনে চলেন: দস্তরখানে বসে শুকরিয়ার সঙ্গে খান, আর মনে রাখেন, পুরো ভোজের মধ্যে কেবল যা অন্যকে ভাগ করে দেওয়া হয়েছে, সেটুকুই সঙ্গে যাবে।"
           }
         ]
       },
@@ -1693,11 +1693,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The fourth clause gives generosity its logic: do good as Allah has done good to you. Ihsan toward others is presented as a response, not an initiative — you are not the origin of your wealth, so passing good along is simply matching the treatment you received. This cuts the root of Qarun's disease, which surfaces two verses later when he answers in 28:78 that he was given it all because of knowledge he had. The man who believes he generated his blessings will see no reason to share them.",
-            "bn": "চতুর্থ বাক্যাংশ দানশীলতার যুক্তি দেয়: কল্যাণ করো, যেমন আল্লাহ তোমার প্রতি কল্যাণ করেছেন। অন্যের প্রতি ইহসানকে এখানে দেখানো হয়েছে প্রতিদান হিসেবে, উদ্যোগ হিসেবে নয় — তোমার সম্পদের উৎস তুমি নও; কাজেই কল্যাণ এগিয়ে দেওয়া মানে কেবল যে আচরণ পেয়েছ তারই প্রতিফলন। এটিই কারুনের ব্যাধির মূল কেটে দেয় — যা দুই আয়াত পরে প্রকাশ পায়, যখন সে 28:78 আয়াতে জবাব দেয় যে এসব তাকে দেওয়া হয়েছে তার নিজের জ্ঞানের কারণে। যে মানুষ বিশ্বাস করে নিয়ামত সে নিজেই বানিয়েছে, সে তা ভাগ করার কোনো কারণ দেখবে না।"
+            "bn": "চতুর্থ অংশটি দানের পেছনের যুক্তি দেয়: অনুগ্রহ করো, যেমন আল্লাহ তোমার প্রতি অনুগ্রহ করেছেন। মানুষের প্রতি ইহসান এখানে নিজে থেকে শুরু করা কোনো উদ্যোগ নয়, বরং পাওয়া অনুগ্রহের জবাব। আপনার সম্পদের উৎস আপনি নন। কাজেই অন্যের দিকে কল্যাণ এগিয়ে দেওয়া মানে কেবল নিজে যে আচরণ পেয়েছেন, সেটাই ফিরিয়ে দেওয়া। এই কথা কারুনের রোগের একেবারে গোড়া কেটে দেয়। সেই রোগ দুই আয়াত পরেই ধরা পড়ে, যখন ২৮:৭৮-এ সে জবাব দেয়, এসব সে পেয়েছে তার নিজের জ্ঞানের জোরে। যে মানুষ ভাবে নিয়ামত সে নিজেই বানিয়েছে, সে তা ভাগ করার কোনো কারণ খুঁজে পায় না।"
           },
           {
             "en": "The final clause closes the policy: do not seek corruption in the land, for Allah does not love the corrupters. Wealth is power, and power leaks into fasad easily — through arrogance, through crushing competitors, through buying what should not be for sale. The verse ends on Allah's love because that is the real ledger: Qarun had everything except it.",
-            "bn": "শেষ বাক্যাংশ নীতিমালাটি বন্ধ করে: যমীনে ফাসাদ খুঁজো না, কারণ আল্লাহ ফাসাদকারীদের ভালোবাসেন না। সম্পদ মানেই ক্ষমতা, আর ক্ষমতা সহজেই ফাসাদে গড়িয়ে পড়ে — ঔদ্ধত্যে, প্রতিদ্বন্দ্বীদের পিষে ফেলায়, যা বিক্রির জিনিস নয় তা কিনে নেওয়ায়। আয়াতটি শেষ হয় আল্লাহর ভালোবাসার কথায়, কারণ ওটাই আসল খাতা: কারুনের সবই ছিল — কেবল ওটা ছাড়া।"
+            "bn": "শেষ অংশ দিয়ে নীতিমালাটি পূর্ণ হয়: যমীনে ফাসাদ সৃষ্টি করতে চেয়ো না, কারণ আল্লাহ ফাসাদকারীদের ভালোবাসেন না। সম্পদ মানেই ক্ষমতা, আর ক্ষমতা খুব সহজে ফাসাদে গড়ায়: অহংকারের পথে, প্রতিদ্বন্দ্বীকে পিষে ফেলার পথে, যা বিক্রির জিনিস নয় তা কিনে নেওয়ার পথে। আয়াতটি শেষ হয় আল্লাহর ভালোবাসার কথা দিয়ে, কারণ আসল হিসাবের খাতা সেটাই। কারুনের সবই ছিল, শুধু ওই ভালোবাসাটুকু ছিল না।"
           }
         ]
       },
@@ -1709,11 +1709,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Qarun rejected the counsel. He came out before his people in his adornment, and those who desired the life of this world sighed that they wished for the like of what he was given. Then, as 28:81 recounts, Allah caused the earth to swallow him and his home, and no company defended him. By the next morning, 28:82 says, the same admirers were saying that provision is extended and withheld by Allah's decree, and that only His grace had spared them.",
-            "bn": "কারুন উপদেশটি প্রত্যাখ্যান করল। সে তার জাঁকজমক নিয়ে নিজের সম্প্রদায়ের সামনে বের হলো, আর যারা দুনিয়ার জীবন কামনা করত তারা আফসোস করে বলল — তাকে যা দেওয়া হয়েছে তেমনটি যদি আমাদেরও থাকত। তারপর, 28:81 যেমন বর্ণনা করে, আল্লাহ তাকে ও তার ঘরবাড়িকে মাটিতে ধসিয়ে দিলেন, আর কোনো দলই তাকে রক্ষা করল না। পরদিন সকালেই, 28:82 বলে, সেই মুগ্ধ লোকেরাই বলছিল — রিযিক আল্লাহর ফয়সালাতেই প্রশস্ত ও সংকুচিত হয়, আর কেবল তাঁর অনুগ্রহই আমাদের বাঁচিয়েছে।"
+            "bn": "কারুন উপদেশ কানে তুলল না। সে জাঁকজমক নিয়ে নিজের সম্প্রদায়ের সামনে বেরিয়ে এল। যারা দুনিয়ার জীবন চাইত, তারা দীর্ঘশ্বাস ফেলে বলল: আহা, কারুনকে যা দেওয়া হয়েছে, আমাদেরও যদি তেমন থাকত! তারপর ২৮:৮১ জানায়, আল্লাহ তাকে ও তার ঘরবাড়িকে মাটির নিচে ধসিয়ে দিলেন, আর কোনো দলই তাকে রক্ষা করতে এল না। ২৮:৮২ বলছে, পরদিন সকালেই সেই মুগ্ধ লোকেরা বলতে লাগল: আল্লাহ নিজের ফয়সালায় কারও রিযিক বাড়িয়ে দেন, কারও কমিয়ে দেন; আর কেবল তাঁর অনুগ্রহেই আমরা বেঁচে গেছি।"
           },
           {
             "en": "For readers who will never hold treasure-house keys, the verse still applies at every scale, because everyone has some given thing — income, skill, influence, time. The audit it suggests is concrete: what portion of each is currently seeking the Hereafter, what portion is lawful enjoyment, and what portion, if any, is quietly working harm. Qarun's people asked him those questions once; the verse asks its reader daily.",
-            "bn": "যে পাঠক কোনোদিন ধনভান্ডারের চাবি ধরবে না, তার জন্যও আয়াতটি প্রতিটি মাপে প্রযোজ্য, কারণ প্রত্যেকেরই কিছু-না-কিছু দেওয়া জিনিস আছে — আয়, দক্ষতা, প্রভাব, সময়। আয়াতটি যে হিসাব-নিরীক্ষার ইঙ্গিত দেয় তা সুনির্দিষ্ট: এর প্রতিটির কত অংশ এখন আখিরাত খুঁজছে, কত অংশ বৈধ উপভোগ, আর কত অংশ — যদি থাকে — নীরবে ক্ষতি করে চলেছে। কারুনের লোকেরা তাকে প্রশ্নগুলো একবারই করেছিল; আয়াতটি তার পাঠককে করে প্রতিদিন।"
+            "bn": "আপনি হয়তো কোনোদিন ধনভান্ডারের চাবি হাতে পাবেন না। তবু আয়াতটি ছোট-বড় সব মাপেই খাটে, কারণ প্রত্যেককেই কিছু-না-কিছু দেওয়া হয়েছে: আয়, দক্ষতা, প্রভাব, সময়। আয়াতটি যে হিসাব নিতে বলে, তা একেবারে বাস্তব: এর প্রতিটির কতটা এখন আখিরাতের খোঁজে লাগছে, কতটা হালাল উপভোগে যাচ্ছে, আর কতটা, যদি থাকে, চুপচাপ ক্ষতি করে চলেছে। কারুনের লোকেরা তাকে এই প্রশ্নগুলো করেছিল একবার; আয়াতটি তার পাঠককে করে প্রতিদিন।"
           }
         ]
       }
@@ -1729,7 +1729,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This is the closing verse of Surah al-Qasas, and the three verses before it are addressed to the Prophet ﷺ. 28:86 tells him he had not been expecting that the Book would be conveyed to him, and that it came as a mercy from his Lord, so he must not be an assistant to the disbelievers. 28:87 tells him not to let them turn him from the verses of Allah, to invite people to his Lord, and never to be of those who associate.",
-            "bn": "এটি সূরা আল-কাসাসের শেষ আয়াত, আর এর আগের তিনটি আয়াত নবী ﷺ-কে সম্বোধন করে বলা। 28:86 আয়াত তাঁকে জানায়, তিনি আশা করেননি যে এই কিতাব তাঁর কাছে পৌঁছে দেওয়া হবে, বরং তা এসেছে তাঁর প্রতিপালকের পক্ষ থেকে রহমত হিসেবে — সুতরাং তিনি যেন কাফিরদের সহায়ক না হন। 28:87 আয়াত বলে, তারা যেন তাঁকে আল্লাহর আয়াত থেকে ফিরিয়ে না দেয়, তিনি যেন মানুষকে তাঁর প্রতিপালকের দিকে ডাকেন, আর কখনোই যেন মুশরিকদের অন্তর্ভুক্ত না হন।"
+            "bn": "এটি সূরা আল-কাসাসের শেষ আয়াত। এর আগের তিনটি আয়াতের সম্বোধন নবী ﷺ-এর প্রতি। ২৮:৮৬ তাঁকে জানায়, এই কিতাব যে তাঁর কাছে পৌঁছাবে, তিনি তা আশাও করেননি; এটি এসেছে তাঁর প্রতিপালকের পক্ষ থেকে রহমত হিসেবে। তাই তিনি যেন কাফিরদের সহায়ক না হন। ২৮:৮৭ বলে, তারা যেন তাঁকে আল্লাহর আয়াত থেকে ফিরিয়ে রাখতে না পারে; তিনি যেন মানুষকে তাঁর প্রতিপালকের দিকে ডাকেন, আর কখনো মুশরিকদের দলে না পড়েন।"
           }
         ]
       },
@@ -1741,11 +1741,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse itself opens as a command, not as a description of the end of the world: wa la tad'u ma'a Allahi ilahan akhar, do not invoke another deity along with Allah. Then the ground for it, in two steps. First the statement of fact, la ilaha illa Huwa, there is no deity except He. Then the observation that closes every remaining door: kullu shay'in halikun illa wajhah, everything is perishing except His Face.",
-            "bn": "আয়াতটি নিজে শুরু হয় একটি আদেশ দিয়ে, দুনিয়ার সমাপ্তির বর্ণনা দিয়ে নয়: ওয়া লা তাদউ মাআল্লাহি ইলাহান আখার — আল্লাহর সঙ্গে অন্য কোনো ইলাহকে ডেকো না। এরপর দুই ধাপে আসে তার ভিত্তি। প্রথমে তথ্যের ঘোষণা: লা ইলাহা ইল্লা হুয়া — তিনি ছাড়া কোনো ইলাহ নেই। তারপর সেই পর্যবেক্ষণ যা অবশিষ্ট প্রতিটি দরজা বন্ধ করে দেয়: কুল্লু শাইইন হালিকুন ইল্লা ওয়াজহাহ — তাঁর চেহারা ছাড়া সবকিছুই ধ্বংসশীল।"
+            "bn": "আয়াতটি শুরু হয় একটি আদেশ দিয়ে, দুনিয়া শেষ হওয়ার বর্ণনা দিয়ে নয়: ওয়া লা তাদউ মাআল্লাহি ইলাহান আখার, অর্থাৎ আল্লাহর সঙ্গে অন্য কোনো ইলাহকে ডেকো না। এরপর দুই ধাপে আসে এর কারণ। প্রথমে একটি সোজা সত্য: লা ইলাহা ইল্লা হুয়া, তিনি ছাড়া কোনো ইলাহ নেই। তারপর এমন একটি কথা, যা বাকি সব দরজা বন্ধ করে দেয়: কুল্লু শাইইন হালিকুন ইল্লা ওয়াজহাহ, তাঁর চেহারা ছাড়া সবকিছুই ধ্বংসশীল।"
           },
           {
             "en": "So the passing of everything else is offered here as an argument rather than as a forecast kept for its own sake: nothing else lasts long enough to be worth calling upon. The surah has already shown the argument working. 28:76 introduces Qarun with treasures whose keys would burden a band of strong men; 28:81 has the earth swallow him and his home, with no company to aid him; and 28:83 assigns the home of the Hereafter to those who seek neither exaltedness nor corruption upon the earth.",
-            "bn": "অর্থাৎ অন্য সবকিছুর বিলীন হয়ে যাওয়াকে এখানে পেশ করা হয়েছে যুক্তি হিসেবে, নিছক ভবিষ্যদ্বাণী হিসেবে নয়: অন্য কিছুই এতটা টেকে না যে তাকে ডাকা যেতে পারে। সূরাটি এই যুক্তিকে কাজ করতে দেখিয়েও দিয়েছে। 28:76 আয়াত কারূনের পরিচয় দেয়, যার ধনভাণ্ডারের চাবিগুলোই একদল বলবান লোকের জন্য ভারী ছিল; 28:81 আয়াতে যমীন তাকে ও তার ঘরকে গিলে ফেলে, আর তাকে সাহায্য করার কোনো দল থাকে না; আর 28:83 আয়াত আখিরাতের ঘর নির্ধারণ করে তাদের জন্য, যারা যমীনে ঔদ্ধত্য বা বিপর্যয় কোনোটিই চায় না।"
+            "bn": "তাহলে বাকি সবকিছুর বিলীন হয়ে যাওয়ার কথাটি এখানে নিছক ভবিষ্যতের খবর হিসেবে আসেনি, এসেছে যুক্তি হিসেবে: আর কিছুই এত দিন টেকে না যে তাকে ডাকা চলে। সূরাটি এই যুক্তি আগেই চোখের সামনে ঘটিয়ে দেখিয়েছে। ২৮:৭৬ কারূনের পরিচয় দেয়, যার ধনভাণ্ডারের চাবি বইতেই একদল শক্তিশালী লোকের কষ্ট হতো। ২৮:৮১-তে যমীন তাকে ও তার ঘরকে গিলে ফেলে, তাকে বাঁচাতে কোনো দল এগিয়ে আসে না। আর ২৮:৮৩ আখিরাতের ঘর রেখে দেয় তাদের জন্য, যারা যমীনে বড়ত্বও চায় না, ফাসাদও চায় না।"
           }
         ]
       },
@@ -1757,7 +1757,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Compare the wording with 55:26, which says kullu man alayha, everyone upon it. Man is the Arabic word for beings with reason, so that verse counts those who can be addressed. This verse says shay', thing, so the sweep widens to anything that can be named at all — an institution, a reputation, a mountain, a language. Halik is the active participle, and the commentators read it of a condition already in force as much as of an appointment made for later; the translation you will read renders it will be destroyed.",
-            "bn": "শব্দচয়নটি 55:26 আয়াতের সাথে মিলিয়ে দেখুন, যেখানে আরবিতে বলা হয়েছে কুল্লু মান আলাইহা — এর উপর যারা আছে সবাই (বাংলা অনুবাদে অবশ্য এসেছে 'পৃথিবী পৃষ্ঠে যা আছে সবই', যাতে 'মান'-এর দিকটি ধরা পড়ে না)। 'মান' আরবিতে বুদ্ধিসম্পন্ন সত্তাদের জন্য ব্যবহৃত শব্দ, তাই ওই আয়াত গোনে তাদেরই যাদের সম্বোধন করা যায়। এই আয়াত বলে 'শাইই' — বস্তু; ফলে পরিধি বিস্তৃত হয় এমন সবকিছুতে যাকে আদৌ নাম দেওয়া যায় — কোনো প্রতিষ্ঠান, কোনো সুনাম, কোনো পাহাড়, কোনো ভাষা। 'হালিক' কর্তৃবাচক বিশেষণ, আর মুফাসসিরগণ একে ভবিষ্যতের কোনো নির্ধারিত সময়ের কথা যতটা, ঠিক ততটাই এখনই চালু থাকা এক অবস্থার কথা হিসেবেও পড়েন।"
+            "bn": "শব্দ বাছাইটা ৫৫:২৬-এর সঙ্গে মিলিয়ে দেখুন। সেখানে আরবিতে আছে কুল্লু মান আলাইহা, অর্থাৎ এর ওপর যারা আছে, তারা সবাই। (বাংলা অনুবাদে অবশ্য এসেছে 'পৃথিবী পৃষ্ঠে যা আছে সবই', তাতে 'মান'-এর দিকটি ধরা পড়ে না।) আরবিতে 'মান' শব্দটি বিবেকবান সত্তাদের জন্য, তাই ওই আয়াত গোনে কেবল তাদের, যাদের সম্বোধন করা যায়। আর এই আয়াত বলছে 'শাইই', মানে বস্তু। ফলে এর আওতায় আসে নাম দেওয়া যায় এমন সবকিছু: কোনো প্রতিষ্ঠান, কোনো সুনাম, কোনো পাহাড়, কোনো ভাষা। 'হালিক' শব্দটি ইসমে ফায়েল, অর্থাৎ কর্তাবাচক রূপ। মুফাসসিরগণ একে যতটা ভবিষ্যতের নির্ধারিত সময়ের কথা হিসেবে পড়েন, ঠিক ততটাই এখনই চলমান এক অবস্থা হিসেবেও পড়েন।"
           }
         ]
       },
@@ -1769,11 +1769,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir takes illa wajhah as a way of referring to Allah Himself, so that the exception reads: everything except Him. Ahl as-Sunnah affirm the wajh as Allah affirmed it for Himself, without likening it to anything created and without draining the word of meaning, and they do not press the question of how. Read that way, the verse is a statement about who survives, and the survivor is one.",
-            "bn": "ইবনে কাসীর 'ইল্লা ওয়াজহাহ'-কে গ্রহণ করেন স্বয়ং আল্লাহকে বোঝানোর একটি রীতি হিসেবে, ফলে ব্যতিক্রমটির অর্থ দাঁড়ায়: তিনি ছাড়া সবকিছু। আহলুস সুন্নাহ 'ওয়াজহ'-কে সেভাবেই স্বীকার করেন যেভাবে আল্লাহ নিজের জন্য তা সাব্যস্ত করেছেন — সৃষ্টির কোনো কিছুর সাথে তুলনা না করে এবং শব্দটিকে অর্থশূন্য না করে; আর তাঁরা 'কীভাবে' প্রশ্নটি নিয়ে চাপাচাপি করেন না। এভাবে পড়লে আয়াতটি কে টিকে থাকেন সে সম্পর্কে একটি ঘোষণা, আর টিকে থাকেন একজনই।"
+            "bn": "ইবনে কাসীরের মতে 'ইল্লা ওয়াজহাহ' দিয়ে স্বয়ং আল্লাহকেই বোঝানো হয়েছে। তাহলে ব্যতিক্রমটির অর্থ দাঁড়ায়: তিনি ছাড়া সবকিছু। আহলুস সুন্নাহ 'ওয়াজহ'-কে ঠিক সেভাবেই মানেন, যেভাবে আল্লাহ নিজের জন্য তা সাব্যস্ত করেছেন। তাঁরা একে কোনো সৃষ্টির সঙ্গে তুলনা করেন না, আবার শব্দটিকে অর্থহীনও করে ফেলেন না; আর 'কীভাবে' সেই প্রশ্ন নিয়ে টানাটানি করেন না। এভাবে পড়লে আয়াতটি জানিয়ে দেয় কে টিকে থাকেন, আর টিকে থাকেন একজনই।"
           },
           {
             "en": "A second gloss is reported among the mufassirun: except what was done seeking His Face. The Quran's own usage keeps that reading in play. 13:22 describes those who were patient seeking the Face of their Lord, and 30:38, on giving the relative, the needy and the traveller their right, says that this is best for those who desire the Face of Allah and that they are the successful. On one reading only He remains; on the other, only what was aimed at Him remains.",
-            "bn": "মুফাসসিরগণের মধ্যে আরেকটি ব্যাখ্যাও বর্ণিত: তাঁর চেহারার সন্ধানে যা করা হয়েছে তা ছাড়া। কুরআনের নিজের ব্যবহারই এই পাঠকে সজীব রাখে। 13:22 আয়াত তাদের কথা বলে যারা তাদের প্রতিপালকের চেহারার সন্ধানে ধৈর্য ধরেছে; আর 30:38 আয়াত আত্মীয়, অভাবী ও পথিককে তাদের হক দেওয়া প্রসঙ্গে বলে, যারা আল্লাহর চেহারার আকাঙ্ক্ষা করে তাদের জন্য এটাই উত্তম, আর তারাই সফলকাম। এক পাঠে কেবল তিনিই থাকেন; অন্য পাঠে কেবল তা-ই থাকে যা তাঁকে লক্ষ্য করে করা হয়েছিল।"
+            "bn": "মুফাসসিরদের কাছ থেকে আরেকটি ব্যাখ্যাও বর্ণিত আছে: তাঁর চেহারা কামনা করে যা করা হয়েছে, তা ছাড়া। কুরআনের নিজস্ব ভাষারীতিও এই ব্যাখ্যার জায়গা রেখে দেয়। ১৩:২২ তাদের কথা বলে, যারা তাদের প্রতিপালকের চেহারার সন্ধানে সবর করেছে। আর ৩০:৩৮ আত্মীয়, অভাবী ও মুসাফিরকে তাদের হক দেওয়ার কথা বলে জানায়: যারা আল্লাহর চেহারা কামনা করে, তাদের জন্য এটাই উত্তম, আর তারাই সফলকাম। এক ব্যাখ্যায় কেবল তিনিই থাকেন; অন্য ব্যাখ্যায় থাকে কেবল সেটুকু, যা তাঁকে লক্ষ্য করে করা হয়েছিল।"
           }
         ]
       },
@@ -1785,7 +1785,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari and Muslim both record from Abu Hurayrah (RA) that the Prophet ﷺ said the truest word a poet ever spoke was the word of Labid: ala kullu shay'in ma khala Allaha batil — everything apart from Allah is false. Labid was a poet of the age before Islam, and the line was not composed as commentary on this verse; it was recognised as arriving at the same place. The Prophet ﷺ did not praise the verse for its craft but for its accuracy.",
-            "bn": "ইমাম বুখারী ও ইমাম মুসলিম উভয়েই আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেন যে নবী ﷺ বলেছেন, কোনো কবির বলা সবচেয়ে সত্য কথা হলো লাবীদের এই কথাটি: আলা কুল্লু শাইইন মা খালাল্লাহা বাতিল — আল্লাহ ছাড়া সবকিছুই অসার। লাবীদ ছিলেন ইসলাম-পূর্ব যুগের কবি, আর পঙ্‌ক্তিটি এই আয়াতের ব্যাখ্যা হিসেবে রচিত হয়নি; বরং স্বীকার করা হয়েছে যে তা একই জায়গায় গিয়ে পৌঁছেছে। নবী ﷺ পঙ্‌ক্তিটির প্রশংসা করেছেন তার কারুকাজের জন্য নয়, তার যথার্থতার জন্য।"
+            "bn": "ইমাম বুখারী ও ইমাম মুসলিম দুজনেই আবু হুরাইরা (রাঃ) থেকে বর্ণনা করেছেন, নবী ﷺ বলেছেন: কবিরা যত কথা বলেছে, তার মধ্যে সবচেয়ে সত্য কথা লাবীদের এই কথা: আলা কুল্লু শাইইন মা খালাল্লাহা বাতিল, অর্থাৎ আল্লাহ ছাড়া সবকিছুই অসার। লাবীদ ছিলেন জাহেলি যুগের কবি। চরণটি এই আয়াতের ব্যাখ্যা হিসেবে লেখা হয়নি; তবু দেখা গেল, তা ঠিক একই জায়গায় গিয়ে পৌঁছেছে। নবী ﷺ চরণটির প্রশংসা করেছেন তার শিল্পগুণের জন্য নয়, তার সত্যতার জন্য।"
           }
         ]
       },
@@ -1797,11 +1797,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse ends on two short clauses: lahu al-hukm wa ilayhi turja'un, His is the judgement and to Him you will be returned. Hukm here is the decision that stands, the word nothing overturns. Earlier in this same surah, 28:70 had already closed on exactly these two clauses, after declaring that there is no deity except Him and that praise is His in the first life and in the Hereafter. The surah states it in the middle and again at the very end.",
-            "bn": "আয়াতটি শেষ হয় ছোট দুটি বাক্যে: লাহুল হুকমু ওয়া ইলাইহি তুরজাউন — বিধান তাঁরই, আর তাঁর কাছেই তোমাদের ফিরিয়ে নেওয়া হবে। এখানে 'হুকম' মানে সেই সিদ্ধান্ত যা টিকে থাকে, যে কথা কোনো কিছুই উল্টে দিতে পারে না। এই সূরারই আগের অংশে, 28:70 আয়াত ঠিক এই দুটি বাক্য দিয়েই শেষ হয়েছিল — তিনি ছাড়া কোনো ইলাহ নেই এবং দুনিয়া ও আখিরাতে সমস্ত প্রশংসা তাঁরই, এ কথা ঘোষণার পর। সূরাটি কথাটি বলে মাঝখানে, আর আবার একেবারে শেষে।"
+            "bn": "আয়াতটি শেষ হয় ছোট দুটি বাক্যে: লাহুল হুকমু ওয়া ইলাইহি তুরজাউন, অর্থাৎ বিধান তাঁরই, আর তাঁর কাছেই তোমাদের ফিরিয়ে নেওয়া হবে। 'হুকম' এখানে সেই চূড়ান্ত সিদ্ধান্ত, যা টিকে থাকে, কোনো কিছুই যাকে উল্টে দিতে পারে না। এই সূরাতেই আগে ২৮:৭০ ঠিক এই দুটি বাক্যে শেষ হয়েছিল। সেখানে আগে ঘোষণা এসেছে, তিনি ছাড়া কোনো ইলাহ নেই, আর দুনিয়া ও আখিরাতে সব প্রশংসা তাঁরই। অর্থাৎ সূরাটি একই কথা বলে মাঝখানে একবার, আবার একেবারে শেষে।"
           },
           {
             "en": "Lived, the verse asks for a distinction rather than a withdrawal. A perishing thing can still be used, enjoyed, worked for and cared for; what it cannot be is invoked. The test is the one the verse itself supplies: of the things you are counting on this week, which would you still be standing without if it were taken away tomorrow? Whatever fails that question was never a support. It was luggage, and the closing clause of this surah says where the road ends.",
-            "bn": "বাস্তব জীবনে আয়াতটি প্রত্যাহার নয়, একটি পার্থক্য দাবি করে। ধ্বংসশীল কোনো জিনিসকে ব্যবহার করা যায়, উপভোগ করা যায়, তার জন্য পরিশ্রম করা যায়, তার যত্নও নেওয়া যায়; যা করা যায় না তা হলো তাকে ডাকা। মাপকাঠিটি আয়াত নিজেই দেয়: এই সপ্তাহে আপনি যেসব জিনিসের উপর ভরসা করছেন, তার কোনটি কাল সরে গেলেও আপনি দাঁড়িয়ে থাকতে পারতেন? যা এই প্রশ্নে উতরায় না, তা কখনোই অবলম্বন ছিল না। তা ছিল বোঝা — আর এই সূরার শেষ বাক্যটি বলে দেয় পথটি কোথায় গিয়ে শেষ হয়।"
+            "bn": "জীবনে এই আয়াত মানতে হলে দুনিয়া ছেড়ে সরে যেতে হয় না; দরকার একটি পার্থক্য বুঝে চলা। যে জিনিস ধ্বংস হয়ে যাবে, তা ব্যবহার করা যায়, উপভোগ করা যায়, তার জন্য খাটা যায়, তার যত্নও নেওয়া যায়। শুধু তাকে ডাকা যায় না। যাচাইয়ের প্রশ্নটি আয়াত নিজেই দিয়ে দেয়: এই সপ্তাহে আপনি যেসব জিনিসের ওপর ভরসা করে আছেন, তার কোনটি কাল চলে গেলেও আপনি দাঁড়িয়ে থাকতে পারবেন? যা এই প্রশ্নে টেকে না, তা কখনো আসল অবলম্বন ছিল না। ছিল কেবল পথে বয়ে বেড়ানো মালপত্র। আর পথ কোথায় গিয়ে শেষ হয়, সূরার শেষ বাক্যটিই তা বলে দেয়।"
           }
         ]
       }
