@@ -2356,8 +2356,8 @@ var SAHABA_ARTICLES = {
             bn: "মক্কায় তিনি রয়ে গেলেন—স্বামী নেই, সন্তানও নেই। পরে তিনি বলেছেন, প্রতিদিন সকালে তিনি আবতাহে গিয়ে বসতেন এবং সন্ধ্যা পর্যন্ত কাঁদতেন; প্রায় এক বছর ধরে এটাই ছিল তাঁর দিনযাপন—শেষে তাঁর গোত্রেরই এক ব্যক্তি তা দেখে বলল, এই অসহায় নারীকে যেতে দিচ্ছ না কেন? তাঁকে ছেড়ে দেওয়া হলো, সন্তানকেও ফিরিয়ে দেওয়া হলো, আর তিনি একা উটে চড়ে ছেলেকে নিয়ে মদিনার পথে বেরোলেন।",
           },
           {
-            en: "Uthman ibn Talhah met her on the road, learned she was travelling alone, and led her camel all the way to Quba without exchanging a word beyond what was necessary, then turned back to Makkah. She used to say that she knew no household in Islam that had been afflicted as the household of Abu Salamah was, and no companion nobler than the man who escorted her.",
-            bn: "পথে উসমান ইবনে তালহার সঙ্গে দেখা হলে তিনি জানলেন যে এই নারী একা যাচ্ছেন; এরপর প্রয়োজনের বাইরে একটি কথাও না বলে তিনি কুবা পর্যন্ত তাঁর উটের রশি ধরে নিয়ে গেলেন, তারপর মক্কায় ফিরে গেলেন। উম্মে সালামা বলতেন, ইসলামে আবু সালামার পরিবারের মতো বিপদগ্রস্ত কোনো পরিবার তিনি দেখেননি, আর তাঁকে পৌঁছে দেওয়া সেই মানুষটির চেয়ে ভদ্র সঙ্গীও তিনি পাননি।",
+            en: "Uthman ibn Talhah met her on the road, learned she was travelling alone, and led her camel all the way to Quba without exchanging a word beyond what was necessary, then turned back to Makkah. She used to say that she knew no household in Islam that had been afflicted as the household of Abu Salamah was, and no travelling companion nobler than the man who escorted her.",
+            bn: "পথে উসমান ইবনে তালহার সঙ্গে দেখা হলে তিনি জানলেন যে এই নারী একা যাচ্ছেন; এরপর প্রয়োজনের বাইরে একটি কথাও না বলে তিনি কুবা পর্যন্ত তাঁর উটের রশি ধরে নিয়ে গেলেন, তারপর মক্কায় ফিরে গেলেন। উম্মে সালামা বলতেন, ইসলামে আবু সালামার পরিবারের মতো বিপদগ্রস্ত কোনো পরিবার তিনি দেখেননি, আর তাঁকে পৌঁছে দেওয়া সেই মানুষটির চেয়ে ভদ্র সহযাত্রীও তিনি পাননি।",
           },
         ],
       },
@@ -2365,8 +2365,8 @@ var SAHABA_ARTICLES = {
         h: { en: "The Du'a She Doubted", bn: "যে দোয়ায় তাঁর সংশয় ছিল" },
         p: [
           {
-            en: "Abu Salamah was wounded at Uhud, seemed to recover, and then the wound reopened and he died of it. She had heard the Prophet ﷺ say that no servant is struck by an affliction and says, we belong to Allah and to Him we return; O Allah, reward me in my affliction and give me better than it in exchange — except that Allah gives him something better. The words are those of 2:156.",
-            bn: "উহুদে আবু সালামা আহত হন, আপাতদৃষ্টিতে সেরে উঠছিলেন, এরপর ক্ষত আবার খুলে যায় এবং তাতেই তিনি ইন্তেকাল করেন। উম্মে সালামা নবীজি ﷺ থেকে শুনেছিলেন—কোনো বান্দা বিপদে পড়ে যদি বলে, 'আমরা আল্লাহরই এবং তাঁরই দিকে ফিরে যাব; হে আল্লাহ, আমার এই বিপদে আমাকে প্রতিদান দিন এবং এর বদলে উত্তম কিছু দিন,' তবে আল্লাহ অবশ্যই তাকে উত্তম কিছু দেন। কথাগুলোর উৎস 2:156।",
+            en: "Abu Salamah was wounded at Uhud, seemed to recover, and then the wound reopened and he died of it. She had heard the Prophet ﷺ say that no servant is struck by an affliction and says, we belong to Allah and to Him we return; O Allah, reward me in my affliction and give me better than it in exchange — except that Allah gives him something better. The first words are those of 2:156; the prayer that follows is from the hadith, Sahih Muslim 918.",
+            bn: "উহুদে আবু সালামা আহত হন, আপাতদৃষ্টিতে সেরে উঠছিলেন, এরপর ক্ষত আবার খুলে যায় এবং তাতেই তিনি ইন্তেকাল করেন। উম্মে সালামা নবীজি ﷺ থেকে শুনেছিলেন—কোনো বান্দা বিপদে পড়ে যদি বলে, 'আমরা আল্লাহরই এবং তাঁরই দিকে ফিরে যাব; হে আল্লাহ, আমার এই বিপদে আমাকে প্রতিদান দিন এবং এর বদলে উত্তম কিছু দিন,' তবে আল্লাহ অবশ্যই তাকে উত্তম কিছু দেন। প্রথম অংশটি 2:156-এর কথা; পরের দোয়াটি হাদিসের, সহিহ মুসলিম ৯১৮।",
           },
           {
             en: "She said the prayer, thinking as she said it, who could be better for me than Abu Salamah? She said it anyway. When her waiting period ended, Abu Bakr (RA) and Umar (RA) proposed and she declined; then the Prophet ﷺ sent to her, and she pleaded her age, her children and her jealous nature. He answered each objection and married her, and the exchange was better, exactly as promised.",
@@ -3084,8 +3084,8 @@ var SAHABA_ARTICLES = {
             bn: "হিজরি ৩২ সনে তিনি রাবাযায় ইন্তেকাল করেন, শহর থেকে দূরে, আর সেই ভিড় থেকেও দূরে যাদের উদ্দেশে সারা জীবন তিনি গলা তুলেছিলেন। ঐতিহাসিকেরা লিখেছেন, পথ চলতি ছোট এক কাফেলা দাফনের সময় সেখানে এসে পড়ে আর থেমে গিয়ে কাজটা সেরে দেয়। সেই দলে আবদুল্লাহ ইবনে মাসউদ (রাঃ) ছিলেন, আর কে শুয়ে আছেন দেখে তিনি কেঁদে ফেলেন।",
           },
           {
-            en: "He had entered Islam almost at the beginning, when the believers could be counted on two hands, and he left it at the edge of a desert with nothing to leave behind. Between those two points he never once modified what he said to suit who was listening, and that, more than any battle, is what his name carries.",
-            bn: "তিনি ইসলামে এসেছিলেন প্রায় গোড়াতেই, যখন মুমিনদের সংখ্যা দুই হাতের আঙুলে গোনা যেত। আর বিদায় নিলেন মরুভূমির কিনারায়, রেখে যাওয়ার মতো কিছুই না রেখে। এই দুই বিন্দুর মাঝখানে কে শুনছে তা দেখে তিনি একবারও নিজের কথা বদলাননি। যেকোনো যুদ্ধের চেয়ে বেশি করে তাঁর নাম এটাই বয়ে বেড়ায়।",
+            en: "He had entered Islam almost at the beginning, when the believers could be counted on two hands, and he left this world at the edge of a desert with nothing to leave behind. Between those two points he never once modified what he said to suit who was listening, and that, more than any battle, is what his name carries.",
+            bn: "তিনি ইসলামে এসেছিলেন প্রায় গোড়াতেই, যখন মুমিনদের সংখ্যা দুই হাতের আঙুলে গোনা যেত। আর দুনিয়া থেকে বিদায় নিলেন মরুভূমির কিনারায়, রেখে যাওয়ার মতো কিছুই না রেখে। এই দুই বিন্দুর মাঝখানে কে শুনছে তা দেখে তিনি একবারও নিজের কথা বদলাননি। যেকোনো যুদ্ধের চেয়ে বেশি করে তাঁর নাম এটাই বয়ে বেড়ায়।",
           },
         ],
       },
@@ -8276,8 +8276,8 @@ al_husayn_ibn_ali: { sections: [
         h: { en: "A Hundred Camels", bn: "একশো উট" },
         p: [
           {
-            en: "Suraqah ibn Malik ibn Ju'shum (RA) was a chief of Banu Mudlij, a clan of Kinanah whose country lay on the coast road south-west of Makkah. When the Prophet ﷺ and Abu Bakr (RA) slipped out of Makkah toward Madinah, Quraysh sent messengers along the roads offering for each of the two men his blood-money, a hundred camels. Sahih al-Bukhari 3906 preserves what followed in Suraqah's own words: the messengers reached Banu Mudlij while he was sitting in the assembly of his people.",
-            bn: "সুরাকা ইবনে মালিক ইবনে জুশুম (রাঃ) ছিলেন বনু মুদলিজের সর্দার; কিনানার এই শাখার এলাকা মক্কার দক্ষিণ-পশ্চিমে উপকূলের পথে। নবীজি ﷺ ও আবু বকর (রাঃ) মদিনার দিকে মক্কা থেকে চুপিসারে বেরিয়ে গেলে কুরাইশ পথে পথে দূত পাঠিয়ে ঘোষণা দিল, দুজনের প্রত্যেকের জন্য তার রক্তপণ, একশো উট। এরপর যা ঘটল তা সহিহ বুখারি ৩৯০৬ নম্বর হাদিসে সুরাকার নিজের জবানিতে আছে: দূতেরা বনু মুদলিজে পৌঁছাল যখন তিনি নিজের গোত্রের মজলিসে বসা।",
+            en: "Suraqah ibn Malik ibn Ju'shum (RA) was a chief of Banu Mudlij, a clan of Kinanah whose country lay on the coast road between Makkah and Madinah. When the Prophet ﷺ and Abu Bakr (RA) slipped out of Makkah toward Madinah, Quraysh sent messengers along the roads offering for each of the two men his blood-money, a hundred camels. Sahih al-Bukhari 3906 preserves what followed in Suraqah's own words: the messengers reached Banu Mudlij while he was sitting in the assembly of his people.",
+            bn: "সুরাকা ইবনে মালিক ইবনে জুশুম (রাঃ) ছিলেন বনু মুদলিজের সর্দার; কিনানার এই শাখার এলাকা মক্কা ও মদিনার মাঝে উপকূলের পথে। নবীজি ﷺ ও আবু বকর (রাঃ) মদিনার দিকে মক্কা থেকে চুপিসারে বেরিয়ে গেলে কুরাইশ পথে পথে দূত পাঠিয়ে ঘোষণা দিল, দুজনের প্রত্যেকের জন্য তার রক্তপণ, একশো উট। এরপর যা ঘটল তা সহিহ বুখারি ৩৯০৬ নম্বর হাদিসে সুরাকার নিজের জবানিতে আছে: দূতেরা বনু মুদলিজে পৌঁছাল যখন তিনি নিজের গোত্রের মজলিসে বসা।",
           },
           {
             en: "A man came into the assembly and said he had just seen figures on the coast whom he took to be Muhammad and his companions. Suraqah knew it was so and said it was not; those were only such-and-such men they had watched leave. He sat a while longer, then went home, told his maidservant to bring his horse round behind the hill, took his spear with its point lowered, and rode out alone. He wanted the hundred camels for himself.",
