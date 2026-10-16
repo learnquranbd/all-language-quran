@@ -12,7 +12,7 @@ the state, kept short on purpose. Full history of earlier rounds:
 2. `git status --short && git log --oneline -3`
 3. Use the table below. The first row that is not DONE is where to resume.
 
-## Usage at last check (2026-10-16): BUDGET [claude-max] 5h 2% (resets Sat 17 Oct, 00:10) | 7d 35% (resets Mon 19 Oct, 16:00) | data 0 min old | context 10%. Next: Tadabbur shard 3 (bn.js extract js/tadabbur-articles/3.js TADABBUR_ARTICLES@3 100; packets reviewed in parallel, saved in order with tad-step.sh).
+## Usage at last check (2026-10-16): BUDGET [claude-max] 5h 4% (resets Sat 17 Oct, 00:10) | 7d 35% (resets Mon 19 Oct, 16:00) | data 0 min old | context 13%. Next: Tadabbur shard 17 (extract, review packets in parallel, save in order with tad-step.sh, spelling pass, bump). v981+v982 NOT pushed/deployed (auto-mode classifier blocked deploy; user to run push + firebase deploy).
 
 ## Tadabbur articles Bengali review (2026-10-15, user: "run one by one, save after each")
 - Last Bengali module: js/tadabbur-articles/*.js, 25,527 pairs / 114 shards, 605 dash hits. bn.js now takes
@@ -26,6 +26,11 @@ the state, kept short on purpose. Full history of earlier rounds:
 - Open EN: 2:186 s2.p1 calls ujibu and yastajibu "the same verb": same root, different forms (IV vs X).
 - Open EN: 2:240-242 s2.p1 "Yet Al-Bukhari records from Mujahid himself" follows the paragraph keeping the verse in force; the "Yet" only contrasts with the previous paragraph (Mujahid among those who held it abrogated).
 - Shard 2 DONE v981 (12/12 packets + spelling pass: হাদিস নামাজ নাজিল ওহি রোজা ফরজ রমজান, 136 swaps). 2:177 s1.p1 / s2.p2 have Bengali-only notes on the app's BN translation (deliberate, kept).
+- Open EN: 3:113-115 s6.p0 renders hukm in 26:83 as "authority"; most tafsir say wisdom/judgement (old BN প্রজ্ঞা; now কর্তৃত্ব to match EN).
+- Open EN: 3:139 s0.p1 says "the verses just before it" then quotes 3:140 (after).
+- Open EN: 3:92 s2.p1 "the reward went straight back into his own family": the property went to family; reward is with Allah (BN says দানের সুফল).
+- Open EN: 3:190-191 s2.p1 sums up 3:192 as "shame at the fate of wrongdoers"; the verse is the disgrace of whoever is put in the Fire.
+- Shard 3 DONE v982 (8/8 + spelling pass). Reviewers moved duas to address Allah as আপনি only in strings they rewrote; untouched dua strings in 3 may still say তুমি (mixed). Bengali-only notes kept: 3:18-19 s1.p1 (Ahsanul Bayan), 3:123-126 s1.p0.
 - Progress (shard: packets done): 2: 12/12, 3: 8/8
 
 ## Bengali naturalness wave (2026-10-15, user: "some text appear as AI translation, not like bangla human talk")
