@@ -21,23 +21,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-Layl opens with three oaths before it says anything. 92:1 swears by the night when it covers, 92:2 by the day when it appears, and 92:3 by the One who created the male and the female. Ibn Kathir draws the obvious line: just as the things sworn by are set out as opposites, so is the matter being sworn about. The oath is not decoration before the point; it is a demonstration of the point in three quick strokes.",
-            "bn": "সূরা আল-লাইল কিছু বলার আগেই তিনটি শপথ দিয়ে শুরু হয়। 92:1 শপথ করে রাতের, যখন সে ঢেকে দেয়; 92:2 শপথ করে দিনের, যখন সে উদ্ভাসিত হয়; আর 92:3 শপথ করে তাঁর, যিনি পুরুষ ও নারী সৃষ্টি করেছেন। ইবনে কাসীর স্পষ্ট সূত্রটি টেনে দেন: যেসব জিনিসের শপথ করা হচ্ছে সেগুলো যেমন বিপরীত জোড়ায় সাজানো, যে বিষয়ে শপথ করা হচ্ছে সেটিও তেমনই। শপথ এখানে মূল কথার আগে কেবল অলংকার নয়; তিনটি দ্রুত টানে মূল কথারই প্রদর্শন।"
+            "bn": "সূরা আল-লাইল কোনো কথা বলার আগেই তিনটি শপথ করে। ৯২:১-এ রাতের শপথ, যখন তা ঢেকে ফেলে; ৯২:২-এ দিনের শপথ, যখন তা আলোয় উদ্ভাসিত হয়; আর ৯২:৩-এ তাঁর শপথ, যিনি নর ও নারী সৃষ্টি করেছেন। ইবনে কাসীর এখান থেকে সহজ সিদ্ধান্তটি টানেন: যেসব জিনিসের শপথ করা হয়েছে সেগুলো যেমন একে অপরের বিপরীত, যে কথার ওপর শপথ, সেটিও তেমনি বিপরীত দুই ভাগে বিভক্ত। শপথগুলো তাই মূল কথার আগের সাজসজ্জা নয়। তিন টানেই এরা মূল কথাটা দেখিয়ে দেয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Your Striving Is Scattered",
-          "bn": "তোমাদের চেষ্টা ছড়িয়ে আছে"
+          "bn": "তোমাদের চেষ্টা নানামুখী"
         },
         "p": [
           {
             "en": "Then the answer, in three words: inna sa'yakum lashatta. Sa'y is effort that moves — labouring, pressing forward, the same word that names the walking between Safa and Marwah. Shatta is a plural, and its sense is scattered and divergent rather than merely unequal. The verse does not say some of you strive more than others. It says the strivings themselves head off in different directions, which is a claim about aim rather than about quantity.",
-            "bn": "এরপর তিন শব্দে জবাব: 'ইন্না সা'ইয়াকুম লাশাত্তা'। 'সা'ই' হলো চলমান প্রচেষ্টা — খাটুনি, সামনে এগিয়ে যাওয়া; সাফা ও মারওয়ার মধ্যে দৌড়ানোকেও এই শব্দেই ডাকা হয়। 'শাত্তা' একটি বহুবচন, আর এর অর্থ ছড়ানো ও বিভিন্নমুখী — কেবল কমবেশি নয়। আয়াতটি বলছে না যে তোমাদের কেউ কেউ অন্যদের চেয়ে বেশি চেষ্টা করে। বলছে, চেষ্টাগুলো নিজেরাই ভিন্ন ভিন্ন দিকে ছুটে যায় — অর্থাৎ কথাটি পরিমাণ নিয়ে নয়, অভিমুখ নিয়ে।"
+            "bn": "এরপর আসে জবাব, মাত্র তিন শব্দে: 'ইন্না সা'ইয়াকুম লাশাত্তা'। 'সা'ই' মানে এমন চেষ্টা, যাতে চলা আছে: খাটা, সামনে এগোনো। সাফা ও মারওয়ার মাঝে যে হাঁটা, তার নামও এই শব্দ থেকেই। 'শাত্তা' বহুবচন। এর অর্থ শুধু কমবেশি নয়, বরং ছড়ানো, ভিন্ন ভিন্ন দিকে যাওয়া। আয়াতটি এ কথা বলছে না যে তোমাদের কেউ কেউ অন্যদের চেয়ে বেশি খাটে। বলছে, চেষ্টাগুলোই ভিন্ন ভিন্ন দিকে ছুটে চলেছে। অর্থাৎ কথাটা পরিমাণ নিয়ে নয়, লক্ষ্য নিয়ে।"
           },
           {
             "en": "This sits alongside the older statement in 53:39, that a man has nothing except what he strove for. That verse establishes ownership: your effort is yours and nobody else's. This one adds the question ownership does not answer, because a securely owned effort can still be pointed at nothing. Read together they close a loop — the striving is registered to you, and the direction it took is registered with it. Busyness is never the achievement; it is only the raw material.",
-            "bn": "এটি 53:39-এর প্রাচীন ঘোষণার পাশে এসে বসে: মানুষ যা চেষ্টা করেছে তা ছাড়া তার জন্য কিছুই নেই। ওই আয়াত মালিকানা প্রতিষ্ঠা করে — আপনার প্রচেষ্টা আপনারই, অন্য কারও নয়। আর এই আয়াত যোগ করে সেই প্রশ্নটি, মালিকানা যার জবাব দেয় না; কারণ নিরাপদে নিজের বলে গণ্য একটি প্রচেষ্টাও শূন্যের দিকে তাক করা থাকতে পারে। দুটি একসঙ্গে পড়লে বৃত্তটি সম্পূর্ণ হয় — প্রচেষ্টা আপনার নামে লেখা হয়, আর তার অভিমুখও তার সঙ্গেই লেখা হয়। ব্যস্ততা কখনোই অর্জন নয়; তা কেবল কাঁচামাল।"
+            "bn": "এ আয়াতের পাশে আছে আরও আগের একটি ঘোষণা, ৫৩:৩৯: মানুষ যা চেষ্টা করে, তা ছাড়া তার আর কিছুই নেই। সেই আয়াত মালিকানা ঠিক করে দেয়: আপনার চেষ্টা আপনারই, আর কারও নয়। এই আয়াত সেই প্রশ্নটা যোগ করে, যার জবাব মালিকানা দেয় না। কারণ চেষ্টা পুরোপুরি নিজের হলেও তা একেবারে লক্ষ্যহীন হতে পারে। দুটো একসঙ্গে পড়লে কথাটা পূর্ণ হয়: চেষ্টা আপনার নামে লেখা হয়, আর সেটা কোন দিকে গেল, তাও তার সঙ্গেই লেখা থাকে। ব্যস্ত থাকা কখনো নিজে কোনো অর্জন নয়; ওটা কেবল কাঁচামাল।"
           }
         ]
       },
@@ -49,11 +49,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The surah then divides the scattered strivings into two, and gives each side three marks. 92:5-6: he who gives, and has taqwa, and affirms al-husna, the best. 92:8-9: he who withholds, and thinks himself free of need, and denies al-husna. The first mark on each side is about wealth, the third about believing the reward is real, and the middle one is the tell — taqwa on one side, istighna on the other, the illusion of needing nobody.",
-            "bn": "এরপর সূরাটি ছড়ানো প্রচেষ্টাগুলোকে দুই ভাগে ভাগ করে, আর প্রতিটি দিকে তিনটি করে চিহ্ন দেয়। 92:5-6: যে দান করে, আল্লাহকে ভয় করে, এবং 'আল-হুসনা' তথা উত্তম প্রতিদানকে সত্য মানে। 92:8-9: যে কৃপণতা করে, নিজেকে অভাবমুক্ত মনে করে, এবং 'আল-হুসনা'-কে অস্বীকার করে। দুই দিকেরই প্রথম চিহ্নটি সম্পদ নিয়ে, তৃতীয়টি উত্তম প্রতিদানকে সত্য মানা বা না-মানা নিয়ে; আর মাঝের চিহ্নটিই আসল পরিচায়ক — একদিকে তাক্বওয়া, অন্যদিকে 'ইস্তিগনা', অর্থাৎ কাউকে দরকার নেই এই বিভ্রম।"
+            "bn": "এরপর সূরাটি ছড়ানো চেষ্টাগুলোকে দুই ভাগে ভাগ করে, আর প্রতিটি ভাগের তিনটি করে চিহ্ন বলে দেয়। ৯২:৫-৬: যে দান করে, তাকওয়া অবলম্বন করে, আর 'আল-হুসনা', অর্থাৎ উত্তম প্রতিদানকে সত্য বলে মানে। ৯২:৮-৯: যে কৃপণতা করে, নিজেকে কারও মুখাপেক্ষী মনে করে না, আর 'আল-হুসনা'-কে মিথ্যা বলে। দুই দিকেই প্রথম চিহ্নটি সম্পদ নিয়ে, তৃতীয়টি প্রতিদানকে সত্য মানা বা না-মানা নিয়ে। আসল পরিচয় ধরা পড়ে মাঝেরটিতে: একদিকে তাকওয়া, অন্যদিকে 'ইস্তিগনা', অর্থাৎ আমার কাউকে দরকার নেই, এই ভ্রান্ত ধারণা।"
           },
           {
             "en": "The two consequences are stated in one shape with one word changed: We shall ease him toward al-yusra, ease, in 92:7; We shall ease him toward al-usra, hardship, in 92:10. Easing somebody toward hardship is a deliberately jarring phrase. The commentators read it as a description of how habit works: the road a person keeps choosing becomes the road he can travel without effort, and the other road slowly stops being available to him at all.",
-            "bn": "পরিণতি দুটি একই গঠনে বলা হয়েছে, কেবল একটি শব্দ বদলে: 92:7-এ 'আমি তার জন্য আল-ইউসরা তথা সহজ পথ সহজ করে দেব'; 92:10-এ 'আমি তার জন্য আল-উসরা তথা কঠিন পথ সহজ করে দেব'। কাউকে কাঠিন্যের দিকে সহজ করে দেওয়া — কথাটি ইচ্ছাকৃতভাবেই ধাক্কা দেয়। মুফাসসিরগণ একে অভ্যাসের বর্ণনা হিসেবে পড়েন: মানুষ যে পথ বারবার বেছে নেয়, সেটিই তার জন্য বিনা চেষ্টায় চলার পথ হয়ে যায়, আর অন্য পথটি ধীরে ধীরে তার নাগালের বাইরে চলে যেতে থাকে।"
+            "bn": "দুই পরিণতি একই ছাঁচে বলা, শুধু একটি শব্দ আলাদা। ৯২:৭-এ: 'আমি তার জন্য আল-ইউসরা, অর্থাৎ সহজ পথ সহজ করে দেব'; ৯২:১০-এ: 'আমি তার জন্য আল-উসরা, অর্থাৎ কঠিন পথ সহজ করে দেব'। কঠিনের দিকে কাউকে সহজ করে দেওয়া, কথাটা কানে খটকা লাগে, আর তা ইচ্ছা করেই। মুফাসসিরগণ একে অভ্যাসের বর্ণনা হিসেবে পড়েন: মানুষ যে পথ বারবার বেছে নেয়, সে পথে চলা তার জন্য অনায়াস হয়ে যায়। আর অন্য পথটি ধীরে ধীরে সরে যেতে যেতে একসময় একেবারেই তার নাগালের বাইরে চলে যায়।"
           }
         ]
       },
@@ -65,7 +65,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari records from Ali ibn Abi Talib (RA) that the Companions were at a funeral in the Baqi cemetery when the Prophet ﷺ told them that there is none among them but his place in the Garden and his place in the Fire has already been written. They asked whether they should then rely on that. He answered: Work, for everyone will find easy that for which he was created. Then he recited these very verses, 92:5-10, as the proof.",
-            "bn": "ইমাম বুখারী আলী ইবনে আবী তালিব (রাঃ) থেকে বর্ণনা করেন, সাহাবীগণ বাকী কবরস্থানে এক জানাযায় ছিলেন, তখন নবী ﷺ তাঁদের বলেন যে তাঁদের প্রত্যেকেরই জান্নাতের ঠিকানা ও জাহান্নামের ঠিকানা ইতিমধ্যেই লিখে দেওয়া হয়েছে। তাঁরা জিজ্ঞেস করলেন, তবে কি তাঁরা সেটির ওপর ভরসা করে বসে থাকবেন? তিনি উত্তর দিলেন: আমল করো, কারণ যাকে যে জন্য সৃষ্টি করা হয়েছে তার জন্য সেটিই সহজ করে দেওয়া হয়। এরপর তিনি প্রমাণ হিসেবে এই আয়াতগুলোই — 92:5-10 — তিলাওয়াত করেন।"
+            "bn": "ইমাম বুখারী আলী ইবনে আবী তালিব (রাঃ) থেকে বর্ণনা করেছেন: সাহাবীগণ বাকী কবরস্থানে এক জানাযায় ছিলেন। তখন নবী ﷺ তাঁদের বললেন, তাঁদের প্রত্যেকেরই জান্নাতের ঠিকানা ও জাহান্নামের ঠিকানা আগেই লেখা হয়ে গেছে। তাঁরা জিজ্ঞেস করলেন, তাহলে কি আমরা সেই লেখার ওপর ভরসা করে বসে থাকব? তিনি বললেন: আমল করো, কারণ যাকে যে জন্য সৃষ্টি করা হয়েছে, তার জন্য সেটিই সহজ করে দেওয়া হয়। এরপর প্রমাণ হিসেবে তিনি এই আয়াতগুলোই তিলাওয়াত করলেন: ৯২:৫-১০।"
           }
         ]
       },
@@ -77,7 +77,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "92:17-21 closes with a portrait of the one kept furthest from the Fire: al-atqa, who gives his wealth yatazakka, purifying himself by it, who is not repaying anyone's favour, but seeks only the face of his Lord Most High — and he is going to be pleased. Notice the verb yatazakka, from the same root as 91:9. Giving is not described here as a transfer of money but as a method of cleaning the giver.",
-            "bn": "92:17-21 শেষ হয় এমন একজনের প্রতিকৃতি দিয়ে, যাকে আগুন থেকে সবচেয়ে দূরে রাখা হবে: 'আল-আতক্বা', যে নিজের সম্পদ দান করে 'ইয়াতাযাক্কা' — অর্থাৎ তা দিয়ে নিজেকে পরিশুদ্ধ করতে; যে কারও অনুগ্রহের প্রতিদান দিচ্ছে না, বরং কেবল তার সর্বোচ্চ প্রতিপালকের সন্তুষ্টি চায় — আর সে অবশ্যই সন্তুষ্ট হবে। 'ইয়াতাযাক্কা' ক্রিয়াটি লক্ষ করুন, 91:9-এর সঙ্গে একই ধাতুমূল। দান এখানে টাকা হস্তান্তর হিসেবে নয়, বরং দাতাকে পরিষ্কার করার পদ্ধতি হিসেবে বর্ণিত।"
+            "bn": "৯২:১৭-২১ সূরাটি শেষ করে এমন একজনের ছবি এঁকে, যাকে আগুন থেকে সবচেয়ে দূরে রাখা হবে। সে 'আল-আতকা', যে নিজের সম্পদ দান করে 'ইয়াতাযাক্কা', অর্থাৎ তা দিয়ে নিজেকে পরিশুদ্ধ করতে। সে কারও অনুগ্রহের শোধ দিচ্ছে না; চায় কেবল তার সুমহান রবের চেহারা। আর অচিরেই সে সন্তুষ্ট হবে। 'ইয়াতাযাক্কা' ক্রিয়াটি খেয়াল করুন: ৯১:৯-এর ক্রিয়ার সঙ্গে এর ধাতুমূল একই। দান এখানে এক হাত থেকে আরেক হাতে টাকা যাওয়া নয়; দান হলো দাতাকে পরিষ্কার করার উপায়।"
           }
         ]
       },
@@ -89,11 +89,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse asks a question that a calendar can answer honestly. Not how hard did I work this week, which almost everyone passes, but where did the week's effort point. Sort the hours into what serves only the next few years and what will still be standing after them, and the sorting is the tafsir. Two people at identical desks, identically tired, can be on opposite sides of 92:4, and neither of them can tell from the tiredness.",
-            "bn": "আয়াতটি এমন এক প্রশ্ন করে, যার সৎ জবাব ক্যালেন্ডার দিতে পারে। প্রশ্নটি 'এই সপ্তাহে আমি কত পরিশ্রম করলাম' নয় — সেই পরীক্ষায় প্রায় সবাই পাস করে — বরং 'এই সপ্তাহের পরিশ্রম কোন দিকে তাক করা ছিল'। ঘণ্টাগুলোকে ভাগ করুন: কোনটি কেবল আগামী কয়েক বছরের কাজে লাগবে, আর কোনটি তারপরও দাঁড়িয়ে থাকবে; এই ভাগ করাটাই তাফসীর। একই টেবিলে বসা, সমান ক্লান্ত দুজন মানুষ 92:4-এর দুই বিপরীত পাশে থাকতে পারে, আর ক্লান্তি দেখে কেউই তা বুঝতে পারবে না।"
+            "bn": "আয়াতটি এমন এক প্রশ্ন তোলে, যার সত্যিকারের জবাব আপনার ক্যালেন্ডারেই আছে। প্রশ্নটা এই নয় যে এ সপ্তাহে আমি কত খেটেছি; সে পরীক্ষায় প্রায় সবাই পাস করে। প্রশ্ন হলো, এ সপ্তাহের খাটুনি কোন দিকে গেছে। ঘণ্টাগুলো দুই ভাগ করুন: কোনগুলো শুধু সামনের কয়েক বছরের কাজে লাগবে, আর কোনগুলো তার পরও টিকে থাকবে। এই ভাগ করাটাই এ আয়াতের তাফসীর। একই রকম টেবিলে বসা, সমান ক্লান্ত দুজন মানুষ ৯২:৪-এর দুই বিপরীত দিকে থাকতে পারেন, আর ক্লান্তি দেখে তাঁদের কেউই তা টের পাবেন না।"
           },
           {
             "en": "The good news in the surah is that the sorting mark is small and daily. Giving, taqwa and believing that the best reward is real: none of these requires a change of career or circumstance, and all three can be started this afternoon. And the easing runs both ways, which means the first few deliberate steps in the better direction are the hardest ones you will have to take without help.",
-            "bn": "সূরার সুসংবাদ হলো, ভাগ করার চিহ্নটি ছোট এবং দৈনন্দিন। দান করা, তাক্বওয়া, আর উত্তম প্রতিদান সত্য বলে বিশ্বাস করা — এর কোনোটির জন্যই পেশা বা পরিস্থিতি বদলাতে হয় না, আর তিনটিই আজ বিকেলে শুরু করা যায়। আর সহজ করে দেওয়ার নিয়মটি দুই দিকেই কাজ করে; অর্থাৎ ভালো দিকে সচেতনভাবে ফেলা প্রথম কয়েকটি পদক্ষেপই সবচেয়ে কঠিন, যেগুলো সাহায্য ছাড়াই ফেলতে হবে।"
+            "bn": "সূরার সুসংবাদ হলো, যে চিহ্নে মানুষ দুই ভাগ হয়, তা ছোট আর রোজকার। দান, তাকওয়া, আর উত্তম প্রতিদান সত্য বলে বিশ্বাস: এর কোনোটির জন্য পেশা বা অবস্থা বদলাতে হয় না, তিনটিই আজ বিকেলেই শুরু করা যায়। আর সহজ করে দেওয়া দুই দিকেই চলে। তার মানে, ভালো দিকে জেনেবুঝে ফেলা প্রথম কয়েকটি পা-ই সবচেয়ে কঠিন; কেবল এগুলোই আপনাকে সাহায্য ছাড়া ফেলতে হবে।"
           }
         ]
       }
@@ -425,7 +425,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The first word is the hinge. Al-Qurtubi reads illa here as lakin, but, and calls it a disconnected exception, istithna' munqati', which is why the noun after it is in the accusative. His example is the sentence: there is no one in the house except a donkey. The donkey is not among the people denied; it is of another kind. In the same way, seeking the Lord's face is not another favour being repaid. Al-Baghawi likewise glosses illa simply as lakin.",
-            "bn": "প্রথম শব্দটাই কবজা। কুরতুবী এখানে ইল্লাকে পড়েন লাকিন অর্থে, মানে কিন্তু। তিনি একে বলেন বিচ্ছিন্ন ব্যতিক্রম, ইসতিসনা মুনকাতি'। এ কারণেই পরের শব্দটি নসব অবস্থায় এসেছে। তাঁর উদাহরণ: ঘরে কেউ নেই, একটা গাধা ছাড়া। গাধাটি যাদের অস্বীকার করা হলো সেই মানুষদের একজন নয়, সে অন্য জাতের। তেমনি রবের চেহারা চাওয়াও শোধ করা হচ্ছে এমন আরেকটি অনুগ্রহ নয়। বাগাভীও ইল্লার ব্যাখ্যায় সংক্ষেপে বলেন: লাকিন।"
+            "bn": "সবকিছু ঘুরছে প্রথম শব্দটিকে ঘিরে। কুরতুবী এখানে ইল্লাকে পড়েন লাকিন অর্থে, মানে কিন্তু। তিনি একে বলেন বিচ্ছিন্ন ব্যতিক্রম, ইসতিসনা মুনকাতি'। এ কারণেই পরের শব্দটি নসব অবস্থায় এসেছে। তাঁর উদাহরণ: ঘরে কেউ নেই, একটা গাধা ছাড়া। যে মানুষদের না থাকার কথা বলা হলো, গাধাটি তাদের একজন নয়; সে অন্য জাতের। তেমনি রবের চেহারা চাওয়াও শোধ করা হচ্ছে এমন আরেকটি অনুগ্রহ নয়। বাগাভীও ইল্লার ব্যাখ্যায় সংক্ষেপে বলেন: লাকিন।"
           },
           {
             "en": "Al-Qurtubi adds that the nominative is also allowed, and reports that Yahya ibn Waththab read ibtigha'u, in the dialect of those who permit the nominative in what is excepted. He cites poetry for the usage and a Qur'anic instance, 4:66: ma fa'aluhu illa qalilun minhum, they would not have done it, except a few of them. He also allows a third parsing, ibtigha' as an object of purpose, since the sense is that he gives his wealth only to seek his Lord's face, not to repay a favour.",
