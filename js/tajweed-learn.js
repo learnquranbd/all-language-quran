@@ -153,7 +153,25 @@ class TajweedLearn {
       if (e.target.closest('[data-lp-qplay]')) { this.lpQuizPlay(); return; }
       const qpick = e.target.closest('[data-lp-qpick]');
       if (qpick) { this.lpQuizPick(parseInt(qpick.getAttribute('data-lp-qpick'), 10)); return; }
-      if (e.target.closest('[data-lp-qnext]')) { this.lpQuiz.i++; this.lpQuiz.picked = null; this.lpQuizRefresh(); this.lpQuizPlay(); return; }
+      if (e.target.closest('[data-lp-qnext]')) {
+        const Q = this.lpQuiz;
+        Q.i++; Q.picked = null;
+        this.lpQuizRefresh();
+        if (Q.i < Q.qs.length) this.lpQuizPlay();
+        else if (typeof LetterProgress !== 'undefined' && LetterProgress.quiz(Q.letter, Q.score, Q.qs.length)) this.lpProgressRefresh();
+        return;
+      }
+      if (e.target.closest('[data-lp-mark]')) {
+        if (typeof LetterProgress !== 'undefined') { LetterProgress.toggleMark(this.lpLetter); this.lpProgressRefresh(); }
+        return;
+      }
+      if (e.target.closest('[data-lp-goquiz]')) {
+        const qbox = this.container.querySelector('#lp-quiz');
+        if (qbox) qbox.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        return;
+      }
+      const span = e.target.closest('[data-lp-span]');
+      if (span) { this.lpHeard('span:' + span.getAttribute('data-lp-span')); this.lpPlaySpan(span); return; }
       const lpGoto = e.target.closest('[data-lp-goto]');
       if (lpGoto) {
         this.openLetters(lpGoto.getAttribute('data-lp-goto'));
@@ -235,7 +253,11 @@ class TajweedLearn {
         return;
       }
       const play = e.target.closest('[data-ayah-audio]');
-      if (play) { this.toggleAyahAudio(play); return; }
+      if (play) {
+        if (this.view === 'letters' && play.closest('#lp-panel')) this.lpHeard(play.getAttribute('data-ayah-audio'));
+        this.toggleAyahAudio(play);
+        return;
+      }
       // Ref badge → shared verse modal with word-by-word audio (checked AFTER 🔊)
       const ref = e.target.closest('[data-ayah-ref]');
       if (ref && typeof ayahModal !== 'undefined' && ayahModal) ayahModal.open(ref.getAttribute('data-ayah-ref'));
@@ -254,6 +276,7 @@ class TajweedLearn {
     }
     if (this._playingBtn === btn && !this._audio.paused) { this._audio.pause(); return; }
     this.resetPlayIcon();
+    this.lpSpanStop();
     this._audio.src = btn.getAttribute('data-ayah-audio');
     this._audio.play().then(() => {
       this._playingBtn = btn;
@@ -630,7 +653,7 @@ class TajweedLearn {
     const label = btn.innerHTML;
     btn.innerHTML = '…';
     const lang = this.language;
-    const gloss = this.lpGlossOf(w.r);
+    const gloss = w.w.indexOf(' ') >= 0 ? '' : this.lpGlossOf(w.r);
     LetterPracticeRules.occurrences(w.w, key, exact).then(o => {
       btn.innerHTML = label;
       const num = n => Number(n).toLocaleString(lang === 'bn' ? 'bn-BD' : (lang || 'en'));
@@ -870,6 +893,210 @@ class TajweedLearn {
       </div>`;
   }
 
+  /** Count a word or ayah heard on the selected letter's page (LetterProgress step 1). */
+  lpHeard(id) {
+    if (typeof LetterProgress !== 'undefined' && id && LetterProgress.heard(this.lpLetter, id)) this.lpProgressRefresh();
+  }
+
+  /** Repaint the progress card, the mastered count and the picker badges in place. */
+  lpProgressRefresh() {
+    const sel = LETTER_PRACTICE_LETTERS.find(l => l.key === this.lpLetter);
+    const box = this.container.querySelector('#lp-progress');
+    if (box && sel) box.outerHTML = this.lpProgressHtml(sel.key);
+    const sum = this.container.querySelector('#lp-summary');
+    if (sum) sum.outerHTML = this.lpSummaryHtml();
+    const picker = this.container.querySelector('#lp-picker');
+    if (picker && sel) picker.innerHTML = this.lpPickerHtml(sel);
+  }
+
+  /** "Letters mastered: n/29" with a bar, above the picker. */
+  lpSummaryHtml() {
+    if (typeof LetterProgress === 'undefined') return '<div id="lp-summary"></div>';
+    const s = LetterProgress.summary();
+    const pct = Math.round(s.mastered * 100 / s.total);
+    const num = n => Number(n).toLocaleString(this.language === 'bn' ? 'bn-BD' : (this.language || 'en'));
+    const label = this.tt('tj_lp_mastered', 'Letters mastered: {n}/{t}').split('{n}').join(num(s.mastered)).split('{t}').join(num(s.total));
+    return `
+      <div id="lp-summary" class="flex items-center gap-3 mb-2 max-w-md mx-auto">
+        <span class="text-xs font-semibold text-gray-600 dark:text-gray-300 whitespace-nowrap">⭐ ${label}</span>
+        <div class="flex-1 h-1.5 rounded-full bg-gray-200 dark:bg-gray-700 overflow-hidden">
+          <div class="h-full rounded-full bg-gradient-to-r from-violet-400 to-purple-600" style="width:${pct}%"></div>
+        </div>
+      </div>`;
+  }
+
+  /** Letter buttons; a ✓ marks a mastered letter, a dot one that has been started. */
+  lpPickerHtml(sel) {
+    const store = typeof LetterProgress !== 'undefined';
+    return LETTER_PRACTICE_LETTERS.map(l => {
+      const st = store ? LetterProgress.status(l.key) : null;
+      const badge = st && st.mastered
+        ? '<span class="absolute -top-1 -end-1 w-4 h-4 rounded-full bg-green-500 text-white text-[9px] leading-4 text-center shadow">✓</span>'
+        : st && st.started ? '<span class="absolute top-1 end-1 w-1.5 h-1.5 rounded-full bg-amber-400"></span>' : '';
+      return `
+      <button data-lp-letter="${l.key}" aria-pressed="${l.key === sel.key}" title="${l.translit}"
+        class="relative flex flex-col items-center justify-center rounded-lg border py-1.5 ${l.key === sel.key
+          ? 'bg-primary text-white border-primary'
+          : 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-800 dark:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-700'}">
+        ${badge}
+        <span class="ayah-arabic !text-2xl !leading-normal" dir="rtl">${l.key}</span>
+        <span class="text-[10px] opacity-70 leading-none pb-0.5">${l.translit}</span>
+      </button>`;
+    }).join('');
+  }
+
+  /** The three steps to master the selected letter: hear 10 words, pass the ear test, tick "I can say it". */
+  lpProgressHtml(key) {
+    if (typeof LetterProgress === 'undefined') return '<div id="lp-progress"></div>';
+    const st = LetterProgress.status(key);
+    const num = n => Number(n).toLocaleString(this.language === 'bn' ? 'bn-BD' : (this.language || 'en'));
+    const step = (done, icon, label, detail, attr) => `
+      <${attr ? 'button' : 'div'} ${attr || ''} class="flex items-center gap-2 rounded-lg px-2.5 py-2 text-start border ${done
+        ? 'border-green-300 bg-green-50 dark:border-green-500/40 dark:bg-green-500/10'
+        : 'border-gray-200 bg-gray-50 dark:border-gray-700 dark:bg-gray-900/40'}${attr ? ' hover:border-primary' : ''}">
+        <span class="w-6 h-6 shrink-0 rounded-full flex items-center justify-center text-xs ${done ? 'bg-green-500 text-white' : 'bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600'}">${done ? '✓' : icon}</span>
+        <span class="min-w-0 text-sm text-gray-700 dark:text-gray-200 leading-snug">${label}${detail ? ` <span class="block text-xs text-gray-500 dark:text-gray-400">${detail}</span>` : ''}</span>
+      </${attr ? 'button' : 'div'}>`;
+    const hear = step(st.heard >= st.hear, '🔊',
+      this.tt('tj_lp_prog_hear', 'Hear {n} different words').split('{n}').join(num(st.hear)), `${num(st.heard)}/${num(st.hear)}`);
+    const quiz = st.hasQuiz ? step(st.quiz !== null && st.quiz >= st.pass, '🎧',
+      this.tt('tj_lp_prog_quiz', 'Ear test: {p}% or more').split('{p}').join(num(st.pass)),
+      st.quiz !== null ? this.tt('tj_lp_prog_best', 'Best: {p}%').split('{p}').join(num(st.quiz)) : '', 'data-lp-goquiz') : '';
+    const say = step(st.marked, '✋', this.tt('tj_lp_prog_say', 'I can say it clearly'),
+      st.marked ? '' : this.tt('tj_lp_prog_say_hint', 'Tick when you can say it from its makhraj'), `data-lp-mark aria-pressed="${st.marked}"`);
+    return `
+      <div id="lp-progress" class="rounded-xl bg-white dark:bg-gray-800 border ${st.mastered ? 'border-green-400 dark:border-green-500/60' : 'border-gray-200 dark:border-gray-700'} p-4 mb-4">
+        <div class="flex flex-wrap items-center gap-2 mb-2">
+          <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 me-auto">${this.tt('tj_lp_prog_title', 'Your progress')}</h3>
+          <span class="text-xs px-2 py-0.5 rounded-full ${st.mastered ? 'bg-green-100 text-green-700 dark:bg-green-500/20 dark:text-green-300' : 'bg-gray-100 text-gray-600 dark:bg-gray-700 dark:text-gray-300'}">${st.mastered
+            ? '⭐ ' + this.tt('tj_lp_prog_mastered', 'Mastered')
+            : this.tt('tj_lp_prog_steps', '{d} of {n} steps').split('{d}').join(num(st.done)).split('{n}').join(num(st.total))}</span>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-${st.hasQuiz ? 3 : 2} gap-2">${hear}${quiz}${say}</div>
+      </div>`;
+  }
+
+  /**
+   * Play two words of an ayah together (a noon/meem junction) from the ayah
+   * recording, cut with quran.com's word timings. Falls back to the two word
+   * clips one after the other when the timings cannot be fetched.
+   */
+  lpPlaySpan(btn) {
+    const ref = btn.getAttribute('data-lp-span');
+    const [s, a, w] = ref.split(':').map(Number);
+    const key = s + ':' + a;
+    if (!this._audio) {
+      this._audio = new Audio();
+      this._audio.addEventListener('pause', () => this.resetPlayIcon());
+    }
+    const au = this._audio;
+    this.resetPlayIcon();
+    this.lpSpanStop();
+    au.pause();
+    const token = this._spanToken = (this._spanToken || 0) + 1;
+    if (!this._lpSeg) this._lpSeg = {};
+    const seg = this._lpSeg[key] || (this._lpSeg[key] = fetch(`${QuranData.apiBase}/recitations/7/by_ayah/${key}?fields=segments`)
+      .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then(d => {
+        const f = (d.audio_files || [])[0];
+        if (!f || !f.url || !Array.isArray(f.segments)) throw new Error('no segments');
+        const url = /^https?:/.test(f.url) ? f.url : f.url.startsWith('//') ? 'https:' + f.url : 'https://verses.quran.com/' + f.url.replace(/^\//, '');
+        return { url, segs: f.segments.map(x => x.map(Number)) };
+      })
+      .catch(e => { delete this._lpSeg[key]; throw e; }));
+    seg.then(({ url, segs }) => {
+      if (token !== this._spanToken) return;
+      const first = segs.find(x => x[1] === w), last = segs.find(x => x[1] === w + 1);
+      if (!first || !last) throw new Error('word not timed');
+      const start = Math.max(0, first[2] - 40) / 1000, end = (last[3] + 60) / 1000;
+      const go = () => {
+        if (token !== this._spanToken) return;
+        au.currentTime = start;
+        au.play().catch(() => {});
+        this._spanTimer = setInterval(() => { if (au.paused || au.currentTime >= end) { au.pause(); this.lpSpanStop(); } }, 30);
+      };
+      if (au.src === url && au.readyState >= 1) go();
+      else { au.src = url; au.addEventListener('loadedmetadata', go, { once: true }); au.load(); }
+    }).catch(() => {
+      if (token !== this._spanToken) return;
+      // Fallback: the two word recordings back to back.
+      au.src = this.lpWordAudio(ref);
+      au.addEventListener('ended', () => {
+        if (token !== this._spanToken) return;
+        au.src = this.lpWordAudio(`${s}:${a}:${w + 1}`);
+        au.play().catch(() => {});
+      }, { once: true });
+      au.play().catch(() => {});
+    });
+  }
+
+  /** End span playback; the token bump also cancels a pending fetch, load or fallback. */
+  lpSpanStop() {
+    if (this._spanTimer) { clearInterval(this._spanTimer); this._spanTimer = null; }
+    this._spanToken = (this._spanToken || 0) + 1;
+  }
+
+  /** A junction example with the noon/tanween/meem in the rule's colour and the next letter in the letter's. */
+  lpJunctionHtml(text, ci, ruleColor, letterColor) {
+    const ws = text.split(' ');
+    const mark = (t, c) => `<span style="color:${c};font-weight:700">${this.esc(t)}</span>`;
+    const w1 = LetterPracticeRules.analyse(ws[0]).map((c, i) => i === ci ? mark(c.text, ruleColor)
+      : ws.length === 1 && i === ci + 1 ? mark(c.text, letterColor) : this.esc(c.text)).join('');
+    if (ws.length === 1) return w1;
+    return w1 + ' ' + LetterPracticeRules.analyse(ws[1]).map((c, i) => i === 0 ? mark(c.text, letterColor) : this.esc(c.text)).join('');
+  }
+
+  /**
+   * What a noon sakinah, tanween or meem sakinah does right before this letter
+   * (izhar, idgham, ikhfa or iqlab), with real examples: one-word examples play
+   * the word, two-word ones the two words together from the ayah recitation.
+   */
+  lpBeforeHtml(key, color) {
+    const B = this.lpData && this.lpData.before && this.lpData.before[key];
+    if (!B) return '';
+    const num = n => Number(n).toLocaleString(this.language === 'bn' ? 'bn-BD' : (this.language || 'en'));
+    const ruleColor = r => ((typeof TAJWEED_RULES !== 'undefined' && TAJWEED_RULES[r]) || {}).color || '#64748B';
+    const occTitle = this.esc(this.tt('tj_lp_occ_btn', 'See every ayah with this word'));
+    const chips = (ex, rc) => ex.map(([text, r, n, ci]) => {
+      const two = text.indexOf(' ') >= 0;
+      const ayah = r.split(':').slice(0, 2).join(':');
+      return `
+        <div class="relative">
+          <button ${two ? `data-lp-span="${r}"` : `data-ayah-audio="${this.lpWordAudio(r)}"`} title="${r}" class="w-full h-full flex flex-col items-center rounded-lg bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-primary px-2 pt-1 pb-1">
+            <span class="absolute top-1.5 start-1.5 text-[10px] text-gray-400">🔊</span>
+            <span class="ayah-arabic !text-xl !leading-[2.1] mt-3" dir="rtl">${this.lpJunctionHtml(text, ci, rc, color)}</span>
+            <span class="text-[10px] font-mono text-gray-400 leading-tight">${ayah}</span>
+          </button>
+          <button data-lp-occw="${this.esc(text)}" data-lp-occr="${r}" data-lp-occk="${key}" data-lp-occx title="${occTitle}" aria-label="${occTitle}"
+            class="absolute top-1 end-1 text-[10px] font-medium px-1 py-0.5 rounded-full bg-primary/10 text-primary hover:bg-primary hover:text-white">📖 ×${num(n)}</button>
+        </div>`;
+    }).join('');
+    const ruleHead = r => `
+      <div class="flex flex-wrap items-start gap-2 mb-2">
+        <button data-tj-path="${r}" class="shrink-0 text-xs font-semibold px-2.5 py-1 rounded-full text-white hover:opacity-80" style="background:${ruleColor(r)}">${this.esc(this.ruleName(r))} ›</button>
+        <span class="flex-1 min-w-[12rem] text-sm text-gray-600 dark:text-gray-300 leading-relaxed" dir="auto">${this.esc(this.lesson(r))}</span>
+      </div>`;
+    const row = (label, total, ex, rc) => ex.length ? `
+      <p class="text-xs font-semibold text-gray-600 dark:text-gray-300 mb-1.5">${label} <span class="font-normal text-gray-400">· ${this.tt('tj_nb_count', '{n} times in the Quran').split('{n}').join(num(total))}</span></p>
+      <div dir="rtl" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-1.5 mb-3">${chips(ex, rc)}</div>` : '';
+    const box = inner => `<div class="rounded-xl bg-gray-50 dark:bg-gray-900/40 border border-gray-200 dark:border-gray-700 p-3 mb-3">${inner}</div>`;
+    const nc = ruleColor(B.rule), mc = ruleColor(B.meem[0]);
+    const mutlaq = B.mutlaq ? `
+      <div class="border-t border-gray-200 dark:border-gray-700 pt-3 mt-1">
+        ${ruleHead('izhar_mutlaq')}
+        ${row(this.tt('tj_nb_mutlaq', 'Inside one word'), B.mutlaq[0], B.mutlaq[1], ruleColor('izhar_mutlaq'))}
+      </div>` : '';
+    return `
+      <h3 class="text-sm uppercase tracking-wide font-semibold text-gray-400 dark:text-gray-500 mb-1">${this.tt('tj_nb_title', 'What happens before this letter')}</h3>
+      <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">${this.tt('tj_nb_hint', 'When a noon sakinah, tanween or meem sakinah comes right before {l}. Tap an example to hear the words together.').split('{l}').join(`<span class="ayah-arabic !text-base !leading-none" style="color:${color}" dir="rtl">${key}</span>`)}</p>
+      ${box(ruleHead(B.rule)
+        + row(this.tt('tj_nb_noon', 'Noon sakinah (نْ)'), B.noon[0], B.noon[1], nc)
+        + row(this.tt('tj_nb_tanween', 'Tanween (ـً ـٍ ـٌ)'), B.tan[0], B.tan[1], nc)
+        + mutlaq)}
+      ${B.meem[2].length ? box(ruleHead(B.meem[0]) + row(this.tt('tj_nb_meem', 'Meem sakinah (مْ)'), B.meem[1], B.meem[2], mc)) : ''}
+      <div class="mb-6"></div>`;
+  }
+
   /** The makhraj point of a letter (consonant و / ي use their lip / tongue point, not al-jawf). */
   lpMakhraj(key) {
     if (typeof MAKHARIJ_ZONES === 'undefined') return null;
@@ -905,20 +1132,14 @@ class TajweedLearn {
     };
     const num = n => Number(n).toLocaleString(lang === 'bn' ? 'bn-BD' : (lang || 'en'));
     const pad = n => String(n).padStart(3, '0');
-    const picker = letters.map(l => `
-      <button data-lp-letter="${l.key}" aria-pressed="${l.key === sel.key}" title="${l.translit}"
-        class="flex flex-col items-center justify-center rounded-lg border py-1.5 ${l.key === sel.key
-          ? 'bg-primary text-white border-primary'
-          : 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-800 dark:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-700'}">
-        <span class="ayah-arabic !text-2xl !leading-normal" dir="rtl">${l.key}</span>
-        <span class="text-[10px] opacity-70 leading-none pb-0.5">${l.translit}</span>
-      </button>`).join('');
+
     const head = `
       <div class="text-center mb-4">
         <h3 class="font-semibold text-gray-800 dark:text-gray-100">${this.tt('tj_lp_title', 'Letter practice')}</h3>
         <p class="text-sm text-gray-500 dark:text-gray-400 mt-1 max-w-2xl mx-auto">${this.tt('tj_lp_subtitle', "Choose a letter, then practise its makhraj on the Quran's most frequent words that contain it and on the ayahs where it comes most often.")}</p>
       </div>
-      <div dir="rtl" class="grid grid-cols-6 sm:grid-cols-8 md:grid-cols-10 gap-1.5 mb-4">${picker}</div>`;
+      ${this.lpSummaryHtml()}
+      <div id="lp-picker" dir="rtl" class="grid grid-cols-6 sm:grid-cols-8 md:grid-cols-10 gap-1.5 mb-4">${this.lpPickerHtml(sel)}</div>`;
 
     const D = this.lpData && this.lpData.letters[sel.key];
     if (!D) return head + `<div id="lp-panel"><p class="text-center text-gray-400 text-sm py-6">${this.tt('loading')}</p></div>`;
@@ -982,6 +1203,7 @@ class TajweedLearn {
             ${sel.key !== 'ء' ? `<button data-lp-kids="${sel.key}" class="mt-2 text-xs px-2.5 py-1 rounded-full border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">🧒 ${this.tt('tj_lp_kids', 'Forms and name (Kids)')} ›</button>` : ''}
           </div>
         </div>
+        ${this.lpProgressHtml(sel.key)}
         ${this.lpSifatHtml(sel.key, color)}
         <p class="text-xs text-gray-500 dark:text-gray-400 mb-4 leading-relaxed">ℹ️ ${this.tt('tj_lp_rule', 'Only places where the letter is said with its own sound are counted. Silent letters, a lam or nun that merges into the next letter, and the long vowels و and ي are left out.')}</p>
 
@@ -992,6 +1214,7 @@ class TajweedLearn {
         ${this.lpRaHtml(sel.key)}
         ${this.lpQalqalahHtml(sel.key, color)}
         ${this.lpHarakatHtml(sel.key, color)}
+        ${this.lpBeforeHtml(sel.key, color)}
         ${this.lpPairsHtml(sel.key)}
 
         <div class="flex flex-wrap items-center gap-2 mb-1">

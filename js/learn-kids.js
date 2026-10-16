@@ -537,10 +537,12 @@ class KidsQaida {
     const expanded = this.expandedLetter === letter.char;
 
     if (!expanded) {
+      const mastered = typeof LetterProgress !== 'undefined' && LetterProgress.status(letter.char).mastered;
       return `
         <button data-kids-letter="${letter.char}"
-                class="rounded-2xl bg-gradient-to-br ${grad} shadow hover:shadow-lg hover:scale-105
+                class="relative rounded-2xl bg-gradient-to-br ${grad} shadow hover:shadow-lg hover:scale-105
                        transition-all p-3 sm:p-4 min-h-[6rem] flex flex-col items-center justify-center">
+          ${mastered ? `<span class="absolute top-1.5 end-1.5 text-lg leading-none" title="${t('tj_lp_prog_mastered', lang)}">⭐</span>` : ''}
           <span class="ayah-arabic !text-5xl sm:!text-6xl !leading-tight" dir="rtl">${letter.char}</span>
         </button>
       `;
@@ -657,12 +659,37 @@ class KidsQaida {
       host.innerHTML = `
         <p class="text-center text-xs text-gray-500 dark:text-gray-400 mb-2">${t('kids_lp_words', lang)}</p>
         <div class="grid grid-cols-2 sm:grid-cols-4 gap-2" dir="rtl">${chips}</div>
+        ${this.letterStarsHtml(letterChar)}
         <div class="text-center mt-3">
           <button data-kids-lp-open="${letterChar}" class="px-4 py-2 rounded-full bg-primary text-white text-sm font-bold hover:bg-primary/80">🔤 ${t('kids_lp_more', lang)}</button>
         </div>`;
     } catch (err) {
       host.innerHTML = '';
     }
+  }
+
+  /**
+   * Stars for the letter's progress (LetterProgress: words heard, ear test, "I can
+   * say it") and the "I can say it!" button. Same store as Tajweed → Letter practice.
+   */
+  letterStarsHtml(char) {
+    if (typeof LetterProgress === 'undefined') return '';
+    const lang = this.language;
+    const st = LetterProgress.status(char);
+    const steps = t('tj_lp_prog_steps', lang).split('{d}').join(st.done).split('{n}').join(st.total);
+    return `
+      <div id="kids-lp-stars" class="flex flex-wrap items-center justify-center gap-3 mt-3">
+        <span class="text-xl tracking-wider" title="${steps}" aria-label="${steps}">${'⭐'.repeat(st.done)}<span class="opacity-30">${'⭐'.repeat(st.total - st.done)}</span></span>
+        <button data-kids-lp-say="${char}" aria-pressed="${st.marked}"
+                class="px-4 py-1.5 rounded-full text-sm font-bold shadow ${st.marked
+                  ? 'bg-green-500 text-white hover:bg-green-600'
+                  : 'bg-white/80 dark:bg-gray-900/50 text-gray-700 dark:text-gray-200 hover:bg-white dark:hover:bg-gray-900'}">${st.marked ? '✓' : '🙋'} ${t('kids_lp_say', lang)}</button>
+      </div>`;
+  }
+
+  refreshLetterStars() {
+    const box = this.root.querySelector('#kids-lp-stars');
+    if (box && this.expandedLetter) box.outerHTML = this.letterStarsHtml(this.expandedLetter);
   }
 
   /** Open the Letters section with one letter's card expanded (link from Tajweed → Letter practice). */
@@ -2465,6 +2492,16 @@ class KidsQaida {
     const wordChip = e.target.closest('.kq-wordchip');
     if (wordChip) {
       this.playWordChip(wordChip);
+      // A word heard on an open letter card counts towards that letter (shared with Letter practice)
+      if (this.expandedLetter && wordChip.closest('#kids-letter-practice') && typeof LetterProgress !== 'undefined'
+        && LetterProgress.heard(this.expandedLetter, wordChip.getAttribute('data-kids-word-audio'))) this.refreshLetterStars();
+      return;
+    }
+
+    const sayBtn = e.target.closest('[data-kids-lp-say]');
+    if (sayBtn && typeof LetterProgress !== 'undefined') {
+      LetterProgress.toggleMark(sayBtn.getAttribute('data-kids-lp-say'));
+      this.refreshLetterStars();
       return;
     }
 

@@ -21,6 +21,9 @@
  *        two Quranic words that are spelt alike except that one pronounced
  *        letter is swapped (أَلِيمٌ / عَلِيمٌ). Ranked by the rarer word's count.
  *
+ * before: per letter, what a noon sakinah, tanween or meem sakinah does in front
+ *        of it, with the most frequent real examples (see the block below).
+ *
  * Glosses come from data/wbw/<lang>.json for the languages that have native
  * word-by-word data; the page falls back to English for the rest.
  */
@@ -215,8 +218,119 @@ for (const cat of ['h_vowel', 'h_after', 'h_wasl', 'h_istila', 'l_vowel', 'l_aft
   });
 }
 
+/**
+ * before: what a noon sakinah, tanween or meem sakinah does before each letter.
+ * The rule depends only on the next letter, and the Madani marks agree with it
+ * (the noon or meem carries sukun exactly when it is izhar), so a junction whose
+ * marks disagree is a special reading and is skipped: the sakt in مَنْ رَاقٍ
+ * (75:27). Tanween before hamzat al-wasl is skipped (its nun takes a kasra), and
+ * junctions never cross an ayah end, where the reader stops.
+ *   before[k] = { rule, noon: [total, ex], tan: [total, ex], meem: [rule, total, ex], mutlaq: [total, ex] }
+ *   ex = [[text, ref of its first word, count, index of the noon/tanween/meem cluster], …]
+ * mutlaq: ي and و after a noon sakinah inside one word stay clear (ٱلدُّنْيَا).
+ */
+const NOON_RULE = {};
+for (const k of 'ءهعحغخ') NOON_RULE[k] = 'izhar_halqi';
+for (const k of 'ينمو') NOON_RULE[k] = 'idghaam_ghunnah';
+for (const k of 'لر') NOON_RULE[k] = 'idghaam_no_ghunnah';
+for (const k of 'تثجدذزسشصضطظفقك') NOON_RULE[k] = 'ikhfa';
+NOON_RULE['ب'] = 'iqlab';
+const meemRule = (k) => (k === 'م' ? 'idghaam_shafawi' : k === 'ب' ? 'ikhfa_shafawi' : 'izhar_shafawi');
+const VOWELLED = /[ً-ّٓ]/;
+const TANWEEN = /[ًٌٍ]/;
+const IQLAB_MARK = /[ۭۢ]/;
+/** The letter a following cluster starts with, or null (hamzat al-wasl, a madd letter). */
+const followKey = (c) => {
+  if (!c || c.base === 'ٱ') return null;
+  if ('أإءؤئ'.indexOf(c.base) >= 0 || c.marks.indexOf('ٔ') >= 0) return 'ء';
+  if (c.base === 'ى') return VOWELLED.test(c.marks) ? 'ي' : null;
+  return NOON_RULE[c.base] ? c.base : null;
+};
+const junctions = { noon: {}, tan: {}, meem: {}, mutlaq: {} };   // kind -> k -> text -> { n, r, ci }
+const skipped = [];
+const addJ = (kind, k, text, ref, ci) => {
+  const byText = junctions[kind][k] || (junctions[kind][k] = new Map());
+  const e = byText.get(text) || { n: 0, r: ref, ci };
+  e.n++;
+  byText.set(text, e);
+};
+for (const ref of Object.keys(WORDS)) {
+  const ws = WORDS[ref];
+  const cls = ws.map((w) => R.analyse(w));
+  ws.forEach((w, i) => {
+    const cl = cls[i];
+    const at = ref + ':' + (i + 1);
+    cl.forEach((c, j) => {
+      if ((c.base !== 'ن' && c.base !== 'م') || VOWELLED.test(c.marks) || /[۟۠]/.test(c.marks)) return;
+      const cross = j === cl.length - 1;
+      if (cross && i === ws.length - 1) return;
+      const k = followKey(cross ? cls[i + 1][0] : cl[j + 1]);
+      if (!k) return;
+      const text = cross ? w + ' ' + ws[i + 1] : w;
+      const rule = c.base === 'م' ? meemRule(k) : (!cross && (k === 'ي' || k === 'و') ? 'izhar_mutlaq' : NOON_RULE[k]);
+      if ((c.marks.indexOf('ْ') >= 0) !== rule.startsWith('izhar')) { skipped.push(at + ' ' + text); return; }
+      addJ(c.base === 'م' ? 'meem' : rule === 'izhar_mutlaq' ? 'mutlaq' : 'noon', k, text, at, j);
+    });
+    const tj = cl.findIndex((c) => TANWEEN.test(c.marks));
+    if (tj < 0 || i === ws.length - 1) return;
+    const k = followKey(cls[i + 1][0]);
+    if (!k) return;
+    const text = w + ' ' + ws[i + 1];
+    if (IQLAB_MARK.test(cl[tj].marks) !== (k === 'ب')) { skipped.push(at + ' ' + text); return; }
+    addJ('tan', k, text, at, tj);
+  });
+}
+/**
+ * The most frequent examples, at most `within` of them inside one word (heard
+ * with the word audio), then two-word junctions that repeat no word already
+ * shown; topped up by count when a rare letter runs out of fresh words.
+ */
+const pickJ = (byText, max, within) => {
+  const all = [...(byText || new Map()).entries()].sort((a, b) => b[1].n - a[1].n);
+  const out = [], used = new Set(), taken = new Set();
+  const take = (e) => {
+    out.push([e[0], e[1].r, e[1].n, e[1].ci]);
+    taken.add(e[0]);
+    e[0].split(' ').forEach((w) => used.add(R.wordKey(w)));
+  };
+  // One example per stem inside a word (أَنفُسَهُمْ / أَنفُسِهِمْ, عِندَ / عِندَهُۥ): bare letters
+  // without a leading و / ف or a pronoun ending.
+  const stems = new Set();
+  for (const e of all) {
+    if (stems.size >= within) break;
+    if (e[0].indexOf(' ') >= 0) continue;
+    const stem = R.analyse(e[0]).map((c) => c.base).join('').replace(/^[وف](?=...)/, '').replace(/(هما|هم|هن|ها|كم|كن|نا|ه|ك)$/, '');
+    if (!stems.has(stem)) { stems.add(stem); take(e); }
+  }
+  for (const e of all) {
+    if (out.length >= max) break;
+    if (e[0].indexOf(' ') >= 0 && !e[0].split(' ').some((w) => used.has(R.wordKey(w)))) take(e);
+  }
+  for (const e of all) {
+    if (out.length >= max) break;
+    if (!taken.has(e[0]) && e[0].indexOf(' ') >= 0) take(e);
+  }
+  return out;
+};
+const totalJ = (byText) => [...(byText || new Map()).values()].reduce((s, e) => s + e.n, 0);
+const before = {};
+for (const k of keys) {
+  if (!NOON_RULE[k]) continue;
+  const b = before[k] = {
+    rule: NOON_RULE[k],
+    noon: [totalJ(junctions.noon[k]), pickJ(junctions.noon[k], 6, 2)],
+    tan: [totalJ(junctions.tan[k]), pickJ(junctions.tan[k], 6, 0)],
+    meem: [meemRule(k), totalJ(junctions.meem[k]), pickJ(junctions.meem[k], 4, 1)]
+  };
+  if (junctions.mutlaq[k]) b.mutlaq = [totalJ(junctions.mutlaq[k]), pickJ(junctions.mutlaq[k], 4, 4)];
+}
+if (skipped.length) console.log('before: skipped (marks disagree with the rule):', skipped.join(' | '));
+for (const [x, y] of LETTER_CONFUSABLE) {
+  if (!pairs.some((p) => p[0] === x && p[1] === y)) console.log('WARNING: no minimal pairs for', x, y, '(LetterProgress expects an ear test)');
+}
+
 fs.mkdirSync(OUT, { recursive: true });
-fs.writeFileSync(path.join(OUT, 'core.json'), JSON.stringify({ letters, ayahs: ayahText, pairs, harakat, qalqalah, ra }));
+fs.writeFileSync(path.join(OUT, 'core.json'), JSON.stringify({ letters, ayahs: ayahText, pairs, harakat, qalqalah, ra, before }));
 
 for (const lang of GLOSS_LANGS) {
   const wbw = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/wbw', lang + '.json'), 'utf8'));

@@ -183,19 +183,24 @@ var LetterPracticeRules = (function () {
   /**
    * Every occurrence of a word-list entry: same wordKey with the letter
    * pronounced (the rule the ×N count was built with, so the list matches it),
-   * or with `exact` the identical spelling (the vowel and ra drills count spellings).
+   * or with `exact` the identical spelling (the vowel and ra drills count spellings;
+   * an exact two-word phrase, from the noon/meem junctions, marks both words).
    * Resolves to { n, refs: ['s:a', …] in mushaf order, each ayah once,
    * marks: { 's:a': [1-based word positions] } } — the shape ayahTimeline takes.
    */
   function occurrences(word, key, exact) {
     var target = wordKey(word);
+    var parts = word.split(' ');
     return QuranData.getQuranWords().then(function (all) {
       var refs = [], marks = {}, n = 0;
       Object.keys(all).forEach(function (ref) {
-        all[ref].forEach(function (w, i) {
-          if (exact ? w !== word : (wordKey(w) !== target || !count(w, key))) return;
+        var ws = all[ref];
+        ws.forEach(function (w, i) {
+          if (parts.length > 1) {
+            if (!parts.every(function (p, j) { return ws[i + j] === p; })) return;
+          } else if (exact ? w !== word : (wordKey(w) !== target || !count(w, key))) return;
           if (!marks[ref]) { marks[ref] = []; refs.push(ref); }
-          marks[ref].push(i + 1);
+          parts.forEach(function (p, j) { marks[ref].push(i + 1 + j); });
           n++;
         });
       });
@@ -206,4 +211,83 @@ var LetterPracticeRules = (function () {
   return { analyse: analyse, count: count, wordKey: wordKey, load: load, occurrences: occurrences };
 })();
 
-if (typeof module !== 'undefined') module.exports = { LETTER_PRACTICE_LETTERS: LETTER_PRACTICE_LETTERS, LETTER_SIFAT: LETTER_SIFAT, LETTER_CONFUSABLE: LETTER_CONFUSABLE, LetterPracticeRules: LetterPracticeRules };
+/**
+ * What a student has practised, per letter. Shared by Tajweed → Letter practice,
+ * Kids letters and the Learn hub card. localStorage 'letterProgress':
+ *   { key: { h: [ids of up to 10 different words/ayahs heard], q: best ear-test %, m: 1 } }
+ * A letter is mastered when every step that applies to it is done: 10 different
+ * words heard, the ear test at 80% or more (only letters with sound-alike pairs,
+ * i.e. those in LETTER_CONFUSABLE), and the student's own "I can say it" tick.
+ */
+var LetterProgress = (function () {
+  var STORE = 'letterProgress', HEAR = 10, PASS = 80;
+
+  function all() {
+    try {
+      var v = JSON.parse(localStorage.getItem(STORE) || '{}');
+      return v && typeof v === 'object' ? v : {};
+    } catch (e) { return {}; }
+  }
+  /** Apply fn to the letter's entry and save, unless fn returns false (nothing changed). */
+  function update(key, fn) {
+    var v = all(), e = v[key] || {};
+    if (fn(e) === false) return false;
+    v[key] = e;
+    try { localStorage.setItem(STORE, JSON.stringify(v)); } catch (err) { /* ignore */ }
+    return true;
+  }
+  function hasQuiz(key) {
+    return LETTER_CONFUSABLE.some(function (p) { return p[0] === key || p[1] === key; });
+  }
+
+  /** { heard, hear, quiz (best % or null), hasQuiz, pass, marked, done, total, started, mastered } */
+  function status(key, store) {
+    var e = (store || all())[key] || {};
+    var heard = Math.min((e.h || []).length, HEAR);
+    var quiz = typeof e.q === 'number' ? e.q : null;
+    var q = hasQuiz(key);
+    var steps = [heard >= HEAR, !!e.m];
+    if (q) steps.push(quiz !== null && quiz >= PASS);
+    var done = steps.filter(Boolean).length;
+    return {
+      heard: heard, hear: HEAR, quiz: quiz, hasQuiz: q, pass: PASS, marked: !!e.m,
+      done: done, total: steps.length, started: heard > 0 || quiz !== null || !!e.m, mastered: done === steps.length
+    };
+  }
+
+  return {
+    status: status,
+    /** Record one word or ayah heard (by its audio URL). True when it was new. */
+    heard: function (key, id) {
+      return update(key, function (e) {
+        var h = e.h || (e.h = []);
+        if (h.length >= HEAR || h.indexOf(id) >= 0) return false;
+        h.push(id);
+      });
+    },
+    /** Keep the best ear-test score. True when it beat the previous best. */
+    quiz: function (key, score, total) {
+      if (!total) return false;
+      var pct = Math.round(score * 100 / total);
+      return update(key, function (e) {
+        if (typeof e.q === 'number' && e.q >= pct) return false;
+        e.q = pct;
+      });
+    },
+    toggleMark: function (key) {
+      update(key, function (e) { if (e.m) delete e.m; else e.m = 1; });
+    },
+    /** { mastered, started, total } over all the letters. */
+    summary: function () {
+      var store = all(), out = { mastered: 0, started: 0, total: LETTER_PRACTICE_LETTERS.length };
+      LETTER_PRACTICE_LETTERS.forEach(function (l) {
+        var s = status(l.key, store);
+        if (s.mastered) out.mastered++;
+        if (s.started) out.started++;
+      });
+      return out;
+    }
+  };
+})();
+
+if (typeof module !== 'undefined') module.exports = { LETTER_PRACTICE_LETTERS: LETTER_PRACTICE_LETTERS, LETTER_SIFAT: LETTER_SIFAT, LETTER_CONFUSABLE: LETTER_CONFUSABLE, LetterPracticeRules: LetterPracticeRules, LetterProgress: LetterProgress };

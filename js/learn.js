@@ -168,6 +168,13 @@ class LearnHub {
         const total = (typeof TAJWEED_LESSONS !== 'undefined') ? Object.keys(TAJWEED_LESSONS).length : 0;
         return { started: n > 0, pct: total ? Math.round((n / total) * 100) : null, done: n, total, due: 0, learned: n, chips: [] };
       }
+      case 'letters': {
+        // letter-practice-rules.js: LetterProgress ('letterProgress'), letters mastered of 29
+        if (typeof LetterProgress === 'undefined') break;
+        const s = LetterProgress.summary();
+        if (!s.started) break;
+        return { started: true, pct: Math.round((s.mastered / s.total) * 100), done: s.mastered, total: s.total, due: 0, learned: s.mastered, chips: [] };
+      }
     }
     return { started: false, pct: null, done: 0, total: 0, due: 0, learned: 0, chips: [] };
   }
