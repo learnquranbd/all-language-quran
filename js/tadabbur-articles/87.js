@@ -96,7 +96,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "On the word al-a'la itself the fetched commentaries say little. At-Tabari, in the first reading he reports, explains it by a clause: there is no lord higher than He, nor greater. As-Sa'di says the tasbih is to mention His most beautiful names, which are high above every name, with their good and great meaning. The Muyassar asks for a declaration of purity that befits His greatness. Ma'arif al-Qur'an renders the phrase your most exalted Lord.",
+            "en": "On the word al-a'la itself the commentaries consulted here say little. At-Tabari, in the first reading he reports, explains it by a clause: there is no lord higher than He, nor greater. As-Sa'di says the tasbih is to mention His most beautiful names, which are high above every name, with their good and great meaning. The Muyassar asks for a declaration of purity that befits His greatness. Ma'arif al-Qur'an renders the phrase your most exalted Lord.",
             "bn": "আল-আ'লা শব্দটি নিয়ে সংগৃহীত তাফসীরগুলো খুব কম কথা বলে। তাবারী প্রথম যে ব্যাখ্যাটি উল্লেখ করেন, তাতে শব্দটির ব্যাখ্যা একটি বাক্যে: তাঁর চেয়ে উঁচু কোনো রব নেই, তাঁর চেয়ে বড়ও নেই। সা'দী বলেন, তাসবীহ মানে তাঁর সুন্দরতম নামগুলোর জিকির, যে নামগুলো সব নামের ঊর্ধ্বে, তাদের সুন্দর ও মহান অর্থসহ। মুয়াসসার চায় এমন পবিত্রতা ঘোষণা, যা তাঁর মহত্ত্বের উপযোগী। মাআরিফুল কুরআন অর্থ করে: তোমার সর্বোচ্চ মর্যাদাবান রব।"
           },
           {
@@ -184,7 +184,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "The Arabic gives yakhsha no object. It says only man yakhsha, whoever fears, and leaves the reader to ask: fears what? Each commentator fetched for this verse answers, and the answers overlap without being identical. Al-Baghawi supplies the object in two words: Allah, Mighty and Majestic. The Muyassar says whoever fears his Lord. Al-Qurtubi glosses it with two verbs, whoever is mindful of Allah, yattaqi, and fears Him. In each of these the fear has Allah as its object.",
+            "en": "The Arabic gives yakhsha no object. It says only man yakhsha, whoever fears, and leaves the reader to ask: fears what? Each commentator consulted for this verse answers, and the answers overlap without being identical. Al-Baghawi supplies the object in two words: Allah, Mighty and Majestic. The Muyassar says whoever fears his Lord. Al-Qurtubi glosses it with two verbs, whoever is mindful of Allah, yattaqi, and fears Him. In each of these the fear has Allah as its object.",
             "bn": "আরবিতে ইয়াখশা ক্রিয়ার কোনো কর্ম বলা নেই। শুধু মান ইয়াখশা, যে ভয় করে। পাঠকের মনে প্রশ্ন জাগে: কীসের ভয়? এ আয়াতের জন্য সংগৃহীত প্রতিটি তাফসীর এর উত্তর দেয়। উত্তরগুলো কাছাকাছি, তবে হুবহু এক নয়। বাগাভী দুই শব্দে কর্মটি বসিয়ে দেন: মহিমান্বিত ও মহান আল্লাহ। মুয়াসসার বলে, যে তার রবকে ভয় করে। কুরতুবী দুটি ক্রিয়া দিয়ে ব্যাখ্যা করেন: যে আল্লাহর তাকওয়া অবলম্বন করে, ইয়াত্তাকী, আর তাঁকে ভয় করে। এদের প্রত্যেকের কাছে ভয়ের লক্ষ্য আল্লাহ।"
           },
           {
@@ -224,7 +224,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "কুরতুবী মাওয়ারদীর একটি কথা উদ্ধৃত করেন, যা পাঠকের মনে স্বাভাবিকভাবে জাগা এক প্রশ্নের জবাব দেয়: আয়াত উপদেশকে ভয়ের সঙ্গেই বাঁধল কেন? মাওয়ারদী বলেন, যে আশা করে, মান ইয়ারজূহু, সেও উপদেশ গ্রহণ করতে পারে। তবে যে ভয় করে, তার উপদেশ নেওয়া যে আশা করে তার চেয়ে বেশি কার্যকর, আবলাগ। তাই আল্লাহ একে আশার বদলে ভয়ের সঙ্গে জুড়েছেন, যদিও উপদেশের সম্পর্ক ভয় আর আশা দুটোর সঙ্গেই।"
           },
           {
-            "en": "Two things follow from his wording, and both are his, not this article's. First, hope is not excluded: the reminder can reach a hopeful heart too. Second, the choice of fear in the verse is a matter of which works more strongly, not of which alone is valid. Al-Mawardi does not say why fear reaches deeper, and the fetched texts give no reason, so this article leaves the point where he left it.",
+            "en": "Two things follow from his wording, and both are his, not this article's. First, hope is not excluded: the reminder can reach a hopeful heart too. Second, the choice of fear in the verse is a matter of which works more strongly, not of which alone is valid. Al-Mawardi does not say why fear reaches deeper, and the texts consulted here give no reason, so this article leaves the point where he left it.",
             "bn": "তাঁর কথা থেকে দুটি বিষয় বেরিয়ে আসে, আর দুটিই তাঁর, এ লেখার নয়। প্রথমত, আশাকে বাদ দেওয়া হয়নি। আশাবাদী অন্তরেও উপদেশ পৌঁছাতে পারে। দ্বিতীয়ত, আয়াতে ভয়কে বেছে নেওয়ার কারণ হলো কোনটা বেশি জোরে কাজ করে, কোনটা একমাত্র বৈধ তা নয়। ভয় কেন আরও গভীরে পৌঁছায়, মাওয়ারদী তা বলেননি। সংগৃহীত তাফসীরগুলোতেও কারণটা নেই। তাই এ লেখা বিষয়টা সেখানেই রেখে দেয়, যেখানে তিনি রেখেছেন।"
           }
         ]
@@ -236,7 +236,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "The verse before attaches a condition to the command: remind, in nafa'ati adh-dhikra, if the reminder benefits. This verse names who benefits, and the sources fetched for it read the relation in more than one way. Ibn Kathir, whose English abridgement treats 87:9 and 87:10 in one passage, reads the condition plainly: remind where reminding is beneficial. He draws from it the etiquette of spreading knowledge, that it should not be wasted upon those who are not suitable or worthy of it.",
+            "en": "The verse before attaches a condition to the command: remind, in nafa'ati adh-dhikra, if the reminder benefits. This verse names who benefits, and the sources consulted for it read the relation in more than one way. Ibn Kathir, whose English abridgement treats 87:9 and 87:10 in one passage, reads the condition plainly: remind where reminding is beneficial. He draws from it the etiquette of spreading knowledge, that it should not be wasted upon those who are not suitable or worthy of it.",
             "bn": "আগের আয়াত আদেশের সঙ্গে একটি শর্ত জুড়েছে: উপদেশ দাও, ইন নাফাআতিয যিকরা, যদি উপদেশ উপকার দেয়। আর এ আয়াত জানায় উপকার পায় কে। দুই আয়াতের সম্পর্কটা সংগৃহীত সূত্রগুলো একাধিকভাবে পড়েছে। ইবন কাসীরের ইংরেজি সংক্ষেপে ৮৭:৯ ও ৮৭:১০ একই অংশে আলোচিত। তিনি শর্তটা সরাসরি পড়েন: যেখানে উপদেশ উপকারে আসে, সেখানে উপদেশ দাও। এ থেকে তিনি ইলম প্রচারের একটি আদব বের করেন। যারা এর উপযুক্ত বা যোগ্য নয়, তাদের পেছনে ইলম অপচয় করা উচিত নয়।"
           },
           {
@@ -264,7 +264,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "পরের আয়াত, ৮৭:১১, অন্য পক্ষের কথা বলে: যে উপদেশ এড়িয়ে চলে। মুয়াসসার ৮৭:১০ আয়াতের ব্যাখ্যাতেই দুটিকে একসঙ্গে পড়ে। সেখানে বলা হয়েছে, যে তার রবকে ভয় করে সে নসিহত নেবে, আর সবচেয়ে হতভাগা, আল-আশকা, যে তার রবকে ভয় করে না, সে উপদেশ থেকে দূরে সরে যায়। বৈপরীত্যটা রবের ভয়কে ঘিরে: একজন রবকে ভয় করে, অন্যজন করে না। তার পরিণতি কী হবে, সেটি পরের আয়াতগুলোর বিষয়। এ লেখা সেগুলোকে তাদের নিজের জায়গায় রেখে দেয়।"
           },
           {
-            "en": "Because the pair is framed as two groups, one point needs saying plainly. The verse describes what the text describes, one who fears and is reminded, set against one who avoids the reminder, and it licenses nothing against any living person or community. It hands no reader the right to sort the people around him into those who fear and those who do not. Ibn Kathir's gloss places the fear in the heart, and no one reading this verse is given sight of another person's heart.",
+            "en": "Because the pair is framed as two groups, one point needs saying plainly. The verse speaks only of what it names, one who fears and is reminded, set against one who avoids the reminder, and it licenses nothing against any living person or community. It hands no reader the right to sort the people around him into those who fear and those who do not. Ibn Kathir's gloss places the fear in the heart, and no one reading this verse is given sight of another person's heart.",
             "bn": "জোড়াটি যেহেতু দুই দলের ছবি হিসেবে এসেছে, একটি কথা সোজাসুজি বলা দরকার। আয়াতটি শুধু তা-ই বর্ণনা করে যা পাঠে আছে: একজন ভয় করে ও উপদেশ নেয়, অন্যজন উপদেশ এড়িয়ে চলে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। আশপাশের মানুষদের ভয়কারী আর ভয়হীন বলে ভাগ করার অধিকারও কোনো পাঠককে দেয় না। ইবন কাসীরের ব্যাখ্যা ভয়কে রাখে অন্তরে। আর এ আয়াত পড়ে কেউ অন্যের অন্তর দেখার চোখ পায় না।"
           }
         ]
@@ -276,7 +276,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "None of the tafsirs fetched for this verse attaches a sound hadith to it, and this article quotes none. The hadiths Ibn Kathir gathers in the same grouped passage concern the surah as a whole, its early recitation and its place in particular prayers, and another he cites belongs to a later verse. None is about 87:10, so none is used here. Nor does this article rely on an occasion of revelation for the verse. None is established in the sources consulted, so the verse is read here from its placement.",
+            "en": "None of the tafsirs consulted for this verse attaches a sound hadith to it, and this article quotes none. The hadiths Ibn Kathir gathers in the same grouped passage concern the surah as a whole, its early recitation and its place in particular prayers, and another he cites belongs to a later verse. None is about 87:10, so none is used here. Nor does this article rely on an occasion of revelation for the verse. None is established in the sources consulted, so the verse is read here from its placement.",
             "bn": "এ আয়াতের জন্য সংগৃহীত কোনো তাফসীর এর সঙ্গে কোনো সহীহ হাদিস যুক্ত করেনি, এ লেখাও কোনো হাদিস উদ্ধৃত করে না। একই অংশে ইবন কাসীর যে হাদিসগুলো এনেছেন, সেগুলো পুরো সূরা নিয়ে: এর প্রথম দিকের তিলাওয়াত আর নির্দিষ্ট কিছু নামাজে এর স্থান। আরেকটি হাদিস পরের এক আয়াতের সঙ্গে সম্পর্কিত। কোনোটিই ৮৭:১০ আয়াত নিয়ে নয়, তাই এখানে কোনোটিই নেওয়া হয়নি। আয়াতটির কোনো শানে নুযূলের উপরও এ লেখা নির্ভর করে না। ব্যবহৃত সূত্রগুলোতে তেমন কিছু প্রতিষ্ঠিত নয়, তাই আয়াতটি এখানে পড়া হয়েছে তার অবস্থান থেকে।"
           },
           {

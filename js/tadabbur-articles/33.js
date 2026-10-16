@@ -88,7 +88,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Wa azwajuhu ummahatuhum: and his wives are their mothers. Every commentator fetched here guards the sense carefully. Ibn Kathir, al-Baghawi, as-Sa'di and al-Qurtubi agree that they are mothers in reverence, honour and veneration, and in the permanent unlawfulness of marrying them, which Allah states outright in 33:53. They are not mothers in the remaining rulings: not in seclusion or mahram status, not in inheritance, not in the lifting of the hijab. Ma'arif al-Qur'an says this plainly, and points to the close of the verse itself.",
+            "en": "Wa azwajuhu ummahatuhum: and his wives are their mothers. Every commentator consulted here guards the sense carefully. Ibn Kathir, al-Baghawi, as-Sa'di and al-Qurtubi agree that they are mothers in reverence, honour and veneration, and in the permanent unlawfulness of marrying them, which Allah states outright in 33:53. They are not mothers in the remaining rulings: not in seclusion or mahram status, not in inheritance, not in the lifting of the hijab. Ma'arif al-Qur'an says this plainly, and points to the close of the verse itself.",
             "bn": "ওয়া আযওয়াজুহু উম্মাহাতুহুম: আর তাঁর স্ত্রীগণ তাদের মা। এখানে যাঁদের তাফসীর দেখা হয়েছে, তাঁরা প্রত্যেকে অর্থটা খুব সাবধানে আগলে রাখেন। ইবন কাসীর, বাগাভী, সা'দী ও কুরতুবী একমত: তাঁরা মা সম্মানে, মর্যাদায় ও শ্রদ্ধায়, আর এই অর্থে যে তাঁদের বিয়ে করা চিরকালের জন্য হারাম, যা আল্লাহ ৩৩:৫৩ আয়াতে স্পষ্ট বলে দিয়েছেন। বাকি বিধানে তাঁরা মা নন: তাঁদের সঙ্গে নির্জনে থাকা বা মাহরাম হওয়ার বিধানে নন, মীরাসে নন, পর্দা উঠে যাওয়ার বিধানেও নন। মাআরিফুল কুরআন কথাটা সাফ বলে, আর প্রমাণ হিসেবে আয়াতের শেষ অংশের দিকেই ইশারা করে।"
           },
           {
@@ -428,7 +428,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "None of the commentaries fetched for this verse attaches a sound, verse-specific hadith to it, so none is forced into the gap. One well-known narration, though not tied to this verse, draws the same figure from another angle. Abu Huraira reported that the Prophet ﷺ said the marks of a hypocrite are three: when he speaks he lies, when he promises he breaks it, and when he is trusted he betrays (Sahih al-Bukhari 33). The whispered come to us, the false alarm, the hollow after-boast all live along those three marks.",
+            "en": "None of the commentaries consulted for this verse attaches a sound, verse-specific hadith to it, so none is forced into the gap. One well-known narration, though not tied to this verse, draws the same figure from another angle. Abu Huraira reported that the Prophet ﷺ said the marks of a hypocrite are three: when he speaks he lies, when he promises he breaks it, and when he is trusted he betrays (Sahih al-Bukhari 33). The whispered come to us, the false alarm, the hollow after-boast all live along those three marks.",
             "bn": "এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নির্দিষ্টভাবে এ আয়াত-সংক্রান্ত কোনো সহিহ হাদিস জোড়েনি, তাই জোর করে সে ফাঁক ভরা হয়নি। তবে একটি সুপরিচিত বর্ণনা, এ আয়াতের সঙ্গে সরাসরি যুক্ত না হলেও, একই ধরনের মানুষকে আরেক দিক থেকে দেখায়। আবু হুরাইরা (রাঃ) বর্ণনা করেন, নবী ﷺ বলেছেন, মুনাফিকের চিহ্ন তিনটি: কথা বললে মিথ্যা বলে, ওয়াদা করলে ভাঙে, আর তার কাছে আমানত রাখলে খিয়ানত করে (সহিহ বুখারি ৩৩)। 'আমাদের কাছে চলে এসো' বলে সেই ফিসফিস, মিথ্যা ভয় দেখানো, পরে ফাঁপা বড়াই: সবই ওই তিন চিহ্নের মধ্যেই পড়ে।"
           },
           {

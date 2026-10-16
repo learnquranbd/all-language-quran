@@ -372,7 +372,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "None of the commentaries fetched attaches a prophetic narration to this verse itself. Ibn Kathir brings one under the verse that follows, where the argument becomes: I stayed among you a lifetime before this, will you not reason? What he brings is Heraclius questioning Abu Sufyan, which stands in Sahih al-Bukhari 7, narrated by Abdullah ibn Abbas (RA) from Abu Sufyan himself.",
+            "en": "None of the commentaries consulted attaches a prophetic narration to this verse itself. Ibn Kathir brings one under the verse that follows, where the argument becomes: I stayed among you a lifetime before this, will you not reason? What he brings is Heraclius questioning Abu Sufyan, which stands in Sahih al-Bukhari 7, narrated by Abdullah ibn Abbas (RA) from Abu Sufyan himself.",
             "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এই আয়াতের সঙ্গে নবীজি ﷺ এর কোনো হাদিস জোড়ে না। ইবনু কাসীর একটি হাদিস আনেন পরের আয়াতের নিচে, যেখানে দলিলটা দাঁড়ায়, এর আগে তো আমি তোমাদের মধ্যেই জীবন কাটিয়েছি, তবু বুঝবে না? তিনি যা আনেন তা হিরাক্লিয়াসের আবু সুফিয়ানকে করা জিজ্ঞাসাবাদ, আর সেটি আছে সহীহ বুখারীর ৭ নম্বর হাদিসে, আবদুল্লাহ ইবনু আব্বাস (রাঃ) আবু সুফিয়ানের মুখ থেকেই যা বর্ণনা করেছেন।"
           },
           {
@@ -516,7 +516,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "এরপরের আয়াতগুলো দৃশ্যটা শেষ করে। ১০:২৯ আয়াতে শরীকরা কসম খায়, আমাদের আর তোমাদের মাঝে আল্লাহই সাক্ষী হিসেবে যথেষ্ট, তোমাদের ইবাদতের খবর আমরা রাখতাম না। মাআরিফুল কুরআন এর পেছনের অজুহাতটা খুলে বলে, তাদের অনুভূতি ছিল না, চলার শক্তি ছিল না, এসব বোঝার বুদ্ধিও ছিল না। ১০:৩০ আয়াত তারপর পর্বটা বন্ধ করে দেয়, প্রত্যেক প্রাণ তার আগে পাঠানো আমল যাচাই করে দেখবে, তাদের সত্যিকার অভিভাবক আল্লাহর কাছে তাদের ফিরিয়ে আনা হবে, আর তারা যা বানিয়ে নিয়েছিল সব হারিয়ে যাবে। ১০:৩১ আয়াত থেকে শুরু হয় জেরা।"
           },
           {
-            "en": "Which Day is it? Ibn Kathir reads the gathering as wide as it will go: all the people of the earth, of men and jinn, the obedient and the rebellious, and he brings 18:47 for it, We shall gather them and leave none of them behind. At-Tabari records a dissent. Al-A'mash heard people report from Mujahid that al-hashr here means death. At-Tabari refuses it and says why: this is a report of what is said to the idolaters and what they answer, and that exchange does not happen in the grave. No established occasion of revelation is reported in the commentaries fetched for this verse.",
+            "en": "Which Day is it? Ibn Kathir reads the gathering as wide as it will go: all the people of the earth, of men and jinn, the obedient and the rebellious, and he brings 18:47 for it, We shall gather them and leave none of them behind. At-Tabari records a dissent. Al-A'mash heard people report from Mujahid that al-hashr here means death. At-Tabari refuses it and says why: this is a report of what is said to the idolaters and what they answer, and that exchange does not happen in the grave. No established occasion of revelation is reported in the commentaries consulted for this verse.",
             "bn": "কোন দিনের কথা? ইবনু কাসীর একত্র করাটাকে যতদূর নেওয়া যায় নিয়েছেন, যমীনের সব মানুষ আর জিন, নেককার আর নাফরমান সবাই। তিনি এর সঙ্গে ১৮:৪৭ আয়াত আনেন, আমি তাদের একত্র করব, কাউকেও বাদ দেব না। তাবারী এখানে একটা ভিন্নমত রেখে দিয়েছেন। আ'মাশ লোকদের কাছ থেকে শুনেছেন, মুজাহিদ বলতেন এখানে হাশর মানে মৃত্যু। তাবারী তা মানেন না, আর কারণটাও বলেন, এটি তো সেই খবর যা মুশরিকদের বলা হবে আর তারা যা জবাব দেবে, আর কবরের ভেতরে এই কথা চালাচালি হয় না। এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তাতে নাজিলের কোনো প্রতিষ্ঠিত ঘটনা নেই।"
           }
         ]
@@ -604,7 +604,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "None of the commentaries fetched for this verse attaches a prophetic narration to it. Ibn Kathir quotes one line, that on the Day of Resurrection we will be on a mound above the people, without naming a collection, and no number for it could be confirmed here, so nothing is built on it. What is confirmable stands in Sahih al-Bukhari, and it is brought here as a general principle rather than as a narration the commentators tie to this verse.",
+            "en": "None of the commentaries consulted for this verse attaches a prophetic narration to it. Ibn Kathir quotes one line, that on the Day of Resurrection we will be on a mound above the people, without naming a collection, and no number for it could be confirmed here, so nothing is built on it. What is confirmable stands in Sahih al-Bukhari, and it is brought here as a general principle rather than as a narration the commentators tie to this verse.",
             "bn": "এই আয়াতের জন্য যে তাফসীরগুলো দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো হাদিস জুড়ে দেয় না। ইবনু কাসীর একটি বাক্য উদ্ধৃত করেন, কিয়ামতের দিন আমরা থাকব মানুষের উপরে উঁচু এক টিলায়। তবে কোনো কিতাবের নাম তিনি বলেন না, আর এখানে এর কোনো নম্বরও নিশ্চিত করা যায়নি; তাই এর উপর কিছু দাঁড় করানো হয়নি। যা নিশ্চিত করা গেছে, তা আছে সহীহ বুখারীতে। সেটা এখানে আনা হচ্ছে সাধারণ নীতি হিসেবে, মুফাসসিররা এই আয়াতের সঙ্গে জুড়েছেন এমন হাদিস হিসেবে নয়।"
           },
           {
@@ -664,7 +664,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "ইবনু কাসীর পুরো অংশের যুক্তিটা খুলে দেন। রব হিসেবে আল্লাহর একত্ব মুশরিকরা যে মানছে, সেটাই তাদের বিরুদ্ধে দলিল, আর সেই দলিলেই তাদের মানা উচিত ছিল ইলাহ আর ইবাদতেও তিনি একক। আয়াতের প্রতিটি অংশের জন্য তিনি কুরআনের অন্য জায়গা টানেন। রিযকের জন্য ৬৭:২১, তিনি রিযক আটকে দিলে কে দেবে; শোনা আর দেখার জন্য ৬৭:২৩ আর ৬:৪৬, যে দুটো তিনি দিয়েছেন আর কেড়েও নিতে পারেন; আর পরিচালনার জন্য ৫৫:২৯, যেখানে আসমান ও যমীনের সবাই তাঁরই কাছে চায়।"
           },
           {
-            "en": "What comes after keeps the same thread. 10:33 says the word of your Lord has come into effect upon those who defiantly disobeyed, that they will not believe; then 10:34 and 10:35 put the question again, about who begins creation and repeats it and who guides to the truth. None of the eight commentaries fetched for this verse reports an occasion of revelation for it, so its place inside that cross-examination is the context to read it in.",
+            "en": "What comes after keeps the same thread. 10:33 says the word of your Lord has come into effect upon those who defiantly disobeyed, that they will not believe; then 10:34 and 10:35 put the question again, about who begins creation and repeats it and who guides to the truth. None of the eight commentaries consulted for this verse reports an occasion of revelation for it, so its place inside that cross-examination is the context to read it in.",
             "bn": "পরের আয়াতগুলোও একই সুতো ধরে চলে। ১০:৩৩ বলে, যারা নাফরমানি করেছে তাদের ব্যাপারে আপনার রবের কথা সত্য হয়ে গেছে, তারা ঈমান আনবে না। এরপর ১০:৩৪ আর ১০:৩৫ আয়াতে প্রশ্নটা আবার আসে: কে সৃষ্টি শুরু করেন আর আবার তা ফিরিয়ে আনেন, আর কে সত্যের পথ দেখান? এই আয়াতের জন্য যে আটটি তাফসীর দেখা হয়েছে, তার কোনোটিতেই এর নাজিলের কোনো উপলক্ষ পাওয়া যায় না। তাই আয়াতটা পড়তে হবে এই জেরার ভেতরে তার অবস্থান থেকেই।"
           }
         ]
@@ -752,7 +752,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Al-Qurtubi is the only commentary fetched here that brings a narration to this word. He says it is established from A'ishah (RA) that the Prophet ﷺ, rising to pray in the depth of the night, would say Allahumma laka al-hamd, a du'a containing, You are al-Haqq and Your promise is the truth. That wording stands in Sahih al-Bukhari 1120, from Ibn Abbas (RA), so the attribution is left as al-Qurtubi's. The other narrations on his page belong to his digression about play, and nothing here is built on them.",
+            "en": "Al-Qurtubi is the only commentary consulted here that brings a narration to this word. He says it is established from A'ishah (RA) that the Prophet ﷺ, rising to pray in the depth of the night, would say Allahumma laka al-hamd, a du'a containing, You are al-Haqq and Your promise is the truth. That wording stands in Sahih al-Bukhari 1120, from Ibn Abbas (RA), so the attribution is left as al-Qurtubi's. The other narrations on his page belong to his digression about play, and nothing here is built on them.",
             "bn": "যে তাফসীরগুলো দেখা হয়েছে, তার মধ্যে কেবল কুরতুবীই এই শব্দের সঙ্গে হাদিস আনেন। তিনি বলেন, আয়িশা (রাঃ)-এর সূত্রে প্রমাণিত আছে, নবী ﷺ গভীর রাতে নামাজে দাঁড়িয়ে বলতেন, আল্লাহুম্মা লাকাল হামদ; সেই দুআর ভেতরে আছে, আপনিই হক্ক আর আপনার ওয়াদা হক্ক। এই শব্দগুলো সহীহ বুখারীর ১১২০ নম্বরে আছে, তবে সেখানে বর্ণনাকারী ইবনু আব্বাস (রাঃ)। তাই আয়িশা (রাঃ)-এর নামে জোড়াটা কুরতুবীর কথা হিসেবেই রেখে দেওয়া হল। তাঁর পাতার বাকি হাদিসগুলো খেলা নিয়ে তাঁর প্রসঙ্গান্তরের অংশ; এখানে সেগুলোর উপর কিছু দাঁড় করানো হয়নি।"
           },
           {
@@ -900,7 +900,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "None of the commentaries fetched for 10:39 attaches a prophetic narration to this verse itself. At-Tabari, al-Qurtubi, as-Sa'di and al-Baghawi argue it from the words and the fate of earlier nations; the authorities al-Qurtubi names here, ad-Dahhak and al-Husayn ibn al-Fadl, are not Companions. Ibn Kathir does bring a hadith a few lines earlier in the same block, under the challenge of 10:38, and it is worth hearing here for what it says about how conviction arrives.",
+            "en": "None of the commentaries consulted for 10:39 attaches a prophetic narration to this verse itself. At-Tabari, al-Qurtubi, as-Sa'di and al-Baghawi argue it from the words and the fate of earlier nations; the authorities al-Qurtubi names here, ad-Dahhak and al-Husayn ibn al-Fadl, are not Companions. Ibn Kathir does bring a hadith a few lines earlier in the same block, under the challenge of 10:38, and it is worth hearing here for what it says about how conviction arrives.",
             "bn": "১০:৩৯ আয়াতের জন্য আনা তাফসীরগুলোর কোনোটাই এই আয়াতের সঙ্গে নবী ﷺ-এর কোনো হাদিস জুড়ে দেয় না। তাবারী, কুরতুবী, সা'দী আর বাগাভী কথাটা প্রমাণ করেন শব্দ থেকে আর আগের জাতিগুলোর পরিণতি থেকে। কুরতুবী এখানে নাম ধরে যাঁদের কথা আনেন, দাহহাক আর হুসাইন ইবনুল ফাদল, তাঁরা সাহাবী ছিলেন না। তবে ইবনু কাসীর একই আলোচনার কয়েক লাইন আগে, ১০:৩৮ আয়াতের চ্যালেঞ্জের নিচে, একটা হাদিস আনেন। মানুষের মনে বিশ্বাস কীভাবে আসে, সে বিষয়ে হাদিসটা যা বলে, সেজন্যই এখানে এটা শোনা দরকার।"
           },
           {
@@ -1080,7 +1080,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "সূরা ইউনুস মক্কী, আর এই আয়াত এসেছে চলমান এক তর্কের মাঝখানে, জবাব হয়ে। ১০:৪৫ সেই দিনের ছবি আঁকে, যেদিন তাদের জড়ো করা হবে আর মনে হবে, দিনের এক ঘণ্টার বেশি তারা থাকেইনি। ১০:৪৬ নবী ﷺ-কে বলছে, তাদের যে ওয়াদা দেওয়া হচ্ছে তার কিছুটা তাঁকে দেখানো হোক কিংবা তার আগেই তাঁকে তুলে নেওয়া হোক, ফেরা তাদের আল্লাহর কাছেই। ১০:৪৭ নিয়মটা বসিয়ে দেয়: প্রত্যেক জাতির জন্য রাসূল আছে, আর রাসূল এলে ইনসাফের সঙ্গে তাদের মধ্যে ফয়সালা হয়ে যায়।"
           },
           {
-            "en": "Then 10:48 puts the taunt into their mouths: when is this promise, if you should be truthful? At-Tabari says these are the mushriks of the Prophet's own people, and that what they mean is the standing of the Hour. Al-Qurtubi names them the disbelievers of Makkah and traces the question to excessive denial and to wanting the punishment brought forward. No occasion of revelation is established for 10:49; the tafsir page fetched carries nothing from al-Wahidi, so the placement is what there is to go on.",
+            "en": "Then 10:48 puts the taunt into their mouths: when is this promise, if you should be truthful? At-Tabari says these are the mushriks of the Prophet's own people, and that what they mean is the standing of the Hour. Al-Qurtubi names them the disbelievers of Makkah and traces the question to excessive denial and to wanting the punishment brought forward. No occasion of revelation is established for 10:49; the tafsir page consulted carries nothing from al-Wahidi, so the placement is what there is to go on.",
             "bn": "এরপর ১০:৪৮ তাদের মুখে খোঁচাটা তুলে দেয়: তোমরা সত্যবাদী হলে বলো, এই ওয়াদা কখন? তাবারী বলছেন, এরা নবী ﷺ-এর নিজের কওমেরই মুশরিক, আর তাদের উদ্দেশ্য কিয়ামত কায়েম হওয়া। কুরতুবী তাদের পরিচয় দেন মক্কার কাফির বলে, আর প্রশ্নটার উৎস খোঁজেন চূড়ান্ত অস্বীকারে এবং আযাব আগে এনে ফেলার তাড়ায়। ১০:৪৯-এর জন্য শানে নুযূল হিসেবে প্রতিষ্ঠিত কিছু নেই; যে তাফসীরের পাতা আনা হয়েছে তাতে ওয়াহিদীর কোনো বর্ণনা নেই। কাজেই ভরসা আয়াতের অবস্থান।"
           }
         ]
@@ -1096,7 +1096,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "লাইনে ছাপা তিনটি বিরামচিহ্ন বাদ দিলে আয়াতটা ২২টি আরবি শব্দের, আর ঠিক মাঝখানে দুই ভাগ হয়ে যায়। প্রথম ভাগ ১১ শব্দের, শেষ হয় ইল্লা মা শা-আল্লাহ দিয়ে, অর্থাৎ আল্লাহ যা চান তা ছাড়া। দ্বিতীয় ভাগও ১১ শব্দের, সেখানে নির্ধারিত মেয়াদের বিধানটা বলা। ক্রিয়াটা লা আমলিকু, মূল মীম-লাম-কাফ থেকে, যার ভাব মালিকানা ও হাতে রাখার অধিকার, নিছক সামর্থ্য নয়।"
           },
           {
-            "en": "Then li-nafsi, for myself. The disclaimer is aimed at the nearest object first, and every commentator fetched builds from there. Al-Qurtubi reads the clause as that is not mine nor anyone else's, then presses it: how could I have power over the thing you are hastening? Al-Jalalayn puts the same step as a question. At-Tabari is sharper: if he cannot do even that except by His leave, he is more incapable still of knowing when the Hour will stand.",
+            "en": "Then li-nafsi, for myself. The disclaimer is aimed at the nearest object first, and every commentator consulted builds from there. Al-Qurtubi reads the clause as that is not mine nor anyone else's, then presses it: how could I have power over the thing you are hastening? Al-Jalalayn puts the same step as a question. At-Tabari is sharper: if he cannot do even that except by His leave, he is more incapable still of knowing when the Hour will stand.",
             "bn": "এরপর লিনাফসী, অর্থাৎ নিজের জন্য। অস্বীকৃতিটা আগে তাক করা সবচেয়ে কাছের জিনিসটার দিকেই, আর যত মুফাসসিরের লেখা আনা হয়েছে সবাই যুক্তি তোলেন এখান থেকেই। কুরতুবী বাক্যটা পড়েন এভাবে: এ ক্ষমতা আমারও নয়, কারোরও নয়। তারপর চাপ দেন, তাহলে তোমরা যেটা তাড়াতাড়ি চাইছ তার মালিক আমি হই কী করে? জালালাইন একই ধাপটা প্রশ্ন করেই সেরে দেয়। তাবারী আরও ধারালো: তাঁর অনুমতি ছাড়া এটুকুই যখন পারি না, কিয়ামত কখন দাঁড়াবে তা জানার বেলায় আমি আরও অক্ষম।"
           },
           {
@@ -1128,7 +1128,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "What is the ajal? The commentators fetched do not all mean the same thing by it, and the difference is worth keeping as a difference. At-Tabari reads it as a fixed appointment for the expiry of their period and the running out of their lifespans. Al-Baghawi says much the same. Ibn Kathir narrows it to a generation, a measured span of life for every qarn, and sets 63:11 beside it: Allah will never delay a soul whose term has come.",
+            "en": "What is the ajal? The commentators consulted do not all mean the same thing by it, and the difference is worth keeping as a difference. At-Tabari reads it as a fixed appointment for the expiry of their period and the running out of their lifespans. Al-Baghawi says much the same. Ibn Kathir narrows it to a generation, a measured span of life for every qarn, and sets 63:11 beside it: Allah will never delay a soul whose term has come.",
             "bn": "আজাল বলতে কী? যাঁদের তাফসীর আনা হয়েছে সবাই এক জিনিস বোঝাচ্ছেন না, আর পার্থক্যটা পার্থক্য হিসেবেই রাখা দরকার। তাবারী পড়েন, এ হলো তাদের কালপর্ব ফুরানোর আর আয়ু শেষ হওয়ার বাঁধা সময়। বাগাবী প্রায় একই কথা বলেন। ইবনে কাসীর আরও সরু করে ধরেন এক প্রজন্মকে, প্রত্যেক কারনের জন্য মেপে রাখা আয়ু, আর পাশে রাখেন ৬৩:১১: কোনো প্রাণের নির্ধারিত সময় এসে গেলে আল্লাহ তা আর পিছিয়ে দেন না।"
           },
           {
@@ -1148,7 +1148,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "None of the eight commentaries fetched for 10:49 attaches a prophetic narration to the verse itself. At-Tabari, al-Qurtubi, al-Baghawi, as-Sa'di, Ibn Kathir, al-Muyassar, al-Jalalayn and Tanwir al-Miqbas all argue it from the wording and from other verses. Ibn Kathir's supports here are Qur'anic throughout: 42:18, that those who do not believe in the Hour seek to hasten it while the believers fear it, and 63:11 on the soul whose term has arrived.",
+            "en": "None of the eight commentaries consulted for 10:49 attaches a prophetic narration to the verse itself. At-Tabari, al-Qurtubi, al-Baghawi, as-Sa'di, Ibn Kathir, al-Muyassar, al-Jalalayn and Tanwir al-Miqbas all argue it from the wording and from other verses. Ibn Kathir's supports here are Qur'anic throughout: 42:18, that those who do not believe in the Hour seek to hasten it while the believers fear it, and 63:11 on the soul whose term has arrived.",
             "bn": "১০:৪৯-এর জন্য আনা আটটি তাফসীরের একটিও আয়াতটার সঙ্গে কোনো নববী হাদিস জুড়ে দেয়নি। তাবারী, কুরতুবী, বাগাবী, সা'দী, ইবনে কাসীর, মুয়াসসার, জালালাইন আর তানভীরুল মিকবাস সবাই কথা তোলেন শব্দ থেকে আর অন্য আয়াত থেকে। ইবনে কাসীর এখানে যা দলিল আনেন তার পুরোটাই কুরআন: ৪২:১৮, যারা কিয়ামতে বিশ্বাস করে না তারাই তা তাড়াতাড়ি চায়, আর মুমিনরা তাকে ভয় করে; আর ৬৩:১১, যে প্রাণের নির্ধারিত সময় এসে গেছে তার প্রসঙ্গে।"
           },
           {
@@ -1428,7 +1428,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "সূরা ইউনুস মাক্কী। আমাদের আয়াতের তিনটি আয়াত আগে, ১০:৬৫ আয়াত নবী ﷺ-কে বলে, ওদের কথায় যেন তিনি দুঃখ না পান, কারণ সমস্ত সম্মান আল্লাহরই। ১০:৬৬ আয়াত ঘোষণা দেয়, আসমান আর যমীনে যারা আছে সবাই আল্লাহর, আর যারা তাঁকে বাদ দিয়ে শরীকদের ডাকে তারা ধারণা ছাড়া কিছুরই পিছনে চলছে না। ১০:৬৭ আয়াত আঙুল তোলে রাতের দিকে, যা বানানো হয়েছে বিশ্রামের জন্য, আর দিনের দিকে, যা বানানো হয়েছে দেখার জন্য। আমাদের আয়াত সেই কথারই একটা নমুনা তুলে ধরে।"
           },
           {
-            "en": "What follows keeps the thread. 10:69 commissions a reply: say, those who invent falsehood about Allah will not succeed. 10:70 measures their gain and their end, a brief enjoyment in this world, then to Us is their return, then the severe punishment. With 10:71 the surah leaves the argument for the news of Nuh (AS). None of the six commentaries fetched reports an occasion of revelation, so its placement is the context.",
+            "en": "What follows keeps the thread. 10:69 commissions a reply: say, those who invent falsehood about Allah will not succeed. 10:70 measures their gain and their end, a brief enjoyment in this world, then to Us is their return, then the severe punishment. With 10:71 the surah leaves the argument for the news of Nuh (AS). None of the six commentaries consulted reports an occasion of revelation, so its placement is the context.",
             "bn": "এরপর যা আসে, তাতে সুতোটা ধরা থাকে। ১০:৬৯ আয়াত জবাবটা বলে দেয়: বলে দাও, যারা আল্লাহর নামে মিথ্যা রচনা করে তারা সফল হবে না। ১০:৭০ আয়াত মেপে দেয় তাদের পাওনা আর তাদের শেষটা, দুনিয়ায় সামান্য ভোগ, তারপর আমার কাছেই তাদের ফেরা, তারপর কঠিন আযাব। ১০:৭১ আয়াতে সূরা তর্ক ছেড়ে নূহ (আ)-এর খবরে যায়। এই আয়াতের জন্য যে ছয়টি তাফসীর দেখা হয়েছে, তার একটিও শানে নুযূল জানায় না। তাই আয়াতের অবস্থানটাই তার প্রেক্ষাপট।"
           },
           {
@@ -1496,7 +1496,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "None of the six commentaries fetched for this verse attaches a prophetic narration to it. Two sound reports carry its subject, and both are brought here as a general principle, not as narrations the commentators tie to this ayah. Sahih al-Bukhari 4974, from Abu Hurayrah (RA): the Prophet ﷺ said that Allah said, the son of Adam tells a lie against Me though he has not the right to do so, and he abuses Me though he has not the right.",
+            "en": "None of the six commentaries consulted for this verse attaches a prophetic narration to it. Two sound reports carry its subject, and both are brought here as a general principle, not as narrations the commentators tie to this ayah. Sahih al-Bukhari 4974, from Abu Hurayrah (RA): the Prophet ﷺ said that Allah said, the son of Adam tells a lie against Me though he has not the right to do so, and he abuses Me though he has not the right.",
             "bn": "এই আয়াতের জন্য যে ছয়টি তাফসীর দেখা হয়েছে, তার একটিও এখানে কোনো হাদিস জুড়ে দেয় না। আয়াতের বিষয়টা নিয়ে দুটি সহীহ বর্ণনা আছে, আর দুটিকেই এখানে আনা হচ্ছে সাধারণ নীতি হিসেবে, মুফাসসিরদের এই আয়াতের সঙ্গে জোড়া বর্ণনা হিসেবে নয়। সহীহ বুখারী ৪৯৭৪, আবু হুরায়রা (রাঃ) থেকে: নবী ﷺ বলেছেন, আল্লাহ বলেন, আদম সন্তান আমার নামে মিথ্যা বলে, অথচ তার সে অধিকার নেই; আর সে আমাকে গালি দেয়, অথচ তারও সে অধিকার নেই।"
           },
           {
@@ -1592,7 +1592,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "সূরা ইউনুস মাক্কী। ১০:৭৪ আয়াত বলে, নূহ (আ)-এর পরে রাসূলরা গিয়েছিলেন নিজ নিজ জাতির কাছে, সুস্পষ্ট প্রমাণ নিয়ে; আর আগে যা অস্বীকার করেছিল তাতে ঈমান আনার লোক তারা ছিল না। ১০:৭৫ আয়াত নাম নেয় মূসা আর হারূন (আ)-এর, যাঁদের পাঠানো হল ফিরআউন আর তার প্রধানদের কাছে আমার নিদর্শন দিয়ে, আর জানায়, তারা অহংকার করল। সত্য পৌঁছাতেই তাদের রায়টা আসে ১০:৭৬ আয়াতে: এটা তো স্পষ্ট যাদু। ১০:৭৭ আয়াত মূসার জবাব, যাদুকররা মুক্তি পায় না। আমাদের আয়াতটি তারই উত্তরে প্রধানদের বলা কথা।"
           },
           {
-            "en": "The scene keeps moving: 10:79 has Pharaoh send for every learned magician, and by 10:83 only a few young men of Musa's own people have believed. None of the seven commentaries fetched reports an occasion of revelation, so the placement is the context. Who is speaking? At-Tabari writes that Pharaoh and his chiefs said it to Musa, and al-Muyassar names the same pair, filling in what the fathers' way had been: the worship of other than Allah. Al-Baghawi widens it to Pharaoh and his people; as-Sa'di and Ibn Kathir name no group.",
+            "en": "The scene keeps moving: 10:79 has Pharaoh send for every learned magician, and by 10:83 only a few young men of Musa's own people have believed. None of the seven commentaries consulted reports an occasion of revelation, so the placement is the context. Who is speaking? At-Tabari writes that Pharaoh and his chiefs said it to Musa, and al-Muyassar names the same pair, filling in what the fathers' way had been: the worship of other than Allah. Al-Baghawi widens it to Pharaoh and his people; as-Sa'di and Ibn Kathir name no group.",
             "bn": "দৃশ্যটা এরপরও থেমে থাকে না। ১০:৭৯ আয়াতে ফিরআউন ডেকে পাঠায় প্রত্যেক পারদর্শী যাদুকরকে, আর ১০:৮৩ আয়াতে দেখা যায় মূসার নিজের জাতির গুটিকয় তরুণ ছাড়া কেউ ঈমান আনেনি। যে সাতটি তাফসীর দেখা হয়েছে তার একটিও কোনো শানে নুযূল জানায় না, তাই আয়াতের অবস্থানটাই তার প্রেক্ষাপট। কথাটা বলছে কারা? তাবারী লেখেন, ফিরআউন আর তার প্রধানরা মূসাকে এ কথা বলেছিল; মুয়াসসারও সেই একই দুই পক্ষের নাম নেয় আর ধরিয়ে দেয় বাপ-দাদার পথ বলতে কী বোঝানো হচ্ছে, আল্লাহ ছাড়া অন্যের ইবাদত। বাগাবী পরিধি বাড়িয়ে বলেন, ফিরআউন আর তার কওম; সা'দী আর ইবনে কাসীর কোনো দলের নামই নেন না।"
           }
         ]
@@ -1672,7 +1672,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "None of the seven commentaries fetched for this verse attaches a prophetic narration to it. At-Tabari carries a report from Qatadah and several from Mujahid, but those are explanations of a word by men of the generation after the Companions, not sayings of the Prophet ﷺ. Two sound narrations stand beside the verse's own vocabulary, and both are brought here on that footing, as a general principle rather than as reports the commentators tie to this ayah.",
+            "en": "None of the seven commentaries consulted for this verse attaches a prophetic narration to it. At-Tabari carries a report from Qatadah and several from Mujahid, but those are explanations of a word by men of the generation after the Companions, not sayings of the Prophet ﷺ. Two sound narrations stand beside the verse's own vocabulary, and both are brought here on that footing, as a general principle rather than as reports the commentators tie to this ayah.",
             "bn": "এই আয়াতের জন্য যে সাতটি তাফসীর দেখা হয়েছে, তার একটিও এখানে কোনো হাদিস জুড়ে দেয় না। তাবারী কাতাদা থেকে একটি আর মুজাহিদ থেকে কয়েকটি বর্ণনা আনেন, কিন্তু সেগুলো সাহাবীদের পরের প্রজন্মের লোকদের করা শব্দের ব্যাখ্যা, নবী ﷺ-এর বাণী নয়। তবে আয়াতের নিজের শব্দগুলোর পাশে রাখা যায় দুটি সহীহ বর্ণনা। দুটিকেই এখানে আনা হচ্ছে সাধারণ নীতি হিসেবে; মুফাসসিররা এগুলোকে এই আয়াতের সঙ্গে জুড়েছেন, এমন দাবি করে নয়।"
           },
           {
@@ -1724,7 +1724,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "None of the commentaries fetched attaches a narrated supplication to this verse, so what follows is composed here from its own words and offered as that, not as a Sunnah text. O Allah, to You belongs al-kibriya' in the heavens and the earth, and no part of it is anyone else's to want. Do not let me answer Your truth with what my fathers did, nor push it away by guessing at whoever carries it, and if I have been turned, turn me back. 45:37 gives the opening clause.",
+            "en": "None of the commentaries consulted attaches a narrated supplication to this verse, so what follows is composed here from its own words and offered as that, not as a Sunnah text. O Allah, to You belongs al-kibriya' in the heavens and the earth, and no part of it is anyone else's to want. Do not let me answer Your truth with what my fathers did, nor push it away by guessing at whoever carries it, and if I have been turned, turn me back. 45:37 gives the opening clause.",
             "bn": "যে তাফসীরগুলো দেখা হয়েছে তার কোনোটিই এই আয়াতের সঙ্গে বর্ণিত কোনো দোয়া জোড়েনি। তাই নিচের দোয়াটি আয়াতের নিজের শব্দ দিয়ে এখানেই সাজানো, আর সেভাবেই পেশ করা হচ্ছে, সুন্নাহর দোয়া হিসেবে নয়। হে আল্লাহ, আসমান ও যমীনে আল-কিবরিয়া আপনারই, এর এক কণাও আর কারো চাওয়ার জিনিস নয়। আপনার সত্যের জবাবে আমাকে বাপ-দাদার আমল তুলে ধরতে দেবেন না, আর যে সেটা বয়ে আনে তার মতলব আন্দাজ করে সত্যটাকে সরিয়ে দিতেও দেবেন না; আমি যদি ফিরে গিয়েই থাকি, আমাকে ফিরিয়ে আনুন। প্রথম কথাটা ৪৫:৩৭ আয়াতের।"
           },
           {
@@ -1748,7 +1748,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "সূরা ইউনুস মাক্কী। মূসা (আঃ)-এর ঘটনা শুরু হয় ১০:৭৫ আয়াতে, যেখানে তাঁকে আর হারূন (আঃ)-কে আমার নিদর্শন দিয়ে ফিরআউন ও তার পারিষদের কাছে পাঠানো হয়, আর সেখানে অহংকারই জোটে। ১০:৭৬ আয়াত সেই অভিযোগটা তুলে ধরে, এরপরের পুরোটা জুড়ে যার জবাব চলে: আমার কাছ থেকে সত্য যখন তাদের কাছে পৌঁছল, তারা বলল, এটা তো সুস্পষ্ট যাদু। ১০:৭৭ আয়াতে মূসা (আঃ) জিজ্ঞেস করেন, সত্য এসে যাওয়ার পরও কি তোমরা তার সম্পর্কে এ কথা বলছ, আর বলেন, যাদুকররা সফল হবে না। ১০:৭৯ আয়াতে ফিরআউনের হুকুম, প্রত্যেক পারদর্শী যাদুকরকে নিয়ে এসো। আর ১০:৮০ আয়াতে মূসা (আঃ) তাদের বলেন, ছোড়ো।"
           },
           {
-            "en": "Our verse is what he says once the ropes are down. 10:82 finishes the speech with the other side of the verdict, that Allah will establish the truth by His words even if the criminals dislike it. 10:83 then leaves the contest and counts who believed. None of the six Arabic commentaries fetched for this verse reports an occasion of revelation, and the tafsir page consulted carries nothing from al-Wahidi. Placement is the context: a Makkan surah is showing Makkah an older audience that called revelation magic.",
+            "en": "Our verse is what he says once the ropes are down. 10:82 finishes the speech with the other side of the verdict, that Allah will establish the truth by His words even if the criminals dislike it. 10:83 then leaves the contest and counts who believed. None of the six Arabic commentaries consulted for this verse reports an occasion of revelation, and the tafsir page consulted carries nothing from al-Wahidi. Placement is the context: a Makkan surah is showing Makkah an older audience that called revelation magic.",
             "bn": "দড়িগুলো মাটিতে পড়ার পর মূসা যা বলেন, সেটাই আমাদের আয়াত। ১০:৮২ আয়াতে কথাটা শেষ হয় রায়ের অন্য দিকটা দিয়ে: অপরাধীদের যতই খারাপ লাগুক, আল্লাহ তাঁর বাণী দিয়ে সত্যকে প্রতিষ্ঠিত করবেন। ১০:৮৩ আয়াতে সূরা প্রতিযোগিতা ছেড়ে হিসাব নেয়, কারা ঈমান আনল। এই আয়াতের জন্য দেখা ছয়টি আরবি তাফসীরের একটিও শানে নুযূল জানায় না, আর যে তাফসীরপাতা দেখা হয়েছে সেখানেও ওয়াহিদীর কিছু নেই। তাই আয়াতের অবস্থানটাই প্রেক্ষাপট: মক্কী সূরাটি মক্কাকে দেখাচ্ছে আগের কালের এমন এক জনগোষ্ঠীকে, যারাও ওহিকে যাদু বলেছিল।"
           }
         ]
@@ -1784,7 +1784,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "আয়াতের শুরুর অংশটা কীভাবে পড়া হবে, তা নিয়ে তাফসীরকারদের মধ্যে সত্যিকারের মতভেদ আছে, আর তাতে মূসা (আঃ)-এর গলার সুরই বদলে যায়। তাবারী জানান, হিজায আর ইরাকের অধিকাংশ কারী মা জি'তুম বিহিস সিহর পড়েছেন সংবাদ হিসেবে: হে যাদুকররা, তোমরা যা এনেছ সেটাই সেই যাদু। মুজাহিদ এবং মদীনা ও বসরার কিছু কারী পড়েছেন প্রশ্ন হিসেবে, আস-সিহর, এটা কি যাদু? বাগাবী প্রশ্নবোধক কিরাআতের জন্য আবু আমর আর আবু জাফরের নাম নেন, কুরতুবীও আবু আমরের নাম নেন।"
           },
           {
-            "en": "at-Tabari does not leave the two readings level. The statement is the sounder, he holds, because Musa was not in doubt that what the magicians brought was magic, so he had no need to ask what it was; he already knew who they were and why Pharaoh had fetched them. al-Jalalayn sets out both readings without preferring either. at-Tabari then adds what settled it for him: Ubayy ibn Ka'b (RA) read ma ataytum bihi sihrun and Ibn Mas'ud (RA) read ma ji'tum bihi sihrun, both indefinite, which only the statement allows.",
+            "en": "at-Tabari does not leave the two readings level. The statement is the sounder, he holds, because Musa was not in doubt that what the magicians brought was magic, so he had no need to ask what it was; he already knew who they were and why Pharaoh had consulted them. al-Jalalayn sets out both readings without preferring either. at-Tabari then adds what settled it for him: Ubayy ibn Ka'b (RA) read ma ataytum bihi sihrun and Ibn Mas'ud (RA) read ma ji'tum bihi sihrun, both indefinite, which only the statement allows.",
             "bn": "তাবারী দুটি কিরাআতকে সমান ওজনে রাখেন না। তাঁর মতে সংবাদের পড়াটাই বেশি শক্ত। কারণ যাদুকররা যা এনেছিল তা যে যাদু, এ নিয়ে মূসা (আঃ)-এর কোনো সন্দেহ ছিল না, তাই ওটা কী, তা জিজ্ঞেস করার দরকারও তাঁর ছিল না। ওরা কারা আর ফিরআউন কেন ওদের আনিয়েছে, তাও তিনি জানতেন। জালালাইন দুটি কিরাআতই তুলে ধরে, কোনোটির পক্ষ নেয় না। এরপর তাবারী জানান, কোন দলিলে বিষয়টা তাঁর কাছে মীমাংসা হল: উবাই ইবনে কা'ব (রাঃ) পড়তেন মা আতাইতুম বিহি সিহরুন, আর ইবনে মাসউদ (রাঃ) পড়তেন মা জি'তুম বিহি সিহরুন। দুটিতেই শব্দটা অনির্দিষ্ট, আর অনির্দিষ্ট রূপ কেবল সংবাদের পড়াতেই খাটে।"
           }
         ]
@@ -1828,7 +1828,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Not a single commentary fetched for this verse brings a narration from the Prophet ﷺ on it. Ibn Kathir builds his treatment out of other verses instead: he places 20:67, where Musa sensed apprehension within himself, just before this moment, and 7:120, where the magicians fell down in prostration, just after it. That is worth saying plainly, because this subject attracts material from every direction. What the verse has is the Quran's own cross-referencing, and that is enough.",
+            "en": "Not a single commentary consulted for this verse brings a narration from the Prophet ﷺ on it. Ibn Kathir builds his treatment out of other verses instead: he places 20:67, where Musa sensed apprehension within himself, just before this moment, and 7:120, where the magicians fell down in prostration, just after it. That is worth saying plainly, because this subject attracts material from every direction. What the verse has is the Quran's own cross-referencing, and that is enough.",
             "bn": "এই আয়াতের জন্য দেখা কোনো তাফসীরই নবী ﷺ থেকে কোনো হাদিস আনে না। ইবনে কাসীর বরং আলোচনা গড়েন অন্য আয়াত দিয়ে। এই মুহূর্তের ঠিক আগে তিনি রাখেন ২০:৬৭ আয়াত, যেখানে মূসা (আঃ) মনের ভেতরে ভয় অনুভব করেন, আর ঠিক পরে ৭:১২০ আয়াত, যেখানে যাদুকররা সিজদায় লুটিয়ে পড়ে। কথাটা খোলাখুলি বলা দরকার, কারণ এই বিষয়টার গায়ে চারদিক থেকে অনেক কিছু এসে জোটে। আয়াতের পক্ষে আছে কুরআনের নিজেরই আয়াতে আয়াতে মিল, আর ততটুকুই যথেষ্ট।"
           },
           {
@@ -1904,7 +1904,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "সূরা ইউনুস মক্কী, আর এর মূসা (আ)-এর অংশটি চলে ১০:৭৫ থেকে ১০:৯৩ পর্যন্ত। ১০:৮৩ আয়াতে হিসাবটা করুণ: নিজের জাতির গুটিকয় তরুণ ছাড়া কেউ তাঁর উপর ঈমান আনেনি, আর তারাও ঈমান এনেছে ফিরআউন ও তার প্রধানদের ভয় বুকে নিয়ে। ১০:৮৪ আয়াতে মূসা তাদের বলেন, আল্লাহর উপরই ভরসা কর। ১০:৮৫ আয়াতে তারা জবাব দেয় দোয়া দিয়ে: আমাদের জালিম জাতির পরীক্ষার পাত্র বানাবেন না। এরপরই আসে আমাদের আয়াত, ওহি হয়ে।"
           },
           {
-            "en": "What follows is the rescue. 10:88 is Musa's supplication against the splendour and wealth given to Pharaoh and his establishment, 10:89 tells both brothers their supplication has been answered, and 10:90 opens the sea. So the instruction about houses sits between a hunted community and its deliverance. None of the seven commentaries fetched reports an occasion of revelation, which is usual for a Makkan narrative passage. The placement is the context, and the placement is a siege.",
+            "en": "What follows is the rescue. 10:88 is Musa's supplication against the splendour and wealth given to Pharaoh and his establishment, 10:89 tells both brothers their supplication has been answered, and 10:90 opens the sea. So the instruction about houses sits between a hunted community and its deliverance. None of the seven commentaries consulted reports an occasion of revelation, which is usual for a Makkan narrative passage. The placement is the context, and the placement is a siege.",
             "bn": "এরপর আসে উদ্ধার। ১০:৮৮ আয়াতে মূসা দু'আ করেন ফিরআউন আর তার প্রধানদের চাকচিক্য ও সম্পদের বিরুদ্ধে। ১০:৮৯ আয়াতে দুই ভাইকে জানানো হয়, তাঁদের দু'আ কবুল হয়েছে। ১০:৯০ আয়াতে সমুদ্র ফাঁক হয়ে যায়। অর্থাৎ ঘর নিয়ে হুকুমটা বসে আছে শিকার হয়ে পড়া একটা জাতি আর তার মুক্তির ঠিক মাঝখানে। দেখা সাতটি তাফসীরের একটিও কোনো শানে নুযূল জানায় না, মাক্কী কাহিনী অংশে যা সাধারণ। আয়াতের অবস্থানটাই তার প্রেক্ষাপট, আর সেই অবস্থান হল অবরোধ।"
           }
         ]
@@ -2048,7 +2048,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "No narrated supplication is attached to this verse in any of the seven commentaries fetched, so what follows is composed here from its own vocabulary, not a Sunnah du'a. O Allah, You taught two of Your prophets to settle a frightened people in houses and to turn those houses into places of prayer. Make my house one of them. Let the prayer be established in it, and grant me the glad tidings You promised the believers.",
+            "en": "No narrated supplication is attached to this verse in any of the seven commentaries consulted, so what follows is composed here from its own vocabulary, not a Sunnah du'a. O Allah, You taught two of Your prophets to settle a frightened people in houses and to turn those houses into places of prayer. Make my house one of them. Let the prayer be established in it, and grant me the glad tidings You promised the believers.",
             "bn": "যে সাতটি তাফসীর দেখা হয়েছে, তার একটিতেও এ আয়াতের সঙ্গে বর্ণিত কোনো দোয়া জোড়া নেই। তাই নিচের দোয়াটি আয়াতেরই শব্দ দিয়ে এখানে সাজানো, সুন্নাহর দোয়া হিসেবে নয়। হে আল্লাহ, আপনি আপনার দুজন নবীকে শিখিয়েছিলেন, ভয়ে থাকা জাতিকে কীভাবে ঘরে ঠাঁই দিতে হয় আর সেই ঘরগুলোকেই নামাজের জায়গা বানাতে হয়। আমার ঘরটাকেও সেগুলোর একটি বানিয়ে দিন। তাতে নামাজ কায়িম থাকুক, আর মু'মিনদের যে সুসংবাদের ওয়াদা আপনি করেছেন, তা আমাকেও দান করুন।"
           },
           {
@@ -2136,7 +2136,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Every commentator fetched explains the verse by the same problem: some of the Children of Israel would not accept that Pharaoh had died. At-Tabari carries it with chains. Qatadah says groups of them denied it, so Allah cast him on the shore where they could look at him. Ibn Abbas (RA), through Sa'id ibn Jubayr, says the companions of Musa (AS) feared Pharaoh had not drowned and would not believe in his destruction, so Musa prayed and the sea put him out until they were certain.",
+            "en": "Every commentator consulted explains the verse by the same problem: some of the Children of Israel would not accept that Pharaoh had died. At-Tabari carries it with chains. Qatadah says groups of them denied it, so Allah cast him on the shore where they could look at him. Ibn Abbas (RA), through Sa'id ibn Jubayr, says the companions of Musa (AS) feared Pharaoh had not drowned and would not believe in his destruction, so Musa prayed and the sea put him out until they were certain.",
             "bn": "যত তাফসীর দেখা হয়েছে সবাই আয়াতটির ব্যাখ্যা দেয় একই সমস্যা দিয়ে: বনী ইসরাঈলের কেউ কেউ মানতে চাইছিল না যে ফিরআউন মারা গেছে। তাবারী কথাটা সনদসহ আনেন। কাতাদা বলেন, তাদের কিছু দল অস্বীকার করেছিল, তাই আল্লাহ তাকে সৈকতে ছুঁড়ে দিলেন যেন তারা দেখে নিতে পারে। ইবনে আব্বাস (রাঃ), সাঈদ ইবনে জুবাইরের সূত্রে, বলেন, মূসা (আ)-এর সঙ্গীদের ভয় ছিল ফিরআউন হয়তো ডোবেনি, তার ধ্বংসের কথা তারা মানতে পারছিল না; তখন মূসা দোয়া করলেন আর সাগর তাকে বের করে দিল, যতক্ষণ না তারা নিশ্চিত হল।"
           },
           {
@@ -2160,7 +2160,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "ইবনে কাসীর এই আয়াতের সঙ্গে একটি বর্ণনা জুড়ে দেন, আর সেটা আকীদার নয়, তারিখের। তিনি বলেন, ফিরআউন আর তার প্রধানদের ধ্বংস হয়েছিল আশুরার দিনে, আর দলিল দেন বুখারীর। সহীহ বুখারী ৪৬৮০ নম্বরে ইবনে আব্বাস (রাঃ) বর্ণনা করেন: নবী ﷺ মদীনায় এসে দেখলেন ইহুদীরা আশুরার রোজা রাখছে, তারা বলল, এই সেই দিন যেদিন মূসা ফিরআউনের উপর বিজয়ী হয়েছিলেন; তখন নবী ﷺ সাহাবীদের বললেন, মূসার বিজয় উদযাপনে তোমাদের হক তাদের চেয়ে বেশি, তাই তোমরা এই দিনে রোজা রাখো।"
           },
           {
-            "en": "A second narration in the same passage of Ibn Kathir belongs to the confession in 10:90 rather than to this verse. Jami' at-Tirmidhi 3107 records from Ibn Abbas (RA) that when Allah drowned Pharaoh he declared his belief in the God of the Children of Israel, and that Jibril said: O Muhammad ﷺ, if you could only have seen me, while I was taking the mud from the sea, and filling his mouth out of fear that the mercy would reach him. At-Tirmidhi graded it hasan. Nothing in the fetched commentaries attaches a hadith to the body itself.",
+            "en": "A second narration in the same passage of Ibn Kathir belongs to the confession in 10:90 rather than to this verse. Jami' at-Tirmidhi 3107 records from Ibn Abbas (RA) that when Allah drowned Pharaoh he declared his belief in the God of the Children of Israel, and that Jibril said: O Muhammad ﷺ, if you could only have seen me, while I was taking the mud from the sea, and filling his mouth out of fear that the mercy would reach him. At-Tirmidhi graded it hasan. Nothing in the commentaries consulted here attaches a hadith to the body itself.",
             "bn": "ইবনে কাসীরের ওই একই আলোচনায় আরেকটি বর্ণনা আছে, তবে সেটা এই আয়াতের নয়, ১০:৯০ আয়াতের স্বীকারোক্তির সঙ্গে জড়ানো। জামে তিরমিযী ৩১০৭ নম্বরে ইবনে আব্বাস (রাঃ) থেকে আছে, আল্লাহ যখন ফিরআউনকে ডুবিয়ে দিলেন তখন সে বনী ইসরাঈলের ইলাহের প্রতি ঈমানের ঘোষণা দিল, আর জিবরীল বললেন: হে মুহাম্মাদ ﷺ, আপনি যদি আমাকে দেখতেন, আমি সাগরের কাদা তুলে তার মুখে ঠেসে দিচ্ছিলাম, এই ভয়ে যে রহমত তার নাগাল পেয়ে না যায়। তিরমিযী একে হাসান বলেছেন। দেহটাকে ঘিরে কোনো হাদিস কোনো তাফসীরেই পাওয়া যায়নি।"
           }
         ]
@@ -2296,7 +2296,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "No commentary fetched for this verse attaches a saying of the Prophet ﷺ to it. What at-Tabari and al-Qurtubi bring is the statement of a Companion, Ibn Abbas (RA), about what the Prophet ﷺ wanted and what Allah then told him. That is valuable, and it is not a narration from the Prophet ﷺ himself. The honest thing is to say so and leave the slot empty rather than borrow from a neighbouring verse.",
+            "en": "No commentary consulted for this verse attaches a saying of the Prophet ﷺ to it. What at-Tabari and al-Qurtubi bring is the statement of a Companion, Ibn Abbas (RA), about what the Prophet ﷺ wanted and what Allah then told him. That is valuable, and it is not a narration from the Prophet ﷺ himself. The honest thing is to say so and leave the slot empty rather than borrow from a neighbouring verse.",
             "bn": "এ আয়াতের জন্য দেখা কোনো তাফসীরই এর সঙ্গে নবী ﷺ-এর কোনো বাণী জুড়ে দেয় না। তাবারী আর কুরতুবী যা আনেন, তা একজন সাহাবী, ইবনে আব্বাস (রাঃ)-এর কথা: নবী ﷺ কী চাইতেন আর আল্লাহ তাঁকে কী জানালেন। কথাটা মূল্যবান, তবু তা নবী ﷺ-এর নিজের মুখের বর্ণনা নয়। সততার দাবি হল এ কথা খোলাখুলি বলে দেওয়া আর জায়গাটা খালি রাখা, পাশের আয়াত থেকে কিছু ধার করে না আনা।"
           },
           {
@@ -2316,7 +2316,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "ইবনে কাসীর এ আয়াতটি বোঝান এর মতো আরও আয়াত এক জায়গায় জড়ো করে, আর আয়াতটি বোঝার জন্য তাঁর এই তালিকাই সবচেয়ে ভালো সহায়। ১১:১১৮ বলছে, তোমার রব চাইলে মানুষকে একই জাতি করে দিতে পারতেন, কিন্তু তারা মতভেদ করতেই থাকবে। ১১:১১৯ কথাটা শেষ করে: তবে তোমার রব যাদের প্রতি রহম করেছেন তারা ছাড়া, আর এ জন্যই তিনি তাদের সৃষ্টি করেছেন। ১৩:৩১ একই কথা মু'মিনদের সামনে প্রশ্ন করে রাখে: তারা কি বোঝেনি যে আল্লাহ চাইলে সব মানুষকেই হিদায়াত দিতে পারতেন?"
           },
           {
-            "en": "16:9 says it from the other side, that upon Allah is the direction of the way and had He willed He could have guided you all. 6:107 joins both halves of our verse in a breath: had Allah willed they would not have associated, and We have not appointed you over them as a guardian. 88:22 states the limit flatly, that you are not over them a controller. A reader will also reach for 2:256, which shares the noun ikrah, though none of the commentaries fetched brings 2:256 in here.",
+            "en": "16:9 says it from the other side, that upon Allah is the direction of the way and had He willed He could have guided you all. 6:107 joins both halves of our verse in a breath: had Allah willed they would not have associated, and We have not appointed you over them as a guardian. 88:22 states the limit flatly, that you are not over them a controller. A reader will also reach for 2:256, which shares the noun ikrah, though none of the commentaries consulted brings 2:256 in here.",
             "bn": "১৬:৯ কথাটা বলে উল্টো দিক থেকে, সোজা পথ দেখানো আল্লাহরই দায়িত্ব, আর তিনি চাইলে তোমাদের সবাইকেই পথ দেখাতে পারতেন। ৬:১০৭ আমাদের আয়াতের দুই ভাগকেই এক নিঃশ্বাসে জুড়ে দেয়: আল্লাহ চাইলে তারা শিরক করত না, আর আমি তোমাকে তাদের উপর পাহারাদার করে পাঠাইনি। ৮৮:২২ সীমাটা একদম সাফ করে বলে, তুমি তাদের উপর জবরদস্তিকারী নও। পাঠকের মনে ২:২৫৬ আয়াতটিও আসবে, যেখানে ইকরাহ শব্দটিই আছে; যদিও দেখা তাফসীরগুলোর কোনোটিই এখানে ২:২৫৬ টেনে আনে না।"
           }
         ]
@@ -2328,7 +2328,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "What the fetched commentaries draw from the closing question is narrow and consistent. Ibn Kathir glosses tukrihu as to oblige them and force them, then says that this is neither upon you nor for you to do, and that you were not commanded to do it. As-Sa'di says you have no power over that, it is not within your ability, and nobody besides Allah has any power over any part of it. Al-Jalalayn reads the question as, would you compel people to what Allah did not will for them, and answers it flatly.",
+            "en": "What the commentaries consulted here draw from the closing question is narrow and consistent. Ibn Kathir glosses tukrihu as to oblige them and force them, then says that this is neither upon you nor for you to do, and that you were not commanded to do it. As-Sa'di says you have no power over that, it is not within your ability, and nobody besides Allah has any power over any part of it. Al-Jalalayn reads the question as, would you compel people to what Allah did not will for them, and answers it flatly.",
             "bn": "শেষের প্রশ্নটি থেকে দেখা তাফসীরগুলো যা বের করে, তার পরিসর ছোট, আর সবাই একই কথা বলে। ইবনে কাসীর তুকরিহু-র অর্থ করেন, তাদের বাধ্য করা ও জোর খাটানো; তারপর বলেন, এ কাজ তোমার উপরও বর্তায় না, তোমার হাতেও নেই, আর তোমাকে এর হুকুমও দেওয়া হয়নি। সা'দী বলেন, এ ক্ষমতা তোমার নেই, তোমার সাধ্যেও নেই, আর আল্লাহ ছাড়া এর কোনো অংশে কারও ক্ষমতা নেই। জালালাইন প্রশ্নটিকে পড়েন এভাবে: আল্লাহ যা চাননি সেদিকে কি তুমি মানুষকে জোর করে নেবে? আর জবাবটা সাফ করেই দেন।"
           },
           {
@@ -2388,7 +2388,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "তারপর আমাদের আয়াত। শেষের ওই হুকুমগুলোর মধ্যে কেবল এটিই 'বলো' দিয়ে শুরু হয়নি। নবী ﷺ-কে এখানে কথাটা ঘোষণা করতে বলা হচ্ছে না, নিজে করতে বলা হচ্ছে। সূরাটি শুরু হয়েছিল ১০:১ আয়াতে নিজের আয়াতগুলোকে হিকমতে ভরা কিতাবের আয়াত বলে। ১০:২ আয়াতে জানিয়েছিল, তাদেরই মধ্যকার এক মানুষের কাছে ওহি এসেছে বলে লোকেরা অবাক হয়েছে। সেই সূরা শেষ হচ্ছে সেই মানুষটিকেই বলে: যা নাজিল হচ্ছে তার পেছনে চলতে থাকো। সূরা তর্কের উপসংহার টেনে শেষ হয় না, শেষ হয় একটি হুকুম দিয়ে।"
           },
           {
-            "en": "None of the seven tafsir commentaries fetched for this verse reports an occasion of revelation, and the tafsir page for 10:109 at quranx carries nothing from al-Wahidi, so the placement is the context. One detail of that placement deserves notice. At-Tabari, al-Qurtubi and as-Sa'di each end their commentary on the whole surah with this sentence. It is where the commentators themselves stop.",
+            "en": "None of the seven tafsir commentaries consulted for this verse reports an occasion of revelation, and the tafsir page for 10:109 at quranx carries nothing from al-Wahidi, so the placement is the context. One detail of that placement deserves notice. At-Tabari, al-Qurtubi and as-Sa'di each end their commentary on the whole surah with this sentence. It is where the commentators themselves stop.",
             "bn": "এ আয়াতের জন্য দেখা সাতটি তাফসীরের একটিও কোনো শানে নুযূল জানায় না, আর কুরআনএক্স-এর ১০:১০৯ তাফসীর পাতাতেও ওয়াহিদীর কিছু নেই। কাজেই আয়াতের অবস্থানটাই তার প্রেক্ষাপট। অবস্থান নিয়ে একটি কথা খেয়াল করার মতো। তাবারী, কুরতুবী আর সা'দী গোটা সূরার তাফসীর এই বাক্যেই শেষ করেন। মুফাসসিরগণ নিজেরাই এখানে এসে থামেন।"
           }
         ]
@@ -2460,7 +2460,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Al-Qurtubi is the only commentary among those fetched that attaches a narration to this verse. He reports from Ibn Abbas (RA) that when it came down the Prophet ﷺ gathered the Ansar and nobody else with them, and told them they would meet athara after him, others being preferred over them, and should be patient until they met him at the Hawd. The like is narrated from Anas (RA).",
+            "en": "Al-Qurtubi is the only commentary among those consulted that attaches a narration to this verse. He reports from Ibn Abbas (RA) that when it came down the Prophet ﷺ gathered the Ansar and nobody else with them, and told them they would meet athara after him, others being preferred over them, and should be patient until they met him at the Hawd. The like is narrated from Anas (RA).",
             "bn": "দেখা তাফসীরগুলোর মধ্যে কেবল কুরতুবীই এ আয়াতের সঙ্গে কোনো হাদিস জুড়ে দেন। তিনি ইবনে আব্বাস (রাঃ) থেকে বর্ণনা করেন, আয়াতটি যখন নামল তখন নবী ﷺ আনসারদের ডেকে জড়ো করলেন, তাঁদের সঙ্গে আর কাউকে ডাকলেন না, আর বললেন, আমার পরে তোমরা আসারা দেখবে, অর্থাৎ তোমাদের উপর অন্যদের অগ্রাধিকার দেওয়া হবে; কাজেই সবর করো, যতক্ষণ না হাওযের ধারে আমার সঙ্গে দেখা হয়। আনাস (রাঃ) থেকেও এমনটাই বর্ণিত।"
           },
           {
@@ -2516,7 +2516,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "এই একই শব্দে গড়া একটি দোয়া কুরআনেই আছে। ৭:৮৯ আয়াতে শুআইব (আঃ) আর তাঁর সঙ্গীরা বলেন: রাব্বানাফতাহ বাইনানা ওয়া বাইনা কাওমিনা বিলহাক্কি ওয়া আনতা খাইরুল ফাতিহীন, অর্থাৎ হে আমাদের রব, আমাদের আর আমাদের জাতির মধ্যে হক দিয়ে ফায়সালা করে দিন, আপনিই তো সবচেয়ে ভালো ফায়সালাকারী। এটি কিতাবে সংরক্ষিত এক নবীর দোয়া, হাদিসে নির্দিষ্ট করা কোনো সুন্নাহর দোয়া নয়।"
           },
           {
-            "en": "A shorter supplication can be built from this verse's own words, and it should be called exactly that. O Allah, make me follow what You have sent down, hold me steady until You judge, and let me be content that You are the best of judges. Nothing in the commentaries fetched fixes such a wording, so it is a reader's sentence assembled from the verse, not a narration.",
+            "en": "A shorter supplication can be built from this verse's own words, and it should be called exactly that. O Allah, make me follow what You have sent down, hold me steady until You judge, and let me be content that You are the best of judges. Nothing in the commentaries consulted fixes such a wording, so it is a reader's sentence assembled from the verse, not a narration.",
             "bn": "আয়াতের নিজের শব্দ দিয়েই ছোট একটি দোয়া গড়ে নেওয়া যায়, আর সেটিকে ঠিক সে নামেই ডাকা দরকার। হে আল্লাহ, আপনি যা নাজিল করেছেন তার পেছনে চলার তাওফিক আমাকে দিন, আপনার ফায়সালা না আসা পর্যন্ত আমাকে অটল রাখুন, আর আপনিই যে সর্বোত্তম ফায়সালাকারী, এ কথায় আমার মনকে তৃপ্ত রাখুন। দেখা তাফসীরগুলোর কোথাও এমন শব্দ বাঁধা নেই; কাজেই এটি আয়াত থেকে গড়ে নেওয়া পাঠকের বাক্য, কোনো হাদিস নয়।"
           }
         ]

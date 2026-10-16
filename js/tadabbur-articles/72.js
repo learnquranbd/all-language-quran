@@ -180,7 +180,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Lamasna is from the root l-m-s. The English rendering used here says we have sought, with to reach in brackets. The commentators fetched for this verse each give it a sense of reaching for. At-Tabari glosses it as talabna as-sama'a wa-aradnaha: we sought the sky and wanted it. Al-Qurtubi adds the object and the custom: talabna khabaraha kama jarat 'adatuna, we sought its news, as had been our habit. The Muyassar names a purpose: we sought to reach the sky in order to listen to the speech of its inhabitants.",
+            "en": "Lamasna is from the root l-m-s. The English rendering used here says we have sought, with to reach in brackets. The commentators consulted for this verse each give it a sense of reaching for. At-Tabari glosses it as talabna as-sama'a wa-aradnaha: we sought the sky and wanted it. Al-Qurtubi adds the object and the custom: talabna khabaraha kama jarat 'adatuna, we sought its news, as had been our habit. The Muyassar names a purpose: we sought to reach the sky in order to listen to the speech of its inhabitants.",
             "bn": "লামাসনা শব্দটি ল-ম-স ধাতু থেকে। এখানে ব্যবহৃত ইংরেজি অনুবাদে আছে 'আমরা চেয়েছিলাম', আর বন্ধনীতে 'পৌঁছাতে'। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, সবগুলোই শব্দটিকে নাগাল পাওয়ার চেষ্টা অর্থে নিয়েছে। তাবারী লেখেন: তালাবনাস সামাআ ওয়া আরাদনাহা, আমরা আকাশ চেয়েছিলাম, তার ইচ্ছা করেছিলাম। কুরতুবী বিষয় আর অভ্যাস দুটোই যোগ করেন: আমরা আকাশের খবর খুঁজেছিলাম, যেমনটা আমাদের চিরাচরিত অভ্যাস ছিল। মুয়াসসার উদ্দেশ্যটাও বলে দেয়: আকাশবাসীদের কথা শোনার জন্য আমরা আকাশে পৌঁছাতে চেয়েছিলাম।"
           },
           {
@@ -348,7 +348,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "The other commentators fetched for this verse agree on the sense, each in his own words. At-Tabari glosses it as wa-anna 'alimna, and that we knew. Al-Baghawi doubles the gloss: 'alimna wa-ayqanna, we knew and we were certain. The Muyassar opens with ayqanna, we became certain, and adds what the certainty was about: that Allah has power over us and that we are in His grip and His authority, fi qabdatihi wa-sultanihi. Ibn Kathir uses the present tense, na'lamu, we know that the power of Allah rules over us.",
+            "en": "The other commentators consulted for this verse agree on the sense, each in his own words. At-Tabari glosses it as wa-anna 'alimna, and that we knew. Al-Baghawi doubles the gloss: 'alimna wa-ayqanna, we knew and we were certain. The Muyassar opens with ayqanna, we became certain, and adds what the certainty was about: that Allah has power over us and that we are in His grip and His authority, fi qabdatihi wa-sultanihi. Ibn Kathir uses the present tense, na'lamu, we know that the power of Allah rules over us.",
             "bn": "এ আয়াতের জন্য অন্য যেসব তাফসীর দেখা হয়েছে, অর্থের ব্যাপারে সবাই একমত, শুধু ভাষা যার যার। তাবারী এর অর্থ করেন ওয়া আন্না আলিমনা, আর এই যে আমরা জেনেছি। বাগাভী দুটো শব্দ পাশাপাশি রাখেন: আলিমনা ওয়া আইকান্না, আমরা জেনেছি এবং নিশ্চিত হয়েছি। মুয়াসসার শুরু করে আইকান্না দিয়ে, আমরা নিশ্চিত হয়েছি। তারপর বলে দেয় নিশ্চয়তাটা কী নিয়ে: আল্লাহ আমাদের উপর ক্ষমতাবান, আর আমরা তাঁর মুঠোয়, তাঁর কর্তৃত্বের অধীনে। ইবন কাসীর বর্তমান কাল ব্যবহার করেন, না'লামু: আমরা জানি, আল্লাহর ক্ষমতা আমাদের উপর কার্যকর।"
           },
           {
@@ -356,7 +356,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "সা'দী একে দেখেন নির্দিষ্ট এক সময়ে স্পষ্ট হয়ে ওঠা সত্য হিসেবে। তাঁর ভাষায় জিনেরা যেন বলছে: এখন, আমাদের এই সময়ে, আল্লাহর ক্ষমতার পূর্ণতা আর আমাদের অক্ষমতার পূর্ণতা দুটোই আমাদের কাছে পরিষ্কার হয়ে গেছে। আমাদের কপালের চুল আল্লাহর হাতে। কুরতুবী জানার পথটার নাম বলেন: দলিল থেকে সিদ্ধান্তে পৌঁছে, আর আল্লাহর নিদর্শন নিয়ে চিন্তা করে তারা এ কথা জেনেছে। কোন নিদর্শন, তা দুজনের কেউ নির্দিষ্ট করেননি। এই লেখাও তা আন্দাজ করবে না।"
           },
           {
-            "en": "In al-Qurtubi's and as-Sa'di's wording, then, this is certainty that was reached, not merely received. At-Tabari closes his short comment with a sentence that sums up the whole verse: they described Allah as having power over them wherever they were, haythu kanu. That phrase will return below. None of the commentaries fetched for this verse attaches a hadith to it, so none is cited here, and none of them gives an occasion of revelation for it.",
+            "en": "In al-Qurtubi's and as-Sa'di's wording, then, this is certainty that was reached, not merely received. At-Tabari closes his short comment with a sentence that sums up the whole verse: they described Allah as having power over them wherever they were, haythu kanu. That phrase will return below. None of the commentaries consulted for this verse attaches a hadith to it, so none is cited here, and none of them gives an occasion of revelation for it.",
             "bn": "কুরতুবী আর সা'দীর ভাষা তাই বলে, এই নিশ্চয়তা কারও কাছ থেকে শুধু শুনে পাওয়া নয়, ভেবে পৌঁছানো। তাবারী তাঁর সংক্ষিপ্ত মন্তব্য শেষ করেন এমন এক বাক্যে, যা পুরো আয়াতের সারকথা: তারা আল্লাহকে এমনভাবে বর্ণনা করেছে যে তারা যেখানেই থাকুক, তিনি তাদের উপর ক্ষমতাবান। এই কথাটায় নিচে আবার ফিরব। এ আয়াতের জন্য আনা কোনো তাফসীর এর সঙ্গে কোনো হাদিস যুক্ত করেনি, তাই এখানে কোনো হাদিস উদ্ধৃত হচ্ছে না। নাজিলের কোনো উপলক্ষও তাঁরা উল্লেখ করেননি।"
           }
         ]

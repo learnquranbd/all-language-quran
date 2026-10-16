@@ -276,7 +276,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "A word on what stands behind these readings. The commentaries fetched for this verse attach no saying of the Prophet (ﷺ) to it; there is no sound hadith cited here, and that is itself worth stating rather than filling the space with a weak one. What the tafsirs carry are reports from the generation after him, Qatada glossing ahl adh-dhikr as the people of Torah and Gospel, Ibn Zayd glossing it as the people of the Qur'an. These are explanations of a phrase, not Prophetic narrations about the verse.",
+            "en": "A word on what stands behind these readings. The commentaries consulted for this verse attach no saying of the Prophet (ﷺ) to it; there is no sound hadith cited here, and that is itself worth stating rather than filling the space with a weak one. What the tafsirs carry are reports from the generation after him, Qatada glossing ahl adh-dhikr as the people of Torah and Gospel, Ibn Zayd glossing it as the people of the Qur'an. These are explanations of a phrase, not Prophetic narrations about the verse.",
             "bn": "এই অর্থগুলোর পেছনে কী আছে, সে বিষয়ে দু'টি কথা। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এর সঙ্গে নবী ﷺ-এর কোনো বাণী যুক্ত করেনি। এখানে কোনো সহীহ হাদিস উদ্ধৃত হয়নি। দুর্বল কিছু দিয়ে জায়গা না ভরে এ কথাটা খোলাখুলি বলে দেওয়াই ভালো। তাফসীরে যা আছে তা তাঁর পরের প্রজন্মের বর্ণনা: কাতাদা 'আহলে যিকর' বলতে বুঝিয়েছেন তাওরাত ও ইঞ্জিলের অনুসারীদের, আর ইবন যায়দ বুঝিয়েছেন কুরআনের অনুসারীদের। এগুলো একটি শব্দবন্ধের ব্যাখ্যা, আয়াত সম্পর্কে নবীর বাণী নয়।"
           },
           {
@@ -1444,7 +1444,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "This should be said plainly. The verse reports the speech of Ibrahim's idolatrous people and the plan they laid against him. It describes what the text describes, and it passes no verdict on any living person or community, and licenses nothing against anyone today. The word \"wrongdoers\" spoken in this scene (zalimun, 21:59) is the accusers' word about Ibrahim, in their mouths, in that story; and by the verses that follow it recoils on the ones who said it, when they \"return to themselves\" and see who the wrongdoers really are (21:64).",
+            "en": "This should be said plainly. The verse reports the speech of Ibrahim's idolatrous people and the plan they laid against him. It speaks only of what it names, and it passes no verdict on any living person or community, and licenses nothing against anyone today. The word \"wrongdoers\" spoken in this scene (zalimun, 21:59) is the accusers' word about Ibrahim, in their mouths, in that story; and by the verses that follow it recoils on the ones who said it, when they \"return to themselves\" and see who the wrongdoers really are (21:64).",
             "bn": "এটা সোজাসুজি বলা দরকার। আয়াতটি ইবরাহীমের মূর্তিপূজারী কওমের কথা আর তাঁর বিরুদ্ধে তাদের ষড়যন্ত্রের বর্ণনা দেয়। পাঠে যা আছে, আয়াত শুধু তা-ই বর্ণনা করে। কোনো জীবিত মানুষ বা জনগোষ্ঠীর উপর রায় দেয় না, আজ কারও বিরুদ্ধে কিছুর অনুমতিও দেয় না। এ দৃশ্যে উচ্চারিত যালিম শব্দটা (২১:৫৯) অভিযোগকারীদের মুখের কথা, ইবরাহীমকে নিয়ে, ওই কাহিনির ভেতরে। পরের আয়াতগুলোতে কথাটা উল্টে পড়ে যারা বলেছিল তাদের উপরেই, যখন তারা নিজেদের দিকে ফিরে তাকায় আর দেখে আসল যালিম কারা (২১:৬৪)।"
           },
           {

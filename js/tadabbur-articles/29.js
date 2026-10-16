@@ -504,7 +504,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "None of the commentaries fetched for this verse attaches a hadith directly to it, so what follows is a sound narration on the resurrection in general, not a report the mufassirūn tie to these words. Sahih al-Bukhari records that the Prophet (ﷺ) said that between the two blowings of the trumpet there is forty; when Abu Hurayra (RA) was pressed on whether this meant days, months, or years, he declined to say.",
+            "en": "None of the commentaries consulted for this verse attaches a hadith directly to it, so what follows is a sound narration on the resurrection in general, not a report the mufassirūn tie to these words. Sahih al-Bukhari records that the Prophet (ﷺ) said that between the two blowings of the trumpet there is forty; when Abu Hurayra (RA) was pressed on whether this meant days, months, or years, he declined to say.",
             "bn": "এ আয়াতের জন্য আনা কোনো তাফসীরই সরাসরি এর সঙ্গে কোনো হাদিস জুড়ে দেয় না, তাই নিচে যা আসছে তা পুনরুত্থান নিয়ে সাধারণভাবে একটি সহীহ বর্ণনা, এ শব্দগুলোর সঙ্গে তাফসীরকারদের বেঁধে দেওয়া কোনো বর্ণনা নয়। সহীহ বুখারীতে এসেছে, নবী ﷺ বলেছেন দুই ফুঁৎকারের মাঝে চল্লিশ। আবু হুরায়রা (রাঃ)-কে যখন চাপ দেওয়া হলো এর অর্থ দিন, মাস নাকি বছর, তিনি বলতে চাইলেন না।"
           },
           {

@@ -76,7 +76,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "ফাতুবি'আ আলা কুলূবিহিম: ফলে তাদের অন্তরে মোহর লেগে গেল। ক্রিয়াটি কর্মবাচ্যে, কে মোহর লাগালেন তা এখানে বলা নেই। তাবারী সেটা খুলে বলেন, সঙ্গে মোহরের ধরনও: আল্লাহ তাদের অন্তরে কুফরের মোহর এঁটে দিলেন, যাতে ঈমান আর ঢুকতে না পারে। তারপর তিনি জানান, অন্তরে মোহর লাগার বিবরণ তিনি অন্য জায়গায় দলিল আর আলেমদের মতামতসহ বলেছেন, তাই এখানে আর তা দোহরাচ্ছেন না। এ লেখাও তাঁর পথ ধরছে। এ আয়াতে তাফসীরকারেরা যে ভাষা ব্যবহার করেছেন, তার বাইরে যাচ্ছে না।"
           },
           {
-            "en": "The others keep close to that wording. Al-Qurtubi: that is, a seal was set on them, with disbelief. Al-Baghawi: with disbelief. The Muyassar names the cause outright: Allah sealed their hearts because of their disbelief. In the order of the verse the seal comes after the disbelief and is joined to it by fa, so, and none of the sources fetched here places it first. Al-Qurtubi also records that Zayd ibn 'Ali read the clause as fa-taba'a Allahu 'ala qulubihim, so Allah sealed their hearts, with the doer named.",
+            "en": "The others keep close to that wording. Al-Qurtubi: that is, a seal was set on them, with disbelief. Al-Baghawi: with disbelief. The Muyassar names the cause outright: Allah sealed their hearts because of their disbelief. In the order of the verse the seal comes after the disbelief and is joined to it by fa, so, and none of the sources consulted here places it first. Al-Qurtubi also records that Zayd ibn 'Ali read the clause as fa-taba'a Allahu 'ala qulubihim, so Allah sealed their hearts, with the doer named.",
             "bn": "বাকিরাও প্রায় একই ভাষায় বলেন। কুরতুবী: অর্থাৎ অন্তরগুলোতে মোহর এঁটে দেওয়া হলো, কুফর দিয়ে। বাগাভী: কুফর দিয়ে। মুয়াসসার কারণটা সরাসরি বলে দেয়: তাদের কুফরের কারণে আল্লাহ তাদের অন্তরে মোহর লাগালেন। আয়াতের ক্রমেও মোহর আসে কুফরের পরে, আর দুটোকে জোড়ে 'ফা', অর্থাৎ 'ফলে'। এখানে দেখা কোনো তাফসীর মোহরকে আগে বসায়নি। কুরতুবী আরও উল্লেখ করেন, যায়দ ইবন আলী এ অংশটি পড়েছেন ফাতাবা'আল্লাহু আলা কুলূবিহিম, অর্থাৎ আল্লাহ তাদের অন্তরে মোহর লাগালেন। এ পাঠে কর্তার নাম স্পষ্ট।"
           },
           {
@@ -112,7 +112,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "None of the commentaries fetched for this verse attaches a hadith to it, so none is quoted here. Qatada's line, which at-Tabari gives with its chain, is his comment on the verse, not a saying of the Prophet ﷺ. Ma'arif al-Qur'an opens the surah with a long account of the campaign against Banu al-Mustaliq and what was said on the road home. Those reports belong with the later verses of the surah, and Ma'arif does not tie any of them to this verse, so they are left for their place.",
+            "en": "None of the commentaries consulted for this verse attaches a hadith to it, so none is quoted here. Qatada's line, which at-Tabari gives with its chain, is his comment on the verse, not a saying of the Prophet ﷺ. Ma'arif al-Qur'an opens the surah with a long account of the campaign against Banu al-Mustaliq and what was said on the road home. Those reports belong with the later verses of the surah, and Ma'arif does not tie any of them to this verse, so they are left for their place.",
             "bn": "এ আয়াতের যেসব তাফসীর দেখা হয়েছে, তার একটিও এর সঙ্গে কোনো হাদিস জোড়েনি। তাই এখানেও কোনো হাদিস আনা হয়নি। তাবারী সনদসহ কাতাদার যে কথা এনেছেন, তা আয়াত নিয়ে কাতাদার নিজের ব্যাখ্যা, নবী ﷺ-এর বাণী নয়। মাআরিফুল কুরআন সূরার শুরুতে বনু মুস্তালিকের অভিযান আর ফেরার পথে বলা কথাবার্তার দীর্ঘ বিবরণ দেয়। সেসব বর্ণনার জায়গা সূরার পরের আয়াতগুলোতে। মাআরিফ সেগুলোর কোনোটিকে এ আয়াতের সঙ্গে জোড়েনি, তাই সেগুলো নিজ নিজ জায়গার জন্য তোলা রইল।"
           }
         ]
@@ -124,7 +124,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "This needs saying plainly. The verse describes the people of 63:1 and 63:2, the hypocrites who came to the Prophet ﷺ with their testimony and their oaths. It describes what it describes and licenses nothing against any living person or community. It does not hand the reader a test for judging anyone's heart. It gives nobody the right to call a fellow believer a hypocrite, to treat someone's prayer or profession as a mask, or to decide that another person's heart has been sealed.",
+            "en": "This needs saying plainly. The verse describes the people of 63:1 and 63:2, the hypocrites who came to the Prophet ﷺ with their testimony and their oaths. It speaks only of what it names and licenses nothing against any living person or community. It does not hand the reader a test for judging anyone's heart. It gives nobody the right to call a fellow believer a hypocrite, to treat someone's prayer or profession as a mask, or to decide that another person's heart has been sealed.",
             "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি বর্ণনা দিচ্ছে ৬৩:১ ও ৬৩:২ আয়াতের সেই লোকদের, সেই মুনাফিকদের, যারা সাক্ষ্য আর শপথ নিয়ে নবী ﷺ-এর কাছে আসত। আয়াত যা বর্ণনা করে, শুধু সেটুকুই বর্ণনা করে। আজকের কোনো জীবিত মানুষ বা কোনো জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি এ আয়াত দেয় না। কারও অন্তরের বিচার করার কোনো মাপকাঠিও পাঠকের হাতে তুলে দেয় না। কোনো মু'মিন ভাইকে মুনাফিক বলার, কারও নামাজ বা ঈমানের ঘোষণাকে মুখোশ ভাবার, কিংবা কারও অন্তরে মোহর পড়ে গেছে বলে রায় দেওয়ার অধিকার এ আয়াত কাউকে দেয় না।"
           },
           {

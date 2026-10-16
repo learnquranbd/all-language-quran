@@ -72,7 +72,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "Why would earning mean children? Al-Qurtubi and al-Baghawi answer with a saying of the Prophet ﷺ from 'A'isha, and al-Qurtubi says Abu Dawud recorded it. Sunan Abu Dawud 3528, in the English of the page we fetched, reads in full: Narrated Aisha, Ummul Mu'minin: The aunt of Umarah ibn Umayr asked Aisha: I have an orphan in my guardianship. May I enjoy from his property? She said: The Messenger of Allah (ﷺ) said: The pleasantest things a man enjoys come from what he earns, and his child comes from what he earns.",
+            "en": "Why would earning mean children? Al-Qurtubi and al-Baghawi answer with a saying of the Prophet ﷺ from 'A'isha, and al-Qurtubi says Abu Dawud recorded it. Sunan Abu Dawud 3528, in the English of the page we consulted, reads in full: Narrated Aisha, Ummul Mu'minin: The aunt of Umarah ibn Umayr asked Aisha: I have an orphan in my guardianship. May I enjoy from his property? She said: The Messenger of Allah (ﷺ) said: The pleasantest things a man enjoys come from what he earns, and his child comes from what he earns.",
             "bn": "উপার্জন মানে সন্তান হবে কেন? কুরতুবী আর বাগাভী এর জবাবে আয়েশা (রাঃ) থেকে নবী ﷺ-এর একটি বাণী আনেন। কুরতুবী বলেন, আবু দাউদ এটি বর্ণনা করেছেন। আমরা যে পাতা খুলে দেখেছি, সেখানে সুনানে আবু দাউদ ৩৫২৮-এর পুরো ইংরেজি পাঠের বাংলা দাঁড়ায় এমন: উম্মুল মু'মিনীন আয়েশা (রাঃ) থেকে বর্ণিত। উমারা ইবন উমাইরের ফুফু আয়েশাকে জিজ্ঞেস করলেন: আমার তত্ত্বাবধানে এক এতিম আছে। আমি কি তার সম্পদ থেকে ভোগ করতে পারি? তিনি বললেন: রাসূলুল্লাহ ﷺ বলেছেন: মানুষ যা ভোগ করে, তার মধ্যে সবচেয়ে উত্তম হলো তার নিজের উপার্জন, আর তার সন্তানও তার উপার্জন থেকে।"
           },
           {
@@ -124,7 +124,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "This needs saying plainly. The verse concerns one man, Abu Lahab, who lived and died in the Prophet's own time, and it describes what the text describes. It licenses nothing against any living person or community. It gives no ground for any statement about his descendants, his relatives, or any family or clan today, the Prophet's own clan included. The reports above about his sons are carried by the commentators as evidence for the meaning of one word; they are not a judgement on anyone born since, and this article passes none.",
+            "en": "This needs saying plainly. The verse concerns one man, Abu Lahab, who lived and died in the Prophet's own time, and it speaks only of what it names. It licenses nothing against any living person or community. It gives no ground for any statement about his descendants, his relatives, or any family or clan today, the Prophet's own clan included. The reports above about his sons are carried by the commentators as evidence for the meaning of one word; they are not a judgement on anyone born since, and this article passes none.",
             "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াতটি একজন মানুষকে নিয়ে: আবু লাহাব। সে নবী ﷺ-এর নিজের যুগেই বেঁচে ছিল, সে যুগেই মারা গেছে। আয়াত যা বর্ণনা করে, শুধু তা-ই বর্ণনা করে। জীবিত কোনো মানুষ বা কোনো সম্প্রদায়ের বিরুদ্ধে এ আয়াত কোনো কিছুর অনুমতি দেয় না। তার বংশধর বা আত্মীয়স্বজন নিয়ে, কিংবা আজকের কোনো পরিবার বা গোত্র নিয়ে কোনো মন্তব্য করার ভিত্তিও এ আয়াতে নেই, নবী ﷺ-এর নিজের গোত্রের ব্যাপারেও না। তার ছেলেদের নিয়ে উপরের বর্ণনাগুলো তাফসীরকারেরা এনেছেন একটি শব্দের অর্থের প্রমাণ হিসেবে। পরে জন্ম নেওয়া কারও উপর সেগুলো কোনো রায় নয়, আর এই লেখাও কোনো রায় দেয় না।"
           },
           {

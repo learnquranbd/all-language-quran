@@ -496,7 +496,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "It is worth being clear about what these citations are. The glosses gathered here — Ibn ʿAbbās (RA), Mujāhid, Qatāda, ad-Dahhāk, as-Suddī, al-Hasan al-Basrī, Wahb ibn Munabbih — are athar, the words of Companions and Successors preserved in the tafsir chains, not sayings the Prophet ﷺ is reported to have spoken. No sound hadith is attached to this verse in the commentaries fetched for it, and none has been added here; where the slot for a Prophetic report is empty, the honest note is that it is empty.",
+            "en": "It is worth being clear about what these citations are. The glosses gathered here — Ibn ʿAbbās (RA), Mujāhid, Qatāda, ad-Dahhāk, as-Suddī, al-Hasan al-Basrī, Wahb ibn Munabbih — are athar, the words of Companions and Successors preserved in the tafsir chains, not sayings the Prophet ﷺ is reported to have spoken. No sound hadith is attached to this verse in the commentaries consulted for it, and none has been added here; where the slot for a Prophetic report is empty, the honest note is that it is empty.",
             "bn": "এই উদ্ধৃতিগুলো আসলে কী, তা পরিষ্কার থাকা দরকার। এখানে যাঁদের ব্যাখ্যা জড়ো করা হয়েছে, ইবন আব্বাস (রাঃ), মুজাহিদ, কাতাদা, দাহহাক, সুদ্দী, হাসান বসরী আর ওয়াহব ইবন মুনাব্বিহ, তাঁদের সবার কথাই আসার: সাহাবি ও তাবিয়িদের বক্তব্য, যা তাফসীরের সনদে সংরক্ষিত। এগুলো নবী ﷺ-এর বাণী হিসেবে বর্ণিত নয়। এ আয়াতের জন্য যেসব তাফসীর দেখা হয়েছে, তার কোনোটিতে এ আয়াতের সঙ্গে কোনো সহীহ হাদিস যুক্ত নেই, আর এখানেও কোনো হাদিস জোড়া হয়নি। নবীর বাণীর ঘর যেখানে খালি, সেখানে সৎ কথা হলো: ঘরটা খালি।"
           },
           {
@@ -1144,7 +1144,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "This needs saying plainly. The Children of Israel here are a people the Qur'an describes at a specific moment in history: an oppressed community, enslaved and worked past all endurance by a named tyrant, whom God is about to deliver through His messengers. That is the whole of what the verse reports about them. It is a scriptural and historical account of a single deliverance, and it hands down no ruling about any modern people, state, or conflict, and pronounces no verdict for or against anyone alive today. The verse describes what the text describes, and it licenses nothing against any living person or community.",
+            "en": "This needs saying plainly. The Children of Israel here are a people the Qur'an describes at a specific moment in history: an oppressed community, enslaved and worked past all endurance by a named tyrant, whom God is about to deliver through His messengers. That is the whole of what the verse reports about them. It is a scriptural and historical account of a single deliverance, and it hands down no ruling about any modern people, state, or conflict, and pronounces no verdict for or against anyone alive today. The verse speaks only of what it names, and it licenses nothing against any living person or community.",
             "bn": "কথাটা সোজাসুজি বলা দরকার। এখানে বানী ইসরাঈলের কথা এসেছে ইতিহাসের একটা নির্দিষ্ট মুহূর্তে, কুরআন যেভাবে তাদের বর্ণনা করেছে: এক নির্যাতিত সম্প্রদায়, নির্দিষ্ট এক অত্যাচারীর হাতে দাস বানানো, সহ্যের সীমা ছাড়িয়ে খাটানো মানুষ, যাদের আল্লাহ তাঁর রাসূলদের মাধ্যমে মুক্ত করতে যাচ্ছেন। তাদের সম্পর্কে আয়াত এটুকুই জানায়, এর বেশি নয়। এটা একটি মুক্তির ঘটনার কুরআনি ও ঐতিহাসিক বিবরণ। আজকের কোনো জাতি, রাষ্ট্র বা সংঘাত নিয়ে এতে কোনো বিধান নেই, আজ বেঁচে থাকা কারও পক্ষে বা বিপক্ষে কোনো রায়ও নেই। আয়াত শুধু ততটুকুই বলে যতটুকু তার শব্দে আছে, আর কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছু করার অনুমতি দেয় না।"
           },
           {
@@ -1844,7 +1844,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "One thing must be said plainly, in any language. These are the Children of Israel of a particular past, caught in one recorded moment, and the verse narrates what they said and did. Calf-worship is condemned, and the excuse exposed, but the āyah passes no verdict on anyone alive and licenses nothing against any people or community today. It describes what the text describes, and no more. Whoever reaches for it to indict a living nation has bent the verse to a purpose it does not carry.",
+            "en": "One thing must be said plainly, in any language. These are the Children of Israel of a particular past, caught in one recorded moment, and the verse narrates what they said and did. Calf-worship is condemned, and the excuse exposed, but the āyah passes no verdict on anyone alive and licenses nothing against any people or community today. It speaks only of what it names, and no more. Whoever reaches for it to indict a living nation has bent the verse to a purpose it does not carry.",
             "bn": "একটা কথা সোজাসুজি বলা দরকার, যেকোনো ভাষাতেই। এরা নির্দিষ্ট এক অতীতের বনী ইসরাইল, লিপিবদ্ধ একটি মুহূর্তে ধরা। আয়াতটা বলছে তারা কী বলেছিল আর কী করেছিল। কুরআন বাছুর-পূজার নিন্দা করে, অজুহাতের আসল চেহারাও খুলে দেয়। কিন্তু আয়াতটা জীবিত কারও ওপর কোনো রায় দেয় না, আর আজকের কোনো জাতি বা সম্প্রদায়ের বিরুদ্ধে কোনো কিছুর অনুমতিও দেয় না। মূল পাঠ যতটুকু বর্ণনা করে, আয়াতটা ততটুকুই বলে, এর বেশি নয়। কেউ যদি একে টেনে এনে কোনো জীবিত জাতিকে দোষী করতে চায়, সে আয়াতটাকে বাঁকিয়ে এমন কাজে লাগাচ্ছে, যার ভার এটি বহন করে না।"
           },
           {

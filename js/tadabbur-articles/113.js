@@ -108,7 +108,7 @@ Object.assign(TADABBUR_ARTICLES, {
             "bn": "যাঁরা মতগুলো ওজন করেছেন, তাঁরা সবাই একই জায়গায় থামেননি। বাগাভী বলেন, প্রথম মতটি, অর্থাৎ ভোর, এটাই প্রসিদ্ধ। ইবন কাসীর ইবন জারীর (তাবারী)-এর বরাতে বলেন, প্রথম মতটিই সঠিক, অর্থাৎ ভোরের ফালাক। তারপর যোগ করেন: এটাই সঠিক, আর বুখারী তাঁর সহীহ গ্রন্থে এটাই বেছে নিয়েছেন। আর কুরতুবী, আগেই যেমন দেখা গেছে, শব্দমূলকে পান সেই মতের পক্ষে, যেখানে ফালাক মানে ফেটে বের হওয়া সবকিছু।"
           },
           {
-            "en": "The closing paragraph of the at-Tabari text fetched for this verse deserves to be heard in full. He says that falaq in Arab speech is the cleaving of morning, and that it is possible Hell holds a prison named falaq. Since Allah set no sign that He meant one thing called falaq rather than another, and He is Lord of everything He created, the verse must mean everything that bears the name, for He is Lord of all of it.",
+            "en": "The closing paragraph of the at-Tabari text consulted for this verse deserves to be heard in full. He says that falaq in Arab speech is the cleaving of morning, and that it is possible Hell holds a prison named falaq. Since Allah set no sign that He meant one thing called falaq rather than another, and He is Lord of everything He created, the verse must mean everything that bears the name, for He is Lord of all of it.",
             "bn": "এ আয়াতের জন্য সংগ্রহ করা তাবারীর পাঠের শেষ অনুচ্ছেদটি পুরোটা শোনার মতো। তিনি বলেন, আরবদের কথায় ফালাক মানে ভোরের ফাটল। আবার জাহান্নামে ফালাক নামে কোনো কারাগার থাকাও অসম্ভব নয়। ফালাক নামের জিনিসগুলোর মধ্যে আল্লাহ বিশেষ একটিকেই বুঝিয়েছেন, অন্যগুলোকে নয়, এমন কোনো আলামত তিনি রাখেননি। আর তিনি তো নিজের সৃষ্ট সবকিছুর রব। তাই আয়াতে ফালাক নামের সবকিছুই বোঝানো হয়েছে, কারণ সবকিছুরই রব তিনি।"
           },
           {

@@ -284,7 +284,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "A verse about destroyed nations must be handled with care, so let this be plain. The verse describes what the text describes: particular peoples, named by the commentators as ʿĀd, Thamūd and their like, whom Allah ruined after they denied clear proof. It records a closed, just decree of God upon the dead. It licenses nothing against any living person or community. Nobody may read it as permission to despise, harm or expel a people today, nor to treat present-day loss as evidence of someone's guilt. That reading turns the verse inside out.",
+            "en": "A verse about destroyed nations must be handled with care, so let this be plain. The verse speaks only of what it names: particular peoples, named by the commentators as ʿĀd, Thamūd and their like, whom Allah ruined after they denied clear proof. It records a closed, just decree of God upon the dead. It licenses nothing against any living person or community. Nobody may read it as permission to despise, harm or expel a people today, nor to treat present-day loss as evidence of someone's guilt. That reading turns the verse inside out.",
             "bn": "ধ্বংস হয়ে যাওয়া জাতিদের নিয়ে আয়াত সাবধানে পড়তে হয়, তাই কথাটা সাফ বলে রাখি। আয়াত যা বলে, কেবল সেটুকুই বলে: নির্দিষ্ট কিছু জাতি, তাফসীরকারেরা যাদের নাম বলেন আদ, সামূদ আর তাদের মতো অন্যরা। স্পষ্ট প্রমাণ অস্বীকার করার পর আল্লাহ তাদের ধ্বংস করেছেন। এটা মৃতদের ব্যাপারে আল্লাহর এক চূড়ান্ত ও ন্যায্য ফয়সালার খবর। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই ছাড়পত্র দেয় না। আজ কোনো জাতিকে ঘৃণা করা, ক্ষতি করা বা তাড়িয়ে দেওয়ার অনুমতি হিসেবে কেউ একে পড়তে পারে না। আজকের কোনো বিপদকে কারও অপরাধের প্রমাণ বানানোও চলে না। এমন পাঠ আয়াতের অর্থটাকেই উল্টে দেয়।"
           },
           {
@@ -884,7 +884,7 @@ Object.assign(TADABBUR_ARTICLES, {
         },
         "p": [
           {
-            "en": "This has to be said plainly. The verse condemns an act, the splitting of the one religion into factions and the self-satisfied partisanship that follows from it. The commentators treat that act in the abstract, the disease of tafriqa and smug party-feeling, and they do not place it in any reader's hand as a weapon. The verse names no living group, no living sect, school or community. It describes what the text describes, and it licenses nothing against any living person or community whatever.",
+            "en": "This has to be said plainly. The verse condemns an act, the splitting of the one religion into factions and the self-satisfied partisanship that follows from it. The commentators treat that act in the abstract, the disease of tafriqa and smug party-feeling, and they do not place it in any reader's hand as a weapon. The verse names no living group, no living sect, school or community. It speaks only of what it names, and it licenses nothing against any living person or community whatever.",
             "bn": "কথাটা সোজাসুজি বলা দরকার। আয়াত একটি কাজের নিন্দা করে, এক দ্বীনকে দলে ভেঙে ফেলা আর তার পেছনে পেছনে আসা আত্মতুষ্ট দলবাজি। তাফসীরকারেরা সেই কাজটিকে বিমূর্তভাবে ধরেন, তাফরিকা আর আত্মতৃপ্ত দলপ্রীতির রোগ হিসেবে, আর কোনো পাঠকের হাতে এটিকে অস্ত্র হিসেবে তুলে দেন না। আয়াত কোনো জীবিত দল, কোনো জীবিত ফিরকা, মাযহাব বা সম্প্রদায়ের নাম নেয় না। আয়াত যা বর্ণনা করে তা-ই বর্ণনা করছে, আর কোনো জীবিত ব্যক্তি বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না।"
           },
           {
