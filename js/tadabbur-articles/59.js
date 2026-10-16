@@ -25,7 +25,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir gives the same identification from Ibn Abbas, Mujahid, az-Zuhri and several others. Al-Qurtubi opens with Sa'id ibn Jubayr asking Ibn Abbas about Surat al-Hashr and being told: call it Surat an-Nadir. At-Tabari reports from Yazid ibn Ruman that the whole surah came down about them. Al-Qurtubi also records one dissent: al-Hasan said the verse means Banu Qurayzah. The rest of the commentators, he says, citing ath-Tha'labi, disagreed, because Banu Qurayzah were not driven out in this way but killed.",
-            "bn": "ইবন কাসীর একই পরিচয় দেন ইবন আব্বাস, মুজাহিদ, যুহরী এবং আরও অনেকের সূত্রে। কুরতুবী শুরু করেন সাঈদ ইবন জুবাইরের একটি প্রশ্ন দিয়ে। তিনি ইবন আব্বাসকে সূরাতুল হাশর সম্পর্কে জিজ্ঞেস করলে উত্তর আসে: একে সূরাতুন নাদির বলো। তাবারী ইয়াযীদ ইবন রূমানের সূত্রে বর্ণনা করেন, গোটা সূরাটাই নাযিল হয়েছে তাদের ব্যাপারে। কুরতুবী একটি ভিন্নমতও উল্লেখ করেন। হাসানের মতে আয়াতে বনু কুরাইজার কথা বলা হয়েছে। সা'লাবীর বরাতে কুরতুবী জানান, বাকি তাফসীরকারেরা এ মতের বিরোধিতা করেছেন। তাঁদের যুক্তি, বনু কুরাইজাকে এভাবে বের করে দেওয়া হয়নি, তাদের হত্যা করা হয়েছিল।"
+            "bn": "ইবন কাসীর একই পরিচয় দেন ইবন আব্বাস, মুজাহিদ, যুহরী এবং আরও অনেকের সূত্রে। কুরতুবী শুরু করেন সাঈদ ইবন জুবাইরের একটি প্রশ্ন দিয়ে। তিনি ইবন আব্বাসকে সূরাতুল হাশর সম্পর্কে জিজ্ঞেস করলে উত্তর আসে: একে সূরাতুন নাদির বলো। তাবারী ইয়াযীদ ইবন রূমানের সূত্রে বর্ণনা করেন, গোটা সূরাটাই নাজিল হয়েছে তাদের ব্যাপারে। কুরতুবী একটি ভিন্নমতও উল্লেখ করেন। হাসানের মতে আয়াতে বনু কুরাইজার কথা বলা হয়েছে। সা'লাবীর বরাতে কুরতুবী জানান, বাকি তাফসীরকারেরা এ মতের বিরোধিতা করেছেন। তাঁদের যুক্তি, বনু কুরাইজাকে এভাবে বের করে দেওয়া হয়নি, তাদের হত্যা করা হয়েছিল।"
           }
         ]
       },
