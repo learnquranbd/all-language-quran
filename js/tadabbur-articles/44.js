@@ -580,7 +580,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Turning From the Drowned",
-          "bn": "ডুবে যাওয়াদের পর অন্য দিকে"
+          "bn": "ডুবে যাওয়াদের থেকে চোখ ফিরিয়ে"
         },
         "p": [
           {
@@ -589,7 +589,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then the verse turns to the people the army had been chasing. Placed side by side, 44:29 and 44:30 show the same event from its two ends: on the side of the pursuers no mourning and no reprieve, on the side of the pursued a rescue. The verse has seven Arabic words, and its sentence is not finished when the verse ends. The next verse, 44:31, completes it with min Fir'awn, from Pharaoh, and goes on to describe him. That description belongs to its own verse, and this article stops at the name.",
-            "bn": "তারপর আয়াত ফিরে তাকায় সেই মানুষদের দিকে, বাহিনী যাদের পিছু নিয়েছিল। ৪৪:২৯ আর ৪৪:৩০ পাশাপাশি রাখলে একই ঘটনার দুই প্রান্ত চোখে পড়ে। যারা ধাওয়া করছিল, তাদের জন্য না আছে শোক, না অবকাশ। যাদের ধাওয়া করা হচ্ছিল, তাদের জন্য উদ্ধার। আয়াতটিতে আরবি শব্দ মাত্র সাতটি, আর আয়াত শেষ হলেও বাক্যটা শেষ হয় না। পরের আয়াত ৪৪:৩১ মিন ফিরআউন, অর্থাৎ ফেরাউনের কাছ থেকে, কথাটি দিয়ে বাক্যটা পূর্ণ করে, তারপর তার বর্ণনা দেয়। সে বর্ণনা ওই আয়াতেরই বিষয়। এই লেখা নামটুকু পর্যন্ত গিয়েই থামে।"
+            "bn": "তারপর আয়াত ফিরে তাকায় সেই মানুষদের দিকে, বাহিনী যাদের পিছু নিয়েছিল। ৪৪:২৯ আর ৪৪:৩০ পাশাপাশি রাখলে একই ঘটনার দুই প্রান্ত চোখে পড়ে। যারা ধাওয়া করছিল, তাদের জন্য না আছে শোক, না অবকাশ। যাদের ধাওয়া করা হচ্ছিল, তাদের জন্য উদ্ধার। আয়াতটিতে আরবি শব্দ মাত্র সাতটি, আর আয়াত শেষ হলেও বাক্যটা শেষ হয় না। পরের আয়াত ৪৪:৩১ বাক্যটা পূর্ণ করে মিন ফিরআউন কথাটি দিয়ে, অর্থাৎ ফেরাউনের কাছ থেকে। তারপর সে আয়াত ফেরাউনের বর্ণনা দেয়। সে বর্ণনা ওই আয়াতেরই বিষয়। এই লেখা নামটুকু পর্যন্ত গিয়েই থামে।"
           }
         ]
       },
@@ -601,7 +601,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir comments on 44:30 and 44:31 together, and the first thing he says is about what Allah is doing in the sentence: yamtannu 'alayhim ta'ala bi-dhalik, He is reminding them of His favour in this. He then restates the saving with a verb of his own, anqadhahum, He rescued them, and names what they were rescued from: mimma kanu fihi, from what they were in, of Pharaoh's humiliation and abasement of them, and his pressing them into humiliating, exhausting work. The rescue, in his reading, is something done to them and for them.",
-            "bn": "ইবন কাসীর ৪৪:৩০ আর ৪৪:৩১ একসঙ্গে ব্যাখ্যা করেন। প্রথমেই তিনি বলেন, এ বাক্যে আল্লাহ কী করছেন: ইয়ামতান্নু আলাইহিম তাআলা বিযালিক, এর মাধ্যমে তিনি তাদের নিজের অনুগ্রহের কথা মনে করিয়ে দিচ্ছেন। তারপর রক্ষা করার কথাটা নিজের এক ক্রিয়া দিয়ে বলেন, আনকাযাহুম, তিনি তাদের উদ্ধার করলেন। কী থেকে উদ্ধার, তাও বলেন: মিম্মা কানূ ফীহি, তারা যার ভেতরে ছিল তা থেকে। অর্থাৎ ফেরাউন তাদের যে অপমান আর লাঞ্ছনা করত, আর অপমানজনক কষ্টের কাজে যেভাবে তাদের খাটিয়ে নিত, তা থেকে। তাঁর পাঠে উদ্ধারটা তাদের জন্য করা এক কাজ।"
+            "bn": "ইবন কাসীর ৪৪:৩০ আর ৪৪:৩১ একসঙ্গে ব্যাখ্যা করেন। প্রথমেই তিনি বলেন, এ বাক্যে আল্লাহ কী করছেন: ইয়ামতান্নু আলাইহিম তাআলা বিযালিক, এর মাধ্যমে তিনি তাদের নিজের অনুগ্রহের কথা মনে করিয়ে দিচ্ছেন। তারপর রক্ষা করার কথাটা নিজের একটি ক্রিয়াপদে বলেন, আনকাযাহুম, তিনি তাদের উদ্ধার করলেন। কী থেকে উদ্ধার, তাও বলেন: মিম্মা কানূ ফীহি, তারা যার ভেতরে ছিল তা থেকে। অর্থাৎ ফেরাউন তাদের যে অপমান আর লাঞ্ছনা করত, আর অপমানজনক কষ্টের কাজে যেভাবে তাদের খাটিয়ে নিত, তা থেকে। তাঁর ব্যাখ্যায় উদ্ধারটা আল্লাহ তাদের সঙ্গে করেছেন, আর করেছেন তাদেরই জন্য।"
           },
           {
             "en": "As-Sa'di opens his comment with the same verb: thumma mtanna ta'ala 'ala Bani Isra'il, then Allah reminded the Children of Israel of His favour. He quotes the verse and adds a single clause, al-ladhi kanu fihi, the torment they were in. Both commentators use the words kanu fihi. On their wording the torment reads as a condition the people lived inside, not a blow that fell once and passed. Neither says in this place why the favour was given. They present it as something done for the people, and something to be remembered.",
@@ -617,7 +617,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The adjective carries the verse. At-Tabari glosses al-muhin as al-mudhill lahum, that which abased them, and al-Muyassar writes the same word into its paraphrase: al-'adhab al-mudhill lahum, the torment that abased them. Ibn Kathir's pair, ihana and idhlal, humiliation and abasement, says the same thing from Pharaoh's side, as acts he did to them. None of these glosses measures the torment by how much it hurt. Each measures it by what it did to the standing of the people who bore it: it brought them low and kept them there.",
-            "bn": "আয়াতের ভার বইছে বিশেষণটি। তাবারী আল-মুহীনের ব্যাখ্যা দেন আল-মুযিল্লু লাহুম, যা তাদের লাঞ্ছিত করেছিল। মুয়াসসারও নিজের ভাষ্যে একই শব্দ বসায়: আল-আযাবুল মুযিল্লু লাহুম, যে শাস্তি তাদের হেয় করেছিল। ইবন কাসীরের জোড়া শব্দ ইহানা আর ইযলাল, অপমান আর লাঞ্ছনা। কথা একই, শুধু দেখা হয়েছে ফেরাউনের দিক থেকে, তার করা কাজ হিসেবে। এর কোনো ব্যাখ্যাই শাস্তিকে মাপে না কষ্টের পরিমাণ দিয়ে। প্রত্যেকে মাপে, যারা তা সয়েছে তাদের মর্যাদার উপর এর কী প্রভাব পড়েছিল তা দিয়ে। শাস্তিটা তাদের নিচে নামিয়েছিল, আর সেখানেই আটকে রেখেছিল।"
+            "bn": "আয়াতের ভার বইছে বিশেষণটি। তাবারী আল-মুহীনের ব্যাখ্যা দেন আল-মুযিল্লু লাহুম, যা তাদের লাঞ্ছিত করেছিল। মুয়াসসারও নিজের ভাষ্যে একই শব্দ বসায়: আল-আযাবুল মুযিল্লু লাহুম, যে শাস্তি তাদের হেয় করেছিল। ইবন কাসীরের জোড়া শব্দ ইহানা আর ইযলাল, অপমান আর লাঞ্ছনা। কথা একই, শুধু দেখা হয়েছে ফেরাউনের দিক থেকে, তার করা কাজ হিসেবে। এর কোনো ব্যাখ্যাই শাস্তিকে কষ্টের পরিমাণ দিয়ে মাপে না। সবাই মাপে অন্যভাবে: যারা তা সয়েছে, তাদের মর্যাদার কী দশা হয়েছিল। শাস্তিটা তাদের নিচে নামিয়েছিল, আর সেখানেই আটকে রেখেছিল।"
           },
           {
             "en": "At-Tabari also says whose torment it was: the torment with which Pharaoh and his people used to torment them. The word al-'adhab has already appeared twice in this surah. In 44:12 the deniers cry, Our Lord, remove the torment from us, and in 44:15 Allah answers that He will remove the torment a little. There it is a torment that Allah removes. Here, on at-Tabari's gloss, it is inflicted by people on people, and it is Allah who saves them from it. At-Tabari adds that the people of interpretation said as he did.",
@@ -657,7 +657,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "They also differ on whose hands are named. At-Tabari says Pharaoh and his people. Al-Qurtubi speaks of those acting by Pharaoh's command. Ibn Kathir speaks of Pharaoh's own humiliation of them. Al-Muyassar and as-Sa'di name no agent in their lines. The verse that follows settles the chief name, since it says the rescue was from Pharaoh (44:31). In every version the wrong sits with a ruler, his command and the people who carried it out, in that age, and the texts say nothing beyond it.",
-            "bn": "কার হাতে এই জুলুম, তা নিয়েও কথায় ভিন্নতা আছে। তাবারী বলেন ফেরাউন আর তার লোকেরা। কুরতুবী বলেন ফেরাউনের হুকুমে যারা তা করত, তাদের কথা। ইবন কাসীর বলেন ফেরাউনের নিজের অপমান করার কথা। মুয়াসসার আর সা'দী তাঁদের লাইনে কারও নাম নেন না। প্রধান নামটি পরের আয়াতই ঠিক করে দেয়, কারণ সেখানে বলা হয়েছে রক্ষাটা ছিল ফেরাউনের কাছ থেকে (৪৪:৩১)। প্রতিটি ভাষ্যে দোষটা থাকে এক শাসক, তার হুকুম আর সে হুকুম যারা পালন করেছিল তাদের উপর, সেই যুগের ভেতরে। এর বাইরে লেখাগুলো কিছু বলে না।"
+            "bn": "কার হাতে এই জুলুম, তা নিয়েও তাঁদের কথা আলাদা। তাবারী বলেন ফেরাউন আর তার লোকেরা। কুরতুবী বলেন তাদের কথা, যারা ফেরাউনের হুকুমে এসব করত। ইবন কাসীর বলেন, ফেরাউন নিজেই তাদের অপমান করত। মুয়াসসার আর সা'দী তাঁদের লাইনে কারও নাম নেন না। প্রধান নামটি ঠিক করে দেয় পরের আয়াত, কারণ সেখানে আছে, উদ্ধারটা ছিল ফেরাউনের কাছ থেকে (৪৪:৩১)। প্রতিটি ভাষ্যেই দোষ গিয়ে পড়ে এক শাসক, তার হুকুম আর সে হুকুম যারা তামিল করেছিল তাদের উপর, সেই যুগেই। এর বাইরে লেখাগুলো কিছু বলে না।"
           }
         ]
       },
@@ -673,7 +673,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Ibn Kathir's English abridgement, as available here, ends its section on these verses at 44:26, so it is not drawn on; his Arabic note is used instead. No commentary gathered on the verse attaches a hadith to it, and none reports an occasion of revelation, so neither is brought here. The verse's setting is its placement: after the destruction of the oppressors, and before the sentence that names their ruler. What remains is a handful of short glosses that agree on the main point and differ in detail, and for this verse that is enough.",
-            "bn": "এখানে পাওয়া ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণে এ অংশের আলোচনা থেমে যায় ৪৪:২৬ আয়াতে, তাই তা থেকে কিছু নেওয়া হয়নি। তাঁর আরবি টীকাই এখানে কাজে লেগেছে। এ আয়াতের উপর সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদীস জুড়ে দেয় না, নাযিলের কোনো উপলক্ষও বলে না। তাই এখানে এর কোনোটিই আনা হয়নি। আয়াতের প্রেক্ষাপট তার অবস্থান: জালিমদের ধ্বংসের পরে, আর তাদের শাসকের নাম বলা বাক্যের আগে। যা থাকে তা কয়েকটি ছোট ব্যাখ্যা, মূল কথায় যারা একমত আর খুঁটিনাটিতে আলাদা। এ আয়াতের জন্য এটুকুই যথেষ্ট।"
+            "bn": "ইবন কাসীরের ইংরেজি সংক্ষিপ্ত সংস্করণের যে কপি এখানে পাওয়া গেছে, তাতে এ আয়াতগুলোর আলোচনা থেমে গেছে ৪৪:২৬-এ। তাই সেটি থেকে কিছু নেওয়া হয়নি, নেওয়া হয়েছে তাঁর আরবি টীকা থেকে। এ আয়াতের উপর সংগ্রহ করা কোনো তাফসীর এর সঙ্গে কোনো হাদিস জোড়ে না, নাজিলের কোনো উপলক্ষও বলে না। তাই এখানে এর কোনোটিই আনা হয়নি। আয়াতের প্রেক্ষাপট তার অবস্থানেই: জালিমদের ধ্বংসের পরে, আর যে বাক্যে তাদের শাসকের নাম আসে, তার আগে। হাতে থাকে কয়েকটি ছোট ব্যাখ্যা। মূল কথায় সেগুলো একমত, খুঁটিনাটিতে আলাদা। এ আয়াতের জন্য এটুকুই যথেষ্ট।"
           }
         ]
       },
@@ -701,11 +701,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ibn Kathir and as-Sa'di both read the verse as a favour recalled, and a favour recalled asks for memory. Most people have been brought out of something: an illness, a debt, a home where they were belittled, a job that treated them as less than a person. In time the relief fades and the rescue becomes ordinary. The verse speaks with emphasis, wa-laqad, and We certainly, and sets the past before its listener as something not to be forgotten. Its question is simple: do you remember who brought you out?",
-            "bn": "ইবন কাসীর আর সা'দী দুজনেই আয়াতটি পড়েন মনে করিয়ে দেওয়া অনুগ্রহ হিসেবে, আর এমন অনুগ্রহ চায় স্মরণ। বেশির ভাগ মানুষকেই কোনো না কোনো কিছু থেকে বের করে আনা হয়েছে: অসুখ, ঋণ, এমন ঘর যেখানে তাকে তুচ্ছ করা হতো, এমন চাকরি যেখানে তাকে মানুষ বলেই গণ্য করা হতো না। সময়ের সঙ্গে স্বস্তির অনুভূতি মিলিয়ে যায়, উদ্ধারটা হয়ে যায় সাধারণ ঘটনা। আয়াত কথা বলে জোর দিয়ে, ওয়া লাকাদ, আর আমি অবশ্যই। অতীতকে শ্রোতার সামনে রাখে ভুলে না যাওয়ার জিনিস হিসেবে। প্রশ্নটা সহজ: কে আপনাকে বের করে এনেছিলেন, মনে আছে?"
+            "bn": "ইবন কাসীর আর সা'দী দুজনেই আয়াতটিকে পড়েন অনুগ্রহের কথা মনে করিয়ে দেওয়া হিসেবে। আর যে অনুগ্রহের কথা মনে করিয়ে দেওয়া হয়, তা চায় মানুষ সেটা মনে রাখুক। বেশির ভাগ মানুষকেই কোনো না কোনো কিছু থেকে বের করে আনা হয়েছে: অসুখ, ঋণ, এমন ঘর যেখানে তাকে তুচ্ছ করা হতো, এমন চাকরি যেখানে তাকে মানুষ বলেই গণ্য করা হতো না। সময়ের সঙ্গে স্বস্তির অনুভূতি মিলিয়ে যায়, উদ্ধারটা হয়ে যায় সাধারণ ঘটনা। আয়াত কথা বলে জোর দিয়ে, ওয়া লাকাদ, আর আমি অবশ্যই। অতীতকে শ্রোতার সামনে রাখে ভুলে না যাওয়ার জিনিস হিসেবে। প্রশ্নটা সহজ: কে আপনাকে বের করে এনেছিলেন, মনে আছে?"
           },
           {
             "en": "The other half of the lesson comes from the adjective. If the torment was named, as the commentators gloss it, for the way it brought people low, then humiliation is no small harm. Anyone with power over another, a parent, an employer, a manager, a teacher, can make someone feel small, and can do it without raising a hand. The verse gives that kind of treatment a hard name. Whoever has been brought out of humiliation has the least excuse of all to become its cause in someone else's life.",
-            "bn": "শিক্ষার বাকি অর্ধেক আসে বিশেষণটি থেকে। তাফসীরকারদের ব্যাখ্যামতো শাস্তিটার এই নাম যদি হয়ে থাকে মানুষকে নিচু করার কারণে, তবে অপমান ছোটখাটো ক্ষতি নয়। অন্যের উপর যার ক্ষমতা আছে, বাবা-মা, মালিক, কর্মকর্তা বা শিক্ষক, তিনিই কাউকে ছোট করে দিতে পারেন, গায়ে হাত না তুলেও। আয়াত এমন আচরণকে কঠিন এক নামে ডাকে। যাকে অপমান থেকে বের করে আনা হয়েছে, অন্যের জীবনে অপমানের কারণ হওয়ার অজুহাত তার সবচেয়ে কম।"
+            "bn": "শিক্ষার বাকি অর্ধেক আসে বিশেষণটি থেকে। তাফসীরকারদের ব্যাখ্যামতো শাস্তিটার এই নাম যদি হয়ে থাকে মানুষকে নিচু করার কারণে, তবে অপমান ছোটখাটো ক্ষতি নয়। অন্যের উপর যার ক্ষমতা আছে, যেমন বাবা-মা, মালিক, ঊর্ধ্বতন কর্মকর্তা বা শিক্ষক, তিনি চাইলে কাউকে ছোট করে দিতে পারেন, গায়ে হাত না তুলেও। আয়াত এমন আচরণকে কঠিন এক নামে ডাকে। যাকে অপমান থেকে বের করে আনা হয়েছে, অন্যের জীবনে অপমানের কারণ হওয়ার অজুহাত তার সবচেয়ে কম।"
           }
         ]
       }
@@ -721,11 +721,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is an answer, and the people it answers are quoted just above it. In 44:35 they say there is nothing but our first death and we will not be resurrected, and in 44:36 they demand: then bring back our forefathers, if you are truthful. 44:37 asks whether they are better than the people of Tubba' and those before them, who were destroyed.",
-            "bn": "আয়াতটি একটি জবাব, আর যাদের জবাব দেওয়া হচ্ছে তাদের কথা ঠিক উপরেই উদ্ধৃত। 44:35 আয়াতে তারা বলে, আমাদের প্রথম মৃত্যুর পর আর কিছু নেই এবং আমরা পুনরুত্থিত হব না; আর 44:36 আয়াতে তারা দাবি করে: তবে আমাদের পূর্বপুরুষদের ফিরিয়ে আনো, যদি তোমরা সত্যবাদী হও। 44:37 প্রশ্ন করে, তারা কি তুব্বা'র সম্প্রদায় ও তাদের পূর্ববর্তীদের চেয়ে ভালো, যাদের ধ্বংস করা হয়েছিল।"
+            "bn": "আয়াতটি একটা জবাব, আর যাদের জবাব, তাদের কথা ঠিক আগেই উদ্ধৃত হয়েছে। ৪৪:৩৫ আয়াতে তারা বলে, আমাদের প্রথম মৃত্যু ছাড়া আর কিছু নেই, আমাদের আর জীবিত করে ওঠানো হবে না। ৪৪:৩৬ আয়াতে তারা দাবি করে: তাহলে আমাদের বাপ-দাদাদের ফিরিয়ে আনো, যদি তোমরা সত্যবাদী হও। ৪৪:৩৭ প্রশ্ন করে, তারা কি তুব্বা'র কওম আর তাদের আগের লোকদের চেয়ে ভালো, যাদের ধ্বংস করা হয়েছিল?"
           },
           {
             "en": "Only then comes the denial that creation was play. So this is not a general meditation on the meaning of life. It is placed as evidence against a specific claim: that death is the end of the file. The reply does not argue about bodies and bones. It argues from the character of the Maker, and lets the conclusion about resurrection follow from that.",
-            "bn": "এরপরই আসে এই অস্বীকৃতি যে সৃষ্টি খেলার জন্য ছিল। অর্থাৎ এটি জীবনের অর্থ নিয়ে সাধারণ কোনো ভাবনা নয়। এটি রাখা হয়েছে একটি নির্দিষ্ট দাবির বিরুদ্ধে প্রমাণ হিসেবে: মৃত্যুই ফাইলের শেষ। জবাবটি হাড় ও দেহ নিয়ে তর্কে যায় না। তা যুক্তি টানে স্রষ্টার স্বভাব থেকে, আর পুনরুত্থানের সিদ্ধান্তটিকে সেখান থেকেই বেরিয়ে আসতে দেয়।"
+            "bn": "এর পরেই আসে অস্বীকার: সৃষ্টি খেলা নয়। তাই এটা জীবনের অর্থ নিয়ে কোনো সাধারণ ভাবনা নয়। আয়াতটি বসানো হয়েছে নির্দিষ্ট এক দাবির বিরুদ্ধে প্রমাণ হিসেবে। দাবিটা হলো, মৃত্যুতেই সব শেষ, খাতা বন্ধ। জবাবটি দেহ আর হাড় নিয়ে তর্কে যায় না। যুক্তি আসে স্রষ্টার নিজের পরিচয় থেকে, আর পুনরুত্থানের সিদ্ধান্ত সেখান থেকেই আপনা-আপনি চলে আসে।"
           }
         ]
       },
@@ -737,11 +737,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "La'ibin is a plural participle in the accusative, and grammatically it describes the state of the one acting, not the nature of the thing made. The sentence is not quite We did not create these as a game; it is We did not create them being players. The denial lands on the Maker's posture. What is ruled out is an attitude, and everything else follows from ruling it out.",
-            "bn": "'লা'ইবীন' একটি বহুবচন কর্তৃবাচক বিশেষণ, নাসব অবস্থায়; ব্যাকরণগতভাবে এটি কর্তার অবস্থা বর্ণনা করে, সৃষ্ট বস্তুর প্রকৃতি নয়। বাক্যটির অর্থ ঠিক 'আমি এগুলোকে খেলা হিসেবে সৃষ্টি করিনি' নয়; বরং 'আমি খেলোয়াড় অবস্থায় এগুলো সৃষ্টি করিনি'। অস্বীকৃতিটি গিয়ে পড়ে স্রষ্টার ভঙ্গির উপর। যা বাতিল করা হচ্ছে তা একটি মনোভাব, আর বাকি সবকিছু সেই বাতিলকরণ থেকেই আসে।"
+            "bn": "লা'ইবীন শব্দটি বহুবচনের কর্তৃবাচক বিশেষণ, আছে নাসব অবস্থায়। ব্যাকরণের দিক থেকে এটি বলে কাজটি যিনি করছেন তাঁর অবস্থা, বানানো জিনিসের প্রকৃতি নয়। তাই বাক্যের অর্থ ঠিক 'আমি এগুলোকে খেলা হিসেবে সৃষ্টি করিনি' নয়। অর্থ হলো 'খেলায় মেতে থেকে আমি এগুলো সৃষ্টি করিনি'। অস্বীকারটা গিয়ে পড়ে স্রষ্টার ভঙ্গির উপর। বাদ দেওয়া হচ্ছে একটা মনোভাব, আর সেটা বাদ পড়তেই বাকি সব কথা আপনা থেকে চলে আসে।"
           },
           {
             "en": "The word occurs three times in the Quran. Twice it denies play in creation, here and at 21:16; the third, 21:55, is Ibrahim's (AS) people asking whether he has come to them with truth or is one of those who jest. In every case it is the seriousness of the speaker or the actor that is at issue, never the seriousness of the object.",
-            "bn": "শব্দটি কুরআনে এসেছে তিনবার। দুবার তা সৃষ্টিতে খেলার কথা অস্বীকার করে — এখানে এবং 21:16 আয়াতে; তৃতীয়টি 21:55, যেখানে ইবরাহীম (আঃ)-এর সম্প্রদায় জিজ্ঞেস করে তিনি সত্য নিয়ে এসেছেন, নাকি তিনি তামাশাকারীদের একজন। প্রতিটি ক্ষেত্রেই প্রশ্নটি বক্তা বা কর্তার গাম্ভীর্য নিয়ে, কখনোই বস্তুটির গাম্ভীর্য নিয়ে নয়।"
+            "bn": "শব্দটি কুরআনে এসেছে তিনবার। দুবার এসেছে সৃষ্টিতে খেলার কথা নাকচ করতে: এখানে, আর ২১:১৬ আয়াতে। তৃতীয়বার ২১:৫৫ আয়াতে, যেখানে ইবরাহীম (আঃ)-এর কওম জিজ্ঞেস করে, তিনি কি সত্য নিয়ে এসেছেন, নাকি তিনি তামাশাকারীদের একজন। প্রতিবারই প্রশ্ন হলো বক্তা বা কর্তা কতটা গুরুত্ব নিয়ে বলছেন বা করছেন। বিষয়টি কতটা গুরুতর, তা নিয়ে প্রশ্ন কখনো ওঠে না।"
           }
         ]
       },
@@ -753,11 +753,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "A denial on its own leaves a gap, and the next verse fills it. 44:39 says: We did not create them except in truth, but most of them do not know. The structure is a negation followed by an exception, so nothing is left hanging. Haqq here carries both senses the word holds in Arabic — what is true, and what is due.",
-            "bn": "কেবল অস্বীকৃতি একটি শূন্যস্থান রেখে যায়, আর পরের আয়াত তা পূরণ করে। 44:39 বলে: আমি ও দুটিকে সত্য উদ্দেশ্য ছাড়া সৃষ্টি করিনি, কিন্তু তাদের অধিকাংশই তা জানে না। কাঠামোটি হলো অস্বীকৃতির পর ব্যতিক্রম, তাই কিছুই ঝুলে থাকে না। এখানে 'হক্ব' শব্দটি আরবিতে যে দুটি অর্থ ধরে রাখে দুটিই বহন করে — যা সত্য, আর যা প্রাপ্য।"
+            "bn": "শুধু অস্বীকারে একটা ফাঁক থেকে যায়, পরের আয়াত সেটা পূরণ করে। ৪৪:৩৯ বলে: আমি এ দুটিকে হক ছাড়া সৃষ্টি করিনি, কিন্তু তাদের বেশিরভাগই তা জানে না। গঠনটা হলো আগে নাকচ, তারপর ব্যতিক্রম, তাই কোনো কথা ঝুলে থাকে না। এখানে হক শব্দটি আরবিতে তার দুটি অর্থই বহন করে: যা সত্য, আর যা প্রাপ্য।"
           },
           {
             "en": "Then 44:40 draws the conclusion the deniers had demanded: indeed the Day of Judgement is the appointed time for them all. Their request was for their forefathers now; the answer is that there is a fixed miqat for everyone and it is not on their schedule. Purposeful making, truth, and a dated appointment are laid down in three consecutive verses.",
-            "bn": "এরপর 44:40 সেই সিদ্ধান্তে পৌঁছে যা অস্বীকারকারীরা দাবি করছিল: নিশ্চয়ই ফয়সালার দিনটিই তাদের সবার নির্ধারিত সময়। তাদের দাবি ছিল পূর্বপুরুষদের এখনই ফিরিয়ে আনা; জবাব হলো, সবার জন্য একটি নির্ধারিত 'মীক্বাত' আছে এবং তা তাদের সময়সূচি অনুযায়ী নয়। উদ্দেশ্যপূর্ণ সৃষ্টি, সত্য, আর তারিখ-নির্ধারিত সাক্ষাৎ — পরপর তিনটি আয়াতে এই তিনটি স্থাপন করা হয়েছে।"
+            "bn": "এরপর ৪৪:৪০ সেই কথায় পৌঁছায়, যার দাবি অস্বীকারকারীরা তুলেছিল: নিশ্চয়ই ফয়সালার দিন তাদের সবার নির্ধারিত সময়। তারা চেয়েছিল, বাপ-দাদাদের এখনই ফিরিয়ে আনা হোক। জবাব হলো, সবার জন্য একটা নির্ধারিত মীকাত আছে, আর তা তাদের সময়সূচি মেনে চলে না। উদ্দেশ্য নিয়ে সৃষ্টি, হক, আর দিন-তারিখ ঠিক করা সাক্ষাৎ: পরপর তিনটি আয়াত এই তিনটি কথা পাকা করে দেয়।"
           }
         ]
       },
@@ -769,11 +769,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "It is worth asking what the denied alternative would actually involve. Play is action taken for the doing of it. It needs no result outside itself, it can be abandoned halfway without loss, and nothing that happens inside it is owed to anyone afterwards. A universe made in that spirit would have no reason to be finished and no reason to be assessed.",
-            "bn": "যে বিকল্পটি অস্বীকার করা হলো, তা আসলে কী দাঁড়াত — সেটি জিজ্ঞেস করা দরকার। খেলা হলো এমন কাজ যা করার জন্যই করা হয়। এর বাইরে কোনো ফল দরকার হয় না, মাঝপথে ছেড়ে দিলেও কিছু হারায় না, আর এর ভেতরে যা ঘটে তার জন্য পরে কারও কাছে কোনো দায় থাকে না। সেই মেজাজে বানানো মহাবিশ্বের শেষ করার কোনো কারণ থাকত না, হিসাব নেওয়ারও নয়।"
+            "bn": "যে বিকল্পটি নাকচ করা হলো, সেটা আসলে কেমন হতো, তা একবার ভেবে দেখা দরকার। খেলা হলো এমন কাজ, যা করা হয় শুধু করার জন্যই। এর বাইরে কোনো ফল লাগে না, মাঝপথে ছেড়ে দিলেও কিছু হারায় না, আর খেলার মধ্যে যা ঘটে, তার জন্য পরে কারও কাছে কোনো দায় থাকে না। এমন মেজাজে বানানো মহাবিশ্বকে শেষ করার কোনো কারণ থাকত না, তার হিসাব নেওয়ারও না।"
           },
           {
             "en": "21:17 handles the same suggestion from another side: had We intended to take a diversion, We could have taken it from what is with Us. The point is that amusement would never have required a creation at all. Bringing an entire universe into being, and then a reckoning at the end of it, is precisely what play does not need and purpose does.",
-            "bn": "21:17 আয়াত একই প্রস্তাবকে অন্য দিক থেকে সামলায়: আমি যদি খেলার বস্তু বানাতে চাইতাম, তবে আমার কাছে যা আছে তা থেকেই তা নিতাম। কথাটির মর্ম হলো, কৌতুকের জন্য আদৌ কোনো সৃষ্টির দরকার হতো না। একটি গোটা মহাবিশ্বকে অস্তিত্বে আনা, আর তারপর তার শেষে একটি হিসাব — এ জিনিস খেলার প্রয়োজন হয় না, উদ্দেশ্যের হয়।"
+            "bn": "২১:১৭ আয়াত একই ধারণার জবাব দেয় অন্য দিক থেকে: আমি যদি খেলার কিছু নিতে চাইতাম, তবে আমার কাছে যা আছে তা থেকেই নিতাম। কথাটা হলো, শুধু বিনোদনের জন্য সৃষ্টির কোনো দরকারই হতো না। গোটা মহাবিশ্বকে অস্তিত্বে আনা, তারপর শেষে তার হিসাব নেওয়া: খেলার এসব লাগে না, লাগে উদ্দেশ্যের।"
           }
         ]
       },
@@ -785,11 +785,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse is easy to misread as a verdict against enjoyment, and the Quran itself blocks that. 6:32 says the worldly life is nothing but amusement and diversion, and 57:20 expands the same description into a list. So the Book is willing to call this life a game. What it refuses to call a game is the making of it.",
-            "bn": "আয়াতটিকে সহজেই আনন্দের বিরুদ্ধে রায় বলে ভুল পড়া যায়, আর কুরআন নিজেই সেই পথ আটকে দেয়। 6:32 বলে, দুনিয়ার জীবন খেল-তামাশা ছাড়া আর কিছু নয়; আর 57:20 একই বর্ণনাকে বিস্তৃত করে একটি তালিকায়। অর্থাৎ কিতাব এই জীবনকে খেলা বলতে রাজি। যাকে সে খেলা বলতে রাজি নয়, তা হলো এই জীবনের সৃষ্টিকর্ম।"
+            "bn": "আয়াতটিকে সহজেই আনন্দ উপভোগের বিরুদ্ধে রায় বলে ভুল বোঝা যায়, কিন্তু কুরআন নিজেই সে পথ বন্ধ করে দেয়। ৬:৩২ বলে, দুনিয়ার জীবন খেল-তামাশা ছাড়া আর কিছু নয়। ৫৭:২০ একই কথা আরও বিস্তার করে একটা তালিকায় সাজায়। অর্থাৎ কুরআন এই জীবনকে খেলা বলতে রাজি। রাজি নয় এ জীবন বানানোর কাজটিকে খেলা বলতে।"
           },
           {
             "en": "The two statements fit together once the subject of each is noticed. 6:32 describes how the world behaves towards those living in it — brief, diverting, quickly over. 44:38 describes the intention behind its existence. A person can therefore hold the world lightly and hold his own life seriously, which is the exact combination the surah is arguing for.",
-            "bn": "প্রতিটি বক্তব্যের কর্তা কে, তা লক্ষ করলেই দুটি মিলে যায়। 6:32 বর্ণনা করে দুনিয়া তার ভেতরে বসবাসকারীদের সঙ্গে কেমন আচরণ করে — সংক্ষিপ্ত, মনোহর, দ্রুত ফুরিয়ে যাওয়া। আর 44:38 বর্ণনা করে এর অস্তিত্বের পেছনের উদ্দেশ্য। তাই মানুষ দুনিয়াকে হালকাভাবে ধরতে পারে আর নিজের জীবনকে গুরুত্ব দিয়ে ধরতে পারে — সূরাটি ঠিক এই সমন্বয়ের পক্ষেই যুক্তি দিচ্ছে।"
+            "bn": "কোন বক্তব্য কী নিয়ে কথা বলছে, সেটা খেয়াল করলেই দুটি মিলে যায়। ৬:৩২ বলে, দুনিয়া তার বাসিন্দাদের সঙ্গে কেমন আচরণ করে: অল্প সময়ের, মন ভোলানো, দ্রুত ফুরিয়ে যায়। ৪৪:৩৮ বলে দুনিয়া অস্তিত্বে আসার পেছনের উদ্দেশ্যের কথা। তাই মানুষ দুনিয়াকে হালকা করে ধরতে পারে, আবার নিজের জীবনকে নিতে পারে গুরুত্বের সঙ্গে। সূরাটি ঠিক এই মেলবন্ধনের পক্ষেই যুক্তি দিচ্ছে।"
           }
         ]
       },
@@ -801,11 +801,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse speaks about the sky and the ground, but the person hearing it is standing between them. Whatever is said about the whole is said about every part, and the reader is a part. To accept the sentence about the heavens and refuse it about one's own week is to keep an exemption the verse never issued.",
-            "bn": "আয়াতটি বলছে আসমান ও যমীনের কথা, কিন্তু যে শুনছে সে দাঁড়িয়ে আছে এ দুইয়ের মাঝখানে। গোটার সম্পর্কে যা বলা হয়, তা প্রতিটি অংশ সম্পর্কেও বলা হয় — আর পাঠক সেই অংশগুলোরই একটি। আসমান সম্পর্কে বাক্যটি মেনে নিয়ে নিজের সপ্তাহের ক্ষেত্রে তা অস্বীকার করা মানে এমন এক ছাড় ধরে রাখা, যা আয়াতটি কখনো দেয়নি।"
+            "bn": "আয়াতটি আসমান আর যমীনের কথা বলছে, অথচ যে শুনছে সে দাঁড়িয়ে আছে এ দুইয়ের মাঝখানেই। পুরোটার ব্যাপারে যা বলা হয়, তা প্রতিটি অংশের ব্যাপারেও খাটে, আর পাঠক সেই অংশগুলোরই একটি। আসমানের ব্যাপারে কথাটা মেনে নিয়ে নিজের এই সপ্তাহের বেলায় না মানা মানে নিজের জন্য এমন এক ছাড় রেখে দেওয়া, যা আয়াত কখনো দেয়নি।"
           },
           {
             "en": "In practice that shows up less in large decisions than in small ones. Time given away without noticing, work done to a standard nobody will check, an hour spent because it was easier than choosing. None of that is wickedness; it is simply the assumption 44:38 denies, applied to a small scale. The verse asks that the seriousness of the making be matched by the seriousness of the use.",
-            "bn": "বাস্তবে এটি বড় সিদ্ধান্তে যতটা, ছোট সিদ্ধান্তে তার চেয়ে বেশি ধরা পড়ে। খেয়াল না করেই বিলিয়ে দেওয়া সময়, এমন মানে করা কাজ যা কেউ যাচাই করবে না, বেছে নেওয়ার চেয়ে সহজ বলেই কাটিয়ে দেওয়া একটি ঘণ্টা। এর কোনোটিই দুষ্কর্ম নয়; এগুলো কেবল সেই ধারণাটিই — যা 44:38 অস্বীকার করে — ছোট পরিসরে প্রয়োগ করা। আয়াতটি চায়, সৃষ্টির গাম্ভীর্যের সঙ্গে ব্যবহারের গাম্ভীর্য মিলুক।"
+            "bn": "বাস্তবে এটা বড় সিদ্ধান্তে যতটা না ধরা পড়ে, তার চেয়ে বেশি ধরা পড়ে ছোট ছোট সিদ্ধান্তে। খেয়াল না করেই বিলিয়ে দেওয়া সময়। কেউ তো যাচাই করবে না, এই ভেবে যেমন-তেমন করে সারা কাজ। কিছু একটা বেছে নেওয়ার চেয়ে সহজ ছিল বলে কাটিয়ে দেওয়া একটা ঘণ্টা। এর কোনোটাই খারাপ কাজ নয়। এগুলো আসলে সেই ধারণারই ছোট আকারের প্রয়োগ, যাকে ৪৪:৩৮ নাকচ করে। আয়াত চায়, সৃষ্টি যতটা গুরুত্ব দিয়ে করা, তার ব্যবহারও হোক ততটা গুরুত্ব দিয়ে।"
           }
         ]
       }
@@ -873,7 +873,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Two other voices draw the line a little wider. The Muyassar speaks of a person with many sins, and adds that the greatest of sins is associating partners with Allah. As-Sa'di names those who sin by the deeds of disbelief and by acts of disobedience, setting the two side by side. The texts do not argue the point with each other, and this article does not settle it. What they share is plain: the food of this tree is never served by chance. It is matched to what a person brought.",
-            "bn": "অন্য দুটি কণ্ঠ রেখাটা আরেকটু চওড়া করে টানে। মুয়াসসার বলে, অনেক গুনাহের মালিক, আর যোগ করে যে সবচেয়ে বড় গুনাহ আল্লাহর সঙ্গে শিরক। সা'দী বলেন, যারা কুফরির কাজে আর নাফরমানিতে গুনাহ করেছে, দুটোকে পাশাপাশি রেখে। তাফসীরগুলো এ নিয়ে পরস্পরের সঙ্গে বিতর্কে যায়নি, এ লেখাও কোনো মীমাংসা টানবে না। তবে সবার মধ্যে মিলটা স্পষ্ট। এ গাছের খাবার কাউকে আকস্মিকভাবে দেওয়া হয় না। মানুষ যা নিয়ে আসে, খাবার মেলে তারই মাপে।"
+            "bn": "আরও দুটি ব্যাখ্যা পরিসরটা একটু বড় করে। মুয়াসসার বলে, অনেক গুনাহের মালিক, আর যোগ করে যে সবচেয়ে বড় গুনাহ আল্লাহর সঙ্গে শিরক। সা'দী বলেন, যারা কুফরির কাজে আর নাফরমানিতে গুনাহ করেছে, দুটোকে পাশাপাশি রেখে। তাফসীরগুলো এ নিয়ে পরস্পরের সঙ্গে বিতর্কে যায়নি, এ লেখাও কোনো মীমাংসা টানবে না। তবে সবার মধ্যে মিলটা স্পষ্ট। এ গাছের খাবার কাউকে আকস্মিকভাবে দেওয়া হয় না। মানুষ যা নিয়ে আসে, খাবার মেলে তারই মাপে।"
           }
         ]
       },
@@ -985,7 +985,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Inna al-muttaqina fi maqamin amin: indeed, the muttaqin are in a secure station. The verse is five words. Inna gives the statement its weight, as it gave weight to the sentence about the Fire a moment earlier. Al-muttaqin carries the definite article: a known group, described elsewhere and defined by the commentators below. Fi places them inside something. Maqam names where they are, and the commentators report two readings of its first vowel. Amin, the last word, tells what kind of place it is.",
-            "bn": "ইন্নাল মুত্তাকীনা ফী মাকামিন আমীন: নিশ্চয়ই মুত্তাকীরা থাকবে নিরাপদ এক অবস্থানে। আয়াতটি পাঁচ শব্দের। ইন্না কথাটিকে ভার দেয়, যেমন একটু আগে আগুনের বাক্যটিকেও দিয়েছিল। আল-মুত্তাকীন শব্দে আছে নির্দিষ্টবাচক আল, অর্থাৎ এক পরিচিত দল, যাদের সংজ্ঞা তাফসীরকারেরা দেন, পরে আসছে। ফী তাদের কোনো কিছুর ভেতরে রাখে। মাকাম বলে তারা কোথায়, আর এর প্রথম স্বরের দুটি পাঠ তাফসীরকারেরা বর্ণনা করেন। শেষ শব্দ আমীন বলে দেয় জায়গাটা কেমন।"
+            "bn": "ইন্নাল মুত্তাকীনা ফী মাকামিন আমীন: নিশ্চয়ই মুত্তাকীরা থাকবে নিরাপদ এক অবস্থানে। আয়াতটি পাঁচ শব্দের। ইন্না কথাটিকে ভার দেয়, যেমন একটু আগে আগুনের বাক্যটিকেও দিয়েছিল। আল-মুত্তাকীন শব্দে আছে নির্দিষ্টবাচক আল, অর্থাৎ পরিচিত এক দল। তাদের বর্ণনা অন্য জায়গায় এসেছে, আর তাফসীরকারদের দেওয়া সংজ্ঞা নিচে আসছে। ফী তাদের কোনো কিছুর ভেতরে রাখে। মাকাম বলে তারা কোথায়, আর এর প্রথম স্বরের দুটি পাঠ তাফসীরকারেরা বর্ণনা করেন। শেষ শব্দ আমীন বলে দেয় জায়গাটা কেমন।"
           },
           {
             "en": "That last word is worth a second look. Amin is a describing word, and here it is laid on the place, not on the people. The commentators unpack it in two directions. Al-Qurtubi keeps it on the place: a place in which a person is made secure from harms. At-Tabari moves it to the people: they are safe in that location. Ma'arif al-Qur'an renders it as a place free from fear. The place is safe, and so its people are safe; the verse needs only the single adjective to say both.",
@@ -1001,7 +1001,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The commentators define al-muttaqin by what such people did. At-Tabari: those who guarded themselves before Allah by performing His obedience and avoiding disobedience to Him. The Muyassar says nearly the same: those who feared Allah by obeying His commands and avoiding His prohibitions, and it adds where, in this world, against the station, which is in the Hereafter. Ibn Kathir is shortest: those who feared Allah in this world. His English abridgement renders it as those who fear Allah and are dutiful towards Him in this world.",
-            "bn": "আল-মুত্তাকীনের সংজ্ঞা তাফসীরকারেরা দেন এই মানুষদের কাজ দিয়ে। তাবারী বলেন: যারা আল্লাহর আনুগত্য পালন করে আর তাঁর নাফরমানি এড়িয়ে চলে তাঁকে ভয় করেছে। মুয়াসসার প্রায় একই কথা বলে: যারা তাঁর আদেশ মেনে আর নিষেধ এড়িয়ে আল্লাহকে ভয় করেছে। সঙ্গে জুড়ে দেয় কোথায়: দুনিয়ায়। আর অবস্থানটি আখিরাতে। ইবন কাসীরের কথা সবচেয়ে ছোট: যারা দুনিয়ায় আল্লাহকে ভয় করেছে। তাঁর ইংরেজি সংক্ষিপ্ত সংস্করণ লেখে: যারা আল্লাহকে ভয় করে আর দুনিয়ায় তাঁর প্রতি কর্তব্যনিষ্ঠ থাকে।"
+            "bn": "আল-মুত্তাকীনের সংজ্ঞা তাফসীরকারেরা দেন এই মানুষদের কাজ দিয়ে। তাবারী বলেন: যারা আল্লাহর আনুগত্য করে আর তাঁর নাফরমানি এড়িয়ে আল্লাহর ব্যাপারে নিজেদের সাবধানে রেখেছে। মুয়াসসার প্রায় একই কথা বলে: যারা তাঁর আদেশ মেনে আর নিষেধ এড়িয়ে আল্লাহকে ভয় করেছে। সঙ্গে বলে দেয়, কোথায় ভয় করেছে: দুনিয়ায়। অথচ অবস্থানটি আখিরাতে। ইবন কাসীরের কথা সবচেয়ে ছোট: যারা দুনিয়ায় আল্লাহকে ভয় করেছে। তাঁর ইংরেজি সংক্ষিপ্ত সংস্করণ লেখে: যারা আল্লাহকে ভয় করে আর দুনিয়ায় তাঁর প্রতি কর্তব্যনিষ্ঠ থাকে।"
           },
           {
             "en": "As-Sa'di frames it as a guarding against something: those who guarded against His displeasure and His punishment by leaving sins and doing acts of obedience. Then he draws out a consequence in a single sentence. Since displeasure and punishment were removed from them, His good pleasure and the great reward were established for them. He does not name safety himself, but set beside this verse his sentence fits it closely: what they guarded against in this world can no longer reach them in the next.",
@@ -1077,7 +1077,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse describes two ends, as the texts describe them, and it licenses nothing against any living person or community. It does not let anyone place a neighbour, a rival or a whole people among those dragged in 44:47, and it does not let anyone pin the name muttaqin on himself or his group. The commentators define that name by deeds, obedience done and sins left, and they place its reward in the Hereafter. A believer reads this verse as a hope to work towards, not a verdict already handed down.",
-            "bn": "আয়াতটি দুটি পরিণতির বর্ণনা দেয়, যেমনটা মূল পাঠে আছে। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কোনো কিছুর অনুমতি দেয় না। প্রতিবেশী, প্রতিপক্ষ বা গোটা কোনো জাতিকে ৪৪:৪৭ আয়াতের টেনে নেওয়া লোকদের দলে বসিয়ে দেওয়ার অধিকার এটি কাউকে দেয় না। আবার নিজের বা নিজের দলের গায়ে মুত্তাকী তকমা সেঁটে দেওয়ার অধিকারও দেয় না। তাফসীরকারেরা এ নামের সংজ্ঞা দেন আমল দিয়ে: আনুগত্য পালন, গুনাহ বর্জন। আর এর প্রতিদান রাখেন আখিরাতে। মুমিন এ আয়াত পড়েন এমন আশা হিসেবে, যার দিকে কাজ করে যেতে হয়। আগেই দেওয়া রায় হিসেবে নয়।"
+            "bn": "আয়াতটি দুটি পরিণতির কথা বলে, তাফসীরগুলো যেভাবে বর্ণনা করেছে সেভাবেই। কোনো জীবিত মানুষ বা সম্প্রদায়ের বিরুদ্ধে এটি কিছুরই অনুমতি দেয় না। প্রতিবেশী, প্রতিপক্ষ বা গোটা কোনো জাতিকে ৪৪:৪৭ আয়াতের টেনে নেওয়া লোকদের দলে বসিয়ে দেওয়ার অধিকার এটি কাউকে দেয় না। আবার নিজের বা নিজের দলের গায়ে মুত্তাকী তকমা সেঁটে দেওয়ার অধিকারও দেয় না। তাফসীরকারেরা এ নামের সংজ্ঞা দেন আমল দিয়ে: আনুগত্য পালন, গুনাহ বর্জন। আর এর প্রতিদান রাখেন আখিরাতে। মুমিন এ আয়াত পড়েন এমন আশা হিসেবে, যার দিকে কাজ করে যেতে হয়। আগেই দেওয়া রায় হিসেবে নয়।"
           },
           {
             "en": "None of the commentaries consulted here attaches a hadith to this verse, so this article cites none. What the station contains is the work of the verses that follow: 44:52 names gardens and springs, and the passage runs on to 44:57, which calls it all a bounty from your Lord and the great attainment. This verse gives the frame before any of that detail arrives. Before the garden, the garment or the fruit, the first word about the muttaqin's place is that it is safe.",
