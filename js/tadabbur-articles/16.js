@@ -1081,7 +1081,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "As-Sa'di reads the condition as not knowing the news of those before and doubting whether Allah sent men, and says that all of those people held it as settled that Allah sent only men. The address, then, is to Makkan deniers in one argument, and those they are sent to serve as witnesses on a single point of history. The verse passes no judgment on any living religious community and licenses nothing against any person or group. No fetched commentator attaches a sound hadith to this verse, so none is offered here.",
-            "bn": "সা'দী শর্তটিকে পড়েন এভাবে: আগের লোকদের খবর না জানা, আর আল্লাহ মানুষকে রসূল করে পাঠিয়েছেন কি না তা নিয়ে সন্দেহ। তিনি বলেন, ওই লোকদের সবার কাছে এটা ছিল প্রতিষ্ঠিত কথা যে আল্লাহ পুরুষ মানুষ ছাড়া কাউকে পাঠাননি। তাহলে সম্বোধন একটা নির্দিষ্ট তর্কে মক্কার অস্বীকারকারীদের প্রতি। আর যাদের কাছে তাদের পাঠানো হচ্ছে, তারা ইতিহাসের একটিমাত্র বিষয়ে সাক্ষী। আজকের কোনো ধর্মীয় সম্প্রদায় সম্পর্কে আয়াতটি কোনো রায় দেয় না, কোনো মানুষ বা দলের বিরুদ্ধে কিছুরই অনুমতি দেয় না। যেসব তাফসীর দেখা হয়েছে, তার কোনোটি এ আয়াতের সঙ্গে কোনো সহীহ হাদীস যুক্ত করেনি, তাই এখানে কোনো হাদীস আনা হলো না।"
+            "bn": "সা'দী শর্তটির অর্থ করেন এভাবে: আগের লোকদের খবর না জানা, আর আল্লাহ মানুষকে রাসূল করে পাঠিয়েছেন কি না, তা নিয়ে সন্দেহ। তিনি বলেন, আগের ওই সব লোকের কাছে এটা ছিল মীমাংসিত কথা যে আল্লাহ পুরুষ মানুষ ছাড়া কাউকে রাসূল করে পাঠাননি। অর্থাৎ আয়াতের কথা মক্কার অস্বীকারকারীদের সঙ্গে, একটা নির্দিষ্ট তর্কে। আর যাদের কাছে তাদের জিজ্ঞেস করতে পাঠানো হচ্ছে, তারা ইতিহাসের কেবল একটি বিষয়ে সাক্ষী। আজকের কোনো ধর্মীয় সম্প্রদায় সম্পর্কে আয়াতটি কোনো রায় দেয় না, কোনো মানুষ বা দলের বিরুদ্ধে কিছু করার অনুমতিও দেয় না। যেসব তাফসীর দেখা হয়েছে, তার কোনোটিই এ আয়াতের সঙ্গে কোনো সহীহ হাদিস যুক্ত করেনি। তাই এখানেও কোনো হাদিস আনা হলো না।"
           }
         ]
       },
@@ -1125,11 +1125,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Turn the verse toward yourself. If you do not know: the condition treats not knowing as an ordinary state, and the verse meets it without scorn. It gave the Makkans a way to close the gap; what stood in their way was an unwillingness to ask. Most of us know the feeling. A question about prayer, about a debt, or about what is owed to a parent sits for years in guesswork, because asking felt like admitting something.",
-            "bn": "এবার আয়াতটা নিজের দিকে ফেরান। যদি তোমরা না জানো: শর্তটা না জানাকে স্বাভাবিক অবস্থা হিসেবেই ধরে, আর আয়াতটি তাকে তুচ্ছ করে না। মক্কার লোকদের সামনে ফাঁকটা পূরণের পথ খুলে দেওয়া হয়েছিল। বাধা ছিল জিজ্ঞেস করতে তাদের অনিচ্ছা। এই অনুভূতি আমাদের অনেকেরই চেনা। নামাজের কোনো মাসআলা, কোনো দেনা, কিংবা মা-বাবার কোন হক আদায় বাকি, এমন প্রশ্ন বছরের পর বছর আন্দাজের উপর পড়ে থাকে। কারণ জিজ্ঞেস করলে যেন কিছু একটা স্বীকার করে নেওয়া হয়।"
+            "bn": "এবার আয়াতটা নিজের দিকে ফেরান। যদি তোমরা না জানো: এই শর্ত না জানাকে স্বাভাবিক অবস্থা হিসেবেই ধরে, আর আয়াতটি এ নিয়ে কাউকে তুচ্ছ করে না। আয়াতটি মক্কার লোকদের সামনে ফাঁক পূরণের পথ খুলে দিয়েছিল। পথে বাধা ছিল একটাই: জিজ্ঞেস করতে তাদের অনীহা। এ অনুভূতি আমাদের অনেকেরই চেনা। নামাজের কোনো মাসআলা, কোনো দেনা, কিংবা মা-বাবার কোন হক আদায় বাকি, এমন প্রশ্ন বছরের পর বছর আন্দাজের উপর পড়ে থাকে। কারণ জিজ্ঞেস করলে মনে হয়, কিছু একটা স্বীকার করে ফেলছি।"
           },
           {
             "en": "Then comes the choice of whom to ask. Every reading above sends the questioner to people whose knowledge rests on what was revealed, not to the nearest confident voice. As-Sa'di's words cut both ways: those who are asked are vouched for, and so bound to purify themselves. And asking around until someone says yes is not asking at all. Say I do not know, ask someone whose learning and life you can trust, and ask in order to follow. The verse did not do the Makkans' asking for them, and it will not do ours.",
-            "bn": "তারপর আসে কাকে জিজ্ঞেস করবেন, সেই বাছাই। ওপরের প্রতিটি মত প্রশ্নকারীকে পাঠায় তাদের কাছে, যাদের জ্ঞানের ভিত্তি নাযিল হওয়া ওহি। হাতের কাছের আত্মবিশ্বাসী গলার কাছে নয়। সা'দীর কথা দুদিকেই কাটে। যাঁদের জিজ্ঞেস করা হয় তাঁদের উপর আস্থা রাখা হয়েছে, তাই নিজেদের পরিশুদ্ধ রাখার দায়ও তাঁদের। আর কেউ হ্যাঁ না বলা পর্যন্ত একের পর এক লোককে জিজ্ঞেস করে যাওয়া আসলে জিজ্ঞেস করা নয়। না জানলে বলুন, জানি না। এমন কাউকে জিজ্ঞেস করুন যাঁর জ্ঞান ও জীবনের উপর ভরসা রাখা যায়, আর জিজ্ঞেস করুন মেনে চলার নিয়তে। মক্কার লোকদের হয়ে আয়াতটি নিজে জিজ্ঞেস করে দেয়নি, আমাদের হয়েও দেবে না।"
+            "bn": "তারপর বাছাই করতে হয়, কাকে জিজ্ঞেস করবেন। ওপরের প্রতিটি ব্যাখ্যা প্রশ্নকারীকে পাঠায় এমন মানুষদের কাছে, যাদের জ্ঞানের ভিত্তি নাজিল হওয়া ওহি। হাতের কাছে যে জোর গলায় কথা বলে, তার কাছে নয়। সা'দীর কথার দুটো দিক আছে। যাঁদের জিজ্ঞেস করা হয়, আল্লাহ তাঁদের উপর আস্থা রেখেছেন, তাই নিজেদের পরিশুদ্ধ রাখার দায়ও তাঁদের। আর মনের মতো 'হ্যাঁ' না শোনা পর্যন্ত একজনের পর একজনকে জিজ্ঞেস করে যাওয়া আসলে জিজ্ঞেস করা নয়। না জানলে বলুন, জানি না। এমন কাউকে জিজ্ঞেস করুন যাঁর জ্ঞান আর জীবন দুটোর উপরই ভরসা রাখা যায়। আর জিজ্ঞেস করুন মেনে চলার নিয়তে। মক্কার লোকদের হয়ে আয়াতটি জিজ্ঞেস করে দেয়নি, আমাদের হয়েও দেবে না।"
           }
         ]
       }
@@ -1140,32 +1140,32 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Where the Sentence Falls",
-          "bn": "বাক্যটি কোথায় এসে পড়ে"
+          "bn": "সূরায় বাক্যটির জায়গা"
         },
         "p": [
           {
             "en": "Surah an-Nahl argues in steps. 16:51 forbids taking two gods and tells the reader to fear Him alone. Then 16:52 follows: to Him belongs whatever is in the heavens and the earth, and to Him worship is due constantly — so is it other than Allah that you fear? Ownership first, then the worship that ownership settles. This verse takes the next step and moves from what He owns out there to whatever it is you are holding in your hands right now.",
-            "bn": "সূরা আন-নাহল ধাপে ধাপে যুক্তি সাজায়। 16:51 আয়াত দুই ইলাহ গ্রহণ করতে নিষেধ করে এবং পাঠককে কেবল তাঁকেই ভয় করতে বলে। এরপর 16:52 আয়াত আসে: আসমানসমূহ ও যমীনে যা কিছু আছে সবই তাঁর, আর আনুগত্য চিরকাল তাঁরই প্রাপ্য — তবে কি আল্লাহ ছাড়া অন্য কাউকে তোমরা ভয় করবে? আগে মালিকানা, তারপর সেই মালিকানা যে ইবাদত নির্ধারণ করে দেয় তা। এই আয়াতটি পরের ধাপে যায় — বাইরের জগতে তিনি যা কিছুর মালিক, সেখান থেকে সরে এসে এখন এই মুহূর্তে তোমার হাতে যা আছে তার দিকে তাকায়।"
+            "bn": "সূরা আন-নাহল যুক্তি সাজায় ধাপে ধাপে। ১৬:৫১ আয়াত দুই ইলাহ গ্রহণ করতে নিষেধ করে, আর পাঠককে বলে কেবল তাঁকেই ভয় করতে। এরপর আসে ১৬:৫২: আসমান ও যমীনে যা কিছু আছে সব তাঁরই, আর আনুগত্য সবসময় তাঁরই প্রাপ্য; তবু কি তোমরা আল্লাহ ছাড়া অন্য কাউকে ভয় করবে? আগে মালিকানা, তারপর সেই মালিকানার দাবি অনুযায়ী ইবাদত। এ আয়াত আরও এক ধাপ এগিয়ে যায়। বাইরের জগতে তিনি যা কিছুর মালিক, সেখান থেকে চোখ ফেরায় ঠিক এই মুহূর্তে আপনার হাতে যা আছে তার দিকে।"
           },
           {
             "en": "The surah's other great favour verse, 16:18, concedes that the count can never be finished. This one is not about the tally at all; it is about the source. Between them the surah says two separate things: however many favours there are, you will never number them, and whichever single one you happen to be holding, it came from one place. The second claim is the easier to test, because you only need one favour to test it.",
-            "bn": "একই সূরার নিয়ামত-বিষয়ক আরেক বড় আয়াত 16:18 স্বীকার করে যে গণনা কখনো শেষ করা যাবে না। এই আয়াতটি গণনার কথা মোটেও বলছে না; এটি বলছে উৎসের কথা। এই দুটি আয়াত মিলে সূরাটি দুটি আলাদা কথা বলে: নিয়ামত যত-ই হোক, তুমি তা গুনে শেষ করতে পারবে না; আর তার মধ্যে যে একটিই তোমার হাতে আছে, তা এসেছে একটিমাত্র জায়গা থেকে। দ্বিতীয় দাবিটি যাচাই করা সহজ, কারণ যাচাই করতে একটি নিয়ামতই যথেষ্ট।"
+            "bn": "নিয়ামত নিয়ে এ সূরার আরেকটি বড় আয়াত ১৬:১৮। সেখানে মেনে নেওয়া হয়েছে, নিয়ামত গুনে কখনো শেষ করা যাবে না। এ আয়াত গোনাগুনতির কথাই বলছে না, বলছে উৎসের কথা। দুই আয়াত মিলে সূরাটি দুটি আলাদা কথা বলে। নিয়ামত যত বেশিই হোক, আপনি তা গুনে শেষ করতে পারবেন না। আর এর মধ্যে যে একটি এখন আপনার হাতে আছে, সেটি এসেছে একটিমাত্র উৎস থেকে। দ্বিতীয় কথাটি যাচাই করা সহজ, কারণ যাচাই করতে একটা নিয়ামতই যথেষ্ট।"
           }
         ]
       },
       {
         "h": {
           "en": "Any Favour At All",
-          "bn": "যেকোনো একটি নিয়ামতও"
+          "bn": "যে নিয়ামতই হোক"
         },
         "p": [
           {
             "en": "The Arabic is wa ma bikum min ni'matin fa-mina Allah. The construction repays slowing down. Ma here is inclusive — whatever; min ni'matin is the indefinite that follows it, and a min used this way sweeps in every instance of the thing named. Not the great favours, not most of them: any favour at all, of any size, arriving by any route. And bikum — with you, attached to you — makes the sentence personal before it makes it general.",
-            "bn": "আরবিতে আছে: ওয়া মা বিকুম মিন নি'মাতিন ফামিনাল্লাহ। গঠনটির উপর ধীরে থামলে লাভ আছে। এখানে 'মা' ব্যাপক অর্থে — 'যা কিছুই'; এর পরে আসে অনির্দিষ্ট 'মিন নি'মাতিন', আর এভাবে ব্যবহৃত 'মিন' নামোল্লিখিত জিনিসটির প্রতিটি দৃষ্টান্তকেই টেনে নেয়। বড় নিয়ামতগুলো নয়, অধিকাংশ নিয়ামতও নয়: যেকোনো একটি নিয়ামতই — যত ছোটই হোক, যে পথেই আসুক। আর 'বিকুম' — তোমাদের সঙ্গে, তোমাদের গায়ে লেগে থাকা — বাক্যটিকে সাধারণ করার আগেই ব্যক্তিগত করে তোলে।"
+            "bn": "আরবিতে আছে: ওয়া মা বিকুম মিন নি'মাতিন ফামিনাল্লাহ। গঠনটা একটু থেমে দেখার মতো। এখানে 'মা' সবকিছুকে ধরে, মানে 'যা কিছুই'। এর পরে আসে অনির্দিষ্ট 'মিন নি'মাতিন'। এভাবে ব্যবহৃত 'মিন' যে জিনিসের নাম নেয়, তার প্রতিটিকেই ভেতরে টেনে নেয়। শুধু বড় নিয়ামতগুলো নয়, বেশিরভাগও নয়: যেকোনো নিয়ামত, যত ছোটই হোক, যে পথেই আসুক। আর 'বিকুম' মানে তোমাদের সঙ্গে, তোমাদের গায়ে লেগে থাকা। এই শব্দ কথাটাকে সবার জন্য সাধারণ করার আগে প্রত্যেকের নিজের করে দেয়।"
           },
           {
             "en": "The answering clause opens with fa: fa-mina Allah, then it is from Allah. That fa is the hinge of a conditional sentence — given any favour with you, then its origin is Him. The verse is therefore built so that the favour is the premise and its source is the conclusion. It is not asking you to believe an extra fact about the world. It is asking you to finish a sentence the world has already begun.",
-            "bn": "জবাবের অংশটি শুরু হয় 'ফা' দিয়ে: ফামিনাল্লাহ — তবে তা আল্লাহর পক্ষ থেকে। এই 'ফা' শর্তবাক্যের কব্জা — তোমার কাছে যে নিয়ামতই থাকুক, তবে তার উৎস তিনি। অর্থাৎ আয়াতটি এমনভাবে গাঁথা যে নিয়ামতটি হলো ভূমিকা আর তার উৎস হলো সিদ্ধান্ত। জগৎ সম্পর্কে বাড়তি কোনো তথ্য বিশ্বাস করতে বলা হচ্ছে না তোমাকে। বলা হচ্ছে, জগৎ যে বাক্যটি ইতিমধ্যে শুরু করে রেখেছে, সেটি শেষ করতে।"
+            "bn": "জবাবের অংশটি শুরু হয় 'ফা' দিয়ে: ফামিনাল্লাহ, তবে তা আল্লাহর পক্ষ থেকে। এই 'ফা'-ই শর্তবাক্যের দুই অংশকে জোড়ে: আপনার কাছে যে নিয়ামতই থাকুক, তার উৎস তিনিই। তাই আয়াতটির গঠনে নিয়ামত হলো যুক্তির শুরু, আর তার উৎস হলো উপসংহার। আয়াতটি আপনাকে দুনিয়া সম্পর্কে বাড়তি কোনো তথ্য বিশ্বাস করতে বলছে না। বলছে, দুনিয়া যে বাক্য আগেই শুরু করে রেখেছে, সেটা শেষ করতে।"
           }
         ]
       },
@@ -1177,23 +1177,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then: thumma idha massakumu ad-durru fa-ilayhi taj'arun. Massa is to touch — harm only has to brush against you. And the verb at the end is not the ordinary word for supplication. Ju'ar, as the lexicographers explain it, is the raised voice of cattle; taj'arun says that you bellow. The Quran uses the same verb in 23:64 of the affluent seized by punishment. It is not a flattering word, and it is exact: a frightened human cry is loud, wordless, involuntary — and it goes in one direction only.",
-            "bn": "তারপর: ছুম্মা ইযা মাস্সাকুমুদ্‌ দুর্‌রু ফাইলাইহি তাজআরূন। 'মাস্সা' মানে স্পর্শ করা — ক্ষতির কেবল ছুঁয়ে যাওয়াই যথেষ্ট। আর শেষের ক্রিয়াপদটি দোয়ার সাধারণ শব্দ নয়। অভিধানবিদরা ব্যাখ্যা করেন, 'জুআর' হলো গবাদিপশুর উঁচু ডাক; 'তাজআরূন' বলছে — তোমরা চিৎকার করে ওঠো। শাস্তিতে পাকড়াও করা বিত্তবানদের সম্পর্কে 23:64 আয়াতে কুরআন এই একই ক্রিয়াপদ ব্যবহার করে। শব্দটি প্রশংসাসূচক নয়, কিন্তু নিখুঁত: ভীত মানুষের আর্তনাদ উচ্চ, ভাষাহীন, অনিচ্ছাকৃত — আর তা যায় কেবল একটিই দিকে।"
+            "bn": "তারপর: ছুম্মা ইযা মাস্সাকুমুদ্‌ দুর্‌রু ফাইলাইহি তাজআরূন। 'মাস্সা' মানে ছোঁয়া। বিপদ আপনাকে একটু ছুঁয়ে গেলেই যথেষ্ট। আর শেষের ক্রিয়াটি দোয়ার সাধারণ শব্দ নয়। অভিধানবিদদের ব্যাখ্যায় 'জুআর' হলো গরু-মহিষের গলা ছেড়ে ডাকা। 'তাজআরূন' মানে, তোমরা পশুর মতো ডাক ছেড়ে চেঁচিয়ে ওঠো। ২৩:৬৪ আয়াতে কুরআন একই ক্রিয়া ব্যবহার করেছে সেই বিলাসী লোকদের বেলায়, যাদের আজাব এসে পাকড়াও করে। শব্দটা মোটেও সম্মানের নয়, কিন্তু একেবারে নিখুঁত। ভয় পাওয়া মানুষের চিৎকার জোরালো, ভাষাহীন, আপনা থেকে বেরিয়ে আসা। আর তা যায় কেবল একদিকেই।"
           }
         ]
       },
       {
         "h": {
           "en": "The Very Next Line",
-          "bn": "ঠিক পরের লাইনটি"
+          "bn": "ঠিক পরের আয়াত"
         },
         "p": [
           {
             "en": "16:54 comes immediately after: then when He removes the adversity from you, at once a party of you associates others with their Lord. And 16:55 completes it — so as to deny what We have given them. Four movements across three verses: the source, the cry, the rescue, the forgetting. The pair is an argument rather than a complaint. The panic had already conceded the whole of the theology; the recovery quietly took the concession back.",
-            "bn": "16:54 আয়াতটি ঠিক এর পরেই আসে: তারপর যখন তিনি তোমাদের থেকে বিপদ দূর করে দেন, তখনই তোমাদের একটি দল তাদের রবের সঙ্গে শরিক করে বসে। আর 16:55 আয়াত তা পূর্ণ করে — যাতে তারা আমি তাদের যা দিয়েছি তা অস্বীকার করে। তিন আয়াতে চারটি ধাপ: উৎস, আর্তনাদ, উদ্ধার, বিস্মরণ। জোড়াটি অভিযোগ নয়, যুক্তি। আতঙ্কই গোটা আকীদাটি মেনে নিয়েছিল; আর সুস্থ হয়ে ওঠাটি চুপচাপ সেই স্বীকারোক্তিটি ফিরিয়ে নিল।"
+            "bn": "ঠিক পরেই আসে ১৬:৫৪: তারপর যখন তিনি তোমাদের বিপদ দূর করে দেন, তখনই তোমাদের একটি দল তাদের রবের সঙ্গে শরিক করে বসে। ১৬:৫৫ কথাটা শেষ করে: যাতে আমি তাদের যা দিয়েছি তা তারা অস্বীকার করে। তিন আয়াতে চারটি ধাপ: উৎস, আর্তনাদ, উদ্ধার, ভুলে যাওয়া। এই জোড়া আয়াত নালিশ নয়, যুক্তি। আতঙ্কের মুহূর্তে মানুষ পুরো আকীদাটাই মেনে নিয়েছিল। বিপদ কেটে যেতেই চুপচাপ সেই স্বীকারোক্তি ফিরিয়ে নিল।"
           },
           {
             "en": "The Quran replays the same pattern as a scene. 29:65 has people boarding a ship and calling upon Allah with their religion made sincerely His, and then associating others with Him the moment He delivers them to the land. What changes between the two halves of that verse is not their evidence; nothing new was shown to them at the shore. Only their circumstances changed — which is exactly why 16:53 points at the cry as the honest moment.",
-            "bn": "কুরআন এই একই ছককে একটি দৃশ্যের রূপেও দেখায়। 29:65 আয়াতে মানুষ নৌযানে ওঠে এবং একনিষ্ঠভাবে দ্বীনকে তাঁরই জন্য নির্দিষ্ট করে আল্লাহকে ডাকে, তারপর তিনি যখনই তাদের স্থলে পৌঁছে দেন তখনই তারা শরিক করে বসে। ওই আয়াতের দুই অর্ধের মাঝে যা বদলায় তা তাদের প্রমাণ নয়; তীরে পৌঁছে তাদের নতুন কিছু দেখানো হয়নি। বদলেছে কেবল তাদের অবস্থা — আর ঠিক এ কারণেই 16:53 আয়াত আর্তনাদের মুহূর্তটিকেই সৎ মুহূর্ত বলে দেখিয়ে দেয়।"
+            "bn": "একই ছক কুরআন আবার দেখায় একটা দৃশ্যের মধ্য দিয়ে। ২৯:৬৫ আয়াতে মানুষ নৌকায় চড়ে, আর দ্বীনকে একান্ত আল্লাহর জন্য খাঁটি করে তাঁকে ডাকে। তারপর তিনি যেই তাদের ডাঙায় পৌঁছে দেন, অমনি তারা শরিক করতে শুরু করে। আয়াতের দুই অংশের মাঝে তাদের প্রমাণ বদলায়নি, তীরে এসে নতুন কিছু তাদের দেখানো হয়নি। বদলেছে শুধু তাদের অবস্থা। ঠিক এজন্যই ১৬:৫৩ আয়াত আঙুল তোলে আর্তনাদের দিকে: সেটাই মানুষের সৎ মুহূর্ত।"
           }
         ]
       },
@@ -1205,23 +1205,23 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Favours arrive through hands: an employer, a parent, a teacher, a stranger who stopped. The verse does not deny the hands; it denies that any of them is the origin. As-Sa'di states it plainly — whatever the servants have of blessing, in their religion and in their worldly affairs, is from Allah alone. 31:20 widens the same claim by adding what we cannot see: He has lavished His favours upon you, apparent and hidden. The ones you can name are not the whole account.",
-            "bn": "নিয়ামত আসে নানা হাতের ভেতর দিয়ে: একজন নিয়োগকর্তা, একজন বাবা-মা, একজন শিক্ষক, পথে থেমে যাওয়া এক অচেনা মানুষ। আয়াতটি এই হাতগুলোকে অস্বীকার করে না; অস্বীকার করে এই কথাটিই যে এদের কেউ উৎস। আস-সা'দী সরাসরি বলেন — বান্দাদের কাছে দ্বীনের বা দুনিয়ার যে নিয়ামতই আছে, তা কেবল আল্লাহরই পক্ষ থেকে। 31:20 আয়াত যা আমরা দেখতে পাই না তা যোগ করে একই দাবিকে আরও প্রশস্ত করে: তিনি তোমাদের উপর তাঁর নিয়ামত পূর্ণ করে দিয়েছেন, প্রকাশ্য ও অপ্রকাশ্য। তুমি যেগুলোর নাম নিতে পারো, হিসাবটা কেবল সেটুকুই নয়।"
+            "bn": "নিয়ামত আসে কারও না কারও হাত দিয়ে: মালিক, মা-বাবা, শিক্ষক, কিংবা পথে থেমে দাঁড়ানো কোনো অচেনা মানুষ। আয়াতটি এই হাতগুলোকে অস্বীকার করে না। অস্বীকার করে শুধু এটুকু যে এদের কেউ আসল উৎস। সা'দী সোজাসুজি বলেন: দ্বীনের হোক বা দুনিয়ার, বান্দাদের কাছে যে নিয়ামতই আছে, সব একমাত্র আল্লাহর পক্ষ থেকে। ৩১:২০ আয়াত এর সঙ্গে যোগ করে যা আমরা দেখি না, তাতে দাবিটা আরও বড় হয়: তিনি তোমাদের উপর তাঁর প্রকাশ্য ও গোপন নিয়ামত ভরপুর করে দিয়েছেন। যেগুলোর নাম আপনি বলতে পারেন, পুরো হিসাব সেগুলো নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Naming the Source Aloud",
-          "bn": "সরবে উৎসের নাম নেওয়া"
+          "bn": "মুখে উৎসের নাম বলা"
         },
         "p": [
           {
             "en": "Al-Bukhari relates from Shaddad ibn Aws (RA) the words the Prophet ﷺ called the master of seeking forgiveness, in which the servant says: I acknowledge Your favour upon me, and I acknowledge my sin. The two acknowledgements stand side by side in one sentence. Recognising where a favour came from is treated there as the same kind of honesty as admitting what you did wrong — both are simply naming a fact you would rather leave blurred.",
-            "bn": "আল-বুখারী শাদ্দাদ ইবনে আউস (রাঃ) থেকে সেই বাক্যগুলো বর্ণনা করেন, যেগুলোকে নবী ﷺ ইস্তিগফারের সর্দার বলেছেন; তাতে বান্দা বলে: আমি আমার উপর আপনার নিয়ামত স্বীকার করছি, আর আমার গুনাহও স্বীকার করছি। একই বাক্যে দুটি স্বীকারোক্তি পাশাপাশি দাঁড়িয়ে। নিয়ামতটি কোথা থেকে এলো তা চিনে নেওয়াকে সেখানে সেই একই ধরনের সততা ধরা হয়েছে, যেমন সততা নিজের ভুল স্বীকার করায় — দুটোই আসলে এমন এক সত্যের নাম নেওয়া, যা আমরা ঝাপসা রাখতেই পছন্দ করি।"
+            "bn": "বুখারী শাদ্দাদ ইবনে আউস (রাঃ) থেকে সেই কথাগুলো বর্ণনা করেছেন, যেগুলোকে নবী ﷺ ইস্তিগফারের সর্দার বলেছেন। তাতে বান্দা বলে: আমার উপর আপনার নিয়ামত আমি স্বীকার করছি, আর আমার গুনাহও স্বীকার করছি। একই বাক্যে দুটি স্বীকারোক্তি পাশাপাশি। নিয়ামত কোথা থেকে এল তা মেনে নেওয়া সেখানে ঠিক ততটাই সততা, যতটা নিজের ভুল স্বীকার করা। দুটোতেই আমরা এমন একটা সত্য মুখে আনি, যা ঝাপসা রেখে দিতেই মন চায়।"
           },
           {
             "en": "The practice this verse asks for is small and surprisingly hard: attach the words from Allah to something today that arrived without a crisis. The cry in hardship needs no training; it is already installed. What needs training is the ease. Say it over the meal, the wage, the test result that came back clear, the ordinary evening at home — the same instinct as the cry, in the same direction, with the volume turned down.",
-            "bn": "এই আয়াত যে অনুশীলন চায় তা ছোট, অথচ আশ্চর্যরকম কঠিন: আজ এমন কিছুর সঙ্গে 'আল্লাহর পক্ষ থেকে' কথাটি জুড়ে দিন, যা কোনো বিপদ ছাড়াই এসেছে। কষ্টের সময়ের আর্তনাদের জন্য অনুশীলন লাগে না; সেটি আগে থেকেই বসানো আছে। অনুশীলন লাগে স্বাচ্ছন্দ্যের জন্য। খাবারটির উপর, বেতনটির উপর, নির্ভুল আসা পরীক্ষার ফলটির উপর, ঘরে কাটানো সাধারণ সন্ধ্যাটির উপর কথাটি বলুন — আর্তনাদের মতোই সেই একই সহজাত টান, একই দিকে, কেবল শব্দের জোরটা নামিয়ে।"
+            "bn": "এ আয়াত যে অভ্যাস চায়, তা ছোট, কিন্তু অবাক করার মতো কঠিন। আজ এমন কিছুর বেলায় বলুন 'এটা আল্লাহর পক্ষ থেকে', যা কোনো বিপদ ছাড়াই এসেছে। বিপদের সময়ের আর্তনাদ শিখতে হয় না, ওটা ভেতরে আগে থেকেই আছে। শিখতে হয় সুখের সময়ে বলা। খাবারের সামনে বলুন, বেতন হাতে পেয়ে বলুন, পরীক্ষার রিপোর্ট ভালো এলে বলুন, ঘরে কাটানো সাধারণ এক সন্ধ্যায় বলুন। আর্তনাদের সেই একই টান, একই দিকে, শুধু গলাটা নিচু।"
           }
         ]
       }
@@ -1357,7 +1357,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The same test comes with other news: a result we did not hope for, a plan that fell through, a child who turns out different from what we pictured. Feeling sorrow is no fault; the Qur'an uses kazim for Ya'qub (AS) as well. The question is what the held-in feeling is made of. Grief that still trusts the One who sent the news can sit beside alhamdulillah. Resentment that thinks it knew better is the darkened face of this verse, however politely the mouth stays shut.",
-            "bn": "অন্য খবরেও একই পরীক্ষা আসে। যে ফল আশা করিনি, যে পরিকল্পনা ভেস্তে গেল, যে সন্তান আমাদের কল্পনার মতো হলো না। দুঃখ পাওয়া দোষের নয়। কুরআন ইয়াকূব (আঃ)-এর বেলাতেও কাযীম শব্দটি ব্যবহার করেছে। প্রশ্ন হলো, চেপে রাখা অনুভূতিটা কী দিয়ে তৈরি। যে দুঃখ খবর পাঠানেওয়ালার উপর ভরসা রাখে, তা আলহামদুলিল্লাহর পাশে থাকতে পারে। আর যে ক্ষোভ ভাবে সে আল্লাহর চেয়ে ভালো জানত, মুখ যত ভদ্রভাবেই বন্ধ থাকুক, সেটাই এ আয়াতের কালো মুখ।"
+            "bn": "অন্য খবরেও একই পরীক্ষা আসে: যে ফল আশা করিনি, যে পরিকল্পনা ভেস্তে গেল, যে সন্তান আমাদের কল্পনার মতো হলো না। দুঃখ পাওয়া দোষের নয়। কুরআন ইয়াকূব (আঃ)-এর বেলাতেও কাযীম শব্দটি ব্যবহার করেছে। প্রশ্ন হলো, ভেতরে চেপে রাখা অনুভূতিটা আসলে কী। যিনি খবরটা পাঠিয়েছেন, তাঁর উপর যে দুঃখ ভরসা হারায় না, তার পাশে আলহামদুলিল্লাহও বলা যায়। আর যে ক্ষোভ ভাবে, আমি তো ভালো জানতাম, মুখ যত ভদ্রভাবেই বন্ধ থাকুক, সেটাই এ আয়াতের কালো মুখ।"
           },
           {
             "en": "So the verse leaves a few plain tasks. Say the congratulations for a daughter in full, and mean them. In your own home, answer the sigh of another girl gently but at once. Never let a mother carry blame for a child Allah chose to give. Let sisters hear from their brothers, and daughters from their fathers, that they were wanted. None of this needs a campaign. It needs one face, yours, to show at the next birth what the Qur'an already called it: good news.",
@@ -1377,7 +1377,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Wa law yu'akhidhu Allahu an-nasa bi-zulmihim: and if Allah were to take people to task for their wrongdoing. The verse arrives straight after a run of claims the chapter has been answering: a share of provision set aside for false gods, daughters assigned to Allah, sons kept for themselves. As-Sa'di reads the placement directly. Having mentioned what the wrongdoers fabricated against Him, he says, Allah mentions the completeness of His forbearance and His patience.",
-            "bn": "ওয়া লাও ইউআখিযুল্লাহুন নাসা বিযুলমিহিম: আল্লাহ যদি মানুষকে তাদের জুলুমের জন্য পাকড়াও করতেন। আয়াতটি এসেছে ঠিক সেই দাবিগুলোর পরে, যেগুলোর জবাব সূরা এতক্ষণ দিচ্ছিল। মিথ্যা উপাস্যদের জন্য রিযকের ভাগ রাখা, আল্লাহর জন্য কন্যা ঠিক করা আর নিজেদের জন্য পুত্র। সা'দী এই অবস্থানটাই সরাসরি ধরেন। তাঁর কথায়, জালিমরা আল্লাহর নামে যা রটিয়েছে তা উল্লেখ করার পর আল্লাহ তাঁর পরিপূর্ণ সহনশীলতা আর ধৈর্যের কথা বলছেন।"
+            "bn": "ওয়া লাও ইউআখিযুল্লাহুন নাসা বিযুলমিহিম: আল্লাহ যদি মানুষকে তাদের জুলুমের জন্য পাকড়াও করতেন। আয়াতটি এসেছে ঠিক সেই দাবিগুলোর পরে, যেগুলোর জবাব সূরা এতক্ষণ দিচ্ছিল: মিথ্যা উপাস্যদের জন্য রিযকের ভাগ রাখা, আল্লাহর জন্য কন্যা ঠিক করা আর নিজেদের জন্য পুত্র। আয়াতটি কেন এখানে এল, সা'দী তা সরাসরি বলে দেন। তাঁর কথায়, জালিমরা আল্লাহর নামে যা রটিয়েছে তা উল্লেখ করার পর আল্লাহ তাঁর পরিপূর্ণ সহনশীলতা আর ধৈর্যের কথা বলছেন।"
           },
           {
             "en": "At-Tabari puts the reason briefly: out of His forbearance, bi-hilmihi, He defers these wrongdoers and does not hasten punishment upon them. Ibn Kathir opens by saying the verse tells of Allah's forbearance with His creation despite their wrongdoing, and adds two verbs: the Lord yahlumu wa yastur, He is forbearing and He covers. Ibn Kathir's English abridgement treats 16:61 and 16:62 together, and the fetched Ma'arif al-Qur'an passage groups 16:60 to 16:65. Only what they say of this verse is used here, and Ma'arif's passage in fact speaks only of the verses before it.",
@@ -1533,11 +1533,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah an-Nahl runs a long roll-call of favours, and by this point the cadence is familiar: milk drawn pure from between blood and dung, fruit that yields both drink and good food, the bee and its healing, then life, death, and provision shared out unequally. Verse 72 keeps the same opening — wa-Llāhu, and Allah — but turns from the fields and the sky to the house itself. The favour named here is the one closest to a person: a spouse, children and grandchildren, and the good things set before them to eat.",
-            "bn": "সূরা আন-নাহল একটার পর একটা নিয়ামতের লম্বা তালিকা টানতে থাকে, আর এতদূর এসে সুরটা চেনা হয়ে গেছে। রক্ত আর গোবরের মাঝ থেকে বেরিয়ে আসা বিশুদ্ধ দুধ, যে ফল থেকে হয় পানীয় আর উত্তম খাবার, মৌমাছি আর তার আরোগ্য, তারপর জীবন, মৃত্যু আর অসমভাবে বণ্টন করা রিযিক। ৭২ নম্বর আয়াত সেই একই শুরু ধরে রাখে, ওয়াল্লাহু, আর আল্লাহ, তবে মাঠ আর আকাশ থেকে মুখ ফিরিয়ে আনে ঘরের দিকে। এখানে যে নিয়ামতের নাম নেওয়া হচ্ছে, তা মানুষের সবচেয়ে কাছের জিনিস। স্ত্রী বা স্বামী, সন্তান আর নাতি-নাতনি, আর তাদের সামনে খাবার হিসেবে রাখা ভালো জিনিসগুলো।"
+            "bn": "সূরা আন-নাহল একটার পর একটা নিয়ামতের লম্বা তালিকা দিয়ে চলে, আর এতদূর এসে সুরটা চেনা হয়ে গেছে। রক্ত আর গোবরের মাঝখান থেকে বের করে আনা খাঁটি দুধ, যে ফল থেকে পানীয়ও হয়, উত্তম খাবারও হয়, মৌমাছি আর তার আরোগ্য, তারপর জীবন, মৃত্যু আর কমবেশি করে বণ্টন করা রিযিক। ৭২ নম্বর আয়াতও শুরু হয় একইভাবে: ওয়াল্লাহু, আর আল্লাহ। কিন্তু এবার মাঠ আর আকাশ ছেড়ে চোখ ফেরায় ঘরের দিকে। এখানে যে নিয়ামতের নাম, তা মানুষের সবচেয়ে কাছের: স্বামী বা স্ত্রী, সন্তান আর নাতি-নাতনি, আর তাদের সামনে রাখা ভালো ভালো খাবার।"
           },
           {
             "en": "The verse just before it, 16:71, spoke of provision and how those given more do not simply hand it down to those they own. This one moves the argument indoors. Ibn Kathir reads the sequence as a fresh listing of the blessings Allah pours on His servants, and as-Sa'di calls it a report of His immense favour upon them. Where the earlier signs asked people to look at cattle and rain, this one asks them to look across their own table and recognise the same Hand.",
-            "bn": "ঠিক আগের আয়াত, ১৬:৭১, রিযিকের কথা বলেছিল, বলেছিল যাদের বেশি দেওয়া হয়েছে তারা নিজেদের অধীনস্থদের হাতে সেটা সহজে ছেড়ে দেয় না। এই আয়াত সেই আলোচনাটাকে ঘরের ভেতরে নিয়ে আসে। ইবন কাসীর এই ধারাটিকে পড়েন আল্লাহ তাঁর বান্দাদের উপর যেসব নিয়ামত ঢেলে দেন তার নতুন করে তালিকা হিসেবে, আর সাদী একে বলেন বান্দাদের উপর তাঁর বিশাল অনুগ্রহের বিবরণ। আগের নিদর্শনগুলো মানুষকে বলছিল গবাদি পশু আর বৃষ্টির দিকে তাকাতে, এই আয়াত বলছে নিজের খাবার টেবিলের ওপারে তাকিয়ে সেই একই হাত চিনে নিতে।"
+            "bn": "ঠিক আগের আয়াত ১৬:৭১ রিযিকের কথা বলেছিল: যাদের বেশি দেওয়া হয়েছে, তারা নিজেদের অধীনস্থদের হাতে তা সহজে তুলে দেয় না। এ আয়াত আলোচনাটা ঘরের ভেতরে নিয়ে আসে। ইবন কাসীরের মতে, এখান থেকে আল্লাহ তাঁর বান্দাদের উপর ঢেলে দেওয়া নিয়ামতের নতুন একটা তালিকা শুরু করেন। সাদী একে বলেন বান্দাদের উপর তাঁর বিশাল অনুগ্রহের বিবরণ। আগের নিদর্শনগুলো মানুষকে বলছিল গবাদি পশু আর বৃষ্টির দিকে তাকাতে। এ আয়াত বলছে নিজের দস্তরখানের চারপাশে তাকিয়ে সেই একই হাত চিনে নিতে।"
           }
         ]
       },
@@ -1565,15 +1565,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The next clause holds a genuinely disputed word. Wa-jaʿala lakum min azwājikum banīna wa-ḥafadah — and made for you, from your mates, sons and ḥafadah. Banīn is plain enough; ḥafadah is not, and the early authorities pulled it four ways. Ibn Kathir and at-Tabari both gather the readings and name who held each one, which is the only reason they can be reported here as more than guesses.",
-            "bn": "পরের অংশে সত্যিকারের একটা বিতর্কিত শব্দ আছে। ওয়া জাআলা লাকুম মিন আযওয়াজিকুম বানীনা ওয়া হাফাদা, আর তোমাদের জন্য তোমাদের সঙ্গীদের থেকে দিয়েছেন পুত্র আর হাফাদা। বানীন শব্দটা যথেষ্ট স্পষ্ট, হাফাদা নয়। প্রাচীন মনীষীরা একে চারটি দিকে টেনেছেন। ইবন কাসীর আর তাবারী দুজনেই ব্যাখ্যাগুলো একসাথে জড়ো করেন আর কে কোনটা ধরেছেন তার নাম দেন। এ কারণেই এখানে ব্যাখ্যাগুলো নিছক অনুমানের বেশি কিছু হিসেবে বলা সম্ভব হচ্ছে।"
+            "bn": "পরের অংশে এমন একটা শব্দ আছে, যার অর্থ নিয়ে সত্যিই মতভেদ আছে। ওয়া জাআলা লাকুম মিন আযওয়াজিকুম বানীনা ওয়া হাফাদা: আর তোমাদের সঙ্গীদের থেকে তোমাদের জন্য দিয়েছেন পুত্র আর হাফাদা। বানীন শব্দটা স্পষ্ট, হাফাদা নয়। পূর্বসূরি আলেমরা এর চার রকম অর্থ করেছেন। ইবন কাসীর আর তাবারী দুজনেই সব কটি ব্যাখ্যা একসঙ্গে এনেছেন, আর কোনটি কার মত, তাও নাম ধরে বলেছেন। সেজন্যই এখানে এগুলোকে নিছক অনুমান না বলে বর্ণিত মত হিসেবে তুলে ধরা যাচ্ছে।"
           },
           {
             "en": "The first reading is grandchildren — the children's children. Ibn Kathir attributes it to Ibn ʿAbbās, ʿIkrimah, al-Hasan, ad-Dahhāk and Ibn Zayd, with Saʿīd b. Jubayr narrating from Ibn ʿAbbās that it means the children and the children's children. The second is servants and helpers: at-Tabari lists Mujāhid, Qatādah, Abū Mālik and al-Hasan al-Basrī, and quotes Ibn ʿAbbās saying man aʿānaka fa-qad ḥafadaka — whoever helps you has 'ḥafada' you. Al-Baghawi places ʿIkrimah and ad-Dahhāk in this camp too.",
-            "bn": "প্রথম ব্যাখ্যা নাতি-নাতনি, অর্থাৎ সন্তানের সন্তান। ইবন কাসীর এটা বলেন ইবন আব্বাস, ইকরিমা, হাসান, দাহহাক আর ইবন যায়দের কথা হিসেবে। সাঈদ ইবন জুবায়র ইবন আব্বাস থেকে বর্ণনা করেন যে এর মানে 'নিজের সন্তান আর সন্তানের সন্তান'। দ্বিতীয় ব্যাখ্যা সেবক আর সাহায্যকারী। তাবারী নাম করেন মুজাহিদ, কাতাদা, আবু মালিক আর হাসান বসরীর, আর ইবন আব্বাসের এই কথা উদ্ধৃত করেন, মান আআনাকা ফাকাদ হাফাদাকা, যে তোমাকে সাহায্য করে সে তোমার 'হাফদ' করল। বাগাভী এই দলে ইকরিমা আর দাহহাককেও রাখেন।"
+            "bn": "প্রথম মত: নাতি-নাতনি, অর্থাৎ সন্তানের সন্তান। ইবন কাসীর এ মত উল্লেখ করেন ইবন আব্বাস, ইকরিমা, হাসান, দাহহাক আর ইবন যায়দ থেকে। সাঈদ ইবন জুবায়র ইবন আব্বাস থেকে বর্ণনা করেন, এর মানে নিজের সন্তান আর সন্তানের সন্তান। দ্বিতীয় মত: সেবক আর সাহায্যকারী। এ মতের লোক হিসেবে তাবারী মুজাহিদ, কাতাদা, আবু মালিক আর হাসান বসরীর নাম করেন, আর ইবন আব্বাসের এ কথা উদ্ধৃত করেন: মান আআনাকা ফাকাদ হাফাদাকা, যে তোমাকে সাহায্য করল, সে তোমার 'হাফদ' করল। বাগাভী ইকরিমা আর দাহহাককেও এ দলে রাখেন।"
           },
           {
             "en": "The third reading is sons-in-law, or in-laws more broadly. At-Tabari traces akhtān — a man's daughters' husbands — to Ibn Masʿūd, Abū ad-Duhā, Ibrāhīm an-Nakhaʿī and Saʿīd b. Jubayr, and records that when Zirr told Ibn Masʿūd ḥafadah meant grandchildren, Ibn Masʿūd corrected him: 'No, they are the in-laws.' The fourth, narrated by al-ʿAwfī from Ibn ʿAbbās and kept by al-Baghawi, is a wife's children from a former marriage — banū imraʾat ar-rajul, who are not the man's own. Four readings, four sets of names, and the commentators do not force a winner.",
-            "bn": "তৃতীয় ব্যাখ্যা জামাতা, বা ব্যাপকভাবে বৈবাহিক আত্মীয়। তাবারী আখতান, অর্থাৎ কোনো লোকের মেয়েদের স্বামীদের, সম্বন্ধ করেন ইবন মাসঊদ, আবু দুহা, ইবরাহীম নাখাঈ আর সাঈদ ইবন জুবায়রের সাথে। তিনি বর্ণনা করেন, যির যখন ইবন মাসঊদকে বললেন হাফাদা মানে নাতি-নাতনি, ইবন মাসঊদ শুধরে দিলেন, 'না, ওরা বৈবাহিক আত্মীয়।' চতুর্থ ব্যাখ্যা আঊফী ইবন আব্বাস থেকে বর্ণনা করেন আর বাগাভী ধরে রাখেন, স্ত্রীর আগের বিয়ের সন্তান, বানূ ইমরাআতির রাজুল, যারা ওই লোকের নিজের সন্তান নয়। চারটি ব্যাখ্যা, চারটি দল নাম, আর তাফসীরকারেরা জোর করে কোনো একজনকে জয়ী বানান না।"
+            "bn": "তৃতীয় মত: জামাই, কিংবা আরও ব্যাপক অর্থে বৈবাহিক আত্মীয়। আখতান, অর্থাৎ নিজের মেয়েদের স্বামী, এই অর্থটি তাবারী বর্ণনা করেন ইবন মাসঊদ, আবু দুহা, ইবরাহীম নাখাঈ আর সাঈদ ইবন জুবায়র থেকে। তিনি আরও বর্ণনা করেন, যির যখন ইবন মাসঊদকে বললেন হাফাদা মানে নাতি-নাতনি, ইবন মাসঊদ তাঁকে শুধরে দিলেন: 'না, ওরা বৈবাহিক আত্মীয়।' চতুর্থ মতটি আঊফী ইবন আব্বাস থেকে বর্ণনা করেছেন, আর বাগাভী তা রেখে দিয়েছেন: স্ত্রীর আগের ঘরের সন্তান, বানূ ইমরাআতির রাজুল, যারা লোকটির নিজের সন্তান নয়। চার মত, প্রতিটির পেছনে আলাদা আলাদা নাম, আর তাফসীরকারেরা জোর করে কোনো একটিকে জয়ী ঘোষণা করেন না।"
           }
         ]
       },
@@ -1585,11 +1585,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari's own verdict is that the readings need not compete. Ḥafadah, he explains, is the plural of ḥāfid — one who is quick and light in service; the root ḥafd means briskness, the same word Muslims say in the qunūt: wa ilayka nasʿā wa naḥfid, to You we hasten and we serve. A man is served in just this brisk way by his children, his grandchildren, his in-laws and his servants alike. Since nothing in the text or from the Prophet ﷺ restricts the word to one group, at-Tabari holds that every reported meaning stands and the favour is realised in all of them.",
-            "bn": "তাবারীর নিজের রায় হলো, ব্যাখ্যাগুলোকে পরস্পরের সাথে লড়তে হয় না। তিনি বলেন, হাফাদা হলো হাফিদ শব্দের বহুবচন, যে সেবায় দ্রুত আর হালকা। মূল ধাতু হাফদ মানে ক্ষিপ্রতা, ঠিক সেই শব্দ যা মুসলিমরা কুনূতে বলে, ওয়া ইলাইকা নাসআ ওয়া নাহফিদ, আপনার দিকেই আমরা ছুটে যাই আর সেবা করি। এভাবে চটপটে সেবা একজন মানুষ পায় তার সন্তান, নাতি-নাতনি, বৈবাহিক আত্মীয় আর সেবক সবার কাছ থেকেই। যেহেতু কুরআনের শব্দে বা নবী ﷺ-এর কথায় কোনো এক দলে শব্দটাকে সীমিত করার কিছু নেই, তাবারী মনে করেন বর্ণিত প্রতিটি অর্থই টেকে আর সবগুলোতেই নিয়ামত পূর্ণ হয়।"
+            "bn": "তাবারীর নিজের রায়: ব্যাখ্যাগুলোকে একটা আরেকটার বিপক্ষে দাঁড় করানোর দরকার নেই। তিনি বলেন, হাফাদা হলো হাফিদ শব্দের বহুবচন, অর্থাৎ যে খেদমতে চটপটে, তৎপর। মূল ধাতু হাফদ মানে তৎপরতা। মুসলমানরা কুনূতে এই শব্দটিই বলেন: ওয়া ইলাইকা নাসআ ওয়া নাহফিদ, আপনার দিকেই আমরা ছুটে যাই, আপনারই খেদমত করি। একজন মানুষ ঠিক এমন চটপটে সেবা পায় তার সন্তান, নাতি-নাতনি, বৈবাহিক আত্মীয় আর সেবক, সবার কাছ থেকেই। কুরআনের শব্দে বা নবী ﷺ-এর কোনো বাণীতে শব্দটিকে কোনো এক দলে সীমিত করা হয়নি। তাই তাবারীর মতে বর্ণিত প্রতিটি অর্থই টিকে থাকে, আর নিয়ামতটা সবগুলোর মধ্যেই পাওয়া যায়।"
           },
           {
             "en": "Others still reach for the plainest sense. Al-Qurtubi quotes al-Azharī that ḥafadah means grandchildren, and judges this 'the apparent, indeed the express, meaning of the Qurʾān,' since the verse makes both the sons and the ḥafadah come 'from your mates.' Ibn al-ʿArabī, cited by al-Qurtubi, prefers that banīn are a man's own sons and ḥafadah his sons' children, reading the verse as 'sons, and from the sons, grandchildren.' A disagreement this old is not a problem to be solved. It is the measure of how much one short word was made to carry.",
-            "bn": "তবু কেউ কেউ সবচেয়ে সরল অর্থের দিকেই হাত বাড়ান। কুরতুবী আযহারীর কথা উদ্ধৃত করেন যে হাফাদা মানে নাতি-নাতনি, আর একে বলেন 'কুরআনের প্রকাশ্য, বরং স্পষ্ট অর্থ', কারণ আয়াত পুত্র আর হাফাদা দুটোকেই 'তোমাদের সঙ্গীদের থেকে' বলছে। কুরতুবীর উদ্ধৃত ইবনুল আরাবী পছন্দ করেন যে বানীন হলো কোনো লোকের নিজের ছেলে আর হাফাদা তার ছেলেদের সন্তান, আয়াতটাকে পড়েন এভাবে, 'পুত্র, আর পুত্রদের থেকে নাতি-নাতনি'। এত পুরনো একটা মতভেদ সমাধান করার সমস্যা নয়। এটা বরং মাপকাঠি, একটা ছোট্ট শব্দকে কতটা বহন করানো হয়েছে তার।"
+            "bn": "অন্যরা অবশ্য সবচেয়ে সরল অর্থটাই বেছে নেন। কুরতুবী আযহারীর কথা উদ্ধৃত করেন যে হাফাদা মানে নাতি-নাতনি, আর একে বলেন 'কুরআনের প্রকাশ্য, বরং স্পষ্ট অর্থ', কারণ আয়াতে পুত্র আর হাফাদা দুটোই এসেছে 'তোমাদের সঙ্গীদের থেকে'। কুরতুবী ইবনুল আরাবীর মতও আনেন। তাঁর পছন্দ: বানীন হলো নিজের ছেলেরা, আর হাফাদা ছেলেদের সন্তান। আয়াতটা তিনি পড়েন এভাবে: 'পুত্র, আর পুত্রদের থেকে নাতি-নাতনি'। এত পুরোনো মতভেদকে সমাধান করার মতো সমস্যা ভাবার দরকার নেই। বরং এ থেকে বোঝা যায়, ছোট্ট একটা শব্দকে কত অর্থ বহন করতে হয়েছে।"
           }
         ]
       },
@@ -1601,11 +1601,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "There is a quiet detail in min azwājikum — from your mates. Children come from father and mother together, yet the verse ties their coming to the mothers. Maʿārif al-Qurʾān reads this as a pointer to how large the mother's share is: the father contributes a lifeless drop, while the womb is where that drop is carried through stage after stage into a living, shaped human being. This, it notes, is why the mother's right is placed ahead of the father's, and it grounds that ordering in the teaching of the Prophet ﷺ.",
-            "bn": "মিন আযওয়াজিকুম, তোমাদের সঙ্গীদের থেকে, এই কথায় একটা নিরিবিলি খেয়াল আছে। সন্তান আসে বাবা আর মা দুজন মিলে, তবু আয়াত তাদের আসাটাকে বাঁধে মায়ের সাথে। মাআরিফুল কুরআন একে পড়ে মায়ের ভাগ কত বড় তার ইঙ্গিত হিসেবে। বাবা দেন প্রাণহীন এক ফোঁটা, আর সেই ফোঁটাকে ধাপে ধাপে বহন করে জীবন্ত, গড়ে ওঠা এক মানুষে পরিণত করার জায়গা হলো মায়ের গর্ভ। এটা তুলে ধরে বলে, এ কারণেই মায়ের হক বাবার হকের আগে রাখা হয়েছে, আর এই ক্রমটা তারা নবী ﷺ-এর শিক্ষার উপর দাঁড় করায়।"
+            "bn": "মিন আযওয়াজিকুম, তোমাদের সঙ্গীদের থেকে, এই কথার ভেতর একটা সূক্ষ্ম ইঙ্গিত আছে। সন্তান আসে বাবা-মা দুজনের মিলনে, তবু আয়াতটি সন্তানের আসাকে জুড়ে দিয়েছে মায়ের সঙ্গে। মাআরিফুল কুরআনের মতে এতে বোঝা যায় মায়ের ভাগ কত বড়। বাবা দেন প্রাণহীন এক ফোঁটা। আর মায়ের গর্ভে সেই ফোঁটা ধাপে ধাপে বেড়ে ওঠে, শেষে হয় জীবন্ত, পূর্ণ গড়নের এক মানুষ। মাআরিফ বলে, এজন্যই মায়ের হক বাবার হকের আগে রাখা হয়েছে, আর এই ক্রমের ভিত্তি হিসেবে নবী ﷺ-এর শিক্ষার কথা বলে।"
           },
           {
             "en": "Maʿārif finds a second hint in naming grandchildren beside sons. The purpose of mates and children, it says, is the continuing of the human line: people have children, and their children have children, and so the species carries on. Al-Muyassar reads the clause the same way — sons from them, and from their offspring, grandchildren. The favour is not a single birth but a chain, each link a fresh mercy, stretching past the reach of any one lifetime.",
-            "bn": "পুত্রের পাশে নাতি-নাতনির নাম নেওয়ার মধ্যে মাআরিফ দ্বিতীয় একটা ইঙ্গিত পায়। সঙ্গী আর সন্তানের উদ্দেশ্য, সে বলে, মানুষের ধারা টিকিয়ে রাখা। মানুষের সন্তান হয়, তাদের সন্তানের আবার সন্তান হয়, এভাবেই প্রজাতিটা চলতে থাকে। মুয়াসসার অংশটা একইভাবে পড়ে, তাদের থেকে পুত্র আর তাদের বংশধর থেকে নাতি-নাতনি। এই নিয়ামত একটামাত্র জন্ম নয়, বরং একটা শিকল। প্রতিটি আংটা নতুন এক রহমত, যা কোনো এক জীবনের নাগাল ছাড়িয়ে বহুদূর পর্যন্ত পৌঁছায়।"
+            "bn": "পুত্রের পাশে নাতি-নাতনির নাম নেওয়ায় মাআরিফ আরেকটা ইঙ্গিত পায়। তার মতে, সঙ্গী আর সন্তানের উদ্দেশ্য মানুষের ধারা টিকিয়ে রাখা। মানুষের সন্তান হয়, সেই সন্তানেরও সন্তান হয়, এভাবেই মানবজাতি টিকে থাকে। মুয়াসসারও অংশটা একইভাবে পড়ে: তাদের থেকে পুত্র, আর তাদের বংশধর থেকে নাতি-নাতনি। নিয়ামতটা তাই একটিমাত্র জন্ম নয়, একটা শিকল। প্রতিটি কড়া নতুন এক রহমত, আর শিকলটা কোনো একজন মানুষের জীবনের সীমা ছাড়িয়ে বহুদূর চলে যায়।"
           }
         ]
       },
@@ -1617,7 +1617,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then wa-razaqakum min aṭ-ṭayyibāt — and provided you from the good things. Ibn Kathir glosses this simply as your food and your drink; at-Tabari adds that it means what is lawful of livelihood and sustenance. Al-Muyassar spells the table out: fruits, grains, meat and more. Coming right after spouse and children, the good things are not a separate topic but the same household seen from the kitchen: the people are a gift, and so is what keeps them alive and makes their living pleasant.",
-            "bn": "তারপর ওয়া রাযাকাকুম মিনাত তাইয়িবাত, আর তোমাদের ভালো জিনিস থেকে রিযিক দিয়েছেন। ইবন কাসীর এর সহজ ব্যাখ্যা দেন, তোমাদের খাবার আর পানীয়। তাবারী যোগ করেন, এর মানে জীবিকা আর রিযিকের মধ্যে যা হালাল। মুয়াসসার খাবার টেবিলটা খুলে বলে দেয়, ফল, শস্য, গোশত আরও কত কী। স্ত্রী আর সন্তানের ঠিক পরেই আসায় এই ভালো জিনিসগুলো আলাদা কোনো প্রসঙ্গ নয়, বরং সেই একই সংসার রান্নাঘরের দিক থেকে দেখা। মানুষগুলো নিয়ামত, আর যা তাদের বাঁচিয়ে রাখে আর জীবনটাকে উপাদেয় করে, সেটাও নিয়ামত।"
+            "bn": "তারপর ওয়া রাযাকাকুম মিনাত তাইয়িবাত, আর তোমাদের ভালো ভালো জিনিস থেকে রিযিক দিয়েছেন। ইবন কাসীরের সহজ ব্যাখ্যা: তোমাদের খাবার আর পানীয়। তাবারী যোগ করেন, এর মানে জীবিকা আর রিযিকের মধ্যে যা হালাল। মুয়াসসার পুরো দস্তরখান সাজিয়ে দেখায়: ফলমূল, শস্য, গোশত, আরও কত কী। স্বামী-স্ত্রী আর সন্তানের ঠিক পরে আসায় এই ভালো জিনিসগুলো আলাদা কোনো প্রসঙ্গ নয়। একই সংসার, এবার রান্নাঘরের দিক থেকে দেখা। ঘরের মানুষগুলো নিয়ামত, আর যা তাদের বাঁচিয়ে রাখে, জীবনটাকে সুন্দর করে, সেটাও নিয়ামত।"
           },
           {
             "en": "The word ṭayyibāt carries both senses at once — wholesome and lawful. As-Sa'di stresses that these favours are beyond counting; a servant could not tally them if he tried. That is the setup for the rebuke to come. A person surrounded on every side by good he did not make, and could not make, is being quietly asked a question before the verse even asks it aloud: where did all of this come from, and to whom is the thanks owed?",
