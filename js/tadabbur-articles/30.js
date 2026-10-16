@@ -16,16 +16,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "A Date Set in Defeat",
-          "bn": "পরাজয়ের ভেতরে বাঁধা তারিখ"
+          "bn": "পরাজয়ের দিনেই বেঁধে দেওয়া তারিখ"
         },
         "p": [
           {
             "en": "The surah opens with a report that sounds like bad news. Ghulibat al-Rum: the Byzantines have been defeated, fi adna al-ard, in the nearest land. The Persians, a fire-worshipping power, had broken the Christian empire of Rome, and word of it reached Makkah while the Prophet (ﷺ) was still there. As as-Sa'di notes, Persia and Rome were then among the strongest states on earth, and this was no border skirmish but a crushing loss for the side the believers felt closest to.",
-            "bn": "সূরাটি শুরু হয় এমন এক খবর দিয়ে, যা শুনতে দুঃসংবাদের মতো। গুলিবাতির রূম: রোমানরা পরাজিত হয়েছে, ফী আদনাল আরদ, নিকটতম ভূমিতে। আগুন-পূজারি শক্তি পারস্য ভেঙে দিয়েছে খ্রিস্টান রোমান সাম্রাজ্যকে, আর এ খবর মক্কায় পৌঁছল তখন, যখন নবী ﷺ সেখানেই ছিলেন। সাদী বলেন, সে সময় পারস্য আর রোম ছিল পৃথিবীর সবচেয়ে শক্তিশালী রাষ্ট্রগুলোর অন্যতম। এটা কোনো সীমান্তের ছোট সংঘর্ষ ছিল না, ছিল সেই পক্ষের গুঁড়িয়ে যাওয়া পরাজয়, মুমিনরা যাদের নিজেদের কাছের মনে করত।"
+            "bn": "সূরাটি শুরু হয় এমন এক খবর দিয়ে, যা শুনলে দুঃসংবাদই মনে হয়। গুলিবাতির রূম: রোমানরা পরাজিত হয়েছে, ফী আদনাল আরদ, নিকটতম ভূমিতে। আগুনপূজারি পারস্য খ্রিস্টান রোমান সাম্রাজ্যকে ভেঙে দিয়েছিল, আর নবী ﷺ তখনো মক্কায়, এমন সময় খবরটা সেখানে এসে পৌঁছল। সাদী বলেন, পারস্য আর রোম তখন দুনিয়ার সবচেয়ে শক্তিশালী রাষ্ট্রগুলোর মধ্যে ছিল। কাজেই এটা সীমান্তের কোনো ছোটখাটো সংঘর্ষ ছিল না। মুমিনরা যে পক্ষকে নিজেদের কাছের মনে করত, তারাই শোচনীয়ভাবে হেরে গিয়েছিল।"
           },
           {
             "en": "The lines that follow turn the defeat around. Wa-hum min ba'di ghalabihim sayaghlibun: and they, after their defeat, will themselves overcome, fi bid'i sinin, within a few years. Verse three is the hinge of the whole passage; it holds both halves, the fall and the promised rise, in a single breath. The parties mattered. The Persians were idolaters like the Quraysh; the Romans were People of the Book, nearer to the believers in creed. as-Sa'di: the Muslims loved a Roman victory, the idolaters a Persian win.",
-            "bn": "এর পরের কথাগুলো পরাজয়কেই উল্টে দেয়। ওয়াহুম মিন বা'দি গালাবিহিম সাইয়াগলিবূন: আর তারা তাদের পরাজয়ের পর নিজেরাই জয়ী হবে, ফী বিদ'ই সিনীন, কয়েক বছরের মধ্যেই। ৩ নম্বর আয়াত গোটা অনুচ্ছেদের কব্জা। পতন আর প্রতিশ্রুত উত্থান, দুই অর্ধেক এক নিঃশ্বাসে ধরে রাখে এই আয়াত। পক্ষ দুটো কারা, তা জরুরি। পারসিকরা কুরাইশদের মতোই মূর্তিপূজারি, আর রোমানরা আহলে কিতাব, বিশ্বাসে মুমিনদের বেশি কাছের। সাদী বলেন, মুসলিমরা চাইত রোমের জয়, আর মুশরিকরা চাইত পারস্যের।"
+            "bn": "এর পরের কথাগুলো পরাজয়ের ছবিটাই উল্টে দেয়। ওয়াহুম মিন বা'দি গালাবিহিম সাইয়াগলিবূন: আর তারা তাদের পরাজয়ের পর নিজেরাই জয়ী হবে, ফী বিদ'ই সিনীন, কয়েক বছরের মধ্যেই। পুরো অংশটা ঘোরে ৩ নম্বর আয়াতকে ঘিরে। পতন আর প্রতিশ্রুত উত্থান, দুটোই এই আয়াত এক নিঃশ্বাসে বলে দেয়। কোন পক্ষ কারা, সেটাও গুরুত্বপূর্ণ। পারসিকরা ছিল কুরাইশদের মতোই মূর্তিপূজারি, আর রোমানরা আহলে কিতাব, বিশ্বাসে মুমিনদের বেশি কাছের। সাদী বলেন, মুসলিমরা চাইত রোম জিতুক, আর মুশরিকরা চাইত পারস্য।"
           },
           {
             "en": "al-Baghawi records how the defeat was thrown in the believers' faces. The idolaters of Makkah told the Muslims: you are People of the Book and so are the Christians, we are unlettered like the Persians, our side has beaten your side, and if you fight us we will beat you too. It was a taunt built on an analogy, and the revelation answered it not by denying the loss but by naming what would come after it.",
@@ -41,35 +41,35 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Fi adna al-ard, in the nearest land. al-Qurtubi glosses adna plainly: its meaning is aqrab, nearest. But nearest to whom? at-Tabari reads the stretch from the land of Syria toward the land of Persia. The commentators then fix the spot differently. 'Ikrima places the battle at Adhri'at and Busra, which he calls the part of Syria closest to the lands of the Arabs, where the two armies met.",
-            "bn": "ফী আদনাল আরদ, নিকটতম ভূমিতে। কুরতুবী আদনা শব্দের সোজা অর্থ দেন: এর মানে আকরাব, নিকটতম। কিন্তু নিকটতম কার কাছে? তাবারী একে পড়েন শামের ভূমি থেকে পারস্যের ভূমি পর্যন্ত বিস্তৃত এলাকা হিসেবে। এরপর তাফসীরকারেরা জায়গাটা স্থির করেন ভিন্ন ভিন্নভাবে। ইকরিমা যুদ্ধটা রাখেন আযরিআত আর বুসরায়, যাকে তিনি বলেন আরব ভূমির সবচেয়ে কাছের শাম অঞ্চল, সেখানেই দুই বাহিনীর মুখোমুখি হওয়া।"
+            "bn": "ফী আদনাল আরদ, নিকটতম ভূমিতে। কুরতুবী আদনা শব্দের সোজা অর্থ বলেন: আকরাব, অর্থাৎ সবচেয়ে কাছের। কিন্তু কার সবচেয়ে কাছে? তাবারীর মতে, এ হলো শাম থেকে পারস্যের দিকে বিস্তৃত এলাকা। তবে জায়গাটা ঠিক কোথায়, তা নিয়ে তাফসীরকারদের মত ভিন্ন ভিন্ন। ইকরিমার মতে যুদ্ধ হয়েছিল আযরিআত আর বুসরায়। তিনি একে বলেন শামের সেই অংশ, যা আরবদের ভূমির সবচেয়ে কাছে। সেখানেই দুই বাহিনী মুখোমুখি হয়েছিল।"
           },
           {
             "en": "Others move the pin. Mujahid names al-Jazira, the region lying between Iraq and Syria. Muqatil puts it in Jordan and Palestine. Ibn 'Atiyya reconciles the reports by noticing that nearest shifts with the vantage point: if the clash was at Adhri'at it is the nearest land relative to Makkah; if in al-Jazira, nearest to the land of the Persian king; if in Jordan, nearest to the land of the Romans. One word, read from three cities, still fits.",
-            "bn": "অন্যরা কাঁটাটা সরিয়ে দেন। মুজাহিদ নাম নেন জাযীরার, ইরাক আর শামের মাঝের অঞ্চল। মুকাতিল রাখেন জর্ডান আর ফিলিস্তিনে। ইবন আতিয়্যা বর্ণনাগুলো মিলিয়ে দেন এই লক্ষ করে যে নিকটতম কথাটা দৃষ্টিকোণ অনুসারে সরে যায়। যুদ্ধ যদি আযরিআতে হয়, তবে তা মক্কার হিসাবে নিকটতম ভূমি; জাযীরায় হলে পারস্য-সম্রাটের ভূমির নিকটতম; জর্ডানে হলে রোমের ভূমির নিকটতম। একটি শব্দ, ৩ শহর থেকে পড়লেও, মিলে যায়।"
+            "bn": "অন্যরা জায়গাটা দেখান অন্যত্র। মুজাহিদ বলেন জাযীরার কথা, ইরাক আর শামের মাঝের অঞ্চল। মুকাতিলের মতে তা জর্ডান আর ফিলিস্তিনে। ইবন আতিয়্যা বর্ণনাগুলো মিলিয়ে দেন এভাবে: কোথা থেকে দেখা হচ্ছে, তার ওপর নির্ভর করে 'নিকটতম' কথাটার অর্থ বদলায়। যুদ্ধ আযরিআতে হলে তা মক্কার হিসাবে নিকটতম ভূমি; জাযীরায় হলে পারস্য-সম্রাটের ভূমির নিকটতম; জর্ডানে হলে রোমের ভূমির নিকটতম। তিন শহর থেকে দেখলেও একই শব্দ ঠিকঠাক খাপ খেয়ে যায়।"
           },
           {
             "en": "There is a further sense folded into adna. Its root carries both nearness and lowness, and the ground Muqatil names, the Jordan valley running down toward the Dead Sea, is the lowest land on the face of the earth. The commentators quoted here settle on nearest, yet the word itself leaves the other sense standing, and the geography sits comfortably with either reading. A single term holds both the measure of distance and the lie of the land.",
-            "bn": "আদনা শব্দের ভেতরে আরেকটি অর্থও ভাঁজ করা আছে। এর ধাতু বহন করে নিকটতা আর নিম্নতা, দুটোই। আর মুকাতিল যে ভূমির নাম নেন, জর্ডান উপত্যকা যা নেমে গেছে মৃত সাগরের দিকে, তা পৃথিবীর বুকে সবচেয়ে নিচু ভূমি। এখানে উদ্ধৃত তাফসীরকারেরা স্থির হন নিকটতম অর্থে, তবু শব্দটা নিজেই আরেক অর্থকে দাঁড় করিয়ে রাখে, আর ভূগোল দুই পাঠের সঙ্গেই স্বচ্ছন্দে বসে। একটি শব্দ ধরে রাখে দূরত্বের মাপ আর ভূমির ঢাল, দুটোই।"
+            "bn": "আদনা শব্দের ভেতরে আরেকটি অর্থও লুকিয়ে আছে। এর ধাতুতে কাছে থাকা আর নিচু হওয়া, দুই অর্থই আছে। আর মুকাতিল যে ভূমির কথা বলেন, মৃত সাগরের দিকে নেমে যাওয়া জর্ডান উপত্যকা, সেটাই পৃথিবীর সবচেয়ে নিচু ভূমি। এখানে উদ্ধৃত তাফসীরকারেরা 'নিকটতম' অর্থটাই গ্রহণ করেন। তবু শব্দটা নিজে অন্য অর্থটাও বাতিল করে না, আর ভূগোলও দুই অর্থের সঙ্গেই মিলে যায়। একটি শব্দেই ধরা আছে দূরত্বের মাপ আর জমির ঢাল, দুটোই।"
           }
         ]
       },
       {
         "h": {
           "en": "Two Readings, Two Prophecies",
-          "bn": "এক আয়াত, দুই পাঠ"
+          "bn": "দুই পাঠ, দুই ভবিষ্যদ্বাণী"
         },
         "p": [
           {
             "en": "The verse carries one of the most consequential variant readings in the Qur'an, and the commentators name it openly. The dominant reading is ghulibat al-Rum, passive, the Romans have been defeated, with a damma on the ghayn, paired with sayaghlibun in the active, they will overcome. Abu Ja'far an-Nahhas states flatly that this is the reading of most people. Ibn 'Atiyya calls the damma reading the more sound, and notes that people are agreed on sayaghlibun with a fatha, meaning the Romans.",
-            "bn": "কুরআনের সবচেয়ে গুরুত্বপূর্ণ কিরাআত-ভিন্নতাগুলোর একটি এই আয়াতে, আর তাফসীরকারেরা তা খোলাখুলি উল্লেখ করেন। প্রধান পাঠ হলো গুলিবাতির রূম, কর্মবাচ্য, রোমানরা পরাজিত হয়েছে, গাইন অক্ষরে পেশ দিয়ে, আর এর সঙ্গে কর্তৃবাচ্যে সাইয়াগলিবূন, তারা জয়ী হবে। আবু জাফর নাহহাস সোজাসুজি বলেন, এটাই অধিকাংশ মানুষের পাঠ। ইবন আতিয়্যা পেশের পাঠকে বলেন বেশি বিশুদ্ধ, আর জানান, সাইয়াগলিবূন শব্দে ইয়া অক্ষরে যবর দিয়ে রোমানদের বোঝানো নিয়ে সবাই একমত।"
+            "bn": "কুরআনের সবচেয়ে গুরুত্বপূর্ণ কিরাআত-ভিন্নতাগুলোর একটি আছে এই আয়াতে, আর তাফসীরকারেরা তা খোলাখুলিই বলেন। প্রধান পাঠ হলো গুলিবাতির রূম, গাইন অক্ষরে পেশ দিয়ে কর্মবাচ্যে: রোমানরা পরাজিত হয়েছে। এর সঙ্গে আছে কর্তৃবাচ্যে সাইয়াগলিবূন: তারা জয়ী হবে। আবু জাফর নাহহাস সোজাসুজি বলেন, অধিকাংশ মানুষ এভাবেই পড়েন। ইবন আতিয়্যা পেশের পাঠকেই বেশি সঠিক বলেন। তিনি আরও জানান, সাইয়াগলিবূন শব্দটি ইয়া অক্ষরে যবর দিয়ে পড়া এবং এর দ্বারা রোমানদের বোঝানো, এ নিয়ে সবাই একমত।"
           },
           {
             "en": "A minority read it the other way. al-Qurtubi reports that Abu Sa'id al-Khudri, 'Ali ibn Abi Talib and Mu'awiya ibn Qurra recited ghalabat al-Rum, active, the Romans have conquered, and that Ibn 'Umar read sayughlabun in the passive, they will be defeated. Read this way the prophecy turns inside out: the Romans have just won, and it is now the other side whose fall is foretold. Ibn 'Atiyya says this reading inverts the meaning that the mass of reports corroborate.",
-            "bn": "অল্প কিছু পাঠক পড়েন উল্টোভাবে। কুরতুবী বর্ণনা করেন, আবু সাঈদ খুদরী, আলী ইবন আবি তালিব আর মুআবিয়া ইবন কুররা পড়তেন গালাবাতির রূম, কর্তৃবাচ্য, রোমানরা জয়ী হয়েছে, আর ইবন উমর পড়তেন সাইয়ুগলাবূন কর্মবাচ্যে, তারা পরাজিত হবে। এভাবে পড়লে ভবিষ্যদ্বাণীটা ভেতর-বাহির উল্টে যায়। রোমানরা সবেমাত্র জিতেছে, আর এখন অন্য পক্ষের পতনই আগাম বলা হচ্ছে। ইবন আতিয়্যা বলেন, এই পাঠ সেই অর্থকে উল্টে দেয়, বর্ণনার বড় অংশ যা সমর্থন করে।"
+            "bn": "অল্প কিছু কারী পড়েছেন উল্টোভাবে। কুরতুবী জানান, আবু সাঈদ খুদরী, আলী ইবন আবি তালিব আর মুআবিয়া ইবন কুররা পড়তেন গালাবাতির রূম, কর্তৃবাচ্যে: রোমানরা জয়ী হয়েছে। আর ইবন উমর পড়তেন সাইয়ুগলাবূন, কর্মবাচ্যে: তারা পরাজিত হবে। এভাবে পড়লে ভবিষ্যদ্বাণীটা পুরোপুরি উল্টে যায়। রোমানরা সবেমাত্র জিতেছে, আর এবার আগাম বলা হচ্ছে অন্য পক্ষের পতনের কথা। ইবন আতিয়্যা বলেন, এই পাঠ অর্থটাকে উল্টে দেয়, অথচ অধিকাংশ বর্ণনা প্রথম অর্থটিকেই সমর্থন করে।"
           },
           {
             "en": "The grammar is what moves the referent. In the dominant reading the Romans are the object of the first verb, defeated, then the subject of the second, the ones who will overcome, so min ba'di ghalabihim means after their own defeat. an-Nahhas spells out the other path: whoever reads sayughlabun makes the sense and the Persians, after their victory, will be defeated. A single vowel decides who is beaten and who is beaten back. Both are transmitted; the first is what the chains overwhelmingly carry.",
-            "bn": "কাকে বোঝানো হচ্ছে, সেটা সরিয়ে দেয় ব্যাকরণই। প্রধান পাঠে রোমানরা প্রথম ক্রিয়ার কর্ম, পরাজিত, আর দ্বিতীয় ক্রিয়ার কর্তা, যারা জয়ী হবে। তাই মিন বা'দি গালাবিহিম মানে তাদের নিজেদের পরাজয়ের পর। নাহহাস খুলে দেন অন্য পথটা: যে সাইয়ুগলাবূন পড়ে, তার কাছে অর্থ দাঁড়ায় আর পারসিকরা তাদের জয়ের পর পরাজিত হবে। একটিমাত্র স্বরচিহ্ন ঠিক করে দেয় কে হারল আর কে পাল্টা হারাল। দুটো পাঠই বর্ণিত, তবে সনদের বড় ভার প্রথমটির দিকেই।"
+            "bn": "কার কথা বলা হচ্ছে, তা ঠিক করে দেয় ব্যাকরণ। প্রধান পাঠে রোমানরা প্রথম ক্রিয়ার কর্ম, অর্থাৎ পরাজিত, আর দ্বিতীয় ক্রিয়ার কর্তা, অর্থাৎ যারা জয়ী হবে। তাই মিন বা'দি গালাবিহিম মানে নিজেদের পরাজয়ের পর। নাহহাস অন্য পথটাও খুলে বলেন: যে সাইয়ুগলাবূন পড়ে, তার পাঠে অর্থ দাঁড়ায়, আর পারসিকরা তাদের জয়ের পর পরাজিত হবে। একটিমাত্র স্বরচিহ্নই ঠিক করে দেয়, কে হারল আর কে পাল্টা মার খেল। দুটো পাঠই বর্ণিত, তবে সনদের বেশির ভাগই প্রথমটির পক্ষে।"
           }
         ]
       },
@@ -85,11 +85,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Some Quraysh challenged him to a bet, before betting was forbidden, and the narration runs: \"They said to Abu Bakr: Bid' means between three and nine years, so let us agree on the middle. So they agreed on six years. Then six years passed without the Romans being victorious, and the idolaters took what they won in the bet from Abu Bakr. When the seventh year came and the Romans finally beat the Persians, the Muslims rebuked Abu Bakr for agreeing to six years. He said: Because Allah said: In Bid' years. At that time, many people became Muslims.\" at-Tirmidhi graded it sahih hasan gharib.",
-            "bn": "কিছু কুরাইশ তাঁকে বাজির চ্যালেঞ্জ দিল, আর এটা ছিল বাজি নিষিদ্ধ হওয়ার আগের ঘটনা। বর্ণনাটি এমন: \"তারা আবু বকরকে বলল: বিদ' মানে ৩ থেকে ৯ বছরের মাঝামাঝি কিছু, তাই চলো মাঝের একটা স্থির করি। তারা স্থির করল ৬ বছর। এরপর ৬ বছর কেটে গেল, রোমানরা জয়ী হলো না, আর মুশরিকরা আবু বকরের কাছ থেকে বাজির মাল নিয়ে নিল। সপ্তম বছর যখন এল, রোমানরা শেষমেশ পারস্যের ওপর জয়ী হলো। মুসলিমরা আবু বকরকে ছয় বছর ঠিক করার জন্য দোষারোপ করল। তিনি বললেন: কারণ আল্লাহ বলেছেন বিদ' বছরের মধ্যে। তখন বহু মানুষ ইসলাম গ্রহণ করল।\" তিরমিযী একে সহীহ হাসান গরীব বলেছেন।"
+            "bn": "কিছু কুরাইশ তাঁকে বাজি ধরার চ্যালেঞ্জ দিল। এটা বাজি নিষিদ্ধ হওয়ার আগের ঘটনা। বর্ণনাটি এমন: \"তারা আবু বকরকে বলল: বিদ' মানে ৩ থেকে ৯ বছর, চলো মাঝামাঝি একটা মেয়াদ ঠিক করি। তারা ৬ বছর ঠিক করল। এরপর ৬ বছর কেটে গেল, রোমানরা জিতল না, আর মুশরিকরা বাজিতে জেতা মাল আবু বকরের কাছ থেকে নিয়ে নিল। সপ্তম বছরে রোমানরা শেষমেশ পারস্যকে হারাল। তখন মুসলিমরা ছয় বছর ঠিক করার জন্য আবু বকরকে দোষ দিল। তিনি বললেন: কারণ আল্লাহ বলেছেন, বিদ' বছরের মধ্যে। তখন বহু মানুষ ইসলাম গ্রহণ করল।\" তিরমিযী একে সহীহ হাসান গরীব বলেছেন।"
           },
           {
             "en": "Two things in the report deserve care. The bet was a form of gambling, and the narration itself marks it as before betting was forbidden; once it was prohibited in Madinah this was no longer open to anyone, and the commentators note the Prophet (ﷺ) later told Abu Bakr to give such winnings away in charity. And the lesson Abu Bakr drew was precise: he had fixed six years, but the word was bid', which the scholars gloss as between three and nine, the Qur'an's own margin and not his.",
-            "bn": "বর্ণনার দুটি জিনিস সতর্কতা চায়। বাজিটা ছিল জুয়ার একটা রূপ, আর বর্ণনা নিজেই একে চিহ্নিত করে বাজি নিষিদ্ধ হওয়ার আগের বলে। মদিনায় তা হারাম হয়ে যাওয়ার পর এ পথ আর কারও জন্য খোলা থাকেনি, আর তাফসীরকারেরা বলেন, নবী ﷺ পরে আবু বকরকে এমন জেতা মাল সদকা করে দিতে বলেছিলেন। আর আবু বকর যে শিক্ষা নিলেন তা ছিল সূক্ষ্ম: তিনি ৬ বছর বেঁধেছিলেন, কিন্তু শব্দটা ছিল বিদ', যাকে আলেমরা অর্থ করেন ৩ থেকে ৯, কুরআনের নিজের দেওয়া ব্যবধান, তাঁর নয়।"
+            "bn": "বর্ণনাটির দুটি দিক খেয়াল রাখার মতো। প্রথমত, বাজিটা ছিল জুয়ারই একটা রূপ, আর বর্ণনা নিজেই জানিয়ে দেয় যে এটা বাজি নিষিদ্ধ হওয়ার আগের ঘটনা। মদিনায় তা হারাম হওয়ার পর এ পথ আর কারও জন্য খোলা থাকেনি। তাফসীরকারেরা বলেন, নবী ﷺ পরে আবু বকরকে এমন জেতা মাল সদকা করে দিতে বলেছিলেন। দ্বিতীয়ত, আবু বকর যে শিক্ষা নিলেন তা খুব নির্দিষ্ট। তিনি বেঁধেছিলেন ৬ বছর, কিন্তু কুরআনের শব্দ ছিল বিদ', আলেমরা যার অর্থ করেন ৩ থেকে ৯। এই সীমা কুরআনেরই দেওয়া, তাঁর নিজের নয়।"
           }
         ]
       },
@@ -101,11 +101,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Ma'arif al-Qur'an draws out how unlikely the prediction was when it was made. The Persians had so thoroughly broken the Roman Empire that, in the ordinary world of cause and effect, no observer could have foreseen a reversal. It quotes Edward Gibbon, the historian of Rome, who wrote that at the time the prophecy was delivered no prophecy could be more distant from its accomplishment, since the early years of Heraclius announced the empire's approaching dissolution.",
-            "bn": "ভবিষ্যদ্বাণীটা যখন করা হয়, তখন তা কতটা অসম্ভব ছিল, মাআরিফুল কুরআন তা খুলে দেখায়। পারস্য রোমান সাম্রাজ্যকে এমনভাবে ভেঙে দিয়েছিল যে কার্যকারণের স্বাভাবিক জগতে কোনো পর্যবেক্ষকই উল্টো ফলাফলের কথা ভাবতে পারত না। তাফসীরটি রোমের ঐতিহাসিক এডওয়ার্ড গিবনকে উদ্ধৃত করে, যিনি লিখেছেন, ভবিষ্যদ্বাণীটি যখন দেওয়া হয়, কোনো ভবিষ্যদ্বাণী এর বাস্তবায়ন থেকে এত দূরে থাকতে পারত না, কারণ হিরাক্লিয়াসের প্রথম বছরগুলো সাম্রাজ্যের আসন্ন ধ্বংসেরই আভাস দিচ্ছিল।"
+            "bn": "ভবিষ্যদ্বাণীটা যখন করা হয়, তখন তা কতটা অবিশ্বাস্য ছিল, মাআরিফুল কুরআন তা খুলে দেখায়। পারস্য রোমান সাম্রাজ্যকে এমনভাবে ভেঙে দিয়েছিল যে স্বাভাবিক কার্যকারণের হিসাবে কোনো পর্যবেক্ষকই উল্টো ফলের কথা ভাবতে পারত না। তাফসীরটি রোমের ইতিহাসবিদ এডওয়ার্ড গিবনের কথা উদ্ধৃত করে। গিবন লিখেছেন, ভবিষ্যদ্বাণীটি যখন দেওয়া হয়, তখন বাস্তবায়ন থেকে এর চেয়ে দূরের কোনো ভবিষ্যদ্বাণী হতে পারত না। কারণ হিরাক্লিয়াসের শাসনের প্রথম বছরগুলো সাম্রাজ্যের আসন্ন বিলুপ্তিরই ইঙ্গিত দিচ্ছিল।"
           },
           {
             "en": "That is precisely why the commentators treat the verse as a proof. Ma'arif notes that for a claimant to prophethood to stake his standing on so improbable an event, and be vindicated, is among the solid signs of his truthfulness. an-Nahhas adds a second reason the believers rejoiced: not only that a kindred people won, but that Allah's promise was kept to the year, and the fulfilment itself was the evidence that the one who spoke it spoke from God.",
-            "bn": "ঠিক এ কারণেই তাফসীরকারেরা আয়াতটিকে এক প্রমাণ হিসেবে দেখেন। মাআরিফুল কুরআন বলে, নবুয়তের দাবিদার যদি এমন অসম্ভব এক ঘটনার ওপর নিজের মর্যাদা বাজি রাখেন আর তা সত্য হয়ে ওঠে, তবে তা তাঁর সত্যবাদিতার শক্ত আলামতগুলোর একটি। নাহহাস মুমিনদের খুশির দ্বিতীয় একটি কারণ যোগ করেন: শুধু যে এক কাছের জাতি জিতল তা নয়, বরং আল্লাহর ওয়াদা বছর ধরে রক্ষিত হলো, আর এই রক্ষিত হওয়াই ছিল প্রমাণ যে যিনি কথাটা বলেছেন তিনি আল্লাহর পক্ষ থেকেই বলেছেন।"
+            "bn": "ঠিক এ কারণেই তাফসীরকারেরা আয়াতটিকে প্রমাণ হিসেবে দেখেন। মাআরিফুল কুরআন বলে, নবুয়তের কোনো দাবিদার যদি এমন অসম্ভব ঘটনার ওপর নিজের মর্যাদা বাজি রাখেন, আর পরে তা সত্য প্রমাণিত হয়, তবে সেটা তাঁর সত্যবাদিতার মজবুত আলামতগুলোর একটি। নাহহাস মুমিনদের খুশির আরেকটি কারণ যোগ করেন। শুধু যে কাছের এক জাতি জিতল তা নয়, আল্লাহর ওয়াদা বছরের হিসাবেও ঠিক ঠিক পূরণ হলো। আর ওয়াদা পূরণ হওয়াটাই ছিল প্রমাণ যে যিনি কথাটা বলেছেন, তিনি আল্লাহর পক্ষ থেকেই বলেছেন।"
           }
         ]
       },
@@ -121,19 +121,19 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "But al-Qurtubi records that the victory, when it came, fell on the very day of a Muslim deliverance, some say Badr and others al-Hudaybiya, so the believers' joy was layered: at a kindred people's triumph, at their own, and at the plain keeping of Allah's word. The Muyassar adds a sober note, that the Romans were People of the Book even though they had altered it, so the preference was relative, never an endorsement of their creed.",
-            "bn": "তবে কুরতুবী লেখেন, বিজয়টা যখন এল, তা এল ঠিক এক মুসলিম মুক্তির দিনেই, কেউ বলেন বদর আর কেউ বলেন হুদায়বিয়া। তাই মুমিনদের খুশি ছিল স্তরে স্তরে সাজানো: এক কাছের জাতির জয়ে, নিজেদের জয়ে, আর আল্লাহর কথার সোজাসুজি রক্ষিত হওয়ায়। মুয়াসসার একটি শান্ত কথা যোগ করে, রোমানরা আহলে কিতাব ছিল ঠিকই, যদিও তারা কিতাবকে বিকৃত করেছিল। তাই এই পছন্দ ছিল আপেক্ষিক, তাদের ধর্মের কোনো সমর্থন নয়।"
+            "bn": "তবে কুরতুবী লেখেন, বিজয়টা এসেছিল ঠিক সেই দিনে, যেদিন মুসলিমরাও এক বিপদ থেকে মুক্তি পায়। কেউ বলেন সেটা বদরের দিন, কেউ বলেন হুদায়বিয়ার। তাই মুমিনদের খুশি ছিল কয়েক স্তরের: কাছের এক জাতির জয়ে, নিজেদের জয়ে, আর আল্লাহর কথা স্পষ্টভাবে সত্য হতে দেখে। মুয়াসসার একটি সংযত কথা যোগ করে: রোমানরা আহলে কিতাব ছিল ঠিকই, কিন্তু তারা কিতাবকে বিকৃত করেছিল। তাই এই পছন্দ ছিল তুলনামূলক, তাদের ধর্মের প্রতি কোনো সমর্থন নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "What This Verse Does Not Endorse",
-          "bn": "এ আয়াত যার সমর্থন নয়"
+          "bn": "এ আয়াত যা সমর্থন করে না"
         },
         "p": [
           {
             "en": "This needs saying plainly, in both languages. The verse reports a war between two seventh-century empires and foretells its turn; it licenses nothing against Persians, Iranians or any living people, and it is no verdict on them as a nation. The believers' preference for Rome was narrow and specific, a nearness in two beliefs, the Resurrection and revealed scripture, and even that, the Muyassar reminds us, sat beside the Qur'an's own charge that they had distorted the Book they carried.",
-            "bn": "কথাটা দুই ভাষাতেই সোজাসুজি বলা দরকার। আয়াতটি সপ্তম শতকের দুই সাম্রাজ্যের যুদ্ধের খবর দেয় আর তার মোড় ঘোরার কথা আগাম বলে। এটি পারসিক, ইরানি বা জীবিত কোনো জনগোষ্ঠীর বিরুদ্ধে কিছুরই অনুমতি দেয় না, আর জাতি হিসেবে তাদের নিয়ে কোনো রায়ও নয়। রোমের প্রতি মুমিনদের পছন্দ ছিল সংকীর্ণ ও নির্দিষ্ট, দুটি বিশ্বাসে নৈকট্য, পুনরুত্থান আর নাজিল হওয়া কিতাব। আর সেটুকুও, মুয়াসসার মনে করিয়ে দেয়, পাশেই ছিল কুরআনের এই অভিযোগ যে তারা বহন করা কিতাবকে বিকৃত করেছিল।"
+            "bn": "কথাটা দুই ভাষাতেই সোজাসুজি বলা দরকার। আয়াতটি সপ্তম শতকের দুই সাম্রাজ্যের যুদ্ধের খবর দেয় আর তার মোড় ঘোরার কথা আগাম জানায়। পারসিক, ইরানি বা আজকের কোনো জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই অনুমতি দেয় না, জাতি হিসেবে তাদের ওপর কোনো রায়ও দেয় না। রোমের প্রতি মুমিনদের পছন্দ ছিল সীমিত ও নির্দিষ্ট: দুটি বিশ্বাসে কাছাকাছি থাকা, পুনরুত্থানে আর আসমানি কিতাবে। মুয়াসসার মনে করিয়ে দেয়, সেটুকু নৈকট্যের পাশেও ছিল কুরআনের এই অভিযোগ যে তারা নিজেদের কাছে থাকা কিতাবকে বিকৃত করেছিল।"
           },
           {
             "en": "Nor does the passage make worldly victory itself a mark of who is right. The command, the verse's own frame insists, belongs to Allah before the defeat and after it; empires rise and fall by His leave, not by their merit. What the believers were given was not a banner to wave over an army but a word to trust, a dated promise, spoken when the evidence pointed the other way.",
@@ -149,11 +149,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "For the reader the verse is a lesson in where certainty comes from. The believers in Makkah were handed news that the visible world flatly denied, and told to count on it. They did not pretend the defeat had not happened; they held, through years in which the bet looked lost, to a single line of revelation, and the seventh year proved them right, and many entered Islam at the sight of it.",
-            "bn": "পাঠকের জন্য আয়াতটি এক শিক্ষা, নিশ্চয়তা কোথা থেকে আসে। মক্কার মুমিনদের হাতে তুলে দেওয়া হলো এমন এক খবর, চোখের সামনের জগৎ যাকে সরাসরি অস্বীকার করছিল, আর বলা হলো তার ওপর ভরসা করতে। তারা ভান করেনি যে পরাজয়টা ঘটেনি। যে বছরগুলোতে বাজি হেরে যাওয়া বলেই মনে হচ্ছিল, সেগুলোর ভেতর দিয়েও তারা আঁকড়ে ধরল ওহির একটিমাত্র লাইন। সপ্তম বছর তাদের সঠিক প্রমাণ করল, আর তা দেখে বহু মানুষ ইসলামে প্রবেশ করল।"
+            "bn": "নিশ্চয়তা আসলে কোথা থেকে আসে, পাঠককে এ আয়াত সেটাই শেখায়। মক্কার মুমিনদের এমন এক খবর দেওয়া হলো, চোখের সামনের দুনিয়া যাকে সরাসরি মিথ্যা বলছিল, আর বলা হলো এর ওপর ভরসা রাখতে। তারা ভান করেনি যে পরাজয় ঘটেনি। কিন্তু যে বছরগুলোতে মনে হচ্ছিল বাজিতে হার নিশ্চিত, সেই বছরগুলো জুড়েও তারা ওহির একটিমাত্র বাক্য আঁকড়ে ছিল। সপ্তম বছর প্রমাণ করল তারাই ঠিক, আর তা দেখে বহু মানুষ ইসলাম গ্রহণ করল।"
           },
           {
             "en": "The question the verse leaves is simple and sharp. When the headlines run against everything you were promised, which do you weigh more, what today reports or what your Lord has said will be? The defeat was real; so was the word that outlasted it. To live by the second without denying the first is the faith this passage asks of its reader.",
-            "bn": "আয়াত যে প্রশ্নটা রেখে যায় তা সরল আর ধারালো। চারপাশের খবর যখন আপনার সব প্রতিশ্রুতির উল্টো চলে, তখন আপনি কোনটাকে বেশি ওজন দেন, আজ যা খবর দিচ্ছে তাকে, নাকি রব যা হবে বলে দিয়েছেন তাকে? পরাজয়টা সত্য ছিল, আর যে কথা তার চেয়ে বেশি দিন টিকে রইল সেটাও সত্য। প্রথমটাকে অস্বীকার না করে দ্বিতীয়টার ওপর ভর করে বাঁচা, এটাই সেই ঈমান, এই অনুচ্ছেদ তার পাঠকের কাছে যা চায়।"
+            "bn": "আয়াতটা যে প্রশ্ন রেখে যায়, তা সহজ, কিন্তু ধারালো। আপনাকে যা ওয়াদা করা হয়েছে, চারপাশের খবর যখন তার একেবারে উল্টো কথা বলে, তখন কোনটাকে বেশি ভারী মনে করেন? আজকের খবরকে, নাকি আপনার রব যা হবে বলে জানিয়েছেন তাকে? পরাজয়টা সত্যিই ঘটেছিল। যে কথা সেই পরাজয়কে ছাপিয়ে টিকে রইল, সেটাও সত্য। প্রথমটাকে অস্বীকার না করে দ্বিতীয়টার ওপর ভর দিয়ে বাঁচা, এই অনুচ্ছেদ পাঠকের কাছে এই ঈমানটাই চায়।"
           }
         ]
       }
@@ -169,7 +169,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse opens with a challenge, not a description. Awalam yasīrū fī al-arḍ — have they not travelled through the earth? At-Tabari reads the ones addressed as the Quraysh who denied Allah and forgot the Hereafter, the very men who crossed those lands as traders. Ma'arif al-Qur'an sharpens the point: Makka itself had little farming, little industry and no grand buildings, yet its merchants rode to Syria and Yemen for commerce. The question is almost a taunt. You already make the journey; you have simply never looked at what you pass.",
-            "bn": "আয়াত শুরু হয় চ্যালেঞ্জ দিয়ে, বর্ণনা দিয়ে নয়। আওয়ালাম ইয়াসীরূ ফিল আরদ — তারা কি পৃথিবীতে ভ্রমণ করে না? তাবারী বলেন, এ কথা বলা হচ্ছে সেই কুরাইশদের, যারা আল্লাহকে অস্বীকার করেছে আর আখিরাত ভুলে বসেছে, অথচ ব্যবসার খাতিরে এরাই ওই দেশগুলো পাড়ি দেয়। মাআরিফুল কুরআন কথাটা আরও ধারালো করে। মক্কায় তেমন চাষবাস, শিল্প বা বড় ইমারত ছিল না, তবু সেখানকার বণিকরা সিরিয়া ও ইয়েমেনে বাণিজ্যে যেত। প্রশ্নটা যেন খোঁচা দিয়ে বলা। সফর তো তুমি করোই, কেবল পথের পাশে যা পড়ে থাকে তাতে কখনো চোখ মেলোনি।"
+            "bn": "আয়াত শুরু হয় চ্যালেঞ্জ দিয়ে, বর্ণনা দিয়ে নয়। আওয়ালাম ইয়াসীরূ ফিল আরদ — তারা কি পৃথিবীতে ভ্রমণ করে না? তাবারী বলেন, এখানে কথা বলা হচ্ছে সেই কুরাইশদের, যারা আল্লাহকে অস্বীকার করেছে আর আখিরাত ভুলে বসেছে। অথচ ব্যবসার কাজে এরাই ওই দেশগুলো পাড়ি দিত। মাআরিফুল কুরআন কথাটা আরও ধারালো করে। মক্কায় চাষবাস ছিল সামান্য, শিল্পও সামান্য, বড় কোনো ইমারতও ছিল না, তবু সেখানকার বণিকরা ব্যবসার জন্য সিরিয়া আর ইয়েমেনে যেত। প্রশ্নটা প্রায় খোঁচার মতো: সফর তো তোমরা করোই, শুধু পথে যা পড়ে, সেদিকে কখনো ভালো করে তাকাওনি।"
           },
           {
             "en": "And the looking that is asked for is not the traveller's idle glance. Al-Qurtubi says they are to look with their insight and their hearts, fa-yanẓurū bi-baṣā'irihim wa-qulūbihim, and not merely with their eyes. Ibn Kathir widens it further. To travel with one's understanding and intellect, and to hear the reports of those long gone, is itself a kind of journey. A man can cross a continent and see nothing, and another can sit still and read the past until it warns him. The verse is looking for the second traveller, the one who reads what he sees.",
@@ -180,7 +180,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Reading an Ending",
-          "bn": "পরিণতি পড়া"
+          "bn": "পরিণতির পাঠ"
         },
         "p": [
           {
@@ -189,7 +189,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The pairing is deliberate, and the verses just after it prove so: Allah begins creation, then repeats it, then to Him you are returned (30:11). But this verse does not argue from creation's start. Its lesson is historical and moral. As-Sa'di calls the fate of the ruined nations a hastened recompense, a sample and a first instalment of the reckoning of the Hereafter. To read an ending rightly is to see, in a dead city, the outline of a Day that has not yet come. The ruins are not only old news; they are a preview.",
-            "bn": "এই জোড় মিলিয়ে দেওয়া ইচ্ছাকৃত, আর ঠিক পরের আয়াতগুলোই তা প্রমাণ করে: আল্লাহ সৃষ্টির সূচনা করেন, এরপর তার পুনরাবৃত্তি করেন, এরপর তাঁর দিকেই তোমাদের ফিরিয়ে আনা হবে (৩০:১১)। কিন্তু এই আয়াত সৃষ্টির সূচনা থেকে যুক্তি টানে না। এর শিক্ষা ইতিহাস ও নৈতিকতার। সাদী ধ্বংসপ্রাপ্ত জাতিদের পরিণতিকে বলেন আগাম এক প্রতিফল, আখিরাতের হিসাবের একটা নমুনা ও প্রথম কিস্তি। পরিণতি ঠিকভাবে পড়া মানে এক মৃত শহরের ভেতরে এমন এক দিনের রেখা দেখতে পাওয়া যা এখনো আসেনি। ধ্বংসস্তূপ কেবল পুরনো খবর নয়, তা আগাম এক ঝলক।"
+            "bn": "দুটো দৃষ্টিকে পাশাপাশি রাখা হয়েছে ইচ্ছা করেই, আর ঠিক পরের আয়াতগুলোই তার প্রমাণ: আল্লাহ সৃষ্টির সূচনা করেন, তারপর আবার তা সৃষ্টি করেন, তারপর তাঁর কাছেই তোমাদের ফিরিয়ে নেওয়া হবে (৩০:১১)। কিন্তু এই আয়াত সৃষ্টির সূচনা থেকে যুক্তি দেয় না। এর শিক্ষা ইতিহাসের, নৈতিকতার। সাদী ধ্বংস হয়ে যাওয়া জাতিদের পরিণতিকে বলেন দুনিয়াতেই আগাম দেওয়া প্রতিফল, আখিরাতের হিসাবের একটা নমুনা আর প্রথম কিস্তি। পরিণতি ঠিকভাবে পড়তে জানলে মৃত এক শহরের ভেতরেই দেখা যায় সেই দিনের আভাস, যা এখনো আসেনি। ধ্বংসস্তূপ কেবল পুরনো খবর নয়, আগামীর এক ঝলকও।"
           }
         ]
       },
@@ -205,27 +205,27 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "And still those betters are gone. Ibn Kathir's abridged commentary keeps the sting: they stayed in this world longer than you will, were more advanced and more prosperous than you, and it bought them nothing. Al-Muyassar names the classic examples, ʿĀd and Thamūd, peoples stronger in body and better able to enjoy their lives. The verse lets the ruin answer the boast. Superior strength is not a defence against consequence. It is only a louder witness when the fall finally comes, a bigger name on a longer list of the vanished.",
-            "bn": "তবু সেই বড়রা আজ নিশ্চিহ্ন। ইবন কাসীরের সংক্ষিপ্ত তাফসীর খোঁচাটা ধরে রাখে: তারা তোমাদের চেয়ে বেশিদিন দুনিয়ায় ছিল, তোমাদের চেয়ে বেশি উন্নত আর সমৃদ্ধ ছিল, অথচ তাতে কিছুই কাজে আসেনি। মুয়াসসার চিরচেনা উদাহরণ দুটো নাম ধরে বলে, আদ আর সামূদ, যারা শরীরে বেশি বলবান ছিল আর জীবনকে ভোগ করার সামর্থ্যেও এগিয়ে ছিল। আয়াত ধ্বংসকেই গর্বের জবাব দিতে দেয়। বেশি শক্তি পরিণামের বিরুদ্ধে ঢাল নয়। পতন যখন শেষমেশ আসে তখন তা কেবল আরও জোরালো সাক্ষী, নিশ্চিহ্নদের লম্বা তালিকায় আরও বড় একটা নাম।"
+            "bn": "তবু সেই বড়রা আজ নিশ্চিহ্ন। ইবন কাসীরের সংক্ষিপ্ত তাফসীরেও খোঁচাটা রয়ে গেছে: তারা তোমাদের চেয়ে বেশিদিন দুনিয়ায় ছিল, তোমাদের চেয়ে বেশি উন্নত আর সচ্ছল ছিল, অথচ কিছুই তাদের কাজে আসেনি। মুয়াসসার চিরচেনা দুটি উদাহরণের নাম বলে, আদ আর সামূদ। তারা শরীরে ছিল বেশি বলবান, জীবন উপভোগের সামর্থ্যেও এগিয়ে। গর্বের জবাব আয়াত দেয় ধ্বংসস্তূপ দিয়েই। বেশি শক্তি পরিণাম থেকে বাঁচার ঢাল নয়। পতন যখন আসে, তখন সেই শক্তি কেবল আরও জোরালো সাক্ষী হয়ে দাঁড়ায়, হারিয়ে যাওয়াদের লম্বা তালিকায় আরও বড় একটা নাম।"
           }
         ]
       },
       {
         "h": {
           "en": "Plough or Pickaxe",
-          "bn": "লাঙল না কোদাল"
+          "bn": "লাঙল, না গাঁইতি"
         },
         "p": [
           {
             "en": "At the centre of the verse sits a disputed phrase: wa-athārū al-arḍ. One reading makes it agriculture. Mujāhid, cited by at-Tabari, glosses it simply as ḥarathūhā, they ploughed it. Al-Qurtubi and al-Baghawi agree: they turned the soil over for cultivation, and both add a detail that makes the image bite — the people of Makka were not farmers at all. Al-Muyassar keeps this line too: those nations ploughed the land and sowed it. On this reading the earlier peoples were masters of a soil the Makkans barely scratched.",
-            "bn": "আয়াতের ঠিক মাঝখানে বসে আছে এক বিতর্কিত শব্দগুচ্ছ: ওয়া আছারুল আরদ। এক পাঠে এটা কৃষিকাজ। মুজাহিদ, তাবারীর বরাতে, একে সোজা অর্থে বলেন হারাছূহা, তারা জমি চষেছে। কুরতুবী আর বাগাভী একমত: তারা চাষের জন্য মাটি উল্টে দিয়েছে। দুজনেই এমন একটা কথা জুড়ে দেন যা ছবিটাকে তীক্ষ্ণ করে, মক্কার লোকেরা তো চাষীই ছিল না। মুয়াসসারও এই সুরেই বলে, ওই জাতিরা জমি চষেছে আর ফসল বুনেছে। এই পাঠে আগের জাতিরা সেই ভূমির মালিক, যা মক্কাবাসী সবে আঁচড় কাটত।"
+            "bn": "আয়াতের ঠিক মাঝখানে আছে একটি বিতর্কিত শব্দগুচ্ছ: ওয়া আছারুল আরদ। এক ব্যাখ্যায় এটা কৃষিকাজ। তাবারী মুজাহিদের সূত্রে এর সোজা অর্থ আনেন হারাছূহা, তারা জমি চষেছে। কুরতুবী আর বাগাভীও একমত: চাষের জন্য তারা মাটি উল্টে দিয়েছে। দুজনেই এমন একটা কথা যোগ করেন, যাতে ছবিটা আরও গায়ে লাগে: মক্কার লোকেরা তো চাষীই ছিল না। মুয়াসসারও এই ব্যাখ্যা রেখেছে: ওই জাতিরা জমি চষেছে, ফসল বুনেছে। এই ব্যাখ্যায় আগের জাতিরা ছিল মাটির ওস্তাদ, আর মক্কাবাসী সে মাটিতে বড়জোর একটু আঁচড় কেটেছে।"
           },
           {
             "en": "A second reading digs deeper than the plough. At-Tabari's own gloss is istakhrajū al-arḍ, they drew the earth out, excavated and worked it. Ma'arif al-Qur'an spells out what that means: peoples skilled enough to raise underground water for their fields by excavation, and to dig out hidden minerals such as gold and silver and turn them to profit. The dispute is not idle. One picture is a farmer's furrow and the other a miner's shaft, and the Arabic athāra holds both the turning of soil and the stirring up of what lies beneath it.",
-            "bn": "দ্বিতীয় পাঠ লাঙলের চেয়ে গভীরে খোঁড়ে। তাবারীর নিজের ব্যাখ্যা ইসতাখরাজূল আরদ, তারা মাটি টেনে বের করেছে, খুঁড়েছে আর কাজে লাগিয়েছে। মাআরিফুল কুরআন খুলে বলে এর মানে কী: এমন জাতি যারা খনন করে ক্ষেতের জন্য মাটির নিচের পানি তুলতে পারত, আর সোনা-রুপার মতো লুকানো খনিজ খুঁড়ে বের করে মুনাফায় লাগাত। বিতর্কটা অকারণ নয়। একটা ছবি কৃষকের লাঙলের সারি, অন্যটা খনিশ্রমিকের সুড়ঙ্গ, আর আরবি আছারা শব্দ মাটি উল্টানো আর নিচে যা লুকানো তা খুঁচিয়ে তোলা, দুটোই ধরে রাখে।"
+            "bn": "দ্বিতীয় ব্যাখ্যা লাঙলের চেয়েও গভীরে যায়। তাবারীর নিজের ব্যাখ্যা ইসতাখরাজূল আরদ: তারা মাটির ভেতর থেকে বের করে এনেছে, খুঁড়েছে, কাজে লাগিয়েছে। মাআরিফুল কুরআন খুলে বলে এর মানে কী। এরা এমন দক্ষ জাতি ছিল যে খনন করে মাটির নিচের পানি ক্ষেতে তুলতে পারত, আর সোনা-রুপার মতো লুকানো খনিজ খুঁড়ে বের করে লাভের কাজে লাগাত। মতভেদটা অকারণ নয়। একটা ছবি কৃষকের লাঙলের দাগ, অন্যটা খনিশ্রমিকের সুড়ঙ্গ। আর আরবি আছারা শব্দে দুটোই আছে: মাটি উল্টানো, আর নিচে যা লুকিয়ে আছে তা খুঁড়ে তোলা।"
           },
           {
             "en": "The next verb draws less argument. Wa-ʿamarūhā akthara mimmā ʿamarūhā: they built it up and settled it more than these have. As-Sa'di fills in the scene — palaces and workshops raised, trees planted, crops sown, rivers channelled across the land. Al-Muyassar has them build their mansions and dwell in them. At-Tabari even preserves the words of Ibn ʿAbbās, that they owned the earth and built it up. Whichever labour the verse is naming, its point is one and the same: these were builders, and all their building did not save them.",
-            "bn": "পরের ক্রিয়াটা নিয়ে ততটা ঝগড়া নেই। ওয়া আমারূহা আকছারা মিম্মা আমারূহা: তারা একে গড়ে তুলেছে আর বসতি গেড়েছে এদের চেয়ে বেশি। সাদী দৃশ্যটা ভরে দেন — প্রাসাদ আর কারখানা তোলা, গাছ লাগানো, ফসল বোনা, জমির বুকে নদী বইয়ে দেওয়া। মুয়াসসারের বর্ণনায় তারা অট্টালিকা গড়ে তাতে বাস করত। তাবারী এমনকি ইবন আব্বাস (রাঃ)-এর কথাও তুলে রাখেন, যে তারা জমির মালিক হয়েছিল আর তা আবাদ করেছিল। আয়াত যে পরিশ্রমের নামই দিক, কথা একটাই: এরা ছিল নির্মাতা, আর তাদের সব নির্মাণ তাদের বাঁচাতে পারেনি।"
+            "bn": "পরের ক্রিয়াটা নিয়ে মতভেদ কম। ওয়া আমারূহা আকছারা মিম্মা আমারূহা: এরা যতটা আবাদ করেছে, তারা তার চেয়ে বেশি আবাদ করেছিল, বসতি গড়েছিল। সাদী দৃশ্যটা এঁকে দেন: প্রাসাদ আর কারখানা তোলা, গাছ লাগানো, ফসল বোনা, জমির বুক চিরে নদী বইয়ে নেওয়া। মুয়াসসারের বর্ণনায় তারা অট্টালিকা গড়ে তাতে বাস করত। তাবারী এমনকি ইবন আব্বাস (রাঃ)-এর কথাও সংরক্ষণ করেছেন: তারা জমির মালিক ছিল আর তা আবাদ করেছিল। আয়াত যে পরিশ্রমের কথাই বলুক, মূল কথা একটাই: এরা ছিল নির্মাতা, আর তাদের সব নির্মাণ মিলেও তাদের বাঁচাতে পারেনি।"
           }
         ]
       },
@@ -237,11 +237,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The sentence turns on a small, decisive clause: wa-jā'athum rusuluhum bil-bayyināt — and their messengers came to them with clear proofs. Al-Qurtubi reads al-bayyināt as the miracles the messengers brought, and adds a second possibility, that it means the rulings and commands they carried. Either way, the earlier nations were not destroyed in ignorance. The proof reached them. Ibn Kathir frames the whole verse around this: Allah is pointing His listeners toward the truthfulness of His messengers, a truthfulness confirmed by the very ruin of those who called them liars.",
-            "bn": "বাক্যটা ঘোরে এক ছোট অথচ নির্ণায়ক অংশে: ওয়া জাআতহুম রুসুলুহুম বিল-বায়্যিনাত — আর তাদের কাছে তাদের রসূলগণ স্পষ্ট প্রমাণ নিয়ে এসেছিলেন। কুরতুবী বায়্যিনাত অর্থ নেন রসূলদের আনা মুজিজা, আর দ্বিতীয় একটা সম্ভাবনাও জোড়েন, যে এর মানে তাঁদের বয়ে আনা বিধান ও হুকুম। যেভাবেই হোক, আগের জাতিরা না-জেনে ধ্বংস হয়নি। প্রমাণ তাদের কাছে পৌঁছেছিল। ইবন কাসীর গোটা আয়াতটাকেই এর চারপাশে সাজান: আল্লাহ শ্রোতাদের তাঁর রসূলদের সত্যতার দিকে ইশারা করছেন, যে সত্যতা মিথ্যুক-বলা জাতিদের ধ্বংস দিয়েই প্রমাণিত।"
+            "bn": "পুরো বাক্যটা ঘোরে ছোট অথচ চূড়ান্ত একটি অংশকে ঘিরে: ওয়া জাআতহুম রুসুলুহুম বিল-বায়্যিনাত — আর তাদের কাছে তাদের রাসূলগণ স্পষ্ট প্রমাণ নিয়ে এসেছিলেন। কুরতুবী বায়্যিনাত বলতে বোঝেন রাসূলদের আনা মুজিজা। তিনি আরেকটি সম্ভাবনার কথাও বলেন: এর মানে তাঁদের বয়ে আনা বিধান ও হুকুম। যেভাবেই ধরা হোক, আগের জাতিরা না জেনে ধ্বংস হয়নি। প্রমাণ তাদের কাছে পৌঁছেছিল। ইবন কাসীর গোটা আয়াতটাই সাজান এ কথাকে ঘিরে: আল্লাহ শ্রোতাদের দৃষ্টি ফেরাচ্ছেন তাঁর রাসূলদের সত্যতার দিকে। যারা তাঁদের মিথ্যাবাদী বলেছিল, তাদের ধ্বংসই সেই সত্যতার প্রমাণ।"
           },
           {
             "en": "This closes the last door of excuse. A people cannot plead that no warner ever came, when the verse records that warners came with evidence plain enough to remove all doubt. Al-Qurtubi notes the response they gave, fa-kafarū wa-lam yu'minū, they disbelieved and would not believe. The strength was real, the building was real, and the messengers were real too. What was missing among them was not information. It was the willingness to bow to information once it had arrived and asked something of them.",
-            "bn": "এতে অজুহাতের শেষ দরজাটাও বন্ধ হয়ে যায়। কোনো জাতি এ কথা বলতে পারবে না যে তাদের কাছে কোনো সতর্ককারী আসেনি, কারণ আয়াত লিখে রাখে, সতর্ককারীরা এসেছিল এমন প্রমাণ নিয়ে যা সব সন্দেহ মুছে দেয়। কুরতুবী তাদের জবাবটা ধরিয়ে দেন, ফা-কাফারূ ওয়া লাম ইউমিনূ, তারা অস্বীকার করল আর ঈমান আনল না। শক্তি সত্য ছিল, নির্মাণ সত্য ছিল, আর রসূলরাও সত্য ছিলেন। তাদের মধ্যে যা ছিল না তা তথ্য নয়। তা হলো প্রমাণ পৌঁছে কিছু দাবি করার পর তার সামনে মাথা নোয়ানোর ইচ্ছা।"
+            "bn": "এতে অজুহাতের শেষ দরজাটাও বন্ধ হয়ে যায়। কোনো জাতি বলতে পারবে না যে তাদের কাছে কোনো সতর্ককারী আসেনি। আয়াত তো জানিয়েই দিচ্ছে, সতর্ককারীরা এসেছিলেন এমন প্রমাণ নিয়ে, যা সব সন্দেহ দূর করে দেয়। কুরতুবী তাদের জবাবটা ধরিয়ে দেন: ফা-কাফারূ ওয়া লাম ইউমিনূ, তারা কুফরি করল, ঈমান আনল না। শক্তি সত্য ছিল, নির্মাণ সত্য ছিল, রাসূলরাও সত্য ছিলেন। তাদের অভাব তথ্যের ছিল না। অভাব ছিল মেনে নেওয়ার ইচ্ছার: খবর এসে যখন তাদের কাছে কিছু দাবি করল, তখন তার সামনে মাথা নোয়াতে তারা রাজি হয়নি।"
           }
         ]
       },
@@ -253,11 +253,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Then comes the verse's great acquittal of God: fa-mā kāna Allāhu li-yaẓlimahum — Allah would never have wronged them. Al-Qurtubi explains it as destruction without sin, without a messenger sent, without a proof given; that, and only that, would have been injustice, and Allah does none of it. Al-Baghawi reads the wronging more precisely, as any shortchanging of their due, naqṣ ḥuqūqihim. The punishment that fell on them was not a cutting-short of their rights. It was the exact and earned answer to what their own hands had built up.",
-            "bn": "এরপর আসে আল্লাহকে নির্দোষ ঘোষণার মহান বাক্য: ফা-মা কানাল্লাহু লি-ইয়াযলিমাহুম — আল্লাহ কখনোই তাদের ওপর জুলুম করতেন না। কুরতুবী এর ব্যাখ্যা দেন, গুনাহ ছাড়া, রসূল না পাঠিয়ে, প্রমাণ না দিয়ে ধ্বংস করা, সেটাই হতো জুলুম, আর আল্লাহ তার কিছুই করেন না। বাগাভী জুলুমকে আরও সূক্ষ্মভাবে পড়েন, তাদের প্রাপ্য কোনোভাবে কমিয়ে দেওয়া, নাকস হুকূকিহিম। যে শাস্তি তাদের ওপর নেমে এসেছিল তা তাদের হকের কোনো কাটছাঁট ছিল না। তা ছিল তাদের নিজ হাতে গড়া কাজের ঠিক মাপা, উপার্জিত জবাব।"
+            "bn": "এরপর আসে আয়াতের সেই মহান বাক্য, যা আল্লাহকে সব দায় থেকে মুক্ত ঘোষণা করে: ফা-মা কানাল্লাহু লি-ইয়াযলিমাহুম — আল্লাহ কখনোই তাদের ওপর জুলুম করার ছিলেন না। কুরতুবী ব্যাখ্যা করেন: গুনাহ ছাড়াই, রাসূল না পাঠিয়ে, প্রমাণ না দিয়ে ধ্বংস করা, কেবল সেটাই হতো জুলুম। আর আল্লাহ এর কিছুই করেন না। বাগাভী জুলুম শব্দটাকে আরও নির্দিষ্টভাবে বোঝেন: তাদের প্রাপ্য থেকে কিছু কমিয়ে দেওয়া, নাকস হুকূকিহিম। তাদের ওপর যে শাস্তি নেমেছিল, তাতে তাদের হক থেকে কিছুই কাটা হয়নি। সেটা ছিল তাদের নিজ হাতের কামাইয়ের ঠিক মাপমতো প্রতিফল।"
           },
           {
             "en": "The weight falls instead on the closing words: wa-lākin kānū anfusahum yaẓlimūn — but they were wronging themselves. Ibn Kathir names the self-wrong exactly: they denied the signs of Allah and mocked them, and so pulled the ruin down on their own heads. Al-Muyassar and al-Qurtubi both reduce it to two words, shirk and disobedience. The verse refuses the oldest complaint of the condemned, that heaven was unfair to them. The ledger was square. Every stroke of the loss had first been entered by the same hand that would later suffer it.",
-            "bn": "ভার বরং গিয়ে পড়ে শেষ কথাগুলোর ওপর: ওয়া লাকিন কানূ আনফুসাহুম ইয়াযলিমূন — তারা নিজেরাই নিজেদের ওপর জুলুম করছিল। ইবন কাসীর এই আত্ম-জুলুমের নাম ঠিক করে দেন: তারা আল্লাহর নিদর্শন অস্বীকার করেছে আর তা নিয়ে ঠাট্টা করেছে, তাই ধ্বংস নিজেদের মাথায় নিজেরাই টেনে এনেছে। মুয়াসসার আর কুরতুবী দুজনেই একে নামিয়ে আনেন দুই শব্দে, শিরক আর নাফরমানি। আয়াত অপরাধীদের সবচেয়ে পুরনো নালিশটা নাকচ করে দেয়, যে আসমান তাদের প্রতি অবিচার করেছে। হিসাব ছিল সোজা। ক্ষতির প্রতিটি দাগ আগেই বসিয়েছিল সেই হাত, যে পরে তা ভোগ করবে।"
+            "bn": "ভার বরং গিয়ে পড়ে শেষ কথাগুলোর ওপর: ওয়া লাকিন কানূ আনফুসাহুম ইয়াযলিমূন — বরং তারা নিজেরাই নিজেদের ওপর জুলুম করছিল। এই নিজের ওপর জুলুম কী, ইবন কাসীর তা ঠিক ঠিক বলে দেন: তারা আল্লাহর নিদর্শন অস্বীকার করেছে, তা নিয়ে ঠাট্টা করেছে, আর এভাবে ধ্বংস নিজেদের মাথায় নিজেরাই টেনে এনেছে। মুয়াসসার আর কুরতুবী দুজনেই একে দুই কথায় বলেন: শিরক আর নাফরমানি। দণ্ডিতদের সবচেয়ে পুরনো নালিশ হলো, আসমান তাদের প্রতি অবিচার করেছে। আয়াত সেই নালিশ নাকচ করে দেয়। হিসাবে কোনো গরমিল ছিল না। ক্ষতির খাতায় প্রতিটি অঙ্ক আগে লিখেছিল সেই হাতই, পরে যাকে তার ফল ভোগ করতে হয়েছে।"
           }
         ]
       },
@@ -269,27 +269,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "One sound narration brings the verse down onto the traveller's own feet. In Ṣaḥīḥ al-Bukhārī, Ibn ʿUmar reports that the Messenger of Allah ﷺ said, as he passed the ruined dwellings of Thamūd at al-Ḥijr, \"Do not enter the ruined dwellings of those who wronged themselves unless you are weeping, lest there befall you the like of what befell them.\" The closing phrase quotes the verse almost word for word, alladhīna ẓalamū anfusahum, those who wronged themselves. The Qur'an's lesson and the Prophet's ﷺ warning share one vocabulary.",
-            "bn": "একটি সহীহ বর্ণনা আয়াতটাকে পথিকের নিজের পায়ের নিচে এনে দেয়। সহীহ বুখারীতে ইবন উমর (রাঃ) বর্ণনা করেন, সামূদের ধ্বংসপ্রাপ্ত আবাসভূমি হিজরের পাশ দিয়ে যাওয়ার সময় রাসূলুল্লাহ ﷺ বলেছিলেন, যারা নিজেদের ওপর জুলুম করেছে তাদের ধ্বংসপ্রাপ্ত ঘরে কেঁদে কেঁদে ছাড়া প্রবেশ কোরো না, নইলে তাদের যা হয়েছিল তেমন কিছু তোমাদেরও হতে পারে। শেষ কথাটা আয়াতেরই প্রায় হুবহু উদ্ধৃতি, আল্লাযীনা যালামূ আনফুসাহুম, যারা নিজেদের ওপর জুলুম করেছে। কুরআনের শিক্ষা আর নবী ﷺ-এর সতর্কবাণী একই শব্দ ভাগ করে নেয়।"
+            "bn": "একটি সহীহ বর্ণনা আয়াতের কথাকে একেবারে পথিকের নিজের পথে এনে দাঁড় করায়। সহীহ বুখারীতে ইবন উমর (রাঃ) বর্ণনা করেন, সামূদের ধ্বংসপ্রাপ্ত আবাসভূমি হিজরের পাশ দিয়ে যাওয়ার সময় রাসূলুল্লাহ ﷺ বলেছিলেন, যারা নিজেদের ওপর জুলুম করেছে তাদের ধ্বংসপ্রাপ্ত ঘরে কেঁদে কেঁদে ছাড়া প্রবেশ কোরো না, নইলে তাদের যা হয়েছিল তেমন কিছু তোমাদেরও হতে পারে। শেষ কথাটা আয়াতেরই প্রায় হুবহু উদ্ধৃতি, আল্লাযীনা যালামূ আনফুসাহুম, যারা নিজেদের ওপর জুলুম করেছে। কুরআনের শিক্ষা আর নবী ﷺ-এর সতর্কবাণী কথা বলে একই ভাষায়।"
           },
           {
             "en": "The hadith, recorded by al-Bukhārī in his Ṣaḥīḥ, settles how a believer is to stand among such sites. Not as a sightseer and not as a boaster, but as a man who sees in them his own possible end. The ruin is not a monument to someone else's bad luck. It is a mirror held up to anyone strong, prosperous and busy enough to assume the warning must be meant for other people. The right posture at the ruins is tears for one's own soul, not a trophy taken home.",
-            "bn": "ইমাম বুখারী তাঁর সহীহ-তে তোলা এই হাদীস ঠিক করে দেয়, এমন জায়গায় একজন মুমিন কীভাবে দাঁড়াবে। দর্শনার্থী হয়ে নয়, গর্বিত হয়ে নয়, বরং এমন মানুষ হয়ে যে সেখানে নিজের সম্ভাব্য পরিণতি দেখে। ধ্বংসস্তূপ অন্য কারও দুর্ভাগ্যের স্মৃতিসৌধ নয়। তা এক আয়না, যে কেউ যথেষ্ট বলবান, সমৃদ্ধ আর ব্যস্ত বলে ভাবে সতর্কবার্তাটা বুঝি অন্যদের জন্য, তার সামনে ধরা। ধ্বংসস্তূপে সঠিক ভঙ্গি নিজের আত্মার জন্য চোখের পানি, ঘরে নিয়ে যাওয়া কোনো স্মারক নয়।"
+            "bn": "ইমাম বুখারী তাঁর সহীহ গ্রন্থে এ হাদিস এনেছেন। এমন জায়গায় একজন মুমিন কীভাবে দাঁড়াবে, হাদিসটি তা ঠিক করে দেয়। দর্শনার্থী হয়ে নয়, বড়াই করতেও নয়, বরং এমন মানুষ হিসেবে, যে সেখানে নিজের সম্ভাব্য পরিণতি দেখতে পায়। ধ্বংসস্তূপ অন্য কারও দুর্ভাগ্যের স্মৃতিস্তম্ভ নয়। তা এক আয়না। যে কেউ নিজেকে যথেষ্ট শক্তিশালী, সচ্ছল আর ব্যস্ত ভেবে মনে করে, এ সতর্কবাণী বুঝি অন্যদের জন্য, আয়নাটা তার সামনেই ধরা। ধ্বংসস্তূপে মুমিনের আসল ভঙ্গি হলো নিজের জন্য চোখের পানি, ঘরে নিয়ে যাওয়ার মতো কোনো স্মারক নয়।"
           }
         ]
       },
       {
         "h": {
           "en": "Read It Against Yourself",
-          "bn": "জীবিত কারও বিরুদ্ধে ছাড় নয়"
+          "bn": "আয়াতটা নিজের দিকে ফিরিয়ে পড়ুন"
         },
         "p": [
           {
             "en": "A verse about destroyed nations must be handled with care, so let this be plain. The verse describes what the text describes: particular peoples, named by the commentators as ʿĀd, Thamūd and their like, whom Allah ruined after they denied clear proof. It records a closed, just decree of God upon the dead. It licenses nothing against any living person or community. Nobody may read it as permission to despise, harm or expel a people today, nor to treat present-day loss as evidence of someone's guilt. That reading turns the verse inside out.",
-            "bn": "ধ্বংসপ্রাপ্ত জাতিদের নিয়ে আয়াত সাবধানে ধরতে হয়, তাই কথাটা সাফ বলে রাখি। আয়াত যা বর্ণনা করে তা-ই বর্ণনা করে: নির্দিষ্ট কিছু জাতি, তাফসীরকারেরা যাদের নাম দেন আদ, সামূদ আর তাদের মতো, স্পষ্ট প্রমাণ অস্বীকার করার পর আল্লাহ যাদের ধ্বংস করেছেন। এটা মৃতদের ওপর আল্লাহর এক সমাপ্ত, ন্যায্য ফয়সালার খবর। এ আয়াত আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে কিছুরই ছাড়পত্র দেয় না। কেউ একে আজ কোনো জাতিকে ঘৃণা করা, ক্ষতি করা বা তাড়িয়ে দেওয়ার অনুমতি হিসেবে পড়তে পারে না, আজকের কোনো ক্ষতিকে কারও অপরাধের প্রমাণ বানাতেও পারে না। এমন পাঠ আয়াতটাকেই উল্টে দেয়।"
+            "bn": "ধ্বংস হয়ে যাওয়া জাতিদের নিয়ে আয়াত সাবধানে পড়তে হয়, তাই কথাটা সাফ বলে রাখি। আয়াত যা বলে, কেবল সেটুকুই বলে: নির্দিষ্ট কিছু জাতি, তাফসীরকারেরা যাদের নাম বলেন আদ, সামূদ আর তাদের মতো অন্যরা। স্পষ্ট প্রমাণ অস্বীকার করার পর আল্লাহ তাদের ধ্বংস করেছেন। এটা মৃতদের ব্যাপারে আল্লাহর এক চূড়ান্ত ও ন্যায্য ফয়সালার খবর। আজকের কোনো জীবিত মানুষ বা জনগোষ্ঠীর বিরুদ্ধে এ আয়াত কিছুরই ছাড়পত্র দেয় না। আজ কোনো জাতিকে ঘৃণা করা, ক্ষতি করা বা তাড়িয়ে দেওয়ার অনুমতি হিসেবে কেউ একে পড়তে পারে না। আজকের কোনো বিপদকে কারও অপরাধের প্রমাণ বানানোও চলে না। এমন পাঠ আয়াতের অর্থটাকেই উল্টে দেয়।"
           },
           {
             "en": "The verse's own aim is inward, and the commentators keep it there. As-Sa'di says whoever looks at these traces finds only perished nations and desolate homes, a warning standing before the warning to come. Ma'arif al-Qur'an ends by asking the reader to ponder whether those peoples were wronged from above, or wronged themselves by piling up the causes of their own ruin. The honest traveller does not leave the ruins thinking about the dead. He leaves thinking about the proof that has reached him, and whether he himself is answering it.",
-            "bn": "আয়াতের নিজের লক্ষ্য ভেতরের দিকে, আর তাফসীরকারেরা সেটাকে সেখানেই রাখেন। সাদী বলেন, যে এই চিহ্নগুলোর দিকে তাকায় সে কেবল নিশ্চিহ্ন জাতি আর জনশূন্য ঘরবাড়ি দেখতে পায়, আসছে সতর্কবার্তার আগে দাঁড়িয়ে থাকা আরেক সতর্কবার্তা। মাআরিফুল কুরআন শেষ করে পাঠককে এই ভাবনায় ফেলে, ওই জাতিরা কি ওপর থেকে জুলুমের শিকার হয়েছিল, নাকি নিজেদের ধ্বংসের কারণ জমিয়ে জমিয়ে নিজেরাই নিজেদের ওপর জুলুম করেছিল। সৎ পথিক ধ্বংসস্তূপ ছেড়ে মৃতদের কথা ভাবতে ভাবতে ফেরে না। সে ফেরে তার কাছে পৌঁছানো প্রমাণের কথা ভাবতে, আর ভাবতে ভাবতে সে নিজে তাতে সাড়া দিচ্ছে কিনা।"
+            "bn": "আয়াতের আসল লক্ষ্য মানুষের ভেতরের দিকে, আর তাফসীরকারেরাও লক্ষ্যটা সেখানেই রাখেন। সাদী বলেন, যে এই চিহ্নগুলোর দিকে তাকায়, সে কেবল নিশ্চিহ্ন জাতি আর জনশূন্য ঘরবাড়িই দেখে। সামনে যে সতর্কবার্তা আসছে, তার আগে এ যেন আরেক সতর্কবার্তা। মাআরিফুল কুরআন শেষে পাঠককে ভাবতে বলে: ওই জাতিদের ওপর কি ওপর থেকে জুলুম করা হয়েছিল, নাকি নিজেদের ধ্বংসের কারণ জমিয়ে জমিয়ে তারা নিজেরাই নিজেদের ওপর জুলুম করেছিল? সৎ পথিক ধ্বংসস্তূপ থেকে ফেরার সময় মৃতদের কথা ভাবে না। সে ভাবে তার কাছে যে প্রমাণ পৌঁছেছে তার কথা, আর সে নিজে তাতে সাড়া দিচ্ছে কি না।"
           }
         ]
       }
@@ -305,7 +305,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The surah has just closed a scene of the Hour. The deniers fall into despair, and people are parted into two companies: one delighted in a garden, one brought into punishment (30:12 and 30:16). Then, with no pause, the tone turns upward, so glorify Allah when you reach the evening and when you reach the morning (30:17). The verse before us completes that turn. Ma'arif al-Qur'an notes that after the terror of the resurrection the passage lifts the hearer into remembrance, just before the signs of creation open in 30:19.",
-            "bn": "সূরাটি এইমাত্র ক্বিয়ামতের একটি দৃশ্য শেষ করেছে। অস্বীকারকারীরা হতাশায় ডুবে যায়, আর মানুষ ভাগ হয়ে যায় দুই দলে: একটি দল জান্নাতে পরিতুষ্ট, আরেকটি দলকে আনা হয় শাস্তির মধ্যে (৩০:১২ ও ৩০:১৬)। তারপর কোনো বিরতি ছাড়াই সুর উপরে ওঠে, অতএব আল্লাহর পবিত্রতা ঘোষণা কর যখন সন্ধ্যায় উপনীত হও আর যখন সকালে (৩০:১৭)। সামনের আয়াতটি সেই মোড়কেই পূর্ণ করে। মাআরিফুল কুরআন বলছে, পুনরুত্থানের ভীতির পর আয়াতগুলো শ্রোতাকে তুলে আনে যিকিরের দিকে, ঠিক তার পরেই ৩০:১৯ আয়াতে খুলে যায় সৃষ্টির নিদর্শন।"
+            "bn": "সূরাটি এইমাত্র কিয়ামতের একটি দৃশ্য শেষ করেছে। অস্বীকারকারীরা হতাশায় ডুবে যায়, আর মানুষ দুই দলে ভাগ হয়ে যায়: এক দল জান্নাতে আনন্দে থাকবে, আরেক দলকে হাজির করা হবে শাস্তিতে (৩০:১২ ও ৩০:১৬)। তারপর কোনো বিরতি ছাড়াই সুর ওপরের দিকে ওঠে: অতএব আল্লাহর পবিত্রতা ঘোষণা কর যখন সন্ধ্যায় উপনীত হও আর যখন সকালে উপনীত হও (৩০:১৭)। আমাদের আয়াতটি সেই মোড় ঘোরানো পূর্ণ করে। মাআরিফুল কুরআন বলে, পুনরুত্থানের ভয়াবহতার পর আয়াতগুলো শ্রোতাকে জিকিরের দিকে তুলে আনে। এর ঠিক পরেই ৩০:১৯ আয়াতে শুরু হয় সৃষ্টির নিদর্শনের বর্ণনা।"
           },
           {
             "en": "The two verses work as a pair. The first commands tasbih, the declaring of Allah free of every defect, at evening and morning (30:17); the second answers it with hamd, the praise owed to Him, and extends both across the day. al-Muyassar gathers the whole of it in one breath: glorify Him and praise Him at these times, for to Him belong praise and thanks in the heavens and the earth, and in the night and the day. The pairing of purity and praise is the frame the verse hangs on.",
@@ -321,11 +321,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Now the claim widens past any one worshipper. at-Tabari reads to Him is praise in the heavens and the earth as praise from the whole of His creation and from none besides: in the heavens from their dwellers among the angels, and on earth from its people and every kind of creature He made in it. The praise is not waiting to be begun. It is already rising from everything that exists, in every region of the cosmos, and the believer at prayer is one more voice entering a chorus that was never silent.",
-            "bn": "এবার দাবিটা কোনো একক ইবাদতকারীকে ছাড়িয়ে প্রসারিত হয়। তাবারী 'আসমান ও যমীনে প্রশংসা তাঁরই' পড়েন এভাবে: প্রশংসা আসে তাঁর গোটা সৃষ্টির কাছ থেকে, আর কারও কাছ থেকে নয়। আসমানে তার বাসিন্দা ফেরেশতাদের কাছ থেকে, আর যমীনে এর অধিবাসী আর তাতে সৃষ্ট প্রতিটি শ্রেণির প্রাণীর কাছ থেকে। প্রশংসা শুরু হওয়ার অপেক্ষায় বসে নেই। যা কিছু আছে তার সবকিছু থেকে, সৃষ্টির প্রতিটি কোণ থেকে তা আগে থেকেই উঠছে। নামাজে দাঁড়ানো মু'মিন সেই কোরাসে যোগ দেওয়া একটি কণ্ঠমাত্র, যে কোরাস কখনো থামেনি।"
+            "bn": "এবার কথাটা কোনো এক ইবাদতকারীর গণ্ডি ছাড়িয়ে যায়। তাবারী 'আসমান ও যমীনে প্রশংসা তাঁরই' কথাটার অর্থ করেন এভাবে: প্রশংসা আসে তাঁর গোটা সৃষ্টি থেকে, আর তা তাঁরই প্রাপ্য, অন্য কারও নয়। আসমানে প্রশংসা করে সেখানকার বাসিন্দা ফেরেশতারা, আর যমীনে এর অধিবাসীরা এবং সেখানে তাঁর সৃষ্ট সব রকম প্রাণী। প্রশংসা শুরু হওয়ার অপেক্ষায় নেই। যা কিছু আছে, সবকিছু থেকে, সৃষ্টির প্রতিটি কোণ থেকে তা আগে থেকেই উঠছে। নামাজে দাঁড়ানো মুমিন সেই সমবেত সুরে যোগ হওয়া আরও একটি কণ্ঠ, যে সুর কখনো থামেনি।"
           },
           {
             "en": "The earlier authorities say the same in their own words. al-Baghawi, citing Ibn Abbas, has the inhabitants of the heavens and the earth praising Him and praying to Him. Ibn Kathir, in both his Arabic and his abridged commentary, reads the clause as meaning He is the One praised for all that He created in the heavens and on earth. The praise, on this reading, is owed not for a single favour but for the standing fact of creation itself, the sky and the ground and all they hold.",
-            "bn": "আগের মনীষীরাও নিজেদের ভাষায় একই কথা বলেন। বাগভী ইবন আব্বাস থেকে আনেন যে, আসমান ও যমীনের অধিবাসীরা তাঁর প্রশংসা করে আর তাঁরই কাছে নামাজ পড়ে। ইবন কাসীর তাঁর আরবি ও সংক্ষিপ্ত দুই তাফসীরেই বাক্যটি পড়েন এভাবে: আসমান ও যমীনে তিনি যা সৃষ্টি করেছেন তার সবকিছুর জন্য একমাত্র তিনিই প্রশংসিত। এই পাঠে প্রশংসা প্রাপ্য কোনো একটি অনুগ্রহের জন্য নয়, বরং সৃষ্টিরই অটল বাস্তবতার জন্য, এই আকাশ, এই মাটি আর তারা যা কিছু ধরে রাখে সব কিছুর জন্য।"
+            "bn": "আগের যুগের আলেমরাও নিজেদের ভাষায় একই কথা বলেন। বাগভী ইবন আব্বাস থেকে আনেন, আসমান ও যমীনের অধিবাসীরা তাঁর প্রশংসা করে আর তাঁর উদ্দেশেই নামাজ পড়ে। ইবন কাসীর তাঁর আরবি তাফসীর আর সংক্ষিপ্ত তাফসীর, দুটোতেই বাক্যটির অর্থ করেন: আসমান ও যমীনে তিনি যা কিছু সৃষ্টি করেছেন, তার সবকিছুর জন্য প্রশংসিত একমাত্র তিনিই। এই অর্থে প্রশংসা কোনো একটি অনুগ্রহের জন্য নয়। প্রশংসা তাঁর প্রাপ্য সৃষ্টির জন্যই, যা সবসময় চোখের সামনে আছে: এই আকাশ, এই মাটি, আর এদের মধ্যে যা কিছু আছে।"
           }
         ]
       },
@@ -341,51 +341,51 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "al-Qurtubi passes on a fine distinction from al-Mawardi. The night prayer is called by the name of tasbih and the day prayer by the name of hamd, and for a reason. By day a person moves through dealings and states that call for the praise of God; by night he is in a seclusion that calls for declaring Him far above every fault. So praise suits the daylight hours and purity suits the dark, and the verse hands each its own word. The two halves of the day are given two different tongues.",
-            "bn": "কুরতুবী মাওয়ার্দী থেকে একটি সূক্ষ্ম পার্থক্য তুলে আনেন। রাতের নামাজকে ডাকা হয় তাসবীহ নামে আর দিনের নামাজকে হামদ নামে, আর এর পেছনে কারণ আছে। দিনের বেলা মানুষ নানা কাজ আর অবস্থার ভেতর দিয়ে চলে, যা আল্লাহর প্রশংসা দাবি করে। রাতে সে থাকে নির্জনতায়, যা তাঁকে সব ত্রুটির ঊর্ধ্বে ঘোষণা করা দাবি করে। তাই দিনের আলোর সঙ্গে প্রশংসা মানায়, আঁধারের সঙ্গে পবিত্রতা, আর আয়াত প্রত্যেককে তার নিজের শব্দ দিয়ে দেয়। দিনের দুই অর্ধেককে দেওয়া হয় দুটি আলাদা জিহ্বা।"
+            "bn": "কুরতুবী মাওয়ার্দী থেকে একটি সূক্ষ্ম পার্থক্য তুলে আনেন। রাতের নামাজকে বলা হয় তাসবীহ, দিনের নামাজকে হামদ, আর এর পেছনে কারণ আছে। দিনের বেলা মানুষ নানা লেনদেন আর অবস্থার মধ্য দিয়ে যায়, যা তাকে আল্লাহর প্রশংসার দিকে ডাকে। রাতে সে থাকে নির্জনে, আর সেই নির্জনতা ডাকে আল্লাহকে সব ত্রুটির ঊর্ধ্বে ঘোষণা করার দিকে। তাই দিনের আলোয় মানায় প্রশংসা, আর আঁধারে পবিত্রতা ঘোষণা। আয়াত দুটোকেই তাদের নিজ নিজ শব্দ দিয়েছে। দিনের দুই ভাগের মুখে তাই দুই আলাদা বুলি।"
           },
           {
             "en": "There is a quiet force in reading the clause as an interruption. The passage is busy commanding the believer to glorify God at set hours, and into that stream of instruction it slips a plain fact, that the praise is His in the heavens and the earth, always. The command can lapse; a servant can miss his hour. The fact does not. So the duty to praise at fixed times rests on a praise that is unbroken behind it, and the worshipper is summoned to match in his small measure what the cosmos never lets fall.",
-            "bn": "বাক্যটিকে এক বিরতি হিসেবে পড়লে এক নীরব শক্তি জেগে ওঠে। আয়াত তখন ব্যস্ত বান্দাকে বাঁধা সময়ে আল্লাহর পবিত্রতা ঘোষণার আদেশ দিতে, আর সেই আদেশের স্রোতে সে গুঁজে দেয় এক সহজ সত্য: আসমান ও যমীনে প্রশংসা সবসময় তাঁরই। আদেশ ফসকে যেতে পারে, বান্দা তার সময় হারাতে পারে। সত্যটা হারায় না। তাই বাঁধা সময়ে প্রশংসার দায়িত্ব দাঁড়িয়ে থাকে এমন এক প্রশংসার উপর যা এর পেছনে অবিচ্ছিন্ন, আর বান্দাকে ডাকা হয় নিজের ছোট মাপে তা মেলাতে, যা মহাবিশ্ব কখনো পড়তে দেয় না।"
+            "bn": "বাক্যটিকে মাঝখানের বিরতি হিসেবে পড়লে এর ভেতরের এক নীরব শক্তি চোখে পড়ে। আয়াতগুলো তখন মুমিনকে নির্দিষ্ট সময়ে আল্লাহর পবিত্রতা ঘোষণার আদেশ দিচ্ছে, আর সেই আদেশের ধারার মাঝেই গুঁজে দেয় এক সরল সত্য: আসমান ও যমীনে প্রশংসা সবসময় তাঁরই। আদেশ পালনে ঢিল পড়তে পারে, বান্দার ওয়াক্ত ছুটে যেতে পারে। কিন্তু সত্যটা কখনো ছুটে যায় না। তাই নির্দিষ্ট সময়ে প্রশংসার দায়িত্বের পেছনে আছে এক অবিরাম প্রশংসা। মহাবিশ্ব যে প্রশংসা কখনো থামতে দেয় না, বান্দাকে ডাকা হচ্ছে নিজের ছোট সাধ্যে তার সঙ্গে তাল মেলাতে।"
           }
         ]
       },
       {
         "h": {
           "en": "Marking the Hours",
-          "bn": "সময় চিহ্নিত করা"
+          "bn": "ওয়াক্তের চিহ্ন"
         },
         "p": [
           {
             "en": "Four moments are named across the pair, and each is a joint in the day. Evening when you reach it and morning when you reach it stand in 30:17; then ashiyyan, the late part of the day, and hina tuzhiruna, when you enter the noon, close 30:18. at-Tabari reads ashiyyan as the glorifying due at the afternoon prayer and the last phrase as the entering of the time of zuhr. The sweep of the two verses lays a hand on the whole arc of a day, from its edges to its middle.",
-            "bn": "জোড়া আয়াতজুড়ে চারটি মুহূর্তের নাম আসে, আর প্রতিটি দিনের একেকটি জোড়। সন্ধ্যায় উপনীত হওয়া আর সকালে উপনীত হওয়া আছে ৩০:১৭ আয়াতে। তারপর আশিয়্যান, অর্থাৎ দিনের শেষভাগ, আর হীনা তুযহিরূন, অর্থাৎ যখন তোমরা দুপুরে ঢোকো, শেষ করে ৩০:১৮ আয়াত। তাবারী আশিয়্যানকে পড়েন আসরের নামাজের প্রাপ্য তাসবীহ হিসেবে, আর শেষ কথাটিকে যুহরের সময়ে প্রবেশ হিসেবে। দুই আয়াতের এই বিস্তার একটা গোটা দিনের পুরো বাঁকে হাত রাখে, তার দুই প্রান্ত থেকে মাঝখান পর্যন্ত।"
+            "bn": "দুই আয়াত মিলে চারটি মুহূর্তের নাম আসে, আর প্রতিটি মুহূর্ত দিনের একেকটি সন্ধিক্ষণ। সন্ধ্যায় উপনীত হওয়া আর সকালে উপনীত হওয়া আছে ৩০:১৭ আয়াতে। তারপর ৩০:১৮ আয়াত শেষ হয় দুটি কথায়: আশিয়্যান, অর্থাৎ দিনের শেষভাগ, আর হীনা তুযহিরূন, অর্থাৎ যখন তোমরা দুপুরে প্রবেশ করো। তাবারী আশিয়্যানকে ধরেন আসরের নামাজে প্রাপ্য তাসবীহ, আর শেষ কথাটিকে যুহরের ওয়াক্তে প্রবেশ। এভাবে দুই আয়াত গোটা দিনটাকেই ছুঁয়ে যায়, তার দুই প্রান্ত থেকে মাঝখান পর্যন্ত।"
           },
           {
             "en": "al-Baghawi gives the same two readings: ashiyyan is to pray to God in the afternoon, the asr prayer, and when you enter the noon is the zuhr prayer. as-Sa'di gathers all of it: these are the five times of the five daily prayers, and at each God has commanded His servants both to glorify and to praise. He adds that the command reaches past the obligatory prayers to the recommended too, the morning and evening remembrances and the words said after the prayer.",
-            "bn": "বাগভী একই দুটি পাঠ দেন: আশিয়্যান মানে বিকেলে আল্লাহর জন্য নামাজ পড়া, অর্থাৎ আসরের নামাজ, আর 'যখন তোমরা দুপুরে ঢোকো' মানে যুহরের নামাজ। সা'দী পুরোটা একসঙ্গে ধরেন: এগুলো পাঁচ ওয়াক্ত নামাজের পাঁচটি সময়, আর প্রতিটিতে আল্লাহ তাঁর বান্দাদের আদেশ দিয়েছেন পবিত্রতা আর প্রশংসা দুটোই করতে। তিনি যোগ করেন, আদেশটি ফরজ নামাজ ছাড়িয়ে মুস্তাহাব পর্যন্তও পৌঁছায়, সকাল-সন্ধ্যার যিকির আর নামাজের পরে বলা কথাগুলো পর্যন্ত।"
+            "bn": "বাগভী একই দুটি ব্যাখ্যা দেন: আশিয়্যান মানে বিকেলে আল্লাহর উদ্দেশে নামাজ পড়া, অর্থাৎ আসরের নামাজ, আর 'যখন তোমরা দুপুরে প্রবেশ করো' মানে যুহরের নামাজ। সা'দী সবকিছু একসঙ্গে বলেন: এগুলো পাঁচ ওয়াক্ত নামাজের পাঁচটি সময়, আর প্রতিটি সময়ে আল্লাহ তাঁর বান্দাদের পবিত্রতা ঘোষণা আর প্রশংসা, দুটোরই আদেশ দিয়েছেন। তিনি আরও বলেন, এ আদেশ ফরজ নামাজ ছাড়িয়ে মুস্তাহাব আমল পর্যন্তও পৌঁছায়: সকাল-সন্ধ্যার জিকির, আর নামাজের পরে পড়ার জিকিরগুলো।"
           },
           {
             "en": "al-Qurtubi lingers over the word ashiyy itself. Drawing on the lexicographer al-Jawhari, he notes that ashiyy and ashiyya name the span from the maghrib prayer to the dark of late evening, and he traces the fine shades the Arabs gave the hour. Qatada, for his part, reads the four words of the two verses as four prayers plainly: maghrib, then fajr, then asr, then zuhr. Whether the word is weighed for its grammar or its worship, it keeps pointing at a real, locatable time in the turning day.",
-            "bn": "কুরতুবী 'আশিয়্য' শব্দটির উপরেই খানিক থামেন। অভিধানবিদ জাওহারীর সূত্রে তিনি বলেন, আশিয়্য ও আশিয়্যা বোঝায় মাগরিবের নামাজ থেকে গভীর সন্ধ্যার আঁধার পর্যন্ত সময়টা, আর আরবরা এই সময়কে যে সূক্ষ্ম নানা রূপ দিয়েছিল তা-ও তিনি ধরেন। কাতাদা আবার দুই আয়াতের চারটি শব্দকে সোজাসুজি চারটি নামাজ বলে পড়েন: মাগরিব, তারপর ফজর, তারপর আসর, তারপর যুহর। শব্দটিকে ব্যাকরণের জন্যই মাপা হোক বা ইবাদতের জন্য, তা বারবার আঙুল তোলে ঘুরতে থাকা দিনের এক বাস্তব, চিহ্নিত-করা-যায় এমন সময়ের দিকে।"
+            "bn": "কুরতুবী 'আশিয়্য' শব্দটির ওপরেই খানিক থামেন। অভিধানবিদ জাওহারীর সূত্রে তিনি বলেন, আশিয়্য ও আশিয়্যা বোঝায় মাগরিবের নামাজ থেকে রাতের অন্ধকার গাঢ় হওয়া পর্যন্ত সময়টা। এ সময়ের নানা সূক্ষ্ম ভাগ আরবরা কীভাবে করত, তা-ও তিনি দেখান। অন্যদিকে কাতাদা দুই আয়াতের চারটি শব্দকে সোজাসুজি চার নামাজ হিসেবে পড়েন: মাগরিব, তারপর ফজর, তারপর আসর, তারপর যুহর। শব্দটিকে ব্যাকরণ দিয়ে মাপা হোক বা ইবাদত দিয়ে, প্রতিবারই তা দিনের এমন এক বাস্তব সময়ের দিকে ইশারা করে, যা চিনে নেওয়া যায়।"
           }
         ]
       },
       {
         "h": {
           "en": "Are the Prayers Named Here?",
-          "bn": "এখানে কি নামাজ বলা আছে"
+          "bn": "এখানে কি নামাজের নাম আছে?"
         },
         "p": [
           {
             "en": "Here the commentators stake out a famous claim. at-Tabari reports that Nafi ibn al-Azraq asked Ibn Abbas whether the times of the five prayers are found in the Book of God, and he said yes. He then read these words onto them: when you reach the evening is maghrib, when you reach the morning is fajr, ashiyyan is asr, and when you enter the noon is zuhr. The fifth, isha, he drew from a separate verse that names the prayer of isha (24:58). Mujahid and others carry the same mapping.",
-            "bn": "এখানে তাফসীরকারেরা এক বিখ্যাত দাবি তোলেন। তাবারী বর্ণনা করেন, নাফি ইবন আল-আযরাক ইবন আব্বাসকে জিজ্ঞেস করেছিলেন, পাঁচ ওয়াক্ত নামাজের সময় কি আল্লাহর কিতাবে পাওয়া যায়; তিনি বলেন, হ্যাঁ। তারপর তিনি এই শব্দগুলোকে সেগুলোর উপর পড়েন: 'যখন সন্ধ্যায় উপনীত হও' মাগরিব, 'যখন সকালে' ফজর, আশিয়্যান আসর, আর 'যখন দুপুরে ঢোকো' যুহর। পঞ্চমটি, এশা, তিনি নেন আলাদা এক আয়াত থেকে যা এশার নামাজের নাম নেয় (২৪:৫৮)। মুজাহিদ ও অন্যরাও একই বিন্যাস বহন করেন।"
+            "bn": "এখানে তাফসীরকারেরা এক বিখ্যাত দাবি তোলেন। তাবারী বর্ণনা করেন, নাফি ইবন আল-আযরাক ইবন আব্বাসকে জিজ্ঞেস করেছিলেন, পাঁচ ওয়াক্ত নামাজের সময় কি আল্লাহর কিতাবে আছে? তিনি বললেন, হ্যাঁ। তারপর তিনি আয়াতের শব্দগুলো একেকটি নামাজের সঙ্গে মিলিয়ে দেখালেন: 'যখন সন্ধ্যায় উপনীত হও' মানে মাগরিব, 'যখন সকালে' ফজর, আশিয়্যান আসর, আর 'যখন দুপুরে প্রবেশ করো' যুহর। পঞ্চম নামাজ এশা তিনি নেন আরেকটি আয়াত থেকে, যেখানে এশার নামাজের নাম আছে (২৪:৫৮)। মুজাহিদ ও অন্যরাও একইভাবে মিলিয়েছেন।"
           },
           {
             "en": "Yet this is tafsir reading a sense into the words, not the plain wording itself. Ma'arif al-Qur'an says as much: the prayer is not named as such in the verse, so every kind of worship, in act or in speech, falls within it, and the prayer is only the foremost of these. Ibn Kathir reads the same two time-words without naming a prayer at all, taking ashiyyan as the hour of deepest dark and izhar as the brightest point of the day, a glory owed to the Maker of light and shade. The command to praise Him holds either way.",
-            "bn": "তবু এটি তাফসীর, শব্দের ভেতরে একটি অর্থ পড়ে নেওয়া, স্পষ্ট শব্দ নিজে নয়। মাআরিফুল কুরআন এ কথাই বলে: আয়াতে নামাজকে সেভাবে নাম ধরে বলা হয়নি, তাই কাজে বা কথায় সব রকম ইবাদতই এর ভেতরে পড়ে, আর নামাজ এর মধ্যে কেবল সবচেয়ে অগ্রগণ্য। ইবন কাসীর একই দুটি সময়-শব্দকে কোনো নামাজের নাম না নিয়েই পড়েন, আশিয়্যানকে ধরেন সবচেয়ে গাঢ় আঁধারের সময় আর ইযহারকে দিনের সবচেয়ে উজ্জ্বল মুহূর্ত হিসেবে, আলো আর ছায়ার স্রষ্টার প্রাপ্য এক মহিমা। তাঁর প্রশংসার আদেশ দুই পাঠেই টিকে থাকে।"
+            "bn": "তবে এটা তাফসীর: শব্দের ভেতর থেকে একটি অর্থ বের করে আনা, শব্দের সরাসরি কথা নয়। মাআরিফুল কুরআনও তা-ই বলে: আয়াতে নামাজের নাম সরাসরি নেই, তাই কাজে বা কথায় সব রকম ইবাদতই এর ভেতরে পড়ে, আর নামাজ তার মধ্যে প্রধান। ইবন কাসীর এই দুটি সময়-বাচক শব্দ কোনো নামাজের নাম না নিয়েই পড়েন। আশিয়্যান তাঁর কাছে সবচেয়ে গাঢ় অন্ধকারের সময়, আর ইযহার দিনের সবচেয়ে উজ্জ্বল মুহূর্ত। দুটোই আলো ও ছায়ার স্রষ্টার মহিমা ঘোষণার সময়। তাঁর প্রশংসার আদেশ দুই ব্যাখ্যাতেই বহাল থাকে।"
           },
           {
             "en": "One more voice rounds out the count. Hasan al-Basri held that when you reach the evening takes in both the maghrib and the isha prayers at once, which lets the single phrase carry two of the five. The readings differ on which word holds which prayer, and on whether the prayers are in the wording at all. What none of them touches is the duty itself. Whether the verse maps five prayers or commands a praise without limit, the servant is left with the same charge: turn to God through the whole turning of the day.",
-            "bn": "আরও একটি কণ্ঠ হিসাবটা পূর্ণ করে। হাসান আল-বসরী মনে করতেন, 'যখন সন্ধ্যায় উপনীত হও' একসঙ্গে মাগরিব আর এশা দুই নামাজকেই ধরে, ফলে একটিমাত্র বাক্য পাঁচের মধ্যে দুটিকে বহন করে। পাঠগুলো ভিন্ন হয় এ নিয়ে যে কোন শব্দ কোন নামাজ ধরে, আর আদৌ নামাজ শব্দের ভেতরে আছে কিনা তা নিয়েও। কিন্তু দায়িত্বটায় কেউই হাত দেয় না। আয়াত পাঁচ ওয়াক্ত নামাজ মেলাক বা সীমাহীন প্রশংসার আদেশ দিক, বান্দার কাঁধে থাকে একই ভার: গোটা ঘুরন্ত দিনজুড়ে আল্লাহর দিকে ফেরা।"
+            "bn": "আরও একটি মত হিসাবটা পূর্ণ করে। হাসান আল-বসরী মনে করতেন, 'যখন সন্ধ্যায় উপনীত হও' কথাটা মাগরিব আর এশা দুই নামাজকেই একসঙ্গে ধরে। ফলে একটিমাত্র বাক্যেই পাঁচের মধ্যে দুই নামাজ এসে যায়। কোন শব্দে কোন নামাজ, আর শব্দের ভেতরে আদৌ নামাজের কথা আছে কি না, এ নিয়ে ব্যাখ্যাগুলো ভিন্ন। কিন্তু দায়িত্বটা নিয়ে কোনো দ্বিমত নেই। আয়াতে পাঁচ ওয়াক্ত নামাজের হিসাব থাকুক বা সীমাহীন প্রশংসার আদেশ, বান্দার কাঁধে একই দায়িত্ব: দিনের প্রতিটি পালাবদলে আল্লাহর দিকে ফেরা।"
           }
         ]
       },
@@ -397,11 +397,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The order of the words repays attention. Evening is set before morning, and Ma'arif al-Qur'an gives the reason: in the reckoning of Islam the day turns at sunset, so evening comes first and the date changes at maghrib. al-Qurtubi notes the same, that the sequence opens with the maghrib prayer because the night runs ahead of the day. He contrasts it with Surat al-Isra, which opens its own prayer-list with zuhr, since zuhr was the first prayer Jibril led the Prophet in.",
-            "bn": "শব্দের ক্রমটাও মনোযোগ দাবি করে। আয়াতে সন্ধ্যা এসেছে সকালের আগে, আর মাআরিফুল কুরআন এর কারণ দেয়: ইসলামের হিসাবে দিন বদলায় সূর্যাস্তে, তাই সন্ধ্যা আসে আগে আর তারিখ পাল্টায় মাগরিবে। কুরতুবীও একই কথা বলেন, ক্রমটি শুরু হয় মাগরিবের নামাজ দিয়ে, কারণ রাত দিনের চেয়ে এগিয়ে চলে। তিনি একে তুলনা করেন সূরা বনী ইসরাইলের সঙ্গে, যা তার নিজের নামাজ-তালিকা শুরু করে যুহর দিয়ে, কারণ যুহরই ছিল প্রথম নামাজ যা জিবরীল নবী ﷺ-কে পড়িয়েছিলেন।"
+            "bn": "শব্দগুলোর ক্রমও খেয়াল করার মতো। আয়াতে সন্ধ্যা এসেছে সকালের আগে, আর মাআরিফুল কুরআন এর কারণ বলে: ইসলামের হিসাবে দিন শুরু হয় সূর্যাস্তে, তাই সন্ধ্যা আসে আগে, আর তারিখ বদলায় মাগরিবে। কুরতুবীও একই কথা বলেন: তালিকা শুরু হয়েছে মাগরিবের নামাজ দিয়ে, কারণ রাত দিনের আগে আসে। তিনি এর সঙ্গে তুলনা করেন সূরা বনী ইসরাইলের। সেখানে নামাজের তালিকা শুরু হয়েছে যুহর দিয়ে, কারণ জিবরীল নবী ﷺ-কে প্রথম যে নামাজ পড়িয়েছিলেন, তা ছিল যুহর।"
           },
           {
             "en": "The afternoon then comes before the noon, which also asks for an explanation. Ma'arif al-Qur'an points to the asr prayer being the middle prayer, the one the Qur'an singles out for special care in 2:238, and to its falling at an hour when people are deep in their work and most apt to let it slip. Putting asr ahead of zuhr in the verse lends it the very weight that its timing threatens to take away. The order is not loose; it teaches.",
-            "bn": "এরপর বিকেল আসে দুপুরের আগে, যা-ও একটা ব্যাখ্যা চায়। মাআরিফুল কুরআন দেখায়, আসরের নামাজই হলো মধ্যবর্তী নামাজ, যেটির উপর কুরআন বিশেষ যত্নের তাগিদ দেয় ২:২৩৮ আয়াতে, আর এটি পড়ে এমন এক সময়ে যখন মানুষ কাজে ডুবে থাকে আর সহজেই তা হাতছাড়া করে ফেলে। আয়াতে আসরকে যুহরের আগে রাখা তাকে ঠিক সেই গুরুত্বটাই দেয়, যা তার সময়ের কারণে হারিয়ে যাওয়ার ভয় থাকে। এই ক্রম এলোমেলো নয়, এটি শেখায়।"
+            "bn": "এরপর বিকেল এসেছে দুপুরের আগে, এরও ব্যাখ্যা দরকার। মাআরিফুল কুরআন দেখায়, আসরই মধ্যবর্তী নামাজ, যার ব্যাপারে কুরআন ২:২৩৮ আয়াতে বিশেষ যত্ন নিতে বলেছে। তা ছাড়া আসরের সময়টা এমন, যখন মানুষ কাজে ডুবে থাকে আর নামাজ ছুটে যাওয়ার ভয় সবচেয়ে বেশি। আয়াতে আসরকে যুহরের আগে রাখায় আসর ঠিক সেই গুরুত্ব পায়, যা তার সময়ের কারণে হারিয়ে যাওয়ার আশঙ্কা থাকে। এই ক্রম এলোমেলো নয়, এর ভেতরেও শিক্ষা আছে।"
           }
         ]
       },
@@ -413,27 +413,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "One narration ties these verses to a daily practice. Abu Dawud records in his Sunan, from Ibn Abbas, that the Prophet said: whoever says in the morning, so glorify Allah when you reach the evening, through to and thus will you be brought out (30:17 to 30:19), will attain what he missed in his day; and whoever says them in the evening will attain what he missed in his night. Ibn Kathir, who carries the same chain, calls its isnad jayyid, a good chain of transmission.",
-            "bn": "একটি বর্ণনা এই আয়াতগুলোকে এক দৈনিক আমলের সঙ্গে বেঁধে দেয়। আবু দাউদ তাঁর সুনানে ইবন আব্বাস থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: যে ব্যক্তি সকালে বলবে, 'অতএব আল্লাহর পবিত্রতা ঘোষণা কর যখন সন্ধ্যায় উপনীত হও' থেকে 'এভাবেই তোমাদের বের করা হবে' পর্যন্ত (৩০:১৭ থেকে ৩০:১৯), সে তার দিনে যা ছুটে গেছে তা পেয়ে যাবে; আর যে সন্ধ্যায় তা বলবে, সে তার রাতে যা ছুটে গেছে তা পেয়ে যাবে। ইবন কাসীর, যিনি একই সনদ আনেন, এর সনদকে বলেন জাইয়িদ, অর্থাৎ ভালো সূত্র।"
+            "bn": "একটি বর্ণনা এই আয়াতগুলোকে প্রতিদিনের এক আমলের সঙ্গে জুড়ে দেয়। আবু দাউদ তাঁর সুনানে ইবন আব্বাস থেকে বর্ণনা করেন, নবী ﷺ বলেছেন: যে ব্যক্তি সকালে 'অতএব আল্লাহর পবিত্রতা ঘোষণা কর যখন সন্ধ্যায় উপনীত হও' থেকে 'এভাবেই তোমাদের বের করা হবে' পর্যন্ত (৩০:১৭ থেকে ৩০:১৯) পড়বে, সে তার দিনে যা ছুটে গেছে তা পেয়ে যাবে; আর যে সন্ধ্যায় তা পড়বে, সে তার রাতে যা ছুটে গেছে তা পেয়ে যাবে। ইবন কাসীরও একই সনদে হাদিসটি এনেছেন এবং এর সনদকে বলেছেন জাইয়িদ, অর্থাৎ ভালো সূত্র।"
           },
           {
             "en": "Two further threads sit around the verse without being fastened to it. Ma'arif al-Qur'an and Ibn Kathir relate, on the authority of Muadh ibn Anas, that these were the words Ibrahim would say morning and evening, and that his saying them earned him the Qur'an's praise as the one who fulfilled (53:37). And al-Baghawi, under the verse, gathers several reports on the general merit of glorifying and praising God, such as saying subhan Allah wa bihamdihi a hundred times; these are not tied to this verse in particular, but they breathe its spirit.",
-            "bn": "আয়াতটির চারপাশে আরও দুটি সুতো আছে, যদিও সেগুলো এর সঙ্গে শক্ত করে বাঁধা নয়। মাআরিফুল কুরআন আর ইবন কাসীর মুআয ইবন আনাস থেকে বর্ণনা করেন যে, এই কথাগুলোই ইবরাহীম (আঃ) সকাল-সন্ধ্যায় বলতেন, আর এগুলো বলার কারণেই কুরআন তাঁকে প্রশংসা করে সেই একজন বলে 'যে পূর্ণ করেছে' (৫৩:৩৭)। আর বাগভী এই আয়াতের নিচে আল্লাহর পবিত্রতা ও প্রশংসার সাধারণ ফযিলত নিয়ে কয়েকটি বর্ণনা জড়ো করেন, যেমন দিনে একশো বার 'সুবহানাল্লাহি ওয়া বিহামদিহি' বলা; এগুলো বিশেষ করে এই আয়াতের সঙ্গে বাঁধা নয়, তবে এর প্রাণটাই এগুলোতে বইছে।"
+            "bn": "আয়াতটির আশপাশে আরও দুটি প্রসঙ্গ আছে, যদিও সেগুলো এর সঙ্গে সরাসরি বাঁধা নয়। মাআরিফুল কুরআন আর ইবন কাসীর মুআয ইবন আনাস থেকে বর্ণনা করেন, ইবরাহীম (আঃ) সকাল-সন্ধ্যায় এই কথাগুলোই বলতেন, আর এগুলো বলার কারণেই কুরআন তাঁর প্রশংসা করেছে 'যিনি পূর্ণ করেছেন' বলে (৫৩:৩৭)। আর বাগভী এই আয়াতের আলোচনায় আল্লাহর পবিত্রতা ও প্রশংসার সাধারণ ফযিলত নিয়ে কয়েকটি বর্ণনা জড়ো করেছেন, যেমন একশো বার 'সুবহানাল্লাহি ওয়া বিহামদিহি' বলা। এগুলো বিশেষভাবে এই আয়াতের সঙ্গে যুক্ত নয়, তবে এদের মধ্যে আয়াতেরই প্রাণ বইছে।"
           }
         ]
       },
       {
         "h": {
           "en": "Joining What Never Stops",
-          "bn": "যা কখনো থামে না"
+          "bn": "অবিরাম প্রশংসায় শামিল হওয়া"
         },
         "p": [
           {
             "en": "Step back and the verse hands the believer a shape for the day. Its hours are not a flat stretch of time but a series of turnings, and at each turning there is a word to be said. The day is not asked to stop for worship; worship is woven into its joints, at its edges and at its heights, so that no long stretch passes with the heart turned away. A life lived like this is bracketed by remembrance and punctuated by it, never left to run on empty.",
-            "bn": "একটু পিছিয়ে দাঁড়ালে দেখা যায়, আয়াত মু'মিনকে দিনটার একটা আকার ধরিয়ে দেয়। এর সময়গুলো সমতল এক টুকরো সময় নয়, বরং পরপর কয়েকটি মোড়, আর প্রতিটি মোড়ে বলার মতো একটা কথা আছে। দিনকে থেমে যেতে বলা হয় না ইবাদতের জন্য; ইবাদত বরং বোনা থাকে তার জোড়ায় জোড়ায়, তার প্রান্তে আর তার চূড়ায়, যাতে অন্তর মুখ ফিরিয়ে রেখে লম্বা কোনো সময় পেরিয়ে না যায়। এমন করে কাটানো জীবন যিকিরে ঘেরা থাকে, যিকিরেই থেমে থেমে চিহ্নিত হয়, কখনো খালি হয়ে চলতে দেওয়া হয় না।"
+            "bn": "একটু দূর থেকে দেখলে বোঝা যায়, আয়াত মুমিনের হাতে দিনটার একটা কাঠামো তুলে দেয়। দিনের সময়গুলো একটানা সমান কোনো বিস্তার নয়, বরং পরপর কয়েকটি মোড়, আর প্রতিটি মোড়ে বলার মতো একটা কথা আছে। ইবাদতের জন্য দিনকে থামিয়ে দিতে বলা হয়নি। ইবাদত বরং বোনা আছে দিনের জোড়ে জোড়ে, তার দুই প্রান্তে আর ভরদুপুরে, যাতে অন্তর আল্লাহ থেকে মুখ ফিরিয়ে লম্বা সময় কাটিয়ে না দেয়। এভাবে কাটানো জীবনের শুরু আর শেষ জিকিরে ঘেরা, মাঝেও থেমে থেমে জিকির। সে জীবন কখনো খালি হয়ে চলে না।"
           },
           {
             "en": "And the verse has already told the believer that he is not alone in it. The praise he offers belongs, first and last, to the One it names, and it is rising from the heavens and the earth whether he joins it or not. To say it at his own appointed hours is to fall into step with the angels above and every creature below, to let his small voice be carried on a praise that fills all space and keeps no silence. The day, rightly held, becomes a long act of worship with its seams showing.",
-            "bn": "আর আয়াত মু'মিনকে আগেই জানিয়ে দিয়েছে, এতে সে একা নয়। সে যে প্রশংসা পেশ করে তা আদি-অন্তে একমাত্র সেই সত্তারই, যাঁর নাম আয়াত নেয়, আর তা আসমান ও যমীন থেকে উঠছে, সে যোগ দিক বা না দিক। নিজের নির্ধারিত সময়ে তা বলা মানে উপরের ফেরেশতা আর নিচের প্রতিটি সৃষ্টির সঙ্গে তাল মেলানো, নিজের ক্ষীণ কণ্ঠটাকে এমন এক প্রশংসায় ভাসিয়ে দেওয়া যা গোটা মহাশূন্য ভরে রাখে, কোনো নীরবতা রাখে না। দিনটাকে ঠিকভাবে ধরলে তা হয়ে ওঠে এক দীর্ঘ ইবাদত, যার সেলাই চোখে পড়ে।"
+            "bn": "আর আয়াত মুমিনকে আগেই জানিয়ে দিয়েছে, এ কাজে সে একা নয়। সে যে প্রশংসা করে, তা শুরু থেকে শেষ পর্যন্ত সেই সত্তারই প্রাপ্য, আয়াত যাঁর কথা বলছে। আর সে যোগ দিক বা না দিক, সেই প্রশংসা আসমান ও যমীন থেকে উঠছেই। নিজের নির্ধারিত সময়ে তা বলা মানে ওপরের ফেরেশতা আর নিচের প্রতিটি সৃষ্টির সঙ্গে তাল মেলানো। নিজের ক্ষীণ কণ্ঠটা তখন মিশে যায় এমন এক প্রশংসায়, যা সারা মহাশূন্য ভরে রাখে, কখনো থামে না। দিনটাকে ঠিকভাবে ধরে রাখলে পুরো দিনটাই হয়ে ওঠে এক দীর্ঘ ইবাদত, যার প্রতিটি জোড় স্পষ্ট চোখে পড়ে।"
           }
         ]
       }
@@ -449,11 +449,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse belongs to a run of sentences in Surah ar-Rum that all begin the same way: wa min ayatihi, and among His signs. Creation from dust comes first, then this verse on spouses, then 30:22 on the heavens and the earth and the differing of tongues and colours, then sleep, lightning and rain in 30:23-24. Marriage is set in that company deliberately — listed among the sky and the languages of mankind as evidence of the same Maker.",
-            "bn": "আয়াতটি সূরা আর-রূমের এমন এক ধারাবাহিক বাক্যমালার অংশ, যার প্রতিটি শুরু হয় একইভাবে: ওয়া মিন আয়াতিহি — আর তাঁর নিদর্শনসমূহের মধ্যে। প্রথমে মাটি থেকে সৃষ্টি, তারপর স্বামী-স্ত্রী বিষয়ক এই আয়াত, তারপর 30:22-এ আসমান-যমীন এবং ভাষা ও বর্ণের ভিন্নতা, এরপর 30:23-24-এ ঘুম, বিদ্যুৎ ও বৃষ্টি। বিবাহকে ইচ্ছা করেই এই সারিতে বসানো হয়েছে — আকাশ আর মানবজাতির ভাষাগুলোর পাশে, একই নির্মাতার প্রমাণ হিসেবে তালিকাভুক্ত।"
+            "bn": "আয়াতটি সূরা আর-রূমের এমন এক সারির অংশ, যার প্রতিটি বাক্য শুরু হয় একই কথায়: ওয়া মিন আয়াতিহি, আর তাঁর নিদর্শনগুলোর মধ্যে। প্রথমে মাটি থেকে সৃষ্টি, তারপর স্বামী-স্ত্রী নিয়ে এই আয়াত, তারপর ৩০:২২-এ আসমান-যমীন এবং ভাষা ও বর্ণের ভিন্নতা, এরপর ৩০:২৩-২৪-এ ঘুম, বিদ্যুৎ ও বৃষ্টি। কুরআন বিয়েকে ইচ্ছা করেই এই সারিতে রেখেছে। আকাশ আর মানুষের নানা ভাষার পাশে একে গোনা হয়েছে একই স্রষ্টার প্রমাণ হিসেবে।"
           },
           {
             "en": "That placement resists two errors at once. It refuses the shrinking of marriage into mere paperwork and economics, because the Quran files it with cosmic signs. And it refuses sentimentality, because signs are for study: the verse ends, as the sign-verses around it do, by naming its audience — li-qawmin yatafakkarun, for a people who reflect. What happens inside a home is presented as data about Allah, awaiting a reader.",
-            "bn": "এই অবস্থান একসঙ্গে দুটি ভুল ঠেকায়। এটি বিবাহকে নিছক কাগজপত্র আর অর্থনীতিতে সংকুচিত করতে দেয় না, কারণ কুরআন একে মহাজাগতিক নিদর্শনগুলোর সঙ্গে নথিভুক্ত করেছে। আবার ভাবালুতাও হতে দেয় না, কারণ নিদর্শন তো অধ্যয়নের বিষয়: আশপাশের নিদর্শন-আয়াতগুলোর মতোই এই আয়াতও শেষ হয় তার শ্রোতার নাম নিয়ে — লি-কাওমিন ইয়াতাফাক্কারুন, চিন্তাশীল মানুষদের জন্য। ঘরের ভেতরে যা ঘটে, তা উপস্থাপিত হয়েছে আল্লাহ সম্পর্কে তথ্য হিসেবে — এক পাঠকের অপেক্ষায়।"
+            "bn": "এই অবস্থান একসঙ্গে দুটি ভুল ঠেকায়। বিয়েকে নিছক কাগজপত্র আর টাকা-পয়সার ব্যাপার বানিয়ে ছোট করার সুযোগ এতে নেই, কারণ কুরআন একে রেখেছে মহাবিশ্বের নিদর্শনগুলোর কাতারে। আবার আবেগে ভেসে যাওয়ারও সুযোগ নেই, কারণ নিদর্শন তো ভেবে দেখার বিষয়। আশপাশের নিদর্শন-আয়াতগুলোর মতোই এই আয়াতও শেষ হয় তার শ্রোতাদের পরিচয় দিয়ে: লি-কাওমিন ইয়াতাফাক্কারুন, চিন্তাশীল মানুষদের জন্য। ঘরের ভেতরে যা ঘটে, কুরআন তাকে আল্লাহকে চেনার সাক্ষ্য হিসেবে সামনে রাখে, যা একজন পাঠকের অপেক্ষায় আছে।"
           }
         ]
       },
@@ -465,27 +465,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Khalaqa lakum min anfusikum azwajan — He created for you, from your own selves, spouses. Min anfusikum places likeness at the foundation: the spouse is of your own kind and nature, not an alien species to be managed. 4:1 grounds all of humanity in one soul and its mate created from it, and 7:189 repeats this verse's own logic: He made from it its mate, that he might find rest in her.",
-            "bn": "খালাকা লাকুম মিন আনফুসিকুম আযওয়াজা — তিনি তোমাদের জন্য তোমাদেরই মধ্য থেকে সঙ্গী সৃষ্টি করেছেন। মিন আনফুসিকুম ভিত্তিতেই সাদৃশ্য বসিয়ে দেয়: সঙ্গী আপনারই জাত ও প্রকৃতির, সামলে রাখার মতো কোনো ভিনগ্রহের প্রাণী নয়। 4:1 গোটা মানবজাতিকে দাঁড় করায় এক প্রাণ ও তা থেকে সৃষ্ট তার জোড়ার ওপর, আর 7:189 এই আয়াতেরই যুক্তি পুনরাবৃত্তি করে: তিনি তা থেকে তার জোড়া বানালেন, যেন সে তার কাছে প্রশান্তি পায়।"
+            "bn": "খালাকা লাকুম মিন আনফুসিকুম আযওয়াজা — তিনি তোমাদের জন্য তোমাদেরই মধ্য থেকে সঙ্গী সৃষ্টি করেছেন। মিন আনফুসিকুম কথাটা শুরুতেই মিলের ভিত গেঁথে দেয়: জীবনসঙ্গী আপনারই জাতের, আপনারই স্বভাবের, এমন কোনো ভিন্ন প্রাণী নয় যাকে বশে রাখতে হবে। ৪:১ আয়াত গোটা মানবজাতির শিকড় দেখায় এক প্রাণে, আর তা থেকে সৃষ্ট তার জোড়ায়। ৭:১৮৯ আয়াতও এই আয়াতের যুক্তিই আবার বলে: তিনি তা থেকে তার জোড়া বানালেন, যেন সে তার কাছে প্রশান্তি পায়।"
           },
           {
             "en": "The word sakan is the verse's centre: li-taskunu ilayha, that you may find stillness toward her. Sakan in Arabic is the quietening of what was in motion — the same root gives the words for dwelling and for tranquility. The stated purpose of marriage is not romance as spectacle but rest: a person and a place where the guard comes down. 2:187 gives the same fact its most compact image: they are a garment for you, and you are a garment for them.",
-            "bn": "সাকান শব্দটিই আয়াতের কেন্দ্র: লি-তাসকুনু ইলাইহা — যেন তোমরা তার কাছে স্থিরতা পাও। আরবিতে সাকান মানে চলমান কিছুর শান্ত হয়ে আসা — একই ধাতু থেকে এসেছে বাসস্থান ও প্রশান্তির শব্দগুলো। বিবাহের ঘোষিত উদ্দেশ্য প্রদর্শনযোগ্য রোমাঞ্চ নয়, বিশ্রাম: এমন এক মানুষ ও এমন এক জায়গা, যেখানে পাহারা নেমে আসে। 2:187 একই সত্যের সবচেয়ে সংহত চিত্রটি দেয়: তারা তোমাদের পোশাক, আর তোমরা তাদের পোশাক।"
+            "bn": "সাকান শব্দটিই আয়াতের কেন্দ্র: লি-তাসকুনু ইলাইহা, যেন তোমরা তার কাছে স্থিরতা পাও। আরবিতে সাকান মানে চলমান কিছুর থিতিয়ে আসা। একই ধাতু থেকে এসেছে বাসস্থান আর প্রশান্তি বোঝানোর শব্দগুলো। বিয়ের ঘোষিত উদ্দেশ্য লোক দেখানো রোমান্স নয়, বিশ্রাম: এমন একজন মানুষ, এমন একটি জায়গা, যেখানে আর সতর্ক থাকতে হয় না। ২:১৮৭ আয়াত একই সত্যকে সবচেয়ে সংক্ষেপে ছবির মতো বলে: তারা তোমাদের পোশাক, আর তোমরা তাদের পোশাক।"
           }
         ]
       },
       {
         "h": {
           "en": "Placed, Not Manufactured",
-          "bn": "স্থাপিত, বানানো নয়"
+          "bn": "বসিয়ে দেওয়া, বানানো নয়"
         },
         "p": [
           {
             "en": "Wa ja'ala baynakum mawaddatan wa rahmah — and He placed between you affection and mercy. The verb matters: placed. The bond that holds two former strangers together across decades is described as something Allah sets between them, not something they generate alone. Couples who have felt love arrive and settle without their own doing have felt what the verse describes. Gratitude, not self-congratulation, is the fitting response to what was placed.",
-            "bn": "ওয়া জাআলা বাইনাকুম মাওয়াদ্দাতাঁও ওয়া রাহমাহ — আর তিনি তোমাদের মধ্যে স্থাপন করেছেন ভালোবাসা ও রহমত। ক্রিয়াপদটিই গুরুত্বপূর্ণ: স্থাপন করেছেন। দুই সাবেক অপরিচিতকে যে বন্ধন দশকের পর দশক ধরে রাখে, তাকে বর্ণনা করা হয়েছে এমন কিছু হিসেবে যা আল্লাহ তাদের মাঝে বসিয়ে দেন — কেবল তারা নিজেরা যা উৎপাদন করে তা নয়। যে দম্পতিরা অনুভব করেছেন ভালোবাসা নিজে থেকে এসে থিতু হয়েছে, তারা আয়াতের বর্ণিত জিনিসটিই অনুভব করেছেন। যা স্থাপিত হয়েছে তার যোগ্য জবাব আত্মপ্রশংসা নয় — কৃতজ্ঞতা।"
+            "bn": "ওয়া জাআলা বাইনাকুম মাওয়াদ্দাতাঁও ওয়া রাহমাহ — আর তিনি তোমাদের মধ্যে বসিয়ে দিয়েছেন ভালোবাসা ও রহমত। ক্রিয়াপদটিই আসল: বসিয়ে দিয়েছেন। একসময়ের দুই অচেনা মানুষকে যে বন্ধন দশকের পর দশক বেঁধে রাখে, আয়াত বলছে আল্লাহই তা তাদের মাঝে বসিয়ে দেন, তারা নিজেরা একা তা গড়ে তোলে না। যে দম্পতিরা টের পেয়েছেন, ভালোবাসা নিজেদের কোনো চেষ্টা ছাড়াই এসে থিতু হয়েছে, তারা আয়াতের কথাটাই নিজের জীবনে দেখেছেন। যা আল্লাহ বসিয়ে দিয়েছেন, তার জবাবে নিজের বাহবা নয়, শুকরিয়াই মানায়।"
           },
           {
             "en": "The commentators weigh the two nouns. Mawaddah is warm, active love and desire; rahmah is tenderness and mercy — the impulse that serves, overlooks, and stays. Some explain that the pair covers the seasons of a marriage: mawaddah burning brightest in youth, rahmah deepening where age or hardship thins the first. A marriage held by mercy in the years when affection is tested is not failing; it is running on the second of its two engines.",
-            "bn": "মুফাসসিরগণ শব্দ দুটি ওজন করেন। মাওয়াদ্দাহ হলো উষ্ণ, সক্রিয় ভালোবাসা ও আকর্ষণ; রাহমাহ হলো কোমলতা ও দয়া — যে তাড়না সেবা করে, উপেক্ষা করে ক্ষমা করে, আর থেকে যায়। কেউ কেউ ব্যাখ্যা করেন, এই জোড়া দাম্পত্যের ঋতুগুলো ঢেকে দেয়: মাওয়াদ্দাহ যৌবনে সবচেয়ে উজ্জ্বল, আর বয়স বা কষ্ট প্রথমটিকে পাতলা করলে রাহমাহ গভীর হয়। ভালোবাসা পরীক্ষার বছরগুলোতে যে সংসার দয়ার জোরে টিকে থাকে, তা ব্যর্থ হচ্ছে না; তা চলছে তার দুই ইঞ্জিনের দ্বিতীয়টিতে।"
+            "bn": "মুফাসসিরগণ শব্দ দুটির অর্থ মেপে দেখেন। মাওয়াদ্দাহ হলো উষ্ণ, সক্রিয় ভালোবাসা ও আকর্ষণ; রাহমাহ হলো কোমলতা ও দয়া, যা সেবা করে, দোষ এড়িয়ে যায়, আর পাশে থেকে যায়। কেউ কেউ বলেন, এই জোড়া দাম্পত্যের সব ঋতুকে ধরে রাখে। যৌবনে মাওয়াদ্দাহ জ্বলে সবচেয়ে উজ্জ্বল হয়ে, আর বয়স বা কষ্টে প্রথমটি যখন ফিকে হয়ে আসে, রাহমাহ তখন গভীর হয়। ভালোবাসার পরীক্ষার বছরগুলোতে যে সংসার দয়ার জোরে টিকে থাকে, তা ব্যর্থ হচ্ছে না। তা চলছে তার দুই শক্তির দ্বিতীয়টির জোরে।"
           }
         ]
       },
@@ -497,27 +497,27 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The Prophet ﷺ lived this verse where it is hardest, in the unglamorous interior of a home. Aisha (RA) was asked what he ﷺ did inside his house and answered that he was in the service of his family, and when the prayer time came, he went out to it — al-Bukhari relates it. He ﷺ also said, in the sound hadith, that the best of you are the best to their families.",
-            "bn": "নবী ﷺ এই আয়াতটি সেখানেই যাপন করেছেন যেখানে তা সবচেয়ে কঠিন — ঘরের চাকচিক্যহীন অন্দরে। আয়েশা (রাঃ)-কে জিজ্ঞেস করা হয়েছিল, তিনি ﷺ ঘরের ভেতরে কী করতেন; তিনি উত্তর দেন, তিনি তাঁর পরিবারের কাজে লেগে থাকতেন, আর নামাযের সময় হলে বেরিয়ে যেতেন — ইমাম বুখারী তা বর্ণনা করেছেন। তিনি ﷺ সহীহ হাদীসে আরও বলেছেন, তোমাদের মধ্যে সেরা তারাই, যারা তাদের পরিবারের কাছে সেরা।"
+            "bn": "নবী ﷺ এই আয়াতকে জীবনে ধারণ করেছেন সেখানেই, যেখানে তা সবচেয়ে কঠিন: ঘরের ভেতরের চাকচিক্যহীন দৈনন্দিন জীবনে। আয়েশা (রাঃ)-কে জিজ্ঞেস করা হয়েছিল, তিনি ﷺ ঘরের ভেতরে কী করতেন। তিনি বললেন, তিনি পরিবারের কাজে হাত লাগাতেন, আর নামাজের সময় হলে নামাজে বেরিয়ে যেতেন। ইমাম বুখারী এ হাদিস বর্ণনা করেছেন। সহীহ হাদিসে তিনি ﷺ আরও বলেছেন, তোমাদের মধ্যে সেরা তারাই, যারা নিজের পরিবারের কাছে সেরা।"
           },
           {
             "en": "These reports translate mawaddah and rahmah into verbs: service, patience, humour, presence. Tranquility is named in the verse as a purpose, which makes it a responsibility; each spouse is either building sukun for the other or eroding it. The question the verse hands a married reader is direct — is the guard able to come down around you? — and the Prophet's ﷺ example shows the answer is made of small domestic acts.",
-            "bn": "এই বর্ণনাগুলো মাওয়াদ্দাহ ও রাহমাহকে ক্রিয়াপদে অনুবাদ করে: সেবা, ধৈর্য, রসবোধ, উপস্থিতি। আয়াতে প্রশান্তিকে উদ্দেশ্য হিসেবে নাম দেওয়া হয়েছে — যা একে দায়িত্বও বানিয়ে দেয়; প্রতিটি স্বামী-স্ত্রী হয় অন্যজনের জন্য সুকুন গড়ছেন, নয় তা ক্ষইয়ে ফেলছেন। বিবাহিত পাঠকের হাতে আয়াত যে প্রশ্নটি তুলে দেয় তা সরাসরি — আপনার পাশে কি পাহারা নামিয়ে রাখা যায়? — আর নবী ﷺ-এর দৃষ্টান্ত দেখায়, উত্তরটি তৈরি হয় ঘরের ছোট ছোট কাজ দিয়ে।"
+            "bn": "এই বর্ণনাগুলো মাওয়াদ্দাহ ও রাহমাহকে কাজে রূপ দেয়: সেবা, ধৈর্য, রসিকতা, পাশে থাকা। আয়াত প্রশান্তিকে উদ্দেশ্য হিসেবে বলেছে, আর তাতে প্রশান্তি একটা দায়িত্বও হয়ে যায়। স্বামী-স্ত্রী প্রত্যেকে হয় অন্যজনের জন্য সুকুন গড়ছেন, নয়তো তা ক্ষয় করছেন। বিবাহিত পাঠকের সামনে আয়াত সরাসরি একটি প্রশ্ন রাখে: আপনার কাছে এসে কি আপনার সঙ্গী নিশ্চিন্ত হতে পারেন, মনের পাহারা নামিয়ে রাখতে পারেন? নবী ﷺ-এর দৃষ্টান্ত দেখায়, এর উত্তর তৈরি হয় ঘরের ছোট ছোট কাজ দিয়ে।"
           }
         ]
       },
       {
         "h": {
           "en": "A Sign to Be Read",
-          "bn": "পাঠযোগ্য এক নিদর্শন"
+          "bn": "যে নিদর্শন পড়তে হয়"
         },
         "p": [
           {
             "en": "The closing clause turns the home into a place of tadabbur: for a people who reflect. The reflection the verse invites is specific. That likeness exists where difference was possible; that stillness exists where two selves could grind; that affection and mercy arrived without being manufactured — each points past itself to the One who placed it. A believer who has known rest in a spouse has been handed a private proof of Allah's mercy.",
-            "bn": "শেষ বাক্যাংশটি ঘরকে তাদাব্বুরের জায়গা বানিয়ে দেয়: চিন্তাশীল মানুষদের জন্য। আয়াত যে চিন্তার আমন্ত্রণ জানায় তা সুনির্দিষ্ট। ভিন্নতা সম্ভব ছিল, অথচ সাদৃশ্য আছে; দুটি সত্তার ঘষা লাগতে পারত, অথচ স্থিরতা আছে; ভালোবাসা ও দয়া কারখানায় তৈরি না হয়েও এসে পৌঁছেছে — প্রতিটিই নিজেকে ছাড়িয়ে ইঙ্গিত করে তাঁর দিকে, যিনি তা স্থাপন করেছেন। যে মুমিন জীবনসঙ্গীর কাছে বিশ্রাম পেয়েছেন, তার হাতে তুলে দেওয়া হয়েছে আল্লাহর রহমতের এক ব্যক্তিগত প্রমাণ।"
+            "bn": "শেষ বাক্যাংশটি ঘরকে তাদাব্বুরের জায়গা বানিয়ে দেয়: চিন্তাশীল মানুষদের জন্য। আয়াত যে চিন্তার দাওয়াত দেয়, তা নির্দিষ্ট। অমিল হতে পারত, অথচ মিল আছে। দুটি মানুষের মধ্যে ঘষাঘষি লাগতে পারত, অথচ শান্তি আছে। ভালোবাসা ও দয়া কেউ বানায়নি, তবু এসে গেছে। এর প্রতিটিই নিজেকে ছাড়িয়ে তাঁর দিকে ইশারা করে, যিনি এগুলো বসিয়ে দিয়েছেন। যে মুমিন জীবনসঙ্গীর কাছে প্রশান্তি পেয়েছেন, তাঁর হাতে আছে আল্লাহর রহমতের এক একান্ত ব্যক্তিগত প্রমাণ।"
           },
           {
             "en": "The lived practice follows: thank Allah for the affection in the house as His gift, and guard what was placed. Harshness, contempt and neglect are not merely unkind; they vandalise a sign of Allah. And for the one whose marriage is a place of struggle rather than rest, the verse names whom to ask — since He is the One who sets mawaddah and rahmah between hearts, He is the One who can renew them.",
-            "bn": "বাস্তব অনুশীলনটি এর থেকেই আসে: ঘরের ভালোবাসার জন্য আল্লাহকে তাঁর উপহার হিসেবে শুকরিয়া জানান, আর যা স্থাপিত হয়েছে তা পাহারা দিন। কর্কশতা, অবজ্ঞা ও অবহেলা কেবল নির্দয়তা নয়; তা আল্লাহর এক নিদর্শনের ওপর ভাঙচুর। আর যার দাম্পত্য বিশ্রামের বদলে সংগ্রামের জায়গা, আয়াত তাকে বলে দেয় কার কাছে চাইতে হবে — হৃদয়ে হৃদয়ে মাওয়াদ্দাহ ও রাহমাহ যিনি বসান, তিনিই তা নতুন করে দিতে পারেন।"
+            "bn": "এখান থেকেই আসে আমলের কথা: ঘরের ভালোবাসাকে আল্লাহর দান মনে করে তাঁর শুকরিয়া আদায় করুন, আর তিনি যা বসিয়ে দিয়েছেন তা যত্নে আগলে রাখুন। রূঢ়তা, তাচ্ছিল্য আর অবহেলা কেবল নির্দয়তা নয়, এগুলো আল্লাহর এক নিদর্শনকে ভেঙেচুরে নষ্ট করা। আর যার দাম্পত্য প্রশান্তির বদলে টানাপোড়েনের জায়গা, আয়াত তাকে বলে দেয় কার কাছে চাইতে হবে। যিনি হৃদয়ে হৃদয়ে মাওয়াদ্দাহ ও রাহমাহ বসিয়ে দেন, তিনিই তা নতুন করে দিতে পারেন।"
           }
         ]
       }
@@ -533,11 +533,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "This verse belongs to a run. Six consecutive verses, 30:20 to 30:25, each open with the same phrase: and of His signs. They name the creation of man from dust, the spouses in whom hearts find rest, the heavens and the earth together with the difference of tongues and colours, sleep by night and day alongside the search for provision, the lightning and the rain, and finally the heavens and the earth standing firm by His command. Our verse is the third of them.",
-            "bn": "এই আয়াতটি একটি ধারাবাহিকতার অংশ। পরপর ছয়টি আয়াত, 30:20 থেকে 30:25 পর্যন্ত, প্রতিটি শুরু হয় একই কথায়: আর তাঁর নিদর্শনসমূহের মধ্যে রয়েছে। সেগুলো উল্লেখ করে মাটি থেকে মানুষের সৃষ্টি, যে সঙ্গীদের কাছে হৃদয় প্রশান্তি পায়, আসমান ও যমীনের সৃষ্টি এবং সেই সঙ্গে ভাষা ও বর্ণের ভিন্নতা, রাতে ও দিনে ঘুম আর তার পাশে রিযিকের সন্ধান, বিদ্যুৎ ও বৃষ্টি, এবং শেষে তাঁর হুকুমে আসমান ও যমীনের অটল থাকা। আমাদের আয়াতটি এদের তৃতীয়।"
+            "bn": "এই আয়াত একটি সারির অংশ। পরপর ছয়টি আয়াত, ৩০:২০ থেকে ৩০:২৫ পর্যন্ত, প্রতিটি শুরু হয় একই কথায়: আর তাঁর নিদর্শনগুলোর মধ্যে। এগুলোতে আছে মাটি থেকে মানুষের সৃষ্টি; সেই জীবনসঙ্গীরা, যাদের কাছে হৃদয় প্রশান্তি পায়; আসমান ও যমীন, সঙ্গে ভাষা ও বর্ণের ভিন্নতা; রাতে ও দিনে ঘুম আর রিযিকের খোঁজ; বিদ্যুৎ ও বৃষ্টি; আর শেষে তাঁর হুকুমে আসমান ও যমীনের স্থির থাকা। আমাদের আয়াতটি এদের তৃতীয়।"
           },
           {
             "en": "Four of the six close by naming an audience, and each names a different one. 30:21 ends with a people who give thought, 30:22 with those of knowledge, 30:23 with a people who listen, 30:24 with a people who use reason. The variation is not filler. Different signs are opened by different capacities, and this verse has been assigned to knowledge. That assignment is the first thing to explain about it.",
-            "bn": "ছয়টির মধ্যে চারটি শেষ হয় শ্রোতার পরিচয় দিয়ে, আর প্রত্যেকটিতে পরিচয়টি আলাদা। 30:21 শেষ হয় 'যারা চিন্তা করে' দিয়ে, 30:22 শেষ হয় 'জ্ঞানীদের' দিয়ে, 30:23 শেষ হয় 'যারা মনোযোগ দিয়ে শোনে' দিয়ে, আর 30:24 শেষ হয় 'যারা বুদ্ধি খাটায়' দিয়ে। এই বৈচিত্র্য কেবল ভরাট নয়। ভিন্ন ভিন্ন নিদর্শন খোলে ভিন্ন ভিন্ন সামর্থ্য দিয়ে, আর এই আয়াতটি বরাদ্দ হয়েছে জ্ঞানের জন্য। সেই বরাদ্দের ব্যাখ্যাই এই আয়াত নিয়ে প্রথম বলার কথা।"
+            "bn": "ছয়টির মধ্যে চারটি শেষ হয় শ্রোতাদের পরিচয় দিয়ে, আর প্রত্যেকটিতে পরিচয় আলাদা। ৩০:২১ শেষ হয় 'যারা চিন্তা করে' দিয়ে, ৩০:২২ 'জ্ঞানীদের জন্য' দিয়ে, ৩০:২৩ 'যারা শোনে' দিয়ে, আর ৩০:২৪ 'যারা বুদ্ধি খাটায়' দিয়ে। এই ভিন্নতা অকারণে নয়। একেক নিদর্শনের দরজা খোলে একেক সামর্থ্যে, আর এই আয়াতের ভার পড়েছে জ্ঞানের ওপর। এ আয়াত নিয়ে প্রথমে সেটাই বুঝিয়ে বলতে হয়।"
           }
         ]
       },
@@ -549,7 +549,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The striking thing about the sentence is what it puts in one breath. The creation of the heavens and the earth — the largest object anyone can point at — and the difference of your languages and your colours, which is the most ordinary fact about the room you are sitting in. Arabic joins them with a single wa, and the verse does not apologise for the pairing or rank one above the other. Both are listed as ayat, signs, on equal footing.",
-            "bn": "বাক্যটির চমকপ্রদ দিকটি হলো, এটি কী কী এক নিঃশ্বাসে বসিয়ে দেয়। আসমানসমূহ ও যমীনের সৃষ্টি — যেদিকে আঙুল তোলা যায় এমন সবচেয়ে বিশাল বস্তু — আর তোমাদের ভাষা ও বর্ণের ভিন্নতা, যা আপনি যে ঘরে বসে আছেন তার সবচেয়ে সাধারণ বাস্তবতা। আরবি দুটিকে জোড়া দেয় একটিমাত্র 'ওয়া' দিয়ে, আর আয়াতটি এই জোড়ার জন্য কোনো কৈফিয়ত দেয় না, একটিকে অন্যটির ওপরেও তোলে না। দুটিকেই আয়াত অর্থাৎ নিদর্শন হিসেবে সমান মর্যাদায় রাখা হয়েছে।"
+            "bn": "বাক্যটির চমক হলো, এটি এক নিঃশ্বাসে কী কী বলে ফেলে। একদিকে আসমান ও যমীনের সৃষ্টি, আঙুল তুলে দেখানো যায় এমন সবচেয়ে বিশাল জিনিস। অন্যদিকে তোমাদের ভাষা ও বর্ণের ভিন্নতা, আপনি যে ঘরে বসে আছেন, সেখানকার সবচেয়ে সাধারণ সত্য। আরবিতে দুটিকে জুড়েছে একটিমাত্র 'ওয়া', আর এই জুটির জন্য আয়াত কোনো কৈফিয়ত দেয় না, একটিকে অন্যটির ওপরেও তোলে না। দুটিই আয়াত, অর্থাৎ নিদর্শন, সমান মর্যাদায়।"
           },
           {
             "en": "That yoking is itself the argument. If the size of a thing were what made it a sign, human variety would not qualify at all. What makes something a sign here is that it is designed and could have been otherwise. The word for the difference is ikhtilaf, variance, and it is the variance rather than the speech or the skin that the verse points at. Uniformity would have been simpler; it was not chosen.",
