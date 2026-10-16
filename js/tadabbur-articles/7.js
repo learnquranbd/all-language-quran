@@ -545,15 +545,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Start with the method rather than the enemy. The first recorded attack went for what was covered, and it worked by making exposure look like an improvement. That pattern has not needed updating. Whatever in your life used to be private and guarded and is now simply available is where the verse is pointing, and the honest question is not who took the cover off but when you stopped putting it back.",
-            "bn": "শত্রু নয়, কায়দাটা দিয়ে শুরু করুন। লিখিত ইতিহাসের প্রথম হামলাটা গিয়েছিল ঢাকা জিনিসের দিকে, আর কাজটা হয়েছিল খুলে যাওয়াকে উন্নতির মতো দেখিয়ে। এই ছকটা নতুন করে সাজাতে হয়নি। আপনার জীবনে যা একসময় আড়ালে আর পাহারায় ছিল আর এখন এমনিই খোলা পড়ে আছে, আয়াত সেদিকেই আঙুল তুলছে। আর সৎ প্রশ্নটা এই নয় যে আড়ালটা কে সরাল। প্রশ্নটা হলো, আপনি সেটা আবার রাখা কবে থেকে বন্ধ করলেন?"
+            "bn": "শত্রুকে দিয়ে নয়, তার কৌশল দিয়ে শুরু করুন। বর্ণিত প্রথম হামলাটাই ছিল ঢাকা জিনিসের ওপর, আর সেটা সফল হয়েছিল খুলে ফেলাকে উন্নতি বলে দেখিয়ে। সেই কৌশল আজও বদলাতে হয়নি। আপনার জীবনে যা একসময় আড়ালে ছিল, যত্নে আগলে রাখা ছিল, আর এখন এমনিই সবার নাগালে, আয়াত সেদিকেই আঙুল তুলছে। আসল প্রশ্ন এটা নয় যে আবরণটা কে সরাল। প্রশ্ন হলো, আপনি কবে থেকে সেটা আবার টেনে দেওয়া ছেড়ে দিলেন।"
           },
           {
             "en": "From where you do not see them is also a fair description of an hour. Most people have one stretch of the day that nobody observes, late at night or alone in a car or behind a screen with the door shut, and conduct in that stretch is the honest measure of the rest. The verse does not ask you to see into the unseen. It asks you to behave in the unwatched hour as you do in the watched one.",
-            "bn": "যেখান থেকে তোমরা তাদের দেখো না, কথাটা দিনের একটা সময়েরও ঠিকঠাক বর্ণনা। বেশির ভাগ মানুষের দিনে এমন একটা সময় থাকে যা কেউ দেখে না, গভীর রাত, একা গাড়িতে, কিংবা দরজা বন্ধ করে পর্দার সামনে। ওই সময়ের চালচলনই বাকি সময়ের আসল মাপ। আয়াত আপনাকে অদৃশ্য দেখতে বলছে না। বলছে, যে সময়টা কেউ দেখে না সেখানেও ঠিক তেমন চলুন যেমন দেখার সময়ে চলেন।"
+            "bn": "যেখান থেকে তোমরা তাদের দেখো না, কথাটা দিনের একটা সময়েরও ঠিকঠাক বর্ণনা। বেশির ভাগ মানুষের দিনেই এমন একটা সময় থাকে যখন কেউ দেখে না: গভীর রাত, একা গাড়িতে থাকা, কিংবা দরজা বন্ধ করে স্ক্রিনের সামনে বসা। ওই সময়ের চালচলনই বাকি সময়ের আসল মাপ। আয়াত আপনাকে অদৃশ্য দেখতে বলছে না। বলছে, যে সময়টা কেউ দেখে না, তখনও ঠিক সেভাবেই চলুন যেভাবে সবার চোখের সামনে চলেন।"
           },
           {
             "en": "And the remedy is in the verse before this one rather than in vigilance. 7:26 has already said that the garment of taqwa is the best garment, and taqwa is the one covering that cannot be pulled off from outside. Add to it the two habits the texts give: the words of refuge when a suggestion arrives, and Ayat al-Kursi at the bed. That is a whole defence, and none of it requires you to see anything.",
-            "bn": "আর দাওয়াইটা পাহারায় নয়, এর আগের আয়াতেই আছে। ৭:২৬ আয়াত আগেই বলে দিয়েছে তাকওয়ার পোশাকই সবচেয়ে ভালো পোশাক। আর তাকওয়াই একমাত্র আবরণ যা বাইরে থেকে টেনে খোলা যায় না। এর সঙ্গে জুড়ে দিন বর্ণনায় দেওয়া দুইটা অভ্যাস, কুমন্ত্রণা এলে আশ্রয়ের কথাগুলো, আর বিছানায় যাওয়ার সময় আয়াতুল কুরসী। এটুকুই পুরো প্রতিরক্ষা, আর এর কোনোটার জন্যই আপনাকে কিছু দেখতে হয় না।"
+            "bn": "আর এর প্রতিকার সারাক্ষণ পাহারা দেওয়ায় নয়, আগের আয়াতেই আছে। ৭:২৬ আয়াত আগেই বলে দিয়েছে, তাকওয়ার পোশাকই সবচেয়ে ভালো পোশাক। আর তাকওয়াই একমাত্র আবরণ যা বাইরে থেকে টেনে খোলা যায় না। এর সঙ্গে যোগ করুন কুরআন-হাদিসে শেখানো দুটি অভ্যাস: কুমন্ত্রণা এলে আশ্রয় চাওয়ার কথাগুলো বলা, আর বিছানায় যাওয়ার সময় আয়াতুল কুরসী পড়া। এটুকুতেই পুরো সুরক্ষা, আর এর কোনোটার জন্যই আপনাকে কিছু দেখতে হয় না।"
           }
         ]
       },
@@ -565,7 +565,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The supplication the verse leads to is the one every reader already knows. A'udhu billahi min ash-shaytan ar-rajim, I take refuge with Allah from Shaytan the expelled. 16:98 commands it before recitation and 41:36 commands it the instant a suggestion arrives, which is the more demanding of the two, because it has to be said while you are still being tempted rather than afterwards.",
-            "bn": "আয়াতটি যে দু'আর দিকে নিয়ে যায় সেটা প্রত্যেক পাঠকের জানা। আউযু বিল্লাহি মিনাশ শাইত্বানির রাজীম, অভিশপ্ত শয়তান থেকে আমি আল্লাহর আশ্রয় চাই। ১৬:৯৮ আয়াত তিলাওয়াতের আগে এটা বলতে বলে, আর ৪১:৩৬ আয়াত বলে কুমন্ত্রণা আসার সঙ্গে সঙ্গেই। দুইটার মধ্যে দ্বিতীয়টাই কঠিন, কারণ কথাটা বলতে হয় টান চলতে চলতেই, টান কেটে যাওয়ার পর নয়।"
+            "bn": "আয়াতটি যে দু'আর দিকে নিয়ে যায়, সেটা প্রত্যেক পাঠকের জানা: আউযু বিল্লাহি মিনাশ শাইত্বানির রাজীম, বিতাড়িত শয়তান থেকে আমি আল্লাহর আশ্রয় চাই। ১৬:৯৮ আয়াত তিলাওয়াতের আগে এটা বলতে বলে, আর ৪১:৩৬ আয়াত বলে কুমন্ত্রণা আসার সঙ্গে সঙ্গেই। দ্বিতীয়টাই বেশি কঠিন, কারণ কথাটা বলতে হয় প্রলোভন চলতে থাকা অবস্থাতেই, তা কেটে যাওয়ার পরে নয়।"
           },
           {
             "en": "Muslim relates from Khawlah bint Hakim (RA) that whoever stops at a place and says a'udhu bi-kalimati-llahi-t-tammati min sharri ma khalaq, I take refuge in the perfect words of Allah from the evil of what He has created, nothing will harm him until he departs from that place. It is short, it fits a doorway or a hotel room or a hospital corridor, and it names the protection by the one thing that never fails.",
@@ -581,11 +581,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "What in your life used to be private and guarded and is now simply open, and what did the change get called at the time? Which hour of your day is the one nobody observes, and would you be content for the rest of your life to be judged by it? When a bad suggestion arrives, do you argue with it, sit with it a while, or say the words you were taught?",
-            "bn": "আপনার জীবনে কোন জিনিসটা একসময় আড়ালে আর পাহারায় ছিল আর এখন এমনিই খোলা, আর তখন এই বদলটাকে কী নাম দেওয়া হয়েছিল? দিনের কোন সময়টা কেউ দেখে না, আর বাকি জীবনটা ওই সময় দিয়ে মাপা হলে আপনি কি খুশি থাকতেন? খারাপ কোনো খেয়াল এলে আপনি কি তার সাথে তর্ক করেন, কিছুক্ষণ বসে থাকেন, না যে কথাগুলো শেখানো হয়েছে সেগুলো বলেন?"
+            "bn": "আপনার জীবনে কোন জিনিসটা একসময় আড়ালে আর যত্নে আগলে রাখা ছিল, আর এখন এমনিই খোলা? আর তখন এই বদলটাকে কী নাম দেওয়া হয়েছিল? দিনের কোন সময়টা কেউ দেখে না, আর আপনার বাকি জীবনের বিচার যদি ওই সময়টা দিয়েই হয়, আপনি কি তাতে রাজি থাকবেন? খারাপ কোনো খেয়াল এলে আপনি কি তার সঙ্গে তর্ক করেন, কিছুক্ষণ তাকে মনে পুষে রাখেন, নাকি যে কথাগুলো শেখানো হয়েছে সেগুলো বলেন?"
           },
           {
             "en": "The verse gives an enemy with better sightlines and no jurisdiction. Which half of that do you actually live by, and does your caution look more like care or more like dread? 7:26 names taqwa as the garment that cannot be stripped away. What would putting that one on in the morning, deliberately, actually consist of for you tomorrow?",
-            "bn": "আয়াতটি এমন এক শত্রু দেখায় যার নজর ভালো অথচ কোনো এখতিয়ার নেই। এই দুই অর্ধেকের কোনটা ধরে আপনি আসলে চলেন, আর আপনার সাবধানতা দেখতে সতর্কতার মতো লাগে না আতঙ্কের মতো? ৭:২৬ আয়াত তাকওয়াকে বলে সেই পোশাক যা কেউ টেনে খুলতে পারে না। আগামীকাল সকালে ইচ্ছে করে সেই পোশাকটা পরা বলতে আপনার ক্ষেত্রে ঠিক কী কী বোঝাবে?"
+            "bn": "আয়াতটি এমন এক শত্রুর কথা বলে, যে আপনাকে এমন জায়গা থেকে দেখে যেখান থেকে আপনি তাকে দেখেন না, অথচ আপনার ওপর তার কোনো কর্তৃত্ব নেই। এই দুই কথার কোনটা মেনে আপনি আসলে চলেন? আপনার সাবধানতা কি যত্নের মতো দেখায়, না আতঙ্কের মতো? ৭:২৬ আয়াত তাকওয়াকে বলে এমন পোশাক যা কেউ টেনে খুলতে পারে না। কাল সকালে জেনে-বুঝে সেই পোশাকটা গায়ে দিতে চাইলে আপনাকে ঠিক কী কী করতে হবে?"
           }
         ]
       }
@@ -601,31 +601,31 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "7:28 states the problem this verse answers. When they commit an immorality they say, we found our fathers doing it, and Allah ordered us to it. The reply is immediate: Allah does not order immorality; do you say about Allah what you do not know? So the block opens with religion being used to license something, and it is that use of religion, rather than the act alone, that the passage sets about dismantling.",
-            "bn": "৭:২৮ আয়াত সেই সমস্যাটা বলে দেয় যার জবাব এই আয়াত। তারা কোনো অশ্লীল কাজ করে বসলে বলে, আমাদের বাপ-দাদাদের এই কাজই করতে দেখেছি, আর আল্লাহই আমাদের এর হুকুম দিয়েছেন। জবাব আসে সঙ্গে সঙ্গে, আল্লাহ অশ্লীলতার হুকুম দেন না, তোমরা কি আল্লাহর ব্যাপারে এমন কথা বলছ যা জানো না? অংশটা শুরুই হয় দ্বীনকে কোনো কিছুর ছাড়পত্র বানানো দিয়ে। আর কাজটার চেয়ে দ্বীনের এই ব্যবহারটাকেই আয়াতগুলো ভেঙে ফেলতে নামে।"
+            "bn": "৭:২৮ আয়াত সেই সমস্যাটা বলে দেয় যার জবাব এই আয়াত। তারা কোনো অশ্লীল কাজ করে বসলে বলে, আমরা আমাদের বাপ-দাদাদের এই কাজ করতে দেখেছি, আর আল্লাহই আমাদের এর হুকুম দিয়েছেন। জবাব আসে সঙ্গে সঙ্গে: আল্লাহ অশ্লীলতার হুকুম দেন না, তোমরা কি আল্লাহর ব্যাপারে এমন কথা বলছ যা জানো না? তাই অংশটার শুরুতেই দেখা যায়, দ্বীনকে একটা কাজের ছাড়পত্র বানানো হচ্ছে। আর আয়াতগুলো কেবল কাজটাকে নয়, দ্বীনের এই অপব্যবহারটাকেই ভেঙে দিতে নামে।"
           },
           {
             "en": "Muslim records from Ibn Abbas (RA) what lay behind it. People used to make tawaf of the House unclothed, and the commentators name that as the immorality of 7:28 and this verse as the answer given to it. That makes the occasion here an established one rather than a guess, and it fixes the sense of the command: the first thing take your adornment asks for is that you be dressed.",
-            "bn": "এর পেছনে কী ছিল তা মুসলিম ইবনু আব্বাস (রাঃ) থেকে বর্ণনা করেন। মানুষ বিবস্ত্র হয়ে বাইতুল্লাহ তাওয়াফ করত, আর মুফাসসিরগণ সেটাকেই ৭:২৮ আয়াতের অশ্লীলতা বলেন আর এই আয়াতকে বলেন তার জবাব। তাই এখানকার শানে নুযূল অনুমান নয়, প্রতিষ্ঠিত। আর এতেই হুকুমের অর্থ পাকা হয়ে যায়, সাজসজ্জা নাও কথাটা সবার আগে যা চায় তা হলো আপনি পোশাক পরা থাকুন।"
+            "bn": "এর পেছনে কী ছিল, তা মুসলিম ইবনু আব্বাস (রাঃ) থেকে বর্ণনা করেন। লোকেরা বিবস্ত্র হয়ে বাইতুল্লাহ তাওয়াফ করত। মুফাসসিরগণ সেটাকেই ৭:২৮ আয়াতের অশ্লীলতা বলেন, আর এই আয়াতকে বলেন তার জবাব। তাই এখানকার শানে নুযূল অনুমান নয়, প্রতিষ্ঠিত। আর এতে হুকুমের অর্থও ঠিক হয়ে যায়: সাজসজ্জা নাও, কথাটা সবার আগে চায় আপনি যেন কাপড় পরে থাকেন।"
           },
           {
             "en": "The verses around it hold the balance. 7:29 commands justice and the turning of the whole face to Him at every place or time of prostration. 7:30 divides the guided from those who took devils as allies while thinking themselves guided. Then 7:31, and then 7:32, which asks who forbade the adornment of Allah that He produced for His servants. One verse commands covering, the next forbids forbidding, and 7:33 finally lists what He did prohibit.",
-            "bn": "চারপাশের আয়াতগুলো ভারসাম্যটা ধরে রাখে। ৭:২৯ আয়াত ন্যায়ের হুকুম দেয়, আর প্রত্যেক সলাতে পুরো মুখ তাঁর দিকে ফেরাতে বলে। ৭:৩০ আয়াত হেদায়াতপ্রাপ্তদের আলাদা করে তাদের থেকে যারা শয়তানদের অভিভাবক বানিয়ে নিজেদের সঠিক পথে ভাবছে। এরপর ৭:৩১, আর তারপর ৭:৩২ আয়াত, যা প্রশ্ন করে, আল্লাহ তাঁর বান্দাদের জন্য যে সৌন্দর্য বের করেছেন তা হারাম করল কে। এক আয়াত ঢাকতে বলে, পরেরটা হারাম করাকে নিষেধ করে, আর ৭:৩৩ আয়াত শেষে তালিকা দেয় তিনি আসলে কী কী নিষেধ করেছেন।"
+            "bn": "চারপাশের আয়াতগুলো ভারসাম্যটা ধরে রাখে। ৭:২৯ আয়াত ন্যায়ের হুকুম দেয়, আর প্রত্যেক সিজদার জায়গায় ও সময়ে পুরো মুখ তাঁর দিকে ফেরাতে বলে। ৭:৩০ আয়াত হিদায়াতপ্রাপ্তদের আলাদা করে তাদের থেকে, যারা শয়তানদের অভিভাবক বানিয়েও নিজেদের হিদায়াতপ্রাপ্ত ভাবে। এরপর ৭:৩১, তারপর ৭:৩২, যেখানে প্রশ্ন: আল্লাহ তাঁর বান্দাদের জন্য যে সৌন্দর্য বের করেছেন, তা হারাম করল কে? এক আয়াত ঢাকতে বলে, পরেরটা হারাম বানানোকেই নিষেধ করে, আর শেষে ৭:৩৩ আয়াত জানায় তিনি আসলে কী কী হারাম করেছেন।"
           }
         ]
       },
       {
         "h": {
           "en": "Zinah, and What It Covers",
-          "bn": "যীনাত এবং তা যা ঢাকে"
+          "bn": "যীনাত শব্দে কী কী আছে"
         },
         "p": [
           {
             "en": "Zinah is what beautifies a thing. In this surah the word appears here and again in 7:32, and the two uses pull in the same direction. At-Tabari reads the zinah of 7:31 as the thiyab, the garments, on the strength of the occasion, so the floor of the command is that you be covered and the ceiling is that you be presentable. It is one word holding a minimum and an aspiration at once.",
-            "bn": "যীনাত মানে যা কোনো কিছুকে সুন্দর করে। এই সূরায় শব্দটি এখানে আর ৭:৩২ আয়াতে এসেছে, আর দুই জায়গাতেই টানটা একই দিকে। ইমাম তাবারী শানে নুযূলের জোরে ৭:৩১ আয়াতের যীনাতকে সিয়াব অর্থাৎ পোশাক ধরেন। তাই হুকুমের মেঝেটা হলো আপনি ঢাকা থাকুন, আর ছাদটা হলো আপনি পরিপাটি থাকুন। একটাই শব্দ, আর তার ভেতরেই সর্বনিম্ন সীমা আর আকাঙ্ক্ষা দুইটাই ধরা।"
+            "bn": "যীনাত মানে যা কোনো কিছুকে সুন্দর করে। এই সূরায় শব্দটি এসেছে এখানে আর ৭:৩২ আয়াতে, আর দুই জায়গাতেই অর্থের টান একই দিকে। ইমাম তাবারী শানে নুযূলের ভিত্তিতে ৭:৩১ আয়াতের যীনাতকে সিয়াব, অর্থাৎ পোশাক বলে ধরেন। তাই হুকুমের সর্বনিম্ন দাবি হলো আপনি ঢাকা থাকবেন, আর সর্বোচ্চ লক্ষ্য হলো আপনি পরিপাটি থাকবেন। একটিই শব্দ, অথচ তাতে ন্যূনতম দাবি আর উঁচু লক্ষ্য দুটোই ধরা।"
           },
           {
             "en": "Inda kulli masjid is read in two ways because masjid is a place of prostration before it is a building. Some of the commentators take it as at every place of prayer and some as at every prayer, and translations follow one or the other; the app's own renderings differ here. Nothing turns on the disagreement in practice. Either reading puts the command exactly where a person is least likely to think about how they look.",
-            "bn": "ইনদা কুল্লি মাসজিদ কথাটির দুই রকম পাঠ আছে, কারণ মাসজিদ ইমারত হওয়ার আগে সাজদাহর জায়গা। কোনো মুফাসসির একে ধরেন প্রতিটি নামাযের জায়গায়, কেউ ধরেন প্রতিটি নামাযে। অনুবাদকরাও কেউ একদিকে যান কেউ অন্যদিকে, এই অ্যাপের অনুবাদ দুইটিও এখানে আলাদা। কাজের বেলায় এই মতভেদে কিছু আসে যায় না। যে পাঠই নিন, হুকুমটা ঠিক সেখানেই গিয়ে বসে যেখানে মানুষ নিজের চেহারার কথা সবচেয়ে কম ভাবে।"
+            "bn": "ইনদা কুল্লি মাসজিদ কথাটি দুইভাবে বোঝা হয়, কারণ মাসজিদ শব্দের প্রথম অর্থ সিজদার জায়গা, ইমারত তার পরে। কোনো মুফাসসির এর অর্থ ধরেন প্রতিটি নামাজের জায়গায়, কেউ ধরেন প্রতিটি নামাজে। অনুবাদকরাও কেউ এদিকে যান, কেউ ওদিকে; এই অ্যাপের অনুবাদ দুটিও এখানে আলাদা। কাজের বেলায় এই মতভেদে কিছু আসে যায় না। যে অর্থই নিন, হুকুমটা ঠিক সেখানেই গিয়ে পড়ে যেখানে মানুষ নিজের সাজপোশাকের কথা সবচেয়ে কম ভাবে।"
           },
           {
             "en": "Then two imperatives of permission, kulu washrabu, eat and drink, and a single boundary: wa la tusrifu. Israf comes from s-r-f, going past the limit proper to a thing, and it is not only a matter of quantity. Going past the lawful is israf, and so is going past the need. The verse never says how much is too much. It hands you the word and leaves the measuring to you.",
@@ -636,16 +636,16 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Three Readings of the Command",
-          "bn": "হুকুমের তিনটি পাঠ"
+          "bn": "হুকুমের তিন ব্যাখ্যা"
         },
         "p": [
           {
             "en": "Al-Qurtubi works the verse as a jurist. He treats it among the proofs that covering the awrah is a condition of the prayer rather than merely a manner of it, and he draws from it the recommendation of one's better clothes for the mosque and for Jumuah. The argument is simple enough to state: if a command to adorn yourself is attached to the place of prostration, the bare minimum cannot be what was intended.",
-            "bn": "কুরতুবী আয়াতটি নিয়ে ফকীহর মতো কাজ করেন। নামাযে সতর ঢাকা কেবল আদব নয়, শর্ত, এই মতের দলিলগুলোর মধ্যে তিনি এই আয়াতকেও রাখেন। আর এখান থেকেই বের করেন মসজিদে ও জুমুআয় নিজের ভালো কাপড় পরার মুস্তাহাব হওয়া। যুক্তিটা বলা সহজ, সাজার হুকুম যদি সাজদাহর জায়গার সঙ্গে জুড়ে দেওয়া হয়, তাহলে কোনোরকমে সতর ঢাকাটাই উদ্দিষ্ট হতে পারে না।"
+            "bn": "কুরতুবী আয়াতটি দেখেন একজন ফকীহর চোখে। নামাজে সতর ঢাকা কেবল আদব নয়, শর্ত, এই মতের দলিলগুলোর মধ্যে তিনি এই আয়াতকেও রাখেন। এখান থেকেই তিনি বলেন, মসজিদে আর জুমুআয় নিজের ভালো কাপড়টা পরা মুস্তাহাব। যুক্তিটা সহজ: সাজার হুকুম যদি সিজদার জায়গার সঙ্গে জুড়ে দেওয়া হয়, তাহলে কোনোরকমে সতর ঢাকাটুকুই উদ্দেশ্য হতে পারে না।"
           },
           {
             "en": "Ibn Kathir keeps the occasion in front of the reader and then turns to the second half, where he brings the report that al-Bukhari had already placed at the head of a chapter in his book on clothing: eat, drink, wear and give in charity, so long as extravagance and self-display stay out of it. Ibn Abbas (RA) stands in the same chapter heading with the shorter form of it, eat what you wish and wear what you wish, so long as two things do not catch you. Two conditions on four permissions, and both conditions are about the heart rather than the amount.",
-            "bn": "ইবনু কাসীর শানে নুযূলটা পাঠকের সামনে ধরে রাখেন, তারপর যান দ্বিতীয় অংশে। সেখানে তিনি সেই বর্ণনাটি আনেন যা বুখারী আগেই তাঁর পোশাক অধ্যায়ের এক পরিচ্ছেদের শিরোনামে বসিয়েছেন, খাও, পান করো, পরো আর দান করো, যতক্ষণ না তাতে অপচয় আর অহমিকা ঢুকে পড়ে। ওই একই শিরোনামে ইবনু আব্বাস (রাঃ)-এর ছোট কথাটাও আছে, যা ইচ্ছা খাও আর যা ইচ্ছা পরো, যতক্ষণ দুইটি জিনিস তোমাকে না ধরে। চারটি অনুমতির উপর দুইটি শর্ত, আর দুইটি শর্তই পরিমাণ নিয়ে নয়, অন্তর নিয়ে।"
+            "bn": "ইবনু কাসীর শানে নুযূলটা পাঠকের চোখের সামনে রাখেন, তারপর যান আয়াতের দ্বিতীয় অংশে। সেখানে তিনি এমন একটি বর্ণনা আনেন, যা বুখারী আগেই তাঁর পোশাক অধ্যায়ের এক পরিচ্ছেদের শিরোনামে বসিয়েছেন: খাও, পান করো, পরো আর দান করো, যতক্ষণ না তাতে অপচয় আর অহমিকা ঢুকে পড়ে। একই শিরোনামে ইবনু আব্বাস (রাঃ)-এর ছোট কথাটিও আছে: যা ইচ্ছা খাও, যা ইচ্ছা পরো, যতক্ষণ দুটি জিনিস তোমাকে না ধরে। চারটি অনুমতির উপর দুটি শর্ত, আর দুটি শর্তই পরিমাণ নিয়ে নয়, অন্তর নিয়ে।"
           },
           {
             "en": "As-Sa'di gathers the verse into a single principle. It establishes the rights of the body, the right to be clothed and fed and watered, and then sets the one limit that keeps those rights from turning into a master, and he includes within israf both the crossing into what is forbidden and the taking of more than is needed. Where the commentators differ is only over the reach of masjid; on the limit they say one thing.",
@@ -661,11 +661,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse closes not with a threat of punishment but with a withdrawal: innahu la yuhibbu-l-musrifin, He does not love those who exceed. 6:141 ends on the identical clause, after telling people to eat of the fruit when it bears and give its due on harvest day. The same word, the same construction, the same closing line, attached both times to provision that has been granted before it was bounded.",
-            "bn": "আয়াত শেষ হয় শাস্তির হুমকি দিয়ে নয়, তুলে নেওয়ার কথা দিয়ে, ইন্নাহু লা ইউহিব্বুল মুসরিফীন, তিনি সীমা ছাড়িয়ে যাওয়াদের ভালোবাসেন না। ৬:১৪১ আয়াতের শেষও হুবহু একই কথায়, ফল ধরলে তা খেতে আর ফসল তোলার দিনে তার হক আদায় করতে বলার পর। একই শব্দ, একই গড়ন, একই শেষ লাইন, আর দুইবারই তা জুড়ে আছে এমন রিযিকের সঙ্গে যা সীমা টানার আগেই দিয়ে দেওয়া হয়েছে।"
+            "bn": "আয়াতটি শেষ হয় শাস্তির হুমকি দিয়ে নয়, ভালোবাসা তুলে নেওয়ার কথা দিয়ে: ইন্নাহু লা ইউহিব্বুল মুসরিফীন, তিনি সীমা ছাড়িয়ে যাওয়া লোকদের ভালোবাসেন না। ৬:১৪১ আয়াতও হুবহু একই কথায় শেষ হয়েছে, ফল ধরলে তা খেতে আর ফসল তোলার দিনে তার হক আদায় করতে বলার পর। একই শব্দ, একই গড়ন, একই শেষ বাক্য। আর দুইবারই তা জুড়ে আছে এমন রিযিকের সঙ্গে, যা সীমা টানার আগেই দিয়ে দেওয়া হয়েছে।"
           },
           {
             "en": "7:55 uses the same shape earlier in this surah about supplication, saying He does not love the transgressors, so the pattern is consistent: a gift, a boundary, and a love that is promised to those who stay inside it. Sanction stated this way does something a threat does not. It makes the excess a matter between you and Someone, rather than a rule you have broken.",
-            "bn": "এই সূরাতেই আগে ৭:৫৫ আয়াত দু'আ নিয়ে একই গড়ন ব্যবহার করে, বলে তিনি সীমালঙ্ঘনকারীদের ভালোবাসেন না। ছকটা তাই একই থাকে, দান, সীমানা, আর সেই ভালোবাসা যা সীমার ভেতরে থাকাদের জন্য কথা দেওয়া। এভাবে শাস্তির কথা বলায় এমন একটা কাজ হয় যা হুমকিতে হয় না। বাড়াবাড়িটা তখন আর ভাঙা নিয়মের ব্যাপার থাকে না, হয়ে যায় আপনার আর একজনের মধ্যেকার ব্যাপার।"
+            "bn": "এই সূরাতেই ৭:৫৫ আয়াত দু'আর প্রসঙ্গে একই গড়ন ব্যবহার করেছে: তিনি সীমালঙ্ঘনকারীদের ভালোবাসেন না। ছকটা তাই একই: দান, সীমানা, আর সীমার ভেতরে যারা থাকে তাদের জন্য ভালোবাসার ওয়াদা। শাস্তির কথা এভাবে বললে এমন কিছু ঘটে, যা হুমকিতে ঘটে না। বাড়াবাড়িটা তখন আর ভাঙা নিয়মের ব্যাপার থাকে না, হয়ে যায় আপনার আর তাঁর মধ্যেকার ব্যাপার।"
           }
         ]
       },
@@ -677,7 +677,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tirmidhi and Ibn Majah record from al-Miqdam ibn Ma'dikarib (RA) that the Prophet said no human being fills a vessel worse than his stomach; enough for the son of Adam are morsels that keep his back straight; and if he must, then a third for his food, a third for his drink and a third for his breath. It is the most concrete gloss on wa la tusrifu that the Sunnah gives.",
-            "bn": "তিরমিযী ও ইবনু মাজাহ মিকদাম ইবনু মা'দীকারিব (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, পেটের চেয়ে খারাপ কোনো পাত্র মানুষ ভরে না। আদম সন্তানের জন্য কয়েক লোকমাই যথেষ্ট, যা তার পিঠ সোজা রাখে। আর করতেই হলে এক তৃতীয়াংশ খাবারের জন্য, এক তৃতীয়াংশ পানীয়ের জন্য, আর এক তৃতীয়াংশ নিঃশ্বাসের জন্য। ওয়া লা তুসরিফূ কথাটার সবচেয়ে হাতে-ধরা ব্যাখ্যা সুন্নাহ এখানেই দেয়।"
+            "bn": "তিরমিযী ও ইবনু মাজাহ মিকদাম ইবনু মা'দীকারিব (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, মানুষ পেটের চেয়ে খারাপ কোনো পাত্র ভরে না। আদম সন্তানের জন্য কয়েক লোকমাই যথেষ্ট, যা তার পিঠ সোজা রাখে। আর যদি এর বেশি খেতেই হয়, তাহলে এক তৃতীয়াংশ খাবারের জন্য, এক তৃতীয়াংশ পানীয়ের জন্য, আর এক তৃতীয়াংশ শ্বাস নেওয়ার জন্য। ওয়া লা তুসরিফূ কথাটার সবচেয়ে বাস্তব ব্যাখ্যা সুন্নাহ এখানেই দেয়।"
           },
           {
             "en": "Beside it stands the report already quoted, which al-Bukhari set over a chapter on clothing: eat, drink, wear and give, without extravagance and without self-display. Notice that the two reports guard different flanks. One measures the appetite; the other watches the motive. A man can keep to a third of his stomach and still dress to be seen, and the verse has a word for each of them.",
@@ -693,11 +693,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "7:32 is the immediate sequel and it guards the other side of the road: say, who has forbidden the adornment of Allah which He produced for His servants, and the good things of provision? The question is put as a rebuke, which tells you how the Quran regards a piety that forbids what was given. 5:87 says it to the believers directly: do not forbid the good things Allah has made lawful for you, and do not transgress.",
-            "bn": "৭:৩২ আয়াত সরাসরি পরের আয়াত, আর সে পাহারা দেয় রাস্তার অন্য পাশটা, বলো, আল্লাহ তাঁর বান্দাদের জন্য যে সৌন্দর্য আর পবিত্র রিযিক বের করেছেন তা হারাম করল কে? প্রশ্নটা ভর্ৎসনার সুরে করা, আর তাতেই বোঝা যায় দেওয়া জিনিস হারাম করে দেওয়া ধার্মিকতাকে কুরআন কী চোখে দেখে। ৫:৮৭ আয়াত কথাটা মুমিনদের সোজা বলে দেয়, আল্লাহ তোমাদের জন্য যা হালাল করেছেন তা হারাম কোরো না, আর সীমা ছেড়ো না।"
+            "bn": "৭:৩২ আয়াত ঠিক এর পরের আয়াত, আর তা রাস্তার অন্য পাশটা পাহারা দেয়: বলো, আল্লাহ তাঁর বান্দাদের জন্য যে সৌন্দর্য আর পবিত্র রিযিক বের করেছেন, তা হারাম করল কে? প্রশ্নটা করা হয়েছে ভর্ৎসনার সুরে। এতেই বোঝা যায়, আল্লাহর দেওয়া জিনিস যে ধার্মিকতা হারাম করে দেয়, কুরআন তাকে কী চোখে দেখে। ৫:৮৭ আয়াত মুমিনদের সরাসরি বলে: আল্লাহ তোমাদের জন্য যেসব পবিত্র জিনিস হালাল করেছেন সেগুলো হারাম কোরো না, আর সীমালঙ্ঘন কোরো না।"
           },
           {
             "en": "17:26 and 17:27 take the excess in the direction of money. Give the relative his right, and the poor and the traveller, and do not squander; the squanderers are the brothers of the devils. That is the sharpest naming of waste anywhere in the Quran, and it arrives in the same breath as an instruction to give, which is the point. What is squandered was somebody's right before it was your discretion.",
-            "bn": "১৭:২৬ আর ১৭:২৭ আয়াত বাড়াবাড়িটা টাকার দিকে নিয়ে যায়। আত্মীয়কে তার হক দাও, মিসকীন ও মুসাফিরকেও, আর অপব্যয় কোরো না। অপব্যয়কারীরা শয়তানের ভাই। অপচয়ের সবচেয়ে ধারালো নামকরণ কুরআনে এখানেই, আর সেটা আসে দান করার হুকুমের সঙ্গে একই নিঃশ্বাসে। কথাটা এখানেই। যা নষ্ট হলো সেটা আপনার খুশির জিনিস হওয়ার আগে কারো হক ছিল।"
+            "bn": "১৭:২৬ আর ১৭:২৭ আয়াত বাড়াবাড়িটাকে টাকার দিকে নিয়ে যায়: আত্মীয়কে তার হক দাও, মিসকীন ও মুসাফিরকেও, আর অপব্যয় কোরো না; অপব্যয়কারীরা শয়তানের ভাই। কুরআনে অপচয়ের এর চেয়ে কড়া নাম আর কোথাও নেই। আর কথাটা আসে দান করার হুকুমের সঙ্গে একই নিঃশ্বাসে, আসল কথা সেখানেই। যা নষ্ট হলো, তা আপনার খুশিমতো খরচের জিনিস হওয়ার আগে কারো হক ছিল।"
           },
           {
             "en": "20:81 sets the same limit on a people who were being fed without effort: eat of the good things We have provided you, and do not transgress in it. Read the four together and a rule appears that is easy to state and hard to keep. Everything here is lawful, most of it is a favour, all of it has an edge, and the edge is nearer than appetite reports it to be.",
@@ -713,15 +713,15 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Start with the prayer at home, because that is where the verse lands hardest. Most people would change their clothes before meeting someone whose opinion mattered to them, and most people do not change anything before standing in front of their Lord. The command is not that prayer clothes be expensive. It is that they be chosen. Anything chosen for the occasion, however plain, is already obedience to this verse.",
-            "bn": "শুরু করুন ঘরের নামায দিয়ে, কারণ আয়াতটা সবচেয়ে জোরে এখানেই এসে পড়ে। যার মতামত দামি এমন কারো সঙ্গে দেখা করার আগে বেশির ভাগ মানুষ কাপড় বদলে নেয়। আর নিজের রবের সামনে দাঁড়ানোর আগে বেশির ভাগ মানুষ কিছুই বদলায় না। হুকুমটা এই নয় যে নামাযের কাপড় দামি হতে হবে। হুকুমটা হলো, সেটা বেছে নেওয়া হবে। উপলক্ষের জন্য বেছে নেওয়া যেকোনো কাপড়, যত সাদামাটাই হোক, এই আয়াতের আনুগত্য হয়ে গেল।"
+            "bn": "শুরু করুন ঘরের নামাজ দিয়ে, কারণ আয়াতটা সবচেয়ে জোরে লাগে এখানেই। যার মতামতের দাম আছে এমন কারো সঙ্গে দেখা করার আগে বেশির ভাগ মানুষ কাপড় বদলে নেয়। অথচ নিজের রবের সামনে দাঁড়ানোর আগে বেশির ভাগ মানুষ কিছুই বদলায় না। হুকুমটা এই নয় যে নামাজের কাপড় দামি হতে হবে। হুকুম হলো, কাপড়টা যেন বেছে নেওয়া হয়। এই উপলক্ষের জন্য বেছে নেওয়া যেকোনো কাপড়, যত সাদামাটাই হোক, পরলেই এই আয়াত মানা হয়ে যায়।"
           },
           {
             "en": "Then the limit, which needs locating honestly. For one person it is the plate, for another the wardrobe, for another the spending that is never totalled, or the hours given to a screen. Israf is not a category of sin that belongs to the rich. It is going past what a thing is for, and everyone is going past something. The useful question is which one you would least like named.",
-            "bn": "এরপর সীমাটা, আর সেটা সৎভাবে খুঁজে বের করা দরকার। কারো জন্য সেটা খাবারের থালা, কারো জন্য আলমারি, কারো জন্য সেই খরচ যার যোগফল কখনো বসানো হয় না, কারো জন্য পর্দার সামনে কাটানো ঘণ্টাগুলো। ইসরাফ ধনীদের ভাগের কোনো গুনাহ নয়। কোনো জিনিস যে কাজের জন্য সেটা ছাড়িয়ে যাওয়াই ইসরাফ, আর সবাই কিছু না কিছু ছাড়িয়ে যাচ্ছে। কাজের প্রশ্নটা হলো, কোনটার নাম ধরে বলা হলে আপনার সবচেয়ে খারাপ লাগত।"
+            "bn": "এরপর সীমাটা, আর সেটা সৎভাবে খুঁজে বের করতে হবে। কারো জন্য সেটা খাবারের থালা, কারো জন্য আলমারি, কারো জন্য এমন খরচ যার হিসাব কখনো যোগ করে দেখা হয় না, কারো জন্য স্ক্রিনের সামনে কাটানো ঘণ্টাগুলো। ইসরাফ কেবল ধনীদের গুনাহ নয়। কোনো জিনিস যে কাজের জন্য, তার সীমা ছাড়িয়ে যাওয়াই ইসরাফ, আর প্রত্যেকেই কিছু না কিছুতে সীমা ছাড়াচ্ছে। তাই কাজের প্রশ্নটা হলো: কোনটার নাম কেউ মুখে আনলে আপনার সবচেয়ে খারাপ লাগবে?"
           },
           {
             "en": "And keep 7:32 in the same hand. There is a piety that tries to be safe by forbidding, that treats a good meal or a good garment as a spiritual risk, and this passage will not have it. The verse commands the adornment, commands the eating and the drinking, and then draws one line. A religion that only ever says no has not been read carefully, and this is one of the verses it skipped.",
-            "bn": "আর ৭:৩২ আয়াতটাও একই হাতে ধরে রাখুন। এমন এক ধার্মিকতা আছে যা হারাম বানিয়ে নিরাপদ থাকতে চায়, ভালো খাবার বা ভালো কাপড়কে দেখে আত্মিক ঝুঁকি হিসেবে। এই অংশটা তা মানতে রাজি নয়। আয়াত সাজতে বলে, খেতে ও পান করতে বলে, তারপর একটামাত্র দাগ টানে। যে দ্বীন কেবল না বলতে জানে সেটা মন দিয়ে পড়া হয়নি, আর এই আয়াতটাই সেখানে বাদ পড়ে গেছে।"
+            "bn": "আর ৭:৩২ আয়াতটাও একই হাতে ধরে রাখুন। এক ধরনের ধার্মিকতা আছে যা হারাম বানিয়ে নিরাপদ থাকতে চায়, ভালো খাবার বা ভালো কাপড়কে আত্মিক ঝুঁকি মনে করে। এই অংশটা তা মানে না। আয়াত সাজতে বলে, খেতে ও পান করতে বলে, তারপর একটিমাত্র দাগ টানে। যে দ্বীন কেবল না বলতে জানে, তা মন দিয়ে পড়া হয়নি; যে আয়াতগুলো বাদ পড়ে গেছে, এটি তার একটি।"
           }
         ]
       },
@@ -733,11 +733,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Abu Dawud records from Abu Sa'id al-Khudri (RA) that when the Prophet put on a new garment he would name it and say: O Allah, to You belongs the praise, You have clothed me with it; I ask You for its good and the good of what it was made for, and I take refuge with You from its evil and the evil of what it was made for. A garment is thanked for and questioned in the same breath.",
-            "bn": "আবূ দাউদ আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ নতুন কাপড় পরলে তার নাম নিয়ে বলতেন, হে আল্লাহ, সব প্রশংসা আপনার, আপনিই আমাকে এটা পরিয়েছেন। আমি আপনার কাছে এর কল্যাণ চাই আর যে কাজের জন্য এটা বানানো হয়েছে তার কল্যাণ চাই। আর আশ্রয় চাই এর অকল্যাণ থেকে আর যে কাজের জন্য এটা বানানো হয়েছে তার অকল্যাণ থেকে। একটি কাপড়ের জন্য শোকরও আদায় হচ্ছে, আবার সেটাকে প্রশ্নও করা হচ্ছে, একই নিঃশ্বাসে।"
+            "bn": "আবূ দাউদ আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ নতুন কাপড় পরলে তার নাম নিয়ে বলতেন, হে আল্লাহ, সব প্রশংসা আপনার, আপনিই আমাকে এটা পরিয়েছেন। আমি আপনার কাছে এর কল্যাণ চাই আর যে কাজের জন্য এটা বানানো হয়েছে তার কল্যাণ চাই। আর আশ্রয় চাই এর অকল্যাণ থেকে আর যে কাজের জন্য এটা বানানো হয়েছে তার অকল্যাণ থেকে। একই নিঃশ্বাসে কাপড়টার জন্য শোকরও করা হচ্ছে, আবার তার ব্যাপারে প্রশ্নও তোলা হচ্ছে।"
           },
           {
             "en": "The supplication is the verse in miniature. It receives the gift without apology, and it asks about the use before the use has begun. Said over a new coat or a pair of shoes it takes about ten seconds, and it quietly rules out both of the errors this passage names, the refusal of what was given and the excess that forgets who gave it.",
-            "bn": "দু'আটি ছোট আকারে পুরো আয়াতটাই। দানটাকে কোনো অজুহাত ছাড়া গ্রহণ করে, আর ব্যবহার শুরু হওয়ার আগেই ব্যবহার নিয়ে প্রশ্ন তোলে। নতুন একটা জামা বা এক জোড়া জুতার উপর পড়তে দশ সেকেন্ড লাগে। আর এটুকুতেই এই অংশে বলা দুইটা ভুলই চুপচাপ কাটা পড়ে যায়, দেওয়া জিনিস ফিরিয়ে দেওয়া, আর কে দিয়েছেন তা ভুলিয়ে দেওয়া বাড়াবাড়ি।"
+            "bn": "দু'আটি যেন ছোট আকারে পুরো আয়াতটাই। দানটা নেয় কোনো সংকোচ ছাড়া, আর ব্যবহার শুরু হওয়ার আগেই ব্যবহার নিয়ে প্রশ্ন তোলে। নতুন একটা জামা বা এক জোড়া জুতা পরার সময় পড়তে দশ সেকেন্ডের মতো লাগে। আর এটুকুতেই এই অংশে বলা দুটো ভুলই নিঃশব্দে বাদ পড়ে যায়: দেওয়া জিনিস ফিরিয়ে দেওয়া, আর এমন বাড়াবাড়ি যা ভুলে যায় দাতা কে।"
           }
         ]
       },
@@ -753,7 +753,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verse ends with a love withheld rather than a punishment threatened. Does that reach you differently, and if it does, what does that tell you about how you have been hearing the rest of the commands? And if the third, the third and the third were kept for a week, what in your day would have to change to make room for it?",
-            "bn": "আয়াত শেষ হয় শাস্তির হুমকি দিয়ে নয়, ভালোবাসা তুলে নেওয়ার কথা দিয়ে। কথাটা কি আপনার কাছে অন্যরকম পৌঁছায়? পৌঁছালে সেটা বাকি হুকুমগুলো আপনি এতদিন কীভাবে শুনে এসেছেন তার কী খবর দেয়? আর এক তৃতীয়াংশ, এক তৃতীয়াংশ আর এক তৃতীয়াংশের নিয়মটা এক সপ্তাহ মানতে গেলে আপনার দিনের কী কী বদলাতে হতো?"
+            "bn": "আয়াত শেষ হয় শাস্তির হুমকি দিয়ে নয়, ভালোবাসা তুলে নেওয়ার কথা দিয়ে। কথাটা কি আপনার মনে অন্যভাবে লাগে? যদি লাগে, তাহলে বাকি হুকুমগুলো আপনি এতদিন কীভাবে শুনে এসেছেন, সে ব্যাপারে এটা কী বলে? আর এক তৃতীয়াংশ খাবার, এক তৃতীয়াংশ পানীয়, এক তৃতীয়াংশ শ্বাস, এই নিয়ম এক সপ্তাহ মানতে হলে জায়গা করে দিতে আপনার দিনের কী কী বদলাতে হবে?"
           }
         ]
       }
@@ -769,11 +769,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Surah al-A'raf is Makkan, and this stretch of it stages the Day of Judgement as two facing parties. 7:36 names those who deny Our verses and are arrogant toward them as the companions of the Fire. 7:40 says the gates of heaven will not be opened for them, and that they will not enter Paradise until a camel enters the eye of a needle. 7:41 gives them a bed of Hell with coverings above them. Then 7:42 opens with a single adversative, and the whole scene turns over.",
-            "bn": "সূরা আল-আরাফ মাক্কী, আর এর এই অংশটা কিয়ামতের দিনকে সাজায় মুখোমুখি দুই দল হিসেবে। ৭:৩৬ আয়াত যারা আল্লাহর আয়াত অস্বীকার করে আর সেগুলোর ব্যাপারে ঔদ্ধত্য দেখায় তাদের নাম দেয় জাহান্নামের বাসিন্দা। ৭:৪০ আয়াত বলে, তাদের জন্য আকাশের দরজা খুলবে না, আর সূঁচের ছিদ্রে উট না ঢোকা পর্যন্ত তারা জান্নাতেও ঢুকবে না। ৭:৪১ আয়াত তাদের জন্য রাখে জাহান্নামের বিছানা আর মাথার উপরে আগুনের আচ্ছাদন। তারপর ৭:৪২ আয়াত শুরু হয় একটিমাত্র বিপরীতবাচক শব্দ দিয়ে, আর গোটা দৃশ্যটা উল্টে যায়।"
+            "bn": "সূরা আল-আরাফ মক্কী, আর এই অংশে কিয়ামতের দিনটা আঁকা হয়েছে মুখোমুখি দুই দলের ছবিতে। যারা আল্লাহর আয়াত অস্বীকার করে আর সেগুলোর ব্যাপারে অহংকার দেখায়, ৭:৩৬ আয়াত তাদের বলে জাহান্নামের বাসিন্দা। ৭:৪০ আয়াত বলে, তাদের জন্য আকাশের দরজা খোলা হবে না, আর সুঁইয়ের ছিদ্রে উট না ঢোকা পর্যন্ত তারা জান্নাতে ঢুকবে না। ৭:৪১ আয়াত তাদের জন্য রাখে জাহান্নামের বিছানা, আর উপরে আগুনের আচ্ছাদন। তারপর ৭:৪২ আয়াত শুরু হয় 'কিন্তু' অর্থের একটিমাত্র শব্দে, আর গোটা দৃশ্য উল্টে যায়।"
           },
           {
             "en": "The reversal is precise rather than approximate. Those were arrogant; these believed. Those found no gate opened; these are the companions of the Garden. Those had coverings of fire above them; these have rivers running beneath them. Both groups are told they will abide eternally, in the same word. The surah then keeps the two parties within earshot of each other. In 7:44 the people of the Garden call across to the people of the Fire, and in 7:46 men on the elevations stand where both can be seen.",
-            "bn": "উল্টে যাওয়াটা আন্দাজে নয়, মিলিয়ে মিলিয়ে। ওরা ঔদ্ধত্য দেখিয়েছিল, এরা ঈমান এনেছে। ওদের জন্য কোনো দরজা খোলেনি, এরাই জান্নাতের অধিবাসী। ওদের মাথার উপর ছিল আগুনের আচ্ছাদন, এদের পায়ের নিচে বইছে ঝর্ণা। দুই দলকেই বলা হয়েছে তারা চিরকাল থাকবে, একই শব্দে। এরপর সূরাটি দুই দলকে এমন দূরত্বে রাখে যেখানে একে অন্যের কথা শোনা যায়। ৭:৪৪ আয়াতে জান্নাতবাসীরা জাহান্নামবাসীদের ডেকে কথা বলে, আর ৭:৪৬ আয়াতে আরাফের উঁচু জায়গায় কিছু লোক দাঁড়িয়ে থাকে যেখান থেকে দুই দিকই দেখা যায়।"
+            "bn": "উল্টে যাওয়াটা আন্দাজে নয়, মিলিয়ে মিলিয়ে। ওরা অহংকার করেছিল, এরা ঈমান এনেছে। ওদের জন্য কোনো দরজা খোলেনি, এরা জান্নাতের অধিবাসী। ওদের উপরে ছিল আগুনের আচ্ছাদন, এদের নিচ দিয়ে বয়ে চলে নহর। দুই দলের ব্যাপারেই একই শব্দে বলা হয়েছে, তারা চিরকাল থাকবে। এরপর সূরাটি দুই দলকে এমন দূরত্বে রাখে, যেখান থেকে একে অন্যের কথা শোনা যায়। ৭:৪৪ আয়াতে জান্নাতবাসীরা জাহান্নামবাসীদের ডেকে কথা বলে, আর ৭:৪৬ আয়াতে আরাফের উঁচু জায়গায় কিছু লোক দাঁড়িয়ে থাকে, যেখান থেকে দুই দলকেই দেখা যায়।"
           }
         ]
       },
@@ -789,11 +789,11 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Wus' is not the outer limit a person reaches before breaking. It is the room a person has, the margin that sits comfortably inside their strength, and Arabic has other words for utmost exertion which this verse does not use. The sentence has just made righteous deeds a condition of the Garden, and a listener could easily hear that as a bar set impossibly high. The clause lowers nothing about the condition. It removes the fear that had gathered around it.",
-            "bn": "উসআ মানে ভেঙে পড়ার ঠিক আগের শেষ সীমা নয়। এর মানে হাতে থাকা জায়গা, শক্তির ভেতরে যতটুকুতে স্বচ্ছন্দে কুলায় ততটুকু। আরবিতে সর্বোচ্চ পরিশ্রম বোঝানোর আলাদা শব্দ আছে, এই আয়াত সেটা ব্যবহার করেনি। বাক্যটি মাত্রই নেক আমলকে জান্নাতের শর্ত বানিয়েছে, আর শ্রোতার কানে সেটা অসম্ভব উঁচু দাঁড়ি বলে ঠেকতে পারত। বাক্যাংশটি শর্তের মান একটুও নামায়নি। শর্তটাকে ঘিরে যে ভয় জমেছিল সেটাই সরিয়ে দিয়েছে।"
+            "bn": "উসআ মানে ভেঙে পড়ার ঠিক আগের শেষ সীমা নয়। এর মানে হাতে থাকা জায়গা, শক্তির ভেতরে যতটুকু স্বচ্ছন্দে কুলিয়ে যায়। আরবিতে সর্বোচ্চ পরিশ্রম বোঝানোর আলাদা শব্দ আছে, এই আয়াত সেগুলো ব্যবহার করেনি। বাক্যটি মাত্রই নেক আমলকে জান্নাতের শর্ত বানিয়েছে, আর শ্রোতার মনে হতে পারত, মাপকাঠিটা নাগালের অনেক উপরে। মাঝখানের কথাটি শর্তের মান একটুও নামাজ়নি। শর্তটাকে ঘিরে যে ভয় জমেছিল, সেটাই সরিয়ে দিয়েছে।"
           },
           {
             "en": "The same rule appears elsewhere with different work to do. 2:286 states it as Allah does not charge a soul except within its capacity, opening the closing supplication of al-Baqarah. 23:62 attaches it to a record that speaks with truth. 6:152 places it among commands about the orphan's property and about full measure and weight. Here alone it stands inside a description of Paradise, and here, as in 6:152 and 23:62, it is first person: We do not charge. The One handing out the Garden states His own terms in His own voice.",
-            "bn": "একই নীতি কুরআনের অন্য জায়গাতেও আছে, তবে সেখানে তার কাজ আলাদা। ২:২৮৬ আয়াতে এটি আসে আল্লাহ কারো উপর তার সাধ্যের অতিরিক্ত কিছু চাপান না বলে, আর সেখান থেকেই সূরা বাকারার শেষ দু'আ শুরু হয়। ২৩:৬২ আয়াত একে জুড়ে দেয় সেই কিতাবের সঙ্গে যা সত্য বলে। ৬:১৫২ আয়াত একে বসায় ইয়াতিমের সম্পদ আর মাপ-ওজন পুরো করার হুকুমের মাঝে। কেবল এখানেই কথাটা দাঁড়িয়ে আছে জান্নাতের বর্ণনার ভেতরে, আর এখানে আল্লাহ কথাটা বলছেন নিজের মুখেই, ৬:১৫২ আর ২৩:৬২ আয়াতের মতোই: আমি চাপাই না। যিনি জান্নাত দিচ্ছেন, শর্তটা তিনি নিজের মুখেই বলছেন।"
+            "bn": "একই নীতি কুরআনের অন্য জায়গাতেও আছে, তবে সেখানে তার কাজ আলাদা। ২:২৮৬ আয়াতে কথাটা এসেছে এভাবে: আল্লাহ কারো উপর তার সাধ্যের বাইরে কিছু চাপান না; আর সেখান থেকেই সূরা বাকারার শেষ দু'আ শুরু হয়। ২৩:৬২ আয়াত একে জুড়ে দেয় সেই কিতাবের সঙ্গে যা সত্য বলে। ৬:১৫২ আয়াত একে বসায় ইয়াতিমের সম্পদ আর মাপ-ওজন পুরো দেওয়ার হুকুমের মাঝে। কেবল এখানেই কথাটা জান্নাতের বর্ণনার ভেতরে বসেছে। আর এখানে, ৬:১৫২ ও ২৩:৬২ আয়াতের মতোই, আল্লাহ নিজেই 'আমি' বলে কথা বলছেন: আমি চাপাই না। যিনি জান্নাত দিচ্ছেন, তার শর্তও তিনি নিজের কণ্ঠেই জানিয়ে দিচ্ছেন।"
           }
         ]
       },
@@ -809,7 +809,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The verb form is worth noticing. Everything here still lies ahead, and every translation rightly puts it in the future, yet the Arabic reports it as done. We removed, they said, they were called are all in the perfect. Arabic regularly uses the completed form for what is certain rather than only for what is past, and the effect here is that the clearing of the chests is settled business before the people described have even entered.",
-            "bn": "ক্রিয়ার রূপটা খেয়াল করার মতো। এখানে যা বলা হচ্ছে তার সবটাই ঘটবে সামনে, অনুবাদেও তা ভবিষ্যতেই আসে, অথচ আরবিতে কাজগুলো বসেছে হয়ে যাওয়া কাজের রূপে। আমি দূর করে দিয়েছি, তারা বলেছে, তাদের ডেকে জানানো হয়েছে, তিনটিই অতীতের রূপ। আরবিতে যা নিশ্চিত তা বোঝাতেও অতীতের রূপ ব্যবহার হয়, কেবল যা ঘটে গেছে তা বোঝাতেই নয়। এখানে ফল দাঁড়ায় এই, যাদের কথা বলা হচ্ছে তারা ঢোকার আগেই বুক পরিষ্কার করার কাজটা চুকে যাওয়া কাজ হিসেবে জানানো হয়ে গেছে।"
+            "bn": "ক্রিয়ার রূপটা খেয়াল করার মতো। এখানে যা বলা হচ্ছে তার সবটাই ঘটবে সামনে, আর অনুবাদগুলোও ঠিকভাবেই তা ভবিষ্যৎ কালে আনে; অথচ আরবিতে কাজগুলো বলা হয়েছে হয়ে যাওয়া কাজের রূপে। আমি দূর করে দিয়েছি, তারা বলেছে, তাদের ডেকে বলা হয়েছে, সবগুলোই অতীত কালের রূপ। আরবিতে অতীতের রূপ কেবল ঘটে যাওয়া কাজের জন্য নয়, নিশ্চিত কাজের জন্যও প্রায়ই ব্যবহার হয়। ফল দাঁড়ায় এই: যাদের কথা বলা হচ্ছে, তারা ঢোকার আগেই বুক পরিষ্কারের কাজটা মীমাংসিত হয়ে আছে।"
           },
           {
             "en": "Then comes their speech, and its grammar closes a door behind them. Wa ma kunna linahtadiya lawla an hadana Allah, and we would never have been guided had Allah not guided us. The lam in linahtadiya is the lam of denial, which does not merely report that something did not happen but rules out that it ever could have. They are not being modest once they are safely inside. They are stating what was already true of them on the road.",
@@ -825,11 +825,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "At-Tabari reads the capacity clause as Allah's own statement that what He required of the people of the Garden was never beyond them, so that nobody arrives there able to complain that the terms were unfair. Ibn Kathir treats it as encouragement set deliberately beside the mention of righteous deeds, so that the hearer understands the door to stand within reach of ordinary effort rather than of heroic effort. Neither of them reads the interruption as a digression.",
-            "bn": "আত-তাবারী সাধ্যের কথাটিকে পড়েন আল্লাহর নিজের ঘোষণা হিসেবে যে, জান্নাতবাসীদের কাছে তিনি যা চেয়েছিলেন তা কখনোই তাদের সাধ্যের বাইরে ছিল না। ফলে সেখানে পৌঁছে কেউ বলতে পারবে না শর্তটা অন্যায় ছিল। ইবনু কাসীর একে দেখেন উৎসাহ হিসেবে, যা ইচ্ছে করেই নেক আমলের উল্লেখের পাশে বসানো হয়েছে, যাতে শ্রোতা বোঝেন দরজাটা অসাধারণ সাধনার নয়, সাধারণ চেষ্টারই নাগালে। দুজনের কেউই এই বাধাটিকে প্রসঙ্গান্তর বলে ধরেননি।"
+            "bn": "আত-তাবারীর ব্যাখ্যায় সাধ্যের কথাটি আল্লাহর নিজের ঘোষণা: জান্নাতবাসীদের কাছে তিনি যা চেয়েছিলেন, তা কখনোই তাদের সাধ্যের বাইরে ছিল না। তাই সেখানে পৌঁছে কেউ অভিযোগ করতে পারবে না যে শর্তগুলো অন্যায্য ছিল। ইবনু কাসীর একে দেখেন উৎসাহ হিসেবে, যা জেনে-বুঝেই নেক আমলের কথার পাশে রাখা হয়েছে, যাতে শ্রোতা বোঝেন: জান্নাতের দরজা বীরত্বপূর্ণ সাধনার নয়, সাধারণ চেষ্টারই নাগালে। দুজনের কেউই মাঝখানের এই কথাটিকে প্রসঙ্গের বাইরে চলে যাওয়া বলে ধরেননি।"
           },
           {
             "en": "On the ghill, al-Qurtubi collects the readings of the early commentators that the removal is total, so that no resident of the Garden keeps anything of what he once held against another. As-Sa'di reads the two verses as a chain with no loose link: faith, then deeds that were always within capacity, then a chest emptied of rancour, then the praise this produces. Ibn Kathir notes that what they praise Allah for is the guidance, and not the reward in front of them.",
-            "bn": "গিল্ল প্রসঙ্গে আল-কুরতুবী আগের মুফাসসিরদের মত জড়ো করেন যে, দূর করাটা পুরোপুরি; জান্নাতের কোনো বাসিন্দার ভেতর অন্যের বিরুদ্ধে জমা রাগের কিছুই আর থাকে না। আস-সাদী দুটি আয়াতকে পড়েন এমন এক শেকল হিসেবে যার কোনো কড়া ঢিলে নয়: ঈমান, তারপর সাধ্যের ভেতরে থাকা আমল, তারপর বিদ্বেষমুক্ত বুক, তারপর তা থেকে জন্ম নেওয়া হামদ। ইবনু কাসীর ধরিয়ে দেন, তাঁরা আল্লাহর প্রশংসা করছেন হিদায়াতের জন্য, সামনে রাখা পুরস্কারের জন্য নয়।"
+            "bn": "গিল্ল প্রসঙ্গে আল-কুরতুবী প্রথম যুগের মুফাসসিরদের মত একত্র করেছেন: দূর করাটা হবে পুরোপুরি, জান্নাতের কোনো বাসিন্দার ভেতরে অন্যের বিরুদ্ধে একসময় পুষে রাখা কিছুই আর থাকবে না। আস-সাদী দুটি আয়াতকে পড়েন এমন এক শেকল হিসেবে যার কোনো কড়া ঢিলে নয়: ঈমান, তারপর বরাবরই সাধ্যের ভেতরে থাকা আমল, তারপর বিদ্বেষমুক্ত বুক, তারপর তা থেকে জন্ম নেওয়া হামদ। ইবনু কাসীর ধরিয়ে দেন, তাঁরা আল্লাহর প্রশংসা করছেন হিদায়াতের জন্য, সামনে রাখা পুরস্কারের জন্য নয়।"
           }
         ]
       },
@@ -845,7 +845,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Al-Bukhari and Muslim both record from Abu Hurayrah (RA) that the Prophet ﷺ said none of you will be admitted to the Garden by his deed. They asked whether that included him, and he said not even him, unless Allah should cover him with mercy from Himself. Set beside the announcement at the end of 7:43, that you have been made to inherit it for what you used to do, the two look opposed until the preposition is read carefully.",
-            "bn": "আল-বুখারী ও মুসলিম দুজনেই আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, তোমাদের কাউকে তার আমল জান্নাতে ঢোকাবে না। সাহাবীরা জিজ্ঞেস করলেন, আপনাকেও নয় কি। তিনি বললেন, আমাকেও নয়, তবে আল্লাহ যদি নিজের রহমত দিয়ে আমাকে ঢেকে নেন। ৭:৪৩ আয়াতের শেষের ঘোষণার পাশে রাখলে, অর্থাৎ তোমাদের আমলের ফলে তোমরা এর উত্তরাধিকারী হয়েছ, দুটোকে পরস্পরবিরোধী মনে হয়; যতক্ষণ না বাক্যের 'বি' অক্ষরটা মন দিয়ে পড়া হয়।"
+            "bn": "আল-বুখারী ও মুসলিম দুজনেই আবূ হুরায়রা (রাঃ) থেকে বর্ণনা করেন, নবী ﷺ বলেছেন, তোমাদের কাউকে তার আমল জান্নাতে ঢোকাবে না। সাহাবীরা জিজ্ঞেস করলেন, আপনাকেও নয়? তিনি বললেন, আমাকেও নয়, যদি না আল্লাহ নিজের রহমত দিয়ে আমাকে ঢেকে নেন। এবার এর পাশে ৭:৪৩ আয়াতের শেষের ঘোষণাটা রাখুন: তোমরা যে আমল করতে, তার ফলে তোমাদের এর উত্তরাধিকারী করা হয়েছে। দুটো কথা পরস্পরবিরোধী মনে হয়, যতক্ষণ না 'বি' অব্যয়টা মন দিয়ে পড়া হয়।"
           },
           {
             "en": "The classical resolution turns on which ba' is meant. Deeds are the cause Allah appointed for entry, which is what the verse states; they are not a price that buys the Garden at its true worth, which is what the narration denies. The verse makes the point before any commentator does, since the very people told they inherited it for what they did are the ones who say they would never have been guided at all.",
@@ -856,7 +856,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Verses That Sit Alongside",
-          "bn": "পাশে বসা আয়াতগুলো"
+          "bn": "পাশাপাশি পড়ার মতো আয়াত"
         },
         "p": [
           {
@@ -872,7 +872,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Carrying It Into a Week",
-          "bn": "সপ্তাহের ভেতরে নিয়ে যাওয়া"
+          "bn": "আয়াতটি নিয়ে একটি সপ্তাহ"
         },
         "p": [
           {
@@ -881,7 +881,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Then take the ghill, and notice that the verse treats it as cargo rather than as a mood. Cargo can be listed. Most people carrying a grudge can name the person in a second, which means the work here is not discovery but decision. Clearing it may be a message sent, a debt written off, or a du'a made by name for someone you would rather not pray for. The Garden is described as a place where none of this is still being carried.",
-            "bn": "এবার গিল্লের কথা ধরুন, আর খেয়াল করুন আয়াতটি একে মেজাজ নয়, বোঝা হিসেবে দেখছে। বোঝার তালিকা করা যায়। যে মানুষ বিদ্বেষ বয়ে বেড়ায় সে এক সেকেন্ডেই নামটা বলে দিতে পারে, অর্থাৎ এখানে কাজটা খুঁজে বের করার নয়, সিদ্ধান্ত নেওয়ার। বোঝা নামানোর চেহারা হতে পারে একটা বার্তা পাঠানো, পাওনা ছেড়ে দেওয়া, কিংবা যার জন্য দু'আ করতে মন চায় না তার নাম ধরে দু'আ করা। জান্নাতের বর্ণনাই এমন জায়গার, যেখানে এসবের কিছুই আর কারো কাঁধে নেই।"
+            "bn": "এবার গিল্লের কথা ধরুন, আর খেয়াল করুন, আয়াতটি একে মেজাজ হিসেবে নয়, বোঝা হিসেবে দেখছে। বোঝার তালিকা করা যায়। যারা মনে বিদ্বেষ বয়ে বেড়ায়, তাদের বেশির ভাগই এক সেকেন্ডে মানুষটার নাম বলে দিতে পারে। তার মানে এখানে কাজটা খুঁজে বের করার নয়, সিদ্ধান্ত নেওয়ার। বোঝা নামানো মানে হতে পারে একটা বার্তা পাঠানো, পাওনা মাফ করে দেওয়া, কিংবা যার জন্য দু'আ করতে মন চায় না, তার নাম ধরে দু'আ করা। জান্নাতের বর্ণনাই এমন জায়গার, যেখানে এসবের কিছুই আর কারো কাঁধে নেই।"
           }
         ]
       },
@@ -893,11 +893,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse contains its own supplication, already written out as praise. Al-hamdu lillahi alladhi hadana lihadha wa ma kunna linahtadiya lawla an hadana Allah: praise to Allah who guided us to this, and we would never have been guided had Allah not guided us. It is spoken in the Garden, but nothing stops a believer from saying it now, at any moment when he catches himself about to take the credit for his own guidance.",
-            "bn": "আয়াতটির ভেতরেই দু'আ আছে, আর তা লেখা হয়ে আছে হামদের চেহারায়। আলহামদু লিল্লাহিল্লাযী হাদানা লিহাযা ওয়া মা কুন্না লিনাহতাদিয়া লাওলা আন হাদানাল্লাহ; সব প্রশংসা আল্লাহর, যিনি আমাদের এ পথ দেখিয়েছেন, তিনি না দেখালে আমরা কিছুতেই পথ পেতাম না। কথাটা বলা হচ্ছে জান্নাতে, তবে একজন মুমিনের এখনই তা বলতে বাধা নেই। নিজের হিদায়াতের কৃতিত্ব নিজে নিতে যাচ্ছেন বলে যেই মুহূর্তে ধরা পড়ে যান, সেই মুহূর্তেই বলা চলে।"
+            "bn": "আয়াতটির ভেতরেই একটি দু'আ আছে, হামদের আকারে আগেই লেখা: আলহামদু লিল্লাহিল্লাযী হাদানা লিহাযা ওয়া মা কুন্না লিনাহতাদিয়া লাওলা আন হাদানাল্লাহ; সব প্রশংসা আল্লাহর, যিনি আমাদের এ পথ দেখিয়েছেন, তিনি না দেখালে আমরা কিছুতেই পথ পেতাম না। কথাটা বলা হচ্ছে জান্নাতে, তবে একজন মুমিনের এখনই তা বলতে বাধা নেই। যখনই টের পান যে নিজের হিদায়াতের কৃতিত্ব নিজেই নিতে যাচ্ছেন, তখনই বলা যায়।"
           },
           {
             "en": "A short supplication in the vocabulary of these two verses may be added to that, offered as such and not as a transmitted wording. O Allah, You charge no soul beyond its capacity, so never let me plead that I was given more than I could carry. Draw out of my chest whatever I am keeping against Your servants, and do it here, before I am made to stand and face them. And let the first thing I say about every good You give me be that You guided me to it.",
-            "bn": "এর সঙ্গে এই দুই আয়াতের শব্দ ধরে ছোট একটি প্রার্থনা যোগ করা যায়, যা বর্ণিত দু'আ নয়, এভাবেই পেশ করা। হে আল্লাহ, আপনি কারো উপর তার সাধ্যের বাইরে বোঝা চাপান না; আমাকে কখনো এই অজুহাত তুলতে দেবেন না যে বইতে পারার চেয়ে বেশি আমার ঘাড়ে পড়েছিল। আপনার বান্দাদের বিরুদ্ধে যা কিছু আমি বুকে জমিয়ে রেখেছি, তা টেনে বের করে নিন, আর এখানেই নিন; তাদের মুখোমুখি দাঁড় করানোর আগেই। আর আপনার দেওয়া প্রতিটি ভালোর ব্যাপারে আমার প্রথম কথাটি যেন হয়, আপনিই আমাকে সেদিকে পথ দেখিয়েছেন।"
+            "bn": "এর সঙ্গে এই দুই আয়াতের শব্দ ধরে ছোট একটি দু'আ যোগ করা যায়। এটি বর্ণিত কোনো দু'আর শব্দ নয়, নিজের পক্ষ থেকে চাওয়া হিসেবেই দেওয়া হলো। হে আল্লাহ, আপনি কারো উপর তার সাধ্যের বাইরে বোঝা চাপান না; তাই আমাকে কখনো এই অজুহাত তুলতে দেবেন না যে বইতে পারার চেয়ে বেশি আমার ঘাড়ে পড়েছিল। আপনার বান্দাদের বিরুদ্ধে যা কিছু আমি বুকে জমিয়ে রেখেছি, তা টেনে বের করে নিন, আর এখানেই নিন, আমাকে তাদের মুখোমুখি দাঁড় করানোর আগেই। আর আপনার দেওয়া প্রতিটি ভালোর ব্যাপারে আমার প্রথম কথাটি যেন হয়, আপনিই আমাকে সেদিকে পথ দেখিয়েছেন।"
           }
         ]
       },
@@ -909,11 +909,11 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Which obligation have I quietly filed as beyond me, and if the parenthesis in 7:42 is true, what does that filing say about me rather than about the obligation? When was the last time I did something difficult and found afterwards that it had been inside my range all along? And which part of my religion do I treat as reserved for people with more time, more knowledge or more strength than I happen to have?",
-            "bn": "কোন হুকুমটাকে আমি চুপচাপ আমার সাধ্যের বাইরে বলে আলাদা করে রেখেছি, আর ৭:৪২ আয়াতের মাঝখানের কথাটা সত্য হলে সেই আলাদা করে রাখা হুকুমটার ব্যাপারে নয়, আমার ব্যাপারেই কী বলে? শেষ কবে কঠিন একটা কাজ করে ফেলার পর টের পেয়েছি, ওটা তো বরাবরই আমার নাগালের ভেতরেই ছিল? আর দ্বীনের কোন অংশটাকে আমি এমন লোকদের জন্য তোলা বলে ভাবি যাদের সময়, ইলম বা শক্তি আমার চেয়ে বেশি?"
+            "bn": "কোন হুকুমটাকে আমি চুপচাপ আমার সাধ্যের বাইরে বলে সরিয়ে রেখেছি? ৭:৪২ আয়াতের মাঝখানের কথাটা যদি সত্য হয়, তাহলে এই সরিয়ে রাখা হুকুমটার ব্যাপারে নয়, আমার নিজের ব্যাপারেই তা কী বলে? শেষ কবে কঠিন কোনো কাজ করে ফেলার পর টের পেয়েছি, ওটা বরাবরই আমার নাগালের ভেতরে ছিল? আর দ্বীনের কোন অংশটাকে আমি ভাবি কেবল তাদের জন্য তোলা, যাদের সময়, ইলম বা শক্তি আমার চেয়ে বেশি?"
           },
           {
             "en": "Who is the person I would least like to meet on that bridge, and what would it take to settle the matter here instead? When I recount a good thing that happened to me, whose name ends up in the sentence? And if the people of the Garden begin by praising the guidance rather than the gift, what does the order of my own thanks tell me about what I think I was actually given?",
-            "bn": "ওই সেতুর উপর কার সঙ্গে দেখা হোক আমি সবচেয়ে কম চাই, আর সেটা এখানেই মিটিয়ে ফেলতে কী লাগত? নিজের সঙ্গে ঘটা ভালো কোনো ঘটনা বলতে বসলে বাক্যের ভেতর শেষ পর্যন্ত কার নাম থাকে? আর জান্নাতবাসীরা যদি উপহারের আগে হিদায়াতের প্রশংসা দিয়ে শুরু করেন, তাহলে আমার শুকরিয়ার ক্রম আমাকে কী জানায়, আমি আসলে কী পেয়েছি বলে ভাবি সেটা নিয়ে?"
+            "bn": "ওই সেতুর উপর কার মুখোমুখি হতে আমি সবচেয়ে কম চাই, আর ব্যাপারটা এখানেই মিটিয়ে ফেলতে কী লাগবে? নিজের জীবনের ভালো কোনো ঘটনা বলতে বসলে শেষমেশ বাক্যে কার নাম থাকে? আর জান্নাতবাসীরা যদি উপহারের আগে হিদায়াতের জন্য প্রশংসা দিয়ে শুরু করেন, তাহলে আমার শুকরিয়া কোনটা দিয়ে শুরু হয়, তা থেকে কী বোঝা যায়, আমি আসলে কী পেয়েছি বলে মনে করি?"
           }
         ]
       }
@@ -945,7 +945,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "He created the heavens and the earth in six days. The Quran repeats this in several places and nowhere explains why a creation needing no time at all was given a duration. Ibn Kathir observes that He was able to bring it about in the blink of an eye and did not, and reads the six days as a lesson in deliberateness taught to creatures who are always in a hurry. Nothing in the verse suggests effort; the days describe the making, not the Maker.",
-            "bn": "তিনি ছয় দিনে আসমান ও যমীন সৃষ্টি করেছেন। কুরআন কথাটা কয়েক জায়গায় বলে, কিন্তু কোথাও ব্যাখ্যা করে না কেন যে সৃষ্টির কোনো সময়ই লাগে না তাকে একটা সময়সীমা দেওয়া হলো। ইবনু কাসীর বলেন, তিনি চাইলে চোখের পলকে তা করতে পারতেন, করেননি; আর ছয় দিনকে তিনি পড়েন ধীরস্থিরতার পাঠ হিসেবে, যা শেখানো হচ্ছে সদা তাড়াহুড়ো করা সৃষ্টির জন্য। আয়াতে পরিশ্রমের কোনো ইঙ্গিত নেই; দিনগুলো সৃষ্টিকর্মের বর্ণনা, স্রষ্টার নয়।"
+            "bn": "তিনি ছয় দিনে আসমান ও যমীন সৃষ্টি করেছেন। কুরআন কথাটা কয়েক জায়গায় বলে, কিন্তু কোথাও ব্যাখ্যা করে না, যে সৃষ্টির কোনো সময়ই লাগে না, তাকে কেন একটা মেয়াদ দেওয়া হলো। ইবনু কাসীর বলেন, তিনি চাইলে চোখের পলকে তা করতে পারতেন, কিন্তু করেননি। ছয় দিনকে তিনি দেখেন ধীরস্থিরতার শিক্ষা হিসেবে, সবসময় তাড়াহুড়োয় থাকা সৃষ্টির জন্য। আয়াতে পরিশ্রমের কোনো ইঙ্গিত নেই; দিনগুলো সৃষ্টিকর্মের বর্ণনা, স্রষ্টার নয়।"
           },
           {
             "en": "The Quran gives one breakdown of those days, in Surah Fussilat. 41:9 names two days for the earth, 41:10 speaks of the mountains set on it, its blessing and its measured provision determined in four days, and 41:12 completes seven heavens in two. Ibn Kathir reads those four days as including the first two, so the total stays six. Al-Qurtubi raises the question a careful reader will already have: our day is measured by a sun that is itself created inside the six, so the measure cannot be ours. He reports the early view that these are days of a length known to Allah.",
@@ -956,7 +956,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "The Throne, and How It Is Read",
-          "bn": "আরশ, আর তা কীভাবে পড়তে হয়"
+          "bn": "আরশ, আর তা বোঝার নিয়ম"
         },
         "p": [
           {
@@ -965,14 +965,14 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "Notice where the Throne is placed in the sentence. It comes before the night, before the sun, the moon and the stars, so the reader is given the height first and the working parts afterwards. 11:7 adds one detail this verse withholds, that His Throne had been upon water before the heavens and the earth were made. The Quran says just enough on this subject to establish majesty, and it stops at precisely the point where curiosity would like it to continue.",
-            "bn": "বাক্যের ভেতর আরশের জায়গাটা খেয়াল করুন। রাতের আগে, সূর্য চাঁদ আর তারার আগে তার উল্লেখ। ফলে পাঠক আগে পান উচ্চতা, তারপর পান যন্ত্রপাতি। ১১:৭ আয়াত এমন একটি কথা যোগ করে যা এই আয়াত চেপে যায়, আসমান ও যমীন বানানোর আগে তাঁর আরশ ছিল পানির উপর। এ বিষয়ে কুরআন ততটুকুই বলে যতটুকুতে মহিমা প্রতিষ্ঠিত হয়, আর ঠিক সেখানেই থেমে যায় যেখান থেকে কৌতূহল আরও শুনতে চায়।"
+            "bn": "বাক্যের ভেতর আরশের জায়গাটা খেয়াল করুন। রাতের আগে, সূর্য, চাঁদ আর তারার আগে তার উল্লেখ। ফলে পাঠক আগে পান উচ্চতার ছবি, তারপর যা চলছে সেই অংশগুলোর। ১১:৭ আয়াত এমন একটি কথা যোগ করে যা এই আয়াতে নেই: আসমান ও যমীন বানানোর আগে তাঁর আরশ ছিল পানির উপর। এ বিষয়ে কুরআন ততটুকুই বলে যতটুকুতে মহিমা প্রতিষ্ঠিত হয়, আর ঠিক সেখানেই থেমে যায় যেখান থেকে কৌতূহল আরও শুনতে চায়।"
           }
         ]
       },
       {
         "h": {
           "en": "Night, Day, and the Chase",
-          "bn": "রাত, দিন আর ছোটাছুটি"
+          "bn": "রাত, দিন আর পিছু ধাওয়া"
         },
         "p": [
           {
@@ -981,7 +981,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "39:5 settles the direction by stating both outright: He wraps the night over the day and wraps the day over the night. And 36:40 supplies the limit that keeps the chase from ever finishing, since the night does not overtake the day and the sun is not able to reach the moon, each swimming in an orbit. Pursuit without capture, on a timetable nobody involved agreed to. That is the picture 7:54 compresses into a single clause and then leaves behind.",
-            "bn": "৩৯:৫ আয়াত দিকের প্রশ্নটা মিটিয়ে দেয় দুটোই স্পষ্ট করে বলে: রাত দিনকে ঢেকে নেয়, আর দিন ঢেকে নেয় রাতকে। আর ৩৬:৪০ আয়াত সেই সীমাটা এনে দেয় যার কারণে ছোটাছুটিটা কখনো শেষ হয় না, কারণ রাত দিনকে ছাড়িয়ে যেতে পারে না আর সূর্যের পক্ষে চাঁদকে ধরে ফেলা সম্ভব নয়; প্রত্যেকে নিজ কক্ষপথে সাঁতরে চলেছে। ধাওয়া আছে, ধরা নেই, আর সময়সূচিতে জড়িত কেউই রাজি হয়নি। এই ছবিটাই ৭:৫৪ আয়াত এক টুকরো বাক্যে গুছিয়ে রেখে এগিয়ে যায়।"
+            "bn": "৩৯:৫ আয়াত দিকের প্রশ্নটা মিটিয়ে দেয় দুটোই স্পষ্ট করে বলে: তিনি রাতকে দিনের উপর মুড়িয়ে দেন, আর দিনকে মুড়িয়ে দেন রাতের উপর। আর ৩৬:৪০ আয়াত সেই সীমাটা জানিয়ে দেয়, যার কারণে এই ধাওয়া কখনো শেষ হয় না: রাত দিনকে ছাড়িয়ে যেতে পারে না, সূর্যের পক্ষেও চাঁদকে ধরে ফেলা সম্ভব নয়; প্রত্যেকে নিজ কক্ষপথে সাঁতরে চলেছে। ধাওয়া আছে, ধরা নেই, আর সময়সূচিটা এমন যাতে এদের কারো সম্মতি নেওয়া হয়নি। এই ছবিটাই ৭:৫৪ আয়াত এক টুকরো বাক্যে গুছিয়ে রেখে এগিয়ে যায়।"
           },
           {
             "en": "Then the bodies themselves: wash-shamsa wal-qamara wan-nujuma musakhkharatin bi-amrih. Musakhkharat is the passive participle of sakhkhara, to press something into service. The word is used of a thing set to work under another's authority, never of a thing that volunteers. Bi-amrih then ties the whole arrangement to a command rather than to a habit. 16:12 says the same of night, day, sun, moon and stars together, and 13:2 adds that each of them runs for a term already named.",
@@ -1024,7 +1024,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Where the Throne Returns",
-          "bn": "আরশ যেখানে আবার ফেরে"
+          "bn": "আরশের কথা আর যেখানে এসেছে"
         },
         "p": [
           {
@@ -1040,7 +1040,7 @@ Object.assign(TADABBUR_ARTICLES, {
       {
         "h": {
           "en": "Living It, and Asking From It",
-          "bn": "জীবনে চালানো, আর তা থেকে চাওয়া"
+          "bn": "আয়াত নিয়ে চলা, আয়াত থেকে চাওয়া"
         },
         "p": [
           {
