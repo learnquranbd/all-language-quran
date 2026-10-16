@@ -2141,7 +2141,7 @@ Object.assign(TADABBUR_ARTICLES, {
           },
           {
             "en": "The exception in 38:83 is the open door. Iblis himself conceded that he could not take Allah's sincere servants among them. The way out of the group this verse names is to be among those servants, and to stop following the moment the wrong voice is recognised, while there is still time to stop. The oath is a warning spoken in truth, and the One who swore it says only the truth. Read rightly, it is also a direction: away from the one who swore to mislead, towards the One who swore by the truth.",
-            "bn": "৩৮:৮৩ আয়াতের ব্যতিক্রমটাই খোলা দরজা। ইবলীস নিজেই মেনে নিয়েছে, আল্লাহর একনিষ্ঠ বান্দাদের সে কবজা করতে পারবে না। এ আয়াত যে দলের কথা বলে, তা থেকে বেরোনোর পথ ওই বান্দাদের দলে থাকা। আর ভুল কণ্ঠস্বর চেনামাত্র তার পিছু নেওয়া থামিয়ে দেওয়া, যতক্ষণ থামানোর সময় আছে। কসমটা সত্যের সঙ্গে উচ্চারিত এক সতর্কবাণী, আর যিনি কসম করেছেন তিনি সত্য ছাড়া কিছু বলেন না। ঠিকভাবে পড়লে এটা একটা দিকনির্দেশও। যে পথভ্রষ্ট করার কসম খেয়েছে, তার কাছ থেকে সরে আসা। আর যিনি সত্যের নামে কসম করেছেন, তাঁর দিকে ফেরা।"
+            "bn": "৩৮:৮৩ আয়াতের ব্যতিক্রমটাই আশার পথ খোলা রাখে। ইবলীস নিজেই মেনে নিয়েছে, আল্লাহর একনিষ্ঠ বান্দাদের সে কবজা করতে পারবে না। এ আয়াত যে দলের কথা বলছে, তা থেকে বেরিয়ে আসার পথ হলো ওই বান্দাদের একজন হওয়া। আর ভুল কণ্ঠস্বর চিনতে পারামাত্র তার পিছু নেওয়া ছেড়ে দেওয়া, থামার সময় থাকতে থাকতেই। এই কসম এক সত্য সতর্কবাণী, আর যিনি কসম করেছেন তিনি সত্য ছাড়া কিছু বলেন না। ঠিকভাবে পড়লে এটা পথও দেখায়: যে পথভ্রষ্ট করার কসম খেয়েছে, তার কাছ থেকে সরে আসা, আর যিনি সত্যের নামে কসম করেছেন, তাঁর দিকে ফেরা।"
           }
         ]
       }
