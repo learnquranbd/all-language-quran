@@ -567,6 +567,7 @@ class KidsQaida {
           <div id="kids-letter-examples" class="w-full mt-4">
             <p class="text-center text-xs text-gray-400">${t('loading', lang)}</p>
           </div>
+          <div id="kids-letter-practice" class="w-full mt-4"></div>
         </div>
       </div>
     `;
@@ -617,6 +618,43 @@ class KidsQaida {
     }
   }
 
+  /**
+   * The 8 most common Quran words in which the letter is pronounced (tap to
+   * hear, same chips as the surah view), plus a button into Tajweed → Letter
+   * practice for the full 50 words and the top ayahs.
+   */
+  async loadLetterPractice(letterChar, lang) {
+    const host = this.root.querySelector('#kids-letter-practice');
+    if (!host || typeof LetterPracticeRules === 'undefined') return;
+    try {
+      const data = await LetterPracticeRules.load();
+      if (this.expandedLetter !== letterChar) return; // collapsed meanwhile
+      const L = data.letters[letterChar];
+      if (!L) return;
+      const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+      const pad = n => String(n).padStart(3, '0');
+      const hl = w => LetterPracticeRules.analyse(w).map(c => c.key === letterChar
+        ? '<span class="text-rose-600 dark:text-rose-400 font-bold">' + esc(c.text) + '</span>' : esc(c.text)).join('');
+      const chips = L.words.slice(0, 8).map(w => {
+        const [s, a, i] = w.r.split(':');
+        return `
+          <button data-kids-word-audio="https://audio.qurancdn.com/wbw/${pad(s)}_${pad(a)}_${pad(i)}.mp3"
+                  class="kq-wordchip rounded-xl bg-white/70 dark:bg-gray-900/40 hover:bg-white dark:hover:bg-gray-900 p-2 text-center">
+            <span class="ayah-arabic !text-2xl !leading-[2] block" dir="rtl">${hl(w.w)}</span>
+            <span class="block text-[10px] text-gray-400">🔊 ×${w.n}</span>
+          </button>`;
+      }).join('');
+      host.innerHTML = `
+        <p class="text-center text-xs text-gray-500 dark:text-gray-400 mb-2">${t('kids_lp_words', lang)}</p>
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-2" dir="rtl">${chips}</div>
+        <div class="text-center mt-3">
+          <button data-kids-lp-open="${letterChar}" class="px-4 py-2 rounded-full bg-primary text-white text-sm font-bold hover:bg-primary/80">🔤 ${t('kids_lp_more', lang)}</button>
+        </div>`;
+    } catch (err) {
+      host.innerHTML = '';
+    }
+  }
+
   /** Highlight the target letter inside a diacritized word (first matching base letter). */
   hlLetter(word, letterChar) {
     const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
@@ -629,7 +667,7 @@ class KidsQaida {
         // include trailing marks
         let j = i + 1;
         while (j < word.length && /[ً-ٰٟۖ-ۭـ]/.test(word[j])) j++;
-        out += '<span class="bg-amber-300 dark:bg-amber-500/70 rounded">' + esc(word.slice(i, j)) + '</span>';
+        out += '<span class="text-rose-600 dark:text-rose-400 font-bold">' + esc(word.slice(i, j)) + '</span>';
         i = j - 1; done = true;
       } else {
         out += esc(ch);
@@ -2208,6 +2246,14 @@ class KidsQaida {
       return;
     }
 
+    // "More words and ayahs" → Tajweed → Letter practice on this letter
+    const lpOpen = e.target.closest('[data-kids-lp-open]');
+    if (lpOpen) {
+      if (typeof tabSystem !== 'undefined' && tabSystem) tabSystem.switchTab('tajweedlearn');
+      if (typeof tajweedLearn !== 'undefined' && tajweedLearn) tajweedLearn.openLetters(lpOpen.getAttribute('data-kids-lp-open'));
+      return;
+    }
+
     // An example word → show its verse in a modal (stay in the kids view)
     const exBtn = e.target.closest('[data-kids-example-verse]');
     if (exBtn) {
@@ -2225,6 +2271,7 @@ class KidsQaida {
       if (this.expandedLetter) {
         this.speakArabic(letter.name);
         this.loadLetterExamples(char, this.language); // async fill example words
+        this.loadLetterPractice(char, this.language); // most common Quran words with the letter
       }
       return;
     }

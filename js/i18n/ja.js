@@ -1420,6 +1420,8 @@
  "quiz_same_root_name": "同じ語根",
  "quiz_same_root_desc": "共通の語根で作られた単語を見つけよう",
  "letter_examples": "この文字を含む語",
+ "kids_lp_words": "この文字が入った、クルアーンでよく出てくる言葉。タップして聞いてみよう！",
+ "kids_lp_more": "もっと多くの言葉と節で練習しよう",
  "kids_numbers": "すうじ",
  "kids_surahs": "スーラ",
  "kids_duas": "ドゥアー",

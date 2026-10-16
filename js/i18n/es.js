@@ -1420,6 +1420,8 @@
  "quiz_same_root_name": "Misma raíz",
  "quiz_same_root_desc": "Encuentra la palabra formada sobre una raíz común",
  "letter_examples": "Palabras con esta letra",
+ "kids_lp_words": "Las palabras del Corán más frecuentes con esta letra. ¡Toca para escuchar!",
+ "kids_lp_more": "Más palabras y versículos para practicar",
  "kids_numbers": "Números",
  "kids_surahs": "Suras",
  "kids_duas": "Súplicas",

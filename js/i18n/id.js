@@ -1420,6 +1420,8 @@
  "quiz_same_root_name": "Akar Sama",
  "quiz_same_root_desc": "Temukan kata yang dibangun dari akar yang sama",
  "letter_examples": "Kata dengan huruf ini",
+ "kids_lp_words": "Kata-kata Al-Qur'an yang paling sering muncul dengan huruf ini. Ketuk untuk mendengar!",
+ "kids_lp_more": "Latihan dengan lebih banyak kata dan ayat",
  "kids_numbers": "Angka",
  "kids_surahs": "Surah",
  "kids_duas": "Doa",

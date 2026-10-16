@@ -556,7 +556,7 @@ class TajweedLearn {
     const lang = this.language;
     const glossLang = ['en', 'bn', 'ur', 'id', 'tr', 'fa', 'hi'].includes(lang) ? lang : (lang === 'ar' ? null : 'en');
     const need = [];
-    if (!this.lpData) need.push(fetch('data/letter-practice/core.json').then(r => r.json()).then(d => { this.lpData = d; }));
+    if (!this.lpData) need.push(LetterPracticeRules.load().then(d => { this.lpData = d; }));
     if (glossLang && !this.lpGloss[glossLang]) {
       need.push(fetch(`data/letter-practice/gloss-${glossLang}.json`).then(r => r.json())
         .then(d => { this.lpGloss[glossLang] = d; }).catch(() => { this.lpGloss[glossLang] = {}; }));
@@ -571,6 +571,16 @@ class TajweedLearn {
       const box = this.container.querySelector('#lp-panel');
       if (box) box.innerHTML = `<p class="text-center text-gray-400 text-sm py-6">${this.tt('tj_no_examples')}</p>`;
     });
+  }
+
+  /** Open Letter practice, optionally on a given letter (sidebar entry, Kids letter cards). */
+  openLetters(letter) {
+    this.view = 'letters';
+    if (letter && LETTER_PRACTICE_LETTERS.some(l => l.key === letter)) {
+      this.lpLetter = letter;
+      try { localStorage.setItem('tajweedLetter', letter); } catch (e) { /* ignore */ }
+    }
+    this.render();
   }
 
   /** The makhraj point of a letter (consonant و / ي use their lip / tongue point, not al-jawf). */

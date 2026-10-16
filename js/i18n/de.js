@@ -1420,6 +1420,8 @@
  "quiz_same_root_name": "Gleiche Wurzel",
  "quiz_same_root_desc": "Finde das Wort mit gemeinsamer Wurzel",
  "letter_examples": "Wörter mit diesem Buchstaben",
+ "kids_lp_words": "Die häufigsten Wörter im Koran mit diesem Buchstaben. Tippe zum Anhören!",
+ "kids_lp_more": "Mehr Wörter und Verse zum Üben",
  "kids_numbers": "Zahlen",
  "kids_surahs": "Suren",
  "kids_duas": "Bittgebete",

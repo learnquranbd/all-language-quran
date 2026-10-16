@@ -734,6 +734,8 @@ const TRANSLATIONS = {
    "hw_draw_first": "Trace the letter first, then check.",
    "hw_progress": "Practiced",
    "letter_examples": "Words with this letter",
+   "kids_lp_words": "Most common Quran words with this letter. Tap to listen!",
+   "kids_lp_more": "More words and ayahs to practise",
    "kids_numbers": "Numbers",
    "kids_kalimas": "Kalimas",
    "kids_themes": "Word Fun",

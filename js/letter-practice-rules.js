@@ -112,7 +112,18 @@ var LetterPracticeRules = (function () {
     return cl.map(function (c) { return c.text; }).join('');
   }
 
-  return { analyse: analyse, count: count, wordKey: wordKey };
+  /** data/letter-practice/core.json, fetched once and shared by every view. */
+  var dataP = null;
+  function load() {
+    if (!dataP) {
+      dataP = fetch('data/letter-practice/core.json')
+        .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .catch(function (e) { dataP = null; throw e; });
+    }
+    return dataP;
+  }
+
+  return { analyse: analyse, count: count, wordKey: wordKey, load: load };
 })();
 
 if (typeof module !== 'undefined') module.exports = { LETTER_PRACTICE_LETTERS: LETTER_PRACTICE_LETTERS, LetterPracticeRules: LetterPracticeRules };

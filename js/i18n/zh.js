@@ -1420,6 +1420,8 @@
  "quiz_same_root_name": "相同词根",
  "quiz_same_root_desc": "找出基于共同词根构成的词",
  "letter_examples": "含此字母的词",
+ "kids_lp_words": "《古兰经》中含有这个字母的最常见词语。点一点来听！",
+ "kids_lp_more": "用更多词语和经文来练习",
  "kids_numbers": "数字",
  "kids_surahs": "苏拉",
  "kids_duas": "杜阿",

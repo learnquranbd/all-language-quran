@@ -1420,6 +1420,8 @@
  "quiz_same_root_name": "Même racine",
  "quiz_same_root_desc": "Trouvez le mot construit sur une racine commune",
  "letter_examples": "Mots avec cette lettre",
+ "kids_lp_words": "Les mots du Coran les plus fréquents avec cette lettre. Touche pour écouter !",
+ "kids_lp_more": "Plus de mots et de versets pour t'entraîner",
  "kids_numbers": "Nombres",
  "kids_surahs": "Sourates",
  "kids_duas": "Invocations",

@@ -39,7 +39,8 @@ const APP_NAV_PRIMARY = [
       { module: 'vocab',       emoji: '📚', label: 'learn_vocab_title' },
       { module: 'kids',        emoji: '🧒', label: 'learn_kids_title' },
       { module: 'handwriting', emoji: '✍️', label: 'hw_title' },
-      { tab: 'tajweedlearn', emoji: '🎨', label: 'tj_learn_title' }
+      { tab: 'tajweedlearn', emoji: '🎨', label: 'tj_learn_title' },
+      { tab: 'tajweedlearn', drill: 'letters', emoji: '🔤', label: 'tj_nav_letters' }
     ] },
   { id: 'allah', emoji: '☝️', label: 'th_group_allah', children: [
       { tab: 'names', emoji: '✨', label: 'learn_names_title' },
@@ -276,6 +277,7 @@ class AppNav {
   _handlePopupClick(btn) {
     const drill = btn.getAttribute('data-popup-drill');
     if (drill === 'legacy') { this.showLegacy(); this.closeSidebarMobile(); return; }
+    if (drill === 'letters') { this._hidePopup(); this.openLetterPractice(); return; }
     const kind = btn.getAttribute('data-popup-kind');
     const key = btn.getAttribute('data-popup-child');
     if (kind === 'children') {
@@ -434,6 +436,7 @@ class AppNav {
       btn.addEventListener('click', () => {
         const drill = btn.getAttribute('data-drill');
         if (drill === 'legacy') { this.showLegacy(); this.closeSidebarMobile(); return; }
+        if (drill === 'letters') { this.openLetterPractice(); return; }
         const kind = btn.getAttribute('data-kind');
         if (kind === 'children') {
           const key = btn.getAttribute('data-child');
@@ -499,6 +502,13 @@ class AppNav {
     this.switchTab('learn');
     // learn.js listens for this and reveals the matching root; the module renders itself.
     window.dispatchEvent(new CustomEvent('learnModuleSelected', { detail: { module } }));
+    this.closeSidebarMobile();
+  }
+
+  /** Tajweed → Letter practice view (a view inside the tajweedlearn tab, not a tab of its own). */
+  openLetterPractice() {
+    this.switchTab('tajweedlearn');
+    if (typeof tajweedLearn !== 'undefined' && tajweedLearn) tajweedLearn.openLetters();
     this.closeSidebarMobile();
   }
 

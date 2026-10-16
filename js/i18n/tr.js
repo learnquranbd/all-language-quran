@@ -1420,6 +1420,8 @@
  "quiz_same_root_name": "Aynı Kök",
  "quiz_same_root_desc": "Ortak köke dayanan kelimeyi bulun",
  "letter_examples": "Bu harfli kelimeler",
+ "kids_lp_words": "Bu harfin geçtiği, Kur'an'da en sık geçen kelimeler. Dinlemek için dokun!",
+ "kids_lp_more": "Daha çok kelime ve ayetle çalış",
  "kids_numbers": "Sayılar",
  "kids_surahs": "Sureler",
  "kids_duas": "Dualar",

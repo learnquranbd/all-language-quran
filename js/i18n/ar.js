@@ -1420,6 +1420,8 @@
  "quiz_same_root_name": "نفس الجذر",
  "quiz_same_root_desc": "ابحث عن الكلمة المبنية على جذر مشترك",
  "letter_examples": "كلمات بهذا الحرف",
+ "kids_lp_words": "أكثر كلمات القرآن ورودًا بهذا الحرف. اضغط لتسمع!",
+ "kids_lp_more": "مزيد من الكلمات والآيات للتدريب",
  "kids_numbers": "الأرقام",
  "kids_surahs": "السور",
  "kids_duas": "الأدعية",
