@@ -325,7 +325,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Imam Ahmad records that Mu'adh ibn Jabal (RA) asked the Prophet ﷺ for a deed that would admit him to Paradise and keep him from the Fire. After naming the pillars, the Prophet ﷺ said: shall I not direct you to the gates of goodness? Fasting is a shield, charity extinguishes sin, and the prayer of a man in the depth of the night — and then he recited this verse and 32:17 after it. The report was recorded by at-Tirmidhi, an-Nasa'i and Ibn Majah as well; at-Tirmidhi graded it hasan sahih.",
-            "bn": "ইমাম আহমাদ বর্ণনা করেন যে মুআয ইবনে জাবাল (রাঃ) নবী ﷺ-এর কাছে এমন একটি আমল জানতে চান যা তাঁকে জান্নাতে প্রবেশ করাবে ও জাহান্নাম থেকে দূরে রাখবে। স্তম্ভগুলোর নাম নেওয়ার পর নবী ﷺ বলেন: আমি কি তোমাকে কল্যাণের দরজাগুলো দেখিয়ে দেব না? রোযা ঢাল, সাদাকা গুনাহ নিভিয়ে দেয়, আর রাতের গভীরে মানুষের নামায — এরপর তিনি এই আয়াতটি এবং তার পরের 32:17 আয়াতটি পড়ে শোনান। বর্ণনাটি তিরমিযী, নাসাঈ ও ইবনে মাজাহও লিপিবদ্ধ করেছেন; তিরমিযী একে হাসান সহীহ বলেছেন।"
+            "bn": "ইমাম আহমাদ বর্ণনা করেন যে মুআয ইবনে জাবাল (রাঃ) নবী ﷺ-এর কাছে এমন একটি আমল জানতে চান যা তাঁকে জান্নাতে প্রবেশ করাবে ও জাহান্নাম থেকে দূরে রাখবে। স্তম্ভগুলোর নাম নেওয়ার পর নবী ﷺ বলেন: আমি কি তোমাকে কল্যাণের দরজাগুলো দেখিয়ে দেব না? রোজা ঢাল, সাদাকা গুনাহ নিভিয়ে দেয়, আর রাতের গভীরে মানুষের নামাজ — এরপর তিনি এই আয়াতটি এবং তার পরের 32:17 আয়াতটি পড়ে শোনান। বর্ণনাটি তিরমিযী, নাসাঈ ও ইবনে মাজাহও লিপিবদ্ধ করেছেন; তিরমিযী একে হাসান সহীহ বলেছেন।"
           }
         ]
       }
@@ -433,7 +433,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "The verse just before is severe: who is more unjust than whoever is reminded of his Lord's signs, then turns away? From the criminals Allah will take retribution. Then, without pause, comes a different register. Wa-laqad ātaynā Mūsā al-Kitāb — and We certainly gave Mūsā the Book. The oath-particle la and the past tense qad together close the matter: this already happened, it is beyond dispute, and the Prophet ﷺ is being steadied against the rejection the earlier verse described.",
-            "bn": "এর আগের আয়াতটা কঠোর: যাকে তার রবের নিদর্শন দিয়ে উপদেশ দেওয়া হয় অথচ সে মুখ ফিরিয়ে নেয়, তার চেয়ে বড় যালিম আর কে? অপরাধীদের কাছ থেকে আল্লাহ প্রতিশোধ নেবেন। এরপরই কোনো বিরতি ছাড়া আসে অন্য এক সুর। ওয়ালাক্বাদ আতাইনা মূসাল কিতাব — আমি তো মূসাকে কিতাব দিয়েছিলাম। কসমের লা আর অতীতকালের ক্বাদ মিলে কথাটা চূড়ান্ত করে দেয়: এটা ঘটে গেছে, এতে তর্কের অবকাশ নেই। আগের আয়াত যে প্রত্যাখ্যানের ছবি আঁকল, তার মুখে নবী ﷺ-কে এখানে স্থির করা হচ্ছে।"
+            "bn": "এর আগের আয়াতটা কঠোর: যাকে তার রবের নিদর্শন দিয়ে উপদেশ দেওয়া হয় অথচ সে মুখ ফিরিয়ে নেয়, তার চেয়ে বড় জালিম আর কে? অপরাধীদের কাছ থেকে আল্লাহ প্রতিশোধ নেবেন। এরপরই কোনো বিরতি ছাড়া আসে অন্য এক সুর। ওয়ালাক্বাদ আতাইনা মূসাল কিতাব — আমি তো মূসাকে কিতাব দিয়েছিলাম। কসমের লা আর অতীতকালের ক্বাদ মিলে কথাটা চূড়ান্ত করে দেয়: এটা ঘটে গেছে, এতে তর্কের অবকাশ নেই। আগের আয়াত যে প্রত্যাখ্যানের ছবি আঁকল, তার মুখে নবী ﷺ-কে এখানে স্থির করা হচ্ছে।"
           },
           {
             "en": "At-Tabari reads the link plainly: We gave Mūsā the Torah, O Muḥammad, just as We gave you the Furqān. Al-Muyassar keeps the very same line — as We gave you the Qur'an, O Messenger, so We gave him the Scripture. The sentence is built as a comparison before it says anything about doubt. The Prophet ﷺ is not the first to carry a Book to a resisting people; one came before him, to a messenger before him, and that is the ground on which the next clause rests.",
