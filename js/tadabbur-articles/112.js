@@ -85,7 +85,7 @@ Object.assign(TADABBUR_ARTICLES, {
         "p": [
           {
             "en": "Al-Bukhari relates that the Prophet ﷺ said this surah is equal to a third of the Quran. Scholars have explained the weighing by the Quran's great themes — who Allah is, what He commands, and what He has done and will do — and this surah carries the first theme whole. Four short verses hold the entire doctrine of tawheed without one word to spare.",
-            "bn": "আল-বুখারী বর্ণনা করেছেন, নবী ﷺ বলেছেন: এই সূরা কুরআনের এক-তৃতীয়াংশের সমান। আলিমগণ এই হিসাবের ব্যাখ্যা দিয়েছেন কুরআনের বড় বড় বিষয় দিয়ে: আল্লাহ কে, তিনি কী আদেশ করেন, আর তিনি কী করেছেন ও করবেন। এই সূরা প্রথম বিষয়টি পুরোটাই ধারণ করে। মাত্র চারটি ছোট আয়াতে তাওহীদের গোটা আকীদা, একটি শব্দও বাড়তি নেই।"
+            "bn": "আল-বুখারী বর্ণনা করেছেন, নবী ﷺ বলেছেন: এই সূরা কুরআনের এক-তৃতীয়াংশের সমান। আলিমগণ এই হিসাবের ব্যাখ্যা দিয়েছেন কুরআনের বড় বড় বিষয় দিয়ে: আল্লাহ কে, তিনি কী আদেশ করেন, আর তিনি কী করেছেন ও করবেন। এই সূরা প্রথম বিষয়টি পুরোটাই ধারণ করে। মাত্র চারটি ছোট আয়াতে তাওহিদের গোটা আকীদা, একটি শব্দও বাড়তি নেই।"
           },
           {
             "en": "Al-Bukhari also relates the man who led prayer and ended every recitation with this surah; asked why, he said: because it is the description of the Most Merciful, and I love to recite it. The Prophet ﷺ said: tell him that Allah loves him. And Aisha (RA) reports that every night the Prophet ﷺ would recite this surah with the two surahs of refuge, blow into his palms and wipe over his body.",
