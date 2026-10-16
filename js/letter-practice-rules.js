@@ -48,6 +48,63 @@ var LETTER_PRACTICE_LETTERS = [
   { key: 'ء', name: 'هَمْزَة', translit: 'Hamza' }
 ];
 
+/**
+ * The classical characteristics (sifat) of the letters, as in al-Jazari's
+ * Muqaddimah. The first five are opposite pairs, so every letter has exactly
+ * one of each; the rest belong only to the letters listed. Hamza and alif are
+ * included (alif as the madd letter).
+ */
+var LETTER_SIFAT = {
+  opposites: [
+    ['hams', 'فحثهشخصسكت', 'jahr'],
+    ['shiddah', 'ءأجدقطبكت', 'rakhawah', 'tawassut', 'لنعمر'],
+    ['istila', 'خصضغطقظ', 'istifal'],
+    ['itbaq', 'صضطظ', 'infitah'],
+    ['idhlaq', 'فرمنلب', 'ismat']
+  ],
+  single: [
+    ['safir', 'صزس'], ['qalqalah', 'قطبجد'], ['leen', 'وي'], ['inhiraf', 'لر'],
+    ['takrir', 'ر'], ['tafashshi', 'ش'], ['istitalah', 'ض'], ['ghunnah', 'نم']
+  ],
+  arabic: {
+    hams: 'الهمس', jahr: 'الجهر', shiddah: 'الشدة', tawassut: 'التوسط', rakhawah: 'الرخاوة',
+    istila: 'الاستعلاء', istifal: 'الاستفال', itbaq: 'الإطباق', infitah: 'الانفتاح',
+    idhlaq: 'الإذلاق', ismat: 'الإصمات', safir: 'الصفير', qalqalah: 'القلقلة', leen: 'اللين',
+    inhiraf: 'الانحراف', takrir: 'التكرير', tafashshi: 'التفشي', istitalah: 'الاستطالة', ghunnah: 'الغنة'
+  },
+  names: {
+    hams: 'Hams', jahr: 'Jahr', shiddah: 'Shiddah', tawassut: 'Tawassut', rakhawah: 'Rakhawah',
+    istila: "Isti'la", istifal: 'Istifal', itbaq: 'Itbaq', infitah: 'Infitah', idhlaq: 'Idhlaq',
+    ismat: 'Ismat', safir: 'Safir', qalqalah: 'Qalqalah', leen: 'Leen', inhiraf: 'Inhiraf',
+    takrir: 'Takrir', tafashshi: 'Tafashshi', istitalah: 'Istitalah', ghunnah: 'Ghunnah'
+  },
+  /** Sifat keys of one letter, opposites first. */
+  of: function (key) {
+    var k = key === 'ء' ? 'ء' : key, out = [];
+    this.opposites.forEach(function (o) {
+      if (o[1].indexOf(k) >= 0) out.push(o[0]);
+      else if (o[4] && o[4].indexOf(k) >= 0) out.push(o[3]);
+      else out.push(o[2]);
+    });
+    this.single.forEach(function (o) { if (o[1].indexOf(k) >= 0) out.push(o[0]); });
+    return out;
+  },
+  /** 'heavy' (isti'la letters), 'rule' (ر, ل, ا change with context) or 'light'. */
+  weight: function (key) {
+    if ('خصضغطقظ'.indexOf(key) >= 0) return 'heavy';
+    if ('رلا'.indexOf(key) >= 0) return 'rule';
+    return 'light';
+  }
+};
+
+/**
+ * Letters non-Arab learners commonly confuse (Bengali speakers in particular
+ * read ج ز ذ ظ alike). Minimal pairs for these come from the corpus in
+ * tools/letter-practice/build.js.
+ */
+var LETTER_CONFUSABLE = [['ء', 'ع'], ['ه', 'ح'], ['ح', 'خ'], ['ك', 'ق'], ['ت', 'ط'], ['د', 'ض'], ['س', 'ص'],
+  ['ث', 'س'], ['ش', 'س'], ['ذ', 'ز'], ['ز', 'ظ'], ['ذ', 'ظ'], ['ض', 'ظ'], ['ج', 'ز'], ['ع', 'غ']];
+
 var LetterPracticeRules = (function () {
   var MARK = /[\u064B-\u065F\u0670\u06D6-\u06ED]/;
   var VOICED = /[\u064B-\u0653\u0654]/;        // tanween, harakat, shadda, sukun, maddah, hamza above
@@ -148,4 +205,4 @@ var LetterPracticeRules = (function () {
   return { analyse: analyse, count: count, wordKey: wordKey, load: load, occurrences: occurrences };
 })();
 
-if (typeof module !== 'undefined') module.exports = { LETTER_PRACTICE_LETTERS: LETTER_PRACTICE_LETTERS, LetterPracticeRules: LetterPracticeRules };
+if (typeof module !== 'undefined') module.exports = { LETTER_PRACTICE_LETTERS: LETTER_PRACTICE_LETTERS, LETTER_SIFAT: LETTER_SIFAT, LETTER_CONFUSABLE: LETTER_CONFUSABLE, LetterPracticeRules: LetterPracticeRules };

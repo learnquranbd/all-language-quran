@@ -13,6 +13,9 @@
  *          (ties: the shorter ayah first).
  *   dense: the 10 ayahs of at least 4 words where the letter makes up the
  *          largest share of the pronounced letters (short drill ayahs).
+ * pairs: for each confusable pair (LETTER_CONFUSABLE), up to 6 minimal pairs:
+ *        two Quranic words that are spelt alike except that one pronounced
+ *        letter is swapped (أَلِيمٌ / عَلِيمٌ). Ranked by the rarer word's count.
  *
  * Glosses come from data/wbw/<lang>.json for the languages that have native
  * word-by-word data; the page falls back to English for the rest.
@@ -20,7 +23,7 @@
 const fs = require('fs');
 const path = require('path');
 const ROOT = path.join(__dirname, '../..');
-const { LETTER_PRACTICE_LETTERS, LetterPracticeRules: R } = require(path.join(ROOT, 'js/letter-practice-rules.js'));
+const { LETTER_PRACTICE_LETTERS, LETTER_CONFUSABLE, LetterPracticeRules: R } = require(path.join(ROOT, 'js/letter-practice-rules.js'));
 
 const WORDS = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/quran-words.json'), 'utf8'));
 const OUT = path.join(ROOT, 'data/letter-practice');
@@ -84,8 +87,50 @@ for (const k of keys) {
   };
 }
 
+// Minimal pairs. forms: wordKey -> most frequent spelling, its count and first ref.
+const forms = {};
+for (const ref of Object.keys(WORDS)) {
+  WORDS[ref].forEach((w, i) => {
+    const k = R.wordKey(w);
+    const f = forms[k] || (forms[k] = { n: 0, spell: {} });
+    f.n++;
+    const sp = f.spell[w] || (f.spell[w] = { n: 0, r: ref + ':' + (i + 1) });
+    sp.n++;
+  });
+}
+for (const k of Object.keys(forms)) {
+  const [w, sp] = Object.entries(forms[k].spell).sort((a, b) => b[1].n - a[1].n)[0];
+  forms[k].w = w; forms[k].r = sp.r;
+}
+const HAMZA_SEATS = 'ءأإ';
+const pairs = [];
+for (const [x, y] of LETTER_CONFUSABLE) {
+  const found = new Map();
+  const scan = (from, to) => {
+    for (const k of Object.keys(forms)) {
+      const cl = R.analyse(forms[k].w);
+      cl.forEach((c, i) => {
+        if (c.key !== from) return;
+        if (from === 'ء' ? HAMZA_SEATS.indexOf(c.base) < 0 : c.base !== from) return;
+        const swapped = cl.map((d, j) => (j === i ? to + d.marks : d.text)).join('');
+        if (R.analyse(swapped)[i].key !== to) return;
+        const g = forms[R.wordKey(swapped)];
+        if (!g || g === forms[k]) return;
+        const a = from === x ? forms[k] : g, b = from === x ? g : forms[k];
+        const id = a.w + '|' + b.w;
+        if (!found.has(id)) found.set(id, [a.w, a.r, a.n, b.w, b.r, b.n]);
+      });
+    }
+  };
+  scan(x, y);
+  scan(y, x);
+  const top = [...found.values()].sort((p, q) => Math.min(q[2], q[5]) - Math.min(p[2], p[5])).slice(0, 6);
+  top.forEach((p) => { refsForGloss.add(p[1]); refsForGloss.add(p[4]); });
+  if (top.length) pairs.push([x, y, top]);
+}
+
 fs.mkdirSync(OUT, { recursive: true });
-fs.writeFileSync(path.join(OUT, 'core.json'), JSON.stringify({ letters, ayahs: ayahText }));
+fs.writeFileSync(path.join(OUT, 'core.json'), JSON.stringify({ letters, ayahs: ayahText, pairs }));
 
 for (const lang of GLOSS_LANGS) {
   const wbw = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/wbw', lang + '.json'), 'utf8'));
@@ -99,5 +144,6 @@ for (const lang of GLOSS_LANGS) {
 }
 
 const size = (f) => (fs.statSync(path.join(OUT, f)).size / 1024).toFixed(0) + ' KB';
-console.log('letters', keys.length, '| ayah texts', Object.keys(ayahText).length, '| gloss refs', refsForGloss.size);
+console.log('letters', keys.length, '| ayah texts', Object.keys(ayahText).length, '| gloss refs', refsForGloss.size,
+  '| minimal pairs', pairs.reduce((s, p) => s + p[2].length, 0), 'in', pairs.length, 'letter pairs');
 console.log('core.json', size('core.json'), '| gloss-bn.json', size('gloss-bn.json'));
